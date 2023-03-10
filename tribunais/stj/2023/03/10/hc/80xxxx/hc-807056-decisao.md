@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de FÁBIO LUIZ HERNANDEZ contra acórdão do Tribunal de Justiça do Estado de São Paulo, no julgamento da Apelação Criminal n. 0001718-37.2017.8.26.0616.
+Consta dos autos que o paciente foi condenado, em primeira instância, às penas de 5 anos de reclusão, em regime inicial fechado, além do pagamento de 500 dias-multa, pela prática do delito tipificado no art. 33, caput, da Lei n. 11.343/2006 (e-STJ, fls. 130/134).
+Inconformada, a defesa apelou e o Tribunal a quo negou provimento ao recurso (e-STJ, fls. 142/148). O acórdão trouxe a seguinte ementa:
+1. Apelação Criminal Tráfico de entorpecente.
+2. Materialidade e autoria não impugnadas e demonstradas pela prova coligida.
+3. Pena fixada com razoabilidade, justificadamente e dentro dos limites legais, e que não comporta redução. Pena-base fixada no mínimo legal não pode ser reduzida em face da presença de circunstância atenuante (Súmula 231 do STJ) Prova que, apesar da primariedade do réu, revela dedicação à atividade criminosa Afastamento da causa de diminuição de pena prevista no § 4º do artigo 33 da Lei nº 11.343/06.
+4. Inviabilidade de substituição da pena privativa de liberdade por restritivas de direitos e de fixação de regime prisional mais brando à vista das circunstâncias do caso concreto e de expressa previsão legal.
+5. Recurso não provido.
+Opostos embargos de declaração, foram os mesmos rejeitados (e-STJ fls. 163/169).
+Nesse writ (e-STJ, fls. 3/12), a impetrante alega que o acórdão recorrido impôs constrangimento ilegal ao paciente em razão da utilização de condenação anterior cuja punibilidade se exauriu há mais de 10 (dez) anos para negativar os maus antecedentes e, com isso, impedir a aplicação do redutor do tráfico privilegiado, indicando desproporcionalidade entre a menção legal e o conceito de maus antecedentes (e-STJ fl. 5). Sustenta, também, que não há motivação idônea a justificar o estabelecimento de regime inicial de cumprimento de pena mais gravoso.
+Ao final, requer o impetrante a concessão LIMINAR da ordem, com a imediata expedição de alvará de soltura em favor do paciente, para que aguarde em liberdade o regular trâmite do writ e, no mérito, seja determinada a ilicitude da prisão do agente e consequente trancamento da ação penal (e-STJ fl. 12).
+É o relatório. Decido.
+De início, verifica-se que o presente habeas corpus revela deficiência de fundamentação, pois não há pertinência lógica entre a motivação apresentada - constrangimento ilegal no afastamento da redutora do tráfico privilegiado e na fixação do regime inicial de cumprimento da pena - e os pedidos formulados - ilicitude da prisão do paciente e consequente trancamento da ação penal -, o que inviabiliza o seu seguimento.
+Além disso, quanto ao pedido de ilicitude da prisão e consequente trancamento da ação penal, verifica-se, na hipótese, que o Tribunal de origem não se debruçou a respeito de tais alegações, conforme se depreende do exame do acórdão ora impugnado (e-STJ fls. 142/148 e 163/169), onde não se encontra qualquer consideração a respeito dos temas.
+Como é cediço, a ausência de prévia manifestação das instâncias ordinárias sobre os temas discutidos no mandamus inviabiliza seu conhecimento pelo Superior Tribunal de Justiça, porquanto estar-se-ia atuando em patente afronta à competência constitucional reconhecida a esta Corte, nos termos do art. 105 da Carta Magna.
+Em consequência, o presente habeas corpus é manifestamente incabível.
+Ante o exposto, com base no art. 210 do Regimento Interno do STJ, indefiro liminarmente a petição inicial do habeas corpus.
