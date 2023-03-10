@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de agravo regimental interposto contra decisão que indeferiu liminarmente o habeas corpus, com fundamento na incidência da Súmula 691 do STF.
+Alega o agravante a existência de manifesta ilegalidade, em razão de excesso de execução, afirmando que "a unificação deveria ser de 8 anos 4 meses e 30 dias" (fl. 102).
+Requer a reconsideração do decisum ou que seja o recurso submetido à Turma Julgadora, "para análise dos pedidos formulados" (fl. 103).
+Em Petição 310888/2022 (fls. 114-115), o ora agravante, ao comunicar que o habeas corpus de origem sequer foi pautado para julgamento, requer antecipação de tutela.
+Em consulta ao sitio eletrônico do Tribunal de Justiça do Estado do Rio de Janeiro, verifica-se que, em 2/8/2022, o Tribunal de origem julgou o mérito do habeas corpus originário 0011498-25.2022.8.19.0000, denegando a ordem, nos termos da seguinte ementa:
+EMENTA: HABEAS CORPUS - CONSULTANDO A SEEU (SISTEMA ELETRÔNICO DE EXECUÇÃO UNIFICADO), QUE COMPREENDE O ATESTADO DE PENA E RELATÓRIO DA SITUAÇÃO PROCESSUAL EXECUTÓRIA DO PACIENTE, NÃO SE IDENTIFICA NENHUM ERRO DE CÁLCULO, NOTADAMENTE O ALEGADO "EXCESSO DE EXECUÇÃO". VEJAMOS: 1º) AO CONTRÁRIO DO QUE É SUSTENTADO, NÃO SE APLICOU AO PACIENTE "MAIS 12 ANOS, 9 MESES E 2 DIAS". A UNIFICAÇÃO DAS PENAS É QUE RESULTOU NESSE QUANTITATIVO, CUJO TÉRMINO OCORRERÁ EM SETEMBRO DE 2031; 2º) ALÉM DE RECEBER OUTRA CONDENAÇÃO, O PACIENTE DESCUMPRIU AS CONDIÇÕES DA PRISÃO DOMICILIAR. A FALTA GRAVE ACARRETOU A REGRESSÃO DE REGIME PRISIONAL (FECHADO); 3º) O MARCO INICIAL PARA A PROGRESSÃO DE REGIME É A DATA DA ÚLTIMA PRISÃO (CONSOLIDADO ENTENDIMENTO DO STJ - A. REGIMENTAL NO HABEAS CORPUS 675.459/RJ). QUANTO AO LIVRAMENTO CONDICIONAL, O REQUISITO OBJETIVO SOMENTE SERÁ ALCANÇADO EM ABRIL DE 2026. ENFIM, REVELAM-SE INCENSURÁVEIS AS DECISÕES GUERREADAS, PROFERIDAS NO JUÍZO DE EXECUÇÕES PENAIS. INOCORRÊNCIA DE CONSTRANGIMENTO ILEGAL. ORDEM DENEGADA.
+Ante o exposto, julgo prejudicado o presente agravo e o pedido de antecipação de tutela .
+Publique-se.
+Intimem-se.
