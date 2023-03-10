@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (fl. 1.221, e-STJ):
+APELAÇÃO CÍVEL - AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS - HOME CARE - CUSTEIO NEGADO PELA OPERADORA - RECUSA IMOTIVADA - RECOMENDAÇÃO MÉDICA - VIOLAÇÃO A JULGADOS DO STJ - ÓBITO DO PACIENTE - REPARAÇÃO DEVIDA - VALOR ARBITRADO COM RAZOABILIDADE NA ORIGEM - RECURSO NÃO PROVIDO.
+O plano de saúde não pode se recusar a custear o tratamento prescrito sob a justificativa de não figurar na lista de coberturas obrigatórias da ANS e de ser inapropriado para a lide. Devem ser propiciados todos os meios disponíveis para resguardar a vida e a saúde do paciente.
+O Home Care reduz tanto os custos suportados pela operadora de saúde, se comparado com a internação hospitalar, como também o risco de infecção. E é abusiva a cláusula contratual que veda sua utilização como alternativa à internação hospitalar, visto que é incompatível com a equidade e a boa-fé, além de colocar o paciente (consumidor) em situação de desvantagem exagerada, o que é vedado pelo art. 51, IV, da Lei n. 8.078/1990.
+A recusa indevida de custeio do tratamento domiciliar recomendado pelo médico gera dano moral, porquanto agrava a situação de aflição psicológica do paciente, que já se encontra com a saúde debilitada.
+Nas razões do recurso especial, a parte ora agravante alega, além de divergência jurisprudencial, violação aos arts. 476, 478 e 479 do Código Civil; 10 e 12, VI, da Lei 9.656/98, e 54 do Código de Defesa do Consumidor.
+Afirma ser lícita a negativa de cobertura de home care, ante a ausência de previsão da obrigatoriedade de custeio desse tipo de tratamento na legislação ou no contrato celebrado entre as partes. Sustenta, também, não estarem configurados os danos morais no caso dos autos.
+Foram apresentadas contrarrazões às fls. 1.778/1.790, e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+A Súmula nº 568 desta Corte dispõe que "relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+O Tribunal de origem, ao analisar a controvérsia, condenou a operadora de plano de saúde a custear os serviços de home care à parte segurada nos seguintes termos (fls. 1.222/1.223, e-STJ):
+Apelação contra a sentença que determinou à ré o pagamento de R$25.000,00 pelos danos morais sofridos, além das custas e dos honorários advocatícios de 10% sobre o valor da condenação.
+A apelante argumenta que a recusa no custeio do tratamento está fundamentada na ausência de previsão contratual, bem como que o Home Care não integra o rol de coberturas obrigatórias da ANS, que é taxativo.
+O apelado ingressou em juízo sob a alegação de que é titular do plano de saúde Unimed Rondonópolis-MT, contrato n. 0.139.30940008400-9, e tinha como dependente a Sra. Carmem Encarnação Parron Lima (à época com 84 anos), portadora da doença de Alzheimer, que, ao fraturar o fêmur, ficou com dificuldade de movimentação e síndrome de imobilidade (CID S72, CID 10-G30).
+Diante do estado crítico, estava totalmente acamada, com uso de sonda nasoenteral para alimentação, medicamentos controlados e fraldas. Além disso, desenvolveu úlceras de pressão grau III, sequelas da doença que a impossibilitaram de alimentar-se oralmente (id. 114998124 e 114998125).
+Foi então solicitada a internação domiciliar na modalidade Home Care com profissional especializado para o cuidado dos curativos, nutricionista, fisioterapeuta e medicação necessária.
+Não há nenhuma dúvida quanto a esta lide se submeter ao CDC, cujos artigos 18, § 6º, III, e 20, § 2º, enunciam a imprescindibilidade de adequação dos produtos e serviços à legítima expectativa do consumidor.
+No que concerne à revisão contratual, o STJ, de maneira consolidada, permite nas relações de consumo a análise das cláusulas indicadas pelo consumidor como abusivas, bem como a sua revisão se verificada a ilegalidade apontada. Por conseguinte, é mitigado o princípio pacta sunt servanda.
+Evidentemente o contratante confia que, na hipótese de doença ou agravamento do seu estado de saúde, a contratada arcará com os custos da reabilitação. Assim, ele espera a integral assistência para sua cura ou melhora.
+Posto isso, deve-se manter o entendimento de que a relação da ANS tem natureza meramente exemplificativa para, dessa forma, garantir ao beneficiário o tratamento efetivo das doenças listadas na CID, nos limites da contratação (AgInt no REsp 1916137/SP).
+E o STJ já firmou o posicionamento de que "o plano de saúde pode estabelecer as doenças que terão cobertura, mas não o tipo de tratamento utilizado para a cura de cada uma delas" (AgRg no Ag 1350717/PA, DJe de 31/03/2011).
+Tendo tudo isso em vista, deve-se destacar que o Home Care reduz tanto os custos suportados pela operadora de saúde, se comparado com a internação hospitalar, como também o risco de infecção. E é abusiva a cláusula contratual que veda sua utilização como alternativa à internação hospitalar, visto que é incompatível com a equidade e a boa-fé, além de colocar o paciente (consumidor) em situação de desvantagem exagerada, o que é vedado pelo art. 51, IV, da Lei n. 8.078/1990.
+Esse entendimento não diverge da jurisprudência do Superior Tribunal de Justiça, segundo a qual é abusiva a cláusula contratual que veda a internação domiciliar (home care) como alternativa à internação hospitalar.
+Nesse sentido:
+RECURSO ESPECIAL. PLANO DE SAÚDE. PESSOA JURÍDICA DE DIREITO PÚBLICO. AUTARQUIA MUNICIPAL. AUTOGESTÃO. CÓDIGO DE DEFESA DO CONSUMIDOR. INAPLICABILIDADE. SÚMULA Nº 608/STJ. LEI DOS PLANOS. APLICABILIDADE. ART. 1º, § 2º, DA LEI Nº 9.656/1998. INTERNAÇÃO DOMICILIAR. HOME CARE. VEDAÇÃO. ABUSIVIDADE.
+(..)
+5. À luz da Lei nº 9.656/1998, é pacífica a jurisprudência do Superior Tribunal de Justiça no sentido de ser abusiva a cláusula contratual que veda a internação domiciliar (home care) como alternativa à internação hospitalar. Precedentes.
+6. Distinção entre internação domiciliar e assistência domiciliar, sendo esta entendida como conjunto de atividades de caráter ambulatorial, programadas e continuadas desenvolvidas em domicílio.
+7. No caso, do contexto delineado no acórdão recorrido, conclui-se que o tratamento pretendido pela autora amolda-se à hipótese de assistência domiciliar, e não de internação domiciliar, o que afasta a obrigatoriedade de custeio do plano de saúde.
+8. Recurso especial não provido.
+(REsp 1766181/PR, Rel. Ministra NANCY ANDRIGHI, Rel. p/ Acórdão Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 3/12/2019, DJe 13/12/2019)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. PLANO DE SAÚDE. RECUSA DE COBERTURA DE TRATAMENTO DOMICILIAR. IMPRESCINDIBILIDADE COMPROVADA. AUSÊNCIA DE CERCEAMENTO DE DEFESA. DANOS MORAIS CONFIGURADOS. QUANTUM. VALOR RAZOÁVEL. REEXAME DE FATOS E PROVAS. ÓBICE DA SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+3. É pacífica a jurisprudência do Superior Tribunal de Justiça no sentido de ser abusiva a cláusula contratual que veda a internação domiciliar (home care) como alternativa à internação hospitalar. Precedentes.
+4. A recusa indevida, pela operadora de plano de saúde, em autorizar a internação domiciliar (home care), no caso dos autos, conforme reconhecido pelas instâncias ordinárias, agravou a situação de aflição psicológica e de angústia no espírito do beneficiário, o que enseja a reparação do dano moral.
+5. O valor arbitrado pelas instâncias ordinárias a título de danos morais somente pode ser revisado em sede de recurso especial quando irrisório ou exorbitante, o que não ocorreu no caso dos autos, em que fixado em R$ 14.310,00 em decorrência de recusa de cobertura de tratamento domiciliar (home care).
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1673498/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 19/10/2020, DJe 16/11/2020)
+Incidente, no ponto, o óbice da Súmula 83/STJ.
+Prosseguindo na análise da controvérsia, o Tribunal de origem registrou que a negativa de cobertura causou danos morais à paciente e aos familiares, considerando-se que a segurada foi diagnosticada com Alzheimer, possuía oitenta e quatro anos, e sofreu uma fratura no fêmur, do que decorreram a dificuldade na movimentação e a síndrome de imobilidade.
+Consignou o colegiado que o estado da paciente era crítico, estando ela totalmente acamada, padecendo de úlceras de pressão e fazendo uso de sonda nasoenteral para alimentação, medicamentos controlados e fraldas (fl.1.224, e-STJ):
+Nesta demanda era claro o risco de lesão irreparável tendo em vista a necessidade imediata de atenção intensiva à paciente, que, além das comorbidades já citadas, era totalmente dependente para as tarefas da vida diária. Assim, o acompanhamento da equipe multiprofissional era imprescindível.
+Por conseguinte, era dever da ré propiciar o tratamento recomendado pelo médico ante a gravidade do estado de saúde em que se encontrava a paciente, que, como mencionado, veio a falecer.
+Todo esse cenário demonstra que a recusa da operadora de saúde gerou danos morais. E os R$25.000,00 estipulados pelo juízo de origem para a reparação estão em sintonia com o artigo 944 do Código Civil e com o montante arbitrado por esta Câmara em casos semelhantes; por consequência, não comporta redução.
+A alteração dessas premissas exigiria o reexame de provas, providência vedada em recurso especial, nos termos da Súmula 7/STJ.
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitr ada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
