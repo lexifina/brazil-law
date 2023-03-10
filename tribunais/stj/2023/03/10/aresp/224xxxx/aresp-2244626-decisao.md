@@ -1,0 +1,79 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (fl. 350, e-STJ):
+APELAÇÃO CÍVEL. DIREITO PRIVADO NÃO ESPECIFICADO. AÇÃO INDENIZATÓRIA. APARELHO CELULAR. VÍCIO. NEGATIVA DE COBERTURA DA GARANTIA PELA FABRICANTE. PROVA PERICIAL QUE CONSTATOU ALTERAÇÕES NO APARELHO. SENTENÇA DE IMPROCEDÊNCIA MANTIDA.
+Caso dos autos em que alegou a parte autora que o aparelho celular que adquiriu apresentou defeitos, sendo remetido à assistência técnica, que se negou a consertar o bem em razão de suposta tentativa de reparo fora dos padrões estabelecidos pela fabricante.
+Tese de defesa da fabricante/demandada que resta corroborada pela prova pericial produzida no decorrer da instrução, que é conclusiva quanto à existência de danos nos componentes internos do aparelho celular, bem como atesta a ausência do lacre de segurança implantado pela fabricante, asseverando o expert, ainda, que identificada soldagem fora dos padrões de fábrica, o que indica possível tentativa de conserto do aparelho.
+Assim, logrando a parte demandada se desincumbir do ônus que lhe cabia, nos termos do art. 373, II, do CPC, imperiosa a manutenção da sentença de improcedência da demanda.
+APELO DESPROVIDO.
+Os embargos de declaração opostos foram rejeitados. O julgado recebeu a seguinte ementa (fl. 397, e-STJ):
+EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CÍVEL. DIREITO PRIVADO NÃO ESPECIFICADO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. INEXISTÊNCIA. PRETENSÃO DE REDISCUSSÃO DO JULGADO.
+Ausentes as hipóteses previstas no artigo 1.022 do Código de Processo Civil, descabe a interposição de embargos de declaração. Pretensão de rediscussão do julgado, o que se mostra inapropriado por meio de embargos de declaração.
+Quanto ao prequestionamento, o juízo não está obrigado a rebater todos os argumentos e artigos de lei ventilados pela parte, bastando que a sua decisão se encontre fundamentada.
+EMBARGOS DE DECLARAÇÃO DESACOLHIDOS.
+Nas razões do recurso especial, a parte ora agravante alega, além de divergência jurisprudencial, violação aos arts. 489, § 1º, IV e 1.022, I e II do Código de Processo Civil de 2015.
+Afirma que o Tribunal de origem foi omisso e contraditório. Alega não ter tentado consertar o telefone móvel, o que seria demonstrado pelo fato de a ré não ter comprovado o rompimento do lacre do aparelho, à luz do laudo pericial produzido.
+Defende, assim, a declaração de "nulidade da decisão do v. acórdão recorrido fundamentado pelos vícios de omissão e contradição, em virtude de ausência de prova de tentativa de abertura do telefone móvel para conserto motivado pela preexistência do lacre" (fl. 414, e-STJ).
+Foram apresentadas contrarrazões às fls. 476/482, e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+A Súmula nº 568 desta Corte dispõe que "relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendim ento dominante acerca do tema".
+Quanto às alegações de ofensa aos arts. 489, § 1º, IV e 1.022, I e II do Código de Processo Civil de 2015, verifico que essas não merecem prosperar. Isso porque, consoante entendimento consolidado desta Corte, o recorrente não possui o direito de ter todos os argumentos alegados rebatidos, cabendo ao tribunal analisar e debater as questões principais para o deslinde da controvérsia.
+Ademais, verifico que o Tribunal de origem analisou expressamente as questões levantadas pela parte recorrente, de modo que não configura omissão ou negativa de prestação jurisdicional o fato de o acórdão ter sido proferido em sentido contrário ao desejado por ela.
+Cito, nesse sentido, trechos dos acórdãos da apelação e, em seguida, dos embargos de declaração (fls. 353/356 e 400/401, e-STJ):
+Dito isso, passo à análise das demais razões recursais, adiantando que melhor sorte não assiste ao apelante, devendo a sentença ser mantida pelos seus próprios fundamentos, os quais adoto como razões de decidir, a fim de evitar desnecessária tautologia:
+Cabe observar, de plano, que, em sede de recurso de apelação, fls.145/148, foi acolhida a preliminar de cerceamento de defesa, desconstituindo a sentença diante do indeferimento da realização da prova pericial postulada pelo autor no aparelho celular, objeto do litígio, sendo determinado o retorno do feito ao juízo de primeira instância, com a reabertura da fase instrutória.
+Assim, determinada a remessa dos autos do processo à origem para prosseguimento do feito, restaram atendidas as referidas determinações, efetuando-se a perícia postulado pelo autor, conforme laudo pericial juntado às fls.161/168.
+Desse modo, passo ao exame do mérito, analisando a nova prova produzida, ou seja, a prova pericial.
+Inicialmente, rejeito a preliminar de ilegitimidade passiva suscitada pela primeira requerida Telefônica Brasil S.A., uma vez que restou incontroversa a relação jurídica existente entre as partes, porquanto o autor adquiriu da primeira requerida o aparelho celular, ora em litígio, sendo que o pedido da petição inicial engloba a rescisão de aludida compra e venda, com a devolução de valores, além da pretensão de discussão das cláusulas contratuais. Dessa forma, a primeira requerida Telefônica Brasil S.A. detém legitimidade para responder à lide, sendo que a questão relacionada à falta de provas acerca da falha em sua prestação de serviços é de mérito, e como tal será analisada.
+Quanto ao mérito, objetiva o autor a rescisão do contrato de compra e venda do aparelho celular marca Motorola XT1763, com a consequente devolução de valores, além da indenização pelos danos morais experimentados.
+As requeridas, por outro lado, afirmam que os danos causados no aparelho celular foram provocados pelo próprio autor, o que elide a responsabilidade dos fornecedores pelo conserto.
+Quanto à pretensão indenizatória por danos morais, ressaltaram que os fatos não transbordaram a esfera do mero dissabor ao autor.
+Observa-se que a hipótese presente nos autos do processo se caracteriza, perfeitamente, como relação de consumo, uma vez que as partes integrantes se encaixam nos conceitos descritos nos artigos 2.º e 3.º, §2.º, ambos do Código de Defesa do Consumidor.
+Tratando-se de relação de consumo, o referido diploma legal estabelece, dentre os direitos básicos do consumidor, a inversão do ônus da prova: (..)
+Como se vê, o intuito do Código de Defesa do Consumidor é estabelecer o equilíbrio necessário para uma relação harmônica entre as partes, na relação de consumo, suprindo a hipossuficiência do mais frágil, que é, obviamente, o consumidor.
+Cumpre referir, por importante, que a hipossuficiência e a verossimilhança não precisam estar presentes simultaneamente. Basta a presença de um desses fatores para a autorização do benefício.
+No caso em apreço, verifica-se que o autor adquiriu o produto acima descrito no dia 19/10/2017, pelo valor de R$1.318,57, o qual foi vendido pela demandada Telefônica Brasil S.A., nos termos em que demonstrado pela nota fiscal de fl.13.
+Segundo a petição inicial, o aparelho celular adquirido pelo autor deixou de funcionar no seu quarto dia de uso, fato que obrigou o autor a encaminhá-lo para a assistência técnica.
+Analisando os documentos que instruem o feito, verifica-se que o autor, de fato, enviou seu aparelho para a assistência técnica da fabricante, que lavrou o Relatório Técnico juntado às fls.14/15, em 09/11/2017, nos seguintes termos:
+"Após análise técnica de seu Produto, foi identificado que o reparo não está coberto pela garantia, conforme Termo de Garantia que consta no manual do usuário.
+"Serviço não autorizado. Defeitos ou danos resultantes de execução de manutenção, testes, ajustes, instalação, alteração ou modificação dos Produtos por alguém que não seja um profissional da Motorola ou de um centro de serviços autorizado pela Motorola".
+Ainda, na Ordem de Serviço de fl.16, emitida em 07/11/2017, foi pontuado que o aparelho continha "marcas de manutenção por terceiros".
+Nesse mesmo sentido foi a conclusão do laudo pericial de fls.161/168, que corroborou a tese que atestou a manutenção indevida do aparelho, realizada por terceiros, causando, assim, a perda da garantia do celular.
+Nos termos da fl.164 do laudo da perícia, verificou-se que " o aparelho apresentou bom estado geral de conservação  Não há nenhm de indícios de que o mesmo tenha sido exposto à umidade ou vapor, que possam ter gerado oxidação nos terminais". Entretanto, conforme verificado e identificado na imagem ilustrada à fl.164, o perito judicial nomeado mencionou que " existem componentes internos que apresentam sinal de alteração no estado da solda, indicando possível tentativa de conserto".
+Concluiu o perito, à fl.165:
+" O aparelho, objeto da demanda, foi recebido sem carregador e bateria. O mesmo não apresenta sinais de exposição a líquidos, umidade ou vapor que possam ter dado causa ao não funcionamento. O aparelho apresentou soldagem fora dos padrões do fabricante em componentes de sua placa interna".
+Além disso, referiu o perito que o celular possui um lacre como meio de segurança para detectar a sua abertura fora da assistência técnica da fabricante, o qual não foi encontrado no aparelho periciado, fl.166.
+Desse modo, o fato é que, quando encaminhado o celular, objeto do litígio, para a assistência técnica da segunda requerida, já havia sido constatada a tentativa de manutenção de um terceiro não autorizado, conforme as fotografias das fls.14/15, as quais foram corroboradas pelo laudo pericial à fl.164.
+Ocorre que o autor defende a procedência dos pedidos, diante da reiterada alegação no sentido de que não foi ele quem rompeu o lacre do aparelho. Contudo, não há como acolher tal fundamento, mesmo porque, apesar da inversão do ônus da prova, circunstância que não afasta a necessidade do autor demonstrar os fatos constitutivos do seu direito, também, não impõe às requeridas a incumbência de produção de uma prova impossível.
+No mesmo sentido foi a decisão proferida na fl.90, que mencionou que a prova pericial se mostra inócua a demonstrar em que circunstâncias houve o rompimento do lacre do aparelho celular.
+Assim, considerando que restou demonstrado que o aparelho celular não possuía o lacre de segurança na oportunidade em que encaminhado à assistência técnica da segunda requerida, sendo observadas marcas de manutenção por terceiros; o que foi ratificado pelo perito no laudo pericial de fls.161/168, que constatou soldagem no aparelho celular fora dos padrões do fabricante, deve ser mantida a sentença anteriormente proferida, reconhecendo-se a inexistência de responsabilidade das empresas requeridas, por culpa exclusiva do consumidor ou terceiro, em atenção ao que determina o artigo 12, §3.º, inciso III, do CDC.
+Cabe acrescentar que, tendo em vista que o equipamento, ou seja, o aparelho celular, estava abrigado pela garantia (contava com quatro dias de uso), cabia ao autor remetê-lo diretamente à fabricante para promover o conserto necessário ou substituí-lo, o que não o fez.
+Nesse sentido, cabe citar os seguintes entendimentos:
+(..) Por fim, não há se falar em indenização por danos morais, como postulado pelo autor, pois ausentes os requisitos legais.
+Pelo que acima foi colocado e o mais que consta dos autos do processo, a improcedência dos pedidos do autor é a medida que se impõe.
+Com efeito, a perícia foi conclusiva quanto à existência de danos nos componentes internos do aparelho celular, bem como quanto à ausência do lacre de segurança implantado pela fabricante, consoante se verifica do laudo acostado aos autos à fl. 166.
+Em resposta a um dos quesitos formulados, o expert consignou, expressamente, que foi possível identificar soldagem fora dos padrões de fábrica, indicando possível tentativa de conserto do aparelho (fl. 167).
+Tal prova não foi derruída pela parte autora, mostrando-se suficiente para amparar a tese da demandada, no sentido de que o conserto pela assistência técnica se tornou inviável em razão de o bem ter apresentado sinais de alterações de suas características originais, o que legitimamente afasta a cobertura da garantia.
+Diante disso, logrando a demandada de se desincumbir do ônus que lhe cabia, nos termos do art. 373, II, do CPC, impositiva a manutenção da sentença de improcedência.
+(..)
+Acrescento, em atenção às razões recursais, que ainda que não tenha constado expressamente no laudo apresentado pela assistência técnica que o lacre estava rompido, a conclusão apresentada no documento é clara quanto à negativa de cobertura da garantia sob o argumento de que realizado serviço não autorizado no aparelho por profissional não autorizado pela Motorola. Confira-se:
+Após análise técnica de seu Produto, foi identificado que o reparo não está coberto pela garantia, conforme Termo de Garantia que consta do manual do usuário.
+"(e) Serviço não autorizado. Defeitos ou danos resultantes de execução de manutenção, testes, ajustes, instalação, alteração ou modificação dos Produtos por alguém que não seja um profissional da Motorola ou de um centro de serviços autorizado pela Motorola"
+A perda da garantia, neste caso, isenta o fornecedor do dever de reparar gratuitamente seu produto, nos termos do artigo 12, § 3º, III, do Código de Defesa do Consumidor.
+Desta forma, considerando que tal conclusão foi corroborada pela prova pericial produzida no decorrer da instrução, resta suficientemente fundamentado o juízo de improcedência da demanda, não havendo falar em nulidade do decisum.
+Dessa forma, tendo a decisão analisado de forma fundamentada as questões trazidas, não há que se falar nos vícios apontados, nos termos dos acórdãos cujas ementas transcrevo abaixo:
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ARTS. 489 E 1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA. JULGAMENTO ULTRA PETITA. EXCESSO. EXTIRPAÇÃO. POSSIBILIDADE. NÃO PROVIMENTO.
+1. O acórdão recorrido analisou todas as questões necessárias ao deslinde da controvérsia, não se configurando ausência de fundamentação na prestação jurisdicional.
+2. A decisão que julga além dos limites da lide não precisa ser anulada, devendo ser eliminada a parte que constitui o excesso. Precedentes.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1339385/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 9/4/2019, DJe 12/4/2019)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO INDICAÇÃO. SÚMULA 284/STF. VIOLAÇÃO DO ART. 489 DO CPC/15. INOCORRÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de indenização por danos materiais e compensação por danos morais, ajuizada em razão de alegado erro médico em cirurgia de vasectomia.
+2. A ausência de expressa indicação de obscuridade, omissão ou contradição nas razões recursais enseja o não conhecimento do recurso especial.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/15.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. A revisão da compensação por danos morais só é viável em recurso especial quando o valor fixado for exorbitante ou ínfimo. Salvo essas hipóteses, incide a Súmula 7/STJ, impedindo o conhecimento do recurso.
+6. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp n. 2.168.243/MT, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 13/2/2023, DJe de 15/2/2023.)
+Em face do exposto, não havendo o que reformar, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
