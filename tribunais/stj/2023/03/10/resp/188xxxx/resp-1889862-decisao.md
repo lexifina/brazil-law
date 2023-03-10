@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial interposto por EDMUNDO ROCHA GORINI contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo que negou provimento à apelação em acórdão assim ementado (e-STJ fl. 634):
+Apelação - CRIME CONTRA A ORDEM TRIBUTÁRIA - Preliminar - Prescrição - Inocorrência - Mérito - Conjunto probatório amplamente desfavorável - Prova documental e testemunhal robustas - Penas, regime prisional e substituição incensuráveis - NEGADO PROVIMENTO.
+Na hipótese, tem-se que o recorrente foi condenado à pena de 2 anos e 4 meses de reclusão, em regime aberto, substituída por restritivas de direitos, por infração ao artigo 1º, inciso I, da Lei n. 8.137/1990, decisão confirmada pela Corte de origem.
+Nas razões do apelo nobre, interposto com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, aduz a defesa violação aos artigos 107, IV, 109, IV e 59, todos do Código Penal para, no final, pleitear a prescrição da pretensão punitiva por irretroatividade da Súmula n.24 do STF e, subsidiariamente, a redução da pena ao mínimo cominado.
+Contrarrazões às e-STJ fls. 663/668.
+Admitido o recurso (e-STJ fls. 671), manifestou-se o Ministério Público Federal pelo não conhecimento ou, caso conhecido, pelo desprovimento do recurso (e-STJ fls. 680/682).
+É o relatório.
+Decido.
+Prescrição da pretensão punitiva
+Inicialmente, quanto ao pleito de reconhecimento da prescrição, sob o argumento de que, "considerando a data dos fatos (janeiro e novembro de 2008) e do recebimento da denúncia (09 de junho de 2017 - fls. 164/165), tem-se o lapso de aproximadamente 8 (oito) anos e 7 (sete) meses, ou seja, tempo deveras superior ao necessário para se atingir a prescrição" (e-STJ fl. 648), assim consignou a Corte de origem (e-STJ fl. 635):
+A pena aplicada tem lapso prescricional de 08 (oito) anos, lapso que não restou superado entre os marcos interruptivos, consignando-se que, em se tratando de crime contra a ordem tributária, a tipificação ocorre somente com o lançamento definitivo do tributo (Súmula Vinculante nº 24) que, no caso, ocorreu em 04 de janeiro de 2013, sendo certo que a denúncia foi recebida em 09 de junho de 2017.
+Não se trata de aplicar retroativamente a referida Súmula Vinculante, porquanto, mesmo antes de sua edição, o entendimento jurisprudencial amplamente majoritário, com o qual também se alinhava esta Turma Julgadora, era nesse sentido.
+Rejeita-se, pois, a matéria preliminar arguida.
+Da análise do excerto acima transcrito, verifica-se que a Corte de origem deixou de reconhecer a causa extintiva de punibilidade em consonância com o entendimento pacificado desta Corte acerca do tema, conforme pode se verificar do seguinte julgado da Terceira Seção:
+EMBARGOS DE DIVERGÊNCIA EM AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIME CONTRA A ORDEM TRIBUTÁRIA ANTERIOR À EDIÇÃO DA SÚMULA VINCULANTE N. 24/STF. TERMO INICIAL DO PRAZO PRESCRICIONAL. DIVERGÊNCIA CONFIGURADA. ADOÇÃO DO POSICIONAMENTO CONSAGRADO NO SUPREMO TRIBUNAL FEDERAL. NECESSIDADE DA CONSTITUIÇÃO DO CRÉDITO TRIBUTÁRIO. EMBARGOS DE DIVERGÊNCIA PROVIDOS.
+I - Segundo a jurisprudência deste Superior Tribunal de Justiça, os embargos de divergência tem como finalidade precípua a uniformização de teses jurídicas divergentes, aplicadas dentro de um mesmo contexto.
+II - A análise da prescrição dos crimes materiais contra a ordem tributária deve se dar à luz da Súmula Vinculante n. 24 do Supremo Tribunal Federal, que dispõe: "não se tipifica crime material contra a ordem tributária, previsto no art. 1º, incisos I a IV, da Lei 8.137/1990, antes do lançamento definitivo do tributo". Desse modo, nos termos do art. 111, do Código Penal, a prescrição da pretensão punitiva somente tem seu início com a constituição definitiva do crédito, momento em que se consuma o delito.
+III - Constituindo a súmula vinculante n. 24 mera consolidação de remansosa interpretação judicial, tem aplicação aos fatos ocorridos anteriormente à sua edição. Precedentes
+IV - Não transcorrido o lapso prescricional entre a constituição definitiva do crédito e o recebimento da denúncia, ou entre esta e a prolação de sentença condenatória, impõe-se a reforma do julgado que a declara consumada, com a consequente devolução dos autos à respectiva Turma para apreciação das demais teses recursais levantadas.
+Embargos de divergência providos.
+(EREsp n. 1.318.662/PR, relator Ministro Felix Fischer, Terceira Seção, julgado em 28/11/2018, DJe de 4/12/2018, grifei.)
+Logo, estando o acórdão hostilizado em consonância com a jurisprudência desta Corte, não se conhece do recurso especial, conforme expressa disposição da Súmula n. 83/STJ, cujo teor passo a colacionar:
+Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida.
+(Súmula n. 83, CORTE ESPECIAL, julgado em 18/6/1993, DJ 2/7/1993, p. 13283)
+Dosimetria
+Quanto ao ponto, afirmou a defesa que, "muito embora o r. decisum recorrido não adentre ao fator quantitativo, impende registrar que o montante de tributos supostamente sonegados pela empresa da qual o recorrente era sócio perfaz a quantia de R$ 21.299,34 - desconsiderando juros, multa e correção monetária", e que, "as consequências do delito - diferentemente do que ostenta o v. acórdão combatido - não podem ser valoradas negativamente para majorar a pena base do recorrente uma vez que são consequências, desdobramentos ínsitos do próprio tipo penal" (e-STJ fls. 651/652).
+No punctum saliens, assim consignou o Magistrado de piso (e-STJ fl. 555):
+Atento ao disposto nos artigos 59 e 60 do Código Penal, fixo a pena base 1/6 acima do mínimo legal, em 02 (dois) anos e 04 (quatro) meses de reclusão e pagamento de 11 (onze) dias-multa, considerando o significativo prejuízo causado à Fazenda pelo ato ilícito praticado.
+Já o Tribunal local, por sua vez (e-STJ fl. 637):
+A condenação deve ser mantida.
+Penas, regime prisional e substituição estabelecidos de forma escorreita, com a devida exasperação da pena-base em razão do prejuízo, que não pode ser considerado de pequena monta.
+Como visto dos excertos acima transcritos, as instâncias ordinárias consideraram o significativo prejuízo causado à Fazenda para aumento da pena-base, o que se coaduna com a jurisprudência desta Corte acerca da quaestio, no sentido de que " o  prejuízo ao erário, embora seja consequência comum dos crimes de sonegação fiscal, quando em quantia considerável consiste em fundamento idôneo para exasperar a pena além do mínimo legal" (EDcl no AgRg no HC n. 462.392/PE, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 15/9/2020, DJe de 22/9/2020.).
+Nessa linha, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão, nesta instância extraordinária, apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade ou desproporcionalidade, constatada de plano, sem a necessidade de reexame do acervo fático-probatório dos autos, o que não é o caso dos autos, notadamente se considerado o valor devido quando da constituição definitiva do crédito tributário, qual seja, de R$ 172.968,00 (e-STJ fl. 548).
+Ante o exposto, conheço em parte do recurso especial e, ness a extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
