@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (e-STJ, fl. 542):
+PRELIMINAR - Anulação da Sentença sob a alegação de ausência de fundamentação - Descabimento - Aplicação da hermenêutica aliada a persuasão racional e o livre convencimento motivado - Não há o que se falar em ausência de fundamentação do Decisum no qual se lê as justificativas jurídicas que embasaram as razões de decidir - Afastamento.
+AÇÃO DE OBRIGAÇÃO DE FAZER c.c. INDENIZAÇÃO POR DANO MORAL - Pedido de ressalva de que os débitos estariam sub judice - Descabimento - Ação de inexigibilidade de débito interposta pela recorrente cujos pedidos foram julgados improcedentes na 1ª e 2ª instância, sendo, nesta última, por votação unânime - Ausência de verossimilhança de que o apontamento seria indevido - Serviços de proteção ao crédito que foram criados para prestarem informações aos que delas necessitarem, não cabendo ao devedor o direito a nenhuma indenização, moral ou material, em virtude da divulgação das informações ali contidas - Ausência de justificativa para pretendida ressalva - Condenação da ré no pagamento de indenização em favor da autora - Descabimento - Não se vislumbra na fattispecie a ocorrência de ilícito praticado pela requerida ou dano moral sofrido pela autora - Sentença de improcedência mantida - RECURSO NÃO PROVIDO.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 489, II e § 1º, IV, 1.003 e 1022 do Código de Processo Civil; aos arts. 186, 187, 927 do Código Civil; ao art. 4º, § 2º, Lei n. 9507/1997; ao art. 43, §§ 1º e 3º, do Código de Defesa do Consumidor; bem como divergência jurisprudencial.
+Sustenta que houve negativa de prestação jurisdicional.
+No mérito, afirma a existência de irregularidade no apontamento de seu nome junto ao cadastro de inadimplentes, pois não consta a informação de que o débito encontra-se sub judice.
+Defende a condenação da recorrida por danos morais, diante da recusa em atender ao pedido de inserção, na base de dados do cadastro de restrição de crédito, das ressalvas pertinentes à litigiosidade de registro de dados que restringem seu nome.
+Contrarrazões apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+No tocante às alegações de ofensa ao art. 1.022 do Código de Processo Civil de 2015, verifico que essas não merecem prosperar.
+Isso porque não configura ausência de fundamentação ou negativa de prestação jurisdicional o fato de o acórdão ter sido proferido em sentido contrário ao desejado pela parte recorrente.
+Dessa forma, analisando a decisão de forma fundamentada e as questões trazidas, não há que se falar nos vícios apontados. Nesse sentido: AgRg no Ag 829.006/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/9/2015, DJe 28/9/2015; AgRg no AREsp 670.511/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 23/2/2016, DJe 1º/3/2016.
+No mérito, a Corte local reconheceu que inexiste dano moral a ser indenizado, porquanto não há qualquer inexatidão nas informações apontadas a implicar irregularidade na inscrição. Confira-se a fundamentação do acórdão (e-STJ, fls.544/546):
+No tocante ao mérito, o recurso é de ser desprovido.
+E tal se dá, porquanto, em que pese o direito da autora à retificação das informações, força é convir que não há qualquer inexatidão nas informações apontadas, a implicar irregularidade na restrição.
+Aliás, embora o art. 4º, § 2º Lei nº 9.507/1997 estabeleça que "Ainda que não se constate a inexatidão do dado, se o interessado apresentar explicação ou contestação sobre o mesmo, justificando possível pendência sobre o fato objeto do dado, tal explicação será anotada no cadastro do interessado", verifica-se, após uma rápida pesquisa junto ao Sistema de Automação da Justiça, que os pedidos da ação de inexigibilidade de débito interposta pela autora (processo nº 1023063-63.2019.8.26.0554) foram julgados improcedentes na 1ª e 2ª instâncias, sendo, nesta última, por votação unânime.
+Dessa forma, ante a ausência de verossimilhança de que o apontamento seria indevido, não há que se falar em "pendência sobre o fato objeto do dado" a justificar o pedido de ressalva que os débitos estariam sub judice, sendo de rigor a manutenção da Decisão com a qual a recorrente não se conforma.
+De mais a mais, sobreleva notar que os serviços de proteção ao crédito foram criados apernas para prestarem informações aos que delas necessitarem, não cabendo ao devedor o direito a nenhuma indenização, moral ou material, em virtude da divulgação dessas informações, notadamente quando existem pendências possíveis de reduzir o devedor à insolvência.
+Entrementes, não é o caso de condenação da ré no pagamento de indenização em favor da autora, haja vista não se vislumbrar na fattispecie a ocorrência de ilícito praticado pela requerida ou dano moral sofrido pela autora.
+Nesse sentido, a jurisprudência desta E.
+Corte:
+(..)
+Por derradeiro, mantém-se irretorquível a fixação do ônus sucumbencial em desfavor da autora, ficando as partes advertidas que a interposição de recurso infundado ou meramente protelatório acarretará pena de multa, nos termos do art. 1026, § 2º do CPC.
+Assim, modificar a conclusão do acórdão recorrida, no sentido de que inexiste qualquer irregularidade no apontamento realizado pelo órgão de restrição ao crédito, demandaria o reexame do conjunto fático probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula 7 do STJ.
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão dos benefícios daJ ustiça gratuita.
+Intimem-se.
