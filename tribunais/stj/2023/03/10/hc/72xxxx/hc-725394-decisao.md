@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso especial, com pedido liminar, impetrado em benefício de WESLLEY CHRISTIAN PEREIRA BRASIL, contra v. acórdão proferido pelo eg. TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO (RECURSO EM SENTIDO ESTRITO nº 0016761-71.2019.8.19.0023).
+Narram os autos que o paciente foi pronunciado como incurso nas sanções do art. 121, § 2º, I e III do Código Penal.
+Daí o presente habeas corpus, no qual a d. Defesa, em resumo, afirma haver constrangimento ilegal ao paciente, sob alegação de que a r. pronúncia, ratificada pelo eg. Tribunal de origem, não se encontra pautada em indícios de autoria e materialidade colhidos em juízo, em desacordo com o art. 155 do CPP.
+Requer a concessão da ordem, inclusive LIMINARMENTE, "(..)para cassar o acórdão proferido pela 4º Câmara Criminal do Tribunal de Justiça do Estado do Rio de Janeiro, com a expedição do alvará de soltura" (fl. 17).
+Pedido liminar indeferido, às fls. 100-101, em Em. Relatoria do Min. João Otávio de Noronha.
+Informações, às fls. 105-110 e 112-116.
+O d. Ministério Público Federal, às fls. 120-124, oficiou pela denegação da ordem, em r. parecer de seguinte ementa:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. SENTENÇA CONDENATÓRIA. UTILIZAÇÃO DO WRIT COMO SUCEDÂNEO DE REVISÃO CRIMINAL. INADMISSIBILIDADE. PRECEDENTES. PELA DENEGAÇÃO DA ORDEM."
+É o relatório.
+Decido.
+O presente mandamus encontra-se prejudicado.
+Em consulta ao feito n. 0016761-71.2019.8.19.0023 na origem, constatei que o paciente foi condenado em 29/08/2022, em Sessão Plenária, pelo col. Conselho de Sentença.
+Verbis:
+"(..)Distribuídas as fichas, após a leitura dos quesitos, um Oficial de Justiça de posse de uma urna, recolheu a decisão dos jurados, que depositaram na urna, com absoluto sigilo, as fichas correspondentes, recolhendo, a seguir, as fichas não utilizadas. Resultado da votação, conforme termo em anexo. Terminada a votação lavrou o Juiz-Presidente a sentença, às 21h10min, tornando-a pública em Plenário, na presença dos réus, do Promotor de Justiça, das defesas dos réus e demais circunstantes, contendo nela o seguinte dispositivo: À vista da votação, DECLARO PROCEDENTE A PRETENSÃO PUNITIVA ESTATAL e, por conseguinte, CONDENO os denunciados FLAVIO DELFINO DA CRUZ, RAVEL MARTINS DA FONTE e WESLLEY CHRISTIAN PEREIRA BRASIL pela prática do crime previsto no Art. 121, § 2.º, I e III, do Código Penal. Custas pelos condenados, na forma do artigo 804 do Código de Processo Penal (..)"
+Além do mais, já houve, inclusive, o julgamento da apelação criminal defensiva, na origem, em 06/02/2023, com seguinte ementa:
+"APELAÇÃO CRIMINAL. HOMICÍDIO QUALIFICADO. RECURSOS DEFENSIVOS BUSCANDO NOVO JULGAMENTO, AO ARGUMENTO DE SER O VEREDITO MANIFESTAMENTE CONTRÁRIO À PROVA DOS AUTOS. SUBSIDIARIAMENTE, A DEFESA DOS ACUSADOS BUSCA A EXCLUSÃO DAS QUALIFICADORAS E A REDUÇÃO DO AUMENTO DA PENA-BASE.(..). 7. PARCIAL PROVIMENTO aos recursos, para readequar a pena-base fixada aos acusados, tornando as penas definitivas em 16 anos de reclusão para os acusados Flávio Delfino da Cruz e Ravel Martins da Fonte, e em 13 anos e 04 meses de reclusão para o acusado Weslley Christian Pereira Brasil"
+Ora, esta Corte Superior tem posicionamento firme no sentido de que "a superveniência de sentença condenatória torna prejudicado o pedido que buscava o trancamento da ação penal sob a alegação de falta de justa causa e inépcia da denúncia, haja vista a insubsistência do exame de cognição sumária, relativo ao recebimento da denúncia, em face da posterior sentença de cognição exauriente" (HC 384.302/TO, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 9/6/2017).
+No mesmo sentido: RHC 63.772/SP, Sexta Turma, Relª. Minª. Maria Thereza de Assis Moura, DJe de 25/10/2016; RHC 102.607/ES, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 14/2/2019; e AgRg no HC n. 699.552/RS, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 2/3/2022.
+Não por outro motivo, foi aprovada a Súmula n. 648 pela Terceira Seção deste Tribunal Superior: " A superveniência da sentença condenatória prejudica o pedido de trancamento da ação penal por falta de justa causa feito em habeas corpus."
+Tudo o que impede a análise aqui posta, pois a superveniência da sentença e da Apelação criminal na origem constituíram novos títulos, os quais modificaram drasticamente a situação jurídica e tornaram ineficaz qualquer manifestação desta eg. Corte Superior, até mesmo pela falta de dialeticidade das razões aqui apresentadas, em face dos julgados supervenientes.
+Ante o exposto, julgo prejudicado o presente habeas corpus, ante a perda superveniente do objeto.
+P. I.
