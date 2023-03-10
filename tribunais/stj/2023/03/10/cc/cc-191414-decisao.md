@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de conflito negativo de competência entre o Juízo de Direito da 5ª Vara Criminal de Arapiraca/AL, suscitante, e o Juízo de Direito da Vara Única de Itaíba/PE, suscitado.
+Consta dos autos a existência de investigação relativa a possível prática do crime previsto no art. 121, § 2º, I, do Código Penal.
+O juízo suscitado, após manifestação ministerial, declinou da competência, sob o fundamento de que os atos executórios se iniciaram no Município de Arapiraca/AL (fls. 4-6).
+O Juízo de Direito da 5ª Vara Criminal de Arapiraca/AL, por sua vez, suscitou o presente conflito de competência, por considerar que "o fato do indiciado ser suspeito de ter praticado vários crimes no Estado de Pernambuco, no Estado de Alagoas e no Estado do Piauí, por ser pistoleiro, não autoriza a presunção, sem elementos mínimos para tanto, de que há correlação entre os delitos e de que a motivação resultou de fatos ocorridos na cidade de Arapiraca" (fl. 231).
+As informações foram prestadas.
+Instado a se manifestar, o Ministério Público Federal opinou pelo conhecimento do conflito, para declarar competente o Juízo de Direito da Vara Única de Itaíba/PE, ora suscitado (fls. 256-259).
+O presente conflito de competência deve ser conhecido, por se tratar de incidente instaurado entre juízos vinculados a Tribunais distintos, nos termos do art. 105, I, d, da Constituição Federal - CF.
+Depreende-se dos autos que foi instaurado inquérito policial, pela Polícia Civil do Estado da Pernambuco (DP da 160º Circunscrição de Itaíba/PE), para o fim de apurar o crime de homicídio praticado contra a vítima Enivaldo Martins dos Santos, ocorrido no dia 5/4/2021, na Travessa Conceição, Distrito de Negras, zona rural de Itaíba/PE.
+No que diz respeito ao crime de homicídio, a jurisprudência desta Corte Superior de Justiça firmou entendimento no sentido de que a competência, em regra, é determinada pelo lugar em que se consumou a infração , ou seja, pelo lugar onde ocorreu a morte da vítima, nos termos do art. 70 do CP (HC nº 281961/PE, Rel. Ministro Jorge Mussi, 5ª T, DJe de 5/5/2014).
+Na espécie, consoante extrai-se do parecer ministerial, "verifica-se que a maior parte dos elementos de prova concentra-se na Comarca de Itaíba/PE, local onde se iniciaram as investigações e onde residia a vítima e as testemunhas", e "o fato de o indiciado ser suspeito de ter praticado vários crimes no Estado de Pernambuco, no Estado de Alagoas e no Estado do Piauí, por ser pistoleiro, não autoriza a presunção, sem elementos mínimos para tanto, de que há correlação entre os delitos e de que a motivação resultou de fatos ocorridos na cidade de Arapiraca/AL" (fls. 258-259).
+Assim, restando certo o Estado da Federação no qual o corpo restou encontrado, outra solução não há senão fixar a competência para apuração delitiva em Itaíba/PE.
+Ante o exposto, conheço do conflito de competência para declarar competente o Juízo de Direito da Vara Única de Itaíba/PE, ora suscitado, para processamento e julgamento do feito.
+Publique-se.
+Intimem-se.
