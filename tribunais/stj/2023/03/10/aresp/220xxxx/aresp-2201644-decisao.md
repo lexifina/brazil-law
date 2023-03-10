@@ -1,0 +1,18 @@
+DECISÃO
+Na origem trata-se de mandado de segurança, objetivando o reconhecimento do direito líquido e certo de ver afastada a incidência do ITCD sobre os valores aplicados em VGBL. Na sentença a segurança foi concedida. No Tribunal a quo a sentença foi mantida. O valor da causa foi fixado em R$ 15.000,00 .
+O recurso especial foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, contra acórdão com o seguinte resumo de ementa:
+AGRAVO INTERNO. APELAÇÃO CÍVEL. MANDADO DE SEGURANÇA. ITCMD. NATUREZA JURÍDICA. VGBL. Não incide ITCMD sobre os valores relativos à previdência privada - VGBL -porquanto não integram a herança, pois ostentam natureza de seguro. Art. 794 do Código Civil. Precedentes do STJ. Recurso desprovido.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+"Consoante a jurisprudência do Superior Tribunal de Justiça, "o VGBL tem natureza jurídica de contrato de seguro de vida, de modo que não podem ser enquadrados como herança." (REsp Nº 1.676.801/MG, Rel. Ministro MOURA RIBEIRO, julgado em 18/02/2019, DJe 22/02/2019).
+Assim, não se constituindo em herança o valor oriundo do VGBL, pois ostenta natureza de seguro de vida, nos termos do artigo 794 do Código Civil, não se está diante de hipótese de incidência do ITCMD, nos termos do artigo 2º, inciso II da Lei Estadual nº 8.821/89.
+ ..
+Assim, ausente prova da existência de fraude ou de nulidade do negócio jurídico por má-fé, não merece reforma a sentença que concedera a segurança para excluir o ITCMD calculado sobre os benefícios auferidos a título de VGBL, à luz do disposto no artigo 794 do Código Civil.
+É certo, aliás, que a apreciação dos artigos 155, inciso I, da Constituição da República,2º, inciso II, da Lei n.º 8.821/89 e 83, parágrafo único, da Lei n.º 11.196/05 não leva à modificação do julgado, nos termos da jurisprudência do Superior Tribunal de Justiça e deste Tribunal.
+Relativamente às demais alegações de violação (art. 794 da Lei n. 10.406/02; art. 79 da Lei n. 11.196/05), esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+Ademais, verifica-se que o Tribunal de origem decidiu a matéria em conformidade com a jurisprudência desta Corte. Incide, portanto, o disposto no enunciado n. 83 da Súmula do STJ, segundo o qual: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
