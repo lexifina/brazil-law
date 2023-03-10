@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interposto por MONGERAL AEGON SEGUROS E PREVIDÊNCIA S.A. contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+"DIREITO CIVIL E PROCESSUAL CIVIL - APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA - SEGURO DE VIDA - NEGATIVA DE COBERTURA - ALEGAÇÃO DE DOENÇA PREEXISTENTE, COMO CAUSA DA RECUSA - SEQUELA FÍSICA VISÍVEL - PRESUNÇÃO DE BOA-FÉ DO SEGURADO - AUSÊNCIA DE PROVA EM CONTRÁRIO - DEVER DE INDENIZAR - PRESENÇA. - Compete à parte ré a demonstração da existência de doença preexistente à celebração de contrato de seguro e, também, da má-fé do segurado - que não pode ser presumida, especialmente em se tratando de segurado que apresentava, quando da contratação, sequela física visível - ao prestar informações sobre seu estado de saúde. V.V APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. SEGURO DE VIDA EM GRUPO. INVALIDEZ PERMANENTE COMPROVADA. DOENÇA PREEXISTENTE DIAGNOSTICADA. INEQUÍVOCO CONHECIMENTO DA SEGURADA. INDENIZAÇÃO INDEVIDA. - Para que se configure o dever de pagamento do capital segurado, torna-se indispensável a comprovação da implementação do risco segurado, que no caso, se consubstancia na incapacidade permanente da parte autora para o trabalho. - Age com má-fé o segurado que omite informações acerca de seu estado de saúde, o que leva à improcedência da pretensão do recebimento da indenização securitária, tendo em vista o inequívoco conhecimento do diagnóstico realizado" (e-STJ fl. 365).
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, alega-se violação dos arts. 422, 757, 765 e 766 do Código Civil, ao fundamento de que ficou comprovada a má-fé da agravada, que omitiu a doença pré-existente.
+Com as contrarrazões, foi negado seguimento ao recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+As conclusões do tribunal de origem acerca da má-fé da recorrida decorreram inquestionavelmente da análise do conjunto fático-probatório carreado aos autos, o que se pode facilmente aferir a partir da leitura dos fundamentos do julgado atacado, que ora se colaciona, na parte que interessa:
+"(..)
+No caso em tela, é incontroversa a contratação, entre as partes, de seguro com cobertura indenizatória para o caso de invalidez total ou permanente da segurada, por doença ou acidente pessoal.
+Provado está, nos autos, a incapacitação da segurada, de forma absoluta, irreversível e irremediável, para qualquer ocupação profissional, fato que se deu na vigência do contrato em questão.
+Verifica-se, no laudo pericial de fls. 173/174, que esse evento resultou do agravamento de doença - qual seja, poliomielite - manifestada antes da contratação, mais precisamente ainda na infância da segurada.
+A teor do documento de fls. 35, a cobertura foi negada ao motivo de que a segurada tinha conhecimento da doença que, inicialmente, deu azo à sua condição incapacitante, enquadrando-se em hipótese de perda da cobertura.
+Da análise do conjunto fático-probatório existente nos autos, entretanto, não vejo evidenciada conduta de má-fé por parte da segurada, quando do preenchimento do questionário médico de fls. 19-01 e 19-02, elemento subjetivo indispensável à perda de cobertura.
+Ao contrário disso, a prova pericial demonstra ter sido a Autora acometida de poliomielite ainda em tenra idade, sendo indisfarçável a seqüela que lhe resultou dessa moléstia, substanciada no encurtamento de seu membro inferior direito, facilmente detectável, a olhos vistos.
+Não me parece, assim, poder prosperar a afirmação, feita pela Apelada, de que se tratasse de doença preexistente, para o efeito de negativa de cobertura securitária, presumindo-se a boa-fé da contratante, não derruída por evidência de conduta contrária.
+Em tal cenário, tenho que a Seguradora aceitou firmar o contrato de seguro, com a Autora, estando esta visivelmente portadora de sequela física resultante da poliomielite que lhe acometera ainda na infância, sendo inaceitável que, após se beneficiar, por anos a fio, do pagamento dos prêmios do seguro, recuse a cobertura contratada, em flagrante venire contra factum proprium" (e-STJ fls. 374/375).
+Nesse contexto, denota-se que o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, a teor do enunciado da Súmula nº 7 deste Superior Tribunal.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 15% (quinze por cento) sobre o valor da condenação, os quais devem ser majorados para o patamar de 18% (dezoito por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
