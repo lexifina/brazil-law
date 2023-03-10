@@ -1,0 +1,73 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS contra acórdão prolatado, por unanimidade, pela 8ª Grupo de Direito Público do Tribunal de Justiça de São Paulo no julgamento de ação rescisória, assim ementado (fls. 2.525e):
+AÇÃO RESCISÓRIA DE ACÓRDÃO SUPOSTA OFENSA À COISA JULGADA (ART. 966, IV, C.P.C.) NÃO OCORRÊNCIA
+Ausência de ofensa à coisa julgada, pois quando proferido o acórdão a outra ação ainda estava em curso Ademais, não se verifica identidade entre as ações, que possuem causas de pedir diversas Improcedência decretada.
+Opostos embargos de declaração, foram rejeitados (fls. 2527/2533e).
+Com amparo no art. 105, III, a, da Constituição da República, aponta-se ofensa ao art. 966, IV, do Código de Processo Civil, alegando-se, em síntese, que a cronologia das decisões não afasta a existência de ofensa à coisa julgada, e ainda que, em ambas as ações, o réu pleiteou a concessão de benefício em razão de incapacidade decorrente do acidente do trabalho.
+Sustenta que o fato de haver agravamento da doença não afasta a identidade entre as ações, vale ressaltar que caberia a comunicação na própria ação em curso e não o ajuizamento de outra demanda.
+Com contrarrazões (fls. 2525/2560e), o recurso foi inadmitido (fl. 2561e), tendo sido interposto Agravo, posteriormente convertido em Recurso Especial (fl. 2589e).
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, III, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, a, e 255, I, ambos do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+No caso, no que diz respeito à controvérsia, o Tribunal de origem, após minucioso exame dos elementos fáticos contidos nos autos, consignou não haver ofensa a coisa julgada, nos seguintes termos (fls. 2504/2510e):
+Ação Rescisória nº 2177352-13.2020.8.26.0000 -Voto nº 22120 3 2) FUNDAMENTOS A ação é improcedente.
+A presente ação veio fundada em suposta ofensa à coisa julgada, objetivando-se a desconstituição do trânsito em julgado do processo 1001048-42.2015.8.26.0554, in verbis:
+"Pelo exposto, o INSS requer:
+a) o deferimento da antecipação de tutela requerida, para afastar a exeqüibilidade da condenação oriunda da ação nº 1001048-42.2015.8.26.0554, constante do julgado rescindendo, até decisão final desta rescisória, suspendendo-se, também, o curso do incidente de cumprimento de sentença nº 0013791-62.2019.8.26.0554), oficiando-se ao Juízo de 1º grau para tanto - 7ª Vara Cível da Comarca de Santo André/SP;
+b) no mérito, a procedência da presente ação, para que, em juízo rescindente, o E. Tribunal promova a rescisão do acórdão, afastando-se a condenação do INSS à concessão do auxílio- acidente em favor de EDUARDO FREIRE DA SILVA e dos honorários advocatícios sucumbenciais em favor de seu patrono, com proferimento de novo acórdão, em juízo rescisório, para reformar a sentença de primeiro grau, com a extinção do processo sem resolução de mérito em virtude da existência de coisa julgada anteriormente formada." (fls. 5 destaques do original) Antes de se adentrar à questão de haver (ou não) coisa julgada, imperiosa a definição do que é coisa julgada para fins legais, impondo-se, para tanto, a transcrição do artigo 337 do C.P.C. (o qual repete, na essência, o artigo 301 do C.P.C./73):
+"Art. 337. Incumbe ao réu, antes de discutir o mérito, alegar:
+(..) § 1º Verifica-se a litispendência ou a coisa julgada quando se reproduz ação anteriormente ajuizada.
+§ 2º Uma ação é idêntica a outra quando possui as mesmas partes, a mesma causa de pedir e o mesmo pedido.
+§ 3º Há litispendência quando se repete ação que está em curso.
+§ 4º Há coisa julgada quando se repete ação que já foi decidida
+por decisão transitada em julgado." Note-se que, tanto coisa julgada, como litispendência, necessitam a identidade entre duas ações (mesmas partes, causa de pedir e pedidos).
+A distinção entre elas reside no momento em se ajuíza a segunda ação.
+Se a primeira ação ainda estiver em curso, há litispendência;
+todavia, se a segunda ação for ajuizada depois do trânsito em julgado, então há coisa julgada.
+Respeitadas essas premissas, não há como se reconhecer a coisa julgada.
+Cronologicamente, a primeira ação ajuizada é aquela que o I.N.S.S. quer rescindir o trânsito em julgado, eis que distribuída em 23.01.2015 (fls. 286/290), enquanto a segunda só foi aforada em 14.05.2018 (fls. 336/349).
+Desse modo, quando distribuída a ação que o I.N.S.S. pretende rescindir o trânsito em julgado, sequer existia outra ação (que só foi distribuída mais de 3 anos depois), muito menos decisão transitada em julgado.
+Não bastasse, note-se que ambas as ações tiveram sentenças de procedência (fls. 122/126 e 234/236), que foram objeto de recursos, os quais foram julgados, coincidentemente, no mesmo dia, ou seja, em 11.12.2018 (fls. 182/187 e 237/245).
+Assim, quando prolatado o acórdão que se objetiva rescindir o trânsito em julgado, ainda não havia passado em julgado a outra ação, de modo que impossível que o acórdão tivesse ofendido coisa jugada, justamente porque, à época, não existia.
+Poder-se-ia, quando muito, se falar em litispendência, mas não da ação que o I.N.S.S. objetiva rescindir o trânsito em julgado, mas sim da segunda.
+Todavia, sobreleva, no caso, o fato de não haver identidade entre as Ação Rescisória nº 2177352-13.2020.8.26.0000 -Voto nº 22120 5 demandas.
+Com efeito, embora em ambas o pedido fosse de concessão de benefício acidentário, a causa de pedir é distinta.
+Na primeira demanda, além de acidente típico, o obreiro relata a existência de condições agressivas do seu labor:
+"Os inúmeros fatores de risco suportados contribuíram sobremaneira para o surgimento de LER-Lesões por Esforços Repetitivos, sentindo fortes dores nos ombros, mais acentuadas no direito, além de problemas na coluna e joelhos.
+Não bastasse, em 29 de dezembro de 2.013, ao trabalhar na Rua Ushikishi Kamiya, nº 3709 em São Paulo, acabou sendo vítima de atropelamento, conforme incluso Boletim de Ocorrência, sofrendo violento traumatismo do lado direito do corpo, afetando seriamente os membros superior e inferior.
+Foi socorrido e encaminhado ao Hospital NipoBrasileiro, sendo o evento foi devidamente comunicado ao INSS e registrado sob a C.A.T. Nº 2014.006.758-2/02, fruindo benefícios acidentários através do NB 91/604.967.777-1, de 03.02 a 31.05.2014.
+Atualmente, em decorrência das agressivas condições de trabalho, bem como do acidente narrado, apresenta sérias restrições funcionais, estando impossibilitado de dirigir os caminhões da rede; permanecer em espaços confinados (galerias subterrâneas); subir ou descer escadas, bem como apanhar pesos e elevação dos membros superiores acima de 90º." (fls. 288)
+Na segunda restringiu-se ao acidente típico, mais especificamente a desdobramento desse, com agravo da afecção colunar, inclusive com procedimento cirúrgico ocorrido em 26.06.2015 (ou seja, depois do ajuizamento da primeira ação), in verbis:
+"Em 29 de dezembro de 2013, enquanto trabalhava, o autor foi atropelado na Rua Ushikichi Kamiya, nº. 3709 Jardim Jaçanã, às 10h 30min, que lhe causou lesões no ombro direito, quadril, coluna e joelho direito.
+No dia seguinte ao atropelamento, o autor foi conduzido até
+a sede da empresa a fim de realizar o estudo do acidente ocorrido.
+No que tange aos atestados, o autor obteve o primeiro de 7 dias no hospital, o médico do trabalho deu atestado de 2 dias e posteriormente de mais 4 dias, e por fim, o médico do convênio atestou mais 7 dias para a realização de exames.
+Após analisar referidos exames, o médico do convênio atestou 30 dias de afastamento, o que gerou a CAT Comunicação de Acidente de Trabalho que manteve o autor afastado mediante benefício nº. 604.967.777-1, concedido em 29.12.2013 até 31.05.2014, quando teve alta do INSS Instituto Nacional do Seguro Social e passou a exercer funções administrativas.
+Entretanto, o autor não teve condições de permanecer trabalhando e novamente foi afastado em maio de 2015, tendo sofrido uma cirurgia na coluna em 26.06.2015." (fls. 338/339, destaquei em negrito) A primeira ação, conforme visto, foi distribuída em 23.01.2015 (fls.286/290), de modo que não abarcou os fatos ocorridos após aquela data, inclusive e principalmente, a cirurgia na coluna em razão da piora do seu quadro.
+Embora as ações sejam próximas, inclusive conexas e, portanto, deveriam ter sido reunidas (eis que quando do ajuizamento da segunda, em 14.05.2018, a primeira ainda não estava sentenciada sentença proferida em 18.07.2018 cf. fls. 234/236), não se constata a identidade entre elas a ensejar a coisa julgada ou a litispendência.
+Desse modo, julga-se improcedente a presente ação rescisória, nos termos do artigo 487, inciso I, do C.P.C., condenando-se o autor às verbas sucumbenciais, fixados os honorários advocatícios em 15% sobre o valor da causa (fls. 05), ante a baixa complexidade da mesma (questão só de direito sem dilação probatória) e a rápida tramitação em meio eletrônico.
+Autor isento de custas por expressa previsão legal (Lei Estadual nº 11.608/03. (Destaques meus).
+In casu, rever tal entendimento, com o objetivo de acolher a pretensão recursal, o reexame de configuração ou não de coisa julgada, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7 desta Corte, assim enunciada: "A pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido:
+PROCESSUAL CIVIL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. LITISCONSÓRCIO NECESSÁRIO. INEXISTÊNCIA. LEGITIMIDADE ATIVA. HONORÁRIOS DE ADVOGADO. COISA JULGADA. AÇÃO RESCISÓRIA. JURISPRUDÊNCIA CONTROVERTIDA. REVISÃO DAS CIRCUNSTÂNCIA DA CAUSA. VEDAÇÃO. SÚMULA Nº 7/STJ.
+1. Não é possível rever as circunstâncias da causa para, em sentido diverso ao adotado pelo Tribunal a quo, modificar o decidido em relação a falta legitimidade do sindicato, a proporcionalidade da verba honorária arbitrada, a (in)existência de violação da coisa julgada ou de jurisprudência controvertida no período de julgamento da ação objeto da rescisória, em razão do disposto na Súmula nº 7/STJ: "a pretensão de simples reexame de prova não enseja recurso especial".
+(..) 4. Agravo interno não provido
+(AgInt no REsp 1845303/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 29/06/2020, DJe 03/08/2020).
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. VIOLAÇÃO AO ART. 535 DO CPC/73. NÃO OCORRÊNCIA. OFENSA À COISA JULGADA. REVISÃO. ÓBICE DA SÚMULA 7/STJ.
+1. Não ocorreu omissão no aresto combatido, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. A alteração das conclusões adotadas pela instância ordinária, acerca da existência de coisa julgada em relação ao reconhecimento do exercício de atividade laboral em condições especiais no período ora pleiteado, tal como colocada a questão nas razões recursais, demandaria novo exame do acervo fático-probatório, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 996.170/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 23/05/2017, DJe 30/05/2017)
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. EXCEÇÃO DE COISA JULGADA. MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Hipótese em que o Tribunal de origem afastou expressamente a caracterização de coisa julgada, no caso, entendendo tratar-se de nova causar de pedir. Rever tal entendimento implica reexame da matéria fático-probatória, o que é vedado em Recurso Especial (Súmula 7/STJ).
+2. Recurso Especial não conhecido.
+(REsp 1603527/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 14/06/2016, DJe 05/09/2016)
+No que tange aos honorários advocatícios, da conjugação dos Enunciados Administrativos ns. 3 e 7, editados em 09.03.2016 pelo Plenário desta Corte, depreende-se que as novas regras relativas ao tema, previstas no art. 85 do Código de Processo Civil de 2015, serão aplicadas apenas aos recursos sujeitos à novel legislação, tanto nas hipóteses em que o novo julgamento da lide gerar a necessidade de fixação ou modificação dos ônus da sucumbência anteriormente distribuídos quanto em relação aos honorários recursais (§ 11).
+Ademais, vislumbrando o nítido propósito de desestimular a interposição de recurso infundado pela parte vencida, entendo que a fixação de honorários recursais em favor do patrono da parte recorrida está adstrita às hipóteses de não conhecimento ou de improvimento do recurso.
+Quanto ao momento em que deva ocorrer o arbitramento dos honorários recursais (art. 85, § 11, do CPC/2015), afigura-se-me acertado o entendimento segundo o qual incidem apenas quando esta Corte julga, pela vez primeira, o recurso, sujeito ao Código de Processo Civil de 2015, que inaugure o grau recursal, revelando-se indevida sua fixação em agravo interno e embargos de declaração.
+Registre-se que a possibilidade de fixação de honorários recursais está condicionada à existência de imposição de verba honorária pelas instâncias ordinárias, revelando-se vedada aquela quando esta não houver sido imposta.
+Na aferição do montante a ser arbitrado a título de honorários recursais, deverão ser considerados o trabalho desenvolvido pelo patrono da parte recorrida e os requisitos previstos nos §§ 2º a 10 do art. 85 do estatuto processual civil de 2015, sendo desnecessária a apresentação de contrarrazões (v.g. STF, Pleno, AO 2.063 AgR/CE, Rel. Min. Marco Aurélio, Redator para o acórdão Min. Luiz Fux, j. 18/05/2017), embora tal elemento possa influir na sua quantificação.
+Assim, nos termos do art. 85, §§ 2º e 11, de rigor a majoração, em 20% (vinte por cento), dos honorários anteriormente fixados (fl. 2.509e), restando suspensa sua exigibilidade, nos termos do art. 98, § 3º, do Código de Processo Civil de 2015.
+Posto isso, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO do Recurso Especial.
+Publique-se e intimem-se.
