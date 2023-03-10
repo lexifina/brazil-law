@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por Raphael Sant Anna contra a decisão do Tribunal de Justiça do Espírito Santo, que, em juízo de admissibilidade, inadmitiu o recurso especial por ele apresentado, em que se impugnava o acórdão proferido na Apelação Criminal n. 0022656-22.2015.8.08.0035, assim ementado (fl. 295):
+EMENTA: APELAÇÃO CRIMINAL  ESTELIONATO - ABSOLVIÇÃO - IMPOSSIBILIDADE MATERIALIDADE E AUTORIA DELITIVAS COMPROVADAS - RECURSO DESPROVIDO. Impossível o acolhimento da pretensão absolutória quando a materialidade e a autoria delitivas se encontram fartamente comprovadas nos autos.
+Recurso desprovido.
+Nas razões do especial, apontou a Defensoria Pública contrariedade aos arts. 171 do Código Penal, 155 e 386, VII, do Código de Processo Penal, sustentando, em síntese, a absolvição do réu, por insuficiência de prova, tendo em vista que a autoria do delito foi imputada ao réu com base, exclusivamente, no depoimento da vítima e em declarações testemunhais de policiais que nada presenciaram dos fatos (fls. 305/310).
+Apresentadas contrarrazões (fls. 318/324), o Tribunal local não admitiu o recurso, por incidência da Súmula 7/STJ (fls. 326/328).
+Daí o presente agravo em recurso especial (fls. 331/337). Opina o Ministério Público Federal pelo não conhecimento ou não provimento do recurso, nos termos desta ementa (fl. 360):
+AGRAVO EM RECURSO ESPECIAL. CRIME DE ESTELIONATO. ALEGADA VIOLAÇÃO AO 155, 315, §2º, VI, E 386, VI, TODOS DO CÓDIGO DE PROCESSO PENAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ. PLEITO DE ABSOLVIÇÃO. IMPOSSIBILIDADE MATERIALIDADE E AUTORIA DELITIVAS COMPROVADAS. NECESSIDADE DE REEXAME DE FATOS E PROVAS. INCIDÊNCIA DAS SÚMULAS 7 E 83/STJ. PELO NÃO CONHECIMENTO DO AGRAVO E, CASO CONHECIDO, PELO NÃO CONHECIMENTO DO RECURSO ESPECIAL OU O SEU DESPROVIMENTO.
+É o relatório.
+Presentes os requisitos de admissibilidade do agravo, o recurso merece ser conhecido.
+Busca a Defensoria a absolvição do ora agravante, em razão da falta de provas para a condenação.
+Na sentença, consignou a Juíza a quo (fls. 227/229 - grifo nosso):
+ ..  No caso dos autos, conforme se demonstrará, tais requisitos se fizeram presentes e restaram plenamente comprovados e demonstrados.
+A materialidade do crime encontra-se consubstanciada através da Portaria (fls. 05/25) e Auto de Reconhecimento de Pessoa (fl. 09).
+No tocante à autoria delitiva, o acusado Raphael Sant"anna não foi interrogado em juízo, sendo decretada sua revelia à fl. 161, nos termos do art. 367 do CPP. Perante a autoridade policial (fl. 15), o denunciado nada relatou quanto ao fato criminoso em análise.
+A vítima Fabrício Santana Rocha, ao ser ouvido em juízo (fl. 145), relatou como se deram os fatos. Senão vejamos:
+ ..
+O Policial Civil José Renato Santos Bocayuva assim declarou (fl. 144):
+ ..
+Esta é toda a prova colhida durante a instrução processual.
+O delito de estelionato é o tipo penal que se adequa à atividade empreendida pelo acusado. Trata-se de estelionato no tipo fundamental, presentes todas as elementares, uma vez que Raphael, mediante o uso de meio fraudulento, tentou aferir vantagem ilícita, em prejuízo alheio, ao prometer o veículo automotor à vítima Fabrício, após receber a quantia de R$ 4.690,00 (quatro mil, seiscentos e noventa reais).
+ ..
+Dito de outra maneira, o delito de estelionato exige a presença inafastável do dolo preordenado, bem como a existência de intenção específica do agente de auferir vantagem econômica em detrimento de patrimônio alheio, o que ocorreu no presente caso, basta ver o relato transcrito alhures da vítima Fabrício.
+Importante destacar que conforme o Relatório do Sistema Integrado de Execução Penal (SIEP) e andamentos e-Jud que seguem, o acusado é possuidor de 06 (seis) condenações penais transitadas em julgado, estando respondendo, ainda, mais 02 (duas) ações penais, todas pela prática de crime de estelionato, o que demonstra sua inclinação a esse tipo de conduta delituosa.
+Tenho que a prova se mostrou convergente e concatenada, sendo, portanto, satisfatória para a formação da convicção. Neste sentido, a Denúncia está lastreada de elementos comprobatórios, não havendo como fugir à tipificação do crime de estelionato, por parte de Raphael Sant"anna.  ..
+Sobre o ponto, concluiu a Corte local que os elementos probatórios dos autos são fortes e suficientes para produzir a certeza necessária para dar respaldo ao decreto condenatório imposto, não pairando dúvidas sobre a autoria do delito de estelionato. Confira-se (fls. 296/299 - grifo nosso):
+ ..  Consta do caderno processual, que em janeiro de 2015, o ora apelante, passando-se por Policial Civil, usando de astúcia e lábia, através de erro, engano e ardil, obteve da vítima Fabrício Santana Rocha, vantagem indevida, causando-lhe prejuízo econômico de R$ 4.695,00 (quatro mil, seiscentos e noventa e cinco reais).
+De acordo com os autos, RAPHAEL Teria anunciado a venda de um veículo Corsa Maxx, ano 2008, Placa MRI-3874, no site "Bomnegocio.com", no qual não detinha a propriedade. A vitima interessada na oferta em questão, sem saber q ue o veículo era, em verdade, da cunhada do Réu, marcou encontro com o mesmo a fim de adquirir o citado bem.
+Durante a negociação, o Denunciado se identificou como Policial Civil e laborava na Delegacia de Jucutuquará, justificando ainda, que precisava de espaço em sua garagem para guardar a viatura, sendo esse o motivo da venda do carro. Assim, solicitou que Fabrício depositasse o valor em sua conta poupança, comprometendo-se a baixar o gravame em até cinco dias, o que não ocorreu.
+No primeiro contato, Raphael afirmou que quem estava dificultando a entrega dos documentos era sua cunhada, contudo, depois parou de atender os telefonemas. A vítima chegou a oferecer o número de sua conta para estorno, o que também não foi realizado.
+Em suas razões recursais, às fls. 215/218, busca a defesa a absolvição do acusado, com arrimo na insuficiência probatória.
+Com o devido respeito, razão não lhe assiste.
+De início, observo que a materialidade delitiva restou comprovada pelo Auto de Reconhecimento (fl. 09), Nota de culpa (fl. 16), Relatórios Finais de Inquérito Policial (fls. 17/20 e 22/24) e prova oral produzida nos autos.
+Do mesmo modo, a autoria delitiva não consente dúvidas.
+RAPHAEL não foi interrogado em juízo, sendo decretada sua revelia à fl. 161, nos termos do artigo 367 do Código de Processo Penal. Na DEPOL (fl. 15), nada relatou quanto ao fato criminoso em análise.
+Contudo, a negativa do acusado, vaga, imprecisa e fantasiosa, não restou comprovada nos autos, sendo inteiramente rechaçada pelas outras provas coligidas.
+Nesse sentido, a testemunha arrolada pelo Ministério Público, JOSÉ RENATO SANTOS BOCAYUVA, um dos policiais civis responsáveis pela abordagem do acusado, em juízo, à fl. 144, informou que o acusado já foi preso e foi investigado por outros crimes de estelionato, provando sua habitualidade no contexto criminoso. Confira-se:
+ ..
+Ademais, FABRÍCIO SANTANA ROCHA, ora vítima, às fls. 145, informou com detalhes o fato delituoso perpetrado pelo acusado, senão vejamos:
+ ..
+Imperioso registrar que, em crimes contra o patrimônio, como é ocaso dos autos, cometidos na clandestinidade, o depoimento da vítima, constitui prova de extrema relevância. Sobre o assunto: STJ, AgRg no AREsp 1381251/SP, Ministro Ribeiro Dantas, DJe 26/2/2019.
+Pois bem. O tipo penal inserido no artigo 171, caput, do Código Penal estabelece que o crime de estelionato simples constitui-se das seguintes elementares:
+ ..
+Neste contexto, as provas seguramente mostram que RAPHAEL obteve para si vantagem econômica indevida, utilizando-se de meio fraudulento para enganar a vítima, ao mentir sobe sua profissão e não ter à pretensão de entregar o veículo prometido, mesmo após o pagamento pedido. Portanto, o conjunto probatório é firme quanto ao estado anímico do réu de enganar a vítima, pois desde o início, sua vontade era obter vantagem financeira.
+Destarte, a manutenção da condenação do acusado no crime previsto no artigo 171, caput, do Código Penal, é medida que se impõe.  ..
+De plano, verifica-se que a Corte de origem não emitiu nenhum juízo de valor acerca da questão jurídica levantada nas razões do especial. Nesse contexto, fica inviabilizado o exame, por esta Corte Superior, da tese exposta no recurso especial, sob pena de indevida supressão de instância, razão pela qual incide o disposto nas Súmulas 282 e 356/STF, ante a ausência do indispensável prequestionamento. Nesse sentido: AgRg no AREsp n. 2.134.120/RS, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 28/10/2022; AgRg no AREsp n. 2.027.519/MA, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 20/5/2022, e AgRg no REsp n. 1.741.568/MT, Ministro Ribeiro Dantas, Quinta Turma, DJe 17/2/2021.
+Quanto ao mais, na hipótese, verifica-se que o Juízo de primeiro grau, ao proferir a sentença, após proceder ao cotejo do contexto probatório, formou seu livre convencimento, concluindo pela existência de autoria e materialidade, ressaltando que a prova se mostrou convergente e concatenada, sendo, portanto, satisfatória para a formação da convicção, estando a denúncia lastreada de elementos comprobatórios, não havendo como fugir à tipificação do crime de estelionato (fl. 229).
+Por sua vez, o Tribunal de origem afirmou que as provas seguramente mostram que RAPHAEL obteve para si vantagem econômica indevida, utilizando-se de meio fraudulento para enganar a vítima, ao mentir sobe sua profissão e não ter à pretensão de entregar o veículo prometido, mesmo após o pagamento pedido, asseverando, ainda, que o conjunto probatório é firme quanto ao estado anímico do réu de enganar a vítima, pois desde o início, sua vontade era obter vantagem financeira (fl. 299).
+Por certo, a inversão do julgado, notadamente no que se refere à autoria e à suficiência probatória, encontra óbice na Súmula 7/STJ. A propósito: AgRg no AREsp n. 2.087.070/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 14/2/2023; AgRg no AREsp n. 1.682.426/RS, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 12/5/2022; AgRg no AREsp n. 1.744.184/RJ, Ministro João Otávio de Noronha, Quinta Turma, DJe 31/3/2022; EDcl no AgRg no AREsp n. 1.870.554/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 18/2/2022, dentre outros.
+Ante o exposto, com fundamento no art. 253, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publiqu e-se.
+EMENTA
+PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. ESTELIONATO. PLEITO DE ABSOLVIÇÃO POR INSUFICIÊNCIA DE PROVAS. ART. 155, CAPUT, DO CPP. TESE NÃO PREQUESTIONADA. SÚMULA N. 282/STF. AUTORIA DEMONSTRADA. CONDENAÇÃO MANTIDA PELA CORTE DE ORIGEM COM LASTRO NO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. INVERSÃO DO JULGADO. DESCABIMENTO. SÚMULA 7/STJ.
+Agravo conhecido para não conhecer do recurso especial.
