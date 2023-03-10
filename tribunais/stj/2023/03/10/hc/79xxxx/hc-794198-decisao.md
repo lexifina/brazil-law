@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Renildo dos Santos Dantas, em que se aponta como autoridade coatora o Tribunal de Justiça do Maranhão (Apelação n. 0803929-37.2021.8.10.0060 e HC n. 0822926-20.2022.8.10.0000).
+O paciente foi condenado, pelo Juízo de Direito da 2ª Vara Criminal da comarca de Timon/MA, à pena de 5 anos de reclusão, em regime inicial semiaberto, pela prática do crime de tráfico de drogas. Foi-lhe negado o direito de recorrer em liberdade (fls. 265/270). O Tribunal a quo negou provimento ao apelo da defesa (fls. 45/52). Há embargos infringentes pendentes de julgamento.
+Impetrado habeas corpus na Corte estadual, buscando a concessão de ordem liberatória em favor do paciente, monocraticamente, o Desembargador Relator deixou de conhecer do mandamus (fls. 54/54).
+No presente writ, o impetrante aponta excesso de prazo na prisão cautelar, que perdura desde junho de 2021. Também defende que a manutenção da custódia é incompatível com o regime prisional semiaberto.
+Requer, em liminar e no mérito, possa o paciente responder ao processo em liberdade, sem prejuízo da fixação de medidas cautelares alternativas.
+O pedido de urgência foi indeferido pela Presidência desta Corte (fls. 273/274).
+Informações prestadas pela Corte estadual, nas quais se noticia, inclusive, que os embargos infringentes opostos se encontram conclusos ao relator para julgamento (fls. 786/792).
+Parecer do Ministério Público Federal opinando pelo não conhecimento da impetração (fls. 825/830).
+É o relatório.
+Observa-se que não foi tratada pela instância de origem a questão atinente à suposta não aplicação das regras próprias do regime intermediário à prisão cautelar do paciente, seja no acórdão da Apelação n. 0803929-37.2021.8.10.0060 (fls. 45/52), seja no bojo do HC n. 0822926- 20.2022.8.10.0000 (fls. 53/58).
+De qualquer forma, é pacífico o entendimento deste Tribunal Superior no sentido de que a manutenção da prisão preventiva pelo juiz sentenciante é compatível com a fixação do regime semiaberto, desde que ocorra a devida adequação da segregação cautelar com o regime estabelecido pela sentença condenatória (AgRg no HC n. 783.309/SC, Ministro Ribeiro Dantas, Quinta Turma, DJe 16/2/2023).
+Na hipótese, segundo consta do andamento do PEC n. 5000026-05.2022.8.10.0060, em curso na Vara de Execuções Criminais de comarca de Timon/MA, houve a adequação da preventiva ao regime inicial fixado na condenação. A propósito, no dia 14/12/2022, o Juízo da execução deferiu o pedido de saída temporária ao paciente.
+Vale ressaltar, ainda, que a sentença de primeiro grau fundamentou em dados concretos a necessidade da prisão: Renildo da Silva Dantas já respondeu a vários procedimentos por atos infracionais gravíssimos, como tráfico de drogas e latrocínio, como declarou em Juízo. Apesar da tenra idade e de já ter cumprido Medidas Socioeducativas por mais de uma vez quando menor de idade, volta a reiterar em conduta grave. Portanto, o acusado é pessoa afeiçoada ao mundo do crime e demonstra absoluta ausência de freios sociais, o que justifica a manutenção de medida rigorosa como a prisão preventiva (fl. 209).
+Por fim, não enxergo delonga na referida constrição cautelar , uma vez que os fatos se deram em 2/6/2021 (mesma data em que efetuada a prisão do réu), a ação penal foi sentenciada, a apelação julgada e os embargos infringentes estão na iminência de serem apreciados. Dessa forma, não há excesso de prazo a ser reconhecido, porquanto as instâncias originárias têm diligenciado no sentido de dar andamento aos feitos. Eventual demora decorre exclusivamente do exercício regular do princípio da ampla defesa.
+Ante o exposto, conheço em parte do habeas corpus e, nessa extensão, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. PRISÃO PREVENTIVA MANTIDA APÓS A SENTENÇA. REGIME SEMIABERTO. COMPATIBILIDADE COM A SEGREGAÇÃO CAUTELAR. TEMA NÃO DEBATIDO PELO COLEGIADO NA INSTÂNCIA ANTECEDENTE. SUPRESSÃO DE INSTÂNCIA. EXCESSO DE PRAZO NA CUSTÓDIA. AUSÊNCIA. INEVIDÊNCIA DE FLAGRANTE ILEGALIDADE.
+Writ em parte conhecido e, nessa extensão, ordem denegada.
