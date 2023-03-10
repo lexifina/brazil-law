@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu recurso especial apresentado em face de acórdão assim ementado (e-STJ, fl. 279):
+APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA. CARHP. SOCIEDADE DE ECONOMIA MISTA. FUNÇÃO SOCIAL DOS CONTRATOS: HABITAÇÃO DA POPULAÇÃO DE BAIXA RENDA. INADIMPLÊNCIA DO PARTICULAR. SUPOSTA INÉRCIA DO CREDOR. SENTENÇA COM FUNDAMENTO EM MATÉRIA DE ORDEM PÚBLICA NÃO ALEGADA PELAS PARTES. NULIDADE AFASTADA. PRINCÍPIO DA DA PRIMAZIA DA DECISÃO DE MÉRITO. DECADÊNCIA. APLICAÇÃO ANALÓGICA DO ART. 206, §5º, I, DO CC/02. TERMO INICIAL. DATA DE VENCIMENTO DA ÚLTIMA PARCELA NÃO PAGA. NECESSIDADE DE DILAÇÃO PROBATÓRIA ACERCA DA INÉRCIA DO CREDOR. TÉCNICA DE JULGAMENTO INADEQUADA. ERROR IN PROCEDENDO. ANULAÇÃO DA SENTENÇA. RECURSO CONHECIDO E PROVIDO.
+Nas razões do especial, aponta o recorrente violação/negativa de vigência do artigo 54 da Lei nº 9.784/99.
+Argumenta, em síntese, que a vinculação do contrato de financiamento ao Sistema Financeiro da Habitação atrairia a aplicação das normas que regulam o processo administrativo na Administração Pública Federal, notadamente a que estabelece o prazo decadencial.
+Defende, ainda, que a decadência deveria ser reconhecida, de ofício, pelo Superior Tribunal de Justiça.
+Contra-arrazoado, o recurso especial não foi admitido na origem, contra o que se manifestam os agravantes na presente via.
+Assim delimitada a controvérsia, passo a decidir.
+Inicialmente, no que se refere à alegada violação do artigo 54 da Lei nº 9.784/99, o Tribunal de origem limitou-se a afastar sua aplicação, tendo em vista sua impertinência em relação aos contratos de direito privado, como no caso.
+A propósito, transcrevo a passagem do acórdão recorrido, em que apreciada a prejudicial (e-STJ, fl. 290):
+35 Por fim, não se pode olvidar que o contrato de financiamento de imóvel, celebrado no âmbito do sistema financeiro de habitação, apesar de envolver ente público da Administração Indireta, é usualmente regido pelas normas de direito privado, não havendo nos autos elementos que indiquem a incidência da lei n. 9.784/99.
+Ao analisar a sentença, verifico que a pretensão ajuizada pelo credor contra o devedor limita-se - única e exclusivamente - à cobrança do valor inadimplido pelo mutuário (e-STJ, fl. 213):
+De acordo com o supracitado contrato e demais documentos que aparelham a esta exordial, os Réus se comprometeram a pagar pelo imóvel, o valor certo e ajustado de Cz$ 51.102,28 (Cinquenta e um mil, cento e dois cruzados e vinte e oito centavos), sendo este valor dividido em 360 (trezentas e sessenta) parcelas mensais e consecutivas de Cz$ 383,15 (Trezentos e oitenta três cruzados e quinze centavos), calculadas segundo o Plano de Equivalência Salarial e em conformidade com o Sistema de Amortização de que trata a Resolução nº. RD106/81BNH. Em que pese às condições contratadas, segundo informações atualizadas de nossos bancos de dados, os mutuários (Réus) não efetuaram o pagamento devido, faltando de forma contumaz com as obrigações assumidas, eis que se encontra inadimplente desde o mês de abril de 1991, totalizando até a presente data, um débito no importe de R$ 141.493,53 (Cento e quarenta e um mil, quatrocentos e noventa e três reais e cinquenta e três centavos), conforme se vê do extrato de encargos não pagos em anexo, gerido pelo gestor hipotecário, o qual faz a atualização de todos os débitos das Companhias de Habitação  COHAB do país, baseando-se no tipo do contrato firmado. (grifo acrescido)
+Como se vê do trecho acima reproduzido, conquanto pressuposta a vinculação do contrato ao Sistema Financeiro da Habitação (SF H), não há disputa sobre a cobertura pelo Fundo de Compensação de Variações Salariais (FCVS).
+Por conta disso, evidenciada a natureza privada da controvérsia, limitada à obrigação principal no mútuo habitacional, o contrato deve ser regido pelo direito privado, inclusive em relação aos prazos de natureza extintiva.
+Nesse sentido:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO REVISIONAL E EMBARGOS À EXECUÇÃO HIPOTECÁRIA. CONTRATO DE MÚTUO. SISTEMA FINANCEIRO DE HABITAÇÃO. EXECUÇÃO. PRESCRIÇÃO. TERMO INICIAL. DATA DA ÚLTIMA PARCELA. AGRAVO INTERNO PROVIDO PARA AFASTAR A PRESCRIÇÃO.
+1. O parcelamento do saldo devedor nos contratos de financiamento imobiliário não configura relação de trato sucessivo, pois não se trata de prestações decorrentes de obrigações periódicas e autônomas, que se renovam mês a mês, mas de parcelas de uma única obrigação, qual seja, a de quitar integralmente o valor financiado até o termo final do contrato.
+2. Por se tratar de obrigação única (pagamento do valor total financiado), desdobrada em prestações para facilitar o adimplemento por parte do devedor, o termo inicial do prazo prescricional também será único, correspondendo à data de vencimento da última parcela do financiamento.
+3. Agravo interno provido para afastar a prescrição.
+(AgInt no REsp n. 1.837.718/PR, relator Ministro Raul Araújo, Quarta Turma, julgado em 9/8/2022, DJe de 30/8/2022.) (grifo acrescido)
+DIREITO CIVIL E PROCESSUAL CIVIL. FINANCIAMENTO IMOBILIÁRIO. SISTEMA FINANCEIRO DA HABITAÇÃO. EXECUÇÃO HIPOTECÁRIA. PRAZO PRESCRICIONAL.
+1.- A execução hipotecária proposta para cobrança de crédito vinculado ao Sistema Financeiro da Habitação sujeita-se ao prazo prescricional de 05 (cinco) anos previsto no artigo 206, § 5º, I, do Código Civil.
+2.- Recurso Especial a que se nega provimento.
+(REsp n. 1.385.998/RS, relator Ministro Sidnei Beneti, Terceira Turma, julgado em 3/4/2014, DJe de 12/5/2014.) (grifo acrescido)
+Desse modo, como a orientação adotada pelo Tribunal de origem está em consonância com a jurisprudência desta Corte, o recurso especial não deve ser conhecido, em razão do óbice da Súmula 83/STJ.
+Em face do exposto, nego provimento ao agravo.
+Deixo de arbitrar honorários de recurso, pois inexistente condenação na origem, vedando-se acréscimo ulterior, na forma dos §§ 2º e 11 do artigo 85 do CPC/15.
+As demais questões ficam prejudicadas.
+Intimem-se.
