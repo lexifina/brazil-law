@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto por RICARDO CARLOS DA SILVA, contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado de Santa Catarina, assim ementado:
+"APELAÇÃO CÍVEL. IMPUGNAÇÃO AO CUMPRIMENTO PROVISÓRIO DE DECISÃO. TUTELA DEURGÊNCIA CONCEDIDA EM AÇÃO DE OBRIGAÇÃO DE FAZER. SUJEIÇÃO DO RÉU AEFETUAR REPAROS NO IMÓVEL DO AUTOR, A FIM DE CESSAR INFILTRAÇÕES. CONCESSÃODE 120 (CENTO E VINTE) DIAS DE PRAZO PARA CUMPRIMENTO DA ORDEM, SOB PENA DEMULTA DIÁRIA. INCIDENTE EXECUTIVO VOLTADO À COBRANÇA DO VALOR ACUMULADOPELA PENALIDADE, AO ARGUMENTO DE QUE O INTERREGNO FOI EXTRAPOLADO. SENTENÇA PROFERIDA NA AÇÃO PRINCIPAL, TODAVIA, QUE RECONHECEU OCUMPRIMENTO PONTUAL DA OBRIGAÇÃO. COISA JULGADA. INVIABILIDADE DE REDISCUTIRAS TESES JÁ DECIDIDAS E NÃO MAIS SUJEITAS A RECURSO. SENTENÇA DE EXTINÇÃO DOINCIDENTE MANTIDA. RECURSO DO EXEQUENTE DESPROVIDO" (fl. 607 e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 632-634 e-STJ).
+No recurso especial (fls. 646-647 e-STJ), a agravante aponta, além de divergência jurisprudencial, a violação do artigo 537, §§ 1º e 4º, do Código de Processo Civil.
+Afirma que sido equivocada a extinção do cumprimento de sentença, visto que as astreintes fixadas são devidas.
+Alega que "não há como se considerar que a obrigação foi cumprida no prazo concedido, muito menos que a tentativa de cumprimento é suficiente para afastar a incidência da multa aplicada, como quis fazer o MM. Juiz de 1º grau" (fl. 652 e-STJ).
+Reitera que "a sentença que extinguiu por completo a multa se deu em absoluta negativa de vigência ao artigo 537, § 1º do CPC, o que não se pode admitir" (fl. 654 e-STJ) e que, "como o acordo não foi cumprido, o processo prosseguiu o seu regular trâmite, tendo sido, através da referida decisão, automaticamente revogada a sentença homologatória que extinguiu o feito quanto ao pedido cominatório" (fl. 655 e-STJ).
+Com as contrarrazões (fls. 694-698 e-STJ), foi negado seguimento ao recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+O Tribunal de origem manteve a decisão que extinguiu o cumprimento de sentença por entender ser indevida a multa pleiteada, com base nos seguintes fundamentos:
+"(..)
+O recorrente manejou cumprimento provisório de decisão escorado na tutela antecipada concedida naação de obrigação de fazer n. 0016131-46.2010.8.24.0005. Naquele ensejo, foi determinado ao condomínio o prazode 120 (cento e vinte) dias contados da intimação para concluir todos os reparos necessários a cessar a infiltraçãono imóvel do apelante, sob pena de pagamento de multa diária equivalente a R$ 300,00 (trezentos reais) em casode descumprimento.
+O apelado, por sua vez, foi intimado da imposição mandamental em 25-2-2011, de modo que o prazooutorgado pelo Juízo se esgotaria em 25-6-2011. Segundo o apelante, todavia, o interregno não foi obedecido, jáque os problemas somente findaram em meados de 2015.
+A pretensão deduzida no presente cumprimento de sentença, contudo, esbarra na coisa julgada,porquanto a própria sentença proferida nos autos 0016131-46.2010.8.24.0005 reconheceu o cumprimento pontualda obrigação.
+Transcreve-se, a propósito, excerto do aludido julgado:
+ ..  Observa-se que a principal demanda do requerente - reparos no telhado para deter as infiltrações - já foi atendidano decorrer do trâmite processual. Constata-se, ademais, que o próprio autor informou nos autos que após a instalação de manta asfáltica os problemaspor fim cessaram. Portanto, os pedidos relacionados à reforma do telhado da cobertura perderam o objeto e já foram inclusive extintosna decisão que homologou o acordo realizado no feito n.º 005.11.009244-3, conforme se verifica na fl. 952,restringindo-se a presente demanda aos prejuízos provocados pelos vazamentos. Tendo restado, assim, apenas o item "F" dos pedidos da exordial (danos materiais e morais e lucros cessantes),passo à análise deste último aspecto da demanda.  ..
+Reputa-se, assim, pela inviabilidade de discussão das teses invocadas no presente apelo, justamente porque acobertadas pelo manto da coisa julgada, cujos efeitos tornaram imutável a conclusão declinada quando dasentença de mérito. A propósito, a sentença produziu inegável efeito substituitivo à decisão proferida em fase liminar, notadamente porque declarou a perda de objeto do pedido de reparo - e, consequentemente, da multa arbitrada.
+Convém sublinhar, por necessário, que os efeitos do trânsito em julgado alcançam até mesmo asmatérias de ordem pública, a resguardar sobretudo a segurança jurídica das partes a quem a prestação jurisdicionalse destina.
+Nesse contexto, o acolhimento da pretensão recursal, no sentido de ser devido o pagamento de astreintes, demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, conforme dispõe o enunciado da Súmula nº 7 deste Superior Tribunal.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Em observância ao art. 85, §§ 11, do CPC/2015, majoro em 5% (cinco por cento) os honorários devidos p ela parte recorrente, sobre o valor arbitrado pela Corte local, em favor do patrono da parte recorrida.
+Intimem-se.
+Publique-se.
