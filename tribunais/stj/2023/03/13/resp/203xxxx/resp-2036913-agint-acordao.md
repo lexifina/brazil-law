@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/03/2023 a 13/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Humberto Martins, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que negou provimento ao recurso especial, fundamentado no art. 105, III, a, da Constituição Federal, visando reformar acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim resumido:
+ADMINISTRATIVO. ENSINO. AUTORIZAÇÃO PARA MINISTRAR CURSO DE MEDICINAL. REGULAMENTAÇÃO. COMPETÊNCIA DO PODER EXECUTIVO HIGIDAMENTE EXERCIDA. Compete privativamente à União legislar sobre as diretrizes e bases da educação nacional, nos termos do art. 21, inciso XXIV, da Constituição. Sobrevindo a Lei 12.871/2013, resultante da conversão da Medida Provisória nº 621, de 08 de julho de 2013, as instituições devem observar as regras nela elencadas para a autorização e funcionamento dos cursos de Medicina, não havendo, portanto, razão para a interferência do Judiciário nesta seara. A Portaria nº 328, de 05 de abril de 2018 (ev. 11, PORT7), do Ministério da Educação, alterada posteriormente pela Portaria nº 1.302, de 04de dezembro de 2018, suspendeu por 5 anos os protocolos de pedidos de aumento de vagas e de novos editais de chamamento público para autorização de cursos de graduação em Medicina. Não verificados os abusos e inconstitucionalidades aventadas pela parte autora, a escolha político-legislativa não pode ser tolhida pelo Poder Judiciário, sob pena de ferir o princípio basilar da separação dos Poderes, bem como o princípio da deferência, lastreado este último na ideia de que decisões proferidas por autoridades detentoras de competência específica - sobretudo de ordem técnica - precisam ser respeitadas pelos demais órgãos e entidades estatais.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 255, § 4º, I e II, do RISTJ, conheço parcialmente do recurso especial e, nessa extensão, nego-lhe provimento; majorando, com fundamento no art. 85, § 11, do CPC/2015, os honorários sucumbenciais para R$ 3.700,00 (três mil e setecentos reais)."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+Ficou claro que o Tribunal Regional Federal da 4ª Região, por sua 4ª Turma, utilizou-se abusivamente de técnica de fundamentação per relationem sem, contudo, se manifestar acerca das teses levantadas pela Autora na sua apelação. Repise-se que não se manifestou a 4ª Turma sobre qualquer das teses levantadas em contraponto à sentença. Irresignada, a Recorrente opôs Embargos de Declaração demonstrando ponto a ponto que sequer foi mencionado no relatório do acórdão as teses indicadas pela Ré para reformar o julgado.
+ ..
+Novamente, dessa vez em decisão monocrática ora rebatida, o Poder Judiciário nega a análise do que ocorre nos autos em comento: patente violação à necessidade de fundamentação das decisões judiciais e claro atropelo do devido processo legal. Não há a devida prestação jurisdicional.
+ ..
+São diversas as teses que demonstram que há notório interesse da União em criar monopólios regionais na oferta de cursos de medicina, em detrimento da formação de novos profissionais, entretanto adentrar no mérito dos fundamentos da apelação não se mostra razoável sob pena de violação ao princípio do duplo grau de jurisdição ou ainda pelo fato de que este Tribunal Superior estaria decidindo sobre matéria que sequer o Tribunal Regional Federal da 4ª Região tenha decidido, eis que apenas reproduziu integralmente os fundamentos da sentença.
+ ..
+As matérias tratadas na lide em questão são tanto constitucionais como infraconstitucionais. Na visão da Agravante, o julgamento monocrático merece reforma pois não há qualquer impedimento ao STJ para que analise matérias infraconstitucionais, ainda que estas guardem relação com a Constituição.
+ ..
+Se a intenção legal é propiciar a formação de mais médicos ou a formação destes em localidades mais afastadas, o procedimento de chamamento público poder ser utilizado com incentivos e parcerias, já que cabe ao Ministério da Educação a elaboração do edital e pré-seleção dos municípios participantes. Em sentido contrário, impedir que sequer seja re-querida a criação de um curso de nível superior na localidade em que bem entender a inicia-tiva privada causa estranheza e não observa os direitos já citados: autonomia universitária, livre iniciativa, autonomia privada.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINSTRATIVO. AÇÃO DE PROCEDIMENTO COMUM. ENSINO. AUTORIZAÇÃO PARA MINISTRAR CURSO DE MEDICINA. DESPROV IMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. NÃO HÁ NEGATIVA DE PRESTAÇÃO JURISDICIONAL. FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL.
+I - Na origem, trata-se de ação de procedimento comum objetivando determinar que processe o requerimento de autorização para oferta do curso de graduação em Medicina da Universidade autora na cidade de Canoas/RS, independentemente de chamamento público. Na sentença o pedido foi julgado improcedente. No Tribunal a quo, a sentença foi mantida.
+II - Não há que se falar em negativa de prestação jurisdicional.
+III - O Tribunal de origem solucionou a causa mediante o fundamento suficiente de que a Lei n. 12.871/2013, resultante da conversão da Medida Provisória n. 621, de 08 de julho de 2013, determinou como as instituições devem observar as regras nela elencadas para a autorização e funcionamento dos cursos de Medicina.
+IV - Isso porque a Lei n. 12.871/2013 (Programa "Mais Médicos") instituiu política pública nacional voltada à melhoria do serviço público de saúde prestado nas cidades do interior do País, com ênfase nas áreas com maior demanda da população usuária da rede pública, voltada para a atenção básica em saúde.
+V - Para tanto, existem regras para a escolha de municípios a serem abarcados pelo "chamamento público" das universidades privadas, o que passa por uma análise aprofundada, baseada em levantamentos técnicos acerca da carência médica populacional no âmbito do território nacional.
+VI - E, diante do contexto dessa política pública questionada pela parte recorrente, não haveria hipótese de interferência do Judiciário.
+VII - Assim, verifica-se que o acórdão recorrido lastreou-se em fundamentos suficientes, não havendo necessidade de que sejam abordados todos os tópicos que a parte recorrente entende importantes.
+VIII - A alegação de omissão consistiu, pois, em mero descontentamento com as conclusões a que chegou o Tribunal de origem.
+IX - No mérito, o recurso não comporta conhecimento.
+X - Verifica-se das razões recursais que o fundamento discutido, em termos de separação de Poderes e ofensa à autonomia universitária, é eminentemente constitucional, em especial, porque apontou a parte recorrente a violação dos respectivos dispositivos da Constituição Federal, além de ter sido por ela interposto recurso extraordinário.
+XI - A pretensão recursal busca, em verdade, por via transversa, a declaração da inconstitucionalidade da Lei n. 12.871/2013, o que escapa à competência deste Superior Tribunal de Justiça.
+XII - Assim, o recurso especial não constitui instrumento processual destinado a examinar questão constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal, conforme dispõe o art. 102, III, da Constituição.
+XIII - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+Não há que se falar em negativa de prestação jurisdicional.
+O Tribunal de origem solucionou a causa mediante o fundamento suficiente de que a Lei n. 12.871/2013, resultante da conversão da Medida Provisória n. 621, de 08 de julho de 2013, determinou como as instituições devem observar as regras nela elencadas para a autorização e funcionamento dos cursos de Medicina.
+Isso porque a Lei n. 12.871/2013 (Programa "Mais Médicos") instituiu política pública nacional voltada à melhoria do serviço público de saúde prestado nas cidades do interior do País, com ênfase nas áreas com maior demanda da população usuária da rede pública, voltada para a atenção básica em saúde.
+Para tanto, existem regras para a escolha de municípios a serem abarcados pelo "chamamento público" das universidades privadas, o que passa por uma análise aprofundada, baseada em levantamentos técnicos acerca da carência médica populacional no âmbito do território nacional.
+E, diante do contexto dessa política pública questionada pela parte recorrente, não haveria hipótese de interferência do Judiciário.
+Assim, verifica-se que o acórdão recorrido lastreou-se em fundamentos suficientes, não havendo necessidade de que sejam abordados todos os tópicos que a parte recorrente entende importantes.
+A alegação de omissão consistiu, pois, em mero descontentamento com as conclusões a que chegou o Tribunal de origem.
+No mérito, o recurso não comporta conhecimento.
+Verifica-se das razões recursais que o fundamento discutido, em termos de separação de Poderes e ofensa à autonomia universitária, é eminentemente constitucional, em especial, porque apontou a parte recorrente a violação dos respectivos dispositivos da Constituição Federal, além de ter sido por ela interposto recurso extraordinário.
+A pretensão recursal busca, em verdade, por via transversa, a declaração da inconstitucionalidade da Lei n. 12.871/2013, o que escapa à competência do Superior Tribunal de Justiça.
+Assim, o recurso especial não constitui instrumento processual destinado a examinar questão constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal, conforme dispõe o art. 102, III, da Constituição.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
