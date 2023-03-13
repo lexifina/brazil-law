@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/03/2023 a 13/03/2023, por unanimidade, dar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Humberto Martins, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Na origem, trata-se de ação ordinária objetivando que a requerida seja condenada a indenizar os prejuízos causados em relação ao pagamento de pensão por morte feito aos dependentes de falecido.
+Na sentença o pedido foi julgado parcialmente procedente. No Tribunal a quo, a sentença foi reformada apenas para reduzir o percentual dos honorários sucumbenciais.
+Nesta Corte, não se conheceu do recurso da parte agravante. Interposto agravo interno, foi julgado improcedente. Opostos embargos de declaração, aponta a parte embargante erro no julgamento.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. RESSARCIMENTO. INDENIZAÇÃO. PENSÃO POR MORTE. AGRAVO INTERNO IMPROVIDO. ERRO NO JULGAMENTO. PROVIMENTO DO AGRAVO INTERNO. MAJORAÇÃO DA VERBA HONORÁRIA.
+I - Na origem, trata-se de ação ordinária objetivando que a requerida seja condenada a indenizar os prejuízos causados em relação ao pagamento de pensão por morte feito aos dependentes de falecido. Na sentença o pedido foi julgado parcialmente procedente. No Tribunal a quo, a sentença foi reformada apenas para reduzir o percentual dos honorários sucumbenciais. Nesta Corte, não se conheceu do recurso da parte agravante. Interposto agravo interno, foi julgado improcedente. Opostos embargos de declaração, aponta a parte embargante erro no julgamento.
+II - De fato, o acórdão contém erro que passa a ser corrigido. Determino a anulação do acórdão de fls. 1.981-1.986, que julgou o agravo interno de fls. 1.962-1.965. Passo ao rejulgamento do agravo interno.
+III - O agravo interno merece provimento. Consoante o Enunciado Administrativo n. 3/STJ, aprovado pelo Plenário do STJ, na sessão de 9/3/2016: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+IV - De igual modo, o enunciado n. 7 da Súmula Administrativa do STJ dispõe que, "Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC".
+V - Por sua vez, nos termos do § 11 do art. 85 do Código de Processo Civil de 2015: "O tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal, observando, conforme o caso, o disposto nos §§ 2º a 6º, sendo vedado ao tribunal, no cômputo geral da fixação de honorários devidos ao advogado do vencedor, ultrapassar os respectivos limites estabelecidos nos §§ 2º e 3º para a fase de conhecimento."
+VI - Na sentença, houve condenação da parte ré e fixaram-se os honorários advocatícios em 20% sobre o valor da causa. No acórdão, a sentença foi mantida e foi provido o recurso da parte ré, ora agravada, para reduzir a condenação para 10% do valor da causa.
+VII - Ante o exposto, considerando o trabalho adicional realizado, com a apresentação de contrarrazões ao recurso especial, e os critérios previstos nos §§ 2º a 6º do art. 85 do Código de Processo Civil de 2015, acolho os embargos de declaração, para integrar a decisão embargada, fazendo constar a majoração dos honorários advocatícios em 1%.
+VIII - Agravo interno provido para majorar a verba honorária.
+VOTO
+De fato, o acórdão contém erro que passa a ser corrigido. Determino a anulação do acórdão de fls. 1.981-1.986, que julgou o agravo interno de fls. 1.962-1.965. Passo ao rejulgamento do agravo interno.
+O agravo interno merece provimento.
+Consoante o Enunciado Administrativo n. 3/STJ, aprovado pelo Plenário do STJ, na sessão de 9/3/2016: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+De igual modo, o enunciado n. 7 da Súmula Administrativa do STJ dispõe que, "Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC".
+Por sua vez, nos termos do § 11 do art. 85 do Código de Processo Civil de 2015: "O tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal, observando, conforme o caso, o disposto nos §§ 2º a 6º, sendo vedado ao tribunal, no cômputo geral da fixação de honorários devidos ao advogado do vencedor, ultrapassar os respectivos limites estabelecidos nos §§ 2º e 3º para a fase de conhecimento."
+Na sentença, houve condenação da parte ré e fixaram-se os honorários advocatícios em 20% sobre o valor da causa. No acórdão, a sentença foi mantida e foi provido o recurso da parte ré, ora agravada, para reduzir a condenação para 10% do valor da causa.
+Ante o exposto, considerando o trabalho adicional realizado, com a apresentação de contrarrazões ao recurso especial, e os critérios previstos nos §§ 2º a 6º do art. 85 do Código de Processo Civil de 2015, acolho os embargos de declaração, para integrar a decisão embargada, fazendo constar a majoração dos honorários advocatícios em 1%.
+Agravo interno provido para maj orar a verba honorária.
+É o voto.
