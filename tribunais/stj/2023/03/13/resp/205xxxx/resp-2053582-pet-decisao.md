@@ -1,0 +1,13 @@
+DECISÃO
+Por meio da Petição n. 00170109/2023, acostada às fls. 209-210, a recorrente Virginia Caetano de Sousa Moreirao requer "a suspensão cautelar dos presentes autos, até a decisão final do IRDR de n.º 5557428-97.2022.8.09.0000, a fim de garantir segurança jurídica, bem como isonomia de decisões a respeito do período para pagamento do reajuste salarial anual previsto nas Leis Estaduais n.º 18.419/2014, 18.420/2014 e 18.421/2014".
+É o relatório. Decido.
+Ao proceder o juízo de admissibilidade do presente recurso especial, observou o Tribunal de origem a existência do mencionado IRDR de n. 5557428-97.2022.8.09.0000 ressaltando, no entanto, que "houve, naqueles autos, determinação expressa de suspensão de todos processos pendentes de julgamento, que versam sobre o tema em questão, tanto nesta instância ad quem quanto na de primeiro grau. Por essa monta, nada obsta o prosseguimento deste processo, eis que já realizado o julgamento do meritum causae em segundo grau (inteligência do art. 982, I, do CPC)" (fl. 197).
+Nesta feita, assinala-se que não merece ser acolhido o pedido de suspensão do processo em virtude do incidente de demandas repetitivas do Tribunal de origem porque a referida determinação não se aplica a esta Corte Superior, uma vez que não se trata de juízo vinculado ao Tribunal de origem.
+A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. SERVIDOR PÚBLICO. PEDIDO DE SUSPENSÃO DO FEITO EM RAZÃO DE ADMISSÃO E JULGAMENTO DE IRDR PELO TRIBUNAL DE ORIGEM. INVIABILIDADE. AUSÊNCIA DE PREVISÃO LEGAL. FALTA DE COMPETÊNCIA DESTA CORTE SUPERIOR PARA DETERMINAR A SUSPENSÃO. DETERMINAÇÃO DE SUSPENSÃO SOMENTE DOS FEITOS EM TRÂMITE NOS JUÍZOS VINCULADOS AO TRIBUNAL DE ORIGEM. AGRAVO INTERNO NÃO PROVIDO.
+1. Segundo já consignado na decisão agravada, não cabe a esta Corte Superior determinar a suspensão de feito em razão de IRDR instaurado ou julgado pelo Tribunal de origem.
+2. Ademais, o art. 313, IV, do CPC/2015 determina a suspensão do processo apenas no caso de admissão de IRDR, inexistindo qualquer previsão legal para manter o sobrestamento dos feitos até o trânsito em julgado do acórdão nele proferido.
+3. Por fim, o Tribunal de origem, ao admitir a instauração do IRDR, determinou a suspensão dos processos em tramitação em todos os juízos a ele vinculados, conforme ementa transcrita nas razões do agravo interno. Referida determinação, obviamente, não se aplica a esta Corte Superior, uma vez que não se trata de juízo vinculado ao Tribunal de origem.
+4. Agravo interno não provido (AgInt no AREsp 1645372/ES, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 11/12/2020).
+Ante o exposto, indefiro o pedido de suspensão.
+Publique-se. Intimem-se.
