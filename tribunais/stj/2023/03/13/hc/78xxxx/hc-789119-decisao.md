@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, impetrado em favor de Leonardo Santana contra acórdão do Tribunal de Justiça do Estado de Santa Catarina, proferido no julgamento da Apelação n. 0016033-60.2017.8.24.0023.
+Consta dos autos que o paciente interpôs apelação ao Tribunal Estadual em decorrência da sua condenação ao crime do art. 33 da Lei 11.343/06, recurso este que foi negado nos termos da ementa:
+"APELAÇÃO CRIMINAL. CRIME DE TRÁFICO DE DROGAS (ART. 33, CAPUT, DA LEI N. 11.343/2006). SENTENÇA CONDENATÓRIA. RECURSO DA DEFESA.
+PLEITO ABSOLUTÓRIO. ALEGADA CARÊNCIA PROBATÓRIA. INSUBSISTÊNCIA. MATERIALIDADE E AUTORIA DEVIDAMENTE COMPROVADAS. AGENTES POLICIAIS QUE, EM JUÍZO, CONFIRMARAM A APREENSÃO DE MACONHA, COCAÍNA, DINHEIRO E RÁDIO COMUNICADOR EM PODER DO ACUSADO. DROGAS JÁ FRACIONADAS. DINHEIRO CUJA ORIGEM LÍCITA NÃO RESTOU SUFICIENTEMENTE DEMONSTRADA. RÁDIO COMUNICADOR QUE CONFIGURA OBJETO COMUMENTE IDENTIFICADO NA "BOCA DE FUMO". ABORDAGEM EM LOCAL CONHECIDO PELO COMÉRCIO ESPÚRIO. ACUSADO QUE JÁ ERA CONHECIDO PELA GUARNIÇÃO POLICIAL. NARCOTRAFICÂNCIA CONSTATADA. DEPOIMENTOS DOS POLICIAIS MILITARES UNÍSSONOS E COERENTES AO LONGO DA MARCHA PROCESSUAL E AMPARADOS NOS ELEMENTOS PROBATÓRIOS CONSTANTES NO APF. NÃO COMPROVADA QUALQUER MÁ-FÉ OU INTENÇÃO DE PREJUDICAR O RÉU. TESES DEFENSIVAS NÃO DEMONSTRADAS (ART. 156, CAPUT, DO CPP). IMPOSSIBILIDADE DE DESCLASSIFICAÇÃO DA CONDUTA PARA A PREVISTA NO ART. 28, CAPUT, DA LEI DE DROGAS. EVENTUAL CONDIÇÃO DE USUÁRIO DE DROGAS QUE SEQUER ELIDE A RESPONSABILIDADE CRIMINAL. SENTENÇA CONDENATÓRIA MANTIDA.
+RECURSO CONHECIDO E DESPROVIDO" (fl. 694).
+A defesa sustenta que a quantidade de drogas apreendidas não enseja o afastamento da causa de diminuição de pena prevista no art. 33, § 4º, do diploma de regência. Afirma, ainda, que o paciente possui condições favoráveis para concessão da benesse.
+Objetiva a fixação do regime inicial aberto e a substituição da pena privativa de liberdade por restritiva de direitos, nos termos do art. 44 do Código Penal - CP.
+Desse modo, requer, "a concessão definitiva da ordem, a fim de que, no presente caso, seja reconhecida o evidente BIS IN IDEM, além da causa de diminuição de pena elencada no § 4º artigo 33 da Lei n. 11.343/2006, em seu patamar máximo, com o respectivo abrandamento do regime prisional e, em consequência, a substituição da pena privativa de liberdade por restritiva de direitos, se porventura não entendam pela substituição por penas restritivas de direitos, subsidiariamente requer a concessão da ordem para modificar o regime de cumprimento da pena para inicial aberto" (fl. 20).
+O pedido liminar foi indeferido em decisão de fls. 882/884.
+Parecer do Ministério Público Federal, opinando pela denegação da ordem, assim sumariado:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. SENTENÇA CONDENATÓRIA. UTILIZAÇÃO DO WRIT COMO SUCEDÂNEO DE REVISÃO CRIMINAL. INADMISSIBILIDADE. PRECEDENTES. PELA DENEGAÇÃO DA ORDEM."(fl. 887)
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida. Todavia, considerando as alegações expostas na inicial, mostra-se razoável verificar a existência de eventual constrangimento ilegal.
+Embora seja possível a concessão da ordem, de ofício, se constatada a existência de manifesta ofensa à liberdade de locomoção do paciente, essa não é a hipótese dos autos.
+Isso porque a irresignação específica da defesa não foi debatida na instância ordinária, circunstância que impede o pronunciamento desta Corte Superior a respeito, sob pena de indevida supressão de instância.
+Vejamos os seguintes julgados:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. AJUIZAMENTO DO WRIT SIMULTÂNEO À INTERPOSIÇÃO DE RECURSO ESPECIAL NA ORIGEM. PRINCÍPIO DA UNIRRECORRIBILIDADE. ESTRATÉGIA PROCESSUAL. OMISSÃO NÃO DEMONSTRADA. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O ajuizamento simultâneo do writ com interposição de recurso próprio contra o mesmo ato judicial, tal como no caso dos autos, trata-se de indevida subversão do sistema recursal e de violação do princípio da unirrecorribilidade. Cabe à parte optar pelo caminho que lhe seja mais favorável, arcando com as consequências de sua escolha (AgRg no HC n. 589.923/SP, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 1/4/2022).
+2. A defesa alega que não houve pronunciamento pela instância anterior de nova prova trazida aos autos quando da interposição do recurso de apelação. No entanto, tal suposta omissão pela Corte estadual não foi devidamente comprovada neste writ, uma vez que não foi juntada cópia das razões do apelo para verificação do que foi pleiteado pela defesa, tampouco de eventuais embargos de declaração impugnando o acórdão recorrido neste ponto.
+3. O que é possível inferir do presente mandamus - instruído pela própria defesa - é que a tese de ilegalidade por falta de apreciação da nova prova não foi analisada pela Corte de origem por não foi alegada no recurso. Tampouco se sabe se foi interposto embargos de declaração, recurso próprio para sanar eventuais omissões, contradições e obscuridades de decisões judiciais.
+4. Assim, do que consta nos autos, a tese não foi objeto de análise pelo Tribunal estadual, o que impede sua apreciação por esta Corte Superior, sob pena de supressão indevida de instância.
+5. Agravo regimental não provido.
+(AgRg no HC n. 720.421/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 11/10/2022, DJe de 3/11/2022.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. INCIDÊNCIA DO REDUTOR PREVISTO NO § 4º DO ART.33 DA LEI N. 11.343/06. MAUS ANTECEDENTES. ABSOLVIÇÃO. SUPRESSÃO DE INSTÂNCIA. REGIME FECHADO. QUANTIDADE, VARIEDADE E NATUREZA DA SUBSTÂNCIA ENTORPECENTE. A GRAVO REGIMENTAL DESPROVIDO.
+1. A irresignação específica da defesa, em relação à terceira fase da dosimetria da pena, não foi examinada pela Corte estadual, circunstância que impede o pronunciamento a respeito do tema, diretamente por este Tribunal Superior, sob pena de indevida supressão de instância.
+2. A quantidade, variedade e a natureza da droga apreendida, aliadas aos outros elementos probatórios coligidos aos autos, demonstram a gravidade concreta do delito, justificando, por força do princípio da individualização da pena, o agravamento do aspecto qualitativo (regime) da pena, nos termos do art. 42 da Lei n. 11.343/06.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 733.386/SP, minha relatoria, Quinta Turma, julgado em 21/6/2022, DJe de 27/6/2022.)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
