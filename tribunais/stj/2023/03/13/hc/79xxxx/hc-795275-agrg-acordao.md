@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/03/2023 a 13/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Rogerio Schietti Cruz.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+RELATÓRIO
+Trata-se de Agravo regimental (Petição n. 16.131/2023), tempestivo, interposto por Daniel Gude contra a decisão proferida pela Ministra Maria Thereza de Assis Moura, Presidente desta Corte, que indeferiu liminarmente o writ (fls. 301/303).
+Sustenta-se no recurso, em síntese, ilegalidade consistente em nulidade da condenação - ao argumento de que lastreada em provas exclusivamente colhidas na fase inquisitorial - e possibilidade de abrandamento do regime inicial, considerando a menoridade relativa do agravante.
+Requer-se, então, o conhecimento e o provimento do recurso para que o agravante seja absolvido - por força do disposto no art. 155/CPP, c/c art. 386, VII/CPP, tendo-se em vista que A CONDENAÇÃO SE ENCONTRA LASTREADA, EXCLUSIVAMENTE, EM ELEMENTOS INQUISITORIAIS NÃO CONFIRMADOS EM JUÍZO (fl. 330) - e, subsidiariamente, a alteração do regime inicial.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. RECEPTAÇÃO SIMPLES, ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR E CORRUPÇÃO DE MENORES. NULIDADE. ALEGAÇÃO DE CONDENAÇÃO FUNDAMENTADA EXCLUSIVAMENTE EM ELEMENTOS INFORMATIVOS COLHIDOS NA INVESTIGAÇÃO. INOCORRÊNCIA. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. INVIABILIDADE. ABRANDAMENTO DO REGIME PRISIONAL. DESCABIMENTO. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+1. No caso, a decisão agravada deve ser mantida, pois, segundo o Tribunal local a condenação não está fundamentada exclusivamente nos elementos informativos colhidos na investigação, mas no laudo pericial, outras provas (documento de veículo, o termo de reconhecimento e entrega e mídias) e em relatos colhidos em ambas as etapas da persecução penal. Então, a desconstituição dessas conclusões demandaria o revolvimento de fatos e provas, o que é vedado na via eleita.
+2. Não há que se falar em abrandamento do regime inicial de cumprimento de pena, porquanto devidamente observado o disposto no art. 33, § 2º, b , do Código Penal para a fixação do modo semiaberto.
+3. Agravo regimental improvido.
+VOTO
+Apesar das alegações do recurso, razão não lhe assiste.
+Incialmente, registre-se que o agravante foi condenado a 4 anos e 2 meses de reclusão, em regime inicial semiaberto, pela prática dos crimes receptação simples, adulteração de sinal identificador de veículo automotor e corrupção de menores.
+Ao que se tem, as pretensões recursais não se coadunam com o entendimento desta Corte Superior. Confira-se:
+a) nulidade decorrente de condenação lastreada em provas exclusivamente colhidas na fase inquisitorial
+A alegação foi afastada pela Corte estadual nos seguintes termos (fls. 175/176):
+1. Das provas.
+In casu, tem-se como provas produzidas durante a persecução penal o boletim de ocorrência, o laudo pericial, o documento de veículo, o termo de reconhecimento e entrega e mídias (todos do Inquérito nº 5016317-30.2020.8.24.0038), além dos relatos colhidos em ambas as etapas da persecução penal.
+Nesse viés, o policial militar Thiago Araújo Soares (mídia do Evento 56) discorreu que não se recordava da abordagem policial. Já na delegacia de polícia citou que estavam em rondas pelo bairro Comasa e estranharam os dois masculinos pois estavam de agasalho em um dia bem quente e procederam com a abordagem e aparentemente estava tudo tranquilo, um era menor de idade e o réu, que era quem estava dirigindo. Depois dos procedimentos, perceberam que o chassi estava suprimido e a placa estava adulterada (mídia dos autos nº 5016317-30.2020.8.24.0038).
+O informante Jackson Mariano dos Santos, passageiro da moto à época, explicou que estava junto com o réu na abordagem, sendo primo dele. Narrou que comprou a motocicleta e foram dar uma volta com ela. Disse que quando chegaram perto da escola foram abordados pelos policiais. O policial que estava no carro viu a placa e visualizou que a mesma estava adulterada, mas não sabiam da adulteração. Explicou que quando comprou a moto não tinha consultado a placa. Reforçou que o veículo era de sua propriedade e não de Daniel, tendo adquirido o bem uma semana antes. Questionado, respondeu que não se recorda de quem comprou a moto. Pagou R$ 1.500,00, sendo R$ 1.000,00 em dinheiro e o restante pagaria com a entrega do documento da moto, contudo o vendedor não apareceu mais. Afirmou que na casa em que moram há um portão na frente, só que tem outro portão que divide muro e que ambos são vizinhos. Explicou que o masculino de quem comprou a moto queria uma tatuagem em vez do valor em dinheiro, então o depoente entregou a quantia para Daniel, que então fez a tatuagem e no final o depoente ficou com a moto para si (mídia do Evento 56). No inquérito o depoente permaneceu silente.
+O informante Richard Bryan Fernandes disse que é vizinho de Daniel e de Jackson há anos. Ficou sabendo pela vizinhança que eles tinham comprado uma moto e deu alguma confusão com o bem. Disse acreditar que a moto era de Jackson. Pontuou que, atualmente, Daniel é tatuador (mídia do Evento 56).
+O informante Fernando Soares se limitou a afirmar que Daniel é tatuador e que o veículo pertencia a Jackson (mídia do Evento 56).
+Por fim, a testemunha Odair José Cardoso, atual empregador do réu, confirmou que o réu lhe pediu materiais para fazer um negócio em troca de tatuagem com o primo dele (mídia do Evento 56).
+Ao ser interrogado em juízo o réu negou as imputações. Explicou que é tatuador há cerca de 5 anos, sendo Jackson seu primo. Explicou que seu primo lhe chamou para dar uma volta de moto que era dele e não iria na garupa porque ele não sabia pilotar direito. Quando estavam voltando para casa, foram abordados e os policiais desceram agressivos dando tapas e querendo oprimi-los. Não sabe de quem seu primo comprou o bem, mas explicou que na época era um cliente seu que queria fazer uma troca e seu primo, quando soube do assunto, quis comprar o veículo. Assim, ficou "elas por elas", pois que seu primo lhe deu mil reais em dinheiro e o interrogando fez uma tatuagem no vendedor do veículo. Pelo que sabe, ele se chamava Luis e não o viu mais. Disse que ele ficou de levar ao seu primo o documento da moto, ou o documento de leilão, mas nunca mais voltou. Ele dizia que a moto era de leilão, "pizeira", e o negócio foi fechado em frente à sua casa (mídia do Evento 56). A narrativa coincide com aquela da fase policial, onde, no entanto, afirmou que a transação se deu pela quantia de R$ 800,00 (oitocentos reais).
+Assim, concluído pelo Tribunal local que a condenação não está fundamentada exclusivamente nos elementos informativos colhidos na investigação, mas em laudo pericial, outras provas (documento de veículo, o termo de reconhecimento e entrega e mídias - fl. 175) e relatos colhidos em ambas as etapas da persecução penal (fl. 175), a desconstituição dessas conclusões demandaria o revolvimento de fatos e provas, o que é vedado na via eleita.
+Julgados nesse sentido:
+ ..
+2. No caso, a decisão agravada deve ser mantida, pois, segundo o Tribunal local, o reconhecimento fotográfico, realizado em curto período de tempo após o crime, respeitou a lei processual. Além disso, a condenação do ora agravante não foi fundamentada exclusivamente no reconhecimento fotográfico feito pela vítima na delegacia - constou do acórdão que foram considerados para a condenação os reiterados reconhecimentos efetivados pela vítima, inclusive em Juízo. A desconstituição dessas conclusões demandam o revolvimento de fatos e provas, o que é vedado na via eleita.
+ ..
+4. Agravo regimental improvido.
+(AgRg no HC n. 702.271/SP, de minha relatoria, Sexta Turma, julgado em 20/9/2022, DJe de 22/9/2022)
+ ..
+4. Além dos depoimentos extrajudiciais prestados pelos policiais que efetuaram a prisão do Acusado e pela esposa do Réu, as instâncias ordinárias também destacaram o testemunho prestado em juízo por um dos policiais civis, que confirmou os relatos feitos na fase policial no sentido de que o Réu foi surpreendido no instante em que transportava relevante quantidade de entorpecente. Assim, uma vez que os elementos do inquérito foram valorados em conjunto com a prova judicial produzida, não se verifica a alegada ofensa ao art. 155, caput, do Código de Processo Penal.
+5. Para a inversão da conclusão das instâncias ordinárias - que, após a análise integral dos fatos e das provas, entenderam pela condenação do Acusado - seria inevitável nova incursão no arcabouço probatório, providência indevida no espectro de cognição do habeas corpus.
+6. Habeas corpus parcialmente conhecido e, nessa extensão, denegada a ordem.
+(HC n. 613.383/SP, Ministra Laurita Vaz, Sexta Turma, julgado em 22/2/2022, DJe de 3/3/2022)
+b) possibilidade de abrandamento do regime inicial considerando a menoridade relativa do agravante
+Tal pretensão foi afastada no Tribunal estadual ao fundamento de que, em face da pena imposta (4 anos e 2 meses de reclusão), inviável se mostra a fixação do regime inicial aberto, consoante dispõe o art. 33 do CP (fl. 178).
+Então sem razão, também nesse ponto, por ausência de previsão legal.
+Julgado nesse sentido:
+AGRAVO REGIMENTAL. HABEAS CORPUS. HOMICÍDIO TENTADO. DOSIMETRIA. CIRCUNSTÂNCIA ATENUANTE. MENORIDADE RELATIVA. DIMINUIÇÃO DA PENA ABAIXO DO MÍNIMO LEGAL. IMPOSSIBILIDADE. VERBETE SUMULAR N. 231/STJ. ABRANDAMENTO DO REGIME PRISIONAL. DESCABIMENTO. DESPROVIMENTO DO RECURSO.
+1. O Superior Tribunal de Justiça, por meio do verbete sumular 231, sedimentou o entendimento de que "a incidência da circunstância atenuante não pode conduzir à redução da pena abaixo do mínimo legal". Precedentes.
+2. Mantida a reprimenda em 4 anos e 8 meses de reclusão, não há que se falar em abrandamento do regime inicial de cumprimento de pena, porquanto devidamente observado o disposto no art. 33, § 2º, b, do Código Penal para a fixação do modo semiaberto.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 743.812/RS, Ministro Jorge Mussi, Quinta Turma, julgado em 22/11/2022, DJe de 28/11/2022)
+Assim, inexiste o constrangimento ilegal alegado na inicial.
+Em razão disso, nego provimento ao agravo regimental.
