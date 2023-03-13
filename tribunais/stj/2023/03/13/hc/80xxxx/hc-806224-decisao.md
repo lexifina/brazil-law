@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de MARCIO SANTANNA VAZ FILHO em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS (HC 5127558-38.2023.8.09.0000).
+O paciente está preso preventivamente pela suposta prática do delito tipificado no art. 33 da Lei 11.343/2006.
+O impetrante sustenta: " Juiz não poderá decretar a custódia cautelar sem que haja prévio requerimento do Ministério Público ou representação da autoridade policial (..) não há atuação ex officio na determinação judicial em sentido diverso do requerimento do Parquet, pois cabe ao magistrado atuar conforme os ditames legais, se provocado, no exercício da jurisdição" (e-STJ fl. 08).
+Requer, liminar e definitivamente, deferimento da ordem para expedição de alvará de soltura ante a conversão de ofício da prisão em flagrante em preventiva.
+É  o  relatório.  Decido.
+A jurisprudência deste Superior Tribunal de Justiça firmou-se em que, "A usente teratologia ou evidente ilegalidade na decisão impugnada capaz de justificar o processamento da presente ordem, pela mitigação da Súmula 691 do STF, deve-se resguardar a competência do Tribunal Estadual para análise do tema e evitar a indevida supressão de instância" (AgRg no HC 740.703/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/8/2022, DJe de 10/8/2022).
+Verifica-se que não está caracterizada manifesta ilegalidade suficiente para superar o óbice do referido enunciado sumular.
+A autoridade impetrada consignou (e-STJ fl. 16-17):
+No caso, a análise das razões expostas pelo impetrante e a documentação acostada aos autos, não permitem a conclusão da presença do fumus boni iuris, porquanto não há indícios suficientes da manifesta ilegalidade, capaz de ensejar o deferimento da medida de urgência liminarmente.
+A princípio, a decisão que decretou a prisão preventiva conta com fundamentação coerente e suficiente, tendo o magistrado mantido o paciente Márcio Santanna no cárcere, especialmente em razão dos indícios suficientes da autoria e materialidade diante "da prisão em flagrante, o Termo de Exibição e Apreensão e o Laudo de Perícia Criminal, dissertando minuciosamente as características, bem como o quantitativo das substâncias apreendidas em poder do autuado, que conduz à cognição de que as substâncias entorpecentes eram destinadas ao tráfico, o que afasta a incidência do título de mero usuário. Lado outro, iniludível o indício de autoria, de modo que satisfatória a comprovação através das substâncias apreendidas, bem como os depoimentos das testemunhas e narrativa do próprio indiciado" (mov. 1, doc.4).
+Ressaltou, ainda, a necessidade de garantia da ordem pública, da conveniência da instrução criminal e do resguardo de aplicação da lei penal e em razão da reprimenda em abstrato ser superior a 04 anos (art. 313, I, CPP).
+Vale ressaltar que, em uma primeira análise, sem aprofundar no exame do mérito, não é motivo de concessão de liminar a alegação de prisão de ofício, consoante já decidido por esta Corte de Justiça (.. ).
+Não se constata vício na negativa do pleito liminar, sendo certo que o revolvimento das questões aventadas acarretaria supressão de instância, pois serão alvo de exame na Corte de origem quando do julgamento final.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno deste Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
