@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/03/2023 a 13/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de agravo interno interposto por PORTOCRED SA CREDITO FINANCIAMENTO E INVESTIMENTO, contra a decisão da Presidência do STJ que não conheceu do agravo em recurso especial que interpusera.
+Ação: de revisão de cédula de crédito bancário, ajuizada por LUCIANA GAMARRA NOGUEIRA em desfavor da ora agravante.
+Sentença: julgou improcedente o pedido.
+Acórdão: deu provimento à apelação interposta pela agravada, para julgar parcialmente procedente o pedido inicial, a fim de limitar os juros remuneratórios à taxa média de mercado divulgada pelo BACEN, determinando a repetição simples dos valores pagos a maior, admitida a compensação.
+Embargos de declaração: opostos pela ora agravante, foram rejeitados.
+Recurso especial: sustentando dissídio jurisprudencial, alega que a mera divergência entre e taxa de juros contratada e a taxa média de mercado divulgada pelo BACEN não implica abusividade.
+Prévio juízo de admissibilidade: o TJ/RS inadmitiu o recurso, com fundamento na incidência das Súmulas 5, 7 e 83/STJ.
+Decisão da Presidência do STJ: não conheceu do agravo em recurso especial, em razão da ausência de impugnação específica de todos os fundamentos da decisão denegatória, em especial a Súmula 83/STJ (aplicação, portanto, da Súmula 182/STJ).
+Embargos de declaração: opostos pela agravante, foram rejeitados.
+Agravo interno: nas razões do presente recurso, a agravante defende a inaplicabilidade da Súmula 83/STJ, sustentando que, de acordo com a jurisprudência desta Corte, a abusividade da taxa contratual de juros deve ser avaliada de acordo com as peculiaridades do caso concreto.
+Aduz que o acórdão recorrido destoa da orientação deste Tribunal, no sentido de que o simples fato de a taxa contratada estar acima da taxa média de mercado não significa, por si só, abusividade.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. JUROS REMUNERATÓRIOS. ABUSIVIDADE. SÚMULAS 5 e 7/STJ.
+1. Ação revisional de contrato bancário.
+2. É admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada - art. 51, § 1º, do CDC) fique cabalmente demonstrada, ante as peculiaridades do julgamento em concreto (REsp n. 1.061.530/RS, Segunda Seção).
+3. Na espécie, para alterar a conclusão alcançada na origem, no sentido da abusividade da taxa de juros convencionada, seria necessário o reexame do contrato e das demais provas produzidas no processo, o que não é admitido em sede de recurso especial (Súmulas 5 e 7 do STJ).
+4. Agravo interno não provido.
+VOTO
+A decisão agravada não conheceu do agravo em recurso especial devido à ausência de impugnação específica de todos os fundamentos da decisão que inadmitiu o recurso especial, aplicando, nesse diapasão, a Súmula 182/STJ.
+Pela análise das razões recursais ora apresentadas, verifica-se que, ainda que superado o referido óbice, melhor sorte não obteria a parte agravante.
+Com efeito, a Segunda Seção, no julgamento REsp n. 1.061.530/RS, submetido ao rito dos recursos especiais repetitivos, fixou o entendimento de que "é admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada - art. 51, § 1º, do CDC) fique cabalmente demonstrada, ante as peculiaridades do julgamento em concreto".
+Ademais, a jurisprudência do STJ é no sentido de que a circunstância de a taxa de juros remuneratórios praticada pela instituição financeira exceder a taxa média do mercado não induz, por si só, à conclusão de cobrança abusiva, consistindo a referida taxa em um referencial a ser considerado, e não em um limite que deva ser necessariamente observado pelas instituições financeiras (AgInt no AREsp n. 1.844.716/MA, Quarta Turma, julgado em 13/12/2021, DJe de 16/12/2021; AgInt no AREsp n. 1.470.820/MS, Terceira Turma, julgado em 14/10/2019, DJe de 17/10/2019).
+Na espécie, contudo, a Corte de origem, cotejando as particularidades fático-contratuais da demanda com a taxa média de mercado, concluiu pela abusividade da taxa de juros convencionada, determinando a sua limitação à taxa divulgada pelo Bacen.
+Essa conclusão, todavia, não pode ser revista por esta Corte, porquanto isso exigiria o reexame do contrato e das demais provas produzidas no processo, o que não é admitido na estreita via do recurso especial, a teor do disposto nas Súmulas 5 e 7 do STJ.
+A propósito, citam-se os seguintes julgados:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO REVISIONAL. JUROS REMUNERATÓRIOS. ABUSIVIDADE CONSTATADA. REVISÃO. IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ. DIVERGÊNCIA PREJUDICADA. AGRAVO INTERNO IMPROVIDO.
+1. Nos termos da jurisprudência desta Corte Superior, "os juros remuneratórios devem ser limitados à taxa média de mercado quando comprovada, no caso concreto, a significativa discrepância entre a taxa pactuada e a taxa de mercado para operações similares" (AgInt no REsp 1.930.618/RS, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 25/4/2022, DJe 27/4/2022).
+2. Não há como afastar a conclusão estadual - no que diz respeito à abusividade dos juros remuneratórios estipulados na avença - sem a interpretação das cláusulas pactuadas e sem o revolvimento fático-probatório, procedimentos que se encontram obstados na seara extraordinária, em razão dos óbices contidos nos verbetes n. 5 e 7 da Súmula desta Corte Superior.
+3. De acordo com o entendimento do Superior Tribunal de Justiça, a incidência da Súmula n. 7/STJ impossibilita o conhecimento do recurso especial por ambas as alíneas do permissivo constitucional, porquanto não é possível encontrar similitude fática entre o acórdão combatido e os arestos paradigmas, uma vez que as suas conclusões díspares ocorreram, não em virtude de entendimentos diversos sobre uma mesma questão legal, mas sim de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+4. Agravo interno improvido" (AgInt no AREsp n. 2.148.102/RS, Terceira Turma, DJe de 24/11/2022.)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO REVISIONAL. JUROS REMUNERATÓRIOS. ABUSIVIDADE CONSTATADA PELO TRIBUNAL. REVISÃO DO JULGADO. IMPOSSIBILIDADE. SÚMULAS N.os 5 E 7 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO CONFIGURADO. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+2.Afastar a afirmação contida no acórdão atacado no sentido de que a taxa de juros remuneratórios da avença é abusiva, demanda a reavaliação do acervo fático-probatório dos autos e a interpretação das cláusulas contratuais, o que é vedado no âmbito do recurso especial, nos termos das Súmulas n.ºs 5 e 7 desta Corte.
+3. A jurisprudência desta Corte firmou o entendimento de que não é possível o conhecimento do apelo nobre interposto pela divergência, na hipótese em que o dissídio é apoiado em fatos, e não na interpretação da lei. Isso porque a Súmula n.º 7 do STJ também se aplica aos recursos especiais interpostos pela alínea c do permissivo constitucional.
+4. Agravo interno não provido" (AgInt no AREsp n. 2.165.595/RS, Terceira Turma, DJe de 30/11/2022.)
+"CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATOS BANCÁRIOS. AÇÃO REVISIONAL. JUROS REMUNERATÓRIOS. TAXA MÉDIA DE MERCADO. REFERENCIAL. SÚMULA N. 83/STJ. CONSUMIDOR EM DESVANTAGEM EXAGERADA. ABUSIVIDADE. SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. A despeito de a taxa média de mercado apurada pelo Banco Central ter sido tomada como referencial útil para o controle da abusividade (REsp n. 1.821.182/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 23/6/2022, DJe de 29/6/2022), não foi o simples fato de a taxa efetiva cobrada no contrato estar acima da taxa média de mercado que conduziu o Tribunal a quo a concluir pela existência de abuso no caso concreto, senão a circunstância de o consumidor ter sido colocado em desvantagem exagerada (REsp n. 1.061.530/RS, submetido ao rito do art. 543-C do CPC/1973, Relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 22/10/2008, Dje 10/03/2009). Incide a Súmula n. 83/STJ.
+2. O entendimento no sentido da abusividade da taxa de juros praticada no caso concreto se deu mediante a análise do contrato revisado, de sorte que a modificação do acórdão demandaria o reexame de matéria fático-probatória e das cláusulas contratuais, providência não admitida no âmbito desta Corte, a teor das Súmulas n. 5 e 7 do STJ.
+3. Agravo interno a que se nega provimento" (AgInt no AREsp n. 2.175.567/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 12/12/2022, DJe de 15/12/2022.)
+Logo, mesmo que fosse superada a aplicação da Súmula 182/STJ, a insurgência recursal, em seu mérito, não prospera, o que impõe a rejeição do presente agravo interno.
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno.
