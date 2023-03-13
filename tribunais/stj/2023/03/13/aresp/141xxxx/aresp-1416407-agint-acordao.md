@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/03/2023 a 13/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA: Trata-se de agravo interno manejado por EXCELSO CONSULTORIA TÉCNICA DE SEGUROS S/C LTDA. contra decisão de fls. 377/378, que não conheceu de seu agravo, ante a incidência da Súmula 182/STJ, eis que, por força da aplicação da Súmula 83/STJ, caberia à parte recorrente demonstrar que o precedente indicado na decisão agravada não se aplicaria ao caso dos autos ou, ainda, que o entendimento jurisprudencial do STJ não está pacificado no mesmo sentido do acórdão recorrido, com a citação de julgados contemporâneos ou supervenientes aos referidos na decisão impugnada, providência da qual não se desincumbiu.
+Sustenta a parte agravante, em resumo, que "restou detidamente demonstrado que o Superior Tribunal de Justiça entende que o ônus de comprovação do oferecimento à tributação é do responsável, só cabendo ao contribuinte se não recolhido. Para asseverar seus argumentos, transcreveu as ementas do AgRg no REsp nº 981.997/SP - Relator Ministro José Delgado; EREsp nº 644.223/SC -Relator Ministro José Delgado; REspnº 898.925/SP -Relatora Ministra Eliana Calmon; AgRg no Ag nº 145.127/SP, Relator Ministro Ari Pergendler; e AgRg no REsp nº 928.169/PR, Relator Ministro José Delgado" (fl. 385).
+Aberta vista à parte agravada, transcorreu in albis o prazo para apresentação de impugnação (fl. 392).
+É O RELATÓRIO.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FALTA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+1. Nos termos da Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida".
+2. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): No caso, a agravante cingiu-se a afirmar que "restou detidamente demonstrado que o Superior Tribunal de Justiça entende que o ônus de comprovação do oferecimento à tributação é do responsável, só cabendo ao contribuinte se não recolhido" (fl. 385).
+Outrossim, alega simplesmente que "transcreveu as ementas do AgRg no REsp nº 981.997/SP - Relator Ministro José Delgado; EREsp nº 644.223/SC -Relator Ministro José Delgado; REspnº 898.925/SP -Relatora Ministra Eliana Calmon; AgRg no Ag nº 145.127/SP, Relator Ministro Ari Pergendler; e AgRg no REsp nº 928.169/PR, Relator Ministro José Delgado" (fl. 385).
+Ocorre que, como cediço, tendo em conta que o recurso especial foi inadmitido tendo por base a consonância do acórdão recorrido com a jurisprudência do STJ (Súmula 83/STJ), caberia ao recorrente demonstrar que o entendimento jurisprudencial não está pacificado no mesmo sentido do acórdão recorrido ou, ainda, que o precedente não se aplicaria ao caso dos autos, o que não se deu na hipótese em tela . Nesse sentido: AgInt no REsp 1.396.520/SP, Rel. Ministro Napoleão Nunes Maia Filho, 1ª Turma, DJe 13/9/2019.
+Confira-se ainda:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO. IMPUGNAÇÃO DEFICIENTE DA SÚMULA 83/STJ. AUSÊNCIA DE PRECEDENTES DO STJ. APLICAÇÃO DA SÚMULA 182/STJ.
+1. Os fundamentos da decisão recorrida exercida por este Relator, que não conheceu o Recurso Especial, não foram enfrentados adequadamente pelo Agravo interposto, permanecendo incólumes em face da impugnação apresentada.
+2. Em primeiro lugar, a agravante não impugnou o enunciado da Súmula 282 do STF, utilizado como fundamento da decisão recorrida para não conhecer da insurgência contra a ofensa aos arts. 337, § 4º, 485, V, e 502 do CPC e ao art. 57 da Lei 8.443/1992. Portanto, esse capítulo do decisum precluiu.
+3. Por outro lado, o Tribunal Regional interpretou corretamente o art. 935 do CC e o art. 126 da Lei 8.112/1990, no sentido de que as esferas judiciais e administrativas são independentes entre si. A exegese dos dispositivos não é difícil, bastando ao interprete se utilizar da interpretação gramatical.
+4. O acórdão do Tribunal Regional Federal está em conformidade com julgados deste egrégio Superior Tribunal de Justiça no sentido de que a absolvição criminal só afasta a responsabilidade administrativa se negar a existência do fato ou da autoria. O art. 935 é enfático em aludir que as questões resolvidas no juízo criminal e no cível são independentes.
+5. De fato, as razões do recurso devem exprimir, com transparência e objetividade, os motivos pelos quais a parte recorrente visa reformar o decisum, o que não foi feito na peça recursal, visto que não apresentou impugnação adequada à incidência da Súmula 83/STJ.
+Assim sendo, quanto ao ponto, não se pode conhecer do recurso, nos termos do art. 1.021, § 1º, do CPC/2015.
+6. O entendimento do Superior Tribunal de Justiça é de que não basta, para afastar o óbice da Súmula 83 do STJ, a alegação genérica de que o acórdão recorrido não está em consonância com a jurisprudência deste Tribunal, devendo a parte recorrente demonstrar que outra é a positivação do direito na jurisprudência do STJ, com a indicação clara de precedentes contemporâneos ou supervenientes aos referidos na decisão agravada, o que não foi realizado pela parte agravante, a ensejar o não conhecimento do Agravo.
+7. A jurisprudência do STJ aplica sua Súmula 182 ao Agravo em Recurso Especial que não refuta, de maneira específica, os fundamentos da decisão de admissibilidade proferida pelo Tribunal a quo, e ao Agravo Interno que combate de maneira deficiente a decisão monocrática proferida com base no art. 932 do CPC.
+8. Agravo Interno não conhecido.
+(AgInt no REsp n. 2.023.411/CE, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.) (g.n.)
+Assim, os argumentos do agravo interno mostram-se inaptos a desconstituir os fundamentos adotados pela decisão recorrida, que ora submeto ao Colegiado para serem confirmados (fls. 377/378):
+Trata-se de agravo, manejado por EXCELSO CONSULTORIA TECNICA DE SEGUROS S/C LTDA, desafiando decisão do Tribunal Regional Federal da 3ª Região, que não admitiu recurso especial com base na incidência da Súmula 83/STJ.
+Nas razões do agravo, a parte sustenta que "a Primeira como a própria Segunda Turma desta Corte já proferiram decisão favorável à tese sustentada pela agravante, tendo inclusive se pronunciado neste mesmo sentido a C. Primeira Seção evidenciando que não há que se falar em pacificação da divergência" (fl. 360) .
+Contraminuta às fls. 367/370.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se que o inconformismo nem sequer ultrapassa a barreira do conhecimento, pois não foi impugnado o motivo adotado pelo Tribunal de origem para negar trânsito ao apelo especial.
+No caso, como o recurso especial foi inadmitido tendo por base a Súmula 83/STJ (consonância do acórdão recorrido com a jurisprudência do STJ), caberia à recorrente demonstrar que o precedente indicado na decisão agravada não se aplicaria ao caso dos autos ou, ainda, que o entendimento jurisprudencial do STJ não está pacificado no mesmo sentido do acórdão recorrido, com a citação de julgados contemporâneos ou supervenientes aos referidos na decisão impugnada, providência da qual não se desincumbiu. Nesse sentido: AgInt no REsp 1.967.538/RS, Rel. Ministro Benedito Gonçalves, Primeira Turma, julgado em 11/04/2022, DJe 19/04/2022; AgInt no AREsp 1.938.057/SP, Rel. Ministro Manoel Erhardt (Desembargador convocado do TRF5), Primeira Turma, julgado em 28/03/2022, DJe 31/03/2022; AgInt no AREsp 1.886.494/PR, Rel. Ministro Francisco Falcão, Segunda Turma, julgado em 28/03/2022, DJe 31/03/2022
+Incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+ANTE O EXPOSTO, não conheço do agravo.
+Publique-se.
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
