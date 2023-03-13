@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/03/2023 a 13/03/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO SÉRGIO KUKINA (Relator): Trata-se de embargos de declaração opostos por MARCONI MEDEIROS MARQUES DE OLIVEIRA ao acórdão de minha relatoria, assim ementado (fl. 299):
+ADMINISTRATIVO. PROCESSUAL CIVIL. SERVIDOR PÚBLICO. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. FIXAÇÃO DE HONORÁRIOS INICIAIS. AGRAVO DE INSTRUMENTO DESPROVIDO PELO TRIBUNAL DE ORIGEM. HONORÁRIOS ADVOCATÍCIOS RECURSAIS. NÃO CABIMENTO.
+1. "A jurisprudência do STJ é firme no sentido de que não é cabível a fixação de verba honorária em decisão interlocutória na qual aviado agravo de instrumento" (AgInt nos EDcl no REsp n. 1.979.540/PE, relator Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 29/9/2022).
+2. "A imposição de honorários recursais está condicionada à prévia fixação de honorários de sucumbência na instância de origem, o que não ocorre em se tratando de recurso oriundo de agravo de instrumento contra decisão que não pôs fim à demanda" (AgInt nos EAREsp n. 1.671.431/MT, relator Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, DJe de 12/9/2022).
+3. Caso concreto em que a decisão do Juízo de primeiro grau, de natureza interlocutória, limitou-se a fixar honorários advocatícios iniciais em sede de cumprimento de sentença, sem colocar fim ao processo. Logo, o indeferimento do agravo de instrumento interposto contra tal decisum não autoriza a fixação de honorários advocatícios recursais previstos no art. 85, § 11, do CPC.
+4. Agravo interno desprovido.
+Sustenta a parte embargante a existência de obscuridade no julgado.
+Nesse sentido, argumenta que (fl. 312):
+ ..  se a verba honorária fixada nos autos do cumprimento de sentença não tem natureza sucumbencial é necessário que essa Turma esclareça qual a sua espécie, pois existem apenas quatro tipos, quais sejam: honorários contratuais, honorários arbitrados, honorários sucumbenciais e honorários assistenciais. E, em sendo esclarecido que a verba inicialmente fixada nas execuções/cumprimento de sentença é de natureza sucumbencial, devida é a majoração pleiteada neste recurso.
+Requer, assim, o acolhimento dos aclaratórios, com efeitos modificativos.
+Impugnação às fls. 317/320.
+É O RELATÓRIO.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegadas omissões no julgado combatido, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi.
+4. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO SÉRGIO KUKINA (Relator): Não prospera a irresignação da parte embargante.
+De acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+Especificamente em relação à obscuridade, ela se verifica quando há evidente dificuldade na compreensão do julgado, ou seja, ocorre quando há a falta de clareza do decisum, daí resultando a ininteligibilidade da questão decidida pelo órgão judicial. Em última análise, existe obscuridade quando a decisão, no tocante a alguma questão importante, soluciona-a de modo incompreensível. É o que leciona VICENTE GRECO FILHO:
+A obscuridade é o defeito consistente na difícil compreensão do texto da sentença e pode decorrer de simples defeito redacional ou mesmo de má formulação de conceitos. Há obscuridade quando a sentença está incompreensível no comando que impõe e na manifestação de conhecimento e vontade do juiz. A obscuridade da sentença como os demais defeitos corrigíveis por meio de embargos de declaração prejudicando a intelecção da sentença prejudicará a sua futura execução.
+A dúvida é o estado de incerteza que resulta da obscuridade. A sentença claramente redigida não pode gerar dúvida (in Direito Processual Civil Brasileiro, vol. 2, São Paulo: Saraiva, 2000, p. 241).
+No caso dos autos, não se observa a existência de obscuridade, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+Com efeito, o deslinde da controvérsia não passa por perquirir a natureza jurídica dos honorários advocatícios arbitrados no início da subjacente execução, como busca fazer crer a parte embargante, mas exclusivamente quanto à possibilidade de fixação de honorários advocatícios recursais em sede de agravo de instrumento, que, por sua natureza, foi interposto contra decisão que não pôs fim ao processo.
+Nessa linha de ideias, uma vez delimitada a questão sub judice, observa-se que foi ela apreciada no acórdão recorrido a partir de fundamentos claros, precisos e congruentes. Senão vejamos (fls. 304/305):
+Em seu recurso especial a parte ora agravante insurge-se contra acórdão do Tribunal de Justiça do Distrito Federal, que, ao negar provimento ao agravo de instrumento interposto pelos ora agravados - contra decisão do Juízo de 1º Grau que, nos autos do Cumprimento de Sentença nº 0704043-49.2019.8.07.0000, condenara-os ao pagamento de honorários advocatícios arbitrados em 10% (dez por cento) do valor da causa -, não fixou honorários advocatícios recursais.
+Ao contrário do que aduz a parte agravante, efetivamente há falar em afronta ao art. 85, § 11, do CPC.
+Com efeito, é pacífico o entendimento deste Superior Tribunal de que "não ensejam o arbitramento de honorários recursais de sucumbência os casos em que o acórdão recorrido foi proferido em julgamento de agravo de instrumento, sem a prévia fixação da verba honorária" (AgInt no AREsp n. 1.893.942/MT, relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe de 21/2/2022).
+Nesse mesmo sentido:
+SERVIDOR PÚBLICO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. FIXAÇÃO DE HONORÁRIOS RECURSAIS. NÃO CABIMENTO.1. A jurisprudência do STJ é firme no sentido de que não é cabível a fixação de verba honorária em decisão interlocutória na qual aviado agravo de instrumento. Precedentes.2. Tendo sido o presente recurso especial manejado nos autos de agravo de instrumento contra decisão que rejeitou a impugnação ao cumprimento de sentença e homologou, a título de montante exequendo, os valores apresentados pelo exequente e não efetivada a condenação em honorários sucumbenciais perante a Corte de origem, inviabilizada resta a majoração de honorários recursais nesta instância especial de julgamento.
+3. A jurisprudência desta Corte firmou-se no sentido de que "o recurso interposto pelo vencedor para ampliar a condenação, que não seja conhecido, rejeitado ou não provido, não implica honorários recursais para a parte contrária. Precedentes." (EDcl no AgInt nos EDcl nos EREsp 1625812/MS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 30/6/2020, DJe 4/8/2020).4. Agravo interno não provido.(AgInt nos EDcl no REsp n. 1.979.540/PE, relator Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 29/9/2022.) - Grifo nosso
+Impende acrescentar ser irrelevante o fato de a decisão de 1º Grau, contra a qual foi interposto o subjacente agravo de instrumento, ter fixado os honorários advocatícios iniciais devidos pela parte ora agravada no bojo do Cumprimento de Sentença nº 0704043-49.2019.8.07.0000.
+De fato, não se pode confundir os honorários iniciais fixados na referida decisão de natureza interlocutória (fl. 123) com honorários advocatícios de sucumbência, mormente porque tal decisum nem sequer pôs fim ao processo. A propósito, o seguinte julgado:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULAS N. 284 DO STF E 182 DO STJ. NÃO CONHECIMENTO DO AGRAVO. HONORÁRIOS RECURSAIS. ART. 85, § 11, DO CPC DE 2015. RECURSO ORIUNDO DE AGRAVO DE INSTRUMENTO. AUSÊNCIA DE CONDENAÇÃO EM HONORÁRIOS DE SUCUMBÊNCIA NA ORIGEM. NÃO CABIMENTO.
+1. Incide o óbice da Súmula n. 284 do STF quando a deficiência da fundamentação impede a exata compreensão da controvérsia.
+2. É inviável agravo interno que deixa de impugnar os fundamentos da decisão recorrida, por si sós, suficientes para mantê-la. Incidência da Súmula n. 182 do STJ.
+3. A imposição de honorários recursais está condicionada à prévia fixação de honorários de sucumbência na instância de origem, o que não ocorre em se tratando de recurso oriundo de agravo de instrumento contra decisão que não pôs fim à demanda.
+4. Agravo interno parcialmente conhecido e, nessa parte, provido para afastar honorários recursais.
+(AgInt nos EAREsp n. 1.671.431/MT, relator Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, DJe de 12/9/2022.) - Grifo nosso
+Logo, não há falar em aplicação do art. 85, § 11, do CPC à espécie, devendo ser confirmada a decisão ora agravada.
+Sobre o tema, cito ainda o recente julgamento desta Primeira Turma:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. CUMPRIMENTO DE SENTENÇA. JULGAMENTO DE AGRAVO DE INSTRUMENTO. FIXAÇÃO DE HONORÁRIOS RECURSAIS. INCABÍVEL. AGRAVO INTERNO DESPROVIDO.
+1. Inexiste violação do art. 1.022 do CPC/2015, quando a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de nenhum erro, omissão, contradição ou obscuridade. Observe-se, ademais, que julgamento diverso do pretendido, como na espécie, não implica ofensa ao dispositivo de lei invocado.
+2. A jurisprudência desta Corte firmou-se na compreensão que não é cabível a fixação de honorários recursais no julgamento de agravo de instrumento que não ponha termo à demanda, entendimento acompanhado pelo acórdão recorrido.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.040.211/SP, relator Ministro MANOEL ERHARDT (Desembargador Convocado do TRF5), DJe de 7/12/2022.) - Grifos nossos
+Dessa forma, não podem ser acolhidos embargos de declaração que, a pretexto de alegada omissão no julgado, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi. Nesse panorama, inexistente qualquer vício no acórdão embargado, conforme exige o art. 1.022 do CPC, impõe-se a rejeição do pleito integrativo.
+ANTE O EXPOSTO, rejeito os embargos de declaração.
+É como voto.
