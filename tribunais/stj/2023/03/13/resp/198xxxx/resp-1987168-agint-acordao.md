@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/03/2023 a 13/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Cuida-se de agravo interno ajuizado em face da decisão de fls. 312/313 e-STJ.
+A parte agravante reitera os fundamentos segundo os quais possui direito ao recebimento de honorários advocatícios decorrentes da decisão que pronunciou a prescrição intercorrente, dando fim à execução contra ela promovida.
+Impugnação às fls. 360/362 e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. PRESCRIÇÃO INTERCORRENTE. HONORÁRIOS ADVOCATÍCIOS. NÃO CABIMENTO.
+1. A jurisprudência desta Corte entende que, em face do princípio da causalidade, não se justifica a imposição de sucumbência ao exequente, frustrado em seu direito de crédito, em razão de prescrição intercorrente. Isso porque quem deu causa ao ajuizamento da execução foi o devedor que não cumpriu a obrigação de satisfazer dívida líquida e certa.
+2. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): A decisão agravada julgou recurso especial interposto em face de acórdão assim ementado:
+APELAÇÃO CÍVEL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. SENTENÇA QUE ACOLHE EXCEÇÃO DE PRÉ-EXECUTIVIDADE E RECONHECE A PRESCRIÇÃO INTERCORRENTE. IMPOSIÇÃO DE ÔNUS SUCUMBENCIAIS AO EXEQUENTE.
+PLEITO DE REFORMA PARA QUE IMPONHAM AOS EXECUTADOS. 16ª CÂMARA QUE ENTENDE, COMO REGRA, QUE A PRESCRIÇÃO INTERCORRENTE DECORRENTES DA IMPOSSIBILIDADE DE ENCONTRAR BENS E VALORES A SATISFAZER A EXECUÇÃO IMPÕEM A CAUSALIDADE EM DESFAVOR DA PARTE EXECUTADA. PECULIARIDADES DO CASO, CONTUDO, QUE AFASTAM A POSSIBILIDADE DESTA APLICAÇÃO DO PRINCÍPIO DA CAUSALIDADE. PARALISAÇÃO DA EXECUÇÃO QUE NÃO SEU DEU PELA PURA E SIMPLES AUSÊNCIA DE BENS PENHORÁVEIS, MAS SIM PELO COMPORTAMENTO DESIDIOSO E NEGLIGENTE DO BANCO EXEQUENTE NA CONDUÇÃO DO FEITO. DEVIDA CONDENAÇÃO DO BANCO AO PAGAMENTO DAS CUSTAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. SENTENÇA MANTIDA. HONORÁRIOS RECURSAIS. RECURSO DESPROVIDO.
+Argumentou a parte recorrente, ora agravada, em síntese, que não são devidos honorários sucumbenciais em razão do reconhecimento da prescrição intercorrente.
+A Corte de origem decidiu em desconformidade com a jurisprudência do STJ, de que é exemplo o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. PRESCRIÇÃO INTERCORRENTE. HONORÁRIOS ADVOCATÍCIOS. NÃO CABIMENTO. APLICAÇÃO DA SÚMULA 83/STJ.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, obscuridades ou contradições, devem ser afastadas as alegadas ofensas ao artigo 1022 do Código de Processo Civil.
+2. A jurisprudência desta Corte entende que, em face do princípio da causalidade, não se justifica a imposição de sucumbência ao exequente, frustrado em seu direito de crédito, em razão de prescrição intercorrente. Isso porque quem deu causa ao ajuizamento da execução foi o devedor que não cumpriu a obrigação de satisfazer dívida líquida e certa.
+3. Agravo interno a que se nega provimento.
+(AgInt no AgInt no AREsp 1793007/MS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 29/11/2021, DJe 01/12/2021)
+Com efeito, não merece reparo a decisão agravada, que deu provimento ao recurso especial para afastar a condenação da recorrente ao pagamento de honorários advocatícios.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
