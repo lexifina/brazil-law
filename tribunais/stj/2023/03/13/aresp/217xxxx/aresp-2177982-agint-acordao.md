@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/03/2023 a 13/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+Trata-se de agravo interno interposto por ELIZANGELA SILVA SANTOS contra decisão de minha lavra, em que não conheci do agravo em recurso especial, considerando a incidência da Súmula 7/STJ (e-STJ fls. 6.127/6.131).
+Sustenta a parte recorrente, que não se trata de reexame probatório, mas sim da correta valoração das provas trazidas aos autos. Reitera que a responsabilidade da agravada é objetiva, baseada na Teoria do Risco Integral, e que, por essa razão, não são aplicáveis ao caso as excludentes de responsabilidade.
+Requer, ao final, a reconsideração do decisum recorrido ou, caso assim não se entenda, seja submetido o presente agravo interno à apreciação da Turma .
+Impugnação apresentada às e-STJ fls. 6.177/6.189, por meio do qual requer o não conhecimento do agravo ou, subsidiariamente, o seu desprovimento.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. REEXAME FÁTICO-PROBATÓRIO. INVIABILIDADE.
+1. É inviável, em sede de recurso especial, o reexame de matéria fático-probatória, nos termos da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+2. Hipótese em que o Tribunal de origem decidiu pela inexistência de nexo causal entre a construção e o funcionamento da Usina Hidrelétrica Santo Antônio, no Rio Madeira, e os prejuízos experimentados pelos agravantes.
+3 . A modificação do julgado, nos moldes pretendidos, não depende de simples análise do critério de valoração da prova, mas do reexame dos elementos de convicção postos no processo.
+4. Agravo interno desprovido.
+VOTO
+Observa-se que a decisão recorrida não merece reparos.
+Conforme bem destacado no decisum combatido, o Tribunal de origem concluiu que não havia prova suficiente a apontar o nexo causal entre a atividade da usina hidrelétrica e o dano alegado.
+A Corte a quo assentou que "após detida leitura da prova técnica, muito embora o perito tenha concluído que o método utilizado na construção da usina modificou, de alguma forma, o rio (inclua-se aí uma aceleração no processo de desbarrancamentos das margens causados pelo assoreamento), ao comparar todos os quesitos e respostas, entendo que o laudo não é conclusivo em atribuir a responsabilidade pela cheia à Santo Antônio" (e-STJ fl. 5.777).
+Em seguida, concluiu que "considerando a ausência de indícios a evidenciar existência de nexo de causalidade entre os danos e a atividade da usina hidrelétrica; havendo, ao revés, vastas evidências de que o fenômeno ocorrido no local de moradia dos requerentes não teria vínculo direto com a atividade da empresa Santo Antônio, entendo que os pedidos de reparação por dano material merecem total improcedência" (e-STJ fl. 5.778).
+Verifica-se, assim, que o Tribunal de origem formou sua convicção à luz das provas constantes nos autos, em especial da prova técnica e das evidências postas nos autos, de modo que a modificação do julgado, nos moldes pretendidos no sentido de atestar a existência de nexo causal, não depende de simples análise do critério de valoração da prova, mas do reexame dos elementos de convicção postos no processo, providência incompatível com a via estreita do recurso especial, de acordo com a Súmula 7 do STJ.
+Nesse sentido já se pronunciou esta Corte Superior, em caso análogo:
+ADMINISTRATIVO E PROCESSUAL CIVIL. RESPONSABILIDADE CIVIL. USINA HIDRELÉTRICA DE SANTO ANTÔNIO. SUPOSTO ALAGAMENTO DA RESIDÊNCIA DO AUTOR. FATO CONSTITUTIVO DO DIREITO DO AUTOR. AUSÊNCIA DE DEMONSTRAÇÃO. ACÓRDÃO RECORRIDO QUE, COM FUNDAMENTO NA PROVA PERICIAL, CONCLUIU PELA INEXISTÊNCIA DE DANO AO IMÓVEL DO AUTOR E PELA INOCORRÊNCIA DE NEXO DE CAUSALIDADE ENTRE A ATIVIDADE DA RÉ E A ENCHENTE EM RIO PRÓXIMO AO IMÓVEL. ALEGADA VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. AUSÊNCIA DE VÍCIOS, NO ACÓRDÃO RECORRIDO. INCONFORMISMO. ALEGADA VIOLAÇÃO AOS ARTS. 2º DA LEI 9.605/98 E 420 E 1.013 DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO, E, NESSA EXTENSÃO, IMPROVIDO.
+I. Recurso Especial interposto contra acórdão publicado na vigência do CPC/2015.
+II. Trata-se, na origem, de Ação de Reparação de Danos, ajuizada pela parte recorrente contra Santo Antônio Energia S/A, com objetivo de obter a condenação da requerida à reparação por danos materiais e morais decorrentes de suposto alagamento da residência do autor, que teriam sido causados pela construção da Usina Hidrelétrica de Santo Antônio. O acórdão manteve a sentença, que julgara improcedente o pedido.
+ ..
+V. O acórdão recorrido, à luz da prova pericial produzida em Juízo, concluiu no sentido de que, "conforme documentado pela perícia à oportunidade da vistoria, o imóvel verificado não apresentou danos de ordem estrutural, estando em plenas condições de habitabilidade. (..) não há, nos autos, elementos comprobatórios de que danos materiais de outra ordem tenham de fato ocorrido, existindo tão somente um registro fotográfico da edificação intacta (ID 2449418). Destarte, deixando o autor de comprovar a existência de fatos constitutivos de seu direito, que lhe competia, a teor do disposto no art. 373, I, do CPC, a improcedência do pleito indenizatório é medida que se impõe. Não bastasse isso, o laudo pericial afasta o nexo de causalidade entre a enchente histórica e a atividade da apelada". Tal entendimento não pode ser revisto, pelo Superior Tribunal de Justiça, em sede de Recurso Especial, por exigir o reexame da matéria fático-probatória dos autos. Precedentes do STJ. VI. Descabimento do Recurso Especial com base no dissídio jurisprudencial, pois as mesmas razões que inviabilizaram o conhecimento do apelo, pela alínea a, servem de justificativa quanto à alínea c do permissivo constitucional.
+VII. Recurso Especial parcialmente conhecido, e, nessa extensão, improvido.
+(REsp 1.902.152/RO, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 16/03/2021, DJe 09/04/2021).
+Por último, deixo de aplicar a sanção prevista no art. 1.021, § 4º, do CPC/2015 por não vislumbrar caráter manifestamente inadmissível ou improcedente no manejo do presente recurso.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
