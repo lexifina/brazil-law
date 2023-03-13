@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/03/2023 a 13/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik, Messod Azulay Neto e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Joel Ilan Paciornik.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRANCAMENTO DA AÇÃO PENAL. ALEGAÇÃO DE TORTURA. REEXAME PROBATÓRIO. INADIMISSÍVEL. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA. FUNDAMENTO IDÔNEO. GARANTIA DA ORDEM PÚBLICA. CAUTELARES. INVIABILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. A análise do fato de o paciente ter sido vítima de tortura enseja o reexame do conteúdo probatório dos autos, o que é inadmissível em sede de habeas corpus.
+2. A prisão preventiva, nos termos do art. 312 do Código de Processo Penal, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, desde que presentes prova da existência do crime e indícios suficientes de autoria.
+3. No caso, segundo se infere, a custódia cautelar está suficientemente fundamentada na garantia da ordem pública, haja vista a gravidade concreta da conduta delitiva, pois foi apreendida grande quantidade de entorpecente, a saber, 130 porções de cocaína acondicionados em invólucros plásticos individuais, com peso aproximadamente de 244g.
+4. Esta Corte Superior possui entendimento de que a quantidade e a diversidade dos entorpecentes encontrados com os agentes, quando evidenciarem a maior reprovabilidade do fato, podem servir de fundamento para a prisão preventiva.
+5. É inviável a substituição da prisão preventiva por medidas cautelares diversas, pois a gravidade concreta da conduta delituosa indica que a ordem pública não estaria acautelada com a soltura do paciente.
+6. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por JULIO LUCA ZANESCO (e-STJ, fls. 144-154) de decisão na qual não conheci do habeas corpus (e-STJ, fls. 101-104).
+O agravante pleiteia, em suma, a revogação da segregação cautelar e o trancamento da ação penal em virtude da prova ilícita obtida pela tortura policial.
+Requer a reconsideração da decisão agravada ou a submissão do feito ao colegiado para que seja concedida a liberdade provisória.
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRANCAMENTO DA AÇÃO PENAL. ALEGAÇÃO DE TORTURA. REEXAME PROBATÓRIO. INADIMISSÍVEL. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA. FUNDAMENTO IDÔNEO. GARANTIA DA ORDEM PÚBLICA. CAUTELARES. INVIABILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. A análise do fato de o paciente ter sido vítima de tortura enseja o reexame do conteúdo probatório dos autos, o que é inadmissível em sede de habeas corpus.
+2. A prisão preventiva, nos termos do art. 312 do Código de Processo Penal, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, desde que presentes prova da existência do crime e indícios suficientes de autoria.
+3. No caso, segundo se infere, a custódia cautelar está suficientemente fundamentada na garantia da ordem pública, haja vista a gravidade concreta da conduta delitiva, pois foi apreendida grande quantidade de entorpecente, a saber, 130 porções de cocaína acondicionados em invólucros plásticos individuais, com peso aproximadamente de 244g.
+4. Esta Corte Superior possui entendimento de que a quantidade e a diversidade dos entorpecentes encontrados com os agentes, quando evidenciarem a maior reprovabilidade do fato, podem servir de fundamento para a prisão preventiva.
+5. É inviável a substituição da prisão preventiva por medidas cautelares diversas, pois a gravidade concreta da conduta delituosa indica que a ordem pública não estaria acautelada com a soltura do paciente.
+6. Agravo regimental desprovido.
+VOTO
+Apesar das considerações da parte agravante, razão não lhe assiste.
+Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+A Corte de origem assim se manifestou com base nos seguintes fundamentos (e-STJ, fl. 76):
+"Com efeito, inicialmente, não há que se falar em nulidade decorrente de suposta violência policial.
+Ao menos, em uma análise rasa dos autos (vez que a dilação probatória não é possível na estreita via do presente writ), entendo que a suposta violência não foi aduzida no momento oportuno em seu depoimento perante a autoridade policial, acompanhado por advogado, o réu optou por permanecer em silêncio, deixando de tecer até mesmo esta tese em seu favor.
+Em audiência preliminar, o juízo a quo, em contato direto com o réu e demais envolvidos, não entendeu pelo relaxamento da prisão. E, ainda, determinou a instauração de inquérito policial para apuração dos fatos."
+Realmente, a análise do fato de o paciente ter sido vítima de tortura enseja o reexame do conteúdo probatório dos autos, o que é inadmissível em sede de habeas corpus.
+Cito, a propósito, o seguinte julgado:
+"Penal. Processual Penal. Habeas-corpus. Tentativa de roubo qualificado. Prisão em flagrante. Irregularidades. Inexistência.
+Ação penal. Inépcia da denúncia. Ausência de justa causa.
+Relaxamento da prisão sob a alegação de tortura praticada por policiais. Improcedência.
+- Não consubstancia constrangimento ilegal, passível de reparação por via de habeas-corpus, a manutenção de prisão em flagrante, regularmente imposta pela autoridade policial competente e assinado pelo escrivão, juntamente com a autoridade policial, o condutor, duas testemunhas, duas vítimas e o conduzido, assegurando-se ao preso a faculdade do exercício de seus direitos constitucionais.
+- O trancamento de ação penal por falta de justa causa, postulado na via estreita do habeas-corpus, somente se viabiliza quando, pela mera exposição dos fatos na denúncia, se constata que há imputação de fato penalmente atípico ou que inexiste qualquer elemento indiciário demonstrativo da autoria do delito pelo paciente.
+- Não é inepta a denúncia que descreve fatos que, em tese, apresentam a feição de crime e oferece condições plenas para o exercício de defesa.
+- Não tendo ficado provado a prática de tortura praticada por policiais no momento do flagrante, não há que se falar em relaxamento da prisão, ademais quando para o deslinde da questão ensejaria o exame aprofundado de provas, tema vedado na via estreita do writ.
+- Habeas-corpus denegado.
+(HC n. 12.405/GO, relator Ministro Vicente Leal, Sexta Turma, julgado em 12/9/2000, DJ de 25/9/2000, p. 142.)"
+No mais, a prisão preventiva, nos termos do art. 312 do Código de Processo Penal, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, desde que presentes prova da existência do crime e indícios suficientes de autoria.
+No caso, segundo se infere, a custódia cautelar está suficientemente fundamentada na garantia da ordem pública, haja vista a gravidade concreta da conduta delitiva, pois foi apreendida grande quantidade de entorpecente, a saber - 130 (cento e trinta) porções de cocaína, acondicionadas em invólucros plásticos individuais, com peso aproximado de 244,0g.
+Esta Corte, inclusive, possui entendimento reiterado de que a quantidade e a diversidade dos entorpecentes encontrados com os agentes, quando evidenciarem a maior reprovabilidade do fato, podem servir de fundamento para a prisão preventiva.
+A propósito:
+" ..  2. Em vista da natureza excepcional da prisão preventiva, somente se verifica a possibilidade da sua imposição quando evidenciado, de forma fundamentada e com base em dados concretos, o preenchimento dos pressupostos e requisitos previstos no art. 312 do Código de Processo Penal - CPP. Deve, ainda, ser mantida a prisão antecipada apenas quando não for possível a aplicação de medida cautelar diversa, nos termos previstos no art. 319 do CPP.
+No caso dos autos, a prisão preventiva foi adequadamente mantida na sentença, a qual indeferiu o direito de recorrer em liberdade com base em elementos concretos, a gravidade concreta da conduta e a periculosidade do agente, evidenciadas pela natureza e elevada quantidade das drogas apreendidas (177 porções de "cocaína", com peso de 40,36g e 01 uma porção de "maconha", com peso de 23,59g), o que denota a necessidade da prisão para resguardar a ordem pública, não havendo falar em existência de evidente flagrante ilegalidade.
+ ..  Habeas corpus não conhecido."
+(HC 393.308/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 20/3/2018, DJe 6/4/2018).
+"HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTOS. GRAVIDADE CONCRETA. GARANTIA DA ORDEM PÚBLICA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER ACOLHIDO.
+1. A prisão preventiva constitui medida excepcional ao princípio da não culpabilidade, cabível, mediante decisão devidamente fundamentada e com base em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos do art. 312 e seguintes do Código de Processo Penal.
+2. No caso, a prisão cautelar foi decretada para a garantia da ordem pública, com base na gravidade concreta do delito, evidenciada pela quantidade e natureza da droga apreendida (170 invólucros plásticos, contendo cocaína, pesando 68,1 g e 20 invólucros plásticos contendo maconha, pesando 40,5 g), aliada às circunstâncias em que se deu a prisão em flagrante.
+3. É consabido que eventuais condições subjetivas favorável ao paciente não são impeditivas à decretação da prisão cautelar, caso estejam presentes, como na hipótese, os requisitos autorizadores da referida segregação.
+4. Ordem denegada."
+(HC 425.704/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 27/2/2 018, DJe 8/3/2018).
+Consigne-se, ainda, que é inviável a substituição da prisão preventiva por medidas cautelares diversas, pois a gravidade concreta da conduta delituosa indica que a ordem pública não estaria acautelada com a soltura do paciente. Sobre o tema: RHC 81.745/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 01/06/2017, DJe 09/06/2017; RHC 82.978/MT, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 01/06/2017, DJe 09/06/2017; HC 394.432/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 01/06/2017, DJe 09/06/2017.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
