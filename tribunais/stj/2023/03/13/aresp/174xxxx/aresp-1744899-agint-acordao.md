@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/03/2023 a 13/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Humberto Martins, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que não conheceu do recurso especial visando reformar acórdão proferido pelo Tribunal Regional da 3ª Região.
+No recurso especial, negou-se provimento. A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa parte, negar-lhe provimento."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+A apreciação do Recurso especial não prescinde de revisão de prova, pois busca ver reconhecida a regra jurídica de que o prazo prescricional à compensação administrativa não se inicia enquanto pendente execução judicial do crédito.
+ ..
+Em conclusão, tendo sido demonstrado que o E. Tribunal a quo delimitou os aspectos fáticos de matéria versada no presente feito, inexiste óbice da Súmula STJ n. 7 para que esta C. Corte reforme a r. decisão do E. TRF3.
+ ..
+Ademais, caso se entenda pela inocorrência de omissão do v. acórdão do E. TRF3, este C. STJ está habilitado a analisar o mérito do presente Recurso Especial diante das premissas fáticas que envolvem a questão jurídica posta, sem o óbice da Súmula STJ n.7.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ. NÃO VIOLAÇÃO DO ART. 1.022 DO CPC/2015.
+I - Na origem, trata-se de mandado de segurança em que se pretende a compensação administrativa. Na sentença o pedido foi julgado procedente. No Tribunal a quo, a sentença foi reformada.
+II - Verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+III - Afasto a alegação de ofensa aos arts. 489 e 1.022 do CPC/2015, porque não demonstrada ausência de fundamentação e omissão capaz de comprometer a fundamentação do acórdão recorrido ou de constituir-se em empecilho ao conhecimento do recurso especial. Citem-se, a propósito, os seguintes precedentes: EDcl nos EDcl nos EDcl na Pet n. 9.942/RS, relator Ministro Benedito Gonçalves, Primeira Seção, julgado em 8/2/2017, DJe de 14/2/2017; EDcl no AgInt no REsp n. 1.611.355/SC, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 14/2/2017, DJe de 24/2/2017; AgInt no AgInt no AREsp n. 955.180/RJ, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 14/2/2017, DJe de 20/2/2017; AgRg no REsp n. 1.374.797/MG, Segunda Turma, relator Ministro Mauro Campbell Marques, DJe de 10/9/2014.
+IV - Verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+V - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+A Corte a quo analisou as alegações da parte com os seguintes fundamentos:
+Neste sentido, o início da execução dos honorários advocatícios não interrompe o fluxo do prazo prescricional para o exercício do direito do contribuinte em realizar a compensação, por se tratar a referida verba sucumbencial de direito autônomo do advogado, inconfundível com o crédito tributário de titularidade do contribuinte por ele representado. Por outro lado, a compensação deveria ter sido efetuada tempestivamente mediante o encontro de contas perante a autoridade administrativa, sem a necessidade de se promover a execução da sentença nos termos dos artigos 604 e 730 do CPC/73. Destarte, não se constata ilegalidade na decisão administrativa que reconheceu a prescrição do crédito tributário, considerando o trânsito em julgado da decisão proferida na Ação Ordinária, em 06/09/1994, e o pleito de restituição apresentado em 07/12/2000.
+Afasto a alegação de ofensa aos arts. 489 e 1.022 do CPC/2015, porque não demonstrada ausência de fundamentação e omissão capaz de comprometer a fundamentação do acórdão recorrido ou de constituir-se em empecilho ao conhecimento do recurso especial. Citem-se, a propósito, os seguintes precedentes: EDcl nos EDcl nos EDcl na Pet n. 9.942/RS, relator Ministro Benedito Gonçalves, Primeira Seção, julgado em 8/2/2017, DJe de 14/2/2017; EDcl no AgInt no REsp n. 1.611.355/SC, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 14/2/2017, DJe de 24/2/2017; AgInt no AgInt no AREsp n. 955.180/RJ, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 14/2/2017, DJe de 20/2/2017; AgRg no REsp n. 1.374.797/MG, Segunda Turma, relator Ministro Mauro Campbell Marques, DJe de 10/9/2014.
+Verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
