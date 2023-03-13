@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/03/2023 a 13/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Sebastião Reis Júnior, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+JHONATAN RODRIGUES DE SOUZA interpõe agravo regimental contra decisão de fls. 726-729, em que deneguei a ordem e, por conseguinte, mantive inalterada a reprimenda de 8 anos e 2 meses de reclusão, em regime fechado, mais multa, pela prática do delito de tráfico de drogas.
+Em suas razões, afirma a defesa que "os dois argumentos da decisão monocrática limitaram-se, nitidamente, ao teor da decisão da Corte Estadual proferida em revisão criminal: uma breve leitura da sentença, no entanto, e do laudo DEFINITIVO, demonstrará que o aludido julgado revisor encontra-se totalmente dissonante ao que assentado no édito condenatório, favorável à tese defensiva" (fl. 733).
+Diante disso, requer a reconsideração do decisum anteriormente proferido ou a submissão do feito a julgamento pelo órgão colegiado.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENA-BASE. FUNDAMENTOS CONCRETOS. CONFISSÃO ESPONTÂNEA. PRETENSÃO DE INCIDÊNCIA. INEXISTÊNCIA DE UTILIZAÇÃO COM FUNDAMENTO PARA CONDENAÇÃO. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Comprovada a apreensão de 460 kg de maconha e 100 kg de skunk, correta, nos termos do art. 42 da Lei n. 11.343/2006, a majoração da pena-base em razão da quantidade e natureza das drogas apreendidas.
+2. Inexiste ilegalidade na ausência de aplicação da atenuante da confissão espontânea quando tal circunstância não é utilizada com o fundamento para condenação.
+3. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Em que pesem os argumentos externados pelo insurgente, a decisão impugnada não merece reparos.
+I. Pena-base
+No que tange à pretendida redução da pena-base, cumpre salientar que a fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, nos arts. 5º, XLVI, da Constituição Federal, 59 do Código Penal e 387 do Código de Processo Penal. Todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleito o quantum de pena a ser aplicada ao condenado criminalmente, visando à prevenção e à repressão do delito perpetrado.
+Assim, para chegar a uma aplicação justa da lei penal, o sentenciante, dentro dessa discricionariedade juridicamente vinculada, deve atentar-se para as singularidades do caso concreto e, na primeira etapa do procedimento trifásico, guiar-se pelas circunstâncias relacionadas no caput do art. 59 do Código Penal, as quais não se deve furtar de analisar individualmente. São elas: culpabilidade; antecedentes; conduta social; personalidade do agente; motivos, circunstâncias e consequências do crime; comportamento da vítima.
+Contudo, não se pode olvidar que, tratando-se de crime previsto na Lei de Drogas - como ocorre na espécie -, o juiz deve considerar, ainda, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, bem como a personalidade e a conduta social do agente, a teor do estabelecido no art. 42 da Lei n. 11.343/2006.
+No caso, a instância de origem majorou a pena-base em razão da quantidade e natureza das drogas apreendidas - 460 kg de maconha e 100 kg de skunk - circunstância que evidencia a maior reprovabilidade da conduta perpetrada e, por isso mesmo, justifica a exasperação da pena-base, nos termos do art. 42 da Lei de Drogas.
+Esclareço, nesse ponto, em relação à comprovação da existência de skunk, que o Tribunal de origem consignou que "o resultado da análise das duas substâncias apreendidas (maconha e skunk) será, de fato, positivo apenas para o princípio ativo tetraidrocanabidinol, pois ambas as substâncias entorpecentes são provenientes da Canabis, e, assim, possuem aludido princípio ativo, ou seja, possuem em suas composições o mesmo princípio ativo - THC (Tetraidrocanabinol)" (fl. 674).
+Assim, concluiu a Corte estadual que "tal qual apurado no laudo de constatação provisório acostados aos autos de Apelação Criminal - Nº 0000437-28.2020.8.12.0035, apreendeu-se tanto a substância entorpecente relativa à maconha, como a concernente ao skank" (fl. 674), a justificar a majoração da pena-base pela natureza da droga apreendida.
+Logo, não há modificação a ser operada na decisão agravada.
+II. Confissão espontânea
+Segundo a orientação desta Corte, "se a confissão do réu foi utilizada para corroborar o acervo probatório e fundamentar a condenação, deve incidir a atenuante prevista no art. 65, III, "d", do Código Penal, sendo irrelevante o fato de a confissão ter sido espontânea ou não, total ou parcial, ou que tenha havido posterior retratação" (HC n. 340.864/RJ, Rel. Ministro Rogerio Schietti, DJe 9/3/2016). Tal entendimento está consubstanciado no enunciado contido na Súmula n. 545 do STJ.
+Entretanto, também é da jurisprudência deste Superior Tribunal, a compreensão de que "não há ilegalidade não ausência de aplicação da atenuante da confissão espontânea se, em momento algum, o paciente buscou confessar a prática do delito, além de o seu interrogatório extrajudicial não ter sido utilizado para formação da convicção do julgador, que se embasou nos depoimentos uníssonos das testemunhas e nos laudos periciais" (EDcl no HC n. 612.530/SC, Rel. Ministro Nefi Cordeiro, DJe 18/12/2020, destaquei), hipótese dos autos.
+Com efeito, conforme concluiu o Tribunal de origem, além de não haver confissão do delito, porque, de acordo com o Juiz sentenciante, "os réus não apresentaram narrativas concisas e coerentes" (fl. 679), o depoimento do acusado não foi utilizado para a condenação, pois "a versão apresentada pelos Recorrentes está isolada nos autos, não possuindo credibilidade quanto confrontada com as demais provas existentes nos autos, em especial devido à incoerência e discrepância entre o depoimento de ambos" (fl. 679).
+Logo, correta a decisão agravada.
+III. Dispositivo
+À vista do exposto, nego provimento ao agravo regimental.
