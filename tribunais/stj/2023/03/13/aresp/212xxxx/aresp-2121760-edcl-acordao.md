@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/03/2023 a 13/03/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Humberto Martins, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Embargos de Declaração contra o acórdão de fls. 6.325 - 6.326, e-STJ. O Agravo Interno confirma a inadmissão do Recurso Especial pela incidência da Súmula 7/STJ e pelo viés constitucional dado à matéria.
+Defende Notre Dame Intermédica Saúde S.A.(6.337-6.347, e-STJ):
+Verifica-se, pois, que a ora Embargante pontuou de forma individualizada as omissões e a contradição praticadas pela Corte Regional na apreciação de seu recurso de apelação. Não obstante a omissão relacionada no item "i" se encontre superada por força do julgamento do mérito da ADIn nº 1.931-8/DF ocorrido no dia 07/02/2018, a omissão referida no item "ii" e a contradição denunciada no item "iii" permanecem sem a devida resposta. Encontra-se caracteriza, portanto, a ofensa ao artigo 535 do CPC/1973. Inaplicável, portanto, o óbice da Súmula 284/STF.
+ ..
+Ainda com relação à alegada ausência de afronta ao artigo 1.022 do CPC, Súmula 83/STJ, Súmula 7/STJ (cerceamento de defesa), Súmula 5/STJ (exorbitância dos valores cobrados) e Súmula 7/STJ (exorbitância dos valores cobrados), mesmo sendo inegável que o Tribunal de origem formou o seu convencimento a partir da análise do conjunto fático-probatório dos autos, é contraditória a afirmação de que "não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida"
+Na forma como exposto no Agravo Interno, não se pretende nessa instância especial revolver matéria fático-probatória para se aferir se os valores cobrados a título de ressarcimento superam ou não os efetivamente praticados pela ora Embargante, mas sim que seja determinado o estrito cumprimento do disposto nos artigos 16, inciso X, e 32, caput e § 8º, da Lei nº 9.656/1998, mediante a valoração da matéria fático-probatória.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM AGRAVO INTERNO EM RECURSO ESPECIAL. ART. 1.022 DO CPC. OFENSA NÃO CONFIGURADA.
+1. Trata-se de Embargos de Declaração contra o acórdão de fls. 6.325  6.326, e-STJ. O Agravo Interno confirma a inadmissão do Recurso Especial pela incidência da Súmula 7/STJ e pelo viés constitucional dado à matéria.
+2. A discussão, na Ação Anulatória, diz respeito ao ressarcimento ao SUS instituída pelo art. 32 da Lei 9.656/1998. Não se aponta divergência com o decidido pelo STF. Encerrada a questão no Supremo Tribunal Federal, não há falar em sobrestamento.
+3. As questões novamente postas pretendem, por via transversa, revitalizar discussão já superada na origem. Tais questões não tiveram o condão de fazer ascender o Recurso Especial a esta corte, revelando o mero inconformismo da parte com o desfecho do julgado a seu desfavor. Logo, a pretensão da embargante denota o intuito de rediscutir o mérito do julgado, e não o de solucionar omissão, contradição ou obscuridade.
+4. Embargos de Declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 26 de janeiro de 2023.
+A sentença, mantida pelos acórdãos da Apelação e dos recursos que se seguiram, tratou dos temas afirmando:
+a) o prazo prescricional de cinco anos não foi atingido;
+b) o STF declarou a constitucionalidade do artigo 32 da Lei 9.656/98, impondo o ressarcimento ao SUS das despesas geradas por usuários de seus planos privados. ( não consta modificação do julgado)
+c) a existência da despesa gerada ao sistema público de saúde, em razão do atendimento, com recursos públicos, de usuário que possui plano de saúde privado, quaisquer que sejam as características e, assim, independentemente do regime de pagamento dos respectivos serviços, por parte dos contratantes. Não existe distinção legal a autorizar a exclusão do ressarcimento ao SUS.
+c) a utilização da Tabela Única Nacional de Equivalência de Procedimentos (TUNEP), vez que maiores do que os valores efetivamente despendidos pelo Sistema Único de Saúde (SUS), tem-se que os valores constantes da Tabela Única Nacional de Equivalência de Procedimentos (TUNEP) foram fixados a partir de processo participativo, que contou inclusive com o envolvimento das operadoras de planos de saúde, encontrando-se dentro dos parâmetros fixados no art. 32, § 8º da Lei n.º 9.656/98, portanto, não se revelando desarrazoados ou arbitrários, conforme sustenta a apelante.
+d) não restou comprovado que os valores cobrados com a aplicação do Índice de Valoração do Ressarcimento (IVR) são superiores à média dos praticados pelas operadoras de planos de saúde, razão pela qual não há que se falar em abusividade ou excesso de cobrança.
+e) não restou demonstrada qualquer irregularidade nos processos administrativos relativos às impugnações e à cobrança do ressarcimento,
+Deixei referenciado na decisão de fls. 6.290-6.292, e-STJ:
+ ..
+O Tribunal a quo consignou às fls 6.149, e-STJ:
+Conforme bem salientado na r. decisão agravada, não prospera a alegação de nulidade da r. sentença, visto que a autora não logrou demostrar a ausência de manutenção da cobrança em questão pela ANS. A própria ANS, em suas contrarrazões, retifica as informações trazidas pela agravante, mantendo hígida a cobrança discutida nos presentes autos.
+No aresto integrativo, registrou (fls. 6.184-6.199, e-STJ:
+Embarga o autor alegando, inicialmente, que a autarquia ré emitiu os boletos de cobrança em razão da não apresentação de recurso administrativo, no entanto, afirma que os mesmos não foram recepcionados. Assim, pleiteia o cancelamento do boleto em cobro, visto que os recursos administrativos devem ser apreciados na esfera administrativa.
+Aduz, ainda, que não houve a apreciação do motivo de nulidade de Carência contratual para a AIH 3515117433620 e de coparticipação para a AIH 3515232867410.
+(..) Assim, os procedimentos realizados fora da urgência/emergência referem-se a fato constitutivo do direito da autora, de sorte que a ela incumbia o ônus da prova.
+Destarte, as questões trazidas pelo embargante se resumem, efetivamente, em divergência entre a argumentação constante do julgado e aquela por ele desenvolvida, tendo os presentes embargos caráter nitidamente infringente, pelo que não há como prosperar o inconformismo do recorrente cujo real objetivo é o rejulgamento da causa e a consequente reforma do decisum.
+Da leitura atenta do Voto condutor, vê-se que a Corte regional manifestou-se de maneira clara e embasada acerca das questões relevantes para o deslinde do conflito, inclusive daquelas que a recorrente alega terem sido omitidas.
+Dessa forma, correta a desacolhida dos Embargos de Declaração ante a inexistência de omissão, contradição, obscuridade ou erro material a serem sanados. Por conseguinte, deve-se não houve contrariedade aos arts. 489 e 1.022 do CPC/2015.
+Ademais, rever o processo administrativo para desconstituir a afirmação do acórdão recorrido de que "a autora não logrou demostrar a ausência de manutenção da cobrança em questão pela ANS", requer inarredável reapreciação do conjunto fático-probatório dos autos. Aplica-se, portanto, o óbice da Súmula 7/STJ.
+Ainda constou do acórdão (fl.6.331, e-STJ)
+A revisão das conclusões de que "não restou demonstrada qualquer irregularidade nos processos administrativos relativos às impugnações e à cobrança do ressarcimento, sendo que à operadora não foi tolhida a oportunidade de impugnações e recursos para questionar os valores cobrados" não pode ser levada a efeito pelo Superior Tribunal de Justiça, sendo inviável derruir tais fundamentos sem a reanálise das provas colacionadas aos autos, a atrair o óbice das Súmulas 5 e 7/STJ, ou mesmo do viés constitucional dado à matéria .
+Correta a rejeição dos Embargos de Declaração, vê-se que o Tribunal de origem manifestou-se de maneira clara e embasada. Ante a inexistência de omissão, contradição ou obscuridade a serem sanadas, deve-se concluir não ter havido ofensa aos artigos 489 e 1.022 do CPC/2015.
+A incidência de honorários recursais a serem adicionados à verba sucumbencial não se verifica exagerada, uma vez que fixada em 10% sobre a verba sucumbencial já fixada, estando dentro dos limites previstos nos §§ 2º e 3º do art. 85 do CPC.
+A discussão na Ação Anulatória diz respeito ao ressarcimento ao SUS instituída pelo art. 32 da Lei 9.656/1998. Não se aponta divergência com o decidido pelo Supremo Tribunal Federal. Encerrada a questão no STF, não há falar em sobrestamento.
+As questões novamente postas pretendem, por via transversa, revitalizar discussão já superada na origem. Tais questões não tiveram o condão de fazer ascender o Recurso Especial a esta corte, revelando o mero inconformismo da parte com o desfecho do julgado a seu desfavor. Logo, a pretensão da embargante denota o intuito de rediscutir o mérito do julgado, e não o de solucionar omissão, contradição ou obscuridade.
+Esclareço que a condenação em honorários recursais, majorando a verba sucumbencial em 10%, foi fixada dentro da razoabilidade, proporcionalidade e em patamar mínimo não configurando um acréscimo exorbitante a merecer reforma.
+Diante do exposto, rejeito os Embargos de Declaração, com a advertência da possibilidade de imposição de multa, caso o novo expediente seja considerado protelatório.
+É como voto.
