@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/03/2023 a 13/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik, Messod Azulay Neto e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Joel Ilan Paciornik.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. NULIDADE INEXISTENTE. DIVERGÊNCIA ENTRE A SESSÃO DE JULGAMENTO E A PUBLICAÇÃO DO ACÓRDÃO. MÁ-FÉ PROCESSUAL. PREJUÍZO À DEFESA. NÃO OCORRÊNCIA. INTERPOSIÇÃO DOS RECURSOS CABÍVEIS. AGRAVO REGIMENTAL DESPROVIDO.
+1. Hipótese em que a insistência do agravante em buscar a declaração de nulidade não existente do acórdão proferido no julgamento do recurso de apelação, que sabidamente se deu de forma unânime, evidencia sua má-fé processual, na medida em que restou devidamente esclarecida a ocorrência de equívoco na leitura de voto correspondente a outro processo, situação essa de fácil aferição, uma vez que havia evidente dissonância com a matéria em julgamento e sequer constava o nome do apelante. Tudo devidamente esclarecido no agravo interno.
+2. Do trecho das notas taquigráficas resta devidamente esclarecido que o voto inicialmente declarado não condizia com a situação processual do apelante. Equívoco que foi sanado a tempo, com a correta publicação do acórdão.
+3. Agravo desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por THALISON TEOTONIO DOS SANTOS contra decisão que não conheceu do habeas corpus.
+Em razões, alega que não havia dissonância manifesta e evidente entre a matéria tratada no voto proferido em sessão e a matéria requerida em apelação, que pudesse denotar má-fé processual da defesa. Explica que as notas taquigráficas fazem menção ao delito de roubo, e que o pedido feito em recurso de apelação foi de desclassificação do crime de latrocínio para o de roubo.
+Sustenta que as notas taquigráficas acostadas aos autos são claras em demonstrar o dissenso, pois, não obstante em momento posterior o Desembargador tenha alegado que o voto foi equivocadamente lançado no momento do julgamento, tal afirmação não encontra guarida no conteúdo das notas taquigráficas. Afirma, assim, que o Desembargador proferiu o seu voto, e posteriormente o alterou para a publicação do aresto, o que é inadmissível, sob pena de violação ao devido processo legal.
+Refere que em nenhum dos votos reputados corretos constava o nome do apelante.
+Argumenta que o Regimento Interno do TJ-MG preconiza a impossibilidade de haver divergência entre o conteúdo do acórdão e das notas taquigráficas. E, em caso de eventual dissidência ou erro material, poderá ser corrigido mediante provocação das partes ou, até mesmo, de ofício pelo Relator, determinando a sua imediata republicação e, consequentemente, o reinicio de qualquer prazo recursal, nos termos do art. 124 do RITJMG.
+Afirma que o prejuízo à defesa é concreto, pois a manutenção do acórdão da forma como publicado impediu o manejo de recurso próprio.
+Requer:
+b) A remessa do presente agravo interno à Turma para que seja devidamente provido, com vistas à reforma da Decisão que negou seguimento ao Habeas Corpus em epígrafe, CONCEDENDO A ORDEM, em favor do Recorrente, para que seja declarado nulo o Acordão exarado em sede de Apelação pela 5ª Câmara Criminal do Eg. TJMG nos autos de nº 1.0702.17.067712-5/004 (doc.1.1), sendo determinada a SUA REPUBLICAÇÃO COM AS DEVIDAS RETIFICAÇÕES nos termos das NOTAS TAQUIGRÁFICAS, bem como, RESTITUÍDO O PRAZO para apresentação dos devidos Embargos Infringentes;
+c) Por fim, manifesta desde já oposição ao julgamento virtual e REQUER a intimação prévia de data e horário para a sustentação oral, nos termos da Súmula 431 do STF.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. NULIDADE INEXISTENTE. DIVERGÊNCIA ENTRE A SESSÃO DE JULGAMENTO E A PUBLICAÇÃO DO ACÓRDÃO. MÁ-FÉ PROCESSUAL. PREJUÍZO À DEFESA. NÃO OCORRÊNCIA. INTERPOSIÇÃO DOS RECURSOS CABÍVEIS. AGRAVO REGIMENTAL DESPROVIDO.
+1. Hipótese em que a insistência do agravante em buscar a declaração de nulidade não existente do acórdão proferido no julgamento do recurso de apelação, que sabidamente se deu de forma unânime, evidencia sua má-fé processual, na medida em que restou devidamente esclarecida a ocorrência de equívoco na leitura de voto correspondente a outro processo, situação essa de fácil aferição, uma vez que havia evidente dissonância com a matéria em julgamento e sequer constava o nome do apelante. Tudo devidamente esclarecido no agravo interno.
+2. Do trecho das notas taquigráficas resta devidamente esclarecido que o voto inicialmente declarado não condizia com a situação processual do apelante. Equívoco que foi sanado a tempo, com a correta publicação do acórdão.
+3. Agravo desprovido.
+VOTO
+O agravo não prospera.
+A situação ocorrida na espécie foi devidamente esclarecida pela Quinta Câmara Criminal do Tribunal de Justiça de Minas Gerais, no julgamento do agravo interno interposto contra decisão que indeferiu os embargos infringentes opostos pela defesa. Confira-se :
+Em que pese os argumentos defensivos, não há que se falar em reforma da decisão ora vergastada porquanto, de fato, a decisão da apelação criminal, cujo acórdão consta às f. 735/743 foi unânime.
+Não obstante afirme o I. Defensor ter havido divergência na sessão de julgamento em face de apresentação de voto oral pelo Vogal, Desembargador Eduardo Machado, instado a se manifestar, o dileto Colega afirmou:
+"De fato, como visto em fl. 780, existe um voto proferido por mim que, a rigor, foi lançado equivocadamente naquele momento e, pela simples leitura, nota-se que está em dissonância com a matéria posta em julgamento, não constando, sequer, o nome do apelante que estaria sendo beneficiado com a redução da pena.
+O equívoco se justifica, seguramente, pela abertura na tela do computador, no momento do julgamento, do voto correspondente a outro processo.
+Assim, mantenho minha decisão como sendo aquela lançada no acordão de fls. 735/743, mais precisamente em fl.743, de modo a acompanhar o Relator. Nem se diga a respeito, como sustenta o Defensor do embargante, que o julgamento encerrou com votos divergentes, uma vez que a decisão vista em fls. 735/743, anunciada quando de seu encerramento, é no sentido de que não houve divergência de votos no julgamento da apelação" - 781/781v.
+Destarte, com essas considerações, NEGO PROVIMENTO ao agravo interno. (e-STJ, fl. 28; grifou-se.)
+O Desembargador esclareceu que não houve divergência de votos, mas a leitura equivocada de voto correspondente a outro processo, o que foi imediatamente equacionado, não tendo a sessão sido encerrada com votos divergentes.
+O acórdão, com efeito, foi assim finalizado:
+Vistos etc., acorda, em Turma, a 5ª CÂMARA CRIMINAL do Tribunal de Justiça do Estado de Minas Gerais, na conformidade da ata dos julgamentos, em DAR PARCIAL PROVIMENTO AOS RECURSOS E, DE OFÍCIO, ABSOLVER O CORRÉU NÃO APELANTE RELATIVAMENTE AO CRIME PREVISTO NO ARTIGO 288 DO CÓDIGO PENAL. (e-STJ, fl. 18)
+Mais adiante consta explicitamente a conclusão do voto de cada Desembargador presente na sessão de julgamento:
+DES. PEDRO COELHO VERGARA (REVISOR) - De acordo com o(a) Relator(a).
+DES. EDUARDO MACHADO - De acordo com o(a) Relator(a). (e-STJ, fl. 24)
+Nesse contexto, volto a pontuar que a insistência do agravante em buscar a declaração de nulidade não existente do acórdão proferido no julgamento do recurso de apelação, que sabidamente se deu de forma unânime, evidencia sua má-fé processual, na medida em que restou devidamente esclarecida a ocorrência de equívoco na leitura de voto correspondente a outro processo, situação essa de fácil aferição, uma vez que havia evidente dissonância com a matéria em julgamento e sequer constava o nome do apelante. Tudo devidamente esclarecido no agravo interno.
+Conforme se observa do trecho das notas taquigráficas transcrito pelo próprio agravante em suas razões, ficou consignado que o desembargador estava "mantendo a condenação do apelante pelo crime de roubo" (e-STJ, fl. 1678), deixando entrever, com facilidade, não se tratar da situação processual do apelante, que não havia sido condenado por roubo, mas pelo crime de latrocínio (157, § 3.º, do CP), e buscava, no recurso de apelação, justamente a desclassificação da conduta para o delito de roubo (art. 157, § 2.º, incisos I e II, do CP) (e-STJ, fl. 18).
+Confira-se a parte dispositiva da sentença de 1.º grau:
+Thalison Teotônio dos Santos às penas de quarenta (40) anos de reclusão e vinte (20) dias-multa pelo cometimento do crime previsto no art. 157 § 3.º, in fine, por duas vezes em face das vítimas A R e ACVN na forma do art. 70, parte final, ambos do Código Penal brasileiro b) dois (02) anos de reclusão pelo cometimento do crime previsto no art. 288, paragrafo único, do Código Penal brasileiro. Concretizando-as em: quarenta e dois (42) anos de reclusão e vinte (20) dias-multa inicialmente em regime fechado, na forma do art 59 do Código Penal Brasileiro. (e-STJ, fl. 67; grifou-se.)
+Se não havia condenação por crime de roubo a ser mantida, a dissonância entre a matéria tratada no voto proferido em sessão e a matéria requerida em apelação é, sim, evidente e manifesta.
+Por fim, registro que as regras do Regimento Interno do Tribunal de Justiça de Minas Gerais citadas pelo agravante não se aplicam à hipótese em comento.
+O art. 123-A, com efeito, preconiza que " n ão publicado o acórdão no prazo de 30 (trinta) dias, contado da data da sessão de julgamento, as notas taquigráficas o substituirão, para todos os fins legais, independentemente de revisão" (grifou-se). In casu, o julgamento ocorreu em 21/11/2019 e a publicação do acórdão foi em 2/12/2019 (e-STJ, fl. 18), não tendo sido ultrapassados os 30 dias referidos na norma, a justificar a prevalência do conteúdo das notas taquigráficas.
+O art. 124 do RITJMG, por sua vez, dispõe que:
+Art. 124. Qualquer inexatidão material existente no acórdão, devida a lapso manifesto, erro de escrita ou cálculo, poderá, de ofício ou a requerimento de qualquer das partes, ser corrigida pelo relator do acórdão, que determinará a sua republicação.
+No caso, repito, não houve inexatidão ou erro material no acórdão, cuja parte dispositiva foi publicada da maneira a seguir, conforme se extrai da página oficial do TJ-MG:
+Publicado o dispositivo do acórdão em 02/12/2019: "DERAM PARCIAL PROVIMENTO AOS RECURSOS E, DE OFÍCIO, ABSOLVERAM O CORRÉU NÃO APELANTE RELATIVAMENTE AO CRIME PREVISTO NO ARTIGO 288 DO CÓDIGO PENAL."
+.
+Sendo assim, não há nulidade a ser declarada na espécie.
+Foi como opinou o Ministério Público Federal:
+Como se observa, diversamente do que alegam os Impetrantes, o julgamento de apelação foi proferido de forma unânime pela Corte Estadual.
+O que ocorrera, em verdade, foi o fato de um dos Desembargadores ter lançado seu voto por equívoco, uma vez que se destinava a processo distinto daquele que estava sob a apreciação do colegiado, tanto é que, quando da proclamação do resultado final do julgamento, não foi anunciada qualquer divergência em relação ao voto proferido pelo Desembargador Relator.
+Logo, sendo o julgamento de apelação unânime, inexistia fundamento legal para a interposição do recurso de embargos infringentes, o que demonstra o acerto da conclusão esposada pelo Tribunal a quo e, por consequência, a inocorrência da nulidade aventada no presente remédio heroico. (e-STJ, fl. 1663)
+Conforme referido na decisão agravada, a defesa manejou todos os recursos cabíveis à espécie, inclusive recurso especial que, inadmitido na origem, foi alvo de agravo em recurso especial, posteriormente desprovido por decisão monocrática proferida por este Relator, em 7/10/2022, e confirmada no julgamento do agravo regimental, em acórdão julgado em 25/10/2022.
+Diante do exposto, nego provimento ao agravo regimental.
+É como voto.
