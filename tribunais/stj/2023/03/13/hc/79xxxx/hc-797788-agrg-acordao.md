@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/03/2023 a 13/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Rogerio Schietti Cruz.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+RELATÓRIO
+Trata-se de agravo regimental interposto por Erinaldo Cartaxo da Silva contra a decisão, às fls. 73/75, na qual a Presidência desta Corte indeferiu liminarmente o habeas corpus impetrado em seu favor, diante do óbice imposto pela Súmula 691/STF e por não ter vislumbrado, na hipótese, a configuração de ilegalidade manifesta ou de abuso de poder.
+Argumenta o agravante, em síntese, que (fl. 80):
+ ..  o precedente sumulado que veda o conhecimento de habeas corpus por esta Corte em face de decisão que, na origem, indefere liminar, comporta flexibilização em vista de manifesta teratologia da decisão que impõe prisão preventiva, como na espécie.
+ ..  este Superior Tribunal de Justiça só admite a legalidade da fundamentação per relatione quando aquela acrescente ao parecer ou a outra decisão, ainda que de modo conciso, fundamentação própria a menos que o paradigma adotado demonstre de modo suficiente os predicados legais, a saber, dos requisitos do art. 312, do CPP, concretamente.
+ ..  em momento algum o juízo vale-se de elementos concretos apontados pelo MP em seu parecer oral, apenas há menção de que por aquele fora requerida decretação da prisão preventiva e pela defesa a concessão de liberdade.
+Quanto as razões de decidir, o decreto é genérico e não traz um único dado concreto que aponte o risco da liberdade do agente, ora paciente.
+Logo, não há falar, in casu, de fundamentação calcada em parecer do MP sendo, nesse caso, despiciendo a juntada de tal peça mesmo porque escrita já que proferida às 19:06h do dia 20 de janeiro de 2023 e após a decisão do decreto preventivo às 19;22h do dia 20 de janeiro de 2023, ou seja, 16 minutos após o referido parecer  .. .
+Ao final, requer seja reconsiderada a decisão agravada ou seja o recurso submetido à apreciação da Sexta Turma desta Corte , a fim de revogar a custódia precária por manifesta ausência de fundamentação, proporcionalidade e razoabilidade (fl. 82).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. INDEFERIMENTO LIMINAR DO WRIT ORIGINÁRIO. INCIDÊNCIA DA SÚMULA 691/STF. PLEITO DE REVOGAÇÃO DA PREVENTIVA. FUNDAMENTOS. SUPRESSÃO DE INSTÂNCIA.
+1. A teor do disposto no enunciado da Súmula 691 do Supremo Tribunal Federal, o Superior Tribunal de Justiça firmou compreensão de não caber habeas corpus contra decisão que denega liminar, a não ser em hipóteses excepcionais, quando demonstrada flagrante ilegalidade.
+2. No writ prévio, o Desembargador relator, considerando as peculiaridades do caso concreto, indeferiu a pretensão liminar. Esta Corte Superior vem entendendo perfeitamente aplicável, em casos tais, o entendimento sumular antes referido, considerando a natureza precária do ato apontado como coator proferido em sede mandamental.
+3. Agravo regimental improvido.
+VOTO
+Apesar das alegações do recorrente, a decisão agravada deve ser mantida por seus próprios fundamentos. Na hipótese, o Ministro Vice-Presidente (no exercício da Presidência) não enxergou excepcionalidade apta a superar o óbice da Súmula 691 do Supremo Tribunal Federal.
+Caberá ao Tribunal a quo analisar, após o exame das informações a serem prestadas pelo Magistrado de primeiro grau, se efetivamente existe a possibilidade de acolhimento da pretensão da defesa.
+Ao menos por ora, não cabe a intervenção imediata e prematura desta Corte Superior, sobretudo porque, segundo o Desembargador Relator, as circunstâncias da prisão revelam que a medida é necessária, já que adotada com o propósito de resguardar a ordem pública, constantemente ameaçada pela prática do crime de tráfico de drogas, como atribuído ao paciente, que, segundo informações constantes nos autos, cultivava grande quantidade de substância entorpecente (530 pés de maconha). Entendo, pois, inquestionável a gravidade concreta da conduta do flagranteado, estando, portanto, justificada a adoção da medida  .. . Com isso, evidenciada a necessidade da prisão, decretada mediante decisão que trouxe elementos concretos e suficientes para justificá-la, resta fragilizada a alegação de ausência dos pressupostos que a autorizam, devendo, assim, ser mantida por seus próprios fundamentos.  ..  Assim, não demonstrada a existência do fumus boni iuris, não há como ser deferida a medida antecipatória postulada (fls. 68/70).
+Nesse passo, a manifestação do Superior Tribunal de Justiça, no caso presente, evidenciaria indevida supressão de instância, dada a natureza precária do ato apontado como coator proferido por Desembargador do Tribunal local, que examinará com maior profundidade as matérias ali arguidas, por ocasião do julgamento de mérito.
+Ante o exposto, nego provimento ao agravo regimental.
