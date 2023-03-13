@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/03/2023 a 13/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): Trata-se de agravo interno (e-STJ fls. 981/997) interposto contra decisão desta relatoria que negou provimento ao agravo nos próprios autos, mantendo a inadmissibilidade do recurso especial.
+Em suas razões, a agravante refuta a aplicação das Súmulas n. 5 e 7 do STJ, alegando que "o que se pretende rediscutir, na verdade, é a violação da Agravada aos ditames do Código de Defesa do Consumidor e Código Civil, uma vez que ocorreu o déficit informativo em relação ao cálculo de reembolso e, ademais, a própria abusividade em razão da ausência de revisão do valor da moeda de reajuste" (e-STJ fl. 985).
+Alega que o caso concreto se enquadra na jurisprudência do STJ que entende pela possibilidade de reembolso quando existente urgência no tratamento.
+Reitera argumentos do especial.
+Sustenta que a divergência jurisprudencial foi demonstrada.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+Não foram apresentadas contrarrazões (e-STJ fl. 1.001).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou revolvimento do contexto fático-probatório dos autos (Súmulas n. 5 e 7 do STJ).
+2. No caso concreto, para alterar a conclusão do Tribunal de origem de que não foi verificada abusividade na tabela de reembolso fixada pela operadora do plano de saúde, seria necessária nova análise de matéria fática, inviável em recurso especial.
+3. Agravo interno a que se nega provimento.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): A insurgência não merece acolhida.
+A agravante não trouxe argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 975/978):
+Trata-se de agravo nos próprios autos contra decisão que negou seguimento ao recurso especial, ante a incidência das Súmulas n. 5 e 7 do STJ (e-STJ fls. 854/861).
+O acórdão recorrido está assim ementado (e-STJ fl. 780):
+EMBARGOS DE DECLARAÇÃO. ALEGAÇÃO DE OMISSÃO NO DECISUM. DETERMINAÇÃO EXPRESSA DO STJ PARA ANÁLISE "ACERCA DA ABUSIVIDADE DA CONDUTA PRATICADA PELA RECORRIDA, QUE EFETUOU O REEMBOLSO DOS HONORÁRIOS MEDICOS NOS LIMITES CONTRATUAIS, SEM EXPLICAÇÃO OU ESCLARECIMENTO ACERCA DOS INDICES UTILIZADOS PARA O CALCULO DE RESTITUIÇÃO" APELAÇÃO CÍVEL. AÇÃO INDENIZATORIA. RELAÇÃO JURÍDICA DE CONSUMO. PLANO DE SAÚDE.
+Autora alega que a operadora do plano de saúde se recusou a realizar o reembolso total das despesas médicas havidas por conta de procedimentos médicos necessários para si e seu marido. Sentença de improcedência.
+IRRESIGNAÇÃO DE AMBOS. AUTORA NÃO FEZ PROVA MÍNIMA DE QUE A REDE CONVENIADA DE SEU PLANO DE SAÚDE NECESSÁRIO CONFORME NÃO NO OFERECIA DO O TRATAMENTO ATENDIMENTO, MOMENTO O ART. 373, I, DO CPC. CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS QUE NÃO MERECEM REFORMA, POIS ENCONTRA AMPARO NOS PRINCÍPIOS DA RAZOABILIDADE E PROPORCIONALIDADE.
+RECURSOS AOS QUAIS SE NEGA PROVIMENTO.
+No recurso especial (e-STJ fls. 786/800), fundamentado no art. 105, III, "a" e "c", da CF, a parte recorrente aponta divergência jurisprudencial e violação dos arts. 6º, III, 39, V, 46, 47, 54, § 4º e 51, IV, X e § 1º, II, do CDC e 884 e 424 do CC/2002.
+Argumenta que (e-STJ fls. 795/796):
+Assim, Nobres Ministros, necessário se faz a declaração de nulidade da cláusula que estabelece os limites de reembolso, devendo ser garantido o reembolso integral dos valores discutidos na presente ação, em virtude do déficit informativo da Operadora.
+Na prática, observa-se que o déficit informativo com relação ao reembolso de honorários médicos é utilizado como instrumento para restituição unilateral ao consumidor, seguindo unicamente a conveniência financeira das operadoras de planos de saúde, o que coloca o consumidor em desvantagem exagerada (CDC, artigo 39), a violar dispositivos consumeristas (CDC, art. 51, IV e §1º).
+No caso em tela, conforme já exposto, o parâmetro para a realização do reembolso de utilização de médicos não credenciados não consta no contrato, de maneira que não pode a Recorrida se valer de tal conduta para realizar o reembolso em percentual que bem entende, vez que é impossível o consumidor saber se o valor recebido de fato é correto, já que não tem acesso a todas as informações de que necessita.
+Com efeito, a conduta adotada pela Recorrida, qual seja, a de omitir informações, prejudica os usuários de seus serviços, haja vista que ficam eles à mercê de reembolsos calculados unilateralmente e, pior, sem critério passível de compreensão e acabam aceitando o valor que lhes é repassado para não ficar sem receber nada.
+Desta forma, é evidente que a Recorrida se fundamenta em cálculos genéricos e omissos para surpreender negativamente os segurados na oportunidade do efetivo reembolso.
+Seguindo este raciocínio, uma vez que o contrato prevê a possibilidade de reembolso, mas a "Tabela Básica de Procedimentos Médico- Hospitalares Golden Cross" não o acompanha, de modo que fica omisso ao consumidor, no momento da contratação, os critérios de reembolso da Operadora, a respectiva cláusula deve ser interpretada da forma que mais lhe favorece, isto é, caberá ao beneficiário o reembolso INTEGRAL das quantias dispendidas.
+Importa destacar que a ilegalidade aqui apontada não se atrela à simples limitação do ressarcimento, mas à forma obscura com que são feitos os cálculos e dispostas às informações, ou ainda pela ausência de informações imprescindíveis ao consumidor.
+Ora, Nobres Ministros, não foi dada a oportunidade aos consumidores de questionar a tabela de reembolso. Assim, o Tribunal Carioca, ao declarar válida a limitação abusiva imposta no reembolso, negou vigência aos dispositivos apresentados, devendo o julgado ser reformado, a fim de se conceder o reembolso integral das despesas médicas arcadas pela Recorrente.
+No agravo (e-STJ fls. 874/888), afirma a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 893/901).
+É o relatório.
+Decido.
+O Tribunal de origem entendeu não haver abusividade na tabela de reembolso fixada pela operadora de plano de saúde e não ter a ora recorrente comprovado que a rede conveniada não oferecia o tratamento necessário no momento do atendimento (e-STJ fls. 782, 615).
+Portanto, constata-se que o acórdão baseou-se nos elementos fático- probatórios para reconhecer a improcedência da pretensão da parte autora.
+Assim, é inviável alterar a conclusão do Tribunal de origem quanto ao tema, pois, para tanto, seria necessário reexaminar fatos e provas, providências vedadas a esta Corte, de acordo com as Súmulas n. 5 e 7 do STJ.
+Ademais, o STJ pacificou o entendimento de que "o reembolso das despesas médico-hospitalares efetuadas pelo beneficiário com tratamento/atendimento de saúde fora da rede credenciada pode ser admitido somente em hipóteses excepcionais, tais como a inexistência ou insuficiência de estabelecimento ou profissional credenciado no local e urgência ou emergência do procedimento" (EAREsp n. 1.459.849/ES, relator Ministro Marco Aurélio Bellizze, Segunda Seção, julgado em 14/10/2020, DJe de 17/12/2020).
+De qualquer forma, o valor do reembolso deve observar os preços e tabela contratados. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CONDENATÓRIA. PLANO DE SAÚDE. TRATAMENTO MÉDICO EM REDE NÃO CREDENCIADA. URGÊNCIA CONFIGURADA. REEMBOLSO. LIMITAÇÃO. PREÇOS DE TABELA EFETIVAMENTE CONTRATADOS COM A OPERADORA ACOMPANHAMENTO DE ENFERMAGEM. DESNECESSIDADE. REEXAME. SÚMULA 7/STJ. DANOS MORAIS NÃO CONFIGURADOS. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça admite o reembolso de despesas médico-hospitalares realizadas pelo beneficiário do plano de saúde, com internação em estabelecimento não conveniado, em casos excepcionais (situação de urgência ou emergência, inexistência de estabelecimento credenciado no local e/ou impossibilidade de utilização dos serviços próprios da operadora em razão de recusa injustificada), limitado aos preços e tabelas efetivamente contratados com a operadora de saúde.
+2. O Tribunal de origem consignou que a prescrição médica tinha caráter genérico, bem como a prova pericial produzida nos autos deixou claro que a atenção de familiares e cuidadores eram suficientes ao bem-estar do consumidor, rechaçando a necessidade de acompanhamento de enfermagem e/ou cuidados técnicos e especializados. A modificação de tal entendimento demandaria o revolvimento do acervo fático-probatório, o que é inviável em sede de recurso especial, nos termos da Súmula 7/STJ.
+3. Consoante o entendimento desta Corte, "havendo dúvida razoável na interpretação do contrato, a recusa da operadora de plano de saúde na cobertura de determinado procedimento, sem ofensa aos deveres anexos do pacto - como a boa-fé -, não pode ser reputada ilegítima ou injusta, violadora de direitos imateriais, de modo que não fica configurada a conduta ilícita capaz de ensejar a indenização por danos morais" (AgInt no AREsp 1.412.367/RJ, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 13.3.2020).
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 1.791.940/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 15/8/2022, DJe de 26/8/2022.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. PLANO DE SAÚDE. ATENDIMENTO DE EMERGÊNCIA. HOSPITAL NÃO CREDENCIADO. REEMBOLSO. LIMITAÇÃO. POSSIBILIDADE. SÚMULA Nº 568/STJ. INFORMAÇÃO AO CONSUMIDOR. PROVAS. CONTRATO. REEXAME. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. É firme a orientação do Superior Tribunal de Justiça no sentido de que, nas hipóteses em que não se afigurar possível a utilização dos serviços credenciados, como é o caso das situações emergenciais, o reembolso poderá ser limitado aos preços e às tabelas efetivamente contratados com o plano de saúde. Precedentes.
+3. Na hipótese, rever a conclusão do aresto impugnado para atestar a falta de ciência da parte agravante acerca das tabelas próprias do plano encontra os óbices das Súmulas nºs 5 e 7 do Superior Tribunal de Justiça.
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.946.918/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 16/5/2022, DJe de 25/5/2022.)
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+Em que pesem os argumentos da parte, é inafastável a incidência das Súmulas n. 5 e 7 do STJ pois, para alterar a conclusão da Corte estadual a respeito da ausência de abusividade na tabela de reembolso imposta pela operadora de plano de saúde, seria necessária a análise de matéria fática, inviável em recurso especial.
+O mesmo óbice impede o exame da alegada divergência jurisprudencial.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
