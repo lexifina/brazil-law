@@ -1,0 +1,76 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/03/2023 a 13/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Humberto Martins, Herman Benjamin e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno (fls. 388/392) apresentado contra decisão monocrática do Ministro Presidente/STJ da qual se extrai:
+Quanto à primeira controvérsia, na espécie, o acórdão recorrido assim decidiu:
+ ..
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+ ..
+Ademais, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+ ..
+Quanto à segunda controvérsia, na espécie, incidem os óbices das Súmulas n. 282/STF e 356/STF, uma vez que a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+A agravante alega, em síntese, que:
+No entanto, data maxima venia, diferentemente do quanto aduzido na r. decisão agravada, não há que se falar na incidência da Súmula 282/STF e 356/STF, já que a Agravante alegou, desde a interposição do Agravo de Instrumento, na forma de prequestionamento implícito (menção à matéria, mas sem alusão expressa ao dispositivo legal), a violação aos arts. 202 e 203 do CTN (pedido de nulidade com base na iliquidez das CDAs), já que que mesmo após a vigência da Lei nº 16.497/17, Fazenda continua aplicando juros majorados (devido à manutenção da incidência 1% para fração de mês - conforme art. 96, § 1º, 2 da Lei nº 6.374/89, com alteração dada pela Lei nº 16.497/17.
+ ..
+Conforme aduzido pelo v. Acórdão, a Ilma. Ministra inadmitiu ainda o Agravo em Recurso Especial interposto, se utilizando da argumentação no sentido de que a matéria trazida à lume no Recurso Especial importa em reexame da matéria fática probatória, razão pela qual aplicar-se-ia ao caso a Súmula 7 desse Eg. STJ. Contudo, com a devida vênia, tal fundamento não merece prosperar. Isto porque, não é necessário rever-se o substrato fático do caso, até porque a questão contida no Recurso Especial, bem como no Agravo em Recurso Especial aviados são puramente de direito. Basta a leitura de suas aludidas razões e os v. acórdãos objurgados, nada mais!
+Requer seja provido o recurso.
+A agravada pleiteia a manutenção da decisão agravada.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. EXISTÊNCIA DE FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO NAS RAZÕES RECURSAIS. ÓBICE DA SÚMULA 283/STF (POR ANALOGIA). FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF (POR ANALOGIA). NULIDADE DA CDA. QUESTÃO ATRELADA AO REEXAME DE MATÉRIA FÁTICA. ÓBICE DA SÚMULA 7/STJ.
+1. É inadmissível o recurso especial quando o acórdão recorrido assenta em mais de um fundamento suficiente e o recurso não abrange todos eles, bem como quando deficiente a fundamentação recursal (Súmulas 283 e 284/STF, por analogia).
+2. O reexame de matéria de prova é inviável em sede de recurso especial (Súmula 7/STJ).
+3. Agravo interno não provido.
+VOTO
+Em que pese o arrazoado, observa-se que a parte agravante não trouxe argumentos novos capazes de infirmar os fundamentos que embasaram a decisão agravada, o que faz subsistir o entendimento nela externado.
+O Tribunal de origem decidiu que:
+Pontuo que no julgamento do Agravo de Instrumento nº 2193335-52.2020.8.26.0000, derivado da ação ordinária nº 1037568-73.2020.8.26.0053, em trâmite perante a 14ª Vara da Fazenda Pública, foi deferida a suspensão da exigibilidade do crédito tributário apenas com relação a multa no que superar o valor do imposto e dos juros na base de cálculo da multa.
+E, tal como considerei na Decisão Monocrática prolatada nos embargos de declaração opostos pela agravante, a exclusão do excedente do limite da multa -100%- e dos juros na sua base de cálculo não induz, por evidente à nulidade do AIIM, tema amplamente dissertado no voto.
+Observo, ainda, ter aquele MM. Juízo rejeitado o oferecimento de Carta de Fiança para suspensão da exigibilidade do crédito tributário, bem como para expedição de Certidão de Regularidade Fiscal, desprovido o Agravo de Instrumento nº 2252605-07.2020.8.26.0000, pelo que não há, com a devida vênia, de se falar em suspensão da execução fiscal (grifo meu, fls. 20/21).
+Por outra, é notar não haver comprovação sobre inobservância do comando judicial prolatado no referido AI nº 2193335-52.2020.8.26.0000, com nota de que a agravante bate-se, aqui, na ausência de exclusão dos jutos sobre a multa, não ordenada, como visto.
+Da leitura da petição do recurso especial, percebe-se que tal fundamento, hábil à manutenção do julgado, não restou infirmado pela recorrente, o que atrai o óbice da Súmula 283/STF, aplicável por analogia, que dispõe, in verbis: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Vale destacar que o princípio da dialeticidade recursal impõe ao recorrente o ônus de evidenciar os motivos de fato e de direito suficientes à reforma do acórdão recorrido, trazendo à baila novas argumentações capazes de infirmar todos os fundamentos do decisum que se pretende modificar, sob pena de vê-lo mantido por seus próprios fundamentos.
+Confiram-se os seguintes precedentes:
+ADMINISTRATIVO. PROCESSUAL CIVIL. PEDIDO GENÉRICO. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTOS SUFICIENTES. INCIDÊNCIA DA SÚMULA 283/STF. PEDIDO GENÉRICO. PECULIARIDADES DO CASO. REEXAME. SÚMULA 7/STJ. VERIFICAÇÃO DO INTERESSE DE AGIR. REALIZAÇÃO DE OBRAS. SÚMULA 7/STJ.
+1. No caso dos autos, os argumentos do acórdão recorrido não enfrentados são suficientes para manter o decisum recorrido, o que atrai na espécie, por analogia, o óbice da Súmula 283 do STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.".
+2. O Tribunal de origem, soberano na análise das circunstâncias fáticas e probatórias da causa, ao negar provimento às apelações, entendeu por manter a sentença de extinção do feito tendo em vista que o pedido constante da inicial é genérico, o que conduz à inépcia da inicial. Modificar o acórdão recorrido demandaria a incursão na seara fático-probatória constante dos autos, o que é vedado a teor do disposto na Súmula 7/STJ.
+3. Por fim, quanto à alegação da parte recorrente de que foi "constatado - com demonstram os documentos de fls. 13/29 - que a UFRJ não tem realizado qualquer obra de conservação no referido imóvel, tendo em vista o estado de conservação em que se constatou estar o imóvel", a Corte de origem asseverou que tais obras ocorreram. Dessa forma, averiguar se de fato foi realizada alguma obra demandaria a análise dos fatos e provas trazidas aos autos, o que novamente encontra óbice na Súmula 7/STJ.
+Agravo regimental improvido. (AgRg no REsp 1376352/RJ, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 13/05/2015)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. INDEFERIMENTO DA INICIAL. AUSÊNCIA DE DOCUMENTAÇÃO INDISPENSÁVEIS. REVISÃO. SÚMULA 7/STJ. FUNDAMENTO DO ACÓRDÃO DE QUE FORAM CONCEDIDAS MAIS DE UMA OPORTUNIDADE PARA SUPRESSÃO DA IRREGULARIDADE NÃO IMPUGNADO. APLICAÇÃO DA SÚMULA 283/STF.
+I - In casu, rever o entendimento do Tribunal de origem, quanto à documentação indispensável à propositura da ação, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7/STJ.
+II - A falta de combate a fundamento suficiente para manter o acórdão recorrido - de foram concedidas mais de uma oportunidade para a supressão da irregularidade, antes do indeferimento da inicial - justifica a aplicação, por analogia, da Súmula n. 283 do Supremo Tribunal Federal.
+III - A Agravante não apresenta, no regimental, argumentos suficientes para desconstituir a decisão agravada.
+IV - Agravo Regimental improvido. (AgRg no AREsp 607.618/PR, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 11/05/2015)
+RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. DIREITO DAS SUCESSÕES. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA Nº 283 DO STF. IMPOSSIBILIDADE DE INVERSÃO DO JULGADO. NECESSIDADE DE AMPLA DILAÇÃO PROBATÓRIA. SÚMULA Nº 7 DO STJ. RECURSO A QUE SE NEGA PROVIMENTO.
+1. Os recorrentes deixaram de impugnar fundamentos suficientes, por si sós, para manter o acórdão recorrido, o que atrai o óbice da Súmula nº 283 do STF.
+2. Se a análise da alegação recursal demanda o reexame do conjunto fático-probatório, não pode este Tribunal apreciar o inconformismo a teor da sua Súmula nº 7.
+3. Recurso especial a que se nega provimento. (REsp 1488870/MG, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe 12/05/2015)
+Ademais, as razões de recorrer são genéricas e incapazes de demonstrar como o acórdão recorrido teria ofendido os dispositivos legais indicados. Incidência da Súmula 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Confiram-se ainda os seguintes julgados: REsp n. 1.682.077/RS, relator Ministro Herman Benjamin, Segunda Turma, DJe de 11/10/2017; AgInt no AREsp n. 734.966/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 4/10/2016; AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018; e AgRg no AREsp n. 673.955/BA, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 8/3/2018.
+Mesmo que assim não o fosse, a jurisprudência deste Egrégio Tribunal firmou o entendimento no sentido de que a aferição da presença dos requisitos essenciais à validade da CDA demanda reexame do conjunto fático-probatório, o que esbarra, inequivocamente, no óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido, os seguintes precedentes:
+TRIBUTÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CERTIDÃO DE DÍVIDA ATIVA (CDA). REQUISITOS FORMAIS DE VALIDADE. ART. 2º, § 5º, DA LEI 6.830/80 (LEF). REEXAME NA VIA ESPECIAL. INVIABILIDADE. VERBETE SUMULAR 7/STJ. INCIDÊNCIA. PRECEDENTE DA PRIMEIRA SEÇÃO. AGRAVO NÃO PROVIDO.
+1. "O entendimento desta Corte Superior é no sentido de que o exame acerca do preenchimento in concreto dos requisitos essenciais de validade de CDA é providência que demanda o revolvimento do conteúdo fático-probatório dos autos, o que é inviável no âmbito do recurso especial. Nesse sentido: REsp 1.345.021/CE, Rel. Ministro Herman Benjamin, Primeira Seção, julgado em 27/02/2013, DJe 02/08/2013)" (AgRg no AREsp 323.134/SP, Primeira Turma, Rel. Min. BENEDITO GONÇALVES, DJe 3/9/13).
+2. Agravo regimental não provido.
+(STJ, AgRg no AREsp 337.432/MG, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, DJe de 30/10/2013).
+TRIBUTÁRIO. EXECUÇÃO FISCAL. JUNTADA AOS AUTOS DE CÓPIA DO PROCESSO ADMINISTRATIVO FISCAL. PROVIDÊNCIA SUJEITA AO JUÍZO DE CONVENIÊNCIA DO MAGISTRADO. AFERIÇÃO DOS REQUISITOS DE VALIDADE DA CDA. SÚMULA 7/STJ.
+1. "A juntada do processo administrativo fiscal na execução fiscal é determinada segundo juízo de conveniência do magistrado, quando reputado imprescindível à alegação da parte executada. A disponibilidade do processo administrativo na repartição fiscal impede a alegação de cerceamento de defesa." (REsp 1.180.299/MG, Rel. Ministra Eliana Calmon, Segunda Turma, DJe 8/4/10)
+2. A alteração das conclusões adotadas pela Corte de origem, a respeito da regularidade da CDA que fundamenta o processo de execução fiscal, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em sede de recurso especial, a teor do óbice previsto na Súmula 7/STJ.
+3. Agravo regimental a que se nega provimento
+(STJ, AgRg no AREsp 318.585/PE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 04/02/2014).
+TRIBUTÁRIO. PROCESSUAL CIVIL. AUSÊNCIA DE VIOLAÇÃO DO ART. 535 DO CPC. REQUISITOS DE VALIDADE DA CDA. NULIDADE. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. EXTINÇÃO DO PROCESSO. ABANDONO DE CAUSA. ART. 267, III, DO CPC. INTIMAÇÃO PESSOAL DA PARTE. NECESSIDADE.
+1. Não há violação do art. 535 do CPC quando a prestação jurisdicional é dada na medida da pretensão deduzida, com enfrentamento e resolução das questões abordadas no recurso.
+2. Nos termos da jurisprudência do STJ, a aferição dos requisitos essenciais à validade da Certidão de Dívida Ativa conduz necessariamente ao reexame do conjunto fático-probatório do autos, medida inexequível na via da instância especial. Incidência da Súmula 7/STJ.
+3. O abandono da causa pelo autor pressupõe a demonstração do ânimo de abandonar o processo, comprovado quando, intimado pessoalmente, não se manifestar quanto ao interesse em prosseguir no feito, circunstância que não ocorreu no caso dos autos.
+4. Agravo regimental improvido (STJ, AgRg no REsp 1387858/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 18/09/2013).
+TRIBUTÁRIO. EXECUÇÃO FISCAL. NULIDADE DA CDA. REEXAME DE MATÉRIA DE FATO E DE PROVAS. SÚMULA 7/STJ. PRINCÍPIO DA LEGALIDADE TRIBUTÁRIA. INCIDÊNCIA DE MULTA. ART. 97 DO CTN. MATÉRIA DE CUNHO CONSTITUCIONAL E LOCAL. INVIABILIDADE DE APRECIAÇÃO NESTA VIA RECURSAL.
+1. A aferição dos requisitos essenciais à validade da CDA demanda reexame do conjunto fático-probatório, o que esbarra, inequivocamente, no óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+2. O Superior Tribunal de Justiça firmou o entendimento de que não cabe Recurso Especial fundado em violação a dispositivo infraconstitucional que repete preceito constitucional. No caso, o art. 97 do CTN é reprodução do princípio da legalidade, expresso no art. 150, I, da Constituição Federal.
+3. Por outro lado, a análise de violação do princípio da legalidade tributária, de modo a verificar se o Decreto Municipal 27.335/1988 teria transbordado os limites legais previstos na Lei Municipal 7.513/1970, também pressupõe análise de direito local, incabível em Recurso Especial (Súmula 280/STF).
+4. Agravo Regimental não provido.
+(STJ, AgRg no AREsp 341.862/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 12/09/2013).
+Assim, não merece reparo a decisão agravada.
+Diante do exposto, nego provimento ao agravo interno.
+É o voto.
