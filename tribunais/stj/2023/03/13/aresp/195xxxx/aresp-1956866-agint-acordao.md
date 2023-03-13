@@ -1,0 +1,55 @@
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO ANULATÓRIA DE CLÁUSULA DE CONVENÇÃO DE CONDOMÍNIO C/C OBRIGAÇÃO DE FAZER E INDENIZAÇÃO POR DANOS MORAIS. VIOLAÇÃO AO ART. 1.022 DO CPC. AUSÊNCIA. AGRAVO INTERNO NÃO PROVIDO.
+1. A ausência de impugnação, no agravo interno, de capítulo independente da decisão singular que aprecia o recurso especial ou agravo acarreta a preclusão da matéria não impugnada.
+2. O acórdão recorrido analisou as questões necessárias ao deslinde da controvérsia, não se configurando omissão, contradição ou negativa de prestação jurisdicional.
+3. Agravo interno a que se nega provimento.
+ACÓRDÃO
+A QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/03/2023 a 13/03/2023, por unanimidade, decidiu negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora. Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto contra decisão de fls. 8338/8344, na qual neguei provimento ao agravo em razão da ausência de violação ao art. 1.022 do CPC e incidência das Súmulas 5 e 7 do STJ.
+Sustenta que o acórdão recorrido decidiu com fundamento em premissa falsa e não examinou as questões propostas.
+Alega que houve omissão no julgado do Tribunal de origem porque não teria sido apreciado o apontado abuso de poder econômico e a alegação de nulidade da cláusula em razão da ofensa aos arts. 30 e 51, incisos III e IV, e § 1º da Lei nº 8.078/90.
+Impugnação da parte agravada às fls. 8379/8384 e 8386/8392.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO ANULATÓRIA DE CLÁUSULA DE CONVENÇÃO DE CONDOMÍNIO C/C OBRIGAÇÃO DE FAZER E INDENIZAÇÃO POR DANOS MORAIS. VIOLAÇÃO AO ART. 1.022 DO CPC. AUSÊNCIA. AGRAVO INTERNO NÃO PROVIDO.
+1. A ausência de impugnação, no agravo interno, de capítulo independente da decisão singular que aprecia o recurso especial ou agravo acarreta a preclusão da matéria não impugnada.
+2. O acórdão recorrido analisou as questões necessárias ao deslinde da controvérsia, não se configurando omissão, contradição ou negativa de prestação jurisdicional.
+3. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): Os argumentos desenvolvidos pela parte agravante não infirmam a conclusão da decisão impugnada, razão pela qual o presente recurso não merece prosperar.
+De início, ressalto que as razões do agravo interno deixaram de impugnar o capítulo autônomo da decisão que tratou do mérito do recurso especial (Súmulas 5 e 7 do STJ), acarretando preclusão, nos termos do entendimento firmado no EREsp n. 1.424.404/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe 17/11/2021.
+Com efeito, nas razões do agravo interno, a parte recorrente limitou-se a defender a existência de violação ao art. 1.022 do Código de Processo Civil.
+Acerca do tema, os agravantes insistem que o acórdão recorrido está fundado em premissa fática equivocada e que foi omisso ao não analisar a alegada nulidade da cláusula que conferiu o direito de exploração das vagas de estacionamento do empreendimento por estar caracterizado abuso de poder econômico e desrespeito à oferta.
+Verifica-se, contudo, que o Tribunal de origem se pronunciou sobre os temas, consignando expressamente que "os compradores tinham ciência dos termos do contrato de compra e venda do imóvel comercial" e que "não houve nenhuma nulidade no negócio realizado entre a BRASCAN e a ALLPARK". Confira-se (e-STJ fls. 7962/7965):
+Nota-se que se trata de um empreendimento de natureza comercial, sendo que a ALLPARK adquiriu uma unidade do empreendimento, possuindo direito a 49 (quarenta e nove) vagas de garagem, além de poder utilizar todas as vagas disponíveis no imóvel, desde que fosse assegurado aos condôminos o direito ao estacionamento de veículos por intermédio do uso de credenciais, responsabilizando-se pela aquisição e instalação de equipamentos (cancelas, câmeras de segurança, sinalização etc.) e com o custo da manutenção das vagas, configurando-se a contrapartida para o Condomínio.
+Desta forma, a ALLPARK (ESTAPAR) ficou responsável apenas por administrar a utilização das vagas destinadas a cada unidade, de forma a melhor atender o fluxo de estacionamento e o interesse da coletividade do condomínio.
+Já no primeiro documento (Promessa de Compra e Venda) colacionado aos autos pelos próprios autores às fls. 49 e seguintes, percebe-se de forma bastante clara que a ESTAPAR adquiriu uma unidade com o direito de utilização de 50 vagas de garagem, bem como o direito de exploração do estacionamento do empreendimento (Quadro de Resumo e Cláusula 12.12).
+Com efeito, reitero que consta na Escritura de Compra e Venda colacionada aos autos às fls. 79 e seguintes, especificamente na Cláusula 07, que caberia à empresa autora o direito de implantar e operar o sistema de estacionamento no condomínio, de acordo com as regras fixadas, destacando-se, entre estas, os seguros, equipamentos e serviços, fatos que de forma alguma eram desconhecidos dos autores.
+Finalmente, destaca-se que Cláusula 4.6 da Convenção destaca o direito perpétuo, gratuito e ininterrupto de utilização de vagas no referido estacionamento, resguardando, portanto, o direito adquirido pelos demais condôminos.
+Por certo, quando da aquisição da unidade e dos direitos a ela atrelados, a ESTAPAR (ALLPARK) pagou valor bastante superior ao das demais unidades, justamente em razão dos benefícios atrelados.
+Correta a BRASCAN ao afirmar em sua defesa que tal venda certamente impactou na lucratividade da (BRASCAN) incorporadora e, provavelmente, no preço das demais unidades.
+Não se pode, agora, consolidado o direito adquirido da ALLPARK, por mero inconformismo, buscar a alteração de tal situação através de uma "emenda" ao Regimento Interno do Condomínio, eis que não houve nenhuma nulidade no negócio realizado entre a BRASCAN e a ALLPARK.
+Repita-se que, de acordo com a própria Convenção de Condomínio (Cláusula 8.113 - fls. 120), qualquer modificação que implique em alteração de áreas comuns, unidades autônomas e propriedade dos condóminos exige a aprovação da unanimidade dos condôminos.
+Quanto a isto, também não faz sentido o inconformismo dos autores.
+Tanto a Convenção de Condomínio, quanto o Regulamento Interno são documentos elaborados, a princípio, pela construtora (BRASCAN).
+A empresa deve registrar a convenção antes mesmo de começar a construir o condomínio.
+Sobre as regras para que se altere uma convenção de condomínio, o quórum é conhecido, 2/3 de todos os proprietários, exceto se a própria convenção estipular outro quórum, que é o caso em concreto.
+(..)
+Desta forma, inexiste qualquer ofensa aos direitos dos autores, notadamente porque inexiste qualquer ilegalidade na transação efetuada entre a BRASCAN, proprietária do empreendimento e a ALLPARK.
+No julgamento dos embargos de declaração, o Tribunal de origem ainda acrescentou (e-STJ, fls. 8006/8007):
+Se insurge o embargante contra o acórdão, sob o argumento de que o mesmo é omisso e obscuro, pois teve por fundamento premissa equivocada, bem como deixou de apreciar a alegação de abuso econômico e da regularidade da oferta.
+Em verdade o acórdão alvejado apreciou as questões articuladas pelos apelantes, ora embargantes, no entanto, por amor ao debate, traz-se à lume os argumentos suplementares hábeis a refutar o recurso interposto e corroborar as razões de decidir do acórdão proferido.
+Não se pode olvidar que a escritura pública do imóvel é o instrumento jurídico que exterioriza as declarações de vontade das partes, ou seja, é o documento público oficial que chancela o acordo estabelecido entre os interessados e que oficializa a transferência do bem.
+Tem-se, pois, que não se apresenta lícito aos contratantes num processo de compra e venda de imóvel alegar desconhecimento das cláusulas constantes do respectivo contrato.
+Neste passo, a pretensão que objetiva a reserva do número de vaga nos moldes postulados na inicial não se sustenta, tendo em vista que os autores, ora apelantes, estavam formalmente cientes de que não existia a hipótese de escolha de localização, sendo certo que tal assertiva pode ser constatada pelo teor das certidões do RGI que constam dos index 49/50 (imóvel dos apelantes Márcio e Moisés) e 195/196 (imóvel dos apelantes Labes e Peixoto Empreendimentos).
+Veja-se o teor comum das duas certidões: "(..) e respectivas áreas comuns, com direito ao uso de 20 (vinte) vaga(s) de garagem coberta ou descoberta situada(s) indistintamente no pavimento de acesso ou no subsolo do empreendimento "BARRA BUSINESS CENTER", sem direito de escolha localização das(s) referida(s) vaga(s)(..)".
+Relevante assinalar, ainda, que, como consignado no acórdão embargado, os compradores, ora apelantes, também tinham ciência que o proprietário da unidade 119 do bloco 04 teria o direito de explorar comercialmente o sistema de vagas de garagem (index 78, item 13.10.1 e index 226, item 13.10.1), obedecidos, à toda evidência, o direito dos proprietários do uso do aparcamento sem a respectiva contraprestação pecuniária, tal como consignado na escritura pública e na convenção do condomínio.
+Além de se reconhecer que os compradores tinham ciência dos termos do contrato de compra e venda do imóvel comercial, é relevante assinalar que também tinham ciência, consoante referidos instrumentos públicos, que a hipótese trata de empreendimento imobiliário que trabalha com uso de vagas de estacionamento pelos proprietários das unidades imobiliárias e de exploração de vagas ociosas de outros condôminos e próprias pelo proprietário da unidade 119.
+Ignorar a forma como o empreendimento foi constituído, para acolher a pretensão dos apelantes, encerra verdadeira violação das relações jurídicas estabelecidas originalmente para instituir nova forma de gestão comercial do estacionamento, diversa daquela para a qual foi constituída em sua gênese.
+Tem-se, pois, que na hipótese não há que se falar em ocorrência de obscuridade ou omissão, uma vez que não configurada qualquer fundamentação em premissa equivocada ou constatação de abuso do poder ou da regularidade da oferta.
+Acrescente-se que a jurisprudência deste Superior Tribunal de Justiça é firme no sentido de que não está o órgão julgador obrigado a se pronunciar sobre todos os argumentos apontados pelas partes a fim de expressar o seu convencimento. No caso, o acórdão recorrido está devidamente fundamentado, decidindo, contudo, em sentido contrário ao pretendido pela parte.
+Assim, inexiste violação ao art. 1.022 do CPC, sendo forçoso reconhecer que a pretensão dos embargos de declaração opostos na origem ostenta caráter nitidamente infringente, visando rediscutir matéria que foi objeto de análise na Corte local.
+Desse modo, as alegações feitas no agravo interno não são capazes de infirmar o entendimento da decisão agravada, que deve ser integralmente mantida.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
