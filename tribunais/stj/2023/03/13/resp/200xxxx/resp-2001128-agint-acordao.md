@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/03/2023 a 13/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Humberto Martins, Herman Benjamin e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno de decisão de minha relatoria em que não conhecido do recurso especial da SUPERVIA CONCESSIONÁRIA DE TRANSPORTE FERROVIÁRIO S/A - EM RECUPERAÇÃO JUDICIAL, pois: (i) deficiente a fundamentação na parte em que apontada violação ao art. 1.022 do CPC; (ii) ausência de prequestionamento das teses recursais, atraindo a incidência da Súmula 211/STJ.
+Sustenta a agravante o seguinte: (a) demonstrou os vícios em que incorreu o acórdão impugnado; (b) que a matéria foi devidamente prequestionada por meio de Embargos de Declaração.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. SERVIÇO DE TRANSPORTE FERROVIÁRIO. AÇÃO INDIVIDUAL OBJETIVANDO IMPOSIÇÃO DE OBRIGAÇÃO DE FAZER (OBRAS DE ACESSIBILIDADE EM ESTAÇÃO DE TREM) E REPARAÇÃO POR DANOS MORAIS. VIOLAÇÃO AO ART. 1.022 DO CPC. FUNDAMENTAÇÃO DEFICIENTE. INCIDÊNCIADA SÚMULA 284/STF. QUESTIONAMENTO SOBRE A SUSPENSÃO DO PROCESSO E PROSSEGUIMENTO DA DEMANDA RELATIVAMENTE AO PEDIDO DE REPARAÇÃO POR DANOS MORAIS. AUSÊNCIA DE PREQUESTIONAMENTO DAS TESES RECURSAIS. SÚMULA 211 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. É deficiente a fundamentação recursal na parte em que se aponta violação ao art. 1.022 do CPC. É que a argumentação da recorrente no ponto foi genérica, sem demonstração objetiva de qual exatamente teria sido a omissão não sanada pela Corte de origem, bem assim a sua relevância para o justo deslinde da causa. Nessas circunstâncias, o óbice da Súmula 284/STF, aqui aplicável por analogia, impede o conhecimento do recurso especial.
+2. O STJ não considera suficiente, para fins de prequestionamento, que a matéria tenha sido suscitada pelas partes ou apenas citada no acórdão, mas sim que a respeito tenha havido efetivo debate no acórdão recorrido.
+3. Agravo interno não provido.
+VOTO
+A insurgência não prospera.
+Ao contrário do que afirma a agravante, na parte em que apontada violação ao art. 1.022 do CPC, limitou-se a afirmar que o Tribunal de origem "passou ao largo das ponderações e divergência quanto a legislação infraconstitucional, sem declinar os devidos fundamentos das violações arguidas" (fl. 383-e).
+Tal argumentação mostra-se deficiente, pois deixou a recorrente de indicar qual exatamente foi o vício que a Corte de origem deixou de examinar - mesmo provocada por embargos de declaração -, além de demonstrar a relevância do exame do tema para o justo deslinde da causa. Nesses termos, é de se manter o não conhecimento em aplicação, por analogia, da Súmula 284/STF.
+Ademais, conforme asseverado na decisão agravada, no julgamento dos embargos de declaração, a Corte de origem afastou quaisquer hipóteses de vício de fundamentação, consignando expressamente que a decisão guerreada decidiu apenas sobre a existência dos pressupostos de existência e validade do processo, e que caberia ao Juízo de 1º grau dar prosseguimento ao feito, averiguando a necessidade de suspensão do feito.
+Dessa forma, não houve o devido prequestionamento no Tribunal de origem das teses recursais sobre a a suspensão do processo e prosseguimento da demanda relativamente ao pedido de reparação por danos morais, de modo que desatendido o requisito do prequestionamento nos termos da Súmula 211/STJ que dispõe in verbis: inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo.
+Oportuno consignar que o STJ não considera suficiente, para fins de prequestionamento, que a matéria tenha sido suscitada pelas partes ou apenas citada no acórdão, mas sim que a respeito tenha havido efetivo debate no acórdão recorrido, o que não ocorreu no caso.
+Nesse sentido:
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. OBJEÇÃO DE EXECUTIVIDADE. MULTA POR ATO ATENTATÓRIO À DIGNIDADE DA JUSTIÇA. QUESTÃO RELATIVA À DATA DA EFETIVA DESOCUPAÇÃO DO IMÓVEL. DISCUSSÃO SUPERADA NA FASE DE CONHECIMENTO. PARTE QUE NÃO OPÔS EMBARGOS À EXECUÇÃO NO PRAZO LEGAL. PRECLUSÃO. AUSÊNCIA DE COMPROVAÇÃO DE DESOCUPAÇÃO DO IMÓVEL ANTES DO CUMPRIMENTO DO MANDADO DE DESPEJO. MULTA POR ATO ATENTATÓRIO À DIGNIDADE DA JUSTIÇA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. SÚMULA 283/STF. INCIDÊNCIA. PREQUESTIONAMENTO AUSENTE. SÚMULA 211 DO STJ. REVOLVIMENTO DO CONJUNTO FÁTICO PROBATÓRIO. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula nº 283/STF. Aplicação analógica.
+2. Para que se configure o prequestionamento da matéria, ainda que implícito, há que se extrair do acórdão recorrido pronunciamento sobreas teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal (Súm. 211/STJ).
+3. O exame da pretensão recursal de nulidade do v. acórdão recorrido exigiria a alteração das premissas fático-probatórias estabelecidas pelo v. acórdão, o que é vedado em sede de recurso especial e a reinterpretação do estatuto ou contrato social, nos termos dos enunciados das Súmulas 5 e 7 do STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp 1528861/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 22/03/2021, DJe 25/03/2021)
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É o voto.
