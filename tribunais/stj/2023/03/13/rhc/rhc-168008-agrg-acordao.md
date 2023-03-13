@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/03/2023 a 13/03/2023, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT).
+Os Srs. Ministros Laurita Vaz, Sebastião Reis Júnior e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Rogerio Schietti Cruz.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra decisão que negou provimento ao recurso em habeas corpus.
+Consta dos autos que o agravante foi preso preventivamente em 20/7/2020, pela suposta prática de tráfico de drogas.
+Neste recurso, reitera as razões da inicial, a respeito do excesso de prazo no encerramento da instrução processual. Relata que o processo já foi instruído e se encontra há quase quatro meses concluso para a prolação de sentença.
+Assenta que está superado o entendimento de que o encerramento da instrução criminal afasta a alegação de excesso de prazo na prisão cautelar (Súmula n. 52 do STJ), devendo ser verificado se foi ultrapassado prazo razoável para o julgamento do réu preso.
+Requer o provimento do recurso para concessão da ordem, revogando a prisão preventiva.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. EXCESSO DE PRAZO PARA ENCERRAMENTO DA INSTRUÇÃO. SÚMULA N. 52/STJ. AUSÊNCIA DE ILEGALIDADE.
+1. No que diz respeito aos prazos consignados na lei processual, deve atentar o julgador às peculiaridades de cada ação criminal, sendo pacífico o entendimento de que a ilegalidade da prisão por excesso de prazo somente pode ser reconhecida quando a demora for injustificada, impondo-se adoção de critérios de razoabilidade no exame da suposta coação.
+2. O paciente foi preso preventivamente em 24/7/2020, momento do oferecimento da denúncia e notificação do acusado para a apresentação da defesa preliminar. Em 13/4/2021, o juiz ratificou o recebimento da denúncia e determinou a designação de data para realização de audiência de instrução e julgamento por meio de videoconferência. Foi realizada audiência de instrução em 18/8/2021, abrindo-se prazo para as alegações finais.
+3. Estando os autos na fase de apresentação de alegações finais, fica superado o aventado excesso de prazo para a formação da culpa, incidindo ao caso a Súmula n. 52 do Superior Tribunal de Justiça, segundo a qual, "Encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo"
+4. Agravo regimental improvido.
+VOTO
+Como relatado, a defesa reitera as razões do recurso em habeas corpus, a respeito do excesso de prazo na instrução criminal, estando a decisão agravada assim fundamentada (fls. 419-422):
+Colhe-se do decreto preventivo os seguintes fundamentos (fls. 59-60):
+Conforme fundamentado acima, há indícios suficientes de autoria (depoimentos perante à autoridade policial em fls. 2/3, 4/5, 6/7) e materialidade do delito (auto de exibição e apreensão  fl. 10; laudo provisório de contestação  fl. 11).
+O crime supostamente praticado  tráfico de drogas poderá resultar em pena máxima superior a 4 (quatro) anos, de modo que a pena em abstrato prevista em lei é compatível com a prisão preventiva (art. 313, I do Código de Processo Penal).
+Há necessidade de decretar as prisões preventivas para garantir a ordem pública e aplicação da lei penal.
+ ..
+No caso em tela é possível verificar que existe o fundado receio de reiteração, tendo em vista que o investigado responde a dois outros delitos de supostos tráficos de drogas na Comarca de Murici/AL (0700235-09.2019.8.02.0072 e 0700740-81.2019.8.02.0045).
+ ..
+Além disso, no caso dos autos, verifica que o próprio flagrante do investigado ocorreu em razão de mandado de prisão expedido anteriormente em seu desfavor, tendo o mesmo tentado foragir ao tomar conhecimento que a polícia estaria a sua procura. Sendo assim, resta comprovada a necessidade de garantia da aplicação da lei penal.
+Por fim, quanto a aplicação de medidas cautelares substitutivas da prisão, previstas no art. 319 do CPP, entendo que seriam insuficientes para garantir a ordem pública, diante da existência de possível associação para praticar crimes reiteradas, além de o acusado supostamente praticar crimes graves em mais de um município do Estado.
+Não obstante a excepcionalidade que é a privação cautelar da liberdade, antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+Infere-se dos autos que a prisão preventiva foi fundamentada no "fundado receio de reiteração, tendo em vista que o investigado responde a dois outros delitos de supostos tráficos de drogas".
+Ressaltou, também, que o próprio flagrante do investigado ocorreu em razão de mandado de prisão expedido anteriormente em seu desfavor, circunstâncias que justificam a necessidade da segregação provisória para garantir a aplicação da lei penal.
+Com efeito, a jurisprudência desta Corte de Justiça é firme ao asseverar que a existência de inquéritos, ações penais em curso ou condenações definitivas denotam o risco de reiteração delitiva e, assim, constituem também fundamentação idônea a justificar a segregação cautelar.
+Nesse sentido: RHC n. 76.929/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 17/11/2016, DJe 29/11/2016, HC n. 389.098/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23/5/2017, DJe 31/5/2017 e RHC n. 82.451/MG, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 16/5/2017, DJe 24/5/2017.
+Ademais, quanto ao alegado excesso de prazo, o acórdão recorrido assim manifestou-se (fl. 368-369):
+Em relação ao primeiro argumento, sustenta a defesa que o paciente, na data da impetração, estava preso há mais de 01 (um) ano e 06 (seis)meses, sem que tenha dado causa ao atraso no encerramento da instrução, o que, a seu ver, caracterizaria constrangimento ilegal à liberdade de locomoção.
+ ..
+Nessa perspectiva, analisando a documentação acostada aos autos e as informações prestadas pela autoridade apontada como coatora, verifica-se que o paciente foi preso em flagrante em 20/07/2020, sendo a medida extrema decretada no dia 24/07/2020, sob o fundamento da garantia da ordem pública (fls. 59/73). Oferecida a denúncia também em 24/07/2020 (fls. 01/06 dos autos de origem), na mesma data foi determinada a notificação do acusado para a apresentação da defesa preliminar. A peça defensiva foi juntada em 09/03/2021 (fls. 220 dos autos de origem).
+Posteriormente, a audiência assinalada para o dia 14/06/2021 foi redesignada para a data de 18/08/2021. No ato, cumpre ressaltar o que restou consignado no termo de assentada (fl. 305 dos autos de primeiro grau):
+ ..  Finalizada a instrução, foi oportunizada às partes requererem diligências, ocasião esta em que nada requereram. ..  O Magistrado passou a proferir o seguinte Despacho: Requisite-se urgentemente, no prazo máximo de 10 dias, o laudo corpo de delito realizado no acusado ao IML. O Ministério Público apresentou alegações finais oralmente. Após a juntada do laudo, Abra-se vista à Defensoria Pública, para as alegações finais, no prazo de 10 dias. Com o retorno das Alegações Finais, voltem-me os autos conclusos.  ..
+À luz do exposto, conforme entendimento há muito consolidado em nossos Tribunais Superiores, o encerramento da instrução criminal torna superada a alegação de excesso de prazo para a formação da culpa. Neste sentido, importa trazer à colação o disposto no enunciado da Súmula nº 52 do Superior Tribunal de Justiça, in verbis: Encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo.19. Com efeito, não há como acolher o primeiro argumento suscitado na exordial do presente Mandamus.
+Do que consta dos autos, verifica-se que o recorrente foi preso em flagrante em 20/7/2020, tendo a decretação de sua prisão preventiva ocorrido em 24/7/2020, momento do oferecimento da denúncia.
+Na mesma data foi determinada a notificação do acusado para a apresentação da defesa preliminar. A peça defensiva foi juntada em 9/3/2021.
+Em 13/4/2021, o juiz ratificou o recebimento da denúncia e determinou a designação de data para realização de audiência de instrução e julgamento por meio de videoconferência.
+Foi realizada audiência de instrução em 18/8/2021, abrindo-se prazo para as alegações finais.
+De fato, estando a ação penal na fase de apresentação de alegações finais pelas partes, fica superado o aventado excesso de prazo para a formação da culpa, incidindo ao caso a Súmula n. 52 do Superior Tribunal de Justiça, segundo a qual, "Encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo".
+Ante o exposto, nego provimento ao recurso em habeas corpus, com recomendação de celeridade no julgamento do feito.
+Como é usual e têm ressaltado os precedentes desta Corte Superior de Justiça, o agravo regimental deve aditar novos fundamentos capazes de (em tese) alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão vergastada pelos próprios fundamentos. (AgRg no HC n. 542.737/PR, Quinta Turma, relator Ministro Leopoldo de Arruda Raposo (Desembargador convocado do TJPE), DJe de 13/12/2019.)
+Na hipótese dos autos, o paciente foi preso em flagrante em 20/7/2020, tendo a decretação de sua prisão preventiva ocorrido em 24/7/2020, momento do oferecimento da denúncia. Na mesma data foi determinada a notificação do acusado para a apresentação da defesa preliminar. A peça defensiva foi juntada em 9/3/2021.
+Em 13/4/2021, o juiz ratificou o recebimento da denúncia e determinou a designação de data para realização de audiência de instrução e julgamento por meio de videoconferência. Foi realizada audiência de instrução em 18/8/2021, abrindo-se prazo para as alegações finais.
+De fato, consoante assentado na decisão agravada, estando a ação penal na fase de apresentação de alegações finais pelas partes, fica superado o aventado excesso de prazo para a formação da culpa, incidindo ao caso a Súmula n. 52 do Superior Tribunal de Justiça, segundo a qual, "Encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo".
+Ademais, a jurisprudência desta Corte é no sentido de que o eventual constrangimento ilegal por excesso de prazo não resulta de mero critério matemático, mas de uma ponderação do julgador, observando os princípios da razoabilidade e proporcionalidade, levando em consideração as peculiaridades do caso concreto, procurando evitar o retardamento injustificado da prestação jurisdicional.
+Não constatada mora estatal em ação penal na qual a sucessão de atos processuais infirma a ideia de paralisação indevida, ou de culpa do Estado persecutor , não se vê demonstrada ilegalidade no prazo da persecução criminal desenvolvida.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
