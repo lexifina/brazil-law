@@ -1,0 +1,36 @@
+DECISÃO
+Em face das razões do agravo interno de fls. 3.864/3.891 (e-STJ), que demonstram a tempestividade recursal, TORNO SEM EFEITO a decisão agravada de fls. 3.860/3.861, de lavra da Presidência do STJ, e passo a novo exame do agravo em recurso especial interposto por PEDRO GOMES DO NASCIMENTO, PAULO GOMES DE OLIVEIRA, RAIMUNDO GOMES DE OLIVEIRA, MARIA DO SOCORRO CAVALCANTE DO NASCIMENTO, MARIA ELDA DA SILVA DE OLIVEIRA e MARIA FERREIRA DE OLIVEIRA, contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Ação: de usucapião de imóvel, ajuizada por GLAUCIA VASCONCELOS GALVÃO. No curso da ação, os ora agravantes vieram os autos para manifestar sua oposição ao pedido inicial.
+Decisão interlocutória: de lavra do juízo da 2ª Vara Cível da Comarca de Caucaia/CE, acolheu a preliminar de incompetência formulada pelos agravantes, determinando a remessa dos autos para o juízo da 3ª Vara Cível daquela Comarca.
+Acórdão: manteve a decisão unipessoal do Relator que deu provimento ao agravo de instrumento interposto por GLAUCIA VASCONCELOS GALVÃO, para reconhecer a competência do juízo da 2ª Vara Cível de Caucaia/CE.
+Embargos de declaração: opostos duas vezes consecutivas pelos agravantes, foram rejeitados, com sua condenação ao pagamento de multa equivalente a 0,5% do valor da causa.
+Recurso especial: alega violação dos arts. 5º, II, XXII, XXIII, XXXV, XXXVI, LIII e LIV, da CF; 55, § 3º, 76, § 1º, I, e § 2º, 313, V, 489, § 1º, IV a VI, 1.017, I, e 1.022 do CPC; 121 do Regimento Interno do TJ/CE; 1º, § 2º, III, "a", da Lei 11.419/06, bem como dissídio jurisprudencial. Além de negativa de prestação jurisdicional, sustenta que: (i) é cabível a reunião da ação de usucapião e de ação declaratória de nulidade que tem por objeto o mesmo imóvel para julgamento conjunto, haja vista a existência de prejudicialidade entre elas, apesar de inexistir conexão; (ii) a ação de usucapião deve ser suspensa até o trânsito em julgado da ação anulatória; (iii) há nulidade absoluta na ação de usucapião, visto a ausência de procuração nos autos outorgando poderes à advogada detentora do certificado digital utilizado para peticionar em nome da agravada.
+RELATADO O PROCESSO, DECIDE-SE.
+- Do princípio da unirrecorribilidade
+Inicialmente, em harmonia com o princípio da unirrecorribilidade recursal, não conheço do recurso especial interposto por meio da petição de e-STJ fls. 3.536/3.575, haja vista a preclusão consumativa ocorrida com a prévia interposição do presente recurso especial, encartado às fls. 3.227/3.254 (e-STJ).
+- Da violação de dispositivo constitucional ou de artigo do Regimento Interno do TJ/CE
+A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+- Da violação dos arts. 489 e 1.022 do CPC/2015
+É firme a jurisprudência do STJ no sentido de que não há ofensa aos arts. 489 e 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente, acerca da ausência de conexão e prejudicialidade entre as demandas, de modo que não haveria necessidade de reunião para julgamento conjunto sequer para a suspensão de qualquer das ações.
+Dessa maneira, os embargos de declaração opostos pela parte agravante com vistas ao revolvimento de tais temas, de fato, não comportavam acolhimento, não havendo que se falar em violação dos arts. 489 e 1.022 do CPC/15 em decorrência da rejeição do recurso.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere à existência de prejudicialidade externa entre a ação de usucapião e a ação anulatória, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da existência de fundamento não impugnado
+De outro turno, verifica-se que o TJ/CE rejeitou a alegada nulidade decorrente de vício de representação aos fundamentos de que: (i) houve a juntada, nos autos do agravo de instrumento, dos instrumentos procuratórios e; (ii) de que na vigência do CPC/2015, deve-se primeiro oportunizar a regularização processual, antes de declarar qualquer nulidade, na forma do art. 932, parágrafo único, desse Códex.
+A parte agravante, contudo, nas razões do especial, não impugnou o fundamento do acórdão recorrido relativo à aplicação do art. 932, parágrafo único, do CPC/2015, limitando-se a reiterar a suposta nulidade ocorrida desde a propositura da ação.
+Não impugnado especificamente esse fundamento - que se mostra suficiente para a manutenção do acórdão recorrido -, o conhecimento do recurso especial é inadmissível quanto ao ponto, ante o disposto na 283/STF.
+Forte nessas razões, TORNO SEM EFEITO a decisão agravada e, em novo julgamento, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Por derradeiro, previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE USUCAPIÃO. PRINCÍPIO DA UNIRRECORRIBILIDADE RECURSAL. PRECLUSÃO CONSUMATIVA. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL E DE NORMA DO TRIBUNAL LOCAL. DESCABIMENTO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF.
+1. Ação de usucapião.
+2. Em harmonia com o princípio da unirrecorribilidade recursal, observada a prévia interposição de recurso especial contra o acórdão recorrido, constata-se a preclusão consumativa em relação ao recurso especial interposto posteriormente.
+3. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+4. Não ocorre ofensa aos arts. 489 e 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+5. O reexame de fatos e provas em recurso especial é inadmissível.
+6. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+7. Decisão agravada tornada sem efeito. Agravo conhecido; recurso especial parcialmente conhecido e não provido, em novo julgamento.
