@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/03/2023 a 13/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno manejado pela AGÊNCIA NACIONAL DE TRANSPORTES TERRESTRES - ANTT desafiando decisão pela qual neguei provimento ao agravo, por entender que: (I) a Corte local decidiu a controvérsia à luz de fundamento eminentemente constitucional; (II) não é possível, pela via do recurso especial, a avaliação de normas infralegais; e (III) prejudicada a análise da divergência jurisprudencial.
+Em suas razões, a parte agravante sustenta que: (I) o Supremo Tribunal Federal definiu que a questão de aplicação de lei posterior mais benéfica quanto à sanção de natureza administrativa não tem repercussão geral, pois o tema é infraconstitucional e (II) não há falar em necessidade de análise de normas infralegais para se conhecer e prover o recurso especial, uma vez que a demanda busca decidir se a retroatividade é possível diante do que dispõe a Lei de Introdução às N ormas do Direito Brasileiro, que estabelece como regra a aplicabilidade da lei vigente à época dos fatos.
+Impugnação às fls. 494/497.
+É o relatório.
+EMENTA
+ADMINISTRATIVO. AGRAVO INTERNO. AGÊNCIA NACIONAL DE TRANSPORTES TERRESTRES. RETROATIVIDADE DE NORMA MAIS BENÉFICA. MATÉRIA CONSTITUCIONAL.
+1. No caso dos autos, a Corte local decidiu a controvérsia a partir da aplicação do princípio constitucional da retroatividade da lei penal mais benéfica (art. 5º, XL, da Constituição Federal). Assim, trata-se de matéria insuscetível de ser examinada em sede de recurso especial, sendo inviável o conhecimento da demanda, sob pena de usurpação de competência da Suprema Corte.
+2. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Em que pese aos argumentos deduzidos no presente recurso, a decisão agravada não merece reparos.
+Com efeito, tal como constatou a decisão agravada, observa-se dos autos que o Tribunal de origem, ao dirimir a controvérsia, consignou o seguinte:
+Todavia, quanto ao valor da multa aplicada, ressalta-se que a ANTT autuou o apelante, repita-se, por infração ao inciso I do art. 36, da Resolução nº 4.799/2015 da ANTT, ou seja, por ter o transportador se evadido da fiscalização. O cometimento dessa infração, em sua redação original, sujeitava o autuado ao pagamento de multa no valor de R$5.000,00 (cinco mil reais).
+No entanto, foi editada a Resolução nº 5.847 de 21 de maio de 2019, que alterou o referido dispositivo, senão vejamos:
+Art. 36. Constituem infrações, quando:
+I - o transportador, inscrito ou não no RNTRC, obstruir ou, de qualquer forma, dificultar a fiscalização durante o transporte rodoviário de cargas: multa de R$550,00 (quinhentos e cinquenta reais)
+Desse modo, observa-se que novo ato normativo prevê a pena de multa no valor de R$550,00 (quinhentos e cinquenta reais) para o infrator que obstruir ou, de qualquer forma, dificultar a fiscalização durante o transporte rodoviário de cargas. Trata-se, sem sombra de dúvidas, de norma mais benéfica ao administrado, devendo ser aplicada retroativamente, na forma do art. 5º, XL, da Constituição da República. Nesse sentido:
+ ..
+Com isso, como dito, o princípio da retroatividade da norma penal mais benéfica insculpido no art. 5º, XL, da CF/88, poderá ser aplicado ao Direito Administrativo Sancionador. Tal conclusão privilegia o princípio da igualdade entre os administrados e, igualmente, busca evitar situações desarrazoadas e incoerentes.
+Destarte, cabível o parcial provimento do recurso para, tão somente, reconhecer como valor devido a quantia de R$ 550,00, a título de multa aplicada, com espeque na alteração promovida pela Resolução n. 5.874 de 21 de maio de 2019 da ANTT.
+Nota-se, desse modo, que não se trata da análise das regras de retroatividade previstas na Lei de Introdução às Normas do Direito Brasileiro. Em verdade, a Corte local decidiu a controvérsia a partir da aplicação do princípio constitucional da retroatividade da lei penal mais benéfica (art. 5º, XL, da Constituição Federal).
+Assim, trata-se de matéria insuscetível de ser examinada em sede de recurso especial, sendo inviável o conhecimento da demanda, sob pena de usurpação de competência da Suprema Corte. No mesmo sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NORMA INFRALEGAL. FUNDAMENTO CONSTITUCIONAL. EXAME. INVIABILIDADE.
+1. A via excepcional não se presta para análise de ofensa a resolução, portaria, regimento interno ou instrução normativa - atos administrativos que não se enquadram no conceito de lei federal -, bem como a respeito de matéria constitucional, sob pena de usurpação de competência da Suprema Corte.
+2. Não obstante indicada a violação de dispositivos da legislação federal, a Corte Regional dirimiu a controvérsia com base na interpretação das Resoluções n. 4.799/2015 e 5.847/2019 editadas pela ANTT e sob o enfoque eminentemente constitucional (retroatividade de lei mais benéfica - art. 5º, XL, da Constituição Federal/1988), de modo que é inviável a apreciação da matéria, em sede de Recurso Especial.
+3. Precedentes.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.870.041/RJ, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 9/11/2022, DJe de 30/11/2022.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. AGÊNCIA NACIONAL DE TRANSPORTES TERRESTRES. NORMA MAIS BENÉFICA. RETROATIVIDADE. ACÓRDÃO COM ENFOQUE CONSTITUCIONAL. INCIDÊNCIA DA SÚMULA 126/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A matéria suscitada pela recorrente foi examinada e julgada pela Corte de origem com fundamento nas Resoluções 4.799/2015 e 5.847/2019, editadas pela ANTT, bem como sob o enfoque constitucional, notadamente o da retroatividade da lei mais benéfica - art. 5º, XL, da Constituição Federal/1988, conforme estas razões:
+"Ressalta-se que a ANTT autuou o apelado por infração ao inciso I do art. 36, da Resolução nº 4.799/2015 da ANTT, ou seja, por ter o transportador se evadido da fiscalização. O cometimento dessa infração, em sua redação original, sujeitava o autuado ao pagamento de multa no valor de R$5.000,00 (cinco mil reais). No entanto, foi editada a Resolução nº 5.847 de 21 de maio de 2019, que alterou o referido dispositivo, senão vejamos: (..) Desse modo, observa-se que novo ato normativo prevê a pena de multa no valor de R$550,00 (quinhentos e cinquenta reais) para o infrator que obstruir ou, de qualquer forma, dificultar a fiscalização durante o transporte rodoviário de cargas. Trata-se, sem sombra de dúvidas, de norma mais benéfica ao administrado, devendo ser aplicada retroativamente, na forma do art. 5º, XL, da Constituição da República. (..) Com isso, como dito, o princípio da retroatividade da norma penal mais benéfica insculpido no art. 5º, XL, da CF/88, poderá ser aplicado ao Direito Administrativo Sancionador. Tal conclusão privilegia o princípio da igualdade entre os administrados e, igualmente, busca evitar situações desarrazoadas e incoerentes" (fls. 220-221, e-STJ).
+2. Nesse sentido, cumpre ressaltar que a controvérsia concernente à aplicabilidade retroativa das referidas resoluções, dirimida com fundamento constitucional, é insuscetível de apreciação em Recurso Especial, sob pena de usurpação da competência reservada pela Constituição ao Supremo Tribunal Federal.
+3. Por outro lado, conforme destacado, o acórdão vergastado encontra-se amparado em normas infralegais, as quais são igualmente insuscetíveis de análise no âmbito do Recurso Especial, por não se enquadrarem no conceito de lei federal.
+4. Segundo entendimento do STJ, a inadmissão do Recurso Especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da incidência de óbice de admissibilidade, prejudica o exame do Recurso no ponto em que suscita divergência jurisprudencial, se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese.
+5. Agravo Interno não provido.
+(AgInt no AREsp n. 2.099.197/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 12/9/2022, DJe de 23/9/2022.)
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
