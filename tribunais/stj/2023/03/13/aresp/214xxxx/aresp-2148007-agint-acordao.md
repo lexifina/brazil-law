@@ -1,0 +1,69 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/03/2023 a 13/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por JOÃO CARLOS CREPLIVE em face de decisão que conheceu do agravo para conhecer parcialmente do recurso especial interposto pelo ora agravante e, nessa extensão, negar-lhe provimento.
+Nas razões do agravo interno, a parte defende, em síntese, que a nulidade processual alegada é de natureza absoluta e, portanto, não é objeto de preclusão. Afirma, ainda, que a "matéria não encontra qualquer óbice na Súmula 7 deste Emérito Tribunal, tendo em vista que a questão é se ocorreu ou não violação aos artigos 275, § 5º e 278, § único, CPC" (e-STJ fl. 233).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ERRO NA INTIMAÇÃO APÓS A DIGITALIZAÇÃO DO PROCESSO. IRREGULARIDADE SANADA. AUSÊNCIA DE MANIFESTAÇÃO APÓS NOVA INTIMAÇÃO DA PARTE. NULIDADE RELATIVA. VÍCIO QUE DEVE SER ARGUIDO NA PRIMEIRA OPORTUNIDADE EM QUE A PARTE VIER A SE MANIFESTAR NOS AUTOS. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A ORIENTAÇÃO DESTA CORTE SUPERIOR. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INVIABILIDADE. SÚMULA 7 DO STJ. MANUTENÇÃO DA DECISÃO AGRAVADA.
+AGRAVO INTERNO DESPROVIDO.
+VOTO
+Eminentes colegas, o agravo interno não pode prosperar.
+Em que pese o arrazoado, constata-se a conformidade do acórdão recorrido com o entendimento deste Superior Tribunal de Justiça, segundo o qual o vício decorrente da ausência de intimação gera nulidade de natureza relativa, submetendo-se à preclusão nas hipóteses em que não for suscitado na primeira oportunidade de manifestação posterior da parte.
+Sobre o tema, confiram-se os seguintes julgados:
+RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO DE ARBITRAMENTO DE HONORÁRIOS ADVOCATÍCIOS. 1. Ação de arbitramento de honorários advocatícios ajuizada pelo advogado recorrido contra os recorrentes referente ao trabalho realizado em uma ação penal, três habeas corpus, três queixas-crime e em uma ação de reparação de danos.
+2. Inocorrência de violação ao art. 1.022, II, do CPC, quando a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente. 3. Com relação à apontada violação ao art. 1.022, III, do CPC, as razões recursais não indicaram em que consiste o erro material em que supostamente incorreu o acórdão recorrido, incidindo, por analogia, o óbice da Súmula 284 do STF.
+4. Ausência de nulidade e cerceamento de defesa, pois a parte recorrente, apesar de devidamente intimada, deixou transcorrer in albis o prazo para apresentar impugnação ao laudo pericial.
+5. Nos termos da jurisprudência pacífica do STJ, o vício relativo à ausência de intimação constitui nulidade relativa, devendo ser alegada na primeira oportunidade em que couber à parte se manifestar nos autos, sob pena de preclusão, o que inocorreu na espécie.
+6. A expedição da certidão de objeto e pé - documento essencial a demonstrar a alegada nulidade -, foi requerida pelo recorrente somente após quase 6 (seis) anos da data do fato, derruindo a linha argumentativa desenvolvida pelo recorrente.
+7. A pretensão deduzida pelo recorrente na suposta petição extraviada não encontraria guarida na regra inserta no art. 433, § único, do CPC/73.
+8. No tocante à apontada violação ao art. 398 do CPC/73, a apresentação de razões dissociadas da realidade dos autos impõe a aplicação, por analogia, do óbice da Súmula 284 do STF.
+9. Segundo a jurisprudência do Superior Tribunal de Justiça, não configura o cerceamento de defesa o julgamento da causa sem a produção de outras provas, quando o Tribunal de origem entender que o feito foi corretamente instruído, declarando a existência de provas suficientes para o seu convencimento, como no caso.
+10. A alteração do entendimento do acórdão recorrido de que o conjunto probatório dos autos mostrava-se suficiente para o julgamento da lide, demandaria o reexame do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, consoante enunciado da Súmula 7 do STJ.
+11. A modificação da conclusão adotada pelo Tribunal de origem quanto à correção da fixação dos honorários contratuais no valor indicado pela perícia implica o reexame da matéria fático-probatória, o que é obstado a este Tribunal Superior, conforme a Súmula 7/STJ 12. Nos termos do art. 105 da Constituição Federal, compete ao STJ uniformizar a interpretação da legislação federal, não se enquadrando no conceito de lei federal resoluções, regimentos internos, normativos etc, incluindo o Código de Ética e Disciplina da OAB.
+13. A simples indicação do dispositivo legal tido por violado, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento.
+14. A sucumbência de cada uma das partes deve ser fixada em relação à procedência ou não dos pedidos constante na inicial.
+15. A ausência de indicação dos dispositivos legais supostamente violados pelo acórdão impugnado caracteriza deficiência na fundamentação recursal, consoante a Súmula 284/STF. 16. Divergência jurisprudencial não comprovada nos moldes exigidos nos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ.
+17. Pedido de concessão de efeito suspensivo prejudicado.
+18. RECURSO ESPECIAL DESPROVIDO.
+(REsp n. 1.838.279/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 22/10/2019, DJe de 28/10/2019, grifei.)
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. REINTEGRAÇÃO DE POSSE COM PEDIDO CONTRAPOSTO. AÇÃO PRINCIPAL IMPROCEDENTE E PEDIDO CONTRAPOSTO PROCEDENTE. CUMPRIMENTO DE SENTENÇA. AGRAVO DE INSTRUMENTO CONTRA DECISÃO QUE NÃO CONHECEU DA IMPUGNAÇÃO APRESENTADA. RECURSO DE EMBARGOS DE DECLARAÇÃO QUE SÃO CABÍVEIS CONTRA QUALQUER DECISÃO JUDICIAL. SEGUNDO ACÓRDÃO PROFERIDO. VALIDADE. AUSÊNCIA DE NULIDADE. OBSERVÂNCIA DAS REGRAS PROCESSUAIS E DO REGIMENTO INTERNO DO TRIBUNAL DE ORIGEM. AUSÊNCIA DOS VÍCIOS ELENCADOS NO ART. 535 DO CPC/73. DECISÃO SUFICIENTEMENTE MOTIVADA. INEXISTÊNCIA DE CONTRADIÇÃO INTERNA. DEFEITO NA INTIMAÇÃO. NÃO OBSERVÂNCIA DE PEDIDO EXPRESSO DE PUBLICAÇÃO EM NOME DE PATRONO ESPECÍFICO. NULIDADE RELATIVA. PRECEDENTES. PRECLUSÃO. IMPUGNAÇÃO REALIZADA NO PRIMEIRO MOMENTO MAS DE FORMA INTEMPESTIVA. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA NOS TERMOS DOS ARTS. 541, PARÁGRAFO ÚNICO DO CPC/73 E 255 DO RISTJ. RECURSO ESPECIAL CONHECIDO EM PARTE E NELA NÃO PROVIDO.
+1. Aplicabilidade do NCPC a este recurso ante os termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Nos termos do art. 535 do CPC/73 e do art. 1.022 do NCPC, os embargos de declaração são cabíveis contra qualquer decisão judicial, seja ela monocrática ou colegiada, que contenham os vícios neles previstos. 3. Não há que se falar de nulidade do segundo acórdão quando no julgamento dos recursos interpostos foram observados o regramento processual civil vigente e o regimento interno da respectiva corte.
+4. Não há violação do disposto no art. 535 do CPC/73 quando o aresto recorrido, que não possui contradição interna, adota fundamentação suficiente para dirimir a controvérsia, sendo desnecessária a manifestação expressa sobre todos os argumentos apresentados.
+5. Apesar de ser nula a intimação quando não observado pedido expresso de publicação em nome de advogado específico, por se tratar de nulidade relativa, tal vício deve ser alegado na primeira oportunidade em que couber a parte falar nos autos, sob pena de preclusão (art. 245 do CPC/73, reeditado no art. 278 do NCPC).
+6. Efetuada a penhora na fase do cumprimento de sentença e tendo o patrono do devedor tomado ciência inequívoca do ato com a retirada do processo em carga, se mostra preclusa a alegação de nulidade de sua intimação no curso do processo, porque o incidente foi manejado fora do prazo de 15 dias (art. 475-J, § 1º do CPC/73 e art. 525 do NCPC).
+7. O advogado que retira os autos de cartório, toma ciência inequívoca de todos os atos processuais nele praticados, dispensando a sua formal intimação.
+8. Não se conhece de recurso especial interposto pela divergência quando esta não esteja comprovada nos moldes dos arts. 541, parágrafo único, do CPC/73 e 255, §§ 1º e 2º, do RISTJ. Precedentes.
+9. Recurso especial conhecido em parte e nela não provido.
+(REsp n. 1.641.610/GO, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 13/6/2017, DJe de 21/6/2017, grifei.)
+AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE AGRAVANTE.
+1. A conclusão adotada pelo julgado alinha-se ao entendimento do Superior Tribunal de Justiça, no sentido de que a nulidade relativa a não intimação de dado advogado deve ser arguida na primeira oportunidade de manifestação nos autos após a ocorrência do vício, sob pena de preclusão. Precedentes.
+1.1. A alteração do entendimento do Tribunal local, acerca da preclusão consumativa da matéria, em virtude do atendimento das intimações anteriores em nome de outro advogado, demandaria o reexame dos fatos e das provas dos autos, atraindo, por conseguinte, a Súmula 7/STJ.
+2. Agravo interno desprovido.
+(AgInt no REsp n. 1.956.742/DF, relator Ministro Marco Buzzi, Quarta Turma, julgado em 21/2/2022, DJe de 24/2/2022.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PEDIDO DE PUBLICAÇÃO EM NOME DE ADVOGADO ESPECÍFICO. INTIMAÇÃO REALIZADA SEM OBSERVAR TAL REQUERIMENTO. NULIDADE RELATIVA. DEFEITO NÃO APONTADO PELA PARTE NA PRIMEIRA OPORTUNIDADE EM QUE SE MANIFESTOU NOS AUTOS. PRECLUSÃO. PRECEDENTES.
+1. O vício existente na regularidade da intimação, ensejador da nulidade relativa do ato processual, deve ser alegado na primeira oportunidade em que couber à parte falar nos autos, sob pena de preclusão (art. 245 do CPC). Precedentes.
+2. O mero não conhecimento ou a improcedência de recurso interno não enseja a automática condenação à multa do art. 1.021, § 4º, do CPC/2015, devendo ser analisado caso a caso.
+3. Razões recursais insuficientes para a revisão do julgado.
+4. Agravo interno desprovido.
+(AgInt no REsp n. 1.783.417/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 22/11/2021, DJe de 25/11/2021.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. SÚMULA N. 182 DO STJ. RECONSIDERAÇÃO. TESE DO ESPECIAL. REJEIÇÃO DOS EMBARGOS DE DECLARAÇÃO OPOSTOS À SENTENÇA. INTIMAÇÃO DA PARTE. AUSÊNCIA. NULIDADE RELATIVA. ALEGAÇÃO SOMENTE EM EMBARGOS DE DECLARAÇÃO AO ACÓRDÃO RECORRIDO. PRECLUSÃO. SÚMULA N. 83 DO STJ. AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
+1. Eventual vício na intimação deve ser arguido na primeira oportunidade em que couber à parte falar nos autos, sob pena de preclusão. Aplicação da Súmula n. 83 do STJ.
+2. Agravo interno a que se dá provimento para reconsiderar a decisão da Presidência desta Corte e negar provimento ao agravo nos próprios autos.
+(AgInt no AREsp n. 1.927.880/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 11/10/2021, DJe de 18/10/2021.)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. CORREÇÃO. INTEMPESTIVIDADE CONFIRMADA. INTIMAÇÃO. VÍCIO. NULIDADE RELATIVA. PRECLUSÃO. INOVAÇÃO RECURSAL. DJE. PUBLICAÇÃO. PREVALÊNCIA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Segundo o entendimento jurisprudencial do Superior Tribunal de Justiça , o vício relativo à ausência de intimação constitui nulidade relativa, devendo ser alegada na primeira oportunidade em que couber à parte se manifestar nos autos, sob pena de preclusão.
+3. É inviável a análise de tese alegada apenas no âmbito de agravo interno, visto que constitui inadmissível inovação recursal.
+4. A publicação no Diário de Justiça Eletrônico substitui qualquer outro meio de publicação oficial para quaisquer efeitos legais. Precedente.
+5. Embargos de declaração acolhidos, sem efeitos modificativos.
+(EDcl no AgInt no AREsp n. 1.589.406/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 19/10/2020, DJe de 29/10/2020.)
+Ademais, ao contrário do que defende a parte agravante, verifica-se que a Súmula 7 deste Superior Tribunal de Justiça obsta o conhecimento do recurso especial no tocante à pretensão de inversão das conclusões alcançadas pelo Tribunal de origem no sentido de que, "mesmo após ser intimado sobre a irregularidade da intimação realizada, por meio de seu advogado, o agravante deixou transcorrer o prazo sem qualquer manifestação nos autos, motivo pelo qual se operou a preclusão" (e-STJ fl. 77).
+Com efeito, seria imprescindível o revolvimento dos elemento s fático-probatórios do caso concreto para se promover a revisão de tais premissas, medida vedada na via do recurso especial.
+Portanto, impõe-se a manutenção da decisão ora agravada, uma vez que permanece a validade dos argumentos que a sustentam e não foram apresentados elementos aptos a desconstituí-la.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
