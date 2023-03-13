@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/03/2023 a 13/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA: Trata-se de agravo interno manejado por CARUANA S/A SOCIEDADE DE CRÉDITO FINANCIAMENTO E INVESTIMENTO contra decisão de fls. 622/623, que não conheceu de seu agravo, ante a incidência da Súmula 182/STJ, eis que a parte se limitou a alegar a existência de prequestionamento do art. 185 do CTN, sem proceder a qualquer digressão acerca do art. 7º-A do Decreto-Lei 911/1969, bem como devido à ausência de impugnação quanto à aplicação da Súmula 283/STF.
+Sustenta a agravante, em resumo, que "não há que se falar em aplicação do art. 185, do CTN para manter penhora de bens alienados fiduciariamente. Como se verifica, o tema foi fartamente impugnado pela Agravante" (fl. 631), bem como que "quando da interposição do recurso especial houve questionamento da inobservância do que é previsto no art. 7º-A do Decreto Lei 911/69. Ocorre, entretanto, que restou evidenciado que a r. decisão foi proferida com base no dispositivo legal previsto no Código Tributário Nacional que, se interpretado de forma correta, acarretaria no provimento do recurso" (fl. 634).
+Aberta vista à parte agravada, transcorreu in albis o prazo para apresentação de impugnação (fl. 639).
+É O RELATÓRIO.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FALTA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+1. Nos termos da Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida".
+2. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): De início, importante consignar que a questão referente ao Tema 290/STJ dos recursos repetitivos teve seguimento negado na origem, razão pela qual somente seria cabível a impugnação do ponto por meio de agravo interno na origem, nos termos do art. 1.030, § 2º, do CPC.
+No que tange às matérias que foram inadmitidas na origem, a decisão atacada verificou a ausência de impugnação referente à falta de prequestionamento do art. 7º-A do Decreto-Lei 911/1969 e à aplicação da Súmula 283/STF.
+Nesse ponto, a agravante, em seu agravo interno, cingiu-se a afirmar que "não há que se falar em aplicação do art. 185, do CTN para manter penhora de bens alienados fiduciariamente. Como se verifica, o tema foi fartamente impugnado pela Agravante" (fl. 631), bem como que "quando da interposição do recurso especial houve questionamento da inobservância do que é previsto no art. 7º-A do Decreto Lei 911/69. Ocorre, entretanto, que restou evidenciado que a r. decisão foi proferida com base no dispositivo legal previsto no Código Tributário Nacional que, se interpretado de forma correta, acarretaria no provimento do recurso" (fl. 634).
+Como se observa, os argumentos esposados não infirmam o quanto decidido pela aplicação da Súmula 182/STJ, eis que ora relacionados ao tema de repetitivo, que teve seguimento negado, e ora, no ponto referente à ausência de impugnação ao óbice da Súmula 211/STJ, se consubstanciam em afirmação que não ataca especificamente o teor da decisão. Por fim, não se colhe do agravo interno qualquer manifestação conexa ao não co nhecimento do agravo em recurso especial em vista da não impugnação pela parte do óbice à Súmula 283/STF aplicada na origem.
+Assim, os argumentos do agravo interno mostram-se inaptos a desconstituir os fundamentos adotados pela decisão recorrida, que submeto ao Colegiado para serem confirmados (fls. 622/623):
+Trata-se de agravo, manejado por CARUANA S/A SOCIEDADE DE CRÉDITO FINANCIAMENTO E INVESTIMENTO, desafiando decisão do Tribunal Regional Federal da 3ª Região, que negou seguimento ao recurso especial quanto à ocorrência de fraude à execução fiscal e não admitiu recurso especial com base nos seguintes fundamentos: (I) incidência da Súmula 211/STJ; (II) aplicação da Súmula 283/STF; (III) incidência da Súmula 7/STJ.
+Nas razões do agravo, a parte sustenta que: (I) "houve prequestionamento da questão aforada no Recurso Especial, bem como que a decisão que considerou que as alienações fiduciárias ocorreram em fraude é totalmente equivocada e, por isso, deve ser reformada " (fl. 603); e (II) "havendo ofensa direta a dispositivo de lei federal, não há que se falar em aplicação da Súmula 7 do STJ " (fl. 603).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante deixou de impugnar a totalidade dos motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial.
+No caso, diante do fundamento de ausência de prequestionamento (súmula 211/STJ) do art. 7º-A do Decreto-Lei 911/1969, a parte se limitou a alegar a existência de prequestionamento do art. 185 do CTN, sem proceder a qualquer digressão acerca do art. 7º-A do Decreto-Lei 911/1969. Tal argumentação, é certo, não se presta a contestar o entendimento adotado no decisum ora agravado nesse ponto.
+Além disso, a parte agravante deixou de rebater, de modo específico, o seguinte fundamento: "a ausência de impugnação específica às razões de decidir que se pretende ver anulado ou reformado adotadas pelo acórdão obsta a admissão do Recurso Especial interposto, por atrair a incidência, por analogia, da Súmula n.º 283 do STF" (fl. 589).
+Incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+ANTE O EXPOSTO, não conheço do agravo.
+Publique-se.
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
