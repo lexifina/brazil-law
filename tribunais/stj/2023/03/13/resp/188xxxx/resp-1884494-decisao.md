@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto por UNIMED DE LONDRINA COOPERATIVA DE TRABALHO MÉDICO, com fundamento no art. 105, inciso III, a, da Constituição Federal, visando reformar acórdão do Tribunal de Justiça do Estado do Paraná assim ementado (e-STJ, fl. 605):
+APELAÇÃO CÍVEL - PLANO DE SAÚDE - PRELIMINAR DE NULIDADE PORCERCEAMENTO DE DEFESA AFASTADA - USUÁRIA PORTADORA DE OBESIDADE MÓRBIDA, SUBMETIDA À GASTROPLASTIA (CIRURGIA BARIÁTRICA) - PRESCRIÇÃO DE CIRURGIAS PLÁSTICAS (MASTOPEXIA COM PRÓTESE; LIFTING DE GLÚTEOS COM PRÓTESE; DERMOLIPECTOMIA DE COXAS E BRAÇOS; E FACELIFT) - RECUSA EMBASADA EM DOIS FUNDAMENTOS - ALEGAÇÃO DE AUSÊNCIA DE PREVISÃO NO ROL DA ANS - RELAÇÃO MERAMENTE EXEMPLIFICATIVA, QUE TRAZ APENAS A REFERÊNCIA BÁSICA DOS PROCEDIMENTOS MÍNIMOS A SEREM ASSEGURADOS - ALEGAÇÃO DE TRATAMENTO ESTÉTICO - CIRURGIAS REPARADORAS DO BRAÇO, COXA E GLÚTEOS QUE INTEGRAM O TRATAMENTO DA MOLÉSTIA - CARÁTER FUNCIONAL E REPARADOR VERIFICADO - DEVER DE COBERTURA - CIRURGIAS PARA RECONSTRUÇÃO DEMAMA E FACE - CARÁTER PURAMENTE ESTÉTICO - SENTENÇA REFORMADA NESTE PONTO - REDISTRIBUIÇÃO DA VERBA SUCUMBENCIAL. RECURSO PARCIALMENTE PROVIDO.
+1 -Existindo elementos suficientes para formar o convencimento do Julgador, a pretendida dilação probatória que em nada contribuiria para o deslinde da controvérsia, não implica em cerceamento de defesa.
+2 - As Resoluções da Agência Nacional de Saúde Suplementar estabelecem os procedimentos e eventos de saúde que constituem referência básica de cobertura obrigatória, nos termos do art. 4º,III, da Lei 9.961/00, e não de exclusão obrigatória, como pretende a operadora.
+3 - Negar autorização para a realização de procedimentos que dão continuidade ao tratamento da própria moléstia, necessários para corrigir o excesso de pele, resultante da perda de massa corporal, após a realização de cirurgia bariátrica, possuindo caráter funcional e reparador, fere o princípio da boa-fé, equidade e razoabilidade, além de afrontar a finalidade básica do contrato, qual seja, a preservação da saúde da beneficiária, colocando-a em posição de extrema desvantagem, desrespeitando, assim, os comandos normativos do artigo 51, IV, e § 1º, II, do Código de Defesa do Consumidor.
+4 - No tocante aos demais procedimentos, tendo em vista a ausência de prova de que não se destinam exclusivamente ao embelezamento da autora, há que se concluir que se enquadram em tratamento puramente estético, incidindo a vedação disposta no art. 10, inciso II, da Lei nº 9.656/98.
+Opostos embargos de declaração, foram rejeitados (e-STJ, fls. 665-668).
+Nas razões do recurso especial (e-STJ, fls. 683-696), a insurgente aponta a violação aos arts. 47, 51, IV e 54, § 4º, do CDC, sustentando, entre outros argumentos, que a operadora do plano de saúde não pode ser obrigada a custear procedimentos cirúrgicos para fins estéticos em beneficiário que foi submetido à cirurgia bariátrica.
+Sem contrarrazões.
+O Tribunal de origem admitiu o recurso especial (e-STJ, fls. 712-713), ascendendo os autos a esta Corte Superior.
+Brevemente relatado, decido.
+Com efeito, verifica-se que, nos presentes autos, há discussão sobre questão de direito que foi afetada pela Segunda Seção do STJ como representativa de controvérsia, a ser julgada sob o rito dos recursos especiais repetitivos, conforme previsão dos arts. 1.036 e 1.037 do CPC/2015.
+As decisões de afetação do REsp n. 1.870.834/SP e do REsp n. 1.872.321/SP, de relatoria do Ministro Ricardo Villas Bôas Cueva, julgadas em 6/10/2020, delimitaram o Tema n. 1.069 da seguinte forma: "definição da obrigatoriedade de custeio pelo plano de saúde de cirurgias plásticas em paciente pós-cirurgia bariátrica".
+Confira-se a respectiva ementa:
+PROPOSTA DE AFETAÇÃO NO RECURSO ESPECIAL. RITO DOS RECURSOS REPETITIVOS. CIVIL. PLANO DE SAÚDE. PACIENTE PÓS-CIRURGIA BARIÁTRICA. DOBRAS DE PELE. CIRURGIAS PLÁSTICAS. COBERTURA. NATUREZA E FINALIDADE DO PROCEDIMENTO.
+1. Delimitação da controvérsia: definição da obrigatoriedade de custeio pelo plano de saúde de cirurgias plásticas em paciente pós-cirurgia bariátrica.
+2. Recurso especial afetado ao rito do artigo 1.036 do CPC/2015.
+Nesse contexto, em observância ao princípio da economia processual e à própria finalidade do novo CPC, corroborada pelo art. 256-L do RISTJ, incluído pela Emenda Regimental n. 24 de 2016, considera-se devido o retorno dos autos à origem, onde ficarão sobrestados até a publicação dos acórdãos proferidos nos recursos representativos da controvérsia.
+Eis o teor da disposição regimental:
+Art. 256-L. Publicada a decisão de afetação, os demais recursos especiais em tramitação no STJ fundados em idêntica questão de direito:
+I - se já distribuídos, serão devolvidos ao Tribunal de origem, para nele permanecerem suspensos, por meio de decisão fundamentada do relator;
+II - se ainda não distribuídos, serão devolvidos ao Tribunal de origem por decisão fundamentada do Presidente do STJ.
+Ante o exposto, determino a devolução dos autos à Corte de origem, com a respectiva baixa, a fim de que, após a publicação dos acórdãos a serem proferidos nos recursos representativos da controvérsia, sejam tomadas as providências previstas nos arts. 1.039, caput, e 1.040 do CPC/2015.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. PLANO DE SAÚDE. COBERTURA PARA REPARAÇÃO FÍSICA SUBSEQUENTE À CIRURGIA BARIÁTRICA. RECURSO QUE TRATA DE TEMA AFETADO AO RITO DOS RECURSOS ESPECIAIS REPETITIVOS. TEMA 1.069/STJ. PENDÊNCIA DE JULGAMENTO. DEVOLUÇÃO DOS AUTOS À ORIGEM.
