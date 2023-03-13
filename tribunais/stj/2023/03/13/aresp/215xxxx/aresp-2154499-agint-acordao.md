@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/03/2023 a 13/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Impedido o Sr. Ministro Benedito Gonçalves.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+RELATÓRIO
+Trata-se de agravo interno interposto pelo MUNICIPIO DE NITEROI contra decisão de minha lavra em que conheci do agravo para negar provimento ao recurso especial por ausência do alegado vício de integração no acórdão recorrido.
+O agravante alega que o vício de integração decorre da ausência de manifestação do acórdão recorrido sobre as seguintes alegações: (a) possibilidade de tributação pelo ISSQN dos serviços anteriores à operação financeira tributada pelo IOF, (b) os serviços tributados pelo ISSQN são remunerados por taxa específica e autônoma em relação à operação financeira e (c) a prova pericial ateve-se apenas à nomenclatura utilizada pelo banco em suas rubricas, não observando a realidade fática dos serviços praticados pelo ente financeiro.
+Alega, ainda, que haveria omissão quanto à alegação de que o banco não teria demonstrado o mínimo recolhimento do IOF sobre estes serviços.
+Contraminuta apresentada pela negativa de provimento ao recurso.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA.
+1. Inexiste ofensa aos arts. 489, § 1º, e 1.022 do CPC/2015 quando o Tribunal de origem se manifesta de modo fundamentado acerca das questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. Agravo interno desprovido.
+VOTO
+Os argumentos ora deduzidos já foram suficientemente analisados e desacolhidos quando proferi a decisão ora impugnada, razão por que a mantenho pelos seus próprios fundamentos.
+Como assinalado na decisão agravada, o recurso especial se origina de embargos à execução fiscal em que se questiona o lançamento de crédito tributário de ISSQN decorrente de atividade bancária tributada por IOF, não constituindo serviço para fins de incidência do imposto municipal.
+Em primeiro grau de jurisdição, a ação foi julgada procedente para reconhecer, com fundamento nas provas produzidas nos autos (em especial a prova pericial), a nulidade do lançamento promovido pela edilidade sobre as rendas já tributadas pelo IOF, não se configurando como serviços para fins de tributação pelo ISSQN (e-STJ fl. 445):
+Com efeito, verifica-se que a perícia foi realizada com o escopo de verificar se as receitas são oriundas de prestação de serviços ou rendimentos de operações de crédito.
+E o perito do Juizo concluiu que o tributo devido sobre o grupo de contas (COSIF 7.1.1.05.00-6) é o IOF por se tratar de operação financeira e não prestação de serviço, afirmando que a conta que registra as rendas relativas a prestação do serviço é outra (COSIFs 7.1.7.00.00-9), sendo indevidos os impostos pretendidos pelo Fisco nos autos da execução em apenso.
+O Tribunal fluminense negou provimento à apelação da edilidade em acórdão com os seguintes fundamentos (e-STJ fl. 555 e seguintes):
+A controvérsia que circunda o objeto recursal diz respeito à possibilidade de incidência do Imposto sobre Serviços de Qualquer Natureza -ISSQN sobre as operações oriundas de financiamentos bancários.
+O fato gerador dos serviços sujeitos à tributação municipal está elencado na lista anexa à LC nº 116/2003, cuja interpretação, embora taxativa, permite a utilização da técnica de interpretação extensiva desde que presente a similitude fática dos serviços congêneres, consoante orientação sedimentada no enunciado da Súmula nº 424 do STJ.
+Trata-se, no entanto, de medida excepcional e sobre a qual se exige especial cautela, uma vez que sobre este tipo de atividade, não bastasse a vedação expressa entabulada no artigo 2º da mencionada Lei Complementar2, recai o Imposto sobre Operações Financeiras -IOF, ex vidos artigos 63, inciso I e 64, inciso I do CTN3.
+No caso sub examine, produzida a prova pericial, o auxiliar do juízo concluiu o seguinte:
+"(..) Conforme visto no decorrer da elaboração do laudo, foi visto que este grupo de contas contábeis estão alocados no COSIF 7.1.1.15.00-3 cuja função é registrar rendas de financiamentos, ou seja, juros, o que desta forma, entende-se que o tributo devido é o I0F. Para tanto, no plano de contas acostada aos autos pela embargante, observa-se que existem contas que registram rendas decorrentes de prestação de serviços, que estão alocadas nos COSIFs pertencentes ao grupo 7.1.7.00.00-9 que registra as rendas provenientes de prestação de serviços. Portanto, diante dos levantamentos realizados, a perícia conclui que não é devido o Imposto pretendido pelo Ente Municipal.(Fl. 318).
+Ora, a despeito da presunção de legalidade e veracidade da CDA, com a superveniência de laudo técnico circunstanciado em sentido contrário, caberia à edilidade opor-se à regularidade dos lançamentos de forma robusta e efetiva, e não se limitar ao campo das meras alegações sobre uma suposta ausência de discriminação dos valores cobrados a título de tarifas administrativas que em tese integrariam o mesmo grupo de contas relativas às operações de crédito, possibilitando, assim, a cobrança do Imposto sobre Serviços.
+Aliás, sobre a origem do numerário, o expert do Juízo foi claro ao afirmar que:
+"Quesito 8:
+Queira o Sr. Perito informar se os valores cobrados pelo embargante como "rendas de empréstimo são remunerações de instituição financeira pela eletiva prestação de serviços, caracterizando-se, assim, serviço tributável
+Resposta: Negativa é a resposta. Conforme dito anteriormente tratam-se de rendas auferidas através de "aluguel" de numerário, ou seja, juros auferidos através de empréstimos." (g. n.)
+Sob essa ótica, não tendo o Apelante logrado em comprovar a higidez da dívida fiscal, é de se reconhecer a ausência das condições de procedibilidade para a sua execução.
+Opostos embargos de declaração, foram eles rejeitados.
+No  especial,  a  parte  alega  violação  dos  arts. 489 e 1.022 do CPC/2015.
+ Sustenta,  em  síntese, que há omissão no acórdão do TJRJ, que, mesmo após a oposição dos embargos de declaração, deixou de apreciar as alegações trazidas no âmbito da apelação de que: (a) o que era tributado pelo município não era o contrato de empréstimo, mas os serviços anteriores relativos à análise dos contratantes; (b) os serviços prévios ao contrato de empréstimo deveriam ser tributados pelo ISSQN; e (c) a perícia técnica analisa exclusivamente os nomes dados às rubricas pelo contribuinte, sem apreciar a efetiva atividade praticada pelo contribuinte.
+Como afirmado no decisum ora agravado, verifica-se que o Tribunal de origem se manifestou, de maneira clara e fundamentada, acerca de todas as questões relevantes para a solução da controvérsia.
+A Corte estadual expressamente consignou que, na hipótese do crédito impugnado pelos embargos à execução, o tributo municipal estaria sendo lançado sobre rendas financeiras do banco, objeto de tributação pelo IOF, não se verificando o fato gerador do ISSQN.
+Ainda, chegou a essa conclusão com o auxílio da perícia técnica produzida nos embargos à execução, esclarecendo que as alegações da edilidade não têm sustentação no arcabouço fático e que se qualificariam como "meras alegações sobre uma suposta ausência de discriminação dos valores cobrados a título de tarifas administrativas que em tese integrariam o mesmo grupo de contas relativas às operações de crédito, possibilitando, assim, a cobrança do Imposto sobre Serviços" (e-STJ fl. 557).
+Em atenção à alegação constante no agravo interno de que a conclusão do acórdão seria outra se a Corte a quo considerasse a alegação de que o banco não teria demonstrado o mínimo recolhimento do IOF sobre estes serviços, tenho que este argumento não tem interferência no que fora decidido na sentença e no acórdão.
+Com efeito, as instâncias ordinárias consignaram que as rendas tributadas pelo imposto municipal deveriam, na verdade, ser tributadas pelo imposto federal (IOF), uma vez que, com fundamento na perícia técnica produzida nos autos, seriam decorrentes de operações financeiras e não de serviços tributáveis pela edilidade.
+Vê-se, portanto, que à solução da controvérsia submetida a julgamento daquele colegiado (incidência ou não do ISSQN sobre as rendas descritas no auto de infração, que segundo a perícia técnica eram auferidas por meio de "aluguel" de numerário, ou seja, juros auferidos através de empréstimos) é indiferente a existência ou não de efetivo recolhimento do tributo devido de fato (IOF), importando este questionamento apenas para futura cobrança deste tributo pelo ente federado competente (União).
+Dessa forma, inexiste vício de integração no acórdão a ensejar violação do art. 1.022 do CPC/2015.
+Após nova análise processual, provocada pela interposição do agravo interno, observo que a decisão combatida deve ser mantida.
+Por fim, embora não merecedor de acolhimento, o agravo interno, no caso, não se revela manifestamente inadmissível ou improcedente, razão pela qual não deve ser aplicada a multa do § 4º do art. 1.021 do CPC/2015.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
