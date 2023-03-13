@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/03/2023 a 13/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora): Cuida-se de agravo interno interposto por AUGUSTO REGO DE ALMEIDA (AUGUSTO REGO DE ALMEIDA - ME), contra decisão proferida pela Presidência desta Corte que, ante as suas atribuições regimentais, não conheceu do recurso especial.
+Ação: incidente de desconsideração da personalidade jurídica, requerido por AUGUSTO REGO DE ALMEIDA (AUGUSTO REGO DE ALMEIDA - ME), em face de LECHUGA ENGENHARIA LTDA., SÉRGIO LUIZ LECHUGA GARCIA e LAURA GYSLAINE LECHUGA GARCIA DE OLIVEIRA.
+Decisão interlocutória: rejeitou o pedido de desconsideração da personalidade jurídica, diante da ausência de demonstração do efetivo preenchimento dos requisitos previstos no art. 50 do Código Civil.
+Acórdão: negou provimento ao Agravo de Instrumento interposto pela parte agravante.
+Decisão monocrática: não conheceu do recurso especial, nos termos do art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça.
+Agravo interno: sustenta que as fundamentações discorridas nas razões do recurso especial são específicas e bastante pertinentes, além do fato de que há o apontamento comparativo de divergência jurisprudencial.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Incidente de desconsideração da personalidade jurídica.
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. A ausência de cotejo analítico e a não comprovação da similitude fática, aptas a demonstrar a divergência jurisprudencial sustentada pela parte agravante, violam o art. 1.029, §1º do CPC/2015.
+4. Agravo interno não provido.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora): Trata-se de agravo interno interposto por AUGUSTO REGO DE ALMEIDA (AUGUSTO REGO DE ALMEIDA - ME), contra decisão proferida pela Presidência desta Corte que, ante as suas atribuições regimentais, não conheceu do recurso especial.
+Pela análise das razões recursais apresentadas, verifica-se que a parte agravante não trouxe qualquer argumento novo capaz de ilidir os fundamentos da decisão agravada.
+A parte agravante se insurge contra a aplicação da Súmula 284/STF ao caso, sustentando que as fundamentações discorridas nas razões do recurso especial são específicas e bastante pertinentes, além do fato de que há o apontamento comparativo de divergência jurisprudencial.
+Malgrado o inconformismo da parte agravante, mesmo afastando-se a aplicação do óbice sumular 284/STF, é de se observar que razão não lhe assiste, uma vez que em relação ao presente caso incide o óbice sumular 7 desta Corte, além do fato de não estar caracterizada a presença do dissídio jurisprudencial.
+No que tange à incidência da Súmula 7 desta Corte ao caso, a Corte local consignou que a presente casuística não se enquadra nas hipóteses de desconsideração da personalidade jurídica.
+Também registrou a Corte local que, perquirindo os autos do Incidente de Desconsideração de Personalidade Jurídica nº 0010978-33.2017.8.12.0001, verificou-se que a parte agravante não produziu qualquer documento ou prova aptos a comprovar o preenchimento dos requisitos autorizadores desta medida excepcional.
+No mais, entendeu que os argumentos apresentados pela parte agravante para tal medida são deveras genéricos e, por essa razão, são insuficientes para demonstrar a ocorrência de confusão patrimonial ou desvio de finalidade da pessoa jurídica, visando fraudar à lei ou prejudicar terceiros.
+Por fim, malgrado o inconformismo da parte agravante, mesmo afastando-se a aplicação do óbice sumular 284/STF como dito, é de se observar que razão também não lhe assiste no tocante à presença do dissídio jurisprudencial, pois, em que pese a argumentação apresentada nas razões do agravo interno, restou evidente que a parte agravante deixou de promover o necessário cotejo analítico e a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência, uma vez que a análise do recurso especial fundado na alínea "c" do permissivo constitucional exige a comprovação do dissídio, por meio da apresentação de julgados que evidenciem a similitude fática das situações às quais foram dadas soluções distintas, na aplicação do direito à espécie. Nesse sentido: AgInt no AgInt no AREsp 1.589.874/SE, 4ª Turma, DJe 10/12/2020; EDcl nos EDcl no AgInt no AREsp 1.498.018/SC, 4ª Turma, DJe 04/12/2020; AgInt no REsp 1.811.525/DF, 3ª Turma, DJe 01/09/2020; AgInt no AgInt no AREsp 1.579.612/RS, 3ª Turma, DJe 18/08/2020.
+Além disso, quanto ao dissídio jurisprudencial, esta Corte tem entendido que a divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional exige comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos acórdãos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não se oferecendo como bastante a simples transcrição de ementas sem realizar o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações. Nesse sentido: AgInt no AREsp 1.897.093/RJ, 3ª Turma, DJe 18/03/2022; AgInt no REsp 1.950.258/SP, 2ª Turma, DJe 16/02/2022; AgInt no AREsp 1.888.764/SP, 1ª Turma, DJe 09/12/2021; AgRg no AREsp 1.900.051/CE, 5ª Turma, DJe 20/08/2021; AgInt no AREsp 1.204.206/PR, 4ª Turma, DJe 19/05/2021.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO do presente agravo interno.
