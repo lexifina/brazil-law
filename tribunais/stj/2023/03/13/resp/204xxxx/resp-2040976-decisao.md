@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de recurso especial interposto por OI S/A - EM RECUPERAÇÃO JUDICIAL com fundamento nas alíneas "a" e "c" do permissivo constitucional.
+Ação: de complementação de ações (derivadas de contrato de participação financeira), em fase de cumprimento de sentença, ajuizada por CLENIA LEAL MARANHÃO em face da recorrente.
+Decisão: indeferiu pedido da recorrida de prorrogação da suspensão da execução.
+Acórdão recorrido: deu parcial provimento ao agravo de instrumento interposto pela recorrida, (i) para reconhecer que a habilitação do crédito nos autos da recuperação judicial da devedora é medida facultativa e (ii) para "afastar a data da recuperação judicial da empresa ré como termo final da incidência dos juros de mora e da correção monetária" (e-STJ fl. 50).
+Embargos de declaração: interpostos pela recorrente, foram rejeitados.
+Recurso especial: aponta a existência de dissídio jurisprudencial e alega violação dos artigos: 489 e 1.022 do CPC; 9º, II, 49, 59 e 126 da Lei 11.101/05. Além de negativa de prestação jurisdicional, argumenta que, como se trata de crédito de natureza concursal (haja vista que seu fato gerador é anterior ao pedido de recuperação judicial), deve ser pago de acordo com as condições estabelecidas no plano de soerguimento, ainda que a credora opte por não habilitá-lo. Aduz que referido crédito deve ser atualizado até a data do pedido de recuperação judicial.
+RELATADO O PROCESSO, DECIDE-SE.
+- Do entendimento do STJ.
+Esta Corte Superior possui entendimento firmado no sentido de que, ainda que o credor opte por não habilitar seu crédito, pois se trata de direito disponível, a ele se aplicam os efeitos da novação resultantes do deferimento do pedido de recuperação judicial: "O reconhecimento judicial da concursalidade do crédito, seja antes ou depois do encerramento do procedimento recuperacional, torna obrigatória a sua submissão aos efeitos da recuperação judicial, nos termos do art. 49, caput, da Lei nº 11.101/2005" (REsp 1.655.705/SP, Segunda Seção, DJe de 25/5/2022).
+Também é certo que, a despeito de o crédito não ter sido habilitado, seu valor comporta atualização somente até a data do pedido recuperacional, a fim de garantir tratamento isonômico aos credores, habilitados ou não. Ou seja, "como os créditos em questão devem ser submetidos ao plano de recuperação, deve também se sujeitar à data limite de incidência da correção monetária, a fim de se garantir a indispensável igualdade entre os credores" (REsp 1.892.026/DF, Terceira Turma, DJe de 15/4/2021). No mesmo sentido: AgInt nos EDcl no REsp 1.793.799/RS (Quarta Turma, DJe de 16/12/2021).
+Forte nessas razões, DOU PROVIMENTO ao recurso especial, para determinar que os créditos da recorrida, ainda que não habilitados, tenham seus valores adequados às condições a que se sujeitam os demais créditos integrantes da mesma classe, ficando limitadas, a correção monetária e a incidência de juros, à data do pedido de soerguimento.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. CRÉDITO NÃO HABILITADO. SUJEIÇÃO AOS EFEITOS DO PLANO. CORREÇÃO MONETÁRIA E JUROS. LIMITAÇÃO À DATA DO PEDIDO DE SOERGUIMENTO.
+1. O reconhecimento da concursalidade do crédito, seja antes ou depois do encerramento do processo de soerguimento, torna obrigatória a sua submissão aos efeitos da recuperação judicial, nos termos do art. 49, caput, da Lei 11.101/2005. Precedente da Segunda Seção.
+2. A despeito de o crédito não ter sido habilitado, seu valor comporta atualização somente até a data do pedido recuperacional, a fim de garantir tratamento isonômico aos credores, habilitados ou não. Precedentes.
+RECURSO ESPECIAL PROVIDO.
