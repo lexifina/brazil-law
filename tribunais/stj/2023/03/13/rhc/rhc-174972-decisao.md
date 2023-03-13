@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso em habeas corpus com pedido de liminar interposto por ANDERSON DANIEL FERREIRA MATOS contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (HC n. 1.0000.22.185984-6/000).
+A parte recorrente objetiva, em suma, seja declarada a nulidade da decisão judicial de primeiro grau por violação do direito ao silêncio, "para determinar a realização de novo interrogatório, desta vez, com a observância das garantias individuais previstas constitucionalmente ao paciente" (e-STJ fl. 626).
+É, em síntese, o relatório.
+Decido.
+O recurso está prejudicado.
+Em consulta ao sítio eletrônico do Tribunal de origem constatei que o paciente já foi pronunciado, tendo a Magistrada de piso se manifestado acerca da aventada nulidade nos seguintes termos:
+Também em sede preliminar, a Defesa alegou que não foi permitido ao acusado, durante o seu interrogatório judicial, responder somente às perguntas de suas patronas, decisão esta que teria violado o princípio da ampla defesa.
+Com isso, requereu a nulidade processual pela "violação ao silêncio seletivo do réu". (págs. 4/7 do ID 9586478071).
+Diferente disso, este Juízo, de forma alguma, cerceou o direito do acusado de se pronunciar sobre os fatos descritos na denúncia, pois lhe foi franqueada a livre narração de sua versão, sem que lhe fossem feitas quaisquer perguntas pelo Juízo.
+Foi, ainda, facultada a juntada de entrevista (gravada ou escrita) entre o denunciado e seus defensores a respeito dos fatos que lhe foram imputados, sem limite de tempo ou de laudas, de forma a AMPLIAR (e não cercear) o seu direito de autodefesa.
+Nesse sentido, destaco parte da decisão de ID 9568343838:
+"Após entrevista reservada com seus advogados, ao início do seu interrogatório e realizada a sua qualificação, o acusado disse que responderia apenas às perguntas formuladas pela Defesa. Diante de tal afirmação, a magistrada esclareceu que, em se tratando de uma entrevista reservada apenas ao réu e aos seus advogados, o interrogatório judicial, na forma que concebido no Código de Processo Penal, se torna ato processual dispensável, pois substituível por outros meios à disposição da Defesa como, por exemplo, apresentação de declaração por escrito ou de entrevista gravada em áudio e/ou áudio e vídeo, inclusive sem limitação de laudas ou de tempo, o que ficou desde já facultado à Defesa a apresentar nos autos, no prazo das alegações finais. A MM. Juíza indagou ao acusado se ele preferia prestar qualquer declaração em juízo, independentemente de questionamento dos presentes, tendo ele reiterado o interesse de permanecer em silêncio e responder somente às perguntas de seus patronos. Com isso, deu-se por encerrado o interrogatório, oportunizando à Defesa a apresentação de entrevista reservada até o prazo final das alegações finais (decisão baseada em precedente do TJMG HC nº 1.0000.21.080219-5/000, relator Des. Dirceu Baroni, j. 10/06/2021)."
+A Defesa foi quem optou por não agregar declaração ou entrevista do acusado com as respectivas alegações finais, que lhe fora expressamente autorizado, abrindo mão, assim, de exercer a faculdade de apresentar sua versão dos fatos.
+E importante salientar que, diversamente do que ocorre em relação às testemunhas, quando ao magistrado são permitidas perguntas apenas visando a esclarecer fatos não alcançados diretamente pelas partes, no caso do interrogatório judicial esses papéis se invertem.
+Na hipótese, o legislador processual reservou ao Ministério Público e à Defesa tal função complementar, "após" o interrogatório realizado diretamente pelo magistrado, circunstância que apenas evidencia a mencionada e necessária dialética inerente ao ato processual em questão.
+Veja-se:
+Art. 188. Após proceder ao interrogatório, o juiz indagará das partes se restou algum fato para ser esclarecido, formulando as perguntas correspondentes se o entender pertinente e relevante. (grifei)
+Entendimento contrário permitiria transformar o interrogatório judicial em um ato presidido e controlado exclusivamente pelos advogados do acusado, por meio de uma entrevista individualizada e orientada, funcionando os demais atores processuais como mero expectadores.
+Não é essa a mens legis que orienta os artigos 185 a 196 do Código Processual Penal, de forma que a situação vivenciada na audiência sumária não implica nenhuma afronta ao pleno exercício da defesa ou ao direito constitucional à não autoincriminação (silêncio).
+No caso vertente, a decisão proferida na audiência de instrução buscou apenas preservar a essência do interrogatório judicial, enquanto ato processual regido por normas específicas, sem qualquer vedação à livre manifestação do acusado ou à apresentação de entrevistas escritas ou gravadas, conduzidas exclusivamente pela Defesa.
+Salienta-se, ainda, que a instrução processual não se encerra nesta fase, diante da peculiaridade do procedimento bifásico do Tribunal do Júri.
+Em caso de eventual pronúncia, ao acusado ainda é assegurada oportunidade de se expressar perante os jurados, mesmo que nesta fase tenha optado por não fazê-lo.
+Ademais, ainda está pendente o recurso contra a sentença de pronúncia.
+Tal o contexto, diante da alteração substancial da situação processual do recorrente, julgo prejudicado o presente rec urso ordinário.
+Publique-se. Intimem-se.
