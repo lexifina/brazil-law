@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/03/2023 a 13/03/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Humberto Martins, Herman Benjamin e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de embargos de declaração (fls. 6106/6112 ) apresentados contra acórdão sintetizado na seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO. RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO FISCAL. AÇÃO RESCISÓRIA. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA.1. Não havendo no acórdão recorrido omissão, obscuridade ou contradição, não fica caracterizada ofensa ao art. 1.022 do CPC/2015.2. Não há como confundir o resultado desfavorável ao litigante com a falta de fundamentação, motivo pelo qual não se constata contrariedade ao art. 489 do CPC/2015.3. Agravo interno não provido.
+Os embargantes sustentam, em suma, que:
+Vislumbra-se, em verdade, que este d. colegiado se cingiu a examinar, data venia, de forma precária e incompleta, as questões suscitadas pelos insurgentes.
+E pede-se licença para aduzir, Exas., com todo o respeito, que a legitimidade dessa assertiva, a qual tem o condão de propiciar o manejo dos presentes aclaratórios, repousa numa circunstância patenteada de singela leitura do acórdão ora vergastado, a saber: ESTE r. COLEGIADO, ao resolver o agravo interno tirado pelos ora embargantes, SE LIMITOU A REPRODUZIR NO ACÓRDÃO ORA REPROCHADO OS MESMOS FUNDAMENTOS CONSIGNADOS NA DECISÃO MONOCRÁTICA QUE FOI ALVO DA IRRESIGNAÇÃO PRECEDENTEMENTE MANIFESTADA, TENDO SE OLVIDADO DE SE PRONUNCIAR SOBRE AS QUESTÕES EFETIVAMENTE AVENTADAS NO RECURSO (as quais denotam o desacerto da conclusão antes adotada).
+Inconteste avulta, assim, que este Superior Tribunal não observou, in casu, ao não se desonerar do ônus que lhe é atribuído (de examinar TODOS os temas relevantes propostos à análise), o quanto disposto no art. 489 do CPC/15.
+Consabido é, Exmos., que o art. 1.021, § 3º do NCPC veda, no julgamento do agravo interno, a reprodução dos fundamentos contidos na r. decisão monocrática.
+Roga-se venia para asseverar, pois, Srs. Ministros, e a partir do entendimento sedimentando no âmbito deste Excelso Pretório, que não se pode reputar satisfatória a prestação jurisdicional entregue dessa forma.
+Lícito defender, nessa toada, que este colegiado omitiu da decisão manifestação indispensável acerca de questões do mais elevado relevo ao deslinde da ação.
+Requerem sejam acolhidos os embargos.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO. AUSÊNCIA DE OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL.
+1. Não havendo omissão, obscuridade, contradição ou erro material, merecem ser rejeitados os embargos de declaração opostos, sobretudo quando contêm elementos meramente impugnativos.
+2. Embargos de declaração rejeitados.
+VOTO
+O recurso não merece prosperar.
+Os embargos de declaração têm a finalidade de completar a decisão omissa ou, ainda, de aclará-la, dissipando obscuridades ou contradições, ou para a correção de erro material. Não têm caráter substitutivo, modificador ou infringente do julgado, mas sim integrativo ou aclaratório. O objetivo dos embargos não pode ser a infringência, a qual, por ventura, ocorreria como consequência da supressão de omissão, ou da resolução de obscuridade ou de contradição (cf. NERY JUNIOR, Nelson. NERY, Rosa Maria de Andrade. Código de Processo Civil comentado  livro eletrônico . 3. ed. São Paulo: Thomson Reuters Brasil, 2018).
+Observo que o caso em apreço não comporta os presentes aclaratórios, pois o julgado recorrido apresenta fundamento suficiente, exauriente e específico. Confira-se:
+Como se vê, a apontada violação ao art. 1.022 do CPC/2015 não se configura, uma vez que a Corte de origem, de modo fundamentado, tratou das questões suscitadas, resolvendo de modo integral a controvérsia posta. Na linha da jurisprudência desta Corte, não há falar em negativa de prestação jurisdicional nem em vício quando o acórdão impugnado aplica tese jurídica devidamente fundamentada, promovendo a integral solução da controvérsia, ainda que de forma contrária aos interesses da parte.
+Em relação à alegada ofensa ao art. 489 do CPC/2015, cumpre destacar que, ainda que os agravantes considerem insubsistente ou incorreta a fundamentação utilizada pelo Tribunal no julgamento realizado, não há necessariamente ausência de manifestação. Não há como confundir o resultado desfavorável ao litigante com a falta de fundamentação, motivo pelo qual não se constata violação do preceito apontado. A respeito:
+Desse modo, a questão foi apreciada de modo adequado, e o mero inconformismo com a conclusão do julgado não enseja a utilização da via de embargos de declaração, que é limitada às hipóteses elencadas no art. 1.022 do CPC/2015.
+Os embargos de declaração não servem para que se adequem os fundamentos do acórdão ao entendimento da parte embargante, nem para o acolhimento de pretensões que refletem mero inconformismo, e, menos ainda, para rediscussão de matéria já resolvida (cf. EDcl no AgInt no RE nos EDcl no AgInt no RMS 52.333/GO, Rel. Ministro HUMBERTO MARTINS, CORTE ESPECIAL, DJe 29/06/2018; EDcl no MS 20.816/DF, Rel. Ministro JORGE MUSSI, CORTE ESPECIAL, DJe 17/04/2018; EDcl nos EDcl nos EDcl no AgInt nos EDcl nos EREsp 1491187/SC, Rel. Ministro MAURO CAMPBELL MARQUES, CORTE ESPECIAL, DJe 23/03/2018).
+Ademais, conforme entendimento pacífico desta Corte, "não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução" (REsp 1.719.219/MG, Rel. Ministro Herman Benjamin, Segunda Turm a, julgado em 19/4/2018, DJe 23/5/2018).
+Assim, não havendo omissão, obscuridade, contradição ou erro material, merecem ser rejeitados os embargos de declaração opostos, sobretudo quando contêm elementos meramente impugnativos. Nesse sentido: EDcl no AgRg no Ag 1.218.989/SP, 2ª Turma, Rel. Min. Humberto Martins, DJe de 7.5.2010; EDcl no REsp 1.118.103/SP, 1ª Turma, Rel. Min. Teori Albino Zavascki, DJe de 20.4.2010.
+Diante do exposto, REJEITO os embargos de declaração.
+É o voto.
