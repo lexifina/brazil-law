@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de agravo apresentado por DELFINA MARFIL DE OLIVEIRA e OUTROS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim resumido:
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO. SFH. COBERTURA SECURITÁRIA. APÓLICE PÚBLICA. COMPETÊNCIA. JUSTIÇA FEDERAL. SUPERVENIÊNCIA DA SENTENÇA NA AÇÃO PRINCIPAL. PERDA DE OBJETO DO RECURSO.
+Quanto à controvérsia, alega violação do art. 946 do CPC, no que concerne à inexistência de perda do objeto recursal no agravo de instrumento, ainda que tenha havido prolação de sentença de mérito nos autos de origem, pois se discute a competência para o julgamento do feito e não matéria relativa ao mérito, sendo que em caso de reconhecimento da incompetência todos os atos processuais serão nulos, trazendo os seguintes argumentos:
+Não menos importante, reputa-se que o acórdão objurgado, desconsidera que o Superior Tribunal de Justiça entende que a fixação da competência pela justiça especializada ou a prolação de sentença no processo de origem, não gera, automaticamente, a perda do objeto do agravo de instrumento, in verbis:
+ ..
+Diante do acima aludido, resta demonstrado que a decisão agravada pronunciou-se em sentido diverso do entendimento da Corte Superior, em especial por se tratar de matéria recursal relativa à competência para o julgamento do feito.
+Necessário trazer à discussão o artigo 946 do Código de Processo Civil, o qual restou violado, que esclarece que até mesmo a existência de sentença não é causa de perda de objeto de agravo de instrumento, e por isso deve ser assegurado aos Recorrentes que os autos de agravo de instrumento sejam julgados antes da apelação. Vejamos:
+ ..
+O presente recurso trata da questão de competência e não acerca de matéria relativa ao mérito. Assim, ainda que o processo tenha sido julgado na Justiça Federal / Turma Recursal, todos os atos decisórios proferidos serão nulos, na hipótese de modificação da decisão e reconhecimento da incompetência.
+(fl. 374/376).
+É, no essencial, o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 283/STF, uma vez que a parte deixou de atacar fundamento autônomo e suficiente para manter o julgado, qual seja:
+A decisão que negou provimento ao agravo interno interposto foi proferida nos seguintes termos:
+ ..
+Ora, em razão da sentença de mérito ter se pronunciado sobre a legitimidade da CEF e consequentemente  xada a competência federal, nos termos do art.
+109, I, da CF/88, o presente recurso resta prejudicado por perda superveniente do objeto, já que a discussão pode se dar no feito principal.
+ ..
+Assim, cabe acrescentar fundamentação no sentido de que diante da prolação de sentença, com trânsito em julgado, no caso, houve a perda do objeto do presente agravo de instrumento em relação ao autor ADILSON DE SOUZA GONÇALVES.
+Quanto ao mais, tendo a decisão agravada determinado o desmembramento do feito e distribuição por dependência de ações individuais, e, estas, na sua maioria, julgadas e com trânsito em julgado, descabe o pedido de análise quanto aos demais autores, seja sob pena de ofensa a coisa julgada, seja por extrapolar os limites do recurso (fls. 324/334).
+Nesse sentido: "A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não-conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula n. 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles"". (AgInt nos EDcl no AREsp n. 1.317.285/MG, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de19/12/2018.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.572.038/RS, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp 1.157.074/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 5/8/2020; AgInt no REsp 1.389.204/MG, relator Ministro Og Fernandes, Segunda Turma, DJe de 3/8/2020; AgInt no REsp 1.842.047/RS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 26/6/2020; e AgRg nos EAREsp 447.251/SP, relator Ministro João Otávio de Noronha, Corte Especial, DJe de 20/5/2016.
+Ademais, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "Quanto à segunda controvérsia, o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentido de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. " (AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/05/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
