@@ -1,0 +1,67 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/03/2023 a 13/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agr avo interno interposto por MARCOS DA SILVA AMARAL e ADRIANA MARTINS DE ALMEIDA AMARAL contra decisão proferida por esta relatoria, nos termos da seguinte ementa (e-STJ, fl. 478):
+AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. DIREITO PROCESSUAL CIVIL. INDEFERIMENTO DE PRODUÇÃO DE PROVAS. JULGAMENTO ANTECIPADO DA LIDE. AUSÊNCIA DE CERCEAMENTO DE DEFESA. CAPITALIZAÇÃO DE JUROS PREVISTA EM CLÁUSULA CONTRATUAL. TABELA PRICE. PRETENSÃO QUE DEMANDA A ANÁLISE DE CLÁUSULAS CONTRATUAIS E PROVAS. INCIDÊNCIA DAS SÚMULAS 5 E 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Em suas razões, os agravantes argumentam que a decisão monocrática, ao conhecer do agravo para não conhecer do recurso especial, não deu o devido desate para a controvérsia.
+Para tanto, alegam a inaplicabilidade das Súmulas 5 e 7/STJ no caso em apreço, dado que a questão discutida é de direito.
+Reiteram, no mais, os argumentos do apelo especial.
+Requerem, por fim, a reconsideração da decisão monocrática.
+Impugnações apresentadas (e-STJ, fls. 541-550) sem pedido de aplicação de multa.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO CÉDULA DE CRÉDITO BANCÁRIO. DIREITO PROCESSUAL CIVIL. CERCEAMENTO DE DEFESA. INDEFERIMENTO DE PEDIDO DE PRODUÇÃO DE PROVA. DIREITO CIVIL. CAPITALIZAÇÃO DE JUROS. TABELA PRICE. PRETENSÕES QUE DEMANDAM O REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO E ANÁLISE DE CLÁUSULAS CONTRATUAIS. IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, o magistrado é o destinatário final das provas, cabendo-lhe decidir sobre a produção de provas necessárias ou indeferir aquelas meramente protelatórias, não configurando o cerceamento de defesa o indeferimento da dilação probatória, desde que já tenha elementos suficientes para a formação de seu convencimento e que o indeferimento seja fundamentado.
+1.1. Aferir a suficiência dos elementos de provas aptos à formação do convencimento do juiz demanda, necessariamente, o reexame do conjunto fático-probatório, providência inviável na esfera especial ante a incidência do enunciado da Súmula n. 7 deste Superior Tribunal.
+2. Tendo a Corte estadual se pronunciado pela inexistência de abusividade da taxa de juros, bem como pela possibilidade de utilização da Tabela Price, não pode o Superior Tribunal de Justiça proceder à nova apreciação das provas e fatos, tampouco à interpretação de cláusulas contratuais, visto que o reclamo especial não possui tais finalidades. Súmulas 5 e 7/STJ.
+3. Agravo interno desprovido.
+VOTO
+O recurso não comporta provimento, porquanto as razões expendidas são insuficientes para a reconsideração da deliberação unipessoal.
+Aduzem os agravantes que a decisão proferida pela Décima Segunda Câmara Cível do Tribunal de Justiça do Estado de Minas Gerais negou vigência ao art. 369 do CPC/2015, uma vez que, ao negar o pedido para a produção de prova pericial, incorreu em cerceamento de defesa.
+Entretanto, depreende-se da leitura do decisum que, não obstante a alegação renitente quanto à necessidade da atuação de um perito judicial com expertise na área, para o Tribunal de origem a produção de prova pericial era desnecessária para comprovar as abusividades alegadas, porque estas poderiam ser constadas pela análise do contrato.
+Veja-se (e-STJ, fl. 337):
+Os apelantes alegam a nulidade da sentença, por cerceamento de defesa, diante do indeferimento da prova pericial, essencial para comprovar as abusividades contidas no contrato. A preliminar não há de ser acolhida, na medida em que as questões debatidas limitam-se à verificação dos encargos incidentes e que se encontram previstos no contrato. Para a constatação das abusividades alegadas pelo apelante não se faz necessária a realização de prova pericial ou outra modalidade de prova, além daquelas já produzidas, bastando para tanto a análise do contrato.
+Registra-se que, no que diz respeito ao indeferimento do pedido de produção de elementos de prova, esta Corte Superior pacificou seu entendimento no sentido de, por ser destinatário das provas, cabe ao magistrado decidir sobre a produção de provas necessárias ou indeferir aquelas meramente protelatórias, não configurando o cerceamento de defesa o indeferimento da dilação probatória, desde que já tenha elementos suficientes para a formação de seu convencimento e que o indeferimento seja fundamentado. Ademais, é firme o entendimento de que o julgamento antecipado da lide não configura cerceamento de defesa, mormente quando o magistrado entende que o feito se encontra devidamente instruído em virtude da suficiência dos documentos dos autos.
+Ilustrativamente (sem grifos no original):
+RECURSO ESPECIAL. PROCESSO CIVIL. CIVIL. CONTRATO DE CÉDULA DE CRÉDITO INDUSTRIAL. FINANCIAMENTO. TRÍPLICE GARANTIA. ALIENAÇÃO FIDUCIÁRIA. AVAL. CESSÃO DE CRÉDITOS. POSSIBILIDADE. ABUSIVIDADE AFASTADA. CERCEAMENTO. DEFESA. NÃO OCORRÊNCIA. CDC. INAPLICABILIDADE. INSUMO. HIPOSSUFICIÊNCIA CONCRETA. INEXISTÊNCIA.(..)
+3. Não há cerceamento de defesa pelo julgamento antecipado da lide que, de forma fundamentada, resolve a causa sem a produção da prova requerida pela parte em virtude da suficiência dos documentos dos autos. Precedentes.
+(..)
+7. Recurso especial conhecido e não provido.
+(REsp n. 1.752.569/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 23/8/2022, DJe de 26/8/2022.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. DIREITO DO CONSUMIDOR. AÇÃO DE INDENIZAÇÃO. RESPONSABILIDADE CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO. NÃO PROTELATÓRIOS. MULTA AFASTADA. ÔNUS DA PROVA. INVERSÃO. CABIMENTO. NÃO COMPROVAÇÃO DOS REQUISITOS MÍNIMOS PARA CONFIGURAÇÃO DO DEVER DE INDENIZAR. JUÍZO DESTINATÁRIO FINAL DA PROVAS. INDEFERIMENTO DE PRODUÇÃO DE PROVAS E SUBSTIUIÇÃO DE TESTEMUNHA. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. PREQUESTIONAMENTO. AUSENTE. INCIDÊNCIA DO ENUNCIADO N.º 211/STJ.
+1. Consoante a jurisprudência do Superior Tribunal de Justiça, não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+(..)
+5. Conforme a jurisprudência do Superior Tribunal de Justiça, o magistrado é o destinatário final das provas, cabendo-lhe analisar a necessidade de sua produção, cujo indeferimento não configura cerceamento de defesa.
+(..)
+6. AGRAVO INTERNO CONHECIDO E DESPROVIDO.
+(AgInt nos EDcl no REsp n. 1.958.695/PR, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 23/5/2022, DJe de 25/5/2022.)
+Fincadas tais balizas, o acolhimento da pretensão dos agravantes demandaria, inexoravelmente, o revolvimento do acervo fático-probatório. Entretanto, dada a natureza excepcional do reclamo especial, tal pretensão revela-se indevida, mantendo o óbice da Súmula n. 7/STJ.
+No que concerne à alegada existência de taxas de juros em patamares elevados e a capitalização de juros, a Corte de origem consignou na decisão a não ocorrência da abusividade.
+Confira-se (e-STJ, fls. 338-342):
+A taxa prevista no título em análise não está acima da taxa média de mercado, portanto, não há falar em abusividade.
+Em relação à capitalização de juros, no julgamento do REsp nº 973.827/RS, submetido à sistemática dos recursos repetitivos, restou decidido que nos contratos firmados após 31/3/2000, data da publicação da Medida Provisória nº 1.963-17, admite-se a capitalização dos juro sem periodicidade inferior a um ano, desde que pactuada de forma clara e expressa, assim considerada quando prevista a taxa de juros anual em percentual doze vezes maior do que a mensal, consoante se colhe da ementa de referido julgado:
+ ..
+No caso em exame, a cédula de crédito bancário prevê de forma expressa a capitalização de juros, o que afasta a alegada abusividade defendida pela apelante.
+ ..
+Também não se pode considerar como ilegal a utilização da Tabela Price para a amortização da dívida, não acarretando, em tese, a prática de anatocismo, que se caracteriza pela capitalização de juros sobre juros vencidos e não pagos.
+ ..
+Assim, conclui-se que a utilização do método da Tabela Price não implica, necessariamente, em prática de anatocismo, uma vez que mediante o seu emprego não há incidência de juros sobre juros vencidos e não pagos, mas, tão-somente, o cálculo de juros compostos, para se chegar aos valores uniformes das prestações a vencer.
+A respeito da matéria, este Superior Tribunal pacificou sua jurisprudência no sentido de ser "permitida a capitalização de juros com periodicidade inferior a um ano em contratos celebrados após 31.3.2000, data da publicação da Medida Provisória n. 1.963-17/2000 (em vigor como MP 2.170-36/2001), desde que expressamente pactuada"; e (b) "a capitalização dos juros em periodicidade inferior à anual deve vir pactuada de forma expressa e clara. A previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada" (REsp 973.827/RS, Ministra Maria Isabel Gallotti, Segunda Seção, julgado em 08/08/2012, DJe de 24/09/2012).
+A propósito (sem grifos no original):
+AGRAVO INTERNO NO RECURSO ESPECIAL E NO AGRAVO EM RECURSO ESPECIAL. CIVIL. AÇÃO REVISIONAL DE CONTRATO DE EMPRÉSTIMO PESSOAL. AGRAVO DE INSTRUMENTO. PRAZO PRESCRICIONAL. TERMO INICIAL.1. A alegada afronta à lei federal não foi demonstrada com clareza, pois o único dispositivo apontado como violado não tem comando normativo suficiente para amparar a tese recursal, atraindo, por analogia, o óbice da Súmula 284 do STF.2. Na forma da jurisprudência pacificada por esta Corte Superior, a cobrança de juros capitalizados em periodicidade anual ou inferior à anual nos contratos de mútuo não é permitida quando não houver expressa pactuação.3. AGRAVO INTERNO DESPROVIDO.(AgInt no REsp n. 1.981.159/RS, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 20/6/2022, DJe de 22/6/2022.)
+Ademais, é firme nesta Corte Superior o entendimento de que a "análise acerca da legalidade da utilização da Tabela Price - mesmo que em abstrato - passa, necessariamente, pela constatação da eventual capitalização de juros (ou incidência de juros compostos, juros sobre juros ou anatocismo), que é questão de fato e não de direito, motivo pelo qual não cabe ao Superior Tribunal de Justiça tal apreciação, em razão dos óbices contidos nas Súmulas 5 e 7 do STJ" (REsp 1.124.552/RS, Rel. Ministro Luis Felipe Salomão, Corte Especial, julgado em 3/12/2014, sob o rito do art. 543-C do CPC/1973, DJe de 2/2/2015).
+Na mesma linha de cognição (sem grifos no original):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SISTEMA FINANCEIRO DE HABITAÇÃO. UTILIZAÇÃO. TABELAPRICE. CAPITALIZAÇÃO DE JUROS. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não cabe ao Superior Tribunal de Justiça aferir se há capitalização de juros com a utilização da Tabela Price, haja vista as disposições das Súmulas nºs 5 e 7/STJ. Precedente.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.966.149/SC, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 20/6/2022, DJe de 24/6/2022.)
+Nesse norte, tendo a Corte de origem entendido pela validade da capitalização de juros em periodicidade inferior à anual e observando o posicionamento deste Superior Tribunal no que diz respeito à aferição da ocorrência de capitação de juros com a utilização da Tabela Price - visto que se trata de questão eminentemente fática-probatória -, o conhecimento da pretensão veiculada pelos recorrentes esbarra nos óbices das Súmulas 5 e 7/STJ.
+Em arremate, é imperioso destacar não ser a discussão caso de revaloração da prova, porquanto revalorar o fato é atribuir o devido valor jurídico a fato incontroverso, sobejamente reconhecido.
+Não se olvide, ainda, do entendimento já adotado no Superior Tribunal de Justiça de que "a errônea valoração da prova que dá ensejo ao recurso especial é aquela que decorre de equívoco na aplicação de norma ou princípio no campo probatório, e não quanto às conclusões das instâncias ordinárias acerca dos elementos informativos coligidos aos autos do processo" (AREsp n. 1.380.879/RS, Ministro Ricardo Villas Bôas Cueva, DJe de 5/8/2020).
+Destarte, tendo em vista que as alegações feitas no presente agravo interno não são capazes de alterar o convencimento anteriormente manifestado, permanece íntegra a decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa do art. 1.026, § 2º, do CPC/2015.
+É como voto.
