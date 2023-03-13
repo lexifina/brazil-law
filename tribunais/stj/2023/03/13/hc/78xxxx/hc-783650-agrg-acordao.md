@@ -1,0 +1,20 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/03/2023 a 13/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Rogerio Schietti Cruz.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+RELATÓRIO
+Trata-se de agravo regimental em habeas corpus interposto por Deivid Henrique Belchior Silva, contra decisão deste Relator que denegou a ordem de habeas corpus. Esta, a ementa da decisão (fls. 112):
+PENAL. PROCESSO PENAL. HABEAS CORPUS. TRÁFICO DE ENTORPECENTES E ASSOCIAÇÃO AO NARCOTRÁFICO. 8 BARRAS GRANDES E 3 BARRAS PEQUENAS DE MACONHA, TOTALIZANDO 10.510 KG, ALÉM DE 271,75 G DE COCAÍNA. DOSIMETRIA. AUSÊNCIA DE ILEGALIDADE. CONCRETOS FUNDAMENTOS. GRANDE QUANTIDADE DE DROGA. Ordem denegada.
+Sustenta o agravante que deve ser reduzida a fração de aumento relativa a cada vetorial, já que os motivos para tal elevação foram os mesmos em face da corré Amanda. Afirma que não houve um critério objetivo na dosimetria e que o aumento se mostra desproporcional.
+Requer, assim, a reconsideração da decisão.
+É o relatório.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. DELITOS DE TRÁFICO DE ENTORPECENTES E ASSOCIAÇÃO AO TRÁFICO. 8 BARRAS GRANDES E 3 BARRAS PEQUENAS DE MACONHA, TOTALIZANDO 10.510 KG, ALÉM DE 271,75 G DE COCAÍNA. PEDIDO DE REDUÇÃO DA PENA. DOSIMETRIA FEITA DE ACORDO COM A LIVRE CONVICÇÃO DO JULGADOR. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. GRANDE QUANTIDADE DE DROGA, CULPABILIDADE EXCESSIVA, ANTECEDENTES. AGRAVANTE REINCIDENTE.
+1. Deve ser respeitada a livre convicção do julgador ao fixar a pena-base, devendo esta Corte intervir apenas quando flagrante a ilegalidade.
+2. Agravo regimental improvido.
+VOTO
+Razão não assiste ao agravante e a decisão deve ser mantida, pelos fundamentos já expostos na decisão agravada. O agravante insiste que a sua pena deve ser equivalente à pena fixada para a corré, Amanda. No entanto, deve ser levada em consideração os fundamentos apresentados pela instância ordinária, pois o Magistrado está próximo às provas dos autos, e deve ser valorada a livre convicção do julgador. Não é possível, em sede de habeas corpus, proceder-se a entendimento contrário na dosimetria, quando não estiver flagrante alguma ilegalidade. No caso, consta na sentença que a corré é primária, enquanto o agravante é reincidente.
+Além disso disso, a culpabilidade foi considerada bastante grave, uma vez que  ..  o acusado praticou o delito enquanto ainda estava em cumprimento de pena, aproveitando-se a autorização para sair da APAC para o trabalho externo. Além disso, praticava o tráfico na residência que dividia com sua esposa e filha. Ademais, restou inconteste que o acusado movimentava grande quantidade de drogas, intensificando o tráfico no município. Nem a sua prisão o impediu que prosseguisse na criminalidade, face as interceptações telefônicas autorizadas judicialmente  ..  (fl. 40). O Magistrado também procedeu a uma valoração negativa da vetorial do art. 42 da Lei n. 11.434/2006, em razão da expressiva quantidade, variedade e natureza das drogas (10,510 kg de maconha e 271,75 g de cocaína), que realmente se mostra bastante excessiva. Da mesma forma, valorou negativamente os antecedentes, de modo que a pena-base foi fixada em 10 anos de reclusão e 1.000 dias-multa, pelo tráfico de drogas, e em 5 anos de reclusão e 800 dias-multa, pelo art. 35, caput, da Lei de Drogas. Na segunda fase, a agravante de reincidência foi compensada com a atenuante de confissão espontânea. Por fim, na terceira fase, em razão da condenação
+Como já mencionado, as circunstâncias do crime e os antecedentes podem perfeitamente ser considerados em ambos os delitos, já que se trata de crimes distintos.
+Ante o exposto, nego provimento ao agravo regimental.
