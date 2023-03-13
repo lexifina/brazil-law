@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/03/2023 a 13/03/2023, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik, Messod Azulay Neto e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Joel Ilan Paciornik.
+RELATÓRIO
+Trata-se de agravo regimental interposto por JUAN THOMAS LOPES, em face de decisão proferida por este Relator que indeferiu liminarmente o habeas corpus (e-STJ, fls. 744-746).
+Nas razões recursais (e-STJ, fls. 748-752), a defesa reitera a alegação de flagrante ilegalidade na decisão que regrediu o regime do paciente, pois a sua colocação em regime fechado foi, de forma direta do aberto para o mais gravoso.
+Requer, ao final, o provimento do recurso, para que seja concedida a ordem.
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO. SÚMULA 182/STJ. AGRAVO NÃO CONHECIDO.
+1. Deixando a parte agravante de impugnar especificamente os fundamentos da decisão agravada, é de se aplicar o enunciado 182 da Súmula do Superior Tribunal de Justiça, que afirma ser "inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada" (AgRg na RvCr 5.110/DF, Rel. Ministro JORGE MUSSI, TERCEIRA SEÇÃO, julgado em 24/6/2020, DJe 4/8/2020).
+2. Agravo regimental não conhecido.
+VOTO
+A irresignação não merece conhecimento.
+O habeas corpus foi liminarmente indeferido em face da supressão de instância. Por oportuno, reproduz-se a fundamentação da decisão de e-STJ, fls. 744-746:
+"De plano, verifico que a análise deste habeas corpus resta obstada, sob pena de afronta ao princípio do duplo grau de jurisdição e incabível supressão de instância, pois o Tribunal de origem negou provimento ao agravo regimental da decisão que indeferiu liminarmente o prévio mandamus, aos seguintes fundamentos: a) ausência de ilegalidade ou abuso de poder que resulte coação ou ameaça à liberdade de locomoção, eis que o paciente se encontra foragido há mais de um ano; b) impossibilidade de se admitir habeas corpus como sucedâneo recursal; c) o objeto da impetração consiste em mera reiteração do HC n. 5040689-17.2021.4.04.0000, cujo julgamento foi confirmado por esta Corte Superior, no HC n. 722.252/PR, deste Relator; d) as eventuais novas causas de pedir não foram apresentadas em primeiro grau.
+Nesse sentido, esta Corte Superior já decidiu que, "em face do obstáculo da supressão de instância, não é possível o exame, por esta Corte, de discussão não apreciada no Tribunal de origem" (HC 376.650/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 14/2/2017, DJe 22/2/2017).
+Ilustrativamente:
+"PROC ESSO PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. CONSTITUIÇÃO DE MILÍCIA PRIVADA ARMADA. AUSÊNCIA DE JUSTA CAUSA PARA A PERSECUÇÃO CRIMINAL NÃO CONFIGURADA DE PLANO. LITISPENDÊNCIA. SUPRESSÃO DE INSTÂNCIA. NULIDADE DA INVESTIGAÇÃO POLICIAL POR CERCEAMENTO DE DEFESA. CONTRADITÓRIO DIFERIDO. URGÊNCIA INERENTE. EXCESSO DE PRAZO PARA A FORMAÇÃO DA CULPA. NÃO CONFIGURADO. INSTRUÇÃO ENCERRADA. INCIDÊNCIA DA SÚMULA N. 52/STJ.
+ ..
+4. A alegação de litispendência não foi objeto de análise pelo Tribunal de origem, o que impede o enfrentamento do tema por esta Corte sob pena de indevida supressão de instância.
+ ..
+9. Recurso ordinário conhecido em parte e, nessa extensão, desprovido." (RHC n. 138.498/RJ, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 10/5/2022, DJe de 16/5/2022, grifou-se).
+"EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO DE ENTORPECENTES. VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. PRISÃO DOMICILIAR. TEMA NÃO DEBATIDO NA ORIGEM. SUPRESSÃO DE INSTÂNCIA. EXPEDIÇÃO DE GUIA DE EXECUÇÃO ANTES DO CUMPRIMENTO DO MANDADO DE PRISÃO. IMPOSSIBILIDADE. CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. AGRAVO NÃO PROVIDO.
+1. Nos termos da jurisprudência desta Corte, é possível que o relator negue seguimento a recurso ou a pedido manifestamente inadmissível, improcedente, prejudicado ou em confronto com súmula ou jurisprudência dominante, sem que se configure ofensa ao princípio da colegialidade, o qual sempre estará preservado, diante da possibilidade de interposição de agravo regimental.
+2. O pedido de prisão domiciliar não foi analisado pela Corte de origem, o que impede o exame do tema diretamente por este Tribunal Superior, sob pena de indevida supressão de instância. Precedentes.
+3.  ..
+4. Agravo regimental não provido." (AgRg no RHC n. 152.754/SP, deste Relator, Quinta Turma, julgado em 23/11/2021, DJe de 29/11/2021, grifou-se).
+Ante o exposto, indefiro liminarmente este habeas corpus.
+Publique-se. Intimem-se."
+Todavia, neste regimental, as razões recursais se limitaram à reiteração dos argumentos defendidos na inicial, em clara afronta ao enunciado n. 182 da Súmula do STJ: "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+No mesmo sentido, os seguintes precedentes:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. 10,69 KG DE MACONHA E 1,92 KG DE CRACK. SENTENÇA CONDENATÓRIA. WRIT IMPETRADO CONTRA ACÓRDÃO TRANSITADO EM JULGADO. SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA A COMPETÊNCIA DO STJ. SUPRESSÃO. INADMISSIBILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+1. Nos termos do entendimento consolidado no Superior Tribunal de Justiça, deve o agravo regimental impugnar especificamente os fundamentos da decisão agravada, sob pena de não ser conhecido.
+2. Agravo regimental não conhecido." (AgRg no HC 531.915/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 26/11/2019, DJe 05/12/2019, grifou-se).
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. INOCORRÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A TODOS OS FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA N. 182/STJ. AGRAVO DESPROVIDO.
+1. Consoante disposições do Código de Processo Civil e do Regimento Interno desta Corte (arts. 932, caput, do CPC e 255, § 4º, III, do RISTJ), o Relator deve fazer um estudo prévio da viabilidade do recurso especial, além de analisar se a tese encontra plausibilidade jurídica.
+2. E não há que se falar em afronta ao princípio da colegialidade e/ou cerceamento de defesa, pois a possibilidade de interposição de agravo regimental contra a respectiva decisão permite que a matéria seja apreciada pela Turma, afastando o vício suscitado pelo agravante.
+3. A falta de impugnação específica a todos os fundamentos utilizados na decisão agravada atrai a incidência do enunciado sumular n. 182 desta Corte Superior.
+4. Como tem reiteradamente decidido esta Corte, os recursos devem impugnar, de maneira específica e pormenorizada, os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos. Não são suficientes meras alegações genéricas sobre as razões que levaram à inadmissão do agravo ou do recurso especial ou à insistência no mérito da controvérsia.
+5. Agravo regimental a que se nega provimento." (AgRg no AREsp 1708623/SE, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 25/08/2020, DJe 31/08/2020, grifou-se).
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PRINCÍPIO DO JUIZ NATURAL. PREVENÇÃO. SÚMULA N. 706/STF. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ.
+1. "De acordo com a jurisprudência firmada por esta Corte de Justiça e pelo Supremo Tribunal Federal, eventual nulidade pela inobservância da regra de prevenção não é absoluta, mas relativa, cujo reconhecimento está condicionado à alegação no momento processual oportuno e à demonstração do prejuízo suportado pela parte, sob pena de preclusão.  ..  A questão inclusive foi objeto de súmula no Supremo Tribunal Federal, editada sob o n. 706, prevendo: É relativa a nulidade decorrente da inobservância da competência penal por prevenção" (HC n. 225.316, Ministro Og Fernandes, DJe 9/10/2013).
+2. Não havendo impugnação específica de todos os fundamentos da decisão que deixou de admitir o recurso especial, deve ser aplicado, por analogia, o teor da Súmula n. 182 deste Tribunal Superior. Precedentes da Corte Especial do STJ que não admitem a impugnação parcial do julgado.
+3. Agravo regimental desprovido." (AgRg no AREsp 168.010/DF, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 25/08/2020, DJe 28/08/2020, grifou-se).
+"AGRAVO REGIMENTAL NA REVISÃO CRIMINAL. CRIME TRIBUTÁRIO. REVISÃO CRIMINAL. PLEITO QUE NÃO SE ENQUADRA NAS HIPÓTESES DO ART. 621 DO CÓDIGO DE PROCESSO PENAL. INDEFERIMENTO LIMINAR. AUSÊNCIA DE IMPUGNAÇÃO DO ÚNICO FUNDAMENTO DA DECISÃO AGRAVADA. ÓBICE DO VERBETE SUMULAR 182/STJ. RECURSO DO QUAL NÃO SE CONHECE.
+1. A decisão impugnada deixou consignado que o pleito revisional não se enquadra em nenhuma das hipóteses de cabimento previstas no art. 621 do Código de Processo Penal, já que se tratava de mera irresignação com o indeferimento do pleito de suspensão do processo e da pretensão punitiva, fundado em pacífica jurisprudência desta Corte. Esse fundamento, contudo, não foi impugnado pela parte agravante, que, nas razões deste regimental, apenas reiterou os argumentos antes aduzidos no pedido revisional.
+2. Deixando a parte agravante de impugnar especificamente os fundamentos da decisão agravada, é de se aplicar o enunciado 182 da Súmula do Superior Tribunal de Justiça, que afirma ser "inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+3. Não fosse tal fato, o pleito foi analisado e indeferido nos autos do agravo em recurso especial e, agora, reiterado com os mesmos fundamentos. Logo, não se pode conhecer do pedido, "pois a revisão criminal não pode ser utilizada para que a parte, a qualquer tempo, busque novamente rediscutir questões de mérito, por mera irresignação quanto ao provimento jurisdicional obtido" (AgRg na RvCr 4.463/AC, Rel. Ministro FELIX FISCHER, TERCEIRA SEÇÃO, julgado em 28/11/2018, DJe 04/12/2018).
+4. Agravo regimental do qual não se conhece." (AgRg na RvCr 5.110/DF, Rel. Ministro JORGE MUSSI, TERCEIRA SEÇÃO, julgado em 24/06/2020, DJe 04/08/2020, grifou-se).
+Ante o exposto, não conheço do agravo regimental.
+É o voto.
