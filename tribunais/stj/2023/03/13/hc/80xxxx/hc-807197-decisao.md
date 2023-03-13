@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de VERONICA KUBIAK VALLANDRO em que se aponta como autoridade coatora o TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO (HC n. 5007147-37.2023.4.04.0000/RS).
+Consta dos autos que a paciente celebrou acordo de não persecução penal, em decorrência da suposta prática do delito capitulado no art. 312 do Código Penal, sendo uma das condições impostas a obrigação de prestação de 300 horas de serviços à comunidade ou a entidades públicas, em local a ser indicado pelo juízo da execução, com carga horária mínima de 30 horas mensais e máxima de 60 horas mensais. No curso da execução do acordo, a paciente requereu a comutação da pena de prestação de serviços à comunidade, com fundamento no artigo 15 do Decreto n. 11.302/2022, entretanto, o pleito formulado foi indeferido.
+Alega a impetrante/paciente a ocorrência de constrangimento ilegal decorrente da decisão monocrática que rejeitou liminarmente a petição inicial do writ impetrado na origem.
+A impetrante/paciente sustenta que "a redação utilizada pelo legislador (A pessoa submetida à pena de prestação de serviços à comunidade) não limita a aplicação da comutação aos casos nos quais a prestação de serviços comunitários origine-se de condenação criminal." (fl. 05). Além disso, aduz que a autoridade coatora aplicou interpretação restritiva, inaceitável no Direito Penal e prejudicial à paciente, a fim de negar a aplicação de benefício legalmente previsto. Assevera que a benesse é aplicável também aos casos em que a obrigação de prestação de serviços à comunidade tenha sido em sede de acordo de não persecução penal.
+Requer, liminarmente, que seja sustada a execução do acordo de não persecução penal n. 5062726.78.2021.4.04.7100 até o julgamento do mérito do presente writ e, ao final, seja deferida a comutação de pena, com base no art. 15 do Decreto n. 11.302/2022.
+É, no essencial, o relatório. Decido.
+O writ não merece prosperar.
+A decisão combatida foi proferida monocraticamente pelo Desembargador relator na origem, não havendo, pois, deliberação colegiada do tribunal a quo sobre a matéria trazida na presente impetração, o que inviabiliza o seu conhecimento por esta Corte Superior em razão da ausência de exaurimento de instância.
+Nesse sentido, confiram-se os seguintes julgados:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. INTERPOSIÇÃO DE DOIS RECURSOS. PRINCÍPIO DA UNIRRECORRIBILIDADE E DA PRECLUSÃO CONSUMATIVA. INVIABILIDADE DE ANÁLISE DO ÚLTIMO. TRÁFICO ILÍCITO DE ENTORPECENTES. WRIT CONTRA DECISÃO MONOCRÁTICA. QUESTÃO NÃO APRECIADA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. NECESSIDADE DE INTERPOSIÇÃO DE AGRAVO REGIMENTAL. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+2. Não é cabível a impetração de habeas corpus contra decisão monocrática de desembargador, sendo necessária a interposição de recurso para submissão do decisum ao colegiado competente a fim de que ocorra o exaurimento de instância (art. 105, II, a, da Constituição Federal).
+ ..  (AgRg no HC n. 743.582/SP, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 14/6/2022, DJe de 17/6/2022.)
+EMBARGOS DE DECLARAÇÃO NO RECURSO EM HABEAS CORPUS RECEBIDOS COMO AGRAVO REGIMENTAL. PRINCÍPIO DA FUNGIBILIDADE. WRIT IMPETRADO CONTRA DECISÃO MONOCRÁTICA. NÃO CABIMENTO.
+1. Esta Corte entende que não é cabível a impetração do writ contra decisão monocrática proferida pelo Tribunal de origem, tendo em vista ser necessária a interposição do recurso adequado para a submissão do respectivo decisum ao colegiado daquele Tribunal, de modo a exaurir referida instância. Precedentes do STJ.
+2. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento. (EDcl no RHC n. 160.065/PE, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 8/3/2022, DJe de 11/3/2022.)
+Ante o exposto, com fundamento no art. 21, XIII, "c", c/c o art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
