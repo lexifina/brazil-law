@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/03/2023 a 13/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Sebastião Reis Júnior e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Rogerio Schietti Cruz.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por CAIO VINCIGUERRI CAMARGO contra decisão monocrática de lavra da Presidência desta Casa que indeferiu liminarmente o habeas corpus (e-STJ fls. 32/34).
+Em suas razões, reitera a defesa a ilegalidade, ante a ausência de fundamentação idônea, da decisão que manteve a medida excepcional.
+Destaca a primariedade e os bons antecedentes do réu.
+Ressalta que a "eventual violência empregada para a subtração da coisa não indica cautelaridade da prisão, mas, quando muito, reprovabilidade da conduta, a ser verificada ao final do processo" (e-STJ fl. 37).
+Diante disso, pede "a reconsideração da decisão agrava; e, caso não seja este o entendimento, que seja o presente agravo regimental conhecido e provido, para que conceda a ordem de Habeas Corpus , fazendo cessar o constrangimento ilegal do paciente" (e-STJ fl. 38).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. SÚMULA N. 691 DO STF. DECISÃO DO MINISTRO PRESIDENTE QUE INDEFERIU LIMINARMENTE O PEDIDO. TERATOLOGIA OU FALTA DE RAZOABILIDADE NÃO EVIDENCIADAS DE PLANO. JULGAMENTO MERITÓRIO. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência desta Corte é firme na compreensão de que não tem cabimento o habeas corpus para desafiar decisão do relator que indeferiu o pedido liminar. Inteligência do enunciado sumular 691 do Supremo Tribunal Federal (precedentes).
+2. Os rigores do mencionado verbete somente são abrandados nos casos de manifesta teratologia da decisão ou constatação de falta de razoabilidade.
+3. No caso, a princípio, verifica-se que o decisum apontou dados extraídos do caso concreto aptos a justificar a custódia cautelar, notadamente a mecânica delitiva empregada pelos acusados, o emprego de arma de fogo e a restrição à liberdade da vítima, razão pela qual não ressai, de plano, flagrante ilegalidade que autorize a superação do enunciado sumular referido.
+4. Deve-se, portanto, aguardar o julgamento meritório da impetração perante o Tribunal de origem, sob pena de indevida supressão de instância.
+5 . Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+O recurso não merece prosperar, tendo em vista a inexistência de argumentos capazes de infirmar os fundamentos da decisão recorrida.
+O Superior Tribunal de Justiça tem jurisprudência firmada de que não cabe habeas corpus contra decisão que indefere liminar, a não ser que fique demonstrada flagrante ilegalidade (enunciado 691 da Súmula do Supremo Tribunal Federal), o que não ocorre na espécie.
+A propósito:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO CONTRA INDEFERIMENTO DE LIMINAR NO TRIBUNAL DE ORIGEM. SUMULA 691/STF. COMPETÊNCIA DESTA CORTE QUE AINDA NÃO SE INAUGUROU. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE PROVA DO ALEGADO CONSTRANGIMENTO ILEGAL.
+1. Não cabe habeas corpus perante esta Corte contra o indeferimento de liminar em writ impetrado no Tribunal de origem. Aplicação da Súmula 691 do Supremo Tribunal Federal.  ..
+3. Agravo regimental improvido.
+(AgRg no HC 349.925/RJ, relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 10/3/2016, DJe 16/3/2016.)
+No caso, consta do decreto constritivo o que se segue (e-STJ fls. 11/13):
+Os averiguados foram presos em flagrante delito porque teriam, em tese, previamente combinados e com unidade de propósitos, mediante grave ameaça exercida com emprego de arma de fogo e restrição da liberdade da vítima, subtraído seu veículo e a coagido a realizar transferências bancárias. 6- Segundo consta dos autos, Policiais Militares desta cidade, em patrulhamento de rotina, foram acionados para atendimento à uma ocorrência de roubo em andamento, sendo que o veículo subtraído, com a vítima ainda em poder dos assaltantes, ora averiguados, estava sendo acompanhado pela aeronave Águia da corporação. Com base nas informações passadas, localizaram o veículo circulando em via pública e, dada ordem de parada, iniciou-se a perseguição policial, sendo que os assaltantes (averiguados) empreenderam alta velocidade pelas ruas da cidade, colocando em risco pedestres e outros condutores de automóveis. Em dado momento, todavia, colidiram contra uma porteira de madeira, ao adentrar uma estrada de terra, e acabaram abandonando o veículo. Os assaltantes (averiguados) ainda tentaram fuga a pé, mas acabaram sendo detidos. No veículo roubado foi encontrada ainda a arma de fogo utilizada pelos assaltantes (averiguados). 7- O contexto dos fatos, portanto, observados os depoimentos colhidos até o momento, indica, em princípio, possam os averiguados estar de fato envolvidos na prática de um crime de roubo, mediante concurso de agentes, emprego de arma de fogo e restrição da liberdade da vítima. 8- No que tange à necessidade da manutenção da custódia cautelar, reputo assistir razão à representação ofertada pela Autoridade Policial. O crime em exame revela diferenciada periculosidade, dado o fato de se tratar de ação ilícita previamente tramada, com possível envolvimento de terceiros ainda não identificados, restrição da liberdade da vítima para que seja constrangida a realizar operações bancárias em favor dos agentes e emprego de arma de fogo em sua execução, cujo contexto indica concreto risco à integridade física do ofendido. 9- Note -se, ademais, que pessoas que se predispõem a praticar crimes desta natureza possuem, em regra, personalidade violenta e danosa, a exigir, consequentemente, pronta atuação estatal, como forma a impedir que a sociedade fique à mercê de indivíduos desta estirpe, que atentam de forma desmedida contra a integridade física e patrimônio alheio, pondo em sobressalto as pessoas de bem e gerando, na maioria dos casos, traumas e sequelas irreparáveis a suas vítimas. 10- Diante desse quadro, tem-se, em princípio, como incompatível a liberdade a quem está envolvido na prática de crime dessa espécie, mormente em sede exame de comunicação da lavratura do flagrante delito. 11- Assim, por todas essas razões e atento ao fato de existir prova da materialidade do delito e suficientes indícios da autoria, pelos averiguados, é que estabeleço a PRISÃO PREVENTIVA de GUSTAVO HENRIQUE DA SILVA NASCIMENTO e CAIO VINCIGUERRI CAMARGO, nos termos dos artigos 310, 311 e 312 do Código de Processo Penal. Expeça(m)-se mandado(s) de prisão.
+A princípio, entendo que o decisum apontou dados extraídos do caso concreto aptos a justificar a prisão preventiva, notadamente a mecânica delitiva empregada pelos acusados, o emprego de arma de fogo e a restrição à liberdade da vítima, razão pela qual não ressai, de plano, flagrante ilegalidade que autorize a superação do enunciado sumular referido.
+Assim, a questão em exame necessita de averiguação mais aprofundada pelo Tribunal estadual, que deverá apreciar a argumentação contida na impetração no momento adequado.
+Sem isso, fica esta Corte impedida de analisar o alegado constrangimento ilegal, sob pena de incorrer em indevida supressão de instância e de incidir em patente desprestígio às instâncias ordinárias.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
