@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/03/2023 a 13/03/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Humberto Martins, Herman Benjamin e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de embargos de declaração (fls. 1531/1535 ) apresentados contra acórdão sintetizado na seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. PROTESTO DA CDA. POSSIBILIDADE. 1. Em sede de acórdão submetido ao regime dos recursos repetitivos (REsp 1686659/SP, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, julgado em 28/11/2018, DJe 11/03/2019), a Primeira Seção/STJ pacificou entendimento no sentido de que a Fazenda Pública possui interesse e pode efetivar o protesto da CDA, documento de dívida, na forma do art. 1º, parágrafo único, da Lei n. 9.492/1997, com a redação dada pela Lei n. 12.767/2012. 2. Agravo interno não provido.
+A embargante sustenta, em suma, que:
+Ora, ao decidir desta forma, o Eminente Relator terminou por ignorar fundamentos de alta relevância para o desfecho do caso, tendo em vista que a Embargante demonstrou que o TRF-5 decidiu que o objetivo do protesto é recuperar o crédito por meio da coerção da publicidade de seu registro, de modo que a consequente restrição de compras e de financiamentos pode gerar abalos a empresa recuperanda, dificultando o seu soerguimento, porque as consequências práticas do protesto podem repercutir de maneira danosa na imagem da empresa, impedindo o estabelecimento de novas relações comerciais, podendo até mesmo ocasionar a sua falência.
+Entretanto, a decisão embargada sequer se manifestou quanto ao argumento de que a Embargante está em recuperação judicial! Ao ignorar tal fato, a decisão embargada deixou de enfrentar a ratio decidendi do acórdão recorrido, que revela que a manutenção do protesto inviabilizaria o soerguimento da empresa em recuperação judicial
+Além disso, também foi omissa quanto ao argumento de que a conclusão adotada pelo Tribunal a quo, está em linha com a jurisprudência desta E. Corte, que já se posicionou no julgado do REsp n. 1.630.932, DJe 18.06.2019, Rel. Ministro Paulo de Tarso Sanseverino no sentido da possibilidade de suspensão do protesto em face de empresa que detenha o atributo de recuperanda.
+Requer sejam acolhidos os embargos.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO. AUSÊNCIA DE OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL.
+1. Não havendo omissão, obscuridade, contradição ou erro material, merecem ser rejeitados os embargos de declaração opostos, sobretudo quando contêm elementos meramente impugnativos.
+2. Embargos de declaração rejeitados.
+VOTO
+O recurso não merece prosperar.
+Os embargos de declaração têm a finalidade de completar a decisão omissa ou, ainda, de aclará-la, dissipando obscuridades ou contradições, ou para a correção de erro material. Não têm caráter substitutivo, modificador ou infringente do julgado, mas sim integrativo ou aclaratório. O objetivo dos embargos não pode ser a infringência, a qual, por ventura, ocorreria como consequência da supressão de omissão, ou da resolução de obscuridade ou de contradição (cf. NERY JUNIOR, Nelson. NERY, Rosa Maria de Andrade. Código de Processo Civil comentado  livro eletrônico . 3. ed. São Paulo: Thomson Reuters Brasil, 2018).
+Observo que o caso em apreço não comporta os presentes aclaratórios, pois o julgado recorrido apresenta fundamento suficiente, exauriente e específico. Confira-se:
+(..) em sede de acórdão submetido ao regime dos recursos repetitivos (REsp 1686659/SP, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, julgado em 28/11/2018, DJe 11/03/2019), a Primeira Seção/STJ pacificou entendimento no sentido de que a Fazenda Pública possui interesse e pode efetivar o protesto da CDA, documento de dívida, na forma do art. 1º, parágrafo único, da Lei n. 9.492/1997, com a redação dada pela Lei n. 12.767/2012 (Informativo 643/STJ). A respeito:
+(..)
+Destaque-se, por fim, que a Lei n. 11.101/2005 não veda o protesto de títulos executivos extrajudiciais; ao contrário, devem constar do pedido de recuperação para fins de delimitação das obrigações a serem cumpridas pelo empresário devedor durante o período acordado com os credores (REsp 1.932.057/RS, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 10/05/2021).
+Desse modo, a questão foi apreciada de modo adequado, e o mero inconformismo com a conclusão do julgado não enseja a utilização da via de embargos de declaração, que é limitada às hipóteses elencadas no art. 1.022 do CPC/2015.
+Os embargos de declaração não servem para que se adequem os fundamentos do acórdão ao entendimento da parte embargante, nem para o acolhimento de pretensões que refletem mero inconformismo, e, menos ainda, para rediscussão de matéria já resolvida (cf. EDcl no AgInt no RE nos EDcl no AgInt no RMS 52.333/GO, Rel. Ministro HUMBERTO MARTINS, CORTE ESPECIAL, DJe 29/06/2018; EDcl no MS 20.816/DF, Rel. Ministro JORGE MUSSI, CORTE ESPECIAL, DJe 17/04/2018; EDcl nos EDcl nos EDcl no AgInt nos EDcl nos EREsp 1491187/SC, Rel. Ministro MAURO CAMPBELL MARQUES, CORTE ESPECIAL, DJe 23/03/2018).
+Assim, não havendo omissão, obscuridade, contradição ou erro material, merecem ser rejeitados os embargos de declaração opostos, sobretudo quando contêm elementos meramente impugnativos. Nesse sentido: EDcl no AgRg no Ag 1.218.989/SP, 2ª Turma, Rel. Min. Humberto Martins, DJe de 7.5.2010; EDcl no REsp 1.118.103/SP, 1ª Turma, Rel. Min. Teori Albino Zavascki, DJe de 20.4.2010.
+Diante do exposto, REJEITO os embargos de declaração.
+É o voto.
