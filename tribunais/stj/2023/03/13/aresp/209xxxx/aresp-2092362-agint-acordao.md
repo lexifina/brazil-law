@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/03/2023 a 13/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Humberto Martins, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que julgou agravo interposto por Robson Wallace da Silva Conceição contra a decisão que inadmitiu o recurso especial fundado no art. 105, III, a, da Constituição Federal.
+Na origem, Robson Wallace da Silva Conceição ajuizou ação ordinária contra a União objetivando sua incorporação e/ou enquadramento no SIMP-PAPEM, para que, a partir de 6/10/2004, fosse dado a ele amparo pela Marinha, relativamente à cota-parte da pensão a que faria jus, na qualidade de dependente e pensionista, por ser portador de esquizofrenia (alienação mental), encontrando-se inválido para todo e qualquer trabalho e sem condições de prover a própria subsistência.
+Narra que, desde a infância, é portador de disritmia mental, razão pela qual faz tratamento no Serviço Médico da Marinha. Todavia, a União veio a suprimir a pensão que recebia.
+Deu-se à causa o valor de R$ 33.752,00 (trinta e três mil e setecentos e cinquenta e dois reais) em março de 2011.
+A sentença julgou procedente o pedido.
+O Tribunal Regional Federal da 2ª Região deu provimento à remessa e à apelação da União, para reformar a sentença e julgar improcedente o pedido, conforme acórdão assim ementado (fl. 521-522):
+APELAÇÃO CÍVEL. ADMINISTRATIVO. PENSÃO MILITAR. FILHO MAIOR E INVÁLIDO. RATEIO COM A MÃE BENEFICIÁRIA PREFERENCIAL. IMPOSSIBILIDADE. LEI 3.765/60 (REDAÇÃO ORIGINAL). REMESSA E APELAÇÃO IMPROVIDAS.
+1. TRATA-SE DE REMESSA E APELAÇÃO INTERPOSTA PELA UNIÃO FEDERAL EM FACE DA SENTENÇA PROLATADA NOS AUTOS DESTA AÇÃO ORDINÁRIA, QUE JULGOU PROCEDENTE O PEDIDO, NOS TERMOS DO ART. 487, I, DO CPC/2015, PARA DETERMINAR QUE A APELANTE HABILITE ROBSON WALLACE DA SILVA CONCEICAO, REPRESENTADO PELA DEFENSORIA PÚBLICA DA UNIÃO, COMO BENEFICIÁRIO DA PENSÃO POR MORTE INSTITUÍDA POR SEU GENITOR, REINALDO DA CONCEIÇÃO, EX- MILITAR DA MARINHA DO BRASIL, NA COTA PARTE A QUE FIZER JUS, PAGANDO-SE OS ATRASADOS DEVIDOS DESDE A DATA DA CITAÇÃO. A SENTENÇA CONDENOU, AINDA, A UNIÃO AO PAGAMENTO DE HONORÁRIOS ADVOCATÍCIOS, OS QUAIS FORAM FIXADOS EM 10% (DEZ POR CENTO) SOBRE O VALOR DA CONDENAÇÃO.
+2. SEGUNDO JURISPRUDÊNCIA SEDIMENTADA NO ÂMBITO DO E. SUPREMO TRIBUNAL FEDERAL (RE-AGR 638227, 1ª TURMA, REL. MIN. LUIZ FUX, DE 16/10/2012), A LEI REGENTE DA PENSÃO É AQUELA EM VIGOR NA DATA DO FALECIMENTO DO INSTITUIDOR. COMPULSANDO OS AUTOS VERIFICA-SE QUE O INSTITUIDOR DA PENSÃO FALECEU NO DIA 11.05.1990, INCIDINDO, PORTANTO, O REGULAMENTO PREVISTO NA LEI 3.765/60 (DISPÕE SOBRE AS PENSÕES MILITARES), COM A REDAÇÃO ANTERIOR ÀS ALTERAÇÕES INTRODUZIDAS PELA MP Nº 2.215-10/2001.
+3. A REVERSÃO DA PENSÃO MILITAR, QUE É O CASO NOS PRESENTES AUTOS, SOMENTE OCORRERÁ COM O FALECIMENTO DO BENEFICIÁRIO QUE ESTIVER NO GOZO DA PENSÃO OU A CESSAÇÃO DE SEU DIREITO À MESMA, QUE, IN CASU, ESTÁ SENDO PAGA À VIÚVA DO INSTITUIDOR E GENITORA DO RECORRIDO, NELMA DA SILVA CONCEIÇÃO, CONFORME TÍTULO DE PENSÃO MILITAR Nº 55.323.
+4. NESSE CONTEXTO, NÃO É CABÍVEL O RATEIO DA PENSÃO POR MORTE DO MILITAR ENTRE A VIÚVA E O FILHO DO CASAL, POIS OS ARTIGOS 7º E 9º DA LEI 3.765/1960, VIGENTE À ÉPOCA DA MORTE DO INSTITUIDOR, PREVE EM UMA ORDEM DE PREFERÊNCIA ENTRE OS POSSÍVEIS BENEFICIÁRIOS, E, NO PRESENTE CASO, A VIÚVA PRECEDE AO FILHO NESSA ORDEM.
+5. NESSE PARTICULAR, URGE TRAZER À COLAÇÃO AS INFORMAÇÕES PRESTADAS PELA MARINHA DO BRASIL, VERBIS:
+"ADEMAIS, MESMO QUE RECONHECIDO O DIREITO DO AUTOR À COTA PARTE DA PENSÃO DEIXADA PELO INSTITUIDOR, O DEMANDANTE, AINDA ASSIM, POR EXPRESSA DISPOSIÇÃO LEGAL, NÃO FARÁ JUS AO EFETIVO RECEBIMENTO DE SUA COTA PARTE, POIS ESTA DEVERÁ SER INCORPORADA À COTA DE SUA GENITORA, DE ACORDO COM A INTELIGÊNCIA DO ART. 9º, § 3º DA LEI Nº 3.765/60  .. ".
+6. PRECEDENTES: TRF2 - APELREEX 0140189-11.2014.4.02.5120, REL. DESEMBARGADOR FEDERAL LUIZ PAULO DA SILVA ARAUJO FILHO - 7ª TURMA ESPECIALIZADA. DATA: 24.04.2017; TRF2 - APELREEX 0020969-13.2013.4.02.5101, REL. DESEMBARGADOR FEDERAL SERGIO SCHWAITZER - 7ª TURMA ESPECIALIZADA. DATA: 10.03.2016; TRF2 - AC 0026579-40.2005.4.02.5101, REL.
+DESEMBARGADORA FEDERAL SIMONE SCHREIBER, 8ª TURMA ESPECIALIZADA - DATA: 09.01.2014.7. REMESSA E APELAÇÃO PROVIDAS PARA REFORMAR A SENTENÇA E JULGAR IMPROCEDENTE O PEDIDO, NOS TERMOS DA FUNDAMENTAÇÃO SUPRA, CONDENANDO O APELADO AO PAGAMENTO DE HONORÁRIOS ADVOCATÍCIOS, FIXADOS EM 10% (DEZ PORCENTO) SOBRE O VALOR DA CAUSA ATUALIZADO, SUSPENDENDO-SE, CONTUDO, A EXIGIBILIDADE DIANTE DA GRATUIDADE DE JUSTIÇA DEFERIDA
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, alega o recorrente violação do art. 7º, § 2º, da Lei n. 3.765/1960, argumentando que o filho absolutamente incapaz tem direito a ser colocado na qualidade de dependente da pensão por morte de seu pai falecido, uma vez tendo sido demonstrado a sua dependência econômica.
+Após decisum que inadmitiu o recurso especial, foi interposto o presente agravo, tendo o recorrente apresentado argumentos visando rebater os fundamentos da decisão agravada.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 253, parágrafo único, II, a , do RISTJ, conheço do agravo para não conhecer do recurso especial."
+No agravo interno, a parte recorrente traz argumentos contrários à decisão recorrida.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. PENSÃO MILITAR. FILHO MAIOR E INVÁLIDO. RATEIO COM A MÃE BENEFICIÁRIA PREFERENCIAL. REEXAME DE FATOS E PROVAS. SÚMULA N. 7/STJ. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de ação objetivando a incorporação e/ou enquadramento do requerente no SIMP-PAPEM, relativamente à cota-parte da pensão a que faria jus, na qualidade de dependente e pensionista. A sentença julgou procedente o pedido. O Tribunal Regional Federal da 2ª Região deu provimento à remessa e à apelação da União, para reformar a sentença e julgar improcedente o pedido.
+II - No que tange ao dispositivo legal tido por violado, é incabível pela via do recurso especial a análise da alegada dependência econômica entre pai falecido e seu filho, dado que para tal seria necessário o cotejo entre a petição inicial e o acórdão recorrido, envolvendo assim análise fática, incidindo na espécie o óbice da Súmula n. 7/STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+III - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+No que tange ao dispositivo legal tido por violado, é incabível, pela via do recurso especial, a análise da alegada dependência econômica entre pai falecido e seu filho, dado que para tal seria necessário o cotejo entre a petição inicial e o acórdão recorrido, envolvendo assim análise fática, incidindo na espécie o óbice da Súmula n. 7/STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
