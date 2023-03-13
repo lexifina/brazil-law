@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/03/2023 a 13/03/2023, por unanimidade, acolher parcialmente os embargos de declaração, sem efeitos modificativos, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de embargos de declaração opostos por COMPANHIA PAULISTA DE FORÇA E LUZ contra acórdão da Segunda Turma do STJ que manteve decisão monocrática por mim proferida, no exercício da Presidência do STJ, por meio da qual apliquei a Súmula n. 182 do STJ (fls. 953-955).
+Interposto agravo interno, foi proferido o acórdão ora embargado, com a seguinte ementa (fl. 979):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. SÚMULA N. 182/STJ.
+1. A recorrente deixou de realizar o necessário e específico enfrentamento a todos os argumentos da decisão primeva de admissibilidade, o que atrai o óbice da Súmula n. 182/STJ. É vedado à insurgência valer-se do agravo interno para suprir o vício na fundamentação do recurso.
+2. Agravo interno a que se nega provimento.
+Sustenta a parte embargante que (fl. 986):
+A despeito do constante no v. acórdão, observa-se que em momento algum a CPFL pretendeu suprir qualquer "vício de fundamentação do recurso" por meio da interposição do Agravo Interno. A bem da verdade, a ora embargante se limitou a demonstrar por meio daquele recurso que, contrariamente ao que havia sido decidido por ocasião da decisão que inadmitiu seu REsp e não conheceu do AREsp, a CPFL impugnou sim, especificadamente, a violação ao art. 1.022 do CPC e a afronta aos dispositivos legais.
+Aduz ainda que a decisão embargada foi omissa quanto à alegação referente à não incidência de majoração dos honorários no caso (fl. 987).
+Requer, ao final, o acolhimento dos embargos declaratórios por entender indevida a aplicação da Súmula n. 182 do STJ e para que haja manifestação acerca dos honorários.
+É, no essencial, o relatório.
+EMENTA
+ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONCESSIONÁRIA DE ENERGIA ELÉTRICA. AUSÊNCIA DE VIOLAÇÃO DOS DISPOSITIVOS LEGAIS. AUSÊNCIA DE AFRONTA AO ART. 1.022 DO CPC. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. SÚMULA N. 182 DO STJ. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS DEVIDA.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado.
+2. Na hipótese dos autos, existe omissão no acórdão recorrido apenas quanto à apreciação da viabilidade ou não da majoração dos honorários advocatícios.
+3. O Superior Tribunal de Justiça consagrou o entendimento de que é devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC, quando estiverem presentes os seguintes requisitos, simultaneamente: a) decisão recorrida publicada a partir de 18/3/2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou não provido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios no feito em que interposto o recurso. No caso dos autos, observa-se que os requisitos supracitados estão presentes. Dessa forma, devida a majoração dos honorários.
+4. O acórdão embargado, de maneira clara e fundamentada, entendeu que houve correta aplicação da Súmula n. 182 do STJ ao caso concreto, tendo em vista a ausência violação aos dispositivos legais arrolados e ao art. 1.022 do CPC. A pretensão de rediscutir matéria devidamente abordada e decidida no julgado embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via eleita.
+Embargos de declaração acolhidos em parte, sem efeitos modificativos.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Nos termos do art. 1.022 do CPC, os embargos de declaração destinam-se a corrigir erro material, esclarecer obscuridade, eliminar contradição ou suprir omissão existente na decisão embargada.
+Os embargos de declaração opostos merecem parcial acolhimento, sem efeitos modificativos.
+Na hipótese dos autos, de fato existe omissão no acórdão recorrido, mas apenas quanto à apreciação sobre a majoração dos honorários advocatícios.
+Alega a embargante que a majoração não deve ser automática e deve ser cotejada à luz do ocorrido nos autos (fl. 965). Contudo, razão não lhe assiste, porquanto a majoração foi corretamente aplicada.
+O Superior Tribunal de Justiça consagrou o entendimento de que é devida a majoração da verba honorária sucumbencial, na forma do art. 85, §11, do CPC, quando estiverem presentes os seguintes requisitos, simultaneamente: a) decisão recorrida publicada a partir de 18/3/2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou não provido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios no feito em que interposto o recurso. Nesse sentido, cito:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. RECONSIDERAÇÃO DA DECISÃO AGRAVADA. ART. 85, § 11, DO CPC/2015. HONORÁRIOS RECURSAIS. SENTENÇA PUBLICADA NA VIGÊNCIA DO CPC/1973. ACÓRDÃO PUBLICADO APÓS A VIGÊNCIA DO CPC/2015. CABIMENTO. PRECEDENTES. AGRAVO INTERNO PROVIDO.
+1. A jurisprudência deste Tribunal Superior firmou-se no sentido de que os honorários recursais, previstos no art. 85, § 11, do CPC/2015, são devidos quando preenchidos, simultaneamente, os seguintes requisitos: a) decisão recorrida publicada a partir de 18/3/2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou não provido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios no feito em que interposto o recurso.
+2. No presente caso, o acórdão dos embargos de declaração, acolhidos com efeitos infringentes para negar provimento ao apelo do Sindicato e manter a sucumbência fixada na r. sentença, foi proferido pelo Tribunal de origem em 01/02/2017 e publicado em 19/02/2017 (e-STJ fl. 565), ou seja, na vigência do CPC/2015. Desta forma, majoro os honorários advocatícios devidos à União em 2% (dois por cento), fixando-os em 12% (doze por cento) sobre o valor da causa.
+3. Agravo interno provido.
+(AgInt nos EDcl no REsp n. 1.738.899/SC, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 20/9/2022, DJe de 27/9/2022.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VÍCIOS DO ART. 1.022 DO CPC. ARBITRAMENTO DE HONORÁRIOS SUCUMBENCIAIS. REQUISITOS VERIFICADOS. EMBARGOS ACOLHIDOS.
+1. O Superior Tribunal de Justiça consagrou o entendimento de que é apenas devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC, quando estiverem presentes os seguintes requisitos, simultaneamente: a) decisão recorrida publicada a partir de 18/3/2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou não provido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios no feito em que interposto o recurso.
+2. No caso dos autos, observa-se que os requisitos supracitados estão presentes. Dessa forma, são devidos honorários sucumbenciais recursais.
+3. Embargos de declaração acolhidos.
+(EDcl no AgInt no AREsp n. 1.712.653/PR, relator Ministro Og Fernandes, Segunda Turma, julgado em 7/6/2022, DJe de 17/6/2022.)
+No caso, verifica-se que estão preenchidos todos os requisitos expostos acima, razão pela qual se mostra correta a majoração dos honorários fixada na decisão de fls. 953-955.
+Em relação à incidência da Súmula n. 182 do STJ, inexistem vícios no julgado. Verifica-se que o acórdão embargado consignou que o embargante não se desincumbiu no agravo em recurso especial de impugnar todos os fundamentos da decisão combatida, notadamente a ausência de afronta ao art. 1.022 do CPC e a ausência de violação dos demais dispositivos legais arrolados no recurso especial (fl. 1.229).
+Prevê a Súmula n. 182 do STJ que: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". Percebe-se que as decisões proferidas no processo estão em consonância com o entendimento sumulado, porquanto o embargante não demonstrou violação dos dispositivos legais arrolados, nem eviden ciou os pontos omissos, contraditórios ou obscuros do acórdão recorrido.
+Portanto, acolho em parte os embargos de declaração, sem efeitos modificativos , apenas para confirmar a majoração da verba honorária estabelecida pela decisão de fls. 953-955 .
+É como penso. É como voto.
