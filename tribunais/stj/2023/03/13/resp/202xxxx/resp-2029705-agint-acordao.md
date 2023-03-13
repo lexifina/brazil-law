@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/03/2023 a 13/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Gurgel de Faria e Paulo Sérgio Domingues votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+Trata-se de Agravo Interno interposto por COMEXPORT TRADING COMÉRCIO EXTERIOR LTDA. contra a decisão monocrática de minha lavra que conheceu do Recurso Especial e lhe negou provimento, fundamentada na jurisprudência desta Corte.
+Sustenta a Agravante, em síntese, o seguinte (fls. 919/921e):
+Como se vê do Recurso Especial cujo provimento se requer, suscita a Agravante a violação ao art. 1.022, I e II, do CPC, bem como o art. 489, § 1º, IV e V, do CPC, que ocorreram com a rejeição dos embargos de declaração opostos contra o v. acórdão que negou provimento ao recurso de apelação, por ter deixado aquele D. Juízo de retificar as contradições e omissões constantes no v. acórdão embargado, a despeito da oposição do recurso cabível.
+Além do mais, a ora Agravante também demonstrou que o v. acórdão recorrido viola o art. 2º, § 2º, da Lei de Introdução às Normas do Direito Brasileiro (Decreto-Lei nº 4.657/1942 - LINDB), que estabelece que "a lei nova, que estabeleça disposições gerais ou especiais a par das já existentes, não revoga nem modifica a lei anterior", bem como o art. 7º, IV, da Lei Complementar nº 95/98, argumentos que não foram analisados por esta E. Corte na r. decisão agravada, tampouco nos julgados que a fundamentaram e, por isso, justificam a interposição do presente agravo interno.
+Além disso, a Agravante também demonstrou a violação ao art. 168, I, do CTN, ao art. 74 da Lei nº 9.430/1996 e à Súmula nº 213 desta E. Corte, em razão da manutenção nas r. decisões recorridas de restrições indevidas ao seu direito à compensação.
+Assim, diante do não enfrentamento de argumentos relevantes por esta E. Corte quanto ao mérito ora debatido, também não há que se falar na existência de jurisprudência pacificada que poderia justificar o julgamento monocrático do recurso, impondo-se, portanto, a interposição do presente Agravo Interno para reforma da r. decisão agravada, a fim de que ele seja provido, conduzindo-se também ao provimento doRecurso Especial anteriormente interposto.
+ ..
+Assim, apesar de também ter constado naquele v. acórdão que " e sta Corte firmou compreensão na mesma linha do acórdão embargado, segundo a qual a exigência do adicional de 1% (um por cento na alíquota da Cofins-Importação, previsto no § 21, do art. 8º da Lei n. 10.865/2004, na aquisição de aeronaves e peças de aeronave, é legítima", fato é que não houve a análise do mérito pela C. Primeira Seção deste E. Tribunal, que se limitou a entender pelo não cabimento de embargos de divergência naquele caso.
+Por fim, requer o provimento do recurso, a fim de que seja reformada a decisão impugnada e determinado o processamento do Recurso Especial ou, alternativamente, sua submissão ao pronunciamento do colegiado.
+Transcorreu in albis o prazo para impugnação (certidão de fl. 944e).
+É o relatório.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. COFINS-IMPORTAÇÃO. ART. 8º, §21, DA LEI N. 10.865/2004. IMPORTAÇÃO DE AERONAVES E SUAS PEÇAS. ADICIONAL DE 1% (UM POR CENTO). LEGALIDADE. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. INADEQUADA AO CASO CONCRETO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Esta Corte firmou compreensão segundo a qual é legítima a exigência do adicional de 1% (um por cento) na alíquota da Cofins-Importação, previsto no § 21, do art. 8º da Lei n. 10.865/2004, na importação de aeronaves e peças de aeronave.
+III - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+I V - Agravo Interno improvido.
+VOTO
+Por primeiro, consoante o decidido pelo Plenário desta Corte, na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Não assiste razão à Agravante.
+O posicionamento adotado pelo tribunal de origem é na mesma linha da orientação deste Superior Tribunal. Com efeito, esta Corte firmou compreensão segundo a qual é legítima a exigência do adicional de 1% (um por cento) na alíquota da Cofins-Importação, previsto no § 21, do art. 8º da Lei n. 10.865/2004, na importação de aeronaves e peças de aeronave.
+Nessa linha:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. SITUAÇÕES FÁTICO/JURÍDICAS DIVERSAS. AUSÊNCIA DE SIMILITUDE ENTRE OS JULGADOS CONFRONTADOS. ADICIONAL DE 1% (UM POR CENTO). ART. 8º, § 21, DA LEI N. 10.865/2004. AQUISIÇÃO DE AERONAVES E PEÇAS DE AERONAVES. LEGITIMIDADE. ACÓRDÃO EMBARGADO EM SINTONIA COM A ORIENTAÇÃO DA CORTE. SÚMULA N. 168/STJ. MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. INADEQUADA AO CASO CONCRETO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Para a comprovação de divergência jurisprudencial, impõe-se que os acórdãos confrontados tenham apreciado matéria idêntica, à luz da mesma legislação federal, dando-lhes, porém, soluções distintas. Precedentes.
+III - A ausência de similitude fático-jurídica entre os acórdãos confrontados impede o conhecimento dos embargos de divergência, que têm como escopo único uniformizar a jurisprudência do Tribunal, não se prestando para ser utilizado como via de rejulgamento do Recurso Especial.
+IV - Esta Corte firmou compreensão na mesma linha do acórdão embargado, segundo a qual a exigência do adicional de 1% (um por cento) na alíquota da Cofins-Importação, previsto no § 21, do art. 8º da Lei n.10.865/2004, na aquisição de aeronaves e peças de aeronave, é legítima.
+V - Nos termos da Súmula n. 168/STJ, "Não cabem embargos de divergência, quando a jurisprudência do tribunal se firmou no mesmo sentido do acórdão embargado".
+VI - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VII - Agravo Interno improvido.
+(AgInt nos EREsp n. 1.896.233/DF, de minha relatoria, Primeira Seção, julgado em 30/8/2022, DJe de 1/9/2022.)
+TRIBUTÁRIO E PROCESSUAL CIVIL. COFINS-IMPORTAÇÃO. ADICIONAL DE 1%. AERONAVES. ANTERIOR ALÍQUOTA ZERO. AUSÊNCIA DE INCOMPATIBILIDADE. INTERPRETAÇÃO EXTENSIVA. DESCABIMENTO. PRECEDENTE DA SEGUNDA TURMA DO STJ.
+1. A questão principal consiste em definir se o adicional de 1% à Cofins-Importação pela Lei 12.844/2013 que acrescentou o § 21 ao art. 8º da Lei 10.865/2004  é aplicável às aeronaves classificadas na posição 88.02 da NCM, as quais tiveram o benefício de redução à alíquota zero concedido pela Lei 10.925/2004.
+2. Não há incompatibilidade alguma entre a instituição de adicional de 1% e a existência de norma anterior que estabelece alíquota zero para determinado bem.
+3. Conforme prescreve o art. 12, III, da LC 95/1998, a alteração de lei pode ocorrer "por meio de substituição, no próprio texto, do dispositivo alterado, ou acréscimo de dispositivo novo".
+4. In casu, o legislador optou pelo acréscimo de dispositivo (§ 21), o qual se dirige de forma ampla a todas as alíquotas do art. 8º ao enunciar que "As alíquotas da Cofins-Importação de que trata este artigo ficam acrescidas de um ponto percentual..".
+5. A Segunda Turma do STJ, em julgamento realizado no dia 24.10.2017, apreciando recurso de idêntica natureza, também interposto pela ora recorrente, concluiu que é exigível a exação em tela sobre a importação de aeronave classificada na posição 88.02 da NCM, à alíquota de 1%, nos termos do art. 8º, § 21, da Lei 10.865/2004 (REsp 1.660.652/RS, Relator Ministro Francisco Falcão, DJe 31.10.2017).
+6. Agravo Interno não provido.
+(AgInt no REsp 1899384/MG, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 14/06/2021, DJe 01/07/2021)
+Na mesma linha:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. ADCIONAL DE 1% (UM POR CENTO). ART. 8º, § 21, DA LEI N. 10.865/2004. AQUISIÇÃO DE AERONAVES E PEÇAS DE AERONAVES. LEGITIMIDADE. ACÓRDÃO EMBARGADO EM SINTONIA COM A ORIENTAÇÃO DA CORTE. SÚMULA N. 168/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. "Esta Corte firmou compreensão na mesma linha do acórdão embargado, segundo a qual a exigência do adicional de 1% (um por cento) na alíquota da Cofins-Importação, previsto no § 21, do art. 8º da Lei n.10.865/2004, na aquisição de aeronaves e peças de aeronave, é legítima" (AgInt nos EREsp n. 1.896.233/DF, relatora Ministra Regina Helena Costa, Primeira Seção, julgado em 30/8/2022, DJe de 1/9/2022.).
+3. Nos termos da Súmula n. 168/STJ, "Não cabem embargos de divergência, quando a jurisprudência do tribunal se firmou no mesmo sentido do acórdão embargado".
+4. Agravo interno não provido.
+(AgInt nos EREsp n. 1.897.526/MG, relator Ministro Benedito Gonçalves, Primeira Seção, julgado em 16/11/2022, DJe de 21/11/2022.)
+Nesse cenário, impõe-se a incidência da Súmula n. 83/STJ, que se aplica tanto aos recursos especiais interpostos pela alínea a quanto pela c do permissivo constitucional.
+Assim, em que pesem as alegações trazidas, os argumentos apresentados são insuficientes para desconstituir a decisão impugnada.
+No que se refere à aplicação do art. 1.021, § 4º, do CPC/2015, a orientação desta Corte é no sen tido de que o mero inconformismo com a decisão agravada não enseja a imposição da multa, não se tratando de simples decorrência lógica do não provimento do recurso em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso. Nessa linha: Corte Especial, AgInt nos EAREsp n. 1.043.437/SP, Rel. Ministro JORGE MUSSI, j. 13.10.2021; e 1ª S., AgInt nos EREsp n. 1.311.383/RS, Rel. Ministra ASSUSETE MAGALHÃES, j. 14.09.2016.
+Apesar do improvimento do recurso, não restou configurada a manifesta inadmissibilidade, razão pela qual afasto a apontada multa.
+Posto isso, NEGO PROVIMENTO ao Agravo Interno
