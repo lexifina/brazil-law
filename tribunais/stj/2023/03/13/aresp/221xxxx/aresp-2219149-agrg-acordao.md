@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/03/2023 a 13/03/2023, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Sebastião Reis Júnior e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Rogerio Schietti Cruz.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto contra decisão da lavra da Presidência desta Corte (e-STJ fls. 709/710) que não conheceu do agravo em recurso especial nos seguintes termos:
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n. 02 e n. 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive;
+ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise do recurso de KENEDY DE ALMEIDA ALEXANDRINO, a parte recorrente foi intimada do v. acórdão recorrido em 09/12/2020, sendo o recurso especial somente interposto em 08/01/2021.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias corridos, nos termos do art. 994, VI, c/c os arts. 1.003, § 5º, e 1.029, todos do Código de Processo Civil, bem como do art. 798 do Código de Processo Penal.
+Cumpre observar que, "de acordo com a jurisprudência desta Corte, não se aplica o disposto no art. 220 do CPC, regulamentado pela Resolução CNJ n. 244, de 19/9/2016, nos feitos com tramitação perante a justiça criminal, ante a especialidade das disposições previstas no art. 798, caput, e § 3º, do CPP, motivo pelo qual não há falar em suspensão dos prazos entre os dias 20 de dezembro a 20 de janeiro". (AgRg no AREsp 1698961/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 13/08/2020.) Além disso, em consonância com o regramento do art. 798, caput e § 3º, do Código de Processo Penal, de que os prazos processuais penais são contínuos e peremptórios, não se interrompendo por férias, domingo ou dia feriado, o "recesso judiciário e o período de férias coletivas, em matéria processual penal, têm como efeito, em relação aos prazos vencidos no seu curso, a mera prorrogação do vencimento para o primeiro dia útil subsequente ao seu término, não havendo interrupção ou suspensão". (AgRg no AREsp 1612424/MG, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 18/6/2020.) Ademais, a parte recorrente foi intimada da decisão agravada em 29/04/2022, sendo o agravo somente interposto em 18/05/2022.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias corridos, nos termos do art. 994, VIII, c/c os arts. 1.003, § 5º, 1.042, caput, do Código de Processo Civil, bem como do art. 798 do Código de Processo Penal.
+A propósito, nos termos do § 6º do art. 1.003 do mesmo código, "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", o que impossibilita a regularização posterior.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+No presente regimental, a defesa sustenta que "a apreciação do mérito do Agravo de Instrumento no Recurso Especial é indispensável, porquanto o Agravante confeccionou tópico específico, em sede de preliminar (item II. 1.), no Recurso Especial sobre sua tempestividade, informando que a decisão prolatada, em sede de embargos de declaração, foi publicada, no D.J.MG, no dia 07-12-2020, contudo o prazo foi objeto de suspensão por portaria expedidas pelo próprio Eg. TJMG" (e-STJ fl. 717).
+Assim, requer a reconsideração da decisão agravada ou a submissão da matéria ao colegiado.
+Instado a se manifestar, o Ministério Público Federal opinou pelo não conhecimento do recurso, nos termos da seguinte ementa (e-STJ fl. 731):
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. INTEMPESTIVIDADE DOS AGRAVOS. ART. 219 DO CPC. INAPLICABILIDADE AO PROCESSO PENAL.
+1. O agravo regimental é intempestivo, porque a decisão agravada foi publicada no dia 11/11/2022 (sexta-feira), tendo o início do prazo recursal se dado no dia 14/11/2022 (segunda-feira) e findado em 18/11/2022 (sexta- feira), mas o agravo regimental foi interposto somente em 21/11/2022, fora, portanto, do prazo de 5 dias.
+2. O agravo em recurso especial também foi interposto intempestivamente. A decisão de inadmissibilidade do recurso especial foi publicada no dia 29/4/2022 (sexta-feira), tendo o início do prazo recursal se dado no dia 2/5/2022 (segunda-feira) e findado em 16/05/2022 (segunda- feira), mas o agravo em recurso especial foi interposto somente em 18/5/2022, fora, portanto, do prazo de 15 dias.
+3. O entendimento do Superior Tribunal de Justiça é o de que, " ..  em ações que tratam de matéria penal ou processual penal não incidem as novas regras do Código de Processo Civil - CPC, referentes à contagem dos prazos em dias úteis (art. 219 da Lei n. 13.105/2015), ante a existência de norma específica a regular a contagem do prazo (art. 798 do CPP), uma vez que o CPC é aplicado somente de forma suplementar ao processo penal" (AgRg no AREsp n. 981.030/PE, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 16/2/2017, DJe 22/2/2017).
+4. Parecer pelo não conhecimento do agravo.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. EXECUÇÃO PENAL. AGRAVO INTERPOSTO APÓS O PRAZO DE CINCO DIAS PREVISTO NO ART. 39 DA LEI N. 8.038/1990 E NO ART. 258, CAPUT, DO REGIMENTO INTERNO DO SUPERIOR TRIBUNAL DE JUSTIÇA. INTEMPESTIVIDADE. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Nos termos dos arts. 258, caput, do Regimento Interno do Superior Tribunal de Justiça; 39 da Lei n. 8.038/1990; e 798, caput e § 3º, do Código de Processo Penal, é intempestivo o agravo regimental interposto fora do prazo de 5 dias corridos.
+2. De acordo com o entendimento do Superior Tribunal de Justiça, " ..  em ações que tratam de matéria penal ou processual penal, não incidem as novas regras do Código de Processo Civil - CPC, referentes à contagem dos prazos em dias úteis (art. 219 da Lei n. 13.105/2015), ante a existência de norma específica a regular a contagem do prazo (art. 798 do CPP), uma vez que o CPC é aplicado somente de forma suplementar ao processo penal" (AgRg no AREsp n. 981.030/PE, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 16/2/2017, DJe de 22/2/2017).
+3. No caso dos autos, a decisão ora agravada foi publicada no dia 7/2/2020, e o presente recurso foi interposto em 2/3/2020, quando já havia escoado o prazo legal de 5 dias para a sua interposição.
+4. Agravo regimental não conhecido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+O presente agravo regimental não cumpre o pressuposto objetivo de admissibilidade do recurso consistente na tempestividade da irresignação.
+Com efeito, nos termos dos arts. 258, caput, do Regimento Interno do Superior Tribunal de Justiça; 39 da Lei n. 8.038/1990; e 798, caput e § 3º, do Código de Processo Penal, é intempestivo o agravo regimental interposto fora do prazo de 5 dias corridos.
+E, de acordo com o entendimento do Superior Tribunal de Justiça, " ..  em ações que tratam de matéria penal ou processual penal, não incidem as novas regras do Código de Processo Civil - CPC, referentes à contagem dos prazos em dias úteis (art. 219 da Lei n. 13.105/2015), ante a existência de norma específica a regular a contagem do prazo (art. 798 do CPP), uma vez que o CPC é aplicado somente de forma suplementar ao processo penal" (AgRg no AREsp n. 981.030/PE, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 16/2/2017, DJe de 22/2/2017).
+No caso dos autos, a decisão ora agravada foi publicada no dia 11/11/2022 (e-STJ fl. 711), e o presente recurso foi interposto em 21/11/2022 (e-STJ fl. 715), quando já havia escoado o prazo legal de 5 dias para a sua interposição.
+Ante o exposto, não conheço do agravo regimental.
+É o voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
