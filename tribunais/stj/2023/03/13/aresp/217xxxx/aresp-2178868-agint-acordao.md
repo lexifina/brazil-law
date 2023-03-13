@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/03/2023 a 13/03/2023, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+Trata-se de agravo interno interposto pelo MUNICÍPIO DE AMARANTE DO MARANHÃO contra a decisão que não conheceu de seu agravo em recurso especial em razão da incidência da Súmula 182 do STJ.
+Em suas razões recursais, a parte agravante alega: (a) é inaplicável a Súmula 7/STJ, pois não busca o reexame de provas, mas sim a análise de matéria de direito; (b) não é caso de incidência da Súmula 280/STF, já que a violação aos arts. 6º, 357, I, II, III e IV, 373, I, e 493 do CPC/2015 "evidenciam a divergência jurisprudencial a respeito da ausência de saneamento e valoração no conjunto das provas dos autos sendo o acordão devidamente prequestionado, o que por sua vez afasta a aplicabilidade da súmula supracitada, pois transcende a arguição de direito local"; (c) "as questões suscitadas no presente recurso, não configura o objeto do art. 932, inciso III, do CPC e Sum. 280/STF, pois o debate trazido à baila foi amplamente impugnado, não incorrendo, portanto, com a regra ajustada no art. 932, inciso III, do CPC, foi especificadamente, infirmado, não configurando-se, portanto, fundamentação dissociada, afastando o que aponta o teor da Súmula 280/STF".
+Requer, por fim, o provimento do agravo para que seja determinado o processamento do recurso especial para a apreciação do mérito.
+Impugnação ao recurso não apresentada conforme a certidão de fl. 352.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. APLICAÇÃO. AGRAVO INTERNO NÃO CONHECIDO.
+1. A decisão ora recorrida não conheceu do agravo em razão da falta de impugnação aos fundamentos da decisão agravada. Em razão disso, consignou-se a incidência da Súmula 182 do STJ.
+2. A parte, para ver examinado por esta Corte Superior seu recurso especial inadmitido, precisa, primeiro, desconstituir os fundamentos utilizados para a negativa de admissão daquele recurso sob pena de vê-los mantidos.
+3. Neste recurso, a parte agravante igualmente não rebate as razões expostas na decisão que visa a impugnar, repetindo, pois, o vício anteriormente detectado. Aplicável ao caso a Súmula 182 do STJ, segundo a qual "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+4. Para controverter a incidência da Súmula 182 do STJ, é dever da parte agravante demonstrar, no agravo interno, de forma clara e objetiva, que o agravo em recurso especial impugnou todos os fundamentos da decisão de inadmissão do Tribunal de origem, o que não ocorreu.
+5. A jurisprudência do STJ firmou-se no sentido de que a impugnação tardia dos fundamentos do julgado que inadmitiu o recurso especial (somente nas razões do agravo interno), além de caracterizar inovação recursal, não afasta a aplicação da Súmula 182/STJ, tendo em vista a ocorrência de preclusão consumativa.
+6. Agravo interno não conhecido.
+VOTO
+A decisão ora recorrida não conheceu do agravo em razão da falta de impugnação aos fundamentos da decisão agravada. Em razão disso, consignou-se a incidência da Súmula 182 do STJ.
+Como é cediço, a parte, para ver examinado por esta Corte Superior seu recurso especial inadmitido, precisa, primeiro, desconstituir os fundamentos utilizados para a negativa de admissão daquele recurso sob pena de vê-los mantidos.
+Neste recurso, a parte agravante igualmente não rebate as razões expostas na decisão que visa a impugnar, repetindo, pois, o vício anteriormente detectado. Aplicável ao caso a Súmula 182 do STJ, segundo a qual "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Para controverter a incidência da Súmula 182 do STJ, é dever da parte agravante demonstrar, no agravo interno, de forma clara e objetiva, que o agravo em recurso especial impugnou todos os fundamentos da decisão de inadmissão do Tribunal de origem, o que não ocorreu.
+A jurisprudência do STJ firmou-se no sentido de que a impugnação tardia dos fundamentos do julgado que inadmitiu o recurso especial (somente nas razões do agravo interno), além de caracterizar inovação recursal, não afasta a aplicação da Súmula 182/STJ, tendo em vista a ocorrência de preclusão consumativa. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. DECISÃO QUE NÃO ADMITIU O RECURSO ESPECIAL. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. NÃO PROVIDO. IMPUGNAÇÃO TARDIA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. PRECLUSÃO. PRECEDENTES. MULTA. ARTIGO 1.021, § 4º, DO CPC/2015. DESCABIMENTO.
+ ..
+3. A impugnação tardia dos fundamentos da decisão que não admitiu o recurso especial, somente por ocasião do manejo de agravo interno, além de caracterizar inovação no recurso, não tem o condão de afastar a aplicação do referido verbete sumular n. 182 desta Corte Superior, tendo em vista a ocorrência de preclusão consumativa. Precedentes.
+ ..
+5. Agravo interno a que se nega provimento (AgInt no AREsp 1587824/MG, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 23/03/2020, DJe 26/03/2020).
+PROCESSUAL CIVIL. DIREITO PÚBLICO. PREVIDENCIÁRIO. APOSENTADORIA ESPECIAL. NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL QUE NÃO ATACA OS FUNDAMENTOS DA DECISÃO RECORRIDA.
+ ..
+III - Incumbe à parte, no agravo em recurso especial, atacar os fundamentos da decisão que negou seguimento ao recurso na origem. Não o fazendo, é correta a decisão que não conhece do agravo nos próprios autos. Conforme a jurisprudência, a impugnação tardia dos fundamentos da decisão que negou seguimento ao recurso especial (somente por ocasião do manejo de agravo interno), além de caracterizar imprópria inovação recursal, não afasta o vício do agravo em recurso especial, ante a preclusão consumativa. Precedentes: AgInt no AREsp n. 888.241/ES, Rel. Ministro Marco Buzzi, Quarta Turma, julgado em 6/4/2017, DJe 19/4/2017; AgInt no AREsp n. 1.036.445/SP, Rel. Ministra Regina Helena Costa, Primeira Turma, julgado em 4/4/2017, DJe 17/4/2017; AgInt no AREsp n. 1.006.712/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, julgado em 9/3/2017, DJe 16/3/2017.
+IV - Agravo interno improvido (AgInt no AREsp 1468938/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 10/12/2019, DJe 13/12/2019).
+Registro, ainda, que o recurso de a gravo, tanto aquele previsto no art. 1.042 do CPC/2015 como o dito regimental ou interno previsto no art. 1.021, § 1º, do CPC/2015, objetiva desconstituir os fundamentos que impediram o processamento do recurso especial; o recurso não comporta seguimento sem essa providência.
+Pelas considerações expostas, não conheço do agravo interno do MUNICÍPIO DE AMARANTE DO MARANHÃO.
+É como voto.
