@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/03/2023 a 13/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Rogerio Schietti Cruz.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+RELATÓRIO
+Trago à apreciação da Sexta Turma o agravo regimental interposto por Italo Breno de Brito Gomes - preso preventivamente desde 18/3/2022, porque, supostamente, juntamente com outros 5 indivíduos, nos Autos n. 5000687-07.2022.8.24.0282, participa de crimes de organização criminosa (facção criminosa Primeiro Grupo Catarinense), tráfico de drogas e associação para o tráfico de drogas, e se encontra preso d esde o dia 18 de março de 2022 (fls. 13/51) - contra a decisão, de minha lavra, que indeferiu liminarmente o writ impetrado a seu favor (fls. 54/57).
+Esta, a ementa do acórdão impugnado (fl. 54):
+HABEAS CORPUS. DIREITO PENAL E PROCESSO PENAL. LEGISLAÇÃO EXTRAVAGANTE. OPERAÇÃO COMARCA. TRÁFICO DE DROGAS. ART. 33, CAPUT, E ART. 35, CAPUT, C/C O ART. 40, IV E VI, TODOS DA LEI N. 11.343/2006, E ART. 2º, § 4º, I, DA LEI N. 12.850/2013. FACÇÃO CRIMINOSA PRIMEIRO GRUPO CATARINENSE. ASSOCIAÇÃO PARA O TRÁFICO. ORGANIZAÇÃO CRIMINOSA COM PARTICIPAÇÃO DE CRIANÇA E ADOLESCENTE. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DO DELITO. PRESERVAÇÃO DA ORDEM PÚBLICA. EXCESSO DE PRAZO. CONSTRANGIMENTO ILEGAL. NÃO OCORRÊNCIA.
+Writ indeferido liminarmente.
+Afirma-se, no recurso, que inexistem quaisquer das hipóteses previstas no art. 312 do Código de Processo Penal, a autorizar o pedido de liberdade do paciente (fls. 59/68).
+Pede o provimento deste agravo regimental, nos termos do writ impetrado.
+Instado, o Ministério Público estadual se manifestou pelo desprovimento da insurgência recursal (fls. 82/88).
+O Ministério Público Federal opinou pelo não conhecimento da insurgência (fls. 90/92).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. DIREITO PENAL E PROCESSO PENAL. LEGISLAÇÃO EXTRAVAGANTE. OPERAÇÃO COMARCA. TRÁFICO DE DROGAS. ART. 33, CAPUT, E ART. 35, CAPUT, C/C O ART. 40, IV E VI, TODOS DA LEI N. 11.343/2006, E ART. 2º, § 4º, I, DA LEI N. 12.850/2013. FACÇÃO CRIMINOSA PRIMEIRO GRUPO CATARINENSE. ASSOCIAÇÃO PARA O TRÁFICO. ORGANIZAÇÃO CRIMINOSA COM PARTICIPAÇÃO DE CRIANÇA E ADOLESCENTE. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DO DELITO. PRESERVAÇÃO DA ORDEM PÚBLICA. EXCESSO DE PRAZO. CONSTRANGIMENTO ILEGAL. NÃO OCORRÊNCIA.
+1. Não se identifica, por ora, manifesto constrangimento ilegal imposto ao paciente passível de ser reparado por este Superior Tribunal, em razão do suposto excesso de prazo na formação da culpa, na medida em que não se verifica desídia do Poder Judiciário (AgRg no RHC n. 127.214/MG, Ministro Ribeiro Dantas, Quinta Turma, DJe 20/10/2022).
+2. A parte agravante não reuniu elementos suficientes para infirmar o decisum agravado, o que autoriza a sua manutenção.
+3. Agravo regimental improvido.
+VOTO
+As razões trazidas no regimental não são suficientes para infirmar o entendimento exposto na decisão ora agravada, que foi amparada em precedentes deste Superior Tribunal.
+No caso, contravindo os argumentos dispostos neste writ, o voto condutor do acórdão impugnado, ao ratificar os termos da decisão do Juízo de Direito de primeiro grau - no sentido de preservar a ordem pública -, considerou ausente o suposto excesso de prazo para a formação da culpa, nos seguintes termos (fls. 27/29):
+ ..
+Por fim, cumpre afastar a alegação de excesso de prazo na formação de culpa, porquanto, ao contrário do que entendeu o impetrante, da análise dos autos de origem, é possível concluir que os atos processuais estão sendo cumpridos regularmente, não sendo sobrestados, em momento algum, de maneira indevida.
+Como se sabe, os prazos estipulados na legislação penal para o curso da marcha processual, incluídos, aqui, aqueles relativos ao término da instrução e prolação de sentença, devem ser analisados com cautela e à luz da máxima razoabilidade, resguardadas aquelas situações excepcionais em que a demora seja justificada, conforma anota Júlio Fabbrini Mirabete:
+ ..
+Logo, os prazos processuais não devem ser interpretados de maneira literal, e sim com certa razoabilidade, considerando, também, as peculiaridades processuais de cada hipótese.
+No presente caso, em que pese o argumento ventilado pelo impetrante, observa-se que a tramitação da ação penal originária, a todo tempo, segue seu curso normal, não havendo demora injustificada capaz de ensejar a configuração excesso de prazo.
+O paciente encontra-se segregado desde 18 de março de 2022, ou seja, há pouco mais de 7 (sete) meses. A instrução processual, por outro lado, encontra-se em regular curso, em 31/3/2022, houve o oferecimento da denúncia, no dia seguinte, restou determinada a notificação dos denunciados (Eventos 1 e 11 da ação penal). Oferecido aditamento à denúncia (em 22/4/2022), este foi recebido em 26/4/2022, oportunidade em que se determinou a notificação dos acusados para oferecerem ou complementarem suas defesas (Eventos 81 e 86 dos autos de origem). Apresentadas as defesas pelos réus (conforme certificado - evento 412), os autos foram conclusos para o gabinete para análise e designação de audiência de instrução e julgamento.
+Diante de tal cenário (e da complexidade da causa e da quantidade de réus), imperioso concluir que não houve desídia ou demora injustificada no decorrer do trâmite processual, mas, a rigor, o processamento do feito em prazo razoável, conforme as particularidades da hipótese e as possibilidades do juízo.
+ ..
+Desse modo, incabível a alegação de excesso de prazo, porquanto inexistente morosidade da justiça.
+Ante o exposto, sendo a custódia proveniente de imperativo legal e de decisões fundamentadas, além de inexistir ilegalidade ou constrangimento ilegal a ser sanado, voto no sentido de conhecer do presente remédio constitucional e denegar a ordem.
+ ..
+Não obstante o paciente estar preso desde 18/3/2022, trata-se de um feito complexo, de natureza grave, que envolve 6 acusados pela prática de crimes de organização criminosa (facção criminosa Primeiro Grupo Catarinense), tráfico de drogas e associação para o tráfico de drogas; inclusive, não há quaisquer atos procrastinatórios por parte das autoridades públicas (AgRg no RHC n. 156.936/RS, da minha relatoria, Sexta Turma, DJe 21/10/2022).
+Assim, não se identifica, por ora, manifesto constrangimento ilegal imposto ao paciente passível de ser reparado por este Superior Tribunal, em razão do suposto excesso de prazo na formação da culpa, na medida em que não se verifica desídia do Poder Judiciário (AgRg no RHC n. 127.214/MG, Ministro Ribeiro Dantas, Quinta Turma, DJe 20/10/2022).
+Por conseguinte, a custódia está corretamente motivada no modus operandi e na gravidade concreta do crime (AgRg no RHC n. 161.712/CE, da minha relatoria, Sexta Turma, DJe 9/5/2022).
+Inclusive, o Supremo Tribunal Federal já se pronunciou no sentido de que não há ilegalidade na custódia devidamente fundamentada na periculosidade do agravante para a ordem pública, em face do modus operandi e da gravidade em concreto da conduta (HC n. 146.874 AgR, Ministro Dias Toffoli, Segunda Turma, julgado em 6/10/2017, DJe 26/10/2017) - (HC n. 459.437/RJ, Ministra Laurita Vaz, Sexta Turma, DJe 7/11/2018).
+Por conseguinte, o acórdão impugnado está em consonância com a jurisprudência deste Superior Tribunal, que considera o seguinte: o reconhecimento de pessoa, presencialmente ou por fotografia, realizado na fase do inquérito policial, apenas é apto para identificar o réu e fixar a autoria delitiva quando observadas as formalidades previstas no art. 226, do CPP e quando corroborado por outras provas colhidas na fase judicial, sob o crivo do contraditório e da ampla defesa. Precedentes (EDcl no AgRg no REsp n. 2.010.343/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 19/12/2022.)
+Assim, reafirmo a motivação por mim adotada na decisão ora agravada e nego provimento ao agravo regimental.
