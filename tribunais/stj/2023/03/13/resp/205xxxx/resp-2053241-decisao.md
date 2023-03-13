@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, inc. III, "a", da Constituição Federal, contra acórdão proferido pelo TJDFT assim ementado (fl. 37):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. EMPRESA. DISSOLUÇÃO IRREGULAR. INOCORRÊNCIA. REDIRECIONAMENTO. SÓCIO ADMINISTRADOR. IMPOSSIBILIDADE. SÚMULA 435 DO STJ. INAPLICABILIDADE. LIAME. CONDUTA. SÓCIO. COMPROVAÇÃO. NECESSIDADE.
+1. O Superior Tribunal de Justiça, ao julgar o REsp 1.371.128/RS sob a sistemática dos recursos repetitivos (Tema 630), fixou a seguinte tese: "Em execução fiscal de dívida ativa tributária ou não- tributária, dissolvida irregularmente a empresa, está legitimado o redirecionamento ao sócio-gerente".
+2. Presume-se dissolvida irregularmente a empresa que deixar de funcionar no seu domicílio fiscal, sem comunicação aos órgãos competentes, legitimando o redirecionamento da execução fiscal para o sócio-gerente (STJ, Súmula 435).
+3. O redirecionamento da execução fiscal não pode ocorrer de maneira automática, uma vez que é necessário instaurar procedimento administrativo ou judicial adequado para confirmar a existência inequívoca de liame entre eventuais condutas ilícitas imputadas aos sócios (art. 135 do CTN) e o inadimplemento do tributo.
+4. A extinção da pessoa jurídica por liquidação voluntária afasta a presunção de dissolução irregular.
+5. Recurso conhecido e não provido.
+Embargos de declaração não providos.
+O recorrente alega violação dos arts. 9º, §4º, da LC 123/2006 e 135 do CTN, sob os seguintes argumentos: a) o acórdão recorrido entendeu que o art. 9º, §4º, da LC 123/2006 não autoriza o redirecionamento automático da execução fiscal, mas apenas prevê a hipótese excepcional de responsabilidade solidária dos sócios e administradores, sendo que para a apuração de eventuais condutas ilícitas imputadas aos sócios (art. 135 do CTN) seria necessário processo administrativo ou judicial; b) é certa, ao revés, a possibilidade de instauração de incidente processual nos próprios autos, a exemplo do incidente de desconsideração da personalidade jurídica, não se fazendo mister a abertura de nova ação autônoma; c) ao contrário do afirmado no acórdão recorrido, a liquidação voluntária não afasta a dissolução regular, tendo o STJ já decidido que a empresa que dá baixa na Junta Comercial, ainda com débito não liquidado, poderá ter redirecionada a execução fiscal para os seus sócios.
+Juízo positivo de admissibilidade às fls. 82-83.
+É o relatório. Passo a decidir.
+Consigna-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele prevista, conforme Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, evidencia-se que, no caso dos autos, o recorrente apresentou argumentos genéricos, vagos a respeito da suposta ofensa aos arts. 9º, §4º, da LC 123/2006 e 135 do CTN e que se encontram dissociados dos fundamentos aplicados pelo acórdão recorrido, situação que não permite a exata compreensão da controvérsia e impede o conhecimento do recurso. A isso se acrescenta que os dispositivos indicados como malferidos não contêm comando normativo capaz de sustentar a tese deduzida e infirmar a validade dos fundamentos do julgado . Aplica-se à hipótese, por ambos os motivos, a Súmula 284/STF.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 9º, §4º, DA LC 123/2006 E 135 DO CTN. DEFICIÊNCIA NA ARGUMENTAÇÃO RECURSAL E AUSÊNCIA DE COMANDO NORMATIVO. SÚMULA 284/STF. RECURSO ESPECIAL NÃO CONHECIDO.
