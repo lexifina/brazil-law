@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/03/2023 a 13/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (RELATOR): Trata-se de agravo interno manejado por Tigre Materiais e Soluções para Construção Ltda. e outro desafiando a decisão de fls. 3.645/3.647, que negou provimento ao recurso especial, ao fundamento de que o acórdão recorrido está em consonância com entendimento desta Corte no sentido da impossibilidade de ampliação do limite de 30% para compensação de prejuízos fiscais de IRPJ e bases de cálculo negativas da CSLL.
+A parte agravante, em suas razões, sustenta que "seja reconsiderada a decisão ora recorrida, e apreciado o mérito sob o viés de afronta aos artigos 15 e 16 da Lei nº 9.065/95 e 42 e 58 da Lei nº 8.981/95, quando da limitação da compensação da totalidade do prejuízo fiscal em caso de extinção, incorporação, fusão ou cisão de sua atividade social, porquanto a limitação acarreta na tributação pelo IRPJ e CSLL sobre patrimônio, ao invés de lucro e renda, nos termos da fundamentação." (fl. 3.663).
+Transcorreu in albis o prazo para impugnação (fl. 3.669).
+É O RELATÓRIO.
+EMENTA
+TRIBUTÁRIO. PESSOA JURÍDICA EXTINTA. COMPENSAÇÃO DE PREJUÍZOS FISCAIS. NATUREZA JURÍDICA. BENEFÍCIO FISCAL. LIMITAÇÃO DE 30%. AMPLIAÇÃO. IMPOSSIBILIDADE.
+1. É legal o limite da compensação em 30% do lucro líquido tributável em um dado período de apuração em relação aos prejuízos fiscais acumulados em exercícios anteriores, nos termos dos arts. 42 e 58 da Lei n. 8.981/95, para fins de determinação da base de cálculo do Imposto de Renda e da Contribuição Social sobre o Lucro Líquido. Precedentes.
+2. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (RELATOR): A irresignação não merece acolhimento, tendo em conta que a parte agravante não logrou desenvolver argumentação apta a desconstituir os fundamentos adotados pela decisão recorrida, que ora submeto ao Colegiado para serem confirmados:
+Trata-se de recurso especial manejado por Tigre Materiais e Soluções para Construção Ltda. e outro, com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 3.482):
+TRIBUTÁRIO. IRPJ. CSLL. COMPENSAÇÃO DE PREJUÍZOS FISCAIS.
+LIMITAÇÃO DE 30%. LEI Nº 8.981/95 E LEI 9.065/95. LEGALIDADE E CONSTITUCIONALIDADE.
+1. É assente na jurisprudência desta Corte e do STJ a legalidade da limitação da compensação em 30% dos prejuízos fiscais acumulados em exercícios anteriores com a finalidade de determinação da base de cálculo da CSLL e do IRPJ.
+2 . "É constitucional a limitação do direito de compensação de prejuízos fiscais do IRPJ e da base de cálculo negativa da CSLL" (RE 591.340 - Tema 117/STF).
+Os embargos declaratórios opostos foram rejeitados (fls. 3.513/3.518).
+Nas razões do recurso especial, a parte recorrente aponta violação aos arts. 42 e 58 da Lei 8.981/95 e 15 e 16 da Lei 9.065/95. Sustenta, em resumo, "que seja afastada a limitação da compensação da totalidade do prejuízo fiscal das Recorrentes em caso de extinção, incorporação, fusão ou cisão de sua atividade social, porquanto a limitação acarreta na tributação pelo IRPJ e CSLL sobre patrimônio, ao invés de lucro e renda, em total afronta aos artigos 15 e 16 da Lei nº 9.065/95 e 42 e 58 da Lei nº 8.981/95." (fl. 3.539).
+Contrarrazões apresentadas às fls. 3.578/3.586.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Acerca do tema trazido à apreciação, a Primeira Turma deste STJ, no julgamento do REsp 1.805.925/SP, firmou o entendimento no sentido da impossibilidade de ampliação do limite de 30% para compensação de prejuízos fiscais.
+Confira-se a ementa do referido julgado:
+TRIBUTÁRIO. EMPRESA EXTINTA POR INCORPORAÇÃO. COMPENSAÇÃO DE PREJUÍZOS FISCAIS. NATUREZA JURÍDICA. BENEFÍCIO FISCAL. LIMITAÇÃO DE 30%. AMPLIAÇÃO. IMPOSSIBILIDADE.
+1. A legislação do IRPJ e da CSLL permite que eventuais prejuízos fiscais apurados em períodos anteriores sejam compensados com os lucros apurados posteriormente, estabelecendo que a referida compensação é limitada a 30% (trinta por cento) do lucro real, por ano- calendário.
+2. O STF considerou que a natureza jurídica da compensação de prejuízos fiscais do IRPJ e da base de cálculo negativa da CSLL é de benefício fiscal, decidindo pela constitucionalidade da lei que impôs o limite de 30% (trinta por cento) para que (a compensação) pudesse ser efetivada.
+3. Inexiste permissão legal para que, em caso de extinção da empresa por incorporação, os seus prejuízos fiscais sejam compensados sem qualquer limitação.
+4. No direito tributário, ramo do direito público, a relação jurídica só pode decorrer de norma positiva, sendo certo que o silêncio da lei não cria direitos nem para o contribuinte nem para o Fisco e, sendo a compensação um benefício fiscal, a interpretação deve ser restritiva, não se podendo ampliar o sentido da lei nem o seu significado, nos termos do art. 111 do Código Tributário Nacional.
+5. Havendo norma expressa que limita a compensação de prejuízos fiscais do IRPJ e bases de cálculo negativas da CSLL a 30% (trinta por cento) do lucro líquido ajustado do exercício em que se der a compensação, sem nenhuma ressalva à possibilidade de compensação acima desse limite nos casos de extinção da empresa, não pode o Judiciário se substituir ao legislador e, fazendo uma interpretação extensiva da legislação tributária, ampliar a fruição de um benefício fiscal.
+6. Recurso especial da Fazenda Nacional provido.
+(REsp 1.805.925/SP, Rel. Ministro Napoleão Nunes Maia Filho, Rel. p/ Acórdão Ministro Gurgel de Faria, Primeira Turma, DJe 05/08/2020)
+Na mesma linha de raciocínio:
+TRIBUTÁRIO. EMPRESA. COMPENSAÇÃO DE PREJUÍZOS FISCAIS. NATUREZA JURÍDICA. BENEFÍCIO FISCAL. LIMITAÇÃO DE 30%. AMPLIAÇÃO. IMPOSSIBILIDADE.
+1. A legislação do IRPJ e da CSLL permite que eventuais prejuízos fiscais apurados em períodos anteriores sejam compensados com os lucros apurados posteriormente, estabelecendo que a referida compensação é limitada a 30% (trinta por cento) do lucro real, por ano-calendário.
+2. O STF considerou que a natureza jurídica da compensação de prejuízos fiscais do IRPJ e da base de cálculo negativa da CSLL é de benefício fiscal, decidindo pela constitucionalidade da lei que impôs o limite de 30% para que (a compensação) pudesse ser efetivada.
+3. No direito tributário, ramo do direito público, a relação jurídica só pode decorrer de norma positiva, sendo certo que o silêncio da lei não cria direitos nem para o contribuinte nem para o Fisco e, sendo a compensação um benefício fiscal, a interpretação deve ser restritiva, não se podendo ampliar o sentido da lei nem o seu significado, nos termos do art. 111 do Código Tributário Nacional.
+4. Havendo norma expressa que limita a compensação de prejuízos fiscais do IRPJ e bases de cálculo negativas da CSLL a 30% do lucro líquido ajustado do exercício em que se der a compensação, sem nenhuma ressalva à possibilidade de compensação acima desse limite nos casos de extinção da empresa, não pode o Judiciário se substituir ao legislador e, fazendo uma interpretação extensiva da legislação tributária, ampliar a fruição de um benefício fiscal.5. Agravo Interno não provido.
+(AgInt no REsp 1935751/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 25/10/2021, DJe 04/11/2021)
+Assim, encontrando-se o acórdão recorrido em conformidade com o entendimento firmado nesta Corte, não prospera o presente recurso.
+ANTE O EXPOSTO, nego provimento ao recurso especial.
+Publique-se.
+Conforme já mencionado, a jurisprudência desta Corte é firme no sentido da impossibilidade de ampliação do limite de 30% para compensação de prejuízos fiscais de IRPJ e bases de cálculo negativas da CSLL, mesmo no caso de pessoa jurídica extinta.
+Em reforço, confiram-se:
+TRIBUTÁRIO E PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. IRPJ E CSLL. COMPENSAÇÃO DE PREJUÍZOS FISCAIS. ARTS. 42 E 58 DA LEI 8.981/95. LEGALIDADE DO LIMITE. SÚMULA 83/STJ.
+1. O Agravo Interno não procede.
+2. A legislação do IRPJ e da CSLL permite que eventuais prejuízos fiscais apurados em períodos anteriores sejam compensados com os lucros apurados posteriormente, e estabelece que a referida compensação é limitada a 30% (trinta por cento) do lucro real por ano-calendário.
+3. O STF considerou que a natureza jurídica da compensação de prejuízos fiscais do IRPJ e da base de cálculo negativa da CSLL é de benefício fiscal, decidindo pela constitucionalidade da lei que impôs o limite de 30% (trinta por cento) para que a compensação pudesse ser efetivada. Inexiste permissão legal para que, caso a empresa seja extinta por i ncorporação, seus prejuízos fiscais sejam compensados sem qualquer limitação.
+4. Logo, "havendo norma expressa limitando a compensação de prejuízos fiscais de IRPJ e CSLL a 30% do lucro líquido ajustado do exercício em que se der a compensação, sem qualquer ressalva à possibilidade de compensação acima desse limite nos casos de liquidação da empresa, não pode o Poder Judiciário se substituir ao legislador e ampliar o limite estabelecido" (AgInt nos EDcl no AREsp 1.685.511/RJ, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 17.6.2021). O acórdão recorrido, portanto, está em sintonia com o atual entendimento do STJ, pelo que incide a Súmula 83/STJ.
+5. Por essas mesmas razões, inexiste ofensa aos arts. 489, § 1º, IV, 1.022, II, e parágrafo único, II, do CPC/2015, e revela-se desnecessária a análise de todos os pontos levantados, uma vez que seriam incapazes de infirmar a conclusão adotada, nos termos do art. 489, §1º, IV, do CPC/2015.
+6. "Consoante consolidado na jurisprudência desta Corte, é legal o limite da compensação em 30% do lucro líquido tributável em um dado período de apuração em relação aos prejuízos fiscais acumulados em exercícios anteriores, nos termos dos arts. 42 e 58, da Lei nº 8.981/95, para fins de determinação da base de cálculo do Imposto de Renda e da Contribuição Social sobre o Lucro Líquido. Precedentes: AgRg no REsp 1027320/SP, Segunda Turma, Rel. Min. Castro Meira, julgado em 21/08/2008, DJe 23/09/2008; AgRg no Ag 935.250/SP, Segunda Turma, Rel. Min. Mauro Campbell Marques, julgado em 09/09/2008, DJe 14/10/2008; EREsp nº 429.730 - RJ, Primeira Seção, Rel. Min. João Otávio de Noronha, julgado em 9.3.2005. Nesse sentido também: REsp nº 1314.207/SP, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 10/8/2015. O STF considerou constitucional a limitação a 30% para compensação de prejuízo fiscal no IRPJ e CSLL no âmbito do RE 591.340, em repercussão geral. Havendo norma expressa limitando a compensação de prejuízos fiscais de IRPJ e CSLL a 30% do lucro líquido ajustado do exercício em que se der a compensação, sem qualquer ressalva à possibilidade de compensação acima desse limite nos casos de liquidação da empresa, não pode o Poder Judiciário se substituir ao legislador e ampliar o limite estabelecido." (AgInt nos EDcl no AREsp 1.685.511/RJ, Rel. Ministro Ministro Mauro Campbell Marques, Segunda Turma, DJe 17.6.2021).
+7. Agravo Interno não provido.
+(AgInt no AREsp n. 2.061.196/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 19/9/2022, DJe de 30/9/2022.)
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. JULGAMENTO EXTRA PETITA. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 211/STJ. IMPOSTO DE RENDA PESSOA JURÍDICA. COMPENSAÇÃO DOS PREJUÍZOS FISCAIS. LIMITAÇÃO DE 30% EM CADA EXERCÍCIO. LEI 8.891/95. LEGITIMIDADE.
+1. A falta de prequestionamento da matéria suscitada no recurso especial impede o seu conhecimento, a teor da Súmula 211/STJ.
+2. A limitação da compensação em 30% dos prejuízos fiscais acumulados em exercícios anteriores, para fins de determinação da base de cálculo da Contribuição Social sobre o Lucro (CSLL) e do Imposto de Renda, não se encontra eivada de ilegalidade (AgRg no REsp 1.223.443/PR, Rel. Min. BENEDITO GONÇALVES, Primeira Turma).
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.481.696/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 26/4/2021, DJe de 28/4/2021.)
+ANTE O EXPOSTO, nego provimento ao agravo interno.
+É como voto.
