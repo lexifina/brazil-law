@@ -1,0 +1,24 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/03/2023 a 13/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno manejado contra decisão proferida às fls. 371-376, na qual neguei provimento ao agravo interposto pela parte ora recorrente.
+A parte agravante alega que não incide a Súmula 7 desta Corte no caso. Afirma que "Como pode verificar durante todo o processo foi demonstrado que os atos não evidenciam nenhum ilícito civil, quiçá má fé da Agravante, ainda que se fale em sua responsabilidade objetiva, verifica-se a total inexistência de qualquer ato ilícito ou inadimplemento contratual apto a ensejar abalo à esfera extrapatrimonial, de modo que não se tem como sustentar a ocorrência de dano moral indenizável, conforme art. 188, I, e 927, ambos do Código Civil. A indenização só é devida quando há, peremptoriamente, a existência dos requisitos fundamentais que ensejam a responsabilização civil: ato ilícito, dano e nexo causal, o que não foi o que ocorreu no presente caso" (fl. 381).
+Não foi apresentada impugnação pela parte agravada (fl. 387).
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. REVISÃO DO JULGADO. REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. VALOR INDENIZATÓRIO MANTIDO. NÃO PROVIMENTO.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+2. Admite a jurisprudência do Superior Tribunal de Justiça, excepcionalmente, em recurso especial, reexaminar o valor fixado a título de indenização por danos morais, quando ínfimo ou exagerado. Hipótese, todavia, em que o valor foi estabelecido atendendo às circunstâncias de fato da causa adequadamente ponderadas, de forma condizente com os princípios da proporcionalidade e razoabilidade.
+3. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (RELATORA): Observo que os argumentos desenvolvidos pela parte agravante não infirmam a conclusão adotada na decisão impugnada, razão pela qual o presente recurso não merece prosperar.
+No que tange aos danos morais, saliento que a Corte estadual entendeu que foi comprovada a falha na prestação dos serviços oferecidos pela recorrente, razão pela qual a indenização pelos danos morais é devida, pois eles decorrem da gravidade da recusa ao tratamento médico devido ao autor que tinha idade avançada e diante do fato de que a cirurgia em questão tinha de ser com urgência, na medida em que o paciente tinha o risco de perder a visão, apontando o Tribunal local que: "Afinal, muito embora o mero inadimplemento do contrato não tenha o condão de gerar direito à indenização, deve-se considerar no caso a situação de saúde já fragilizada do autor. Para tanto, basta observar a sua idade avançada (como já mencionado acima) e o fato de a cirurgia em questão ser de urgência (com o constou na sentença), na medida em que o paciente tinha o risco de perder a visão. A angústia, o desespero, o temor e a preocupação experimentados pelo autor diante desse risco caracterizam, por óbvio, danos morais nos estritos termos da lei e justificam a procedência do pedido indenizatório, não se tratando de um mero aborrecimento quotidiano" (e-STJ, fls. 217- 218).
+Assim, a desconstituição da conclusão do acórdão recorrido, na forma pretendida, demandaria o reexame do acervo fático, procedimento que, em sede de especial, encontra óbice no enunciado 7 da Súmula do STJ.
+No mais, destaco que a revisão da conclusão prolatada pelo Colegiado local a respeito do valor fixado a título de danos morais, na hipótese dos autos, demandaria novo exame dos fatos e provas dispostos no processo, de modo que o recurso especial esbarra no enunciado sumular n. 7 desta Corte.
+É certo que o Superior Tribunal de Justiça considera, excepcionalmente, cabível, em recurso especial, o reexame do valor arbitrado a título de danos morais, quando excessivo ou irrisório (AgRg no REsp 959.712/PR, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, DJe de 30.11.2009 e AgRg no Ag 939.482/RJ, Rel. Ministro FERNANDO GONÇALVES, QUARTA TURMA, DJe de 20.10.2008, entre outros).
+Observo, todavia, que a quantia arbitrada pelo Tribunal estadual, no montante de R$ 10.000,00 (dez mil reais), a título de danos morais, apresenta-se dentro dos padrões da razoabilidade e proporcionalidade, não se mostrando desproporcional à lesão, de modo a ensejar sua alteração em grau de recurso especial.
+Nesse sentido, não trazendo a parte agravante fundamentos capazes de infirmar a decisão agravada, deve ela prevalecer.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
