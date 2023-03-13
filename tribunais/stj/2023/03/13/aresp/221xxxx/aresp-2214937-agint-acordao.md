@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/03/2023 a 13/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Humberto Martins, Herman Benjamin e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+COMPANHIA DE SANEAMENTO DO ESTADO DE MATO GROSSO interpôs agravo interno contra decisão monocrática cuja ementa foi assim redigida:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. DECISÃO QUE EXTINGUIU A FASE EXECUTIVA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. RECURSO DE AGRAVO DE INSTRUMENTO. IMPOSSIBILIDADE DE APLICAÇÃO DA FUNGIBILIDADE RECURSAL. QUESTÃO ATRELADA AO REEXAME DE MATÉRIA DE FATO. ÓBICE DA SÚMULA 7/STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA PARTE, NEGAR-LHE PROVIMENTO.
+Sustenta a agravante que o acórdão recorrido não se manifestou sobre questões relevantes suscitadas nos embargos de declaração, como a incompatibilidade de capítulos da decisão de primeiro grau com a extinção do feito, limitando-se tão somente a afirmar que a decisão que põe fim ao processo é passível de apelação.
+Alega a inaplicabilidade da Súmula 7/STJ porquanto não é necessário que se conheça de qualquer matéria fática da causa para constatar a omissão do Tribunal de origem, que não explicou como seria possível uma decisão por fim à instância e simultaneamente determinar medidas que necessariamente a prolongam.
+Pugna pela reconsideração da decisão ora agravada ou o julgamento do feito pelo Colegiado para provimento do recurso especial.
+É o necessário relatar.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. DECISÃO QUE EXTINGUIU A FASE EXECUTIVA. VIOLAÇÃO DO ART. 1.022 DO CPC . NÃO OCORRÊNCIA. RECURSO DE AGRAVO DE INSTRUMENTO. IMPOSSIBILIDADE DE APLICAÇÃO DA FUNGIBILIDADE RECURSAL. QUESTÃO ATRELADA AO REEXAME DE MATÉRIA DE FATO. ÓBICE DA SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O julgamento da causa em sentido contrário aos interesses e à pretensão de uma das partes não caracteriza a ausência de prestação jurisdicional tampouco viola o artigo 1.022 do CPC. Jurisprudência do Superior Tribunal de Justiça.
+2. Na hipótese dos autos, a Corte a quo expressamente consignou que a decisão recorrida tratava-se de uma sentença que colocou fim no processo executório, determinando, inclusive, a expedição do Ofício Requisitório e arquivamento do feito, de modo que, admitir entendimento contrário conforme a pretensão recursal de que não houve extinção da execução, demandaria reexame de fatos e provas, o que todavia escapa ao âmbito do recurso especial diante da Súmula 7/STJ.
+3. Agravo interno não provido.
+VOTO
+São improcedentes as razões deduzidas.
+Isso porque, conforme asseverado na decisão agravada, cabe ao magistrado decidir a questão de acordo com o seu livre convencimento, não estando obrigado a rebater, um a um, os argumentos apresentados pela parte quando já encontrou fundamento suficiente para decidir a controvérsia (EDcl no AgRg no AREsp 195.246/BA, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe 04/02/2014).
+Ademais, da leitura do acórdão recorrido, percebe-se desde logo que não há falar em violação ao artigo 1.022 do CPC porque, não obstante rejeitada a pretensão da parte, houve efetivamente o devido enfrentamento das teses elencadas, havendo no feito meramente o julgamento contrário ao postulado pela ora recorrente e não propriamente ausência de prestação jurisdicional.
+Cito em apoio o AgRg no REsp 1.262.411/PB (Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 24/09/2013, DJe 01/10/2013), o AgRg no AREsp 357.187/RJ (Rel. Ministro Sidnei Beneti, Terceira Turma, julgado em 10/09/2013, DJe 02/10/2013), os EDcl nos EDcl no AgRg no AREsp 318.640/DF (Rel. Ministro Humberto Martins, Segunda Turma, julgado em 03/09/2013, DJe 17/09/2013) e o AgRg no REsp 1.089.753/RS (Rel. Ministro Og Fernandes, Sexta Turma, julgado em 06/08/2013, DJe 02/09/2013).
+Lado outro, conforme salientado na decisão ora impugnada, a Corte a quo expressamente consignou que a decisão recorrida tratava-se de uma sentença que colocou fim no processo executório, determinando, inclusive, a expedição do Ofício Requisitório e arquivamento do feito.
+A propósito, os seguintes trechos do acórdão recorrido na parte que interessa (e-STJ fls. 253/254):
+(..)
+O juízo de origem homologou os cálculos apresentando pelo agravante em id. 1795612 - fls. 05 e 06, e, via de consequência, julgou extinguiu o feito.
+Pois bem. In casu, analisando os requisitos de admissibilidade do presente agravo de instrumento terminam por inviabilizar o seu prosseguimento, em decorrência de ser o recurso inadequado para combater a sentença hostilizada.
+Isso porque o recurso fora interposto em face de decisão que além de homologar os cálculos apresentados pelo exequente/agravante, determinou a expedição de Ofício Requisitório, ordenando o arquivamento do feito.
+Havia dúvida quando o juízo homologa cálculo, qual seria o recurso adequado. Entretanto, já manifestou o Superior Tribunal de Justiça que, se o decisum, tão somente, homologa os cálculos apresentados, na fase de cumprimento de sentença, deve ser considerada uma decisão interlocutória, passível de agravo de instrumento, porém, se colocou fim ao processo, resolvendo todos os termos, considera-se uma sentença, cabendo à apelação.
+(..)
+Desse modo, tratando a decisão recorrida, de uma sentença, que colocou fim ao processo executório, determinando, inclusive, a expedição do Ofício Requisitório e seu arquivamento, o recurso cabível na hipótese é o recurso de apelação (art. 1.009 do CPC).
+Assim, por se constituir erro grosseiro, a interposição de agravo de instrumento contra sentença, impossível é a aplicação do princípio da fungibilidade.
+Nesse contexto, observa-se que o julgado atrela-se ao contexto fático-probatório da causa e, para admitir entendimento contrário conforme a pretensão recursal de que não houve extinção da execução, necessário que se adote o mesmo procedimento, o que todavia escapa ao âmbito do recurso especial diante da Súmula 7/STJ ("A pretensão de simples reexame de prova não enseja recurso especial").
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO. CUMPRIMENTO DE SENTENÇA. PLEITO DE EXPEDIÇÃO DE PRECATÓRIO COMPLEMENTAR. EXTINÇÃO DO FEITO EXECUTÓRIO. RECURSO CABÍVEL. AGRAVO DE INSTRUMENTO NÃO CONHECIDO. ERRO GROSSEIRO. INAPLICABILIDADE DO PRINCÍPIO DA FUNGIBILIDADE. VIOLAÇÃO AO ARTIGO 1.022 DO CPC. INEXISTÊNCIA. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM A. JURISPRUDÊNCIA DO STJ. SÚMULA 83/STJ. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE PREJUDICADA. REVISÃO DO ENTENDIMENTO DA CORTE DE ORIGEM. IMPOSSIBILIDADE. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ.
+1. Cuida-se de Agravo Interno contra decisum que conheceu do Agravo para se conhecer parcialmente do Recurso Especial e, nessa parte, negou-se-lhe provimento.
+2. Na origem, trata-se de inconformismo com decisum do Tribunal de origem que não admitiu o Recurso Especial, sob o fundamento de incidência da Súmula 7 e 83/STJ, bem como por entender que não ocorreu a mencionada violação ao art. 1.022 do CPC/2015.
+3. Vê-se que a agravante se insurge contra decisão que reconheceu a impossibilidade de expedição de precatório complementar, em virtude de preclusão, e pôs fim à execução. É dizer, inexistindo obrigação a ser exigida, o Juízo de origem encerrou a lide. Portanto, a decisão deveria ter sido impugnada por meio de Apelação, conforme já decidiu o STJ, que, a propósito, não admite a aplicação do princípio da fungibilidade recursal. Confiram-se estes precedentes: AgInt no AREsp 1.847.057/SP, Rel. Min. Herman Benjamin, Segunda Turma, DJe 31/08/2021; AgRg no AREsp 354.886/PI, Rel. Min. Regina Helena Costa, Primeira Turma, julgado em 26/4/2016, DJe 11/5/2016). Assim, a incidência do enunciado da Súmula 83/STJ obsta a análise recursal pela alínea "c", ficando prejudicado o exame do dissídio jurisprudencial, conforme sinaliza a jurisprudência do STJ.
+4. A discussão levantada pela agravante, desprovida de documentação comprobatória, de que a decisão de primeiro grau não extinguiu a demanda, porque ela já havia sido extinta, implica revolvimento de fatos e provas - pretensão de resto impossível de ser atendida em Recurso Especial, por incidência da Súmula 7/STJ.
+5. Agravo Interno não provido.
+(AgInt no AREsp n. 2.101.245/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 14/11/2022, DJe de 24/11/2022.) (grifei)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. CUMPRIMENTO DE SENTENÇA. FASE EXECUTÓRIA. FIM. DECISÃO. RECURSO CABÍVEL. APELAÇÃO. AGRAVO DE INSTRUMENTO. INTERPOSIÇÃO. ERRO GROSSEIRO. SÚMULA Nº 568/STJ. QUITAÇÃO PARCIAL. ALEGAÇÃO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS NºS 282 E 356/STF. REEXAME DE FATOS E PROVAS. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A decisão que extingue a execução é impugnável pela via da apelação, configurando erro grosseiro, em casos tais, a interposição de agravo de instrumento, situação que afasta inclusive a possibilidade de aplicação do princípio da fungibilidade recursal.
+Precedentes.
+3. Na hipótese, os magistrados da instância ordinária decidiram em perfeita consonância com a jurisprudência desta Corte, circunstância que atrai os óbices das Súmulas nºs 83 e 568/STJ.
+4. A alegação de que a parte exequente não deu quitação total do crédito exequendo e, por isso, não houve extinção do cumprimento de sentença, padece da falta de prequestionamento, além de demandar o reexame de fatos e provas dos autos, situação que atrai a vedação das Súmulas nºs 282 e 356/STF e nº 7/STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 1.861.233/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/10/2022, DJe de 28/10/2022.) (grifei)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. RECURSO ESPECIAL. EMBARGOS DE DECLARAÇÃO. PRESTAÇÃO JURISDICIONAL COMPLETA. INEXISTÊNCIA DE VÍCIOS. AÇÃO DE COBRANÇA. ATO JUDICIAL. EXTINÇÃO DO CUMPRIMENTO DE SENTENÇA. RECURSO CABÍVEL. APELAÇÃO. AGRAVO DE INSTRUMENTO. ERRO GROSSEIRO. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. NÃO APLICAÇÃO. REEXAME DE FATOS E PROVAS. SÚMULA 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+1. Se as matérias trazidas à discussão foram dirimidas pelo Tribunal de origem de forma suficientemente ampla e fundamentada, ainda que contrariamente à pretensão da parte, afasta-se a alegada violação ao art. 535 do Código de Processo Civil de 1973.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+3. O ato judicial que extingue a execução em razão do pagamento da dívida deve ser impugnado por meio de recurso de apelação, constituindo-se erro grosseiro a interposição de agravo de instrumento, circunstância que impede a aplicação do princípio da fungibilidade recursal. Precedentes.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.137.282/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 24/4/2018, DJe de 3/5/2018.)
+Com essas considerações, a decisão agravada merece ser mantida em todos os seus termos.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
