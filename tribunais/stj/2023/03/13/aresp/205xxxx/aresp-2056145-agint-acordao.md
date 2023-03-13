@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/03/2023 a 13/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+Trata-se de agravo interno interposto pelo ESTADO DO RIO GRANDE DO SUL, para desafiar decisão proferida às e-STJ fls. 1.704/1.712, em que se conheceu do agravo para não se conhecer do recurso especial, em face da incidência da Súmula 284 do STF e da Súmula 7 do STJ.
+Sustenta a parte agravante que os referidos enunciados não se aplicam à espécie, pois: a) o art. 536 do CPC possui comando normativo suficiente para sustentar a tese recursal, "haja vista que o próprio TRF invocou a matéria nele versada para solucionar a causa"; b) não prospera a alegação de que haveria necessidade de citar, especificamente, os incisos e parágrafos do art. 461 do CPC/1973, "na medida em que é suficiente a leitura da norma tida por violada para concluir que o Ente Público está tratando do caput do art. 461, e seus §§ 4º e 5º, que tratam especificamente da multa a ser aplicada no caso de descumprimento de obrigação de fazer"; c) "não prospera a incidência do Verbete n. 7 da Súmula do STJ, na medida em que a discussão travada nos autos diz tão somente com a possibilidade de aplicar multa contra a Fazenda Pública, não havendo que se analisar o conjunto fático-probatório dos autos para melhor interpretar o artigo 536 do CPC/2015" e d) "não se aplica o Verbete 284 da Súmula do STF, por ausência de indicação do dispositivo legal que teria tido interpretação divergente, na medida em que todo o recurso especial articulou com a tese de violação do artigo 461 do CPC/73 e 536 do CPC/2015." (e-STJ fls. 1.719/1.727).
+Requer, ao final, a reconsideração do decisum recorrido ou, caso assim não se entenda, seja submetido o presente agravo interno à apreciação da Turma.
+Decorrido o prazo legal, o agravado não apresentou impugnação.
+Parecer do MPF pelo não conhecimento do agravo interno (e-STJ fls. 1.741/1.744).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. FUNDAMENTAÇÃO. DEFICIÊNCIA.
+1. É deficiente o recurso especial que não explica de que forma os dispositivos de lei federal apontados foram efetivamente violados no acórdão recorrido. Incidência da Súmula 284 do STF.
+2. Nos termos da jurisprudência do STJ, é deficiente a fundamentação de recurso especial em que se alega ofensa a diploma legal revogado, como ocorre na hipótese em que se aponta vulneração a preceito do CPC/1973, quando já em vigor o CPC/2015.
+3. A falta de indicação do dispositivo legal sobre o qual recai a divergência jurisprudencial configura deficiência na fundamentação do recurso especial a atrair a Súmula 284 do STF.
+4. Agravo interno desprovido.
+VOTO
+A decisão recorrida não merece reparos.
+Em primeiro lugar, não é possível conhecer do recurso especial no que tange à suposta violação do art. 536 do CPC/2015, uma vez que as razões recursais não explicam de que forma aludido dispositivo legal veio a ser violado pelo entendimento adotado pelo acórdão recorrido. Incide, na espécie, o óbice contido na Súmula 284/STF.
+Ademais, a falta de indicação clara dos dispositivos legais tido por contrariados atrai, por analogia, o enunciado 284, da Súmula do STF, porquanto " a  citação de passagem de artigos de lei não é suficiente para caracterizar e demonstrar a contrariedade de lei federal, já que impossível identificar se o foram citados meramente a título argumentativo ou invocados como núcleo do recurso especial interposto"(AgInt no REsp 1.615.830/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 5/6/2018, DJe de 11/6/2018.)
+A esse respeito:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. ALEGAÇÃO DE AFRONTA A DECRETO REGULAMENTAR. DISSÍDIO JURISPRUDENCIAL A SEU RESPEITO. NÃO CABIMENTO. INDICAÇÃO DE VIOLAÇÃO GENÉRICA À LEI. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. INCIDÊNCIA.
+1. É inviável o conhecimento do recurso especial, uma vez que este não se presta ao exame de suposta afronta a decreto regulamentar ou, outrossim, de dissídio jurisprudencial a seu respeito.
+2. A indicação de violação genérica a lei federal, sem particularização precisa dos dispositivos violados, implica deficiência de fundamentação do recurso especial, atraindo, por analogia, a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.").
+3. Agravo interno não provido.
+(AgInt nos EDcl no REsp 1.772.135/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 09/03/2020, DJe 12/03/2020).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 1.022 DO CPC. ALEGAÇÃO GENÉRICA DE OFENSA A DISPOSITIVO DE LEI FEDERAL. SÚMULA N. 284/STF. ACÓRDÃO APOIADO EM PREMISSAS FÁTICAS. REVISÃO. SÚMULA 7/STJ. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Aplica-se o Código de Processo Civil de 2015.
+II - A jurisprudência desta Corte considera que, quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da sua violação, aplica-se, por analogia, o entendimento da Súmula n. 284 do Supremo Tribunal Federal.
+III - In casu, rever o posicionamento do tribunal de origem, com o objetivo de acolher a pretensão recursal de afastar o dano moral, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7 desta Corte, assim enunciada: "A pretensão de simples reexame de prova não enseja recurso especial".
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido. (AgInt no REsp 1.853.118/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 09/03/2020, DJe 12/03/2020).
+De outro lado, verifica-se, de plano, que o apelo extremo não pode ser conhecido por violação dos dispositivos do Código de Processo Civil de 1973, pois é deficiente a fundamentação de recurso especial em que se alega ofensa a diploma legal revogado. Na hipótese, a recorrente apontou ofensa ao art. 461 do CPC/1973, quando já em vigor o CPC/2015, o que faz incidir a Súmula 284 do STF no ponto.
+Nesse sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. FALTA DE PREQUESTIONAMENTO. SÚMULA 282 DO STF. INDICAÇÃO DE DISPOSITIVOS DE LEI PROCESSUAL JÁ REVOGADA. SÚMULA 284 DO STF.
+1. "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3 do Plenário do STJ).
+2. Não enfrentada no acórdão recorrido a ofensa aos dispositivos legais mencionados (arts. 128, 282 e 460 do CPC/1973 e 16 da LEF), carece o apelo nobre do indispensável prequestionamento, a teor do disposto na Súmula 282 do STF.
+3. Os invocados dispositivos do CPC/1973 já estavam revogados por ocasião da publicação do acórdão recorrido, o que também revela a deficiência do apelo nobre quanto a tais artigos, atraindo o óbice de conhecimento estampado na Súmula 284 do STF.
+4. Agravo interno não provido.
+(AgInt no AREsp 1.053.638/RS, MINHA RELATORIA, PRIMEIRA TURMA, julgado em 12/09/2017, DJe 23/10/2017.).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. FORNECIMENTO DE MEDICAMENTOS. INDICAÇÃO DE DISPOSITIVO DE LEI PROCESSUAL JÁ REVOGADA. SÚMULA 284 DO
+STF. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA N. 211/STJ. MULTA DO ART. 461 DO CPC. CABIMENTO. RAZOABILIDADE E PROPORCIONALIDADE. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. INCIDÊNCIA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A indicação de dispositivo de dispositivo de lei processual já revogada revela a deficiência do recurso, atraindo o óbice de conhecimento estampado na Súmula 284 do STF.
+(..)
+VIII - Agravo Interno improvido. (AgInt no REsp 1.729.559/PE, Relatora Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 26/06/2018, DJe 02/08/2018.).
+Quanto ao mais, a jurisprudência desta Corte de Justiça é pacífica quanto à inadmissibilidade do recurso especial que, a despeito de fundamentar-se em dissídio jurisprudencial, deixa de apontar o dispositivo de lei federal ao qual o tribunal de origem teria dado interpretação divergente daquela firmada por outros tribunais (AgRg no REsp n. 1.346.588/DF, relator Ministro ARNALDO ESTEVES LIMA, Corte Especial, DJe 17/03/2014).
+Na espécie, o recorrente não se desincumbiu de indicar de modo expresso o dispositivo de lei federal supostamente violado em razão do dissídio.
+Assim, em respeito à orientação firmada pela Corte Especial deste Tribunal, ajusta-se à hipótese a aplicação do contido na Súmula 284 do Supremo Tribunal Federal.
+Vejam-se, a propósito, os precedentes de ambas as Turmas que integram a Primeira Seção deste Tribunal Superior:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ADMINISTRATIVO. CONCURSO PÚBLICO. PROVA DISCURSIVA. ALEGAÇÃO DE INADEQUAÇÃO AO CONTEÚDO DO EDITAL. PREQUESTIONAMENTO. AUSÊNCIA. DISSÍDIO JURISPRUDENCIAL. NÃO INDICAÇÃO DO DISPOSITIVO SUPOSTAMENTE APLICADO DE MODO DIVERGENTE. SÚMULA 284/STF. INTERPRETAÇÃO DE CLÁUSULA DO EDITAL. REEXAME DE MATÉRIA FÁTICA. SÚMULAS 5 E 7/STJ.
+1. O Tribunal de origem não apreciou a controvérsia sob o enfoque do dispositivo legal apontado como violado (artigo 19, XIII, do Decreto 6.944/99), tampouco foram opostos embargos declaratórios para suprir eventual omissão neste aspecto. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+2. Também no recurso especial lastreado na alegada existência de divergência pretoriana se exige do recorrente a precisa indicação do dispositivo de lei federal que se afirma violado, sob pena de incidência da Súmula 284/STF. Precedentes: AgRg no REsp 1.346.588/DF, Rel. Ministro Arnaldo Esteves Lima, Corte Especial, DJe 17/3/2014; AgRg no REsp 1.527.274/MG, Rel.ª Ministra Regina Helena Costa, Primeira Turma, DJe 23/9/2015; AgRg no AREsp 736.813/SP, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, DJe 22/9/2015; AgRg no Ag 1.088.576/RS, Rel.ª Ministra Maria Isabel Gallotti, DJe 26/8/2015.
+ ..
+4. Agravo regimental a que se nega provimento. (AgRg no AREsp n. 770.014/SC, relator Ministro SÉRGIO KUKINA, Primeira Turma, DJe 03/02/2016.).
+AGRAVO REGIMENTAL. PREVIDENCIÁRIO. APOSENTADORIA. RURAL. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL VIOLADO. ALEGAÇÃO GENÉRICA. SÚMULA 284/STF. DIVERGÊNCIA JURISPRUDENCIAL. NÃO COMPROVAÇÃO.
+Observa-se grave defeito de fundamentação no apelo especial, uma vez que o agravante não particulariza quais os preceitos legais infraconstitucionais estariam supostamente afrontados. Assim, seu recurso não pode ser conhecido nem pela alínea "a" e tampouco pela alínea "c" do permissivo constitucional, porquanto, ao indicar a divergência jurisprudencial sem a demonstração do dispositivo de lei violado, caracterizadas estão a alegação genérica e a deficiência de fundamentação recursal.
+Agravo regimental improvido. (AgRg no AREsp n. 821.869/SP, relator Ministro HUMBERTO MARTINS, Segunda Turma, DJe 24/02/2016. ).
+Por último, deixo de aplicar a sanção prevista no art. 1.021, § 4º, do CPC/2015 por não vislumbrar caráter manifestamente inadmissível ou improcedente no manejo do presente recurso.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
