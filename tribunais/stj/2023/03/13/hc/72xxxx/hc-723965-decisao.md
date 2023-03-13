@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de LUIZ FERNANDO COMEGNO em que se aponta como autoridade coatora o Tribunal de Justiça do Estado do Paraná (Apelação Criminal n. 1.238.308-7 ).
+O paciente foi condenado às penas de 02 anos e 03 meses de reclusão, em regime aberto, pela prática do delito tipificado no art. 10 da Lei n. 9.296/1996.
+Interposta apelação, o recurso foi desprovido.
+No presente writ, o impetrante sustenta a ilegalidade na primeira etapa da dosimetria da pena, ao argumento de que não houve fundamentação idônea a justificar a exasperação da pena-base do delito.
+Afirma que é indevida a majoração da pena-base no tocante aos maus antecedentes, tendo em vista que o paciente já foi absolvido em relação aos antecedentes em processo anterior (no ano de 1990).
+Ressalta que processos em andamento não servem para majorar a pena-base, por força da Súmula n. 444 do STF, sobretudo porque, no feito em questão, o paciente já foi absolvido.
+Requer, ao final, a concessão da ordem, para reduzir a pena-base e a consequente declaração da prescrição retroativa da pretensão punitiva estatal, determinando-se a extinção da pena imposta ao paciente.
+O pedido liminar foi indeferido (fls. 337-338).
+As informações foram prestadas às fls. 344-350 e 355-464.
+O Ministério Público Federal, às fls. 466-470, manifestou-se nos termos da seguinte ementa:
+"HABEAS CORPUS. SUBSTITUTIVO DE REVISÃO CRIMINAL. UTILIZAÇÃO INADEQUADA DO HC. NÃO CONHECIMENTO. DOSIMETRIA. PEDIDO DE FIXAÇÃO DA PENA-BASE NO MÍNIMO LEGAL, POR NÃO SER POSSÍVEL CONSIDERAR OS ANTECEDENTES DO PACIENTE DESFAVORÁVEIS DIANTE DA APRESENTAÇÃO DA CERTIDÃO DE OBJETO E PÉ DO PROCESSO Nº 382/90. AUTOS COM INSTRUÇÃO DEFICIENTE. AUSÊNCIA DE PEÇAS PROCESSUAIS INDISPENSÁVEIS PARA A ANÁLISE DA CONTROVÉRSIA. EXIGÊNCIA DE PROVA PRÉ-CONSTITUÍDA DAS ALEGAÇÕES. PEDIDO DERECONHECIMENTO DA PRESCRIÇÃO DA PRETENSÃO PUNITIVA DE FORMA RETROATIVA. NÃO CONFIGURAÇÃO. FATOS OCORRIDOS ANTES DA MODIFICAÇÃO DO ARTIGO 110, §§ 1º E 2º, DO CÓDIGO PENAL PELA LEI Nº 12.234/2010. LAPSO TEMPORAL PREVISTO NO ARTIGO 109, IV, DO CP NÃO TRANSCORRIDO EM SUA INTEGRALIDADE ENTRE A DATA DOS FATOS E A DO RECEBIMENTO DA DENÚNCIANEM ENTRE OS MARCOS INTERRUPTIVOS PREVISTOS NO ARTIGO 117 DO CÓDIGO PENAL. PARECER PELO NÃO CONHECIMENTO DO HABEAS CORPUS E, CASO CONHECIDO, PELA DENEGAÇÃO DA ORDEM."
+É o breve relatório.
+Decido.
+O impetrante sustenta a ilegalidade na primeira etapa da dosimetria da pena, ao argumento de que não houve fundamentação idônea a justificar a exasperação da pena-base do delito.
+Afirma que é indevida a majoração da pena-base no tocante aos maus antecedentes, tendo em vista que o paciente já foi absolvido em relação aos antecedentes em processo anterior (no ano de 1990).
+Ressalta que processos em andamento não servem para majorar a pena-base, por força da Súmula n. 444 do STF, sobretudo porque, no feito em questão, o paciente já foi absolvido.
+Quanto ao punctum saliens, insta consignar que a presente insurgência não foi objeto de apreciação pela Corte local, na medida em que a alegação de que "O acréscimo de 3 (três) meses que sofreu a pena base, tem origem em falsa premissa porque foi lastreado em condenação imposta ao Paciente no dia 24/09/1992, pelo juiz Criminal da Comarca de São Caetano do Sul - SP, processo nº 382/1990, processo este que por força de Habeas Corpus foi anulado e, proferida nova sentença em 23/08/1998, o Paciente foi ABSOLVIDO com fundamento no artigo 386, inc. VI, do CPP", sequer foi arguida originariamente.
+Assim, considerando que o eg. Tribunal de origem não se pronunciou sobre os temas aventados na presente impetração, esta Corte Superior fica impedida de se debruçar sobre a matéria, sob pena de incorrer em indevida supressão de instância.
+Perfilhando esse entendimento: Não é possível enfrentar as alegações referentes à dosimetria, sob pena de se incorrer em indevida supressão de instância, uma vez que não foram apreciadas pelo Tribunal de origem no ato impugnado. Como é cediço, "matéria não examinada no acórdão impugnado, obsta a análise por este Tribunal Superior, sob pena de se incorrer em indevida supressão de instância" (AgRg no RHC n. 155.535/RS, relator Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 7/6/2022, DJe de 10/6/2022). (AgRg no HC n. 791.089/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 14/2/2023, DJe de 27/2/2023.)
+Ante o exposto, não conheço do habeas corpus.
+P. e I.
