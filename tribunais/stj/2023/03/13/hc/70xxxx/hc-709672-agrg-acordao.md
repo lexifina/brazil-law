@@ -1,0 +1,24 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/03/2023 a 13/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Sebastião Reis Júnior, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+JHONATHAN ANTONIO SILVA KRUTZSCH agrava da decisão de fls. 229-230, em que indeferi liminarmente o habeas corpus para manter o trânsito em julgado de sua condenação.
+Para tanto, assere que "o alvará de soltura contém a data e horário de cumprimento, bem como o profissional responsável pela soltura (agente da deap) todavia, o referido alvará não consta a possibilidade de recorrer da sentença ou, ainda, a competente intimação quando a eventual sentença proferida pelo juízo sentenciante" (fl. 235).
+Salienta, ainda, que " a  sentença proferida pelo juízo de primeiro grau, contraria a súmula 269 ao fixar regime mais gravoso que o aberto" (fl. 237).
+Requer, assim, "seja o presente Agravo levado a sessão colegiada para apreciação" (fl. 240).
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. INTIMAÇÃO. SENTENÇA CONDENATÓRIA. ATO OCORRIDO EM AUSÊNCIA DE INSTRUÇÃO. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não foi demonstrada a ocorrência mácula quanto à intimação do agravante acerca do conteúdo do édito condenatório, visto que " a  sentença penal condenatória foi proferida em audiência de instrução e julgamento, ao passo que restou consignado no termo de audiência a presença do réu e de seu defensor constituído. Neste ínterim, constou expressamente no supracitado documento que os presentes foram intimados da sentença proferida".
+2. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Conforme já exposto na decisão atacada, oportunamente salientou a Corte de origem que " a  sentença penal condenatória foi proferida em audiência de instrução e julgamento, ao passo que restou consignado no termo de audiência a presença do réu e de seu defensor constituído. Neste ínterim, constou expressamente no supracitado documento que os presentes foram intimados da sentença proferida" (fl. 18, grifei).
+Salientou, ainda, que "não há obrigação legal de constar expressamente, na intimação da sentença, local para o réu marcar caso deseje recorrer do decisum. Outrossim, há de se frisar que o mesmo já era assistido por advogado constituído" (fl. 19).
+Outra não é a compreensão do Superior Tribunal de Justiça, segundo a qual " a  intimação do réu e de seu procurador em audiência na qual foi proferida a sentença penal condenatória é suficiente para dar início ao prazo para interposição de eventuais recursos, sendo dispensável a intimação pessoal ou por meio do Diário da Justiça.  ..  Inexistindo previsão legal de que a intimação do acusado seja acompanhada de termo de recurso ou de que a ele seja indagado se deseja recorrer, não há falar em cerceamento do direito de defesa" (AgRg no RHC N. 141.817/PB, Rel. Ministro João Otávio de Noronha, 5ª T., DJe 28/6/2021, sublinhei).
+Ademais, destacou a Corte originária que "não há como conhecer dos pleitos dosimétricos, tendo em vista não ser o presente remédio constitucional o meio cabível para discussões do gênero, levando em conta sua estreita via de cognição e impossibilidade de aprofundamento meritório sobre os fatos que levaram a dosagem da pena" (fl. 20).
+Assim, verifica-se que a questão relativa à dosimetria da pena não foi objeto de exame pelo Tribunal a quo. Dessa forma, pondera-se ser defeso a esta Corte Superior adentrar o exame da questão aqui suscitada, dada a evidente e insuperável supressão de instância. A esse respeito:
+ ..  nota-se que a Corte originária não analisou as referidas questões. Impossibilidade de análise desses pontos da impetração pelo STJ, sob pena de atuar em indevida supressão de instância, com a consequente ampliação inconstitucional da competência recursal ordinária (CF, art, 105, II)  ..  (HC n. 486.103/MG, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 30/4/2019, grifei).
+ ..  A Corte estadual não analisou a tese ora trazida pela defesa no presente mandamus consubstanciada em nulidade decorrente da falta de manifestação do juízo primevo acerca das teses defensivas apresentadas na resposta à acusação. Limitou-se o Tribunal de origem a concluir que a matéria "é sanável por recurso próprio, do qual o Habeas Corpus não pode funcionar como sucedâneo" (fl. 335). Dessa forma, este Tribunal Superior encontra-se impedido de pronunciar-se a respeito, sob pena de indevida supressão de instância  ..  (RHC n. 86.893/SP, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 7/11/2018, destaquei).
+À vista do exposto, nego provimento ao recurso.
