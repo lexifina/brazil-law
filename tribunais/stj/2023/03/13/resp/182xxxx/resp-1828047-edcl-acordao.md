@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/03/2023 a 13/03/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+ORÇA EMPREENDIMENTOS IMOBILIÁRIOS LTDA. opõe embargos de declaração ao acórdão assim ementado (fls. 1.589-1.590):
+AGRAVO INTERNO EM RECURSO ESPECIAL. PROCESSO CIVIL. SUPOSTA CONTRARIEDADE AO ART. 1022 DO CPC. AÇÃO RESCIÓRIA. SUPOSTA OMISSÃO A RESPEITO DO TERCEIRO ADQUIRENTE. VÍCIO NA ARREMATAÇÃO PRESSUPOSTA NO ACÓRDÃO RECORRIDO. PRESERVAÇÃO DO DIREITO DE TERCEIRO. BOA-FÉ PRESUMIDA PELA AQUISIÇÃO DE BEM DO ARREMATANTE. IMPOSSIBILIDADE DE DESCONTITUIR O ATO EM JUÍZO RESCISÓRIO. PRETENSÃO DE REEXAMINAR O TEMA COM BASE EM SUPOSTO CONLUIO ENTRE O ARREMATANTE E O LEILOEIRO. ARGUMENTO INSUFICIENTE PARA INFIRMAR A CONCLUSÃO PELA BOA-FÉ DO TERCEIRO. SÚMULA 283/STF. PRETENSÃO DE INFIRMAR A PRESUNÇÃO DE BOA-FÉ. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há falar-se em omissão no acórdão recorrido, para o fim de violação do art. 1022 do CPC, se a matéria supostamente omissa é abordada pelo Tribunal de origem nos limites da devolução. No caso, extrai-se do acórdão recorrido que a boa-fé do terceiro adquirente seria pressuposta em razão do reconhecimento no acórdão rescindendo da legitimidade da arrematação, com a expedição da carta e correspondente de registro. Desse modo, não haveria - a par do reconhecimento da ilegalidade da arrematação, em sede de juízo rescisório - como desconstituir o ato, ante a presumida boa-fé do terceiro; não havendo falar-se, pois, em omissão.
+2. A pretensão de desconstituir a arrematação com base em suposto conluio entre o arrematante e o leiloeiro é insuficiente para refutar o argumento da Corte local quanto à necessidade de preservar a boa-fé do terceiro adquirente. A existência de fundamento autônomo e suficiente para manter a conclusão do acórdão recorrido, não combatido, atrai o óbice da Súmula 283/STF.
+3. De todo modo, para refutar a presunção da boa-fé do terceiro adquirente do bem arrematado, pressuposta no acórdão recorrido, seria imprescindível o reexame de fatos e provas; o que é vedado em sede de recurso especial, ante o óbice da Súmula 7/STJ.
+4. A incidência da Súmula 7/STJ prejudica o exame do recurso especial pela alínea "c" do permissivo constitucional. Precedentes.
+5. Agravo interno não provido.
+Em suas razões, a embargante afirma que há omissão, contrariedade e obscuridade no acórdão embargado, sustentando o seguinte (fls. 1.600-1.605):
+Portanto diante de tais alegações de que "os depósitos da arrematação estavam corretos", quando inexistiram e respaldado pelas palavras do leiloeiro como constam do respectivo auto, juntado nos autos e das afirmações do leiloeiro utilizando-as de forma supostamente fraudulenta e contraria daquele artigo da lei citada., a ora Embargante se vênia necessidade de esclarecer a V. Exa. A existência de omissões, ..
+O CONLUIO DE MÁ FÉ DA ADQUIRENTE DO BEM PENHORADO COM A EXEQUENTE E A FRAUDE PERANTE O FISCO
+Prezado Ministro consta no julgamento do presente Agravo Interno e nas seguintes palavras o seguinte: "A pretensão de desconstituir a arrematação com base em suposto conluio entre o arrematante e o leiloeiro é suficiente para refutar o argumento da corte local quanto à necessidade de preservar a boa fé do terceiro adquirente.
+Pergunta-se Que BOA FÉ Exa.
+Conforme se comprovou anteriormente nos autos pela escritura lavrada em 14/06/12 entre a Exequente e as duas adquirentes do bem penhorado e que foi a leilão em praça considerada como fraudulenta , houve nítido conluio entre a EXEQUENTE Praça e as adquirentes CONSTRUTORA PERDIGÃO e OTIMA EMPREENDIMENTOS desde muito antes do ingresso do presente REsp., sempre com o intuito de levar vantagem, prejudicar a Embargante e principalmente o Fisco , com o intuito de todas em sonegar impostos em muito, devidas A RECEITA FEDERAL como em transações deste gênero e é fácil de se provar.
+ ..
+Assim concluindo, ocorreu omissão tanto no acórdão rescindendo como do voto da presente ação rescisória pois os fatos aqui comprovados não deixam dúvidas que não poderia ser sido decidido somente em parte o respectivo julgamento da invalidade da arrematação, quando somente ficou observado somente a aplicabilidade do art. 690-A.
+Requer, em suma, que seja: (a) autorizado o reexame dos fatos e provas, com o reconhecimento da má-fé dos terceiros adquirentes; (b) anulado o leilão; e (c) mantida a decisão anterior do órgão especial quanto à anulação do acórdão rescindendo da Apelação Cível n. 0009044-89.2010.8.19.0001.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. MERO INCONFORMISMO DA PARTE EMBARGANTE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado (art. 1.022 do CPC).
+2. Os aclaratórios têm finalidade integrativa, por isso não se prestam a revisar questões já decididas para alterar entendimento anteriormente aplicado.
+3. Embargos de declaração rejeitados.
+VOTO
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado.
+No presente caso, a parte não aponta nenhum vício passível de ser sanado pelo STJ em embargos de declaração. Apenas demonstra seu interesse na reanálise de questão que foi obstada pelos seguintes fundamentos: (a) inexistência de contrariedade ao art. 1.022 do CPC; (b) incidência da Súmula n. 283 do STF; e (c) aplicabilidade da Súmula n. 7 do STJ.
+Nas razões dos embargos de declaração, a embargante não apontou nenhuma obscuridade, omissão ou contradição no fundamento adotado pelo decisum para a manutenção do conhecimento em parte do recurso e seu desprovimento.
+Em recente julgamento, a Corte Especial do STJ concluiu que "o recurso aclaratório possui finalidade integrativa e, portanto, não se presta à reforma do entendimento aplicado ou ao rejulgamento da causa" (EDcl no AgRg no RE nos EDcl no AgRg nos EDcl no AREsp n. 1.571.819/RJ, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, julgado em 25/8/2020, DJe de 28/8/2020).
+Ademais, a mera irresignação da parte embargante com o entendimento apresentado no agravo interno não viabiliza a oposição dos aclaratórios (EDcl no AgInt nos EAREsp n. 1.623.529/DF, relator Ministro Og Fernandes, Corte Especial, julgado em 1º/12/2021, DJe de 15/12/2021).
+Dessa forma, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação do STJ foi analisada, não padecendo o acórdão embargado dos vícios que autorizariam sua oposição (obscuridade, contradição, omissão e erro material).
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
