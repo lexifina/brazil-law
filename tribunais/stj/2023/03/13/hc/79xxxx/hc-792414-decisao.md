@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de PABLO DE AMORIM MACHADO em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (Habeas Corpus n. 1.0000.22.231614-3/000).
+Consta dos autos que o paciente foi preso em flagrante, prisão essa posteriormente convertida em preventiva, em razão de suposta prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006 - tráfico de drogas.
+Buscando a revogação da custódia cautelar, a defesa impetrou prévio writ na origem. Contudo, a ordem foi denegada, conforme a seguinte ementa (e-STJ fl. 15):
+HABEAS CORPUS -TRÁFICO DE DROGAS -REQUISITOS DO ART. 312 E 313 DO CÓDIGO DE PROCESSO PENAL PRESENTES - PRISÃO EM FLAGRANTE OCORRIDA DURANTE O CUMPRIMENTO DO MANDADO JUDICIAL DE BUSCA E APREENSÃO - MENOR QUE RESIDIA NO IMÓVEL UTILIZADO PARA O SUPOSTO CRIME - AUSÊNCIA DE FUNDAMENTAÇÃO - INOCORRÊNCIA -SUBSTITUIÇÃO POR OUTRA MEDIDA CAUTELAR - IMPOSSIBILIDADE - PERICULOSIDADE DO AGENTE E RISCO À ORDEM PÚBLICA - CONDIÇÕES PESSOAIS FAVORÁVEIS QUE NÃO PODEMSER ANALISADAS EM DESCOMPASSO COM O CONTEXTO DOS AUTOS - DESPROPORCIONALIDADE DA PRISÃO PREVENTIVA - EXAME PREMATURO - ILAÇÃO SOBRE EVENTUAL PENA -CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. Não há ilegalidade na prisão preventiva quando demonstrado e fundamentado, com base em fatos concretos, a necessidade da segregação cautelar e a inadequação de sua substituição por medidas cautelares diversas. Condições pessoais favoráveis não podem ser analisadas em descompasso com o contexto dos autos, não sendo capaz de obstar, por si só, a custódia preventiva, caso preenchidos os requisitos legais. Ademais, em relação à alegação de que o Paciente provavelmente incorrerá em pena mais branda do que a medida que ora lhe é imposta, prematuro o pleiteado exame, não sendo possível, nesse momento, fazer ilações sobre a perspectiva de pena in concreto.
+Daí o presente writ, no qual alega a defesa, em suma, a insuficiência de fundamentação do decreto prisional, a ausência dos requisitos autorizadores da custódia cautelar, a existência de circunstâncias pessoais favoráveis ao paciente e a desnecessidade da medida extrema.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva ou, subsidiariamente, a aplicação de medidas cautelares alternativas.
+Liminar indeferida às e-STJ fls. 187/189.
+Prestadas as informações, o Ministério Público Federal opinou pelo não conhecimento do habeas corpus ou pela sua denegação (e-STJ fls. 382/388).
+É o relatório.
+Decido.
+Pois bem. Informações extraídas do endereço eletrônico do Tribunal de origem noticiam a superveniência, em 1º/2/2023, de sentença condenatória em desfavor do acusado, ocasião em que lhe foi concedido o direito de recorrer em liberdade, expedido o competente alvará de soltura.
+Com isso, fica esvaziado o objeto deste writ, que buscava, justamente, a liberdade do paciente.
+Ante o exposto, com base no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
