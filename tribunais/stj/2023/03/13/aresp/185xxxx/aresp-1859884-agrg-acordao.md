@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/03/2023 a 13/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Rogerio Schietti Cruz.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+RELATÓRIO
+Trata-se de agravo regimental interposto por Josimar Martins dos Passos contra decisão da Presidência do Superior Tribunal de Justiça, que conheceu do agravo para não conhecer do recurso especial, em razão da aplicação da Súmula 7/STJ (fls. 506/511).
+Nas razões, a defesa do agravante rechaçou a incidência do verbete sumular à espécie, aduzindo que não se pretende, aqui, o revolvimento do material fático- probatório, o que seria inviável. Na verdade, parte-se dos fatos tais como assentados no acórdão proferido pelo TRF/3ª Região, sem qualquer pretensão de rediscuti-los (fl. 517).
+Diz que se busca pelo presente recurso é submeter ao crivo deste Superior Tribunal de Justiça uma questão eminentemente jurídica: é possível fundamentar uma condenação por roubo reconhecendo-se a autoria delitiva com base (a) no reconhecimento fotográfico e (b) no reconhecimento pessoal sem a observância do art. 226 do CPP, ambos realizados pela vítima, não corroborado por outros elementos probatórios (fl. 518).
+Aduz que, porquanto realizado em absoluto desacordo com o art. 226 do CPP, é caso de reconhecer a invalidade do reconhecimento fotográfico como meio de prova, conforme precedente paradigmático recente deste Superior Tribunal de Justiça (fl. 518).
+Instada a se manifestar, a Subprocuradoria-Geral da República opinou pelo desprovimento do agravo regimental (fl. 535/537).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO. TRIBUNAL AFIRMA A EXISTÊNCIA DE PROVAS PARA MANTER A CONDENAÇÃO. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+Agravo regimental improvido.
+VOTO
+A insurgência não merece ser acolhida.
+Com efeito, o Tribunal de Justiça bandeirante afirmou estar comprovada a autoria, não somente com base no reconhecimento pessoal, mas, principalmente, pelos depoimentos testemunhais, destacando a suficiências das provas para fundamentar a condenação.
+Por oportuno, destaco os seguintes trechos (fls. 372/374 - grifei):
+ ..
+Segundo se extrai do Boletim de Ocorrência, a vítima informou que após fazer entrega de mercadorias no local dos fatos por meio de veículo da EBCT, um indivíduo a pé, simulando estar armado, anunciou o assalto e, sob fortes ameaças, logrou êxito em subtrair objetos que estavam no interior do automóvel (ID 142913421).
+Em seu termo de declarações, Robson dos Santos Gregório, informa que no dia dos fatos estava em uma e, quando retornava, escutou comentários na rua Lan House sobre o roubo ocorrido por um funcionário dos Correios. Relata que, no período da noite, encontrou nas proximidades da sua casa com um conhecido de apelido "BA", cujo nome desconhece, e que este confessou que havia praticado o roubo de SEDEX de um funcionário dos Correios. Que descobriu que "BA" se chama Josimar e, ao lhe ser exibida a fotografia do acusado, o reconheceu como sendo o indivíduo que lhe confessou o roubo.
+Ressaltou, ainda, que "BA" mora na rua Mariliana, nº 304 (ID 142913421), fato este confirmado pelo extrato do CNIS juntado aos autos.
+Por sua vez, a vítima declarou, em seu depoimento policial, que no dia 29 de julho de 2014 estava de serviço conduzindo veículo dos Correios quando, por volta das 12:55 horas, efetuava entregas na Travessa Mariliana Regina e foi abordado por um indivíduo que simulou estar armado ao anunciar o assalto. Que o criminoso ordenou que ele continuasse no volante do veículo, enquanto abria a porta baú e subtraía seis encomendas SEDEX, as quais seriam entregues na região. Mencionou que o indivíduo levou apenas o que cabia em seus braços e que depois voltou sentido Rua Mauá e tomou rumo ignorado. Por fim, afirmou que ele possuía cor parda, tinha entre 19 a 20 anos, com compleição forte e altura aproximada de 1,70 metros (ID 142913421).
+Em sede policial, o réu limitou-se a negar a autoria do roubo e afirmou que deve ter sido confundido com outra pessoa. Disse, ainda, que seu apelido era "Pequeno" e não "BA" (ID 142913421).
+No Auto de Reconhecimento Fotográfico e de Pessoa, este último realizado tanto em sede policial, quanto em juízo, a vítima do crime reconheceu o denunciado como autor do roubo (ID 142913421 e 142913423).
+Outrossim, em seu depoimento judicial, a vítima novamente relatou que foi abordada pelo réu, o qual anunciou o assalto e simulou estar armado. Relatou que depois que ele pegou as mercadorias que conseguiu carregar, saiu andando a pé pela rua.
+Posteriormente, ligou para a polícia e informou sua chefia do ocorrido. Alegou que o réu não mostrou a arma, mas simulou estar armado.
+Disse que não perguntou ao acusado se ele estava realmente armado ou não, ou seja, "não pagou para ver". Indagado, declarou que se sentiu ameaçado pelo réu, mesmo não tendo visto a arma, já que temeu pela própria vida. Confirmou que guardou sua fisionomia porque o viu de frente no dia do assalto, depois o reconheceu por foto e pessoalmente na delegacia, em uma sala particular, junto com outras pessoas (ID 142913429).
+Patricia Martins Passos, irmã do réu e ouvida na condição de informante, confirmou que residiam na Travessa Mariliana Regina, nº 304, bem como que na data do acontecimento os policiais estiveram na sua casa procurando pelo seu irmão, cujo apelido é "BA". Ao ser questionada, disse que não sabe nada a respeito do envolvimento do seu irmão no crime e que ele não guardou nenhuma mercadoria em sua residência. Questionada, disse que nesta época seu irmão estava com comportamento normal e que ele trabalhava. Não se recorda dele ter voltado mais cedo para casa em algum dia (ID 142913431).
+No interrogatório judicial, o acusado novamente negou os fatos. Informou que mora na região e que foi confundido por outra pessoa. Confirmou que a polícia foi em sua residência, mas não estava em casa. Quando indagado, mencionou que seu apelido é "BA". Declarou, ainda, que nesta época trabalhava em uma obra em Alphaville, das 7h até as 17h. Não tinha chance de estar perto de casa por volta das 13 horas porque almoçava no trabalho. Ao final, disse que possui por volta de 1,55 a 1,60 metros de altura (ID 142913432).
+Verifica-se que a versão acusatória encontra amparo no depoimento da vítima, assim como de Robson e das testemunhas Panagiotis e Renato, ao passo que a afirmação do réu de que estava trabalhando no dia dos fatos não foi comprovada.
+Não há documento ou testemunha que confirme sua presença no trabalho no dia do acontecimento, além disso o próprio denunciado alterou sua declaração e admitiu que seu apelido era "BA", ou seja, o mesmo nome apontado por Robson e por outros moradores da região como autor do crime, conforme se extrai do relatório policial (ID 142913421).
+Dessa forma, embora o acusado negue a autoria delitiva, tenho-a por plenamente demonstrada diante dos elementos de prova, com destaque para os depoimentos testemunhais e reconhecimento pessoal, pelo que não há falar em absolvição por insuficiência de provas.
+De fato, realmente o recurso especial encontra óbice na Súmula 7/STJ, pois, para concluir no sentido almejado pelo agravante, de que não há indícios suficientes de autoria, seria indispensável o reexame da prova dos autos, providência vedada em sede de recurso especial.
+Nesse sen tido, destaco o seguinte precedente:
+ ..
+4. A pretensão de impronúncia ou de desclassificação da conduta para o crime de homicídio privilegiado ou de lesões corporais, tal como pleiteada nas razões recursais, demanda, como ressaltado no decisum reprochado, nova incursão no acervo, tarefa obstada pela Súmula 7/STJ (AgRg no AREsp n. 1.651.852/MG, Ministro Felix Fischer, Quinta Turma, DJe 19/5/2020).
+ ..
+(EDcl no AgInt no REsp n. 1.838.360/RS, de minha relatoria, Sexta Turma, DJe 9/9/2020)
+Ante o exposto, nego provimento ao agravo regimental.
