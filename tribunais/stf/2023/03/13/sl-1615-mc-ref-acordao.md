@@ -1,0 +1,734 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 16
+
+13/03/2023
+
+PLENÁRIO
+
+REFERENDO NA MEDIDA CAUTELAR NA SUSPENSÃO DE LIMINAR 1.615
+SÃO PAULO
+RELATORA
+REQTE.(S)
+ADV.(A/S)
+REQDO.(A/S)
+
+ADV.(A/S)
+INTDO.(A/S)
+PROC.(A/S)(ES)
+INTDO.(A/S)
+ADV.(A/S)
+INTDO.(A/S)
+
+ADV.(A/S)
+INTDO.(A/S)
+
+ADV.(A/S)
+INTDO.(A/S)
+
+ADV.(A/S)
+INTDO.(A/S)
+ADV.(A/S)
+INTDO.(A/S)
+ADV.(A/S)
+
+: MINISTRA PRESIDENTE
+: MUNICIPIO DE CUBATAO
+: PROCURADOR-GERAL
+DO
+MUNICÍPIO
+DE
+CUBATÃO
+: RELATOR DA ADI Nº 2223305-29.2022.8.26.0000
+DO TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO
+PAULO
+: SEM REPRESENTAÇÃO NOS AUTOS
+: PROCURADOR-GERAL DE JUSTIÇA DO ESTADO DE
+SÃO PAULO
+: PROCURADOR-GERAL DE JUSTIÇA DO ESTADO DE
+SÃO PAULO
+: ASSOCIACAO DOS SERVIDORES DE FISCALIZACAO
+DE TRIBUTOS MUNICIPAIS DE CUBATAO - ASFIT
+: MARCELO LAMY E OUTRO(A/S)
+: ASSOCIACAO DOS FISCAIS E AUDITORES
+TRIBUTARIOS MUNICIPAIS DO ESTADO DE SAO
+PAULO
+: CARLOS EDUARDO DE OLIVEIRA E OUTRO(A/S)
+: ASSOCIACAO NACIONAL DOS AUDITORES
+FISCAIS DE TRIBUTOS DOS MUNICIPIOS E
+DISTRITO FEDERAL - ANAFISCO
+: FELIPE TEIXEIRA VIEIRA
+: ASSOCIAÇÃO DOS AGENTES FISCAIS E FISCAIS DE
+TRIBUTOS DA PREFEITURA MUNICIPAL DE
+CUBATÃO - AFISC
+: VANDERLI VOLPINI ROCHA E OUTRO(A/S)
+: FEDERACAO NACIONAL DOS AUDITORES E
+FISCAIS DE TRIBUTOS MUNICIPAIS - FENAFIM
+: FABIO LUIZ FERRAZ MING
+: MESA DA CÂMARA MUNICIPAL DE CUBATÃO
+: DOUGLAS PREDO MATEUS E OUTRO(A/S)
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código E21E-E430-3191-F17D e senha B421-FA8E-026D-83E6
+
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 2 de 16
+
+SL 1615 MC-R EF / SP
+EMENTA
+SUSPENSÃO DE LIMINAR. ADICIONAL DE PRODUTIVIDADE FISCAL (APF).
+REMUNERAÇÃO POR PERFORMANCE NA ADMINISTRAÇÃO PÚBLICA
+MUNICIPAL. POSSIBILIDADE. CONCRETIZAÇÃO DO PRINCÍPIO DA EFICIÊNCIA
+(CF, ART. 37, CAPUT). PRECEDENTES. PREVISÃO CONSTITUCIONAL EXPRESSA
+EM RELAÇÃO ÀS CARREIRAS DA ADMINISTRAÇÃO TRIBUTÁRIA (CF, ART. 39,
+§ 7º). LIMINAR DEFERIDA. REFERENDO.
+1. O adicional de produtividade fiscal (APF) instituído pelo
+Município de Cubatão/SP opera por meio de um sistema de pontuação
+pelo qual o servidor obtém vantagem pecuniária adicional em razão do
+desempenho, da complexidade das tarefas, da responsabilidade pela
+execução e do incremento da arrecadação tributária.
+2. A jurisprudência desta Casa reconhece a constitucionalidade do
+modelo de remuneração dos servidores públicos por performance, como
+concretização do princípio da eficiência (CF, art. 37, caput). Precedentes.
+3. Sob essa ótica, é possível que as atividades ensejadoras do
+adicional de produtividade coincidam, no todo ou em parte, com as
+atribuições funcionais ordinárias do cargo, emprego ou função, desde que
+a vantagem pecuniária seja estruturada de modo que exija dedicação
+especial do servidor, esteja voltada ao atingimento de metas e objetivos
+estabelecidos pelos órgãos de gestão e resulte na ampliação, melhoria ou
+aprimoramento do serviço e, por isso mesmo, reverta o investimento em
+benefício da coletividade.
+4. Medida liminar referendada.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros do
+Supremo Tribunal Federal em referendar a liminar concedida, para
+sustarem-se os efeitos da medida cautelar deferida pelo Tribunal de
+Justiça do Estado de São Paulo nos autos da ADI nº 222330529.2022.8.26.0000, até o trânsito em julgado da decisão de mérito
+proferida naquela causa, nos termos do voto da Relatora e por
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código E21E-E430-3191-F17D e senha B421-FA8E-026D-83E6
+
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 3 de 16
+
+SL 1615 MC-R EF / SP
+unanimidade de votos, em sessão virtual do Pleno de 3 a 10 de março de
+2023, na conformidade da ata do julgamento.
+Brasília, 13 de março de 2023.
+Ministra Rosa Weber
+Presidente
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código E21E-E430-3191-F17D e senha B421-FA8E-026D-83E6
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 4 de 16
+
+13/03/2023
+
+PLENÁRIO
+
+REFERENDO NA MEDIDA CAUTELAR NA SUSPENSÃO DE LIMINAR 1.615
+SÃO PAULO
+RELATORA
+REQTE.(S)
+ADV.(A/S)
+REQDO.(A/S)
+
+ADV.(A/S)
+INTDO.(A/S)
+PROC.(A/S)(ES)
+INTDO.(A/S)
+ADV.(A/S)
+INTDO.(A/S)
+
+ADV.(A/S)
+INTDO.(A/S)
+
+ADV.(A/S)
+INTDO.(A/S)
+
+ADV.(A/S)
+INTDO.(A/S)
+ADV.(A/S)
+INTDO.(A/S)
+ADV.(A/S)
+
+: MINISTRA PRESIDENTE
+: MUNICIPIO DE CUBATAO
+: PROCURADOR-GERAL
+DO
+MUNICÍPIO
+DE
+CUBATÃO
+: RELATOR DA ADI Nº 2223305-29.2022.8.26.0000
+DO TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO
+PAULO
+: SEM REPRESENTAÇÃO NOS AUTOS
+: PROCURADOR-GERAL DE JUSTIÇA DO ESTADO DE
+SÃO PAULO
+: PROCURADOR-GERAL DE JUSTIÇA DO ESTADO DE
+SÃO PAULO
+: ASSOCIACAO DOS SERVIDORES DE FISCALIZACAO
+DE TRIBUTOS MUNICIPAIS DE CUBATAO - ASFIT
+: MARCELO LAMY E OUTRO(A/S)
+: ASSOCIACAO DOS FISCAIS E AUDITORES
+TRIBUTARIOS MUNICIPAIS DO ESTADO DE SAO
+PAULO
+: CARLOS EDUARDO DE OLIVEIRA E OUTRO(A/S)
+: ASSOCIACAO NACIONAL DOS AUDITORES
+FISCAIS DE TRIBUTOS DOS MUNICIPIOS E
+DISTRITO FEDERAL - ANAFISCO
+: FELIPE TEIXEIRA VIEIRA
+: ASSOCIAÇÃO DOS AGENTES FISCAIS E FISCAIS DE
+TRIBUTOS DA PREFEITURA MUNICIPAL DE
+CUBATÃO - AFISC
+: VANDERLI VOLPINI ROCHA E OUTRO(A/S)
+: FEDERACAO NACIONAL DOS AUDITORES E
+FISCAIS DE TRIBUTOS MUNICIPAIS - FENAFIM
+: FABIO LUIZ FERRAZ MING
+: MESA DA CÂMARA MUNICIPAL DE CUBATÃO
+: DOUGLAS PREDO MATEUS E OUTRO(A/S)
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código BAC5-B219-3F46-3B22 e senha 6B1C-7109-2CE8-09D8
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 5 de 16
+
+SL 1615 MC-R EF / SP
+RELATÓRIO
+A Senhora Ministra Rosa Weber (Presidente): 1. Trata-se de
+suspensão de liminar ajuizada pelo Município de Cubatão/SP visando a
+sustar os efeitos da liminar concedida nos autos da ADI nº 222330529.2022.8.26.0000, em curso perante o Tribunal de Justiça de São Paulo,
+pela qual suspensos os efeitos da LC municipal nº 16/2003, na parte em
+que dispõe sobre a parcela remuneratória denominada adicional de
+produtividade fiscal (APF).
+2. O adicional de produtividade fiscal (APF) foi instituído em favor
+dos agentes públicos municipais titulares dos cargos de Agente Fiscal de
+Tributos e Fiscal de Tributos da Prefeitura Municipal de Cubatão, sendo
+calculado com base em sistema de pontuação disciplinado pela LC nº
+16/2003. Afere-se o “quantum” devido a cada servidor por meio dos
+pontos obtidos pelas atividades realizadas no mês, conforme tabela de
+pontuação, estabelecida “em razão do desempenho, da complexidade das
+tarefas a serem executas, da responsabilidade pela execução e pelo incentivo
+ao incremento da arrecadação tributária” (art. 13).
+3. Segundo o Ministério Público paulista, autor da representação de
+inconstitucionalidade estadual, o bônus de produtividade (APF)
+desrespeita o interesse público e os princípios orientadores da
+Administração Pública (CF, art. 37, caput) por se tratar de parcela
+adicional concedida pelo exercício de atividades inerentes ao cargo. Alega
+que o mero cumprimento dos deveres funcionais não justifica o
+pagamento de adicional.
+4. Afirma o Município de Cubatão que a suspensão liminar do
+pagamento do adicional de produtividade fiscal (APF) afeta diretamente
+a sistemática arrecadatória estabelecida pela Administração Pública
+municipal, fundada na remuneração dos agentes tributários com base na
+produtividade, tal como expressamente autorizado pelo art. 39, § 7º, da
+Constituição Federal.
+5. Aduz que o diploma legislativo municipal fixou critérios claros e
+objetivos de aferição da produtividade dos servidores a que se destina.
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código BAC5-B219-3F46-3B22 e senha 6B1C-7109-2CE8-09D8
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 6 de 16
+
+SL 1615 MC-R EF / SP
+Além de afastar parâmetros subjetivos da sistemática de pontuação, os
+critérios relacionam-se com o exercício efetivo das atividades
+relacionadas à fiscalização tributária municipal.
+6. Pleiteia-se a suspensão liminar da decisão proferida pelo
+Desembargador Relator da ADI nº 2223305-29.2022.8.26.0000, a fim de
+evitar grave lesão à ordem e à economia pública municipal.
+7. Por entender presentes os requisitos da probabilidade do direito e
+do risco da demora, deferi o pedido de medida liminar, em decisão assim
+ementada:
+ADMINISTRAÇÃO
+
+PÚBLICA
+
+MUNICIPAL.
+
+POSSIBILIDADE.
+(CF, ART. 37,
+
+CONCRETIZAÇÃO DO PRINCÍPIO DA EFICIÊNCIA
+CAPUT). PRECEDENTES. PREVISÃO CONSTITUCIONAL EXPRESSA EM
+RELAÇÃO ÀS CARREIRAS DA ADMINISTRAÇÃO TRIBUTÁRIA (CF,
+ART. 39, § 7º).
+1. O adicional de produtividade fiscal (APF) instituído
+pelo Município de Cubatão/SP opera por meio de um sistema
+de pontuação pelo qual o servidor obtém vantagem pecuniária
+adicional em razão do desempenho, da complexidade das
+tarefas, da responsabilidade pela execução e do incremento da
+arrecadação tributária.
+2. A jurisprudência desta Casa reconhece a
+constitucionalidade do modelo de remuneração dos servidores
+públicos por performance, como concretização do princípio da
+eficiência (CF, art. 37, caput). Precedentes.
+3. Sob essa ótica, é possível que as atividades ensejadoras
+do adicional de produtividade coincidam, no todo ou em parte,
+com as atribuições funcionais ordinárias do cargo, emprego ou
+função, desde que a vantagem pecuniária seja estruturada de
+modo que exija dedicação especial do servidor, esteja voltada ao
+atingimento de metas e objetivos estabelecidos pelos órgãos de
+gestão e resulte na ampliação, melhoria ou aprimoramento do
+serviço e, por isso mesmo, reverta o investimento em benefício
+da coletividade.
+4. Medida liminar deferida.”
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código BAC5-B219-3F46-3B22 e senha 6B1C-7109-2CE8-09D8
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 7 de 16
+
+SL 1615 MC-R EF / SP
+8. Em atendimento ao disposto no art. 21, V e § 5º, do RISTF (na
+redação dada pela ER nº 58/2022), submeto a decisão em causa ao
+referendo do Plenário.
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código BAC5-B219-3F46-3B22 e senha 6B1C-7109-2CE8-09D8
+
+Supremo Tribunal Federal
+Voto - MINISTRA PRESIDENTE
+
+Inteiro Teor do Acórdão - Página 8 de 16
+
+13/03/2023
+
+PLENÁRIO
+
+REFERENDO NA MEDIDA CAUTELAR NA SUSPENSÃO DE LIMINAR 1.615
+SÃO PAULO
+VOTO
+A Senhora Ministra Rosa Weber (Presidente): 1. A controvérsia
+posta cinge-se à constitucionalidade da parcela remuneratória
+correspondente ao adicional de produtividade fiscal (APF), instituído
+pelo Município de Cubatão/SP em favor dos agentes da Administração
+Tributária municipal.
+2. Como dito, concedida a medida liminar requerida pelo Município
+de Cubatão/SP, suspendendo-se os efeitos do acórdão emanado do
+Tribunal de Justiça de São Paulo, pelo qual declarada a
+inconstitucionalidade da lei municipal instituidora da vantagem
+pecuniária em questão.
+3. O acolhimento do pedido cautelar teve por suporte,
+essencialmente, a jurisprudência desta Suprema Corte em tema de
+remuneração dos servidores públicos por performance e também quanto
+à necessidade de estipulação de prazo razoável para que os entes
+federativos ajustem-se às decisões declaratórias de inconstitucionalidade
+de leis locais de grave repercussão nas atividades da Administração
+Pública.
+Princípio da eficiência e o critério da “remuneração por
+performance” na jurisprudência do STF
+4. Cuida-se o adicional de produtividade fiscal (APF) de verdadeira
+espécie de parcela remuneratória por performance. A lei municipal
+impugnada, ao menos em juízo delibatório, parece estabelecer critérios
+efetivos, de índole objetiva e impessoal, destinados à aferição da
+produtividade de cada servidor e ao cálculo da gratificação especial
+devida de acordo com o grau de eficiência atingido. Não sugere tratar-se,
+como faz parecer o Ministério Público paulista, de parcela adicional
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 3A75-96E2-972F-8F85 e senha EB63-A801-9F07-9396
+
+Supremo Tribunal Federal
+Voto - MINISTRA PRESIDENTE
+
+Inteiro Teor do Acórdão - Página 9 de 16
+
+SL 1615 MC-R EF / SP
+vinculada simplesmente ao exercício ordinário das atividades funcionais.
+Buscou o legislador municipal criar verdadeiro sistema de estímulo aos
+agentes públicos, para que os órgãos da Administração Tributária
+municipal consigam atingir com sucesso metas e objetivos previamente
+definidos conforme o planejamento fiscal do ente municipal.
+5. A jurisprudência desta Casa reconhece a constitucionalidade do
+modelo de remuneração dos servidores públicos por performance. Sob
+essa ótica, é possível que o fato gerador do direito à parcela
+remuneratória de produtividade coincida, no todo ou em parte, com as
+atribuições funcionais ordinárias do cargo, emprego ou função. O fator
+essencial para que se legitime a instituição de vantagem pecuniária dessa
+natureza (independentemente de se chamar gratificação, adicional ou
+bônus de produtividade), consiste no fato de ser estruturada de modo
+que exija dedicação especial do servidor, esteja voltada ao atingimento de
+metas e objetivos estabelecidos pelos órgãos de gestão e resulte na
+ampliação, melhoria ou aprimoramento do serviço e, por isso mesmo,
+reverta o investimento em benefício da coletividade.
+6. Como se vê, o adicional de performance consiste em vantagem
+pecuniária instituída como modelo de concretização do princípio da
+eficiência no âmbito da Administração Pública (CF, art. 37, caput).
+Gratifica-se o trabalho eficiente, objetivando-se estimular a excelência na
+prestação dos serviços públicos.
+Nesse sentido, o Plenário desta Corte, em sucessivos julgamentos,
+reconheceu a constitucionalidade da outorga da titularidade dos
+honorários sucumbenciais aos Advogados Públicos (CPC, art. 85, § 19).
+Nas palavras do eminente Min. Edson Fachin, “o dispositivo legal que prevê
+como direito do advogado público os honorários sucumbenciais relaciona-se ao
+princípio da eficiência, insculpido no art. 37, da Constituição da
+República, pois depende da natureza e qualidade dos serviços
+efetivamente prestados” (ADI 7.014, Rel. Min. Edson Fachin, Tribunal
+Pleno, j. 28.11.2022, DJe 19.12.2022).
+7. Em relação aos servidores públicos das carreiras da Administração
+Tributária há previsão constitucional expressa em relação ao adicional ou
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 3A75-96E2-972F-8F85 e senha EB63-A801-9F07-9396
+
+Supremo Tribunal Federal
+Voto - MINISTRA PRESIDENTE
+
+Inteiro Teor do Acórdão - Página 10 de 16
+
+SL 1615 MC-R EF / SP
+prêmio de produtividade:
+“Constituição Federal
+.......................................................................................................
+Art. 39. (...)
+.......................................................................................................
+§ 7º Lei da União, dos Estados, do Distrito Federal e dos
+Municípios disciplinará a aplicação de recursos orçamentários
+provenientes da economia com despesas correntes em cada
+órgão,
+autarquia
+e
+fundação,
+para
+aplicação
+no
+desenvolvimento de programas de qualidade e produtividade,
+treinamento
+e
+desenvolvimento,
+modernização,
+reaparelhamento e racionalização do serviço público, inclusive
+sob a forma de adicional ou prêmio de produtividade.”
+
+Essa previsão constitucional, conforme a jurisprudência desta
+Suprema Corte, também visa à concretização do princípio da eficiência,
+tal como afirmado pelo Plenário no julgamento da ADI 6.562, Rel. Min.
+Gilmar Mendes, no qual reconhecida a plena constitucionalidade do
+bônus de eficiência e produtividade instituído pela União em favor
+carreiras tributária e aduaneira da Receita Federal do Brasil e de
+Auditoria-Fiscal do Trabalho. Confira-se a ementa:
+AÇÃO DIRETA DE INCONSTITUCIONALIDADE.
+BÔNUS DE EFICIÊNCIA E PRODUTIVIDADE NA
+ATIVIDADE TRIBUTÁRIA E ADUANEIRA E DA
+AUDITORIA-FISCAL DO TRABALHO. LEI FEDERAL 13.464,
+DE 2017. SISTEMA REMUNERATÓRIO CONSTITUCIONAL
+DE SUBSÍDIO. RESERVA LEGAL ABSOLUTA NA FIXAÇÃO E
+ALTERAÇÃO DA REMUNERAÇÃO DE SERVIDORES
+PÚBLICOS.
+VEDAÇÃO
+À
+VINCULAÇÃO
+E
+À
+EQUIPARAÇÃO DE ESPÉCIES REMUNERATÓRIAS.
+1. A instituição do Bônus de Eficiência e Produtividade na
+Atividade Tributária e Aduaneira e da Auditoria-fiscal do
+Trabalho não ofende o regime constitucional de remuneração
+por subsídio. As carreiras a que se destinam exerceram opção
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 3A75-96E2-972F-8F85 e senha EB63-A801-9F07-9396
+
+Supremo Tribunal Federal
+Voto - MINISTRA PRESIDENTE
+
+Inteiro Teor do Acórdão - Página 11 de 16
+
+SL 1615 MC-R EF / SP
+constitucional por remuneração sob a sistemática de
+vencimentos (Art. 39, § 8º da CF/88).
+2. O Bônus de Eficiência não macula a exigência
+constitucional de lei específica a fixar e alterar a remuneração
+dos servidores públicos (Art. 37, X da CF/88). Legislação
+própria fixa o limite mínimo (vencimentos), enquanto a Lei
+13.464/2017 ressalta a observância do teto remuneratório do
+funcionalismo. A remuneração por desempenho encontra suas
+balizas, seu intervalo, satisfatoriamente previstas em lei formal
+e se amolda ao respaldo constitucional do princípio da
+eficiência (Art. 37, caput c/c Art. 39, § 7º da CF/88).
+3. Não ofende a regra constitucional de vedação à
+vinculação ou à equiparação de remuneração de servidores
+públicos (Art. 37, XIII da CF/88) o incremento salarial
+condicionado à satisfação de indicadores de desempenho e
+metas estabelecidos nos objetivos ou no planejamento
+estratégico dos órgãos a que vinculados os servidores.
+Precedentes da Corte. Distinções.
+4. Ação Direta de Inconstitucionalidade julgada
+improcedente.
+(ADI 6562, Relator(a): GILMAR MENDES, Tribunal Pleno,
+julgado em 09/03/2022, PROCESSO ELETRÔNICO DJe-059
+DIVULG 28-03-2022 PUBLIC 29-03-2022)
+
+8. Em síntese, esta Corte reconhece compatível com o princípio da
+eficiência na Administração Pública a instituição, sempre por meio de lei,
+de parcela remuneratória por performance (CF, art. 37, caput). Quanto às
+carreiras da Administração Tributária, como no caso, há expressa
+previsão constitucional nesse sentido (CF, art. 39, § 7º). Plenamente
+configurada, portanto, a plausibilidade jurídica do pedido de
+contracautela.
+Necessidade de prazo razoável à implementação das medidas e
+providências cabíveis nos planos legislativo, administrativo e
+orçamentário
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 3A75-96E2-972F-8F85 e senha EB63-A801-9F07-9396
+
+Supremo Tribunal Federal
+Voto - MINISTRA PRESIDENTE
+
+Inteiro Teor do Acórdão - Página 12 de 16
+
+SL 1615 MC-R EF / SP
+
+9. Outro aspecto de inquestionável relevo jurídico a ser considerado
+consiste no fato de o adicional em questão (APF) constituir parcela
+importante do regime remuneratório e da organização dos serviços da
+Administração Tributária municipal há mais de 20 (vinte) anos.
+10. Essa circunstância torna necessária a estipulação de prazo
+adequado para o Município de Cubatão adotar as providências
+legislativas necessárias ao cumprimento da decisão proferida pelo
+Tribunal de Justiça de São Paulo, caso o acórdão venha a ser mantido ao
+final.
+11. A ruptura imediata do regime remuneratório vigente, com a
+supressão pura e simples de aproximadamente 30% (trinta por cento) do
+estipêndio funcional dos servidores municipais, acarretará grave impacto
+na gestão da Administração Tributária local e evidente prejuízo aos
+servidores públicos municipais, privados de parcela significativa de suas
+remunerações.
+12. É preciso enfatizar que o adicional de produtividade fiscal
+caracteriza parcela remuneratória de caráter alimentar percebida pelos
+agentes fiscais de Cubatão desde 2003, a justificar a tutela da confiança e
+da boa-fé dos servidores municipais atingidos por sua supressão, assim
+como a preservação da segurança jurídica nas relações entre a
+Administração Pública municipal e os administrados.
+13. Em situações semelhantes, o Supremo Tribunal Federal tem
+entendido necessária a modulação dos efeitos das decisões proferidas em
+sede de controle concentrado, para assegurar aos entes federativos prazo
+razoável para a implementação das medidas e providências cabíveis nos
+planos legislativo, administrativo e orçamentário. Nessa linha:
+CONSTITUCIONAL E PROCESSO CIVIL. MODULAÇÃO
+DE EFEITOS EM EMBARGOS DE DECLARAÇÃO.
+VIABILIDADE. DEMONSTRAÇÃO DE SITUAÇÃO DE
+EXCEPCIONALIDADE. VALIDADE DE ATOS PRATICADOS
+EM CARGOS DE DELEGADO DE POLÍCIA DE GÊNESE
+NULA.
+INVIABILIDADE
+ADMINISTRATIVA
+E
+
+5
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 3A75-96E2-972F-8F85 e senha EB63-A801-9F07-9396
+
+Supremo Tribunal Federal
+Voto - MINISTRA PRESIDENTE
+
+Inteiro Teor do Acórdão - Página 13 de 16
+
+SL 1615 MC-R EF / SP
+ORÇAMENTÁRIA DE CUMPRIMENTO IMEDIATO DA
+DECISÃO. DIFERIMENTO DA EFICÁCIA DA DECISÃO, EM
+18 MESES A PARTIR DA PUBLICAÇÃO DA ATA DE
+JULGAMENTO.
+…...................................................................................................
+3. A jurisprudência do Plenário desta Suprema Corte
+reconhece a viabilidade de conhecimento de embargos
+declaratórios para a modulação da eficácia das decisões
+proferidas em controle concentrado de constitucionalidade,
+desde que comprovada suficientemente hipótese de singular
+excepcionalidade (ver, por todos, o leading case a respeito da
+questão, a ADI 3.601 ED, Rel. Min. DIAS TOFFOLI, DJe de
+15/12/2010).
+…...................................................................................................
+5. A reformulação do quadro de delegados do Estado do
+Amazonas num horizonte de curto prazo, além de dificultada
+pela inexistência de concurso em vigor, ainda encontra óbice na
+momentânea impossibilidade de incremento de despesas com
+pessoal, motivada pelo atingimento do limite prudencial para
+gastos desse tipo no ano de 2016, conforme demonstrado por
+Nota Técnica da Secretaria Executiva do Tesouro local.
+6. Acolhimento parcial dos embargos de declaração do
+Governador do Estado do Amazonas, para diferir, em 18 meses
+a partir da publicação da ata deste julgamento, os efeitos da
+decisão de inconstitucionalidade das leis em questão, período
+dentro do qual o Estado do Amazonas poderá programar-se,
+nos planos administrativo e orçamentário, para o cumprimento
+da decisão.
+(ADI 3415 ED-segundos, Relator(a): ALEXANDRE DE
+MORAES, Tribunal Pleno, julgado em 01/08/2018, PROCESSO
+ELETRÔNICO DJe-206 DIVULG 27-09-2018 PUBLIC 28-092018)
+Embargos
+de
+declaração.
+Ação
+direta
+de
+inconstitucionalidade. Artigo 7º da Lei Complementar nº
+100/2007 do Estado de Minas Gerais. Contexto fático-jurídico da
+
+6
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 3A75-96E2-972F-8F85 e senha EB63-A801-9F07-9396
+
+Supremo Tribunal Federal
+Voto - MINISTRA PRESIDENTE
+
+Inteiro Teor do Acórdão - Página 14 de 16
+
+SL 1615 MC-R EF / SP
+edição da lei impugnada. Situações concretas não mencionadas
+na modulação. Inexistência de omissão, contradição ou
+obscuridade. Impossibilidade de se analisar, em ação direta,
+todas as situações concretas decorrentes da declaração de
+inconstitucionalidade. Modulação dos efeitos. Informações
+trazidas aos autos que demonstram a necessidade de
+alargamento do prazo. Embargos de declaração parcialmente
+acolhidos. Questão de ordem. Manutenção dos efeitos
+produzidos pelo acordo celebrado entre a União, o Estado de
+Minas Gerais e o INSS foi homologado judicialmente pelo
+Superior Tribunal de Justiça no Recurso Especial nº
+1.135.162/MG.
+…...................................................................................................
+3. Deve ser alargado o prazo da modulação dos efeitos. O
+enorme volume de cargos de servidores da educação sujeitos a
+substituição por servidores concursados (por volta de 80.000
+servidores na educação básica) e a complexidade dos trâmites
+relacionados a tal substituição sinalizam para a inviabilidade de
+se proceder a todas as substituições até 1º de abril do corrente
+ano de 2015, quando teria fim o prazo de modulação. Soma-se a
+tudo isso a circunstância de que em 2014 ocorreram eleições
+estaduais, tendo havido sucessão na chefia do Poder Executivo
+do Estado, o que impactou os procedimentos voltados à
+regularização dos quadros funcionais abrangidos pelo art. 7º da
+Lei Complementar estadualnº 100/2007. Ademais, estando em
+curso o ano letivo, eventual substituição de um grande número
+de profissionais da educação impactaria negativamente o
+serviço de educação do Estado, devido à descontinuidade da
+metodologia de ensino, em prejuízo dos alunos.
+…...................................................................................................
+5. Embargos de declaração parcialmente acolhidos para,
+em relação aos servidores da educação básica e superior do
+Estado, estender o prazo de modulação dos efeitos até o final de
+dezembro de 2015, esclarecendo-se, em questão de ordem, que
+devem ser mantidos válidos os efeitos produzidos pelo acordo
+celebrado entre a União, o Estado de Minas Gerais e o INSS – o
+
+7
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 3A75-96E2-972F-8F85 e senha EB63-A801-9F07-9396
+
+Supremo Tribunal Federal
+Voto - MINISTRA PRESIDENTE
+
+Inteiro Teor do Acórdão - Página 15 de 16
+
+SL 1615 MC-R EF / SP
+qual foi homologado judicialmente pelo Superior Tribunal de
+Justiça no Recurso Especial nº 1.135.162/MG – no que tange à
+aplicação do regime próprio de previdência social aos
+servidores atingidos pela declaração de inconstitucionalidade
+parcial do art. 7º da Lei Complementar nº 100/2007, com a
+manutenção do período de contribuição junto ao regime
+próprio.
+(ADI 4876 ED, Relator(a): DIAS TOFFOLI, Tribunal Pleno,
+julgado em 20/05/2015, PROCESSO ELETRÔNICO DJe-161
+DIVULG 17-08-2015 PUBLIC 18-08-2015)
+
+14. No caso, a decisão proferida pelo TJSP será analisada por esta
+Suprema Corte em sede de recurso extraordinário, de modo que a
+suspensão dos efeitos do acórdão, até final julgamento de mérito, mostrase imprescindível à tutela da boa-fé e da confiança dos servidores
+públicos municipais, assim como necessária à preservação da
+regularidade das atividades da Administração Tributária do Município
+de Cubatão.
+15. Ante o exposto, deferido o pedido de medida liminar, para
+sustarem-se os efeitos da medida cautelar deferida pelo Tribunal de
+Justiça do Estado de São Paulo nos autos da ADI nº 222330529.2022.8.26.0000, até o trânsito em julgado da decisão de mérito
+proferida naquela causa.
+16. Reafirmando os fundamentos expendidos, submeto-os à
+consideração dos eminentes pares.
+É como voto.
+
+8
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 3A75-96E2-972F-8F85 e senha EB63-A801-9F07-9396
+
+Supremo Tribunal Federal
+Extrato de Ata - 13/03/2023
+
+Inteiro Teor do Acórdão - Página 16 de 16
+
+PLENÁRIO
+EXTRATO DE ATA
+REFERENDO NA MEDIDA CAUTELAR NA SUSPENSÃO DE LIMINAR 1.615
+PROCED. : SÃO PAULO
+RELATORA : MINISTRA PRESIDENTE
+REQTE.(S) : MUNICIPIO DE CUBATAO
+ADV.(A/S) : PROCURADOR-GERAL DO MUNICÍPIO DE CUBATÃO
+REQDO.(A/S) : RELATOR DA ADI Nº 2223305-29.2022.8.26.0000 DO
+TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO
+ADV.(A/S) : SEM REPRESENTAÇÃO NOS AUTOS
+INTDO.(A/S) : PROCURADOR-GERAL DE JUSTIÇA DO ESTADO DE SÃO PAULO
+PROC.(A/S)(ES) : PROCURADOR-GERAL DE JUSTIÇA DO ESTADO DE SÃO
+PAULO
+INTDO.(A/S) : ASSOCIACAO DOS SERVIDORES DE FISCALIZACAO DE
+TRIBUTOS MUNICIPAIS DE CUBATAO - ASFIT
+ADV.(A/S) : MARCELO LAMY (122446/SP) E OUTRO(A/S)
+INTDO.(A/S) : ASSOCIACAO DOS FISCAIS E AUDITORES TRIBUTARIOS
+MUNICIPAIS DO ESTADO DE SAO PAULO
+ADV.(A/S) : CARLOS EDUARDO DE OLIVEIRA (135531/SP) E OUTRO(A/S)
+INTDO.(A/S) : ASSOCIACAO NACIONAL DOS AUDITORES FISCAIS DE
+TRIBUTOS DOS MUNICIPIOS E DISTRITO FEDERAL - ANAFISCO
+ADV.(A/S) : FELIPE TEIXEIRA VIEIRA (69252/BA, 31718/DF,
+27809/A/MT, 214342/RJ, 389419/SP)
+INTDO.(A/S) : ASSOCIAÇÃO DOS AGENTES FISCAIS E FISCAIS DE TRIBUTOS
+DA PREFEITURA MUNICIPAL DE CUBATÃO - AFISC
+ADV.(A/S) : VANDERLI VOLPINI ROCHA (24395/SP) E OUTRO(A/S)
+INTDO.(A/S) : FEDERACAO NACIONAL DOS AUDITORES E FISCAIS DE
+TRIBUTOS MUNICIPAIS - FENAFIM
+ADV.(A/S) : FABIO LUIZ FERRAZ MING (300298/SP)
+INTDO.(A/S) : MESA DA CÂMARA MUNICIPAL DE CUBATÃO
+ADV.(A/S) : DOUGLAS PREDO MATEUS (150811/SP) E OUTRO(A/S)
+Decisão: O Tribunal, por unanimidade, referendou a liminar
+concedida, para sustarem-se os efeitos da medida cautelar deferida
+pelo Tribunal de Justiça do Estado de São Paulo nos autos da ADI
+nº 2223305-29.2022.8.26.0000, até o trânsito em julgado da decisão
+de mérito proferida naquela causa, nos termos do voto da Relatora,
+Ministra Rosa Weber (Presidente). Plenário, Sessão Virtual de
+3.3.2023 a 10.3.2023.
+Composição: Ministros Rosa Weber (Presidente), Gilmar Mendes,
+Ricardo Lewandowski, Cármen Lúcia, Dias Toffoli, Luiz Fux, Roberto
+Barroso, Edson Fachin, Alexandre de Moraes, Nunes Marques e André
+Mendonça.
+Carmen Lilian Oliveira de Souza
+Assessora-Chefe do Plenário
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 4D97-B607-73CD-61D6 e senha 60CC-8842-F280-CCF5
