@@ -1,0 +1,43 @@
+DECISÃO:
+
+    1. Trata-se de reclamação, com pedido liminar, ajuizada por Claro S.A. em face de decisão do Tribunal Regional do Trabalho da 2ª Região proferida nos Autos nº 1000602-81.2019.5.02.0242. A parte reclamante alega afronta ao decidido nas ADCs 58 e 59.
+
+    2.  É o relatório. Decido.
+
+    3. Dispenso a manifestação da Procuradoria-Geral da República, diante do caráter reiterado da matéria (RI/STF, art. 52, parágrafo único).
+
+    4. Ao apreciar a medida liminar na ADC 58, o Rel. Min. Gilmar Mendes determinou a suspensão de todos os processos que envolvessem a aplicação dos arts. 879, § 7º, e 899, § 4º, da CLT, com a redação dada pela Lei nº 13.467/2017, e do art. 39, caput e § 1º, da Lei nº 8.177/1991. Em 18.12.2020, o Plenário do Supremo Tribunal Federal, em julgamento conjunto das ADCs 58 e 59 e das ADIs 6.021 e 5.867, decidiu, por maioria, que “à atualização dos créditos decorrentes de condenação judicial e à correção dos depósitos recursais em contas judiciais na Justiça do Trabalho deverão ser aplicados, até que sobrevenha solução legislativa, os mesmos índices de correção monetária e de juros que vigentes para as condenações cíveis em geral, quais sejam a incidência do IPCA-E na fase pré-judicial e, a partir da citação, a incidência da taxa SELIC (art. 406 do Código Civil)”.
+
+    5. Também, por maioria, foram modulados os efeitos da decisão, fixando-se os seguintes marcos: “(i) são reputados válidos e não ensejarão qualquer rediscussão, em ação em curso ou em nova demanda, incluindo ação rescisória, todos os pagamentos realizados utilizando a TR (IPCA-E ou qualquer outro índice), no tempo e modo oportunos (de forma extrajudicial ou judicial, inclusive depósitos judiciais) e os juros de mora de 1% ao mês, assim como devem ser mantidas e executadas as sentenças transitadas em julgado que expressamente adotaram, na sua fundamentação ou no dispositivo, a TR (ou o IPCA-E) e os juros de mora de 1% ao mês; (ii) os processos em curso que estejam sobrestados na fase de conhecimento, independentemente de estarem com ou sem sentença, inclusive na fase recursal, devem ter aplicação, de forma retroativa, da taxa Selic (juros e correção monetária), sob pena de alegação futura de inexigibilidade de título judicial fundado em interpretação contrária ao posicionamento do STF (art. 525, §§ 12 e 14, ou art. 535, §§ 5º e 7º, do CPC)”. A respectiva ata de julgamento foi publicada em 12.02.2021 no Diário de Justiça Eletrônico.
+
+    6. Na sequência, a Corte acolheu parcialmente os embargos de declaração opostos pela AGU, “tão somente para sanar o erro material constante da decisão de julgamento e do resumo do acórdão, de modo a estabelecer a incidência do IPCA-E na fase pré-judicial e, a partir do ajuizamento da ação, a incidência da taxa SELIC (art. 406 do Código Civil), sem conferir efeitos infringentes”.
+
+    7. Para consolidar o entendimento, esta Corte reconheceu a repercussão geral da matéria no Tema 1.191 e fixou a seguinte tese:
+
+    I - É inconstitucional a utilização da Taxa Referencial - TR como índice de atualização dos débitos trabalhistas, devendo ser aplicados, até que sobrevenha solução legislativa, os mesmos índices de correção monetária e de juros vigentes para as condenações cíveis em geral, quais sejam a incidência do IPCA-E na fase pré-judicial e, a partir do ajuizamento da ação, a incidência da taxa SELIC (art. 406 do Código Civil), à exceção das dívidas da Fazenda Pública, que possuem regramento específico. A incidência de juros moratórios com base na variação da taxa SELIC não pode ser cumulada com a aplicação de outros índices de atualização monetária, cumulação que representaria bis in idem. II - A fim de garantir segurança jurídica e isonomia na aplicação desta tese, devem ser observados os marcos para modulação dos efeitos da decisão fixados no julgamento conjunto da ADI 5.867, ADI 6.021, ADC 58 e ADC 59, como segue: (i) são reputados válidos e não ensejarão qualquer rediscussão, em ação em curso ou em nova demanda, incluindo ação rescisória, todos os pagamentos realizados utilizando a TR (IPCA-E ou qualquer outro índice), no tempo e modo oportunos (de forma extrajudicial ou judicial, inclusive depósitos judiciais) e os juros de mora de 1% ao mês, assim como devem ser mantidas e executadas as sentenças transitadas em julgado que expressamente adotaram, na sua fundamentação ou no dispositivo, a TR (ou o IPCA-E) e os juros de mora de 1% ao mês; (ii) os processos em curso que estejam sobrestados na fase de conhecimento, independentemente de estarem com ou sem sentença, inclusive na fase recursal, devem ter aplicação, de forma retroativa, da taxa Selic (juros e correção monetária), sob pena de alegação futura de inexigibilidade de título judicial fundado em interpretação contrária ao posicionamento do STF (art. 525, §§ 12 e 14, ou art. 535, §§ 5º e 7º, do CPC e (iii) os parâmetros fixados neste julgamento aplicam-se aos processos, ainda que transitados em julgado, em que a sentença não tenha consignado manifestação expressa quanto aos índices de correção monetária e taxa de juros (omissão expressa ou simples consideração de seguir os critérios legais).
+
+    8. Observa-se que o órgão reclamado inovou na aplicação dos critérios de correção monetária e juros de mora ao acrescer à condenação indenização suplementar equivalente a 1% ao mês, com fundamento no art. 404, parágrafo único, do Código Civil.
+
+    9. Em caso semelhante ao dos autos, o Ministro Gilmar Mendes, relator dos paradigmas invocados, considerou que a fixação de indenização suplementar, como forma de compensação em razão dos parâmetros fixados por esta Corte, constitui burla ao entendimento assentado no julgamento das ADCs 58 e 59 das ADIs 5.867 e ADI 6.021. Transcrevo o trecho pertinente na decisão:
+
+    [...] Ora, como bem se observa, o Tribunal de origem entendeu devida a condenação do reclamado ao pagamento de indenização suplementar fixada em 0,89% ao mês incidente sobre o valor bruto da execução, a partir da citação, em razão da supressão dos juros de mora, o que teria resultado num prejuízo ao trabalhador, ora beneficiário.
+
+    Evidente que a autoridade reclamada afetou a legitimidade e efetividade do entendimento assentado na ADC 58 ao modificar, por via transversa, o parâmetro definido para fins de correção monetária quando fixou indenização suplementar como forma de compensação ao suposto prejuízo do credor.
+
+    Desse modo, entendo que o ato reclamado encontra-se em dissonância com a decisão vinculativa exarada por esta Suprema Corte no julgamento das ADC 58, ADC 59, ADI 5.867 e ADI 6.021 que fixou como índice de correção monetária e de juros vigentes o IPCA-E, na fase pré-judicial e, a partir da citação, a taxa SELIC, para todas as condenações ocorridas em reclamações trabalhistas, sem qualquer distinção. (Rcl 47.802)
+
+    10. No mesmo sentido se pronunciou a Ministra Cármen Lúcia na Rcl 46.550: “a forma de atualização estipulada na decisão reclamada, se admitida, conduziria à inefetividade do que decidido por este Supremo Tribunal no julgamento das Ações Declaratórias de Constitucionalidade ns. 58 e 59 e das Ações Diretas de Inconstitucionalidade ns. 5.867 e 6.021, pois restabeleceria, de modo oblíquo, a forma de cálculo antes empregada pela Justiça do Trabalho na atualização dos débitos trabalhistas (TR ou IPCA-E e juros de 12% ao ano)”.
+
+    11. Esse é o entendimento que tem prevalecido nas decisões monocráticas proferidas pelos Ministros desta Corte. Além das acima citadas, confiram-se: Rcls 46.971 e 49.889, de relatoria do Min. Alexandre de Moraes; Rcl 48.282, de relatoria do Min. Ricardo Lewandowski; Rcl 47.801, de relatoria do Min. Dias Toffoli; Rcl 46.970, de relatoria da Minª. Cármen Lúcia; Rcl 47.412, de relatoria do Min. Nunes Marques e Rcl 51.893 MC, de relatoria do Min. André Mendonça.
+
+    12. Diante do exposto, com base no art. 161, parágrafo único, do RI/STF, julgo procedente o pedido, para cassar a decisão reclamada (Autos nº  1000602-81.2019.5.02.0242) e determinar que outra seja proferida, com observância da tese jurídica fixada no julgamento conjunto das ADCs 58 e 59 e das ADIs 5.867 e 6.021.
+
+    13. Comunique-se à autoridade reclamada, remetendo-lhe cópia da presente decisão, para que junte aos autos do processo de origem e para que dê ciência à parte beneficiária do trâmite da presente reclamação no Supremo Tribunal Federal.
+
+    Publique-se.
+
+          Brasília, 13 de março de 2023.
+
+Ministro LUÍS ROBERTO BARROSO
+
+Relator
