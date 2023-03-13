@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/03/2023 a 13/03/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de embargos de declaração opostos por CONSELHO REGIONAL DE EDUCAÇÃO FÍSICA DO ESTADO DO RIO GRANDE DO SUL contra acórdão que negou provimento a agravo interno, assim ementado:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. CONSELHO PROFISSIONAL. ANUIDADES. ARQUIVAMENTO DAS EXECUÇÕES DE BAIXO VALOR, SEM BAIXA NA DISTRIBUIÇÃO. ACÓRDÃO RECORRIDO PELA APLICAÇÃO IMEDIATA DA REGRA AOS PROCESSOS EM CURSO. RAZÕES RECURSAIS INSUFICIENTES À IMPUGNAÇÃO E À ALTERAÇÃO DO ACÓRDÃO RECORRIDO.
+1. Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+2. O órgão julgador a quo, atento à regra do § 2º do art. 8º da Lei n. 12.514/2011, na redação dada pela Lei n. 14.195/2021, decidiu pelo arquivamento de execução fiscal, sem baixa na distribuição, destacando não se tratar de regra de direito intertemporal.
+3. No caso dos autos, o recurso não pode ser conhecido porque as razões recursais não contêm impugnação específica ao fundamento de que não se trata de controvérsia a respeito de direito intertemporal nem explicitam como a lei poderia estar violada pelo acórdão recorrido. Observância das Súmulas 283 e 284 do STF.
+4. Agravo interno não provido.
+A parte embargante considera haver obscuridade no acórdão embargado alega, em síntese (fls. 129/153):
+O acórdão incorreu em obscuridade, porquanto  ..  o embargante impugnou de forma específica o principal fundamento do acórdão recorrido: a nova redação do artigo 8º da lei nº 12.514/2011, dada pela Lei nº 14.195/2021, regulou de forma expressa sua aplicabilidade para os processos em curso, não se tratando de regra de direito intertemporal  ..  ressaltando que não há em nenhum lugar da nova redação do artigo 8º da Lei nº 12.514/2011 qualquer previsão no sentido de que os seus efeitos retroagirão aos executivos fiscais que estejam em curso.
+Pede, ainda, o sobrestamento do recurso em razão da escolha de recursos representativos da controvérsia pela Comissão Gestora de Precedentes, REsp 2.029.970/SC, REsp 2.029.972/RS, REsp 2.030.253/SC e REsp 2.031.023/RS.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. No caso dos autos, não há vício a ensejar esclarecimento, complemento ou eventual integração do que fora decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+No caso dos autos, não há vício a ensejar esclarecimento, complemento ou eventual integração do que fora decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+Com efeito, o acórdão ora embargado, apontando para os fundamentos adotados pelo Tribunal Regional Federal, externou: "as razões recursais não conseguem explicitar como o acórdão recorrido poderia estar violando o art. 8º da Lei n. 12.514/2011, uma vez que não contém impugnação específica ao fundamento de que não se trata de controvérsia a respeito de direito intertemporal  ..  se a lei estabelece valor mínimo como condição para a instauração do processo executivo e, por norma legal superveniente, altera-se o patamar do respectivo valor, com a determinação de arquivamento das execuções com valor inferior, sem baixa na distribuição, não há como se entender pela não observância da imposição legal em razão de a execução ter sido ajuizada anteriormente ao início de vigência da lei modificadora, porquanto regras processuais têm aplicação imediata aos processos em curso. A propósito, esta é a regra incluída, pela Lei n. 14.195/2021, no art. 8º da Lei n. 12.514/2011  ..  o caso em análise não se assemelha àquele analisado pela Primeira Seção, REsp n. 1.404.796/SP, repetitivo, que apreciou a impossibilidade de retroação da regra do art. 8º da Lei n. 12.514/2011 para o fim de extinção de execuções fiscais ajuizadas antes do início de sua vigência".
+Não se verifica, pois, a obscuridade apontada pela parte embargante.
+Por fim, enquanto a Primeira Seção não decidir pela afetação do tema à sistemática dos recursos repetitivos, não há razão para revogar o acórdão embargado para determinar o sobrestamento do recurso.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
