@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/03/2023 a 13/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+Trata-se de agravo interno interposto por COMPANHIA NACIONAL DE ABASTECIMENTO CONAB contra decisão em que conheci do agravo para não conhecer de recurso especial, considerando a incidência das Súmulas 282 e 356 do STF quanto à interposição pela alínea "a" e, ainda, da Súmula 284 do STF no tocante à interposição pela alínea "c".
+A parte agravante alega, em síntese, que a tese relativa à distribuição do ônus probatório, em que questiona o afastamento da presunção de legitimidade, estaria devidamente prequestionada, ainda que implicitamente, tendo sido debatida no acórdão recorrido. Aduz, ainda, que o acórdão foi omisso quanto ao real fundamento da aplicação da penalidade, qual seja, a existência de regular processo administrativo no qual cabia à agravada comprovar que cumpriu o contrato.
+Sustenta, também, que, quanto à interposição pela alínea "c", que o agravante demonstrou suficientemente a violação do art. 333, II, do CPC/2015, não havendo falar em incidência da Súmula 284/STF.
+Contraminuta apresentada às e-STJ fls. 803/816, em que a parte adversa pugna pelo não conhecimento do agravo e, subsidiariamente, pelo seu desprovimento.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. PREQUESTIONAMENTO. AUSÊNCIA. DIVERGÊNCIA JURISPRUDENCIAL. DEFICIÊNCIA
+1. Não se conhece de recurso especial cuja controvérsia não foi objeto de prequestionamento nem de oposição de embargos de declaração de modo a suprir o alegado vício, circunstância que atrai a incidência dos enunciados das Súmulas 282 e 356 do STF.
+2. Esta Corte tem o entendime nto de que é inadmissível o recurso especial que, a despeito de fundamentar-se em dissídio jurisprudencial, deixa de apontar o dispositivo de lei federal ao qual o Tribunal de origem teria dado interpretação divergente daquela firmada por outros tribunais, incidindo na espécie a Súmula 284 do STF.
+3. Agravo interno desprovido.
+VOTO
+O presente agravo não merece prosperar.
+Como assinalado na decisão ora agravada, a tese da agravante quanto à violação do art. 373, II, do CPC/2015 é de que a aplicação da penalidade decorreu, além da presunção de legitimidade do ato administrativo, de decisão judicial anterior que não reconheceu o cumprimento do contrato pela empresa recorrida, CHARQUEADAS TRANSPORTES LTDA., de modo que caberia a ela a comprovação de que a CONAB não poderia lhe aplicar a penalidade, ou seja, de que houve cumprimento contratual.
+Porém, o Tribunal de origem não se pronunciou sobre o referido dispositivo legal sob o aludido viés pretendido.
+No acórdão recorrido, a Corte a quo aduziu que "o direito administrativo sancionador segue, mutatis mutandi, os mesmos critérios do direito penal. Não bastam indícios e presunções para a aplicação de pena. Aliás, se confirmada a punição aplicada pela CONAB, a consequência seria o encaminhamento ao Ministério Público Federal, vez que os fatos, em tese, configuram também infração penal. Consoante tenho votado nesta Turma, a presunção de legitimidade do ato administrativo, com a consequente inversão do ônus da prova, não é suficiente para sustentar aplicação de pena" (e-STJ fl. 506).
+Outrossim, nos termos do decisum atacado, diferentemente do que alega no presente agravo, a parte não suscitou a questão, atinente à decisão judicial anterior que não teria reconhecido o cumprimento do contrato pela empresa recorrida, nos aclaratórios a fim de provocar o Tribunal a se manifestar, de modo que incide, de fato, as Súmulas 282 e 356 do STF ao caso.
+Forçoso salientar, ainda, que não é aplicável à espécie o art. 1.025 do CPC/2015 (prequestionamento ficto), pois a questão, além de não ter sido objeto dos aclaratórios, para provocar o Tribunal local a se manifestar, também não foi objeto de apelo no recurso especial, para fins de nulidade do acórdão recorrido por violação do art. 1.022 do CPC/2015, outro requisito para admissão de prequestionamento ficto (art. 1.025 do CPC/2015), na esteira da orientação jurisprudencial desta Corte.
+A propósito:
+PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.
+1. É inadmissível Recurso Especial quanto à questão (art. 21, parágrafo único, do CPC/1973) que, a despeito da oposição de Embargos Declaratórios, não foi apreciada pelo Tribunal de origem. Incidência da Súmula 211/STJ.
+2. De acordo com a jurisprudência do STJ, "a admissão de prequestionamento ficto (art. 1.025 do CPC/2015), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/2015, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Rel. Min. Nancy Andrighi, Terceira Turma, DJe 10/4/2017).
+3. Ademais, o acórdão hostilizado consignou que a matéria devolvida na Apelação voluntária do ente público era restrita à discussão: a) quanto ao caráter confiscatório da multa, e b) da perda de interesse processual, depois da superveniência de lei local que reduziu a multa de 200% para 100%. Assim, ao negar provimento à Apelação e manter "incólumes todos os termos da sentença guerreada" (fl. 159, e-STJ), a Corte regional dá a entender que a divisão equânime dos encargos sucumbenciais fora definida já na sentença do juízo de primeiro grau, sem impugnação no recurso voluntário interposto pelo ente público - situação que gera preclusão contra o ente fazendário.
+4. Recurso Especial não conhecido.
+(REsp 1.812.100/PB, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 11/06/2019, DJe 17/06/2019).
+No ponto, forçoso salientar que a própria parte agravante indica a omissão do Tribunal de origem sobre a questão, de modo que, não suscitada nos embargos de declaração, não debatida no acórdão recorrido e, ainda, não tendo sido objeto de impugnação no apelo especial, por violação ao art. 1.022 do CPC/2015, não se pode falar em prequestionamento implícito.
+Outrossim, no tocante à interposição pela alínea "c", igualmente não merece retoque a decisão agravada.
+Em suas razões de agravo, a parte aduz que "demonstrou que o ponto fulcral da divergência residia na discussão sobre a presunção da legitimidade do ato administrativo, com fundamento no art. 333, II, CPC/73" (e-STJ fl. 764).
+Contudo, conforme destacado na decisão combatida, no tópico do apelo nobre relativo ao dissídio jurisprudencial, não houve indicação precisa do dispositivo de lei. Não basta a indicação da tese. Deve estar expresso qual o dispositivo de lei federal de cuja interpretação o acórdão impugnado divergiu, o que não ocorreu na espécie.
+Assim, não há como afastar a incidência do óbice contido na Súmula 284 do Supremo Tribunal Federal.
+Por fim, embora não merecedor de acolhimento, o agravo interno, no caso, não se revela manifestamente inadmissível ou improcedente, razão pela qual não deve ser aplicada a multa do § 4º do art. 1.021 do CPC/2015.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
