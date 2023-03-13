@@ -1,0 +1,5 @@
+DECISÃO
+Cuida-se de carta rogatória por meio da qual a Confederação suíça (Departamento de Recuperação de Ativos e Cooperação Internacional) solicita a intimação de DOMINGOS DE MOURA CICCARINO acerca de sentença penal por crime de condução de veículo automotor sem habilitação legal e acima da velocidade da via, que o condenou ao pagamento de 20 (vinte) dias-multa, com pena suspensa durante 2 anos, e demais despesas do processo, com a advertência de que em caso de inadimplemento poderá ser determinado o cumprimento de pena adicional ou prisão subsidiária (fls. 8/9).
+Os autos retornaram a esta Corte acompanhados de certidão positiva exarada por oficial de justiça, na qual consigna que o interessado foi intimado por meio eletrônico, valendo-se do aplicativo de mensagens denominado whatsapp (fls. 87 e 89-92 ).
+Diante do exposto, devidamente cumprida a carta rogatória, determino a devolução dos autos à Justiça rogante por intermédio da autoridade central competente, nos termos do art. 216-X, do RISTJ.
+Publique-se.
