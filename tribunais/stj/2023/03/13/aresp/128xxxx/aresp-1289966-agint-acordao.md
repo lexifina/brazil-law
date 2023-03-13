@@ -1,0 +1,75 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/03/2023 a 13/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL COM PEDIDO DE MEDIDA ANTECIPATÓRIA DE TUTELA DE MÉRITO. PLANO DE SAÚDE COLETIVO. AUSÊNCIA DE PREQUESTIONAMENTO. ADMISSÃO DE PREQUESTIONAMENTO FICTO. NECESSIDADE DE INDICAÇÃO DE AFRONTA AO ART. 1.022 DO NCPC EM RELAÇÃO À MATÉRIA. INEXISTÊNCIA. REAJUSTE POR AUMENTO DE SINISTRALIDADE. ÍNDOLE ABUSIVA NÃO DEMONSTRADA. MODIFICAÇÃO. IMPOSSIBILIDADE. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REEXAME PROBATÓRIO. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. A falta de prequestionamento da matéria alegada nas razões do recurso especial impede seu conhecimento, não obstante a oposição de embargos declaratórios. Incidência da Súmula 211 do STJ.
+2. O Superior Tribunal de Justiça, ao interpretar o art. 1.025 do NCPC, concluiu que "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe de 10/04/2017).
+3. A jurisprudência desta Corte é firme no sentido de que não é abusiva a cláusula que prevê a possibilidade de reajuste do plano de saúde, seja por variação de custos ou por aumento de sinistralidade, cabendo ao magistrado a respectiva análise, no caso concreto, do caráter abusivo do reajuste efetivamente aplicado. Precedentes.
+4. Na hipótese, o Tribunal de origem, analisando o conjunto fático-probatório contido nos autos, concluiu que o índice aplicado no contrato em análise não foi abusivo, sendo inviável a modificação de tal entendimento, em razão da incidência das Súmulas 5 e 7 do STJ.
+5. Agravo interno a que se nega provimento.
+RELATÓRIO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Trata-se de agravo interno (fls. 892-899), interposto por MARILENE MAION DOS SANTOS, contra decisão (fls. 885-888), desta relatoria, que conheceu do agravo para não conhecer do recurso especial, sob os seguintes fundamentos:
+a) incidência da Súmula 211 do STJ, em relação aos arts. 3º, 4º, 6º, 39, 42 e 51 do CDC e 15, § 3º, da Lei 10.741/2003; e
+b) quanto aos arts. 421, 422, 423 e 424 do Código Civil e 373, II, do CPC/2015, por incidência das Súmulas 7 e 5 do STJ, pelas alíneas "a" e "c" do permissivo constitucional.
+Nas razões do agravo interno, afirma-se que "(..) A interposição respeitou, também, os ditames do art. 105, da CF, bem como o Regimento Interno do Superior Tribunal de Justiça, de modo que, tendo havido o competente pré-questionamento, não há o que se falar em incidência da Sumula 211, do STJ. No caso concreto, suscitar como violado o artigo 1.022, do CPC, além de ser facultativo ao recorrente, acaba por distorcer o objeto da lide e causa imbróglio processual. (..)" (fl. 896).
+Alega, também, que "(..) resta patente a desnecessidade do reexame dos autos. (..)" (fl. 897).
+Aduz, ainda, que, " sob o prisma da alínea "c" do permissivo constitucional o mesmo sequer foi analisado, sob o fundamento de que "a incidência da Súmula 7 do STJ pela alínea "a" também obsta o conhecimento do apelo especial pela alínea "c" do permissivo constitucional", o que não pode prevalecer sob pena de repercutir em prestação jurisdicional lacunosa. Primeiro porque, como narrado no tópico anterior, o julgamento do recurso especial não demanda reexame de provas, o que torna inócuo o fundamento utilizado para não analisar a divergência. Segundo porque a comprovação e demonstração do dissídio jurisprudencial foram realizados nos termos dos artigos 1.029, § 1º do CPC e 255, § 1º, do RISTJ, com o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações conferidas aos dispositivos legais indicados" (fl. 897).
+Ao final, pleiteia a reconsideração da decisão agravada ou, se mantida, seja o presente feito levado a julgamento perante a eg. Quarta Turma.
+ASSOCIAÇÃO DOS FUNCIONÁRIOS PÚBLICOS MUNICIPAIS DE JUNDIAÍ E REGIÃO apresentou impugnação às fls. 902-907.
+NOTRE DAME INTERMÉDICA SAÚDE S/A apresentou, em sequência, impugnação do agravo interno às fls. 908-911.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL COM PEDIDO DE MEDIDA ANTECIPATÓRIA DE TUTELA DE MÉRITO. PLANO DE SAÚDE COLETIVO. AUSÊNCIA DE PREQUESTIONAMENTO. ADMISSÃO DE PREQUESTIONAMENTO FICTO. NECESSIDADE DE INDICAÇÃO DE AFRONTA AO ART. 1.022 DO NCPC EM RELAÇÃO À MATÉRIA. INEXISTÊNCIA. REAJUSTE POR AUMENTO DE SINISTRALIDADE. ÍNDOLE ABUSIVA NÃO DEMONSTRADA. MODIFICAÇÃO. IMPOSSIBILIDADE. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REEXAME PROBATÓRIO. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. A falta de prequestionamento da matéria alegada nas razões do recurso especial impede seu conhecimento, não obstante a oposição de embargos declaratórios. Incidência da Súmula 211 do STJ.
+2. O Superior Tribunal de Justiça, ao interpretar o art. 1.025 do NCPC, concluiu que "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe de 10/04/2017).
+3. A jurisprudência desta Corte é firme no sentido de que não é abusiva a cláusula que prevê a possibilidade de reajuste do plano de saúde, seja por variação de custos ou por aumento de sinistralidade, cabendo ao magistrado a respectiva análise, no caso concreto, do caráter abusivo do reajuste efetivamente aplicado. Precedentes.
+4. Na hipótese, o Tribunal de origem, analisando o conjunto fático-probatório contido nos autos, concluiu que o índice aplicado no contrato em análise não foi abusivo, sendo inviável a modificação de tal entendimento, em razão da incidência das Súmulas 5 e 7 do STJ.
+5. Agravo interno a que se nega provimento.
+VOTO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+A irresignação não merece prosperar.
+Verifica-se que os arts. 373 do CPC/2015, 3º, 4º, 6º, 39, 42 e 51 do CDC e 15, § 3º, da Lei 10.741/2003 não estão prequestionados, apesar da oposição de embargos de declaração no eg. TJ-SP.
+Assim, se, mesmo após o julgamento dos embargos de declaração, o eg. Tribunal a quo continuar omisso quanto à matéria que se pretendia prequestionar, é dever do recorrente, no apelo nobre, apontar violação ao art. 1.022 do CPC/2015 (art. 535 do CPC/73), o que não ocorreu no caso em liça. Nesse cenário, o apelo nobre esbarra no óbice da Súmula 211/STJ.
+Nessa linha de intelecção, destacam-se os seguintes julgados:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE CANCELAMENTO DE PROTESTO. FALTA DE PREQUESTIONAMENTO. APLICAÇÃO DA SÚMULA N. 211 DO STJ. ENDOSSO MANDATO. MÁ-FÉ DA INSTITUIÇÃO BANCÁRIA. NÃO COMPROVAÇÃO. MATÉRIA QUE DEMANDA REEXAME. SÚMULA 7. PRECEDENTES DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. As matérias referentes aos arts. 514, II, do CPC/1973 e 1.013, §§1º e 2º, do CPC/2015, não foram objeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmula 211/STJ).
+(..)
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1.314.865/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 13/12/2018, DJe de 18/12/2018)
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. ACIDENTE DE TRÂNSITO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211 DO STJ. DANO MORAL. VALOR RAZOÁVEL. REEXAME FÁTICO DOS AUTOS. SÚMULA N. 7/STJ.
+1. "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo" (Súmula n. 211/STJ).
+(..)
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1.098.085/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 13/12/2018, DJe de 19/12/2018)
+Avançando, o Tribunal de origem, analisando as circunstâncias do caso, concluiu que não houve ilegalidade na conduta da operadora em aumentar os valores cobrados pelo plano de saúde, como se infere do trecho abaixo transcrito (fls. 708-712):
+"Não se vê ilegalidade na modificação promovida no contrato pela estipulante.
+A autora, como participante de contrato de plano de saúde coletivo, está sujeita às revisões e às modificações que possam ser introduzidas pela estipulante e a operadora, mormente a rescisão do contrato e a estipulação de nova contratação, como ocorreu no caso dos autos.
+É certo que as deliberações tomadas entre os contratantes não são ilimitadas, podendo ser glosadas em caso de ilegalidade. Mas no caso dos autos, não se vê tenha ocorrido qualquer irregularidade no encerramento do contrato velho para a estipulação do novo ajuste, diante da situação deficitária que se encontrava a carteira.
+A autora sustentou na inicial da demanda que pagava a mensalidade de R$ 567,84 para quatro pessoas (R$ 141,96 por pessoa), o que indica, por si só, a receita deficitária do ajuste. O valor fixado, de R$ 891,92, é razoável para quatro vidas, sendo dois idosos, e a previsão da co- participação é amplamente aceita, vez que reduz o risco do negócio que, consequentemente, reflete no valor das prestações mensais.
+Veja-se que o Egrégio Superior Tribunal de Justiça já decidiu: "Não é abusiva cláusula contratual de plano privado de assistência à saúde que estabeleça a coparticipação do usuário nas despesas médico-hospitalares em percentual sobre o custo de tratamento médico realizado sem internação, desde que a coparticipação não caracterize financiamento integral do procedimento por parte do usuário, ou fator restritor severo ao acesso aos serviços" (REsp. n. 1.566.062/RS, rel. Min. Ricardo Villas Bôas Cueva , j.
+21.06.2016).
+Ademais, o Egrégio Superior Tribunal de Justiça também tem entendido que não há óbice à alteração do contrato de plano de saúde em caso de se encontrar deficitário:
+(..)
+Portanto, não vislumbrando ilegalidades na conduta da ré, o pedido é improcedente." (grifou-se)
+Nos termos da jurisprudência desta Corte, é "possível o reajuste de contratos de saúde coletivos sempre que a mensalidade do seguro ficar cara ou se tornar inviável para os padrões da empresa contratante, seja por variação de custos ou por aumento de sinistralidade (AgRg nos EDcl no AREsp 235.553/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 2/6/2015, DJe de 10/6/2015)" (AgInt no AREsp 1.848.568/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 22/11/2021, DJe de 25/11/2021).
+Nesse contexto, a pretensão de alterar tal entendimento, sob alegada ofensa aos dispositivos mencionados, ensejaria a análise de cláusulas contratuais e o reexame do acervo fático-probatório, inviável em sede de recurso especial, conforme dispõem as Súmulas 5 e 7 do STJ. Nesse sentido, confiram-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. AUMENTO POR SINISTRALIDADE. VALORES NÃO ABUSIVOS. REEXAME DE CONTEÚDO FÁTICO-PROBATÓRIO. INADMISSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. A jurisprudência desta Corte é no sentido de ser lícita a cláusula que prevê a possibilidade de reajuste do plano de saúde, seja por variação de custos ou por aumento de sinistralidade. No entanto, a revisão do entendimento do Tribunal de origem, no caso concreto, sobre o abuso do reajuste por sinistralidade é inviável em sede de recurso especial, em razão das Súmulas n. 5 e 7 do STJ (AgInt no AREsp 1.400.251/SP, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 7/12/2020, DJe 1º/2/2021).
+2. No caso, o Tribunal de origem considerou lícitos os percentuais de reajuste aplicados pela empresa de saúde, pois foram livremente pactuados pelas partes (cláusulas 13, 14 e 15 do contrato) e os valores são próximos aos divulgados pela ANS para os convênios individuais.
+3. Em tais condições, o exame da pretensão recursal - no sentido de averiguar o abuso dos percentuais de reajuste - demandaria nova análise da matéria fática e nova interpretação dos termos pactuados, inviáveis em recurso especial, nos termos das Súmulas n. 5 e 7 do STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.091.011/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 29/8/2022, DJe de 31/8/2022.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO REVISIONAL DE REAJUSTE. PLANO COLETIVO DE SAÚDE. VIOLAÇÃO DO ART. 1.022 DO NCPC. NÃO OCORRÊNCIA. REAJUSTE POR SINISTRALIDADE. NÃO COMPROVAÇÃO DO INCREMENTO DOS CUSTOS. REFORMA DO JULGADO. INTERPRETAÇÃO DE CLÁUSULAS E REEXAME DE PROVAS. DESCABIMENTO. INCIDÊNCIA DAS SÚMULAS NºS 5 E 7, AMBAS DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Não há falar em omissão, falta de fundamentação ou negativa de prestação jurisdicional, na medida em que o Tribunal estadual dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando a controvérsia posta nos autos.
+3. No caso, qualquer outra apreciação acerca da ilegalidade do aumento da mensalidade do plano de saúde por sinistralidade, da forma como trazida no recurso especial, implicaria o necessário revolvimento do arcabouço fático-probatório, procedimento sabidamente aqui inviável diante do óbice das Súmulas nºs 5 e 7 do STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.011.731/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 15/8/2022, DJe de 17/8/2022.)
+Por sua vez, tem-se que a incidência da Súmula 7 do STJ na questão controversa apresentada também impede o exame de dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual o Tribunal de origem deu solução à causa.
+Com essas considerações, conclui-se que o recurso não merece prosperar.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
