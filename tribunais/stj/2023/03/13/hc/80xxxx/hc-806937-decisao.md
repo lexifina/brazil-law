@@ -1,0 +1,9 @@
+DECISÃO
+O presente writ, impetrado em benefício de Julienes da Silva Honorio - preso preventivamente pela prática, em tese, dos crimes de homicídio qualificado e homicídio qualificado tentado - contra ato coator do Tribunal de Justiça do Espírito Santo (Habeas Corpus n. 5002347-53.2022.8.08.0000), não comporta processamento.
+Com efeito, busca a impetração a revogação da segregação cautelar  imposta pelo Juízo de Direito da 1ª Vara Criminal da comarca de Linhares/ES, que, em juízo de retratação do recurso em sentido estrito interposto pelo órgão da acusação, decretou a prisão preventiva do paciente  , ao argumento de que, violando a orientação dos tribunais nacionais e o princípio da contemporaneidade, o Magistrado a quo, ao exercer o juízo de retratação ínsito ao recurso em sentido estrito, decretou a prisão preventiva do ora paciente, dois anos e seis meses depois da decisão primeira, embora absolutamente nada tivesse existido entre a decisão que impôs as cautelares e o tempo presente que fosse suficiente para justificar a mudança de entendimento do magistrado (fl. 6).
+Ocorre que o recebimento da denúncia, ocasião na qual o Magistrado singular indeferiu o pedido do Ministério Público de decretação da prisão preventiva do paciente, ocorreu em 20/3/2020 (fls. 21/23), tendo o Juízo de primeiro grau se apegado a fatos posteriores a es sa data para entender pela necessidade de acautelamento do acusado, uma vez que, ao que parece, ele é contumaz na prática de crimes (fl. 19), a denotar a contemporaneidade necessária para a imposição da custódia.
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO E HOMICÍDIO QUALIFICADO TENTADO. PRISÃO PREVENTIVA. CONTEMPORANEIDADE. EXISTÊNCIA. REITERAÇÃO DELITIVA DEMONSTRADA. CONSTRANGIMENTO ILEGA L. AUSÊNCIA.
+Inicial indeferida liminarmente.
