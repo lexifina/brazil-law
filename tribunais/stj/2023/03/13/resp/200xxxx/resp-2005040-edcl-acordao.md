@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/03/2023 a 13/03/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Humberto Martins, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Embargos de Declaração contra acórdão proferido pela Segunda Turma do STJ assim ementado:
+PROCESSUAL CIVIL E ADMINISTRATIVO. OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015 NÃO CONFIGURADA. SERVIDOR PÚBLICO. REVISÃO GERAL DE REMUNERAÇÃO. INDENIZAÇÃO. OMISSÃO LEGISLATIVA. MATÉRIA CONSTITUCIONAL. HONORÁRIOS. CONDENAÇÃO DA FAZENDA PÚBLICA. LIMITES DO CPC/1973. REVISÃO. CONTEXTO FÁTICO-PROBATÓRIO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Não se configura a ofensa aos arts. 1.022 e 489 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, em conformidade com o que lhe foi apresentado.
+2. O Tribunal de origem dirimiu a controvérsia nos seguintes termos: "Ocorre que o benefício pecuniário requerido pela apelante encontra óbice no princípio constitucional da separação de poderes. A remuneração de servidores públicos, em geral, é matéria que se insere no âmbito da exclusiva discricionariedade do Chefe do Poder Executivo, sendo indevido ao Poder Judiciário conceder vantagens a servidores públicos, sob fundamento de isonomia, substituir a competência de outro poder, sob pena de violar a competência constitucional a ele devida" (fl. 201, e-STJ).
+3. Da leitura dos autos verifica-se que, muito embora tenham sido citados dispositivos infraconstitucionais, a matéria foi dirimida sob enfoque eminentemente constitucional. Descabe, pois, a esta Corte examinar a questão, porquanto reverter o julgado significa usurpar competência do STF.
+4. O STJ pacificou a orientação de que o quantum da verba honorária, em razão da sucumbência processual, está sujeito a critérios de valoração previstos na lei processual, e sua fixação é ato próprio dos juízos das instâncias ordinárias, às quais competem a cognição e a consideração das situações de natureza fática. Nesses casos, esta Corte Superior atua na revisão da verba honorária somente quando esta tratar de valor irrisório ou exorbitante, o que não se configura neste caso. Dessa forma, aplicar posicionamento distinto do proferido pelo aresto confrontado implica reexame da matéria fático-probatória, o que é obstado a este Tribunal Superior, conforme determina a Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial."
+5. Vencida ou vencedora a Fazenda Pública, o arbitramento dos honorários advocatícios não está adstrito aos limites percentuais de 10% e 20%, podendo ser adotado como base de cálculo o valor dado à causa ou à condenação, nos termos do art. 20, § 4º, do CPC/1973, ou mesmo um valor fixo, segundo o critério de equidade.
+6. Agravo Interno não provido.
+A embargante reitera as razões de seu recurso. Alega:
+NA VERTENTE HIPÓTESE, COMO PROVADO, A E. CORTE REGIONAL QUEDOU SILENTE QUANTO AO PLEITO DE REDUÇÃO DA VERBA HONORÁRIA SUCUMBENCIAL, VERIFICANDO-SE CLARA OMISSÃO, QUE INVIABILIZOU O DIREITO DA EMBARGANTE EM VER APRECIADO O PEDIDO DE REDUÇÃO DA VERBA HONORÁRIA, COM APLICAÇÃO DO ÓBICE DA SÚMULA STJ 7. É PATENTE O PREJUÍZO PARA A ORA EMBARGANTE QUANTO À ORIENTAÇÃO PACÍFICA DESSE C. STJ E DEVE SER DECRETADA A NULIDADE DO V. ACÓRDÃO REGIONAL!
+Pleiteia o acolhimento dos aclaratórios.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO. ART. 1.022 DO CPC/2015. VÍCIOS INEXISTENTES. REDISCUSSÃO DA MATÉRIA DE MÉRITO. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS. OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015 NÃO CONFIGURADA. SERVIDOR PÚBLICO. REVISÃO GERAL DE REMUNERAÇÃO. INDENIZAÇÃO. OMISSÃO LEGISLATIVA. MATÉRIA CONSTITUCIONAL. HONORÁRIOS. CONDENAÇÃO DA FAZENDA PÚBLICA. LIMITES DO CPC/1973. REVISÃO. CONTEXTO FÁTICO-PROBATÓRIO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Hipótese em que foi negado provimento ao recurso, pelos seguintes fundamentos: a) não se configura a ofensa aos arts. 1.022 e 489 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, em conformidade com o que lhe foi apresentado; b) muito embora tenham sido citados dispositivos infraconstitucionais, a matéria foi dirimida sob enfoque eminentemente constitucional. Descabe, pois, ao STJ examinar a questão, porquanto reverter o julgado significa usurpar competência do STF; c) o STJ pacificou a orientação de que o quantum da verba honorária, em razão da sucumbência processual, está sujeito a critérios de valoração previstos na lei processual, e sua fixação é ato próprio dos juízos das instâncias ordinárias, às quais competem a cognição e a consideração das situações de natureza fática. Incidência da Súmula 7/STJ.
+2. O argumento da embargante não diz respeito aos vícios de omissão, obscuridade ou contradição, mas a suposto erro de julgamento ou apreciação na causa. O simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento da decisão, mas não à sua alteração, que só muito excepcionalmente é admitida.
+3. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC/2015. Os Embargos Declaratórios não constituem instrumento adequado à reanálise da matéria de mérito, nem ao prequestionamento de dispositivos constitucionais com vistas à interposição de Recurso Extraordinário. Precedentes: EDcl nos EDcl nos EDcl no AgInt nos EDcl nos EREsp 1.491.187/SC, Rel. Min. Mauro Campbell Marques, Corte Especial, DJe 23.3.2018; EDcl no AgInt nos EDcl no AREsp 1.321.153/SP, Rel. Min. Assusete Magalhães, Segunda Turma, DJe 13.5.2019; EDcl no AgInt no REsp 1.354.069/RS, Rel. Min. Og Fernandes, Segunda Turma, DJe 9.4.2018; EDcl no AgRg no AREsp 170.405/DF, Rel. Min. Gurgel de Faria, Primeira Turma, DJe 23.6.2017.
+4. Embargos de Declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 15.12.2022.
+Os Embargos de Declaração constituem recurso de rígidos contornos processuais, exigindo-se, para seu acolhimento, os pressupostos legais de cabimento.
+Assim, verifico que o inconformismo da parte embargante busca emprestar efeitos infringentes, manifestando nítida pretensão de rediscutir o mérito do julgado, o que é incabível nesta via recursal.
+Com efeito, os vícios elencados nas razões recursais não prosperam, porquanto a matéria foi integralmente analisada por esta Corte, conforme se nota do seguinte excerto do acórdão embargado:
+Constato que não se configura a ofensa aos arts. 1.022 e 489 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, em conformidade com o que lhe foi apresentado.
+Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+Dessarte, como se observa de forma clara, não se trata de omissão, mas sim de inconformismo direto com o resultado do acórdão, que foi contrário aos interesses da ora recorrente. Ressalte-se que a mera insatisfação com o conteúdo da decisão embargada não enseja Embargos de Declaração.
+Esse não é o objetivo dos aclaratórios, recurso que se presta tão somente a sanar contradições ou omissões decorrentes da ausência de análise dos temas que lhe forem trazidos à tutela jurisdicional, no momento processual oportuno, conforme o art. 1.022 do CPC.
+(..)
+Da leitura dos autos verifico que, muito embora tenham sido citados dispositivos infraconstitucionais, a matéria foi dirimida sob enfoque eminentemente constitucional. Descabe, pois, a esta Corte examinar a questão, porquanto reverter o julgado significa usurpar competência do STF. Nessa linha:
+(..)
+No mais, conforme consignado na decisão agravada, o STJ pacificou a orientação de que o quantum da verba honorária, em razão da sucumbência processual, está sujeito a critérios de valoração previstos na lei processual, e sua fixação é ato próprio dos juízos das instâncias ordinárias, às quais competem a cognição e a consideração das situações de natureza fática.
+Nesses casos, esta Corte Superior atua na revisão da verba honorária somente quando esta tratar de valor irrisório ou exorbitante, o que não se configura neste caso.
+Assim, o reexame das razões de fato que conduziram a Corte de origem a tais conclusões significaria usurpação da competência das instâncias ordinárias. Dessa forma, aplicar posicionamento distinto do proferido pelo aresto confrontado implica reexame da matéria fático-probatória, o que é obstado a este Tribunal Superior, conforme determina a Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial."
+(..)
+Vencida ou vencedora a Fazenda Pública, o arbitramento dos honorários advocatícios não está adstrito aos limites percentuais de 10% e 20%, podendo ser adotado como base de cálculo o valor dado à causa ou à condenação, nos termos do art. 20, § 4º, do CPC/1973, ou mesmo um valor fixo, segundo o critério de equidade.
+Não verifico na espécie sub judice qualquer omissão, obscuridade, contradição ou erro material, senão o intuito de rediscutir matéria já decidida, emprestando-lhe efeito infringente.
+Vale destacar que o simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento, mas não à sua modificação, que só muito excepcionalmente é admitida.
+Nesse sentido:
+(..) EMBARGOS DE DECLARAÇÃO. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. INEXISTÊNCIA.
+(..)
+VI - O simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os embargos de declaração, que servem ao aprimoramento, mas não à sua modificação, que, só muito excepcionalmente, é admitida.
+Embargos declaratórios rejeitados.
+(EDcl no AgRg na CR 9.832/EX, Rel. Ministro Francisco Falcão, Corte Especial, DJe 3.8.2016).
+EMBARGOS DE DECLARAÇÃO (..) AUSÊNCIA DE OMISSÃO (..) VÍCIOS NÃO CONFIGURADOS. EMBARGOS PROCRASTINATÓRIOS. CABIMENTO DA MULTA DO ART. 1.026, § 2º, DO NOVO CPC. EMBARGOS REJEITADOS.
+1. A jurisprudência deste Tribunal Superior firmou-se no sentido de que o mero descontentamento da parte com o resultado do julgamento não configura violação do art. 1.022 do CPC/2015 e que os embargos declaratórios não se prestam à rediscussão de matéria devidamente analisada.
+(..)
+5. A embargante reitera argumentos já apreciados, postergando a solução definitiva da controvérsia. Essa conduta é motivo para a aplicação da multa do art. 1.026, § 2º, do CPC/2015, por terem estes embargos nítido intuito procrastinatório.
+6. Embargos de declaração rejeitados, com aplicação de multa.
+(EDcl nos EDcl no AgInt nos EDcl no AREsp 1031107/RJ, Rel. Ministro Marco Aurélio Belizze, Terceira Turma, DJe 1º.6.2018).
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. ALEGADA OMISSÃO, CONTRADIÇÃO E OBSCURIDADE. NÃO OCORRÊNCIA. PRETENSÃO DA PARTE EM OBTER EFEITOS INFRINGENTES. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. É inadmissível a interposição de embargos declaratórios para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide. Precedentes.
+2. O simples descontentamento com o decisum, a despeito de legítimo, não tem o condão de tornar cabíveis os embargos de declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida.
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt nos EDcl no AgRg no AREsp 738.681/RJ, Rel. Ministro Raul Araújo, Quarta Turma, DJe 12.11.2018).
+Diante do exposto, rejeito os Embargos de Declaração, com a advertência de que a reiteração será considerada expediente protelatório sujeito a multa.
+É como voto.
