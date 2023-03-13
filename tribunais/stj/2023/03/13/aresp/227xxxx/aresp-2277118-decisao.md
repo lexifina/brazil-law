@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de agravo apresentado por COMPANHIA EXCELSIOR DE SEGUROS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim resumido:
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. SEGURO RESIDENCIAL. SENTENÇA QUE EXTINGUIU O PROCESSO, SEM RESOLUÇÃO DO MÉRITO, EM RELAÇÃO AO ENTE MUNICIPAL E JULGOU PARCIALMENTE PROCEDENTE O PLEITO AUTORAL EM RELAÇÃO ÀS DEMAIS CORRÉS.
+Quanto à controvérsia, alega violação do art. 87 do CPC, no que concerne à incorreta condenação exclusivamente da recorrente em verbas sucumbenciais, devendo-se redistribuir os honorários entre as partes vencidas (Excelsior e COHAB-CT), tendo em vista à sucumbência reciproca e solidária, trazendo os seguintes argumentos:
+E. Relator, como já se afirmou anteriormente, o acórdão merece reparo visto que o MM. Juizo a quo entendeu que a condenação em custas e honorários advocatícios devem ser arbitrados exclusivamente face a Cia. Seguradora, ora Recorrente.
+ ..
+O acórdão proferido na Apelação Cível não atendeu as exigências do Código de Processo Civil, qual determina que as despesas e os honorários serão proporcionalmente rateados entre as partes vencidas:
+ ..
+Sendo assim, é plenamente viável que a parte COHAB-CT arque também com os honorários de sucumbência, posto que essa Seguradora não possa ser compelida a realizar o pagamento de lide que sequer deu causa. Neste sentido:
+ ..
+Assim, diante do exposto, com fundamento no artigo 87, §1º, do Código de Processo Civil de 2015, requer-se seja provida o presente recurso, redistribuindo-se os ônus sucumbenciais entra as partes vencidas (Excelsior e COHAB-CT), tendo em vista à sucumbência reciproca e solidária (fls. 831/833, grifo meu).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Entretanto, a incumbência por esses encargos não se limita à aferição de êxito e derrota das partes ao final do processo. De forma preponderante, incide o Princípio da Causalidade, segundo o qual é necessário verificar quem deu causa à propositura da ação, a quem, então, competirá o pagamento das custas processuais e honorários de advogado.
+ ..
+No caso dos autos, a causalidade é atribuível à seguradora Companhia Excelsior de Seguros, porquanto a negativa de pagamento administrativo da indenização securitária ensejou o ajuizamento da presente ação. Conforme bem pontuou o d. juízo singular, "a COHAB realmente faz jus ao pagamento das prestações do imóvel, porém quem deveria pagá-las era a seguradora, não a autora, viúva do contratante. Além disso, a COHAB não tinha ingerência para interferir na decisão de confirmação ou negativa de cobertura da requerida. Com isso, conclui-se que a COHAB não deu causa à ação, na medida em que não foi responsável pela negativa de cobertura que forçou a autora a arcar diretamente com o pagamento, nem praticou " cobrança indevida" (Mov. 223.1) (fl. 811, grifo meu).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
