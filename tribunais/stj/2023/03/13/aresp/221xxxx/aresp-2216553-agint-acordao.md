@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/03/2023 a 13/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+H. M. DA S. (H.) ajuizou ação de obrigação de fazer contra UNIMED SÃO GONÇALO NITERÓI SOCIEDAEDE COOPERATIVA DE SERVIÇOS MÉDICOS E HOSPITALARES (UNIMED) pretendendo o custeio de terapia ocupacional, fonoaudiologia, psicologia, em ABA, fisioterapia e psicomotricidade individual por tempo indeterminado, para tratamento de autismo.
+Em primeira instância, os pedidos foram julgados procedentes para condenar a ré a custear o tratamento integral do autor em instituição que forneça e atenda a todas as suas necessidades e que tenha equipe multidisciplinar com terapias experientes e especializadas em autismo, terapia ocupacional, fonoaudiologia, psicologia em ABA, fisioterapia e psicomotricidade individual e pelo tempo necessário, na forma indicada e prescrita pelo médico que assiste o autor.
+A apelação interposta pela UNIMED não foi provida nos termos do acórdão do Tribunal de Justiça do Rio de Janeiro, da relatoria do Des. HELENO RIBEIRO PEREIRA NUNES, assim ementado:
+APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR. RECUSA DA OPERADORA DE PLANO DE SAÚDE EM AUTORIZAR E CUSTEAR O TRATAMENTO MULTIDISCIPLINAR INDICADO PARA O AUTOR EM VIRTUDE DE SER PORTADOR DE TRANSTORNO DO ESPECTRO AUTISTA. DANO MORAL. CARACTERIZAÇÃO.
+1) A parte autora alega que nada obstante a existência de indicação médica para realização de tratamento multidisciplinar, em razão de ser portador de transtorno do espectro autista, a empresa ré não autorizou tal procedimento, o que atenta contra a legislação consumerista.
+2) Se há cobertura da enfermidade que acomete o recorrido, como no caso sob apreciação, não se mostra razoável a exclusão de determinada opção terapêutica para o seu tratamento, através de tratamento multidisciplinar, ao argumento de não estar incluído no rol de procedimentos obrigatórios da ANS. Essa limitação, além de desnaturar o objeto do contrato, na medida em que é ínsita à natureza desse tipo de ajuste a cobertura de todos os procedimentos necessários para a manutenção e preservação da saúde do beneficiário, acaba por colocar o consumidor em situação de grande desvantagem.
+3) A conduta da seguradora demandada ao recusar o custeio do mencionado tratamento, quando sua necessidade está devidamente comprovada por laudo elaborado pelo médico assistente se mostra ilicíta.
+4) Assim, a operadora de plano de saúde deve custear o mencionado tratamento multidisciplinar, assim como imprescindível que a indicação do prestador observe a proximidade com a residência da criança, aqui compreendido no mesmo bairro, ou bairro limítrofe, sob pena de serem ineficazes, observando-se o que dispõe o art. 1º, § 2º, Lei n.º 12.764/2012 que considera a pessoa com transtorno do espectro autista como pessoa com deficiência para todos os efeitos legais, bem como o que determina o artigo 25 da Convenção dos Direitos das Pessoas com Deficiência, Decreto n.º 6.949/2009.
+5) Quanto à ocorrência do dano imaterial, segundo o disposto na Súmula 339 deste e. Tribunal a recusa indevida ou injustificada, pela operadora de plano de saúde, de autorizar a cobertura de tratamento médico enseja reparação a título de dano moral.
+6) O valor arbitrado a tal título (R$ 5.000,00) mostra-se consentâneo com o dano experimentado pela parte autora, razão pela qual deve ser mantido, nos termos da Súmula n.º 343 desta Corte Estadual de Justiça.
+7) Recurso ao qual se nega provimento (e-STJ, fls. 869/870).
+Irresignada, UNIMED interpôs recurso especial com base no art. 105, III, alíneas a e c, da CF, apontando, a par de dissídio jurisprudencial, a violação do art. 10, § 4º, da Lei n.º 9656/98, asseverando que o rol da ANS é taxativo, não tendo obrigação de oferecer cobertura a procedimento não contratado.
+O recurso não foi admitido pelo TJRJ (e-STJ, fls. 959/961.)
+Conheci do agravo em recurso especial interposto pela UNIMED e neguei provimento ao apelo nobre em decisão monocrática de minha lavra nestes termos sintetizada:
+CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANIFESTADO SOB A ÉGIDE DO CPC/15. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. TRANSTORNO DO ESPECTRO AUTISTA. TERAPIA MULTIDISCIPLINAR. COBERTURA. OBRIGATORIEDADE. ROL DA ANS. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA Nº 568 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO (e-STJ, fl. 1.012)
+Nas razões do presente agravo interno, UNIMED sustentou que não está legal e contratualmente obrigada ao custeio tratamento que não consta no rol da ANS.
+É o relatório.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. AUTISMO. TRATAMENTO MULTIDISCIPLINAR. DEVER DE COBERTURA. CONSONÂNCIA COM O ENTENDIMENTO DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. É abusiva a negativa de cobertura de tratamento do Transtorno do Espectro Autista (TEA) pelo método escolhido pelo equipe de profissionais da saúde assistente com a família do paciente como mais adequado ao caso concreto.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido.
+VOTO
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as conclusões externadas na decisão recorrida.
+Do dever de cobertura
+Nas razões do presente recurso especial, a UNIMED sustentou a taxatividade do rol da ANS e, portanto, a inexistência do dever de cobertura do tratamento requerido pelo autor.
+No julgamento dos EREsp 1.889.704/SP, aos 8/6/2022, a Segunda Seção, embora fixando a tese quanto à taxatividade, em regra, do rol de procedimentos e eventos em saúde da ANS, negou provimento aos embargos de divergência opostos pela operadora do plano de saúde para manter acórdão da Terceira Turma, que concluiu ser abusiva a recusa de cobertura de sessões de terapia especializada prescritas para o tratamento de transtorno do espectro autista (TEA), considerando, para tanto, a superveniência da Resolução Normativa ANS n.º 469/2021, de 9/7/2021.
+Com efeito, a Resolução Normativa n.º 469/2021 da ANS, que modificou o rol de procedimentos e eventos em saúde, tornou expressamente obrigatória a cobertura em número ilimitado de sessões com psicólogos, terapeutas ocupacionais e fonoaudiólogos para o tratamento/manejo do transtorno do espectro autista (TEA).
+Mais recentemente, aos 23/6/2022, sobreveio a Resolução Normativa ANS n.º 539/2022, que tornou obrigatória, a partir de 1º/7/2022, a cobertura de qualquer método ou técnica indicado pelo médico assistente, em número ilimitado de sessões com fonoaudiólogos, psicólogos, terapeutas ocupacionais e fisioterapeutas para o tratamento/manejo dos transtornos globais do desenvolvimento, incluindo o transtorno do espectro autista.
+Na data da edição deste ato normativo, que também alterou o rol de procedimentos e eventos em saúde, a ANS divulgou, no portal do Ministério da Saúde, a seguinte nota:
+ANS amplia regras de cobertura para tratamento de transtornos globais do desenvolvimento
+Métodos e técnicas indicados pelo médico assistente passam a ter cobertura obrigatória pelos planos de saúde
+Em reunião extraordinária realizada na tarde desta quinta-feira, 23/06, a Diretoria Colegiada da Agência Nacional de Saúde Suplementar (ANS) aprovou uma normativa que amplia as regras de cobertura assistencial para usuários de planos de saúde com transtornos globais do desenvolvimento, entre os quais está incluído o transtorno do espectro autista. Clique aqui e confira a RN nº 539/2022.
+Dessa forma, a partir de 1º de julho de 2022, passa a ser obrigatória a cobertura para qualquer método ou técnica indicado pelo médico assistente para o tratamento do paciente que tenha um dos transtornos enquadrados na CID F84, conforme a Classificação Internacional de Doenças.
+A normativa também ajustou o anexo II do Rol para que as sessões ilimitadas com fonoaudiólogos, psicólogos, terapeutas ocupacionais e fisioterapeutas englobem todos os transtornos globais de desenvolvimentos (CID F84).
+"A ANS tem avaliado o rol de cobertura obrigatórias de forma permanente e nós estamos atentos aos anseios da sociedade. As discussões técnicas sobre as terapias para tratamento do Espectro Autista já vinham acontecendo internamente, em um Grupo de Trabalho criado em 2021 e formado por representantes de quatro das cinco diretorias da Agência. Com base nessas discussões e considerando o princípio da igualdade, decidimos estabelecer a obrigatoriedade da cobertura dos diferentes métodos ou terapias não apenas para pacientes com TEA, mas para usuários de planos de saúde diagnosticados com qualquer transtorno enquadrado como transtorno global do desenvolvimento", explica o diretor-presidente da ANS, Paulo Rebello.
+Transtornos Globais do Desenvolvimento
+O transtorno global do desenvolvimento é caracterizado por um conjunto de condições que geram dificuldades de comunicação e de comportamento, prejudicando a interação dos pacientes com outras pessoas e o enfrentamento de situações cotidianas.
+De acordo com a Classificação Internacional de Doenças (CID-10) são considerados transtornos globais do desenvolvimento:
+- Autismo infantil (CID 10 - F84.0)
+- Autismo atípico (CID 10 - F84.1)
+- Síndrome de Rett (CID 10 - F84.2)
+- Outro transtorno desintegrativo da infância (CID 10 - F84.3)
+- Transtorno com hipercinesia associada a retardo mental e a movimentos estereotipados (CID 10 - F84.4)
+- Síndrome de Asperger (CID 10 - F84.5)
+- Outros transtornos globais do desenvolvimento (CID 10 - F84.8)
+- Transtornos globais não especificados do desenvolvimento (CID 10 - F84.9)
+Existem variadas formas de abordagem dos transtornos globais do desenvolvimento, desde as individuais realizadas por profissionais treinados em uma área específica, até as compostas por atendimentos multidisciplinares. Entre elas, estão: o Modelo Applied Behavior Analysis (ABA), o Modelo Denver de Intervenção Precoce (DENVER ou ESDM), a Integração Sensorial, a Comunicação Alternativa e Suplementar ou Picture Exchange Communication System (PECS), dentre outros. A escolha do método mais adequado deve ser feita pela equipe de profissionais de saúde assistente com a família do paciente.
+Importante esclarecer que as operadoras de planos de saúde não poderão negar atendimento a pessoas com condições tais como paralisia cerebral e Síndrome de Down que apresentem transtornos global do desenvolvimento.
+Também vale destacar que a ANS continuará debruçada sobre a questão, inclusive com realização de audiência pública, e que o trabalho do grupo técnico seguirá, com avaliação e monitoramento do tema para o constante aprimoramento da cobertura dos planos de saúde. (Disponível em: https://www.gov.br/ans/pt-br/assuntos/noticias/beneficiario/ans-altera-regras-de-cobertura-para-tratamento-de-transtornos-globais-do-desenvolvimento - sem grifos no original)
+Assim, o acórdão recorrido, ao determinar a cobertura do tratamento, está em harmonia com a jurisprudência do STJ, além de observar as normas regulamentares de regência e a atual determinação da ANS.
+Nesse sentido, confira-se o seguinte precedente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C COMPENSAÇÃO POR DANOS MORAIS. CONTRATO DE PLANO DE SAÚDE. ROL DE PROCEDIMENTOS E EVENTOS EM SAÚDE DA ANS. NATUREZA EXEMPLIFICATIVA. TERAPIAS. TRATAMENTO DE TRANSTORNO DO ESPECTRO AUTISTA. RECUSA DE COBERTURA INDEVIDA.
+1. Ação de obrigação de fazer c/c compensação por danos morais, na qual se imputa à operadora de plano de saúde a conduta abusiva de negar a cobertura de terapias especializadas prescritas para o tratamento da doença que acomete a beneficiária (transtorno do espectro autista).
+2.A despeito do entendimento da Quarta Turma em sentido contrário, a Terceira Turma mantém a orientação firmada há muito nesta Corte de que a natureza do rol de procedimentos e eventos em saúde da ANS é meramente exemplificativo.
+3. Agravo interno no recurso especial não provido.
+(AgInt no REsp n. 1.963.937/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 14/3/2022, DJe de 18/3/2022)
+Dessarte, mantém-se a decisão proferida, por não haver motivos para sua alteração.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
