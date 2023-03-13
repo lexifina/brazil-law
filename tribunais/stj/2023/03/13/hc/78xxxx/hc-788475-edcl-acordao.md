@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, rejeitar os embargos.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de embargos de declaração opostos pelo MINISTÉRIO PÚBLICO DO ESTADO DE SANTA CATARINA contra acórdão da Quinta Turma, proferido no julgamento do agravo regimental em habeas corpus cuja ementa reproduzo a seguir (e-STJ, fl. 618):
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. INGRESSO FORÇADO NA RESIDÊNCIA. AUSÊNCIA DE FUNDADAS RAZÕES. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A sabida natureza permanente do delito de tráfico de drogas ilícitas, cuja execução se protrai no tempo, não torna justo o ingresso forçado no domicílio fora das hipóteses registradas no art. 5º, XI, da CF/88: a casa é asilo inviolável do indivíduo, ninguém nela podendo penetrar sem consentimento do morador, salvo em caso de flagrante delito ou desastre, ou para prestar socorro, ou, durante o dia, por determinação judicial.
+2. Neste caso, a moldura fática extraída dos autos não permite que se conclua pela presença de elementos de suporte suficientes para justificar a decisão de ingressar na residência do agravado. Não há notícias de investigações mínimas para constatar a prática de crimes e as circunstâncias que envolvem a abordagem não são suficientes para justificar a decisão de entrar na casa do investigado e promover uma operação de busca por entorpecentes.
+3. Esta Corte tem declarado ilícitas as provas derivadas da prisão em flagrante, registrando expressamente que a denúncia anônima desacompanhada de medidas investigativas preliminares que indiquem a presença de fundadas razões para não configura justa causa para a violação de domicílio, à míngua de elementos antecedentes que forneçam concluir, para além de dúvida razoável, de que há crime em andamento.
+4. Agravo regimental improvido.
+Em suas razões, o Parquet estadual alega omissão no julgado, aduzindo que o fundamento apresentado pelo Tribunal de origem tem gênese constitucional, tendo em vista que a hipótese dos autos se amolda à exceção contida no art. 5º, inciso XI, da Constituição Federal.
+Diante disso, requer o acolhimento destes embargos para sanar o vício apontado.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS HABEAS CORPUS. TRÁFICO DE DROGAS. INGRESSO FORÇADO EM DOMICÍLIO. OMISSÃO. VÍCIO NÃO CONSTATADO. TENTATIVA DE REDISCUSSÃO DAS MATÉRIAS JÁ JULGADAS. EMBARGOS REJEITADOS.
+1. Os embargos de declaração prestam-se, tão somente, a sanar ambiguidade, contradição, obscuridade ou omissão do julgado, consoante dispõe o art. 619 do Código de Processo Penal, ou, então, retificar, quando constatado, erro material.
+2. Os alegados vícios indicados pelo embargante foram efetivamente decididos pelo acórdão impugnado. Ao que se tem, a intenção destes aclaratórios é a de rediscutir a matéria já julgada, já que o provimento judicial contrariou os interesses do embargante. Esse, porém, não é o propósito dos aclaratórios.
+3. Embargos rejeitados.
+VOTO
+Como é cediço, os embargos de declaração possuem fundamentação vinculada. Dessa forma, para seu cabimento, é necessária a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal. A mera irresignação com o entendimento apresentado no acórdão embargado não viabiliza a oposição dos aclaratórios.
+De fato, os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022), de modo que é inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas no acórdão embargado, já que não são cabíveis para provocar novo julgamento da lide. (EDcl nos EDcl no AgInt nos EDcl no AREsp n. 1.076.319/MG, Rel. Ministro Lázaro Guimarães, DJe 22/8/2018).
+Neste caso, a ordem foi concedida após a constatação de que a moldura fática apresentada pelas instâncias antecedentes não demonstra a existência de fundadas razões que justifiquem a mitigação da garantia constitucional de inviolabilidade domiciliar, o que torna ilícita tanto a prisão em flagrante quanto os elementos de prova coletados no procedimento de busca e apreensão realizado sem justa causa.
+Assim, o que se percebe é que, sob a alegação de vício autorizador da oposição de embargos, pretende-se, em verdade, reabrir a discussão acerca da licitude das provas pela via dos embargos, propósito para o qual não eles não se prestam, conforme entendimento jurisprudencial já pacificado nesta Corte Superior de Justiça.
+Ilustrativamente:
+EMBARGOS DE DECLARAÇÃO EM RECURSO ORDINÁRIO EM HABEAS CORPUS. ALEGAÇÃO DE OMISSÃO. INOCORRÊNCIA. EVIDENTE INTENÇÃO REDISCUTIR MATÉRIAS JÁ JULGADAS. EMBARGOS REJEITADOS.
+1. Os embargos de declaração são cabíveis quando houver ambiguidade, obscuridade, contradição ou omissão na decisão, nos termos do art. 619 do Código de Processo Penal - CPP.
+2. Não há falar em omissão, uma vez que foram explicitados de forma clara as razões de decidir do julgado, tendo o acórdão impugnado destacado que o trancamento de ação pena era medida excepcional. Consignou-se, ainda, no voto que "o Juízo da 1a Vara Criminal Federal, do Júri e das Execuções Penais da 1a Subseção Judiciária do Estado de São Paulo, ao proferir nova análise da defesa prévia por determinação do Tribunal ad quem, destacou que o procedimento administrativo fiscal fora concluído em 16/11/2007 com a constituição definitiva do crédito tributário e foi acostado aos autos do inquérito apenas em 16/11/2010, não havendo que se falar, portanto, que a ação policial utilizada para posterior oferecimento de denúncia contra os recorrentes pautou-se em informação protegida por sigilo. Como se vê, ao menos em tese, não se vislumbra ilicitude nas provas indicadas pela exordial acusatória. Desse modo, diante dos estreitos limites do rito, afigurar-se-ia prematuro determinar o trancamento da ação penal.
+3. Cabe destacar que não é a estreita via do habeas corpus a sede para incursões aprofundadas relativas ao conjunto probatório da ação penal, sobretudo quando apenas iniciada a instrução.
+4. O que se verifica, em verdade, é a nítida intenção do embargante, inconformado com o resultado do julgamento, em rediscutir a matéria apreciada e já decidida pela Quinta Turma. Embargos de declaração rejeitados. (EDcl na PET no RHC 75.532/SP, Rel. Ministro JOEL ILAN PACIORNIK, Quinta Turma, DJe 15/12/2017)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. LAVAGEM DE DINHEIRO. AUSÊNCIA DE INDICAÇÃO DOS FUNDAMENTOS NÃO IMPUGNADOS NA DECISÃO AGRAVADA. OMISSÃO. INEXISTÊNCIA DE VÍCIO NO JULGADO. REDISCUSSÃO DO ENTENDIMENTO. IMPOSSIBILIDADE. ACLARATÓRIOS REJEITADOS.
+1. Inexistindo no acórdão embargado qualquer dos vícios previstos no art. 619 do Código de Processo Penal que permitem o manejo dos aclaratórios, não há como esses serem acolhidos.
+2. Na espécie, inexiste a omissão apontada pela defesa, tendo o acórdão embargado apreciado a insurgência de forma clara e fundamentada, não sendo possível, em embargos de declaração, rediscutir o entendimento adotado, sequer para fins de prequestionamento.
+3. Caracteriza inovação recursal a pretensão de revolver a matéria decidida apresentando nova alegação suscitada apenas nos presentes embargos declaratórios.
+4. Embargos de Declaração rejeitados (EDcl no AgRg no AREsp 381.524/CE, Rel. Ministro JORGE MUSSI, Quinta Turma, DJe 1º/6/2018).
+Desse modo, não há que se falar em omissão, inexistindo o que ser reparado no acórdão embargado, devendo o inconformismo da parte ser manifestado no bojo do meio processual adequado.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
+Ministro REYNALDO SOARES DA FONSECA
+Relator
