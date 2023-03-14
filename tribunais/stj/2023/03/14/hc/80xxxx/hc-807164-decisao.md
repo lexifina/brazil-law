@@ -1,0 +1,8 @@
+DECISÃO
+PRISCILA DE CASSIA SOUZA E SILVA alega sofrer coação ilegal em face de acórdão do Tribunal a quo.
+A defesa assinala que a paciente foi investigada na medida cautelar NPU 0001311-04.2021.8.17.2730 e denunciada no NPU 0001640-79.2022.8.17.2730 unicamente por ser esposa de Gilson Manoel Bernardino Júnior (preso no Presídio Marcelo Francisco de Araújo), mas não tem relação com os fatos delitivos. Em verdade, a postulante "possui empresa registrada em seu nome" e "através de seu trabalho lícito  ..  retira seu sustento" (fl. 3) e o de dois filhos adolescentes.
+O impetrante aponta a falta de pressuposto e de requisitos para a decretação da prisão preventiva, mantida em atenção ao disposto no art. 316, parágrafo único, do CPP. Destaca as condições pessoais favoráveis da ré e requer a revogação ou a substituição da custódia.
+A petição inicial não está acompanhada de cópia do édito prisional. O vício impede a leitura de seus fundamentos e a compreensão da tese de falta de pressuposto e requisitos da medida extrema, mantida após o prazo de 90 dias.
+A deficiência impede o conhecimento do writ. Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir e sua natureza urgente exige prova pré-constituída das alegações, pois não comporta conversão em diligência ou dilação probatória. Era obrigatório ao impetrante instruir adequadamente a impetração com documentos que permitissem a análise de patente ilegalidade, o que não ocorreu.
+À vista do exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o processamento deste habeas corpus.
+Publique-se e intimem-se
