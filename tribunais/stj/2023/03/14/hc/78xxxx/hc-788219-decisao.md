@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de HEITOR OLIVEIRA BESSA contra acórdão do T ribunal de Justiça do Estado de Goiás, prolatado no julgamento do HC n. 5569665-66.2022.8.09.0000.
+Consta  que, em decorrência de representação da Autoridade Policial, com manifestação favorável do Ministério Público, o Paciente teve a prisão temporária decretada (fls. 318-324), em 18/02/2022, em virtude da suposta prática do ilícito tipificado no art. 157, § 3.º, inciso II, do Código Penal, pois, em tese, em 29/12/2018, "mediante grave ameaça e violência, exercida com emprego de arma branca, subtraiu, em proveito próprio, coisa alheia móvel, qual seja: 01 (um)  automóvel , pertencente à vítima  .. ; desferindo golpes de faca em desfavor da vítima, atingindo-o no pescoço, no ombro e no peitoral, resultado em seu óbito" (fl. 378).
+Em 09/03/2022, o Ministério Público denunciou o Paciente pelo crime em tela (fls. 373-379), requerendo, ainda, que ele fosse submetido a exame de incidente de insanidade mental, nos termos dos arts. 149 e seguintes do Código de Processo Penal, e convertida a custódia temporária em preventiva.
+Em 14/03/2022, acolhendo os pedidos ministeriais, o Magistrado singular recebeu a exordial acusatória (fls. 382-385) e converteu a prisão temporária em preventiva.
+A Defesa do Paciente opôs embargos de declaração contra a decisão supra ao argumento de que o Magistrado havia se omitido quanto ao pedido ministerial de instauração do incidente de insanidade mental em relação ao Réu.
+Em 31/05/2022, o Magistrado de primeiro grau acolheu o recurso defensivo, determinando que o Paciente fosse submetido a exame de constatação ou não de insanidade mental (fls. 248-254).
+A Defesa formulou pedido de relaxamento da prisão preventiva por excesso de prazo para a conclusão do Incidente de Insanidade Mental.
+Em 14/09/2022, o Juízo primevo indeferiu o pedido defensivo e, com urgência, expediu "ofício à Junta Médica Oficial do Tribunal de Justiça do Estado de Goiás, solicitando a conclusão e remessa do exame médico-pericial de insanidade mental do Acusado, vez que se trata de Réu preso" (fl. 126; sem grifos no original).
+Inconformada, a Defesa, pugnando pela revogação (ou pelo relaxamento) da prisão cautelar, impetrou habeas corpus na Corte de origem, que denegou a ordem às fls. 08-13. Eis a ementa do julgado (fl. 12):
+"HABEAS CORPUS. LATROCÍNIO. EXCESSO DE PRAZO. NÃO CARACTERIZADO. PREDICADOS PESSOAIS.
+1. O eventual excesso de prazo para o encerramento do processo pode ser justificado pela complexidade do feito e eventuais pleitos probatórios de distinta ordem.
+2. Aventados predicados pessoais não garantem ao paciente o direito a liberdade se demonstrada a necessidade da custódia.
+ORDEM CONHECIDA E DENEGADA."
+Neste writ, a Parte Impetrante sustenta, em suma, que ocorre excesso de prazo para a formação da culpa, tendo em vista que, desde 14/03/2022, a Ação Penal está suspensa à espera da conclusão da diligência referente ao exame de insanidade mental instaurado em relação ao Paciente.
+Requer, em medida liminar e no mérito, o relaxamento da prisão preventiva.
+O pedido liminar foi indeferido às fls. 734-737.
+As informações processuais requisitadas foram prestadas às fls. 749-752 e 754-761.
+O Ministério Público Federal opinou pela inadmissibilidade do habeas corpus, mas, se admitido, pela denegação da ordem (fls. 763-767).
+É o relatório. Decido.
+No tocante ao alegado excesso de prazo para a formação da culpa, pontuo que "a aferição do excesso de prazo reclama a observância da garantia da duração razoável do processo, prevista no art. 5º, LXXVIII, da Constituição Federal. Tal verificação, contudo, não se realiza de forma puramente matemática. Demanda, ao contrário, um juízo de razoabilidade, no qual devem ser sopesadas as peculiaridades da causa ou quaisquer fatores que possam influir na tramitação" (HC 541.104/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 18/02/2020, DJe 27/02/2020; sem grifos no original).
+Quanto a esse tema (excesso de prazo), o Colegiado estadual apresentou os seguintes esclarecimentos, refutando eventual desídia estatal na condução do feito (fls. 82-84; sem grifos no original):
+" ..  Depreende-se dos autos que no dia 29/12/2018, por volta das 23h38, o paciente, em tese, avistou a vítima Arnaldo Bernardo trafegando por vias públicas no veículo Honda City Dx Flex, ano 2011, oportunidade em que resolveu assaltá-la. Após anunciar o assalto, Heitor teria adentrado no carro da vítima, rendido-a e a levado até a BR-153 com a Rua 3, Setor Universitário, nesta Capital.
+Em seguida, Heitor, com o intuito de ceifar a vida de Arnaldo, teria lhe desferido golpes de faca no pescoço, no ombro e no peitoral e o deixado no local, empreendendo fuga na condução do veículo, que continha pertences em seu interior, inclusive aparelho celular.
+A Polícia Miliar e o Corpo de Bombeiros foram acionados, sendo a vítima socorrida e encaminhada ao hospital, todavia, veio a óbito em seguida. Após investigações, foi localizado o aparelho celular da vítima e, por consequência, o veículo subtraído, possibilitando a identificação do paciente.
+Em 18/02/2022 foi decretada a prisão temporária do paciente (mov. 20, fls. 2/8, autos n. 5683086-28), sendo o respectivo mandado cumprido no dia 03/03/2022 (mov. 20, fl. 9, autos n. 5683086-28).
+Oferecida denúncia em 09/03/2022, foi recebida em 14/03/2022, ocasião em que se decretou a segregação preventiva do paciente (mov. 29, autos originários).
+Após a citação (mov. 39, autos originários) e apresentação de resposta à acusação (mov. 42, autos originários), foi instaurado incidente de insanidade mental em 31/05/2022, com a consequente suspensão do feito (mov. 58, autos originários).
+Em 26/07/2022 foi juntado aos autos laudo médico pericial inconclusivo, ocasião em que foi requerido prontuário médico do paciente para conclusão da perícia (mov. 75, autos originários).
+Deferido o pedido no dia 02/08/2022 (mov. 80, autos originários), foi apresentado laudo definitivo de exame de insanidade mental em 28/10/2022 (mov. 109, autos originários), aguardando homologação pelo juízo.
+No tocante ao alegado excesso de prazo para finalização da instrução criminal, salienta-se que para a apreciação de eventual mora não se considera apenas o tempo de tramitação do processo, mas variáveis como: o número de réus, a complexidade do feito, eventuais pleitos probatórios de distinta ordem, a atuação da defesa.
+No presente caso, há que se considerar que a ação penal foi suspensa em 31/05/2022, em razão da instauração de incidente de insanidade mental, cujo laudo se encontra pendente de homologação pelo juízo, após manifestação da defesa.
+Assim, o alongamento processual não pode ser atribuído à desídia do magistrado condutor do feito, que agiu de forma diligente. Do trâmite acima apresentado, observa-se que as datas são próximas, havendo sempre pronunciamento judicial em tempo hábil.
+Em caso análogo, já se posicionou esta Corte:
+ ..
+Há que ser considerada, ainda, a gravidade concreta da conduta supostamente perpetrada pelo paciente, que acabou ceifando a vida da vítima, havendo, inclusive, risco de reiteração delitiva, posto que Heitor responde a outra ação penal por roubo (autos n. 142228-05) e, ao que se extrai do laudo médico, possui sintomas psicóticos.
+Há, portanto, motivos relevantes e suficientes para que o paciente permaneça no cárcere, não lhe socorrendo a alegação de que é primário e possui endereço fixo. Ademais, esses fatores consabidamente não elidem a prisão.
+Na esteira dessas considerações, não vislumbro a existência de constrangimento ilegal sanável pela estreita via do writ.
+Ao teor do exposto, acolhendo o parecer ministerial de cúpula, conheço do pedido e denego a ordem impetrada."
+Em 15/02/2023, o Magistrado singular prestou algumas informações suplementares acerca do andamento processual da ação penal originária, as quais reproduzo a seguir (fls. 758-759; sem grifos no original):
+"Em atenção ao requerimento de informações circunstanciadas referente o Habeas Corpus nº 788219 - GO (2022/0382316-3), recebido neste gabinete na data supra- assinalada, impetrado pela Defensoria Pública do Estado de Goiás em favor do paciente HEITOR OLIVEIRA BESSA, informo que:
+1 - O paciente supranominado foi denunciado pela prática da conduta delituosa descrita no artigo 157, § 3º, inciso II, do Código Penal;
+2 - Julgando constar os requisitos legais, a denúncia foi recebida em 14/03/3022, oportunidade em que foi determinada a citação do acusado, nos moldes do artigo 396 do Código de Processo Penal;
+3 - Devidamente citado, o acusado, ora paciente, através da Defensoria Pública do Estado de Goiás, apresentou resposta à acusação, tendo o MM Juiz mantido o recebimento da denúncia;
+4 - Considerado o pedido formulado tanto pelo Ministério Público quanto pela Defesa, no momento da resposta à acusação, o MM Juiz determinou a instauração de incidente de insanidade mental do acusado, determinando a suspensão da ação penal;
+5 - O incidente de insanidade mental foi instaurado através da Portaria n. 018/2022;
+6 - Anexado o Laudo Médico Pericial, concluído que o "o examinado HEITOR OLIVEIRA BESSA é portador de uma doença mental grave. Ao tempo da ação era inteiramente incapaz de entender o caráter ilícito do fato e inteiramente incapaz de se determinar". No dia 05/12/2022, referido laudo foi homologado pelo juízo, que determinou o normal seguimento da ação penal;
+7 - Informo que, no dia 17/01/2023, foi realizada a audiência de instrução e julgamento por videoconferência, nos moldes do art. 7º do Decreto Judiciário nº. 866/2020, do Provimento nº. 19/2020 da CGJ e da Portaria nº. 206/2020 da Diretoria do Foro da Comarca de Goiânia;
+8 - O representante do Ministério Público apresentou memoriais em 20/01/2023, a Defesa do denunciado, ora paciente, apresentou as alegações finais em 14/02/2023;
+9 - Informo que nesta data foi proferida decisão convertendo a prisão preventiva em internação provisória, com fulcro no artigo 319, inciso VII, do Código de Processo Penal e que o feito encontra-se concluso para prolação de sentença;  .. "
+Nesse cenário, considerando o tempo concreto de prisão preventiva e a quantidade abstrata de pena dos delitos pelos quais o Paciente está sendo processado (art. 157, § 3.º, inciso II, do Código Penal), não enxergo patente ofensa ao princípio da razoabilidade no que tange ao processo de formação da culpa, sobretudo diante da necessidade de realização de todo o procedimento relativo à instauração do incidente de insanidade mental em relação ao Denunciado.
+Em consulta ao site do Tribunal de origem, pude constatar que, de fato, os autos da Ação Penal em comento (Ação Penal n. 5683086-28.2021.8.09.0175) já se encontram conclusos para a sentença desde o dia 15/02/2023, ou seja, o feito está na iminência de ser julgado.
+Dessarte, não mais que se falar em excesso de prazo para a formação da culpa.
+Por fim, verifico que o pedido de relaxamento da custódia cautelar está prejudicado, pois, de acordo com a decisão de fls. 755-756 e as informações de fls. 758-759, transmitidas pelo Magistrado de primeira instância, a prisão preventiva do Paciente foi convertida em internação provisória.
+Ante o exposto, JULGO PARCIALMENTE PREJUDICADA a impetração e, no mais, DENEGO a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. LATROCÍNIO. INSURGÊNCIA CONTRA A PRISÃO PREVENTIVA. SUPERVENIENTE CONVERSÃO DA CUSTÓDIA EM INTERNAÇÃO PROVISÓRIA. PERDA DE OBJETO. EXCESSO DE PRAZO PARA A FORMAÇÃO DA CULPA. NÃO CONFIGURADO. IMPETRAÇÃO JULGADA PARCIALMENTE PREJUDICADA E, NO MAIS, ORDEM DE HABEAS CORPUS DENEGADA.
