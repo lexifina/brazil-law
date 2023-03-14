@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Severino Marinho Gomes - investigado pela prática, em tese, do delito de homicídio qualificado - contra o acórdão proferido pelo Tribunal de Justiça do Rio de Janeiro, que denegou a ordem nos autos do Habeas Corpus n. 0087639-85.2022.8.19.0000, mantendo a prisão preventiva imposta pelo Juízo da 3ª Vara Criminal da comarca de Niterói/RJ (Autos n. 0025754-07.1998.8.19.0002).
+Daí a presente impetração, em que se sustenta, em suma, ausência de fundamentação idônea que justifique a manutenção da prisão preventiva; para tanto, aduz-se: 1) que a mera circunstância de o acusado se encontrar em local incerto e não sabido, por si só, não é motivo bastante para lhe impor a condição de foragido e determinar a prolação do decreto prisional; 2) ausência de contemporaneidade da prisão, uma vez que o réu foi preso 24 anos após os fatos; e 3) condições pessoais favoráveis e ausência de qualquer crime cometido pelo acusado no interregno desses 24 anos.
+Alega-se, ainda, que o paciente é idoso e estava sendo acompanhado pelo médico da UBS J NAKAMURA desde 2014, dessa forma, a interrupção do acompanhamento pode trazer prejuízos irreversíveis à saúde do acusado; razão pela qual se entende devida a prisão domiciliar.
+Por fim, requer-se (fl. 24):
+ ..
+Por todo o exposto, requer a Defesa:
+1- a concessão do PEDIDO LIMINAR, a fim de que se RELAXE a prisão preventiva do paciente, eis que preenchidos os requisitos autorizadores do fumus boni iuris e do periculum in mora, com imediata expedição de alvará de soltura em seu favor, ou substitua a preventiva pela domiciliar, aplicando-se, se for o caso, medidas cautelares alternativas da prisão;
+2- seja conhecido, ao fim, o pedido de HABEAS CORPUS, para que o paciente possa aguardar a conclusão de seu processo em liberdade, ou, de forma alternativa, seja substituída a prisão preventiva pela domiciliar.
+ ..
+O pedido liminar foi indeferido às fls. 137/139.
+Informações prestadas às fls. 143/147.
+O Ministério Público Federal, às fls. 149/154, opinou pelo não conhecimento e pela não concessão da ordem de ofício.
+É o relatório.
+A defesa pretende o relaxamento da prisão preventiva, ainda que mediante a imposição de medidas cautelares diversas da prisão e, subsidiariamente, a substituição da custódia cautelar por prisão domiciliar.
+A prisão preventiva foi decretada, por ocasião do recebimento da denúncia, aos seguintes termos (fls. 60/61 - grifo nosso):
+ ..
+2.3. Com efeito, os fatos imputados, graves como se disse, e o modo de seu cometimento por si indicam a periculosidade do agente.
+2.4. Demais disso, a perspectiva formada a partir dos atos de inquérito indica que o acusado, logo após os fatos, preferiu a fuga a apresentar-se à autoridade policial, não havendo indicação de sua localização, o que põe em risco a instrução criminal, a integridade da testemunha presencial e a eventual aplicação da lei penal.
+ ..
+Por sua vez, ao revisar a custódia preventiva, o Juízo de primeiro grau destacou (fl. 59 - grifo nosso):
+ ..
+Verifica-se que a prisão preventiva do acusado SEVERINO MARINHO GOMES foi decretada às fls. 84/86 e devidamente fundamentada na necessidade de garantia da ordem pública e de eventual futura aplicação da Lei Penal, bem como por conveniência da instrução criminal.
+Todavia, embora a decisão seja de 31/7/2000, o réu somente foi preso em 15/2/2022, permanecendo FORAGIDO POR QUASE DUAS DÉCADAS!
+Ademais, não houve qualquer alteração da situação fática, permanecendo íntegros e inalterados os motivos que justificaram a decretação da custódia cautelar.
+Em verdade, ainda não se encerrou a instrução criminal, o que corrobora a necessidade de manutenção da prisão para a conveniência da instrução criminal de primeira fase e mesmo da instrução de segunda fase, caso venha a ser pronunciado, com o fito de evitar nova evasão do réu e de garantir que as testemunhas que virão a plenário prestar depoimento não se sintam intimidadas pela mudança na situação prisional dele.
+ ..
+Provocado na via do habeas corpus, a prisão foi mantida pelo Tribunal a quo (fls. 27/28 - grifo nosso):
+ ..
+O ora paciente esteve evadido por cerca de 24 anos, encontrado com o cumprimento do mandado de prisão, exarado em 1998, em outro estado da federação (SP).
+Com efeito, as circunstâncias apresentadas no caso concreto evidenciam um risco à ação penal e aplicação da lei, considerando que o requerente furtou-se à justiça durante um interregno longo.
+Destaca-se que, "a contemporaneidade diz respeito aos motivos ensejadores da prisão preventiva e não ao momento da prática supostamente criminosa em si, ou seja, desimportante que o fato ilícito tenha sido praticado há lapso temporal longínquo, sendo necessária, no entanto, a efetiva demonstração de que, mesmo com o transcurso de tal período, continuam presentes os requisitos (i) do risco à ordem pública ou (ii) à ordem econômica, (iii) da conveniência da instrução ou, ainda, (iv) da necessidade de assegurar a aplicação da lei penal (..) (STF, HC 192519 AgR-segundo, Relator (a): Min. Rosa Weber, 1ª Turma, j. 15/12/2020, p. 10/02/2021).
+Noutro giro, o domicílio apontado em nome de terceiro, por si só, não se mostra suficiente, com vistas a determinar sua residência, que a propósito dista e muito do distrito da culpa.
+Além disto, nada foi trazido aos autos que demonstre que o réu não irá se furtar da aplicação da lei penal, não sendo as medidas alternativas suficientes para resguardar a instrução.
+Igualmente, não se encontram devidamente preenchidas as condições para a adoção da prisão domiciliar, não tendo a defesa apresentado provas suficientes de ser o paciente portador de moléstia grave. Note-se que, o parágrafo único do artigo 318 do CPP exige prova idônea do alegado.
+Deste modo, igualmente inviável a substituição pretendida.
+ ..
+Inicialmente, registre-se que a prisão preventiva pode ser decretada, desde que haja prova da existência do crime e indício suficiente de autoria, como garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, em decisão motivada e fundamentada acerca do receio de perigo gerado pelo estado de liberdade do imputado e da contemporaneidade da necessidade da medida extrema (arts. 311 a 316 do CPP).
+In casu, o Magistrado de primeiro grau fundamentou o decreto de prisão e destacou o modus operandi do delito, pois, ao que parece, conforme narrado pela denúncia, o agente efetuou disparos de arma de fogo contra a vítima, motivado por ciúmes em razão de a ofendida manter relacionamento íntimo com terceiro (fl. 30), fundamento apto a consubstanciar a prisão cautelar, para garantia da ordem pública.
+Ainda, as instâncias ordinárias, destacaram que o réu permaneceu foragido por mais de 20 anos, pois o mandado de prisão emitido no ano de 1998 somente foi cumprido em 15/2/2022, no estado de São Paulo, fato que justifica a necessidade da prisão, tendo em vista a conveniência para a instrução criminal e a dificuldade de aplicação da lei penal, consoante pacífico entendimento desta Corte no sentido de que a evasão do distrito da culpa, comprovadamente demonstrada nos autos e reconhecida pelas instâncias ordinárias, constitui motivação suficiente a justificar a preservação da segregação cautelar para garantir a aplicação da lei penal (AgRg no RHC n. 117.337/CE, Ministro JORGE MUSSI, QUINTA TURMA, DJe 28/11/2019).
+Cito, ainda, outros precedentes: AgRg no HC n. 748.113/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 27/6/2022; AgRg no HC n. 653.422/MS, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 12/8/2021; e HC n. 653.415/BA, de minha relatoria, Sexta Turma, DJe 29/6/2021.
+Por outro lado, para entender como pretende a defesa, que o réu não estava foragido, pois não sabia que havia uma persecução criminal em seu desfavor, seria imprescindí vel o reexame fático-probatório dos autos, circunstância incabível na via estreita do mandamus.
+Por sua vez, é certo que a contemporaneidade não está restrita à época da prática do delito, e, sim, à verificação da necessidade no momento de sua decretação, ainda que o fato criminoso tenha ocorrido em um período passado, pois a gravidade concreta do delito obstaculiza o esgotamento do periculum libertatis apenas pelo decurso do tempo (AgRg no HC n. 564.852/MG, Ministro Ribeiro Dantas, Quinta Turma, DJe 18/5/2020).
+Quanto ao ponto, tem-se que a Suprema Corte entende que:
+A contemporaneidade diz respeito aos motivos ensejadores da prisão preventiva e não ao momento da prática supostamente criminosa em si, ou seja, é desimportante que o fato ilícito t enha sido praticado há lapso temporal longínquo, sendo necessária, no entanto, a efetiva demonstração de que, mesmo com o transcurso de tal período, continuam presentes os requisitos (i) do risco à ordem pública ou (ii) à ordem econômica, (iii) da conveniência da instrução ou, ainda, (iv) da necessidade de assegurar a aplicação da lei penal.
+(AgR no HC n. 190.028, Ministra Rosa Weber, Primeira Turma, DJe 11/2/2021 - grifo nosso)
+Observa-se, ainda, que a fuga constitui o fundamento do juízo de cautelaridade, em juízo prospectivo, razão pela qual a alegação de ausência de contemporaneidade não tem o condão de revogar a segregação provisória (HC n. 484.961/SP, Ministra LAURITA VAZ, SEXTA TURMA, julgado em 26/2/2019, DJe 15/3/2019).
+Noutro ponto, é entendimento desta Corte Superior de Justiça que as condições favoráveis do paciente, por si sós, não impedem a manutenção da prisão cautelar quando devidamente fundamentada; e que é inaplicável medida cautelar alternativa quando as circunstâncias evidenciam que as providências menos gravosas seriam insuficientes para a manutenção da ordem pública.
+No mesmo sentido, trago à colação os seguintes julgados de ambas as Turmas desta Corte Superior que julgam matéria penal: AgRg no HC n. 711.706/SP, Ministro João Otávio de Noronha, Quinta Turma, DJe 26/5/2022; e RHC n. 156.112/RJ, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 26/4/2022.
+Por fim, considerando as peculiaridades do caso, entendo que os requisitos para substituição da prisão preventiva pela prisão domiciliar, na forma do art. 318 do Código de Processo Penal, não estão presentes.
+Com efeito, apesar dos documentos juntados, não há efetiva comprovação de que o réu esteja extremamente debilitado (art. 318, II, do CPP), por motivo de grave doença aliado à impossibilidade de receber tratamento no estabelecimento prisional onde se encontra.
+Ora, no caso, o Tribunal a quo foi veemente em concluir que a defesa não apresentou provas suficientes de ser o paciente portador de moléstia grave (fl. 28).
+É firme a jurisprudência desta Corte Superior no sentido de que o deferimento da substituição da prisão preventiva por prisão domiciliar, nos termos do art. 318, inciso II, do Código de Processo Penal, depende da comprovação inequívoca de que o réu esteja extremamente debilitado, aliada à impossibilidade de receber tratamento no estabelecimento prisional em que se encontra, não bastando para tanto a mera constatação de que  ..  necessite de acompanhamento médico (AgRg no HC n. 633.976/BA, Ministro Felix Fischer, Quinta Turma, DJe 31/5/2021).
+Nesse contexto, não verifico a presença de constrangimento ilegal capaz de justificar a reforma do acórdão impugnado.
+Ante o exposto, à vista dos precedentes, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. REVOGAÇÃO. IMPOSSIBILIDADE. MODUS OPERANDI DO DELITO. GARANTIA DA ORDEM PÚBLICA. PACIENTE QUE PERMANECEU FORAGIDO POR MAIS DE 20 ANOS. CONVENIÊNCIA DA INSTRUÇÃO CRIMINAL E ASSEGURAR A APLICAÇÃO DA LEI PENAL. AUSÊNCIA DE CONTEMPORANEIDADE. NÃO OCORRÊNCIA. PRISÃO DOMICILIAR HUMANITÁRIA. NÃO COMPROVAÇÃO DA EXTREMA DEBILIDADE OU INCAPACIDADE DE RECEBER TRATAMENTO NO ESTABELECIMENTO ONDE SE ENCONTRA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+Ordem denegada.
