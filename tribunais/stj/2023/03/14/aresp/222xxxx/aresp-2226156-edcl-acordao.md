@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+VINICIUS BEROIS DO AMARAL opõe embargos declaratórios contra o acórdão de fls. 930-932, por meio do qual a Sexta Turma negou provimento ao agravo regimental, a fim de preservar o não conhecimento do agravo, pela incidência das Súmulas n. 284 do STF, 7 e 83 do STJ.
+Em suas razões, o embargante sustenta a omissão e contradição do decisum, ao afirmar que "é MANIFESTAMENTE OMISSA (GENÉRICA) E CONTRADITÓRIA quanto a sua fundamentação, ademais, ensejou em suas insurgências, tão somente parafraseando que as impugnações foram genéricas, mormente específicas - o que não ocorrera, visto que ponto a ponto fora rebatido nas razões recursais, afastando, portanto, toda a incidência sumular n.182 da reverenda turma deste Superior Tribunal de Justiça, porquanto manifestamente contrária aos autos." (fls. 948-949).
+Aduz ter impugnado de forma pormenorizada os fundamentos da decisão agravada e retoma as razões do recurso especial quanto ao mérito.
+Pleiteia, assim, o acolhimento dos aclaratórios, para que seja analisado o especial.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE VÍCIOS NA DECISÃO EMBARGADA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos declaratórios são inadmissíveis quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, a reapreciação do caso.
+2. A irresignação do embargante se resume a seu mero inconformismo com o resultado do julgado, que lhe foi desfavorável. Isso porque, ficou devidamente justificado o não provimento do recurso, dada a incidência da Súmula n. 182 do STJ.
+3. Embargos de declaração rejeitados.
+VOTO
+Não obstante os esforços perpetrados pelo ora embargante, não constato os vícios apontados no acórdão embargado, que assim registrou (fls. 931-932):
+A jurisprudência do Superior Tribunal de Justiça é firme ao asseverar que os "recursos devem impugnar, de maneira clara, objetiva, específica e pormenorizada todos os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos" (AgRg no AREsp n. 1.262.653/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 30/5/2018).
+No caso, a Corte de origem inadmitiu a impugnação especial com base na incidência das Súmulas n. 7 e 83 do STJ, bem como 284 (ausência de cotejo analítico) do STF.
+Quanto à impugnação do óbice n. 7/STJ era imprescindível à parte individualizar, de forma específica e fundamentada, a desnecessidade de revolvimento subjetivo do conjunto fático e probatório, de modo a indicar as provas transcritas e reconhecidas no aresto recorrido, suficientes para o acolhimento de suas alegações, o que não ocorreu.
+A defesa, em seu agravo, não demonstrou que a pretensão está respaldada por fatos incontroversos, mencionados pelo Tribunal de origem no julgado da apelação. Em verdade, o recurso endereçado a esta Corte refuta os elementos concretos transcritos no acórdão de apelação.
+Não foi demonstrado, minimamente, que o acolhimento das teses defensivas demanda mera revaloração (considerações atinentes à legitimidade, à licitude e ao valor jurídico das provas que embasaram a convicção judicial) de provas. Pelo contrário; para rebater o resultado da apelação é necessário o reexame (interpretação subjetiva) das evidências do caso concreto e a nova reconstrução histórica do crime, o que não se admite em recurso especial, destinado apenas à interpretação jurídica de dispositivos federais.
+Noutro giro, embora considere que houve alguma manifestação do insurgente acerca da não incidência das Súmulas n. 284 do STF e n. 83 do STJ, sua argumentação deixou de rebater, especificamente e de modo claro, a aplicação dos óbices sumulares, baseando-se em assertivas genéricas, e portanto, insuficientes.
+Nesse cenário, correta a decisão agravada, pois, verificado que o agravante deixou de impugnar os fundamentos da inadmissão do recurso especial, incide o enunciado sumular n. 182 do STJ.
+Convém esclarecer que os embargos de declaração são cabíveis somente nas hipóteses do art. 619 do Código de Processo Penal, isto é, nos casos de ambiguidade, obscuridade, contradição ou omissão no acórdão embargado.
+São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, a reapreciação do caso.
+Apenas excepcionalmente, se constatada a necessidade de mudança no resultado do julgamento em decorrência do próprio reconhecimento da existência de algum desses vícios, é que se descortina a possibilidade de se emprestarem efeitos infringentes aos aclaratórios.
+Noto que a irresignação do embargante se resume a seu mero inconformismo com o resultado do julgado, que lhe foi desfavorável. Não há nenhum fundamento que justifique a oposição dos embargos de declaração, os quais se prestam apenas a sanar eventual omissão, contradição ou obscuridade e não a reapreciar a causa. Isso porque, ficou devidamente justificado o não conhecimento do recurso, dada a incidênc ia das Súmulas n. 284 do STF, 7 e 83 do STJ.
+À vista do exposto, rejeito os embargos de declaração.
