@@ -1,0 +1,73 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 08/03/2023 a 14/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, João Otávio de Noronha, Raul Araújo, Paulo de Tarso Sanseverino, Maria Isabel Gallotti, Marco Buzzi, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Antonio Carlos Ferreira.
+RELATÓRIO
+Trata-se de agravo interno interposto por MARIO NOGUEIRA GAUNA contra a decisão (fls. 664/667) proferida pela Presidência do STJ, que indeferiu liminarmente os embargos de divergência.
+Em suas razões (fls. 669/699), o agravante alega, em síntese, que os embargos de divergência merecem ser processados, visto que todos os requisitos de admissibilidade foram preenchidos.
+Reitera também a existência de dissídio jurisprudencial entre julgados da Terceira e da Quarta Turma do Superior Tribunal de Justiça.
+Afirma que não incide o óbice da Súmula 315/STJ.
+Ao final, busca o processamento e o provimento dos embargos de divergência, para que seja promovida a revisão de contratos bancários.
+Impugnação apresentada às fls. 703/706.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. HIPÓTESES DE CABIMENTO DO RECURSO. PARADIGMAS. DECISÕES MONOCRÁTICAS. INADMISSIBILIDADE. ACÓRDÃO RECORRIDO E ARESTO PARADIGMA. MESMO ÓRGÃO JULGADOR. COMPOSIÇÃO. ALTERAÇÃO. MAIORIA DOS MEMBROS. NECESSIDADE. MÉRITO DA CONTROVÉRSIA. APRECIAÇÃO NO PARADIGMA. AUSÊNCIA DE EXAME NO OUTRO. ÓBICE RECURSAL. DISCUSSÃO. REGRA TÉCNICA DE ADMISSIBILIDADE. INVIABILIDADE.
+1. A jurisprudência desta Corte é firme no sentido de ser inadmissível embargos de divergência quando o paradigma é decisão unipessoal de relator.
+2. Nos termos do art. 1.043, § 3º, I, do Código de Processo Civil de 2015, não cabem embargos de divergência quando os acórdãos recorrido e paradigma são oriundos da mesma Turma julgadora, sendo ausente, no período, a alteração de sua composição em mais da metade de seus membros.
+3. Para que os embargos de divergência fundados no art. 1.043, III, do CPC/2015 sejam conhecidos, é necessário que tanto o acórdão embargado quanto o aresto paradigma tenham apreciado a tese jurídica trazida no recurso especial, embora um deles, ao final, não tenha sido conhecido por incidência de algum óbice recursal.
+4. O inciso II do art. 1.043 do CPC/2015 previa a possibilidade de interposição de embargos de divergência em se tratando de acórdãos relativos a juízo de admissibilidade, mas tal hipótese de cabimento foi revogada pela Lei nº 13.256/2016.
+5. O Superi or Tribunal de Justiça já firmou entendimento no sentido de que são incabíveis embargos de divergência com o intuito de reapreciar a efetiva ocorrência dos óbices de admissibilidade do recurso especial.
+6. Agravo interno não provido.
+VOTO
+A irresignação não merece prosperar.
+Os argumentos expendidos nas razões do agravo são insuficientes para autorizar a reforma da decisão atacada.
+De início, como consignado na decisão agravada, nos termos do art. 1.043, § 3º, I, do Código de Processo Civil de 2015 (CPC/2015), não cabem embargos de divergência quando os acórdãos recorrido e paradigma são oriundos da mesma Turma julgadora, sendo ausente, no período, a alteração de sua composição em mais da metade de seus membros.
+A propósito:
+"AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL - INDICAÇÃO DE ARESTO ORIUNDO DA MESMA TURMA JULGADORA - INVIABILIDADE. INCONFORMISMO DA PARTE AUTORA.
+1. Acórdão oriundo da mesma Turma julgadora do aresto embargado não é apto a demonstrar o dissídio jurisprudencial que enseja a admissão dos embargos de divergência.
+1.1 Ausência de alteração da composição do Órgão julgador entre a data de julgamento do acórdão embargado e a data daquele apontado como paradigma.
+2. Agravo interno desprovido" (AgInt nos EREsp nº 1.799.962/SP, relator Ministro MARCO BUZZI, Segunda Seção, julgado em 28/9/2021, DJe de 1/10/2021).
+"AGRAVO INTENO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. INDICAÇÃO, COMO PARADIGMA, DE UM ÚNICO ARESTO, PROVENIENTE DO MESMO ÓRGÃO JULGADOR QUE PROFERIU O ACÓRDÃO EMBARGADO. INEXISTÊNCIA DE ALTERAÇÃO NA COMPOSIÇÃO DO ÓRGÃO FRACIONÁRIO. PARADIGMA QUE NÃO SERVE À DEMONSTRAÇÃO DA ALEGADA DIVERGÊNCIA. EXIGÊNCIA DO § 3º DO ART. 1.043 DO CPC/2015 NÃO ATENDIDA. EMBARGOS INDEFERIDOS LIMINARMENTE. AGRAVO INTERNO IMPROVIDO.
+1. O embargante indicou, em suas alegações, um único acórdão paradigma, proferido pela própria Quarta Turma, também prolatora do acórdão ora embargado.
+2. Entre as várias inovações trazidas pelo Código de Processo Civil de 2015, figura a possibilidade de que, na interposição de embargos de divergência no Superior Tribunal de Justiça, o acórdão indicado como paradigma seja proveniente da mesma turma que proferiu a decisão embargada. Ocorre que essa hipótese ficou condicionada à demonstração, pelo embargante, de ter havido alteração da composição do órgão julgador, com mudança de mais da metade de seus membros.
+2.1 No particular, o único acórdão escolhido para a demonstração da alegada divergência não preenche a exigência contida no art. 1.043, § 3º, do CPC/2015, disso resultando a inadmissibilidade dos embargos.
+3. Não cabe ao intérprete, em se tratando de norma restritiva, como o é a exceção ora em análise (§ 3º do art. 1.043 do CPC/2015), estender a outras hipóteses de incidência não estabelecidas pontualmente pelo legislador, como pretende o ora insurgente.
+4. Agravo interno improvido" (AgInt nos EREsp nº 1.116.912/SP, relator Ministro MARCO AURÉLIO BELLIZZE, Segunda Seção, julgado em 18/8/2021, DJe de 23/8/2021).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER E COMPENSAÇÃO POR DANOS MORAIS. INADMISSIBILIDADE DO AGRAVO EM RECURSO ESPECIAL. INTERESSE DE AGIR. APLICAÇÃO DA SÚMULA N. 7/STJ. INADMISSIBILIDADE DO RECURSO. INCIDÊNCIA DA SÚMULA N. 315/STJ. DECISÃO MANTIDA.
+1. A jurisprudência desta Corte está sedimentada no sentido de que "não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial", a teor do que dispõe a Súmula n. 315/STJ.
+2. No caso concreto, o recurso especial não foi conhecido por incidir na Súmula n. 283 do STF, por isso é aplicável a Súmula n. 315 do STJ.
+3. "A oposição de embargos de divergência fundado em acórdão paradigma da mesma turma que proferiu a decisão embargada somente é admitida quando houver a alteração de mais da metade dos seus membros (art. 1.043, § 3º, do NCPC), o que não ocorreu" (AgInt nos EAREsp 1.157.501/SP, Relatora Ministro MOURA RIBEIRO, SEGUNDA SEÇÃO, julgado em 20/8/2019, DJe 22/8/2019).
+4. Agravo interno a que se nega provimento" (AgInt nos EAREsp nº 1.559.561/RS, relator Ministro ANTONIO CARLOS FERREIRA, Segunda Seção, julgado em 11/11/2020, DJe de 16/11/2020).
+Ademais, a indicação de paradigmas nos embargos de divergência, a teor dos arts. 1.043 do CPC/2015 e 266 do RISTJ, deve se limitar a julgados colegiados, ou seja, acórdãos, não podendo ser utilizada mera decisão monocrática para comprovar eventual dissídio. Assim, esses julgados também são incabíveis para a demonstração de qualquer divergência de teses na via recursal eleita.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. DECISÕES MONOCRÁTICAS COMO PARADIGMAS. DESCABIMENTO. INDEFERIMENTO LIMINAR DOS EMBARGOS DE DIVERGÊNCIA. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão monocrática publicada em 21/09/2018, que indeferira liminarmente os Embargos de Divergência, interpostos contra acórdão publicado na vigência do CPC/2015, por indicar o recurso, como paradigmas, decisões monocráticas.
+II. Na forma da jurisprudência do STJ, apenas as decisões proferidas por órgãos colegiados são aptas à comprovação da divergência jurisprudencial, de modo que as decisões monocráticas não servem como paradigmas para a interposição de Embargos de Divergência, tal como ocorreu, in casu. Nesse sentido: STJ, AgInt nos EREsp 1.587.859/RS, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, DJe de 03/05/2017; AgInt nos EAREsp 374.373/SC, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, DJe de 16/08/2018; AgRg nos EAREsp 822.343/MG, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, TERCEIRA SEÇÃO, DJe de 20/09/2017; AgInt nos EAREsp 1.022.112/SP, Rel. Ministro HUMBERTO MARTINS, CORTE ESPECIAL, DJe de 04/04/2018.
+III. Agravo interno improvido" (AgInt nos EREsp nº 1.715.716/SP, relatora Ministra ASSUSETE MAGALHÃES, Primeira Seção, julgado em 12/12/2018, DJe de 19/12/2018).
+Por outro lado, os embargos de divergência não comportam seguimento na hipótese em que o aresto paradigma adentra o mérito do recurso, e o acórdão embargado não o conhece em virtude da incidência de algum óbice recursal.
+De fato, extrai-se do art. 1.043, III, do CPC/2015 que existe a necessidade de que tanto o acórdão embargado quanto o aresto paradigma tenham apreciado a tese jurídica trazida no recurso especial, embora a pretensão de um deles, ao final, não tenha sido conhecida.
+Efetivamente,
+"(..) a previsão do art. 1.043, III, do novo CPC, na esteira dos princípios da instrumentalidade das formas e da primazia da resolução de mérito (art. 4º, CPC), vem afirmar o cabimento de embargos de divergência contra julgados que, por um equívoco de técnica de julgamento, a despeito de terem examinado o mérito da controvérsia, não conhecem de recurso ou pedido, quando o resultado de julgamento mais adequado seria o da improcedência" (AgRg nos EREsp nº 1.393.786/RS, Rel. Ministro Reynaldo Soares da Fonseca, Terceira Seção, DJe 2/12/2016).
+Nesse mesmo sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. ACÓRDÃO EMBARGADO. JUÍZO DE ADMISSIBILIDADE. ÓBICE DA SÚMULA Nº 182 DO STJ. ACÓRDÃO PARADIGMA. JUÍZO DE MÉRITO. AUSÊNCIA DE IDÊNTICO GRAU DE COGNIÇÃO. REGRA TÉCNICA. SÚMULA Nº 315 DO STJ. AGRAVO NÃO PROVIDO.
+1. Aplicabilidade do novo Código de Processo Civil, devendo ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Os embargos de divergência são cabíveis apenas quando os acórdãos, embargado e paradigma, dirimirem o mérito da questão. Precedentes.
+3. Agravo interno não provido" (AgInt nos EAREsp nº 1.215.628/PR, Rel. Ministro MOURA RIBEIRO, Segunda Seção, DJe 7/5/2020 - grifou-se).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA. AUSÊNCIA DE ANÁLISE MERITÓRIA DO APELO ESPECIAL. INCIDÊNCIA DA SÚMULA 315/STJ. EMBARGOS DE DIVERGÊNCIA REJEITADOS LIMINARMENTE. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+I - Consoante o art. 1.043 do CPC/2015, os Embargos de Divergência somente são admissíveis quando os acórdãos embargado e paradigma forem de mérito, ou quando um deles, embora não conhecendo do recurso, tenha apreciado a controvérsia.
+II - In casu, o acórdão embargado não apreciou a controvérsia, no mérito, eis que proferido em sede de agravo interno manejado em agravo em recurso especial, do qual não se adentrou a análise meritória, assentando-se o julgado com base na Súmula 07/STJ, com a ressalva de não restar caracterizado o dissídio jurisprudencial.
+III - Incidência, no particular, do teor da Súmula n. 315 do STJ, segundo a qual "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial".
+Agravo interno não provido" (AgInt nos EAREsp nº 823.290/MG, Rel. Ministro FELIX FISCHER, Corte Especial, DJe 27/9/2017 - grifou-se).
+Referido entendimento deve-se ao fato de ser inviável a verificação de similitude fática entre os arestos confrontados caso ao menos um deles verse acerca da aplicação de regra técnica concernente ao conhecimento de recurso especial.
+É certo que o inciso II do art. 1.043 do CPC/2015 previa a possibilidade de interposição de embargos de divergência em se tratando de acórdãos relativos a juízo de admissibilidade, mas tal hipótese de cabimento foi revogada pela Lei nº 13.256/2016.
+Assim, é de ser mantido o entendimento pacífico desta Corte Superior de que os embargos de divergência não se prestam a discutir o erro ou acerto na aplicação de regra técnica de conhecimento de recurso especial, visto que tal análise se esgota nas particularidades de cada caso concreto, não havendo dissonância interpretativa quanto à mesma questão de direito (AgInt nos EREsp nº 1.377.677/RS, Rel. Ministra Maria Isabel Gallotti, Segunda Seção, DJe 20/6/2017 e AgRg nos EREsp nº 1.459.396/MG, Rel. Ministro Humberto Martins, Corte Especial, DJe 14/6/2017).
+No caso dos autos, enquanto os acórdãos paradigmas decidiram o mérito da demanda, o aresto embargado não conheceu da irresignação especial em virtude da incidência da Súmula nº 284/STF, o que acarreta a inadmissão dos embargos de divergência.
+Não existem, portanto, interpretações conflitantes por órgãos fracionários do Superior Tribunal de Justiça a respeito dos mesmos temas de direito e substratos fáticos a exigir a devida uniformização.
+O embargante busca, na realidade, o reexame dos pressupostos de admissibilidade do recurso especial e do respectivo agravo, para extrair conclusão diversa acerca da incidência do mencionado enunciado sumular.
+Logo, incide à espécie a Súmula nº 315/STJ, de seguinte teor:
+"Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial".
+Por fim, cumpre assinalar que, consoante entendimento desta Corte Superior, "(..) não é certo entender pelo cancelamento tácito das Súmulas 315 e 316 desta Colenda Corte, em razão da previsão do art. 1.043, III, do novo CPC", pois
+"(..) não há incompatibilidade entre a prescrição legal e o entendimento sumular. Isso porque somente se deve conhecer da divergência entre acórdão que apreciou o mérito e outro que não conheceu do recurso, quando ambos, ao menos, tenham apreciado a questão objeto da divergência" (AgInt nos EAREsp nº 641.762/RS, Rel. Ministro OG FERNANDES, Corte Especial, DJe 21/10/2016).
+Desse modo, não prosperam as alegações postas no presente recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
