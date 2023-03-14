@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso extraordinário (fls. 345-371) interposto por SARP MINERAÇÃO LTDA., com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça que recebeu a seguinte ementa (fl. 298):
+PROCESSUAL CIVIL. AGRAVO INTERNO. FUNDAMENTO NÃO ATACADO. SÚMULA 182/STJ. RAZÕES DIVORCIADAS. SÚMULA 284/STF.
+1. Trata-se de Agravo Interno contra decisão monocrática da Presidência do STJ que não conheceu do Agravo em Recurso Especial.
+2. O presente recurso não ultrapassa a barreira da admissibilidade.
+3. A decisão ora agravada é aquela proferida pela Presidência do STJ, que não conheceu do Agravo em Recurso Especial porque a parte agravante deixou de impugnar especificamente a deficiência de cotejo analítico. Incide por analogia, a Súmula 182/STJ.
+4. Caberia à parte, neste momento, demonstrar o erro na decisão agravada (da Presidência do STJ), mas não o fez.
+5. A agravante alega: "O presente Agravo tem o condão de levar o tema à apreciação do Colegiado, notadamente porque a Súmula 182/STJ teve a sua aplicação afastada nas hipóteses em que não é impugnado, pela parte agravante, capítulo autônomo ou independente de (i.) d. monocrática de relator em 2ª instância que inadmite a tramitação de Recurso Especial; e/ou de (ii.) d. monocrática de relator, em Corte Superior, ao negar conhecimento ou provimento ao apelo do item anterior. Como se demonstrará, a r. decisão monocrática proferida pelo Ilmo. Relator Ministro Humberto Martins, ora agravada, ao não conhecer do Agravo em Recurso Especial da agravante, sob o fundamento de que não foram impugnados todos os fundamentos da decisão que inadmitiu seu REsp em instância inferior, aplicou a máxima encartada na Súmula 182/STJ. Porém, há um equívoco na espécie. A decisão caminhou em sentido contrário à orientação recentemente firmada por este E. STJ, quando do julgamento do EAREsp 1.424.404/SP (2013/0230570-3), oportunidade em que a E. Corte Especial concluiu que "havendo capítulos autônomos na decisão que julgou monocraticamente o recurso especial, a parte sucumbente pode impugnar somente alguns dos capítulos, deixando precluir os demais, hipótese em que o regimental deve ser conhecido em relação aos capítulos impugnados" (g. n.) É o objeto do presente agravo." (fls. 269-270, e-STJ).
+6. A parte não demonstrou que impugnou o fundamento da decisão agravada (óbice processual apontado nela). No caso concreto, a linha argumentativa da peça recursal é deficiente, pois deixa de impugnar o fundamento da decisão agravada e se encontra dissociada do seu conteúdo, conforme se pode inferir dos trechos acima transcritos. Aplicam-se as Súmulas 182/STJ e 284/STF.
+7. Agravo Interno não conhecido.
+Os embargos de declaração opostos na sequência foram rejeitados (fls. 331-339).
+A parte recorrente sustenta, no recurso extraordinário, que teria havido violação do art. 5º, LIV, da Constituição Federal e que a matéria tratada seria dotada de repercussão geral.
+Nesse sentido, defende que o acórdão recorrido teria aplicado equivocadamente a Súmula n. 182 desta Corte ao caso, afrontando o princípio do devido processo legal, uma vez que teria impugnado todos os fundamentos da decisão agravada.
+Afirma que "o E. STJ não analisou a inaplicabilidade da Súmula n. 182/STJ à luz do quanto decidido pela Corte Superior na ocasião do julgamento do EAREsp 1.424.404/SP" (fl. 361).
+Requer, ao final, a admissão do recurso, bem como a remessa ao Supremo Tribunal Federal.
+Contrarrazões apresentadas às fls. 384-389.
+É o relatório.
+Como relatado, o pronunciamento recorrido concluiu pelo não preenchimento dos pressupostos de admissibilidade do recurso anteriormente dirigido ao Superior Tribunal de Justiça.
+Tal fato ocorreu porque, no julgado impugnado, não se conheceu do agravo interno em razão da incidência dos óbices dos enunciados 182 da Súmula do STJ e 284 da Súmula do STF.
+Como se vê, o mérito do agravo interno não chegou a ser apreciado, tampouco o do agravo em recurso especial, diante de insuperáveis óbices processuais, impeditivos do próprio conhecimento dos recursos.
+Segundo o STF, a necessidade de superação do que fora decidido no pronunciamento recorrido acerca dos pressupostos de conhecimento do recurso da competência de outro tribunal, como ocorreu neste caso, inviabiliza o exame do recurso extraordinário pela própria Corte Suprema, qualquer que seja a suscitada violação da Constituição Federal, consoante a tese fixada no Tema n. 181 da repercussão geral:
+A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral (RE n. 598.365-RG/MG).
+Nesse sentido, eventual ofensa à Carta Magna, se existente, seria apenas indireta ou reflexa, entendendo o Excelso Pretório que "carece de repercussão geral a discussão acerca dos pressupostos de admissibilidade de recursos da competência de cortes diversas" (ARE n. 1.227.415-AgR, relator Ministro Edson Fachin, Segunda Turma, DJe de 21/5/2021), mesmo quando suscitada a ofensa ao art. 105, III, da Constituição da República (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+Esse é também o consolidado entendimento do STJ, que reiteradamente nega provimento aos agravos que impugnam decisões de aplicação do Tema n. 181/STF, como exemplifica o precedente a seguir:
+Tratando-se de recurso extraordinário contra acórdão que não ultrapassou o juízo de admissibilidade, fica inviabilizado o exame das questões constitucionais suscitadas em face da inexistência de repercussão geral.
+(AgInt no RE nos EDcl no AgInt no AREsp n. 1.342.377/SP, relatora Ministra Maria Thereza de Assis Moura, DJe de 13/9/2019.)
+Assim, não sendo a discussão proposta revestida de repercussão geral, segundo o próprio STF, entendimento de observância obrigatória (CPC, art. 927, III, parte final), nada colhe o recurso extraordinário.
+Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO. TEMA N. 181/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. NEGATIVA DE SEGUIMENTO.
+1. "A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral" (Tema n. 181/STF).
+2. Não preenchidos os pressupostos de admissibilidade do agravo interno no agravo em recurso especial, aplica-se a tese do Tema n. 181/STF ainda que se queira, no recurso extraordinário, discutir o mérito da causa ou os fundamentos que impediram o conhecimento do recurso (CPC, art. 927, III).
+3. Recurso extraordinário a que se nega seguimento, nos termos do art. 1.030, I, a, do CPC.
