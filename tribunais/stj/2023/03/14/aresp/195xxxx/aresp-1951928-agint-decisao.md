@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de agravo interposto por JOÃO ALBERTO GODOY GOULART E ADVOGADOS ASSOCIADOS contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO cuja ementa guarda os seguintes termos (fl. 120):
+PROCESSUAL CIVIL. AGRAVO INTERNO. ART. 1.021, CPC. APELAÇÃO DESPROVIDA. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA REJEITADA. HONORÁRIOS FIXADOS EM 15% SOBRE O PROVEITO ECONÔMICO. ART. 85, §3º DO CPC. AGRAVOINTERNO DESPROVIDO.
+1. A decisão ora agravada, prolatada em consonância com o permissivo legal, encontra-se supedaneada em jurisprudência consolidada do Colendo Superior Tribunal de Justiça, inclusive quanto aos pontos impugnados no presente recurso. O C. Superior Tribunal de Justiça no julgamento do REsp 1.155.125/MG, sob a sistemática dos
+2. recursos especiais repetitivos (art. 543-C, do CPC), firmou entendimento no sentido de que, quando vencida a Fazenda Pública, a fixação dos honorários não está adstrita aos limites percentuais de10% e 20%, podendo ser adotado como base de cálculo o valor dado à causa ou à condenação, nos termos do art. 20, § 4º, do CPC/1973, ou mesmo um valor fixo, segundo o critério de equidade.
+3. No caso em questão, considerando o valor da causa, assim como a baixa complexidade da demanda, que não exigiram grande trabalho e tempo despendidos por parte do patrono da exequente, mantem-se a sentença, que fixou a verba honorária no percentual de 15% sobre o valor do proveito econômico, em observância aos §§ 3º e 8º, do art. 85, do CPC.
+4. As razões recursais não contrapõem tais fundamentos a ponto de demonstrar o desacerto do decisum, limitando-se a reproduzir argumento visando à rediscussão da matéria nele contida.
+5. Agravo interno desprovido.
+Sem embargos de declaração.
+No recurso especial, alega a parte agravante que o acórdão regional contrariou as disposições contidas no art. 85, caput e §§ 2º e 8º, do CPC e aponta divergência jurisprudencial com arestos de outros tribunais.
+Foram oferecidas contrarrazões ao recurso especial (fls. 173-175).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 176-181), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 195-196).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade, passo à análise do recurso especial.
+Assiste razão ao agravante.
+Cuida-se, na origem, de cumprimento de sentença, para cobrança de honorários advocatícios sucumbenciais no valor de R$ 600,00, arbitrados em 25/7/2007.
+O agravante apresentou impugnação, a qual foi rejeitada pelo juízo de primeira instância e, ainda, condenou a parte agravada ao pagamento de "novos honorários advocatícios no valor de R$ 74,18 (setenta e quatro reais e dezoito centavos), que corresponde ao percentual de 15% (quinze por cento) sobre o montante atualizado do proveito econômico obtido pelo Exequente (R$ 494,54), que, por sua vez, equivale à diferença hoje consolidada entre o valor corretamente apurado pelo mesmo Credor/Impugnado (R$ 1.114,12) e aquele erroneamente apurado pela Devedora/Impugnante (R$ 619,12)" (fl.51).
+Irresignado, o agravante interpôs recurso especial sob o argumento que o acórdão recorrido violou o art. 85, caput, e §§ 2º e 8º, do CPC, porquanto "fixou os honorários no valor de R$ 74,18, configurando, portanto, valor irrisório" (fl.143).
+O Superior Tribunal de Justiça, recentemente, no julgamento do Tema n. 1.076, a depender da presença da Fazenda Pública, reservou a utilização do art. 85, § 8º, do CPC (fixação por equidade) para quando, havendo ou não condenação: a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou b) o valor da causa for muito baixo.
+Também foi estabelecida uma sequência objetiva na fixação da verba, devendo ela ser calculada subsequentemente sobre o valor a) da condenação; ou b) do proveito econômico obtido; ou c) do valor atualizado da causa.
+Eis as teses consignadas no referido julgamento:
+1) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação ou da causa, ou o proveito econômico da demanda, forem elevados. É obrigatória, nesses casos, a observância dos percentuais previstos nos parágrafos 2º ou 3º do artigo 85 do Código de Processo Civil (CPC) - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa.
+2) Apenas se admite o arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo.
+A par disso, como foi fixado, na origem, o percentual de 15% de honorários sobre o valor do proveito econômico, que resultou no valor de R$ 74,18, sendo, portanto, irrisório, é cabível o arbitramento dos honorários por equidade.
+A propósito, cito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. SEGURO DPVAT. FIXAÇÃO DOS HONORÁRIOS POR EQUIDADE. APLICAÇÃO DO ART. 85, § 8º, DO CPC/2015. PRECEDENTES. SÚMULA N. 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. É pacífica a jurisprudência desta Corte Superior no sentido de que a ordem delineada no art. 85, § 2º, do CPC/2015 "veicula a regra geral, de aplicação obrigatória, de que os honorários advocatícios sucumbenciais devem ser fixados no patamar de dez a vinte por cento, subsequentemente calculados sobre o valor: (I) da condenação; ou (II) do proveito econômico obtido; ou (III) do valor atualizado da causa" (REsp 1.746.072/PR, Rel. Ministra Nancy Andrighi, Rel. p/ Acórdão Ministro Raul Araújo, Segunda Seção, julgado em 13/2/2019, DJe 29/3/2019).
+2. A Corte Especial deste Superior Tribunal firmou o entendimento de que a fixação dos honorários por equidade, nos termos do art. 85, § 8º, do CPC/2015, ocorrerá nos casos em que, independentemente da existência da condenação, o proveito econômico for irrisório ou inestimável, ou o valor da causa for muito baixo.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 2.017.685/MT, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DECLARATÓRIA E DE DANOS MORAIS. CABIMENTO DOS HONORÁRIOS ADVOCATÍCIOS POR EQUIDADE. FIXAÇÃO DESSA VERBA NA DECISÃO AGRAVADA, RESPEITANDO O ENTENDIMENTO DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO INTERNO DESPROVIDO.
+1. Consoante orientação do Superior, "o § 8º do art. 85, por sua vez, transmite regra excepcional, de aplicação subsidiária, em que se permite a fixação dos honorários sucumbenciais por equidade, para as hipóteses em que, havendo ou não condenação: (I) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (II) o valor da causa for muito baixo" (AgInt no AgInt no AREsp n. 1.671.577/SP, r elator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 12/9/2022, DJe de 15/9/2022).
+2. A recorrida conseguiu, em Juízo, parcela do que vindicou. Ademais, é sabido que o valor informado na petição inicial para a fixação de danos morais e materiais é meramente sugestivo ou estimativo, portanto é viável a estipulação dessa verba em quantum inferior, sem que isso configure sucumbência recíproca. Precedente.
+3. Percebe-se a possibilidade de estipulação dos honorários advocatícios por equidade, os quais foram adequadamente estipulados em R$ 30.000,00 (trinta mil reais), por se mostrar um montante adequado e proporcional ao contexto dos autos, bem como atender ao trabalho desenvolvido pelos advogados da parte ora recorrida.
+4. Agravo interno desprovido.
+(AgInt no REsp n. 1.946.576/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023.)
+Ante o exposto, conheço do agravo para conhecer do recurso especial e dar-lhe provimento, determinando o retorno dos autos à origem para fixar os honorários advocatícios por equidade, nos termos do art. 85, § 8º, do CPC.
+Publique-se. Intimem-se.
