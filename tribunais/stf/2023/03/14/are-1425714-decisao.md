@@ -1,0 +1,35 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+
+    O acórdão recorrido ficou assim ementado:
+
+    TRIBUTÁRIO — APELAÇÃO - AÇÃO DECLARATÓRIA - TAXA DE LICENÇA E FISCALIZAÇÃO DE PUBLICIDADE — EXERCÍCIOS DE 2017, 2019 E 2020 - MUNICÍPIO DE TABOÃO DA SERRA. Sentença que julgou improcedente a ação. Apelo da autora. TAXA DE PODER DE POLÍCIA — FATO GERADOR — Artigo 145, inciso II da Constituição da República e Artigos 77 e 78 do Código Tributário Nacional — Taxa de poder de polícia que tem por fato gerador o exercício regular do poder de polícia — Atividade administrativa que, limitando ou disciplinando direito, interesse ou liberdade, regula a prática de ato ou abstenção de fato, em razão de interesse público — Cobrança da taxa de polícia que prescinde de comprovação da efetiva fiscalização pela Administração Pública — Precedente do C. Superior Tribunal de Justiça. TAXA DE LICENÇA E FISCALIZAÇÃO DE PUBLICIDADE - Cobrança embasada na Lei Complementar Municipal nº 193 de 2009 — Taxa de poder de polícia — Fato gerador consubstanciado no exercício regular do poder de polícia, manifestado pela concessão de licença prévia à veiculação de publicidade, bem como pela fiscalização periódica da publicidade levada a efeito por quaisquer instrumentos de divulgação ou comunicação — Cobrança que prescinde de comprovação da efetiva fiscalização — Precedente desta C. Câmara. No caso dos autos, a controvérsia diz respeito à incidência da Taxa de Licença e Fiscalização de Publicidade relativamente a anúncios veiculados em espaços existentes no shopping center de propriedade da autora, tais como portas, colunas, vidraças e elevadores, tudo do próprio prédio que não demandaria a instalação de um aparato material especificamente para a veiculação de publicidade — A autora pleiteia a limitação da cobrança às hipóteses em que a veiculação de publicidade se dê por meio da instalação de engenho com a finalidade de divulgar peças publicitárias, tais como outdoors, placas, painéis, backlights, frontlights — Alegação de inocorrência do efetivo exercício do poder de polícia nos casos em que não há engenho publicitário a ser fiscalizado — Conceito de engenho publicitário que é controvertido — Ausência de norma de âmbito geral a estabelecer uma definição legal para o termo, tampouco a vincular a fiscalização da Municipalidade à instalação de engenho — Competência do legislador municipal para estabelecer os itens a serem objeto de fiscalização no âmbito local — Código Tributário do Município de Taboão da Serra que sequer menciona a expressão “engenho publicitário”, não sendo permitido presumir que a fiscalização está restrita àquelas hipóteses em que há um aparato material instalado especificamente para a veiculação de publicidade — Artigo 157 do Código Tributário Municipal que estabeleceu como fato gerador da taxa o exercício regular do poder de polícia, consubstanciado na fiscalização da publicidade levada a efeito através de quaisquer instrumentos de divulgação ou comunicação de todo tipo ou espécie — Norma que tem por finalidade a proteção do direito da coletividade à segurança, à incolumidade, à saúde e à higiene em relação aos efeitos danosos da publicidade — Proteção que não se limita à fiscalização dos aparatos em que são veiculadas as peças publicitárias, uma vez que tais efeitos danosos independem da instalação de engenho — Itens passiveis de tributação que, ademais, foram apurados nos processos administrativos nº 7.915/2015, nº 13.796/2016 e 21.403/2018, devidamente impugnados, com amplo exercício de defesa por parte da autora, de maneira a demonstrar a efetiva fiscalização realizada pelo Município — Cobrança da taxa de poder de polícia que, contudo, prescinde de comprovação de efetiva fiscalização — Regular exercício do poder de polícia caracterizado — Ocorrência do fato gerador da taxa em relação aos anúncios veiculados sem a instalação de engenho publicitário, na definição dada pela autora — Shopping center que, apesar de sua natureza privada, está sujeito à atuação estatal na fiscalização das normas atinentes à veiculação de publicidade, por se tratar de local aberto ao público — Legítima a incidência da Taxa de Licença e Fiscalização de Publicidade em relação aos anúncios veiculados no interior do shopping. Honorários advocatícios fixados em 10% sobre o valor da causa (R$ 47.004,00) — Verba honorária que corresponde a aproximadamente R$ 4.700,40 — HONORÁRIOS RECURSAIS — Majoração nos termos do artigo 85, §11 do Código de Processo Civil de 2015 — POSSIBILIDADE — Observância ao disposto nos §§ 2º a 6º do artigo 85, bem como aos limites estabelecidos nos §§ 2º e 3º do respectivo artigo - Majoração em R$ 299,60 sobre a verba honorária já fixada — Honorários que passam a corresponder a aproximadamente R$ 5.000,00. Sentença mantida — Recurso desprovido.
+
+    Opostos os embargos de declaração, foram rejeitados.
+
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 5º, II e IX; 37 e 145, II, da Constituição Federal.
+
+    Decido.
+
+    Analisados os autos, verifica-se que o Tribunal de origem decidiu a controvérsia com fundamento na legislação infraconstitucional local aplicável à espécie e no conjunto fático-probatório dos autos, cuja análise se revela inviável em sede de recurso extraordinário.
+
+    Incidem, na espécie, os óbices das Súmulas 279 e 280 do STF, in verbis: “Para simples reexame de prova não cabe recurso extraordinário” e “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO AMBIENTAL. AÇÃO CIVIL PÚBLICA. OBRA PARA RECUPERAÇÃO DE IMÓVEL. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DA LEGISLAÇÃO LOCAL: SÚMULAS 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (ARE 1.085.165-AgR, Rel. Min. Cármen Lúcia, Plenário,DJe de 26/3/2018)
+
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO – ALEGADA VIOLAÇÃO A PRECEITOS CONSTITUCIONAIS – DIREITO LOCAL – SÚMULA 280/STF – REEXAME DE FATOS E PROVAS – IMPOSSIBILIDADE – SÚMULA 279/STF – SUCUMBÊNCIA RECURSAL (CPC, ART. 85, § 11) – NÃO DECRETAÇÃO, NO CASO, POR TRATAR-SE DE RECURSO DEDUZIDO CONTRA DECISÃO PUBLICADA SOB A ÉGIDE DO CPC/73 – AGRAVO INTERNO IMPROVIDO”. (ARE 949.507-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJe de 9/10/2020)
+
+    Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 14 de março de 2023.
+
+Ministra ROSA WEBER
+
+Presidente
+
+Documento assinado digitalmente
