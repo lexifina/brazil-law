@@ -1,0 +1,33 @@
+DECISÃO
+Neste habeas corpus, com pedido liminar, impetrado em favor de Eder Miranda Padovani Coleti - preso preventivamente pela suposta prática do crime de tráfico de drogas (Processo n. 0003362-98.2022.8.16.0072, em curso na Vara Criminal da comarca de Colorado/PR) -, alega-se, em síntese, nulidade da prisão em flagrante realizada mediante busca pessoal e invasão de domicílio, além da falta de fundamentação idônea para a decretação da prisão preventiva, visto que baseada apenas na gravidade abstrata do delito. Requer-se, em liminar e no mérito, seja revogada a prisão cautelar e, por conseguinte, declarada a nulidade das provas advindas da busca pessoal e invasão de domicílio
+A liminar foi deferida às fls. 124/126.
+Informações prestadas às fls. 130/132.
+Instado a se manifestar, o Ministério Público Federal opinou pelo não conhecimento do habeas corpus, mas pela concessão parcial da ordem de ofício, para que seja determinado o desentranhamento das provas oriundas da invasão domiciliar e para que seja substituída a prisão preventiva por medidas cautelares alternativas ao cárcere (fls. 137/138).
+Em consulta à página eletrônica do Tribunal de Justiça do Paraná, em 10/3/2023, observa-se que ainda não foi proferida sentença na ação penal objeto destes autos.
+É o relatório.
+De início, quanto à tese de nulidade da prisão em flagrante realizada mediante busca pessoal e invasão de domicílio, o writ é inadmissível, seja porque a questão demanda a análise de matéria probatória, insuscetível em sede de cognição sumária, seja porque a questão suscitada demanda prévia dilação probatória, ou seja, só será equacionada no curso da instrução processual.
+Quanto à custódia cautelar, verifica-se que o Magistrado de piso, acolhendo requerimento do Ministério Público, decretou a prisão preventiva nestes termos (fls. 42/43 - grifo nosso):
+Pelo conteúdo exposto, vislumbro suficientes indícios com relação ao autuado.
+Também, o do autuado resta evidenciado na periculum libertatis necessidade da garantia da ordem pública.
+A garantia da ordem pública como motivo autorizador de decretação da prisão preventiva reflete a paz e a tranquilidade que poderão ser abaladas caso o investigado não seja segregado. Sobre o fundamento da "garantia da ordem pública", válido para respaldar a presente decisão, trazer à lume os ensinamentos doutrinários que, elucidando o conceito, alicerça esta decisão:
+"Entende-se garantia da ordem pública como risco considerável de reiteração de ações delituosas por parte do acusado, caso permaneça em liberdade, seja porque se trata de pessoa propensa à prática delituosa, seja porque, se solto, teria os mesmos estímulos relacionados com o delito cometido  ..  O caráter cautelar é preservado, pois a prisão tem o objetivo de assegurar o resulta útil do processo, de modo a impedir que o réu possa continuar a cometer delitos, resguardando o princípio da prevenção geral".
+Ressalte-se que com a contenção do investigado busca-se evitar que o mesmo pratique crimes da mesma natureza novamente, visto que os elementos probatórios demonstram claramente que o autuado insiste em praticar a traficância.
+Há, inclusive, que se destacar que o autuado ainda cumpre pena em regime de pena semiaberto, com monitoração eletrônica, pela condenação anterior por tráfico de drogas (autos de execução da pena n. 00797-06.2020.8.16.0017). Neste ponto, é de conhecimento do próprio acusado que não pode cometer novos crimes, sob pena de regressão de regime ao fechado.
+Registre-se que foi noticiada anonimamente à autoridade policial a ocorrência de traficância pelo autuado, motivo pelo qual a equipe policial atuava em diligência.
+Portanto, sendo o autuado é recalcitrante no cometimento de delitos (vide antecedentes criminais seq. 9.1), essa circunstância fortifica a necessidade da medida de prisão para garantir a segurança social.
+A gravidade da infração aliada à repercussão social gerada pelo delito, autoriza o Judiciário a determinar a prisão cautelar do agente, como medida de garantia da ordem pública. Em regra, todos os crimes geram algum tipo de abalo a ordem social, o que legitima o Estado a processar, julgar e aplicar sanções de caráter pessoal aos seus agentes.
+O Tribunal local, por sua vez, ao denegar a ordem, convalidou a custódia cautelar imposta ao ora recorrente, nestes termos (fl. 84 - grifo nosso):
+ ..
+Outrossim, vislumbra-se que a decisão singular se encontra fundamentada não apenas na materialidade e nos indícios de autoria, mas notadamente na necessidade de garantia da ordem pública, posto que, o paciente estava cumprindo pena em regime semiaberto, com o uso de tornozeleira eletrônica por condenação anterior pelo mesmo crime, conforme consta na certidão de mov. 9.1, motivação idônea para o decreto prisional.
+ ..
+Da análise dos trechos transcritos observa-se que, apesar das considerações realizadas pelas instâncias ordinárias, existem medidas alternativas à prisão que melhor se adequam à situação da imputado, notadamente considerando que o crime noticiado foi cometido sem violência nem grave ameaça à pessoa, bem como que a quantidade de droga apreendida - 0,7 g de cocaína - é pouco significativa e não denota, por si só, periculosidade exacerbada do paciente.
+Posto isso, creio ser desproporcional mobilizar uma vaga no sistema carcerário para acautelar traficante de pequena quantidade de droga, a despeito da existência de ação penal anterior em curso.
+Importante salientar ainda que, com o advento da Lei n. 12.403/2011, a prisão cautelar passou a ser, mais ainda, a mais excepcional das medidas, devendo ser aplicada somente quando comprovada a inequívoca necessidade, devendo-se sempre verificar se existem medidas alternativas à prisão adequadas ao caso concreto.
+A propósito: HC n. 255.834/MG, Ministro Jorge Mussi, Quinta Turma, DJe 15/9/2014.
+Ante o exposto, concedo a ordem para, confirmando a liminar, substituir a prisão preventiva do paciente por medidas cautelares a serem fixadas pelo Magistrado de origem, sem prejuízo da decretação da custódia provisória em caso de descumprimento de quaisquer das obrigações impostas por força das cautelares ou de superveniência de motivos concretos para tanto (Processo n. 0003362-98.2022.8.16.0072, em curso na Vara Criminal de Colorado/PR).
+Comunique-se.
+Intime-se o Ministério Público estadual.
+P ublique-se.
+EMENTA
+HABEAS CORPUS. PROCESSO PENAL. TRÁFICO DE DROGAS. NULIDADE DA PRISÃO EM FLAGRANTE REALIZADA MEDIANTE BUSCA PESSOAL E INVASÃO DE DOMICÍLIO. QUESTÃO NÃO EQUACIONADA NAS INSTÂNCIAS ORDINÁRIAS. INADMISSIBILIDADE. PRISÃO PREVENTIVA. MEDIDAS CAUTELARES DIVERSAS. ADEQUAÇÃO E SUFICIÊNCIA. CONSTRANGIMENTO ILEGAL CONFIGURADO. PRECEDENTES.
+Ordem concedida nos termos do dispositivo. Liminar confirmada.
