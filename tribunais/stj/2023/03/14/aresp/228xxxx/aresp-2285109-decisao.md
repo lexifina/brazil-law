@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu recurso especial apresentado por Esmeralda Izabel de Arruda desafiando acórdão proferido pelo Tribunal de Justiça do Distrito Federal e Territórios assim ementado (e-STJ, fl. 806):
+APELAÇÃO CÍVEL. PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. ILEGITIMIDADE ATIVA DO EXEQUENTE. MATÉRIA JÁ APRECIADA NA ORIGEM. PRECLUSÃO. DECISÃO TRANSITADA EM JULGADO. CONHECIMENTO PARCIAL. IMPUGNAÇÃO À GRATUIDADE DE JUSTIÇA EM SEDE DE CONTRARRAZÕES. VIA INADEQUADA. MÉRITO. NULIDADE DO LAUDO PERICIAL. INSURGÊNCIA GENÉRICA. AUSÊNCIA DE DEMONSTRAÇÃO DE PREJUÍZO. INEXISTÊNCIA DE VÍCIO. SENTENÇA MANTIDA. 1. Matéria já decidida por meio da decisão transitada em julgada não pode ser rediscutida, sob pena de ofensa à coisa julgada em razão da preclusão operada. 2. A gratuidade de justiça deve ser impugnada na via adequada, de sorte que a ausência de impugnação, a tempo e a modo, importa na preclusão da matéria. 3. Não há que se falar em nulidade do laudo pericial produzido quando a parte apresenta argumentação genérica, sem demonstração concreta de eventual prejuízo. 4. Apelação conhecida em parte e, na extensão, não provida.
+Apresentados embargos de declaração pela ora agravante, estes foram rejeitados (e-STJ, fls. 826-837).
+Nas razões do recurso especial, fundado no art. 105, III, a, da Constituição Federal, a recorrente alegou violação ao art . 473, III, do CPC/2015, sustentando, em síntese, a nulidade do laudo pericial (e-STJ, fls. 841-845).
+Contrarrazões apresentadas (e-STJ, fls. 851-860).
+O Tribunal de origem não admitiu o processamento do recurso especial em virtude da incidência da Súmula n. 7/STJ (e-STJ, fls. 863-864).
+Foi interposto agravo em recurso especial às fls. 868-870 (e-STJ).
+Brevemente relatado, decido.
+O Tribunal estadual, ao julgar a apelação, assim concluiu (e-STJ, fl. 810):
+Cinge-se a controvérsia recursal ao exame da regularidade do laudo pericial produzido.
+Aduz a apelante, em suma, haver nulidade na peça, já que não demonstrada a metodologia utilizada para se chegar à conclusão de que o documento apresentado pelo embargado para realização da perícia é o mesmo juntado sob o id. Num. 6549868 - Pág. 16, que aparelhou a execução.
+Razão não lhe assiste.
+Da simples leitura da nota promissória acostada à ação principal ao ID 6549868 - p. 16, têm-se como idêntico absolutamente todo o conteúdo nela lançado em relação à nota promissória apresentada para perícia, conforme imagem no laudo pericial ao ID 33895438 - p. 4, assim como a disposição gráfica de todo o seu conteúdo (tanto verso como anverso), tratando-se a primeira de nítida digitalização da segunda.
+Nesse contexto, não se verifica a necessidade de qualquer esclarecimento além dos prestados no quesito sobre o ponto, sendo suficiente a resposta no sentido de que "sim, trata-se do mesmo documento, porém em via original e física".
+Veja-se que, embasada a insurgência em argumentos genéricos como "afronta a ampla defesa e o contraditório", mas inexistente a demonstração concreta de qualquer prejuízo, como o apontamento de mínima discrepância de algum elemento específico entre as notas promissórias envolvidas, torna-se vazia a tese construída.
+Ora, apresentado o documento físico para exame pelo profissional indicado e concluindo-se pela sua integralidade, autenticidade e ausência de qualquer alteração - ponto que, inclusive, não foi objeto de insurgência da própria apelante - é inafastável o reconhecimento da dívida nele descrita, não havendo que se falar em nulidade do laudo pericial elaborado de forma correta e estritamente técnica.
+Nesse contexto, apesar dos argumentos deduzidos pela insurgente, reverter a conclusão do Tribunal local para acolher a pretensão recursal, no que se refere a nulidade do laudo pericial, demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra impossível ante a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários advocatícios em 2% (dois por cento) sobre o valor atualizado da causa, em favor do advogado da parte recorrida, suspensa a exigibilidade em razão da gratuidade de justiça deferida à recorrente.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. LAUDO PERICIAL. NULIDADE. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
