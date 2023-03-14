@@ -1,0 +1,23 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, não conhecer do agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+LUCAS CALAZANS DOURADO agrava da decisão de fls. 359-361, em que reconsiderei a decisão proferida pela Presidência do STJ, a fim de conhecer do agravo para não conhecer do recurso especial.
+Neste regimental, a defesa sustenta que "o enunciado 284/STF não faz menção à necessidade de o recorrente explicitar o número do artigo impugnado, conclui-se que a descrição dos fatos que se amoldam ao artigo de lei violado é suficiente para a compreensão exata da controvérsia" (fl. 372).
+Requer, por isso, a reconsideração da decisão agravada ou a submissão do feito ao órgão colegiado.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. PRAZO EM DOBRO PARA RECORRER. PRERROGATIVA DA DEFENSORIA PÚBLICA. NÚCLEO DE PRÁTICA JURÍDICA. INVIABILIDADE. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. É intempestivo o agravo regimental que não observa o prazo de interposição de 5 dias, conforme art. 39 da Lei n. 8.038/90 e art. 258 do Regimento Interno do Superior Tribunal de Justiça - RISTJ.
+2. Segundo a jurisprudência desta Corte Superior, "a prerrogativa da contagem dos prazos em dobro, em matéria criminal, não se estende aos Núcleos de Prática Jurídica vinculados à instituição de ensino superior privada" (AgRg no AREsp n. 1.809.965/DF, Rel. Ministra Laurita Vaz, 6ª T., DJe 5/4/2021).
+3. No caso dos autos, o Núcleo de Prática Jurídica foi intimado da decisão que conheceu do agravo para não conhecer do recurso especial no dia 12/12/2022. Logo, a data inicial considerada para contagem do lapso recursal foi 13/12/2022 (terça-feira) e, tendo em conta o disposto no art. 798 do CPP, o prazo recursal encerrou-se no dia 19/12/2022 (segunda-feira). Contudo, o agravo regimental foi protocolado somente em 2/2/2023, fora, portanto, do quinquídio legal.
+4. Agravo regimental não conhecido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+O presente recurso não merece ser conhecido.
+É intempestivo o agravo regimental que não observa o prazo de interposição de 5 dias, conforme art. 39 da Lei n. 8.038/90 e art. 258 do Regimento Interno do Superior Tribunal de Justiça. Ademais, esta Corte Superior possui entendimento consolidado no sentido de que "a prerrogativa da contagem dos prazos em dobro, em matéria criminal, não se estende aos Núcleos de Prática Jurídica vinculados à instituição de ensino superior privada" (AgRg no AREsp n. 1.809.965/DF, Rel. Ministra Laurita Vaz, 6ª T., DJe 5/4/2021).
+No caso dos autos, o Núcleo de Prática Jurídica do Centro Universitário de Brasília (Uniceub) foi intimado da decisão que conheceu do agravo para não conhecer do recurso especial no dia 12/12/2022 (conforme certidão de fl. 367).Logo, a data inicial considerada para contagem do prazo foi 13/12/2022 (terça-feira) e, tendo em conta o disposto no art. 798 do CPP, o prazo recursal encerrou-se no dia 19/12/2022 (segunda-feira). Contudo, o agravo regimental foi protocolado somente em 2/2/2023 (fl. 369), fora, portanto, do quinquídio legal.
+No mesmo sentido, confira-se a jurisprudência:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PRAZO DE 5 DIAS. INTEMPESTIVIDADE. NÚCLEO DE PRÁTICA JURÍDICA. INSTITUIÇÃO PRIVADA. PRAZO EM DOBRO. INAPLICABILIDADE. AGRAVO REGIMENTAL NÃO CONHECIDO. 1. É intempestivo o agravo regimental que não observa o prazo de interposição de 5 dias, conforme art. 39 da Lei n. 8.038/90 e art. 258 do Regimento Interno do Superior Tribunal de Justiça - RISTJ. 2. Verifica-se que a decisão agravada foi publicada em 9/8/2021. O agravo regimental somente foi interposto em 24/8/2021, quando já ultrapassado o prazo legal, sendo manifesta a sua intempestividade. 3. "A prerrogativa da contagem dos prazos em dobro, em matéria criminal, não se estende aos Núcleos de Prática Jurídica vinculados à instituição de ensino superior privada. A eventual existência de entendimento em sentido contrário, do Tribunal a quo, não vincula esta Corte Superior na análise dos recursos de sua competência" (AgRg no AREsp 1809965/DF, Rel. Ministra LAURITA VAZ, SEXTA TURMA, DJe 5/4/2021). 4. Agravo regimental não conhecido.
+(AgRg no AREsp n. 1.913.686/DF, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 4/10/2021, grifei)
+À vista do exposto, não conheço do agravo regimental.
