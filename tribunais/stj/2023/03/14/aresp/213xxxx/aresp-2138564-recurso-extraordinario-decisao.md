@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de recurso extraordinário (fls. 837-850) interposto por JOCELIO DA SILVA BEZERRA, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça assim ementado (fl. 806):
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. APLICAÇÃO DO ENUNCIADO N. 182/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Ausente a impugnação concreta aos fundamentos utilizados pela decisão agravada, que não conheceu do recurso especial, tem aplicação a Súmula n. 182/STJ.
+2. Agravo regimental não conhecido.
+Os embargos de declaração opostos foram rejeitados nos termos da seguinte ementa (fl. 830):
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a sanar ambiguidade, suprir omissão, afastar obscuridade ou eliminar contradição eventualmente existentes no julgado, o que não ocorreu na hipótese.
+2. A pretensão de rediscutir matéria devidamente abordada e decidida no acórdão embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via dos embargos de declaração.
+3. Embargos de declaração rejeitados.
+A parte recorrente sustenta, no recurso extraordinário, que teria havido violação dos arts. 5º, LV, 93, IX, e 105, III, da CF e que a matéria tratada seria dotada de repercussão geral.
+Afirma que (fl. 845):
+ ..  o que se deve discutir nesta oportunidade, é a existência dos pressupostos e requisitos da lei penal e processual em desfavor do agravante ORA RECORRENTE se há ou não indícios de que o agente tenha sido o autor dos fatos e suas consequências processuais até R. decisão em sentença de primeiro grau, o que ao ver da defesa não ocorreu no caso em análise.
+Alega que a nulidade do processo, a sua absolvição ou redução da pena deveriam ser analisadas de ofício.
+Defende que (fl. 848):
+ ..  o presente recurso tem cabimento, uma vez que o que se pretende é restaurar os princípios constitucionais que foram contrariados devendo, para tanto, esta Corte Máxima valorar juridicamente a prova produzida nos autos. Por outro lado, deve ainda ser invocada a Súmula 456 do STF, para que o recurso seja julgado em sua plenitude decidindo-se o mérito, uma vez que a referida súmula impõe à este Supremo Tribunal o exame detalhado da causa, sem quaisquer óbices, pela relevância do tema e pela grandeza da injustiça cometida pelos órgãos julgadores inferiores.
+Requer a admissão do recurso, bem como a sua remessa ao Supremo Tribunal Federal.
+Foi certificada a não apresentação de contrarrazões tempestivas (fl. 861).
+É o relatório.
+Quanto à questão da correta fundamentação das decisões judiciais, o STF firmou tese vinculante segundo a qual:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão (QO no Ag n. 791.292/PE).
+Em suma, apenas a ausência de fundamentação possibilitaria a apreciação do caso pela Suprema Corte, o que não ocorre quando há fundamentos, ainda que a parte não os considere corretos, completos ou os entenda demasiadamente sucintos.
+No caso, foi declinado o motivo por que não se conheceu do agravo regimental, qual seja, a incidência do óbice da Súmula n. 182 do STJ, valendo destacar os seguintes trechos (fls. 809-810):
+O § 1.º do art. 1.021 do Código de Processo Civil, aplicável por força do art. 3.º do Código de Processo Penal, orientado pelo princípio da dialeticidade, dispõe que, " n a petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada".
+Todavia, as razões do agravo regimental não refutam especificadamente os fundamentos pelos quais não se conheceu do recurso especial. Com efeito, a Defesa não demonstrou que houve a indicação do permissivo constitucional autorizador do recurso especial nem indicou qual teria sido o dispositivo infraconstitucional apontado como violado nas razões do recurso especial.
+Sendo assim, incide no presente agravo regimental o Enunciado n. 182 desta Corte, do seguinte teor: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Nesse sentido: "consoante reiterada jurisprudência deste Superior Tribunal de Justiça, as razões do agravo regimental devem se limitar a atacar especificamente os fundamentos da decisão agravada, sob pena de atração, por analogia, da incidência da Súmula n. 182/STJ" (AgRg no AREsp 1.605.293/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 18/02/2020, DJe 28/02/2020; sem grifos no original).
+Da mesma maneira, foram apresentados fundamentos para a rejeição dos embargos de declaração opostos na sequência, o que vale repisar (fls. 832-834):
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a suprir eventual omissão, afastar obscuridade, eliminar contradição ou ambiguidade existentes no julgado.
+A obtenção de efeitos infringentes somente é possível, excepcionalmente, nos casos em que, reconhecida a existência de um dos defeitos indicados no supramencionado dispositivo legal, a alteração do julgado seja consequência inarredável da correção do referido vício, bem como nas hipóteses de erro material ou equívoco manifesto, que, por si sós, sejam suficientes para a inversão do julgado.
+No caso, o Embargante não demonstra, em sua argumentação, a ocorrência de nenhuma das hipóteses legais ensejadoras dos embargos declaratórios, sendo devida a transcrição dos fundamentos apresentados no acórdão embargado (fls. 809/810; grifos no original):
+"O § 1.º do art. 1.021 do Código de Processo Civil, aplicável por força do art. 3.º do Código de Processo Penal, orientado pelo princípio da dialeticidade, dispõe que, " n a petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada".
+Todavia, as razões do agravo regimental não refutam especificadamente os fundamentos pelos quais não se conheceu do recurso especial. Com efeito, a Defesa não demonstrou que houve a indicação do permissivo constitucional autorizador do recurso especial nem indicou qual teria sido o dispositivo infraconstitucional apontado como violado nas razões do recurso especial.
+ ..
+Como se vê, o acórdão embargado ressaltou que a Defesa não impugnou, especificamente, o fundamento utilizado para não conhecer do recurso especial.
+Em verdade, verifico que os presentes embargos de declaração foram opostos com o inequívoco intento de viabilizar novos debates a respeito de assuntos já decididos, o que sabidamente não se coaduna com a sua finalidade processual.
+ ..
+De outra parte, é importante destacar que, nos termos do art. 654, § 2.º, do Código de Processo Penal, o habeas corpus de ofício é deferido por iniciativa dos Tribunais quando detectarem ilegalidade flagrante, não se prestando como meio para que a Defesa obtenha pronunciamento judicial acerca do mérito de recurso que não ultrapassou os requisitos de admissibilidade.
+Com efeito, demonstrado que a prestação jurisdicional ocorreu, ainda que não se concorde com a solução dada à causa, afigura-se inviável o prosseguimento do recurso extraordinário, pois o provimento recorrido encontra-se em sintonia com a tese fixada no Tema n. 339/STF, de observância obrigatória (CPC, art. 927, III), entendimento reiterado pelo próprio STF, por exemplo, no ARE n. 1.349.717-ED-AgR, relator Ministro Luiz Fux, Plenário, DJe de 10/2/2022.
+Quanto às demais alegações do recurso, a análise do acórdão, como relatado, revela que o pronunciamento impugnado concluiu pelo não preenchimento dos pressupostos de admissibilidade do recurso anteriormente dirigido ao Superior Tribunal de Justiça.
+Tal fato ocorreu porque, no julgado recorrido, não se conheceu do agravo regimental, mantendo-se a dec isão monocrática que não conheceu do recurso especial devido à incidência do óbice da Súmula n. 284 do STF.
+Como se vê, o mérito do recurso especial não chegou a ser apreciado, diante de insuperáveis óbices processuais, impeditivos do próprio conhecimento do recurso.
+Segundo o STF, a necessidade de superação do que fora decidido no pronunciamento questionado acerca dos pressupostos de conhecimento do recurso da competência de outro tribunal, como ocorreu neste caso, inviabiliza o exame do recurso extraordinário pela própria Corte Suprema, qualquer que seja a suscitada violação da Constituição Federal, consoante a tese fixada no Tema n. 181 da repercussão geral:
+A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral (RE n. 598.365-RG/MG).
+Nesse sentido, eventual ofensa à Carta Magna, se existente, seria apenas indireta ou reflexa, entendendo o Excelso Pretório que "carece de repercussão geral a discussão acerca dos pressupostos de admissibilidade de recursos da competência de cortes diversas" (ARE n. 1.227.415-AgR, relator Ministro Edson Fachin, Segunda Turma, DJe de 21/5/2021), mesmo quando suscitada a ofensa ao art. 105, III, da Constituição da República (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+Esse é também o consolidado entendimento do STJ, que reiteradamente nega provimento aos agravos que impugnam decisões de aplicação do Tema n. 181/STF, como exemplifica o precedente a seguir:
+Tratando-se de recurso extraordinário contra acórdão que não ultrapassou o juízo de admissibilidade, fica inviabilizado o exame das questões constitucionais suscitadas em face da inexistência de repercussão geral.
+(AgInt no RE nos EDcl no AgInt no AREsp n. 1.342.377/SP, relatora Ministra Maria Thereza de Assis Moura, DJe de 13/9/2019.)
+Assim, alinhado o provimento impugnado ao disposto pelo STF sobre a fundamentação das decisões e não havendo repercussão geral quanto ao restante das alegações, conforme teses de observância obrigatória (CPC, art. 927, III, parte final), o recurso extraordinário não comporta seguimento.
+Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO SUFICIENTE DO JULGADO RECORRIDO. TEMA N. 339/STF. RECURSO ESPECIAL NÃO CONHECIDO. TEMA N. 181/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. NEGATIVA DE SEGUIMENTO.
+1. "O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão" (Tema n. 339/STF, QO no Ag n. 791.292/PE).
+2. Existente alguma fundamentação, ainda que a parte não a repute correta ou completa, entende o Supremo Tribunal Federal que foi respeitado o art. 93, IX, da CF, conforme a conclusão firmada no Tema n. 339/STF, tese de observância obrigatória (CPC, art. 927, III).
+3. "A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral" (Tema n. 181/STF).
+4. Não preenchidos os pressupostos de admissibilidade do recurso especial, aplica-se a tese do Tema n. 181/STF, ainda que se queira, no recurso extraordinário, discutir o mérito da causa ou os fundamentos que impediram o conhecimento do recurso (CPC, art. 927, III).
+5. Recurso extraordinário a que se nega seguimento, nos termos do art. 1.030, I, a, do CPC.
