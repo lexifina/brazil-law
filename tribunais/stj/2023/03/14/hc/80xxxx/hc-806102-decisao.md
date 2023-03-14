@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de ANTONIO AUGUSTO LOPES FILHO, em que aponta como autoridade coatora o eg. TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, que proferiu o v. acórdão de RECURSO EM SENTIDO ESTRITO n. 5011110-24.2022.4.04.7102/RS.
+Narram os autos que o d. Ministério Público interpôs recurso em sentido estrito contra decisão proferida pelo d. Juízo Federal Substituto da 2ª Vara Federal de Santa Maria, que declinou da competência para o processamento e julgamento da ação penal nº 5000481-88.2022.4.04.7102 (que versa sobre suposto crime de apropriação indébita de valores constantes de alvará emitido pela Justiça do Trabalho) à Justiça Estadual. Aqui, o dispositivo do v. acórdão: "reconhecer a competência da Justiça Federal para processar e julgar o feito, nos termos da fundamentação" (fl. 38).
+Daí o presente writ, no qual a d. Defesa aduz que "não se vislumbra qualquer interesse da União, visto que, segundo a denúncia, houve uma apropriação de valores de um particular por outro particular. Ainda que se entenda, como decidido pelo Juízo a quo, pelo interesse da União, pela ofensa a administração da justiça, trata-se de um interesse reflexo e não direto, o que afasta a competência da Justiça Federal" (fl. 9).
+Requer, inclusive LIMINARMENTE, "declinar a competência da ação penal para a Justiça Estadual de Panambi/RS; (..) e, a concessão da ordem, em definitivo, declinando a competência da ação penal para a Justiça Estadual de Panambi/RS para julgar o crime de apropriação indébita" (fl. 15).
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade, seja possível a concessão da ordem de ofício.
+Tal posicionamento tem por objetivo preservar a utilidade e eficácia do habeas corpus como instrumento constitucional de relevante valor para proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, de forma a garantir a necessária celeridade no seu julgamento. Assim, incabível o presente mandamus, porquanto substitutivo de via própria.
+Em homenagem ao princípio da ampla defesa, contudo, necessário o exame da insurgência, a fim de se verificar eventual constrangimento ilegal passível de ser sanado pela concessão da ordem, de ofício.
+No caso, o presente habeas corpus comporta a concessão da ordem de ofício, em razão da reiteração de pedidos no CC n. 192.294/RS, que já teve o seu mérito apreciado em 28/10/2022.
+O recurso de agravo regimental, julgado colegiadamente em 8/11/2022, ficou ementado nestes termos:
+"AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA CRIMINAL. JUSTIÇA FEDERAL X JUSTIÇA ESTADUAL. APROPRIAÇÃO INDÉBITA RESULTANTE DE PATROCÍNIO INFIEL. RECEBIMENTO DE VALORES DECORRENTES DE ALVARÁ JUDICIAL EM PROCESSO TRABALHISTA. AUSÊNCIA DE INTERESSE DA UNIÃO. COMPETÊNCIA DA JUSTIÇA ESTADUAL.
+I - Não há nos autos elementos que autorizem o deslocamento da competência para a Justiça Federal, ante a ausência de prejuízo a bens, serviços ou interesses da União, consoante art. 109, inciso IV, da Constituição Federal.
+II - Aplicação da Súmula 150 do STJ, no sentido de que "Compete à Justiça Federal decidir sobre a existência de interesse jurídico que justifique a presença, no processo, da União, suas autarquias ou empresas públicas".
+Agravo regimental desprovido.
+Assim, sendo a presente impetração a hipótese de mera reiteração de ações, inclusive, em face da mesma ação penal de origem, de n. 5000481-88.2022.4.04.7102/RS, tenho que a flagrante ilegalidade deva ser afastada de ofício.
+Ante o exposto, não conheço do habeas corpus. Concedo a ordem, de ofício, para declarar competente a Justiça Estadual de Panambi/RS, nos exatos termos do antes decidido neste STJ no Conflito de Competência n. 192.294/RS.
+Intime-se, com urgência, a origem.
+P. I.
