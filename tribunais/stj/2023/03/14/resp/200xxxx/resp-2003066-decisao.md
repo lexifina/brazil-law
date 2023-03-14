@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de recurso especial interposto por BERLIM INCORPORADORA LTDA e CONSTRUTORA LEAL MOREIRA LTDA, fundamentado exclusivamente na alínea "c" do permissivo constitucional, contra acórdão proferido pelo TJ/PA.
+Recurso especial interposto em: 10/12/2021.
+Concluso ao Gabinete em: 29/08/2022.
+Ação: de reparação de danos materiais e compensação de danos morais, ajuizada por ANA PAULA NUNES MENEZES, em desfavor das recorrentes, em virtude de atraso na entrega de unidade imobiliária, objeto de contrato de compra e venda firmado entre as partes.
+Sentença: julgou parcialmente procedentes os pedidos para condenar as recorrentes ao pagamento de indenização a título de lucros cessantes, no valor equivalente a 0,5% (meio por cento) do valor atualizado do imóvel, desde o esgotamento do prazo de tolerância até a entrega da unidade imobiliária.
+Acórdão: negou provimento às apelações interpostas pelas recorrentes e pela recorrida, nos termos da seguinte ementa:
+APELAÇÕES CÍVEIS. CONSUMIDOR. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA DE OBRA. RECURSO DAS RÉS. EXCLUDENTES DE RESPONSABILIDADE CIVIL. AUSÊNCIA DE PROVAS. FATOS INERENTES À ATIVIDADE. LUCROS CESSANTES PRESUMIDOS SOBRE O VALOR DO CONTRATO ATUALIZADO. PREQUESTIONAMENTO GENÉRICO. INVIABILIDADE DO MÉRITO. SENTENÇA MANTIDA. RECURSOS CONHECIDOS E DESPROVIDOS. RECURSO DA AUTORA. VALIDADE DO PRAZO DE TOLERÂNCIA DE 180 (CENTO E OITENTA). DANO MORAL NÃO PRESUMIDO. NÃO CONFIGURAÇÃO. INVERSÃO DA MULTA MORATÓRIA. IMPOSSIBILIDADE. CLÁUSULA DE CORRETAGEM MANTIDA. LUCROS CESSANTES. CONFIGURAÇÃO. VALOR O,5% DO VALOR ATUALIZADO DO CONTRATO. RECURSO CONHECIDO E DESPROVIDO. SENTENÇA MANTIDA NA SUA TOTALIDADE. À UNANIMIDADE.
+1. Os Tribunais Pátrios entendem que, tendo em vista a ausência de um valor fixo para a cobrança de aluguéis de imóveis no mercado imobiliário, o percentual de 0,5% atende os princípios da proporcionalidade e razoabilidade dos valores geralmente cobrados no setor.
+2. O STJ em 2016, em sede de recurso repetitivo, estabeleceu a Tese da validade da cláusula contratual que transfere ao comprador a obrigação de pagar a comissão de corretagem nos contratos de compra e venda de imóveis, desde que ele seja previamente informado do preço total da aquisição da unidade autônoma, com o destaque do valor da comissão.
+3. A jurisprudência do STJ, entende que o atraso, por si só, na entrega do imóvel é incapaz de gerar abalo moral indenizável, sendo necessária a ocorrência de situações efetivas capazes de ocasionar dor e sofrimento de intensa gravidade.
+4. A incorporação da cláusula de prorrogação nos contratos de compra e venda de imóvel em construção se justifica pela dificuldade de se fixar uma data precisa para a conclusão de projetos de ampla magnitude e de certa imprevisibilidade, além de intempéries de cunho climáticos ou mesmo sociais. Portanto, não é considerada abusiva sua aplicação, desde que estabelecido no contrato com prazo determinado e razoável, sendo que não pode ultrapassar o lapso temporal de 180 (cento e oitenta) dias (e-STJ fls. 672-673).
+Embargos de declaração: opostos pelas recorrentes, foram rejeitados.
+Recurso especial: com base em dissídio jurisprudencial, defendem que o parâmetro mais adequado para o cálculo dos lucros cessantes é aquele que considera o percentual de 0,5% (meio por cento) do valor efetivamente pago pelo promissário comprador - e não do valor atualizado do imóvel -, sob pena de promover-se o enriquecimento ilícito.
+Decisão da Comissão Gestora de Precedentes: o e. Ministro Presidente da Comissão Gestora de Precedentes qualificou o recurso como representativo da controvérsia.
+Parecer do MPF: da lavra do Subprocurador-Geral da República, Dr. Mauricio Vieira Bracks, opinou pela admissão do recurso como representativo de controvérsia.
+Tutela provisória de urgência: requerida pelas recorrentes, foi indeferida, ante a ausência de periculum in mora.
+Decisão monocrática: rejeitou a indicação do recurso especial como representativo da controvérsia.
+Acórdão: não conheceu do agravo interno interposto pelas recorrentes, dada a irrecorribilidade do ato judicial que rejeita a proposta de afetação do tema ao rito dos recursos repetitivos.
+Retornaram os autos conclusos para julgamento (e-STJ fl. 990).
+RELATADO O PROCESSO, DECIDE-SE.
+- Da base de cálculo dos lucros cessantes
+A Segunda Seção do STJ, em sistemática dos recursos repetitivos, concluiu que o atraso injustificado na entrega do imóvel, faz surgir o dever da vendedora de pagar aluguel mensal à compradora, a título de lucros cessantes, "com base no valor locatício de imóvel assemelhado, com termo final na data da disponibilização da posse direta ao adquirente da unidade autônoma". (REsp 1.729.593/SP, SEGUNDA SEÇÃO, DJe 27/9/2019).
+Na hipótese, o Tribunal de origem arbitrou, a título de lucros cessantes, o montante mensal de 0,5% (meio por cento) do valor do imóvel (e-STJ fl. 680 e 692-693), o qual é condizente com o valor praticado no mercado locatício.
+Desse modo, encontrando-se o entendimento do Tribunal de origem em consonância com a jurisprudência desta Corte Superior, não há que falar na alteração do julgado. Aplica-se, portanto, a Súmula 568/STJ no particular.
+Forte nessas razões, com fundamento no art. 932, IV, "a", do CPC/2015, CONHEÇO do recurso especial e NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 10% (dez por cento) sobre o valor da condenação (e-STJ fl. 355) para 12% (doze por cento).
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+DIREITO CIVIL. RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO DE DANOS MATERIAIS E COMPENSAÇÃO DE DANOS MORAIS. ATRASO NA ENTREGA DE IMÓVEL. LUCROS CESSANTES. BASE DE CÁLCULO. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ.
+1. Ação de reparação de danos materiais e compensação de danos morais, em virtude de atraso na entrega de unidade imobiliária, objeto de contrato de compra e venda firmado entre as partes.
+2. A Segunda Seção do STJ, ao fixar o Tema 996/STJ, concluiu que o atraso injustificado na entrega do imóvel, faz surgir o dever da vendedora de pagar aluguel mensal à compradora, a título de lucros cessantes, "com base no valor locatício de imóvel assemelhado, com termo final na data da disponibilização da posse direta ao adquirente da unidade autônoma". (REsp 1.729.593/SP, Segunda Seção, DJe 27/9/2019).
+3. Recurso especial conhecido e não provido.
