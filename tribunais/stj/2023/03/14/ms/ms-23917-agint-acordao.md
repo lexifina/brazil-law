@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 08/03/2023 a 14/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Humberto Martins, Herman Benjamin, Mauro Campbell Marques, Benedito Gonçalves, Assusete Magalhães, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+ADMINISTRATIVO. TERRAS INDÍGENAS. PORTARIA DEMARCATÓRIA. NULIDADE. PROVA PRÉ-CONSTITUÍDA. INEXISTÊNCIA.
+1. Na forma da pacífica jurisprudência do STJ, o mandado de segurança visa resguardar direito líquido e certo de lesão ou ameaça de lesão, assim considerado o que pode ser demonstrado de plano, por meio de prova pré-constituída, inexistindo espaço para dilação probatória. Precedentes.
+2. "..as ações que envolvem questões indígenas são deveras sensíveis, com dilação probatória de grande complexidade e que, ordinariamente, abrangem uma diversidade de temas  .. " (RE 1.017.365/SC, Rel. Min. Edson Fachin), situação incompatível com o presente remédio constitucional.
+3. No caso, não há detalhes, com a prova apresentada, sobre o contexto de cada uma das propriedades dos mais de 30 (trinta) impetrantes que integram o polo ativo desta ação; e absolutamente não há como examinar toda a complexa relação das questões indígenas na região (notadamente histórico e ocupação tradicional) na via estreita do mandado de segurança e somente com as provas acostadas com a exordial.
+4. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão de minha lavra, em que deneguei a ordem (e-STJ fls. 984/989).
+Sustenta a agravante, em resumo, que: a) instruiu a inicial com documentos necessários ao acolhimento da pretensão, pois o processo administrativo que cuida da identificação e demarcação das terras pretendidas pela FUNAI atinge todas as propriedades que tiveram seus títulos registrados no Cartório de Imóveis da Comarca de Caucaia, sendo que consta a descrição territorial de cada área descrita individualmente acostadas à exordial; b) o que se busca é restabelecer o direito de defesa.
+Impugnação do recurso (e-STJ fls. 1.011/1.014).
+EMENTA
+ADMINISTRATIVO. TERRAS INDÍGENAS. PORTARIA DEMARCATÓRIA. NULIDADE. PROVA PRÉ-CONSTITUÍDA. INEXISTÊNCIA.
+1. Na forma da pacífica jurisprudência do STJ, o mandado de segurança visa resguardar direito líquido e certo de lesão ou ameaça de lesão, assim considerado o que pode ser demonstrado de plano, por meio de prova pré-constituída, inexistindo espaço para dilação probatória. Precedentes.
+2. "..as ações que envolvem questões indígenas são deveras sensíveis, com dilação probatória de grande complexidade e que, ordinariamente, abrangem uma diversidade de temas  .. " (RE 1.017.365/SC, Rel. Min. Edson Fachin), situação incompatível com o presente remédio constitucional.
+3. No caso, não há detalhes, com a prova apresentada, sobre o contexto de cada uma das propriedades dos mais de 30 (trinta) impetrantes que integram o polo ativo desta ação; e absolutamente não há como examinar toda a complexa relação das questões indígenas na região (notadamente histórico e ocupação tradicional) na via estreita do mandado de segurança e somente com as provas acostadas com a exordial.
+4. Agravo interno não provido.
+VOTO
+O agravo não merece acolhimento, porquanto os fundamentos apresentados no recurso são insuficientes para infirmar os argumentos em que assentada a decisão monocrática.
+No caso, a parte impetrante alega, resumidamente, que: a) a Portaria demarcatória seria nula, por desrespeitar o contraditório, a ampla defesa, legalidade, impessoalidade, moralidade, publicidade, eficiência, razoabilidade e proporcionalidade; b) não há ocupação histórica indígena na localidade; c) a FUNAI investiu contra o direito de propriedade dos impetrantes, sem respeitar a cadeia sucessória dos proprietários.
+Ocorre que, como antecipei, inexiste prova pré-constituída capaz de confirmar as supracitadas alegações.
+Não há detalhes, com a prova apresentada, sobre o contexto de cada uma das propriedades dos mais de 30 (trinta) impetrantes que integram o polo ativo desta ação e absolutamente não há como examinar toda a complexa relação das questões indígenas na região (notadamente histórico e ocupação tradicional) na via estreita do mandado de segurança e somente com as provas acostadas com a exordial.
+Como adiantei na decisão monocrática, cujos fundamentos nem sequer foram concretamente infirmados:
+Conforme mencionado na já mencionada decisão monocrática tomada em 08/05/2020 pelo em. Ministro Edson Fachin, rel. do Recurso Extraordinário 1.017.365/SC, "as ações que envolvem questões indígenas são deveras sensíveis, com dilação probatória de grande complexidade e que, ordinariamente, abrangem uma diversidade de temas  .. ", situação incompatível com o presente remédio constitucional.
+Em resumo, comungo do mesmo entendimento apresentado no parecer do MPF, que aqui transcrevo excerto como razão de decidir:
+O cerne da controvérsia está na verificação de vícios ofensivos às garantias processuais constitucionais no procedimento administrativo. Entretanto não consta dos autos cópias das decisões do procedimento administrativo em que as violações teriam se dado. A deficiência de instrução impede a análise das alegações e a configura de direito a ser tutelado. O impetrante aponta como ato coator e junta aos autos apenas cópia da portaria declaratória da demarcação, cujo conteúdo resume e atesta a ausência de elementos capazes de descaracterizar a tradicionalidade da ocupação indígena e que "as contestações foram devidamente analisadas e não lograram êxito em apontar a existência de vícios ou falhas técnicas ou administrativas, seja no procedimento administrativo ou no relatório circunstanciado".
+O conteúdo do ato, portanto, revestido da presunção de legalidade e veracidade, vai de encontro às alegações dos impetrantes.
+Além disso, consta dos autos que os impetrantes tiveram oportunidade de manifestação na via administrativa a respeito da demarcação empreendida, não se sustentando a tese autoral de inexistência de contraditório. Vejamos:
+32. É de se registrar que o contraditório e a ampla defesa foram devidamente observados no procedimento administrativo, tendo sido apresentadas 38 (trinta e oito) contestações, todas devidamente analisadas, e 4 (quatro) impugnações, das quais três delas não foram respondidas em razão de sentença proferida nos autos de ação judicial que homologou acordo entre a comunidade Tapeba, o espólio de Emmanuel Arruda Coelho , o Estado do Ceará, o Município de Caucaia e a FUNAI(Ação Judicial n. 080005617.2013.4.05.8100). A quarta contestação não foi apreciada a pedido do próprio autor. (e-STJ fl. 874)
+Por último, deixo de aplicar a sanção prevista no art. 1.021, § 4º, do CPC/2015 por não considerar manifestamente inadmissível ou improcedente o presente recurso.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
