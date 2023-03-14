@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que, com fundamento na Súmula 284/STF, inadmitiu o recurso especial.
+Sustenta o agravante que "No que tange à desclassificação do crime de roubo para o crime de furto, constata-se claramente, afronta direta ao dispositivo suscitado, qual seja, artigo 381 do CPP, pelos fatos e fundamentos exaustiva e pormenorizadamente promovidos na peça recursal! (fl. 344).
+Defende, ainda, que "o recurso especial suscitou de forma pormenorizada a razão pela qual acórdão combatido merecia ser reformado, não havendo razão para a incidência disposto na Súmula 284/STF" (fl. 346).
+Requer, assim , o conhecimento e provimento do recurso especial.
+Apresentada a contraminuta, manifestou-se o Ministério Público Federal pelo não provimento do agravo.
+O agravo é tempestivo e ataca os fundamentos da decisão agravada, devendo ser conhecido, entretanto, não comporta provimento.
+Nas razões do recurso especial, alega a defesa violação ao art. 381, II e III, do CPP, alegando ausência de fundamentação em relação ao afastamento da tese de desclassificação do delito de roubo para o crime de furto ou de roubo tentado.
+O recorrente foi condenado como incurso nas penas do art. 157, caput, do CP, a 4 anos de reclusão, em regime aberto, e ao pagamento de 10 dias-multa.
+Interposta apelação pela defesa, o Tribunal de origem negou-lhe provimento pelos seguintes fundamentos (fls. 276/277):
+Pois bem, consta da denúncia que o acusado, em 19/09/2014, entrou no estabelecimento denominado "Point do Açaí", no Centro de Serra, e, mediante grave ameaça, subtraiu R$ 145,00 (cento e quarenta e cinco reais) em espécie.
+Embora A Defesa sustente que não restou comprovado o emprego da grave ameaça, não é isso que se constata da prova oral coligida, tanto dos depoimentos prestados pelos policiais militares quanto do declinado pelo esposo da vítima, tudo perante contraditório judicial.
+Embora não haja prova nos autos de que o acusado estivesse armado, o esposo da vítima declarou que esta lhe confessou que quando do anúncio do assalto o denunciado levou a mão a cintura, fazendo menção que estava armado, circunstância q nitidamente a intimidou para entregar-lhe a res furtiva.
+Ressalto que se trata de réu revel, que não apresentou, em se judicial, sua versão dos fatos, mas que, em sede" policial, apesar de alegar que não simulou estar armado, anunciou o assa dizendo: "é um assalto, passa o dinheiro". O STJ orienta que "ameaça nada mais é que a intimidação outrem, que, na hipótese de crime de roubo, pode ser feita co emprego de arma, com a sua simulação, ou até mesmo de for velada" (ST3, REsp 1294312/SE, Rel. Ministro ROGERIO SCHIE I CRUZ, SEXTA TURMA, julgado em 25/10/2016, Ene 17/11/2016)
+As circunstâncias do delito, extraídas da prova oral mencionada revelam uma intimidação da vítima pela ação do acusado, ainda que de forma velada, e, portanto, são suficientes à caracterização da ameaça como elementar do crime de roubo, "sendo por isso inviável a desclassificação pretendida ao crime de furto.
+Melhor sorte não assiste à Defesa quanto à pretensão d desclassificação do crime de roubo para a moda idade tentada uma vez que a res furtiva foi encontrada com o acusado em um matagal, já fora da esfera de proteção da vítima e no exterior d estabelecimento comercial.
+Nesse contexto, irrelevante que a res furtiva tenha sid posteriormente devolvida, até porque, com relação aos crime patrimoniais, ordenamento jurídico pátrio adota a Teoria da Amotio ou da Aprehensio.
+Com efeito, não ficou demonstrada a ofensa ao art. 381, II e III, do CPP. O Tribunal local apresentou fundamentação completa e suficiente ao deslinde da questão e acabou por afastar a tese da defesa, concluindo que " As circunstâncias do delito, extraídas da prova oral mencionada revelam uma intimidação da vítima pela ação do acusado, ainda que de forma velada, e, portanto, são suficientes à caracterização da ameaça como elementar do crime de roubo, sendo por isso inviável a desclassificação pretendida ao crime de furto".
+Verifica-se, portanto, que a deficiência da fundamentação do recurso não permite a compreensão da controvérsia justamente porque os argumentos apontados e o teor normativo dos dispositivos indicados como malferidos não guardam pertinência com o que foi decidido pelo Tribunal de origem.
+Ademais, estando a condenação devidamente amparada nas provas dos autos , a partir de elementos informativos da fase inquisitorial confirmados pelas provas produzidas em juízo, a alteração da conclusão do Tribunal de origem demandaria revolvimento fático-probatório, o que encontra óbice na Súmula 7/STJ.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Publique-se.
+Intimem-se.
