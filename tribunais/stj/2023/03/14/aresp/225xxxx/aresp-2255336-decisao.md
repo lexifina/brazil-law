@@ -1,0 +1,62 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por SERTRAN TRANSPORTES E SERVIÇOS LTDA. contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça de São Paulo, de relatoria do Desembargador RENATO RANGEL DESINANO, assim ementado:
+AÇÃO INDENIZATÓRIA Responsabilidade civil Contrato de transporte Acidente envolvendo passageira de ônibus, que fraturou o dedo indicador da mão e a clavícula Sentença que condenou a ré ao pagamento de indenização por lucros cessantes e indenização por dano moral à autora, bem como condenou a seguradora litisdenunciada ao pagamento da condenação imposta à transportadora ré, nos limites da apólice Insurgência das rés O laudo pericia lacostado aos autos demonstra o nexo causal entre o acidente e os danos sofridos pela autora Responsabilidade da transportadora Impossibilidade de exclusão da responsabilidade do transportador por suposta culpa de terceiro Inteligência do artigo 735 do Código Civil Hipótese em que a perícia indicou que a autora passou por período de convalescença de 18 (dezoito) meses, ficando impossibilitada de exercer sua atividade profissional Indenização por lucros cessantes devida Dano moral configurado O perito concluiu que a requerente sofreu limitação funcional no ombro direito, que é permanente e lhe demandará maior esforço para o desempenho de sua atividade profissional O valor da indenização arbitrada pelo juízo de primeiro grau (R$ 12.000,00) é adequado aos fins colimados Valor da indenização por dano moral que deve ser atualizado monetariamente a partir da data da sentença (Súmula nº 362 do Superior Tribunal de Justiça)RECURSODATRANSPORTADORARÉPARCIALMENTEPROVIDONESSAPARTEE RECURSO DA SEGURADORA LITISDENUNCIADANÃO PROVIDO NESSA PARTE.
+AÇÃO INDENIZATÓRIA Responsabilidade civil Contrato de transporte Seguradora litisdenunciada em regime de liquidação extrajudicial Sentença que determinou a suspensão da incidência de juros de mora a cargo da litisdenunciada até a data da decretação da liquidação extrajudicial Insurgência da seguradora Pretensão de suspensão da incidência dos juros de mora enquanto não integralmente pago o passivo, bem como de não incidência de correção monetária Descabimento A cobrança da verba indenizatória em relação à litisdenunciada deve ocorrer por meio de habilitação do crédito na respectiva massa, sem contudo, suspender-se a cobrança dos juros e correção monetária ou a ação que visa tornar o crédito líquido Hipótese em que não se altera a determinação do juízo de primeiro grau em relação aos juros de mora, sob pena de reformatio in pejus RECURSO DASEGURADORA LITISDENUNCIADA NÃO PROVIDONESSA PARTE.
+AÇÃO INDENIZATÓRIA Responsabilidade civil Contrato de transporte Sentença que condenou a transportadora ré ao pagamento de honorários sucumbenciais de 15% do valor da condenação à advogada da autora Insurgência da transportadora ré Pretensão de redução da verba honorária sucumbencial Descabimento Hipótese em que, considerando a natureza e a complexidade da causa, o grau de zelo e a responsabilidade assumida pelaa dvogada da requerente, bem como o tempo de duração do processo, tem-se que o valor de 15% do valor da condenação é adequado para remunerar o trabalho por ela desenvolvido RECURSO DA TRANSPORTADORA RÉNÃO PROVIDO NESSA PARTE.
+Irresignada, SERTRAN TRANSPORTES E SERVIÇOS LTDA. interpôs recurso especial com base no art. 105, III, a, da CF, apontando a violação dos arts. 186, 402, 927 e 944 do CC, sob o argumento de (1) irresponsabilidade no evento danoso, tendo em vista que o acidente teria sido provocado por terceiro; (2) inexistência de danos emergentes, porquanto não demonstrado o efetivo prejuízo no presente caso; (3) excesso na fixação do dano moral - R$ 12.000,00 - valor do qual pretende redução; e (4) juros de mora incidentes desde o julgamento da lide.
+O recurso não foi admitido pelo Tribunal de Justiça de São Paulo, por incidir, no caso, o teor da Súmula n.º 7 do STJ (e-STJ, fls. 843/846).
+Nas razões do presente agravo, SERTRAN TRANSPORTES E SERVIÇOS LTDA. refuta o referido óbice de prelibação (e-STJ, fls. 864/861).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial.
+(1) e (2) Da responsabilidade no evento danoso e danos emergentes
+SERTRAN TRANSPORTES E SERVIÇOS LTDA. afirmou ser irresponsável pelo evento danoso, tendo em vista que o acidente teria sido provocado por terceiro e que inexiste de danos emergentes, porquanto não demonstrado o efetivo prejuízo no presente caso.
+Todavia, concluiu o TJSP que:
+(..) a autora viajava no interior de ônibus de propriedade da ré SERTRAN SERTÃOZINHO TRANSPORTE E SERVIÇOS LTDA e sofreu lesões em razão de colisão do veículo de transporte coletivo com automóvel de terceiro(fls. 93/124 e 26/30).
+De fato, a própria ré SERTRAN SERTÃOZINHOTRANSPORTE E SERVIÇOS LTDA não nega a ocorrência do acidente, limitando-se a afirmar que o evento decorreu da imprudência do condutor do outro veículo envolvido na colisão.
+Contudo, na hipótese, há contrato de transporte celebrado entre a requerida e a autora, em razão do qual a transportadora tem a obrigação de conduzir o usuário incólume ao seu destino.
+Realmente, a responsabilidade do transportador é objetiva, na medida em que ele deve responder aos passageiros pelos danos advindos do não cumprimento da referida obrigação de resultado, nos termos do artigo 734 do Código Civil.
+(..)
+De fato, ainda que se considere que a colisão possa ter sido causada pela atitude do terceiro, condutor do automóvel Volkswagen Fox, tal fato não exclui a responsabilidade da ré pelos danos sofridos pela requerente.
+Isso porque, conforme disciplina o artigo 735 do Código Civil, não se exclui a responsabilidade do transportador por acidente com passageiro por culpa de terceiro, sobretudo quando o fato de terceiro se encontra ligado à atividade desenvolvida pela transportadora ré.
+(..)
+Ademais, a prova pericial produzida nos autos apontou que, à época do acidente, na autora "foi diagnosticada fratura de clavícula direita e fratura do dedo indicador da mão esquerda" (fl. 565).
+Outrossim, o perito concluiu que: "Há nexo causal entre o acidente automobilístico em análise e a limitação funcional de leve repercussão no ombro direito. Trata-se de dano corporal segmental (parcial) permanente de leve repercussão (25%) do ombro direito (25%)" (fl. 578).
+Ademais, o expert consignou que houve "boa consolidação da fratura do 2º quirodáctilo esquerdo (dedo indicador e não restaram sequelas desta fratura" (fl. 577).
+No mais, o laudo pericial estimou o "período de convalescença e consolidação do dano" em 18 (dezoito) meses (fl. 576),consignando, ademais, que, considerando" as funções de secretária do lar, não se trata de situação de incapacidade laborativa, podendo a autora até continuar em tais funções; mas, pela limitação funcional de leve repercussão no ombro direito, haverá permanente maior esforço da pericianda para manter a mesma produtividade"(fl. 589).
+Nesse contexto, agiu com acerto o D. Juízo a quo ao condenar a transportadora ré ao pagamento de indenização por lucros cessantes, correspondente "ao salário que auferia desde a data do infausto, descontado o valor de eventual benefício previdenciário percebido, até o término dos 18 meses que lhe sucederam" (fl. 605)  e-STJ, fls. 778/782 .
+Assim, rever as conclusões do acórdão recorrido quanto à responsabilidade pelo evento danoso e quanto ao dever de indenizar os lucros cessantes demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula n.º 7 do STJ.
+(3) Do valor do dano moral fixado
+Em relação ao valor do dano moral fixado em R$ 12.000,00 (doze mil reais), constata-se que não se mostra excessivo a ponto de merecer redução.
+Além disso, análise acerca da proporcionalidade e da razoabilidade dos valores fixados no presente caso demanda necessária incursão nos aspectos fáticos da controvérsia, hipótese vedada nesta instância, ante o teor da já mencionada Súmula n.º 7 do STJ.
+Nesse sentido, veja-se o seguinte precedente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE REPARAÇÃO POR DANOS MORAIS. DANO MORAL. QUANTUM INDENIZATÓRIO. REVISÃO. NÃO CABIMENTO. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO NOS MOLDES LEGAIS. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+2. A jurisprudência desta Corte também é firme no sentido de que a redução ou majoração do quantum indenizatório é possível somente em hipóteses excepcionais, quando manifestamente irrisória ou exorbitante a indenização arbitrada, sob pena de incidência do óbice da Súmula n.º 7 do STJ. Proporcionalidade e razoabilidade observadas no caso dos autos, a justificar a manutenção do quantum indenizatório.
+(..)
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.087.232/RS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 29/8/2022, DJe de 31/8/2022)
+(4) Do termo inicial do juros e correção
+Nas razões do presente recurso, SERTRAN TRANSPORTES E SERVIÇOS LTDA. afirmou que os juros de mora devem incidir desde o julgamento da lide.
+Sobre o tema, o TJSP consignou que "por se tratar de relação contratual, os juros demora devem mesmo incidir desde a data da citação" (e-STJ. fl.784).,
+Observa-se que o acórdão recorrido está em consonância com a jurisprudência deste Tribunal, o que faz por incidir, no caso, o teor da Súmula n.º 568 do STJ.
+Nesse sentido:
+CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. PROMESSA DE COMPRA E VENDA DE IMÓVEL. RESPONSABILIDADE PELO INADIMPLEMENTO CONTRATUAL. INTERPRETAÇÃO DE CLÁUSULAS E REVISÃO DO ACERVO FÁTICO DOS AUTOS. INCIDÊNCIA DAS SÚMULAS N.os 5 E 7 DO STJ. RESTITUIÇÃO DA INTEGRALIDADE DOS VALORES PAGOS. APLICAÇÃO DA SÚMULA N.º 568 DO STJ. INCIDÊNCIA DE JUROS DE MORA. TERMO INICIAL. DATA DA CITAÇÃO. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+4. Conforme o entendimento do STJ, incidem juros moratórios a partir da citação em se tratando de inadimplemento contratual por parte da promitente vendedora, o que foi reconhecido no caso.
+5. Agravo interno não provido.
+(AgInt no REsp n. 2.013.385/MG, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 28/11/2022, DJe de 30/11/2022)
+A GRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL . CONTRATO DE COMPRA E VENDA. IMÓVEL. ENTREGA. ATRASO. RESPONSABILIDADE CIVIL. CONTRATUAL. PRAZO PRESCRICIONAL. REGRA GERAL. ART. 205 DO CÓDIGO CIVIL. DANOS MORAIS. VALOR. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. TERMO INICIAL. JUROS DE MORA. CITAÇÃO. DIVERGÊNCIA JURISPRUDENCIAL. NÃO CONFIGURAÇÃO.
+(..)
+4. No caso de ilícito contratual, os juros de mora são devidos a partir da citação.
+(..)
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.146.622/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 22/11/2022, DJe de 29/11/2022)
+Assim, porque os fundamentos adotados pelo acórdão recorrido estão em consonância com o entendimento firmado nesta Corte, deve ser ele mantido.
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC, c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela E menda n.º 22 de 16/3/2016, DJe 18/3/2016), CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em favor da recorrida, limitados a 20%, nos termos do art. 85, § 11, do NCPC.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO NCPC. RESPONSABILIDADE CIVIL. CONTRATO DE TRANSPORTE. ACIDENTE. ATO ILÍTICO E DEVER DE INDENIZAR. DANOS EMERGENTES DEVIDOS. RECONHECIMENTO. REVISÃO. IMPOSSIBILIDADE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA N.º 7 DO STJ. DANO MORAL. QUANTUM INDENIZATÓRIO. MANUTENÇÃO. PROPORCIONALIDADE E RAZOABILIDADE. ANÁLISE. INVIABILIDADE. JUROS DE MORA INCIDENTES A PARTIR DA CITAÇÃO. PRECEDENTES DO STJ. SÚMULA N.º 568 DESTA CORTE. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
