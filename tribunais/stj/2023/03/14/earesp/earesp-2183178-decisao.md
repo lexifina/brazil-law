@@ -1,0 +1,51 @@
+DECISÃO
+Cuida-se de embargos de divergência opostos por JOÃO ALBERTO MEIRELLES KORS contra acórdão lavrado pela Primeira Turma do Superior Tribunal de Justiça, de relatoria do Ministro Sérgio Kukina, em decisão assim ementada (fl. 627):
+PROCESSUAL CIVIL. ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO A TODOS OS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DO APELO RARO. INCIDÊNCIA DA SÚMULA 182/STJ.
+1. O agravo em recurso especial deve impugnar especificamente, de forma particularizada, todos os fundamentos da decisão denegatória de admissibilidade do apelo raro.
+2. Caso concreto em que a parte agravante não atendeu a esse encargo processual. Incidência da Súmula 182/STJ.
+3. Agravo interno desprovido.
+Sem embargos de declaração.
+Aduz a parte embargante que, no "julgado acima, o nobre Ministro Luís Felipe Salomão flexibiliza a aplicação da súmula 182 STJ, dizendo que as razões recursais devem sim impugnar decisão monocrática, no entanto, não precisam enfrentar todos os pontos ali aduzidos" (fl. 644).
+Alega, por fim, que (fl. 645):
+Através da leitura do artigo 1.044 do Código de Processo Civil se faz necessária a observação do procedimento estabelecido no regimento interno do tribunal superior, assim, conforme o artigo 266 do Regimento Interno do Superior Tribunal de Justiça verifica-se o cabimento do presente recurso, uma vez que o acórdão proferido pelo órgão fracionário é divergente do julgamento atual em relação ao direito aplicado.
+Eis o paradigma apresentado:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932. 1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932. 2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal.
+Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos.
+(EAREsp n. 746.775/PR, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/9/2018, DJe de 30/11/2018.)
+É, no essencial, o relatório.
+Os presentes embargos de divergência não reúnem condições de admissibilidade.
+Verifica-se que o acórdão embargado concluiu pela impossibilidade de se analisar o mérito do recurso especial em razão da incidência da Súmula n. 182/STJ. Tal situação impede, por si só, o conhecimento desta via de impugnação, pois não se admite a interposição de embargos de divergência na hipótese de não ter sido analisado o mérito do recurso especial, a teor da Súmula n. 315 desta Corte Superior: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial".
+No mesmo sentido é a jurisprudência consolidada no Superior Tribunal de Justiça:
+AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. AGRAVO EM RECURSO ESPECIAL. MÉRITO DO RECURSO ESPECIAL NÃO EXAMINADO NO ACÓRDÃO EMBARGADO. INCIDÊNCIA DA SÚMULA N.º 315 DESTA CORTE SUPERIOR. PRECEDENTES.
+1. Não há divergência passível de ensejar o conhecimento dos embargos de divergência, quando o acórdão embargado nega provimento ao agravo regimental com base na Súmula 182 desta Corte Superior.
+2. Incidência da Súmula 315 do STJ, segundo a qual "não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial".
+3. Agravo interno a que se nega provimento.
+(AgInt nos EAREsp n. 1.749.972/MG, relatora Ministra Maria Isabel Gallotti, Corte Especial, DJe de 26/8/2022.)
+AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. INDEFERIMENTO LIMINAR. AUSÊNCIA DE JUNTADA DO INTEIRO TEOR DO ACÓRDÃO PARADIGMA. SÚMULA 315 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Na esteira da jurisprudência desta Corte, a comprovação da divergência pressupõe a apresentação de cópias do inteiro teor dos acórdãos apontados como paradigmas pela parte recorrente.
+2. No caso posto, a parte embargante deixou de instruir o recurso com a cópia do inteiro teor dos acórdãos, restando desatendidas as exigências dos arts. 1.043 e 1.044 do CPC e dos arts. 266 a 267, do RISTJ, para a configuração da suposta divergência pretoriana.
+3. A par disso, a teor do que dispõe a Súmula n. 315 do Superior Tribunal de Justiça, não se admite a interposição de embargos de divergência quando não tiver sido apreciado o mérito do recurso especial, assim como ocorre na espécie, em que o acórdão objeto dos embargos de divergência ratificou a decisão monocrática pela impossibilidade de se analisar o mérito do recurso especial em razão da aplicação das Súmulas 182, 5 e 7, do STJ, bem como em razão da ausência de comprovação do dissídio jurisprudencial.
+5.. Agravo interno desprovido.
+(AgInt nos EDcl nos EAREsp n. 1.950.922/DF, relator Ministro Jorge Mussi, Corte Especial, DJe de 24/6/2022.)
+Verifica-se que a parte, no momento da interposição do recurso, não apresentou o inteiro teor do acórdão paradigma (ementa, acórdão, relatório, voto e certidão ou termo de julgamento), uma vez que foi constatada a ausência da ementa do acórdão.
+Dessa forma, a parte deixou de cumprir regra técnica do presente recurso, o que constitui vício substancial insanável. Ressalte-se que a hipótese dos autos não atrai a incidência do parágrafo único do art. 932 da Lei n. 13.105/2015, uma vez que, nos termos do Enunciado Normativo n. 6: Nos recursos tempestivos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016), somente será concedido o prazo previsto no art. 932, parágrafo único, c/c o art. 1.029, § 3º, do novo CPC para que a parte sane vício estritamente formal.
+A propósito, cito:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA NO RECURSO ESPECIAL. SUSPENSÃO DO PROCESSO NO STJ. AFETAÇÃO. INDEFERIMENTO. AUSÊNCIA DE JUNTADA DO INTEIRO TEOR DOS ACÓRDÃOS PARADIGMAS. VÍCIO FORMAL INSANÁVEL. NÃO APLICAÇÃO DA REGRA DO ART. 932, PARÁGRAFO ÚNICO, DO CPC/2015.
+1. Ação de cobrança, em que se discute o dever de informação da seguradora sobre as condições da apólice de seguro de vida em grupo.
+2. A afetação de determinado recurso ao rito dos repetitivos, nos termos do art. 543-C do CPC, com correspondência no art. 1.037, II, do NCPC, não implica a suspensão ou o sobrestamento das demais ações já em curso no Superior Tribunal de Justiça, mas, apenas, as em trâmite nas instâncias ordinárias. Precedentes.
+3. A Corte Especial firmou o entendimento de que a ausência de juntada das cópias ou do repositório do inteiro teor dos arestos apontados como paradigmas configura vício formal insanável, o que afasta a incidência do parágrafo único do art. 932 do CPC/2015.
+5. Agravo interno nos embargos de divergência desprovidos. (AgInt nos EDcl nos EREsp n. 1.859.673/SC, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 20/9/2022, DJe de 22/9/2022.)
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA. INADMISSIBILIDADE DOS EMBARGOS DE DIVERGÊNCIA. INDEFERIMENTO LIMINAR. AGRAVO INTERNO DESPROVIDO.
+1. Falta aos embargos de divergência pressuposto básico para sua admissibilidade na hipótese em que o mérito do acórdão embargado não foi analisado devido ao óbice da Súmula n. 7 do STJ, que incide em razão das particularidades de cada caso e indica a existência de controvérsias em relação às questões fáticas, cuja pacificação não é cabível por meio desse recurso.
+2. A juntada do inteiro teor do acórdão paradigma (relatório, voto ementa/acórdão e certidão de julgamento) ao recurso de embargos de divergência constitui regra técnica que condiciona o conhecimento desse recurso.
+3. Agravo interno desprovido. (AgInt nos EREsp n. 1.835.498/SP, relator Ministro João Otávio de Noronha, Corte Especial, julgado em 23/8/2022, DJe de 25/8/2022.)
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. CERTIDÃO
+DE JULGAMENTO. ACÓRDÃO PARADIGMA. INTEIRO TEOR. AUSÊNCIA. REGRA TÉCNICA. VÍCIO INSANÁVEL.
+1. Na hipótese dos autos, não consta a juntada do inteiro teor do acórdão paradigma (relatório, voto, ementa/acórdão e certidão de julgamento), de modo que não foi cumprida regra técnica para conhecimento do recurso, o que constitui vício substancial insanável. Precedentes: Corte Especial; Primeira, Segunda e Terceira Seções.
+2. AGRAVO INTERNO NÃO PROVIDO. (AgInt nos EAREsp n. 1.771.001/SP, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 16/8/2022.)
+Ante o exposto, indefiro liminarmente os embargos de divergência.
+Deixo de majorar os honorários advocatícios, uma vez que não foram fixados na origem.
+Publique-se. Intimem-s e.
