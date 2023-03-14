@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, não conhecer do agravo regimental.
+Os Srs. Ministros João Batista Moreira (Desembargador convocado do TRF1), Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+EMENTA
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ESTELIONATO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA.
+I - A ausência de impugnação aos fundamentos da decisão agravada que não conheceu do agravo em recurso especial atrai a incidência do óbice da Súmula 182/STJ.
+II - Nos termos do artigo 258 do RISTJ o agravo é "A parte que se considerar agravada por decisão do Presidente da Corte Especial, de Seção, de Turma ou de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a", portanto, sendo o feito apresentado em mesa, não há previsão para intimação da parte para sustentação oral.
+III - "Como se extrai do art. 7º, § 2º-B, III, da Lei 8.906/1994, a inovação introduzida no EOAB pela Lei 14.365/2022 garantiu ao advogado o direito de sustentação no agravo interno ou regimental em sede de recurso especial, mas nada dispôs sobre o julgamento de agravo regimental no agravo em recurso especial" (AgRg no AREsp n. 2.170.433/PA, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 10/10/2022).
+Agravo regimental não conhecido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por ANA PAULA CALCAVARA FAVARO SOARES DE OLIVEIRA, contra decisão da Presidência desta Corte que não conheceu do agravo em recurso especial, porquanto a parte não impugnou todos os fundamentos da decisão que inadmitiu o recurso especial (fls. 2.825-2.826).
+Informam os autos que a ora agravante foi condenada, em primeiro grau, à pena de 5 (cinco) anos de reclusão, em regime inicial semiaberto, e 24 (vinte e quatro) dias-multa, como incursa nos artigos 171, caput, do Código Penal, e art. 1º, da Lei n. 9.613/98, em concurso material (fls. 2.658-2.664).
+O Tribunal de Justiça do Estado de São Paulo, por unanimidade, negou provimento à apelação da Defesa (fls. 2.740-2.744).
+Interposto recurso especial, com fundamento no art. 105, inciso III, alíneas a e c, da CF, a defesa alegou ofensa ao art. 155, do Código de Processo Penal, e também art. 1º, da Lei n. 9.613/98, porquanto não há provas suficientes nos autos a embasar o édito condenatório quanto ao crime retro mencionado; bem como requer o afastamento da majoração da pena do artigo 171, do Código Penal, por fatos posteriores ou pela existência de outros processos que a recorrente responde.
+O apelo nobre não foi admitido pelo Tribunal a quo em razão da: i) aplicação da Súmula 284/STF, pois não foram devidamente infirmados os argumentos do aresto; ii) ausência de prequestionamento; iii) deficiência de cotejo analítico; e iv) incidência da Súmula 7/STJ, tendo em vista a necessidade do revolvimento do material fático probatório.
+Nesta Corte Superior, o agravo em recurso especial deixou de ser conhecido porquanto não foi infirmado, de maneira adequada e suficiente, as razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial (fls. 2.825-2.826)
+Neste regimental, a agravante afirma haver impugnado corretamente todos os fundamentos da decisão recorrida (fls. 2.829-2.834).
+Pugna pela apresentação do recurso ao Colegiado.
+O Ministério Público Federal manifestou-se pelo não conhecimento do agravo regimental (fls. 2.843-2.845).
+Foi protocolado pedido de sustentação oral (fl. 2.847).
+É o relatório.
+EMENTA
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ESTELIONATO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA.
+I - A ausência de impugnação aos fundamentos da decisão agravada que não conheceu do agravo em recurso especial atrai a incidência do óbice da Súmula 182/STJ.
+II - Nos termos do artigo 258 do RISTJ o agravo é "A parte que se considerar agravada por decisão do Presidente da Corte Especial, de Seção, de Turma ou de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a", portanto, sendo o feito apresentado em mesa, não há previsão para intimação da parte para sustentação oral.
+III - "Como se extrai do art. 7º, § 2º-B, III, da Lei 8.906/1994, a inovação introduzida no EOAB pela Lei 14.365/2022 garantiu ao advogado o direito de sustentação no agravo interno ou regimental em sede de recurso especial, mas nada dispôs sobre o julgamento de agravo regimental no agravo em recurso especial" (AgRg no AREsp n. 2.170.433/PA, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 10/10/2022).
+Agravo regimental não conhecido.
+VOTO
+A irresignação não pode sequer ser conhecida.
+A Presidência deste Superior Tribunal de Justiça verificou que o agravo em recurso especial deixou de impugnar os fundamentos da decisão de admissibilidade feito pelo Tribunal de origem para não admitir o apelo nobre, nos seguintes termos (fls. 2.825-2.826):
+"Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: Súmula 284/STF, ausência de prequestionamento, deficiência de cotejo analítico e Súmula 7/STJ.
+Entretanto, a parte agravante deixou de impugnar especificamente os referidos fundamentos.
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial.
+ ..
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ."
+Por tal razão, foi aplicada a regra contida no art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça, ocasionando o não conhecimento do agravo em recurso especial.
+Neste agravo regimental, o insurgente, sem rebater todos os argumentos da decisão agravada, se restringiu a aduzir que (fl. 2.832):
+"Assim, desnecessário o prequestionamento de matéria que já foi trazida à analise em todas as oportunidades pela defesa.
+Por outro lado, houve a manifestação expressa no r. acórdão quanto à argumentação da defesa contrária à condenação nos termos do artigo 1º da Lei 9613/98.
+Assim, estando presente no r. acordão a contrariedade expressa à tese da defesa pela improcedência da condenação nos termos do artigo 1º da Lei 9613/98, é cabível a análise da matéria em sede de Recurso Especial.
+Por fim, houve o pedido para reconhecimento da confissão da agravante, com a consequente redução da pena nos termos do artigo 65, III, "d" do Código Penal Brasileiro, o qual não foi observado nem combatido no r. acórdão, motivo para a análise da redução da pena em sede de Recurso Especial, também objeto do Agravo em Recurso Especial.
+Com todo o respeito, os argumentos acima expendidos demonstram estarem presentes os fundamentos específicos combatidos desde o final da instrução do feito, assim como na decisão que denegou o seguimento do Recurso Especial, motivo pelo qual deve ser analisado o Agravo em Recurso Especial e consequentemente o Recurso Especial, para sua procedência ao final."
+Ocorre que, em respeito ao princípio da dialeticidade, a impugnação à decisão monocrática deve ser clara e suficiente a demonstrar o equívoco dos fundamentos utilizados para solucionar a questão em detrimento aos interesses do ora agravante.
+Ressalto que cabe ao agravante demonstrar o equívoco da decisão em face da qual se insurge, sendo imprescindível a impugnação específica a todos os óbices por ela apontados, obrigação da qual não se desincumbiu.
+Assim, deve ser aplicado ao caso, por analogia, o enunciado da Súmula n. 182 desta Corte Superior de Justiça, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Nesse sentido são os precedentes desta Corte, v.g.:
+" ..  2. É inviável o agravo que deixa de atacar, especificamente, o fundamento da decisão agravada. Incidência do verbete n. 182 da Súmula desta Corte.
+3. Agravo regimental não conhecido" (AgRg no AREsp n. 2.087.876/MG, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 16/9/2022).
+Por fim, no que diz respeito ao pleito da Defesa postulando sustentação oral, de igual modo, diviso que o recurso não merece prosperar.
+Como cediço, nos termos do artigo 258 do RISTJ, "a parte que se considerar agravada por decisão do Presidente da Corte Especial, de Seção, de Turma ou de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a", portanto, sendo o feito apresentado em mesa, não há previsão para intimação da parte para sustentação oral.
+Além disso, "como se extrai do art. 7º, § 2º-B, III, da Lei 8.906/1994, a inovação introduzida no EOAB pela Lei 1 4.365/2022 garantiu ao advogado o direito de sustentação no agravo interno ou regimental em sede de recurso especial, mas nada dispôs sobre o julgamento de agravo regimental no agravo em recurso especial" (AgRg no AREsp n. 2.170.433/PA, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 10/10/2022, grifei).
+Em reforço: "O cotejo entre o art. 994 do CPC e o § 2º-B do art. 7º da Lei n. 8.906/1994, inserido pela Lei n. 14.365/2022 evidencia que a novel lei não previu a possibilidade de sustentação oral em recursos interpostos contra decisão monocrática que julga o mérito ou não conhece de agravo de instrumento, de embargos de declaração e de agravo em especial ou extraordinário, uma vez que esses recursos não estão descritos no mencionado § 2º-B do art. 7º da Lei n. 8.906/1994. (EDcl nos EDcl no AgIntno AREsp n. 1.829.808/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/6/2022, DJe de 28/6/2022)" (AgRg no AREsp n. 2.037.267/RO, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 19/9/2022).
+Ante o exposto, não conheço do agravo regimental.
+É o voto.
