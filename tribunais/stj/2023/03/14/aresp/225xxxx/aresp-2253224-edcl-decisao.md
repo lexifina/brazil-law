@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por DENIO SILVEIRA DA CRUZ à decisão de fls. 895/896, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Nesta toada, evidente o erro material constante na decisão fustigada uma vez que fora desconsiderado o feriado do dia 11/08, tombado em lei federal, estando disposto no art. 62, IV, da Lei nº 5.010/66, bem como no Art. 81, § 2º, IV, do RISTJ, tornando dispensada sua demonstração.
+De forma clara, o artigo 1003, § 6º do CPC preconiza a necessidade de comprovação de feriado LOCAL no ato de interposição do recurso, no entanto fora desconsiderado por esta Relatoria a existência de um feriado público, notório, previsto em Lei Federal e no próprio Regimento interno deste Tribunal (fl. 899).
+Como é sabido, no dia 11 de agosto é comemorado, em âmbito nacional, o Dia da Criação dos Cursos Jurídicos, Dia do Advogado e Dia do Magistrado, não havendo expediente forense, inclusive, nos Tribunais Superiores por força da Lei nº 5.010/66, razão pela qual não há que se falar em intempestividade do Agravo em Recurso Especial interposto (fls. 899/890).
+ ..
+Ainda, conforme REsp 1.813.684/SP, ficara consagrado que o feriado da segunda-feira de Carnaval, notório e de abrangência nacional, não poderia receber o mesmo tratamento normativo dos feriados tipicamente locais, previsto no art. 1.003, § 6º, do CPC/2015, situação que assemelha-se ao presente caso pela notoriedade e abrangência do feriado, mas diferencia-se posto que EXISTE Lei federal estabelecendo o feriado do dia 11/08.
+Insta destacar, conforme a máxima de que "o juiz conhece o direito", que resta presumido que a Lei Federal 5.010/66 é de conhecimento deste Juízo. Nesta toada, o CPC preconiza: (fl. 900).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Para a aferição da tempestividade do recurso dirigido ao STJ, é indiferente que tenha havido ou não expediente forense nesta Corte, pois o agravo e o recurso especial interpostos são endereçados ao presidente do tribunal a quo, regendo-se o respectivo prazo, em matéria de recesso forense e feriados, pela legislação local. Nesse sentido, o AgInt nos EDcl no AREsp 1482882/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 14/5/2020 e o AgInt no AREsp 1514470/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 5/12/2019.
+Ademais, a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada por documento idôneo, no ato da interposição do recurso, providência que não foi cumprida.
+A propósito, confira-se este precedente:
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO E COMPENSAÇÃO POR DANOS MATERIAIS E MORAIS. INTEMPESTIVIDADE. FERIADO LOCAL. COMPROVAÇÃO POSTERIOR. IMPOSSIBILIDADE. APLICAÇÃO DO CPC/2015.
+1. Ação de indenização e compensação - respectivamente - por danos materiais e morais.
+2. O art. 1.003, § 6º, do CPC/2015, estabelece que o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso, o que impossibilita a regularização posterior.
+3. Considerando que o recurso especial foi interposto sob a égide do CPC/2015 e que não houve a comprovação do feriado local, quando de sua interposição, não há como ser afastada a intempestividade do apelo.
+4. Agravo interno não provido.
+(AgInt no AREsp 1667307/SP, relatora Ministra Nancy Andrighi, Terceira Turma, DJe 28/05/2020.)
+Registre-se que feriado nacional não precisa ser comprovado. Porém, o dia 11/8/2022 é supostamente feriado local, razão pela qual deveria ter sido comprovado no momento da interposição do recurso.
+Por outro lado, não procede a alegação de que é desnecessária a comprovação do feriado local por ser período absolutamente conhecido, tratando-se, portanto, de fato notório. Neste sentido: AgInt nos EDcl no AREsp 1465673/RS, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 25/05/2020.
+Cumpre ainda esclarecer que as disposições da Lei n. 5.010/66, usada pelo ora embargante como fundamento para justificar a suspensão do prazo não o socorrem, uma vez que a referida lei somente diz respeito à Justiça Federal e aos Tribunais Superiores, não se aplicando as suas disposições aos tribunais de justiça estaduais. (AgInt no AREsp 1576616/SP, relatora Ministra Assusete Magalhães, DJe de 26/5/2020.)
+Ademais, a Corte Especial, por maioria, acolheu a questão de ordem para reconhecer que a tese firmada por ocasião do julgamento do REsp 1.813.684/SP é restrita aos recursos interpostos até 17/11/2019 e alcança apenas o feriado de segunda-feira de carnaval, ou seja, não se aplica aos demais feriados, inclusive aos feriados locais. (QO no REsp 1813684/SP, relatora Ministra Nancy Andrighi, Corte Especial, DJe de 28/2/2020.) Assim, só a segunda-feira de carnaval até 2019 poderia ser comprovada posteriormente, excluindo-se qualquer outro feriado, como no caso dos autos.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Não conheço da petição de fls. 903/907 em razão da preclusão consumativa.
+Publique-se. Intimem-se.
