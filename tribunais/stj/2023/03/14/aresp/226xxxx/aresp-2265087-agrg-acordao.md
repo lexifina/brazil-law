@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+ENEILSON PEREIRA DOS SANTOS interpõe agravo regimental contra decisum de minha relatoria às fls. 167-170, ocasião em que conheci do agravo para não conhecer do recurso especial.
+Nas razões regimentais, em síntese, alega a parte agravante que Tribunal de origem "incorreu em reformatio in pejus ao suprimir as atenuantes e propôs-se revisão criminal com fundamento no artigo 621, inciso I, do Código de Processo Penal, pois presente a situação de patente injustiça que resulta em afronta ao texto expresso da lei" (fl. 175).
+Pleiteia, portanto, a submissão do recurso à turma julgadora.
+Trata-se de réu condenado à pena de 20 anos de reclusão, a ser cumprida em regime inicial fechado, além do pagamento de, além do pagamento de 110 dias-multa, à razão mínima, por infringir o art. 157, § 3º, II, do Código Penal - latrocínio (roubo com resultado morte).
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. REAPRECIAÇÃO DA MATÉRIA DE FATO. IMPOSSIBILIDADE NA VIA ELEITA. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. No decisum impugnado consignou-se a impossibilidade de examinar irresignação recursal por esbarrar no óbice da Súmula n. 7 do STJ.
+2. "É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos" (AgRg no HC n. 749.888/RS, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), 5ª T., DJe 26/8/2022).
+3.Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Trata-se de réu condenado à pena de 20 anos de reclusão, a ser cumprida em regime inicial fechado, além do pagamento de, além do pagamento de 110 dias-multa, à razão mínima, por infringir o art. 157, § 3º, II, do Código Penal - latrocínio (roubo com resultado morte).
+Em que pesem os argumentos aduzidos pela parte agravante, a decisão recorrida deve ser mantida por seus próprios fundamentos.
+Cabe lembrar que a Corte estadual inviabilizou o prosseguimento do recurso especial do recorrente pela incidência da Súmula n. 7 do STJ (fls. 135-137).
+Ressalto que, na ocasião da análise do agravo interposto no apelo raro, assim fundamentei (fl. 167-170, destaquei):
+ ..  Nas razões recursais, a defesa aponta violação dos arts. 59 e 65, I e II, "d". ambos do Código Penal e 617 do Código de Processo Penal ao sustentar reformatio in pejus pelo acórdão de origem. Alega que, embora haja ocorrido a redução do quantum da pena privativa de liberdade, a Corte local afastou as atenuantes da menoridade relativa e da confissão espontânea na fase intermediária do cômputo da sanção, a despeito da apelação criminal haver sido interposta, exclusivamente, pelo acusado.
+ ..  In casu, observa-se, no âmbito da apelação criminal, que o Colegiado assinalou (fl. 41-43, grifei):
+ ..  considerando que todas as circunstâncias foram favoráveis ao apelante,redimensiono a pena base de 22 (vinte e dois) para 20 (vinte) anos de reclusão, mínimo legal. Na segunda fase, pela magistrada foram reconhecidas e aplicadas às atenuantes da menoridade e confissão espontânea, contudo, deixo de utilizá-las, porquanto a pena não pode ser atenuada abaixo do mínimo legal, nos termos da Súmula 231 do STJ. Ausentes agravantes. Continuando, quanto a 3ª etapa, inexistem causas de diminuição e aumento da reprimenda, restando a sanção definitiva em 20 (vinte) anos de reclusão. De outra feita, em observância a proporção que deve guardar a sanção patrimonial com a reprimenda privativa de liberdade, redimensiono a sanção patrimonial de 30 (trinta) para 10 (dez) dias-multa, na menor fração unitária  .. .
+ ..  Afigura-se inviável a redução da pena intermediária, a despeito do reconhecimento das mencionadas atenuantes e da pena-base haver sido fixada no mínimo legal. Isso porque incide o óbice do enunciado sumular n. 231 do STJ -"a incidência da circunstância atenuante não pode conduzir à redução da pena abaixo do mínimo legal"  .. .
+Logo, percebo que a irresignação do agravante se resume ao seu mero inconformismo com o resultado do julgado, que lhe foi desfavorável.
+Não há fundamento que justifique a interposição do agravo para a reapreciação da matéria. Inclusive, verifica-se que não houve o agravamento da situação do réu quando da readequação da pena pela Corte a quo, razão pela qual não se afigura o instituto da ne reformatio in pejus.
+Nesse sentido:
+ ..  segundo a jurisprudência desta Corte Superior de Justiça, inexiste a ocorrência de reformatio in pejus, porquanto o amplo efeito devolutivo da apelação autoriza o Tribunal de origem, quando instado a se manifestar sobre a dosimetria da pena, a realizar nova ponderação dos fatos e das circunstâncias em que se deu a conduta criminosa, mesmo em se tratando de recurso exclusivamente defensivo, desde que não seja agravada a situação do réu, como ocorreu na espécie. Precedentes  ..  (AgRg no REsp n. 1.994.174/CE, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 20/5/2022, grifei).
+ ..  O efeito devolutivo da apelação permite ao julgador substituir a fundamentação empregada pelo magistrado sentenciante e assim manter a quantidade de pena imposta, sem que isso configure violação ao princípio da ne reformatio in pejus (artigo 617 do CPP), desde que isso não implique em aumento da pena fixada pelo juízo sentenciante" (AgRg no AREsp n. 1.763.108/PR, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 15/03/2021) (AgRg no REsp n. 1.953.672/PR, Rel. Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), 6ª T., DJe 20/6/2022, destaquei).
+E adito:
+ ..  É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos" (AgRg no HC n. 749.888/RS, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), 5ª T., DJe 26/8/2022. grifei).
+À vista do exposto, nego provimento ao regimental.
