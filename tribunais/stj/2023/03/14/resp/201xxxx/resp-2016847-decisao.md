@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de recurso especial interposto por Grazielle Matheus Dias dos Santos, com fundamento na alínea a do permissivo constitucional, contra o acórdão proferido pelo Tribunal de Justiça de São Paulo na Apelação Criminal n. 0001922-96.2018.8.26.0535.
+Na sentença de fls. 249/252, o Juízo singular julgou improcedente o pedido formulado na denúncia para absolver a recorrente Grazielle Matheus Dias dos Santos da imputação da prática dos crimes previstos nos arts. 33, caput, da Lei n. 11.343/2006, e 12 da Lei n. 10.826/2003, c/c o art. 29, caput, do Código Penal, na forma do art. 69 do mesmo Diploma Legal.
+Inconformada com os termos do édito condenatório singular, a acusação interpôs recurso de apelação (fls. 266/273).
+O Tribunal a quo deu parcial provimento ao recurso acusatório para condenar a recorrente por infração Do art. 33, caput, da Lei n. 11.343/2006, à pena de 2 anos e 6 meses de reclusão, e 250 dias-multa (fls. 334/346).
+Opostos embargos infringentes (fls. 369/371), foram acolhidos para assegurar à recorrente o cumprimento da pena no regime inicial semiaberto (fls. 404/407).
+No recurso especial, é apontada a violação dos arts. 33, §§ 2º e 3º, e 44, ambos do Código Penal (fls. 418/430).
+Assevera a recorrente que prescreve o art. 33, § 2º, c, do Código Penal que "o condenado não reincidente, cuja pena seja igual ou inferior a 4 anos, poderá, desde o início, cumpri-la em regime aberto".  ..  A jurisprudência, de forma pacífica, exige coerência do juízo sentenciante ao estabelecer a pena-base e fixar o regime de cumprimento de pena, visto que ambas as providências têm como diretrizes as circunstâncias do art. 59 do Código Pena.  ..  As circunstâncias judiciais do art. 59 do Código Penal (e art. 42 da Lei de Drogas) são favoráveis à recorrente, que é primário e ostenta bons antecedentes (não se tratando também de quantidade vultuosa de drogas) - fl. 424.
+Sustenta, ainda, que, sendo  ..  primária e de bons antecedentes, sendo a pena inferior a 4 anos, cabível se torna a substituição da pena privativa de liberdade por restritiva de direitos.  ..  Neste sentido é o posicionamento pacífico do Supremo Tribunal Federal, tendo em vista o princípio da individualização da pena, bem como a Resolução n. 5/2012 do Senado Federal (fl. 427).
+Reforça que a opinião pessoal do julgador sobre a gravidade em abstrato do crime de tráfico de drogas não pode impedir a aplicação regular da lei, que prevê a possibilidade de substituição da pena privativa de liberdade por restritivas de direitos.  ..  É cediço que o tráfico privilegiado não é equiparado a hediondo, permitindo a fixação de regime aberto e mesmo a substituição da pena privativa de liberdade por restritivas de direitos (fl. 429).
+Ao final da peça recursal, pede que seja conhecido e provido o presente recurso especial para abrandar o regime prisional imposto, em respeito às normas insculpidas no art. 33, §§ 2º e 3º, do Código Penal, bem como seja substituída a pena privativa de liberdade por restritiva de direitos, em obediência ao art. 44 do Código Penal (fls. 429/430).
+Oferecidas contrarrazões (fls. 434/441), o recurso especial foi admitido na origem (fl. 444).
+O Ministério Público Federal opina pelo provimento da insurgência (fls. 453/455):
+RECURSO ESPECIAL. TRÁFICO DE DROGAS. ALEGADA VIOLAÇÃO AOS ARTS. 33, §§ 2º e 3º, E 44 DO CP. - APLICAÇÃO DA PENA. CIRCUNSTÂNCIAS JUDICIAIS INTEGRALMENTE FAVORÁVEIS. PENA-BASE FIXADA NO MÍNIMO LEGAL. RÉ PRIMÁRIA. PENA INFERIOR A 4 ANOS. CRIME PRATICADO SEM VIOLÊNCIA CONTRA A PESSOA. REGIME ABERTO E SUSBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS.
+Parecer pelo conhecimento e provimento do recurso especial.
+É o relatório.
+Com efeito, pelos percucientes fundamentos, aos quais nada tenho a acrescentar, adoto como razões de decidir o parecer do Ministério Público Federal, exarado pelo Subprocurador-Geral da República Luciano Mariz Maia, ipsis litteris (fls. 454/455 - grifo nosso):
+ ..
+O recurso deve ser conhecido e provido.
+Com efeito, eis a fundamentação do acórdão proferido na apelação na parte relativa à aplicação da pena, in litteris:
+ P ena e Regime Prisional:
+Na primeira fase, a base fica estabelecida, para cada réu, no mínimo legal, nos termos do art. 59 do Código Penal.
+Na segunda fase da dosimetria, ausentes circunstâncias agravantes e atenuantes.
+Por fim, na derradeira fase, de rigor o reconhecimento do tráfico minorado, haja vista serem os réus primários, de bons antecedentes e não haver prova de que eles integrem organização criminosa ou que se dedique às atividades criminosas, fazendo jus ao benefício previsto no § 4º do art. 33 da Lei n. 11.343/2006. E, repita-se, face à quantidade de drogas apreendidas não ser tão grande, de rigor a redução da pena no patamar de metade (1/2), o que fica aqui estabelecido.
+Assim, a pena finaliza em dois (2) anos e seis (6) meses de reclusão e duzentos e cinquenta (250) dias-multa, no valor mínimo unitário.
+O regime prisional inicial fechado foi fixado com absoluto acerto pela gravidade do crime, de catastróficas consequências à saúde pública, e responsável, também, pela desagregação familiar e social.
+O crime de tráfico de entorpecentes é equiparado aos delitos hediondos, portanto os mais graves dentre os elencados no Código Penal e em Leis Especiais.
+Logo, soa, no mínimo, incongruente a fixação de regime diverso do fechado para o crime de tráfico de drogas.
+ B em por isso que a substituição por restritivas de direito é absolutamente inadmissível. (fls. 338/341 e-STJ)
+No julgamento dos embargos infringentes, restou consignado no acórdão: "reconhecido ser o caso de tráfico privilegiado, com pena, inclusive, aquém do mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito (Súmula/STJ 440)".
+No entanto, embora o regime indicado para a pena de 2 anos e 2 meses seja o aberto, nos termos do art. 33, § 2º, letra "c", do Código Penal, a alteração deu-se do regime fechado para o semiaberto.
+É sabido que a essa escolha deve ser pautada nos critérios do artigo 33, do Código Penal, e levando-se em consideração as circunstâncias judiciais do artigo 59, também do Código Penal.
+No caso, a recorrente é primária e as circunstâncias judiciais foram consideradas integralmente favoráveis, fixando-se a pena-base no mínimo legal, inexistindo motivação idônea para justificar a escolha do regime mais gravoso.
+Desse modo, deve ser alterado o regime prisional para o aberto e realizada a substituição da pena privativa de liberdade por restritivas de direitos, porque atendidos os requisitos legais do art. 44 do Código Penal.
+ ..
+Registre-se, por fim, que ao corréu Jeferson Cordeiro da Silva foi elaborada a mesma dosimetria da pena e, a despeito da sua primariedade e da ausência de circunstâncias judiciais desfavoráveis, sob o mesmo fundamento, foi fixado o regime prisional semiaberto (fl. 407).
+Portanto, pelas razões expostas na presente decisão e com suporte no art. 580 do Código de Processo Penal, devem seus efeitos ser estendidos ao referido corréu.
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para abrandar o regime inicial da pena privativa de liberdade ao aberto, bem como possibilitar a substituição da pena privativa de liberdade por restritivas de direitos, nos termos do parecer da Procuradoria-Geral da República, com extensão de efeitos ao corréu Jeferson Cordeiro da Silva.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. PENAL. TRÁFICO DE DROGAS (173,45 G DE MACONHA). VIOLAÇÃO DOS ARTS. 33, §§ 2º E 3º, E 44, AMBOS DO CP. PLEITO DE ABRANDAMENTO DO CÁRCERE. REGIME INICIAL SEMIABERTO. PRIMARIEDADE. AUSÊNCIA DE CIRCUNSTÂNCIAS JUDICIAIS NEGATIVAS. PENA-BASE ESTIPULADA NO MÍNIMO LEGAL. FUNDAMENTAÇÃO GENÉRICA. SÚMULA 440/STJ. REGIME ABERTO QUE SE IMPÕE. APLICAÇÃO DO ART. 33, § 2º, C, DO CP. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. POSSIBILIDADE. PARECER DO MPF ADOTADO COMO RAZÕES DE DECIDIR. MESMA DOSIMETRIA DA PENA E FUNDAMENTO PARA FIXAÇÃO DO REGIME SEMIABERTO E VEDAÇÃO DA SUBSTITUIÇÃO DA PENA AO CORRÉU JEFERSON CORDEIRO DA SILVA, PRIMÁRIO E SEM VETORES JUDICIAIS NEGATIVOS. EXTENSÃO DOS EFEITOS DA DECISÃO QUE SE IMPÕE. APLICAÇÃO DO ART. 580 DO CPP.
+Recurso especial provido, com extensão de efeitos ao corréu Jeferson Cordeiro da Silva.
