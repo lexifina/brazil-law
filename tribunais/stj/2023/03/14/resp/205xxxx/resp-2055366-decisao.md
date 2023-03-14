@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial interposto por EDESTINOS.COM.BR AGÊNCIA DE VIAGENS E TURISMO LTDA. (EDESTINOS), com fundamento no art. 105, III, alíneas a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+APELAÇÃO CÍVEL - AÇÃO DE REPARAÇÃO DE DANOS - LEGITIMIDADE PASSIVA DA AGÊNCIA DE TURISMO - CANCELAMENTO DE VÔO - RESPONSABILIDADE CIVIL - DANO MATERIAL COMPROVADO - DANO MORAL CONFIGURADO - FIXAÇÃO DO VALOR - RAZOABILIDADE.
+- O fato de a agência de viagem intermediar a venda das passagens e não executar o transporte propriamente dito, não elide a sua responsabilidade por eventual execução de-feituosa ou inexecução completa do serviço, porquanto é ela quem elege e contrata as empresas cujos serviços fornece a seus clientes (art. 14 do CDC).
+- A aquisição dos serviços de transporte aéreo resulta na legítima expectativa do cliente de chegar ao destino no dia e horário contratados, objetivando usufruir com sossego da viagem, razão pela qual sobressai dos autos a patente falha na prestação de serviço, decorrente do cancelamento unilateral do voo, revelando-se presente o dever de indenizar pelos danos verificados, devendo ser indenizados os danos materiais devidamente comprovados nos autos.
+- A reparação por danos morais, ao mesmo tempo em que não deve permitir o enriquecimento injustificado do lesado, também não pode ser fixada em valor insignificante, pois deve servir de reprimenda para evitar a repetição da conduta abusiva (e-STJ. fl. 235).
+Nas razões do presente recurso, EDESTINOS alegou a violação do art. 14, § 3º, I e II, do CDC, ao sustentar que a agência de viagem não detém legitimidade para integrar o polo passivo da ação de indenização por danos decorrentes de atraso ou cancelamento de voo, tendo em vista que a sua atuação é apenas de intermediária da venda de bilhetes aéreos.
+Não foram apresentadas contrarrazões.
+É o relatório.
+Decido.
+O recurso merece prosperar.
+Narram os autos que SAVIO MARQUES DA COSTA FERREIRA e MARIA HELENA ALMEIDA DA SILVA (SAVIO e outra) ingressaram com ação de indenização por danos materiais e morais contra EDESTINOS, alegando que, aos 9/7/2019, efetuaram a compra de passagens aéreas com destino a Paris, com ida aos 22/9/2019 e volta aos 3/10/2019, no valor total de R$ 6.108,61 (seis mil, cento e oito reais e sessenta e um centavos).
+Afirmaram que, aos 12/8/2019 foram informados de que o voo de ida foi alterado para 24/9/2018 e o voo de volta teria sido cancelado, e, diante da modificação, foram reembolsados dos valores despendidos, com exceção do seguro-viagem e da taxa de serviços.
+Pediram a condenação da requerida ao pagamento dos danos materiais no valor de R$ 1.442,77 (um mil, quatrocentos e quarenta e dois reais e setenta e sete centavos), além dos danos morais, no montante sugerido de R$ 10.000,00 (dez mil reais) para cada autor.
+Diante dessa moldura fática, o TJMG asseverou que, a despeito de o serviço prestado pela EDESTINOS ter se limitado à venda das passagens aéreas, isso não afasta a sua responsabilidade por eventual execução defeituosa ou inexecução completa do serviço, porquanto é ela quem elege e contrata as empresas cujos serviços fornecem a seus clientes.
+Todavia, na esteira de precedentes desta Corte Superior, as agências de turismo não respondem solidariamente pela má prestação do serviço de transporte aéreo na hipótese de compra e venda de passagens sem a comercialização de pacotes de viagens.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRANSPORTE AÉREO. INEXECUÇÃO DO SERVIÇO. AÇÃO DE INDENIZAÇÃO. AGÊNCIA DE TURISMO. ILEGITIMIDADE PASSIVA AD CAUSAM RECONHECIDA.
+1. A jurisprudência deste Tribunal admite a responsabilidade solidária das agências de turismo apenas na comercialização de pacotes de viagens.
+2. No caso, o serviço prestado pela agência de turismo foi exclusivamente a venda de passagens aéreas, circunstância que afasta a sua responsabilidade pelo efetivo cumprimento do contrato de transporte aéreo e autoriza o reconhecimento da sua ilegitimidade para figurar no polo passivo da ação indenizatória decorrente de cancelamento de voo.
+3. Agravo regimental não provido.
+(AgRg no REsp 1.453.920/CE, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 9/12/2014, DJe 15/12/2014 - sem destaque no original.)
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. TRANSPORTE AÉREO. INEXECUÇÃO DOS SERVIÇOS PRESTADOS. NÃO OCORRÊNCIA DA RESPONSABILIDADE OBJETIVA E SOLIDÁRIA DA AGÊNCIA DE TURISMO. CARACTERIZAÇÃO DA CULPA EXCLUSIVA DE TERCEIRO. INCIDÊNCIA DAS HIPÓTESES PREVISTAS NO § 3º, I, II, DO ART. 14 DO CDC. ILEGITIMIDADE PASSIVA AD CAUSAM RECONHECIDA.
+1. No pleito em questão, os autores contrataram com a empresa de turismo a compra e venda de passagens aéreas Brasília - Fortaleza, sendo que tal serviço, como restou demonstrado, foi regularmente prestado. Comprovado, também, que os autores não puderam utilizar os bilhetes da empresa TRANSBRASIL, em razão desta interromper seus serviços na época marcada, não efetuando, assim, os vôos programados.
+2. Não se tratando, in casu, de pacote turístico, hipótese em que a agência de viagens assume a responsabilidade de todo o roteiro da viagem contratada, e tendo, portanto, inexistido qualquer defeito na prestação de serviço pela empresa de viagens, posto que as passagens aéreas foram regularmente emitidas, incide, incontroversamente, as normas de exclusão de responsabilidade previstas no art. 14, § 3º, I e II, do CDC. Reconhecimento da ilegitimidade passiva ad causam da empresa de viagens, ora recorrente.
+3. Recurso conhecido e provido.
+(REsp 758.184/RR, Rel. Ministro JORGE SCARTEZZINI, Quarta Turma, j. 26/9/2006, DJ 6/11/2006. - sem destaque na original.)
+E, ainda, por decisões monocráticas: REsp 2.051.865/MG, Rel. Ministro PAULO DE TARSO SANSEVERINO, DJe 9/3/2023; REsp 1.878.038/SP, Rel. Ministro MOURA RIBEIRO, DJe 19/12/2022; e AREsp 2.174.760, Ministro ANTONIO CARLOS FERREIRA, DJe 30/9/2022.
+Incide, à hipótese, o comando da Súmula nº 568 do STJ.
+Nessas condições, DOU PROVIMENTO ao recurso especial, para reformar o acórdão recorrido e reconhecer a ilegitimidade passiva ad causam da EDESTINOS.
+Condeno a parte autora ao pagamento de honorários advocatícios em favor da EDESTINOS, que fixo em 10% (dez por cento) sobre o valor atualizado da causa, nos termos do art. 85, §2º do Código de Processo Civil, observada eventual concessão dos benefícios da gratuita da justiça na instância ordinária (art. 98, § 3º, do CPC).
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+DIREITO DO CONSUMIDOR E CIVIL. RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. ALTERAÇÃO E CANCELAMENTO DE VOO INTERNACIONAL. AGÊNCIA DE TURISMO. EMISSÃO DE PASSAGEM AÉREA. FALHA NA PRESTAÇÃO DE SERVIÇO. NÃO OCORRÊNCIA. ILEGITIMIDADE PASSIVA AD CAUSAM. RECONHECIDA. SÚMULA Nº 568 DO STJ. RECURSO ESPECIAL PROVIDO.
