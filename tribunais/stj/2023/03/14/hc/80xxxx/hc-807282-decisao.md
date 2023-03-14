@@ -1,0 +1,11 @@
+DECISÃO
+Neste habeas corpus, com pedido liminar, impetrado em favor de Cristiano Felipe Carvalho de Souza (ou Cristiano Felipe de Carvalho Sousa) - preso em flagrante pela suposta prática dos crimes tipificados nos arts. 180 e 330, ambos do Código Penal (Processo n. 1500548-53.2023.8.26.0548, da 1ª Vara Criminal de Campinas/SP) -, alega-se constrangimento ilegal na decisão do Juízo processante que, embora tenha substituído a prisão por cautelares diversas, impôs ao paciente o pagamento de R$ 2.000,00 (dois mil reais) a título de fiança, no prazo de 30 dias (sob pena de revogação da benesse) e requer-se, em liminar e no mérito, seja dispensado o pagamento da fiança arbitrada.
+É o relatório.
+O writ, no entanto, é inadmissível, seja porque impugna decisão liminar exarada no autos do HC n. 2048177-58.2023.8.26.0000 - circunstância suficiente para atrair a incidência da Súmula 691/STF -, seja porque veiculada tese que nem sequer foi plenamente equacionada no Juízo de primeiro grau.
+Ora, embora o impetrante alegue que o paciente está desempregado e não tem condição de arcar com o valor da fiança arbitrada, verifica-se, em consulta ao andamento da ação penal na origem, que não há nenhum requerimento da defesa pugnando pela dispensa da fiança arbitrada com base nas circunstâncias fáticas aventadas.
+Tal o contexto, inviável aferir a existência de ilegalidade flagrante na fiança arbitrada, sendo certo que incum be ao im petrante suscitar a questão da hipossuficiência, inicialmente, perante o Juízo de origem e, só então, caso mantida a fiança, suscitar a ilegalidade na manutenção da obrigação perante as instâncias superiores, notadamente considerando que é questão que transcende a análise eminentemente jurídica, demandando o exame de circunstâncias fáticas, inviável em sede de cognição sumária.
+Ante o exposto, indefiro liminarmente o habeas corpus (art. 210 do RISTJ).
+Publique-s e.
+EMENTA
+HABEAS CORPUS. RECEPTAÇÃO E DESOBEDIÊNCIA. SUPOSTO CONSTRANGIMENTO ILEGAL NA IMPOSIÇÃO DE FIANÇA. INCIDÊNCIA DA SÚMULA 691/STF. HIPOSSUFICIÊNCIA. MATÉRIA QUE NÃO FOI SEQUER SUSCITADA EM PRIMEIRO GRAU. NECESSIDADE DE PRÉVIO EQUACIONAMENTO DO TEMA NA INSTÂNCIA ORDINÁRIA.
+Writ indeferido liminarmente.
