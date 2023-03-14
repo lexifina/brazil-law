@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros João Batista Moreira (Desembargador convocado do TRF1), Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL.
+I - A ausência de impugnação dos fundamentos da decisão que não admitiu o recurso especial impõe o não conhecimento do agravo em recurso especial.
+II - In casu, a parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial com relação à incidência das Súmulas 7 e 83, ambas do STJ.
+III - É entendimento desta Corte Superior que "inadmitido o recurso especial com base na Súm. 7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível" (AgInt no AREsp n. 600.416/MG, Segunda Turma, Rel. Min. Og Fernandes, DJe de 18/11/2016).
+IV - Com efeito: "E, ainda, esta Corte firmou o entendimento de que, "quando o inconformismo excepcional não é admitido pela instância ordinária, com fundamento no enunciado n. 83 da Súmula do Superior Tribunal de Justiça, a impugnação deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida" (AgRg no AREsp 709.926/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 18/10/2016, DJe 28/10/2016), o que não ocorreu no caso destes autos" (AgRg no AREsp n. 637.462/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 1º/8/2017).
+Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por EDNILSON ROBERTO AUGUSTO, contra decisão de minha relatoria (fls. 393-396), que não conheceu do agravo em recurso especial.
+Consta dos autos que o agravante foi condenado, pelo juízo de primeiro grau, pela prática do crime previsto no art. 155, caput, c/c o art. 14, inciso II, ambos do Código Penal, à pena de 01 (um) ano de reclusão, em regime semiaberto, e pagamento de 10 (dez) dias-multa (fls. 207-210).
+O eg. Tribunal de origem, por unanimidade, negou provimento ao recurso da defesa (fls. 274-283).
+A defesa interpôs recurso especial, com fundamento no art. 105, inciso III, alínea a, da Constituição da República, alegando (fl. 308, grifei):
+"que o v. acórdão negou vigência ao art. 14.3, alínea d, do Pacto Internacional de Direitos Civis e Políticos, tendo em vista que, a despeito do fechamento do Fórum, impossibilitando o acesso do recorrente, reputou correta a decretação de revelia, vulnerando, pois, o direito de presença.
+Ademais, o v. acórdão negou vigência ao art. 67 do Código Penal, porquanto deixou de efetuar a compensação entre a reincidência e a atenuante da confissão.
+Finalmente, houve negativa de vigência ao disposto no art. 33, § 2º, c e § 3º, do Código Penal, eis que o v. acórdão manteve o regime semiaberto."
+Apresentadas as contrarrazões (fls. 333-339), sobreveio juízo negativo de admissibilidade fundado: a) na incidência da Súmula 7/STJ; b) na incidência da Súmula 83/STJ, porquanto o acórdão está em sintonia com a jurisprudência desta Corte Superior; c) na incidência da Súmula 269/STJ; e d) na incidência da Súmula 284/STF, por deficiência na fundamentação (fls. 343-345).
+Nas razões do agravo, postula-se o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários a sua admissão (fls. 350-357).
+O Ministério Público Federal manifestou "pelo não conhecimento do recurso especial, mas pela concessão da ordem de ofício, no sentido de substituir a sanção restritiva de liberdade por pena restritiva de direitos" (fl. 390).
+Nesta Corte Superior, o agravo em recurso especial deixou de ser conhecido porquanto não foi infirmado, de maneira adequada e suficiente, parte das razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial, restando assim ementado (fl. 393):
+"PENAL. AGRAVO EM RECURSO ESPECIAL. FURTO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO."
+Neste regimental, o agravante afirma haver impugnado corretamente todos os fundamentos da decisão recorrida, bem como repisa os argumentos postos no recurso especial.
+Pugna pela reconsideração da decisão monocrática ou apresentação do recurso ao Colegiado.
+Por manter o decisum, trago o feito a julgamento do Colegiado.
+É o relatório.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL.
+I - A ausência de impugnação dos fundamentos da decisão que não admitiu o recurso especial impõe o não conhecimento do agravo em recurso especial.
+II - In casu, a parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial com relação à incidência das Súmulas 7 e 83, ambas do STJ.
+III - É entendimento desta Corte Superior que "inadmitido o recurso especial com base na Súm. 7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível" (AgInt no AREsp n. 600.416/MG, Segunda Turma, Rel. Min. Og Fernandes, DJe de 18/11/2016).
+IV - Com efeito: "E, ainda, esta Corte firmou o entendimento de que, "quando o inconformismo excepcional não é admitido pela instância ordinária, com fundamento no enunciado n. 83 da Súmula do Superior Tribunal de Justiça, a impugnação deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida" (AgRg no AREsp 709.926/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 18/10/2016, DJe 28/10/2016), o que não ocorreu no caso destes autos" (AgRg no AREsp n. 637.462/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 1º/8/2017).
+Agravo regimental desprovido.
+VOTO
+Não obstante os argumentos apresentados pela parte agravante, o presente recurso não comporta provimento.
+Nesta Corte Superior, o agravo em recurso especial deixou de ser conhecido porque não fora infirmado parte dos fundamentos empregados pela eg. Corte de origem para inadmitir o recurso (Súmulas 7 e 83, ambas do STJ).
+Em relação à inadmissão quanto à aplicação da Súmula 7/STJ, a defesa limitou-se a aduzir que "percebe-se, assim, que a pretensão exposta no recurso não encontra óbice na Súmula 7 deste Superior Tribunal de Justiça, porquanto versa sobre matéria estritamente de direito, não sendo necessária a análise dos fatos" (fl. 356). A parte, ainda, repisou os argumentos do recurso especial.
+Com efeito, quanto à incidência da Súmula 7/STJ, deveria a parte agravante demonstrar a desnecessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no decisum a quo, o que não aconteceu.
+É entendimento desta Corte Superior que "inadmitido o recurso especial com base na Súm. 7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível" (AgInt no AREsp n. 600.416/MG, Segunda Turma, Rel. Min. Og Fernandes, DJe de 18/11/2016).
+Nesse sentido:
+"AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PENAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 932, III, DO CPC DE 2015. IMPOSSIBILIDADE DE CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. INSURGÊNCIA DESPROVIDA.
+1. Na modalidade do recurso previsto no art. 1.042 do CPC, "é inafastável o dever do recorrente de impugnar especificamente todos os fundamentos que levaram à inadmissão do apelo extremo, não se podendo falar, na hipótese, em decisão cindível em capítulos autônomos e independentes". Precedente da Corte Especial do STJ.
+2. A decisão que não admitiu o recurso especial assentou os óbices das Súmulas ns. 7 e 83 do STJ, e na deficiência do cotejo analítico. Contudo, no respectivo agravo, o recorrente limitou-se a arguir, genericamente, a suposta desnecessidade de reexame da matéria fático-probatória e que teria realizado o devido cotejo analítico, bem como deixou de impugnar adequadamente a incidência da Súmula 83/STJ.
+3. Deixando a parte agravante de impugnar específica e concretamente os fundamentos da decisão agravada, é de se aplicar o art. 932, III, do Código de Processo Civil de 2015 e o art. 253, I, do RISTJ.
+4. Agravo desprovido" (AgRg nos EDcl no AREsp n. 2.104.712/CE, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 11/11/2022).
+Ainda, a Defesa, em uma breve explanação, apenas limitou-se a dizer quanto à aplicação da Súmula 83/STJ, que "no que se refere às Sumulas 83 e 269, ambas do STJ, é certo que a Defensoria Pública apresentou razões para afastar a orientação fixada pelo Tribunal de Justiça, demonstrando argumentos que justificavam o distinguishing" (fl. 357).
+Com efeito: "E, ainda, esta Corte firmou o entendimento de que, "quando o inconformismo excepcional não é admitido pela instância ordinária, com fundamento no enunciado n. 83 da Súmula do Superior Tribunal de Justiça, a impugnação deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida" (AgRg no AREsp 709.926/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 18/10/2016, DJe 28/10/2016), o que não ocorreu no caso destes autos" (AgRg no AREsp n. 637.462/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 1º/8/2017).
+Deve-se ressaltar que cabe ao agravante demonstrar o equívoco da decisão em face da qual se insurge, sendo imprescindível a impugnação específica a todos os óbices por ela apontados, obrigação da qual não se desincumbiu.
+Este é o teor do art. 932, inciso III, do Código de Processo Civil/2015, que autoriza o relator a não conhecer de recurso que tenha deixado de impugnar os fundamentos da decisão recorrida. Igualmente, o art. 253, inciso I, do Regimento Interno do Superior Tribunal de Justiça, com redação dada pela Emenda Regimental n. 22/2016, autoriza o relator a não conhecer do agravo que descumpra a tarefa de infirmar as razões de decidir que levaram ao trancamento do recurso especial.
+Nesse sentido:
+"PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 83/STJ. RECURSO ESPECIAL. DECISÃO DE INADMISSIBILIDADE. IMPUGNAÇÃO ESPECÍFICA DA DECISÃO RECORRIDA. NECESSIDADE. ALEGAÇÕES GENÉRICAS E REITERAÇÃO DOS ARGUMENTOS REFERENTES AO MÉRITO DA CONTROVÉRSIA. INSUFICIÊNCIA. PRECEDENTES. RECURSO DESPROVIDO.
+1. O insurgente não refutou a Súmula n. 83 do STJ, limitando-se a reiterar, genericamente, os termos constantes do AREsp.
+2. Os "recursos devem impugnar especificamente os fundamentos da decisão cuja reforma é pretendida, não sendo suficientes alegações genéricas nem a reiteração dos argumentos referentes ao mérito da controvérsia" (AgRg no HC n. 624.133/SP, Rel. Min. João Otávio de Noronha, DJe 14/12/2021)
+(..)
+4. Na hipótese dos autos, verifica-se que a decisão que previamente inadmitiu o recurso especial considerou a ausência de prequestionamento e Súmula 83/STJ.
+5. Entretanto, a parte agravante deixou de impugnar especificamente os referidos fundamentos. Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial. Precedente.
+6. Em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ.
+7. Agravo regimental desprovido" (AgRg no AREsp n. 2.094.944/MG, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 26/8/2022).
+Assim, deve ser mantida a decisão agravada.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
