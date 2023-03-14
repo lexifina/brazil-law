@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JERFFESON MORAIS CONSTANCIO contra acórdão do Tribunal de Justiça do Estado da Paraíba proferido no HC n. 0814941-59.2022.8.15.0000.
+O Paciente foi preso em f lagrante, em 07/05/2022 (convertido o flagrante em prisão preventiva no dia seguinte), pela suposta prática do crime previsto no art. 121, § 2.º, inciso I, do Código Penal, pelo qual foi denunciado. Extrai-se do aresto atacado que,  d urante as investigações, ficou claro que o autuado tinha uma rixa antiga com a vítima, em razão de envolvimento com drogas" (fl. 129).
+Objetivando a revogação da custódia, a Defesa impetrou prévio writ perante a Corte de origem, que denegou a ordem (fls. 128-139).
+Neste habeas corpus, o Impetrante alega, em suma, a ausência dos requisitos e de fundamentação idônea para a prisão preventiva, bem como a suficiência das medidas cautelares diversas da prisão. Destaca que nada consta da folha de antecedentes criminais do Paciente.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva, ainda que mediante a imposição de medidas cautelares alternativas.
+A Defesa requer sua intimação para realizar sustentação oral.
+É o relatório inicial. Decido o pedido urgente.
+A concessão da tutela de emergência, em juízo de cognição sumária e singular, exige a demonstração concomitante, e em grau bastante satisfatório, da plausibilidade do direito arguido e do perigo na demora. Este pode até ser admitido; aquela, ao revés, não se evidencia estreme de dúvidas, notadamente porque, consoante se extrai das informações prestadas pelo Juízo singular ao Tribunal de origem, foi indeferido pedido de revogação da custódia do Paciente tendo em vista que "o acusado responde a outro processo por crime de homicídio tentado  .. , além de inquérito policial por porte de arma" (fl. 106), fundamentação que, prima facie, não se mostra ilegal ou desarrazoada.
+Nesse contexto, mostra-se indevida, especialmente nessa fase preliminar, a aplicação de medidas cautelares diversas da prisão quando a segregação encontra-se justificada e mostra-se imprescindível para acautelar o meio social, evidenciando que providências menos gravosas não seriam suficientes para garantir a ordem pública.
+Conclui-se, assim, que o caso em análise não se enquadra nas hipóteses excepcionais passíveis de deferimento do pedido em caráter de urgência, por não veicular situação configuradora de abuso de poder ou de manifesta ilegalidade sanável no presente juízo perfunctório, devendo a controvérsia ser decidida após a tramitação completa do feito.
+Ante o exposto, INDEFIRO o pedido de liminar.
+Requisitem-se informações pormenorizadas ao Juízo de primeira instância sobre a situação prisional do Paciente e o atual estágio da ação penal. As informações deverão ser instruídas com cópias de todas as eventuais decisões que mantiveram a custódia processual e a SENHA de acesso ao processo eletrônico.
+Após, remetam-se os autos ao Ministério Público Federal para o parecer.
+Para conhecimento, notifico que a data de eventual julgamento colegiado será informada no site do Superior Tribunal de Justiça, com até 48 (quarenta e oito) horas de antecedência, devendo os Advogados observarem os procedimentos das sessões previstos na Resolução STJ/GP n. 9, de 25 de março de 2022.
+Publique-se. Intimem-se.
