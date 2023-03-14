@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por CLAUDIOMIRO DA COSTA DUTRA contra a decisão que conheceu de seu agravo para negar provimento ao recurso especial.
+Nestes embargos declaratórios, o embargante sustenta que a decisão foi omissa, alegando que, "não obstante Vossa Excelência ter julgado o mérito do recurso especial, deixou de enfrentar o dissídio jurisprudencial sustentado pelo embargante com fundamento na alínea "c", do inciso III, do art. 105, da Constituição da República" (e-STJ fl. 971). Ao final, requer seja sanado o referido vício e analisado o dissídio jurisprudencial.
+É o relatório. Decido.
+Os embargos de declaração, no processo penal, são oponíveis com fundamento na existência de ambiguidade, obscuridade, contradição e/ou omissão no decisum embargado. Por isso, não constituem instrumento adequado para demonstração de inconformismos da parte com o resultado do julgado e/ou para formulação de pretensões de modificações do entendimento aplicado, salvo quando, excepcionalmente, cabíveis os efeitos infringentes.
+A mera irresignação com o resultado do julgamento, visando, assim, à reversão do que já foi regularmente decidido, não tem o condão de viabilizar a oposição dos aclaratórios.
+A despeito dos argumentos expendidos, é certo que a decisão embargada analisou as questões submetidas ao crivo desta Corte de forma fundamentada e com clareza, nos limites necessários e possíveis à solução da lide.
+Na hipótese, o agravo foi conhecido para negar provimento ao recurso especial com base na jurisprudência atual deste Tribunal Superior, segundo a qual "no que concerne às investigações relativas a pessoas com foro por prerrogativa de função, tem-se que, embora possuam a prerrogativa de serem processados perante o tribunal, a lei não excepciona a forma como se procederá à investigação, devendo ser aplicada, assim, a regra geral trazida no art. 5º, inciso II, do Código de Processo Penal, a qual não requer prévia autorização do Judiciário. "A prerrogativa de foro do autor do fato delituoso é critério atinente, de modo exclusivo, à determinação da competência jurisdicional originária do tribunal respectivo, quando do oferecimento da denúncia ou, eventualmente, antes dela, se se fizer necessária diligência sujeita à prévia autorização judicial" (Pet 3825 QO, Relator p/ acórdão: Min. Gilmar Mendes, Pleno, julgado em 10/10/2007). Precedentes do STF e do STJ" (RHC n. 79.910/MA, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 26/3/2019, DJe 22/4/2019). Assim, há razões para tratar do dissídio.
+Nesse sentido:
+AGRAVO INTERNO EM RECURSO ESPECIAL. PROCESSO CIVIL. ART. 523 DO CPC. MULTA. BASE DE CÁLCULO. INCIDÊNCIA SOBRE O VALOR DEPOSITADO, E CONTROVERSO. POSSIBILIDADE. AUSÊNCIA DE PAGAMENTO ESPONTÂNEO. POSSIBILIDADE. PRECEDENTES. DISSÍDIO JURISPRUDENCIAL SOBRE O MESMO TEMA. MÉRITO FAVÓRAVEL AO RECORRENTE. PREJUDICADO. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+2. Como o recurso especial fundado na alínea "c" do permissivo constitucional está baseado no mesmo tema cujo mérito foi solucionado em favor do recorrente, fica prejudicado seu exame, por ausência de interesse recursal.
+3. Agravo interno não provido.
+(AgInt nos EDcl no REsp n. 1.929.447/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 13/12/2021, DJe de 15/12/2021.)
+Logo, não há razões para se falar em nenhuma omissão.
+Percebe-se, isso sim, que há uma insatisfação da parte quanto ao resultado do julgamento e a pretensão de modificá-lo por meio de instrumento processual nitidamente inábil à finalidade almejada.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
