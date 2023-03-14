@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de CARLOS GABRIEL DOS SANTOS e FERNANDO RAMIRO FERREIRA apontando como autoridade coatora o Tribunal de Justiça do Estado de Mato Grosso do Sul (Apelação Criminal n. 0011222-82.2020.8.12.0800).
+A controvérsia foi bem relatada no parecer ministerial, in verbis (e-STJ fl. 682):
+Trata-se de habeas corpus impetrado contra acórdão do Tribunal de origem que negou provimento à apelação criminal, tendo reduzido a pena do paciente de ofício.
+Em síntese, pleiteia-se a exclusão do acórdão condenatório - já transitado em julgado - do valor fixado na sentença a título de reparação mínima dos danos causados às vítimas, na forma do artigo 387-IV do Código Penal. Para tanto, sustenta ausência de fundamentação e arcabouço probatório mínimo a justificar a indenização fixada.
+E opinou, em parecer assim ementado (e-STJ fl. 681):
+Habeas Corpus impetrado como sucedâneo de revisão criminal. Roubo majorado (artigo 157-§2Q e §2Q-A-I do Código Penal).
+I - Descabimento de habeas corpus. Pretensão que não se amolda ao artigo 621 do Código de Processo Penal, reclama o enfrentamento de matéria per saltum e desvirtua a finalidade própria da ação mandamental.
+II - O artigo 387-IV do CPP estabelece a possibilidade de que, na própria sentença condenatória, o juiz fixe um valor mínimo para a reparação dos danos - materiais e morais - causados pela infração.
+III - Evidenciada ofensa à intimidade e dignidade das vítimas, cabível a fixação de reparação mínima dos danos morais sofridos, sendo descabido infirmar, pela via excepcional do habeas corpus, as premissas fáticas que ensejaram a decisão. Providência que reclama aprofundado revolvimento de fatos e provas.
+- Promoção pelo não conhecimento do writ, ou, caso conhecido, pela denegação da ordem.
+É o relatório.
+Decido.
+Não assiste razão aos pacientes.
+É que a jurisprudência mais recente do Superior Tribunal de Justiça entende ser cabível a fixação de valor mínimo a título de dano moral devido à vítima, desde que haja pedido expresso do Ministério Público ou do ofendido, independentemente da indicação de valor e da instrução probatória específica, como ocorreu no caso dos autos.
+A propósito, confiram-se:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ART. 387, IV. DO CPP. PEDIDO INDENIZATÓRIO FORMULADO NA DENÚNCIA. FIXAÇÃO DE VALOR MÍNIMO A TÍTULO DE DANOS MORAIS. INDICAÇÃO DE VALOR A SER FIXADO.
+1. "A fixação de valor mínimo para reparação dos danos morais causados pela infração exige apenas pedido expresso na inicial, sendo desnecessárias a indicação de valor e a instrução probatória específica. No caso dos autos, como houve o pedido de indenização por danos morais na denúncia, não há falar em violação ao princípio do devido processo legal e do contraditório, pois a Defesa pôde se contrapor desde o início da ação penal" (AgRg no REsp 1940163/TO, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 22/02/2022, DJe 03/03/2022).
+2. Ademais, conforme afirmado pelo Tribunal de origem, "o valor fixado pelo juízo a quo - de três mil reais, baseado nas declarações judiciais da vítima - divergiu do termo de avaliação realizado em delegacia e do depoimento extrajudicial do ofendido (segundo os quais o prejuízo foi na ordem de R$ 1.300,00)", ressaltando a sentença, outrossim, que houve impugnação específica da defesa sobre o ponto, não havendo falar-se em desrespeito aos princípios do contraditório e da ampla defesa, e, ainda, na ocorrência de prejuízo processual, mormente porque houve uma redução do quantum condenatório.
+3. Agravo regimental improvido.
+(AgRg no REsp n. 1.973.602/SC, relator Ministro Olindo Menezes, Desembargador Convocado do TRF 1ª Região, Sexta Turma, julgado em 9/8/2022, DJe de 15/8/2022, grifei.)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PROCESSUAL PENAL. LATROCÍNIO. DANOS MORAIS. ACUSADO ASSISTIDO PELA DEFENSORIA PÚBLICA. EXCLUSÃO DA OBRIGAÇÃO DE INDENIZAR. INEXISTÊNCIA DE PREVISÃO LEGAL. ART. 387, INCISO IV, DO CÓDIGO DE PROCESSO PENAL. FIXAÇÃO DE DANOS MORAIS. DESNECESSIDADE DE INSTRUÇÃO PROBATÓRIA PRÓPRIA. SUFICIÊNCIA DO PEDIDO DE INDENIZAÇÃO NA DENÚNCIA. VALOR. FIXAÇÃO FUNDAMENTADA. REVISÃO. SÚMULA N. 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Inexiste norma que exclua a obrigação do condenado criminalmente do dever de reparar os danos morais, em razão de que, na ação penal, a sua defesa foi promovida pela Defensoria Pública. Portanto, não prospera a alegação, trazida pela Defensoria tocantinense, no sentido de que o Agravante, por estar sendo por ela assistido, teria sua hipossuficiência presumida, sendo esse motivo causa de exclusão da obrigação de indenizar a família da Vítima do latrocínio, pelos danos morais sofridos em razão do crime por ele praticado.
+2. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que a fixação de valor mínimo para reparação dos danos morais causados pela infração exige apenas pedido expresso na inicial, sendo desnecessárias a indicação de valor e a instrução probatória específica. No caso dos autos, como houve o pedido de indenização por danos morais na denúncia, não há falar em violação ao princípio do devido processo legal e do contraditório, pois a Defesa pôde se contrapor desde o início da ação penal.
+3. O valor indenizatório foi fixado de forma fundamentada, com específica análise da extensão dos danos a serem indenizados ante a gravidade dos fatos no caso concreto. Nesse contexto, um novo debate acerca do valor indenizatório exigiria incursão no acervo fático-probatório, o que não é possível no recurso especial, conforme se extrai da Súmula n. 7/STJ.
+4. Agravo regimental desprovido.
+(AgRg no REsp n. 1.940.163/TO, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 22/2/2022, DJe de 3/3/2022, grifei .)
+Ante o exposto, tendo em vista que o acórdão recorrido está em consonância com o entendimento firmado neste Tribunal Superior, denego a ordem.
+Publique-se. Intim em-se.
