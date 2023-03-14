@@ -1,0 +1,16 @@
+DECISÃO
+TIC FRAMES EMPREENDIMENTOS IMOBILIÁRIOS SPE LTDA. opõe embargos de declaração à decisão de fls. 966-967, que não conheceu do agravo em recurso especial em razão da incidência da Súmula n. 182 do STJ .
+Em suas razões, a parte embargante alega a ocorrência de omissão.
+Sustenta que (fls. 973-974):
+A situação descrita nestes autos não desafia o óbice da Súmula 182 do e. Superior Tribunal de Justiça, ao passo que a ora embargante demonstrou, de forma inequívoca e específica que o acórdão recorrido violou o referido artigo de lei federal, mais especificamente no que toca o direito ao uso de estacionamento, bem como a divergência jurisprudencial na interpretação em casos análogos no que concerne tal direito.
+Requer o acolhimento dos embargos de declaração para que sejam reconhecidas as omissões apontadas no julgado, com efeitos infringentes.
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a aclarar obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado, o que não se verifica na espécie.
+No caso, não está configurada nenhuma das hipóteses autorizadoras dos aclaratórios.
+Observa-se que, nas razões recursais do agravo em recurso especial, a parte agravante deixou de impugnar especificamente o fundamento relativo à Súmula n. 83 do STJ, limitando-se a colacionar julgados com divergência entre órgãos fracionários da mesma Corte, reiterando as razões de mérito do recurso especial e a defender a inaplicabilidade das Súmulas n. 5 e 7 do STJ.
+A argumentação constante do agravo em recurso especial não constitui impugnação específica da aplicação da Súmula n. 83 do STJ, pois, segundo o entendimento do Superior Tribunal de Justiça, é necessária a efetiva demonstração de que o julgado apontado na decisão de inadmissão do recurso especial é inaplicável ao caso ou foi superado pela jurisprudência desta Corte, colacionando-se precedentes contemporâneos ou supervenientes, ou de que exista distinção entre a matéria versada nos autos e aquela utilizada para justificar a aplicação da referida súmula, o que não foi feito pela parte agravante.
+Nesse sentido: AgInt no AREsp n. 2.072.074/BA, relator Ministro Marco Buzzi, Quarta Turma, julgado em 23/6/2022, DJe de 2/8/2022; AgInt no AREsp n. 1.475.222/MG, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 28/10/2019, DJe de 30/10/2019; e AgInt no AREsp n. 1.999.923/PR, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 19/9/2022, DJe de 26/9/2022.
+A irresignação, portanto, caracteriza mero inconformismo com o resultado do julgamento, o que não se coaduna com a via eleita (EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 20/8/2014, DJe de 28/8/2014; e AgInt nos EDcl no REsp n. 1.986.324/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 29/8/2022, DJe de 1º/9/2022).
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação do STJ foi analisada, não padecendo o acórdão embargado dos vícios que autorizariam sua oposição.
+Ante o exposto, rejeito os embargos de declaração .
+Publique-se. Intimem-se.
