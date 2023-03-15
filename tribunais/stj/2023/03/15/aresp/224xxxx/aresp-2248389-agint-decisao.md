@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de agravo interno interposto por PORTOCRED S.A. CRÉDITO FINANCIAMENTO E INVESTIMENTO contra a decisão de fls. 501-503 (e-STJ), da Presidência desta Corte, que conheceu do agravo para não conhecer do recurso especial, com base no art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça, haja vista a ausência de similitude entre aos acórdãos apontados como paradigmas.
+O apelo extremo foi deduzido com base no art. 105, III, c, da Constituição Federal, em desafio a acórdão prolatado pelo Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado (e-STJ, fl. 219, grifos no original):
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO REVISIONAL. CONTRATO DE CRÉDITO PESSOAL.
+- Preliminar de prescrição. A pretensão de revisão de cláusulas contratuais e a consequente restituição dos valores pagos a maior, por serem fundadas em direito pessoal, prescrevem em dez anos, na forma do art. 205 do Código Civil. No caso, não transcorreu o prazo decenal entre a celebração do contrato e a propositura da ação. Preliminar rejeitada.
+- Preliminar de impossibilidade de revisão de contrato extinto. A revisão judicial de contratos bancários já quitados ou extintos é admitida pelo ordenamento jurídico, mostrando-se, portanto, possível a pretensão formulada na inicial, conforme Súmula286 do STJ. Prefacial desacolhida.
+- Juros remuneratórios. A aplicação de taxa substancialmente superior à média de mercado divulgada pelo BACEN (30% acima, conforme entendimento desta Câmara) é abusiva, sendo passível de limitação à referida taxa média. Na hipótese, há abusividade dos juros remuneratórios pactuados.
+- Repetição do indébito/compensação de valores. Cabimento da repetição do indébito, na forma simples, e compensação de valores diante das modificações impostas na revisão do contrato.
+APELAÇÃO DESPROVIDA, REJEITADAS AS PRELIMINARES. UNÂNIME.
+Os embargos de declaração opostos foram desacolhidos (e-STJ, fls. 238-241).
+Nas razões do recurso especial (e-STJ, fls. 249-263), fundado em dissídio jurisprudencial, a recorrente alegou que o acórdão impugnado incorreu em violação do art. 51, IV e § 1º, III, do Código de Defesa do Consumidor.
+Sustentou, em suma, a impossibilidade de declaração de abusividade da taxa de juros aplicada ao contrato de mútuo mediante mera comparação entre os juros contratados e a taxa média de mercado divulgada pelo Banco Central, "sem qualquer análise individualizada das peculiaridades do caso concreto" (fl. 255, e-STJ).
+Em razão do juízo prévio negativo de admissibilidade, a recorrente interpôs agravo (art. 1.042 do CPC/2015), do qual a Presidência desta Corte conheceu para não conhecer do recurso especial, uma vez que o dissídio jurisprudencial apontado não ter sido demonstrado nos termos do art. 1.029 do CPC/2015, haja vista a ausência de similitude entre os acórdãos confrontados.
+Neste agravo interno (fls. 505-510, e-STJ), a agravante pugna pela inaplicabilidade do óbice apontado para o não conhecimento de seu reclamo, ao tempo que repisa as mesmas razões trazidas no recurso especial.
+Ao final, requer a reconsideração da decisão agravada ou a apreciação do agravo interno pelo colegiado.
+Sem impugnação, conforme certificado à fl. 514 (e-STJ).
+É o relatório.
+Sustenta a parte agravante ter realizado o cotejo da decisão recorrida com as duas decisões paradigmas do STJ, defendendo a necessidade de que, em relação à taxa de juros remuneratórios, seja feita uma análise mais criteriosa do que a realizada na origem (e-STJ, fls. 508).
+Destarte, com fundamento no art. 259, § 6º, do RISTJ, reconsidero a decisão de fls. 501-503 (e-STJ).
+Passo à análise do agravo em recurso especial.
+De início, verifica-se que o recurso foi interposto na vigência do novo Código de Processo Civil. Sendo assim, sua análise obedecerá ao regramento nele previsto. Portanto, aplica-se, na hipótese, o Enunciado Administrativo n. 3, aprovado pelo Plenário desta Casa em 9/3/2016, segundo o qual "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Na hipótese ora em análise, o Tribunal de origem, ao dirimir a controvérsia, assim consignou (fls. 216-217, e-STJ, sem grifos no original):
+De acordo com o entendimento sedimentado pelo Superior Tribunal de Justiça, somente se verifica a abusividade quando os juros remuneratórios ultrapassam significativamente a taxa média de mercado divulgada pelo BACEN.
+(..)
+Importante referir que este Colegiado adotou como parâmetro para apuração da existência de abusividade na contratação sujeitada a revisão, a taxa média de mercado registrada pelo BACEN à época da contratação e em conformidade com a respectiva operação, acrescida do percentual de 30% (trinta por cento).
+Assim, quando os juros remuneratórios contratados superarem a taxa média mais30%, deve haver a revisão.
+No caso, não há abusividade no percentual de juros remuneratórios pactuados, pois a taxa média divulgada pelo BACEN, para as operações de crédito pessoal consignado para trabalhadores do setor público (cod. 25467 e 20745), no período (maio de 2012), era de 1,86% ao mês e 24,81% ao ano, a qual, acrescida da margem de tolerância de 30% adotada pela Câmara, totalizava o patamar de 2,41% e 32,25%, ao passo que a taxa contratada é de 7,00% ao mês e 125,22% ao ano.
+Todavia, deve ser mantida a taxa determinada pela sentença (2,12% ao mês), sob pena de reformatio in pejus.
+Desprovido no ponto.
+Dessa forma, a revisão das conclusões estaduais - acerca da constatação da abusividade das taxas de juros aplicadas ao contrato de mútuo celebrado entre as partes -, demandaria necessariamente a interpretação de cláusulas contratuais e o reexame do acervo fático-probatório dos autos, o que não se admite no âmbito do recurso especial, em virtude dos óbices das Súmulas 5 e 7/STJ.
+Quanto ao dissídio jurisprudencial, tendo o Tribunal local concluído com base no conjunto fático-probatório da causa, impossível se torna o confronto entre o paradigma e o acórdão recorrido, uma vez que a comprovação do alegado dissenso reclama consideração sobre a situação fático-probatória de cada julgamento, medida defesa nesta via excepcional, por força da Súmula n. 7 desta Corte.
+Diante do exposto, em juízo de reconsideração, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários sucumbenciais fixados em favor do patrono da parte recorrida em R$ 500,00 (quinhentos reais).
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO JULGADA PROCEDENTE. ABUSIVIDADE DA TAXAS DE JUROS. RECURSO FUNDADO EM DIVERGÊNCIA JURISPRUDENCIAL. RECONSIDERAÇÃO DAS DECISÕES DA PRESIDÊNCIA. NOVA ANÁLISE DO RECLAMO. REVISÃO DAS CONCLUSÕES ESTADUAIS. IMPOSSIBILIDADE. NECESSIDADE DE INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E DO REEXAME DO ACERVO FÁTIVO-PROBATÓRIO DOS AUTOS. SÚMULAS 5 E 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO CONHECIDO, EM JUÍZO DE RECONSIDERAÇÃO, PARA NÃO CONHECER DO RECURSO ESPECIAL.
