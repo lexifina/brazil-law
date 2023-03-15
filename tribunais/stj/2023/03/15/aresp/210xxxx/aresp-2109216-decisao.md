@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BANCO DO BRASIL S/A, contra decisão que inadmitiu o recurso especial com fundamento na Súmula n. 282 do STF e na deficiência de dissídio jurisprudencial.
+Alega o agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, foi interposto contra acórdão do Tribunal de Justiça do Estado do Paraná (Apelação Cível n. 0003268-83.2016.8.16.0130) assim ementado (fl. 1.510):
+APELAÇÃO CÍVEL. AÇÃO REVISIONAL, CUMULADA COM REPETIÇÃO DE INDÉBITO. PRESCRIÇÃO. AÇÃO DE NATUREZA PESSOAL. PRAZO PRESCRICIONAL DECENAL (CC, ARTIGO 205) AFASTADO. TERMO INICIAL DO PRAZO QUE SE DÁ COM O VENCIMENTO DA ÚLTIMA PARCELA. CONTRATO DE TRATO SUCESSIVO PRECEDENTES. ALEGADA OCORRÊNCIA DE SENTENÇA EXTRA PETITA AO CONCEDER DIREITO DE REPETIÇÃO OU COMPENSAÇÃO À PARTE AUTORA, QUE NÃO TERIAM SIDO REQUERIDOS. NÃO RECONHECIDO. MERA CONSEQUÊNCIA DO PROVIMENTO DO PLEITO REVISIONAL, SOB PENA DE ENRIQUECIMENTO INDEVIDO DO REQUERIDO. PLEITO DE MANUTENÇÃO DO ÍNDICE IPC (84,32%) EM DESFAVOR DO ÍNDICE BTNF(41,28%) PARA O PERÍODO DE MARÇO DE 1.990. DESCABIMENTO. JURISPRUDÊNCIA CONSOLIDADA DO E. STJ. SENTENÇA MANTIDA. HONORÁRIOS RECURSAIS. RECURSO DESPROVIDO.
+Nas razões do recurso especial, o ora agravante alega ofensa ao art. 940 do Código Civil. Argumenta que a restituição prevista no dispositivo somente incide quando o credor cobra débito já adimplido, o que não é o caso dos autos.
+Indica divergência jurisprudenc ial com julgado do Superior Tribunal de Justiça.
+Requer o conhecimento e provimento do recurso.
+Contrarrazões às fls. 1.582-1.601.
+É o relatório. Decido.
+O recurso não merece prosperar.
+Com relação à alegada ofensa ao art. 940 do Código Civil, verifica-se que a matéria tratada no referido dispositivo não foi objeto de análise pelo acórdão recorrido, nem foram opostos embargos de declaração para provocar o tribunal a tratar do tema, sendo, portanto, inviável seu conhecimento em virtude da ausência do prequestionamento. Caso, pois, de aplicação da Súmula n. 282 do STF.
+Por fim, não é possível conhecer do recurso especial no que se refere à divergência jurisprudencial. Para a interposição de recurso especial fundado na alínea c do permissivo constitucional é necessário o atendimento dos requisitos essenciais para a comprovação do dissídio pretoriano, conforme prescrições dos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ. Isso porque não basta a simples transcrição da ementa dos paradigmas, pois, além de juntar aos autos cópia do inteiro teor dos arestos tidos por divergentes ou de mencionar o repositório oficial de jurisprudência em que foram publicados, deve a parte recorrente proceder ao devido confronto analítico, demonstrando a similitude fática entre os julgados, o que não foi atendido no caso.
+Ante o exposto, nego provimento ao agravo.
+Nos termos do § 11 do art. 8 5 do CPC, majoro os honorários advocatícios em desfavor da parte ora recorrente em 10% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido artigo.
+Publique-se. Intimem-se.
