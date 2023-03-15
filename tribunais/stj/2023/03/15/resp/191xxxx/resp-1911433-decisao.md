@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto por EWERTON LUIS COLEN DE SOUSA, com base na alínea a do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 287):
+Contratos Compromisso de compra e venda de imóvel Pré-contrato não fixa prazo de entrega de imóvel Prazo constante apenas do contrato de financiamento com vendedora e CEF Atraso caracterizado Diferença entre preço informado e contratado reflete correção monetária Correção apenas preserva valor e não é indenizável Juros de obra após atraso indenizáveis ( súm. 163 do TJSP) Demora não ofendeu direito da personalidade Dano moral não configurado Devida indenização por não-fruição do imóvel (súm. 162 do TJSP) Dano material de 0,5% do preço corrigido por mês de atraso Sucumbência redistribuída proporcionalmente Recursos parcialmente providos.
+Opostos embargos de declaração, o aresto recorrido foi integralizado pela seguinte ementa (e-STJ, fl. 310):
+Embargos de Declaração  Suposta ofensa a tese fixada pelo e. STJ  Ausência de vicio ensejador de embargos de declaração  Dispositivo prequestionado em consequência de sua menção na peça dos embargos (CPC 1.025)  Embargos rejeitados.
+Nas razões do recurso, o recorrente alega violação aos arts. 927, III, e 928, II, do CPC/2015; e 54, § 4º, do CDC.
+Sustenta que, estabelecendo o contrato de promessa de compra e venda prazo certo para a entrega do imóvel, é vedada sua vinculação à concessão do financiamento imobiliário.
+Afirma que, nesse caso, o termo inicial dos lucros cessantes é a data da assinatura do contrato.
+Defende que o acórdão recorrido descumpriu com tese firmada em julgamento de recurso repetitivo pelo Superior Tribunal de Justiça.
+Assevera que a medida transfere para o consumidor o risco do negócio e viola o dever de informação.
+Sendo assim, requer o provimento do presente recurso especial.
+Contrarrazões às fls. 316-324 (e-STJ).
+Decisão de admissibilidade às fls. 325-327 (e-STJ).
+Brevemente relatado, decido.
+De início, é importante ressaltar que o presente recurso foi interposto contra decisão publicada já na vigência do Novo Código de Processo Civil, sendo, desse modo, aplicável ao caso o Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A respeito da tese defendida pelo recorrente, o Tribunal de origem assim se manifestou (e-STJ, fls. 289-290):
+Quanto ao atraso, com razão a vendedora. Embora a r. sentença tenha registrado que "o contrato previu a entrega do imóvel para junho de 2011" (fls. 224), verifica-se dos instrumentos de fls. 37/40e 208/11, em especial do quadro-resumo de fls. 208, que não houve qualquer especificação da data de entrega do imóvel.
+Deve-se, assim, empregar a data constante do contrato de financiamento celebrado com a Ré e a CEF (fls. 43/72), qual seja, 19 meses após a celebração do contrato de financiamento com a CEF em 23.11.2011 (cf. item B4, fls. 44), prorrogável por mais 60 dias (cf. cláusula 5ª, § 2º, fls. 48), resultando na data 23.08.2013. Dado que o imóvel foi entregue apenas em 12.05.2014 (fls. 182), depreende-se que o atraso deu-se no ínterim entre essas datas.
+Do excerto acima transcrito, depreende-se que o Tribunal estadual entendeu que, inexistindo a fixação no contrato de promessa de compra e venda da data para a entrega do imóvel, deve-se considerar como termo a quo o dia da celebração do contrato de financiamento com a instituição financeira.
+Todavia, o posicionamento adotado pela Corte local diverge da jurisprudência firmada em julgamento de recurso repetitivo, a qual se manifesta no sentido de que, na aquisição de imóvel, o prazo para a entrega deve estar devidamente estabelecido no contrato de promessa de compra e venda, o qual não poderá estar atrelado à concessão de financiamento ou de nenhum outro negócio jurídico.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. COMPRA E VENDA. IMÓVEL. ENTREGA. ATRASO. DISPOSITIVOS CONSTITUCIONAIS. EXAME. INVIABILIDADE. PRAZO. VINCULAÇÃO. FINANCIAMENTO. IMPOSSIBILIDADE. LUCROS CESSANTES. DANOS MORAIS. DISPOSITIVO LEGAL. INDICAÇÃO. AUSÊNCIA. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284/STF. CONJUNTO FÁTICO-PROBATÓRIO E CLÁUSULAS CONTRATUAIS. REEXAME. IMPOSSIBILIDADE. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não cabe ao Superior Tribunal de Justiça, em recurso especial, a análise de ofensa a dispositivos constitucionais, cuja competência é do Supremo Tribunal Federal, consoante o disposto no art. 102 da Constituição Federal.
+3. A jurisprudência do Superior Tribunal de Justiça firmou entendimento no sentido de que, no contrato de compra e venda de unidades autônomas em construção, não é possível vincular o prazo de entrega do imóvel à concessão de financiamento ou qualquer outro negócio jurídico, devendo ser estipulado prazo certo, de forma clara, expressa e inteligível.
+4. É inadmissível o inconformismo por deficiência na sua fundamentação quando o recurso especial deixa de indicar qual dispositivo legal teria sido violado ou objeto de interpretação divergente. Aplicação da Súmula nº 284/STF.
+5. Na hipótese, acolher a tese pleiteada pela parte agravante exigiria exceder os fundamentos do acórdão impugnado e adentrar no exame das provas e cláusulas contratuais, procedimentos vedados em recurso especial, a teor das Súmulas nºs 5 e 7/STJ.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.008.992/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 29/8/2022, DJe de 31/8/2022.)
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. PROMESSA DE COMPRA E VENDA. ATRASO NA ENTREGA DO IMÓVEL. REPACTUAÇÃO DO PRAZO. IMPOSSIBILIDADE DE VINCULAÇÃO DO PRAZO DE ENTREGA DA OBRA À CONCESSÃO DO FINANCIAMENTO. RECURSO REPETITIVO. TEMA 996. AGRAVO INTERNO NÃO PROVIDO.
+1. Na linha da jurisprudência do Superior Tribunal de Justiça, consolidada em sede de julgamento de recurso repetitivo representativo de controvérsia (Tema 996), "na aquisição de unidades autônomas em construção, o contrato deverá estabelecer, de forma clara, expressa e inteligível, o prazo certo para a entrega do imóvel, o qual não poderá estar vinculado à concessão do financiamento, ou a nenhum outro negócio jurídico, exceto o acréscimo do prazo de tolerância" (REsp 1729593/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 25/09/2019, DJe de 27/09/2019).
+2. Agravo interno a que se nega provimento.
+(AgInt no AgInt no AREsp n. 1.507.011/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 11/5/2020, DJe de 25/5/2020.)
+Ante o exposto, dou provimento ao recurso especial, a fim de determinar o retorno dos autos à origem para que realize novo julgamento da apelação interposta pela parte recorrente , aplicando os parâmetros estabelecidos pelo REsp 1.729.593/SP.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. CONTRATO DE PROMESSA DE COMPRA E VENDA. AUSÊNCIA DE FIXAÇÃO DE PRAZO PARA ENTREGA DO IMÓVEL. VINCULAÇÃO AO CONTRATO DE FINANCIAMENTO. ILEGALIDADE. TESE FIRMADA NO RESP 1.729.593/SP. RECURSO ESPECIAL PROVIDO.
