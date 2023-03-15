@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão proferido pelo TJSP assim ementado (e-STJ fl. 331):
+ASSISTÊNCIA JUDICIÁRIA - Pessoa jurídica sem fins lucrativos - Pedido de aplicação do art. 51 do Estatuto do Idoso - Descabimento - A agravante não presta serviço exclusivamente em favor de idosos - Ausência de demonstração de insuficiência econômica para suportar as custas e despesas processuais - Inviabilidade de deferimento do benefício - RECURSO NÃO PROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 345/348).
+No recurso especial (e-STJ fls. 350/381), fundamentado no art. 105, III, "a" e "c", da CF, a recorrente alega, além de divergência jurisprudencial, ofensa aos arts. 489, § 1º e 1.022, I e II, do CPC/2015, e 2º, 3º e 51 da Lei n. 10.741/2003 (Estatuto do Idoso).
+Busca o deferimento do benefício da assistência judiciária gratuita.
+Sustenta que "o Estatuto do Idoso é Lei Especial, bem como que o seu artigo 51 garante o direito a assistência judiciária gratuita às instituições nela previstas, como é o caso da recorrente, e que esse direito deve ser respeitado e aplicado com prioridade pelo Estado e ela sociedade, por força dos artigos 2º e 3º destes Estatutos, sendo o artigo 98 do CPC inaplicável a presente demanda, porém a decisão recorrida foi omissa e contraditória" (e-STJ fl. 358).
+Afirma que "a decisão vergastada foi contraditória e ao mesmo tempo omissa ao afirmar que o atendimento prestado pela recorrente às crianças, jovens e adultos nas suas unidades localizadas em outras cidades afastaria o direito garantido pelo Estatuto do Idoso, de modo que também deixou de aplicar o disposto nos artigos 2º e 3º desta lei especial" (e-STJ fl. 360).
+Defende que "se enquadra e atende todas as exigências do Estatuto do Idoso, de modo que não está obrigada a comprovar sua impossibilidade financeira de arcar com os encargos processuais, vez que as exigências constantes do artigo 98 do CPC não se aplicam à recorrente, cujo benefício está garantido p elo artigo 51 da Lei especial 10.741/2003, que não veda, nem impede que a beneficiária da assistência judiciária gratuita ajude pessoas diversas dos idosos nas outras unidades que mantém no Brasil" (e-STJ fl. 370).
+Foram apresentadas contrarrazões (e-STJ fls. 392/404).
+O recurso foi admitido na origem (e-STJ fls. 405/406).
+É o relatório.
+Decido.
+A Corte local, com base nos fatos e nas provas dos autos, assim decidiu (e-STJ fls. 332/333):
+Em se tratando de pessoa jurídica, conquanto não se negue a possibilidade de concessão da justiça gratuita, é imprescindível que reste demonstrada a impossibilidade de arcar com os encargos processuais.
+Nesse sentido, confira-se a Súmula 481 do Superior Tribunal de Justiça:
+"Faz jus ao benefício da justiça gratuita a pessoa jurídica com ou sem fins lucrativos que demonstrar sua impossibilidade de arcar com os encargos processuais".
+É certo que tal regra é excepcionada pelo art. 51 da Lei nº 10.741/2003 que dispõe que: "As instituições filantrópicas ou sem fins lucrativos prestadoras de serviço ao idoso terão direito à assistência judiciária gratuita".
+Com efeito, o referido dispositivo legal não exige, de instituições filantrópicas prestadoras de serviço ao idoso, comprovação de dificuldade financeira para concessão do benefício da justiça gratuita.
+Ocorre que a agravante não presta serviço exclusivamente em favor de idosos, de modo que não se enquadra no art.51 da Lei nº 10.741/2003.
+Nesse sentido:
+"GRATUIDADE DA JUSTIÇA - Impugnação ao deferimento do benefício - Acolhimento - A ré não presta serviço exclusivamente em favor de idosos, não se enquadrando na previsão do art. 51 do Estatuto do Idoso- Ademais, há indícios de suficiência de recursos para pagamento das custas, despesas processuais e honorários advocatícios - Benefício revogado" (Apelação Cível 1000875-43.2019.8.26.0274; Relator (a): Elcio Trujillo; Órgão Julgador: 10ª Câmara de Direito Privado; Foro de Itápolis - 2ª Vara; Data do Julgamento:26/08/2020; Data de Registro: 26/08/2020).
+"Justiça gratuita Ação monitória Pessoa jurídica Não demonstrada a hipossuficiência financeira alegada, necessária a autorizar a gratuidade da justiça - Caso em que não é necessário, no atual momento, o recolhimento de valor significativo na demanda originária Inaplicabilidade do art. 51 do Estatuto do Idoso - Inexistência de atendimento exclusivo a idosos Concessão do benefício à agravante que não se legitima Agravo desprovido"(AgravodeInstrumento2004973-66.2020.8.26.0000; Relator (a): José Marcos Marrone; Órgão Julgador: 23ª Câmara de Direito Privado; Foro Central Cível - 19ª Vara Cível; Data do Julgamento:31/01/2020; Data de Registro: 31/01/2020).
+Portanto, considerando que a agravante não demonstrou sua impossibilidade de arcar com os encargos processuais, incabível a concessão assistência judiciária gratuita.
+Ante o exposto, pelo meu voto, nego provimento ao recurso.
+Tendo como referência a norma geral, é sabido que as pessoas jurídicas, inclusive as instituições filantrópicas ou sem fins lucrativos, a fim de pleitearem o direito aos benefícios da justiça gratuita, necessitam demonstrar sua condição de hipossuficiência, em conformidade não apenas com o que determina a Súmula n. 481/STJ, segundo a qual "faz jus ao benefício da justiça gratuita a pessoa jurídica com ou sem fins lucrativos que demonstrar sua impossibilidade de arcar com os encargos processuais", mas também com o parágrafo 3º do art. 99 do CPC, o qual estabelece que se presume "verdadeira a alegação de insuficiência deduzida exclusivamente por pessoa natural".
+No entanto, diante da peculiaridade demonstrada no caso dos autos - de a parte recorrente ser prestadora de serviços voltados aos idosos - e pelo princípio da especialidade, é de se aplicar a legislação especial que rege o caso, qual seja, a Lei n. 10.741/2003 - Estatuto do Idoso -, que prevê em seu art. 51 o seguinte:
+Art. 51. As instituições filantrópicas ou sem fins lucrativos prestadoras de serviço ao idoso terão direito à assistência judiciária gratuita.
+Nos termos da mencionada norma, é suficiente que se trate de entidade com natureza filantrópica ou sem fins lucrativos e que preste serviços à pessoa idosa, independentemente de comprovação do seu estado de hipossuficiência.
+Na hipótese dos autos, revela-se incontroverso que a recorrente se enquadra em tais requisitos.
+Nesse mesmo sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. ASSOCIAÇÃO SEM FINS LUCRATIVOS PRESTADORA DE SERVIÇOS HOSPITALARES. CONCESSÃO DA JUSTIÇA GRATUITA. REQUISITOS PREVISTOS NO ART. 51 DA LEI N. 10.741/2003 (ESTATUTO DO IDOSO). HIPOSSUFICIÊNCIA FINANCEIRA. DEMONSTRAÇÃO. DESNECESSIDADE. EXIGÊNCIA DE SE TRATAR DE ENTIDADE FILANTRÓPICA OU SEM FINS LUCRATIVOS DESTINADA À PRESTAÇÃO DE SERVIÇOS À PESSOA IDOSA.
+1. Segundo o art. 98 do CPC, cabe às pessoas jurídicas, inclusive as instituições filantrópicas ou sem fins lucrativos, demonstrar sua hipossuficiência financeira para que sejam beneficiárias da justiça gratuita. Isso porque, embora não persigam o lucro, este pode ser auferido na atividade desenvolvida pela instituição e, assim, não se justifica o afastamento do dever de arcar com os custos da atividade judiciária.
+2. Como exceção à regra, o art. 51 da Lei n. 10.741/2003 (Estatuto do Idoso) elencou situação específica de gratuidade processual para as entidades beneficentes ou sem fins lucrativos que prestem serviço à pessoa idosa, revelando especial cuidado do legislador com a garantia da higidez financeira das referidas instituições.
+3. Assim, não havendo, no art. 51 do Estatuto do Idoso, referência à hipossuficiência financeira da entidade requerente, cabe ao intérprete verificar somente o seu caráter filantrópico e a natureza do público por ela atendido.
+4. Recurso especial provido.
+(REsp n. 1.742.251/MG, relator Ministro Sergio Kukina, Primeira Turma, julgado em 23/08/2022, DJe de 30/08/2022.)
+Ante o exposto, DOU PROVIMENTO ao recurso para conceder à recorrente o benefício d a gratuidade de justiça.
+Ficam prejudicadas as demais questões apresentadas no recurso especial.
+Publique-se e intimem-se.
