@@ -1,0 +1,26 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especial interposto por UNA EMPREENDIMENTOS IMOBILIÁRIOS LTDA contra decisão do Tribunal de Justiça do Estado de Minas Gerais que não admitiu recurso especial manejado contra acórdão assim ementado:
+EMENTA: RECURSO DE APELAÇÃO -AÇÃO DE COBRANÇA -LEGITIMIDADE PASSIVA AD CAUSAM-DÍVIDA CONDOMINIAL -DEFINIÇÃO DA RESPONSABILIDADE PELO PAGAMENTO -RELAÇÃO JURÍDICA MATERIAL COM O IMÓVEL -CONTRATO DE COMPRAE VENDA -NECESSIDADE DE COMPROVAÇÃO DA IMISSÃO NA POSSE E CIÊNCIA INEQUÍVOCA DO CONDOMÍNIO ACERCA DA TRANSAÇÃO -PRECEDENTES DO STJ -MULTA -COBRANÇA DEVIDA -LITIGÂNCIA DE MÁ-FÉ -CARACTERIZAÇÃO.-A legitimidade das partes é uma das condições da ação e consubstancia-se quando constatado que o autor é o possível titular do direito postulado e o réu a pessoa responsável por suportar eventual condenação. -O que define a responsabilidade pelo pagamento das obrigações condominiais não é o registro do compromisso de compra e venda, mas a relação jurídica material com o imóvel, representada pela imissão na posse pelo promissário comprador e pela ciência inequívoca do condomínio acerca da transação. (REsp 1345331/RS)-Se ficar comprovado: (i) que o promissário comprador se imitira na posse; e (ii) o condomínio teve ciência inequívoca da transação, afasta-se a legitimidade passiva do promitente vendedor para responder por despesas condominiais relativas a período em que a posse foi exercida pelo promissário comprador. -Diante da existência de expressa previsão regimental, imperativa é a manutenção da imposição de multa pela conduta da demandada. -Verificada a alteração na verdade dos fatos, a confirmação da multa por litigância de má-fé é medida que se impõe.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial a parte alegou ofensa aos artigos 104, 389, 402, 403 do Código Civil, sustentando, em síntese, que a responsabilidade da construtora com as despesas condominiais se encerra com a entrega da unidade ao comprador.
+É o relatório.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+No que tange à alegada violação aos artigos apontados, tem-se que sobre a matéria de que tratam não houve emissão de juízo pelo acórdão recorrido, tampouco oposição dos embargos de declaração, fazendo incidir a orientação disposta na Súmula 282 do STF.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. 1. FALTA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 DO STF E 211 DO STJ. 2. LEGITIMIDADE PASSIVA. CADEIA DE FORNECEDORES. RESPONSABILIDADE SOLIDÁRIA. SÚMULA 83/STJ. 3. AGRAVO IMPROVIDO.
+1. O prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial. Incidem, por analogia, o enunciado n. 282 do STF bem como a Súmula 211 do STJ.
+2.  ..
+3. Agravo interno a que se nega provimento.(AgInt no REsp 1738902/AC, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 24/09/2018, DJe 27/09/2018)
+AGRAVO INTERNO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL. INSURGÊNCIA DA DEMANDADA.
+1. Não se admite o recurso especial, quando não tratada na decisão proferida pelo Tribunal de origem a questão federal suscitada, tampouco foram apresentados embargos de declaração para sanar eventual omissão ou prequestionar a matéria, ante a ausência do indispensável prequestionamento. Incidência da Súmula 282 do STF.
+2. Somente se admite o afastamento da Súmula 7 desta Corte, para reexaminar o montante fixado pelas instâncias ordinárias a título de danos morais, quando irrisório ou abusivo, circunstância inexistente no presente caso.
+3. Agravo interno desprovido.(AgInt no AgInt nos EDcl no AREsp 1111572/GO, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 02/10/2018, DJe 10/10/2018)
+No que concerne ao recurso interposto com base na alínea "c" do permissivo constitucional, observa-se que o recorrente não demonstrou o dissídio na forma como o exigem os arts. 1.029 do CPC e 255 do RISTJ, pois ausente a demonstração analítica da pretendida divergência, razão por que não conheço do especial com fundamento na alínea "c" do permissivo constitucional.
+Com fundamento no art. 85, § 11, do CPC, majoro o percentual dos honorários sucumbenciais a que condenado o recorrente na origem em 4%, totalizando 19% sobre o valor atualizado da condenação, observada a eventual e anterior concessão da gratuidade judiciária.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Advirto as partes que a oposição de incidentes manifestamente improcedentes e protelatórios dará azo à aplicação das penalidades legalmente previstas.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. DESPESAS CONDOMINIAIS. NÃO ENFRENTAMENTO DA MATÉRIA DE QUE TRATA A NORMA FEDERAL TIDA POR VIOLADA. NÃO OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. INCIDÊNCIA DA SÚMULA 282/STF. DISSÍDIO NÃO DEMONSTRADO.
+AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL, COM MAJORAÇÃO DOS HONORÁRIOS.
