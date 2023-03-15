@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de recurso extraordinário (fls. 297-312) interposto por GERSON MALLMANN, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça que recebeu a seguinte ementa (fl. 261):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE RÉ.
+1. Segundo a tese fixada no julgamento do recurso repetitivo, "o rol do art. 1.015 do CPC é de taxatividade mitigada, por isso admite a interposição de agravo de instrumento quando verificada a urgência decorrente da inutilidade do julgamento da questão no recurso de apelação" (REsp 1.704.520/MT, Rel. Ministra NANCY ANDRIGHI, CORTE ESPECIAL, julgado em 5/12/2018, DJe 19/12/2018)
+1.1. Verificar se há ou não a urgência da matéria discutida no agravo de instrumento, demandaria o inevitável reexame dos fatos e provas constantes dos autos, providência que esbarra no óbice estabelecido pela Súmula 7 desta Corte.
+2. A subsistência de fundamento inatacado, apto a manter as conclusões do aresto impugnado, impõe o reconhecimento da incidência da Súmula 283 STF, por analogia. Precedentes. 2.1. Mesmo que ultrapassado o referido óbice, rever a conclusão do Tribunal de origem no sentido da inexistência de prejudicialidade externa demandaria, inevitavelmente, o exame do contexto fático-probatório dos autos, atraindo o óbice da Súmula 7/STJ.
+3. Agravo interno desprovido.
+Os embargos de declaração foram rejeitados (fls. 289-292).
+A parte recorrente sustenta, no recurso extraordinário, que teria havido violação dos arts. 5º, XXXV, e 93, IX, da CF e que a matéria tratada seria dotada de repercussão geral.
+Nesse sentido, defende que haveria negativa de prestação jurisdicional, ante a ausência de análise do mérito recursal, em razão da aplicação supostamente indevida das Súmulas n. 7 do STJ e 283 do STF.
+Em relação à matéria de fundo, aduz ofensa ao art. 1.015 do Código de Processo Civil, pois teria havido o conhecimento do agravo de instrumento fora das hipóteses legais, bem como ao art. 313, V, a, do CPC, ao argumento de que haveria prejudicialidade externa apta a ensejar a suspensão do processo.
+Requer, ao final, a admissão do recurso, bem como a remessa ao Supremo Tribunal Federal.
+Contrarrazões apresentadas às fls. 325-342.
+É o relatório.
+Quanto à questão da correta fundamentação das decisões judiciais, o STF firmou tese vinculante segundo a qual:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão (QO no Ag n. 791.292/PE).
+Em suma, apenas a ausência de fundamentação possibilitaria a apreciação do caso pela Suprema Corte, o que não ocorre quando há fundamentos, ainda que a parte não os considere corretos, completos ou os entenda demasiadamente sucintos.
+No caso, foram declinados os motivos pelos quais o agravo interno foi improvido, mantendo-se a decisão de não provimento do agravo em recurso especial, valendo destacar os seguintes trechos (fls. 263-266):
+Com efeito, a polêmica gerada ao redor da norma do artigo 1.015 do Código de Processo Civil vigente foi dirimida por colendo Superior Tribunal de Justiça, cujo entendimento assentado, através do rito dos recursos especiais repetitivos (Tema 988), estabeleceu ser a taxatividade mitigada diante da urgência do caso, nos termos da seguinte tese:
+O rol do art. 1.015 do CPC é de taxatividade mitigada, por isso admite a interposição de agravo de instrumento quando verificada a urgência decorrente da inutilidade do julgamento da questão no recurso de apelação.
+Verifica-se que a Corte Estadual, a partir do exame do acervo fático e probatório dos autos, concluiu que "tem-se presente a urgência na análise do tema, considerando o potencial prejuízo da interlocutória agravada para a entrega jurisdicional na primeira instância, pois o processo ficaria aguardando o julgamento de outras duas demandas".
+Alterar as conclusões do Tribunal de piso e acolher o inconformismo recursal no sentido de verificar a urgência da matéria discutida no agravo de instrumento, demandaria o inevitável reexame dos fatos e provas constantes dos autos, providência que esbarra no óbice estabelecido pela Súmula 7 desta Corte.
+ ..
+2. Insurge o recorrente, ainda, quanto a incidência das Súmulas 7 do STJ e 283 do STF no que se refere à violação ao art. 313, V, a, do CPC. Argumenta, no ponto, que é devida suspensão do processo, ante a prejudicialidade externa, até o julgamento da ação demolitória que discute o mesmo imóvel.
+ ..
+Contudo, o ora recorrente não se desimcubiu do ônus de impugnar o referido fundamento, como manda o princípio da dialeticidade, apenas cingindo-se a alegar ser devida a suspensão do processo, incidindo, na espécie, por analogia, a Súmula 283 do STF.
+Em outras palavras, verifica-se que a parte recorrente deixou de infirmar fundamento do acórdão recorrido - suficiente para sua manutenção - incidindo, na espécie, por analogia, a Súmula 283 do STF, in verbis:
+ ..
+Desta forma, a existência de fundamento inatacado no acórdão recorrido faz incidir o teor da Súmula 283/STF, por analogia, cujo óbice impede o seguimento do recurso por ambas as alíneas do permissivo constitucional.
+Ademais, mesmo que ultrapassado o referido óbice, rever a conclusão do Tribunal de origem no sentido da inexistência de prejudicialidade externa demandaria, inevitavelmente, o exame do contexto fático-probatório dos autos, atraindo o óbice da Súmula 7/STJ.
+Da mesma maneira, foram apresentados fundamentos para a rejeição dos embargos de declaração opostos na sequência, que vale repisar (fl. 292):
+No caso, a pretexto de omissão, na verdade, pretende o embargante a revisão do julgado singular quanto aos óbices aplicados.
+Todavia, denota-se que o acórdão ora embargado (fls. 259-268, e-STJ) abordou todas as supracitadas questões foram apreciadas, embora não tenham sido acolhidas as alegações do insurgente, não havendo falar em omissão.
+Observa-se, portanto, que a parte embargante pretende, em verdade, obter uma decisão favorável às suas teses, o que deixa nítido o caráter infringente dos presentes embargos declaratórios, mormente porque a decisão atacada explicitou os motivos que levaram ao não provimento do recurso.
+Dessa forma, não cabe alegação de violação do artigo 1022 do NCPC, quando a decisão embargada está devidamente fundamentada, apenas não se adotando as teses dos embargantes.
+Com efeito, demonstrado que a prestação jurisdicional ocorreu, ainda que não se concorde com a solução dada à causa, afigura-se inviável o prosseguimento do recurso extraordinário, pois o provimento recorrido encontra-se em sintonia com a tese fixada no Tema n. 339/STF, de observância obrigatória (CPC, art. 927, III), entendimento reiterado pelo próprio STF, por exemplo, no ARE n. 1.349.717-ED-AgR, relator Ministro Luiz Fux, Plenário, DJe de 10/2/2022.
+Quanto às demais alegações do recurso, a análise do acórdão, como relatado, revela que o pronunciamento impugnado concluiu pelo não preenchimento dos pressupostos de admissibilidade do recurso anteriormente dirigido ao Superior Tribunal de Justiça.
+Tal fato ocorreu porque, no julgado recorrido, foi mantida a conclusão pelo não provimento do agravo em recurso especial, em face dos óbices das Súmulas n. 7/STJ e 283/STF.
+Como se vê, o mérito do recurso especial não chegou a ser apreciado, diante de insuperáveis óbices processuais, impeditivos do próprio conhecimento do recurso.
+Segundo o STF, a necessidade de superação do que fora decidido no pronunciamento questionado acerca dos pressupostos de conhecimento do recurso da competência de outro tribunal, como ocorreu neste caso, inviabiliza o exame do recurso extraordinário pela própria Corte Suprema, qualquer que seja a suscitada violação da Constituição Federal, consoante a tese fixada no Tema n. 181 da repercussão geral:
+A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral (RE n. 598.365-RG/MG).
+Nesse sentido, eventual ofensa à Carta Magna, se existente, seria apenas indireta ou reflexa, entendendo o Excelso Pretório que "carece de repercussão geral a discussão acerca dos pressupostos de admissibilidade de recursos da competência de cortes diversas" (ARE n. 1.227.415-AgR, relator Ministro Edson Fachin, Segunda Turma, DJe de 21/5/2021), mesmo quando suscitada a ofensa ao art. 105, III, da Constituição da República (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+Esse é também o consolidado entendimento do STJ, que reiteradamente nega provimento aos agravos que impugnam decisões de aplicação do Tema n. 181/STF, como exemplifica o precedente a seguir:
+Tratando-se de recurso extraordinário contra acórdão que não ultrapassou o juízo de admissibilidade, fica inviabilizado o exame das questões constitucionais suscitadas em face da inexistência de repercussão geral.
+(AgInt no RE nos EDcl no AgInt no AREsp n. 1.342.377/SP, relatora Ministra Maria Thereza de Assis Moura, DJe de 13/9/2019.)
+Assim, não sendo a discussão proposta revestida de repercussão geral, segundo o próprio STF, entendimento de observância obrigatória (CPC, art. 927, III, parte final), nada colhe o recurso extraordinário.
+Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO SUFICIENTE DO JULGADO RECORRIDO. TEMA N. 339/STF. RECURSO ESPECIAL NÃO CONHECIDO. TEMA N. 181/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. NEGATIVA DE SEGUIMENTO.
+1. "O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão" (Tema n. 339/STF, QO no Ag n. 791.292/PE).
+2. Existente alguma fundamentação, ainda que a parte não a repute correta ou completa, entende o Supremo Tribunal Federal que foi respeitado o art. 93, IX, da CF, conforme a conclusão firmada no Tema n. 339/STF, tese de observância obrigatória (CPC, art. 927, III).
+3. "A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral" (Tema n. 181/STF).
+4. Não preenchidos os pressupostos de admissibilidade do recurso especial, aplica-se a tese do Tema n. 181/STF, ainda que se queira, no recurso extraordinário, discutir o mérito da causa ou os fundamentos que impediram o conhecimento do recurso (CPC, art. 927, III).
+5. Recurso extraordinário a que se nega seguimento, nos termos do art. 1.030, I, a, do CPC.
