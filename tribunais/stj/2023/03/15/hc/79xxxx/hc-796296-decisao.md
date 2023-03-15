@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de ANTÔNIO JUSSIVAN ALVES DOS SANTOS, no qual aponta como autoridade coatora o Tribunal Regional Federal da 4ª Região.
+Consta dos autos que o Tribunal estadual manteve a decisão que indeferiu o pleito de detração de pena, relativa a processo pelo qual foi anteriormente condenado, apontando que o paciente não ficou preso indevidamente no período (pois mesmo que tenha sido absolvido em um dos processos, existiam outros, a justificar a prisão.
+Neste writ, a defesa alega que o apenado permaneceu preso (27/11/2013 a 07/05/2015), nos autos da ação penal nº. 0087457-81.2004.8.26.0050, na qual foi proferida sentença absolutória (07/08/2015), transitada em julgado (15/10/2015).
+Sustenta que "a prisão processual foi posterior ao fato que ensejou a condenação que ora se executa" (e-STJ, fl. 10).
+Aduz que "o entendimento doutrinário e jurisprudencial firmou-se no sentido de ser possível a detração de períodos de prisão cautelar ocorridos em processos diversos, quando há absolvição em um deles e cumprimento de pena no outro, desde que o período de prisão que se quer descontar seja posterior à data da infração penal objeto de execução de pena" (e-STJ, fl. 11).
+Requereu "seja reformada a decisão do v. Acordão recorrido, reformando a decisão de 1º Grau, alterando/corrigindo o cálculo de pena, para considerar o tempo cumprido de pena no processo 0087457-81.2004.8.26.0050 seja detraído das penas em execução.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus de ofício.
+Pretende a impetração, em apertada síntese, a detração de penas não reconhecidas pelo Tribunal de origem.
+No caso, conforme se extrai dos autos, a detração foi afastada com fundamentação adequada pelo Tribunal de origem, na medida em que não há a possibilidade de detração penal de período que o paciente não ficou preso indevidamente no período, pois mesmo que tenha sido absolvido em um dos processos, existiam outros, a justificar a prisão.
+Consta do acórdão atacado (e-STJ, fls. 76):
+"Não merece acolhimento o pedido de detração do período em que o executado ficou preso, em decorrência dos autos nº 0087457-81.2004.8.26.0050, no qual, posteriormente, foi absolvido.
+Embora a jurisprudência admita, em tese, a detração pelo tempo em que o executado ficou preso cautelarmente, por processo diverso, quando venha a ser absolvido (como no caso dos autos), e desde que o delito cuja pena está sendo executada seja anterior ao período de prisão, no caso concreto, há peculiaridade deque o agravante esteve preso não apenas em virtude do processo no qual restou absolvido, mas também esteve preso, no período, em decorrência de outros processos.
+Portanto, não houve indevida restrição de liberdade ao ponto de ensejara detração em processo diverso, pois mesmo que não houvesse a decretação da prisão preventiva nos autos 0087457-81.2004.8.26.0050, ainda assim o apenado teria sido mantido encarcerado em decorrência de outros autos."
+Nesse passo, a jurisprudência desta Corte, há muito, firmou entendimento de ser possível a detração do tempo de prisão processual ordenada em outro processo em que o sentenciado foi absolvido ou foi declarada a extinção da punibilidade, desde que em relação a crimes cometidos anteriormente à custódia cautelar, cujo lapso temporal se pretende descontar.
+Nesse contexto, portanto, não se constata flagrante ilegalidade que possa ensejar a concessão da ordem, de ofício, porquanto, o caso em exame se distingue daqueles nos quais esta Corte reconhece o direito à detração e estando devidamente motivado o indeferimento da pretensão.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
