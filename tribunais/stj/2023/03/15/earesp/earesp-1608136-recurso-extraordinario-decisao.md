@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de recurso extraordinário (fls. 1.472-1.490) interposto por NELSON NASSAR RIOS, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça que recebeu a seguinte ementa (fl. 1.464):
+AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO. SÚMULA 182/STJ. AGRAVO NÃO CONHECIDO.
+1. "Nos termos do entendimento consolidado no Superior Tribunal de Justiça, deve o agravo regimental impugnar especificamente os fundamentos da decisão agravada, sob pena de não ser conhecido." (AgRg no HC 531.915/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 26/11/2019, DJe 05/12/2019
+2. Agravo regimental não conhecido.
+A parte recorrente sustenta, no recurso extraordinário, que teria havido violação dos arts. 5º, caput e XXXV, e 93, IX, da CF e que a matéria tratada seria dotada de repercussão geral.
+Nesse sentido, defende que (fl. 1.485):
+ ..  é irrefutável que as persistentes omissões do v. acórdão recorrido em examinar a causa de pedir da pretensão deduzida pelo recorrente, sob fundamento que não foi impugnado determinados pontos da decisão, viola, frontalmente, a garantia fundamental de acesso ao Judiciário, plasmada no art. 5º, inciso XXXV, da Constituição Federal, assim como a cláusula do devido processo legal, também de natureza fundamental, consagrada no inciso LV do mesmo dispositivo constitucional - afinal de contas, não há se falar em acesso ao Judiciário sem considerar seja observado o devido processo legal; mas, no mesmo passo, também não se pode entender devido processo legal (no âmbito judicial) senão no contexto de acesso ao Judiciário: são princípios fundamentais do Estado de Direito que se permeiam e se completam.
+Sustenta que deveria (fls. 1.486-1.487):
+ ..  anular o acórdão o acórdão referente Agravo Regimental em EDV em Embargos de Declaração proferido pelo Egrégio STJ, reconhecendo a violação aos princípios inscritos no inciso IX do artigo 93 da CF, determinando o retorno dos autos para o saneamento da omissão, manifestando-se expressamente sobre os pontos citados
+Requer, ao final, a admissão do recurso, bem como a remessa ao Supremo Tribunal Federal.
+Contrarrazões apresentadas às fls. 1.496-1.499.
+É o relatório.
+Quanto à questão da correta fundamentação das decisões judiciais, o STF firmou tese vinculante segundo a qual:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão (QO no Ag n. 791.292/PE).
+Em suma, apenas a ausência de fundamentação possibilitaria a apreciação do caso pela Suprema Corte, o que não ocorre quando há fundamentos, ainda que a parte não os considere corretos, completos ou os entenda demasiadamente sucintos.
+No caso, fora m declinados os motivos pelos quais não se conheceu do agravo regimental, valendo destacar os seguintes trechos (fl. 1.467):
+A irresignação não merece guarida.
+A simples leitura da decisão agravada (e-STJ, fls. 1446-1448) permite concluir as razões pelas quais os embargos de divergência não foram conhecidos, quais sejam: I) utilização de acórdão paradigma do mesmo órgão prolator do impugnado; II) óbice da Súmula 315/STJ; e III) ausência de realização do cotejo analítico.
+Na presente irresignação, porém, o agravante não impugnou, sequer minimamente, os fundamentos da aludida decisão. Na peça de agravo, verifique-se que não há qualquer alusão aos embargos de divergência, limitando-se o agravante a alegar genericamente a não incidência da Súmula 7/STJ.
+Assim, é aplicável, portanto, o enunciado 182 da Súmula deste Superior Tribunal de Justiça.
+Com efeito, demonstrado que a prestação jurisdicional ocorreu, ainda que não se concorde com a solução dada à causa, afigura-se inviável o prosseguimento do recurso extraordinário, pois o provimento recorrido encontra-se em sintonia com a tese fixada no Tema n. 339/STF, de observância obrigatória (CPC, art. 927, III), entendimento reiterado pelo próprio STF, por exemplo, no ARE n. 1.349.717-ED-AgR, relator Ministro Luiz Fux, Plenário, DJe de 10/2/2022.
+Quanto às demais alegações do recurso, a análise do acórdão, como relatado, revela que o pronunciamento impugnado concluiu pelo não preenchimento dos pressupostos de admissibilidade do recurso anteriormente dirigido ao Superior Tribunal de Justiça.
+Tal fato ocorreu porque, no julgado recorrido, foi mantido indeferimento liminar dos embargos de divergência.
+Como se vê, o mérito dos embargos de divergência não chegou a ser apreciado, diante de insuperáveis óbices processuais, impeditivos do próprio conhecimento do recurso.
+Segundo o STF, a necessidade de superação do que fora decidido no pronunciamento questionado acerca dos pressupostos de conhecimento do recurso da competência de outro tribunal, como ocorreu neste caso, inviabiliza o exame do recurso extraordinário pela própria Corte Suprema, qualquer que seja a suscitada violação da Constituição Federal, consoante a tese fixada no Tema n. 181 da repercussão geral:
+A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral (RE n. 598.365-RG/MG).
+Nesse sentido, eventual ofensa à Carta Magna, se existente, seria apenas indireta ou reflexa, entendendo o Excelso Pretório que "carece de repercussão geral a discussão acerca dos pressupostos de admissibilidade de recursos da competência de cortes diversas" (ARE n. 1.227.415-AgR, relator Ministro Edson Fachin, Segunda Turma, DJe de 21/5/2021), mesmo quando suscitada a ofensa ao art. 105, III, da Constituição da República (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+Esse é também o consolidado entendimento do STJ, que reiteradamente nega provimento aos agravos que impugnam decisões de aplicação do Tema n. 181/STF, como exemplifica o precedente a seguir:
+Tratando-se de recurso extraordinário contra acórdão que não ultrapassou o juízo de admissibilidade, fica inviabilizado o exame das questões constitucionais suscitadas em face da inexistência de repercussão geral.
+(AgInt no RE nos EDcl no AgInt no AREsp n. 1.342.377/SP, relatora Ministra Maria Thereza de Assis Moura, DJe de 13/9/2019.)
+Assim, não sendo a discussão proposta revestida de repercussão geral, segundo o próprio STF, entendimento de observância obrigatória (CPC, art. 927, III, parte final), nada colhe o recurso extraordinário.
+Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO SUFICIENTE DO JULGADO RECORRIDO. TEMA N. 339/STF. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA NÃO CONHECIDO. MANUTENÇÃO DO INDEFERIMENTO LIMINAR DOS EMBARGOS DE DIVERGÊNCIA. TEMA N. 181/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. NEGATIVA DE SEGUIMENTO.
+1. "O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão" (Tema n. 339/STF, QO no Ag n. 791.292/PE).
+2. Existente alguma fundamentação, ainda que a parte não a repute correta ou completa, entende o Supremo Tribunal Federal que foi respeitado o art. 93, IX, da CF, conforme a conclusão firmada no Tema n. 339/STF, tese de observância obrigatória (CPC, art. 927, III).
+3. "A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral" (Tema n. 181/STF).
+4. Não preenchidos os pressupostos de admissibilidade dos embargos de divergência, aplica-se a tese do Tema n. 181/STF, ainda que se queira, no recurso extraordinário, discutir o mérito da causa ou os fundamentos que impediram o conhecimento do recurso (CPC, art. 927, III).
+5. Recurso extraordinário a que se nega seguimento, nos termos do art. 1.030, I, a, do CPC.
