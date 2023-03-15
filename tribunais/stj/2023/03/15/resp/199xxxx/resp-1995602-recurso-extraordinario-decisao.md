@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto por MUNICÍPIO DE SÃO BENTINHO, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça que recebeu a seguinte ementa (fl. 1.878):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO À COISA JULGADA. CARÊNCIA DE NECESSÁRIO PREQUESTIONAMENTO. SÚMULA N. 211/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A despeito da argumentação recursal, a questão referente à coisa julgada não foi alvo das discussões travadas na origem, de forma que não se pode falar em prequestionamento. Súmula n. 211/STJ.
+2. Vale destacar que o cumprimento do requisito do prequestionamento se observa com o debate sobre a tese jurídica específica, isto é, com a emissão de juízo de valor sobre determinada norma e a sua aplicabilidade ao caso concreto, não bastando a simples provocação para que a Corte a quo se manifeste, consoante ocorreu nesses autos quando da oposição de aclaratórios.
+3. Ademais, o reconhecimento do prequestionamento ficto do art. 1.025 do Código de Processo Civil exige, não apenas a oposição de embargos de declaração na origem, mas também alegação de violação do art. 1.022 do CPC nas razões do recurso especial e o reconhecimento, por este e. STJ, da existência de vícios embargáveis, o que não ocorreu in casu.
+4. Agravo interno não provido.
+A parte recorrente alega a violação dos arts. 5º, XXXVI, e 93, IX, da CF e aduz que haveria repercussão geral da matéria tratada.
+Sustenta que a ausência de reconhecimento da coisa julgada, formada no Agravo de Instrumento n. 0803652-88.2015.4.05.0000, viola os princípios da legalidade e da segurança jurídica.
+Aduz, ainda, inobservância ao dever de fundamentação das decisões judiciais.
+Requer, ao final, a admissão do recurso e a remessa ao Supremo Tribunal Federal.
+As contrarrazões foram apresentadas às fls. 1.906-1.915.
+É o relatório.
+O STF, ao interpretar o art. 93, IX, da Constituição da República, firmou o entendimento de que, para que uma decisão judicial seja considerada motivada, não se requer o exame pormenorizado de cada alegação ou prova trazida pelas partes, tampouco que sejam corretos os seus fundamentos.
+Esse é o sentido da conclusão adotada no Tema n. 339/STF, segundo o qual:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão (QO no Ag n. 791.292/PE).
+Confira-se, por oportuno, a ementa do caso paradigma:
+Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3º e 4º). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.
+(AI n. 791.292-QO-RG, relator Ministro Gilmar Mendes, Tribunal Pleno, julgado em 23/6/2010, DJe de 13/8/2010.)
+No caso em apreço, constata-se que foram declinados os motivos pelos quais foi negado provimento ao agravo interno, valendo destacar os seguintes trechos (fl. 1.880):
+O pleito não comporta acolhida.
+Isso porque, a despeito da argumentação recursal, a questão referente à coisa julgada não foi alvo das discussões travadas na origem, de forma que não se pode falar em prequestionamento.
+Ao decidir acerca do levantamento dos valores destacados, a Corte local afastou a possibilidade de retenção dos honorários tão somente à luz da Suspensão de Liminar n. 1.186/DF, deixando de se manifestar acerca de eventual ofensa à coisa julgada.
+Vale destacar que o cumprimento do requisito do prequestionamento se observa com o debate sobre a tese jurídica específica, isto é, com a emissão de juízo de valor sobre determinada norma e a sua aplicabilidade ao caso concreto, não bastando a simples provocação para que a Corte a quo se manifeste, consoante ocorreu nesses autos quando da oposição de aclaratórios.
+Assim, inafastável o óbice da Súmula n. 211/STJ.
+Com efeito, demonstrado que ocorreu a prestação jurisdicional, ainda que se discorde da solução alcançada, a fundamentação tenha sido sucinta ou não tenha havido exame pormenorizado de cada uma das alegações, impõe-se a aplicação do Tema n. 339/STF, consoante entendimento do próprio STF, representado pela ementa do acórdão a seguir transcrita:
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AUSÊNCIA DE OFENSA AO ART. 93, IX, DA CONSTITUIÇÃO FEDERAL (TEMA 339 DA REPERCUSSÃO GERAL). ANÁLISE DE NORMAS INFRACONSTITUCIONAIS. OFENSA REFLEXA. SÚMULA 280/STF. AGRAVO A QUE SE NEGA PROVIMENTO.
+I - Conforme assentado no julgamento do AI 791.292-QO-RG/PE (Tema 339 da Repercussão Geral), de relatoria do Ministro Gilmar Mendes, o art. 93, IX, da Lei Maior exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+II - Para dissentir do acórdão impugnado e verificar a procedência dos argumentos consignados no apelo extremo, seria necessário a análise de normas infraconstitucionais o que é inviável em recurso extraordinário. Incidência da Súmula 280/STF.
+III - Agravo regimental a que se nega provimento.
+(ARE n. 1.385.381-AgR, relator Ministro Ricardo Lewandowski, Segunda Turma, julgado em 14/9/2022, DJe de 16/9/2022.)
+Dessa forma, o julgado questionado não padece de vício de fundamentação, consoante entendimento da Suprema Corte, cuja observância é devida (art. 927, III, parte final, do CPC).
+Quanto ao mais, da análise dos autos, observa-se que o pronunciamento recorrido limitou-se à verificação da ausência do preenchimento dos pressupostos de admissibilidade do recurso cuja competência é do Superior Tribunal de Justiça, constando da referida conclusão a ausência de prequestionamento, com aplicação da Súmula n. 211/STJ.
+Como se vê, o mérito do recurso especial não chegou a ser apreciado, diante de insuperável óbice processual, impeditivo do próprio conhecimento do recurso.
+Segundo o STF, a não superação do que fora decidido no pronunciamento recorrido acerca dos pressupostos de conhecimento do recurso da competência de outro tribunal, como ocorreu neste caso, inviabiliza o exame do recurso extraordinário pela própria Corte Suprema, qualquer que seja a suscitada violação da Constituição Federal, consoante a tese fixada no Tema n. 181 da repercussão geral, que vale transcrever:
+A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral (RE n. 598.365-RG/MG).
+Nesse sentido, eventual ofensa à Carta Magna, se existente, seria apenas indireta ou reflexa, entendendo o Excelso Pretório que "carece de repercussão geral a discussão acerca dos pressupostos de admissibilidade de recursos da competência de cortes diversas" (ARE n. 1.227.415-AgR, relator Ministro Edson Fachin, Segunda Turma, DJe de 21/5/2021), até mesmo quando alegada a ofensa ao art. 105, III, da Constituição da República (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+Esse é também o consolidado entendimento do STJ sobre a questão, havendo reiterado desprovimento dos agravos que impugnam decisões de aplicação do Tema n. 181/STF, como bem exemplifica o precedente a seguir:
+Tratando-se de recurso extraordinário contra acórdão que não ultrapassou o juízo de admissibilidade, fica inviabilizado o exame das questões constitucionais suscitadas em face da inexistência de repercussão geral.
+(AgInt no RE nos EDcl no AgInt no AREsp n. 1.342.377/SP, relatora Ministra Maria Thereza de Assis Moura, DJe de 13/9/2019.)
+Assim, destituída de repercussão geral a questão relativa aos pressupostos de admissibilidade de recurso anterior, conforme entendimento do STF de observância obrigatória (CPC, art. 927, III, parte final), o recurso extraordinário não comporta seguimento.
+Por fim, quanto à petição de fls. 1.920-1.922, registro que não é possível exercer juízo de reconsideração do acórdão turmário após a interposição do recurso extraordinário pelo próprio requerente, encontrando-se preclusa a oportunidade de revisitação do provimento que se pretende modificar.
+Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FALTA DE FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. TEMA N. 339/STF. AUSÊNCIA DE PRESSUPOSTOS DO RECURSO DIRIGIDO AO SUPERIOR TRIBUNAL DE JUSTIÇA. TEMA N. 181/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. NEGATIVA DE SEGUIMENTO.
+1. Conforme decidido pela Suprema Corte, ao interpretar o art. 93, IX, da Constituição da República, para que uma decisão judicial seja considerada motivada, não se requer o exame pormenorizado de cada alegação ou prova trazida pelas partes, tampouco que sejam corretos os seus fundamentos.
+2. Conclusão firmada no julgamento do Tema n. 339/STF, segundo o qual "o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão" (QO no Ag n. 791.292/PE).
+3. Os aspectos relativos aos pressupostos de admissibilidade de recursos da competência dos tribunais infraconstitucionais impedem o seguimento do recurso extraordinário, pois as ofensas à Constituição Federal, se existentes, ocorreriam de modo indireto ou reflexo.
+4. Tal conclusão é adotada quando o Superior Tribunal de Justiça não conhece de recurso de sua competência, ainda que o recurso extraordinário suscite discussão de mérito.
+5. Questão sobre a qual o Supremo Tribunal Federal firmou a ausência de repercussão geral, dada a natureza infraconstitucional do debate, nos termos do Tema n. 181/STF. Precedentes do STF e do STJ.
+6. Recurso extraordinário a que se nega seguimento, nos termos do art. 1.030, I, a, do CPC.
