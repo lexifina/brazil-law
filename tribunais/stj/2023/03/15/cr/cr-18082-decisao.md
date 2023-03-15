@@ -1,0 +1,4 @@
+DECISÃO
+Cuida-se de carta rogatória por meio da qual a justiça uruguaia (Juízo de Paz Departamento de Bella Unión) solicita a intimação de NILTON GABRIEL DA CRUZ DORNELLES para que tome conhecimento de Investigação Criminal (IUE 159-118/2020) e que "no prazo de 90 dias úteis constitua domicílio processual" (fl. 19).
+Concedido o exequatur (fls. 66-67), foram os autos remetidos à Seção Judiciária do Estado do Rio Grande do Sul. O juízo federal, na data de 8.3.2023, noticiou o cumprimento da comissão e acostou aos autos certidão exarada pelo oficial de justiça (fl. 82).
+Diante do exposto, devidamente cumprida a carta rogatória, determino a devolução dos autos à Justiça rogante por intermédio da autoridade central competente, nos termos do art. 216-X, do RISTJ, independentemente do trânsito em julgado.
