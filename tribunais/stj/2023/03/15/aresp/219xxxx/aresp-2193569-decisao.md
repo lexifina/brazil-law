@@ -1,0 +1,21 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especial interposto por NOVOLAR INCORPORACOES E CONSTRUCOES LTDA contra decisão do Tribunal de Justiça do Estado de São Paulo que não admitiu recurso especial manejado contra acórdão assim ementado (e-STJ, fl. 438):
+LEGITIMIDADE "AD CAUSAM" Legitimidade passiva Pessoas jurídicas que atuam conjuntamente na venda e construção de imóvel Responsabilidade solidária em tese Exclusão da construtora afastada. CONTRATO Construção imobiliária Atraso na entrega Cláusula com ajuste de prazo de tolerância de 180 dias Admissibilidade - Indenização pelo atraso Fixação em 0.5% ao mês sobre o valor total do imóvel que afasta a indenização por lucros cessantes Atualização monetária do saldo devedor pelo índice geral, afastado índice setorial - Entendimento consolidado no REsp 1729593/SP - Multa Penal compensatória de 10% do valor atualizado do imóvel Inadmissibilidade, uma vez que tal pedido não integrou a petição inicial. DANO MORAL Inocorrência Simples atraso na entrega do imóvel - Jurisprudência do C. Superior Tribunal de Justiça Sentença reformada em parte Apelação parcialmente conhecida e nessa parte parcialmente provida.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial a parte alega ofensa aos seguintes dispositivos legais: art. 373, I, do CPC e arts. 186 e 927 do CC/02.
+Pede a reforma do acórdão por entender, em síntese, que não possui legitimidade passiva ad causam, dado que "não há nos autos qualquer comprovação da responsabilidade da Recorrente, o processo não tem provas substanciais" - fl. 459. Consequentemente, requer a exclusão da condenação em danos morais.
+É o relatório.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+Extrai-se dos autos que o Tribunal de origem, com base no arcabouço probatório dos autos, concluiu que "não há dúvida de que ambas as co-apeladas co-rés agiram em conjunto, com o que respondem solidariamente por eventuais danos decorrentes de sua atividade, conforme previsto no parágrafo único do art. 7º do CDC" (fl. 439).
+A jurisprudência deste Superior Tribunal é uníssona ao adotar "a teoria da asserção, segundo a qual a presença das condições da ação, entre elas a legitimidade ativa, é apreciada à luz da narrativa contida na petição inicial, não se confundindo com o exame do direito material objeto da ação" (AgInt no AREsp 948.539/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 25/10/2016, DJe 03/11/2016).
+Sendo assim, rever o posicionamento da Corte local para entender, como requer a parte recorrente, que esta não detém legitimidade para figurar no polo passivo da presente lide, demandaria o revolvimento do acervo fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ.
+Resta prejudicada a análise das demais questões.
+Com fundamento no art. 85, § 11, do CPC, majoro o percentual dos honorários sucumbenciais a que condenado o recorrente na origem em 2%, totalizando 12% sobre o valor do proveito econômico, observada a eventual e anterior concessão da gratuidade judiciária.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA DO BEM. LEGITIMIDADE PASSIVA AD CAUSAM. REVER A CONCLUSÃO A QUE CHEGOU A CORTE DE ORIGEM DEMANDA O REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. DEMAIS QUESTÕES COM ANÁLISE PREJUDICADA.
+1. A jurisprudência deste Superior Tribunal é uníssona ao adotar "a teoria da asserção, segundo a qual a presença das condições da ação, entre elas a legitimidade ativa, é apreciada à luz da narrativa contida na petição inicial, não se confundindo com o exame do direito material objeto da ação" (AgInt no AREsp 948.539/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 25/10/2016, DJe 03/11/2016).
+2. Sendo assim, rever o posicionamento da Corte local para entender, como requer a parte recorrente, que esta não detém legitimidade para figurar no polo passivo da presente lide, demandaria o revolvimento do acervo fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ.
+AGRAVO CONHECIDO PARA, DESDE LOGO, NÃO CONHECER DO RECURSO ESPECIAL.
