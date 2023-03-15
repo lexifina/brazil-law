@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso extraordinário (fls. 382-392) interposto por ALESSANDRO DE SOUZA MARTINS, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça que recebeu a seguinte ementa (fl. 371):
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. PRODUÇÃO DE PROVA. INDEFERIMENTO. FACULDADE DO JUÍZO. ANÁLISE QUANTO À COMPROVAÇÃO DO PREENCHIMENTO DOS REQUISITOS PARA FINS DE CONCESSÃO DE BENEFÍCIO ACIDENTÁRIO. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Esta Corte Superior possui firme entendimento no sentido de que "o juiz é o destinatário da prova e pode, assim, indeferir, fundamentadamente, aquelas que considerar desnecessárias, a teor do princípio do livre convencimento motivado." (AgRg no AREsp 342.927/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 9/8/2016, DJe 12/9/2016).
+2. A concessão de auxílio-acidente apenas se revela possível quando demonstrada a redução da capacidade para a atividade laborativa habitual, em decorrência da consolidação das sequelas e do nexo causal.
+3. No caso, o Tribunal de origem, com base no conjunto probatório dos autos, concluiu que a parte autora não preenche os requisitos legalmente exigidos à concessão do benefício pleiteado, na medida em que inexiste moléstia profissional incapacitante.
+4. Assim, a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+5. Agravo interno não provido.
+A parte recorrente sustenta, no recurso extraordinário, que teria havido ofensa aos arts. 1º, III e IV, 5º, XXXV, XXXVI, LIV e LV, 6º, 7º, XXIV, 194, 201, I, da CF e que a matéria tratada seria dotada de repercussão geral.
+Nesse sentido, defende que a ausência de apreciação do mérito sob o fundamento de necessidade de reexame fático-probatório teria violado a dignidade da pessoa humana, o valor social do trabalho, a livre iniciativa e o direito à Previdência Social.
+Alega, ainda, que teria ocorrido cerceamento de defesa, tendo em vista a ausência de apreciação das teses jurídicas apresentadas, bem como o fato de que à parte recorrente fora negado o direito de produção probatória, argumentando que " ..  se o conjunto probatório dos autos é fragilizado pela imperícia daquele que auxilia na produção da prova, consequentemente o processo como um todo perde a robustez, interferindo diretamente na convicção do juiz".
+Requer, ao final, a admissão do recur so, bem como a remessa ao Supremo Tribunal Federal.
+Foi certificada a não apresentação de contrarrazões tempestivas (fl. 398).
+É o relatório.
+Como relatado, o pronunciamento recorrido concluiu pelo não preenchimento dos pressupostos de admissibilidade do recurso anteriormente dirigido ao Superior Tribunal de Justiça.
+Tal fato ocorreu porque, no julgado recorrido, foi mantida a conclusão acerca da necessidade do exame do acervo fático-probatório constante dos autos para apreciação do mérito do recurso, com aplicação do óbice da Súmula n. 7/STJ.
+Como se vê, o mérito do recurso especial não chegou a ser apreciado, diante de insuperáveis óbices processuais, impeditivos do próprio conhecimento do recurso.
+Segundo o STF, a necessidade de superação do que fora decido no pronunciamento recorrido acerca dos pressupostos de conhecimento do recurso da competência de outro tribunal, como ocorreu neste caso, inviabiliza o exame do recurso extraordinário pela própria Corte Suprema, qualquer que seja a suscitada violação da Constituição Federal, consoante a tese fixada no Tema n. 181 da repercussão geral:
+A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral (RE n. 598.365-RG/MG).
+Nesse sentido, eventual ofensa à Carta Magna, se existente, seria apenas indireta ou reflexa, entendendo o Excelso Pretório que "carece de repercussão geral a discussão acerca dos pressupostos de admissibilidade de recursos da competência de cortes diversas" (ARE n. 1.227.415-AgR, relator Ministro Edson Fachin, Segunda Turma, DJe de 21/5/2021), mesmo quando suscitada a ofensa ao art. 105, III, da Constituição da República (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+Esse é também o consolidado entendimento do STJ, que reiteradamente nega provimento aos agravos que impugnam decisões de aplicação do Tema n. 181/STF, como exemplifica o precedente a seguir:
+Tratando-se de recurso extraordinário contra acórdão que não ultrapassou o juízo de admissibilidade, fica inviabilizado o exame das questões constitucionais suscitadas em face da inexistência de repercussão geral.
+(AgInt no RE nos EDcl no AgInt no AREsp n. 1.342.377/SP, relatora Ministra Maria Thereza de Assis Moura, DJe de 13/9/2019.)
+Assim, não sendo a discussão proposta revestida de repercussão geral, segundo o próprio STF, entendimento de observância obrigatória (CPC, art. 927, III, parte final), nada colhe o recurso extraordinário.
+Além disso, o STF pacificou o entendimento de que a suscitada afronta aos princípios do contraditório, da ampla defesa e do devido processo legal, bem como ao ato jurídico perfeito, ao direito adquirido e aos limites da coisa julgada, quando dependente da prévia análise de normas infraconstitucionais, configura ofensa reflexa ao texto constitucional.
+Nesse sentido é o Tema n. 660/STF, cujo acórdão paradigma recebeu a seguinte ementa:
+Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.
+(ARE n. 748.371-RG, relator Ministro Gilmar Mendes, julgado em 6/6/2013, DJe de 1º/8/2013.)
+No caso, a suposta ofensa aos princípios do contraditório e da ampla defesa depende da análise do art. 370 do CPC, razão pela qual incide o Tema n. 660/STF.
+Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. RECURSO ESPECIAL NÃO CONHECIDO. TEMA N. 181/STF. OFENSA AOS PRINCÍPIOS DO CONTRADITÓRIO, DA AMPLA DEFESA E DO DEVIDO PROCESSO LEGAL. TEMA N. 660/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. NEGATIVA DE SEGUIMENTO.
+1. "A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral" (Tema n. 181/STF).
+2. Não preenchidos os pressupostos de admissibilidade do recurso especial, aplica-se a tese do Tema n. 181/STF ainda que se queira, no recurso extraordinário, discutir o mérito da causa ou os fundamentos que impediram o conhecimento do recurso (CPC, art. 927, III).
+3. O STF pacificou o entendimento de que a suscitada afronta aos princípios do contraditório, da ampla defesa e do devido processo legal, quando dependente da prévia análise de normas infraconstitucionais, configura ofensa reflexa ao texto constitucional.
+4. Recurso extraordinário a que se nega seguimento, nos termos do art. 1.030, I, a, do CPC.
