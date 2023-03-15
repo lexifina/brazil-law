@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão proferido pelo TJPR assim ementado (e-STJ fl. 98):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE. ALEGAÇÃO EM CONTRARRAZÕES. NÃO VERIFICAÇÃO. BLOQUEIO VIA SISBAJUD. CONTA CORRENTE. IMPENHORABILIDADE. NATUREZA ALIMENTAR. NÃO COMPROVAÇÃO. PENHORA. MANUTENÇÃO.
+1. Não há violação do princípio da dialeticidade nas razões de agravo de instrumento em que, a despeito da repetição de argumentos formulados anteriormente no processo, os fundamentos da decisão recorrida forem objetivamente impugnados.
+2. É possível a penhora de valores em conta corrente, quando não comprovada sua natureza alimentar.
+3. Agravo de instrumento conhecido e não provido.
+No recurso especial (e-STJ fls. 132/139), fundamentado no art. 105, III, "a" e "c", da CF, a parte recorrente alega, além de divergência jurisprudencial, ofensa ao art. 833, X, do CPC/2015, defendendo a impenhorabilidade das quantias depositadas em suas contas bancárias até o limite de 40 salários mínimos.
+Requer o desbloqueio dos valores realizados via SISBAJUD determinando-se o seu levantamento.
+Foram apresentadas contrarrazões, nas quais o recorrido requer a aplicação da multa por litigância de má-fé prevista no art. 80, VII, do CPC/2015 (e-STJ fls. 182/198).
+O recurso foi admitido na origem (e-STJ fls. 199/202).
+É o relatório.
+Decido.
+A Corte local, acerca da impenhorabilidade, assim decidiu (e-STJ fls. 102/103):
+Frise-se, inicialmente, que esta 15ª Câmara Cível não desconhece a jurisprudência do Superior Tribunal de Justiça, de que, excepcionalmente, a impenhorabilidade prevista no artigo 833, X, do Código de Processo Civil de 2015, deve estender-se a valores de até 40 (quarenta) salários mínimos depositados não só em poupança, como também em conta corrente, fundos de investimento ou guardados em papel-moeda.
+No entanto, apesar da interpretação extensiva dada ao aludido dispositivo legal, a leitura dos julgados revela que o reconhecimento da impenhorabilidade visa a resguardar, em verdade, valores que tenham sido poupados para viabilizar a subsistência do devedor e de sua família.
+E, na espécie, ante os elementos constantes dos autos, não é possível afirmar, indene de dúvidas, que os valores tornados indisponíveis eram poupados com a finalidade de manutenção emergencial das despesas da agravante.
+É que não foi anexado nenhum extrato das contas bloqueadas, com o intuito de demonstrar a movimentação financeira, em especial a origem e a destinação do numerário.
+Ou seja, não há como confirmar, pela completa ausência de documentos, que as verbas tornadas indisponíveis são destinadas à manutenção das despesas urgentes da agravante.
+Consequentemente, não incide, no caso, a proteção do artigo 833, X, do Código de Processo Civil.
+Lembre-se, nesse tocante, que, nos termos do artigo 854, § 3º, I, do Código de Processo Civil, incumbe ao executado comprovar que as quantias tornadas indisponíveis são impenhoráveis, o que não ocorreu.
+Além do mais, o valor da constrição, pouco mais de R$ 700,00 (setecentos reais), não se mostra irrisório, a ponto de justificar o levantamento do bloqueio, até mesmo porque o banco exequente demonstrou interesse no seu levantamento, o que se coaduna com a regra disposta no artigo 797, do Código de Processo Civil, segundo a qual "Ressalvado o caso de insolvência do devedor, em que tem lugar o concurso universal, realiza-se a execução no interesse do exequente que adquire, pela penhora, o direito de preferência sobre os bens penhorados".
+O entendimento está em desconformidade com a jurisprudência da Segunda Seção do STJ firmada no julgamento do REsp n. 1.230.060/PR, de relatoria da Ministra MARIA ISABEL GALLOTTI (DJ 13/8/2014, DJe 29/8/2014), segundo a qual se reveste "de impenhorabilidade a quantia de até quarenta salários mínimos poupada, seja ela mantida em papel moeda, conta corrente ou aplicada em caderneta de poupança propriamente dita, CDB, RDB ou em fundo de investimentos, desde que a única reserva monetária em nome do recorrente, e ressalvado eventual abuso, má-fé ou fraude, a ser verificado caso a caso, de acordo com as circunstâncias do caso concreto (inciso X)", e ainda, que a simples movimentação atípica não é capaz de caracterizar má-fé ou fraude por parte do devedor.
+Nesse mesmo sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROVENTOS DE APOSENTADORIA. PENHORA DE SALDO REMANESCENTE EM CONTA CORRENTE. VALOR INFERIOR A 40 SALÁRIOS MÍNIMOS. IMPOSSIBILIDADE. INTERPRETAÇÃO SISTEMÁTICA E TELEOLÓGICA A SER CONFERIDA AO ART. 833, incisos IV e X, e §2º, do CPC/2015. PRECEDENTES. SÚMULA 83 DO STJ. RECURSO QUE NÃO ATACA OS FUNDAMENTOS DA DECISÃO AGRAVADA. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência assente do STJ garante ao devedor "poupar valores sob a regra da impenhorabilidade no patamar de até quarenta salários mínimos, não apenas aqueles depositados em cadernetas de poupança, mas também em conta-corrente ou em fundos de investimento, ou guardados em papel-moeda" (EREsp 1330567/RS, Rel. Ministro Luis Felipe Salomão, Segunda Seção, julgado em 10/12/2014, DJe 19/12/2014).
+2. A penhora sobre alegado valor remanescente em conta corrente do devedor a qual era utilizada para a percepção de verba remuneratória - fato incontroverso nos autos - somente poderá ocorrer em se tratando de valor superior a 40 (quarenta) salários-mínimos.
+3. Licitude da conduta do executado de poupar, ainda que na própria conta corrente, montante de até quarenta salários mínimos. (REsp 191 4284/DF, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 20/04/2021, DJe 04/05/2021) 4. Não tendo a parte agravante apresentado argumentos hábeis a infirmar os fundamentos da decisão regimentalmente agravada, é de rigor a manutenção da decisão por seus próprios fundamentos.
+5. Agravo interno não provido.
+(AgInt no REsp n. 1.971.321/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 26/4/2022, DJe de 4/5/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PENHORA DE VALORES EM CONTA CORRENTE. LIMITE DE IMPENHORABILIDADE DO VALOR CORRESPONDENTE A 40 SALÁRIOS MÍNIMOS. PRECEDENTES. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A jurisprudência desta Corte Superior é firme no sentido da impenhorabilidade de valor até 40 salários mínimos poupados ou mantidos pelo devedor em conta corrente ou em outras aplicações financeiras, ressalvada a comprovação de má-fé, abuso de direito ou fraude, o que não foi demonstrado nos autos.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo interno não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido.
+(AgInt no AREsp 1718297/SP, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 16/8/2021, DJe de 18/8/2021.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PENHORA POR BACENJUD. VALOR DEPOS ITADO EM CONTA POUPANÇA COM MOVIMENTAÇÃO DE CONTA CORRENTE. SALDO INFERIOR A 40 (QUARENTA) SALÁRIOS MÍNIMOS. IMPENHORABILIDADE. PRECEDENTES. RECURSO NÃO PROVIDO.
+1. A Segunda Seção desta Corte Superior pacificou o entendimento de que "é possível ao devedor poupar valores sob a regra da impenhorabilidade no patamar de até quarenta salários mínimos, não apenas aqueles depositados em cadernetas de poupança, mas também em conta-corrente ou em fundos de investimento, ou guardados em papel-moeda" (EREsp 1.330.567/RS, Rel. Ministro Luis Felipe Salomão, Segunda Seção, DJe de 19/12/2014).
+2. Agravo interno não provido.
+(AgInt no AREsp n. 1.767.245/PR, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 28/6/2021, DJe de 5/8/2021.)
+Aplica-se a Súmula n. 568 do STJ.
+Ante o exposto, DOU PROVIMENTO ao recurso especial para determinar a impenhorabilidade dos valores depositados nas contas bancárias da parte recorrente , até o limite de 40 (quarenta) salários mínimos.
+Deixo de aplicar a multa por litigância de má-fé, uma vez que a agravante apenas exerceu seu direito de petição, o que não constitui ato protelatório que enseje sanção processual, tampouco se evidencia, até o momento, conduta maliciosa ou temerária a justificar punição.
+Publique-se e intimem-se.
