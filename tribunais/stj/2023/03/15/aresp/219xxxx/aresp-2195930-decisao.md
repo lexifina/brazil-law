@@ -1,0 +1,24 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especial interposto por BRADESCO SAÚDE S/A contra decisão do Tribunal de Justiça do Estado de São Paulo que não admitiu recurso especial manejado contra acórdão assim ementado:
+LIQUIDAÇÃO DE SENTENÇA Impugnação - Impossibilidade de rediscussão da coisa julgada em sede de liquidação de sentença Acórdão objeto de liquidação que expressamente reconheceu a aplicabilidade da Lei nº 9.656/98 e dos índices autorizados pela ANS à hipótese - Rediscussão das matérias que nitidamente implicaria violação à coisa julgada Recurso desprovido.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial a parte alegou ofensa aos seguintes dispositivos legais: artigos 502, 503, 506 e 507 do CPC/15, sustentando violação à coisa julgada. Afirmou que ficou assentado no v. acórdão que solucionou a apelação, isto é, no título exequendo, a excepcional aplicação dos percentuais autorizados pela ANS  rectius: os divulgados para os planos pós-Lei  estava adstrita ao período anterior à produção da prova pericial em fase de liquidação de sentença (e-STJ fl. 232)
+É o relatório.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+Quanto aos dispositivos de lei federal tidos por violados, não se vislumbra êxito na pretensão recursal.
+Ao solucionar a controvérsia, verifica-se que o Tribunal de origem destacou as seguintes particularidades do caso em tela:
+Como é sabido, em sede de liquidação de sentença não se permite a rediscussão da matéria acobertada pela coisa julgada, certo existirem instrumentos processuais aptos para tanto. Assim, inviável a análise das alegações de inaplicabilidade da Lei nº 9.656/93 ou dos índices autorizados pela ANS à hipótese, o que já foi exaustivamente discutido na fase de conhecimento.
+Conforme anotado no Acórdão quanto à aplicabilidade da Lei nº 9.656/98, "Vale observar que é plenamente aplicável a Lei n. 9.656/98 no caso concreto. De qualquer forma, sabe-se que a anterioridade de um contrato à sua vigência não obsta a sua incidência. Com efeito, "O contrato de plano/seguro saúde submete-se aos ditames do Código de Defesa do Consumidor e da Lei n. 9.656/98 ainda que a avença tenha sido celebrada antes da vigência desses diplomas legais"(Súmula 100, TJSP)." (fls. 293/294 autos nº 1112235-54.2018.8.26.0100). No tocante à suposta inaplicabilidade dos índices autorizados pela ANS constou: "Até a realização da perícia, os prêmios deverão ser retomados aos valores anteriores aos reajustes operados em razão das mudanças de faixa etária, sem prejuízo dos reajustes autorizados pela ANS" (fls. 296 autos nº 1112235-54.2018.8.26.0100). (e-STJ fls. 222/223)
+Por ocasião do julgamento dos embargos de declaração, reforçaram-se os seguintes fundamentos:
+Respeitados os argumentos expostos, não há dúvidas de que constou do título executivo judicial a incidência da Lei nº 9.656/98 ao caso e que até a realização da perícia os prêmios deveriam ser retomados aos valores anteriores aos reajustes operados em razão das mudanças de faixa etária, sem prejuízo dos reajustes autorizados pela ANS. Não se admite qualquer interpretação diversa do que efetivamente constou do Acórdão exequendo. Nada há no título executivo acerca da aplicação dos "reajustes que incidiram nos demais contratos que compõem a massa de segurados em que está inserida a apólice".
+Conforme anotado, ainda que o resultado do Acórdão possa, na visão da embargante, conter erro, o trânsito em julgado impede a rediscussão das questões dele constantes.
+(..)
+Enfim, o fato é que, ainda que a embargante assim não entenda, o Acórdão embargado chegou à conclusão lastreado em fundamentos sólidos, espelhando motivações para o entendimento assumido, não se apresentando duvidoso nas suas premissas e conclusões, nem obscuro ou omisso acerca de tema relevante. (e-STJ fls. 250/251)
+Com efeito, constata-se da fundamentação do acórdão recorrido acima transcrita, que a controvérsia foi decidida à luz das peculiaridades da demanda. Eventual reforma do acórdão recorrido, sobretudo as relativas à conclusão de que constou do título executivo judicial a incidência da Lei nº 9.656/98 e dos índices da ANS, demandaria o reexame das provas dos autos, juízo obstado pelo óbice da Súmula 7/STJ. Nesse sentido: (AgInt no REsp n. 1.369.455/MG, relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/9/2022, DJe de 29/9/2022.) (REsp n. 1.960.721/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 5/4/2022, DJe de 7/4/2022.)
+Destarte, o recurso não merece conhecimento.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA. IMPUGNAÇÃO. PLANO DE SAÚDE. REAJUSTES. ÍNDICES. VIOLAÇÃO À COISA JULGADA. SÚMULA 7 DO STJ.
+AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
