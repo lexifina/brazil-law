@@ -1,0 +1,33 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especial, manejado por BANCO DO BRASIL SA, em face da decisão do Tribunal de Justiça do Estado do Paraná que inadmitiu o recurso especial que interpusera em virtude de manifesta intempestividade.
+Nas razões do presente agravo, o recorrente insurge-se contra o reconhecimento da intempestividade de seu recurso especial.
+Alega "que conforme Decreto Judiciário nº 717/2021, a data de 21 e 22 de Abril de 2022, foi suspenso o expediente em todas as repartições judiciárias do Estado do Paraná" (e-STJ fl. 135).
+Sustenta que os arts. 932, parágrafo único, e 1.029, § 3º, do CPC/2015, possibilitam ao magistrado permitir a correção de vícios formais, desde que não sejam considerados graves.
+Argumenta, ainda, que esta Corte Superior já admitiu a comprovação posterior da tempestividade.
+Não foram apresentadas contrarrazões (e-STJ fls. 123/125).
+É o relatório.
+Passo a decidir.
+Compulsando os autos, verifica-se que a irresignação não merece prosperar.
+Na espécie, conforme já dispôs a decisão de inadmissão recursal, o agravante "não comprovou, no ato da interposição do recurso, conforme dispõe o artigo 1.003, § 6º, do Código de Processo Civil, a suspensão do expediente nas repartições judiciárias do Estado do Paraná no dia 22.04.2022. Isso porque, colacionou aos autos a versão desatualizada do Decreto Judiciário nº 717/20221 (mov. 1.7), na qual não consta a referida suspensão do expediente forense. Na hipótese, a parte deveria ter juntado a versão alterada pelo Decreto Judiciário nº 155/2022" (e-STJ fl. 127).
+De fato, embora o dia 21 de abril seja, consabidamente, feriado nacional, prescindindo, assim, de comprovação, o recorrente não comprovou, no ato da interposição do recurso, a suspensão do prazo recursal no dia 22/04/2022, como seria devido.
+Isso porque, no tocante aos recursos interpostos com fundamento no Código de Processo Civil de 2015, caso dos autos, não mais se aplica a orientação quanto à possibilidade de comprovação posterior da tempestividade, uma vez que essa medida deve ser realizada no momento da interposição do recurso cuja admissibilidade é aferida, mediante documento idôneo, conforme entendimento amparado no que dispõem o § 6º do art. 1.003 e o § 3º do art. 1.029 do CPC/2015, não se amoldando a essas hipóteses o que dispõe o parágrafo único do art. 932.
+A Corte Especial deste Superior Tribunal de Justiça, por ocasião do julgamento do Recurso Especial n. 1.813.684/SP, reafirmou a necessidade da comprovação nos autos de suspensão de expediente ou feriado local por meio de documento idôneo no ato de interposição do recurso.
+Eis a ementa do acórdão:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. FERIADO LOCAL. NECESSIDADE DE COMPROVAÇÃO NO ATO DE INTERPOSIÇÃO DO RECURSO. MODULAÇÃO DOS EFEITOS DA DECISÃO. NECESSIDADE. SEGURANÇA JURÍDICA. PROTEÇÃO DA CONFIANÇA.
+1. O novo Código de Processo Civil inovou ao estabelecer, de forma expressa, no § 6º do art. 1.003 que "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso". A interpretação sistemática do CPC/2015, notadamente do § 3º do art. 1.029 e do § 2º do art. 1.036, conduz à conclusão de que o novo diploma atribuiu à intempestividade o epíteto de vício grave, não havendo se falar, portanto, em possibilidade de saná-lo por meio da incidência do disposto no parágrafo único do art. 932 do mesmo Código.
+2. Assim, sob a vigência do CPC/2015, é necessária a comprovação nos autos de feriado local por meio de documento idôneo no ato de interposição do recurso.
+3. Não se pode ignorar, todavia, o elastecido período em que vigorou, no âmbito do Supremo Tribunal Federal e desta Corte Superior, o entendimento de que seria possível a comprovação posterior do feriado local, de modo que não parece razoável alterar-se a jurisprudência já consolidada deste Superior Tribunal, sem se atentar para a necessidade de garantir a segurança das relações jurídicas e as expectativas legítimas dos jurisdicionados.
+4. É bem de ver que há a possibilidade de modulação dos efeitos das decisões em casos excepcionais, como instrumento vocacionado, eminentemente, a garantir a segurança indispensável das relações jurídicas, sejam materiais, sejam processuais.
+5. Destarte, é necessário e razoável, ante o amplo debate sobre o tema instalado nesta Corte Especial e considerando os princípios da segurança jurídica, da proteção da confiança, da isonomia e da primazia da decisão de mérito, que sejam modulados os efeitos da presente decisão, de modo que seja aplicada, tão somente, aos recursos interpostos após a publicação do acórdão respectivo, a teor do § 3º do art. 927 do CPC/2015.
+6. No caso concreto, compulsando os autos, observa-se que, conforme documentação colacionada à fl. 918, os recorrentes, no âmbito do agravo interno, comprovaram a ocorrência de feriado local no dia 27/2/2017, segunda-feira de carnaval, motivo pelo qual, tendo o prazo recursal se iniciado em 15/2/2017 (quarta-feira), o recurso especial interposto em 9/3/2017 (quinta-feira) deve ser considerado tempestivo.
+7. Recurso especial conhecido.
+(REsp 1813684/SP, Rel. Ministro RAUL ARAÚJO, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 02/10/2019, DJe 18/11/2019 - g.n).
+Há que se ressaltar, ainda, que a Corte Especial, por maioria, acolheu a questão de ordem para reconhecer que a tese firmada por ocasião do julgamento do REsp 1.813.684/SP (processo que substituiu a afetação do AREsp 1.311.512/SP) é restrita ao feriado de segunda-feira de carnaval e não se aplica aos demais feriados (QO no REsp 1813684/SP, Rel. Ministra NANCY ANDRIGHI, CORTE ESPECIAL, julgado em 03/02/2020, DJe 28/02/2020).
+Nessa ordem de ideias, no caso concreto, tem-se que a instituição financeira foi intimada do acórdão proferido pelo Tribunal a quo em 20/04/2022, porém o recurso especial somente foi interposto no dia 13/05/2022, ou seja, fora do prazo legal de 15 (quinze) dias, assentado no art. 1.003, § 5º, c/c os arts. 219, caput, e 1.029 do CPC/2015, restando patente, dessa forma, sua intempestividade.
+Sem majoração de honorários advocatícios, por não terem sido arbitrados anteriormente, in casu.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Advirto as partes que a oposição de incidentes manifestamente improcedentes e protelatórios dará azo à aplicação das penalidades legalmente previstas.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. SUSPENSÃO DO PRAZO NO TRIBUNAL DE ORIGEM NÃO COMPROVADA NO ATO DA INTERPOSIÇÃO DO RECURSO ESPECIAL. RECONHECIMENTO DA INTEMPESTIVIDADE. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
