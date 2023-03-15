@@ -1,0 +1,195 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+6ª Turma Cível
+Processo N.APELAÇÃO CÍVEL 0705831-81.2021.8.07.0001APELANTE(S)MINISTERIO PUBLICO DO DISTRITO FEDERAL E DOS TERRITORIOS e CENTRO DE ENSINO UNIFICADO DE BRASILIA CEUBAPELADO(S)CENTRO DE ENSINO UNIFICADO DE BRASILIA CEUB e MINISTERIO PUBLICO DO DISTRITO FEDERAL E DOS TERRITORIOSRelatoraDesembargadora SONÍRIA ROCHA CAMPOS D'ASSUNÇÃO Acórdão Nº1682607
+
+EMENTA
+
+APELAÇÕES CÍVEIS. PROCESSUAL CIVIL. CONSTITUCIONAL. AÇÕES CIVIS PÚBLICAS. PRELIMINAR DE NULIDADE DE SENTENÇA REJEITADA. DOCUMENTO NOVO NÃO CONFIGURADO. INSTITUIÇÃO DE ENSINO SUPERIOR. DESCONTO LINEAR NO VALOR DA MENSALIDADE IMPOSSIBILIDADE. DESEQUILÍBRIO CONTRATUAL INDIVIDUALIZADO. NECESSIDADE DE PROVA. ADPFs NÚMEROS 706 E 713.
+
+1. A sentença apresenta fundamentação consistente e adequada para sustentar a convicção do julgador, em observância à norma legal do artigo 489, § 1º, incisos I a IV, do CPC e artigo 93, IX, da CF. Logo, a insurgência da parte contra o acerto ou desacerto dos fundamentos da decisão, bem como sua adequação ao ordenamento jurídico, é matéria afeta ao mérito do recurso, não havendo, portanto, qualquer vício de fundamentação na sentença. Preliminar rejeitada.
+
+2. O documento técnico-contábil coligido em ambos os autos pelo réu/apelante, após a sentença, não se configura documento novo, e, uma vez não demonstrado o justo impedimento para a sua juntada tempestiva, não será conhecido.
+
+3. A questão controvertida cinge-se à concessão de desconto linear nas mensalidades cobradas por instituição de ensino superior, durante a pandemia Covid-19.
+
+4. Eventuais prejuízos sofridos com perda da qualidade de ensino devem corresponder necessariamente à exigência de reposição do conteúdo às expensas da instituição de ensino de ensino superior respectiva.
+
+5. Conquanto evidenciada a existência de superávit, observados os parâmetros estabelecidos na Lei n. 9.870/1999, que dispõe sobre o valor das anuidades escolares e detalha itens da composição dos custos dos serviços educacionais, de modo a permitir transparência e equilíbrio às relações negociais, de acordo com o acervo probatório, não é possível aferir a aludida onerosidade excessiva relativamente a cada contrato, individualmente considerado, e suas peculiaridades, no período da pandemia.
+
+6. Tal entendimento se depreende do recente julgamento da questão pelo e. STF, nos autos dos processos originados das Ações de Descumprimento de Preceito Fundamental (ADPF) números 706 e 713, em conjunto, tendo sido acolhida a tese da declaração de inconstitucionalidade do desconto linear em mensalidades cobradas por instituições de ensino superior, no contexto da pandemia, ao fundamento de que, sem considerar as circunstâncias fáticas efetivamente demonstradas, deixa-se de sopesar os reais efeitos da pandemia em ambas as partes contratuais, a violar a livre iniciativa e impedir a via da renegociação entre as respectivas partes envolvidas.
+
+7. Recursos conhecidos, providos os dos réu, e desprovido o do MPDFT.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 6ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, SONÍRIA ROCHA CAMPOS D'ASSUNÇÃO - Relatora, VERA ANDRIGHI - 1º Vogal e ALFEU MACHADO - 2º Vogal, sob a Presidência do Senhor Desembargador LEONARDO ROSCOE BESSA, em proferir a seguinte decisão: CONHECIDO. PROVIDO O RECURSO DO CEUB E DESPROVIDO O DO MPDFT. UNÂNIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 15 de Março de 2023
+
+Desembargadora SONÍRIA ROCHA CAMPOS D'ASSUNÇÃORelatora
+
+RELATÓRIO
+
+Autos do proc. n. 0724654-40.2020.8.07.0001
+
+Trata-se de Apelação interposta pelo CENTRO DE ENSINO UNIFICADO DE BRASILIA - CEUB (ID 32205228) contra a sentença (ID 32205213), proferida pelo Juízo da 21ª Vara Cível de Brasília que julgou procedente o pedido formulado na ação civil pública ajuizada pelo CENTRO ACADÊMICO DE MEDICINA JOÃO HERCULINO DE SOUZA LOPES (CAMEDU) - UNICEUB em face do recorrente, cuja pretensão consiste na redução de custos em 30% do valor das mensalidades e a isenção desses valores para os alunos de medicina que deixaram de ter aulas práticas, nos últimos períodos, em virtude da alteração da modalidade presencial para a modalidade à distância, e por ter havido a redução da carga horária e a perda de qualidade de ensino.
+
+Sem custas ou honorários, nos termos do art. 18 da Lei n. 7.347/1985.
+
+Foram interpostos embargos de declaração pelo recorrente (ID 32205217), ao argumento de que a sentença teria incorrido em contradição, os quais foram rejeitados (ID 32205224).
+
+Em suas razões recursais (ID 32205228), o réu/apelante CENTRO DE ENSINO UNIFICADO DE BRASILIA - CEUB suscita, inicialmente, preliminar de nulidade da sentença por ausência de fundamentação e por violação aos princípios do contraditório e da ampla defesa, nos termos dos artigos 7º e 489, inc. IV, ambos do CPC e do art. 93, inc. IX, da Constituição Federal. No mérito, alega que a sentença se baseou em parecer técnico equivocado do MPDFT; que o autor não se desincumbiu do ônus da prova; que os serviços já haviam sido introduzidos no mercado de consumo no momento da decretação da suspensão das aulas em decorrência da pandemia; que foram ignoradas as provas produzidas pelo réu; que foi considerado apenas um determinado período no ano, que não reflete os gastos totais com os respectivos cursos; que deve ser mitigada a sua responsabilidade pela superveniência de caso fortuito ou de força maior (fortuito externo), de acordo com os precedentes persuasivos colhidos nos julgamentos do REsp 1.450.434, do REsp 120.647-SP e do REsp 330.523/SP; que a pandemia atingiu a todos e não houve perda de qualidade no ensino nem a redução dos custos com a prestação do serviço; que está devidamente comprovada a perda de faturamento, em razão da implantação de curso à distância, da inadimplência, ou mesmo pela formatura antecipada dos alunos de medicina; que há contradição na sentença ao afirmar que não foi comprovada a formatura antecipada dos alunos do curso de medicina e, em seguida afirmar, que parte desses alunos puderam alcançar a graduação antecipada. Ao final, requer o provimento do recurso para reformar a sentença e julgar o pedido improcedente.
+
+Foi juntado documento técnico contábil produzido após o proferimento da sentença, em setembro de 2021 (ID 32205231).
+
+Preparo regular (ID 32205229 e ID 32205230).
+
+Em contrarrazões (ID 32205238), o autor/recorrido suscita a preliminar de inovação recursal, ao argumento de que o recorrente fundamenta seu recurso em documento técnico (ID 32205231) produzido e juntado aos autos somente após o proferimento da sentença, em relação ao qual não houve o contraditório nem houve pronunciamento pelo Juízo singular; refuta a preliminar suscitada pelo recorrente e discorre a respeito das provas em que se fundamentou a sentença recorrida. Quanto ao mérito, defende o acerto da sentença ao pronunciar-se adequadamente em relação ao evento extraordinário e imprevisível, capaz de afetar as relações negociais de trato continuado, e do desequilíbrio contratual, por conferir extrema vantagem ao recorrente, e a autorizar a redução do valor da mensalidade em face da crise sanitária (art. 478 do Código Civil). Ao final, requer o não conhecimento do recurso, ou, no mérito, o seu desprovimento.
+
+A douta Procuradoria de Justiça ofereceu parecer (ID 34440023), ocasião em que afirmou, em suma, que o lastro probatório evidencia ter havido redução dos custos na prestação do serviço pelo réu, com a suspensão das atividades e posterior suspensão das aulas presenciais e que, nada obstante as teses fixadas no julgamento das ADPF’s números 706-DF e 713-DF, a sentença não se baseou em argumentos abstratos (pandemia e mera transposição de aulas presenciais para ambientes virtuais), tendo sido consideradas as peculiaridades dos efeitos da crise pandêmica em ambas as partes. Assim, oficiou pelo desentranhamento do parecer contábil juntado aos autos após a sentença e, no mérito, pelo conhecimento e desprovimento do recurso.
+
+Autos do proc. n. 0705831-81.2021.8.07.0001
+
+Trata-se de Apelações interpostas pelo MINISTÉRIO PÚBLICO DO DISTRITO FEDERAL E DOS TERRITÓRIOS (ID 30465210) e pelo CENTRO DE ENSINO UNIFICADO DE BRASILIA – CEUB (ID 30465212) contra a sentença (ID 30465198), proferida pelo Juízo da 21ª Vara Cível de Brasília que julgou procedente em parte o pedido formulado na ação civil pública ajuizada pelo MPTDFT em face do CENTRO DE ENSINO UNIFICADO DE BRASILIA – CEUB, tendo por objeto a restituição do percentual de 15,17% a todos os alunos matriculados no ano letivo de 2020, exceto para aqueles que receberam abatimentos em montante igual ou superior ao referido percentual e para os alunos de medicina cuja pretensão é objeto de outra Ação Civil Pública (autos n. 0724654-40.2020.8.07).
+
+Sem custas ou honorários, nos termos do art. 18 da Lei n. 7.347/1985.
+
+Foram interpostos embargos de declaração por ambas as partes (ID 30465201 e ID 30465202), ao argumento de que a sentença teria incorrido em omissão, contradição e obscuridade, os quais foram rejeitados (ID 30465208).
+
+Em suas razões recursais (ID 30465210), o MPDFT sustenta que a sentença deve ser reformada para julgar o pedido integralmente procedente, por prática abusiva (art. 39, inciso XIII, CDC) uma vez que, mesmo tendo o réu fornecido apenas parte dos seus dados contábeis, concluiu-se no Parecer Técnico n. 1020/2020 que, após a virtualização do ensino, as despesas da instituição foram reduzidas no importe total de 15,17%, e, no Parecer Técnico n. 12/2021, foi apresentada análise do faturamento da instituição de ensino UNICEUB, observando-se uma redução de 5,22% na comparação com o faturamento estimado; que por meio da prova técnica, ficou demonstrado o desequilíbrio econômico-financeiro na relação contratual firmada entre os discentes e a instituição de ensino UNICEUB; que mesmo com os novos custos operacionais, ainda foi possível que a instituição obtivesse superávit de R$ 3.654.720,97 e receita com mensalidades de R$ 432.378.101,00, enquanto, no ano de 2019, obteve déficit de R$ 11.566.452,15 e receita com mensalidades de R$ 445.106.661,00; que não está autorizado o repasse de perda de faturamento aos alunos, mas somente a variação de custos; que o consumidor/contratante tem direito à revisão contratual quando fatos supervenientes tornam o contrato excessivamente oneroso; que não se aplica à hipótese a ressalva exarada na sentença de que a redução não seria devida aos alunos “que não tiveram as atividades afetadas pelas medidas de restrição”, haja vista que todos os alunos, sem exceção, foram afetados pela pandemia e pelas medidas de restrição. Requer, portanto, o provimento do recurso para que o UNICEUB seja condenado a devolver aos alunos o percentual integral de redução dos custos, conforme parâmetros da Lei n. 9.870/1999, ou seja, 15,17%, sem qualquer abatimento, a fim de restabelecer o equilíbrio contratual.
+
+Em suas razões recursais (ID 30465212), o CENTRO DE ENSINO UNIFICADO DE BRASILIA – CEUB reitera os argumentos articulados no recurso ofertado nos autos do processo n. 0724654-40.2020.8.07.0001 e requer, ao final, o provimento do recurso para julgar o pedido improcedente.
+
+Foi juntado o documento técnico contábil produzido após o proferimento da sentença, em setembro de 2021 (ID 30465215) e o voto proferido na ADPF n. 7013-DF (ID 30465218).
+
+Preparo regular (ID 30465213 e ID 30465214).
+
+Em contrarrazões (ID 30465221), o MPDFT refuta a preliminar suscitada e repisa os argumentos articulados na sua apelação, em contraposição às alegações formuladas pelo réu. Acrescenta ainda que os aspectos tributários da atividade não interferem ou mitigam os balizamentos impostos pela Lei n. 9.870/1999. Ao final, pugna pelo não provimento do recurso interposto pelo réu.
+
+O CENTRO DE ENSINO UNIFICADO DE BRASILIA – CEUB, em suas contrarrazões (ID 30465223), reitera os argumentos articulados em sua apelação e acrescenta que o caso se amolda com exatidão ao objeto das ADPFs números 706 e 713. Ao final, pugna pelo não provimento do recurso interposto pelo autor.
+
+É o Relatório.
+
+VOTOS
+
+A Senhora Desembargadora SONÍRIA ROCHA CAMPOS D'ASSUNÇÃO - Relatora
+
+Os recursos interpostos em ambas as ações civis públicas (autos do proc. n. 0724654-40.2020.8.07.0001 e autos do proc. n. 0705831-81.2021.8.07.0001) contra a mesma sentença serão analisados conjuntamente.
+
+Inicialmente, cumpre analisar a preliminar de nulidade da sentença suscitada pelo réu/apelante CENTRO DE ENSINO UNIFICADO DE BRASILIA – CEUB, sob o fundamento de ausência de fundamentação e por violação aos princípios do contraditório e da ampla defesa, nos termos dos artigos 7º e 489, inc. IV, ambos do CPC e do art. 93, inc. IX, da Constituição Federal.
+
+A sentença, no entanto, apresenta fundamentação consistente e adequada para sustentar a convicção do julgador, em observância à norma legal do artigo 489, § 1º, incisos I a IV, do CPC e artigo 93, IX, da CF. Logo, a insurgência da parte contra o acerto ou desacerto dos fundamentos da decisão, bem como sua adequação ao ordenamento jurídico, é matéria afeta ao mérito do recurso, não havendo, portanto, qualquer vício de fundamentação na sentença, razão pela qual rejeito a preliminar suscitada.
+
+Quanto ao documento técnico-contábil coligido em ambos os autos pelo réu/apelante, após a sentença, este não será conhecido, pois não se trata de documento novo, não tendo sido demonstrado o justo impedimento para a sua juntada tempestiva.
+
+No caso, observa-se que o pedido formulado nos autos do processo n. 0724654-40.2020.8.07.0001 foi julgado procedente e nos autos do processo n. 0705831-81.2021.8.07.0001, julgado procedente em parte, ambos com fundamento nos artigos 317, 478 e 479 do Código Civil, e do art. 6º, inc. V, do Código de Defesa do Consumidor, para condenar o réu a restituir aos alunos a diferença do percentual de 9,95% (nove vírgula noventa e cinco por cento) sobre o valor das mensalidades do período compreendido entre março e dezembro de 2020, exceto para aqueles que obtiveram descontos iguais ou superiores ao percentual e aqueles que não tiveram as atividades afetadas pelas medidas de restrição (autos n. 0724654-40.2020.8.07.0001, ID 32205213 e n. 0705831-81.2021.8.07.0001, ID 30465198).
+
+A questão devolvida a julgamento a este e. TJDFT, nos autos n. 0724654-40.2020.8.07.0001, consiste na verificação da possibilidade de concessão de desconto de 9,95% do valor das mensalidades para os alunos de medicina, no contexto das medidas de isolamento social adotadas para enfrentamento da pandemia COVID-19; e, nos autos n. 0705831-81.2021.8.07.0001, relativamente ao mesmo período, e à restituição do percentual de 15,17% a todos os matriculados no ano letivo de 2020, exceto para aqueles que receberam abatimentos em montante igual ou superior ao referido percentual e para os alunos de medicina, objeto ação civil pública que deu origem aos autos do processo n. 0724654-40.2020.8.07.
+
+Inicialmente, convém assinalar que a Portaria 343/2020 do Ministério da Educação autorizou a substituição das disciplinas presenciais por meio de tecnologia de informação e comunicação, ou mesmo suspender as atividades presenciais, sendo vedada a aplicação da substituição nos cursos de medicina e práticas profissionais nos demais cursos, sem prejuízo da reposição posterior das atividades presenciais suspensas. Ademais, nos termos da Portaria 544/2020, a modalidade de ensino à distância foi estendida até 31/12/2020. Confira-se:
+
+PORTARIA Nº 343, DE 17 DE MARÇO DE 2020
+
+“O MINISTRO DE ESTADO DA EDUCAÇÃO, no uso da atribuição que lhe confere o art. 87, parágrafo único, incisos I e II, da Constituição, e considerando o art. 9º, incisos II e VII, da Lei nº 9.394, de 20 de dezembro de 1996, e o art. 2º do Decreto nº 9.235, de 15 de dezembro de 2017, resolve:
+
+Art. 1º Autorizar, em caráter excepcional, a substituição das disciplinas presenciais, em andamento, por aulas que utilizem meios e tecnologias de informação e comunicação, nos limites estabelecidos pela legislação em vigor, por instituição de educação superior integrante do sistema federal de ensino, de que trata o art. 2º do Decreto nº 9.235, de 15 de dezembro de 2017.
+
+§ 1º O período de autorização de que trata o caput será de até trinta dias, prorrogáveis, a depender de orientação do Ministério da Saúde e dos órgãos de saúde estaduais, municipais e distrital.
+
+§ 2º Será de responsabilidade das instituições a definição das disciplinas que poderão ser substituídas, a disponibilização de ferramentas aos alunos que permitam o acompanhamento dos conteúdos ofertados bem como a realização de avaliações durante o período da autorização de que trata o caput.
+
+§ 3º Fica vedada a aplicação da substituição de que trata o caput aos cursos de Medicina bem como às práticas profissionais de estágios e de laboratório dos demais cursos.
+
+§ 4º As instituições que optarem pela substituição de aulas deverão comunicar ao Ministério da Educação tal providência no período de até quinze dias.”
+
+Art. 2º Alternativamente à autorização de que trata o art. 1º, as instituições de educação superior poderão suspender as atividades acadêmicas presenciais pelo mesmo prazo.
+
+§ 1º As atividades acadêmicas suspensas deverão ser integralmente repostas para fins de cumprimento dos dias letivos e horas-aulas estabelecidos na legislação em vigor.
+
+§ 2º As instituições poderão, ainda, alterar o calendário de férias, desde que cumpram os dias letivos e horas-aula estabelecidos na legislação em vigor.”
+
+(Grifo nosso)
+
+PORTARIA Nº 544, DE 16 DE JUNHO DE 2020
+
+“Art. 1º Autorizar, em caráter excepcional, a substituição das disciplinas presenciais, em cursos regularmente autorizados, por atividades letivas que utilizem recursos educacionais digitais, tecnologias de informação e comunicação ou outros meios convencionais, por instituição de educação superior integrante do sistema federal de ensino, de que trata o art. 2º do Decreto nº 9.235, de 15 de dezembro de 2017.
+
+§ 1º O período de autorização de que trata o caput se estende até 31 de dezembro de 2020.”
+
+(Grifo nosso)
+
+Nessa perspectiva, a adoção do sistema de ensino à distância nas disciplinas permitidas pelo MEC, em razão da pandemia COVID-19, não resulta necessariamente em perda da qualidade da prestação dos serviços, de modo a justificar abatimento no valor das mensalidades, ou mesmo a isenção no pagamento desses valores. Ademais, as instituições que continuaram prestando o serviço contratado, mas na modalidade à distância, têm obrigação de evitar prejuízos na qualidade de ensino, e, no caso de eventual prejuízo de natureza pedagógica aos discentes, revela-se legítima a pretensão à reposição de aulas e conteúdo, mediante custeio pelas entidades educacionais e sem a cobrança de valores adicionais e não, frise-se, eventual desconto no valor da mensalidade ou a isenção desses valores.
+
+É indiscutível que, no contexto da pandemia e na obrigatoriedade de permanência da prestação dos seus serviços educacionais, as instituições de ensino tiveram que manter o corpo docente, técnico e administrativo e arcar com novos custos, mediante investimentos em serviços de aperfeiçoamento das plataformas digitais para a consecução de sua atividade fim. É inegável, também, que houve a redução de custos com as instalações físicas, dispensa de funcionários, ou pelo uso eventual de benefício disponibilizado pela União Federal para minimizar os impactos da pandemia, como é o caso da MP 936/2020, convertida, posteriormente, na Lei n. 14020/2020 e da Portaria n. 139/2020 do Ministério da Economia e Instrução Normativa n. 1.932/2020 - SRFB.
+
+É elementar, portanto, que não é possível cerrar os olhos ao fato público e notório, de que as circunstâncias do referido contexto pandêmico, por representar eventos de força maior, imprevistos e inevitáveis, trouxeram grande repercussão na vida de inúmeras famílias, especificamente dos estudantes, pois, com restrição à circulação de pessoas, dado o isolamento e a quarentena, restou prejudicado o fluxo de renda usual, ante a interrupção do funcionamento de atividades comerciais, resultando em significativos impactos na saúde financeira das pessoas, nos diversos setores da economia. Nada obstante, as instituições privadas de ensino permaneceram cobrando o mesmo valor convencionado nos contratos de serviços educacionais celebrados para o ano letivo de 2020.
+
+Inexoravelmente, com a redução dos custos e a manutenção da receita, mesmo em face das despesas operacionais, é factível que as instituições de ensino possam ter sido beneficiadas com o contexto pandêmico para a obtenção de superávit exponencial. Ao revés, no entanto, os discentes tiveram que arcar com novas despesas para a adequação do ambiente doméstico que possibilitasse o acompanhamento das aulas na modalidade virtual, à distância; outros, não dispuseram de situação financeira necessária à aquisição dos mesmos recursos eletrônicos; e, ainda, outros experimentaram decréscimo patrimonial com a perda de emprego ou com a redução de seus salários, a encerrar o manifesto desequilíbrio financeiro nas relações negociais de trato continuado, consubstanciado em contrato de adesão, a permitir a revisão da contraprestação pactuada, observados os fundamentos da teoria da imprevisão e da onerosidade excessiva (artigos 317, 478 a 480 do CPC e 6º, inc. V do CDC), e a propiciar a atuação do Poder Judiciário, ainda que ausentes, em princípio, eventuais disposições contratuais abusivas.
+
+No caso, de acordo com os pareceres técnico contábeis n. 1220/2020 e n. 12/2021(ID 30464764 e ID 30464765, nos autos n. 0705831-81.2021.8.07.0001) produzidos pelo MPDFT, com as informações financeiras parciais prestadas pela própria entidade educacional, após a virtualização do ensino, as despesas da instituição foram reduzidas no importe total de 15,17%, com redução estimada do faturamento na proporção de 5,22%, tendo a instituição obtido superávit no patamar de R$ 3.654.720,97, no ano de 2020, e receita, com mensalidades no valor de R$ 432.378.101,00, diferentemente do ocorrido em momento de normalidade, no mesmo período do ano de 2019, em que, por ocasião da prestação dos serviços educacionais de modo presencial, foi constatado déficit no montante de R$ 11.566.452,15 e receita com mensalidades no importe de R$ 445.106.661,00. Não foram juntados aos autos os elementos de cálculos indicados pelo corpo técnico do MPDFT (ID 30464764, p. 2), relativamente à planilha para cada curso correspondente aos anos de 2019 e 2020, nos moldes especificados no Decreto 3.274/199 e o detalhamento da composição da rubrica “outras despesas”.
+
+O réu confirmou que houve aludido superávit, no ano de 2020 (R$ 3.654.720,97) e déficit em 2019 (R$ 11.566.452,00) (ID 30465120, pp. 34-35).
+
+Conquanto evidenciada a existência de superávit, observados os parâmetros estabelecidos na Lei n. 9.870/1999, que dispõe a respeito do valor das anuidades escolares e detalha itens da composição dos custos dos serviços educacionais, de modo a permitir transparência e equilíbrio às relações negociais, de acordo com o acervo probatório acima indicado, não é possível aferir a aludida onerosidade excessiva relativamente a cada contrato individualmente considerado, e suas peculiaridades, no período objeto da pretensão.
+
+Nessas circunstâncias, a despeito das legítimas pretensões, é imprescindível a aferição de que o pagamento das mensalidades no valor contratado converteu-se, de fato, em prestação extremamente onerosa a aluno específico, de modo a caracterizar desequilíbrio contratual, observadas as regras preconizadas pelo Código de Defesa do Consumidor, pois, a princípio, a tutela à pretensão do consumidor/aluno não pode fundar-se em juízo de presunção, para conceder de modo amplo e genérico, sem a necessária aferição das peculiaridades da situação fática, de modo a que a generalidade da medida não venha a privilegiar com o benefício também o discente que, de nenhum modo, sofreu perda econômica efetiva, em decorrência da pandemia de Covid-19.
+
+Tal entendimento se depreende do recente julgamento da questão pelo e. STF, nos autos dos processos originados das Ações de Descumprimento de Preceito Fundamental (ADPF), números 706 e 713, em conjunto, tendo sido acolhida, por maioria, a tese da declaração de inconstitucionalidade do desconto linear em mensalidades cobradas por instituições de ensino superior, no contexto da pandemia, ao fundamento de que, sem considerar as circunstâncias fáticas efetivamente demonstradas, deixa-se de sopesar os reais efeitos da pandemia em ambas as partes contratuais, os quais são aplicados de forma linear, a violar a livre iniciativa, por impedir a via da renegociação entre as respectivas partes envolvidas. Confira-se o teor da ementa:
+
+“ARGUIÇÃO DE DESCUMPRIMENTO DE PRECEITO FUNDAMENTAL. DIREITO CONSTITUCIONAL. DIREITO FUNDAMENTAL À EDUCAÇÃO. INSTITUIÇÕES DE ENSINO SUPERIOR PRIVADAS. PANDEMIA DA COVID-19. REVISÃO CONTRATUAL. MENSALIDADES. LEGITIMIDADE ATIVA AD CAUSAM. PERTINÊNCIA TEMÁTICA. CONHECIMENTO DA ARGUIÇÃO. CONTROLE DE CONSTITUCIONALIDADE DE DECISÕES JUDICIAIS. JULGAMENTO DEFINITIVO. LEI Nº 14.040/2020. DESENVOLVIMENTO DO ENSINO MEDIANTE ATIVIDADES NÃO PRESENCIAIS. INCONSTITUCIONALIDADE DA CONCESSÃO DE DESCONTOS LINEARES POR VIOLAÇÃO DA LIVRE INICIATIVA, DA ISONOMIA, DA AUTONOMIA UNIVERSITÁRIA E DA PROPORCIONALIDADE. VIOLAÇÃO DOS ARTIGOS 1º, IV, 170, 209, 5º, CAPUT, E 207 DA CONSTITUIÇÃO FEDERAL. PROCEDÊNCIA.
+
+(...)
+
+2. Ajuizamento da arguição de descumprimento de preceito fundamental em face do conjunto de decisões judiciais que concedem descontos lineares nas mensalidades das instituições de ensino superior privado no contexto das medidas de isolamento social adotadas para enfrentamento da pandemia da COVID-19. Cabimento. Apreciação de lesão a preceito fundamental provocada por interpretação judicial. Subsidiariedade atendida. Suficientemente relevante a controvérsia constitucional.
+
+(...)
+
+4. O problema constitucional referente à controvérsia advinda de decisões judiciais com entendimentos diversos quanto à possibilidade de, no contexto da pandemia da Covid-19, determinar judicialmente a redução das mensalidades, semestralidades ou anuidades a serem pagas às instituições de ensino superior em razão unicamente do fato de o ensino ter deixado de ser prestado de forma presencial. Impacto da pandemia do novo coronavírus na área educacional reconhecido pela Lei n.º 14.040/2020. Flexibilização excepcional do cumprimento do mínimo de dias de atividade acadêmica. Inauguração de regramento para assegurar o desenvolvimento do ensino mediante atividades não presenciais a fim de permitir a integralização da carga horária exigida.
+
+5. Decisões que deferem descontos gerais e lineares, com disciplinas díspares e percentuais diversos. Presunção de prejuízo automático de uma das partes. A imposição de descontos lineares desconsidera as peculiaridades de cada contrato individualmente considerado e viola a livre iniciativa, por impedir a via da renegociação entre as respectivas partes envolvidas. Precedente.
+
+6. Interpretações judiciais a evidenciarem situação apartada da isonomia. Em se tratando de decisões judiciais, ausentes causas constitucionais que validem tratamento diferenciado – igualdade material –, as hipóteses análogas hão de ser igualmente tratadas.
+
+7. Cabe a cada universidade ou instituição de ensino superior gerir os específicos contratos educacionais e efetuar eventuais negociações para descontos na contraprestação financeira de acordo com a peculiaridade de cada curso e com a realidade econômica particular de cada discente, sem prejuízo da apreciação judicial da avença, também à luz das especificidades contratuais surgidas após a eclosão da pandemia e da necessidade de manutenção da prestação do ensino sob o novel formato exigido. A concessão de descontos lineares gera relevante impacto na obtenção de recursos financeiros suficientes, em detrimento da autonomia universitária garantida na Lei Fundamental.
+
+(...)
+
+9. Ausência de afronta ao ato jurídico perfeito e à segurança jurídica. A teoria da imprevisão mitiga legitimamente a força obrigatória dos contratos (pacta sunt servanda) em nome da preservação da avença de forma equilibrada.
+
+10. A fixação de reduções ou descontos lineares nas contraprestações devidas às instituições revela desproporcionalidade. Não há adequação da medida à tutela do direito do consumidor-estudante concebido de forma genérica e ampla, fulcrada em um raciocínio de presunção. Inexiste adequação da solução adotada para tutelar também a saúde, a manutenção do ensino, o equilíbrio financeiro das instituições, a função social das empresas, dentre outros aspectos relevantes. Inobservância da necessidade: menos gravosa exsurge a possibilidade de negociação concreta em via conciliatória entre as partes – com resultado sujeito ao escrutínio judicial –, caso a caso, à luz das circunstâncias fáticas efetivamente demonstradas. De difícil verificação a proporção entre o meio (interferência judicial geral e abstrata nos contratos de ensino superior privado para reduzir a contraprestação devida por estudantes) e o fim (proteção econômica do consumidor-estudante em razão do desequilíbrio contratual acarretado pela pandemia). O sopesamento entre os custos e benefícios da interferência conduz à conclusão de que os custos suportados pelas instituições superam os benefícios que poderiam ser ofertados aos discentes que verdadeiramente necessitem renegociar a contraprestação prevista no contrato celebrado. A generalidade da medida culmina no desfrute da benesse também por quem de nenhum modo sofreu perda econômica efetiva em decorrência da pandemia da Covid-19.
+
+11. À luz da necessária observância dos preceitos fundamentais da livre iniciativa, da isonomia, da autonomia universitária e da proporcionalidade, é inconstitucional decisão judicial que, sem considerar as circunstâncias fáticas efetivamente demonstradas, deixa de sopesar os reais efeitos da pandemia em ambas as partes contratuais, e determina a concessão de descontos lineares em mensalidades de cursos prestados por instituições de ensino superior.
+
+12. Arguição de descumprimento de preceito fundamental conhecida e pedido julgado procedente para afirmar a inconstitucionalidade das interpretações judiciais que, unicamente fundamentadas na eclosão da pandemia da Covid-19 e no respectivo efeito de transposição de aulas presenciais para ambientes virtuais, determinam às instituições de ensino superior a concessão de descontos lineares nas contraprestações dos contratos educacionais, sem considerar as peculiaridades dos efeitos da crise pandêmica em ambas as partes contratuais envolvidas na lide.
+
+(...).”
+
+(ADPF 706, Relator(a): ROSA WEBER, Tribunal Pleno, julgado em 18/11/2021, PROCESSO ELETRÔNICO DJe-059 DIVULG 28-03-2022 PUBLIC 29-03-2022)
+
+(Grifo nosso)
+
+Convém frisar, aliás, que em face do seu caráter vinculante e de sua aplicabilidade imediata, independentemente do trânsito em julgado da decisão, a tese firmada no julgamento das referidas ADPFs repercute inarredavelmente no exame da questão em apreço (art. 10, § 3º, da Lei n. 9882/1999).
+
+Consentâneo a esse entendimento, segue acórdão recente desta Corte de Justiça:
+
+DIREITO DO CONSUMIDOR E PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. DESCONTO EM MENSALIDADES ESCOLARES DURANTE A PANDEMIA COVID-19. COMPETÊNCIA DA JUSTIÇA COMUM DO DISTRITO FEDERAL. DIREITOS INDIVIDUAIS HOMOGÊNEOS DE RELEVÂNCIA SOCIAL. LEGITIMAÇÃO DO MINISTÉRIO PÚBLICO. SENTENÇA. FUNDAMENTAÇÃO IDÔNEA. NULIDADE INEXISTENTE. PEDIDO IMPROCEDENTE. TESE FIXADA NA ADPF 706. INTERVENÇÃO JUDICIAL INJUSTIFICADA NOS CONTRATOS DE PRESTAÇÃO DE SERVIÇOS EDUCACIONAIS.
+
+I. Ação de conhecimento que tem por objeto a imposição de abatimento ou desconto de mensalidades cobradas por instituição de ensino superior durante a pandemia Covid-19 não se enquadra em nenhuma das hipóteses de competência da Justiça Federal enumeradas taxativamente no artigo 109 da Constituição Federal.  II. Controvérsia sobre o valor ou a exigibilidade de mensalidades não está relacionada à delegação do ensino superior e por isso não desperta interesse da União, pressuposto sem o qual não há que se cogitar da competência da Justiça Federal.  III. De acordo com a inteligência do artigo 489, § 1º, inciso IV, do Código de Processo Civil, considera-se fundamentada a sentença que aborda as questões de fato e de direito relevantes para a solução do litígio, ainda que as partes tenham suscitado matérias que, segundo a compreensão do julgador, não interferem na solução da lide.   IV. O fato de a sentença não aderir à tese jurídica, à vertente interpretativa e à valoração probatória defendidas pela parte não traduz nenhum tipo de lapso de fundamentação e, muito menos, de recusa à prestação jurisdicional.  V. O Ministério Público tem legitimidade para propor ação civil pública com a finalidade de promover o reequilíbrio financeiro de contratos de prestação de serviços educacionais celebrados entre alunos e instituição de ensino superior, presente o disposto no artigo 129, inciso III, da Constituição Federal, os artigos 81, inciso III, 82, inciso I, e 83 do Código de Defesa do Consumidor, e nos artigos 1º, inciso II, 3º e 5º, inciso I, da Lei 7.347/1985.  VI. No julgamento da ADPF 706 o Supremo Tribunal Federal afirmou "a inconstitucionalidade das interpretações judiciais que, unicamente fundamentadas na eclosão da pandemia da Covid-19 e no respectivo efeito de transposição de aulas presenciais para ambientes virtuais, determinam às instituições de ensino superior a concessão de descontos lineares nas contraprestações dos contratos educacionais, sem considerar as peculiaridades dos efeitos da crise pandêmica em ambas as partes contratuais envolvidas na lide".  VII. A redução de despesas por conta da alteração episódica do modelo de aula durante a pandemia Covid-19 convida a uma simplificação que não condiz com a complexidade de fato e de direito do litígio, porquanto desconsidera tantos outros fatores relevantes para a formação do valor das mensalidades, tais como custos específicos para a implementação do ensino virtual e perda de receita pela evasão escolar e pela inadimplência. VIII. Apelação conhecida e provida.
+
+(Acórdão 1622778, 07092951620218070001, Relator: JAMES EDUARDO OLIVEIRA , 4ª Turma Cível, data de julgamento: 5/10/2022, publicado no DJE: 8/11/2022.)
+
+Desse modo, eventuais prejuízos decorrentes da perda da qualidade de ensino devem corresponder necessariamente à exigência de reposição do conteúdo, às expensas da instituição de ensino, e como assinalado no julgamento das ADPFs acima indicadas, não se revelando possível o provimento judicial de caráter genérico e linear aos alunos da instituição, como pretendido em ambas as ações civis públicas, com base apenas no superávit obtido, sem sopesar, necessariamente, o alcance do desequilíbrio em cada relação contratual, individualmente considerado.
+
+Do exposto, conheço dos recursos (autos dos proc. n. 0724654-40.2020.8.07.0001 e n. 0705831-81.2021.8.07.0001), DOU PROVIMENTO aos do CENTRO DE ENSINO UNIFICADO DE BRASILIA - CEUB, para julgar improcedente o pedido, e NEGO PROVIMENTO ao do MPDFT.
+
+Deixo de majorar os honorários advocatícios, porquanto não fixados na sentença.
+
+É como voto.
+
+A Senhora Desembargadora VERA ANDRIGHI - 1º Vogal Com o relatorO Senhor Desembargador ALFEU MACHADO - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECIDO. PROVIDO O RECURSO DO CEUB E DESPROVIDO O DO MPDFT. UNÂNIME.
