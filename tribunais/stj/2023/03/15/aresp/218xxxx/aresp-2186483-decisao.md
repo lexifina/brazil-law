@@ -1,0 +1,39 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especial interposto por PEDRO ABNER ALVES COUTINHO contra decisão do Tribunal de Justiça do Estado da Paraíba que não admitiu recurso especial manejado contra acórdão assim ementado (e-STJ, fls. 396/397):
+APELAÇÃO CÍVEL AÇÃO DECLARATÓRIA DE NULIDADE DE CLÁUSULACONTRATUAL C/C INDENIZAÇÃO POR DANOS MORAIS. PRELIMINAR. INOVAÇÃO RECURSAL. MODIFICAÇÃO DA FUNDAMENTAÇÃO. IMPOSSIBILIDADE EM SEDE DE RECURSO. NÃO CONHECIMENTO DE PARTE DORECURSO. Na sistemática processual civil, toda a matéria a ser discutida na lide deve ser suscitada na inicial, na contestação, na impugnação ou em sede de reconvenção, não devendo ser conhecida a matéria arguida apenas em sede de apelação, porquanto não faz parte do pedido formulado. MÉRITO. ATRASO NA ENTREGA DAS CHAVES. DENTRO DO PRAZO DE TOLERÂNCIA. INOCORRÊNCIA. DANO MORAL NÃO CONFIGURADO. TAXA DE EVOLUÇÃO DA OBRACOBRADA SOMENTE DURANTE O PRAZO DO CONTRATO. LEGALIDADE. CORRETAGEM EXPLÍCITA NO PACTO. LEGAL. MANUTENÇÃO DA SENTENÇA. DESPROVIMENTO. Não se considera atrasada a entrega das chaves do imóvel, ocorrida dentro do prazo de prorrogação da cláusula de tolerância de 180 dias, previstos no contrato. O dano moral não se configura não havendo atraso na entrega das chaves pela construtora. Não comprovada pelo autor a alegada cobrança de taxa de evolução da obra depois de findo o contrato, não cabe condenação da ré em restituição de tais valores. Segundo o entendimento firmado no STJ, a cobrança de comissão de corretagem é legal ( REspn.1551951/SP).
+Nas razões do recurso especial a parte alega ofensa aos seguintes dispositivos legais: art. 929 do CC/02; arts. 51, IV, e 54 do CDC e art. 43, III, da Lei n. 4591/64.
+Pede a reforma do acórdão por entender, em síntese, que a construtora possui responsabilidade objetiva na relação em demanda, portanto, a parte recorrida "deve ser compelida a indenizar a parte autora pelos danos morais e materiais causados pela frustração gerada à autora que não recebeu o imóvel na data aprazada, por culpa única e exclusiva das demandadas" - fl. 425.
+É o relatório.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+Quanto à alegação de violação aos artigos apontados no especial, o recurso não pode ser conhecido em razão da incidência, por analogia, da Súmula 283/STF.
+Na hipótese, consta do acórdão recorrido que (fls. 399/401):
+O contrato foi celebrado em 05/05/2014 e o prazo para a entrega do imóvel era 30/06/2015 (Id.7323479 e 7323480).
+Também se deve ressaltar que era possível a prorrogação desse prazo por mais 180 (cento e oitenta) dias conforme Cláusula M do contrato.
+É a denominada cláusula de tolerância, que não é ilegal, desde que contratada com prazo determinado e razoável.
+ ..
+Sendo assim, como a entrega das chaves do imóvel ocorreu em (Id. 7323483), não tem05/08/2015razão a parte autora, pois não ocorreu atraso pela apelada.
+Vale pontuar que foi o próprio apelante/autor que juntou ao processo o Contrato de Promessa de Compra e Venda que revelam tais informações.
+Os fundamentos da parte apelante apenas reprisam a entrega em atraso sem nem mesmo questionar os fatos evidenciados nos autos.
+Se assim é, o pedido que decorreria da constatação do atraso na entrega é improcedente tal e como conclui a sentença, qual seja: condenação em indenização por danos morais.
+Entretanto, a recorrente argumentou, tão somente, o malferimento ao art. 929 do CC/02; arts. 51, IV, e 54 do CDC e art. 43, III, da Lei n. 4591/64, deixando de refutar o principal motivo trazido pelo acórdão para indeferir seu pleito, que seja: a validade da cláusula de tolerância que postergou a entrega do imóvel em 180 dias.
+Desse modo, a subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, impede a admissão da pretensão recursal, a teor do entendimento da Súmula nº 283/STF: "é inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Nesse sentido a jurisprudência do Tribunal:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. CUMPRIMENTO DE SENTENÇA. CONCLUSÃO DO ACÓRDÃO PELO DESCABIMENTO DO PEDIDO DE INCLUSÃO EM FOLHA DE PAGAMENTO DE CONCESSIONÁRIA DE SERVIÇO PÚBLICO EM SUBSTITUIÇÃO À CONSTITUIÇÃO DE CAPITAL ASSECURATÓRIO DO ADIMPLEMENTO DO PENSIONAMENTO. INEXISTÊNCIA DE PREJUÍZO. MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DAS SÚMULAS 7 E 83 DO STJ. FUNDAMENTOS NÃO IMPUGNADOS. SÚMULA 283/STF. AGRAVO INTERNO IMPROVIDO.
+1. Segundo a jurisprudência desta Corte, a possibilidade de substituição da constituição de capital pela inclusão do exequente em folha de pagamento da empresa deve ser avaliada pelo juízo da execução no momento do cumprimento de sentença.
+2. A mera circunstância de ser a empresa ré concessionária de serviço público não a exime da constituição de capital garantidor, como forma de assegurar o cumprimento da obrigação (Súmula 313/STJ) 3. A alteração da conclusão do Tribunal estadual quanto à necessidade de constituição de capital assecuratório do adimplemento do pensionamento demandaria o reexame do conjunto fático-probatório dos autos, o que é vedado pela Súmula n. 7 do STJ.
+4. A manutenção de argumento que, por si só, sustenta o acórdão recorrido torna inviável o conhecimento do recurso especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+5. Agravo interno improvido.
+(AgInt no AREsp 1530151/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 16/12/2019, DJe 19/12/2019)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. FALSIDADE DE DOCUMENTO. NULIDADE DO NEGÓCIO JURÍDICO. ART. 1.022 DO CPC/2015. AUSÊNCIA DE OMISSÕES VÍCIO DE COAÇÃO. MATÉRIA QUE DEMANDA REEXAME DE PROVAS. SÚMULA 7 DO STJ. PRESCRIÇÃO. COISA JULGADA. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULAS 283 E 284 DO STF. DANO MORAL. REDUÇÃO. REEXAME. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há que se falar em qualquer ofensa aos artigos 1022, II e 489, §1º, do CPC/2015, porquanto embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+2. A falta de impugnação objetiva e direta ao fundamento central do acórdão recorrido, o que denota a deficiência da fundamentação recursal, pois o recorrente se apegou a considerações secundárias e que de fato não constituíram objeto de decisão pelo Tribunal de origem, a fazer incidir, no particular, as Súmulas 283 e 284 do STF.
+3. Nos termos da jurisprudência consolidada no STJ, a revisão de indenização por danos morais somente é possível em recurso especial quando o valor fixado nas instâncias locais for exorbitante ou ínfimo, de modo a afrontar os princípios da razoabilidade e da proporcionalidade. Ausentes tais hipóteses, incide a Súmula 7 do STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp 1274995/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 30/08/2018, DJe 05/09/2018; grifou-se)
+Assim sendo, o não conhecimento do recurso é medida que se impõe.
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. SUPOSTO ATRASO NA ENTREGA DO BEM. FUNDAMENTO NÃO REFUTADO NAS RAZÕES DO ESPECIAL. SÚMULA 283/STF.
+1. A subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, impede a admissão da pretensão recursal, a teor do entendimento da Súmula nº 283/STF: "é inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+AGRAVO CONHECIDO PARA, DESDE LOGO, NÃO CONHECER DO RECURSO ESPECIAL.
