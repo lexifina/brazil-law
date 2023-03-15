@@ -1,0 +1,67 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por PAULO FRANCISCO MOLINARI e INEZ DOS SANTOS MOLINARI, com base no art. 105, III, a, da Constituição Federal, desafiando acórdão do Tribunal de Justiça do Estado de Minas Gerais assim ementado (e-STJ, fl. 192):
+APELAÇÃO CÍVEL - AÇÃO DE EXECUÇÃO - NOTA PROMISSÓRIA - PRAZO PRESCRICIONAL - TRÊS ANOS - LEI UNIFORME DE GENEBRA - INTERRUPÇÃO DA CONTAGEM - AJUIZAMENTO DA EXECUÇÃO, DEFERIDA PELO JUIZ - CONSTATAÇÃO - CITAÇÃO - ESPÓLIO - REPRESENTAÇÃO - ADMINISTRADOR PROVISÓRIO - CIRCUNSTÂNCIAS FÁTICAS. O credor da nota promissória tem três anos para promover a ação de execução de título extrajudicial em face do devedor (art. 70 da Lei Uniforme de Genebra). A contagem do prazo prescricional inicia-se na data de vencimento do título. A propositura da execução, deferida pelo juiz, interrompe a prescrição, devendo a citação observar o disposto no art. 219 do CPCI73. Se as circunstâncias fáticas permitem concluir que a herdeira citada era responsável pela administração da herança, considera-se interrompida a contagem do prazo prescricional desde o ajuizamento da execução.
+Os embargos de declaração opostos foram acolhidos, sem efeitos infringentes (e-STJ, fl. 220-225). Posteriormente, os embargos de declaração opostos foram rejeitados (e-STJ, fls. 245-248).
+Em suas razões de recurso especial (e-STJ, fls. 251-264), os agravantes alegaram violação aos arts. 240, §§ 1º e 2º, e 489, II, CPC de 2015; e 70 do Decreto n. 57.663/1966.
+Sustentou, em síntese, a ocorrência de irregularidade na representação processual, uma vez que a mesma pessoa que executa a ação também representa o espólio como inventariante, não cabendo a citação da herdeira como administradora provisória.
+Asseveraram que a citação não é válida, não sendo o caso, portanto, de afastar a prescrição da nota promissória.
+Requereu, dessa forma, o provimento do recurso.
+Não foram apresentadas contrarrazões.
+O processamento do apelo especial não foi admitido pela Corte local, levando os insurgentes a interpor o presente agravo.
+Contraminuta não apresentada.
+Brevemente relatado, decido.
+De plano, vale pontuar que o recurso em análise foi interposto na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo n. 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Acerca do tema de fundo, o Tribunal de Justiça do Estado de Minas Gerais dirimiu a controvérsia, reconhecendo a validade da citação e a interrupção da prescrição da nota promissória, sob os seguintes aspectos (e-STJ, fls. 194-197):
+A questão submetida a este Órgão recursal cinge-se à prescrição da pretensão de execução da nota promissória.
+Dispõe o art. 70 do Decreto n. 57.663 (Lei Uniforme de Genebra) que o credor da nota promissória tem três anos para promover a ação de execução de título extrajudicial em face do devedor.
+A contagem do prazo prescricional inicia-se na data de vencimento do título.
+Para fim de interrupção da contagem vale-se das regras compiladas no CPC/73, vigente no contexto do ajuizamento da demanda.
+Registra-se que o a propositura da execução interrompe a prescrição, conforme art. 617 do CPC/73:
+( )
+O dispositivo ressalta que a citação dever ocorrer em observância ao art. 219. Este institui o prazo de 10 (dez) dias, prorrogado a até 90 (noventa) dias, contado do despacho que a ordena, pena de não se haver por interrompida a prescrição.
+Essa sanção não incide quando a demora na citação for imputável exclusivamente ao serviço judiciário.
+Confira-se o teor da norma:
+( )
+No caso, verifica-se que a data de vencimento da nota promissória objeto da ação é 20/12/2007 (f.6) e que ajuizada a execução contra o espólio de Tibúrcio Donizete de Souza em 1818/2010 (f.10).
+Destaca-se que em 21912010, o Juízo de origem deferiu o processamento da execução e ordenou a citação do espólio para pagamento (ff. 12-13).
+A citação da herdeira Franciele Abadia Reis de Souza aconteceu em 20/9/2010, com juntada do mandado cumprido em 241912010 (f.16); o herdeiro Jefferson de Souza, qualificado como piloto, não foi encontrado frustrando a citação (f.17).
+Convém frisar que em 13/3/2012 a Apelante foi nomeada inventariante na condição de credora (ad. 988, IV do CC) (f.43) e, desde então, adota providências judiciais para obter o crédito.
+Enquanto não nomeado e compromissado inventariante, o espólio continua na posse do administrador provisório, o qual o representa ativa e passivamente em juízo.
+É o que dispõe os ad. 985 e 986 do CPC/73:
+( )
+Malgrado inexista ato formal conferindo a administração à Franciele Abadia Reis de Souza, as circunstâncias fáticas deixam concluir que a herdeira de alguma forma era responsável, pois o herdeiro Jefferson de Souza é piloto e dada às funções não tem residência fixa.
+Com efeito, o ajuizamento da execução em 18/8/2010 interrompeu a prescrição, cuja contagem iniciou em 20/12/2007 (vencimento da nota promissória), visto que a representante do espólio, Franciele Abadia Reis de Souza, foi citada dentro do prazo legal.
+Ainda que se entendesse que Franciele não figurava a administradora provisória e que a citação dos dois herdeiros era imprescindível, não se imputa a Apelante a falta da citação de Jefferson de Souza, mas ao serviço judiciário, sobretudo se se considerar que sua chamada foi exitosa nos autos da ação de inventário (1,0040.10.008653-3/001 f.41 - processo apenso). E, conforme ponderado anteriormente, a falha não tem o condão de invalidar a interrupção da prescrição operada com ajuizamento da execução.
+Nesse contexto, considerando que a contagem do prazo prescricional de três anos foi validamente interrompida, rejeita-se a prescrição.
+Das informações acima colacionadas, verifica-se que o colegiado local entendeu que houve o ajuizamento da execução e reconheceu que a citação do representante do espólio efetuada era válida, ocorrendo, portanto, a interrupção da prescrição.
+Assim, a questão foi resolvida com base nos elementos fáticos que permearam a demanda, analisados de forma objetiva. Desse modo, rever os fundamentos que ensejaram a conclusão alcançada pelo colegiado local exigiria reapreciação do conjunto fático-probatório dos autos, providência que encontra óbice no enunciado n. 7 da Súmula do Superior Tribunal de Justiça.
+Lado outro, percebe-se, da análise das razões recursais, que os agravantes não impugnaram o fundamento utilizado pelo acórdão recorrido, no sentido de que a ausência de citação do outro herdeiro decorreu por falha do serviço judiciário e tal circunstância não tem a capacidade de invalidar a interrupção da prescrição.
+Assim, a subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não conhecimento da pretensão recursal, conforme o entendimento disposto na Súmula n. 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Nesse sentido:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE CONHECIMENTO DE NATUREZA CONSTITUTIVA - CONDENATÓRIA - DISPOSITIVO CONSTITUCIONAL. VIOLAÇÃO. COMPETÊNCIA DO STF. INDEFERIMENTO DE PRODUÇÃO DE PROVA PERICIAL NAS ORDENS DE PAGAMENTO. FUNDAMENTO NÃO IMPUGNADO. ÓBICE DA SÚMULA N. 283 DO STF. DIVERGÊNCIA JURISPRUDENCIAL. REQUISITOS DO ARTS. 255, §§ 1º e 2º, DO RISTJ e 1.029, § 1º do CPC/2015 NÃO CUMPRIDOS. DECISÃO MANTIDA.
+1. Inviável a análise de ofensa aos dispositivos constitucionais sob pena de usurpação da competência reservada à Corte Suprema.
+2. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+3. Não se conhece do recurso interposto pela alínea "c" do permissivo constitucional, quando a divergência não é demonstrada mediante a verificação das circunstâncias que assemelhem ou identifiquem os supostos casos que deveriam ser apresentados e confrontados e a realização do cotejo analítico entre eles, nos moldes exigidos pelos arts. 255, §§ 1º e 2º, do RISTJ e 1.029, § 1º do CPC/2015.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1909651/MS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 21/03/2022, DJe 28/03/2022).
+Por fim, ressalta-se que, nos termos da jurisprudência do STJ, "acerca da capacidade para estar em juízo, de acordo com o art. 12, V, do CPC, o espólio é representado, ativa e passivamente, pelo inventariante. No entanto, até que o inventariante preste o devido compromisso, tal representação far-se-á pelo administrador provisório, consoante determinam os arts. 985 e 986 do CPC. O espólio tem legitimidade para figurar no pólo passivo de ação de execução, que poderia ser ajuizada em face do autor da herança, acaso estivesse vivo, e será representado pelo administrador provisório da herança, na hipótese de não haver inventariante compromissado" (REsp n. 1.386.220/PB, Relatora Nancy Andrighi, Terceira Turma, DJe de 12/9/2013).
+À guisa de exemplo:
+RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. RÉU FALECIDO PRETERITAMENTE AO AJUIZAMENTO DA DEMANDA. DESNECESSIDADE DE HABILITAÇÃO, SUCESSÃO OU SUBSTITUIÇÃO PROCESSUAL. ILEGITIMIDADE PASSIVA. POSSIBILIDADE DE EMENDA À INICIAL. REPRESENTAÇÃO DO ESPÓLIO. AUSÊNCIA DE INVENTÁRIO OU INVENTARIANTE COMPROMISSADO. ADMINISTRADOR PROVISÓRIO.
+1- Recurso especial interposto em 18/2/2022 e concluso ao gabinete em 8/4/2022.
+2- O propósito recursal consiste em dizer se é admissível habilitação, sucessão ou substituição processual de parte falecida previamente ao ajuizamento da demanda por seu espólio, representado pelo administrador provisório, diante da ausência de inventariante compromissado.
+3- "A propositura de ação em face de réu preteritamente falecido não se submete à habilitação, sucessão ou substituição processual, nem tampouco deve ser suspensa até o processamento de ação de habilitação de sucessores, na medida em que tais institutos apenas são aplicáveis às hipóteses em que há o falecimento da parte no curso do processo judicial." REsp n. 1.559.791/PB, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 31/8/2018.
+4- Sendo ajuizada ação contra réu preteritamente falecido, há situação de ilegitimidade passiva do de cujos, a qual pode ser sanada por meio de emenda à inicial, diante da ausência de ato citatório válido.
+5- A representação judicial do espólio deve ocorrer pelo administrador provisório, em situações em que não haja ação de inventário ajuizada ou inventariante devidamente compromissado.
+6- Na hipótese dos autos, tendo o corréu falecido anteriormente ao ajuizamento da execução, deve ser permitido ao autor emendar a inicial para indicar o administrador provisório como representante judicial do espólio, caso não seja comprovado o ajuizamento da ação de inventário ou não haja inventariante devidamente compromissado.
+7- Recurso especial provido.
+(REsp n. 1.987.061/DF, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 2/8/2022, DJe de 5/8/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ESPÓLIO. REPRESENTAÇÃO PELO INVENTARIANTE. DECISÃO MANTIDA.
+1. Nos termos da jurisprudência do STJ, "acerca da capacidade para estar em juízo, de acordo com o art. 12, V, do CPC, o espólio é representado, ativa e passivamente, pelo inventariante. No entanto, até que o inventariante preste o devido compromisso, tal representação far-se-á pelo administrador provisório, consoante determinam os arts. 985 e 986 do CPC. O espólio tem legitimidade para figurar no pólo passivo de ação de execução, que poderia ser ajuizada em face do autor da herança, acaso estivesse vivo, e será representado pelo administrador provisório da herança, na hipótese de não haver inventariante compromissado" (REsp n. 1.386.220/PB, Relatora Nancy Andrighi, Terceira Turma, DJe de 12/9/2013).
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 711.066/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 13/6/2022, DJe de 21/6/2022.)
+Observa-se que a instância a quo está em harmonia com a orientação do STJ, incidindo, por conseguinte, o teor da Súmula n. 83 do STJ.
+Diante do exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Fiquem as partes cientificadas de que a insistência injustificada (ou desnecessária) no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO. NOTA PROMISSÓRIA. PRAZO PRESCRICIONAL. TRÊS ANOS. INTERRUPÇÃO DA CONTAGEM. AJUIZAMENTO DA EXECUÇÃO, DEFERIDA PELO JUIZ. CITAÇÃO VÁLIDA. CONSTATAÇÃO. REVISÃO DAS CONCLUSÕES DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. ÓBICE DA SÚMULA N. 7 DO STJ. ESPÓLIO. REPRESENTAÇÃO DO ESPÓLIO. AUSÊNCIA DE INVENTÁRIO OU INVENTARIANTE COMPROMISSADO. ADMINISTRADOR PROVISÓRIO. PRECEDENTES. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
