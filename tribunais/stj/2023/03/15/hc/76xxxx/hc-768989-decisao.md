@@ -1,0 +1,13 @@
+DECISÃO
+RITA DE CÁSSIA CORDEIRO DE CASTRO alega sofrer coação ilegal em face de acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, que negou provimento ao seu agravo em execução penal.
+A defesa pede o cômputo, como tempo de pena cumprida pela paciente, do período entre 6/3/2015 a 19/11/2016, interregno em que houve o rompimento da tornozeleira eletrônica, pois não existiu apuração formal e homologação de eventual falta grave.
+O Ministério Público Federal opinou pela denegação da ordem.
+Decido.
+Infere-se dos autos que: "em janeiro de 2014, a apenada cumpria o total de 07 anos de pena privativa de liberdade pelas CES nº 0000709-85.2010.8.19.0032 e nº 0002459-91.2008.8.19.0065. No dia 14/01/2014, data do deferimento da progressão ao regime aberto, na modalidade PAD, a pena remanescente para cumprimento era de 02 anos, 10 meses e 02 dias. Na seq.17.1, há informação de que o cumprimento da pena foi interrompido no dia 06/03/2015" (fl. 124).
+É incontroverso que entre 6/3/2015 e 19/11/2016, a paciente, beneficiada com a prisão albergue domiciliar, rompeu a tornozeleira eletrônica. No dia 27/12/2018, a apenada foi presa em flagrante pela prática de outro crime. A pena da nova condenação foi somada ao remanescente da condenação anterior.
+Como bem pontuou o Subprocuradora-Geral da República Nívio de Freitas Silva Filho, duas questões merecem ser tratadas, de forma diferenciada.
+Em relação à falta leve, média ou grave, é pressuposto para a punição disciplinar, e aplicação de penalidades previstas em lei, a necessária apuração e homologação da conduta por meio de sindicância, audiência judicial de justificação ou aproveitamento de sentença condenatória.
+Todavia, a violação da tornozeleira, fato incontroverso, também equivale ao não cumprimento da pena privativa de liberdade. A teor do art. 1º, da LEP, "a execução penal tem por objetivo efetivar as disposições de sentença". Independentemente da responsabilização por falta grave, o que importaria em revogação da prisão domiciliar, regressão de regime, perda de dias remidos e novo termo a quo para o benefício do art. 112 da LEP, a apenada interrompeu a execução e começou a correr o prazo prescricional para sua recaptura. Por isso, esse período não pode ser detraído como pena efetivamente cumprida.
+Mutatis mutandis: "Se o paciente não compareceu em juízo para o cumprimento das condições impostas ao regime aberto, não há como computar o respectivo período como pena efetivamente cumprida. Sendo assim, não há falar em extinção da pena pelo cumprimento da pena remanescente" (AgRg no HC n. 606.027/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 10/2/2021).
+À vista do exposto, denego o habeas corpus.
+Publique-se e intimem-se.
