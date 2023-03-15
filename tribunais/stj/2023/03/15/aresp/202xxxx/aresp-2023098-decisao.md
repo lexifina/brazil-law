@@ -1,0 +1,52 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto por MULTIMEX S/A contra inadmissão, na origem, de recurso especial fundamentado nas alíneas "a" e "c" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ fl. 213):
+TRANSPORTE DE MERCADORIAS. Via Marítima. 1. Prescrição. Não ocorrência. Prazo de cinco anos (CC/2002, art. 206, § 5º, I). Inaplicabilidade da prescrição ânua prevista na Lei n. 9.611/1998. 2. Devolução com atraso. Taxa de sobre-estadia que, aliás, nem depende necessariamente de ajuste expresso. Regulação que pode se dar pelos usos e costumes do lugar em que se deu. 3. Burocracia no desembaraço aduaneiro não exclui a responsabilidade da requerida pelo pagamento de sobre-estadia. Ação procedente. Recurso não provido.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 248-251).
+Nas razões de seu recurso especial, a parte recorrente sustenta vulneração aos arts. 22 da Lei nº 9.611/1998; 212 do CC; 192, 369, 371, 373, II, do CPC. Afirma que, por analogia, deve ser aplicado ao transporte unimodal o prazo prescricional de um ano estabelecido para o transporte multimodal (art. 22 da Lei nº 9.611/ 1998). Aponta divergência jurisprudencial com entendimento da Terceira Turma do STJ. Aduz afronta ao art 192, parágrafo único, do CPC, pois o contrato de transporte marítimo não foi devidamente traduzido (tradução juramentada) para o vernáculo, situação que obstou demasiadamente sua defesa como ré. Assevera ofensa ao art. 371 do CPC, porquanto o acórdão manteve a sentença que julgou antecipadamente a lide, apesar de necessária a produção da prova oral defendida pela recorrente, além de ter considerado suficientes os documentos produzidos unilateralmente pela recorrida e de ter negado a produção de prova documental pela recorrente. Afrontados, ainda, os arts. 369 e 373, II do CPC e 212 do CC, com cerceamento de defesa, pois o acórdão estendeu desnecessária a produção de prova testemunhal.
+Foram apresentadas contrarrazões (e-STJ fls. 296-315).
+Sobreveio juízo negativo de admissibilidade do Tribunal de origem (e-STJ fls. 318-321), o que ensejou a interposição do presente agravo.
+É o relatório. Passo a decidir.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à análise do recurso especial.
+A irresignação não merece prosperar.
+Com efeito, no que tange ao prazo prescricional para o transporte unimodal, a Segunda Seção do Superior Tribunal de Justiça, para os fins do art. 1.040 do CPC, fixou a seguinte tese:
+"A pretensão de cobrança de valores relativos a despesas de sobre-estadias de contêineres (demurrage) previamente estabelecidos em contrato de transporte marítimo (unimodal) prescreve em 5 (cinco) anos, a teor do que dispõe o art. 206, § 5º, inciso I, do Código Civil de 2002."
+O Resp 1.819.826/SP, julgado sob o rito dos recursos especiais repetitivos, recebeu a seguinte ementa:
+RECURSO ESPECIAL REPETITIVO. DIREITO CIVIL. AÇÃO DE COBRANÇA POR SOBRE-ESTADIA DE CONTÊINERES. TRANSPORTE MARÍTIMO. UNIMODAL. DESPESAS DE SOBRE-ESTADIA. PREVISÃO CONTRATUAL. PRAZO PRESCRICIONAL. ART. 206, §5º, INCISO I, DO CÓDIGO CIVIL. ARTS. 8º DO DECRETO-LEI Nº 116/1967 E 22 DA LEI Nº 9.611/1998. PRAZO. PREVISÃO. APLICAÇÃO ANALÓGICA. IMPOSSIBILIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Ação de cobrança de valores relativos a despesas de sobre-estadia de contêineres (demurrage) previamente estabelecidos em contrato de transporte marítimo (unimodal). Acórdão recorrido que, dando provimento a apelação do autor, afastou tese defensiva de prescrição ânua da pretensão autoral e determinou o retorno dos autos ao juízo de origem para regular processamento do feito.
+3. Recurso especial que reitera pretensão da demandada (afretadora) de que se reconheça prescrita a pretensão da autora (armadora) a partir da aplicação ao caso, por analogia, do prazo prescricional de 1 (um) ano de que tratam os arts. 8º do Decreto-Lei nº 116/1967 e 22 da Lei nº 9.611/1998.
+4. Para as ações fundadas no não cumprimento das responsabilidades decorrentes do transporte multimodal, o prazo prescricional, apesar da revogação do Código Comercial, permanece sendo de 1 (um) ano, haja vista a existência de expressa previsão legal nesse sentido (art. 22 da Lei nº 9.611/1998).
+5. A diferença existente entre as atividades desempenhadas pelo transportador marítimo (unimodal) e aquelas legalmente exigidas do Operador de Transporte Multimodal revela a manifesta impossibilidade de se estender à pretensão de cobrança de despesas decorrentes da sobre-estadia de contêineres (pretensão do transportador unimodal contra o contratante do serviço) a regra prevista do art. 22 da Lei nº 9.611/1998 (que diz respeito ao prazo prescricional ânuo aplicável às pretensões dos contratantes do serviço contra o Operador de Transporte Multimodal).
+6. As regras jurídicas acerca da prescrição devem ser interpretadas estritamente, repelindo-se a interpretação extensiva ou analógica. Daí porque afigura-se absolutamente incabível a fixação de prazo prescricional por analogia, medida que não se coaduna com os princípios gerais que regem o Direito Civil brasileiro, além de constituir verdadeiro atentado à segurança jurídica, cuja preservação se espera desta Corte Superior.
+7. Em se tratando de transporte unimodal de cargas, quando a taxa de sobre-estadia objeto da cobrança for oriunda de disposição contratual que estabeleça os dados e os critérios necessários ao cálculo dos valores devidos a título de ressarcimento pelos prejuízos causados em virtude do retorno tardio do contêiner, será quinquenal o prazo prescricional (art. 206, §5º, inciso I, do Código Civil). Caso contrário, ou seja, nas hipóteses em que inexistente prévia estipulação contratual, aplica-se a regra geral do art. 205 do Código Civil, ocorrendo a prescrição em 10 (dez) anos.
+8. Para os fins do art. 1.040 do CPC/2015, fixa-se a seguinte tese:
+"A pretensão de cobrança de valores relativos a despesas de sobre-estadias de contêineres (demurrage) previamente estabelecidos em contrato de transporte marítimo (unimodal) prescreve em 5 (cinco) anos, a teor do que dispõe o art. 206, § 5º, inciso I, do Código Civil de 2002."
+9. Recurso especial não provido. (REsp n. 1.819.826/SP, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 28/10/2020, REPDJe de 12/11/2020, DJe de 3/11/2020.)
+No caso, o acórdão foi proferido no sentido de que (e-STJ fl. 216):
+Também a alegada prescrição não se operou, pois no caso o prazo não é ânuo, mas quinquenal, mediante aplicação do disposto no art. 206, § 5º, I, do Código Civil.
+Assim decidindo, a Corte Estadual encontra-se em harmonia com a jurisprudência do Superior Tribunal de Justiça, de sorte que o acórdão recorrido não merece reforma, quer pela alínea "a", quer pela "c" do permissivo constitucional.
+Quanto aos arts. 212 do CC; 192, 369, 371, 373, II, do CPC, elidir as conclusões do aresto demandaria o revolvimento do conjunto fático-probatório dos autos, pois sobre a matéria dos referidos dispositivos, a Corte de origem assim se manifestou (e-STJ fl. 217):
+De outro lado, não há que se falar em inépcia da inicial por ausência de documentos essenciais à propositura da ação.
+Os documentos juntados pela autora (fls. 32/50) são suficientes para comprovar suas alegações e se coadunam com a causa de pedir e o pedido, de modo a permitir à requerida oferecer resposta, como fez.
+No mérito, melhor sorte não se reserva ao recurso.
+Trata-se de ação por meio da qual a autora busca compelir a ré, apelante, ao pagamento de sobre-estadias de contêineres, em razão de sua utilização em período excedente ao franqueado.
+ ..
+No fundo, o usuário do contêiner assume encargos similares aos do comodatário, donde incorre em mora e responde pelo pagamento de aluguel até sua efetiva devolução (art. 582, Código Civil).
+Assim, na espécie não se cogita de culpa, bastando que ocorra a não devolução da unidade de carga no prazo fixado.
+No caso em tela, conforme se vê, restou comprovado por meio do Termo de Compromisso (fls. 38/40), que a requerida assumiu o compromisso de devolver os contêineres retirados, dentro do prazo livre, sob pena de pagar a taxa de sobre-estadia.
+ ..
+Tocante aos valores exigidos pela sobre-estadia, nada atesta que seriam abusivos ou mesmo em descompasso com aqueles praticados em operações semelhantes.
+A propósito, já se decidiu que a exigência da contraprestação pela sobre- estadia de contêiner nem depende necessariamente de ajuste expresso, pois se regula basicamente pelos usos e costumes do lugar em que se deu (nesse sentido: STJ - AREsp 771429, Rel. Ministro MOURA RIBEIRO, J. 20/11/2015; AREsp 199908, Rel. Ministro LUIS FELIPE SALOMÃO, J. 07/10/2013):
+ ..
+E nada de irregular nem de ilícito há na cobrança em tela, pois se a autora descumpriu o prazo para a devolução dos contêineres, está na obrigação de responder pelos consequentes prejuízos, como já foi decidido em caso semelhante:  ..  grifos nossos
+Consoante se vê, o Tribunal de origem reconheceu que os documentos juntados foram suficientes para comprovar alegações da autora/recorrida, que não houve prejuízo ao oferecimento de resposta pela ré/recorrente e que, no caso, nem seria necessário contrato, bastando a obsevância dos usos e costumes do lugar em que se deu a sobre-estadia.
+Como se sabe o revolvimento do conjunto fático-probatório dos autos é providência vedada nesta sede especial a teor da Súmula 7/STJ.
+Destarte, inviável a pretensão da recorrente.
+Por fim, deixo de majorar os honorários nos termos do art. 85, § 11, do Código de Processo Civil tendo em vista que arbitrados inicialmente no patamar de 20% sobre o valor da condenação (e-STJ fls. 150).
+Advirto que a apresentação de incidentes protelatórios poderá dar azo à aplicação de multa.
+Ante o exposto, conheço do agravo para, desde logo, conhecer em parte do recurso especial e negar-lhe provimento.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL (CPC/2015). TRANSPORTE MARÍTMO. UNIMODAL. TAXA DE SOBRE-ESTADIA. PRAZO PRESCRICIONAL. ACÓRDÃO EM CONSONÂNCIA COM ORIENTAÇÃO DO STJ. DISPOSITIVOS SUPOSTAMENTE VIOLADOS. REEXAME DO CONJUNTO FATICO DOS AUTOS. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA.
+AGRAVO CONHECIDO PARA, DESDE LOGO, CONHECER EM PARTE DO RECURSO ESPECIAL E NEGAR-LHE PROVIMENTO.
