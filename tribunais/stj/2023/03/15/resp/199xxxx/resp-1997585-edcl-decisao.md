@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ADEMIR GRAHL.
+Ao recurso especial interposto pelo embargado, INSTITUTO NACIONAL DO SEGURO SOCIAL, foi negado provimento.
+Em embargos de declaração, sustenta o embargante "omissão/erro material, tendo em vista que não restou majorada a verba honorária em razão da atuação do advogado da parte autora em sede do Recurso Especial, conforme comando do § 11 do artigo 85 do CPC, que determina a majoração dos honorários fixados anteriormente, pelo trabalho adicional realizado em grau recursal" (fl. 536).
+É o relatório. Decido.
+Consoante o Enunciado Administrativo n. 3/STJ, aprovado pelo Plenário do STJ, na sessão de 9/3/2016: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+De outro giro, o E nunciado n. 7 da Súmula Administrativa do STJ dispõe que, "somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC".
+Por sua vez, nos termos do § 11 do art. 85 do Código de Processo Civil de 2015: "O tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal, observando, conforme o caso, o disposto nos §§ 2º a 6º, sendo vedado ao tribunal, no cômputo geral da fixação de honorários devidos ao advogado do vencedor, ultrapassar os respectivos limites estabelecidos nos §§ 2º e 3º para a fase de conhecimento."
+A sentença, considerando a sucumbência de ambos os litigantes, condenou a parte autora e o INSS ao pagamento de honorários advocatícios, os quais foram fixados em 10% sobre o valor atualizado da causa, vedada a compensação de tais rubricas.
+O acórdão recorrido, considerando sucumbente o INSS, alterou a fixação da verba honorária, condenando-o ao pagamento de honorários advocatícios fixados em "percentual mínimo das faixas de incidência previstas no § 3º do art. 85, percentual a ser definido por ocasião da liquidação do julgado, nos termos do art. 85, § 4º, II, ambos do NCPC" (fl. 375).
+Ante o exposto, nos termos dos §§ 2º a 6º e § 11 do art. 85 do Código de Processo Civil de 2015, acolho os embargos de d eclaração, para integrar a decisão embargada, fazendo constar a majoração dos honorários advocatícios em 1% (um ponto percentual) sobre o percentual fixado pelo Tribunal de origem.
+Publique-se. Intimem-se.
