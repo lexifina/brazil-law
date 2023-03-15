@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo em recurso especial manejado pela FAZENDA PÚBLICA DO MUNICÍPIO DE CAMPINAS, em face de decisão que inadmitiu recurso especial.
+É o relatório. Decido.
+Nos termos do que dispõe o art. 932, III, do CPC/2015 e o art. 253, parágrafo único, I, do RI/STJ (redação dada pela Emenda Regimental n. 22, de 2016), compete ao agravante impugnar especificamente os fundamentos da decisão que obstou o recurso especial na origem.
+Assim, além da manifestação do inconformismo, inerente ao ato de irresignação, impõe-se ao recorrente o ônus de contrapor-se, de forma clara e específica, aos fundamentos da decisão agravada, conforme determina a lei processual civil e o princípio da dialeticidade.
+No caso dos autos, a decisão ora agravada, inadmitiu o recurso especial, aos seguintes fundamentos: (i) inexiste afronta aos arts. 489 e 1.022 do CPC, estando devidamente fundamentado o acórdão quanto às questões relevantes, apenas alcançando conclusão contrária ao interesse da parte; (ii) Súmulas 7/STJ e 284/STF: no concernente à legalidade da cobrança do ISS e sua modalidade, tendo o órgão julgador concluído que a municipalidade "nada trouxe aos autos que pudesse caracterizar a incidência das hipóteses previstas no referido dispositivo a justificar o arbitramento das diferenças apontadas no ISS  .. " (fl. 1.782), a recorrente não demonstra a apontada afronta às normas legais citadas, bem como a pretensão de rever o entendimento firmado importa reexame de fatos e provas; (iii) quanto aos arts. 148 e 149 do CTN, a jurisprudência do STJ é no sentido de que o regime de pauta fiscal é ilegal, externando o entendimento do AREsp n. 1.357.041/SP; (iv) Súmula 7/STJ: a verba honorária, observado o limite legal, foi fixada baseando-se em fatos e provas, insuscetível de revisão em recurso especial; (v) falta de prequestionamento da questão envolvendo a apreciação equitativa, nos termos do precedente firmado no julgamento do Tema Repetitivo n. 1.076/STJ.
+A agravante, nas razões do presente recurso, traz alegações de cunho notadamente fático-probatório, não impugnando especificamente a aplicação do óbice da Súmula 7/STJ, isto é, não demonstra que a análise da pretensão recursal prescindiria do reexame de fatos e provas, nem o fundamento atinente à falta de prequestionamento.
+Ao agravante impõe-se o ônus de observar o contexto em que os fundamentos da decisão da Corte de origem foram lançados e impugná-los, de forma individualizada e específica, o que não ocorreu no caso dos autos - situação essa que impõe o não conhecimento do recurso.
+A propósito, na parte que interessa:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO À DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL NA CORTE DE ORIGEM.
+1. A ausência de impugnação específica aos fundamentos da decisão da Corte de origem que não admitiu o recurso impede o conhecimento do agravo, nos termos do que dispunha o art. 544, § 4º, I, do CPC/1973, normativo esse que também faz parte do contido no art. 932, III, do CPC/2015 e no art. 253, parágrafo único, I, do RI/STJ (redação dada pela Emenda Regimental n. 22, 2016).
+ ..
+(AgInt nos EDcl no AREsp 713.374/MG, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 15/8/2017, DJe 25/8/2017)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO APELO NOBRE PROFERIDA PELA CORTE DE ORIGEM. NÃO CONHECIMENTO DO RECLAMO. AGRAVO IMPROVIDO.
+1. Em atenção ao princípio da dialeticidade recursal, as razões do agravo em recurso especial devem infirmar os fundamentos da decisão de inadmissibilidade do apelo nobre, proferida pelo Tribunal de origem, sob pena de não conhecimento do reclamo por esta Corte Superior, nos termos do artigo 932, III, do CPC/2015 (artigo 544, § 4º, I, do CPC/1973).
+ ..
+(AgInt no AREsp 993.261/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 17/8/2017, DJe 30/8/2017)
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO NÃO CONHECIDO.
