@@ -1,0 +1,38 @@
+DECISÃO
+
+Trata-se  de  recurso especial interposto por UNIMED PORTO ALEGRE - COOPERATIVA MÉDICA LTDA.,  fundamentado  nas  alíneas  "a" e "c"  do  permissivo  constitucional,  contra  o  acórdão  proferido  pelo  Tribunal  de  Justiça  do  Estado  do Rio Grande do Sul assim  ementado:
+"APELAÇÃO. SEGUROS. PLANO DE SAÚDE. FORNECIMENTO DO MEDICAMENTO CAPECITABINA. USO DOMICILIAR. TRATAMENTO DE NEOPLASIA MALIGNA DA MAMA. NEGATIVA DE COBERTURA. DESCABIMENTO. ABUSIVIDADE.
+Incide o Código de Defesa do Consumidor à Espécie (Súmula nº 608 do Stj), por se Tratar de Típico Contrato de Adesão, o Que Possibilita A decretação da Nulidade das Cláusulas Que "Estabeleçam Obrigações Consideradas Iníquas, Abusivas, Que Coloquem o Consumidor em Desvantagem Exagerada, Ou Seja, Incompatíveis Com a Boa-fé Ou a Equidade", Bem Como Que as Cláusulas Contratuais Devem Ser Interpretadas de Maneira Mais Favorável ao Consumidor, Nos Termos do Artigos 6º, v, 47 e 51, iv, do Referido Diploma.
+"A exclusão de cobertura de determinado procedimento médico ou hospitalar, quando essencial para garantir a saúde e, em algumas vezes, a vida do segurado, vulnera a finalidade básica do contrato" (REsp 183.719/SP).
+O plano de saúde pode estabelecer as doenças que terão cobertura, não lhes cabendo limitar o tipo de tratamento que será prescrito, bem como bem como o número de sessões, pois tal incumbência é do profissional que assiste o paciente, a quem compete avaliar os riscos e benefícios do tratamento e indicar a alternativa mais adequada (STJ, Resp nº 668.216-SP, j.15.03.2007).
+O rol de procedimentos previsto nas normas da ANS não é taxativo, traduzindo somente um referencial de coberturas básicas para os planos de saúde.
+Os planos de saúde devem incluir em sua coberturas os medicamentos antineoplásicos orais para uso domiciliar, assim como medicamentos para o controle de efeitos adversos e adjuvantes de uso domiciliar relacionados ao tratamento antineoplásico oral e/ou venoso. Art. 21, XI, da RN428/2017, da ANS.
+No caso dos autos, o laudo e a prescrição médica acostados à inicial atestam que a autora tem diagnóstico de Neoplasia maligna da mama e necessita do tratamento com o medicamento Capecitabina. Sentença mantida. Fixação de honorários recursais. APELAÇÃO DESPROVIDA. UNÂNIME"  (fl. 471 e-STJ  ) .
+Os embargos de declaração opostos foram rejeitados.
+Em suas  razões,  a  recorrente  sustenta divergência jurisprudencial acerca da interpretação  dos  artigos  1º, § 1º, e 10, § 4º, da Lei nº 9.656/1998, e 1.022 do Código de Processo Civil.
+Alega que houve negativa de prestação jurisdicional e assevera  inexistir obrigatoriedade de fornecer tratamento não previsto no rol de procedimentos da ANS.
+Contrarrazões às fls. 351/352 (e-STJ).
+É o relatório.
+DECIDO.
+O argumento de que o acórdão atacado teria incorrido em negativa de prestação jurisdicional é improcedente.
+De fato, o Tribunal de origem indicou adequadamente os motivos que lhe formaram o convencimento, analisando de forma clara, precisa e completa as questões relevantes do processo e solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+Não há falar, portanto, em prestação jurisdicional lacunosa ou deficitária apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão do recorrente.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DANOS MATERIAIS. BENFEITORIAS EM IMÓVEL. EFEITO SUSPENSIVO. REQUISITOS. AUSÊNCIA. ART. 1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO. EFEITOS MODIFICATIVOS. POSSIBILIDADE.
+1. A atribuição de efeito suspensivo a recurso especial está circunscrita à presença cumulativa dos requisitos da plausibilidade do direito invocado e no perigo de dano irreparável ou de difícil reparação, que não se fazem presentes na hipótese.
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. É possível a atribuição de efeitos infringentes aos embargos de declaração quando a alteração da decisão surgir como consequência lógica da correção da omissão, contradição ou obscuridade.
+4. Agravo interno não provido" (AgInt no AREsp 1.070.607/RN, rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 25/8/2017 - grifou-se).
+Quanto ao mais, a  pretensão  recursal  merece  ser  parcialmente acolhida.
+A  discussão  gira  em  torno  da  natureza  do  Rol  de  Procedimentos  e  Eventos  em  Saúde,  elaborado  periodicamente  pela  Agência  Nacional  de  Saúde  Suplementar  (ANS),  se  exemplificativo  ou  se  taxativo.
+Na  origem,  trata-se  de  ação  ordinária  ajuizada  pela  recorrida  contra a  recorrente  objetivando  o  fornecimento  do  medicamento  Capecitabina  para  terapia  ambulatorial,  a  fim  de  dar  continuidade  a  tratamento  de  doença que é portadora - neoplasia maligna da mama .
+Importante registrar que,  quando  do  julgamento  dos  EREsps  nºs  1.886.929/SP  e  1.889.704/SP  (rel.  Ministro  Luis  Felipe  Salomão,  DJe  3/8/2022),  a  Segunda  Seção  desta  Corte  Superior  uniformizou  o  entendimento  de  ser  o  Rol  da  ANS,  em  regra,  taxativo,  podendo  ser  mitigado  quando  atendidos  determinados  critérios.
+Assim,  foram  adotados  os  seguintes  parâmetros  para  a  apreciação  de  casos  concretos:
+"1  -  o  Rol  de  Procedimentos  e  Eventos  em  Saúde  Suplementar  é,  em  regra,  taxativo;
+2  -  a  operadora  de  plano  ou  seguro  de  saúde  não  é  obrigada  a  arcar  com  tratamento  não  constante  do  Rol  da  ANS  se  existe,  para  a  cura  do  paciente,  outro  procedimento  eficaz,  efetivo  e  seguro  já  incorporado  ao  Rol;
+3  -  possível  a  contratação  de  cobertura  ampliada  ou  a  negociação  de  aditivo  contratual  para  a  cobertura  de  procedimento  extra  Rol;
+4  -  não  havendo  substituto  terapêutico  ou  esgotados  os  procedimentos  do  Rol  da  ANS,  pode  haver,  a  título  excepcional,  a  cobertura  do  tratamento  indicado  pelo  médico  ou  odontólogo  assistente,  desde  que  (i)  não  tenha  sido  indeferido  expressamente,  pela  ANS,  a  incorporação  do  procedimento  ao  Rol  da  Saúde  Suplementar;  (ii)  haja  comprovação  da  eficácia  do  tratamento  à  luz  da  medicina  baseada  em  evidências;  (iii)  haja  recomendações  de  órgãos  técnicos  de  renome  nacionais  (como  CONITEC  e  NATJUS)  e  estrangeiros  e  (iv)  seja  realizado,  quando  possível,  o  diálogo  interinstitucional  do  magistrado  com  entes  ou  pessoas  com  expertise  técnica  na  área  da  saúde,  incluída  a  Comissão  de  Atualização  do  Rol  de  Procedimentos  e  Eventos  em  Saúde  Suplementar,  sem  deslocamento  da  competência  do  julgamento  do  feito  para  a  Justiça  Federal,  ante  a  ilegitimidade  passiva  ad  causam  da  ANS".
+No  caso,  contudo,  não  há  elementos  incontroversos  no  acórdão  estadual  que  demonstrem,  nesta  instância  especial,  que  o  fornecimento  do  medicamento  indicado  está  enquadrado  nos  critérios  de  superação  da  taxatividade,  devendo  o  feito  retornar  ao  Tribunal  de  origem  para  que,  com  base  no  s  fatos  e  nas  provas  da  causa,  a  apelação  seja  julgada  conforme  os  parâmetros  elaborados  pela  Segunda  Seção.
+Ante  o  exposto,  dou  parcial  provimento  ao  recurso  especial  para  determinar  o  retorno  dos  autos  à  Corte  local,  a  fim  de  que  julgue  a  apelação  conforme  os  critérios  estabelecidos  pela  Segunda  Seção  nos  EREsps  nºs  1.886.929/SP  e  1.889.704/SP.
+Publique-se.
+Intimem-se.
