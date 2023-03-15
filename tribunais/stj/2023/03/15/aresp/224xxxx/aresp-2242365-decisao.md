@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo interposto por SAECIL-SUPERINT.DE ÁGUA E ESGOTO DA CIDADE DE LEME contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que não admitiu recurso especial, fundado nas alíneas "a" e "c" do permissivo constitucional, o qual desafia acórdão assim ementado (e-STJ fl. 136):
+APELAÇÃO EXCEÇÃO DE PRÉ-EXECUTIVIDADE - EXECUÇÃO FISCAL - Tarifa de Água e Esgoto Exceção acolhida e ação extinta em primeiro grau - Cabimento - Certidões de dívida ativa e lançamento do crédito que não se revestem da certeza necessária para o fim colimado - Executada que não é parte legítima para responder pela dívida Honorários advocatícios fixados em valor razoável e moderado Manutenção da r. sentença que se impõe - Recurso desprovido.
+No recurso especial obstaculizado, a parte recorrente apontou, além de dissídio pretoriano, violação do art. 85, §§ 2º, 3º e 11, do CPC/2015, argumentando que ao majorar os honorários de R$ 800,00 (oitocentos reais) pa ra R$ 1.000,00 (mil reais), a Corte de origem excedeu os parâmetros estabelecidos no § 3º do citado dispositivo legal, segundo o qual a fixação dos honorários é de no máximo 20% sobre o valor da causa quando a condenação ou o proveito econômico for de até 200 (duzentos) salários mínimos (e-STJ fls. 143/149).
+Contrarrazões às e-STJ fls. 151/157.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo sido os fundamentos da aludida decisão atacados no recurso ora em exame.
+Passo a decidir.
+Verifico que a pretensão não merece prosperar.
+Isso porque o presente apelo nobre carece do requisito constitucional do prequestionamento.
+Conquanto não seja exigida a menção expressa do dispositivo de lei federal, a admissibilidade do recurso na instância excepcional pressupõe que a Corte de origem tenha se manifestado sobre a tese jurídica apontada pelo recorrente. Esse é o entendimento pretoriano consagrado na edição das Súmulas 282 e 356 do STF:
+Súmula 282 - É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+Súmula 356 - O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento.
+Em situações como esta, caberia à parte opor embargos de declaração para corrigir os prováveis vícios que entende existentes e, nas razões do seu especial, alegar violação do art. 1.022 do CPC/2015 a fim de que esta Corte pudesse averiguar a existência de possível omissão no julgado.
+In casu, da leitura do acórdão recorrido, observa-se que o Tribunal de origem não emitiu juízo de valor sobre a tese de que os honorários recursais fixados excederiam os limites previstos no § 3º do art. 85 do CPC/2015, tampouco foram opostos embargos de declaração para fins de prequestionamento, incidindo in casu , assim, as Súmulas 282 e 356 do STF.
+Ante o exposto, com base no art. 253, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração de tal verba, em desfavor da parte recorrente, no importe de 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
