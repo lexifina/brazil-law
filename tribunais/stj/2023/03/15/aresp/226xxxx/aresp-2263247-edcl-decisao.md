@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por RITA DE CÁSSIA SENNA TELHADO em face da decisão que conheceu do agravo para não conhecer do recurso especial, em razão da aplicação de súmulas de admissibilidade recursal, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante o seguinte:
+Com o necessário respeito, verifica-se omissão da r. decisão quanto ao pedido recursal de ver reconhecido que o réu deu causa ao ajuizamento da ação.
+ ..
+Uma vez incontroversa a necessidade de judicialização da questão para ver respeitado o direito autoral, aplicaria-se o princípio da causalidade na fixação dos ônus sucumbenciais, consagrado no artigo 85, §10º do CPC
+ ..
+Incontroverso também que a embargante decaiu apenas no pedido de dano moral, que seria acessório, debate processual que também dispensa reexame de fatos e provas.
+Uma vez pautando-se em fatos reconhecidos pelo v. acórdão, a análise do mérito dispensaria incursão na seara fática probatória, não havendo óbice na Súmula 07 do STJ (fls. 880/881).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Não há omissão a ser suprida, porquanto a decisão embargada se manifestou sobre a pretensão recursal acerca dos ônus sucumbenciais. Restou consignado que rever os fundamentos do acórdão recorrido, pelos quais foi definida a divisão da sucumbência entre as partes, enseja o revolvimento de matéria fática, conforme disposto na Súmula 7/STJ.
+Por fim, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, o EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
