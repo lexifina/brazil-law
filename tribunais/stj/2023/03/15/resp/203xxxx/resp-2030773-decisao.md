@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento na alínea "a" do permissivo constitucional.
+O recorrente foi condenado a 10 meses e 20 dias de reclusão, no regime aberto, e 7 dias-multa, nos termos do art. 155, § 1º, do Código Penal.
+Nas razões de seu recurso (fls. 249-267), aponta violação do art. 44 do Código Penal, afirmando, em suma, que "único fato supostamente desabonador não é suficiente para inviabilizar a substituição da pena, a conduta do recorrente não denota periculosidade social, pois ele apenas se aproximou do veículo, subtraiu as luzes da placa e se evadiu do local, a conduta não possui nenhum elemento ardil como afirmou o acórdão" (fl. 261).
+Requer, ao final, "que seja conhecido o presente recurso especial e no mérito seja a ele dado provimento, com a consequente substituição da pena privativa de liberdade imposta ao recorrente" (fl. 267).
+Apresentadas as contrarrazões, manifestou-se o Ministério Público Federal pelo provimento recursal.
+Acerca da pretensão aqui trazida, extrai-se do aresto recorrido (fls. 231-234):
+ ..  convém reforçar que, ao contrário do alegado pela defesa, a existência de circunstâncias judiciais favoráveis, bem como a primariedade do acusado, por si só, não implicam no deferimento automático do benefício. Segundo determina o art. 44, III, do CP, também é imprescindível que a "a culpabilidade, os antecedentes, a conduta social e a personalidade do condenado, bem como os motivos e as circunstâncias" do crime indiquem que essa substituição seja suficiente para a reprimenda da conduta (grifo nosso).
+Tratam-se de requisitos cumulativos, que foram devidamente consignados no voto, conforme se infere dos seguintes excertos abaixo:
+"(..)
+Segundo narra a denúncia (ID 32800586), em 1º/9/2019, por volta da 1h, portanto, durante o repouso noturno, RUDENBERG subtraiu para si as luzes de LED (lâmpada, suporte e fiação) da placa do automóvel VW/Golf Sportline, que se encontrava estacionado na calçada externa em frente ao Edifício Bahamas, localizado na Qd 14, Cj B-6, Bloco 1, Sobradinho/DF.
+ ..
+Cabe ponderar, ainda, que o "modus operandi" utilizado pelo réu e gravado pelas câmeras de monitoramento revela certa periculosidade social do acusado, uma vez que exibe sua aproximação sorrateira e ardilosa do veículo para o fim específico de subtrair as luzes da placa, não tendo sequer tentado visualizar outros objetos passível de subtração.
+ ..
+Inaplicáveis a substituição da pena privativa de liberdade por restritiva de direitos, assim como a suspensão condicional da pena, uma vez que os motivos e as circunstâncias do delito não denotam que a concessão dos benefícios seja suficiente para a devida reprimenda da conduta (art. 44, III, e art. 77, II, do CP).
+ ..
+Destaque-se que se os esclarecimentos pretendidos decorrem da não compreensão acerca dos fundamentos contidos no julgado, os embargos não podem ser acolhidos.
+Isso não obstante, além de inviável, é absolutamente desnecessário que o julgador se pronuncie, repetidamente, sobre cada um dos requisitos elencados pelo art. 44 do CP se os fundamentos que amparam o provimento jurisdicional pela impossibilidade de seu deferimento já haviam sido exaustivamente apresentados ao longo do voto. ..
+A substituição da pena privativa de liberdade por pena restritiva de direitos, do art. 44 do Código Penal, é possível quando a culpabilidade, os antecedentes, a conduta social e a personalidade do condenado, bem como os motivos e as circunstâncias indicarem que a substituição seja suficiente.
+No caso, além de estabelecida a pena-base do réu, ora recorrente, no seu mínimo legal e constatada a sua primariedade (fl. 192), não se extrai da sua conduta quaisquer elementos que extrapolem o tipo penal em apreço (art. 155 - CP), ressaltando o Tribunal estadual, ainda, que "a reprovabilidade social da conduta, ínsita ao conceito de culpabilidade, não seja reduzida ao ponto de atrair a incidência do princípio da insignificância, a ação em questão não transcende à situação do crime de oportunidade típico do delito de furto" (fl. 191).
+Ademais, apesar de não reconhecido o crime de bagatela, destaca-se no presente feito o valor diminuto dos bens furtados - R$ 200,00 (fl. 186) -, não havendo falar-se em maior gravidade a obstar a substituição aqui pretendida, como bem observado pela representante do MPF: " n a hipótese em apreço, não se verifica fundamentação idônea para a negativada substituição, merecendo destaque, ainda, as circunstâncias judiciais favoráveis ao réu, considerada a fixação da pena-base no mínimo legal previsto à espécie" (fl. 297).
+Ante o exposto, dou provimento ao recurso especial para substituir a pena privativa de liberdade de RUDENBERG DA SILVA SANTOS por penas restritivas de direitos, a serem fixadas pelo juízo de origem (Processo nº 0705038-64.2020.8.07.0006 - Vara Criminal de Sobradinho/DF).
+Publique-se.
+Intimem-se.
