@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto pela FAZENDA NACIONAL, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim ementado:
+"CONSTITUCIONAL. TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO LEGAL. CPC, ART. 557, § 1º. APLICABILIDADE. PEDIDO DE REFORMA DE DECISÃO. EXECUÇÃO FISCAL. PRESCRIÇÃO INTERCORRENTE.
+1. A utilização do agravo previsto no art. 557, § 1º, do CPC, deve enfrentar a fundamentação da decisão agravada, ou seja, deve demonstrar que não é caso de recurso manifestamente inadmissível, improcedente, prejudicado ou em confronto com súmula ou com jurisprudência dominante do respectivo tribunal, do Supremo Tribunal Federal, ou de Tribunal Superior. Por isso que é inviável, quando o agravante deixa de atacar especificamente os fundamentos da decisão agravada. Precedentes do STJ.
+2. A agravante não traz subsídios que infirmem a aplicação do art. 557 do Código de Processo Civil. O recurso deve comprovar que a decisão recorrida se encontra incompatível com o entendimento dominante deste Tribunal ou dos Tribunais Superiores, o que não foi demonstrado.
+3. O redirecionamento requerido pela União foi indeferido pelo MM. Juízo a quo, sob o fundamento de reconhecimento da prescrição intercorrente. Não merece reforma a decisão do MM. Juízo a quo, ora recorrida, uma vez que já havia transcorrido prazo superior a 5 (cinco) anos entre a citação da empresa em 23.02.83 (fl. 26) e o pedido de inclusão do sócio, requerido somente em 20.09.89 (fl. 40).
+4. A alegação da agravante de que teria dado regular andamento à execução fiscal não a socorre, considerando-se o entendimento jurisprudencial no sentido de que a prescrição intercorrente deve ser reconhecida mesmo nos casos em que não houve inércia da Fazenda Pública.
+5. Agravo legal não provido" (fls. 353/354e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora recorrente aponta violação aos arts. 4º, §2º, da Lei 6.830/80; 124, II e 135, III, ambos do CTN, sustentando que "o fato do pedido de redirecionamento ter ocorrido mais de 5 (cinco) anos após o marco interruptivo não é suficiente para caracterizar a prescrição intercorrente, uma vez que esta pressupõe a inércia do credor, que deixa o feito executivo paralisado por um quinquênio" (fl. 360e); que "sempre agiu em busca de seu crédito, tendo requerido o redirecionamento quando do esgotamento das diligências em face da empresa Executada em observância à jurisprudência atual" (fl. 360e); que "jamais permaneceu inerte, agindo sempre no intuito de obter o crédito exeqüendo, sendo, portanto, incabível a decretação da prescrição intercorrente" (fl. 360e).
+Contrarrazões a fls. 377/382e.
+Em juízo de retratação, em razão do julgamento do REsp 1.201.993 (Tema 444/STJ), o Tribunal de origem manteve seu acórdão, com adequação, no entanto, do fundamento decisório à tese jurídica vinculante (fls. 408/418e).
+O Recurso Especial foi admitido pelo Tribunal de origem (fl . 432e).
+A irresignação não merece conhecimento.
+Com efeito, no caso concreto, o aresto a quo objeto do apelo excepcional foi modificado pela Câmara julgadora (fls. 408/418e), à luz do Tema 444/STJ, na forma do art. 1.030, II, do CPC/2015.
+Segundo a Jurisprudência desta Corte Superior, caso almejasse impugnar a nova fundamentação do acórdão de 2º Grau, competiria à parte recorrente ratificar o Recurso Especial, aditando as razões anteriores, sob pena de não conhecimento da insurgência, pela perda superveniente de seu objeto e incidência, por analogia, da Súmula 579/STJ.
+Entretanto, ao que se tem dos autos, assim não procedeu.
+Nesse sentido, precedentes da Primeira e Segunda Turma do STJ:
+"PREVIDENCIÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 543-C, § 7º, INC. II, DO CPC/1973. ACÓRDÃO MODIFICADO. NOVA FUNDAMENTAÇÃO. NECESSIDADE DE RATIFICAÇÃO DO RECURSO ESPECIAL. INEXISTÊNCIA. APLICAÇÃO DA SÚMULA 579/STJ. ARESTO QUE APRESENTA FUNDAMENTAÇÃO CONSTITUCIONAL E INFRACONSTITUCIONAL. AUSÊNCIA DE INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. SÚMULA 126/STJ. INCIDÊNCIA.
+1. Nos termos do art. 543-C, § 7º, inc. II, do CPC/1973, o acórdão hostilizado foi reapreciado e modificado, sob nova fundamentação.
+2. Caso concreto em que seria necessária a ratificação do recurso especial, providência não observada. Incidência da Súmula 579/STJ.
+3. Não é possível conhecer do recurso especial na hipótese em que o Tribunal de origem, ao decidir a questão posta a julgamento, ampara-se em fundamentos constitucional e infraconstitucional, qualquer um deles apto a manter inalterado o acórdão recorrido, e o recorrente não interpõe o competente recurso extraordinário. Incidência, à espécie, da Súmula 126/STJ.
+4. Agravo interno a que se nega provimento" (STJ, AgInt no REsp 1.878.497/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 26/02/2021).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 543-C, § 7º, INC. II, DO CPC/1973. ACÓRDÃO MANTIDO, MAS COM FUNDAMENTO NOVO. NECESSIDADE DE RATIFICAÇÃO DO RECURSO ESPECIAL. SÚMULA 579/STJ.
+1. Submetido o recurso especial a juízo de retratação e reapreciado o caso, conforme o art. 543-C, § 7º, inc. II, do CPC/1973, o acórdão hostilizado foi mantido, acrescentando-se, todavia, fundamento novo.
+2. Hipótese em que necessária a ratificação do recurso especial, providência não observada. Incidência, por analogia, da Súmula 579/STJ.
+3. Agravo interno não provido. (AgInt no AREsp 828.379/RJ, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 15/08/2017, DJe de 25/08/2017).
+"PROCESSUAL CIVIL. RECURSO ESPECIAL. ACÓRDÃO PROFERIDO NOS TERMOS DO ART. 543-C, § 7º, II, DO CPC. FALTA DE RATIFICAÇÃO. NÃO ESGOTAMENTO DA INSTÂNCIA ORDINÁRIA.
+1. "É inadmissível o recurso especial interposto antes da publicação do acórdão dos embargos de declaração, sem posterior ratificação" - Súmula 418/STJ.
+2. Hipótese em que o Recurso Especial foi submetido a juízo de retratação em razão de a matéria versada nele Recurso Especial ter sido submetida a julgamento no rito dos recursos repetitivos. Posteriormente, o órgão colegiado reapreciou o tema com base no art. 543-C, § 7º, II, do CPC; manteve-se o acórdão hostilizado, mas o Recurso Especial não foi reiterado ou ratificado pela parte interessada.
+Agravo regimental improvido" (STJ, AgRg no REsp 1.479.578/AL, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 02/02/2016).
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+I.
