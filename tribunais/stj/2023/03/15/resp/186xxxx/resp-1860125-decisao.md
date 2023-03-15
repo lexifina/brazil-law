@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de recurso especial interposto por ALLINK TRANSPORTES INTERNACIONAIS LTDA., com fundamento nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 3ª Região assim ementado (e-STJ fl. 279):
+EMBARGOS DE DECLARAÇÃO - OMISSÃO E CONTRADIÇÃO: OCORRÊNCIA - AÇÃO ORDINÁRIA - ADUANEIRO E ADMINISTRATIVO - ANULAÇÃO DE AUTO DE INFRAÇÃO - APLICAÇÃO DO ARTIGO 107, IV, E, DO DECRETO-LEI Nº 37/66 - OBRIGAÇÃO DO AGENTE MARÍTIMO DECORRE DE LEI - DENÚNCIA ESPONTÂNEA: INAPLICABILIDADE ÀS OBRIGAÇÕES ACESSÓRIAS.
+1. O pedido é de anulação de multa, por infração ao artigo 107, inciso IV, alínea "e", do Decreto-lei nº 37/66.
+2. A responsabilidade do agente marítimo e a multa decorrem dos artigos 32, 37 e 107, IV, "e", do Decreto -Lei nº 37/66.
+3. A denúncia espontânea é inaplicável às obrigações tributárias acessórias. Precedentes do Superior Tribunal de Justiça.
+4. Embargos de declaração acolhidos, com alteração de resultado de julgamento, de forma a dar provimento à apelação.
+A recorrente sustenta ofensa aos arts. 115 do CTN e 107, IV, "e", do Decreto-Lei n. 37/1966, além de divergência jurisprudencial. Defende, em essência, que não seria cabível a multa em debate, porquanto em 31/03/2009 não seria aplicável o prazo estabelecido no art. 50 da Instrução Normativa 800/2007, que exige prestação de informações ao Sistema SISCOMEX com 48h de antecedência. Defende que, na qualidade de agente marítimo, não poderia ser responsabilizada pela obrigação de registrar dados relativos às mercadorias do importador.
+Contrarrazões às e-STJ fls. 313/315.
+O recurso especial foi admitido na origem (e-STJ fls. 317/320).
+Passo a decidir.
+Impende ressaltar que o recurso especial se origina de acórdão que, em autos de ação anulatória, acolheu os embargos de declaração para provimento à apelação da FAZENDA NACIONAL, a fim de julgar improcedente o pedido da autora, ora recorrente, ao fundamento de que a multa aplicada pela autoridade aduaneira por inobservância de obrigação acessória observou a legislação de regência.
+De início, verifico que o acórdão recorrido fundamenta-se na disciplina contida no art. 22 da Instrução Normativa SRF 800/2007, que versa sobre os prazos mínimos para a prestação de informações da atividade aduaneira à Receita Federal do Brasil. A propósito, cabe registrar que a via excepcional não se presta para análise de ofensa a resolução, portaria, regimento interno ou instrução normativa, atos administrativos que não se enquadram no conceito de lei federal.
+Nesse sentido, cito os seguintes julgados:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ART. 1.022 DO CPC. INCIDÊNCIA DA SÚMULA 284/STF. DISPOSITIVOS CONSTITUCIONAIS. NÃO CABIMENTO. USURPAÇÃO DA COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. ISENÇÃO DA TAXA DE INSCRIÇÃO NO EXAME DE ORDEM. COMPROVAÇÃO DA HIPOSSUFICIÊNCIA, DO PREENCHIMENTO DOS REQUISITOS E DE EVENTUAIS IMPROPRIEDADES DO EDITAL. REVISÃO. IMPOSSIBILIDADE. SÚMULAS N. 5 E 7/STJ. INCIDÊNCIA. DECRETO N. 6.592/2008. NÃO ENQUADRAMENTO COMO LEI FEDERAL. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+ ..
+V - Não é possível, pela via do Recurso Especial, a análise de eventual ofensa a decreto regulamentar, resoluções, portarias ou instruções normativas, por não estarem tais atos administrativos compreendidos no conceito de lei federal, nos termos do art. 105, III, da Constituição Federal.
+ ..
+IX - Agravo Interno improvido.
+(AgInt no REsp 1.832.794/RO, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 25/11/2019, DJe 27/11/2019).
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. INFRAÇÃO AMBIENTAL. ACÓRDÃO COM FUNDAMENTO EM LEI LOCAL. REVISÃO. IMPOSSIBILIDADE. SÚMULA 280/STF. PRECEDENTES DO STJ. CONTROVÉRSIA QUE EXIGE ANÁLISE DE RESOLUÇÃO. ATO NORMATIVO NÃO INSERIDO NO CONCEITO DE LEI FEDERAL. AGRAVO INTERNO IMPROVIDO.
+ ..
+IV. Segundo o entendimento do Superior Tribunal de Justiça, "o apelo nobre não constitui via adequada para análise de ofensa a resoluções, portarias ou instruções normativas, por não estarem tais atos normativos compreendidos na expressão "lei federal", constante da alínea "a" do inciso III do artigo 105 da Constituição Federal" (STJ, REsp 1.613.147/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 13/09/2016).
+ ..
+VI. Agravo interno improvido.
+(AgInt no AREsp 1.566.289/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 22/04/2020, DJe 24/04/2020).
+O Tribunal de origem assentou que a responsabilidade da ora recorrente decorre do art. 37, § 1º, do Decreto-Lei n. 37/1966, conforme atesta o seguinte excerto do voto condutor do julgado (e-STJ fl. 275):
+Com relação às obrigações tributárias acessórias, o agente marítimo também é responsável solidário, nos termos do artigo 37, § 1º, do Decreto -Lei nº. 37/66:
+Art. 37. O transportador deve prestar à Secretaria da Receita Federal, na forma e no prazo por ela estabelecidos, as informações sobre as cargas transportadas, bem como sobre a chegada de veículo procedente do exterior ou a ele destinado. (Redação dada pela Lei nº 10.833, de 29.12.2003) § 1º. O agente de carga, assim considerada qualquer pessoa que, em nome do importador ou do exportador, contrate o transporte de mercadoria, consolide ou desconsolide cargas e preste serviços conexos, e o operador portuário, também devem prestar as informações sobre as operações que executem e respectivas cargas. (Redação dada pela Lei nº 10.833, de 29.12.2003)
+Precedente recente do Superior Tribunal de Justiça:
+"Pelo que se vê dos autos, a autoridade aduaneira aplicou pena de multa ao autor, na condição desconsolidadora da carga em razão da não prestação de informação sobre veículo ou carga transportada, ou sobre operações que executar (E.1, OUT4), conforme descrição no auto de infração.
+Como se vê, não só o transportador, mas também o agente de carga (pessoa que, em nome do importador ou do exportador, contrate o transporte de mercadoria, consolide ou desconsolide cargas e preste serviços conexos) também fica obrigado a informar à Receita Federal a carga transportada, não havendo, pois, que se falar em ilegitimidade da parte autora.
+O art. 107 do Decreto-lei 37, de 1966, por sua vez, estabelece a penalidade de multa, no caso de descumprimento da obrigação acima mencionada.
+Oportuno anotar, ainda, que a declaração do embarque das mercadorias é obrigação acessória e sua apresentação intempestiva caracteriza infração formal, cuja penalidade .não é passível de ser afastada pela denúncia espontânea".
+(REsp nº. 1.613.696, Rel. Ministro HERMAN BENJAMIN, DJe 26/09/2016).
+A recorrente não impugnou fundamento basilar que ampara o acórdão recorrido.
+Assim, o recurso especial esbarra no obstáculo da Súmula 283 do STF ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles"). A respeito do tema: AgRg no REsp 1.326.913/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 04/02/2013; EDcl no AREsp 36.318/PA, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 09/03/2012.
+Nesse contexto, constata-se claramente que a parte recorrente não se insurgiu contra todos os motivos que conferem sustentação jurídica ao aresto impugnado, limitando-se a alegar ofensa aos arts. 115 do CTN e 107, IV, "e", do Decreto-Lei n. 37/1966, cujos conteúdos normativos apresentam-se incapazes de conferir suporte à tese veiculada nas razões de recurso especial e determinar a reforma do acórdão recorrido, circunstância que atrai a aplicação, por analogia, da Súmula 284 do STF.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Majoro, em desfavor da parte recorrente, os honorários sucumbenciais em 10% (dez por cento) sobre o valor já arbitrado na origem, nos termos do art. 85, § 11, do CPC/2015, observados, s e aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
