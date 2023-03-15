@@ -1,0 +1,5 @@
+DECISÃO
+ITALIAN COMERCIO DE ALIMENTOS E SERVIÇCS DE TERCEIRIZAÇÃO EIRELI interpõe agravo regimental contra decisão proferida pela Presidência desta Corte, às fls. 446-448, que não conheceu do agravo em recurso especial interposto, visto que não impugnados os fundamentos da decisão que inadmitiu o processamento do especial.
+Entretanto, como bem ressaltado pelo Ministério Público Federal, às fls. 466-467, evidencia-se que a ação originária de que tratam os autos, sobre a qual paira o presente agravo em recurso especial, versa sobre ação e cobrança, na qual se objetiva o pagamento do débito gerado pelo inadimplemento de obrigações decorrentes de contratos de aluguel e gerenciamento de frota de veículos, discussão, portanto, que não se relaciona com matéria penal ou processual penal.
+Assim, com fundamento nos dispositivos regimentais de regência, declino da competência para apreciação deste recurso e determino a redistribuição do feito para uma das Turmas que compõem a Segunda Seção (competente para o exame de controvérsia de natureza privada).
+Publique-se e cumpra-se.
