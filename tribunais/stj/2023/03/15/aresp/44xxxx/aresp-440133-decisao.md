@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo interposto pela UNIÃO contra decisão do Vice-Presidente do Tribunal Regional Federal da 4ª Região, que não admitiu o recurso especial fundado na alínea "a" do permissivo constitucional, e que desafia acórdão assim ementado (e-STJ fl. 257):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE" SENTENÇA. ORDEM PARA AGENDAMENTO E REALIZAÇÃO DE CIRURGIA - POSTERGAÇÃO IMOTIVADA PELA PARTE RÉ. TUTELA ANTECIPADA CONCEDIDA. HOSPITAL FEDERAL - UNIÃO TEM PODERES PARA ORDENAR CUMPRIMENTO DE SENTENÇA.
+1. Tendo em vista a condenação contra a União não ter sido cumprida nas diversas vezes em que foi intimada, cabe tutela antecipada com prazo improrrogável para seu implemento.
+2, O Hospital de Clínicas de Curitiba é entidade pública federal sobre a qual a União possui poderes de ordens administrativas para agendar realização de cirurgia há anos concedida por sentença.
+Opostos embargos de declaração, foram rejeitados.
+No especial obstaculizado, a ora agravante alegou violação dos arts. 7º, IX, 17, III, e 18, I, da Lei n. 8.080/1990, do art. 2º, IV, da Lei n. 8.142/90 c/c o art. 267, VI, do CPC/1973, bem como do art. art. 1º da Lei n. 9.494/1997, do art. 1º, § 3º, da Lei n. 8.437/92 e, por fim, ofensa aos arts. 273, 461, §§ 4º, 5º e 6º do CPC/1973.
+Sustenta, inicialmente, não possuir legitimidade para figurar no polo passivo da execução de sentença que objetiva a realização de procedimento cirúrgico no Hopital de Clínicas de Curitiba.
+Defende, ainda, a impossibilidade de concessão de liminar contra a Fazenda Pública, bem como a desproporcionalidade do valor fixado a título de astreinte.
+Contrarrazões apresentadas às e-STJ fls. 294/301.
+Juízo negativo de admissibilidade proferido pelo Tribunal de origem às e-STJ fls. 312/318, com fulcro nas Súmulas 282 e 356 do STF e na Súmula 211 do STJ (legitimidade da União), bem como nas Súmulas 83 (possibilidade de concessão de liminar contra a Fazenda Pública) e Súmula 7 (requisitos da antecipação de tutela e razoabilidade do valor da multa diária) também desta Corte de Justiça.
+No presente agravo, o recorrente alega que a decisão que inadmitiu o recurso especial avançou no exame das questões de mérito, extrapolando os limites de sua competência.
+Afirma, ainda, que a questão de fundo discutida nos autos não se encontra pacificada, sendo indevida a incidência da Súmula 83 do STJ, bem como não ser o caso de aplicação da Súmula 7, no que tange ao valor arbitrado a título de astreinte, visto que desproporcional (e-STJ fls. 321/328).
+Às e-STJ fls. 354/286, determinei a devolução dos autos à origem, a fim de que aguardasse o julgamento do REsp 1.474.665/RS, submetido à sistemática dos recursos repetitivos, referente à possibilidade de imposição de multa diária a ente público no caso de descumprimento de determinação judicial de fornecer tratamento de saúde a pessoa carente.
+Publicado o aresto paradigma, a Corte a quo realizou novo juízo de
+admissibilidade, oportunidade em que negou seguimento ao apelo nobre quanto à possibilidade de imposição da multa diária (tema 98 do STJ).
+Passo a decidir.
+De início, cumpre destacar que não deve ser conhecido o agravo que não ataque especificamente todos os fundamentos da decisão agravada, tanto nos termos do art. 544, § 4º, I, do CPC/1973, quanto nos moldes dos arts. 932, III, do CPC/2015 e 253, parágrafo único, I, do RISTJ. Confira-se o teor dos dispositivos citados:
+Art. 544. Não admitido o recurso extraordinário ou o recurso especial, caberá agravo nos próprios autos, no prazo de 10 (dez) dias.
+ ..
+§ 4º No Supremo Tribunal Federal e no Superior Tribunal de Justiça, o julgamento do agravo obedecerá ao disposto no respectivo regimento interno, podendo o relator:
+I - não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada.
+Art. 932. Incumbe ao relator:
+ ..
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida; (Grifos acrescidos)
+Art. 253. O agravo interposto de decisão que não admitiu o recurso especial obedecerá, no Tribunal de origem, às normas da legislação processual vigente. (Redação dada pela Emenda Regimental n. 16, de 2014)
+Parágrafo único. Distribuído o agravo e ouvido, se necessário, o Ministério Público no prazo de cinco dias, o relator poderá: (Redação dada pela Emenda Regimental n. 16, de 2014) 120 Superior Tribunal de Justiça
+I - não conhecer do agravo inadmissível, prejudicado ou daquele que não tenha impugnado especificamente todos os fundamentos da decisão recorrida; (Redação dada pela Emenda Regimental n. 22, de 2016)
+A Corte Especial do Superior Tribunal de Justiça, no julgamento dos Embargos de Divergência em Agravo em Recurso Especial n. 701.404/SC, 746775/PR e 831.326/SP, decidiu pela necessidade de o agravante impugnar especificamente todos os fundamentos adotados pela decisão a quo, autônomos ou não, para justificar a inadmissão do recurso especial, sob pena de seu recurso não ser conhecido.
+In casu, da análise dos autos, verifico que a inadmissão do especial se deu com base nos seguintes fundamentos: a) incidência das Sumulas 282 e 356 do STF e 211 do STJ, no tocante à legitimidade passiva da União; b) aplicação da Súmula 83 do STJ quanto à possibilidade de concessão de liminar contra a fazenda Pública; c) incidência da Súmula 7 do STJ em relação ao preenchimento dos requisitos legais para a antecipação de tutela e à razoabilidade do valor da multa diária.
+Entretanto, a parte agravante deixou de impugnar específica e adequadamente todos os fundamentos acima elencados.
+Destaco, por oportuno, não ser suficiente a apresentação de razões genéricas sobre o óbice apontado pela decisão de inadmissibilidade, sendo exigível do agravante o efetivo ataque aos seus fundamentos.
+Em relação à Súmula 7 do STJ, é de rigor que, além da contextualização do caso concreto, a impugnação contenha as devidas razões pelas quais se entende ser possível o conhecimento da pretensão independentemente do reexame fático-probatório, mediante, por exemplo, a apresentação do cotejo entre as premissas fáticas e as conclusões delineadas no acórdão recorrido e sua tese recursal, a fim de demonstrar a prescindibilidade do reexame fático-probatório.
+Outrossim, inadmitido o recurso especial com base na Súmula 83 do STJ, caberia à agravante apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada, procedendo ao devido cotejo analítico, a fim de demonstrar que a orientação desta Corte não se firmou no sentido do acórdão recorrido, ou, ainda, demonstrar a não subsunção do caso concreto à jurisprudência citada pela decisão de inadmissibilidade, o que não ocorreu na espécie.
+Cumpre ressaltar que o Tribunal de origem, ao realizar o juízo de admissibilidade do apelo nobre, deve analisar os pressupostos específicos e constitucionais concernentes ao mérito da controvérsia, não havendo que se falar em usurpação da competência do STJ. Nesse sentido: AgInt no AREsp 2.107.891/PR, relator Ministro Humberto Martins, Segunda Turma, julgado em 14/11/2022, DJe de 30/11/2022; AgInt no AREsp 2.164.815/RS, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 28/11/2022, DJe de 30/11/2022; e AgInt no AREsp 2.098.383/BA, relator Ministro Manoel Erhardt (Desembargador Convocado do TRF5), Primeira Turma, julgado em 15/8/2022, DJe de 17/8/2022.
+Ante o exposto, com base no art. 253, parágrafo único, I, do RISTJ, NÃO CONHEÇO do agravo em recurso especial.
+Publique-se. Intimem-se.
