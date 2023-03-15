@@ -1,0 +1,3 @@
+DECISÃO
+Diante da notícia veiculada pelo Magistrado de primeiro grau, às fls. 109-114, de que em "19 de dezembro de 2022, concederam a ordem em Habeas Corpus para expedição de contramandado de prisão para a prévia intimação do réu a fim de iniciar o cumprimento de sua pena em regime semiaberto" e que "o contramandado foi expedido aos 12/01/2023" (fl. 110, ambas as citações), fica sem objeto este recurso, o qual objetivava justamente tal providência, que, em sua ótica, estaria sendo descumprida na origem em virtude da decisão proferida no REsp n. 1.986.669/SP. Assim, com fundamento no art. 34, XI, do RISTJ, julgo prejudicado o agravo regimental.
+Publique-se e intimem-se.
