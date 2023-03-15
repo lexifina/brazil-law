@@ -1,0 +1,9 @@
+DECISÃO
+O presente writ, impetrado em benefício de Wesley da Rosa  cumprindo pena privativa de liberdade de 19 anos, 4 meses e 26 dias de reclusão, em razão de condenações pela prática do crime de roubo majorado  contra ato coator do Tribunal de Justiça do Rio Grande do Sul (Agravo de Execução Penal n. 5231025-83.2022.8.21.7000), não comporta processamento.
+Com efeito, busca a impetração a concessão da progressão de regime prisional ao paciente, ao argumento de que a última falta grave ocorreu em 28/08/2019 (conforme decisão de seq. 57.1, anexa ao presente), sendo que já repercutiu na execução. Logo, tal circunstância é insuficiente para a valoração do aspecto subjetivo atualmente demonstrado. Atribuir efeitos eternos aos atos de indisciplina, além de ser ilógico e incongruente para com o sistema progressivo que rege a execução penal, também constituiria ofensa ao princípio da razoabilidade e ao caráter ressocializador da pena (fl. 6).
+Ocorre que não há como afastar as considerações realizadas pelo Juízo de primeiro grau, o qual consignou que o histórico de cumprimento de pena do reeducando é acidentado, indicando a ocorrência de, pelo menos, quatro reincidências delitivas quando teve acesso à regime mais brando, inclusive com recente prisão preventiva revogada (06/05/22). Ademais, insta consignar que as práticas delitivas são de natureza grave, visto que envolvem violência, motivo pelo qual a análise da progressão deve ser mais cuidadosa (fl. 254).
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+EXECUÇÃO PENAL. HABEAS CORPUS. PROGRESSÃO DE REGIME. REQUISITO SUBJETIVO. INADIMPLEMENTO. APENADO REINCIDENTE ESPECÍFICO EM CRIMES COMETIDOS COM GRAVE AMEAÇA À PESSOA, ALÉM DE TER COMETIDO INFRAÇÕES DE NATUREZA GRAVE DURANTE O CUMPRIMENTO DA PENA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
