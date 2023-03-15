@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de Kauane Rafaela Dutra, presa preventivamente, desde 17/5/2021, pela prática, em tese, do crime de integrar organização criminosa armada.
+Ataca-se acórdão proferido pelo Tribunal de Justiça de Santa Catarina no HC n. 5027286 53.2022.8.24.0000 (fls. 78/93), que manteve prisão preventiva da paciente, decretada nos Autos n. 5002672-55.2021.8.24.0020 (fls. 109/112), da 1ª Vara Criminal da comarca de Criciúma/SC.
+Alega-se constrangimento ilegal, consistente em deficiência de fundamentação do decreto preventivo; e requer-se, então, a concessão da ordem, inclusive em caráter liminar, a fim de que a paciente seja posta em liberdade.
+Em 28/7/2022, o Vice-Presidente desta Corte Superior, em exercício da Presidência, Ministro Jorge Mussi, indeferiu o pedido liminar (fls. 97/98).
+Prestadas informações pelo Tribunal estadual (fls. 105/108), o Ministério Público Federal opinou pela denegação da ordem (fls. 221/238):
+HABEAS CORPUS. TRÁFICO. ORGANIZAÇÃO CRIMINOSA ARMADA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO CONCRETA, NA PERSPECTIVA DA GARANTIA DA ORDEM PÚBLICA. GRAVIDADE DOS FATOS. ASSALTO A AGÊNCIA BANCÁRIA, COM A SUBTRAÇÃO DE PELO MENOS R$ 125.000.000,00, COM A TOMADA DO CENTRO DA LOCALIDADE, O EMPREGO DE MATERIAL BÉLICO E DE ELEVADA VIOLÊNCIA. EVASÃO. NECESSIDADE DE SE INTERROMPEREM AS ATIVIDADES DA ORGANIZAÇÃO CRIMINOSA DA QUAL A PACIENTE, EM TESE, FARIA PARTE. A CONTROVÉRSIA SOBRE A AUTORIA DELITIVA DEVERÁ SER DIRIMIDA COM A INSTRUÇÃO CRIMINAL, BASTANDO, PARA A DECRETAÇÃO DA MEDIDA, O JUÍZO DE VEROSSIMILHANÇA DAS ALEGAÇÕES, E NÃO O DE CERTEZA, QUE É PRÓPRIO PARA A CONDENAÇÃO. PARECER PELA DENEGAÇÃO.
+É o relatório.
+Busca a impetração a revogação da prisão preventiva imposta à paciente - pela prática, em tese, do crime de integrar organização criminosa armada -, ao argumento de deficiência de fundamentação do decreto preventivo.
+Entretanto, não diviso o alegado constrangimento, pois o decreto preventivo evidenciou que a prisão cautelar contou com requerimento do órgão da acusação (fl. 110) e demonstrou o receio de perigo gerado pelo estado de liberdade da imputada à ordem pública, ressaltando a gravidade concreta do delito - especialmente em razão do número de envolvidos, alto poder bélico utilizado na empreitada criminosa, utilização de explosivos e armas bélicas, além de um complexo plano de fuga.  ..  Aliado a isso, estima-se que a quantia subtraída gire em torno de 125 milhões de reais (fl. 111) - e a periculosidade da agente - se reuniram e arquitetaram o crime previamente, agrupando pelo menos trinta indivíduos para sua execução. Tal periculosidade está representado pelo alto poder de fogo e destruição dos armamentos utilizados na empreitada criminosa (fl. 111) -, apresentando, assim, fundamento apto a consubstanciar a prisão.
+Isso porque a gravidade concreta da conduta imputada, especialmente pelo modus operandi, e periculosidade da organização criminosa armada voltada para a prática de crime de roubos a banco, com elevado número de membros e que se utilizada de alto poderio bélico, demonstram o periculum libertatis da paciente.
+Nesse sentido: RHC n. 104.173/PR, Ministra Laurita Vaz, Sexta Turma, DJe 15/3/2019.
+Em razão disso, denego a ordem.
+Publiqu e-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. INTEGRAR ORGANIZAÇÃO CRIMINOSA ARMADA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. GRAVIDADE CONCRETA DO DELITO, MODUS OPERANDI E PERICULOSIDADE. UTILIZAÇÃO DE EXPLOSIVOS E ARMAS BÉLICAS. FUNDAMENTO IDÔNEO. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Ordem denegada.
