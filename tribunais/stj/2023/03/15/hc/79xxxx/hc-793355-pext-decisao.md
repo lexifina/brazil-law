@@ -1,0 +1,17 @@
+DECISÃO
+JACKSON BRASIL DOS SANTOS pleiteia a extensão do benefício concedido a FELIPE SOARES FERREIRA pelo decisum de fls. 803-806.
+Em consulta ao sítio eletrônico do Tribunal a quo, verificou o gabinete que o prosseguimento da instrução foi designado para o dia 3/5/2023.
+Decido.
+Expõem os autos que, por força de crime ocorrido em 5/9/2015, o Juízo singular decretou a prisão preventiva dos investigados, no dia 13/1/2022, nestes termos (fls. 372):
+Nos termos do artigo 366 do Código de Processo Penal, tendo os réus sido citados por edital e não apresentado respostas à acusação, nem tampouco constituído defensor, SUSPENDO o processo e o curso da prescrição, devendo-se observar quanto a este último, para se evitar a imprescritibilidade, a pena máxima cominada para a infração legal.
+Por fim, para garantir a instrução do feito e a aplicação da lei penal, DECRETO a PRISÃO PREVENTIVA dos réus FELIPE SOARES FERREIRA, MÁRCIO FERNANDES DE ARAÚJO e JACKSON BRASIL DOS SANTOS, por haver prova da materialidade e indícios da autoria, presentes os pressupostos e requisitos previstos nos artigos 312, do Código de Processo Penal.
+A decisão que concedeu a ordem ao paciente foi assim motivada (fl. 805, destaquei):
+Quanto à restrição cautelar da liberdade do paciente, a despeito da gravidade concreta das condutas que lhe foram atribuídas, não olvido que a segregação preventiva foi decretada mais de 6 anos depois dos fatos, sem a indicação de circunstâncias novas ou contemporâneas que respaldassem o periculum libertatis.
+Nada obstante, a jurisprudência deste Superior Tribunal é firme em assinalar que a urgência intrínseca às cautelares - notadamente à mais gravosa - exige a contemporaneidade dos fatos justificadores dos riscos que se pretende com ela evitar.
+Ademais, muito embora a necessidade de citação por edital ampare o processamento do feito por tempo mais alongado, in casu, a providência acarretou o atraso na condução da demanda por somente 8 meses. Vale dizer, na espécie, tal medida não é capaz de justificar a delonga no trâmite da persecução penal, por mais de 6 anos.
+Tampouco desprezo, segundo as peças dos autos, que a única diligência efetivada antes do edital de citação foi a expedição de ofício ao Centro de Detenção Provisória de São José dos Campos. Sem embargo, "A simples ausência do réu, citado por edital, não é fundamento bastante para decretar a prisão cautelar, pois o desaparecimento do agente do distrito da culpa não leva, necessariamente, à conclusão de que pretenda ele se furtar à aplicação da lei penal. Precedentes." (HC n. 371.642/SP, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 19/3/2019, grifei).
+Observo, pois, que há similitude das circunstâncias de caráter objetivo que fundamentam as segregações provisórias dos denunciados. Não vislumbro, no decisum constritivo, distinção entre as participações dos réus, na prática criminosa.
+Também não identifico, na decisão que deferiu o writ, nesta Corte, fatores de caráter pessoal que impeçam a extensão do proveito ao ora postulante.
+À vista do exposto, com amparo no art. 580 do Código de Processo Penal, defiro o pedido, para estender a Jackson Brasil dos Santos o benefício concedido a Fe lipe Soares Ferreira às fls. 803-806, em relação ao Processo n. 0026598-84.2015.8.26.0577, e revogar o seu cárcere preventivo, "se por outra razão não estiver preso, sem prejuízo de nova decretação de medida cautelar de natureza pessoal com lastro em motivos contemporâneos" (fl. 806).
+Comunique-se, com urgência.
+Publique-se e intimem-se.
