@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interposto por MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS, contra decisão que inadmitiu recurso especial manejado em face de acórdão do eg. Tribunal de Justiça do mesmo Estado.
+Consoante se extrai dos autos, o agravante foi absolvido da prática do delito previsto no artigo 342 do Código Penal, com fulcro no artigo 386, inciso VII do Código de Processo Penal (fls. 119-120).
+Em segunda instância, o eg. Tribunal a quo negou provimento à apelação do Ministério Público, mantendo a absolvição do acusado (fls. 163-183).
+Opostos embargos de declaração (fls. 188-200), estes foram rejeitados (fls. 208-216).
+No recurso especial, interposto com fulcro no artigo 105, inciso III, alínea a, da Constituição Federal, o Parquet alegou violação ao artigo 342, caput, do Código Penal, pois o eg. Tribunal de origem, ante fundamentação inidônea, suscitou não haver elementos suficientes a evidenciar a autoria e a materialidade do crime de falso testemunho.
+Afirma que o conjunto probatório contido nos autos e mencionado no próprio acórdão impugnado é inequívoco em demonstrar que o recorrido falseou a verdade em processo no qual figurou como testemunha.
+Por fim, pleiteou a reforma do v. acórdão vergastado, para que seja o recorrido condenado prática do crime de falso testemunho.
+A Defesa, devidamente intimada, deixou de apresentar as contrarrazões (fl. 243), após sobreveio juízo negativo de admissibilidade fundado na incidência da Súmula 7/STJ, pois a análise das questões suscitadas implicariam em revolvimento fático-probatório (fls. 242-246).
+Nas razões do agravo, postula-se o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários à sua admissão (fls. 252-257).
+O Ministério Público Federal apresentou parecer pelo desprovimento do agravo em recurso especial (fls. 272-278).
+É o relatório.
+Decido.
+O agravo não merece ser conhecido.
+A parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial, não bastando, para tanto, deduzir genericamente a impossibilidade de incidência das Súmulas 7/STJ.
+O Ministério Público nas razões de fls. 249-257, em uma breve explanação, em síntese, quanto a incidência da Súmula 7/STJ alegou que "é de se ver das razões do recurso (lis. 149/157) que, ao demonstrar a violação ao dispositivo infraconstitucional apontado, em momento algum o Órgão Ministerial postula o reexame das provas dos autos. ..  pelas provas reconhecidas no aresto, especificamente, (i) os depoimentos prestados pelo acusado, dos quais resta evidente a modificação da versão dos fatos declarados na fase de inquérito e em juízo e (ii) o depoimento prestado pelo policial militar que participou da prisão em flagrante nos autos nº 0133.15.007402-8, segundo o qual o depoimento do agravado perante o Tribunal do Júri divergiu do depoimento prestado por ele no dia dos fatos, quando da lavratura do auto de prisão em flagrante na Delegacia, está comprovada a prática do crime de falso testemunho por Carlos Henrique Rocha" (fl. 252), além de repisar as razões do especial.
+No caso, deveria o agravante demonstrar a desnecessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no acórdão a quo, o que não ocorreu.
+É entendimento desta Corte Superior que "inadmitido o recurso especial com base na Súm.7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível" (AgInt no AREsp 600.416/MG, Segunda Turma, Rel. Min. Og Fernandes, DJe 18/11/2016). Nesse sentido: AgRg no AREsp n. 1.207.268/MG, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 19/12/2018; AgRg nos EDcl no AREsp n. 2.104.712/CE, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 11/11/2022).
+Ademais, "conforme a jurisprudência desta Corte, a incidência da Súmula 7/STJ impede o exame do dissídio jurisprudencial aventado nas razões do apelo nobre" (AgRg no REsp 1532799/SC, Sexta Turma, Rel. Ministro Nefi Cordeiro, DJe 03/04/2018).
+Desse modo, a ausência de impugnação adequada dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre, nos termos do art. 932, inciso III do CPC, obsta o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+Nesse sentido: AgRg no REsp n. 1.958.975/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe 14/11/2022; e AgRg no AREsp 1682769/SC, Quinta Turma, Rel. Ministro Ribeiro Dantas, DJe 23/06/2020.
+Diante do exposto, nos termos do art. 253, parágrafo único inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+P. e I.
+EMENTA
+PENAL. AGRAVO EM RECURSO ESPECIAL. FALSO TESTEMUNHO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
