@@ -1,0 +1,13 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por CAIXA DE PREVIDENCIA DOS FUNCS DO BANCO DO BRASIL contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alínea "a" da Constituição Federal.
+Agravo em recurso especial interposto em: 18/07/2022.
+Concluso ao Gabinete em: 13/03/2022.
+Ação: de revisão de benefício previdenciário complementar, ajuizada por HERVE AFONSO GUIMARAES, em desfavor da agravante e do BANCO DO BRASIL SA, por meio da qual objetiva a incorporação aos salários de participação considerados no cálculo de seu benefício das horas extras e reflexos por ela recebidos nos autos de demanda trabalhista.
+Decisão de admissibilidade do TJDFT: inadmitiu o recurso especial interposto por CAIXA DE PREVIDENCIA DOS FUNCS DO BANCO DO BRASIL, ante i) à incidências das Súmulas 7 e 83/STJ, quanto à alegada ocorrência de prescrição (suposta violação dos arts. 75 da LC/109; e 178, § 10, II, do CC/16); ii) à incidência da Súmula 83/STJ, quanto à alegada possibilidade de compensação da reserva matemática (suposta violação dos arts. 368 e 369 do CC/02); iii) ao não cabimento de recurso especial com base em alega violação de ato normativo secundário, tal qual a Resolução da CGPC 06/2003 e o Regulamento do Plano de Benefícios; iv) à incidência das Súmulas 5 7/STJ, quanto à alegada violação do art. 14, IV, da LC 109/01; e v) à incidência da Súmula 7/STJ, quanto à alegada violação do art. 85, § 2º, do CPC/2015.
+ARESP: não demonstrou, de maneira consistente, a inaplicabilidade das Súmulas 7 e 83/STJ, quanto à alegada ocorrência de prescrição (suposta violação dos arts. 75 da LC/109; e 178, § 10, II, do CC/16); da Súmula 83/STJ, quanto à alegada possibilidade de compensação da reserva matemática (suposta violação dos arts. 368 e 369 do CC/02); das Súmulas 5 7/STJ, quanto à alegada violação do art. 14, IV, da LC 109/01; e o não cabimento de recurso especial com base em alega violação de ato normativo secundário.
+RELATADO O PROCESSO, DECIDE-SE.
+O agravo que não impugna, especificamente, todos os fundamentos da decisão recorrida não deve ser conhecido, conforme disposto na Súmula 182/STJ.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC/15.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados na instância de origem em desfavor da agravante.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
