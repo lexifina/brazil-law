@@ -1,0 +1,46 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto por LUIZ FERNANDO NARDELLI e OUTRA em face da decisão que negou seguimento a recurso especial, fundamentado na alínea "a" do art. 105, III, da Constituição Federal, em face de acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, Fl. 47):
+EXECUÇÃO EXTRAJUDICIAL
+- Condenação da parte executada em multa por ato atentatório à dignidade da justiça - Hipótese em que foi anteriormentecondenado pelo mesmo fato - Imposição de multa decorrente de descumprimento da decisão judicial referente à determinação de indicação do local onde localizados veículos a serem penhoradosEmbora evidente a recalcitrância da agravante em indicar a localização dos veículos, revela-se descabida a imposição de nova multa - Caracterização de inadmissível "bis in idem" Multa afastada:
+- Considerando a anterior imposição de multa por ato atentatório à dignidade da justiça por falta de indicação do endereço ondelocalizados os veículos bloqueados via Renajud, não é cabívelnova imputação de multa pelo mesmo fato, sob pena de caracterizar indevido bis in idem.
+RECURSO PROVIDO EM PARTE
+Os embargos de declaração opostos pelos recorrentes foram rejeitados (e-STJ, Fls. 72-75).
+No recurso especial, o agravante aponta violação aos artigos 489, §1º, VI e 1.022, parágrafo único, II, do CPC/15.
+Sustenta omissão e ausência de fundamentação no acórdão recorrido ao argumento de que, a Corte Estadual, ao manter a primeria multa em desfavor dos recorrentes ignoraram "os entendimentos jurisprudenciais e os argumentos lançados pela recorrente (e-STJ, Fl. 62).
+Apresentada as Contrarrazões, sobreveio juízo negativo de admissibilidade na origem, advindo, daí, o presente agravo (e-STJ, Fls. 105-110).
+É o relatório.
+Passo a decidir.
+A pretensão recursal não comporta acolhimento.
+Isso porque, apresenta-se deficiente a fundamentação do recurso especial em que a alegação de ofensa aos arts. 489 e 1.022, do CPC/15 se faz de forma genérica, não havendo a demonstração clara dos pontos do acórdão que se apresentam omissos, contraditórios ou obscuros. Aplica-se, assim, o óbice da Súmula 284/STF.
+Ademais, é pacífico o entendimento desta Corte quanto à desnecessidade de que o Tribunal, ao proferir sua decisão, aprecie expressamente todas as questões suscitadas pelas partes, bastando que no acórdão constem os fundamentos utilizados para se chegar à conclusão exteriorizada e esta apresente uma solução à questão jurídica que lhe foi submetida pelas partes. Em outras palavras, cabe ao magistrado resolver a lide que lhe é posta, não estando submetido aos argumentos indicados pelo réu ou pelo autor, valendo o brocardo "da mihi factum dabo tibi ius".
+Com efeito, do exame dos autos, constata-se que o Tribunal de origem motivou adequadamente sua decisão, adotando fundamentação suficiente, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese, apenas em sentido contrário à pretensão do recorrente.
+No que diz respeito à primeira penalidade aplicada, a Corte Estadual, esclareceu, pontualmente que (e-STJ, Fls. 74-75):
+Na verdade, as razões pelas quais ao recurso de agravo de instrumento foi dado parcial provimento apenas para afastar a segunda multa fixada a fls.274 restaram bem demonstradas.
+Basicamente porque contra a decisão de fls.258 dos autos originários, os agravantes não interpuseram recurso, sendo,pois, albergada a decisão pela preclusão, não mais comportando discussão no recurso de agravo de instrumento interposto somente quando da aplicação da segunda multa de 10% sobre o valor do débito exequendo.
+Nesse sentido, o recurso deve ser adstrito a matéria versada na decisão impugnada não podendo retroagir para alcançar fatos encobertos pela preclusão. E nem se diga que caberia a análise de ofício da multa imposta, pois o entendimento é aplicável às situações em que o valor da multa cominatória de obrigação de fazer se torna excessivo, não se enquadrando àquela prevista no artigo 774, incisoV, do Código de Processo Civil.
+Ainda assim, foi observada no Acórdão a impossibilidade de aplicação de duas multas em razão do mesmo fato, pois, de tal modo, estaria se caracterizando o indevido bis in idem.
+De tal modo, era cabível a reforma da decisãopara afastar a segunda multa, contra a qual se insurgiu o agravante, ficando preclusa a apreciação daquela aplicada a fls.258.
+Assim, agiu corretamente o Tribunal de origem ao rejeitar os embargos declaratórios por inexistir omissão, contradição ou obscuridade no acórdão embargado, ficando patente, em verdade, o intuito infringente da irresignação, que objetivava a reforma do julgado por via inadequada.
+A propósito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE NO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. TERAPIA OCUPACIONAL. TRATAMENTO PRESCRITO PELO MÉDICO ASSISTENTE. NEGATIVA DE COBERTURA, PORQUE NÃO PREVISTA NO ROL DA ANS. ROL NÃO TAXATIVO. RECUSA INDEVIDA. ENTENDIMENTO MANTIDO PELA EG. TERCEIRA TURMA DO STJ. ART. 1022 DO NCPC. OMISSÃO NÃO CONFIGURADA. EMBARGOS REJEITADOS.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Não configura ofensa ao art. 1.022 do NCPC, quando o Tribunal local se manifesta de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+3. Em que pese a existência de precedente da eg. Quarta Turma de que seria legítima a recusa de cobertura com base no rol de procedimentos mínimos da ANS, esta Terceira Turma, no julgamento do AgInt no REsp 1.829.583/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, julgado aos 22/6/2020, reafirmou sua jurisprudência no sentido do caráter exemplificativo do referido rol de procedimentos. Negativa de tratamento considerada abusiva pelo Tribunal estadual. Decisão mantida.
+4. Embargos rejeitados.
+(EDcl no AgInt no REsp 1880278/SP, TERCEIRA TURMA, Rel. Ministro MOURA RIBEIRO, julgado em 01/03/2021, Dje 04/03/2021);
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO E NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DOS DEMANDANTES.
+1. Violação ao artigo 1022, II, do CPC/15, não configurada. Acórdão estadual que enfrentou todos os aspectos essenciais à resolução da controvérsia de forma ampla e fundamentada, sem omissão. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tenha encontrado motivação satisfatória para dirimir o litígio. Precedentes.
+2. O Tribunal a quo, com base no conjunto fático e probatório carreado aos autos, entendeu não estar configurado o instituto da supressio no caso sub judice e entendeu correta a decisão do magistrado que reduziu o valor da multa estabelecida a título de cláusula penal, dada a sua excessividade, de maneira que a alteração de tais conclusões demanda a interpretação de cláusulas contratuais e a incursão nas questões de fato e de prova dos autos, inadmissível por esta via especial, ante aos óbices das Súmulas 5 e 7/STJ. Precedentes.
+3. Agravo interno desprovido.
+(AgInt no Aresp 1669814/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 24/08/2020, DJe 28/08/2020).
+Sublinha-se que os embargos de declaração não se prestam a perquirições acerca do julgado, não cabendo à Turma julgadora, que não é órgão de consulta, responder a "questionários" postos pelo embargante, que não aponta, de forma concreta, nenhuma obscuridade, omissão ou contradição no acórdão, mas tão somente, o inconformismo com o quanto decidido.
+De fato, o Tribunal de origem indicou adequadamente os motivos que lhe formaram o convencimento, analisando as questões relevantes do processo, examinando as provas produzidas solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+No mais, cumpre deixar registrado que, acaso a parte não concordasse com o resultado do julgamento, deveria apontar dispositivo de lei federal que porventura tenha restado malferido ante a solução dada ao caso, a fim de ver sua incomformismo apreciado de acordo com a jurisprudência desta Corte Superior.
+Não constatada a negativa de prestação jurisdicional na hipótese, por violação aos artigos 489, §1º, VI e 1.022, II, do CPC/15, únicos apontados como ofendidos, inviável o acolhimento da pretensão recursal.
+Por ora, deixo de aplicar a penalidade requerida em sede de contrarrazões, porém, advirto, desde logo, que a apresentação de incidentes infundados ou meramente protelatórios será reputada litigância de má-fé.
+Ante o exposto, conheço o agravo para, desde logo, NEGAR PROVIMENTO ao recurso especial.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/15). VIOLAÇÃO AOS ARTIGOS 489 E 1.022, DO CPC/15. OMISSÃO. AUSENTE. FUNDAMENTOS NO ACÓRDÃO RECORRIDO. MATÉRIA EXAURIDA. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE.
+AGRAVO CONHECIDO PARA, DESDE LOGO, NEGAR PROVIMENTO AO RECURSO ESPECIAL.
