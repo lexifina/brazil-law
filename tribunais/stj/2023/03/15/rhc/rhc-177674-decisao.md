@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso em habeas corpus com pedido liminar interposto por LUCIANO TEIXEIRA DUTRA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA (HC n. 5000818-18.2023.8.24.0000).
+Depreende-se dos autos que o réu foi condenado a 8 anos de reclusão, no regime inicialmente fechado, pelos crimes de furto qualificado e associação criminosa (art. 155, § 4º, I, II e IV, e art. 288, ambos do CP).
+O Tribunal de origem denegou a ordem de habeas corpus.
+Daí o presente recurso, no qual a defesa sustenta que inquéritos policiais e ações penais em curso não podem fundamentar aumento da pena-base, conforme a Súmula n. 444/STJ. Defende, ainda, que o regime prisional mais gravoso foi fixado sem motivação concreta. Ao final, pugna pelo estabelecimento do regime inicial semiaberto.
+É o relatório. Decido.
+Constou do acórdão impugnado (e-STJ fls. 53/54):
+Ademais, foi expressamente destacado pelo Juiz sentenciante que " a s circunstâncias já foram analisadas e merece destaque a ação bem articulada do acusado e seus comparsas para a incursão contra o patrimônio alheio", ou seja, as circunstâncias do crime foram consideradas negativas.
+A fixação do regime fechado, portanto, ocorreu em razão da migração das qualificadoras para a primeira fase do cálculo da pena, bem como pelo fato de que foram negativadas as circunstâncias do crime.
+É importante destacar que a Súmula 440 do STJ e a Súmula 719 do STF não vedam a aplicação de regime mais gravoso do que aquele previsto em lei, mas estabelecem ser imprescindível a apresentação de fundamentos concretos para justificar a maior rigidez.
+No caso em análise, é necessário asseverar que, ao fixar o regime fechado com base em elemento do caso concreto - as circunstâncias do crime e a migração das qualificadoras para a primeira fase do cálculo - o Juízo a quo apresentou fundamentos concretos que permitem concluir que não se trata de hipótese vedada pelos aludidos enunciados.
+Nesse contexto, cumpre ressaltar o entendimento segundo o qual "o ônus imposto pelo princípio da dialeticidade é corolário das categorias lógicas e abstratas do processo e incide em todos os meios de impugnação de decisões judiciais, inclusive o habeas corpus" (AgRg no HC n. 713.800/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 26/4/2022, DJe de 3/5/2022.).
+Na hipótese, contudo, o impetrante não impugna especificamente as razões do acórdão atacado.
+De qualquer forma, "a jurisprudência desta Corte é firme no sentido de que, em caso de existência de duas circunstâncias qualificadoras, uma delas por ser utilizada para qualificar o delito e a outra para exasperar a pena-base"(HC n. 483.025/SC, Rel.ª Min.ª Laurita Vaz, SEXTA TURMA, DJe 9/4/2019)" e, assim, "Tendo sido estabelecida a pena-base acima do mínimo legal, por ter sido desfavoravelmente valorada circunstância do art. 59 do Estatuto Repressor, admite-se a fixação de regime prisional mais gravoso do que o indicado pelo quantum de reprimenda imposta ao réu" (AgRg no HC n. 599.949/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 20/10/2020, DJe de 22/10/2020.).
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
