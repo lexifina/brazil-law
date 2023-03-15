@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de ADRIAN SANTOS DA FONSECA contra acórdão do Tribunal de Justiça do Estado de Santa Catarina proferido nos autos do HC n. 5048382-61.2021.8.24.0000.
+Consta nos autos que o Paciente foi preso em flagrante, em 02/09/2021, pela suposta prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006, pois surpreendido, juntamente com um infante, na posse de 5,9g (cinco gramas e nove decigramas) de cocaína, 3,3g (três gramas e três decigramas) de crack, 7g (sete gramas) de maconha e R$ 156,50 (cento e cinquenta e seis reais e cinquenta centavos). A prisão em flagrante foi convertida em preventiva.
+Irresignada, a Defesa impetrou habeas corpus perante o Tribunal de origem, que concedeu parcialmente a ordem "para substituir a prisão preventiva pelo monitoramento eletrônico (artigo 319, IX, do Código de Processo Penal) sem prejuízo de outras medidas cautelares diversas de prisão que a autoridade coatora, por ventura, vier a julgar necessárias" (fl. 126).
+Neste writ, a Impetrante alega que o Tribunal local impôs "severa medida cautelar de monitoramento eletrônico, sem que fosse suficientemente fundamentada e demonstrada sua excepcionalíssima necessidade" (fl. 5).
+Assevera que a entrada forçada dos policiais no local onde estava o Paciente não estava amparada em fundadas razões.
+Afirma que, "ainda que a porta estivesse completamente aberta e existisse uma placa com a expressão "seja bem-vindo", o ingresso dos policiais militares na residência não poderia ser reputado lícito" (fl. 8). Aduz que ""denúncia anônima" e "odor de maconha" não configuram fundada suspeita capazes de justificar a restrição da garantia fundamental à inviolabilidade de domicílio" (fl. 8).
+Pleiteia o deferimento do pedido liminar para suspender imediatamente a medida cautelar de monitoração eletrônica, até o julgamento final deste writ. No mérito, requer seja reconhecida a ilicitude na coleta de provas decorrentes da invasão de domicílio e afastada a a plicação da medida cautelar de monitoração eletrônica.
+O pedido liminar foi deferido para "afastar, até o julgamento final deste writ, a aplicação da medida cautelar de monitoração eletrônica, sem prejuízo da fixação de outras medidas cautelares alternativas (art. 319 do Código de Processo Penal), desde que de forma fundamentada" (fls. 228-231).
+As informações foram apresentadas (fls. 234-242 e 287-296).
+O Ministério Público Federal opina pela denegação da ordem (fls. 280-285).
+É o relatório.
+Decido.
+Ao se consultar o andamento da Ação Penal n. 5040898-75.2021.8.24.0038, verifica-se que, em 03/03/2023, o Juízo de primeiro grau acolheu em parte a pretensão punitiva estatal para condenar o Paciente à pena de 1 (um) ano, 11 (onze) meses e 10 (dez) dias de reclusão, a ser cumprida inicialmente no regime aberto, e ao pagamento de 194 (cento e noventa e quatro) dias-multa, no valor mínimo, pela prática dos crimes previstos no art. 33, caput, c.c. o art. 40, inciso VI, ambos da Lei n. 11.343/2006.
+A pena privativa de liberdade foi substituída por duas restritivas de direitos, consistentes na prestação de serviço à comunidade ou à entidade pública e na limitação de fim de semana.
+Substituída a pena privativa de liberdade por sanções restritivas de direitos, não subsiste a medida cautelar impugnada neste writ, de forma que o pedido de revogação encontra-se prejudicado.
+Sobre a pretensão de trancamento da ação penal, em decorrência da nulidade das provas que embasaram os indícios de autoria, entende-se que a " posterior análise do apontado vício no âmbito de regular ação penal, em cognição exauriente, impõe a matéria ao Tribunal local para apreciação em eventual recurso contra a sentença" (AgRg no RHC 71.840/PE, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 05/06/2018, DJe 12/06/2018).
+Ante o exposto, JULGO PREJUDICADO o pedido de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE DROGAS. REVOGAÇÃO MEDIDA CAUTELAR DIVERSA DA PRISÃO PREVENTIVA. SUPERVENIENTE SENTENÇA. PENA PRIVATIVA DE LIBERDADE SUBSTITUÍDA POR SANÇÕES RESTRITIVAS DE DIREITOS. TESE DE ILEGALIDADE DAS PROVAS EM RAZÃO DA ALEGADA INVASÃO DE DOMICÍLIO. ANÁLISE PREJUDICADA POR SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA QUE EXAMINOU O TEMA DE FORMA EXAURIENTE. HABEAS CORPUS PREJUDICADO.
