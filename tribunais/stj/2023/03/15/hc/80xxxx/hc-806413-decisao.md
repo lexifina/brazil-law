@@ -1,0 +1,7 @@
+DECISÃO
+RENATO APARECIDO ALBA alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo no Agravo em Execução n. 0003918-50.2022.8.26.0322, em que foi mantido o não reconhecimento da prescrição da pretensão executória.
+Pleiteou a defesa, perante a Corte de origem, "a reforma da decisão para reconhecer, como marco inicial do prazo prescricional, a data do trânsito em julgado para a Acusação" (fl. 158).
+Entretanto, em recente compreensão, " a  jurisprudência desta Corte, agora consolidada no âmbito da Terceira Seção após o julgamento do AgRg no REsp n. 1.983.259/PR (relator Ministro Sebastião Reis Júnior, julgado em 26/10/2022, DJe de 3/11/2022), é no sentido de que o dies a quo para a contagem da prescrição da pretensão executória é o trânsito em julgado para ambas as partes" (EDcl nos EDcl no AREsp n. 2.170.464/RN, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 21/12/2022, grifei.)
+Dessa forma, oportuna é a compreensão exarada pela Corte de origem, ao frisar que, "se antes do trânsito em julgado para a acusação e para a defesa não há título executivo (não há pena a ser cumprida), não é possível se admitir que o marco inicial da pretensão executória se dê em momento anterior à própria existência do título executório" (fl. 161).
+À vista do exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
