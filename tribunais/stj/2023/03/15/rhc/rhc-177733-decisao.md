@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus, com pedido de liminar, protocolado por João Antunes de Matos Neto, contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, proferido no H C n. 0073981-91.2022.8.19.0000, assim ementado:
+"HABEAS CORPUS. DECISÃO QUE INDEFERE PEDIDO DEFENSIVO DE DETRAÇÃO. ALEGADO CONSTRANGIMENTO ILEGAL PORQUE A DETRAÇÃO É UM DIREITO SUBJETIVO DO APENADO. PRETENSÃO À REFORMA DA DECISÃO, COM A ELABORAÇÃO DE NOVO CÁLCULO DE PENA, QUE SE NEGA. PACIENTE QUE POSSUI UMA CARTA DE EXECUÇÃO DE SENTENÇA (PROCESSO N.º 0470903-12.2008.8.19.0001) EM TRÂMITE JUNTO À VARA DE EXECUÇÕES PENAIS DO RIO DE JANEIRO/RJ, REUNINDO DUAS CONDENAÇÕES, UMA NO FEITO N.º 2004.042.000946-9, JÁ EXTINTO; E OUTRA NO PROCESSO CRIMINAL N.º 0044650-14.2006.8.19.0004, DA 4.ª VARA CRIMINAL DE SÃO GONÇALO, À PENA DE 20 ANOS DE RECLUSÃO, PELA PRÁTICA DO CRIME PREVISTO NO ARTIGO 121, § 2.º, INCISOS I E IV, DO CÓDIGO PENAL, ATUALMENTE EM REGIME SEMIABERTO. REQUERIMENTO DE DETRAÇÃO DO PERÍODO DE CUMPRIMENTO DE PENA ENTRE 15/11/2006 E 18/08/2013, EM RELAÇÃO À CES N.º 0044650-14.2006.8.19.0004 (ID. 33 DO ANEXO), INDEFERIDO PELA AUTORIDADE IMPETRADA, POIS JÁ CONSIDERADO COMO CUMPRIMENTO DE PENA NO PROCESSO N.º 0470903-12.2008.8.19.0001, O QUE MOTIVOU A EXTINÇÃO DA CES N.º 2004.042.000946-9. INCABÍVEL, NA HIPÓTESE, A CONSIDERAÇÃO DO PERÍODO REFERIDO PARA FINS DE NOVA DETRAÇÃO. INCONFORMISMO DA DEFESA QUE DESAFIA A INTERPOSIÇÃO DE RECURSO DE AGRAVO EM EXECUÇÃO PENAL, NA FORMA DO ARTIGO 197 DA LEI 7210/84, SOB PENA DE SUPRESSÃO DE INSTÂNCIA E USURPAÇÃO DE COMPETÊNCIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. DENEGAÇÃO DA ORDEM." (fl. 43)
+No presente recurso, a defesa busca, em liminar e no mérito, a detração de 6 anos e 9 meses de pena referente ao tempo que teria ficado preso provisoriamente.
+É o relatório.
+Decido.
+Na hipótese dos autos, o julgado atacado manteve o afastamento da detração penal, com os seguintes fundamentos:
+"Em 25/04/2022, a defesa requereu a detração do período de cumprimento de pena, entre 15/11/2006 e 18/08/2013, em relação à CES n.º 0044650-14.2006.8.19.0004 (id. 33 do anexo), o que restou indeferido pela autoridade impetrada.
+Ocorre que o período acima mencionado já foi considerado como cumprimento de pena do processo n.º 0470903-12.2008.8.19.0001, o que motivou a extinção da CES n.º 2004.042.000946-9.
+Destarte, incabível a nova consideração do período entre 15/11/2006 e 18/08/2013, para fins de nova detração." (fls. 45/46)
+Assim, mostra-se impossível o acolhimento do pleito de detração penal do período requerido, por ter sido contabilizado como cumprimento de pena em outro processo.
+Por tais razões, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente recurso em habeas corpus .
+Publique-se.
+Intimem-se.
