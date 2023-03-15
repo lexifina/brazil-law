@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos pela Oi S.A. em face de decisão que negou provimento ao agravo em recurso especial, sob os fundamentos de que: (I) a matéria relacionada à base de cálculo dos honorários não foi suscitado em momento oportuno, de modo que, ao apontar omissão em relação ao aludido tema, revela-se manifesta a deficiência na fundamentação do recurso especial, incidindo o óbice da Súmula 284/STF; e (II) incide a Súmula 7/STJ, no tocante à configuração da responsabilidade civil da agravante, assim como quanto ao valor da indenização pelos danos morais e, ainda, quanto à comprovação do dano material pela parte autora.
+A embargante, em suas razões, sustenta que a decisão é omissa, porquanto, ao aplicar a Súmula 284/STF, partiu de premissa fática equivocada e não considerou que fora interposto recurso adesivo pela par te ora embargante, no qual foi apontado o erro material quanto à verba sucumbencial.
+Pugna, pois, pelo acolhimento dos embargos de declaração, para, atribuindo-lhes efeitos infringentes, prover o recurso especial no tocante à afronta ao art. 1022 do CPC.
+Impugnação às fls. 1662/1665 .
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De acordo com o estatuído no art. 1022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição ou omissão do decisum atacado e, ainda, para corrigir erro material. Entretanto, no caso, não se verifica a existência de quaisquer das deficiências em questão, pois a decisão embargada enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+E, no caso dos autos, assiste razão à parte embargante.
+A decisão recorrida, no ponto que aplicou o óbice da Súmula 284/STF em relação à alegada ofensa ao art. 1022, II, do CPC, foi assim fundamentada (fls. 1640/1641):
+Inicialmente, verifica-se que, na espécie, o tema relacionado à base de cálculo dos honorários advocatícios (indenização e pensões vencidas), não foi suscitada no momento oportuno, qual seja, em sede de apelo voluntário, de modo que a alegação, somente em sede de embargos aclaratórios, de matéria que já fora objeto da sentença sentença de piso, configura indevida inovação recursal, que afasta a suposta negativa de prestação jurisdicional.
+Assim, ao apontar omissão em relação ao aludido tema, revela-se manifesta a deficiência na fundamentação do recurso especial. Imperiosa, portanto, a incidência do óbice constante da Súmula 284/STF, segundo a qual é "inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia." .
+Ocorre que não se atentou para o fato de que a parte ora embargante interpôs recurso adesivo perante o Tribunal a quo (fls. 1179/1199), caracterizando, assim erro material passível de correção.
+Assim, forçosa é a reconsideração da decisão embargada.
+ANTE O EXPOSTO, acolho os embargos de declaração para sanar erro material e, atribuindo efeitos modificativos, torno sem efeito a decisão de fls. 1639/1643.
+Publique-se. Após, retornem-me os autos conclusos para nova apreciação do agravo em recurso especial.
