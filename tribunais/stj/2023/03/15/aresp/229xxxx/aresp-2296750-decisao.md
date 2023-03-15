@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por CARLOS PAIVA GOLGO e OUTRA, contra decisão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. CONDENAÇÃO POR RPV. HONORÁRIOS ADVOCATÍCIOS.
+1. O Código de Processo Civil estabeleceu uma sistemática objetiva e concreta para a fixação dos honorários de sucumbência.
+2. A hipótese de apreciação equitativa tem cabimento quando for inestimável ou irrisório o proveito econômico ou, ainda, quando o valor da causa for muito baixo (art. 85, §8º), hipótese que não se verifica nestes autos.
+3. Arbitrar honorários sucumbenciais com base em critérios puramente subjetivos, sem observar os elementos compreendidos nos autos, ainda que se trate de valor do proveito econômico supostamente irrisório ou mesmo de valor causa baixo, é violar, acima de tudo, a isonomia.
+4. O §8º do art. 85 do CPC, situação excepcional, deve ser aplicado com cautela e com base em interpretação baseada nos fatos ocorridos no processo. O fato de o valor da causa ser baixo não reproduz, necessariamente, a conclusão de que se trata de valor é irrisório. São os fatos do processo que determinam tal conclusão.
+5. Agravo desprovido" (fl. 44e).
+Opostos Embargos de Declaração, foram eles rejeitados (fls. 80/84e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a e c, da Constituição Federal, a parte ora agravante aponta, além do dissídio jurisprudencial, violação aos arts. 489, § 1º, VI, 1.022 e 85, § 8º, do CPC/2015, sustentando, em síntese, omissão não suprida em sede de Embargos de Declaração, bem como que os honorários devem ser fixados por apreciação equitativa, considerando que o valor da causa é muito baixo (fls. 93/119e).
+Inadmitido o Recurso Especial (fls. 138/139e), foi interposto o presente Agravo (fls. 149/157e).
+O Recurso Especial não merece ser conhecido.
+C om efeito, no caso dos autos, o Recurso Especial não foi admitido, haja vista a falta do recolhimento do respectivo preparo, mesmo após a intimação da parte para a sua regularização.
+A mera alegação da parte recorrente de que é beneficiária da assistência judiciária não é suficiente para o afastamento da deserção, ou seja, deve haver a comprovação dessa condição. Nesse sentido, o AgInt no AREsp 1545172/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 5/6/2020.
+Ressalto, ainda, que o Recurso Especial trata tão somente sobre honorários de sucumbência, e o benefício da justiça gratuita concedido à parte autora não se estende ao advogado, nos termos da jurisprudência deste Tribunal.
+Nesse sentido:
+"PROCESSUAL CIVIL. RECURSO ESPECIAL. PARTE QUE LITIGA SOB A GRATUIDADE DA JUSTIÇA. APELO EXTREMO INTERPOSTO POR ADVOGADO. HONORÁRIOS. PREPARO. AUSÊNCIA. DESERÇÃO. OCORRÊNCIA.
+1. Consoante o disposto no art. 99, § 5º, do Código de Processo Civil, se o recurso versar exclusivamente sobre valor de honorários de sucumbência ou contratuais fixados em favor de advogado, cuja parte é beneficiária da justiça gratuita, será devido o pagamento das custas e das despesas processuais, salvo se o próprio advogado demonstrar que tem direito à gratuidade.
+2. O direito à gratuidade da justiça é pessoal, exclusivo da parte hipossuficiente, não se estendendo a litisconsorte ou a sucessor do beneficiário, tampouco ao advogado da parte, salvo requerimento e deferimento expressos, ex vi do art. 99, § 6º, do CPC/2015, inexistente nos autos.
+3. Agravo interno desprovido" (STJ, AgInt no AREsp 1.518.381/RJ, Rel. Ministro Gurgel de Faria, PRIMEIRA TURMA, DJe de 06/05/2020).
+"PROCESSUAL CIVIL PROCESSUAL CIVIL. HONORÁRIOS. ART. 99, § 5º, DO CPC/2015. RECURSO ESPECIAL INTERPOSTO POR ADVOGADO QUE NÃO É BENEFICIÁRIO DA JUSTIÇA GRATUITA. HONORÁRIOS. PREPARO. AUSÊNCIA. DESERÇÃO. OCORRÊNCIA.
+1. O STJ possui jurisprudência consolidada no sentido de que "sendo pessoal o direito à gratuidade da justiça, "o recurso que verse exclusivamente sobre valor de honorários de sucumbência fixados em favor do advogado de beneficiário estará sujeito a preparo, salvo se o próprio advogado demonstrar que tem direito à gratuidade" (art. 99, §§ 4º, 5º e 6º do CPC/2015)" (AgInt no AREsp 1.330.266/SP, Relatora Ministra Maria Izabel Galloti, Quarta Turma, DJe 8.4.2019).
+Na mesma linha: AgInt no AREsp 1.518.381/RJ, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 6.5.2020; e AgInt no AREsp 1.572.165/SP, Rel. Ministro Marco Aurélio Belizze, Terceira Turma, DJe 12.6.2020.
+2. Mediante análise do recurso, verifica-se que este não foi instruído com a guia de custas devidas ao STJ e o respectivo comprovante de pagamento.
+Ocorre que, apesar de a parte insurgente ser detentora da justiça gratuita, observa-se que o Recurso Especial foi interposto exclusivamente com o objetivo de discutir a fixação dos honorários de sucumbência.
+3. Por esse motivo, nos termos do art. 1.007, § 4º, do CPC/2015, o insurgente foi intimado para realizar, no prazo de 5 dias, recolhimento em dobro das custas processuais, sob pena de deserção (fl. 322, e-STJ). Embora regularmente intimada, a parte se limitou a alegar que é desnecessário o recolhimento de preparo (fls. 324-325, e-STJ).
+4. Dessa forma, o Recurso Especial não foi devida e oportunamente preparado, incidindo, na espécie, o disposto na Súmula 187/STJ, o que leva à deserção do recurso. No mesmo sentido: AREsp 1.639.083/SP, Relator Ministro Mauro Campbell Marques, Segunda Turma, DJe 19.5.2020.
+5. Agravo Interno não provido" (STJ, AgInt no AREsp 1.601.476/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 29/10/2020).
+A jurisprudência deste Tribunal firmou-se no sentido de que cabe ao recorrente efetuar o recolhimento do respectivo preparo, sob pena de não conhecimento do recurso, nos termos da Súmula nº 187/STJ: "É deserto o recurso interposto para o Superior Tribunal de Justiça, quando o recorrente não recolhe, na origem, a importância das despesas de remessa e retorno dos autos".
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IRREGULARIDADE NA REPRESENTAÇÃO PROCESSUAL E NO PREPARO. INTIMAÇÃO PARA REGULARIZAÇÃO DO VÍCIO. NÃO SANEAMENTO NO PRAZO LEGAL. NECESSIDADE DE COMPROVAÇÃO DA CONCESSÃO DE GRATUIDADE NA ORIGEM. AGRAVO NÃO PROVIDO.
+1. Nos termos dos arts. 76, §2º, I e 932, parágrafo único, do CPC de 2015, não se conhece do recurso quando a parte, após intimada, não comprova a regularidade da sua representação processual no prazo estipulado.
+2. Ademais, consoante jurisprudência desta Corte Superior, se a parte, mesmo após regular intimação, não comprova no prazo assinalado o recolhimento do preparo na forma devida ou o deferimento da gratuidade da justiça na origem, o recurso especial é considerado deserto (Súmula 187 do STJ).
+3. "A dispensa de instrução do agravo de instrumento com as peças obrigatórias, prevista no artigo 1.017, § 5º, do CPC/15, não alcança a instância superior, diante da impossibilidade de acesso aos autos eletrônicos originais. Precedentes." (AgInt no AREsp 1907625/BA, Rel. Ministro Marco Buzzi, Quarta Turma, julgado em 25/10/2021, DJe 28/10/2021) 4. Agravo interno não provido" (STJ, AgInt no AREsp n. 2.020.569/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 28/6/2022).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - EMBARGOS DE TERCEIRO - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE EMBARGADA.
+1. O diferimento do pagamento das custas judiciais ao final do processo, regulamentada por Lei Estadual, não tem o condão de eximir a parte do pagamento das custas devidas ao STJ, porque têm natureza de taxa federal. Precedentes.
+2. O benefício da gratuidade judiciária não tem efeito retroativo, de modo que a sua concessão posterior à interposição do recurso não tem o condão de isentar a parte do recolhimento do respectivo preparo.
+3. A ausência de apreciação do pedido de justiça gratuita pelo Tribunal de origem não significa deferimento tácito.
+4. A jurisprudência do STJ possui entendimento segundo o qual deve ser reconhecida a deserção do recurso especial se, após a intimação, nos termos do art. 1.007, § 4º, do CPC/15, a parte não comprovar o pagamento ou não o efetuar em dobro.
+4.1. No presente caso, mesmo após a intimação da parte recorrente para que sanasse o vício apontado no prazo de 5 (cinco) dias, não houve a comprovação da regularidade no recolhimento do preparo no prazo fixado, o que impõe a incidência da Súmula 187 do STJ.
+Deserção do recurso especial reconhecida. Precedentes.
+5. Agravo interno desprovido" (STJ, AgInt no AREsp n. 1.856.782/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 16/12/2021).
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo, para não conhecer do Recurso Especial.
+I.
