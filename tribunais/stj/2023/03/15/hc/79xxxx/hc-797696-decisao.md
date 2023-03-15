@@ -1,0 +1,22 @@
+DECISÃO
+LEANDRO APARECIDO FARIA NOROES alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo.
+A defesa pugna para que seja determinado, ao Juízo da execução, a análise do pedido de progressão prisional formulado em favor do paciente, independentemente da realização de exame criminológico.
+A liminar foi indeferida (fls. 78-79) e o Ministério Público Federal opinou pelo não conhecimento do writ.
+Decido.
+Infere-se dos autos que o Juiz de primeiro grau determinou a submissão do paciente a exame criminológico, a fim de aferir a presença do requisito subjetivo para análise do pleito de progressão de regime, in verbis (fl. 51, destaco):
+Em regra, tenho analisado os pedidos de progressão independentemente de realização de exame criminológico, pois a LEP o tornou facultativo. Não obstante, há casos em que o exame se faz necessário para que o julgador tenha elementos suficientes para verificar a existência do requisito subjetivo.
+No presente caso, o sentenciado cumpre pena pelo cometimento de delito de LATROCÍNIO entre outros, e resta ao sentenciado cumprir mais de 11 anos de pena. Está cumprindo pena, atualmente, pela 4ª GR.
+Tais elementos, evidentemente, indicam periculosidade e aconselham a realização de exame criminológico, permitindo, assim, mais cautela, prudência e segurança na análise do pedido.
+Portanto, para melhor instruir o pedido de progressão requerido pelo sentenciado LEANDRO APARECIDO FARIA NOROES, RG: 40888955X, recolhido à Penitenciária de Taquarituba, determino, excepcionalmente, a realização de exame criminológico no sentenciado, oficiando-se para a Diretoria do Estabelecimento para que o providencie. Caso não seja possível a sua efetivação pela Unidade, requisite-se avaliação psicossocial, a ser efetivadapelos técnicos da unidade prisional.
+O Tribunal a quo ratificou o decisum supra.
+Embora a nova redação do art. 112 da LEP haja dispensado a obrigatoriedade do estudo de periculosidade, não suprimiu nem vedou o meio de prova. Como a execução, no sistema pátrio, é jurisdicionalizada, e o magistrado não está atrelado nem é mero órgão chancelador de documentos emitidos pela direção prisional, ainda é admissível a determinação do estudo de periculosidade, desde que em decisão motivada. Tal fundamentação deve estar relacionada a elemento pertinente à execução da pena, não se admitindo a simples referência à gravidade abstrata do delito ou à longevidade da pena.
+Essa é a exegese da Súmula n. 439 do STJ, não observada pelo Juiz das Execuções, que não fundamentou idoneamente a exigência da avaliação.
+A decisão é patentemente ilegal, pois:
+ ..  2. "Para que seja indeferida a progressão de regime ou determinada a realização do exame criminológico, é necessária motivação idônea e concreta, o que não foi observado na espécie, pois se ressaltou, no acórdão combatido, apenas a gravidade dos crimes pelos quais a Paciente foi condenada e a longa pena a cumprir. Não houve, portanto, a indicação de fatos ocorridos no curso da execução da pena que impedissem a concessão do benefício ou indicassem a necessidade da perícia" (HC n. 620.368/SP, relatora Ministra LAURITA VAZ, SEXTA TURMA, julgado em 24/11/2020, DJe 2/12/2020).
+3. Agravo regimental desprovido.
+(AgRg no HC n. 726.860/SP, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 08/04/2022, grifei)
+ ..  Embora a alteração legislativa produzida pela Lei n. 10.792/2003, no art. 112 da Lei n. 7.210/84 (Lei de Execução Penal - LEP), tenha suprimido a referência expressa ao exame criminológico como requisito para concessão de benefícios da execução penal, esta Corte consolidou entendimento, por meio do enunciado n. 439, da Súmula/STJ, no sentido de que o magistrado pode, de forma fundamentada, exigir a sua realização. Tal fundamentação, entretanto, deve estar relacionada a algum elemento concreto da execução da pena, não se admitindo a simples referência à gravidade abstrata do delito ou à longevidade da pena. Precedentes do STJ.
+ ..
+(AgRg no HC n. 772.831/SP, relator Ministro Reynaldo Soares da Fonseca, 5ª T., DJe de 10/10/2022)
+À vista do exposto, concedo a ordem de habeas corpus, para afastar a exigência do exame criminológico e determinar ao Juiz da VEC que examine o pedido de progressão de regime à luz do art. 112 da LEP, sem prejuízo de nova determinação da avaliação de periculosidade, desde que por decisão concretamente fundamentada.
+Publique-se e intimem-se.
