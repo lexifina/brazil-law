@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por JOILSON DE JESUS MENAS contra a decisão de fls. 528-535, da minha relatoria, ementada nos seguintes termos:
+"RECURSO ESPECIAL. PENAL. DELITO DO ART. 157, § 2.º, INCISOS I E II, DO CÓDIGO PENAL. PLEITO DE RECONHECIMENTO DE CRIME ÚNICO. ÓBICE DA SÚMULA N. 7/STJ. CONDENAÇÃO POSTERIOR. FUNDAMENTAÇÃO INIDÔNEA PARA LASTREAR A NEGATIVAÇÃO DA VETORIAL PERSONALIDADE. MAJORANTE DA ARMA DE FOGO. DESNECESSIDADE DE APREENSÃO E PERÍCIA. TESES DE FIXAÇÃO DO REGIME SEMIABERTO E DE DETRAÇÃO DO PERÍODO DE APRISIONAMENTO CAUTELAR PREJUDICADAS EM RAZÃO DE TEREM SIDO APRECIADAS NO HABEAS CORPUS N. 625031/SP. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, PROVIDO PARCIALMENTE."
+O Embargante alega que esta Relatoria, no bojo do Habeas Corpus n. 625.031/SP, concedeu ordem de habeas corpus de ofício para afastar a fração de 3/8 (três oitavos) do aumento da pena na terceira fase de sua individualização, fazendo incidir a fração de 1/3 (um terço). Por essa razão, ao decidir, no recurso especial, pela manutenção da fração de 3/8 (três oitavos), o fez em patente reformatio in pejus, devendo o apelo nobre ser considerado prejudicado no mencionado ponto (fls. 540-541).
+Pugna, assim, seja sanada a mencionada contradição (fl. 541).
+O Ministério Público Federal apresentou impugnação (fls. 577-581).
+É o relatório.
+Decido.
+Com razão o Embargante. De fato, na decisão monocrática proferida no habeas corpus n. 625.031/SP, foi concedida, de ofício, ordem de habeas corpus, determinando que o aumento da pena, pelo uso da arma de fogo e pelo concurso de agentes, fosse implementado na fração de 1/3 (um terço):
+"Ainda, o Tribunal local, ao confirmar o patamar de aumento na terceira fase da dosimetria da pena adotado pela sentença, consignou o que se segue (fl. 129):
+"Na terceira fase do cálculo, considerando o concurso de agentes e com o emprego de arma, sendo os fatos anteriores ao advento da Lei nº 13.654/2018, as penas foram majoradas na fração de 3/8, resultando em seis anos e cinco meses de reclusão, além de quinze dias-multa."
+Como se vê, a Jurisdição ordinária, fundada em entendimento ilegal, lastreou-se tão somente em critério matemático para recrudescer a pena acima da razão mínima (presença de duas causas de aumento). Porém, a configuração de mais de uma majorante no crime não é causa obrigatória de exasperação da punição em fração acima da menor prevista, exceto quando o Julgador, concretamente, ressalte motivos idôneos que indiquem a necessidade da exasperação - o que, como se vê, não ocorreu.
+Ao não adotar parâmetro subjetivo, em violação do princípio constitucional da individualização da pena (art. 5.º, inciso XLVI, da Constituição da República), o Juiz de primeiro grau violou a orientação consolidada na Súmula n. 443 do Superior Tribunal de Justiça, segundo a qual "o aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes".
+Em suma, na ausência de motivação factual, com mero emprego de critério matemático (objetivo) para o aumento da pena acima da razão mínima na terceira fase da dosimetria, mostra-se ilegal a dosimetria no ponto, motivo pelo qual deve ser reduzido o quantum relativo ao aumento no crime de roubo ao patamar legal mínimo, de 1/3 (um terço), nos termos do revogado § 2.º, do art. 157, do Código Penal, por se tratar de crime praticado antes da edição da Lei n. 13.654/2018."
+Por conseguinte, o apelo nobre, nesse ponto, deve mesmo ser considerado prejudicado.
+Dessa forma, refaço a individualização das penas.
+1.ª Fase - excluída a negativação da vetorial personalidade, fixo a pena-base no mínimo legal de 4 (quatro) anos de reclusão e 10 (dez) dias-multa.
+2.ª Fase - à míngua de agravantes ou de atenuantes (fl. 325), as punições ficam mantidas em 4 (quatro) anos de reclusão e 10 (dez) dias-multa.
+3.ª Fase - mantenho o aumento da pena na fração de 1/3 (um terço), pelas majorantes do concurso concurso de pessoas e do uso de arma de fogo (fl. 396), chegando as reprimendas aos montantes de 5 (cinco) anos e 4 (quatros) meses de reclusão e 13 (treze) dias-multa.
+Reconhecido o concurso formal de crimes, fica mantido o acréscimo de 1/6 (um sexto), (fl. 326), chegando as sanções aos montante finais de 6 (seis) anos, 2 (dois) meses e 20 (vinte) dias de reclusão, em regime fechado, e 15 (quinze) dias-multa.
+Ante o exposto, ACOLHO os embargos de declaração, com efeito modificativos, para sanar a referida contradição, devendo ser considerado prejudicado o apelo nobre quanto à fração de aumento da pena pelo uso de arma de fogo e pelo concurso de agentes, redimensionadas as penas nos termos acima delineados.
+Publique-se. Intimem-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ALEGADA CONTRADIÇÃO. OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO ACOLHIDOS COM EFEITO MODIFICATIVO.
