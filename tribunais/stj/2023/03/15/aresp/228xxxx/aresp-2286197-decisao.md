@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo interposto por BRUNO SANTANA DE SOUZA contra decisão do Tribunal de Justiça do Estado da Bahia, que não admitiu o recurso especial manejado c om apoio no art. 105, III, "a", da Constituição da República, em oposição a acórdão assim ementado:
+"APELAÇÃO CRIMINAL ROUBO MAJORADO PELO CONCURSO DE PESSOAS E USO DF ARMA DE FOCO ART 157 §2º I F II DO CP ABSOLVIÇÃO IMPOSSIBILIDADE DECLARAÇÕES DOS OFENDIDOS DEPOIMENTO DOS POLICIAIS E CONFISSÃO DOS ACUSADOS BENS PERTENCENTES ÀS VÍTIMAS ENCONTRADOS COM OS ACUSADOS RECONHECIMENTO DO CRIME TENTADO NÂO CABIMENTO OS OBJETOS PASSARAM PARA A ESFERA DE DOMÍNIO DOS AGENTES CONSUMAÇÃO AFASTAMENTO DA CAUSA DE AUMENTO REFERENTE AO USO L)A ARMA DE FOGO INOCORRÊNCIA A APREENSÃO E A PERÍCIA NÃO SÃO IMPRESCINDÍVEIS SE O USO DO ARTEFATO PUDER SER ATESTADO POR OUTROS MEIOS PROBATÓRIOS AFASTAMENTO DA MAJORANTE DO CONCURSO DE PESSOAS IMPOSSIBILIDADE PROVAS INCONTESTES DA PARTICIPAÇÃO DF TRÊS AGENTES APLICAÇÃO DA ATENUANTE DA CONFISSÃO INCABÍVEL OBSERVÂNCIA DA SÚMULA 231 DO STJ REDUÇÃO DO QUANTUM DAS MAJORANTES PARA O MÍNIMO LEGAL CORREÇÃO HOMENAGEM À SÚMULA 443 DO STJ RECURSO CONHECIDO E PARCIALMENTE PROVIDO."
+A defesa aponta violação dos artigos 155 e 157, ambos do Código Penal, aduzindo a necessidade de desclassificação da conduta para o delito de furto, uma vez que não teria restado demonstrada a ameaça ou violência no caso concreto.
+Indica, também, violação do art. 65, III, "d", do Código Penal, argumentando pela necessidade de aplicação da atenuante da confissão espontânea, eis que o recorrente confessou os fatos perante a autoridade judicial. Nesse sentido, sustenta a necessidade de superação da Súmula 231/STJ.
+Por fim, aduz a violação do art. 14, II do Código Penal, sob fundamento de que "a prisão em flagrante teria ocorrido LOGO APÓS o suposto fato criminoso narrado na denúncia. Em virtude disto, não se conseguiu efetivar il consumação do delito imputado, razão pela qual, é forçosa e plausível a constatação da modalidade tentada.".
+Requer, assim, seja conhecido e provido integralmente o recurso especial.
+Foram apresentadas as contrarrazões (e-STJ, fls. 617-625).
+O recurso foi inadmitido sob o fundamento de que a pretensão recursal encontra óbice nas Súmulas 7 e 83 do STJ (e-STJ, fls. 647-650). Daí este agravo (e-STJ, fls. 6667-709).
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso (e-STJ, fls. 787-791).
+É o relatório.
+Decido.
+A irresignação não merece acolhimento.
+Consoante se verifica dos autos, o réu foi condenado à pena de 6 anos, 6 meses e 12 dias de reclusão, em regime semiaberto, bem como ao pagamento de 10 dias-multa, em razão da prática delitiva capitulada no artigo 157, §2º, incisos I e II c.c art. 70, ambos do Código Penal.
+No tocante ao pleito desclassificatório, a instância de origem, soberana na análise dos elementos fáticos e probatórios dos autos, assim se manifestou:
+" ..  Tanto a materialidade quanto a autoria delitivas estão irrefutavelmente comprovadas.
+A materialidade fora atestada pelo Laudo de Exibição e Apreensão (fls.16/17 autos digitais), em que foram listados os objetos apreendidos com os Acusados, dentre os quais estavam alguns bens pertencentes às vítimas Diego Santos de Andrade e Fabrício do Carmo Serra; pelos Autos de Restituição (fls. 19 e 21 autos digitais); e pelas declarações das vítimas e depoimentos das testemunhas, os quais também demonstram, de forma irrefutável, a autoria.
+As vítimas, quando ouvidas em Juízo (mídia audiovisual), descreveram o crime e suas circunstâncias, tendo Fabrício do Carmo Serra reconhecido os três Acusados e Diego Santos de Andrade identificado Bruno Santana de Souza e Leonardo Reis Santos. Relaram que estavam na porta da sogra do ofendido Fabrício, quando dois indivíduos chegaram andando, abordaram-nos e, mediante grave ameaça exercida com o emprego de arma de fogo, obrigaram-nos a passar seus pertences, tendo eles, posteriormente, fugido em um Uno branco, onde tinha outra pessoa na direção do veículo." (e-STJ, fls. 524-525, grifou-se).
+Como visto, há nos autos prova testemunhal colhida em Juízo no sentido de que a subtração dos bens dos ofendidos se deu por meio de grave ameaça exercida por meio de arma de fogo. No mesmo sentido, o próprio recorrente, em seu interrogatório, admitiu que fora empregada arma de fogo no delito em questão.
+Nesse contexto, a alteração das conclusões a que chegou o Tribunal de origem, a fim de desclassificar a conduta para aquela prevista no art. 155, caput, do Estatuto Repressivo, tal como pleiteado pela defesa, demandaria necessariamente o revolvimento do suporte fático-probatório dos autos, o que é vedado em sede de recurso especial, consoante o disposto na Súmula 7 deste Superior Tribunal de Justiça.
+Nesse sentido, confiram-se:
+" ..
+2. A Corte de origem, soberana na análise do acervo probatório, concluiu, fundamentadamente, pela suficiência de provas a autorizar um decreto condenatório. Dessa forma, concluir em sentido contrário demandaria a inevitável incursão no acervo probatório dos autos, hipótese vedada pela Súmula 7/STJ.
+3. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento." (AgRg no AREsp 1.279.407/MT, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 21/06/2018, DJe 29/06/2018)
+" ..
+2. Para afastar a conclusão das instâncias ordinárias de que a conduta praticada pelo agravante se revestiu da violência necessária para a configuração do roubo e desclassificar o crime para furto simples, seria necessário o revolvimento do suporte fático-probatório delineado nos autos, procedimento vedado nesta esfera, a teor da Súmula n. 7 do Superior Tribunal de Justiça.
+3. Agravo regimental não provido.
+(AgRg no AREsp n. 726.700/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 5/11/2015, DJe de 23/11/2015.)
+Quanto ao pleito de desclassificação da conduta para o roubo tentado, nos termos do decidido pela Terceira Seção deste Superior Tribunal no julgamento do Recurso Especial n. 1.499.050/RJ, submetido ao rito dos recursos repetitivos, "consuma-se o crime de roubo com a inversão da posse do bem, mediante emprego de violência ou grave ameaça, ainda que por breve tempo e em seguida a perseguição imediata ao agente e recuperação da coisa roubada, sendo prescindível a posse mansa e pacífica ou desvigiada". Posteriormente, a Terceira Sessão aprovou a Súmula 582, com a mesma redação.
+Neste contexto, a Corte Estadual reconheceu ter havido a inversão da posse da res furtivae - a qual, inclusive, saiu da esfera de vigilância da vítima, ainda que por breve espaço de tempo, pois o recorrente foi abordado próximo ao local dos fatos, ainda com o bem subtraído em sua posse -, e, por consectário, a consumação do crime de roubo. Portanto, para infirmar tal conclusão seria necessário revolver o contexto fático-probatório dos autos, o que não é admitido em sede de recurso especial, por incidência da Súmula 7/STJ.
+No que se refere à violação do art. 65 do CP, verifica-se que a jurisprudência desta Corte pacificou orientação no sentido de que o reconhecimento da atenuante não implica a redução da pena aquém do mínimo legal, nos termos da Súmula 231/STJ.
+A orientação tem sido adotada em precedentes atuais desta Corte.
+No ponto:
+" ..  2. O Tribunal a quo não se manifestou sobre a aplicação da atenuante da confissão, assim, a sua análise, diretamente por esta Corte, acarreta indevida supressão de instância. Além disso, a pena-base foi fixada no mínimo legal, dessa forma, ainda que fosse reconhecida a atenuante, não seria cabível a redução da sanção do paciente, nos termos do enunciado n. 231 da Súmula desta Corte.
+ ..  6. Agravo regimental desprovido."
+(AgRg no HC 541. 251/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 20/2/2020, DJe 5/3/2020).
+" ..  2. De qualquer forma, nos termos da Súmula n. 231, o reconhecimento de atenuante não pode conduzir a reprimenda a patamar inferior ao mínimo legal.
+ ..  6. Agravo regimental não provido."
+(AgRg no AREsp 1.211.883/GO, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 26/11/2019, DJe 2/12/2019).
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "b", do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
