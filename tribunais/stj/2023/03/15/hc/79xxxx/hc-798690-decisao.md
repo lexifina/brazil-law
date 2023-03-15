@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de Alexandre Marcolino Gomes, em que se aponta como autoridade coatora o Tribunal de Justiça de Santa Catarina, que denegou a ordem do HC n. 072277-17.2022.8.24.0000/SC.
+Conforme consta dos autos, o paciente, preso em flagrante pela suposta prática do delito de tráfico de drogas, teve a prisão convertida em preventiva (Autos n. 5017284-90.2022.8.24.0075/SC - fls. 65/69).
+Aqui, a defesa alega ausência de fundamentação válida na decretação e manutenção da prisão preventiva.
+Afirma que o simples fato de responder outro processo criminal por tráfico de drogas, por si só não pode levar a presunção de necessidade de prisão, deve-se avaliar minuciosamente os detalhes do crime. No caso em tela, como exposto no próprio acórdão, a quantidade de drogas é ínfima, bem como as circunstâncias da prisão são normais à espécie, podendo, portanto, ser revogada a prisão preventiva (fl. 8).
+Requer, ao final, a concessão de liberdade provisória ao paciente.
+Liminar indeferida (fls. 213/215).
+Informações prestadas (fls. 219/245), o Ministério Público Federal ofereceu parecer pela concessão da ordem, com imposição de medidas cautelares (fls. 249/254).
+É o relatório.
+Estou de acordo com o parecer oferecido pela Subprocuradora-Geral da República Luiza Cristina Fonseca Frischeisen, cujos fundamentos a seguir transcritos adoto como razão de decidir (fls. 252/254 - grifo nosso):
+ ..
+A decisão que converteu o flagrante em prisão preventiva do ora paciente foi assim fundamentada (fls. 65/67):
+"Observa-se que o conduzido, no momento da prisão, encontrava-se em flagrância, de modo que a materialidade está demonstrada no boletim de ocorrência e fotografias que o instruem, no auto de exibição e apreensão e no laudo preliminar de constatação de drogas identificando a substância apreendida (em princípio, como crack, quantidade de 4,10 gramas).
+De outro norte, há indícios suficientes de autoria que recaem sobre o conduzido, consistentes, mormente, nos depoimentos coerentes e harmônicos prestados perante a Autoridade Policial pelos policiais militares responsáveis pela prisão.
+Com efeito, narraram os agentes públicos que realizavam patrulhamento pela Rua Tenente João Luiz Maus, nas proximidades do chamado "Bar Matrix", local já conhecido das guarnições pela intensa movimentação relacionada ao tráfico de drogas, oportunidade em que visualizaram alguns masculinos exatamente no ponto onde costuma acontecer o tráfico, os quais, ao perceberem a aproximação da guarnição, passaram a empreender fuga do local.
+Segundo narrado pelos policiais, foi possível observar que o conduzido, durante a fuga, dispensou um objeto, de modo que, lograram realizar sua abordagem e revista pessoal, nada de ilícito foi localizado consigo.
+Todavia, ao retornarem ao local exato em que observaram o conduzido dispensar um objeto, os policiais militares encontraram cerca de R$ 215,00 em dinheiro, além de uma porção de substância semelhante a crack, totalizando aproximadamente 4,10 gramas.
+Vale ressaltar, ademais, que na ocasião de suas declarações perante a Autoridade Policial, o militar Hugo Doerner Steiner destacou que durante a abordagem do conduzido, colocaram o celular dele próximo a ele no chão e pela tela bloqueada conseguiram observar que ele recebia algumas mensagens relativas a algum acerto ou negociação que ele estaria fazendo, provavelmente relacionado ao tráfico de drogas. (evento 1, VÍDE04)
+Conforme se percebe, pelo contexto da prisão, considerando o grau de cognição sumária inerente a esta fase da persecução criminal, é possível atribuir a autoria ao conduzido, já que foi flagrado pela guarnição policial, em local de intensa movimentação do tráfico de drogas, no momento em que dispensava objeto posteriormente localizado pelos policiais e identificado como sendo uma porção de substância semelhante a crack, totalizando cerca de 4,10 gramas, além de R$ 215,00 em dinheiro, tudo a indicar a prática do comércio espúrio de entorpecentes.
+ ..
+De outro norte, o risco de reiteração é patente, porquanto, ainda que não registre condenação criminal pretérita, o conduzido possui processo em andamento neste Juízo criminal (Autos n. 5007919-12.2022.8.24.0075), também pela prática do delito de tráfico ilícito de entorpecentes, crime ocorrido no mês de junho do ano corrente, na mesma localidade do chamado "Bar Matrix" e envolvendo a comercialização da mesma substância entorpecente, qual seja, crack.
+No aludido feito, o conduzido foi posto em liberdade por força de decisão proferida em sede de Habeas Corpus n. 766613/SC, no dia 2/9/2022 (Processo n. 5007919-12.2022.8.24.0075/SC, evento 48, DESPADEC1)."
+O Tribunal de origem, por sua vez, denegou a ordem pleiteada no writ originário, mantendo a segregação com base nos fundamentos apresentados pelo Juízo de primeiro grau.
+De acordo com o art. 312 do CPP, com redação dada pela Lei n. 13.964/2019:
+"A prisão preventiva poderá ser decretada como garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, quando houver prova da existência do crime e indício suficiente de autoria e de perigo gerado pelo estado de liberdade do imputado.
+§ 1º A prisão preventiva também poderá ser decretada em caso de descumprimento de qualquer das obrigações impostas por força de outras medidas cautelares (art. 282, § 4º).
+§ 2º A decisão que decretar a prisão preventiva deve ser motivada e fundamentada em receio de perigo e existência concreta de fatos novos ou contemporâneos que justifiquem a aplicação da medida adotada."
+Considerando as circunstâncias do crime, a quantidade de droga apreendida 21 (vinte e uma) "pedras" de crack com peso aproximado de 4,10 g, in casu, outras medidas cautelares previstas no art. 319 do CPP são suficientes ao fim colimado - proteção do bem jurídico sob ameaça - de forma menos gravosa ao paciente.
+Por outro lado, até se poderia questionar o fato de o paciente possuir registro de delito idêntico em trâmite, uma vez que este foi um dos motivos da prisão processual, todavia, essa Corte Superior já sedimentou o entendimento de que até mesmo a reincidência, por si só, não é justificativa válida para embasar a segregação cautelar, que deve ser avaliada de acordo com o caso concreto.
+Nesse sentido:
+PROCESSO PENAL. HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. REITERAÇÃO DELITIVA. MEDIDAS CAUTELARES DIVERSAS. POSSIBILIDADE.
+ ..
+2. Na espécie, realizada a prisão em flagrante, a prisão preventiva foi decretada em razão da reincidência específica do paciente.
+3. Entretanto, apesar da reiteração delitiva específica do réu, não foi apreendida quantidade de droga indicativa, por si só, da periculosidade do agente, a ponto de justificar o encarceramento preventivo.
+4. Assim, as particularidades do caso demonstram a suficiência, adequação e proporcionalidade da imposição das medidas menos severas previstas no art. 319, em atenção ao preceito de progressividade das cautelas disposto no art. 282, §§ 4º e 6º,todos do Código de Processo Penal, em razão da quantidade não expressiva de drogas apreendidas - "61 (sessenta e uma)porções de cocaína em pó, 18 (dezoito) porções de cocaína na forma de "crack" e 26 (vinte e seis) frascos de lança-perfume", aliada ao fato de o delito não ter sido cometido mediante emprego de violência ou grave ameaça
+.5. Ordem concedida para substituir a prisão preventiva por medidas cautelares diversas a serem fixadas pelo Juiz singular.(HC n. 693.730/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 14/12/2021, DJe 17/12/2021)
+Portanto, a ordem deve ser concedida de ofício para que o paciente seja posto em liberdade, caso não esteja preso por razões diversas, sem prejuízo da imposição de outras medidas cautelares diversas da prisão, especialmente o monitoramento eletrônico.
+ ..
+De fato, a despeito dos fundamentos apresentados pelas instâncias ordinárias, in casu, medidas cautelares mostram-se adequadas e proporcionais, visto que o paciente, não obstante esteja respondendo a outro processo, é, a princípio, primário, o crime foi cometido sem violência e a quantidade de droga apreendida é pequena - 4,10 g crack -, além de não haver indicativos relevantes de que o réu integre organização criminosa.
+Ante o exposto, acolhendo o parecer ministerial, concedo a ordem para substituir a prisão por outras medidas cautelares previstas no art. 319 do Código de Processo Penal a serem definidas pelo Juízo de primeiro grau, a quem incumbirá a fiscalização e também a possível decretação de nova prisão, em caso de descumprimento de qualquer uma das obri gações impostas ou por superveniência de motivos novos e concretos para tanto, nos termos do art. 312 do Código de Processo Penal.
+Comunique-se.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. CRIME SEM VIOLÊNCIA. QUANTIDADE POUCO EXPRESSIVA DE DROGAS (4,10 G DE CRACK). RÉU PRIMÁRIO. MEDIDAS CAUTELARES MENOS GRAVOSAS. ADEQUAÇÃO E SUFICIÊNCIA. PRECEDENTES. PARECER ACOLHIDO.
+Ordem concedida nos termos do dispositivo.
