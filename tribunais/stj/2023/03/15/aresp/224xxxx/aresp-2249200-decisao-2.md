@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto por IGOR FERNANDES PEREIRA em adversidade à decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça do Estado de São Paulo, cuja ementa é a seguinte (e-STJ fl. 183):
+RECURSO EM SENTIDO ESTRITO - CRIMES CONTRA A HONRA - REJEIÇÃO DA QUEIXA-CRIME - PRETENDIDO O RECEBIMENTO DA INICIAL ACUSATÓRIA - PARCIAL ACOLHIMENTO - IMUNIDADE CONFERIDA AO ADVOGADO NÃO É ABSOLUTA - OFENSAS PROFERIDAS EXTRAPOLARAM, EM PRINCÍPIO E EM TESE, OS LIMITES ACEITÁVEIS PARA O DEBATE DA CAUSA - JUSTA CAUSA PRESENTE EM RELAÇÃO AOS DELITOS DE INJÚRIA E DIFAMAÇÃO - MANTIDA A REJEIÇÃO QUANTO AO DELITO DE CALÚNIA- RECURSO PARCIALMENTE PROVIDO.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 329/334).
+Nas razões do recurso especial (e-STJ fls. 340/346), fundado na alínea "a" do permissivo constitucional, alega a defesa violação dos arts. 138 e 141, inciso III, ambos do Código Penal e 396 do Código de Processo Penal, ao argumento de que a conduta do recorrido em processo judicial, acusando falsamente o recorrente, teria configurado o crime de calúnia, razão pela qual deve a queixa-crime ser recebida também quanto a esse delito.
+Apresentadas contrarrazões (e-STJ fls. 365/375), o Tribunal a quo não admitiu o recurso especial (e-STJ fls. 415/416), ensejando a interposição do presente agravo. O Ministério Público Federal manifestou-se pelo não conhecimento do recurso (e-STJ fls. 592/598).
+É o relatório. Decido.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo.
+O recurso não merece acolhida.
+No caso, a Corte de origem, analisando os elementos contidos nos autos, em especial o dolo do querelado, manteve a rejeição da queixa-crime quanto ao delito de calúnia, conforme trecho abaixo (e-STJ fls. 199/202):
+O mesmo não ocorre, contudo, em relação ao crime de calúnia, porquanto não há, nas declarações do querelado referidas na inicial, a imputação de fato determinado, como é exigido para a caracterização do crime previsto no art.138 do Código Penal.
+Ao afirmar que o contrato de locação somente poderia ser obra do querelante, não fica claro se o querelado está novamente questionando a competência profissional do recorrente ou se, de fato, como interpretou o querelante, imputando a ele a falsificação de referido documento.
+É certo que, nas contrarrazões, o querelado buscou explicar o sentido de suas alegações com relação ao contrato de aluguel mencionado, nos seguintes termos:
+"O recorrente sentiu-se ofendido quando o recorrido viu um contrato de locação acostado aos autos da ação de imissão de posse promovida por Joildo Santana e disse: "Este contrato de locação só pode ser obra e arte do bacharel em causa, dado o seu notável conhecimento jurídico". Aqui cabe um esclarecimento a esta E. Corte de Justiça: "o Sr. Antonio, pai do Charly, locatário no contrato ut referido, certo dia procurou pessoalmente o recorrido, em sua residência e disse-lhe o seguinte: "Sou seu novo vizinho, comprei 50.000m2 de terreno da Glaucia por R$ 800.000,00; dei R$ 200.000,00 de entrada e parcelei o resto".
+Ora, é evidente que o contrato de locação juntado aos autos é uma simulação porca, para enganar o Juízo e ludibriar a parte, pretendendo provar que não vendeu aquele imóvel, e sim o locou. Jamais um empresário de transporte e usina de asfalto faria um contrato desta natureza, se não fosse orientado por quem confia.
+O requerido não disse que o contrato é falso, muito pelo contrário, o contrato é plenamente válido entre as partes, já que a ninguém é lícito valer-se de sua própria torpeza. Aliás, o recorrido já disse exatamente isto ao Sr. Antonio, pois se perder a ação, evidentemente, vai perder uma obra gigantesca que de boa fé está construindo.
+Muito embora o contrato retrate uma outra situação entre os contratantes, ele é válido, nada de falso existe. Existe sim, uma orientação de alguém errada, que vai conduzir Antonio e Charly a um enorme prejuízo, nada mais." (fls.116/117)
+Mas, ao contrário do que sustenta o recorrente, nem mesmo tais afirmações são suficientes para a caracterização do delito, pois o querelado nega que o documento seja falso, questionando sua aderência à realidade, e não fica claro se imputa ao querelante verdadeira falsidade ideológica ou incúria profissional.
+No mais, a sugestão de que o querelante pode vir a praticar denunciação caluniosa, contida na petição de fls.79/84, também não configura o crime de calúnia, pois se refere a fato futuro, incerto e indeterminado, razão pela qual fica mantida a rejeição da queixa-crime no tocante ao delito do art. 138 do Código Penal.
+Nesse contexto, rever tais fundamentos, para concluir pela ocorrência da intenção de caluniar, a fim de determinar o processamento da queixa-crime, como requer a parte recorrente, importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula 7/STJ.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CALÚNIA. DIFAMAÇÃO. REJEIÇÃO DA QUEIXA-CRIME PELO TRIBUNAL A QUO. AUSÊNCIA DE DOLO ESPECÍFICO. JUSTA CAUSA NÃO EVIDENCIADA. DECISÃO FUNDAMENTADA. SÚMULA 7/STJ. OMISSÃO. INEXISTÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+2. O acórdão recorrido afastou, de forma fundamentada e a partir da análise das provas apresentadas, a existência de dolo específico na conduta dos querelados, indispensável para a deflagração de ação penal por crimes contra a honra. A revisão desse entendimento, como proposto, é providência sabidamente inviável na via eleita, ante a indisfarçável necessidade de reexame de matéria de fato e provas, vedado pela Súmula 7/STJ.
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 627.242/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/6/2016, DJe de 10/6/2016)
+RECURSO ESPECIAL. PENAL. CALÚNIA E DIFAMAÇÃO. DOLO ESPECÍFICO. AFERIÇÃO. INVIABILIDADE. SÚMULA 7/STJ. JORNALISTA. ATUAÇÃO. LIMITES PROFISSIONAIS. GARANTIAS CONSTITUCIONAIS DE LIBERDADE DE EXPRESSÃO E IMPRENSA. FUNDAMENTO AUTÔNOMO. AUSÊNCIA DE RECURSO EXTRAORDINÁRIO. SÚMULA 126/STJ.
+1. Para constatar a presença do dolo específico, ou seja, para verificar se houve a intenção de caluniar ou difamar, seria necessário o reexame do conjunto fático-probatório - e não apenas a leitura do conteúdo da queixa-crime -, providência descabida em recurso especial, por força da Súmula 7/STJ.
+ ..
+3. Recurso especial não conhecido.
+(REsp n. 1.374.537/DF, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 13/8/2013, DJe de 23/8/2013)
+Ante o exposto, com fundamento no art. 932, III, do CPC, c/c art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
