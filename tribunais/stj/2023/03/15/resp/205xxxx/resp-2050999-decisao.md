@@ -1,0 +1,31 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO interpõe recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça local no Agravo em Execução n. 0007302-36.2022.8.26.0996.
+Nas razões recursais, o Parquet estadual aponta violação do art. 112 da Lei de Execuções Penais, ao argumento de que o acusado não comprovou o preenchimento do requisito subjetivo à progressão de regime, "especialmente à vista dos gravíssimos crimes pelos quais se viu condenado (quatro roubos majorados)" (fl. 73).
+Requer, assim, seja cassada a progressão e submetido o réu a exame criminológico.
+Apresentadas as contrarrazões e admitido o recurso, o Ministério Público Federal manifestou-se pelo seu provimento (fls. 100-105).
+Decido.
+Observo que o especial suplanta o juízo de prelibação, haja vista a ocorrência do necessário prequestionamento, além de estarem presentes os demais pressupostos de admissibilidade (cabimento, legitimidade, interesse, inexistência de fato impeditivo, tempestividade e regularidade formal), motivos pelos quais avanço na análise de mérito da controvérsia.
+O Tribunal de origem, ao negar provimento ao agravo em execução ministerial, consignou o seguinte (fls. 49-50, grifei):
+O Agravado, reincidente, foi condenado às penas de 28 anos e 03 dias de reclusão, pela prática de crimes de roubos (fls. 05/09).
+Iniciou o cumprimento de sua pena aos 20.12.2015, estando o término previsto para 05.03.2044 (fls. 13).
+Ao que consta dos autos, o Agravado obteve atestado de "BOM" comportamento carcerário (fls. 12), sendo que, durante o período em que esteve preso, praticou apenas uma falta disciplinar de natureza grave, consistente em tentativa de burlar a vigilância, fato ocorrido aos 06.02.2018(fls. 15).
+Após tal fato, o Agravado obteve a remição de 15 dias de sua pena pelo trabalho (fls. 15).
+Registro que a condenação por crimes de roubo, além de longa pena por cumprir, como no caso, por si, não são fatores determinantes de persistência de perigosidade incomum, não se constituindo, o deferimento do pedido de progressão de regime, violação ao princípio da individualização da pena, como previsto no art. 5º, XLVI, da Constituição Federal.
+Quisesse o legislador impor que a gravidade do crime, por si, seria fundamento para submissão do condenado a realização de exame criminológico o teria feito expressamente, o que em momento algum ocorreu.
+Riscos na concessão de benefícios na execução sempre existem, mas não podem impedir progressão de regime quando os elementos que se dispõem são favoráveis ao condenado.
+Diante desse quadro, sem sentido o retorno do Agravado ao regime fechado, uma vez que provas foram produzidas no sentido do preenchimento dos requisitos exigidos para a concessão.
+Com efeito, a preocupação em torno da readaptação do indivíduo censurado circunda, antes mesmo da execução penal, a própria dosimetria da reprimenda imposta, a qual se considera necessária à satisfação de uma concepção preventiva da pena. "Para as teorias relativas a pena se justifica, não para retribuir o fato delitivo cometido, mas, sim, para prevenir a sua prática.  ..  a pena deixa de ser concebida como um fim em si mesmo,  ..  e passa a ser concebida como meio para o alcance de fins futuros e a estar justificada pela sua necessidade: a prevenção de delitos" (BITTENCOURT, Cezar Roberto. Tratado de direito penal: parte geral. 17. ed. rev., ampl. e atual. São Paulo: Saraiva, 2012, p. 141).
+A esse respeito, destaco que a gravidade em abstrato dos delitos pelos quais foi condenado o reeducando, bem como a longa pena a cumprir, sem maiores detalhamentos, não justificam a negativa da benesse ou a produção de prova pericial, uma vez que não refletem a avaliação do efetivo cumprimento da pena pelo condenado.
+Confira-se:
+ ..
+3. A gravidade dos delitos pelos quais o paciente foi condenado (roubo), bem como a longa pena a cumprir não são fundamentos idôneos para indeferir os benefícios da execução penal. Precedentes.
+4. Esta Corte Superior tem se manifestado no sentido de que faltas graves antigas e já reabilitadas não configuram fundamento idôneo para indeferir o pedido de progressão de regime. Por aplicação da mesma ratio decidendi, também não devem ser consideradas como motivo bastante para o indeferimento do livramento condicional.
+5. Por fim, a jurisprudência deste Superior Tribunal de Justiça consolidou entendimento no sentido de que não há obrigatoriedade de o(a) apenado(a) passar por regime intermediário para que obtenha o benefício do livramento condicional, ante a inexistência de previsão no art. 83 do Código Penal.
+6. Habeas corpus não conhecido. Ordem concedida, de ofício, para determinar que o Juízo das Execuções novamente analise o pedido de livramento condicional, afastada a fundamentação anteriormente adotada.
+(HC n. 508.784/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 22/8/2019, destaquei).
+Urge consignar que "para a concessão do livramento condicional o magistrado deve avaliar o efetivo cumprimento do requisito subjetivo, não estando adstrito ao atestado de bom comportamento carcerário, sob pena de se tornar mero homologador da manifestação do diretor do estabelecimento prisional. Precedentes desta Corte" (AgRg no HC n. 506.776/MS, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 10/9/2019).
+Assim, "apesar de a falta grave não interromper o prazo para a obtenção de livramento condicional - Súmula 441/STJ -, as faltas disciplinares praticadas no decorrer da execução penal justificam o indeferimento do benefício, pelo inadimplemento do requisito subjetivo" (AgRg no REsp n. 1.720.759/MS, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 12/6/2018).
+Todavia, na hipótese dos autos, verifico que, à época da análise do pedido, a única infração disciplinar cometida já distava mais de 4 anos de seu cometimento, de modo que não macula, per si, o preenchimento do requisito de ordem subjetiva.
+Logo, a Corte de origem decidiu a controvérsia em consonância com a jurisprudência consolidada deste Superior Tribunal de Justiça.
+À vista do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 34, XVIII, "b", parte final, d o RISTJ, nego provimento ao recurso especial.
+Publique-se e intimem-se.
