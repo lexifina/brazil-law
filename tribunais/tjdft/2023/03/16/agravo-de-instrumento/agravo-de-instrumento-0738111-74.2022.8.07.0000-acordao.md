@@ -1,0 +1,132 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+4ª Turma Cível
+Processo N.AGRAVO DE INSTRUMENTO 0738111-74.2022.8.07.0000AGRAVANTE(S)MARIA DAS GRACAS LOPES SILVA e MARCONI MEDEIROS MARQUES DE OLIVEIRAAGRAVADO(S)DISTRITO FEDERALRelatorDesembargador ARNOLDO CAMANHO Acórdão Nº1678703
+
+EMENTA
+
+ AGRAVO DE INSTRUMENTO. CONSTITUCIONAL E PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA CONDENATÓRIA DA FAZENDA PÚBLICA. EXPEDIÇÃO DA REQUISIÇÃO DE PAGAMENTO. VALOR INCONTROVERSO. POSSIBILIDADE. APLICAÇÃO DA TR COMO FATOR DE CORREÇÃO MONETÁRIA. ACÓRDÃO EXEQUENDO TRANSITADO EM JULGADO APÓS DECISÃO DO STF NO RE Nº 870.947. INEFICÁCIA DO TÍTULO JUDICIAL QUANTO A ESSE ASPECTO. ART. 535, § 5º, DO CPC. SUBSTITUIÇÃO PELO IPCA-E.
+
+1. O excelso Supremo Tribunal Federal, por ocasião do julgamento do RE nº 1.205.530, assentou a tese de que “surge constitucional expedição de precatório ou requisição de pequeno valor para pagamento da parte incontroversa e autônoma do pronunciamento judicial transitada em julgado observada a importância total executada para efeitos de dimensionamento como obrigação de pequeno valor”. No mesmo sentido foi a decisão da ADI nº 5.534.
+
+2. No acórdão que julgou o RE nº 870.947/SE, o excelso STF consignou que “o art. 1º-F da Lei nº 9.494/97, com a redação dada pela Lei nº 11.960/09, na parte em que disciplina a atualização monetária das condenações impostas à Fazenda Pública segundo a remuneração oficial da caderneta de poupança, revela-se inconstitucional ao impor restrição desproporcional ao direito de propriedade (CRFB, art. 5º, XXII), uma vez que não se qualifica como medida adequada a capturar a variação de preços da economia, sendo inidônea a promover os fins a que se destina”.
+
+3. A decisão declaratória de inconstitucionalidade de lei ou ato normativo proferida pelo excelso STF produz efeitos a partir da publicação do acórdão. Nos termos do art. 27, da Lei nº 9868/99, tal eficácia só pode ser restringida, ou postergada para a data do trânsito em julgado do acórdão ou outro momento posterior à publicação, por decisão de 2/3 (dois terços) dos membros da Corte Constitucional, o que não ocorreu em relação ao acórdão proferido no RE nº 870.947.
+
+4. O acórdão objeto de execução nos autos de origem transitou em julgado após a publicação do acórdão do STF, proferido no RE 870.947, que reconheceu a inconstitucionalidade da TR como fator de correção monetária, com repercussão geral reconhecida, e determinou a aplicação do IPCA-E em substituição. Assim, o acórdão exequendo, no tocante ao ponto em que estabeleceu a TR como fator de correção monetária dos créditos titularizados pelo agravado em face da Fazenda Pública, aplicou preceito legal que já havia sido considerado inconstitucional pelo excelso Pretório, em decisão com eficácia erga omnes, de modo que, em virtude do disposto no § 5º do art. 535 do CPC, há que se reconhecer a ineficácia do título executivo quanto ao fator de correção monetária estabelecido.
+
+5. Ademais, e tendo em vista que a incidência da correção monetária é obrigatória em qualquer condenação, cabível a fixação, de ofício, do índice do IPCA-E.
+
+6. Agravo de instrumento provido.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 4ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, ARNOLDO CAMANHO - Relator, JAMES EDUARDO OLIVEIRA - 1º Vogal e MARIO-ZAM BELMIRO - 2º Vogal, sob a Presidência do Senhor Desembargador ARNOLDO CAMANHO, em proferir a seguinte decisão: DAR PROVIMENTO AO RECURSO. UNÂNIME, de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 24 de Março de 2023
+
+Desembargador ARNOLDO CAMANHOPresidente e Relator
+
+RELATÓRIO
+
+O Senhor Desembargador ARNOLDO CAMANHO DE ASSIS - Relator
+
+O relatório é, em parte, o da decisão de ID nº 41241362, in verbis:
+
+“Trata-se de agravo de instrumento interposto contra decisão do Juízo de Direito da 6ª Vara da Fazenda Pública do Distrito Federal, que, em sede de cumprimento individual de sentença coletiva, acolheu a impugnação apresentada pelo devedor e reconheceu excesso de cálculo, homologando os cálculos com incidência da correção monetária pela TR, em substituição ao IPCA-E. Ainda, complementada em sede de embargos de declaração, a decisão indeferiu a expedição imediata da requisição de pequeno valor - RPV referente ao valor incontroverso.
+
+Os agravantes defendem ser cabível o prosseguimento do cumprimento de sentença, quanto à parcela confessada como devida pelo agravado, nos termos do art. 535, § 4º, do CPC, ressaltando que a discussão sobre suposto excesso de execução se limita ao índice de correção monetária aplicável. Aduz que a matéria foi pacificada com o julgamento do RE nº 1.205.530 - Tema nº 28 dos recursos extraordinários com repercussão geral reconhecida. Impugnam a adoção da TR para a correção do valor devido, salientando ser equivocada a aplicação do Tema nº 733 da repercussão geral para afastar a incidência do que restou decidido no RE 870.947 e na ADI 5.348. Argumentam que não há impedimento para a correção de erros de cálculos decorrentes da inobservância de preceitos de ordem pública, como são aqueles relativos às regras de correção monetária, até porque se trata de consectário lógico da condenação e, portanto, considerado pedido implícito. Aduzem não haver preclusão, visto que as correções vigentes à época da execução do título serão aplicáveis. Defendem que o STJ firmou entendimento acerca da aplicação imediata, em todos os processos, da lei nova que altera o regime da correção monetária, abarcando, inclusive, os que já tiveram trânsito em julgado. Afirmam que o STF afastou expressamente a coisa julgada e determinou a aplicação do que restou decidido no Tema nº 810 da repercussão geral, bem como que o Juízo de origem não observou a eficácia vinculante das decisões sobre controle de constitucionalidade tomadas pelo STF. Pugnam pela concessão de ‘efeito suspensivo ativo’, para que seja determinada a remessa do feito à contadoria para fins de aplicação, a partir de 30/06/2009, do IPCA-E como índice de correção monetária em substituição da TR, bem como para determinar o prosseguimento do cumprimento de sentença, com a expedição da ordem de pagamento, confirmando-se ao final”.
+
+A antecipação da tutela foi deferida em parte pela citada decisão, determinando-se a expedição da requisição de pequeno valor, limitada ao valor incontroverso. Não foi interposto recurso contra tal decisão.
+
+Contrarrazões pelo não provimento do recurso (ID nº 41664755).
+
+É o relatório.
+
+VOTOS
+
+O Senhor Desembargador ARNOLDO CAMANHO - RelatorCom relação à expedição da requisição de pagamento, impõe-se ratificar, em parte, os argumentos expendidos por ocasião do deferimento da liminar, ressaltando que este Tribunal vem decidindo no mesmo sentido. Confira-se:
+
+“AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. FAZENDA PÚBLICA. EXPEDIÇÃO DE PRECATÓRIO. CONDENAÇÃO PRINCIPAL. VALORES INCONTROVERSOS E AUTÔNOMOS. POSSIBILIDADE.  1. É possível a expedição de precatório para pagamento da condenação principal incontroversa e autônoma do pronunciamento judicial transitado em julgado (STF RE 1205530/SP - Tema 28). 2. Negou-se provimento ao recurso” (Acórdão 1435848, 07031259420228070000, Relator: SÉRGIO ROCHA, 4ª Turma Cível, data de julgamento: 30/06/2022, publicado no PJe: 15/07/2022. Pág.: Sem Página Cadastrada).
+
+“CONSTITUCIONAL E PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. AÇÃO DE CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA CONTRA A FAZENDA PÚBLICA. PARCELA INCONTROVERSA. POSSIBILIDADE DE PROSSEGUIMENTO DO PROCESSO. EXPEDIÇÃO DE REQUISIÇÕES DE PAGAMENTO. TEMA 28 DO STF. ART. 535, §4º DO CPC. PRINCÍPIOS DA CELERIDADE E DA RAZOÁVEL DURAÇÃO DO PROCESSO. EMBARGOS DE DECLARAÇÃO. MULTA AFASTADA. AUSÊNCIA DE CARÁTER PROTELATÓRIO. OMISSÃO VERIFICADA. INTERESSE DO EXEQUENTE NO DESLINDE DA DEMANDA. 1. Em consonância com os princípios do acesso à justiça e da razoável duração do processo, é possível a tramitação do feito em relação à parte incontroversa, nos termos do art. 535, §4º do Código de Processo Civil e do Tema 28 do Supremo Tribunal Federal. 2. O entendimento do Supremo Tribunal Federal, no Tema n. 28, firmou-se pela ausência de violação ao artigo 100, §§ 1º e 4º (atual §8º, conforme alterações introduzidas pela EC 62/2009) da Constituição da República, na hipótese de fracionamento da execução quanto às partes controversa e incontroversa, a fim de viabilizar o imediato prosseguimento da execução quanto à parte incontroversa, sobre a qual recai o trânsito em julgado.  3. A fim de se resguardar o disposto no § 8º do artigo 100 da Constituição da República, deve ser observado o valor total da execução (inclusive quanto à parte controvertida) para fins de determinação do regime de pagamento a ser adotado, se por precatório ou por requisição de pequeno valor, conforme estabelecido no artigo 4º, §4º, I, da Resolução 303 do Conselho Nacional de Justiça.  4. (...)  5. Agravo de Instrumento conhecido e provido” (Acórdão 1638785, 07263192620228070000, Relator: CARMEN BITTENCOURT, 1ª Turma Cível, data de julgamento: 09/11/2022, publicado no DJE: 29/11/2022. Pág.: Sem Página Cadastrada).
+
+“RECLAMAÇÃO CÍVEL. CONSTITUCIONAL E PROCESSUAL CÍVIL. AUTORIDADE DA DECISÃO. CUMPRIMENTO DE SENTENÇA COLETIVA. EXPEDIÇÃO DE ORDEM DE PAGAMENTO. TRÂNSITO EM JULGADO DA SENTENÇA CONSTITUTIVA. DESNECESSIDADE DE PRECLUSÃO DA DECISÃO QUE APRECIOU A IMPUGNAÇÃO. SUSPENSÃO INDEVIDA DO CURSO DO CUMPRIMENTO DA SENTENÇA. ACOLHIMENTO PARCIAL. 1. A questão submetida ao conhecimento deste Egrégio Tribunal de Justiça consiste em examinar se houve descumprimento de ordem judicial pelo Juízo singular ao determinar a suspensão do curso de cumprimento de sentença. 2. A propositura da presente reclamação está prevista na hipótese de garantia da autoridade das decisões deste Egrégio Tribunal de Justiça, nos termos do art. 988, inc. II, do CPC. 2.1. A Egrégia Segunda Turma Cível deu provimento ao agravo de instrumento e determinou a aplicação do IPCA-E como indexador da correção monetária em relação ao crédito a ser satisfeito pelo reclamante, além da remessa dos autos do processo à contadoria judicial para a elaboração do respectivo cálculo. 2.2. O Juízo singular, após o julgamento do agravo referido, determinou a suspensão do curso do processo de origem até o trânsito em julgado do aludido acórdão. 3. A expedição do precatório ou da requisição de pequeno valor pressupõe o trânsito em julgado da respectiva sentença condenatória. 3.1. Em caso de controvérsia a respeito da quantificação do crédito, não há óbice à expedição imediata do precatório ou requisitório referente ao valor incontroverso, de acordo com o art. 4º, § 3º, da Resolução no 303/2019 do Conselho Nacional de Justiça. 3.2. O trânsito em julgado aludido no art. 100, §§ 3º e 5º, da Constituição Federal, no caso em exame, diz respeito à obrigação constituída por meio da sentença que decidiu a ação coletiva e não pode ser confundida com a preclusão das decisões proferidas no próprio incidente de cumprimento de sentença coletiva, ainda que decorrentes do método da ‘relativização da coisa julgada’. 4. A suspensão do curso do processo pelo Juízo singular, ora reclamado, desrespeitou a ordem judicial emanada do julgamento do mencionado agravo de instrumento. 4.1. O Juízo singular, a despeito de presidir o processo de origem, não tem competência jurisdicional para atribuir efeito suspensivo às decisões proferidas pelo Tribunal, como é evidente. 5. Reclamação admitida e parcialmente acolhida” (Acórdão 1634446, 07096811520228070000, Relator: ALVARO CIARLINI,  2ª Turma Cível, data de julgamento: 26/10/2022, publicado no DJE: 28/11/2022. Pág.:  Sem Página Cadastrada).
+
+Não obstante, melhor analisando a questão, cabe esclarecer que a requisição de pagamento deverá ser expedida na modalidade de precatório. Na ocasião, considerou-se o seguinte:
+
+“Note-se que tanto o valor indicado pelo agravante, na petição de cumprimento de sentença, quanto aquele afirmado como incontroverso pelo agravado, em sua impugnação, são inferiores a vinte (20) salários-mínimos (IDs nºs 132056266 e 133636061 dos autos de origem nº 0712264-16.2022.8.07.0018). Logo, em princípio, mesmo na hipótese de provimento do presente agravo de instrumento quanto à parcela controvertida, o regime de pagamento não será o de precatório, mas o de RPV, a teor da Lei Distrital nº 6.618/20” (ID nº 41241362).
+
+Ocorre que este Tribunal vem entendendo pela inconstitucionalidade da Lei Distrital nº 6.618/20, por vício de iniciativa. Confira-se:
+
+“AGRAVO DE INSTRUMENTO. PROCESSO CIVIL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. CORREÇÃO MONETÁRIA. ÍNDICE. REPERCUSSÃO GERAL. INCONSTITUCIONALIDADE DA TAXA REFERENCIAL. APLICAÇÃO DO IPCA-E. COISA JULGADA. SEGURANÇA JURÍDICA. OBSERVÂNCIA. EXPEDIÇÃO DE REQUISIÇÃO DE PEQUENO VALOR. TETO. VINTE SALÁRIOS MÍNIMOS. LEI N° 6.618/2020. INCONSTITUCIONALIDADE INCIDENTAL. VÍCIO DE INICIATIVA. DECISÃO MANTIDA. 1. (..)  4. O aumento do teto das requisições de pequeno valor envolve matéria de orçamento público, cuja iniciativa é privativa do Governador do Distrito Federal, conforme preveem os artigos 71, § 1°, inciso V, e 100, inciso XVI, ambos da Lei Orgânica do Distrito Federal.  5. A Lei Distrital n° 6.618/2020 padece de vício de iniciativa, diante da usurpação de competência do Governador do Distrito Federal, o que constitui vício de inconstitucionalidade formal.  6. Ao analisar a Lei Distrital nº 5.474/2015, o Conselho Especial deste eg. Tribunal de Justiça, nos autos das ADIs n° 2015.00.2.014329-8 e n° 2015.00.2.015077-2, declarou a sua inconstitucionalidade, por vício de iniciativa, ao argumento de que o então diploma normativo implicava aumento de despesa com alteração no orçamento local. 7. A hipótese dos autos enquadra-se na exceção à cláusula de reserva de plenário, estabelecida no parágrafo único do art. 949 do CPC, que prevê que ‘Os órgãos fracionários dos tribunais não submeterão ao plenário ou ao órgão especial a arguição de inconstitucionalidade quando já houver pronunciamento destes ou do plenário do Supremo Tribunal Federal sobre a questão’.  8. Agravo de instrumento conhecido e desprovido” (Acórdão 1435819, 07077602120228070000, Relator: LUCIMEIRE MARIA DA SILVA, 4ª Turma Cível, data de julgamento: 30/06/2022, publicado no DJE: 20/07/2022. Pág.: Sem Página Cadastrada).
+
+Nesse caso, considerando que o valor apontado no pedido de cumprimento de sentença, calculado com incidência do IPCA-E, era de R$ 16.282,99 (dezesseis mil duzentos e oitenta e dois reais e noventa e nove centavos), superior ao limite de dez (10) salários mínimos previsto na Lei Distrital nº 3.624/05, impõe-se esclarecer a necessidade de expedição de precatório, a fim de adequar-se à tese vinculante, no sentido de que seja observada a importância total executada para efeitos de dimensionamento como obrigação de pequeno valor – ressalvada eventual renúncia ao excedente.
+
+Com relação ao índice de correção monetária, de acordo com o disposto no § 5º do art. 535 do CPC, é “inexigível a obrigação reconhecida em título executivo judicial fundado em lei ou ato normativo considerado inconstitucional pelo Supremo Tribunal Federal, ou fundado em aplicação ou interpretação da lei ou do ato normativo tido pelo Supremo Tribunal Federal como incompatível com a Constituição Federal, em controle de constitucionalidade concentrado ou difuso”. Todavia, o § 7º do art. 535 do CPC preceitua que “a decisão do Supremo Tribunal Federal referida no § 5º deve ter sido proferida antes do trânsito em julgado da decisão exequenda”, e, por sua vez, o § 8 do art. 535, do mesmo Código, estabelece que “se a decisão referida no § 5º for proferida após o trânsito em julgado da decisão exequenda, caberá ação rescisória, cujo prazo será contado do trânsito em julgado da decisão proferida pelo Supremo Tribunal Federal”.
+
+A exegese dos preceitos legais mencionados foi objeto de decisão no acórdão proferido no RE nº 730.462, de Relatoria do saudoso Ministro Teori Zavascki, que restou assim ementado, in verbis:
+
+“CONSTITUCIONAL E PROCESSUAL CIVIL.DECLARAÇÃO DE INCONSTITUCIONALIDADE DE PRECEITO NORMATIVO PELO SUPREMO TRIBUNAL FEDERAL. EFICÁCIA NORMATIVA E EFICÁCIA EXECUTIVA DA DECISÃO: DISTINÇÕES. INEXISTÊNCIA DE EFEITOS AUTOMÁTICOS SOBRE AS SENTENÇAS JUDICIAIS ANTERIORMENTE PROFERIDAS EM SENTIDO CONTRÁRIO. INDISPENSABILIDADE DE INTERPOSIÇÃO DE RECURSO OU PROPOSITURA DE AÇÃO RESCISÓRIA PARA SUA REFORMA OU DESFAZIMENTO.
+
+1. A sentença do Supremo Tribunal Federal que afirma a constitucionalidade ou a inconstitucionalidade de preceito normativo gera, no plano do ordenamento jurídico, a consequência (= eficácia normativa) de manter ou excluir a referida norma do sistema de direito.
+
+2. Dessa sentença decorre também o efeito vinculante, consistente em atribuir ao julgado uma qualificada força impositiva e obrigatória em relação a supervenientes atos administrativos ou judiciais (= eficácia executiva ou instrumental), que, para viabilizar-se, tem como instrumento próprio, embora não único, o da reclamação prevista no art. 102, I, ‘l’, da Carta Constitucional.
+
+3. A eficácia executiva, por decorrer da sentença (e não da vigência da norma examinada), tem como termo inicial a data da publicação do acórdão do Supremo no Diário Oficial (art. 28 da Lei 9.868/1999). É, consequentemente, eficácia que atinge atos administrativos e decisões judiciais supervenientes a essa publicação, não os pretéritos, ainda que formados com suporte em norma posteriormente declarada inconstitucional.
+
+4. Afirma-se, portanto, como tese de repercussão geral que a decisão do Supremo Tribunal Federal declarando a constitucionalidade ou a inconstitucionalidade de preceito normativo não produz a automática reforma ou rescisão das sentenças anteriores que tenham adotado entendimento diferente; para que tal ocorra, será indispensável a interposição do recurso próprio ou, se for o caso, a propositura da ação rescisória própria, nos termos do art. 485, V, do CPC, observado o respectivo prazo decadencial (CPC, art. 495). Ressalva-se desse entendimento, quanto à indispensabilidade da ação rescisória, a questão relacionada à execução de efeitos futuros da sentença proferida em caso concreto sobre relações jurídicas de trato continuado.
+
+5. No caso, mais de dois anos se passaram entre o trânsito em julgado da sentença no caso concreto reconhecendo, incidentalmente, a constitucionalidade do artigo 9º da Medida Provisória 2.164-41 (que acrescentou o artigo 29-C na Lei 8.036/90) e a superveniente decisão do STF que, em controle concentrado, declarou a inconstitucionalidade daquele preceito normativo, a significar, portanto, que aquela sentença é insuscetível de rescisão.
+
+6. Recurso extraordinário a que se nega provimento” (RE 730462, Relator(a): TEORI ZAVASCKI, Tribunal Pleno, julgado em 28/05/2015, ACÓRDÃO ELETRÔNICO REPERCUSSÃO GERAL - MÉRITO DJe-177  DIVULG 08-09-2015  PUBLIC 09-09-2015).
+
+Como consignado no acórdão proferido no RE nº 730.462, com repercussão geral reconhecida, cuja ementa foi transcrita acima, a decisão declaratória de inconstitucionalidade de lei ou ato normativo proferida pelo excelso STF produz efeitos a partir da publicação do acórdão. Nos termos do art. 27, da Lei nº 9.868/99, tal eficácia só pode ser restringida, ou postergada para a data do trânsito em julgado do acórdão ou outro momento posterior à publicação, por decisão de dois terços (2/3) dos membros da Corte Constitucional, o que não ocorreu em relação ao acórdão proferido no RE 870.947.
+
+No caso vertente, o acórdão objeto de execução nos autos de origem transitou em julgado em 11/03/2020 (ID nº 132056268 dos autos de origem nº 0712264-16.2022.8.07.0018), após a publicação do acórdão do STF, proferido no RE 870.947, que reconheceu a inconstitucionalidade da TR como fator de correção monetária, com repercussão geral reconhecida, e determinou a aplicação do IPCA-E em substituição, o que ocorreu em 20/11/17. Assim, o acórdão exequendo, no tocante ao ponto em que estabeleceu a TR como fator de correção monetária dos créditos titularizados pelo agravado em face da Fazenda Pública, aplicou preceito legal que já havia sido considerado inconstitucional pelo excelso Pretório, em decisão com eficácia erga omnes, de modo que, em virtude do disposto no § 5º do art. 535 do CPC, há que se reconhecer a ineficácia do título executivo quanto ao fator de correção monetária estabelecido. Ademais, e tendo em vista que a incidência da correção monetária é obrigatória em qualquer condenação, cabível a fixação, de ofício, do índice do IPCA-E.
+
+No mesmo sentido, confiram-se os seguintes arestos deste egrégio Tribunal de Justiça:
+
+“AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. ALTERAÇÃO DO ÍNDICE DE CORREÇÃO MONETÁRIA FIXADO NO TÍTULO EXECUTIVO. SUBSTITUIÇÃO DA TR PELO IPCA-E. TRÂNSITO EM JULGADO ANTERIOR À DECLARAÇÃO DE INCONSTITUCINALIDADE PELO STF NOS AUTOS DO RE N. 870.947/SE (TEMA 810).
+
+1. A controvérsia recursal limita-se a analisar a possibilidade de adoção de índice de correção diverso daquele estabelecido em sentença transitada em julgado, anteriormente à declaração de inconstitucionalidade pelo Supremo Tribunal Federal, no acórdão paradigma, proferido nos autos do RE n. 870.947/SE (Tema 810), cujo termo inicial da eficácia executiva ocorreu em 20.11.2017, data da publicação do acórdão.
+
+2. Convém ressaltar que a questão concernente ao índice de correção monetária e juros de mora, na hipótese (Tema 810), tem recebido tratamento diverso por precedentes qualificados do Superior Tribunal de Justiça e do Supremo Tribunal Federal. E, a título de exemplo, no RE 1360023 / MG, foi decido que não representa ofensa à coisa julgada a aplicação do entendimento fixado pelo Plenário do Supremo Tribunal Federal no RE 870.947/SE, quanto à correção monetária, e concluiu que o acórdão recorrido divergiu do entendimento do Supremo Tribunal Federal. Decisão publicada em 10.12.2021.
+
+3. Cabível, assim, a aplicação do IPCA-E como índice de correção monetária do débito exequendo em substituição à Taxa Referencial.
+
+4. Agravo de instrumento conhecido e provido” (Acórdão 1612596, 07395202220218070000, Relator: SONÍRIA ROCHA CAMPOS D'ASSUNÇÃO, 4ª Turma Cível, data de julgamento: 01/09/2022, publicado no DJE: 16/09/2022. Pág.: Sem Página Cadastrada).
+
+“AGRAVO DE INSTRUMENTO. EFEITO SUSPENSIVO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA. ÍNDICE DE CORREÇÃO MONETÁRIA. TEMAS 810 E 1170 DO STF E 905 DO STJ. TR. IPCA-E. DISCUSSÃO. APLICABILIDADE IMEDIATA OU NÃO. AÇÃO COLETIVA TRANSITADA EM JULGADO APÓS O TEMA 810. AFRONTA À COISA JULGADA. INOCORRÊNCIA.
+
+1. A partir do julgamento definitivo do RE 870.947/SE (Dje de 20/11/2017), declarou-se inconstitucional o art. 1º-F da Lei nº 9.494/1997 na parte em que disciplina a atualização monetária das condenações impostas à Fazenda Pública segundo a remuneração oficial da caderneta de poupança (TR), por impor restrição desproporcional ao direito de propriedade.
+
+2. Ante o entendimento do STF, fixado em repercussão geral, as condenações impostas à Fazenda Pública devem ser atualizadas monetariamente pelo IPCA-E (Índice de Preços ao Consumidor Amplo Especial).
+
+3. O STJ, ao julgar o REsp nº 1.495.146/MG (Tema 905), definiu que, nas condenações judiciais de natureza administrativa da Fazenda Pública (crédito de servidor público), a partir de julho de 2001, incidem juros de mora de 1% ao mês (capitalização simples) e correção monetária nos índices previstos no Manual de Cálculos da Justiça Federal; a partir de janeiro de 2001, IPCA-E; de agosto de 2001 a junho de 2009, juros de mora de 0,5% ao mês e correção monetária pelo IPCA-E; e a partir de julho de 2009, juros de mora, de acordo com a remuneração oficial da caderneta de poupança e correção monetária pelo IPCA-E.
+
+4. Não há ofensa à coisa julgada, pois a ação coletiva objeto do cumprimento individual de sentença transitou em julgado no momento em que o STF já tinha declarado a inconstitucionalidade da TR, com consequente impossibilidade de aplicação desse índice nas ações ajuizadas posteriormente, e consta o IPCA-E na petição inicial da exequente.
+
+5. Recurso conhecido e não provido” (Acórdão 1429525, 07072336920228070000, Relator: DIAULAS COSTA RIBEIRO, 8ª Turma Cível, data de julgamento: 07/06/2022, publicado no DJE: 20/06/2022. Pág.:  Sem Página Cadastrada).
+
+“AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. CORREÇÃO MONETÁRIA. ART. 1º-F DA LEI N. 9.494/97. INCIDÊNCIA DO IPCA-E. RE 870947/SE. TEMA 810. COISA JULGADA. RECURSO CONHECIDO E DESPROVIDO.
+
+1. No julgamento do RE n. 870947/SE (Tema 810), pelo Supremo Tribunal Federal, restou consignada, sob a sistemática da repercussão geral, a inconstitucionalidade da utilização da Taxa Referencial - TR (art. 1º-F da Lei n. 9.494/97, com a redação dada pela Lei n. 11.960/09) como índice da correção monetária em relação a débito de natureza não-tributária, por impor restrição desproporcional ao direito de propriedade (art. 5º, XXII, da CF/88), devendo, portanto, ser aplicado o IPCA-E, ainda que no período anterior à expedição dos requisitórios.
+
+2. No que se refere à correção monetária, por constituir consectário legal da condenação e ostentar natureza processual de ordem pública, pode ser analisada e modificada de ofício pelo órgão jurisdicional.
+
+3. Se a decisão do Supremo Tribunal Federal no julgamento do RE n. 870.947/SE foi proferida antes do trânsito em julgado do Acórdão exequendo, não há falar em aplicação da Taxa Referencial para a correção monetária do débito, nos moldes do § 5º do art. 535 do CPC.
+
+4. Recurso conhecido e desprovido” (Acórdão 1317586, 07443298920208070000, Relator: SANDRA REVES, 2ª Turma Cível, data de julgamento: 10/02/2021, publicado no DJE: 03/03/2021. Pág.: Sem Página Cadastrada).
+
+Dessa forma, dou provimento ao recurso para, reformando a decisão recorrida, determinar que a atualização monetária seja feita pelo IPCA-E, bem como que haja a imediata expedição do precatório, independentemente da preclusão do presente julgado.
+
+Ante a rejeição da impugnação, condeno o agravado ao pagamento de honorários advocatícios que arbitro em dez por cento (10%) sobre o valor apontado como suposto excesso de execução, nos termos do art. 85, § 3º, do CPC.
+
+É como voto.
+O Senhor Desembargador JAMES EDUARDO OLIVEIRA - 1º Vogal Com o relatorO Senhor Desembargador MARIO-ZAM BELMIRO - 2º Vogal Com o relator
+
+DECISÃO
+
+DAR PROVIMENTO AO RECURSO. UNÂNIME
