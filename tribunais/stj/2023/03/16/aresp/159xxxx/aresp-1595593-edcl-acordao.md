@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro-Relator.
+A Sra. Ministra Assusete Magalhães, os Srs. Ministros Francisco Falcão, Humberto Martins e Herman Benjamin votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de embargos de declaração opostos pela UNIÃO em face de acórdão proferido pela Segunda Turma deste Tribunal Superior, que restou assim ementado (e-STJ fl. 697):
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. ALEGADA ILEGITIMIDADE ATIVA DA EXEQUENTE PARA A EXECUÇÃO INDIVIDUAL DO TÍTULO FORMADO NO MANDADO DE SEGURANÇA COLETIVO Nº 200551010161509 IMPETRADO PELA ASSOCIAÇÃO DE OFICIAIS MILITARES ESTADUAIS DO RIO DE JANEIRO - AME/RJ. ART. 5º, LXX, DA CONSTITUIÇÃO FEDERAL. SUBSTITUIÇÃO PROCESSUAL. DISPENSABILIDADE DE AUTORIZAÇÃO EXPRESSA E RELAÇÃO NOMINAL DOS ASSOCIADOS. LIMITES SUBJETIVOS DA DECISÃO. EXTENSÃO DOS EFEITOS DA SEGURANÇA AOS ASSOCIADOS FILIADOS APÓS A IMPETRAÇÃO DO MANDAMUS. POSSIBILIDADE. LIMITAÇÃO TERRITORIAL DOS EFEITOS DA DECISÃO AOS MEMBROS COM DOMICÍLIO NA SEÇÃO JUDICIÁRIA DO RIO DE JANEIRO/RJ À ÉPOCA DA IMPETRAÇÃO. INOVAÇÃO RECURSAL. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência desta Corte Superior firmou-se no sentido de que o mandado de segurança coletivo configura hipótese de substituição processual, por meio da qual o impetrante, no caso a associação, atua em nome próprio defendendo direito alheio, pertencente aos associados ou parte deles, sendo desnecessária para a impetração do mandamus apresentação de autorização dos substituídos ou mesmo lista nomimal. Por tal razão, os efeitos da decisão proferida em mandado de segurança coletivo beneficiam todos os associados, ou parte deles cuja situação jurídica seja idêntica àquela tratada no decisum, sendo irrelevante se a filiação ocorreu após a impetração do writ. Precedentes.
+2. A tese apresentada no presente agravo interno, segundo a qual somente teriam legitimidade ativa para a execução individual do título formado no writ coletivo os associados com domicílio na Seção Judiciária do Rio de Janeiro/RJ à época da impetração - limitação territorial dos efeitos da decisão - não foi suscitada nas razões do recurso especial, configurando indevida inovação recursal, procedimento vedado por esta Corte Superior.
+3. Agravo interno parcialmente conhecido e, nessa extensão, não provido.
+Nas razões dos declaratórios, a União alega que o acórdão embargado padeceria de omissão, pois não apreciadas as razões de sua impugnação.
+Ademais, suscita a existência de fato novo ocorrido nos autos do REsp nº 1.865.563/RJ, tendo em vista a proposta de afetação da matéria objeto do presente recurso especial para julgamento sob o rito dos recursos repetitivos, formulada pelo em. Ministro Presidente da Comissão Gestora de Precedentes, qualificando o REsp nº 1.845.716/RJ, o REsp nº 1.865.563/RJ e o REsp nº 1.843.249/RJ como candidatos para serem afetados como representativos da controvérsia.
+Sustenta que ante a proposta de afetação, o presente feito deveria ser sobrestado até a decisão de afetação, para que sejam tomadas decisões uniformes em todos os processos que tratam da mesma matéria de fundo referente aos limites subjetivos da coisa julgada referente ao mandado de segurança coletivo nº 2005.51.01.016159-0.
+Sem impugnação aos embargos.
+Por meio do despacho proferido à e-STJ fl. 852 determinei o sobrestamento do feito até o julgamento final do Tema nº 1056 deste Tribunal.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INOCORRÊNCIA. REJULGAMENTO DA CAUSA. INVIABILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração representam recurso de fundamentação vinculada ao saneamento de omissão, contradição, obscuridade ou erro material, não se prestando, contudo, ao mero reexame da causa.
+2. No presente caso, a embargante, a pretexto de suposta omissão, pretende o rejulgamento da causa, procedimento vedado na via eleita.
+3. Embargos de declaração rejeitados.
+VOTO
+Nos termos do art. 1.022 do CPC/2015, os embargos de declaração representam recurso de fundamentação vinculada ao saneamento de omissão, contradição, obscuridade ou erro material, não se prestando, contudo, ao mero reexame da causa.
+Assim, os declaratórios são cabíveis nos casos estritamente previstos, não se prestando a reapreciar a causa, tampouco a reformar o entendimento proferido pelo órgão julgador, em razão dos rígidos contornos processuais desta espécie de recurso. Sobre o tema, os seguintes precedentes desta Corte Superior:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO. RFFSA. SOCIEDADE DE ECONOMIA MISTA. IMUNIDADE TRIBUTÁRIA. ACÓRDÃO DE ORIGEM AMPARADO EM FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL. INVIABILIDADE DE ANÁLISE EM RECURSO ESPECIAL. OBSCURIDADE, CONTRADIÇÃO, OMISSÃO OU ERRO MATERIAL. INEXISTÊNCIA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. REEXAME DE MATÉRIA JÁ DECIDIDA. NÃO CABIMENTO.
+1. Hipótese em que ficou consignado que o Tribunal de origem decidiu a controvérsia à luz de fundamentos eminentemente constitucionais, matéria insuscetível de ser examinada em Recurso Especial.
+2. A Segunda Turma desproveu o recurso com motivação clara e suficiente, inexistindo omissão, contradição ou obscuridade no acórdão embargado.
+3. A fundamentação da embargante denota mero inconformismo e intuito de rediscutir a controvérsia, não se prestando os aclaratórios a esse fim.
+4. Embargos de Declaração rejeitados.
+(EDcl no REsp 1638232/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 09/05/2017, DJe 17/05/2017)
+PROCESSUAL CIVIL. ADMINISTRATIVO. OUTORGA DE LICENÇA PARA CAPTAÇÃO DE ÁGUA SUBTERRÂNEA. RECURSO ESPECIAL PROVIDO. EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE OMISSÃO OU CONTRADIÇÃO.
+I - Deu-se provimento ao recurso especial do Estado, por se considerar legal a limitação administrativa estabelecida no sentido de que, nos locais dotados de rede de abastecimento de água potável, os poços de água subterrâneas serão tolerados exclusivamente para suprimento com fins industriais ou para uso em floricultura ou agricultura.
+II - Embargos de declaração não se prestam ao reexame de questões já analisadas, com o nítido intuito de promover efeitos modificativos ao recurso, quando a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+III - Conforme assentado pelo STJ, "a contradição que enseja os embargos de declaração é apenas a interna, aquela que se verifica entre as proposições e conclusões do próprio julgado, não sendo este o instrumento processual adequado para a correção de eventual error in judicando (..)" (EDcl no AgRg nos EREsp 1.191.316/SP, Rel. Ministro Sidnei Beneti, Corte Especial, DJe 10/5/2013)" (STJ, EDcl no AgRg no REsp 1.533.638/RS, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 13/9/2016).
+IV - Embargos de declaração rejeitados.
+(EDcl no REsp 1345403/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 04/05/2017, DJe 12/05/2017)
+No presente caso, a embargante, a pretexto de suposta omissão, pretende o rejulgamento da causa, procedimento vedado na via eleita.
+Ademais, importante destacar que o acórdão embargado está em consonância com a tese fixada no Tema nº 1056/STJ: "A coisa julgada formada no Mandado de Segurança Coletivo 2005.51.01.016159-0 (impetrado pela Associação de Oficiais Militares do Estado do Rio de Janeiro - AME/RJ, enquanto substituta processual) beneficia os militares e respectivos pensionistas do antigo Distrito Federal, integrantes da categoria substituída - oficiais, independentemente de terem constado da lista apresentada no momento do ajuizamento do mandamus ou de serem filiados à associação impetrante."
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
