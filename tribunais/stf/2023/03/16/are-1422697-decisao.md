@@ -1,0 +1,43 @@
+DECISÃO:
+
+    Trata-se de recurso extraordinário interposto pelo Estado de Minas Gerais com agravo contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+
+    EMENTA: APELAÇÃO CÍVEL. DIREITO TRIBUTÁRIO. TAXA DE INCÊNDIO. INCONSTITUCIONALIDADE RECONHECIDA PELO SUPREMO TRIBUNAL FEDERAL NO JULGAMENTO DO RE Nº 643.247/SP. SUPERAÇÃO DO POSICIONAMENTO ATÉ ENTÃO CONSOLIDADO (OVERRULING). DIREITO A REPETIÇÃO DO INDÉBITO. MODULAÇÃO DOS EFEITOS. RECURSO DE APELAÇÃO CONHECIDO E PROVIDO. 1. O Supremo Tribunal Federal, em sede de repercussão geral, ao julgar o RE nº 643.247/SP, reconheceu, por maioria, a inconstitucionalidade da lei do Município de São Paulo que instituiu a “taxa de incêndio” e, à unanimidade, fixou a seguinte tese: “a segurança pública, presentes a prevenção e o combate a incêndios, faz-se, no campo da atividade precípua, pela unidade da Federação, e, porque serviço essencial, tem como a viabilizá-la a arrecadação de impostos, não cabendo ao Município a criação de taxa para tal fim”. 2. Nesse contexto, a despeito de o ato normativo impugnado no julgamento em questão ser municipal, a tese fixada induz a conclusão da superação do posicionamento até então consolidado no âmbito da Excelsa Corte (overruling), que passa a ser no sentido da inconstitucionalidade da “taxa de incêndio” instituída tanto por leis municipais como estaduais, em virtude de deixar entrever que a segurança pública, aqui incluída a atividade de prevenção e combate a incêndios, há de ser custeada pela receita proveniente da arrecadação de impostos. 3. À luz do precedente vinculante, forçoso o reconhecimento da inconstitucionalidade da taxa de incêndio instituída, pelo Estado de Minas Gerais, por meio da Lei nº 14.938/03, daí porque inviável sua exigibilidade. 4. Em razão da modulação dos efeitos conferida pelo STF no RE 643.247 ED/SP, apenas são inexigíveis, portanto, passíveis de restituição, os tributos pagos após 1º de agosto de 2017. 5. Conforme entendimento firmado pelo Superior Tribunal de Justiça, por ocasião do julgamento dos Recursos Especiais nºs. 1.495.146/MG, 1.495.144/RS, 1.492.221/PR (Tema 905), representativos da controvérsia, a correção monetária e a taxa de juros de mora incidentes na repetição de indébitos tributários devem corresponder às praticadas na cobrança do tributo pago em atraso. Ademais, observada a regra isonômica e havendo previsão na legislação da entidade tributante, afigura-se legítima a utilização da Taxa Selic, vedada sua cumulação com quaisquer outros índices. 6. O ente público, quando vencido na demanda, embora isento do pagamento de custas, deve reembolsar em favor do vencedor as custas e despesas eventualmente adiantadas, na forma da Lei Estadual nº 14.939/2003. Todavia, considerando que, no caso, fora determinada a realização de novos cálculos e não fora estabelecida, ainda, a distribuição da sucumbência, não há falar-se, neste momento processual, em reembolso das custas iniciais adiantadas pelo autor. 7. Na hipótese de sentença ilíquida, a definição do percentual sobre o valor da condenação, para fins de fixação dos honorários, ocorrerá em sede de liquidação de sentença (art. 85,§4º, II, CPC/2015)
+
+    Impostos embargos de declaração, foram rejeitados.
+
+    O recorrente sustenta que a decisão proferida pelo Plenário da Corte nos autos do RE nº 643.247/SP (Tema 16) não se aplicaria ao caso dos autos, argumentando que estaria acobertado pela coisa julgada na ADI Estadual nº 1.0000.04.404.860-1/000. Alega que a repercussão geral não poderia desconstituir a proteção dada ao Estado na referida ação direta. Segundo entende, deve-se aplicar ao caso dos autos os Temas 733 e 885 da repercussão geral.
+
+    Decido.
+
+    Irresignação não merece prosperar.
+
+    Verifica-se que o acórdão recorrido está em consonância com o entendimento firmado na Corte, no que se refere à inconstitucionalidade da taxa em questão.
+
+     Na apreciação do RE nº 643.247/SP (Tema nº 16), Relator o Ministro Marco Aurélio, foi fixada a tese de que “A segurança pública, presentes a prevenção e o combate a incêndios, faz-se, no campo da atividade precípua, pela unidade da Federação, e, porque serviço essencial, tem como a viabilizá-la a arrecadação de impostos, não cabendo ao Município a criação de taxa para tal fim”.
+
+    Posteriormente, o Supremo Tribunal Federal, no julgamento da ADI nº 4.411/MG, declarou a inconstitucionalidade da taxa de segurança pública em função da utilização potencial de serviço de extinção de incêndios, ora questionada, prevista na Lei nº 6.763/75, com a redação conferida pela Lei nº 14.938/03, ambas do Estado de Minas Gerais. Na ocasião, o Relator, Ministro Marco Aurélio, consignou que
+
+    “[i]mpróprio é que, a pretexto de prevenir sinistro relativo a incêndio, venha o Estado a criar tributo sob o rótulo taxa, ausente exercício do poder de polícia ou a utilização efetiva ou potencial de serviços públicos específicos e divisíveis, prestados ao contribuinte ou postos à disposição”.
+
+    O referido julgado foi assim ementado:
+
+    “TAXA – SEGURANÇA PÚBLICA – INCONSTITUCIONALIDADE. A atividade desenvolvida pelo Estado no âmbito da segurança pública é mantida ante impostos, sendo imprópria a substituição, para tal fim, de taxa” (ADI nº 4.411/MG, Tribunal Pleno, Relator o Ministro Marco Aurélio, DJe de 24/9/20). Ademais, registre-se que, à luz da orientação firmada no julgamento da ADI nº 3.659/AM, o exercício, pelo Tribunal local, do controle de constitucionalidade referido pelo recorrente não impede nem compromete o exercício do controle de constitucionalidade exercido pelo Supremo Tribunal Federal. Nesse sentido:
+
+    “CONSTITUCIONAL. CONTROLE DE CONSTITUCIONALIDADE DE PRECEITO NORMATIVO ESTADUAL. COEXISTÊNCIA DE PROCESSOS DE FISCALIZAÇÃO ABSTRATA NO STF E EM CORTE ESTADUAL. TRÂNSITO EM JULGADO DA DECISÃO DO TRIBUNAL ESTADUAL, AFIRMANDO A INCONSTITUCIONALIDADE, POR OFENSA A NORMA DA CONSTITUIÇÃO DO ESTADO REPRODUZIDA DA CONSTITUIÇÃO FEDERAL. EFICÁCIA LIMITADA DA DECISÃO, QUE NÃO COMPROMETE O EXERCÍCIO DO CONTROLE DE CONSTITUCIONALIDADE PELO SUPREMO TRIBUNAL FEDERAL. LEI ESTADUAL 2.778/2002 DO ESTADO DO AMAZONAS. LIMITAÇÃO DE ACESSO A CARGO ESTADUAL. RESTRIÇÃO DE COMPETITIVIDADE INCOMPATÍVEL COM A CONSTITUIÇÃO. 1. Coexistindo ações diretas de inconstitucionalidade de um mesmo preceito normativo estadual, a decisão proferida pelo Tribunal de Justiça somente prejudicará a que está em curso perante o STF se for pela procedência e desde que a inconstitucionalidade seja por incompatibilidade com dispositivo constitucional estadual tipicamente estadual (= sem similar na Constituição Federal). 2. Havendo declaração de inconstitucionalidade de preceito normativo estadual pelo Tribunal de Justiça com base em norma constitucional estadual que constitua reprodução (obrigatória ou não) de dispositivo da Constituição Federal, subsiste a jurisdição do STF para o controle abstrato tendo por parâmetro de confronto o dispositivo da Constituição Federal reproduzido. 3. São inconstitucionais os artigos 3º, § 1º, 5º, § 4º, e a expressão ‘e Graduação em Curso de Administração Pública mantido por Instituição Pública de Ensino Superior, credenciada no Estado de Amazonas’, inserida no caput do artigo 3º da Lei Ordinária 2.778/2002 do Estado do Amazonas, por ofensa ao princípio constitucional de igualdade no acesso a cargos públicos (art. 37, II), além de criar ilegítimas distinções entre brasileiros, o que é vedado pela Constituição Federal (art. 19, III). 4. Ação direta de inconstitucionalidade julgada procedente” (ADI nº 3.659/AM, Relator o Ministro Alexandre de Moraes, Tribunal Pleno, DJe de 8/5/19 – grifo nosso).
+
+     Nesse mesmo sentido: ARE nº 1.323.433/MG, Relator o Ministro Alexandre de Moraes, DJe de 25/6/21; ARE nº 1.317.137/MG, Relator o Ministro Gilmar Mendes, DJe de 25/6/21; ARE nº 1.301.513/MG, Relator o Ministro Edson Fachin, DJe de 1/3/21; ARE nº 1.310.089/MG, Relator o Ministro Alexandre de Moraes, DJe de 8/3/21; e RE nº 1.319.989/MG, Relatora a Ministra Cármen Lúcia, DJe de 01/06/21.
+
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+     Publique-se.
+
+    Brasília, 16 de março de 2023.
+
+Ministro DIAS TOFFOLI
+
+Relator
+
+Documento assinado digitalmente
