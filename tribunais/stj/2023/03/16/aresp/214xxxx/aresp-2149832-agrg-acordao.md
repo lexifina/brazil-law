@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de agravo regimental interposto por MARCOS ALBERTO DE SOUZA JUNIOR contra decisão proferida pela Presidência desta Corte que con heceu do agravo para não conhecer do recurso especial em razão do óbice da Súmula 7/STJ.
+O agravante sustenta que o julgamento do mérito recursal não exige revolvimento fático probatório e, excepcionalmente, é possível que as Cortes Superiores examinem superficialmente o conjunto probatório com vistas a evitar a condenação de inocentes.
+Requer reconsideração da decisão agravada ou remessa do feito à Quinta Turma para que seja conhecido e provido o recurso especial.
+Parecer do Ministério Público Federal pelo não conhecimento do recurso (e-STJ fls. 365/366).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. TRÁFICO DE DROGAS. ABSOLVIÇÃO. AUSÊNCIA DE PROVAS. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. ÓBICE DA SÚMULA 7/STJ. RECURSO DESPROVIDO.
+1. A Corte de origem, após exame dos elementos colhidos no curso da ação penal, concluiu que o caderno processual ostenta provas aptas de que o agravante possuía as substâncias ilícitas com o intuito comercializá-las, estando configuradas as elementares do tipo do art. 33 da Lei 11.343/2006.
+2. Assim, eventual modificação do julgado para acolher tese recursal e absolver o réu nos termos do art. 386, VII, do CPP, demandaria amplo revolvimento de questões fático-probatórias, o que, no âmbito do recurso especial, constitui medida obstada pela Súmula 7/STJ.
+3. Agravo regimental desprovido.
+VOTO
+Ultrapassados os requisitos de admissibilidade do agravo regimental, passa-se à apreciação do mérito da insurgência.
+O agravado foi condenado pela prática do delito tipificado no art. 33 c/c os arts. 40, III, e 33, § 4º, da Lei 11.343/2006, à pena de 1 ano, 11 meses e 10 dias de reclusão, substituída por duas restritivas de direitos, além do pagamento de 194 dias-multa.
+O Tribunal de origem deu parcial provimento ao apelo da defesa para afastar a agravante do art. 40, III, da Lei Antidrogas e mitigar as reprimendas aos patamares de 1 ano e 8 meses de reclusão, e 166 dias-multa, mantidos os demais termos da condenação.
+Por decisão singular, a Presidência desta Corte conheceu do agravo para não conhecer do recurso especial, nos seguintes termos (e-STJ fls. 337/338):
+No que concerne ao tema controvertido, o Tribunal de origem, ao julgar o apelo defensivo, manifestou-se nos seguintes termos:
+ ..
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal alhures demandaria o reexame do acervo fático-probatório juntado aos autos.
+Com efeito, é cediço por este Sodalício que "cabe ao aplicador da lei, em instância ordinária, fazer um cotejo fático e probatório a fim de analisar a existência de provas suficientes a absolver, condenar, ou desclassificar a imputação feita ao acusado." (AgRg no AREsp 871.789/ES, Rel. Ministra Maria Thereza De Assis Moura, Sexta Turma, julgado em 02/06/2016, DJe 14/06/2016 - g. m.). Destarte, o afã do insurgente destinado à alteração de tais premissas, na via rara, afigura-se inviável, consoante inteligência da Súmula n. 7/STJ.
+A propósito, esta Corte Superior de Justiça já se manifestou: "O Tribunal a quo, em decisão devidamente motivada, entendeu que, do caderno instrutório, emergem elementos suficientemente idôneos de prova, inquisitorial e judicial, a enaltecer a tese de autoria delitiva imputada pelo Parquet ao acusado, a corroborar, assim, a conclusão aposta na motivação do decreto condenatório, pelo delito do artigo 33 da Lei nº 11.343/2006. Dessa forma, rever os fundamentos utilizados pelo Tribunal de Justiça, para decidir pela absolvição, por ausência de prova, como requer a defesa, importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula 7/STJ." (AgRg no AREsp n. 1.931.553/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/6/2022, DJe de 13/6/2022 - g. m.).
+De igual sorte: "A análise da pretensão recursal, pela absolvição do delito de tráfico de drogas, demandaria o revolvimento do acervo fático-probatório delineado nos autos, providência inviável em sede de recurso especial, a teor do que dispõe a Súmula n. 7/STJ" (AgRg no AREsp 2019212/SP, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 19/04/2022, DJe 26/04/2022 - g. m.).
+ ..
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Em que pese as razões recursais, a insurgência não merece prosperar.
+Para entender pelo reconhecimento do crime de tráfico de drogas, o Tribunal a quo destacou os seguintes motivos (e-STJ fls. 269/271):
+O laudo de constatação provisório e o exame o químico-toxicológico registraram a natureza e quantidade das drogas apreendidas: 2,2 gramas de cocaína e 3,3 gramas de maconha (fls. 16-17 e 40-41).
+Embora a quantidade apreendida não fosse excessiva, nestes autos, os autores da prisão deram depoimentos coerentes e harmônicos, narrando a ocorrência, da qual resultou a apreensão da droga, bem como a confissão informal do réu; não tinham qualquer interesse particular numa falsa incriminação. Não parece convincente que saíssem pelas ruas à procura de inocentes e desconhecidos passantes, com a intenção de incriminá-los falsamente, sem que isso resultasse em qualquer proveito pessoal ou funcional. Como não se atina para explicação de tão desarrazoado comportamento, e porque não foi demonstrada qualquer razão para suspeita de conduta censurável dos policiais militares, é de se admitir seus testemunhos como verdadeiros. Foram harmônicos em suas declarações e não se extrai desses depoimentos divergências capazes de maculá-los.
+Considerando as circunstâncias envolvendo o flagrante, a atitude mendaz do apelante, somado a outros elementos coligidos na instrução, como a forma de apreensão de dinheiro, restou bem demonstrada a destinação comercial imputada na denúncia.
+Destarte, ao passo que a prova indiciária do crime foi realizada, aquela que se exigia em contrapartida, decorrente dos fatos desconstitutivos afirmados pelo acusado, não se produziu de modo convincente. Assim correta a acolhida à pretensão de punir, nos moldes do art. 239 do CPP.
+A Corte de origem, após exame dos elementos colhidos no curso da ação penal, concluiu que o caderno processual ostenta provas de que o apelante possuía as substâncias ilícitas com o intuito comercializa-las, estando configurado o tipo do art. 33 da Lei 11 .343/2006.
+Assim, eventual modificação do julgado para acolher tese recursal e absolver o agravante nos termos do art. 386, VII, do CPP, demandaria amplo revolvimento de questões fático-probatórias, o que, no âmbito do recurso especial, constitui medida obstada pela Súmula 7/STJ.
+A propósito:
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS E ASSOCIAÇÃO AO TRÁFICO. PENAL E PROCESSUAL PENAL. PLEITOS DE ABSOLVIÇÃO. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. PLEITO DE RECONHECIMENTO E APLICAÇÃO DO REDUTOR ESPECIAL. ART. 33, § 4º, DA LEI N. 11.343/2006. CONDENAÇÃO POR ASSOCIAÇÃO AO TRÁFICO. DEDICAÇÃO ATIVIDADE CRIMINOSA. PARTICIPAÇÃO EM ORGANIZAÇÃO CRIMINOSA. INCOMPATIBILIDADE. JURISPRUDÊNCIA DA TERCEIRA SEÇÃO. PRECEDENTES. CAUSA DE AUMENTO PREVISTA NO ART. 40, V, DA LEI DE DROGAS. PRETENSO AFASTAMENTO. INTERESTADUALIDADE COMPROVADA PELAS PROVAS DOS AUTOS. SÚMULA 7/STJ.
+1. A pretensão relativa ao reexame do mérito da condenação proferida pelo Tribunal a quo, ao argumento de ausência de suporte fático do delito em comento, nos termos expostos no recurso em exame, não encontra amparo na via eleita. Para acolher-se as pretensões de absolvição, seria necessário o reexame aprofundado do conjunto fático-probatório, providência incabível na via estreita do recurso especial, em função do óbice constante na Súmula 7/STJ.
+ ..
+7. Agravo regimental provido, reconsiderando a decisão agravada, para conhecer parcialmente do recurso especial, e, nessa extensão, negar-lhe provimento.
+(AgRg no AREsp 2153883/GO. Sexta Turma. Rel. Ministro Sebastião Reis Júnior. DJe de 16/02/2023)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE ENTORPECENTES E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PLEITO DE ABSOLVIÇÃO. REVOLVIMENTO FÁTICO E PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. PROVA DA MATERIALIDADE. ENTORPECENTE APREENDIDO COM CORRÉU. LIAME ENTRE OS AGENTES COMPROVADO. REDUÇÃO DA PENA AQUÉM DO MÍNIMO LEGAL. IMPOSSIBILIDADE. SÚMULA 231 DO STJ. RECONHECIMENTO DO TRÁFICO PRIVILEGIADO. NÃO PREENCHIMENTO DOS REQUISITOS LEGAIS. RÉU CONDENADO TAMBÉM POR ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. AGRAVO REGIMENTAL DESPROVIDO.
+1. A pretensão de absolvição pelos delitos de tráfico de drogas e associação para o tráfico - este último sob a alegação de falta de comprovação do ânimo associativo entre o recorrente e os corréus - demanda, necessariamente, o revolvimento do conteúdo fático probatório dos autos, providência inviável em recurso especial (Súmula 7/STJ).
+ ..
+5. Agravo regimental desprovido.
+(AgRg no AREsp 2211018/RJ. Quinta Turma. Rel. Ministro Ribeiro Dantas. DJe de 17/02/2023)
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
