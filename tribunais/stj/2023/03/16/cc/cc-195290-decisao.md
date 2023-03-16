@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de conflito negativo de competência instaurado entre o JUÍZO DA 47ª VARA DO TRABALHO DO RIO DE JANEIRO - RJ, suscitante, e o JUÍZO DE DIREITO DA 38ª VARA CÍVEL DO RIO DE JANEIRO - RJ, suscitado.
+Ação: indenização por danos morais proposta por JÉSSICA SANTOS DE SOUZA em desfavor de VALÉRIA LÚCIA CASTRO DE MOURA KELAB, ao argumento de que trabalhou como empregada doméstica na casa de Waldomira Lúcia Lobato de Castro, mãe da requerida, no período entre 10/6/2015 e 14/3/2016, e que, em 23/11/2016, foi injustamente acusada pela requerida da prática de furto e estelionato, o que lhe teria causado abalo psicológico.
+Manifestação da Justiça Comum Estadual: afirmou que a matéria discutida na ação seria de cunho trabalhista, especialmente porque a autora possuía vínculo empregatício com a ré e a pretensão estaria fundada na acusação indevida da prática de crimes enquanto trabalhava para ela.
+Manifestação da Justiça Laboral: declarou a incompetência da Justiça Laboral e suscitou o presente conflito negativo de competência, considerando que a suposta ofensa teria sido praticada por terceiro, e não pelo empregador, após a extinção do contrato de trabalho.
+Parecer do MPF: deixou de opinar.
+RELATADO O PROCESSO, DECIDE-SE.
+Conheço do conflito, porquanto envolve juízos vinculados a Tribunais diversos, nos moldes do art. 105, I, "d", da Constituição Federal.
+Consoante a jurisprudência desta Corte Superior de Justiça, "compete à Justiça do Trabalho processar e julgar ação de indenização por danos morais cuja causa de pedir se refira a atos praticados no âmbito das relações trabalhista e processual trabalhista" (AgInt nos EDcl no CC 170.395/GO, Segunda Seção, DJe 17/2/2022).
+No caso dos autos, entretanto, não se extrai da exordial causa de pedir envolvendo a relação de trabalho. Deveras, narra a autora, na inicial, que trabalhou como empregada doméstica de Waldomira Lúcia Lobato de Castro, pelo período compreendido entre 10/6/2015 e 14/3/2016. Aduziu que, em 23/11/2016, foi acusada injustamente por Valéria Lúcia Castro de Moura, filha de Waldomira, de ter "recebido R$ 11.500,00, além do pagamento de uma viagem para um resort de luxo em Ipojuca-CE, no valor de R$ 9.234,38" (e-STJ, fl. 11), o que lhe teria causado dor, sofrimento e humilhação, por se tratar de pessoa honesta e, assim, objetivava ser indenizada pelos danos morais causados.
+Com efeito, consoante consignado pelo Juízo Laboral, não há qualquer indicação, na inicial, de que a requerida tenha dirigido pessoalmente a prestação de serviços, até mesmo porque Valéria Lúcia Castro de Moura não reside no local onde os serviços foram prestados e quem contratou a autora foi a Sra. Waldomira Lúcia Lobato de Castro. É incontroverso, também, que a suposta ofensa teria ocorrido meses após a extinção do vínculo de emprego (e-STJ, fl. 817).
+Assim, não obstante a autora faça menção à existência de anterior vínculo de emprego entre ela e a mãe da requerida, verifica-se que a suposta ofensa não se passou durante o período laboral e também não há qualquer debate de conduta diretamente oriunda da relação de trabalho.
+Portanto, embora preexistente uma relação de trabalho, os fatos narrados dela não derivam, sobressaindo, no caso, a incompetência da Justiça Laboral para o julgamento da demanda.
+A propósito:
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA TRABALHISTA E JUSTIÇA COMUM ESTADUAL. AÇÃO DE REPARAÇÃO DE DANOS MATERIAIS E COMPENSAÇÃO DE DANOS MORAIS. OBRIGAÇÃO DE NATUREZA CIVIL NÃO ALBERGADA PELA RELAÇÃO TRABALHISTA. COMPETÊNCIA DA JUSTIÇA COMUM.
+1. A ação de indenização por danos materiais entre empregado e empregador, quando não relacionada ao contrato de trabalho, é de natureza civil, e cabe ser processada e julgada perante a Justiça Estadual.
+2. Agravo interno no conflito de competência não provido. (AgInt no CC 146.894/RJ, SEGUNDA SEÇÃO, DJe de 04/11/2016)
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA DO TRABALHO. JUSTIÇA COMUM ESTADUAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. RELAÇÃO DE TRABALHO NÃO ALEGADA. OFENSAS MORAIS IRROGADAS POR PROPRIETÁRIO DE EMPRESA PARA A QUAL A AUTORA PRESTOU SERVIÇOS. CAUSA DE PEDIR. PEDIDO. ÍNDOLE EMINENTEMENTE CIVIL.
+1. Compete à Justiça Comum Estadual processar e julgar ação de indenização por danos morais, na hipótese em que a autora da ação afirma ter sido ofendida moralmente por proprietário de empresa para a qual prestou serviços, em período posterior à prestação dos serviços e fora das dependências da empresa.
+2. A demanda deriva de relação jurídica de cunho eminentemente civil, porquanto a causa de pedir e o pedido deduzidos na exordial não se referem à existência de relação de trabalho entre as partes.
+3. Conflito conhecido para declarar competente a Justiça Comum Estadual. (CC 126.216/SP, SEGUNDA SEÇÃO, DJe de 29/04/2013)
+Forte nessas razões, conheço do conflito e declaro competente o JUÍZO DE DIREITO DA 38ª VARA CÍVEL DO RIO DE JANEIRO/RJ.
+Publique-se. Intimem-se. Oficie-se.
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA COMUM ESTADUAL E JUSTIÇA TRABALHISTA. AÇÃO DE INDENIZAÇÃO. DANOS MORAIS. CAUSA DE PEDIR QUE NÃO ENVOLVE RELAÇÃO DE TRABALHO. COMPETÊNCIA DA JUSTIÇA COMUM ESTADUAL.
+1. Compete à Justiça Comum Estadual julgar ação de indenização por danos morais cuja causa de pedir não se refira a atos praticados no âmbito das relações trabalhista e processual trabalhista, como na hipótese.
+2. Conflito conhecido para declarar competente o JUÍZO DE DIREITO DA 38ª VARA CÍVEL DO RIO DE JANEIRO - RJ.
