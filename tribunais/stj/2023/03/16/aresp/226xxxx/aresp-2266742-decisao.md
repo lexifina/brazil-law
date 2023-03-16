@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por AMERICA LOGISTICA E GESTORA DE RECURSOS EIRELI contra decisão que inadmitiu recurso especial com fundamento na ausência de demonstração da alegada violação do dispositivo tido por violado e na incidência da Súmula n. 7 do STJ.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo (Agravo de Instrumento n. 2146143-89.2021.8.26.0000), nos autos dos embargos à execução.
+O julgado foi assim ementado (fl. 27):
+AGRAVO DE INSTRUMENTO Embargos à Execução Pedido de concessão dos benefícios da justiça gratuita - Indeferimento do pedido pelo douto Juízo "a quo" Irresignação PESSOA JURÍDICA Súmula n. 481 do Superior Tribunal de Justiça Carência de elementos que possam configurar a hipossuficiência econômica da agravante Empresa que se mantém em atividade, auferindo receitas com intuito lucrativo Simples fato de a pessoa jurídica possuir dívidas não basta para justificar a gratuidade judiciária Para constituição de Empresa Individual de Responsabilidade Limitada EIRELI, é necessária a integralização de Capital Social de, no mínimo,100 salários mínimos, o que não se coaduna com a hipossuficiência aventada pela recorrente Pedido subsidiário de diferimento das custas Indeferimento - Ausência de comprovação da momentânea impossibilidade financeira do recolhimento dos encargos processuais - Decisão mantida RECURSO DESPROVIDO.
+Nas razões do recurso especial, a ora agravante aponta violação do art. 99 do Código de Processo Civil, porquanto foi devidamente provado nos autos que não possui condições de arcar com as custas processuais.
+As contrarrazões ao recurso especial foram apresentadas às fls. 45-47.
+O apelo extremo foi inadmitido (fls. 48-50), tendo sido apresentado o agravo em recurso especial (fls. 53-56).
+A contraminuta foi apresentada às fls. 59-60.
+É o relatório. Decido.
+O recurso não merece prosperar.
+É certo que a concessão do benefício da justiça gratuita a pessoa jurídica não dispensa a prévia comprovação de hipossuficiência, nos termos da orientação do STJ consolidada com a edição da Súmula n. 481, que assim dispõe: "Faz jus ao benefício da justiça gratuita a pessoa jurídica com ou sem fins lucrativos que demonstrar sua impossibilidade de arcar com os encargos processuais."
+Com efeito, a Corte a quo, baseada nas premissas fáticas dos autos, concluiu não ter sido comprovada a alegada necessidade financeira para a concessão da justiça gratuita. O relator destacou que a ora agravante não juntou documentação apta para comprovar a sua hipossuficiência, além do que o fato de possuir dívidas não justifica, por si só, a obtenção do benefício, razões pelas quais não pode ser deferido o pedido de assistência judiciária gratuita. Confira-se (fls. 29-32):
+Da análise dos documentos, todavia, não resta devidamente configurada a proclamada insuficiência de recursos, de sorte que a r. decisão combatida não merece reforma.
+De pronto, à mingua de documentação efetivamente capaz de evidenciar a situação econômico-financeira da suplicante de forma transparente, foi-lhe dada oportunidade de ofertar novos elementos aptos a preencher os pressupostos da pretensão deduzida, às fls. 17/19, ocasião em que se manteve inerte, conforme certidão de fls. 22.
+Em suma, não foram providencia dos extratos bancários, demonstrações contábeis ou outros documentos recentes que conferissem robustez à mencionada inaptidão.
+Consequentemente, a inércia da empresa em atestar a sua precariedade acaba conspirando contra o seu intento.
+Ademais, é cediço que, para constituição de Empresa Individual de Responsabilidade Limitada EIRELI, é necessária a integralização de Capital Social de, no mínimo, 100 salários mínimos, o que não se coaduna com a vulnerabilidade aventada pela recorrente.
+Cumpre consignar, outrossim, que o simples fato de a insurgente possuir dívidas não basta para justificar a gratuidade judiciária.
+De fato, não se podem confundir circunstâncias financeiras desfavoráveis, pelas quais qualquer empresa pode passar, especialmente em conjunturas macroeconômicas complicadas como as atuais, com a situação específica do hipossuficiente, que não pode enfrentar o pagamento das custas e despesas do processo sem prejuízo de suas atividades.
+ ..
+Ao que foi dito, acrescenta-se que a empresa recorrente, segundo consta, não encerrou as suas atividades (situação que não se confunde com o fechamento das portas em razão da quarentena), de sorte que continua auferindo renda, pagando funcionários, fornecedores, insumos, tributos etc.
+Nesse contexto, para modificar as conclusões do Tribunal de origem a respeito da ausência de demonstração da necessidade financeira da ora agravante, seria necessário reexame do contexto fático-probatório dos autos, procedimento vedado na via do recurso especial, em face da Súmula n. 7 do STJ.
+A propósito, o seguinte precedente:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. JUSTIÇA GRATUITA. INDEFERIMENTO. CONJUNTO FÁTICO-PROBATÓRIO. REEXAME. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. HONORÁRIOS RECURSAIS. ARTIGO 85, § 11, DO CPC/2015. OBSERVÂNCIA DOS LIMITES LEGAIS. SÚMULA N. 83 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+2. No caso, o Tribunal a quo analisou a questão com base nos elementos fáticos que informaram a demanda, concluindo pela ausência de provas que demonstrem a incapacidade financeira de custear despesas processuais. Desse modo, rever as premissas estabelecidas pelas instâncias or dinárias implicaria reexame do conjunto fático-probatório dos autos, o que é vedado em sede de recurso especial, em virtude da Súmula n. 7 do STJ.
+3. Nos termos da jurisprudência desta Corte, é devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: a. decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil;
+b. recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; c. condenação em honorários advocatícios desde a origem, no feito em que interposto o recurso.
+4. O entendimento firmado pela Corte Especial deste Tribunal Superior é de que a fixação equitativa de honorários recursais observará o disposto no art. 85, §§ 2º e 3º, do CPC/2015.
+5. Decisão monocrática que observa os parâmetros legais e jurisprudenciais. Incidência da Súmula n. 83 do STJ.
+6. Agravo interno a que se nega provimento. (AgInt no REsp n. 1.974.574/MG, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 28/11/2022, DJe de 5/12/2022, destaquei.)
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora reco rrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
