@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de agravo manejado por INDUSTRIA GRAFICA GUANABARA LIMITADA - EMPRESA DE PEQUENO PORTE desafiando decisão da Presidência do Tribunal de Justiça do Estado de São Paulo, que não admitiu recurso especial com base nos seguintes fundamentos: (I) "a apregoada afronta aos artigos 489 e 1022 do Código de Processo Civil não enseja a abertura da via especial porque o acórdão não está desprovido de fundamentação" (fl. 153); e (II) "em relação ao artigo 927, III do Código de Processo Civil, não foi objeto de debate no v. acórdão hostilizado, não servindo de fundamento à conclusão adotada. Incidente a Súmula 282 do Col. Supremo Tribunal Federal, adotada pela Corte Superior" (fl. 153).
+Nas razões de agravo em recurso especial, a parte aduz que: (i) houve "violação ao disposto no artigo 489 e 1.022 do CPC, uma vez que o E. Tribunal não enfrentou todos os argumentos deduzidos no processo" (fl. 162); e (ii) a Corte de origem, ao "não aplicar o quanto fixado pelo STF em um julgamento de um recurso representativo de controvérsia, ofende, claramente, o disposto pelo art. 927, III do CPC" (fl. 161). Na sequência, reedita as razões de mérito do recurso inadmitido.
+Contraminuta às fls. 199/202.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se que o inconformismo nem sequer ultrapassa a barreira do conhecimento, pois a parte agravante não impugnou todos os motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial, deixando de rebater, de modo específico, a apontada aplicação do óbice previsto na Súmula 282/STF, fundamento autônomo e suficiente para a manutenção da decisão ora agravada.
+Incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+ANTE O EXPOSTO, não conheço do agravo.
+Publique-se.
