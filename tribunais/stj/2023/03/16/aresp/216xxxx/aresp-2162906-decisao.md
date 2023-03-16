@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de agravo de GABRIEL FIEDLER DE SOUZA contra decisão proferida no TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA - TJ que inadmitiu seu recurso especial interposto com fundamento no art. 105, III, alínea "c", da Constituição Federal - CF, contra acórdão proferido no julgamento de apelação criminal n. 5036732-79.2020.8.24.0023/SC.
+Consta dos autos que o agravante foi condenado pela prática do delito tipificado no art. 33, caput, da Lei n. 11.343/06 (tráfico de drogas), às penas de 5 (cinco) anos de reclusão e pagamento de 583 (quinhentos e oitenta e três) dias-multa, conforme relatado à fl. 464.
+O Recurso de apelação interposto pela Defesa foi desprovido. O acórdão ficou assim ementado:
+"APELAÇÃO CRIMINAL. CRIME DE TRÁFICO DE DROGAS (ARTIGO 33, CAPUT, DA LEI 11.343/06). SENTENÇA CONDENATÓRIA. RECURSO DEFENSIVO. PLEITO DESCLASSIFICATÓRIO. ALEGAÇÃO DE QUE AS DROGAS ENCONTRADAS DURANTE A DILIGÊNCIA, EMBORA PERTENCETES AO RÉU, DESTINAVAM-SE AO SEU CONSUMO PRÓPRIO. NÃO ACOLHIMENTO. APREENSÃO DE 100 COMPRIMIDOS DE ECSTASY, ALÉM DE PEQUENA PORÇÃO DE MD E DE CRACK. QUANTIDADE E VARIEDADE QUE SE REVELAM INCOMPATÍVEIS COM A TESE DO USO, AINDA QUE NÃO SE NEGUE A CONDIÇÃO DE USUÁRIO EM GRAU GRAVE. DEMAIS CIRCUNSTÂNCIAS COMO VALORES ATRIBUÍDOS À COMPRA DO MATERIAL, RENDIMENTOS PERCEBIDOS PELO APELANTE QUE NÃO GUARDAM PLAUSIBILIDADE COM A TESE DEFENSIVA SUSCITADA. TRÁFICO CONFIGURADO.
+PLEITO DE CONCESSÃO DA BENESSE RELATIVA AO TRÁFICO PRIVILEGIADO. IMPOSSIBILIDADE. DEDICAÇÃO DO APELADO ÀS ATIVIDADS CRIMINOSAS. CONSIDERÁVEL QUANTIDADE E VARIEDADE DE DROGA APREENDIDA. ADEMAIS, RECORRIDO QUE RESPONDE A OUTRO PROCESSO AINDA EM CURSO POR COMETIMENTO, EM TESE, DO MESMO DELITO. PRECEDENTES DESTA CORTE. ACUSADO QUE NÃO FAZ JUS AO BENEFÍCIO EM TELA. SENTENÇA INTEGRALMENTE MANTIDA. RECURSO CONHECIDO E DESPROVIDO." (fl. 473).
+Em sede de recurso especial (fls. 483/496), a Defesa alegou divergência jurisprudencial quanto aos arts. 28, caput, e 33, § 4º, da Lei n. 11.343/06, porque o TJ manteve a condenação por tráfico e negou a minorante da pena.
+Sustenta a insuficiência de provas para a condenação, sob o argumento da pequena quantidade de drogas para consumo próprio do recorrente (100 comprimidos de ecstasy).
+Assevera que " i nexistem provas de que ele estaria vendendo droga, portanto, seu grave grau de dependência deixam claro a condição de usuário e não traficante" (fl. 488).
+Alega que a quantidade de droga não é, por si só, elemento suficiente para excluir a benesse, mesmo que fosse exagerada.
+Afirma que a quantidade é ínfima e o réu só registra um único processo em andamento, por crime praticado na forma continuada, com pouco mais de um mês de diferença, sendo que esse processo não é motivo para indeferir o benefício.
+Requer a desclassificação da conduta do recorrente ou a redução máxima da pena.
+Contrarrazões do MINISTÉRIO PÚBLICO DO ESTADO DE SANTA CATARINA - MP (fls. 502/508).
+O recurso especial foi inadmitido no TJ em razão de: não demonstração da divergência; e b) óbices das Súmulas n. 7 e 83 do SUPERIOR TRIBUNAL DE JUSTIÇA - STJ (fls. 512/515).
+Em agravo em recurso especial, a Defesa impugnou os referidos óbices (fls. 523/530). Contraminuta do MP (fls. 536/540).
+Os autos vieram a esta Corte, sendo protocolados e distribuídos. Aberta vista ao MINISTÉRIO PÚBLICO FEDERAL - MPF, este opinou pelo parcial provimento do recurso especial (fls. 564/576).
+É o relatório.
+Decido.
+Atendidos os pressupostos de admissibilidade do agravo em recurso especial, passa-se à análise do recurso especial.
+Com efeito, inviável o recurso especial pela alínea "c" do permissivo constitucional, pois não comprovada a similitude fática entre o aresto recorrido e os julgados trazidos à colação, nos termos dos arts. 1.029, § 1º, do Código de Processo Civil/2015 e 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça.
+A propósito:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME DE FURTO. HABITUALIDADE DELITIVA. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. RESTITUIÇÃO DO BEM. RAZÃO INSUFICIENTE PARA A APLICAÇÃO DO PRINCÍPIO. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. INADMISSIBILIDADE DE PARADIGMA EM HC PARA COMPROVAR DIVERGÊNCIA. AGRAVO NÃO PROVIDO.
+ ..
+3. Ademais, no que tange à alegada divergência jurisprudencial, o recurso não merece prosperar, em razão da falta de comprovação do dissenso pretoriano. Nos termos do disposto nos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ, caberia ao recorrente a realização do devido cotejo analítico para demonstrar a similitude fática entre os julgados confrontados, mediante a transcrição dos "trechos dos acórdãos que configurem o dissídio, mencionando as circunstâncias que identifiquem ou assemelhem os casos confrontados", requisito não cumprido na hipótese dos autos.
+4. Outrossim, a jurisprudência deste Tribunal é firme no sentido de que não se admite como paradigma para comprovar eventual dissídio, acórdão proferido em habeas corpus, mandado de segurança, recurso ordinário em habeas corpus, recurso ordinário em mandado de segurança e conflito de competência.
+5. Agravo regimental não provido.
+(AgRg no AREsp 1.626.713/RS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe, 27/05/2020).
+Ademais, ressalta-se que julgados em habeas corpus não prestam para configuração de dissídio jurisprudencial. Do mesmo modo, a simples transcrição de ementas (sem grifo no original):
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. NULIDADE. RECONHECIMENTO PESSOAL. INOVAÇÃO RECURSAL EM SEDE DE EMBARGOS DE DECLARAÇÃO. IMPOSSBILIDADE. AUSÊNCIA DE PREQUESTIONAMENTO. RECURSO INTERPOSTO COM FUNDAMENTO NA ALÍNEA C DO PERMISSIVO CONSTITUCIONAL. DIVERGÊNCIA NÃO DEMONSTRADA. AUSÊNCIA DE COTEJO ANALÍTICO. HABEAS CORPUS COMO PARADIGMA. INADEQUAÇÃO.
+I - Ao incluir nas razões dos embargos de declaração nova tese para desconstituir a conclusão do juízo de primeiro grau, o recorrente inovou no pedido recursal delimitado no momento de interposição da apelação, o que não é admitido pela pacífica jurisprudência desta Corte Superior.
+II - O recurso especial interposto com fulcro no art. 105, inciso III, alínea c, da Constituição Federal exige a demonstração do dissídio jurisprudencial, através da realização do indispensável cotejo analítico, para demonstrar a similitude fática entre o v. acórdão recorrido e o eventual paradigma (arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ).
+III - Ademais, a jurisprudência deste eg. Superior Tribunal de Justiça é pacífica no sentido de que acórdãos proferidos em julgamento de habeas corpus não servem como paradigma para demonstração do dissídio jurisprudencial.
+Agravo regimental desprovido.
+(AgRg no REsp n. 1.979.673/PR, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Quinta Turma, DJe de 3/5/2022).
+DIREITO E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME DE ROUBO. RECONHECIMENTO DE PESSOAS. ART. 226 DO CPP. COMPROVAÇÃO DA AUTORIA DO DELITO. CONSTATADAS OUTRAS PROVAS INCRIMINATÓRIAS. REVISÃO. PRETENSÃO DE ABSOLVIÇÃO. REEXAME DE FATOS E PROVAS. SÚMULA N. 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL. PRECEDENTE EM HABEAS CORPUS. IMPOSSIBILIDADE. DECISÃO MANTIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. O reconhecimento de pessoa, presencialmente ou por fotografia, realizado na fase do inquérito policial, só é apto para identificar o réu e fixar a autoria delitiva quando observadas as formalidades previstas no art. 226 do Código de Processo Penal e quando corroborado por outras provas colhidas na fase judicial, sob o crivo do contraditório e da ampla defesa.
+2. Quando o tribunal de origem, instância soberana na análise das provas, conclui estarem presentes indícios suficientes da autoria delitiva e prova da materialidade, reconhecendo comprovada a prática do crime de roubo, não cabe ao STJ rever essa conclusão, tendo em vista a necessidade de incursão no conjunto fático-probatório dos autos, vedado pela Súmula n. 7 do STJ.
+3. Não se admite como paradigma para comprovar eventual dissídio acórdão proferido em habeas corpus, em mandado de segurança, em recurso ordinário em habeas corpus, em recurso ordinário em mandado de segurança e em conflito de competência.
+4. Mantém-se a decisão agravada cujos fundamentos estão em conformidade com o entendimento do STJ.
+5. Agravo regimental desprovido.
+(AgRg no AREsp n. 1.901.000/SC, relator Ministro João Otávio de Noronha, Quinta Turma, DJe de 21/2/2022).
+De todo modo, o acolhimento da pretensão recursal encontra óbice no enunciado n. 7 da Súmula do STJ, por demandar profundo revolvimento do conteúdo fático-probatório, o que não se viabiliza em recurso especial.
+Citam-se precedentes (grifos nossos):
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. TRÁFICO DE DROGAS (370G DE MACONHA, 50G DE COCAÍNA E 40 TROUXINHAS DE CRACK) E ASSOCIAÇÃO PARA O TRÁFICO. PLEITO PELA ABSOLVIÇÃO. INVERSÃO DO JULGADO. INCIDÊNCIA DA SÚMULA N.º 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA. DISSÍDIO JURISPRUDENCIAL. NÃO DEMONSTRADO AGRAVO REGIMENTAL DESPROVIDO.
+1. O Tribunal a quo concluiu estar devidamente configurada a prática dos delitos de tráfico de drogas e associação para o tráfico por parte dos ora Agravantes.
+Portanto, a inversão do julgado, no sentido de se acolher o pleito absolutório veiculado nas razões do apelo nobre, demandaria reexame dos fatos e provas que instruem o caderno processual, o que encontra óbice na Súmula n.º 7 do Superior Tribunal de Justiça.
+2. A jurisprudência já consagrada neste Tribunal, a demonstração do dissídio jurisprudencial não se contenta com meras transcrições de ementas, tal como ocorreu no presente caso, sendo absolutamente indispensável o cotejo analítico, de sorte a demonstrar a devida similitude fática entre os julgados confrontados.
+3. Agravo regimental desprovido.
+(AgRg no AREsp 1.658.469/SE, Rel. Ministra LAURITA VAZ, SEXTA TURMA, DJe 02/06/2020).
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE ENTORPECENTES. PEDIDO DE DESCLASSIFICAÇÃO PARA USO DE DROGAS. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. AGRAVO DESPROVIDO.
+1. No que tange ao pleito de desclassificação da conduta para o delito do art. 28 da Lei n. 11.343/2006, o acórdão combatido, ao manter a condenação pelo tráfico de drogas, consignou que o conjunto probatório aponta para a prática do crime, não somente em razão das substâncias apreendidas (porções fracionadas de maconha, com peso de 55 g), mas também diante da prova testemunhal e circunstâncias da apreensão.
+2. Assim, para desconstituir o entendimento firmado pelo Tribunal de origem e concluir pela desclassificação do crime de tráfico de drogas para o do artigo 28 da Lei n. 11.343/2006, seria necessário o revolvimento do conjunto fático-probatório, o que é vedado pela Súmula 7 do STJ.
+3. Ademais, esta Corte tem entendimento firmado de que os depoimentos dos policiais responsáveis pela prisão em flagrante são meio idôneo e suficiente para a formação do édito condenatório, quando em harmonia com as demais provas dos autos, e colhidos sob o crivo do contraditório e da ampla defesa, como ocorreu na hipótese.Precedentes.
+4. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.096.763/TO, relator Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 14/6/2022, DJe de 20/6/2022 ).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial, com fundamento 932, inc. III, do Código de Processo Civil - CPC.
+Publique-se. Intimem-se.
