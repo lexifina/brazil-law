@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se, na origem, de ação de execução fundada em contas condominiais ajuizada por CONDOMÍNIO JARDIM EUROPA RESIDENCIAL em desfavor de JOÃO FORTES ENGENHARIA S.A. (ora recorrente).
+Interposto o agravo de instrumento em objeção à decisão interlocutória que indeferiu a suspensão requerida pela ora insurgente, a Décima Quinta Câmara Cível do Tribunal de Justiça do Estado do Rio de Janeiro, à unanimidade de votos, negou-lhe provimento, nos termos ementa (e-STJ, fl. 30):
+AGRAVO DE INSTRUMENTO. DIREITO EMPRESARIAL E PROCESSUAL CIVIL. EXECUÇÃO DE COTAS CONDOMINIAIS. INDEFERIMENTO DA SUSPENSÃO, REQUERIDA PELO DEVEDOR COM FUNDAMENTO NO ART. 6º, INCISO II E §4º DA LEI 11.101/2005.
+1. AS DESPESAS CONDOMINIAIS REFERENTES A UNIDADES IMOBILIÁRIAS DE SOCIEDADES EM RECUPERAÇÃO JUDICIAL SÃO RELATIVAS À ADMINISTRAÇÃO DO ATIVO E NÃO SE SUJEITAM AO REGIME CONCURSAL, NA FORMA DO ART. 84, III, DA LEI 11.101/2005.
+2. INAPLICABILIDADE DA SUSPENSÃO PREDICADA NO ART. 6º, II E §4º, DA LEI DE RECUPERAÇÃO JUDICIAL A AÇÕES EM QUE SE BUSCA A SATISFAÇÃO DE TAIS CRÉDITOS. PRECEDENTES DO STJ E DESTE TRIBUNAL.
+3. OBRIGAÇÃO PROPTER REM CONSTITUÍDA ANTES DO DEFERIMENTO DA RECUPERAÇÃO JUDICIAL. VALOR REDUZIDO, CUJA EVENTUAL SATISFAÇÃO CONCORRE PARA PRESERVAR A GARANTIA REPRESENTADA PELA UNIDADE PARA OS DEMAIS CREDORES.
+4. DESPROVIMENTO DO RECURSO.
+Contra o acórdão, a JOÃO FORTES ENGENHARIA S.A., com fulcro no art. 105, III, a, da Constituição Federal, interpôs recurso especial, apontando violação aos arts. 6º, § 4º, 47, 49 e 59, caput, da Lei n. 11.101/2005.
+Em suas razões, alegou a recorrente que a decisão que não reconheceu a sujeição dos créditos perseguidos (cotas condominiais) à recuperação judicial coloca em risco o plano de soerguimento, além de contrariar a decisão proferida pelo juízo universal. Aduziu, ainda, que o reconhecimento ou não do caráter extraconcursal é de competência daquele juízo, e não do Tribunal a quo. Pugnou, por fim, pelo conhecimento e pelo provimento do recurso interposto.
+O processamento do apelo especial não foi admitido pela Corte de origem ante o entendimento de ausência de violação aos artigos indicados e pela incidência da Súmula n. 83 deste Superior Tribunal (e-STJ, fls. 69-72), o que ensejou a interposição do presente agravo (e-STJ, fls. 86-97).
+Brevemente relatado, decido.
+A irresignação não merece prosperar.
+Depreende-se da leitura do recurso interposto que a recorrente apoia as razões de seu reclamo sobre dois pontos, quais sejam, (i) a constituição dos créditos antes do deferimento do pedido de recuperação judicial, de modo que as obrigações propter rem não se enquadram nas exceções do art. 49 da Lei n. 11.101/2005; e (ii) a competência do juízo universal para a classificação dos créditos.
+Quanto ao primeiro aspecto, esta Corte Superior pacificou sua jurisprudência no sentido de que o encargo condominial se enquadra no conceito de despesa necessária à administração do ativo, tratando-se de crédito extraconcursal que não se sujeita à habilitação, tampouco à suspensão determinada pela Lei de Falências. Tal enquadramento subsiste ainda que anterior ao pedido de quebra. Ademais, os créditos oriundos dos encargos condominiais sequer devem ser habilitados perante o juízo universal.
+Ilustrativamente (sem grifos no original):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DO AGRAVANTE.
+1. Não há falar em ofensa ao art. 1022 do CPC/15, porquanto todas as questões fundamentais ao deslinde da controvérsia foram apreciadas pelo Tribunal a quo, sendo que não caracteriza omissão ou falta de fundamentação a mera decisão contrária ao interesse da parte, tal como na hipótese dos autos.
+2. De acordo com a jurisprudência do STJ, "O encargo condominial, ainda que anterior ao pedido de quebra, enquadra-se no conceito de despesa necessária à administração do ativo, tratando-se de crédito extraconcursal que não se sujeita à habilitação, tampouco à suspensão determinada pela Lei de Falências" (AgInt no AgInt no AREsp n. 769.043/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 28/9/2020, DJe de 7/10/2020). Incidência da Súmula 83/STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.172.349/RJ, relator Ministro Marco Buzzi, Quarta Turma, julgado em 12/12/2022, DJe de 16/12/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. DESPESAS CONDOMINIAIS. NATUREZA "PROPTER REM". CARÁTER EXTRACONCURSAL. DESNECESSIDADE DE HABILITAÇÃO E DE SUSPENSÃO DA EXECUÇÃO DOS CRÉDITOS.
+1. Consoante a jurisprudência do Superior Tribunal de Justiça a execução de cotas condominiais não deve ser suspensa em razão da decretação da quebra, tampouco os créditos respectivos devem ser habilitados perante o juízo universal, pois as obrigações condominiais configuram despesas necessárias à administração do ativo, tratando-se, portanto, de crédito extraconcursal.
+AGRAVO DESPROVIDO.
+(AgInt no AREsp n. 2.020.283/RJ, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 29/8/2022, DJe de 1/9/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FALÊNCIA. DÉBITOS CONDOMINIAIS ANTERIORES À QUEBRA. NATUREZA PROPTER REM. ENCARGOS DA MASSA FALIDA. SÚMULA 568/STJ.
+1. Ação de falência.
+2. A jurisprudência desta Corte Superior está assentada no sentido de que o encargo condominial, ainda que anterior ao pedido de quebra, enquadra-se no conceito de despesa necessária à administração do ativo, tratando-se de crédito extraconcursal que não se sujeita à habilitação, tampouco à suspensão determinada pela Lei de Falências.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.569.425/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 23/3/2020, DJe de 25/3/2020.)
+Registra-se, ainda, que, consoante entendimento jurisprudencial cristalizado nesta Corte Superior, não obstante a exclusão do crédito extrapatrimonial do plano de recuperação, apenas o controle dos atos de constrição patrimonial relativos aos aludidos créditos ficará a cargo do juízo universal.
+A propósito (sem grifos no original):
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. MEDIDAS DE CONSTRIÇÃO DO PATRIMÔNIO DA EMPRESA. CRÉDITO EXTRACONCURSAL. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO JUDICIAL. AGRAVO PROVIDO E RECURSO ESPECIAL PROVIDO.
+1. Em que pese o crédito de natureza extraconcursal estar excluído do plano de recuperação e seus efeitos, a jurisprudência desta Corte tem entendido que, como forma de preservar tanto o direito creditório quanto a viabilidade do plano de recuperação judicial, o controle dos atos de constrição patrimonial relativos aos créditos extraconcursais deve prosseguir no Juízo universal.
+2. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para prover o recurso especial.
+(AgInt no AREsp n. 1.975.131/RJ, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 29/3/2022, DJe de 5/4/2022.)
+Na hipótese dos autos, ao dirimir a questão, o Tribunal local assim consignou seu entendimento:
+Veja-se (e-STJ, fls. 31-):
+Como já se apontou na decisão inaugural deste Agravo de Instrumento, as despesas condominiais referentes a imóveis da sociedade em recuperação judicial são relativas à administração do ativo (art. 84, III, da Lei 11.101/2005) e, por isso, não estão sujeitas ao regime concursal. Incorporam-se ao presente, outrossim, os fundamentos daquele decisum, na forma do art. 92, §4º, do RITJRJ.
+Com efeito, nos condomínios edilícios há partes de propriedade exclusiva e partes de propriedade comum dos condôminos(art. 1.331, do Código Civil), que estão obrigados por lei a "contribuir para as despesas do condomínio na proporção das suas frações ideais, salvo disposição em contrário na convenção"(art. 1.336, CC)e, também proporcionalmente, a "concorrer para as despesas de conservação ou divisão da coisa, e a suportar os ônus a que estiver sujeita" (Art. 1.315, CC).
+Em se tratando de sociedades empresariais, tais unidades imobiliárias integram o seu ativo-isto é, o conjunto de bens e direitos que são considerados em eventual recuperação judicial. Coerentemente, portanto, o art. 84, III, da Lei 11.101/2005, dispõe que as despesas para conservação do ativo consistem em créditos extraconcursais, já que visam a sua administração e, eventualmente, sua realização (liquidação).
+Destarte, as execuções de tais créditos não são abrangidas pelas disposições do art. 6º, II, e §4º da Lei de Recuperação Judicial. É como se posiciona a jurisprudência destacada na decisão que negou efeito suspensivo ao recurso (AgInt nos EDv nos EAREsp 769.043/SP, Agravo de Instrumento 0062104-91.2021.8.19.0000 e 0070138-55.2021.8.19.0000, deste Tribunal).
+À vista disso, nota-se que o fundamento da decisão recorrida se encontra em sintonia com o entendimento deste Superior Tribunal, atraindo, assim, a incidência da Súmula n. 83/STJ.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO. COTAS CONDOMINIAIS. RECUPERAÇÃO JUDICIAL. PROPTER REM. CARÁTER EXTRACONCURSAL DO CRÉDITO PERSEGUIDO. JUÍZO UNIVERSAL. FUNDAMENTO DA DECISÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA N. 83/STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
