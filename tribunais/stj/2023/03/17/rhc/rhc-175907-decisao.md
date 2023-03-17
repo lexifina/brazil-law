@@ -1,0 +1,25 @@
+DECISÃO
+ANTONIO FABIO CARLOS DE SOUSA alega sofrer constrangimento ilegal em virtude de acórdão proferido pelo Tribunal de Justiça do Estado do Ceará no HC n. 0638068-59.2022.8.06.0000.
+Neste recurso, a defe sa pleiteia o relaxamento da custódia cautelar do réu, decretada pela suposta prática do crime de homicídio qualificado, diante do excesso de prazo na prisão, que perdura desde 24/12/2021.
+O Ministério Público Federal opinou pelo não provimento do recurso (fls. 242-245).
+Decido.
+Os prazos processuais previstos na legislação pátria devem ser computados de maneira global e o reconhecimento do excesso deve-se pautar sempre pelos critérios da razoabilidade e da proporcionalidade (art. 5º, LXXVII, da CF), considerando cada caso e suas particularidades.
+Acerca do alegado excesso de prazo, o Tribunal a quo assim se manifestou (fls. 192-193, destaquei):
+In casu, após análise aprofundada dos autos, observa-se que inexistente o descaso da autoridade impetrada quanto à tramitação processual, bem como excesso de prazo superior ao necessário à correta elucidação dos fatos encarados como delitivos, na medida em que, pelo contrário, resta aparente o desenvolver da autoridade judicial impulsionando corretamente o feito e adotando providências cabíveis no sentido de viabilizar o trâmite rápido e regular do processo, observando suas peculiaridades, conforme o que exposto a seguir.
+Em análise à sequência dos atos processuais, tem-se que o paciente fora preso em flagrante 24/12/2021, sendo a prisão convertida em flagrante na referida data. A denúncia fora oferecida em desfavor deste, em 10/05/2022, e, em 23/05/2022, o impetrado, recebera a denúncia.
+Em 13/07/2022, o paciente fora regularmente citado, contudo deixara transcorrer o prazo para apresentação e defesa. Desta forma, em 06/10/2022, o impetrado determinou que fosse designado advogado dativo para atuar na defesa do réu, passando este a ser representado pela Defensoria Pública deste Estado. Atualmente, os autos aguardam apresentação de resposta à acusação para posterior designação de audiência de instrução e julgamento.
+Urge ressaltar que a jurisprudência tem entendido que "O prazo para concluir a instrução criminal deve obedecer ao critério da razoabilidade. Sem sentido fazer a soma aritmética do tempo de cada ato processual. A norma jurídica não pode ser interpretada formalmente" (STJ, RHC nº 2.635/RS).
+Portanto, os prazos legais não são peremptórios, levando em conta que diante das peculiaridades do caso concreto é possível admitir dilações, em especial, quando ao tempo da fase instrutória de um procedimento penal que, como no caso dos autos, tem por objeto crime praticado em detrimento do bem mais valioso do tecido social, qual seja: a vida; o que, por dedução lógica, requer preciosismo no processo de formação da culpa.
+Nesse azo, a pretensão liberatória quanto ao excesso de prazo não merece ser acolhida, pois, conforme se denota dos autos originários, observa-se a sucessão razoável de atos e expedientes quanto ao processo de 1º grau desde seu início, notadamente conforme observada sucessão concatenada de decisões, intimações e demais expedientes ordinatórios, sendo necessário, inclusive, a realização da citação do paciente por meio de carta precatória.
+No caso em exame, o ora recorrente teve sua prisão em flagrante convertida em preventiva em 24/12/2021 pela suposta prática de homicídio qualificado. A denúncia foi oferecida em 10/5/2022 e recebida em 23/5/2022. O acusado foi citado em 13/7/2022, mas não apresentou resposta à acusação. Em 6/10/2022, houve determinação de que fosse designado advogado dativo para atuar na defesa do réu; todavia, a peça ainda não foi protolocada.
+Em consulta ao site do TJ-CE, o gabinete verificou que, em 10/2/2023, foi designado defensor dativo para o acusado e os autos ainda aguardam a apresentação de resposta à acusação.
+A par dessas premissas, não constato desídia do Juízo de primeira instância na condução do processo. Embora decorridos cerca de 1 ano e 2 meses desde a prisão do recorrente, vê-se que o feito foi devidamente impulsionado pelo Juízo singular - tanto que se aguarda o oferecimento de resposta à acusação há quase oito meses; é dizer, não há atos pendentes de realização pelo Magistrado de origem.
+Não há como se desconsiderar, também, a gravidade do fato imputado ao paciente - ele seria o executor de um homicídio por meio de golpes com um pedaço de madeira. Assim, em decorrência das circunstâncias concretas em exame, afasto, por ora, o alegado excesso de prazo. Nesse sentido:
+ ..
+3. A aferição da razoabilidade da duração do processo não se efetiva de forma meramente aritmética.
+4. Havendo circunstâncias excepcionais a dar razoabilidade ao elastério nos prazos, como é o caso em análise, não há falar em flagrante ilegalidade.
+ ..
+6. Ordem denegada, com recomendação de celeridade no julgamento da ação penal.
+(HC n. 550.212/AL, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 30/6/2020, destaquei)
+À vista do exposto, nego provimento ao recurso em habeas corpus.
+Publique-se e intimem-se.
