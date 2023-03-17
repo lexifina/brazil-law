@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio impetrado em favor de ED CARLOS OLIMPIO contra acórdão do Tribunal de Justiça do Estado do Espírito Santo (Apelação Criminal n. 0005931-31.2019.8.08.0030).
+Consta dos autos que o Juízo de primeiro grau condenou o paciente a 15 anos e 10 meses de reclusão, inicialmente no regime fechado, como incurso nos arts. 33 e 35 da Lei n. 11.343/06 (tráfico de drogas e associação para o tráfico).
+Interposta apelação pela defesa, o Tribunal a quo negou provimento ao recurso, nos termos do julgamento assim resumido (fls. 37/38):
+"APELAÇÕES CRIMINAIS - TRÁFICO DE DROGAS, ASSOCIAÇÃO PARA O NARCOTRÁFICO (ARTS. 33 E 35, DA LEI Nº 11.343/2006) - POSSE IRREGULAR DE ARMA DE FOGO DE USO PERMITIDO - MATERIALIDADE E AUTORIAS DEMONSTRADAS - DEPOIMENTOS DOS POLICIAIS - MEIO IDÔNEO DE PROVA - DEMAIS PROVAS DOS AUTOS - DESCLASSIFICAÇÃO PARA A INFRAÇÃO DE POSSE DE DROGA PARA USO PESSOAL (ART. 28, DA LEI DE DROGAS) - IMPOSSIBILIDADE - CONDENAÇÕES MANTIDAS - REPRIMENDA DE TRÊS ACUSADOS CONSERVADA - SANÇÃO DE UM APELANTE REDUZIDA.
+1. Comprovou-se a materialidade delitiva e as autorias através das provas carreadas ao processo, precipuamente pelos autos de prisão em flagrante, de apreensão, de constatação provisória da natureza da droga, de constatação de eficiência da arma de fogo, pelo boletim de ocorrência unificado, pelo relatório final da investigação, pelos laudos periciais de arma de fogo e da substância entorpecente, bem como pelos depoimentos colhidos na esfera policial e em juízo, evidenciando- se a existência de provas robustas o suficiente para conduzir à condenação dos apelantes pela prática dos crimes de tráfico ilícito de entorpecentes e associação para o narcotráfico (artigo 33 e 35, ambos da Lei nº 11.343/2006), bem como dos acusados também pelo deito de posse de arma de fogo de uso permitido (artigo 12, da Lei do Desarmamento).
+3. Os depoimentos dos policiais responsáveis pela prisão em flagrante, colhidos sob o crivo do contraditório e da ampla defesa constituem meio idôneo e suficiente para a formação do édito condenatório, especialmente se em harmonia com as demais provas dos autos, como ocorreu na hipótese. Precedentes do STJ.
+4. Não se mostra possível acolher a tese defensiva de um dos apelantes de desclassificação do crime de tráfico de drogas para a infração de posse de entorpecente para uso pessoal, vez que a prova produzida nos autos é robusta o suficiente para manter a condenação pela prática do crime previsto no artigo 33, da Lei nº 11.343/2006.
+5. As reprimendas de três apelantes devem ser mantidas, uma vez que fundamentadas em elementos concretos dos autos e em consonância com os princípios da razoabilidade e da proporcionalidade.
+6. Reduz-se em um terço a sanção referente ao crime de tráfico de drogas (art. 33, da Lei nº 11.343/2006) de um dos réus, em razão da confissão."
+Em suas razões, a impetrante aduz que "a condenação adveio de escopo probatório contrário ao presente nos autos e em manifesta discordância com a doutrina majoritária de nossos tribunais quanto a utilização de provas nulas e a desídia do órgão acusador em constituir provas idôneas para aferir legitimidade à sua representação condenatória" (fl. 12).
+O Ministério Público Federal opinou pelo não conhecimento do mandamus, em parecer ementado nestes termos (fl. 84):
+"HABEAS CORPUS. TRÁFICO ILÍCITO DE DROGAS. ABSOLVIÇÃO. REVOLVIMENTO. WRIT SUBSTITUTIVO.
+1. O habeas corpus, quando utilizado como substituto de recursos próprios, não deve ser conhecido, somente se justificando a concessão da ordem de ofício quando flagrante a ilegalidade apontada.
+2. O remédio heroico não é a via adequada para analisar a pretensão de absolvição por insuficiência de provas, pois ensejaria análise aprofundada do conjunto probatório. Precedentes do STJ.
+3. Parecer pelo não conhecimento do writ."
+É o relatório.
+Decido.
+Nos termos da jurisprudência desta Corte, o presente habeas corpus não merece ser conhecido, pois impetrado em substituição ao recurso próprio (cf.: HC 358.398/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 09/08/2016).
+Embora seja possível a concessão da ordem, de ofício, caso constatada a existência de manifesta ofensa à liberdade de locomoção do paciente, essa não é a hipótese dos autos.
+Isso porque, da leitura dos autos, depreende-se que foram declinados fundamentos concretos para lastrear a condenação e a imposição da reprimenda ao paciente.
+As instâncias ordinárias, após análise de todo o conjunto de provas, concluíram pela caracterização de conduta descrita como tráfico de drogas e associação para o tráfico. A via eleita, marcada por cognição sumária e rito célere, é inadequada para averiguar as particularidades subjetivas que lastre aram o convencimento do Magistrado prolator da sentença, sem análise profunda das provas dos autos.
+Dentre inúmeros, confira-se o seguinte precedente:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. AUSÊNCIA DE MATERIALIDADE DELITIVA. ABSOLVIÇÃO. NÃO CABIMENTO. CONJUNTO PROBATÓRIO INCONTROVERSO. DESCLASSIFICAÇÃO DA CONDUTA PARA USO PRÓPRIO. MATÉRIA DE PROVA. DOSIMETRIA. ATENUANTE. CONFISSÃO ESPONTÂNEA. NÃO UTILIZAÇÃO PARA FUNDAMENTAR A CONDENAÇÃO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. RECURSO DESPROVIDO.
+1. É inviável em habeas corpus apreciar alegações referentes à absolvição da prática do crime de tráfico de entorpecentes se as instâncias ordinárias consideraram incontroversas a materialidade e a autoria do delito com base na análise do acervo probatório e, de modo fundamentado, decidiram pela condenação porquanto presentes as elementares do tipo penal, especialmente a apreensão de drogas.
+2. A desclassificação da conduta, por demandar exame aprofundado dos elementos de prova constantes do inquérito e/ou da ação penal, não pode ser analisada na estreita via do habeas corpus.
+3. Em habeas corpus, é incabível reanalisar a pena na segunda fase da dosimetria, se as instâncias ordinárias, com base na análise das provas e de modo fundamentado, reconheceram não ter ocorrido a confissão espontânea.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 682.608/SP, relator Ministro João Otávio de Noronha, Quinta Turma, DJe de 10/6/2022.)
+Ante o exposto, não conheço do presente presente habeas corpus.
+Publique-se.
