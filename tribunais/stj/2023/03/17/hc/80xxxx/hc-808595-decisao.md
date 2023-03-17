@@ -1,0 +1,18 @@
+DECISÃO
+FABRICIO ADRIANE DA SILVA alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 1500177-23.2021.8.26.0140.
+Consta dos autos que o paciente foi condenado à pena de 2 anos e 6 meses de reclusão, em regime inicial semiaberto, mais multa, pela prática do crime previsto no art. 33, § 4º, da Lei de Drogas.
+A defesa aduz, em síntese, que o réu faz jus ao regime inicial aberto e à substituição da pena por restritivas de direitos, uma vez que é primário, não tem maus antecedentes e foram apreendidos com ele apenas 2,5 g de crack.
+Decido.
+Em relação ao modo de cumprimento da reprimenda, faço lembrar que, uma vez reconhecida, incidentalmente, a inconstitucionalidade do óbice contido no § 1º do art. 2º da Lei n. 8.072/1990 (STF, HC n. 111.840/ES, DJ 17/12/2013), a escolha do regime inicial de cumprimento de pena deve levar em consideração a quantidade da reprimenda imposta, a eventual existência de circunstâncias judiciais desfavoráveis, bem como as demais peculiaridades do caso concreto (como, por exemplo, a quantidade, a natureza e/ou a diversidade de drogas apreendidas), para que, então, seja fixado o regime carcerário que se mostre o mais adequado para a prevenção e a repressão do delito perpetrado, nos termos do art. 33 e parágrafos do Código Penal - com observância também ao disposto no art. 42 da Lei n. 11.343/2006.
+Na sentença, o Juízo singular assim argumentou, no que interessa (fl. 31, grifei):
+Tendo em vista a existência de critérios judiciais negativos, quais sejam, a prática do delito com substâncias de maior potencial lesivo ao meio social, nos termos do artigo 33, §2º, alínea "b", e §3º, do Código Penal, somado ao montante de pena fixado para o delito, fixo o regime semiaberto para início de cumprimento da pena privativa de liberdade.
+Pelos mesmos fundamentos, nos termos do artigo 44, inciso III, e artigo 77, inciso II, do Código Penal, desautorizada a substituição e a suspensão da pena.
+A Corte estadual, por sua vez, afirmou o que segue (fl. 37, destaquei):
+O regime inicial intermediário também era de rigor, visto que, a despeito do quantum da pena, as circunstâncias judiciais (especialmente, a natureza da droga), bem como as anotações de atos infracionais, pendem contra o apelante.
+Pelas mesmas razões, a substituição da pena por restritivas de direitos também não se revela socialmente recomendável.
+Conforme se depreende dos excertos acima, as instâncias ordinárias aplicaram regime prisional mais gravoso do que a pena de 2 anos e 6 meses de reclusão sugeria e negaram a substituição por restritivas de direitos em decorrência da natureza da droga (crack) e da existência de atos infracionais em seu registro infanto-juvenil.
+Observo, entretanto, que no caso dos autos houve apreensão de apenas 2,5 g de crack com o paciente - indivíduo primário, sem maus antecedentes e beneficiado pela minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006 -, de modo que se mostra manifestamente desproporcional estabelecer em seu desfavor regime mais severo do que recomenda a pena imposta e ainda negar-lhe a substituição da reprimenda por restritivas de direitos.
+À vista do exposto, concedo a ordem, in limine, para fixar em favor do acusado o regime inicial aberto e determinar a substituição da sua pena privativa de liberdade por duas restritivas de direitos, a serem escolhidas pelo Juízo das Execuções Criminais.
+Ordeno a imediata expedição de alvará de soltura ao paciente, se por outro motivo não estiver preso.
+Comunique-se, com urgência, o inteiro teor desta decisão às instâncias ordinárias, para as providências cabíveis.
+Publique-se e intimem-se.
