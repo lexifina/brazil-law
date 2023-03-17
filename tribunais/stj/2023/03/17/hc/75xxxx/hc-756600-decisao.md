@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se  de  habeas  corpus  impetrado  em  favor  de  WILLIANS CLAUDIO OLIVEIRA SILVA e MAXI ANDRE LOPES DE OLIVEIRA,  contra  acórdão  do  Tribunal  de  Justiça  do  Estado  de  São  Paulo  proferido  no  julgamento  da  Apelação  Criminal  n.  1500749-57.2018.8.26.0536,  da  Comarca  de São Vicente.
+Consta  nos  autos  que  os  Pacientes  foram condenados pela prática do crime previsto no art. 155, §§ 1.º e 4.º, inciso IV, do Código Penal, às penas de 10 (dez) meses e 20 (vinte) dias de reclusão, em regime inicial semiaberto, e 4 (quatro) dias-multa.
+No presente writ pre tende-se, em suma, "o afastamento da causa de aumento do repouso noturno, diante da sua incompatibilidade com a prática do furto na forma qualificada" (fl. 75).
+Ocorre  que,  ao  apreciar  o  recurso  conexo  (AREsp  1.917.855 /SP,  Rel.  Min.  LAURITA  VAZ) - interposto pelos Pacientes também contra o acórdão ora impugnado -, ressaltei expressamente que deve ser excluída a causa de aumento do repouso noturno, por ser incompatível com a figura do furto qualificado, no caso, pelo concurso de agentes. Assim, afastada a exasperação em 1/3 (um terço) operada em razão da referida majoração, redimensionei o quantum de penas dos Pacientes para 8 (oito) meses de reclusão e 3 (três) dias-multa.
+Dessa forma, a pretensão formulada neste writ foi satisfeita na decisão que proferi na causa principal, por decisão proferida na origem, motivo pelo qual no caso configura-se a superveniente ausência de interesse.
+Ante  o  exposto,  JULGO  PREJUDICADO  o  pedido  de  habeas  corpus,  com  fundamento  no  art.  34,  inciso  XX,  c.c.  o  art.  209,  primeira  parte,  todo s  do  Regimento  Interno  do  Superior  Tribunal  de  Justiça.
+Publique-se.  Intimem-se.
+EMENTA
+HABEAS  CORPUS.  ROUBO MAJORADO.  POSTERIOR  JULGAMENTO  DE  RECURSO  CONEXO  (ARESP  N.  1.917.855 /SP,  REL.  MIN.  LAURITA  VAZ). SATISFAÇÃO DA PRETENSÃO DEFENSIVA.  AUSÊNCIA  SUPERVENIENTE  DE  INTERESSE  PROCESSUAL.  PEDIDO  DE  HABEAS  CORPUS  PREJUDICADO.
