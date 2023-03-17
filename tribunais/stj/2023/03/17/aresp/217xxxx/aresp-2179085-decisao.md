@@ -1,0 +1,21 @@
+DECISÃO
+Na origem trata-se de agravo de instrumento contra decisão que deferiu parcialmente pedido liminar nos autos do Mandado de Segurança. No Tribunal de origem a decisão foi mantida . O valor da causa foi fixado em R$ 1.000,00 (Um mil reais).
+O recurso especial foi interposto no TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, contra acórdão com o seguinte resumo de ementa:
+PROCESSUAL CIVIL. AGRAVO INTERNO. LEGITIMIDADE DAS AGRAVANTES PARA FIGURAR NO POLO PASSIVO DO FEITO DE ORIGEM. TEMA NÀO ABORDADO PELA DECISÃO AGRAVADA. RECURSO DE DEVOLUT1VIDADE RESTRITA. SUPRESSÃO DE INSTÂNCIA. LIMITAÇÃO DA BASE DE CÁLCULO DAS CONTRIBUIÇÕES DESTINADAS A TERCEIROS. DETERMINAÇÃO DE SUSPENSÃO PELO C. STJ. AGRAVO INTERNO DESPROVIDO.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+Quanto à conclusão pelo não conhecimento do agravo de instrumento, o reexame do acórdão recorrido, em confronto com as razões do recurso especial, revela que os fundamentos apresentados naquele julgado, nos termos abaixo, utilizados de forma suficiente para manter a decisão proferida no Tribunal a quo, não foram rebatidos no apelo nobre, in verbis:
+Ao apreciar o pedido de efeito suspensivo formulado pelas agravantes deixei de conhecer do recurso com fundamento no artigo 932, III do CPC em razão da determinação expressa do C. STJ de suspensão de todos os processos que versem sobre o tema em debate, de modo que futura decisão a ser proferida por aquela Corte quanto ao tema controverso há ser cumprida diretamente pelo juízo de origem.
+Demais disso, deixei de apreciar o pedido de inclusão dos agravantes no polo passivo do feito de origem, vez que mencionado tema não foi abordado pela decisão agravada que se debruçou sobre a análise da discussão sobre a limitação da base de cálculo das contribuições destinadas a terceiros a 20 salários mínimos. Assim, considerando que o agravo de instrumento é via recursal de devolutividade restrita, não sendo dado ao juízo ad quem o conhecimento de matéria que não foi apreciada pelo juízo a quo, é descabida a apreciação do pedido de inclusão no polo passivo do feito de origem.
+Por sua vez, em suas razões de agravo interno não traça qualquer argumento relativo à decisão que deixou de conhecer o recurso, limitando-se a reproduzir a argumentação constante de suas razões recursais e nos embargos de declaração opostos contra a decisão que deixou de conhecer o agravo de instrumento.
+Registro, contudo, que a aplicação do artigo 932, III do CPC decorre de ordem do C. STJ determinando a suspensão de todos os processos que versem sobre o tema relativo à aplicação do limite de 20 salários mínimos à apuração da base de cálculo de contribuições parafiscais arrecadadas por conta de terceiros
+Deste modo, sendo este o tema debatido na origem eventual apreciação do pedido formulado pela agravante acarretaria evidente desobediência à ordem da Corte Superior, cabendo ao juízo de origem, por via de consequência, o cumprimento da decisão a ser proferida pela Corte Superior quanto ao tema versado nos autos.
+Desse modo, a ausência de impugnação específica às razões de decidir adotadas pelo acórdão objurgado atrem os óbices das Súmulas n. 283 e 284, ambas do STF:
+Súmula n. 283.
+É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Súmula n. 284
+É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
