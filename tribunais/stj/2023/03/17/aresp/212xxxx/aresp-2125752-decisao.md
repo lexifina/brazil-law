@@ -1,0 +1,9 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto pela FAZENDA DO ESTADO DE SÃO PAULO contra decisão proferida pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que inadmitiu o recurso especial, com fundamento no art. 1.030, inciso V, do Código de Processo Civil.
+Diante da informação do falecimento da agravada/autora ALESSANDRA GOMES FABRO PELIZZARI pela certidão de fl. 555, o processo foi suspenso por 30 (trinta) dias, nos termos do art. 313, I e § 1º, do CPC, e intimado o advogado EVERSON DE PAULA FERNANDES FILHO (OAB/SP 206.697) e o herdeiro da autora, a fim de promover a regularização da sucessão processual mediante habilitação, nos termos dos arts. 110, 313, §§ 1º e 2º, e 689 do CPC, e dos arts. 283 a 287 do Regimento Interno do Superior Tribunal de Justiça - RISTJ.
+Em petição de fls. 565-566, o viúvo da autora, EDUARDO GOMES PELIZZARI, requereu a habilitação nos autos como seu sucessor, e informou que a autora não possui descendentes e não há inventário aberto.
+Requer a extinção do feito visto que trata a demanda de pedido de fornecimento de medicamento de alto custo, direito personalíssimo e intransmissível, razão pela qual a morte da autora acarreta a perda superveniente do objeto da ação. Requer, ainda, a condenação da parte adversa ao pagamento de honorários sucumbenciais, em observância ao princípio da causalidade.
+É, no essencial, o relatório.
+Na espécie, discute-se suposto direito da parte autora ao fornecimento de medicamentos, demanda essa de natureza personalíssima. Nesses casos, o óbito da parte constitui motivo para a extinção do process o dada a evidente perda do seu objeto, nos termos do art. 485, IX, do CPC. Nesse sentido, cito o REsp 1.959.193/CE, relator Ministro MARCO AURÉLIO BELLIZZE, DJe de 2/2/2022.
+Ante o exposto, determino a extinção do processo sem julgamento do mérito, nos termos do art. 485, IX, do CPC.
+Publique-se. I ntimem-se.
