@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de recurso especial interposto por LUIS FELIPE RUFINO SILVA, com pedido de efeito suspensivo, baseado no art. 105, inciso III, "a" e "c", da Constituição Federal de 1988, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+APELAÇÃO CRIMINAL- PRELIMINAR- INVASÃO DE DOMICÍLIO - inocorrência; TRÁFICO DE DROGAS Provas suficientes da autoria e materialidade delitiva. Condenação mantida. PENAS e REGIME adequadamente impostos. APELO DESPROVIDO. (e-STJ fl. 344)
+A defesa aponta a violação dos arts. 157, 240, 241, 242, 243, 244, 245 e 302, todos do CPP e artigo 33, § 4º, da Lei 11.343/20 06 alegando, em síntese, que a tentativa de fuga ao visualizar a viatura policial não constitui fundadas razões para autorizar a invasão domiciliar. Afirma que não há provas de que a entrada no domicílio tenha sido autorizada pelo morador, bem como que não ficou demonstrada situação de flagrante. Por fim, aduz estarem presentes os requisitos para a aplicação do redutor do tráfico privilegiado.
+É o relatório. Decido.
+Anota-se que que "a concessão de efeito suspensivo a Recurso Especial demanda a demonstração inequívoca do periculum in mora, evidenciado pela urgência da prestação jurisdicional a fim de evitar dano de difícil ou incerta reparação, e do fumus boni iuris, consistente na plausibilidade do direito alegado, capaz de denotar a possibilidade de êxito do apelo especial" (AgInt na Pet n. 13.244/DF, relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 22/6/2020, DJe 26/6/2020).
+Na hipótese em análise, o recorrente nem sequer discorre a respeito dos referidos requisitos, limitando-se a pleitear, no pedido, a concessão efeito suspensivo ao recurso especial.
+Ante o exposto, indefiro o pedido de atribuição de efeito suspensivo ao recurso especial.
+Abra-se vista ao Ministério Público Federal para manifestação .
