@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso ordinário interposto por SAMUEL HENRIQUE ROCHA MOREIRA, com fundamento no art. 105, II, da Constituição Federal, contra acórdão assim ementado:
+MANDADO DE SEGURANÇA - CONCURSO PÚBLICO PARA PROVIMENTO DE CARGOS DA CARREIRA DE AGENTE DE SEGURANÇA PENITENCIÁRIO/POLICIAL PENAL - EDITAL SEJUSP N. 002/2021 - PROVA OBJETIVA - DECISÃO INTERLOCUTÓRIA CONCESSIVA DE TUTELA PROVISÓRIA DE URGÊNCIA - EXTENSÃO DOS EFEITOS A TERCEIRO ESTRANHO AO PROCESSO - IMPOSSIBILIDADE - DIREITO LÍQUIDO E CERTO - AUSÊNCIA.
+Os efeitos da anulação de questões por força de decisão judicial de natureza precária proferida em processo ajuizado por terceiro não se estende a outros candidatos. O ato administrativo praticado em cumprimento de decisão judicial precária não enseja que idêntico tratamento seja reconhecido aos demais candidatos que não integram a relação jurídico-processual. Não há que se falar em anulação e atribuição da pontuação ao impetrante em decorrência de decisão judicial de natureza precária proferida em processo ajuizado por terceiro ao argumento de tratamento isonômico entre os candidatos, sendo forçoso concluir pela ausência de direito líquido e certo.
+No presente recurso ordinário, o recorrente pugna pela reforma do acórdão recorrido, buscando a extensão dos efeitos de decisão que concedeu tutela provisória, proferida nos autos do Mandado de Segurança n. 5005972-88.2022.8.13.0313, quanto à anulação e consequente atribuição de pontos da questão n. 58 da prova tipo B do Concurso Público para o provimento de cargos da carreira de Agente de Segurança Penitenciário/Policial Penal.
+É o relatório. Decido.
+Não merece acolhimento a presente irresignação.
+Isso porque a jurisprudência do STJ é firme no sentido de que os limites subjetivos da coisa julgada não podem ser estendidos a pessoas que não fizeram parte do processo.
+No mesmo sentido, mutatis mutandis:
+CONCURSO PÚBLICO. PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. LIMITES DA COISA JULGADA. APROVEITAMENTO A TERCEIRO ESTRANHO AO PROCESSO. IMPOSSIBILIDADE. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Os limites subjetivos da coisa julgada não podem ser estendidos a pessoas que não fizeram parte do processo. Precedentes.
+III - No caso, o RMS n. 49.896/RS fora impetrado em caráter individualizado, revelando-se incabível estender os seus efeitos ao ora Recorrente ao argumento de ofensa aos princípios da isonomia e da segurança jurídica.
+IV - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+(AgInt no RMS n. 66.087/RS, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 21/3/2022, DJe de 25/3/2022.)
+RECURSO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO PARA O PROVIMENTO DE CARGO DE DELEGADO DE POLÍCIA. CANDIDATO APROVADO FORA DO NÚMERO DE VAGAS. PRETENSÃO DE CONVOCAÇÃO PARA SEGUNDA ETAPA DO CERTAME. DIREITO LÍQUIDO E CERTO NÃO RECONHECIDO. CONVOCAÇÃO DE CANDIDATOS POR FORÇA DE DECISÃO JUDICIAL. INOCORRÊNCIA DE PRETERIÇÃO. RECURSO DESPROVIDO.
+1. A definição dos critérios utilizados para se alcançar o perfil do candidato, de acordo com as atividades que serão exercidas, é feita de forma discricionária pela Administração, que, com base na oportunidade e conveniência do momento, estabelece as diretrizes a serem seguidas na escolha dos candidatos.
+2. A limitação de convocação de candidatos aprovados para a segunda etapa do certame tem por escopo selecionar os melhores e mais aptos para o exercício da profissão, de sorte que os classificados na primeira etapa do concurso têm somente expectativa de direito à convocação para as demais fases, o que não basta para obter tutela mandamental.
+3. A convocação de candidatos por força de medida judicial, não implica em violação de direito individual dos candidatos remanescentes que não foram beneficiados com decisões judiciais, uma vez que a coisa julgada não se estende a terceiros estranhos aos processo.
+4. No presente caso, o recorrente atingiu a pontuação mínima exigida, porém não se classificou dentro do limite estipulado para participação na segunda fase do concurso, conforme requisito exposto no Edital, de sorte que não há direito líquido e certo a ser amparado pelo writ.
+5. Recurso Ordinário desprovido, em consonância com o parecer ministerial.
+(RMS n. 24.971/BA, relator Ministro Napoleão Nunes Maia Filho, Quinta Turma, julgado em 28/8/2008, DJe de 22/9/2008.)
+Desse modo, não se vislumbra motivos suficientes para reformar o julgado ora vergastado.
+Ante o exposto, com fundamento no art. 34, XVIII, b, do RISTJ, nego provimento ao recurso ordinário em mandado de segurança.
+Publique-se. Intimem-se.
