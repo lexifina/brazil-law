@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de simples pedido de reconsideração apresentado pela d. Defesa, no qual reafirma a necessidade de concessão excepcional da ordem liminar.
+Sustenta e requer, nos seguintes termos (fls. 216-219):
+"Em despacho datado de 12.01.2023 mov.128 do Processo Judicial Digital (PJD do TJGO, foi determinada, finalmente, a inclusão dos advogados nos autos, mais de 8 meses após o ingresso dos profissionais no processo.
+Foi também remarcado julgamento do caso que se arrasta há quase 4 anos inicialmente para 15.02.2023.
+Assim, dos três pedidos do Habeas Corpus, dois foram satisfeitos após Vossa Excelência requerer as informações que deveriam ser prestados pela autoridade coatora. (..) Ocorre Excelência que na primeira Sessão de julgamento marcada para 15.02, embora o defensor estivesse inscrito regularmente para sustentação oral sendo o n. 19 de uma lista de 37, aguardou paciente sua vez, quando outro, e outro e mais outro, foram sendo chamados em sua preterição, tendo só, ao final de mais de 8horas de espera, sido comunicado do adiamento do julgamento para o dia 13.03.2023.
+Qual não foi a surpresa, quando, novamente se preparando para a sustentação oral do próximo dia 13 de março, se depara com novo adiamento, agora para o dia 19.04.2023. (..) Então serve a presente, para, satisfeitos os itens 1 e 2 do presente HC, inclusão dos advogados nos autos e pretensa marcação do rejulgamento, já adiada pela terceira vez por decisão do TJGO, requerer seja o paciente autorizado a responder o processo em liberdade até o trânsito em julgado da Revisão Criminal n. 56.83949.92.2019.08.09.0000 ou pelo menos até o julgamento da Revisão Criminal pelo Tribunal a quo, face os sucessivos adiamentos sem culpa do paciente."
+Liminar e pedido de reconsideração negados (fls. 152-155 e 201).
+Informações, às fls. 197-200 e 204-207.
+É o breve relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, sedimentou orientação no sentido de não admitir habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Tal posicionamento tem por objetivo preservar a utilidade e eficácia do habeas corpus como instrumento constitucional de relevante valor para proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, de forma a garantir a necessária celeridade no seu julgamento. No caso, incabível o presente mandamus, porquanto substitutivo de via própria.
+Em homenagem ao princípio da ampla defesa, contudo, necessário o exame da insurgência, a fim de se verificar eventual constrangimento ilegal passível de ser sanado pela concessão da ordem, de ofício.
+Narram os autos que o paciente foi condenado pela prática do delito previsto no art. 121, § 2º, incisos I e IV, do CP, à pena de 14 (quatorze) anos de reclusão, em regime fechado, por meio de sentença que, após ser confirmada em segundo grau, veio a transitar em julgado após a análise dos recursos extraordinários pelos Tribunais Superiores.
+Irresignada, a d. Defesa ajuizou revisão criminal perante a eg. Corte de origem, que conheceu em parte do pedido revisional e, nessa extensão, a julgou improcedente.
+Inconformada com o não conhecimento de teses que poderiam resultar na absolvição do paciente, a defesa impetrou habeas corpus neste Sodalício (HC n. 649.517/GO), que concedeu em parte a ordem, para determinar a análise integral das teses postas na revisão criminal, na forma da seguinte ementa, publicado no DJe de 10/6/2022.
+Inicialmente, no presente habeas corpus, a d. Defesa sustentava, em apertada síntese, que o paciente está submetido a constrangimento ilegal, ao argumento de que o eg. Tribunal a quo não conheceu de questões suscitadas em revisão criminal por não ter sido prequestionada a matéria, o que foi objeto do writ supracitado, que determinou a análise da tese da falsidade dos testemunhos que embasaram a condenação do paciente, determinação que até o presente momento não foi cumprida pela Corte de origem, em manifesto excesso de prazo para julgamento da revisão criminal, ainda mais porque o paciente está preso injustamente há quase 3 (três) anos, estando na iminência de ser deportado dos Estados Unidos da América.
+Pois bem.
+Como se observa, os patronos já se encontram habilitados nos autos de origem.
+Contudo, no que tange ao pedido de rejulgamento da revisão criminal de n. 5683949-92.2019.8.09.0000 com celeridade, o que se verifica é que ainda não foi concretizado, em afronta ao determinado no HC n. 649.517/GO por esta Corte Superior, em junho/2022.
+Ora, embora a jurisprudência deste STJ entenda que o excesso de prazo não se afere de forma meramente aritmética, tenho que o caso concreto, contudo, clama por nova intervenção desta Corte Superior, até mesmo porque o caso comporta réu preso (ainda que por condenação definitiva).
+Razões todas pelas quais, não conheço do writ. Concedo a ordem, de ofício, para determinar que a eg. Corte de origem inclua imediatamente na primeira pauta de julgamento possível, com preferência, a revisã o criminal de n. 5683949-92.2019.8.09.0000.
+Intime-se, com urgência, a origem.
+Comunique-se desta decisão a Corregedoria do respectivo Tribunal, para que acompanhe o andamento do feito.
+Após, vista dos autos ao d. Ministério Público Federal, para ciência.
+P. I.
