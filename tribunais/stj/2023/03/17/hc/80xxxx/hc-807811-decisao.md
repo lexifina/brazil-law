@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de GLAUCIO DA SILVA SOARES em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO (Apelação Criminal 0302935-34.2020.8.19.0001).
+O paciente foi condenado à pena total de 10 anos, 4 meses e 13 dias de reclusão em regime fechado e ao pagamento de 24 dias-multa pela prática  em concurso formal  dos crimes previstos no art. 157, § 2º, inciso II e 157, § 2º A, inciso I, do Código Penal" (e-STJ fl. 26).
+Inconformada "com a condenação, a defesa, há (sic) época, interpôs recurso de apelação, do qual restou acolhido em partes, vindo a sentença penal condenatória a ser parcialmente reformada, mormente em relação ao quantum de pena, passando, dessa forma, a reprimenda imposta ao ora paciente, a ter o total de 07 anos, 09 meses e 10 dias" (e-STJ fl. 6), mantida a condenação nos demais termos.
+A impetrante sustenta que houve negativa de vigência ao art. 33, § 2º, b, do CP, e contrariedade às Súmulas 718 e 719, ambas do STF, pois a manutenção do regime prisional fechado, apesar de ser o paciente primário e com pena-base definida no mínimo legal, está baseada "apenas na gravidade abstrata do delito" (e-STJ fl. 9).
+Requer, liminar e definitivamente, deferimento da ordem para que seja restabelecido o regime semiaberto ao paciente, porquanto "compatível com a pena aplicada" (e-STJ fl. 10).
+É o relatório.
+Verifica-se que o mandamus foi impetrado s em a documentação necessária à solução da controvérsia, na medida em que a impetrante deixou de juntar aos autos cópia do inteiro teor do acórdão impugnado, documento indispensável ao exame e reconhecimento da aventada ilegalidade em que se baseia o pedido de deferimento sumário da ordem.
+Nos termos da jurisprudência desta Corte Superior, o rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência do ventilado constrangimento ilegal suportado, decorrente de Tribunal sujeito à jurisdição desta Corte Superior, providência não efetivada pelo impetrante no caso em questão.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. AUSÊNCIA DE CÓPIA DO ARESTO PROFERIDO PELA CORTE ESTADUAL QUE ENFRENTOU A QUESTÃO. INSTRUÇÃO DEFICIENTE. ACÓRDÃO ACOSTADO NÃO CONHECEU DA IMPETRAÇÃO ORIGINÁRIA, NESTE PONTO, POR SE TRATAR DE REITERAÇÃO DE PEDIDO. ACÓRDÃO ANTERIOR NÃO ACOSTADO AOS AUTOS. RECURSO DESPROVIDO.
+1. Embora impetrado por advogado legalmente constituído, o mandamus está deficientemente instruído, tendo em vista que não há nos autos cópia do acórdão referente ao HC n. 5618921-46.2020.809.0000 no qual o Tribunal estadual avaliou a fundamentação do decreto prisional.
+2. A manutenção da custódia, em observância ao disposto no art. 316, parágrafo único, do Código de Processo Penal, apenas sinalizou persistirem os motivos ensejadores da medida, providência que encontra respaldo na jurisprudência desta Corte Superior, não havendo necessidade de apresentação de nova linha de fundamentação exaustiva. Precedentes.
+3. Agravo desprovido.
+(AgRg no HC 702.560/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 15/2/2022, DJe de 18/2/2022.)
+PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. DOSIMETRIA. INSTRUÇÃO DEFICIENTE. ÓBICE AO EXAME DAS RAZÕES DO WRIT. AGRAVO DESPROVIDO.
+1. Em sede de habeas corpus, a prova deve ser pré-constituída e incontroversa, cabendo ao impetrante apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado. Na espécie, o processo não foi instruído com cópia do acórdão proferido no julgamento do apelo defensivo, peça imprescindível para análise da impetração. De fato, na decisão colegiada acostada aos autos, limitou-se o Tribunal de origem a examinar o fundamentos do decreto preventivo, sem que fossem analisados os parâmetros adotados no cálculo dosimétrico.
+Precedentes.
+2. Ainda que tenha interposto agravo regimental, no qual reconheceu a deficiência da instrução do feito, o impetrante não logrou apresentar a cópia do acórdão proferido no julgamento da apelação, alegando não ter conseguido localizar tal peça processual.
+3. Tratando-se de decreto condenatório transitado em julgado, é facultado à defesa ajuizar revisão criminal no Tribunal de origem, com vistas à modificação dos parâmetros dosimétricos, nas hipóteses de manifesta violação dos critérios dos arts. 59 e 68 do Código Penal, sob o aspecto da ilegalidade, da falta ou evidente deficiência de fundamentação ou ainda do erro de técnica.
+4. Agravo regimental desprovido.
+(AgRg no HC 647.927/RS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 4/5/2021, DJe de 10/5/2021.)
+Ante o exposto, nos termos do art. 210 do Regimento Interno deste Superior Tribunal de Justiça, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
