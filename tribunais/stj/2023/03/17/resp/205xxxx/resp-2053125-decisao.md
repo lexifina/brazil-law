@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto por ALAOR RIBEIRO GUIMARAES com fulcro no art. 105, III, "a", da Constituição contra acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo no julgamento da Apelação Criminal n. 1501389-43.2021.8.26.0637.
+Transcrevo o relatório do parecer do MPF, que deslinda bem o feito (fls. 360-361):
+Trata-se de recurso especial interposto por ALAOR PABLO RIBEIRO GUIMARÃES, com fundamento no artigo 105, inciso III, alínea a, da Constituição Federal, contra o acórdão proferido pela 5ª Câmara de Direito Criminal do Tribunal de Justiça do Estado de São Paulo.
+Verifica-se dos autos que ALAOR PABLO RIBEIRO GUIMARÃES foi condenado à pena de 08 (oito) anos, 01 (um) mês e 23 (vinte e três) dias de reclusão, em regime inicial fechado, e ao pagamento de 814 (oitocentos e catorze) dias-multa, pela prática do crime previsto no artigo 33, "caput", da Lei nº 11.343/06.
+Após, o Tribunal de origem deu parcial provimento à apelação defensiva e redimensionou a pena para 07 (sete) anos, 09 (nove) meses e 10 (dez) dias de reclusão, e 777 (setecentos e setenta e sete) dias-multa.
+Em suas razões, o recorrente alega violação aos artigos 33, §2º, do Código Penal, 28 e 42, ambos da Lei nº 11.343/06, além dos artigos 158-A e seguintes, 386, VII, 387, §2º e 564, IV, todos do Código de Processo Penal. Ao final, pugna pela absolvição ou, subsidiariamente, pela desclassificação da conduta para o crime do artigo 28 da Lei nº 11.343/06, ou, ainda, a aplicação da detração em sede condenatória, alterando-se o regime inicial de cumprimento da pena (fls. 321/336 e- STJ).
+As contrarrazões foram apresentadas às fls. 340/349 e-STJ.
+O Especial foi admitido apenas no tocante à detração penal (fl. 352 e-STJ).
+Os autos subiram ao Superior Tribunal de Justiça e vieram com vista ao Ministério Público Federal para manifestação.
+É o relatório.
+O Ministério Público Federal manifestou-se pelo "parcial provimento do recurso especial, para que os autos retornem à origem para análise da detração, considerando o disposto no artigo 387, §2º, do CPP" (fls. 360-362).
+É o relatório.
+Decido.
+Quanto à detração penal, discorreu o Tribunal de origem que é "inviável o pedido de detração em sede de apelação, pois, apesar de o artigo 387, § 2º, do Código de Processo Penal, dispor que o tempo de prisão provisória deva ser computado para fim de fixação do regime inicial de cumprimento de pena, cabe ao Juízo da Execução analisar melhor a questão, por deter mais informações sobre o apelante, como a análise do requisito subjetivo" (fl. 308).
+No entanto, acerca do tema, esta Corte já tem jurisprudência consolidada no sentido de que, com o advento da Lei n. 12.736/2012, o juiz processante, ao proferir sentença condenatória, deverá detrair da pena o período de custódia cautelar e, não havendo trânsito em julgado da condenação, como no caso dos autos, a competência para realizar a detração penal permanece no âmbito do juízo de conhecimento. Nesse sentido: AgRg nos EDcl no AREsp n. 1.674.599/SP, relator Ministro Antônio Saldanha Palheiro, Sexta Turma, julgado em 14/10/2021, DJe de 19/10/2021; AgRg no HC n. 422.852/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/10/2018, DJe de 16/11/2018.
+Na hipótese, como bem esposado no parecer ministerial, " a usentes informações sobre os elementos necessários ao reconhecimento da detração, cabe ao juízo das execuções examinar o tempo de prisão cautelar a fim de autorizar a fixação de regime prisional mais brando" (AgRg no AgRg no AREsp n. 1.814.171/SP, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 17/8/2021, DJe de 20/8/2021).
+Ante o exposto, com o parecer do MPF, dou parcial provimento ao recurso especial para determinar que o Juízo de conhecim ento proceda à análise da detração, nos termos do art. 387, §2º, do CPP.
+P. e I.
