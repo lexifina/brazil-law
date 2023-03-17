@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo manejado por Ana Paula Nunes Pereira de Souza e outras contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 1.296):
+AGRAVO INTERNO - AÇÃO ORDINÁRIA - NOMEAÇÃO EM CONCURSO PÚBLICO - VALOR DA CAUSA INFERIOR A 60 SALÁRIOS MÍNIMOS - DOZE VEZES O VENCIMENTO DO CARGO PRETENDIDO - LITISCONSÓRCIO ATIVO FACULTATIVO - AFERIÇÃO DO VALOR INDIVIDUAL CONCERNENTE A CADA AUTOR - COMPETÊNCIA ABSOLUTA DO JUIZADO ESPECIAL DA FAZENDA PÚBLICA - DECISÃO MONOCRÁTICA MANTIDA.
+- É absoluta a competência dos Juizados Especiais da Fazenda Pública para o julgamento das ações com valor da causa inferior a 60 salários mínimos, cuja matéria discutida não é excepcionada pelo art. 2º, §1º, da Lei 12.153/2009, como no caso dos autos, razão pela qual o reconhecimento da incompetência do juízo de origem é medida que se impõe.
+- Tratando-se de demanda em que se discute a nomeação em concurso público, ajuizada em litisconsórcio ativo facultativo, o valor da causa deve corresponder a doze vezes o montante do vencimento do cargo pretendido, considerando cada autor de forma isolada.
+Opostos embargos declaratórios, foram rejeitados (fls. 1.404/1.409).
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 98, I, da Constituição Federal; 292, §§ 1º e 2º, V e VI, 489, § 1º,VI, 1.011, 1.021, §4º, e 1.022 do CPC.
+Sustenta nulidade do acórdão por ofensa à competência instituída em norma constitucional (fl. 1.470) e ao "princípio da segurança jurídica" (fl. 1.471).
+Alega, em síntese, que o valor da causa estipulado originalmente está correto, pois o "montante total e indicado como valor da causa pelas Autoras/recorrente correspondente à pretensão indenizatória por dano material" (fl. 1.484), reforçando, com isso, que "o valor da pretensão indenizatória por dano material individualmente considerado ultrapassa o limite de alçada do Juizado Especial fixada em 60 salários mínimos" (fl. 1.484)
+Salienta que "conforme consta na petição, em relação ao valor atribuído à causa pelas Autoras, (..) o mesmo corresponde à soma do pedido indenizatório por dano material decorrente de (..) deixar de proceder à nomeação em caráter efetivo das Autoras" (fl. 1.485).
+Pugna pela nulidade do acórdão ou a manutenção do valor da causa primeiramente estabelecido (fl. 1.503).
+As contrarrazões foram apresentadas (fls. 1.509/1.514).
+O recurso especial foi inadmitido pelo Tribunal de origem (fls. 1.523/1.526). Daí o agravo ora em exame (fls. 1.539/1.559), que foi respondido (fls. 1.585/1.591).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não procede.
+O Tribunal estadual ajustou o valor da causa e, com isso, ratificou a competência absoluta do Juizado Especial da Fazenda Pública, nos seguintes termos (fls. 1.299/1.306, grifos nossos):
+A decisão ora impugnada foi proferida nos seguintes termos:
+A demanda tem por objeto a análise do direito das autoras de serem nomeadas para o cargo de Professor de Educação Básica, em razão da classificação no concurso Edital SEPLAG/SEE 01/2011, fora do número de vagas disponibilizadas.
+Verifica-se da petição inicial que as requerentes deram à causa o valor de R$478.400,00. Todavia, como a pretensão diz respeito ao reconhecimento do direito a nomeação em concurso público, ou seja, refere-se a obrigação por tempo indeterminado e superior a 1 ano, a atribuição do valor da causa deve observar o disposto no art. 292, §2º, do CPC.
+Confira-se:
+ ..
+Assim, no caso, o valor da causa deve corresponder a doze vezes o montante do vencimento do cargo pretendido, que nos termos do edital de ordem n. 34 é R$ 1.320,00, totalizando o montante de R$15.840,00, considerando as autoras de forma isolada.
+ ..
+Importante destacar que nos termos do §4º, do art. 2º, da Lei n. 12.153/2009, não é facultado ao autor escolher pelo ajuizamento da ação perante a Justiça Comum ou o Juizado Especial. A competência deste é absoluta e deve ser obrigatoriamente observada pela parte quando preenchidos os requisitos legais.
+ ..
+Nos moldes explicitados na referida decisão, é absoluta a competência dos Juizados Especiais da Fazenda Pública para o julgamento das ações com valor da causa inferior a 60 salários mínimos, cuja matéria discutida não é excepcionada pelo art. 2º, §1º, da Lei 12.153/2009, como no caso dos autos, razão pela qual o reconhecimento da incompetência do juízo de origem é medida que se impõe.
+Ademais, tratando-se de demanda em que se discute o direito a nomeação em cargo público, o valor da causa deve corresponder a doze vezes o montante do vencimento do cargo pretendido, considerando os autores de forma isolada, nos termos do entendimento prevalente no STJ quanto à atribuição de valor da causa nas hipóteses de litisconsórcio ativo facultativo.
+Ressalte-se que ao contrário do que afirmam as agravantes, não se cometeu qualquer erro ao se mencionar o vencimento do cargo pretendido, já que R$ 1.320,00 é o valor que efetivamente consta no edital do concurso em questão, juntado à ordem n. 34.
+Portanto, como é imperiosa a correção de ofício do valor da causa pelo Magistrado, quando não atribuído corretamente pela parte, nos moldes ordenados pelo §3º, do art. 292, do CPC, e sendo correto no caso o valor de R$15.840,00, considerando o proveito econômico individual de cada autor, e não o valor total da demanda, não merece reparo a decisão monocrática.
+Verifica-se, inicialmente, não ter ocorrido ofensa aos arts. 489, §1º, VI, 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+No mérito, é inadmissível o recurso especial que apresenta razões dissociadas do quadro fático e das premissas jurídicas expostos no acórdão recorrido.
+No caso, o cerne argumentativo recursal é de que o valor da causa atribuído na primeira instância estaria correto, pois fora realizado "tendo como parâmetro o rendimento médio dos professores do Estado de Minas Gerais no valor de R$2.300,00 (dois mil e trezentos reais)" (fl. 1.483). Contudo, o Tribunal a quo, como colacionado acima, asseverou que o vencimento do cargo pretendido é de R$ 1.320,00 (mil trezentos e vinte reais), que é o "valor que efetivamente consta no edital do concurso em questão", amparado em dispositivos da Lei n. 12.153/2009 que sequer foram impugnados especificamente.
+Assim, os argumentos postos no presente apelo, além de não guardar pertinência com os fundamentos do aresto atacado, deixaram de impugnar fundamentação suficiente para manutenção do acórdão recorrido, atraindo a incidência das Súmulas 283 e 284/STF.
+Ademais, não há explicação acerca da suposta composição correta do valor apontado nas razões recursais, mas apenas há a reiteração de que o rendimento mensal seria de R$ 2.300,00 (dois mil e trezentos reais) (fl. 1.484, 1.486), o que faz reiterar o teor sumular já apontado.
+Outrossim, a alt eração das conclusões adotadas pela Corte de origem, sobretudo o valor constante no edital em apreço, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula n. 7/STJ.
+Por fim, em recurso especial não cabe invocar violação a norma constitucional, razão pela qual o presente apelo não pode ser conhecido relativamente à apontada ofensa ao art. 98, I, da Constituição Federal.
+ANTE O EXPOSTO, nego provimento ao agravo em recurso especial.
+Publique-se.
