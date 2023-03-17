@@ -1,0 +1,12 @@
+DECISÃO
+RODRIGO PIVA VERONESI, condenado por receptação, alega ser vítima de constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, que negou provimento ao recurso de apelação.
+Neste writ, afirma objetiva a defesa, liminarmente, "o reconhecimento da incompetência da comarca de Poços de Caldas  em  Minas Gerais, para julgar o presente processo" e assere que, "no caso a competência para julgar o processo seria a comarca de Botelhos" (fl. 4), visto que o veículo objeto da receptação, haveria sido adquirido nesta última localidade.
+O writ comporta julgamento antecipado, visto que a impetrante suscita questão que não foi analisada, em nenhum momento, pelas instâncias ordinárias, sobretudo se levado em consideração que a apelação foi julgada ainda em 2020, e que diversos habeas corpus já foram impetrados em favor do paciente, nos quais essa questão não chegou a ser sequer tangenciada. Esse aspecto, por si só, já evidencia a impossibilidade de apreciação dessa alegação nesta oportunidade.
+Além disso, mas não menos importante, é o fato de que o suposto constrangimento ilegal, que decorreria da possível incompetência em razão do lugar da consumação do crime, não se mostra evidenciado de maneira inconteste, de modo a justificar o seu reconhecimento de ofício. Isso porque o acórdão é explícito ao afirmar que o bem foi adquirido em Poços de Caldas, nestes termos (fl. 25, destaquei):
+ ..
+Narra a denúncia que, em meados do ano de 2014, em Poços de Caldas, o denunciado Paulo César Ferreira, ora apelante, em proveito próprio, adquiriu o veículo Fiat/Bravo, placas FBT-6163, que sabia ser produto de crime.
+Consta, ainda, que, no mês de agosto de 2014, o denunciado Rodrigo Piva Veronesi, também apelante, recebeu e conduziu, em proveito próprio ou alheio, o veículo acima referido, que sabia ser produto de crime.
+De fato, "na linha do entendimento desta Corte, "firma-se a competência, para o processo e julgamento do feito, do juízo em que consumada a receptação, ou seja, onde perpetrados os atos de aquisição, recebimento ou ocultação do bem - ocorridos com a efetiva tradição" (CC n. 17.834/SP, relator Ministro Gilson Dipp, Terceira Seção, julgado em 16/12/1998, DJ 17/2/1999, p. 112)" (CC n. 148.019/RN, Rel. Ministro Antonio Saldanha Palheiro, DJe 16/4/2019).
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, denego in limine o habeas corpus.
+Dê-se ciência ao Ministério Público Federal.
+Publique-se e intimem-se.
