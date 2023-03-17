@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de embargos declaratórios opostos por J. C. TOYS GROUP INC E SUPER TOYS - INDÚSTRIA E COMÉRCIO DE ARTEFATOS PLÁSTICOS LTDA. contra decisão que conheceu do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negou-lhe provimento, sob os fundamentos de ausência de violação do art. 1.022 do CPC/2015 e da incidência da Súmula n. 283/STF.
+Em suas razões, a parte embargante sustenta que há omissão na decisão embargada, na medida em que não se pronunciou quanto a violação do art. 520, VII, do CPC/1974, aduzindo que o comando judicial às fls. 25-31 (e-STJ) condenou a embargada a se abster da fabricação e venda do produto "Little Angels" e que, portanto, o recebimento da apelação se deu apenas no efeito devolutivo, incidindo o dispositivo supramencionado (e-STJ, fls. 213-219).
+A parte embargada apresentou impugnação (e-STJ, fls. 240-247).
+É o relatório.
+Os embargos de declaração tem como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto ou questão sobre o qual devia se pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como para corrigir erro material (CPC/2015, art. 1.022), sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+Na hipótese, não se verifica qualquer omissão no julgado.
+Como dito, a eg. Corte Estadual consignou que (e-STJ, fls. 81-82):
+O inconformismo não comporta acolhida.
+Com efeito, a leitura do título judicial não indica que houve pretérita concessão de tutela de urgência (fls. 25/31), sendo certo que o recurso de apelação interposto contra a sentença foi processado com duplo efeito, conforme decisão proferida em agosto de 2015 (cf. extrato de andamento do processo principal).
+A sentença proferida na ação cautelar de busca e apreensão reconheceu o direito das agravantes (em novembro de 2013), "para o fim de condenar ANJO INDÚSTRIA E COMÉRCIO PLÁSTICOS LTDA. a se abster de fabricar e comercializar a linha de bonecas denominada "Little Angels", retirando do mercado seus produtos fabricados no prazo de 30 dias, sob pena de multa diária no valor de R$ 5.000,00 (Código de Processo Civil, art. 461, § 4º), limitada a sessenta dias.".
+Acontece que essa sentença foi anulada, de ofício, em setembro de 2015, por ocasião do julgamento do recurso de apelação interposto pelo adverso, ante a expressa conclusão de que "foi proferida sentença condenatória, com imposição de astreintes, algo que não consta do pedido deduzido na inicial. O vício é insanável, pois a prestação jurisdicional não tem nenhuma congruência com o pedido e viola os limites objetivos da demanda." (Ap. nº 0002509-80.2010.8.26.0315, Rel. Des. Campos Mello, 2ª Câmara Reservada de Direito Empresarial).
+Portanto, não subsistiu o comando da sentença proferida na ação cautelar e, nos autos principais, não houve concessão de tutela de urgência, daí a insubsistência da alegação de que houve descumprimento, por mais de três anos, do comando da sentença cuja eficácia permaneceu suspensa até o julgamento do recurso de apelação.
+Em conclusão, inviável a execução de astreintes, nos moldes pretendidos pelas agravantes. (Sem grifo no original).
+Assim, as recorrentes limitam-se a alegar infringência ao art. 520, VII, do CPC/1973, olvidando-se de que o argumento do Tribunal de origem foi no sentido de que a sentença proferida em 2013 foi anulada. Assim sendo, considerando-se que tal fundamento não foi infirmado nas razões do apelo especial, forçoso reconhecer a incidência da Súmula n. 283/STF, aplicada por analogia, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+Assim, não há falar em negativa de prestação jurisdicional.
+Como se vê, está nítido o propósito da parte embargante em rediscutir temas que foram devidamente apreciados, o que é defeso por meio da via processual escolhida, desautorizando, deste modo, o acolhimento da pretensão deduzida nos aclaratórios.
+A propósito:
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. DIREITO EMPRESARIAL. DIREITO DA PROPRIEDADE INDUSTRIAL. MARCAS. ALEGADAS OBSCURIDADE E CONTRADIÇÃO NO ACÓRDÃO EMBARGADO. INEXISTÊNCIA. PRETENSÃO DE REDISCUSSÃO DE MATÉRIA JÁ DECIDIDA.
+1. Não há omissão e tampouco obscuridade no acórdão, que examinou de forma clara e expressa todas as razões veiculadas no recurso especial, tendo apenas decidido de forma contrária à pretensão da ora embargante.
+2. Os embargos de declaração não se prestam à rediscussão da matéria já decidida no julgamento d o recurso especial.
+EMBARGOS DE DECLARAÇÃO REJEITADOS.
+(EDcl no REsp n. 1.787.676/RJ, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 22/11/2021, DJe de 25/11/2021.)
+Portanto, as razões apresentadas nos embargos de declaração não evidenciam a existência de nenhum dos vícios previstos no art. 1.022 do CPC/2015; ao revés, todas as questões foram analisadas e decididas, ainda que contrariamente à pretensão da parte embargante, o que, por si só, inviabiliza o acolhimento dos declaratórios.
+Diante do exposto, rejeito os embargos de declaração.
+Publique-se.
