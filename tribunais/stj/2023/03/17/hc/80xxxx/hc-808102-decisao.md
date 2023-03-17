@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de FABIO BAPTISTA apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Agravo em Execução n. 0008679-12.2022.8.26.0521).
+Colhe-se dos autos que a defesa interpôs recurso de agravo em execução contra a decisão do Juízo de primeira instância que indeferiu a progressão do paciente ao regime semiaberto (e-STJ fl. 20).
+O Tribunal de origem negou provimento ao recurso, em acórdão cuja ementa foi assim definida (e-STJ fl. 22):
+Agravo em execução penal - Progressão para o regime semiaberto - Requisito Subjetivo - Atestado de regular comportamento carcerário, histórico prisional conturbado com faltas disciplinares, sendo uma em reabilitação, e cometimento do delito meses após ser solto para apelar em liberdade - Princípio do "in dubio pro societate" - Precedentes - Recurso não provido.
+Daí o presente writ, no qual alega a defesa fazer jus o paciente à progressão de regime, uma vez que, "ao negar provimento ao pedido de progressão de regime, a decisão objurgada, ao entender ausente o requisito subjetivo diante de supostamente a conduta do paciente não estar reabilitada, não levou em consideração a recente alteração da Lei N.º 7.210/84, a qual houve a inserção do §7º do art. 112, Lei de Execução Penal" (e-STJ fl. 7).
+Requer, inclusive liminarmente, a progressão ao regime semiaberto, com base no art. 112, § 7º, da Lei de Execuções Penais (e-STJ fl. 11).
+É o relatório.
+Decido.
+Preliminarmente, cumpre salientar que é competência do relator, em decisão in limine, aplicar jurisprudência pacífica do colegiado, conforme expressamente dispõem os incisos XVIII e XX do art. 34 do Regimento Interno do Superior Tribunal de Justiça, bem como julgados nesse sentido das turmas criminais desta Corte (vide AgRg no HC n. 622.778/RS, relator Ministro NEFI CORDEIRO, Sexta Turma, DJe 10/12/2020; e AgRg no HC n. 622.822/SP, relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, DJe 23/11/2020).
+A questão posta a deslinde refere-se ao requisito subjetivo para a concessão de progressão ao regime semiaberto.
+Nos termos do que dispõe o art. 112 da LEP, o apenado deverá cumprir os requisitos de natureza objetiva (lapso temporal) e subjetiva (atestado de bom comportamento carcerário) para a concessão do benefício da progressão de regime prisional.
+Esta Corte Superior pacificou o entendimento de que, ainda que haja atestado de boa conduta carcerária, a análise desfavorável do mérito do condenado feita pelo Juízo das execuções, ou ainda pelo Tribunal local, com base nas peculiaridades do caso concreto e levando em consideração fatos ocorridos durante a execução penal - v.g. o cometimento de faltas graves -, justifica o indeferimento do pleito de progressão de regime prisional pelo in adimplemento do requisito subjetivo.
+Nesse sentido, confira-se:
+EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. NOVA ORIENTAÇÃO JURISPRUDENCIAL. PROGRESSÃO DE REGIME. AUSÊNCIA DE PREENCHIMENTO DO REQUISITO SUBJETIVO. DECISÃO FUNDAMENTADA EM DADOS CONCRETOS DOS AUTOS. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+III - Para a concessão do benefício da progressão de regime, deve o reeducando preencher os requisitos de natureza objetiva (lapso temporal) e subjetiva (bom comportamento carcerário), nos termos do art. 112 da Lei de Execuções Penais.
+IV - Não se vislumbra qualquer ilegalidade ou arbitrariedade no entendimento consignado pelas instâncias ordinárias, que indeferiram a progressão de regime do sentenciado, ora paciente, em razão da ausência de preenchimento do requisito subjetivo - devidamente fundamentada nas peculiaridades do caso concreto -, sobretudo na ausência de assimilação da terapêutica prisional e persistência na prática delitiva.
+V - Esta Corte possui entendimento consolidado no sentido de ser inviável, na via estreita do habeas corpus, examinar se estão ou não presentes os requisitos subjetivos e objetivos para a progressão de regime prisional, pois demandaria dilação probatória aprofundada.
+Habeas Corpus não conhecido
+(HC 335.082/SP, relator Ministro FELIX FISCHER, QUINTA TURMA, DJe 2/2/2016).
+No caso dos autos, o Tribunal de origem bem evidenciou o histórico prisional desfavorável do paciente, no qual consta a prática de algumas faltas graves, senão vejamos do seguinte excerto do acórdão ora impugnado (e-STJ fl. 23):
+Com efeito, no caso em comento, verifica-se que se atestou o regular comportamento carcerário do agravante (fl. 62), além de possuir histórico prisional conturbado com faltas disciplinares graves e média, sendo esta em reabilitação, e cometer o delito em menos de 4 meses após ser solto para recorrer em liberdade (cf. fls. 63/75).
+Desse modo, tais elementos levaram ao indeferimento do pedido de progressão de regime, uma vez ser recomendada a permanência do sentenciado por maior período no regime mais rigoroso, ressaltando-se que, neste cenário, de rigor a consideração do princípio do in dubio pro societate.
+Nessas circunstâncias, verifica-se que a instância ordinária logrou fundamentar a negativa do benefício mediante elementos concretos, levando em consideração as faltas disciplinares cometidas pelo paciente, o que justificou a conclusão pela ausência de preenchimento do requisito subjetivo para a progressão de regime.
+O entendimento do Tribunal de origem, portanto, está em consonância com o posicionamento desta Corte acerca do tema, conforme demonstra o seguinte precedente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. FALTA DO REQUISITO SUBJETIVO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A teor dos precedentes deste Superior Tribunal, ao indeferir a progressão de regime por inadimplemento do requisito subjetivo, o julgador deve mencionar elementos relacionados ao histórico carcerário do apenado.
+2. A gravidade abstrata dos crimes objeto da execução penal, a longa pena a cumprir e faltas graves muito antigas, isoladamente, não constituem fundamentos idôneos para indeferir o benefício.
+3. A promoção do agravante ao regime semiaberto foi indeferida de forma justificada, com lastro no histórico de infrações disciplinares.
+4. O período de reabilitação das faltas, previsto nos códigos penitenciários de cada unidade federativa, não pode ser adotado como referência para ignorar o comportamento do reeducando, sob pena de transformar o Juiz da Execução em mero chancelador de documentos emitidos pela unidade prisional.
+5. É certo que a lei não dispõe sobre o período depurador do ato de indisciplina, por isso, é necessário suprir a lacuna. Por analogia, o julgador poderá valer-se, por exemplo, de normas que regulamentam a perda dos efeitos de uma tendência antissocial (arts. 64, I, e 94, ambos do CP) ou mesmo do entendimento jurisprudencial sobre a prescrição da pretensão disciplinar, sempre atento às características da falta grave e ao montante de pena a cumprir, para evitar o efeito ad eternum da conduta.
+6. Na espécie, sopesadas as datas da reabilitação e do indeferimento da progressão de regime, e verificado que transcorreram pouco mais de três anos desde a última falta grave (subversão da ordem e disciplina interna), considera-se esse período insuficiente para, no caso concreto (pena de quase 30 anos, com término em 2036), reconhecer o direito ao esquecimento.
+7. Agravo regimental não provido.
+(AgRg no HC 477.887/SP, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 12/3/2019, DJe 25/3/2019, grifei.)
+Não vislumbro, pois, o alegado constrangimento ilegal.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
