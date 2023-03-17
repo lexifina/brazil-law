@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de DAVI HENRIQUE LOPES DE SOUSA, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, proferido no julgamento da Apelação Criminal nº 1500486-13.2021.8.26.0603.
+O paciente foi condenado à pena de 5 anos e 10 meses de reclusão, em regime inicial fechado, mais o pagamento de 583 dias, por infração ao art. 33 c/c o art. 40, VI, da Lei 11.343/06 (tráfico de drogas majorado), por ter em posse 168,209 Kg de maconha.
+Irresignada sua Defesa apelou perante o Tribunal de origem, que rejeitou as preliminares e negou provimento ao recurso, em acórdão assim resumido:
+"ACORDAM, em 6ª Câmara de Direito Criminal do Tribunal de Justiça de São Paulo, proferir a seguinte decisão: "REJEITARAM as preliminares e NEGARAM PROVIMENTO ao recurso. V. U." de conformidade com o voto do relator, que integra este acórdão. O julgamento teve a participação dos Exmos. Desembargadores FARTO SALLES (Presidente sem voto), MACHADO DE ANDRADE E ZORZI ROCHA." (fl. 22)
+No presente writ, sustenta a defesa do Paciente "a inexistência de fundadas razões como critério que justifique a busca na residência do ora paciente, ficou evidenciada tanto pelos testemunhos proferidos em audiência de instrução, explicitando que i) o padrão de patrulha e revista pessoal praticado pelos Policiais militares é ilegal; ii) os critérios utilizados para a busca e apreensão são subjetivos e arbitrários".
+Argumenta que "sem fundadas razões para o ingresso na residência do paciente, percebe-se a ilegalidade da atuação estatal, portanto, inequivocamente tem-se por ilícita a prova da materialidade delitiva, devendo, assim ser declarada conforme o Artigo 157 do Código de Processo Penal, posto que o ingresso na residenciafora feita sem fundada razão" (fl. 7)
+Requer, em sede liminar, "que seja garantido o direito de aguardar o julgamento do Writ neste Egrégio Superior Tribunal em liberdade, concedido, ainda que de ofício, diante do fumus boni iuris e periculum in mora constatados nos autos em comento".
+No mérito, a confirmação da liminar e "que seja conhecida a ilegalidade da atuação policial e, assim, declarada a ilicitude da prova da materialidade devendo ser esta desentranhada dos autos na origem, nos termos dos artigos 157 do Código de Processo Penal" (fl. 21).
+É o relatório.
+Decido.
+Não há como dar seguimento ao pedido.
+O presente writ traz pedido idêntico ao deduzido no HC 752.615/SP, já julgado nesta Corte Superior e em ambos ataca acórdão do Tribunal do Estado de São Paulo, proferido no julgamento da Apelação Criminal nº 1500486-13.2021.8.26.0603.
+Sendo inadmissível a reiteração de pedidos sob pena de ofensa a preclusão consuntiva, ao princípio da unirrecorribilidade recursal e a coisa julgada, resta obstaculizado o conhecimento da impetração.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. INTERPOSIÇÃO DE DOIS RECURSOS. PRINCÍPIO DA UNIRRECORRIBILIDADE E DA PRECLUSÃO CONSUMATIVA. INVIABILIDADE DE ANÁLISE DO ÚLTIMO. ANÁLISE DE PLEITO CONSTANTE DE RECURSO ANTERIOR. REITERAÇÃO. TRÁFICO ILÍCITO DE ENTORPECENTES. PRISÃO PREVENTIVA. REVOGAÇÃO. IMPOSSIBILIDADE. PREENCHIMENTO DOS REQUISITOS LEGAIS. GARANTIA DA ORDEM PÚBLICA. RISCO DE REITERAÇÃO DELITIVA. SUBSTITUIÇÃO POR MEDIDAS CAUTELARES ALTERNATIVAS. NÃO CABIMENTO. DECISÃO FUNDAMENTADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A interposição de dois recursos pela mesma parte contra o mesmo ato judicial inviabiliza a análise do protocolizado por último, por força do princípio da unirrecorribilidade e da preclusão consumativa.
+2. Nos termos do art. 210 do RISTJ, o habeas corpus não pode prosseguir quando é reiteração de pedido anterior deduzido em outro writ.
+3. A imprescindibilidade da prisão preventiva justificada no preenchimento dos requisitos dos arts. 312, 313 e 315 do CPP impede a aplicação das medidas cautelares alternativas previstas no art. 319 do CPP.
+4. A prova da materialidade do delito demanda reexame de fatos e provas, procedimento incompatível com a estreita via do habeas corpus.
+5. Agravo regimental de fls. 154-163 não conhecido e agravo regimental de fls. 144-153 desprovido. (AgRg no RHC n. 162.232/RS, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 10/5/2022, DJe de 13/5/2022.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. POSSE IRREGULAR DE ARMA DE FOGO DE USO PERMITIDO. REITERAÇÃO DO PEDIDO FORMULADO NO FEITO CONEXO HC N. 633.504/SP IMPETRADO ANTERIORMENTE NESTA CORTE. IDENTIDADE DE PARTES, DE PEDIDO E DE CAUSA DE PEDIR. LITISPENDÊNCIA. VIOLAÇÃO DO PRINCÍPIO DA UNIRRECORRIBILIDADE. RECURSO DESPROVIDO.
+1. No HC n. 770.945/PI foi formulada idêntica pretensão à veiculada no presente feito, tendo sido parcialmente conhecido e, nessa extensão, denegado. O presente habeas corpus, portanto, consubstancia mera reiteração de writ anterior, em que há identidade de partes, de pedido e de causa petendi.
+2. Ocorre que não podem ser processados nesta Corte, concomitantemente, habeas corpus (ou o recurso que lhe faça as vezes) nos quais se constata litispendência, instituto que se configura exatamente quando há igualdade de partes, de objeto e de causa petendi.
+3. A jurisprudência do Superior Tribunal de Justiça também não admite a tramitação simultânea de recursos e habeas corpus manejados contra o mesmo ato, sob pena de violação do princípio da unirrecorribilidade.
+4. Agravo regimental desprovido. (AgRg no HC n. 773.624/PI, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 12/12/2022, DJe de 15/12/2022.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. REITERAÇÃO UNIRRECORRIBILIDADE. PRECLUSÃO CONSUMATIVA. PEDIDOS IDÊNTICOS. REEXAME DE MATÉRIA. NECESSIDADE DE AMPLA DILAÇÃO PROBATÓRIA. IMPROPRIEDADE DA VIA ELEITA. AGRAVO DESPROVIDO.
+1. Interpostos dois embargos declaratórios pela mesma parte contra a mesma decisão, não se conhece daquele apresentado posteriormente, por força dos princípios da unirrecorribilidade e da preclusão consumativa.
+2. A análise das alegações concernentes ao pleito de anulação da decisão que reconheceu a falta grave, demandaria exame detido de provas, inviável em sede de writ.
+3. Agravo regimental desprovido. (AgRg no HC n. 702.626/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 22/3/2022, DJe de 25/3/2022.)
+Por tais razões, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se.
