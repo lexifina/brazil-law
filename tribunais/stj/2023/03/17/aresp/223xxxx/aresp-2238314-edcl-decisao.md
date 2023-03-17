@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Distribuidora Tabocão Ltda. contra decisão de fls. 1.188/1.190, que negou provimento a seu agravo ante a incidência da Súmula 7/STJ, pois, tendo o Tribunal de origem concluído que a agravante impugnou ato único de efeitos concretos na sua esfera patrimonial, a saber, Atos COTEPE - ICMS (do 33/2015 ao 64/2019), ratificados pelos Decretos Estaduais 46.926/2015 e 47.923/2020 ao internalizarem o Convênio CONFAZ ICMS 61/2015 e, diante disso, reconhecido a decadência, pois já teria decorrido prazo maior que 120 dias entre a publicação dessas normas e a impetração do mandamus, eventual alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos (cf. fl. 1.190).
+A parte embargante aponta omissão no decisum embargado "com relação ao entendimento mais recente deste C. STJ (2022) de que, quando há contemporaneidade da tributação, não há que se falar em decadência da impetração" (fl. 1.194).
+Aberta vista à parte embargada, foi apresentada impugnação (fls. 1.204/1.207).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Não prospera a irresignação da parte embargante.
+De acordo com o estatuído no art. 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição ou omissão do decisum atacado e, ainda, para corrigir erro material.
+Entretanto, no caso, não se verifica a existência de quaisquer das deficiências em questão, pois a decisão embargada enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+Com efeito, consta na decisão embargada que, tendo o Tribunal de origem concluído que a agravante impugnou ato único de efeitos concretos na sua esfera patrimonial, a saber, Atos COTEPE - ICMS (do 33/2015 ao 64/2019), ratificados pelos Decretos Estaduais 46.926/2015 e 47.923/2020 ao internalizarem o Convênio CONFAZ ICMS 61/2015 e, diante disso, reconhecido a decadência, pois já teria decorrido prazo maior que 120 dias entre a publicação dessas normas e a impetração do mandamus, eventual alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos (cf. fl. 1.190). Dessa forma, negou-se provimento ao agravo em recurso especial, ante a incidência da Súmula 7/STJ.
+Nesse contexto, não podem ser acolhidos embargos declaratórios que, a pretexto da alegada omissão no decisum embargado, traduzem, na verdade, o seu inconformismo com a decisão tomada, pretendendo rediscutir o que já foi decidido.
+Nesse panorama, inexistente qualquer obscuridade, contradição ou omissão
+no julgado embargado, conforme exige o art. 1. 022 do CPC/2015, impõe-se a rejeição dos presentes embargos de declaração.
+ANTE O EXPOSTO, rejeito os embargos de declaração.
+Publique-se.
