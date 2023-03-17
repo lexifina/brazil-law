@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo regimental interposto por ADÃO ALBUQUERQUE BATISTA contra a decisão de fls. 1943-1945, assim ementada:
+"HABEAS CORPUS. PROCESSO PENAL. NULIDADE EM RAZÃO DA AUSÊNCIA DE INTIMAÇÃO PESSOAL DO RÉU DOS TERMOS DA APELAÇÃO. REITERAÇÃO DO PLEITO FORMULADO NO HC N. 670.622/GO. SUPOSTA REFORMATIO IN PEJUS. NARRATIVA DEFICIENTE. WRIT NÃO CONHECIDO. PREJUDICADA A PETIÇÃO DE FLS. 1.936-1.942."
+O Agravante foi condenado à pena de 18 (dezoito) anos e 9 (nove) meses de reclusão pela suposta prática do crime de homicídio qualificado consumado, e à pena de 9 (nove) anos e 2 (dois) meses de reclusão pela suposta prática do crime de tentativa de homicídio qualificado.
+A pena definitiva resultou, assim, em 27 (vinte e sete) anos e 11 (onze) meses de reclusão, a ser cumprida no regime inicial fechado.
+A Corte de origem, apreciando apelação interposta pela Defesa, deu parcial provimento ao recurso para "anular o Júri do crime de homicídio qualificado tentado, e reduzir a pena do apelante do crime de homicídio qualificado consumado" (fl. 1 825).
+Na inicial deste writ, o Impetrante alegou constrangimento ilegal decorrente da ausência de intimação pessoal do Paciente acerca do acórdão prolatado no julgamento da apelação. Assinou, ainda, que os Tribunais não podem reconhecer nulidade absoluta desfavorável ao Acusado "alegada no recurso da acusação, sob pena de afronta ao princípio non reformatio in pejus" (fl. 11), e que o Tribunal de origem teria cassado "os privilégios penais e processuais reconhecidos pela soberania dos jurados" (fl. 17).
+Na decisão ora agravada, não conheci do writ, nos termos da referida decisão (fls. 1943-1945).
+Neste agravo regimental, a Defesa aduz que o Corpo de Jurados reconhecera o privilégio em favor do Condenado concernente à tentativa de homicídio, e que o Tribunal de origem teria cassado tal direito (fl. 1951).
+Reitera a alegação de vício de reformatio in pejus, bem como frisa que "restou anulado pela Câmara Criminal do Tribunal de Justiça do Estado de Goiás somente a metade do julgamento uno feito em Plenário do Júri que, notadamente, a anular somente o recurso apelativo pleiteado pelo Ministério Público, ou seja, nesse ponto em específico o Parquet não quer aceitar a soberania do júri" (sic - fl. 1967).
+Requer, ao final, seja restabelecida a condenação imposta pelo Tribunal do Júri, ou ue seja anulado todo o julgamento, e não apenas parte dele.
+É o relatório. Decido.
+Em consulta ao sítio eletrônico mantido pela Corte de origem (Processo n. 0048765-44.2017.8.09.0110), verifica-se que, após a impetração do presente writ, foi realizado novo julgamento pelo Tribunal do Júri, em 30/06/2022, no qual deliberou-se "pela condenação no delito do artigo 129, §1º, inciso II, do Código Penal. Na dosimetria, fixou-se a pena-base em 04 anos, 03 meses e 10 dias de reclusão. Regime inicial fechado".
+Contra o novo julgamento, a Defesa do Paciente e o Ministério Público estadual interpuseram apelações. O Tribunal a quo, no dia 09/02/2023, provendo a apelação do Parquet estadual, anulou a decisão do Tribunal do Júri na parte que desclassificou a conduta do Paciente, determinando que ele seja submetido a novo julgamento pelo Conselho de Sentença, bem como julgou prejudicada a apelação da Defesa.
+Nesse contexto, diante da modificação do cenário fático-processual que determinou a impetração do presente writ, a insurgência deve ser julgada prejudicada.
+Ante o exposto, JULGO PREJUDICADO o agravo regimental.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. HOMICÍDIOS QUALIFICADOS NA FORMA TENTADA E CONSUMADA. PLEITO DE NULIDADE DO ACÓRDÃO IMPUGNADO. SUPOSTA OFENSA À SOBERANIA DO TRIBUNAL DO JÚRI E AUSÊNCIA DE INTIMAÇÃO PESSOAL DO ACÓRDÃO QUE JULGOU A APELAÇÃO. ALEGADA OCORRÊNCIA DE REFORMATIO IN PEJUS. NOVO JULGAMENTO PELO CONSELHO DE SENTENÇA, ANULADO POR SUPERVENIENTE ACÓRDÃO DO TRIBUNAL A QUO. AGRAVO REGIMENTAL PREJUDICADO.
