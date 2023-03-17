@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo interposto por MUNICÍPIO DE CASCAVEL contra a decisão que inadmitiu o recurso especial fundado no art. 105, III, a, da Constituição Federal, aviado com o objetivo de reformar o acórdão assim ementado, in verbis:
+APELAÇÃO CÍVEL E REEXAME NECESSÁRIO - EMBARGOS À EXECUÇÃO FISCAL - MULTA IMPOSTA PELO PROCON/CASCAVEL - DEMORA EM FILA DE BANCO - SENTENÇA DE PARCIAL PROCEDÊNCIA PARA REDUZIR O VALOR DA MULTA - DECISÃO ADMINISTRATIVA QUE NÃO ATENDEU AOS CRITÉRIOS DA RAZOABILIDADE E DA PROPORCIONALIDADE - ARTIGO 57 DO CÓDIGO DE DEFESA DO CONSUMIDOR E ARTIGO 28 DO DECRETO Nº 2.181/1997 - AUSÊNCIA DE DEMONSTRAÇÃO DE REINCIDÊNCIA OU DE CIRCUNSTÂNCIAS AGRAVANTES - HONORÁRIOS DA SUCUMBÊNCIA ADEQUADAMENTE DISTRIBUÍDOS - RECURSO DE APELAÇÃO NÃO PROVIDO - SENTENÇA MANTIDA EM REEXAME NECESSÁRIO.
+No presente recurso especial, o recorrente alega que a multa aplicada na esfera Administrativa, no valor de R 79.900,00, tem o condão de coibir novas práticas de atos lesivos ao mercado de consumo, não sendo adequada a redução para R$ 4.000,00, o que implicou na violação do art. 57 do CDC.
+Contrarrazões pela manutenção da decisão recorrida.
+Após decisum que inadmitiu o recurso especial foi interposto o presente agravo, tendo o recorrente apresentado argumentos visando rebater os fundamentos da decisão agravada.
+É o relatório. Decido.
+Considerando que o agravante, além de atender aos demais pressupostos de admissibilidade, impugnou a fundamentação da decisão agravada, de rigor o conhecimento do agravo, passando-se ao exame do recurso especial interposto.
+O Tribunal a quo para determinar a redução da multa afirmou, em suma, que o recorrente não demonstrou ter considerado todos as situações previstas no art. 28 do Decreto 2181/97 que estabelece as normas gerais de aplicação das sanções administrativas previstas na Lei 8078/90, não tendo realizado o cotejo entre os fatos e a norma, extrapolando assim, dos critérios da razoabilidade e da proporcionalidade.
+Pois bem, o recorrente não enfrentou o referido argumento, o que inviabiliza o reclamo, incidindo o óbice contido na súmula 283/STF.
+Por outro lado, para chegar a convicção a que chegou o Tribunal a quo tomou como base os fatos e docume ntos constantes dos autos e assim, para analisar a tese do recorrente pelo equívoco do julgador, seria necessário examinar o mesmo conjunto probatório utilizado, o que não é possível no âmbito do recurso especial. Incidência da súmula 7/STJ.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
