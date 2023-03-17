@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de recurso especial interposto pela FAZENDA NACIONAL, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO cuja ementa guarda os seguintes termos (fl. 98):
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. PRESCRIÇÃO INTERCORRENTE. DECRETAÇÃO EX OFFICIO PELO JUIZ. LEI 11.051/2004, QUE ACRESCENTOU O § 4º AO ART. 40 DA LEI DE EXECUÇÃO FISCAL. LEI Nº 11.280/06, QUE DEU NOVA REDAÇÃO AO § 5º DO ARTIGO 219 DO CPC. PRAZO DE PRESCRICIONAL DE CINCO ANOS. ART. 174 DO CTN. RECURSO IMPROVIDO.
+1 -. A Lei 11.051, de 30 de dezembro de 2004, acrescentou ao art. 40 da Lei de Execuções Fiscais o parágrafo 4º, possibilitando ao juiz da execução a decretação de ofício da prescrição intercorrente.
+2- Com o advento da Lei n. 11.280/2006, vigente a partir de 17/05/2006, que deu nova redação ao artigo 219, § 5º, do CPC, basta a efetiva ocorrência da prescrição para que o magistrado a decrete, dispensando-se, inclusive, a oitiva da Fazenda Pública. Precedente do STJ.
+3- O exequente não logrou êxito em promover a citação do executado antes de transcorrer o quinquênio prescricional, contado a partir da constituição do crédito exequendo, quando iniciada a contagem do prazo prescricional de cinco anos, nos termos do art. 174 do CTN.
+4 - Apelação improvida.
+Rejeitados os embargos de declaração opostos (fls. 147-159).
+Nas razões do recurso especial, o ente estadual alega, preliminarmente, ofensa ao art. 535, II, do CPC/1973, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+No mérito, aduz que o acórdão contrariou as disposições contidas nos arts. 135, III, e 174 do CTN. Aduz, em síntese, que não ficou configurada a prescrição.
+Sem contrarrazões (fl. 180), sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 181-182), o que ensejou a interposição de agravo (fls. 184-191).
+Sem contraminuta do agravo (fl. 192), subiram os autos ao STJ, adquirindo a identificação de AREsp n. 469.411/RS, no qual adveio despacho do Ministro Og Fernandes determinando o retorno dos autos à origem porque a questão jurídica objeto do recurso constituiria "tema do Recurso Especial 1.201.993/SP, de relatoria do Min. Herman Benjamin, submetido ao rito dos recursos repetitivos, estabelecido pelo disposto no art. 543-C do CPC e na Resolução n. 8/STJ, cujo processamento se encontra pendente na Primeira Seção" (fl. 206).
+Na origem, o órgão colegiado afirmou não ser o caso de aplicação do referido precedente, visto tratar-se de questão fática diversa da presente no paradigma, no que deixou de exercer o juízo de retratação (fls. 300-315).
+Consequentemente, adveio novo juízo de admissibilidade do Tribunal de origem reencaminhando os autos ao STJ (fls. 333-334).
+É, no essencial, o relatório.
+Conforme relatado, o Tribunal de origem deixou de promover juízo de retratação, pois expressamente consignou que (fl. 314):
+Na hipótese, porém, verifica-se que não é caso de aplicação do Tema 444 do STJ, uma vez que o acórdão recorrido utilizou fundamento diverso para negar provimento ao apelo da Fazenda Pública, qual seja, a ocorrência de prescrição direta do crédito tributário, com base no art. 219, § 5º, do CPC/73, haja vista a ausência de citação da pessoa jurídica devedora, no prazo do art. 174 do CTN, hipótese que teria o condão de interromper o prazo prescricional.
+Por seu turno, por meio da certidão de fl. 323, a Fazenda Pública expressamente consigna que "vem manifestar ciência da decisão que negou provimento a seu recurso/remessa necessária. Diante de expressa autorização técnica acerca da matéria envolvida, a União deixa de recorrer dessa decisão", o que torna prejudicado o apelo nobre, ante a ausência de interesse recursal.
+Ante o exposto, julgo prejudicado o recurso especial.
+Deixo de majorar os honorários advocatícios, tendo em vista que o recurso especial foi interposto contra acórdão publicado na vigência do CPC/19 73, tal como dispõe o Enunciado administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC").
+Publique-se. Intimem-se.
