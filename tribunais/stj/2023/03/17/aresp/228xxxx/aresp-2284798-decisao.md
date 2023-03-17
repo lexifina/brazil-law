@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo interposto por WALLACE DE JESUS DOS SANTOS contra decisão que inadmitiu o recurso especial interposto com fulcro no art. 105, III, "a", da Constituição em oposição ao acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo no julgamento da Apelação Criminal n. 0009067-09.2015.8.26.02.
+O agravante foi condenado como incurso no art. 33, caput, da Lei 11.343/2006, a 5 anos de reclusão, em regime fechado, mais 500 dias-multa; e no art. 12 da Lei 10.826/2003, a 1 ano de detenção, em regime aberto, mais 10 dias-multa.
+Interpostas apelações pelas defesas, o Tribunal de origem proferiu o seguinte acórdão (fl. 465):
+ACORDAM, em sessão permanente e virtual da 3 8 Câmara de Direito Criminal do Tribunal de Justiça de São Paulo, proferir a seguinte decisão: "DERAM PROVIMENTO ao apelo de Elias de Araújo e o absolveram de ambos os delitos que lhe foram imputados, com fulcro no artigo 386, inciso VII, do Código de Processo Penal; NEGARAM PROVIMENTO ao apelo de Wallace de Jesus dos Santos e, de ofício, DECLARARAM EXTINTA SUA PUNIBILIDADE relativamente ao delito previsto no artigo 12 da Lei nº 10.826103, e o fizeram nos termos do artigo 107, inciso IV, c/c. o artigo 109, inciso V e c/c. o artigo 115, do Código Penal, mantendo a sua condenação como incurso no artigo 33, "caput ", da Lei W 11.343/06, à pena de 05 (cinco) anos de reclusão e ao pagamento de 500 (quinhentos) dias-multa, calculados no mínimo legal. V.U." de conformidade com o voto do relator, que integra este acórdão.
+Os embargos de declaração opostos pelas defesas foram rejeitados (fls. 499-501).
+Daí o presente recurso especial, em que a defesa indica violação ao art. 33, § 4º, da Lei 11.343/2006, ao argumento de que, "se com processos em andamento, onde há investigação formal, esta Corte já anota a impossibilidade de que sejam utilizados para negar o redutor, com muito mais razão que meras delações de que o acusado é autor de roubo seja rechaçado como impeditivo ao direito legal" (fl. 513).
+Indica ainda ofensa ao art. 33 do CP, alegando que " a  gravidade em abstrato do delito não é fundamento idôneo a justificar o incremento do regime inicial, mormente porque integra o próprio tipo penal" (fl. 519).
+Requer que seja "aplicado o redutor em grau máximo, nos moldes expostos, com imposição de regime inicial menos gravoso, além da aplicação de todas as benesses pedidas ao acusado" (fl. 519).
+O recurso foi inadmitido com fundamento nas Súmula 283/STF e 7/STJ, originando a presente irresignação, em que se refutam os referidos óbices (fls. 532-533).
+Foi oferecida contraminuta (fls. 554-558).
+O Ministério Público Federal opinou pelo desprovimento do agravo (fls. 574-577).
+É o relatório.
+Decido.
+Presentes os requisitos de admissibilidade, conheço do agravo.
+Passo ao exame das razões expendidas no recurso especial.
+Ao afastar a aplicação do art. 33, § 4º, da Lei 11.343/2006, o Tribunal local assim fundamentou o acórdão (fl. 475):
+No caso dos autos, porém, restou comprovado que o apelante se dedicava à criminalidade; consoante anteriormente salientado, ele foi indicado pelo adolescente Victor Augusto como sendo responsável pelo roubo de automóveis  aliás, uma arma de fogo foi apreendida em sua posse.
+Além disso, a quantidade de entorpecentes que ele mantinha sob sua guarda  650 (seiscentos e cinquenta) porções de cocaína  atestam que ele não era um traficante eventual.
+Como se vê, o relato isolado apontando o recorrente "como sendo responsável pelo roubo de automóveis" (fl. 475), sem a indicação de condenação definitiva associada ao referido fato, não denota habitualidade delitiva, assim como a circunstância da apreensão de arma de fogo, cuja punibilidade foi extinta pela instância antecedente.
+A Sexta Turma desta Corte passou a adotar a orientação de que a existência de ações penais em curso e de registros de atos infracionais, por si só, não constitui fundamento idôneo para afastar a causa de diminuição do tráfico, prevista no art. 33, § 4º, da Lei 11.343/2006 (HC 669.068/PE, rel. Ministro Olindo Menezes (Desembargador convocado do TRF da 1ª Região), SEXTA TURMA, julgado em 14/09/2021, DJe 17/09/2021).
+Ademais, isoladamente consideradas, a natureza e a quantidade do entorpecente apreendido, por si sós, não são suficientes para embasar conclusão acerca da presença das condições obstativas e, assim, afastar o reconhecimento da minorante do tráfico privilegiado. Nesse sentido: AgRg no REsp n. 1.963.358/MS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 17/5/2022, DJe de 23/5/2022.
+Assim, tendo em vista a apreensão de "192,5g (cento e noventa e dois gramas e cinco decigramas) de cocaína" (fl. 466), deve ser provido o recurso para estabelecer a minorante do tráfico privilegiado na fração máxima.
+Incide a causa de diminuição de pena do § 4º do art. 33 da Lei 11.343/06, em 2/3, sobre a pena provisória de 5 anos de reclusão e 500 dias-multa, resultando na pena definitiva de 1 ano e 8 meses de reclusão e 166 dias-multa.
+Ausentes circunstâncias desfavoráveis, cabível a fixação do regime inicial aberto, nos termos do art. 33, § 2º do CP e na dicção da Súmula 440/STJ.
+Cabível a substituição da pena privativa de liberdade por duas penas restritivas de direitos, a serem aferidas pelo Juízo local, pois preenchidos os requisitos do art. 44 do CP.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial, fixando a pena definitiva do recorrente em 1 ano e 8 meses de reclusão, em regime aberto, e 166 dias-multa, substituída a pena privativa de liberdade por duas penas restritiva de direitos, a serem aferidas pelo Juízo local. Determino a soltura incontinenti do paciente (se encarcerado), se por outro motivo não estiver preso
+P. e I.
