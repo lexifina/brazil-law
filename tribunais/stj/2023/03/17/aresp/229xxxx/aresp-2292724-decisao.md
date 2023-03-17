@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por INVESTITERRAS EMPREENDIMENTOS IMOBILIÁRIOS LTDA, contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 29/11/2022.
+Concluso ao gabinete em: 06/03/2023.
+Ação: de indenização por danos materiais e compensação por danos morais ajuizada por JOSÉ DA SILVA em face de ALÔ IMÓVEIS LTDA, EMPREENDIMENTOS IMOBILIÁRIOS BASSOLI, INVESTITERRAS EMPREENDIMENTOS IMOBILIÁRIOS LTDA e RG ADMINISTRADORA E INCORPORADORA DE BENS LTDA.
+Sentença: julgou parcialmente procedente a pretensão inicial, para o fim de condenar as requeridas ao pagamento de indenização por danos materiais no valor de R$ 9.236,71 (nove mil, duzentos e trinta e seis reais e setenta e um centavos).
+Acórdão: negou provimento à apelação da agravante, nos termos da seguinte ementa:
+APELAÇÕES CÍVEIS - AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS EMORAIS DECORRENTES DE VÍCIOS CONSTRUTIVOS - SENTENÇA DEPARCIAL PROCEDÊNCIA - RECURSOS DE TODAS AS PARTES - (1) NÃOCONHECIMENTO DE TÓPICO RECURSAL SOBRE DECADÊNCIA, PORCONFIGURAR MATÉRIA PRECLUSA - (2) ALEGAÇÃO DE CERCEAMENTO DEDEFESA PELO AUTOR - AFASTAMENTO - POSSIBILIDADE DE JULGAMENTODE MÉRITO EM FAVOR DE QUEM INVOCA A NULIDADE - (3) ILEGITIMIDADEPASSIVA - EMPRESAS DEMANDADAS QUE SÃO SÓCIAS DE CONSTRUTORAQUE FINALIZOU SUAS ATIVIDADES APÓS A CONCLUSÃO DOEMPREENDIMENTO - DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA -DISPENSA DA PROVA DO DESVIO DE FINALIDADE OU DA CONFUSÃOPATRIMONIAL - INTELIGÊNCIA DO ARTIGO 28 DO CDC - (4) ALEGAÇÃO DESUPERVENIENTE PERDA DO OBJETO - NÃO ACOLHIMENTO -CANCELAMENTO DA AUDIÊNCIA DE CONCILIAÇÃO PARA VERIFICAÇÃO DOIMÓVEL - DESINTERESSE NA COMPOSIÇÃO COM A SUBSEQUENTE RECUSADO AUTOR EM AUTORIZAR A VISTORIA NO IMÓVEL - (5) INDENIZAÇÃO PORDANOS MATERIAIS - CONSTATAÇÃO DE VÍCIOS CONSTRUTIVOS PELAPROVA PERICIAL PRODUZIDA SOB O CRIVO DO CONTRADITÓRIO E DAAMPLA DEFESA - PREVALECIMENTO DO LAUDO PERICIAL EM RELAÇÃO AOPARECER TÉCNICO ENCOMENDADO UNILATERALMENTE PELO AUTOR -NÃO ACOLHIMENTO DAS IMPUGNAÇÕES QUE NÃO DEMONSTRAMDESACERTO NO TRABALHO DO PERITO JUDICIAL - AFASTAMENTO APENASDA VERBA INCLUÍDA NO ORÇAMENTO A TÍTULO DE IMPREVISTOS, ANTE AAUSÊNCIA DE JUSTIFICATIVA PARA SUA COBRANÇA - INAPLICABILIDADEEM AÇÃO INDENIZATÓRIA DO DISPOSTO NO ART. 18, §1º, DO CDC -MANUTENÇÃO DA TAXA DO BDI ADOTADA NO LAUDO PERICIAL - INCIDÊNCIA DE CORREÇÃO MONETÁRIA A PARTIR DO LAUDO PERICIAL EJUROS MORATÓRIOS A CONTAR DA CITAÇÃO - (6) INDENIZAÇÃO PORDANOS MORAIS - VERIFICAÇÃO DE VÍCIOS CONSTRUTIVOS POUCO DEPOISDA AQUISIÇÃO DO IMÓVEL PELO PROGRAMA HABITACIONAL MINHA CASA,MINHA VIDA - FRUSTRAÇÃO DA EXPECTATIVA EM USUFRUIR A ALMEJADARESIDÊNCIA PRÓPRIA, CONFIGURANDO DANOS EXTRAPATRIMONIAIS -INDENIZAÇÃO DEVIDA, COM A FIXAÇÃO DE EM CONSONÂNCIAQUANTUMCOM OS PRINCÍPIOS DA RAZOABILIDADE E DA PROPORCIONALIDADE, BEMCOMO OS PARÂMETROS ADOTADOS PELA CÂMARA - (7) CONFIGURAÇÃODE SUCUMBÊNCIA RECÍPROCA E REDISTRIBUIÇÃO PROPORCIAL DASRESPECTIVAS VERBAS. Apelações 1, 2 e 4 conhecidas e parcialmente providas; Apelação 3 conhecida em parte e desprovida. (e-STJ fls. 1.162/1.163)
+Embargos de Declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 18, § 1º, 26,II, do CDC, bem como dissídio jurisprudencial.
+Sustenta a incidência do prazo decadencial previsto no art. 26, II, do CDC, uma vez que os vícios construtivos apontados são simples e não afetam a solidez e segurança da construção.
+Assevera a inexistência de reclamação formulada pelo agravado, em prazo anterior ao ajuizamento do feito, sobre possíveis problemas por má ex ecução do empreendimento.
+Ademais, defende a possibilidade de reparar os danos apontados pelo recorrido, como alternativa para o adimplemento da obrigação, consoante previsão contida no diploma consumerista.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da ausência de prequestionamento
+O acórdão recorrido, apesar da interposição de embargos de declaração, não decidiu acerca dos argumentos invocados pela recorrente em seu recurso especial quanto ao prazo decadencial previsto no art. 26, II, do CDC. Na ocasião, elucidou-se a preclusão da temática pela não interposição de recurso de agravo de instrumento em tempo oportuno.
+Dessarte, ausente o requisito do prequestionamento, inviabiliza-se o seu julgamento. Aplica-se, na hipótese, a Súmula 211/STJ.
+- Da existência de fundamento não impugnado
+A agravante não impugnou os seguintes fundamentos utilizados pelo TJ/PR:
+Por fim, não comporta acolhimento a pretensão das Corrés Investiterras e RG, de afastamento da indenização por danos materiais, invocando a recusa do Autor em autorizar a realização de vistoria, nos termos do art. 18, §1º do Código de Defesa do Consumidor.
+Isso porque a presente demanda tem por objeto a pretensão de reparação pelos danos sofridos em decorrência de vícios/defeitos construtivos em imóvel, de modo que se trata de ação indenizatória (danos materiais e morais).
+Por sua vez, o art. 18, § 1º, do CDC se refere à pretensão redibitória, razão pela qual não se aplica ao caso concreto, sendo dispensável a oportunidade ao fornecedor de reparação dos vícios. A propósito  .. . (e- STJ fl. 1.172, grifo nosso)
+Posto isto, deve ser mantido o acórdão recorrido. Aplica-se, na hipótese, a Súmula 283/STF.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1029, §1º do CPC/2015 e 255, § 1º, do RISTJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto aos advogados das partes, uma vez que todas interpuseram recurso especial não conhecido, majoro os honorários fixados anteriormente em 12% sobre o valor da condenação (e-STJ fl. 1.178) para 15%, mantendo-se a distribuição definida pelo Tribunal a quo.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. FUNDAMENTOS DO ACÓRDÃO NÃO IMPUGNADOS. SÚMULA 283/STF. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Ação de indenização por danos materiais e compensação por danos morais.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+3. A existência de fundamentos do acórdão recorrido não impugnados - quando suficientes para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+4. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+5. Agravo conhecido. Recurso especial não conhecido.
