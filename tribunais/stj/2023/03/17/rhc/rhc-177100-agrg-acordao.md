@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de agravo regimental interposto por HAMILTON NUNES MASCARENHAS contra decisão monocrática que negou provimento ao recurso em habeas corpus (e-STJ fls. 224/228).
+Segundo consta dos autos, o agravante foi preso cautelarmente no dia 20/3/2022 e denunciado pela suposta prática do crime de tentativa de feminicídio.
+Nas razões do presente recurso, a Defensoria Pública reitera a alegação de excessiva demora na formação da culpa, ressaltando que o tempo de prisão cautelar se aproxima de um ano, o que configuraria violação ao princípio da duração razoável do processo. Pontua que a audiência foi designada para 18/9/2022, redesignada para 30/9/2022, mas não foi concluída a instrução, à época, porquanto o Ministério Público teria pedido informações sobre o cumprimento da carta precatória para oitiva da vítima.
+Ressalta, por fim, que até a presente data não houve o julgamento do processo.
+Diante disso, pede a reconsideração da decisão agravada ou que o recurso seja julgado pelo colegiado para conceder a ordem, relaxando a prisão preventiva do agravante.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM RHC. TENTATIVA DE FEMINICÍDIO. PRISÃO PREVENTIVA. EXCESSO DE PRAZO. NÃO OCORRÊNCIA. INSTRUÇÃO ENCERRADA. PROCESSO AGUARDANDO SENTENÇA. INCIDÊNCIA DA SÚMULA 52 DO STJ. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. Eventual constrangimento ilegal por excesso de prazo não resulta de um critério aritmético, mas de uma aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto, de modo a evitar retardo abusivo e injustificado na prestação jurisdicional.
+2. No caso, o processo se desenvolve dentro dos limites de razoabilidade. O Tribunal destacou que o juízo processante vem imprimindo esforços, inclusive o réu já teria sido interrogado e encerrada a instrução, contexto que atrai a aplicação do enunciado n. 52 da Súmula desta Corte. Assim, considerando o tempo de prisão, cerca de 11 meses, e o fato de que a instrução já foi encerrada, não se verifica constrangimento ilegal por excesso de prazo. Julgados do STJ.
+3. Agravo regimental desprovido.
+VOTO
+Em que pese o esforço argumentativo da Defensoria Pública, a decisão deve ser mantida.
+Alega-se excesso de prazo para a formação da culpa.
+A Constituição Federal, no art. 5º, inciso LXXVIII, prescreve: "a todos, no âmbito judicial e administrativo, são assegurados a razoável duração do processo e os meios que garantam a celeridade de sua tramitação." No entanto, essa garantia deve ser compatibilizada com outras de igual estatura constitucional, como o devido processo legal, a ampla defesa e o contraditório que, da mesma forma, precisam ser asseguradas às partes no curso do processo.
+Assim, segundo a jurisprudência desta Corte e do Supremo Tribunal Federal, eventual constrangimento ilegal por excesso de prazo não resulta de um critério aritmético, mas de uma aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto, de modo a evitar retardo abusivo e injustificado na prestação jurisdicional. Nesse sentido:
+Acerca da alegação, assim se manifestou o Tribunal (e-STJ fls. 176/177):
+A instrução do feito vem se desenvolvendo dentro de prazo razoável. Segundo os autos, O Ministério Público ofereceu Denúncia, tendo sido recebida pelo Juízo a quo, em 25.04.2022.
+Foi realizada Audiência de instrução e julgamento, no dia 30.09.2022, quando foram ouvidas as testemunhas de acusação. Ao depois, foi designada nova Audiência para o dia 10.11.2022, posteriormente remarcada, por não ter sido localizada a vítima, tendo o Parquet requerido diligência para o cumprimento da Carta Precatória para oitiva da vítima.
+Outrossim, a Primeira Instância vem procedendo diversos esforços para dar celeridade ao feito, com expedição de Ofício ao Cartório para oitiva da vítima, o que não demandará tempo, não havendo, por ora, excesso de prazo.
+Assim, ao contrário do que argumenta a Impetrante, o processo vem tendo regular andamento, já tendo sido finalizada a instrução criminal, com o interrogatório do Acusado.
+Como visto, o processo se desenvolve dentro dos limites de razoabilidade, pois a instrução se iniciou, já foram ouvidas as testemunhas da acusação, tendo sido marcada nova data para audiência porque a vítima não teria comparecido em juízo.
+Além disso, o Tribunal destacou que o juízo processante vem imprimindo esforços, inclusive o réu já teria sido interrogado e encerrada a instrução, contexto informativo que atrai a aplicação do enunciado n. 52 da Súmula desta Corte que assim dispõe: "Encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo." (Súmula n. 52, Terceira Seção, julgado em 17/9/1992, DJ de 24/9/1992, p. 16070.)
+Assim, considerando o tempo de prisão, cerca de 11 meses e o fato de que a instrução já foi encerrada, entendo não haver constrangimento ilegal por excesso de prazo.
+Nesse sentido:
+PROCESSO PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. EXCESSO DE PRAZO NÃO CONFIGURADO. 1. A aferição do excesso de prazo reclama a observância da garantia da duração razoável do processo, prevista no art. 5º, LXXVIII, da Constituição Federal. Tal verificação, contudo, não se realiza de forma puramente matemática. Reclama, ao contrário, um juízo de razoabilidade, no qual devem ser sopesados não só o tempo da prisão provisória mas também as peculiaridades da causa, sua complexidade, bem como quaisquer fatores que possam influir na tramitação da ação penal.
+2. No caso em exame, conforme consta do acórdão vergastado, "o processo tem seguido seu trâmite regular, tendo a própria defesa requerido a postergação do interrogatório e da oitiva das testemunhas por ela arroladas em virtude da expedição de carta precatória para a oitiva das testemunhas arroladas pela acusação", sendo "relevante mencionar que a suspensão da marcha processual decorreu unicamente da vontade da defesa".
+3. Ademais, conquanto a prisão do paciente já perdure por mais de um ano, vê-se que o feito tem tido regular andamento, não havendo que se falar em excesso de prazo. Tanto é assim que, segundo informações obtidas no sítio disponibilizado pelo Tribunal de origem, a instrução já se encerrou, estando o processo na fase de apresentação de alegações finais, o que atrai a incidência do verbete 52 da Súmula desta Corte. 4. Ordem denegada.
+(HC n. 461.763/ES, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 25/9/2018, DJe de 22/10/2018.)
+PROCESSO PENAL. HABEAS CORPUS. HOMICÍDIO DUPLAMENTE QUALIFICADO CONSUMADO. HOMICÍDIO DUPLAMENTE QUALIFICADO TENTADO. MOTIVO FÚTIL. ATOS PRATICADOS À TRAIÇÃO. PRISÃO CAUTELAR. EXCESSO DE PRAZO. INOCORRÊNCIA. FUNDAMENTAÇÃO DA CUSTÓDIA. GRAVIDADE DO CRIME. REPROVABILIDADE CONCRETA. AUSÊNCIA DE ILEGALIDADE MANIFESTA. ORDEM DENEGADA.
+1. A questão do excesso de prazo na formação da culpa não se esgota na simples verificação aritmética dos prazos previstos na lei processual, devendo ser analisada à luz do princípio da razoabilidade, segundo as circunstâncias detalhadas de cada caso concreto.
+2. Na hipótese, examinando a ordem cronológica, verifica-se que a dilação do prazo para o término da instrução não se deu de maneira desarrazoada, mas calcada nas particularidades da causa. A complexidade do feito é evidente, diante da necessidade de expedição de cartas precatórias para interrogatório do réu.
+3. Instrução processual, ademais, encerrada, o que atrai a incidência do enunciado n.º 52 da Súmula do Superior Tribunal de Justiça.
+4. Não é ilegal o encarceramento provisório que se funda em dados concretos a indicar a necessidade da medida cautelar, especialmente em elementos extraídos da conduta perpetrada pelo acusado, quais sejam, a gravidade concreta do delito, demonstrada pela reprovabilidade exacerbada da conduta praticada.
+5. Hipótese em que o homicídio foi cometido com exagerada violência, onde uma das vítimas foi atingida por 17 facadas contra a cabeça e face, além de inúmeros outros golpes em seu dorso, membros superiores e inferiores, antebraço e mão, o que ocasionou seu óbito;
+enquanto a outra fora atacada com o mesmo instrumento, sofrendo lesões na mão esquerda, além de escoriações na mucosa dos lábios.
+6. Ordem denegada.
+(HC n. 310.695/SC, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 3/3/2015, DJe de 9/3/2015.)
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
