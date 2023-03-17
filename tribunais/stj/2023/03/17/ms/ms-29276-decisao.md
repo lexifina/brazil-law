@@ -1,0 +1,12 @@
+DECISÃO
+Cuida-se de mandado de segurança impetrado por ADEVALDO FRANCISCO DA SILVA, com pedido de liminar, contra decisões judiciais proferidas por ANDREA SCHIAVO e outros.
+Sustenta que tem direito líquido e certo à propositura do presente mandado de segurança porque não lhe foi concedida gratuidade de justiça na instância originária e ainda está pendente análise da admissibilidade de recurso extraordinário.
+É, no essencial, o relatório.
+Segundo o art. 105, I, b, da Constituição Federal, que demanda interpretação restritiva, o Superior Tribunal de Justiça é competente para processar e julgar, originariamente, os mandados de segurança impetrados contra ato de ministro de Estado, dos comandantes da Marinha, do Exército e da Aeronáutica ou do próprio Tribunal.
+Aplica-se ao caso, portanto, a Súmula n. 41 do STJ: "O Superior Tribunal de Justiça não tem competência para processar e julgar, originariamente, mandado de segurança contra ato de outros tribunais ou dos respectivos órgãos."
+Importa salientar que o entendimento desta Corte federal é no sentido de que o cabimento de mandado de segurança contra decisão judicial é admitido somente de forma excepcional, quando se tratar de ato manifestamente ilegal e/ou teratológico, se não houver instrumentos recursais próprios na via ordinária, previstos na legislação processual, de modo a impedir a lesão ou a ameaça de lesão a direito líquido e certo, cuja comprovação também dispensa instrução probatória, não sendo a hipótese dos autos, na qual há mera inconformidade com o resultado do julgado que lhe foi negativo, sendo utilizado o mandado de segurança, portanto, indevidamente como um sucedâneo recursal.
+Ressalte-se que a jurisprudência desta Corte federal é pacífica no sentido de que o mandado de segurança não pode ser utilizado como sucedâneo recursal, em decorrência do teor da Súmula n. 267 do STF, sob pena de desnaturação de sua essência constitucional.
+Segue transcrição de precedente:
+O mandado de segurança contra ato judicial é medida excepcional, cabível somente em situações nas quais pode se verificar, de plano, ato judicial eivado de ilegalidade, teratologia ou abuso de poder, que importem ao paciente irreparável lesão ao seu direito líquido e certo. (AgInt no MS 24.230/DF, Corte Especial, Relator Ministro Felix Fischer, DJe de 13/9/2018.)
+Ante o exposto, julgo extinto o mandado de segurança, sem análise do mérito, em face da incompetência absoluta do Superior Tribunal de Justiça.
+Sem condenação em honorários (Súmula n. 105 do STJ).
