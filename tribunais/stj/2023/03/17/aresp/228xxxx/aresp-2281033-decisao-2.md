@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por VIÇÃO SOL DE ABRANTES LTDA, contra decisão que negou seguimento a recurso especial fundamentado na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 22/06/2022.
+Concluso ao gabinete em: 13/02/2023.
+Ação: indenização ajuizada por MARINA OLIVEIRA ROCHA DA SILVA em face da recorrente, tendo em vista as lesões sofridas em razão de queda no interior de ônibus de propriedade da requerida.
+Sentença: julgou parcialmente procedente o pedido para condenar a ré ao pagamento de indenização por danos morais e, ainda, acolheu a denunciação da lide a fim de condenar a seguradora denunciada a indenizar a denunciante em razão da condenação estabelecida.
+Acórdão: negou provimento aos recursos de apelação interpostos pelas partes, nos termos da seguinte ementa (e-STJ, fls. 1.112/1.113):
+APELAÇÕES CÍVEIS SIMULTÂNEAS DAS EMPRESAS ACIONADAS. LIQUIDAÇÃO EXTRAJUDICIAL DA SEGURADORA. IRRELEVÂNCIA. FASE DE CONHECIMENTO. DIREITO CONSTITUCIONAL E DO CONSUMIDOR. CONCESSIONÁRIA DE SERVIÇO PÚBLICO DE TRANSPORTE DE PASSAGEIROS. RESPONSABILIDADE OBJETIVA. FALHA NA PRESTAÇÃO DO SERVIÇO. QUEDA DA USUÁRIA DENTRO DO VEÍCULO. AUSÊNCIA DE PROVA DA CULPA DA VÍTIMA OU DE TERCEIRO. INDENIZAÇÃO POR DANOS MORAIS. VALOR ADEQUADO. SUCUMBÊNCIA RECÍPROCA. PROPORÇÃO ESTABELECIDA DE FORMA CORRETA. RECURSOS NÃO PROVIDOS.
+1. Em primeiro lugar, cumpre afastar as teses suscitadas pela seguradora a respeito da sua condição de empresa em liquidação extrajudicial, posto que a aplicabilidade está adstrita à fase de execução do título, momento diverso do presente, mesmo porquê o procedimento ainda se encontra em estágio de conhecimento.
+2. Sobre o tema debatido, sabe-se que é firme a orientação da jurisprudência do Superior Tribunal de Justiça a respeito da natureza consumerista da relação entre a concessionária de serviço público e os seus usuários, sendo objetiva a responsabilidade pelos danos causados.
+3. Considerando que a demandante imputa a responsabilidade pelo ocorrido à má condução do veículo pelo motorista e que foi deferida a inversão do ônus da prova, nos moldes do art. 6º, VIII, do CDC (id 7736541), caberia à ré comprovar a regularidade na prestação do serviço ou que o sinistro aconteceu por culpa exclusiva da vítima ou de terceiro, o que não ocorreu.
+4. Além disso, a existência de lombada ou buracos na via são intercorrências que estão dentro da margem de previsibilidade e risco da atividade exercida pela empresa, caracterizando fortuito interno.
+5. Considerando a situação de vexame e sofrimento que passou a autora, não é desproporcional a quantia fixada em R$ 20.000,00 (vinte mil reais) a título de danos morais, considerando que a vítima é pessoa idosa, caiu em ônibus na presença de diversas pessoas, sofreu fratura, precisando ser imediatamente encaminhada para atendimento, além da condição financeira dos envolvidos e os parâmetros deste Tribunal.
+6. Por fim, formulados três pedidos na petição inicial - danos estéticos, lucros cessantes e danos morais - e acolhido apenas um deles, é proporcional que seja imposto à ré a parcela dos ônus sucumbenciais na proporção de 30 %. Para mais, de acordo com o entendimento sumulado pelo STJ, "Na ação de indenização por dano moral, a condenação em montante inferior ao postulado na inicial não implica sucumbência recíproca" (Súmula 326, CORTE ESPECIAL, julgado em 22/05/2006, DJ 07/06/2006p. 240).
+Recurso especial: alega, em suma, violação dos seguintes dispositivos: (i) 14 do CDC e 186 do Código Civil, defendendo a "ausência de nexo causal entre eventual conduta do preposto da recorrente e os supostos danos sofridos" (e-STJ, fl. 1.250); (ii) 14, caput e §3º, I, do CDC e 492 do CPC, tendo em vista a fundamentação desconexa do pedido e a ausência de conduta ilícita da recorrente; e (iii) 8º do CPC e 944 do CPC, argumentando a desproporcionalidade da verba indenizatória estabelecida.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da ausência de prequestionamento
+Inicialmente, observa-se que o acórdão recorrido não decidiu acerca do art. 492 do CPC, indicado como violado, não tendo a agravante oposto embargos de declaração com vistas a suprir eventual omissão perpetrada pelo Tribunal de origem.
+Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 282/STF.
+- Da existência de fundamento não impugnado
+Noutro vértice, a agravante também não impugnou o fundamento utilizado pelo TJ/BA de que as testemunhas arroladas pela empresa "não conseguiram atestar as causas que quebram o nexo de causalidade e excluem a responsabilidade do prestador" (e-STJ, fl. 1.121), razão pela qual deve ser mantido o acórdão recorrido. Aplica-se, na hipótese, a Súmula 283/STF.
+- Do reexame de fatos e provas
+Ademais, reconheceu o Tribunal de origem que "não há nada que aponte, portanto, para qualquer indício de culpa exclusiva ou concorrente da vítima ou de terceiros para a ocorrência do sinistro, mas, ao contrário, tudo indica que houve defeito na prestação do serviço por falha na segurança" (e-STJ, fl. 1.122).
+Assim, alterar o decidido no acórdão impugnado, no particular, tal como requerido no recurso, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ, óbice que também incide em relação à alegação de desproporcionalidade da verba indenizatória fixada.
+Com efeito, a Corte local, com base no acervo fático-probatório dos autos, consignou: "considerando a situação de vexame e sofrimento que passou a autora, não é desproporcional a quantia fixada em R$ 20.000,00 (vinte mil reais), considerando que a vítima é pessoa idosa, caiu em ônibus na presença de diversas pessoas, sofreu fratura, precisando ser imediatamente encaminhada para atendimento, além da condição financeira dos envolvidos e os parâmetros deste Tribunal" (e-STJ, fl. 1.127). Logo, não há o que reformar no acórdão recorrido.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 15% sobre o valor da condenação (e-STJ fls. 1.128) para 20%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de indenização.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+3. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. Agravo conhecido. Recurso especial não conhecido.
