@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ELTON CARLOS DOS SANTOS contra acórdão do Tribunal de Justiça do Estado de São Paulo proferido na Apelação Criminal n. 1500555-49.2021.8.26.0537.
+Consta dos autos que o Paciente foi condenado como incurso no art. 33, caput, da Lei n. 11.343/2006, às penas de 5 (cinco) anos e 10 (dez) meses de reclusão e 583 dias multa, em regime fechado (fls. 33-41).
+O recurso de apelação defensivo foi desprovido, conforme acórdão ementado nos seguintes termos (fl. 76):
+"Tráfico de Drogas Recurso da Defesa - Prova segura Confissão judicial da corré corroborada pelos depoimentos policiais convincentes e coerentes - Inexistência de coação moral irresistível - Condenação mantida - Dosimetria - Primeira fase - Pena fixada acima do mínimo legal, tendo em vista a variedade de drogas - Segunda fase - Confissão da corré que reduziu a pena ao mínimo legal - Agravante da prática do crime em estado de calamidade pública não reconhecida na sentença - Terceira Fase - Impossibilidade de aplicação do redutor do artigo 33, §4º da Lei 11343/06 - Apelantes envolvidos com organização criminosa - Natureza nociva da droga apreendida e sua quantidade - Regime fechado único cabível na hipótese - Não cabimento da substituição da pena privativa de liberdade por restritivas de direitos - Recurso improvido."
+No presente writ, a Defesa requer "que a referida ordem de Habeas Corpus seja recebido e julgado procedente, a fim de ABSOLVER o Paciente no crime imputado no 33 c.c. 29, da Lei 11.343/06,reconhecer todas as atenuantes em seu grau maximo nos termos do Artigo 65 inciso III do Código Penal em relação ao crime do artigo 33 "Caput", da Lei 11.343/06. Por fim, que seja fixado o regime semiaberto para o inicio do cumprimento de pena." (fl. 17).
+É o relatório. Decido.
+No HC n. 754648/SP, distribuído no dia 06/07/2022, foi formulada idêntica pretensão, em favor do ora Paciente, tendo sido a ordem denegada, em 26/10/2022, com trânsito em julgado para a Defesa em 08/11/2022.
+O presente writ, portanto, é mera reiteração de pedido anterior, em que há identidade de partes, de pedido e de causa de pedir, além de impugnarem ambas o mesmo acórdão e a mesma matéria.
+Ocorre que não podem ser processados nesta Corte habeas corpus em que se constata litispendência, instituto que se configura exatamente quando há igualdade de partes, de objeto e de causa de pedir.
+Assim, concluo pela inadmissibilidade do habeas corpus, porquanto "não pode ser conhecida a impetração que veicula mera reiteração de pedido já formulado em writ anteriormente impetrado nesta Corte". No mesmo sentido, v.g.: HC 519.170/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 15/10/2019, DJe 21/10/2019; EDcl no AgRg no HC 532.973/RS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 10/10/2019, DJe 15/10/2019.
+Ante o exposto, com fundamento no art. 34, inciso XVIII, alínea a, do RISTJ, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. REITERAÇÃO DO PEDIDO FORMULADO NO HC N. 754.648/SP. LITISPENDÊNCIA. PETIÇÃO LIMINARMENTE INDEFERIDA.
