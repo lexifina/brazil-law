@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por AROLDO FELINTO DE ARAÚJO (AROLDO) contra decisão que negou seguimento ao seu apelo nobre.
+Não foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alínea a, da Constituição Federal, AROLDO alegou a violação dos arts. 157, 167, §1º, 360, 421 e 422 do Código Civil, ao sustentar que (1) houve a quitação do primeiro contrato (Cédula de Crédito Bancária de Capital de Giro), no qual ARALDO figurou como avalista, devendo ser declarado nulo o segundo contrato (Confissão de Dívida), por vícios do negócio jurídico, in casu, simulação e lesão, pois, na qualidade de avalista, ARALDO não fora informado sobre a real situação financeira da relação contratual; (2) os imóveis dados como garantia do contrato são rurais e possuem reserva legal, portanto só poderiam ser alienados mediante autorização do INCRA.
+(1) Da ocorrência de vícios no negócio jurídico
+Trata-se de ação revisional ajuizada por AROLDO contra o BANCO SANTANDER S/A (BANCO), em que alega ter firmado um contrato de Crédito Bancário de Capital de Giro, na qualidade de avalista, ofertando como garantia dois imóveis rurais. Sustentou que o BANCO destinou, sem o seu conhecimento, o valor do empréstimo para quitar contratos alheios que possuía com a pessoa jurídica Felinto Indústria e Comércio Ltda, emitente da cédula de crédito. Objetivou a revisão do contrato, bem como a declaração de nulidade do aval concedido.
+Ao dirmir a controvérsia, o Tribunal de Justiça do Estado da Paraíba assim se manifestou:
+Ao contrário das alegações deduzidas pelo apelante, resta clarividente que o contrato foi legalmente celebrado entre as partes, não evidenciando nenhum vício de negócio jurídico capaz de gerar nulidade na avença.
+A empresa Felinto Indústria E Comércio Ltda, cujo apelante figura como avalista, firmou contrato de crédito bancário KG nº 271099012, no valor de R$ 6.036.278,20 (seis milhões, trinta e seismil, duzentos e setenta e oito reais e vinte centavos) com o banco apelado. Na referida avença, o promovente, ora recorrente, ofertou como garantia dois imóveis rurais, devidamente registrados no Cartório do 1º Ofício de Mamanguape/PB.
+Em decorrência de inadimplência contratual, a instituição financeira credora, ora recorrida, promoveu a execução extrajudicial contra a empresa e seus avalistas, alienando os bens dados em garantia.
+Diante de tal fato, alega o insurgente que teria sido enganado pelo banco insurgido, mediante a ocorrência de simulação de negócio jurídico, posto que teria avalizado unicamente o crédito no valor de R$ 6.036.278,20, com a finalidade de inserir tal quantia como capital de giro na empresa Felinto Indústria E Comércio Ltda. No entanto, o banco destinara tal valor para quitar contratos alheios à relação sem o seu conhecimento.
+Pois bem. Tal arguição da parte apelante não merece acolhida.
+Analisando os autos, vislumbro que a cláusula 2ª do aludido contrato de crédito bancário KG nº 271099012 não deixa dúvida ao prever que a operação de crédito representa uma novação da dívida descrita no quadro VII do preâmbulo, referente à Cédula de Crédito Bancário - Capital de Giro nº4586-300000001240, no valor de R$ 6.176.000,00 (seis milhões, cento e setenta e seis mil reais), celebrado em 31/10/2011 e vencida em 31/10/2015.
+Ressalte-se que o autor, ora recorrente, aderiu voluntariamente à avença, na qualidade de avalista, e, portanto, presumidamente cônscio de seus termos, conforme firma constante no instrumento contratual.
+A alienação fiduciária do imóvel representa garantia autônoma ao empréstimo concedido para o devedor/fiduciante, e o oferecimento de aval, por sua vez, confere uma maior garantia ao credor, facultando-lhe a possibilidade de cobrar a dívida diretamente dos avalistas enquanto devedores solidários.
+Resta clarividente que houve, no caso em disceptação, uma novação da dívida, porquanto restou evidente a extinção da avença anterior e a substituição da dívida pelo novo contrato, estando, portanto, suficientemente preenchidos os requisitos contidos no dispositivo do art. 360 do Código Civil.
+Dessa forma, não se vislumbram quaisquer hipóteses previstas de ocorrência de simulação e lesão, capazes de macular o negócio jurídico, porquanto a pretensão dos contratantes resta expressamente prevista no instrumento de avença, notadamente a novação de dívida referente a contrato anterior celebrado entre as mesmas partes.
+Os excertos transcritos deixam patente que os ilustres desembargadores resolveram a pendência levando em consideração elementos específicos da presente demanda e nas cláusulas contratuais . Noutras palavras, somente procedendo a uma nova incursão ao universo fático-probatório deste processado se poderia abandonar a conclusão judiciária para acolher os argumentos de AROLDO, no sentido de que o contrato de Cédula de Crédito Bancário possui os vícios de simulação e lesão, o que é vedado pelas Súmulas 5 e 7 do STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. EMBARGOS À EXECUÇÃO. CERCEAMENTO DE DEFESA. JULGAMENTO ANTECIPADO DA LIDE. NÃO OCORRÊNCIA. SIMULAÇÃO. AFASTAMENTO. TÍTULO EXECUTIVO HÁBIL. COBRANÇA. JUROS COMPOSTOS. INEXISTÊNCIA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. TÍTULO DE CRÉDITO. PROTESTO EM COMARCA DIVERSA DA ESTIPULADA PARA O PAGAMENTO. AUSÊNCIA DE NULIDADE DO TÍTULO. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL DESPROVIDO.
+1. Não há cerceamento de defesa quando o julgador, ao constatar nos autos a existência de provas suficientes para o seu convencimento, indefere pedido de produção de outras provas. Cabe ao juiz, como destinatário da prova, decidir, motivadamente, sobre os elementos necessários à formação de seu entendimento, determinando as provas necessárias e indeferindo as inúteis ou protelatórias.
+2. No caso em apreço, o eg. Tribunal a quo, à luz das provas existentes nos autos, concluiu pela não ocorrência de simulação a ensejar a anulação do negócio jurídico em questão, bem como não ter ocorrido nenhuma cobrança de juros compostos.
+3. A modificação de tais entendimentos lançados no v. acórdão recorrido, nos moldes em que ora postulada, demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável na via estreita do recurso especial, a teor do que dispõe a Súmula 7 do Superior Tribunal de Justiça.
+4. A existência de protesto em comarca diversa daquela estipulada para o pagamento não acarreta nulidade do título (AgInt no REsp 1.721.792/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 24/09/2018, DJe de 27/09/2018).
+5. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para negar provimento ao recurso especial.
+(AgInt no AREsp 2014716 / SP, Rel Ministro RAUL ARAÚJO, Quarta Turma, j. 28/11/2022 - sem destaques no original).
+(2) Necessidade de autorização do INCRA para alienação dos imóveis
+Quanto a essa controvérsia, aplicável o óbice da Súmula 284/STF, porque a parte recorrente não apontou de forma clara e objetiva o dispositivo de lei viabilizador do recurso especial, evidenciando a deficiência na fundamentação.
+Inclusive, no tocante ao tema, o Tribunal estadual apontou que o argumento de AROLDO carece de amparo legal.
+A propósito:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DANO MORAL. PRETENSÃO DE APRECIAÇÃO DE TESE CONSTITUCIONAL, EM RECURSO ESPECIAL. MANIFESTO DESCABIMENTO. NÃO ESPECIFICAÇÃO DOS DISPOSITIVOS LEGAIS EVENTUALMENTE VIOLADOS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. APLICAÇÃO DA SÚMULA N. 284/STF. ALEGADA OFENSA DE ENUNCIADO DE SÚMULA. SÚMULA N. 518/STJ. MULTA DO ART. 1.021, § 4º, DO CPC/2015. ANÁLISE CASUÍSTICA. NÃO OCORRÊNCIA, NA ESPÉCIE. MAJORAÇÃO DOS HONORÁRIOS RECURSAIS. AGRAVO INTERNO IMPROVIDO.
+1. Conforme a jurisprudência do Superior Tribunal de Justiça, é inviável o exame de afronta a dispositivos constitucionais na via do recurso
+especial, instrumento processual que se destina a garantir a autoridade e aplicação uniforme da legislação federal.
+2. O entendimento deste Superior Tribunal é firme no sentido de que, não sendo apontado de forma clara e objetiva o dispositivo de lei viabilizador do recurso especial, evidencia-se a deficiência na fundamentação, a atrair a incidência da Súmula 284/STF.
+3. Não cabe ao Superior Tribunal de Justiça apreciar a violação a enunciado de súmula em recurso especial, visto que o referido normativo não se insere no conceito de lei federal, previsto no art. 105, III, a, da Constituição Federal, consoante dispõe a Súmula 518 desta Corte.
+4. O mero não conhecimento ou a improcedência de recurso interno não enseja a automática condenação à multa do art. 1.021, § 4º, do CPC/2015, devendo ser analisado caso a caso.
+5. Fixados os honorários recursais no primeiro ato decisório, não cabe
+novo arbitramento nas demais decisões que derivarem de recursos
+subsequentes, apenas consectários do principal, tais como agravo interno e embargos de declaração.
+6. Agravo interno improvido.
+(AgInt no AgInt no AREsp n. 2.072.515/SP, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 22/8/2022, DJe de 24/8/2022 - sem destaque no original).
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em favor do BANCO, limitados a 20%, nos termos do art. 85, § 11, do NCPC.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. AGRAVO EM RECURSO ESPECIAL MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO REVISIONAL. CÉDULA DE CRÉDITO BANCÁRIO. VÍCIOS NO NEGÓCIO JURÍDICO. SIMULAÇÃO E LESÃO. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO .
