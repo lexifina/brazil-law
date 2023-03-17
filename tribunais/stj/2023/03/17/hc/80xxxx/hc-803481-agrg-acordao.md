@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT) e Laurita Vaz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trago à apreciação da Sexta Turma o agravo regimental interposto por Genivaldo dos Santos Maciel - preso preventivamente, desde 25/11/2022, por ordem do juízo da Vara Única de São Domingos do Capim/PA, nos autos da Ação Penal n. 0000267-05.2007.8.14.0052 (migrado ao sistema PJE), na qual responde pelo crime de latrocínio, previsto no art. 157, §3º do CP/40 (fl. 56) - contra a decisão, da lavra da Ministra Presidente deste Superior Tribunal, que indeferiu liminarmente o writ impetrado a favor do ora agravante (fls. 69/71).
+Alega a parte agravante, em suma, que se verifica ausência de contemporaneidade na prisão cautelar disposta nos autos (fl. 8).
+Informa que a decisão que decretou a prisão do paciente foi proferida em 28/8/2008, com base na fuga do distrito da culpa, após recebimento da denúncia e citação por edital dos acusados (com a suspensão do processo nos termos do art. 366 do CPP), sendo cumprida somente em 25/11/2022.
+Requer, assim, o relaxamento da prisão cautelar, nos seguintes termos (fls. 12/13):
+ ..
+a) SEJA CONCEDIDA A ORDEM, EM CARÁTER LIMINAR, ao Paciente Genivaldo dos Santos Maciel, que na forma do artigo 5º, inciso LXVI, da Constituição Federal da República e nos art. 282, §5º, §6º, art. 315 caput, e §2º e art. 316, todos do Código de Processo Penal, com a nova redação da lei 13.964/19, requer a Vossa Excelência, a revogação da prisão preventiva com o recolhimento do mandado de prisão preventiva ou a expedição da contraordem, tendo em vista, a ausência dos pressupostos autorizadores da prisão preventiva, art. 312 e art. 313, do CPP, de igual modo, existem outros meios diversos da prisão capazes de impedir a reincidência delitiva, como é o caso do monitoramento eletrônico, feito por tornozeleira, contido no art. 319, inciso IX, do CPP, sendo este instrumento hábil e eficaz de rastreamento, vigilância e controle das atividades do paciente. Bem como, não há fatos novos, atuais e/ou contemporâneos que justifiquem a manutenção do decreto prisional. Ressalta-se que não existe fator impeditivo a substituição da prisão preventiva por medidas cautelares que Vossa Excelência entender conveniente e oportuna.
+b)Seja no mérito concedido em definitivo a ordem pelas mesmas razões expostas.
+ ..
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. DIREITO PENAL. ART. 157, § 3º, DO CÓDIGO PENAL. LATROCÍNIO COM RESULTADO MORTE.
+PRISÃO PREVENTIVA. FUGA DO DISTRITO DA CULPA. SUPRESSÃO DE INSTÂNCIA. WRIT IMPETRADO CONTRA DECISÃO MONOCRÁTICA DO RELATOR. SÚMULA 691/STF. APLICABILIDADE. FUNDAMENTAÇÃO. TERATOLOGIA OU ILEGALIDADE. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+1. As Turmas integrantes da Terceira Seção deste Superior Tribunal, na esteira do preceituado no enunciado da Súmula 691/STF, têm entendimento pacificado no sentido de não ser cabível a impetração de habeas corpus contra decisão de relator indeferindo medida liminar, em ação de igual natureza, ajuizada nos Tribunais de segundo grau, salvo a hipótese de inquestionável teratologia ou ilegalidade manifesta.
+2. A parte agravante não reuniu elementos suficientes para infirmar o decisum agravado, o que autoriza a sua manutenção.
+3. Agravo regimental improvido.
+VOTO
+As razões trazidas no regimental não são suficientes para infirmar o entendimento exposto na decisão ora agravada, que foi amparada em precedentes deste Superior Tribunal.
+Nesse contexto, as Turmas integrantes da Terceira Seção do STJ, na esteira do preceituado no enunciado da Súmula 691/STF, têm entendimento pacificado no sentido de não ser cabível a impetração de habeas corpus contra decisão de relator indeferindo medida liminar, em ação de igual natureza, ajuizada nos Tribunais de segundo grau, salvo a hipótese de inquestionável teratologia ou ilegalidade manifesta.
+Tal posicionamento pode ser afastado apenas em situações excepcionais se evidenciada a configuração de flagrante ilegalidade ou abuso de poder, o que aqui não se observa.
+Todavia, no presente caso, o Relator a quo, ao avaliar o pedido então apresentado na origem, simplesmente constatou a ausência dos pressupostos autorizadores da medida requerida. E nisso não há nenhum constrangimento ilegal.
+Diante da inadmissível supressão de instância, convém aguardar o trâmite regular do julgamento na origem, a fim de permitir que o órgão competente analise em maior profundidade a matéria ali levantada.
+No caso, inclusive, sobre os fundamentos da prisão cautelar do ora agravante, o decisum do Juízo da Vara Única de São Domingos do Capim/PA, nos autos da Ação Penal n. 0000267-05.2007.8.14.0052 (migrado ao sistema PJE), explicitou o seguinte (fl. 54 - grifos no original):
+ ..
+Em análise detida dos autos, entendo que os motivos ensejadores do decreto prisional mantém-se presentes, não havendo alteração fática a justificar a revogação da prisão ou substituição por medidas cautelares diversas da prisão.
+Há nos autos prova da existência do crime de latrocínio com resultado morte e indícios suficientes de autoria, que recaem nas pessoas qualificadas na denúncia, tanto que a denúncia foi recebida.
+E, após o cometimento do crime, os réus deixaram o distrito da culpa, criando óbices para a instrução criminal.
+Apesar de o advogado do réu dizer que o réu tem residência fixa, o Sr. Oficial de Justiça não logrou êxito em localizá-lo e nem mesmo a autoridade policial, já que consta mandado de prisão em vigor e ainda sem cumprimento.
+Com relação ao periculum in mora, entendo que os motivos constantes da decisão que decretou a prisão do réu permanecem válidas, sendo desnecessária a sua transcrição.
+Ante a periculosidade da conduta em tese praticado pelo réu (esfaquearam a vítima em sua residência, com 5 facadas, para subtrair a quantia de R$ 250,00, levando a vítima ao óbito), a manutenção da prisão se mostra necessária para a conveniência da instrução processual, uma vez que não foram ouvidas as testemunhas da acusação, assegurar a aplicação da lei penal, já que o réu esta evadido , bem como para garantia da ordem pública, já que a conduta do réu e seu comparsa afligiam toda a comunidade local.
+Por essas razões, acolho a manifestação ministerial e indefiro o pedido de revogação da prisão do réu GENILSON, não havendo medidas cautelares diversas da prisão suficientes ao caso em concreto, no momento.
+ ..
+É pacífico o entendimento desta Corte que a fuga do distrito da culpa é fundamento válido à segregação cautelar, forte da asseguração da aplicação da lei penal." (AgRg no HC n. 568.658/SP, Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 4/8/2020, DJe 13/8/2020.) (PExt no HC n. 662.298/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 17/2/2023.)
+Segundo a jurisprudência deste Superior de Justiça, não há ilegalidade, por ausência de contemporaneidade do decreto cautelar, nas hipóteses em que o transcurso do tempo entre a sua decretação e o fato criminoso decorre das dificuldades encontradas no decorrer das investigações, exatamente a hipótese dos autos. Precedentes (RHC 137.591/MG, Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 18/05/2021, DJe 26/05/2021) (AgRg no HC n. 788.802/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 19/12/2022.)
+Assim, reafirmo a motivação por mim adotada na decisão ora agravada e nego provimento ao agravo regimental.
