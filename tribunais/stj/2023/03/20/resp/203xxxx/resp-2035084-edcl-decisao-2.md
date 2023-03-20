@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por Porfirio Gilberto Terra Gomes à decisão desta relatoria proferida nos termos da seguinte ementa (e-STJ, fls. 386-391):
+RECURSO ESPECIAL. AÇÃO REVISIONAL. CONTRATOS DE MÚTUO. PRESCRIÇÃO DECENAL. TERMO INICIAL. DATA DA ASSINATURA DO AJUSTE. REPACTUAÇÃO. CONTINUIDADE NEGOCIAL. ASSINATURA DO ÚLTIMO CONTRATO RENOVADO. RECURSO ESPECIAL DESPROVIDO.
+Em suas razões (e-STJ, fl. 399), o embargante aduz haver omissão na decisão embargada, ao argumento de que não houve a majoração dos honorários advocatícios em virtude do desprovimento do recurso especial interposto pela embargada.
+Impugnação à fl. 406 (e-STJ).
+Brevemente relatado, decido.
+Com efeito, nos termos do art. 1.022 do CPC/2015, são cabíveis embargos de declaração para esclarecer obscuridade ou eliminar contradição; suprir omissão de ponto sobre o qual deveria se pronunciar o juiz de ofício ou a requerimento; ou corrigir erro material.
+O recurso em comento visa unicamente aperfeiçoar as decisões judiciais, de modo a prestar a tutela jurisdicional de forma clara e completa, não tendo por finalidade revisar ou anular decisões. Apenas excepcionalmente, ante o aclaramento de obscuridade, desfazimento de contradição ou supressão de omissão, prestam-se os aclaratórios a modificar o julgado.
+No caso em estudo, considerando o desprovimento do recurso especial interposto por Fundação Corsan Dos Funcionários Da Companhia Riograndense de Saneamento - Corsan, ora embargada, de fato, foi omissa a decisão recorrida no tocante à majoração dos honorários sucumbenciais prevista no art. 85, § 11, do CPC/2015.
+Segundo a jurisprudência do Superior Tribunal de Justiça, "é devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do NCPC, quando estiverem presentes, simultaneamente, os seguintes requisitos: a) decisão recorrida publicada a partir de 18/3/2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso" (AgInt nos EREsp 1.539.725/DF, relator Ministro Antônio Carlos Ferreira, Segunda Seção, julgado 9/8/2017, DJe 19/10/2017).
+Da análise dos autos, constata-se que foram preenchidos os requisitos cumulativos fixados no precedente acima mencionado, sendo devida, por conseguinte, a majoração dos honorários advocatícios sucumbenciais, com base art. 85, § 11, do CPC/2015.
+Ante o exposto, acolho os embargos de declaração de Porfirio Gilberto Terra Gomes, para integrar a decisão recorrida, a fim de, nos termos do art. 85, § 11, do CPC/2015, majorar os honorários em favor dos advogados da parte ora embargante em 2% (dois por cento) sobre o valor do proveito econômico.
+Fiquem as partes cientificadas de que a insistência injustificada (ou desnecessária) no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS RECURSAIS. OMISSÃO CONFIGURADA. EMBARGOS DE DECLARAÇÃO DE PORFIRIO GILBERTO TERRA GOMES ACOLHIDOS.
