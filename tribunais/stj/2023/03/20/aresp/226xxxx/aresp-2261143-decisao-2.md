@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto por OPPORTUNITY FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS IMOBILIÁRIOS e Outro contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+AGRAVO DE INSTRUMENTO. Embargos à execução. Decisão proferida que concedeu efeito suspensivo aos embargos e omitiu-se quanto a existência de cláusula compromissória arbitral nos Instrumento de Confissão de dívida. Irresignação dos embargados. Alegação de incompetência do juízo ante a existência de cláusula arbitral, bem como, de impossibilidade deconcessão de efeito suspensivo considerando que os devedores não garantiram a execução. Lei de arbitragem (9.307/96) possui regra específica para os contratos de adesão em seu art. 4º, § 2º, exigindo anuência expressa das partes quanto à convenção de arbitragem, o que não ocorre na presente demanda. Já quanto ao deferimento de efeito suspensivo aos embargos, com razão o agravante. Decisão que determinou a suspensão da execução sem a prévia garantia do Juízo. Inteligência do art. 919, § 1º do CPCP/2015 que condiciona a atribuição de efeito suspensivo aos embargos quando verificados os requisitos ali dispostos. Ausência de garantia do juízo. Reforma dadecisão recorrida que se impõe. RECURSO AO QUAL SE DÁPROVIMENTO" (fls. 133/134, e-STJ).
+Os embargos de declaração foram rejeitados (fls. 228/230, e-STJ).
+No recurso especial, os recorrentes alegam, além de divergência jurisprudencial, violação dos seguintes dispositivos, com as respectivas teses:
+(i) artigos 489, § 1º, II, e 1.022, II, do Código de Processo Civil de 2015 - porque o Tribunal de origem teria deixado de se manifestar acerca da alegação de que os contratos de confissão de dívida celebrados entre as partes não configuram contrato de adesão, tendo sido sua assinatura precedida de ampla negociação, com a assessoria de advogados, conforme demonstram os documentos juntados e
+(ii) artigos 4º, § 2º, e 8º, parágrafo único, da Lei 9.307/1996 e 485, VII, do CPC/2015 - porque vige no nosso ordenamento jurídico o princípio Kompetenz-Kompetenz, segundo o qual cabe ao árbitro proferir decisão acerca da alegada nulidade da cláusula arbitral, bem como do contrato que a contém. Trata-se de discussão, portanto, que não se dará originariamente no âmbito do Poder Judiciário. Cita julgados em abono a sua tese.
+Apontam a existência de divergência jurisprudencial, indicando como paradigma o REsp nº 1.276.872/RJ.
+O recurso especial foi inadmitido pela decisão de fls. 378/390 (e-STJ) dando ensejo à interposição do presente agravo.
+Contraminuta às fls. 540/551 (e-STJ).
+É o relatório.
+DECIDO.
+A irresignação merece acolhida.
+Com efeito, conforme se colhe dos autos, o Juízo de primeiro grau, ao dar efeito suspensivo aos embargos à execução, deixou de analisar a alegação dos recorrentes de que seria incompetente para a análise do feito , pois os instrumentos de confissão de dívida executados conteriam cláusula arbitral.
+A Corte de origem, nessa parte, entendeu que por se tratar de contrato de adesão, os recorridos precisariam ter aderido expressamente com a instituição da arbitragem, o que não ocorreu:
+"(..)
+Inicialmente afasto a alegada incompetência do juízo com base na existência de cláusula arbitral nos contratos de confissão de dívida. Isso porque, quanto à referida cláusula, tem-se que a Lei de Arbitragem( Lei 9.307/96), possui regra específica para os contratos de adesão, assim dispondo:
+(..)
+Nesse sentido, em que pesem os argumentos expendidos pela agravante, não lhe assiste razão, considerando que não há nos autos documento comprobatório de que os embargantes aderiram à cláusula por sua iniciativa ou expressamente mediante assinatura ou visto especialmente para a referida cláusula, que deveria estar em destaque, em observância à legislação supracitada.
+Assim, forçoso reconhecer que a alegada incompetência do juízo para julgar e processar os embargos à execução em razão da existência de cláusula compromissória contratual deve ser de pronto afastada" (fls. 135/136, e-STJ - grifou-se).
+Nos embargos de declaração, os recorrentes afirmaram que os instrumentos de confissão de dívida não se confundem com contratos de adesão, já que seus termos foram amplamente debatidos pelas partes, conforme documentação que juntou.
+A Corte de origem, porém, deixou de se manifestar sobre referida alegação (fls. 228/230, e-STJ), restando caracterizada a violação do artigo 1.022 do Código de Processo Civil de 2015.
+Com efeito, o não enfrentamento pela Corte de origem de questões ventiladas nos aclaratórios e imprescindíveis à solução do litígio implica violação do art. 1.022 do CPC/2015, tanto mais que se revela inadmissível o recurso especial que trate de tema não analisado pela instância de origem a despeito da oposição de aclaratórios, porquanto ausente o requisito do prequestionamento nos termos da Súmula nº 211 do Superior Tribunal de Justiça.
+A propósito:
+"RECURSOS ESPECIAIS. PROCESSUAL CIVIL. DIREITO EMPRESARIAL. SOCIEDADE ANÔNIMA DE CAPITAL FECHADO. LUCRO LÍQUIDO. DISTRIBUIÇÃO. DIVIDENDOS. PODER DE CONTROLE. POSSÍVEL ABUSO. ART. 1.022 DO CÓDIGO DE PROCESSO CIVIL DE 2015. VIOLAÇÃO. VÍCIOS NÃO SANADOS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Constatada a existência de vícios não sanados no acórdão proferido pelo tribunal local, apesar de opostos aclaratórios, é de rigor o reconhecimento da violação do art. 1.022 do Código de Processo Civil de 2015 por negativa de prestação jurisdicional, com a determinação de retorno dos autos à origem para que se realize novo julgamento.
+3. Recurso especial de B. de R. P. L. provido. Recursos especiais de E. B. S.A. e de R. S. I. E. S.A. prejudicados.
+(REsp nº 1.919.917/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 8/2/2022, DJe de 18/2/2022)
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial e anular o acórdão que julgou os embargos de declaração, determinando o retorno dos autos ao Tribunal de origem para que se manifeste acerca das alegações de que os instrumentos de confissão de dívida não constituem contratos de adesão, na forma da fundamentação.
+Publique-se.
+Intimem-se.
