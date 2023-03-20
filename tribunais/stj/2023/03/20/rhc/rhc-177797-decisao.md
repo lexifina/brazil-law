@@ -1,0 +1,11 @@
+DECISÃO
+MATHEUS CALDEIRA ALVES DE SOUSA alega sofrer coação ilegal em face de acórdão do Tribunal a quo.
+O recorrente busca a revogação de sua prisão preventiva. Ele está segregado desde o dia 11/10/2022 por suspeita de incursão no art. 33, da Lei nº 11.343/2006 e art. 278, do Código Penal (fabricar, vender, expor à venda, ter em depósito para vender ou, de qualquer forma, entregar a consumo coisa ou substância nociva à saúde, ainda que não destinada à alimentação ou a fim medicinal). Aponta a falta de requisitos para a decretação da medida extrema e a sua desproporcionalidade ao caso concreto, pois é primário, de bons antecedentes e é provável o reconhecimento do tráfico privilegiado.
+Decido.
+A impetração não está acompanhada de cópia do decreto de prisão preventiva, ora impugnado. O vício impede a leitura de seus fundamentos e a compreensão da tese de falta de requisitos e de desproporcionalidade da medida extrema.
+Ação constitucional de natureza mandamental, o habeas corpus (e o recurso ordinário em habeas corpus) tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir e sua natureza urgente exige prova pré-constituída das alegações, pois não comporta conversão em diligência ou dilação probatória. Era obrigatório ao impetrante instruir adequadamente a impetração com impressos que permitissem a análise de patente ilegalidade do édito prisional, o que não ocorreu.
+ ..  cabe à parte a correta instrução do processo e, por conseguinte, o ônus da fiscalização da formação dos autos eletrônicos. 3. A parte deixou de juntar o documento reclamado quando interpôs este recurso, o que evidencia, ainda mais, a omissão da defesa em instruir devidamente os autos. 4. Agravo regimental não provido. (PET no HC n. 294.048/CE, Rel. Ministro Rogerio Schietti, 6ª T., DJe 7/5/2015).
+O "habeas corpus, como ação mandamental, de grandeza constitucional, tem de vir instruído com as peças (provas pré-constituídas) que dão suporte à pretensa ilegalidade, caso contrário não merece trânsito a insurgência  ..  (HC 175.786/GO, Rel. Ministra Maria Thereza de Assis Moura, 6ª T.., DJe de 14/5/2012)
+À vista do exposto, não conheço do recurso ordinário.
+Nada impede, porém, à vista dos princípios da economia e da celeridade processuais, que, caso a parte traga as peças faltantes, o pedido seja considerado e analisado.
+Publique-se e intime-se.
