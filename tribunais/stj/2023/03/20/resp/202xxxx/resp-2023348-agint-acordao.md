@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/03/2023 a 20/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Humberto Martins, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto por Gilberto Ramiro Costa Marinho contra decisão que deu provimento ao recurso especial interposto pela União no REsp n. 2.023.348/PE (2022/0271266-0).
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para anular o acórdão que julgou os embargos de declaração e determinar o retorno dos autos ao Tribunala quo a fim de que se manifeste especificamente sobre as questões articuladas nos declaratórios."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+Com efeito, malgrado ter dado provimento a pretensão recursal da parta agravada, a decisão agravada passou ao largo da alegação de que o Recurso Especial não reúne condições formais de admissão.
+ ..
+Inexiste, portanto, qualquer violação aosarts.489 e1.022 do CPC, tal como sustenta a agravada, pois a prestação jurisdicional foi completa e escorreita, sem a persistência de qualquer ponto irrespondido.
+ ..
+O resultado do julgamento do Recurso de Apelação, assim, haveria de impedir o manejo do Recurso Especial tal como foi ele interposto, em vista da regra traçada na Súmula nº 211 do Superior Tribunal de Justiça, razão pela qual a insurgência recursal não fornece elementos que permitam seu conhecimento.
+ ..
+E mais: a tese recursal jamais poderia ser acolhida sem que o conjunto fático e probatório dos autos fosse revolvido, de modo que a pretensão encontra óbice na regra contida nas Súmulas nºs 05 e 07, ambas do Superior Tribunal de Justiça.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. EMBARGOS DE TERCEIRO . DÍVIDA ATIVA. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. ADMISSIBILIDADE IMPLÍCITA. DECISÃO RECORRIDA ESTÁ EM CONFORMIDADE COM A JURISPRUDÊNCIA DESTA CORTE.
+I - Na origem, trata-se de embargos de terceiro opostos contra a União e outro, objetivando liminarmente a suspensão das medidas constritivas incidentes sobre o imóvel objeto dos embargos. Na sentença o pedido foi julgado improcedente. No Tribunal a quo, a sentença foi reformada.
+II - A Corte Especial deste Tribunal já se manifestou no sentido de que o juízo de admissibilidade do especial pode ser realizado de forma implícita, sem necessidade de exposição de motivos. Assim, o exame de mérito recursal já traduz o entendimento de que foram atendidos os requisitos extrínsecos e intrínsecos de sua admissibilidade, inexistindo necessidade de pronunciamento explícito pelo julgador a esse respeito. (EREsp 1.119.820/PI, relator Ministro Mauro Campbell Marques, Corte Especial, DJe 19/12/2014). No mesmo sentido: AgInt no REsp 1.865.084/MG, relator Ministro Raul Araújo, Quarta Turma, julgado em 10/8/2020, DJe 26/8/2020; AgRg no REsp 1.429.300/SC, relator Ministro Humberto Martins, Segunda Turma, DJe 25/6/2015; AgRg no Ag 1.421.517/AL, relatora Ministra Assusete Magalhães, Segunda Turma, DJe 3/4/2014.)
+III - De fato, a Fazenda Nacional apresentou questão jurídica relevante, qual seja, a ausência de manifestação do Tribunal de origem sobre se o imóvel é ou não a única propriedade do ora recorrido, fator esse deveras importante para a decisão acerca da consideração do referido ativo como bem de família. Apesar de provocado, por meio de embargos de declaração, o Tribunal a quo não apreciou a questão.
+IV - Nesse contexto, diante da referida omissão, apresentam-se violados os arts. 489 e 1.022 do CPC/2015, o que impõe a anulação do acórdão que julgou os embargos declaratórios, com devolução do feito ao órgão prolator da decisão para a realização de nova análise dos embargos. Nesse sentido: AgRg no REsp n. 1.221.403/RS, relator Ministro Napoleão Nunes Maio Filho, Dje de 23/8/2016; e EDcl no AgRg no REsp n. 1.561.073/AL, relator Ministro Ricardo Villas Bôas Cueva, DJe de 18/4/2016.
+V - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+A Corte Especial deste Tribunal já se manifestou no sentido de que o juízo de admissibilidade do especial pode ser realizado de forma implícita, sem necessidade de exposição de motivos. Assim, o exame de mérito recursal já traduz o entendimento de que foram atendidos os requisitos extrínsecos e intrínsecos de sua admissibilidade, inexistindo necessidade de pronunciamento explícito pelo julgador a esse respeito. (EREsp 1.119.820/PI, relator Ministro Mauro Campbell Marques, Corte Especial, DJe 19/12/2014). No mesmo sentido: AgInt no REsp 1.865.084/MG, relator Ministro Raul Araújo, Quarta Turma, julgado em 10/8/2020, DJe 26/8/2020; AgRg no REsp 1.429.300/SC, relator Ministro Humberto Martins, Segunda Turma, DJe 25/6/2015; AgRg no Ag 1.421.517/AL, relatora Ministra Assusete Magalhães, Segunda Turma, DJe 3/4/2014.)
+De fato, a Fazenda Nacional apresentou questão jurídica relevante, qual seja, a ausência de manifestação do Tribunal de origem sobre se o imóvel é ou não a única propriedade do ora recorrido, fator esse deveras importante para a decisão acerca da consideração do referido ativo como bem de família. Apesar de provocado, por meio de embargos de declaração, o Tribunal a quo não apreciou a questão.
+Nesse contexto, diante da referida omissão, apresentam-se violados os arts. 489 e 1.022 do CPC/2015, o que impõe a anulação do acórdão que julgou os embargos declaratórios, com devolução do feito ao órgão prolator da decisão para a realização de nova análise dos embargos. Nesse sentido: AgRg no REsp n. 1.221.403/RS, relator Ministro Napoleão Nunes Maio Filho, Dje de 23/8/2016; e EDcl no AgRg no REsp n. 1.561.073/AL, relator Ministro Ricardo Villas Bôas C ueva, DJe de 18/4/2016.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
