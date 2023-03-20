@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/03/2023 a 20/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CARTA DE ARREMATAÇÃO E MANDADO DE IMISSÃO NA POSSE EM FAVOR DO ARREMATANTE DO IMÓVEL. TESE DE NULIDADE. APRECIADA EM AGRAVO ANTERIOR. PRECLUSÃO. FUNDAMENTOS DO ACÓRDÃO RECORRIDO NÃO IMPUGNADOS. RAZÕES RECURSAIS DISSOCIADAS DOS FUNDAMENTOS DO JULGADO ATACADO. APLICAÇÃO DAS SÚMULAS 283 E 284 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO DESPROVIDO.
+1. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão estadual atrai, por analogia, o óbice da Súmula 283 do STF.
+2. É inadmissível o inconformismo por deficiência na fundamentação quando as razões do recurso estão dissociadas do decidido no acórdão recorrido. Aplicação da Súmula 284 do Supremo Tribunal Federal.
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+O SENHOR MINISTRO RAUL ARAÚJO (Relator):
+Trata-se de agravo interno interposto por JUREMA GIFFONI GULLO DE OLIVEIRA contra decisão do em. Ministro Presidente do Superior Tribunal de Justiça, que conheceu do agravo para não conhecer do recurso especial, em razão da deficiência na fundamentação recursal (Súmula 284/STF).
+Nas razões do agravo interno, a parte ora agravante alega a inaplicabilidade da Súmula 284/STF, pois "respeitou o princípio da dialeticidade recursal, haja vista que impugnou de forma efetiva, concreta e pormenorizada todos os fundamentos da decisão atacada, quais sejam a aduzida ausência afronta a dispositivo legal, sendo desnecessário o reexame de provas, inexistindo, dessa forma, alegações genéricas ou relativas ao mérito da controvérsia" (fl. 1361).
+Ao final, requer seja analisado e provido o recurso especial.
+A parte agravada apresentou impugnação do agravo interno (fls. 1368-1371).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CARTA DE ARREMATAÇÃO E MANDADO DE IMISSÃO NA POSSE EM FAVOR DO ARREMATANTE DO IMÓVEL. TESE DE NULIDADE. APRECIADA EM AGRAVO ANTERIOR. PRECLUSÃO. FUNDAMENTOS DO ACÓRDÃO RECORRIDO NÃO IMPUGNADOS. RAZÕES RECURSAIS DISSOCIADAS DOS FUNDAMENTOS DO JULGADO ATACADO. APLICAÇÃO DAS SÚMULAS 283 E 284 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO DESPROVIDO.
+1. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão estadual atrai, por analogia, o óbice da Súmula 283 do STF.
+2. É inadmissível o inconformismo por deficiência na fundamentação quando as razões do recurso estão dissociadas do decidido no acórdão recorrido. Aplicação da Súmula 284 do Supremo Tribunal Federal.
+3. Agravo interno a que se nega provimento.
+VOTO
+O SENHOR MINISTRO RAUL ARAÚJO (Relator):
+A irresignação não prospera.
+De fato, o eg. Tribunal de origem consignou que a insistência da recorrente em alegar a existência de nulidade, acerca da ofensa ao contraditório, pois já foi decidido em recurso pretérito, qual seja, o agravo n. 2140369-15.2020.8.26.0000, que as matérias relativas à proposta escrita ofertada pelo arrematante estavam preclusas. De tal modo, a suspensão dos atos expropriatórios deve ser buscada pela via adequada, isto é, no recurso especial interposto contra a decisão proferida nos autos do agravo pretérito, e não na presente via processual.
+A propósito, trecho significativo do acórdão vergastado:
+"Em que pese a insistência da agravante, já se decidiu nos autos do agravo pretérito 2140369-15.2020.8.26.0000, que as matérias relativas à proposta escrita ofertada pelo arrematante estavam preclusas.
+(..)
+Embora de fato esteja pendente o julgamento do recurso especial interposto contra o sobredito acórdão, não tendo havido a certificação do seu trânsito em julgado ainda, a agravante realmente não demonstrou mínimo desacerto da decisão agravada, a qual apenas deu cumprimento à ordem dessa Instância Superior, pois, uma vez rejeitadas as teses contrárias à arrematação, não havia mesmo óbice à expedição da carta e do mandado de imissão na posse.
+A insistência da recorrente nas nulidades já afastadas pelo acórdão pretérito, que, aliás, revogou expressamente o efeito suspensivo anteriormente concedido por este Relator, beira à má-fé, pois evidente o intuito protelatório, na medida em que a suspensão dos atos expropriatórios deve ser buscada pela via adequada, isto é, no recurso especial interposto contra a decisão proferida nos autos do agravo pretérito.
+Desse modo, não há como se reconhecer a alegada ofensa ao contraditório como sustentando pela agravante, pois esgotada a discussão sobre as teses que poderiam obstar o prosseguimento da expropriação." (fls. 1249-1250, g.n.).
+A parte recorrente, por sua vez, nas razões do recurso especial, limitou-se a afirmar, em suma, violação dos arts. 9º e 10 do CPC/15, a pretexto de nulidade por falta de intimação a respeito dos pedidos de expedição da Carta de Arrematação e de imissão na posse. Entretanto, "a RECORRENTE manifestou às fls. 671-671, demonstrando sobre a existência de discussão acerca do leilão realizado, que estava PENDENTE, inclusive, de admissibilidade neste Tribunal DE RECURSO ESPECIAL Nº 2140369-15.2020.8.26.0000, que versa acerca de NULIDADES constatadas na arrematação, que trouxeram em seu bojo os seguintes vícios:  A proposta foi extemporânea - apresentada quando o leilão já estava suspenso;  A proposta parcelada foi apresentada ao final do certame, contrariando a previsão legal;  O preço da arrematação foi vil. Demonstrou-se, ainda, que inexistia qualquer tipo de urgência no deferimento de imissão na posse, vez que o ARREMATANTE não havia trazido aos autos quaisquer elementos que justificassem perigo de dano em eventual demora, muito pelo contrário, as fotos obtidas no mandado de constatação evidenciam que o imóvel estava sendo muito bem conservado pela RECORRENTE." (fl. 1260).
+Como se vê, tais fundamentos, autônomos e suficientes à manutenção do v. acórdão recorrido - isto é, (a) a ocorrência de preclusão a respeito da matéria ventilada, e (b) a suspensão dos atos expropriatórios deve ser buscada pela via adequada, ou seja, no recurso especial interposto contra a decisão proferida nos autos do agravo pretérito de n. 2140369-15.2020.8.26.0000 - não foram devidamente impugnados pela parte recorrente.
+Dessa forma, há de se concluir que as razões recursais são dissociadas do conteúdo do acórdão recorrido e não têm o poder de infirmá-lo, porquanto os fundamentos autônomos e suficientes à manutenção do aresto, no ponto, mantiveram-se inatacados e incólumes nas razões do recurso especial, convocando, na hipótese, a incidência das Súmulas 283 e 284 do STF.
+Diante do exposto, nega-se provimento ao agravo interno.
+É como voto.
