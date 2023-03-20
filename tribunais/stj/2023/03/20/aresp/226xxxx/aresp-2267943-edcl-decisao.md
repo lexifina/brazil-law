@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por EVELIN APARECIDA CALIXTO à decisão de fls. 1462/1463, que não conheceu do recurso.
+Sustenta a parte embargante que:
+No caso em tela, existiu nítido erro ao declarar intempestivo o Recurso Especial interposto VEJAMOS:
+O Acórdão da 2ª Câmara de Direito Privado do E. TJSP, foi disponibilizado em 04/10/2021, segunda feira (fls. 646).
+Assim a intimação ocorreu em 05/10/2021, terça feira, começando a contar o prazo em 06/10/2021 quarta feira.
+ ..
+O Recurso Especial fora interposto em 28/10/2021 fls. 647/667) portanto, dentro do prazo legal.
+ ..
+Não há de se contar o dia 12/10/2021, pois referido dia trata-se de um FERIADO NACIONAL "NOSSA SENHORA APARECIDA"
+Também não há como contar dia útil o dia 11/10/2021, haja vista que referido dia ocorreu a suspensão do expediente no TJSP.
+Para maior surpresa da agravante, mesmo comprovando o feriado nacional, não local, juntando aos autos o expediente forense e a suspensões do prazo (fls. 668/670), que fazia parte integrante do Recurso Especial, teve seu recurso indeferido.
+ ..
+Apesar de se tratar de FERIADO NACIONAL, o que desobrigaria a embargante de comprová-lo no ato da interposição, no corpo das razões do Recurso Especial fora juntada a suspensão de expediente e dos prazos processuais.
+Referida menção expressa aos referidos atos normativos deve ser considerado como comprovação do feriado nacional em questão. Por este motivo, ao analisar os pressupostos formais devidamente no corpo das razões, referida menção expressa aos referidos atos normativos deve ser considerados como comprovação do feriado nacional em questão.
+E ainda, há de se ressaltar que, ao analisar os pressupostos formais o E.TJSP considerou tempestivo o agravo aviado, o que demonstra, Superior Tribunal de Justiça inclusive, a preclusão da matéria (fls. 1469/1472).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial. o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada por documento idôneo, no ato da apresentação do recurso. (AgInt nos EDcl no AREsp 1419338/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 3/10/2019; AgRg nos EDcl no REsp 1819067/SC, relator Ministro Herman Benjamin, Segunda Turma, DJe de 5/9/2019.)
+No caso, o calendário ou mera relação de feriados juntado às fls. 668/670, sem o inteiro teor do respectivo ato normativo, não tem o condão de afastar a intempestividade do recurso.
+A propósito: AgInt nos EAREsp n. 1.933.921/SP, relator Ministro Francisco Falcão, Corte Especial, DJe de 3/10/2022; AgInt nos EDcl no AREsp n. 1.803.102/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 3/11/2022; AgInt no AREsp n. 2.078.984/BA, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 17/10/2022; AgInt no AREsp n. 2.010.923/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 28/9/2022; AgInt nos EDcl no REsp n. 1.991.002/AM, relator Ministro Herman Benjamin, Segunda Turma, DJe de 23/9/2022; AgRg no AREsp n. 2.110.048/MS, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 12/8/2022.
+Observe-se que "o juízo de admissibilidade do recurso especial é bifásico, de modo que qualquer pronunciamento do Tribunal de origem acerca da tempestividade recursal não vincula esta Corte Superior, a quem compete analisar, em definitivo, o preenchimento dos requisitos de admissibilidade do recurso especial". (AgInt nos EDcl no AREsp 1703604/DF, relator Ministro Marco Buzzi, Quarta Turma, DJe de 04/03/2022.)
+Do mesmo modo, certidão lavrada por servidor público ou pelo sistema, nos autos do processo, atestando a tempestividade do recurso, não impede o reexame desse requisito pelo STJ. Nesse sentido, o AgInt no AREsp 2017110/ES, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 24/03/2022; AgInt no AREsp 1734860/PR, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 24/02/2022; e o AgInt no AREsp 1931827/PR, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 02/12/2021.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
