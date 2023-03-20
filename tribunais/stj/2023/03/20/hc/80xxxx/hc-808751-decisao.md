@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ERNESTO DE OLIVEIRA - preso preventivamente pela prática do delito previsto no art. 33, caput, da Lei nº 11.343/2006 - contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (HC n. 2306029-90.2022.8.26.0000) assim ementado (e-STJ fls. 32):
+HABEAS CORPUS. PRETENDIDA A REVOGAÇÃO DA PRISÃO PREVENTIVA. IMPOSSIBILIDADE. Inexiste constrangimento ilegal em decisão que decreta a prisão preventiva ou denega liberdade provisória, diante da demonstração da materialidade do delito e da existência de indícios da autoria, fundamentada em fatos concretos indicadores da real necessidade da prisão cautelar do Paciente. Ordem denegada.
+A defesa alega, em resumo, que nada foi apontado em relação ao paciente para justificar a prisão preventiva, com base nas hipóteses legais previstas no art. 312 do CPP, razão pela qual pede, em liminar e no mérito, a expedição do alvará e soltura em favor do acusado.
+É o relatório, decido.
+Não há como conhecer do habeas corpus. Isso porque o writ apresenta as mesmas partes, causa de pedir, pedido e foi impetrado contra do mesmo acórdão impugnado no HC 802505, julgado no dia 15/2/2023 e certificado o trânsito em julgado em 28/2/2023.
+Com efeito, " ..  a mera reiteração de pedido, que se limita a reproduzir, sem qualquer inovação de fato e/ou de direito, os mesmos fundamentos subjacentes à postulação anterior, torna inviável o próprio conhecimento da ação de habeas corpus." (AgR no HC 190.293, Segunda Turma, Relator o Ministro CELSO DE MELLO, Relator para o acórdão o Ministro GILMAR MENDES, julgado em 20/10/202, DJe 19/11/2020).
+Ante o exposto, com amparo no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Intimem-se.
