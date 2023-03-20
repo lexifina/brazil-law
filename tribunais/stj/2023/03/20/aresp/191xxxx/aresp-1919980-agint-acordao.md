@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/03/2023 a 20/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por UNILANCE ADMINISTRADORA DE CONSORCIO LTDA FALIDO, contra decisão que conheceu parcialmente de seu recurso especial e, nessa extensão, negou-lhe provimento, assim ementada:
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OMISSÃO. AUSENTE. PROPOSTA DE ADESÃO A CONSÓRCIO. FALHA NA PRESTAÇÃO DE SERVIÇO. ASSINATURA FALSA. NULIDADE DO CONTRATO. REVISÃO. NÃO CABIMENTO. APLICAÇÃO DA SÚMULA 7/STJ. AGRAVO CONHECIDO PARA, DESDE LOGO, CONHECER EM PARTE O RECURSO ESPECIAL E, NESTA EXTENSÃO NEGAR PROVIMENTO. (e-STJ, fl. 747)
+Em suas razões, a agravante alegou omissão no acórdão recorrido, pois "o TJMS foi omisso quanto a excludente de responsabilidade civil da FALIDA por decorrência das declarações feitas pelo AGRAVADO em áudio de pós venda", bem como "o TJMS se limita a manter o entendimento adotado exclusivamente com base no contrato de adesão, mantendo a omissão quanto as repercussões jurídicas das declarações feitas pelo AGRAVADO" (e-STJ, fl. 761 e 763).
+Defende que todas as conclusões que fundam a insurgência recursal da AGRAVANTE encontram-se devidamente retratadas em acórdão, sendo desnecessário reexaminar o arcabouço probatório dos autos.
+É o breve relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OMISSÃO. AUSENTE. PROPOSTA DE ADESÃO A CONSÓRCIO. FALHA NA PRESTAÇÃO DE SERVIÇO. ASSINATURA FALSA. NULIDADE DO CONTRATO. REVISÃO. NÃO CABIMENTO. APLICAÇÃO DA SÚMULA 7/STJ.RAZÕES QUE NÃO INFIRMAM A DECISÃO AGRAVADA. DECISÃO MANTIDA.
+AGRAVO INTERNO DESPROVIDO.
+VOTO
+Eminentes Colegas, a pretensão recursal não merece ser acolhida.
+De início, nos termos da orientação jurisprudencial desta Corte, tendo a instância de origem se pronunciado de forma clara e precisa sobre as questões postas nos autos, assentando-se em fundamentos suficientes para embasar a decisão, não há falar em omissão no acórdão, não se devendo confundir fundamentação sucinta com a sua ausência (REsp 763.983/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJ 28/11/2005).
+In casu, verifica-se que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional. Senão vejamos:
+Conforme consta do acórdão, não há como acomodar a exclusão de responsabilidade prevista no inc. II do § 3º do art. 14, CPC, porque a proposta de adesão juntada pelo embargado com a inicial e a pela embargante na contestação são díspares.
+A perícia constatou a falsidade do autógrafo no documento juntado pela embargante, exatamente o que consta a advertência na cláusula 6.1 de comercialização de cota não contemplada. Não há prova no processo de ter o embargado tomado ciência das condições da proposta de adesão em sua integralidade.
+Neste particular o acórdão é por demais claro quanto a contratação da cota consorcial pelo embargado com base em premissas falsas (f. 438);".. inviável é admitir a higidez do contrato trazido para o processo pela ré, em razão de sua nulidade. Referido contrato entre os litigantes é inexistente e inexigível. As assinaturas nele inseridas não partiram do punho do autor. A falsidade destas não tem o condão de gerar os efeitos propugnados pela ré" (f. 439).
+Como se vê, não há se falar em obscuridade. Não contempla o acórdão "proposições entre si inconciliáveis". A linha de afirmação nele constante apenas contraria os interesses da embargante. (e-STJ, fl. 603 - grifou-se)
+Por ocasião do julgamento dos embargos de declaração opostos, as razões acima foram confirmadas. E da leitura dos trechos acima transcritos, verifica-se que a Corte estadual julgou fundamentadamente a matéria devolvida à sua apreciação, expondo as razões que levaram às suas conclusões quanto impossibilidade de exclusão da responsabilidade, como propõe a parte agravante.
+Sendo assim, o Tribunal de origem manifestou-se expressamente sobre a excludente de responsabilidade civil alegada pela agravante. Portanto, ausente qualquer omissão a ser sanada nos autos.
+Por fim, o Tribunal de origem asseverou que do contrato assinado verifica-se que dele a parte ora agravada não tomou conhecimento prévio das condições, e mais, foi ludibriada com a informação de seu preposto de contemplação imediata, do valor de adesão e das parcelas subsequentes. As provas concluíram que as assinaturas eram falsas.
+Dessa forma, para afastar as conclusões do Tribunal de origem, baseadas nas provas produzidas nos autos, seria necessário o reexame de provas, o que é defeso na instância especial, conforme dispõe o enunciado n. 7 da Súmula desta Corte. Portanto, no exame de provas não há competência desta Corte Superior.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa.
+É o voto.
