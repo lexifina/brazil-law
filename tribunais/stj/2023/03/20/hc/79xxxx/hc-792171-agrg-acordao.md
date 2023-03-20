@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/03/2023 a 20/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+RELATÓRIO
+Trata-se de agravo regimental interposto por Wagner Bueno Ribeiro contra a decisão monocrática, de minha lavra, assim ementada (fl. 333):
+HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO E PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. FUNDAMENTAÇÃO IDÔNEA. AUSÊNCIA DE CONTEMPORANEIDADE. NÃO OCORRÊNCIA. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL A SER SANADO.
+Ordem denegada.
+Pretende o agravante, em síntese, a reforma da decisão objurgada para que
+seja revogada a prisão preventiva .
+Por fim, postula seja exercido o juízo de retratação ou o pleito submetido ao órgão colegiado.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO E PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. FUNDAMENTAÇÃO IDÔNEA. AUSÊNCIA DE CONTEMPORANEIDADE. NÃO OCORRÊNCIA. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL A SER SANADO.
+Agravo regimental improvido.
+VOTO
+Não obstante as alegações recursais, a decisão ora atacada está em perfeita harmonia com a orientação consolidada nesta Corte, devendo ser mantida por seus próprios fundamentos.
+No caso, o Magistrado de piso recebeu a denúncia e, acolhendo requerimento do Ministério Público, decretou a prisão preventiva, nestes termos (fls. 39/43):
+ ..
+2. Mostra-se de rigor a decretação da prisão preventiva do acusado, por dois motivos.
+Primeiro, porque o réu cometeu, em princípio, fato gravíssimo, considerado hediondo (aliás, o mais grave do Código Penal, já que visa garantir a inviolabilidade do direito à vida, garantia constitucional Const. Federal, art. 5º, caput). Não se pode ignorar que o autor de fatos dessa natureza demonstra, com a sua conduta, personalidade totalmente contrária aos preceitos morais, reveladora de absoluto descaso para com a vida alheia; em especial no caso vertente, considerando a conduta concretamente realizada, que colocou em risco a vida de diversas pessoas, além de causar abalo social na pequena cidade de Nova Europa.
+Ademais, os delitos praticados mediante violência ou grave ameaça à pessoa estão, na atualidade, causando acentuada intranquilidade social, exigindo, portanto, rigoroso combate, resgatando-se, em benefício da sociedade ordeira, bem assim da vítima e/ou seus de familiares, a paz social.
+Os cidadãos de Araraquara não estão alheios à criminalidade avassaladora de início apontada; ao contrário, nossa cidade apresenta expressivo quadro de criminalidade, mormente delitos contra a vida.
+Assim, deixar em liberdade pessoa que cometeu fato hediondo, como, em tese, o acusado em questão, constitui afronta aos interesses da sociedade, aumentando ainda mais a insegurança geral, além de desacreditar a Justiça na comunidade local, incentivando, por conseguinte, o cometimento de infrações penais graves.
+ ..
+Em síntese: imperiosa a decretação da prisão cautelar do acusado, como garantia da ordem pública.
+Segundo, porque, caso não seja preso imediatamente, certamente o réu tomará rumo ignorado, em face do grave fato que lhe atribuído, cuja conduta impedirá a entrega da prestação jurisdicional, em face da regra inserta no artigo 366 do Código de Processo Penal.
+Daí mais uma razão imperiosa para decretação da prisão cautelar.
+Ou seja, a decretação da prisão preventiva revela-se necessária não só para garantia da ordem pública, conforme explicitado acima, mas também por conveniência da instrução criminal e para assegurar eventual aplicação da lei penal.
+É de observar-se, de outra parte, que há nos autos prova da existência de crime, doloso e punido com pena privativa de liberdade máxima superior a 4 (quatro) anos, suficientes indícios de autoria por parte do réu e perigo de dano à sociedade, notadamente à vida da vítima, caso permaneça em liberdade.
+Presentes, pois, todos os requisitos exigidos pelos artigos 312 e 313 do Estatuto Processual Penal.
+Além disso, considerando-se a gravidade do ato praticado, concretamente considerada, bem assim a concreta possibilidade de fuga do distrito da culpa, revela-se incabível, no caso vertente, a substituição da prisão preventiva em comento por outra medida cautelar (Cód. de Proc. Penal, art. 282, 6º), porque insuficiente para impedir que o acusado volte a delinquir ou tomar rumo ignorado, impedindo ou dificultando sobremaneira a entrega da prestação jurisdicional.
+ ..
+Por sua vez, o Tribunal de Justiça afastou qualquer ilegalidade quanto à segregação cautelar, entendendo-a idoneamente fundamentada, nestes termos (fls. 20/25):
+ ..
+Os dados que emergem dos autos do presente mandamus, portanto, revelam a presença do fumus commissi delicti.
+Outrossim, ao decretar a prisão preventiva, o douto Magistrado a quo indicou elementos que evidenciam a presença do periculum libertatis, pois, em resumo, levou em conta a gravidade in concreto do delito tentado contra a vida da vítima, reveladora da periculosidade do agente, de modo que a manutenção da custódia cautelar, máxime para a garantia da ordem pública, afigura-se escorreita.
+Aliás, a gravidade da conduta do agente evidencia-se pelas fotos constantes no laudo pericial do veículo onde se vê três perfurações por disparo de arma de fogo (fls. 42 e 48/50), exatamente no ponto onde o ofendido estava sentado, indicando que, somente por milagre, ele não fora atingido de forma fatal.
+Ademais, há indicativos nos autos de que o paciente efetuou cinco disparos contra a vítima, os quais somente foram interrompidos porque a arma teria travado.
+A custódia processual, portanto, apresenta-se informada pelos pressupostos da prisão preventiva, tais como o fumus commissi delicti e o periculum libertatis, estando a decisão guerreada, de resto, adequada e suficientemente fundamentada, em perfeita conformidade com os preceitos dos artigos 312 e 315, ambos do Código de Processo Penal e 93, inciso IX, da Carta Constitucional de 1988.
+ ..
+Aliás, evidenciada a necessidade da prisão preventiva pela presença dos seus requisitos, fica afastada, por inadequação, a possibilidade de aplicação de outra medida cautelar menos gravosa, razão pela qual despiciendo o douto Magistrado discorrer sobre cada uma delas.
+De mais a mais, verificam-se, nos autos da ação penal de origem, diversos pedidos de dilação de prazo no âmbito do inquérito policial e, por fim, o indiciamento indireto do paciente, a denotar que estaria havendo dificuldades por parte da autoridade policial em ouvir o paciente em declarações.
+Oportuno anotar, ainda, que, a despeito dos fatos terem ocorrido em dezembro de 2021, a decretação da prisão preventiva com o oferecimento da denúncia, em setembro de 2022, justifica-se por ser este o momento em que, com o término das investigações e a conclusão do inquérito policial, o Ministério Público tem à disposição maiores elementos aptos a demonstrar a necessidade de se resguardar a ordem pública.
+ ..
+Como se vê, a necessidade da prisão está devidamente embasada em elementos do caso concreto e nos fundamentos autorizadores da medida extrema, sobretudo para a garantia da ordem pública, vulnerada em razão da gravidade do delito e periculosidade do agente (que teria efetuado 5 disparos de arma de fogo contra a vítima, não alcançando êxito por circunstâncias alheias à sua vontade - fl. 21); circunstâncias essas que conferem lastro de legitimidade à manutenção da medida extrema.
+Não é outra a opinião do Subprocurador-Geral da República Osnir Belice, para quem não há ilegalidades a serem sanadas (fls. 326/329).
+Com efeito, o Supremo Tribunal Federal já se pronunciou no sentido de que não há ilegalidade na "custódia devidamente fundamentada na periculosidade do agravante para a ordem pública, em face do modus operandi e da gravidade em concreto da conduta" (HC n. 146.874 AgR, Ministro Dias Toffoli, Segunda Turma, julgado em 6/10/2017, DJe 26/10/2017) - (HC n. 459.437/RJ, Ministra Laurita Vaz, Sexta Turma, DJe 7/11/2018).
+De outro lado, é certo que a contemporaneidade não está restrita à época da prática do delito, mas, sim, à verificação da necessidade no momento de sua decretação, ainda que o fato criminoso tenha ocorrido em um período passado, pois a gravidade concreta do delito obstaculiza o esgotamento do periculum libertatis apenas pelo decurso do tempo (AgRg no HC n. 564.852/MG, Ministro Ribeiro Dantas, Quinta Turma, DJe 18/5/2020).
+Quanto ao ponto, tem-se que a Suprema Corte entende que:
+A contemporaneidade diz respeito aos motivos ensejadores da prisão preventiva e não ao momento da prática supostamente criminosa em si, ou seja, é desimportante que o fato ilícito tenha sido praticado há lapso temporal longínquo, sendo necessária, no entanto, a efetiva demonstração de que, mesmo com o transcurso de tal período, continuam presentes os requisitos (i) do risco à ordem pública ou (ii) à ordem econômica, (iii) da conveniência da instrução ou, ainda, (iv) da necessidade de assegurar a aplicação da lei penal. (AgR no HC n. 190.028, Ministra Rosa Weber, Primeira Turma, DJe 11/2/2021 )
+No caso, a despeito dos fatos terem ocorrido em dezembro de 2021, a decretação da prisão preventiva com o oferecimento da denúncia, em setembro de 2022, justifica-se por ser este o momento em que, com o término das investigações e a conclusão do inquérito policial, o Ministério Público tem à disposição maiores elementos aptos a demonstrar a necessidade de se resguardar a ordem pública (fl. 25); nesse contexto, não há se falar em extemporaneidade entre o cometimento do delito e o decreto prisional, uma vez que os indícios de autoria em relação ao recorrente foram detectados após minuciosa investigação (AgRg no HC n. 654.718/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 26/11/2021).
+Registre-se, por fim, que é entendimento desta Corte Superior de Justiça que as condições favoráveis do recorrente, por si sós, não impedem a manutenção da prisão cautelar quando devidamente fundamentada; e que é inaplicável medida cautelar alternativa quando as circunstâncias evidenciam que as providências menos gravosas seriam insuficientes para a manutenção da ordem pública.
+Logo, tenho que ficou demonstrada a necessidade da prisão preventiva, não se revelando suficientes, para o caso em análise, as medidas previstas no art. 319 do Código de Processo Penal.
+Em face do exposto, nego provimento ao agravo regimental.
