@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por DANILO TOMAZ NAKASONE contra a decisão de fls. 1033-1043 (e-STJ), que negou provimento ao recurso especial.
+O embargante alega contradição na decisão embargada. Para tanto, aduz que não há identidade de pedidos entre o recurso especial e o recurso em habeas corpus.
+Defende que "o pedido no RHC n.º 139.639, que foi reputado prejudicado às fls. e-STJ 509/510 dos autos mencionados, versava sobre a necessidade de designação de audiência exclusiva para a proposta de suspensão condicional do processo, desvinculada da instrução processual. Nesse feito, conforme indicado, o pedido é no sentido de que seja efetuado controle jurisdicional dos termos da proposta efetuada, uma vez que exigido pelo parquet que o embargante efetuasse um pagamento de quarenta mil reais como condição para aceitação da proposta. Portanto, data venia, os pedidos não se confundem. Embora ambos tratem de suspensão condicional do processo, os pleitos, os seus fundamentos jurídicos e a causa de pedir são diversos".
+É o relatório.
+Decido.
+Os embargos não merecem ser acolhidos.
+Dispõe o Código de Processo Penal:
+"Art. 619. Aos acórdãos proferidos pelos Tribunais de Apelação, câmaras ou turmas, poderão ser opostos embargos de declaração, no prazo de dois dias contados da sua publicação, quando houver na sentença ambiguidade, obscuridade, contradição ou omissão."
+Colhe-se da decisão embargada:
+"Inicialmente, constata-se que o pedido de controle jurisdicional dos termos da proposta do Sursis ou a remessa à instância superior do MPF, constitui mera reiteração dos pedidos formulados no RHC 139.639/SP, e isto porque há identidade de partes e da causa de pedir, impugnando os dois feitos a mesma decisão (proferida no processo 1500283- 69.2019.8.26.0361), o que constitui óbice ao seu conhecimento. A decisão que apreciou o recurso asseverou que "o sursis foi supervenientemente proposto em duas oportunidades, porém, sem sucesso em virtude de controvérsia entre as partes quanto ao valor da reparação dos danos, tem-se a perda de objeto do recurso. Inclusive, da consulta eletrônica realizada nos autos n. 1500283-69.2019.8.26.0361, extrai-se que foi proferida sentença condenatória em 24/3/2021, imputando ao réu a pena de 1 ano e 1 dia de detenção, em regime inicial aberto, mais a suspensão para obter a permissão ou a habilitação para a condução de veículos por 1 ano, substituída a reprimenda privativa por duas restritivas de direitos". Assim, em virtude da reiteração, tem-se a prejudicialidade do pedido".
+Cumpre registrar que os embargos de declaração destinam-se a suprir omissão, contradição e ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, para sua revisão no caso de mero inconformismo da parte.
+Nesse sentido, julgado desta Corte:
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INJÚRIA RACIAL. SÚMULA 7/STJ. OFENSA A DISPOSITIVOS CONSTITUCIONAIS E TRATADOS INTERNACIONAIS QUE NÃO DIZEM RESPEITO À CONTROVÉRSIA. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO E OBSCURIDADE. SIMPLES PRETENSÃO DE REVISÃO DO JULGADO. EMBARGOS REJEITADOS.
+1. A ora embargante faz alusão a artigos da Constituição Federal e a tratados internacionais que não dizem respeito à controvérsia tratada nos autos, cuja análise refoge à competência desta Corte. Ademais, carecem do indispensável prequestionamento.
+ ..
+3. Os embargos de declaração são recurso com fundamentação vinculada. Dessa forma, para seu cabimento, imprescindível a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal, o que não logrou fazer a embargante. Destarte, a mera irresignação com o entendimento apresentado na decisão, visando à reversão do julgado, não tem o condão de viabilizar a oposição dos aclaratórios.
+4. Embargos declaratórios rejeitados."
+(EDcl no AgRg no AREsp 669.505/RN, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 25/8/2015).
+Destaque-se, por fim, que, no julgamento do recurso acima referido, a suspensão condicional do processo já foi analisada, tendo esta Corte Superior asseverado que o sursis foi supervenientemente proposto em duas oportunidades, porém, sem sucesso. Destacou, inclusive, que realizada consulta eletrônica nos autos n. 1500283-69.2019.8.26.0361, foi proferida sentença condenatória em 24/3/2021, impondo ao réu a pena de 1 ano e 1 dia de detenção, em regime inicial aberto, mais a suspensão para obter a permissão ou a habilitação para a condução de veículos por 1 ano, substituída a reprimenda privativa por duas restritivas de direitos.
+Dessarte, a matéria foi suficientemente analisada, não havendo se falar em quaisquer omissões a serem sanadas.
+A toda evidência, portanto, não há o que ser reparado no julgado.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
