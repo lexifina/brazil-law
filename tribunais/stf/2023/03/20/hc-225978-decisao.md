@@ -1,0 +1,113 @@
+HABEAS CORPUS. PENAL E PROCESSUAL PENAL. CRIMES DE TRÁFICO ILÍCITO DE ENTORPECENTES E DE ASSOCIAÇÃO PARA O TRÁFICO. ARTIGOS 33 E 35 DA LEI Nº 11.343/06. PRETENSÃO DE REDISCUSSÃO DOS CRITÉRIOS DE DOSIMETRIA DA PENA. FUNDAMENTAÇÃO IDÔNEA PELAS INSTÂNCIAS ORDINÁRIAS. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO ENGENDRADO NOS AUTOS. INADMISSIBILIDADE NA VIA ELEITA. IMPOSSIBILIDADE DE UTILIZAÇÃO DO HABEAS CORPUS COMO SUCEDÂNEO DE RECURSO OU REVISÃO CRIMINAL.
+
+- Seguimento negado, com fundamento no artigo 21, § 1º do RISTF. Prejudicado o exame do pedido liminar.
+
+    Decisão: Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão do Superior Tribunal de Justiça nos autos do HC nº 788.214, in verbis:
+
+    “PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO DE ENTORPECENTES. PENA-BASE. CULPABILIDADE ELEVADA, QUANTIDADE E NATUREZA DO ENTORPECENTE. FUNDAMENTOS IDÔNEOS. CAUSA DE DIMINUIÇÃO DO ART. 33, § 4º, DA LEI N. 11.343/2006. INAPLICABILIDADE. RÉU QUE SE DEDICA AO TRÁFICO. CONDENAÇÃO PELO ART. 35 DA LEI DE DROGAS. AUSÊNCIA DE MANIFESTA ILEGALIDADE. AGRAVO NÃO PROVIDO.
+
+    1. A individualização da pena é uma atividade em que o julgador está vinculado a parâmetros abstratamente cominados pela lei, sendo-lhe permitido, entretanto, atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, ressalvadas as hipóteses de manifesta ilegalidade ou arbitrariedade, é inadmissível às Cortes Superiores a revisão dos critérios adotados na dosimetria da pena.
+
+    2. Na hipótese, a Corte de origem valorou negativamente a expressiva quantidade de drogas (31 kg de cocaína) e as circunstâncias do delito (utilização do seu cargo/função no aeroporto para facilitar a prática delitiva) para exasperar as sanções iniciais dos delitos de tráfico de drogas e de associação para esse fim em 1/3 acima do mínimo legal, o que não se mostra desproporcional, tendo em vista as penas mínima e máxima do delito de tráfico de drogas (5 a 15 anos) e de associação para esse fim (3 a 10 anos).
+
+    3. A teor do disposto no § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas poderão ter a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades delituosas ou integrarem organização criminosa.
+
+    4. A condenação por associação para o tráfico de drogas obsta a aplicação do redutor previsto no art. 33, § 4º, da Lei de Drogas, uma vez que demanda a existência de animus associativo estável e permanente da agente no cometimento do delito, evidenciando, assim, a dedicação à atividade criminosa. Precedentes.
+
+    5. Agravo regimental não provido.”
+
+    Colhe-se dos autos que o paciente foi condenado à pena de 15 (quinze) anos e 09 (nove) meses de reclusão, em regime inicial fechado, e ao pagamento de 2.683 (dois mil, seiscentos e oitenta e três) dias-multa, pela prática dos crimes previstos nos artigos 33 e 35, c/c art. 40, I, da Lei nº 11.343/2006.
+
+    Em sede de apelação, o Tribunal de origem deu provimento ao apelo defensivo para reduzir a reprimenda para 12 (doze) anos, 05 (cinco) meses e 10 (dez) dias de reclusão, e pagamento de 1.865 (mil, oitocentos e sessenta e cinco) dias-multa, mantido o regime fechado.
+
+    Contra esse decisum, a defesa manejou habeas corpus perante o Superior Tribunal de Justiça, que não conheceu do writ.
+
+    Ato contínuo, foi interposto agravo regimental, o qual restou desprovido nos termos da ementa supratranscrita.
+
+    No presente mandamus, a defesa aponta constrangimento ilegal consubstanciado na dosimetria da pena.
+
+    Argumenta que “não há elementos suficientes para valorar negativamente a personalidade do Recorrente, ressaltando-se, neste ponto, sua primariedade. O Recorrente também não demonstra má conduta social. A culpabilidade é normal à espécie. Os motivos também foram normais ao crime praticado, voltados para a obtenção de lucro fácil por meio da venda de substância ilícita. As circunstâncias também são normais à espécie. Por sua vez, as consequências são apenas aquelas inerentes ao delito. Não há comportamento da vítima a ser analisado, pois se trata de crime vago. Desse modo, notório o equívoco do r. acórdão ao fixar a pena acima do mínimo legal, razão pela qual deve ser reformada, para que haja fixação da pena-base no mínimo legal, para o delito de tráfico de entorpecentes”. Pondera, ainda, “caso não seja estabelecida a pena no mínimo legal, a defesa pleiteia, ante o princípio da proporcionalidade e o princípio da individualização da pena, a redução do quantum de aumento em 1/8 para cada circunstância que julgar válida para o aumento de pena”.
+
+    Prossegue aduzindo que “além de o paciente preencher os requisitos subjetivos (ser primário e possuir bons antecedentes), também não ficou comprovada sua participação na qualidade de membro da estrutura da organização criminosa e dedicação a atividades criminosas, não sendo suficiente para obstar a aplicação do redutor previsto no art. 33, § 4°, da Lei 11.343/2006, o fato de ter sido apreendida grande quantidade de entorpecentes”.
+
+    Ao final, formula pedido nos seguintes termos:
+
+    “Ante o exposto, demonstrada as ilegalidades acima descritas, espera os impetrantes, haja por bem esse Egrégio Supremo Tribunal Federal, excepcionalmente conhecer do presente mandamus, se o caso de ofício, conceder a ordem LIMINAR, confirmando-a no mérito, para:
+
+    Seja fixada a pena-base no mínimo legal,
+
+    Seja aplicado o redutor previsto no § 4º do artigo 33 da Lei 11.343/06.”
+
+    É o relatório. DECIDO.
+
+    In casu, inexiste situação que permita a concessão da ordem de ofício ante a ausência de teratologia na decisão atacada, flagrante ilegalidade ou abuso de poder. Por oportuno, transcrevo a fundamentação da decisão do Superior Tribunal de Justiça, naquilo que interessa, in verbis:
+
+    “[...] A decisão recorrida, transcrita a seguir, deve ser mantida pelos seus próprios fundamentos, porque ela está em consonância com a jurisprudência desta Corte.
+
+    ‘A individualização da pena é uma atividade em que o julgador está vinculado a parâmetros abstratamente cominados pela lei, sendo-lhe permitido, entretanto, atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, ressalvadas as hipóteses de manifesta ilegalidade ou arbitrariedade, é inadmissível às Cortes Superiores a revisão dos critérios adotados na dosimetria da pena.
+
+    Adotado o sistema trifásico pelo legislador pátrio, na primeira etapa do cálculo, a pena-base será fixada conforme a análise das circunstâncias do art. 59 do Código Penal. Tratando-se de condenado por delitos previstos na Lei de Drogas, o art. 42 da referida norma estabelece a preponderância dos vetores referentes a quantidade e a natureza da droga, assim como a personalidade e a conduta social do agente sobre as demais elencadas no art. 59 do Código Penal.
+
+    Na hipótese, a Corte de origem valorou negativamente a expressiva quantidade de drogas (31 kg de cocaína) e as circunstâncias do delito (utilização do seu cargo/função no aeroporto para facilitar a prática delitiva) para exasperar as sanções iniciais dos delitos de tráfico de drogas e de associação para esse fim em 1/3 acima do mínimo legal. Assim, tendo sido apresentado elementos idôneos para majoração das reprimendas básicas e levando-se em conta as penas mínima e máxima abstratamente cominadas aos referidos delitos (5 a 15 anos e 3 a 10 anos), não se mostra desarrazoado o aumento operado pela instância ordinária, a autorizar a intervenção excepcional desta Corte.
+
+    Confiram-se alguns julgados que respaldam esse entendimento:
+
+    [...]
+
+    A teor do disposto no § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas poderão ter a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades delituosas ou integrarem organização criminosa.
+
+    Na hipótese, a condenação do paciente pela prática do crime de associação para o tráfico de drogas impede a aplicação do redutor por ausência de preenchimento dos requisitos legais, nos termos do art. 33, § 4º, da Lei de Drogas, tendo em vista a exigência de demonstração de estabilidade e permanência no narcotráfico para a configuração do referido delito.
+
+    Cito, a propósito, os seguintes precedentes:
+
+    [...]’
+
+    Ante o exposto, nego provimento ao agravo regimental.”
+
+    Deveras, como se depreende da fundamentação da decisão do juízo a quo, a dosimetria da pena foi realizada com base em fatos e elementos existentes no caso in concreto.
+
+    Na hipótese sub examine, o juízo valorou as circunstâncias relativas ao contexto delitivo apresentando fatos concretos a embasar a conclusão, tendo o Tribunal a quo destacado que “a Corte de origem valorou negativamente a expressiva quantidade de drogas (31 kg de cocaína) e as circunstâncias do delito (utilização do seu cargo/função no aeroporto para facilitar a prática delitiva) para exasperar as sanções iniciais dos delitos de tráfico de drogas e de associação para esse fim em 1/3 acima do mínimo legal”.
+
+    Deveras, cumpre ressaltar que esta Corte sufraga o entendimento de que o habeas corpus é a via inadequada para um juízo de ponderação sobre a suficiência das circunstâncias judiciais valoradas pelas instâncias antecedentes para majorar a pena-base. Nessa linha, in verbis:
+
+    RECURSO ORDINÁRIO EM HABEAS CORPUS. CONSTITUCIONAL. TRÁFICO DE ENTORPECENTE. DOSIMETRIA DA PENA BASE. LIMITES INSTRUTÓRIOS DO HABEAS CORPUS. 1. Elementos concretos para a fixação da pena base imposta ao Paciente, entre os quais a culpabilidade, a quantidade e a natureza do entorpecente apreendido, não se mostra juridicamente desproporcional a pena-base de reclusão mantida nas instâncias antecedentes. 2. Não se presta o habeas corpus para ponderar, em concreto, a suficiência das circunstâncias judiciais invocadas pelas instâncias antecedentes para a majoração da pena-base. Precedentes. 3. Recurso ao qual se nega provimento. (RHC 132.361, Segunda Turma, Rel. Min. Cármen Lúcia, DJe de 22/4/2016)
+
+    AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSO PENAL. DECISÃO MONOCRÁTICA. INEXISTÊNCIA DE ARGUMENTAÇÃO APTA A MODIFICÁ-LA. MANUTENÇÃO DA NEGATIVA DE SEGUIMENTO. DOSIMETRIA DA PENA. CULPABILIDADE CONSIDERADA ACENTUADA. REVISÃO. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO. 1. A inexistência de argumentação apta a infirmar o julgamento monocrático conduz à manutenção da decisão recorrida. 2. Não há ilegalidade evidente ou teratologia a justificar a excepcionalíssima concessão da ordem de ofício na decisão que deixa de reconhecer excesso na fixação da pena. Hipótese em que as instâncias ordinárias concluíram que “a culpabilidade do réu refoge à esfera normal dos delitos da espécie”. 3. Não há como empreender juízo exato da correspondência entre o aumento da pena e a quantidade de circunstâncias judiciais desfavoráveis, visto que a exasperação não deriva, de modo automático, da expressividade numérica dessas particularidades. 4. Agravo regimental desprovido. (HC 130.760-AgR, Primeira Turma, Rel. Min. Edson Fachin, DJe de 22/4/2016)
+
+    Nessa linha, consigno que o Supremo Tribunal Federal fixou entendimento no sentido de que “a dosimetria da pena, bem como os critérios subjetivos considerados pelos órgãos inferiores para a sua realização, não são passíveis de aferição na via estreita do habeas corpus, por demandar minucioso exame fático e probatório inerente a meio processual diverso” (HC 114.650, Primeira Turma, Rel. Min. Luiz Fux, DJe de 14/08/2013). Nesse sentido, o seguinte julgado:
+
+    PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. CONDENAÇÃO TRANSITADA EM JULGADO. DOSIMETRIA DA PENA. 1. A Primeira Turma do Supremo Tribunal Federal consolidou entendimento no sentido da inadmissibilidade do uso da ação de habeas corpus em substituição ao recurso ordinário previsto na Constituição Federal (HC 109.956, Rel. Min. Marco Aurélio; e HC 104.045, Rel.ª Min.ª Rosa Weber). 2. O Supremo Tribunal Federal não admite a utilização do habeas corpus em substituição à ação de revisão criminal (RHC119.605-AgR, Rel. da minha relatoria; HC 111.412-AgR, Rel. Min. Luiz Fux; RHC 114.890, Rel. Min. Dias Toffoli; HC 116.827-MC, Rel. Min. Teori Zavascki; RHC 116.204, Rel.ª Min.ª Cármen Lúcia; e RHC 115.983, Rel. Min. Ricardo Lewandowski). 3. A dosimetria da pena é questão relativa ao mérito da ação penal, estando necessariamente vinculada ao conjunto fático probatório, não sendo possível, em habeas corpus, a análise de dados fáticos da causa para redimensionar a pena finalmente aplicada. Assim, a discussão a respeito da dosimetria da pena cinge-se ao controle da legalidade dos critérios utilizados, restringindo-se, portanto, ao exame da “motivação [formalmente idônea] de mérito e à congruência lógico-jurídica entre os motivos declarados e a conclusão” (HC 69.419, Rel. Min. Sepúlveda pertence). 4. A orientação jurisprudencial do Supremo Tribunal Federal é no sentido de que, “Se instâncias ordinárias concluíram que o ora agravante se dedicava à atividade criminosa para negar a incidência da causa especial de redução de pena prevista no art. 33, § 4º, da Lei de Drogas, para se chegar a conclusão diversa, necessário seria o reexame de fatos e provas, o qual o habeas corpus não comporta. Não há que se falar em bis in idem, pois, embora haja simples referência à quantidade de droga apreendida, ela não foi um fator preponderante na negativa de aplicação da causa especial de redução de pena prevista no art. 33, § 4º, da Lei 11.343/06, já que se entendeu, em razão das circunstâncias em que foi praticado o delito, que o agravante se dedicava à atividade criminosa, o que, por si só, obsta a incidência do redutor de pena pretendido” (HC 136.177-AgR, Rel. Min. Dias Toffoli). 5. Agravo regimental a que se nega provimento. (HC 141.167-AgR, Primeira Turma, Rel. Min. Roberto Barroso, DJe de 16/6/2017)
+
+    Demais disso, no que concerne à aplicabilidade do redutor previsto no artigo 33, § 4º, da Lei nº 11.343/06, o Supremo Tribunal Federal possui precedentes no sentido de que se comprovado o não preenchimento cumulativo dos critérios estabelecidos pelo legislador para a caracterização do tráfico privilegiado, é impossível a sua aplicação. Nessa linha, in verbis:
+
+    AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. AFASTAMENTO DA REDUTORA DO ART. 33, §4º, DA LEI DE DROGAS. AUSÊNCIA DE ILEGALIDADE. REGIME FECHADO. FUNDAMENTAÇÃO IDÔNEA. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE. PEDIDO PREJUDICADO. 1. A incidência da causa especial de redução de pena prevista no § 4º do art. 33 da Lei 11.343/2006 é condicionada ao preenchimento cumulativo dos seguintes requisitos: (a) primariedade do agente; (b) bons antecedentes; (c) não se dedicar a atividades criminosas; e (d) não integrar organização criminosa. Precedentes. 2. Os elementos colhidos pelas instâncias antecedentes, sob o crivo do contraditório e da ampla defesa, indicaram a propensão do agente a práticas criminosas. 3. Para afastar a conclusão implementada pelas instâncias ordinárias seria necessário proceder à análise de fatos e provas, providência incompatível com a via do Habeas Corpus. Precedentes. 4. A fixação do regime inicial de cumprimento da pena não está atrelada, de modo absoluto, ao quantum da sanção corporal aplicada, devendo-se considerar as especiais circunstâncias do caso concreto. Inexistência de ilegalidade. Precedentes. 5. Agravo regimental a que se nega provimento. (HC 208.204-AgR, Primeira Turma, Rel. Min. Alexandre de Moraes, DJe de 22/2/2022)
+
+    Na espécie, o benefício do tráfico privilegiado foi afastado em razão de o paciente dedicar-se a atividades criminosas, tendo o tribunal a quo destacado que “a condenação do paciente pela prática do crime de associação para o tráfico de drogas impede a aplicação do redutor por ausência de preenchimento dos requisitos legais, nos termos do art. 33, § 4º, da Lei de Drogas, tendo em vista a exigência de demonstração de estabilidade e permanência no narcotráfico para a configuração do referido delito”.
+
+    Destarte, eventual exame da pretensão defensiva para divergir do entendimento fixado nas instâncias precedentes, demandaria uma indevida incursão na moldura fática delineada nos autos. Nesse contexto, cumpre ressaltar que o habeas corpus é ação inadequada para a valoração e exame minucioso do acervo fático probatório engendrado nos autos. Nesse sentido:
+
+    AGRAVO INTERNO EM HABEAS CORPUS. IDONEIDADE DA PRISÃO PREVENTIVA. TRÁFICO PRIVILEGIADO AFASTADO AO FUNDAMENTO DE DEDICAÇÃO A ATIVIDADE CRIMINOSA. NECESSÁRIO REEXAME FÁTICO-PROBATÓRIO. HABEAS CORPUS PARCIALMENTE CONHECIDO E INDEFERIDO. 1. Mostra-se idônea a segregação cautelar fundada na garantia da ordem pública, quando demonstrada a periculosidade social do agente evidenciada pela quantidade, variedade e natureza da droga apreendida. 2. A conduta social, os maus antecedentes, a reincidência, o concurso de agentes, a quantidade de droga apreendida e as circunstâncias da apreensão são elementos aptos a indicar a dedicação a atividade criminosa, fundamento idôneo para afastar a minorante do tráfico privilegiado. 3. É inadmissível, na via estreita do habeas corpus, a qual não comporta dilação probatória, o reexame, com vistas ao acolhimento da tese defensiva – ausência de dedicação a atividades criminosas –, do conjunto fático-probatório produzido nas instâncias ordinárias, notadamente considerada a conclusão de que o “maquinário e aparelhos destinados à fabricação, preparação, produção ou transformação de drogas, apreendidos na residência, evidenciam organização e estrutura da atividade criminosa”. 4. Agravo interno desprovido. (HC 210.563-AgR, Segunda Turma, Rel. Min. Nunes Marques, DJe de 6/6/2022)
+
+    Agravo regimental em habeas corpus. Penal e Processo Penal. Tráfico de drogas. Legitimidade da atuação do relator na forma regimental (RISTF, art. 21, § 1º). Inexistência de afronta ao princípio da colegialidade. Precedentes. Pretenso tráfico privilegiado. Dedicação a atividade criminosa relativa ao tráfico reconhecida pelas instâncias ordinárias. Impossibilidade de se revolver o conjunto fático-probatório para se alcançar conclusão diversa. Precedentes. Regimental não provido. (HC 211.408-AgR, Primeira Turma, Rel. Min. Dias Toffoli, DJe de 26/5/2022)
+
+    Outrossim, há que se reconhecer que a dosimetria da pena é matéria sujeita a certa discricionariedade judicial, sujeita à revisão apenas em casos de flagrante teratologia, ilegalidade ou abuso de poder. Nesse sentido o HC nº 132.475, de relatoria da Min. Rosa Weber, Primeira Turma, DJe de 23/8/2016:
+
+    AGRAVO REGIMENTAL NO HABEAS CORPUS. SUBSTITUTIVO DE RECURSO ORDINÁRIO. INADEQUAÇÃO DA VIA ELEITA. REITERAÇÃO DE IMPETRAÇÃO ANTERIOR. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. DOSIMETRIA. FIXAÇÃO DA PENA-BASE. AFASTAMENTO DA MINORANTE DO ARTIGO 33, § 4º, DA LEI 11.343/2006. 1. Contra a denegação de habeas corpus por Tribunal Superior prevê a Constituição Federal remédio jurídico expresso, o recurso ordinário. Diante da dicção do art. 102, II, a, da Constituição da República, a impetração de novo habeas corpus em caráter substitutivo escamoteia o instituto recursal próprio, em manifesta burla ao preceito constitucional. 2. A jurisprudência deste Supremo Tribunal Federal no sentido de que “não se conhece de habeas corpus em que se reitera a pretensão veiculada em writ anteriormente impetrado” (HC 112.645/TO, Rel. Min. Ayres Britto, 2ª Turma, DJe 08.6.2012). 3. A dosimetria da pena é matéria sujeita a certa discricionariedade judicial. O Código Penal não estabelece rígidos esquemas matemáticos ou regras absolutamente objetivas para a fixação da pena. Pertinente à dosimetria da pena, encontra-se a aplicação da causa de diminuição da pena objeto do § 4º do art. 33 da Lei 11.343/2006. 4. Na hipótese, adequada a exasperação da pena-base acima do mínimo legal dada 'a expressiva quantidade de droga apreendida – 57 kg de maconha'. 5. A tese defensiva de aplicação da minorante do § 4º do art. 33 da Lei 11.343/06, afastada pelas instâncias anteriores dada a constatação de o paciente integrar organização criminosa e/ou dedicar-se à atividades delitivas, demandaria o reexame e a valoração de fatos e provas, para o que não se presta a via eleita. 6. Agravo regimental conhecido e não provido.
+
+    Por fim, cumpre registrar que não cabe a rediscussão da matéria perante essa Corte e nesta via processual, porquanto o habeas corpus não é sucedâneo de recurso ou revisão criminal. Nesse sentido:
+
+    AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. WRIT SUCEDÂNEO DE RECURSO OU REVISÃO CRIMINAL. EXECUÇÃO PENAL. FALTA DISCIPLINAR GRAVE. ABSOLVIÇÃO OU DESCLASSIFICAÇÃO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. INVIABILIDADE. MANIFESTA ILEGALIDADE OU TERATOLOGIA NÃO IDENTIFICADAS. 1. Inadmissível o emprego do habeas corpus como sucedâneo de recurso ou revisão criminal. Precedentes. 2. Para concluir em sentido diverso das instâncias anteriores quanto ao pleito de absolvição ou desclassificação da imputação de falta grave, imprescindíveis o reexame e a valoração de fatos e provas, para o que não se presta a via eleita. Precedentes. 3. Agravo regimental conhecido e não provido. (RHC 217.371-AgR, Primeira Turma, Rel. Min. Rosa Weber, DJe de 9/9/2022)
+
+    AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. MATÉRIA CRIMINAL. WRIT UTILIZADO COMO SUCEDÂNEO DE REVISÃO CRIMINAL. IMPOSSIBILIDADE. REGIME. AUSÊNCIA DE ILEGALIDADE EVIDENTE OU TERATOROLOGIA A INFIRMAR JULGAMENTO ACOBERTADO PELA COISA JULGADA. AGRAVO REGIMENTAL DESPROVIDO. 1. O recurso ordinário em habeas corpus não merece conhecimento na medida em que funciona como sucedâneo de revisão criminal. Precedentes. 2. Devido ao caráter excepcional da superação da jurisprudência da Corte, a concessão da ordem de ofício configura providência a ser tomada tão somente em casos absolutamente aberrantes e teratológicos, o que não se verifica na espécie. 3. Agravo regimental desprovido. (RHC 213.694-AgR, Segunda Turma, Rel. Min. Edson Fachin, DJe de 26/8/2022)
+
+    Ex positis, NEGO SEGUIMENTO ao habeas corpus, com fundamento no artigo 21, § 1º do RISTF. Prejudicado o exame do pedido liminar.
+
+    Publique-se.
+
+    Brasília, 20 de março de 2023.
+
+Ministro LUIZ FUX
+
+Relator
+
+Documento assinado digitalmente
