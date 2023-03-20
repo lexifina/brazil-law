@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial, interposto por PANTALICA CONSULTADORIA ESTRATÉGICA LTDA, com amparo nas alíneas "a" e "c" do permissivo constitucional, no intuito de reformar o acórdão proferido pelo Tribunal de Justiça do Estado do Mato Grosso, ementado nos seguintes termos:
+AGRAVO DE INSTRUMENTO - RECUPERAÇÃO JUDICIAL - DECISÃO QUE NÃO RECONHECEU A EXTRACONCURSALIDADE DO CRÉDITO DA AGRAVANTE, OBJETO DA EXECUÇÃO EXTRACONCURSAL, BEM COMO QUE A PRORROGAÇÃO DO PRAZO DE BLINDAGEM NÃO LHE ATINGE - EMPRESA EM RECUPERAÇÃO JUDICIAL - ADIMPLEMENTO CONTRATUAL - CONSTITUIÇÃO DO CRÉDITO - FATO GERADOR OCORRIDO EM MOMENTO ANTERIOR AO PEDIDO RECUPERACIONAL - DECISÃO MANTIDA - AGRAVO DESPROVIDO.
+No caso concreto, o pedido de recuperação judicial foi ajuizado em 16/07/2019 e o processamento da recuperação foi deferido pelo Juízo em 20/08/2019.
+Verifica-se que o crédito exequendo é relativo ao contrato de prestação de serviços datado em 30/03/2018, com finalidade de assessorar o processo de reestruturação financeira do GRUPO MONTE ALEGRE e o processo de captação de recursos de terceiros, com termo de aditivo constituído em 01/03/2019.
+Portanto, o fato gerador do crédito ocorreu antes de 16/07/2019, data da distribuição do pedido recuperacional, de modo que sua natureza é concursal e deve se submeter ao plano de recuperação judicial da agravada.
+Conforme decidiu o Colendo Superior Tribunal de Justiça, "O art. 49 da Lei nº 11.101/2005 ao fazer referência a "todos os créditos existentes na data do pedido", diz respeito àquelas situações essencialmente originadas antes do deferimento da recuperação judicial, quer dizer, débitos contraídos pela empresa antes da sua reconhecida condição de fragilidade". (REsp 1641191/RS, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 13/06/2017, DJe 23/06/2017).
+De acordo com o entendimento consolidado no Superior Tribunal de Justiça, sujeita-se à recuperação judicial o crédito oriundo de fato anterior à declaração da recuperação, ainda que o provimento judicial que o reconheceu seja posterior.
+Opostos embargos de declaração, restaram rejeitados.
+Nas razões do recurso especial (fls. 1263/1342, e-STJ), a recorrente aponta, além de dissídio jurisprudencial, violação, pelo aresto estadual, aos artigos 7º, 49 e 67 todos da Lei 11.101/2005.
+Sustenta, para tanto, que o seu crédito é extraconcursal, pois foi constituído após o ajuizamento do pedido de recuperação judicial.
+Contrarrazões (fls. 1347/1370, e-STJ), e após decisão de admissão do recurso especial (fls. 1373/1380, e-STJ), os autos ascenderam a esta egrégia Corte de Justiça.
+É o relatório.
+Decido.
+O inconformismo não merece prosperar.
+1. Sobre a questão posta em julgamento, assim decidiu a Corte Estadual:
+Ao analisar o pleito, o Magistrado de piso entendeu que o objeto da referida ação executiva se refere ao contrato de prestação de serviços datado de 30/03/2018, com o escopo de assessoria no processo de reestruturação financeira do GRUPO MONTE ALEGRE, bem como no processo de captação de recursos de terceiros, com termo de aditivo constituído em 01/03/2019 e com a finalidade de alteração do seu prazo de vigência.
+Pontuou que o crédito perseguido pela empresa PANTÁLICA na ação de execução citada, referente ao inadimplemento da quantia de R$124.657,00, atinente aos honorários de assessoria vencidos nos meses de janeiro à agosto de 2019, foi constituído em momento anterior ao ajuizamento desta demanda (16/07/2019), motivo pelo qual seu crédito está sujeito aos efeitos da recuperação judicial, porquanto que existente em data anterior ao pedido recuperacional, nos exatos termos do art.49, caput, da Lei de Regência, razão pela qual rejeitou os embargos de declaração.
+(..)
+Conforme disposto no art. 49 da Lei nº 11.101/2005, "estão sujeitos à recuperação judicial todos os créditos existentes na data do pedido, ainda que não vencidos".
+O §2º do mesmo dispositivo aponta que "as obrigações anteriores à recuperação judicial observarão as condições originalmente contratadas ou definidas em lei, inclusive no que diz respeito aos encargos, salvo se de modo diverso ficar estabelecido no plano de recuperação judicial".
+Conforme decidiu o Colendo Superior Tribunal de Justiça, "O art. 49 da Lei nº 11.101/2005 ao fazer referência a "todos os créditos existentes na data do pedido", diz respeito àquelas situações essencialmente originadas antes do deferimento da recuperação judicial, quer dizer, débitos contraídos pela empresa antes da sua reconhecida condição de fragilidade". (REsp 1641191/RS, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 13/06/2017, DJe 23/06/2017).
+De acordo com o entendimento consolidado no Superior Tribunal de Justiça, sujeita-se à recuperação judicial o crédito oriundo de fato anterior à declaração da recuperação, ainda que o provimento judicial que o reconheceu seja posterior. (grifou-se)
+Observa-se, portanto, que o acórdão recorrido está em perfeita sintonia com a jurisprudência vinculante do Superior Tribunal de Justiça (Tema 1.051 do STJ), no sentido de que "para sujeição do crédito ao plano de recuperação judicial, segundo o disposto no art. 49, caput, da Lei 11.101/2005, é necessário apenas a constatação do vínculo jurídico entre as partes, sendo prescindível a declaração judicial ou o trânsito em julgado" (AgInt no REsp n. 1.813.523/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 14/10/2019, DJe de 22/10/2019.)
+A tese repetitiva é clara:
+RECURSO ESPECIAL REPETITIVO. DIREITO EMPRESARIAL. RECUPERAÇÃO JUDICIAL. CRÉDITO. EXISTÊNCIA. SUJEIÇÃO AOS EFEITOS DA RECUPERAÇÃO JUDICIAL. ART. 49, CAPUT, DA LEI Nº 11.101/2005. DATA DO FATO GERADOR.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Ação de reparação de danos pela cobrança indevida de serviços não contratados. Discussão acerca da sujeição do crédito aos efeitos da recuperação judicial.
+3. Diante da opção do legislador de excluir determinados credores da recuperação judicial, mostra-se imprescindível definir o que deve ser considerado como crédito existente na data do pedido, ainda que não vencido, para identificar em quais casos estará ou não submetido aos efeitos da recuperação judicial.
+4. A existência do crédito está diretamente ligada à relação jurídica que se estabelece entre o devedor e o credor, o liame entre as partes, pois é com base nela que, ocorrido o fato gerador, surge o direito de exigir a prestação (direito de crédito).
+5. Os créditos submetidos aos efeitos da recuperação judicial são aqueles decorrentes da atividade do empresário antes do pedido de soerguimento, isto é, de fatos praticados ou de negócios celebrados pelo devedor em momento anterior ao pedido de recuperação judicial, excetuados aqueles expressamente apontados na lei de regência.
+6. Em atenção ao disposto no art. 1.040 do CPC/2015, fixa-se a seguinte tese: Para o fim de submissão aos efeitos da recuperação judicial, considera-se que a existência do crédito é determinada pela data em que ocorreu o seu fato gerador.
+7. Recurso especial provido.
+(REsp n. 1.843.332/RS, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 9/12/2020, DJe de 17/12/2020.)
+Sendo o crédito ora requerido concursal, não lhe assiste razão, atraindo, na hipótese, o enunciado da Súmula 83 do STJ.
+2. Ante o exposto, nego provimento ao reclamo e, por conseguinte, julgo prejudicadas as petições de fls. 1387 a 1647 (e-STJ).
+Publique-se. Intimem-se.
