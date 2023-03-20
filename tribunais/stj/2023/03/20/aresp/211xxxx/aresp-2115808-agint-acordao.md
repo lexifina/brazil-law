@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/03/2023 a 20/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno manejado por UNILANCE ADMINISTRADORA DE CONSORCIO LTDA FALIDO contra decisão de minha lavra, assim ementada (e-STJ, fls. 633/644):
+AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. ALEGAÇÃO DE VIOLAÇÃO AOS ARTS. 1.022 E 489 DO CPC. INOCORRÊNCIA. ACÓRDÃO RECORRIDO QUE DECIDIU TODAS AS QUESTÕES POSTAS DE MANEIRA INTEGRAL E COM FUNDAMENTAÇÃO SUFICIENTE. ALEGAÇÃO DE QUE OS LITISCONSORTES FORAM TRATADOS COMO O MESMO LITIGANTE, O QUE PROVOCOU CERCEAMENTO DE DEFESA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282/STF E 356/STF. ALEGAÇÃO DE OFENSA AOS DIREITOS DA TERCEIRA DE BOA-FÉ. FUNDAMENTOS NÃO IMPUGNADOS. SÚMULA 283/STF. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO, COM MAJORAÇÃO DE HONORÁRIOS.
+Em suas razões recursais, a parte agravante alega que (e-STJ, fls. 649/652):
+2. Em decisão agravada, o Exmo. Ministro Relator entendeu que não restou demonstrada a contrariedade aos artigos 489 e 1.022 do CPC, eis que teria o TJSP julgado fundamentadamente a matéria devolvida, expondo os motivos pelos quais os prepostos da CORRÉ podem ser considerados como prepostos da FALIDA:
+ ..
+10. Desse modo, resta calo a contrariedade do acórdão recorrido aos artigos 489 e 1.022 do CPC ao deixar o juízo de sanar o erro material no acórdão, fundado na confusão das condutas atribuídas à FALIDA e à CORRÉ ao longo da fundamentação.
+No mais, defende que (e-STJ, fls. 653/657):
+11. Noutro ponto da decisão recorrida, o Exmo. Ministro Relator refuta conhecimento a contrariedade ao artigo 117 do CPCcom fulcro nas súmulas nº 282 e 356 do STF, eis que supostamente não teria havido pré-questionamento da tese de que as "litisconsortes recorrente e recorrida/corré foram tratadas como se fossem a mesma litigante":
+ ..
+18. Resta evidente, portanto, o efetivo pré-questionamento à confusão do juízo entre a FALIDA e CORRÉ, o que funda a contrariedade ao artigo 117 do CPC, sendo forçosa a cassação da decisão agravada para o fim de enfrentar o mérito especial.
+Por fim, sustenta que (e-STJ, fls. 657/665):
+19. Noutro ponto, o Exmo. Ministro refutou conhecimento ao especial quanto a contrariedade ao artigo 167, § 2º, do CC com fulcro na Sumula nº 283/STF, eis que teria AGRAVANTE deixado de impugnar "a veracidade das alegações trazidas na petição inicial em virtude da impugnação genérica; o fato de os prepostos da corré MF, pela teoria da aparência, poderem ser considerados como prepostos da Corré Unilance, uma vez que agiam em nome dessa no momento da contratação, motivo pelo qual manteve-se a solidariedade entre as corrés; o entendimento de que, não podendo haver enriquecimento sem causa, nem se seguir as regras do consórcio para devolução do valor pago pelo autor, em virtude de não haver negócio jurídico válido (reciprocidade no dolo), resta mantida a fundamentação constante da sentença."
+ ..
+26. Quanto a "a veracidade das alegações trazidas na petição inicial em virtude da impugnação genérica", trata-se de fundamento efetivamente rebatidos em recurso especial e prejudicados pela contrariedade apontada pela AGRAVANTE ao artigo 117 do CPC.
+27. A AGRAVANTE apontou especificamente que a presunção de veracidade em prejuízo da FALIDA por fatos imputados à CORRÉ fundava-se em erro ao confundir a responsabilidade de cada litisconsorte, exsurgindo a contrariedade ao artigo 117 do CPC:
+ ..
+28. Quanto ao "fato de os prepostos da corré MF, pela teoria da aparência, poderem ser considerados como prepostos da Corré Unilance, uma vez que agiam em nome dessa no momento da contratação, motivo pelo qual manteve-se a solidariedade entre as corrés", a AGRAVANTE efetivamente rebateu referido fundamento.
+ ..
+32. Desse modo, a AGRVANTE rebateu especificamente a confusão entre os atos da FLAIDA e da CORRÉ, sendo patente a prejudicialidade do fundamento decorrente da contrariedade aos artigos 117 do CPC e 167 do CC.
+33. Já quanto ao"entendimento de que, não podendo haver enriquecimento sem causa, nem se seguir as regras do consórcio para devolução do valor pago pelo autor, em virtude de não haver negócio jurídico válido (reciprocidade no dolo), resta mantida a fundamentação constante da sentença.", trata-se de outro fundamento prejudicado pelo mérito trazido em Especial pela AGRAVANTE e devidamente impugnado.
+ ..
+35. Assim, o TJSP anulou o contrato em desfavor da FALIDA/TERCEIRA DE BOA-FÉ por atos dolosos no negócio jurídico praticados decididamente pelo AGRAVADO e CORRÉ, contrariando a literalidade do artigo 167, § 2º, do CPC:
+ ..
+36. A AGRAVANTE apontou, ainda, que o entendimento do TJSP, para além de prejudicar a FALIDA pelos atos dolosos do AGRAVADO e CORRÉ, premia indevidamente o AGRAVADO ao dar causa ao ato ilícito de simulação por ele causado:
+ ..
+37. Desse modo, resta claro que a AGRAVANTE impugnou todos os fundamentos que pautaram o acórdão recorrido, sendo imperioso o acolhimento do presente agravo para o fim de cassar a decisão de não conhecimento e passar a análise do mérito Especial.
+Impugnação às fls. 669/680 e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE VIOLAÇÃO AOS ARTS. 1.022 E 489 DO CPC. INOCORRÊNCIA. ACÓRDÃO RECORRIDO QUE DECIDIU TODAS AS QUESTÕES POSTAS DE MANEIRA INTEGRAL E COM FUNDAMENTAÇÃO SUFICIENTE. ALEGAÇÃO DE QUE OS LITISCONSORTES FORAM TRATADOS COMO O MESMO LITIGANTE, O QUE PROVOCOU CERCEAMENTO DE DEFESA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282/STF E 356/STF. ALEGAÇÃO DE OFENSA AOS DIREITOS DA TERCEIRA DE BOA-FÉ. FUNDAMENTOS NÃO IMPUGNADOS. SÚMULA 283/STF. INEXISTÊNCIA DE RAZÕES QUE JUSTIFIQUEM A ALTERAÇÃO DA DECISÃO AGRAVADA.
+AGRAVO INTERNO NÃO PROVIDO.
+VOTO
+Eminentes Colegas, o agravo interno não merece provimento.
+Em que pese o arrazoado, entendo que a ausência de qualquer novo subsídio trazido pela parte agravante, capaz de alterar a conclusão da decisão ora agravada, faz subsistir incólume o entendimento nela firmado.
+Dessa forma, o entendimento firmado na decisão monocrática recorrida deve ser mantido.
+Conforme destacado na decisão agravada, a Corte local, no que concerne à suposta violação aos arts. 489 e 1.022 do CPC, por ocasião do julgamento dos embargos de declaração opostos, decidiu que (e-STJ, fl. 529):
+Seja como for, como no CD consta que o autor se reporta a tratativas que estava realizando com prepostos da corré Unilance, e à fl. 207, em extrato atualizado de titularidade desta última, consta que a corré MF é comissionada do consórcio firmado pelo requerente, tem-se que, pela teoria da aparência, referidos representantes podem ser considerados como sendo da própria corré Unilance, no momento em que estavam tratando do negócio objeto dos autos, até porque agiam em seu nome.
+Desse modo, sendo considerados os prepostos da corré MF (comissionada) como os próprios prepostos da corré Unilance no momento da contratação, e, repetindo a fundamentação do v. acórdão embargado, não impugnado especificamente estas últimas conversas atribuídas aos seus prepostos (antepenúltimo § de fl. 517), mantém-se a solidariedade entre ambas as corrés, para os fins do quanto decidido na r. sentença de fls. 401/410.
+Com efeito, verifica-se que a Corte estadual julgou fundamentadamente a matéria devolvida à sua apreciação, expondo as razões que levaram ao entendimento de que os prepostos da corré MF podem ser considerados como prepostos da Corré Unilance, uma vez que agiam em nome dessa no momento da contratação, motivo pelo qual manteve a solidariedade entre as corrés.
+Destarte, não há que se falar em negativa de prestação jurisdicional ou em carência de fundamentação.
+Quanto à indicada violação ao art. 117 do CPC, no que concerne à alegação de que as litisconsortes recorrente e recorrida/corré foram tratadas como se fossem a mesma litigante, o que caracterizou cerceamento de defesa da recorrente, verifica-se, conforme aludido na decisão agravada, que não houve o prequestionamento da referida tese, sob a ótica pretendida, o que atrai o óbice das Súmulas 282/STF e 356/STF.
+Nessa esteira, ressalta-se que "esta Corte Superior tem entendimento no sentido de que a análise de tese no âmbito do recurso especial exige a prévia discussão no Tribunal de origem, sob pena de incidirem as Súmulas 282 e 356 do Supremo Tribunal Federal." (AgInt no REsp n. 1.968.005/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 24/10/2022, DJe de 28/10/2022.).
+Quanto à apontada violação ao art. 167, § 2º, do CC, no que concerne à alegação de ofensa aos direitos da falida enquanto terceira de boa-fé nos atos dolosos de simulação, destaca-se, conforme asseverado na decisão agravada, que a parte recorrente deixou de refutar, de forma específica e pormenorizada, os principais fundamentos trazidos pelo acórdão para indeferir seu pleito, quais sejam: a veracidade das alegações trazidas na petição inicial em virtude da impugnação genérica; o fato de os prepostos da corré MF, pela teoria da aparência, poderem ser considerados como prepostos da Corré Unilance, uma vez que agiam em nome dessa no momento da contratação, motivo pelo qual manteve-se a solidariedade entre as corrés; o entendimento de que, não podendo haver enriquecimento sem causa, nem se seguir as regras do consórcio para devolução do valor pago pelo autor, em virtude de não haver negócio jurídico válido (reciprocidade no dolo), resta mantida a fundamentação constante da sentença, o que atrai o óbice da Súmula 283/STF.
+Nessa esteira, ressalta-se que "a ausência de impugnação específica sobre fundamento suficiente, que por si só, é capaz de manter a conclusão esposada no acórdão recorrido, configura deficiência na fundamentação e atrai a incidência da Súmula 283 do STF." (AgInt no AgInt no AREsp n. 1.872.162/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 3/10/2022, DJe de 5/10/2022.).
+Assim, em que pesem as razões desenvolvidas pela parte no presente agravo interno, não foram trazidos argumentos capazes de alterar a decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+Advirta-se que a oposição de incidentes processuais infundados dará ensejo à aplicação de MULTA por conduta processual indevida (art. 1.026, § 2º, do CPC/2015).
+É o voto.
