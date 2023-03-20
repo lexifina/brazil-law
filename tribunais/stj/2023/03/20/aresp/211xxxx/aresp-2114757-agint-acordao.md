@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/03/2023 a 20/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de agravo interno interposto por BANCO VOLKSWAGEN S. A. em face de decisão monocrática da lavra deste signatário que negou provimento ao agravo em recurso especial.
+O aludido apelo extremo, fundado nas alíneas a e c do permissivo constitucional, desafiou acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, assim ementado (e-STJ, fl. 76):
+AGRAVO DE INSTRUMENTO. AÇÃO DE BUSCA EAPREENSÃO. LIMINAR DEFERIDA. NOTIFICAÇÃO EXTRAJUDICIALNÃO ENTREGUE NO ENDEREÇO DO DEVEDOR. BEM APREENDIDO EM POSSE DE TERCEIRA PESSOA. INADIMPLÊNCIA NÃO CONTESTADA. DEVOLUÇÃO TEMERÁRIA. I - É firme a jurisprudência deste egrégio Tribunal de Justiça no sentido de que, caso frustrada a tentativa de notificação pessoal do devedor/agravado, constando do aviso de recebimento ser insuficiente o endereço informado no contrato, não se configura a mora, pressuposto processual da ação se busca e apreensão (Súmula 72, do TJGO). II - Todavia, na situação particular do caso em apreço, constatado na origem que o veículo foi apreendido na posse de3ª pessoa, em endereço diverso do informado pelo devedor, e que na contestação este não refuta a afirmação de que está inadimplente desde a 1ª parcela do financiamento, entende-se temerária a devolução do bem, o qual, por cautela, deverá permanecer na posse do banco, com a proibição de alienação, até o julgamento final da ação de busca e apreensão. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+Não foram opostos embargos de declaração.
+Nas razões do especial (e-STJ, fls. 87-101), a parte recorrente sustentou violação aos arts. 3º, caput e §§ 1º e 2º, do Decreto-Lei nº 911/1969 e art. 1228 do Código Civil, alegando que o Tribunal de origem não pode impedir o credor fiduciário de retirar o veículo da comarca ou aliená-lo.
+Apontou, ainda, divergência jurisprudencial.
+Sem contrarrazões.
+Em sede de juízo provisório de admissibilidade, o Tribunal local negou seguimento ao recurso especial (fls. 129-131, e-STJ), o que ensejou o manejo do agravo (fls. 135-141, e-STJ), buscando destrancar o processamento daquela insurgência.
+Em decisão monocrática (e-STJ, fls. 160-163), este signatário negou provimento ao recurso especial em razão da incidência da Súmula 735/STF.
+No presente agravo interno (e-STJ, fls. 166-173), o ora agravante combate o óbice supracitado e reitera os mesmos argumentos lançados nas razões do apelo extremo.
+Requer, por fim, a reconsideração da decisão monocrática ou sua reforma pelo Colegiado.
+Sem impugnação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA RECURSAL DA PARTE AGRAVADA.
+1. Conforme a orientação jurisprudencial adotada por este Superior Tribunal de Justiça, é incabível, em regra, o recurso especial em que se postula o reexame do deferimento ou indeferimento de medida acautelatória ou antecipatória, ante a natureza precária e provisória do juízo de mérito desenvolvido em liminar ou tutela antecipada, cuja reversão, a qualquer tempo, é possível no âmbito da jurisdição ordinária, o que configura ausência do pressuposto constitucional relativo ao esgotamento de instância, imprescindível ao trânsito da insurgência extraordinária. Incidência da Súmula 735 do STF.
+2. Ademais, a análise do preenchimento dos requisitos autorizadores da antecipação dos efeitos da tutela jurisdicional e das razões que levaram a Corte de origem a modificar a decisão reclama a reapreciação do contexto fático-probatório dos autos, providência inviável em sede de recurso especial, ante o óbice da Súmula 7/STJ.
+3. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): O agravo interno não merece acolhida, porquanto os argumentos tecidos pela parte agravante são incapazes de infirmar a decisão agravada, motivo pelo qual merece ser mantida na íntegra, por seus próprios fundamentos.
+1. Não merece reparos a decisão agravada que aplicou o óbice da Súmula 735/STF à pretensão recursal relativa aos arts. 3º, caput e §§ 1º e 2º, do Decreto-Lei nº 911/1969 e art. 1228 do Código Civil.
+Na hipótese, a Corte estadual, ao apreciar a controvérsia, concluiu ser prudente a manutenção do bem na posse da instituição financeira autora, até que se resolva o mérito da ação de busca e apreensão.
+Confira-se (e-STJ, fl. 80):
+Contudo, no caso dos autos, levando-se em conta o tempo decorrido desde a apreciação do pedido liminar no presente Agravo de Instrumento e o atual estágio do feito na origem, os novos fatos lá apurados, especialmente a apreensão do bem em posse de 3ª pessoa e em endereço diverso daquele informado pelo devedor (o correto), bem como a confirmação "tácita" do requerido de que é realmente devedor dos valores na forma como foram contratados, exigem cautela deste Relator quanto à eventual devolução do veículo. Dessa forma, nesta etapa processual, entendo prudente a manutenção do bem na posse da instituição financeira autora, até que se resolva o mérito da ação de busca e apreensão.
+Consoante asseverado na decisão singular, a jurisprudência pacífica do STJ é no sentido de ser incabível, via de regra, o recurso especial que postula o reexame do deferimento ou indeferimento de medida acautelatória ou antecipatória, ante a natureza precária e provisória do juízo de mérito desenvolvido em liminar ou tutela antecipada, cuja reversão, a qualquer tempo, é possível no âmbito da jurisdição ordinária, o que configura ausência do pressuposto constitucional relativo ao esgotamento de instância, imprescindível ao trânsito da insurgência extraordinária.
+Aplica-se, por analogia, a Súmula 735/STF ("Não cabe recurso extraordinário contra acórdão que defere medida liminar.").
+Ademais, a análise do preenchimento dos requisitos autorizadores da antecipação dos efeitos da tutela jurisdicional e das razões que levaram a Corte de origem a modificar a decisão reclama a reapreciação do contexto fático-probatório dos autos, providência inviável em sede de recurso especial, ante o óbice da Súmula 7/STJ.
+Nesse sentido, confira-se:
+PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO CIVIL PÚBLICA. LEGITIMIDADE ATIVA DO MINISTÉRIO PÚBLICO. CONSUMIDORES. CONTRATO DE EMPRÉSTIMO CONSIGNADO. INTERESSE DIFUSO, COLETIVO E INDIVIDUAL HOMOGÊNEO. ACÓRDÃO RECORRIDO EM HARMONIA COM O ENTENDIMENTO DO STJ. SÚMULA Nº 568 DO STJ. TEMAS NÃO ENFRENTADOS PELO TRIBUNAL ESTADUAL. FALTA DE PREQUESTIONAMENTO. AUSÊNCIA DE INDICAÇÃO DO ART. 535 DO CPC/73. SÚMULA Nº 211 DO STJ. ALEGADO JULGAMENTO EXTRA PETITA. MULTA COMINATÓRIA. CABIMENTO. VALOR. RAZOABILIDADE. REDUÇÃO. DESNECESSIDADE. REFORMA. SÚMULA Nº 7 DO STJ. PRECEDENTES. SUSPENSÃO DO TRÂMITE PROCESSUAL. DECISÃO DE NATUREZA PROVISÓRIA. ANTECIPAÇÃO DOS EFEITOS DA TUTELA. REQUISITOS. INCIDÊNCIA DAS SÚMULAS NºS 735/STF E 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+5. Não se conhece do apelo nobre quando o fundamento central está calcado em decisão de natureza precária, sem caráter definitivo, aplicando, por analogia, a ratio decidendi dos precedentes que deram origem à Súmula nº 735 do STF.
+(..)
+8. Agravo interno não provido.
+(AgInt no REsp 1819902/CE, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 30/03/2020, DJe 01/04/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. TUTELA DE URGÊNCIA. SÚMULA 735 DO STF. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Em sede de recurso especial contra acórdão que nega ou concede antecipação de tutela, o exame feito por esta Corte Superior restringe-se à análise dos dispositivos relacionados aos requisitos da tutela de urgência ficando obstado verificar-se a suposta violação de normas infraconstitucionais relacionadas ao mérito da ação principal. Precedentes.
+2. A concessão ou revogação da antecipação da tutela pela instância recorrida fundamenta-se nos requisitos da verossimilhança e do receio de dano irreparável ou de difícil reparação aferidos a partir do conjunto fático-probatório constante dos autos, sendo defeso ao Superior Tribunal de Justiça o reexame dos aludidos pressupostos, em face do óbice contido na Súmula 7 do STJ.
+3. Esta Corte, em sintonia com o disposto na Súmula 735 do STF (Não cabe recurso extraordinário contra acórdão que defere medida liminar), entende que, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, pois "é sabido que as medidas liminares de natureza cautelar ou antecipatória são conferidas à base de cognição sumária e de juízo de mera verossimilhança. Por não representarem pronunciamento definitivo, mas provisório, a respeito do direito afirmado na demanda, são medidas, nesse aspecto, sujeitas à modificação a qualquer tempo, devendo ser confirmadas ou revogadas pela sentença final. Em razão da natureza precária da decisão, em regra, não possuem o condão de ensejar a violação da legislação federal." (AgRg no REsp 1159745/DF, Min. Humberto Martins, Segunda Turma, julgado em 11/05/2010, DJe 21/05/2010).
+4. Agravo interno não provido.
+(AgInt no AREsp 1292463/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 23/08/2018, DJe 28/08/2018)
+De rigor, portanto, a manutenção da decisão agravada.
+2. Do exposto, nega-se provimento ao agravo interno.
+É como voto.
