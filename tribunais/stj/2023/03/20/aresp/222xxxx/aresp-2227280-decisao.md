@@ -1,0 +1,13 @@
+DECISÃO
+Cuida-se de agravo interposto por TUBOCERTO INDUSTRIA DE TREFILADOS LTDA, contra decisão que inadmitiu recurso especial com fundamento no art. 105, inciso III, da Constituição Federal.
+É, no essencial, o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n. 02 e n. 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise do recurso de TUBOCERTO INDUSTRIA DE TREFILADOS LTDA, o recurso especial foi instruído de forma insuficiente quanto ao preparo, no ato de sua interposição. No caso, não foram recolhidas as custas devidas ao Superior Tribunal de Justiça.
+Ademais, percebeu-se, no STJ, haver irregularidade no recolhimento do preparo, bem como na representação processual do agravo. A parte, embora regularmente intimada para sanar referidos vícios, apresentou recurso contra a certidão de saneamento de óbices, no qual regulariza apenas a representação, mas não o preparo.
+Convém esclarecer, que ao caso, aplica-se, por analogia, o entendimento previsto no art. 1.001 do CPC, em que a certidão é irrecorrível, uma vez que não possui conteúdo decisório (Nesse sentido, mutatis mutandis: AgInt nos EDcl na PET nos EAREsp 1.209.653/SP, relator Ministro Benedito Gonçalves, Corte Especial, julgado em 06/11/2019, DJe 11/11/2019; AgInt na PET na PET no AgInt nos EDcl no RE nos EDcl nos EDcl no MS 20.443/DF, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, julgado em 22/10/2019, DJe de 28/10/2019).
+Portanto, não conheço da irresignação, uma vez que manifestamente incabível.
+Esclareça que o recurso manifestamente incabível não interrompe o prazo para a regularização do vício apontado.
+Dessa forma, tendo o prazo escoado, sem cumprimento da diligência, o recurso não foi devida e oportunamente regularizado, incidindo, na espécie, o disposto na Súmula n. 187 do STJ, o que leva à deserção do recurso.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se. Intimem-se.
