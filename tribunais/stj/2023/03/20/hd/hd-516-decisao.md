@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de habeas data impetrado por ODILA PORTELA, figurando como impetrado o PRESIDENTE DO BANCO CENTRAL DO BRASIL, por meio do qual almeja, em síntese, a obtenção de informações quanto a contratos de empréstimo e financiamento feitos por ela com instituições financeiras nos últimos 10 anos.
+Tendo em vista que o Banco Central qualifica-se como autarquia federal e que a questão debatida não diz respeito à relação de caráter privado travada entre as partes, a competência para julgamento do presente habeas data é da Primeira Seção (art. 9º, § 1º, XIV, do RISTJ).
+A corroborar tal conclusão, colaciona-se ementa referente a acórdão proferido pela Primeira Seção do STJ, o qual tratou de matéria semelhante à debatida nestes autos:
+CONSTITUCIONAL. ADMINISTRATIVO. PROCESSUAL CIVIL. HABEAS DATA. INFORMAÇÕES BANCÁRIAS. SISTEMA DE INFORMAÇÕES DE CRÉDITO DO BANCO CENTRAL - SCR. ILEGITIMIDADE PASSIVA AD CAUSAM NO QUE TANGE À INCLUSÃO OU MODIFICAÇÃO DE DADOS NO SISTEMA. RESOLUÇÃO CMN 3.658/2008. FORNECIMENTO DE INFORMAÇÕES E DETALHES DAS ANOTAÇÕES. POSSIBILIDADE. PRECEDENTE DO STJ.
+1. Cuida-se de habeas data impetrado contra o Presidente do Banco Central no qual se postulam o fornecimento de informações constantes no Sistema de Informações de Crédito (SCR) bem como a retificação de anotações negativas ou, ainda, a menção de que parte delas não seria verossímil em razão de decisão judicial favorável ao cliente bancário.
+2. A autoridade coatora, Presidente do Banco Central, não possui legitimidade passiva ad causam em parte do pleito, uma vez que a inclusão ou a retificação de informações no SCR, nos termos do art. 9º da Resolução CMN n. 3.658/2008, é de exclusiva competência das instituições listadas no art. 4º da referida norma regulamentar.
+3. Mesmo a retificação de informação negativa, cujo teor deva ser modificado em razão de decisão judicial transitada em julgada, deve ser feita no Sistema de Informações de Crédito pela entidade bancária envolvida e não pelo Presidente do Banco Central.
+4. Na mesma linha, o precedente (HD 160/DF, Rel. Ministra Denise Arruda, Primeira Seção, DJe 22.9.2008) fixa que é possível conceder parte da ordem pedida para que haja esclarecimentos e detalhes sobre as anotações existentes no SCR, uma vez que a autoridade indicada é depositária de informações, as quais possuem relevância ao im petrante. Ordem concedida em parte. Agravo regimental prejudicado.
+(HD: 265 DF 2013/0220899-0, S1 - PRIMEIRA SEÇÃO, DJe 6/ 5/2014)
+No mesmo sentido, há diversas decisões monocráticas prolatadas por Ministros integrantes das Turmas que compõe a Seção de Direito Público.
+Exemplificativamente: HD 508, DJe 1 9/8/2022 e HD 500, DJe 27/6/2022.
+Determino, assim, a redistribuição dos autos à Relatoria de um dos Ministros integrantes das Turmas que compõem a Primeira Seção.
+À redistribuição.
