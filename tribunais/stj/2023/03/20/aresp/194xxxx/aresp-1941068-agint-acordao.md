@@ -1,0 +1,79 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/03/2023 a 20/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+Trata-se de agravo interno interposto por JOÃO BATISTA INÁCIO LEÃO contra decisão em que conheci do agravo para conhecer de parcialmente de seu recurso especial e negar-lhe provimento.
+A parte agravante reafirma a ocorrência de omissão no acórdão de origem e insiste na contrariedade ao art. 1.021, § 3º, do CPC/2015, por se utilizar o Tribunal a quo de fundamentação per relationem no agravo interno.
+Também repete a pretensão calcada no suposta violação do art. 85, § 11, do CPC/205, porque seriam indevidos honorários recursais, uma vez que não houve trabalho adicional desenvolvido pelo causídico, dada ausência de apresentação de contrarrazões.
+Contraminuta apresentada às e-STJ fls. 607/624, em que a parte adversa pugna pelo desprovimento do recurso.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ACÓRDÃO COMBATIDO. OMISSÃO INOCORRÊNCIA. FUNDAMENTAÇÃO PER RELATIONEM. POSSIBILIDADE. HONORÁRIOS RECURSAIS. CABIMENTO.
+1. Inexiste violação do art. 1.022 do CPC/2015 quando o Tribunal de origem aprecia fundamentadamente a controvérsia, apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como constatado na hipótese.
+2. É possível que, nas decisões judiciais, seja utilizada a técnica de fundamentação referencial ou per relationem. Precedentes.
+3. É desnecessária a demonstração de trabalho adicional do advogado para a majoração dos honorários imposta pelo § 11 do art. 85 do CPC/2015. Precedentes.
+4 . Agravo interno desprovido.
+VOTO
+O presente agravo não merece prosperar.
+Como assinalado na decisão ora agravada, em relação à alegada ofensa dos arts. 489 e 1.022 do CPC/2015, cumpre destacar que, ainda que o recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação. Não há como confundir o resultado desfavorável ao litigante com a falta de fundamentação, motivo pelo qual não se constata violação dos preceitos apontados.
+Consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater um a um todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie. Nesse sentido:
+IPVA. NÃO CONFIGURADA VIOLAÇÃO DO ART. 1.022 DO CPC/2015. CERCEAMENTO DE DEFESA. INCIDÊNCIA DA SÚMULA 283 DO STF. ALIENAÇÃO FIDUCIÁRIA DE VEÍCULO. ILEGITIMIDADE PASSIVA DO CREDOR FIDUCIÁRIO. CONTROVÉRSIA DIRIMIDA COM ANÁLISE DE LEGISLAÇÃO DISTRITAL. INCIDÊNCIA DA SÚMULA 280/STF. LEI LOCAL. ILEGITIMIDADE ATIVA DO DISTRITO FEDERAL. REEXAME DO CONJUNTO PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7 DO STJ. MULTA DO ART. 1026 DO CPC/2015.
+1. Inicialmente, em relação aos arts. 141 e 1022 do CPC, deve-se ressaltar que o acórdão recorrido não incorreu em omissão, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente. Vale destacar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional.
+ ..
+(REsp 1.671.609/DF, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, DJe 30/06/2017).
+No caso, o Tribunal a quo decidiu integralmente a controvérsia, nos seguintes termos (e-STJ fls. 316/319):
+Adentrando ao mérito, repito que o autor requer a equipação de gratificação que recebe pela função de Encarregado de Escrivania (símbolo FEC 05) com a gratificação supostamente recebida pelos Secretários de Câmara (símbolo DAE 09), ou ainda, de (símbolo FEC 10).
+Ressai dos documentos coligidos aos autos que o autor é servidor efetivo desde janeiro de 2008, e foi nomeado para provimento do cargo de Escrivão Judiciário II, B- 3/Encarregado de Escrivania, FEC 5, da Escrivania de Fazendas Públicas e 2º Cível da Comarca de Goiás, desde a data de 21/11/2018.
+Entende que deve ser autorizado a percepção da diferença das funções entre aquilo que efetivamente recebe quando em atividade enquanto Escrivão Judiciário II, B- 3/Encarregado de Escrivania e o que seria devido a um Secretário de Câmara.
+De fato, ainda que o autor alegue exercer a mesma função de Secretário de Câmara e que pretenda apenas a equiparação de gratificação, com a diferença vencimental, é certo que a referida equiparação salarial em situações jurídicas distintas é medida que contraria dispositivo constitucional e o entendimento jurisprudencial consolidado em Súmula Vinculante.
+Consabido que o servidor pode exercer as mesmas funções em condições funcionais ou pessoais distintas, fazendo jus a retribuições diferentes, sem ofensa ao princípio isonômico.
+Importante salientar, ainda, que o artigo 39, § 1º, da Carta Maior, determina que a fixação dos vencimentos e demais componentes do sistema remuneratório dos servidores públicos observará a natureza, o grau de responsabilidade, a complexidade, os requisitos para investidura e as peculiaridades de cada cargo.
+Acrescente-se o disposto no artigo 37, inciso XIII, da CF/88, que dispõe:
+"é vedada a vinculação ou equiparação de quaisquer espécies remuneratórias para efeito de remuneração de pessoal de serviço público", e a Súmula Vinculante nº 37, por sua vez, determina que, "não cabe ao Poder Judiciário, que não tem função legislativa, aumentar vencimento de servidores sob o fundamento de isonomia".
+Logo, ante a ausência de legislação específica, não pode o Poder Judiciário equiparar a gratificação do autor, com fundamento no princípio da isonomia, segundo entendimento da Súmula Vinculante nº 37 do Supremo Tribunal Federal, especialmente porque essa forma de provimento derivado é vedado pelo nosso ordenamento jurídico, que exige o advento de norma própria.
+"Súmula Vinculante nº 37. Não cabe ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos sob o fundamento de isonomia."
+Acerca do tema, eis a lição do mestre Hely Lopes Meirelles, na obra Direito Administrativo Brasileiro, 33ª edição, São Paulo: Malheiros Editores, p. 485:
+"O que o princípio da isonomia impõe é tratamento igual aos realmente iguais. A igualdade nominal não se confunde com a igualdade real. Cargos de igual denominação podem ser funcionalmente desiguais, em razão das condições de trabalho de um e de outro, funções equivalentes podem diversificar-se pela qualidade ou pela intensidade do serviço ou, ainda, pela habilitação profissional dos que as realizam. A situação de fato é que dirá da identidade ou não entre cargos e funções nominalmente iguais."
+(..)
+Por fim, vale registrar, que o pedido do autor, ora apelante, subsidiário, de equiparar à gratificação FEC 10, esbarra, igualmente, na Súmula vinculante nº 37, conforme mencionado pelo magistrado, sendo certo, que não cabe ao Poder Judiciário aumentar vencimentos de servidores públicos sob o fundamento de isonomia.
+(..)
+Ora, a remuneração dos servidores públicos, inclusive a gratificação, somente poderá ser fixada ou alterada por lei específica, sendo vedada a equiparação de qualquer espécie remuneratória, em especial, quando se tratam de funções de naturezas jurídicas distintas.
+Desta forma, não é possível a equiparação de gratificação do autor com a função de Secretário de Câmara, por ausência de legislação específica, nos termos da Súmula Vinculante nº 37 do Supremo Tribunal Federal.
+Conforme se verifica, não houve omissão no acórdão recorrido quanto à matéria de fundo.
+Por outro lado, conforme registrado, bem como em consonância com a jurisprudência do STJ, é possível que, nas decisões judiciais, seja utilizada a técnica de fundamentação referencial ou per relationem. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO RECLAMO. INSURGÊNCIA DA AGRAVANTE.
+1. Na forma da jurisprudência desta Corte, é possível que, nas decisões judiciais, seja utilizada a técnica de fundamentação referencial ou per relationem.
+2. A suspensão do processo originário, por força do art. 134, § 3º, do CPC, ocorre apenas até a decisão em primeiro grau no incidente de desconsideração.
+3. De acordo com a jurisprudência desta Corte, é vedada a penhora das verbas de natureza alimentar apontadas no art. 649, IV, do CPC, tais como os vencimentos, subsídios, soldos, salários, remunerações, proventos de aposentadoria e pensões, entre outras. Precedentes.
+4. Agravo interno desprovido.
+(AgInt no AgInt no REsp n. 1.914.350/DF, relator Ministro Marco Buzzi, Quarta Turma, julgado em 22/2/2022, DJe de 11/3/2022.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. AMBIENTAL. AGRAVO INTERNO NO RECURSO ESPECIAL. TERRENO DE MARINHA E ILHA COSTEIRA. INTERESSE DA UNIÃO. ANTERIOR TAC FIRMADO NO ÂMBITO ESTADUAL. IRRELEVÂNCIA PERANTE A UNIÃO. JULGAMENTO AMPLIADO. OMISSÃO. FUNDAMENTAÇÃO POR REFERÊNCIA. CERTIDÃO DE JULGAMENTO. PRECEDENTE EM FEITO DIVERSO. DESCABIMENTO. CONSIDERAÇÕES ACERCA DE OUTRO PROCESSO. NÃO SURPRESA. OBITER DICTUM. SÚMULA N. 283/STF. INCIDÊNCIA.
+1. O prequestionamento da matéria configura-se pela consideração pela origem do tema objeto da lide. Ausente o enfrentamento ao menos implícito na instância ordinária da controvérsia cuja compreensão divergente se pretende apresentar a esta Corte, o recurso é obstado pela ausência do requisito constitucional de cabimento da via excepcional.
+2. A fundamentação per relationem (por remissão, por referência ou relacional) é admitida quando o órgão julgador refere-se a anterior decisão ou documento constante nos autos, apontando de forma expressa, ainda que minimamente, a ligação entre ele e o julgamento presente .
+3. A mera referência, em certidão de julgamento, subscrita unicamente por servidor sem função judicante, a decisão de órgão colegiado diverso em outra causa não se presta a configurar a legítima técnica de fundamentação por referência.
+4. O obiter dictum não se caracteriza pela extensão ou força persuasiva das considerações acessórias adotadas pelo voto, senão por sua prescindibilidade para a solução da causa. A nota histórica do caso Marbury v. Madison denota que o próprio precedente-marco do controle de constitucionalidade constituiu-se no que era, para aquele caso concreto, obiter dictum.
+5. Na hipótese, embora o julgador tenha tecido considerações sobre outra ação, tais fundamentos não se constituem em decisão surpresa, na medida em que constam também elementos dos próprios autos da causa presente ensejadores das mesmas conclusões. Tais considerações sobre a outra ação são, efetivamente, obiter dictum.
+6. Mantidas as compreensões acima, não se pode afastar o óbice da Súmula n. 283/STF ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.").
+7. Agravo interno a que se nega provimento .
+(AgInt no REsp n. 1.809.807/RJ, relator Ministro Og Fernandes, Segunda Turma, julgado em 15/2/2022, DJe de 23/2/2022.)
+Incide, assim, a Súmula 83 do STJ no ponto.
+Conforme a jurisprudência do STJ, é desnecessária a demonstração de trabalho adicional do advogado para a majoração dos honorários imposta pelo § 11 do art. 85 do CPC/2015. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. MEDIDA CAUTELAR. ANTECIPAÇÃO DE GARANTIA DE FUTURA EXECUÇÃO FISCAL. CAUSA DE PEDIR GENÉRICA. EMENDA À INICIAL. POSSIBILIDADE. MAJORAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. TRABALHO ADICIONAL. DESNECESSIDADE.
+1. Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+2. À luz o art. 303 do CPC/2015, após a concessão da tutela antecipada, o magistrado pode determinar o aditamento da petição inicial de ação cautelar, sob pena de extinção em caso de descumprimento, na hipótese em que verificar ser genérica a causa de pedir do pedido cautelar.
+3. No caso dos autos, o Tribunal de Justiça decidiu pela necessidade de aditamento ao fundamento de que:  nos casos em que o autor se limite apenas à narrativa dos fatos e ao requerimento da tutela antecipada, o aditamento é medida que se impõe  ..  verifica-se que a petição inicial limita-se apenas à narração dos fatos e ao pleito antecipatório, não trazendo a robustez necessária à análise da questão de mérito. Igualmente, não houve oposição de embargos à execução fiscal ou ajuizamento de ação autônoma com a finalidade de discutir o mérito da questão, conforme demonstrou o próprio autor, razão pela qual o aditamento da petição inicial era necessário .
+4. Nos termos da orientação jurisprudencial firmada por este Tribunal Superior, é desnecessária a demonstração de trabalho adicional do advogado para a majoração dos honorários imposta pelo § 11 do art. 85 do CPC/2015. Precedentes.
+5. Agravo interno não provido.
+(AgInt no REsp n. 1.974.452/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 25/4/2022, DJe de 27/4/2022.)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APOSENTADORIA POR INVALIDEZ OU AUXÍLIO-DOENÇA. INCAPACIDADE LABORATIVA NÃO CONFIGURADA. INVERSÃO DO JULGADO. INVIABILIDADE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. HONORÁRIOS ADVOCATÍCIOS. MAJORAÇÃO. APLICAÇÃO DO § 11 DO ART. 85 DO CPC/2015. AGRAVO INTERNO DO PARTICULAR NÃO PROVIDO.
+1. O agravo interno não trouxe argumentos novos capazes de alterar o entendimento anteriormente firmado, limitando-se a reiterar as teses já veiculadas no recurso especial.
+2. O Tribunal de origem concluiu, a partir de detida análise dos elementos informativos dos autos, notadamente o laudo pericial, que não restou demonstrada a redução da capacidade laborativa da segurada.
+3. A adoção de entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não de valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o seguimento do recurso especial. Sendo assim, incide a Súmula 7 do STJ, segundo a qual a pretensão de simples reexame de prova não enseja recurso especial.
+4. É assente a jurisprudência desta Corte Superior de Justiça no sentido de que a fixação de honorários recursais, nos moldes do art. 85, § 11, do CPC/2015 independe do efetivo trabalho adicional do advogado da parte recorrida. No caso, a decisão agravada majorou os honorários advocatícios em desfavor da parte autora em 15% do valor arbitrado na origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do art. 85, § 11, do CPC/2015, bem como eventual concessão de justiça gratuita, o que não se mostra desarrazoado.
+5. Agravo interno do particular não provido.
+(AgInt no AREsp n. 1.835.372/RS, relator Ministro Manoel Erhardt (Desembargador Convocado do Trf5), Primeira Turma, julgado em 4/10/2021, DJe de 7/10/2021.)
+Incide in casu, quanto ao ponto, a Súmula 83 do STJ.
+Por fim, embora não merecedor de acolhimento, o agravo interno, no caso, não se revela manifestamente inadmissível ou improcedente, razão pela qual não deve ser aplicada a multa do § 4º do art. 1.021 do CPC/2015.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
