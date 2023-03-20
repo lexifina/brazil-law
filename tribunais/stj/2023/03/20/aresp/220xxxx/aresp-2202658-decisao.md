@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por DONA SAÚDE CLÍNICAS LTDA. contra decisão que inadmitiu recurso especial com fundamento na ausência de afronta aos arts. 489 e 1022, 805, 833, IV, todos do CPC e na incidência da Súmula n. 7 do STJ.
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo (Agravo de Instrumento n. 2224332-81.2021.8.26.0000) assim ementado (fl. 359):
+AGRAVO DE INSTRUMENTO. Execução de título extrajudicial. Decisão que rejeitou a impugnação ao bloqueio de valores do executado pelo sistema SISBAJUD. Ausência de comprovação de que os valores bloqueados se destinavam ao pagamento de salários. Ônus da prova que incumbe à agravante. Inaplicabilidade do Artigo 833, IV, do CPC. Precedente deste E. TJ/SP. Decisão mantida. Recurso não provido.
+Os embargos de declaração opostos foram rejeitados (fls. 382-386).
+Nas razões do recurso especial, a ora agravante aponta violação dos artigos:
+a) 1.022, parágrafo único, II, 489, § 1º, IV e VI, do CPC, defendendo que a decisão foi omissa quanto às jurisprudências apresentadas, o que impede a penhorabilidade de valores na conta da empresa destinados ao pagamento de salários de seus empregados;
+b) 833, IV, do CPC por não reconhecer a impenhorabilidade dos valores bloqueados, defendendo que, se o "salário é impenhorável, logo, o valor destinado à pagá-lo também o é, sendo este o entendimento da jurisprudência, conforme tópico supra" (fl. 398); e
+c) 805 do CPC, afirmando que não houve observância ao princípio da menor onerosidade.
+Requer o provimento do recurso a fim de devolver a matéria para apreciação do Tribunal de origem, com amparo no art. 489, § 1º, VI, do CPC. Caso não seja esse o entendimento, pugna pela liberação do valor bloqueado.
+É o relatório. Decido.
+O recurso não merece prosperar.
+Na origem, trata-se de ação de execução de título extrajudicial que rejeitou a impugnação ao bloqueio de valores da executada, ora recorrente, pelo sistema SISBAJUD.
+A Corte estadual negou provimento ao recurso da recorrente nos termos seguintes (fls. 360-361):
+Com efeito, na hipótese em tela, a controvérsia se limita à verificação se o valor bloqueado na conta da agravante (R$16.142,60, fls.255/257 dos autos originários) é impenhorável ou não, nos termos do artigo 833, inciso IV, do Código de Processo Civil.
+Com efeito, in casu, a agravante não logrou êxito em demonstrar que o valor bloqueado correspondia a saldo depositado destinado ao pagamento de seus funcionários.
+Na verdade, a agravante se limitou a juntar documentos que comprovam o vínculo empregatício de seus funcionários (fls.236/248 dos autos originários), mas não apresentou prova de que o valor bloqueado correspondia a reserva da conta para destinação ao pagamento dos respectivos salários.
+Além disso, conforme bem apontado pelo MM. Juízo a quo: "Não apresentou nenhum documento contábil apto à comprovação de que a quantia tornada indisponível, poderia implicar, efetivamente, paralisação das atividades da empresa."(fl.18).
+Deste modo, ainda que não se ignore a situação causada pelo Novo Coronavírus, considerando que a agravante não se desincumbiu do ônus de comprovar que os recursos bloqueados eram destinados ao pagamento de salários de seus funcionários, de rigor a manutenção da penhora, para posterior levantamento pelo agravado, não se aplicando o disposto no artigo 833, inciso IV, do Código de Processo Civil.
+Afasta-se a alegada ofensa aos arts. 489, § 1º, IV e VI, e 1.022, II, do CPC (item a), visto que a Corte de origem examinou e decidiu, de modo claro, objetivo e fundamentado, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+Esclareça-se que o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+Ressalte-se que a jurisprudência do Superior Tribunal de Justiça orienta-se no sentido de que, "devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC" (AgInt no AREsp n. 1.843.196/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 20/9/2021, DJe de 22/9/2021).
+Confiram-se ainda os seguintes julgados: REsp n. 1.829.231/PB, relator Ministro Herman Benjamin, Segunda Turma, julgado em 20/10/2020, DJe de 1º/12/2020; AgInt no AREsp n. 1.736.385/GO, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/11/2020, DJe de 2/12/2020; e AgInt no REsp n. 2.009.055/AM, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 10/10/2022, DJe de 18/10/2022.
+No tocante à alegada violação dos arts. 805 e 833, IV, do CPC (itens b e c), não assiste razão à recorrente.
+Na hipótese, verifica-se que o Tribunal de origem, soberano na análise do conteúdo fático-probatório, consignou não ser possível a aplicação da regra da impenhorabilidade em razão de não ter sido demonstrado pela recorrente que os valores bloqueados seriam destinados ao pagamento de salários de seus funcionários.
+Nesse contexto, rever as conclusões do Tribunal a quo, a fim de reconhecer a impenhorabilidade dos valores bloqueados, demandaria o revolvimento do quadro fático-probatório dos autos, medida inviável em recurso especial, em razão do óbice da Súmula n. 7 do STJ.
+A propósito, confiram-se julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO RECLAMO. INSURGÊNCIA RECURSAL DA AGRAVANTE.
+1. São aplicáveis às pessoas jurídicas as regras existentes no art. 833, IV, do CPC/2015, referentes à impenhorabilidade dos bens necessários para sua subsistência, o que não ficou demonstrado no presente caso. Rever tal conclusão esbarra no óbice da Súmula 7 desta Corte.
+2. Agravo interno desprovido. (AgInt no AREsp n. 2.043.915/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 12/12/2022, DJe de 16/12/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. PESSOA JURÍDICA. CONSTRIÇÃO DE ATIVOS FINANCEIROS. IMPENHORABILIDADE. POSSIBILIDADE. PREJUÍZOS À SUBSISTÊNCIA NÃO DEMONSTRADOS. REVISÃO. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, são aplicáveis às pessoas jurídicas as regras existentes no art. 833, IV, do CPC/2015, referentes à impenhorabilidade dos bens necessários para sua subsistência, o que não ficou demonstrado no presente caso. Rever tal conclusão esbarra no óbice da Súmula 7 desta Corte.
+2. Agravo interno desprovido. (AgInt no AREsp n. 1.747.573/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 8/3/2021, DJe de 15/3/2021.)
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e negar-lhe provimento .
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento que ataca decisão interlocutória, na qual não houve pr évia fixação de honorários.
+Publique-se. Intimem-se.
