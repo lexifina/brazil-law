@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/03/2023 a 20/03/2023, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto pelo BANCO REGIONAL DE DESENVOLVIMENTO DO EXTREMO SUL contra decisão monocrática do Ministro Og Fernandes, por meio da qual foi aplicada a Súmula n. 182 do STJ (fls. 952-953).
+O recurso especial inadmitido foi interposto, com fundamento no art. 105, inciso III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA assim ementado (fl. 829):
+HONORÁRIOS ADVOCATÍCIOS. RESCISÃO DE CONTRATO. CLÁUSULA QUE ESTABELECE RENÚNCIA EXPRESSA A HONORÁRIOS DE SUCUMBÊNCIA. NULA POR EXORBITANTE. VERBA DEVIDA NO PROCESSO DE EXECUÇÃO, PROPORCIONAL AO TRABALHO DESENVOLVIDO, AINDA MAIS NO CASO QUE O PROCESSO SE ENCONTRA ARQUIVADO POR CONVENIÊNCIA DO RÉU. HONORÁRIOS ARBITRADOS SOBRE O VALOR DA CAUSA. APELO DO AUTOR PROVIDO.
+Os embargos de declaração opostos pelo ora agravante na origem foram acolhidos sem efeito infringente, apenas para esclarecer os dispositivos legais em que fundamentado o acórdão: art. 844 do CC/2002 e art. 22 do EOAB (fls. 851-854).
+Alega o agravante que a fundamentação do agravo em recurso especial é completa e foi apresentada conforme exigido pela lei.
+Aduz que o agravo apresentado é claro e objetivo, não sendo o caso de aplicação da Súmula n. 182 do STJ.
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+Contrarrazões às fls. 965-975.
+É, no essencial, o relatório
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE AGRAVADA . INCIDÊNCIA DA SÚMULA N. 182/STJ.
+1. No caso dos autos, não houve impugnação de todos os fundamentos da decisão que não conheceu do agravo em recurso especial.
+2. É inviável o conhecimento do agravo interno que não tenha impugnado especificamente todos os fundamentos da decisão agravada. Incidência da Súmula n. 182 do STJ.
+Agravo interno não conhecido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+A insurgência não merece conhecimento.
+A decisão agravada não conheceu do agravo em recurso especial com esteio nas seguintes razões de decidir (fls. 952-953):
+ .. .
+Das razões expendidas, verifica-se que a parte insurgente não impugnou os fundamentos da decisão agravada, não realizando o necessário cotejo entre o acórdão recorrido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do referido óbice processual.
+Desse modo, forçosa é a incidência do disposto no art. 932, III, do CPC (correspondente ao art. 544, § 4º, I, do CPC/1973), segundo o qual não se conhece do agravo que não ataca inteiramente a decisão agravada, nos seguintes termos:
+Art. 932. Incumbe ao relator:
+ ..
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida; (grifo acrescido)
+Ademais, consoante o art. 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida". A propósito:  .. .
+Nesse sentido, os precedentes: AgInt no AREsp 880.709/PR, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 17/6/2016; AgRg no AREsp 575.696/MG, Rel. Min. Paulo de Tarso Sanseverino, Terceira Turma, DJe 13/5/2016; AgRg no AREsp 825.588/RJ, Rel. Min. Luis Felipe Salomão, Quarta Turma, DJe 12/4/2016; AgRg no REsp 1.575.325/SC, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, DJe 1º/6/2016; e AgRg nos EDcl no AREsp 743.800/SC, Rel. Min. Maria Thereza de Assis Moura, Sexta Turma, DJe 13/6/2016.
+Ainda que superado o óbice processual, o exame do recurso especial demandaria incursão na seara probatória dos autos, o que não é possível tendo em vista a orientação fixada pelas Súmulas 5 e 7 do STJ, mormente quando o acórdão se vale de cláusulas do contrato celebrado entre as partes para decidir a lide.
+Ante o exposto, com fulcro no art. 932, III, do CPC de 2015, correspondente ao art. 544, § 4º, I, do CPC de 1973, c/c o art. 1º da Resolução STJ n. 17/2013, não conheço do agravo em recurso especial.
+Em suas razões, alegou o agravante:
+ .. .
+A decisão monocrática merece ser reformada sobretudo porque o seu dúplice fundamento tem relação com a pretensão agitada no recurso especial (cuja ascensão foi negada pelo TJSC) e não com a pretensão do correspondente agravo que deveria ser objeto de julgamento por esta Egrégia Corte Superior de Justiça.
+Deveras, veja-se que a precitada interlocutória monocrática concluiu pelo não conhecimento do agravo em recurso especial sem incursionar no exame das razões recursais utilizadas para desafiar o juízo negativo de admissibilidade realizado no âmbito do Tribunal de Justiça de Santa Catarina e com isso deixou de alcançara prestação jurisdicional relativamente ao efeito devolutivo do recurso interposto pelo ora Agravante.
+Isso fica muito claro na seguinte passagem da decisão monocrática em questão: "(..)verifica-se que a parte insurgente não impugnou os fundamentos da decisão agravada, não realizando o necessário cotejo entre o acórdão recorrido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do referido óbice processual".(grifado)
+Ora, tal fundamento é absolutamente impertinente porquanto se cuida de uma análise que se mostra estranha tanto ao juízo negativo de admissibilidade realizado no âmbito do Tribunal de Justiça de Santa Catarina quanto ao respectivo recurso interposto pelo ora Agravante.
+Assim, por uma questão estritamente processual, espera-se que seja exercido o juízo de retratação acerca da decisão monocrática ora recorrida e, na hipótese contrária, que o recurso de agravo interno seja provido por esta Colenda Turma.
+Não obstante, o Agravante colhe o ensejo para desafiar o outro fundamento utilizado pela referida decisão, a qual, como visto, entendeu que "o exame do recurso especial demandaria incursão na seara probatória dos autos, o que não é possível tendo em vista a orientação fixada pelas Súmulas 5 e 7 do STJ, mormente quando o acórdão se vale de cláusulas do contrato celebrado entre as partes para decidir a lide."
+Dissente-se desse entendimento, que aliás, já havia sido adotado pelo Tribunal a quo para não admitir o recurso especial por ocasião do juízo preliminar de admissibilidade.
+Apenas à primeira vista a tese sustentada pelo ora Recorrente em sede de recurso especial no tocante ao descabimento de pagamento de verba honorária adicional à remuneração contratual implicaria em revolvimento do substrato fático-probatório.
+Um olhar mais acurado ponderará que em realidade essa conclusão é precipitadamente equivocada porque basta realizar uma simples revaloração jurídica no caso em tela, o que é francamente admitido pela jurisprudência dessa Alta Corte de Justiça.
+Há equívoco quanto à necessidade de reexame do conteúdo fático-probatório porque o cerne da inconformidade recursal extraordinária não está naquilo que eventualmente haverá de ser pago ou na mera desconsideração com o conteúdo da obrigação contratual (como se o Recorrente pretendesse que o STJ revisitasse o contrato), senão que no próprio fundamento jurídico da condenação aplicada.
+Sob esse ângulo é de todo pertinente questionar: realmente caracteriza enriquecimento indevido o estrito cumprimento de um contrato administrativo de prestação de serviços
+Salvo melhor juízo, se a forma de pagamento do objeto contratado foi integralmente satisfeita pelo ente da administração pública na forma pactuada pelas partes, e se o contrato atém-se fielmente às regras e condições do edital de licitação, resta claro que a decisão recorrida ofende, sim, o dispositivo de lei federal que estabelece a obrigatória vinculação do contrato administrativo ao instrumento convocatório (artigo 55, XI, da Lei 8.666/93).
+Portanto, repisa-se que a reforma da decisão recorrida pode perfeitamente prescindir do reexame do conjunto fático-probatório dos autos, porquanto se trata de uma simples revaloração jurídica: os atos da administração pública direta e indireta estão sujeitos ao princípio da legalidade (artigo 37, caput, da Constituição Federal) e o Recorrente se encontra nessa posição, tendo processado licitação nos moldes da Lei 8.666/93 para contratar uma prestação de serviços, cujo posterior contrato não contém nenhuma cláusula inovadora em relação ao edital do certame.
+Muito embora o acórdão de julgamento do recurso de apelação do Tribunal a quo tenha se valido de matéria fática para alcançar a sua conclusão quanto a um suposto enriquecimento sem causa, mostra-se plenamente viável adotar outra solução jurídica no caso em concreto - sem que para isso haja necessidade de revolver o substrato de fatos e provas dos autos.
+Ou seja, a pretensão recursal não se prende a nenhum contorno fático e nem probatório.
+Ao revés, envolve apenas a aplicação da legislação federal específica da matéria, que contém regramento expresso capaz de albergar o pedido de reforma ventilado(art. 55, XI, da Lei 8.666/93).
+Essa é a regra legal que foi subvertida pelo julgamento de apelação realizado pelo TJSC e que, ao fim e ao cabo, caracteriza negativa de vigência a dispositivo de lei federal.
+Sem embargo dessa circunstância, há simultânea negativa de vigência a outros dispositivos de lei federal cuja indevida aplicação na resolução da lide conduzem ao mesmo resultado jurídico (art. 22da Lei 8.906/94 e art.884 do Código Civil)e, portanto, mostra-se plenamente viável adotar outra solução jurídica no caso em concreto -sem que para isso haja necessidade de revolver o substrato de fatos e de provas constante dos autos. Efetivamente, em síntese, veja-se que toda a argumentação recursal (tanto do apelo nobre quanto deste agravo) gravita em torno de matéria jurídica e prescinde de qualquer elemento fático e do substrato probatório para ser apreciada, permitindo que a presente inconformidade seja provida para reformar o juízo provisório de admissibilidade recursal negativo realizado até o momento, pois não incidem os óbices dos Enunciados 05 e 07 da Súmula desta Corte Superior de Justiça. E, empós, que se adentre na apreciação do recurso especial.
+ .. .
+Do recorte acima, exsurge que não apenas a parte agravante não demonstrou em que momento da petição de agravo em recurso especial procedeu à impugnação da Súmula n. 7/STJ , assim como nem sequer tocou a temática voltada à Súmula n. 5/STJ.
+Dessa forma, também aqui incide o óbice da Súmula n. 182/STJ, a saber: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+A propósito, cito:
+PROCESSUAL CIVIL. AGRAVO INTERNO. MANDADO DE SEGURANÇA CONTRA ATO JUDICIAL. TERATOLOGIA. ILEGALIDADE. AUSÊNCIA. NÃO CABIMENTO.1. É inviável agravo interno que deixa de impugnar os fundamentos da decisão recorrida, por si sós, suficientes para mantê-la. Incidência da Súmula n. 182 do STJ.2. O mandado de segurança contra ato judicial é medida excepcional, cabível somente em situações nas quais se pode verificar, de plano, ato judicial eivado de flagrante ilegalidade, teratologia ou abuso de poder que importem ao impetrante irreparável lesão a seu direito líquido e certo. Assim, verificada a hipótese de mero inconformismo com o resultado da demanda originária, comprovado inclusive pela repetição no mandamus dos argumentos desenvolvidos na defesa daquela efetuada, impõe-se o indeferimento da segurança.3. Agravo interno desprovido.(AgInt no MS n. 28.298/DF, relator Ministro João Otávio de Noronha, Corte Especial, julgado em 13/12/2022, DJe de 16/12/2022.)
+PROCESSO CIVIL. AGRAVO REGIMENTAL. Razões que não atacam os fundamentos da decisão agravada (STJ, Súmula n. 182). Agravo regimental não conhecido. (AgRg no AREsp n. 80.149/PB, relatora Ministra Marga Tessler - Juíza Federal Convocada do TRF 4ª Região, Primeira Turma, julgado em 14/10/2014, DJe de 17/10/2014.)
+Ante o exposto, não conheço do agravo interno.
+É como penso. É como voto.
