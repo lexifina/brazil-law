@@ -1,0 +1,13 @@
+DECISÃO
+AMILTON LUÍS PÁDUA DE FREITAS alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo no Agravo em Execução n. 0008191-13.2019.8.24.0038, em que foi reconhecida a prática de infrações disciplinares graves, bem como a incidência de seus consectários
+Assere a defesa que "se demonstra visível Nulidade nos PAD 012/2019 e 022/2019, posto que os depoimentos das testemunhas no procedimento administrativo disciplinar foram colhidos sem a necessária e inafastável presença de defesa técnica legalmente constituída - advogado devidamente inscrito nos quadros da Ordem dos Advogados do Brasil, restando assim evidente que foram violados os princípios do contraditório e da ampla defesa e cerceamento da defesa" (fl. 8).
+No que tange ao reconhecimento da falta grave, destacou a Corte de origem que "a conclusão do diretor do estabelecimento prisional é corroborada pelos depoimentos prestados pelo Supervisor Claudiomir Bertuol, em ambos os procedimentos administrativos disciplinares, que dão conta dos xingamentos e ameaças levados a efeito pelo ora agravado (fls. 20v. e 29v.), o que releva que a conduta perpetrada pelo mesmo amolda-se ao comando do art. 50, inciso VI, c/c o art. 39, inciso II, da Lei de Execução Penal" (fl. 56, sublinhei).
+Salientou também que "o apenado fora ouvido sobre os fatos, em ambos os procedimentos, perante o Conselho Disciplinar, na presença de Defensor atuante na unidade prisional (fls. 22 e 30v.), que apresentou defesa técnica escrita (fls. 23/24v. e 31-33), tendo o Conselho Disciplinar concluído pela procedência dos incidentes (fls. 25-26 e 33v./34v.), posição esta acolhida pelo Diretor da Unidade Prisional (fls. 26v. e 35), que reconheceu o cometimento das faltas graves, nos termos do art. 50, VI, c/c o art. 39, II, da LEP" (fl. 57, grifei).
+Assim, percebe-se que o Tribunal local apontou a existência de elementos a demonstrar a materialidade e a autoria imputada ao paciente, de modo que, para se infirmar a interpretação apresentada pelas instâncias ordinárias e possibilitar conclusão diversa da exarada no acórdão vergastado, é necessário imiscuir-se no exame do acervo fático-probatório, o que evidencia a impossibilidade de este Superior Tribunal apreciar o pedido formulado no writ.
+A esse respeito:
+ ..
+3. A análise da alegada atipicidade ou desclassificação da falta grave demanda incursão fático-probatória, incompatível com a via estreita do writ, ação constitucional de rito célere e de cognição sumária.
+ ..
+5. Agravo desprovido (AgRg no HC n. 392.503/SP, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 6/10/2017).
+À vista do exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
