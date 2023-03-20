@@ -1,0 +1,68 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/03/2023 a 20/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de agravo interno interposto por TAIS SANCHES BARBOSA MARTINEZ em face de decisão monocrática da lavra deste signatário que negou provimento ao recurso especial.
+O aludido apelo extremo, fundado nas alíneas a e c do permissivo constitucional, desafiou acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado (e-STJ, fl. 1494):
+Compromisso de compra e venda. Atraso injustificado na entrega de obra. Unidades negociadas pertencentes a "pool" hoteleiro, denotando postura de investidora da autora. Afastamento do Código de Defesa do Consumidor. Solidariedade inexistente. Precedente do STJ sobre o mesmo empreendimento, afastando a responsabilidade da administradora hoteleira. Sentença reformada. RECURSO DA REQUERIDA PROVIDO, PREJUDICADA A ANÁLISE DO APELO DA AUTORA.
+Opostos embargos de declaração, esses foram rejeitados (e-STJ, fls. 1668-1671).
+Em suas razões recursais (e-STJ, fls. 1514-1574), sustenta a parte recorrente a existência de violação aos seguintes dispositivos:
+a) arts. 489 e 1022 do Código de Processo Civil de 2015, defendendo que a Corte de origem não sanou omissões supostamente perpetradas pelo acórdão embargado, notadamente quanto aos documentos suscitados que apontam a integração da Blue Tree na cadeia econômica do empreendimento, além da necessidade de se aplicar o Código de Defesa do Consumidor à hipótese, mesmo diante da oposição dos embargos declaratórios, o que teria configurado negativa de prestação jurisdicional;
+b) arts. 2º, 3º caput e §2º,7º, 18, 25 §1º, 30, 31 e 34 do CDC, pugnando pela incidência do Código de Defesa do Consumidor em relação aos adquirentes em razão da aplicação da Teoria Finalista Mitigada, bem como pelo reconhecimento da legitimidade passiva e responsabilidade solidária da recorrida Blue Tree pelo insucesso do empreendimento.
+Aponta, ainda, divergência jurisprudencial com julgados do STJ sobre o tema.
+Contrarrazões apresentadas às fls. 1676-1688 (e-STJ).
+Admitido o processamento do recurso na origem, consoante decisão de fls. 1689-1691 (e-STJ), ascenderam os autos a esta Corte.
+Em decisão monocrática (e-STJ, fls. 1701-1707), este signatário negou provimento ao recurso especial em razão da incidência da Súmula 83/STJ.
+No presente agravo interno (e-STJ, fls. 1766-1817), a ora agravante combate o óbice supracitado e reitera os mesmos argumentos lançados nas razões do apelo extremo no tocante à responsabilidade solidária da recorrida Blue Tree.
+Requer, por fim, a reconsideração da decisão monocrática ou sua reforma pelo Colegiado.
+Impugnação às fls. 1818-1820 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL - AÇÃO ORDINÁRIA DE RECONHECIMENTO DE RESPONSABILIDADE SOLIDÁRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA RECURSAL DA PARTE AUTORA.
+1. "Deve ser reconhecida a ilegitimidade passiva e afastada a responsabilidade solidária da rede hoteleira pelo não adimplemento do contrato de promessa de compra e venda de unidades imobiliárias, porquanto não integra a cadeia de fornecimento relativa à incorporação formada pelas sociedades empresárias inadimplentes" (AgInt no AREsp 1555853/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 04/02/2020, DJe 11/02/2020). Incidência da Súmula 83/STJ.
+2. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): O agravo interno não merece acolhida, porquanto os argumentos tecidos pela parte agravante são incapazes de infirmar a decisão agravada, motivo pelo qual merece ser mantida na íntegra, por seus próprios fundamentos.
+1. Cinge-se a irresignação no presente agravo interno acerca da incidência da Súmula 83/STJ à hipótese.
+2. Não merece reparos a decisão agravada que aplicou o óbice da Súmula 83/STJ à pretensão recursal relativa aos arts. 2º, 3º caput e § 2º, 7º, 18, 25 § 1º, 30, 31 e 34 do CDC.
+Consoante asseverado na decisão singular, esta Corte Superior firmou entendimento no sentido de que "Deve ser reconhecida a ilegitimidade passiva e afastada a responsabilidade solidária da rede hoteleira pelo não adimplemento do contrato de promessa de compra e venda de unidades imobiliárias, porquanto não integra a cadeia de fornecimento relativa à incorporação formada pelas sociedades empresárias inadimplentes" (AgInt no AREsp 1555853/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 04/02/2020, DJe 11/02/2020).
+Nesse mesmo sentido, confira-se:
+AGRAVO INTERNO. RECURSO ESPECIAL. CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL NA PLANTA. ATRASO NA ENTREGA DA OBRA. ADMINISTRADORA HOTELEIRA. LEGITIMIDADE PASSIVA E RESPONSABILIDADE SOLIDÁRIA: AUSÊNCIA. INTEGRAÇÃO À CADEIA DE FORNECIMENTO NÃO CARACTERIZADA. MATÉRIA DE FATO DELINEADA NO ACÓRDÃO RECORRIDO. DISSÍDIO JURISPRUDENCIAL DEMONSTRADO.
+1. Sendo possível a análise da legitimidade passiva com os elementos descritos no acórdão recorrido, não incidem os óbices das Súmulas 282 e 356/STF e 5 e 7/STJ.
+2. A empresa de administração hoteleira não tem responsabilidade solidária pelo inadimplemento do contrato de promessa de compra e venda de unidades imobiliárias em construção, porquanto não integra a cadeia de fornecimento relativa à incorporação formada pelas sociedades empresárias inadimplentes.
+3. A circunstância de haver no contrato a previsão de que o consumidor se obriga a aderir por instrumento particular ao futuro pool hoteleiro administrado por empresa indicada no contrato de promessa de compra e venda não implica responsabilidade desta última por eventual inadimplemento da incorporadora e construtora.
+Enquanto não terminada a obra, sequer tem objeto o contrato de administração.
+4. Agravo interno e recurso especial providos.
+(AgInt no REsp n. 1.914.177/DF, relator Ministro Antonio Carlos Ferreira, relatora para acórdão Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 13/12/2022, DJe de 25/1/2023.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ATRASO NA ENTREGA DE OBRA. REDE HOTELEIRA. LEGITIMIDADE PASSIVA AD CAUSAM. PARTICIPAÇÃO NA CADEIA DE FORNECIMENTO. NÃO OCORRÊNCIA. PRECEDENTES. DECISÃO MANTIDA.
+1. Segundo a jurisprudência do STJ, "deve ser afastada qualquer responsabilização solidária da rede hoteleira tão só pelo inadimplemento do contrato de promessa de compra e venda das unidades do apart-hotel, uma vez que não compõe a cadeia de fornecimento, além de também ter ser sido prejudicada, ante a impossibilidade de gerar renda com a locação das unidades imobiliárias correspondentes" (AgInt no REsp n. 1.935.362/RJ, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 11/4/2022, DJe 19/4/2022).
+2. No caso, a Corte local dissentiu de tal entendimento, motivo pelo qual era de rigor a reforma do aresto impugnado.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.045.970/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 20/6/2022, DJe de 27/6/2022.)
+AGRAVO INTERNO EM RECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA. ATRASO NA ENTREGA DO IMÓVEL. AÇÃO DE RESCISÃO CONTRATUAL C/C RESTITUIÇÃO DOS VALORES PAGOS. ILEGITIMIDADE PASSIVA DA REDE HOTELEIRA. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. Deve ser afastada qualquer responsabilização solidária da rede hoteleira tão só pelo inadimplemento do contrato de promessa de compra e venda das unidades do apart-hotel, uma vez que não compõe a cadeia de fornecimento, além de também ter ser sido prejudicada, ante a impossibilidade de gerar renda com a locação das unidades imobiliárias correspondentes. Precedentes.
+2. Agravo interno não provido.
+(AgInt no REsp n. 1.935.362/RJ, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 11/4/2022, DJe de 19/4/2022.)
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA. RESCISÃO. SOLIDARIEDADE. AUSÊNCIA. ILEGITIMIDADE PASSIVA. DECISÃO MANTIDA.
+1. "Deve ser reconhecida a ilegitimidade passiva e afastada a responsabilidade solidária da rede hoteleira pelo não adimplemento do contrato de promessa de compra e venda de unidades imobiliárias, porquanto não integra a cadeia de fornecimento relativa à incorporação formada pelas sociedades empresárias inadimplentes" (AgInt no AREsp 1555853/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 04/02/2020, DJe 11/02/2020).
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1694057/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 22/03/2021, DJe 26/03/2021)
+RECURSO ESPECIAL. CIVIL. PROMESSA DE COMPRA E VENDA DE UNIDADE DE APART-HOTEL. PARALISAÇÃO DAS OBRAS. AÇÃO RESOLUTÓRIA. EMPREENDIMENTO ECONÔMICO. PREVALÊNCIA NO NEGÓCIO JURÍDICO. REDE HOTELEIRA. FUTURA ADMINISTRADORA DE SERVIÇOS DE HOTELARIA. ILEGITIMIDADE PASSIVA. PRECEDENTE. AGRAVO INTERNO PROVIDO.
+1. No julgamento do REsp 1.785.802/SP, a Terceira Turma do Superior Tribunal de Justiça, examinando situação idêntica, relativa ao mesmo empreendimento imobiliário, decidiu que "Deve ser afastada qualquer responsabilização solidária da recorrente pelo não adimplemento do contrato de promessa de compra e venda das unidades do apart-hotel, seja por não integrar a cadeia de fornecimento relativa à incorporação imobiliária, seja por não compor o mesmo grupo econômico das empresas inadimplentes, seja por também ter sido prejudicada, visto que sua pretensão de explorar o ramo hoteleiro na localidade foi tão frustrada quanto a pretensão da autora de ganhar rentabilidade com a aquisição e a locação das unidades imobiliárias" (Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 19/02/2019, DJe de 06/03/2019).
+2. De rigor, portanto, o reconhecimento da ilegitimidade passiva da recorrente, uma vez que não integrou a cadeia de fornecimento da incorporação imobiliária, apenas obrigando-se a administrar futuramente os serviços hoteleiros, ramo de sua expertise, após a conclusão do empreendimento por meio da formação de sociedade em conta de participação juntamente com os adquirentes.
+3. Agravo interno provido para dar provimento ao recurso especial.
+(AgInt no REsp 1757092/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 19/11/2019, DJe 12/12/2019)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. PROMESSA DE COMPRA E VENDA. EMPREENDIMENTO HOTELEIRO. ATRASO NA ENTREGA DAS UNIDADES. REDE HOTELEIRA. RESPONSABILIDADE SOLIDÁRIA. AUSÊNCIA. CADEIA DE FORNECIMENTO. DESCARACTERIZAÇÃO.
+1. Ação de rescisão contratual cumulada com indenização por danos materiais e compensação por danos morais em razão de atraso na entrega de unidades de empreendimento hoteleiro objeto de promessa de compra e venda.
+2. Deve ser afastada qualquer responsabilização solidária da rede hoteleira pelo não adimplemento do contrato de promessa de compra e venda das unidades hoteleiras, seja por não integrar a cadeia de fornecimento relativa à incorporação imobiliária, seja por não compor o mesmo grupo econômico das empresas inadimplentes, seja por também ter sido prejudicada, visto que sua pretensão de explorar o ramo hoteleiro na localidade foi tão frustrada quanto a pretensão dos adquirentes de ganhar rentabilidade com a aquisição e a locação das unidades imobiliárias. Precedentes.
+3. Agravo interno no recurso especial não provido.
+(AgInt nos EDcl no REsp 1865765/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 21/09/2020, DJe 24/09/2020)
+Na hipótese em tela, a Corte de origem consignou a ilegitimidade passiva da recorrida Blue Tree em razão de ser apenas administradora do empreendimento. Confira-se (e-STJ, fl. 1496):
+Além disso, a requerida, conhecida na rede do ramo de hotelaria, foi contratada por uma das vendedoras (Parintins Empreendimentos Imobiliários Ltda.) apenas para a administração do empreendimento, participando da fase construtiva apenas em relação à padronização das unidades destinadas à exploração da atividade hoteleira. Nesses termos, as unidades adquiridas pela autora integrariam um empreendimento administrado pela requerida, consistindo em apartamentos com serviços de hotelaria que faziam parte de um conjunto de unidades utilizadas para hospedagem ("pool"), sendo devido ao respectivo proprietário um valor decorrente de tal sistema associativo, afastando a natureza consumerista do negócio jurídico celebrado pela autora.
+Nesse contexto, denota-se que o Tribunal estadual decidiu de acordo com o entendimento do Superior Tribunal de Justiça, o que atrai a incidência do enunciado da Súmula n. 83 do STJ, aplicável aos recursos especiais interpostos tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+Outrossim, cumpre salientar que os fundamentos contidos no voto divergente do Recurso Especial nº 1.785.802 - SP não são capazes de derruir o entendimento sedimentado pelas 3ª e 4ª Turmas no sentido da ilegitimidade passiva e consequente ausência de responsabilidade solidária da rede hoteleira, consoante demonstrado nos precedentes acima transcritos.
+De rigor, portanto, a manutenção da decisão agravada.
+3. Do exposto, nega-se provimento ao agravo interno.
+É como voto.
