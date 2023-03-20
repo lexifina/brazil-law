@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo interposto por SIPAVALE EMPREENDIMENTOS IMOBILIÁRIOS SPE LTDA. e FUNDO DE INVESTIMENTO IMOBILIÁRIO CAIXA INCORPORAÇÃO - FII, contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado:
+"AGRAVO DE INSTRUMENTO. PROMESSA DE COMPRA E VENDA. PEDIDO DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA INDEFERIDO. POSSIBILIDADE. INTELIGÊNCIA DO ART. 28 DO CDC. LEGITIMIDADE PASSIVACONFIGURADA. DECISÃO AGRAVADA REFORMADA.
+A desconsideração da personalidade jurídica é medida aplicável em caso de abuso da personalidade caracterizado pelo inadimplemento e falta de bens para responder por obrigações perante o consumidor (Teoria Menor -art. 28 do CDC), dispensando-se a prova do desvio de finalidade e confusão patrimonial. No caso, considerando-seo abandono da obra e a eventual impossibilidade de reparação civil por parte da SIPAVALE, que não apresenta qualquer atividade, de se reformar a decisão agravada para deferir o pedido de desconsideração da personalidade jurídica, permanecendo no polo passivo a sócia FUNDO de Investimento, a fim de se resguardar o direito dos recorrentes, ante a presença da figura do "obstáculo ao ressarcimento de prejuízos causados aos consumidores" (art. 28, §5º, do CDC). AGRAVO DE INSTRUMENTO PROVIDO. UNÂNIME" (e-STJ fl. 226)
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 269/261).
+No recurso especial (e-STJ fls. 268/280), os recorrentes apontam a violação dos artigos 28 do CDC, 50, 265 e 1.024 do CC e 134, §4º e 795 do CPC.
+Alegam que "quanto à solidariedade dos recorrentes, insta salientar que o recorrente FUNDO não pode ser incluído no pólo passivo da demanda, pois na qualidade de sócio de sociedade empresária limitada, somente subsidiariamente poderá ser responsabilizado".
+Sustentam que não foi praticado qualquer ato revestido de abuso de direito, de excesso de poder, de infração da lei ou ato ilícito, situações que evidenciariam o desvio de finalidade da pessoa jurídica.
+Aduzem que
+"a alegação de situação financeira frágil da Recorrente Sipavale para justificar a declaração da desconsideração da personalidade jurídica da mesma e manutenção do Recorrente Fundo no polo passivo da demanda não merece prosperar e merece reforma imediata, pois o Recorrente só poderia ser responsabilizado caso a Sipavale não possua bens em seu patrimônio suficientes para o integral cumprimento de eventual condenação, o que não se verifica nos termos acima".
+Contrarrazões às fls. 299/313 (e-STJ).
+A Corte de origem negou seguimento ao recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+Verifica-se, de início, que o conteúdo normativo dos arts. 265 e 1.024 do CC e 134, §4º e 795 do CPC, no que se referem às teses de solidariedade e inclusão no polo passivo da demanda, não foram objeto de debate pelas instâncias ordinárias, sequer de modo implícito, e embora opostos embargos de declaração com a finalidade de sanar omissão porventura existente, não indicou a parte recorrente a contrariedade ao art. 1022 do Código de Processo Civil/2015.
+Nessa circunstância, ausente o requisito do prequestionamento, incide o disposto na Súmula nº 211/STJ.
+Quanto à desconsideração, a Corte assim se posicionou:
+"A desconsideração da personalidade jurídica se trata de medida excepcional, que está diretamente ligada à caracterização do desvio de finalidade da pessoa jurídica ou pela confusão patrimonial.
+Há, no entanto, a possibilidade de aplicação da Teoria Menor da Desconsideração da Personalidade Jurídica, prevista no artigo 28 do Código de Defesa do Consumidor, quando comprovado o estado de insolvência e o inadimplemento da ré, dispensando-se a prova do desvio de finalidade e confusão patrimonial.
+(..) No presente caso, a obra permanece parada por prazo superior a quatro anos, bem como há evidências de que as empresas do grupo econômico da agravante não possuam numerário em caixa para reparar os prejuízos sofridos.
+Desta forma, considerando-se o abandono da obra e a eventual impossibilidade de reparação civil por parte da SIPAVALE, é medida imperiosa a reforma da decisão agravada, para deferir, em tutela de urgência, a desconsideração da personalidade jurídica desta, com inclusão do seu atual único sócio FUNDO DE INVESTIMENTO" (e-STJ fls. 229/230).
+Observa-se que o acórdão recorrido está em conformidade com a jurisprudência desta Corte Superior, a saber:
+"RECURSO ESPECIAL. PROCESSUAL CIVIL. PERSONALIDADE JURÍDICA. DESCONSIDERAÇÃO. INCIDENTE. RELAÇÃO DE CONSUMO. ART. 28, § 5º, DO CDC. TEORIA MENOR. ADMINISTRADOR NÃO SÓCIO. INAPLICABILIDADE. CUMPRIMENTO DE SENTENÇA. POLO PASSIVO. EXCLUSÃO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Para fins de aplicação da Teoria Menor da desconsideração da personalidade jurídica (art. 28, § 5º, do CDC), basta que o consumidor demonstre o estado de insolvência do fornecedor ou o fato de a personalidade jurídica representar um obstáculo ao ressarcimento dos prejuízos causados.
+3. A despeito de não exigir prova de abuso ou fraude para fins de aplicação da Teoria Menor da desconsideração da personalidade jurídica, tampouco de confusão patrimonial, o § 5º do art. 28 do CDC não dá margem para admitir a responsabilização pessoal de quem não integra o quadro societário da empresa, ainda que nela atue como gestor. Precedente.
+4. Recurso especial provido" (REsp n. 1.862.557/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 15/6/2021, DJe de 21/6/2021).
+"DIREITO DO CONSUMIDOR E PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO FRUSTRADA. PEDIDO DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. INDEFERIMENTO. FUNDAMENTAÇÃO APOIADA NA INEXISTÊNCIA DOS REQUISITOS PREVISTOS NO ART. 50 DO CÓDIGO CIVIL DE 2002 (TEORIA MAIOR). ALEGAÇÃO DE QUE SE TRATAVA DE RELAÇÃO DE CONSUMO. INCIDÊNCIA DO ART. 28, § 5º, DO CDC (TEORIA MENOR). OMISSÃO. OFENSA AO ART. 535 DO CPC RECONHECIDA.
+1. É possível, em linha de princípio, em se tratando de vínculo de índole consumerista, a utilização da chamada Teoria Menor da desconsideração da personalidade jurídica, a qual se contenta com o estado de insolvência do fornecedor, somado à má administração da empresa, ou, ainda, com o fato de a personalidade jurídica representar um "obstáculo ao ressarcimento de prejuízos causados aos consumidores" (art. 28 e seu § 5º, do Código de Defesa do Consumidor).
+2. Omitindo-se o Tribunal a quo quanto à tese de incidência do art. 28, § 5º, do CDC (Teoria Menor), acolhe-se a alegação de ofensa ao art. 535 do CPC.
+3. Recurso especial parcialmente conhecido e provido" (REsp n. 1.111.153/RJ, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 6/12/2012, DJe de 4/2/2013).
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Deixo de fixar os honorários recursais (art. 85, § 11, do CPC/2015), haja vista que o recurso especial ao qual se negou provimento é oriundo de acórdão proferido por ocasião de julgamento de agravo de instrumento, sem fixação de honorários sucumbenciais.
+Intimem-se.
+Publique-se.
