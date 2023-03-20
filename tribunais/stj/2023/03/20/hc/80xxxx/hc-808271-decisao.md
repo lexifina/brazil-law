@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de Gabriel Felipe Correa, em execução de pena, apontando-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DE MINAS GERAIS (Habeas corpus n. 1.0000.22.298277-9/000).
+Esta, a ementa do acórdão impugnado (fl. 35):
+HABEAS CORPUS - EXECUÇÃO CRIMINAL - IRRESIGNAÇÃO - FALTA GRAVE RECONHECIDA EM DESFAVOR DO PACIENTE - RECURSO DE AGRAVO EM EXECUÇÃO PENDENTE DE JULGAMENTO - VIOLAÇÃO DO PRINCÍPIO DA UNIRRECORRIBILIDADE DAS DECISÕES - ORDEM NÃO CONHECIDA.
+1. O agravo em execução (art. 197, LEP) é o recurso adequado para questionar as decisões do juízo de execução, não cabendo ao habeas corpus, exceto quando flagrante a coação ilegal decorrente de ilegalidade da conduta, abuso de poder ou teratologia da decisão, o que não se vislumbra no presente caso.
+Sustenta a impetração que a ausência de análise por parte do Tribunal de origem da matéria impugnada, tão somente por entender que o habeas corpus não seria substituto de revisão criminal, caracterizada a indevida negativa de prestação jurisdicional, isso porque a análise da nulidade arguida é possível, em sede de habeas corpus, para a verificação de flagrante ilegalidade (fl. 7).
+Para a defesa técnica, tendo em vista que os celulares não adentraram no estabelecimento prisional, sendo utilizados tão somente por ocasião do trabalho externo, é certo que a aludida falta grave não ocorreu, até mesmo porque o paciente foi autorizado pela APAC a fazer uso do aparelho durante o trabalho externo (fl. 30).
+Requer-se, em liminar e no mérito, seja determinado que o Tribunal de origem examine o mérito do writ lá impetrado (fls. 3/34).
+É o relatório.
+De início, verifico que o Tribunal de origem não examinou o suposto constrangimento ilegal apontado pela parte i mpetrante, por entender inadequada, em habeas corpus, a discussão da matéria, apontando como via idônea o recurso de habeas corpus, já interposto e pendente de julgamento, o que inviabiliza a prematura apreciação da matéria por este Superior de Justiça, sob pena de indevida supressão de instância (fls. 35/40).
+Por conseguinte, correta a ponderação do Tribunal a quo ao não examinar o mérito do pedido formulado na inicial destes autos, pois a jurisprudência do Superior Tribunal de Justiça não admite a tramitação concomitante de recursos e habeas corpus manejados contra o mesmo ato, sob pena de violação do princípio da unirrecorribilidade (AgRg no HC n. 745.633/SP, Ministra Laurita Vaz, Sexta Turma, DJe de 27/6/2022).
+Ademais, sobre a pretensão em exame, denota-se que o voto condutor do acórdão impugnado explicitou (fls. 37/40):
+ ..
+Por outro lado, não se olvida a possibilidade de concessão da ordem de ofício, excepcionalmente, em caso de patente ilegalidade, demonstrada de plano, apta a gerar constrangimento ilegal, o que verifiquei não ser o caso dos autos. De início, destaco as informações prestadas pela i. Magistrada de primeira instância:
+O paciente Gabriel Felipe Corrêia foi condenado uma pena de treze anos e quatro meses de reclusão. Encontra-se atualmente em regime fechado. O estágio mais próximo para benefício será atingido somente aos 23/3/2023. Foi sancionado por falta grave cometida no regime semiaberto. Agravou contra a referida decisão e o recurso já foi remetido a esse Eg. TJMG. Eram as informações a serem prestadas, que seguem com as cópias consideradas pertinentes."(doc. n. 15).
+Colhe-se dos autos que foi reconhecida a prática de falta grave pelo reeducando, consistente em porte de celular durante período de trabalho externo e o apenado o teria escondido dentro de veículo usado para deslocamento dos sentenciados até o local de labor, sendo-lhe determinada a regressão de regime ao fechado, bem como foi fixada a data da última falta grave como marco inicial para concessão de novos benefícios, assim como a perda de um terço dos dias remidos (fls. 4/6, doc. n. 16).
+Esclareço que, o presente writ acabará por ter um condão "recursal", pois há recurso de agravo em execução (Autos n. 1.0000.21.072143-7/005), o qual está pendente de julgamento, de modo que o mérito da questão aqui colocada será decidido em breve no âmbito recursal apropriado. Ora, a fim de se prestigiar os princípios da eficiência e da segurança jurídica, para afastar o risco de decisões conflitantes, o presente pleito não merece ser conhecido.
+Nesse ponto, é consolidado pela Jurisprudência que não se admite a tramitação concomitante de recurso e habeas corpus manejados contra o mesmo ato, sob pena de violação do princípio da unirrecorribilidade, tal qual já decidido:
+ ..
+Logo, a impetração não prospera, visto que a insurgência apresentada pela defesa neste writ contraria a jurisprudência assente deste Superior Tribunal (AgRg no HC n. 682.569/SP, Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 16/12/2021).
+Ante o exposto, indefiro liminarmente o writ.
+Publique -se.
+EMENTA
+HABEAS CORPUS. DIREITO PENAL. EXECUÇÃO CRIMINAL. FALTA DISCIPLINAR DE NATUREZA GRAVE. VIOLAÇÃO DO PRINCÍPIO DA UNIRRECORRIBILIDADE. ACÓRDÃO A QUO FUNDAMENTOU ADEQUADAMENTE A QUAESTIO.
+Writ indeferido liminarmente.
