@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de carta rogatória por meio da qual a Justiça portuguesa (tribunal Judicial da Comarca do Porto - Juízo Central Criminal de Vila do Conde - Juiz 6) solicita intimação de MARCO VALÉRIO CANIÇA SILVA para conhecimento acerca de sentença de condenação penal por vários crimes de burla qualificada, bem como para que seja cientificado da abertura de prazo para interposição de recurso a contar da notificação (fls. 11-12 e 1655-1668).
+A intimação prévia foi recebida pessoalmente pelo interessado, conforme atesta o documento de fl. 1.686. Tendo transcorrido o prazo para manifestação, a Defensoria Pública da União o representou na condição de curadora especial e impugnou a carta rogatória ao argumento de que não haveria nos autos comprovação da citação válida do interessado e tampouco da oferta de assistência técnica, o que ofenderia os princípios do contraditório e da ampla defesa.
+O Ministério Público Federal opinou pela devolução à Justiça rogante, ante a intimação pessoal da parte pela via postal (fls. 1.697/1.698).
+É o relatório.
+Decido.
+De início, cumpre destacar que os argumentos apontados pela Defesa da parte interessada como óbices à concessão do exequatur não prosperam. Isso porque a rogatória está acompanhada de documentos suficientes à compreensão da controvérsia, cabendo ressaltar que há nos autos indicação do nome e contato da Defensora designada para auxílio do réu naquela localidade (fl. 12).
+Cumpre observar, ainda, que o pedido de diligência trata de simples comunicação de ato processual, o que não contraria os princípios constitucionais do devido processo legal, da ampla defesa e do contraditório. Ademais, abre-se prazo para a manifestação do sentenciado e exercício do direito de recurso.
+No mais, constata-se que o objeto da presente carta rogatória não atenta contra os demais requisitos legais (ofensa à soberania nacional, à dignidade da pessoa humana; autenticidade dos documentos e inteligência da decisão), razão pela qual, com fundamento no art. 216-O, c/c o art. 216-P do RISTJ, concedo o exequatur.
+Diante do êxito na intimação pessoal da parte interessada (fl. 1.686), considero consumado o objeto da comissão, sendo desnecessária a remessa dos autos à Justiça Federal. Confira-se o seguinte precedente da Corte Especial:
+AGRAVO INTERNO NA CARTA ROGATÓRIA. INTIMAÇÃO PRÉVIA, VIA POSTAL. AVISO DE RECEBIMENTO ASSINADO PELO PRÓPRIO INTERESSADO. DEVOLUÇÃO DOS AUTOS À JUSTIÇA ROGANTE ANTE O CUMPRIMENTO DA DILIGÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1. Como a parte Interessada assinou o aviso de recebimento da intimação prévia, conclui-se que esteja ciente da notificação objeto da rogatória, uma vez que acompanhada de cópia integral dos autos.
+2. Consumada a diligência requerida, desnecessária a remessa dos autos à Justiça Federal, motivo pelo qual eles devem ser devolvidos à Justiça rogante, por intermédio da autoridade central competente.
+3. Agravo interno desprovido. (AgRg na CR n. 11.262/EX, relatora Ministra Laurita Vaz, DJe de 14/9/2017.)
+Ante o exposto, com fundamento no art. 216-X do RISTJ, determino a devolução dos autos à Justiça rogante por intermédio da autoridade central competente, independentemente do trânsito em julgado.
+Publique-se.
