@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/03/2023 a 20/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+RELATÓRIO
+Trata-se de agravo regimental em habeas corpus interposto por Sérgio Soares Francisco contra a decisão, de minha Relatoria, que denegou a ordem de habeas corpus. Esta, a ementa da decisão (fl. 437):
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. FURTO QUALIFICADO. PLEITO DE AFASTAMENTO DA QUALIFICADORA. ROMPIMENTO DE OBSTÁCULO E ESCALADA. AUSÊNCIA DE ILEGALIDADE. COMPROVAÇÃO POR OUTROS ELEMENTOS DE PROVA. LAUDO PERICIAL INDIRETO. DOSIMETRIA. PENA-BASE. PENA FIXADA COM A DEVIDA FUNDAMENTAÇÃO. Ordem denegada.
+No presente recurso, a defesa aponta ilegalidade no aumento da pena-base, por entender que as vetoriais devem ser consideradas neutras, circunstâncias do crime e conduta social. Insiste na tese de afastamento da qualificadora de rompimento de obstáculo e escalada, por ausência de perícia no local, com a permanência dos vestígios. Requer, diante disso, a reconsideração da decisão.
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. FURTO QUALIFICADO. PEDIDO DE AFASTAMENTO DA QUALIFICADORA. IMPOSSIBILIDADE. COMPROVAÇÃO POR OUTROS ELEMENTOS DE PROVA. LAUDO PERICIAL INDIRETO. DOSIMETRIA. JUSTIFICADA A VALORAÇÃO NEGATIVA EM FACE DA CONDUTA E CIRCUNSTÂNCIAS DO CRIME.
+1. Foram comprovados outros elementos de prova, como o fato de a cerca elétrica ter sido danificada nos fundos do terreno, sendo um laudo pericial indireto.
+2. Concretos os fundamentos apresentados quanto à valoração negativa da conduta social e das circunstâncias do crime.
+3. Agravo regimental improvido.
+VOTO
+A decisão deve ser mantida por seus próprios fundamentos. Na hipótese, está presente o laudo pericial indireto, que foi o auto de constatação, já que, para ter acesso ao local, o paciente precisou romper a cerca elétrica e escalar o muro, além da existência de fotografias. Confira-se o julgado (fl. 287):
+ ..
+A defesa pugna pelo afastamento das qualificadoras de rompimento de obstáculo e escalada, argumentando a inexistência de laudo pericial. As qualificadoras do rompimento de obstáculo e da escalada encontram-se devidamente demonstradas nos autos.
+O reconhecimento das qualificadoras prevista no § 4º, I e II, do art.155, do CP, prescinde da confecção de laudo pericial, podendo ser reconhecidas com base em outros meios de prova documental, como por exemplo, laudo pericial indireto - como é o caso dos autos -, auto de constatação e fotografias, na busca da verdade real. Na hipótese em análise, verifica-se que, além da prova oral colhida durante a instrução processual, o Exame Indireto de Local às p. 52-54, demonstram a ocorrência do rompimento de obstáculo e da escalada, indicando que o apelante, para ter acesso ao local, precisou romper a cerca elétrica e escalar o muro. ..
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO QUALIFICADO. EXCLUSÃO DA QUALIFICADORA DE ROMPIMENTO DE OBSTÁCULO. EXIGÊNCIA DE LAUDO PERICIAL. DESNECESSIDADE DIANTE DE OUTRAS PROVAS COLHIDAS.
+1. Verificado pelas instâncias de origem que a inexistência de laudo pericial não impediu a constatação da destruição ou rompimento de obstáculo, pois confeccionado auto de constatação no local concluindo pelo arrombamento de uma porta, a qual estava trancada com um cadeado, para subtração dos objetos, não há falar-se em ilegalidade na aplicação da qualificadora prevista no art. 155, § 4º, I, do Código Penal.
+2. Entende esta Corte que " a  realização de exame pericial indireto, como no caso dos autos, que foi realizado por meio de Auto de Verificação e Descrição do Local do Delito, assinado pelo Delegado de Polícia Civil e pelo Agente de Polícia responsável, no qual foram juntadas fotografias da porta de vidro do estabelecimento, em que é possível verificar que a parte inferior havia sido quebrada, constitui meio de prova idôneo para configurar a qualificadora do rompimento de obstáculo"(AgRg no HC 545.671/SC, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 11/02/2020, DJe 14/02/2020).
+3. Agravo regimental desprovido.
+(AgRg no HC n. 682.645/MS, Ministro Olindo Menezes (Desembargador convocado do TR/1ª Região), Sexta Turma, DJe 19/11/2021)
+Como pode ser visto, foram comprovados outros elementos de prova, como o fato de a cerca elétrica ter sido danificada nos fundos do terreno. Diante disso, não há constrangimento ilegal no reconhecimento da qualificadora.
+Da mesma forma, a pena fixada não merece reparos. As circunstâncias do crime foram consideradas para aumento da pena-base, pois houve pluralidade de qualificadoras, porta nto possível que uma delas seja considerada na primeira fase. Não prospera a alegação da defesa de que a conduta social não poderia ser valorada negativamente, por ter o paciente à época, evadido do regime semiaberto. O fato de estar cumprindo pena em regime semiaberto e ter evadido demonstra, sim, uma maior reprovabilidade na conduta do acusado, o que justifica a elevação da pena-base. Nesses termos, a instância ordinária trouxe concretos fundamentos, não sendo o caso de estar presente qualquer ilegalidade na fixação da pena. Também não há constrangimento ilegal na fixação do regime fechado, por ser o réu reincidente.
+Ante o exposto, nego provimento ao agravo regimental.
