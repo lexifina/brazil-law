@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de AMARO MAURÍCIO ALVES apontando como autoridade coatora o Tribunal de Justiça do Estado de Pernambuco.
+Infere-se dos autos que o paciente, preso preventivamente, foi condenado, por infração aos arts. 157, § 3º, 211, 299, todos do Código Penal, à pena de 32 anos de reclusão, em regime inicial fechado, sendo-lhe negado o apelo em liberdade.
+Irresignada, a defesa interpôs recurso de apelação, o qual pende de julgamento.
+Na presente impetração, a defesa alega, em síntese, haver constrangimento ilegal diante da demora no julgamento do apelo defensivo, destacando que o feito está concluso ao Desembargador relator desde 11/10/2022, sem que tenha sido apresentado, até a presente data, o relatório.
+Diante disso, requer, em liminar e no mérito, a concessão ao réu do direito de aguardar em liberdade o apelo defensivo.
+Indeferida a liminar (e-STJ fls. 51/53) e prestadas as informações (e-STJ fls. 57/60 e 63/77), o Ministério Público Federal manifestou-se pelo não conhecimento do mandamus e, caso conhecido, pela denegação da ordem (e-STJ fls. 78/82).
+É o relatório. Decido.
+Busca-se, em síntese, no presente mandamus, a revogação da prisão cautelar do paciente condenado a 32 anos de reclusão, em regime inicial fechado, por latrocínio, ocultação de cadáver e falsidade ideológica.
+O entendimento desta Corte Superior é no sentido de que, embora a lei processual não estabeleça prazo para o julgamento da apelação, tratando-se de recurso defensivo, a demora injustificada por circunstâncias não atribuíveis à defesa, quando o réu se encontra preso, configura constrangimento ilegal. Nesse sentido:
+HABEAS CORPUS. PROCESSUAL PENAL. PRISÃO CAUTELAR. ROUBO CIRCUNSTANCIADO. USO DE DOCUMENTO FALSO. CORRUPÇÃO DE MENORES. APELAÇÃO DEFENSIVA PENDENTE DE JULGAMENTO HÁ QUASE CINCO ANOS. AUSÊNCIA DE JUSTIFICATIVA. EXCESSO DE PRAZO CONFIGURADO.
+1. Está configurado o excesso de prazo na apreciação da apelação defensiva, a qual aguarda julgamento na Corte de origem desde 14/8/2007, portanto há quase cinco anos, sem a existência de justificativa para o atraso.
+2. Hipótese em que o paciente permanece preso desde 7/9/2006.
+3. Ordem concedida para garantir ao paciente o direito de aguardar em liberdade o trânsito em julgado da condenação, salvo se por outro motivo não estiver preso e ressalvada a possibilidade de haver nova decretação de prisão, caso ocorra a superveniência de fatos novos e concretos para tanto, ficando ratificada a liminar deferida (HC n. 222.683/CE, Relator Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 22/3/2012, DJe 11/4/2012).
+Todavia, o excesso de prazo não pode ser medido apenas em razão do tempo decorrido para o julgamento do recurso, devendo ser apreciado, também, a partir do princípio da razoabilidade e da proporcionalidade, tendo em vista a complexidade da causa em julgamento.
+No presente caso, em 30/9/2019, foi proferida sentença condenando o paciente à pena de 32 anos de reclusão, em regime inicial fechado, negado o direito de recorrerem em liberdade.
+Em suas informações, o Tribunal a quo esclareceu (e-STJ fls. 63/65):
+As advogadas Eliane Maria Gomes Ferreira e Elizabeth Gomes Ferreira de Andrade Guimarães impetraram neste Tribunal de Justiça o HC nº 8380-95.2021.8.17.9000, em favor de Amaro Mauricio Alves, reclamando da negativa do Juízo da 1º Vara da Comarca de Escada/PE, em conceder o direito ao paciente de recorrer em liberdade, nos autos do processo originário nº1138-34.2016.8.17.0570.
+Em meu voto, salientei que o paciente respondeu ao processo preso preventivamente, e as razões que alicerçaram sua prisão permanecem inalteradas, sobretudo agora, que tem contra si uma sentença condenatória de 32 anos de reclusão.
+Ressaltei ainda que o paciente responde a outro processo por crime de homicídio (Processo Crime nº 2542-79.2016.8.17.0810), no qual foi impronunciado por decisão do juízo de 1º grau em data de 19/07/2017, porém em julgamento de recurso do Ministério Público nº 495.236-5, foi dado provimento para pronunciar o paciente, estando processo em grau de juízo de admissibilidade de Recurso Especial interposto pela defesa.
+O referido habeas corpus foi submetido a julgamento no dia 17/06/2021, sendo denegada a ordem, a unanimidade, na sessão de julgamento da 2º Câmara Criminal desta Corte, em acórdão assim ementado:
+PENAL E PROCESSO PENAL. LATROCÍNIO. OCULTAÇÃO DE CADAVER. FALSIDADE IDEOLÓGICA. PRISÃO PREVENTIVA DEVIDAMENTE FUNDAMENTADA. PACIENTE QUE RESPONDEU PRESO TODA A INSTRUÇÃO CRIMINAL. SENTENÇA CONDENATÓRIA. MANUTENÇÃO DA PRISÃO FUNDAMENTADA. ORDEM DENEGADA. DECISÃO UNÂNIME.
+Da análise dos autos, verifica-se que há fundamentação suficiente para manutenção da prisão preventiva, especialmente considerando o risco a ordem pública.
+Circunstâncias que justificam a manutenção da custódia preventiva na sentença condenatória.
+Paciente com registro de antecedentes criminais.
+Por unanimidade de votos, denegou-se a ordem.
+ACÓRDÃO
+Vistos, relatados e discutidos os presentes autos do Habeas Corpus nº 0008380-95.2021.8.17.9000 em que figura como impetrantes as advogadas Eliane Maria Gomes Ferreira e Elizabeth Gomes Ferreira de Andrade Guimarães e como paciente Amaro Maurício Alves, acordam os Desembargadores componentes da 20. Câmara Criminal do Tribunal de Justiça do Estado de Pernambuco, por unanimidade de votos, em denegar a ordem do presente habeas corpus, tudo consoante consta do relatório e voto anexos, que passam a fazer parte do julgado.
+Por fim, informo que o recurso de Apelação Criminal nº 0561782-9, interposto pela defesa, ainda se encontra pendente de julgamento neste Tribunal de Justiça.
+Ainda, a partir do andamento processual, extraído do endereço eletrônico do Tribunal de origem, verifica-se que o recurso defensivo chegou à Corte a quo em 2/7/2021, tendo as últimas razões recursais apresentas em 22/6/2022. Aberta vista ao Ministério Público, na mesma data, o representante do Parquet apresentou contrarrazões em 11/10/2022, sendo o feito então concluso ao relator.
+Nesse contexto, considerando os trâmites necessários, não se visualiza desídia que possa ser atribuída ao Judiciário, a justificar o relaxamento da prisão por excesso de prazo.
+Além disso, vale lembrar que eventual excesso de prazo no julgamento da apelação deve ser aferido em face da quantidade de pena imposta na sentença condenatória (HC n. 234.713/CE, Relator Ministro MARCO AURÉLIO BELLIZZE, Quinta Turma, julgado em 12/6/2012, DJe 28/6/2012).
+Assim, considerando a pena total a que foi condenado o paciente - 32 anos de reclusão -, não verifico fla grante excesso de prazo para o julgamento do recurso, pois não demonstrado que, em razão de eventual demora para a apreciação da apelação, os pacientes se encontram impedidos de usufruir de benefícios relativos à execução da pena, que já foi iniciada, tendo sido expedida a competente guia de execução provisória.
+Ante o exposto, denego a ordem. Recomendo, contudo, ao Tribunal de origem que promova maior celeridade ao julgamento do apelo defensivo.
+Intimem-se.
