@@ -1,0 +1,70 @@
+DECISÃO
+Trata-se de agravo interposto por MARIA TEREZA COLLA RODRIGUES, contra a decisão que inadmitiu o recurso especial. O apelo extremo fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal desafia o acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"Plano de saúde. Contrato coletivo. Reajuste financeiro e por aumento dos custos médico-hospitalares. Validade da cláusula. Demonstração da elevação da sinistralidade a repercutir nos custos básicos do plano. Inaplicabilidade dos índices da ANS. Ausência de comprovação de que a mensalidade é incompatível com o valor de mercado. Abusividade não reconhecida. Improcedência decretada. Recurso da autora improvido, provido o da ré" (fl. 301, e-STJ).
+Os embargos de declaração opostos foram rejeitados.
+No especial, a recorrente aponta além de dissídio jurisprudencial, violação dos arts. 6º, III, 31, 39, XIII, 46, 51, X e 54, § 3º, do Código de Defesa do Consumidor.
+Sustenta em síntese, que todas as informações contidas no contrato de plano de saúde devem ser claras e precisas.
+Argumenta que o acórdão recorrido mostra-se contraditório, visto que a cláusula 8.4.1. do contrato firmado entre as partes não prevê a possibilidade de aumento por "(..) sinistralidade como forma de reajuste das mensalidades do plano de saúde, prevendo apenas o reajuste por elevação dos custos do plano, referente as despesas médico hospitalares" (fl. 320, e-STJ).
+Postula ao final, a reforma do acórdão estadual a fim de reconhecer a nulidade dos reajustes das mensalidades do plano de saúde pelo critério da sinistralidade, diante da ausência de previsão contratual redigida de forma clara e de fácil compreensão.
+Com as contrarrazões e inadmitido o recurso na origem, sobreveio o presente agravo, no qual se busca o processamento do apelo nobre.
+A decisão desta relatoria às fls. 430-431, e-STJ, determinou a suspensão do feito, bem como a remessa dos autos ao Tribunal de origem, tendo em vista a afetação da matéria sob o rito dos recursos especiais repetitivos, Tema 1.016.
+Em novo juízo de admissibilidade, o Presidente do Tribunal de Justiça do Estado de São Paulo determinou a remessa do feita a esta Corte Superior.
+Isso porque, o acórdão analisou a questão tão somente pela ótica da legalidade do reajuste do plano de saúde coletivo, em virtude do aumento da sinistralidade e dos custos médicos hospitalares. Portanto, trata-se de matéria diversa da discutida no Tema 1.016 (reajuste por faixa etária e o ônus da prova da base atuarial do reajuste).
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação não merece prosperar.
+De início, cumpre assinalar que a jurisprudência do Superior Tribunal de Justiça é firme no sentido de ser possível o reajuste de contratos de saúde coletivos sempre que a mensalidade do seguro ficar cara ou se tornar inviável para os padrões da empresa contratante, seja por variação de custos ou por aumento de sinistralidade.
+Nesse sentido:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL. PLANO DE SAÚDE. MENSALIDADES. REAJUSTE. AUMENTO DA SINISTRALIDADE. ABUSIVIDADE. NÃO RECONHECIMENTO NA ORIGEM. INVERSÃO DO JULGADO. IMPOSSIBILIDADE. SÚMULAS NºS 5 E 7/STJ.
+1. O recurso especial inadmitido impugna acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que é possível o reajuste de contratos de saúde coletivos sempre que a mensalidade do seguro ficar cara ou se tornar inviável para os padrões da empresa contratante, seja por variação de custos ou por aumento de sinistralidade.
+3. Revisar o entendimento da instância ordinária que afastou a natureza abusiva do reajuste do plano de saúde é pretensão que esbarra no reexame de cláusulas do contrato e das provas constantes dos autos, sendo, portanto, inviável em recurso especial (Súmulas nºs 5 e 7/STJ).
+4. Agravo interno não provido"
+(AgInt no REsp 1656653/SP, Rel. Ministro RICARDO VILLAS BÔAS CUÊVA, TERCEIRA TURMA, julgado em 05/12/2017, DJe 15/12/2017 - grifou-se).
+AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC 2015. NÃO OCORRÊNCIA. PLANO DE SAÚDE COLETIVO. REAJUSTES. ÍNDOLE ABUSIVA. AGRAVO IMPROVIDO.
+1. Não se constata a alegada violação ao art. 1.022 do Novo Código de Processo Civil, na medida em que a Corte de origem examinou os argumentos suscitados na apelação e adotou fundamentação clara e suficiente, decidindo integralmente a controvérsia.
+2. É "possível o reajuste de contratos de saúde coletivos sempre que a mensalidade do seguro ficar cara ou se tornar inviável para os padrões da empresa contratante, seja por variação de custos ou por aumento de sinistralidade" (AgRg nos EDcl no AREsp 235.553/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 02/06/2015, DJe de 10/06/2015).
+3. Tendo a índole abusiva do reajuste anual do plano de saúde coletivo sido deduzida com base nas provas produzidas nos autos, a revisão de tal conclusão esbarra no óbice da Súmula 7 do Superior Tribunal de Justiça.
+4. Agravo interno improvido.
+(AgInt no REsp 1661574/SP, Rel. Ministro LÁZARO GUIMARÃES. QUARTA TURMA, julgado em 16/11/2017, DJe 23/11/2017- grifou-se)
+No caso ora em análise, o Tribunal estadual reconheceu a legalidade da cláusula do contrato de plano de saúde prevendo o reajuste por elevação dos custos do plano no que tange às despesas médicos hospitalares. Além disso, considerou a existência de cláusula prevendo o reajuste por sinistralidade.
+É o que se extrai da seguinte passagem:
+"(..) O juízo afastou o aumento por "sinistralidade", ressaltando que a cláusula 8.4 do contrato (fls. 35), em que previstos apenas reajustes pela variação do IGP e pela elevação dos custos básicos do plano, não contemplada aquele critério.
+Ocorre que sinistralidade, em geral, nada mais é do que a relação entre os custos e as receitas de uma seguradora.
+A referida cláusula contratual, embora não a mencione expressamente, nitidamente considera a sinistralidade ao prever o reajuste por elevação dos custos do plano no que tange às despesas médico-hospitalares (cláusula 8.4.1), repercutida evidentemente pela maior utilização, entre os beneficiários da carteira, dos serviços cobertos contratualmente.
+No mais, a própria sentença reconheceu válida a cláusula, ressaltando "irrefutável a necessidade de atualização da mensalidade com base no aumento dos custos médico-hospitalares, sob pena de desequilíbrio econômico financeiro. Na espécie, o índice empregado não se mostra abusivo, havendo, na outra ponta, risco à saúde financeira do contrato coletivo se as mensalidades não acompanharem o aumento dos custos".
+Por outro lado, a documentação juntada com a contestação demonstrou a elevação da sinistralidade e dos custos (fls. 132/166) do plano que justificaram o reajuste havido em 2017, totalizando 34% (fls. 130/131).
+Quanto aos demais anos, como assentando pelo juízo, a parte autora não especificou os reajustes e não trouxe comparativos, não se sabendo a que título foram questionados.
+De qualquer forma, é de se lembrar que os contratos coletivos possuem reajustes livremente pactuados, o que lhes possibilita, num primeiro momento, a comercialização no mercado por preços mais atraentes e em condições mais favoráveis aos aderentes. Nesse cenário, não se aplicam, em regra, os percentuais definidos pela ANS.
+Não é razoável que o interessado valha-se dos benefícios da contratação de seguro coletivo e pretenda, depois, a aplicação das regras especiais para os planos individuais, em especial quanto à observância dos reajustes divulgados pela ANS, em detrimento dos reajustes por sinistralidades.
+Diante da ausência de demonstração de que o valor da mensalidade, afinal, não é compatível com o praticado pela ré no mercado, tendo em vista o perfil do plano (Executivo) e da beneficiária (nonagenária), não há como reconhecer a apontada abusividade ou onerosidade excessiva" (fls. 303-304, e-STJ).
+Nessa situação, conclui-se que o entendimento do acórdão recorrido, quanto ao afastamento da nulidade da cláusula de reajuste por sinistralidade, devidamente contratada e informada ao consumidor, está em consonância com a pacífica jurisprudência do Superior Tribunal de Justiça. Assim, incide na espécie, o enunciado da Súmula nº 568/STJ.
+Ressalta-se, ademais, que ultrapassar e infirmar a conclusão alcançada pelo acórdão recorrido demandaria o reexame da relação contratual estabelecida e dos fatos e das provas presentes no processo, procedimentos inviáveis na estreita via especial em virtude dos óbices das Súmulas nºs 5 e 7/STJ.
+A esse respeito:
+"AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC. OMISSÃO NÃO VERIFICADA. PLANO DE SAÚDE COLETIVO. REAJUSTE. ABUSIVIDADE. INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL. REEXAME DE PROVAS. SÚMULAS NºS 5 E 7/STJ.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese.
+2. É possível reajustar os contratos de saúde coletivos, sempre que a mensalidade do seguro ficar cara ou se tornar inviável para os padrões da empresa contratante, seja por variação de custos ou por aumento de sinistralidade.
+3. Tendo a Corte de origem afastado a abusividade do reajuste aplicado com base nas provas dos autos e no contrato firmado entre as partes, a revisão de tal entendimento esbarra nos óbices das Súmulas nºs 5 e 7 do Superior tribunal de Justiça.
+4. Agravo regimental não provido" (AgRg nos EDcl no AREsp 235.553/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 02/06/2015, DJe 10/06/2015 - grifou-se).
+Oportuno registrar, que a jurisprudência desta Corte Superior preleciona que é possível o reajuste dos planos de saúde sem vinculação aos índices divulgados pela ANS, desde que os percentuais atendam aos critérios da razoabilidade.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO. ACÓRDÃOS RECORRIDO E PARADIGMAS ORIUNDOS DO MESMO TRIBUNAL. SÚMULA 13/STJ. PARADIGMA REMANESCENTE. AUSÊNCIA DE COTEJO ANALÍTICO. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ALEGAÇÃO GENÉRICA. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. ÍNDICES ESTABELECIDOS PELA ANS. INAPLICABILIDADE AOS CONTRATOS COLETIVOS. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA 83/STJ. DEMAIS QUESTÕES SUSCITADAS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. AGRAVO DESPROVIDO. (..)
+4. A jurisprudência do Superior Tribunal de Justiça firmou o entendimento de que, no plano coletivo empresarial, o reajuste anual é apenas acompanhado pela Agência Nacional de Saúde Suplementar, para fins de monitoramento da evolução dos preços e de prevenção de abusos, prescindindo, entretanto, de sua prévia autorização. Incidência do enunciado n. 83 da Súmula do STJ. (..)
+6. Agravo interno desprovido"
+(AgInt no AREsp 1342360/RJ, Rel. Ministro MARCO AURÉLIO BELIZZE, TERCEIRA TURMA, julgado em 02/09/2019, DJe 10/09/2019 - grifou-se ).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. ENTIDADE DE AUTOGESTÃO. CÓDIGO DE DEFESA DO CONSUMIDOR. INAPLICABILIDADE. REAJUSTE. NÃO APLICAÇÃO DO TETO FIXADO PELA ANS. INEXISTÊNCIA DE ABUSIVIDADE. SÚMULAS 5 E 7 DO STJ. RECURSO NÃO PROVIDO. (..)
+2. Nos planos coletivos, a ANS restringe-se a monitorar o mercado, de modo que os parâmetros para a majoração das contribuições são decorrentes da livre negociação entre a operadora e a pessoa jurídica estipulante, possuidora de maior poder de negociação.
+3. O Tribunal de origem, amparado do conjunto fático-probatório dos autos, e nas cláusulas contratuais, concluiu que o plano de saúde é de natureza coletiva, bem como que inexiste abusividade no reajuste anual da mensalidade deste. Assim, não é possível alterar as conclusões do acórdão recorrido, pois demandaria, necessariamente, reexame de fatos, provas, e cláusulas contratuais, o que é vedado em sede de recurso especial, em razão dos óbices das Súmulas 5 e 7 do STJ.
+4. Agravo interno não provido"
+(AgInt no AREsp 1465860/DF, Rel. MINISTRO LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/08/2019, DJe 20/08/2019 - grifou-se).
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. RAZÕES QUE NÃO ENFRENTAM O FUNDAMENTO DA DECISÃO AGRAVADA. PLANO DE SAÚDE COLETIVO. REAJUSTE ANUAL. SINISTRALIDADE. LIMITAÇÃO AOS ÍNDICES DA ANS. IMPOSSIBILIDADE. PRECEDENTES.
+1. As razões do agravo interno não enfrentam adequadamente o fundamento da decisão agravada.
+2. É "possível o reajuste de contratos de saúde coletivos sempre que a mensalidade do seguro ficar cara ou se tornar inviável para os padrões da empresa contratante, seja por variação de custos ou por aumento de sinistralidade" (AgRg nos EDcl no AREsp 235.553/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 2/6/2015, DJe de 10/6/2015).
+3. O Superior Tribunal de Justiça possui orientação no sentido de que, no plano coletivo, o reajuste anual é apenas acompanhado pela ANS, para fins de monitoramento da evolução dos preços e de prevenção de abusos, não havendo que se falar, portanto, em aplicação dos índices previstos aos planos individuais. Precedentes.
+4. Agravo interno a que se nega provimento"
+(AgInt no AREsp 1155520/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 07/02/2019, DJe 15/02/2019 - grifou-se).
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e negar-lhe provimento.
+Na origem, os honorários sucumbenciais foram fixados em 10% (dez por cento) sobre o valor da causa (R$ 23.815,92 - vinte e três mil, oitocentos e quinze reais e noventa e dois centavos), os quais devem ser majorados para 12% (doze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
