@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/03/2023 a 20/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por METROPOLITAN TRANSPORTS SA, METROPOLITAN TRANSPREMIUM TRANSPORTES LTDA, METROPOLITAN LOGÍSTICA COMERCIAL LTDA, METROFILE GERENCIAMENTO E LOGISTICA DE ARQUIVOS LTDA, METROFILE BRASIL GESTAO DA INFORMAÇÃO LTDA, METROPOLITAN BRASILIA LTDA , METROFILE ARQUIVOS DE SALVADOR LTDA, METROFILE DE PORTO ALEGRE LTDA, METROFILE DE BRASILIA - GERENCIAMENTO E LOGISTICA DE ARQUIVOS LTDA, METROFILE RIO GERENCIAMENTO E LOGISTICA DE ARQUIVOS LTDA, LOGISTIC NETWORK TECHNOLOGY COMÉRCIO IMPORTAÇÃO E EXPORTAÇÃO S/A contra a decisão deste relator que conheceu em parte e negou provimento ao seu recurso especial, cuja ementa está assim redigida:
+RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. AGRAVO DE INSTRUMENTO. CONTROVÉRSIA ACERCA DA DEVIDA DESTINAÇÃO DOS VALORES PREVISTOS NO PLANO DE RECUPERAÇÃO NO CURSO DA RECUPERAÇÃO. NOMEAÇÃO DE PERITO PARA AUXILIAR O JUÍZO. ACÓRDÃO RECORRIDO A RECONHECER A NECESSIDADE DE MELHOR EXPLICITAÇÃO DOS DEPÓSITOS E PAGAMENTOS REALIZADOS. PRETENSA PRECLUSÃO E SUPRESSÃO DE INSTÂNCIA. INOCORRÊNCIA. ALEGADA CONFUSÃO ENTRE O LAUDO PERICIAL E A PRESTAÇÃO DE CONTAS. INEXISTÊNCIA. AUSÊNCIA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL.
+RECURSO ESPECIAL DESPROVIDO.
+Em suas razões recursais, reafirmou a preclusão sobre as contas prestadas mensalmente pelo administrador judicial, pois em o agravado e nenhum dos 1.800 credores da recuperação judicial impugnou as contas prestadas pelo administrador judicial mensalmente, homologadas judicialmente, e, ainda assim, deferiu-se a prestação de contas, de forma mercantil, pelo perito contador, afrontando o instituto da preclusão lógica, temporal, consumativa e pro judicato.
+Aduziu que o direito da parte impugnar as contas não é questão de ordem pública. Asseverou, por outro lado, que o reconhecimento pelo acórdão de que a prova pericial mereceria maior detalhamento especialmente em face de eventuais desvios por parte das recuperandas, questão que não fora submetida ao juízo a quo.
+Referiu que o ARESP 515.948 não se aplica ao caso, pois tem situação fática diversa e que a determinação de refazimento do laudo pericial para que se observe a forma mercantil, confunde o laudo pericial com a prestação de contas, efetuada mensalmente pelo administrador judicial.
+Disse demonstrada a divergência jurisprudencial, pois em ambos os julgados há divergência sobre a interpretação dos arts. 485, § 3º, e 1.013, § 3º, do CPC. Pediu o provimento.
+Houve contrarrazões.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. AGRAVO DE INSTRUMENTO. CONTROVÉRSIA ACERCA DA DEVIDA DESTINAÇÃO DOS VALORES PREVISTOS NO PLANO DE RECUPERAÇÃO NO CURSO DA AÇÃO. ACÓRDÃO RECORRIDO A RECONHECER A NECESSIDADE DE MELHOR EXPLICITAÇÃO DOS DEPÓSITOS E PAGAMENTOS REALIZADOS. PRETENSA PRECLUSÃO E SUPRESSÃO DE INSTÂNCIA. INOCORRÊNCIA. ALEGADA CONFUSÃO ENTRE O LAUDO PERICIAL E A PRESTAÇÃO DE CONTAS. INEXISTÊNCIA. DISSÍDIO NÃO DEMONSTRADO.
+AGRAVO INTERNO DESPROVIDO.
+VOTO
+Eminentes Colegas, as razões trazidas no agravo interno não alteram a convicção deste relator acerca da incidência dos óbices prenunciados e do desprovimento do especial no restante.
+O cerne da atual irresignação se concentra na alegada preclusão, na confusão entre perícia e prestação de contas do administrador e na supressão de instância.
+O acórdão recorrido analisou a perícia realizada concluindo haver "um conjunto desencontrado de informações relativas a depósitos e pagamentos, com apresentação de recibos e documentos, não possibilitando a clara comparação dos valores advindos das vendas de imóveis, com aqueles pagos aos credores."
+Entendeu necessária a organização das parcelas que compõem as contas em colunas distintas para débito e crédito, esclarecendo-se a origem de todos os recebimentos e o destino de todos os pagamentos, pois modo apropriado de se demonstrarem contas em recuperações judiciais e falências.
+A prestação de contas na recuperação fora auxiliada por perito e com base no laudo por este apresentado, elas teriam sido aprovadas.
+A credora agravante, no entanto, entendeu insatisfatória a análise realizada, postulando que de maneira detalhada fosse evidenciado "(i) o destino que foi dado ao valor obtido com a alienação desses três mencionados imóveis, com a sua partilha entre os credores, e (ii) o montante total pago aos credores da receita liquida, com a especificação do que cada um deles recebeu, o que não ocorreu."
+Não se adentrou no acerto ou desacerto dos pagamentos, senão na insuficiência do laudo para dali extrair alguma conclusão segura.
+Em sede de aclaratórios, aliás, sobrelevou:
+Não obstante possível o exame do tema da preclusão, o fato de o embargado não ter impugnado as contas do administrador judicial não inviabiliza que esta se insurja quanto à decisão do Magistrado que as acolheu. A este, como destinatário final das provas, cabe verificar bastam elas à formação de sua convicção, para bem poder julgar. Não se concebe, em nosso sistema processual, que Juiz julgue sem ter elementos de convicção suficientes.
+Não se evidencia, assim, preclusão a ser reconhecida.
+O descumprimento de obrigações previstas no plano poderá ocasionar uma série de relevantes consequências, algumas delas bastante eloquentes como a convolação da recuperação em falência.
+O que se extrai dos autos é que o credor recorreu tempestivamente contra a decisão que homologara as contas, não se podendo ter por ultrapassada a oportunidade para tanto.
+Tangente à pretensa confusão entre perícia e prestação de contas do administrador, razão também não assiste às recuperandas, não se extraindo a demonstração de afronta aos arts. 551 do CPC e 189 da Lei 11.101/05.
+O acórdão recorrido limitara-se a reconhecer que o laudo pericial, em se tratando de uma parcial prestação de contas, deveria ser realizado de forma mercantil, evidenciando a destinação dos valores advindos das vendas de imóveis e, ainda, os pagamentos feitos ou não na forma do que prescrito no plano, pois a forma como fora realizado não permitia concluir pelo cumprimento ou não do que pré-estabelecido entre credores e devedores.
+Finalmente, em face de pretensas inconsistências, o estampara que a prova pericial mereceria melhor detalhamento, não havendo falar em supressão de instância, senão legítima atuação do órgão julgador no exame da controvérsia a ele submetida.
+Reafirmo, por derradeiro, que o dissídio não fora devidamente demonstrado, pois o acórdão recorrido não analisara os 485, § 3º, ou 1.013, §3º, do CPC, não se podendo reconhecer que ambos os tribunais tenham analisado as mesmas questões jurídicas sob o enfoque das referidas normas federais e concluído de modo diverso.
+Ante todo o exposto, nego provimento ao agravo interno.
+É o voto.
