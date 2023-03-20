@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/03/2023 a 20/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik, Messod Azulay Neto e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Joel Ilan Paciornik.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. RECEPTAÇÃO. REGIME PRISIONAL ABERTO. RÉU REINCIDENTE. MEIO INTERMEDIÁRIO CABÍVEL. AGRAVO DESPROVIDO.
+1. Quanto ao regime prisional, de acordo com a Súmula 440/STJ, "fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito".
+2. As Súmulas 718 e 719/STF, prelecionam, respectivamente, que "a opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada" e "a imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea".
+3. No caso dos autos, contudo, em pese tenha sido imposta reprimenda inferior a 4 anos de reclusão, tratando-se de réu reincidente, não há falar em fixação do regime prisional aberto, por não restarem preenchidos os requisitos do art. 33, § 2º, "b", do CP.
+4. Agravo desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por LEANDRO ALEXANDRE DE SOUZA contra a decisão que não conheceu do writ, ficando mantido o meio prisional intermediário.
+Em razões, o agravante repisa o pleito de fixação do regime prisional aberto, conforme o reconhecido na sentença condenatória.
+É o relatório.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. RECEPTAÇÃO. REGIME PRISIONAL ABERTO. RÉU REINCIDENTE. MEIO INTERMEDIÁRIO CABÍVEL. AGRAVO DESPROVIDO.
+1. Quanto ao regime prisional, de acordo com a Súmula 440/STJ, "fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito".
+2. As Súmulas 718 e 719/STF, prelecionam, respectivamente, que "a opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada" e "a imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea".
+3. No caso dos autos, contudo, em pese tenha sido imposta reprimenda inferior a 4 anos de reclusão, tratando-se de réu reincidente, não há falar em fixação do regime prisional aberto, por não restarem preenchidos os requisitos do art. 33, § 2º, "b", do CP.
+4. Agravo desprovido.
+VOTO
+Razão não assiste ao ora agravante.
+Isso porque, quanto ao regime prisional, de acordo com a Súmula 440/STJ, "fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito".
+De igual modo, as Súmulas 718 e 719/STF, prelecionam, respectivamente, que "a opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada" e "a imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea".
+No caso dos autos, contudo, em pese tenha sido imposta reprimenda inferior a 4 anos de reclusão, tratando-se de réu reincidente, não há falar em fixação do regime prisional aberto, por não restarem preenchidos os requisitos do art. 33, § 2º, "b", do CP.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO QUALIFICADO. TENTADO. REINCIDÊNCIA. FIXAÇÃO DO REGIME FECHADO. PROPORCIONALIDADE. RAZOABILIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+1. A reincidência constitui fundamento apto a promover o recrudescimento do regime prisional, porém nos moldes da razoabilidade e proporcionalidade.
+2. A fixação de regime inicial fechado à réu mesmo que reincidente condenado à pena de 2 anos e 8 meses de reclusão, mostra-se desarrazoada, fazendo jus portanto ao regime inicial semiaberto.
+3. Agravo regimental improvido."(AgRg no HC 448.968/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 11/9/2018, DJe 24/9/2018).
+"PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. ROUBO MAJORADO. DOSIMETRIA. TERCEIRA FASE. AUMENTO DA PENA. INCIDÊNCIA DE DUAS MAJORANTES. FUNDAMENTAÇÃO INSUFICIENTE. SÚMULA N. 443/STJ. REGIME FECHADO. ADEQUADO. PENA SUPERIOR A 4 ANOS E INFERIOR A 8 ANOS. RÉU REINCIDENTE. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+II - A via do writ somente se mostra adequada para a análise da dosimetria da pena se não for necessária uma análise aprofundada do conjunto probatório e caso se trate de flagrante ilegalidade. Vale dizer, "o entendimento deste Tribunal firmou-se no sentido de que, em sede de habeas corpus, não cabe qualquer análise mais acurada sobre a dosimetria da reprimenda imposta nas instâncias inferiores, se não evidenciada flagrante ilegalidade, tendo em vista a impropriedade da via eleita" (HC n. 39.030/SP, Quinta Turma, Rel. Min. Arnaldo Esteves, DJU de 11/4/2005).
+III - In casu, a pena foi exasperada, na terceira fase, na fração de 3/8 (três oitavos) em virtude da incidência de duas causas de aumento de pena, levando-se em conta apenas o número de majorantes contidas nos incisos I e II do § 2º do art. 157 do Código Penal. Diante desse contexto, forçoso reconhecer a ocorrência de flagrante ilegalidade, eis que o quantum de aumento de pena foi aplicado sem que houvesse a devida fundamentação, baseando-se apenas no número de majorantes, em desacordo com a orientação firmada na Súmula n.443/STJ: "O aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes." (Precedentes).
+IV - Os requisitos para a imposição do regime semiaberto, constam no art. 33, § 2º, alínea b, e § 3º, do Código Penal, quais sejam, a ausência de reincidência, condenação por um período superior a 4 (quatro) anos e inferior a 8 (oito) anos, bem como a inexistência de circunstâncias judiciais desfavoráveis.
+V - Na hipótese, o paciente ostentar reincidência (fl. 57). Logo, fixada a pena em 5 (sete) anos e 4 (quatro) meses de reclusão, o regime inicial fechado é o adequado para o cumprimento da sanção, nos termos do art. 33, §2º, alínea "b" e §3º, do Código Penal. Habeas corpusnão conhecido. Ordem concedida de ofício apenas para estabelecer a fração mínima legal de 1/3 (um terço) na terceira fase da dosimetria, em razão das majorantes do emprego de arma e concurso de pessoas, e redimensionar a pena do paciente para 5 (cinco) anos e 4 (quatro) meses de reclusão, mais pagamento de 12 (doze) dias-multa, mantidos os demais termos da condenação." (HC 456.877/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 04/09/2018, DJe 10/09/2018).
+Ante o exposto, nego provimento ao agravo.
+É o voto.
