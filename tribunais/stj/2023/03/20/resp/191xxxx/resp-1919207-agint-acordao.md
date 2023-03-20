@@ -1,0 +1,70 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/03/2023 a 20/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+EPIS EG COMERCIAL LTDA., JOSÉ CARLOS RODRIGUES MANHÃES, MARILENE RIBERIRO MANHÃES E JOSÉ CARLOS RODRIGUES MANHÃES (EPIS e outros) opuseram embargos à execução de título extrajudicial contra si promovida por COMPROCRED FOMENTO MERCANTIL LTDA. (COMPROCRED), alegando a impenhorabilidade do imóvel constrito judicialmente, por se tratar de bem de família (e-STJ, fls. 1/5).
+O magistrado de primeiro grau, mesmo reconhecendo a intempestividade dos embargos, conheceu da matéria nele veiculada por ser questão de ordem pública e julgou-os procedentes (e-STJ, fls. 74/77).
+O Tribunal de Justiça do Espírito Santo negou provimento ao recurso de apelação manejado por COMPROCRED, MÁRIO CEZAR PEDROSA SOARES e ALEXANDRE VIEIRA ESTEVES em acórdão assim ementado:
+APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO. ALEGAÇÃO DE NÃO APRECIAÇÃO DE TESES. NULIDADE DA SENTENÇA NÃO CONFIGURADA. INTEMPEST1VIDADE DOS EMBARGOS À EXECUÇÃO. BWENHORABILIDADE DO BEM DE FAMÍLIA. ART. 1" DA LEI N. 8.009/1990.
+1. - De acordo com o colendo Superior Tribunal de Justiça "Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução" (REsp 1.740.164; Proc. 2018/0101801-4; PR; Segunda Turma; Rel. Min. Herman Benjamin; Julg. 06-09-2018; DJE 26-11-2018; Pág. 1634).
+2. - A questão relativa à impenhorabilidade do bem de família configura matéria de ordem pública, que, portanto, não precluiu. Por isso, deve ser relevada a intempestividade dos embargos à execução opostos pelos executados. Nesse sentido: TJMS; AC 0809503-06.2017.8.12.0002; Terceira Câmara Cível; Rel. Des. Marco André Nogueira Hanson; DJMS 20-11-2018; Pág. 72. TJSP; APL 1013027-30.2017.8.26.0554; Ac. 11888667; Santo André; Sétima Câmara de Direito Privado; Rel. Des. Luiz Antonio Costa; Julg. 08-10-2018; DJESP 18-10-2018; Pág. 2066.
+3. - O art. 1º, da Lei n. 8.009, de 29 de março de 1990, prevê que "O imóvel residencial próprio do casal, ou da entidade familiar, é impenhorável e não responderá por qualquer tipo de dívida civil, comercial, fiscal, previdenciária ou de outra natureza, contraída pelos cônjuges ou pelos pais ou filhos que sejam seus proprietários e nele residam, salvo nas hipóteses previstas nesta lei". No caso, de acordo com cópia de declaração de imposto de renda apresentada no processo, o imóvel residencial penhorado (apartamento) é o único bem de propriedade dos executados que são pessoas físicas, sendo, pois, impenhorável nos termos do dispositivo legal transcrito.
+4. - Recurso desprovido (e-STJ, fls. 198/199).
+Os embargos de declaração opostos por COMPROCRED foram rejeitados (e-STJ, fls. 217/224).
+Irresignados, COMPROCRED, MÁRIO e ALEXANDRE interpuseram recurso especial com fundamento no art. 105, III, a e c, da CF, alegando ofensa aos arts. (1) 489 e 1.022 do NCPC, porque o TJES não teria examinado a alegação de que os embargos à execução intempestivos deveriam ser liminarmente rejeitados; e (2) 738 e 739, I, do CPC/73, e 918, I, do NCPC, além de dissídio jurisprudencial, porque os embargos à execução reconhecidamente intempestivos deveriam ter sido rejeitados liminarmente.
+Sem contrarrazões, o recurso especial foi admitido na origem, mas em seguida desprovido por decisão monocrática de minha lavra assim resumida:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. IRRESIGNAÇÃO SUBMETIDA AO NCPC. IMPENHORABILIDADE DE BEM DE FAMÍLIA. MATÉRIA DE ORDEM PÚBLICA. NÃO SUJEITA À PRECLUSÃO. POSSIBILIDA DE SER ALEGADA A QUALQUER TEMPO ATÉ A ARREMATAÇÃO. RECURSO ESPECIAL NÃO PROVIDO (e-STJ, fl. 282).
+Nas razões do presente agravo interno, COMPROCRED, MÁRIO e ALEXANDRE insistiram que os embargos à execução opostos intempestivamente deveriam ter sido rejeitados de plano, sob pena de ofensa aos arts. 738 e 739, I, do CPC/73, e 918, I, do NCPC, mesmo quando versem, como no caso, sobre matéria de ordem pública.
+Não foi apresentada impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. IRRESIGNAÇÃO SUBMETIDA AO NCPC. IMPENHORABILIDADE DE BEM DE FAMÍLIA ALEGADA VIA EMBARGOS INTEMPESTIVOS. MATÉRIA DE ORDEM PÚBLICA. NÃO SUJEITA À PRECLUSÃO. POSSIBILIDADE DE SER ALEGADA A QUALQUER TEMPO, INCLUSIVE VIA SIMPLES PETIÇÃO, ATÉ A ARREMATAÇÃO. AGRAVO INTERNO NÃO PROVIDO.
+1. As disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016.
+2. A impenhorabilidade do bem de família, nas instâncias de origem, pode ser alegada a qualquer tempo e, mais do que isso, pode ser suscitada por simples petição. Precedentes.
+3. Assim, não parece razoável afirmar que o juiz de primeiro grau deveria ter recusado o exame dessa questão, apenas porque os embargos à execução manejados com esse objetivo foram protocolados depois do prazo legal.
+4. Agravo interno não provido.
+VOTO
+De plano vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Admissibilidade dos embargos à execução
+Nas razões do seu recurso especial, COMPROCRED, MÁRIO e ALEXANDRE alegaram duas questões: afirmaram, em primeiro lugar, que estariam violado os arts. 489 e 1.022 do NCPC, porque o TJES não teria examinado a alegação de que os embargos à execução intempestivos deveriam ser liminarmente rejeitados. Acrescentaram, em seguida, que haveria ofensa aos arts. 738 e 739, I, do CPC/73, e 918, I, do NCPC, além de dissídio jurisprudencial, porque os embargos à execução reconhecidamente intempestivos deveriam ter sido rejeitados liminarmente.
+A decisão monocrática agravada rejeitou ambas as alegações, e o agravo interno ora sob julgamento reiterou apenas a segunda delas, relativa à inadmissibilidade dos embargos à execução.
+Segundo alegado, os embargos à execução opostos intempestivamente deveriam ter sido rejeitados de plano, sob pena de ofensa aos arts. 738 e 739, I, do CPC/73, e 918, I, do NCPC, mesmo quando versem, como no caso, sobre matéria de ordem pública.
+Esse posicionamento, cumpre reconhecer, já foi adotado nesta Corte Superior conforme se pode verificar a partir dos seguintes julgados:
+AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO INTEMPESTIVOS. IMPOSSIBILIDADE DE SE CONHECER DE MATÉRIA AFETA AO MÉRITO, CONQUANTO SE TRATE DE QUESTÃO DE ORDEM PÚBLICA. PRECEDENTES. DECISÃO DO STJ QUE RECONHECE A EXISTÊNCIA DE OMISSÃO DO JULGADO, DETERMINANDO QUE O TRIBUNAL DE ORIGEM ENFRENTASSE A QUESTÃO RELACIONADA À LEGITIMIDADE PASSIVA DA EXECUTADA. RECONHECIMENTO, COM ESTEIO NOS ELEMENTOS FÁTICO-PROBATÓRIOS, DE QUE A EXECUTADA TERIA INCORPORADO, AINDA QUE DE FORMA IRREGULAR, AS DEVEDORAS ORIGINAIS CONSTANTES DO TÍTULO EXEQUENDO. REVISÃO. IMPOSSIBILIDADE. ENUNCIADO N. 7 DA SÚMULA DO STJ. INCIDÊNCIA. AGRAVO INTERNO IMPROVIDO.
+1. Nos termos da uníssona jurisprudência do Superior Tribunal de Justiça, o reconhecimento da intempestividade dos embargos à execução, a denotar a própria inexistência da via processual eleita, tem o condão de obstar o magistrado de conhecer de qualquer outra questão, ainda que de ordem pública, como o é a questão afeta à legitimidade.
+2. De todo modo, é de se constatar que o acolhimento da argumentação expendida pela recorrente, em suas razões recursais, em confronto com a compreensão adotada na origem, de que a embargante incorporou, de fato, as devedoras originárias da dívida, demanda o revolvimento da matéria fático-probatória, proceder absolutamente vedado na presente via especial, nos termos do enunciado n. 7 da Súmula do STJ. 3. Agravo interno improvido.
+(AgInt no REsp n. 1.358.782/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 18/11/2019, DJe de 21/11/2019)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE AFRONTA AO ART. 535 DO CPC/1973. BEM DE FAMÍLIA. MATÉRIA DE ORDEM PÚBLICA. INTEMPESTIVIDADE DOS EMBARGOS À EXECUÇÃO. EXAME DE OFÍCIO. IMPOSSIBILIDADE. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 535 do CPC/1973 quando o acórdão recorrido analisou todas as questões pertinentes para a solução da lide, pronunciando-se, de forma clara e suficiente, sobre a controvérsia estabelecida nos autos.
+2. Os embargos à execução extemporâneos equivalem a peça juridicamente inexistente, sendo inadmissível que o magistrado releve a intempestividade para se manifestar sobre as objeções apresentadas pelo embargante, ainda que se trate de matéria de ordem pública, como a impenhorabilidade do bem de família. Precedentes.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 454.033/MG, relator Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, DJe de 24/4/2017)
+Todavia, segundo jurisprudência majoritária do STJ a impenhorabilidade do bem de família, porque constitui matéria de ordem pública, pode ser alegada nas instâncias de origem a qualquer tempo e, mais do que isso, pode ser alegada até mesmo por simples petição, enquanto não consumada a arrematação do imóvel.
+A propósito:
+RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. INTERESSE RECURSAL. AUSÊNCIA. IMPENHORABILIDADE DE BEM DE FAMÍLIA. MATÉRIA DE ORDEM PÚBLICA. REEXAME DE FATOS E PROVAS. SÚM. 07/STJ. ALIENAÇÃO FIDUCIÁRIA DE IMÓVEL EM GARANTIA. DIREITOS DO DEVEDOR FIDUCIANTE AFETADOS À AQUISIÇÃO DO BEM DE FAMÍLIA. IMPENHORABILIDADE. JULGAMENTO: CPC/15.
+ ..
+4. A jurisprudência do STJ orienta que a impenhorabilidade de bem de família é matéria de ordem pública, suscetível de análise a qualquer tempo e grau de jurisdição.
+(REsp 1.629.861/DF, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, DJe 8/8/2019)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO. INTERRUPÇÃO DO PRAZO RECURSAL. BEM DE FAMÍLIA. IMPENHORABILIDADE. MATÉRIA DE ORDEM PÚBLICA. DECISÃO MANTIDA.
+ ..
+3. "Quando não há alegação, tampouco decisão anterior, a impenhorabilidade do bem de família é matéria de ordem pública, dela podendo conhecer o juízo a qualquer momento, antes da arrematação do imóvel" (REsp 981.532/RJ, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 07/08/2012, DJe 29/08/2012).
+4. Agravo interno desprovido.
+(AgInt no AREsp 377.850/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, DJe 5/9/2018)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. COMPROVAÇÃO DA TEMPESTIVIDADE DO RECURSO ESPECIAL EM AGRAVO REGIMENTAL. SUSPENSÃO DO EXPEDIENTE FORENSE. POSSIBILIDADE. VIOLAÇÃO DO ART. 535 DO CPC. NÃO OCORRÊNCIA. ART. 538, PARÁGRAFO ÚNICO, DO CPC. AUSÊNCIA DE CARÁTER PROTELATÓRIO. SÚMULA N. 98/STJ. BEM DE FAMÍLIA. CARACTERIZAÇÃO. SÚMULA N. 7/STJ. APELAÇÃO. PEDIDO DE DISPENSA DE CUSTAS. INDEFERIMENTO. NECESSIDADE DE INTIMAÇÃO PARA RECOLHIMENTO. DESERÇÃO AFASTADA. ALEGAÇÃO DE IMPENHORABILIDADE DE BEM DE FAMÍLIA. EMBARGOS À EXECUÇÃO. POSSIBILIDADE.
+ ..
+6. A impenhorabilidade do bem de família, por ser matéria de ordem pública, pode ser alegada em qualquer momento processual, inclusive em embargos à execução.
+(AgRg no AREsp 595.374/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Terceira Turma, DJe 1º/9/2015)
+DIREITO CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. EMBARGOS INFRINGENTES. ALCANCE. ORIGEM DA DÍVIDA. INCIDÊNCIA DAS SÚMULAS 5 E 7. ALEGAÇÃO DE IMPENHORABILIDADE DE BEM DE FAMÍLIA. POSSIBILIDADE DE DEDUÇÃO A QUALQUER TEMPO. DIFERENÇA EM RELAÇÃO ÀS HIPÓTESES EM QUE A QUESTÃO FOI DECIDIDA E OPERA-SE A PRECLUSÃO. ENQUADRAMENTO DO IMÓVEL PENHORADO NA PROTEÇÃO CONFERIDA PELA LEI N. 8.009/90. ÔNUS DA PROVA. IRRELEVÂNCIA DA DISCUSSÃO NO CASO CONCRETO.
+ ..
+4. É possível a arguição de impenhorabilidade do bem de família em sede de apelação contra sentença proferida em embargos à execução.
+Cumpre fazer uma distinção entre as hipóteses em que a questão já foi alegada e decidida no processo, daquelas em que a alegação advém tardiamente, depois de apresentada a defesa de mérito do devedor. Quando não há alegação, tampouco decisão anterior, a impenhorabilidade do bem de família é matéria de ordem pública, dela podendo conhecer o juízo a qualquer momento, antes da arrematação do imóvel. Por outro lado, a ausência de alegação oportuna, a depender do caso concreto, quando comprovada a má-fé, resolve-se na redistribuição dos ônus sucumbenciais, nos termos do que dispõe o art. 22 do Código de Processo Civil. Precedentes.
+(REsp 981.532/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, DJe 29/8/2012)
+PROCESSUAL CIVIL. EXECUÇÃO DE HONORÁRIOS ADVOCATÍCIOS. PENHORA DE IMÓVEL. BEM DE FAMÍLIA. IMPENHORABILIDADE ABSOLUTA. ALEGAÇÃO A QUALQUER TEMPO. PRECEDENTES DA CORTE.
+I - A impenhorabilidade do bem de família pode ser alegada a qualquer tempo, até mesmo por petição nos autos da execução.
+Recurso Especial provido.
+(REsp 1.114.719/SP, Rel. Ministro SIDNEI BENETI, Terceira Turma, DJe 29/6/2009)
+Assim, se a impenhorabilidade do bem de família pode ser alegada a qualquer tempo, inclusive mediante simples petição, não parece razoável recusar o exame dessa questão, apenas porque os embargos à execução manejados com esse objetivo foram protocolados depois do prazo legal.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
