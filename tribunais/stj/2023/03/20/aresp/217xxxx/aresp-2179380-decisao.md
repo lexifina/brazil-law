@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo interposto por CLAUDIO JOSE DE SOUZA contra decisão que não admitiu recurso especial fundamentado nas alíneas a e c do permissivo constitucional, no qual desafia acórdão proferido pelo TRF da 4ª Região, assim ementado (e-STJ fl. 474):
+PENAL E PROCESSUAL. ESTELIONATO. ART. 171, § 3º, DO CP. DOSIMETRIA.
+1. A abertura de conta bancária na Caixa Econômica Federal com utilização de documentação falsa configura o crime do art. 171, § 3º, do Código Penal.
+2. Manutenção da dosimetria da pena conforme a sentença, inclusive no tocante à conversão da pena privativa de liberdade em duas restritivas de direito, pelo atendimento aos requisitos do art. 44 do CP.
+O agravante foi condenado à pena de 1 ano e 4 meses de reclusão no regime aberto, substituída por duas restritivas de direitos, consistentes na prestação de serviços à comunidade e pagamento de prestação pecuniária, além do pagamento de 16 dias-multa, pela prática do crime previsto no art. 171, § 3º, do Código Penal.
+O Tribunal de origem negou provimento ao apelo da defesa (e-STJ fls. 474/490).
+Os embargos de declaração opostos pelo ora agravante foram acolhidos parcialmente para corrigir erro material (e-STJ fls. 541/552).
+Nas razões do recurso especial alega-se: a) violação dos arts. 184 e 386, IV, V e VII, do Código de Processo Penal; b) "cerceamento de defesa, ocasionado pelo indeferimento de realização de prova pericial nos documentos de identificação acostados aos autos" (e-STJ fl. 569); c) "os elementos de materialidade elencados nos autos não são capazes de serem utilizados como prova contundente de autoria, no escopo de imputação da prática de estelionato ao réu" (e-STJ fl. 584); d) "a materialidade do crime restou comprovada por meio da vasta documentação falsificada utilizada na abertura da conta corrente, porém, a acusação não logrou êxito em provar que teria sido o apelante quem se dirigiu a Caixa Econômica Federal, fez uso de tais documentos falsificados" (e-STJ fl. 579); e e) "a apreensão de documentos falsificados em posse do reclamante poderia configurar um suposto crime de falsidade ou uso de documento público falsificado, mas, jamais, configuraria o crime de estelionato imputado ao réu nesta ação penal" (e-STJ fl. 585).
+Contrarrazões apresentadas às e-STJ fls. 605/627.
+O Tribunal a quo inadmitiu o apelo extremo por incidência das Súmulas 7 e 83/STJ, fundamentos contra os quais se insurge a parte agravante (e-STJ fls. 646/666).
+Parecer do Ministério Público Federal pelo não conhecimento do agravo e, caso conhecido, pelo não conhecimento do recurso especial (e-STJ fls. 695/709).
+É o relatório.
+Preenchidos os requisitos formais e impugnado os fundamentos da decisão agravada, conheço do agravo e passo ao exame do recurso especial.
+Para melhor elucidação da controvérsia, necessário transcrever os seguintes trechos do acórdão impugnado (e-STJ fls. 479/485):
+Para representar o réu, foi nomeada inicialmente uma advogada dativa, que apresentou defesa prévia em termos predominantemente genéricos (Eventos 11 e 13).
+Logo depois (Evento 18), foi juntada procuração onde foram constituídas as atuais advogadas, em 19/11/2018.
+Em 03/12/2018, ou seja, cerca de três semanas depois, as novas advogadas peticionaram (Evento 20) requerendo a desconsideração da defesa já apresentada, e, por consequência, a reabertura do prazo para que a nova defesa constituída apresentasse a resposta à acusação, com produção de exame pericial, tendo em conta a controvérsia existente sobre a suposta semelhança facial entre o réu e a pessoa que, conforme alega, teria aberto conta na CEF no dia da prática do ilícito, inclusive com requisição de imagens à agência, se necessário.
+Após ouvido o MPF, foi proferido o despacho do Evento 25, que: a) determinou a regularização da representação processual, com o cadastro das novas procuradoras; b) indeferiu o pedido de produção de prova pericial, por preclusão e por entendê-la desnecessária; c) deferiu somente a formalização de pedido de fornecimento de imagens perante à agência local da CEF.
+No entanto, tal prova não se faz necessária pois não seria determinante para a autoria do delito.
+ ..
+Contrariamente ao que alega o apelante, os elementos de prova apresentados no processo evidenciam sua responsabilização criminal.
+Em que pesem todas as alegações sobre falta de semelhança facial entre ele e a pessoa cuja fotografia consta do RG apresentado pelo falsário, isso não infirma as conclusões da sentença. O réu poderia não ter comparecido pessoalmente à agência da instituição financeira e, ainda assim, ter perpetrado o estelionato com os documentos falsos em nome de outra pessoa.
+É necessário também salientar que, durante o flagrante, o acusado estava na posse de documentos falsos em nome de Marco Campos Meyer na companhia de APARECIDA MACHADO, a qual recém havia utilizado documentos falsos em nome de outrem para realizar o mesmo tipo de conduta delitiva.
+Observo, ainda, não haver qualquer comprovação fática da tese apresentada pelo recorrente, no sentido de que teria pedido o carro emprestado para ir a um suposto encontro com uma namorada que disse existir em Blumenau, pessoa essa cuja existência não foi comprovada.
+A reforma do julgado para concluir pela insuficiência de provas para responsabilizar criminalmente o agravante não encontra espaço na via eleita, porquanto seria necessário revolver o contexto fático-probatório dos autos, medida obstada pela Súmula 7/STJ.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DELITO DE ESTELIONATO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. AUTORIA E MATERIALIDADE DO DELITO. PRETENSÃO DE ABSOLVIÇÃO. IMPOSSIBILIDADE DE REVISÃO DE FATOS E PROVAS. SÚMULA N. 7 DO STJ. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTOS SUFICIENTES. SÚMULA N. 283 DO STF. AGRAVO REGIMENTAL DESPROVIDO.
+1. Inexiste omissão e, consequentemente, violação do art. 619 do CPP quando desenvolvida fundamentação suficiente a respeito de questão controvertida.
+2. Evidenciadas a autoria e a materialidade do tipo penal de estelionato pela análise das provas e fatos da causa, não cabe reexaminá-las em recurso especial, em razão do óbice da Súmula n. 7 do STJ.
+3. "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles" (Súmula n. 283 do STF).
+4. Agravo regimental desprovido.
+(AgRg no AREsp 1.744.184/RJ, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 29/3/2022, DJe de 31/3/2022.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ESTELIONATO. PRETENDIDA ABSOLVIÇÃO. NECESSIDADE DE REVOLVIMENTO FÁTICO PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. TENTATIVA. FRAÇÃO DE DIMINUIÇÃO DE PENA. OBSERVÂNCIA DO ART. 14, II, PARÁGRAFO ÚNICO, DO CP. IMPOSSIBILIDADE DE REVISÃO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O Tribunal indicou provas produzidas em contraditório judicial, idôneas a comprovar a autoria e a materialidade delitiva do crime de estelionato. A pretensão de absolvição demandaria inédita incursão na seara probatória, o que é vedado no âmbito do recurso especial, nos termos da Súmula n. 7 do STJ.
+2. O critério para a diminuição da pena pela tentativa (1/2) observou o iter criminis percorrido pelo agente, pois o ilícito estava mais próximo da consumação do que do seu início, de modo a afastar a tese de violação do art. 14, II, parágrafo único, do CP.
+3. Agravo regimental não provido.
+(AgRg no AREsp 1.735.144/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/2/2021, DJe de 2/3/2021.)
+Ademais, o acórdão recorrido encontra-se alinhado ao entendimento jurisprudencial desta Corte quanto à possibilidade de indeferimento da realização de prova pericial quando considerada irrelevante, impertinente ou protelatória pelo magistrado.
+Colhe-se da jurisprudência:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL E PENAL. CRIMES DE FAVORECIMENTO REAL, CORRUPÇÃO PASSIVA, PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO E POSSE DE ARMA DE FOGO DE USO RESTRITO E PERMITIDO, NULIDADE. CERCEAMENTO DE DEFESA. NÃO VERIFICADOS. NECESSIDADE DA PROVA. INCIDÊNCIA DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. INDEFERIMENTO. DISCRICIONARIEDADE DO JULGADOR. ACORDO DE COLABORAÇÃO PREMIADA. AFASTAMENTO NO CASO CONCRETO. SÚMULA N. 7/STJ. ABSOLVIÇÃO. INCURSÃO NOS ELEMENTOS DE PROVAS DOS AUTOS. ÓBICE DA SÚMULA N. 7/STJ. JULGAMENTO EXTRA PETITA OU EXCESSO DE PROVIMENTO JURISDICIONAL. NÃO INDICAÇÃO DOS DISPOSITIVOS DE LEI. SÚMULA N. 284 DO SUPREMO TRIBUNAL FEDERAL - STF. CAPITULAÇÃO JURÍDICA DA DENÚNCIA NÃO VINCULA O MAGISTRADO. PRINCÍPIO DA CONSUNÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS NS. 282 E 356 DO STF. RECURSO ESPECIAL DESPROVIDO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não foram infirmados todos os fundamentos da Corte Estadual no tocante à arguição de nulidade, sendo aplicável o óbice da Súmula n. 283/STF.
+1.1. O STJ já proclamou não ser possível revisar as conclusões adotadas pela instância precedente quanto a desnecessidade da juntada de prova e ao indeferimento da prova pericial sem reexaminar o conjunto fático-probatório dos autos, providência que é vedada em recurso especial a teor da Súmula n. 7 do STJ. Precedentes. (AgInt no REsp 1588756/SC, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe 11/3/2021).
+1.2. O art. 400, § 1º, do CPP, autoriza o Magistrado a indeferir as provas que considerar irrelevantes, impertinentes ou protelatórias, uma vez que é ele o destinatário da prova", não se relevando, portanto, cerceamento de defesa o seu indeferimento fundamentado.
+(AgRg no RHC 113.646/PA, Rel. Ministro LEOPOLDO DE ARRUDA RAPOSO (Desembargador Convocado do TJ/PE), Quinta Turma, DJe 8/10/2019).
+ ..
+6. Agravo regimental desprovido.
+(AgRg no AREsp 1.846.562/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 16/11/2021, DJe de 19/11/2021.)
+Encontrando-se o aresto recorrido alinhado à jurisprudência deste Superior Tribunal de Justiça incide o enunciado da Súmula 83/STJ, segundo o qual "não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Com fundamento no art. 253, parágrafo único, II, a, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
