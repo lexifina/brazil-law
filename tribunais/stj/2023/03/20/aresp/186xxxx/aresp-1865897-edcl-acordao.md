@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/03/2023 a 20/03/2023, por unanimidade, rejeitar os embargos de declaração, com aplicação de multa, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+Exmo. Sr. Ministro MARCO BUZZI - Relator: Cuida-se de segundos embargos de declaração opostos por JORGE CHAMMAS NETO, em face do acórdão acostado a fls. 10806, e-STJ, de relatoria deste signatário, que rejeitou os primeiros aclaratórios opostos pela parte ora insurgente.
+O aresto em questão foi assim ementado:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE COBRANÇA - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE DEMANDADA.
+1. Os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o artigo 1.022 do CPC/15, o que não se configura na hipótese em tela, porquanto o aresto deste órgão fracionário encontra-se devida e suficientemente fundamentado.
+2. Inexistindo quaisquer das máculas previstas no aludido dispositivo, não há razão para modificar a decisão impugnada. Precedentes.
+3. Embargos de declaração rejeitados.
+Inconformado, o insurgente opôs os embargos de declaração de fls. 10823-10834, e-STJ, sustentando a existência de omissão, obscuridade e contradição no julgado, ao argumento de que "provou o embargante que a questão específica dos fundamentos da decisão agravada não foram analisadas, sendo equivocada a incidência da Súmula 182 do STJ e artigo 932 do CPC, já que, demonstradas as violações das normas federais e Súmulas do STJ" (fl. 10828, e-STJ).
+Impugnação apresentada às fls. 10837-10839, e-STJ.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE COBRANÇA - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE REJEITOU OS PRIMEIROS ACLARATÓRIOS.
+INSURGÊNCIA DA PARTE DEMANDADA.
+1. Os segundos embargos de declaração são servis para se veicular vícios contidos no acórdão proferido nos primeiros aclaratórios, sendo descabida a discussão acerca da decisão anteriormente embargada, porquanto o prazo para a respectiva impugnação extinguiu-se por força da preclusão consumativa. Precedentes.
+2. Manifesto o caráter protelatório dos segundos embargos de declaração, é de rigor a aplicação de multa sobre o valor atualizado da causa, prevista no § 2º do art. 1.026 do CPC/2015.
+3. Embargos de declaração rejeitados, com imposição de multa de 1% sobre o valor da causa.
+VOTO
+Exmo. Sr. Ministro MARCO BUZZI - Relator: Os presentes aclaratórios devem ser rejeitados com imposição de multa.
+1. Consoante a jurisprudência deste Tribunal Superior, os segundos embargos de declaração devem indicar vícios de omissão, contradição ou erro material no acórdão que julgou os primeiros aclaratórios, de modo que a nova apresentação das mesmas razões já trazidas nos embargos de declaração anteriores é inadmissível, ante a preclusão consumativa e ensejam, ainda, imposição de multa por recurso protelatório. Nesse sentido:
+EMBARGOS DE DECLARAÇÃO EM EMBARGOS DE DECLARAÇÃO EM EMBARGOS DE DIVERGÊNCIA EM AGRAVO. MODULAÇÃO DE EFEITOS DA DECISÃO QUE NEGOU PROVIMENTO AOS EMBARGOS DE DIVERGÊNCIA. ART. 927, § 3º, DO CPC. QUESTÃO NÃO SUSCITADA NOS PRIMEIROS EMBARGOS DE DECLARAÇÃO. PRECLUSÃO. RECURSO DE CARÁTER INFRINGENTE E PROCRASTINATÓRIO. IMPOSIÇÃO DE MULTA. ART. 1.026, § 2º, DO CPC. MAJORAÇÃO DE HONORÁRIOS. ART. 85, § 11, DO CPC. HONORÁRIOS NÃO DEVIDOS NA ORIGEM. EMBARGOS DE DECLARAÇÃO. NÃO CABIMENTO. PRECEDENTES.  ..
+2. Os segundos embargos de declaração são servis para se veicular vícios contidos no acórdão proferido nos primeiros aclaratórios, sendo descabida a discussão acerca da decisão anteriormente embargada, porquanto o prazo para a respectiva impugnação extinguiu-se por força da preclusão consumativa. Precedentes.
+3. Na espécie, não obstante o fato de a embargante argumentar que os primeiros embargos de declaração aludiram ao tema da segurança jurídica e da mutação da jurisprudência, verifica-se que a argumentação desenvolvida nos anteriores aclaratórios revelou intuito notadamente infringente - a fim de se fazer prevalecer entendimento adotado em precedente da Corte Especial em 2011, à luz do disposto no parágrafo 4º do art. 927 do Código de Processo Civil -, e não com o escopo de provocar a manifestação desta Corte Superior sobre a modulação de efeitos a que alude o parágrafo 3º do art. 927 do Código de Processo Civil.
+4. O recurso mostra-se manifestamente inadmissível e protelatório, a ensejar a forçosa aplicação da multa prevista no artigo 1.026, § 2º, do CPC.  ..
+7. Embargos de declaração rejeitados, com aplicação de multa. (EDcl nos EDcl nos EAg 884.487/SP, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/12/2017, DJe 20/02/2018)
+No mesmo sentido: EDcl nos EDcl no AgInt no AREsp n. 1.939.478/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 30/3/2022; EDcl nos EDcl no AgInt no AREsp n. 1.651.624/MS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 31/3/2022; AgInt no AREsp 1100197/DF, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe 14/11/2017; EDcl nos EDcl no AgInt no REsp 1495618/GO, Rel. Ministro Raul Araújo, Quarta Turma, DJe 21/11/2018.
+Consoante se infere das razões recursais, o insurgente traz novamente inconformismo para com o acórdão que julgou o agravo interno, ao aduzir que "provou o embargante que a questão específica dos fundamentos da decisão agravada não foram analisadas, sendo equivocada a incidência da Súmula 182 do STJ e artigo 932 do CPC, já que, demonstradas as violações das normas federais e Súmulas do STJ" (fl. 10828, e-STJ).
+Trata-se, portanto, de repetição das razões anteriores, o que torna o recurso inadmissível ante a preclusão consumativa e enseja a aplicação de multa de 1% do valor da causa, nos termos do art. 1.026, §2º, do CPC/15 e da jurisprudência desta Corte.
+Precedentes: EDcl nos EDcl no AgInt no AREsp n. 1.742.990/MS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 24/3/2022; EDcl nos EDcl no AgInt no AREsp n. 1.868.808/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 25/4/2022; EDcl nos EDcl no AgInt nos EDcl no AREsp n. 1.756.445/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 18/3/2022.
+2. Do exposto, rejeito os embargos de declaração e, ante o caráter manifestamente protelatório, aplico multa de 1% do valor da causa, nos termos do art. 1.026, § 2º, do CPC/15.
+É como voto.
