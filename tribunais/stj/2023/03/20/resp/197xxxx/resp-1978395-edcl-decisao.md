@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão que parcial provimento ao recurso especial para determinar o retorno dos autos à Corte de origem, a fim de que julgue a apelação conforme os critérios estabelecidos pela Segunda Seção nos EREsps nºs 1.886.929/SP e 1.889.704/SP, afastada, contudo, de plano, a terapia fisioterápica pelo método Pediasuit, que é classificada como método experimental (fls. 1.009-1.010, e-STJ).
+Em suas razões, o embargante sustenta que "(..) a Lei 14.454/2022 deu nova redação à Lei 9.656/1998. Com isso, reconheceu a exigibilidade de tratamentos não previstos no rol da ANS" (fl. 1.016, e-STJ). Aduz que "(..) o MÉTODO PEDIASUIT/THERASUIT já foi reconhecida pelos órgãos que regulamentam as técnicas fisioterápicas" (fl. 1.016, e-STJ) e que "(..) é razoável a exclusão de procedimentos ainda desconhecidos, em teste, experimentais, mas não é o caso da terapia THERASUIT/PEDIASUIT" (fl. 1.017, e-STJ).
+Impugnação às fls. 1.082-1.085 (e-STJ).
+É o relatório.
+DECIDO.
+Não procede a inconformidade veiculada nos presentes aclaratórios.
+De fato, consoante anotado na decisão ora embargada,
+"(..) no tocante ao método therasuit, tanto a Terceira quanto a Quarta Turma desta Corte Superior entendem que o plano de saúde não está obrigado a custear as terapias conhecidas como TheraSuit e PediaSuit, seja por serem consideradas experimentais, seja por demandarem órteses não ligadas a ato cirúrgico  (art.  10,  I e  VII,  da  Lei  nº  9.656/1998).
+(..)
+Quanto às demais terapias, a discussão gira em torno da natureza do Rol de Procedimentos e Eventos em Saúde, elaborado periodicamente pela Agência Nacional de Saúde Suplementar (ANS), se exemplificativo ou taxativo.
+Quando do julgamento dos EREsps nºs 1.886.929/SP e 1.889.704/SP (rel. Ministro Luis Felipe Salomão, DJe 3/8/2022), a Segunda Seção desta Corte Superior uniformizou o entendimento de ser o Rol da ANS, em regra, taxativo, podendo ser mitigado quando atendidos determinados critérios.
+Assim, foram adotados os seguintes parâmetros para a apreciação de casos concretos:
+1 - o Rol de Procedimentos e Eventos em Saúde Suplementar é, em regra, taxativo;
+2 - a operadora de plano ou seguro de saúde não é obrigada a arcar com tratamento não constante do Rol da ANS se existe, para a cura do paciente, outro procedimento eficaz, efetivo e seguro já incorporado ao Rol;
+3 - possível a contratação de cobertura ampliada ou a negociação de aditivo contratual para a cobertura de procedimento extra Rol;
+4 - não havendo substituto terapêutico ou esgotados os procedimentos do Rol da ANS, pode haver, a título excepcional, a cobertura do tratamento indicado pelo médico ou odontólogo assistente, desde que (i) não tenha sido indeferido expressamente, pela ANS, a incorporação do procedimento ao Rol da Saúde Suplementar; (ii) haja comprovação da eficácia do tratamento à luz da medicina baseada em evidências; (iii) haja recomendações de órgãos técnicos de renome nacionais (como CONITEC e NATJUS) e estrangeiros e (iv) seja realizado, quando possível, o diálogo interinstitucional do magistrado com entes ou pessoas com expertise técnica na área da saúde, incluída a Comissão de Atualização do Rol de Procedimentos e Eventos em Saúde Suplementar, sem deslocamento da competência do julgamento do feito para a Justiça Federal, ante a ilegitimidade passiva ad causam da ANS.
+Na espécie, não há elementos incontroversos no acórdão estadual que possam demonstrar, nesta instância especial, que os tratamentos assistenciais indicados estão enquadrados nos critérios de superação da taxatividade, devendo, portanto, o feito retornar ao Tribunal de origem para que, com base nos fatos e nas provas da causa, a apelação seja julgada conforme os parâmetros elaborados pela Segunda Seção.
+Ressalta-se que, recentemente, a ANS também aprovou o fim do limite de consultas e sessões com psicólogos, fonoaudiólogos, terapeutas ocupacionais e fisioterapeutas, além de ter revogado as Diretrizes de Utilização (DU) para tais tratamentos (RN-ANS nº 541/2022).
+Ante o exposto, dou parcial provimento ao recurso especial para determinar o retorno dos autos à Corte de origem, a fim de que julgue a apelação conforme os critérios estabelecidos pela Segunda Seção nos EREsps nºs 1.886.929/SP e 1.889.704/SP, afastada, contudo, de plano, a terapia fisioterápica pelo método Pediasuit, que é classificada como método experimental, como determinou a decisão ora recorrida" (fls. 1.007-1.010, e-STJ).
+Nesse contexto, ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade, eliminar a contradição ou corrigir erro material, mas, sim, reformar o julgado por via inadequada.
+Ante o exposto, rejeito os embargos declaratórios.
+Publique-se.
+Intimem-se.
