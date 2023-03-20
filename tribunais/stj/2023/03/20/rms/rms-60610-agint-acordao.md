@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/03/2023 a 20/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Humberto Martins, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que julgou recurso ordinário em mandado de segurança interposto por Carmem de Freitas Jesus e outros, com fundamento no art. 105, II, b, da Constituição Federal.
+Na origem, trata-se de mandado de segurança impetrado em 16/4/2019 contra ato omissivo atribuído ao Secretário de Saúde do Estado de Goiás, consubstanciado na redução da gratificação de insalubridade em sua folha de pagamento, por força da Lei estadual n. 19.573/2016.
+Deu-se, à causa, o valor da causa de R$ 1.000,00 (mil reais).
+O Tribunal de Justiça do Estado de Goiás denegou a segurança pleiteada, ficando consignado que a impetração ocorreu após o transcurso do prazo decadencial.
+O referido acórdão foi assim ementado, in verbis:
+MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO ESTADUAL. REDUÇÃO DE PERCENTUAL DO ADICIONAL DE INSALUBRIDADE. SUPRESSÃO DE VANTAGEM PECUNIÁRIA EM PROVENTO. ATO COMISSIVO DE EFEITOS CONCRETOS. PRAZO DECADENCIAL CONFIGURADO.
+1 - É pacífico o entendimento do STJ e desta Corte no sentido de que a supressão de vantagem pecuniária devida a servidor público é ato comissivo, único e de efeitos permanentes, não havendo, pois, falar em prestações de trato sucessivo, hipótese em que o termo inicial do prazo decadencial de 120 dias, a que se refere o artigo 23 da Lei nº 12.016/09.
+2 - A alteração dos percentuais do adicional de insalubridade promovida por preceito inserido em lei estadual não configura relação de trato sucessivo, por tratar-se de ato único de efeito concreto na esfera dos direitos do impetrante.
+3 - A ação mandamental que ataca lei de efeitos concretos tem como marco inicial, para a contagem do prazo decadencial de 120 (cento e vinte) dias, a data da ciência do ato impugnado e não da data da publicação da lei de efeitos concretos. In casu, como a data de entrada em vigor da lei atacada - Lei Estadual nº 19.573/2016 - se deu no dia 29/12/2016, o prazo decadencial para a impetração do mandamus começou a fluir a partir do momento em que os impetrantes suportaram os efeitos da norma que reduziu os percentuais dos adicionais de insalubridades, o qual se deu no dia 10/02/2017, data do pagamento referente ao mês de janeiro de 2017.
+4 - Decorridos mais de 120 (cento e vinte) dias entre o conhecimento da redução e a data do protocolo do Mandado de Segurança, como ocorreu na hipótese, o reconhecimento da decadência do direito de impetrá-lo é medida que se impõe.
+SEGURANÇA DENEGADA. PROCESSO EXTINTO COM RESOLUÇÃO DO MÉRITO.
+Não foram opostos embargos de declaração.
+O recorrente alega, em síntese, que o Tribunal incorreu em erro na medida em que se caracteriza na espécie relação de trato sucessivo, de forma a não se poder falar em decadência.
+Não foram apresentadas contrarrazões.
+O Ministério Público opina pelo desprovimento do recurso.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fulcro no art. 34, XVIII, c, do RISTJ, dou provimento ao recurso ordinário em mandado de segurança, para afastar a decadência, determinando o retorno dos autos ao Tribunal de origem para prosseguir com o julgamento do mérito da demanda."
+No agravo interno, a parte recorrente traz argumentos contrários à decisão recorrida.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO. RELAÇÃO DE TRATO SUCESSIVO. CONSONÂNCIA DO ACÓRDÃO COM JURISPRUDÊ NCIA DESTA CORTE. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de mandado de segurança contra ato omissivo atribuído ao Secretário de Saúde do Estado de Goiás, consubstanciado na redução da gratificação de insalubridade em sua folha de pagamento. O Tribunal a quo denegou a segurança pleiteada, ficando consignado que a impetração ocorreu após o transcurso do prazo decadencial.
+II - A jurisprudência do STJ se firmou no sentido de que o prazo decadencial de mandado de segurança que ataca ato consistente na redução da remuneração de servidor público é renovado mensalmente, por envolver relação de trato sucessivo. No mesmo sentido: AgInt no RMS n. 65.906/GO, relator Ministro Herman Benjamin, Segunda Turma, julgado em 14/9/2021, DJe de 13/10/2021 e AgInt no AREsp n. 1.601.680/PB, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 31/8/2020, DJe de 16/9/2020.
+III - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+A jurisprudência do STJ se firmou no sentido de que o prazo decadencial de mandado de segurança que ataca ato consistente na redução da remuneração de servidor público é renovado mensalmente, por envolver relação de trato sucessivo.
+No mesmo sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO. RELAÇÃO DE TRATO SUCESSIVO. DECADÊNCIA. AFASTAMENTO.
+1. Trata-se de Mandado de Segurança impetrado por Charles de Freitas Carvalho contra ato ilegal e arbitrário atribuído ao Secretário da Saúde do Estado de Goiás, consistente na redução da gratificação de insalubridade de 40% para 15%, havida por força da Lei 19.573/2016.
+2. No caso, ocorreu redução da vantagem pecuniária do impetrante, e não supressão de pagamento.
+3. A jurisprudência do STJ se firmou no sentido de que o prazo decadencial de Mandado de Segurança que ataca ato consistente na redução da remuneração de servidor público é renovado mensalmente, por envolver relação de trato sucessivo.
+4. Agravo Interno não provido.
+(AgInt no RMS n. 65.906/GO, relator Ministro Herman Benjamin, Segunda Turma, julgado em 14/9/2021, DJe de 13/10/2021.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA C/C OBRIGAÇÃO DE FAZER. POLICIAL MILITAR ESTADUAL. GRATIFICAÇÃO DE INSALUBRIDADE. OFENSA AO ART. 1º DO DECRETO 20.910/32. ALEGADA PRESCRIÇÃO, EM FACE DA SUPRESSÃO INTEGRAL DA VANTAGEM. EXAME DA LEGISLAÇÃO LOCAL. IMPOSSIBILIDADE. SÚMULA 280/STF. PRECEDENTES DO STJ. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+II. Na origem, trata-se de Ação de cobrança c/c obrigação de fazer, proposta por policial militar estadual, em desfavor do Estado da Paraíba, objetivando a condenação do réu ao pagamento de diferença de gratificação de insalubridade, aplicando o percentual de 20% sobre o soldo do autor, desde os cinco anos anteriores ao ajuizamento do feito, com os acréscimos legais, bem como a condenação à obrigação de fazer, com a inclusão do aludido percentual em folha de pagamento.
+III. O Tribunal de origem afastou a prejudicial de prescrição do direito de ação, ao fundamento de que "era entendimento pacífico no Superior Tribunal de Justiça de que a pretensão de servidor em receber as diferenças remuneratórias caracterizava natureza sucessiva".
+IV. A jurisprudência desta Corte é firme no sentido de que, quando houver redução de vantagem remuneratória devida a servidor público, configura-se a prestação de trato sucessivo, cuja lesão se renova mês a mês, enquanto que a supressão de vantagem, ou dos proventos de servidor público, refere-se à prescrição do próprio direito de ação, não se configurando uma relação de trato sucessivo, pois a referida supressão constitui-se ato único, de efeitos concretos e permanentes, que não se renova mês a mês.
+V. Embora a parte recorrente alegue violação a norma infraconstitucional, a revisão das conclusões adotadas pelo Tribunal de origem - a fim de acolher a tese recursal, manejada pela parte agravante, no sentido de que a prescrição atingiria o próprio direito de ação, porquanto a Lei Complementar estadual 50/2003 "se trata de típica lei de efeitos concretos, que modificou a forma de pagamento, de parcela remuneratória, referente a todos os servidores públicos de Administração direta e indireta do Poder Executivo" - demanda, necessariamente, o exame da referida legislação local, o que atrai a incidência, na espécie, da Súmula 280/STF, segundo a qual "por ofensa a direito local não cabe Recurso Extraordinário".
+VI. Precedentes do STJ: AgInt no AREsp 1.421.795/PB, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe de 02/03/2020; AgInt no AgInt no AREsp 1.354.319/PB, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe de 06/06/2019; REsp 1.701.822/PB, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 19/12/2017; AgRg no AREsp 829.255/PB, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 27/05/2016; AgRg no AREsp 829.602/PB, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 24/05/2016; AgRg no AREsp 487.571/PB, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 30/03/2016; AgRg no AREsp 812.689/PB, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 10/03/2016; AgRg no AREsp 829.548/PB, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 10/03/2016; AgRg no AREsp 829.522/PB, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 08/03/2016; AgRg no AREsp 349.418/PB, Rel. Ministro OLINDO MENEZES (DESEMBARGADOR FEDERAL CONVOCADO DO TRF 1ª REGIÃO), PRIMEIRA TURMA, DJe de 01/12/2015. VII. Agravo interno improvido.
+(AgInt no AREsp n. 1.601.680/PB, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 31/8/2020, DJe de 16/9/2020.)
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
