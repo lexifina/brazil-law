@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/03/2023 a 20/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Humberto Martins, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto por Axa Seguros S.A. contra decisão proferida pelo Ministro Relator, Francisco Falcão, que não conheceu do recurso especial interposto no REsp n. 1.988.446/SP (2022/0058382-0).
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ não conheço do recurso especial."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+Entretanto, para que haja incidência das referidas contribuições sobre os prêmios de seguro, resseguro e retrocessão, deve haver a caracterização da prestação de serviços na forma dos artigos 195, IV e 149,§2º, inciso II, da Constituição Federal, o que, no entendimento da Agravante, não acontece na referida operação.
+ ..
+Isso porque, ao tributar as referidas operações de seguro como serviço, restaram violadas as disposições contidas no artigo 195, §4º, e 154, I da Constituição Federal, que assim dispõem:
+ ..
+Com efeito Excelência, não à toa, as operações da Agravante sofrem a incidência do IOF-Imposto Sobre Operações Financeiras, na forma do artigo 153, V, da Carta Maior, sendo que a Autoridade responsável pela fiscalização da Agravante nada mais é que o DELEGADO DA DEINF-DELEGACIA ESPECIAL DA RECEITA FEDERAL DO BRASIL DE INSTITUIÇÕES FINANCEIRAS EM SÃO PAULO, pelo que denota-se que referida entidade caracteriza a natureza das operações da Agravante como se financeiras fossem.
+ ..
+Nesse sentido, o resseguro e a retrocessão, não compreendem uma obrigação de fazer, e sim uma obrigação de DAR garantia, de modo que não se encaixa na natureza jurídica de uma prestação de serviços, sendo assim, tais operações não acarretam o fato gerador do PIS/COFINS importação sobre os valores objeto de remessa de prêmios de resseguro e retrocessão às empresas seguradoras localizadas no exterior.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. MANDADO DE SEGURANÇA. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. IMPOSSIBILIDADE DE ANÁLISE DE DISPOSITIVO CONSTITUCIONAL. DECISÃO RECORRIDA ESTÁ EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STJ.
+I - Na origem, trata-se de mandado de segurança impetrado contra Delegado da Delegacia Especial das Instituições Financeiras em São Paulo - DEINF objetivando concessão de liminar para determinar a suspensão da exigibilidade do PIS e da Cofins - Importação incidentes sobre as remessas de prêmios de seguro, resseguro e retrocessão às empresas seguradoras localizadas no exterior. Na sentença, a segurança foi denegada. No Tribunal a quo, a sentença foi mantida.
+II - Não se conhece da alegação de violação de dispositivos constitucionais em recurso especial, posto que seu exame é de competência exclusiva do Supremo Tribunal Federal, conforme dispõe o art. 102, III, do permissivo constitucional.
+III - Não cabe ao STJ, a pretexto de analisar alegação de violação do art. 535 do CPC/1973 ou do art. 1.022 do CPC/2015, examinar a omissão da Corte a quo quanto à análise de dispositivos constitucionais, tendo em vista que a Constituição Federal reservou tal competência ao STF, no âmbito do recurso extraordinário.
+IV - Por outro lado, no que concerne à indicação de contrariedade ao art. 110 do CTN, é firme o posicionamento do Superior Tribunal de Justiça segundo o qual se revela incabível conhecer do recurso especial quando o dispositivo de lei federal tido por violado não possui comando normativo capaz de impugnar os fundamentos do acórdão recorrido, incidindo, por analogia, a orientação contida na Súmula n. 284, do Supremo Tribunal Federal, segundo a qual "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia". Nesse sentido, confiram-se os seguintes precedentes: AgInt nos EDcl no AREsp n. 1.343.527/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 19/11/2019, DJe 3/12/2019; e AgInt no AREsp n. 1.510.210/SC, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 21/11/2019, DJe 29/11/2019.
+V - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+Não se conhece da alegação de violação de dispositivos constitucionais em recurso especial, posto que seu exame é de competência exclusiva do Supremo Tribunal Federal, conforme dispõe o art. 102, III, do permissivo constitucional.
+Não cabe ao STJ, a pretexto de analisar alegação de violação do art. 535 do CPC/1973 ou do art. 1.022 do CPC/2015, examinar a omissão da Corte a quo quanto à análise de dispositivos constitucionais, tendo em vista que a Constituição Federal reservou tal competência ao STF, no âmbito do recurso extraordinário.
+Por outro lado, no que concerne à indicação de contrariedade ao art. 110 do CTN, é firme o posicionamento do Superior Tribunal de Justiça, segundo o qual se revela incabível conhecer do recurso especial quando o dispositivo de lei federal, tido por violado, não possui comando normativo capaz de impugnar os fundamentos do acórdão recorrido, incidindo, por analogia, a orientação contida na Súmula n. 284, do Supremo Tribunal Federal, segundo a qual "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia". Nesse sentido, confiram-se os seguintes precedentes: AgInt nos EDcl no AREsp n. 1.343.527/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 19/11/2019, DJe 3/12/2019; e AgInt no AREsp n. 1.510.210/SC, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 21/11/2019, DJe 29/11/2019.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
