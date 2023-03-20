@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JOSUÉ FERNANDES DE ARAÚJO contra acórdão do Tribunal de Justiça do São Paulo (HC nº 2217716-56.2022.8.26.0000).
+Consta dos autos que o paciente foi preso em flagrante e colocado em liberdade provisória em 22/05/2022 e posteriormente denunciado pela suposta prática dos delitos tipificados nos arts. 14 e 15 da Lei nº 10.826/03, na forma do art. 69, caput, Código Penal.
+A defesa impetrou habeas corpus perante o Tribunal local, que denegou a ordem em decisão assim ementada:
+"HABEAS CORPUS PRETENDIDO O TRANCAMENTO DA AÇÃO PENAL POR FALTA DE JUSTA CAUSA PARA O SEU PROSSEGUIMENTO INADMISSIBILIDADE.
+Havendo denúncia que descreve fatos típicos, em tese, e estando aquela amparada em elementos que demonstram indícios da prática dos delitos pelo Paciente, não há que se falar em trancamento da ação penal. Impossibilidade do exame de provas na estrita via do writ. Necessária a análise da alegação da absorção dos delitos pelo Juízo a quo, sob pena de supressão de instância. Ordem denegada." (e-STJ, fl.13).
+Neste writ, a defesa sustenta, em suma, que deve haver a absorção da conduta do delito de porte de arma de fogo pela do de disparo de arma de fogo, considerando-se o contexto fático único.
+Aduz, ainda, que, havendo a referida absorção e o consequente trancamento da ação penal no que tange ao delito do art. 14 da Lei nº 10.826/03, "a pena mínima para o crime remanescente (disparo) é inferior a 4 anos de prisão, o que comporta a aplicação do acordo de não persecução penal."(e-STJ, fl.09).
+Pugna, assim, pela concessão da ordem para que seja determinado o trancamento da ação penal em relação ao crime de porte de arma de fogo e, como consequência, que seja determinada a abertura de vista ao Ministério Público para a propositura do acordo de não persecução penal.
+O pedido liminar foi indeferido (e-STJ, fl. 80).
+O Ministério Público opinou pelo não conhecimento do habeas corpus em razão da supressão de instância (e-STJ, fls. 89-93).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+De antemão, observa-se do teor do acórdão impugnado (HC nº 2217716-56.2022.8.26.0000) que a questão relativa à possibilidade de absorção do delito de porte de arma de fogo pelo de disparo de arma de fogo não foi alvo de cognição pelo Tribunal estadual, conforme se verifica do seguinte excerto:
+"Ademais, não tendo sido apreciado pelo Juízo de primeira instância o pedido de absorção dos delitos, não se pode atribuir a tal autoridade a submissão do Paciente a qualquer constrangimento ilegal. Dessa forma, a análise da referida alegação, por este Tribunal de Justiça, neste momento, implicaria inconteste supressão de instância, devendo ela ser primeiramente apreciada pelo Juízo de primeiro grau." (e-STJ, fl.17, grifou-se).
+Tal situação obsta o exame da matéria diretamente por este Superior Tribunal de Justiça, sob pena de indevida supressão de instância.
+A respeito:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME DE EXTORSÃO. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. INEXISTÊNCIA. CONTINUIDADE DELITIVA. RECONHECIMENTO. SUPRESSÃO DE INSTÂNCIA.
+1. Não constitui ofensa ao princípio da colegialidade a análise monocrática do habeas corpus pelo relator quando a decisão monocrática for proferida com base na jurisprudência dominante do Superior Tribunal de Justiça. Precedentes.
+2. A tese deduzida no writ, que visava o reconhecimento da continuidade delitiva, não foi efetivamente analisada pelo órgão colegiado do Tribunal de origem, razão pela qual fica obstada a análise por esta Corte, sob pena de indevida supressão de instância.
+Precedentes.
+3. Agravo regimental desprovido."
+(AgRg no HC n. 354.331/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 10/5/2022, DJe de 16/5/2022.);
+"AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. PENAL E PROCESSO PENAL. DESCAMINHO E ASSOCIAÇÃO CRIMINOSA. TRANCAMENTO DA AÇÃO PENAL. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. HABITUALIDADE DELITIVA. DILAÇÃO PROBATÓRIA. ALEGAÇÃO DE QUE SE TRATA DE CRIME CONTINUADO. MATÉRIA NÃO APRECIADA PELA CORTE LOCAL. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O trancamento de ação penal ou de inquérito policial, em sede de habeas corpus, constitui medida excepcional, somente admitida quando restar demonstrada, sem a necessidade de reexame do conjunto fático-probatório, a atipicidade da conduta, a ocorrência de causa extintiva da punibilidade ou a ausência de indícios suficientes da autoria ou prova da materialidade.
+2. O reconhecimento da atipicidade da conduta pela incidência do princípio da insignificância deve ser analisada em conexão com os postulados da fragmentariedade e da intervenção mínima do Estado em matéria penal, no sentido de excluir ou afastar a própria tipicidade penal, observando-se a presença de certos vetores, como (a) a mínima ofensividade da conduta do agente, (b) a nenhuma periculosidade social da ação, (c) o reduzidíssimo grau de reprovabilidade do comportamento e (d) a inexpressividade da lesão jurídica provocada (HC n. 98.152/MG, Rel. Ministro CELSO DE MELLO, Segunda Turma, DJe 5/6/2009).
+3. Na espécie, não se verifica a presença dos referidos vetores.
+Isso porque, como ponderado pelo Tribunal de origem, a existência de elementos probatórios a indicar a reiterada prática criminosa pelos recorrentes (que teriam praticado a conduta por, no mínimo, outras 56 vezes), impede o trancamento da ação penal pela incidência do princípio da insignificância.
+4. Ademais, destacou a Corte local que, diante da existência de lastro probatório no caso em análise, torna-se necessária a demonstração pelas partes da existência ou não da efetiva autoria e materialidade dos delitos imputados, não havendo razão para que, neste momento, através da via do habeas corpus, seja determinado o trancamento da ação penal originária, mormente quando constatada a existência de justa causa para seu prosseguimento. Assim, por ora, não é possível acolher a versão acusatória nem defensiva, sobretudo na estreita via do habeas corpus, cujo escopo não permite o exame aprofundado de fatos e provas, mas limita-se à apreciação de matéria pré-constituída e que não depende de dilação probatória.
+5. Constatada a ausência do exame na origem sobre a alegação de que se trata de crime continuado, não é possível a apreciação de tal tema pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância.
+6. Agravo regimental não provido."
+(AgRg no RHC n. 159.576/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 26/4/2022, DJe de 29/4/2022.)
+Em consequência, resta prejudicada também a análise do pedido relativo à possibilidade de proposta de Acordo de Não Persecução Penal.
+Diante do exposto, não conheço do habeas corpus.
+Publique-se. Intime-se.
