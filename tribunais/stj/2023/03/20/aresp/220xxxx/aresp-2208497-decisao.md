@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interposto por LISETE SCHUSSLER e VITOR GUILHERME SCHUSSLER SCHULER contra a decisão que inadmitiu recurso especial. O apelo extremo, com fundamento no artigo 105, III, alíneas "a" e "c", da Constituição Federal, insurge-se contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA assim ementado:
+"AGRAVO INTERNO. PRONUNCIAMENTO JUDICIAL MONOCRÁTICO PROFERIDO PELO RELATOR QUE INDEFERIU A JUSTIÇA GRATUITA E, POR CONSEQUÊNCIA, DETERMINOU QUE FOSSE RECOLHIDO O PREPARO RECURSAL, SOB PENA DE NÃO CONHECIMENTO DO RECURSO. CONCATENADO DE PROVAS FORTE NA COMPROVAÇÃO DE SITUAÇÃO ECONÔMICA QUE SE AFASTA DO QUADRO DE HIPOSSUFICIÊNCIA. GRATUIDADE DA JUSTIÇA. PRESUNÇÃO RELATIVA. APLICAÇÃO DA MULTA PREVISTA NO PARÁGRAFO 4 9 DO ARTIGO 1.021 DO CÓDIGO PROCESSUAL. RECURSO DESPROVIDO. Sofre penalidade entre 1% a 5% do valor corrigido da causa, o recorrente que tem seu agravo interno reconhecido pela Câmara, por unanimidade de votos, manifestamente inadmissível ou improcedente" (fl. 124 e-STJ).
+No seu arrazoado, a parte recorrente alega, além de divergência jurisprudencial, a violação dos artigos 1º, III, 5º, LXXIV, e XXXV, da Constituição Federal e 98, 99 e 1.021, § 4º do Código de Processo Civil, sob o argumento de que preencheu os requisitos para a concessão do benefício da assistência judiciária gratuita. Defende, ainda, que o agravo interno não foi manifestamente inadmissível ou improcedente, sendo equivocada a aplicação da multa.
+Contrarrazões juntadas às fls. 219-229 (e-STJ).
+O Presidente do tribunal de origem inadmitiu o recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação não merece prosperar.
+Inicialmente, deixa-se de conhecer da insurgência em relação à apontada afronta aos arts. 1º, III, 5º, LXXIV, e XXXV, da Constituição Federal, porquanto "É vedado na via especial a análise de dispositivos constitucionais, ainda que para fins de prequestionamento, sob pena de usurpação da competência do Pretório Excelso" (AgRg no REsp 1.236.247/SC, Relatora Ministra Maria Thereza de Assis Moura, DJe 28/9/2011).
+Ademais, ao analisar o pedido de assistência judiciária gratuita, o aresto recorrido consignou que
+"(..) não confortou a tese de que são hipossuficientes, pois, pela prova documental produzida nos autos, ficou evidente que têm condições financeiras para se sustentarem. (Evento 12)
+Diante desse cenário, não havendo demonstração adequada quanto à ausência de capacidade financeira dos agravantes em arcar com as despesas processuais, conclui-se pela manutenção do indeferimento da benesse postulada, até porque, ao pretendente do benefício recai o ônus de provar a sua incapacidade financeira, o que não ocorreu no caso dos autos" (fl. 126, e-STJ).
+Nesse contexto, não é possível a este Tribunal Superior apreciar o entendimento exarado na origem, porquanto teria que, necessariamente, rever o contexto fático-probatório dos autos, procedimento inviável nesta via extraordinária, consoante disposto na Súmula nº 7/STJ.
+Anota-se, ainda, que a aplicação do enunciado nº 7 da Súmula do STJ em relação ao recurso especial interposto pela alínea "a" do permissivo constitucional prejudica a análise da mesma matéria indicada no dissídio jurisprudencial.
+Por fim, no tocante à apontada afronta ao art. 1.021, § 4º, do CPC, este Tribunal Superior entende que
+"A aplicação da multa prevista no § 4º do art. 1.021 do NCPC não é automática, não se tratando de mera decorrência lógica do desprovimento do agravo interno em votação unânime. A condenação ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória (AgInt no AREsp 1.658.454/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 31/8/2020, DJe 8/9/2020)." (AgInt no AREsp 2.155.243/GO, Relator Ministro Moura Ribeiro, DJe 15/2/2023-grifou-se).
+No caso em exame, o Tribunal estadual expressamente reconheceu que,
+"(..) levando-se em consideração que o tema utilizado no recurso de agravo de instrumento, e neste agravo interno, foram devidamente rechaçados com os mesmos argumentos, fruto da falta de apresentação de teses dignas, situação essa que vem a demonstrar que a irresignação dos agravantes não passa de mera relutância em se curvar ao comando judicial, é que se reconhece a manifesta improcedência do recurso, o que autoriza a aplicação da multa prevista no parágrafo 4º do artigo 1.021 do CPC/2015" (fl. 126, e-STJ).
+Assim, quanto ao tema, aplica-se, igualmente, o óbice da Súmula nº 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de tratar dos honorários recursais (artigo 85, § 11, do CPC/2015), haja vista não ter havido condenação em honorários sucumbenciais na origem.
+Publique-se.
+Intimem-se.
