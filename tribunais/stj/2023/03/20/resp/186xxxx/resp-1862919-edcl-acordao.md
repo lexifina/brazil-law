@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/03/2023 a 20/03/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por BANCO BRADESCO S.A. (fls. 2.588/2.596 e-STJ) ao acórdão assim ementado:
+"RECURSOS ESPECIAIS. CIVIL. PROCESSUAL CIVIL. PROMESSA DE COMPRA E VENDA. AÇÃO DE OBRIGAÇÃO DE FAZER. AÇÃO DE COBRANÇA. PREÇO. PARTE VARIÁVEL. EXIGIBILIDADE. OBRIGAÇÃO. ESCRITURAÇÃO. LOTES. SÚMULAS 5 E 7/STJ. SUCUMBÊNCIA RECÍPROCA. FALTA DE PREQUESTIONAMENTO. FALHA NA PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. CONFISSÃO. LITISCONSORTE. PREQUESTIONAMENTO. AUSÊNCIA. COMPORTAMENTO CONTRADITÓRIO. IMPOSSIBILIDADE. ERRO MATERIAL. NÃO OCORRÊNCIA. CARTAS DE FIANÇA BANCÁRIA. OBJETO. INCOMPATIBILIDADE. PRAZO. BOA-FÉ. FALTA DE INTERESSE DE AGIR. ILEGITIMIDADE DA PARTE. TEORIA DA ASSERÇÃO. DECISÃO SURPRESA NÃO CARACTERIZADA. DESDOBRAMENTO. JULGAMENTOULTRA PETITA. GARANTIA. VALOR EXATO. QUANTIA REPASSADA. IMPUGNAÇÃO. SÚMULAS 5 E 7/STJ.
+1. Recursos especiais interpostos contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Primeiro recurso especial: cinge-se a controvérsia a verificar se (i) houve desrespeito à bilateralidade do contrato de compra e venda e (ii) deve ser reconhecida a ocorrência de sucumbência recíproca.
+2.1. Afastar a conclusão do acórdão no sentido de que a escrituração dos lotes era ônus das recorrentes demandaria o reexame de fatos e provas, bem como a reinterpretação das cláusulas contratuais, providências que esbarram nas censuras das Súmulas nº 5 e 7/STJ.
+2.2. A matéria relativa à ocorrência de sucumbência recíproca na ação de cobrança não foi objeto de decisão pelo aresto recorrido, ressentindo-se o recurso especial do indispensável prequestionamento. Incide, no ponto, a Súmula nº 211/STJ.
+3. Segundo recurso especial: cinge-se a controvérsia a definir se (i) falha a prestação jurisdicional; (ii) o contraditório foi desrespeitado, tendo sido proferida decisão com fundamento em laudo pericial acerca do qual não teve ciência e oportunidade de se manifestar, e (iii) a condenação está baseada em confissão realizada por litisconsorte.
+3.1. Não há falar em falha na prestação jurisdicional se o Tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível, ainda que em desacordo com a expectativa da parte.
+3.2. A matéria relativa à confissão não pode prejudicar litisconsorte carece de prequestionamento, não tendo sido levada ao conhecimento do Tribunal de origem no momento oportuno.
+3.3. Não se admite o comportamento contraditório da parte.
+3.4. A fiança bancária é um contrato oneroso, no qual a instituição financeira é remunerada pela garantia prestada, devendo responder pelos riscos do negócio.
+4. Terceiro recurso especial: cinge-se a controvérsia à definir se (i) contém o acórdão recorrido erro material; (ii) houve julgamento extra petita na ação de obrigação de fazer; (iii) havia crédito exigível em favor dos recorridos no período coberto pela garantia; (iv) ocorreu cerceamento de defesa na ação de obrigação de fazer e na ação de cobrança; (v) houve julgamento ultra petita na parte do acórdão que julgou a ação de cobrança; (vi) estava presente o interesse de agir dos promissários compradores; (vii) é parte legítima para figurar no polo passivo e (viii) cabe a condenação do recorrente no pagamento dos ônus sucumbenciais.
+4.1. Não se constata a existência de erro material no aresto recorrido.
+4.2. O contrato de fiança bancária não pode ser interpretado de modo a que se constate a total inutilidade da garantia.
+4.3. Não resta caracterizado o cerceamento de defesa quando a parte tem oportunidade de manifestar suas razões.
+4.4. O julgamento antecipado da lide está inserto no âmbito do desdobramento causal, possível e natural da controvérsia, obtido a partir de um juízo de ponderação do magistrado à luz do ordenamento jurídico vigente, o que não caracteriza decisão surpresa.
+4.5. Não resta configurado o julgamento ultra petita se o recorrente foi condenado no valor exato da garantia prestada.
+4.6. Nos termos da jurisprudência do Superior Tribunal de Justiça, as condições da ação, aí incluídos a legitimidade e o interesse de agir, devem ser aferidas com base na teoria da asserção, isto é, à luz das afirmações deduzidas na petição inicial.
+4.7. A ausência de impugnação de fundamento suficiente para manutenção do acórdão recorrido enseja o não conhecimento do recurso no ponto, incidindo o disposto na Súmula nº 283/STF.
+5. Quarto recurso especial. Cinge-se a controvérsia a verificar (i) a correção dos valores utilizados na perícia, e (ii) se é indevida a condenação no pagamento de honorários advocatícios na obrigação de fazer.
+5.1. O acolhimento das alegações dos recorrentes no sentido de que a quantia fixada como repasse mínimo estava incorreta ou de que não deveriam ser descontados o impostos demandaria nova interpretação das cláusulas contratuais, o que esbarra na censura da Súmula nº 5/STJ.
+5.2. A falta de prequestionamento da matéria suscitada no recurso especial impede seu conhecimento, a teor da Súmula nº 282/STF.
+6. Recurso especial de Gold Santorini Empreendimentos Imobiliários SPE Ltda. e outros não conhecido. Recurso especial de Banco Votorantim conhecido parcialmente e, nessa parte, não provido. Recurso especial do Banco Bradesco S. A. conhecido parcialmente e, nessa parte, não provido. Recurso especial de José de Oliveira Campos Júnior e Outros não conhecido" (fls. 2.544/2.545 e-STJ).
+O embargante afirma que o acórdão é omisso, não tendo se manifestado acerca da ausência de pedido inicial, ou mesmo incidental, para prorrogação da data de vigência da carta de fiança.
+Entendem que a análise do recurso nesse ponto não esbarra nas Súmulas nºs 5 e 7/STJ, pois a natureza bilateral do contrato independe da análise de cláusulas contratuais e tampouco das provas produzidas nos autos.
+Sustentam que, a despeito de a Corte de origem ter afirmado que era sua a obrigação de providenciar a transferência do imóvel, tem-se que a ratificação desse entendimento viola os arts. 476 e 481 do Código Civil. Concluem, diante disso, que o acórdão padece de contradição.
+Asseveram, ainda, que é incontroverso que o valor total devido, já atualizado ao final da perícia, seria correspondente a R$ 35.331.668,14 (trinta e cinco milhões trezentos e trinta e um mil seiscentos e sessenta e oito reais e quatorze centavos), de modo que o embargado sucumbiu em parte dos pedidos iniciais, especificamente em R$ 17.481.162,50 (dezessete milhões quatrocentos e oitenta e um mil cento e sessenta e dois reais e cinquenta centavos).
+Defendem, assim, que seria o caso de reconhecer a existência de sucumbência recíproca, matéria que foi tratada no tópico 2.6 do acórdão recorrido, não se podendo falar em falta de prequestionamento.
+Entendem que o acórdão embargado foi omisso quanto ao tema. Ademais, aduzem que o fato de terem sido incluídas as parcelas vincendas após a atualização não afastaria a premissa de que parte dos pedidos da embargados não foi acolhida.
+Requerem o acolhimento dos embargos de declaração para que sejam suprimidos os vícios apontados.
+Impugnação de José de Oliveira Campos Júnior e Outros às fls. 2.608/2.628 (e-STJ).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CIVIL. PROCESSUAL CIVIL. PROMESSA DE COMPRA E VENDA. AÇÃO DE OBRIGAÇÃO DE FAZER. COBRANÇA. PREÇO. PARTE VARIÁVEL. EXIGIBILIDADE. OBRIGAÇÃO. ESCRITURAÇÃO. LOTES. SÚMULAS NºS 5 E 7/STJ. SUCUMBÊNCIA RECÍPROCA. FALTA DE PREQUESTIONAMENTO. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE E ERRO MATERIAL NÃO VERIFICADOS.
+1. Ausentes quaisquer dos vícios ensejadores dos declaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir omissão, afastar obscuridade, eliminar contradição, ou corrigir erro material, mas, sim, reformar o julgado por via inadequada.
+2. A contradição a que alude o artigo 1.022 do Código de Processo Civil de 2015 consiste na existência de proposições inconciliáveis no acórdão e não para com as partes, o que não ocorreu no presente caso.
+3. Embargos de declaração rejeitados.
+VOTO
+Não prospera a inconformidade veiculada nos presentes aclaratórios.
+A decisão atacada não padece de nenhum dos vícios ensejadores dos embargos declaratórios enumerados no artigo 1.022 do Código de Processo Civil de 2015: obscuridade, contradição, omissão ou erro.
+Cumpre esclarecer, de início, que a contradição a que alude o art. 1.022 do CPC/2015 consiste na existência de proposições inconciliáveis no acórdão, com a adoção de premissas que não autorizam a conclusão, o que não ocorre na espécie.
+Conforme restou consignado no aresto embargado, a Corte de origem afirmou que os lotes não foram escriturados por omissão das embargantes, motivo pelo qual, acolher a alegação de que caberia aos vendedores providenciar a escrituração para somente depois levantarem a totalidade dos valores demandaria revisão dessa conclusão, o que esbarra nas Súmulas nºs 5 e 7/STJ.
+Eis o trecho do aresto embargado:
+"(..)
+Conforme se colhe do aresto recorrido, restou consignado que o valor total do contrato é devido e a escritura dos lotes é ônus que cabe às recorrentes, que teriam permanecido inertes:
+"(..)Nesse ponto também não merece prosperar a alegação das recorrentes, posto que é devido o valor total do contrato, uma vez que restaram incontroversos os valores garantidos pelas cartas de fiança apresentadas, seja pela confissão das Apelantes ou pela prova pericial. Com efeito, a suposta falta de escrituração dos lotes remanescentes é ônus que compete às recorrentes, as quais podem adotar tal providência a qualquer momento" (fl. 1.706, e-STJ).
+Do acórdão dos aclaratórios extrai-se o seguinte excerto:
+"(..)Conforme restou esclarecido no decisum, os lotes integram o empreendimento, não tendo sido escriturados em virtude de omissão da embargante, que pode adotar tal providência a qualquer momento, verbis: (..)" (fl. 1.866, e-STJ - grifou-se).
+Nesse contexto, acolher a tese dos recorrentes no sentido de que caberia aos vendedores realizar a escrituração demandaria o reexame de fatos e provas e a intepretação do contrato firmado, providência que encontra óbice nas Súmulas nº 5 e 7/STJ.
+Não resta demonstrada, portanto, a violação da bilateralidade do contrato de compra e venda" (fls. 2.553/2.554 e-STJ).
+No mais, conforme expressamente consignado no acórdão embargado, a matéria relativa à ocorrência de sucumbência recíproca não foi objeto de decisão pelo aresto recorrido, ressentindo-se o recurso especial, no ponto, do indispensável prequestionamento.
+Assim, não existe omissão quanto à matéria, mas, sim, inconformismo das embargantes quanto ao resultado do julgamento.
+Nesse contexto, ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade, eliminar a contradição ou corrigir o erro material, mas, sim, reformar o julgado por via inadequada.
+A propósito:
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados"
+(EDcl no AgInt no REsp 1.940.827/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 13/12/2021, DJe 1º/2/2022).
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
