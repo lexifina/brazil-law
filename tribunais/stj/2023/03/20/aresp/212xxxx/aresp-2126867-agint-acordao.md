@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/03/2023 a 20/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Humberto Martins, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto contra monocrática que decidiu recurso especial interposto pela União, com fundamento no art. 105, III, a, da CF/1988.
+O recurso especial visa reformar acórdão do Tribunal Regional Federal da 4ª Região, nos termos assim ementados (fl. 127):
+ADMINISTRATIVO. SERVIDOR PÚBLICO INATIVO. LICENÇA PRÊMIO NÃO GOZADA E NEM UTILIZADA EM DOBRO PARA CONTAGEM DE TEMPO DE SERVIÇO. CONVERSÃO EM PECÚNIA. BASE DE CÁLCULO. VERBAS DE NATUREZA PERMANENTE. INCLUSÃO.
+O cálculo da licença-prêmio convertida em pecúnia deve se dar com base em todas as verbas de natureza permanente, em quantia correspondente à da última remuneração do servidor quando em atividade, sendo cabível a inclusão do terço constitucional de férias, da gratificação natalina e das férias proporcionais na base de cálculo das parcelas devidas, além do auxílio-alimentação e do abono permanência, se for o caso. Precedentes do STJ e desta Corte Regional.
+Na origem. trata-se de ação ajuizada por Nei Silva contra a União objetivando indenização pelas licenças-prêmios não gozadas.
+Na sentença, julgou-se procedente o pedido. No Tribunal a quo, a sentença foi parcialmente reformada, apenas para fixar os honorários advocatícios em 10% sobre o valor da condenação. Esta Corte conheceu do agravo para não conhecer do recurso especial.
+No recurso especial, a União aponta violação dos arts. 1.022, II, do CPC/2015, 41, 63, 64, 66 e 76, todos da Lei n. 8.112/1990.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial."
+Interposto agravo interno, a parte agravante traz argumentos contrários aos fundamentos da decisão, resumidos nestes termos (fls. 242-244):
+ ..  conforme destaca a v. decisão, a jurisprudência do Tribunal da Cidadania é firme em assentar a inclusão na base de cálculo da conversão em pecúnia de licença prêmio não gozada de parcelas remuneratórias. Ocorre que esse não é o caso do auxílio-alimentação, verba transitória e de caráter indenizatório. (..)
+É de se ressaltar que os conceitos de proventos e de remuneração são consideravelmente entrelaçados e naturalmente afastados das ideias de temporariedade e de indenização. Assim, a verba não se incorpora ao patrimônio jurídico do servidor de forma irreversível, sendo, portanto, transitória, bem como não compõe a base de cálculo dos proventos de aposentadoria, dada sua natureza indenizatória.
+Resta evidente, portanto, que não há possibilidade de incluir verbas não permanentes e/ou indenizatórias na base de cálculo da licença prêmio convertida em pecúnia.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. LICENÇA PRÊMIO. INDENIZAÇÃO. PROCEDÊNCIA DO PEDIDO. ACÓRDÃO ALINHADO COM A JURISPRUDÊNCIA DO STJ. APLICAÇÃO DA SÚMULA N. 83/STJ.
+I - Na origem. trata-se de ação ajuizada contra a União objetivando o autor indenização pelas licenças-prêmios não gozadas.
+II - Na sentença, julgou-se procedente o pedido. No Tribunal a quo, a sentença foi parcialmente reformada, apenas para fixar os honorários advocatícios em 10% sobre o valor da condenação. Esta Corte conheceu do agravo para não conhecer do recurso especial.
+III - A jurisprudência d o Superior Tribunal de Justiça é firme no sentido de que, se o Tribunal de origem decidiu a matéria em conformidade com a jurisprudência desta Corte. Incide, portanto, o disposto no enunciado n. 83 da Súmula do STJ, segundo o qual: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+IV - A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos: "Não merece provimento o apelo. É entendimento assente neste Tribunal que o cálculo da licença-prêmio convertida em pecúnia deve se dar com base em todas as verbas de natureza permanente, em quantia correspondente à da última remuneração do servidor quando em atividade, inclusive abono permanência, décimo terceiro salário proporcional, terço constitucional de férias e saúde suplementar, se for o caso.  .. " Nesse sentido, destacam-se: (AgInt no AREsp 475.822/DF, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 6/12/2018, DJe 19/12/2018, AgRg no REsp. 1.530.494/SC, relator Ministro Sérgio Kukina, DJe 29/3/2016 e AgInt no REsp. 1.591.606/RS, relator Ministro Benedito Gonçalves, DJe 7/12/2016.)
+V - Agravo interno improvido.
+VOTO
+O recurso não merece provimento.
+A decisão deve ser mantida pelos seus próprios fundamentos, pois aplicou a jurisprudência do Superior Tribunal de Justiça firme no sentido de que, se o Tribunal de origem decidiu a matéria em conformidade com a jurisprudência desta Corte. Incide, portanto, o disposto no enunciado n. 83 da Súmula do STJ, segundo o qual: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+Não merece provimento o apelo. É entendimento assente neste Tribunal que o cálculo da licença-prêmio convertida em pecúnia deve se dar com base em todas as verbas de natureza permanente, em quantia correspondente à da última remuneração do servidor quando em atividade, inclusive abono permanência, décimo terceiro salário proporcional, terço constitucional de férias e saúde suplementar, se for o caso.  ..
+Nesse sentido, destacam-se:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EMRECURSO ESPECIAL. SERVIDOR PÚBLICO. INCLUSÃO DO ABONO DEPERMANÊNCIA E DO AUXÍLIO-ALIMENTAÇÃO NA BASE DE CÁLCULO DAREMUNERAÇÃO PARA FINS DE CONCESSÃO DE LICENÇA-PRÊMIO. AGRAVOINTERNO DO DISTRITO FEDERAL DESPROVIDO.
+1. O acórdão recorrido encontra-se em consonância com o entendimento adotado por esta Corte de que as rubricas que compõem a remuneração do Servidor deverão ser incluídas na base de cálculo da conversão da licença-prêmio em pecúnia, dentre elas o auxílio-alimentação, o abono de permanência e a saúde suplementar. Nesse sentido: REsp. 1.489.904/RS, Rel. Min. HERMAN BENJAMIN, SEGUNDATURMA, julgado em 25.11.2014, DJe 4.12.2014.
+2. Agravo Interno do DISTRITO FEDERAL desprovido.
+(AgInt no AREsp 475.822/DF, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO,PRIMEIRA TURMA, julgado em 06/12/2018, DJe 19/12/2018.)
+TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. HORAS EXTRAS,ADICIONAIS DE PERICULOSIDADE E NOTURNO. INCIDÊNCIA. MATÉRIAJULGADA SOB O RITO DOS RECURSOS REPETITIVOS. RESP 1.230.957/RS, RESP1.358.281/SP E RESP 1.066.682/SP. FÉRIAS GOZADAS,ADICIONAL DE INSALUBRIDADE E AUXÍLIO-ALIMENTAÇÃO. INCIDÊNCIA. PRECEDENTES DE AMBAS AS TURMAS DA PRIMEIRA SEÇÃO.
+(..)
+2. Nos termos da jurisprudência desta Corte, o pagamento de férias gozadas, do adicional de insalubridade e de auxílio-alimentação pago em espécie possuem natureza remuneratória, razão pela qual incide a contribuição previdenciária. Precedentes: AgRg nos EREsp 1441572/RS, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, DJe 17/11/2014; AgRg noREsp 14.66.424/RS, de minha relatoria, PRIMEIRA TURMA, DJe 05/11/2014;AgRg no REsp 1.485.692/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDATURMA, DJe 21/11/2014; REsp.1.196.748/RJ, Rel. Min. MAURO CAMPBELL MARQUES, Segunda Turma, DJe28.09.2010). Nessa linha de entendimento, confiram-se: AgRg no REsp1.426.319/SC, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 06/05/2014, DJe 13/05/2014; AgRg no REsp 1420135/SC, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 09/09/2014, DJe 16/09/2014. AgRg no REsp 1518089/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDATURMA, julgado em 28/04/2015, DJe 06/05/2015; AgRg no REsp 1477299/SC,Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em24/03/2015, DJe 07/04/2015.3. Agravo regimental da PADOIN - ENGENHARIA E PROJETOS ELETRICOS LTDA- EPP a que se nega provimento.
+(AgRg no REsp. 1.530.494/SC, Rel. Min. Sérgio Kukina, DJe 29/3/2016.)
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRIBUIÇÃOPREVIDENCIÁRIA. INCIDÊNCIA SOBRE FÉRIAS GOZADAS, ADICIONAISNOTURNO, INSALUBRIDADE E PERICULOSIDADE E AUXILIOALIMENTAÇÃO PAGO EM PECÚNIA. NÃO INCIDÊNCIASOBRE AUXILIO QUEBRA DE CAIXA. PRECEDENTES.
+(..)
+3. A jurisprudência desta Corte Superior firmou o entendimento no sentido de que o auxílio-alimentação pago in natura não integra a base de cálculo da contribuição previdenciária, esteja ou não a empresa inscrita no PAT; por outro lado, quando pago habitual e em pecúnia, incide a referida contribuição. Precedentes: AgRg no REsp 1.420.135/SC, Rel. Min. Sergio Kukina, Primeira Turma, DJe 16/9/2014; AgRg no REsp 1.426.319/SC, Rel. Min. Humberto Martins, Segunda Turma, DJe 13/5/201
+(..)
+5. Agravo interno parcialmente provido.
+(AgInt no REsp. 1.591.606/RS, Rel. Min. Benedito Gonçalves, DJe 7/12/2016.)
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
