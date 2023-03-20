@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/03/2023 a 20/03/2023, por unanimidade, não conhecer do recurso, com aplicação de multa, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por ITB2 TECNOLOGIA E SERVIÇOS LTDA. em face de decisão que conheceu do agravo interposto pela ora recorrente para não conhecer do recurso especial.
+Nas razões do agravo interno, a parte reitera, em síntese, os motivos pelos quais entende que deve ser provido o recurso especial, ao argumento de que, "se a ação principal foi julgada procedente, e tendo em vista o afastamento da condenação da Embargada ao pagamento de danos morais, outra saída não resta senão o arbitramento dos horários sucumbenciais entre 10% a 20% sobre o valor da causa, repita-se, com fulcro no art. 85, § 2º, do CPC" (e-STJ fl. 471).
+Afirma, ainda, que "não há motivo para a aplicação da Súmula 283 do STF, diante da demonstrada impugnação específica do quanto decidido pelo E. TJSP e por este C. STJ, sendo, pois, inconteste, a necessidade de conhecimento e ao final provimento do recurso especial interposto, a fim de afastar essa cristalina falta processual" (e-STJ fl. 473).
+A parte agravada apresentou impugnação (e-STJ fls. 478-487).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL DE 2015.
+AGRAVO INTERNO NÃO CONHECIDO COM APLICAÇÃO DE MULTA.
+VOTO
+Eminentes colegas, o agravo interno não pode ser conhecido, pois a agravante não impugnou especificamente os fundamentos da decisão agravada, que ora transcrevo:
+"O recurso especial não pode ser conhecido, pois incide, por analogia, o óbice da Súmula 283/STF.
+O Tribunal de origem assim se manifestou sobre a controvérsia:
+"Na ação principal, a autora, ora embargante, pretendeu a declaração de inexigibilidade de título e a nulidade do protesto, bem como a condenação da ré ao pagamento de indenização por dano moral.
+Pela respeitável sentença foram julgados procedentes os pedidos de cunho declaratório e parcialmente procedente o pedido de indenização por dano moral, arbitrados os honorários no equivalente a 10% do valor da condenação.
+Assim, verifica-se que houve o arbitramento de honorários levando em conta apenas o pedido indenizatório, desconsiderando a procedência dos pedidos declaratórios para fins de distribuição da sucumbência e arbitramento de honorários.
+Contra a sentença a autora não interpôs recurso de apelação, o que somente foi feito pela ré, para que fosse afastada a condenação ao pagamento de indenização por dano moral, arbitrada em R$15.000,00. E, justamente nessa parte, foi provido o recurso da ré, julgando-se improcedente o pedido de indenização por dano moral deduzido na ação principal.
+Assim, o que se evidencia é que, com o julgamento da apelação, reduziu-se a sucumbência da ré, de modo que a pretensão da ora embargante de ampliar significativamente o valor dos honorários pela alteração de sua base de cálculo é absolutamente descabida.
+Arbitrar os honorários da ação principal em favor da autora e em percentual sobre o valor da causa (R$272.562,63) representaria evidente reformatio in pejus, na medida em que, ao afastar a condenação da ré ao pagamento de indenização, implicaria sua condenação em valor até mesmo superior àquela a título de honorários.
+Se com o julgamento da apelação a autora passou a ser sucumbente em maior parte, não há como conceber a ampliação dos honorários devidos aos seus patronos pelo provimento do recurso interposto exclusivamente pela parte contrária.
+Vencedora a autora na ação principal apenas quanto à declaração de inexigibilidade do título e quanto à nulidade do protesto, o proveito econômico obtido não pode ser dissociado daquele da reconvenção, na qual a ré reconvinte pretendeu a cobrança da multa contratual que deu origem à emissão do título.
+A reconvenção foi julgada procedente em parte, reconhecendo como devida parte da obrigação que ensejou a emissão do título, declarado inexigível na ação principal.
+A distribuição da sucumbência na reconvenção, afastada a condenação ao pagamento de indenização por dano moral, mostra-se adequada para representar também a sucumbência da ação principal, uma vez que expressa o verdadeiro proveito econômico obtido pela autora reconvinda, atendendo aos parâmetros estipulados pelo Código de Processo Civil em seu artigo 85.
+Não há como concluir que, do provimento do recurso de apelação, pudesse decorrer ampliação substancial dos honorários devidos pela própria apelante." (e-STJ fls. 350-352).
+Contudo, nas razões do recurso especial, acerca da proibição de reformatio in pejus, a ora agravante limitou-se a afirmar que "não pode prevalecer o entendimento do E. Tribunal de Justiça de São Paulo de que a fixação dos honorários de sucumbência de acordo com o dispositivo acima citado implicaria reformatio in pejus, pois com o afastamento da única condenação em obrigação de pagar imposta à recorrida pelo D. Juízo "a quo", a única possibilidade de arbitramento dos honorários de sucumbência seria mesmo a fixação da verba sucumbencial entre o mínimo de 10% (dez por cento) e o máximo de 20% (vinte por cento) sobre o valor da causa principal devidamente atualizado, nos exatos termos do art. 85, § 2º do Código de Processo Civil" (e-STJ fl. 363).
+A parte deixou de evidenciar, portanto, os motivos pelos quais não se configuraria a reformatio in pejus em decorrência da mudança da base de cálculo dos honorários advocatícios de sucumbência, na medida em que, mesmo com o afastamento da condenação ao pagamento de compensação por danos morais, permanece a distribuição dos ônus sucumbenciais de forma recíproca, sendo cada parte responsável pela fração ideal de 50% (cinquenta por cento).
+Assim, como a pretendida alteração de parâmetro resultaria em valor superior devido aos patronos de ambas as partes, a recorrente acabaria sendo prejudicada, mesmo tendo sido a única parte a interpor recurso de apelação. Contudo, a agravante não infirmou esse fundamento exposto pela Corte estadual, suficiente para a manutenção do acórdão recorrido.
+Portanto, repita-se, aplica-se, por analogia, o enunciado nº 283 da Súmula do Supremo Tribunal Federal: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles"." (e-STJ fls. 461-464).
+Nas razões do agravo interno, a parte reiterou as alegações relativas ao mérito da questão controvertida, apenas mencionando, de forma genérica, a inaplicabilidade do óbice da Súmula 283 do Supremo Tribunal Federal, sem, contudo, ter exposto de que forma teria sido impugnado o fundamento do acórdão recorrido referente à proibição de reformatio in pejus, no que tange à pretensão de mudança da base de cálculo dos honorários advocatícios de sucumbência devidos não só pela agravada, mas também pela própria recorrente.
+Nesse contexto, tendo em vista a violação do princípio da dialeticidade recursal, o agravo interno não pode ser conhecido, incidindo o óbice da Súmula 182 desta Corte Superior, assim lavrada:
+Súmula 182/STJ - É inviável o agravo do Art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. ART. 1.021, § 1º, DO CPC/2015. SÚMULA Nº 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+1. Não pode ser conhecido o recurso que não infirma especificamente todos os fundamentos da decisão agravada, haja vista o disposto no art. 1.021, § 1º, do Código de Processo Civil de 2015. O conteúdo normativo do referido dispositivo legal já estava cristalizado no entendimento jurisprudencial do Superior Tribunal de Justiça na redação da Súmula nº 182/STJ.
+2. Agravo interno não conhecido.
+(AgInt nos EDcl nos EAREsp 1121574/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 01/10/2019, DJe 10/10/2019)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO QUE DEIXA DE IMPUGNAR ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DOS ARTS. 932, III, E 1.021, § 1º, DO CPC/2015 E DA SÚMULA 182 DO STJ. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. RECURSO NÃO PROVIDO.
+1. Inexistindo impugnação específica, como seria de rigor, de todos os fundamentos da decisão agravada, essa circunstância obsta, por si só, a pretensão recursal, pois, à falta de contrariedade, permanecem incólumes os motivos expendidos pela decisão recorrida. Incide, na espécie, o disposto nos arts. 932, III, e 1.021, § 1º, do Código de Processo Civil de 2015; e a Súmula n. 182 do Superior Tribunal de Justiça.
+ ..
+3. Agravo interno não conhecido.
+(AgInt no REsp 1789452/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 24/06/2019, DJe 27/06/2019)
+O referido entendimento foi inclusive positivado pelo legislador, com o adve nto do Código de Processo Civil de 2015, por meio do artigo 1.021, § 1º, que ora transcrevo:
+§ 1º Na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada.
+Ante o exposto, não conheço do agravo interno e, considerando-se o disposto no § 4º do art. 1.021 do CPC/2015, fixo multa em 1% (um por cento) sobre o valor atualizado da causa, em caso de acolhimento unânime do presente voto, em virtude da manifesta inadmissibilidade do recurso.
+É o voto.
