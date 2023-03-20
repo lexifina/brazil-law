@@ -1,0 +1,70 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/03/2023 a 20/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de agravo interno interposto por PITER MARQUES BRITES em face de decisão monocrática da lavra deste signatário que negou provimento ao agravo em recurso especial.
+O aludido apelo extremo, fundado na alínea "a" do permissivo constitucional, desafiou acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim ementado (e-STJ, fl. 1168):
+APELAÇÃO CÍVEL. AÇÃO DE USUCAPIÃO EXTRAORDINÁRIA. SENTENÇA DE IMPROCEDÊNCIA. OFENSA AO ART. 1.022, DO CPC, NÃO CONFIGURADA. INEXISTÊNCIA DE CONTRADIÇÃO NO DECISUM. SENTENÇA QUE NÃO SE CONFIGURA EXTRA PETITA. APLICAÇÃO DO BROCARDO LATINO "DA HA MIHI FACTUM DABO TIBI JUS". REQUISITOS LEGAIS PARA RECONHECIMENTO DA USUCAPIÃO EXTRAORDINÁRIA (ART. 1.238, DO CPC) NÃO PREENCHIDOS. POSSE FUNDADA ATOS DE MERA TOLERÂNCIA POR PARTE DA GENITORA DO REQUERIDO E, DEPOIS DE SEU PASSAMENTO, POR ESTE. PRECARIEDADE DA POSSE E AUSÊNCIA DE ANIMUS DOMINI. SENTENÇA MANTIDA. - Para o reconhecimento da usucapião na modalidade extraordinária, é imperiosa a demonstração de que a parte requerente exerce posse com animus domini, de forma ininterrupta e sem oposição, pelo período de 15 (quinze) anos. - A posse exercida, no caso, configura-se em atos de mera tolerância dos proprietários, portanto, tem natureza precária, sem preencher o requisito do animus domini, o que afasta o reconhecimento da prescrição aquisitiva da propriedade. Recurso não provido.
+Não foram opostos embargos de declaração.
+Nas razões do especial (e-STJ, fls. 1179-1199), a parte recorrente sustentou violação aos seguintes dispositivos:
+a) arts. 10 e 141 do Código de Processo Civil, apontando a ocorrência de julgamento extra petita, pois a ação de usucapião extraordinária foi julgada totalmente improcedente com base em fundamento não alegado pelas partes, sobre o qual não foi oportunizado ao Recorrente se manifestar, qual seja, a existência de comodato verbal;
+b) arts. 1.208 e 1.238, caput e parágrafo único, do Código Civil, alegando que restaram satisfeitos os requisitos necessários à aquisição das propriedades pela usucapião.
+Sem contrarrazões.
+Em sede de juízo provisório de admissibilidade, o Tribunal local negou seguimento ao recurso especial (fls. 1223-1226, e-STJ), o que ensejou o manejo do agravo (fls. 1229-1245, e-STJ), buscando destrancar o processamento daquela insurgência.
+Em decisão monocrática (e-STJ, fls. 1272-1276), este signatário negou provimento ao recurso especial em razão da incidência das Súmulas 83/STJ e 7/STJ.
+No presente agravo interno (e-STJ, fls. 1279-1302), o ora agravante combate o óbice supracitado e reitera os mesmos argumentos lançados nas razões do apelo extremo.
+Requer, por fim, a reconsideração da decisão monocrática ou sua reforma pelo Colegiado.
+Impugnação às fls. 1305-1314 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE USUCAPIÃO EXTRAORDINÁRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA RECURSAL DO AUTOR.
+1. A jurisprudência do STJ é firme no sentido de que o vício de julgamento extra petita não se configura quando o provimento jurisdicional representar decorrência lógica do pedido, compreendido como aquilo que se pretende com a instauração da demanda e se extrai a partir de uma interpretação lógico-sistemática do afirmado na petição inicial, recolhendo todos os requerimentos feitos em seu corpo, e não só aqueles constantes em capítulo especial ou sob a rubrica "dos pedidos". Incidência da Súmula 83/STJ.
+2. Na hipótese dos autos, o Tribunal de origem, com base nos elementos fático-probatórios constantes dos autos, concluiu não estarem presentes os requisitos necessários à configuração da usucapião em favor dos recorrentes. Alterar tais conclusões demandaria o reexame de fatos e provas, inviável em recurso especial, a teor do disposto na Súmula 7 do STJ.
+3. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): O agravo interno não merece acolhida, porquanto os argumentos tecidos pela parte agravante são incapazes de infirmar a decisão agravada, motivo pelo qual merece ser mantida na íntegra, por seus próprios fundamentos.
+1. Inicialmente, em relação à alegada ofensa aos arts. 10 e 141 do Código de Processo Civil de 2015, a decisão agravada merece ser mantida.
+No caso, os agravantes defenderam a ocorrência de julgamento extra petita, uma vez que a ação de usucapião extraordinária foi julgada improcedente com base em fundamento não alegado pelas partes, sobre o qual não foi oportunizado ao Recorrente se manifestar, qual seja, a existência de comodato verbal.
+Acerca do tema, a Corte estadual se pronunciou da seguinte forma (e-STJ, fls. 1170):
+No que tange à alegação de que a sentença é extra petita, melhor sorte não socorre ao apelante, na medida em que a conclusão da julgadora singular de que incide no caso o disposto no art. 1.208, do CC, ainda que a defesa não tenha aventado a hipótese de atos de mera tolerância, nada mais é do que a aplicação do brocardo latino "da há mihi factum dabo tibi jus", livremente traduzido como "dá-me os fatos que te darei o direito" que deve ser observado em conjunto a outro brocardo, segundo o qual "o juiz conhece o direito" - "iura novit curia". É dizer que, o juiz deve enfrentar todos os argumentos do processo, não se limitando às teses jurídicas declinadas pelas partes, portanto, não está adstrito aos artigos de lei invocados pelos litigantes, podendo conceder ou não o pedido com base no direito que entende aplicável aos fatos.
+Ainda que assim não fosse, cabe destacar que o requerido deduziu sua defesa com base em contratos locatícios firmados com prazo de um ano e que, após esse período, a locação passou a ser por prazo indeterminado, porém, os contratos de mov. 72.5, não preveem a prorrogação da relação locatícia por prazo indeterminado, no máximo por igual período, de onde é possível concluir que vencidos os contratos, a permanência do autor na posse do imóvel decorreu de atos de mera tolerância dos proprietários do imóvel (inicialmente os genitores do requerido e, após seu passamento, do próprio requerido)
+No caso, o Tribunal de origem afastou a tese de suposta ocorrência de julgamento extra petita ao concluir que o juiz deve enfrentar todos os argumentos do processo, não se limitando às teses jurídicas declinadas pelas partes, pois não está adstrito aos artigos de lei invocados pelos litigantes.
+Com efeito, nos termos da jurisprudência desta Corte, entende-se por decisão extra petita aquela em que o julgador, ao apreciar o pedido, decide de forma diferente ou além do postulado pelo autor na peça inicial. No entanto, o pedido da parte não corresponde apenas ao que foi requerido ao final da petição inicial, como pretende fazer crer a agravante, mas aquele que se extrai da interpretação lógico-sistemática da inicial como um todo.
+Nesse sentido, constata-se que as instâncias ordinárias apreciaram os pedidos com fulcro na interpretação lógica e sistemática de todos os argumentos expostos pelas partes e concluiu pela inexistência de posse com ânimo de dono, o que não caracteriza julgamento extra petita.
+Assim, o acórdão recorrido amolda-se ao entendimento desta Corte acerca do tema, consoante se depreende dos seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - EMBARGOS À EXECUÇÃO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA EMBARGANTE.
+(..)
+4. Inexiste ofensa ao princípio da congruência nas hipóteses em que o julgador não afronta os limites objetivos da pretensão inicial, tampouco concede providência jurisdicional diversa da requerida. Ademais, os pedidos formulados devem ser examinados a partir de uma interpretação lógico-sistemática, conforme os brocardos da mihi factum dabo tibi ius (dá-me os fatos que te darei o direito) e iura novit curia (o juiz conhece o direito). Precedentes. 4.1. No caso em tela, o acórdão recorrido julgou parcialmente procedente o pedido formulado nos embargos à execução, reduzindo o quantum debeatur, de modo que se manteve nos limites da lide.
+(..)
+6. Agravo interno desprovido.
+(AgInt no AREsp 215.269/ES, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 10/04/2018, DJe 16/04/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.OBRIGAÇÃO DE FAZER. DANOS MORAIS. LEGITIMIDADE PASSIVA. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. CÓDIGO DE DEFESA DO CONSUMIDOR. ACÓRDÃO EM SINTONIA COM PRECEDENTES DESTA CORTE SUPERIOR. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+2. À luz dos artigos 128 e 460 do CPC/73, atuais, 141 e 492 do NCPC/15, o vício de julgamento extra petita não se vislumbra na hipótese do juízo a quo, adstrito às circunstâncias fáticas (causa de pedir remota) e ao pedido constante nos autos, proceder à subsunção normativa com amparo em fundamentos jurídicos diversos dos esposados pelo autor e refutados pelo réu. O julgador não viola os limites da causa quando reconhece os pedidos implícitos formulados na inicial, não estando restrito apenas ao que está expresso no capítulo referente aos pedidos, sendo-lhe permitido extrair da interpretação lógico - sistemática da peça inicial aquilo que se pretende obter com a demanda, aplicando o princípio da equidade.
+(..)
+6. Agravo interno não provido.
+(AgInt no AREsp 1266376/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 30/05/2019, DJe 04/06/2019)
+Logo, uma vez que o entendimento adotado pelo Tribunal de origem está em consonância com a jurisprudência desta Corte Superior, impõe-se o óbice da Súmula n. 83 do STJ.
+2. Outrossim, não merece reparos a decisão agravada que aplicou o óbice da Súmula 7/STJ à pretensão recursal relativa aos arts. 1.208 e 1.238 do Código Civil.
+Consoante asseverado na decisão singular, a Corte de origem, soberana na análise do acervo fático-probatório, constatou que não estão preenchidos os requisitos necessários para se reconhecer a prescrição aquisitiva na hipótese em comento.
+Assim constou do acórdão (e-STJ, fl. 1171-1172):
+Outrossim, é irrelevante a dúvida suscitada pelo recorrente quanto à sucessão da propriedade do imóvel, bastando à confirmação do decisum a ausência de prova de que ocupavam o imóvel com ânimo de dono, haja vista que era de seu conhecimento que o imóvel pertencia a terceira pessoa, Sra. Bertília, e depois passou a pertencer a seu filho, o requerido, bem como que ambos admitiram a permanência do autor no imóvel, por mera tolerância.
+(..)
+Em suma, por qualquer ângulo em que abordada a questão, não se pode vislumbrar a presença dos requisitos legais para a aquisição da propriedade por meio da prescrição aquisitiva, na medida em que o art. 1.238, do Código Civil, dispõe: Art. 1238. Aquele que, por quinze anos, sem interrupção, nem oposição, possuir como seu um imóvel, adquire-lhe a propriedade, independentemente de título e boa-fé, podendo requerer ao juiz que o declare por sentença, a qual servirá de título para o registro no Cartório de Registro de Imóveis. (sem grifos no original). Ademais, não prospera a arguição de que o comodato verbal seria contrato personalíssimo e se extinguiria com o falecimento da mãe do recorrido, pois que também este consentiu na posse precária do apelante.
+Verifica-se, portanto, que o Colegiado de origem formou suas conclusões pela ausência de preenchimento dos requisitos necessários à configuração da usucapião com base no substrato fático-probatório dos autos. Modificar esse entendimento exigiria, necessariamente, a reanálise das circunstâncias fático-probatórias, o que é vedado em âmbito de recurso especial, ante o óbice da Súmula 7/STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE USUCAPIÃO EXTRAORDINÁRIA. AUSÊNCIA DOS REQUISITOS PARA CONCESSÃO DE EFEITO SUSPENSIVO PLEITEADO. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015 NÃO CONFIGURADA. PREQUESTIONAMENTO DOS ARTIGOS DE LEI TIDOS POR VULNERADOS NÃO EFETUADO. SÚMULA 211. PREQUESTIONAMENTO FICTO. CONDIÇÕES NÃO SATISFEITAS. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. COTEJO ANALÍTICO NÃO EFETUADO. NÃO PREENCHIMENTO DAS EXIGÊNCIAS PARA RECONHECIMENTO DA USUCAPIÃO EXTRAORDINÁRIA. REVISÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DE FATOS E PROVAS DOS AUTOS. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+(..)
+6. A alteração do entendimento adotado pela Corte de origem - acerca da ausência dos requisitos para configuração da usucapião pretendida pelo recorrente - demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada no âmbito do recurso especial, conforme o óbice previsto na Súmula 7/STJ. 7. Razões recursais insuficientes para a revisão do julgado.
+8. Agravo interno desprovido.
+(AgInt no AREsp 1308251/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 12/08/2019, DJe 20/08/2019)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REIVINDICATÓRIA. INTERRUPÇÃO DO PRAZO PRESCRICIONAL. USUCAPIÃO. MATÉRIA QUE DEMANDA REEXAME DE PROVAS. SUMULA 7 DO STJ. ACÓRDÃO EM SINTONIA COM O ENTENDIMENTO FIRMADO NO STJ. SÚMULA 83 DESTA CORTE. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+3. As conclusões da Corte Estadual sobre a não caracterização da usucapião, não podem ser revistas por esta Corte Superior, pois demandaria, necessariamente, reexame do acervo fático-probatório dos autos, o que é vedado em sede de recurso especial, em razão do óbice da Súmula 7 do STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp 1542609/RS, Rel. Min istro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 09/03/2021, DJe 06/04/2021)
+De rigor, portanto, a manutenção da decisão agravada.
+3. Do exposto, nega-se provimento ao agravo interno.
+É como voto.
