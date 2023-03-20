@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de RENATO PAULO DA SILVA e MARCUS CARDOSO DA SILVA GIL, contra ato do Tribunal de Justiça do Estado de São Paulo, no julgamento da Apelação Criminal n. 1500079-52.2021.8.26.0588.
+O Tribunal de Justiça confirmou a condenação dos pacientes como incursos nas sanções dos arts. 157, § 2º, II e V, e § 2º-A, I, e 288, parágrafo único, na forma do art. 69, todos do Código Penal. Todavia, na ocasião, o Tribunal de origem concluiu por reduzir, para ambos, as penas fixadas pelo Juízo de primeiro grau para 10 (dez) anos e 7 (sete) meses de reclusão, no regime inicial fechado, mais multa.
+Em suas razões, o impetrante informa ter apresentado oposição ao julgamento virtual da apelação criminal, apontando interesse em realizar sustentação oral. No entanto, esse requerimento foi ignorado pelo Tribunal, que manteve o julgamento em sessão virtual pela Segunda Câmara de Direito Criminal.
+Diante disso, requer, liminarmente e no mérito, a anulação do acórdão, a fim de que novo julgamento seja realizado pelo Tribunal de origem, de forma presencial ou por videoconferência, com a participação da defesa e viabilização de sua sustentação oral. Ademais, pleiteia que sejam relaxadas as prisões preventivas dos pacientes, com a justificativa de ter havido excesso de prazo para o julgamento da apelação.
+O pedido liminar foi indeferido (e-STJ, fls. 138-139).
+O Tribunal de origem prestou informações (e-STJ, fls. 165-214).
+O Ministério Público Federal opinou pela concessão da ordem (e-STJ, fls. 219-221).
+É o relatório. Decido.
+Incialmente, cumpre destacar que o constrangimento ilegal aduzido nesta impetração provém de ato emanado do Tribunal de Justiça do Estado de São Paulo, o que autoriza a impetração de habeas corpus originário perante o Superior Tribunal de Justiça, nos termos do art. 105, inciso I, alínea "c", da Constituição Federal.
+Como é de conhecimento, o direito de sustentar oralmente constitui prerrogativa de essencial importância, cuja frustração afeta o princípio constitucional da amplitude de defesa (HC 364.512/RJ, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 15/12/2016, DJe de 6/2/2017).
+Nessa mesma ordem de ideias, o saudoso Ministro Celso de Mello declarou que a sustentação oral constitui ato essencial à defesa. A injusta frustração desse direito afeta em sua própria substância, o princípio constitucional da amplitude defesa. O cerceamento do exercício dessa prerrogativa - que constitui uma das projeções concretizadoras do direito de defesa -, quando configurado, enseja a própria invalidação do julgamento realizado pelo Tribunal, em função da carga irrecusável de prejuízo que lhe é ínsita (HC n. 96262/RJ. Rel. Min. Celso de Melo, Julgado em 24/3/2009).
+Conforme se extrai das informações prestadas pelo Tribunal de origem, as partes foram intimadas eletronicamente em 15 de fevereiro de 2022. Em 17 de fevereiro, a defesa apresentou oposição ao julgamento virtual, para sustentar oralmente (e-STJ, fls. 165-166).
+Assim, reconhecida a nulidade apontada, pois a solicitação foi encaminhada dentro do prazo, faz-se necessário o rejulgamento do recurso apelatório.
+Ante o exposto, concedo a ordem para anular o julgamento do Apelação Criminal n. 1500079-52.2021.8.26.0588 para que outro seja proferido, dessa vez, com a sustentação oral da defesa.
+Intimem-se.
