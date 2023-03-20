@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo interposto por ANDERSON MAURÍCIO COELHO contra decisão que negou seguimento ao recurso especial aviado.
+Depreende-se dos autos que o agravante foi condenado, como incurso no art. 261, I, do Código Penal Militar, à pena de 1 ano e 6 meses de reclusão, no regime aberto.
+O Tribunal de origem deu parcial provimento ao recurso de apelação da defesa para reduzir a pena aplicada para 1 ano de reclusão. O acórdão está assim ementado (e-STJ fl. 1.295):
+APELAÇÃO CRIMINAL - PRELIMINARES ARGUIDAS PELOS APELANTES - DESENTRANHAMENTO DE INVESTIGAÇÕES CLANDESTINAS E DE PEÇAS QUE CONSTAM DE INQUÉRITO POLICIAL CIVIL - NÃO OCORRÊNCIA DE VIOLAÇÃO - REJEIÇÃO DA DENÚNCIA - PEÇA COMPLETA E SATISFATÓRIA - NULIDADE DO ATO QUE RECEBEU A DENÚNCIA - DECISÃO SATISFATÓRIA - COMPETÊNCIA DA JUSTIÇA COMUM EM FACE DE CRIME TAMBÉM PREVISTO NO CÓDIGO PENAL BRASILEIRO - CRIME MILITAR PRATICADO POR MILITAR - COMPETÊNCIA DA JUSTIÇA MILITAR ESTADUAL - PRELIMINARES NÃO ACOLHIDAS - MÉRITO - DELITO DE DANO QUALIFICADO - AUTORIA E MATERIALIDADE COMPROVADAS - CONDENAÇÕES MANTIDAS - MAJORAÇÃO NA FIXAÇÃO DA PENA -BASE EM SENTENÇA - ANÁLISE DAS CIRCUNSTÂNCIAS JUDICIAIS - REDUÇÃO DA PENA -BASE - PROVIMENTO PARCIAL.
+Os embargos de declaração que se seguiram foram rejeitados.
+Foi então interposto recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, no qual se alegou a violação aos arts. 297 e 328 do Código de Processo Penal Militar.
+Aduziu a defesa que "no acórdão o douto Juiz Militar, Relator, Coronel Osmar Duarte Marcelino, referendou a utilização das declarações prestadas pela vítima, em sede de inquisitivo, para arrimar a condenação, corroborando-a com as produzidas por outras testemunhas, em juízo" (e-STJ fl. 1.355). Afirmou não haver provas suficientes para a condenação.
+Além disso, destacou que, em se tratando de crime que deixa vestígio, a prova pericial deveria ter sido produzida.
+O MPF manifestou-se pelo não conhecimento do recurso especial a que se refere o presente agravo (e-STJ fls. 1.457/1.462).
+É, em síntese, o relatório.
+A Corte de origem, ao apreciar o recurso de apelação, concluiu pela existência de provas suficientes de materialidade e autoria, tendo, para tanto, cotejado as provas produzidas em juízo com os elementos colhidos no inquérito. Rever esse entendimento, como pretende a defesa, esbarraria no óbice imposto pela Súmula n. 7 desta Corte, o que não se admite.
+No mais, como destacou o Parquet, "no tocante à ausência de exame de corpo de delito e seu suprimento por prova testemunhal, o parágrafo único do artigo 378 do CPPM é expresso ao afirmar que, "Não sendo possível o exame de corpo de delito direto, por haverem desaparecido os vestígios da infração, supri-lo-á a prova testemunhal". Dessa forma, também nessa hipótese, a análise sobre a eventual perda de eventuais vestígios e a possibilidade ou não de suprimento do exame de corpo de delito por prova testemunhal também implicaria no reexame dos fatos e provas constantes nos autos (Súmula 7/STJ)" - e-STJ fl. 1.462.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
