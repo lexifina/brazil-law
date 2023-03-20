@@ -1,0 +1,27 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+
+    O acórdão recorrido ficou assim ementado:
+
+    APELAÇÃO CRIMINAL - PORTE ILEGAL DE ARMA DE FOGO/ACESSÓRIO OU MUNIÇÃO DE USO PERMITIDO - CONDUTA TIPIFICADA NOS ARTIGOS 14 DA LEI Nº. 10.826/03 - ABSOLVIÇÃO POR INSUFICIÊNCIA DE PROVAS - INVIABILIDADE - ABSOLVIÇÃO POR ESTADO DE NECESSIDADE, LEGÍTIMA DEFESA - EXCLUDENTES NÃO CONFIGURADAS - ISENÇÃO DE CUSTAS - IMPOSSIBILIDADE - SUSPENSÃO DA EXIGIBILIDADE - JUÍZO DA EXECUÇÃO. Comprovadas a materialidade e a autoria delitivas, e inexistindo causas de exclusão da ilicitude ou da culpabilidade, deve ser mantida a condenação do apelante pela prática do delito de porte ilegal de arma de fogo/acessório ou munição de uso permitido. Impossível a absolvição do crime previsto no art. 14 da Lei nº. 10.826/2003, por ausência de lesividade, por estarem os carregadores desacompanhados de arma ou munições, pois o crime em questão é de perigo abstrato, sendo prescindivel a prova da existência de risco concreto para o bem que se quer proteger juridicamente, a segurança pública e a paz social. -Incabível a absolvição quando o contexto probatório comprova que o réu portava, em via Pública,munições e arma de fogo de uso permitido, esta com numeração suprimida, não sendo admissível a tese de legítima defesa antecipada, figura inexistente no ordenamento jurídico pátrio, ainda mais quando sequer há demonstração de que o agente sofria algum tipo de ameaça. A excludente de ilicitude do estado de necessidade pressupõe o perigo atual, que não provocou por sua vontade, e que não poderia de outro modo evitar (art. 25, do CP). A virtual situação de perigo, sem a demonstração de uma situação concreta e emergencial, não autoriza o indivíduo a se armar, sob pena de tornar sem efeito o Estatuto do Desarmamento. Em observância à declaração de inconstitucionalidade formal do art. 10, inciso Il, da Lei Estadual nº 14.939/2003 pelo Órgão Especial deste Tribunal, não é possível a isenção das custas processuais. Eventual suspensão da exigibilidade do pagamento das custas processuais deve ser examinada pelo Juízo da Execução Penal.
+
+    Decido.
+
+    Analisados os autos, verifica-se que a parte recorrente não indicou, nas razões do recurso extraordinário, qual dispositivo constitucional teria sido violado pelo acórdão recorrido, limitando-se a sustentar que houve ofensa a dispositivo constitucional, o que atrai a incidência da Súmula nº 284/STF, que assim dispõe: “É inadmissível o recurso extraordinário quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia". Nesse sentido, cito os seguintes precedentes:
+
+    “Agravo regimental no recurso extraordinário com agravo. Não indicação dos dispositivos constitucionais violados. Súmula nº 284/STF. Prequestionamento. Ausência. Súmulas nºs 282 e 356/STF. Execução fiscal. Alegada violação do art. 5º, LV, da CF/88. Desconsideração da personalidade jurídica. Infraconstitucional. Necessidade de reexame dos fatos e das provas. Súmula nº 279/STF. 1. No tocante à preliminar de prescrição trazida no recurso extraordinário, nota-se que o recorrente não indicou os dispositivos constitucionais que, porventura, teriam sido violados. Incidência da Súmula nº 284/STF. 2. Não se admite o recurso extraordinário quando os dispositivos constitucionais que nele se alega violados não estão devidamente prequestionados. Incidência das Súmulas nºs 282 e 356/STF. 3. A afronta aos princípios da legalidade, do devido processo legal, da ampla defesa, do contraditório, dos limites da coisa julgada ou da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição Federal. 4. A questão relativa à desconsideração da personalidade jurídica está limitada ao plano da legislação infraconstitucional[,] bem como do conjunto fático e probatório constante dos autos, cujo reexame é incabível no âmbito de recurso extraordinário. Incidência da Súmula nº 279/STF. 5. Agravo regimental não provido” (ARE nº 946.110/RJ-AgR, Segunda Turma, Rel. Min. Dias Toffoli, DJe de 8/8/18).
+
+    “AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. NÃO INDICAÇÃO DOS DISPOSITIVOS CONSTITUCIONAIS VIOLADOS. INCIDÊNCIA DA SÚMULA 284/STF. PRECEDENTES. 1. As recorrentes não indicaram, nas razões recursais, os dispositivos constitucionais que teriam sido violados pelo acórdão recorrido. Desse modo, diante da impossibilidade da exata compreensão da controvérsia, haja vista a deficiência na fundamentação do recurso extraordinário, incide a Súmula 284 desta Corte. 2. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015. 3. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015. (ARE nº 767.716/RJ-AgR, Primeira Turma, Rel. Min. Roberto Barroso, DJe de 10/2/17).
+
+    Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+
+    Publique-se.
+
+    Brasília, 20 de março de 2023.
+
+Ministra ROSA WEBER
+
+Presidente
+
+Documento assinado digitalmente
