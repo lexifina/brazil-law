@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/03/2023 a 20/03/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de embargos de declaração opostos pela CELG DISTRIBUIÇÃO S.A. - CELG D contra acórdão em agravo interno da Segunda Turma de minha relatoria por meio do qual foi mantida a decisão monocrática da lavra da ora Presidente do STJ, Ministra Maria Thereza de Assis Moura, em que conheceu do agravo para não conhecer do recurso especial da ora embargante.
+O aresto embargado possui a seguinte ementa (fl. 181):
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. INCÊNDIO EM PROPRIEDADE RURAL POR FALHA NO TRANSFORMADOR DE ENERGIA ELÉTRICA. INVERSÃO DO ÔNUS DA PROVA. PRETENSÃO DE REEXAME DE PROVAS. SÚMULA N. 7/STJ. Da leitura do acórdão recorrido, verifica-se que o Tribunal de origem consignou, com base no contexto fático do caso, a procedência de inversão do ônus da prova. Logo, rever tal entendimento, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, ao ensejar novo juízo acerca dos fatos e provas. Incide no caso a Súmula n. 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial". Agravo interno improvido.
+Sustenta a parte embargante que:
+Omitiu-se a decisão de analisar que a inversão dera-se em momento processual inadequado, pois as partes já haviam especificado provas quando, ao depois, o juízo de primeiro grau inverteu o ônus probatório integralmente, tudo para que se modifique a decisão, dando-se provimento ao agravo, conhecendo-se o especial e provendo-o, para reformar a inversão do ônus probatório (fl. 199).
+Requer, ao final, o acolhimento dos embargos declaratórios por entender indevida a inversão do ônus da prova em questão.
+É, no essencial, o relatório
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. INCÊNDIO EM PROPRIEDADE RURAL POR FALHA NO TRANSFORMADOR DE ENERGIA ELÉTRICA. INVERSÃO DO ÔNUS DA PROVA. PRETENSÃO DE REEXAME DE PROVAS. SÚMULA N. 7/STJ. IMPOSSIBILIDADE DE EXAME MERITÓRIO. INEXISTÊNCIA DE VÍCIO NO JULGADO.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica no caso dos autos.
+2. No acórdão embargado, de maneira clara e fundamentada, ficou consignado que o agravo em recurso especial foi conhecido para não se conhecer do recurso especial da recorrente, em razão da incidência da Súmula n. 7/STJ, para analisar a pretensão da embargante quanto à inversão do ônus da prova aplicado na origem .
+3. A pretensão de rediscutir matéria devidamente abordada e decidida no julgado embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via eleita.
+Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+A controvérsia recursal gira em torno de eventual violação do art. 373, I, do CPC, quanto à inversão do ônus da prova. Insurge-se a ora agravante contra o entendimento do Tribunal de origem, segundo o qual foi invertido o ônus probatório em favor da ora agravada. Reitera em embargos de declaração a alegação de que a prova compete exclusivamente à ora embargada, e que ela não produziu prova documental necessária para a comprovação do que alega.
+Nos termos do art. 1.022 do CPC, os embargos de declaração destinam-se a corrigir erro material, esclarecer obscuridade, eliminar contradição ou suprir omissão existente na decisão embargada.
+No caso em exame, inexistem vícios no julgado.
+Verifica-se que, no acórdão embargado, de maneira clara e fundamentada, ficou consignado que o agravo em recurso especial foi conhecido para não se conhecer do recurso especial da recorrente, em razão da incidência da Súmula n. 7/STJ, para analisar a pretensão da embargante quanto à inversão do ônus da prova aplicado na origem.
+Com efeito, confira-se o seguinte excerto do acórdão recorrido (fls. 184-185):
+Consoante relatado, o agravo em recurso especial foi conhecido para não se conhecer do recurso especial, em razão da incidência da Súmula n. 7/STJ, por demandar análise de provas a pretensão da parte agravante quanto ao ônus da prova. Conforme assentado na decisão agravada, da leitura do acórdão recorrido, verifica-se que o Tribunal de origem consignou por que, com base no contexto fático, seria o caso de inverter o ônus da prova (fl. 58):
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos: No caso dos autos, o fundamento utilizado pelo Magistrado primevo para inverter o ônus probatório foi a hipossuficiência da parte autora. De fato, de uma análise superficial dos autos originários, verifica-se uma aparente vulnerabilidade da autora/agravada, sobretudo de natureza técnica, cuja expertise se faz necessária para esclarecer as controvérsias relacionadas à falha no transformador de energia elétrica, bem como se tal circunstância ocasionou o incêndio em sua propriedade rural. Não há de se comparar, pois, o vasto conteúdo probatório de que dispõe a agravante, com os poucos elementos disponíveis à autora quanto a falha no transformador de energia elétrica. Desse modo, resta claro que quem tem melhores condições de explicar e comprovar o que sucedeu com o transformador de energia elétrica é a concessionária agravante, pelo que se faz possível a inversão do ônus da prova neste caso, já que tal circunstância encontra respaldo tanto na legislação processual vigente (art. 373, §1º), quanto na legislação consumerista (art. 6º, VIII) (fl. 58).
+(..)
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à distribuição do ônus probatório das partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Na verdade, a parte, que vem, ainda neste momento processual, questionar os termos em que se deu a inversão do ônus probatório, não se conforma com o não conhecimento do recurso especial e pleiteia novo julgamento da demanda. Todavia, os embargos de declaração não são a via adequada para se buscar o rejulgamento da causa.
+A propósito, cito:
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. PRETENSÃO DE PARCELAMENTO DO DÉBITO EXEQUENDO. IMPOSSIBILIDADE. INEXISTÊNCIA DOS VÍCIOS ENSEJADORES À OPOSIÇÃO DOS DECLARATÓRIOS. EMBARGOS REJEITADOS.
+1. Nos termos do que dispõe o art. 1.022 do CPC/2015, os embargos de declaração são cabíveis apenas quando amparados em suposta omissão, contradição, obscuridade ou erro material na decisão embargada, não se caracterizando via própria ao rejulgamento da causa.
+2. Na hipótese, o acórdão embargado encontra-se suficientemente fundamentado, em relação à aplicabilidade dos arts. 805 e 916, § 7º, do CPC, seja em relação à alínea a do permissivo constitucional seja em relação à alínea c.
+3. Embargos de declaração rejeitados.
+(EDcl no REsp n. 1.891.577/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 2/9/2022, grifo meu.)
+No mesmo sentido, confiram-se precedentes : EDcl no AgInt no AREsp n. 1.896.238/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 25/3/2022; EDcl no AgInt no AREsp n. 1.880.896/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 26/5/2022.
+A pretensão de rediscutir matéria devidamente abordada e decidida no julgado embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via eleita.
+Portanto, é evidente que os presentes embargos são incabíveis, pois veiculam pretensão exclusivamente infringente do julgado, sem o propósito específico de sanar obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração.
+É como penso. É como voto.
