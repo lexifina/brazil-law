@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de CESAR RAFAEL DA SILVA MONTEIRO no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de Santa Catarina (Agravo em Execução Penal n. 5004786-92.2022.8.24.0064).
+Depreende-se dos autos que o Juízo da Vara de Execuções Penais da Comarca da Capital remiu 104 dias da pena do paciente referentes à aprovação parcial no ENCCEJA/2018 (e-STJ fls. 342/343).
+Contra essa decisão a defesa interpôs agravo em execução, tendo o Tribunal local negado provimento ao recurso em acórdão assim ementado (e-STJ fl. 79):
+AGRAVO EM EXECUÇÃO PENAL. RECURSO INTERPOSTO PELO APENADO. PLEITO DE RECONHECIMENTO DO DIREITO À REMIÇÃO PELA APROVAÇÃO EM NOVO EXAME DE CERTIFICAÇÃO DE CONCLUSÃO DE MESMO NÍVEL DE ENSINO (NO CASO, ENCCEJA - ENSINO FUNDAMENTAL, PRESTADO EM ANOS DIVERSOS). IMPOSSIBILIDADE DE CONCESSÃO EM DUPLICIDADE DO BENEFICIO PELO MESMO FATO GERADOR. JURISPRUDÊNCIA PACIFICADA NESTA CORTE E NO SUPERIOR TRIBUNAL DE JUSTIÇA. RECURSO CONHECIDO E DESPROVIDO.
+- O OBJETIVO DA REMIÇÃO, COMO SE SABE, É RECOMPENSAR O PRESO POR SEU ESFORÇO E SUA DEDICAÇÃO EM ATIVIDADE QUE AUXILIA NO ESCOPO DA REINSERÇÃO SOCIAL E RECUPERAÇÃO DO INDIVÍDUO. SENDO ASSIM, EM NÃO SE TRATANDO DE CURSOS, MAS DE EXAMES QUE ATESTAM A CONCLUSÃO DE NÍVEL DE ENSINO, NÃO É POSSÍVEL AFIRMAR QUE NOVA CERTIFICAÇÃO DO MESMO GRAU DE INSTRUÇÃO INDICARIA RELEVANTE EMPENHO E AVANÇO INTELECTUAL POR PARTE DO APENADO. EM RAZÃO DISSO, A CONCESSÃO DO BENEFÍCIO EM DUPLICIDADE NÃO SE JUSTIFICA.
+Neste writ, a Defensoria Pública aponta constrangimento ilegal decorrente do não reconhecimento da remição de 52 dias da pena do sentenciado pela sua aprovação parcial no ENCCEJA/2020, conforme a Recomendação n. 44/2013 do CNJ.
+Ressalta que "não há qualquer impedimento à cumulação da remição por estudo decorrente pelas novas aprovações, já que o Paciente efetivamente estudou e demonstrou bom aproveitamento nas atividades relativas aos Exames Nacionais para Certificação de Competências de Jovens e Adultos" (e-STJ fl. 10).
+Dessa forma, requer, liminarmente, o reconhecimento do direito à remição de 52 dias da pena do paciente até o julgamento deste habeas corpus. No mérito, postula a confirmação da liminar (e-STJ fls. 3/12).
+Indeferido o pedido de liminar (e-STJ fls. 699/700) e prestadas as informações solicitadas (e-STJ fls. 703/722); o Ministério Público Federal opinou pelo não conhecimento da impetração (e-STJ fls. 727/728).
+É o relatório.
+Decido.
+A jurisprudência do Superior Tribunal de Justiça se consolidou no sentido de que, em situações como a dos autos, haveria "mera reiteração da realização de uma prova para abatimento de pena, o que, obviamente, constitui concessão em duplicidade do benefício pelo mesmo fato, não restando configurado qualquer acréscimo intelectual" (AgRg no HC n. 592.511/SC, relator Ministro Felix Fischer, Quinta Turma, julgado em 8/9/2020, DJe 15/9/2020).
+No caso, acerca da controvérsia, as instâncias ordinárias concluíram que a anterior aprovação do paciente no ENCCEJA deu causa à remição da pena, e a reiteração do exame por meio do ENEM não renova o acesso ao benefício.
+No ponto, consignou a Corte estadual que "a decisão recorrida, no ponto, está em consonância com o entendimento desta Câmara ao afirmar a impossibilidade de ser duplamente concedida a remição baseada em idêntico fato gerador (no caso, a aprovação nos exames ENCCEJA - Ensino Fundamental de anos diversos), sob pena de bis in idem" (e-STJ fl. 80 ).
+Desse modo, o entendimento firmado pelas instâncias ordinárias está em consonância com a jurisprudência desta Corte Superior, não merecendo reparo. Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO. NOVA APROVAÇÃO NO ENCCEJA. DUPLICIDADE DE CONCESSÃO DO MESMO BENEFÍCIO. IMPOSSIBILIDADE. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. WRIT NÃO CONHECIDO. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão agravada por seus próprios fundamentos.
+2. O benefício da remição deve ser aplicado na situação em que o apenado obtém a aprovação no ENCCEJA ou ENEM, haja vista que configura aproveitamento dos estudos realizados durante a execução da pena, conforme dispõem o art. 126 da LEP e a Recomendação n. 44/2013 do CNJ.
+3. Consolidou-se nesta Superior Corte entendimento no sentido de que a realização do mesmo exame não demonstra evolução, mas a mera reiteração da realização de uma prova para abatimento de pena, o que, obviamente, constitui concessão em du plicidade do benefício pelo mesmo fato, não restando configurado qualquer acréscimo intelectual (AgRg no HC 592.511/SC, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 08/09/2020, DJe 15/09/2020).
+4 . Agravo regimental não provido.
+(AgRg no HC n. 620.453/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23/2/2021, DJe de 1/3/2021.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO POR ESTUDO. PLEITO EM DUPLICIDADE. BENESSE CONCEDIDA POR FREQUÊNCIA A ATIVIDADES REGULARES. IMPOSSIBILIDADE DE CONCESSÃO DA TOTALIDADE DE DIAS REMIDOS EM RAZÃO DE APROVAÇÃO NO ENCCEJA. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Na hipótese, é " p acífica a jurisprudência desta Corte quanto à impossibilidade de conceder o benefício da remição da pena em duplicidade" (AgRg no HC n. 734.881/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 15/8/2022).
+2. Agravo regimental não provido
+(AgRg no HC n. 774.389/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 28/11/2022, DJe de 2/12/2022.)
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
