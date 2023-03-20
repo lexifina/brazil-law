@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/03/2023 a 20/03/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE OBSCURIDADE E OMISSÃO. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+O SENHOR MINISTRO RAUL ARAÚJO:
+Trata-se de embargos de declaração opostos por CONSÓRCIO ESTREITO ENERGIA - CESTE contra acórdão desta col. Quarta Turma assim ementado:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DIVERGÊNCIA JURISPRUDENCIAL. DISSÍDIO INTERPRETATIVO NOTÓRIO. OCORRÊNCIA. RECONSIDERAÇÃO. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. RESPONSABILIDADE CIVIL PELA CONSTRUÇÃO DE USINA HIDRELÉTRICA. PROVA PERICIAL. NECESSIDADE DE PRODUÇÃO. FALTA DE PREQUESTIONAMENTO. SÚMULA 282/STF. PRESCRIÇÃO. CIÊNCIA DO ATO E DA EXTENSÃO DOS DANOS (ACTIO NATA). AGRAVO INTERNO PROVIDO. AGRAVO DO ART. 1.042 DO CPC/2015 CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, PROVIDO.
+1. Fica inviabilizado o conhecimento de temas trazidos no recurso especial, mas não debatidos e decididos na instância ordinária, porquanto ausente o indispensável prequestionamento. Incidência da Súmula 282/STF.
+2. A jurisprudência desta Corte é no sentido de que o curso do prazo prescricional do direito de buscar reparação pelos danos causados em razão da construção de usina hidrelétrica inicia-se somente quando o titular do direito subjetivo violado passa a conhecer o fato e a extensão de suas consequências, conforme o princípio da actio nata. Precedentes.
+3. No caso dos autos, o Tribunal de origem apenas concluiu que a contagem da prescrição começou com o enchimento do reservatório, sem nada fundamentar acerca do conhecimento da parte sobre o impacto ambiental na ocasião.
+4. Agravo interno provido para reconsiderar a decisão agravada e, em nova análise, conhecer do agravo do art. 1.042 do CPC/2015 para conhecer parcialmente do recurso especial e, nessa extensão, dar-lhe provimento." (e-STJ, fl. 936)
+Em suas razões, a embargante sustenta que o acórdão de origem recorrido estaria de acordo com o entendimento desta Corte Superior acerca da incidência da actio nata. Assevera ainda que, em caso semelhante, a Corte Especial teria chancelado a incidência das Súmulas 7 e 83, ambas do STJ, em processo semelhante ao ora apreciado (EREsp 1.811.857/MA).
+Impugnação apresentada às fls. 955-981 (e-STJ).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE OBSCURIDADE E OMISSÃO. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO RAUL ARAÚJO (RELATOR):
+As razões apresentadas nos embargos de declaração não evidenciam a existência de nenhum dos vícios previstos no art. 1.022 do CPC/2015; ao revés, todas as questões foram analisadas e decididas, ainda que contrariamente à pretensão da parte embargante, o que, por si só, inviabiliza o acolhimento dos declaratórios.
+Com efeito, a Quarta Turma, nos termos do voto desta Relatoria, deu provimento ao agravo interno, conforme a seguinte fundamentação:
+"Além disso, segundo o paradigma apontado pela parte recorrente, "em casos de dano econômico causado por reservatórios e hidrelétricas, o termo inicial da pretensão indenizatória, como regra geral, coincide com o enchimento do lago; pode, contudo, consoante o princípio da actio nata, ser simultâneo com a ciência inequívoca dos efeitos decorrentes do ato lesivo, cabendo à vítima, em tal hipótese, o ônus de provar que o conhecimento foi objetivamente possível somente em momento posterior" (REsp 1.753.670/MA, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 08/10/2019, DJe de 30/10/2019).
+No caso dos autos, o Tribunal de origem apenas concluiu que o termo inicial da prescrição da pretensão de reparação dos danos decorrentes da construção da hidrelétrica seria o enchimento do reservatório, o que teria sido amplamente divulgado e discutido, sem, contudo, nada fundamentar acerca da comprovação do conhecimento da parte sobre o dano a partir desta data, mesmo que presumidamente, em razão de danos ocorridos na região (e-STJ, fls. 651-653):
+Pois bem. Extrai-se do caderno processual que em março de 2011, após o enchimento das comportas e início da fase de teses para o funcionamento da hidrelétrica em questão, foi constada a morte de 07 (sete) toneladas de peixes na região, sendo este fato amplamente discutido e divulgado a partir da realização de audiência pública, conforme documentação acostada à inicial.
+Dessa forma, levando-se em consideração a teoria da actio nata, entende-se que a referida mortandade de toneladas de peixes ocorrida em março de 2011 deve ser considerada o momento em que o dano ambiental se tornou conhecido para os pescadores daquela localidade e consequente dies a quo para propositura das ações indenizatórias correspondentes, sendo descabido alongar o prazo indefinidamente, conforme propõe a Apelante, ou muito menos após o prazo de 04 (quatro) anos do seu funcionamento.
+ ..
+Desta feita, considerando que o dano ambiental constatado se deu em março de 2011 e a ação de base foi proposta em julho de 2016, bem como diante da aplicação do prazo prescricional de 03 (três) anos, previsto no art. 206, §3º, do Código Civil, tem-se verificada a prescrição na espécie, devendo ser mantida a extinção do feito, com resolução do mérito, consoante o disposto no art. 487, inciso II, do CPC.
+(e-STJ, fls. 647-651)
+Nessa senda, constata-se que o acórdão recorrido padece de fundamentação acerca da comprovação do conhecimento da parte sobre o dano. Portanto, o recurso merece provimento, para que os autos retornem à origem e, mediante dilação probatória como postulada pelo recorrente, seja investigada a data em que ficou constatada a lesão e os seus efeitos.
+Diante do exposto, dou provimento ao agravo interno, a fim de conhecer do agravo para conhecer parcialmente do recurso especial e, nessa extensão, dar-lhe provimento, para que os autos retornem à origem e, mediante dilação probatória, o juízo natural reexamine a prescrição e decida motivadamente o momento da constatação da lesão e seus efeitos, com base na Teoria da Actio Nata." (e-STJ, fls. 943-944).
+Nesse contexto, constata-se a inexistência de vícios do art. 1.022 do CPC, os quais, com efeito, não foram sequer apontados nas razões do presente recurso.
+Ainda, os embargos de declaração têm como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto ou questão sobre a qual se devia pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como corrigir erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+Diante do exposto, rejeitam-se os embargos declaratórios.
+É o voto.
