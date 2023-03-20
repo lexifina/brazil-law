@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interno interposto por UNIMED DE SOROCABA COOPERATIVA DE TRABALHO MÉDICO contra a decisão desta relatoria que negou provimento ao recurso especial (fls. 741/744 e-STJ).
+Nas presentes razões, a agravante argumenta, em síntese, que o Superior Tribunal de Justiça possui jurisprudência concluindo pela taxatividade do rol da Agência Nacional de Saúde Suplementar (ANS), sentido contrário ao entendimento adotado na decisão atacada.
+Afirma a legalidade da negativa de cobertura, inexistindo abusividade, visto que as operadoras de planos de saúde não são obrigadas a custear procedimentos e medicamentos não previstos no rol da ANS.
+Além disso, sustenta que não se trata de caso de incidência das Súmulas nºs 5 e 7/STJ.
+Impugnação às fls. 771/775 (e-STJ).
+É o relatório.
+DECIDO.
+O recurso merece parcial provimento.
+A discussão gira em torno da natureza do Rol de Procedimentos e Eventos em Saúde, elaborado periodicamente pela Agência Nacional de Saúde Suplementar (ANS), se exemplificativo ou se taxativo.
+A Segunda Seção desta Corte Superior, quando do julgamento dos EREsps nºs 1.886.929/SP e 1.889.704/SP (rel. Ministro Luis Felipe Salomão, DJe 3/8/2022), uniformizou o entendimento de ser o Rol da ANS, em regra, taxativo, podendo ser mitigado quando atendidos determinados critérios.
+Assim, foram adotados os seguintes parâmetros para a apreciação de casos concretos:
+"1 - o Rol de Procedimentos e Eventos em Saúde Suplementar é, em regra, taxativo;
+2 - a operadora de plano ou seguro de saúde não é obrigada a arcar com tratamento não constante do Rol da ANS se existe, para a cura do paciente, outro procedimento eficaz, efetivo e seguro já incorporado ao Rol;
+3 - possível a contratação de cobertura ampliada ou a negociação de aditivo contratual para a cobertura de procedimento extra Rol;
+4 - não havendo substituto terapêutico ou esgotados os procedimentos do Rol da ANS, pode haver, a título excepcional, a cobertura do tratamento indicado pelo médico ou odontólogo assistente, desde que (i) não tenha sido indeferido expressamente, pela ANS, a incorporação do procedimento ao Rol da Saúde Suplementar; (ii) haja comprovação da eficácia do tratamento à luz da medicina baseada em evidências; (iii) haja recomendações de órgãos técnicos de renome nacionais (como CONITEC e NATJUS) e estrangeiros e (iv) seja realizado, quando possível, o diálogo interinstitucional do magistrado com entes ou pessoas com expertise técnica na área da saúde, incluída a Comissão de Atualização do Rol de Procedimentos e Eventos em Saúde Suplementar, sem deslocamento da competência do julgamento do feito para a Justiça Federal, ante a ilegitimidade passiva ad causam da ANS".
+No caso em exame, o tribunal de origem manteve a sentença que condenou a ora recorrente a fornecer o referido medicamento com base nos seguintes fundamentos:
+"(..)
+Superada a preliminar, a autora é beneficiária de plano de saúde contratado com a ré (fl. 17) e portadora de "neoplasia maligna", patologia para cujo tratamento foi indicado o medicamento Yervoy (cf. fls. 37/38).
+Solicitada a cobertura do tratamento, houve recusa da ré sob a alegação de ausência de previsão no rol de procedimento obrigatórios da Agência Nacional de Saúde Suplementar ANS e que o uso prescrito é off label, não contando com cobertura contratual (fls. 29/30).
+A recusa da ré é abusiva e não poderia mesmo prevalecer, pois o plano de saúde contratado tem por escopo a disponibilização de serviços para a preservação/recuperação da saúde da autora e para tanto deve abranger todos os meios disponíveis na medicina. E nesse contexto, é patente a violação dos artigos 14 e 51, IV e § 1º do Código de Defesa do Consumidor" (fl. 605 e-STJ).
+Oportuno registrar que os medicamentos receitados por médicos para uso doméstico e adquiridos comumente em farmácias não estão, em regra, cobertos pelos planos de saúde, porquanto a obrigatoriedade de custeio dos fármacos, na Saúde Suplementar, dá-se durante a assistência em unidade de saúde, na internação hospitalar (abrangido o home care), na quimioterapia oncológica ambulatorial, na hipótese de antineoplásicos orais para uso domiciliar (e correlacionados) e naqueles relativos a procedimentos listados no rol da ANS.
+Ressalta-se também que a medicação intravenosa ou injetável que necessite de supervisão direta de profissional habilitado em saúde não é considerada como tratamento domiciliar (é de uso ambulatorial ou espécie de medicação assistida) (REsp nº 1.927.566/RS, rel. Ministra Nancy Andrighi, DJe de 30/8/2021).
+Contudo, no caso sob análise, não há elementos incontroversos no acórdão estadual que possam demonstrar, nesta instância especial, que o tratamento assistencial indicado está enquadrado no critério de superação da taxatividade, devendo, o feito retornar ao tribunal de origem para que, com base nos fatos e nas provas da causa, a apelação seja julgada conforme os parâmetros elaborados pela Segunda Seção.
+Ademais, diante da aplicabilidade imediata da lei nova, nos tratamentos de caráter continuado deverão ser observados, a partir da sua vigência, os critérios trazidos pela Lei nº 14.454/2022, que alterou a natureza do Rol da ANS, de taxativo superável para exemplificativo condicionado, de modo que, conforme o art. 10, § 13:
+"Em caso de tratamento ou procedimento prescrito por médico ou odontólogo assistente que não estejam previstos no rol referido no § 12 deste artigo, a cobertura deverá ser autorizada pela operadora de planos de assistência à saúde, desde que:
+I - exista comprovação da eficácia, à luz das ciências da saúde, baseada em evidências científicas e plano terapêutico; ou
+II - existam recomendações pela Comissão Nacional de Incorporação de Tecnologias no Sistema Único de Saúde (Conitec), ou exista recomendação de, no mínimo, 1 (um) órgão de avaliação de tecnologias em saúde que tenha renome internacional, desde que sejam aprovadas também para seus nacionais".
+Ante o exposto, reconsidero a decisão de fls. 741/744 (e-STJ), tornando-a sem efeito, para dar parcial provimento ao recurso especial e determinar o retorno dos autos à Corte de origem, a fim de que julgue a apelação conforme os critérios estabelecidos pela Segunda Seção nos EREsps nºs 1.886.929/SP e 1.889.704/SP.
+Caso o tratamento assistencial seja também de caráter continuado, deverão ser observados, a partir de sua vigência, os critérios estabelecidos pela Lei nº 14.454/2022, também a serem verificados pelo tribunal local (aplicabilidade imediata da lei nova).
+Intimem-se.
+Publique-se.
