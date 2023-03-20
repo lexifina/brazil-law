@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/03/2023 a 20/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE DROGAS. IMPETRAÇÃO CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR EM OUTRO HABEAS CORPUS NA ORIGEM, AINDA NÃO JULGADO. IMPOSSIBILIDADE DE SUPERAÇÃO DA SÚMULA N. 691 DA SUPREMA CORTE. AUSÊNCIA DE TERATOLOGIA. SUPRESSÃO DE INSTÂNCIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Conforme posicionamento firmado pelo Supremo Tribunal Federal e por esta Corte, não se admite habeas corpus contra decisão negativa de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância. Intelecção do Enunciado n. 691/STF.
+2. Assim, ordinariamente, não pode ocorrer a superação de tal óbice processual, salvo nas hipóteses em que se evidenciar situação absolutamente teratológica e desprovida de qualquer razoabilidade (por forçar o pronunciamento adiantado da Instância Superior e suprimir a jurisdição da Inferior, em subversão à regular ordem de competências) -, o que não constato na espécie, notadamente porque o autuado é reincidente.
+3. Com efeito, como sedimentado em farta jurisprudência do Superior Tribunal de Justiça, "maus antecedentes, reincidência, atos infracionais pretéritos ou até mesmo outras ações penais em curso justificam a imposição de segregação cautelar como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública" (AgRg no HC n. 762.521/MS, relator Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 28/11/2022, DJe de 30/11/2022; grifei).
+4. Agravo regimental desprovido.
+RELATÓRIO
+A EXMA. SRA. MINISTRA LAURITA VAZ:
+Trata-se de agravo regimental interposto por GUSTAVO ALMEIDA PADOVAN contra decisão monocrática de minha lavra, assim ementada (fl. 65):
+"HABEAS CORPUS. PROCESSUAL PENAL. IMPETRAÇÃO CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR EM OUTRO HABEAS CORPUS NA ORIGEM, AINDA NÃO JULGADO. IMPOSSIBILIDADE DE SUPERAÇÃO DA SÚMULA N. 691 DA SUPREMA CORTE. AUSÊNCIA DE TERATOLOGIA. SUPRESSÃO DE INSTÂNCIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA."
+Nas razões recursais, a Defesa alega que o Agravante "encontra-se em prisão preventiva, constituindo inequívoco constrangimento ilegal infligido à liberdade de locomoção do agravante, por ausência dos requisitos cautelares do artigo 312 do CPP." (fl. 70).
+Requer a reconsideração da decisão agravada ou a apresentação do recurso em mesa para julgamento pelo Colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE DROGAS. IMPETRAÇÃO CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR EM OUTRO HABEAS CORPUS NA ORIGEM, AINDA NÃO JULGADO. IMPOSSIBILIDADE DE SUPERAÇÃO DA SÚMULA N. 691 DA SUPREMA CORTE. AUSÊNCIA DE TERATOLOGIA. SUPRESSÃO DE INSTÂNCIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Conforme posicionamento firmado pelo Supremo Tribunal Federal e por esta Corte, não se admite habeas corpus contra decisão negativa de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância. Intelecção do Enunciado n. 691/STF.
+2. Assim, ordinariamente, não pode ocorrer a superação de tal óbice processual, salvo nas hipóteses em que se evidenciar situação absolutamente teratológica e desprovida de qualquer razoabilidade (por forçar o pronunciamento adiantado da Instância Superior e suprimir a jurisdição da Inferior, em subversão à regular ordem de competências) -, o que não constato na espécie, notadamente porque o autuado é reincidente.
+3. Com efeito, como sedimentado em farta jurisprudência do Superior Tribunal de Justiça, "maus antecedentes, reincidência, atos infracionais pretéritos ou até mesmo outras ações penais em curso justificam a imposição de segregação cautelar como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública" (AgRg no HC n. 762.521/MS, relator Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 28/11/2022, DJe de 30/11/2022; grifei).
+4. Agravo regimental desprovido.
+VOTO
+A EXMA. SRA. MINISTRA LAURITA VAZ (RELATORA):
+A irresignação não prospera.
+Ao que consta dos autos, o Agravante foi preso em flagrante delito no dia 17/10/2022, pela suposta prática dos crimes previstos nos arts. 33 e 35, ambos da Lei n. 11.343/2006. A prisão em flagrante foi convertida em preventiva (fls. 41-42).
+Irresignada, a Defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem.
+No writ impetrado nesta Corte, o ora Agravante sustentou a ausência de fundamentação idônea e dos requisitos necessários para a prisão preventiva, sob o argumento de que a quantidade de drogas não seria elevada (30,49 gramas de maconha e 2 gramas de MDA).
+Requereu, liminarmente e no mérito, a revogação da custódia preventiva, com expedição do alvará de soltura (fl. 11).
+Indeferi liminarmente a petição inicial, com aplicação do Enunciado 691/STF.
+Feito esse breve escorço processual, passo ao exame do mérito recursal.
+Conforme posicionamento firmado pelo Supremo Tribunal Federal e por esta Corte, não se admite habeas corpus contra decisão negativa de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância.
+É o que está sedimentado na Súmula n. 691/STF ("não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar"), aplicável, mutatis mutandis, ao Superior Tribunal de Justiça (AgRg no HC 558.161/PR, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 05/03/2020, DJe 10/03/2020; HC 543.255/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 03/03/2020, DJe 12/03/2020; AgRg no HC 506.812/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 01/07/2019, v.g.).
+Assim, ordinariamente, não pode ocorrer a superação de tal óbice processual, salvo nas hipóteses em que se evidenciar situação absolutamente teratológica e desprovida de qualquer razoabilidade (por forçar o pronunciamento adiantado da Instância Superior e suprimir a jurisdição da Inferior, em subversão à regular ordem de competências) -, o que não constato na espécie, notadamente porque " o  autuado é reincidente" (fl. 42; grifei).
+Com efeito, como sedimentado em farta jurisprudência do Superior Tribunal de Justiça, "maus antecedentes, reincidência, atos infracionais pretéritos ou até mesmo outras ações penais em curso justificam a imposição de segregação cautelar como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública" (AgRg no HC n. 762.521/MS, relator Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 28/11/2022, DJe de 30/11/2022; grifei).
+Nesse contexto, o pedido de habeas corpus em situação não previamente apreciada pelo Colegiado local, que não foi sequer instruído com as informações do Juiz de primeiro grau e o parecer do Parquet, tampouco com a comprovação da quantidade de droga apreendida, mostra-se precário e não autoriza o exame da questão em supressão de instância.
+Assim, não há como se reconhecer, de plano, ilegalidade manifesta que autorize a mitigação da Súmula n. 691 do Supremo Tribunal Federal, cuja essência vem sendo reiteradamente ratificada por julgados do Pretório Excelso e do Superior Tribunal de Justiça. Logo, não havendo notícia de que o Tribunal a quo tenha procedido ao exame meritório, reserva-se primeiramente àquele Órgão a apreciação da matéria ventilada no habeas corpus originário, sendo defeso ao Superior Tribunal de Justiça adiantar-se nesse exame, sobrepujando a competência da Corte estadual, mormente se o writ está sendo regularmente processado.
+Na ausência de argumento relevante que infirme as razões consideradas no julgado ora agravado, deve ser mantida a decisão de indeferimento liminar por seus próprios fundamentos.
+Ante o exposto, NEGO PROVIMENTO ao agravo regimental.
+É como voto.
