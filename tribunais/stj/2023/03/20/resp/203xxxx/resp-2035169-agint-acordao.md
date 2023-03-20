@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/03/2023 a 20/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de agravo interno interposto por Condomínio Edifício Tambaú contra decisão desta relatoria proferida nos termos da seguinte ementa (e-STJ, fl. 168):
+RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. OMISSÃO CONSTATADA NO ACÓRDÃO RECORRIDO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. DEVOLUÇÃO DOS AUTOS PARA NOVO JULGAMENTO DOS EMBARGOS DE DECLARAÇÃO. RECURSO ESPECIAL PROVIDO.
+Nas razões recursais (e-STJ, fls. 173-183), alega o insurgente a ausência de omissão no acórdão recorrido, sob o argumento de que o Tribunal de Justiça do Estado do Ceará apresentou como fundamento para reconhecer a desconsideração da personalidade jurídica tanto a teoria menor quanto a maior, não havendo necessidade de manifestação a respeito da aplicabilidade ou não do Código de Defesa do Consumidor.
+Pleiteia, assim, a reconsideração da decisão agravada ou o encaminhamento do feito para julgamento pelo órgão colegiado.
+Impugnação às fls. 187-195 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. 1. OMISSÃO CONFIGURADA. DEVOLUÇÃO DOS AUTOS À ORIGEM PARA QUE SEJAM SANADAS AS QUESTÕES APONTADAS. 2. AGRAVO INTERNO IMPROVIDO.
+1. O Tribunal de origem, a despeito da oposição dos embargos declaratórios, deixou de sanar a omissão sobre a tese da inaplicabilidade da teoria menor da desconsideração da personalidade jurídica, com base no Código de Defesa do Consumidor, por se tratar de contrato de construção sob o regime de administração, ponto essencial para o deslinde da controvérsia, impondo-se, assim, o retorno dos autos para que o órgão competente realize novo julgamento dos embargos de declaração, com a devida apreciação sobre a peculiaridade do caso.
+2. Agravo interno improvido.
+VOTO
+Consoante consta da decisão agravada, após detida análise dos autos, observa-se que o argumento da existência de omissão do acórdão impugnado merece atenção.
+Na hipótese dos autos, o colegiado estadual deu provimento ao recurso do ora agravante para desconsiderar a personalidade jurídica da construtora, notadamente pela ausência patrimonial, que representaria óbice ao ressarcimento dos prejuízos causados, com base na teoria menor, prevista no art. 28, § 5º, do CDC, conforme se extrai do excerto do voto abaixo transcrito (e-STJ, fl. 51):
+Todavia, é cediço que a Desconsideração da Personalidade Jurídica não se restringe apenas às hipóteses de efetiva fraude ou abuso de poder, aplicando-se, excepcionalmente, aos casos de inatividade da pessoa jurídica ou também quando a sua personalidade for obstáculo ao ressarcimento e prejuízos causados à parte interessada. Tem-se, nestes casos, a aplicação da Teoria Menor.
+In casu, a contenda trazida aos fólios perdura-se desde a Ação de Obrigação de nº 023499-90.2008.8.06.0001, sendo o comando sentencial objeto de Apelação (0023499- 0.2008.8.06.0001) e, posteriormente, Recurso Especial (REsp 1760003). Nesse ínterim, os bens a serem dados em garantia cumpriam a função de resguardar a responsabilidade já confirmada em sede de Terceira Instância - da Construtora-Agravada, enquanto o desenlace processual não viesse a ser consumado.
+Entretanto, ante a ausência patrimonial constatada, entendo que o caráter verossímil materializa-se presente nas alegações da Demandante, uma vez que não parece-me crível que a Empresa-Recorrida, renomada no âmbito do mercado imobiliário, não apresente quaisquer ativos atrelados ao seu Cadastro Nacional de Pessoa Jurídica. Do contrário, a antítese desse raciocínio poderia acarretar o protelamento da resolução do feito executório.
+Constata-se, portanto, que o Tribunal de origem, a despeito da oposição dos embargos declaratórios, deixou de sanar a omissão sobre a tese de que, "no contrato de construção sob o regime de administração, ou a preço de custo, não há relação de consumo a ser tutelada pelo código de defesa do consumidor, já que é regido por lei própria, a lei 4.591/64 (lei de incorporação imobiliária), o que impõe a observância aos requisitos da teoria maior da desconsideração da personalidade jurídica, consagrada pelo art. 50 do CCB" (e-STJ, fl. 113). Trata-se de ponto essencial para o deslinde da controvérsia, impondo-se, assim, o retorno dos autos para que o órgão competente realize novo julgamento dos embargos de declaração, com a devida apreciação sobre a peculiaridade do caso.
+Confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÍVIDA C/C DANOS MORAIS. CONFISSÃO FICTA DA AUTORA. CLÁUSULA LIMITATIVA. ÔNUS DA PROVA. TEMAS RELEVANTES PARA O JULGAMENTO DA LIDE. AUSÊNCIA DE PRONUNCIAMENTO. OMISSÃO CONFIGURADA. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM. DECISÃO MANTIDA.
+1. Deixando a Corte local de se manifestar sobre questões relevantes, apontadas em embargos de declaração que, em tese, poderiam infirmar a conclusão adotada pelo Juízo, tem-se por configurada a violação do art. 535 do CPC/1973, devendo ser provido o recurso especial, com determinação de retorno dos autos à origem, para que seja suprido o vício.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 798.810/PR, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 01/03/2021, DJe 03/03/2021).
+Desse modo, tendo em vista que as alegações feitas no agravo interno não são capazes de alterar o convencimento anteriormente manifestado, permanece íntegra a decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
