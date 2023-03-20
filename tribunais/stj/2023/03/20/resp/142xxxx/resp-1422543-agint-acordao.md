@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/03/2023 a 20/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+DIREITO CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE PRESTAÇÃO DE CONTAS CONTRATUAL. PRIMEIRA FASE. MANDATO JUDICIAL. OMISSÃO. INEXISTÊNCIA. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não se verifica a alegada violação do art. 535 do CPC/73, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, a questão que lhe foi submetida, não sendo possível confundir julgamento desfavorável à pretensão da parte, como no caso, com negativa de prestação jurisdicional ou ausência de fundamentação.
+2. De acordo com a jurisprudência desta Corte, "Nos termos do Código Civil e do Estatuto da Advocacia (Lei 8.906/94), a prestação de contas é obrigação inerente ao mandato judicial, cabendo ao advogado, mandatário, prestar contas pormenorizadas quando da conclusão dos serviços, sem prejuízo de outras prestações solicitadas pelo mandante a qualquer momento" (AgInt no REsp 1.877.742/DF, R elatora Min. Nancy Andrighi, Terceira Turma, julgado em 16/3/2021, DJe de 25/3/2021).
+3. A harmonia do acórdão recorrido com o entendimento jurisprudencial desta Corte Superior acerca da matéria inviabiliza o conhecimento do recurso especial tanto pela alínea "a" como pela alínea "c" do permissivo constitucional.
+4. Agravo interno a que se nega provimento.
+RELATÓRIO
+O SENHOR MINISTRO RAUL ARAÚJO:
+Trata-se de agravo interno interposto por NEUMAYER DE SOUSA MAIA contra decisão de fls. 567-570, integrada pela decisão de fls. 596-598, ambas desta relatoria, que não conheceu do recurso especial, com os seguintes fundamentos: i) deficiência na fundamentação (Súmula 284/STF); ii) inexistência de omissão no acórdão recorrido; iii) harmonia entre o acórdão recorrido e a jurisprudência do STJ.
+Nas razões recursais, a agravante pretende a reforma da decisão sob o fundamento de que a decisão agravada "não promoveu jurisdição devida, na medida em que reproduziu texto de lei" (e-STJ, fl. 605). Sustenta ter havido a transposição da norma aos fatos postos em juízo, especialmente, no que se refere à participação de terceiro que detinha procuração da parte agravada. Assevera, ainda, não ter sido demonstrada a inexistência de similitude fática entre o acórdão recorrido e o paradigma indicado para fins de interposição do recurso especial pela alínea "c" do permissivo constitucional.
+Requer, ao final, a reconsideração da decisão agravada ou sua reforma pela Turma Julgadora.
+Devidamente intimada, a parte agravada apresentou impugnação às fls. 654/671.
+É o relatório.
+EMENTA
+DIREITO CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE PRESTAÇÃO DE CONTAS CONTRATUAL. PRIMEIRA FASE. MANDATO JUDICIAL. OMISSÃO. INEXISTÊNCIA. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não se verifica a alegada violação do art. 535 do CPC/73, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, a questão que lhe foi submetida, não sendo possível confundir julgamento desfavorável à pretensão da parte, como no caso, com negativa de prestação jurisdicional ou ausência de fundamentação.
+2. De acordo com a jurisprudência desta Corte, "Nos termos do Código Civil e do Estatuto da Advocacia (Lei 8.906/94), a prestação de contas é obrigação inerente ao mandato judicial, cabendo ao advogado, mandatário, prestar contas pormenorizadas quando da conclusão dos serviços, sem prejuízo de outras prestações solicitadas pelo mandante a qualquer momento" (AgInt no REsp 1.877.742/DF, Relatora Min. Nancy Andrighi, Terceira Turma, julgado em 16/3/2021, DJe de 25/3/2021).
+3. A harmonia do acórdão recorrido com o entendimento jurisprudencial desta Corte Superior acerca da matéria inviabiliza o conhecimento do recurso especial tanto pela alínea "a" como pela alínea "c" do permissivo constitucional.
+4. Agravo interno a que se nega provimento.
+VOTO
+O SENHOR MINISTRO RAUL ARAÚJO (RELATOR):
+A despeito do esforço argumentativo do ora agravante, os argumentos aduzidos no presente agravo não são aptos a modificar a conclusão da decisão agravada.
+De início, destaca-se que o não conhecimento do recurso especial não se deu em razão de uma eventual ausência de similitude fática entre o acórdão recorrido e os precedentes indicados como divergentes. Está claro na decisão agravada que o não conhecimento do recurso especial se deu em virtude da ausência de dissídio contemporâneo acerca da matéria em debate, qual seja o dever do advogado de prestar contas a seu cliente. Isso, porque o acórdão recorrido está em harmonia com o entendimento desta Corte Superior, a quem compete, constitucionalmente, a uniformização da interpretação de normas legais federais.
+É o que se evidencia no seguinte trecho da decisão agravada:
+"Diante da evidente harmonia entre o entendimento do Tribunal de origem e o entendimento desta Corte Superior quanto ao dever de prestar contas, é inafastável a incidência da Súmula 83/STJ ao caso dos autos, óbice este que inviabiliza o conhecimento do recurso especial pelas alíneas "a" e "c" do permissivo constitucional." (e-STJ, fl. 570)
+No que tange à alegação de aplicação automática da norma legal ao caso concreto, é de se ressaltar que o acórdão de origem, ao contrário do sustentado, enfrentou a questão da legitimidade passiva e do dever de prestar contas, tomando em consideração os fatos que entendeu relevantes para tanto, mormente a existência de relação contratual entre o advogado e sua constituinte, respectivamente, agravante e agravada. Nesse cenário, concluiu a decisão agravada inexistir vícios do art. 535 do CPC/73.
+Vale reiterar que, "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte" (AgRg no Ag 56.745/SP, Rel. Ministro CESAR ASFOR ROCHA, DJ de 12/12/1994). Nesse sentido, confiram-se os seguintes julgados: REsp 209.345/SC, Rel. Ministro JOÃO OTÁVIO DE NORONHA, DJ de 16/5/2005; REsp 685.168/RS, Rel. Ministro JOSÉ DELGADO, DJ de 2/5/2005. É o caso dos autos, ainda que não se conforme com os fundamentos adotados como razão de decidir, foram eles expressa e coerentemente declinados no acórdão de origem, não se podendo cogitar de tutela jurisdicional inadequada ou incompleta.
+Por fim, de fato, é o entendimento assente nesta Corte Superior que o mandatário tem o dever de prestar contas a seu constituinte. Veja-se:
+DIREITO CIVIL. RECURSO ESPECIAL. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. AÇÃO DE PRESTAÇÃO DE CONTAS. MANDATO JUDICIAL. PRESCRIÇÃO. TERMO INICIAL. ARQUIVAMENTO DO PROCESSO.
+1. Ação ajuizada em 23/04/2015. Recurso especial interposto em 16/10/2019 e concluso ao Gabinete em 23/07/2020.
+2. Os propósitos recursais consistem em dizer acerca da alegada inovação recursal em sede de apelação, bem como acerca do termo inicial da prescrição relativa a ação de prestação de contas de mandato judicial.
+3. A ausência de decisão acerca do dispositivo legal indicado como violado, não obstante a oposição de embargos de declaração, impede o conhecimento do recurso especial.
+4. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso especial quanto ao tema.
+5. Nos termos do Código Civil e do Estatuto da Advocacia (Lei 8.906/94), a prestação de contas é obrigação inerente ao mandato judicial, cabendo ao advogado, mandatário, prestar contas pormenorizadas quando da conclusão dos serviços, sem prejuízo de outras prestações solicitadas pelo mandante a qualquer momento.
+6. A pretensão do mandante para exigir as contas surge ao final do exercício do mandato, o que, na hipótese do mandato judicial, corresponde à data do arquivamento do processo, salvo eventual revogação ou renúncia dos poderes conferidos.
+7. Hipótese dos autos em que não se implementou a prescrição da pretensão de exigir contas do mandato judicial, porquanto ajuizada a ação dentro do prazo quinquenal de que trata o art. 25-A da Lei 8.906/94, a contar da data do arquivamento do processo.
+8. Recurso especial conhecido e não provido.
+(REsp n. 1.877.742/DF, relatora Min. NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 16/3/2021, DJe de 25/3/2021, g.n.)
+RECURSO ESPECIAL. AÇÃO DE PRESTAÇÃO DE CONTAS. RELAÇÃO DE MANDATO. NECESSIDADE DA APRESENTAÇÃO QUE EMERGE DO PRÓPRIO CONTRATO. AÇÃO BIFÁSICA. CONSTATAÇÃO DO DEVER DE PRESTAR CONTAS E PRESTAÇÃO EFETIVA DOS VALORES ADMINISTRADOS PARA APROVAÇÃO JUDICIAL.
+1. Conforme dispõe o art. 653 do Código Civil, por meio do mandato, uma pessoa, denominada mandatário, é investida de poderes por outra, o mandante, para que em seu nome administre seus interesses, jurídicos ou não.
+2. O mandato geral é aquele que confere poderes ao mandatário para realizar todo e qualquer negócio em nome do mandante. Por outro lado, será especial aquele contrato que outorga poderes para que o mandatário realize especificamente o ato determinado no instrumento.
+3. Nos termos do artigo 668 do Código Civil, o mandatário é obrigado a dar contas de sua gerência ao mandante, transferindo-lhe as vantagens provenientes do mandato, por qualquer título que seja.
+4. Com efeito, doutrina e jurisprudência, tendo em vista o comando legal, são unânimes quanto a indissociável relação entre o contrato de mandato e o dever do mandatário de prestar contas ao mandante. Precedentes.
+5. O Código de Processo Civil, em seus arts. 914 a 919, prevendo a possibilidade de mora na obrigação de prestar contas, podendo esta ser do devedor ou do credor, disciplinou ação de procedimento especial, própria à apresentação das contas.
+6. Ajuizada a ação de prestação de contas, o dever de prestar as contas será o objeto da primeira investigação, devendo o juízo sobre a correção e eventual existência de crédito ou débito ser postergado para um segundo momento.
+7. Apenas a sentença que julgar a segunda fase da ação será capaz de declarar qual a conta certa, fixando, consequentemente, a certeza quanto à existência de saldo devedor e indicará quem é credor e quem é o devedor do saldo encontrado.
+8. Recurso especial não provido.
+(REsp n. 1.215.825/SP, relator Min. LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/10/2015, DJe de 7/12/2015, g. n.)
+No caso dos autos, é incontroverso que o ora agravante foi constituído para defesa dos interesses de sua cliente, de forma que não se cogita de afastamento da incidência da norma legal, tampouco da Súmula 83/STJ.
+Com esses fundamentos, nego provimento ao agravo interno.
+É como voto.
