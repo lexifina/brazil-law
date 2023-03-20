@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/03/2023 a 20/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Humberto Martins, Herman Benjamin e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto pelo Estado do Tocantins contra decisão monocrática proferida pela Presidência do Superior Tribunal de Justiça que declarou a incidência da Súm. n. 284/STF no âmbito do recurso especial ao ressaltar que as pretensões do recorrente estão dissociadas dos fundamentos do acórdão a quo.
+No presente recurso, sustenta-se que (e-STJ fl. 377):
+Ao contrário do que restou sustentado na decisão ora agravada, as razões recursais demonstram, de forma adequada e efetiva, o desacerto do acórdão proferido pelo Tribunal local, e impugna especificamente os fundamentos do aresto recorrido, não havendo que se falar na incidência do óbice estabelecido pela Súmula 284/STF.
+Nas razões do agravo de fls. 318-334, e-STJ, todavia, o agravante deixou clara a impugnação de TODOS os fundamentos para negar seguimento ao reclamo, abrindo tópico específico para combatê-los, sendo incabível falar em inobservância ao princípio da dialeticidade, na espécie.
+Pugna, por fim, a reconsideração da decisão, em juízo de retratação, ou a remessa do presente recurso ao órgão colegiado.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. RAZÕES DISSOCIADAS DO ACÓRDÃO A QUO. NÃO CONHECIMENTO DO RECURSO ESPECIAL. INCIDÊNCIA DA SÚM. N. 284/STF. AGRAVO INTERNO NÃO PROVIDO.
+1. É deficiente a fundamentação que indica enunciado normativo que não possui comando capaz de sustentar a tese elencada no recurso especial, o que atrai a incidência da Súm. n. 284/STF.
+2. Agravo interno não provido.
+VOTO
+O presente agravo não merece lograr êxito.
+Em que pese o arrazoado, observa-se que a parte agravante não trouxe argumentos novos capazes de infirmar os fundamentos que embasaram a decisão agravada, o que faz subsistir o entendimento nela externado.
+O recurso especial, de natureza extraordinária, não é conhecido quando não demonstrados os pressupostos constitucionais.
+Exige-se para a admissão do apelo clareza na indicação dos artigos de lei federal alegadamente violados, bem como a explanação coerente, clara e precisa da medida em que o aresto objurgado teria afrontado cada um desses dispositivos, ou a eles tenha dado interpretação divergente da adotada por este ou por outro Tribunal.
+Sob esse aspecto, não se conhece do recurso especial em que haja (a) "citação genérica de dispositivo de lei tido como violado" (AgInt no REsp n. 1.308.906/SP, Rel. Min. OG FERNANDES, SEGUNDA TURMA, DJe de 30/6/2022), no qual (b) impossível identificar se os dispositivos foram ou não colacionados meramente a título argumentativo (cf. AgInt no REsp. 1.615.830/RS, Rel. Min. MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 11/06/2018; AgInt no AREsp n. 1.890.951/SP, rel. Min. MANOEL ERHARDT (Desembargador Convocado do Trf5), PRIMEIRA TURMA, DJe de 23/6/2022). De forma correlata, (c) "a mera citação de precedentes nas razões recursais não caracteriza dissídio jurisprudencial" (AgInt no AREsp n. 2.024.013/MS, Rel. Min. LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 17/6/2022).
+Ausente fundamentação, ou quando deficiente, não se conhece do recurso (esse é o teor da jurisprudência cristalizada pelo Supremo Tribunal Federal na Súmula nº 284/STF - "é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia" -, também aplicada ao especial).
+A impugnação deve ser específica. Não se considera fundamentado o recurso especial (a) genérico, sem a efetiva demonstração de contrariedade à lei federal (cf. AgRg no AREsp 288.596/MG, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 11/03/2016), (b) dissociado do contexto nos autos (cf. REsp 1337635/PE, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 01/08/2013), (c) em que os dispositivos apontados não possuem comando normativo apto para infirmar os fundamentos do decisum objurgado (cf. AgRg no REsp 1279021/BA, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 11/11/2013).
+As razões recursais, em suma, não podem estar aquém do necessário para se chegar a uma conclusão contrária ao que decidido na Corte a quo - como ocorrido. No caso dos autos, o recurso especial defendeu a ilegitimidade da parte ora recorrida para promover a execução de título judicial sob pena de violação de coisa julgada. Porém, o acórdão a quo - como destacado na decisão ora impugnada - decidiu pela legitimidade da parte recorrida sob o fundamento de que essa integrante da mesma categoria beneficiada pela sentença proferida na ação coletiva, independentemente do momento em que ela ingressou na carreira (se antes ou depois da propositura da ação coletiva).
+É de inequívoca clareza a deficiência de fundamentação do recurso especial, pois estão as razões recursais, por falta de impugnação específica, aquém do necessário para se chegar a conclusão contrária ao juízo e às premissas jurídicas assentadas no acórdão objurgado.
+Impositiva, por consectário, a aplicação da Súmula nº 284/STF - "é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Com essas considerações, nego provimento ao agravo interno.
+É como voto.
