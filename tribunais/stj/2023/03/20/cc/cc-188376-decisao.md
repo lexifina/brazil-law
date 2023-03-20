@@ -1,0 +1,71 @@
+DECISÃO
+Trata-se de conflito positivo de competência, com pedido de liminar, sendo suscitante TRANSPORTES DALÇOQUIO LTDA. - EM RECUPERAÇÃO JUDICIAL, tendo como suscitados o JUÍZO DE DIREITO DA 3ª VARA CÍVEL DE ITAJAÍ - SC e o JUÍZO DA VARA DO TRABALHO DE OURINHOS - SP.
+A suscitante alega que, em 10/8/2016, pleiteou junto ao JUÍZO DE DIREITO DA 3ª VARA CÍVEL DE ITAJAÍ - SC (processo nº 0308386-42.2016.8.24.0033) os benefícios da recuperação judicial, nos termos da Lei nº 11.101/2005, cujo processamento foi deferido em decisão datada de 31/8/2016, o que teria tornado tal Juízo, desde então, o único competente para dirimir questões que afetem o seu patrimônio até o trânsito em julgado da decisão que encerrar o procedimento recuperacional.
+Narra que, paralelamente, o juízo ora segundo suscitado, nos autos da reclamação trabalhista nº 0010579-50.2015.5.15.0030,
+"(..) arvorou-se em competência que não possui ao equivocadamente determinar o prosseguimento da execução trabalhista, bem como determinar, efetivar e manter buscas e bloqueios de bens e valores via sistema Sisbajud, dentre outras medidas constritivas, em benefício do credor trabalhista (doc. 5), sem efetiva consulta ao Juízo da Recuperação Judicial, sob o argumento de que"tais bloqueios respeitam, exclusivamente, a créditos constituídos após o deferimento da recuperação judicial (honorários periciais contábeis) ou a parcelas devidas à União (contribuições previdenciárias)". Tal medida constritiva, portanto, configura evidente e ilegal constrição ao patrimônio da Suscitante" (fl. 6 e-STJ).
+Aduz que tal medida constritiva, portanto, configura evidente e ilegal constrição ao patrimônio da Suscitante e que, assim, o Juízo segundo suscitado acabou desconsiderando
+"(..) o deferimento do pedido de recuperação judicial da Suscitante e seus efeitos, que vigoram até o trânsito em julgado da decisão que encerrar a recuperação judicial, ignorando a competência do MM. Juízo suscitado da 3ª Vara Cível da Comarca de Itajaí/SC para decidir questões acerca do patrimônio da Suscitante, em total violação aos termos da Lei 11.101/2005 e a jurisprudência deste col. STJ" (fl. 6 e-STJ).
+Argumenta, ainda, que
+"(..) para viabilizar a continuidade das suas atividades, precisa ter a garantia de que seus bens não serão constritos ou alienados por juízos diversos daquele no qual tramita o processo de recuperação judicial, de modo que possa fazer frente às despesas operacionais básicas e fundamentais à sua atividade" (fls. 6/7 e-STJ).
+Por tais razões, pugna pelo deferimento de tutela de urgência para que
+"(..) sejam imediatamente suspensos os efeitos da r. decisão proferida pelo MM. Juízo suscitado da Vara do Trabalho de Ourinhos/SP nos autos da reclamação trabalhista nº 0010579-50.2015.5.15.0030, ajuizada por Marcos Rodrigues de Lima, bem como os bloqueios realizados via sistema Sisbajud, e que estes sejam imediatamente liberados, com a sua transferência para as contas da Suscitante ou, subsidiariamente, para a conta vinculada ao MM. Juízo da 3ª Vara Cível da Comarca de Itajaí/SC" (fl. 14 e-STJ).
+Pleiteia a designação provisória do JUÍZO DE DIREITO DA 3ª VARA CÍVEL DE ITAJAÍ - SC para decidir eventuais medidas urgentes e, por fim, que o presente conflito seja julgado integralmente procedente, com a declaração de competência do Juízo da recuperação para decidir sobre quaisquer questões que atentem contra o seu patrimônio.
+Às fls. 1.247/1.250 (e-STJ) a liminar foi indeferida.
+As informações foram prestadas às fls. 1.255/1.256 e 1.260/1.263 (e-STJ).
+O Ministério Público Federal, em seu parecer, opinou pelo não conhecimento do conflito de competência (e-STJ fls. 1.265/1.277).
+É o relatório.
+DECIDO.
+O conflito não merece ser conhecido.
+Como afirmado na decisão de fls. 1.247/1.250 (e-STJ), a Segunda Seção estabeleceu parâmetros práticos para a delimitação de competência dos juízos da execução fiscal e da recuperação judicial, nos termos do acórdão assim ementado:
+"CONFLITO DE COMPETÊNCIA. EXECUÇÃO FISCAL AJUIZADA PELA FAZENDA NACIONAL CONTRA EMPRESA EM RECUPERAÇÃO JUDICIAL. REJEIÇÃO DA EXCEÇÃO DE PRÉ-EXECUTIVIDADE, COM O PROSSEGUIMENTO DA EXECUÇÃO, A AUTORIZAR A CONSTRIÇÃO JUDICIAL DOS BENS DA RECUPERANDA. A CARACTERIZAÇÃO DE CONFLITO DE COMPETÊNCIA PERANTE ESTA CORTE DE JUSTIÇA PRESSUPÕE A MATERIALIZAÇÃO DA OPOSIÇÃO CONCRETA DO JUÍZO DA EXECUÇÃO FISCAL À EFETIVA DELIBERAÇÃO DO JUÍZO DA RECUPERAÇÃO JUDICIAL A RESPEITO DO ATO CONSTRITIVO. CIRCUNSTÂNCIA NÃO VERIFICADA. CONFLITO DE COMPETÊNCIA NÃO CONHECIDO.
+1. O dissenso constante do presente incidente centra-se em saber se o Juízo em que se processa a execução fiscal contra empresa em recuperação judicial, ao rejeitar a exceção de pré-executividade e determinar o prosseguimento do feito executivo, com a realização de atos constritivos sobre o patrimônio da executada -, invade ou não a competência do Juízo da recuperação judicial, segundo dispõe o § 7º-B do art. 6º da Lei de Recuperação e Falência, com redação dada pela Lei n.
+14.112/2020.
+2. A divergência jurisprudencial então existente entre esta Segunda Seção e as Turmas integrantes da Seção de Direito Público do Superior Tribunal de Justiça acabou por se dissipar em razão da edição da Lei n. 14.112/2020, que, a seu modo, delimitou a competência do Juízo em que se processa a execução fiscal (a qual não se suspende pelo deferimento da recuperação judicial) para determinar os atos de constrição judicial sobre os bens da recuperanda; e firmou a competência do Juízo da recuperação judicial para, no exercício de um juízo de controle, "determinar a substituição dos atos de constrição que recaiam sobre bens de capital essenciais à manutenção da atividade empresarial até o encerramento da recuperação judicial".
+3. Ainda que se possa reputar delimitada, nesses termos, a extensão da competência dos Juízos da execução fiscal e da recuperação judicial a respeito dos atos constritivos determinados no feito executivo fiscal, tem-se, todavia, não se encontrar bem evidenciado, até porque a lei não o explicita, o modo de como estas competências se operacionalizam na prática, de suma relevância à caracterização do conflito positivo de competência perante esta Corte de Justiça.
+3.1. É justamente nesse ponto - em relação ao qual já se antevê uma tênue dispersão nas decisões monocráticas e que motivou a submissão da presente questão a este Colegiado - que se reputa necessário um direcionamento seguro por parte do Superior Tribunal de Justiça, para que o conflito de competência perante esta Corte Superior não seja mais utilizado, inadvertidamente, como mero subterfúgio para se sobrestar a execução fiscal (ao arrepio da lei), antes de qualquer deliberação do Juízo da recuperação judicial a respeito da constrição judicial realizada, e, principalmente, antes de uma decisão efetivamente proferida pelo Juízo da execução fiscal que se oponha à deliberação do Juízo da recuperação judicial acerca da constrição judicial.
+4. A partir da vigência da Lei n. 14.112/2020, com aplicação aos processos em trâmite (afinal se trata de regra processual que cuida de questão afeta à competência), não se pode mais reputar configurado conflito de competência perante esta Corte de Justiça pelo só fato de o Juízo da recuperação ainda não ter deliberado sobre a constrição
+judicial determinada no feito executivo fiscal, em razão
+justamente de não
+ter a questão sido, até então, a ele submetida.
+4.1. A submissão da constrição judicial ao Juízo da recuperação judicial,
+para que este promova o juízo de controle sobre o ato constritivo,
+pode ser feita naturalmente, de ofício, pelo Juízo da execução fiscal,
+em atenção à propugnada cooperação entre os Juízos. O § 7ª-B do art. 6º
+da Lei n. 11.101/2005 apenas faz remissão ao art. 69 do CPC/2015,
+cuja redação estipula que a cooperação judicial prescinde de forma
+específica. E, em seu § 2º, inciso IV, estabelece que "os atos concertados
+entre os juízos cooperantes poderão consistir, além de outros, no
+estabelecimento de procedimento para a efetivação de
+medidas
+e providências para recuperação e preservação de
+empresas".
+4.2. Caso o Juízo da execução fiscal assim não proceda, tem-se de
+todo prematuro falar-se em configuração de conflito de competência perante
+esta Corte de Justiça, a pretexto, em verdade, de obter
+o sobrestamento
+da execução fiscal liminarmente. Não há, por ora, nesse quadro,
+nenhuma usurpação da competência, a ensejar a caracterização de conflito
+perante este Superior Tribunal. A inação do Juízo da execução fiscal -
+como um "não ato" que é - não pode, por si, ser considerada idônea a
+fustigar a competência do Juízo recuperacional ainda nem sequer exercida.
+4.3. Na hipótese de o Juízo da execução fiscal
+não submeter, de ofício,
+o ato constritivo ao Juízo da recuperação judicial, deve a
+recuperanda instar o Juízo da execução fiscal a fazê-lo ou levar
+diretamente a questão ao Juízo da recuperação judicial, que deverá exercer
+seu juízo de controle sobre o ato constritivo, se tiver elementos para
+tanto, valendo-se, de igual modo, se reputar necessário, da cooperação
+judicial preconizada no art. 69 do CPC/2015.
+5. Em resumo, a caracterização de conflito de competência perante
+esta Corte de Justiça pressupõe a materialização da oposição concreta do
+Juízo da execução fiscal à efetiva deliberação do Juízo da recuperação
+judicial a respeito do ato constritivo.
+6. Conflito de competência não conhecido" (CC nº 181.190/AC,
+Relator Ministro Marco Aurélio Bellizze, julgado 30/11/2021, DJe 7/12/2021
+- grifo nosso).
+Na espécie, o ato constritivo praticado pelo Juízo da execução fiscal não foi submetido por esse ou pela ora suscitante ao Juízo da recuperação judicial.
+Nesse contexto, não existindo a materialização da oposição entre os Juízos suscitados, não há conflito de competência.
+Ante o exposto, não conheço do conflito.
+Publique-se.
+Oficie-se.
+Intime-se.
