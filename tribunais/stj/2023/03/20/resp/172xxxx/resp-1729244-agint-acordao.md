@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/03/2023 a 20/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão, assim ementada (fl.636):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO ESTRITAMENTE CONSTITUCIONAL. RECURSO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
+O agravante alega estar configurada nulidade do acórdão por negativa de prestação jurisdicional, vulnerando o artigo 1.022, II, do CPC/2015. Refere que o acórdão foi " ..  evidentemente omisso quanto ao alcance da natureza jurídica sui generis deste Conselho Federal da OAB".
+Sustenta equívoco na aplicação da regra da competência territorial, arguindo que " ..  apenas nas ações aforadas contra a União é que o autor poderá escolher a Seção Judiciária em que for domiciliado ou que houver ocorrido o ato que deu origem a demanda (fl. 651)".
+Afirma ainda que na hipótese " ..  a competência territorial rege-se pelas disposições do art. 100 do CPC/1973 (atual art. 53 do CPC/2015), sendo competente o juízo federal onde localizada a sede da Entidade (fl. 651)".
+Por fim, reitera a tese de dissídio jurisprudencial acerca da interpretação do artigo 100, IV, do CPC/1973, sendo hipótese de provimento recursal.
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 1.022, II, DO CPC/2015. OFENSA. NÃO OCORRÊNCIA. ACÓRDÃO QUE DECIDIU COM BASE EM FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL. IMPOSSIBILIDADE DE ANÁLISE EM SEDE DE RECURSO ESPECIAL. COMPETÊNCIA DO STF.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. O julgamento da causa em sentido contrário aos interesses e à pretensão das partes não caracteriza a ausência de prestação jurisdicional, tampouco viola o art. 1.022, II, do CPC. A propósito, confiram-se: AgInt no AREsp n. 2.066.921/RJ, Relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 29/8/2022, DJe de 5/9/2022; AgInt no AREsp n. 1.965.175/PR, Relator Ministro Herman Benjamin, Segunda Turma, julgado em 21/2/2022, DJe de 15/3/2022.
+3. É incabível recurso especial interposto contra acórdão que decide a controvérsia a partir de fundamento eminentemente constitucional, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal, nos termos do art. 102, III, da Constituição da República.
+4. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, observa-se que o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Acerca da alegação de violação do artigo 1.022, II, do CPC/2015, mantém-se o não provimento do recurso especial. Diz-se desse modo porque a competência territorial foi analisada pelo acórdão recorrido ao assentar que o Conselho Federal da OAB tem natureza jurídica de autarquia, com caráter de serviço público federal autônomo. A propósito, assim constou do acórdão (fls. 480-481):
+ ..  conforme a previsão do dispositivo constitucional supra, as causas que for intentadas contra a União (o Conselho Federal da OAB possui caráter de serviço público federal), as causas poderão ser aforadas na seção judiciária em que for domiciliado o autor.
+Neste sentido, conforme se verifica da leitura da impugnação da exceção de incompetência redigida pelo Parquet, ora autor da demanda, em fls.80/83-TJ, o mesmo requer o envio dos autos à Seção Judiciária Federal da Comarca de Uberlândia/MG, caso reconhecida a competência da justiça federal em detrimento da estadual.
+Desse modo, sendo o Parquet o autor da demanda e pugnando este pelo envio dos autos à Seção Judiciária Federal da Comarca de Uberlândia, em homenagem ao dispositivo legal supra citado, deve ser mantida a decisão agravada.
+Logo, houve o enfrentamento acerca da natureza jurídica do conselho ora agravante, de forma que não se verifica ausência de prestação jurisdicional, mas apenas julgamento contrário ao postulado pela ora agravante, o que não acarreta violação do art. 1.022, II, do CPC/2015.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. VIOLAÇÃO DO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. ASTREINTES ESTIPULADAS EM SEDE DE TUTELA DE URGÊNCIA. PERDA DE EFICÁCIA EM SENTENÇA QUE JULGOU EXTINTO O FEITO. ACÓRDÃO QUE REFORMOU A SENTENÇA MAS NÃO CONFIRMOU A TUTELA DEFERIDA. REVISÃO. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O julgamento da causa em sentido contrário aos interesses e à pretensão das partes não caracteriza a ausência de prestação jurisdicional, tampouco viola o art. 1022 do CPC. Jurisprudência do Superior Tribunal de Justiça.
+2. A jurisprudência desta Corte tem entendimento de que "a multa diária prevista no § 4º do art. 461 do CPC, devida desde o dia em que configurado o descumprimento, quando fixada em antecipação de tutela, somente poderá ser objeto de execução provisória após a sua confirmação pela sentença de mérito e desde que o recurso eventualmente interposto não seja recebido com efeito suspensivo" (REsp 1.200.856/RS, Rel. Ministro Sidnei Beneti, Corte Especial, julgado em 01/07/2014, DJe 17/09/2014).
+3. Na hipótese dos autos, o Tribunal de origem confirmou a perda da eficácia das astreintes e sua inexigibilidade, constatando que não fora confirmada a tutela deferida quando da prolação da sentença que extinguiu o feito, nem no acórdão que deu provimento parcial ao recurso de apelação, de modo que a revisão dessa conclusão conforme a pretensão recursal mostra-se inviável em sede de recurso especial, nos termos da Súmula 7 do STJ.
+4. Agravo interno não provido. (AgInt no AREsp n. 2.066.921/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 29/8/2022, DJe de 5/9/2022.) (grifei).
+PROCESSUAL CIVIL. AGRAVO INTERNO. AUSÊNCIA DE IMPUGNAÇÃO AO JUÍZO PRELIBATÓRIO. OFENSA AOS ARTS. 489 E 1022 DO CPC. VIOLAÇÃO NÃO DEMONSTRADA. SÚMULA 83/STJ. FALTA DE DEMONSTRAÇÃO DA NÃO INCIDÊNCIA. IMPUGNAÇÃO DEFICIENTE. SÚMULA 182/STJ. APLICAÇÃO.
+1. Trata-se de Agravo Interno contra decisão que não conheceu do Agravo em Recurso Especial por ausência de impugnação específica à incidência da Súmula 83/STJ, à divergência não comprovada e à falta de prequestionamento, fazendo incidir a Súmula 182/STJ.
+2. A impugnação à Súmula 83/STJ se dá com a indicação de precedentes contemporâneos ou supervenientes aos julgados referidos na decisão agravada, de forma a demonstrar que outra é a orientação jurisprudencial no Superior Tribunal de Justiça.
+3. Quanto à ofensa aos arts. 489, § 1º, e 1.022, II, do Código de Processo Civil, cabe assinalar que não houve omissão, porquanto a controvérsia foi dirimida fundamentadamente, embora em sentido contrário aos interesses da recorrente, o que não se confunde com o alegado vício. Caberia à agravante identificar a questão controvertida e transcrever excertos do acórdão hostilizado e das razões de impugnação aos seus respectivos fundamentos, como mecanismo para demonstrar o alegado prequestionamento (na sua forma explícita ou ficta).
+4. Não configurada a impugnação quanto à falta de prequestionamento dos arts. 6º, II, e 47, da Lei 11.101/2005.
+5. No tocante ao Tema 987/STJ, ficou consignado tratar-se de Ação de Cobrança, o que afasta a questão. Embora não prequestionado, verifica-se que o cancelamento do referido Tema, em virtude de fato superveniente, também prejudica a análise da tese.
+6. Agravo Interno não provido. (AgInt no AREsp n. 1.965.175/PR, relator Ministro Herman Benjamin, Segunda Turma, julgado em 21/2/2022, DJe de 15/3/2022.) (grifei).
+No que diz respeito à controvérsia suscitada pelo recorrente quanto à competência territorial, evidencia-se que a Corte de origem afirmou a competência da Seção Judiciária de Uberlândia/MG por meio de fundamentação eminentemente constitucional, qual seja o artigo 109, §2º, da Constituição Federal.
+Confira-se (fls. 480-481):
+ ..  Inicialmente cumpre ressaltar que não há dúvidas de que o feito deve tramitar na Seção Judiciária Federal, haja vista que quando o Conselho Federal da OAB, ou algum órgão a ele vinculado, for parte na demanda, a competência é da Justiça Federal, pois se trata de uma autarquia com caráter de serviço público federal autônomo.
+Neste sentido é a previsão do art. 109, §2º da Constituição da República. Vejamos:
+Art. 109, Aos juizes federais compete processar e julgar:
+(..)
+§ 2º. As causas intentadas contra a União poderão ser aforadas na seção judiciária em que for domiciliado o autor, naquela onde houver ocorrido o ato ou fato que deu origem à demanda ou onde esteja situada a coisa, ou, ainda, no Distrito Federal.
+ ..
+Desse modo, passo a análise da possibilidade de envio dos autos à Seção Judiciária do Distrito Federal para processamento do feito. Feitas as considerações acima, entendo que a decisão do magistrado primevo deve ser mantida em sua integralidade.
+Isto porque, conforme a previsão do dispositivo constitucional supra, as causas que for intentadas contra a União (o Conselho Federal da OAB possui caráter de serviço público federal), as causas poderão ser aforadas na seção judiciária em que for domiciliado o autor.
+Neste sentido, conforme se verifica da leitura da impugnação da exceção de incompetência redigida pelo Parquet, ora autor da demanda, em fls.80/83-TJ, o mesmo requer o envio dos autos à Seção Judiciária Federal da Comarca de Uberlândia/MG, caso reconhecida a competência da justiça federal em detrimento da estadual. Desse modo, sendo o Parquet o autor da demanda e pugnando este pelo envio dos autos à Seção Judiciária Federal da Comarca de Uberlândia, em homenagem ao dispositivo legal supra citado, deve ser mantida a decisão agravada. (grifei).
+Deste modo, reitere-se, tendo em vista que a solução da controvérsia ocorreu com base no artigo 109, §2º da Constituição Federal, resta evidente que o recurso especial se apresenta inviável quanto ao ponto, sob pena de se usurpar a competência reservada pela Constituição Federal ao Supremo Tribunal Federal.
+Por fim, em razão da fundamentação constitucional do acórdão recorrido, resta também inviabilizada a análise do alegado dissídio jurisprudencial.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
