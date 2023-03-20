@@ -1,0 +1,53 @@
+DECISÃO
+Cuida-se de recurso especial interposto pela FAZENDA NACIONAL, com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO que julgou demanda relativa à prescrição intercorrente no redirecionamento de execução fiscal.
+O julgado negou provimento ao recurso de agravo regimental da recorrente, nos termos da seguinte ementa (fl. 235):
+PROCESSUAL CIVIL. AGRAVO LEGAL. CPC, ART. 557, § 1º. EXECUÇÃO FISCAL. DEMONSTRAÇÃO DA INVIABILIDADE DA DECISÃO MONOCRÁTICA. PRESCRIÇÃO INTERCORRENTE.
+1. A utilização do agravo previsto no art. 557, § 1º, do CPC, deve enfrentar a fundamentação da decisão agravada, ou seja, deve demonstrar que não é caso de recurso manifestamente inadmissível, improcedente, prejudicado ou em confronto com súmula ou com jurisprudência dominante do respectivo tribunal, do Supremo Tribunal Federal, ou de Tribunal Superior. Por isso que é inviável, quando o agravante deixa de atacar especificamente os fundamentos da decisão agravada (STJ, AGREsp n. 545.307, Rel. Min. Eliana Calmon, j. 06.05.04; REsp n. 548.732, Rel. Min. Teori Albino Zavascki, j. 02.03.04).
+2. A irresignação posta no agravo legal deve demonstrar que a decisão recorrida, por não implicar em nenhuma das hipóteses do artigo 557 do Código de Processo Civil, não poderia ter sido julgada monocraticamente pelo Relator.
+3. É firme o entendimento do Colendo Superior Tribunal de Justiça e do Supremo Tribunal Federal no sentido de que, não obstante a citação válida a pessoa jurídica interrompa a prescrição em relação aos responsáveis solidários, no caso de redirecionamento da execução fiscal, há prescrição intercorrente se decorridos mais de cinco anos, entre a citação da empresa e a citação pessoal dos sócios, de modo a não tornar imprescritível a dívida fiscal.
+4. Agravo legal não provido.
+Rejeitados os embargos de declaração opostos (fls. 248-254).
+Aduz no mérito do recurso especial que o acórdão regional contrariou as disposições contidas nos artigos 174, caput e parágrafo único, inciso I e 125, inciso III, do CTN, por entender que não há que se falar em prescrição intercorrente.
+Sustenta, ainda, contrariedade à Súmula n. 106/STJ, posto que em nenhum momento a recorrente permaneceu inerte.
+Não apresentadas contrarrazões.
+Em juízo de conformação do acórdão recorrido com o Tema n. 444/STJ, o Tribunal de origem manteve a decisão, exercendo juízo negativo de retratação (fls. 279-281).
+Sobreveio o juízo de admissibilidade positivo da instância de origem (fl. 287).
+É, no essencial, o relatório.
+Em síntese, cuida-se de agravo de instrumento interposto pela FAZENDA NACIONAL contra decisão que determinou a exclusão dos sócios da INDÚSTRIA DE ESPONJAS JACQUELINE LTDA. do polo passivo da execução, com fundamento na prescrição intercorrente, posto que decorridos mais de cinco anos entre a citação da empresa e o pedido de redirecionamento aos sócios.
+No primeiro grau, o Juízo negou seguimento ao agravo, por entender que a decisão agravada estava em conformidade com a jurisprudência do STJ.
+Interposto o agravo legal, o Tribunal manteve a decisão do juízo a quo, nos mesmos termos (fls. 227-236).
+Em relação aos artigos tidos por violados, percebe-se que o Tribunal de origem solucionou a controvérsia com base no acervo probatório dos autos, conforme trecho do acórdão recorrido, que faz remissão à decisão de primeiro grau (fl. 232):
+Pelo que se pode depreender dos autos, a execução fiscal foi distribuída. aos 19 de abril de 1994 (fl. 13), ocorrendo a citação da empresa executada, em 20 de maio de 1997 (fi. 48 v9, enquanto o pedido de redirecionamento para os corresponsáveis JORGE ROBERTO SAADE e ISSA SAÁEDE deu-se em 20 de setembro de 2005 (fl. 131). Vale dizer, desse modo, que houve decurso de mais de 5 anos após o marco interruptivo, o que aponta para a ocorrência da prescrição intercorrente.
+Esse entendimento, merece registro, tem sido observado em sucessivos julgamentos proferidos no âmbito do C. Superior Tribunal de Justiça  .. .
+Da análise da decisão de não retratação quanto ao Tema n. 444/STJ, verifica-se que o Tribunal a quo entendeu que os corresponsáveis estavam legitimados a responder pelo débito desde o ajuizamento da execução fiscal, tendo em vista que já constavam no título executivo, de tal forma que mostra-se configurada a prescrição, posto que ultrapassado o lapso de cinco anos entre a citação e o pedido de citação da pessoa jurídica. Vejamos (fl. 281):
+No caso concreto, a citação da empresa executada se deu em 20/05/1997.
+O pedido de redirecionamento do feito ocorreu em 20/09/2005, sob o fundamento de que o nome dos sócios consta na CDA, ressaltando-se que não foi apontada a ocorrência de qualquer fato posterior à citação da empresa que enseje o redirecionamento do feito executivo.
+Neste contexto, a teor da tese adotada pelo STJ sob a sistemática dos recursos repetitivos, deve ser mantida a decretação da prescrição intercorrente para o redirecionamento do feito em razão dos nomes dos sócios constarem na CDA, porquanto decorreu prazo superior a cinco anos entre a citação da empresa devedora e o pedido de inclusão dos sócios-gerentes.
+Isso posto, modificar o acórdão recorrido e afastar a prescrição intercorrente, permitindo a inclusão dos sócios no polo passivo da execução fiscal, como pretende a recorrente, demandaria o reexame de todo o contexto fático-probatório dos autos, o que é defeso a esta Corte, conforme a Súmula n. 7 do STJ. Nesse sentido, cito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. REDIRECIONAMENTO. PRESCRIÇÃO INTERCORRENTE. REQUISITOS DE ADMISSIBILIDADE. NÃO PREENCHIMENTO.
+1. Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+2. Para a ocorrência da prescrição intercorrente, deve haver inércia da parte exequente, o que, todavia, não ocorre quando a tramitação do processo executivo fica paralisada por culpa da máquina judiciária, como afirmado pela Primeira Seção, no REsp 1.102.431/RJ, repetitivo.
+3. A respeito do marco inicial para a contagem do prazo de prescrição intercorrente, a Primeira Seção, no REsp 1.340.553/RS, repetitivo, destacou: "o que importa para a aplicação da lei é que a Fazenda Pública tenha tomado ciência da inexistência de bens penhoráveis no endereço fornecido e/ou da não localização do devedor. Isso é o suficiente para inaugurar o prazo, ex lege".
+4. No caso, o recurso não pode ser conhecido porque contexto fático descrito pelo órgão julgador a quo não permite a conclusão pela não ocorrência da prescrição nem pela culpa do cartório judicial pela paralisação do processo, ao tempo em que o acórdão se revela em conformidade com a orientação deste Tribunal Superior. Observância das Súmulas 7 e 83 do STJ.
+5. Agravo interno não provido.
+(AgInt no REsp n. 1.964.029/RJ, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 14/2/2022, DJe de 16/2/2022, grifo meu.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. EXECUÇÃO FISCAL. REDIRECIONAMENTO DA EXECUÇÃO FISCAL AO SÓCIO. PRESCRIÇÃO. ESPECIAL EFICÁCIA VINCULATIVA DO ACÓRDÃO PROFERIDO NO RESP 1.201.993/SP. QUESTÃO ATRELADA AO REEXAME DE MATÉRIA DE FATO. ÓBICE DA SÚMULA 7/STJ. AUSÊNCIA DE PREQUESTIONAMENTO. ÓBICE DA SÚMULA 282/STF.
+1. O entendimento exarado pelo acórdão de origem está em consonância com o decidido por esta Corte Superior no REsp 1201993/SP, publicado em 12/12/2019, Rel. Min. Herman Benjamin, Tema 444, julgado sob a sistemática dos recursos repetitivos, em que ficou definido que a decretação da prescrição para o redirecionamento impõe seja demonstrada a inércia da Fazenda Pública.
+2. O reexame de matéria de prova é inviável em sede de recurso especial (Súmula 7/STJ).
+3. O recurso especial não merece ser conhecido em relação a questão que não foi tratada no acórdão recorrido, sobre a qual nem sequer foram apresentados embargos de declaração, ante a ausência do indispensável prequestionamento (Súmulas 282 e 356 do STF, por analogia).
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.942.672/PR, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 11/10/2021, DJe de 18/10/2021, grifo meu.)
+Por fim, quanto à afronta à Súmula n. 106/STJ, a jurisprudência desta Corte é firme no sentido de que não é cabível recurso especial fundado em alegada violação de enunciado de súmula. Esse é o teor da Súmula n. 518/STJ. A propósito, confiram-se precedentes :
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. OFENSA A ENUNCIADO SUMULAR. DESCABIMENTO. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO. AUSÊNCIA.
+ ..
+3. Nos termos da Súmula 518 do STJ, inviável o conhecimento de eventual contrariedade à súmula, que, para os fins do art. 105, III, "a", da Constituição Federal, não se enquadra no conceito de lei federal.
+ ..
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 1.728.296/ES, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 12/12/2022, DJe de 27/1/2023, grifo meu.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM MANEJADO CONTRA DECISÃO CONCESSIVA DE TUTELA DE URGÊNCIA PARA MENUTENÇÃO DE POSSE EM AÇÃO DE USUCAPIÃO - TUTELA REVOGADA PELA CORTE LOCAL - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO RECURSAL DO AGRAVADO/ AUTOR.
+1. Não cabe recurso especial fundado em alegação de violação a verbete sumular, por não se enquadrar no conceito de lei federal, a que faz alusão o art. 105, inciso III, alínea "a", da Constituição Federal de 1988, conforme estabelecido na Súmula 518 do STJ. E, "não compete a esta Corte Superior a análise de suposta violação de dispositivos constitucionais, ainda que para efeito de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal, ex vi art. 102, III, da Constituição da República" (EDcl no REsp 1.725.452/RS, Relatora Ministra Regina Helena Costa, DJe 22/9/2021).
+ ..
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.196.416/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 12/12/2022, DJe de 16/12/2022, grifo meu.)
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
