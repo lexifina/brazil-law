@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/03/2023 a 20/03/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de embargos de declaração opostos por Haroldo Ferreira contra acórdão proferido pela Primeira Turma do STJ, assim ementado (fl. 4.793):
+ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. FRAUDE À LICITAÇÃO. REPARAÇÃO DE DANOS AO ERÁRIO. OFENSA AO ART. 535 DO CPC/1973. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. PRESCRIÇÃO QUINQUENAL. TERMO INICIAL. ENCERRAMENTO DA FASE ADMINISTRATIVO-FISCALIZATÓRIA. TEMA 899/STF. DEVER DE INDENIZAR. SOLIDARIEDADE. REEXAME DE MATÉRIA DE PROVA. SÚMULA 7/STJ.
+1. Não se conhece da pretendida ofensa ao art. 535 do CPC/1973 quando desacompanhada de razões que, com precisão, demonstrem o vício imputado ao acórdão embargado, não se prestando a tal desiderato alegações meramente genéricas. Aplica-se, na hipótese, o óbice da Súmula 284/STF.
+2. A fundamentação deficiente do recurso especial, no tocante à negativa de prestação jurisdicional, não permite, por consequência e per saltum, ingressar no exame das teses veiculadas no recurso especial, porquanto resta ausente na hipótese o indispensável prequestionamento da matéria (Súmula 211/STJ).
+3. Consta dos autos que, "não obstante a contratação das obras tenha ocorrido em 1991, apenas em junho de 98 as investigações foram concluídas, sobrevindo a propositura da presente ação em março de 2001" (fl. 3.352). Assim, deve incidir o entendimento manifestado pelo Ministro Alexandre de Moraes no RE 636.886/AL (Tema 899): "uma vez encerrada a fase administrativo-fiscalizatória (art. 19 e art. 23, III, "b", c/c art. 24, todos da Lei 8.443/1992), o Poder Público possui o prazo de cinco anos para ajuizar a correspondente ação de ressarcimento, sob pena de restar fulminada a prescrição executória própria."
+4. A alteração das conclusões adotadas pela Corte de origem, que decidiu pelo dever solidário de o ora recorrente indenizar os prejuízos causados ao Estado, porquanto agiu em conluio e com dolo, fraudando a licitação da obra pública, demandaria, necessariamente, novo exame do acervo probatório, providência vedada em recurso especial, conforme o já mencionado óbice da Súmula 7/STJ.
+5. Agravo interno não provido.
+A parte embargante afirma que o julgado não emitiu juízo sobre "a relevante tese jurídica veiculada no recurso especial, segundo a qual a condenação dos réus a ressarcir o erário deveria estar restrita a eventual superfaturamento na obra, jamais ao "total desembolsado pelo Estado" com a contratação daquela obra" (fl. 4.809).
+Alega que "restou expressamente reconhecido pelas instâncias ordinárias que a empresa contratada efetivamente executou o serviço objeto do contrato administrativo tido por nulo" (fl. 4.810).
+Invoca a aplicação do princípio do não enriquecimento sem causa, requerendo pronunciamento acerca da "condenação dos réus na ação de improbidade administrativa a devolver o valor integral da obra - e não apenas o eventual superfaturamento -, bem como para que sejam esclarecidos os motivos que autorizariam o Estado a receber uma obra a custo zero" (fl. 4.811).
+A parte embargada apresentou impugnação (fls. 4.823/4.830).
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegadas omissões no julgado combatido, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi.
+4. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Não prospera a irresignação da parte embargante.
+De acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+Entretanto, no caso dos autos, não se verifica a existência de nenhum desses vícios, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+Com efeito, ficou devidamente consignado no aresto hostilizado que a instância ordinária não debateu as matérias versadas nos arts. 21 da Lei nº 4.717/1965, 23, I, da Lei nº 8.429/1992, 4º da LICC, 126 do CPC/1973 e 265 do CCB, sendo certo que a fundamentação deficiente do apelo, no tocante à negativa de prestação jurisdicional declaratória, não permite, por consequência e per saltum, ingressar no exame das teses amparadas em tais dispositivos legais, porquanto resta ausente o indispensável prequestionamento (Súmula 211/STJ).
+Lado outro, não se vislumbra omissão qualquer. Consta do decisum ora embargado (fls. 4.796/4.804) citação de trecho do acórdão estadual segundo o qual, uma vez constatada a existência de fraude contratual, conluio e dolo, foram os réus condenados a solidariamente indenizar os prejuízos causados ao Estado. O julgado registrou, inclusive, o posicionamento do Tribunal de origem de que "a empreiteira não poderá deixar de receber pelos serviços prestados, pelas obras realizadas. Nos ternos do disposto no parágrafo único do ar. 59 da Lei de Licitações - 8.666/93, a nulidade não exonera a Administração do dever de indenizar o contratado pelo que este houver executado até a data em ela for declarada, promovendo a responsabilidade de quem lhe deu causa. Contudo, como explicado, as obras e serviços foram contratados sem projeto básico e a perícia técnica, a cargo do Instituto de Criminalistica, não localizou planta da edificação ou projeto de reforma. Não há, pois, como estimar o valor dos serviços e obras executados pela empreiteira. Nada impede, entretanto, que pelas vias próprias acione o Estado, para receber o que tem direito, caso venha a restituir o que indevidamente recebeu, sem que possa, aqui, compensar valores" (fl. 3.555). Assim, houve a condenação dos réus "a devolverem ao Estado o que foi pago à empreiteira, atualizado de cada desembolso e com juros de mora do evento, de cada pagamento, nos exatos termos do disposto no art. 398 do Código Civil e súmula 54 do STJ " (fl. 3.455).
+Ademais, importa registrar que a tese de repúdio ao enriquecimento sem causa nem sequer foi tangenciada nas razões do agravo interno interposto às fls. 4.741/4.753, restando, assim, preclusa a matéria.
+Nessa linha de raciocínio:
+AGRAVO INTERNO. PROCESSO CIVIL E CIVIL. ART. 131 DO CPC/73. ÔNUS DA PROVA. SUPOSTO CERCEAMENTO DE DEFESA. NECESSIDADE DE REVISÃO DE FATOS E PROVAS. ENUNCIADO 7/STJ. ART. 827 DO CC. CONTRATO DE COMPRA E VENDA. RESPONSABILIDADE SOLIDÁRIA DO FIADOR. RENÚNCIA EXPRESSA AO BENEFÍCIO DE ORDEM. POSSIBILIDADE. ART. 828, II, DO CC. CONDIÇÃO. IMPLEMENTO. PORCENTAGEM DA RECEITA OPERACIONAL BRUTA. FORMA DE CUMPRIMENTO DA OBRIGAÇÃO. ARGUMENTO NÃO CONTRADITADO. ENUNCIADOS 283 E 284/STF. REEXAME DE DISPOSIÇÃO CONTRATUAL. SÚMULAS 5 E 7/STJ. REITERAÇÃO DOS ARGUMENTOS DO RECURSO ESPECIAL. ENUNCIADO 182/STJ, POR ANALOGIA. IDENTIDADE ENTRE OS CONTRATOS. SUFICIÊNCIA DO TÍTULO PARA EXECUÇÃO. REITERAÇÃO DA TESE SOBRE A NULIDADE COMO DEFEITO GERAL DO NEGÓCIO JURÍDICO. SÚMULA 182, POR ANALOGIA. DIVERGÊNCIA JURISPRUDENCIAL. ALTERAÇÃO DO OBJETO DA DIVERGÊNCIA. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. Rever as conclusões do acórdão recorrido, com o intuito de verificar eventual necessidade de provas, somente se processa mediante o reexame do conjunto probatório carreado aos autos, o que encontra óbice na Súmula nº 7/STJ.
+2. O benefício de ordem não se aplica ao fiador em caso de renúncia expressa ou tácita, caso prevista a responsabilidade solidária do garantidor, nos termos do art. 828, II, do CC.
+3. A ausência de impugnação dos fundamentos da decisão recorrida atrai, por analogia, a incidência da Súmula n. 182 do STJ.
+4. É inadmissível, no agravo interno, a adição de tese não exposta em recurso especial, por constituir indevida inovação recursal. Caso no qual não houve a prévia impugnação no recurso especial sobre o afastamento de sucumbência recíproca, matéria preclusa que não pode ser suscitada em agravo interno, por ser vedada a inovação recursal.
+5. Agravo interno não provido.
+(AgInt no REsp n. 1.708.606/PR, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 21/3/2022, DJe de 24/3/2022.)
+Dessa forma, não podem ser acolhidos embargos de declaração que, a pretexto de alegada omissão no julgado, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi. Nesse panorama, inexistente qualquer vício no acórdão embargado, conforme exige o art. 1.022 do CPC, impõe-se a rejeição do pleito integrativo.
+A propósito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. CONTRADIÇÃO E OMISSÃO. VÍCIOS NÃO CONFIGURADOS. PROPÓSITO DE MODIFICAÇÃO DO JULGAMENTO. MEIO IMPRÓPRIO.
+1. Os embargos de declaração, conforme dispõe o art. 1.022 do CPC/2015,
+destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material.
+2. Não se identifica, no recurso, qualquer ponto sobre o qual era necessária
+manifestação, mas apenas a discordância da parte com a solução apresentada no julgamento e seu propósito de modificação.
+3. Por contradição entende-se coexistência de afirmações em desacordo no
+mesmo julgado, gerando ilogicidade ao texto. Mas desse problema não se
+ressente o julgado.
+4. Embargos de declaração rejeitados, com aplicação de multa de 1% (um por cento) sobre o valor atualizado da causa.
+( EDcl no AgInt nos EAREsp 666.334/RS , Rel. Ministro OG FERNANDES,
+PRIMEIRA SEÇÃO, julgado em 22/8/2018, DJe 28/8/2018)
+ANTE O EXPOSTO, rejeitam-se os embargos de declaração.
+É o voto.
