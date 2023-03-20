@@ -1,0 +1,4 @@
+DECISÃO
+Cuida-se de carta rogatória por meio da qual a Justiça portuguesa solicita que se proceda à citação de HAYSLA RANYELE TOLENTINO DE ALMEIDA e EDNA INÁCIO DA SILVA para que tomem conhecimento de ação de acidente de trabalho que vitimou Gustavo Inácio da Silva e que tramita para apuração de eventuais beneficiários legais de pensão por morte, que a princípio são a primeira interessada, "companheira do sinistrado e seu filho e eventualmente os seus pais, dependendo dos rendimentos anuais destes últimos: importa identificá-los e localizá-los a fim de estes intervirem na fase conciliatória dos presentes autos, sendo chamados á Tentativa de Conciliação" (fl. 8).
+Tendo em vista que a diligência foi cumprida (certidões de fls. 47 e 145 ), determino a devolução dos autos à Justiça rogante com o cumprimento da comissão, por intermédio da autoridade central competente (art. 216-X do Regimento Interno do STJ).
+Publique-se.
