@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interposto por LUIZ OLIVEIRA DA SILVA, contra decisão que inadmitiu recurso especial manejado em face de acórdão do eg. TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consoante se extrai dos autos, a denúncia contra o agravado foi rejeitada pelo juízo em primeiro grau, pela prática do delito previsto no artigo 33, caput, da Lei n. 11343/06 e do artigo 29, do Código Penal, face a inexistência de qualquer ato executório por parte do acusado e pela insuficiência dos elementos necessários para a caracterização de indícios de autoria (fls. 143-144).
+Em segunda instância, o eg. Tribunal a quo, por unanimidade, deu provimento ao recurso em sentido estrito do Ministério Público, para que fosse recebida a denúncia, dando início a ação penal proposta em desfavor do réu.
+Opostos embargos de declaração, estes foram rejeitados (fls. 262-264).
+No recurso especial, interposto com fulcro no artigo 105, inciso III, alínea a, da Constituição Federal, o insurgente alegou violação dos seguintes dispositivos:
+i) art. 395, III, do Código de Processo Penal, pois "No presente caso resta claro a falta de demonstração de justa causa pela não demonstração do fumus commissi delicti devendo ser anulado o acordão recorrido para que seja restabelecida a sentença que determinou a rejeição de denuncia nos moldes do artigo 395 inciso III do Código de Processo Penal" (fl. 274);
+ii) art. 619 do Código de Processo Penal, devido ao vício de omissão mesmo após oposição de embargos, especialmente em relação "a não apreciação de filmagens e as provas anexadas aos autos que comprovam que o mesmo possui relação profissional de advogado com o corréu" (fl. 277).
+Por fim, a Defesa pleiteou a reforma do v. acórdão vergastado, para que seja reconhecida a atipicidade da conduta do insurgente, com a consequente absolvição.
+Apresentadas as contrarrazões (fls. 288-292), sobreveio juízo negativo de admissibilidade fundado na incidência da Súmula 7/STJ, pois a análise das questões suscitadas implicariam em revolvimento fático-probatório (fl. 295).
+Nas razões do agravo, postula-se o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários à sua admissão (fls. 299-302).
+O Ministério Público Federal apresentou parecer pelo não conhecimento ou desprovimento do agravo em recurso especial (fls. 335-342).
+É o relatório.
+Decido.
+O agravo não merece ser conhecido.
+A parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial, não bastando, para tanto, deduzir genericamente a impossibilidade de incidência das Súmulas 7/STJ.
+A defesa nas razões de (fls. 300-301), em uma breve explanação, em síntese, quanto a incidência da Súmula 7/STJ alegou que "Cabe ressaltar que no Juizo de Origem a Denúncia pelos mesmos fatos foi rejeitada pelo Magistrado por não ter indicado de maneira precisa a conduta criminosa ao recorrente, já que o mesmo não deu início a conduta criminosa. Portanto como se vê não se necessita aprofundar no contexto probatório já que a simples leitura da Decisão que rejeitou a denuncia na origem e do acordão é recorrido é possível extrair que não restou indicada de forma clara a conduta criminosa atribuída ao recorrente" (fl. 300).
+No caso, deveria o agravante demonstrar a desnecessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no acórdão a quo, o que não ocorreu.
+É entendimento desta Corte Superior que "inadmitido o recurso especial com base na Súm. 7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível" (AgInt no AREsp 600.416/MG, Segunda Turma, Rel. Min. Og Fernandes, DJe 18/11/2016). Nesse sentido: AgRg no AREsp n. 1.207.268/MG, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 19/12/2018; AgRg nos EDcl no AREsp n. 2.104.712/CE, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 11/11/2022).
+Desse modo, a ausência de impugnação adequada dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre, nos termos do art. 932, inciso III do CPC, obsta o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+Nesse sentido: AgRg no REsp n. 1.958.975/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe 14/11/2022; e AgRg no AREsp 1682769/SC, Quinta Turma, Rel. Ministro Ribeiro Dantas, DJe 23/06/2020.
+Diante do exposto, nos termos do art. 253, parágrafo único inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+P. e I.
+EMENTA
+PENAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
