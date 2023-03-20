@@ -1,0 +1,67 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/03/2023 a 20/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO ADMINISTRATIVO E PROCESSUAL CIVIL. ESTATUTO DA PETROBRÁS. CLÁUSULA COMPROMISSÓRIA. VIOLAÇÃO AO ART. 535 DO CPC/73 (ART. 1.022 DO CPC/2015) CONFIGURADA. ACÓRDÃO ESTADUAL OMISSO QUANTO A PONTO ESSENCIAL AO DESLINDE DA CONTROVÉRSIA. RETORNO DOS AUTOS À ORIGEM. AGRAVO INTERNO DESPROVIDO.
+1. A ausência de manifestação sobre questão relevante para o julgamento da causa, mesmo após a oposição de embargos de declaração, constitui negativa de prestação jurisdicional (CPC/1973, art. 535, II; CPC/2015, art. 1.022, II), impondo-se a anulação do acórdão dos embargos de declaração e o retorno dos autos ao Tribunal de origem para que se manifeste sobre o ponto omisso.
+2. Agravo interno des provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Trata-se de agravo interno interposto por PETRÓLEO BRASILEIRO S.A - PETROBRÁS contra decisão (fls. 1.230/1.233), desta relatoria, que deu provimento ao recurso especial ante a ofensa do artigo 1.022 do CPC/15.
+Nas razões recursais, a agravante sustenta que "o objeto do presente processo não se refere as deliberações da União, através de voto em Assembleia Geral, que visem à orientação de seus negócios" (fl. 1.239).
+Afirma que "o eg. Tribunal de Justiça do Estado do Rio Grande do Sul analisou os pontos essenciais ao deslinde da controvérsia, dando-lhes robusta e devida fundamentação e aplicando a cláusula arbitral estipulada legalmente" (fl. 1.239).
+Ao final, pleiteia a reconsideração da decisão agravada ou, se mantida, seja o recurso levado a julgamento perante a eg. Quarta Turma.
+Intimada, a parte agravada apresentou impugnação às fls. 1.253/1.257.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO ADMINISTRATIVO E PROCESSUAL CIVIL. ESTATUTO DA PETROBRÁS. CLÁUSULA COMPROMISSÓRIA. VIOLAÇÃO AO ART. 535 DO CPC/73 (ART. 1.022 DO CPC/2015) CONFIGURADA. ACÓRDÃO ESTADUAL OMISSO QUANTO A PONTO ESSENCIAL AO DESLINDE DA CONTROVÉRSIA. RETORNO DOS AUTOS À ORIGEM. AGRAVO INTERNO DESPROVIDO.
+1. A ausência de manifestação sobre questão relevante para o julgamento da causa, mesmo após a oposição de embargos de declaração, constitui negativa de prestação jurisdicional (CPC/1973, art. 535, II; CPC/2015, art. 1.022, II), impondo-se a anulação do acórdão dos embargos de declaração e o retorno dos autos ao Tribunal de origem para que se manifeste sobre o ponto omisso.
+2. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+A irresignação não merece prosperar.
+Verifica-se do acórdão proferido pelo TRF da 4ª Região, que, acerca da submissão do sócio à cláusula compromissória, a Corte de origem consignou, in verbis:
+"Conforme destacou a sentença recorrida, disputas ou controvérsias que envolvam a Petrobrás, seus acionistas ou administradores, tendo por objeto a aplicação das disposições contidas na Lei 6.404/76, devem ser resolvidas por meio de arbitragem, nos termos do artigo 58 do estatuto social da companhia.
+Se no estatuto da pessoa jurídica há previsão da solução de conflitos pela arbitragem, ou seja, se há cláusula compromissória, não poderá o sócio abster-se de a ela aderir, uma vez que o acesso às regras expostas no estatuto é público, sob pena de inviabilizar a condução das relações internas da sociedade anônima.
+O investidor não é obrigado a fazer parte da companhia. Se optar pelo ingresso, presume-se que avaliou e acatou voluntariamente as disposições estatutárias, até porque o registro do estatuto social na junta comercial, ou sua inscrição na bolsa de valores ou no mercado de balcão, ratifica a presunção de pleno conhecimento das disposições pelos acionistas. A exigência de aceitação expressa não encontra respaldo nem na Lei das Sociedades Anônimas, nem na Lei da Arbitragem." (fl. 1.071)
+Posteriormente, a parte ora recorrida, opôs embargos de declaração, a fim de ver esclarecida a omissão acerca da tese de impossibilidade de a União submeter-se ao Juízo Arbitral, como se verifica no trecho a seguir:
+"Pelo exposto, requer venham a ser declaradas as apontadas omissões , pronunciando-se a douta Câmara a respeito da aplicação no julgamento da apelação, da previsão constante no parágrafo único do artigo 58, dos Estatutos Sociais da Petrobras (Doc. 0ut24 que acompanhou a inicial), que exclui a possibilidade da UNIÃO submeter-se ao Juízo Arbitral, face a matéria trazida ao conhecimento desta Corte , bem como seja declarada a omissão em não julgar de acordo com os preceitos legais invocados pela Embargante: § 1º do artigo 4º da Lei 9.307/96 , bem como artigos 109, §3º e 117 , ambos da Lei 6.404/76." (fl. 1.088)
+No entanto, a Corte de origem, em sede de aclaratórios, compreendeu pela ausência de omissão, obscuridade e omissão (fls. 1.099/1.101).
+Ocorre que, de fato, há a necessidade de ser julgada a controvérsia referente à impossibilidade da extensão do juízo arbitral à União, uma vez que a matéria de fundo diz respeito à submissão das partes à cláusula compromissória estatutária.
+Dessa forma, a Corte de origem quedou-se inerte no exame de questão relevante para o deslinde da controvérsia e que, na via estreita do recurso especial, não poderia ser analisada de plano.
+Ademais, o conhecimento do recurso especial exige a manifestação da instância ordinária acerca da questão de direito suscitada. Recusando-se a Corte de origem a se manifestar sobre o tema federal, fica obstaculizado o acesso à instância extrema, cabendo à parte vencida invocar, como no caso, a infringência do art. 535 do CPC/1973 (art. 1.022 do CPC de 2015), a fim de anular o v. acórdão recorrido para que seja suprida a omissão existente, como na espécie.
+Confiram-se, por oportuno, os seguintes precedentes:
+"TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO AO ART. 535 DO CPC/73. OCORRÊNCIA. CORTE DE ORIGEM NÃO SE MANIFESTOU SOBRE QUESTÃO QUE JÁ HAVIA SIDO CONSIDERADA RELEVANTE PARA A CONTROVÉRSIA PELO STJ. REEXAME NECESSÁRIO. AMPLO EFEITO DEVOLUTIVO. MATÉRIA DE ORDEM PÚBLICA. CONHECIMENTO A QUALQUER TEMPO.
+1. O Tribunal de origem, ainda que provocado em sede de embargos declaratórios e mesmo diante de decisão anterior do STJ reconhecendo a existência de omissão, quedou silente sobre argumentação relevante ao deslinde da controvérsia, em franca violação ao art. 535 do CPC/73.
+2. Vigora no STJ o posicionamento de que "O amplo efeito devolutivo da remessa necessária conjura o princípio tantum devolutum quantum appelatum uma vez que não limita o conhecimento do Tribunal a quo à matéria efetivamente impugnada no recurso de apelação pelo ente público" (EDcl no AgRg nos EDcl no REsp 1.108.636/SP, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 23/11/2010, DJe 1º/12/2010).
+3. "As questões cognoscíveis de ofício na instância ordinária, especialmente as que tratam de matéria de ordem pública, devem ser analisadas nos Embargos de Declaração apresentados na origem, independentemente da ocorrência de omissão" (REsp 1.571.901/SC, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 13/12/2016, DJe 19/12/2016).
+4. Agravo interno não provido."
+(AgInt no REsp n. 1.700.340/PB, Relator Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 28/3/2022, DJe de 31/3/2022)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ANULAÇÃO DE NEGÓCIO JURÍDICO E ADJUDICAÇÃO COMPULSÓRIA. INEXATIDÃO MATERIAL. ANULAÇÃO DO ACÓRDÃO DE OFÍCIO. CORREÇÃO DO VÍCIO. VIOLAÇÃO DO ART. 535 DO CPC/1973 CONFIGURADA. OMISSÃO DE PONTOS RELEVANTES. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM. DECISÕES MANTIDAS.
+1. Havendo inexatidão material quanto à decisão que havia sido impugnada, impõe-se a anulação, de ofício, do julgamento anterior do agravo interno e rejulgamento com a correção da impropriedade.
+2. Deixando a Corte local de se manifestar sobre questões relevantes apontadas em embargos de declaração, tem-se por configurada a violação do art. 535 do CPC/1973.
+3. Julgamento anterior anulado. Agravos internos a que se nega provimento."
+(AgInt no REsp n. 1.636.946/MT, Relator Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 22/11/2021, DJe de 26/11/2021)
+"PROCESSUAL CIVIL E CONSUMIDOR. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E ESTÉTICOS. ACIDENTE EM ESCADA ROLANTE DE SHOPPING CENTER. CRIANÇA ACOMPANHADA DO PAI. AMPUTAÇÃO DE DOIS DEDOS DO PÉ DIREITO. PROCEDÊNCIA DA AÇÃO POR RESPONSABILIDADE OBJETIVA DO FORNECEDOR. DENUNCIAÇÃO DA LIDE. AUSÊNCIA DE DEFEITO NA PRESTAÇÃO DO SERVIÇO E DE CULPA EXCLUSIVA DE TERCEIRO. CAUSAS DE EXCLUSÃO DA RESPONSABILIDADE (CDC, ART. 14, § 3º). QUESTÕES RELEVANTES NÃO APRECIADAS. VIOLAÇÃO DO ART. 535, II, DO CPC/73. OCORRÊNCIA. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+1. Nos termos do art. 14, § 3º, do CDC, a responsabilidade objetiva do fornecedor pode ser afastada quando demonstrada a ausência de defeito no serviço ou culpa exclusiva do consumidor ou de terceiro.
+Precedentes.
+2. Na hipótese, o v. acórdão recorrido concluiu pela responsabilização do fornecedor exclusivamente com base na responsabilidade objetiva, deixando de examinar questões relevantes para o julgamento da causa, mesmo após a oposição de embargos de declaração, o que constitui negativa de prestação jurisdicional (CPC/73, art. 535, II), impondo-se o retorno dos autos ao eg. Tribunal de Justiça para que se manifeste sobre os pontos omissos ou pendentes de obscuridade.
+3. Agravo interno provido para dar parcial provimento ao recurso especial."
+(AgInt no REsp n. 1.694.769/GO, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 18/5/2021, DJe de 3/8/2021)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.RECURSO MANEJADO SOB A ÉGIDE DO NCPC. EMBARGOS DE TERCEIRO. OUTORGA UXÓRIA NA VIGÊNCIA DO CÓDIGO CIVIL DE 1916. VIOLAÇÃO DO ART. 535 DO CPC/73. CONFIGURADA. OMISSÃO QUANTO A TEMA RELEVANTE PARA JULGAMENTO DA LIDE. RETORNO DOS AUTOS. JULGAMENTO MONOCRÁTICO. AUSÊNCIA DE NULIDADE. PRECEDENTES. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplicabilidade do NCPC neste julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A jurisprudência do STJ orienta-se no sentido de que o art. 932 do NCPC e a Súmula nº 568 do STJ admitem que o relator julgue monocraticamente recurso inadmissível ou aplique jurisprudência consolidada nesta Corte. Reconhece, ainda, que, nessas hipóteses, o julgamento singular não ofende o princípio da colegialidade, tendo em vista a possibilidade de interposição de recurso ao órgão colegiado.
+3. Omitindo-se o Tribunal estadual em se manifestar sobre tema relevante, fica obstaculizado o acesso à instância especial. Assim, forçoso reconhecer a violação do art. 1.022 do NCPC, a fim de anular o acórdão recorrido para que o Tribunal supra a omissão quanto ao tema elencado nos aclaratórios, como entender de direito.
+4. Agravo interno não provido."
+(AgInt no AREsp n. 934.618/PR, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 15/6/2020, DJe de 18/6/2020)
+"PROCESSUAL CIVIL. ALEGADA VIOLAÇÃO DO ART. 535 DO CPC. CORTE A QUO VIOLOU O CONTRADITÓRIO AO JULGAR OS EMBARGOS DE DECLARAÇÃO DA FAZENDA NACIONAL. OFENSA SUSCITADA EM ACLARATÓRIOS. OMISSÃO VERIFICADA. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM.
+1. A principal questão debatida no recurso se refere à violação do contraditório no julgamento do Embargos de Declaração. De fato, a Quarta Câmara de Direito Privado do Tribunal de Justiça do Estado de São Paulo acolheu os Embargos de Declaração do Ministério Público de São Paulo, com efeitos infringentes, para decretar a prescrição do crédito habilitado pela ora Agravante - União.
+2. No entanto, acolheu os Aclaratórios, com atribuição de efeito modificativo, para decretar a prescrição do crédito, sem oitiva prévia da parte, isto é, da União/habilitante, contrariando o exposto no artigo 535 do CPC.
+3. Em novos Embargos, a Fazenda Nacional sustentou a ofensa ao contraditório e ao art 535 do CPC, mas o Tribunal de Justiça de São Paulo se quedou inerte.
+4. Em situações como essa, deve reconhecer-se a nulidade do aresto, com o retorno dos autos à origem para que seja proferido novo julgamento dos embargos de declaração, desta feita, respeitando-se o contraditório.
+5. Agravo conhecido para dar provimento ao Recurso Especial da União determinando o retorno dos autos à Corte de origem, para novo julgamento dos Embargos de Declaração."
+(Ag no REsp n. 1.805.664/SP, Relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 10/12/2019, DJe de 27/5/2020)
+Dessa forma, está caracterizada a alegada ofensa ao art. 535 do CPC/73 (art. 1.022 do CPC/2015), suscitada pela parte ora agravante em seu recurso especial, em razão da omissão da colenda Corte de origem em examinar as questões suscitadas e acima referidas.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
