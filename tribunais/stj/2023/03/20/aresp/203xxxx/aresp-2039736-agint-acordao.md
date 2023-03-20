@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/03/2023 a 20/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto contra decisão de fls. 454-461, por meio da qual rejeitei os embargos declaratórios opostos pela parte ora recorrente.
+A parte agravante sustenta que houve negativa de prestação jurisdicional. Afirma que não incidem as Súmulas 5 e 7/STJ no caso. Alega que "Acerca da questão da necessidade de desconstituição da sentença, o agravante também salientou a necessidade de que fosse a inversão do ônus da prova apreciada em sede de decisão interlocutória, pois tratava-se de regra de procedimento e não de julgamento" (fl. 468). Argumenta que "Importante destacar que esta colenda Turma tem entendimento assente no sentido de que a inversão do ônus da prova trata-se de regra de procedimento e não de julgamento" (fl. 478).
+Não foi apresentada impugnação pela parte agravada (fl. 484 e-STJ).
+É o relatório.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO. EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL. ARTS. 489 E 1022 DO CPC/2015. VIOLAÇÃO. INEXISTÊNCIA. REVISÃO DO JULGADO. REEXAME DE MATÉRIA FÁTICA DA LIDE. SÚMULA 7 DO STJ. NÃO PROVIMENTO.
+1. O Tribunal de origem analisou todas as questões necessárias ao deslinde da controvérsia, não se configurando omissão, contradição ou negativa de prestação jurisdicional.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+3. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (RELATORA): O inconformismo não merece prosperar.
+Verifico que os argumentos desenvolvidos pela parte agravante não infirmam a conclusão adotada na decisão impugnada, razão pela qual o presente recurso não merece prosperar.
+Anoto, preliminarmente, que a questão federal foi decidida de modo suficiente, motivo pelo qual rejeito a alegação de ofensa aos arts. 489 e 1.022 do Código de Processo Civil de 2015.
+O Tribunal de origem enfrentou coerentemente as questões postas a julgamento, no que foi pertinente e necessário, exibindo fundamentação clara e nítida, razão pela qual não merece reparo algum. O pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado, encontra-se objetivamente fixado nas razões do acórdão recorrido.
+Observo que o Colegiado estadual, ao julgar a causa, decidiu o seguinte (fls. 213-222):
+Como se vê, era dever e direito do contribuinte a detenção dos certificados de compras ou depósitos na respectiva instituição financeira, imprescindíveis até para apresentação ao fisco, o que significa dizer que, se não há qualquer documento juntado aos autos neste sentido, carece de verossimilhança a alegação ao réu de que fora efetuado depósito de Cr$ 125.312,00. Tal prova é elementar para constituição do direito alegado, nos termos do art. 373, I, do CPC, todavia não se desincumbiu o requerente do ônus que é seu ope legis.
+O Banco réu, a seu turno, trouxe demonstrativo da existência de 596,67 cotas em nome do autor, no fundo denominado "Santander FIC Fl ONIX", cuia cotação para 31/07/2018 perfazia R$ 306,07 (fl.123). No ponto, importante consignar que o referido investimento, se efetivamente realizado em 1975, já conta com mais de quatro décadas de existência, o que torna ilógico exigir evolução discriminada e pormenorizada da aplicação dos valores, ainda em moeda distinta, de há muito já extinta.
+(..)
+Na segunda fase da ação de prestação de contas, na qual se encontra o presente processo, deve-se averiguar se as contas apresentadas pela parte ré são boas ou ruins, apurando-se, por consequência, eventual saldo credor ou devedor.
+Resta, então, avaliar se as contas prestadas pela parte Ré foram apresentadas de forma adequada.
+As informações prestadas às fls. 121/124 revelam a quantidade dos investimentos realizados pela parte Apelante, o saldo em cotas e a conversão pela cotação vigente.
+Prestadas as contas incumbia à parte autora impugná-las de forma fundamentada, como em qualquer outra impugnação processual.
+No caso o autor se limitou a requerer a inversão do ônus da prova e aplicação da presunção de veracidade (fls. 129/134). Ou seja, deixo instruir a impugnação de forma adequada, prestando um juízo de valor de forma específica e fundamentada, nos termos que estabelece o artigo 550, § 3º, do Código de Processo Civil.
+(..).
+As argumentações recursais do autor não impugnam especificamente as contas apresentadas pelo recorrido, limitando-se a defender a ineficácia por conta da "ausência de justificativa razoável" ao valor indicado pelo Réu. Sequer quantifica o valor que imputa correto, fato que estava ao seu alcance com os elementos aportados aos autos.
+A via estreita do procedimento especial de exigir contas eleito pela parte Autora/Apelante não comporta os desdobramentos da forma almejada, objetivando a comprovação do valor investido. A pretensão autoral foi pela prestação de contas. E foram prestadas.
+A presente fase perquiri se as contas foram apresentadas de forma adequada. E nesse ponto, tenho por satisfeito o preceito contido no artigo 551 do Código de Processo Civil, que não mais exige a apresentação na forma mercantil.
+(..).
+Nesse contexto, a prolação da sentença mostrou-se adequada ao acolhimento das contas apresentadas pelo Banco Réu.
+(..).
+Nesse diapasão, a autora não comprovou o mínimo de fato constitutivo de seu direito. E foi nesse sentido que a sentença se pronunciou.
+Nesse contexto, constato que a análise do entendimento proferido pelo Tribunal estadual, de que se mostrou adequado o acolhimento das contas apresentadas pelo banco réu, na hipótese dos autos, demandaria nova investigação acerca das cláusulas contratuais pactuadas entre as partes e outro exame dos fatos e provas contidos no processo, de modo que o recurso especial esbarra nas Súmulas 5 e 7 do STJ.
+Ademais, verifico que o Colegiado local entendeu que o acórdão recorrido foi claro e explícito ao manter a sentença recorrida, ressaltando que, no caso, não houve comprovação mínima da verossimilhança das alegações da parte recorrente a ponto de autorizar a inversão do ônus da prova, no presente feito. Assim, verifico que a revisão desse posicionamento demandaria nova investigação acerca do conjunto das provas disposto na hipótese, de modo que se aplica a Súmula n. 7 do STJ, no caso.
+Quanto ao mais, o acolhimento da pretensão deduzida no recurso acerca da possibilidade da inversão do ônus da prova não dispensaria o reexame do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, a teor da Súmula n. 7/STJ.
+Guardados os devidos contornos fáticos próprios de cada caso, vejam-se os seguintes julgados:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. APOSENTADORIA. COMPLEMENTAÇÃO. ÔNUS DA PROVA. INVERSÃO. POSSIBILIDADE. REEXAME DE PROVAS. INVIABILIDADE. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Hipótese em que as instâncias ordinárias fundamentaram sua decisão e, com base nos elementos probatórios dos autos e no princípio da razoabilidade, concluíram pela viabilidade da inversão do ônus da prova, porque as partes não se encontravam em igualdade de condições, diante da manifesta hipossuficiência da parte autora.
+3. O acolhimento da pretensão recursal acerca da impossibilidade da inversão do ônus da prova demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, a teor da Súmula nº 7/STJ.
+4. Agravo interno não provido. (AgInt no REsp 1.706.082/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 06/03/2018, DJe de 12/03/2018.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.
+CONSUMIDOR. PREQUESTIONAMENTO. AUSÊNCIA. EMBARGOS DE DECLARAÇÃO NÃO OPOSTOS. SÚMULA 282/STF. CONSUMIDOR FINAL. QUALIDADE. REVISÃO. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. NÃO CONHECIDA. INVERSÃO DO ÔNUS DA PROVA. SÚMULA 7/STJ. DEVER DE INFORMAÇÃO. REVISÃO. SÚMULAS 5 E 7. AGRAVO NÃO PROVIDO.
+1. "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada" (súmula 282/STF).
+2. A caracterização da recorrente com consumidora final do serviço somente poderia ser revista a partir do reexame das circunstâncias fáticas. Incidência da Súmula 7/STJ.
+3. A incidência da Súmula 7/STJ sobre o tema objeto da suposta divergência impede o conhecimento do recurso lastreado na alínea c do art. 105, III, da Constituição Federal
+4. A inversão do ônus da prova depende do reexame acerca da verossimilhança das alegações ou da hipossuficiência do consumidor, a teor do art. 6º, VIII, do CDC. Incidência da Súmula 7/STJ.
+5. Incidem as Súmulas 5 e 7/STJ sobre a pretensão de rever o cumprimento, ou não, do dever de informar do fornecedor do serviço de roaming internacional.
+6. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 97.927/RS, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 17/09/2015, DJe 28/09/2015.)
+Nesse contexto, observo que constou no julgado embargado que o Tribunal estadual, com base nos fatos e nas provas dos autos, concluiu que: "É perceptível que o acórdão procedeu ao enfrentamento da questão que gira em torno da inversão do ônus da prova e requerimento de complementação das contas apresentadas. Não há que se falar em sanar omissões, porquanto evidente a apreciação dos argumentos trazidos aos autos. O acórdão foi claro e explícito ao manter a sentença recorrida, ressaltando que, no caso, não houve comprovação mínima da verossimilhança das alegações do Embargante a ponto de autorizar a inversão do ônus da prova" (fl. 283). (grifo nosso).
+Além disso, como esta Corte recebe o quadro fático delineado pelas instâncias inferiores, anoto que o Tribunal estadual entendeu que, "No conduto da pretensão recursal, o que o Apelante almeja é que a aplicação da inversão do ônus da prova conduza à modificação da realidade fática, o que não é possível. Não serve a inversão do ônus da prova de escudo para práticas ilícitas, e impor aos prestadores de serviços ou fornecedores de produtos prova impossível de ser produzida, enquanto o consumidor se exime de qualquer obrigação. Incumbe ao consumidor dotar suas afirmativas de verossimilhança.(..). Tenho, nesse sentido, que a verossimilhança que autoriza a inversão do ônus da prova restou fulminada. Inclusive o Código de Defesa do Consumidor, ao atribuir carga dinâmica ao ônus probatório, não chancelou a referida inversão de ônus a qualquer custo. É preciso manter o compromisso com a boa-fé processual. A inversão do ônus da prova, contemplado inicialmente no artigo 6º, inciso VIII do Código de Defesa do Consumidor e transportada para o Código de Processo CiviI, ora em vigor, sob a marca da distribuição dinâmica do ônus da prova, liga-se à noção de aptidão para a produção da prova. (..). Nesse diapasão, a autora não comprovou o mínimo de fato constitutivo de seu direito" (fls. 221-222). (grifos nossos).
+Dessa forma, a desconstituição da conclusão do acórdão recorrido, no sentido de se aplicar a inversão do ônus da prova no presente, diante do fato de que não houve comprovação mínima da verossimilhança das alegações do recorrente, demandaria novo reexame do acervo fático e probatório dos autos, procedimento que, em sede de especial, encontra óbice no enunciado n. 7 da Súmula do STJ.
+Nesse sentido, não trazendo a parte recorrente fundamentos capazes de infirmar a decisão agravada, deve ela prevalecer.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
