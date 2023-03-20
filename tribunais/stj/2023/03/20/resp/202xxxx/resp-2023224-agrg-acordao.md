@@ -1,0 +1,68 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/03/2023 a 20/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Sebastião Reis Júnior, Rogerio Schietti Cruz e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por RAIMUNDO NONATO ARAUJO DA SILVA contra a decisão que negou provimento ao seu recurso especial.
+Consta dos autos que o ora agravante foi condenado, em primeiro grau, à pena de 6 (seis) meses de detenção, em regime inicial aberto, pela prática do delito previsto no art. 306 do Código de Trânsito Brasileiro.
+Em segunda instância, o Tribunal de origem negou provimento ao apelo da acusação e deu parcial provimento ao recurso da defesa, para reduzir o valor da prestação pecuniária para o equivalente a 1 (um) salário mínimo (e-STJ fls. 444/445).
+No recurso especial, a defesa alegou a violação ao art. 28-A do Código de Processo Penal, pretendendo, ao final, "a possibilidade de oferecimento do acordo de não persecução penal, com o retorno dos autos ao primeiro grau de jurisdição, para manifestação do Ministério Público Federal" (e-STJ fl. 487).
+O recurso especial foi desprovido (e-STJ fls. 535/540).
+Nas razões deste agravo regimental, o agravante sustenta que "a retroatividade da norma penal deve ocorrer, independentemente da fase processual" (e-STJ fl. 546), razão pela qual requer a reconsideração da decisão agravada ou, caso contrário, o provimento do recurso pelo colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EMBRIAGUEZ AO VOLANTE. ACORDO DE NÃO PERSECUÇÃO PENAL. OFERECIMENTO. RETROATIVIDADE. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. "A decisão agravada está conforme a jurisprudência majoritária deste Superior Tribunal, de que o acordo de não persecução penal se aplica a fatos ocorridos antes da Lei nº 13.964/2019, desde que não recebida a denúncia. O caráter predominantemente processual do art. 28-A do CPP e a razão de ser do instituto conduzem a se sustentar que sua retroatividade, diversamente do que ocorre com as normas híbridas com prevalente conteúdo material, deve ser limitada à fase pré-processual da persecutio criminis" (AgRg no REsp n. 1.993.219/CE, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 2/8/2022, DJe de 9/8/2022). Precedentes.
+2. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Em que pese à argumentação do agravante, a decisão agravada não merece alteração.
+Sobre o tema, consignou o Tribunal de origem (e-STJ fls. 883/885):
+A defesa alega, em apertada síntese, que há omissão no acórdão em razão da necessidade de aplicação do Acordo de Não Persecução Penal (ANPP), previsto no artigo 28-A do Código de Processo Penal.
+O vicio apontado não se verifica.
+Primeiro, porque a tese lançada nos embargos de declaração não foi trazida ao feito antes do julgamento do apelo, razão pela qual não há falar-se em omissão do decisum, que analisou na integra as alegações que de fato foram formuladas pelas partes.
+Ademais, as questões atinentes à possibilidade de Acordo de Não Persecução Penal possuem caráter negociai a ser travado entre as partes, não havendo obrigação legal do Juiz ou Tribunal provocarem o Parquet ou o réu para que se manifestem quanto ao ponto.
+Ainda que assim não fosse, não é o caso de acolhimento dos declaratórios.
+ ..
+A norma que regula o ANPP traz, em seu bojo, carga de conteúdo processual e material, o que permite sua incidência não só aos casos em que ainda não houve ajuizamento da ação penal, como também aos processos em andamento, já que se revela mais benéfica ao réu (art. 50, XL, da Constituição Federal).
+Em decorrência, é possível fazer incidir o ANPP aos processos que já estavam em curso quando da entrada em vigor da Lei 13.964/19, mesmo que em fase recursal.
+Assim entendo pois, com a devida vênia de quem sustenta que tal só é possível até o momento anterior ao da prolação da sentença, tenho que por estar estampado em norma mais benéfica ao réu (art. 50, XL, da Constituição Federal), o ANPP pode ser entabulado e trazido aos autos em qualquer etapa processual antes do trânsito em julgado.
+ ..
+Contudo, para os processos em curso quando da entrada em vigor da Lei que criou o ANPP, o momento processual da provocação é aquele imediatamente após a vigência, ou seja, na primeira oportunidade a parte poderia ter vindo a Juizo, peticionado e informado que tinha interesse em entabular o ANPP com o Ministério Público Federal.
+Repito, ainda me reportando a processos iniciados antes da entrada em vigor da nova regra, se o processo está em primeiro grau, o réu não pode aguardar a sentença para depois pleitear o acordo. Se está em grau recursal, não pode aguardar a manifestação do Tribunal para só então vir a Juízo manifestar seu interesse pelo ANPP.
+Admitir que o acusado ou a acusada aguardem o julgamento e, apenas na hipótese de um resultado que não lhes seja favorável, pleiteiem o ANPP, significa distorcer completamente o objetivo da legislação em baila, que tem como meta evitar a persecução penal, até porque, dado o seu caráter negociai, o ANPP deve observar os princípios da autonomia, da lealdade, da eficiência, do consenso, da boa-fé e da paridade de armas.
+E não tendo o Ministério Público Federal ou a defesa do acusado comparecido aos autos para informar o interesse quanto ao ANPP, não cabia qualquer manifestação desta Corte quanto ao tema, dado esse caráter negociai do ANPP, que pressupõe a atuação da defesa e da acusação (ao Poder Judiciário cabe a verificação das condições e sua viabilidade e, se o caso, a homologação judicial).
+E nem se alegue que não foi oportunizado o ANPP à defesa. Intimada do julgamento, quedou-se inerte, preferindo aguardar o desfecho do julgado, para, só então, ciente de um resultado contrário às suas pretensões, se manifestar pela via dos declaratórios.
+De se ver, portanto, que nenhuma omissão, obscuridade ou contradição contamina o aresto embargado."
+De acordo com a jurisprudência desta Corte, "o acordo de não persecução penal não constitui direito subjetivo do investigado, podendo ser proposto pelo Ministério Público conforme as peculiaridades do caso concreto e quando considerado necessário e suficiente para a reprovação e a prevenção da infração penal" (AgRg no REsp n. 1.991.639/SP, relator Ministro Jesuíno Rissato, Desembargador Convocado do TJDFT, Quinta Turma, julgado em 24/5/2022, DJe de 30/5/2022).
+Ademais, o Supremo Tribunal Federal manifestou-se no sentido de que "a retroatividade penal benéfica incide para permitir que o ANPP  acordo de não persecução penal  seja viabilizado a fatos anteriores à Lei n. 13.964/2019, desde que não recebida a denúncia" (HC n. 191464 AgR, Relator Roberto Barroso, Primeira Turma, julgado em 11/11/2020, DJe-280, 25/11/2020, publicado em 26/11/2020).
+Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. SENTENÇA. FURTO SIMPLES E FURTO SIMPLES TENTADO. NULIDADE. ACORDO DE NÃO PERSECUÇÃO PENAL (ART. 28-A DO CPP). APLICAÇÃO RETROATIVA. PROCESSO SENTENCIADO. IMPOSSIBILIDADE. PRECEDENTE. DOSIMETRIA. TERCEIRA FASE. CAUSA DE DIMINUIÇÃO DA PENA DO FURTO DE PEQUENO VALOR (ART. 155, § 2º, DO CP). MATÉRIA NÃO ANALISADA PELA CORTE ESTADUAL. INDEVIDA SUPRESSÃO DE INSTÂNCIA. PRECEDENTES. LIMINAR DEFERIDA. PARECER MINISTERIAL PELA DENEGAÇÃO DA ORDEM. APLICAÇÃO DE ENTENDIMENTO FIRMADO PELA SEXTA TURMA DO STJ. CONSTRANGIMENTO ILEGAL. AUSÊNCIA. ILEGALIDADE NÃO EVIDENCIADA.
+1. A decisão agravada deve ser mantida, pois a norma do art. 28-A do CPP, que trata do acordo de não persecução penal, somente é aplicável aos processos em curso até o recebimento da denúncia (AgRg no HC n. 627.709/SP, Ministro João Otávio de Noronha, Quinta Turma, DJe 9/4/2021). Ademais, a Sexta Turma desta Corte, no julgamento do AgRg no HC n. 628.647/SC, em 9/3/2021, firmou entendimento nesse mesmo sentido.
+2. Também deve ser mantida, quanto à dosimetria da pena, pois a decisão recorrida não conheceu da pretensão recursal, porque não foi analisada pela Corte local. Então, tem-se que matéria não analisada pelo Tribunal de origem não pode ser diretamente apreciada por esta Corte Superior, sob pena de indevida supressão de instância (AgRg no HC n. 617.823/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 30/3/2021).
+3. Agravo regimental improvido.
+(AgRg no HC 614.169/SC, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 25/5/2021, DJe 4/6/2021.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ACORDO DE NÃO PERSECUÇÃO PENAL. NÃO OCORRÊNCIA. RETROATIVIDADE ATÉ O RECEBIMENTO DA DENÚNCIA. AGRAVO IMPROVIDO.
+1. No julgamento do HC 628.647/SC, em 9/3/2021, a Sexta Turma do Superior Tribunal de Justiça, por maioria de votos, alinhando-se ao entendimento da Quinta Turma, firmou compreensão de que, considerada a natureza híbrida da norma e diante do princípio "tempus regit actum" em conformação com a retroatividade penal benéfica, o acordo de não persecução penal incide aos fatos ocorridos antes da entrada em vigor da Lei 13.964/2019, desde que ainda não tenha ocorrido o recebimento da denúncia.
+2. Recebida a denúncia em 20/4/2018 e proferida sentença condenatória em 5/11/2019, não se aplica o acordo de não persecução penal, nos termos do art. 28-A do Código de Processo Penal, introduzido pela Lei 13.964/2019. Ressalva do entendimento pessoal do Relator, à luz do parágrafo único do art. 2º do Código Penal.
+3. Agravo regimental improvido.
+(AgRg no HC 648.864/MS, Rel. Ministro OLINDO MENEZES, DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO, SEXTA TURMA, julgado em 15/6/2021, DJe 18/6/2021.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. TRÁFICO DE DROGAS. ALEGADA NULIDADE POR AUSÊNCIA DE ENVIO DOS AUTOS AO PARQUET PARA OFERTA DE ACORDO DE NÃO PERSECUÇÃO PENAL. SUPRESSÃO DE INSTÂNCIA. PRECEDENTES. INEXISTÊNCIA DE NULIDADE. NÃO PREENCHIMENTO DOS REQUISITOS AUTORIZADORES. DELITO COM PENA MÍNIMA SUPERIOR A QUATRO ANOS DE RECLUSÃO. NORMA DE CUNHO PROCESSUAL. TEMPUS REGIT ACTUM. PRECEDENTES. INVIABILIDADE DE PROPOSTA DE ANPP APÓS O RECEBIMENTO DA DENÚNCIA. DOSIMETRIA. AUMENTO DA FRAÇÃO DE REDUÇÃO PELO TRÁFICO PRIVILEGIADO. INVIABILIDADE. EXPRESSIVA QUANTIDADE E NATUREZA DO ENTORPECENTE APREENDIDO. PRECEDENTES. ABRANDAMENTO DO REGIME PRISIONAL E SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR MEDIDAS RESTRITIVAS DE DIREITOS. IMPOSSIBILIDADE. EXPRESSA PREVISÃO LEGAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+- Ademais, não é possível a aplicação do acordo de não persecução penal previsto no art. 28-A do Código de Processo Penal após o recebimento da denúncia, em respeito ao princípio do tempus regit actum, consignado no art. 2º do Código de Processo Penal. Desse modo, apesar de o acórdão de apelação que confirmou a condenação do paciente, haver sido proferido em 20/3/2019, quando já estava em vigor a Lei n. 13.964/2019 (23/1/2020), a denúncia contra ele já havia sido recebida, tanto é assim, que houve sentença condenatória exarada em 20/11/2018. Precedentes.
+ ..
+- Agravo regimental não provido.
+(AgRg no HC 593.412/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 23/2/2021, DJe 1º/3/2021.)
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. FURTO. PLEITO DE APLICAÇÃO DO ACORDO DE NÃO PERSECUÇÃO PENAL. LEI N. 13.964/2019. INAPLICÁVEL. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. LEGALIDADE. DISCRICIONARIDADE. SUBSTITUIÇÃO POR PENA DE MULTA. NÃO RECOMENDÁVEL. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - Com efeito, "o acordo de não persecução penal (ANPP) aplica-se a fatos ocorridos antes da Lei nº 13.964/2019, desde que não recebida a denúncia. (HC-191.464/STF, 1ª TURMA, Rel. Ministro GILMAR MENDES, DJe de 12/11/2020). No mesmo sentido: (EDcl no AgRg no AgRg no AREsp 1635787/SP, Relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, DJe 13/8/2020 e Petição no AREsp 1.668.089/SP, da Relator Ministro FELIX FISCHER, DJe de 29/6/2020)" (HC n. 607.003/SC, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 27/11/2020).
+ ..
+Agravo regimental desprovido.
+(AgRg no HC 626.582/SC, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 2/2/2021, DJe 8/2/2021.)
+Como já destacado, a denúncia foi recebida em 5/6/2015 (e-STJ fls. 113/115), antes da entrada em vigor da referida norma.
+Assim, "a decisão agravada está conforme a jurisprudência majoritária deste Superior Tribunal, de que o acordo de não persecução penal se aplica a fatos ocorridos antes da Lei nº 13.964/2019, desde que não recebida a denúncia. O caráter predominantemente processual do art. 28-A do CPP e a razão de ser do instituto conduzem a se sustentar que sua retroatividade, diversamente do que ocorre com as normas híbridas com prevalente conteúdo material, deve ser limitada à fase pré-processual da persecutio criminis" (AgRg no REsp n. 1.993.219/CE, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 2/8/2022, DJe de 9/8/2022).
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
