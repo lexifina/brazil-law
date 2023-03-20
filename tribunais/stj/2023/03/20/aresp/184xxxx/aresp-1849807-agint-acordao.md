@@ -1,0 +1,89 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/03/2023 a 20/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÕES INDENIZATÓRIA, CONSIGNATÓRIA E DE DESPEJO. AGRAVO DE INSTRUMENTO. TEMAS NÃO DEBATIDOS. PREQUESTIONAMENTO. AUSÊNCIA. INCIDÊNCIA DA SÚMULA N.º 211 DO STJ. PLEITO DE ANÁLISE DE MATÉRIA CONSTITUCIONAL. DESCABIMENTO. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se deve conhecer do recurso especial quando ausente o prequestionamento da questão federal nele ventilada, por incidência da Súmula n.º 211 do STJ.
+2. Consoante disposto no art. 105 da Carta Magna, o Superior Tribunal de Justiça não é competente para se manifestar sobre suposta violação de dispositivo constitucional, nem mesmo a título de prequestionamento.
+3. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por ZAED MODAS LTDA. (ZAED) contra decisão monocrática de minha relatoria, assim ementada:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÕES INDENIZATÓRIA, CONSIGNATÓRIA E DE DESPEJO. CUMPRIMENTO DE SENTENÇA. VIOLAÇÃO À COISA JULGADA E USURPAÇÃO DE COMPETÊNCIA. TEMAS NÃO DEBATIDOS. PREQUESTIONAMENTO. AUSÊNCIA. INCIDÊNCIA DA SÚMULA Nº 211 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO (e-STJ, fl. 479)
+Nas razões do presente inconformismo, ZAED alegou que (1) ela e COMBRASCAN SHOPPING CENTERS S.A. (COMBRASCAN) figuram em lados opostos de 3 (três) demandas, quais sejam, uma ação indenizatória, uma consignatória e uma de despejo; (2) as três ações já foram julgadas e se encontram em cumprimento de sentença, havendo créditos e débitos mútuos entre as partes; (3) o Juiz da 19ª Vara Cível da capital, ao proferir decisão afastando a compensação dos valores consignados, violou a coisa julgada e extrapolou o limite da jurisdição; (4) foram violados os arts. 5º, XXXVI, e 93, IX, da CF e 42, 502, 503 e 505, todos do NCPC; (5) toda a matéria foi prequestionada, uma vez não ser necessário apreciar todos os fundamentos arguidos pela parte, mas apenas aqueles considerados suficientes para a solução da questão, o que afasta a incidência da Súmula nº 211 do STJ; e (6) não existe necessidade de se apontar a ofensa ao art. 1.022 do NCPC, pois consideram-se incluídos no acórdão todos os elementos suscitados pelo embargante para fins de prequestionamento, ainda que os embargos de declaração sejam inadmitidos ou rejeitados, a teor do art. 1.025 do NCPC.
+Houve impugnação ao recurso (e-STJ, fls. 497/508).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÕES INDENIZATÓRIA, CONSIGNATÓRIA E DE DESPEJO. AGRAVO DE INSTRUMENTO. TEMAS NÃO DEBATIDOS. PREQUESTIONAMENTO. AUSÊNCIA. INCIDÊNCIA DA SÚMULA N.º 211 DO STJ. PLEITO DE ANÁLISE DE MATÉRIA CONSTITUCIONAL. DESCABIMENTO. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se deve conhecer do recurso especial quando ausente o prequestionamento da questão federal nele ventilada, por incidência da Súmula n.º 211 do STJ.
+2. Consoante disposto no art. 105 da Carta Magna, o Superior Tribunal de Justiça não é competente para se manifestar sobre suposta violação de dispositivo constitucional, nem mesmo a título de prequestionamento.
+3. Agravo interno não provido.
+VOTO
+O recurso não merece provimento.
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as conclusões externadas na decisão recorrida.
+ZAED apontou violação dos arts. 42, 502, 503 e 505 do NCPC. Sustentou que foi (1) determinada a compensação de créditos nas demandas; (2) ocorreu violação à coisa julgada; e (3) foi usurpada a competência do Tribunal de Justiça do Rio de Janeiro para reformar as decisões que determinaram as compensações dos créditos e débitos.
+O conteúdo normativo dos arts. 42, 502, 503 e 505 do NCPC, que versam sobre a observância dos limites da competência do juiz, a ocorrência de coisa julgada e a proibição de o magistrado apreciar questões já decididas relativamente à mesma lide, não foram objeto de debate pelo Tribunal estadual, nem mesmo após a oposição dos embargos de declaração, de modo que está ausente o indispensável requisito do prequestionamento.
+Com efeito, o Tribunal de Justiça concluiu que se trata de depósito, efetuado extrajudicialmente, que não estaria à disposição do Juízo e que seria referente à multa não devida. Entendeu, assim, ser correta a decisão que permitiu a compensação apenas de certos créditos (e-STJ, fls. 229/230).
+Incide, portanto, a Súmula n.º 211 do STJ: Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo.
+Registra-se que caberia à parte, nas razões do seu especial, alegar a violação do art. 1.022 do NCPC a fim de que esta Corte pudesse averiguar a existência de possível omissão no julgado, o que não foi feito.
+A propósito, confiram-se os seguintes precedentes:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO RENOVATÓRIA DE ALUGUEL. OMISSÃO. AUSÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. HONORÁRIOS ADVOCATÍCIOS. ART. 85, § 2º, DO CPC. PROVEITO ECONÔMICO. PARCIAL PROVIMENTO.
+1. O Tribunal de origem dirimiu fundamentadamente a controvérsia, sem incorrer em omissão, obscuridade, contradição ou erro material.
+2. A ausência de prequestionamento impede o conhecimento da questão pelo Superior Tribunal de Justiça. Incidência da Súmula n. 211 do STJ.
+3. É deficiente a argumentação do recurso especial que se sustenta em dispositivo de lei que não contém comando normativo capaz de infirmar os fundamentos do acórdão recorrido. Incidência da Súmula n. 284 do STF.
+4. A Corte Especial, no julgamento do Tema Repetitivo 1076 (relator Ministro Og Fernandes, DJe de 31/5/2022), firmou entendimento no sentido de que "apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo", hipóteses que não se configuram na espécie.
+5. A verba honorária referente a ação renovatória de aluguel julgada parcialmente procedente deve incidir sobre a diferença entre o valor do aluguel na data da citação e o novo valor fixado na sentença, quantia a ser multiplicada pelo período de vigência da renovação da locação, pois esse montante reflete objetivamente o proveito econômico obtido pela parte.
+6. Agravo interno parcialmente provido.
+(AgInt no AREsp n. 2.103.614/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 12/12/2022, DJe de 16/12/2022)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE RESCISÃO DE CONTRATO C. C. INDENIZATÓRIA. DANO MORAL. REVISÃO DO JULGADO. SÚMULA 7 DO STJ. TAXA SATI. CONTRATAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 211/STJ. 282 E 356 DO STF.
+1.A matéria referente à contratação do serviço de assessoria técnico-imobiliária - SATI, não foi decidida pela Corte estadual explícita ou implicitamente, nem apontada ofensa ao art. 1.022 do Código de Processo Civil, motivo pelo qual o conhecimento do recurso especial foi impedido, nos termos das Súmulas 282 do Supremo Tribunal Federal e 211 desta Corte.
+2.Consoante a jurisprudência do STJ, o simples inadimplemento contratual em razão do atraso na entrega do imóvel não é capaz, por si só, de gerar dano moral indenizável, sendo necessária a comprovação de circunstâncias específicas que possam configurar a lesão extrapatrimonial.
+3.Por outro lado, a jurisprudência do Superior Tribunal de Justiça entende cabível a indenização por danos morais, nos casos de atraso na entrega do imóvel, quando este ultrapassar o limite do mero dissabor.
+4.Na hipótese dos autos, o Tribunal de Justiça reconheceu a existência de dano moral. Alterar esse entendimento demanda o reexame de provas, inviável em recurso especial.
+7.AGRAVO INTERNO DESPROVIDO.
+(AgInt no REsp n. 1.975.356/MG, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 14/11/2022, DJe de 17/11/2022)
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DA DEMANDADA.
+1. O STF, no julgamento do RE nº 636.331/RJ, com repercussão geral reconhecida, fixou a seguinte tese jurídica: Nos termos do artigo 178 da Constituição da República, as normas e os tratados internacionais limitadores da responsabilidade das transportadoras aéreas de passageiros, especialmente as Convenções de Varsóvia e Montreal, têm prevalência em relação ao Código de Defesa do Consumidor. 3. Referido entendimento tem aplicação apenas aos pedidos de reparação por danos materiais. 4. As indenizações por danos morais decorrentes de extravio de bagagem e de atraso de voo não estão submetidas à tarifação prevista na Convenção de Montreal, devendo-se observar, nesses casos, a efetiva reparação do consumidor preceituada pelo CDC. Precedentes. Incidência da Súmula 83 do STJ.
+2. A ausência de enfrentamento da matéria objeto da controvérsia pelo Tribunal de origem impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência da Súmula 211 do STJ. Precedentes.
+2.1. Esta Corte admite o prequestionamento implícito dos dispositivos tidos por violados, desde que as teses debatidas no apelo nobre sejam expressamente discutidas no Tribunal de origem, o que não ocorreu na hipótese. Precedentes.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 1.863.697/RS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/9/2022, DJe de 29/9/2022)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. 1. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. 2. VIOLAÇÃO AOS ARTS. 104 DO CDC; 200 DO CC; E 313, V, A, DO CPC/2015. MATÉRIA NÃO ENFRENTADA PELO TRIBUNAL DE ORIGEM SOB O ENFOQUE PRETENDIDO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. 3. AÇÃO COLETIVA. INTERRUPÇÃO DA PRESCRIÇÃO DE AÇÕES INDIVIDUAIS. POSSIBILIDADE. ACÓRDÃO RECORRIDO EM HARMONIA COM A JURISPRUDÊNCIA DO STJ. INCIDÊNCIA DA SÚMULA 83/STJ. 4. AGRAVO INTERNO IMPROVIDO.
+1. Não ficou configurada a violação aos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. Incide a Súmula 211 do STJ, na espécie, porquanto ausente o prequestionamento.
+3. Com efeito, a jurisprudência do STJ é iterativa no sentido de que o ajuizamento de ação coletiva tem o condão de interromper o transcurso do prazo prescricional para a propositura da ação individual.
+4. Agravo interno improvido.
+(AgInt no AREsp n. 1.794.938/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 19/9/2022, DJe de 21/9/2022)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. ART. 1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. INOVAÇÃO RECURSAL. OMISSÃO. NÃO CONFIGURAÇÃO. MEMBRO DA FAMÍLIA. FALECIMENTO. DANO MORAL REFLEXO. GENITORES E IRMÃO. SÚMULA Nº 568/STJ. DANOS MORAIS. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. MULTA. SEGUNDOS EMBARGOS DE DECLARAÇÃO. FINS PROTELATÓRIOS. CABIMENTO. DIVERGÊNCIA JURISPRUDENCIAL. COMPROVAÇÃO. AUSÊNCIA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. A questão relativa ao cancelamento do pensionamento mensal dos pais, por ausência de demonstração da dependência econômica, não foi apreciada pelas instâncias ordinárias, haja vista ter sido suscitada apenas nas razões dos segundos embargos declaratórios, caracterizando inovação recursal.
+4. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de declaratórios, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.
+5. As questões de ordem pública, embora passíveis de conhecimento de ofício nas instâncias ordinárias, não prescindem, no estreito âmbito do recurso especial, do requisito do prequestionamento.
+6. O acórdão recorrido apresenta-se em conformidade com a orientação jurisprudencial do Superior Tribunal de Justiça de ser devida a indenização por dano moral reflexo aos genitores e ao irmão da vítima quando forem próximos e se comprovada a repercussão dos efeitos danosos na esfera pessoal.
+7. O Superior Tribunal de Justiça, afastando a incidência da Súmula nº 7/STJ, tem reexaminado o montante fixado pelas instâncias ordinárias apenas quando irrisório ou abusivo, circunstâncias inexistentes no presente caso, em que arbitrada indenização em R$ 339.000,00 (trezentos e trinta e nove mil reais) para os pais do falecido e de R$ 67.000,00 (sessenta e sete mil reais) para seu irmão.
+8. É correta a aplicação da multa pela oposição dos segundos embargos de declaração com o fim exclusivo de modificar decisão isenta de vícios por serem manifestamente protelatórios.
+9. A divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional requisita comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos acórdãos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não se oferecendo como bastante a simples transcrição de ementas sem realizar o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações.
+10. Agravo interno não provido.
+(AgInt nos EDcl no REsp n. 1.697.400/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 12/9/2022, DJe de 19/9/2022)
+Outrossim, vale pontuar que somente a indevida rejeição dos embargos de declaração opostos ao acórdão recorrido para provocar o debate de temas considerados indispensáveis ao deslinde da controvérsia permite o conhecimento do recurso especial em virtude do prequestionamento ficto, previsto no art. 1.025 do NCPC, desde que, no apelo nobre, a parte tenha arguido violação do art. 1.022 do NCPC, a fim de superar a supressão de instância, o que não ocorreu no caso, conforme acima destacado.
+Ilustrativamente, sobre o tema, veja-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO E CONTRADIÇÃO NO ACÓRDÃO RECORRIDO. OFENSA AO ART. 1.022 DO CPC. NÃO VERIFICAÇÃO. RESPONSABILIDADE DO HOSPITAL POR ERRO MÉDICO. APLICAÇÃO DO CÓDIGO CIVIL DE 1916 VIGENTE À ÉPOCA DO FATO. CÓDIGO DE DEFESA DO CONSUMIDOR. SÚMULA N. 83 DO STJ. FALTA DE PREQUESTIONAMENTO DA MATÉRIA VENTILADA NO RECURSO ESPECIAL. SÚMULAS N. 211 DO STJ E 282 DO STF. PREQUESTIONAMENTO FICTO. NÃO OCORRÊNCIA. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. Inexiste ofensa ao art. 1.022 do CPC quando o tribunal de origem aprecia, com clareza e objetividade e de forma motivada, as questões que delimitam a controvérsia, ainda que não acolha a tese da parte insurgente.
+2. Não se conhece de recurso especial quando o acórdão recorrido encontra-se em consonância com a jurisprudência do Superior Tribunal de Justiça (Súmula n. 83 do STJ).
+3. Somente a indevida rejeição dos embargos de declaração opostos ao acórdão recorrido para provocar o debate da corte de origem acerca de dispositivos de lei considerados violados que versam sobre temas indispensáveis à solução da controvérsia autoriza o conhecimento do recurso especial em virtude do prequestionamento ficto, previsto no art. 1.025 do CPC, desde que, no apelo extremo, seja arguida violação do art. 1.022 do CPC, situação que autoriza o STJ a reconhecer o vício e, superando a supressão de instância, analisar o pedido.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.097.478/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 13/2/2023, DJe de 16/2/2023)
+Por derradeiro, nas razões do agravo interno, ZAED alegou contradição dos arts. 5º, XXXVI, e 93, IX, da CF.
+No entanto, tal assertiva é tese natimorta.
+Nesse ponto, a jurisprudência deste Tribunal Superior expõe que não cabe a apreciação de suposta ofensa a matéria constitucional, ainda que para fins de prequestionamento, sob pena de invasão da competência do Supremo Tribunal Federal.
+Nesse sentido, veja-se o julgado:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO RECEBIDO COMO AGRAVO REGIMENTAL. TEMPESTIVIDADE COMPROVADA. AUSÊNCIA DE PREQUESTIONAMENTO. MATÉRIA CONSTITUCIONAL.
+ ..
+3. Aplicam-se os óbices previstos nas Súmulas n. 282 e 356/STF quando as questões suscitadas no recurso especial não tenham sido debatidas no acórdão recorrido nem, a respeito, tenham sido opostos embargos declaratórios.
+4. O recurso especial não é sede própria para o exame de matéria constitucional.
+5. Embargos de declaração recebidos como agravo regimental, do qual se conhece para negar-lhe provimento.
+(EDcl no AREsp 168.842/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Terceira Turma, j. 16/9/2014, DJe 22/9/2014 - sem destaque no original)
+Assim, como ZAED não demonstrou o equívoco nos fundamentos da decisão agravada, deve ser mantido o não conhecimento do recurso especial.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
