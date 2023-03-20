@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/03/2023 a 20/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão, às fls. 521-525, assim ementada:
+PROCESSUAL CIVIL E SERVIDOR PÚBLICO. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. AÇÃO COLETIVA PROPOSTA POR SINDICATO. SUBSTITUIÇÃO PROCESSUAL. LIMITAÇÃO EXPRESSA NO TÍTULO JUDICIAL. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
+O agravante insiste na violação do art. 1.022 do CPC/15, argumentando, à fl. 560, que não restam dúvidas quanto ao alcance da sentença exequenda: ABRANGE TODOS OS TÉCNICOS DO TESOURO NACIONAL, não apenas os filiados ao sindicato autor.
+Insiste, ainda, na violação dos arts. 502 do CPC/15 e 82 do CDC.
+Impugnação às fls. 567-574.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. SERVIDOR PÚBLICO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. AÇÃO COLETIVA PROPOSTA POR SINDICATO. SUBSTITUIÇÃO PROCESSUAL. LIMITAÇÃO EXPRESSA NO TÍTULO JUDICIAL. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Tendo sido o recurso interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado n. 3/2016/STJ.
+2. Afasta-se a alegada violação do artigo 1.022 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+3. Tendo o Tribunal de origem reconhecido a existência de limitação subjetiva do título executivo sobre a qual se operou a coisa julgada, decidir em sentido contrário, afastando a ocorrência de tal limitação, pressupõe o reexame do conjunto fático-probatório, o que é vedado, por força da Súmula 7/STJ. Precedentes.
+4. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado n. 3/2016/STJ.
+O agravo interno não merece prosperar.
+Com efeito, não houve a alegada violação do artigo 1.022 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não
+havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+Na espécie, o acórdão integrativo consignou, à fl. 287, no tocante a alegada omissão, que:
+(..)
+No título judicial formado na ação coletiva n. 97.0002762-7 (docs. 746911 e 746915) ajuizado por IvanNunes de Siqueira Campos e o Sindicato dos Técnicos do Tesouro Nacional  SINDTTEN , o dispositivo da sentença assim ficou expresso:
+À vista das razões declinadas, julgo procedente o pedido, condenando a ré a pagar ao autor van Nunes Siqueira e aos filiados do Sindicato dos Técnicos do Tesouro Nacional (que não participem de outros processos de idêntico pedido) as diferenças existentes no período de fev/1993 a jan/1995,correspondentes à incidência do percentual dos 30%, não sobre a RAV efetivamente paga aos AFTN"s,mas sobre a RAV aos mesmos atribuída.
+A apelação e a remessa oficial da União foram improvidas (doc 746921.) RE 458.166-3 sem seguimento e REsp 677939 improvido (doc. 746923).
+Ou seja, os legitimados para executar o título judicial em destaque devem ser filiados ao Sindicato dos Técnicos do Tesouro Nacional, na data da propositura da ação, que ocorrera em 21 de março de 1997(doc. 780349), conforme previsão no decisório judicial transitado em julgado.
+Nos comprovantes de rendimentos do exequente-apelado juntados aos autos (com local de exercício/localização DRF- LONDRINA), a partir de junho de 1995, não há mais a rubrica mensalidade -SINDTTEN, além de se limitar tal documentação até o mês julho de 1995. Destarte, como não ficou provado que o exequente era filiado ao SINDTTEN na data da propositura da ação coletiva exequenda, falta-lhe legitimidade ativa executória.
+Desnecessário, portanto, qualquer esclarecimento ou complemento ao que já decidido pela Corte de origem, pelo que se afasta a ofensa ao artigo 1.022 do CPC/2015.
+Ademais, quanto ao mérito, a decisão agravada não merece reforma.
+Isso porque o acórdão recorrido concluiu que os legitimados para executar o título judicial em destaque devem ser filiados ao Sindicato dos Técnicos do Tesouro Nacional, na data da propositura da ação, que ocorrera em 21 de março de 1997(doc. 780349), conforme previsão no decisório judicial transitado em julgado. (fl. 287)
+No caso, há expressa afirmação no acórdão recorrido acerca da limitação dos beneficiários da ação coletiva no título executivo transitado em julgado, razão pela qual o entendimento do Tribunal de origem se encontra em consonância com a jurisprudência do STJ de que "a entidade sindical tem ampla legitimidade para defender os interesses da respectiva categoria dos substituídos, estejam eles nominados ou não em listagem seja para promover a ação de conhecimento ou mesmo a execução do julgado, porquanto representa toda a categoria que congrega, à exceção de expressa limitação dos beneficiários pelo título executivo, ocasião em que deve ser respeitada a coisa julgada." (AgInt no REsp 1586726/BA, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 9/5/2016).
+Tendo o Tribunal de origem reconhecido a existência de limitação subjetiva do título executivo sobre a qual se operou a coisa julgada, decidir em sentido contrário, afastando a ocorrência de tal limitação, pressupõe o reexame do conjunto fático-probatório, o que é vedado, por força da Súmula 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA PROFERIDA EM AÇÃO COLETIVA AJUIZADA PELO SINDICATO NACIONAL DOS TÉCNICOS DA RECEITA FEDERAL - SINDTTEN. LIMITAÇÃO. COISA JULGADA. SÚMULA 7/STJ.
+1. A jurisprudência do Superior Tribunal de Justiça entende que, havendo o Tribunal a quo reconhecido a existência de limitação subjetiva do título executivo sobre a qual se operou a coisa julgada, decidir em sentido contrário, afastando a ocorrência de tal limitação, pressupõe reexame do conjunto fático-probatório, o que é vedado por força da Súmula 7/STJ. Precedentes.
+2. A impugnação da Súmula 7/STJ pressupõe estrutura argumentativa específica, indicando-se as premissas fáticas admitidas como verdadeiras pelo Tribunal de origem, a qualificação jurídica atribuída pelo Tribunal de origem e a apreciação jurídica que lhes deveria ter sido realmente atribuída. O recurso daí proveniente deveria se esmerar em demonstrar efetivamente que a referida súmula não se aplica ao caso concreto, e não em simplesmente reiterar o Recurso Especial. Precedentes.
+3. A incidência da Súmula 7 do STJ é óbice também para a análise do dissídio jurisprudencial, impedindo o conhecimento do recurso pela alínea "c" do permissivo constitucional (AgInt no AREsp 964.391/SP, Rel. Min. Ricardo Villas Bôas Cueva, Terceira Turma, DJe 21.11.2016).
+4. Não há que falar em sobrestamento do feito, uma vez que as alegações da agravante apenas apontam para iminência de encaminhamento de IRDR ao STJ, inexistindo, portanto, ordem de sobrestamento. Não obstante, ainda que houvesse afetação da tese via Recurso Representativo de Controvérsia, essa não implicaria o sobrestamento dos processos em curso no STJ, mas apenas aqueles em trâmite nos Tribunais de origem; e não se aplicariam ao caso em tela, em que há incidência de óbice sumular ao conhecimento do Recurso Especial.
+5. Agravo Interno não provido.
+(AgInt no REsp n. 2.019.640/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. AÇÃO COLETIVA. SINDICATO. TÍTULO EXECUTIVO. LIMITAÇÃO SUBJETIVA. ANÁLISE. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. O STJ já se manifestou no sentido de que os sindicatos e as associações, na condição de substitutos processuais, têm legitimidade para atuar judicialmente na defesa dos interesses coletivos de toda a categoria que representam. Por isso, caso a sentença coletiva não tenha uma delimitação expressa dos seus limites subjetivos, a coisa julgada advinda da ação coletiva deve alcançar todas as pessoas da categoria e não apenas os filiados.
+2. No caso, o Tribunal de origem entendeu pela legitimidade ativa da parte exequente, ao concluir que o título executivo não limitou o benefício aos filiados do sindicato. Assim, a alteração das conclusões adotadas pela Corte de origem, a fim de que se entenda pela limitação subjetiva do título executivo, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Por fim, cumpre asseverar que "a listagem dos substituídos não se faz necessária na propositura da ação coletiva pelo Sindicato, sendo que a eventual juntada de tal relação não gera a limitação subjetiva da abrangência da sentença coletiva aos substituídos indicados."
+(AgInt no AREsp n. 1.412.264/SP, relator Ministro Manoel Erhardt, Desembargador Convocado do TRF5, Primeira Turma, julgado em 15/8/2022, DJe de 17/8/2022).
+4. Agravo interno não provido.
+(AgInt no REsp n. 2.005.449/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 9/11/2022, DJe de 14/11/2022.)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
