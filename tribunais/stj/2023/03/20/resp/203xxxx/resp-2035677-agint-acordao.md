@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/03/2023 a 20/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de agravo interno interposto por ELZA FERREIRA DE LIMA e ANTONIO HAMILTON RODRIGUES DE LIMA, contra decisão unipessoal que conheceu do agravo em recurso especial para conhecer do especial que interpuseram e negar-lhe provimento.
+Agravo em recurso especial interposto em: 13/12/2022.
+Concluso ao gabinete em: 22/2/2023.
+Ação: execução de título extrajudicial, ajuizada por BANCO DO BRASIL S/A em face de MASSA FALIDA DE OJG ALIMENTOS LTDA - ME, VITOR FERREIRA DE LIMA, HAMILTON RODRIGUES DE LIMA, ELZA FERREIRA DE LIMA, GABRIEL DO AMARAL SANTOS SALGADO e OSEIAS MOREIRA SILVA.
+Decisão interlocutória: indeferiu o pedido de penhora de valores diretamente na folha de pagamento dos executados.
+Acórdão: deu provimento ao agravo de instrumento interposto por BANCO DO BRASIL S/A, nos termos da seguinte ementa:
+CIVIL E PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. INDEFERIMENTO DO PEDIDO DE PENHORA DE VERBA DE NATUREZA SALARIAL. MITIGAÇÃO DO PRINCÍPIO DA IMPENHORABILIDADE DE VERBAS SALARIAIS. CONSTRIÇÃO JUDICIAL SOBRE PARCELA DA REMUNERAÇÃO DOS EXECUTADOS. OBSERVÂNCIA DO PRINCÍPIO DA DIGNIDADE DA PESSOA HUMANA. PRESERVAÇAO DE MONTANTE REMUNERATÓRIO QUE ASSEGURE SUBSISTÊNCIA DO DEVEDOR E DE SUA FAMÍLIA. ORDEM DE PREFERÊNCIA PARA REALIZAÇAO DE PENHORA. NECESSIDADE DE OBSERVÂNCIA NO CASO CONCRETO.
+1. A impenhorabilidade da verba salarial, prevista no artigo 833 do CPC, encontra assento no princípio constitucional da dignidade da pessoa humana (artigo 1º, inciso III, da CF/1988).
+2. Consoante o entendimento jurisprudencial que vem se consolidando no âmbito do colendo Superior Tribunal de Justiça e desta egrégia Corte, a impenhorabilidade de verba salarial não ostenta natureza absoluta, devendo ser admitida a constrição judicial, observados o princípio da dignidade do devedor como pessoa humana e a preservação do mínimo existencial destinado ao custeio da sua subsistência e de sua família.
+2.1. Sopesadas as circunstâncias fáticas que permeiam a solução do litígio, e prestigiada a efetividade do processo de execução e, ao mesmo tempo, a necessidade de preservação da dignidade dos devedores, mostra-se evidenciada a possibilidade de penhora de 20% (vinte por cento) da remuneração auferida pelos executados, porquanto não se observa risco de comprometimento de sua subsistência.
+3. A despeito da necessidade de que a execução seja promovida pelo modo menos gravoso para o executado, a penhora deve recair sobre bem que ofereça maior eficácia para a satisfação da obrigação, observada a ordem de preferência prevista no artigo 835 do Código de Processo Civil.
+3.1. Havendo possibilidade de penhora de dinheiro em espécie ou de valores depositados em instituição financeira, não há como ser imposta ao credor a obrigação de aceitar outros bens para fins de garantia de pagamento da dívida, quando não houver justificativa para a inversão da ordem de preferência estabelecida pelo artigo 835 do Código de Processo Civil.
+4. Agravo de Instrumento conhecido e provido. (e-STJ fls. 184-208)
+Embargos de declaração: opostos por GABRIEL DO AMARAL SANTOS SALGADO, ELZA FERREIRA DE LIMA e ANTONIO HAMILTON RODRIGUES DE LIMA, foram rejeitados.
+Recurso especial: alega violação dos arts. 1.022 do CPC/15 e 422 do CC/02 e 10º da Lei nº 10.741/2003. Aduz a impenhorabilidade absoluta de salários e proventos de aposentadoria. Sustenta "afronta ao dever de boa-fé contratual diante de conduta apta a gerar uma dívida eterna e impagável e violação da obrigação do Estado de assegurar à pessoa idosa a liberdade, o respeito e a dignidade e salvaguardá-lo de qualquer tratamento desumano, vexatório ou constrangedor" (e-STJ fls. 317-329).
+Decisão da Presidência do TJDFT: inadmitiu o recurso especial.
+Agravo em recurso especial: reitera as razões anteriormente apresentadas.
+Decisão unipessoal: conheceu do agravo em recurso especial para conhecer do especial e, no mérito, negar-lhe provimento.
+Agravo interno: insurge-se em relação à incidência da Súmula 7/STJ. Refere que não restou devidamente enfrentada a seguinte questão: "se o ordenamento jurídico vigente permite a submissão do devedor a uma dívida de cunho eterno, uma vez que os valores penhorados não são suficientes para pagar sequer os encargos acessórios da dívida, tratando-se de dívida impagável". Frisa que a penhora não pode recair única e exclusivamente para solver parcelas acessórias da dívida principal. Requer a reforma da decisão unipessoal.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. IMPENHORABILIDADE DOS VENCIMENTOS. REGRA GERAL. POSSIBILIDADE DE FLEXIBILIZAÇÃO A DEPENDER DA HIPÓTESE CONCRETA. PRESERVAÇÃO DA DIGNIDADE DO DEVEDOR E DE SUA FAMÍLIA. MÍNIMO EXISTENCIAL. JURISPRUDÊNCIA DESTA CORTE. TRIBUNAL DE ORIGEM QUE DECIDIU PELA PENHORA DE PERCENTUAL DE SALÁRIO DO DEVEDOR EM ATENÇÃO AO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Execução de título extrajudicial.
+2. A jurisprudência desta Corte se firmou no sentido de que a regra geral de impenhorabilidade de salários e demais vencimentos (art. 649, IV, do CPC/73, correspondente ao art. 833, IV, do CPC/15) pode ser excepcionada quando for preservado percentual capaz de dar guarida à dignidade do devedor e de sua família (EREsp 1.582.475/MG, Corte Especial, DJe 16/10/2018).
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. Agravo interno não provido.
+VOTO
+Pela análise das razões recursais apresentadas, verifica-se que os agravantes não trouxeram qualquer argumento capaz de ilidir os fundamentos da decisão agravada.
+1. Da ausência de violação do art. 1.022 do CPC/15
+Conforme mencionado na decisão unipessoal, é firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte. A propósito, confira-se: AgInt no REsp 1.726.592/MT, 3ª Turma, DJe 31/8/2020; e AgInt no AREsp 1.518.178/MG, 4ª Turma, DJe 16/3/2020.
+No particular, a decisão agravada e o acórdão recorrido estão em consonância com a jurisprudência desta Corte, a qual se firmou no sentido de que a regra geral de impenhorabilidade de salários e demais vencimentos (art. 649, IV, do CPC/73, correspondente ao art. 833, IV, do CPC/15) pode ser excepcionada quando for preservado percentual capaz de dar guarida à dignidade do devedor e de sua família (EREsp 1.582.475/MG, Corte Especial, DJe 16/10/2018).
+No ponto, o Tribunal de origem, em atenção ao acervo fático-probatório dos autos, assentou que:
+"Outrossim, a recusa de bens à penhora pelo embargado não afronta a boa-fé contratual (art. 422 do Código Civil) e tampouco a dignidade da pessoa humana, especificamente do idoso (art. 10 da Lei n. 10.741/03 e art. 1º, inciso III, da Constituição Federal), pois, conforme explicitado no v. acórdão recorrido, a penhora em dinheiro tem preferência na ordem de constrição judicial, por força dos ditames do art. 835, inciso I, e § 1º, do Código de Processo Civil. Desse modo, na possibilidade de penhora parcial da remuneração dos devedores, não há necessidade de aceitação de bens à penhora pelo credor" (ID Num. 35813466 - Pág. 11) (..)
+Com estes argumentos, fora assentado o entendimento de que a penhora de 20% (vinte por cento) da remuneração auferida pelos agravantes GABRIEL, ANTONIO e ELZA não seria apta a comprometer as suas subsistências, assim como de suas famílias, uma vez que representa forma menos gravosa para o cumprimento da obrigação que está a cargo dos devedores e para a qual não têm apresentado solução viável de pagamento" (ID Num. 35813466 - Pág. 11)." (e-STJ fl. 284) (grifou-se)
+Acrescente-se, ainda, a pertinente observação realizada pelo TJDFT sobre a irresignação dos agravantes:
+"Ademais, é preciso assinalar que o fato de o montante da penhora ser suficiente para amortizar parte ínfima da dívida executada, não representa óbice à constrição judicial, uma vez que servirá para evitar o aumento progressivo do saldo devedor, em decorrência da incidência dos encargos moratórios" (e-STJ fl. 198).
+Por fim, reit era-se que alterar o decido no acórdão impugnado exige o reexame de fatos e provas, o que é vedado em recurso especial pela incidência da Súmula 7/STJ.
+Logo, deve ser mantida a decisão monocrática que, no mérito, desproveu o recurso especial.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno no recurso especial.
