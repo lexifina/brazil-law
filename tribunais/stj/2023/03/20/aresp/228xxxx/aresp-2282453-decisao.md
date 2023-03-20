@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo manejado pelo INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS, contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, "a" e "c", da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado da Bahia, assim ementado (fls. 173/174):
+DIREITO PREVIDENCIÁRIO. AUXÍLIO-ACIDENTE. VALORAÇÃO DA PERÍCIA JUDICIAL À LUZ DOS DEMAIS ELEMENTOS PROBATÓRIOS CONSTANTES DOS AUTOS REQUISITOS PARA A CONCESSÃO DO AUXÍLIO-ACIDENTE:COMPROVAÇÃO DO NEXO DE CAUSALIDADE E DA REDUÇÃO PARCIAL DA CAPACIDADE DO SEGURADO PARA O TRABALHO. DESNECESSIDADE DE QUE A MOLÉSTIA INCAPACITANTE SEJA IRREVERSÍVEL. RECURSO PROVIDO EM PARTE. AÇÃO JULGADA PROCEDENTE EM PARTE. APELO PROVIDO EM PARTE.
+I- O art. 19,daLeinº8.213/1991,caracteriza o acidente de trabalho como sendo o que"ocorre pelo exercício do trabalho a serviço da empresa ou pelo exercício do trabalho dos segurados(..),provocando lesão corporal ou perturbação funcional que cause a morte ou a perda ou redução, permanente o temporária, da capacidade para o trabalho", como ocorre no caso em testilha.
+II- Prova pericial produzida em Juízo que atesta a existência de limitação, mas conclui pela ausência de incapacidade e pelo sucesso do transplante de córnea. Necessidade de valoração da prova pericia là luz dos demais elementos probatórios constantes dos autos.
+II-Nos termos do art.86, da Lei nº8.213/91, para que seja concedido o auxílio-acidente, é necessário que o segurado empregado ,exceto o doméstico, o trabalhador avulso e o segurado especial (art.18,§1ºda Lei nº8.213/91),tenha redução da sua capacidade laborativa em decorrência de acidente de qualquer natureza, sendo irrelevante, de acordo com a legislação de regência, a possibilidade de reversão da doença. Precedentes
+IV- (..).
+Opostos embargos de declaração, foram parcialmente acolhidos (fl. 191)
+Aponta a recorrente, nas razões do apelo especial, além de divergência jurisprudencial, violação aos arts. 141, 492, 489, II, 1.013, § 1º e 1.022, II, do CPC. Sustenta negativa de prestação jurisdicional, bem como a ocorrência de julgamento extra/ultra petita, na medida em que "o acórdão recorrido concedeu o que não foi requerido" (fl. 222)
+Aduz que o "acórdão recorrido acabou por inovar a lide, DE OFÍCIO, condenou o INSS à concessão do auxílio-acidente, desde a data da cessação do auxílio-doença (dcb: NB 538.773.872-1 : 10/06/2010), a despeito de a pretensão deduzida pela parte autora ter requerido desde a data do ajuizamento da ação 08/08/2011(vide recurso de apelação), em flagrante violação ao quanto disposto nos artigos 141 e 492, do NCPC/2015" (fl. 221).
+Ao final, "requer seja conhecido e provido o presente Recurso especial para que seja reconhecida isenção da Autarquia Federal Previdenciária do pagamento de custas processuais, por força de isenção estabelecida em lei Estadual" (fl. 228).
+Devidamente intimada, a parte recorrida apresentou contrarrazões ao recurso especial, conforme petição de fls. 256/261.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO
+No presente caso, a Autarquia Federal, nas razões dos embargos de declaração, requereu expressamente ao Tribunal a quo que se manifestasse a respeito da seguinte questão, verbis (fls. 185/186):
+4- DIB DO BENEFÍCIO DE AUXÍLIO-ACIDENTE
+O benefício do autor foi julgado procedente para determinar a concessão do benefício auxílio-acidente desde a data da cessação do benefício de auxílio-doença.
+Contudo, o pedido da parte autora é claro ao requerer a concessão do benefício de Auxílio-acidente desde a data do ajuizamento da ação, reconhecida a inovação do pedido, em face do princípio da fungibilidade.
+Assim, verifica-se que a decisão embargada foi absolutamente extra/ultra petita no que tange à determinação de concessão do benefício desde a cessação do benefício de auxílio-doença anterior.
+Data máxima venia, o juiz deverá conhecer e decidir somente o que lhe for levado pelas partes, não lhe cabendo defesa de interesse do autor em detrimento do réu.
+Portanto, o acórdão embargado concedeu o que não foi requerido, em manifesta violação da lei processual, e com clara violação ao disposto nos artigos 141 e 492 do Código de Processo Civil/2015, que assim dispõem:
+(..).
+Ressalte-se, que o Superior Tribunal de Justiça entende cabíveis embargos de declaração para corrigir decisão extra ou ultra petita .
+(..)
+Pelo exposto, requer seja suprido o vício apontado, com efeitos modificativos, para que seja determinada a concessão do benefício de auxílio acidente desde a data do ajuizamento da ação.
+Caso não seja acolhido o pedido anterior, requer seja suprida a omissão do v. acórdão para estabelecer a concessão do benefício de auxílio-acidente desde a data da cessação do benefício de auxílio doença (NB 538.773.871-2), evitando problemas futuros na fase de cumprimento da sentença.
+5. DA CONDENAÇÃO EM CUSTAS
+No que concerne à condenação do INSS ao pagamento de custas judiciais, o acórdão ora embargado padece, data maxima venia, de omissão.
+Isto porque Lei Estadual nº 12.373/2011, em seu artigo 5º isenta a autarquia federal do pagamento das taxas estaduais no âmbito do Poder Judiciário da Bahia, nos seguintes termos:
+(..).
+Assim, revela-se, data venia, omisso o acórdão embargado, na medida em que não afasta a condenação da autarquia embargante ao pagamento de custas judiciais, quando há disposição expressa de lei estadual, isentando-a de tal obrigação.
+Entretanto, a Corte de origem não se pronunciou sobre esses pontos. Com efeito, sabe-se que às Cortes Superiores, em sede de recursos de natureza extraordinária, não é dado reexaminar o contexto fático da causa, cuja moldura definitiva deve provir das instâncias ordinárias. Daí a razão de ser das Súmulas 7/STJ e 279/STF.
+Em tal cenário, o recurso de embargos declaratórios ganha distinguido relevo nos tribunais locais, que, por meio da súplica integrativa, podem colmatar os contornos da controvérsia suprindo omissões relacionadas à apreciação e valoração de fatos que, embora relevantes, tenham sido desconsiderados na decisão embargada.
+Por isso, e com razão, Tereza Arruda Alvim Wambier enfatiza que "cabe à parte, exercendo legitimamente sua atividade de prequestionar, i.e., fazer constar da decisão a questão federal ou a questão constitucional, pleitear do órgão a quo que faça também constar do acórdão circunstâncias fáticas aptas a demonstrar, pela mera leitura da decisão recorrida, que a solução normativa pela qual se optou na decisão impugnada (pela via do recurso extraordinário ou do recurso especial) está equivocada, estando-se, pois, assim, em face de uma ilegalidade ou de uma inconstitucionalidade" (Embargos de declaração e omissão do juiz. 2. ed. ampl. São Paulo: RT, 2014, p. 215).
+Na espécie, a pretensão recursal merece acolhida pelo art. 1.022, II, do CPC, porquanto não prestada a jurisdição de forma integral, uma vez que a instância ordinária, mesmo instada a fazê-lo, quedou silente, rejeitando os pertinentes embargos declaratórios, limitando-se apenas a afirmar a inexistência de qualquer omissão quanto à questão apresentada.
+ANTE O EXPOSTO, conheço do agravo e dou provimento ao recurso especial, a fim de determinar o retorno dos autos ao Tribunal de origem para que, em novo julgamento dos embargos de declaração, manifeste-se sobre a questão levantada pelo INSS.
+Publique-se.
