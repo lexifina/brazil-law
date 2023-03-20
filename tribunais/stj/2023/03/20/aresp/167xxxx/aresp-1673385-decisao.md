@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em virtude da incidência da Súmula n. 282/STF (e-STJ fls. 329/330).
+O acórdão recorrido está assim ementado (e-STJ fls. 272/273):
+EMENTA: APELAÇÃO CÍVEL. AÇÃO DE RESCISÃO CONTRATUAL C/C RESTITUIÇÃO DE PARCELAS PAGAS E PERDAS E DANOS. PROMITENTE VENDEDOR. LEGITIMIDADE PASSIVA. DEVER DE RESTITUIR. AUSÊNCIA DE REPASSE DOS VALORES PELA IMOBILIÁRIA. AÇÃO PRÓPRIA. DESISTÊNCIA DO PROMITENTE COMPRADOR. PERCENTUAL DE RETENÇÃO. INCIDÊNCIA SOBRE OS VALORES PAGOS. HONORÁRIOS SUCUMBENCIAIS. MAJORAÇÃO. 1. Comprovada a relação jurídica existente entre as partes, que firmaram Instrumento Particular de Compromisso de Venda e Compra, figurando o requerido/apelante como compromissário vendedor, possui legitimidade para integrar o polo passivo da causa e, por conseguinte, ser compelido a restituir, em caso de procedência do pedido, os valores pagos pelos promitentes compradores/apelados. 2. Tendo a imobiliária recebido os valores, a eventual ausência de repasse para o vendedor/apelante deve ser discutida e decidida em ação própria. 3. Reconhecida a rescisão do compromisso de compra e venda por simples desistência do promitente comprador, impõe-se a devolução dos valores pagos, em parcela única, com a retenção de percentual destinado à indenização do promitente vendedor. 4. O percentual de retenção, pelo vendedor, arbitrado no decisum hostilizado, qual seja, 20% (vinte por cento) dos valores pagos, está condizente com as peculiaridades do caso concreto e com os parâmetros aceitos pela jurisprudência. 5. Em atenção ao disposto no artigo 85, § 11, do CPC/2015, devem os honorários: sucumbenciais serem majorados de 10% (dez por cento) para 12% (doze por cento) sobre o valor da condenação. APELAÇÃO CÍVEL CONHECIDA E DESPROVIDA.
+No especial (e-STJ fls. 280/302), fundamentado no art. 105, III, "a", da CF, o recorrente alegou violação dos arts. 462 a 466 do CC/2002 e 14 do CDC.
+Pontuou não ter recebido da parte recorrida qualquer valor, bem como destacou não ser responsável pela "não realização do financiamento imobiliário o que acabou por rejudicar a perfectbilização do negócio jurídico" (e-STJ fl. 290).
+Aduziu que "restou expressamente estipulado no contrato celebrado entre as partes que a parte que desistisse do negócio jurídico, teria que arcar com uma multa de 20% (VINTE POR CENTO) SOBRE O VALOR DO CONTRATO, consoante a Cláusula Quarta" (e-STJ fl. 296).
+Defendeu não haver valores à serem restituído à parte recorrida.
+No agravo (e-STJ fls. 334/355), afirmo a presença de todos os requisitos de admissibilidade do especial.
+É o relatório.
+Decido.
+Os arts. 462 a 466 do CC/2002 e 14 do CDC não foram examinados pelo Tribunal de origem, estando ausente o requisito do prequestionamento. Aplicável, portanto, a Súmula n. 282/STF.
+Além disso, a parte recorrente não esclareceu de que forma os dispositivos legais teriam sido violado pelo Tribunal de origem, incidindo a Súmula n. 284/STF.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
