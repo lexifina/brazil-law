@@ -1,0 +1,71 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/03/2023 a 20/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Sebastião Reis Júnior, Rogerio Schietti Cruz e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por THANKGOD UKASON PRINCE ONUEGBU e THABO SIMON MODUBU contra decisão monocrática na qual conheci do agravo par não conhecer do recurso especial.
+Depreende-se dos autos que os agravantes foram condenados, como incursos nas sanções do art. 33, caput, c/c o artigo 40, I, ambos da Lei n. 11.343/2006, às penas de 6 anos, 3 meses e 25 dias, no regime semiaberto (THANKGOD), e 5 anos e 10 meses de reclusão, no regime semiaberto (THABO), em decorrência da apreensão de aproximadamente 8.700g (oito quilos e setecentos gramas) de cocaína (e-STJ fl. 531).
+A apelação defensiva foi parcialmente provida para reduzir a pena de THANKGOD para 5 anos e 10 meses de reclusão e para revogar as prisões preventivas dos ora agravantes.
+Irresignada, a defesa interpôs recurso especial no qual requereu a aplicação da minorante prevista no art. 33 da Lei n. 11.343/2006.
+Inadmitido o recurso na origem, os autos subiram a esta Corte Superior por força de agravo.
+Instado a se manifestar, o Ministério Público Federal opinou pelo desprovimento do recurso (e-STJ fls. 685/692).
+Nesta oportunidade, a defesa reitera os fundamentos deduzidos na inicial do writ, requerendo, desse modo, a reconsideração da decisão agravada ou, caso contrário, a submissão da matéria ao colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. DOSIMETRIA. MINORANTE DO ART. 33, § 4º, DA LEI N. 11.343/2006. NÃO APLICAÇÃO. DEDICAÇÃO DOS RÉUS A ATIVIDADES CRIMINOSAS. FUNDAMENTAÇÃO IDÔNEA. REVOLVIMENTO DAS PROVAS. INVIABILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. De acordo com o disposto no art. 33, § 4º, da Lei de Drogas, o agente poderá ser beneficiado com a redução de 1/6 (um sexto) a 2/3 (dois terços) da pena, desde que seja, cumulativamente, primário e portador de bons antecedentes e não se dedique a atividades criminosas nem integre organização criminosa.
+2. Na espécie, as instâncias de origem, respeitando os critérios legais e, ainda, observando os pormenores da situação concreta, entenderam, deduzindo fundamentação idônea - baseada no históric o de viagens internacionais injustificadas e por curto período de tempo -, que existiam nos autos provas bastantes a evidenciar a dedicação dos agravantes a atividades criminosas.
+3. Nesse contexto, a desconstituição dos fatos adotados na origem demandaria ampla incursão no acervo fático-probatório dos autos, providência incompatível com via eleita, conforme o disposto na Súmula n. 7/STJ.
+4. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Objetiva a defesa a aplicação do redutor previsto no art. 33, § 4º, da Lei de Drogas em favor dos agravantes, sob o argumento da ausência de comprovação da dedicação deles às atividades criminosas.
+Conforme consignei na decisão ora agravada, e nos termos do aludido dispositivo legal, o agente poderá ser beneficiado com a redução de 1/6 a 2/3 da pena, desde que seja primário, portador de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa.
+Esclareci que o benefício descrito no art. 33, § 4º, da Lei n. 11.343/2006 tem como destinatário o pequeno traficante, ou seja, aquele que inicia sua vida no comércio ilícito de entorpecentes, muitas das vezes até para viabilizar seu próprio consumo, e não para os que, comprovadamente, fazem do crime seu meio habitual de vida.
+A respeito do tema, transcrevi o seguinte trecho do acórdão recorrido (e-STJ fls. 532/541):
+1. Da dosimetria da pena de THANKGOD UKASON PRINCE ONUEGBU.
+ ..
+No caso em tela, embora o acusado seja primário e não apresente maus antecedentes, há sérios indícios de que o réu se dedique às atividades delituosas e/ou que integre organização criminosa, de forma que não faz jus à benesse do §4º, do artigo 33 da Lei de Drogas.
+Com efeito, em sua tese defensiva, o réu alegou que passava por dificuldades financeiras em razão da pandemia. Todavia, constam nos autos 3 (três) movimentos migratórios desde o ano de 2019, sendo viagens com grandes deslocamentos e curto tempo de duração, permanecendo, ainda, o réu por pouco tempo em cada um dos locais aonde esteve, características costumeiras de "mulas" na dinâmica do tráfico internacional de drogas.
+Deveras, é incompatível a incidência da referida minorante, aplicável somente quando o caso concreto se tratar de um fato isolado ou esporádico na vida do réu ou quando as provas carreadas não forem aptas a demonstrar ter ele se envolvido em fatos criminosos anteriores, o que não é o caso destes autos.
+Assim, resta evidente que a aplicação da causa minorante nesse caso acarretaria evidente proteção deficiente, que terminaria por estimular novas práticas da mesma natureza.
+2. Da dosimetria da pena de THABO SIMON MODUBU.
+ ..
+No caso em tela, embora o acusado seja primário e não apresente maus antecedentes, há sérios indícios de que o réu se dedique às atividades delituosas e/ou que integre organização criminosa, de forma que não faz jus à benesse do §4º, do artigo 33 da Lei de Drogas.
+Com efeito, o réu Thabo viajou 3 (três) vezes para o exterior desde 15.02.2020 (Id. 53450768), o que é incompatível com a alegação de dificuldades financeiras. Destaque-se que duas das viagens foram durante a pandemia, e esta é utilizada pelo corréu como justificativa para seus problemas financeiros. Assim, a explicação para a realização das viagens não é verossímil.
+Deveras, é incompatível a incidência da referida minorante, aplicável somente quando o caso concreto se tratar de um fato isolado ou esporádico na vida do réu ou quando as provas carreadas não forem aptas a demonstrar ter ele se envolvido em fatos criminosos anteriores, o que não é o caso destes autos.
+Assim, resta evidente que a aplicação da causa minorante nesse caso acarretaria evidente proteção deficiente, que terminaria por estimular novas práticas da mesma natureza.
+Concluí que, no caso, as instâncias ordinárias deduziram fundamentação idônea - baseada no histórico de viagens internacionais injustificadas -, apta a justificar a dedicação dos agravantes à atividade criminosa, e, por isso, afastaram a aplicação da suscitada minorante.
+Confiram-se:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO TRANSNACIONAL DE DROGAS. REDUTOR DO ART. 33, § 4º, DA LEI N. 11.343/2006. NÃO INCIDÊNCIA. DEDICAÇÃO À ATIVIDADE DELITUOSA. REEXAME FÁTICO-PROBATÓRIO. SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Nos termos da jurisprudência desta Corte Superior, "a atuação como transportador de droga, aliada à presença de elementos que demonstram, concretamente, a vinculação com organização criminosa, é fundamento idôneo para afastar a redução aqui pleiteada." (AgRg no AREsp 736.510/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 27/04/2017, DJe 10/05/2017).
+2. No caso, o Tribunal a quo consignou que, diante da "certidão de movimentos migratórios (ID nº 162164591), é possível verificar a existência de outras duas viagens ao exterior em um intervalo de tempo menor de um ano, incompatível com a declarada condição financeira da ré, indicando que a acusada atua como traficante profissional e utiliza-se do transporte reiterado de drogas como meio de vida" (fl. 572).
+3. Entender de modo diverso e afastar a conclusão de que a agravante se dedicaria a atividades criminosas, seria necessário o revolvimento do conjunto fático-probatório amealhado durante a instrução criminal (Súmula n. 7 do STJ).
+4. Agravo regimental não provido.
+(AgRg no AREsp n. 2.082.823/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 17/5/2022, DJe de 19/5/2022, grifei.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. EXACERBAÇÃO DA PENA-BASE. QUANTIDADE DOS ENTORPECENTES. AUMENTO PROPORCIONAL. PLEITO DE RECONHECIMENTO DO TRÁFICO PRIVILEGIADO. REVOLVIMENTO FÁTICO-PROBATÓRIO. SÚMULA 7 DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A individualização da pena é uma atividade em que o julgador está vinculado a parâmetros abstratamente cominados pela lei, sendo-lhe permitido, entretanto, atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, ressalvadas as hipóteses de manifesta ilegalidade ou arbitrariedade, é inadmissível às Cortes Superiores a revisão dos critérios adotados na dosimetria da pena.
+2. Na hipótese, a Corte local, atenta às diretrizes do art. 42 da Lei de Drogas, considerou a quantidade e natureza dos entorpecentes apreendidos - mais de 10 quilos de cocaína - para elevar a sanção inicial em 2 anos e 6 meses de reclusão. Assim, tendo sido apresentados elementos idôneos para a majoração da reprimenda básica, elencados inclusive como circunstâncias preponderantes, e levando-se em conta as penas mínima e máxima abstratamente cominadas ao referido delito (5 a 15 anos), não se mostra desarrazoado o aumento operado pela instância ordinária, a autorizar a intervenção excepcional desta Corte. Precedentes.
+3. A teor do disposto no § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas.
+4. Na falta de parâmetros legais para se fixar o quantum dessa redução, os Tribunais Superiores decidiram que a quantidade e a natureza da droga apreendida, além das demais circunstâncias do art. 59 do CP, podem servir para a modulação de tal índice ou até mesmo para impedir a sua aplicação, quando evidenciarem o envolvimento habitual do agente com o narcotráfico (HC 401.121/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 27/6/2017, DJe 1/8/2017 e AgRg no REsp 1.390.118/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 23/5/2 017, DJe 30/5/2017).
+5. In casu, a instância antecedente justificou a não incidência da minorante com fundamento nas circunstâncias do caso concreto, na medida em que o recorrente estaria envolvido em atividades criminosas. Cumpre registrar que com ele foram apreendidos mais de 10 kg de cocaína, quando planejava embarcar para o exterior. Ademais, desde 2018, realizou 18 viagens internacionais de curta duração, e, somente no ano de 2020, viajou ao exterior 4 vezes (durante a pandemia da Covid- 19), não comprovando trabalho lícito.
+6. Ademais, "o Tribunal a quo assinalou, com base no exame das provas amealhadas aos autos, que as circunstâncias que envolviam o traslado do entorpecente, notadamente o histórico de viagens internacionais injustificadas, permitiam concluir que o réu integrava associação voltada ao comércio espúrio" (AgRg no AREsp 1.724.008/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 9/3/2021, DJe 17/3/2021).
+7. Desse modo, para modificar o entendimento adotado nas instâncias inferiores de que a prática do tráfico de drogas e a dedicação em atividade criminosa estão configuradas e aplicar a minorante prevista na Lei de Drogas, seria necessário reexaminar o conteúdo probatório dos autos, o que é inadmissível, a teor da Súmula 7 do STJ. Precedentes.
+8. Agravo regimental não provido.
+(AgRg no AREsp n. 2.119.210/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/8/2022, DJe de 10/8/2022, grifei.)
+Registrei, ainda, que a desconstituição dos fatos adotados pelas instâncias originárias demandaria ampla incursão no acervo fático-probatório dos autos, providência incompatível com via eleita, conforme o disposto na Súmula n. 7/STJ.
+Nesse sentido:
+PENAL E PROCESSO PENAL.  ..  DOSIMETRIA. PENA-BASE ACIMA DO MÍNIMO LEGAL. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. INEXISTÊNCIA DE ILEGALIDADE. OFENSA AO ART. 33, § 4º, DA LEI Nº 11.343/06. CAUSA DE DIMINUIÇÃO DE PENA. APLICAÇÃO. REEXAME DE MATÉRIA FÁTICA. VEDAÇÃO. SÚMULA 7/STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.  ..
+10. "Concluído pelo Tribunal de origem, soberano na análise dos fatos, que o recorrente se dedica ao tráfico de drogas e vinha fazendo dele um meio de vida, a modificação desse entendimento - a fim de fazer incidir a minorante do art. 33, § 4º, da Lei de Drogas - ensejaria o reexame do conteúdo probatório dos autos, inadmissível em recurso especial (Súmula 7/STJ)". (AgRg no AREsp 980.386/SP, Rel. Min. RIBEIRO DANTAS, QUINTA TURMA, DJe 17/03/2017)
+11. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 1096754/MG, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 3/8/2017, DJe 14/8/2017, grifei.)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL E PROCESSO PENAL. VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. TRÁFICO DE DROGAS. PLEITO DE ABRANDAMENTO DO REGIME PRISIONAL. ELEVADA QUANTIDADE DO ENTORPECENTE APREENDIDO. GRAVIDADE CONCRETA DO DELITO. FUNDAMENTAÇÃO IDÔNEA. EXECUÇÃO PROVISÓRIA DA PENA. CONDENAÇÃO APENAS EM SEGUNDO GRAU. POSSIBILIDADE. APLICAÇÃO DO REDUTOR PREVISTO NO ART. 33, § 4º, DA LEI N. 11.343/2006. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. SÚMULA 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+5. O Superior Tribunal de Justiça pacificou entendimento no sentido de ser inviável aferir em recurso especial se o acusado dedica-se ou não à atividade criminosa, para fins de aplicação da redutora do tráfico privilegiado, em face do óbice da Súmula 7 do STJ.
+6. Agravo regimental desprovido.
+(AgRg no REsp 1650865/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 22/8/2017, DJe 1º/9/2017, grifei.)
+À vista do exposto, nego provimento ao agravo regimental.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
