@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim ementado (fl. 350):
+APELAÇÃO CRIMINAL - RECURSO DO MINISTÉRIO PÚBLICO - TRÁFICO DE DROGAS - SENTENÇA ABSOLUTÓRIA - DOIS RÉUS - PEDIDO DE CONDENAÇÃO - ACOLHIMENTO EM RELAÇÃO A ALESSANDER - SUFICIÊNCIA DE PROVAS - ELEMENTOS QUE DEMONSTRAM A PRÁTICA DELITIVA PELO APELADO - PROVA FRÁGIL QUANTO À CONDUTA DE GISLAINE - ABSOLVIÇÃO MANTIDA - PARCIAL PROVIMENTO, EM PARTE COM O PARECER.
+Se os elementos de convicção carreados ao caderno processual são conclusivos, firmes e seguros sobre a materialidade e autoria do apelado Alessander quanto ao delito de tráfico de entorpecentes descrito na denúncia, deve ser reformada a sentença absolutória e decretada a condenação do acusado.
+De outro lado, se a prova é frágil e inconclusiva quanto à participação de Gislaine na infração penal descrita na peça acusatória, deve ser confirmada a sentença absolutória por insuficiência de provas, em consagração aos princípios do in dubio pro reo e da presunção da inocência.
+Consta dos autos que o paciente foi absolvido do crime descrito no art. 33, caput, da Lei n. 11.343/06.
+Interposta apelação pelo Ministério Público, o Tribunal de origem deu provimento ao recurso para condenar o paciente a 7 anos de reclusão, em regime inicial fechado, e pagamento de 700 dias-multa, como incurso no art. 33, caput, da Lei n. 11.343/06.
+No presente writ, aduz a defesa, em síntese, constrangimento ilegal em razão da existência de nulidade absoluta, uma vez que não houve a devida citação, sendo decretada a revelia do paciente.
+Aduz que "caso não seja acolhida a preliminar, no mérito, em razão das dúvidas surgidas durante a instrução processual, pela prova oral produzida em audiências, impõe-se a absolvição do réu, ora paciente" (fl. 8).
+Reitera que não há justa causa para a propositura da ação penal.
+Requer, liminarmente e no mérito, o trancamento da ação penal. Subsidiariamente, requer a revogação da prisão preventiva do paciente ou a sua substituição por medidas cautelares diversas da prisão.
+Deferida em parte a liminar, e prestadas informações, manifestou-se o Ministério Público Federal pelo não conhecimento do writ e, caso conhecido, pela denegação da ordem.
+Quanto à pretensão de trancamento da ação penal, ressalta-se que "Fica prejudicado o pedido de trancamento da ação penal com a superveniência de sentença condenatória, tendo em vista o disposto na Súmula 648/ STJ". (AgRg no HC n. 741.401/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 9/8/2022, DJe de 15/8/2022.)
+Outrossim, ressalta-se que no procedimento do habeas corpus não se permite a produção de provas, pois essa ação constitucional deve ter por objetivo sanar ilegalidade verificada de plano, não se fazendo possível aferir a materialidade e a autoria delitiva quando controversas. As alegações quanto a esse ponto, portanto, não devem ser conhecidas.
+No mais, não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+Sobre a prisão preventiva, consta do acórdão (fl. 359):
+ ..
+Conclusão
+Diante do exposto, em parte com o parecer, dou parcial provimento ao recurso de apelação interposto pelo Ministério Público Estadual, a fim de condenar o apelado Alessander Soares Maurício, qualificado nos autos, como incurso nas sanções do art. 33, caput, da Lei 11.343/2006.
+Fica o réu definitivamente condenado a 7 (sete) anos de reclusão, em regime inicial fechado, e pagamento de 700 (setecentos) dias-multa, à razão mínima.
+Deve ser aplicado ao caso o entendimento firmado pelo STF no julgamento de Repercussão Geral no Recurso Extraordinário com Agravo 964.246/SP, relatado pelo Ministro Teori Zavascki, julgado em 10 de novembro de 2016, determinando-se o início imediato do cumprimento da pena, pois, conforme referido precedente "a execução provisória de acórdão penal condenatório proferido em grau recursal, ainda que sujeito a recurso especial ou extraordinário, não compromete o princípio constitucional da presunção de inocência afirmado pelo artigo 5º, inciso LVII, da Constituição Federal."
+Assim, prevalecendo este voto, não havendo recursos especial ou extraordinário, baixem-se os autos à origem para o início da execução da pena.
+Por outro lado, esgotada a prestação jurisdicional nesta instância e havendo recursos aos Tribunais Superiores, oficie-se ao Juízo competente na origem para as providências legais para o início da execução provisória da pena, em conformidade com ARE 964.246-RG/SP, com as peças necessárias para esse fim.
+ ..
+O Supremo Tribunal Federal, no julgamento das Ações Declaratórias de Constitucionalidade 43, 44 e 54, declarou ser constitucional a norma processual que prevê o trânsito em julgado da condenação como condição para o início do cumprimento da pena imposta. Confira-se:
+PENA - EXECUÇÃO PROVISÓRIA - IMPOSSIBILIDADE - PRINCÍPIO DA NÃO CULPABILIDADE. Surge constitucional o artigo 283 do Código de Processo Penal, a condicionar o início do cumprimento da pena ao trânsito em julgado da sentença penal condenatória, considerado o alcance da garantia versada no artigo 5º, inciso LVII, da Constituição Federal, no que direciona a apurar para, selada a culpa em virtude de título precluso na via da recorribilidade, prender, em execução da sanção, a qual não admite forma provisória. (ADC 43, Relator(a): MARCO AURÉLIO, Tribunal Pleno, julgado em 07/11/2019, PROCESSO ELETRÔNICO DJe-270 DIVULG 11-11-2020 PUBLIC 12-11-2020)
+Ainda nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FALSIDADE IDEOLÓGICA E ADVOCACIA ADMINISTRATIVA. EXECUÇÃO PROVISÓRIA DAS PENAS RESTRITIVAS DE DIREITOS. INVIABILIDADE. AGRAVO NÃO PROVIDO.
+1. Em 8/11/2019, o Tribunal Pleno do STF concluiu o julgamento das Ações Declaratórias de Constitucionalidade n. 43, 44 e 54 e decidiu, por maioria de votos, que é constitucional a regra do Código de Processo Penal que prevê o esgotamento de todas as possibilidades de recurso (trânsito em julgado da condenação) para o início do cumprimento da pena. Assim, resta esvaziada a discussão sobre a execução antecipada das penas restritivas de direitos.
+2. Agravo regimental não provido. (AgRg no AREsp 1447338/ES, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 13/04/2021, DJe 16/04/2021).
+Como decorrência disso, a execução provisória da pena somente poderia ocorrer quando o condenado em primeira instância estivesse em prisão preventiva, o que não está configurado no presente caso, pois, conforme consta dos autos, o paciente foi absolvido pelo juízo de primeiro grau.
+Logo, a determ inação da execução provisória da pena fere os princípios da presunção de inocência e da individualização da pena, razão pela qual, não havendo notícia do trânsito em julgado da ação penal que tramita na origem, deve ser suspensa a prisão preventiva imposta ao paciente até o esgotamento de todos os recursos.
+Ante o exposto, concedo parcialmente o habeas corpus, para revogar a determinação de prisão do paciente antes do trânsito em julgado da condenação, devendo ser solto, se por outro motivo não estiver preso.
+Comunique-se.
+Publique-se.
+Intimem-se.
