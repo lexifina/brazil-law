@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por JOÃO SADIR DA SILVA FRANÇA contra acórdão do Tribunal Regional Federal da 4ª Região assim ementado (e-STJ fl. 51):
+PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS.REVOGAÇÃO DE SUSPENSÃO CONDICIONAL DO PROCESSO.REJEIÇÃO LIMINAR DE HABEAS CORPUS (ART. 148 DO RITRF4).SUCEDÂNEO RECURSAL. AGRAVO IMPROVIDO.
+1. Não há como conhecer de writ manejado como sucedâneo recursal quando ausente ilegalidade, arbitrariedade ou teratologia a inquinar o ato combatido, notadamente quando ausente risco iminente ao exercício do direito de locomoção do paciente.
+2. No caso, a consequência imediata da revogação da suspensão condicional do processo foi o prosseguimento do processo. Não está evidenciado risco à liberdade do paciente. A rigor, o habeas corpus não se presta a evitar a "prática de atos desnecessários".
+No presente recurso, sustenta a defesa "ser cabível a impetração do writ para fins de afastar decisão que revogou suspensão condicional do processo, uma vez que já teria ocorrido o adimplemento substancial das condições." (e-STJ fl. 58).
+Alega que, na espécie, houve o adimplemento substancial da obrigação contraída (prestação de serviços à comunidade), devendo, pois, ser declarada extinta a punibilidade.
+Requer, ao final, seja declarada a extinção da punibilidade nos autos da ação penal nº 50117705720184047005.
+Com vista dos autos, opinou o Ministério Público Federal pelo não conhecimento do recurso ou pelo seu desprovimento.
+É o relatório. Decido,
+De plano, observa-se que o tema apresentado no presente recurso - extinção da punibilidade em razão do adimplemento substancial das condições impostas na suspensão condicional do processo - não foi examinado pela Corte de origem no julgamento da impetração originária, o que impede o conhecimento da matéria diretamente neste Superior Tribunal de Justiça, sob pena de indevida supressão de instância.
+Como cediço, "não compete a esta Corte, em habeas corpus interposto contra acórdão de apelação, conhecer matéria não decidida previamente pela instância de origem, sob pena de indevida supressão de instância." (AgRg no HC n. 764.710/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 19/12/2022, DJe de 21/12/2022.)
+No mesmo sentido, é entendimento da Corte Maior que "o exaurimento da instância recorrida é, como regra, pressuposto para ensejar a competência do Supremo Tribunal Federal, conforme vem sendo reiteradamente proclamado por esta Corte (HC 129.142, Rel. Min. MARCO AURÉLIO, Rel. p/ Acórdão Min. ALEXANDRE DE MORAES Primeira Turma, DJe de 10/8/2017; RHC 111.935, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 30/9/2013; HC 97.009, Rel. p/ Acórdão: Min. TEORI ZAVASCKI, Tribunal Pleno, DJe de 4/4/2014; HC 118.189, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 24/4/2014)." (HC n. 179.085, Relator Min. MARCO AURÉLIO, Relator para o Acórdão Min. ALEXANDRE DE MORAES, Primeira Turma, julgado em 05/08/2020, DJe 25/09/2020).
+Ante o exposto, não conheço do presente recurso ordinário em habeas corpus.
+Intimem-se.
