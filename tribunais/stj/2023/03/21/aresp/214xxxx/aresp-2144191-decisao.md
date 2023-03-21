@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se  de  agravo de PIMENTA DE AVILA CONSULTORIA LTDA., em que objetiva admissão  de  recurso especial interposto  contra  acórdão  do TJMG assim  ementado:
+REEXAME NECESSÁRIO/APELAÇÃO CÍVEL-AÇÃO ANULATÓRIA DÉBITO FISCAL -ISSQN IMPOSTO SOBRE SERVIÇOS DE QUALQUER NATUREZA -COBRANÇA -COMPETÊNCIA -LC 116/03-FATO GERADOR -NÃO CONCRETIZADO. O art. 3º da LC 116/03, estabelece que a competência para cobrança do ISSQN é do Município onde encontra-se estabelecida a empresa prestadora de serviços, ressalvadas 22 exceções, as quais deverão ser cobradas no local da prestação do serviço. Não concretizando o fato gerador a alcançar o réu à condição de sujeito ativo do tributo, a nulidade dos lançamentos é medida impositiva.
+No especial, a parte alega violação do art. 85, §11 do CPC/2015, pleiteando a incidência dos honorários recursais a majorar os honorários de sucumbência a serem pagos pela edilidade.
+Sustenta que "o fato de não ter havido o efetivo julgamento do recurso voluntário (apelação), por ter sido ele prejudicado pela remessa necessária, em nada altera a conclusão no sentido da necessidade de majoração, uma vez que, repise-se, houve a prática do ato que deflagra a majoração dos honorários, que é a interposição de recurso" (e-STJ fl. 994).
+O recurso especial foi inadmitido no tribunal a quo por aplicação do óbice da Súmula 83 do STJ, fundamento atacado no agravo.
+Contraminuta pelo não provimento do recurso especial.
+Passo a decidir.
+O recurso especial se origina de ação anulatória de crédito tributário de ISSQN em que se questiona a sujeição ativa do município de Nova Lima/MG para cobrar o tributo sobre serviços prestados em outras localidades, apenas em razão da existência de domicílio do contribuinte na edilidade.
+Julgada procedente a ação anulatória, foi fixado verba sucumbência contra a edilidade.
+Na sequência, o Tribunal a quo apreciou a remessa necessária, desprovendo-a, e julgou prejudicada a apelação.
+Opostos embargos de declaração em que se discutia a necessária majoração da verba de sucumbência p elo art. 85, §11 do CPC/2015, foram eles rejeitados.
+Pois bem.
+O Superior Tribunal de Justiça, interpretando o art. 85, §11 do CPC/2015, firmou a orientação segundo a qual "é devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: a) decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso" (AgInt nos EREsp n. 1.539.725/DF, relator Ministro Antonio Carlos Ferreira, Segunda Seção, julgado em 9/8/2017, DJe de 19/10/2017).
+Vê-se que o segundo dos requisitos apontados pela jurisprudência (recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente) exige, na forma da redação expressa do art. 85, §11 do CPC/2015, o julgamento do recurso voluntário:
+§ 11. O tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal, observando, conforme o caso, o disposto nos §§ 2º a 6º, sendo vedado ao tribunal, no cômputo geral da fixação de honorários devidos ao advogado do vencedor, ultrapassar os respectivos limites estabelecidos nos §§ 2º e 3º para a fase de conhecimento.
+Na hipótese dos autos, o recurso voluntário não foi objeto de julgamento pela Corte mineira, não suportando a fixação dos honorários recursais.
+Encontrando o acórdão recorrido sustentação na jurisprudência desta Corte Superior, incide, na espécie, a Súmula 83 do STJ, segundo a qual "não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Ante  o  exposto,  com  base  no  art.  253,  parágrafo  único,  II,  "a",  do  RISTJ,  CONHEÇO  do  agravo  para  NÃO  CONHECER  do  recurso  especial.
+Publique-se. Intimem-se.
