@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, interposto por MARCELO NASCIMENTO DE LIMA, contra acórdão prolatado pelo Tribunal de Justiça do Estado de Alagoas (HC 0806993-29.2022.8.02.0000).
+Extrai-se dos autos que o paciente foi preso em flagrante, em 23/12/2018, sendo convertida em preventiva, pela suposta prática do crime previsto no art. 121, § 2º, IV, c/c art. 14, II, do Código Penal.
+A defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem, nos termos do acórdão de fls. 264-270 (e-STJ).
+Neste writ, a defesa alega, em suma, a existência de constrangimento em face do acusado, em razão do excesso de prazo na formação da culpa, visto que o paciente se encontra segregado há 3 anos e 11 meses, sem que a instrução processual tenha sido finalizada.
+Ressalta que a demora decorre de produção de prova requerida pelo Ministério Público.
+Requer a concessão da ordem, inclusive liminarmente, para que seja relaxada a prisão cautelar.
+É o relatório.
+Decido.
+Da análise dos autos, note-se que o presente recurso em habeas corpus, distribuído em 17/03/2023, constitui mera reiteração do pedido formulado no RHC 177.709/AL, de minha relatoria, distribuído em 13/03/2023, cujo processamento já se iniciou e o pleito será analisado oportunamente.
+Ressalta-se que, embora sejam apontados atos coatores distintos - neste recurso o ato questionado é o HC originário n. 0806993-29.2022.8.02.0000 e naquele RHC o ato combatido é o HC originário n. 0806732-64.2022.8.02.0000 -, ambos possuem o mesmo pedido e insurgem-se contra o mesmo decreto prisional proferido pelo Juízo da Vara do Único Ofício de Paripueira-AL (Ação Penal n. 0700307-30.2018.8.02.0072).
+Nesse sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. EXCESSO DE PRAZO NO JULGAMENTO DA APELAÇÃO. REITERAÇÃO DE PEDIDO JÁ ANALISADO EM HABEAS CORPUS JULGADO RECENTEMENTE. INDEFERIMENTO DO RECURSO EM LIBERDADE. FUNDAMENTAÇÃO CONCRETA. GRAVIDADE CONCRETA DO DELITO. GARANTIA DA ORDEM PÚBLICA. RECURSO DESPROVIDO.
+1. Quanto ao alegado excesso de prazo para o julgamento da apelação, foi formulado pedido idêntico em benefício do mesmo paciente no HC 669.820/PE, de minha relatoria, no qual recentemente deneguei a ordem, recomendando ao Juízo de primeiro grau que imprimisse celeridade nas diligências determinadas pelo Tribunal de origem, em decisão publicada em 7/12/2021. Assim, tendo o presente mandamus a mesma parte e questionando matéria anteriormente arguida no referido habeas corpus, o qual diz respeito à mesma ação penal de origem, bem como não se verificando a alteração substancial da situação fático processual já analisada, resta configurada inadmissível reiteração, o que impede o conhecimento da alegação nesse ponto.
+2. No caso dos autos verifica-se que a prisão preventiva foi adequadamente mantida pelo Magistrado sentenciante e pela Corte Estadual, ante a demonstração, com base em elementos concretos, da gravidade concreta da conduta e da periculosidade do agente, evidenciadas pela quantidade de droga negociada e pelo fato de que se trata de uma rede de traficantes, com ramificações em outros municípios deste Estado, o que revela risco ao meio social, destacando, ainda, o fato de o agente ter permanecido foragido por longo período de tempo até ser recapturado. Nesse contexto, forçoso concluir que a prisão processual está devidamente fundamentada na garantia da ordem pública, não havendo falar, portanto, em existência de evidente flagrante ilegalidade capaz de justificar a sua revogação e tampouco em aplicação de medida cautelar alternativa.
+3. Tendo o paciente permanecido preso durante todo o processo, não deve ser permitido o recurso em liberdade, especialmente porque, inalteradas as circunstâncias que justificaram a custódia, não se mostra adequada sua soltura depois da condenação em primeiro grau.
+4. Agravo regimental desprovido."
+(AgRg no HC n. 701.196/PE, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 15/2/2022, DJe de 18/2/2022, grifou-se)
+"AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. REITERAÇÃO DO PLEITO FORMULADO NO HC N. 750.512/SP. LITISPENDÊNCIA. PETIÇÃO RECURSAL LIMINARMENTE INDEFERIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. No HC n. 750.512/SP, foi formulada idêntica pretensão em favor do ora Recorrente. O recurso ordinário, portanto, é mera reiteração de pedido anterior, em que há identidade de partes, de pedido e de causa de pedir, além de impugnarem ambos o mesmo acórdão e a mesma matéria. Assim, é incognoscível a insurgência defensiva.
+2. Não é possível a concessão da ordem de habeas corpus de ofício na hipótese de reiteração de pedido, porquanto a viabilidade de se proceder de tal maneira deve ser verificada quando do julgamento do writ conexo.
+3. Agravo regimental desprovido."
+(AgRg nos EDcl no RHC n. 172.358/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 13/12/2022, DJe de 19/12/2022, grifou-se)
+Ante o exposto, indefiro liminarmente o habeas corpus, nos termos do art. 210 do RISTJ.
+Publique-se. Intimem-se.
