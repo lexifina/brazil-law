@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, contra acórdão proferido pelo Tribunal de Justiça do Estado do Tocantins (HC n. 0001221-39.2023.8.27.2700).
+Consta dos autos que o paciente foi preso em flagrante em 2/2/2023 pela suposta prática do crime previsto no art. 155, § 4º, I, do CP. Realizada a audiência de custódia em 6/2/2023, a prisão em flagrante foi convertida em preventiva (e-STJ fls. 14/18).
+Contra a referida decisão, a defesa impetrou habeas corpus perante a Corte estadual, que denegou a ordem em acórdão assim ementado (e-STJ fls. 12/13):
+HABEAS CORPUS. ARTIGO 155, §§1º E 4º, I, DO CP. ARTIGO180, §2º, DO CP. PEDIDO DE REVOGAÇÃO DA PRISÃO PREVENTIVA. IMPOSSIBILIDADE. FUNDAMENTAÇÃOIDÔNEA. PRESENÇA DOS REQUISITOS AUTORIZADORES PREVISTOS NOS ARTIGOS 312 E 313, I, DO CÓDIGO DEPROCESSO PENAL. FUMUS COMISSI DELICTI E PERICULUM LIBERTATIS. PROVA DA MATERIALIDADE. INDÍCIOSSUFICIENTES DE AUTORIA. NECESSIDADE DE PRESERVAÇÃO DA ORDEM PÚBLICA. PRECEDENTES DOSTJ. INSUFICIÊNCIA E INADEQUAÇÃO DAS MEDIDASCAUTELARES DIVERSAS DA PRISÃO. RISCO DEREITERAÇÃO DELITIVA. GRANDE QUANTIDADE DE BENS APREENDIDOS. CONSTRANGIMENTO ILEGAL NÃOCONFIGURADO. ORDEM DENEGADA.
+1. No caso, verifica-se que a prisão preventiva se encontra amparadanos requisitos preconizados no artigo 312 do Código de ProcessoPenal, existindo nos autos prova da materialidade dos crimes e indícios suficientes de autoria, restando devidamente apontados os motivosensejadores da custódia antecipada.
+2. A decisão que decretou a prisão preventiva do Paciente, embora sucinta, encontra-se bem fundamentada, demonstrando com satisfaçãoa necessidade do ergástulo, uma vez que há fortes indícios de que o Paciente praticou a empreitada criminosa, havendo necessidade de segarantir a ordem pública e conter a reiteração delitiva, haja vista aextensa lista de objetos apreendidos.
+3. Indevida a aplicação das medidas cautelares diversas previstas noartigo 319 do CPP, quando a segregação se encontra justificada enecessária.
+4. A presunção de inocência não é incompatível com a prisão processual e nem impõe ao Paciente uma pena antecipada, porque não deriva do reconhecimento da culpabilidade.
+5. Ordem denegada.
+No presente writ, a defesa alega que o paciente sofre contrangimento ilegal devido ao excesso de prazo na formação da culpa, tendo em vista que o paciente está preso desde 2/2/2023, sem o oferecimento da denúncia e a conclusão do inquérito policial. Sustenta que o paciente é primário e possui condições pessoais favoráveis, fazendo jus ao direito de responder ao processo em liberdade.
+Diante do exposto, requer, liminarmente e no mérito, a revogação da prisão preventiva do paciente, mediante a expedição do alvará de soltura.
+É o relatório. Decido.
+A liminar em habeas corpus não possui previsão legal, tratando-se de criação jurisprudencial que visa a minorar os efeitos de eventual ilegalidade que se revele de pronto.
+Não obstante os fundamentos apresentados pela defesa, em um juízo de cognição sumária, não visualizo manifesta ilegalidade no ato ora impugnado a justificar o deferimento da medida de urgência.
+No caso, ao afastar a tese de excesso de prazo na formação da culpa, o Tribunal de origem ponderou que (e-STJ fls. 65):
+Ademais, há que se ressaltar que a custódia cautelar, no momento, não se revela desproporcional diante da pena em abstrato atribuída ao delito imputado na denúncia.
+Como cediço, o prazo para a conclusão do inquérito policial e do processo criminal de réu preso não é absoluto, fatal e improrrogável, sendo que o alegado excesso não pode resultar de mera soma aritmética dos lapsos temporais para a prática dos atos processuais ou investigativos, devendo ser aferido através da análise de cada caso concreto e de suas particularidades.
+Assim, mesmo ultrapassado o prazo para o término das investigações ou da ação, deve haver um juízo de razoabilidade.
+Nesse mesmo sentido, é consabido que "O prazo para a conclusão da instrução criminal não tem as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade para definir o excesso de prazo, não se ponderando a mera soma aritmética dos prazos para os atos processuais. (Precedentes do STF e do STJ)" (RHC n. 62.783/ES, Rel. Ministro FELIX FISCHER, Quinta Turma, julgado em 1º/9/2015, DJe 8/9/2015).
+Mostra-se imprescindível, nesse contexto, uma análise mais aprofundada dos elementos de convicção constantes dos autos e das informações a serem prestadas pela instância de primeiro grau, para se aferir a existência do alegado constrangimento ilegal.
+Ademais, o pedido liminar confunde-se com o próprio mérito da impetração, o qual deverá ser analisado em momento oportuno, por ocasião do julgamento definitivo do recurso ordinário em habeas corpus.
+Ante o exposto, indefiro o pedido liminar.
+Solicitem-se informações ao Juízo de primeiro grau (notadamente acerca do inquérito policial e da denúncia), a serem prestadas preferencialmente pela Central do Processo Eletrônico - CPE do STJ, inclusive o envio da senha para acesso aos dados processuais constantes do respectivo portal eletrônico, tendo em vista a restrição determinada pela Resolução n. 121 do CNJ.
+Após, encaminhem-se os autos ao Ministério Público Federal.
+Intimem-se.
