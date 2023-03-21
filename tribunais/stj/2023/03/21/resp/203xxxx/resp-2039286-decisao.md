@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO assim ementado:
+PREVIDENCIÁRIO. APOSENTADORIA POR IDADE. TRABALHADOR RURAL. DESCARACTERIZAÇÃO. AUSÊNCIA DE REGIME DE ECONOMIA FAMILIAR. PROVA EXCLUSIVAMENTE TESTEMUNHAL. IMPOSSIBILIDADE.
+1. Para a aposentadoria de rurícola, a lei exige idade "mínima de 60 (sessenta) anos para o homem e 55 (cinquenta e cinco) anos para a mulher, requisito que, in casu, está comprovado nos autos.
+2. Ausência de comprovação do exercício de atividade rural no período de carência (art. 48, §§ 10e 20, da Lei ri. 8.213/91), tendo em vista que os documentos apresentados não são suficientes para comprovar o efetivo exercício campesino em regime de economia familiar.
+3. Não se enquadra como pequeno produtor rural em regime de economia familiar o fazendeiro que possui propriedade de grande extensão, não se aplicando o disposto no art. 11, § 10, da Lei ni.8.213/91.
+4. Não se admite prova exclusivamente testemunhal para a comprovação do exercício de atividade rural (Súmulas 149/STJ e 27/TRF da ia Região).
+5. Ausente conjunto probatório harmônico a respeito do exercício de atividade rural no período, não se reconhece o direito ao benefício de aposentadoria rural por idade.
+6. Apelação do INSS e remessa providas.
+Os embargos de declaração foram rejeitados, em decisão em que ficou consignado ainda o seguinte, in verbis:
+O acórdão tratou expressamente da matéria, conforme se verifica do voto condutor do julgado, o que descaracteriza, desse modo, a omissão apontada, conforme trecho que ora transcrevo, no que interessa:
+"Ante o exposto, DOU PROVIMENTO à apelação do INSS e à remessa, para reformar a sentença recorrida e julgar improcedente o pedido formulado na inicial, revogada, de imediato, a tutela antecipada concedida. dispensando o autor da repetição das parcelas recebidas até a cessação dos seus efeitos."
+Não há de se falar, ainda, em existência de contradição, pois, tendo em vista que averba alimentícia foi recebida pela parte autora de boa-fé, a título de antecipação dos efeitos da tutela, a sua revogação posterior não permite a cobrança dos valores já recebidos, por se tratar de verbas de caráter alimentar, sendo este o entendimento pacífico do egrégio STJ.
+No recurso especial, fundamentado na alínea "a" do permissivo constitucional, o recorrente sustenta violação aos artigos 273, parágrafo 3º, e 811, 1 e 111, do CPC/73, asseverando que os valores pagos pela Administração Pública em virtude de decisão judicial provisória posteriormente cassada, devem ser restituídos, sob pena de enriquecimento ilícito por parte dos beneficiados.
+Sem contrarrazões, o feito foi inadmitido ao entendimento de que o STJ tem o entendimento firmado no sentido da possibilidade de repetição de valores pagos pela administração por força de tutela provisória posteriormente reformada, mas que tal posicionamento é mitigado nas hipóteses em que à discussão envolva benefícios previdenciário.
+Interposto Agravo, foi proferido despacho nesta e. Corte determinando a devolução dos autos à Corte de origem para adequação ao Tema 692 deste STJ.
+Em juízo de retratação (fls. 299), com base no art. 1.040, inc. II, a decisão foi mantida, ao entendimento de que o Supremo Tribunal Federal, no ARE 734242 Rel.: Min. Roberto Barroso, 1 6 T, DJe-175, pub. 08/09/2015, no sentido de que o benefício previdenciário recebido de boa-fé pelo segurado, em decorrência de decisão judicial, não está sujeito à repetição de indébito.
+O feito então, submetido a novo juízo de admissibilidade, foi admitido na origem.
+É o relatório.
+Decido.
+Observo que, sobrestado o feito e devolvido ao órgão julgador para juízo de retratação, na forma do artigo 1.040, II, do CPC/15, para eventual adequação ao Tema 692 deste STJ, o acórdão recorrido foi mantido e o feito, então, encaminhado para nova análise nesta e. Corte, na forma do artigo 1.041 do CPC/15.
+Do que se observa dos autos, o pedido inicial foi para se obter o benefício de aposentadoria rural por idade. A peça inicial contou, ainda, com pedido de tutela antecipada concedida em sentença.
+No Tribunal Regional Federal da 1ª Região, a decisão foi revertida, ante a ausência de conjunto probatório apto para se deferir o benefício. Naquela ocasião, restou consignado ainda a desnecessidade de devolução dos valores, decisão essa que foi mantida, mesmo em sede de juízo de retratação para aplicação do precedente qualificado do STJ firmado no Tema 692.
+O tema relativo ao cabimento de devolução de valores recebidos a título de tutela antecipada, posteriormente revogada, foi decidido pela Primeira Seção, ao julgar a Pet 12482/DF, da Relatoria do Ministro Og Fernandes, em proposta de revisão do entendimento firmado no Tema Repetitivo 692/STJ, e concluiu pelo cabimento da restituição de parcelas previdenciárias recebidas em razão de tutela antecipada posteriormente revogada. Naquela oportunidade, fixou-se a seguinte tese, in verbis:
+A reforma da decisão que antecipa os efeitos da tutela final obriga o autor da ação a devolver os valores dos benefícios previdenciários ou assistenciais recebidos, o que pode ser feito por meio de desconto em valor que não exceda 30% (trinta por cento) da importância de eventual benefício que ainda lhe estiver sendo pago.
+A leitura atenta do precedente revela que foi observada a decisão do STF sobre o tema, tendo aquela Corte firmado expressamente a tese no sentido de que a questão não é constitucional e deve, portanto, ser deslindada nos limites da legislação infraconstitucional (Tema 799).
+Assim, forçoso concluir que o caso em tela se amolda ao precedente firmado, devendo ser reformada a decisão recorrida para que o Tema 692/STJ seja aplicado. Destarte, os valores pagos ao segurado, a título de tutela antecipada, posteriormente revogada, devem ser repetidos
+Ante o exposto, com fulcro no art. 932, V, do CPC/2015 c/c o art. 253, parágrafo único, II, c, do RISTJ, dou provimento ao recurso especial, nos termos da fundamentação.
+Publique-se. Intimem-se.
+EMENTA
+PREVIDENCIÁRIO. PROCESSO CIVIL. BENEFÍCIO PREVIDENCIÁRIO CONCEDIDO POR MEIO DE TUTELA PROVISÓRIA, POSTERIORMENTE REVOGADA. TEMA 692/STJ. DEVOLUÇÃO PARA JUÍZO DE RETRATAÇÃO. DECISÃO MANTIDA PELO TRIBUNAL A QUO. RECURSO ESPECIAL CONHECIDO E PROVIDO.
