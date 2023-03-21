@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interposto pela FUNDAÇÃO UNIVERSIDADE FEDERAL DO PAMPA - UNIPAMPA contra decisão que inadmitiu seu recurso especial fundado no art. 105, III, a, da Constituição Federal.
+O acórdão combatido, proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, foi assim ementado:
+ADMINISTRATIVO. MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. TÉCNICO EM LABORATÓRIO - ÁREA QUÍMICA. QUALIFICAÇÃO SUPERIOR. DIREITO À INVESTIDURA NO CARGO. SENTENÇA DE PROCEDÊNCIA MANTIDA. APELAÇÃO DESPROVIDA. Não é razoável excluir candidato com qualificação superior à exigida e dentro da mesma área de formação, uma vez que o objetivo da administração ao realizar um concurso público é o preenchimento dos cargos com os candidatos mais preparados. Precedentes deste Tribunal.
+Na origem, LIANE XAVIER FONSECA impetrou mandado de segurança contra o Pró-Reitor de Gestão de Pessoas da Fundação Universidade Federal do Pampa, em razão de ato supostamente ilegal, consistente na negativa de efetivação da posse da então impetrante, em razão de sua qualificação além do exigido para o cargo pleiteado; tendo sido dada à causa o valor de R$ 5.000,00 (cinco mil reais), em janeiro de 2020.
+Após sentença que concedeu a segurança, o TRF4 proferiu julgamento sobre a apelação da parte ora recorrente nos termos da ementa acima transcrita.
+Embargos de declaração providos apenas para pre questionamento.
+No recurso especial, aponta-se ofensa ao artigo 1.022 do CPC.
+Não foram apresentadas contrarrazões.
+Após o decisum que inadmitiu o recurso especial, foi interposto o presente agravo, tendo a partes agravante procurado apresentar argumentos para rebater os fundamentos da decisão agravada.
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Considerando que a parte agravante logrou impugnar a fundamentação da decisão agravada, é de ser conhecido o agravo, passando-se ao exame do recurso especial interposto.
+Não há violação do artigo 1.022 do CPC, quando o Tribunal a quo se manifesta clara, precisa e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+Conforme entendimento pacífico desta Corte, "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão". A determinação trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida". (EDcl no MS 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Publique-se. Intimem-se.
