@@ -1,0 +1,5 @@
+DECISÃO
+Realizada a citação do requerido ROBSON DE SOUZA (fls. 222-223), sua defesa apresenta manifestação por meio da qual requer seja o Governo da Itália intimado a apresentar "cópia integral do processo no qual proferida a decisão homologanda e respectiva tradução, suspendendo-se a fruição do prazo para apresentação da contestação até que seja cumprida a diligência ora requerida" (fl. 197).
+O art. 216-K do Regimento Interno do Superior Tribunal de Justiça prevê que, "contestado o pedido, o processo será distribuído para julgamento pela Corte Especial, cabendo ao relator os demais atos relativos ao andamento e à instrução do processo".
+Na petição apresentada, a defesa do requerido já manifestou a intenção de contestar o pedido. Além disso, o pedido de obtenção de documentos junto ao governo da Itália representa ato de instrução do processo, a ser mais adequadamente apreciado pelo relator do feito.
+Sendo assim, determino a imediata distribuição do feito, por sorteio, a um dos integrantes da Corte Especial, a quem caberá, inclusive, a apreciação do pedido formulado pela defesa de suspensão do prazo de contestação.
