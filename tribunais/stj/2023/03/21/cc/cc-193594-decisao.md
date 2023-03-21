@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de conflito negativo por iniciativa de Jeanini Ivanoski Rodrigues, indicando como suscitados o Juízo Federal da 20ª Vara de Curitiba, Seção Judiciária do Estado do Paraná, e o Juízo de Direito do Juizado Especial Cível de Colombo, na mesma unidade federada, relativamente à ação declaratória de inexigibilidade de débito c/c nulidade de negócio jurídico c/c indenização por danos morais proposta pela suscitante em desfavor de Claro S.A. e de Banco PAN S.A.
+A inicial relata que sofreu fraude por telefone celular, tendo a operadora promovido troca de chip sem sua autorização, cadastrando outro em seu lugar, o que permitiu que um golpista acessasse sua conta junto ao Banco PAN, realizando troca de senha e de dados pessoais, por meio da qual obteve empréstimo por meio da liberação do saque aniversário do FGTS, no valor de R$ 6.144,22 (seis mil, cento e quarenta e quatro reais e vinte e dois centavos), destinados a pessoa identificada como Henrique Correia da Silva.
+Adiciona que as prestações serão debitadas de sua conta se não for determinado judicialmente o bloqueio da operação, nula de pleno direito por infringir a legislação de consumo, além de haver causado lesão moral indenizável.
+Distribuído o feito primeiramente perante o Juizado Especial Cível estadual, na audiência de conciliação, foi realizado acordo com a primeira ré, que deixou o polo passivo da demanda.
+O Magistrado estadual, contudo, acolheu preliminar apresentada pela instituição financeira, apontando interesse da Caixa Econômica Federal - CEF, gestora do sistema do FGTS, e declinou da competência em favor da Justiça Federal, extinguindo o processo (fls. 222/223).
+Renovada a ação perante o Juízo Federal da 20ª Vara do Juizado Especial Cível, a CEF foi excluída do feito por ser mero agente operador do FGTS, sem que tenha participado da concessão do empréstimo, com afastamento da suposta solidariedade por não ter praticado conduta alguma no fato delituoso, havendo declinação da competência em favor da Justiça estadual (fls. 224/226) .
+Instado a se manifestar, opinou o Ministério Público Federal pela competência do Juízo de Direito do Juizado Especial Cível de Colombo, PR, para o processamento e julgamento da causa (fls. 248/252).
+Assim delimitada a controvérsia, necessário consignar que o entendimento do STJ a respeito da competência da Justiça Federal quanto aos entes elencados na Constituição Federal, art. 109, inciso I, encontra-se consolidado nos enunciados 150, 224 e 254 da Súmula, que exaurem a discussão, conforme se depreende textualmente de sua redação:
+Compete à Justiça Federal decidir sobre a existência de interesse jurídico que justifique a presença, no processo, da União, suas autarquias ou empresas públicas.
+Excluído do feito o ente federal, cuja presença levara o Juiz Estadual a declinar da competência, deve o Juiz Federal restituir os autos e não suscitar conflito.
+A decisão do Juízo Federal que exclui da relação processual ente federal não pode ser reexaminada no Juízo Estadual.
+Assim, constatada a ausência do interesse de pessoa ou matéria sujeita ao foro federal, na hipótese a CEF, cuja avaliação é privativa do Juízo Federal, não se constituiu o pressuposto de competência da Justiça Federal. Precedentes da Segunda Seção em casos análogos adotaram a mesma linha de entendimento:
+Conflito de competência. Ação declaratória de repetição de indébito. Contrato de promessa de compra e venda. Sistema Financeiro da Habitação. Interesse da Caixa Econômica Federal.
+1. Na linha da jurisprudência da 2ª Seção, afastado o interesse da Caixa Econômica Federal pelo Juiz Federal, tem competência para continuar com o processamento da ação a Justiça Estadual, ao menos até que a decisão do Juiz Federal seja reformada.
+2. Competência da Justiça Estadual.
+(CC 22.326/DF, Rel. Ministro CARLOS ALBERTO MENEZES DIREITO, unânime, DJU de 7.12.1998)
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUÍZOS ESTADUAL E FEDERAL. SFH. CONTRATO COM PACTO ADJETO DE HIPOTECA, FIRMADO ENTRE PARTICULARES. AUSÊNCIA DE INTERESSE DA CAIXA ECONÔMICA FEDERAL.
+I - A jurisprudência do STJ assentou-se no entendimento de que, nos processos em que se discutem pagamentos relativos a contratos regidos pelo Sistema Financeiro da Habitação, a competência da justiça federal somente ocorre quando haja potencial comprometimento do Fundo de Compensação de variação Salarial (FCVS).
+II - Compete à justiça estadual conhecer de ação em que mutuário do Sistema da carteira Hipotecária discute reajuste contratual com agente privado do Sistema Financeiro Nacional.
+Conflito conhecido e declarada a competência do juízo suscitado.
+(CC 35.366/SP, Rel. Ministro CASTRO FILHO, unânime, DJU de 16.9.2002)
+Em face do exposto, conheço do conflito para declarar competente o Juízo de Direito do Juizado Especial Cível de Colombo, PR.
+Comunique-se. Intimem-se.
