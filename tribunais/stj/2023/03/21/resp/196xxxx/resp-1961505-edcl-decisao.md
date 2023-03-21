@@ -1,0 +1,20 @@
+DECISÃO
+Vistos etc.
+Trata-se de embargos de declaração opostos por BANCO RABOBANK INTERNATIONAL BRASIL S/A contra decisão que deu provimento ao recurso especial da embargada, conforme seguinte ementa:
+"RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. REVISÃO CONTRATUAL. JUROS DE MORA LEGAIS. TAXA SELIC. PRECEDENTES. RECURSO PROVIDO."
+Em suas razões, a parte alega que a decisão é omissa, pois deixou de se manifestar sobre a inaplicabilidade do Tema 99 (REsp 1.102.552/CE) ao caso, dado que este se refere à utilização da Taxa Selic apenas para atualização das contas do FGTS.
+É o relatório.
+Passo a decidir.
+A omissão em um pronunciamento judicial ocorre quando o órgão julgador não se manifesta sobre os pedidos das partes, sobre argumento por elas apresentado que tenha o condão de modificar o resultado do julgamento ou sobre matéria que deva ser conhecida de ofício. Não há vício, contudo, quando o pronunciamento embargado analisa adequadamente a controvérsia e a soluciona de forma fundamentada, utilizando argumentos suficientes a justificar a posição adotada. Nesse sentido:
+TRIBUTÁRIO. ICMS. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. OMISSÃO AUSENTE. ERRO MATERIAL CORRIGIDO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015 para os presentes Embargos de Declaração, ao Agravo Interno e ao Agravo em Recurso Especial, embora o Recurso Especial estivesse sujeito ao Código de Processo Civil de 1973.
+II - A fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada, pelo que ausente omissão a ensejar a oposição de embargos de declaração, nos termos do art. 1.022 do Código de Processo Civil de 2015.
+III - A errônea indicação de termo estranho aos autos caracteriza erro material passível de correção.
+IV - Embargos de declaração parcialmente acolhidos, apenas para corrigir o erro material, sem atribuição de efeitos infringentes. (EDcl no AgInt no AREsp 1343364/RJ, Relatora Ministra Regina Helena Costa, Primeira Turma, Julgado em 13/03/2023, DJe 16/03/2023, grifei)
+O embargante sustenta que, como a decisão chegou a conclusão idêntica àquela fixada na tese do Tema 99, era imprescindível explicar as razões de sua aplicação no caso concreto. Ocorre que a simples incidência do mesmo índice de juros legais não significa que o precedente foi adotado, se as razões de decidir e o contexto fático são diversos. Contudo, tampouco era cabível a realização de distinguishing, se, por outras razões, o resultado de ambos os processos é equivalente.
+Em outras palavras, era de todo desnecessário explicar a inaplicabilidade do Tema 99 ao caso, pois ele não foi mencionado em qualquer trecho da decisão, sequer como reforço argumentativo, mas o resultado final foi o mesmo (aplicação da Taxa Selic). Os argumentos adotados consistiram na interpretação direta da lei, elenco de precedentes- que não a tese fixada para o Tema 99- e explicação acerca do afastamento dos índices contratuais em caso de ações revisionais de contrato. Ademais, houve expresso reconhecimento de que existem precedentes em sentido contrário, mas o entendimento dominante é de que o índice de juros legais do art. 406, CC corresponde à taxa SELIC.
+Ressalte-se que o art. 489, §1º, V, CPC é inaplicável, pois a omissão não se configura apenas com a menção pelas partes de certo precedente. Os vícios corrigíveis por embargos de declaração são internos ao pronunciamento e, portanto, só existem se a própria decisão invoca o precedente sem explicação, o que não ocorreu neste caso.
+Ante o exposto, REJEITO os embargos.
+Intimem-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÃO. INOCORRÊNCIA. DECISÃO SUFICIENTEMENTE FUNDAMENTADA. PRECEDENTES INVOCADOS DIVERSOS DAQUELES MENCIONADOS PELA PARTE. CONCLUSÃO IDÊNTICA. AUSÊNCIA DE VÍCIO INTERNO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
