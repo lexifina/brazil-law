@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo interposto por JOSE EDILSON LOURENCO DOS SANTOS contra decisão de inadmissão de recurso especial manifestado, com fulcro na alínea a do permissivo constitucional, em oposição a acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS (Recurso em Sentido Estrito n. 0000333-83.2015.8.02.0069).
+A controvérsia está bem relatada no parecer do Ministério Público Federal (e-STJ fls. 350/353, grifei):
+Consta dos autos que o Ministério Público do Estado de Alagoas, ofereceu denúncia no dia 29.10.2015, em desfavor de JOSE EDILSON LOURENCO DOS SANTOS, pela prática do delito tipificado no art. 121, §2º, inciso II do Código Penal.
+ ..
+O recebimento da denúncia ocorreu no dia 29.10.2015 (e-STJ fls. 59).
+ ..
+Transcorrido regularmente o processo, com observância dos princípios constitucionais da ampla defesa e do contraditório, sobreveio sentença, e-STJ fls. 189/192, que julgou procedente a pretensão ministerial para, com fundamento no artigo 413 do Código de Processo Penal, pronunciar o ora agravante como incurso nas penas previstas no artigo 121, §2º, II, do Código Penal, submetendo-o a julgamento perante o Tribunal do Júri.
+Em sede de Recurso em Sentido Estrito, a Câmara Criminal do Tribunal de Justiça do Estado de Alagoas decidiu, à unanimidade, negar-lhe provimento conforme e-STJfls. 268/281, assim ementado:
+ ..
+Irresignada, a defesa interpôs recurso especial com fulcro no artigo 105, inciso III, alínea ""a"" do permissivo constitucional, alegando violações aos artigos 263 e 564, IV do CPP e art. 4º-A, IV da LC 80/94 (e-STJ fls. 287/298).
+Contrarrazões do MP/SP (e-STJ fls. 304/309).
+A Vice-Presidência do Tribunal de Justiça do Estado de Alagoas não admitiu o recurso especial por óbice no enunciado da Súmula 07/STJ, conforme decisão de e-STJ fls.312/315.
+Daí a interposição do presente agravo em recurso especial (e-STJ fls. 323/327).
+Contrarrazões apresentada às e-STJ fls. 334/335.
+O apelo nobre foi inadmitido na origem, com fundamento na Súmula n. 7/STJ, e os autos foram encaminhados a esta Corte na forma de agravo.
+O Ministério Público Federal manifestou-se pelo não conhecimento do agravo ou pelo desprovimento do recurso especial, caso seja dado conhecimento ao agravo (e-STJ fls. 349/361).
+É o relatório.
+Decido.
+Presentes os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Alega a defesa que o acórdão recorrido "manteve a validade do processo apesar da evidente afronta ao princípio do defensor natural quando fora nomeado advogado ad hoc pelo juízo sumariante, apesar d e  o réu se encontrar assistido pela Defensoria Pública, a qual havia apresentado resposta a acusação e impetrado Habeas corpus em favor do acusado" (e-STJ fl. 326, grifei).
+Pretende a declaração de nulidade do processo em razão da violação do princípio do defensor natural, tendo em vista a ausência de intimação da Defensoria Pública e da nomeação de advogado ad hoc para audiência de instrução.
+Acerca da nomeação de defensor dativo para a audiência de instrução, a Corte de origem assim consignou (e-STJ fls. 265/266, grifei):
+A nobre Defensoria Pública apresentou resposta à acusação em favor do réu (fls. 65/67) em 23/11/2015. Em seguida pautou-se a audiência de instrução e julgamento e nomeou-se defensor dativo ao réu para acompanhar o ato instrutório, conforme despacho de fl. 78, em 15/12/2015.
+Posteriormente, realizou-se em 20/09/2016 a audiência de instrução com oitiva de testemunhas, na presença do réu que estava acompanhado de advogado dativo (fls.102/107) em razão da impossibilidade de comparecimento de Defensor Público.
+O primeiro advogado dativo nomeado renunciou o múnus às fls. 108/109, tendo o acusado sido intimado para constituir novo advogado, ou em caso de inércia ser-lhe nomeado Defensor Público (fls. 134/137).
+Considerando que o réu intimado sobre a renúncia de nomeação do advogado, não nomeou advogado particular e encontra-se foragido, o juízo a quo determinou então a intimação da defensoria pública para assumir a defesa do réu e informe de pretende produzir provas em audiência (fl. 163). Em resposta, a defesa afirmou à fl. 164 que não tem interesse na produção de outras provas, além daquelas já constantes dos autos. As partes foram então intimadas para apresentaram alegações finais.
+Após repisar o trâmite processual, importante ressaltar que a nomeação do defensor dativo para realização do primeiro e único ato de audiência realizado, ocorreu em 15/12/2015, fl. 78. Nesse período, a Defensoria Pública do Estado de Alagoas ainda se encontrava em período de expansão da sua prestação de serviços para os municípios do interior do estado1. Logo após, o juízo a quo intimou a Defesa Pública para atuar no feito, ocasião que esta nada requereu ou arguiu (fl. 163).
+Isso posto, no período de designação da audiência acompanhada pelo defensor dativo, ainda vigorava no estado de Alagoas uma insuficiência estatal que era suprida pela nomeação de defensor dativo a ser custeado pelo Estado. Nessa hipótese, entendo o STJ que inexiste o direito subjetivo de ser defendido pela Defensoria Pública, bastando a garantia de defesa técnica.  ..
+ ..
+ ..  Portanto, o ato apontado como causador da nulidade não apresenta ilegalidade ou vício de procedimento, uma vez que o juiz nomeou defensor dativo apenas em cumprimento ao art. 265 do CPP e garantiu-se a assistência do acusado pela defesa técnica naquele ato. Não faz diferença se o cumprimento da função resultou da prestação de defensor particular indicado para certo ato ou de atuação de defensor público, pois ambos são habilitados à representação processual segundo a lei processual penal.
+O entendimento do Tribunal de origem não merece reparos.
+Com efeito, não há que se falar em nulidade por violação do princípio do defensor natural. Isso porque o reconhecimento de eventual nulidade exige a comprovação de prejuízo, consoante o postulado pas de nullité sans grief, consagrado no art. 563 do Código de Processo Penal e na Súmula n. 523 do Supremo Tribunal Federal, segundo a qual, "no processo penal, a falta da defesa constitui nulidade absoluta, mas a sua deficiência só o anulará se houver prova de prejuízo para o réu", o que não ocorreu na hipótese, já que não foi mencionada eventual deficiência de defesa na atuação do defensor dativo, nem de que forma a atuação da Defensoria Pública no caso poderia beneficiar o ora agravante, o que impede o reconhecimento da nulidade arguida.
+Ademais, em casos semelhantes, assim decidiu o Superior Tribunal de Justiça:
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. RECEPTAÇÃO. IMPOSSIBILIDADE DO COMPARECIMENTO DO DEFENSOR PÚBLICO À AUDIÊNCIA. NOMEAÇÃO DE ADVOGADO DATIVO. NULIDADE. NÃO CONFIGURAÇÃO. RECURSO IMPROVIDO.
+1. Esta Corte Superior possui entendimento consolidado de que a Defensoria Pública, conquanto possua, na qualidade de função essencial à Justiça, o dever de prestar assistência jurídica integral e gratuita a todas as pessoas que comprovem insuficiência de recursos, nos termos do art. 5º, LXXIV, não detém a exclusividade do exercício de defesa daqueles que não têm meios financeiros para contratar advogado, ou necessitam de um defensor ad hoc, assim como não existe direito subjetivo de o acusado ser defendido pela Defensoria Pública. Precedentes.
+2. Não se verifica constrangimento ilegal quando o recorrente teve a oportunidade de indicar profissional de sua confiança para patrociná-lo em juízo, o que não fez por insuficiência de recursos, não se podendo, no curso do processo, exigir que sua defesa seja realizada unicamente pela Defensoria Pública, notadamente porque, à época em que nomeado advogado dativo para atuar no feito, restou comprovada a insuficiência dos serviços prestados pela Defensoria Pública estadual na comarca, diante da impossibilidade do comparecimento do Defensor Público constituído ou qualquer substituto legal.
+3. Agravo regimental improvido.
+(AgRg no RHC n. 105.745/TO, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 28/3/2019, DJe de 5/4/2019.)
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. NULIDADE DO PROCESSO POR AUSÊNCIA DE CITAÇÃO DO RÉU. CERCEAMENTO DE DEFESA. VIOLAÇÃO DO PRINCÍPIO DO DEFENSOR NATURAL. NÃO CONFIGURAÇÃO. DECISÃO MANTIDA. AGRAVO IMPROVIDO.
+1. Não constatado o cerceamento de defesa, na hipótese, tendo em vista que o paciente teve conhecimento da renúncia ao mandato por seu advogado constituído, não providenciou a nomeação de novo patrono no prazo legal, sendo, por conseguinte, nomeado advogado dativo pelo Juízo de piso.
+2. De acordo com o entendimento desta Corte e também do Supremo Tribunal Federal, a Defensoria Pública não detém a exclusividade do exercício de defesa daqueles que não têm meios financeiros para contratar advogado, assim como não existe direito subjetivo do acusado de ser defendido pela Defensoria Pública (RMS 49.902/PR, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 18/05/2017, DJe 26/05/2017).
+3. A defesa não demonstrou prejuízo, circunstância imprescindível para o reconhecimento de nulidade processual, conforme preceitua o artigo 563, do Código de Processo Penal,  o princípio do pas de nullité sans grie. Precedentes.
+4. Agravo regimental improvido.
+(AgRg no RHC 113.707/BA, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 17/12/2019, DJe 4/2/2020, grifei.)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
