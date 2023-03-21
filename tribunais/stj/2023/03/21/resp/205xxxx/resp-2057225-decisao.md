@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto por FA Maringá Ltda., com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 1.232):
+TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA A CARGO DO EMPREGADOR.
+Legítima a incidência da contribuição previdenciária (quota patronal e RAT) e contribuições destinadas aos terceiros sobre os valores pagos aos trabalhadores na condição de menor aprendiz. Precedentes.
+Nas razões do recurso especial, a parte recorrente aponta violação ao art. 4º, §4, do Decreto-Lei n. 2.318/86, sustentando, em resumo, "a suspensão da exigibilidade no recolhimento das contribuições previdenciárias previstas no art. 22 da Lei nº 8.212/91, em especial da contribuição previdenciária patronal e da contribuição para financiamento de benefícios decorrentes de riscos ambientais do trabalho (RAT), bem como das contribuições devidas a terceiras entidades previstas pelo art. 149 da CRFB, sobre os valores relacionados às remunerações pagas aos menores que lhe prestam serviços na condição especial de aprendizes." (fl. 1.260).
+Contrarrazões às fls. 1.268/1.271.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não merece prosperar.
+Com efeito, destaca-se do acórdão recorrido a seguinte fundamentação (fls. 1.234/1.235):
+ ..
+A contratação de empregados na modalidade intitulada "menor assistido" foi autorizada pelo Dl 2.318/1986, dispensando o empregador dos encargos previdenciários.
+Esta modalidade de contratação, no entanto, não se confunde com a de "menor aprendiz", instituída pela L 10.097/2000, destinada a pessoa maior de quatorze e menor de dezoito anos. Na sequencia, a L 11.180/2005 alterou as regras do contrato de aprendizagem, consolidando a redação do art. 428 da CLT nos seguintes termos:
+ ..
+Sendo assim, mesmo que a norma isentiva prevista no Dl 2.318 ainda estivesse em vigor, verifica-se que esta não se estenderia à modalidade de contrato por aprendizagem, visto destinar-se a incidir em categoria diversa de contratação.
+Resta claro que o Dl 2.318 foi revogado, haja vista que o inc. XXXIII do art. 7º da CF proíbe - mesmo que na condição de aprendizagem - o trabalho para menores de quatorze anos, ao passo que a contratação de "menor assistido" podia se dar a partir dos doze anos.
+De acordo com o § 1º do art. 2º da LINDB, a lei posterior revoga a anterior quando expressamente o declare, quando seja com ela incompatível ou quando regule inteiramente a matéria de que tratava a lei anterior. Neste ponto, a Constituição Federal, além de posterior, detém maior grau hierárquico dentro do ordenamento jurídico pátrio, pelo que fica evidente a revogação do art. 4º do Dl 2.318/1986.
+Desta forma, diferentemente da situação jurídica do menor assistido (art. 4º do Dl 2.318/86), admitidos "sem vinculação com a previdência social" e mediante pagamento de uma chamada "bolsa de iniciação", o aprendiz, contratado na forma do art. 428 e seguintes da CLT, recebe remuneração e se qualifica como segurado obrigatório da Previdência Social na condição de segurado empregado. Legítima, portanto, a incidência da contribuição previdenciária (quota patronal e risco ambiental do trabalho - RAT) e contribuições a terceiros sobre a remuneração paga aos jovens aprendizes.
+No mesmo sentido decidiu a Primeira Turma (TRF4, 5037637- 76.2022.4.04.0000, rel. Leandro Paulsen, 16nov.2022) e a Segunda Turma (TRF4, 5009289-76.2022.4.04.7201, rel. Rômulo Pizzolatti, 22ago.2022).
+Deve ser mantida a sentença, no ponto.
+Diante desse contexto, a equiparação das classes de menor assistido com a de menor aprendiz, sustentada pelo contribuinte em suas razões recursais, mostra-se completamente indevida, seja porque são regidas por diplomas jurídicos distintos (Decreto-Lei n. 2.318/ 86 vs. CLT).
+Conforme previsto expressamente no §4º do art. 4º do Decreto-Lei n. 2.318/86, estão excluídos da base de cálculo dos encargos previdenciários os gastos efetuados com os menores assistidos, benesse fiscal que não encontra correspondência em relação à remuneração paga aos menores aprendizes, como é o caso dos autos.
+Assim, no que diz respeito à tese da exclusão das remunerações pagas ao menor aprendiz da base de cálculo da contribuição patronal, ao SAT e a terceiros, cumpre observar que a parte recorrente não amparou o inconformismo na violação de qualquer lei federal. Destarte, a ausência de indicação do dispositivo legal tido por violado implica deficiência de fundamentação do recurso especial, atraindo a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."). Nesse diapasão: AgRg no AREsp 157.696/SC, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 22/11/2012; AgRg nos EDcl no Ag 1.289.685/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 6/8/2010.
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
