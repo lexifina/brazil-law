@@ -1,0 +1,46 @@
+EMENTA
+PROCESSUAL CIVIL. OFENSA AO ART. 1.022 DO CPC/2015 CONFIGURADA. EMBARGOS ACOLHIDOS COM EFEITOS INFRINGENTES.
+1. Verifica-se que a Corte de origem, instada a se manifestar, não analisou a questão suscitada pela parte recorrente - não existe norma legal que obrigue a embargante (por si ou seu corpo técnico) a realizar os exames e laudos técnicos requisitados por fisioterapeutas -, a qual configura matéria relevante ao deslinde da controvérsia. Dessa forma, justifica-se o retorno dos autos à origem para novo julgamento dos aclaratórios.
+2. Embargos de Declaração acolhidos, com efeitos infringentes, para dar parcial provimento ao Recurso Especial, com relação à preliminar de violação do art. 1.022 do CPC/2015, determinando o retorno dos autos à Corte de origem, para que se manifeste sobre o ponto suscitado nos aclaratórios.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, acolheu os embargos de declaração, com efeitos modificativos, para dar parcial provimento ao recurso especial, nos termos do voto do Sr. Ministro-Relator." Os Srs. Ministros Mauro Campbell Marques, Assusete Magalhães, Francisco Falcão e Humberto Martins votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Embargos de Declaração contra acórdão da Segunda Turma do STJ, com a seguinte ementa:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ART. 1.022 DO CPC/2015. VÍCIO INEXISTENTE. REDISCUSSÃO DA CONTROVÉRSIA.
+1. O acórdão embargado assentou: a) não se configurou ofensa aos arts. 489 e 1.022 do CPC/2015, porquanto o Tribunal de origem julgou integralmente a lide e solucionou, de maneira amplamente fundamentada, a controvérsia, em conformidade com o que lhe foi apresentado; e b) o órgão julgador não é obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução. Precedentes: AgInt nos EDcl no AREsp 1.290.119/RS, Rel. Min. Francisco Falcão, Segunda Turma, DJe 30.8.2019; AgInt no REsp 1.675.749/RJ, Rel. Min. Assusete Magalhães, Segunda Turma, DJe 23.8.2019; REsp 1.817.010/PR, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 20.8.2019; AgInt no AREsp 1.227.864/RJ, Rel. Min. Gurgel de Faria, Primeira Turma, DJe 20.11.2018.
+2. O Recurso foi desprovido com fundamento claro e suficiente, inexistindo omissão, contradição, obscuridade ou erro material no acórdão embargado.
+3. Sob pena de invasão da competência do STF, descabe analisar questão constitucional em Recurso Especial, mesmo que para viabilizar a interposição de Recurso Extraordinário.
+4. Embargos de Declaração rejeitados.
+Em síntese, o embargante afirma:
+A ora embargante mencionou que a primeira decisão embargada (que julgou o agravo interno) adotou como razões de decidir trecho do acórdão desafiado pelo recurso especial, em que NÃO foi analisada a arguição de que INEXISTE NO ORDENAMENTO JURÍDICO PÁTRIO DE ALGUMA LEI QUE A OBRIGUE A ACEITAR E REALIZAR EXAMES DE DIAGNÓSTICO COMPLEMENTARES REQUISITADOS POR FISIOTERAPEUTAS. (fl. 536, e-STJ)
+Houve impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. OFENSA AO ART. 1.022 DO CPC/2015 CONFIGURADA. EMBARGOS ACOLHIDOS COM EFEITOS INFRINGENTES.
+1. Verifica-se que a Corte de origem, instada a se manifestar, não analisou a questão suscitada pela parte recorrente - não existe norma legal que obrigue a embargante (por si ou seu corpo técnico) a realizar os exames e laudos técnicos requisitados por fisioterapeutas -, a qual configura matéria relevante ao deslinde da controvérsia. Dessa forma, justifica-se o retorno dos autos à origem para novo julgamento dos aclaratórios.
+2. Embargos de Declaração acolhidos, com efeitos infringentes, para dar parcial provimento ao Recurso Especial, com relação à preliminar de violação do art. 1.022 do CPC/2015, determinando o retorno dos autos à Corte de origem, para que se manifeste sobre o ponto suscitado nos aclaratórios.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 17.2.2023.
+O objetivo dos Embargos de Declaração é a complementação ou a declaração do verdadeiro sentido de uma decisão eivada de omissão, contradição, obscuridade ou erro material, não possuindo, em regra, natureza de recurso com efeito modificativo.
+Assiste razão à parte embargante no que tange à violação do art. 1.022 do CPC/2015. De fato, houve omissão quanto à tese apresentada.
+Transcrevo trecho das petições dos aclaratórios opostos pela ora embargante:
+Ocorre, porém, que o acórdão, especialmente pelo voto-vista vencedor, não apreciou a arguição feita na apelação no sentido de que não existe norma legal que obrigue a embargante (por si ou seu corpo técnico) a realizar os exames e laudos técnicos requisitados por fisioterapeutas. (fl. 335, e-STJ)
+E nos segundo Embargos:
+Portanto, aquele primeiro recurso aclaratório foi oposto com o objetivo de obter um pronunciamento da Turma a respeito do relevante argumento exposto na apelação e que não foi analisado, isto é, que a embargante, enquanto pessoa jurídica de direito privado, pode livremente recusar a realização de exames solicitados por profissionais fisioterapeutas, já que isto encontra respaldo nos princípios insculpidos nos arts. 5º, II e XIII, e 170, parágrafo único, todos da Constituição Federal.
+Aliás, o objeto daqueles primeiros embargos de declaração foi devidamente identificado, tanto que do relatório do acórdão que os apreciou assim constou:
+"O Instituto de Diagnóstico e Reabilitação Lumen S/S alega a existência de omissão no acórdão. Sustenta que a questão submetida a julgamento somente foi analisada sob a ótica do direito dos fisioterapeutas requisitarem exames e laudos (com amparo no artigo 3º da Resolução nº 80/87 do COFFITO), mas não da legitimidade da recusa da embargante em realizá-los, com fundamento nos dispositivos constitucionais referidos.
+Aduz que competia analisar a arguição da embargante e dizer se são aplicáveis ao caso os arts. 5º, II e XIII, e 170, parágrafo único, ambos da Constituição Federal, bem como se existe dispositivo legal que a obrigue, enquanto pessoa jurídica de direito privado, a realizar exames e laudos complementares que tenham sido requisitados por fisioterapeutas" (sublinhou- se).
+Todavia, apesar do r. acórdão embargado ter identificado no relatório qual era o verdadeiro objeto dos primeiros embargos de declaração, a omissão não foi suprida, já que no voto condutor apenas houve referência aos fundamentos externados no julgamento da apelação cível que admitiram a possibilidade dos profissionais fisioterapeutas requisitem exames complementares.
+Tanto é que no voto condutor do acórdão foi reproduzido pequeno trecho do voto-vista (evento 16), o qual trata justamente do direito dos fisioterapeutas requisitarem exames complementares, com base no art. 3º da Resolução nº 80/87 do COFFITO, mas, repita-se, não houve pronunciamento sobre a arguição de que a embargante tem o direito de recusar sua realização.
+Porém, verifica-se que a Corte de origem, instada a se manifestar, não analisou a questão suscitada pela parte recorrente - não existe norma legal que obrigue a embargante (por si ou seu corpo técnico) a realizar os exames e laudos técnicos requisitados por fisioterapeutas -, a qual configura matéria relevante ao deslinde da controvérsia. Dessa forma, justifica-se o retorno dos autos à origem para novo julgamento dos aclaratórios.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ARTIGO 535 DO CÓDIGO DE PROCESSO CIVIL. VIOLAÇÃO RECONHECIDA.
+1 - Caracterizada está a violação do artigo 535 do Código de Processo Civil quando o Tribunal de origem não aprecia matéria relevante ao deslinde da controvérsia oportunamente suscitada.
+2 - Agravo regimental a que se nega provimento.
+(AgRg no REsp 1.173.019/RS, 5ª Turma, Rel. Min. Marco Aurélio Bellizze, Dje 28.02.2012).
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. EXECUÇÃO. IMÓVEL. PRESERVAÇÃO. PARCELA. MEAÇÃO. 1. VIOLAÇÃO DO ART. 535 DO CPC. OCORRÊNCIA. NECESSIDADE DE DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM. 2. EMBARGOS ACOLHIDOS COM EFEITOS MODIFICATIVOS.
+1. Há omissão, com ofensa ao art. 535 do CPC, no acórdão que deixa de examinar questão versada no recurso que lhe foi submetido, cuja apreciação era relevante para o deslinde da controvérsia.
+2. Embargos de declaração acolhidos, com efeito infringente, para dar provimento ao recurso especial, determinando-se o retorno dos autos ao Tribunal estadual para complementação do julgado.
+(EDcl no AgRg nos EDcl no REsp 1456042/AM, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 11/11/2014, DJe 26/11/2014).
+Diante do exposto, acolho os Embargos de Declaração, com efeitos infringentes, para dar parcial provimento ao Recurso Especial, com relação à preliminar de violação do art. 1.022 do CPC/2015, determinando o retorno dos autos à Corte de origem, para que se manifeste sobre o ponto suscitado nos aclaratórios.
+É como voto.
