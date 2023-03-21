@@ -1,0 +1,13 @@
+DECISÃO
+RILDO XAVIER DE MORAIS requer a reconsideração da decisão de fls. 184-186, em que neguei provimento ao recurso em habeas corpus para manter o prosseguimento da Ação Penal n. 0035113-35.2016.8.13.0319.
+Para tanto, assere que "a denúncia foi recebida com a ordem para prosseguimento da ação penal, porém não foram enfrentadas as teses defensivas aventadas na peça de Resposta à Acusação e não houve análise dos pedidos de produção de prova realizados" (fl. 192).
+Requer, assim, "seja provido o RHC anteriormente interposto, a fim de se reconhecer a nulidade da decisão de 1ª instância objeto deste writ, determinando-se que as teses preliminares e os requerimentos probatórios realizados pelas defesas em sede de Resposta à Acusação sejam devidamente analisados" (fl. 195).
+Todavia, em consulta processual realizada na página eletrônica deste Tribunal Superior, verifico anterior interposição do HC n. 523.480/MG, o qual se refere ao mesmo acórdão aqui impugnado e cujo pedido foi por mim analisado em 15/12/2022.
+Dessa forma, tendo em vista que este mandamus se trata de mera reiteração de pedido anterior, não se pode dele conhecer.
+Nesse sentido, confiram-se os seguintes julgados:
+ ..
+1. Constatado que o habeas corpus é mera reiteração de recurso especial anteriormente interposto, é caso de julgá-lo prejudicado ante a ausência de interesse recursal, uma vez que a causa de pedir e o pedido são idênticos, além de ambos atacarem o mesmo acórdão ora recorrido.
+2. "Concede-se habeas corpus sempre que alguém está sofrendo ou se acha ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder (art. 5º, LXVIII, da Constituição Federal), não cabendo sua utilização como substitutivo de recursos ordinário, extraordinário e especial, tampouco como sucedâneo de revisão criminal ou de agravo de instrumento contra a inadmissão de recurso especial" (AgRg no HC n. 619.986/SP, relator Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, julgado em 17/11/2020, DJe 20/11/2020)  ..  (AgRg no HC n. 700.134/AP, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 13/12/2021, sublinhei).
+ ..  A impetração de habeas corpus com objeto idêntico ao de agravo em recurso especial anteriormente interposto perante esta Corte caracteriza indevida reiteração de pedido. Precedentes  ..  (HC 309.768/CE, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 12/9/2019, grifei).
+À vista do exposto, com fulcro no 258, § 3º, do RISTJ, reconsidero a decisão agravada para cassar a decisão monocrática anteriormente proferida e não conhecer do recurso em habeas corpus.
+Publique-se e intimem-se.
