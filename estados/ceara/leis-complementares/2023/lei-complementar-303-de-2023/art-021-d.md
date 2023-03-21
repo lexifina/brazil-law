@@ -1,0 +1,3 @@
+Art. 21-D. ...........................................................................
+§ 1.º A remoção a pedido será precedida da publicação de Portaria do Procurador-Geral do Estado, noticiando a existência de vagas e abrindo o procedimento de remoção, com prazo mínimo de 5 (cinco) dias úteis para que os Procuradores apresentem os respectivos requerimentos.
+§ 5.º O Procurador removido ex officio nos termos do inciso II deste artigo terá o direito de acrescer, como período contínuo, para efeitos de remoção por antiguidade, o tempo de exercício no órgão de onde foi removido, bem como terá preferência sobre todos os demais para retorno ao referido órgão de origem na primeira vaga que surgir após a sua movimentação.
