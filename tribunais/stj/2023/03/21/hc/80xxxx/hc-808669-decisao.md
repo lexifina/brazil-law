@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de Vinícius Vieira da Rosa, autuado em flagrante delito em 30/1/2022, pela prática, em tese, dos crimes de roubo circunstanciado e receptação simples.
+Ataca-se acórdão proferido pelo Tribunal de Justiça de São Paulo no HC n. 2031368-90.2023.8.26.0000 (fls. 63/69), que manteve a conversão da prisão em flagrante do paciente em preventiva nos Autos n. 1503656-80.2023.8.26.0228, da 10ª Vara Criminal do Foro Central Criminal da comarca de São Paulo/SP.
+Alega-se constrangimento ilegal consistente em deficiência de fundamentação do decreto preventivo e indeferimento da substituição da preventiva por prisão domiciliar, nos termos da Recomendação CNJ n. 62/2022.
+Requer-se, então, a concessão da ordem, inclusive em caráter liminar, a fim de que o paciente seja posto em liberdade.
+Juntado aos autos cópia do decreto preventivo (fls. 95/98).
+É o relatório.
+Inicialmente, não se conhece da alegação de possibilidade de substituição da preventiva por p risão domiciliar, nos termos da Recomendação CNJ n. 62/2022, uma vez que tal matéria não foi enfrentada pela Corte estadual no acórdão hostilizado.
+Ademais, não diviso o alegado constrangimento quanto à fundamentação do decreto de prisional, pois evidenciou o receio de perigo gerado pelo estado de liberdade do imputado à ordem pública, ressaltando a gravidade concreta do delito e a periculosidade do agente - considerando que praticaram delito de roubo a duas vítimas, em concurso de agentes e com emprego de arma de fogo para incutir grave ameaça na vítima, colocando em risco exponencial todos os presentes no local, o que acresce reprovabilidade à conduta delitiva dos autuados e denota o perigo gerado pelo seu estado de liberdade. Ainda, estavam utilizando motocicleta roubada para cometer os crimes (fl. 97) - apresentando, assim, fundamento apto a consubstanciar a prisão.
+Confira-se: verifico estarem presentes elementos concretos a justificar a imposição da segregação antecipada. As instâncias ordinárias, soberanas na análise dos fatos, entenderam que restou demonstrada a periculosidade da paciente e a gravidade do delito, evidenciadas pelo modus operandi da conduta criminosa, em que a acusada, juntamente com um indivíduo não identificado e seu companheiro, menor de idade, subtraiu, mediante grave ameaça exercida com emprego de arma de fogo, diversos bens pertencentes às vítimas (HC n. 549.386/SP, Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 26/5/2020, DJe de 10/6/2020).
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. ROUBO CIRCUNSTANCIADO E RECEPTAÇÃO SIMPLES. PRISÃO PREVENTIVA. ALEGAÇÃO DE POSSIBILIDADE DE SUBSTITUIÇÃO DA PREVENTIVA POR PRISÃO DOMICILIAR. RECOMENDAÇÃO CNJ N. 62/2022. MATÉRIA NÃO ANALISADA PELA CORTE ESTADUAL. INDEVIDA SUPR ESSÃO DE INSTÂNCIA. RISCO DE ESTADO DE LIBERDADE PARA A ORDEM PÚBLICA. FUNDAMENTAÇÃO. GRAVIDADE CONCRETA E PERICULOSIDADE. FUNDAMENTOS IDÔNEOS. PRISÃO MANTIDA.
+Inicial indeferida liminarmente.
