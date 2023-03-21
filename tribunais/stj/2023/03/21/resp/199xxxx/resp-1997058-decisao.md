@@ -1,0 +1,47 @@
+DECISÃO
+SEGURADORA LÍDER DO CONSÓRCIO DO SEGURO DPVAT S.A interpõe recurso especial, forte nas alíneas "a" e "c" do permissivo constitucional, em face do acórdão exarado pelo Tribunal de Justiça do Estado do Rio Grande do Sul, no curso do feito em que contende com ROSA MARCIA BATISTA, cuja ementa transcreve-se:
+AÇÃO DE COBRANÇA. SEGURO DPVAT. INVALIDEZ PERMANENTE. CORREÇÃO MONETÁRIA. TERMO INICIAL. PAGAMENTO PARCIAL. ÔNUS SUCUMBENCIAIS. DECAIMENTO INTEGRAL DARÉ. HONORÁRIOS ADVOCATÍCIOS. MANUTENÇÃO. I. TENDO HAVIDO PAGAMENTO PARCIAL ADMINISTRATIVAMENTE, A CORREÇÃO MONETÁRIA DEVE SER CONTADA A PARTIR DESTA DATA E NÃO A PARTIR DA DATA DO SINISTRO. II. NO CASO EM TELA, CONSIDERANDO QUE O AUTOR POSTULOU NAPETIÇÃO INICIAL A DIFERENÇA DO SEGURO OBRIGATÓRIO EM VALORA SER ARBITRADO CONFORME A GRADUAÇÃO DA INVALIDEZ APURADA EM PERÍCIA MÉDICA, A PARTE RÉ DEVE SER CONDENADAA O PAGAMENTO INTEGRAL DA SUCUMBÊNCIA. III. DE OUTRO LADO, NOS TERMOS DO ART. 85, § 2º, DO CPC, OS HONORÁRIOS ADVOCATÍCIOS DEVEM SER FIXADOS ENTRE 10% E 20%SOBRE O VALOR DA CONDENAÇÃO, DO PROVEITO ECONÔMICO OBTIDO OU, NÃO SENDO POSSÍVEL MENSURÁ-LO, SOBRE O VALOR ATUALIZADO DA CAUSA, LEVANDO EM CONSIDERAÇÃO O GRAU DEZELO DO PROFISSIONAL, O LUGAR DE PRESTAÇÃO DO SERVIÇO, A NATUREZA E IMPORTÂNCIA DA CAUSA, O TRABALHO REALIZADO PELO ADVOGADO E O TEMPO EXIGIDO PARA O SEU SERVIÇO. NOCASO EM TELA, CONSIDERANDO O BAIXO VALOR DA CONDENAÇÃO, DEVEM SER MANTIDOS OS HONORÁRIOS SUCUMBENCIAIS ARBITRADOS EM 12% DO VALOR DA CAUSA. APELAÇÃO PARCIALMENTE PROVIDA.
+Em suas razões, sustenta a recorrente violação ao art. 85, §2º do CPC. Aduz que, tendo a condenação sido fixada em R$101,25, verifica-se que o patrono da parte recorrida receberá importância desproporcional e exorbitante, pois fixada em 12% sobre o valor da causa. Aduz que apenas se pode utilizar o valor da causa quando não há condenação ou quando não for possível mensurar o proveito econômico obtido. Discorre sobre a natureza objetiva da norma prevista no art. 85, §2º, e da necessidade de sua observância. Argumenta que o arbitramento por equidade pressupõe fixação razoável e condizente com a simplicidade das demandas desta natureza . Indica dissídio jurisprudencial. Requer o provimento do recurso.
+Foram apresentadas contrarrazões.
+O recurso foi admitido pela Corte de origem.
+É o relatório.
+Decido.
+Conheço do recurso, pois preenchidos os pressupostos de admissibilidade.
+A pretensão recursal consiste em ver minorados os honorários advocatícios fixados em favor do patrono da parte recorrida, tendo constado do acórdão no ponto (e-STJ fl. 183):
+De outro lado, nos termos do art. 85, § 2º, do CPC, os honorários advocatícios devem ser fixados entre 10% e 20% sobre o valor da condenação, do proveito econômico obtido ou, não sendo possível mensurá-lo, sobre o valor atualizado da causa, levando em consideração o grau de zelo do profissional, o lugar de prestação do serviço, a natureza e importância da causa, o trabalho realizado pelo advogado e o tempo exigido para o seu serviço.
+No caso em tela, considerando o baixo valor da condenação, tenho que devem ser mantidos os honorários sucumbenciais arbitrados em 12% do valor da causa.
+Sobre a questão, o seguinte precedente deste Grupo Cível:
+APELAÇÃO CÍVEL. SEGUROS. DPVAT. AÇÃO DE COBRANÇA. DISTRIBUIÇÃO DOS ÔNUS SUCUMBENCIAIS. HONORÁRIOS FIXADOS SOBRE O VALORDA CAUSA. POSSIBILIDADE. BAIXOVALOR DA CONDENAÇÃO. 1.É de ser mantida a decisão que atribuiu sucumbência mínima para a parte autora, na hipótese que os pedidos efetivados na inicial foram integralmente satisfeitos, caso dos autos, mesmo que consignado valor da causa superior ao valor da condenação, pois se trata de valor meramente sugestivo, sendo necessária a realização de perícia médica para graduação da invalidez e apuração do o valor correto a ser pago a título de indenização securitária. 2.É cabível a fixação dos honorários sucumbenciais por percentual a incidir sobre o valor da causa, de acordo com o disposto no art. 85, § 2º do Código de Processo Civil, na hipótese em que o valor da condenação for baixo. NEGARAM PROVIMENTO AO RECURSO DE APELAÇÃO.(Apelação Cível, Nº 50088018820198210001, Sexta Câmara Cível, Tribunal de Justiça do RS ,Relator: Eliziana da Silveira Perez, Julgado em: 18-03-2021).
+Consequentemente, deve prosperar parcialmente o recurso.
+Com efeito, o art. 85, § 2º, do CPC é expresso ao prever os seguintes critérios para o arbitramento dos honorários advocatícios:
+Art. 85. A sentença condenará o vencido a pagar honorários ao advogado do vencedor.(..)
+§ 2º Os honorários serão fixados entre o mínimo de dez e o máximo de vinte por cento sobre o valor da condenação, do proveito econômico obtido ou, não sendo possível mensurá-lo, sobre o valor atualizado da causa, atendidos:
+I - o grau de zelo do profissional;
+II - o lugar de prestação do serviço;
+III - a natureza e a importância da causa;
+IV - o trabalho realizado pelo advogado e o tempo exigido para o seu serviço.
+Na sessão de julgamento do dia 13/2/2019, a 2ª Seção do STJ, nos autos do REsp 1.746.072/PR, firmou entendimento de que a regra geral e obrigatória é a de que os honorários sucumbenciais devem ser fixados no patamar de 10% a 20% do valor da condenação, do proveito econômico obtido ou, não sendo possível mensurá-los, sobre o valor atualizado da causa.
+Esclareceu-se, ainda, que o Código de Processo Civil relegou ao § 8º do art. 85 a instituição de regra excepcional, de aplicação subsidiária, para as hipóteses em que, havendo ou não condenação: for inestimável ou irrisório o proveito econômico obtido; ou for muito baixo o valor da causa.
+Para melhor compreensão da questão, extrai-se do voto-condutor do aresto as seguintes diretrizes para a fixação da verba honorária:
+De fato, a seguinte ordem de preferência, na fixação dos honorários advocatícios sucumbenciais, é obtida pela conjugação dos §§ 2º e 8º do art. 85 do Código de Processo Civil:
+(a) primeiro, quando houver condenação, devem ser fixados entre 10% e 20% sobre o montante desta (art; 85, § 2º);
+(b) segundo, não havendo condenação, serão também fixados entre 10% e 20%, das seguintes bases de cálculo:
+(b.1) sobre o proveito econômico obtido pelo vencedor (art. 85, § 2º); ou
+(b.2) não sendo possível mensurar o proveito econômico obtido, sobre o valor atualizado da causa (art. 85, § 2º);
+(c) havendo ou não condenação, nas causas em que for inestimável ou irrisório o proveito econômico ou em que o valor da causa for muito baixo, deverão, só então, ser fixados por apreciação equitativa (art; 85, § 8º).
+Logo, em face de redação tão expressiva, a conclusão lógica é a de que o § 2º do art. 85 do CPC de 2015 veicula a regra geral e obrigatória de que os honorários advocatícios sucumbenciais devem ser fixados no patamar de 10% a 20%: (I) do valor da condenação; ou (II) do proveito econômico obtido: ou (III) não sendo possível mensurá-lo, do valor atualizado da causa.
+Nessa ordem de ideias, o Código de Processo Civil relegou ao § 8º do art. 85 a instituição de regra excepcional, de aplicação subsidiária, para as hipóteses em que, havendo ou não condenação: (I) for inestimável ou irrisório o proveito econômico obtido; ou (II) for muito baixo o valor da causa.
+Assim, em regra: a) os honorários devem ser fixados com base no valor da condenação; b) não havendo condenação ou não sendo possível valer-se da condenação, utiliza-se (b.1) o proveito econômico obtido pelo vencedor ou, como última hipótese, (b.2) recorre-se ao valor da causa.
+A aplicação da norma subsidiária do art. 85, § 8º, verdadeiro "soldado de reserva", como classificam alguns, somente será cogitada na ausência de qualquer das hipóteses do § 2º do mesmo dispositivo.
+Assim, a incidência, pela ordem, de uma das hipóteses do art. 85, § 2º, impede que o julgador prossiga com sua análise a fim de investigar eventual enquadramento no § 8º do mesmo dispositivo, porque a subsunção da norma ao fato já se terá esgotado.
+Conforme relatado, apesar de existir condenação, o proveito econômico obtido na causa é diminuto e dele adviriam honorários irrisórios.
+Ora, o profissional do direito deve ser remunerado condignamente com o seu mister, admitido constitucionalmente como administrador da justiça (artigo 133 da CF).
+Sopesar, ademais, o valor da demanda, o tempo de tramitação, o trabalho despendido pelos advogados, tendo as instâncias ordinárias arbitrado a verba honorária na forma do § 8º do art. 85 do CPC - fixando em decorrência disso o percentual de 12% sobre o valor da causa - é matéria que se mostra insindicável na forma do enunciado 7/STJ, não merecendo reparos o acórdão recorrido.
+Diante do exposto, nego provimento ao recurso especial.
+Em razão do julgamento, majoram-se para 15% o valor dos honorários advocatícios fixados na origem, forte no art. 85, §11º do CPC.
+Advirto as partes que a oposição de incidentes manifestamente improcedentes e protelatórios dará azo à aplicação das penalidades legalmente previstas.
+Intimem-se.
+EMENTA
+RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. CPC/15. AÇÃO DE COBRANÇA DE SEGURO OBRIGATÓRIO. DPVAT. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS.
+1. Em sendo o proveito econômico diminuto a resultar em honorários sucumbenciais irrisórios, é mais do que escorreita a fixação da verba por meio do critério de equidade, na forma do §8º do art. 85 do CPC. Entendimento, ademais, firmado pela Segunda Seção no REsp 1.746.072/PR.
+2. RECURSO ESPECIAL DESPROVIDO.
