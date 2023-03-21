@@ -1,0 +1,33 @@
+DECISÃO
+Agrava-se da decisão que inadmitiu o recurso especial interposto por BENEDITA CARVALHO DA COSTA, EUNICE RITA DE CARVALHO MARTINS, MARIA RITA CARVALHO DE OLIVEIRA, ALICE CARVALHO ISAIAS, ALICE DE CARVALHO ISAIAS e DIVANI BATISTA CARVALHO DOS SANTOS, com fundamento no art. 105, inciso III, alíneas a e c, da CF/1988, no qual se insurgiram contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO assim ementado:
+AGRAVO DE INSTRUMENTO. CIVIL. PROCESSO CIVIL. MILITAR. PENSÃO ESPECIAL. EX-COMBATENTE. FILHA MAIOR, CAPAZ. RECURSO NEGADO.
+1. Tratando-se de pensão para filho de ex-combatente, a norma aplicável para a concessão/reversão da pensão é a vigente à época do óbito de seu instituidor, ou seja, do falecimento do ex-combatente. Desta feita, no caso em tela, ocorrido o falecimento em 1975, a lei aplicável é a Lei 4.242/1963.
+2. Verifica-se da leitura do dispositivo legal que, ao instituir a pensão, este trouxe um requisito específico, extensível aos herdeiros, que é a necessidade de provar incapacidade laborativa, sem poder prover os próprios meios de subsistência.
+3. No presente caso, não há nos autos nenhum documento que comprove que as partes agravantes estão incapacitadas para prover o próprio sustento.
+4. Dessa forma, as partes agravante não preenchem os requisitos da lei, pelo que não fazem jus ao benefício pleiteado, devendo ser mantida a r. decisão agravada.
+5. Agravo de instrumento a que se nega provimento (fl. 368).
+Os embargos de declaração opostos foram acolhidos (fls. 676/685):
+EMBARGOS DE DECLARAÇÃO. VÍCIO APONTADO. HABILITAÇÃO DE HERDEIRAS NÃO CONFIGURA RECONHECIMENTO DA QUALIDADE DE DEPENDENTE PAR A FINS PREVIDENCIÁRIOS. RECURSO PROVIDO.
+I. Inicialmente, assevero que os embargos de declaração são cabíveis para corrigir eventual contradição, obscuridade ou omissão da decisão e o seu julgamento far-se-á com espeque no artigo 1024 do novo Código de Processo Civil.
+II. No caso em análise, o Superior Tribunal de Justiça, ao proferir julgamento no Recurso Especial interposto pela parte agravante, entendeu que houve omissão no julgado e anulou o acórdão proferido por esta Primeira Turma em sede de embargos de declaração para que houvesse novo pronunciamento a respeito da "questão já decidida acerca da qualidade de dependentes das agravantes, já comprovada em ação". anterior, em relação ao falecido.
+III. Não obstante, em que pese a decisão proferida pelo STJ, não houve o reconhecimento da qualidade de dependentes das agravantes nos autos.
+IV. De fato, observa-se que ocorreu a simples habilitação das agravantes Benedita Carvalho da Costa, Eunice Rita de Carvalho Martins, Maria Rita Carvalho de Oliveira, na condição de Alice de Carvalho Isaias e Divani Batista Carvalho dos Santos herdeiras da falecida autora originária Rita Maria de Carvalho.
+V. Ora, a mera habilitação das herdeiras não pressupõe o reconhecimento de sua qualidade como dependentes em relação ao falecido, mas significa apenas que demonstraram a condição de sucessoras da falecida autora originária.
+VI. Portanto, não há preclusão temporal sobre questão que sequer restou decidida nos autos.
+VII. Em verdade, a qualidade de dependentes restou afastada posteriormente em face da ausência do preenchimento dos requisitos legais para a concessão do benefício previdenciário.
+VIII. Embargos de declaração acolhidos.
+Nas razões do recurso especial, sustenta-se, além de divergência jurisprudencial, violação dos arts. 1.022, II, parágrafo único, II, 489, §1º, IV, 505 e 507 do CPC. Alega-se, para tanto: (a) o Tribunal de origem foi omisso quanto à matéria discutida; (b) " ..  o d. Juízo de Santos, em 1999, reconheceu a qualidade de dependente das recorrentes e, consequentemente o seu direito à implantação administrativa, de modo que não poderia, neste momento, o d. Juízo de Santos e o d. Tribunal a quo julgar matéria já julgada e sobre a qual operou-se a preclusão" (fl. 701).
+Devidamente intimada, a parte agravada apresentou as contrarrazões (fls. 705/708).
+Sobreveio o juízo de admissibilidade negativo, razão pela qual se interpôs o agravo em recurso especial ora em análise.
+É o relatório.
+A irresignação não merece prosperar.
+Inicialmente, é importante ressaltar que o presente recurso atrai a incidência do Enunciado Administrativo 3 do STJ, segundo o qual "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Inexiste a alegada violação do art. 1.022 do CPC/2015, pois a prestação jurisdicional foi dada na medida da pretensão deduzida consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de nenhum erro, omissão, contradição ou obscuridade. Observe-se, ademais, que julgamento diverso do pretendido, como na espécie, não implica ofensa ao dispositivo de lei invocado.
+Nos  exatos  termos  do  acórdão  recorrido,  o  Tribunal  de  origem  assim  se  manifestou  sobre  o cerne da  insurgência:
+De fato, observa-se que ocorreu a simples habilitação das agravantes Benedita Carvalho da Costa, Eunice Rita de Carvalho Martins, Maria Rita Carvalho de Oliveira, Alice de na condição de herdeiras da falecida autora Carvalho Isaias e Divani Batista Carvalho dos Santos originária Rita Maria de Carvalho.
+Ora, a mera habilitação das herdeiras não pressupõe o reconhecimento de sua qualidade como dependentes em relação ao falecido, mas significa apenas que demonstraram a condição de sucessoras da falecida autora originária.
+Portanto, não há preclusão temporal sobre questão que sequer restou decidida nos autos.
+Em verdade, a qualidade de dependentes restou afastada posteriormente em face da ausência do preenchimento dos requisitos legais para a concessão do benefício previdenciário (fl. 678 - grifei).
+O Tribunal de origem reconheceu que não havia preclusão temporal sobre a questão que nem sequer tinha sido decidida nos autos. Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto. Sendo assim, incide no caso a Súmula 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar a ele provimento.
+Publique-se. Intimações necessárias.
