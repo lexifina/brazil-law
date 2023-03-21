@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 15/03/2023 a 21/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, Laurita Vaz, João Otávio de Noronha, Humberto Martins, Herman Benjamin, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Paulo de Tarso Sanseverino, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Maria Thereza de Assis Moura.
+RELATÓRIO
+Trata-se de agravo regimental interposto por ANDERSON ROBERTO DA SILVA contra decisão que negou seguimento ao recurso extraordinário assim ementada (fl. 920):
+RECURSO EXTRAORDINÁRIO. FALTA DE FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. TEMA N. 339/STF. PREENCHIMENTO DOS PRESSUPOSTOS DE ADMISSIBILIDADE RECURSAL. TEMA N. 181/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. SEGUIMENTO NEGADO.
+A parte agravante alega (fl. 930):
+O que provoca o Agravante e justifica a sua alegação de ofensa ao art. 5º, XXXV, LIV, LV, e artigo 93 da Constituição Federal, é o fato desse Excelso Superior Tribunal de Justiça não ter se manifestado sobre questões fundamentais da controvérsia, suficientes para alterar o julgamento do feito e determinar a ABSOLVIÇÃO do Agravante, notadamente acerca do notório cerceamento de defesa.
+Aduz que (fls. 931-932):
+A MM. Juíza de Primeira Instância indeferiu a produção de prova, prejudicando, em muito, a defesa, impedindo de demonstrar que a versão apresentada pelo sentenciado não é fantasiosa, provando sua inocência, incorrendo em patente cerceamento de defesa. O cerceamento do direito à produção da prova constitui grave violação dos direitos processuais da parte e insuportável menosprezo aos direitos que, ao mesmo tempo em que são protegidos pela ordem jurídica, estão no cerne da própria concepção do Estado de Direito Democrático.
+Assevera ser (fl. 940):
+ ..  evidente a necessidade de realização de perícia tecnológica nos GPSs das viaturas e nos celulares dos respectivos policiais, a fim de se esclarecer o local exato onde Anderson estava estacionado, assim como esclarecendo que Anderson não estava no local indicado pelos policiais e não estava transportando drogas ilícitas.
+Requer o provimento do agravo para que o recurso extraordinário seja admitido e remetido ao Supremo Tribunal Federal.
+As contrarrazões foram apresentadas às fls. 950-962 e 963-974.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. NEGATIVA DE SEGUIMENTO. FUNDAMENTAÇÃO SUFICIENTE DO JULGADO RECORRIDO. TEMA N. 339/STF. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO. TEMA N. 181/STF. AUSÊNCIA DE REPERCUSSÃO GERAL.
+1. "O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão" (Tema n. 339/STF, QO no Ag n. 791.292/PE).
+2. Existente a fundamentação, ainda que a parte não a repute correta ou completa, entende o Supremo Tribunal Federal que foi respeitado o art. 93, IX, da CF, conforme a conclusão firmada no Tema n. 339/STF, tese de observância obrigatória (CPC, art. 927, III).
+3. "A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral" (Tema n. 181/STF).
+4. Não preenchidos os pressupostos de admissibilidade do agravo em recurso especial, deve ser adotada (CPC, art. 927, III) a tese fixada no Tema n. 181/STF, ainda que se queira, no recurso extraordinário, discutir o mérito da causa ou os fundamentos que impediram o conhecimento do recurso.
+5. Agravo regimental a que se nega provimento.
+VOTO
+Quanto à questão da correta fundamentação das decisões judiciais, o STF firmou tese vinculante segundo a qual:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão (QO no Ag n. 791.292/PE).
+Em suma, apenas a ausência de fundamentação possibilitaria a apreciação do caso pela Suprema Corte, hipótese que não ocorre quando há fundamentos, ainda que a parte não os considere corretos, completos ou os entenda demasiadamente sucintos.
+No caso, foram declinados os motivos pelos quais não se conheceu do agravo regimental da defesa, valendo destacar os seguintes trechos (fl. 870):
+O recurso especial foi inadmitido, considerando a incidência da Súmula 7/STJ. O agravo em recurso especial não foi conhecido por ausência de impugnação do referido fundamento (fls. 823/824).
+O presente regimental, contudo, deixou de enfrentar tal fundamento, fazendo apenas afirmações genéricas quanto à desnecessidade de reexame de provas, afim de afastar a incidência da Súmula 7/STJ.
+Alega a defesa, ademais, que o recorrente foi condenado pela prática do delito previsto no art. 33 da Lei 11.343/06, além de apontar ofensa aos art. 39 e 89 da Lei 9.099/95, 107 e 109 do Código Penal e 619 e 620 do Código de Processo Penal, matéria estranha ao recurso especial.
+Nesse contexto, o agravo regimental não comporta conhecimento, nos termos do art. 1.021, § 1º, do CPC, e da Súmula 182/STJ. Nesse sentido: AgRg nos EDcl no AREsp 1.264.993/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 11/12/2018, DJe 01/02/2019; e AgInt no AREsp 1.193.179/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 13/12/2018, DJe 04/02/2019.
+Com efeito, demonstrada a ocorrência da prestação jurisdicional, ainda que não se concorde com a solução dada à causa, afigura-se inviável o prosseguimento do recurso extraordinário, pois o provimento recorrido encontra-se em sintonia com a tese fixada no Tema n. 339/STF, de observância obrigatória (CPC, art. 927, III), entendimento reiterado pelo próprio STF, por exemplo, no ARE n. 1.349.717-ED-AgR, relator Ministro Luiz Fux, Plenário, DJe de 10/2/2022.
+Quanto às demais alegações do recurso, a análise do acórdão, como consignado na decisão agravada, revela que o pronunciamento questionado concluiu pelo não preenchimento dos pressupostos de admissibilidade do recurso anteriormente dirigido ao Superior Tribunal de Justiça.
+Tal fato ocorreu porque, no julgado recorrido, o colegiado não conheceu do agravo regimental, mantendo, por consequência, a decisão monocrática que também não conheceu do agravo em recurso especial da parte, ambos por ausência de contestação específica dos fundamentos da decisão agravada, atraindo o óbice da Súmula n. 182/STJ.
+Como se vê, o mérito do recurso especial não chegou a ser apreciado, diante de insuperável óbice processual, impeditivo do próprio conhecimento do recurso.
+Segundo o STF, a ausência de superação do que fora decidido no pronunciamento recorrido acerca dos pressupostos de conhecimento do recurso anterior, como ocorreu neste caso, inviabiliza o exame do recurso extraordinário pela própria Corte Suprema, qualquer que seja a suscitada violação da Constituição Federal, consoante a tese fixada no Tema n. 181 da repercussão geral, que vale transcrever:
+A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral (RE n. 598.365-RG/MG).
+Nesse sentido, eventual ofensa à Carta Magna, se existente, seria apenas indireta ou reflexa, entendendo o Excelso Pretório que "carece de repercussão geral a discussão acerca dos pressupostos de admissibilidade de recursos da competência de cortes diversas" (ARE n. 1.227.415-AgR, relator Ministro Edson Fachin, Segunda Turma, DJe de 21/5/2021), até mesmo quando alegada a ofensa ao art. 105, III, da Constituição da República (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+Esse é também o consolidado entendimento do STJ sobre a questão, havendo reiterado desprovimento dos agravos que impugnam decisões de aplicação do Tema n. 181/STF, como bem exemplifica o precedente a seguir:
+Tratando-se de recurso extraordinário contra acórdão que não ultrapassou o juízo de admissibilidade, fica inviabilizado o exame das questões constitucionais suscitadas em face da inexistência de repercussão geral.
+(AgInt no RE nos EDcl no AgInt no AREsp n. 1.342.377/SP, relatora Ministra Maria Thereza de Assis Moura, DJe de 13/9/2019.)
+Assim, alinhado o provimento impugnado ao disposto pelo STF sobre a fundamentação das decisões e não havendo repercussão geral quanto ao restante das alegações, conforme teses de observância obrigatória (CPC, art. 927, III, parte final), o recurso extraordinário não comporta seguimento.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
