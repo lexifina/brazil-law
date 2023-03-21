@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto por AMAZON SERVICOS DE VAREJO DO BRASIL LTDA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado:
+APELAÇÃO - MANDADO DE SEGURANÇA - PEDIDO DE RECOLHIMENTO DE ALÍQUOTA DE ICMS INFERIOR À ATUALMENTE COBRADA NA IMPORTAÇÃO DO VIDEOGAME NINTENDO SWITCH  SENTENÇA QUE DENEGOU A SEGURANÇA  IRRESIGNAÇÃO DA IMPETRANTE - PRELIMINAR DE INADEQUAÇÃO DA VIA ELEITA REJEITADA - NO MÉRITO, A COBRANÇA DE ICMS ENCONTRA SUPEDÂNEO NO ART. 155, II, DA CF/88 - INCIDÊNCIA DE ALÍQUOTA DE 25%, DE ACORDO COM O ART. 55, XV, DO RIC"MS - A PRETENSÃO DE ENQUADRAMENTO DO NINTENDO SWITCH NA CATEGORIA NBM/SH Nº 9504.90.90, A FIM DE LHE SER APLICADA A ALÍQUOTA GERAL DO ICMS (18%), QUE NÃO SE SUSTENTA - CONSOLE QUE POSSUI FUNÇÕES HÍBRIDAS, ADMITINDO SER UTILIZADO TANTO LIGADO A UM APARELHO DE TELEVISÃO RECEPTOR QUANTO DE FORMA PORTÁTIL - INFORMAÇÕES FORNECIDAS PELA FABRICANTE QUE INDICAM QUE O CONSOLE EQUIPARA-SE A OUTROS VIDEOGAMES QUE SÃO UTILIZADOS JUNTO A UM TELEVISOR E QUE SE DISTANCIA DAQUELES APARELHOS QUE FUNCIONAM EXCLUSIVAMENTE DE FORMA PORTÁTIL MANUTENÇÃO DA SENTENÇA DENEGATÓRIA DA SEGURANÇA - NÃO PROVIMENTO DO RECURSO INTERPOSTO.
+Não foram opostos embargos de declaração.
+No recurso especial, fundamentado nas alíneas "a" e "c" do permissivo constitucional, a recorrente aponta, além da divergência jurisprudencial, violação dos seguintes dispositivos: a) art. 927, III, do Código de Processo Civil, sustentando que o acórdão recorrido deixou de aplicar ao presente caso o entendimento firmado no STF por ocasião do julgamento do RE n. 669.367/RJ (Tema n. 530); b) art. 485, §§ 4º e 5º, do Código de Processo Civil, aduzindo que as limitações contidas nesses dispositivos não se aplicam ao mandado de segurança.
+Houve contrarrazões ao recurso especial (e-STJ fls. 2041/2049).
+É o relatório. Decido.
+Cuida-se, na origem, de mandado de segurança impetrado pela ora recorrente. Nas razões do agravo interno, a parte aduziu que protocolou pedido de desistência do mandado de segurança, postulando pela extinção do feito sem resolução de mérito independentemente da anuência da parte contrária e pela não condenação ao pagamento de honorários advocatícios.
+O Tribunal local negou provimento à apelação por entender pela impossibilidade de desistência em momento no qual já se esgotou a jurisdição da Corte.
+Da leitura do aresto combatido, verifico que os arts. 485, §§ 4º e 5º, e 927, III, do Código de Processo Civil não foram alvo das discussões travadas na origem, razão pela qual não podem ser examinados em sede de recurso especial por carência de necessário prequestionamento (Súmula n. 211/STJ).
+A propósito:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. POLICIAL FALECIDA EM SERVIÇO. PENSÃO ESPECIAL DE CARÁTER INDENIZATÓRIO. ISENÇÃO DE IMPOSTO DE RENDA.
+1. As questões jurídicas foram levantadas em torno dos dispositivos mencionados. O Superior Tribunal de Justiça entende ser inadmissível o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados pela instância de origem, a despeito da oposição de Embargos de Declaração e ainda que se trate de matéria de ordem pública, como a prescrição, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ.
+2. Ademais, o Superior Tribunal de Justiça decidiu que, "ainda que a indenização seja paga sob a forma de pensionamento mensal, os pagamentos não perdem a natureza indenizatória, não subsistindo razão para a retenção de imposto de renda na fonte" (AgRg no REsp 1.457.830/RS, Rel. Min. Humberto Martins, Segunda Turma, julgado em 16/9/2014, DJe 23/9/2014) 3. Agravo Interno não provido.
+(AgInt no AREsp n. 2.142.844/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+Ainda que assim não fosse, vale destacar que a adequação do aresto combatido com o que restou firmado pelo Supremo Tribunal Federal no RE n. 669.367/RJ (Tema n. 530) não pode ser analisada por este e.STJ sob pena de usurpação da competência da Suprema Corte.
+Exemplificativamente:
+PROCESSUAL CIVIL E TRIBUTÁRIO. OAB. ANUIDADES. NATUREZA JURÍDICA. FUNDAMENTO CONSTITUCIONAL. VIA ESPECIAL. EXAME. IMPOSSIBILIDADE.
+1. À luz do art. 105, III, da Constituição Federal, o recurso especial não serve à revisão da fundamentação constitucional, sob pena de usurpação a competência do Supremo Tribunal Federal.
+2. Na hipótese dos autos o acórdão a quo foi proferido com fundamento exclusivamente constitucional, consistente no posicionamento consolidado pelo STF no julgamento do RE 647.885/RS (Tema 732), que definiu que as anuidades cobradas pela Ordem dos Advogados do Brasil possuem natureza tributária e, por isso, se aplica o rito da Lei n. 6.830/1980.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 1.975.358/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/6/2022, DJe de 1/7/2022.)
+Por fim, deixo de analisar a divergência em virtude dos óbices aplicados ao conhecimento do tema pela alínea "a".
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 485, §§ 4º E 5º, E 927, III, DO CPC. SÚMULA N. 211/STJ. MANDADO DE SEGURANÇA. DESISTÊNCIA. INCIDÊNCIA DO ENTENDIMENTO FIRMADO NO RE N. 669.367/RJ. COMPETÊNCIA DO STF. RECURSO ESPECIAL NÃO CONHECIDO.
