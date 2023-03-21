@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de Alessandro Freitas da Silva, cuja prisão preventiva foi decretada pela prática, em tese, dos crimes de furto qualificado e associação criminosa.
+Ataca-se acórdão proferido pelo Tribunal de Justiça do Rio Grande do Sul no HC n. 5257417 60.2022.8.21.7000 (fls. 9 e 82/93), que manteve a prisão preventiva do paciente, decretada nos Autos n. 5014779-77.2022.8.21.0086 (fls. 83/88), da 2ª Vara Criminal da comarca de Cachoeirinha/RS.
+Alega-se constrangimento ilegal consistente em deficiência de fundamentação do decreto preventivo e requer-se, então, a concessão da ordem, inclusive em caráter liminar, a fim de que o paciente seja posto em liberdade.
+É o relatório.
+A despeito da alegação mandamental, não diviso o alegado constrangimento quanto à fundamentação do decreto de prisional, pois a prisão cautelar contou com requerimento do órgão da acusação (fl. 83) e demonstrou o receio de perigo gerado pelo estado de liberdade do imputado à ordem pública, ressaltando a periculosidade do agente - o representado ALESSANDRO FREITAS DA SILVA é o encarregado de arrombar imóveis e furtar diversos aparelhos eletrônicos, entregando aos vendedores que negociavam com EVERTON os objetos subtraídos (fl. 86) - e necessidade de evitar a continuidade das atividades criminosas - a prisão preventiva dos investigados ser necessária para a garantia da ordem pública, diante dos diversos furtos e receptações praticados por eles nos últimos meses (fl. 87) - e receio de perigo gerado pelo estado de liberdade à futura aplicação da lei penal - apontando que Everton Schmahtenberg e Alessandro Freitas da Silva encontram-se em local incerto e não sabido (fl. 87) - apresentando, assim, fundamento apto a consubstanciar a prisão.
+Confira-se: a custódia cautelar está sobejamente fundada na garantia da ordem pública, considerando a gravidade das condutas. Da mesma forma, foi realizada a individualização da necessidade da constrição, visto que foi ressaltado que a prisão se faz necessária para evitar a continuidade das atividades criminosas desenvolvidas (AgRg no RHC n. 171.320/MT, Ministra Laurita Vaz, Sexta Turma, DJe 19/12/2022).
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publiq ue-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. FURTO QUALIFICADO E ASSOCIAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. RISCO DE ESTADO DE LIBERDADE PARA A ORDEM PÚBLICA. PERICULOSIDADE DO AGENTE E FUNDADO RISCO DE REITERAÇÃO CRIMINOSA. FUNDAMENTOS IDÔNEOS. PRISÃO MANTIDA.
+Inicial indeferida liminarmente.
