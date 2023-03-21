@@ -1,0 +1,20 @@
+DECISÃO
+Vistos etc.
+Trata-se de recurso ordinário interposto por AMANDA DOURADO COLOMBO MARIANO E OUTRO em face de acórdão do Tribunal de Justiça do Estado de São Paulo que, ao indeferir a petição inicial do mandado de segurança, manteve o ato judicial apontado como coator que "condenou o autor de ação declaratória e seus advogados, solidariamente, ao pagamento da quantia de R$5.000,00 por litigância de má-fé, do valor de R$20.000,00 em favor parte demandada, a título de indenização por presumidos prejuízos morais, além de declarar que os advogados não são beneficiários da gratuidade processual".
+No recurso ordinário, os recorrentes defendem, em síntese, a necessidade de afastamento de suas condenações solidárias, juntamente com a parte autora, ao pagamento de multa por litigância de má-fé e indenização à parte contrária.
+É o breve relatório.
+Passo a decidir.
+O recurso ordinário perdeu seu objeto.
+A irresignação dos recorrentes é dirigida contra a sentença proferida pelo juízo da 2ª Vara Cível da Comarca de Andradina/SP que, no que importa, fez constar o seguinte na sua parte dispositiva (processo 1003784-61.2021.8.26.0024):
+Diante do exposto, ausente o interesse de agir, JULGO EXTINTO o processo sem resolução de mérito, nos termos do art. 485, VI, do CPC.
+Custas, despesas e honorários advocatícios solidariamente pela parte vencida e por seus advogados, os últimos fixados por equidade em R$ 5.000,00 (cinco mil reais), sem gratuidade da Justiça, uma vez que não comprovada a hipossuficiência para fins de concessão do benefício. Os advogados são condenados com base no princípio da causalidade, posto que são os principais responsáveis pela ação fraudulenta.
+Sem prejuízo, determino as seguintes providências:
+1) CONDENAÇÃO por litigância de má-fé da parte autora e seus advogados, solidariamente, no valor de R$ 5.000,00 (cinco mil reais), sem gratuidade da Justiça, uma vez que se trata de responsabilidade processual, com juros de mora de 1% a.m. e correção pela Tabela Prática do TJSP a partir desta sentença, com 5 (cinco) dias para pagamento voluntário, sob pena de inscrição em dívida ativa;
+2) CONDENAÇÃO da parte autora e seu advogado, solidariamente, a indenizar aparte contrária por prejuízos morais presumidos que entendo bem caracterizados, no valor de R$ 20.000,00 (vinte mil reais) para cada parte demandada, com juros de mora de 1% a.m. e correção pela Tabela Prática do TJSP a partir da distribuição, devendo a parte requerida ser notificada oportunamente para cobrança da indenização, caso não esteja nos autos.
+Em consulta ao site do Tribunal de Justiça do Estado de São Paulo, verifica-se que, no dia 10/11/2022, julgou-se o recurso de apelação - de fato, o recurso cabível na espécie -, nos termos da seguinte ementa:
+AÇÃO DECLARATÓRIA C/C INDENIZAÇÃO POR DANOS MORAIS. COMARCA DE ANDRADINA.Descontos em benefício previdenciário. Sentença de extinção, sem resolução de mérito, por falta de interesse processual, em virtude da prática de advocacia predatória, condenando a parte autora e seus Patronos, solidariamente, às penas de litigância de má-fé e a indenizar a parte contrária. Irresignação da parte autora. Cabimento. Inexistência de comprovação, ao menos por ora, de prática de advocacia predatória na hipótese dos autos. "Decisum" que não indica qualquer fato que estabeleça um liame entre a ação em exame e a prática de advocatícia predatória imputada aos Patronos da parte autora em outros feitos. Extinção afastada. Inviável, porém, "in casu", o julgamento imediato do mérito por esta Superior Instância, nos termos do art. 1.013, §3º, II, do CPC, por ausência de causa madura. Recurso provido.
+Colhe-se do voto-condutor do aresto que a sentença combatida foi anulada, "devendo o feito retornar à origem para regular prosseguimento".
+O acórdão transitou em julgado no dia 31/1/2023.
+Diante desse cenário, é inevitável reconhecer a perda superveniente de objeto e interesse recursal, pois revelada a ausência de utilidade prática no provimento jurisdicional perseguido no recurso ordinário.
+Assim, julgo prejudicado o exame do recurso ordinário.
+Intime-se.
