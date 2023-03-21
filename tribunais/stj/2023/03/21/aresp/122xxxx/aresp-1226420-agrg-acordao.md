@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 15/03/2023 a 21/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, Laurita Vaz, João Otávio de Noronha, Humberto Martins, Herman Benjamin, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Paulo de Tarso Sanseverino, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Maria Thereza de Assis Moura.
+RELATÓRIO
+Trata-se de agravo regimental interposto por FRANCISCO CARLOS XAVIER JUNIOR contra decisão que negou seguimento ao recurso extraordinário assim ementada (fl. 310):
+RECURSO EXTRAORDINÁRIO. FALTA DE FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. TEMA N. 339/STF. NEGATIVA DE SEGUIMENTO.
+1. Conforme decidido pela Suprema Corte, ao interpretar o art. 93, IX, da Constituição da República, para que uma decisão judicial seja considerada motivada, não se requer o exame pormenorizado de cada alegação ou prova trazida pelas partes, tampouco que sejam corretos os seus fundamentos.
+2. Conclusão firmada no julgamento do Tema n. 339/STF, segundo o qual "o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão" (QO no Ag n. 791.292/PE).
+3. Recurso extraordinário a que se nega seguimento, nos termos do art. 1.030, I, a, do CPC.
+A parte agravante sustenta que (fl. 319):
+ ..  a questão ventilada no reclamo extraordinário não diz respeito ao enfrentamento pormenorizado de cada argumento alegado pela defesa no julgamento do recurso especial ou do agravo regimental (como sinalizado na r. decisão ora agravada e nos julgados ali transcritos), mas, na verdade, em razão do v. acórdão recorrido não ter analisado os argumentos defensivos trazidos no "regimental" (uma vez que o v. acórdão simplesmente repisou a fundamentação trazida na r. decisão que negou provimento ao recurso especial).
+Assevera que (fl. 320):
+ ..  a adoção da chamada fundamentação per relationem impossibilitou "contestação" do próprio acórdão então recorrido, uma vez que, diante da mera repetição da fundamentação monocrática, inviabilizou a apresentação de argumentos que não fosse, infelizmente, a repetição daquilo que fora sustentado em sede de apelação (tendo em conta que não foram apreciados pelo Egrégio Tribunal de Justiça Bandeirante quando da "rejeição" da questão preliminar suscitada).
+Requer o provimento do agravo para que o recurso extraordinário seja admitido e remetido ao Supremo Tribunal Federal.
+As contrarrazões foram apresentadas às fls. 326-330.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. NEGATIVA DE SEGUIMENTO. FALTA DE FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. TEMA N. 339/STF.
+1. As decisões judiciais devem ser fundamentadas, ainda que de forma sucinta, não se exigindo análise pormenorizada de cada prova ou alegação das partes, nem que sejam corretos os seus fundamentos (Tema n. 339/STF).
+2. Agravo regimental a que se nega provimento.
+VOTO
+O STF, ao interpretar o art. 93, IX, da Constituição da República, firmou o entendimento de que, para que uma decisão judicial seja considerada motivada, não se requer o exame pormenorizado de cada alegação ou prova trazida pelas partes, tampouco que sejam corretos os seus fundamentos.
+A conclusão mencionada ficou sedimentada sob o regime da repercussão geral pela Suprema Corte, no Tema n. 339/STF, segundo o qual:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão (QO no Ag n. 791.292/PE).
+Confira-se, por oportuno, a ementa do aresto paradigma:
+Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3º e 4º). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.
+(AI n. 791.292-QO-RG, relator Ministro Gilmar Mendes, Tribunal Pleno, julgado em 23/6/2010, DJe de 13/8/2010.)
+No caso, constata-se que foram declinados os motivos pelos quais foi desprovido o agravo regimental da parte, valendo destacar o seguinte excerto (fls. 273-274):
+ ..  fiz constar na decisão ora recorrida que os fundamentos em destaque, suficientes à manutenção do acórdão recorrido, não foram impugnados, de forma específica, nas razões recursais, sendo forçoso o reconhecimento do óbice da Súmula n. 283 do Supremo Tribunal Federal.
+Inicialmente, consigne-se ser "válida a utilização da técnica da fundamentação per relationem, em que o magistrado se utiliza de trechos de decisão anterior ou de parecer ministerial como razão de decidir, desde que a matéria haja sido abordada pelo órgão julgador, com a menção a argumentos próprios, como na espécie, uma vez que a instância antecedente, além de fazer remissão a razões elencadas pelo Juízo natural da causa, indicou os motivos pelos quais considerava necessária a manutenção da prisão preventiva do réu e a insuficiência de sua substituição por medidas cautelares diversas" (RHC n. 94.488/PA, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 19/4/2018, DJe 2/5/2018).
+Portanto, não subsiste o argumento defensivo da "impossibilidade de impugnação, no recurso especial, dos fundamentos trazidos no v. acórdão recorrido ao rejeitar a matéria preliminar suscitada em razões de apelação (uma vez que inexistentes, tendo em conta que simplesmente se transcreve parecer ministerial para tanto)" - e-STJ fl. 262 -, pois, ao adotar o parecer ministerial, o acórdão passa a encampar, como ratio decidendi, a tese então perfilhada.
+E, considerando como válido o referido capítulo decisório, tal expediente não desincumbe a defesa de impugnar os fundamentos suficientes e autônomos que mantiveram o aresto vergastado, o que justifica a incidência do aludido óbice sumular.
+Com efeito, demonstrado que a prestação jurisdicional ocorreu, ainda que não se concorde com a solução dada à causa, afigura-se inviável o prosseguimento do recurso extraordinário, pois o provimento recorrido encontra-se em sintonia com a tese fixada no Tema n. 339/STF, de observância obrigatória (CPC, art. 927, III), entendimento reiterado pelo próprio STF, por exemplo, no ARE n. 1.349.717-ED-AgR, relator Ministro Luiz Fux, Plenário, DJe de 10/2/2022.
+Ante o exposto, nego provimento ao agravo regimental.
+É co mo voto.
