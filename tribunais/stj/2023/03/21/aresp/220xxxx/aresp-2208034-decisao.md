@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por ITAU UNIBANCO S.A, contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA. PRÉVIO REQUERIMENTO ADMINISTRATIVO. NECESSIDADE. INTERESSE DE AGIR. SENTENÇA REFORMADA.
+1. A lesão ou ameça de lesão a direito configura o interesse de agir e deve ser demonstrado pelo Autor da demanda.
+2. Nos casos de relação jurídico-administrativa, a resistência por parte da Administração Pública pode ser espontânea ou somente após provocação do cidadão. No primeiro caso, já há a lesão ou ameaça a lesão, de modo que não há necessidade de requerimento administrativo. Já no segundo caso, somente há resistência após a provocação. Assim, não há lesão ou ameça de lesão sem a provocação da Administração. Se não há resistência, não há interesse de agir.
+3 . No presente caso, o Autor não conseguia ter acesso ao site da prefeitura para que pudesse cumprir com o pagamento do ISSQN e suas obrigações acessórias. No entanto, o Autor não comunicou o problema à Administração Pública, mas socorreu-se diretamente ao Poder Judiciário.
+4. Se não houve comunicação/requerimento da Administração Pública, a esta não foi oportunizada a possibilidade de analisar o caso e atender o pleito ou negar/omitir-se. Assim, não houve pretensão resistida e, por consequência, o Autor não tem interesse de agir, que resulta na extinção do feito, sem resolução do mérito.
+APELAÇÃO CÍVEL CONHECIDA E PROVIDA" (fl. 152e).
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 163/168e), os quais restaram rejeitados, nos seguintes termos:
+"EMBARGOS DE DECLARAÇÃO NA APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA. PRÉVIO REQUERIMENTO ADMINISTRATIVO. NECESSIDADE. INTERESSE DE AGIR. OMISSÃO INEXISTENTE. AUSÊNCIA DOS REQUISITOS PREVISTOS NO ARTIGO 1.022 DO CPC/15. REEXAME DA CAUSA.
+1. A lesão ou ameça de lesão a direito configura o interesse de agir e deve ser demonstrado pelo Autor da demanda.
+2. No presente caso, o Autor não conseguia ter acesso ao site da prefeitura, para que pudesse cumprir com o pagamento do ISSQN e suas obrigações acessórias. No entanto, o Autor não comunicou o problema à Administração Pública, mas socorreu-se diretamente ao Poder Judiciário.
+3. Se não houve comunicação/requerimento à Administração Pública, a esta não foi oportunizada a possibilidade de analisar o caso e atender o pleito ou negar/omitir-se. Assim, não houve pretensão resistida e, por consequência, o Autor não tem interesse de agir, que resulta na extinção do feito, sem resolução do mérito.
+4. Não há omissão no acórdão embargado, se o julgamento do recurso é contrário ao que a parte entende devido.
+5. Apesar de o Embargante afirmar que há omissão no acórdão porque os documentos não foram analisados, foi justamente a análise da documentação que demonstrou que, de fato, não houve o prévio requerimento administrativo.
+6. Ausentes todas as hipóteses contidas no artigo 1.022, do Código de Processo Civil/15, e presente, tão somente, a intenção de rediscutir a matéria, impõe-se a rejeição dos Embargos de Declaração.
+EMBARGOS DE DECLARAÇÃO CONHECIDOS E REJEITADOS" (fl. 174e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora agravante aponta violação aos arts. 17 c/c 19, I; 485, VI e 3º, do Código de Processo Civil, sustentando, em síntese, que "o v. acórdão os aplicou equivocadamente, ao se manifestar pela ausência de interesse de agir da Recorrente" (fl. 193e); que é "incontroverso que o Município, por e-mail, teve conhecimento sobre o problema do bloqueio da senha da Recorrente e que a sua solução apenas se operou após a intervenção do Poder Judiciário" (fl. 195e).
+Por fim, requer "o acolhimento e provimento do presente recursodiante da violação o art. 17 c/c art. 19, I; art. 485, VI e art. 3º do Código de Processo Civil, reformando o v. acórdão para reconhecer a caracterização do interesse de agir da Recorrente, determinando a devolução dos autos ao Tribunal a quo para o julgamento de mérito da ação" (fl. 198e).
+Contrarrazões a fls. 211/222e.
+Inadmitido o Recurso Especial (fls. 225/227e), foi interposto o presente Agravo (fls. 232/239e).
+Contraminuta a fls. 244/252e.
+A irresignação não merece prosperar.
+No caso, o Tribunal de origem, com base no exame dos elementos fáticos dos autos, entendeu pela falta de interesse de agir, com suporte nos seguintes fundamentos:
+"Justamente pela análise da documentação, foi possível a conclusão de que não houve requerimento administrativo para a abertura de processo administrativo.
+Os e-mails juntados aos autos não são capazes de comprovar que houve um requerimento administrativo para a solução do problema. Isso, porque, com exceção do e-mail enviado ao Sr. Marcelo (com o domínio@goiania. go. gov. br), todos os outros e-mails não demonstram que, de fato, os contatos realizados foram com o Município de Goiânia, pois não têm nada capaz de identificar o Réu da demanda.
+Ainda com relação ao e-mail do Sr. Marcelo, este respondeu que "quem gerencia as senhas é o ATENDE FÁCIL (contato telefônico na página do Portal do Contribuinte). Favor entrarem contato com eles para instruções de redefinição de senhas. Sou Auditor lotado na fiscalização, não tenho acessos/autorizações para resolver esse tipo de problema". Contudo, nãohá, nos autos, comprovação de que houve contato com o "Atende fácil", conforme sugerido pelo Sr. Marcelo.
+Enfim, realmente não há comprovação de que houve um requerimento administrativo antes da propositura da ação, para que houvesse resistência por parte da Administração e configuração do interesse de provocar o Poder Judiciário.
+Por fim, como foi claramente disposto no acórdão embargado, "É importante ressaltar que se trata aqui de prévio requerimento administrativo e não de esgotamento das vias administrativas", como o Embargante insiste em seus aclaratórios" (fls. 176/177e)..
+Nesse contexto, considerando a fundamentação do acórdão objeto do Recurso Especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula 7/STJ.
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo, para não conhecer do Recurso Especial.
+I.
