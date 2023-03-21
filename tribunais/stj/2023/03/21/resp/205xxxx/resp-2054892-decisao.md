@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto pela Fazenda Nacional com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 5ª Região, assim ementado (fl. 268):
+EMENTA: PROCESSO CIVIL. CUMPRIMENTO DE SENTENÇA. HONORÁRIOS ADVOCATÍCIOS DEVIDOS À FAZENDA PÚBLICA. PRAZO QUINQUENAL. ART. 25, II DA LEI N. 8.906/94. PRESCRIÇÃO INTERCORRENTE CONSUMADA. RECURSO IMPROVIDO.
+1. Apelação interposta contra sentença que extinguiu execução promovida pela Fazenda Nacional para a cobrança de honorários advocatícios, em razão do reconhecimento da prescrição intercorrente.
+2. O STJ entende que é aplicável o prazo prescricional quinquenal a contar do trânsito em julgado de sentença condenatória, previsto no art. 25, II, da Lei n. 8.906/94 (Estatuto da OAB), às execuções de honorários advocatícios em favor da Fazenda Pública. (REsp 881.249/RS, Rel. Ministro FRANCISCO FALCÃO, PRIMEIRA TURMA, julgado em 27/02/2007, DJ 29/03/2007).
+3. A jurisprudência pátria vem entendendo pela possibilidade de incidência do instituto da prescrição intercorrente, em fase de cumprimento de sentença, na execução de honorários de sucumbência devidos à Fazenda Pública. (TRF3, 2ª Turma. AI 5014758-73.2020.4.03.0000, DATA: 13/05/2021).
+4. O "feito de Cumprimento de Sentença/Execução de honorários está há mais de 5(cinco) anos, no bojo do qual a Fazenda Pública, na qualidade de credora, tenta inutilmente cobrar honorários de sucumbência da parte vencida".
+5. "Em conformidade com a orientação jurisprudencial firmada no Tema 1 do Incidente de Assunção de Competência (IAC) - REsp 1.604.412/SC -, precedente de observância obrigatória nos termos do art. 927, III, do CPC/2015, nas execuções paralisadas sem prazo determinado, inclusive no caso de suspensão por ausência de bens penhoráveis (art. 791, III, do CPC/1973), o prazo prescricional da pretensão de direito material anteriormente interrompido reinicia após o transcurso de 1 (um) ano do último ato do processo. Além disso, o termo inicial do art. 1.056 do CPC/2015 tem incidência apenas nas hipóteses em que o processo se encontrava suspenso na data da entrada em vigor da lei processual nova, sem que tenha sido iniciado ou transcorrido o prazo prescricional durante a vigência do CPC/1973, sob pena de viabilizar a reabertura de prazo em curso ou exaurido". (STJ - TERCEIRA TURMA, AIRESP - 1743365, Min. Marco Aurélio Bellizze, DJE DATA:07/11/2018).
+6. Apelação improvida.
+Não foram opostos embargos de declaração.
+Nas razões do recurso especial, a parte recorrente aponta violação aos arts. 921 e 1.056 do CPC. Sustenta, em resumo, "que o acórdão recorrido seja reformado no sentido de ser afastado o reconhecimento da prescrição." (fl. 287).
+Não houve contrarrazões (fl. 294).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não merece prosperar.
+De início, a matéria pertinente ao art. 1.056 do CPC não foi apreciada pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+Ademais, destaca-se do acórdão recorrido a seguinte fundamentação (fl. 266/267):
+ ..
+O Superior Tribunal de Justiça entende que é aplicável o prazo prescricional quinquenal a contar do trânsito em julgado de sentença condenatória, previsto no art. 25, II, da Lei n. 8.906/94 (Estatuto da OAB), às execuções de honorários advocatícios em favor da Fazenda Pública. (REsp 881.249/RS, Rel. Ministro FRANCISCO FALCÃO, PRIMEIRA TURMA, julgado em 27/02/2007, DJ 29/03/2007).
+A jurisprudência pátria vem entendendo pela possibilidade de incidência do instituto da prescrição intercorrente, em fase de cumprimento de sentença, na execução de honorários de sucumbência devidos à Fazenda Pública. (TRF3, 2ª Turma. AI 5014758-73.2020.4.03.0000, DATA: 13/05/2021).
+Na hipótese em tela, convém transcrever os judiciosos fundamentos expostos na decisão de primeiro grau, que reconheceu a incidência da prescrição no caso em questão, in verbis:
+" ..  Inicialmente, este feito de Cumprimento de Sentença/Execução de honorários está há mais de 5(cinco) anos, no bojo do qual a Fazenda Pública, na qualidade de credora, tenta inutilmente cobrar honorários de sucumbência da parte vencida, tendo em vista o inteiro teor do despacho de fl.66.
+2. Restou-se determinado, com efeito, nos despachos de fls.104, 106, 113 e 146 a previsão de suspensão, a teor do art.921, III, do CPC, no qual o prazo prescricional de 5 (cinco) anos, é o que aduz os termos do art. 25, II, da Lei n.º 8.906/94, correria pela metade, tendo em vista a interrupção da prescrição ocorrida à fl. 66, quando houve a prolação do despacho de intimação/citação do devedor para pagar os honorários sucumbenciais.
+3. Assim, consoante se observa nos presentes autos, houve induvidosamente o transcurso de metade do lustro extintivo referido no item anterior, sem que fossem localizados quaisquer bens para satisfação do crédito atinentes aos honorários advocatícios devidos à Fazenda Pública, restando configurada, desta forma, a ocorrência da prescrição.
+4. Ante o exposto e considerando que depois de tanto tempo despendido sem êxito nessa tarefa por parte da exequente, por conseguinte, restando inexitosas todas as tentativas de localização de bens úteis à satisfação do crédito perseguido, reputando-se esgotadas as possibilidades de satisfação do mencionado crédito, motivos pelos quais determino o arquivamento do feito com baixa na distribuição, configurando-se como prejudicado a postulação de fl.182.  .. "
+Sobre o tema, cumpre ainda transcrever o precedente abaixo, do Superior Tribunal de Justiça:
+ ..
+Vê-se, assim, que a decisão recorrida se encontra em harmonia com os precedentes jurisprudenciais, razão pela qual é de se negar provimento ao apelo.
+Desta feita, impõe-se a manutenção da sentença recorrida.
+Diante desse contexto, a alteração das conclusões adotadas pela Corte de origem, no sentido da ocorrência da prescrição, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+ANTE O EXPOSTO, nego provimento ao recurso especial.
+Publique-se.
