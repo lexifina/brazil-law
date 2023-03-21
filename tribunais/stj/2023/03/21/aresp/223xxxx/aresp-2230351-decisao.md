@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu o recurso especial interposto por SANDRO CARLOS VIDAL E OUTRO contra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina, conforme a seguinte ementa:
+AGRAVO DE INSTRUMENTO. AÇÃO CIVIL PÚBLICA. IMPLANTAÇÃO DE CONDOMÍNIO RURAL - SÍTIOS DE RECREIO - NO MUNICÍPIO DE RANCHO QUEIMADO. PRETENSÃO DE EXTINÇÃO DO FEITO EM RELAÇÃO AOS AGRAVANTES, DECORRENTE DE PRESCRIÇÃO. SUPOSTA ATUAÇÃO EM DECORRÊNCIA DAS ATRIBUIÇÕES INERENTES A SEUS CARGOS PÚBLICOS E QUE NÃO FORAM RESPONSÁVEIS PELA GERAÇÃO DOS DANOS AMBIENTAIS. EFICÁCIA DO ATO ADMINISTRATIVO, QUE AUTORIZOU A INSTALAÇÃO DO EMPREENDIMENTO PENDENTE DE ANÁLISE. NECESSIDADE DE MELHOR INSTRUIR O FEITO. POSSIBILIDADE DE REANÁLISE DA PRESCRIÇÃO EM SENTENÇA, APÓS A JUNTADA DE PROVA PERICIAL JÁ DEFERIDA PELO JUIZO A QUO. DECISÃO MANTIDA. RECURSO DESPROVIDO.
+No caso dos autos, além da discussão do prejuízo ambiental, há discussão afeta também sobre a eficácia de atos administrativos autorizadores da instalação do empreendimento que, por certo, serão analisados em conjunto com os fatos amealhados pelo Parquet quando da propositura desta ação.
+Os embargos declaratórios foram rejeitados.
+Nas razões do recurso especial, os agravantes alegam violação dos arts. 489 e 1.022 do CPC/2015, por omissão do acórdão recorrido.
+Afirma ter havido ofensa aos arts. 21 da Lei n. 4.717/1965, 1º do Decreto-Lei n. 20.910/1932, 189 e 206, § 3º, V, do CC/2002, defendendo a prescrição da pretensão da Administração Pública responsabilizar os agentes por atos instantâneos já praticados. Asseveram (e-STJ, fl. 236):
+Veja, inicialmente, que as condutas dos Recorrentes se restringem ao ato de efetuar o arquivamento e o registro do condomínio horizontal na matrícula do imóvel, efetivado mais de 10 anos antes da citação na demanda de origem, em relação ao titular da serventia imobiliária, e emissão de um parecer jurídico que teria dado suporte à "aprovação", igualmente havida há mais de 10 anos.
+Importa destacar que não há nenhuma controvérsia nos autos relativa a suposta má fé dos Recorrentes, tanto é que nada constou do acórdão neste sentido.
+E ao contrário da origem, embora os efeitos decorrentes especificamente desses atos (dos Recorrentes) possam ser percebidos em sua posteridade, fato é que se exauriram nas respectivas datas - levados a registro público (com amplo conhecimento de todos, inclusive do órgão do Ministério Público Estadual). Portanto, evidentemente alcançados pela prescrição do direito do Estado de, eventualmente, responsabilizar os Recorrentes pelas únicas condutas que lhes foram equivocadamente atribuídas como ilegais na Ação Civil Pública. São atos instantâneos, cujos efeitos podem se prolongar no tempo/espaço.
+Os atos se exaurem integralmente no momento em que cumprem cada qual sua finalidade precípua. É ato instantâneo, cujos efeitos podem se prolongar no tempo/espaço.
+Por isso mesmo, não há mais o que se aguardar em relação a conduta dos Recorrentes, que não dependem de instrução probatória ou mesmo laudo pericial. Notem que os atos dos Recorrentes estão desvinculados do empreendedor, que supostamente teria perpetrado o dano ambiental.
+Foram apresentadas contrarrazões.
+O Tribunal de origem inadmitiu recurso especial por inexistência de violação dos arts. 489 e 1.022 do CPC/2015 e por óbice da Súmula n. 211/STJ.
+O Ministério Público Federal apresentou parecer pelo conhecimento do agravo e não conhecimento do recurso especial.
+É o relatório.
+Passo a decidir.
+Conheço do agravo, porquanto infirmados os fundamentos lançados no juízo de admissibilidade.
+Quanto ao recurso especial em si, não reúne condições de ser conhecido.
+Em primeiro lugar, é deficiente a fundamentação do recurso especial na parte em que apontada violação aos arts. 489 e 1.022 do CPC/2015, pois não foi desenvolvida argumentação voltada a demonstrar com objetividade qual o vício de contradição, obscuridade ou omissão a Corte de origem teria deixado de sanar, a despeito da oposição de embargos de declaração.
+Nessas circunstâncias, o óbice da Súmula 284/STF impede o conhecimento do recurso especial.
+Sobre o afastamento da prescrição pretendida pelos recorrentes, o Tribunal de origem assim se pronunciou (e-STJ, fl. 131):
+No caso dos autos, além da discussão do prejuízo ambiental, há discussão afeta também sobre a eficácia de atos administrativos autorizadores da instalação do empreendimento que, por certo, serão analisados em conjunto com os fatos amealhados pelo Parquet quando da propositura desta ação.
+Assim, naturalmente, havendo a comprovação exata sobre os fatos que envolvem os diversos temas presentes nesta demanda, haverá, por oportuno, nova análise sobre o instituto da prescrição, dependendo do enfoque dado pela perícia judicial e, aí então, as ações dos agravantes serão minuciosamente analisadas de forma a esclarecer a narrativa que lhes envolve na contenda.
+Diz-se isso, porque de uma primeira análise sobre o caso destes autos, no acórdão relatado por esse magistrado em 20/9/2016 (Evento 140, na origem), a decisão foi pautada na presunção de legitimidade dos atos administrativos que convalidaram a regularidade do empreendimento, de forma que a instrução processual, será imprescindível para o deslinde da causa.
+Ademais, resta claro que o juízo de primeiro grau pode reapreciar a prescrição em sentença, após a conclusão do competente laudo pericial.
+Nesse cenário, a modificação das conclusões do acórdão recorrido quanto à necessidade de diferimento da análise da prescrição para momento posterior à instrução probatória, no contexto de análise de dano ambiental a ser apurado, demandaria o revolvimento do acervo fático-probatório dos autos, vedado em recurso especial, a teor da Súmula n. 7/STJ.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E AMBIENTAL. AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVL PÚBLICA. PRESCRIÇÃO. APURAÇÃO DE RESPONSABILIDADE DE AGENTE PÚBLICO. OMISSÃO. FUNDAMENTAÇÃO DEFICIENTE. REEXAME DE MATÉRIA DE FATO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
