@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ALVARO ISAQUE GUERRA e RICARDO PINTO MAGALHÃES contra decisão de minha lavra, de e-STJ fls. 599/604, em que conheci do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Afirmam que a decisão embargada é omissa, contraditória e obscura ao "invocar a orientação jurisprudencial alusiva ao princípio da causalidade na fixação dos ônus de sucumbência, aplicável às hipóteses de extinção do processo sem julgamento do mérito, sem se manifestar e/ou demonstrar expressamente, contudo, como o caso sob julgamento, em que houve reconhecimento do pedido de ilegitimidade passiva dos autores e extinção do processo com resolução de mérito (art. 487, inciso III, "a", do CPC/2015), se ajusta àqueles fundamentos aplicáveis a hipóteses distintas, notadamente em face da previsão expressa contida no art. 90 do CPC (violada no caso), adiante reproduzida:" - e-STJ fl.607.
+Decorrido in albis o prazo para impugnação (certidão de e-STJ fl. 616).
+Passo a decidir.
+Nos termos do art. 1.022 do CPC/2015, são admitidos embargos de declaração quando houver obscuridade, contradição, omissão e erro material na decisão impugnada.
+No caso, de fato, houve erro material, pois a hipótese dos autos efetivamente trata de extinção do processo com resolução de mérito, nos termos do art. 487, inciso III, "a", do CPC/2015.
+Entretanto, tal vício de integração não tem o condão de alterar a conclusão alcançada no julgado embargado, de que o recurso especial não merece ser conhecido ante a incidência da Súmula 7 do STJ.
+No caso, o Tribunal a quo arbitrou a verba honorária com base no princípio da causalidade sob o fundamento de que "foram os autores que derem causa ao ajuizamento da demanda, pois o equívoco "na informação do CPF partiu do(s) inventariante/sucessores", não tendo a União nenhuma interferência nesse procedimento errôneo (e-STJ fl. 354).
+Nesse panorama, não cabe ao Superior Tribunal de Justiça rever o entendimento adotado no acórdão recorrido, quanto à aplicação do princípio da causalidade, por implicar o revolvimento do contexto fático-probatório, inviável em sede de recurso especial, nos termos do óbice sumular anteriormente referido.
+Com essas considerações, ACOLHO os embargos de declaração para corrigir erro material, sem concessão de efeitos modificativos ao julgado embargado.
+Publique-se. Intimem-se.
