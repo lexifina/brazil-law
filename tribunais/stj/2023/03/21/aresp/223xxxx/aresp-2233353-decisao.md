@@ -1,0 +1,14 @@
+DECISÃO
+Na origem trata-se de Agravo de Instrumento contra decisão que determinou a suspensão da exigibilidade de crédito tributário constante em CDAs. No Tribunal a quo a decisão foi mantida.
+O recurso especial foi interposto no TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO, contra acórdão com o seguinte resumo de ementa:
+AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ- EXECUTIVIDADE. CDA. NULIDADE. INEXISTÊNCIA. NECESSIDADE DE DILAÇÃO PROBATÓRIA. MANDADO DE SEGURANÇA. IMUNIDADE TRIBUTÁRIA. ART. 195, § 7O, CONSTITUIÇÃO FEDERAL. NÃO RECONHECIDA. REQUISITOS PREVISTOS EM LEI COMPLEMENTAR.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+Dessa forma, inexiste fundamento para o reconhecimento das nulidades das inscrições em cobrança, com base na decisão proferida no mandado de segurança nº 0003209-56.2010.4.02.5101. A uma, porque a imunidade do art. 195, § 7º, da Constituição Federal não alcança as contribuições de terceiros ali consubstanciadas, e, a duas, porque, em relação às contribuições previdenciárias (cota patronal), o referido provimento mandamental não teve o condão de promover a automática desconstituição dos débitos já lançados, não interferindo, portanto, na exigibilidade do crédito tributário cobrado na execução fiscal originária, referente ao período de 01/2003 a 12/2004 (inscrições nºs 37.199.913-8 e 05 37.211.585-3).
+Cabe destacar que a comprovação dos requisitos do art. 14 do CTN depende de dilação probatória, não admitida em sede de exceção de pré-executividade (Súmula 393/STJ), salientando-se que a executada não instruiu a sua petição com lastro probatório suficiente para subsidiar as suas alegações.
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especi al quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
