@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto em face de acórdão do Tribunal Regional Federal da 3ª Região cuja ementa é a seguinte:
+TRIBUTÁRIO. DURAÇÃO RAZOÁVEL DO PROCESSO. PROCESSO ADMINISTRATIVO FISCAL. PRAZO PARA DECISÃO DA ADMINISTRAÇÃO PÚBLICA. DECRETO 70.235/72. ART. 24 DA LEI 11.457/07. NORMA DE NATUREZA PROCESSUAL. APLICAÇÃO IMEDIATA. INCABÍVEL RESTITUIÇÃO DE VALORES EM MANDADO DE SEGURANÇA. SÚMULA 269 STF.
+1. O processo administrativo tributário encontra-se regulado pelo Decreto 70.235/72.
+2. A Lei n.º 11.457/07, com o escopo de suprir a lacuna legislativa existente, em seu art. 24, preceituou a obrigatoriedade de ser proferida decisão administrativa no prazo máximo de 360 (trezentos e sessenta) dias a contar do protocolo dos pedidos.
+3. Súmula 269 do STF : " O mandado de Segurança não é substitutivo de ação de cobrança".
+4. A correção monetária terá seu termo inicial somente a partir do escoamento do prazo de 360 dias, nos termos do art. 24 da Lei nº 11.457/07.
+5. Apelações improvidas. Remessa oficial parcialmente provida.
+Os embargos de declaração opostos foram acolhidos em parte :
+EMEARGOS DE DECLARAÇÃO. ERRO MATERIAL. OMISSÃO. INCIDÊNCIA DA SELIC A CONTAR DO 361º DIA. TESE 1003. EMBARGOS ACOLHIDOS EM PARTE. MANUTENÇÃO DO RESULTADO.
+1. O cabimento dos embargos de declaração restringe-se às hipóteses em que o acórdão apresente obscuridade, contradição, omissão ou erro material.
+2. A decisão embargada consignou que a questão da atualização do quantum pela aplicação da taxa SELIC a contar do dia seguinte ao exaurimento do prazo de 360 dias a que alude o art. 24 da Lei 11.457/07 estaria resolvida a partir do/game/710 dos Recursos Especiais 176794&FR, 176806GiRS e 17684M/SC, pelo ido dos artigos 1.036 e seguintes do Novo Código de Processo Civil não obstante a decisão proferida em 13/07/2020, da Vice-Presidente do Superior Tribunal de Justiça que admitiu o Recurso Extraordinário interposto nos autos do REsp nº 1.768.060/RS (Tema Repetitivo STJ nº 1.003) como representativo da controvérsia no STF, determinando a manutenção da suspensão de todos os processos que versem sobre a mesma C017frOvérsia somente em grau reclusa!, em trâmite no Âmbito dos Tribunais e das Turmas Recursais dos Juizados Especiais Federais.
+3. Ocorre que, em sessão de 02/10/2020, o Egrégio Supremo Tribunal Federal, reconheceu a ausência de repercussão geral da matéria, sendo de rigor a integração do acórdão Id 13130769, para que conste da fundamentação que, caracterizada a mora do Fisco, impõe-se a atualização do quantum a partir da aplicação da taxa SELIC, a contar do dia seguinte ao exaurimento do prazo de 360 dias a que alude o art. 24 da Lei 11.457/07, conforme firmado junto ao Superior Tribunal de Justiça, por meio da Tese 1003 e do julgamento dos Recursos Especiais 1767945/PR, 1768060/RS e 1768415/SC, pelo rito dos artigos 1.036 e seguintes do Novo Código de Processo Civil, cujas decisões transitaram em julgado, após o reconhecimento, pelo Supremo Tribunal Federal, em sessão de 02/10/2020, da ausência de repercussão geral da matéria.
+4. Embargos de declaração acolhidos em parte. Mantido o resultado do julgado.
+No recurso especial, interposto com base na alínea a do permissivo constitucional, a recorrente aponta ofensa aos arts. 926, 927, CPC/ 20, 30 do Decreto-Lei 4.657/42, "entende a Recorrente que ainda é prematura a aplicação do entendimento exarado no Tema no 1.003 do ST , sendo necessário aguardar o trânsito em julgado do Recurso Especial no 1.768.415/SC, para que eventual entendimento seja aplicado pelos Tribunais de origem"; 24 da Lei 11457/07; 39, § 4º, da Lei 9.250/95, o recorrente alega que o termo inicial deve corresponder à data do requerimento administrativo.
+Em suas contrarrazões, a recorrida pugna pelo não conhecimento do recurso ou, alternativamente, pelo seu não provimento.
+O recurso foi inadmitido pela decisão de fls. 721/723, cujos fundamentos foram impugnados por meio do presente agravo.
+É o relatório. Passo a decidir.
+O presente agravo não pode ser conhecido, pois a agravante não cuidou de impugnar o fundamento adotado na decisão agravada:
+Com efeito, no julgamento dos recursos vinculados ao tema 1003 consolidou-se o entendimento que:
+O termo inicial da correção monetária de ressarcimento de crédito escritural excedente de tributo si jeito ao regime não cumulativo ocorre somente após escoado o prazo de 360 dias para a análise do pedido administrativo pelo Fisco (art. 24 da Lei n. 11.457/2007).
+Confirmando tal entendimento:
+PROCESSUAL CIV1L E TRIBUTÁRIO. AGRAVO INTERNO. CRÉDITOS TRIBUTÁRIOS ESCRITURAIS. RESSARCIMENTO. CORREÇÃO MONETÁRIA. TERMO INICIAL DE CONTAGEM. 360 MAS APÓS A DATA DO REQUERIMENTO. LEI N. 11.457/2007. ENTENDIMENTO PACIFICADO EM JULGAMENTO DE RECURSO REPETITIVO.
+I - Na decisão agravada, foi dado provimento ao recurso especial da Fazenda Nacional, para que a correção monetária dos créditos escriturais devidos ao contribuinte incida de acordo com a previsão do art. 24 da Lei n. 11.457/2007, ou seja, do dia seguinte ao prazo de "360 (trezentos e sessenta) dias a contar do protocolo de petições, defesas ou recursos administrativos do contribuinte."
+II - O referido entendimento está de acordo com o julgamento prcferido no REsp 1.767.945; REsp 1.768.060 e REsp 1.768.415, sob o rito dos recursos repetitivos, Tema 1.003.
+III - Agravo interno improvido.
+(AgInt no REsp n. 1.652.636/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 15/6/2020, DJe de 26/6/2020.)
+Constata-se, que o acórdão recorrido encontra-se em consonância com o entendimento superior fixado em recurso repetitivo, de forma que a negativa de seguimento é medida que se impõe à pretensão recursal, nos termos do art. 1.030, I, "b" do Código de Processo Civil.
+Saliente-se por fim, que o mesmo dispositivo mencionado acima prevê expressamente que tão logo se publique o acórdão paradigma é possível a negativa de seguimento à pretensão recursal sem necessidade de se aguardar o trânsito em julgado.
+No particular:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO LOCAL QUE NEGOU SEGUIMENTO A RECURSO ESPECIAL COM BASE NO ART. 543-C, sç 7º, INC. I, DO CPC. INTERPOSIÇÃO DE NOVO RECURSO ESPECIAL. M O CABIMENTO. APLICAÇÃO DO RECURSO REPETITIVO. DESNECESSIDADE DE AGUARDAR O TRÂNSITO EM JULGADO.
+1. Incabível a interposição de novo recurso especial contra acórdão que, em julgamento de agravo interno, mantém a decisão que negou seguimento ao apelo nobre anterior com base no art. 543-C, sç 7º, do CPC, cabendo, com exclusividade e em caráter definitivo, ao juízo de origem a análise da adequação do caso concreto ao precedente submetido ao rito dos recursos repetitivos.
+2. A jurisprudência do SIJ firmou o entendimento de ser desnecessário aguardar o trânsito em julgado para aplicação do paradigma firmado em sede de recurso repetitivo ou de repercussão geral.
+3. Agravo interno a que se nega provimento.
+(Ag1nt no AREsp n. 838.061/GO, relatora Ministra Divo Malerbi (desembargadora Convocado IRF 3" Região), Segunda Turma, julgado em 2/6/2016, DJe de 8/6/2016.)
+Por seu turno, o ora recorrente aduziu, em síntese, que:
+Ressalta-se que o julgamento do Tema no 1.003 foi incluso em cinco sucessivas pautas de julgamento e intensos debates entre os Ministros, chegando a permanecer empatado em 4 votos favoráveis aos contribuintes 2 e 4 votos favoráveis à Fazenda 3 , de forma que o Ministro Presidente, Sr. Benedito Gonçalves, proferiu voto de desempate (na derradeira pauta do dia 12/02/2020), acompanhando o Ministro Relator (Sr. Sérgio Kukina), prevalecendo, assim, por apertada maioria (5x4), o entendimento pela incidência da Taxa Selic com termo inicial após o término do prazo de 360 dias previsto no art. 24 da Lei no 11.457/07.
+O agravo em recurso especial que não afasta os fundamentos que levaram a não admissão do recurso especial não deve ser conhecido, nos termos do art. 932, III, do CPC/2015, c/c o princípio estabelecido na Súmula 182/STJ.
+Confiram-se os seguintes precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE INADMISSIBILIDADE. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182/STJ. INCIDÊNCIA.
+1. A jurisprudência do Superior Tribunal de Justiça entende ser necessária a impugnação dos fundamentos da decisão denegatória da subida do recurso especial para que se conheça do respectivo agravo.
+2. A parte agravante não infirmou especificamente a incidência do óbice da Súmula 83/STJ. Logo, a Súmula 182 desta Corte foi corretamente aplicada ao caso.
+3. Inadmitido o recurso especial com base na Súmula 83 do STJ, incumbiria à parte interessada apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada, procedendo ao cotejo analítico entre eles. Precedentes.
+4. A jurisprudência desta Corte Superior firmou entendimento de que o óbice da Súmula 83/STJ não se restringe aos recursos especiais interpostos com fundamento na alínea "c" do permissivo constitucional, sendo também aplicável nos recursos fundados na alínea "a".
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 991.297/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 25/04/2017, DJe 11/05/2017)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. CONFIRMAÇÃO DA AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA 182/STJ. RECURSO NÃO PROVIDO.
+1. Na hipótese em exame, aplica-se o Enunciado 3 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+2. A ausência de impugnação específica, na petição de agravo em recurso especial, dos fundamentos da decisão que não admite o apelo especial atrai a incidência do óbice previsto na Súmula 182 do Superior Tribunal de Justiça.
+3. Agravo regimental improvido.
+(AgInt no AREsp 986.062/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 14/02/2017, DJe 22/02/2017)
+Ademais, as razões de recorrer são genéricas e incapazes de demonstrar como o acórdão recorrido teria ofendido os dispositivos legais indicados. Incidência da Súmula 284/STF "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Confiram-se ainda os seguintes julgados: REsp n. 1.682.077/RS, relator Ministro Herman Benjamin, Segunda Turma, DJe de 11/10/2017; AgInt no AREsp n. 734.966/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 4/10/2016; AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018; e AgRg no AREsp n. 673.955/BA, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 8/3/2018.
+É dever do agravante demonstrar o desacerto do magistrado ao fundamentar a decisão impugnada, atacando especificamente e em sua totalidade o seu conteúdo, nos termos do art. 932, III, do CPC/2015, c/c o princípio estabelecido na Súmula 182/STJ, o que não ocorreu na espécie, uma vez que as razões apresentadas contra a decisão de inadmissibilidade do recurso especial não impugnaram todos os fundamentos da decisão.
+Diante do exposto, com fulcro no art. 932, III, do CPC/2015, c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF (POR ANALOGIA). AGRAVO NÃO CONHECIDO.
