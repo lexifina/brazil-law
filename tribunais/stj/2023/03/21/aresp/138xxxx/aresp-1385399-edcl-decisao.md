@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por AILTON ALVES DE SOUZA contra decisão de fls. 549-552 que conheceu do agravo para negar provimento ao recurso especial, sob o fundamento de ausência de prequestionamento.
+Nas razões dos aclaratórios, a parte embargante aponta erro material no julgado, sustentando, em síntese, que o houve o prequestionamento do art. 932, III, do NCPC, nos embargos de declaração opostos no tribunal estadual.
+Intimada, a embargada não apresentou impugnação.
+É o relatório.
+Passo a decidir.
+A irresignação não merece prosperar, pois não há vício que autorize a oposição dos presentes embargos de declaração.
+Com efeito, os vícios que autorizam o recurso integrativo dizem respeito a erro material e questão posta nos autos relevante ao deslinde da controvérsia que deixou de ser analisada ou foi examinada de forma obscura ou contraditória.
+Entretanto, tais circunstâncias não ocorreram na espécie, pois, conforme consignado na decisão embargada, verifica-se inexistir prequestionamento do art. 932, III, do NCPC.
+Com efeito, esta Corte de Justiça, ao interpretar o art. 1.025 do Código de Processo Civil de 2015, concluiu que "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe de 10/04/2017).
+Como se vê, está nítido o propósito da parte embargante em rediscutir temas que foram devidamente apreciados, o que é defeso por meio da via processual escolhida, desautorizando, deste modo, o acolhimento da pretensão deduzida nos aclaratórios.
+Nesse sentido:
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REQUISITOS DO ART. 1.022 E INCISOS DO CPC DE 2015. OMISSÃO NÃO CONSTATADA. EMBARGOS DE DECLARAÇÃO REJEITADOS. 1. Depreende-se do artigo 1.022, e seus incisos, do novo Código de Processo Civil que os embargos de declaração são cabíveis quando constar, na decisão recorrida, obscuridade, contradição, omissão em ponto sobre o qual deveria ter se pronunciado o julgador, ou até mesmo as condutas descritas no artigo 489, parágrafo 1º, que configurariam a carência de fundamentação válida. Não se prestam os aclaratórios ao simples reexame de questões já analisadas, com o intuito de meramente dar efeito modificativo ao recurso. 2. A parte embargante, na verdade, deseja a rediscussão da matéria, já julgada de maneira inequívoca. Essa pretensão não está em harmonia com a natureza e a função dos embargos declaratórios prevista no art. 1022 do CPC. 3. Embargos de declaração rejeitados." (EDcl no AgInt no AREsp 874.797/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 04/08/2016, DJe de 09/08/2016)
+Por oportuno, ressalto que a decisão embargada não padece de obscuridade, contradição, omissão ou erro material, tendo apreciado, fundamentadamente, a matéria controvertida que lhe fora submetida.
+Diante do exposto, rejeito os embargos de declaração.
+Publique-se.
