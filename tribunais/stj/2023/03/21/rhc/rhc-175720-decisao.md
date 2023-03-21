@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto CLEITON ALVES GAIA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA, assim ementado:
+"PENAL. PROCESSO PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS, ASSOCIAÇÃO PARA O TRÁFICO E ORGANIZAÇÃO CRIMINOSA. ALEGAÇÃO DE EXCESSO DE PRAZO PARA FORMAÇÃO DA CULPA. NÃO OCORRÊNCIA. COMPLEXIDADE DO FEITO. PLURALIDADE DE RÉUS. INSTRUÇÃO CRIMINAL CONCLUÍDA. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO.
+Da análise dos autos, verifica-se que, apesar de a prisão preventiva ter sido decretada em 15/09/2016, o Paciente permaneceu na condição de foragido até 20/08/2021, quando o mandado de prisão foi cumprido.
+Ademais, o processo tramitou regularmente e a instrução criminal já foi concluída, razão pela qual não há se falar em excesso de prazo, nos termos da Súmula nº 52 do Superior Tribunal de Justiça.
+Com efeito, trata-se de processo demasiadamente complexo, envolvendo organização criminosa voltada para a prática de tráfico de drogas com 22 (vinte e dois) investigados, justificando, assim, maior prazo para conclusão do processo.
+Lado outro, tem-se que eventual retardamento para a conclusão do processo também decorre também de ato da defesa, pois o réu permaneceu foragido por longo período, o que, por si só, já afasta o constrangimento ilegal apontado, nos termos da Súmula nº 64 do Superior Tribunal de Justiça.
+Assim, inexiste o alegado excesso prazal apto a ensejar o constrangimento ilegal em desfavor do Paciente.
+HABEAS CORPUS CONHECIDO E DENEGADO." (e-STJ, fls. 111-112)
+Segundo se infere dos autos, o recorrente responde a ação penal proposta pelo Ministério Público Estadual visando a apuração da prática de crimes de tráfico de drogas na forma majorada, associação para o tráfico e organização criminosa, condutas tipificadas nos arts. 33, 35 e 40, inciso IV, todos da Lei 11.343/2006 e no art. 2º, § 2º da Lei 12.850/2013.
+Nesta Corte, a defesa alega, em síntese o recorrente está submetidos a constrangimento ilegal em razão do excesso de prazo para prolação da sentença, pois:
+"o processo aguardando prolação de sentença desde julho de 2021 por exclusiva culpa da autoridade coatora. No entanto, é papel exclusivo do Impetrante como Defensor do Paciente, relembrar que cada processo refere-se a uma ou mais vidas e que por mais que seja compreensível, ninguém poderá pagar, quando investigados presos, pela ineficiente do aparelho Estado" (e-STJ, fl. 139).
+Pleiteia, assim, o relaxamento da segregação cautelar ou a aplicação de medidas cautelares menos gravosas.
+O pedido em sede liminar foi indeferido (e-STJ, fl. 151-152).
+Informações prestadas (e-STJ, fls.158-164).
+O Ministério Público Federal opinou pelo desprovimento do recurso (e-STJ, fls. 166-170).
+É o relatório.
+Decido.
+O recurso não comporta conhecimento.
+O capítulo acerca da análise do excesso de prazo para prolação da sentença não foi apreciado pelo Tribunal a quo, pois apenas aferiu a ocorrência de excesso de prazo para formação da culpa. Portanto, como não há decisão de Tribunal, inviável a apreciação do tema por esta Corte, sob pena de indevida supressão de instância e alargamento inconstitucional da hipótese de competência do Superior Tribunal de Justiça para julgamento do recurso ordinário em habeas corpus, constante no art. 105, II, "a", da Constit uição da República, que exige decisão de Tribunal.
+Sendo assim, passo a analisar a demanda, a fim de verificar a existência de constrangimento ilegal apto a ensejar a concessão da ordem.
+De qualquer maneira, não se vislumbra excesso de prazo.
+O acórdão impugnado foi fundamentado nos seguintes termos:
+"O Impetrante assevera que resta evidenciado excesso de prazo para formação da culpa, de modo a caracterizar ilegal a prisão preventiva decretada em desfavor do Paciente.
+Como cediço, os prazos indicados para conclusão da instrução criminal não são peremptórios, servindo, tão somente, como parâmetro geral, pois devem ser analisadas as peculiaridades de cada caso concreto, à luz do Princípio da Razoabilidade.
+Assim, para configurar o constrangimento ilegal por excesso de prazo é indispensável que o atraso na formação da culpa decorra de demora injustificada ou desídia estatal.
+Da análise dos autos, verifica-se que, apesar de a prisão preventiva ter sido decretada em 15/09/2016, o Paciente permaneceu na condição de foragido até 20/08/2021, quando o mandado de prisão foi cumprido.
+Ademais, o processo tramitou regularmente e a instrução criminal já foi concluída, razão pela qual não há se falar em excesso de prazo, nos termos da Súmula nº 52 do Superior Tribunal de Justiça.
+Com feito, trata-se de feito demasiadamente complexo, envolvendo organização criminosa voltada para a prática de tráfico de drogas com 22 (vinte e dois) investigados, justificando, assim, maior prazo para conclusão do processo." (e-STJ, fls. 110-111)
+Segundo orientação pacificada nos Tribunais Superiores, a análise do excesso de prazo na instrução criminal será feita à luz do princípio da razoabilidade e da proporcionalidade, devendo ser considerada as particularidades do caso concreto, a atuação das partes e a forma de condução do feito pelo Estado-juiz. Dessa forma, a mera extrapolação dos prazos processuais legalmente previstos não acarreta automaticamente o relaxamento da segregação cautelar do acusado.
+Confira-se:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO INDEFERIDA LIMINARMENTE. SÚMULA 691/STF. AUSÊNCIA DE PATENTE ILEGALIDADE. PLEITO DE APRESENTAÇÃO DE MEMORIAIS ESCRITO E NO PRAZO RAZOÁVEL. ALEGADA COMPLEXIDADE DO FEITO. TEMA A SER EXAMINADO PELO JUÍZO PROCESSANTE. AGRAVO REGIMENTAL IMPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade, o que não ocorre na espécie. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2. Na espécie, o Juízo de 1º grau, explicitamente, afastou a necessidade de apresentação das alegações finais por escrito, ao afirmar que não se tratava de feito complexo, bem como o número de acusados fora reduzido com o desmembramento da ação penal. Assim, modificar tal entendimento demandaria incursão no acervo probatório dos autos, inviável na sede eleita. Impossibilidade de superação do enunciado sumular 691/STF.
+3. Por outro lado, nada impede que o Juízo Processante, ao final da instrução e pela proximidade com os fatos, possa reavaliar o pleito defensivo de apresentação de alegações finais por escrito, momento em que examinará a verdadeira complexidade do feito, lembrando-se que o cumprimento do princípio constitucional da duração razoável do processo (art. 5º, LXXVIII, da CF) não pode sobrepor às garantias constitucionais do cidadão no processo penal, em especial o respeito ao contraditório e à ampla defesa (art. 5º, LV, da CF).
+4. Agravo regimental improvido."(AgRg no HC 495.211/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 21/03/2019, DJe 29/03/2019)
+Como se pode verificar, o feito vem tramitando regularmente, considerando os trâmites necessários, pois se trata de feito demasiadamente complexo, envolvendo organização criminosa voltada para a prática de tráfico de drogas, com 22 (vinte e dois) investigados, justificando, assim, maior prazo para prolação da sentença.
+Tendo em vista a gravidade concreta da conduta e periculosidade do recorrente, inferida por integrar robusta organização criminosa, enten do que, no caso, é inviável a aplicação de medidas cautelares diversas da prisão, pois a periculosidade do recorrente indica que a ordem pública não estaria acautelada com sua soltura. Sobre o tema: RHC 81.745/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 01/06/2017, DJe 09/06/2017; RHC 82.978/MT, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 01/06/2017, DJe 09/06/2017; HC 394.432/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 01/06/2017, DJe 09/06/2017.
+Ante o exposto, não conheço do recurso ordinário.
+Publique-se. Intimem-se.
