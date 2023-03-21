@@ -1,0 +1,44 @@
+DECISÃO
+Cuida-se de agravo apresentado por MUNICÍPIO DE JUNDIAI contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+Apelação. Execução fiscal. A sentença reconheceu a nulidade dos títulos executivos que encartaram a ação, extinguindo-a.
+Manutenção de rigor.
+É caso de reconhecimento de nulidade das CDAs diante do não preenchimento dos requisitos legais (arts. 202 e 203 do CTN c.c. art. 2º, § 5º, da LEF).
+Observa-se que os títulos acostados a fls. 2/4 não trouxeram o endereço específico do imóvel tributado. A situação descrita dificulta o direito de defesa do contribuinte em razão da arbitrariedade da cobrança. Inadmissibilidade de emenda ou substituição da CDA.
+Em seguimento, majora-se a verba honorária outrora fixada, de 10% para 12% sobre o valor da causa, nos termos do art.85, §11, do CPC.
+Nega-se provimento ao recurso e majora-se a verba honorária, nos termos do acórdão.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação dos arts. 202 do CTN; e art. 2º, § 5º, da Lei n. 6.830/1980, no que concerne à validade das CDAs que aparelham a presente demanda, uma vez que constam informações capazes de identificar o imóvel objeto de tributação nas referidas certidões de dívida ativa, trazendo os seguintes argumentos:
+Conforme exposto na síntese dos fatos, a Colenda 18ª Câmara de Direito Público do Tribunal de Justiça de São Paulo negou provimento à apelação e rejeitos os embargos à declaração, por entender que as CDA"s que aparelham a execução não trouxeram o endereço específico do imóvel tributado, de modo a ferir o previsto no artigo 202, do Código Tributário Nacional, e no artigo 2º, § 5º, da Lei nº. 6.830/1980.
+Com a devida vênia, mas o CDA traz todos os requisitos exigidos em lei, de modo que o v. acórdão recorrido maltrata o artigo 202, do Código Tributário Nacional, e o artigo 2º, § 5º, da Lei nº. 6.830/1980. Constatemos:
+ ..
+Porém, Excelências, não houve falha na identificação do imóvel nas CDA"s.
+A identificação está perfeita! O endereço do imóvel é exatamente o constante nos títulos executivos, qual seja, Avenida Antonio Frederico Ozanam, nº. 0, Lt Hortolândia, CEP: 13.214-206, Jundiaí-SP.
+ ..
+Desta feita, Vossas Excelência, resta demonstrado que o endereço que consta nas CDA"s é exatamente o endereço que fica localizado o imóvel objeto de tributação.
+Assim, o Município não poderia colocar outros elementos para identificar o imóvel, até porque que inexistem outros dados a serem colocados.
+ ..
+Frise-se que, além do endereço mencionado, também consta nas CDAs o número do contribuinte, que é outro dado que permite a localização do imóvel.
+ ..
+Diante do exposto, resta demonstrado que não faltaram informações nas certidões de dívida ativa capazes de especificar o imóvel, que se localiza exatamente no endereço informado, razão pela qual o acórdão se mostrou contraditório (fls. 126-132).
+É, no essencial, o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 284/STF, uma vez que não há a indicação clara e precisa dos dispositivos de lei federal tidos por violados, pois nas razões do recurso especial não se particularizou o inciso, o parágrafo ou a alínea sobre o qual recairia a referida ofensa, incidindo, por conseguinte, o citado enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Ressalte-se, por oportuno, que essa indicação genérica do artigo de lei que teria sido contrariado induz à compreensão de que a violação alegada é somente de seu caput, que, no caso, traz em seu texto uma mera introdução ao regramento legal contido nos incisos, nos parágrafos ou nas alíneas.
+Nesse sentido: "Quanto à segunda controvérsia, na espécie, incide o óbice da Súmula n. 284/STF, uma vez que não há a indicação clara e precisa do dispositivo de lei federal tido por violado, pois, nas razões do recurso especial, não se particularizou o parágrafo/inciso/alínea sobre o qual recairia a referida ofensa, incidindo, por conseguinte, o citado enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia" (AgInt no AREsp n. 1.558.460/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 11/3/2020.)
+De igual sorte: "A ausência de particularização dos incisos do artigo supostamente violado, inviabilizam a compreensão da irresignação recursal, em face da deficiência da fundamentação do apelo raro" (AgRg no AREsp n. 522.621/PR, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 12/12/2014.)
+Confiram-se também os seguintes julgados: AgInt no AREsp n. 1.229.292/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 4/9/2018; AgInt no AgRg no AREsp n. 801.901/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 1º/12/2017; AgInt nos EDcl no AREsp n. 875.399/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 1º/8/2017; AgInt no REsp n. 1.679.614/PE, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 18/9/2017; e AgRg no REsp n. 695.304/RJ, relator Ministro Francisco Falcão, Primeira Turma, DJ de 5/9/2005; EDcl no AgRg no AREsp n. 1.962.212/PA, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 15/2/2022.
+Ademais, o Tribunal de origem se manifestou nos seguintes termos:
+Realizando o confronto entre as CDAs que embasam a execução fiscal e as disposições dos artigos 202 do CTN e art. 2º, § 5º, da Lei de Execução Fiscal, a seguir transcrita, verifica-se que os títulos padecem de vício, senão vejamos:
+ ..
+Assim, ao lado do direito do credor (utilização do processo executivo para busca de prestação do devedor), aquele que é cobrado tem o direito de conhecer, com exatidão, o fato jurídico gerador da dívida, os parâmetros utilizados para apuração de seu valor total etc.
+Todavia, observa-se que as CDAs acostadas (fls. 2/4) não especificam o imóvel sobre o qual recaem as cobranças. Há falha na indicação de seu endereço, pois não consta a menção específica do logradouro em que situado. Há desrespeito ao imperativo contido no art. 2º, § 5º, III, da Lei 6.830/80, pelo que devem ser consideradas nulas.
+A situação descrita dificulta o direito de defesa do contribuinte em razão da arbitrariedade da cobrança, na forma como acima descrita (fls. 100-102).
+Igualmente, em sede de Embargos de Declaração, o Tribunal de origem destacou:
+Esta Câmara, por votação unânime, negou provimento ao recurso fazendário e manteve a sentença que reconheceu a nulidade das CDAs, tendo em vista a não identificação precisa do imóvel que deu origem aos débitos de IPTU cobrados nesta execução, o que impede a identificação da origem do débito, bem como dificulta o exercício do contraditório e da ampla defesa.
+ ..
+Sendo assim, a sentença entendeu que somente a indicação da avenida e bairro onde se encontrava o imóvel não era o bastante para especificá-lo, até mesmo porque constava no endereço indicado a ausência de numeração do bem e de seu correspondente lote (fls. 119-120).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
