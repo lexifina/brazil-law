@@ -1,0 +1,20 @@
+DECISÃO
+LUIZ CESAR JOSE MORAIS agrava da decisão que não admitiu o seu recurso especial, interposto com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Goiás na Apelação Criminal n. 0402601-93.2016.8.09.0011.
+Consta dos autos que o ora agravante foi condenado a 5 anos de reclusão, no regime semiaberto, mais multa, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006.
+Nas razões do recurso especial, a defesa aponta violação dos arts. 33 da Lei n. 11.343/2006 e 386, VII, do Código de Processo Penal.
+Requer, em síntese, que o réu seja absolvido do crime de tráfico de drogas. Subsidiariamente, pugna para que seja desclassificada a conduta.
+O recurso especial foi inadmitido durante o juízo prévio de admissibilidade realizado pelo Tribunal de origem, o que ensejou a interposição deste agravo.
+O Ministério Público Federal manifestou-se pelo não conhecimento do recurso e, se conhecido, pelo não provimento.
+Decido.
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada, motivo pelo qual passo à análise do recurso especial.
+A Corte estadual manteve a conclusão de que ficou devidamente caracterizado o tráfico de drogas com base nos seguintes argumentos (fl. 340):
+Do conjunto probatório produzido, entendo inviável a absolvição ou desclassificação pretendidas. Como visto, diante das denúncias anônimas de tráfico, foram realizadas campanas e, posteriormente, representado pela busca e apreensão na residência do apelante, momento em que foram apreendidas maconha e cocaína.
+Embora o apelante tenha negado o tráfico, confirmou que pessoas iam ao seu estabelecimento e usavam drogas.
+Vale salientar, ainda, que o crime de tráfico ilícito de entorpecentes é de conduta mista ou conteúdo variado, de sorte que o fato de alguém, sem autorização e em desacordo com determinação legal ou regulamentar, "manter em depósito", substância entorpecente ou que determine dependência física e/ou psíquica, para difusão ilícita, por si só tipifica o delito do artigo 33, caput, da Lei nº 11.343/06.
+Pelo trecho anteriormente transcrito e, sobretudo, pela leitura atenta da sentença condenatória e do acórdão recorrido, verifico que as instâncias ordinárias, após toda a análise do conjunto fático-probatório amealhado aos autos, concluíram pela existência de elementos concretos e coesos a ensejar a condenação do acusado pelo crime de tráfico de drogas (art. 33 da Lei n. 11.343/2006).
+Por essas razões, mostra-se inviável a absolvição do réu ou a desclassificação de sua conduta, sobretudo em se considerando que, no processo penal, vigora o princípio do livre convencimento motivado, em que é dado ao julgador decidir pela condenação do agente, desde que o faça fundamentadamente, exatamente como verificado nos autos.
+Registro, no particular, que, nos termos do art. 28, § 2º, da Lei n. 11.343/2006, não é apenas a quantidade de drogas que constitui fator determinante para a conclusão de que a substância se destinava a consumo pessoal/conjunto ou ao tráfico de drogas, mas também o local e as condições em que se desenvolveu a ação, as circunstâncias sociais e pessoais, bem como a conduta e os antecedentes do agente.
+Ademais, esclareço que, para a configuração do delito de tráfico de drogas, não é necessária prova da mercancia, tampouco que o agente seja surpreendido no ato da venda do entorpecente - até porque o próprio tipo penal aduz "ainda que gratuitamente" -, bastando, portanto, que as circunstâncias em que se desenvolveu a ação criminosa denotem a traficância, tal como ocorreu no caso.
+Por fim, esclareço que, para entender-se pela desclassificação da conduta para o delito descrito no art. 33, § 3º, da Lei n. 11.343/2006, seria necessário o revolvimento de todo o conjunto fático-probatório produzido nos autos, providência, conforme cediço, incabível em recurso especial, a teor do que estabelecido na Súmula n. 7 do STJ.
+À vista do exposto, conheço do agravo e nego provimento ao recurso especial.
+Publique-se e intimem-se.
