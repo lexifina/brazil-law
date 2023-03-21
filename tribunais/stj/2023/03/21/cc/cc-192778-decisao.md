@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de conflito negativo por iniciativa do Juízo de Direito da 1ª Vara Cível de São Lourenço, Estado de Minas Gerais, em face do Juízo de Direito da 8ª Vara Cível de São Paulo, SP, relativamente à competência para processar e julgar ação declaratória de rescisão contratual sem devolução de valores, proposta por Universal Franchising Business Network Ltda. em desfavor de Taís Boaventura Ferreira e outra.
+Na inicial, a autora alega que as partes celebraram contrato de franquia cujo foro eleito é na capital paulista e que as franqueadas descumpriram cláusulas do ajuste.
+O Juízo suscitado declarou de ofício a nulidade da cláusula eletiva de foro ao argumento de que os contratantes não podem escolher foro paulistano porque têm endereços em outras unidades da federação, não havendo relação jurídica que sirva de justificativa, declinando da competência em favor do Juízo do domicílio das rés (fls. 131/132).
+O Juízo de Direito mineiro suscitou o presente conflito ao argumento de que a incompetência relativa não pode ser arguida de ofício, nos termos dos arts. 63, § 1º, 64 c/c 65 e 66, inciso II, do Código de Processo Civil (fls. 140/141).
+Instado a se manifestar, opinou o Ministério Público Federal pela competência do Juízo suscitado (fls. 155/159).
+Assim delimitada a matéria, necessário consignar que, conforme se colhe dos autos, a questão orbita em torno da competência territorial, que é relativa, cuja prorrogação se impõe quando não oposta exceção no tempo próprio.
+Portanto, ainda não tendo sido determinada a citação das rés, deve-se aguardar até que eventual exceção de incompetência seja oposta, antes do que não pode existir controvérsia acerca da competência para processar e julgar o feito. Nesse sentido, o enunciado da Súmula 33/STJ:
+A incompetência relativa não pode ser declarada de ofício.
+Diversamente do que ocorre quando a competência é absoluta, no caso de competência territorial, decorre da ausência de questionamento a concordância tácita com o foro em que ajuizada a demanda, prorrogando-a, mesmo quando houver a "declaração de nulidade" da cláusula eletiva, razão por que é prudente aguardar a manifestação das rés. Os seguintes precedentes específicos da Segunda Seção tratam da controvérsia:
+CONFLITO NEGATIVO DE COMPETÊNCIA. AÇÃO DE REINTEGRAÇÃO DE POSSE EM VIRTUDE DO DESCUMPRIMENTO DE CONTRATO DE ARRENDAMENTO MERCANTIL. SUSCITANTE: JUÍZO DE DIREITO DE RECIFE (SEDE DA EMPRESA RÉ) E SUSCITADO: JUÍZO DE DIREITO DE SÃO PAULO (FORO DE ELEIÇÃO). COMPETÊNCIA TERRITORIAL E, PORTANTO, RELATIVA. IMPOSSIBILIDADE DE DECLINAÇÃO DE OFÍCIO. SÚMULA N. 33 DESTA CORTE.
+- Em se tratando de competência territorial, portanto, relativa, não cabe ao juiz declará-la de ofício (verbete nº 33, Súmula STJ). Somente o próprio réu, mediante oposição de exceção na forma do art. 112 do CPC, poderá se insurgir contra o foro escolhido pelo autor, ainda que o juízo reconheça a nulidade da cláusula eletiva do foro.
+- Conflito conhecido e declarada a competência do Juízo de Direito da 15ª Vara Cível de São Paulo, o suscitado.
+(CC 17.037/PE, Rel. Ministro CESAR ASFOR ROCHA, unânime, DJU de 23.9.1996)
+CONFLITO. COMPETÊNCIA. CLÁUSULA DE ELEIÇÃO DE FORO. CONTRATO DE ADESÃO. DECLARAÇÃO DE NULIDADE E DECLINAÇÃO DE OFÍCIO PELO JUÍZO. INCOMPETÊNCIA RELATIVA. ENUNCIADO N. 33 DA SUMULA/STJ.
+- A competência concernente à cláusula de eleição de foro é de natureza territorial e, portanto, relativa, não cabendo ao magistrado dela declinar de oficio, ainda que após a declaração de sua nulidade, incidindo, na espécie, o verbete nº 33 da súmula/STJ.
+(CC 14.519/MG, Rel. Ministro SÁLVIO DE FIGUEIREDO TEIXEIRA, unânime, DJU de 4.3.1996)
+Em face do exposto, conheço do conflito para declarar competente o Juízo de Direito da 8ª Vara Cível do Foro Central Cível de São Paulo, SP.
+Comunique-se. Intimem-se.
