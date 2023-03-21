@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de recurso ordinário constitucional em habeas corpus interposto por RENISON GABRIEL SOARES SANTOS - "preso em flagrante por, supostamente, ter praticado o crime de Roubo Majorado (art. 157, §2º, inciso II, do Código Penal), no dia 15/11/2021, após ser flagrado subtraindo, mediante ameaça, um celular marca J7 Samsung, capa amarela, com tela trincada; carteira contendo CNH, CRLV de motocicleta etc" (fl. 48) -, contra acórdão denegatório proferido nestes autos pelo Tribunal de Justiça do Estado de Sergipe , em 22/07/2022.
+Na inicial deste feito, requereu-se o relaxamento da custódia do Recorrente sob a alegação de excesso de prazo na formação da culpa. O Custodiado reiterou tal pretensão defensiva no presente recurso.
+Ocorre que, ao opinar pela prejudicialidade da pretensão recursal no parecer que ofereceu para instruir estes autos, o Ministério Público esclareceu a seguinte alteração fática superveniente (fl. 95; sem grifos no original):
+"Verifica-se em consulta possível direta pessoalmente efetuada no sítio virtual do Tribunal de Justiça do Estado de Sergipe que no juízo singular de piso competente fora em 23/11/2022 prolatada sentença condenatória na ação penal pública nº 202181200963 a que responde o apenado recorrente o que implica ter-se por absolutamente despiciendo o pleito que atine a (inexistente/superado) suposto excesso de prazo à conclusão da instrução (ora finda) havendo perda superveniente de seu objeto e interesse"
+Assim, esvaziou-se o objeto d a pretensão defensiva. Com a prolação da sentença, ocorreu a superveniente perda de interesse na análise da alegação de excesso de prazo para a formação da culpa em primeiro grau.
+Ante o exposto, JULGO PREJUDICADO o pedido recursal, com fundamento no art. 34, inciso XX, c.c. os arts. 209, primeira parte, e 246, todos do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ORDINÁRIO CONSTITUCIONAL EM HABEAS CORPUS. PROCESSUAL PENAL. PRISÃO PROCESSUAL. SUPERVENIÊNCIA DE SENTENÇA. ALEGAÇÃO DE EXCESSO DE PRAZO SUPERADA COM A PROLAÇÃO DO ÉDITO CONDENATÓRIO. AUSÊNCIA SUPERVENIENTE DE INTERESSE. RECURSO PREJUDICADO.
