@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo interposto pelo Município de Goiânia contra a decisão que inadmitiu o recurso especial fundando no art. 105, III, a, da Constituição Federal.
+Na origem, o Sindicato dos Trabalhadores do Serviço Único de Saúde do Estado de Goiás - SINDSAÚDE/GO impetrou mandado de injunção contra o prefeito do município do Estado de Goiás, objetivando a revisão geral anual do data-base dos servidores por entidade sindical representados.
+Deu-se à causa o valor de R$ 1.000,00 (mil reais) em setembro de 2020.
+A segurança julgou extinto o processo sem resolução do mérito.
+O Tribunal de Justiça do Estado de Goiás deu parcial provimento ao recurso de apelação, em acórdão assim ementado (fl. 319):
+APELAÇÃO CÍVEL. MANDADO DE INJUNÇÃO. REVISÃO GERAL ANUAL DOS SERVIDORES. OMISSÃO LEGISLATIVA RECONHECIDA. EFEITO CONCRETISTA. IMPOSSIBILIDADE. TEMA 624/STF.
+1. A ausência de norma disciplinadora, de forma específica, do exercício da garantia constitucional consagrada no artigo 37, inciso X, da CF/88, autoriza tão somente o reconhecimento da mora da autoridade Impetrada, determinando-se a sua cientificação.
+2. Incabível o efeito concretista da injunção, em função da tese de repercussão geral estabelecida pelo STF no julgamento do RE 843.112 (Tema 624): "O Poder Judiciário não possui competência para determinar ao Poder Executivo a apresentação de projeto de lei que vise a promover a revisão geral anual da remuneração dos servidores públicos, tampouco para fixar o respectivo índice de correção.
+APELAÇÃO CÍVEL CONHECIDA E PARCIALMENTE PROVIDA.
+SENTENÇA REFORMADA.
+Opostos embargos de declaração, foram estes rejeitados.
+Contra a decisão cuja ementa encontra-se acima transcrita, foi interpôs recurso especial, apontando violação do art. 1.022 e 1.025 do CPC/2015, aduzindo omissão no julgado.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+Após decisão que inadmitiu o recurso especial, foi interposto o presente agravo, tendo o recorrente apresentado argumentos visando rebater os fundamentos da decisão agravada.
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Considerando que foram atendidos os demais pressupostos de admissibilidade deste agravo, e impugnadas a fundamentação da decisão agravada, passo ao exame do recurso especial interposto.
+Em relação à indicada violação do art. 1.022 do CPC/2015, pelo Tribunal a quo, não se vislumbra a alegada omissão da questão jurídica apresentada pelo recorrente, qual seja, a alegada inexistência de dever específico de que a remuneração dos servidores seja objeto de reajuste anual, o que afastaria a inércia , tendo o julgador abordado a questão às fls. 323-327, consignando que:
+3.3.1 Pretende que o Judiciário reconheça a omissão e proceda à revisão postulada, afim de recompor a perda financeira da remuneração à vista da inflação no ano de2019, uma vez que cabalmente comprovada a mora legislativa nesse sentido.
+3.3.2 Conquanto a viabilização da pretendida revisão se subordine à edição de lei de iniciativa exclusiva do Chefe do Executivo, a ser aprovada pelo Poder Legislativo Municipal, bem assim de prévia dotação orçamentária e autorização específica na lei de diretrizes orçamentárias, não se pode olvidar que resta caracterizada eloquente o missão do impetrado em suprir a lacuna normativa, deixando sem eficácia, por tempo não razoável e sem justificativa, o exercício do direito à revisão anual dos vencimentos dos integrantes da carreira.
+3.3.3 Nessa medida, considerando, ainda, que o instituto da revisão é garantia inserida na Constituição atual e regulamentada desde a Emenda Constitucional 19/98 e que o Chefe do Poder Executivo Municipal se omite injustificadamente na propositura do projeto de lei correlato, descumprindo, assim, o dever constitucional de legislar deforma específica, obstando a concretização de direito consagrado na Constituição, resta configurada a omissão suprível pelo mandado de injunção.
+3.4 Malgrado tenha prevalecido desde o advento da Carta Magna de 1988 o entendimento de que o Poder Judiciário não reúne competência para suprir a inércia de outro Poder, limitando-se a proferir, no bojo do mandado de injunção, uma decisão de simples ciência ao Poder competente a fim de que o mesmo produzisse a norma faltante, posteriormente o Supremo Tribunal Federal modificou tal entendimento, de modo que a ação injuncional em questão passou a representar uma possibilidade concreta para aqueles que têm suas liberdades, prerrogativas e direitos tolhidos pela mora do Poder Público em produzir as normas integradoras da Constituição.
+3.4.1 A partir de tal entendimento, o STF abandonou a teoria não-concretista, possibilitando aos destinatários das garantias magnas, o efetivo exercício, em geral, dos direitos constitucionais ainda cristalizados no texto.
+3.4.2 Entretanto, no que diz respeito à revisão geral anual dos servidores, o Plenário do Supremo Tribunal Federal, a partir do julgamento definitivo do RE nº 843.112/SP, no qual fora reconhecida a repercussão geral (Tema 624), externou novo entendimento quanto à matéria, estabelecendo a seguinte tese, verbis:
+ ..
+3.4.4 Como se extrai do novo entendimento do Pretório Excelso, de observância obrigatória, não cabe ao Poder Judiciário suprir a inertia deliberandi do Impetrado mas, tão somente, reconhecer a mora legislativa nesse período, porquanto a fixação de prazo pelo Poder Judiciário para o Impetrado suprir a inércia, violaria o princípio constitucional da separação dos poderes, haja vista que cabe somente ao Poder Executivo a autoadministração do funcionalismo público e a gestão dos recursos orçamentários destinados a despesas de custeio com pessoal, fundadas em expertise técnica e financeira, devidamente demonstradas.
+3.5. Sendo assim, em razão da impossibilidade de se conferir o efeito concretista almejado pelo Apelante Impetrante, a ordem injuncional somente pode ser concedida parcialmente, apenas para declarar a existência de mora legislativa.
+Nesse panorama, a oposição dos embargos declaratórios caracterizou, tão somente, a irresignação do embargante diante de decisão contrária a seus interesses, o que não viabiliza o referido recurso.
+Descaracterizada a alegada omissão, tem-se de rigor o afastamento da suposta violação do art. 1.022 do CPC/2015, conforme pacífica jurisprudência do Superior Tribunal de Justiça:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DO ESTADO. INOCORRÊNCIA DE AFRONTA AO ART. 535 DO CPC/1973. PREENCHIMENTO DOS REQUISITOS DA PRISÃO PREVENTIVA. ERRO JUDICIÁRIO NÃO CARACTERIZADO. POSTERIOR ABSOLVIÇÃO POR AUSÊNCIA DE PROVAS. DANOS MORAIS NÃO CONFIGURADOS. IMPOSSIBILIDADE DE REEXAME FÁTICO-PROBATÓRIO. AGRAVO INTERNO DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+1. Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo 2).
+2. Referente ao art. 535, II do CPC/1973, inexiste a violação apontada. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade. Observe-se, ademais, que julgamento diverso do pretendido, como na espécie, não implica ofensa à norma ora invocada.
+(..)
+4. Agravo Interno do Particular a que se nega provimento.
+(AgInt no AREsp 941.782/PR, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 21/09/2020, DJe 24/09/2020.)
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. SERVIDORES, ANUÊNIOS. BASE DE CÁLCULO REAJUSTADA PELO ÍNDICE 28,86%. RECONHECIMENTO PELA CORTE DE ORIGEM. ÔNUS DE SUCUMBÊNCIA - SÚMULA 7 DO STJ.
+1. Inexiste contrariedade ao art. 535, II, do CPC/1973, quando a Corte local decide fundamentadamente todas as questões postas ao seu exame. Ademais, não se deve confundir decisão contrária aos interesses da parte com ausência de prestação jurisdicional.
+(..)
+6. Agravo interno a que se nega provimento.
+(AgInt no REsp 1385196/PR, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 31/08/2020, DJe 10/09/2020.)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
