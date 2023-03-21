@@ -1,0 +1,21 @@
+DECISÃO
+NAIANA FRANCELLE MENDES FERNANDES agrava de decisão que inadmitiu seu recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Goiás (Embargos Infringentes n. 0071241-41.2018.8.09.0175).
+Nas razões do recurso especial, a defesa aponta a violação do art. 155, § 4º, II, do Código Penal, ao argumento de que apenas a relação empregatícia não é suficiente para configurar a qualificadora do abuso de confiança no furto. Por tal razão, pretende a desclassificação da conduta para furto simples.
+O recurso especial foi inadmitido no juízo prévio de admissibilidade realizado pelo Tribunal local, o que ensejou a interposição deste agravo.
+O Ministério Público Federal manifestou-se pelo não conhecimento do agravo (fls. 468-470).
+Decido.
+Consta dos autos que a agravante foi condenada pela prática dos delitos de furto qualificado pelo abuso de confiança e de apropriação indébita - havendo sido aplicado o arrependimento posterior em relação ao último.
+Especificamente sobre a pretendida desclassificação, a Corte estadual registrou (fl. 402, grifei):
+Nos presentes embargos busca-se a exclusão da qualificadora do abuso de confiança, bem como a conclusão de que a subtração dos bens configura furto simples em continuidade delitiva, não o delito de apropriação indébita (movimentação 73).
+Atinente à qualificadora, a meu ver, prevalece o voto do Relator, eis que, embora a relação empregatícia, por si só, não caracterizaria o vínculo necessário à majoração da pena, no caso em exame, a processada iniciou como vendedora da loja, em 09 de novembro de 2015, sendo que em 1º de março de 2017, assumiu o posto de gerente.
+Frise-se que a confiança era tal que a ré detinha a posse da chave do cofre da loja, tanto que viajou e a levou consigo, ao passo que as demais vendedoras não puderam acessar o cofre, pois não detinham a prerrogativa e, portanto, gozam de menor confiança se comparada àquela dispensada pelo proprietário da loja à ré. Desse modo, diante das circunstâncias do caso concreto, está suficientemente evidenciada a qualificadora do artigo 155, § 4º, II, do Código Penal.
+Dessa forma, constato que as instâncias antecedentes, após minuciosa análise do acervo fático-probatório carreado aos autos, concluíram que a ré, além da relação empregatícia, detinha relação de confiança, que, inclusive, a permitiu viajar com a chave do cofre da loja, razão pela qual entenderam configurada a qualificadora.
+Desconstituir esse entendimento, para concluir que não houve quebra da confiança depositada na ré, em virtude de sua condição de funcionária da loja vítima, demandaria o reexame das provas colacionadas aos autos, o que, como já foi dito, é vedado pelo teor da Súmula n. 7 desta Corte Superior.
+Ilustrativamente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. FURTO. QUALIFICADORA DO ABUSO DE CONFIANÇA. CIRCUNSTÂNCIAS DO CASO CONCRETO QUE DEMONSTRAM O VÍNCULO DE CONFIANÇA EXISTENTE ENTRE O AUTOR E A VÍTIMA. FUNDAMENTAÇÃO IDÔNEA. APLICAÇÃO DO FURTO PRIVILEGIADO. QUALIFICADORA DE CARÁTER SUBJETIVO. IMPOSSIBILIDADE. ORDEM DE HABEAS CORPUS DENEGADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. É certo que a qualificadora prevista no art. 155, § 4.º, inciso II, do Código Penal não pode incidir quando se menciona tão somente o vínculo empregatício entre o autor do delito e a vítima. Contudo, no caso em apreço, as instâncias ordinárias, amparadas pelas provas colhidas durante a instrução, demonstraram o abuso de confiança, pois ressaltaram que o Agente trabalhava com serviços gerais e depois foi promovido para exercer a função de confiança de caixa do estabelecimento comercial, onde tinha acesso a quantias em dinheiro e podia realizar o cancelamento de cupons fiscais sem que fosse necessário chamar o fiscal do caixa para a liberação, pois "era na base da confiança", sendo que, aproveitando-se da facilidade do seu posto e da crença depositada a ele, subtraiu os valores do ofendido.
+ ..
+4. Agravo regimental desprovido.
+(AgRg no HC n. 714.224/SC, relatora Ministra Laurita Vaz, 6ª T., DJe de 4/4/2022.)
+À vista do exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se e intimem-se.
