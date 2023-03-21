@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto por ADEMAR MORAIS SILVÉRIO e ALAN GALDINO DE MORAIS, com respaldo nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 4ª Região assim ementado (e-STJ fl. 235):
+ADMINISTRATIVO. PROCESSO CIVIL. APELAÇÃO. AÇÃO ANULATÓRIA. ACÓRDÃO TRANSITADO EM JULGADO. QUERELA NULLITATIS INSANABILIS. DESCABIMENTO. AÇÃO RESCISÓRIA.
+1. As hipóteses de cabimento da querela nullitatis insanabilis são restritas às graves violações ao direito de defesa. Não se presta à desconstituição de coisa julgada, fundada, no caso, em violação manifesta de norma jurídica, situação para a qual a legislação prevê meio próprio e prazo específico (ação rescisória por violação manifesta de norma jurídica - art. 485, inciso V, do CPC/1973, e art. 966, inciso V, do CPC/2015).
+2. Apelo desprovido.
+Rejeitados os aclaratórios (e-STJ fls. 267/271).
+Nas suas razões, a parte recorrente aponta, além de divergência jurisprudencial, violação dos arts. 489, § 1º, VI, 966 e 1.022, II, do CPC/2015, sustentando negativa de prestação jurisdicional, bem como a recepção, pela aplicação do princípio da fungibilidade, de querela nullitatis como ação rescisória.
+Contrarrazões às e-STJ fls. 317/348.
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 351/352.
+Passo a decidir.
+A irresignação recursal não merece prosperar.
+Quanto à alegada ofensa aos arts. 489, § 1º, VI, e 1.022, II, do CPC/2015, cumpre destacar que, ainda que o recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação. Não há como confundir o resultado desfavorável ao litigante com a falta de fundamentação.
+Ademais, consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater um a um todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie. Nesse sentido: AgRg no AREsp 163.417/AL, rel. Ministro NAPOLEÃO NUNES MAIA FILHO, Primeira Turma, DJe 29/09/2014.
+No mais, esta Primeira Turma tem o entendimento de que, ajuizada ação anulatória, não poderia a Corte de origem receber e julgar o feito como ação rescisória, uma vez que não é facultado ao juízo alterar a causa de pedir eleita pela parte. A propósito:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. EMBARGOS À EXECUÇÃO. 28,86% SOBRE A RAV. AÇÃO ANULATÓRIA QUERELA NULLITATIS JULGADA COMO AÇÃO RESCISÓRIA PELA CORTE DE ORIGEM. RECONHECIMENTO DO PRAZO DECADENCIAL PARA AJUIZAMENTO DE RESCISÓRIA. JULGAMENTO REALIZADO FORA DOS LIMITES DELIMITADOS NA PETIÇÃO INICIAL. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Não é facultado ao Juízo alterar a causa de pedir eleita pela parte. Assim, ajuizada Ação Anulatória não poderia a Corte de origem receber e julgar o feito como Ação Rescisória (AgInt no REsp 1602369/AL, Rel. Ministro GURGEL DE FARIA, Rel. p/ Acórdão Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 10/04/2018, DJe 10/05/2018).
+III - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+(AgInt no AgInt no REsp n. 1.603.491/AL, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 29/11/2021, DJe de 1/12/2021.).
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. 28,86% SOBRE A RAV. AÇÃO ANULATÓRIA QUERELA NULLITATIS JULGADA COMO AÇÃO RESCISÓRIA PELA CORTE DE ORIGEM. RECONHECIMENTO DO PRAZO DECADENCIAL PARA AJUIZAMENTO DE RESCISÓRIA. JULGAMENTO REALIZADO FORA DOS LIMITES DELIMITADOS NA PETIÇÃO INICIAL. NECESSIDADE DE ANULAÇÃO DO ACÓRDÃO. AGRAVO INTERNO DO SINDICATO PROVIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, ANULAR OS ACÓRDÃOS RECORRIDOS.
+1. Não é facultado ao Juízo alterar a causa de pedir eleita pela parte. Assim, ajuizada Ação Anulatória não poderia a Corte de origem receber e julgar o feito como Ação Rescisória.
+2. Agravo Interno do SINDICATO provido para conhecer em parte do Recurso Especial pela alínea a, por demonstrado ofensa aos artigos 2º, 128 e 460 do CPC/1973, e, nessa extensão, dar provimento ao próprio Recurso Especial com a consequente cassação dos acórdãos recorridos, determinando-se que a Corte de origem retome a apreciação, agora sim, da própria Ação Anulatória.
+(AgInt no REsp n. 1.602.369/AL, relator Ministro Gurgel de Faria, relator para acórdão Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 10/4/2018, DJe de 10/5/2018.).
+Incide, na hipótese, a Súmula 83 do STJ.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO d o recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, caso aplicáveis os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
