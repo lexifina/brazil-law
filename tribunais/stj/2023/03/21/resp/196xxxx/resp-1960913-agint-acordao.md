@@ -1,0 +1,43 @@
+EMENTA
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. RESTITUIÇÃO DE INDÉBITO. DECISÃO ULTRA PETITA. OCORRÊNCIA.
+I - A restituição administrativa dos valores indevidamente recolhidos não foi requerida pelo impetrante na exordial do mandamus, razão pela qual a sua concessão pelo Tribunal de origem viola o art. 492, do CPC/2015, caracterizando a decisão ultra petita.
+IV - Agravo interno provido para prover o recurso especial.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, dar provimento ao agravo interno para dar provimento ao recurso especial, nos termos do voto do Sr. Ministro-Relator." Os Srs. Ministros Humberto Martins, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de agravo interno interposto contra monocrática que decidiu recurso especial fundado no art. 105, III, a, da Constituição Federal.
+A sociedade empresária, ora recorrida, impetrou mandado de segurança contra ato do Delegado da Receita Federal do Brasil em Florianópolis (SC) pretendendo a declaração de inexigibilidade de recolhimento de contribuição previdenciária patronal, destinada a terceiros e aos riscos ambientais do trabalho (RAT), antigo Seguro de Acidente de Trabalho (SAT), incidente sobre valores que considerava de natureza indenizatória e que, por não refletir contraprestação de trabalho, não integravam o salário de contribuição de seus empregados.
+O valor atribuído à causa (fl. 12): R$ 50.000,00 (cinquenta mil reais), em maio de 2019.
+A sentença de fls. 100-128 julgou parcialmente procedentes os pedidos para:
+ ..  para declarar a inexigibilidade do recolhimento da contribuição previdenciária patronal incidente sobre os valores pagos aos empregados da impetrante a título de terço constitucional de férias e de auxílio-doença (nos primeiros quinze dias de afastamento do empregado do trabalho); auxílio-acidente; férias proporcionais; auxílio-educação; abono assiduidade convertido em pecúnia e o abono único, bem como declarar o direito da impetrante restituir ou compensar, após o trânsito em julgado desta sentença e em procedimento administrativo perante a Receita Federal do Brasil, os valores recolhidos indevidamente a esse título nos cinco anos que precederam ao ajuizamento desta ação e no curso do processo, acrescidos da Taxa SELIC, sem acúmulo com os juros de mora, nos termos da fundamentação.
+O Tribunal a quo deu parcial provimento às apelações da União e da impetrante e à remessa necessária, em acórdão assim ementado (fls. 412):
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. CONTRIBUIÇÕES PREVIDENCIÁRIAS. PATRONAL. SAT/RAT. TERCEIROS. TEMA 20. RE 565.160. SALÁRIO-MATERNIDADE. ADICIONAL NOTURNO. ADICIONAL DE INSALUBRIDADE. ADICIONAL DE PERICULOSIDADE. FÉRIAS GOZADAS. AUXÍLIO/VALE-ALIMENTAÇÃO PAGO EMPECÚNIA. INTERVALO INTRA JORNADA. ARÉSCIMOS PAGOS PORSUPRESSÃO DO DSR INTRA JORNADA E FERIADOS. FALTAS JUSTIFICADAS. AJUDAS DE CUSTO: REEMBOLSO DE DESPESAS QUENÃO EXCEDAM DE 50% DO SALÁRIO. ADICIONAL CONSTITUCIONAL SOBRE FÉRIAS GOZADAS. PRIMEIROS QUINZE DIAS DE AFASTAMENTO POR MOTIVO DE DOENÇA OU ACIDENTE. ABONO ASSIDUIDADE E ABONO ÚNICO. ATUALIZAÇÃO.
+1. No julgamento do RE 565.160 - Tema 20, o STF não esclareceu quais parcelas deveriam ser excluídas da base de cálculo da contribuição previdenciária patronal porque isso é matéria de natureza infraconstitucional.
+2. Como compete ao STJ a interpretação da legislação federal, a legitimidade da incidência da contribuição previdenciária patronal deve ser analisada em conformidade com a jurisprudência daquela Corte.
+3. Sobre o auxílio-creche a não incidência da contribuição previdenciária decorre da lei.
+4. Não incide contribuição previdenciária sobre salário-maternidade, primeiros quinze dias de afastamento por motivo de doença ou acidente, auxílio-alimentação (pago com tícket ou vale alimentação a partir da reforma trabalhista), ajuda de custo - reembolso de despesas que não excedam de 50%do salário (a partir da reforma trabalhista, abono assiduidade e abono único.
+5. Incide contribuição previdenciária sobre o terço constitucional de férias gozadas, férias gozadas, horas extras e seu adicional, adicional noturno, de insalubridade e de periculosidade, intervalos intrajornada e faltas justificadas.
+6. Os entendimentos acima delineados aplicam-se às contribuições ao SAT/RAT e Terceiros, uma vez que a base de cálculo destas também é a mesma.
+7. Os valores indevidamente pagos deverão ser atualizados pela taxa SELIC a partir do mês seguinte ao do pagamento indevido (art. 89, caput,§ 4º, da Lei 8.212/91 e art. 39, § 4º, da Lei 9.250/95 c/c o art. 73 da Lei 9.532/97).
+A União opôs os embargos de declaração de fls. 421-431, que foram rejeitados pelo acórdão de fls. 441-444.
+Nas razões do recurso especial, a União alega, inicialmente, a violação do art. 1.022 do CPC/2015. Sustenta que a Corte Regional se manteve omissa a respeito da alegação de que "a restituição administrativa, na forma como determinada, implica em ofensa ao sistema de precatórios previstos na Constituição da República" (fl. 485).
+Prosseguindo, alega ofensa aos arts. 141, 492 e 535 do CPC/2015; art. 74 da Lei n. 9.430/1996; art. 66 da Lei n. 8.383/1991; art. 165, 170 e 170-A do Código Tributário Nacional; art. 67 da Lei n. 4.320/1964; e art. 10 da Lei Complementar n. 101/2000.
+Aduz que (i) ao facultar à parte demandante o direito de optar pela restituição do indébito, mediante pedido de restituição na esfera administrativa, o acórdão recorrido proferiu decisão ultra petita (fl. 485); e (ii) a restituição administrativa de créditos reconhecidos judicialmente constitui, com o devido respeito, verdadeira burla ao sistema e à ordem dos precatórios (fl. 495).
+Sem contrarrazões.
+A decisão monocrática tem o seguinte dispositivo: "Ante o exposto, com esteio no art. 255, § 4º, I e II, do RISTJ, conheço parcialmente do recurso especial para, nessa parte, negar-lhe provimento."
+Interposto agravo interno, a parte agravante traz argumentos contrários aos fundamentos da decisão recorrida.
+EMENTA
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. RESTITUIÇÃO DE INDÉBITO. DECISÃO ULTRA PETITA. OCORRÊNCIA.
+I - A restituição administrativa dos valores indevidamente recolhidos não foi requerida pelo impetrante na exordial do mandamus, razão pela qual a sua concessão pelo Tribunal de origem viola o art. 492, do CPC/2015, caracterizando a decisão ultra petita.
+IV - Agravo interno provido para prover o recurso especial.
+VOTO
+Com razão a agravante.
+No tocante à alegação de que houve decisão ultra petita com relação à forma de restituição, note-se que o pedido da impetrante foi formulado nos seguintes termos:
+ ..  Declarar o direito da Impetrante e suas demais filiais de efetuar a REPETIÇÃO dos valores indevidamente recolhidos na forma do art. 165 do CTN, por meio de ação própria fundada em sentença concessiva da segurança, ou, alternativamente, a COMPENSAÇÃO dos valores, à escolha da Impetrante, na forma do Art. 170 do CTN  ..  (fl. 12).
+O pedido formulado foi claro ao solicitar a repetição dos valores indevidamente recolhidos, mediante ação própria, ou seja, em nenhum momento o impetrante solicitou a restituição de forma administrativa.
+Contudo, o acórdão recorrido vinculou a repetição do indébito aos procedimentos administrativos previstos pela Secretaria da Receita Federal:
+ ..  Quanto à restituição, importante salientar que, nos termos da Súmula 269 do STF, a ação mandamental não é substitutiva de ação de cobrança, razão pela qual a decisão proferida no writ não se sujeita a procedimento de execução para fins de pagamento direto. Possível, contudo, que a impetrante opte pela restituição dos valores com base na decisão proferida na ação mandamental, bastando, para tanto, que busque a restituição do indébito através dos procedimentos administrativos próprios exigidos pela Secretaria da Receita Federal (TRF4, AC5001545-35.2019.4.04.7201, PRIMEIRA TURMA, Relator ROGER RAUPP RIOS, juntado aos autos em 12/03/2020 e TRF4, AC 5001609-33.2019.4.04.7205,PRIMEIRA TURMA, Relator ROGER RAUPP RIOS, juntado aos autos em12/03/2020) (fl. 410, sem o destaque).
+O art. 492, do CPC/2015 é claro ao vedar ao juiz proferir decisão diversa da pedida.
+Desta forma, resta indene de dúvidas que a restituição administrativa dos valores indevidamente recolhidos não foi requerida pelo impetrante na exordial do mandamus, razão pela qual a sua concessão pelo Tribunal de origem viola o art. 492, do CPC/2015, caracterizando a decisão ultra petita.
+Ante o exposto, dou provimento ao agravo interno, para prover o recurso especial.
+É o voto.
