@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ANDRE LUIZ OLIVEIRA ALVES, contra decisão que inadmitiu recurso especial com fundamento no art. 1.030, I e V, do CPC.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão (Apelação Cível n. 1114413-10.2017.8.26.0100) assim ementado (fl. 264):
+
+APELAÇÃO - REVISÃO DE CONTRATO - INSTITUIÇÃO FINANCEIRA - CDC - JUROS - CAPITALIZAÇÃO - COMISSÃO DE PERMANÊNCIA - SEGURO - RESTITUIÇÃO. As normas do CDC são aplicáveis às relações estabelecidas com instituições financeiras conforme prevê a Súmula 297 do STJ, não havendo, porém, limitação de juros nos contratos bancários. É possível a capitalização mensal de juros, de acordo com a Medida Provisória n. 1.963-17 de 30 de março de 2000, em contratos posteriores à norma. A comissão de permanência não pode superar a soma dos encargos remuneratórios e moratórios previstos no contrato, sendo vedada sua cumulação com os juros moratórios e remuneratórios, correção monetária ou multa contratual. Inexistindo previsão contratual para cobrança do encargo, não há ilegalidade a ser reconhecida. O consumidor não pode ser obrigado a contratar seguro diretamente com o agente financeiro, ou por seguradora indicada por este, configurando tal exigência venda casada, prática vedada pelo art. 39, inciso I, do CDC. O art. 42 do CDC somente é aplicável quando há dolo ou culpa por parte do credor, o que não ocorre no caso em exame, eis que a Apelada apenas cobrou encargos previstos em contrato.
+Nas razões do  recurso  especial, a parte  recorrente  pleiteia (fl. 288):
+A) reforma do r. acórdão para determinar o recálculo do valor das prestações considerando a taxa de juros remuneratórios conforme média de mercado acima demonstrada e informada pelo BACEN (1,70%), bem como a condenação do banco-Recorrido em restituir o valor pago a maior, com os acréscimos legais;
+B) e, acatando ou não o pedido revisional supra, seja a Instituição-Apelada condenada a suportar os ônus de sucumbência, ao menos em sua maior parte, por observância ao Princípio da Causalidade, pelos fundamentos acima delineados.
+É  o  relatório.  Decido.
+O  recurso  não  merece  prosperar.
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial com fundamento no artigo 1.030, I e V, do CPC.
+Nas razões recursais, porém, a parte agravante deixou de impugnar adequadamente as razões da decisão inadmitiu o recurso especial, limitando-se a alegar "que se encontram configurados todos os requisitos de admissibilidade do presente Agravo, especialmente, a tempestividade, prequestionamento da matéria e aqueles estabelecidos na legislação aplicável" (fl. 298).
+Ocorre que não basta a parte sustentar genericamente que os requisitos se encontram preenchidos, devendo, pois, "refutar o citado óbice mediante a exposição da tese jurídica desenvolvida no recurso especial e a demonstração da adoção dos fatos tais quais postos nas instâncias ordinárias" (AgInt no AREsp n. 1.969.273/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 13/12/2021, DJe de 16/12/2021).
+Como é cediço, não se conhece do agravo em recurso especial que não tenha refutado especificamente todos os fundamentos da decisão recorrida.
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ.
+Ante o exposto, não conheço do agravo em recurso especial.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão do alcance do limite máximo previsto no § 2º do referido artigo, observada a sucumbência recíproca.
+Publique-se. Intimem-se.
