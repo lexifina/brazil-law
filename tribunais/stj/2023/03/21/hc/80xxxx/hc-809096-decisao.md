@@ -1,0 +1,9 @@
+DECISÃO
+EDMILSON DOS SANTOS, apenado do regime semiaberto custodiado na Casa do Albergado e Egresso de Salvador, alega sofrer coação ilegal em face de acórdão não especificado. Não junta a decisão ora impugnada, apenas determinação da Corregedoria-Geral da Justiça, relacionada a outro interno.
+Narra a impetração que a Juíza Assessora da Corregedoria Geral de Justiça da Bahia determinou a transferência do apenado do regime semiaberto para unidade penal distante de seus familiares (esposa e filhos). Todavia, a defesa afirma que o sentenciado tem vaga de trabalho externo e possui boa conduta carcerária. Argumenta que relatório de inteligência e a notícia de sua não localização na casa de albergado "por volta das 17h" (fl. 4), não são justificativas para a providência.
+Decido.
+A impetração não está instruída com cópia de acórdão proferido por Tribunal de Justiça ou Regional, com a prévia análise da controvérsia, ausente a prova de inauguração da competência desta Corte, nos termos do art. 105 da CF.
+A deficiência impede o conhecimento do writ, pois o exame de matérias não apreciadas pelo Tribunal a quo "enseja indevida supressão de instância, com explícita violação da competência originária para o julgamento de habeas corpus (art. 105, I, c, da Constituição Federal)" (AgRg no HC n. 753.181/SP, rel. Rel. Ministro João Otávio de Noronha, 5ª T., DJe de 30/9/2022).
+Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir e sua natureza urgente exige prova pré-constituída das alegações, pois não comporta conversão em diligência ou dilação probatória. Era obrigatório ao impetrante juntar à impetração documentos que permitissem a análise de patente ilegalidade, o que não ocorreu.
+À vista do exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o processamento deste habeas corpus.
+Publique-se e intimem-se.
