@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo em recurso especial manejado por OVÍDIO AVANCI em face de decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que negou admissibilidade a recurso contra acórdão assim ementado:
+SERVIDORES ESTADUAIS- Inativos Integrantes da classe de suporte pedagógico do Quadro do Magistério Gratificação de Gestão Educacional GGE - Extensão Possibilidade: A gratificação de gestão educacional tem natureza indistinta e, portanto, é extensiva aos inativos. JUROS E CORREÇÃO MONETÁRIA. Temas 905/STJ e 810/STF Aplicação Possibilidade: Os juros de mora e correção monetária devem ser calculados com base nos índices determinados pelos tribunais superiores.
+No especial, alega-se que a manutenção da suspensão do processo após o trânsito em julgado do Tema nº 10/TJSP afronta os arts. 982 e 505 do CPC.
+Após juízo negativo de admissibilidade sobreveio o presente recurso.
+É o relatório. Decido.
+A orientação preconizada no verbete 283 da Súmula do Supremo Tribunal Federal, também aplicada ao especial, impõe à parte recorrente o dever de impugnar todos os fundamentos suficientes, por si só, para a manutenção do acórdão recorrido, sob pena de não conhecimento desta espécie recursal.
+Sobre a referida Súmula, dispõe a doutrina:
+Pode ocorrer  ..  que a decisão recorrida analise de modo equivocado a norma jurídica, dando-lhe conteúdo e alcance que não possui, violando-a escancaradamente, mas aplique corretamente à hipótese em julgamento norma diversa da mencionada. Nesse caso, se a decisão recorrida se mantém por pelo menos um dos fundamentos, mesmo que houvesse recurso, a reforma da decisão em relação ao fundamento erroneamente invocado pelo julgador não mudaria o seu resultado. O fundamento invocado corretamente por si só é suficiente para sustentar a validade da decisão e, por isso, não deve ser admitido o recurso excepcional. Nesse sentido, a Súmula 283 do STF enuncia que "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles". (MEDINA, José Miguel Garcia. Prequestionamento, Repercussão Geral da Questão Constitucional, Relevância da Questão Federal. 1. ed. em e-book baseada na 7. ed. impressa. São Paulo: Revista dos Tribunais, 2017).
+No caso concreto, verifica-se que a parte se furtou ao dever de impugnar a compreensão do Tribunal a quo segundo a qual
+a Turma Especial deste Tribunal de Justiça admitiu o pedido de revisão do Tema 10 (..) Observa-se, portanto, que em razão da determinação de suspensão de todos os processos pendentes que versam sobre a matéria (extensão da GGE aos inativos) levada a efeito pela decisão retro transcrita, o Tema 10ainda não transitou em julgado. Além disso, não há razão para determinar-se o prosseguimento desta demanda sem, antes, aguardar-se o desfecho da revisão do Tema 10, sob pena de afrontar o determinado pela Turma Especial, no Tema 42, que suspendeu todos os processos pendentes, individuais ou coletivos que versam sobre a presente questão.
+Atraída, por analogia, a inteligência da Súmula nº 283 do STF, a impedir o trânsito deste apelo.
+Não bastasse, observo que o sobrestamento do recurso na origem não possui carga decisória, sendo, portanto, irrecorrível. Sobre a matéria:
+AGRAVO INTERNO NOS EMBARGOS DECLARATÓRIOS NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE DETERMINOU O RETORNO DOS AUTOS À ORIGEM EM OBEDIÊNCIA À SISTEMÁTICA DOS RECURSOS ESPECIAIS REPETITIVOS. INSURGÊNCIA RECURSAL DA PARTE AGRAVADA.
+1. A decisão de sobrestamento, com determinação de retorno dos autos ao tribunal de origem, a fim de que lá seja exercido o juízo de conformidade (arts. 1.040 e 1.041 do CPC/15), não possui carga decisória, sendo portanto irrecorrível, salvo se demonstrado, efetivamente, erro ou equívoco patente, o que não ocorreu.
+2. Agravo interno não conhecido.
+(AgInt nos EDcl no REsp n. 1.996.955/RS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 14/11/2022, DJe de 21/11/2022.)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA Nº 283/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
