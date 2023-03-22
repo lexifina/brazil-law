@@ -1,0 +1,10 @@
+DECISÃO
+MÁRCIO CLEY LIMA DA SILVA JÚNIOR alega sofrer coação ilegal em face de acórdão proferido pelo Tribunal a quo (HC n. 0068145-40.2022.8.19.0000).
+O impetrante aponta a desproporcionalidade, a ausência de fundamentação idônea e o excesso de prazo da prisão preventiva, que perdura desde 4/8/2022. Assinala, ainda, a falta de sua revisão após o prazo de 90 dias.
+Decido.
+A petição inicial não está acompanhada de cópia do decreto de prisão preventiva, ato apontado como coator, e o impresso é imprescindível para a análise da motivação externada para indicar os pressupostos e requisitos da medida cautelar extrema.
+Ação constitucional de natureza mandamental, o writ tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir e sua natureza urgente exige prova pré-constituída das alegações, pois não comporta conversão em diligência ou dilação probatória. Era obrigatório à impetrante instruir adequadamente o habeas corpus com documentos que permitissem a análise de patente ilegalidade, o que não ocorreu.
+Deveras, "É ônus do impetrante instruir o habeas corpus requerido a esta Corte com cópia do ato coator, além da prova pré-constituída da aventada ilegalidade ou do abuso de poder. A deficiente instrução do writ impede o seu conhecimento" (EDcl no HC n. 783.484/MS, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), 6ª T., DJe de 17/2/2023).
+Além disso, não houve pronunciamento, no acórdão de fls. 21-25, sobre as teses de excesso de prazo na formação da culpa e de inobservância do art. 316, parágrafo único, do CPP. O "exame pelo Superior Tribunal de Justiça de matéria que não foi apreciada pelas instâncias ordinárias enseja indevida supressão de instância, com explícita violação da competência originária para o julgamento de habeas corpus (art. 105, I, c, da Constituição Federal)" (AgRg no HC n. 753.181/SP, relator Ministro João Otávio de Noronha, 5ª T., DJe de 30/9/2022).
+À vista do exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o processamento deste habeas corpus.
+Publique-se e intimem-se.
