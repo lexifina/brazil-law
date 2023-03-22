@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de FELIPE NASCIMENTO PEREIRA apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação n. 1501588-96.2019.8.26.0617).
+Depreende-se dos autos que o paciente foi condenado a 10 anos, 3 meses e 20 dias de reclusão, no regime inicialmente fechado, pela prática dos delitos de tráfico de drogas e associação para o mesmo fim (e-STJ fls. 24/46). Segundo consta, o paciente, associado aos demais réus, foi apreendido em posse de aproximadamente 30kg de maconha, 1kg de cocaína e 55g de crack (e-STJ fl. 24).
+Interposta apelação, o Tribunal de origem negou provimento ao recurso (e-STJ fls. 47/61). Após a inadmissão do recurso especial interposto, seguiu-se a interposição de agravo, que não foi conhecido. Posteriormente, foi negado provimento ao agravo regimental, tendo o trânsito em julgado do processo ocorrido em 2/8/2022.
+Daí o presente writ, no qual sustenta a defesa ilegalidade na dosimetria quanto ao aumento da pena-base pela quantidade e variedade de drogas, bem como que o paciente faria jus à incidência da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+Requer, ao final, a concessão da ordem para reduzir a reprimenda do paciente, bem como para alterar o regime prisional fixado.
+É o relatório. Decido.
+O writ não merece seguimento.
+O Superior T ribunal de Justiça, de longa data, vem buscando fixar balizas para a racionalização do uso do habeas corpus, visando a garantia não apenas do curso natural das ações ou revisões criminais, mas da efetiva priorização do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+Nessa linha, esta Corte, em diversas ocasiões, já assentou a impossibilidade de impetração de habeas corpus em substituição à revisão criminal, quando já transitada em julgado a condenação do réu, posicionando-se no sentido de que " n ão deve ser conhecido o writ que se volta contra acórdão condenatório já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte" (HC n. 730.555/SC, relator Ministro Olindo Menezes, Desembargador Convocado do TRF 1ª Região, Sexta Turma, julgado em 9/8/2022, DJe de 15/8/2022).
+Nesse mesmo sentido, os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO DUPLAMENTE MAJORADO TENTADO. INSURGÊNCIA CONTRA ACÓRDÃO TRANSITADO EM JULGADO. MANEJO DO WRIT COMO REVISÃO CRIMINAL. DESCABIMENTO. ILEGALIDADE FLAGRANTE NÃO DEMONSTRADA. REPRIMENDA INFERIOR A QUATRO ANOS. PENA-BASE FIXADA NO MÍNIMO LEGAL. REGIME MAIS GRAVOSO. POSSIBILIDADE. GRAVIDADE CONCRETA DA CONDUTA EVIDENCIADA. REFORMATIO IN PEJUS. NÃO OCORRÊNCIA. EFEITO DEVOLUTIVO AMPLO DO RECURSO DE APELAÇÃO. BIS IN IDEM. SUPRESSÃO DE INSTÂNCIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não deve ser conhecido o writ que se volta contra acórdão já transitada em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. Precedentes da Quinta e Sexta Turmas do Superior Tribunal de Justiça.
+ ..
+6. Agravo regimental desprovido.
+(AgRg no HC n. 751.156/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 9/8/2022, DJe de 18/8/2022, grifei.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. TRÁFICO DE DROGAS. ACÓRDÃO TRANSITADO EM JULGADO. DOSIMETRIA. SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA A COMPETÊNCIA DO STJ. INADMISSIBILIDADE. AUMENTO DA PENA-BASE. ELEVADA QUANTIDADE DE DROGAS. PROPORCIONALIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+Agravo regimental não conhecido.
+(AgRg no HC n. 751.137/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 2/8/2022, DJe de 4/8/2022, grifei.)
+No caso, a condenação do paciente transitou em julgado em 2022 - após o não conhecimento dos recursos de agravo em recurso especial interpostos contra a decisão que não admitiu os apelos extraordinários -, de maneira que não se deve conhecer do writ que pretende a desconstituição do acórdão proferido pela Corte local, olvidando-se a parte de ajuizar a necessária revisão criminal antes de inaugurar a competência desta Corte acerca da controvérsia.
+De toda forma, não se vislumbra ilegalidade flagrante apta a ser sanada na presente via, ainda que mediante a eventual concessão de habeas corpus de ofício.
+É que, além de a pena-base ter sido exasperada em virtude da expressiva quantidade de drogas apreendida, em observância ao disposto no art. 42 da Lei n. 11.343/2006, o paciente também foi condenado pela prática do delito de associação para o tráfico de drogas, o que impede a concessão da minorante aqui pleiteada, senão vejamos do seguinte julgado:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE ENTORPECENTES E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PLEITO DE ABSOLVIÇÃO. REVOLVIMENTO FÁTICO E PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. PROVA DA MATERIALIDADE. ENTORPECENTE APREENDIDO COM CORRÉU. LIAME ENTRE OS AGENTES COMPROVADO. REDUÇÃO DA PENA AQUÉM DO MÍNIMO LEGAL. IMPOSSIBILIDADE. SÚMULA 231 DO STJ. RECONHECIMENTO DO TRÁFICO PRIVILEGIADO. NÃO PREENCHIMENTO DOS REQUISITOS LEGAIS. RÉU CONDENADO TAMBÉM POR ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+4. A condenação pelo crime de associação para o tráfico, por si só, já tem o condão de inviabilizar a aplicação do redutor previsto no art. 33, § 4º, da Lei Antidrogas, pois essa circunstância impede que o agente preencha os requisitos legais para a aplicação da minorante.
+5. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.211.018/RJ, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 14/2/2023, DJe de 17/2/2023, grifei.)
+Ante o exposto, indefiro liminarmente o presente writ.
+Publique-se. Inti mem-se.
