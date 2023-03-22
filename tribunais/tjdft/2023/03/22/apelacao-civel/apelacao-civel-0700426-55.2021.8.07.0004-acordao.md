@@ -1,0 +1,115 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+6ª Turma Cível
+Processo N.APELAÇÃO CÍVEL 0700426-55.2021.8.07.0004APELANTE(S)ODILON SEBASTIAO PIRES,ADRIANO COSTA FERREIRA,EMMANUEL DO AMARAL ILDEFONSO,FERNANDA LORENA SANTOS SILVA AMARAL,FILADELFO CARLOS ILDEFONSO,MARIA APARECIDA DO AMARAL ILDEFONSO e RAFAELA DO AMARAL ILDEFONSOAPELADO(S)MARIA APARECIDA DO AMARAL ILDEFONSO,FILADELFO CARLOS ILDEFONSO,FERNANDA LORENA SANTOS SILVA AMARAL,EMMANUEL DO AMARAL ILDEFONSO,RAFAELA DO AMARAL ILDEFONSO,ADRIANO COSTA FERREIRA e ODILON SEBASTIAO PIRESRelatorDesembargador LEONARDO ROSCOE BESSA Acórdão Nº1681698
+
+EMENTA
+
+APELAÇÃO. PROCESSUAL CIVIL. AÇÃO DE OBRIGAÇÃO DE NÃO FAZER E INDENIZATÓRIA. CERCEAMENTO DE DEFESA. PRELIMINAR REJEITADA. PROVA ORAL. DESNECESSIDADE. EMISSÃO SONORA. LIMITAÇÃO. LEI DISTRITAL 4.092/2008. LIMITAÇÃO. ÁREA RURAL. PERTURBAÇÃO DO SOSSEGO. VIOLAÇÃO AO DIREITO DE VIZINHANÇA E À INTEGRIDADE PSÍQUICA. AFETAÇÃO NEGATIVA DO ESTADO ANÍMICO. DANOS MORAIS. COMPENSAÇÃO. VALOR INDENIZATÓRIO. MANUTENÇÃO. HONORÁRIOS ADVOCATÍCIOS. SUCUMBÊNCIA  INTEGRAL. ERRO MATERIAL. CORREÇÃO.
+
+1. O juiz é o destinatário principal da prova. Compete a ele decidir a respeito dos elementos necessários à formação de seu convencimento e zelar pela efetividade do processo, nos moldes dos arts. 370 e 371 do Código de Processo Civil - CPC. No caso, não há necessidade de produzir prova testemunhal. Os documentos acostados aos autos são suficientes para demonstrar perturbação do sossego dos autores e a violação do direito de vizinhança. Dessa forma, não há cerceamento ao direito de defesa do agravante, pois os fatos foram elucidados sem a necessidade de produção de prova oral. Preliminar de cerceamento de defesa rejeitada.
+
+2. A Lei Distrital 4.092/2008, que dispõe sobre poluição sonora, estabelece os limites máximos de intensidade da emissão de sons e ruídos resultantes de atividades urbanas e rurais no Distrito Federal. Em área rural, a emissão sonora deve respeitar o limite de 40dB no período diurno e 35dB no período noturno, segundo o critério de avaliação para ambientes externos estabelecido no Anexo I da referida Lei.
+
+3. Em sede doutrinária, há três posições sobre o conceito do dano moral: 1) dor psíquica; 2) violação a direitos da personalidade; e 3) ofensa à cláusula geral da dignidade da pessoa humana. A posição mais adequada combina as duas primeiras correntes. Dano moral decorre de ofensa a direitos da personalidade. Todavia, entre as espécies já reconhecidas dos direitos da personalidade, está o direito à integridade psíquica (dor) cuja violação pode ocorrer de modo isolado ou cumulado com outros direitos existenciais e/ou materiais.
+
+4. Os atributos psíquicos do ser humano estão relacionados aos sentimentos de cada indivíduo. A própria noção de saúde passa pela higidez mental. A ideia de dignidade humana carrega em si um desejado equilíbrio psicológico. São ilícitas, portanto, as condutas que violam e afetam a integridade psíquica, que causam sentimentos negativos e desagradáveis, como tristeza, vergonha, constrangimento etc. É importante perceber a autonomia do direito à integridade psíquica (dor). A compensação por dano moral pode ser dar unicamente por ofensa ao referido direito sem que isso signifique, necessariamente, adoção da corrente doutrinária que apenas reconhece o dano moral quando há afetação negativa do estado anímico de alguém (dor).
+
+5. No caso, os cinco boletins de ocorrência, nove reclamações na ouvidoria do Instituto do Meio Ambiente e Recursos Hídricos do Distrito Federal - Brasília Ambiental  - IBRAM, as reclamações junto à Secretaria de Estado de Proteção da Ordem Urbanística do Distrito Federal DFLEGAL, quinze vídeos, além das conversas no grupo do WhatsApp entre os moradores, demonstram que as festas promovidas pelo réu perturbaram o sossego da vizinhança. No Termo Circunstanciado que tramitou no 2º Juizado Especial Cível e Criminal do Gama, o réu admitiu a conduta e firmou composição civil, na qual se comprometeu a alugar o imóvel apenas para festas diurnas, por uma diária por locatário e respeitando os limites das normas vigentes.
+
+6. Observa-se, na hipótese, a comprovação da ofensa ao direito à integridade psíquica dos autores - afetação negativa do estado anímico. Afinal, houve evidente sentimento de frustração e revolta com toda a situação vivida, motivo pelo qual cabe a compensação por danos morais.
+
+7. A quantificação da verba compensatória deve ser pautada nos princípios da proporcionalidade e da razoabilidade, com a compensação do mal injusto experimentado pela vítima. Ponderam-se o direito violado, a gravidade da lesão (extensão do dano), as circunstâncias e consequências do fato. O valor não pode configurar enriquecimento exagerado da vítima. Acrescente-se ser pacífico na jurisprudência o caráter punitivo e pedagógico da condenação por dano moral, inclusive com a análise da situação financeira do autor da lesão.
+
+8. Em homenagem aos princípios da razoabilidade e da proporcionalidade, impõe-se a majoração da verba compensatória para R$ 4.000,00 para cada um dos seis autores, a qual bem atende aos critérios e objetivos acima indicados.
+
+9. O art. 86 do Código de Processo Civil dispõe “se cada litigante for, em parte, vencedor e vencido, serão proporcionalmente distribuídas entre eles as despesas”. Os honorários advocatícios também devem ser distribuídos de forma proporcional entre o vencedor e vencido, salvo no caso de sucumbência mínima em que a outra parte deve responder por inteiro os honorários e despesas. Portanto, a sucumbência recíproca ocorre quando uma das partes não obtém tudo o que o processo poderia lhe proporcionar.
+
+10. Não houve sucumbência: os litigantes foram vitoriosos na integralidade de seus pedidos. Assim, assiste razão aos autores quanto à imputação da totalidade das despesas processuais ao réu.
+
+11. Os autores não são beneficiários da gratuidade justiça. Deve ser corrigido o erro material na sentença, para afastar a suspensão da exigibilidade dos honorários sucumbenciais devidos por eles.
+
+12. Recurso dos autores conhecido e provido. Recurso do réu conhecido e parcialmente provido apenas para reconhecer erro material.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 6ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, LEONARDO ROSCOE BESSA - Relator, ARQUIBALDO CARNEIRO - 1º Vogal e SONÍRIA ROCHA CAMPOS D'ASSUNÇÃO - 2º Vogal, sob a Presidência do Senhor Desembargador LEONARDO ROSCOE BESSA, em proferir a seguinte decisão: CONHECIDOS. PROVIDOS OS RECURSOS DOS AUTORES. PARCIALMENTE PROVIDO O RECURSO DO RÉU. UNÂNIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 29 de Março de 2023
+
+Desembargador LEONARDO ROSCOE BESSAPresidente e Relator
+
+RELATÓRIO
+
+p{text-align: justify;}Trata-se de apelações cíveis interpostas contra sentença da 1ª Vara Cível do Gama proferida na ação de conhecimento ajuizada por MARIA APARECIDA DO AMARAL IDELFONSO E OUTROS em desfavor de ODILON SEBSATIÃO PIRES.
+O juízo julgou  parcialmente procedente o pedido para condenar o réu a: 1) se abster de emitir sons que ultrapassassem os níveis máximos fixados na Lei Distrital 4.092/2008 e anexos, no período compreendido entre as 8h00 e as 22h00; 2) respeitar a proibição de emissão de sons mecânicos de qualquer natureza no período compreendido entre as 22h00 e as 8h00; 3) indenizar cada um dos 6 autores em de R$ 1.000,00.
+Na primeira apelação (ID 43565109), o réu alega que: 1) a violação dos limites de sonoridade não foi comprovada; 2) o pedido de obrigação de não fazer foi indeferido, pois os eventos não foram proibidos; 3) as partes fizeram acordo na seara criminal, no qual o apelante poderia continuar os eventos, observada a limitação de horário; 4) a sentença é nula pois o julgamento antecipado da lide não permitiu a produção de prova testemunhal, o que feriu o contraditório e a ampla defesa; 5) os recorridos não são beneficiários da gratuidade judiciária.
+Requer o provimento do recurso para que a sentença seja cassada em razão do cerceamento da produção de provas. Subsidiariamente, pede a reforma da sentença para que os pedidos sejam julgados improcedentes e para que seja retirada a suspensão da cobrança dos honorários advocatícios.
+Preparo recolhido (ID 43565110).
+Na segunda apelação (ID 43565112) os autores afirmam que: 1) o juízo condenou as partes ao pagamento das custas e honorários de forma recíproca apesar de julgar procedente os pedidos; 2) o valor fixado a título de indenização dos danos morais é insuficiente para a reparação do dano sofrido.
+Requerem que o pagamento integral das custas e honorários seja suportado apenas pelo réu e que os honorários sejam majorados.
+Preparo recolhido (ID 43565113).
+Contrarrazões apresentadas (ID 43565118/9).
+É o relatório.
+
+VOTOS
+
+O Senhor Desembargador LEONARDO ROSCOE BESSA - Relatorp{text-align: justify;}1. CONHECIMENTO
+Presentes os pressupostos de admissibilidade, conheço do recurso.
+
+2. PRELIMINAR DE CERCEAMENTO DE DEFESA
+O juiz é o destinatário principal da prova. Compete a ele decidir a respeito dos elementos necessários à formação de seu convencimento e zelar pela efetividade do processo, nos moldes dos arts. 370 e 371 do Código de Processo Civil - CPC.
+O juízo pode determinar as provas necessárias à instrução processual e indeferir aquelas reputadas inúteis para o julgamento da lide, sem que haja ofensa ao direito de defesa das partes.
+Nesse sentido, é pacífico o entendimento do Superior Tribunal de Justiça. Ilustrativamente, registre-se:
+“AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INCONFORMISMO DOS AGRAVANTES. 1. Não se verifica ofensa ao artigo 535 do CPC/73 quando o Tribunal decide, de modo claro e fundamentado, as questões essenciais ao deslinde do feito. Ademais, não se deve confundir decisão contrária aos interesses da parte com negativa de prestação jurisdicional. 2. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que o juiz é o destinatário da prova, cabendo-lhe, com base em seu livre convencimento, avaliar a necessidade de sua produção. Aplicação da Súmula 83 do STJ. (...) 4. Agravo interno desprovido. (AgInt no REsp 1362696/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 31/05/2021, DJe 23/06/2021)” – grifou-se. A instrução probatória está condicionada não só à possibilidade jurídica da prova, como também ao interesse e relevância da sua produção.
+No caso, não há necessidade de produzir prova testemunhal. Os documentos acostados aos autos são suficientes para demonstrar perturbação do sossego dos autores e a violação do direito de vizinhança.
+Dessa forma, não há cerceamento ao direito de defesa do agravante, pois os fatos foram elucidados sem a necessidade de produção de prova oral.
+
+3. MÉRITO
+Reside a controvérsia em definir se é devida condenação do réu a respeitar a proibição de não poluição sonora, bem como de indenizar os autores por danos morais.
+
+3.1 POLUIÇÃO SONORA
+A Lei Distrital 4.092/2008, que dispõe sobre poluição sonora, estabelece os limites máximos de intensidade da emissão de sons e ruídos resultantes de atividades urbanas e rurais no Distrito Federal. No caso, o imóvel do réu se situa em área rural. Portanto, segundo o critério de avaliação para ambientes externos, a emissão sonora deve respeitar o limite de 40 decibéis no período diurno e 35dB no período noturno.
+Está correta a sentença no ponto em que determinou que o réu se abstenha desobedecer a lei e emitir sons que ultrapassassem os níveis máximos fixados na Lei Distrital 4.092/2008 e anexos.
+Na mesma linha, registrem-se os julgado deste Tribunal:
+“APELAÇÃO CÍVEL. DIREITO CIVIL E PROCESSUAL CIVIL. PRELIMINARES. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. ILEGITIMIDADE ATIVA. NÃO CONFIGURAÇÃO. LEGITIMIDADE PASSIVA. ART. 1.277, DO CC. DOCUMENTO NOVO. IMPUGNAÇÃO À GRATUIDADE DE JUSTIÇA. DEFERIMENTO. LEGITIMIDADE PASSIVA. DIREITO DE VIZINHANÇA. ATIVIDADES PREJUDICIAIS À SEGURANÇA, AO SOSSEGO E À SAÚDE DOS VIZINHOS. PANDEMIA. OBRIGAÇÃO DE NÃO FAZER. DANOS MORAIS. QUANTUM. RAZOABILIDADE E PROPORCIONALIDADE. LITIGÂNCIA DE MÁ-FÉ DOS AUTORES. NÃO CONFIGURAÇÃO. (...) Nos termos do art. 1.277, do CC, o proprietário ou o possuidor de um prédio tem o direito de fazer cessar as interferências prejudiciais à segurança, ao sossego e à saúde dos que o habitam, em face de proprietário vizinho. 8. Demonstrado nos autos a magnitude do evento realizado pelos réus, bem como a importunação acarretada à vizinhança, mostra-se escorreita a sentença resistida ao impor comando inibitório a fim de que os réus se abstenham de promover eventos festivos que se mostrem incompatíveis com a segurança, o sossego e a saúde dos residentes nos imóveis vizinhos. 9. Verificado que o evento realizado pelos réus causou dano capaz de causar abalo apto a gerar a gerar ofensa aos atributos da personalidade dos autores, há a configuração de danos morais. 10. O quantum indenizatório fixado a título de danos morais deve atender aos princípios da razoabilidade e proporcionalidade, considerando a capacidade econômica do agente, a extensão e a gravidade do dano, além do caráter punitivo-pedagógico da medida. 11. Não há que se falar em litigância de má-fé se a parte autora se limitou a desenvolver tese jurídica em seu favor, não fazendo concretizar quaisquer das hipóteses previstas no art. 80, incisos I a VII, do CPC. 12. Apelo do réu não provido. Apelo dos autores parcialmente providos.” (Acórdão 1424839, 07077934220218070001, Relator: ARNOLDO CAMANHO, 4ª Turma Cível, data de julgamento: 19/5/2022, publicado no DJE: 31/5/2022) – grifou-se
+“AGRAVO DE INSTRUMENTO. DOCUMENTAÇÃO OBRIGATÓRIA. JUNTADA DESNECESSÁRIA. AUTOS ELETRÔNICOS. INÉPCIA RECURSAL. NÃO CONFIGURADA. CERCEAMENTO DE DEFESA. INOCORRENTE. VIZINHANÇA. EVENTOS. PERÍODO NOTURNO. EMISSÃO DE SONS. NITIDAMENTE EXACERBADOS. CARÁTER FAMILIAR E ÍNTIMO. NÃO CARACTERIZADO. DESCUMPRIMENTO DE ORDEM JUDICIAL. MULTA DEVIDA. 1. À luz do art. 1.017, §5º, do CPC, sendo eletrônicos os autos do processo, são dispensadas as peças mencionadas nos incisos I e II do caput, não havendo que se falar em ausência de regularidade formal. 2. Inexiste inépcia da petição recursal, uma vez que em análise ao conjunto da postulação e à boa-fé objetiva (art. 322, §2º, CPC), restou indicado e interposto o cabível recurso de agravo de instrumento em face da decisão ora recorrida, contendo fundamentos e pedidos recursais, em tese, lógicos e coerentes. 3. Havendo elementos probatórios suficientes, não se vislumbra a necessidade de produção de prova testemunhal, incumbindo ao magistrado, por ser o destinatário da produção probatória, resolver a lide mediante apresentação dos fundamentos decorrentes da apreciação das provas, sem que isso signifique cerceamento de defesa. 4. Não se constata caráter estritamente familiar e íntimo de eventos realizados em residência, cujos elementos probatórios demonstram ter ocorrido em período noturno, com presença de vários convidados, execução de músicas por cantores, utilização de instrumentos musicais e aparelhos de amplificação de som, em volume nitidamente exacerbado, de modo a acarretar incômodo à vizinhança e perturbação do sossego noturno. 5. Ainda que não tenha havido utilização de específicos instrumentos de medição, vislumbra-se elementos probatórios suficientes a demonstrar o horário noturno e o barulho provocado, com nível de ruído que manifestamente prejudica o sossego noturno, acarretando incômodo. 6. Demonstrado o descumprimento da ordem judicial, devem os réus arcar com a multa estipulada por sentença. 7. Recurso conhecido e não provido. Preliminar rejeitada.” (Acórdão 1422370, 07060401920228070000, Relator: ANA CANTARINO,  5ª Turma Cível, data de julgamento: 18/5/2022, publicado no DJE: 24/5/2022).
+Assim, deve ser mantida a sentença quanto à condenação na obrigação de não fazer.
+
+3.2. DANOS MORAIS
+A condenação por danos morais deve ser mantida.
+Em sede doutrinária, há três posições sobre o conceito do dano moral: 1) dor psíquica; 2) violação a direitos da personalidade; e 3) ofensa à cláusula geral da dignidade da pessoa humana.
+A posição mais adequada combina as duas primeiras correntes. Dano moral decorre de ofensa a direitos da personalidade. Todavia, entre as espécies já reconhecidas dos direitos da personalidade, está o direito à integridade psíquica (dor) cuja violação pode ocorrer de modo isolado ou cumulado com outros direitos existenciais e/ou materiais.
+Os atributos psíquicos do ser humano estão relacionados aos sentimentos de cada indivíduo. A própria noção de saúde passa pela higidez mental. A ideia de dignidade humana carrega em si um desejado equilíbrio psicológico. São ilícitas, portanto, as condutas que violam e afetam a integridade psíquica, que causam sentimentos negativos e desagradáveis, como tristeza, vergonha, constrangimento etc.
+É importante perceber a autonomia do direito à integridade psíquica (dor). A compensação por dano moral pode ser dar unicamente por ofensa ao referido direito sem que isso signifique, necessariamente, adoção da corrente doutrinária que apenas reconhece o dano moral quando há afetação negativa do estado anímico de alguém (dor).
+No caso, os cinco boletins de ocorrência (ID 43564924, 43564925, 43564926, 43564927, 43564928), nove reclamações na ouvidoria do Instituto do Meio Ambiente e Recursos Hídricos do Distrito Federal - Brasília Ambiental  - IBRAM (ID 43564929, 43564930, 43564931), as reclamações junto à Secretaria de Estado de Proteção da Ordem Urbanística do Distrito Federal DFLEGAL (ID 43564932), quinze vídeos (ID 43564940, 43564941, 43564942, 43564943, 43564944, 43564945, 43564946, 43564947, 43564948, 43564949, 43564950, 43564951, 43564952, 43564953, 43564954), além das conversas no grupo do WhatsApp entre os moradores, demonstram que as festas promovidas pelo réu perturbaram o sossego dos autores e violaram o direito de vizinhança.
+No Termo Circunstanciado 0701886-77.2021.8.07.0004, que tramitou no 2º Juizado Especial Cível e Criminal do Gama, o réu admitiu a conduta e firmou composição civil (ID 90797284), na qual se comprometeu a alugar o imóvel para festas diurnas, por apenas uma diária por locatário e respeitando os limites das normas vigentes.
+Realizadas tais considerações, observa-se, na hipótese, a comprovação da ofensa ao direito à integridade psíquica dos autores - afetação negativa do estado anímico. Afinal, houve evidente sentimento de frustração e revolta com toda a situação vivida, motivo pelo qual cabe a compensação por danos morais.
+A quantificação da verba compensatória, entretanto, deve ser pautada nos princípios da proporcionalidade e da razoabilidade, com a compensação do mal injusto experimentado pela vítima. Ponderam-se o direito violado, a gravidade da lesão (extensão do dano), as circunstâncias e consequências do fato. O valor, ademais, não pode configurar enriquecimento exagerado da vítima.
+Ao discorrer sobre o dano moral, esclarece Maria Celina Bondin de Moraes:
+“De um lado, deve, como qualquer ressarcimento, compensar a vítima através da indenização pelos danos (rectius, dores) sofridos. É a chamada função compensatória. De outro lado, ao se propor que as condições econômicas das partes sejam consideradas, assim como grau de culpa do ofensor, é estabelecida uma outra causa de ressarcimento, desta vez visando punir o ofensor ou, como diz o Ministro Sálvio, desestimulá-lo a repetir o ato danoso. É a chamada função punitiva, que alguns chamam de função preventiva, pedagógica ou exemplar”, (MORAES, Maria Celina Bodin de. Danos a pessoa humana: Uma leitura Civil: Constitucional dos Danos Morais. Rio de Janeiro: Renovar, 2007, p.31-32).
+Acrescente-se ser pacífico na jurisprudência o caráter punitivo e pedagógico da condenação por dano moral, inclusive com a análise da situação financeira do autor da lesão.
+Na hipótese, verifica-se que o valor fixado na origem - R$ 1.000,00 - não condiz com a gravidade e as especificidades do caso concreto.
+Há diversos boletins de ocorrência e reclamações na Ouvidora do DF, durante vários anos. O réu manteve perturbação, mesmo após inúmeras reclamações, em desrespeito ao sossego e paz dos ocupantes das propriedades vizinhas. A perturbação do sossego, ao longo dos anos, resultado da falta de senso de coletividade.
+Deste modo, em homenagem aos princípios da razoabilidade e da proporcionalidade, a reforma da sentença para majoração da verba compensatória para R$ 4.000,00.
+
+3.3. HONORÁRIOS SUCUMBENCIAIS
+O juiz, ao proferir a sentença, fixou os honorários de sucumbência nos seguintes termos: “Em razão da sucumbência recíproca, cada parte arcará com 50% das custas e com os honorários do advogado da parte contrária que fixo em 10% sobre o valor da condenação, ficando a condenação em custas e honorários suspensa em relação aos autores por serem beneficiários da justiça gratuita.”
+Os autores alegam que o juízo condenou as partes ao pagamento das custas e honorários de forma recíproca apesar de julgar procedente os pedidos. Requerem que o réu arque com o pagamento integral das custas e honorários, os quais devem ser majorados.
+O réu, por sua vez, afirma que os recorridos não são beneficiários da gratuidade judiciária. Portanto, deve ser retirada a suspensão da cobrança dos honorários.
+O art. 86 do Código de Processo Civil dispõe “se cada litigante for, em parte, vencedor e vencido, serão proporcionalmente distribuídas entre eles as despesas”.
+Os honorários advocatícios também devem ser distribuídos de forma proporcional entre o vencedor e vencido, salvo no caso de sucumbência mínima em que a outra parte deve responder por inteiro os honorários e despesas.
+No caso, não houve sucumbência dos autores: os litigantes foram vitoriosos todos os seus pedidos - limites máximos de intensidade da emissão de sons e ruídos e danos morais. Assim, também assiste razão aos autores quanto à necessidade dos honorários de sucumbência serem pagos pelo réu na sua totalidade.
+Por outro lado, como alegado na apelação do réu, os autores não são beneficiários da gratuidade justiça. Houve erro material na sentença, para afastar a suspensão da exigibilidade dos honorários sucumbenciais devidos pelos autores.
+
+4. DISPOSITIVO
+CONHEÇO do recurso dos autores e DOU-LHE PROVIMENTO para majorar os danos morais experimentados para R$ 4.000,00 para cada autor e para redistribuir os honorários de sucumbência.
+CONHEÇO do recurso do réu e DOU-LHE PARCIAL PROVIMENTO apenas para reconhecer erro material nos termos acima indicados.
+Em face da sucumbência integral do réu, redistribui os honorários de sucumbência, os quais devem ser pagos integralmente em favor dos advogados dos autores.
+É como voto.
+O Senhor Desembargador ARQUIBALDO CARNEIRO - 1º Vogal Com o relatorA Senhora Desembargadora SONÍRIA ROCHA CAMPOS D'ASSUNÇÃO - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECIDOS. PROVIDOS OS RECURSOS DOS AUTORES. PARCIALMENTE PROVIDO O RECURSO DO RÉU. UNÂNIME.
