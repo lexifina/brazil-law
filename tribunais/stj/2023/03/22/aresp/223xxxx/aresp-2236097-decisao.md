@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS contra a decisão proferida no âmbito do Tribunal de Justiça local que não admitiu seu recurso especial fundado no art. 105, inciso III, alínea a, da Constituição Federal.
+Depreende-se dos autos que o agravante foi condenado à pena de 4 anos de reclusão, em regime inicial semiaberto, pelo crime do art. 16, parágrafo único, inciso IV, da Lei n. 10.826/2003, em razão do porte de "uma arma de fogo do tipo revólver de calibre 38, marca Taurus, com numeração suprimida, e 04 cartuchos de calibre nominal 38" (e-STJ fl. 331).
+O Tribunal de origem deu provimento ao apelo do réu, a fim de absolvê-lo da imputação, nos termos da ementa de e-STJ fl. 313:
+APELAÇÃO CRIMINAL. CRIME DE PORTE ILEGAL DE ARMA DE FOGO COM NUMERAÇÃO SUPRIMIDA. PROVA INSUFICIENTE DA IMPUTAÇÃO. ABSOLVIÇÃO. IN DUBIO PRO REO. APELO PROVIDO.
+Nas razões do recurso especial, o Ministério Público sustenta negativa de vigência ao art. 16, parágrafo único, inciso IV, da Lei n. 10.826/2003, alegando a existência de provas suficientes da autoria delitiva para a prolação do édito condenatório. Destaca a validade e "a suficiência persuasiva dos testemunhos policiais, amplamente referendada pela jurisprudência do Superior Tribunal de Justiça" (e-STJ fl. 334).
+Inadmitido o apelo extremo, o recurso subiu a esta Corte por meio do presente agravo.
+O Ministério Público Federal manifestou-se conforme o parecer assim ementado (e-STJ fl. 385):
+AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182/STJ. PELO NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL.
+É o relatório.
+Decido.
+A Corte estadual absolveu o agravado, por entender que era insuficiente a prova da autoria, valendo destacar os seguintes excertos (e-STJ fls. 315/317):
+Com efeito, a prova dos autos é segura a validar os depoimentos testemunhais produzidos em sede policial e jurisdicionalizados no sentido de que, quando da chegada das viaturas na festa, para apuração de denúncia no sentido de que um indivíduo portava arma de fogo e teria desferido uma coronhada em terceiros, destacando que os militares encontraram o objeto no local, e que o processado encontrava-se próximo do mesmo.
+A sentença condenatória lastreia-se nessa linha probatória e, assim, reconhece a autoria delitiva:
+ ..
+Neste contexto, da análise dos autos e da própria leitura da sentença, tem-se que razão assiste à defesa, na medida em que o substrato da condenação é a proximidade da arma no momento da apreensão em relação ao apelante. Acontece que, no contexto dos acontecimento, nenhum outro elemento probante indica que o acusado, efetivamente, era o proprietário ou possuidor da arma, sendo, pois, de se concluir pela fragilidade da prova para assegurar a ocorrência de porte da arma apreendida.
+Com efeito, apesar da relevância do indício de que objeto, que foi encontrada debaixo de um sofá, estava próximo do acusado, isso se distancia da noção de prova idônea de que tinha algum vínculo fático-jurídico com o acusado, já que se tratava de uma festa e outros presentes encontravam-se naquele mesmo cômodo residencial. Sequer a testemunha ouvida - enfatizada na sentença - exprime que, na dinâmica dos fatos, a prática de qualquer comportamento indicativo de domínio sobre o artefato.
+ ..
+Neste contexto, vê-se que os elementos de convicção, produzidos sob o crivo do contraditório, relativamente à ocorrência do crime previsto no artigo 16, parágrafo único, inciso IV, do Estatuto do Desarmamento, são frágeis e não dão suporte a uma condenação, não incutindo a certeza necessária de que o apelante, de fato, portava arma de fogo com a numeração suprimida.
+Nesse contexto, verifico que o acórdão absolutório está devidamente fundamentado, de forma que o pleito de restabelecimento da sentença condenatória demandaria imprescindível reexame dos elementos fático-probatórios constantes dos autos, o que é defeso em recurso especial, em virtude do que preceitua a Súmula n. 7 desta Corte. Com efeito, aferir se melhor julgou as provas o Magistrado sentenciante ou o Tribunal estadual não provoca nenhum debate sobre interpretação da legislação infraconstitucional, mas sim a necessidade de reexame da persuasão racional dos julgadores sobre o conjunto probatório dos autos.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Publique-se. Intimem-se.
