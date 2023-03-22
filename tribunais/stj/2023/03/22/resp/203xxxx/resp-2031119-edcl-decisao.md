@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Eva Dias de Oliveira e Outros contra decisão que deu parcial provimento ao recurso especial e determinou o retorno dos autos ao Tribunal de origem para que este fixe os honorários advocatícios, como entender de direito (fls. 535/538).
+Alega a parte embargante que "a decisão supra padece de OMISSÃO E EQUÍVOCO, tendo em vista que, embora tenha ACERTADAMENTE reconhecido que cabível a fixação dos honorários executivos a teor do que dispõe o Art. 85, § 7º, do CPC/2015, deixou de observar que os honorários devem ser fixados pelo juízo da origem (primeiro grau), onde foi realizado o pedido e não pelo Tribunal de Origem" (fl. 543).
+As razões do recurso foram impugnadas (fls. 596/601).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada, nenhuma delas presentes na espécie.
+Verifica-se a existência de obscuridade quando há evidente dificuldade na compreensão do julgado, decorrente da falta de clareza do decisum, daí resultando a ininteligibilidade da questão decidida pelo órgão judicial.
+É o que leciona VICENTE GRECO FILHO:
+A obscuridade é o defeito consistente na difícil compreensão do texto da sentença e pode decorrer de simples defeito redacional ou mesmo de má formulação de conceitos. Há obscuridade quando a sentença está incompreensível no comando que impõe e na manifestação de conhecimento e vontade do juiz. A obscuridade da sentença como os demais defeitos corrigíveis por meio de embargos de declaração prejudicando a intelecção da sentença prejudicará a sua futura execução.
+A dúvida é o estado de incerteza que resulta da obscuridade. A sentença claramente redigida não pode gerar dúvida (in Direito Processual Civil Brasileiro, vol. 2, São Paulo: Saraiva, 2000, p. 241).
+Essa não é a hipótese dos autos, haja vista que a decisão embargada decidiu a controvérsia a partir de fundamentos claros, precisos e congruentes.
+De fato, cuida-se na origem de agravo instrumento interposto pela parte ora embargante contra decisão proferida nos autos do cumprimento de sentença que promovem em face do IPERGS, que indeferiu a fixação de honorários advocatícios.
+O Tribunal de origem negou provimento ao agravo de instrumento, confirmando, assim, a decisão então atacada.
+Sucede que, como consignado na decisão ora embargada, o Tribunal a quo decidiu a controvérsia a partir de uma premissa jurídica equivocada, razão pela qual foi dado parcial provimento ao recurso especial da parte ora embargante a fim de determinar àquela Corte que procedesse novo julgamento do agravo de instrumento, desta vez à luz da premissa jurídica correta, nos termos da jurisprudência deste Superior Tribunal.
+Ora, como cediço, o agravo de instrumento devolve ao Tribunal a matéria efetivamente examinada pelo Juízo a quo.
+Nesse sentido, mutatis mutandis:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RAZÕES DO RECURSO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, OS FUNDAMENTOS DA DECISÃO AGRAVADA, NO QUE SE REFERE À REJEIÇÃO DA ALEGADA OFENSA AO ART. 535 DO CPC/73. SÚMULA 182/STJ. EXECUÇÃO FISCAL. NOMEAÇÃO DE BEM À PENHORA. POSSIBILIDADE DE RECUSA, PELA FAZENDA PÚBLICA, POR
+INOBSERVÂNCIA DA ORDEM PREFERENCIAL DE BENS PENHORÁVEIS. DEFERIMENTO DO PEDIDO DE PENHORA ON LINE. POSSIBILIDADE. PRETENDIDA SUBSTITUIÇÃO DA PENHORA DE DINHEIRO POR FIANÇA BANCÁRIA OU SEGURO-GARANTIA. QUESTÃO QUE REFOGE AOS LIMITES DO AGRAVO DE INSTRUMENTO E DO RECURSO ESPECIAL. AGRAVO INTERNO PARCIALMENTE CONHECIDO, E, NESSA PARTE, IMPROVIDO.
+ ..
+VI. Na forma da jurisprudência do STJ, "o efeito devolutivo do agravo de instrumento (art. 1.015 do CPC/2015) está limitado à questão resolvida pela decisão interlocutória de que se recorre, de modo que a não apreciação pela Corte de origem de questões estranhas ao conteúdo da decisão agravada, ainda que eventualmente tenham sido suscitadas na peça recursal, não constitui negativa de prestação jurisdicional" (STJ, AgInt nos EDcl no AREsp 1.069.851/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 30/10/2017).
+VII. No caso, não caberia ao Tribunal de origem, assim como não cabe ao STJ, pronunciar-se sobre a alegada possibilidade de oferecimento de fiança bancária ou seguro-garantia, por se tratar de questão suscitada, em 1º Grau, em 1º/08/2013, posteriormente à prolação, em 26/06/2013, da decisão impugnada no Agravo de Instrumento. Ou seja, trata-se de matéria que refoge aos limites do efeito devolutivo do mencionado recurso. Por esse motivo, não cabe ao STJ pronunciar-se, de per saltum, sobre a pretendida substituição da penhora de dinheiro por fiança bancária ou seguro-garantia, sob alegação de agravamento da situação financeira da parte executada, em razão da crise econômica provocada pela pandemia (SARS-COV-2/COVID19/Coronavírus).
+VIII. Agravo interno parcialmente conhecido, e, nessa parte, improvido.
+(AgInt no AREsp 649.912/ES, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 12/11/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA AGRAVADA.
+1. Não se conhece da alegada violação do art. 535 do CPC/73, quando a causa de pedir recursal se mostra genérica, sem a indicação precisa dos pontos considerados omissos, contraditórios, obscuros ou que não receberam a devida fundamentação, sendo aplicável a Súmula 284 do STF. Precedentes.
+2. Na espécie, a Corte de origem, com base no acervo fático-probatório dos autos, concluiu pela nulidade do feito executivo e determinou a realização de avaliação judicial dos bens penhorados, bem como consignou que a decisão agravada decidiu somente o pedido de nova avaliação, de modo que este o limite do efeito devolutivo.
+2.1. O aresto recorrido encontra apoio na orientação do Superior Tribunal de Justiça no sentido de que o efeito devolutivo do agravo de instrumento está ligado ao quanto decidido na decisão interlocutória. Precedentes.
+2.2. Reexaminar o entendimento da instância inferior, no sentido de afirmar a desnecessidade de que seja feita avaliação oficial, afastando a "parcialidade" do laudo particular, não reconhecendo a "nulidade dos atos executórios", como pretende a insurgente, demandaria revolvimento de matéria fático-probatória, inadmissível no apelo especial, por óbice da Súmula 7/STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp 987.624/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe 12/11/2020)
+A partir de tal perspectiva, uma vez reconhecido que a decisão proferida pela Corte estadual amparou-se em premissa equivocada, competirá àquela reapreciar o agravo de instrumento, dando-lhe a solução que entender de direito - cujo decisum é dotado de efeito substitutivo, nos termos do art. 1.008 do CPC ("O julgamento proferido pelo tribunal substituirá a decisão impugnada no que tiver sido objeto de recurso").
+Destarte, não há se falar em supressão de instância.
+Ilustrativamente, o seguinte julgado:
+RECURSO ESPECIAL. PROCESSO CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. TERMO DE ACORDO. DESCUMPRIMENTO. CRÉDITO DE HONORÁRIOS ADVOCATÍCIOS. PENHORA DE MARCA DETERMINADA PELO STJ. EFEITO SUBSTITUTIVO. AUSÊNCIA DE VIOLAÇÃO AO ART. 1.008 DO CPC/15. DISSÍDIO JURISPRUDENCIAL. SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Execução proposta em 15/4/2008. Recurso especial interposto em 22/10/2019. Autos encaminhados à Relatora em 19/10/2020.
+2. O propósito recursal consiste em definir se o aresto que deu provimento a recurso especial interposto contra acórdão que havia mantido decisão indeferitória de pedido de penhora de marca possui como efeito o cancelamento de prévia anotação administrativa de levantamento da constrição.
+3. Conforme estabelecido na norma veiculada pelo art. 1.008 do CPC/15, o julgamento proferido pelo tribunal substituirá a decisão impugnada no que tiver sido objeto de recurso.
+4. No particular, a pretensão que constitui o objeto do presente recurso especial - cancelamento de anotação de levantamento de penhora - somente
+foi deduzida quando do retorno dos autos ao juízo de origem, após o julgamento do REsp 1.761.023/SP, onde se reconheceu a possibilidade de constrição da marca. Desse modo, tal cancelamento não pode ser considerado efeito automático decorrente do julgamento do recurso precitado.
+5. Ademais, a eficácia substitutiva dos acórdãos proferidos pelo STJ, que reconhecem a ocorrência de erro de julgamento (error in judicando), não tem o condão de repristinar a decisão do juízo de primeiro grau. A decisão originária somente volta a vigorar quando aquela que a reformou é invalidada (error in procedendo) pelo acórdão posterior.
+6. A divergência jurisprudencial deve ser comprovada mediante o cotejo analíticos entre acórdãos que tenham versado sobre situações fáticas idênticas, circunstância não verificada no particular.
+RECURSO ESPECIAL PARCIALMENTE CONHECIDO E NÃO PROVIDO.
+(REsp 1.913.033/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe 25/6/2021)
+De se ver, portanto, que a decisão embargada encontra-se em harmonia com a jurisprudência dominante deste Superior Tribunal.
+ANTE O EXPOSTO, rejeito os embargos de declaração.
+Publique-se.
