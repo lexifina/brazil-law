@@ -1,0 +1,41 @@
+DECISÃO
+Cuida-se de agravo interposto por LUIZ ARANTES DE OLIVEIRA contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que o agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS cuja ementa guarda os seguintes termos (fl. 680):
+APELAÇÃO - AÇÃO DE REINTEGRAÇÃO DE POSSE - JULGAMENTO ANTECIPADO DA LIDE -POSSIBILIDADE - CERCEAMENTO DE DEFESA -INOCORRÊNCIA - POSSIBILIDADE - USINA HIDRELÉTRICA - RESERVATÓRIO - ÁREA DE PRESERVAÇÃO PERMANENTE - SERVIÇO DE FORNECIMENTO E DISTRIBUIÇÃO DE ENERGIA ELÉTRICA - AFETAÇÃO - PROPRIEDADE - POSSE -ESBULHO - REQUISITOS - COMPROVAÇÃO -RECURSO - OCUPAÇÃO IRREGULAR - DETENÇÃO -INDENIZAÇÃO - BENFEITORIAS - INVIABILIDADE. - O julgamento antecipado da lide não implica em nulidade do processo, por cerceamento de defesa, quando os elementos probatórios constantes dos autos mostram-se suficientes para o desfecho da controvérsia.
+- Comprovados a propriedade, a posse e o esbulho sofrido, vez que, regularmente constituído em mora, o requerido não promoveu a voluntária desocupação da área de preservação permanente e afetada à prestação do serviço público de fornecimento e distribuição de energia elétrica, a procedência do pedido de reintegração de posse é de rigor.
+- A ocupação irregular de bem público constitui mera detenção, que retrata a clandestinidade e a precariedade da posse exercida, inviabilizando, destarte, a pretendida indenização pelas benfeitorias erigidas.
+Sem embargos de declaração.
+No recurso especial, a parte recorrente alega que o acórdão contrariou as disposições contidas nos arts. 1.208, 1.210 e 1.298, todos do Código Civil.
+Aponta divergência jurisprudencial com arestos de outros tribunais.
+Foram oferecidas contrarrazões ao recurso especial (fl. 753).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 770-772), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fl. 816).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Cuida-se, na origem, de ação de reintegração de posse ajuizada pela CEMIG GERAÇÃO E TRANSMISSÃO S.A., em que o Tribunal de Justiça do Estado de Minas Gerais julgou procedente o pedido inicial para reintegrá-la na posse do imóvel e determinar a desocupação e demolição das benfeitorias e edificações existentes realizadas pelo agravante, sob pena da cominação de multa.
+Irresignado, o ora recorrente interpôs o presente especial aduzindo que não ficou comprovada a propriedade e, tampouco, a precedente desapropriação da área litigiosa. Pondera sobre o exercício de posse mansa, pacífica e revestida de boa-fé, bem assim a ausente comprovação de qualquer dano ambiental. Assevera, ademais, fazer jus à indenização pelas benfeitorias erigidas no imóvel.
+Quanto ao ponto, assim decidiu a Corte a quo (fl. 684):
+No caso em exame, a par da primeira apelada ter notificado e, inclusive, deferido a dilação do prazo para desocupação da área, o apelante manteve-se inerte. Outrossim, em conformidade com o disposto no art. 1.208, do CC/02, diante da efetiva comprovação da titularidade do domínio do imóvel litigioso e da afetação do reservatório à prestação do serviço público de distribuição e fornecimento de energia elétrica, forçoso concluir que o apelante o detém injusta e precariamente, tratando-se de mera detenção, que autoriza descaracterizar a sua boa fé, para o fim da pretendida indenização pelas benfeitorias, renovada "venia".
+Com efeito, em conformidade com o previsto pelo artigo 1.198, do Código Civil, a ocupação de imóvel público denota caracterizada mera detenção, que sequer se sujeita à proteção possessória, inviabilizando o pretendido pedido de indenização pelas benfeitorias erigidas.
+Nesse sentido, vê-se que o acórdão recorrido, após análise das provas e da situação fática apresentada, reconheceu que o recorrente não tinha direito à indenização ou retenção por benfeitorias realizadas, pois, quando da ocupação do imóvel, encontrava-se de má-fé. Nesse contexto, a pretensão recursal implica reexame de aspectos probatórios, encontra óbice no enunciado da Súmula 7/STJ deste Superior Tribunal de Justiça.
+A propósito, cito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LOCAÇÃO DE IMÓVEL NÃO RESIDENCIAL. AÇÃO DE RESCISÃO DE CONTRATO C/C COBRANÇA DE MULTA CONTRATUAL E REPARAÇÃO DE DANOS. 1. OBRAS REALIZADAS NO IMÓVEL QUE CARACTERIZAM BENFEITORIAS, E NÃO ACESSÕES. REVISÃO. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. 2. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. 3. AGRAVO DESPROVIDO.
+1. Modificar o entendimento do Tribunal local quanto à exclusão do direito de indenização pelas benfeitorias realizadas no imóvel incorrerá em reexame de matéria fático-probatória e em análise do contrato, o que é inviável, devido aos óbices das Súmulas 5 e 7/STJ.
+2. Consoante iterativa jurisprudência desta Corte, a incidência da Súmula 7 do STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.508.373/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 11/11/2019, DJe de 21/11/2019.)
+PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RELAÇÃO JURÍDICA CONTROVERTIDA DE NATUREZA PRIVADA. COMPETÊNCIA. SEGUNDA SEÇÃO DO STJ. AUSÊNCIA DE ALCANCE NORMATIVO DOS ARTIGOS INDICADOS. SÚMULA N. 284/STF. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 211 DO STJ E 282 DO STF. INDENIZAÇÃO POR BENFEITORIAS E ACESSÕES. DIREITO DE RETENÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. DECISÃO MANTIDA.
+ ..
+4. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou revolvimento do contexto fático-probatório dos autos (Súmulas n. 5 e 7 do STJ).
+5. No caso concreto, para alterar a conclusão do Tribunal de origem e acolher a pretensão indenizatória do agravante pelas benfeitorias e acessões construídas no imóvel do agravado e o direito de retenção decorrente, seria imprescindível nova análise da matéria fática, inviável em recurso especial.
+6. "A iterativa jurisprudência desta Corte é no sentido de que o conhecimento do recurso especial - pela alínea c do permissivo constitucional - também exige o prequestionamento dos temas vinculados aos artigos objeto da suposta divergência jurisprudencial" (AgInt no AREsp n. 1.425.676/MS, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 14/5/2019, DJe 24/5/2019).
+Além disso, "a incidência das Súmulas 5 e 7 do Superior Tribunal de Justiça impede o exame de dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual o Tribunal de origem deu solução à causa" (AgInt no AREsp n. 1.232.064/SP, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 4/12/2018, DJe 7/12/2018).
+7. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 765.957/PR, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 3/9/2019, DJe de 9/9/2019.)
+Além disso, é assente na jurisprudência desta Corte Superior que a incidência da Súmula n. 7/STJ pela alínea "a" do permissivo constitucional impede o exame do dissídio pela alínea "c", uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão.
+Assim entende o Superior Tribunal de Justiça:
+2. Consoante iterativa jurisprudência desta Corte, a incidência da Súmula 7 do STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.508.373/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 11/11/2019, DJe de 21/11/2019.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
