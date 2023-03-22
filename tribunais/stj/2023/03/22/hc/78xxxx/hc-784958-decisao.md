@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus ajuizado em nome de Mariane Carolina Latorre Brasil de Oliveira, condenada pela prática do delito descrito no art. 33, caput, da Lei n. 11.343/2006, à pena de 9 anos de reclusão, em regime inicial fechado, e ao pagamento de 900 dias-multa (Processo n. 0019447-64.2020.8.11.0042, da 9ª Vara Criminal de Cuiabá/MT).
+Aponta-se como autoridade coatora o Tribunal de Justiça de Mato Grosso (Apelação Criminal n. 0019447-64.2020.8.11.0042).
+Sustenta-se, em síntese, a nulidade da busca pessoal pela ausência de fundadas suspeitas; a absolvição pelo in dubio pro reo; e a existência de erro na dosimetria da pena aplicada (fls. 4/14).
+Requer-se, em liminar e no mérito:  i  anular a busca pessoal carente de fundadas suspeitas concretas, subsidiariamente,  ii  a absolvição por ausência de provas suficientes, ou, que  iii  seja decotado a circunstância judicial de (quantidade a natureza) para fixar a pena-base no mínimo legal, por fim,  iv  a readequação critério norteador para 1/6 da pena mínima, com a concessão da ordem de habeas corpus em caráter definitivo (fl. 15).
+Liminar indeferida (fls. 1.722/1.723).
+Informações prestadas (fls. 1.730/1.767), o Ministério Público Federal deu parecer opinando pelo não conhecimento do habeas corpus, mas pela concessão parcial, de ofício, da ordem para desclassificar o crime de tráfico para o de porte de drogas para consumo próprio. (fls. 1.769/1.774).
+É o relatório.
+De pronto, no que diz respeito a nulidade da busca pessoal, não há ilegalidade a ser sanada, visto que, conforme consta do acórdão impugnado, a abordagem inicial dos acusados se deu em via pública, em conformidade com o art. 240, § 2º, do Código de Processo Penal, uma vez que o automóvel que ocupavam se encontrava sem placas de identificação e a Polícia Militar já havia recebido informações de que um veículo semelhante havia sido objeto de roubo, bem como pelo fato de que a região era conhecida pelo intenso tráfico de drogas (fls. 1.564/1.565), fatos que denotam a justa causa para abordagem policial.
+Já o pedido de absolvição da paciente ou a desclassificação da conduta delitiva necessitam da incursão no acervo fático-probatório, obstaculizada na via estreita do remédio heroico, exceto se houvesse flagrante ilegalidade nas provas para a condenação, o que não se observa na espécie.
+Saliento que o Tribunal a quo destacou que (fls. 1.567/1.569):
+ ..
+Por outro lado, o relatório de investigação elaborado pelos policiais civis Anderson Alves Xavier e Davilson Carvalho (Id. n. 116646169, pp. 75-78), bem como o depoimento prestado em juízo pelo segundo, malgrado não tenham fornecido subsídios relevantes para corroborar a imputação do crime de tráfico de drogas às rés Mariana Regina e Mariane Carolina, não comprovam que elas sejam meras usuárias de substâncias entorpecentes, notadamente porque os investigadores se basearam em simples relatos de vizinhos das acusadas, os quais se limitaram a dizer que "sabem" que elas usam drogas, masque "nunca as viram" comercializando tais produtos.
+ ..
+A fim de evitar tautologia, reporto-me à irretocável fundamentação invocada pela magistrada sentenciante no reconhecimento da responsabilidade dos apelantes:
+ ..
+Ainda, como GEAN, FAGNER e MARIANE CAROLINA, à época dos fatos, faziam uso de tornozeleira eletrônica, ao consultar o sistema SAC24 a semana que antecedeu suas prisões, constatei que GEAN e FAGNER estiveram nos barracos onde foram apreendidos os entorpecentes todos os dias, conforme imagens abaixo:
+ ..
+E mais, conquanto a acusada MARIANE CAROLINA tenha afirmado, em juízo, que não conhecia GEAN, que nunca tinha ido à casa de FAGNER, e que não tinha nenhum vínculo com pessoas no bairro Altos da Serra, no dia 8 de julho de2020, ou seja, 3 (três) dias antes de sua prisão, esteve, juntamente com os 2 (dois),no local onde os entorpecentes foram apreendidos. Inclusive, ao que se nota, chegou por volta das 18h12min, e foi embora por volta das 22h36min.
+ ..
+Se o Tribunal de origem entendeu, de forma fundamentada, mediante valoração do acervo probatório produzido nos autos, especialmente ante os depoimentos das testemunhas policiais e das circunstâncias em que ocorreu a prisão do paciente, a análise das alegações concernentes ao pleito de absolvição, demandaria exame detido de provas, inviável em sede de writ (AgRg no HC n. 711.472/SP, Ministro Jesuíno Rissato, Desembargador convocado do TJDFT, Quinta Turma, DJe 12/4/2022).
+Quanto à fixação da pena-base, também não há nenhuma ilegalidade a ser sanada.
+No caso, houve o acréscimo de 3 anos na primeira fase da dosimetria em razão da quantidade de droga apreendida, 20 kg de maconha, nos termos do art. 42 da Lei n. 11.343/2006.
+Com efeito, a dosimetria da pena configura matéria restrita ao âmbito de certa discricionariedade do magistrado e é regulada pelos critérios da razoabilidade e da proporcionalidade. Assim, havendo as instâncias ordinárias fundamentado o aumento da reprimenda-base à luz das peculiaridades do caso concreto, não há como esta Corte simplesmente se imiscuir no juízo de proporcionalidade feito pelas instâncias de origem e reduzir a reprimenda estabelecida ao acusado sob o pretexto de ofensa aos princípios da proporcionalidade e da individualização da pena, ou mesmo de violação dos arts. 59 do Código Penal e 42 da Lei de Drogas (AgRg no HC n. 786.617/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 16/3/2023).
+Ante o exposto, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. BUSCA PESSOAL ABORDAGEM VEICULAR. FUNDADAS RAZÕES. ABSOLVIÇÃO/ DESCLASSIFICAÇÃO. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. DOSIMETRIA DA PENA. EXASPERAÇÃO DA PENA-BASE. DISCRICIONARIEDADE VINCULADA DO MAGISTRADO. ART. 42 DA LEI N. 11.343/2006. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Ordem denegada.
