@@ -1,0 +1,37 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+
+    O acórdão recorrido ficou assim ementado:
+
+    "APELAÇÕES CÍVEIS E REMESSA NECESSÁRIA. INÉPCIA DA INICIAL E ILEGITIMIDADE PASSIVA DO MUNICÍPIO. PRELIMINARES AFASTADAS. RESPONSABILIDADE CIVIL. ACIDENTE ENVOLVENDO TREM E ÔNIBUS QUE REALIZAVA TRANSPORTE ESCOLAR PARA O MUNICÍPIO DE SOBRAL. NEGLIGÊNCIA E IMPRUDÊNCIA DOS CONDUTORES DO TREM E DO ÔNIBUS. CULPA CONCORRENTE. DANOS MATERIAIS, MORAIS E ESTÉTICOS CARACTERIZADOS. INDEPENDÊNCIA ENTRE OS DANOS MORAIS E ESTÉTICOS. PENSÃO MENSAL. TERMO FINAL. 72 ANOS DE IDADE DO AUTOR OU DATA DE SEU FALECIMENTO, O QUE OCORRER PRIMEIRO, CONFORME DETERMINADO NA SENTENÇA. NÃO INSURGÊNCIA DO AUTOR. PAGAMENTO DE UMA SÓ VEZ. (ARTIGO 950, PARÁGRAFO ÚNICO, DO CÓDIGO CIVIL). JUROS DE MORA E CORREÇÃO MONETÁRIA. CONDENAÇÃO CONTRA A FAZENDA PÚBLICA. TESE FIRMADA NO TEMA 905 DO STJ. SUCUMBÊNCIA RECÍPROCA. SENTENÇA PARCIALMENTE MODIFICADA. 1.No caso dos autos, o autor foi vítima de um acidente ocorrido no percurso Sobral-Jaibaras, em que o ônibus escolar que o transportava, contratado pelo Município de Sobral, colidiu com um trem da Companhia Ferroviária do Nordeste, atual Transnordestina Logística S/A, resultando em 09 (nove) pessoas mortas e 20 (vinte) feridas. 2.É indiscutível a negligência e a imprudência por parte dos condutores do ônibus e do trem, uma vez que ambos descumpriram as medidas de segurança a que estavam obrigados a observar e que poderiam ter evitado o acidente. 3.O intenso sofrimento passado pelo autor em razão do acidente, tendo sido hospitalizado politraumatizado, submetido a procedimentos cirúrgicos, inclusive a remoção do rim direito, sendo entubado e induzido ao coma mais de uma vez, dentre outros problemas graves como derrame pleural bilateral e perda permanente da mobilidade de dedos, ultrapassou largamente a esfera do mero dissabor da vida cotidiana. O acidente lhe acarretou, ainda, danos estéticos. 4.Os danos morais e estéticos não se confundem, devendo ser calculados separadamente. 5.Em casos como o dos autos, é cabível o arbitramento de pensão vitalícia, mas como o requerente não se insurgiu contra o termo final fixado na sentença, ele deve ser mantido. A pensão deve ser paga de uma só vez, nos termos do parágrafo único do artigo 950 do Código Civil. 6.Como houve culpa concorrente dos demandados, cada um deverá arcar com a metade do montante das indenizações devidas. 7.Os índices aplicáveis aos juros de mora e correção monetária, na condenação imposta ao Município de Sobral, devem obedecer à orientação fixada pelo STJ no Tema 905 para as condenações impostas à Fazenda Pública. 8.Como requerente e requeridos restaram vencedores e vencidos em relação ao pedido inicial, fica estabelecida a sucumbência recíproca, em percentual a ser fixado na liquidação de sentença, ocasião em que também deverá ser fixado o percentual da verba honorária, nos termos do art. 85, § 4º, II, e 86, caput, do CPC. 9.Apelação e remessa necessária conhecidas. Desprovido o apelo da Transnordestina e parcialmente providos a remessa e os apelos do autor e do Município."
+
+    Opostos os embargos de declaração, foram rejeitados.
+
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 5º, incisos XXXV, LV, e § 2º; 37, § 6º, da Constituição Federal.
+
+    Decido.
+
+    Analisados os autos, verifica-se que o Plenário da Corte, nos autos do ARE nº 748.371/MT, Relator o Ministro Gilmar Mendes (Tema 660), reafirmou o entendimento de que a afronta aos princípios da legalidade, do devido processo legal, da ampla defesa, do contraditório, dos limites da coisa julgada ou da prestação jurisdicional que dependa, para ser reconhecida como tal, da análise de normas infraconstitucionais configura apenas ofensa indireta ou reflexa à Constituição Federal, o que não enseja reexame da questão em recurso extraordinário. Nesse sentido:
+
+    “Agravo regimental no recurso extraordinário com agravo. Administrativo. Militar. Cerceamento de defesa. Indeferimento de provas. Repercussão geral. Ausência. Proventos com remuneração correspondente ao grau hierárquico superior. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. A afronta aos princípios da legalidade, do devido processo legal, da ampla defesa, do contraditório, dos limites da coisa julgada ou da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição Federal. 2. Esse entendimento foi reafirmado em sede de repercussão geral. Vide: i) ARE nº 748.371/MT, Relator o Ministro Gilmar Mendes, DJe de 1º/8/13 - Tema 660 e ii) ARE nº 639.228/RJ, Relator o Ministro Cezar Peluso, DJe de 31/8/11 - Tema 424. 3. Inviável, em recurso extraordinário, o reexame dos fatos e das provas dos autos e a análise da legislação infraconstitucional. Incidência das Súmulas nºs 279 e 636/STF. 4. Agravo regimental não provido, com imposição de multa de 1% do valor atualizado da causa (art. 1.021, § 4º, do CPC). 5. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita” (ARE nº 1.143.354-AgR, Rel. Min. Dias Toffoli, DJe de 1º/2/19).
+
+    Ademais, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário. Incidência da Súmula 279 do STF. Sobre o tema, a propósito:
+
+    “Agravo regimental no recurso extraordinário com agravo. Administrativo. Acidente de trânsito. Responsabilidade objetiva. Dano moral e material. Dever de indenizar. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. Inviável, em recurso extraordinário, o reexame do conjunto fático-probatório da causa. Incidência da Súmula nº 279/STF. 2. Agravo regimental não provido, com imposição de multa de 2% (art. 1.021, § 4º, do CPC)” (ARE nº 1.096.566/PE-AgR, Segunda Turma, Rel. Min. Dias Toffoli, DJe de 2/5/18).
+
+    “DIREITO ADMINISTRATIVO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. RESPONSABILIDADE CIVIL DO ESTADO. VERIFICAÇÃO DA EXISTÊNCIA DOS ELEMENTOS CONFIGURADORES. SÚMULA 279/STF. 1. A resolução da controvérsia demandaria o reexame dos fatos e do material probatório constantes nos autos, o que é vedado em recurso extraordinário. Incidência da Súmula 279/STF. 2. Agravo regimental a que se nega provimento” (ARE nº 936.614/PE-AgR, Primeira Turma, Rel. Min. Roberto Barroso, DJe de 9/8/16).
+
+    Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 22 de março de 2023.
+
+Ministra ROSA WEBER
+
+Presidente
+
+Documento assinado digitalmente
