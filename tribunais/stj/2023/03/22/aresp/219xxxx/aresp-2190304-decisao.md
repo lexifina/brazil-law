@@ -1,0 +1,59 @@
+DECISÃO
+Cuida-se de agravo interposto pelo MUNICÍPIO DE GOIÂNIA contra decisão que obstou a subida de recurso especial.
+A parte agravante interpôs recurso especial, com fundamento no art. 105, III, alínea "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS assim ementado (fl. 2.548):
+DUPLO GRAU DE JURISDIÇÃO E APELAÇÃO CÍVEL. A AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO JURÍDICA TRIBUTÁRIA C/C ANULATÓRIA DE DÉBITO FISCAL. COBRANÇA DE IPTU. SERVIDÃO ADMINISTRATIVA. CELG D. IMUNIDADE TRIBUTÁRIA. ENTENDIMENTO STF.
+1. Nos termos do artigo do art. 21, XII, b, os serviços e instalações de energia elétrica pertencem à União, que, pode ceder o seu uso a terceiros. Através do regime da concessão o poder público não transfere a propriedade do bem ao concessionário, nem se despoja de qualquer direito ou prerrogativa inerente a ele. A concessionária, assim, passa a deter tão-somente, a posse precária do bem.
+2. Consoante artigos 32 e 34 do Código Tributário Nacional, caberia ao proprietário do imóvel recolher o IPTU, porém, como os serviços e instalações de energia elétrica pertencem à União, que, nos termos do artigo 150, VI, alínea a, da Constituição de 1988, está imune ao recolhimento de impostos.
+REMESSA NECESSÁRIA E APELAÇÃO CÍVEL CONHECIDAS, MAS DESPROVIDAS.
+SENTENÇA MANTIDA.
+Rejeitados os embargos de declaração opostos (fls. 2.669-2.686).
+No recurso especial, a parte recorrente alega, preliminarmente, ofensa aos arts. 1.022, II, e 1.025 do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre os seguintes aspectos (fl. 2.695):
+ ..  tese 1) prescrição com relação aos lançamentos tributários anteriores a 17/03/2012; tese 3) os imóveis inscritos sob os n.452.005.1499.0000,483.085.0485.0003;353.002.4000.0004 e 383.103.0347.0002 continuam sob a propriedade da CELG; tese 4) a fixação dos honorários devidos pelo Município deve ser graduada conforme as faixas percentuais previstas no art. 85, §3º, do CPC, em obediência ao §5º do mesmo art. 85.
+Aduz, no mérito, que o acórdão contrariou as disposições contidas no art. 85, §3º e incisos, do CPC porque manteve a sentença que fixou os honorários em 8% do valor da causa, em vez de fixar a verba honorária com base no valor da condenação ou do proveito econômico obtido.
+Foram oferecidas contrarrazões ao recurso especial (fls. 2.704-2.711).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 2.717-2.719), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 2.795-2.800).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Inicialmente, não há que se falar em ofensa aos arts. 1.022, II, e 1.025 do CPC, uma vez que o Tribunal de origem, ao negar provimento à apelação e à remessa necessária, solucionou a lide em conformidade com o que foi apresentado em juízo.
+Quanto à tese de que os imóveis inscritos sob os n. 452.005.1499.0000, 483.085.0485.0003, 353.002.4000.0004 e 383.103.0347.0002 continuam sob a propriedade da CELG, o Tribunal de origem expôs de forma clara o seu entendimento, no sentido de que a CELG não é proprietária dos imóveis constantes no Processo Administrativo n. 51832302, destinados à servidão administrativa, de forma que não há como exigir o pagamento do IPTU (fl. 2.545).
+No mesmo sentido, mostrou-se despicienda a análise da tese relativa à prescrição dos lançamentos tributários anteriores a 17/3/2012, tendo em vista que, como exposto acima, o acórdão recorrido entendeu que a proprietária dos imóveis é a União, ente imune ao recolhimento de impostos; vejamos (fl. 2.545):
+Na verdade, caberia ao proprietário do imóvel recolher o IPTU, porém, como já dito, os serviços e instalações de energia elétrica pertencem à União, que, nos termos do artigo 150, VI, alínea a, da Constituição de 1988, está imune ao recolhimento de impostos.
+Assim, verifica-se que o acórdão recorrido está com fundamentação suficiente, inexistindo omissão ou contradição. A propósito, cito os seguintes precedentes:
+PROCESSUAL CIVIL. DESAPROPRIAÇÃO DIRETA. UTILIDADE PÚBLICA. CONCESSIONÁRIA DE VEÍCULOS. RECURSO ESPECIAL. OFENSA AO ARTIGO 1022, II, DO CPC/15. INOCORRÊNCIA. DEVOLUÇÃO TOTAL DA MATÉRIA EM REEXAME NECESSÁRIO. SÚMULA 325/STJ. NECESSIDADE DE ALUGAR IMÓVEL LINDEIRO PARA ALTERAR ACESSO A LOJA. INDENIZAÇÃO AFASTADA PELO TRIBUNAL DE ORIGEM. REVISÃO. SÚMULA 7/ STJ.
+1. Os arts. 489, § 1º, e 1.022 do Código de Processo Civil não foram ofendidos. A pretexto de apontar a existência de erros materiais, omissão e premissas erradas, a parte agravante quer modificar as conclusões adotadas pelo aresto vergastado a partir das informações detalhadas do laudo pericial.
+ ..
+5. Agravo Interno não provido.
+(AgInt no AREsp n. 1.974.188/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 17/10/2022, DJe de 4/11/2022.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. DANO MORAL. SUSPENSÃO DO FORNECIMENTO DO SERVIÇO DE ÁGUA . DEMORA INJUSTIFICADA NO RESTABELECIMENTO DO SERVIÇO. ARTS. 489, § 1º, E 1022, II, DO CPC. OMISSÃO NÃO CONFIGURADA. DEVER DE INDENIZAR. REQUISITOS PARA A RESPONSABILIZAÇÃO DA CONCESSIONÁRIA. ACÓRDÃO ANCORADO NO SUBSTRATO FÁTICO-PROBATÓRIO DOS AUTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. VALOR DA INDENIZAÇÃO. EXCESSO NÃO CARACTERIZADO.
+1. Cuida-se de ação de procedimento ordinário ajuizada em desfavor de SAMAR - Soluções Ambientais de Araçatuba, com o fim de obter indenização pelos danos morais que alega ter sofrido com suspensão do serviço de água na residência da autora.
+2. Verifica-se, inicialmente, não ter ocorrido ofensa aos arts. 489, § 1º, e 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos.
+ ..
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.118.594/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 22/11/2022, DJe de 25/11/2022 - grifo meu.)
+Em relação à controvérsia acerca dos honorários, assim dispõe o art. 85, §§ 3º a 5º, do CPC:
+Art. 85. A sentença condenará o vencido a pagar honorários ao advogado do vencedor.
+ ..
+§ 3º Nas causas em que a Fazenda Pública for parte, a fixação dos honorários observará os critérios estabelecidos nos incisos I a IV do § 2º e os seguintes percentuais:
+I - mínimo de dez e máximo de vinte por cento sobre o valor da condenação ou do proveito econômico obtido até 200 (duzentos) salários-mínimos;
+II - mínimo de oito e máximo de dez por cento sobre o valor da condenação ou do proveito econômico obtido acima de 200 (duzentos) salários-mínimos até 2.000 (dois mil) salários-mínimos;
+III - mínimo de cinco e máximo de oito por cento sobre o valor da condenação ou do proveito econômico obtido acima de 2.000 (dois mil) salários-mínimos até 20.000 (vinte mil) salários-mínimos;
+IV - mínimo de três e máximo de cinco por cento sobre o valor da condenação ou do proveito econômico obtido acima de 20.000 (vinte mil) salários-mínimos até 100.000 (cem mil) salários-mínimos;
+V - mínimo de um e máximo de três por cento sobre o valor da condenação ou do proveito econômico obtido acima de 100.000 (cem mil) salários-mínimos.
+§ 4º Em qualquer das hipóteses do § 3º :
+I - os percentuais previstos nos incisos I a V devem ser aplicados desde logo, quando for líquida a sentença;
+II - não sendo líquida a sentença, a definição do percentual, nos termos previstos nos incisos I a V, somente ocorrerá quando liquidado o julgado;
+III - não havendo condenação principal ou não sendo possível mensurar o proveito econômico obtido, a condenação em honorários dar-se-á sobre o valor atualizado da causa;
+IV - será considerado o salário-mínimo vigente quando prolatada sentença líquida ou o que estiver em vigor na data da decisão de liquidação.
+§ 5º Quando, conforme o caso, a condenação contra a Fazenda Pública ou o benefício econômico obtido pelo vencedor ou o valor da causa for superior ao valor previsto no inciso I do § 3º, a fixação do percentual de honorários deve observar a faixa inicial e, naquilo que a exceder, a faixa subsequente, e assim sucessivamente.
+Isso posto, nas causas em que a Fazenda Pública for parte, os honorários devem ser fixados conforme os percentuais previstos nos incisos do art. 85, §3º, do CPC. Além disso, quando o valor da causa for superior a 200 salários mínimos, deve ser observada a faixa inicial e, naquilo que a exceder, a faixa subsequente.
+No caso, o valor da causa ultrapassa os 200 salários mínimos previstos no inciso I do art. 85, § 3º, do CPC, pois foi fixada em R$ 2.111.409,08 (dois milhões, cento e onze mil, quatrocentos e nove reais e oito centavos), razão pela qual deve ser observado o disposto no art. 85, §§ 3º a 5º, do CPC, para incidir o percentual respectivo a cada faixa . Nesse sentido, cito precedente:
+PROCESSUAL CIVIL E FINANCEIRO. AGRAVO INTERNO. RECLAMAÇÃO JULGADA PROCEDENTE. DESTAQUE DE HONORÁRIOS ADVOCATÍCIOS DE PRECATÓRIO DO FUNDEF/FUNDEB. COISA JULGADA OPERADA NO RESP 1.653.204/PE. ARBITRAMENTO DE HONORÁRIOS SUCUMBENCIAIS NA RECLAMAÇÃO. RELAÇÃO PROCESSUAL ANGULARIZADA. CABIMENTO. FIXAÇÃO DE HONORÁRIOS DE SUCUMBÊNCIA COM BASE NO PROVEITO ECONÔMICO OBTIDO, CORRESPONDENTE AO MONTANTE DE HONORÁRIOS ADVOCATÍCIOS DESTACADOS NO PRECATÓRIO. FIXAÇÃO NOS PERCENTUAIS MÍNIMOS DA FAIXA CORRESPONDENTE. § § 3º E 5º DO ART. 85 DO CPC/2015. TEMA 1.076 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+4. A Corte Especial do STJ na assentada de 16/3/2022, em sede de recurso especial repetitivo (Tema 1.076), REsp nº 1.850.512/SP e outros, fixou as seguintes teses: 1) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação ou da causa, ou o proveito econômico da demanda, forem elevados. É obrigatória, nesses casos, a observância dos percentuais previstos nos parágrafos 2º ou 3º do artigo 85 do Código de Processo Civil (CPC) - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa. 2) Apenas se admite o arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo.
+5. Na hipótese em exame não houve condenação e o proveito econômico obtido pelo vencedor é representado pelo montante de honorários advocatícios contratuais destacados do precatório a ser liberado. Sendo assim, e levando em conta o proveito econômico obtido, devem ser os honorários sucumbenciais fixados com base no art. 85, § § 3º e 5º, do CPC/2015, em razão da presença da Fazenda Pública no feito, levando-se em consideração os critérios estabelecidos nos §§ 2º e 3º do mesmo dispositivo.
+6. Considerando a complexidade da causa, o trabalho realizado pelos causídicos e o tempo exigido para o serviço, correta a condenação da União ao pagamento de honorários advocatícios fixados no percentual mínimo do inciso correspondente do § 3º do art. 85 do CPC e, no que exceder, do inciso subsequente, e assim sucessivamente, consoante o § 5º, do mesmo dispositivo legal, com base no proveito econômico obtido, representado pelo montante de honorários advocatícios contratuais destacados do precatório a ser liberado.
+7. Agravo interno não provido.
+(AgInt nos EDcl na Rcl n. 41.149/PE, relator Ministro Mauro Campbell Marques, Primeira Seção, julgado em 30/8/2022, DJe de 5/9/2022, grifo meu.)
+Ante o exposto, conheço do agravo e dou provimento em parte ao recurso especial para fixar os honorários sucumbenciais no percentual mínimo do inciso correspondente do art. 85, § 3º, do CPC e, no que exceder, do inc iso subsequente, e assim sucessivamente, conforme disposto no §5º do mesmo artigo, com base no valor da causa.
+Publique-se. Intimem-se.
