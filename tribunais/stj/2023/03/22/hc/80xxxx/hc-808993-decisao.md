@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de GUSTAVO RAMOS FONTES em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal 1501006-47.2022.8.26.0567).
+O paciente foi condenado à pena de 4 anos e 8 meses de reclusão em regime fechado, além do pagamento de 11 dias-multa, por infração aos arts. 7º, IX, da Lei 8.137/1990 e 293, § 1º, III, a, do Código Penal.
+A apelação interposta pela defesa foi desprovida por unanimidade.
+Os impetrantes sustentam: a) "há mostras de ser suficiente a aplicação, por ora, de medidas cautelares diversas do cárcere para o resguardo da ordem pública, garantia do bom andamento da instrução e da aplicação da lei penal" (e-STJ fls. 9-10); b) "cabível e proporcional a aplicação das medidas alternativas previstas no artigo 319, incisos I e IV do CPP ao paciente" (e-STJ fl.10); c) "muito embora o fato imputado ao acusado seja grave não basta a gravidade do delito para fundamentar a sua prisão e além do mais de alguém que não atrapalhou a instrução penal e tem residência fixa" (e-STJ fl.11); e d) possibilidade de "concessão de liberdade provisória sem fiança, em virtude da ausência dos requisitos autorizadores da prisão preventiva, sem deixar de considerar o tempo de prisão provisória e ainda a pena potencialmente aplicada ao caso concreto discrepa da prisão preventiva, bem como diante da comprovada residência fixa, trabalho lícito" (e-STJ fls. 14-15).
+Requerem, liminar e definitivamente, deferimento da ordem para que seja revogada a prisão preventiva do acusado, com ou sem imposição de medidas cautelares diversas.
+É, no essencial, o relatório. Decido.
+A matéria de fundo - revogação da prisão preventiva e aplicação de medidas cautelares diversas - não foi apreciada no acórdão impugnado. Assim, esta Corte não pode conhecer do tema, sob pena de supressão de instância.
+Nesse sentido:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EM HABEAS CORPUS. REVOGAÇÃO E SUBSTITUIÇÃO DA PRISÃO PREVENTIVA POR CAUTELARES DIVERSAS. SUPRESSÃO DE INSTÂNCIA. OPERAÇÃO "ALLIGATOR". INTERCEPTAÇÃO TELEFÔNICA. REQUISITOS LEGAIS. DENÚNCIA ANÔNIMA CORROBORADA POR DILIGÊNCIAS PRÉVIAS. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não há que se falar em possibilidade de revogação da prisão processual ou aplicação de medidas cautelares diversas da prisão, uma vez que se verifica que a Corte de origem não tratou da matéria, ficando impedido este Superior Tribunal de fazê-lo, sob pena de indevida supressão de instância.
+2. A denúncia anônima, isoladamente, não é hábil para ensejar a persecução penal, mas pode servir para diligências iniciais que gerarão ou não investigações e produção de elementos probatórios. No caso, verifica-se que a investigação contou com a colheita de dados preliminares para averiguar a lisura dos fatos informados.
+3. Assente nesta Corte Superior que "Embora as investigações tenham se iniciado por meio de denúncia anônima, houve a realização de diligências prévias, sendo exauridos os meios para a produção de provas antes que fosse solicitada a quebra dos sigilos de dados telefônicos, segundo consignou o Tribunal de origem, o que afasta a ocorrência de nulidade" (REsp n. 1.875.282/PR, Sexta Turma, relatora Min. Laurita Vaz, DJe de 24/8/2021).
+4. Agravo regimental desprovido.
+(AgRg nos EDcl no RHC n. 162.976/RN, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 7/3/2023, DJe de 10/3/2023.)
+Ante o exposto, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
