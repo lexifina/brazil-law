@@ -1,0 +1,10 @@
+DECISÃO
+O embargante alega a ocorrência de omissão na decisão de fls. 578-580, em que indeferi liminarmente o habeas corpus para manter hígida sua prisão preventiva.
+Para tanto, assere a defesa a ocorrência de omissão, visto que "a matéria debatida no habeas corpus impetrado neste Eg. STJ (fls. 3/18 e-STJ) não se limitava à análise da ausência dos requisitos para a manutenção da prisão preventiva. Conforme se observa às fls. 3/18 e-STJ a Defesa demonstrou a ocorrência de excesso de prazo na custódia cautelar" (fl. 582, grifei).
+Salienta, ainda, que "houve omissão no decisum no que diz respeito à conversão da prisão preventiva em prisão domiciliar" (fl. 583).
+A esse respeito, urge consignar que, " s em a demonstração das hipóteses de cabimento, a rejeição dos embargos de declaração é medida que se impõe, notadamente quando o embargante pretende a rediscussão da questão controvertida para modificar o provimento anterior" (EDcl no AgRg nos EDcl no AREsp n. 1.205.005/SP, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 24/6/2021, destaquei).
+Primeiramente, no que tange ao suposto excesso de prazo, urge consignar que a Corte de origem se limitou a julgar o processo prejudicado, "vez que a afirmação de haver demora injustificada no envio do recurso de Apelação Criminal à instância revisora não subsiste mais por estarem os autos aportados neste Sodalício" (fl. 28).
+Dessa forma, percebe-se que a Corte de origem não adentrou o exame da questão acima. Portanto, diante da não análise do pedido, o seu exame pelo Superior Tribunal de Justiça incorreria em indevida supressão de instância, mormente na hipótese, em que a tese carece de apreciação pelo colegiado competente.
+Melhor sorte não socorre o pleito relativo à conversão da prisão preventiva em domiciliar, visto que, conforme destacado no acórdão em questão, " n o que tange às demais teses apresentadas, denota-se que sequer foram analisadas pelo juízo a quo, não se admitindo que o Tribunal atue em substituição deste sob pena de invasão de competência" (fl. 30).
+À vista do exposto, rejeito os embargos de declaração.
+Publique-se e intimem-se.
