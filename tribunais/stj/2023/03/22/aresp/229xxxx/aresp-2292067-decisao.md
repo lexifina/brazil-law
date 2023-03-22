@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de agravo interposto por SÃO FRANCISCO SISTEMAS DE SAÚDE SOCIEDADE EMPRESÁRIA LTDA. contra decisão que inadmitiu recurso especial (e-STJ, fls. 170-171) proposto para impugnar acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 123):
+AGRAVO DE INSTRUMENTO. Ação de obrigação de fazer. Plano de saúde. Tutela de urgência. Necessidade da realização de procedimento de osteoplastia para prognatismo e Osteotomia Le Fort I. Presença dos requisitos para concessão da liminar que já foi objeto de apreciação em duplo grau de jurisdição. Impossibilidade de rediscussãoda matéria. Majoração da multa imposta. Possibilidade, diante do reiterado descumprimento da obrigação imposta. R. Decisão mantida. RECURSO IMPROVIDO.
+Nas razões do recurso especial, a recorrente alegou, com fulcro na alínea a do permissivo constitucional, violação aos arts. 10, 12 e 16, VIII, da Lei 9.656/1998; 21, II, da RN nº 428/2017 da ANS; 186, 927, 412 e 413 do CC/2002; e 461, § 6º, do CPC/2015.
+Sustentou a ausência de obrigatoriedade de custeio de tratamento médico fora da rede credenciada. Afirmou inexistir situação de urgência/emergência apta justificar o acolhimento do pedido da recorrida.
+Defendeu que, caso seja ratificado o direito da agravada, deve ser reconhecida a possibilidade de coparticipação nas despesas realizadas.
+Apontou desproporcionalidade na multa aplicada e a necessidade de sua redução.
+Apreciada a admissibilidade do recurso excepcional, o Tribunal de origem inadmitiu a insurgência (e-STJ, fls. 170-171).
+Diante de tal fato, foi interposto agravo em recurso especial (e-STJ, fls. 174-180).
+Brevemente relatado, decido.
+De início, é importante ressaltar que o recurso foi interposto contra decisão publicada já na vigência do Novo Código de Processo Civil, sendo, desse modo, aplicável ao caso o Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual: "aos recursos interpostos com fundamento no CPC/2015 (relativo a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Consta dos autos que a recorrente apresenta recurso especial para impugnar acórdão prolatado no julgamento de agravo de instrumento em que foi confirmada a tutela de urgência para que a recorrente custeasse tratamento médico da recorrida fora da rede credenciada com aplicação de multa por possível descumprimento da ordem judicial.
+Nos termos da jurisprudência desta Corte Superior, é inviável, em regra, a interposição de recurso especial postulando o reexame do deferimento ou indeferimento de medida acautelatória ou antecipatória, pois esta possui natureza precária e provisória do juízo de mérito, cuja reversão é possível a qualquer momento pela instância a quo.
+Efetivamente, na espécie, configura-se a ausência do pressuposto constitucional relativo ao esgotamento das instâncias ordinárias, imprescindível ao trânsito da insurgência extraordinária, o que atrai a aplicação analógica da Súmula 735/STF: "Não cabe recurso extraordinário contra acórdão que defere medida liminar."
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE RESCISÃO CONTRATUAL C/C REINTEGRAÇÃO DE POSSE E PEDIDO DE ANTECIPAÇÃO DE TUTELA. MEDIDA CAUTELAR. DEFERIDA. BLOQUEIO DE CRÉDITO FINANCEIRO. GARANTIA DO JUÍZO. REEXAME DO MÉRITO DA DECISÃO QUE DEFERIU MEDIDA LIMINAR. RECURSO ESPECIAL. INCABÍVEL. SÚMULA N. 735 DO STF POR ANALOGIA. AGRAVO INTERNO DESPROVIDO.
+1. Em razão da natureza precária da decisão que defere ou indefere liminar ou daquela que julga a antecipação da tutela, revela-se inadequada a interposição de recurso especial que tenha por objetivo rediscutir a correção do mérito das referidas decisões, por não se tratar de pronunciamento definitivo do Tribunal estadual, atraindo, por analogia, a incidência da Súmula n. 735 do STF.
+2. O Superior Tribunal de Justiça, excepcionalmente, admite a interposição de recurso especial contra acórdão que decide sobre pedido de antecipação da tutela, para, tão somente, discutir eventual ofensa aos próprios dispositivos legais que disciplinam a matéria da tutela provisória descrita no art. 300 do CPC, o que não ocorre nos autos .
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.002.185/CE, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 12/12/2022, DJe de 15/12/2022.)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE FUNDAMENTAÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CONFIGURAÇÃO. AÇÃO DE RESCISÃO CONTRATUAL C/C PEDIDO DE REINTEGRAÇÃO DE POSSE. TUTELA PROVISÓRIA. REEXAME DE MATÉRIA FÁTICA. SÚMULAS 735/STF E 7/STJ. MANDATO. PRESENÇA NOS AUTOS. REVERSÃO DO NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL.
+1. O acórdão recorrido analisou todas as questões necessárias ao deslinde da controvérsia, não se configurando ausência de fundamentação na prestação jurisdicional.
+2. A jurisprudência deste STJ, à luz do disposto no enunciado da Súmula 735 do STF, entende que, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogada a reintegração de posse dos imóveis objeto da lide principal.
+3. A verificação do preenchimento ou não dos requisitos necessários para o deferimento da medida acautelatória, no caso em apreço, demandaria o reexame do conjunto fático-probatório, inviável em sede de recurso especial, a teor do enunciado 7 da Súmula do STJ.
+4. A efetiva presença da procuração nos autos, apontada a ausência por certidão, conduz ao não provimento do recurso, revertido o julgamento pelo não conhecimento.
+5. Agravo interno parcialmente provido.
+(AgInt no AREsp n. 2.105.524/MT, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 12/12/2022, DJe de 16/12/2022.)
+Nesse contexto, a precariedade da decisão liminar, de fato, não autoriza a interposição do recurso especial.
+Ante o exposto, conheço do agravo para não con hecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO DE DECISÃO QUE INDEFERE MEDIDA LIMINAR. IMPOSSIBILIDADE. SÚMULA 735/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
