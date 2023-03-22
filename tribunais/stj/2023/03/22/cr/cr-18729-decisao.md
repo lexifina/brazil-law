@@ -1,0 +1,5 @@
+DECISÃO
+Cuida-se de carta rogatória por meio da qual a Justiça portuguesa (Tribunal Judicial da Comarca de Lisboa Norte - Juízo Local Criminal de Loures - Juiz 4) solicita a citação de MURILO HENRIQUE DE ALMEIDA ASCENSIO para tomar ciência de despacho que recebe a acusação em seu desfavor por crime de tráfico de armas nos autos do processo n.º 19/17.2PJLRS, concede prazo de vinte dias para a contestação e designa a data de 1º de junho de 2023, às 13h45, para realização de audiência de julgamento perante a justiça rogante (fls. 5-14).
+Concedido o exequatur (fls. 77/78), foram os autos remetidos à Seção Judiciária do Estado de São Paulo para o cumprimento da medida. Os autos retornaram a esta Corte acompanhados de certidão positiva exarada por oficial de justiça, na qual consigna que o interessado foi notificado na data de 11/2/2023 (fl. 39).
+Diante do exposto, devidamente cumprida a carta rogatória, determino a devolução dos autos à Justiça rogante, com urgência, por intermédio da autoridade central competente, nos termos do art. 216-X, do RISTJ.
+Publique-se.
