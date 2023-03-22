@@ -1,0 +1,10 @@
+DECISÃO
+O presente writ, impetrado em benefício de Stalone John Cristo - denunciado como incurso nos crimes de furto qualificado e associação criminosa -, em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo (Habeas Corpus n. 2003881-48.2023.8.26.0000), não comporta processamento.
+Com efeito, busca a impetração a revogação da prisão cautelar imposta pelo Juízo de Direito da 5ª Vara Criminal da comarca de São José do Rio Preto/SP (Autos n. 1502755-72.2022.8.26.0576), ao argumento de que, assim como o corréu Jonathan Coste Cristo, em favor de quem a ordem foi concedida no Habeas Corpus n. 790.074/SP, o paciente não reiterou na prática criminosa, cabendo a revogação da segregação cautelar imposta. Aduz, ainda, ilegalidade do reconhecimento fotográfico realizado quando da lavratura do boletim de ocorrência.
+Ocorre que, da análise da inicial acusatória (fls. 362/371 do autos do Habeas Corpus n. 790.074/SP), observa-se que, ao contrário do corréu, o paciente participou ao menos de três fatos delituosos, ocorridos em 15/12/2021, 10/2/2022 e 15/2/2022, a denotar a reiteração delitiva e a existência do fundamento do decreto de prisão, consistente na garantia da ordem pública. Além disso, consta dos autos notícia de que o réu estaria foragido (fl. 158), a denotar a necessidade da custódia para a garantia da instrução criminal e aplicação da lei penal.
+Sobre a ilegalidade do reconhecimento fotográfico, não há como acolher, por ora, a pretensão, uma vez que, segundo consta, as vítimas, em mais duas vezes, lograram individualizar os acusados.
+Em face do exposto, com fulc ro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS . FURTO QUALIFICADO E ASSOCIAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. REITERAÇÃO NA PRÁTICA DO MESMO CRIME. FUGA DO DISTRITO DA CULPA. NECESSIDADE DA CUSTÓDIA PARA A GARANTIA DA ORDEM PÚBLICA. RECONHECIMENTO FOTOGRÁFICO. SUPERAÇÃO. CAPACIDADE DE INDIVIDUALIZAÇÃO DOS ACUSADOS PELAS VÍTIMAS. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
