@@ -1,0 +1,15 @@
+DECISÃO
+Vistos etc.
+Trata-se de agravo de decisão que deixou de admitir recurso especial interposto por PRIMUS ENGENHARIA LTDA, sob o fundamento de que (a) quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula 284/STF, (b) as alegações recursais não fazem referência às conclusões do acórdão, ou seja, não há contraposição aos fundamentos exarados na decisão, o que representa afronta ao princípio da dialeticidade recursal, (c) não houve impugnação específica a fundamento capaz de manter a decisão colegiada, acarretando a inadmissibilidade da insurgência, nos termos da Súmula 283 do STF, (d) o dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas, e (e) não foi anexada a cópia dos acórdãos supostamente divergentes, tampouco citou o repositório oficial em que foram publicados, o que inviabiliza a admissão desta insurgência.
+No agravo, a agravante sustenta que (a) "no que tange à ausência de particularização do dispositivo de lei sobre o qual recairia a divergência, é desnecessária, pois bastaria que a matéria correspondente tenha sido enfrentada pelo acórdão recorrido", (b) a matéria objeto do especial foi prequestionada em embargos de declaração, (c)"impugnação houve, já que houve ataque à decisão, mesmo que de forma objetiva", (d) "a particularização do dispositivo de lei sobre o qual recairia a divergência é desnecessária, pois o dissídio jurisprudencial é notório", (e) "tratando-se de "dissídio jurisprudencial notório, mitigam-se os requisitos de admissibilidade para o conhecimento do recurso especial fundado na alínea "c" do permissivo constitucional" e (f) o recurso especial é fundado somente na alínea "a" do dispositivo constitucional.
+É o relatório.
+Passo a decidir.
+Admitindo-se que o recurso especial foi interposto apenas com base na alínea "a" do permissivo constitucional, a despeito do que consta da peça de interposição -, ainda assim o agravo não pode ser conhecido.
+Em primeiro lugar, as razões do agravo (itens a, b e d) encontram-se completamente dissociadas dos fundamentos da decisão agravada.
+Em segundo lugar, não houve impugnação a todos os fundamentos da decisão agravada, sobretudo os itens (a e b).
+A falta de ataque específico à decisão agravada acarreta o não conhecimento do presente recurso, a teor do que dispõe o art. 932, III, do CPC.
+Desse modo, não é possível conhecer do apelo quanto à parte eventualmente impugnada, consoante decidido pela Corte Especial nos autos dos EAREsp 746.775/PR (Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/09/2018, DJe 30/11/2018).
+Diante do exposto, não conheço do agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários advocatícios devidos ao(s) advogado(s) da parte recorrida de R$ 1.000,00 para R$ 1.500,00.
+Advirto que a apresentação de incidentes protelatórios poderá dar azo à aplicação de multa.
+Intime-se.
