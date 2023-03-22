@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se  de  recurso  especial  manejado  por  O.V.D.  IMPORTADORA  E  DISTRIBUIDORA  LTDA.  com  fundamento  no  art.  105,  III,  a  da  CF,  contra  acórdão  proferido  pelo  Tribunal  Regional  da  4ª  Região  ,  assim  ementado  (fl.  2.190  ):
+TRIBUTÁRIO.  FATOR  ACIDENTÁRIO  DE  PREVENÇÃO  (FAP).  ACIDENTE  DE  TR AJETO.  EXCLUSÃO  DO  CÁLCULO  DO  FAP.  OCORRÊNCIAS  INFORMADAS  POR  CAT  QUE  NÃO  SE  CONFIGURAM  EM  ACIDENTES  DE  TRABALHO.  OCORRÊNCIAS,  INFORMADAS  OU  NÃO  POR  CAT,  QUE  NÃO  GERARAM  BENEFÍCIO  ACIDENTÁRIO.  EMPRESAS  COM  CNPJ  BAIXADO,  SUSPENSO  OU  INATIVO.  INCLUSÃO  NO  CÁLCULO  DO  FAP.
+1.  Não  devem  ser  incluídos  no  cálculo  do  FAP  os  acidentes  de  trajeto.  Sentença  mantida.
+2.  Sentença  mantida,  também,  quanto  a  aspectos  concretos  da  parte  autora:  1)  o  recálculo  do  FAP  com  a  consideração  da  Massa  Salarial  de  R$97.838.414,78;  2)  o  recálculo  do  FAP  com  o  valor  médio  de  vínculo  empregatício  de  1.523,5417.
+3.  Devem  ser  considerados  no  cálculo  do  FAP  (a)  as  ocorrências  informadas  por  CAT  que  não  se  configuraram  em  acidentes  de  trabalho,  não  gerando  qualquer  afastamento  ou  benefício),  (b)  as  ocorrências,  informadas  ou  não  por  CAT,  que  não  geraram  benefício  acidentário)  e  (c)  as  empresas  com  CNPJ  baixado,  suspenso  ou  inativo,  bem  como  daquelas  com  CNAE  diverso  do  pertencente  à  autora.  Sentença  reformada.
+  4.  Apelo  da  União  e  remessa  oficial  parcialmente  providas.
+Opostos  embargos  declaratórios por ambas as partes litigantes (fls. 2.222/2.231 e 2.233/2.240),  foram  rejeitados  (fls.  2.281/2.294).
+A  parte  recorrente  defende que sejam "excluídos do cálculo do FAP 2014 da empresa recorrente, as empresas inativas, suspensas ou fechadas, além daquelas pertencentes a outra atividade econômica (CNAE), tal qual comprovado em primeira instância e cuja relação segue no anexo I do presente recurso" (fl. 2.334), bem como "os acidentes que não resultaram em benefícios previdenciários, informados em CATs que não resultaram em afastamentos previdenciários, restaurando a sentença de primeiro grau e em consonância, com a Lei do FAP (Lei 10.666/2003) e , inclusive, com o novo entendimento da própria Previdência, que passou a não mais incluir tais ocorrências (Resolução 1.329/2017)" (fl. 2.334).
+
+Contrarrazões  ofertadas  às  fls.  2.367/2.378.
+É  O  RELATÓRIO.  SEGUE  A  FUNDAMENTAÇÃO.
+Verifica-se que, na data de hoje, considerando o recurso especial interposto pela Fazenda Nacional no bojo dos presentes autos, proferi decisão em que, reconhecendo ofendidos os arts. 489 e 1.022 do C PC, determinei o retorno dos autos à instância ordinária, para que a ilustre Corte de origem proceda a novo julgamento dos aludidos embargos de declaração manejados pela parte ex adversa.
+Nesse contexto, tendo em vista a impossibilidade de cisão do julgamento, bem como a própria devolução do feito à origem, é o caso de se ter por prejudicado o exame da presente irresignação no momento.
+ANTE  O  EXPOSTO,  julgo prejudicado o exame  do  recurso  especial de O.V.D.  IMPORTADORA  E  DISTRIBUIDORA  LTDA.  no presente momento processual.
+Publique-se.
