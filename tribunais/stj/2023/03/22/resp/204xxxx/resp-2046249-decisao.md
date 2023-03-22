@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de recurso especial interposto por FABIANO TACQUES (FABIANO), com fundamento no art. 105, III, alíneas a e c, da CF, contra acórdão proferido pelo TJRS, assim ementado:
+APELAÇÃO CÍVEL. SEGUROS. PLANO DE SAÚDE REGULAMENTADO. COBERTURA DE MEDICAMENTO PARA USO DOMICILIAR. RECUSA DA OPERADORA.
+1. Tratando-se de contrato firmado na vigência da Lei nº 9.656/98, sujeita-se aos ditames do Código de Defesa do Consumidor, por se tratar de típica relação de consumo (verbete nº 608 da súmula de jurisprudência do Superior Tribunal de Justiça).
+2. Segundo prevê a Lei nº 9.656/98, devem ser observadas as coberturas definidas na Resolução Normativa nº 428/2017, da Agência Nacional de Saúde Suplementar (ANS), que apresenta as Diretrizes de Utilização para Cobertura de Procedimentos na Saúde Suplementar.
+3. Embora atualmente não haja uma pacificação na jurisprudência da Corte Superior, após estudos de casos, alinho-me ao entendimento sufragado no REsp1.733.013/PR, considerando que o rol da autarquia regulamentadora não visa a privilegiar nenhuma das partes, mas apenas harmonizar a relação contratual com substrato em diretrizes técnicas relevantes. Revisão do entendimento da Relatora.
+4. Lícito que a cobertura contratual excetue o fornecimento de medicamento para tratamento domiciliar - administração em ambiente externo ao da unidade de saúde -,salvo os antineoplásicos, destinados a home care ou incluídos no rol da ANS para esse fim, quando expressamente solicitados pelo médico assistente. DERAM PROVIMENTO À APELAÇÃO. (e-STJ, fl. 578)
+Os embargos de declaração opostos por FABIANO foram rejeitados.
+Nas razões do presente recurso, FABIANO alegou a violação aos arts. 47 e 51 do CDC, ao sustentar que é devida a cobertura do medicamento requerido, ainda que não conste no rol da ANS e seja de uso domiciliar.
+É o relatório.
+Decido.
+O recurso não merece prosperar.
+Nas razões do presente recurso, FABIANO alegou a violação aos arts. 47 e 51 do CDC e 1.022 do NCPC, ao sustentar que é devida a cobertura do medicamento requerido, ainda que não conste no rol da ANS e seja de uso domiciliar.
+A Terceira Turma, em recentíssimo julgamento, firmou o entendimento no sentido de ser lícita a exclusão, na Saúde Suplementar, do fornecimento de medicamentos para tratamento domiciliar, isto é, aqueles prescritos pelo médico assistente para administração em ambiente externo ao de unidade de saúde, salvo os antineoplásicos orais (e correlacionados), a medicação assistida (home care) e os incluídos no Rol da ANS para esse fim. Interpretação dos arts. 10, VI, da Lei nº 9.656/1998, e 19, § 1º, VI, da RN nº 338/2013 da ANS (atual art. 17, parágrafo único, VI, da RN nº 465/2021). O referido julgado foi assim ementado:
+RECURSO ESPECIAL. CIVIL. PLANO DE SAÚDE. MEDICAMENTO DE USO DOMICILIAR. CUSTEIO. OPERADORA. NÃO OBRIGATORIEDADE. ANTINEOPLÁSICO ORAL. NÃO CARACTERIZAÇÃO. LIMITAÇÃO LÍCITA. CONTRATO ACESSÓRIO DE MEDICAÇÃO DE USO DOMICILIAR. POSSIBILIDADE. ASSISTÊNCIA FARMACÊUTICA. SUS. POLÍTICA PÚBLICA. REMÉDIOS DE ALTO CUSTO. RELAÇÃO NACIONAL DE MEDICAMENTOS ESSENCIAIS (RENAME).
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Cinge-se a controvérsia a definir se medicamento de uso domiciliar (no caso, Viekira Pak, utilizado no tratamento de Hepatite-C), e não enquadrado como antineoplásico oral, é de cobertura obrigatória pelo plano de saúde.
+3. É lícita a exclusão, na Saúde Suplementar, do fornecimento de medicamentos para tratamento domiciliar, isto é, aqueles prescritos pelo médico assistente para administração em ambiente externo ao de unidade de saúde, salvo os antineoplásicos orais (e correlacionados), a medicação assistida (home care) e os incluídos no Rol da ANS para esse fim. Interpretação dos arts. 10, VI, da Lei nº 9.656/1998 e 19, § 1º, VI, da RN nº 338/2013 da ANS (atual art.
+17, parágrafo único, VI, da RN nº 465/2021).
+4. Os medicamentos receitados por médicos para uso doméstico e adquiridos comumente em farmácias não estão, em regra, cobertos pelos planos de saúde.
+5. As normas do CDC aplicam-se apenas subsidiariamente nos planos de saúde, conforme previsão do art. 35-G da Lei nº 9.656/1998.
+Ademais, em casos de incompatibilidade de normas, pelos critérios da especialidade e da cronologia, há evidente prevalência da lei especial nova.
+6. A previsão legal do art. 10, VI, da Lei nº 9.656/1998 não impede a oferta de medicação de uso domiciliar pelas operadoras de planos de assistência à saúde (i) por liberalidade; (ii) por meio de previsão no contrato principal do próprio plano de saúde ou (iii) mediante contratação acessória de caráter facultativo, conforme regulamentação da RN nº 310/2012 da ANS.
+7. No âmbito do Sistema Único de Saúde (SUS), a assistência farmacêutica está fortemente em atividade, existindo a Política Nacional de Medicamentos (PNM), garantindo o acesso de fármacos à população, inclusive os de alto custo, por meio de instrumentos como a Relação Nacional de Medicamentos Essenciais (RENAME).
+8. Recurso especial provido.
+(REsp 1.692.938/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 4/5/2021)
+No mesmo sentido, confira-se o precedente da Quarta Turma:
+RECURSO ESPECIAL. PLANO DE SAÚDE. TRATAMENTO DE POLINEUROPATIA AMILOIDÓTICA FAMILIAR. MEDICAMENTO DE USO DOMICILIAR. NÃO ENQUADRAMENTO COMO ANTINEOPLÁSICO, COMO MEDICAÇÃO ASSISTIDA (HOME CARE) NEM ESTÁ ENTRE OS INCLUÍDOS NO ROL DA ANS PARA ESSE FIM. COBERTURA LEGAL OBRIGATÓRIA. INEXISTÊNCIA. PRECEDENTE DA TERCEIRA TURMA. PRESERVAÇÃO DA TRIPARTIÇÃO DE PODERES. IMPRESCINDIBILIDADE.
+1. "É lícita a exclusão, na Saúde Suplementar, do fornecimento de medicamentos para tratamento domiciliar, isto é, aqueles prescritos pelo médico assistente para administração em ambiente externo ao de unidade de saúde, salvo os antineoplásicos orais (e correlacionados), a medicação assistida (home care) e os incluídos no rol da ANS para esse fim. Interpretação dos arts. 10, VI, da Lei nº 9.656/1998 e 19, § 1º, VI, da RN nº 338/2013 da ANS (atual art.
+17, parágrafo único, VI, da RN nº 465/2021)" (REsp n. 1.692.938/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 27/4/2021, DJe 4/5/2021).
+2. Domiciliar, de acordo com a lei, refere-se a ambiente que, necessariamente, contrapõe-se a ambulatorial e a hospitalar, com o que se exclui da cobertura legal o fornecimento de medicamentos que, mesmo prescritos pelos profissionais da saúde e ministrados sob sua recomendação e responsabilidade, devam ser utilizados fora de ambulatório ou hospital.
+3. O medicamento Tafamidis (Vyndaqel ), vindicado na demanda, embora esteja incorporado na lista de medicamentos do SUS desde antes do ajuizamento da ação, não se enquadra nos antineoplásicos orais (e correlacionados) ou como medicação assistida (home care), nem está entre os incluídos no rol da ANS para esse fim.
+4. Como ponderado em recente recurso repetitivo julgado pela Segunda Seção, REsp n. 1.755.866/SP, relator Ministro Marco Buzzi, a universalização da cobertura não pode ser imposta de modo completo e sem limites ao setor privado, porquanto, nos termos dos arts. 199 da Constituição Federal e 4º, § 1º, da Lei n. 8.080/1990, a assistência à saúde de iniciativa privada é exercida em caráter complementar, sendo certo que a previsão dos riscos cobertos, assim como a exclusão de outros, é inerente aos contratos a envolver a saúde suplementar. Isso obedece à lógica atuarial, pois, quanto mais riscos forem cobertos, mais elevada será a contraprestação pecuniária paga pela parte aderente.
+5. A saúde suplementar cumpre propósitos traçados em regras legais e infralegais. Assim sendo, não se limita ao tratamento de enfermidades, mas também atua na relevante prevenção, não estando o Judiciário legitimado e aparelhado para interferir, em violação da tripartição de Poderes, nas políticas públicas.
+6. Recurso especial provido para restabelecimento do decidido na sentença.
+(REsp 1.883.654/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, DJe 2/8/2021)
+No caso dos autos, a autora pretende a condenação da OPERADORA ao custeio de medicamento de uso domiciliar, cuja exclusão de cobertura o TJSP reputou lícita.
+A propósito, transcreve-se:
+No caso, recordo ter sido prescrito, pelo médico assistente (evento 3, doc. 1, p. 47),tratamento com o fármaco denominado Rituximabe (Mabthera), cuja dispensação não foi autorizada pela operadora porque se trata de medicamento que não possui cobertura pelo Anexo II do Rol da ANS, conforme Resolução Normativa nº 428/17 (evento 1, doc. 7).
+(..)
+Logo, colhe-se ser lícito que a cobertura contratual excetue o fornecimento de medicamento para tratamento domiciliar - administração em ambiente externo ao da unidade de saúde -,salvo os antineoplásicos, destinados a home care ou incluídos no rol da ANS para esse fim, quando expressamente solicitados pelo médico assistente.
+(..)
+Desse modo, tratando-se de medicação destinada a tratamento domiciliar e não incluída nas exceções legais, deve ser afastado o dever de cobertura pelo plano de saúde.
+Assim, considerando que os medicamentos requeridos pela autora não se enquadram como antineoplásicos orais (e correlacionados), a medicação assistida (home care) e os incluídos no Rol da ANS para esse fim, é de rigor o indeferimento do pedido de cobertura formulado pela autora.
+Nessas condições, NEGO PROVIMENTO ao recurso especial de FABIANO.
+MAJORO em 3% o valor dos honorários advocatícios anteriormente fixados em favor da recorrida, limitados a 20%, nos term os do art. 85, § 11, do NCPC.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE OBRIGAÇ ÃO DE FAZER. PLANO DE SAÚDE. MEDICAMENTO DE USO DOMICILIAR. DEVER DE COBERTURA AFASTADO. INCIDÊNCIA DA SÚMULA Nº 568 DO STJ. RECURSO ESPECIAL IMPROVIDO.
