@@ -1,0 +1,4 @@
+DECISÃO
+Tendo em conta que, mesmo intimados para tanto, o Reclamante e o causídico que o representa não trouxeram aos autos, no prazo previamente estipulado de 15 (quinze) dias corridos, o mandato que autorizaria o advogado do Reclamante a representá-lo em juízo, conforme certidão vista à e-STJ fl. 32, indefiro a petição inicial da presente reclamação, com amparo no art. 321, parágrafo único, c/c art. 485, IV, do CPC/2015 e com o art. 34, inciso XVIII, alínea "a", do Regimento Interno do Superior Tribunal de Justiça, na redação que lhe foi dada pela Emenda Regimental n. 22, de 16/ 3/2016.
+Cientifiquem-se o Juízo de Direito da Vara de Execuções Penais de Vila Velha - regime semiaberto (Execução Penal n. 0028193-57.2015.8.08.0048), o Ministério Público estadual e o Ministério Público Federal.
+Intimem-se.
