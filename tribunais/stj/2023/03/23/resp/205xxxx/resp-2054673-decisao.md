@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de Recurso Especial interposto, com fulcro no art. 105, III, "a", da Constituição da República, contra acórdão assim ementado (fl. 1.035, e-STJ):
+TRIBUTÁRIO. CRÉDITOS TRIBUTÁRIOS. COMPENSAÇÃO EM DCTF. LEI 10.833/03. LANÇAMENTO DE OFÍCIO. DECADÊNCIA. SUCUMBÊNCIA.
+1. Nos casos de tributos sujeitos ao lançamento por homologação, o e. Superior Tribunal de Justiça firmou entendimento de que a constituição definitiva do crédito tributário ocorre com a entrega, pelo contribuinte, da "Declaração de Contribuições e Tributos Federais - DCTF, de Guia de Informação e Apuração do ICMS (GIA), ou de outra declaração dessa natureza" (REsp 1.120.295/SP) reconhecendo o débito fiscal, dispensada qualquer outra providência por parte do Fisco.
+2. O Colendo Superior Tribunal de Justiça pacificou o entendimento de que, em relação a débitos cuja compensação se mostrasse indevida, informados em DCTFs apresentadas até 30.10.2003, sua constituição definitiva ocorreria somente quando do lançamento de ofício, devidamente notificado ao contribuinte; o lançamento tornou-se desnecessário somente a partir de 31.10.2003, com os efeitos da MP 135/2003, depois convertida na Lei 10.833/03, introduzido o §6º no art. 74 da Lei 9.430/96.
+3. A decadência não se sujeita às causas suspensivas da exigibilidade; ainda que eventual concessão de liminar impeça o Fisco de inscrever e executar a dívida, nos termos do art. 151, IV e V, do CTN, não há óbice para constituir o crédito por meio do lançamento, evitando sua decadência.
+4. As DCTFs entregues até 30.10.2003 não se prestavam a constituir os créditos tributários informados pelo contribuinte como objeto de compensação, fazendo-se necessário o lançamento de ofício pela autoridade fiscal, o que não ocorreu no caso em tela. Não se sujeitando a decadência às causas suspensivas da exigibilidade, o prazo para o lançamento do PIS 06/1995 teve início em 01.01.1996 e término em 31.12.2000, em nada afetando o desenrolar das demandas acima mencionadas. Assim, já configurada a decadência quando da "reativação" do crédito tributário de PIS 06/1995 (fls. 167) por meio do PAF 19679.015630/2004-76, iniciado em 16.11.2004 (fls. 164 a 531).
+5. Invertida a sucumbência, cabe afastar a condenação da apelante em honorários advocatícios e condenada a apelada a esse mesmo título, mantido o montante de 1 % do valor da causa, devidamente atualizado.
+6. Apelo provido.
+Os Embargos de Declaração foram rejeitados.
+A recorrente afirma que houve ofensa, em preliminar, aos arts. 489, § 1º, IV, e 1.022, I, do CPC/2015; no mérito, aos arts. 150 e 173, II, do CTN. Sustenta (fls. 1.097-1.099, e-STJ):
+(..)
+Ocorre que, ao contrário do esposado na decisão impugnada, enquanto perdurar a suspensão da exigibilidade do crédito tributário, por força dos depósitos, ou mesmo fiança bancária, que estão a garantir a eficácia do provimento judicial e garantir a segurança jurídica para ambas as partes, está impossibilitada, por expressa determinação legal, de inscrever o débito em dívida ativa e ajuizar o executivo fiscal.
+Há, aqui, uma premissa equivocada no raciocínio da decisão colegiada, qual seja, a da necessidade de o Fisco efetuar o lançamento.
+(..)
+Termos situações fáticas de injustiça e até de desprestígio da Tutela Jurisdicional, em virtude de questões suscitadas em autos judiciais em que o contribuinte ao invés de recolher os tributos devidos ao erário público, deposita os mesmos em juízo, para após o período de decadência de constituição do crédito tributário pela Fazenda Pública, pedir o levantamento dos mesmos e ter sacramentada a sua sonegação pela via do Poder Judiciário. É o que se verifica nos autos.
+(..)
+Não ocorreu a decadência, uma vez que o depósito judicial, quando da propositura de ação para discussão do débito, tem por consequência sua constituição definitiva, seguindo-se a suspensão da exigibilidade enquanto perdura a contenda, consoante disposto pelo art. 173, II, do CTN:
+(..)
+Destarte, resta claro que o v. acórdão recorrido contrariou frontalmente os enunciados normativos acima referenciados, justificando-se, pois, a admissão e o provimento do presente Recurso Especial com fulcro no art. 105, III, "a", da Lei Suprema.
+Contrarrazões às fls. 1.103-1.116, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 9 de março de 2023.
+Preliminarmente, constato que não se configura a violação aos arts. 489 e 1.022 do Código de Processo Civil. O colegiado originário examinou e decidiu, fundamentadamente, todas as questões postas ao seu crivo. Julgou integralmente a lide e solucionou a controvérsia. Portanto, não cabe falar em negativa de prestação jurisdicional.
+Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+Na hipótese dos autos, a parte insurgente busca modificar o julgado ao asseverar que a Corte regional não se pronunciou sobre o tema ventilado nos aclaratórios. Todavia, verifica-se que o acórdão controvertido está bem embasado, sem quaisquer dos vícios previstos nos aludidos artigos do CPC.
+Vale destacar que o simples inconformismo da parte não tem a propriedade de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento do decisum, mas não à sua reforma, só muito excepcionalmente admitida.
+No que tange à apontada contrariedade aos arts. 150 e 173, II, do CTN, a irresignação também não merece prosperar, uma vez que não foi emitido juízo de valor sobre esses dispositivos legais.
+O Superior Tribunal de Justiça entende ser inviável o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados na origem, a despeito da oposição de Embargos Declaratórios, haja vista a ausência de prequestionamento. Esse requisito pressupõe prévio debate da questão pelo Tribunal a quo à luz da legislação federal indicada, com emissão de juízo de valor acerca dos dispositivos legais apontados como infringidos. No caso, malgrado os aclaratórios opostos, a instância ordinária não analisou, sequer implicitamente, a aplicação das sobreditas normas, o que faz incidir na espécie a Súmula 211/STJ.
+Esclareço que não configura contradição afirmar a falta de prequestionamento e afastar alegação de descumprimento dos art. 489 e 1.022 do Código de Processo Civil - seja porque a matéria não foi invocada nas razões ou contrarrazões da Apelação, e portanto não há omissão a ser sanada, seja porque é perfeitamente possível que a decisão se encontre devidamente fundamentada sem que, no entanto, tenha sido decidida a causa à luz dos preceitos jurídicos desejados pelo postulante, pois a tal não está obrigado o julgador. Confira-se:
+PROCESSUAL CIVIL. ADMINISTRATIVO. CONCESSÃO ESPECIAL DE USO PARA FINS DE MORADIA. AUSÊNCIA DE VIOLAÇÃO DO ART. 535 DO CPC/73. AUSÊNCIA DE PREQUESTIONAMENTO DO DISPOSITIVO DE LEI INVOCADO. NÃO VERIFICAÇÃO POR ESTA CORTE DE ERRO, OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE NO ACÓRDÃO VERGASTADO. INCIDÊNCIA DA SÚMULA 211/STJ. OPOSIÇÃO AO EXERCÍCIO DA POSSE CONSTATADA PELO TRIBUNAL DE ORIGEM. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ.
+(..)
+2. Inexiste violação do art. 535 do CPC/73 quando a prestação jurisdicional é dada na medida da pretensão deduzida.
+3. Quando a questão levantada não foi discutida pelo Tribunal de Origem e não foi verificada por esta Corte existência de erro, omissão, contradição ou obscuridade não cabe prequestionamento da matéria, nos termos do art. 1.025 do CPC, incidindo na espécie o enunciado da Súmula 211/STJ.
+4. Não configura contradição afirmar a falta de prequestionamento e afastar indicação de afronta ao art. 535 do Código de Processo Civil de 1973, uma vez que é perfeitamente possível o julgado se encontrar devidamente fundamentado sem, no entanto, ter decidido a causa à luz dos preceitos jurídicos desejados pela postulante, pois a tal não está obrigado.
+(..)
+Agravo interno improvido.
+(AgInt no AREsp 844.804/MG, Rel. Ministro Humberto Martins, Segunda Turma, DJe 15/4/2016.)
+Ante o exposto, conheço parcialmente do Recurso Especial, apenas quanto à suposta afronta aos arts. 489 e 1.022 do CPC, e, nessa fração, nego-lhe provimento.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC /2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
