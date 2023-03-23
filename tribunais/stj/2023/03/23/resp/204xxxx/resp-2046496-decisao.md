@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto por MINISTÉRIO PÚBLICO DO ESTADO DO RIO DE JANEIRO, com fundamento na alínea "a" do permissivo constitucional, no qual se insurge contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim ementado (e-STJ, fls. 635-645):
+"EMBARGOS INFRINGENTES E DE NULIDADE. APELAÇÃO DE AMBOS OSRÉUS. CONCURSO MATERIAL. FURTO QUALIFICADO. RECEPTAÇÃO. MODALIDADE CONDUZIR. CRIME DE MÃO PRÓPRIA. IMPOSSIBILIDADE DE EXECUÇÃO DE FORMA COMPARTILHADA. CONDUTOR NÃO IDENTIFICADO. ABSOLVIÇÃO IMPOSITIVA".
+Em suas razões recursais, a parte recorrente aponta violação dos arts. 29 e 180 do CP. Aduz para tanto, em síntese, que "não há nada que impeça a receptação de forma compartilhada, ou seja, não há razão lógica ou jurídica a tornar inviável o reconhecimento de que dois ou mais indivíduos conduzam, em conjunto, coisa que sabem ser produto de crime" (e-STJ, fl. 677). Seria necessária, por isso, a condenação dos acusados.
+Com contrarrazões (e-STJ, fls. 686-690), o recurso especial foi admitido na origem (e-STJ, fls. 692-694).
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo não conhecimento do recurso (e-STJ, fls. 708-712).
+É o relatório.
+Decido.
+Como bem destaca o parecer ministerial, o conhecimento do recurso especial esbarra na Súmula 7/STJ.
+Consoante o Tribunal local, não foi efetivamente comprovada a participação dos réus no delito de receptação. É o que se colhe do aresto recorrido (e-STJ, fls. 641-643):
+"A materialidade delitiva do crime de receptação restou efetivamente comprovada, não suscitando questionamento recursal. A autoria, todavia, não é sustentada pelo acervo probatório, sendo insuficiente para concluir, à margem de qualquer dúvida, a ocorrência dos fatos como descrito na denúncia.
+Com efeito, a denúncia afirma, no terceiro parágrafo, que ".. os denunciados .. conduziam o veículo GM Meriva .. que sabia ser produto de crime de furto.." . No parágrafo seguinte, expõe que ".. o denunciado Marcus efetuou o crime de furto no interior da Drogaria Pacheco".. "enquanto o denunciado Rômulo ficava com o carro próximo ao local para dar fuga..", ou seja, havia divisão de tarefas que consistia em um deles executar o furto, enquanto o outro ficava "na condução do carro", "do lado de fora do carro", "no banco do carona guardando o carro" etc. para dar fuga.
+ ..
+Ademais, verifica-se que a acusação não logrou êxito em comprovar a alegada divisão de tarefas - "um furtava, enquanto o outro conduzia o veículo" -, descrita na denúncia, tampouco há como fazer prevalecer a tese de coautoria ou participação no crime de receptação, à mingua de evidências de liame subjetivo entre os participantes da empreitada criminosa".
+Ou seja: não está em jogo aqui, como faz parecer o recurso especial, uma discussão teórica e em tese sobre o cabimento do concurso de pessoas no crime de receptação. Ao revés, a Corte de origem entendeu que não há sequer suporte probatório mínimo para se travar essa discussão, por falta de provas do liame subjetivo - elemento essencial do concurso de pessoas.
+Dessarte, somente com o aprofundamento nas provas dos autos é que se poderia chegar a conclusão diversa. Afinal, não há no acórdão recorrido nenhum elemento fático que permita a este STJ atender ao pedido ministerial. Tampouco foram opostos embargos de declaração pelo Ministério Público, a fim de provocar a Corte de origem a se manifestar sobre os fatos - e assim incorporá-los expressamente ao aresto - que, na ótica do Parquet, justificam a condenação dos acusados.
+Na dinâmica recursal pátria, compete às instâncias ordinárias a tarefa de, soberanamente, delimitar o quadro fático-probatório da causa, imutável em sede de recurso especial. Uma vez que o acórdão recorrido não trouxe nenhum fato capaz de subsidiar a análise do pedido feito no recurso especial, e considerando também a inércia do recorrente em suscitar tal aspecto em aclaratórios, simplesmente não há como se conhecer do pleito. Nesse sentido:
+"PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. HOMICÍDIO. PRONÚNCIA. PLEITO DE INCIDÊNCIA DE QUALIFICADORAS. SÚMULA 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A exclusão de qualificadora somente é possível, na fase da pronúncia, se manifestamente improcedente, sob pena de usurpação da competência dos jurados.
+2. O Tribunal local entendeu ausentes indícios mínimos da ocorrência do motivo fútil e do meio que dificultou a defesa da vítima, de modo que a pretensão de incluir as qualificadoras do art. 121, § 2º, II e IV, do CP na pronúncia esbarra na Súmula 7/STJ.
+3. Agravo regimental desprovido".
+(AgRg no REsp 1936616/PR, de minha relatoria, QUINTA TURMA, julgado em 14/09/2021, DJe 20/09/2021)
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. PRONÚNCIA. NULIDADE. NÃO OCORRÊNCIA. FUNDAMENTAÇÃO IDÔNEA. EXISTÊNCIA DE PROVAS DA MATERIALIDADE E INDÍCIOS DE AUTORIA. QUALIFICADORAS. PROVA TESTEMUNHAL. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. EXCESSO DE LINGUAGEM. NÃO OCORRÊNCIA. AGRAVO IMPROVIDO.
+ ..
+3. Esta Corte Superior tem admitido a exclusão das qualificadoras do crime de homicídio na sentença de pronúncia, quando evidenciada pelas premissas fáticas delineadas nas instâncias ordinárias sua manifesta improcedência, o que não foi demonstrado no caso.
+4. Tendo o Tribunal de origem, mediante análise das provas dos autos, concluído não ser possível excluir as qualificadoras, pois devidamente fundamentadas na prova testemunhal produzida, tem incidência a Súmula n. 7/STJ.
+5. Não se verifica a ocorrência de excesso de linguagem, pois a pronúncia abordou apenas os necessários requisitos de autoria e materialidade, com base nas provas apresentadas, especialmente a prova testemunhal, não se observando incursão demasiada no exame do conjunto probatório, tampouco manifestação definitiva de culpa do acusado, com qualificativos fortes a induzir o julgamento pelo Conselho de Sentença.
+6. Agravo regimental improvido".
+(AgRg no REsp 1890976/CE, Rel. Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO), SEXTA TURMA, julgado em 25/05/2021, DJe 28/05/2021)
+Ante o exposto, com fundamento no art. 255, § 4º, I, do Regimento Interno do STJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
