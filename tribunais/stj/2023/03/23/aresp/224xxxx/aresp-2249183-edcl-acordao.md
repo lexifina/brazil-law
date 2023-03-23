@@ -1,0 +1,49 @@
+EMENTA
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. EMBARGOS NÃO CONHECIDOS.
+1. "São intempestivos os embargos de declaração opostos fora do prazo de dois dias, consoante os arts. 263 do RISTJ e 619 do CPP, não tendo aplicação o novo Código de Processo Civil, uma vez que o prazo no processo penal possui disciplina própria." (EDcl nos EDcl nos EDcl no AgRg nos EREsp 1.460.043/SC, Rel. Ministro NEFI CORDEIRO, TERCEIRA SEÇÃO, julgado em 27/2/2019, DJe 6/3/2019).
+2. Noutro giro, "As intimações das decisões proferidas por esta Corte, ordinariamente, se dá com a publicação no Diário da Justiça Eletrônico, e que a intimação eletrônica é modalidade com aplicação restrita, atualmente, aos entes públicos com prerrogativa de intimação pessoal, desde que devidamente credenciados na forma da regulamentação interna do Tribunal" (AgInt na AR n. 5.790/GO, relator Ministro Benedito Gonçalves, Primeira Seção, julgado em 4/10/2022, DJe de 6/10/2022).
+3. Embargos de declaração não conhecidos.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, não conhecer dos embargos. Os Srs. Ministros Joel Ilan Paciornik, Messod Azulay Neto, João Batista Moreira (Desembargador convocado do TRF1) e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Trata-se de embargos de declaração opostos por THIAGO COTRIM CHAMBARELLI (e-STJ, fls. 1870-1881) contra acórdão de minha relatoria, no qual não conheci do agravo regimental, por intempestividade (e-STJ, fls. 1853 e 1855-1858).
+Sustenta o embargante que "o recorrente não fora intimado através de seus representantes legais da referida decisão" (e-STJ, fl. 1870), razão pela qual considerou como termo inicial para a contagem do prazo recursal a data em que certificada a intimação da Procuradoria Geral da República.
+Aduz que, a teor do artigo 5º da Lei n. 11.419/2006, as intimações devem ser feitas por meio do portal eletrônico, dispensando-se, assim, a publicação por órgão oficial.
+Relata que, no Tribunal de origem, as intimações se davam por meio eletrônico, o qual prevalece sobre a publicação no Diário de Justiça.
+Requer que os embargos sejam acolhidos para que seja dado prosseguimento ao julgamento do agravo regimental.
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. EMBARGOS NÃO CONHECIDOS.
+1. "São intempestivos os embargos de declaração opostos fora do prazo de dois dias, consoante os arts. 263 do RISTJ e 619 do CPP, não tendo aplicação o novo Código de Processo Civil, uma vez que o prazo no processo penal possui disciplina própria." (EDcl nos EDcl nos EDcl no AgRg nos EREsp 1.460.043/SC, Rel. Ministro NEFI CORDEIRO, TERCEIRA SEÇÃO, julgado em 27/2/2019, DJe 6/3/2019).
+2. Noutro giro, "As intimações das decisões proferidas por esta Corte, ordinariamente, se dá com a publicação no Diário da Justiça Eletrônico, e que a intimação eletrônica é modalidade com aplicação restrita, atualmente, aos entes públicos com prerrogativa de intimação pessoal, desde que devidamente credenciados na forma da regulamentação interna do Tribunal" (AgInt na AR n. 5.790/GO, relator Ministro Benedito Gonçalves, Primeira Seção, julgado em 4/10/2022, DJe de 6/10/2022).
+3. Embargos de declaração não conhecidos.
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Os embargos de declaração em feito que discuta matéria criminal devem ser opostos no prazo de dois dias. Note-se que o tema possui previsão específica no Código de Processo Penal (art. 619), prescindindo, portanto, de suplementação do Código de Processo Civil, neste ponto.
+Sobre a questão:
+"AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. EMBARGOS DE DECLARAÇÃO DOS QUAIS NÃO SE CONHECEU NA ORIGEM. INTEMPESTIVIDADE. MATÉRIA CRIMINAL. PRAZO DE 2 (DOIS) DIAS. ARTIGO 619 DO CÓDIGO DE PROCESSO PENAL. RECURSO ORDINÁRIO NÃO PROVIDO. DECISÃO MANTIDA. INSURGÊNCIA DESPROVIDA.
+1. Em se tratando de feito que discuta matéria criminal, ainda que no âmbito do mandado de segurança, o prazo para oposição de embargos de declaração é de 2 (dois) dias, nos termos previstos no art. 619 do Código de Processo Penal. Precedentes.
+2. "Opostos embargos de declaração fora do prazo legal, tais aclaratórios não acarretam a interrupção para o prazo de interposição de recursos subsequentes, efeito decorrente somente dos embargos que preenchem os requisitos de admissibilidade. Precedentes. Assim sendo, o recurso ordinário interposto após embargos de declaração intempestivos também o são" (AgRg no RMS 51.900/CE, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 03/08/2017, DJe 16/08/2017)
+3. Agravo regimental desprovido."
+(AgRg no RMS 61.556/RS, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 03/03/2020, DJe 13/03/2020; grifou-se).
+"AGRAVO REGIMENTAL. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. PENAL. PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO OPOSTOS FORA DO PRAZO DE 2 DIAS PREVISTO NO ART. 619 DO CPP. INTEMPESTIVIDADE MANIFESTA. NÃO INTERRUPÇÃO DO PRAZO PARA OS DEMAIS RECURSOS.
+1. Não há como abrigar agravo regimental que não logra desconstituir os fundamentos da decisão atacada.
+2. Consoante orientação desta Corte Superior, os embargos de declaração intempestivos não interrompem ou suspendem o prazo para interposição de outros recursos.
+3. É pacífico o entendimento desta Corte de que, em se tratando de matéria criminal, o prazo para oposição de Embargos de Declaração é de 2 dias, nos termos do art. 619 do Código de Processo Penal.
+4. Agravo regimental improvido."
+(AgInt no RMS 46.973/PR, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 17/10/2017, DJe 27/10/2017; grifou-se).
+No caso concreto, o acórdão embargado foi publicado em 14/02/2023 (terça-feira) (e-STJ, fl. 1863). O prazo para oposição dos aclaratórios teve início em 15/02/2023 e término em 16/02/2023. Entretanto, os embargos de declaração foram protocolizados tão somente em 1º/03/2023 (e-STJ, fl. 1881), portanto, fora do prazo legal.
+Noutro giro, cabe consignar que a Corte Especial deste Superior Tribunal de Justiça definiu que, quando houver duplicidade das intimações eletrônicas previstas na Lei 11.419/2006 - Diário da Justiça Eletrônico (DJE) x Portal Eletrônico de Intimações -, deve prevalecer, para efeitos de contagem de prazos processuais, a intimação que tiver sido realizada no portal eletrônico, por ser forma especial sobre aquela genérica disponibilizada no diário de justiça eletrônico (EAREsp 1663952/RJ, Rel. Ministro RAUL ARAÚJO, CORTE ESPECIAL, julgado em 19/05/2021, DJe 09/06/2021). Em suma, portanto, sendo o advogado intimado via DJe e portal eletrônico de intimações, valerá a do portal. No precedente, destacou-se que os Tribunais não estão obrigados a adotar essa forma de intimação pelo Portal Eletrônico, porém, caso adotem, deverá ser seguido tal entendimento.
+Todavia, não é essa a hipótese dos autos, na medida em que, nesta Corte Superior, o portal eletrônico de intimações é disponibilizado, atualmente, apenas aos entes públicos, Defensorias Públicas e Núcleos de Práticas Jurídicas.
+Dessarte, "As intimações das decisões proferidas por esta Corte, ordinariamente, se dá com a publicação no Diário da Justiça Eletrônico, e que a intimação eletrônica é modalidade com aplicação restrita, atualmente, aos entes públicos com prerrogativa de intimação pessoal, desde que devidamente credenciados na forma da regulamentação interna do Tribunal" (AgInt na AR n. 5.790/GO, relator Ministro Benedito Gonçalves, Primeira Seção, julgado em 4/10/2022, DJe de 6/10/2022, grifou-se).
+Corrobora:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTIMAÇÃO DAS DECISÕES PROFERIDAS PELO SUPERIOR TRIBUNAL DE JUSTIÇA QUE SE DÁ, ORDINARIAMENTE, COM A PUBLICAÇÃO NO DIÁRIO DA JUSTIÇA ELETRÔNICO DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Defendem os agravantes que da decisão proferida por esta Corte Superior, que não conheceu do agravo em recurso especial, deveriam ter sido intimados não por publicação em Diário de Justiça Eletrônico, mas por intimação em Portal Eletrônico, este mantido não pelo STJ, mas pelo Tribunal de Justiça do Estado do Paraná (Projudi).
+2. A Lei n. 11.419/2006, ao regular a informatização do processo eletrônico, estabeleceu que cada Tribunal providenciará a intimação acerca dos próprios atos judiciais em Diário da Justiça eletrônico ou Portal eletrônico mantido e criado pelo respectivo Tribunal prolator do referido ato.
+3. No caso dos presentes autos, como bem assentou o decisum ora agravado, a decisão que não conheceu do agravo em recurso especial foi devidamente publicada do Diário de Justiça Eletrônico do STJ, em nome do advogado com procuração nos autos. Assim, descabido falar-se em necessidade de intimação de decisão proferida por esta Corte Superior mediante disponibilização em Portal de Intimação Eletrônica mantido por Tribunal Estadual.
+4. "As intimações das decisões proferidas pelo Superior Tribunal de Justiça ocorrem, por via de regra, com a publicação no Diário da Justiça Eletrônico. A intimação eletrônica, no âmbito do STJ, é modalidade com aplicação restrita, atualmente, aos entes públicos com prerrogativa de intimação pessoal, desde que devidamente credenciados na forma da regulamentação interna do Tribunal" (AgInt no AREsp 995.806/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 02/05/2017, DJe 26/05/2017).
+5. Agravo interno não provido."
+(AgInt nos EDcl no AREsp n. 1.767.073/PR, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 11/4/2022, DJe de 19/4/2022, com destaques.)
+Ante o exposto, não conheço dos embargos de declaração.
+É o voto.
