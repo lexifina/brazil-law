@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de agravo contra o juízo de admissibilidade que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+APELAÇÃO CÍVEL. AÇÃO MONITÓRIA. ENTIDADE FECHADA DE PREVIDÊNCIA PRIVADA. PRETENSÃO DE RECEBIMENTO DE VALORES A TÍTULO DE EMPRÉSTIMO INADIMPLINDO PELO RÉU. SENTENÇA DE PROCEDÊNCIA. INCONFORMISMO DAS PARTES.
+PRELIMINARES DE COISA JULGADA, PREVENÇÃO E PRESCRIÇÃO AFASTADAS. CONTRATO DE MÚTUO SEM ASSINATURA DO RÉU E PLANILHAS DE DÉBITO PRODUZIDAS UNILATERALMENTE QUE NÃO SE PRESTAM A COMPROVAR A EXISTÊNCIA DE RELAÇÃO JURÍDICA ENTRE AS PARTES. AUTORA QUE NÃO SE DESINCUMBIU DO ÔNUS DE COMPROVAR O FATO CONSTITUTIVO DO SEU DIREITO. AUSÊNCIA DE PROVAS QUE PODERIAM TER SIDO PRODUZIDAS PELA AUTORA, TAIS COMO O COMPROVANTE DE DISPONIBILIDADE DA QUANTIA OBJETO DO CONTRATO, BEM COMO O PAGAMENTO DAS PARCELAS ADIMPLIDAS, O QUE NÃO OCORREU E IMPÕE O ACOLHIMENTO DOS EMBARGOS MONITÓRIOS PARA JULGAR IMPROCEDENTE A AÇÃO.
+Recursos conhecidos para negar provimento ao apelo autoral e dar provimento ao apelo de réu.
+A parte agravante sustenta a violação dos arts. 425, VI, 1.022, II, do Código de Processo Civil, 10 da Medida Provisória 2200-2/2001 e 11 da Lei 11.419/2006.
+Relativamente à alegada violação ao art. 1.022, II, do Código de Processo Civil, sem razão o recorrente, haja vista que enfrentadas fundamentadamente todas as questões levantadas pela parte, porém em sentido contrário ao pretendido, o que afasta a invocada declaração de nulidade.
+Quanto ao mais, o recurso não tem como ser conhecido, pois não foi impugnado o fundamento do julgado estadual, que se amparou no art. 700, I, do CPC (necessidade de prova escrita para amparar o pedido monitório) para a solução deste tema em particular, suficiente por si só para manter o acórdão, que, por consequência, não pode ser alterado por força do veto contido no enunciado 283 da Súmula do STF.
+Em face do exposto, nego provimento ao agravo. Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
