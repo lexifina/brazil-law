@@ -1,0 +1,4 @@
+DECISÃO
+Cuida-se de carta rogatória por meio da qual a Justiça portuguesa (Tribunal Judicial da Comarca da Madeira, Juízo Local Cível do Funchal, Juiz 1) solicita que se proceda à notificação de JOSE ANSELMO FERREIRA JUNIOR para contestar, se assim entender, o incidente de habilitação de sucessores (Processo Comum n. 4603/20.9T8FNC), na sequência do falecimento da Sra. Maria da Conceição Ferreira, no prazo de 10 (dez) dias, "sob pena de não o fazendo, vir a ser julgado sucessor da falecida". Com a contestação, deverá apresentar o rol de testemunhas e quaisquer documentos que queira produzir, sendo que ao prazo de defesa aplica-se uma dilação de 30 (trinta) dias.
+Tendo em vista que a diligência foi cumprida (certidão de fls. 67-68 ), determino a devolução dos autos à Justiça rogante com o cumprimento da comissão, por intermédio da autoridade central competente (art. 216-X do Regimento Interno do STJ).
+Publique-se.
