@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão oriundo do Tribunal de Justiça da mesma unidade federativa.
+Depreende-se dos autos que o recorrido foi condenado às penas de 4 anos de reclusão e 6 meses de detenção, no regime inicial semiaberto, por ter agido incurso nos arts. 157, caput e 150, § 1º, do Código Penal.
+Foi dado parcial provimento ao recurso de apelação da defesa para absolver o recorrido em relação ao crime descrito no art. 150, § 1º do Código Penal. O acórdão está assim ementado (e-STJ fl. 233):
+EMENTA: APELAÇÃO CRIMINAL - RECURSO DEFENSIVO - CONCURSO DE CRIMES - PRIMEIRO EVENTO - ROUBO SIMPLES - AUTORIA E MATERIALIDADE - TEMAS INCONTROVERSOS - SEGUNDO FATO - CRIME PREVISTO NO ART. 150, § 1º DO CP - ABSOLVIÇÃO - NECESSIDADE - INGRESSO EM RESIDENCIA DURANTE ATO DE FUGA - INTENÇÃO APENAS DE FUGIR DA GUARNIÇÃO POLICIAL - CONDUTA ATÍPICA - AUSÊNCIA DE DOLO ESPECÍFICO - ABSOLVlÇÃO QUE SE DECRETA.
+- Para a configuração do delito previsto no artigo 150, §1 1 do Código Penal, é necessária demonstração de um dolo específico do agente, esse consistente em querer penetrar ou permanecer em casa de outrem contra a vontade deite. Contudo, não demonstrado referido dolo, pois a finalidade do agente não foi a de violar o domicílio, isso como propósito único de sua ação; mas, em verdade, tencionava fugir de uma abordagem policial, não há que se falar em cometimento do crime do citado artigo 150, §1 0 do Código Penal.
+V.V. O réu que conscientemente entra, de forma clandestina e durante a noite, em casa alheia pratica o delito previsto no artigo 150, § 1 1 , do Código Penal, sendo irrelevantes para fins de configuração típica os motivos do agente quando da prática do crime, desde que não configurem causas dirimentes, já que eles são sopesados em regra somente no momento de fixação da pena. Doutrina
+Os embargos de declaração que se seguiram foram rejeitados (e-STJ fls. 254/258).
+Daí o presente recurso especial, no qual se alega a violação aos arts. 18 e 150, § 1º, do Código Penal. Aduz ser "inviável o reconhecimento da atipicidade da conduta por ausência de dolo, uma vez que restou expressamente consignado no v. acórdão combatido que o réu, de forma consciente e deliberada, entrou, contra a vontade expressa ou tácita de quem de direito, em casa alheia" (e-STJ fls. 269/270).
+O MPF manifestou-se pelo desprovimento do recurso (e-STJ fls. 320/322).
+É, em síntese, o relatório.
+Conforme consignado no parecer exarado pelo Parquet, a Sexta Turma desta Corte, em caso similar, concluiu, na linha do acórdão recorrido, ser atípica a conduta de quem, em fuga, ingressa em domicílio alheio, pois não haveria, neste caso, o dolo a que alude o art. 150 do Código Penal:
+RECURSO ESPECIAL. VIOLAÇÃO DE DOMICÍLIO. ART. 150, § 1º, DO CÓDIGO PENAL. FATO PRATICADO EM CONTEXTO DE FUGA DA POLÍCIA, LOGO APÓS COMETIMENTO DE CRIMES DE ROUBO. ELEMENTO SUBJETIVO DO TIPO. AUSÊNCIA. RECURSO ESPECIAL IMPROVIDO.
+1. De acordo com as premissas fáticas delineadas no acórdão, a conduta de invasão de domicílio pelo acusado constituiu pos factum impunível, porquanto o réu teria adentrado na residência da vítima tão somente para fugir da abordagem policial após a prática dos crimes de roubo.
+2. Considerando a fuga engendrada e, não havendo, por parte do acusado, a intenção de entrar ou permanecer, clandestina ou astuciosamente, ou contra a vontade expressa ou tácita de quem de direito, em casa alheia ou em suas dependências, não há falar em condenação pelo crime do art. 150, § 1º, do CP.
+3. O acolhimento da pretensão ministerial, de forma a restabelecer a condenação, exigiria revolvimento fático-probatório com o fim de verificar a existência do dolo do agente, o que não se admite na via do recurso especial, por encontrar óbice na Súmula 7/STJ.
+4. Recurso especial improvido.
+(REsp n. 1.801.919/DF, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 17/9/2019, DJe de 4/10/2019.)
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
