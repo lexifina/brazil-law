@@ -1,0 +1,14 @@
+DECISÃO
+Por meio da petição de fls. 1.204-1.208, a defesa requer que sejam estendidos aos corréus AUGUSTO CÉSAR ZANARDE BRANDÃO e ELAINE SILVA os efeitos da decisão de fls. 1.192-1.194, nos seguintes termos (fl. 1.208):
+1) Fixação do regime Semiaberto para AUGUSTO CÉSAR ZANARDE BRANDÃO, assim como determinado para JORGE ANTÔNIO VILALVA.
+2) Fixação de regime Aberto e substituição da pena privativa de liberdade por restritiva de direito para ELAINE SILVA, assim como determinado para GILMAR BRITO GARCIA.
+O Ministério Público Federal manifestou-se pelo "parcial deferimento dos pedidos de extensão para: (a) fixar o regime semiaberto a Augusto César Zanarde Brandão e Clóvis Tomé da Silva e (b) aplicar o regime aberto em favor de Elaine Silva e Patrícia Conceição Roda Félix, admitida, ainda, a substituição da pena privativa de liberdade por restritivas de direitos" (fls. 1.232-1.233).
+Decido.
+I. AUGUSTO CÉSAR ZANARDE BRANDÃO
+De fato, verifico que o requerente Augusto César está na mesma situação fático-processual que a do paciente Jorge Antônio Vilalva. Isso porque ele também teve a pena-base estabelecida acima do mínimo legal, em razão da existência de circunstâncias judiciais desfavoráveis, elemento que, somado ao fato de se dedicar a atividades criminosas, autoriza, nos termos do art. 33, § 3º, do CP, a fixação do regime inicial imediatamente mais grave do que o estabelecido em razão do quantum da pena aplicada, que, no caso, é o semiaberto, e não o fechado, como concluiu o Tribunal de origem.
+II. ELAINE SILVA
+Também verifico que a requerente Elaine Silva está na mesma situação fático-processual que a do paciente Gilmar Brito Garcia: ela também foi condenada a reprimenda inferior a 4 anos de reclusão, era tecnicamente primária ao tempo do delito, possuidora de bons antecedentes e teve a pena-base estabelecida no mínimo legal, motivo pelo qual, também em relação a ela, mostra-se devida a imposição do regime inicial aberto de cumprimento de pena, ex vi do disposto no art. 33, § 2º, "c", do CP, bem como a substituição da reprimenda privativa de liberdade imposta por duas restritivas de direitos, nos termos do art. 44 do CP, as quais deverão ser estabelecidas pelo Juízo das Execuções Criminais, à luz das peculiaridades do caso concreto.
+III. Dispositivo
+À vista do exposto, defiro o pedido de extensão formulado às fls. 1.204-1.208, para: a) fixar o regime inicial semiaberto de cumprimento de pena ao acusado AUGUSTO CÉSAR ZANARDE BRANDÃO; b) em relação à requerente ELAINE SILVA, estabelecer o regime inicial aberto e determinar a substituição da reprimenda privativa de liberdade por duas restritivas de direitos, a serem escolhidas pelo Juízo das Execuções Criminais, à luz das especificidades do caso analisado.
+Comunique-se, com urgência, o inteiro teor desta decisão às instâncias ordinárias, para as providências cabíveis.
+Publique-se e intimem-se.
