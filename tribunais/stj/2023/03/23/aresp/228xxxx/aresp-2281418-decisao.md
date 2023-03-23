@@ -1,0 +1,8 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por FUNDACAO PETROBRAS DE SEGURIDADE SOCIAL PETROS, contra decisão interlocutória que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Em síntese, o recurso especial se volta contra acórdão do TJ/BA que, em sede de agravo de instrumento, manteve decisão do juiz do 1º grau de jurisdição que deferiu o pedido de tutela de urgência formulado por GUILHERME TADEU BARBOSA XIMENES, em ação de obrigação de fazer, para "determinar que a parte ré imediatamente se abstenham de descontar do beneficio do autor as contribuições extraordinárias do Plano de Equacionamento do Deficit Técnico do Plano Petros do Sistema Petrobras, até ulterior deliberação".
+É O BREVE RELATÓRIO. DECIDO.
+Da análise do andamento processual constante no sítio eletrônico do TJ/BA, verifica-se que, enquanto pendente o julgamento do recurso especial, foi proferida, em 20/05/2022, sentença de mérito que julgou improcedente o pedido principal formulado pelo agravado, circunstância que implica a perda de objeto do presente recurso.
+Deveras, de acordo com o entendimento desta Corte, "a superveniência da sentença proferida no feito principal enseja a perda de objeto de recursos anteriores que versem sobre questões resolvidas por decisão interlocutória combatida via agravo de instrumento" (AgRg no REsp 1.485.765/SP, Terceira Turma, DJe 29/10/2015).
+Forte nessas razões, JULGO PREJUDICADO o agravo em recurso especial, por perda superveniente de objeto, nos termos do art. 34, XI, do RISTJ.
+Publique-se. Intimem-se.
