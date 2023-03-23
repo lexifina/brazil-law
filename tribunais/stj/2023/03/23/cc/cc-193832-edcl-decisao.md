@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de Embargos de Declaração opostos contra decisão que não conheceu o Conflito de Competência.
+A parte embargante aduz:
+Todavia, no caso dos autos, observa-se que o conflito negativo foi suscitado pelo Juízo Federal.
+Corrigida a premissa fática, vê-se que não que há que se falar em não conhecimento do presente conflito.
+Lado outro, ainda que assim não fosse, ao não conhecer do presente Conflito Negativo de Competência, instaurado entre Juízes vinculados a Tribunais distintos, haverá violação direta ao que preceitua o art.
+105, I, "d", da Constituição da República 1 . Essa norma não foi objeto de valoração pela r. decisão.
+Mais. A r. decisão recorrida não analisou o fato de que o não conhecimento do conflito implicará em claro impedimento para que o feito chegue ao Supremo Tribunal Federal, responsável por analisar violação das normas constitucionais em discussão.
+Nessa perspectiva, conclui-se que o não conhecimento acabará por usurpar a competência do Supremo Tribunal Federal.
+Por outra ótica, importa perceber que o não conhecimento do conflito de competência, com determinação de que o feito tramite perante a Justiça Estadual, denota o próprio julgamento do conflito de competência, ainda que de forma implícita.
+Finalmente, o não conhecimento do conflito poderá inviabilizar sua instauração posterior, em razão do que determina o enunciado de Súmula 59/STJ (Não há conflito de competência se já existe sentença com trânsito em julgado, proferida por um dos juízos conflitantes).
+As omissões apresentadas são relevantes e merecem, por isso, manifestação judicial clara.
+É o relatório.
+Decido.
+Os Embargos de Declaração não merecem prosperar, pois manifestam nítido caráter infringente, não apontando quaisquer das hipóteses do art. 1022 do CPC/2015.
+Embora suscitado pelo juízo federal, observa-se que o feito foi remetido para tal juízo em virtude de a Justiça estadual ter determinado a emenda à inicial para inclusão da União no feito.
+Ademais, a Primeira Seção do STJ entende que a instauração do citado IAC, nos Conflitos de Competência, visa somente a decidir o juízo competente para o julgamento de demanda relativa ao fornecimento de medicamento e ou tratamento médico não incluído nas políticas públicas, sem, contudo, adentrar no mérito da causa em que suscitado o Conflito. A Primeira Seção também reconhece que a discussão relativa à legitimidade ad causam ou eventual nulidade da decisão do juízo federal, podem ser analisadas no bojo da ação ordinária e alcançar as instâncias excepcionais, observando a legislação processual de regência. Nessa linha:
+PROCESSUAL CIVIL. DIREITO À SAÚDE. MEDICAMENTO NÃO INCORPORADO AO RENAME/SUS. INTERESSE JURÍDICO DA UNIÃO. CONFLITO DE COMPETÊNCIA. JUÍZOS FEDERAL E ESTADUAL. MATÉRIA AFETADA À SISTEMATICA DO INCIDENTE DE ASSUNÇÃO DE COMPETÊNCIA. QUESTÃO DE ORDEM. DE LIBERAÇÃO QUANTO À COMPETÊNCIA PROVISÓRIA. DECISÃO DESTA CORTE. DESCUMPRIMENTO.
+1. A Primeira Seção desta Corte de Justiça, com fulcro no art. 947 do Código de Processo Civil/2015 e no art. 271-B do RISTJ, afetou os Conflitos de Competência n. 187.276/RS, n. 187.533/SC e n. 188.002/SC à sistemática do incidente de assunção de competência (IAC 14), para a definição da seguinte tese jurídica: Tratando-se de medicamento não incluído nas políticas públicas, mas devidamente registrado na ANVISA, analisar se compete ao autor a faculdade de eleger contra quem pretende demandar, em face da responsabilidade solidária dos entes federados na prestação de saúde, e, em consequência, examinar se é indevida a inclusão da União no polo passivo da demanda, seja por ato de ofício, seja por intimação da parte para emendar a inicial, sem prévia consulta à Justiça Federal 2. No julgamento da questão de ordem, a Primeira Seção deliberou que, até o julgamento definitivo do incidente de assunção de competência (IAC), o Juiz estadual deverá abster-se de praticar qualquer ato judicial de declinação de competência nas ações que versem sobre tema idêntico ao afetado, de modo que o processo deve prosseguir na jurisdição estadual.
+3. Não há como conhecer do presente conflito de competência, visto que suscitado após a instauração do IAC n. 14/STJ e em desrespeito à del iberação desta Corte de Justiça quanto à fixação da competência provisória do Juízo estadual, sendo certo, ainda, que a parte agravante não realizou o "distinguishing" necessário para demonstrar que a matéria debatida nestes autos e aquele objeto dos conflitos competências seriam distintas.
+4. Agravo interno desprovido.
+(AgInt no CC n. 191.257/SC, relator Ministro Gurgel de Faria, Primeira Seção, julgado em 8/3/2023, DJe de 13/3/2023.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO CONFLITO DE COMPETÊNCIA. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. INCIDENTE DE ASSUNÇÃO DE COMPETÊNCIA N. 14. FORNECIMENTO DE MEDICAMENTOS. RESPONSABILIDADE. ENTES FEDERATIVOS. UNIÃO. INCLUSÃO NO POLO PASSIVO. QUESTÃO DE ORDEM. IMPOSIÇÃO DA ABSTENÇÃO DA PRÁTICA DE ATOS JUDICIAIS DE DECLINAÇÃO DE COMPETÊNCIA PELOS JUÍZOS ESTADUAIS. PROSSEGUIMENTO NA JUSTIÇA ESTADUAL. CONFLITO NÃO CONHECIDO. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - No julgamento de Questão de Ordem suscitada nos Conflitos de Competência ns. 187.276/RS, 187.533/SC e 188.002/SC, em 08.06.2022, a 1ª Seção desta Corte decidiu que, até o julgamento definitivo do IAC n. 14, devem os juízos estaduais se abster da prática de atos judiciais de declinação de competência nas ações que versem sobre provisão de fármacos e tratamentos médicos, em observância ao princípio da segurança jurídica.
+III - Devendo prosseguir o trâmite dessas ações na Justiça Estadual, não se conhece, por conseguinte, do conflito de competência.
+IV - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+V - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - Agravo Interno improvido.
+(AgInt nos EDcl no CC n. 189.719/PR, relatora Ministra Regina Helena Costa, Primeira Seção, julgado em 8/3/2023, DJe de 10/3/2023.)
+Diante do exposto, rejeito os Embargos de Declaração.
+Publique-se.
+Intimem-se.
