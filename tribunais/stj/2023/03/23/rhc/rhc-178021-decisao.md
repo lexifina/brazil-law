@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso ordinário interposto por Bruno Cassol contra o acórdão do Tribunal de Justiça do Rio Grande do Sul, que denegou o HC n. 50168061520238217000 (fl. 66):
+HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA. ROUBO MAJORADO. ESTELIONATO. RECEPTAÇÃO. CORRUPÇÃO ATIVA. MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. SUSPENSÃO DA ATIVIDADE ECONÔMICA. INCONFORMIDADE. INDÍCIOS DE AUTORIA E MATERIALIDADE VERIFICADOS. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Inexiste ilegalidade na decisão que manteve a medida cautelar diversa da prisão de suspensão de atividade comercial de compra e venda de veículos, em razão dos (graves) fatos narrados na denúncia - em o que o paciente é acusado de ser um dos líderes de organização criminosa cuja principal atividade é justamente roubo de veículos de luxo para revenda de peças ou mesmo reinserção em mercado de venda com sinal identificador adulterado.
+A suspensão das atividades comerciais, imposta como medida cautelar alternativa à prisão, prevista no art. 319, VI do CPP, encontra-se justificada na necessidade garantia da ordem pública, que se sobrepõe aos interesses financeiros do paciente.
+No mais, não há prazo determinado para a duração da medida cautelar alternativa à prisão, sendo que, até o presente momento, os motivos que justificaram a imposição da referida medida não restaram alterados.
+ORDEM DENEGADA.
+Alega o recorrente que não há fundamento concreto idôneo que justifique a manutenção da proibição do exercício de atividade econômica relacionada à compra e à venda de veículos e peças (fl. 81) mesmo porque, passados mais de 3 anos e meio, as restrições e condições impostas como medidas alternativas à prisão não podem mais persistir (fl. 89).
+Requer o provimento do recurso e a concessão da ordem a fim de reconhecer a ilegalidade e o constrangimento ilegal sofrido pelo recorrente, ante a ausência de fundamento idôneo do acórdão recorrido que manteve indevidamente a medida cautelar diversa da prisão.
+É o relatório.
+O inconformismo não merece prosperar.
+Da simples leitura do acórdão impugnado verifica-se nitidamente a existência de fundamentação concreta e idônea a justificar a manutenção da medida cautelar de proibição do exercício de atividade econômica acerca da compra e venda de veículos e peças, mesmo porque diretamente relacionada com os crimes pelos quais foi denunciado o recorrente.
+Anote-se (fls. 64/65 - grifo nosso):
+Não há qualquer ilegalidade na manutenção da proibição do exercício de atividade comercial relacionada à compra e venda de veículos pelo ora paciente - Bruno Cassol (também conhecido como "Barão") -, o qual está sendo acusado de ser um dos líderes (juntamente com o corréu Eduardo Ribeiro Pereira, também conhecido como "Barão") de organização criminosa destinada a prática de roubo de carros de luxo, mediante emprego de arma de fogo, que eram levados para um dos nove pavilhões mantidos pelo grupo, onde ocorria o desmanche dos automóveis para venda de peças ou a adulteração do sinal identificador para reinserção do mercado.
+Além disso, os acusados atuavam junto a seguradoras e locadoras de veículos (mediante fraude), a fim de obter indenizações e, para tanto, falsificavam documentos e simulavam situações ensejadoras de reparação financeira.
+Portanto, a necessidade da imposição da medida cautelar em questão, observado o disposto no art. 319, VI do CPP, está embasada em fortes indícios de práticas delitivas envolvendo atividades de compra e venda de automóveis (presentes, no caso, materialidade e indícios suficientes de autoria), impondo-se a medida em questão para garantia da ordem pública - claramente atingida pelas condutas descritas na peça acusatória (notadamente na suposta prática de delitos envolvendo violência ou grave ameaça à pessoa) - o que, neste caso, sobrepõe-se aos interesses financeiros do paciente.
+No mais, conforme constou na decisão acima reproduzida, não há prazo determinado para a duração da medida cautelar alternativa à prisão. E, até o presente momento, entendo que os motivos que justificaram a imposição da medida não restaram alterados.
+Ante o exposto, nego provimento ao recurso ordinário.
+Publique-se.
+EMENTA
+RECURSO ORDINÁRIO EM HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA. ROUBO MAJORADO. ESTELIONATO. RECEPTAÇÃO. CORRUPÇÃO ATIVA. MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. SUSPENSÃO DA ATIVIDADE ECONÔMICA. INCONFORMIDADE. INDÍCIOS DE AUTORIA E MATERIALIDADE VERIFICADOS. FUNDAMENTOS CONCRETOS E IDÔNEOS. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Recurso improvido.
