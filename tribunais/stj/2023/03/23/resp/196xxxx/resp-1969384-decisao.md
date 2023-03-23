@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto por CONCRETOS ROLIM LTDA. e OUTROS, com fundamento nas alíneas a e c do permissivo constitucional, no qual se insurgem contra acórdão do Tribunal de Justiça de Minas Gerais assim ementado (e-STJ, fl. 1.372):
+AGRAVO DE INSTRUMENTO - JUSTIÇA GRATUITA - AUSÊNCIA DE PROVA DA INSUFICIÊNCIA DE RECURSOS - BENEFÍCIO NÃO CONCEDIDO.
+- A ausência de documento que comprove a hipossuficiência financeira da parte impossibilita a concessão da assistência judiciária.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 1.456-1.459).
+No recurso especial, os recorrentes apontam, além de divergência jurisprudencial, violação dos arts. 2º, 3º, 4º, 6º, 7º, 82, caput, 95, caput e § 3º, I e II, 98, §§ 2º e 3º, 99, caput, § 1º, 371, 373, I e II, 505, 489, § 1º, IV e VI, e 1.022, II e III, do CPC; e 8º da Lei n. 1.060/1950.
+Esclarecem que se opõem ao acórdão que não deferiu a gratuidade de justiça relativa aos honorários periciais. Alegam a existência de omissões, erro e nulidades não sanados no julgamento estadual, mesmo após apreciados os embargos de declaração.
+Frisam que a hipossuficiência e vulnerabilidade estariam amplamente demonstradas nos autos, logo era caso de deferimento desse pleito recursal.
+Destacam que a concordância com a proposta ou com a concessão do pedido de pagamento do parcelamento do valor relativo à perícia não faz precluso o direito de requerer a gratuidade da justiça, tampouco demonstra sua capacidade financeira privilegiada, apta a afastar esse benefício processual.
+Arguem que o Tribunal a quo partiu de premissa fática equivocada, tendo se convencido erroneamente de que o Juiz de primeiro grau teria negado o benefício aos recorrentes; quando, na verdade, houve o deferimento em obediência ao disposto no art. 5º, LXXIV, CF.
+Suscitam que o acórdão violou os arts. 373, I, CPC e 8º da Lei n. 1.060/1950, justamente porque, conforme reconhecido em primeira instância, as provas conduzem à confirmação dos requisitos legais quanto à hipossuficiência financeira dos recorrentes, não havendo motivos para revogação do benefício nem para a cobrança dos honorários periciais.
+Mencionaram que foi inadequada aplicação da modulação dos benefícios da gratuidade de justiça. Requerem o provimento do recurso especial (e-STJ, fls. 1.468-1.498).
+Contraminuta apresentada (e-STJ, fls. 1.517-1.523).
+Juízo positivo de admissibilidade do recurso especial (e-STJ, fls. 1.535-1.539).
+Brevemente relatado, decido.
+Não há nenhuma omissão, erro, carência de fundamentação ou mesmo contradição a ser sanada no julgamento estadual, portanto inexistentes os requisitos para reconhecimento de ofensa aos arts. 489, § 1º, IV e VI, e 1.022, II e III, do CPC.
+O acórdão dirimiu a controvérsia com base em fundamentação sólida, sem tais vícios, tendo apenas resolvido a celeuma em sentido contrário ao postulado pela parte insurgente. Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas tão só a declinar as razões de seu convencimento motivado, como de fato ocorreu nos autos.
+A segunda instância concluiu que a gratuidade de justiça foi deferida de forma parcial, não abarcando a responsabilidade pelos honorários periciais. Firmou-se que os documentos e provas apresentados para a concessão de pleito foram analisados, estabelecendo-se que os recorrentes poderiam arcar com os valores relativos à perícia e, inclusive, eles anuíram com o respectivo pagamento de forma parcelada.
+Nesse sentido, demonstrou-se que não existiu alteração na condição econômico-financeira dos requerentes, e evidenciar a impossibilidade de afastamento do dever de quitação dos valores relativos à prova técnica. Os documentos apresentados seriam os mesmos já analisados no momento da anterior concessão, logo não estaria demonstrada a hipossuficiência total dos ora demandantes nem mudança de sua condição.
+Veja-se (e-STJ, fls. 1.377-1.378):
+No caso em tela, os autores/agravantes não impugnaram a proposta de honorários periciais, conforme manifestação às fls. 767/769 ordem nº 32.
+Na referida manifestação, os agravantes propuseram parcelamento do pagamento dos honorários periciais, a qual foi homologada, às fls. 773 à ordem nº 33.
+Posteriormente, apresentaram outra manifestação, que culminou na decisão agravada, alegando não mais poder arcar com a perícia. Ocorre que, entre as manifestações transcorreram tão somente pouco mais de seis meses e praticamente todos os documentos que embasam o pedido de gratuidade de justiça integral já eram de conhecimento dos agravantes ao tempo em que concordaram com o valor dos honorários e propuseram o parcelamento. Assim, analisando detidamente os autos, entendo que não assiste razão ao Agravante, devendo ser mantida a decisão agravada.
+Isso porque, ao tempo da concordância com os honorários periciais e propositura do parcelamento, já sabia de sua condição econômica e não comprovou qualquer mudança posterior que pudesse ensejar a gratuidade de justiça.
+Em que pese a alegação de que a parte Agravante não possui condições de arcar com os honorários periciais, verifica-se que esta não logrou êxito em comprovar sua hipossuficiência, motivo pelo qual a r. decisão deverá ser mantida. Diante do exposto, NEGO PROVIMENTO AO AGRAVO DE INSTRUMENTO.
+Essas ponderações foram extraídas da análise fático-probatória da causa, atraindo a aplicação da Súmula 7/STJ, que incide sobre ambas as alíneas do permissivo constitucional.
+Ante o exposto, nego provi mento ao recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. GRATUIDADE DE JUSTIÇA. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, ERRO OU CARÊNCIA DE FUNDAMENTAÇÃO. ACÓRDÃO ESTADUAL DEVIDAMENTE JUSTIFICADO. CONCLUSÃO NO SENTIDO DA CONCESSÃO DA ASSISTÊNCIA JUDICIÁRIA GRATUIDADE DE FORMA PARCIAL. RESPONSABILIDADE PELO PAGAMENTO DO VALOR RELATIVO A PERÍCIA. INEXISTÊNCIA DE MODIFICAÇÃO DA CONDIÇÃO ECONÔMICO-FINANCEIRA DA PARTE. SÚMULA 7/STJ. RECURSO ESPECIAL DESPROVIDO.
