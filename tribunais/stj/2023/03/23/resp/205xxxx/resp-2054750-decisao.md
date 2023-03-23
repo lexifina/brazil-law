@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO DE JANEIRO, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO.
+Consta dos autos que o recorrido foi condenado, em primeiro grau, à pena de 5 (cinco) anos e 3 (três) meses de reclusão, em regime inicial semiaberto, além de 12 (doze) dias-multa, pela prática do delito previsto no art. 157, caput, por duas vezes, na forma do art. 70, ambos do Código Penal.
+Houve ainda a condenado do réu ao pagamento de reparação aos danos causados às vítimas no valor de R$ 2.000,00 (dois mil reais), R$ 1.000,00 em favor de cada ofendido.
+Em segunda instância, o Tribunal de origem deu parcial provimento ao apelo da defesa, apenas para afastar a a obrigação de reparação dos danos causados às vítimas.
+Neste recurso especial, o Parquet estadual alega violação ao art. 387, inciso IV, do Código de Processo Penal, ao argumento de que, "havendo pedido expresso na denúncia, deve o juiz fixar o valor mínimo da reparação dos danos morais, tratando-se de efeito da condenação, nos termos do art. 91, inciso I, do Código Penal"
+Requer , ao final, o restabelecimento deste ponto da sentença condenatória, que estabeleceu a condenação ao pagamento de valor mínimo a título de indenização.
+O Ministério Público Federal manifestou-se pelo provimento do recurso especial (e-STJ fls. 570/576).
+É o relatório.
+Decido.
+Tenho que assiste razão ao Parquet.
+É que, "nos termos do entendimento desta Corte Superior a reparação civil dos danos sofridos pela vítima do fato criminoso, prevista no art. 387, IV, do Código de Processo Penal, inclui também os danos de natureza moral, e para que haja a fixação na sentença do valor mínimo devido a título de indenização, é necessário pedido expresso, sob pena de afronta à ampla defesa" (AgRg no AREsp n. 720.055/RJ, relator Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 26/6/2018, DJe 2/8/2018).
+Nesse sentido:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PROCESSO PENAL. VIOLAÇÃO DO ART. 387, IV, DO CPP. ROUBO MAJORADO E CORRUPÇÃO DE MENORES. REPARAÇÃO DE DANO MORAL AFASTADA EM SEDE DE APELAÇÃO. PEDIDO EXPRESSO DA ACUSAÇÃO NA DENÚNCIA. VERIFICAÇÃO. OCORRÊNCIA. DANO MORAL EVIDENTE. MANUTENÇÃO DO RESTABELECIMENTO DA CONDENAÇÃO IMPOSTA NOS TERMOS DA SENTENÇA. DETERMINADO, NOS TERMOS DO PARECER DO MPF, O RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM PARA AFERIÇÃO DO QUANTUM A SER COMINADO.
+1. Esta Corte de Justiça firmou entendimento de que não há óbice que o Magistrado fixe o valor da reparação mínima (art. 387, IV, do Código de Processo Penal) com base em dano moral sofrido pela vítima. Basta que haja pedido expresso na denúncia, do querelante ou do Ministério Público, para que seja possível a análise de tal requerimento.
+2. A aferição do dano moral, em regra, não causará nenhum desvirtuamento ou retardamento da atividade instrutória a ser realizada na esfera criminal, a qual deverá recair, como ordinariamente ocorre, sobre o fato delituoso narrado na peça acusatória; desse fato ilícito - se comprovado - é que o Juiz extrairá, com esteio nas regras da experiência comum, a existência do dano à esfera íntima do indivíduo.
+3. Esta Corte Superior de Justiça, conforme consignado no decisum reprochado, possui entendimento consolidado no sentido de que "a aplicação do instituto disposto no art. 387, IV, do CPP, referente à reparação de natureza cível, na prolação da sentença condenatória, requer a dedução de um pedido expresso do querelante ou do Ministério Público, em respeito às garantias do contraditório e da ampla defesa" (AgRg no AREsp n. 1.309.078/PI, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 16/11/2018). Precedentes. (AgRg no REsp n. 1.867.135/RS, Ministro Felix Fischer, Quinta Turma, DJe 4/5/2020).
+4. Agravo regimental improvido.
+(AgRg no REsp 1888079/RJ, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 2/3/2021, DJe 9/3/2021.)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ROUBO. REPARAÇÃO DE DANO MORAL. PEDIDO EXPRESSO DO MINISTÉRIO PÚBLICO NA DENÚNCIA. POSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência desta Corte é firme no sentido de que, para fixação da indenização a título de danos morais, nos termos do art. 387, IV, do Código de Processo Penal - CPP, exige-se apenas o pedido expresso do ofendido ou do Ministério Público na inicial acusatória.
+2. No caso dos autos, a quantia de R$ 1.500,00 (um mil e quinhentos reais) foi estipulada para reparação dos danos morais, após pedido expresso do Ministério Público do Estado do Rio de Janeiro, na denúncia criminal, não havendo falar em ilegalidade no arbitramento do valor indenizatório.
+3. Agravo regimental desprovido.
+(AgRg no REsp 1894043/RJ, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 2/2/2021, DJe 8/2/2021.)
+No caso dos autos, tendo em vista que houve na denúncia pedido expresso do Ministério Público, a fim de que fosse fixada a reparação mínima dos danos, constata-se que o Tribunal de origem decidiu em desconformidade com o entendimento firmado no Superior Tribunal de Justiça.
+Dessa forma, estando o acórdão prolatado pelo Tribunal de origem em desconformidade com o entendimento desta Corte Superior quanto ao tema, incide, no caso, o enunciado da Súmula n. 568/STJ, in verbis: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema."
+À vista do exposto, dou provimento ao recurso especial, para restabelecer a condenação ao pagamento de reparação pelos danos causados às vítimas, conforme estabelecido na sentença .
+Publique-se. Intimem-se.
