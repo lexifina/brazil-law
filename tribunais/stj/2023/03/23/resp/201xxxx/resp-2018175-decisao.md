@@ -1,0 +1,77 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado:
+AGRAVO DE INSTRUMENTO - AÇÃO DECLARATÓRIA - AUSENCIA DE INTERESSE DE AGIR E PERDA DE OBJETO - PRELIMINARES REJEITADAS - SUSPENSÃO LEILÃO EXTRAJUDICIAL - REQUISITOS DA LEI 9.514/97 - BOA FÉ - RECURSO A QUE SE NEGA PROVIMENTO.
+Observa-se que a ora agravante não pretende rediscutir termos do acórdão transitado em julgado, pelo contrário, pleiteia pela aplicação do dispositivo.
+Não configura na demanda a ocorrência do leilão perda de objeto, vez que se busca no recurso a eventual anulação pautada em possível nulidade.
+A realização de leilão extrajudicial deve obedecer ao disposto no art. 27, § 2º-A, da Lei 9.514/97, segundo a lei o devedor deve ser intimado das datas, horários e locais dos leilões.
+Uma vez que não há intimação do devedor, inviável a manutenção do leilão extrajudicial.
+Não sendo o recorrente notificado, notória a probabilidade do direito alegado.
+Igualmente, presente perigo de dano visto que a agravante poderá ser compelida a se retirar de sua residência, caso sejam mantidos os efeitos do leilão extrajudicial.
+Ressalta-se que a notificação determinada na norma específica tem o intuito de garantir ciência à parte devedora para que não seja surpreendida a respeito do leilão e que tenha chance ao exercício do direito de arrematação, o que restou cumprido na demanda, em observância à notificação enviada e recebida.
+As partes devem agir com lealdade e confiança recíprocas.
+Numa palavra, devem proceder com boa fé.
+Entre credor e devedor é necessária a colaboração, um ajudando o outro na execução do contrato.
+Considerando as nuances do caso, considera-se valida e regular a notificação enviada ao endereço da agravante, devendo ser mantida a decisão agravada, nos termos do recente precedente do STJ.
+Rejeitaram-se os embargos de declaração opostos a esse acórdão.
+A parte devedora, ora recorrente, alega que o acórdão recorrido contrariou:
+a) o artigo 26 da Lei 9.514/1997 porque, ignorando que não houve intimação pessoal da parte devedora acerca da data de realização do leilão extrajudicial do imóvel dado em alienação fiduciária, deixou de anular tal leilão;
+b) os artigos 891 e 903 da Lei 13.105/2015 (Código de Processo Civil - CPC) porque desprezou que a caracterização de preço vil deve levar à anulação do leilão.
+Aponta divergência jurisprudencial.
+Para começar, anoto que, com relação ao leilão extrajudicial previsto na Lei 9.514/1997, a jurisprudência do Superior Tribunal de Justiça (STJ) prevê a necessidade de intimação pessoal da parte devedora acerca da data de realização daquele leilão, contudo também orienta que o leilão realizado não é nulo se reconhecida a ciência inequívoca da parte devedora.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. LEILÃO EXTRAJUDICIAL. LEI 9.514/97.AUSÊNCIA DE VIOLAÇÃO DO ART. 535 DO CPC/73. AUSÊNCIA DE INTIMAÇÃO. NULIDADE. NÃO OCORRÊNCIA. CIÊNCIA INEQUÍVOCA. AJUIZAMENTO DE AÇÃO CAUTELAR. SUSPENSÃO LIMINAR DA PRAÇA. FINALIDADE DO ATO ATENDIDA. AGRAVO NÃO PROVIDO.
+1. Não há violação do art. 535 do CPC/73 quando o eg. Tribunal estadual aprecia a controvérsia em sua inteireza e de forma fundamentada.
+2. "A jurisprudência do Superior Tribunal de Justiça se encontra consolidada no sentido da necessidade de intimação pessoal do devedor acerca da data da realização do leilão extrajudicial, entendimento que se aplica aos contratos regidos pela Lei nº 9.514/1997" (AgInt no AREsp 1.678.642/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 1º/03/2021, DJe de 09/03/2021).
+3. Na hipótese, o acórdão recorrido consignou expressamente que os devedores constantes do título executivo foram devidamente notificados acerca da realização dos leilões, sendo desnecessária a intimação do agravante por se tratar de possuidor amparado por contrato particular não levado a registro.
+4. Ainda que se considerasse necessária a intimação do agravante ante a ciência, pela exequente, da realização de negócio de compra e venda com os devedores, "A Jurisprudência do STJ é firme no sentido de que não se decreta a nulidade do leilão, por ausência de intimação pessoal, se ficar demonstrada a ciência inequívoca do agravante" (AgInt no AgInt no AREsp 1.463.916/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 03/12/2019, DJe de 09/12/2019).
+5. No caso dos autos, o Tribunal de origem consignou que o agravante teve ciência inequívoca da data de realização dos leilões, em razão de haver ingressado com medida cautelar da qual resultou a suspensão liminar da praça, não lhe cabendo alegar a nulidade do procedimento por falta de intimação, considerando-se que a finalidade do ato foi alcançada.
+6. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.325.854/RS, relator Ministro RAUL ARAÚJO, Quarta Turma, j. em 4/10/2021, DJe de 8/11/2021.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO EXTRAJUDICIAL. LEI Nº 9.514/1997. ALIENAÇÃO FIDUCIÁRIA DE COISA IMÓVEL. LEILÃO EXTRAJUDICIAL. DEVEDOR FIDUCIANTE. NOTIFICAÇÃO PESSOAL. AUSÊNCIA. CIÊNCIA INEQUÍVOCA. REVISÃO. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A jurisprudência do Superior Tribunal de Justiça se encontra consolidada no sentido da necessidade de intimação pessoal do devedor acerca da data da realização do leilão extrajudicial, entendimento que se aplica aos contratos regidos pela Lei nº 9.514/1997.
+3. No caso concreto, rever a conclusão do tribunal de origem, que atestou a ciência inequívoca da parte devedora da data do leilão extrajudicial com a cautelar proposta com a finalidade de obstar sua realização, esbarra no óbice da Súmula nº 7/STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.678.642/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 1/3/2021, DJe de 9/3/2021.)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. LEILÃO EXTRAJUDICIAL. CERCEAMENTO DE DEFESA. NÃO CONFIGURAÇÃO. REEXAME DE PROVAS. PURGA DA MORA. VALOR INSUFICIENTE. SÚMULA 7/STJ. AUSÊNCIA DE INTIMAÇÃO. NULIDADE. NÃO OCORRÊNCIA. CIÊNCIA INEQUÍVOCA. PRECEDENTES.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+2. A Jurisprudência do STJ é firme no sentido de que não se decreta a nulidade do leilão, por ausência de intimação pessoal, se ficar demonstrada a ciência inequívoca do agravante.
+3. Agravo interno a que se nega provimento.
+(AgInt no AgInt no AREsp n. 1.463.916/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 3/12/2019, DJe de 9/12/2019.)
+Na espécie dos autos, a Corte de origem concluiu que, apesar de não havida intimação pessoal, houve inequívoco conhecimento da realização do leilão. Isso está demonstrado nos excertos a seguir, colhidos do julgamento do agravo de instrumento:
+Tratando-se no caso de imóvel dado em alienação fiduciária, consolidada a propriedade do imóvel alienado em nome da instituição financeira, a ocorrência do leilão deverá observar o estipulado no § 2º-A do art. 27 do supramencionado diploma legal, incluído pela Lei 13.465/17 que assim dispõe:
+ ..
+Na hipótese em julgamento, embora não tenha havido intimação pessoal da parte agravante, denoto que foi lhe enviado Telegrama na data de 17 de junho de 2021, recebido por Mateus Ferreira, informando acerca da realização do leilão em 22 e 24 de junho.
+E, embora o recebedor seja pessoa diversa da autora, averiguo que a correspondência foi enviada ao endereço de sua residência, vez que coincidente com o descrito na peça exordial.
+Nesse sentido, observo que o agravado cumpriu as exigências inscritas na Lei 9.514/1997, pois deu ciência à devedora acerca da data, horário e local de realização do leilão.
+Ora, nesta mesma demanda, em sede de acórdão, este Relator anulou a realização de um leilão, haja vista que não havia sido a autora notificada sobre sua ocorrência, ou seja, estava ausente sua ciência. Contudo, nesta fase processual, estava plenamente não apenas consciente da iminência de se realizar o leilão, como foi intimada no endereço de sua residência.
+Poderia a parte, inclusive, comunicar aos que na sua moradia residem chamando atenção para o fato.
+ ..
+Ressalta-se que a notificação determinada na norma específica tem o intuito de garantir ciência à parte devedora para que não seja surpreendida a respeito do leilão e que tenha chance ao exercício do direito de arrematação, o que restou cumprido na demanda, em observância à notificação enviada e recebida. (documento ordem n 27)
+Nesse sentido, colijo recente julgado do Superior Tribunal de Justiça:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO EXTRAJUDICIAL. LEI Nº 9.514/1997. ALIENAÇÃO FIDUCIÁRIA DE COISA IMÓVEL. LEILÃO EXTRAJUDICIAL. DEVEDOR FIDUCIANTE. NOTIFICAÇÃO PESSOAL. AUSÊNCIA. CIÊNCIA INEQUÍVOCA. REVISÃO. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A jurisprudência do Superior Tribunal de Justiça se encontra consolidada no sentido da necessidade de intimação pessoal do devedor acerca da data da realização do leilão extrajudicial, entendimento que se aplica aos contratos regidos pela Lei nº 9.514/1997.
+3. No caso concreto, rever a conclusão do tribunal de origem, que atestou a ciência inequívoca da parte devedora da data do leilão extrajudicial com a cautelar proposta com a finalidade de obstar sua realização, esbarra no óbice da Súmula nº 7/STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp 1678642/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 01/03/2021, DJe 09/03/2021)
+Permito-me transcrever trechos do acórdão:
+Conforme consta da decisão atacada, não se desconhece que, no âmbito do procedimento de leilão extrajudicial previsto na Lei 9.514/1997, a jurisprudência do Superior Tribunal de Justiça há muito se consolidou no sentido da necessidade de intimação pessoal do devedor acerca da data da realização do leilão extrajudicial. Contudo, o caso dos autos guarda uma peculiaridade, também admitida pela jurisprudência desta Corte, consistente no fato incontroverso de que os agravantes, embora não intimados pessoalmente, tiveram ciência inequívoca da realização do leilão extrajudicial.
+Destarte, considerando as nuances do caso, considera-se valida e regular a notificação enviada ao endereço da agravante, devendo ser mantida a decisão agravada.
+No julgamento dos embargos de declaração, a Corte estadual ratificou sua posição, no sentido de que, pelas particularidades do caso, houve notória ciência a respeito da realização do leilão.
+Leia-se:
+Insta esclarecer que o acórdão foi claro e taxativo ao pontuar as razões que acarretaram na validade e regularidade da notificação enviada ao endereço do recorrente.
+Primeiramente, pois, anteriormente, nestes mesmos autos, anulou-se a realização do leilão por ausência de ciência da parte devedora, entretanto, neste momento, de forma inquestionável era notória a embargante a iminência de designação de leilão do imóvel, aliado a isto, a notificação a respeito do agendamento foi enviada ao endereço da devedora e devidamente recebida, mediante assinatura.
+Como o acórdão recorrido está em harmonia com a jurisprudência da Casa, tem-se a aplicação da Súmula 83 do STJ.
+Ainda que não fosse assim, se a Corte estadual concluiu, a partir das circunstâncias da causa, que a parte devedora foi notoriamente cientificada acerca da realização do leilão, não vejo como o STJ poderia infirmar tal conclusão sem reexaminar matéria fática, o que é inviável no âmbito estrito do recurso especial, que é recurso de fundamentação vinculada e desatrelado da matéria fática. A propósito dessa compreensão, reporto-me à ementa do AgInt no AREsp 1.678.642/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 1/3/2021, DJe de 9/3/2021, acima reproduzida.
+Indo adiante, é incognoscível recurso especial que deixa de impugnar fundamento suficiente do acórdão recorrido.
+Confira-se:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. EMBARGOS DE DECLARAÇÃO. PRESTAÇÃO JURISDICIONAL COMPLETA. PREQUESTIONAMENTO. AUSÊNCIA PARCIAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 284/STF. NECESSIDADE DE REEXAME DE MATÉRIA FÁTICA. SÚMULAS 282, 283, 284 E 356/STF E 7/STJ.
+ .. .
+4. Ausência de impugnação específica a fundamento do acórdão recorrido atrai a incidência, por analogia, da Súmula 283 do Supremo Tribunal Federal.
+ .. .
+6. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp 1711630/SC, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 16/08/2021, DJe 18/08/2021)
+No caso, a Corte de origem assinalou, " ..  com relação à argumentação de preço vil  .. ", que essa matéria " ..  não foi objeto de exame pela decisão impugnada no recurso de agravo de instrumento.  .. ". Como o recurso especial não impugnou essa fundamentação, incide sobre o caso a orientação encampada na Súmula 283 do Supremo Tribunal Federal (STF).
+Em face do exposto, nego provimento ao recurso.
+Intimem-se.
