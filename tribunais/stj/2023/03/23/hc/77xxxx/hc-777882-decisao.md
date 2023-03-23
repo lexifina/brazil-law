@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido liminar impetrado em favor de LEONARDO JOÃO DE ARAÚJO em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Agravo em Execução n. 0007601-40.2022.8.26.0502).
+Consta dos autos ter o Juízo de primeiro grau indeferido o pleito de progressão para o regime aberto formulado em favor do paciente.
+Irresignada, a defesa ingressou com recurso, tendo o Tribunal de origem negado provimento ao agravo em execução (e-STJ fls. 47/50).
+No presente writ, sustenta que "não há fundamentação idôneo para negar a progressão de regime aberto ao paciente, pois, como restou evidenciado, o mesmo já cumpriu cautelarmente 7 (sete) meses e 9 (nove) dias de pena, restando ainda à cumprir 9 (nove) meses e 1 (um) dia, ou seja, já houve cumprimento de quase da metade da pena imposta, o que deve ser observado. Nesse diapasão, não houve acerto no v. Acórdão de fls. 205/208, quando negou provimento ao agravo, não concedendo a progressão de regime ao paciente, uma vez, que, além de não observar as peculiaridades do caso concreto, ainda, contrariou o disposto art. 93, inc. IX da Constituição Federal" (e-STJ fl. 8).
+Aduz que "não é razoável condicionar o paciente ao cárcere, para que seja analisado o direito à progressão de regime a que faz jus, pois, como restou evidenciado, já cumpriu quase à metade da pena. Nos termos do art. 112 da LEP, o paciente deveria cumprir 1/6 (um sexto) da pena imposta, para ter direito ao benefício do regime ABERTO, todavia, no caso concreto, o suplicante já cumpriu quase à metade e ainda está sendo condicionado, ficar mais tempo preso, uma vez, que o Juízo da Execução e o E. Tribunal de Justiça de São Paulo desconsideraram o tempo de prisão cautelar para o reconhecimento da progressão ou detração" (e-STJ fl. 10).
+Busca, liminarmente, a expedição de contramandado de prisão.
+No mérito, pugna "seja concedida a Ordem de Habeas Corpus para sanar os efeitos do constrangimento ilegal sofrido pelo paciente, uma vez, que a 11ª CÂMARA DE DIREITO CRIMINAL DO E. TRIBUNAL DE JUSTIÇA DE SÃO PAULO não concedeu à PROGRESSÃO DE REGIME ABERTO ao paciente, com base no art. 112 da LEP, pois, como já ventilado, já cumpriu cautelarmente quase a metade da pena imposta e tal medida foi negada pelo Tribunal de Justiça Bandeirante, sob a premissa de não haver o suplicante iniciado o cumprimento da pena" (e-STJ fls. 14/15).
+Indeferido o pedido de liminar (e-STJ fls. 57/58) e prestadas as informações solicitadas (e-STJ fls. 62/73), o Ministério Público Federal opinou pelo não conhecimento da impetração e concessão da ordem de ofício (e-STJ fls. 77/81).
+É o relatório.
+Decido.
+A impetração está prejudicada.
+Isso, porque, das informações obtidas no site do Tribunal de origem, verifica-se ter sido cumprido o mandado de prisão em desfavor do paciente, em 16/2/2023, e iniciada de fato a execução da pena. Formalizado o processo de execução, caberá ao Juízo de primeiro grau agora a devida análise do pedido de progressão de regime, razão pela qual fica esvaziado o objeto desta impetração.
+Ante o exposto, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
