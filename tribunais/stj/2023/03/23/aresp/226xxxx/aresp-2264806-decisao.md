@@ -1,0 +1,64 @@
+DECISÃO
+Trata-se de agravo, nos próprios autos, de GERSON VARGAS e VERA LÚCIA VARGAS PEDRO, objetivando a reforma da decisão de inadmissão do recurso interposto perante o Tribunal de Justiça do Estado do Paraná, em face de acórdão assim ementado (e-STJ fl. 1.383):
+APELAÇÃO CÍVEL. AÇÃO ANULATÓRIA DE ATO JURÍDICO CUMULADA COM PEDIDO DE RESTITUIÇÃO DE VALORES E INDENIZACÃO POR DANOS MORAIS E PATRIMONIAIS. PROCEDÊNCIA PARCIAL. PROPOSTA DE COMPRA. NÃO CONCRETIZAÇÃO POR NEGATIVA DE FINANCIAMENTO BANCÁRIO. CONDENAÇÃO SOLIDÁRIA DOS RÉUS AO RESSARCIMENTO DO VALOR PAGO A TÍTULO DE SINAL DE NEGÓCIO E PRINCÍPIO DE PAGAMENTO. LEGITIMIDADE PASSIVA DE VERA LUCIA VARGAS PEDRO E GERSON VARGAS. PROPRIETÁRIOS DO IMÓVEL. AUTORIZAÇÃO EXPRESSA DE VENDA. ACEITAÇÃO DA PROPOSTA POR PROCURADOR NOMEADO PELOS RÉUS. TRANSFERÊNCIA DO VALOR A TERCEIRO QUE, POSTERIORMENTE, ADQUIRIU O IMÓVEL. IRRELEVÂNCIA. RECURSO (1) CONHECIDO E DESPROVIDO. DANO MORAL. INOCORRÊNCIA. RECURSO (2) CONHECIDO E DESPROVIDO.
+Opostos embargos de declaração, foram rejeitados (e-STJ fls. 1.430/1.433).
+Sustentam estarem presentes os pressupostos de admissibilidade do recurso especial (e-STJ fls. 1.579/1.584).
+Com contraminuta (e-STJ fls. 1.594/1.598), os autos foram encaminhados a esta Corte.
+No recurso especial, fundado no artigo 105, III, "a" e "c", da Constituição Federal, além de divergência jurisprudencial, a parte recorrente aponta violação aos artigos 17, caput, e 337, XI, do Código de Processo Civil de 2015 (e-STJ fls. 1.440/1.463).
+Aduzem ilegitimidade passiva ad causam, pois " ..  RESTOU DEVIDAMENTE COMPROVADO que os Recorrentes são parte ilegítimas sob a ótica da Teoria da Asserção para responderem pelos danos alegados pelo autor/Recorrido  .. " (e-STJ fl. 1.451).
+Alegam, ainda, que " ..  próprio autor/Recorrido atribui toda a responsabilidade à Imobiliária, sendo que apenas mencionou os Recorrentes no polo passivo da ação por uma questão processual, não de mérito  .. " (e-STJ fl. 1.457).
+Com contrarrazões (e-STJ fls. 1.553/1.566).
+Assim delimitada a controvérsia, passo a decidir.
+Consoante o decidido pelo Plenário desta Corte, na sessão realizada em 9.3.2016, o regime de recurso será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, no presente caso, aplica-se o Código de Processo Civil de 2015.
+Não assiste razão à parte agravante.
+De início, quanto à ilegitimidade passiva arguida pela parte ora agravante, a controvérsia foi decidida pelo Tribunal de origem com base em circunstâncias fáticas e probatórias inerentes à causa, conforme se depreende da fundamentação do acórdão recorrido, a seguir transcrita (e-STJ fls. 1.387/1.388):
+ ..
+De plano, analisando o conjunto probatório constante dos autos, tem-se que Vera Lúcia Vargas Pedro e Gerson Vargas autorizaram a imobiliária ré, em 11 de janeiro de 2016, a vender o imóvel matriculado sob nº 24.363 - 5ª Circunscrição de Curitiba (seq. 52.6).
+Ato contínuo, em 01 de março de 2016, o autor realizou proposta de compra, constando do termo que "Nesta data, deposito em mãos da Direção da IMOBILIÁRIA ÁGUA LTDA o Depósito no do Banco: CEF Agência 0368 da conta nº 4028-9 Oper.: 003 CNPJ/MF 10.777.404/0001-40 no valor de R$ 50.000,00 (Cinquenta Mil Reais) sendo como Sinal de Negócio e princípio de pagamento. Caso os vendedores aceitam esta proposta, a importância depositada na empresa, após verificação das certidões negativas judiciais e cartoriais, e a aprovação do credito junto ao Órgão Financeiro CEF será entregue aos vendedores, já deduzido o valor da comissão de corretagem da empresa intermediária." (seq. 52.6)  ..
+Ou seja, em conformidade com o conteúdo da proposta, a importância depositada à imobiliária ré somente seria entregue aos vendedores após a aprovação do crédito pela Caixa Econômica Federal, o que não foi observado pelos réus, já que transferido a Luiz Carlos Volce, em 15/03/2016, o valor de R$ 51.305,24 (cinquenta e um mil, trezentos e cinco reais e vinte e quatro centavos) - seq. 52.5.
+E, neste ponto específico, a transferência do valor a Luiz Carlos Volce não exclui a legitimidade de Vera Lúcia Vargas Pedro e Gerson Vargas, vez que, à época da proposta e do próprio repasse pela imobiliária, eram os proprietários do imóvel, que somente foi adquirido, de fato, pelo terceiro recebedor em 30/09/2016, vide Escritura Pública de Compra e Venda da seq. 79.3.
+Outrossim, a aceitação da proposta pelos réus, através do procurador Fernando Gouveia Rodrigues (seq. 52.4), se deu em 02/03/2016, o que reforça a legitimidade de Vera Lúcia Vargas Pedro e Gerson Vargas para comporem o polo passivo da ação.
+Destarte, como identificado em sentença e não refutado nas razões recursais, inexiste qualquer prova da desistência do autor, sendo certo que o negócio jurídico não foi concretizado unicamente em razão da não aprovação do financiamento bancário.
+ ..
+Portanto, rever tais fundamentos do acórdão recorrido demandaria a alteração das premissas fático-probatórias dos autos, mediante o reexame de provas, procedimento vedado em recurso especial, ante o teor da Súmula n. 7 do Superior Tribunal de Justiça. Assim:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. 1. PARTE DO RECURSO ESPECIAL NÃO ADMITIDA NA ORIGEM PORQUE A MATÉRIA FOI JULGADA SEGUNDO O RITO DO ART. 543-C DO CPC/1973: RESP 956.943/PR - TEMA 243. NÃO CABIMENTO DO AGRAVO NESSE PONTO (CPC/2015, ART. 1.042). 2. VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS E A ENUNCIADOS DE SÚMULAS. IMPOSSIBILIDADE DE EXAME PELO STJ. 3. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. 4. ILEGITIMIDADE PASSIVA. ÔNUS DA PROVA. REEXAME. SÚMULA 7/STJ. 5. AGRAVO INTERNO DESPROVIDO.
+ ..
+4. Em relação às alegações de ilegitimidade passiva e de insuficiência do ônus da prova, é certo que reverter as conclusões do Tribunal local para acolher a pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+5. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 1.018.501/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 27/6/2017, DJe 2/8/2017).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC/1973. INEXISTÊNCIA. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 211/STJ. LEGITIMIDADE PASSIVA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7. DECISÃO MANTIDA.
+ ..
+3. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+4. No caso concreto, o Tribunal de origem concluiu pela ilegitimidade passiva, pois o agravado atuou como mandatário da sociedade empresária ao firmar o contrato de prestação de serviços advocatícios. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, vedado em recurso especial.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 512.909/DF, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 24/10/2017, DJe 30/10/2017).
+Por oportuno, a incidência da Súmula n. 7 do Superior Tribunal de Justiça impede a análise do dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão recorrido, dada a situação fática do caso, com base na qual o Tribunal de origem deu solução à causa. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CANCELAMENTO DE PLANO DE SAÚDE. INADIMPLEMENTO CONTRATUAL. DANO MORAL. NECESSIDADE DE COMPROVAÇÃO. SÚMULA 83/STJ. LESÃO EXTRAPATRIMONIAL. AUSÊNCIA DE PROVAS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. CONHECIMENTO INVIABILIZADO PELA INCIDÊNCIA DAS SÚMULAS 7 E 83 DO STJ. AGRAVO DESPROVIDO.
+1. Esta Corte Superior entende que a lesão extrapatrimonial não decorre de simples inadimplemento contratual, sendo necessária a demonstração de ofensa a direitos da personalidade. Incidência do enunciado n. 83 da Súmula do STJ.
+2. Tendo o Tribunal de origem concluído que não houve a comprovação de prejuízo extrapatrimonial, a desconstituição do acórdão estadual demandaria o revolvimento fático-probatório, providência vedada na via eleita, ante a incidência do enunciado n. 7 da Súmula do STJ.
+3. A incidência dos enunciados n. 7 e 83 da Súmula do STJ impede o conhecimento do recurso interposto tanto pela alínea a quanto pela alínea c do permissivo constitucional.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 1.304.018/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 15/4/2019, DJe 23/4/2019 - sem destaques no original).
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMÓVEL. PROMESSA DE COMPRA E VENDA. RESCISÃO. PARCELAS PAGAS. RETENÇÃO. ENTENDIMENTO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA N. 83/STJ. PERCENTUAL. REEXAME DO CONTRATO E DOS DEMAIS ELEMENTOS FÁTICO-PROBATÓRIOS DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. INOVAÇÃO RECURSAL. INVIABILIDADE. DECISÃO MANTIDA.
+ ..
+2. O recurso especial não comporta exame de questões que impliquem reexame do contrato e dos demais elementos fático-probatórios dos autos (Súmulas n. 5 e 7 do STJ).
+3. No caso concreto, alterar o percentual de retenção demandaria nova análise do conjunto probatório do feito, vedado em recurso especial.
+4. A incidência das Súmulas n. 5, 7 e 83 do STJ obsta o conhecimento do recurso especial pela alínea "c" do permissivo constitucional, consoante a jurisprudência desta Corte.
+5. Incabível o exame de tese não exposta no recurso especial e invocada apenas em momento posterior, pois configura indevida inovação recursal.
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.387.976/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 13/5/2019, DJe 20/5/2019 - sem destaques no original).
+Por fim, o recurso especial também não pode ser conhecido com fundamento na alínea "c" do inciso III do artigo 105 da Constituição Federal, pois a parte recorrente deixou de proceder ao cotejo analítico entre os acórdãos confrontados, com o escopo de demonstrar que partiram de situações fático-jurídicas idênticas e adotaram conclusões discrepantes.
+Cumpre ressaltar, ainda, que o recorrente deve transcrever os trechos dos acórdãos que configurem o dissídio, mencionando as circunstâncias dos casos confrontados, sendo insuficiente, para tanto, a mera transcrição de ementas. Assim:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. DIVERGÊNCIA QUANTO A TÉCNICAS DE CONHECIMENTO. EXAME. IMPOSSIBILIDADE. ACÓRDÃO PARADIGMA E EMBARGADO. SIMILITUDE FÁTICA. AUSÊNCIA. COTEJO ANALÍTICO. NÃO REALIZADO.
+1. Ação declaratória de inexistência débito c/c indenização por dano moral.
+2. Revela-se inviável rever, em embargos de divergência, a aplicação de regras técnicas de conhecimento do recurso especial, o que ocorre quando o acórdão embargado ou o paradigma sequer adentra no mérito do recurso especial, interpretando os pressupostos de admissibilidade dessa espécie recursal.
+3. Os embargos não podem ser conhecidos pela divergência se o embargante não providencia o devido cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas, nos termos do disposto no artigo 266, § 4º, do RISTJ.
+4. Agravo interno não provido.
+(AgInt nos EDv nos EAREsp n. 1.482.590/MT, Rel. Ministra NANCY ANDRIGHI, CORTE ESPECIAL, julgado em 7/4/2020, DJe 17/4/2020 - sem destaques no original).
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. AÇÃO REGRESSIVA. SEGURADORA CONTRA O CAUSADOR DO DANO. SUB-ROGAÇÃO. TERMO INICIAL DO PRAZO PRESCRICIONAL A PARTIR DO PAGAMENTO DO SEGURO. AUSÊNCIA DE COTEJO ANALÍTICO ENTRE OS ARESTOS CONFRONTADOS. ACÓRDÃO EMBARGADO PROFERIDO EM CONSONÂNCIA COM O DECISUM PARADIGMA. AGRAVO INTERNO DESPROVIDO.
+1. O conhecimento dos embargos de divergência pressupõe a demonstração efetiva do dissídio entre o acórdão embargado e o paradigma, mediante a indicação das circunstâncias que identifiquem ou assemelhem os casos confrontados. Na hipótese, o recorrente não providenciou o devido cotejo analítico entre o acórdão embargado e aqueles apontados como paradigmas, a fim de demonstrar a similitude fática com soluções jurídicas distintas entre os arestos, conforme muito bem consignado na decisão agravada proferida pela Presidência desta Corte.
+ ..
+3. Agravo interno desprovido.
+(AgInt nos EAREsp n. 1.305.923/DF, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 3/12/2019, DJe 10/12/2019).
+Em face do exposto, nego provimento ao agravo e, ainda, nos termos do artigo 85, § 11, do Código de Processo Civil de 2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
