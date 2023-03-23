@@ -1,0 +1,60 @@
+DECISÃO
+Trata-se de agravo de VALDECIR BATISTA DA SILVA contra decisão proferida no TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que inadmitiu o recurso especial interposto com fundamento no art. 105, III, alínea "a", da Constituição Federal - CF, contra acórdão proferido no julgamento de apelação criminal n. 1511053-29.2020.8.26.0348.
+Consta dos autos que o agravante foi condenado pela prática do delito tipificado no art. 157, § 2º, II, e § 2º-A, I, do Código Penal - CP (roubo em concurso de pessoas e emprego de arma de fogo), à pena de 7 anos, 9 meses e 10 dias de reclusão, em regime inicial fechado, e 20 dias-multa (fl. 352).
+Recurso de apelação interposto pela defesa foi desprovido. O apelo ministerial foi provido para cumular as causas de aumento, ficando a pena definitiva em 10 anos, 4 meses e 13 dias de reclusão e 23 dias-multa (fl. 357). O acórdão ficou assim ementado:
+"Roubo qualificado pelo emprego de arma de fogo e pelo concurso de agentes - Higidez do quadro probatório - Confirmação, pela vítima, do episódio delitivo - Manutenção da r. decisão condenatória.
+Pena - Maus antecedentes certificados que autorizam a exasperação - Fração consentânea - Prazo depurador do artigo 64 do Código Penal - Inaplicabilidade.
+Reincidência e confissão espontânea - Compensação inalterada
+Dupla causa de aumento de pena - Majoração sob a fração de 1/3 pelo concurso de agentes e, na sequência, pela fração de 2/3 - Readequação do critério dosimétrico - Necessidade.
+Regime prisional fechado - Roubo biqualificado pelo emprego de arma e pelo concurso de agentes - Necessidade - Réu condenado a pena superior a quatro anos, com condenações definitivas certificadas por idênticas práticas - Aptidão a frear ímpetos criminosos em circunstância de absoluta intranquilidade social. Apelos defensivo improvido e acusatório provido." (fl. 352).
+Em sede de recurso especial (fls. 367/376), a defesa apontou violação ao art. 68, parágrafo único, do CP, porque o Tribunal paulista aplicou as causas de aumento concomitantemente. Destaca a literalidade do dispositivo para concluir que a existência de duas causas de aumento, por si só, não justifica a aplicação cumulada.
+Requer seja aplicada apenas a fração de 2/3 na terceira fase.
+Contrarrazões (fls. 384/388).
+O recurso especial foi inadmitido no TJ em razão dos óbices das Súmulas n. 7 e n. 182, ambos do Superior Tribunal de Justiça - STJ (fls. 391/392).
+Em agravo em recurso especial, a defesa impugnou os referidos óbices (fls. 398/402).
+Contraminuta (fls. 406/408).
+Os autos vieram a esta Corte, sendo protocolados e distribuídos. Aberta vista ao Ministério Público Federal - MPF, este opinou pelo não conhecimento ou desprovimento do agravo em recurso especial (fls. 420/426).
+É o relatório.
+Decido.
+Atendidos os pressupostos de admissibilidade do agravo em recurso especial, passa-se à análise do recurso especial.
+Sobre a violação ao art. 68, parágrafo único, do CP, o Tribunal paulista consignou o seguinte (grifos nossos):
+"Merece prosperar o brado ministerial, sorte alguma se reservando ao reclamo defensivo, senão vejamos.
+A materialidade e a autoria estão suficientemente comprovadas, calcadas no boletim de ocorrência, nas xerocópias de fotografias juntadas, nos autos de exibição e apreensão e de reconhecimentos pessoais positivos e nos laudos de exame de local e de exame de arma de fogo, bem como nas demais provas carreadas aos autos.
+Em sua oitiva, a vítima Sebastião reportou-se ao momento em que, parado na via pública com sua esposa Márcia por conta de pouco antes haver abalroado seu veículo, foram abordados por dois sujeitos, arma em punho, a anunciarem o assalto, ingressando, eles, na sequência, em seu automóvel, partindo em disparada. Reconheceu o acusado como o protagonista do roubo, o qual deixou o local a conduzir o carro.
+No mesmo sentido a versão ofertada por sua esposa Márcia, presente no palco dos acontecimentos.
+Alisson disse que no dia do ocorrido teve sua motocicleta atingida por dado automóvel, sendo lançado ao solo, sofrendo ferimentos.
+Inquiridos, na fase investigatória, os policiais militares Thiago, Adelton e Reinaldo centraram sua versão na perseguição ao veículo conduzido pelo réu e por seu comparsa, que, a final, bateu em motocicleta. Dois os ocupantes do veículo, um deles, prenome Gabriel, efetuando disparos contra a guarnição policial, revidados. O réu foi detido pouco depois, após dispensar a arma de brinquedo em sua posse; Gabriel, atingido no revide aos disparos por ele efetuados, veio a óbito; o réu e seu comparsa conduziam veículo roubado; as vítimas Sebastião e Márcia reconhecerem no inculpado e em seu comparsa Gabriel os protagonistas do roubo realçaram.
+O policial militar Leonardo, linhas gerais, fez reverberar sua versão.
+Na fase administrativa, o acusado negou envolvimento no ilícito.
+Em Juízo, a vítima reiterou sua versão original, reconhecendo no réu um de seus algozes.
+Alisson voltou a dizer que fora vítima de acidente.
+Inquiridos, em Juízo não foi diferente, ratificando, os agentes policiais, a versão ofertada em solo policial.
+O acusado, ao ensejo de seu interrogatório judicial, dizendo-se arrependido, admitiu seu envolvimento no ilícito.
+De rigor, pois, a condenação.
+O vínculo subjetivo, requisito para o concurso de pessoas, foi acertadamente reconhecido, uma vez que agiu, o indigitado e seu comparsa, em conluio, com nítida divisão de tarefas.
+A causa de aumento consistente no emprego de arma de fogo foi mencionada pelas vítimas em Juízo, sendo apreendida e periciada, sendo incontestável o poder intimidatório da abordagem em tal circunstância, logrando êxito, o agente e seu comparsa, na subtração dobem, delineando-se perfeitamente a forma consumada do delito.
+As vítimas reconheceram na pessoa do réu um dos protagonistas do roubo, não se havendo descredenciar o reconhecimento pessoal, não só porque não eivado de quaisquer irregularidades como pelo fato de que elas não mantinham vínculo de qualquer natureza com o indigitado, não sendo razoável quisessem incriminá-lo por mero deleite ou para satisfação pessoal.
+As penas merecem redimensionamento.
+Os maus antecedentes certificados na fase inicial do cálculo dosimétrico autorizam a exasperação, consentâneo o patamar eleito, à conta da sexta parte, elevando-se as penas a 04 anos e 08 meses de reclusão e 111 dias-multa.
+ ..
+Na fase subsequente, inalterada a compensação entre a atenuante da confissão espontânea e a agravante da reincidência.
+Na terceira fase da dosimetria, deve incidir o acréscimo de 1/3 pela causa de aumento da comparsaria, alçando-se as penas a 06 anos, 02 meses e 20 dias de reclusão e 14 dias-multa, e, na sequência, o acréscimo de mais 2/3, pelo emprego de arma de fogo o que se tem por adequado diante das circunstâncias do caso concreto, reforçado que a regra do § único do artigo 68 do Código penal é mera faculdade concedida ao magistrado perfazendo-se as penas finais, ausentes circunstâncias modificadoras, de 10 anos, 04 meses e 13 dias de reclusão e 23 dias-multa, no menor valor unitário.
+Ademais, admitir-se o contrário seria o mesmo que incentivar o ladravaz a incorrer em quaisquer outras causas elencadas no dispositivo, sendo punido apenas pelo emprego de arma de fogo, traduzindo-se, por assim dizer, em verdadeira impunidade, contrário do que busca a Sociedade." (fls. 353/356).
+Extrai-se do trecho acima que o Tribunal paulista fez cumular as causas de aumento do concurso de pessoas e emprego de arma de fogo ante as circunstâncias do caso concreto que constam no acórdão, roubo de veículo com perseguição policial, acidente de trânsito e troca de disparos, culminando inclusive com o falecimento do corréu.
+Tal entendimento encontra amparo na jurisprudência desta Corte, pois a gravidade da conduta demanda maior reprovação estatal. No mesmo sentido, citam-se precedentes:
+AGRAVO REGIMENTAL. HABEAS CORPUS. ROUBO MAJORADO PELO EMPREGO DE ARMA E CONCURSO DE AGENTES. ART. 157, § 2º, II, E § 2º-A, I, DO CP. DOSIMETRIA. PENA-BASE. INOVAÇÃO DE TESE RECURSAL. TERCEIRA FASE. PRESENÇA DE DUAS CAUSAS DE AUMENTO. POSSIBILIDADE. ART.68, PARÁGRAFO ÚNICO, DO CP. INDICAÇÃO DE MOTIVAÇÃO CONCRETA. FRAÇÃO DE AUMENTO EM PATAMAR SUPERIOR AO MÍNIMO LEGAL. FUNDAMENTAÇÃO CONCRETA. PRECEDENTES.
+1. Afasta-se a análise do pleito de revisão da pena- base em razão da falta de fundamentação idônea para a negativação da circunstância judicial referente às consequências da ação delituosa, uma vez que a tese ora suscitada não foi apresentada quando da impetração do writ, o que caracteriza inovação de tese recursal, inadmissível na via eleita.
+2. Segundo a jurisprudência desta Corte, mostra- se legítima a aplicação cumulada das majorantes relativas ao concurso de pessoas e ao emprego de arma de fogo, no crime de roubo, quando as circunstâncias do caso concreto demandarem uma sanção mais rigorosa, especialmente diante do modus operandi do delito (AgRg no HC n. 520.094/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 9/3/2020).
+3. A individualização da pena é submetida aos elementos de convicção judiciais acerca das circunstâncias do crime, cabendo às Cortes Superiores apenas o controle da legalidade e da constitucionalidade dos critérios empregados, a fim de evitar eventuais arbitrariedades.
+Destarte, salvo flagrante ilegalidade, o reexame das circunstâncias judiciais e dos critérios concretos de individualização da pena mostram-se inadequados à estreita via do habeas corpus, pois exigiriam revolvimento probatório (HC n. 549.438/RJ, Ministro Ribeiro Dantas, Quinta Turma, DJe 12/2/2020).
+4. Agravo regimental improvido.
+(AgRg no HC 701.450/SC, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 08/03/2022, DJe 15/03/2022).
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. ROUBO MAJORADO. DOSIMETRIA. CÚMULO DE CAUSAS DE AUMENTO DE PENA. PLEITO DE APLICAÇÃO APENAS DA MAJORANTE DE MAIOR VALOR. IMPROCEDÊNCIA.
+INTERPRETAÇÃO CORRETA DO ART. 68, PARÁGRAFO ÚNICO, DO CP. POSSIBILIDADE DE APLICAÇÃO DAS DUAS CAUSAS DE AUMENTO, MEDIANTE FUNDAMENTAÇÃO CONCRETA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+II - A jurisprudência da Suprema Corte é no sentido de que o art. 68, parágrafo único, do Código Penal, não exige que o juiz aplique uma única causa de aumento referente à parte especial do Código Penal, quando estiver diante de concurso de majorantes, mas que sempre justifique quando da escolha da cumulação das causas de aumento. Portanto, qualquer que seja a solução, ela deve ser fundamentada. Não pode ser automática. Isso porque o Código Penal diz, tanto no parágrafo único do art. 68, como no § 2º do art. 157, "pode o juiz" e "aumenta-se de 1/3 até metade", indicando claramente, que a opção do magistrado há que ser fundamentada, sob pena de se transmutar a discricionariedade permitida com um inaceitável arbítrio próprio do princípio da convicção íntima.
+III - In casu, na terceira fase da dosimetria, o cúmulo das majorantes foi devidamente fundamentado, lastreando- se no fato do crime ter sido cometido por quatro agentes, mediante emprego de arma de fogo, bem como no modus operandi utilizado no delito, vale dizer, "o crime foi cometido, no mínimo, por quatro agentes e com o emprego de arma de fogo (o que expôs a um grande risco a integridade corporal da vítima e de seu filho".
+Habeas corpus não conhecido.
+(HC 693.056/SP, Rel. Ministro JESUÍNO RISSATO (DESEMBARGADOR CONVOCADO DO TJDFT), QUINTA TURMA, julgado em 23/11/2021, DJe 26/11/2021).
+Ante o exposto, conheço do agravo para conhecer do recurso especial e, com fundamento na Súmula n. 568 do STJ, negar-lhe provimento.
+Publique-se. Intimem-se.
