@@ -1,0 +1,49 @@
+DECISÃO
+
+RECURSO EXTRAORDINÁRIO COM AGRAVO. SERVIDOR MUNICIPAL. PROGRESSÃO FUNCIONAL. ANÁLISE DE LEGISLAÇÃO LOCAL E REEXAME DE FATOS E PROVAS: IMPOSSIBILIDADE NO CAMPO EXTRAORDINÁRIO. ÓBICES DOS ENUNCIADOS Nº 279 E Nº 280 DA SÚMULA DO STF. NEGATIVA DE PROVIMENTO.
+
+ 1.	Trata-se de agravo contra decisão negativa de admissibilidade de recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de Alagoas, cuja ementa segue abaixo:
+
+“DIREITO ADMINISTRATIVO. APELAÇÃO CÍVEL EM AÇÃO DECLARATÓRIA C/C OBRIGAÇÃO DE FAZER C/C COBRANÇA. SERVIDOR PÚBLICO. GUARDA CIVIL DO MUNICÍPIO DE SÃO MIGUEL DOS CAMPOS. SENTENÇA QUE JULGOU IMPROCEDENTE A PRETENSÃO AUTORAL, POR MEIO DA QUAL VISAVA O RECONHECIMENTO DAS TITULAÇÕES DE NÍVEL SUPERIOR E PÓS-GRADUAÇÃO PARA FINS DE PROGRESSÃO NA CARREIRA PARA O NÍVEL 3, CLASSE E, BEM COMO O PAGAMENTO DA DIFERENÇA SALARIAL. IMPUGNAÇÃO AVENTADA PELO APELADO, AO DEFERIMENTO DA JUSTIÇA GRATUITA EM FAVOR DOAUTOR. NÃO ACOLHIDA, ANTE O FENÔMENO DA PRECLUSÃO. APELANTE QUE DEMONSTROU CONCLUSÃO DO CURSO SUPERIOR DE PEDAGOGIA E DE CURSO DE PÓS-GRADUAÇÃO LATO SENSU EM GETÃO ESCOLAR E GESTÃO DE SEGURANÇA PÚBLICA E PRIVADA. PLEITO DE PROGRESSÃO INDEFERIDO, UMA VEZ QUE O CURSO SUPERIOR DE PEDAGOGIA NÃO ESTÁ PREVISTO NO DECRETO MUNICIPAL Nº 13.902/2016 COMO CORRELATO ÀS FUNÇÕES DE GUARDA CIVIL MUNICIPAL. LEI MUNICIPAL Nº 1.432/2015 QUE EXIGE PARA O SERVIDOR PROGREDIR POR TITULAÇÃO NA CARREIRA AO NÍVEL 3, A DEMONSTRAÇÃO DE HABILITAÇÃO EM CURSO SUPERIOR DE GRADUAÇÃO E DE PÓS-GRADUAÇÃO LATO SENSU, DESDE QUE SEJAM EM ÁREA RELACIONADA À SUA ATUAÇÃO. DECRETO MUNICIPAL Nº 13.0902/2016 QUE FIXOU QUAIS SERIAM OS CURSOS SUPERIORES CORRELATOS PARA CADA CARGO, ESTABELECENDO, NO CASO, PARA O CARGO DE GUARDA CIVIL MUNICIPAL, TÃO SOMENTE OS CURSOS SUPERIORES DE GESTÃO PÚBLICA, ADMINISTRAÇÃO EM GERAL E DIREITO. IMPOSSIBILIDADE. VIABILIDADE DE CONSIDERAR O CURSO SUPERIOR DE PEDAGOCIA COMO CORRELATO À ÁREA DE ATUAÇÃO DO CARGO DE GUARDA CIVIL MUNICIPAL. CURSO DE PÓS-GRADUAÇÃO LATO SENSU EM GESTÃO ESCOLAR E GESTÃO DE SEGURANÇA PÚBLICA E PRIVADA TAMBÉM REPUTADO DEVIDO PARA OS FINS DE PROGRESSÃO, DIREITO DO APELANTE DE PROGREDIR PARA O NÍVEL 3, CLASSE E. SENTENÇA REFORMADA PARA JULGAR PROCEDENTE A PRETENSÃO AUTORAL, DE MODO A RECONHECER O DIREITO DO APELANTE À PROGRESSÃO AO NÍVEL 3, CLASSE E, BEM COMO CONDENAR O RÉU AO PAGAMENTO DOS VALORES RETROATIVOS DESDE A DATA DO REQUERIMENTO ADMINISTRATIVO, 18.04.2016. FIXAÇÃO DOS JUROS DE MORA E DA CORREÇÃO MONETÁRIA, POR SE TRATAREM DE CONSECTÁRIOS LEGAIS. INVERSÃO DO ÔNUS DA SUCUMBÊNCIA. RECURSO CONHECIDO E PROVIDO. UNANIMIDADE. “ (e-doc. 17).
+
+2. Opostos embargos de declaração, não foram providos (e-doc. 22).
+
+3. No recurso extraordinário, o recorrente afirma violados os arts. 37 e 84, IV, da Constituição da República. Discorre sobre a impossibilidade de concessão da progressão pleiteada, tendo em vista que o curso superior do qual o recorrido é portador de diploma não guarda relação com a atividade desempenhada, na forma do estabelecido em lei municipal. Alega contrariado o princípio da legalidade. Requer o provimento do recurso, a fim de serem julgados improcedentes os pedidos iniciais. (e-doc. 24).
+
+É o relatório.
+
+Decido.
+
+4. Transcrevo, para melhor entendimento da questão ora trazida a julgamento, os fundamentos do acórdão recorrido:
+
+“12. (...) O cerne da controvérsia consiste em averiguar se há possibilidade (ou não) de progressão funcional para o nível E-3, tendo em vista que houve a conclusão do curso superior  (Pedagogia - fls. 19/20), mais a pós-graduação (Gestão Escolar e Gestão de Segurança Pública e Privada - fls. 21/23), uma vez que o Decreto Municipal nº 13.902/2016 restringiu para o cargo de Guarda Civil Municipal os cursos superiores de Gestão Pública, Administração Geral e Direito.
+13. A respeito, a progressão funcional encontra esteio nos arts. 14 e 15 da Lei municipal nº 1.432/2015:
+(...)
+14. A partir da análise dos dispositivos supracitados, conclui-se que para que o autor, ora apelante, progrida para o Nível de vencimento 3, conforme pretendido na exordial, precisa concluir curso superior e curso de pós-graduação em área relacionada a sua atuação.
+15. Mas afinal, o que seria curso em área relacionada/correlata? A referida  Lei Municipal nº 1.432/2015, em seu art. 3º, inciso XXIII, estabelece que “curso em área correlata” como aquele que “relaciona-se com as atribuições de cada cargo, que possui relação direta com o ambiente organizacional da atuação profissional do servidor, que tem relação direta com as atividades desenvolvidas pelo servidor”.
+16. Acontece que, por meio do Decreto Municipal nº 13.902, o ente público restringiu os cursos superiores correlatos para cada cargo, no caso, para o cargo de Guarda Civil Municipal, somente os cursos de Gestão Pública, Administração em Geral e Direito.
+17. Sem maiores delongas, não poderia o Decreto Municipal restringir excessivamente a incidência da previsão legal, o que afronta o princípio da legalidade e a real intenção do legislador no momento da criação da norma.
+18. Em outras palavras, é nítido que para o cargo de Guarda Municipal Civil área relacionada/correlata não se limita aos cursos superiores de Gestão Pública, Administração em Geral e Direito. Portanto, a meu ver, o autor faz jus à progressão ao Nível de vencimento 3, considerando que concluiu curso superior de Pedagogia e pós-graduação em Gestão Escolar e Gestão de Segurança Pública e Privada, uma vez que o próprio diploma legal municipal (Lei nº 1.432/2015) estabelece que uma das atividades associadas ao cargo de Guarda Civil Municipal é “atuar mediante ações preventivas na segurança escolar, zelando pelo entorno e participando de ações educativas como o corpo discente e docente das unidades de ensino municipal, de forma a colaborar com a implantação da cultura da paz na comunidade local”.
+19.  Em relação à Classe, fixada de acordo com o tempo de serviço, levando em consideração que a admissão do apelante ocorreu em 05/10/2007, contabilizando pouco mais de 13 (treze) anos de serviço público no Município, deve progredir para a Classe E, a qual inclui aqueles que somam tempo de serviço entre 12 (doze) anos e 01 (um) dia até 15 (quinze) anos.” (e-doc 17; grifos acrescidos).
+
+5. Observa-se que Tribunal de origem dirimiu a controvérsia com fundamento nos pressupostos fáticos constantes dos autos e considerada a legislação local. Assim, somente a partir da apreciação dos elementos probatórios e de normas infraconstitucionais, seria possível concluir de forma diversa do consignado pelo Colegiado a quo, o que é inviável no campo extraordinário, conforme os enunciados nº 279 e nº 280 da Súmula do STF. Confiram-se as seguintes ementas:
+
+“Recurso. Agravo de instrumento convertido em Extraordinário. Inadmissibilidade deste. Progressão salarial. Extensão. Servidores públicos efetivados pela Lei estadual nº 10.254/1990. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto extensão de progressão salarial a servidores públicos efetivados pela Lei 10.254/1990 do Estado de Minas Gerais, versa sobre tema infraconstitucional.”
+(AI nº 843.751-RG/MG, Tema nº 420, Rel. Min. Cezar Peluso, Tribunal Pleno, j. 09/06/2011, p. 15/09/2011).
+
+“AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. POLICIAL FEDERAL. PROGRESSÃO FUNCIONAL. LICENÇA PARA DESEMPENHO DE MANDATO CLASSISTA. PERÍODO NÃO CONSIDERADO DE EFETIVO EXERCÍCIO PARA A PROGRESSÃO. LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. FATOS E PROVAS. REEXAME. IMPOSSIBILIDADE. PRECEDENTES. 1. O recurso extraordinário não se presta ao reexame dos fatos e das provas constantes dos autos (Súmula 279 do STF). 2. Agravo interno desprovido, com imposição de multa de 5% (cinco por cento) do valor atualizado da causa (artigo 1.021, § 4º, do CPC), caso seja unânime a votação. 3. Honorários advocatícios majorados ao máximo legal em desfavor da parte recorrente, caso as instâncias de origem os tenham fixado, nos termos do artigo 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º e a eventual concessão de justiça gratuita.”
+(ARE nº 1.313.842-AgR/DF, Rel. Min. Luiz Fux, Tribunal Pleno, j. 12/05/2021, p. 25/05/2021).
+
+“Agravo regimental no recurso extraordinário com agravo. 2. Direito Administrativo. Servidor público municipal inativo. 3. Promoção e progressão. Reexame de fatos e provas e análise de legislação local. Incidência das Súmulas 279 e 280 desta Corte. 4. Ausência de argumentos capazes de infirmar a decisão agravada. 5. Agravo regimental a que se nega provimento. “
+(ARE 1.346.151-AgR/SP, Rel. Min. Gilmar Mendes, Segunda Turma, j. 09/03/2022, p. 18/03/2022).
+“DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. SERVIDOR PÚBLICO. PROGRESSÃO FUNCIONAL. LEI COMPLEMENTAR ESTADUAL. AUSÊNCIA DE QUESTÃO CONSTITUCIONAL. SÚMULA 280/STF. 1. A solução da controvérsia demandaria a análise da legislação infraconstitucional aplicada à espécie, procedimento vedado neste momento processual. Precedentes. 2. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não é cabível, na hipótese, condenação em honorários advocatícios (art. 25 da Lei nº 12.016/2009 e Súmula 512/STF). 3. Agravo interno a que se nega provimento.”
+(ARE 1.219.420-AgR-Segundo/AC, Rel Min. Roberto Barroso, Primeira Turma, j. 13/12/2019, p. 03/02/2020).
+
+6. Ante o exposto, nego provimento ao agravo no recurso extraordinário, nos termos do art. 21, § 1º, do RISTF. Considerando ter havido condenação em honorários advocatícios pela instância anterior (e-doc. 17, p. 15), majoro seu valor em 10% (dez por cento), a título de honorários recursais, na forma do art. 85, § 11, do CPC.
+
+Publique-se.
+
+Brasília, 23 de março de 2023.
+
+Ministro ANDRÉ MENDONÇA
+Relator
