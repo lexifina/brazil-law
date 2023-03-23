@@ -1,0 +1,41 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por FRANCIELLY CORREIA FELIX, contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 29/11/2022.
+Concluso ao gabinete em: 17/03/2023.
+Ação: de reparação por danos morais e repetição de indébito ajuizada pela ora agravante em face de ANHANGUERA EDUCACIONAL LTDA, alegando, em síntese, que firmou contrato de prestação de serviços educacionais com a ré, e que durante a vigência da avença, sua grade curricular era alterada semestralmente, o que fazia com que a mensalidade sempre aumentasse.
+Narra que deu início ao curso com mensalidades de R$628,20, e que findou os estudos com mensalidades de até R$ 4.572,13. Frisa que o consumidor não pode ser pego de surpresa e que tinha expectativa de cursar todos os semestres pagando preços justos. Consigna que por diversas vezes procurou pela secretaria da universidade com o escopo de solucionar a questão, sem êxito.
+Pugna pela condenação da agravada ao ressarcimento dobrado dos valores que entende terem-lhe sido cobrados indevidamente (R$ 49.918,88), bem como ao pagamento de indenização por danos morais, no importe de R$ 20.000,00.
+Sentença: julgou improcedente o pedido.
+Acórdão: negou provimento ao recurso de apelação interposto pela agravante, nos termos da seguinte ementa:
+PRESTAÇÃO DE SERVIÇOS EDUCACIONAIS. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIA E MORAL. Curso universitário. Disciplinas extra curriculares escolhidas e cursadas pela autora. Cobrança pela contra prestação que foi regular. Previsão contratual. Abusividade ou ilegalidade não configurados. Recurso desprovido.
+Embargos de Declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 5º, LV da Constituição Federal; 1694, §1º do Código Civil e dos arts. 369 e 371 do Código de Processo Civil, bem como dissídio jurisprudencial. Argumenta, em síntese, que os serviços adicionais contratados ultrapassaram a média dos valores da mensalidade, sendo, assim, abusivos. Sustenta tal conduta da agravada teria causado profundo abalo psicológico à agravante, que, dentre os deveres incumbidos à agravada estava o de contraprestação de seus serviços a contento, o que não foi feito. Ressalta que não pode ser pega de surpresa e obrigada a arcar com valores abusivos para cursar as matérias adicionais, pois o que se esperava era o pagamento de preços justos.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação de dispositivo constitucional
+A interposição de recurso especial não é cabível quando ocorre violação de súmula, de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+- Do reexame de fatos e provas e da interpretação de cláusulas contratuais
+O TJ/SP ao analisar o recurso interposto pela agravante, concluiu o seguinte (e-STJ fls. 419/422):
+Pois bem, do contrato celebrado entre as partes verifica-se que foi ajustada a prestação de serviços escolares para o curso de Direito, no período letivo de 2015 a 2020 (fls.273/276).
+No referido instrumento, foi pactuado que: "Na hipótese do contratante cursar menos ou mais disciplinas no semestre letivo em relação à grade curricular regular do semestre, a mensalidade escolar devida pelo contratante será ajustada tendo como referência, conforme Lei de Mensalidades Escolares (Lei 9.870/99): a) o número de disciplinas cursadas; b) os custos fixos da contratada e serviços que estarão disponibilizadas em tempo integral ao contratante como laboratórios de informática, biblioteca, setores de atendimentos, considerando-se para os fins previstos neste item, o percentual de 20% (vinte por cento) sobre o total da semestralidade correspondente à grade curricular regular, o qual será aplicado integralmente.", cláusula 3.3 de fls. 286, reproduzida em todos os anos às fls. 296, 306, 316, 326, 337 e 346 e destacada, inclusive, na r. sentença.
+Ora, do referido contrato consta expressamente os serviços que seriam prestados à apelante e a forma de cobrança.
+Por sua vez, o extrato financeiro de fls. 277/278 revela que no primeiro ano do curso foi cobrado da autora o valor máximo de R$775,55 (setecentos e setenta e cinco reais e cinquenta e cinco centavo), passando para R$ 822,57 (oitocentos e vinte e dois reais e cinquenta e sete centavos) no ano seguinte; R$ 985,13 (novecentos e oitenta e cinco reais e treze centavos) em 2017; R$ 1.079,70 (um mil e setenta e nove reais e setenta centavos) em 2018; R$ 1.201,74 (um mil e duzentos e um reais e setenta e quatro centavos) em 2019; e R$ R$ 1.321,67 (um mil e trezentos e vinte e um reais e sessenta e sete centavos) no último ano.
+Pelo que se apura do conjunto probatório, o aumento dos valores das mensalidades deveu-se ao acréscimo de matérias extracurriculares a pedido da autora, as quais cursou regularmente, conforme demonstra o histórico escolar de fls.273/276.
+Desse modo, não há abusividade tampouco ilegalidade a ser reconhecida no caso concreto, tendo em vista que no contrato acima citado foi ajustado que a aluna seria responsável pela montagem e aceitação de sua grade curricular, bem como poderia incluir matérias extracurriculares, o que geraria a adição do valor correspondente ao aumento da carga horária.
+Nesse sentido, confira-se: "Declaratória Prestação de serviços educacionais Insurgência contra a cobrança de diferenças relativas à mensalidade escolar Abusividade não evidenciada Ação julgada improcedente Sentença corretamente fundamentada Ratificação nos moldes do art. 252 do Regimento Interno deste E. Tribunal Recurso improvido."
+Registre-se que foi exatamente o que ocorreu no caso, ou seja, durante o curso, por livre escolha e em conformidade com a contratação, a aluna incluiu em sua grade matérias extracurriculares, o que ensejou o regular acréscimo de valores pela respectiva prestação adicional de serviços educacionais.
+De se ressaltar que a apelante cursou as referidas matérias, usufruindo sem qualquer empecilho a prestação dos serviços contratados e somente depois da conclusão do cursos e insurgiu contra as cobranças.
+Assente-se que verificada a legitimidade dos acréscimos de valores na mensalidade escolar por adição de matérias extracurriculares a pedido da aluna, outro não poderia ter sido o resultado desta ação.
+Desse modo, alterar o decidido no acórdão impugnado, quanto ao ponto, exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+- Da divergência jurisprudencial
+Além disso, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgInt no AREsp 821337/SP, 3ª Turma, DJe de 13/03/2017 e AgInt no AREsp 1215736/SP, 4ª Turma, DJe de 15/10/2018.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 5% os honorários fixados anteriormente, observada eventual gratuidade de justiça deferida.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO POR DANOS MORAIS E REPETIÇÃO DE INDÉBITO. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL. DESCABIMENTO. REEXAME DE FATOS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. DISSÍDIO PREJUDICADO.
+1. Ação de reparação por danos morais e repetição de indébito.
+2. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional, de súmula ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+3. O reexame de fatos e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+4. A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+5. Agravo conhecido. Recurso especial não conhecido.
