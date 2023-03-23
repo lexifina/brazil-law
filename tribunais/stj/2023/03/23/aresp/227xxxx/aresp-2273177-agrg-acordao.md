@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros João Batista Moreira (Desembargador convocado do TRF1), Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. ABSOLVIÇÃO. PRETENSÃO MINISTERIAL CONDENATÓRIA. AUSÊNCIA DE PROVAS CONCLUSIVAS PELAS INSTÂNCIAS ORDINÁRIAS. REEXAME DO ACERVO FÁTICO-PROBATÓRIO DELINEADO NOS AUTOS. SÚMULA 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+I - O eg. Tribunal a quo, ao apreciar os elementos de prova constituídos nos autos, manteve a absolvição pela acentuada dúvida acerca da autoria delitiva.
+II - Na hipótese, entender pela suficiência probatória acerca da autoria delitiva para condenar o agravado, como pretende o Parquet, demandaria, necessariamente, o revolvimento do material fático-probatório delineado nos autos, providência inviável na via eleita.
+Agravo desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO NORTE contra a decisão da Presidência deste Superior Tribunal de Justiça (fls. 369-374), que conheceu do agravo para não conhecer do recurso especial.
+Depreende-se dos autos absolvição do agravado da imputação da prática de tráfico ilícito de entorpecentes.
+O eg. Tribunal de Justiça negou provimento ao apelo ministerial, mantendo incólume a sentença absolutória (fls. 273-278) e, posteriormente, rejeitou os embargos declaratórios (fls. 313-317).
+Nas razões do recurso especial, o Parquet alegou violação do art. 33 c.c. o 40, VI, da Lei n. 11.343/2006, no que concerne à impossibilidade de aplicação do princípio in dubio pro reo como fundamento válido para a absolvição do recorrido pelo crime de tráfico de drogas, em razão da comprovação da traficância da droga apreendida.
+Apresentadas as contrarrazões (fls. 337-342), o especial foi inadmitido na origem (fls. 343-347).
+Interposto agravo em recurso especial, a Presidência desta eg. Corte Superior o conheceu para não conhecer do recurso especial com fundamento na Súmula 7/STJ (fls. 369-374).
+Neste regimental,  em síntese, o Parquet destaca que:
+a) "merece reparo o decisum atacado, tendo em vista que todas as premissas factuais necessárias para o julgamento adequado da lide encontram-se explicitamente delineadas no acórdão prolatado pelo Tribunal de Justiça potiguar. São elas: i) a apreensão, em poder do recorrido, de 1 porção e 20 trouxinhas de maconha, pesando 92g, além de 25 pedras de crack, pesando 30g; ii) a tentativa de evasão do denunciado e do adolescente Ramon Lima de Moura quando foram vistos em frente ao imóvel no qual foram encontradas as drogas e armas pelo policial Gilson Gomes de Assis; iii) a declaração do adolescente referido, asseverando que o recorrido (e ele) dormiram na aludida casa no dia do flagrante; iv) o réu afirmando que entregou R$ 150 (cento e cinquenta) que gastou com a droga "consumida" na noite que dormiu no local citado, bem como que este era na mesma rua em que morava; v) a dedicação do réu a atividades criminosas (extensa certidão de antecedentes criminais);s e vi) a participação do adolescente Ramon Lima de Moura na empreitada criminosa" (fls . 383-384);
+b) "mesmo reconhecendo a ocorrência das referidas premissas, a Corte estadual se equivocou em sua valoração ao manter a absolvição do agravado pela prática do crime de tráfico de drogas (art. 33 c/c art. 40, VI, da Lei nº 11.343/2006). E no mesmo caminho seguiu a eminente Ministra Relatora" (fl. 387);
+c) "sendo certo que os elementos probatórios apontados alhures, expressamente apreciados pelo colegiado potiguar, comprovam a autoria do recorrido pelo cometimento do delito previsto no art. 33 c/c art. 40, VI, da Lei de Drogas, mister a sua condenação, sem que, para isso, seja necessária a incursão no acervo fático-probatório do feito, afastando, de pronto, a incidência da S.07/STJ" (fl. 390)  .
+Pugna pela reconsideração da decisão agravada ou pela submissão do recurso ao órgão colegiado.
+O Ministério Público Federal manifestou-se pelo desprovimento do agravo regimental (fls. 400-402).
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. ABSOLVIÇÃO. PRETENSÃO MINISTERIAL CONDENATÓRIA. AUSÊNCIA DE PROVAS CONCLUSIVAS PELAS INSTÂNCIAS ORDINÁRIAS. REEXAME DO ACERVO FÁTICO-PROBATÓRIO DELINEADO NOS AUTOS. SÚMULA 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+I - O eg. Tribunal a quo, ao apreciar os elementos de prova constituídos nos autos, manteve a absolvição pela acentuada dúvida acerca da autoria delitiva.
+II - Na hipótese, entender pela suficiência probatória acerca da autoria delitiva para condenar o agravado, como pretende o Parquet, demandaria, necessariamente, o revolvimento do material fático-probatório delineado nos autos, providência inviável na via eleita.
+Agravo desprovido.
+VOTO
+O presente agravo regimental não merece provimento.
+Neste agravo regimental, consigno que o Parquet pretende o afastamento da Súmula 7/STJ para que seja reformado o édito absolutório a fim de condenar o agravado pelo crime de tráfico ilícito de entorpecentes.
+Acerca da temática recursal, o eg. Tribunal de origem assim dispôs:
+" ..
+Diante de um quadro de incerteza é que se impõe a absolvição. (ID 12104978)  ..  Neste azo, para além de o réu ter negado a prática delitiva, informando ser tão somente usuário de entorpecentes, o policial atuante no flagrante foi categórico em afirmar que com o apelado nada fora encontrado, aduzindo, ainda, que havia um terceiro não identificado que logrou se evadir do local quando da abordagem.
+ ..  Para além disso, o adolescente ouvido em Juízo assumiu a propriedade sobre a droga encontrada, acrescentando que vendia drogas naquele local desde o início do ano, sozinho, conformando quadro que torna frágil o conjunto probatório amealhado, subsistindo, de fato, conjuntura de substancial dúvida acerca da autoria delitiva, reclamando a incidência do princípio do in dubio pro reo. Considerando, pois, como consabido, que se exige absoluta certeza quando se fala em condenação no âmbito penal, não há como chancelar condenações em hipóteses, teorias, achismos ou conjecturas, razão pela qual, nada obstante restar provada a materialidade do tipo em análise e haver indícios da possível participação do apelante no crime em cotejo, diante da dúvida razoável acerca da autoria, entendo como inescapável a sua absolvição.
+ ..  Destarte, diante de conjuntura de acentuada dúvida acerca da autoria do delito imputado ao apelado, resta acertada a prolação do édito absolutório com espeque no princípio do in dubio pro reo" (fls. 275/277).
+Como se denota, o eg. Tribunal de origem manteve a sentença absolutória em face da fragilidade probatória, destacando substancial dúvida acerca da autoria delitiva.
+Entender de modo diverso ao que estabelecido pelo eg. Tribunal de origem para se concluir pela suficiência probatória para condenação demandaria, necessariamente, o revolvimento do acervo fático-probatório delineado nos autos, providência que não se coaduna com os propósitos da via eleita, nos termos da Súmula n. 7/STJ, que dispõe que "a pretensão de simples reexame de prova não enseja recurso especial".
+Com efeito, "As instâncias ordinárias são soberanas na apreciação das provas, sendo vedado ao Superior Tribunal de Justiça, ao julgar recurso especial, alterar as conclusões a que chegou o tribunal de origem fundamentadas no arcabouço fático-probatório analisado (Súmula n. 7 do STJ). Se a absolvição do acusado ocorreu em razão da incerteza manifestada pelo tribunal local quanto à autoria e materialidade do crime, não há como modificar tal conclusão sem proceder a profunda incursão nos elementos probatórios constantes dos autos" (AgRg no AREsp n. 1.880.368/GO, Quinta Turma, Rel. Min. João Otávio de Noronha, DJe de 15/12/2021).
+Vale mencionar o seguinte precedente: REsp n. 1.501.842/PR, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 18/4/2016.
+Ante o exposto, tendo em vista que a parte agravante não conseguiu demonstrar o equívoco da decisão impugnada, nego provimento ao agravo regimental.
+É como voto.
