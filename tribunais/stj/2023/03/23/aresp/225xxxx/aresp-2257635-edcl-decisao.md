@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de Embargos de Declaração opostos a decisão monocrática (fls. 1.635-1.639, e-STJ) que não conheceu do Agravo em Recurso Especial.
+Em síntese, o embargante alega:
+II. DO ERRO MATERIAL/CONTRADIÇÃO.
+Inicialmente, cumpre ressaltar que, conforme foi explanado no tópico anterior, a presente lide versa a respeito de execução movida pelo SINDICATO DOS SERVIDORES PÚBLICOS MUNICIPAIS DE NATAL SINSENAT em face do MUNICÍPIO DO NATAL.
+Assim sendo, tem-se que a decisão alvo dos presentes embargos incorreu em erro, ao não deter congruência com o caso versado na presente lide; estando, pois, com a narrativa fática divergente da realidade dos autos, uma vez que, define como parte processual o Município de SALVADOR/BA.
+(..)
+No entanto, tal decisão, ao restar divergente do tema debatido nos autos, incorreu também em erro omissivo; pois não observou o que preceitua o tema 1169 - STJ. Posto que, não analisou que no dia 18/10/2022, este Superior Tribunal De Justiça submeteu a seguinte questão ao rito dos recursos repetitivos: "Definir se a liquidação prévia do julgado é requisito indispensável para o ajuizamento de ação objetivando o cumprimento de sentença condenatória genérica proferida em demanda coletiva, de modo que sua ausência acarreta a extinção da ação executiva, ou se o exame quanto ao prosseguimento da ação executiva deve ser feito pelo Magistrado com base no cotejo dos elementos concretos trazidos aos autos.".
+Por conseguinte, houve determinação suspendendo todos os processos que tratem sobre a referida matéria, como é o caso dos autos acima epigrafado, nos termos do art. 1.037, II, do Código de Processo Civil.
+Impugnação às fls. 1.652-1.650, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 10 de março de 2023.
+Os Embargos de Declaração merecem prosperar, uma vez que presentes dois dos vícios listados no art. 1.022 do CPC: omissão e erro material.
+Diante disso, torno sem efeito a decisão de fls. 1.635-1.1.639, e-STJ e passo a novo exame do Recurso.
+Verifico que a matéria versada no Recurso Especial que se busca destrancar teve acolhida a proposta de afetação para julgamento sob o rito dos Recursos Repetitivos (REsp 1.978.629/RJ, REsp 1.985.037/RJ e REsp 1.985.491/RJ) com o Tema 1.169: "Definir se a liquidação prévia do julgado é requisito indispensável para o ajuizamento de ação objetivando o cumprimento de sentença condenatória genérica proferida em demanda coletiva, de modo que sua ausência acarreta a extinção da ação executiva, ou se o exame quanto ao prosseguimento da ação executiva deve ser feito pelo Magistrado com base no cotejo dos elementos concretos trazidos aos autos".
+Em tal circunstância, deve ser prestigiado o disposto na legislação processual (Lei 11.672/2008), isto é, a criação de mecanismo que oportunize às instâncias de origem o juízo de retratação na forma do art. 543-C, § 7º, e 543-B, § 3º, do CPC/1973 ; e 1.040 e seguintes do CPC/2015, conforme o caso.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL INTERPOSTO EM FACE DE DECISÃO QUE DETERMINOU A DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM. PENDÊNCIA DE JULGAMENTO DE RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA, NO QUAL SE DISCUTE QUESTÃO IDÊNTICA. PROVIDÊNCIA QUE NÃO ENSEJA PREJUÍZO A NENHUMA DAS PARTES. NECESSIDADE DE SE OBSERVAR OS OBJETIVOS DA LEI 11.672/2008.
+(..)
+4. Além disso, em razão das modificações inseridas no Código de Processo Civil pelas Leis 11.418/2006 e 11.672/2008 (que incluíram os arts. 543-B e 543-C, respectivamente), não há óbice para que o Relator, levando em consideração razões de economia processual, aprecie o recurso especial apenas quando exaurida a competência das instâncias ordinárias. Nesse contexto, se há nos autos recurso extraordinário sobrestado em razão do reconhecimento de repercussão geral no âmbito do STF e/ou recurso especial cuja questão central esteja pendente de julgamento em recurso representativo da controvérsia no âmbito desta Corte (caso dos autos), é possível ao Relator determinar que o recurso especial seja apreciado apenas após exercido o juízo de retratação ou declarado prejudicado o recurso extraordinário, na forma do art. 543-B, § 3º, do CPC, e/ou após cumprido o disposto no art. 543-C, § 7º, do CPC. É oportuno registrar que providência similar é adotada no âmbito do Supremo Tribunal Federal.
+5. Entendimento em sentido contrário para que a suspensão ocorra sempre no âmbito do Superior Tribunal de Justiça implica esvaziar um dos objetivos da Lei 11.672/2008, qual seja, "criar mecanismo que amenize o problema representado pelo excesso de demanda" deste Tribunal. Assim, deve ser "dada oportunidade de retratação aos Tribunais de origem, devendo ser retomado o trâmite do recurso, caso a decisão recorrida seja mantida", sendo que tal solução "inspira-se no procedimento previsto na Lei nº 11.418/06 que criou mecanismo simplificando o julgamento de recursos múltiplos, fundados em idêntica matéria, no Supremo Tribunal Federal", conforme constou expressamente das justificativas do respectivo Projeto de Lei (PL 1.213/2007).
+6. Agravo regimental não conhecido.
+(AgRg no AREsp 153.829/PI, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 23/5/2012)
+Ante o exposto, acolho os Embargos de Declaração para tornar sem efeito a decisão de fls. 1.635-1.639, e-STJ, e determino a devolução dos autos ao Tribunal a quo, com a devida baixa, para que este, em observância aos arts. 1.040 e seguintes do CPC/2015 e após a publicação do decisum do respectivo Recurso Excepcional Representativo da Controvérsia:
+a) denegue seguimento ao Recurso, se o acórdão recorrido coincidir com a orientação emanada pelos Tribunais Superiores; ou
+b) proceda ao juízo de retratação, na hipótese de o aresto impugnado divergir da decisão sobre o tema repetitivo.
+Publique-se.
+Intimem-se.
