@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por TERESINHA MANOROV em face da decisão de fls. 111/112, que não conheceu do recurso.
+Em suas razões, sustenta a parte embargante que:
+A decisão fundamenta que a recorrente deixou de indicar precisamente os dispositivos legais que foram violados, no entanto, houve sim a indicação expressa dos dispositivos legais federais, sendo o art. 327 e o art. 292 do CPC/2015, conforme se verifica nos trechos do Recurso Especial:
+ ..
+Neste sentido, com a devida vênia, tem-se que diferente do fundamentado na decisão monocrática, a segurada indicou em seu recurso os dispositivos legais federais violados, assim como relacionou os mesmos ao caso concreto, inclusive, noticiando expressamente decisões do Tribunal Regional Federal da 4ª Região de cumulação de pedidos, as quais demostram que é juridicamente possível o pedido da embargante de consideração de cumulação de pedidos, para fins de definição do valor da causa, sendo, portanto, incabível o afastamento liminar do pedido de dano moral, em especial com a finalidade de alterar a competência jurisdicional para processamento da presente ação. (fls. 114/115).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Conforme consignado expressamente na decisão embargada incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente deixou de indicar precisamente os dispositivos legais federais que teriam sido violados.
+Em outras palavras, para que haja a admissão do recurso especial pela alínea "a" do permissivo constitucional - necessariamente - deve haver a indicação precisa dos dispositivos de lei federal violados e, pela alínea "c" do permissivo constitucional, deve haver a indicação precisa de quais dispositivos legais seriam objeto de dissídio interpretativo, não bastando, para ambos os casos, a mera transcrição dos artigos legais.
+Com relação aos artigos da Constituição Federal indicados como violados, conforme restou consignado na decisão embargada, cabível recurso extraordinário, sendo inadmissível a sua apreciação em sede de recurso especial. Nesse sentido: AgRg no REsp n. 1.873.509/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 4/8/2020, DJe de 13/8/2020.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
