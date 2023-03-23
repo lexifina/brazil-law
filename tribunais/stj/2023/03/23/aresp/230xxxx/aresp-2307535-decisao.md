@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de Agravo interposto pela Fazenda Nacional contra decisão que inadmitiu o processamento de recurso especial em face de acórdão proferido pelo Tribunal Regional Federal da 4ª Região, cuja ementa assim estabelece, in verbis:
+MANDADO DE SEGURANÇA. TRIBUTÁRIO. IMPORTAÇÃO. AZEITONAS. CLASSIFICAÇÃO FISCAL. CARÁTER IMPRÓPRIO PARA CONSUMO. NCM 0711.20.10.
+1. As regras para enquadramento na Nomenclatura Comum do Mercosul visam o maior grau de especi cação. Nesse contexto, devem ser observadas as regras gerais de interpretação do sistema harmonizado, cujo item 3 esclarece que, quando pareça ser possível classificar-se o bem em duas ou mais posições, a classificação deve observar a posição mais específica, que prevalecerá sobre as mais genéricas.
+2. Conforme o entendimento deste Tribunal, as azeitonas submetidas a tratamento para conservação transitória em água salgada durante o transporte e armazenagem, e impróprias para o consumo no estado em que se encontram, devem ser classificadas na NCM 0711.20.10.
+Os embargos de declaração foram rejeitados.
+Nas razões recursais, fundamentado sob o artigo 105, inciso III, alínea "a", do permissivo constitucional, o recorrente alega a violação aos artigos 1.022, do CPC/2015, 107, 109, 570, 571, do Regulamento Aduaneiro (Decreto n. 6759/2009), 50 e 51, parágrafo 1º, ambos, do Decreto-Lei n. 37/66, 39, do Decreto 1.455/76, na Portaria n. 389/76 do Ministro da Fazenda, em especial à luz do que estabelece o art. 237, da CRFB e o art. 78, do CTN, para sustentar em síntese: (i) a nulidade do acórdão recorrido, ante a rejeição dos embargos de declaração; (ii) que a retenção das mercadorias importadas decorre da legítima interpretação da legislação aduaneira, não constituindo ofensa ao exercício de atividade econômica.
+Contrarrazões ao recurso especial às fls. 420/433 (e-STJ).
+Em decisão interlocutória, o Tribunal de origem inadmitiu o processamento do recurso especial.
+No agravo, o recorrente rechaçou os fundamentos de inadmissão do apelo especial.
+Contraminuta ao Agravo em Recurso Especial às fls. 520/530 (e-STJ).
+É o relatório. Passo a decidir.
+Deveras, o presente Agravo em Recurso Especial não merece ser conhecido.
+Isto porque, o agravante nas razões do Agravo em Recurso Especial, não impugnou exaustivamente a jurisprudência colacionada na decisão de inadmissão do apelo extremo, segundo o qual preleciona no sentido de que evidenciado o erro formal na classificação aduaneira da mercadoria importada, o importador de boa-fé não poderá ser prejudicado (Recurso Especial nº 1.739.647/RS).
+Compulsando as razões do Agravo em Recurso Especial (fls. 476/512), depreende-se essencialmente que a Fazenda Nacional repete quase que integralmente as razões do recurso especial, sem sequer tecer fundamentos jurisprudenciais que poderiam afastar a aplicação da Súmula 83/STJ ou de modo a superar o precedente aplicado na decisão de inadmissão do apelo extremo.
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+A propósito:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.FUNDAMENTO DA DECISÃO AGRAVADA NÃO ATACADO. APLICAÇÃO DO ART. 544, § 4º, I, DO CÓDIGO DE PROCESSO CIVIL - CPC DE 1973. INCIDÊNCIA DA SÚMULA 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO. 1. Descabido o conhecimento do agravo em recurso especial quando o agravante deixa de impugnar especificamente algum dos fundamentos adotados na decisão que negou seguimento ao recurso especial. 2. Agravo regimental desprovido" (AgRg no AREsp n. 842.493/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 16/5/2016).
+PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO DA DECISÃO RECORRIDA. VERBETE SUMULAR N. 182/STJ. 1. Não se conhece de agravo em recurso especial que deixa de impugnar especificamente aos fundamentos da decisão recorrida. 2. Agravo regimental improvido com determinação de imediata retomada da marcha processual de primeira instância, independente da interposição de outros recursos" (AgRg no AREsp n. 1.074.077/DF, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 19/12/2017)
+Ante o exposto, não conheço do Agravo em Recurso Especial.
+Publique-se.
+Intimem-se.
