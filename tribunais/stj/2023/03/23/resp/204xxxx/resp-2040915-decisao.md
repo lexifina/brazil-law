@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial interposto por MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS, com fundamento na alínea "a" do permissivo constitucional, no qual se insurge contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim ementado (e-STJ, fls. 459-475):
+"APELAÇÃO CRIMINAL - CRIME CONTRA O MEIO AMBIENTE- ARTIGO 54, §2º, INCISO V, DA LEI FEDERAL 9.605/1998 - PRELIMINAR DE OFÍCIO - PRESCRIÇÃO DA PRETENSÃO PUNITIVA - EXTINÇÃO DA PUNIBILIDADE DA PESSOA JURÍDICA - OCORRÊNCIA DE LAPSO TEMPORAL SUPERIOR A DOIS ANOS ULTRAPASSADO ENTRE A DATA DO RECEBIMENTO DA DENÚNCIA E A DATA DA PUBLICAÇÃO DA SENTENÇA - MÉRITO - INCONFORMISMO DEFENSIVO - ABSOLVIÇÃO - CABIMENTO - AUSÊNCIA DE PROVA DOS NÍVEIS DE POLUIÇÃO E DO DANO EFETIVO - TIPICIDADE NÃO DEMONSTRADA - RECURSO CONHECIDO, DECRETADA DE OFICIO A EXTINÇÃO DA PUNIBILIDADE DA PESSOA JURÍDICA E, NO MÉRITO, PROVIDO".
+Os embargos de declaração foram rejeitados (e-STJ, fls. 499-504).
+Em suas razões recursais, a parte recorrente aponta violação dos arts. 109, III e V, e 114, I e II, do CP; 54, § 2º, V, e § 3º, da Lei 9.605/1998; 155 do CPP; e 489, § 1º, IV, do CPC. Aduz para tanto, em síntese, que: (I) não estaria prescrita a pretensão punitiva direcionada à pessoa jurídica; (II) estaria adequadamente comprovada a conduta de poluição praticada pelo réu Fernando, mormente quando se considera a Resolução Conama 362/2005; (III) a Corte local não teria examinado todos os argumentos suscitados pela acusação.
+Sem contrarrazões (e-STJ, fl. 541), o recurso especial foi admitido na origem (e-STJ, fls. 571-573).
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo provimento do recurso (e-STJ, fls. 585-594).
+É o relatório.
+Decido.
+De fato, não está prescrita a pretensão punitiva, pois a pessoa jurídica foi condenada à pena restritiva de direitos com duração de 5 anos (e-STJ, fl. 361), de modo que é este o tempo a ser considerado para a definição do prazo prescricional. Nesse sentido:
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. ACÓRDÃO EMBARGADO. OMISSÕES. INEXISTÊNCIA. ILEGALIDADES FLAGRANTES. DOSIMETRIA DA PENA. ART. 54, § 2.º, INCISO V, C.C O ART. 58, INCISO I, DA LEI N. 9.605/1998 NEGATIVAÇÃO. MOTIVOS E CONSEQUÊNCIAS DO CRIME. IDÊNTICA FUNDAMENTAÇÃO COM AGRAVANTE E CAUSA DE AUMENTO. BIS IN IDEM. PENAS. REDIMENSIONAMENTO. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. CONSUMAÇÃO. EMBARGOS DE DECLARAÇÃO REJEITADOS. HABEAS CORPUS CONCEDIDO, DE OFÍCIO. DECLARADA EXTINTA A PUNIBILIDADE DOS EMBARGANTES, PELA PRESCRIÇÃO DA PRETENSÃO PUNITIVA.
+ ..
+6. Se a pessoa jurídica, além de multa, foi condenada à prestação de serviços pelo tempo da pena privativa de liberdade imposta à pessoa natural por ela responsável, a prescrição da reprimenda imposta ao ente empresarial deve observar o mesmo prazo da prescrição da pena privativa de liberdade aplicada ao seu responsável, por força do art. 79 da Lei n. 9.605/1998 c.c os arts. 109, parágrafo único, e 114, inciso II, do Código Penal.
+ ..
+8. Embargos de declaração rejeitados. De ofício, concedido habeas corpus a fim de excluir a negativação dos motivos e das consequências do crime, e redimensionar as penas dos Embargantes LEO MORAES PORCIÚNCULA e MARLI JÜNG, bem assim declarar extinta a punibilidade de todos os Embargantes, pela prescrição da pretensão punitiva".
+(EDcl no AgRg no AREsp n. 1.603.271/RS, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 20/10/2020, DJe de 29/10/2020.)
+Apesar disso, não é possível o provimento do recurso, devendo ser mantida a absolvição também da pessoa jurídica, já que o Tribunal local entendeu inexistir comprovação da própria materialidade delitiva.
+Com efeito, a Corte de origem constatou que não foi adequadamente comprovada a prática da conduta criminosa, como se colhe do acórdão recorrido (e-STJ, fls. 471-475):
+"Ora, tem-se que o poluente em questão tratava-se de óleo lubrificante existente no motor de um carro, dispensado no sistema público de drenagem pluvial quando da irregular lavagem da peça do veículo.
+Contudo, o laudo pericial de f. 46-51 apenas mencionou a existência de resíduos de óleo lubrificante derramado no piso do acostamento da via pública, em frente ao estabelecimento comercial e que este fluiu em direção e um bueiro, atingindo o sistema de esgoto e drenagem pluvial. Por fim, constatou que o óleo lubrificante trata-se de resíduo de Classe 1, de acordo com a Norma 10.00412004 da ABNT-NBR.
+Assim, o laudo não demonstra com concretude em quais níveis ela poderia acarretar dano potencial à vida humana ou a morte da fauna e destruição significativa da flora, se limitando a vistoriar o local sem medir os níveis de poluição produzidos de forma a adequá-los ao tipo penal em comento.
+Ora, não é este o objetivo do legislador, cuja intenção foi incriminar a conduta de produzir poluição em níveis capazes de, efetivamente, por em perigo a saúde humana, à flora ou à fauna.
+ ..
+A prova testemunhal colhida também não chegou a uma conclusão que seja capaz de comprovar que o apelado foi capaz de causar dano à saúde humana ou a mortandade da fauna ou destruição significativa da flora.
+Não obstante, o referido laudo não foi eficaz em constatar em que período o óleo lubrificante foi derramado no piso do acostamento da via pública. Desta forma, como alegado pelo acusado em juízo (fls. 298v/302), o que fora corroborado pela testemunha (fls. 292/293v), já funcionou anteriormente uma outra oficina mecânica no local, podendo tais manchas sido consequência das ações de funcionários desta".
+Assim, a inversão do julgado, no ponto, demandaria o reexame do conjunto fático-probatório dos autos, providência inviável nesta instância especial, nos termos da Súmula 7/STJ.
+Finalmente, destaco ser inviável a pretendida análise dos fatos à luz de resolução do Conama, por se tratar de texto normativo infralegal, que não se confunde com o conceito de lei federal para fins de interposição do recurso especial. A propósito:
+"PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIME AMBIENTAL. ART. 45 DA LEI 9.605/1998. FALTA DE PREQUESTIONAMENTO DA TESE RECURSAL. SÚMULA 211/STJ. DESCABIMENTO DO RECURSO ESPECIAL PARA DEFINIR A INTERPRETAÇÃO DE TEXTO NORMATIVO INFRALEGAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não há prequestionamento da tese de que a Portaria 443/2014 conteria a definição da expressão "madeira de lei". Tampouco pode ser admitido o prequestionamento ficto do tema, pois o recurso especial não demonstrou ofensa ao art. 619 do CPP, para que fosse possível aferir eventual omissão da Corte local.
+2. De todo modo, não compete ao STJ, em sede de recurso especial, definir a interpretação de texto normativo infralegal. Precedentes.
+3. Agravo regimental desprovido".
+(AgRg no REsp n. 2.034.285/PR, de minha relatoria, Quinta Turma, julgado em 6/3/2023, DJe de 10/3/2023.)
+Ante o exposto, com fundamento no art. 255, § 4º, I, do Regimento Interno do STJ, não conheço do recurso especial.
+Fica mantida, portanto, a absolvição dos réus.
+Publique-se. Intimem-se.
