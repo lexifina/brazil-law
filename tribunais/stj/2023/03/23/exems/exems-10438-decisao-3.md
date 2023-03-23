@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de execução iniciada por SEBASTIANA PEREIRA, KELLY PEREIRA DE JESUS, DEBORA CRISTINA FERREIRA DE MELO, SUZANA FERREIRA DE MELO, ANA ANGELITA DE MELO RIBEIRO, MARIA EUGENIA SOUZA LIMA, ANA MARIA SILVA MAGALHAES, DAIANA MAGALHAES ANDRADE, ELLEN RUTH CANTANHEDE SALLES ROSA e RUTH CAROLINE CANTANHEDE SALLES ROSA em face da UNIÃO, objetivando o recebimento das diferenças remuneratórias devidas em razão da não observância do valor do soldo contido na Tabela II da Lei Estadual n. 1.063/2002, bem como do reajuste estabelecido pela Lei estadual n. 1.334/2004.
+Intimada para os fins do art. 535 do CPC, a UNIÃO impugnou requerendo a concessão de efeito suspensivo. Apontou excesso de execução em relação a DEBORA CRISTINA FERREIRA DE MELO e, relativamente aos demais, não se opôs aos cálculos apresentados.
+Ressaltou a necessidade de compensação de eventuais pagamentos administrativos realizados sob o mesmo título e pugnou pelo deferimento de prazo adicional para apresentar documentação comprobatória. Teceu considerações sobre a base de cálculo para a fixação dos honorários de sucumbência.
+Em resposta à impugnação à execução, os exequentes defenderam o não cabimento de efeito suspensivo e insurgiram-se contra o pedido de dilação de prazo para comprovar pagamentos anteriores e contra o excesso apontado. Pediram o imediato pagamento da parte incontroversa e a condenação da impugnante em honorários de sucumbência.
+Despacho de folha retro deferiu o pedido de dilação de prazo, com vistas a evitar o pagamento em duplicidade.
+Na sequência, a UNIÃO informou que solicitou as informações requeridas, porém, por não ter obtido resposta, pediu nova dilação de prazo.
+Vieram os autos conclusos.
+É o relatório. Decido.
+Deferido o pedido de dilação de prazo para comprovação de pagamento de valores sob o mesmo título, a executada não apresentou qualquer valor passível de ser deduzido dos cálculos exequendos, limitando-se a requerer nova dilação de prazo.
+Ademais, em manifestação anterior, expressamente anuiu com o montante apresentado pelos exequentes, à exceção de DEBORA CRISTINA FERREIRA DE MELO.
+Considerando que em execuções decorrentes do mesmo título a UNIÃO vem pugnando pela suspenção em razão do ajuizamento da AR n. 7228/DF, destaco, desde logo, que a pretensão não comporta acolhimento.
+A teor do art. 969 do Código de Processo Civil (CPC), a "propositura da ação rescisória não impede o cumprimento da decisão rescindenda, ressalvada a concessão de tutela provisória", o que não ocorreu na espécie.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NA PETIÇÃO NA AÇÃO RESCISÓRIA.
+DEFERIMENTO DO PEDIDO DE EXPEDIÇÃO DE OFÍCIO PARA PRESTAR INFORMAÇÕES AO JUÍZO DO FEITO EXECUTIVO. AUSÊNCIA DE CONTEÚDO DECISÓRIO. AGRAVO INTERNO DA CEF NÃO CONHECIDO.
+ ..  6. Vale acrescentar que, diante do julgamento de improcedência da ação rescisória em que se discute a correção monetária dos depósitos judiciais e, por conseguinte, da cassação dos efeitos da liminar que deferiu a tutela antecipada, não há impedimento ao cumprimento da decisão transitada em julgado nos autos do REsp 1.168.833/MG, visto que, a teor do art. 969 do CPC/2015, a ação rescisória por ser uma ação e não um recurso, não tem efeito suspensivo, e os efeitos da decisão não são interrompidos durante o trâmite da rescisória, devendo a execução/cumprimento de sentença seguir normalmente.
+7. Agravo interno da Caixa Econômica Federal não conhecido.
+(AgInt na PET na AR n. 4.971/MG, relator Ministro Manoel Erhardt (Desembargador Convocado do Trf5), Primeira Seção, julgado em 12/4/2022, DJe de 3/5/2022.)
+Ante o exposto, homologo o cálculo exequendo, salvo em relação a DEBORA CRISTINA FERREIRA DE MELO, e determino a expedição dos requisitórios de pagamento, nos termos do art. 535, § 3º, do CPC, com destaque da verba advocatícia em favor de LEON E ADVOGADOS ASSOCIADOS e SILVEIRA CRUZ ADVOGADOS, observados os contratos de honorários e o instrumento de parceria intelectual acostados aos autos.
+No tocante à exequente acima mencionada, expeça-se a requisição de valor incontroverso e, após, remetam-se os autos à Coordenadoria de Processamento de Feitos em Execução Judicial para manifestação a respeito da controvérsia.
+Fica resguardada a possibilidade de dedução de eventual pagamento realizado sob o mesmo título e período dos autos, desde que comprovado, de forma inequívoca, até o levantamento de valores, com vistas e evitar o enriquecimento sem causa. Por tal motivo, indefiro o pedido de fls. 1238-1292.
+Publique-se. Intimem-se.
