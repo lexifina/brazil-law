@@ -1,0 +1,76 @@
+DECISÃO
+Trata-se de embargos de divergência opostos por PLASTILIT PRODUTOS PLÁSTICOS DO PARANA S.A. contra acórdão da Primeira Turma do Superior Tribunal de Justiça em que se discutiu a respeito da integração dos juros de mora com natureza de lucros cessantes à base de cálculo da contribuição para o recolhimento de PIS e COFINS.
+O acórdão embargado recebeu a seguinte ementa (fl. 12.372):
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. CORREÇÃO MONETÁRIA. JUROS DE MORA. LUCROS CESSANTES. EXCLUSÃO DA BASE DE CÁLCULO DA PIS E DA COFINS. IMPOSSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE SIMILITUDE FÁTICA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. INADEQUADA AO CASO CONCRETO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Os juros de mora com natureza de lucros cessantes integram as bases de cálculo da contribuição para o PIS e da COFINS. Precedentes.
+III - É entendimento pacífico dessa Corte que o Recurso Especial não pode ser conhecido com fundamento na alínea c do permissivo constitucional, ante a ausência de similitude fática entre os julgados confrontados.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+Os embargos de declaração opostos na sequência foram rejeitados (fls. 12.452-12.460), sobrevindo novos aclaratórios, que também foram rejeitados, com aplicação de multa de 1% sobre o valor atualizado da causa (fl. 12.483).
+A parte embargante alega que o julgado proferido no recurso especial divergiria de arestos da Primeira Seção e da Primeira Turma, no REsp n. 1.470.443/PR (fls. 12.577-12.650), no REsp n. 1.089.720/RS (fls. 12.551-12.576), no REsp n. 1.328.506/ES (fls. 12.651-12.658) e no REsp n. 1.025.833/RS (fls. 12.659-12.670).
+Afirma, ainda, que o acórdão referente ao julgamento dos segundos embargos de declaração estaria em dissonância com aresto proferido pela Terceira Turma, no REsp n. 1.596.025/SC, assim ementado (fl. 12.671):
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. RECURSO INTERPOSTO NA VIGÊNCIA DO NCPC. EXECUÇÃO EXTINTA COM FUNDAMENTO NA PRESCRIÇÃO INTERCORRENTE. DESNECESSIDADE DE INTIMAÇÃO DO EXEQUENTE PARA DAR ANDAMENTO AO FEITO. CONTRADITÓRIO DIFERIDO. NULIDADE PROCESSUAL SUPERADA. DECISÃO PARCIALMENTE MODIFICADA.
+1. Aplicabilidade do NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Ocorre a prescrição intercorrente quando o exequente permanecer inerte por prazo superior ao da prescrição do direito material vindicado, sendo desnecessária a sua intimação pessoal prévia para dar andamento ao feito, bastando que seja respeitado o princípio do contraditório. Precedente da Segunda Seção.
+3. No caso concreto, tendo em vista o princípio da instrumentalidade das formas, não há falar em nulidade processual por falta de contraditório prévio se ele foi exercido posteriormente.
+4. Agravo interno provido apenas para afastar a multa cominada no julgamento monocrático dos embargos de declaração, mantido o decisum com relação a matéria de fundo.
+Sustenta, em síntese (fl. 12.502):
+A insurgência da Embargante se fundamenta em claro dissídio de entendimento entre a 1ª Turma deste Tribunal e os entendimentos exarados pela 1ª Seção e pela antiga composição da 1ª Turma do Tribunal no que tange à tributação dos juros SELIC pelo PIS e pela COFINS.
+Além disso, também há dissídio com a 3ª Turma do STJ, no sentido de que, mesmo com propósito infringente, não é possível sustentar que os embargos de declaração teriam manifesto intuito protelatório.
+Requer "dignem-se V. Exas. a conhecer e prover os presentes Embargos de Divergência, para que seja dado provimento ao Recurso Especial" (fl. 12.515).
+É o relatório.
+No que se refere à alegada divergência entre o acórdão embargado, proferido pela Primeira Turma, e o julgado da Terceira Turma do Superior Tribunal de Justiça, cuja solução compete à Corte Especial, o cotejo analítico trazido no recurso deixa clara a ausência de similitude fático-jurídica entre o aresto recorrido e o indicado como paradigma.
+Seguindo estritamente os limites estabelecidos pelo CPC, o cabimento dos embargos de divergência, conforme exigido pelo art. 266 do RISTJ, tem lugar quando acórdão proferido em recurso especial divergir de outro, objeto de julgamento por órgão fracionário diverso, que, embora com características fático-jurídicas similares ao processo em julgamento, tenha recebido tratamento jurídico diverso.
+Como consequência, se os embargos de divergência são recurso de fundamentação vinculada, somente será possível discutir o que tiver sido objeto de julgamento em disparidade com o paradigma, não em harmonia com àquele.
+Inexiste, assim, a possibilidade de reconhecer-se a existência de distinção inversa ou má aplicação de precedente em embargos de divergência.
+No caso, da leitura do acórdão embargado, depreende-se que, com base no julgamento proferido nos primeiros embargos de declaração, concluiu-se que a oposição do segundo recurso integrativo para rediscutir a existência de vícios já afastados anteriormente constitui prática processual abusiva e protelatória, ensejando a aplicação da multa prevista no art. 1.026, § 2º, do CPC.
+Confira-se (fls. 12.486-12.490):
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+No mais, sustenta a Embargante que há obscuridade a ser suprida, nos termos do art. 1.022, I, do Código de Processo Civil.
+Consoante o art. 1.022 do Código de Processo Civil de 2015, cabe a oposição de embargos de declaração para: i) esclarecer obscuridade ou eliminar contradição; ii) suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento; e iii) corrigir erro material.
+Com efeito, "a obscuridade é fenômeno representativo de acórdão ininteligível, confuso, embaraçoso em suas razões e enigmático em sua parte dispositiva (STJ, EDcl no AgRg no Ag 178.699/SP, Rel. Ministro JOSÉ DELGADO, PRIMEIRA TURMA, DJ de 19/04/1999)" (EDcl no REsp 919.427/RJ, Rel. Min. Assusete Magalhães, 2ª T., DJe 17.04.2017).
+Isso considerado, observo que, a pretexto de obscuridade, a irresignação objetiva a revisão da própria pretensão recursal, clara e exaustivamente apreciada na decisão monocrática e no acórdão embargado, embora em adversidade aos interesses da parte.
+Confira-se (fls. 12.457/12.458e):
+Inicialmente, observo que os supostos vícios apontados foram devidamente analisados pelo acórdão embargado às fls. 12.376/12.377e, como se percebe da leitura do trecho a seguir:
+ ..
+Quanto à alegação de fato novo, observo que, no julgamento do Tema n. 962/STF, a Suprema Corte examinou matéria diversa.
+Como apontado, o órgão julgador não fica obrigado a responder um a um os questionamentos da parte se já encontrou motivação suficiente para fundamentar a decisão, sobretudo se notório o caráter de infringência, como o demonstra o julgado assim ementado:
+ ..
+Assim, a pretexto de obscuridade, a irresignação objetiva a revisão da própria pretensão recursal, clara e exaustivamente apreciada na decisão monocrática e no acórdão recorrido, embora em adversidade aos interesses da parte.
+Desse modo, totalmente destituída de pertinência mencionada formulação, uma vez que não se ajusta aos estritos limites de atuação dos embargos, os quais se destinam, exclusivamente, à correção de eventual omissão, contradição, obscuridade ou erro material do julgado.
+Ademais, a oposição, pela segunda vez, de embargos de declaração, com o escopo de rediscutir a suposta existência de vícios no julgado, enfrentados anteriormente nos primeiros embargos declaratórios, como ocorreu no caso em exame, constitui prática processual abusiva e manifestamente protelatória, sujeita à aplicação da multa prevista no art. 1.026, § 2º, do Código de Processo Civil de 2015.
+Por outro lado, o aresto indicado como paradigma se refere a processo em que, em razão da rejeição dos primeiros embargos de declaração opostos pela parte, foi aplicada multa com base no art. 1.021, §§ 4º e 5º, do CPC (fls. 12.677-12.688):
+(1) Cabimento da multa Os embargos de declaração foram rejeitados com cominação de multa equivalente a 3% do valor da causa, nos seguintes termos:
+Considerando anterior advertência quanto à aplicabilidade das normas do NCPC, inclusive no que tange ao cabimento de multa e verificada a rejeição dos presentes embargos, condeno o BANCO ao pagamento da multa de 3% sobre o valor atualizado da causa, nos termos do art. 1021, § 4º, do NCPC, sob pena de não conhecimento. Por fim, nos termos do art. 1021, § 5º, do NCPC, a interposição de qualquer outro recurso fica condicionada ao depósito prévio da respectiva quantia. (e-STJ, fl. 328)
+O art. 1.021, §§ 4º e 5º, do NCPC, mencionado na decisão embargada não pode ser utilizado para fundamentar a aplicação da multa ou condicionar a interposição de outros recursos ao seu respectivo recolhimento, porque direcionado, apenas, ao julgamento dos agravos internos.
+Com efeito, a multa decorrente da oposição de embargos declaratórios encontra previsão legal nas hipóteses do art. 1.026, § 2º, do NCPC, sendo aplicável apenas quando manifestamente protelatórios e limitada a 2% do valor da causa.
+Na hipótese, os embargos apresentaram claro propósito infringente, mas não é possível sustentar que tivessem manifesto intuito protelatório.
+De rigor, portanto, o afastamento da multa cominada.
+Verifica-se, assim, que o acórdão paradigma concluiu pela impossibilidade de aplicação da multa prevista no art. 1.021, §§ 4º e 5º, do CPC na hipótese de rejeição dos primeiros embargos de declaração opostos pela parte, quando não apresentam manifesto intuito protelatório, ao passo que, no aresto embargado, aplicou-se a multa do art. 1.026 do CPC no julgamento dos segundos aclaratórios opostos pela parte, em razão de rediscutirem vícios já afastados no julgamento de anterior recurso integrativo.
+Fica esclarecida, pois, a inexistência de similitude, uma vez que os julgados partiram de aspectos fático-jurídicos claramente diversos.
+Como visto, nos termos do art. 1.043, § 4º, do CPC, a divergência que enseja a apresentação dos embargos de divergência deve ser comprovada mediante a exposição das circunstâncias fático-jurídicas que demonstrem a semelhança dos casos confrontados. A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. AÇÃO INDENIZATÓRIA. CONCESSIONÁRIA DE SERVIÇO PÚBLICO. FALHA NA PRESTAÇÃO DO SERVIÇO. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS ACÓRDÃOS CONFRONTADOS. ACÓRDÃO EMBARGADO QUE NÃO ULTRAPASSA A FASE DA ADMISSIBILIDADE. PRECEDENTES DO STF E STJ.
+ ..
+4. In casu, ocorreu falha na fundamentação consubstanciada na ausência de similitude fática entre os julgados confrontados. Com efeito, a configuração do dissídio interno que viabiliza a interposição de embargos de divergência pressupõe que os acórdãos confrontados apresentem, além de similitude fática, discussão das teses jurídicas distintas sob o mesmo enfoque legal, e sejam assentados sob o exame do mérito do recurso, porque não servem tais embargos para discussão sobre a aplicação de regra técnica de admissibilidade recursal. Precedentes do STJ.
+5. Agravo interno não provido.
+(AgInt nos EAREsp n. 341.992/SP, relator Ministro MAURO CAMPBELL MARQUES, CORTE ESPECIAL, julgado em 21/6/2017, DJe de 29/6/2017.)
+EMBARGOS DE DIVERGÊNCIA. PROCESSUAL CIVIL. PARADIGMAS ORIGINÁRIOS DE TURMAS DA MESMA SEÇÃO E DE SEÇÃO DIVERSA. COMPETÊNCIA. JUÍZO DE ADMISSIBILIDADE. AUSÊNCIA DE PRECLUSÃO PRO JUDICATO. CABIMENTO DE DANOS MORAIS COLETIVOS EM AÇÃO CIVIL PÚBLICA. INEXISTÊNCIA DE DISSENSO INTERPRETATIVO. FALTA DE SIMILITUDE FÁTICO-JURÍDICA ENTRE ARESTOS CONFRONTADOS. EXEGESE DE DISPOSITIVOS INFRACONSTITUCIONAIS DIVERSOS.
+ ..
+4. Inexiste similitude fático-jurídica se os arestos confrontados examinam acontecimentos totalmente distintos (dano ambiental e dano a consumidores) e adotam como fundamentos de decidir dispositivos legais diversos.
+5. Embargos de divergência não conhecidos, com o encaminhamento dos autos à Primeira Seção para exame da divergência suscitada entre julgados de suas Turmas.
+(EREsp n. 1.367.923/RJ, relator Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, julgado em 15/2/2017, DJe de 15/3/2017.)
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA. ACÓRDÃOS CONFRONTADOS. AUSÊNCIA DE DEMONSTRAÇÃO DA DIVERGÊNCIA. NECESSIDADE DE SIMILITUDE FÁTICO-JURÍDICA. INEXISTÊNCIA.
+ ..
+II - Inobservada a regra disposta nos artigos. 1.043, § 4º, do Código de Processo Civil de 2015 e do art. 266, § 4º, do Regimento Interno deste Superior Tribunal de Justiça.
+III - Os referidos preceitos normativos exigem, como condição para um juízo positivo de prelibação, a presença de circunstâncias assemelhadas entre os casos confrontados, devidamente apresentadas pelo recorrente.
+ ..
+VI - Os embargos de divergência é recurso de cabimento restrito às hipóteses em que um órgão fracionário do Superior Tribunal de Justiça decide o mérito de questão relativa à interpretação de lei federal de forma divergente daquela como outro órgão fracionário a decidiu.
+VII - Para a comprovação da divergência jurisprudencial, os acórdãos confrontados devem debater matéria idêntica à dos autos sob a perspectiva da mesma legislação federal, dando-lhes, porém, soluções distintas.
+VIII - É assente o entendimento nesta Corte de que inexistente similitude fática, decorrente das peculiaridades existentes em cada caso, o recurso de embargos de divergência não merece ser conhecido. Nesse sentido, veja-se: AgInt nos EREsp 1573555/RS, Rel. Ministro OG FERNANDES, CORTE ESPECIAL, julgado em 03/05/2017, DJe 09/05/2017.
+ ..
+XII - Agravo interno improvido.
+(AgInt nos EREsp n. 1.430.325/PE, relator Ministro FRANCISCO FALCÃO, PRIMEIRA SEÇÃO, julgado em 11/12/2019, DJe de 17/12/2019.)
+Falta aos embargos de divergência, portanto, pressuposto básico para a admissibilidade, qual seja, a sem elhança dos pressupostos fático-jurídicos dos paradigmas alegadamente divergentes.
+Ante o exposto, na forma do art. 932, III, do CPC, indefiro liminarmente os embargos de divergência, com fulcro no art. 266-C do RISTJ, relativamente ao paradigma proferido pela Terceira Turma (REsp n. 1.596.025/SC) e determino a remessa dos autos à Primeira Seção, para que aprecie a alegação relativa aos paradigmas oriundos da Primeira Turma e da Primeira Seção.
+Publique-se. Intimem-se.
