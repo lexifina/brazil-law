@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de Agravo que visa à admissão de Recurso Especial (art. 105, III, "a", da Constituição da República) interposto contra acórdão assim ementado (fl. 465, e-STJ):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTOSENTENÇA COLETIVA PROFERIDA NA AÇÃO Nº 6542/2005. DECISÃO AGRAVADA QUE DETERMINOU AIMPLANTAÇÃO DO PERCENTUAL DE 4,36%. POSSIBILIDADE. IMPLEMENTAÇÃO D PERCENTUALQUE FOI JULGADO PROCEDENTE EM FAVOR DOAGRAVADO. NOME DO AGRAVADO QUE CONSTA NALISTA DE CÁLCULOS JÁ HOMOLOGADOS. AUSÊNCIA DE PRESCRIÇÃO. TERMO INICIAL. HOMOLOGAÇÃODOS CÁLCULOS. RECURSO DESPROVIDO, DEACORDO COM O PARECER MINISTERIAL.
+Nas razões do Recurso Especial, o agravante sustenta ter havido violação dos arts. 1º e 9º do Decreto-Lei 20.910/1932 e 509, § 2º, do CPC.Alega que a liquidação por cálculos aritméticos não impede nem interrompe o curso do lapso prescricional para exercício da pretensão executória, o qual começa a correr desde o trânsito em julgado da ação de conhecimento.
+Recurso inadmitido (fls. 130-133, e-STJ), o que ensejou a interposição de Agravo (fls. 136-140, e-STJ).
+Contraminuta às fls. 143-151, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos no Gabinete em 9.3.2023.
+O Superior Tribunal de Justiça consignou, nos Embargos de Divergência no Recurso Especial 1.426.968/MG, que "a Primeira Seção, no REsp 1.336.026/PE, julgado sob o rito do art. 543-C do Código de Processo Civil de 1973, assentou que "o entendimento externado pelo STF leva em conta que o procedimento de liquidação, da forma como regulado pelas normas processuais civis, integra, na prática, o próprio processo de conhecimento. Se o título judicial estabelecido no processo de conhecimento não firmara o quantum debeatur, somente efetivada a liquidação da sentença é que se poderá falar em inércia do credor em propor a execução, independentemente de tratar-se de liquidação por artigos, por arbitramento ou por cálculos"" (EREsp 1.426.968/MG, Rel. Ministra Regina Helena Costa, Primeira Seção, DJe 22.6.2018).
+Verifica-se, portanto, a incidência da Súmula 83/STJ, pois a Corte de origem decidiu de acordo com a jurisprudência atualizada desta Corte. Por esse motivo, o acórdão recorrido não merece reforma.
+Observem-se os julgados:
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 1973. APLICABILIDADE. EXECUÇÃO DE SENTENÇA ILÍQUIDA. TERMO INICIAL DA PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. No caso, aplica-se o Código de Processo Civil de 1973.
+II - Controverte-se acerca do termo inicial da prescrição da pretensão executória de sentença ilíquida.
+III - O dissenso entre os acórdãos embargado e o paradigma repousa no fato de que o primeiro manifesta o entendimento de que "o termo inicial da prescrição da pretensão executória é a data do trânsito em julgado da sentença. Sendo que a liquidação por cálculos - como no caso em exame - não constitui processo autônomo, não se mostrando apta a interromper ou suspender o prazo prescricional da ação de execução", enquanto que o segundo considera que "o prazo prescricional para o ajuizamento de ação de execução só se inicia com o aperfeiçoamento do respectivo título, momento em que não mais se discute a sua certeza e liquidez".
+IV - O Supremo Tribunal Federal firmou orientação, consolidada no enunciado da Súmula n. 150, que "prescreve a execução no mesmo prazo de prescrição da ação" e a Primeira Seção, no REsp 1.336.026/PE, julgado sob o rito do art. 543-C do Código de Processo Civil de 1973, assentou que "o entendimento externado pelo STF leva em conta que o procedimento de liquidação, da forma como regulado pelas normas processuais civis, integra, na prática, o próprio processo de conhecimento. Se o título judicial estabelecido no processo de conhecimento não firmara o quantum debeatur, somente efetivada a liquidação da sentença é que se poderá falar em inércia do credor em propor a execução, independentemente de tratar-se de liquidação por artigos, por arbitramento ou por cálculos".
+V - In casu, o acórdão recorrido contrariou orientação consolidada nesta Corte no sentido de que a liquidação ainda é fase do processo de cognição, sendo possível iniciar a execução somente quando o título, certo pelo trânsito em julgado da sentença de conhecimento, apresentar-se também líquido.
+VI - Embargos de Divergência providos.
+(EREsp 1.426.968/MG, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA SEÇÃO, DJe 22.6.2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. PRESCRIÇÃO. LIQUIDAÇÃO DE SENTENÇA. NECESSIDADE. REEXAME DO CONJUNTO FÁTICO PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. O entendimento adotado pelo Tribunal de origem encontra-se em conformidade com a jurisprudência desta Corte, firme no sentido de que "a liquidação é fase do processo de cognição, só sendo possível iniciar a execução quando o título, certo pelo trânsito em julgado da sentença de conhecimento, apresentar-se líquido. Logo, o lapso prescricional da ação de execução só tem início quando finda a liquidação (Súmula 83/STJ)" (AgRg no AREsp 214.471/RS, Rel. Ministro Castro Meira, Segunda Turma, julgado em 4/12/2012, DJe 4/2/2013).
+2. No mais, a análise acerca da alegação de que a liquidação se deu por simples cálculos aritméticos, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp 1.414.432/MA, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 27.6.2019)
+No mais, aferir se a liquidação de sentença depende, de fato, apenas de simples cálculo aritmético, como defendido nas razões recursais, exigiria reexame probatório, o que é vedado pela Súmula 7/STJ.
+Nessa linha:
+AGRAVO REGIMENTAL EM AGRAVO (ART. 544 DO CPC) - AGRAVO DE INSTRUMENTO - LIQUIDAÇÃO DE SENTENÇA - AÇÃO COLETIVA - SIMPLES CÁLCULOS ARTIMÉTICOS - SÚMULA 7/STJ - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DA CASA BANCÁRIA.
+1. Consoante assente na jurisprudência desta Corte Superior de Justiça, é necessária a prévia liquidação da sentença coletiva, mediante a formação de uma nova relação processual, pois somente com esse procedimento abrir-se-á um juízo cognitivo acerca do eventual direito material individual do exequente em relação ao executado. Aferir se a liquidação de sentença deve ser procedida por simples cálculo aritmético ou por liquidação por artigos na ação coletiva enseja o revolvimento do conjunto fático-probatório dos autos, providência que atrai o óbice da Súmula 7 do
+STJ.
+2. Agravo regimental desprovido.
+(AgRg no AREsp 300.089/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe 9.11.2015)
+Diante do exposto, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intime-se.
