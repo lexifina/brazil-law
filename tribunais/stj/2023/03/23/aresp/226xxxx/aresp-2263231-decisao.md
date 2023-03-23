@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a" e "c", da CF) interposto contra acórdão cuja ementa é a seguinte:
+Agravo de instrumento - Cumprimento de sentença - Prestação de serviços de energia elétrica - Impugnação acolhida em parte, excluindo dos cálculos de liquidação prestações anteriores a dezembro de 1999 e concedendo à executada oportunidade para comprovar média de consumo no período objeto da cobrança - Agravante que busca parcial reforma, alegando necessária aplicação da prescrição decenal a partir da entrada em vigor do Código Civil de 2002 e impertinência na faculdade de apresentação das médias de consumo, porquanto já estabilizado tal critério - Trânsito em julgado quanto ao alcance de prazo prescricional - Impossibilidade de rediscussão - Comprovação de médias de consumo pertinente, pois o critério não fora estabilizado - Ausente risco de prejuízo com a medida, visto que a parte adversa terá oportunidade para apresentar impugnação aos documentos que serão eventualmente trazidos aos autos - Decisão mantida - Recurso improvido.
+A parte agravante, nas razões do Recurso Especial, sustenta, em síntese:
+(..)
+A AÇÃO RESCISÓRIA transitada em julgado que deu origem ao Cumprimento de Sentença, rescindiu o v. acórdão que estabelecia prazo prescricional de 05 (cinco) anos e definiu a prescrição DECENAL ao presente caso, nos moldes do artigo 205 do Código Civil, bem como a REGRA DE TRANSIÇÃO ou DIREITO INTERTEMPORAL do artigo 2.028 do mesmo diploma legal e ainda com a orientação dada pelo Recurso Especial Repetitivo nº 1.532.514-SP e Súmula 412 ambos do Colendo STJ. Na medida em que a r. decisão de primeiro grau e o v. acórdão agravado mantém a contagem do prazo a partir da propositura da ação, ou seja, 03/12/1999, passa a violar os preceitos legais mencionados e toda jurisprudência do E. STJ, nesse aspecto.
+(..)
+A Ação Rescisória teve como objeto principal a anulação do v. acórdão rescindendo sobre o quesito PRESCRIÇÃO. Nesse aspecto, o v. acórdão exequendo deixou claro que a aplicação da prescrição é a DECENAL, sob a regência do artigo 205 do Código Civil, bem como a REGRA DE TRANSIÇÃO ou DIREITO INTERTEMPORAL do artigo 2.028 do mesmo diploma legal e ainda com a orientação dada pelo Recurso Especial Repetitivo nº 1.532.514-SP e Súmula 412 ambos do Colendo STJ. Entretanto, a Recorrida pretende aplicar a PRESCRIÇÃO DECENAL a partir da PROPOSITURA, conflitando com a interoretação dada por esse E. STJ, que é a aplicação a partir da VIGÊNCIA do Código Civil de 2002.
+(..)
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 7.3.2023.
+O Tribunal de origem, ao decidir a vexata quaestio, consignou:
+(..)
+Afasto, de plano, a necessidade da readequação do alcance de prazo prescricional, porque não apartada a premissa invocada pelo d. Juízo "a quo", no sentido de restar expressamente consignado no V. Acórdão exequendo, acerca do tema, que: "(..) o prazo prescricional aplicável é o decenal, uma vez que até a data de vigência do Código Civil de 2002 (11.01.2003), ainda não havia transcorrido mais da metade do prazo vintenário do antigo Estatuto Civil. Nesse contexto, retroagindo 10 (dez) anos, o período a considerar é a partir do ajuizamento da ação, em 03.12.2009 (fls. 39), até final liquidação" (fls. 143/144).
+Tem-se, assim, por superado tal debate, porque acobertado pela preclusão. Consoante decidido pelo C. Superior Tribunal de Justiça, "configura-se preclusão temporal se não impugnada a matéria no momento oportuno" (EDcl nos EDcl nos EDcl no AgRg nos EDcl nos EDcl nos EDcl no REsp 347.933/MG; 4ª Turma; Rel. Min. João Otávio de Noronha; rel. P/ acórdão min. Cesar Asfor Rocha, DJe 14/09/2010).
+Manifestara também esta C. Corte que "as questões discutidas e apreciadas ao longo do curso processual não podem, após a respectiva decisão, ser novamente analisadas em fases posteriores do processo" (Agravo de Instrumento nº 0240432-97.2011.8.26.0000, Rel. Des. José Percival Albano Nogueira Jr., j. 20.10.2011).
+O mesmo não acontece, porém, quanto à faculdade conferida à agravada para comprovação de médias de consumo, pois o critério não fora estabilizado na r. decisão que transitou em julgado.
+Pertinente, assim, conferir oportunidade para adequada aferição, mostrando-se conveniente o prazo assinado à executada para juntada de faturas extraídas no período da cobrança, sob pena de ser aceita a média pretendida pelo agravante.
+Em caso análogo, deliberou esta C. Corte que "as contas de consumo eram imprescindíveis para a elaboração do laudo pericial, pois no caso se trata de repetição de indébito"
+(..)
+Ademais, não se observa qualquer risco de prejuízo com a medida, visto que a parte adversa terá oportunidade para apresentar impugnação aos documentos que serão eventualmente trazidos aos autos.
+(..)
+Extrai-se do acórdão vergastado e das razões de Recurso Especial que o acolhimento da pretensão recursal demanda reexame do contexto fático-probatório, especialmente para modificar o entendimento da Corte a quo quanto à desnecessidade de readequação do prazo prescricional, o que não se admite ante o óbice da Súmula 7/STJ.
+Por tudo isso, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se. Intimem-se.
