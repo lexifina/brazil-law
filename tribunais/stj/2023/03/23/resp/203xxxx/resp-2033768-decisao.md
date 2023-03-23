@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por CASA MATER BENEFICÊNCIA DE ABRIGO AO MENOR, com fundamento nas alíneas a e c do permissivo constitucional, no qual se insurgiu contra acórdão do Tribunal de Justiça do Paraná assim ementado (e-STJ, fl. 188):
+AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO - DECISÃO QUE RECEBEU O RECURSO SEM ATRIBUIÇÃO DO EFEITO ATIVO, INDEFERIU LIMINAR DE REINTEGRAÇÃO DE POSSE E NÃO RECONHECEU A NULIDADE DA DECISÃO - INSURGÊNCIA PELA REFORMA - NÃO ACOLHIMENTO - IRREGULARIDADE DA REPRESENTAÇÃO PROCESSUAL QUE DEVE SER APRECIADA PELO JUÍZO DE ORIGEM, SOB PENA DE SUPRESSÃO DE INSTÂNCIA -INDÍCIOS DE QUE A PARTE AGRAVADA EXERCE POSSE AO MENOS DESDE 1998 - AUSÊNCIA DE PROVAS DA POSSE, ESBULHO E ADATA DESTE - ÔNUS DA PROVA DA AGRAVANTE - NÃO PREENCHIMENTO DOS REQUISITOS DO ART. 561, DO CPC - RECORRENTE QUE NÃO DEMONSTROU O PERIGO DE DANO OU RISO AO RESULTADO ÚTIL DO PROCESSO E A PROBABILIDADE DO DIREITO - REQUISITOS IMPRESCINDÍVEIS CUMULATIVOS PARA CONCESSÃO DA LIMINAR - INTELIGÊNCIA DO ART. 300, DOCPC - LIMINAR NÃO CONCEDIDA - AUDIÊNCIA DE JUSTIFICAÇÃO QUE É PRÓPRIA DE AÇÕES POSSESSÓRIAS DE MANUTENÇÃO E/OU REINTEGRAÇÃO DE POSSE - PEDIDO LIMINAR EM SEDE DE RECONVENÇÃO - PREVALÊNCIA DO RITO PROCESSUAL DA AÇÃO DE USUCAPIÃO - ADEMAIS, NADA IMPEDE QUE O JULGADOR DETERMINE A REALIZAÇÃO DE AUDIÊNCIA DE CONCILIAÇÃO E/OU JUSTIFICAÇÃO PARA RESOLUÇÃO DA DEMANDA - NULIDADE NÃO RECONHECIDA - DECISÃO MANTIDA - RECURSO CONHECIDO. E NÃO PROVIDO.
+Os embargos de declaração opostos foram rejeitados, com aplicação de multa (e-STJ, fls. 225-228).
+No recurso especial, a recorrente apontou, além de divergência jurisprudencial, violação do art. 1.021, § 4º, do CPC.
+Esclareceu que se opôs ao acórdão no ponto em que foi condenada a pagar a multa prevista no art. 1.021, § 4º, do CPC, no percentual de 1% (um por cento) sobre o valor atualizado da causa.
+Arguiu que essa penalidade foi aplicada sem fundamentação e justificativas de sua incidência, o que não pode persistir, haja vista que o simples fato de o recurso ter sido desprovido em votação unânime não enseja de modo automática sua fixação. Requereu o provimento do recurso especial (e-STJ, fls. 233-241).
+Nas razões do agravo, a parte insurgente impugna os fundamentos da decisão denegatória do recurso, reiterando, no mais, as razões do mérito recursal.
+Aduz que a exigência do depósito prévio do valor da multa deve ser flexibilizada quando o recurso ulterior, no caso, o recurso especial, tiver como fundamento único e exclusivo a impugnação de sua imposição, em nome do próprio direito ao recurso (arts. 92 e seguintes da CF e 994 e seguintes do CPC (e-STJ, fls. 294-290).
+Brevemente relatado, decido.
+O acórdão proferido no julgamento do agravo de instrumento estabeleceu o pagamento da multa prevista no art. 1.021, § 4º, do CPC no percentual de 1% (um por cento) sobre o valor atualizado da causa. Justificou o decisum que o julgamento do recurso em votação unânime ocasionaria a estipulação dessa penalidade.
+Veja-se (e-STJ, fl. 195):
+Logo, não verificada a nulidade aventada, pelo que a decisão deve ser mantida. Sendo assim, entendo no sentido de dar conhecimento e não provimento ao Agravo Interno interposto por mantendo-se a decisão, CASA MATER BENEFICENCIA DE ABRIGO AO MENOR atacada por seus próprios fundamentos.
+Registre-se que, sendo caso de desprovimento unânime do presente recurso, fica a parte agravante condenada ao pagamento da multa prevista no art. 1.021, § 4º, do CPC, no percentual de 1% (um por cento) sobre o valor atualizado da causa.
+3. DECISÃO:
+Ante o exposto, acordam os Desembargadores da 17ª Câmara Cível do TRIBUNAL DE JUSTIÇADO PARANÁ, por unanimidade de votos, CASA MATER em julgar pelo Não-Provimento do recurso de BENEFICENCIA DE ABRIGO AO MENOR.
+A insurgente interpôs recurso especial questionando a estipulação da multa, sem efetivar seu recolhimento. Consoante o STJ, nos termos do art. 1.021, § 5º, do CPC, o prévio recolhimento da multa prevista no § 4º do referido dispositivo é pressuposto objetivo de admissibilidade de qualquer impugnação recursal, não se conhecendo do recurso manejado sem esse pagamento.
+Vejam-se:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. APLICAÇÃO PELO TRIBUNAL DE ORIGEM DA MULTA DO ART. 1.021, § 4º, DO CPC/2015. NECESSIDADE DE RECOLHIMENTO PRÉVIO. FALTA.
+1. O depósito prévio da multa e sua comprovação constituem óbice à análise de mérito de recurso subsequente que vise a impugnar a mesma matéria já decidida e em razão da qual foi imposta a sanção, não o recurso interposto em outra fase processual e impugnando matéria diversa. Nos termos do § 5º do art. 1.021 do CPC/2015, a interposição de qualquer recurso está condicionada ao depósito prévio do valor da multa prevista no § 4º.
+2. Agravo interno não provido.
+(AgInt no AREsp n. 1.952.505/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 9/8/2022, DJe de 24/10/2022.)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NÃO CONHECEU DO RECLAMO, COM APLICAÇÃO DE MULTA. INSURGÊNCIA DA DEMANDADA.
+1. A aplicação de multa no agravo interno, declarado manifestamente inadmissível em votação unânime (art. 1.021, § 4º, do CPC/15), condiciona a interposição de qualquer outro recurso ao depósito prévio do valor da referida sanção processual, conforme inteligência do art. 1.021, § 5º, do CPC/15 - o que, aliás, foi expressamente consignado no acórdão ora embargado.
+1.1 Não comprovado o recolhimento da multa, inviável o conhecimento dos aclaratórios.
+2. Embargos de declaração não conhecidos
+(EDcl no AgInt no REsp n. 1.985.015/DF, relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/9/2022, DJe de 29/9/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO INTERNO. MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. RECOLHIMENTO PRÉVIO. NECESSIDADE. COMPROVAÇÃO. AUSÊNCIA. ART. 1.021, § 5º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCUMPRIMENTO. RECURSO ESPECIAL. NÃO CONHECIMENTO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O Superior Tribunal de Justiça consolidou entendimento no sentido de que é imprescindível o recolhimento prévio da multa aplicada com base no art. 1.021, § 4º, do Código de Processo Civil de 2015, porquanto constitui pressuposto recursal objetivo de admissibilidade.
+3. Não comprovado o recolhimento prévio da multa, conforme determina o art. 1.021, § 5º, do Código de Processo Civil de 2015, o não conhecimento do recurso é medida que se impõe.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.951.860/MT, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 19/9/2022, DJe de 23/9/2022.)
+Logo, mesmo o apelo excepcional discutindo a fixação da multa, era requisito objetivo de admissibilidade a comprovação de seu recolhimento, o que não ocorreu. Dessa forma, o não conhecimento da pretensão está em sintonia com a jurisprudência desta Corte Superior (óbice da Súmula 83/STJ).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. APLICAÇÃO DA MULTA DO ART. 1.021, § 4º, DO CPC. MANEJO DO APELO EXEPCIONAL SEM O DEVIDO RECOLHIMENTO DE CUSTAS. IMPOSSIBILIDADE DE CONHECIMENTO DO RECURSO. APLICAÇÃO DO ART. 1.021, § 5º, DO CPC. ENTENDIMENTO DA SEGUNDA INSTÂNCIA EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
