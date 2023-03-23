@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de LUAN DE OLIVEIRA DA CRUZ e WALLACE DE OLIVEIRA LIMA contra acórdão proferido pelo eg. TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, nos autos da apelação criminal n. 0023082-54.2021.8.19.0023.
+Depreende-se dos autos que os pacientes foram condenados às penas de 22 (vinte e dois) anos e 9 (nove) meses de reclusão e 17 (dezessete) dias-multa, em regime inicial fechado, como incursos nos arts. 121, §2º, incisos III e IV; e 211, ambos do Código Penal (fls. 67-77).
+No julgamento da apelação, o eg. Tribunal de origem negou provimento ao recurso da defesa, mantendo incólume a sentença condenatória (fls. 86-114).
+No presente writ, a parte impetrante alega, em síntese, a ausência de fundamentação idônea para fixar as penas-base dos pacientes acima do mínimo legal.
+Sustenta a ocorrência do bis in idem pela consideração da agravante genérica do crime praticado por irmão ter sido utilizada concomitantemente na primeira e segunda fases.
+Declara, ainda, a desproporcionalidade da fração utilizada para exasperar as reprimendas.
+Requer, ao final, o redimensionamento das penas dos pacientes.
+Informações prestadas às fls. 165-196.
+O Ministério Público Federal, às fls. 200-206, manifestou-se pelo não conhecimento do writ.
+É o relatório.
+Decido.
+Conforme relatado, busca-se na presente impetração o redimensionamento das reprimendas dos pacientes na primeira fase da dosimetria.
+Cumpre registrar, inicialmente, que a dosimetria da pena está inserida no âmbito de discricionariedade do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito.
+Na presente hipótese, a Corte de origem analisando as circunstâncias do caso concreto, conjugadas com os princípios da proporcionalidade e da razoabilidade, fixou a pena-base dos pacientes acima do mínimo legal, considerando desfavorável aos acusados os motivos do crime, uma vez que "o crime foi praticado por vingança, em razão de uma briga evolvendo seus primos, sendo o homicídio praticado com auxílio de integrantes do tráfico de drogas, em típico ato execução" (fl. 113).
+Com efeito, a jurisprudência desta Corte Superior entende que "a vingança é elemento idôneo a elevar a pena-base acima do mínimo legal" (AgRg no HC n. 679.907/PB, Quinta Turma, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 5/10/2021.
+A propósito: HC n. 155.437/RS, Quinta Turma, Rel. Min. Napoleão Nunes Maia Filho, DJe de 14/02/2011; AgRg no HC n. 530.898/PB, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 09/12/2019; HC n. 512.510/RJ, Quinta Turma, Rel. Min. Felix Fischer, DJe de 01/08/2019; e AgRg no REsp n. 1781987/PA, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 15/02/2019.
+Ressalta-se, ainda, que "no delito de homicídio, havendo pluralidade de qualificadoras, uma delas indicará o tipo qualificado, enquanto as demais poderão indicar uma circunstância agravante, desde que prevista no artigo 61 do Código Penal, ou, residualmente, majorar a pena-base, como circunstância judicial" (AgRg no REsp n. 1.695.310/PA, Sexta Turma, Rel.ª Min.ª Maria Thereza de Assis Moura, DJe de 21/11/2017).
+Além disso, o modus operandi empregado foi considerado de modo negativo, a saber, "a vítima foi brutalmente agredida, e posteriormente queimada, sendo seu corpo encontrado já carbonizado, situação que certamente lhe causou imenso sofrimento" (fl. 113).
+A Corte de origem também valorou negativamente às consequências do crime, levando em consideração à sequela familiar provocada pelo delito, em especial à genitora da vítima, que é também genitora de um dos pacientes.
+Como bem destacado pelo Parquet em seu parecer, "tal circunstância fática extrapola os limites do dano moral esperado para o tipo penal, pois delito dessa gravidade, praticado no seio familiar, causa intenso sofrimento psíquico à genitora e abala a estrutura de toda a família de forma imensurável" (fl. 205).
+De mais a mais, não se percebe a existência de bis in idem, porquanto tal circunstância judicial não se confunde com a agravante prevista no art. 61, inciso II, do Código Penal (crime praticado contra irmão). Em verdade, o desvalor da culpabilidade, como assinalado acima, está fundado no extremo abalo da mãe da vítima, que foi diretamente afetada pelo crime, o que não necessariamente ocorrerá nas hipóteses elecandas pela lei.
+Por fim, o estabelecimento da basilar não se limita a critério matemático, sendo possível a adoção de fração para cada circunstância judicial no patamar de 1/6 (um sexto) sobre a pena-base, 1/8 (um oitavo) sobre o intervalo entre as penas mínima e máxima e, até mesmo, outra fração. Os referidos parâmetros não se revestem de caráter obrigatório, exigindo-se, tão somente, que o critério utilizado pelas instâncias ordinárias seja proporcional e justificado. Veja-se: AgRg no HC n. 718.681/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 30/8/2022.
+Ante o exposto, denego a ordem de habeas corpus.
+P. e I.
