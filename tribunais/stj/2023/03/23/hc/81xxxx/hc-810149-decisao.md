@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de habeas corpus , com pedido liminar, impetrado em favor de MATEUS HENRIQUE TEIXEIRA RAMOS contra acórdão do Tribunal de Justiça do Estado do Paraná assim ementado (e-STJ fl. 91):
+HABEAS CORPUS CRIME. ROUBO QUALIFICADO. ARTIGO 157, §§2º, V E 2º-A, I, DO CÓDIGO PENAL. ALEGAÇÃO DE ILEGALIDADE NO RECONHECIMENTO PESSOAL DO PACIENTE. INOBSERVÂNCIA DO ARTIGO 226 DO CÓDIGO DE PROCESSO PENAL. NÃO ACOLHIMENTO. MERA RECOMENDAÇÃO LEGAL. PRESENÇA DE OUTROS ELEMENTOS PROBATÓRIOS EM DESFAVOR DO PACIENTE, NÃO TÃO SOMENTE A RECONHECIMENTO FOTOGRÁFICO. PEDIDO PARA REVOGAÇÃO DA PRISÃO PREVENTIVA. NÃO ACOLHIMENTO. PRESENÇA DOS REQUISITOS DOS ARTIGOS 312 E 313 DO CÓDIGO DE PROCESSO PENAL. NECESSIDADE DA SEGREGAÇÃO CAUTELAR PARA A GARANTIA DA ORDEM PÚBLICA E EVITAR A REITERAÇÃO DELITIVA.PACIENTE REINCIDENTE. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. ORDEM DENEGADA.
+No presente writ, sustenta a defesa a nulidade do reconhecimento fotográfico realizado em sede policial, uma vez que as vítimas não realizaram a descrição do investigado.
+Alega, ainda, que não estão presentes os requisitos da prisão preventiva do paciente.
+Requer, ao final, seja expedido alvará de soltura em favor do paciente, com o trancamento da ação penal em razão da nulidade do reconhecimento fotográfico.
+É o relatório. Decido.
+De plano, observa-se que o presente habeas corpus possui as mesmas partes, mesmo pedido e mesmo causa de pedir do RHC-178.042/PR (reiteração de pedido), já julgado por este Relator no dia de hoje (22/3/2023).
+Com efeito, " a  mera reiteração de pedido, que se limita a reproduzir, sem qualquer inovação de fato e/ou de direito, os mesmos fundamentos subjacentes a postulação anterior, torna inviável o próprio conhecimento da ação de habeas corpus." (AgR no HC 190.293, Segunda Turma, Relator o Ministro Celso de Mello, Relator para o acórdão o Ministro Gilmar Mendes, julgado em 20/10/202, DJe 19/11/2020).
+Assim, "não podem ser processados nesta Corte, concomitantemente, habeas corpus (ou o recurso que lhe faça as vezes) nos quais se constata litispendência, instituto que se configura exatamente quando há igualdade de partes, de objeto e de causa petendi." (AgRg no HC n. 773.624/PI, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 12/12/2022, DJe de 15/12/2022.)
+Ante o exposto, com amparo no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Intimem-se.
