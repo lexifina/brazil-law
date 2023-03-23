@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo contra o juízo de admissibilidade que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVODE INSTRUMENTO. AÇÃO MONITÓRIA. CHEQUE PRESCRITO. EMBARGOSMONITÓRIOS PARCIALMENTE ACOLHIDOS. CONVERSÃO DA MONITÓRIA EMTÍTULO EXECUTIVO JUDICIAL. SENTENÇA. RECURSO CABÍVEL APELAÇÃOCÍVEL. AUSÊNCIA DE PREVISÃO DE CABIMENTO DO INSTRUMENTAL. ROLTAXATIVO DO ART. 1.015. SITUAÇÃO DE URGÊNCIA NÃO CARACTERIZADA. DECISÃO MANTIDA.
+1. O art. 1.015, do Código de Processo Civil prevê, em numerus clausus, as hipóteses em que a decisão interlocutória poderá ser impugnada.
+2. O Superior Tribunal de Justiça, por meio do Recurso Especial submetido ao rito de recurso repetitivo nº 1.704.520/MT, firmou que o rol do artigo 1.015 do CPC possui taxatividade mitigada, admitindo a interposição de agravo de instrumento quando verificada a urgência decorrente da inutilidade do julgamento da questão no recurso de apelação, o que não ocorreu no caso em análise.
+3. Caso a decisão recorrida não esteja inserida em uma das possibilidades elencadas pelo dispositivo, o pedido formulado em Agravo de Instrumento não merece ser conhecido.
+4. Se a parte agravante não traz argumentos suficientes para acarretar a modificação da linha de raciocínio adotada na decisão vergastada, impõe-se o desprovimento do Agravo Interno, porquanto interposto à míngua de elementos novos capazes de reformá-la.
+RECURSO CONHECIDO E DESPROVIDO.
+A parte agravante sustenta que - seja pelo fato de ter recorrido da retirada da litisconsorte do polo passivo da ação monitória, seja em razão do princípio da fungibilidade - deve ser conhecido seu agravo de instrumento, contra a sentença da ação monitória, que consolidou o título executivo e converteu o processo em execução.
+O recurso, contudo, não tem como ser conhecido. Inviável reconhecer a violação do art. 1.015, VII, do Código de Processo Civil - que se reporta, literalmente, às decisões interlocutórias - para admitir o agravo de instrumento interposto contra sentença. Pouco importa qual matéria foi impugnada, pois se o tema foi tratado na sentença, em face do princípio da unirrecorribilidade, o único recurso cabível é a apelação.
+É óbvio que a norma federal citada como ofendida se refere às decisões proferidas antes da sentença. A insurgência encontra obstáculo no verbete sumular n. 284/STF, pois a conclusão buscada pela embargante não decorre logicamente da legislação invocada como ofendida, o que dificulta a compreensão da controvérsia oferecida a debate no recurso especial.
+O dissídio jurisprudencial não foi demonstrado, eis que os casos indicados como paradigma não tratam da mesma questão debatida no caso sob exame, o que afasta a indispensável semelhança fática entre as hipóteses confrontadas.
+Finalmente, quanto à petição de fls. 506/537 e-STJ, indefiro o pedido de tutela provisória, à mí ngua de fumus boni juris.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
