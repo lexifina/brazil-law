@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interposto por JOSE AUGUSTO DOS SANTOS TRANSPORTE contra decisão que inadmitiu recurso esp ecial manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado:
+APELAÇÃO CÍVEL - MANDADO DE SEGURANÇA - ICMS - ACORDO DE PARCELAMENTO - CÁLCULO DE PARCELAS COM INCIDÊNCIA DE JUROS PREVISTOS NA LEI Nº 13.918/2009 - PRELIMINAR DE MÉRITO  DECADÊNCIA - INOCORRÉNCIA  RELAÇÃO JURÍDICA DE TRATO SUCESSIVO, POSSIBILITANDO A IMPETRAÇÂO APÓS DECORRIDOS 120 DIAS DO TERMO DE ACEITE  MÉRITO - A OBRIGAÇÃO TRIBUTÁRIA DECORRE DA LEI, PORTANTO A CONFISSÃO DE DIVIDA FIRMADA PARA FINS DE PARCELAMENTO DE DÉBITO TRIBUTÁRIO NÃO IMPEDE A REVISÃO DO PODER JUDICIÁRIO, NO QUE SE REFERE AOS SEUS ASPECTOS JURÍDICOS.
+Opostos embargos de declaração foram rejeitados.
+No recurso especial, fundamentado na alínea "a" do permissivo constitucional, o recorrente sustenta a possibilidade de abatimento/amortização dos valores cobrados indevidamente no bojo do próprio parcelamento, à luz do que dispõe a Súmula n. 213/STJ. Ademais, aduz a possibilidade de compensação dos valores indevidamente recolhidos antes da impetração do mandado de segurança.
+Não houve contrarrazões ao recurso especial.
+O Tribunal de origem inadmitiu o recurso especial com fulcro na Súmula n. 7/STJ.
+Insurge-se o agravante contra essa decisão afirmando que, ao contrário do que supõe a origem, o recurso especial reúne condições de processamento.
+Houve contraminuta ao agravo (e-STJ fls. 484/491).
+É o relatório. Decido.
+Cuida-se, na origem, de mandado de segurança impetrado pelo ora agravante contra ato do Procurador Geral do Estado de São Paulo, alegando que aderiu ao programa especial de parcelamento para pagamento de débito de ICMS referentes as CDAs acostadas aos autos. Entretanto, a autoridade coatora fez incidir juros de mora superiores à SELIC, razão pela qual objetivou o recálculo dos juros embutidos nos débitos incluídos no parcelamento, pleito que restou acolhido pela Corte local.
+No presente, a parte pleiteia o direito de abatimento/amortização dos valores indevidamente pagos e não alcançados pela prescrição.
+A insurgência não merece prosperar.
+Ocorre que a parte deixou de apontar dispositivo de lei federal violado apto a amparar a pretensão recursal, razão pela qual a argumentação do apelo nobre é deficiente, atraindo a incidência da Súmula n. 284/STF.
+No mesmo sentido:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. ICMS. INCOMPETÊNCIA DO JUÍZO. SÚMULA N. 280/STF. PRESTAÇÃO ONEROSA DE SERVIÇOS DE COMUNICAÇÃO. RADIODIFUSÃO SONORA E DE SONS E IMAGENS. SÚMULA N. 283/STF. MULTA. AUSÊNCIA DE DISPOSITIVO VIOLADO. SÚMULA N. 284/STF. HONORÁRIOS ADVOCATÍCIOS. CRITÉRIO DE EQUIDADE. SÚMULAS N. 282 E 356 DO STF. EXEGESE DE DISPOSITIVOS CONSTITUCIONAIS. COMPETÊNCIA DO STF. VALIDADE DE LEI LOCAL EM FACE DE LEI FEDERAL E DA CF/88. COMPETÊNCIA DO STF. ART. 1.032 DO CPC/15. INAPLICABILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. A questão da nulidade dos atos processuais foi resolvida na origem à luz do que dispõe a Lei Estadual n. 6.564/05, que trata da organização do Poder Judiciário. Súmula n. 280/STF.
+2. Quanto à matéria de fundo, a agravante apenas sustentou a necessidade de incidência do ICMS, deixando de impugnar o fundamento do acórdão que ensejou o afastamento do tributo, isto é, a inseparabilidade da prestação de serviço e a competência legislativa da União (e-STJ fl. 515). Súmula n. 283/STF.
+3. Contrariamente ao argumento do presente recurso no sentido de que "o Tribunal local efetivamente enfrentou a temática ora discutida no presente Recurso Especial" (e-STJ fl. 715), ausente o necessário prequestionamento acerca da aplicação do critério de equidade no arbitramento dos honorários advocatícios. Súmulas n. 282 e 356 do STF.
+4. O agravante deixou de apontar dispositivo de lei violado vinculado à tese de a multa aplicada na origem possui caráter confiscatório (Súmula n. 284/STF ).
+5. O Tribunal a quo afastou a incidência do ICMS com fulcro na exegese dada ao trecho "prestações de serviço de comunicação nas modalidades de radiodifusão sonora e de sons e imagens de recepção livre e gratuita", contido no art. 155, § 2º, X, "d", da Constituição Federal. Consignou também que a matéria insere-se na competência da União prevista nos arts. 22, IV e XXIX, e 48, I e XII, da Carta Magna. Competência do STF.
+6. A consonância entre a legislação estadual (Lei Estadual n. 5.900) e o que dispõe a Constituição Federal e a Lei Complementar n. 87/96, configura exame da validade da legislação local em face da legislação federal e da CRFB/88. Competência do STF.
+7. Para a aplicação do art. 1.032 do Código de Processo Civil, é necessário que o especial trate de questão constitucional e tenha havido equívoco quanto à escolha do recurso cabível. Tal não é o caso dos autos, em que o acórdão possui fundamentos constitucionais e legais, e foi interposto exclusivamente Recurso Especial, versando sobre matéria infraconstitucional.
+8. Agravo interno não provido.
+(AgInt no REsp n. 1.866.660/AL, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 24/5/2022, DJe de 27/5/2022.)
+No mais, não é cabível recurso especial com fundamento em violação de súmula uma vez que tais enunciados não se enquadram no conceito de lei federal previsto no permissivo constitucional.
+A propósito:
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. RESOLUÇÔES DO CONFEF. EXTRAPOLAÇÃO DE PODER REGULAMENTADOR. NORMA NÃO SUJEITA A EXAME EM RECURSO ESPECIAL 1. A teor do que dispõe o art. 105, III, "a", da CF/1988, não é cabível recurso especial com fundamento em violação de súmula, de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal 2. Modificar a "argumentação adotada pelo Tribunal de origem, para entender que a Resolução CONFEF 45/2002 teria extrapolado seu poder regulamentador não é cabível em sede de recurso especial, pois não cabe ao Superior Tribunal de Justiça analisar atos normativos subalternos destituídos de natureza de lei federal" (AgInt no REsp n. 1.588.996/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 20/9/2016).
+Agravo interno improvido.
+(AgInt no AREsp n. 2.047.546/MG, relator Ministro Humberto Martins, Segunda Turma, julgado em 6/3/2023, DJe de 13/3/2023.)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. ICMS. VALORES COBRADOS INDEVIDAMENTE. ABATIMENTO/AMORTIZAÇÃO. AUSÊNCIA DE DISPOSITIVO VIOLADO. SÚMULA N. 284/STF. VIOLAÇÃO A ENUNCIADO DE SÚMULA. IMPOSSIBILIDADE. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
