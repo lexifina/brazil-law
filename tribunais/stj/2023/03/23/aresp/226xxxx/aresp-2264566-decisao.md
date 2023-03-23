@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS em adversidade à decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça local, cuja ementa é a seguinte (e-STJ fls. 337):
+APELAÇÃO CRIMINAL - ROUBO MA. JORADO - AUSÊNCIA DE PROVAS - IMPOSSIBILIDADE DE MANUTENÇÃO DA CONDENAÇÃO - ABSOLVIÇÃO - NECESSIDADE - RECURSO CONHECIDO E PROVIDO. - Ausentes provas seguras de que os acusados praticaram o delito de roubo majorado, impossível a manutenção de sua condenação por tal delito.
+Interpostos embargos de declaração, esses foram rejeitados (e-STJ fls. 360/364).
+Nas razões do recurso especial (e-STJ fls. 368/384), fundado na alínea "a" do permissivo constitucional, alega a parte recorrente violação do artigo 157, §2º, inciso II, c/c artigo 61, inciso II, alínea "h", do CP e do artigo 155 do CPP. Sustenta a existência de prova concreta para a condenação dos acusados pelo delito de roubo.
+Apresentadas contrarrazões (e-STJ fls. 388/391 e 476/479), o Tribunal a quo não admitiu o recurso especial (e-STJ fls. 481/483), tendo sido interposto o presente agravo. O Ministério Público Federal, instado a se manifestar, opinou pelo não provimento do agravo (e-STJ fls. 519/522).
+É o relatório. Decido.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo.
+O recurso não merece acolhida.
+O Tribunal a quo, em decisão devidamente motivada, absolveu os envolvidos do delito do artigo 157, §2º, inciso II, c/c artigo 61, inciso II, alínea "h", do CP, ao argumento de que, do caderno instrutório, não emergem elementos suficientemente idôneos de prova para a condenação, tendo em vista que não há nos autos quaisquer provas que indiquem que acusados subtraíram a res furtiva, sendo assim, impossível a sua condenação pelo crime de roubo majorado (e-STJ fls. 339/345).
+Assim, por mais que o Ministério Público estadual se esforce em demonstrar o contrário, almejando a condenação dos agravados , rever os fundamentos utilizados pela Corte Estadual, para afastar a absolvição, como requer a acusação, importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula 7/STJ.
+Ante o exposto, com fundamento no art. 932, inciso III, do CPC, c/c o art. 253, parágrafo único, inciso II, alínea "a", parte final do RISTJ, conheço do agravo para não conhecer do recurso especial.
