@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Instituto Nacional do Seguro Social contra acórdão do Tribunal Regional Federal da 4ª Região assim ementado:
+PREVIDENCIÁRIO. AÇÃO DE COBRANÇA. BENEFÍCIO RECEBIDOINDEVIDAMENTE. PRESCRIÇÃO.
+1. De acordo com o Tema STF nº 666: É prescritível a ação de reparação de danos à Fazenda Pública decorrente de ilícito civil.
+2. Por uma questão de isonomia, aplica-se às ações de cobrança promovidas pelo INSS para restituição dos valores indevidamente recebidos a título de benefício o prazo prescricional de cinco anos previsto no Decreto20.910/1932.
+3. Prescrição consumada.
+Os embargos declaratórios opostos pelo recorrente foram rejeitados.
+Em razões de recurso especial manejado com fundamento nas alíneas "a" e "c" do permissivo constitucional, o recorrente alega violação aos artigos 219 e 240, § 1º, e 1022, I e II, parágrafo único, inciso II, do CPC/2015; 202 do Código Civil; 4º do Decreto 20.910/32.
+Aponta negativa de prestação jurisdicional ao argumento de que "a Corte Regional quedou-se silente quanto a relevantes questões que mereciam o adequado enfrentamento - mais precisamente, acerca da interrupção da prescrição em razão do ajuizamento de demanda executiva para a cobrança do crédito impugnado, e quanto à adequação da tese adotada pelo voto quanto ao transcurso do prazo prescricional em relação à realidade dos autos, especialmente porque aquela seria a última instância jurisdicional disponível para discussão do conjunto probatório".
+Alega também: (i) "não há que se falar em prescrição no caso em comento, considerando que não houve inércia da Autarquia, que ajuizou a competente execução fiscal - sendo que, entendimento posterior da jurisprudência entendeu pela inadequação da via"; (ii) "Conforme jurisprudência pacífica do Superior Tribunal de Justiça, a citação válida, mesmo tendo sido extinta sem resolução de mérito a ação anteriormente proposta, interrompe a prescrição"; (iii) "Não se tratando de interrupção da prescrição o período de tramitação do processo administrativo - mas de suspensão do prazo durante o seu curso - não remanesce qualquer óbice a considerar o ajuizamento da execução fiscal, ocorrido em 10/10/2011, como marco interruptivo da prescrição. Ou ainda, a expedição de precatória para citação, ocorrida em 18/04/2012".
+Contrarrazões apresentadas defendendo a manutenção do acórdão.
+É o relatório.
+Decido.
+De início, depreende-se dos autos que o Tribunal de origem, de modo fundamentado, afastou a tese de que a pretensão ao ressarcimento de valores pagos indevidamente a título de benefício previdenciário é imprescritível, nos seguintes termos:
+O Supremo Tribunal Federal, ao julgar o RE nº 669.069 decidiu que a imprescritibilidade a que se refere o art. 37, § 5º, da Constituição diz respeito apenas às ações de ressarcimento de danos ao erário decorrentes de atos tipificados como ilícitos de improbidade administrativa ou como ilícitos penais, por qualquer agente, servidor ou não. Colho do voto do Ministro Teori Zavascki o seguinte fragmento:
+O que se mostra mais consentâneo com o sistema de direito, inclusive o constitucional, que consagra a prescritibilidade como princípio, é atribuir um sentido estrito aos ilícitos de que trata o § 5º do art. 37 da Constituição Federal, afirmando como tese de repercussão geral a de que a imprescritibilidade a que se refere o mencionado dispositivo diz respeito apenas a ações de ressarcimento de danos decorrentes de ilícitos tipificados como de improbidade administrativa e como ilícitos penais. (destaquei).
+Nada obstante os argumentos trazidos pelo INSS, não há que se falar em imprescritibilidade no presente caso. Isto porque, não se tem conhecimento de ação penal ou ação por improbidade administrativa ajuizada contra a apelada. Assim, é inaplicável o art. 37, § 5º, da Constituição Federal o caso dos autos.
+Destarte, como bem verificado na sentença, verificada a prescrição, o recurso interposto pelo INSS não merece provimento.
+Na linha da jurisprudência desta Corte, não há falar em negativa de prestação jurisdicional, nem em vício quando o acórdão impugnado aplica tese jurídica devidamente fundamentada, promovendo a integral solução da controvérsia, ainda que de forma contrária aos interesses da parte.
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO - CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE O DÉCIMO-TERCEIRO SALÁRIO - CÁLCULO EM SEPARADO -REGIME DAS LEIS 8.212/91 E 8.620/93- POSSIBILIDADE - CPC, ART. 535, II - AUSÊNCIA DE VIOLAÇÃO.
+1.Não ocorre ofensa ao art. 535, II, do CPC, se o Tribunal de origem analisa, ainda que implicitamente, a tese objeto dos dispositivos legais apontados pela parte.
+2. A eg. Primeira Seção pacificou o entendimento de que, na vigência da Lei n.º 8.620/93, é legítimo o cálculo em separado da contribuição previdenciária sobre o décimo-terceiro salário (EREsp 442.781, Rel. Min. Teori Albino Zavascki, julgado em 14.11.2007, DJ de 10.12.2007).
+3. Recurso especial provido.
+(REsp 868.242/RN, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 27/05/2008, DJe 12/06/2008)
+A alegada violação ao artigo 1022 do CPC/2015, portanto, não merece ser acolhida.
+Ademais, a sentença que declarou a prescrição da pretensão ressarcitória, confirmada pelo acórdão recorrido, discorreu que:
+Quanto à Execução Fiscal nº 5000672-74.2011.4.04.7214, interposta pelo INSS, em junho de 2011 (extinta sem julgamento do mérito, por inadequação da via eleita), verifico que não interrompeu o prazo prescricional para o ajuizamento da presente ação de ressarcimento, uma vez que não ocorreu a citação válida naquela ação executiva (conforme consulta processual - art. 240 do CPC).
+Assim, o reconhecimento da prescrição quinquenal do art. 1º do Decreto nº 20.910/32, é medida que se impõe, extinguindo-se o feito com resolução do mérito, nos termos do art. 487, II, do CPC.
+O acolhimento da pretensão recursal, portanto, demanda o reexame do contexto fático-probatório, em especial para aferir se a execução fiscal previamente manejada pela autarquia, de fato, interrompeu ou não o lapso prescricional, o que atrai o óbice da súmula 7/STJ.
+Ainda que afastado o óbice sumular supramencionado, a conclusão do acórdão a quo a respeito do direito vindicado apoia-se em fundamentação eminentemente constitucional, cuja revisão não é da competência deste Tribunal, nos termos do art. 105, III, da Constituição Federal.
+Ilustrativamente:
+PROCESSUAL CIVIL. ADMINISTRATIV. PREVIDENCIÁIO. PENSÃO POR MORTE. PRESCRIÇÃO. FUNDAMENTOS CONSTITUCIONAL E INFRACONSTITUCIONAL. INCIDÊNCIA DO ENUNCIADO N. 126 DA SÚMULA DESTA CORTE. RECURSO ESPECIAL NÃO CONHECIDO EM DECISÃO DA PRESIDÊNCIA DESTA CORTE. MANUTENÇÃO DA DECISÃO. AGRAVO INTERNO IMPROVIDO.
+I - Na origem, trata-se de ação ordinária em que se pretende a concessão de benefício de pensão por morte. Na sentença, extinguiu-se o feito em razão do reconhecimento da prescrição. No Tribunal a quo, a sentença foi reformada para julgar procedente o pedido.
+II - Verifica-se que a controvérsia foi dirimida, pelo Tribunal de origem, sob enfoque constitucional e infraconstitucional, competindo ao Supremo Tribunal Federal eventual reforma do acórdão recorrido, sob pena de usurpação de competência inserta no art. 102 da Constituição Federal. Considerando que não há recurso extraordinário interposto nos autos, incide o enunciado n. 126 da Súmula desta Corte, segundo o qual: "É inadmissível recurso especial, quando o acordão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário."
+Nesse sentido: AgInt no REsp 1.626.653/PE, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 26/9/2017, DJe 6/10/2017; REsp 1.674.459/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 3/8/2017, DJe 12/9/2017.
+(..)
+IV - Agravo interno improvido. (AgInt no AREsp n. 2.120.222/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 7/12/2022, DJe de 13/12/2022.)
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015 c/c o art. 255, § 4º, I e II, do RISTJ, e na Súmula 568/STJ, conheço parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. PRESCRIÇÃO DA PRETENSÃO AFERIDA PELO TRIBUNAL DE ORIGEM. SÚMULA 7/STJ. FUNDAMENTAÇÃO EMINENTEMENTE CONSTITUCIONAL DO ACÓRDÃO RECORRIDO. RECURSO ESPECIAL CONHECIDO E NÃO PROVIDO.
