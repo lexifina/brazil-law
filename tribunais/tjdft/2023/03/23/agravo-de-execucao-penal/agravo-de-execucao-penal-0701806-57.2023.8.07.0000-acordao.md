@@ -1,0 +1,138 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+3ª Turma Criminal
+Processo N.AGRAVO DE EXECUÇÃO PENAL 0701806-57.2023.8.07.0000AGRAVANTE(S)ANDREAS VINICIUS RODRIGUES DE CARVALHOAGRAVADO(S)MINISTERIO PUBLICO DO DISTRITO FEDERAL E DOS TERRITORIOSRelatorDesembargador WALDIR LEÔNCIO LOPES JÚNIOR Acórdão Nº1680078
+
+EMENTA
+
+ AGRAVO EM EXECUÇÃO PENAL. CRIME DE FURTO QUALIFICADO PRATICADO DURANTE O REPOUSO NOTURNO. ENTENDIMENTO JURISPRUDENCIAL EM SEDE DE RECURSO REPETITIVO NO TEMA 1.087. INAPLICABILIDADE. RECURSO CONHECIDO E DESPROVIDO.
+
+1. O art. 66, inc. I, da Lei de Execuções Penais, ao prever as competências do juiz da execução, restringe-se a permitir que o magistrado aplique a lei posterior mais benéfica ao apenado, nada prevendo sobre alteração superveniente de orientação jurisprudencial.
+
+2. A mudança de entendimento jurisprudencial não tem o condão de afastar a coisa julgada e, de forma indiscriminada, ser aplicada retroativamente, em flagrante afronta à coisa julgada e ao duplo grau de jurisdição, sob pena de grande insegurança jurídica.
+
+3. Recurso conhecido e desprovido.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 3ª Turma Criminal do Tribunal de Justiça do Distrito Federal e dos Territórios, WALDIR LEÔNCIO LOPES JÚNIOR - Relator, SANDOVAL OLIVEIRA - 1º Vogal e DEMÉTRIUS GOMES CAVALCANTI - 2º Vogal, sob a Presidência do Senhor Desembargador SANDOVAL OLIVEIRA, em proferir a seguinte decisão: CONHECIDO. DESPROVIDO. UNÂNIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 30 de Março de 2023
+
+Desembargador WALDIR LEÔNCIO LOPES JÚNIORRelator
+
+RELATÓRIO
+
+Cuida-se de agravo em execução interposto por ANDREAS VINÍCIUS RODRIGUES DE CARVALHO contra a decisão proferida pelo Juízo da Vara de Execuções Penais do Distrito Federal, a qual não conheceu o pedido da defesa consistente no afastamento da causa de aumento referente ao repouso noturno prevista no art. 155, §1º, do Código Penal, nos termos do tema repetitivo n. 1.087, julgado pelo Superior Tribunal de Justiça, declarando-se incompetente para a apreciação do pleito (ID 42908390 - Pág. 232).
+
+Nas razões do agravo em execução (ID 42908390 Pág. 1-7), a defesa sustenta que, não obstante o Magistrado não tenha conhecido do pedido, é competência funcional do Juízo da Execução Penal a aplicação de lei posterior que favoreça o sentenciado.
+
+Argumenta que, embora o art. 66, inciso I, da Lei de Execução Penal faça referência a “lei posterior”, são aplicáveis, à sistemática da execução penal, as modificações introduzidas pelo Código de Processo Penal de 2015, nos arts. 932 e 1.039. Aduz que os procedentes formulados no âmbito do julgamento de recursos repetitivos apresentam eficácia vinculante e, portanto, “passam a ostentar a compostura de normas legais, dotadas de abstração, generalidade e impessoalidade, mas com densidade normativa maior, diminuindo-lhe a indeterminação do suporte fático”.
+
+Alega que é necessária a evolução da interpretação do art. 66, inciso I, da LEP, de modo a abarcar os enunciados julgados nos recursos repetitivos. Ressalta que a Constituição Federal devota ao Superior Tribunal de Justiça “a missão de unificar a exegese do direito federal infraconstitucional, devendo ser a sua orientação, em semelhante âmbito, respeitadas e observadas”.
+
+Requer, ao fim, o provimento do agravo em execução para que seja reformada a decisão recorrida, reconhecendo-se a competência do Juízo da Vara de Execuções Penais para a apreciação retroativa do entendimento do STJ no Tema 1.087 (impossibilidade de incidência da majorante do furto noturno à forma qualificada do furto).
+
+O Ministério Público oferece contrarrazões, pugnando pelo conhecimento e desprovimento do recurso (ID 42908390 - Pág. 274-278).
+
+O Juízo de origem manteve a decisão agravada por seus próprios fundamentos (ID 42908390 - Pág. 282).
+
+A d. 9ª Procuradoria de Justiça oferta parecer pelo conhecimento e desprovimento do recurso (ID 43055287).
+
+É o relatório.
+
+VOTOS
+
+O Senhor Desembargador WALDIR LEÔNCIO LOPES JÚNIOR - Relator
+
+Porque presentes os pressupostos de admissibilidade, conheço do recurso.
+
+Cuida-se de agravo em execução interposto por ANDREAS VINICIUS RODRIGUES DE CARVALHO contra a decisão proferida pelo Juízo da Vara de Execuções das Penas e Medidas Alternativas do DF, a qual não conheceu do pedido da defesa que visava à aplicação retroativa de entendimento firmado em sede de recurso repetitivo (ID 42908390 - Pág. 232).
+
+Durante a execução da pena, a Defensoria Pública, em assistência ao agravante, formulou pedido ao Juízo da Execução, a fim de que fosse aplicada retroativamente a tese fixada em recursos repetitivos pelo Superior Tribunal de Justiça sob o Tema nº. 1.087/STJ, afastando-se a incidência da causa de aumento alusiva ao repouso noturno na execução de número 0404711-39.2018.8.07.0015.
+
+O eminente Magistrado da Vara de Execuções das Penas e Medidas Alternativas do DF deixou de apreciar o pleito defensivo, ao argumento de que a VEP não possui competência para a análise do pedido. Confira-se o teor da decisão combatida (ID 42908390 - Pág. 232):
+
+A despeito dos argumentos lançados pela combativa defesa, razão não lhe assiste.
+
+O título executivo formado a partir do julgamento da denúncia não deve sofrer alteração em razão da mudança jurisprudencial promovida em aspectos da dosimetria da pena sem mudança legal correspondente e sem que diga respeito diretamente ao modo de execução da pena.
+
+Assim, julgo que o entendimento firmado pelo STJ somente deve ter aplicabilidade nos casos ainda não sentenciados, razão pela qual esta VEPEMA se mostra, por decorrência lógica, incompetente.
+
+Ante o exposto, indefiro o pedido.
+
+Contra a decisão, agrava a Defesa, nos termos do Relatório.
+
+Sustenta o agravante, em síntese, que o art. 66, inciso I, da Lei de Execuções Penais estabelece que é da competência do Juiz da execução da pena apreciar, por extensão, modificações jurisprudenciais, porque: i) o Código de Processo Civil conferiu eficácia vinculante aos julgados proferidos em sede de recursos repetitivos; ii) o referido artigo da LEP deve ser interpretado evolutivamente; iii) o STJ possui a missão de unificar a exegese do direito federal infraconstitucional, devendo sua orientação ser respeitada; e iv) a decisão agravada malferiu o art. 66 da LEP.
+
+Adianto que não lhe assiste razão.
+
+Antes de adentrar na questão de fundo, convém ressaltar que o Superior Tribunal de Justiça consolidou o entendimento acerca da incidência da majorante do repouso noturno no crime de furto qualificado no Tema Repetitivo n. 1087, segundo o qual “a causa de aumento prevista no § 1° do art. 155 do Código Penal (prática do crime de furto no período noturno) não incide no crime de furto na sua forma qualificada (§ 4°)”.
+
+Consta da Carta Guia Definitiva (ID 42908390 - Pág. 10) que o agravante, ANDREAS VINICIUS RODRIGUES DE CARVALHO, foi condenado na ação penal 2017.01.1.026744-8, por furto qualificado com incidência da causa de aumento relativa ao repouso noturno (art. 155, §§ 1º e 4º, incisos I e IV, do Código Penal), à pena de 3 (três) anos, 1 (um) mês e 10 (dez) dias de reclusão, no regime inicial aberto, mais 15 (quinze) dias-multa à razão unitária mínima.
+
+Todavia, conquanto o entendimento jurisprudencial seja mais benéfico ao agravante, a recente tese não tem o atributo de atrair a competência do Juízo da Execução para desconstituir a coisa julgada.
+
+Ressalte-se que a Constituição Federal estabelece, no art. 5º, inciso XL, que “a lei penal não retroagirá, salvo para beneficiar o réu”.
+
+Do mesmo modo, o art. 66, inc. I, da Lei de Execuções Penais, ao prever as competências do juiz da execução, restringe-se a permitir que o magistrado aplique a lei posterior mais benéfica ao apenado, nada prevendo acerca da alteração superveniente de orientação jurisprudencial.
+
+Nesse mesmo sentido, a súmula 611 do STF: “Transitada em julgado a sentença condenatória, compete ao juízo das execuções a aplicação de lei mais benigna”.
+
+A Constituição e a Lei de Execução Penal são restritas em prever que a retroatividade circunscreve-se apenas à lei, diga-se, a norma legislativa. O entendimento jurisprudencial, ainda que em sede de recursos repetitivos, confere à lei – já existente – uma interpretação com sentido futuro, para casos posteriores.
+
+É dizer, o processo constitui uma marcha adiante, na qual se encadeiam procedimentos e entendimentos, os quais constituem uma expressão da conjuntura jurídica que se soma à lei e à sua interpretação, culminando na coisa julgada.
+
+Dito de outro modo, o ato idôneo a inovar a ordem jurídica e desconstituir a coisa julgada penal é a lei. Descabe, portanto, conferir à interpretação da lei a capacidade de refletir sobre o trânsito em julgado de uma sentença sem possibilidade de recurso, desconstituindo a coisa julgada.
+
+Nenhum entendimento jurisprudencial é apto a proibir uma conduta ou torná-la permitida.
+
+Não se desconhece a inovação, em termos de paradigma jurídico, quanto à adoção, pelo legislador, dos recursos repetitivos. Contudo, mais consistentes que a vinculação dos recursos repetitivos, é a lei, a qual incrimina condutas cominando penas, bem assim a coisa julgada.
+
+Esposar o entendimento da defesa seria conferir mais importância à vinculação de um precedente que ao axioma da coisa julgada, o qual, diga-se, constitui instituto essencial para a estabilidade, integridade, coerência e segurança jurídica do sistema, bem como à segurança jurídica.
+
+Para mais, contrariamente ao que alega o agravante, o próprio Superior Tribunal de Justiça rechaçou, recentemente, nas duas turmas criminais da Corte, a possibilidade de que eventuais análises de matérias transitadas em julgado possam ser feitas ao argumento da aplicação do novo prisma jurisprudencial. Confira-se:
+
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. FURTO QUALIFICADO. DOSIMETRIA. PEDIDO DE AFASTAMENTO DA CAUSA DE AUMENTO DE PENA RELATIVA AO REPOUSO NOTURNO. ALTERAÇÃO DE ENTENDIMENTO JURISPRUDENCIAL POSTERIOR AO TRÂNSITO EM JULGADO DA CONDENAÇÃO. IMPOSSIBILIDADE. PRECEDENTES DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+
+II - Furto qualificado. Pedido de afastamento da causa de aumento de pena relativa ao repouso noturno. Com efeito, "este Superior Tribunal de Justiça que a mudança de entendimento jurisprudencial não autoriza o ajuizamento de Revisão Criminal" (AgRg no HC n. 395.162/SC, Quinta Turma, Rel. Min. Felix Fischer, DJe de 21/09/2017).
+
+III - Isto é: a alteração de entendimento jurisprudencial verificada posteriormente ao trânsito em julgado da condenação não autoriza o ajuizamento de revisão criminal, visando a sua aplicação retroativa, assim co mo pretendido pela defesa no presente writ, sob pena de serem violados os princípios da coisa julgada e da segurança jurídica.
+
+Agravo regimental desprovido.
+
+(AgRg no HC n. 782.558/SC, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 7/2/2023, DJe de 14/2/2023.)
+
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PLEITO DE AFASTAMENTO DA MAJORANTE DO REPOUSO NOTURNO. SUPRESSÃO DE INSTÂNCIA. MODIFICAÇÃO DE ENTENDIMENTO JURISPRUDENCIAL QUE NÃO AUTORIZA, POR SI SÓ, A DESCONSTITUIÇÃO DOS EFEITOS DA COISA JULGADA PELA VIA REVISIONAL. RECURSO DESPROVIDO.
+
+1. A questão referente à incompatibilidade da majorante do repouso noturno com a forma qualificada do delito de furto não foi objeto de prévio debate no âmbito da Corte de origem e, aparentemente, nem mesmo foi requerida nas razões de apelação. Assim, sem prévia manifestação do Tribunal de origem no ponto, afigura-se incabível o exame da matéria de forma originária, por esta Corte, sob pena de indevida supressão de instância.
+
+2. A Terceira Seção do Superior Tribunal de Justiça, ao apreciar o Tema Repetitivo n. 1087, fixou a tese de que "[a] causa de aumento prevista no § 1º do art. 155 do Código Penal (prática do crime de furto no período noturno) não incide no crime de furto na sua forma qualificada (§ 4º)" (REsp n. 1.888.756/SP, relator Ministro João Otávio de Noronha, Terceira Seção, julgado em 25/5/2022, DJe 27/6/2022). No entanto, quando do julgamento da apelação (14/11/2021 - ou seja, antes do overruling), havia consenso em ambas as Turmas da Terceira Seção desta Corte quanto à plena possibilidade de aplicação da causa de aumento do repouso noturno ao furto qualificado.
+
+3. O que se pretende neste feito é a desconstituição dos efeitos da coisa julgada com fundamento na posterior alteração de entendimento jurisprudencial que é mais favorável ao Sentenciado. Ocorre que a pacífica jurisprudência desta Corte rechaça a pretensão que visa à revisão de decisão já transitada em julgado com base na simples modificação da compreensão jurisprudencial de determinada controvérsia.
+
+4. Recurso desprovido.
+
+(AgRg no HC n. 779.647/SC, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 6/12/2022, DJe de 15/12/2022.)
+
+Acerca da aplicação retroativa do novo entendimento, já se pronunciou este Tribunal de Justiça no mesmo sentido do STJ:
+
+RECURSO DE AGRAVO EM EXECUÇÃO. FURTO QUALIFICADO. REPOUSO NOTURNO. TEMA 1.087 DOS RECURSOS ESPECIAIS. ARTIGO 66, I, DA LEI DE EXECUÇÃO PENAL. LEI EM SENTIDO FORMAL. IRRETROATIVIDADE DE ORIENTAÇÃO JURISPRUDENCIAL. PRECEDENTES DO STF E STJ. RECURSO DESPROVIDO.   1. Trata-se de agravo em execução penal contra decisão que indeferiu o pedido de aplicação retroativa da tese fixada no Tema 1.087 do STJ para afastar a causa de aumento de pena prevista no art. 155, §1º, do Código Penal   2. Tanto a Constituição Federal em seu art. 5º, inciso XL, quanto a Lei de Execução Penal em seu artigo 66, I, são enfáticas em prever que a retroatividade de lei posterior mais benéfica ao réu se atém apenas à norma legislativa, não se estendendo aos entendimentos jurisprudenciais provenientes do Poder Judiciário. Com efeito, a alteração jurisprudencial não é suficiente para ensejar rediscussão de coisa julgada, sobretudo pela via do agravo em execução   3. Os Tribunais Superiores não admitem a equiparação entre a produção jurisprudencial e a alteração da lei, de modo a afastar a obrigatoriedade de aplicação retroativa de precedente qualificado pelo Juízo da Execução.   4. Recurso conhecido e desprovido.
+
+(Acórdão 1659615, 07349315020228070000, Relator: SANDOVAL OLIVEIRA, 3ª Turma Criminal, data de julgamento: 2/2/2023, publicado no PJe: 10/2/2023. Pág.: Sem Página Cadastrada.)
+
+AGRAVO EM EXECUÇÃO PENAL. DIREITO PENAL E CONSTITUCIONAL. TEMA 1.087 DO SUPERIOR TRIBUNAL DE JUSTIÇA. FURTO QUALIFICADO. NÃO INCIDÊNCIA DA CAUSA DE AUMENTO PELO REPOUSO NOTURNO. MUDANÇA JURISPRUDENCIAL. IRRETROATIVIDADE. COISA JULGADA MATERIAL. SEGURANÇA E ESTABILIDADE JURÍDICA. RECURSO CONHECIDO E DESPROVIDO. 1. Em julgamento de recursos especiais repetitivos (Tema n.º 1.087), a Terceira Seção do Superior Tribunal de Justiça, em uma mudança súbita de entendimento, determinou que a causa de aumento de pena pela prática de furto no período noturno (artigo 155, § 1º, do Código Penal) não incide na forma qualificada do crime (artigo 155, § 4º, do Código Penal). 2. Este recente entendimento jurisprudencial se aplica somente aos casos que ainda não foram alcançados pela coisa julgada, pois a Constituição Federal de 1988 se refere apenas à retroatividade da lei penal, proibindo-a quando maléfica e fomentando-a quando benéfica. Assim, o art. 5º, inciso XL, da CF/88 não se aplica para mudanças de entendimento jurisprudencial, mas apenas para mudanças legislativas, assegurando a segurança jurídica das decisões judiciais. 3. A alteração de entendimento jurisprudencial não se aplica retroativamente aos casos já definitivamente julgados, ainda que em benefício do réu, independentemente da via processual eleita, seja por agravo em execução penal, seja por revisão criminal, justamente por não se tratar de lei, em sentido formal, mais vantajosa. 4. RECURSO CONHECIDO E DESPROVIDO. Decisão mantida.
+
+(Acórdão 1656535, 07310913220228070000, Relator: ROBSON BARBOSA DE AZEVEDO, 2ª Turma Criminal, data de julgamento: 26/1/2023, publicado no PJe: 9/2/2023. Pág.: Sem Página Cadastrada.)
+
+Por todo o exposto, conheço do recurso e a ele NEGO PROVIMENTO.
+
+É como voto.
+O Senhor Desembargador SANDOVAL OLIVEIRA - 1º Vogal Com o relatorO Senhor Desembargador DEMÉTRIUS GOMES CAVALCANTI - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECIDO. DESPROVIDO. UNÂNIME.
