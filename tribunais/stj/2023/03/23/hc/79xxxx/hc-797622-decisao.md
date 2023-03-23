@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de Josemar Morais Rosa, em que se aponta como autoridade coatora o Tribunal de Justiça do Rio Grande do Sul.
+Narram os autos que o Juízo de Direito da 4ª Vara do Júri da comarca de Porto Alegre/RS condenou o paciente como incurso no crime de homicídio qualificado tentado à pena de 7 anos e 8 meses de reclusão, no regime inicial semiaberto (Ação Penal n. 5010666-54.2016.8.21.0001).
+Inconformada, a defesa interpôs apelação criminal na colenda Corte de origem, que deu parcial provimento ao recurso, apenas para redimensionar a reprimenda imposta ao paciente, mantendo, no mais, a condenação imposta.
+Aqui, a defesa alega a ocorrência de nulidades, decorrente da utilização de argumento de autoridade capaz de macular a imparcialidade dos jurados, bem como de quesitação de qualificadora apresentada na denúncia, mas inexistente em decisão de pronúncia.
+Sustenta a impetrante que o órgão da acusação utilizou o exercício do direito ao silêncio por parte do acusado, por meio do não comparecimento aos atos processuais, para influenciar negativamente o Conselho de Sentença, contrariamente ao que dispõe o art. 478 do Código de Processo Penal.
+Aduz que foi quesitada a qualificadora da utilização de recurso que dificultou a defesa da vítima, mas a decisão de pronúncia foi extremamente genérica quanto à qualificadora  .. , não adentrado em nenhum detalhe, assim como não delimitou a condutado agente, ao ponto de se ter condições de fazer quesitação demasiadamente detalhada (fl. 9).
+Postula, então, a concessão da ordem para anular a decisão condenatória proferida pelo Tribunal do Júri e ratificada pela Segunda Câmara Criminal do Tribunal de Justiça do Estado Rio Grande do Sul, em face da utilização do argumento de autoridade pela acusação durante o julgamento, conforme acima delineado bem como pela quesitação realizada, em que incluída a qualificadora do recurso que dificultou a defesa da vítima, que foi equivocadamente incluída na pronúncia (fl. 9).
+Não houve pedido liminar.
+Prestadas as informações pela autoridade apontada como coatora, o Ministério Público Federal opinou pela denegação da ordem (fls. 235/239):
+Habeas corpus impetrado como sucedâneo de recurso próprio. Homicídio qualificado tentado.
+I - Alegação de utilização de argumento de autoridade em sessão plenária, consistente no não comparecimento do réu a atos processuais. Nulidade não configurada. Artigo 478 do CPP não afrontado.
+II - Alegação de nulidade atinente ao fato de a qualificadora, objeto da quesitação aos jurados, não estar prevista de forma detalhada na pronúncia. Ausência de prova pré-constituída do direito alegado.
+- Promoção pelo conhecimento parcial do writ, e, nessa extensão, pela denegação da ordem.
+É o relatório.
+O presente pedido não comporta acolhimento.
+Eis, no que interessa, a afirmação utilizada pelo órgão da acusação em plenário (fl. 33):
+ .. apesar de ciente da existência do processo o réu depois de uma audiência, não mais compareceu, não se manteve interessado e não se interessou pelo processo.
+ ..
+No entanto, do exame da ata de julgamento, observa-se que tal menção não foi objeto de exploração em plenário, tampouco foi demonstrado o alegado prejuízo em decorrência do suposto vício.
+No mesmo sentido:
+RECURSO ESPECIAL. DIREITO PENAL E PROCESSUAL PENAL. HOMICÍDIO QUALIFICADO E TENTATIVA DE HOMICÍDIO. TRIBUNAL DO JÚRI. AUSÊNCIA DA OITIVA DE TESTEMUNHAS IMPRESCINDÍVEIS PARA A DEFESA. IMPRESCINDIBILIDADE NÃO VERIFICADA. INTELIGÊNCIA DO ART. 461, DO CÓDIGO DE PROCESSO PENAL. ORIENTAÇÃO DA SÚMULA 523, DO SUPREMO TRIBUNAL FEDERAL. LEITURA PELA ACUSAÇÃO DO ACÓRDÃO QUE ANULOU O JÚRI REALIZADO ANTERIORMENTE. ARGUMENTO DE AUTORIDADE. INOCORRÊNCIA. MENÇÃO EM PLENÁRIO SOBRE O SILÊNCIO DO ACUSADO AO SER INTERROGADO. PLEITO DE NULIDADE DO JÚRI. PREJUÍZO NÃO DEMONSTRADO. INOCORRÊNCIA DE OFENSA AO PRINCÍPIO DA PLENITUDE DE DEFESA. INTELIGÊNCIA DO ART. 478, I E II, DO CÓDIGO DE PROCESSO PENAL. RECURSO ESPECIAL NÃO PROVIDO.
+1. Segundo a Súmula 523, do Supremo Tribunal Federal, "no processo penal, a falta de defesa constitui nulidade absoluta, mas a sua deficiência só o anulará se houver prova de prejuízo para o réu."
+2. O texto do art. 478 deve ser analisado em cotejo com o art. 480, do Código de Processo Penal, que possibilita aos jurados e às partes "a qualquer momento e por intermédio do juiz presidente, pedir ao orador que indique a folha dos autos onde se encontra a peça por ele lida ou citada, facultando-se, ainda, aos jurados solicitar-lhe, pelo mesmo meio, o esclarecimento de fato por ele alegado". E o art. 480, § 3º, acrescenta que: "os jurados, nesta fase do procedimento, terão acesso aos autos e aos instrumentos do crime se solicitarem ao juiz presidente." Portanto, não há ilegalidade na leitura do acórdão que julgou a apelação porque é permitida a leitura de documentos em Plenário pelas partes, desde que a menção de tais peças processuais não seja feita como argumento de autoridade, em prejuízo do acusado.
+3. O texto da lei é claro ao proibir a menção ao silêncio do acusado "em seu prejuízo" (art. 478, II, do Código de Processo Penal). Não se vislumbra prejuízo na simples menção ao silêncio do réu, sem a exploração do tema em Plenário, conforme consignado na ata de julgamento.
+4. "A Suprema Corte possui precedentes no sentido de que "a demonstração de prejuízo, a teor do art. 563 do CPP, é essencial à alegação de nulidade, seja ela relativa ou absoluta" (HC 85.155/SP, Segunda Turma, de relatoria da Ministra Ellen Gracie, DJ de 15/4/05).
+7. A declaração de nulidade no direito penal não prescinde da demonstração do efetivo prejuízo para a defesa, consoante dispõe o art. 563 do Código de Processo Penal, o que importa dizer que a desobediência às formalidades estabelecidas na legislação processual somente poderá implicar o reconhecimento da invalidade do ato quando a sua finalidade estiver comprometida em virtude do vício verificado" (RHC 114739/PA, Rel. Min. DIAS TOFFOLI, Primeira Turma, julgado em 30/10/2012, DJE 10/12/2012).
+5. Recurso especial não provido.
+(REsp 1.321.276/SP, Ministro Moura Ribeiro, Quinta Turma, DJe 15/8/2014 - grifo nosso)
+Ademais, a defesa apenas cita a ocorrência da nulidade, sem dispensar em que consistiu o prejuízo daí decorrente, o que impede o reconhecimento da mácula.
+Em relação ao quesito relativo à qualificadora que não constaria da decisão de pronúncia, observa-se que, na linha do parecer do Ministério Público Federal, a impetrante não juntou aos autos cópia da denúncia e da decisão de pronúncia, o que impede a verificação da verossimilhança das alegações.
+Ainda que assim não fosse, consta da ata de julgamento que a Defesa impugnou a descrição do 6º quesito uma vez que descreve circunstâncias não ratificadas durante a instrução. Pela Juiza: INDEFIRO a impugnação uma vez que a descrição consta na denúncia e foi admitida na sentença de pronúncia e ratificada no acórdão (fl. 33), a desconstituir a alegação da impetrante.
+Em face do exposto, denego a ordem.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. ALEGAÇÃO DE NULIDADES. UTILIZAÇÃO DE ARGUMENTO DE AUTORIDADE. NÃO COMPARECIMENTO DO ACUSADO AOS ATOS PROCESSUAIS. MENÇÃO NÃO EXPLORADA EM PLENÁRIO . DEMONSTRAÇÃO DO PREJUÍZO. AUSÊNCIA. QUESITAÇÃO DA QUALIFICADORA NÃO DEBATIDA NA PRONÚNCIA. INSTRUÇÃO DEFICIENTE. AFIRMAÇÃO NA ATA DE JULGAMENTO EM SENTIDO CONTRÁRIO. INVIABILIDADE DE ALCANÇAR CONCLUSÃO INVERSA.
+Ordem denegada.
