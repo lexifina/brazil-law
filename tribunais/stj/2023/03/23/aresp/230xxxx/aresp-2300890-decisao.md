@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de agravo apresentado por NOBRE SEGURADORA DO BRASIL S.A - EM LIQUIDACAO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+APELAÇÃO. AÇÃO INDENIZATÓRIA. RESPONSABILIDADE CIVIL. AGÊNCIA DE TURISMO E EMPRESA DE TRANSPORTE RODOVIÁRIO PARCEIRA. RESPONSABILIDADE OBJETIVA E SOLIDÁRIA. REQUISITOS. PRESENÇA. DANO MORAL E DANO ESTÉTICO. CUMULAÇÃO. POSSIBILIDADE.
+Quanto à controvérsia recursal, alega violação dos arts. 8º do CPC; e 944 do CC, no que concerne à necessidade de redução do quantum fixado a título de danos morais e estéticos, tendo em vista o valor excessivo e desproporcional, trazendo os seguintes argumentos:
+O presente recurso funda-se, sobretudo, na evidente desproporcionalidade da verba indenizatória arbitrada, não se prestando em momento algum a rediscutir o mérito da demanda. Tão somente serve a demonstrar que o acórdão fere Lei Federal, conforme se demonstrará em linhas posteriores. Conforme se pode observar, o acordão proferido pelo Egrégio Tribunal ad quem feriu expressamente Lei Federal, mais precisamente o Código Civil (Lei 10.406/2002). Não obstante a letra da lei, o Egrégio TJRJ proferiu acórdão dando parcial provimento aos recursos, majorando os valores arbitrados de condenação.
+Agora, vejamos o que dispõe o Art. 944 da Lei nº 10.406/2002:
+ ..
+Doutos Ministros, não é admissível uma indenização por danos morais e estéticos nas quantias estabelecidas, majoradas pela Nobre Corte Estadual para a exorbitante quantia de R$ 30.000,00 (trinta mil reais) dos danos morais, bem como R$ 7.000,00 (sete mil reais) à título de danos estéticos. Trata-se de condenação absolutamente desproporcional.
+ ..
+Conforme se depreende da leitura do artigo 8º do CPC de 2015, deve ser observado o princípio da proporcionalidade e razoabilidade ao aplicar o ordenamento jurídico. Tal dispositivo, com a devida vênia, foi ofendido na decisão ora recorrida.
+ ..
+Com efeito. O objetivo da lei é desestimular e coibir a ocorrência ou reiteração de fatos que possam atingir terceiros de forma violenta ou abusiva. Não buscou o legislador possibilitar ao ofendido e quando ofendido for, um enriquecimento sem causa e sem esforço.
+ ..
+Assim, em regra, a cumulação desses pedidos representa verdadeiro bis in idem, posto que o dano estético em si mesmo considerado, constitui modalidade de dano moral. Sendo assim, tal condenação causa repercussão econômica em dobro, através de rubricas diferentes, de modo que se faz necessário indicar a ausência de razoabilidade e moderação também neste ponto.
+Em outras palavras, vale dizer: o valor da indenização deverá ser fixado segundo critérios de MODERAÇÃO e RAZOABILIDADE, de forma a impedir exageros, o que não ocorreu nesta demanda com o arbitramento da indenização na quantia indicada. (fls. 1.138-1.139).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Os documentos juntados pela parte autora aliados com a conclusão do perito nomeado pelo juízo indicam que, em razão do acidente, a parte autora ficou internada durante alguns dias, sofreu múltiplas fraturas, se submeteu às distantes intervenções cirúrgicas, precisou realizar várias sessões de fisioterapia durante 18 meses e ficou afastado do trabalho por mais de 200 dias.
+Não se tratou de mero incômodo ou aborrecimento nem de fato comum do cotidiano. Assim, cabível a condenação ao pagamento de indenização por dano moral.
+Ao arbitrar o valor da indenização por dano moral, o Juiz deve levar em consideração os princípios da razoabilidade e da proporcionalidade, além do caráter pedagógico da condenação, no sentido de inibir eventuais e futuros atos danosos.
+ ..
+Assim, considerando as particularidades do caso sub judice, a condição econômica das partes e a extensão do dano, entendo ser adequada a quantia de R$ 30.000,00, registrando-se que a condenação em valor inferior ao pleiteado na inicial não gera sucumbência recíproca a teor do enunciado da Súmula 326 do STJ.
+ ..
+No presente caso, a parte autora comprovou a existência de danos irreversíveis no corpo, capazes de causar constrangimentos futuros. O perito judicial classificou o dano estético da parte autora da seguinte forma:
+ ..
+Ante a presença de provas da existência de cicatrizes que, de forma permanente, afetarão à estética da parte autora e considerando a gravidade do dano, a alteração da aparência física inicial e a condição econômica das partes, fixo a indenização por danos estéticos em R$7.000,00 (fls. 1.119-1.122, grifos meus).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que, muito embora possa o STJ atuar na revisão das verbas fixadas a título de danos morais e estéticos, esta restringe-se aos casos em que arbitrados na origem em valores irrisórios ou excessivos, o que não se verifica no caso concreto.
+Nesse sentido: "A indenização por danos morais e estéticos fixada em quantum sintonizado aos princípios da razoabilidade e da proporcionalidade não enseja a possibilidade de interposição do recurso especial, dada a necessidade de exame de elementos de ordem fática, cabendo sua revisão apenas em casos de manifesta excessividade ou irrisoriedade do valor arbitrado, o que não se evidencia no presente caso. Incidência da Súmula 7 do STJ." (AgInt no AREsp n. 2.110.746/RJ, relator Ministro Marco Buzzi, Quarta Turma, julgado em 6/3/2023, DJe de 10/3/2023.)
+Vale citar ainda: "A indenização por danos morais e estéticos fixada em quantum sintonizado aos princípios da razoabilidade e proporcionalidade não autoriza sua modificação em sede de recurso especial, cabível sua revisão apenas em casos de manifesta excessividade ou irrisoriedade do valor arbitrado, o que não se evidencia no presente caso. Incidência da Súmula 7 do STJ. Precedentes." (AgInt no AREsp 1.357.215/MS, relator Ministro Marco Buzzi, Quarta Turma, DJe 3/6/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.672.112/SP, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 27/8/2020; AgInt no AREsp 1.533.714/RN, relator Ministro Francisco Falcão, Segunda Turma, DJe de 28/8/2020; e AgInt no AREsp 1.533.913/RJ, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 31/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
