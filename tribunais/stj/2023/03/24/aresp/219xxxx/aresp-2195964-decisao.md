@@ -1,0 +1,63 @@
+DECISÃO
+Trata-se de agravo interposto por NOVAZAN FOMENTO MERCANTIL LTDA. contra a decisão que inadmitiu recurso especial.
+O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, impugna acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"APELAÇÃO - Ação declaratória de nulidade de título c. c. indenização por danos morais - Pretensão lastreada em instrumento de confissão de dívida protestado, derivado de operação de factoring - Sentença de procedência - Cláusula de recompra que não pode ser reputada ilegal - Prova oral que aponta para a falta de confirmação prévia da higidez dos títulos pela faturizadora - Instrumento de confissão firmado entre as partes na mesma data de vencimento de diversos títulos negociados, evidenciando que sequer exigidos dos sacados - Cláusula do contrato de fomento que aponta para a responsabilidade do faturizado quanto ao pagamento se constatada a presença de algum vício inerente aos títulos odorados - Faturizadora, contudo, que não se desincumbe de seu ônus probatório - Ausência de vício ou fraude nos títulos - Ilegalidade do título apontado a protesto confirmada - Indenização por danos morais - Descabimento - Existência de registro de protesto preexistente promovido por outro credor - Aplicação da Súmula 385 do STJ que se impõe - Indenização afastada - Sentença reformada em parte - Recurso parcialmente provido" (e-STJ fl. 687).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 718/724).
+No especial (e-STJ fls. 727/749), a recorrente alega violação dos artigos 489, § 1º, IV, e 1.022, II, do Código de Processo Civil e 186, 188, 295 e 927 do Código Civil.
+Aduz que o Tribunal de origem incidiu em negativa de prestação jurisdicional ao deixar de se manifestar acerca das seguintes questões: (i) o acervo probatório demonstrou que a recorrida "(..) negociou duplicatas frias, emitidas em duplicidade e sem lastro comercial" (e-STJ fl. 735); (ii) a regularidade do Instrumento de Confissão de Dívida foi reconhecida por decisão judicial proferida nos autos da Ação Falimentar que foi distribuída em data anterior ao da presente demanda e (iii) incidência ao caso do artigo 295 do Código Civil, visto que os vícios nos títulos foram confirmados pelos sacados nos depoimentos que prestaram nos autos e confessados pelo representante legal da recorrida.
+Argumenta que ao reproduzir o entendimento da sentença, o Tribunal local incorreu em ausência de fundamentação do julgado.
+sustenta que os títulos não foram liquidados na data de seu vencimento em razão de possuírem vícios em suas origens, os quais foram confirmados pelos sacados e pelo representante legal da recorrida, de modo que é obrigação legal da recorrida em recomprar os títulos, o que foi reconhecido na pactuação do instrumento de confissão de dívida.
+Afirma que a recorrida deve ser condenada a reparar os danos causados com a emissão de título sem lastro comercial.
+Ao final, requer o provimento do recurso.
+Sem as contrarrazões (certidão de fl. 759, e-STJ), o recurso foi inadmitido na origem, sobrevindo daí o presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame direto do recurso especial.
+A irresignação não merece prosperar.
+Trata-se, na origem, de ação declaratória de nulidade de título e de contrato c/c indenização por danos morais e tutela de urgência ajuizada por Neotrans Transporte e Logística Ltda. em desfavor de Novazan Fomento Mercantil Ltda. objetivando a declaração de nulidade da confissão de dívida e da nota promissória e reparação pelos danos extrapatrimoniais causados pelo protesto.
+O magistrado de primeiro grau de jurisdição julgou pela procedência dos pedidos para, confirmando a tutela antecipada deferida, determinar o cancelamento do protesto e o protesto, declarando nulas a nota promissória e a confissão de dívidas firmada entre as partes e condenando a ré a pagar a autora indenização por danos morais no valor de R$ 10.000,00 (dez mil reais).
+Para tanto, entendeu que
+"(..)
+A confissão de dívida, como ato de recompra dos títulos, apenas poderia amparar o protesto e a execução contra o faturizado se, após a tentativa de recebimento dos valores junto aos devedores do título, se verificasse a insolvência ou a insubsistência da relação, caso em que o cedente reconheceria sua obrigação líquida e certa. O documento juntado aos autos, entretanto, elenca títulos que se venceriam ainda na data da assinatura da confissão de dívida, o que evidencia que eles sequer haviam sido o exigidos dos sacados.
+Não se declara, aqui, que a autora nada deva à ré: o que se reconhece é a prévia necessidade de apuração, por prestação de contas, de valores em débito e crédito, para que depois se exija um valor líquido. É o próprio representante da ré que reconhece a informalidade das relações existentes entre as partes e a realização de negócios com base numa relação de estrita confiança. Quebrada tal confiança, é necessário que as partes prestem contas para verificar os valores pendentes" (e-STJ fl. 622).
+Referida sentença foi parcialmente reformada pelo Tribunal estadual apenas para afastar a condenação em danos morais por força da incidência da Súmula nº 385/STJ.
+Irresignada, busca a recorrente a reforma do julgado.
+De início, no que tange aos artigos 489, § 1º, IV, e 1.022, II, do CPC, observa-se que os aclaratórios opostos pela recorrente objetivou corrigir erro material em relação ao reconhecimento da regularidade do instrumento de confissão de dívida em ação falimentar e sanar omissão quanto à incidência do artigo 295 do Código Civil à hipótese dos autos e que a prova dos autos demonstra que os títulos não possuem lastro.
+Sobre o tema, é cediço que a negativa de prestação jurisdicional nos embargos declaratórios somente se configura quando, na apreciação do recurso, o Tribunal de origem insiste em omitir pronunciamento sobre questão que deveria ser decidida, e não foi, não cabendo avaliar a justiça da decisão.
+No caso concreto, o aresto recorrido enfrentou a matéria posta em debate na medida necessária para o deslinde da controvérsia, não havendo falar em omissão e deficiência de fundamentação.
+De fato, no aresto que apreciou os aclaratórios restou consignada a inexistência de qualquer erro material ou omissão, tendo o recurso nítido caráter infringente.
+Assim, não há falar, portanto, em existência de omissão apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+Impende asseverar que cabe ao julgador apreciar os fatos e as provas da demanda segundo seu livre convencimento, declinando, ainda que de forma sucinta, os fundamentos que o levaram a solucionar a lide.
+Desse modo, não há falar em deficiência de fundamentação da decisão o não acolhimento de teses ventiladas pela parte recorrente, mormente se o acórdão abordar todos os pontos relevantes da controvérsia, como na espécie.
+A propósito:
+"CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AOS ARTS. 489 E 1.022 DO CPC/2015. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. Inexiste afronta aos arts. 489 e 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+3. No caso concreto, a análise das razões apresentadas pela recorrente quanto a não poder ser responsabilizada pela perda do material e pelos danos ambientais causados, bem como sobre se existiam provas a justificar a indenização fixada, demandaria o revolvimento do conjunto fático-probatório, o que é vedado em sede de recurso especial.
+4. Agravo interno a que se nega provimento" (AgInt no AREsp 1.244.116/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 27/5/2019, DJe 30/5/2019).
+No mais, quanto aos artigos 186, 188 e 927 do Código Civil, verifica-se que referidos dispositivos legais não foram objeto de debate pelas instâncias ordinárias, sequer foram suscitados nos aclaratórios opostos.
+Por esse motivo, ausente o requisito do prequestionamento, incide o disposto na Súmula nº 282 do STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+Finalmente, no tocante ao artigo 295 do Código Civil, a instância ordinária, com base em ampla cognição dos elementos concretos dos autos, entendendo pela inexistência de provas de que os títulos cedidos não teriam lastro, consignou que estes sequer foram exigidos dos sacados, visto que o instrumento de confissão elenca títulos que venceriam na mesma data de sua assinatura.
+Eis a letra do acórdão:
+"(..)
+Ocorre que a ré não conseguiu comprovar que os títulos que lhe foram cedidos não tinham lastro, como bem destacou a magistrada de piso ao explorar o teor da prova oral.
+Especificamente, como registrado a fls. 576/577, o representante da ré, em depoimento pessoal, afirmou que nem sempre confirmava os títulos por realizar negócios na base da confiança, relatando as testemunhas ouvidas "ser impossível saber se e quais os títulos corresponderiam a transações efetivamente havidas entre os contratantes e ressaltaram que não houve confirmação prévia da higidez dos títulos adquiridos pela factoring".
+Noutro giro, o instrumento de confissão, de fato, elenca títulos que venceriam na própria data de sua assinatura, ponto, aliás, sequer impugnado de forma específica pelo réu, o que, como bem concluiu a i. sentenciante, "evidencia que eles sequer haviam sido exigidos dos sacados".
+Ora, à luz do disposto na claúsula 13 do contrato de fomento firmado entre as partes, tem-se que o faturizado só é chamado a realizar o pagamento se constatada a presença de algum vicio inerente aos títulos cobrados, o que não foi comprovado pela faturizadora.
+Assim, por qualquer ótica que se analisem os fatos e o acervo probatório colacionado aos autos, tem-se que correta a r. sentença ao entender pela ilegalidade do titulo apontado a protesto, declarando nulos o instrumento de confissão de divida e a nota promissória a ele vinculada" (e-STJ fls. 692/693).
+Nas razões recursais, contudo, não há resistência quanto a tais fundamentos, que, ao persistirem incólumes, mostram-se suficientes para a manutenção do julgado, circunstância que atrai a aplicação, por analogia, da Súmula nº 283/STF.
+A propósito:
+"PROCESSUAL CIVIL E CONSUMIDOR. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. (..) FUNDAMENTOS DO ACÓRDÃO RECORRIDO NÃO ATACADOS. SÚMULA 283/STF. (..) AGRAVO DESPROVIDO.
+1. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão estadual atrai, por analogia, o óbice da Súmula 283 do STF.
+(..)
+6. Agravo interno a que se nega provimento" (AgInt no AREsp 556.695/SC, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 13/12/2021, DJe 16/12/2021).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE SUSTAÇÃO DE PROTESTO E INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. REDISTRIBUIÇÃO DOS ÔNUS SUCUMBENCIAIS. REVISÃO. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA Nº 283 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+3. A falta de impugnação a fundamento suficiente para manter o acórdão recorrido acarreta o não conhecimento do recurso.
+Inteligência da Súmula nº 283 do STF, aplicável, por analogia, ao recurso especial.
+4. Agravo interno não provido" (AgInt no AREsp 1.940.620/PR, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 29/11/2021, DJe 01/12/2021).
+Ademais, não há como rever a conclusão do julgado para entender pela licitude da nota promissória e confissão de dívida, e por consequência, do protesto, sem esbarrar nos óbices das Súmulas nºs 5 e 7/STJ.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nesta extensão, negar-lhe provimento.
+Em observância ao art. 85, § 11, do CPC, majoro em R$200,00 (duzentos reais) a verba honorária atribuída à recorrente, sobre o valor arbitrado pela Corte local, em favor do patrono da parte recorrida, observado o benefício da justiça gratuita, se for o caso.
+Publique-se.
+Intimem-se.
