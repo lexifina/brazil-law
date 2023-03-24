@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de recurso especial interposto por Residencial Horto do Santo Antônio (fls. 786 e ss., e-STJ), com fundamento no art. 105, III, "a" e "c", da Constituição Federal contra acórdão do eg. Tribunal de Justiça do Estado de Sergipe/SE (e-STJ, fls. 771 e ss.), assim ementado:
+APELAÇÃO CÍVEL - AÇÃO DE OBRIGAÇÃO DE FAZER - AQUISIÇÃO DEEMPREENDIMENTO IMOBILIÁRIO - ALEGAÇÃO DE VÍCIO DECONSTRUÇÃO - DECADÊNCIA DO DIREITO DE PLEITEAR ALGUMA DASOPÇÕES DOS ARTIGOS 18 E 20 DO CDC - ARTIGO 26 DO CDC - VÍCIONO PRODUTO/SERVIÇO -INTERPOSIÇÃO DA AÇÃO MAIS DE 180 DIASDO TÉRMINO DA PERÍCIA ATESTANDO A FALHA DE CONSTRUÇÃO - ART.618 DO CPC - MANUTENÇÃO DA SENTENÇA - DECISÃO UNÂNIME.
+Vícios apontados verificados dentro do prazo legal de garantia, já que o imóvel foi entregue em outubro/2015, e os defeitos constatados em 13/12/2019, por meio do laudo técnico.
+Caberia ao condomínio, apelante, acionar a construtora requerida no prazo decadencial de 180 dias, conforme previsto no parágrafo único do art. 618, do CC/02.
+Nas razões do presente apelo especial, a recorrente alega, além do dissídio jurisprudencial, que a decisão cuja ementa restou transcrita, ao não aplicar o prazo geral e decenal para a busca de reparação de danos, violou a previsão dos arts. 205 e 618, ambos do Código Civil.
+Apresentadas contrarrazões às fls. 809 e ss. (e-STJ), foi o recurso especial admitido na origem (e-STJ, fls. 816 e ss).
+O apelo nobre foi submetido à análise do Presidente da Comissão Gestora de Precedentes, Min. Paulo de Tarso Sanseverino, conforme determina a regra do art. 256 e seguintes do Regimento Interno do Superior Tribunal de Justiça, c/c o inciso I do art. 2º da Portaria STJ/GP n. 299, de 19 de julho de 2017.
+Sua Excelência reputou salutar que a Segunda Seção do STJ deliberasse sobre a afetação da matéria veiculada neste inconformismo ao rito dos recursos repetitivos, tendo em vista o notório potencial de multiplicidade e a existência de decisões proferidas pelos tribunais de origem conflitantes com a jurisprudência desta Corte.
+Destacou, outrossim, a relevância da matéria veiculada ao presente apelo recursal, que busca "Definir se, diante da ausência de prazo específico no CDC que regule a hipótese de inadimplemento contratual, o prazo que o consumidor se sujeita para pleitear indenização decorrente de vícios construtivos de bem imóvel é o geral decenal estabelecido no art. 205 do Código Civil."
+O MPF opinou pela admissibilidade da questão ao rito dos repetitivos. (fls. 839/841)
+É o relatório.
+Decisão.
+Rejeita-se a indicação do presente recurso especial como representativo da controvérsia.
+1. Cinge-se a discussão em definir se, diante da ausência de prazo específico no CDC que regule a hipótese de inadimplemento contratual, o prazo que o consumidor se sujeita para pleitear indenização decorrente de vícios construtivos de bem imóvel é o geral decenal estabelecido no art. 205 do Código Civil.
+Não se desconhece a relevância do tema envolvido na presente discussão, contudo, observando-se a regra do art. 1.036 do NCPC c/c art. 256 do RISTJ, considera-se inviável a admissão do presente recurso especial ao rito dos repetitivos.
+Sem olvidar da orientação da Segunda Seção de somente afetar ao rito dos recursos repetitivos temas sobre os quais se tenha jurisprudência consolidada no âmbito das Turmas (ut. REsp 1.686.022/MT, desta Relatoria, DJe de 04/12/2017; REsp 1.667843/SC, Rel. Min. Luis Felipe Salomão, Dje de 10/12/2017), a hipótese dos autos, a teor do diminuto número de julgados - cerca de 31 acórdãos indicados como paradigmas - apesar de seguirem a mesma linha intelectiva, não recomenda a submissão da tese ao rito especial dos repetitivos.
+Apesar das particularidades, verifica-se alguma similitude da presente controvérsia com o Tema 1039 (REsp 1.799.288/PR, Rel. Min. Maria Isabel Gallotti) submetido ao rito dos repetitivos, não sendo conve niente, por ora, a afetação da presente controvérsia.
+2. Do exposto, nos termos do art. 256-F, §4º, do RISTJ, rejeita-se a indicação do presente recurso especial como representativo de controvérsia. Proceda-se, portanto, à retificação da autuação.
+Após, voltem os autos conclusos.
+Determinada a desafetação do presente apelo do procedimento dos recursos repetitivos, comunique-se o teor da presente decisão aos demais integrantes da Segunda Seção, aos Tribunais Regionais Federais e Tribunais de Justiça dos Estados e do Distrito Federal.
+Publique-se. Intimem-se. Cumpra-se.
