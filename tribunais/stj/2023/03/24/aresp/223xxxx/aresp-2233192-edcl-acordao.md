@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, rejeitar os embargos.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por RAIMUNDO OLIVEIRA DOS SANTOS (e-STJ fls. 460/463) contra acórdão proferido por esta Corte Superior, cuja ementa é a seguinte (e-STJ fls. 451/452):
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. PRAZO DE 15 (QUINZE) DIAS CORRIDOS. SUSPENSÃO DOS PRAZOS PROCESSUAIS. COVID-19. AUSÊNCIA DE COMPROVAÇÃO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. No REsp 1813684/SP, Rel. Ministro RAUL ARAÚJO, Rel. p/ acórdão Ministro LUIS FELIPE SALOMÃO, julgado pela Corte Especial em 02/10/2019, DJe 18/11/2019, ficou consignado que, sob a vigência do CPC/2015, é necessária a comprovação nos autos de feriado local por meio de documento idôneo no ato de interposição do recurso. Contudo, considerando os princípios da segurança jurídica, da proteção da confiança, da isonomia e da primazia da decisão de mérito, decidiu-se pela modulação dos seus efeitos, de modo que seja aplicada, tão somente, aos recursos interpostos após a publicação do acórdão respectivo, a teor do § 3º do art. 927 do CPC/2015.
+2. Considerando que o recurso especial foi interposto após a publicação do referido julgado e que não houve a comprovação da suspensão do expediente, no âmbito do Tribunal a quo, quando de sua interposição, não há como ser afastada a sua intempestividade.
+3. Em razão da pandemia relativa à COVID-19, os prazos processuais foram suspensos no período de 19/3/2020 a 14/6/2020, conforme Resoluções do CNJ nº 313/2020 e 322/2020, e voltaram a fluir, para os processos físicos, em 15/6/2020. Desse modo, a suspensão dos prazos, no Tribunal de origem, fora do período mencionado, deveria ter sido comprovada no momento da interposição do recurso, o que não foi feito. Precedentes.
+4. Consoante anteriormente decidido, verifica-se a intempestividade do recurso especial, uma vez que o acórdão recorrido foi publicado em 10/3/2020 (e-STJ fls. 330) e o recurso apresentado somente em 3/8/2021, fora do prazo de 15 (quinze) dias corridos.
+5. Agravo regimental não provido.
+Sustenta a ocorrência de contradição, uma vez que os prazos foram suspensos em 19/03/2020, através da resolução do CNJ, nº. 313 de 19 de março de 2020, em razão do COVID 19, quando ainda restavam 07 (sete) dias para o protocolo do recurso especial, e retomado somente em 02/08/2021, consoante ATO NORMATIVO CONJUNTO Nº 20, DE 15 DE JULHO DE 2021do TJ/BA, Art. 7ª.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTALNOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. PRAZO DE 15 (QUINZE) DIAS CORRIDOS. SUSPENSÃO DOS PRAZOS PROCESSUAIS. COVID-19. AUSÊNCIA DE COMPROVAÇÃO. AUSÊNCIA DE VÍCIOS. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Sabe-se que os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão ambígua, omissa, obscura ou contraditória, conforme dispõe o art. 619 do Código de Processo Penal.
+2. Esta Corte Superior, ao analisar o tema, posicionou-se de forma clara, adequada e suficiente ao concluir pela intempestividade do recurso especial, tendo em vista que, em razão da pandemia relativa à COVID-19, os prazos processuais foram suspensos no período de 19/3/2020 a 14/6/2020, conforme Resoluções do CNJ nº 313/2020 e 322/2020, e voltaram a fluir, para os processos físicos, em 15/6/2020. Assim, a suspensão dos prazos, no Tribunal de origem, fora do período mencionado, deveria ter sido comprovada no momento da interposição do recurso, o que não foi feito.
+3. Dessa forma, por meio dos aclaratórios, é nítida a pretensão da parte embargante em provocar o rejulgamento da causa, situação que, na inexistência das hipóteses previstas no art. 619 do CPP, não é compatível com o recurso protocolado.
+4. Embargos de declaração rejeitados.
+VOTO
+Não existem vícios a serem sanados no acórdão embargado.
+Sabe-se que os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão ambígua, omissa, obscura ou contraditória, conforme dispõe o art. 619 do Código de Processo Penal.
+Verifica-se que esta Corte Superior, ao analisar o tema, posicionou-se de forma clara, adequada e suficiente ao concluir pela intempestividade do recurso especial, tendo em vista que, em razão da pandemia relativa à COVID-19, os prazos processuais foram suspensos no período de 19/3/2020 a 14/6/2020, conforme Resoluções do CNJ nº 313/2020 e 322/2020, e voltaram a fluir, para os processos físicos, em 15/6/2020. Assim, a suspensão dos prazos, no Tribunal de origem, fora do período mencionado, deveria ter sido comprovada no momento da interposição do recurso, o que não foi feito.
+Dessa forma, por meio dos aclaratórios, é nítida a pretensão da parte embargante em provocar o rejulgamento da causa, situação que, na inexistência das hipóteses previstas no art. 619 do CPP, não é compatível com o recurso protocolado.
+Com essas considerações, rejeito os embargos de declaração.
+É como voto.
