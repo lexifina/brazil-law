@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial por incidência da Súmula n. 282 do STF e ausência de comprovação do dissenso jurisprudencial (e-STJ fls. 490/492).
+O acórdão recorrido está assim ementado (e-STJ fl. 403):
+EMENTA: APELAÇÃO CÍVEL E RECURSO ADESIVO. AÇÃO DERESCISÃO CONTRATUAL CUMULADA COM RESTITUIÇÃO DEPARCELAS PAGAS. PACTO ADJETO DE ALIENAÇÃO FIDUCIÁRIA. VALIDADE CONDICIONADA À AVERBAÇÃO DO CONTRATO NOREGISTRO DE IMÓVEIS. APLICAÇÃO DAS REGRAS DO CÓDIGO DEDEFESA DO CONSUMIDOR. CULPA DO COMPRADOR. SÚMULA 543, STJ. RESCISÃO. RETENÇÃO. POSSIBILIDADE. 1. Consoante previsão do artigo 23 da Lei nº 9.514/97, o registro do contrato é imprescindível à constituição da propriedade fiduciária. 2. A ausência do registro do contrato, em hipóteses tais, autoriza sua rescisão unilateral por desistência do promitente comprador, com incidência das regras do Código de Defesa do Consumidor. 3. Sendo de ambas as partes a obrigação contratual de registro do ajuste no cartório de imóveis, com a inércia do comprador, passou a ser obrigação da vendedora realizar o ato. 4. Nos termos da Súmula 543 do STJ, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador -integralmente, em caso de culpa exclusiva do promitente vendedor/construtor, ou parcialmente, caso tenha sido o comprador quem deu causa ao desfazimento. 5. Deve prevalecer o percentual de retenção de 25% (vinte e cinco por cento) dos valores pagos pelo adquirente. Precedentes do STJ. APELAÇÃO CONHECIDA E PARCIALMENTE PROVIDA. RECURSO ADESIVO DESPROVIDO.
+No recurso especial (e-STJ fls. 417/444), fundamentado no art. 105, III, "a", e "c" da CF, a parte recorrente alega, além de divergência jurisprudencial, ofensa aos arts. 26 e 27 da Lei n. 9.514/1997, sustentando, em síntese, que "sobre o contrato de compra e venda celebrado entre as partes incide cláusula adjeta de alienação fiduciária em garantia" (e-STJ fl. 430).
+Segundo afirma, "diante do conflito de normas existentes, deve prevalecer a norma específica de regência da alienação fiduciária de bem imóvel e não a aplicação irrestrita do Código de Defesa do Consumidor, haja vista o princípio da especialidade" (e-STJ fl. 430).
+No agravo (e-STJ fls. 496/506), afirma a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 511/520).
+É o relatório.
+Decido.
+A insurgência quanto ao princípio da especialidade, não pode ser sustentada apenas com base nos arts. 26 e 27 da Lei n. 9.514/1997, os quais não regulam a matéria. Incidente, portanto, a Súmula n. 284/STF por deficiência na fundamentação recursal.
+Além disso, o conteúdo dos referidos dispositivos não foi analisado pela Corte local. Incidente, portanto, a Súmula n. 282 do STF por falta de prequestionamento.
+Fica prejudicado o pedido de efeito suspensivo.
+Diante do exposto, NEGO PROVIMENTO ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
