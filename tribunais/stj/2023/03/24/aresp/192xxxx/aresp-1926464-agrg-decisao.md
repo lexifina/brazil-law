@@ -1,0 +1,10 @@
+DECISÃO
+VICENTE ANTONIO DE FREITAS FILHO interpõe agravo regimental contra decisão da Presidência desta Corte que não conheceu do seu agravo em recurso especial com base no art. 21-E, V, c/c o art. 253, parágrafo único, I, ambos do RISTJ.
+O agravante sustenta que teria impugnado a incidência da Súmula n. 83 do STJ, ao contrário do que afirma o decisum agravado.
+Com razão o insurgente, motivo pelo qual reconsidero a decisão de fls. 148-149 e passo ao exame do recurso especial.
+A defesa busca a revogação da decisão que, nos autos do Incidente de Transferência entre Estabelecimentos Penais n. 5024214-74.2017.4.04.7000/PR, deferiu pedido de prorrogação da permanência do reeducando no sistema penitenciário federal, pelo período de 360 dias, a contar de 4/7/2020.
+Em consulta aos assentamentos eletrônicos desta Corte Superior, colheu-se a informação de que, em favor do ora agravante, foi interposto o AREsp n. 2.094.632/RS, que busca desconstituir decisão proferida no incidente de transferência entre estabelecimentos penais mencionado, que deferiu pedido de prorrogação de sua permanência no estabelecimento prisional federal, pelo prazo de 360 dias, a contar de 3/8/2021.
+Dessa forma, evidencia-se a inexistência do interesse-utilidade do recurso especial, ou, nas palavras de Ada Pellegrini Grinover, Antonio Magalhães Gomes Filho e Antonio Scarance Fernandes:
+ ..  a postulação de um conceito unitário do interesse em recorrer exige uma ótica antes prospectiva que retrospectiva, em que se dá ênfase à utilidade, entendida como proveito que a futura decisão seja capaz de propiciar ao recorrente. Esta visão permite abranger todas as hipóteses, quer se trate de recurso das partes, quer de terceiros, quer do Ministério Público, como fiscal da lei ou órgão da justiça. (Recursos no Processo Penal, 6. ed. rev., atual. e ampl. - São Paulo: Editora Revista dos Tribunais, 2009, p. 71).
+À vista do exposto, reconsidero a decisão de fls. 152-153 e conheço do agravo para não conhecer do recurso especial.
+Publique-se e intimem-se.
