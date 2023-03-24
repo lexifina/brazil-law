@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de recurso especial interposto por ROBERTO ELOI TODESCHINI E OUTROS com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"AGRAVO DE INSTRUMENTO. Monitória. Fase de Execução Exceção de pre-executividade. Desconsideração de personalidade jurídica. Inexistência de bens para penhora da devedora. Matéria já apreciada. Litigância de má-fé. Decisão mantida. Agravo não provido" (fl. 1.095, e-STJ).
+Não foram opostos embargos de declaração.
+No recurso especial, os recorrentes alegam, além de dissídio jurisprudencial, violação dos arts. 135 do Código de Processo Civil de 2015; 17 e 18 do Código de Processo Civil de 1973 e 50 do Código Civil.
+Contrarrazões às fls. 1.124-1.128, e-STJ.
+O agravo em recurso especial foi provido.
+É o relatório.
+DECIDO.
+A irresignação não merece prosperar.
+No recurso especial os recorrentes s ustentam que "(..) quando da instauração do incidente de desconsideração da personalidade jurídica, o sócio deverá ser citado a manifestar-se, podendo apresentar sua defesa e suas motivações pelas quais entende equivocada a desconsideração da personalidade jurídica" (fl. 1.108, e-STJ).
+Aduzem, ainda, que não foram demonstrados os requisitos para a desconsideração da personalidade jurídica da empresa.
+Por fim, afirmam que a multa que lhes foi aplicada é indevida.
+Ao solucionar a controvérsia, o Tribunal de origem assim dispôs:
+"Observa-se que os sócios nomearam o mesmo escritório de advocatícia que promoveu a defesa da empresa devedora, fato que afasta a alegação de ausência de ciência dessa decisão, a qual foi inclusive objeto de recurso especial (folhas 1054/1060).
+Na verdade, os agravantes não se conformando com a desconsideração da personalidade jurídica e a solução adotada, procuram rediscutir novamente o referido tema, de modo a levar a decisão que lhe seja favorável, inconformismo, aliás, já fartamente apreciado.
+Porém, não é para essa finalidade que se presta a exceção de pre-executividade, nem os recursos de agravo de instrumento, embargos de declaração, agravo regimental, recurso especial e tantos outros que por ventura seus patronos vislumbrarem.
+Restou visível o intuito protelatório deste agravo, incidindo assim os agravantes na infração prevista no artigo 17, VII, do Código de Processo Civil, merecendo por isso, a pena de multa prevista no artigo 18 do mesmo Código, justificando-se, portanto a alegação de litigância de má-fé articulada pelo embargado" (fl. 1.097, e-STJ).
+Com efeito, a conclusão adotada no acórdão recorrido está em consonância com a jurisprudência do STJ, no sentido de que a representação da pessoa jurídica pelo mesmo escritório de advocacia ou pelos mesmos advogados afasta a suposta nulidade por ausência de citação dos sócios para o incidente processual de desconsideração da personalidade jurídica. A propósito:
+"RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. SOCIEDADES DO MESMO GRUPO ECONÔMICO. DECISÃO PUBLICADA NA VIGÊNCIA DO CPC/1973. INTIMAÇÃO APÓS A VIGÊNCIA DO CPC/2015. CONTRADITÓRIO PRÉVIO. DIREITO INTERTEMPORAL. TEMPUS REGIT ACTUM.
+1- Recurso especial interposto em 24/11/2020 e concluso ao gabinete em 17/8/2021.
+2- O propósito recursal consiste em dizer se é possível o decreto de desconsideração da personalidade jurídica, sem o prévio contraditório, quando a referida decisão foi publicada na vigência do Código de Processo Civil de 1973, tendo a parte, no entanto, sido intimada somente após a vigência do Código de Processo Civil de 2015.
+3- À luz do princípio tempus regit actum e da Teoria do Isolamento dos Atos Processuais, os atos do processo devem observar a legislação vigente ao tempo de sua prática, sob pena de indevida retroação da lei nova para alcançar atos pretéritos. Nesse sentido, as normas processuais incidem imediatamente nos processos em curso, mas não alcançam atos processuais anteriores. Precedentes.
+4- Consoante reiterado no acórdão recorrido, ocorreu a formação de sucessão de "empresas" entre ARNOM PARTICIPAÇÕES e ARNON VEÍCULOS, ambas com os mesmos sócios, decisão que não foi objeto de recurso, apesar de possuírem também os mesmos advogados. Assim, não é crível o desconhecimento da decisão de desconsideração. Por sua vez, a recorrente ficou completamente inerte, e, assim, reveste-se preclusa a possibilidade de arguição de nulidade dos atos praticados, nos termos do art. 278 do CPC/2015.
+5- A aplicação do incidente da desconsideração da personalidade jurídica, nos termos previstos no art. 133 do CPC/2015, não é exigível ao presente caso, pois a decisão que procedeu à desconsideração da executada originária foi proferida em meados de 2014, isto é, enquanto vigente o CPC/1973.
+6- Não é possível defender o argumento no sentido de validar uma intimação ocorrida 5 (cinco) anos depois da decisão de desconsideração, entre empresas do mesmo grupo econômico, objetivando anular todos os atos processuais, com fulcro na vigência do CPC/2015, quando esse ato guarda, inequivocamente, nexo imediato e inafastável com o próprio ato praticado sob o regime da lei anterior, consubstanciado na decisão propriamente dita de desconsideração. Deve-se, pois, ser respeitada a eficácia do ato processual pretérito.
+7. Recurso especial não provido" (REsp 1.954.015/PE, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 26/10/2021, DJe de 3/11/2021 - grifou-se).
+Ademais,
+"A falta de citação do sócio, por si só, na hipótese de desconsideração da personalidade jurídica da sociedade, não induz nulidade, que somente deve ser reconhecida nos casos de efetivo prejuízo ao exercício da ampla defesa, o que não ocorreu no caso em apreço. Inaplicabilidade do art. 135 do Código de Processo Civil de 2015 à luz do princípio tempus regit actum" (AgInt nos EDcl no REsp 1.422.020/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/4/2018, DJe de 30/4/2018).
+E ainda:
+""Sob a égide do CPC/73, a desconsideração da personalidade jurídica pode ser decretada sem a prévia citação dos sócios atingidos, aos quais se garante o exercício postergado ou diferido do contraditório e da ampla defesa. Precedentes" (REsp 1735004/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 26/06/2018, DJe 29/06/2018).
+(..) 4. Agravo interno a que se dá provimento para reconsiderar a decisão da Presidência desta Corte e negar provimento ao agravo em recurso especial" (AgInt no AREsp 1.554.017/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 17/2/2020, DJe de 20/2/2020).
+Nesse mesmo sentido:
+"RECURSO ESPECIAL. CIVIL. PROCESSUAL CIVIL. EXECUÇÃO REDIRECIONADA. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. REQUISITOS. MATÉRIA DE DEFESA. VERIFICAÇÃO. NECESSIDADE. DECRETAÇÃO INCIDENTAL. EMBARGOS À EXECUÇÃO. AÇÃO AUTÔNOMA. COGNIÇÃO AMPLA. ILEGITIMIDADE PASSIVA AD CAUSAM. ALEGAÇÃO. POSSIBILIDADE. COISA JULGADA. ART. 472 DO CPC/1973. NÃO CONFIGURAÇÃO. PRECLUSÃO. ART. 473 DO CPC/1973. NÃO OCORRÊNCIA.
+(..)
+4. A jurisprudência desta Corte Superior admite a desconsideração da personalidade jurídica de forma incidental no âmbito de execução, dispensando a citação prévia dos sócios, tendo em vista que estes poderão exercer seus direitos ao contraditório e à ampla defesa posteriormente, por meio dos instrumentos processuais adequados (embargos à execução, impugnação ao cumprimento de sentença ou exceção de pré-executividade). Precedentes.
+5. Afastada a preclusão indevidamente aplicada na origem, deve ser garantida ao embargante a possibilidade de demonstrar a ausência dos pressupostos da desconsideração da personalidade jurídica da pessoa jurídica originalmente demandada, sob pena de cerceamento de sua defesa.
+6. Recurso especial parcialmente conhecido e, nessa parte, provido" (REsp 1.685.353/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 9/3/2021, DJe de 12/3/2021 - grifou-se).
+"RECURSO ESPECIAL. PROCESSUAL CIVIL. EXECUÇÃO. FALECIMENTO DE EXECUTADO. PROSSEGUIMENTO EM RELAÇÃO AOS DEMAIS. DECISÃO QUE PROMOVE A DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. FUNDAMENTAÇÃO. OPORTUNA E ADEQUADA IMPUGNAÇÃO. NECESSIDADE. FRAUDE À EXECUÇÃO. PRONUNCIAMENTO, ATÉ MESMO DE OFÍCIO. POSSIBILIDADE. REEXAME DE PROVAS, EM SEDE DE RECURSO ESPECIAL. VEDAÇÃO SUMULAR.
+(..)
+5. A utilização do instituto da desconsideração da personalidade jurídica, na vigência do CPC/73, dispensa a prévia citação. Com efeito, verificados os pressupostos de sua incidência, o juiz, no próprio processo, de forma incidental, poderá desconsiderar a personalidade e indicando, especificamente, quais os sócios e/ou administradores que responderiam com seus bens particulares, sempre com o objetivo de impedir a concretização de atos de fraude à lei ou contra terceiros.
+(..)
+7. Recurso especial não provido" (REsp 1.698.102/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 12/6/2018, DJe de 23/8/2018 - grifou-se).
+Quanto à desconsideração da personalidade jurídica levada a efeito, importa destacar que a revisão dos fundamentos que ensejaram a conclusão pela instância ordinária de que estão presentes os requisitos para a desconsideração da personalidade jurídica da empresa, a inclusão dos sócios no polo passivo da execução e a aplicação da multa exigiria reapreciação do conjunto fático-probatório, o que é vedado em recurso especial, ante o teor da Súmula nº 7/STJ. Nesse sentido:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSO CIVIL. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. CONFUSÃO PATRIMONIAL. SÚMULA 7/STJ.
+(..)
+2. Inviabilidade de alterar a conclusão do aresto recorrido para passar a afirmar que estão ausentes os requisitos para desconsideração da personalidade jurídica, pois demanda a incursão na seara fático probatória, atividade não realizável nesta via especial. Incidência da súmula 7/STJ.
+3. Agravo interno não provido" (AgInt no REsp 1.999.314/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/8/2022, DJe de 9/9/2022).
+"RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO DEMARCATÓRIA. PRESCRIÇÃO. NÃO OCORRÊNCIA. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. REVISÃO DO JULGADO. IMPOSSIBILIDADE. INCIDÊNCIA DO ENUNCIADO N.º 7/STJ.
+(..)
+3. A desconsideração da personalidade jurídica constitui medida de caráter excepcional que somente pode ser decretada após a análise, no caso concreto, da existência de vícios que configurem abuso de direito, caracterizado por desvio de finalidade ou confusão patrimonial, requisitos que não se presumem em casos de dissolução irregular ou de insolvência. Precedentes.
+4. Reconhecimento pelo acórdão recorrido dos requisitos para a desconsideração da personalidade jurídica, tendo em vista o esvaziamento do patrimônio da empresa G. Lunardelli com sua cisão, tendo tal fato ocorrido com a participação do recorrente, além da expressa previsão no protocolo de cisão da existência da ação demarcatória e a assunção de responsabilidade pelo resultado da demanda.
+5. Rever os fundamentos do acórdão recorrido relativos à análise dos requisitos autorizadores importaria necessariamente no reexame de provas, o que é defeso nesta fase recursal ante o óbice do Enunciado n. 7/STJ.
+6. RECURSO ESPECIAL DESPROVIDO" (REsp 1.816.794/PR, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 23/6/2020, DJe de 1/7/2020).
+Ante o expost o, conheço em parte do recurso e, nessa parte, nego-lhe provimento.
+Publique-se.
+Intimem-se.
