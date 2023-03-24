@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso especial interposto por DIOLINDA GONÇALVES CAZELAS com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo (Apelação Cível n. 0172969-40.2008.8.26.0002) assim ementado (fl. 750):
+EMBARGOS À EXECUÇÃO - TÍTULO EXECUTIVO EXTRAJUDICIAL - CONCOMITANTE AÇÃO AUTÔNOMA DE DESPEJO CUMULADA COM COBRANÇA DE ALUGUEIS PROPOSTA CONTRA OS LOCATÁRIOS NÃO RETIRA A LIQUIDEZ E EXIGIBILIDADE DO TÍTULO - POSSIBILIDADE DE EXECUÇÃO AUTÔNOMA CONTRA FIADORES - PRECEDENTE DO E. STJ - RECURSO IMPROVIDO.
+Nas razões do recurso especial, a parte recorrente aponta dissídio jurisprudencial e violação do art. 485, V e VI, do Código de Processo Civil, arguindo falta de interesse processual da parte ora recorrida em propor ação de execução em razão de existência de litispendência, uma vez que tramita ação de despejo c/c cobrança de aluguéis na qual se discute os valores que se pretende executar.
+Afirma que a ação de despejo c/c aluguéis foi proposta apenas em desfavor dos locatários e não em face da fiadora, ora recorrente, sustentando que, enquanto esta ação não tiver desfecho transitado em julgado, "não pode o recorrido propor ação de execução fundada em título extrajudicial que está sendo EXPLICITAMENTE DISCUTIDO NA JUSTIÇA, por total e notória falta de interesse processual" (fl. 766).
+Defende que, "constatando-se a litispendência, há de conhecer de ofício, restando à extinção da ação sem o julgamento do mérito" (fl. 772).
+Colaciona julgado do STJ visando demonstrar divergência jurisprudencial acerca de ausência de interesse processual em execução de contrato de locação se pendente ação de conhecimento.
+Requer o conhecimento e provimento do recurso.
+As contrarrazões foram apresentadas (fls. 796-806).
+Admitido o apelo extremo às fls. 808-809, os autos ascenderam a esta Corte.
+É o relatório. Decido.
+Cinge-se a controvérsia acerca da possibilidade de se propor ação de execução em face de fiador enquanto pendente ação de despejo c/c cobrança proposta em face dos locatários.
+O Tribunal de origem negou provimento à apelação da fiadora, sob o fundamento de que o trâmite de ação de conhecimento fundada no inadimplemento do contrato de locação movida contra os locatários não impede a propositura de execução em desfavor de fiador.
+Confira-se excerto do acórdão (fls. 751-753):
+De início, impende registrar que ar. sentença foi disponibilizada no DJe antes da entrada em vigor do Novo CPC, aplicando-se, ao caso, as disposições do CPC/1973.
+Trata-se de embargos à execução promovidos por fiadora contra locadores, julgados improcedentes em primeiro grau. O recurso fundamenta-se na impossibilidade de se propor execução com substrato em título executivo extrajudicial (contrato de locação), contra fiadores, quando pendente ação de despejo cumulada com cobrança de alugueres atrasados anteriormente proposta contra os locatários.
+Ocorre que a argumentação esposada pela embargante/apelante não prospera. O fato de correr em paralelo processo de conhecimento fundado no inadimplemento do contrato de locação (ação de despejo cumulada com cobrança), movido contra os locatários, não impede que se inicie a execução contra a fiadora, com fundamento em título extrajudicial (art. 585, V, CPC/73), que não perde a liquidez e exigibilidade em decorrência dos fatos narrados.
+ ..
+Ademais, o precedente citado pela apelante a fls. 254 é flagrantemente distinto da situação ora analisada. Naquele, se discute a possibilidade de iniciar cumprimento de sentença contra fiadores, quando não participaram do processo de conhecimento, hipótese rechaçada pela jurisprudência. Nos autos que ora se julgam, o debate envolve a execução direta da fiadora com fundamento em título executivo extrajudicial, mesmo com a concomitante propositura do processo de conhecimento em face dos locatários, hipótese admitida.
+A conclusão adotada na origem se coaduna com a jurisprudência do STJ firmada no sentido de que o ajuizamento de ação de despejo c/c cobrança contra o locatário não impede a propositura de ação de execução em desfavor do fiador.
+A propósito:
+RECURSO ESPECIAL. LOCAÇÃO. ALUGUERES. FIADOR. CONTRATO. EXECUÇÃO POR TÍTULO EXTRAJUDICIAL. LEGITIMIDADE PASSIVA DO DEVEDOR SOLIDÁRIO. JULGAMENTO ULTRA PETITA. INEXISTÊNCIA. CONDENAÇÃO POR LITIGÂNCIA DE MÁ-FÉ POR OCASIÃO DO SEGUNDO JULGAMENTO DETERMINADO PELO STJ PARA SUPRIR OMISSÃO. IMPROPRIEDADE.
+1. Não é pelo fato de a locadora ter promovido ação de despejo contra a locatária, e nessa ocasião ter apurado os valores em mora, que estaria impossibilitada de propor ação de execução, com base em título extrajudicial em desfavor do fiador.
+2. A despeito de o Executante ter indicado os dispositivos legais que lastreiam a execução por título judicial, além de outras impropriedades circunstanciais que, certamente, se divorciam da boa técnica jurídico-processual, há de prevalecer a instrumentalidade das formas, mormente quando se tem clara a pretensão deduzida, qual seja, a de executar o contrato de locação contra o fiador.
+3. Recurso especial que, admitindo omissão do acórdão recorrido quanto à argüição de ilegitimidade passiva e incompetência de juízo, cassa a decisão e devolve a matéria à instância a quo. Condenação pelo Tribunal Estadual por litigância de má-fé ao apreciar a questão. Impropriedade. Afronta oblíqua ao julgado do STJ, na medida em que a tese foi considerada ao menos plausível para que fosse devolvida à Corte local.
+4. Recurso especial conhecido em parte e, nessa parte, provido apenas para excluir a multa infligida. Revogada a liminar concedida nos autos de medida cautelar para emprestar efeito suspensivo a este recurso especial. (REsp n. 422.388/SP, relatora Ministra Laurita Vaz, Quinta Turma, julgado em 23/3/2004, DJ de 3/5/2004.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. REEXAME. PROVA. IMPOSSIBILIDADE. SÚMULA 7/STJ. INCIDÊNCIA. CONTRATO DE LOCAÇÃO. EXECUÇÃO POR TÍTULO EXTRAJUDICIAL. CÔNJUGE NÃO ENCONTRADO. CITAÇÃO FICTA. POSSIBILIDADE.
+1. A tese defendida no recurso especial demanda o revolvimento do contexto fático dos autos e desafia a Súmula 7/STJ.
+2. O fato de não terem sido cientificados da ação de despejo não obsta o manejo da execução contra o fiador com base no contrato de locação, o qual constitui-se título extrajudicial, a teor do artigo 585, V, do CPC.
+3. Certificado pelo oficial de justiça a procura, sem êxito, da parte executada, impõe-se a citação por edital. Inteligência dos artigos 653 e 654 do CPC.
+LOCAÇÃO. FIANÇA. PRORROGAÇÃO. PREVISÃO EM CONTRATO DE LOCAÇÃO. ENTENDIMENTO DA TERCEIRA SEÇÃO. DECISÃO MANTIDA.
+1. A jurisprudência atual da egrégia Terceira Seção firmou a compreensão segundo a qual o fiador continua garantidor do contrato prorrogado por prazo indeterminado, se nele houver cláusula expressa de responsabilidade fidejussória até a entrega das chaves.
+2. Agravo regimental improvido. (AgRg no Ag n. 1.091.525/SP, relator Ministro Jorge Mussi, Quinta Turma, julgado em 29/4/2009, DJe de 1/6/2009.)
+Incidência, pois, da Súmula n. 83 do STJ.
+Para a interposição de recurso especial fundado na alínea c do permissivo constitucional, é necessário o atendimento dos requisitos essenciais para a comprovação do dissídio pretoriano, conforme prescrições dos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ, o que não ocorreu no caso.
+No acórdão proferido pela Corte de origem, entendeu-se que a existência de ação de despejo c/c cobrança em face do locatário não impede a propositura de execução em desfavor de fiador. No recurso especial, entretanto, a parte recorrente, a título de divergência pretoriana, colaciona julgado em que a tese debatida diz respeito à possibilidade de iniciar a execução contra locatário que integra o polo passivo da ação de despejo c/c cobrança.
+Nesse contexto, não há semelhança entre as bases fáticas dos acórdãos confrontados, razão pela qual não é apto para demonstrar o dissídio jurisprudencial.
+Ante o exposto, não conheço do recurso especial.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
