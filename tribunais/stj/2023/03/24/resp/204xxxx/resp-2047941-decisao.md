@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto por ADAO AUGUSTO LAGE com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 6ª REGIÃO, assim ementado:
+PREVIDENCIÁRIO. CONSTITUCIONAL. PROCESSUAL CIVIL. REVISÃO DE BENEFÍCIO. DECADÊNCIA. INEXISTÊNCIA. ALTERAÇÃO DO TETO DE CONTRIBUIÇÃO. APLICAÇÃO RETROATIVA AOS BENEFÍCIOS CONCEDIDOS ANTES DAS EMENDAS CONSTITUCIONAIS 20/98 E 41/03. IMPOSSIBILIDADE NOCASO CONCRETO. BENEFÍCIO ANTERIOR À CF/88. INAPLICABILIDADE DO TETO PREVISTO NOS ARTS. 29,§2º, E 33, DA LEI Nº 8.213/91. APELAÇÃO IMPROVIDA.
+1. Não se discutindo o critério de cálculo ou de revisão do ato concessório do benefício, mas sim o limitador a incidir sobre o cálculo incontroverso, a natureza da causa é meramente declaratória e condenatória, e não (des)constitutiva, de modo que incide, na espécie, apenas o prazo prescricional e não decadencial.
+2. A pretensão de se obter o reajuste do benefício concedido antes da EC 20/98 e da EC 41/03, de acordo com os novos tetos nelas estabelecidos, encontra-se em perfeita sintonia com a jurisprudência dos Tribunais e do colendo Supremo Tribunal Federal.
+3. O Pleno do Supremo Tribunal Federal, em sede de repercussão geral, quando do julgamento do RE nº 564.354, reconheceu que "não ofende o ato jurídico perfeito a aplicação imediata do art. 14 da Emenda Constitucional n. 20/1998 e do art. 5º da Emenda Constitucional n. 41/2003 aos benefícios previdenciários limitados a teto do regime geral de previdência estabelecido antes da vigência dessas normas, de modo a que passem a observar o novo teto constitucional".(RE nº 564354, Relatora Ministra Carmen Lúcia, Tribunal Pleno, DJe 15/02/2011).
+4. A prova dos autos demonstra que o segurado era titular de aposentadoria concedida antes da CF/88 e no cálculo da renda mensal inicial foram observadas as disposições da CLPS então em vigor. Como o benefício originário é anterior à CF/88, não houve submissão dele aos tetos estabelecidos nos arts. 29, §2º, e 33 da Lei nº 8.213/91 e, de consequência, não se lhe aplicam os novos tetos instituídos pelas Emendas Constitucionais 20/98 e 41/2003.
+5. Honorários de advogado: majorados em 2% (dois por cento), a teor do disposto no artigo 85, §§ 2º, 3º e 11º do CPC, totalizando o quantum de 12% (doze por cento), suspensa nos moldes do art. 98, § 3º, do NCPC.
+6. Apelação improvida. Mantida a improcedência do pedido por fundamentos diversos
+Os embargos de declaração opostos foram rejeitados.
+No presente recurso especial, o recorrente aponta como violado o art. 23, III, do Decreto n. 89.312/84.
+É o relatório. Decido.
+Consoante pacífica jurisprudência desta Corte, o conceito de tratado ou lei federal, inserto na alínea a, do inciso III, do artigo 105, da Constituição Federal, deve ser considerado em seu sentido estrito, não compreendendo súmulas de tribunais, bem como decretos.
+Assim, resta inadmissível o recurso especial manejado em face de eventual violação à dispositivo de decreto.
+Neste sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. CONCURSO. AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. ART. 1.025 DO CPC. INAPLICABILIDADE. OFENSA REFLEXA À LEI FEDERAL. EXAME. IMPOSSIBILIDADE.
+1. É firme o entendimento desta Corte no sentido de que "o art. 1.025 do estatuto processual civil de 2015 prevê que esta Corte considere prequestionada determinada matéria apenas caso alegada, fundamentadamente, e reconhecida a violação ao art. 1.022 do referido codex" (AgInt no AREsp 1.966.140/RJ, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 27/4/2022 - Grifo nosso).
+2. Caso concreto em que nas razões do recurso especial não foi deduzida afronta ao art. 1.022 do CPC, o que inviabiliza a aplicação da regra contida no art. 1.025 do mesmo diploma processual.
+3. Não bastasse o fato de a Corte regional não ter prequestionado os arts. 4º, § 1º, e 5º da Lei 13.146/2015, tem-se, ainda, que a eventual contrariedade a tais normas seria meramente reflexa, porquanto amparada na premissa de se violação a dispositivos do Decreto 3.298/1999, que, no entanto, não pode ser examinada, porquanto os decretos regulamentares não se caracterizam como "lei federal", na forma exigida pelo art. 105, III, da Constituição Federal. Incidência das Súmulas 282 e 284/STF.
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.936.573/AL, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 23/5/2022, DJe de 27/5/2022.)
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. PENSÃO POR MORTE. PROCEDÊNCIA DO PEDIDO. DEFICIÊNCIA RECURSAL. AUSÊNCIA EM APONTAR OS DISPOSITIVOS LEGAIS VIOLADOS. APLICAÇÃO DA SÚMULA N. 284 DO STF. EXERCÍCIO DE LABOR RURAL. DEPENDÊNCIA DO AUTOR. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. OFENSA A DECRETO. INADMISSIBILIDADE DO RECURSO ESPECIAL.
+(..)
+VIII - Em relação à eventual violação do art. 62 do RGPS, esclareça-se que, consoante pacífica jurisprudência desta Corte, o conceito de tratado ou lei federal, inserto na alínea a do inciso III do art. 105 da Constituição Federal, deve ser considerado em seu sentido estrito, não compreendendo súmulas de tribunais, bem como decretos.
+IX - Inadmissível o recurso especial manejado em face de eventual violação de dispositivo de decreto. Neste sentido: (AgInt nos EDcl no AREsp n. 938.238/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 20/6/2017, DJe 26/6/2017 e AgInt no AREsp n. 1.335.207/ES, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 23/9/2019, DJe 25/9/2019).
+X - Agravo interno improvido.
+(AgInt no REsp n. 1.731.832/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 8/3/2022, DJe de 14/3/2022.)
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
