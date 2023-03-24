@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim relatado (fls. 29-30):
+Trata-se de recurso em sentido estrito interposto por CÍCERO ANTÔNIO DA SILVA, por intermédio da Defensoria Pública, em face da decisão de fls. 326/328v, proferida pelo MM. Juiz de Direito da Vara Única da Comarca de São Joaquim do Monte, que o pronunciou como incurso nas penas do art. 121, § 2º, I, III e IV, do CPB. Narra a denúncia de fls. 2/4, em síntese:
+(..)
+Em suas razões recursais, às fls. 336/343, o recorrente requer a declaração de nulidade da pro núncia por excesso de linguagem. Alternativamente, postula a exclusão das qualificadoras de motivo torpe (art. 121, §2º, I, do CPB) e do emprego de meio cruel (art. 121, §2º, III, do CPB).
+O Ministério Público apresentou contrarrazões recursais, às fls. 346/352, pugnando pelo improvimento do recurso. Em juízo de retratação, manteve-se a sentença recorrida por seus próprios fundamentos, à fl. 353.
+A d. Procuradoria-Geral de Justiça, em seu parecer de fls. 363/365, opinou pelo desprovimento do recurso.
+É o relatório.
+Narram os autos que o paciente foi pronunciado como incurso nas sanções do art. 121, § 2º, I, III e IV, do CPB.
+Sustenta a defesa, em suma, ausência de fundamentação idônea quanto às qualificadoras do motivo torpe e do meio insidioso ou cruel.
+Alega, quanto à qualificadora do motivo torpe, que "tanto a sentença de pronúncia quanto o acórdão que desproveu o recurso em sentido estrito presumiram que o paciente agiu com torpeza simplesmente pelo fato de o corréu "Nildo" ser seu sobrinho, sem, todavia, indicar qualquer prova de que teria agido com a referida motivação torpe" (fl. 5).
+Aduz que não deve ser aplicado o princípio do in dubio pro societate, alegando que esta Corte Superior "recentemente reconheceu que essa concepção deve ceder lugar ao princípio da presunção constitucional de inocência e à doutrina dos stantards probatórios suficientes" (fl. 7).
+Afirma, ainda, que "o meio utilizado para a prática do delito (disparos de arma de fogo) não constitui meio insidioso ou cruel, pois não revela instinto de maldade exarcerbada com o fim de causar um sofrimento desnecessário à vítima" (fl. 10).
+Requer, liminarmente e no mérito, a concessão da ordem, a fim de "se afastar as qualificadoras do motivo torpe (art. 122, § 2º, I, do CP) e do meio cruel ou insidioso (art. 122, § 2º, III, do CP) indicada na decisão de pronúncia" (fl. 11).
+A liminar foi indeferida.
+Prestadas as informações, o Ministério Público Federal opina pelo não conhecimento do writ.
+O Tribunal de origem assim se manifestou quanto às qualificadoras (fl. 35-37):
+Dito isso, no que se ref ere às circunstâncias qualificadoras do homicídio admitidas na pronúncia, convém registrar que há nos autos elementos que indicam que o recorrente Cícero Antônio da Silva, juntamente com o outro acusado Nildo Manoel da Silva, teria matado a vítima José Milton Gomes do Vale por vingança e mediante meio cruel.
+Com efeito, há nos autos indícios de que o acusado Nildo Manoel da Silva possuía uma desavença com a vítima desde a época em que eles residiam na cidade de São Paulo/SP.
+O recorrente, por ser sobrinho muito próximo do acusado Nildo Manoel da Silva, teria tomado para si esse sentimento de vingança, tanto que, consoante os depoimentos testemunhais, o recorrente Cícero Antônio da Silva é quem teria sido o autor dos disparos de arma de fogo.
+Por essa razão, não há que se falar, a priori, em incomunicabilidade da circunstância qualificadora do motivo torpe, eis que, embora subjetiva, ela não seria atinente apenas ao acusado Nildo Manoel da Silva.
+Ademais, dimanam do conjunto probatório indícios de que o crime de homicídio teria sido cometido por meio cruel, tendo em vista que, consoante laudo de perícia tanatoscópica de fl. 80, a causa da morte do ofendido José Milton Gomes do Vale foi "ASFIXIA COMPLEXA POR FRATURA DE TRAQUEIA EM DECORRÊNCIA DE DISPARO DE PROJETIL DE ARMA DE FOGO."
+Mais adiante, consta no 3º quesito do laudo: "Foi ocasionada pelo emprego de veneno, fogo, explosão, asfixia, tortura ou outro meio insidioso ou cruel ou de que possa resultar perigo comum  SIM, ASFIXIA."
+Por tudo isso é que não há como se afastar as circunstâncias qualificadoras do motivo torpe e do emprego de meio cruel, sobretudo porque estas não se apresentam como manifestamente improcedentes na hipótese dos autos.
+Nessa esteira, na fase de pronúncia a exclusão da qualificadora constitui medida excepcional, de sorte que se recomenda a análise mais aprofundada da matéria pelo Tribunal do Júri, o qual detém competência constitucional para julgar os crimes dolosos contra a vida, consoante reiterados julgados proferidos pelo Superior Tribunal de Justiça, que ora colaciono, in verbis:
+(..)
+Acrescente-se que, nessa fase processual, vigora o princípio do in dubio pro societate, no sentido de que eventuais incertezas propiciadas pela prova se resolvem em favor da sociedade, as quais somente serão afastadas quando do julgamento do feito pelo Tribunal do Júri.
+Desta maneira, caberá ao Conselho de Sentença, juízo natural da causa, com exclusividade, avaliar e valorar a prova e decidir definitivamente as questões levantadas, mormente o decote das qualificadoras, já que estas não são manifestamente improcedentes.
+Ante o exposto, NEGO PROVIMENTO ao recurso em sentido estrito interposto pelo réu CÍCERO ANTÓNIO DA SILVA, mantendo incólume a r. decisão de pronúncia proferida em primeiro grau.
+Conforme a jurisprudência pacífica desta Corte, a sentença de pronúncia não encerra juízo de procedência acerca da pretensão punitiva, tão somente viabilizando a competência para o Tribunal do Júri, que decidirá a lide de acordo com os elementos probatórios produzidos, devendo a este os autos serem enviados na hipótese de razoável grau de certeza da imputação. Nesse sentido: AgRg no REsp 1405123/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 18/12/2014, DJe 4/2/2015.
+Havendo a indicação de lastro probatório mínimo a configurar as qualificadoras do motivo torpe e do meio cruel, conforme apontado pelas instâncias de origem, tendo em vista que "o recorrente, por ser sobrinho muito próximo do acusado Nildo Manoel da Silva, teria tomado para si esse sentimento de vingança, tanto que, consoante os depoimentos testemunhais, o recorrente Cícero Antônio da Silva é quem teria sido o autor dos disparos de arma de fogo", bem como que "a vítima foi atingida com inúmeros disparos, causando-lhe intenso sofrimento antes do óbito (fl. 20) não se mostra razoável infirmar o entendimento pretérito, sob pena de afronta à soberania do Júri. Ness e sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRONÚNCIA. EXCLUSÃO DE QUALIFICADORA NÃO MANIFESTAMENTE IMPROCEDENTE. NÃO CABIMENTO. VINGANÇA. QUALIFICADORA DO MOTIVO TORPE. PRECEDENTES. DECISÃO MANTIDA. AGRAVO REGIMENTAL IMPROVIDO.
+1. A decisão deve ser mantida por seus próprios fundamentos por estar em consonância com a jurisprudência desta Corte Superior.
+2. Na pronúncia, que não encerra juízo de procedência acerca da pretensão punitiva, somente se admite a exclusão de qualificadoras quando manifestamente improcedentes ou descabidas, sob pena de afrontar a soberania do Júri, o que não se verifica no caso concreto, mormente quando relatado na própria denúncia que o crime foi cometido por vingança, sendo consid erada qualificadora do motivo torpe pela jurisprudência firme desta Corte.
+3. Agravo regimental improvido." (AgRg no HC 523.029/PE, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 03/12/2019).
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
