@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de SANDRO SOUZA DA SILVA no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado do Paraná.
+Colhe-se dos autos que o paciente foi condenado, como incurso no art. 157, § 2º, I e II, do Código Penal, à pena de 7 anos, 4 meses e 6 dias de reclusão, no regime fechado.
+Interposta apelação pela defesa, foi negado provimento ao recurso, em acórdão assim ementado (e-STJ fls. 12/13):
+RECURSO DE APELAÇÃO CRIMINAL - ROUBO MAJORADO - NULIDADE - NÃO OCORRÊNCIA - REQUERIMENTO DE DILIGÊNCIA - DESNECESSIDADE -ABSOLVIÇÃO - IMPOSSIBILIDADE - REPRIMENDA PECUNIÁRIA - OMISSÃO DECISÓRIA QUANTO AO VALOR DO DIA-MULTA - ESTIPULAÇÃO NO MENOR MONTANTE DA NORMA- PLEITO PARA RECORRER EM LIBERDADE - INADMISSIBILIDADE - SENTENÇA ALTERADA - APELO NÃO PROVIDO.
+Não há se falar em nulidade por cerceamento de defesa quando a providência requerida na fase do art. 402 da Legislação Processual Penal foi indeferida de forma fundamentada e sequer se originou de circunstâncias ou fatos examinados na instrução processual.
+É dispensável a realização da diligência defensiva que se mostra incapaz de alterar a conclusão condenatória.
+Não merece acolhimento o pleito absolutório se os elementos amealhados evidenciam, suficientemente, a prática do injusto descrito no art. 157, § 2º, incisos I e II, do Código Penal, pelo apelante.
+Verificada omissão na sentença, o valor do dia-multa deve ser estipulado no piso legal de 1/30 (um trigésimo) do salário mínimo vigente ao tempo do fato, consoante preconizado no art. 49, § 1º, da Norma Punitiva.
+Concretamente justificada a imprescindibilidade da manutenção do reprovado em prisão cautelar para fins de garantir a ordem pública, é descabida a súplica para recorrer em liberdade.
+Apelação conhecida e não provida.
+Pugna a defesa pela declaração de nulidade do processo, em razão de vício no reconhecimento pessoal do réu, pois não foi atendido o regramento previsto no art. 226 do Código de Processo Penal.
+É, em síntese, o relatório.
+Decido.
+Analisando o acórdão recorrido e toda documentação acostada ao presente habeas corpus, verifico que o Superior Tribunal de Justiça não pode conhecer da questão deduzida na presente impetração, tendo em vista a falta de manifestação da Corte de origem sobre ela.
+Os pedidos encartados pela defesa no recurso de apelação limitaram-se ao seguinte (e-STJ fl. 14):
+Inconformada, a defesa, inicialmente, pleiteia a nulidade da sentença por cerceamento de defesa, sustentando a inobservância do devido contraditório pelo fato de não ter sido deferida a produção de provas documentais para comprovar as características físicas de Sandro Souza da Silva. Subsidiariamente, requer "a juntada nos autos das características físicas do recorrente, como exemplo determine expedição de oficio ao Sistema Penitenciário de Mato Grosso do Sul por meio da AGEPEN (Endereço: R. Santa Maria, 1307 - Monte Castelo, Campo Grande - MS, 79011 - 190) para que apresente neste juízo registros do acusado com suas condições físicas, altura, cor etcs)" (). sic Na sequência, pugna pela absolvição do apelante, com fulcro no art. 386, incisos IV e/ou V, do Código de Processo Penal. Por fim, roga pelo direito do sentenciado de recorrer em liberdade (mov. 394.1 - AP).
+Desse modo, fica impossibilitada a manifestação deste Sodalício, sobrepujando a competência do Tribunal estadual, sob pena de configuração do chamado habeas corpus per saltum, a ensejar verdadeira supressão de instância e violação aos princípios do duplo grau de jurisdição e do devido processo legal substancial.
+Ao discorrer sobre o tema, BRASILEIRO vaticina com clareza que "revela- se inviável, portanto, o pedido de julgamento de habeas corpus per saltum, ou seja, o julgamento do remédio heroico pelas instâncias superiores sem prévia provocação das instâncias inferiores acerca do constrangimento ilegal à liberdade de locomoção, sob pena de verdadeira supressão de instância e consequente violação do princípio do duplo grau de jurisdição" (LIMA, Renato Brasileiro. Manual de processo penal: volume único - 4ª ed. rev. ampl. e atual. Salvador: JusPodivm, 2016, p. 2.470, grifei).
+Ante a falta de manifestação do colegiado estadual, percebe-se a incompetência desta Corte Superior para o processamento e julgamento deste writ, já que inexiste ato a ser imputado à autoridade coatora, nos termos do art. 105, I, alínea "c", da Constituição Federal, bem como do art. 13, I, alínea "b", do Regimento Interno do Superior Tribunal de Justiça. Nesse sentido:
+HABEAS CORPUS. ROUBO MAJORADO. WRIT SUBSTITUTIVO DE RECURSO PRÓPRIO.  ..  SUPRESSÃO DE INSTÂNCIA. ORDEM CONCEDIDA DE OFÍCIO.
+ ..  10. O direito de recorrer em liberdade não foi objeto de discussão pela Corte de origem, motivo pelo qual se evidencia a incompetência deste Superior Tribunal de Justiça para apreciar o aludido tema posto no writ e a consequente supressão de instância.
+ ..  (HC n. 278.542/SP, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 4/8/2015, DJe 18/8/2015.)
+EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS. AUSÊNCIA DE AMBIGUIDADE, CONTRADIÇÃO, OBSCURIDADE OU OMISSÃO NO JULGADO. IMPUGNAÇÃO DE ATO DE JUIZ DE PRIMEIRO GRAU. ABSOLUTA INCOMPETÊNCIA. NEGATIVA DE SEGUIMENTO. APLICAÇÃO DO ART. 34, XVIII, DO RISTJ.
+1. Não há no acórdão ambiguidade, contradição, obscuridade ou omissão, consoante disposto no art. 619 do Código de Processo Penal.
+2. De acordo com o art. 105, I, c, da Constituição Federal, compete a esta Corte julgar habeas corpus contra atos de Tribunais de Justiça e Tribunais Regionais Federais, o que não ocorre no caso em questão, em que se impugna ato de Juízo de primeiro grau.
+3. Assim disciplina o art. 34, XVIII, do RISTJ: negar seguimento a pedido ou recurso manifestamente intempestivo, incabível, improcedente, contrário a súmula do Tribunal, ou quando for evidente a incompetência deste.
+4. Na ausência de argumento apto a afastar o posicionamento anteriormente firmado, mantenho a decisão por seus próprios fundamentos.
+5. Embargos de declaração rejeitados. (EDcl no HC n. 230.583/MG, relator Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 16/9/2014, DJe 1º/10/2014.)
+Tal o contexto, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
