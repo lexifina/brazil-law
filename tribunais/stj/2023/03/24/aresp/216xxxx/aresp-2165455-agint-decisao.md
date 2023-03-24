@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de Agravo Interno contra decisão monocrática (fls. 582-585, e-STJ), que conheceu do Agravo para conhecer parcialmente do Recurso Especial e, nessa parte, negar-lhe provimento.
+A parte agravante aduz a "possibilidade de utilização do Mandado de Segurança como via adequada para declaração do direito à compensação e viabilizar a devida compreensão da legislação do Mandado de Segurança" (fl. 598, e-STJ). Sustenta (fls. 590-600, e-STJ):
+Deve-se pontuar que o presente Mandado de Segurança não indica uma compensação já realizada para a qual se busca homologação judicial. Também não são apontados valores nem se requer qualquer outro bem da vida que tenha por premissa a compensação. Busca-se apenas e tão somente a declaração do direito de, após o trânsito em julgado, buscar a compensação na via administrativa do indébito resultante da declaração de inconstitucionalidade na cobrança do Diferencial de Alíquota nas operações envolvendo consumidor final, seja esse contribuinte ou não de ICMS, mediante a indicação dos critérios jurídicos pertinentes.
+A impetrante, ora Agravante, não pretende reaver valores retroativos nos próprios autos. Por isso é que se afirma que não está utilizando do Mandado de Segurança como ação de cobrança. Para melhor esclarecer esse ponto, cita-se novamente a ementa do REsp 1.111.164/BA, a qual define, de forma extremamente didática, as duas formas de compensação existentes:
+(..)
+Observa-se que o presente caso se amolda à perfeição à hipótese acima descrita em que o Superior Tribunal de Justiça informa prescindir de juntada de comprovante de pagamento, porquanto, diga-se novamente, não se busca provimento jurisdicional sobre valores de compensação a ser homologada judicialmente. Também não se realiza qualquer pedido adicional que tenha a compensação como premissa. Pugna-se apenas pelo reconhecimento do direito de realizar esse encontro de contas na via administrativa, segundo os critérios jurídicos que precisam ser definidos em juízo e que prescindem de qualquer prova. Trata-se de declaração de efeitos a serem produzidos no futuro, cuja apuração ocorrerá na esfera administrativa, após o trânsito em julgado da demanda, afastando a incidência das Súmulas 269 e 271 do STF.
+Requer a reconsideração da decisão agravada ou o provimento, pelo colegiado, do Agravo Interno.
+Não foi apresentada impugnação.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 28.2.2023.
+Merece parcial acolhida a irresignação.
+O Tribunal de origem, ao dirimir a controvérsia, assim se manifestou (fl. 392, e-STJ):
+Por outro lado, não há que se acolher o pleito de compensação dos valores recolhidos a título de DIFAL nos últimos cinco anos.
+Isto se dá a uma porque o mandado de segurança não é via adequada para reaver valores retroativos consoante os enunciados das Súmulas nº 269 e 271 do C. Supremo Tribunal Federal e, a duas, porque com o advento do julgamento do Tema nº 1.093 pelo pretório Excelso é duvidoso se e quando haverá crédito fiscal da mesma natureza (ICMS DIFAL) para com que o impetrante realize dita compensação.
+Poderá, assim, o ora recorrente eventualmente promover competente ação de cobrança.
+O acórdão recorrido divergiu do entendimento do STJ, firmada na Primeira Seção, segundo a qual "o reconhecimento do direito à compensação de eventuais indébitos recolhidos anteriormente à impetração ainda não atingidos pela prescrição não importa em produção de efeito pretérito, vedado pela Súmula 271 do STF, visto que não há quantificação dos créditos a compensar e, por conseguinte, provimento condenatório em desfavor da Fazenda Pública à devolução de determinado valor, o qual deverá ser calculado posteriormente pelo contribuinte e pelo fisco no âmbito administrativo segundo o direito declarado judicialmente ao impetrante" (EREsp 1.770.495/RS, Rel. Ministro Gurgel de Faria, DJe 17/12/2021). Na mesma linha:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. MANDADO DE SEGURANÇA. NATUREZA DECLARATÓRIA. COMPENSAÇÃO DO INDÉBITO TRIBUTÁRIO. POSSIBILIDADE. SÚMULA 213 STJ.
+1. Esta Corte de Justiça possui o entendimento de que "o mandado de segurança constitui instrumento adequado à declaração do direito à compensação do indébito recolhido em período anterior à impetração, observado o prazo prescricional de 5 (cinco) anos contados retroativamente a partir da data do ajuizamento da ação mandamental" (AgInt no REsp n. 1.778.268/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 2/4/2019).
+2. Tal entendimento foi mais uma vez reafirmado por ocasião da apreciação dos embargos de divergência no EREsp n. 1.770.495/RS, reconhecendo que a declaração do direito à compensação tributária permite o aproveitamento de valores referentes a indébitos recolhidos nos cinco anos anteriores à data da impetração.
+3. Agravo interno a que se nega provimento. (AgInt no REsp 1.898.418/CE, Rel. Ministro Og Fernandes, Segunda Turma, DJe 25/2/2022)
+Desse modo, consoante a jurisprudência do STJ, deve ser reconhecido o direito da empresa à compensação, no âmbito administrativo, dos valores indevidamente recolhidos a título de DIFAL nos últimos cinco anos.
+Diante do exposto, dou parcial provimento ao Agravo Interno, nos termos da fundamentação.
+Publique-se.
+Intimem-se.
