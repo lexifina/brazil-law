@@ -1,0 +1,11 @@
+DECISÃO
+MAICON VINICIUS DOS SANTOS BARBOSA alega sofrer constrangimento ilegal no seu direito de locomoção em decorrência de acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo nos Embargos de Declaração na Apelação n. 1500252-52.2021.8.26.0111/50000
+A defesa se insurge contra a determinação, no decisum impugnado, do cumprimento do acórdão de apelação. Afirma que "o v. acórdão proferido no âmbito dos Embargos de Declaração sequer foi publicado, razão pela qual jamais poderia a Corte Bandeirante determinar o cumprimento do v. acórdão, e por conseguinte iniciar a execução da pena sem antes haver o trânsito em julgado da presente Ação Penal" (fl. 5).
+Requer a suspensão dos efeitos do decisum, de modo que a reprimenda só seja executada após o trânsito em julgado da condenação.
+Decido.
+O réu foi sentenciado a 6 anos de reclusão, em regime inicial fechado, mais multa, pelo crime de tráfico de drogas. A condenação foi confirmada pelo Tribunal de origem.
+A defesa opôs embargos de declaração contra o acórdão de apelação, os quais foram acolhidos, em parte, apenas para corrigir erro material. Ao final do decisum, a Corte local dispôs o seguinte (fl. 29, grifei): "Ante o exposto, pelo meu voto, ACOLHO PARCIALMENTE os Embargos de Declaração para que se substitua a expressão "associação ao tráfico" no segundo parágrafo da fl. 275, por "tráfico de drogas", devendo, no mais, restar inalterado o v. Acórdão embargado, determinando-se seu devido cumprimento".
+O impetrante se insurge, neste writ, quanto à determinação do Tribunal a quo para que fosse dado cumprimento ao acórdão de apelação. Ao revés do que sustenta a defesa, verifico que o decisum não alterou o status libertatis do paciente, inclusive por não haver referência à imediata expedição de mandado de prisão contra o réu - seja porque a custódia cautelar não foi decretada, seja porque não houve o trânsito em julgado da condenação, a autorizar o início da execução penal.
+Deveras, a determinação da Corte de origem reflete o impulso oficial do processo, em que se deve dar continuidade à marcha procedimental, inclusive oportunizando às partes a interposição de eventuais recursos especial ou extraordinário. Desse modo, não constato constrangimento ilegal na espécie.
+À vista do exposto, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
