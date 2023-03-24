@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+A Sra. Ministra Laurita Vaz e os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra decisão que denegou o habeas corpus.
+Sustenta o agravante, em síntese, que deve ser afastada a valoração da culpabilidade, considerando que houve indevida referência à denúncia anônima, não sendo elemento apto a suportar consideração.
+Requer a reconsideração da decisão ou o encaminhamento do agravo ao colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. PORTE ILEGAL DE ARMA DE FOGO COM NUMERAÇÃO SUPRIMIDA. DOSIMETRIA. PENA-BASE. CULPABILIDADE. PREMEDITAÇÃO. CIRCUNSTÂNCIAS DO CRIME. ELEMENTOS CONCRETOS. REGIME PRISIONAL GRAVOSO. PRESENÇA DE CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS.
+1. Nos termos da orientação jurisprudencial desta Corte, "A premeditação do delito revela a maior reprovabilidade da conduta planejada, sendo razão ordinariamente aceita para o desfavorecimento do vetor da culpabilidade" (AgRg nos EDcl no HC n. 664.841/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 17/8/2021, DJe 20/8/2021).
+2. Na espécie, as circunstâncias do crime foram negativamente valoradas com base em elementos concretos, uma vez que o acusado e os corréus estariam previamente ajustados para a prática do crime de roubo, sendo impedidos de concretizar o delito mais grave por ação preventiva da polícia.
+3. Desconstituir as premissas fáticas delineadas no acórdão impugnado, com o objetivo de reverter a conclusão a respeito da premeditação, demandaria indevido revolvimento fático-probatório, providência inviável na estreita via do habeas corpus.
+4. Agravo regimental improvido.
+VOTO
+A decisão agravada encontra-se assim fundamentada (fls. 169/172):
+ ..
+O acórdão impugnado está assim fundamentado, no tocante à dosimetria, com referência à sentença (fls. 21/22):
+Pugna, ainda, o apelante João Guilherme da Costa Freire pelo afastamento da valoração negativa da circunstância judicial atinente à culpabilidade.
+Quando da dosimetria da pena, esta foi assim exasperada:
+"Analisando-se o processado, denoto que a culpabilidade do agente, de acordo com a reprovabilidade concreta da infração em seus mais variados graus, extrapola a normalidade, devendo influenciar na fixação da pena, a fim de não tornar morto o preceito da individualização da pena.
+Como se percebe da análise do feito, a conduta do agente se reveste da figura da periculosidade concreta, decorrente da evidente premeditação.
+A prova é vasta no sentido de que os agentes, em verdade, estavam reunidos para a prática de roubo nesta cidade, e não aperfeiçoaram o crime mais grave em razão de denúncia realizada à polícia, no sentido de que três ou quatro pessoas que estavam no Bar do bairro Vila Regina estariam armados, e em Nova Esperança (PR), para realização da infração contra o patrimônio.
+A delação, como referem os policiais, fazia menção expressa ao tipo e modelo veículo, e sua cor, no qual estariam os meliantes.
+Foi então que a Polícia Militar se mobilizou, realizando a abordagem do mencionado automotor, e prendendo o grupo com duas armas de fogo no interior do veículo, após de inicial tentativa de fuga.
+Tal situação bem revela que o grupo estava antecedentemente reunido, para a prática da infração penal mais grave, e embora cada qual dos agentes tivesse tempo para refletir sobre o equívoco daquilo que cometeria (seja no momento em que vieram de Paranavaí (PR) até Nova Esperança (PR), seja no período em que estiveram no Bar, seja no período em que saíram do par e passaram a circular armados pelas ruas desta urbe), ainda assim optaram pelo caminho tortuoso, o que demonstra acentuada relevância/intensidade na ação infracional, que extrapola os limites ordinários do tipo penal".
+Não merece prosperar o pedido do recorrente.
+A consideração, em desfavor do réu, das circunstâncias judiciais previstas no artigo 59 do Código Penal, trata-se de discricionariedade vinculada do juízo sentenciante.
+Neste caso, a culpabilidade foi valorada negativamente porque a denúncia anônima passada aos policiais narrava que os três indivíduos estavam armados com o intuito de praticar roubos naquela cidade. O que constitui, efetivamente, um elemento que não é inerente ao próprio tipo penal e que denota maior reprovabilidade da conduta.
+No caso, a pena-base foi aumentada em razão da maior reprovabilidade da conduta (culpabilidade), evidenciada pela premeditação e planejamento das ações, haja vista "o grupo estava antecedentemente reunido, para a prática da infração penal mais grave" e "estavam reunidos para a prática de roubo nesta cidade, e não aperfeiçoaram o crime mais grave em razão de denúncia realizada à polícia", o que permite, à toda evidência, a majoração da pena-base.
+Desse modo, o aumento pela culpabilidade em 3 meses (inferior a 1/6) em relação ao crime do art. 14 da Lei 10826/2003 e 4 meses e 15 dias (inferior a 1/6) para o crime do art. 16, parágrafo único, IV, da Lei 10826/2003, mostra-se idôneo e não merece reparo. Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. ESTELIONATO PRIVILEGIADO. COMUTAÇÃO DA PENA DE RECLUSÃO POR PENA DE DETENÇÃO. FUNDAMENTAÇÃO CONCRETA. REGIME INICIAL SEMIABERTO. MAUS ANTECEDENTES. POSSIBILIDADE. AUSÊNCIA DE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Reconhecida a figura do estelionato privilegiado, compete ao Magistrado optar fundamentamente por: (1) substituir a pena de reclusão pela de detenção; (2) diminuí-la de um a dois terços; ou (3) aplicar somente a pena de multa, nos termos do art. 171, §1.º, c.c. o art. 155, § 2.º, ambos do Código Penal.
+2. No caso, a escolha pela substituição por pena de detenção, que é menos benéfica ao Recorrente, está adequadamente fundamentada na gravidade concreta da conduta (fraude pela internet), no valor do prejuízo causado à vítima, pessoa física, e nos péssimos antecedentes do Recorrente, que possui 4 (quatro) condenações pretéritas, transitadas em julgado, todas por crimes patrimoniais.
+3. O Recorrente possui circunstâncias judiciais desfavoráveis, tanto que sua pena-base foi fixada acima do mínimo legal. Assim, verificada a existência de circunstância judicial negativa, revela-se idônea a fixação do regime inicial semiaberto, ainda que a pena final imposta tenha sido inferior a 4 (quatro) anos de reclusão, nos termos do art. 33, §3.º, c.c. o art. 59, ambos do Código Penal e da Súmula n. 440/STJ.
+4. Agravo regimental desprovido. (AgRg no AREsp n. 1.805.975/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/10/2021, DJe de 19/10/2021.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ESTELIONATO E ASSOCIAÇÃO CRIMINOSA. VIOLAÇÃO AO ART. 59 DO CÓDIGO PENAL - CP NÃO CONSTATADA. PENA-BASE ACIMA DO MÍNIMO LEGAL. CULPABILIDADE DO AGENTE E CIRCUNSTÂNCIAS DO CRIME. MAIOR GRAVIDADE DOS DELITOS. ELEMENTOS CONCRETOS. AGRAVO DESPROVIDO.
+1. Esta Corte tem entendido que a dosimetria da pena só pode ser reexaminada em recurso especial quando se verificar, de plano, a ocorrência de erro ou ilegalidade, porquanto deve ser respeitada a discricionariedade vinculada do julgador na análise dos fatos.
+2. No caso, a pena-base foi aumentada em razão da maior reprovabilidade das condutas (culpabilidade e circunstâncias dos crimes), evidenciada pela premeditação e planejamento das ações, a complexa estrutura e as diversas pessoas enganadas, além do fato de o recorrente pertencer ao núcleo intelectual da associação. Trata-se de fundamentação idônea, baseada em elementos concretos, cuja avaliação está situada no campo da discricionariedade do julgador. Sendo assim, não é possível desconsiderar a valoração negativa das circunstâncias judiciais, como pretende o agravante.
+3. Agravo regimental desprovido. (AgRg no AREsp n. 1.969.935/TO, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 9/8/2022, DJe de 15/8/2022.)
+Ante o exposto, denego o habeas corpus.
+Como se observa, ao contrário do que consignado no recurso, foi mantida a negativação da vetorial da culpabilidade com base em elementos concretos que permitiram entender que "o grupo estava antecedentemente reunido, para a prática da infração penal mais grave" (fl. 22), ou seja, a premeditação foi a causa de negativação da culpabilidade .
+Nos termos da orientação jurisprudencial desta Corte, "A premeditação do delito revela a maior reprovabilidade da conduta planejada, sendo razão ordinariamente aceita para o desfavorecimento do vetor da culpabilidade" (AgRg nos EDcl no HC n. 664.841/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 17/8/2021, DJe 20/ 8/2021).
+Ademais, desconstituir as premissas fáticas delineadas no acórdão impugnado, com o objetivo de reverter a conclusão a respeito da premeditação, demandaria indevido revolvimento fático-probatório, providência inviável na estreita via do habeas corpus.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
