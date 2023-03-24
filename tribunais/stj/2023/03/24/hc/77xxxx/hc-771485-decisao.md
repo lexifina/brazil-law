@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de THIAGO HENRIQUE GOMES ALVES no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Agravo em Execução n. 0007394-41.2022.8.26.0502).
+Consta dos autos que o Juízo da Vara de Execuções Criminais da Comarca de Campinas/SP indeferiu o pedido de remição de penas por aprovação no ENEM em favor do paciente, sob o fundamento de que ele não atingiu a média mínima de 450 pontos em todas as matérias e 500 na redação (e-STJ fls. 36/38).
+Irresignada, a defesa interpôs, sem êxito, agravo em execução buscando a remição de 20 dias, alegando, em síntese, que, "embora não tenha atingido a nota mínima exigida em todas as disciplinas ao realizar o Exame Nacional do Ensino Médio - ENEM, faz jus à remição da pena, ainda que proporcional" (e-STJ fl. 22).
+Na presente impetração, afirma que "o Paciente está sofrendo nítido constrangimento ilegal, pois foi aprovado em UMA disciplina, área de conhecimento, qual seja, matemática e suas Tecnologias, tendo pontuação de 459,20. Com essa pontuação o Paciente faz jus a 20 dias de remição" (e-STJ fl. 8).
+Requer, liminarmente e no mérito, a remição de 20 dias da pena do paciente.
+Indeferida a liminar (e-STJ fls. 102/103) e prestadas as informações (e-STJ fls. 107/110 e 113/125), manifestou-se o Ministério Público Federal, nesta instância, em parecer assim ementado (e-STJ fl. 127):
+HABEAS CORPUS. EXECUÇÃO PENAL. PLEITO DE REMISSÃO POR ESTUDO, INDEFERIDO PELO JUÍZO DA VEC. DECISÃO MANTIDA PELA CORTE DE ORIGEM. NÃO-APROVAÇÃO DO REEDUCANDO NA PROVA DO ENEM. CONSTRANGIMENTO ILEGAL. INEXISTÊNCIA. PARECER PELA DENEGAÇÃO DA ORDEM.
+É o relatório.
+Decido.
+In casu, busca a defesa a remição de 20 dias da pena do paciente, diante da sua aprovação em UMA disciplina no ENEM - Matemática e suas Tecnologias.
+São estes os fundamentos do acórdão recorrido (e-STJ fls. 24/25):
+No caso, pela documentação juntada e consoante declinado na própria petição inicial, o agravante não obteve a aprovação no ENEM, atingindo a nota mínima para tanto em apenas uma das áreas do conhecimento avaliadas, além de contar com nota inferior a 500 pontos na redação, sendo claro, portanto, o não atendimento das exigências veiculadas na referida Portaria.
+É dizer, não satisfez o recorrente o requisito para obter o direito à remição pelo estudo, já que não aprovado no ENEM, de modo que inconsistente o pleito recursal e impositiva a mantença da decisão impugnada.
+Acerca da controvérsia, a Terceira Seção desta Corte, por ocasião do julgamento do HC n. 602.425/SC, decidiu que a base de cálculo da carga horária, a fim de dar aplicação ao disposto no art. 126 da Lei de Execução Penal - no que se refere aos apenados que realizam estudos por conta própria -, conforme a Recomendação n. 44/2013 do Conselho Nacional de Justiça, seria de 1.200 horas para o ensino médio e de 1.600 horas para o ensino fundamental, ou 100 e 133 dias, respectivamente (HC n. 602.425/SC, Terceira Seção, julgado em 10/3/2021, DJe de 6/4/2021).
+E, segundo firme entendimento desta Corte Superior, há direito à remição da pena, pelo estudo, em decorrência da aprovação parcial no Exame Nacional do Ensino Médio - ENEM.
+Nesse sentido:
+AGRAGO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO. REMIÇÃO DA PENA. APROVAÇÃO PARCIAL NO ENEM. INTERPRETAÇÃO EXTENSIVA IN BONAM PARTEM. POSSIBILIDADE. ACÓRDÃO IMPUGNADO DE ACORDO COM A JURISPRUDÊNCIA DO STJ. APROVAÇÃO EM CURSO BÍBLICO À DISTÂNCIA. REQUISITOS NÃO PREENCHIDOS. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Agravo regimental improvido. (AgRg no HC n. 782.901/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 6/12/2022, DJe de 12/12/2022.)
+No caso, de acordo com os autos, o paciente foi aprovado em 1 (uma) das 5 (cinco) áreas de conhecimento do ENEM, o que corresponde a 20 (vinte) dias de remição.
+A propósito do tema, destaco o seguinte precedente desta Corte:
+EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. REMIÇÃO DE PENA. ART. 126 DA LEP. RECOMENDAÇÃO N. 44 DO CNJ. REPROVAÇÃO PARCIAL NO ENEM. ENSINO MÉDIO. CASO CONCRETO. ESTUDO POR CONTA PRÓPRIA COM APROVAÇÃO EM UMA MATÉRIA. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO. RECOMENDAÇÃO DE CELERIDADE.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, sedimentou orientação no sentido de não admitir habeas corpus substitutivo do recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+II - Esta Corte Superior firmou orientação no sentido de que é "viável a concessão da remição por atividades não expressas na lei, diante de uma interpretação extensiva in bonam partem do artigo 126 da Lei de Execução Penal" (AgRg no AREsp n. 696.637/SP, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 4/3/2016). Assim está autorizada a concessão da remição pelo estudo nas hipóteses previstas na Recomendação n. 44/2013 do CNJ. Precedentes.
+III - In casu, não comprovada a aprovação total do paciente no Ensino Médio (ENEM), estima-se, porém, que tenha realizado estudos por conta própria, já que obteve êxito em uma das matérias.
+Habeas corpus não conhecido. Ordem concedida, de ofício, para reconhecer o direito do paciente a 20 (vinte) dias de remição pelo estudo. Recomenda-se celeridade. (HC n. 716.087/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 22/2/2022, DJe de 25/2/2022.)
+Diante do exposto, concedo o habeas corpus para reconhecer o direito do paciente à remição de 20 dias de pena.
+Publique-se. Intimem-se.
