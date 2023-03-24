@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de conflito negativo de competência em que figura como suscitante o JUÍZO FEDERAL DA 2ª VARA DE CAMPOS/SJ/RJ e suscitado o JUÍZO DE DIREITO DO PRIMEIRO JUIZADO ESPECIAL CRIMINAL DE CAMPOS DOS GOYTACAZES/RJ.
+O juízo suscitado acolheu manifestação do Ministério Público local, declinando da competência para processamento de termo circunstanciado em que se apura suposta prática do delito previsto no art. 60 da Lei 9.605/1998, por entender ser competência da Justiça Federal, nos termos do art. 2º, § 1º, da Lei 8.176/1991, que assim dispõe:
+Art. 2º Constitui crime contra o patrimônio, na modalidade de usurpacão, produzir bens ou explorar matéria-prima pertencentes à União, sem autorização legal ou em desacordo com as obrigações impostas pelo título autorizativo.
+Pena: detenção, de um a cinco anos e multa.
+§ 1º Incorre na mesma pena aquele que, sem autorização legal, adquirir, transportar, industrializar, tiver consigo, consumir ou comercializar produtos ou matéria-prima, obtidos na forma prevista no caput deste artigo.
+O Juízo Federal da 2ª Vara de Campos/SJ/RJ, por sua vez, suscitou conflito negativo, arguindo que, em razão dos elementos até então constantes dos autos, "não há qualquer indício acerca da efetiva exploração ilegal de matéria-prima pertencente à União" (e-STJ fl. 3), mas supostos ilícitos administrativos e penais ambientais decorrentes do funcionamento de empresa sem a respectiva licença de operação.
+Parecer do Ministério Público Federal pela fixação da competência do juízo suscitado (e-STJ fls. 60-63).
+É o relatório.
+O conflito comporta conhecimento, por se tratar de incidente instaurado entre juízos vinculados a tribunais distintos, nos termos do art. 105, I, d , da Constituição Federal.
+Na origem, a Polícia Civil do Estado do Rio de Janeiro lavrou termo circunstanciado para apurar suposto funcionamento irregular de empresa atuante no setor de produtos cerâmicos.
+A dinâmica dos fatos foi assim consignada pela autoridade policial: "relata o comunicante que no dia de hoje, por volta dás 15h, cumprindo Ordem de Policiamento nº 521/2021, procedeu à Cerâmica VENTO LIVRE, na Estrada da Butica em Poço Gordo. Disse que ao chegar no referido local fez contato com o proprietário JOSÉ RANGEL PESSANHA e verificou que o estabelecimento não possuía Licença de Operações e por isso se encontrava irregular perante ao que prevê a lei de crimes ambientais em seu artigo 60, já que se trata de atividade potencialmente poluidora. Por fim disse que veio a esta GEIA noticiar o fato sendo acompanhado do proprietário para os devidos esclarecimentos. Pelo exposto dá-se a confecção deste RO" (e-STJ fl. 11).
+Inquiridos o policial militar responsável pelo flagrante e o proprietário da empresa (e-STJ fls. 13-22), nada foi dito a respeito de eventual exploração de bem pertencente à União, a justificar a competência da Justiça Federal, conforme previsão do art. 109, IV, da Constituição Federal.
+Logo, com razão o juízo suscitante ao registrar a ausência, até o momento, de indícios referentes à exploração ilegal de matéria-prima pertencente à União. Referido juízo registrou, ademais, que "apesar de ter sido requisitada a realização de perícia local (evento 1, OUT6), não consta dos autos o respectivo laudo, o que reafirma a inexistência de elementos mínimos relativos à eventual extração ou origem da matéria-prima" (e-STJ fl. 4).
+A propósito do tema, são inúmeras as decisões monocráticas já proferidas no âmbito desta Corte envolvendo os juízos ora em conflito em circunstâncias fáticas de igual teor, tendo esta Corte decidido pela fixação da competência do Juízo estadual.
+Cito exemplificativamente: CC 188.430/RJ (Rel. Ministro Rogério Schietti Cruz, DJe de 27/05/2022); CC 191.443/RJ (Rel. Ministro Ribeiro Dantas, DJe de 27/09/2022); e CC 190.289/RJ (Rel. Ministro Antonio Saldanha Palheiro, DJe de 07/11/2022).
+Com fundamento no art. 34, XXII, do RISTJ, conheço do conflito e declaro competente o Juízo de Direito do Primeiro Juizado Especial Criminal de Campos dos Goytacazes/RJ, suscitado.
+Publique-se.
+Dê-se ciência aos juízos suscitante e suscitado.
+Cientifique-se o Ministério Público Federal.
