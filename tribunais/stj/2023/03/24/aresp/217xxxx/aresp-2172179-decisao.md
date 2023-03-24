@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto por ARAPIRACA EMPREENDIMENTOS IMOBILIARIOS LTDA contra a decisão que inadmitiu recurso especial. O apelo extremo, com fundamento no artigo 105, III, alíneas "a" e "c", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de Minas Gerais assim ementado:
+"APELAÇÃO CÍVEL -CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL -DISTRATO -REVISÃO -POSSIBILIDADE -RETENÇÃO PELA PROMITENTE VENDEDORA DE PARTE DOS VALORES PAGOS PARA RESSARCIMENTO DE DESPESAS DO CONTRATO -CABIMENTO -PERCENTUAL CONTRATADO ABUSIVO -LIMITAÇÃO -NECESSIDADE -COMISSÃO DE CORRETAGEM -PRETENSÃO DE RESTITUIÇÃO -DESCABIMENTO -INDENIZAÇÃO POR DANO MORAL -REQUISITOS NÃO DEMONSTRADOS -AUSÊNCIA DE PROVAS -DEVER DE INDENIZAR AFASTADO. Consoante entendimento firmado pelo c. Superior Tribunal de Justiça, é cabível a revisão de distrato de contrato de compra e venda de imóvel, ainda que consensual, em que, a despeito da quitação ampla, geral e irrevogável, exista cláusula de decaimento (abusiva), prevendo a perda total ou substancial das prestações pagas pelo consumidor, em nítida afronta ao Código de Defesa do Consumidor e aos princípios da boa-fé objetiva e do equilíbrio contratual. Na hipótese de rescisão de contrato de promessa de compra e venda, por iniciativa do comprador, é cabível a retenção, pela vendedora, de parte dos valores pagos. Se o percentual a ser retido foi contratado de maneira abusiva, necessária se faz a sua limitação. O Superior Tribunal de Justiça, no julgamento do REsp 1599511/SP, submetido ao rito dos recursos repetitivos, firmou a tese de que, tendo sido informado o preço total da aquisição da unidade autônoma, assim como o valor da comissão de corretagem, válida se mostra a cláusula contratual que transfere ao comprador a obrigação de pagar a comissão de corretagem nos contratos de promessa de compra e venda de imóvel. Quando não se trata de dano moral presumível, imperioso, para que se reconheça o dever de indenizar, o preenchimento de todos os requisitos necessários à responsabilização civil, em especial o dano propriamente dito" (fl. 535, e-STJ).
+No seu arrazoado, a parte recorrente alega, além de divergência jurisprudencial, a violação dos artigos 394 e 405 do Código Civil.
+Sustenta ser cabível a retenção de 25% (vinte e cinco por cento) pelo promitente vendedor, mesmo em casos de rescisão por vontade do comprador.
+Além disso, afirma que os juros de mora devem ser computados a partir do trânsito em julgado da decisão que rescindir o contrato.
+Contrarrazões juntadas às fls. 601/609 (e-STJ).
+O Presidente do tribunal de origem inadmitiu o recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação não merece prosperar.
+Quanto aos arts. 394 e 405 d o CC, a matéria não foi objeto de debate pelas instâncias ordinárias, sequer de modo implícito, e não foram opostos embargos declaratórios com a finalidade de sanar omissão porventura existente. Por esse motivo, ausente o requisito do prequestionamento, incide o disposto na Súmula nº 282 do STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. REEXAME DE FATOS. SÚMULA Nº 7/STJ. MATÉRIA DE ORDEM PÚBLICA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 282/STF.
+1. Rever questão decidida com base no exame das circunstâncias fáticas da causa esbarra no óbice da Súmula nº 7 do Superior Tribunal de Justiça.
+2. Ausente o prequestionamento, até mesmo de modo implícito, do dispositivo apontado como violado no recurso especial, incide, por analogia, o disposto na Súmula nº 282 do Supremo Tribunal Federal.
+3. As questões de ordem pública, embora passíveis de conhecimento de ofício nas instâncias ordinárias, não prescindem, no estreito âmbito do recurso especial, do requisito do prequestionamento.
+4. Agravo interno não provido" (AgInt no AgRg no AREsp 663.415/MS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 6/12/2016, DJe 14/12/2016).
+No que tange à tese envolvendo o percentual de retenção, verifica-se a deficiência de fundamentação porque nas razões de recurso especial a parte não indica o dispositivo de lei federal, com demonstração da eventual ofensa à legislação infraconstitucional. Assim, aplica-se, por analogia, o óbice contido na Súmula nº 284 do Supremo Tribunal Federal, a inviabilizar o conhecimento do recurso também pela alínea "c" do permissivo constitucional.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ARTIGO DE LEI. VIOLAÇÃO. AUSÊNCIA DE INDICAÇÃO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284/STF. FINANCIAMENTO IMOBILIÁRIO. TERMO INICIAL DA PRESCRIÇÃO. TÉRMINO DO CONTRATO.
+1. O recurso especial fundamentado no dissídio jurisprudencial exige, em qualquer caso, que tenham os acórdãos - recorrido e paradigma - examinado o tema sob o enfoque do mesmo dispositivo de lei federal.
+2. Se a divergência não é notória, e nas razões de recurso especial não há a indicação de qual dispositivo legal teria sido malferido, com a consequente demonstração da divergência de interpretação à legislação infraconstitucional, aplica-se, por analogia, o óbice contido na Súmula nº 284 do Supremo Tribunal Federal, a inviabilizar o conhecimento do recurso pela alínea "c" do permissivo constitucional. Precedentes.
+3. (..)
+4. Agravo interno não provido" (AgInt no AREsp 973.413/MG, Rel. MINISTRO RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 1º/12/2016, DJe 16/12/2016).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do artigo 85, § 11, do Código de Processo Civil de 2015, os honorários sucumbenciais arbitrados na origem, a serem pagos pela ora recorrente, devem ser majorados em 2,5% (dois e meio por cento) sobre o valor da condenação, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
