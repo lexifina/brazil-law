@@ -1,0 +1,63 @@
+DECISÃO
+Trata-se de recurso especial interposto por SAUL CYPEL E OUTRO com fundamento no artigo 105, III, "a", da Constituição Federal, contra contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"HONORÁRIOS MÉDICOS. INTERNAÇÃO EM UTI INFANTIL. MÉDICO INTENSIVISTA. INADMISSIBILIDADE. Ante a evidência de que o pagamento da internação na UTI engloba a prestação dos serviços de tratamento intensivo que é da essência da unidade, a pretensão de recebimento em separado de honorários de médico intensivista é descabida. Sentença de procedência reformada. Recurso provido para julgar a ação improcedente" (fl. 128, e-STJ).
+Os embargos declaratórios foram rejeitados (fls. 138-141, e-STJ).
+No recurso especial, os recorrentes apontam violação dos arts. 70 a 76 do Código de Processo Civil de 1973.
+Contrarrazões às fls. 150-155, e-STJ.
+O agravo em recurso especial foi provido (fls. 179-180, e-STJ) .
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+No presente recurso especial os recorrentes sustentam que
+"Por serem autônomos, profissionais liberais, os recorrentes recebem seus honorários diretamente dos pacientes, não lhe cabendo, como é óbvio, saber da existência ou não de contratação de seguro saúde e qual a sua modalidade.
+De outra parte, o v. acórdão reconheceu a obrigação do plano de saúde do recorrido em custear o tratamento médico- hospitalar de seu filho, uma vez que o seu atendimento foi de emergência/urgência.
+Nesse sentido, a r. sentença apelada deveria ter sido anulada e, por conseguinte, deferida a denunciação da lide da Golden Cross, como pedido pelo recorrido. Tudo isso, mais condizente com a apelação interposta" (fl. 146, e-STJ).
+Os autos noticiam que os recorrentes ajuizaram ação de cobrança objetivando receber os honorários médicos que afirmam ter direito (fls. 1-3, e-STJ).
+Sobreveio sentença, julgando procedente o pedido, para condenar o réu "no pagamento de R$30.000,00, corrigidos monetariamente desde a propositura da demanda e acrescidos de juros moratórios de um por cento ao mês contados da citação", além de custas processuais e honorários advocatícios (fls. 98-99, e-STJ).
+Em apelação, o TJSP deu provimento ao recurso, para julgar a ação improcedente, nos seguintes termos:
+"Com efeito, trata-se de ação de cobrança de honorários médicos intentada por neurologistas que atendem na UTI do Hospital Albert Einsten, sob o entendimento de que o pagamento das diárias desse internamento especial, não inclui os honorários médicos da equipe que ali atua, o que caracteriza verdadeira absurdidade lógica racional.
+Ora, à toda evidência, a Unidade de Tratamento Intensivo (U.T.I.) é destinada ao tratamento intensivo provido por médicos e enfermeiros intensivistas que ali atuam exatamente para esse fim, tratamento intensivo dos enfermos graves que dele necessitam.
+É pois uma absurdidade se distinguir a Unidade (U.) do Tratamento Intensivo (T.I.), cobrando-se duas diárias por dia. Uma diária pelo uso da Unidade e outra diária no mesmo dia pelo Tratamento Intensivo.
+Assim, distinguir-se a unidade, para pagamento de diária em separado do tratamento intensivo que é a sua razão de ser, por tratar-se de um todo inseparável é inadmissível, por isso mesmo que a diária alí é bem mais cara que a internação comum, pois a UTI é serviço especial mantido pelo hospital, que o organiza e fiscaliza.
+Assim, tem toda razão o apelante ao observar na sua contestação que:
+"Os Apelados nunca esclareceram ao apelante que não eram médicos conveniados do plano de saúde Golden Cross e que os custos das consultas e visitas seriam cobrados como atendimento particular fosse.
+Deveriam apresentar provas robustas a respeito do conhecimento do Apelante em relação à contratação de seus serviços de forma particular, uma vez que, jamais disseram não serem conveniados ao plano de Saúde Golden Cross, ônus do qual não se desincumbiram" (fls.107).
+De fato, com a devida vênia, não tem nenhum sentido o entendimento da sentença de que o apelante teria contratado os serviços da equipe neurológica da UTI infantil onde o menor foi internado, pois a verdade não impugnada nos autos é que os documentos assinados pelo responsável do menor apenas tem o condão de dar entrada em seu atendimento no hospital, responsabilizando-se genericamente por eventuais despesas não cobertas pelo convênio médico.
+Ademais, nenhum enfermo é internado na UTI apenas para acomodar-se na unidade, mas, sim, para receber o tratamento intensivo necessário dela decorrente, e esse serviço é de responsabilidade do hospital que guarda vínculo, empregatício ou terceirizado, pouco importa, com os profissionais que ali atuam, que são obrigados a velar pela saúde de todos os enfermos que ali estão internados, não apenas de um deles, como o médico contratado particularmente pela família, que ali visita apenas o seu paciente.
+E uma vez que internada a criança na UTI do hospital com cobertura do convênio médico, a presunção é de que todas as despesas daí decorrentes sejam arcadas pela seguradora, a não ser aquelas claramente excluídas da cobertura, com inequívoca ciência do paciente ou seu responsável, o que por óbvio não inclui os honorários dos médicos intensivistas que ali atuam" (fls. 129-130, e-STJ - grifou-se).
+Opostos embargos de declaração pelos ora recorrentes, a fim de discutir o pedido de denunciação à lide feito na apelação, o tribunal de origem assim entendeu:
+"Observe-se que o julgado em momento algum autoriza concluir que seria possível a denunciação da lide do plano de saúde, uma vez que se fixou a não responsabilidade do réu pelos valores cobrados, e não a possibilidade de regresso deste contra o plano de saúde" (fl. 140, e-STJ).
+Com efeito, não há dúvida de que a relação entre o Sr. Luis Américo Petrovitch, ora recorrido, e o plano de saúde, é consumerista.
+Sob esse enfoque, sendo ele demandado judicialmente, e obtendo provimento jurisdicional que lhe foi favorável, não há falar em denunciação à lide de sua parte, para obrigá-lo a enfrentar toda a marcha processual, a fim de comprovar se há ou não responsabilidade da seguradora, inclusive no que diz respeito à abrangência da cobertura do convênio para o tratamento médico que buscou junto ao hospital.
+Correta a recusa da denunciação à lide, tendo o acórdão recorrido apenas espelhado a orientação jurisprudencial há muito sedimentada por esta Corte Superior, no sentido de não tornar mais complexa a demanda para o consumidor, mediante a intervenção de terceiros na relação processual, com fundamentos e discussões que, se for o caso, devem ser travados entre os recorrentes e o plano de saúde.
+Os recorrentes podem perfeitamente pleitear o que entenderem de direito contra o plano de saúde, em uma eventual ação regressiva.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. EMPREENDIMENTO IMOBILIÁRIO. RELAÇÃO DE CONSUMO. DENUNCIAÇÃO À LIDE. INVIABILIDADE. REEXAME DE PROVAS E CLÁUSULAS CONTRATUAIS. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. Na hipótese, rever a conclusão do tribunal de origem, no que diz respeito às alegações de que necessária a denunciação à lide e de que não há relação de consumo entre as partes, demandaria o revolvimento do acervo fático-probatório dos autos e a interpretação de cláusulas contratuais, procedimentos inviáveis ante a natureza excepcional da via eleita, a teor das Súmulas nºs 5 e 7/STJ.
+4. O artigo 88 do Código de Defesa do Consumidor veda expressamente a denunciação à lide nas hipóteses de relação de consumo e responsabilidade civil. Precedente.
+5. Agravo interno não provido" (AgInt no AREsp 1.880.222/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 25/4/2022, DJe de 5/5/2022 - grifou-se).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA REQUERIDA.
+(..)
+4. O Código de Defesa do Consumidor veda expressamente a denunciação da lide ao IRB - Brasil Resseguros em ações de responsabilidade, com o escopo de evitar a dilação do tempo de duração do processo em prejuízo ao consumidor.
+(..)
+6. Agravo interno desprovido" (AgInt no AREsp 769.896/PR, relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/9/2022, DJe de 29/9/2022 - grifou-se).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. DENUNCIAÇÃO À LIDE DA CONSTRUTORA. NÃO CONFIGURADA HIPÓTESE DE LITISCONSÓRCIO PASSIVO NECESSÁRIO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. AGRAVO INTERNO DESPROVIDO.
+1. A falta de impugnação de argumento suficiente para manter, por si só, o acórdão impugnado, a argumentação dissociada bem como a ausência de demonstração da suposta violação à legislação federal impedem o conhecimento do recurso, na esteira dos enunciados n. 283 e 284 da Súmula do Supremo Tribunal Federal.
+2. O entendimento desta Corte Superior é de que, em se tratando de relação de consumo, descabe a denunciação da lide, nos termos do art. 88 do Código de Defesa do Consumidor.
+3. A jurisprudência do STJ se firmou no sentido de que "o Código de Processo Civil de 2015 não prevê a obrigatoriedade da denunciação da lide em nenhuma de suas hipóteses. Ao contrário, assegura o exercício do direito de regresso por ação autônoma quando indeferida, não promovida ou proibida" (CPC/2015, art 125, caput, e § 1º) (AgInt no AREsp n. 1.962.768/RJ, Relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 14/12/2021, DJe 17/12/2021).
+4. Agravo interno desprovido" (AgInt no AREsp 2.026.035/RN, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 30/5/2022, DJe de 2/6/2022 - grifou-se).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. COMPRA E VENDA DE VEÍCULO ZERO QUILÔMETRO. RELAÇÃO DE CONSUMO. DENUNCIAÇÃO DA LIDE. INVIABILIDADE. DEFICIÊNCIA RECURSAL. AGRAVO INTERNO NÃO PROVIDO.
+1. De acordo com a jurisprudência sedimentada nesta Corte, "A denunciação da lide nas ações que versem sobre relação de consumo vai de encontro aos princípios da celeridade e efetividade da prestação jurisdicional, principalmente quando inexistir prejuízo para a parte, que poderá exercer seu direito de regresso em ação autônoma" ( EDcl no Ag 1.249.523/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe de 20/06/2014).
+2. Agravo interno a que se nega provimento" (AgInt no AREsp 1.791.503/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 21/6/2021, DJe de 1/7/2021).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. COMPRA E VENDA DE VEÍCULO. INDENIZAÇÃO POR DANOS MORAIS. DIREITO DO CONSUMIDOR. ENTREGA DE VEÍCULO DIFERENTE DO OFERTADO. PRETENSÃO INDENIZATÓRIA. PRAZO PRESCRICIONAL. VEDAÇÃO À DENUNCIAÇÃO DA LIDE. CONSONÂNCIA COM A JURISPRUÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. ILEGITIMIDADE PASSIVA. RELAÇÃO JURÍDICA DE CONSUMO. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. RESPONSABILIZAÇÃO CIVIL E QUANTUM INDENIZATÓRIO. SÚMULA 7/STJ. JUROS DE MORA. TERMO INICIAL. TESE NÃO PREQUESTIONADA. SÚMULA 282/STF. AGRAVO INTERNO IMPROVIDO.
+(..)
+3. Nos termos da jurisprudência desta Corte Superior, é vedada a denunciação da lide em se tratando de relação de consumo. Incidência da Súmula 83/STJ.
+(..)
+6. Agravo interno improvido" (AgInt no AREsp 1.964.371/RN, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 9/5/2022, DJe de 11/5/2022).
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. DENUNCIAÇÃO À LIDE. INVIABILIDADE. RELAÇÃO DE CONSUMO. OFENSA AO ART. 535 DO CPC. INOCORRÊNCIA. REVISÃO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 07/STJ. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE SUPERIOR. SÚMULA 83/STJ. AUSÊNCIA DE FUNDAMENTOS QUE JUSTIFIQUEM A ALTERAÇÃO DA DECISÃO RECORRIDA. AGRAVO REGIMENTAL DESPROVIDO" (AgRg no AREsp 540.025/RJ, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 17/5/2016, DJe de 2/6/2016).
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se.
+Intimem-se.
