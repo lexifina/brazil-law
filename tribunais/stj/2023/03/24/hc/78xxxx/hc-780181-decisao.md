@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de Pabulo Patrick Pereira, em que se aponta como autoridade coatora a Oitava Câmara Criminal do Tribunal de Justiça de Minas Gerais, que proveu parcialmente os recursos (Apelação criminal n. 1.0000.22.109155-6/001) para reduzir a pena do paciente a 6 anos, 8 meses e 10 dias de reclusão, como incurso no art. 33, caput, da Lei n. 11.343/2006.
+Neste writ, sustenta-se nulidade do processo, por licitude das provas, alegando-se que houve invasão de domicílio pelos policiais militares.
+Requer o reconhecimento da invasão domiciliar pela ausência de fundadas suspeitas, ou seja, de justa causa e, via de consequência, anulando todo o processo desde sua origem, com a absolvição do paciente com fundamento no art. 386, II, do CPP, com a expedição de alvará de soltura (fl. 13).
+A liminar foi deferida às fls. 263/265.
+As informações foram prestadas às fls. 372/357.
+O Ministério Público Federal emitiu parecer pelo não conhecimento do habeas corpus e pelo reconhecimento da ilegalidade, à vista dos fundamentos sintetizados na seguinte ementa (fl. 361):
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CONHECIMENTO TRÁFICO DE DROGAS. VIOLAÇÃO DE DOMICÍLIO. AUSÊNCIA DE JUSTA CAUSA. ILICITUDE DAS PROVAS OBTIDAS DURANTE A BUSCA DOMICILIAR. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+1. O não cabimento de habeas corpus substitutivo de recurso especial se apoia na ausência de competência originária do Superior Tribunal de Justiça para processar e julgar o writ, e, em decorrência da ausência de competência, revela a impossibilidade jurídica de conceder, de ofício, a ordem vindicada.
+2. A entrada forçada na residência do paciente foi amparada em notícias recebidas pela autoridade policial de que ele estaria praticando traficância, sem que houvesse investigações preliminares a fim de apurar o que foi denunciado. Conforme orienta a atual jurisprudência dessa Corte Superior, " a denúncia anônima desacompanhada de elementos preliminares indicativos de crime não constitui justa causa para o ingresso forçado de autoridades policiais, mesmo que se trate de crime permanente" (AgRg no HC 612.972/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, julgado em 22/06/2021, DJe 28/06/2021).
+3. O fato de o paciente ter sido avistado em uma mata ocultando e manipulando materiais não constitui justificativa para o ingresso em seu domicílio sem prévio mandado judicial, mormente considerando que sequer havia elementos a indicar flagrante de comércio ilícito de entorpecentes no momento da abordagem.
+4. Parecer pelo não conhecimento do habeas corpus e pelo reconhecimento de ilegalidade, nos termos da fundamentação.
+É o relatório.
+A impetração pretende a absolvição do paciente em razão da nulidade da busca e apreensão domiciliar do entorpecente, realizada fora das hipóteses legais.
+Após análise dos autos, entendo assistir razão à impetração.
+Ao tratar do tema, o Juízo de piso trouxe as seguintes considerações (fls. 208/209):
+ ..  As defesas suscitaram preliminar de nulidade das provas, aos argumentos, em síntese, de que o adentramento na residência não se deu de forma a respeitar os ditames da Constituição Federal, vez que não houve autorização para tanto. Aduziram, ainda, que não se tratava de imóvel abandonado cuja invasão domiciliar não poderia ocorrer sem determinação judicial.
+No entanto, as teses das defesas não lhes socorrem, vez que, ao contrário do que quiseram fazer entender, não estão seguramente demonstradas nos autos.
+Ora, em que pese não se tratar o momento de se adentrar ao mérito, a alegação de que a residência estava devidamente alugada para terceira pessoa, em que pese confirmada pela testemunha nos autos, está em descompasso com as constatações de que o local da abordagem se tratava de um imóvel com aparência de abandono.
+ ..
+Ainda, a alegação da companheira do réu, interessada, não tem o condão de afastar a credibilidade das palavras dos Policiais Militares, que esclareceram as circunstâncias do flagrante, situação em que não há necessidade de autorização judicial para adentramento no imóvel, cujo fato concreto será devidamente analisado no momento oportuno da apreciação do mérito.
+Por fim, observa-se que o próprio acusado confessou a traficância empreendida
+o Gabriel local, o que corrobora as palavras dos Policiais Militares.
+Consta do acórdão (fls. 244/245):
+Em sede preliminar, a defesa de Pabulo alegou a ocorrência de uma suposta violação de domicílio perpetrada pelos policiais, em razão da ausência de investigação prévia acerca do envolvimento do acusado com o tráfico de drogas.
+Alega que apenas denúncias anônimas não autorizariam o ingresso dos policiais na residência do acusado, onde ocorreu a apreensão dos materiais ilícitos.
+Entretanto, razão não assiste à defesa.
+Conforme se depreende dos autos, os policiais adentraram na residência do acusado após ele ter sido visto, em uma mata, ocultando e manipulando materiais, os quais posteriormente foram identificados como sendo drogas, e não apenas em razão das informações obtidas por meio de denúncias anônimas. Estavam eles, portanto, amparados por situação de flagrante delito.
+O ingresso em domicílio sem consentimento do morador possui quatro exceções, nos termos do art. 5º, XI, da Constituição Federal: flagrante delito, desastre, prestação de socorro ou determinação judicial. Até pouco tempo, o entendimento dominante nesta Corte Superior era no sentido de ser dispensável o mandado de busca e apreensão quando se trata de flagrante da prática do crime permanente, como o tráfico ilícito de entorpecentes ou a posse ou o porte ilegal de arma de fogo, pois, nesses casos, o estado de flagrância permanece enquanto não cessada a prática do delito (AgRg no REsp n. 1.637.287/SP, Ministro Jorge Mussi, Quinta Turma, DJe 10/5/2017).
+No entanto, em julgados mais recentes, a jurisprudência aperfeiçoou seu entendimento para considerar não admitir o ingresso com fundamento na permanência do delito e, consequentemente, estreitar o âmbito de aplicação das "fundadas razões", art. 240, § 1º, do Código de Processo Penal, excluindo, por exemplo a fuga diante de viatura policial e de denúncias anônimas.
+Em suporte: REsp n. 1.558.004/RS, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 31/8/2017; RHC n. 89.853/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 2/3/2020; e HC n. 612.579/BA, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 12/11/2020.
+Prevalece o entendimento de que a simples existência de denúncia anônima, desacompanhada de outros elementos preliminares indicativos da prática de crime, não configura fundadas razões e, portanto, não legitima o ingresso de policiais no domicílio indicado.
+Essa foi a direção tomada pelo Superior Tribunal de Justiça nos julgamentos do HC n. 598.051/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 15/3/2021; e do HC n. 628.371/SC, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 23/3/2021.
+Além disso, também não se considera fundada razão para ingresso em domicílio a apreensão de drogas em poder de alguém em via pública (HC n. 668.886/RJ, Ministra Laurita Vaz, Sexta Turma, DJe 6/5/2022).
+No presente caso, verifico estar caracterizada flagrante ilegalidade nos fundamentos utilizados pelo Tribunal local, seja porque pautada por informações obtidas por denúncia anônima, seja pelo simples fato de ter visto o paciente, em uma mata, ocultando e manipulando materiais, os quais posteriormente foram identificados como sendo drogas. A jurisprudência mais atual exige parâmetros objetivos, sindicáveis por um terceiro para validar o ingresso nessas hipóteses, fato não destacado no acórdão.
+Ante o exposto, concedo a ordem, confirmando a liminar deferida, para reconhecer a nulidade do flagrante em razão da invasão de domicílio e, por conseguinte, das provas obtidas em decorrência do ato; e absolver o paciente da imputação delituosa (art. 386, II, do Código de Processo Penal) referente à Ação Penal n. 076079-61.2021.8.13.0223, da 3ª Vara Criminal de c omarca de Divinópolis/MG.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. INGRESSO EM DOMICÍLIO SEM MANDADO JUDICIAL FORA DAS HIPÓTESES LEGAIS. INVIOLABILIDADE DOMICILIAR. ART. 5º, IX, DA CF. INGRESSO FORA DAS AUTORIZAÇÕES LEGAIS CARACTERIZADO.
+Ordem concedida nos termos do dispositivo.
