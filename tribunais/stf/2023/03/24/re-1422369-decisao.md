@@ -1,0 +1,37 @@
+DECISÃO: Trata-se de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado do Paraná, ementado nos seguintes termos:
+
+    “APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA C/C COBRANÇA E RESTITUIÇÃO DE INDÉBITO - FASPM - FUNDO DE ASSISTÊNCIA À SAÚDE DOS POLICIAIS MILITARES - IMPOSSIBILIDADE DA COBRANÇA COMPULSÓRIA DE 2% DO SOLDO DO POLICIAL MILITAR - ILEGALIDADE INSCULPIDA NO ART. 63 DA LEI ESTADUAL Nº 6.417/1973 E ART. 1º E 3º, ALÍNEA ‘D’, DA LEI ESTADUAL Nº 14.605/2005 - VEDAÇÃO EXPRESSA NO ART. 149 DA CONSTITUIÇÃO FEDERAL - RESTITUIÇÃO DEVIDA - VERBA HONORÁRIA - BEM SOPESADA - APELO IMPROVIDO
+
+    REEXAME NECESSÁRIO SENTENÇA PARCIALMENTE MODIFICADA - LIMITAÇÃO DA RESTITUIÇÃO DA FASPM ATÉ O ADVENTO DA LEI ESTADUAL Nº 17.169, QUANDO O DESCONTO PASSOU A SER FACULTATIVO - REANÁLISE DOS JUROS DE MORA E CORREÇÃO MONETÁRIA.” (eDOC 12, ID: 18834f0d, p. 1)
+
+    Em 14.3.2016, foi determinado o sobrestamento do feito para aguardar o julgamento do tema 810 da repercussão geral. (eDOC 13, ID: bdff4a66, p. 24)
+
+    Encaminhados os autos à Turma julgadora, houve juízo de retratação, in verbis:
+
+    “JUÍZO DE RETRATAÇÃO. APELAÇÃO CÍVEL. SENTENÇA MODIFICADA EM SEDE DE REEXAME NECESSÁRIO. ALTERAÇÃO DA FORMA DE INCIDÊNCIA DA CORREÇÃO MONETÁRIA E DOS JUROS DE MORA SOBRE OS VALORES A SEREM RESTITUÍDOS. RECURSO EXTRAORDINÁRIO E RECURSO ESPECIAL INTERPOSTOS PELA FAZENDA PÚBLICA. REMESSA FEITA PELA 1ª VICE-PRESIDÊNCIA DESTA CORTE, A FIM DE OPORTUNIZAR O EXERCÍCIO DO JUÍZO DE RETRATAÇÃO. ARTIGO 1.030, II DO CPC. CONDENAÇÕES JUDICIAIS DE NATUREZA TRIBUTÁRIA. FUNDO DE ATENDIMENTO À SAÚDE. CONTRIBUIÇÃO SOCIAL. CORREÇÃO MONETÁRIA E JUROS MORATÓRIOS. NECESSIDADE DE ADEQUAÇÃO. HONORÁRIOS ADVOCATÍCIOS. CORREÇÃO MONETÁRIA. TERMO INICIAL. DATA DA FIXAÇÃO. ÍNDICE. IPCA-E. ART. 1º-F DA LEI N° 9.494/97. TUDO EM CONFORMIDADE COM O ENTENDIMENTO MANIFESTADO PELO STF NO JULGAMENTO DO RE 870.947 (TEMA 810/STF) E PELO STJ NOS RECURSOS ESPECIAIS N° 1.495.146/MG, N° 1.492.221/PR E N° 1.495.144/RS -TEMA 905/STJ - JUÍZO DE RETRATAÇÃO ACOLHIDO. ACÓRDÃO PARCIALMENTE MODIFICADO. '(...) 3.3 Condenações judiciais de natureza tributária. A correção monetária e a taxa de juros de mora incidentes na repetição de indébitos tributários devem corresponder às utilizadas na cobrança de tributo pago em atraso. Não havendo disposição legal específica, os juros de mora são calculados à taxa de 1% ao mês (art. 161, § 1º, do CTN). Observada a regra isonômica e havendo previsão na legislação da entidade tributante, é legítima a utilização da taxa Selic, sendo vedada sua cumulação com quaisquer outros índices. (...) (REsp 1492221/PR, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 22/02/2018, DJe 20/03/2018)" (eDOC 13, ID: bdff4a66, p. 44)
+
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos arts 100, § 12, e 102, § 2º, da Constituição Federal e ao entendimento firmado nas ADIs 4357 e 4425. (eDOC 15, ID: f7524037)
+
+    Nas razões recursais, defende-se que o art. 1º-F da Lei 9.494/1997, com redação dada pelo art. 5º da Lei 11.960/2009, deve ser aplicado integralmente ao caso. Subsidiariamente, entende-se que o referido dispositivo deve ser aplicado, ao menos, até 25.3.2015, “pois a decisão que reconheceu a inconstitucionalidade por arrastamento do art. 5º da Lei 11.960/09 proferida na ADI 4.357/DF se aplica ao caso, também há de se aplicar a modulação de seus efeitos”. (eDOC 15, p.5)
+
+    A Primeira Vice Presidência admitiu o recurso (eDOC 19, ID: 8e4b7111). Vieram os autos a esta Corte.
+
+    É o relatório. Decido.
+
+    O recurso não merece prosperar.
+
+    No caso, verifica-se que o acórdão do Tribunal de origem, proferido em juízo de retratação (eDOC 13, p. 44-55), está em consonância com a jurisprudência desta Suprema Corte, que, ao analisar o tema 810 da repercussão geral, limitou-se a declarar a inconstitucionalidade do índice de correção definido pelo art. 1º-F da Lei nº 9.494/1997, concluindo pela inviabilidade de aplicação da TR como índice de atualização dos débitos da Fazenda Pública. A respeito, confira-se a ementa do referido precedente:
+
+    “DIREITO CONSTITUCIONAL. REGIME DE ATUALIZAÇÃO MONETÁRIA E JUROS MORATÓRIOS INCIDENTE SOBRE CONDENAÇÕES JUDICIAIS DA FAZENDA PÚBLICA. ART. 1º-F DA LEI Nº 9.494/97 COM A REDAÇÃO DADA PELA LEI Nº 11.960/09. IMPOSSIBILIDADE JURÍDICA DA UTILIZAÇÃO DO ÍNDICE DE REMUNERAÇÃO DA CADERNETA DE POUPANÇA COMO CRITÉRIO DE CORREÇÃO MONETÁRIA. VIOLAÇÃO AO DIREITO FUNDAMENTAL DE PROPRIEDADE (CRFB, ART. 5º, XXII). INADEQUAÇÃO MANIFESTA ENTRE MEIOS E FINS. INCONSTITUCIONALIDADE DA UTILIZAÇÃO DO RENDIMENTO DA CADERNETA DE POUPANÇA COMO ÍNDICE DEFINIDOR DOS JUROS MORATÓRIOS DE CONDENAÇÕES IMPOSTAS À FAZENDA PÚBLICA, QUANDO ORIUNDAS DE RELAÇÕES JURÍDICOTRIBUTÁRIAS. DISCRIMINAÇÃO ARBITRÁRIA E VIOLAÇÃO À ISONOMIA ENTRE DEVEDOR PÚBLICO E DEVEDOR PRIVADO (CRFB, ART. 5º, CAPUT). RECURSO EXTRAORDINÁRIO PARCIALMENTE PROVIDO. 1. O princípio constitucional da isonomia (CRFB, art. 5º, caput), no seu núcleo essencial, revela que o art. 1º-F da Lei nº 9.494/97, com a redação dada pela Lei nº 11.960/09, na parte em que disciplina os juros moratórios aplicáveis a condenações da Fazenda Pública, é inconstitucional ao incidir sobre débitos oriundos de relação jurídico-tributária, os quais devem observar os mesmos juros de mora pelos quais a Fazenda Pública remunera seu crédito; nas hipóteses de relação jurídica diversa da tributária, a fixação dos juros moratórios segundo o índice de remuneração da caderneta de poupança é constitucional, permanecendo hígido, nesta extensão, o disposto legal supramencionado. 2. O direito fundamental de propriedade (CRFB, art. 5º, XXII) repugna o disposto no art. 1ºF da Lei nº 9.494/97, com a redação dada pela Lei nº 11.960/09, porquanto a atualização monetária das condenações impostas à Fazenda Pública segundo a remuneração oficial da caderneta de poupança não se qualifica como medida adequada a capturar a variação de preços da economia, sendo inidônea a promover os fins a que se destina. 3. A correção monetária tem como escopo preservar o poder aquisitivo da moeda diante da sua desvalorização nominal provocada pela inflação. É que a moeda fiduciária, enquanto instrumento de troca, só tem valor na medida em que capaz de ser transformada em bens e serviços. A inflação, por representar o aumento persistente e generalizado do nível de preços, distorce, no tempo, a correspondência entre valores real e nominal (cf. MANKIW, N.G. Macroeconomia. Rio de Janeiro, LTC 2010, p. 94; DORNBUSH, R.; FISCHER, S. e STARTZ, R. Macroeconomia. São Paulo: McGraw-Hill do Brasil, 2009, p. 10; BLANCHARD, O. Macroeconomia. São Paulo: Prentice Hall, 2006, p. 29). 4. A correção monetária e a inflação, posto fenômenos econômicos conexos, exigem, por imperativo de adequação lógica, que os instrumentos destinados a realizar a primeira sejam capazes de capturar a segunda, razão pela qual os índices de correção monetária devem consubstanciar autênticos índices de preços. 5. Recurso extraordinário parcialmente provido (RE-RG 870.947, Rel. Min. Luiz Fux, Tribunal Pleno, DJe 20.11.2017)
+
+    Ante o exposto, nego seguimento ao recurso (artigo 932, VIII, do CPC, c/c art. 21, §1º, do RISTF) e, tendo em vista a ausência de fixação de honorários pela origem, deixo de aplicar o disposto no §11 do art. 85 do CPC.
+
+    Publique-se.
+
+    Brasília, 24 de março de 2023.
+
+Ministro Gilmar Mendes
+
+Relator
+
+    Documento assinado digitalmente
