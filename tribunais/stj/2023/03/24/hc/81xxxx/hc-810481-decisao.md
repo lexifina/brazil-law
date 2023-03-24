@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de CARLA PRISCILA DA SILVA SILVINO apontando como autoridade coatora o Tribunal de Justiça do Estado da Paraíba.
+Narra a inicial que a paciente foi presa cautelarmente pelo crime de tráfico de drogas, mas foi concedido, em 9/2/2021, o direito à prisão domiciliar no julgamento do HC n. 643.814, por ser mãe de criança menor de 12 anos. Posteriormente, segundo relata, a acusada teria sido presa novamente em razão do descumprimento das regras do benefício concedido. Ainda, menciona que a ação penal foi julgada procedente e a paciente condenada à pena de 8 anos e 8 meses de reclusão, tendo manifestado interesse em apelar da sentença.
+Nas razões da ação, a defesa alega, em síntese, excesso de prazo para o julgamento do recurso defensivo. Afirma que a paciente aguarda presa o julgamento do recurso desde 13/8/2022, data em que foram apresentadas as razões da apelação.
+Diante disso, pede, em liminar e no mérito, o relaxamento da prisão preventiva da paciente.
+É o relatório, decido.
+Não há como prosseguir a irresignação. Isso porque a defesa não instruiu a ação com as peças processuais indispensáveis à compreensão da controvérsia, sobretudo com as decisões que comprovam o agravamento da situação prisional da paciente, a sentença condenatória e elementos informativos sobre a apelação criminal, como as razões do recurso e o andamento processual.
+O rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao paciente.
+Com efeito, "A jurisprudência do Supremo Tribunal Federal é firme no sentido da inadmissão do habeas corpus quando não instruído o writ com as peças necessárias à confirmação da efetiva ocorrência do constrangimento ilegal" (AgRg no HC n. 182.788, Relatora Ministra ROSA WEBER, Primeira Turma, julgado em 22/5/2022, DJe 18/6/2020).
+No mesmo sentido, esta Corte assentou que " ..  em sede de habeas corpus, é cediço que a prova deve ser pré-constituída e incontroversa, cabendo ao impetrante apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado" (AgRg no HC n. 772.017/SC, R elator Minist ro RIBEIRO DANTAS, Quinta Turma, julgado em 28/11/2022, DJe de 2/12/2022).
+Ante o exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Intimem-se.
