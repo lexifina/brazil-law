@@ -1,0 +1,13 @@
+DECISÃO
+Segundo consta dos autos, o paciente foi preso cautelarmente no dia 4/1/2022 pela suposta prática dos crimes de receptação e porte ilegal de arma de fogo de uso permitido.
+A defesa impetrou habeas corpus na Corte estadual, cuja ordem foi concedida nos termos da seguinte ementa (e-STJ fls. 103/105):
+HABEAS CORPUS. POSSE ILEGAL DE ARMA DE USO PERMITIDO E RECEPTAÇÃO. ART. 12 DA LEI 10.826/2003 C/C O ART. 180 DO CP, EM CONCURSO MATERIAL. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. AUSÊNCIA DE PRÉVIA REPRESENTAÇÃO DA AUTORIDADE POLICIAL OU REQUERIMENTO DO MINISTÉRIO PÚBLICO. AFRONTA AO DISPOSTO NO ART. 311, MODIFICADO PELA LEI 13.964/2019. INTELIGÊNCIA DO ART. 282, §2", DO CPP. PRECEDENTES DO STF E DO STJ. APLICAÇÃO DAS MEDIDAS SUBSTITUTIVAS PREVISTAS NO ART. 319 DO CPP. ANÁLISE DOS DEMAIS REQUISIOS DA PRISÃO CAUTELAR PREJUDICADA. ORDEM CONCEDIDA COM A IMPOSIÇÃO DE MEDIDAS SUBSTITUTIVAS DA PRISÃO, PREVISTAS NO ART. 319 DO CPP. - Com a entrada em vigor da Lei nº 13.964/2019 (pacote anticrime), a prisão cautelar não poderá ser decretada de ofício pelo Magistrado, mas dependerá de representação da autoridade policial ou requerimento do Ministério Público, do querelante ou do assistente, nos termos da nova redação dos artigos 282 e 311 do Código de Processo Penal.
+O Ministério Público estadual interpôs recurso especial, com base no art. 105, III, a, da Constituição Federal, postulando o restabelecimento da prisão preventiva do acusado (e-STJ fls. 122/134).
+A Defensoria Pública apresentou suas contrarrazões (e-STJ fls. 137/143).
+Todavia, o juízo de admissibilidade foi realizado como recurso ordinário em habeas corpus, com base no art. 105, II, a, da Constituição Federal (e-STJ fls. 146/150).
+Os autos ascenderam ao Superior Tribunal de Justiça e foram registrados como recurso ordinário em habeas corpus (e-STJ fl. 163).
+É o relatório, decido.
+Não há como prosseguir o presente recurso, tendo em vista o equívoco constatado na decisão de admissibilidade pelo Tribunal estadual. Isso porque, nos termos do art. 105, II, a, da Constituição, o recurso ordinário é cabível somente nas hipóteses em que o Tribunal estadual denega a ordem .
+Trata-se, na vedade, de recurso especial interposto pelo Ministério Público estadual, com base no art. 105, III, a, da Constituição Federal, contra acórdão que concedeu a ordem de habeas corpus em favor do recorrido.
+Diante disso, com fundamento no art. 34, do RISTJ, não conheço do recurso ordinário em habeas corpus e determino a remessa dos autos para o Tribunal estadual, a fim de realizar o juízo de admissibilidade do recurso especial.
+Intimem-se.
