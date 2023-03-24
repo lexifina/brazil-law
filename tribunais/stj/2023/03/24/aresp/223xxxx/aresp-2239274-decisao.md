@@ -1,0 +1,66 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por CONDOMINIO EDIFICIO LAFAYETTE contra a decisão de fls. 901-903, que inadmitiu o recurso especial pelos seguintes fundamentos: a) quanto à alegada ofensa ao art. 93, IX, da Constituição Federal, o não cabimento de alegação de violação de dispositivos constitucionais em sede de recurso especial; b) ausência de vulneração aos arts. 489, § 1º, IV, 1.022, I, II e III e parágrafo único, do CPC; c) quanto à ofensa aos arts. 3º, 9º, 10, 11, 369, 373 do CPC, a incidência da Súmula n. 7 do STJ.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Sustenta que, embora tenha sido mencionado o art. 93, IX, da CF/88, não houve a interposição de recurso especial pela violação ao referido dispositivo.
+Aponta a violação do art. 1.022, II e parágrafo único, IV, do § 1º, do art. 489, ambos do CPC, ressaltando a existência de erro material, a omissão e a ausência de enfrentamento dos argumentos expostos pela recorrente.
+Afirma que é evidente a afronta ao inciso IV do § 1º do art. 489 do NCPC, por clara ausência de enfrentamento sobre a pertinência dos quesitos indeferidos após apresentação do laudo pericial e que não foram indeferidos quando apresentados após a decisão de saneamento.
+Aduz que o erro material apontado, porém não enfrentado pelo TJSC, diz respeito ao fato de que a questão envolvendo os quesitos não respondidos pelo perito judicial, não se deu em complemento ou esclarecimento ao laudo pericial, mas de quesitos que foram ofertados pelo agravante quando a prova pericial foi deferida nos autos.
+Aponta omissão no julgado, afirmando que o Tribunal a quo deixou de enfrentar a tese de que o recorrido tinha autorização para usufruir da área de lazer.
+Acrescenta, ademais, que o acórdão não enfrentou o fato de o recorrido ter participado ativamente de todas as assembleias envolvendo as obras úteis e necessárias e participado como membro de conselho do condomínio (conselheiro fiscal), assim como ter aprovado as referidas contas.
+Alerta ainda que o Tribunal de origem não levou em consideração o fato de que todas as obras realizadas tinham como foco a questão estrutural, e não somente o embelezamento.
+Sustenta que o acórdão deixou de enfrentar o fato de que, desde o ano de 2017, estava expressamente autorizado que o condômino possuidor de sala comercial poderia, da mesma forma que os moradores residentes, utilizar as áreas de lazer.
+Afirma que o acórdão recorrido ainda incorreu em obscuridade ao concluir que não subsiste a tese de que o autor violou a boa-fé e agiu de forma contraditória, visto que não sucumbiu em nenhum pedido.
+Afasta a incidência da Súmula n. 7 do STJ, afirmando que não há necessidade de revolvimento da matéria fática, "pois a questão em discussão é que quando as partes foram intimadas para apresentar quesitos, o Recorrente assim o fez e apresentou os quesitos que deveriam ser respondidos pelo perito nomeado para atuar no feito" (fl. 944).
+Argumenta que a parte foi surpreendida com o indeferimento de quesito após a realização da perícia, quando o art. 473, IV, do mesmo diploma processual prescreve que o laudo pericial deverá conter resposta conclusiva a todos os quesitos apresentados pela parte, o que também viola os arts. 473, IV, do CPC.
+Aponta ofensa ao art. 473 do CPC, esclarecendo que os quesitos não haviam sido indeferidos quando apresentados e, sim, quando a parte questionou o juízo o fato de o perito não os ter respondido.
+Registra que o Juízo entendeu que o recorrente não fez prova das suas alegações, mas deixou de observar que, quando o recorrente ofertou quesitos, estes acabaram não sendo respondidos pelo perito e, posteriormente, indeferidos pelo juízo singular.
+Destaca a violação dos arts. 369 e 373 do CPC, salientando que o feito foi saneado e o recorrente intimado para apresentar/depositar os quesitos e indicar assistente técnico. Todavia, mesmo tendo cumprido com seu dever processual, o perito judicial não respondeu dois quesitos, que, para a reconvenção, era pertinente.
+Requer o provimento do agravo em recurso especial para que seja admitido e provido o recurso especial.
+O agravado apresentou contraminuta ao agravo em recurso especial.
+É o relatório. Decido.
+I - Da violação ao art. 93, IX, da Constituição Federal
+A ausência de interposição de recurso extraordinário para impugnar fundamento constitucional suficiente para manter o entendimento do acórdão recorrido obsta o conhecimento do recurso especial diante da incidência da Súmula n. 126 do STJ.
+Da mesma forma, é incabível a pretensão de que esta Corte delibere sobre a suposta violação de dispositivos constitucionais, sob pena de usurpação da competência atribuída ao Supremo Tribunal Federal.
+II - Da violação dos arts. 489, § 1º, IV e VI, e 1.022, II, do CPC
+Afasta-se a alegada ofensa aos arts. 489, § 1º, IV e VI, e 1.022, II, do CPC, visto que a Corte de origem examinou e decidiu, de modo claro, objetivo e fundamentado, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+No particular, o Tribunal de origem assim se manifestou (fls. 780-782):
+ ..
+O recurso envereda contra a sentença que julgou procedente a pretensão autoral e improcedente o pleito reconvencional formulado pelo réu.
+Ab initio, registra-se que as razões ventiladas em esfera preliminar pelo apelante, no que tange à nulidade da sentença ante a ausência de resposta do expert a todos os quesitos formulados, não merece prosperar.
+Isso porque, de acordo com os princípios da livre admissibilidade da prova e do livre convencimento motivado (arts. 370 e 371 do CPC), o magistrado, como destinatário da prova, é quem deve apreciar a necessidade de complementação ou não do laudo pericial.
+Sendo assim, quando os elementos colhidos nos autos mostram-se suficientes ao deslinde da celeuma, o magistrado dispensará qualquer esclarecimento adicional ou mesmo a realização de uma nova perícia, como no caso sub judice.
+Ademais, ao indeferir os quesitos o togado singular manifestou-se, pormenorizadamente, as razões sobre a desnecessidade da intimação do expert para complementação do laudo.
+Isto posto, reputam-se as informações e a conclusão registradas no laudo pericial mais que suficientes para o correto e perfeito deslinde do feito.
+ ..
+Da leitura da disposição constante na Convenção, constata-se que, de fato, o proprietário da loja não é obrigado a concorrer com as despesas relativas às áreas comuns do condomínio, com a ressalva do rateio relativo à despesa com o serviço de portaria, porque dele aproveita, consoante apurou o expert (evento 76 dos autos de origem).
+Assim, não subsiste a tese de que o autor violou a boa-fé a agiu de forma contraditória, eis que não sucumbiu em nenhum pedido.
+Ademais, referente à matéria, a Corte Superior firmou o entendimento no sentido de que as lojas com acesso direto à via pública não estão sujeitas às cotas condominiais, salvo se a convenção de condomínio dispuser o contrário.
+ ..
+Isto posto, não merece reparação a sentença proferida à origem na ação principal.
+Atinente à insurgência contra a improcedência do pleito reconvencional, melhor sorte não socorre ao apelante.
+Em suas razões, alegou o apelante que é devida a apuração do valor a título de indenização pelo uso da área de armazenamento das máquinas de ar condicionado, cujo espaço é de utilização comum, sendo que não foi outorgada nenhuma autorização para o uso gratuito/exclusivo ao apelado.
+Disse, ainda, que a devida comprovação dependia da resposta dos quesitos formulados ao perito, os quais foram indeferidos pelo juízo.
+Ocorre que, de fato, a apelante não se desincumbiu do seu ônus probatório na oportunidade que lhe competia.
+Segundo disposição contida no art. 434 do Código de Processo Civil, a regra geral é de que as partes litigantes devem apresentar os documentos disponíveis e indispensáveis na primeira oportunidade - isto é, a autora na peça inicial e a ré na contestação.
+Por outro lado, o art. 435 da Legislação Adjetiva, excepciona-se a posterior apresentação de documentos quando estes forem "destinados a fazer prova de fatos ocorridos depois dos articulados ou para contrapô-los aos que foram produzidos nos autos" ou quando forem "formados após a petição inicial ou a contestação, bem como dos que se tornaram conhecidos, acessíveis ou disponíveis após esses atos, cabendo à parte que os produzir comprovar o motivo que a impediu de juntá-los anteriormente".
+Na mesma linha de raciocínio adotado pelo magistrado de origem, registra-se que o recorrente poderia ter colacionado fotografias, documentos relativos ao projeto do prédio ou mesmo laudos confeccionados por profissionais técnicos.
+Dessarte, a manifestação do perito não era imprescindível à comprovação das alegações concernentes ao pedido indenizatório.
+Vislumbra-se que, precluso direito de produzir a prova, já que não se trata de fato novo ou de documentos que não possuía acesso, o recorrente pretende aproveitar a manifestação do perito para produzir prova a seu favor, o que não se pode admitir.
+Logo, o apelante não logrou êxito em comprovar o fato constitutivo do seu direito, conforme preconiza o art. 373, I, do CPC.
+Ademais, observe-se que a obscuridade que enseja aclaração é aquela que se materializa por decisão ininteligível, que impede ou dificulta a compreensão ou seu alcance (EDcl no AgInt no REsp n. 1.925.050/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 21/3/2022, DJe de 24/3/2022), o que, de fato, não ocorre in casu, quando o acórdão fundamenta de forma coerente e clara todos os pontos que levaram à conclusão.
+No caso, com base na tese de ofensa aos arts. 489, § 1º, IV, 1.022, I, II e III e parágrafo único, do CPC e de existência de obscuridade, omissão e erro material no decisum, a parte agravante, irresignada com o resultado desfavorável, pretende obter novo julgamento da matéria, o que é inviável em embargos de declaração.
+Esclareça-se que o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+III - Da incidência da Súmula n. 7 do STJ
+A jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que o magistrado é o destinatário das provas, cabendo-lhe apreciar a necessidade de sua produção, sendo soberano para formar seu convencimento e decidir fundamentadamente, em atenção ao princípio da persuasão racional. Nesse sentido: AgInt no AREsp n. 1.920.931/SP, relator Ministro Manoel Erhardt, Primeira Turma, julgado em 21/2/2022, DJe de 24/2/2022; AgInt no REsp n. 1.922.881/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 8/8/2022, DJe de 26/8/2022.
+No caso, o Tribunal a quo, de forma pormenorizada e diante dos elementos fáticos e probatórios dos autos, concluiu não haver razão para esclarecimentos adicionais do perito ou sua intimação pata complementação ou realização de nova perícia, bem como que os quesitos pertinentes foram devidamente respondidos no laudo pericial.
+Logo, entender em sentido contrário, demandaria o necessário revolvimento de provas dos autos, o que é vedado em sede de recurso especial, nos termos da Súmula n. 7 do STJ.
+Nessa mesma linha de raciocínio, o mesmo se diga quanto à comprovação do direito alegado pelo ora agravante.
+Consta dos autos que o agravante alegou que é devida a apuração do valor a título de indenização pelo uso da área de armazenamento das máquinas de ar condicionado, cujo espaço é de utilização comum, sendo que não foi outorgada nenhuma autorização para o uso gratuito/exclusivo ao apelado. Além disso, que afirmou que a devida comprovação dependia da resposta dos quesitos formulados ao perito, os quais foram indeferidos pelo juízo.
+A despeito das alegações, o TJSC, amparado nas provas dos autos, concluiu que o recorrente não se desincumbiu do seu ônus probatório na oportunidade que lhe competia, nos termos do art. 373 do CPC. E ressaltou que aquele poderia ter colacionado fotografias, documentos relativos ao projeto do prédio ou mesmo laudos confeccionados por profissionais técnicos.
+Destacou também que, para além de a manifestação do perito não ser imprescindível à comprovação das alegações concernentes ao pedido indenizatório, o direito de produção de provas encontrava-se precluso, mormente não se tratando de fatos novos.
+Por fim, apontou que o recorrente pretende, por vias transversas, aproveitar a manifestação do perito para produzir prova a seu favor, o que não se admite.
+Assim, afastar as conclusões do TJSC também esbarra no teor da Súmula n. 7 do STJ: "A simples pretensão de reexame de prova não enseja recurso especial."
+IV - Conclusão
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
