@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão que concedeu o habeas corpus para fixar a pena do paciente em 1 ano, 11 meses e 10 dias de reclusão, mais o pagamento de 194 dias-multa, no regime aberto, e substituir a pena privativa de liberdade por penas restritivas de direitos a serem estabelecidas pelo Juízo da execução (fls. 460-465).
+Sustenta o embargante a existência de erro material, pois "a quantidade total de drogas apreendida, no caso, foi de 91,7 g (24,5 g de cocaína, 47,2 g de maconha e 20 g de crack (e-STJ Fls. 62/63), e não a de 594,1 g de cocaína, como mencionado na decisão, o que poderia gerar futuros entendimentos equivocados quanto ao parâmetro aplicado pela jurisprudência da Corte no tocante à quantidade de drogas tida por relevante, para fins de aplicação causa especial de diminuição de pena ou para determinar o quantum de redução".
+Consta da decisão embargada (fl. 464):
+Ademais, nos termos da jurisprudência desta Corte, a quantidade não relevante - no caso, 594,1 gramas de cocaína -, sem a menção a circunstâncias adicionais, não constitui fundamentação válida a fim de negar a minorante do tráfico ou modular em patamar diverso de 2/3, bem como estabelecer o agravamento do regime prisional ou impedir a substituição da sanção privativa de liberdade por penas restritivas de direitos. A propósito: AgRg no HC 529.431/SP, Rel. NEFI CORDEIRO, SEXTA TURMA, julgado em 03/12/2019, DJe 09/12/2019.
+De fato, verifica-se a existência de erro material na decisão embargada, uma vez que a quantidade de drogas apreendidas foi de 91,7 g (24,5 g de cocaína, 47,2 g de maconha e 20 g de crack) (fls. 62-63), considerada não relevante nos termos do entendimento desta Corte para negar a minorante do tráfico ou modular em patamar diverso de 2/3.
+Ante o exposto, acolho os embargos de declaração para sanar erro material nos termos da fundamentação.
+Publique-se.
+Intimem-se.
