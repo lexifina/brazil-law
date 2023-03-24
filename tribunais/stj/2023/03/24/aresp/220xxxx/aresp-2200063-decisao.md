@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por BRUNO DISSENHA PIGATTO, CAGB EMPREENDIMENTOS E PARTICIPACOES LTDA, CAMILA PIGATTO RIBEIRO DO VALLE, FRANCISCO PIGATTO NETO, GIULIA DISSENHA PIGATTO e LUCILE DISSENHA PIGATTO, contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 10/12/2021.
+Concluso ao gabinete em: 03/10/2022.
+Ação: pauliana, ajuizada por BANCO INDUSTRIAL DO BRASIL S/A em face dos ora agravantes, por meio da qual pretende a declaração de ineficácia da transferência de bens pessoais dos réus FRANCISCO PIGATTO NETO e LUCILE DISSENHA PIGATTO à empresa CAGB EMPREENDIMENTOS E PARTICIPACOES LTDA, porquanto os teriam reduzido à insolvência.
+Decisão interlocutória: nomeou perito para avaliação do imóvel rural ("Fazenda Mata Azul") que garante o crédito do Banco, impondo aos agravantes a obrigação de custeio da perícia, e indeferiu os pedidos formulados pelos agravantes de extinção do processo por falta de interesse de agir e de utilização de perícia produzida em outros autos como prova emprestada.
+Acórdão: negou provimento ao agravo de instrumento interposto pelos agravantes, nos termos da seguinte ementa (e-STJ fl. 367):
+"AGRAVO DE INSTRUMENTO - Ação pauliana- Ineficácia de transferência de patrimônio imobiliário - Decisão proferida em recurso de apelação que afastou a então procedência da ação em razão de cerceamento pela não realização de prova pericial requerida pelos ora agravantes - Em execução do julgado, nomeado perito e indicado valor para os trabalhos, questionamento sobre a prova e valor indicado, pretendendo os agravantes utilização de prova emprestada - Inviabilidade da pretensão diante limites da decisão mencionada - Valor do trabalho que resulta do próprio volume da atividade e dimensão da causa - Obrigação da parte requerente ao custeio das despesas - Decisão de primeiro grau, nos limites do julgado e em decorrência da preclusão dos demais temas pretendidos em renovação de análise, que se confirma - Recurso que contou com anterior julgamento na modalidade virtual - Impugnação, pelos agravantes, em sede de embargos declaratórios, apontando para ausência de anuência e insistência pela efetivação do julgamento via telepresencial - Racionalidade do processo e redução de tempo para a prestação jurisdicional que motivaram o acolhimento dos embargos declaratórios com a anulação do julgamento questionado - Encaminhamento, em nova pauta e na modalidade reclamada: a telepresencial - Decisão mantida - AGRAVO NÃO PROVIDO".
+Recurso especial: alega violação dos arts. 95, 372 e 485, VI, do CPC/2015, 5º, LXXVIII, da CF e 158, § 1º, do CC/02, sustentando que: (i) estão presentes todos os requisitos necessários à utilização da perícia de avaliação do imóvel "Fazenda Mata Azul" como prova emprestada, visto que produzida em processo de execução em que também figuram o Banco agravado e o agravante FRANCISCO, havendo anuência dos demais agravantes; (ii) foi observado o contraditório na produção da prova; (iii) sendo mantido o entendimento quanto à necessidade de realização de nova perícia, os respectivos custos devem ser atribuídos ao agravado; (iv) não está presente o requisito mínimo e indispensável para o ajuizamento da ação pauliana, qual seja, a insuficiência das garantias para a integral satisfação do crédito.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação de dispositivo constitucional
+A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 372 e 485, VI, do CPC/2015 e 158, § 1º, do CC/02, tampouco acerca do argumento invocado pelos agravantes quanto ao art. 95 do CPC/2015.
+Por isso, o julgamento do recurso especial é inadmissível, mormente em se considerando que a parte recorrente não opôs embargos de declaração com vistas a suprir eventual omissão perpetrada pelo Tribunal de origem.
+Tem incidência à espécie, destarte, o disposto na Súmula 282/STF.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO PAULIANA. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL. DESCABIMENTO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF.
+1. Ação pauliana.
+2. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+3. A ausência de decisão acerca dos argumentos invocados pelos recorrentes em suas razões recursais impede o conhecimento do recurso especial.
+4. Agravo conhecido. Recurso especial não conhecido.
