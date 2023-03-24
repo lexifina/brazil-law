@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto por AVELINO ANTONIO BATISTA PESSOA com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO , assim ementado:
+PREVIDENCIÁRIO. AGRAVO LEGAL INTERPOSTO CONTRA DECISÃO MONOCRÁTICA PROFERIDA NOS TERMOS DO ARTIGO 557 DO CPC. AÇÃO AJUIZADA COM VISTAS À REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO. AGRAVO IMPROVIDO.
+- Recurso interposto contra decisão monocrática proferida nos termos do art. 557, do CPC.
+- O caso dos autos não é de retratação.
+- É forçoso concluir que a pretensão da parte autora resume-se, com suposto fundamento no direito intertemporal, e visando a majoração do benefício, no aproveitamento daquilo que se afigura mais vantajoso nas legislações que regem os cálculos de proventos. Pleiteia a conjugação dos tetos de vinte salários mínimos da legislação pretérita (Lei 6.950/81) com as determinações de recálculo contidas no artigo 144 da Lei 8.213/91, o quê não é admitido pelo direito pátrio.
+- Eventual alegação de que não é cabível o julgamento monocrático no caso presente, resta superada, frente à apresentação do recurso em mesa para julgamento colegiado.
+- Agravo legal não provido.
+Os embargos de declaração opostos foram rejeitados.
+No presente recurso especial, o recorrente aponta como violado o art. 144, da Lei n. 8.213/91, sustentando, em síntese, que preencheu os requisitos para a aposentadoria na vigência da Lei n. .6950/81, a qual estabelecia o teto de 20 salários mínimos. Indica divergência jurisprudencial com julgados do TRF da 4ª Região e do STJ.
+É o relatório. Decido.
+O reexame do acórdão recorrido, em confronto com as razões do recurso especial, revela que o fundamento apresentado naquele julgado, acerca da impossibilidade de adoção de um regime híbrido da legislação, utilizado de forma suficiente para manter a decisão proferida no Tribunal a quo, não foi rebatido no apelo nobre, o que atrai os óbices das Súmulas n. 283 e 284, ambas do STF, in verbis:
+Súmula n. 283.
+É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Súmula n. 284
+É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Além disso, a pretensão recursal de rever o posicionamento adotado no acórdão recorrido teria necessariamente que passar pela revisão de todo o conjunto fático/probatório apresentado, a qual poderia até mesmo não ser suficiente, demandando outras provas. Ocorre que tal atividade probatória é típica das instâncias ordinárias, sendo vedada nas instâncias extraordinárias.
+Logo, o recurso é inviável, assim porque chegar a entendimento diverso, in casu, demandaria revolvimento fático probatório inviável em sede de Recurso Especial ante o óbice da Súmula 7/STJ.
+Quanto à alegada divergência jurisprudencial, verifico que a incidência do Óbice Sumular n. 7/STJ impede o exame do dissídio, na medida em que falta identidade entre os paradigmas apresentados.
+Nesse sentido, destaco:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. EMBARGOS À EXECUÇÃO FISCAL. ANUIDADES. CANCELAMENTO. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO, SIMILITUDE FÁTICA E INDICAÇÃO DO DISPOSITIVO VIOLADO. SÚMULA 284/STF. SÚMULA 7/STJ. ANÁLISE PREJUDICADA. AGRAVO INTERNO NÃO PROVIDO.
+1. A divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional, nos termos do art. 1.029, § 1º, do CPC/2015 e do art. 255, § 1º, do RISTJ, exige o necessário cotejo analítico e demonstração de similitude fático-jurídica entre os acórdãos supostamente divergentes, bem como a indicação do dispositivo legal interpretado de modo dissentâneo, o que não restou comprovado no presente caso. Hipótese, por extensão, da Súmula 284/STF.
+2. A incidência da Súmula 7 do STJ nas questões controversas apresentadas é, por consequência, prejudicial para a análise de apontado dissídio jurisprudencial, e impede o seguimento do presente recurso pela alínea c do permissivo constitucional.
+3. Agravo interno não provido.
+(AgInt no AREsp 1.518.728/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 19/11/2019, DJe 22/11/2019.)
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO PROCESSUAL CIVIL. ADMINISTRATIVO. AÇÃO DE RESPONSABILIDADE. CADÁVER ENCONTRADO NO RESERVATÓRIO DE ÁGUA. PRETENSÃO DE REEXAME FÁTICO - PROBATÓRIO. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ.
+I - Na origem, trata-se de ação de responsabilidade em razão de danos causados em decorrência de cadáver encontrado no reservatório de água da cidade. Na sentença, julgou-se improcedente o pedido. No Tribunal a quo, a sentença foi mantida.
+II - A parte alega violação e divergência de interpretação em relação aos arts. 8º, 14, § 1º, 22, parágrafo único, do CDC e 927 do CC, no que concerne aos danos morais Na espécie, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que ela demanda o reexame do acervo fático-probatório juntado aos autos. Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)" (AgRg no REsp n. 1.773.075/SP, Relator Ministro Felix Fischer, Quinta Turma, DJe de 7/3/2019).
+III - Consigne-se, ainda, que, quanto à alegação de existência de dissídio jurisprudencial, que tem por objeto a mesma questão aventada sob os auspícios da alínea a e obstaculizada pelo enunciado da Súmula n. 7/STJ, impõe-se o reconhecimento da inexistência de similitude fática entre os arestos confrontados, requisito indispensável ao conhecimento do recurso especial pela alínea c. Nesse sentido: "Ademais, consoante iterativa jurisprudência desta Corte, a incidência da Súmula n. 7 do STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso" (AgInt no AREsp n. 1.312.148/SP, Relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 20/9/2018).
+IV - Agravo interno improvido.
+(AgInt no AREsp 1.546.739/MG, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 18/5/2020, DJe 20/5/2020.)
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
