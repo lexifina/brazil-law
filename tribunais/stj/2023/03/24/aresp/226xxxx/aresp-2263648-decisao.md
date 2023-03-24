@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo interposto por FUNDAÇÃO DE ROTARIANOS DE SÃO PAULO contra decisão que inadmitiu recurso especial. O apelo extremo, interposto com base no art. 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"Consumidor e processual. Ação declaratória de rescisão de contrato de prestação de serviços educacionais cumulada com indenização por danos materiais e morais julgada parcialmente procedente. Pretensão à reforma da sentença manifestada por ambos os polos. As condições da ação (inclusive a legitimidade ad causam) devem ser aferida sin statu assertionis, isto é, à luz da causa de pedir e do pedido deduzidos na exordial. Responsabilidade solidária das rés pelos danos resultantes do inadimplemento do contrato que derivados artigos 7º, parágrafo único, e 25, § 1º, do Código de Defesa do Consumidor. Necessária a restituição integral dos valores pagos pelo inconcluso curso de pós-graduação. Danos morais configurados: autor que viu frustrada sua legítima expectativa de qualificação profissional. Quantum indenizatório arbitrado em R$5.000,00 (cinco mil reais) levando em conta o caráter dúplice da indenização e as peculiaridades do caso concreto. RECURSOS DAS RÉS DESPROVIDOS. RECURSODO AUTOR PROVIDO EM PARTE." (fl. 497, e-STJ).
+As razões do recurso especial alegam a violação dos arts. 17, 18, 489, parágrafo 1º, IV, 1.022, I e II, do Código de Processo Civil e 14, inc. II, § 3º do Código de Defesa do Consumidor.
+Sustenta, em síntese, a ocorrência de negativa de prestação jurisdicional, que deve ser reconhecida a sua ilegitimidade passiva em razão da sucessão empresarial e a ausência de ato ilícito, não sendo cabível danos morais.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+Inicialmente, no tocante à negativa de prestação jurisdicional, verifica-se que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+Não há falar, portanto, em existência de omissão apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+A esse respeito:
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OFENSA AO ART. 1.022 DO CPC/2015. MANIFESTO CARÁTER INFRINGENTE. IMPOSSIBILIDADE.
+1. Os Embargos de Declaração não merecem prosperar, pois manifestam nítido caráter infringente, não apontando quaisquer das hipóteses do art. 1022 do CPC/2015.
+2. A controvérsia foi correta e integralmente solucionada, com fundamento suficiente e em consonância com entendimento deste Tribunal, razão por que
+não se configura erro material, omissão, contradição ou obscuridade, tampouco negativa de prestação jurisdicional.
+3. Embargos de Declaração rejeitados" (EDcl no AgRg no AREsp 840.702/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 09/08/2016, DJe 08/09/2016).
+No mais, verifica-se que o acórdão recorrido reconheceu a legitimidade passiva da recorrente e o cabimento de danos morais com base nos seguintes termos:
+"Sendo inegáveis o inadimplemento contratual e a existência de relação de consumo, a responsabilidade solidária das rés é manifesta, tendo em vista o que dispõem os artigos 7º, parágrafo único, 25, § 1º, do Código de Defesa do Consumidor, segundo os quais, respectivamente, "tendo mais de um autor a ofensa, todos responderão solidariamente pela reparação dos danos previstos nas normas de consumo" e "havendo mais de um responsável pela causação do dano, todos responderão solidariamente pela reparação prevista nesta e nas seções anteriores".
+(..)
+O pedido de indenização por danos morais, mais uma vez respeitado o entendimento da juíza da causa, também deve ser acolhido, na medida em que houve, sim, dano ao patrimônio imaterial, conclusão que decorre do próprio conceito do instituto.
+Na hipótese vertente, ninguém fica indiferente psicologicamente à situação vivenciada pelo autor, que viu frustrada sua legítima expectativa de qualificação profissional, fato que gera angústia, sentimento de humilhação e baixa autoestima, tratando de caso em que "a prova efetiva do dano pode ser afastada porque qualquer homem médio que tivesse passado pela situação da vítima do dano teria experimentado as mesmas sensações (a mesma dor, o mesmo sofrimento etc.)", como ensinam Rodrigues Wambier e Tereza Arruda Alvim Wambier (A provado dano moral da pessoa jurídica. Revista Jurídica, Porto Alegre: Nota dez ,número 317, ano 52, páginas 7-13)." (fls. 502/504 e-STJ)".
+A reforma deste entendimento demandaria o reexame de material fático-probatório, além da interpretação de cláusulas contratuais, medidas inviáveis no recurso especial, a teor das Súmulas nºs 5 e 7/STJ.
+Não cabe ao Superior Tribunal de Justiça reexaminar as premissas de fato que levaram o tribunal de origem a tal conclusão, sob pena de usurpar a competência das instâncias ordinárias, a quem compete amplo juízo de cognição da lide.
+Nesse sentido:
+"PROCESSUAL CIVIL. CONTRATOS. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. LEGITIMIDADE PASSIVA DA UNIMED. TEORIA DA APARÊNCIA. SÚMULA N. 83 DO STJ. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ DECISÃO MANTIDA.
+1. "A jurisprudência desta Corte Superior é assente em reconhecer a legitimidade das unidades cooperativas ligadas à UNIMED, por aplicação da teoria da aparência" (AgInt no AREsp 1.492.299/RS, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 5/12/2019, DJe 19/12/2019).
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmulas n. 5 e 7 do STJ).
+3. O exame da alegação de que, no caso, a parte beneficiária não teria aderido à migração para a Central Unimed, de modo que inexistiria responsabilidade da ora recorrente pelo tratamento buscado, é inviável em recurso especial, pois seria necessária nova interpretação das cláusulas do TAC firmado em favor dos usuários da Unimed Paulistana, além do reexame de fatos e provas.
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 1.741.126/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 29/8/2022, DJe de 31/8/2022.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE COLETIVO. 1. LEGITIMIDADE PASSIVA. RELAÇÃO CONTRATUAL ENTRE AS PARTES. REVISÃO. IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ. 2. MANUTENÇÃO NO PLANO APÓS A MORTE DO TITULAR. POSSIBILIDADE DE PORTABILIDADE DE CARÊNCIA. ACÓRDÃO EM PERFEITA HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. 3. AGRAVO INTERNO DESPROVIDO.
+1. A questão da legitimidade passiva da agravante foi resolvida com base nas cláusulas contratuais e nos elementos fáticos que permearam a demanda. Assim, rever os fundamentos que ensejaram a conclusão alcançada pelo colegiado local implicaria a análise dos termos contratuais e o reexame do conjunto fático-probatório, o que é vedado pelas Súmulas n. 5 e 7 deste Superior Tribunal.
+2. O acórdão recorrido está em consonância com a jurisprudência do Superior Tribunal de Justiça, no sentido de que, mesmo nos contratos de saúde por adesão, após o óbito do beneficiário titular, seus dependentes possuem o direito de permanecer no plano de saúde, mantidas as condições anteriormente contratadas, assumindo as obrigações dele decorrentes.
+3. O colegiado estadual determinou que, no caso de ausência de comercialização do plano individual, a operadora do plano de saúde deve assegurar a portabilidade da autora sem carência. Incide, no ponto, o óbice da Súmula 83/STJ.
+4. Agravo interno desprovido."
+(AgInt no AREsp n. 2.028.288/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 16/5/2022, DJe de 18/5/2022.)
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Na origem, os honorários advocatícios foram fixados em 15% (quinze por cento) sobre o valor da condenação, os quais devem ser majorados para 17% (dezessete por cento) em favor do advogado do recorrido, observada a assistência gratuita, se for o caso.
+Publique-se.
+Intimem-se.
