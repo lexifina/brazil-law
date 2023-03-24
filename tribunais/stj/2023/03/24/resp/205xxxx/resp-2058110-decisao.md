@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial, com pedido de atribuição de efeito suspensivo, interposto pelo ESTADO DE GOIÁS, com respaldo na alínea "a" do permissivo constitucional, contra acórdão do Tribunal de Justiça daquela unidade federativa assim ementado (e-STJ fl. 53):
+EMENTA: AGRAVO DE INSTRUMENTO. CUMPRIMENTO INDIVIDUAL DE SENTENÇACOLETIVA. PAGAMENTO DE REAJUSTE A AGENTES DA POLÍCIA CIVIL. REQUERIMENTOIRDR NÃO ANALISADO. SUSPENSÃO INVIÁVEL. EXCESSO DE EXECUÇÃO NÃOCONFIGURADO.1. Inviável a suspensão do feito em razão do requerimento de instauração do Incidente de Resolução de Demandas Repetitivas, realizado em 06/09/2022, e em trâmite sob o n.º 5557428-97.2022.8.09.0000, visando uniformizar o entendimento sobre o direito ou não dos servidores da Polícia Civil ao recebimento das diferenças salariais de novembro de 2016 a novembro de 2018, visto que, até o momento, sequer foi emitido juízo de admissão do incidente. 2. A sentença prolatada na Ação Civil Pública de cobrança por obrigação de fazer, ajuizada pelo Sindicato dos Policiais Civis do Estado de Goiás - SINDEPOL, condenou o Estado de Goiás ao pagamento do reajuste previsto nas Leis nºs 18.419/2014, 18.420/2014 e 18.421/2014. 3. Não há excesso de execução na planilha apresentada pela exequente, que calculou as diferenças remuneratórias referentes aos meses de novembro/2015 a outubro/2018, tendo em vista que somente em novembro/2018 é que o reajuste acumulado foi pago, um ano após a data devida. RECURSO CONHECIDO E DESPROVIDO.
+Nas suas razões, a parte recorrente aponta violação dos arts. 1022 502, 503, 505, 506 e 507 do CPC/2015, sustentando negativa de prestação jurisdicional e ofensa à coisa julgada, já que não observado o título exequendo.
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 147/150.
+Passo a decidir.
+Quanto à alegada ofensa 1.022 do CPC/2015, cumpre destacar que incide na espécie o óbice da Súmula n. 284 do STF, uma vez que a parte recorrente aponta violação do art. 1.022 do Código de Processo Civil de 2015 (art. 535 do Código de Processo Civil de 1973), sem especificar, todavia, quais incisos foram contrariados, a despeito da indicação de omissão, contradição, obscuridade ou erro material.
+Nesse sentido, "é deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC/2015 se faz de forma genérica, sem especificar quais foram os incisos violados. Aplica-se, na hipótese, o óbice da Súmula 284 do STF". (AgInt no AREsp 1.530.183/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 19/12/2019.)
+Confira-se também o seguinte julgado: AgInt no AREsp 1.559.920/SE, relator Ministro Francisco Falcão, Segunda Turma, DJe de 22/10/2020.
+Em relação à coisa julgada, destacou a Corte de origem (e-STJ fls. 73/74):
+Dito isso, quanto ao mérito suscitado - alegado excesso de execução - em análise ao teor decidido na Ação Civil Pública proposta pelo Sindicato dos Policiais Civis do Estado de Goiás - SINDEPOL (autos nº 0440990-61.2015.8.09.0051), tem-se que o Estado de Goiás foi condenado ao pagamento da parcela do reajuste de 12,33%, que deveria ser saldada em novembro/2015, contudo, apenas foi liquidada em novembro de 2016.
+No tocante à concessão do reajuste dos subsídios, a Lei Estadual nº 18.420/14 preconizava:
+"Art. 1º - Os valores dos subsídios dos ocupantes dos cargos integrantes das carreiras a que se referem os Anexos I, II e III da Lei nº 16.900, de 26 de janeiro de 2010, de Papiloscopista Policial, constantes da Lei nº 14.657, de 08 de janeiro de 2004, e do Grupo Ocupacional de Identificação, de que trata a Lei nº 17.089, de 02 de julho de 2010, são reajustados nos seguintes percentuais e datas de vigência:
+I - 18,50%, em novembro de 2014;
+II - 12,33%, em novembro de 2015;
+III - 12,33%, em novembro de 2016;
+IV - 12,33% , em novembro de 2017.
+Posteriormente, a Lei Estadual nº 19.122/2015 entrou em vigor, com as seguintes alterações:
+"Art. 2º O art. 1º da Lei nº 18.420, de 08 de abril de 2014, passa a vigorar com a seguinte redação:
+"Art.1º  I -  II - 12,33%, em dezembro de 2016;
+III - 12,33%, em dezembro de 2017;
+IV - 12,33%, em novembro de 2018."
+Em exegese à norma legal, extrai-se que o reajuste total somente foi pago em novembro/2018, um ano após a data prevista, situação que prejudicou a agravada, privada da atualização do percentual de 12,33% por cerca de um ano.
+Diante desse cenário, no período de novembro/2015 a novembro/2018, o exequente/agravado recebeu vencimentos menores do que tem direito, conforme consignado na sentença coletiva dos autos nº 0440990-61.2015.8.09.0051, objeto do respectivo cumprimento.
+Dito isso, não merece acolhida a súplica do agravante, Estado de Goiás, de que o reajuste seria somente em relação aos meses de novembro/2015 a novembro/2016, pois a base de cálculo equivocada desse período foi utilizada para calcular os reajustes que sobrevieram nos anos seguintes, causando o chamado efeito cascata, que só cessou em novembro/2018, quando foi pago o reajuste em sua integralidade.
+Desse modo , verifica-se, no acórdão recorrido, que o Tribunal de origem decidiu a questão ora ventilada com base na realidade que se delineou à luz do suporte fático-probatório constante nos autos, bem como com base em legislação local, cuja revisão é inviável no âmbito do recurso especial, ante os óbices estampados nas Súmulas 7 do STJ e 280 do STF.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial. Fica PREJUDICADO o pedido de atribuição de efeito suspensivo ao recurso.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, caso aplicáveis os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
