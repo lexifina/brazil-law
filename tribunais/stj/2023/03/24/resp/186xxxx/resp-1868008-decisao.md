@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial interposto por FÁBIO RONCHINI MUNIZ (FÁBIO), com fundamento no art. 105, III, alíneas a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+EMBARGOS DE TERCEIRO - PENHORA EM BEM DE TERCEIRO - IMPOSSIBILIDADE - TENTATIVA DE APROVEITAMENTO PELO CREDOR DOS EFEITOS DE UMA SENTENÇA ORIUNDA DE PROCESSO DIVERSO ENTRE TERCEIROS ESTRANHOS A LIDE - ARTIGO 472 DO CPCI73 (ATUAL ARTIGO 506/2015) - "A SENTENÇA FAZ COISA JULGADA ENTRE AS PARTES ENTRE AS QUAIS É DADA" - RECURSO A QUE SE DÁ PROVIMENTO PARA AFASTAR A PENHORA SOBRE O BEM IMÓVEL REGISTRADO EM NOME DE TERCEIRO.
+- Acolhe-se o pleito inicial da ação de embargos de terceiro, quando demonstrado que a penhora recai sobre bem de propriedade do terceiro e não do devedor.
+- Incabível se mostra a tentativa do credor de se beneficiar dos efeitos de uma sentença, dada em uma ação revocatória, que teve como partes terceiros estranhos à lide, porquanto, nos termos do artigo 472 do Código de Processo Civil/73, a sentença somente faz coisa julgada entre as partes entre as quais é dada.
+- Ainda que, na ação revocatória que transcorreu entre terceiros tenha sido proferida sentença declarando a nulidade da compra e venda do imóvel, cumpre reconhecer que, o autor daquela ação promoveu acordo posterior, com recebimento do seu crédito, com renúncia tácita de promover o cumprimento de sentença da ação revocatória e, portanto, somente aquela parte indicada é quem teria titularidade para desfrutar dos efeitos da sentença que lhe foi favorável (e-STJ, fl. 733).
+Os embargos de declaração opostos por FÁBIO foram rejeitados (e-STJ, fls. 801/809).
+Nas razões do presente recurso, FÁBIO alegou além de dissídio jurisprudencial a violação dos arts. 790, VI, 1.008, 1.013, caput, §§ 1º e 2º, e 1.022, II, § 1º, II, do NCPC; e 165 e 182 do CC/02, ao sustentar (1) negativa de prestação jurisdicional consubstanciada nas seguintes omissões:
+(a) a anulação do negócio jurídico no bojo da ação pauliana tem por consequência o retorno das partes ao estado anterior (status quo ante) - cf. artigo 182, do Código Civil - e, bem assim, promove o regresso do imóvel ao patrimônio da alienante (Cargem - Companhia de Armazéns Gerais Ltda.);
+b) a vantagem resultante da anulação do negócio jurídico firmado em fraude contra credores beneficia todos os credores do devedor alienante ("reverte em proveito do acerto") titulares de crédito anterior à pratica daquele ato (cf. artigo - 158, § 2º, do Código Civil), mesmo que no tenham integrado a lide pertinente à ação pauliana (cf. artigo 165, do Código Civil);
+c) é sujeito à penhora o bem cuja anulação da alienação decorreu do reconhecimento da fraude contra credores no bojo da ação pauliana (cf, artigo 790, inciso VI, do Código de Processo Civil);
+d) o crédito do credor primitivo (Angelo Rinaldo Guazzelli) - que foi sucedido pelo ora Recorrente -, assim como o do autor da ação pauliana (Ailton Roquim), foi constituído anteriormente ao negócio jurídico entabulado mediante fraude contra credores entre as sociedades Recorrente e a alienante Cargem (cf. artigo 158, § 2º. do Código de Processo Civil);
+e) as consequências legais e jurídicas do fato devidamente comprovado nos autos (e, inclusive, expressamente confessado pela ora Recorrida nos autos da ação pauliana) de que a sociedade Recorrida efetivamente sucedeu a sociedade alienante Grão Futura Armazéns Gerais Ltda. (e-STJ, fl. 820);
+(2) ofensa ao princípio da devolutividade da apelação, já que a tese defensiva pertinente à sucessão empresarial deveria ter sido apreciada pelo Tribunal, independentemente de ter sido abordada pela sentença; (3) necessidade de se reconhecer a restituição das partes ao estado anterior à relação jurídica extinta em ação pauliana; (4) possibilidade da consequência jurídica advinda de tal extinção beneficiá-lo, mesmo não tendo ele integrado aquela lide; e (5) possibilidade de haver constrição do imóvel na ação por ele movida contra a alienante (e-STJ, fls. 812/841).
+Foram apresentadas contrarrazões (e-STJ, fls. 889/904).
+É o relatório.
+Decido.
+O recurso merece prosperar.
+(1) Da negativa de prestação jurisdicional
+O TJMG, ao analisar os embargos de declaração, incorreu em omissões relativas as seguintes alegações:
+(a) a anulação do negócio jurídico no bojo da ação pauliana tem por consequência o retorno das partes ao estado anterior (status quo ante) - cf. artigo 182, do Código Civil - e, bem assim, promove o regresso do imóvel ao patrimônio da alienante (Cargem - Companhia de Armazéns Gerais Ltda.);
+b) a vantagem resultante da anulação do negócio jurídico firmado em fraude contra credores beneficia todos os credores do devedor alienante ("reverte em proveito do acerto") titulares de crédito anterior à pratica daquele ato (cf. artigo - 158, § 2º, do Código Civil), mesmo que no tenham integrado a lide pertinente à ação pauliana (cf. artigo 165, do Código Civil);
+c) é sujeito à penhora o bem cuja anulação da alienação decorreu do reconhecimento da fraude contra credores no bojo da ação pauliana (cf, artigo 790, inciso VI, do Código de Processo Civil);
+d) o crédito do credor primitivo (Angelo Rinaldo Guazzelli) - que foi sucedido pelo ora Recorrente -, assim como o do autor da ação pauliana (Ailton Roquim), foi constituído anteriormente ao negócio jurídico entabulado mediante fraude contra credores entre as sociedades Recorrente e a alienante Cargem (cf. artigo 158, § 2º. do Código de Processo Civil);
+e) as consequências legais e jurídicas do fato devidamente comprovado nos autos (e, inclusive, expressamente confessado pela ora Recorrida nos autos da ação pauliana) de que a sociedade Recorrida efetivamente sucedeu a sociedade alienante Grão Futura Armazéns Gerais Ltda. (e-STJ, fl. 820).
+É condição sine qua non ao conhecimento do especial que a questão de direito ventilada nas razões de recurso tenha sido analisada pelo acórdão objurgado.
+Assim, recusando-se o TJMG a se manifestar sobre as questões federais terminou por negar prestação jurisdicional ao Recorrente.
+A propósito:
+RECURSO ESPECIAL. ACÓRDÃO RECORRIDO QUE NÃO SE MANIFESTOU SOBRE PONTO RELEVANTE PARA O DESATE DA CONTROVÉRSIA. OFENSA AO ART. 535 CONFIGURADA. TEMPESTIVIDADE DO RECURSO ESPECIAL. REGULARIDADE. 1. Muito embora o acórdão recorrido tenha afastado uma a uma as preliminares arguidas pela recorrente, silenciou quanto a ponto fundamental ao desate da controvérsia no mérito, qual seja, a ocorrência de mora do devedor, apesar de instado a fazê-lo em sede de embargos de declaração, o que caracteriza violação ao art. 535, II, do CPC. 2. Agravo regimental não provido.
+(AgRg no REsp 1187807/AM, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 21/6/2012, DJe 28/6/2012)
+É medida de rigor, portanto, o retorno dos autos à instância ordinária para que sane o referido vício.
+Fica prejudicada a analise das demais questões.
+Nessas condições, DOU PROVIMENTO ao recurso especial, determinando o retorno dos autos ao TJMG para que analise as questões trazidas nos embargos de declaração, como entender de direito.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação das penalidades fixadas nos arts. 1.021, §4º ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. OMISSÕES. OFENSA AO ART. 1.022 DO NCPC CONFIGURADA. RECURSO ESPECIAL PROVIDO.
