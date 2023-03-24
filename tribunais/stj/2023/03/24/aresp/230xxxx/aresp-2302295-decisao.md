@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo HOSPITAL MARIA AUXILIADORA S.A. contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado:
+APELAÇÃO. DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS, MORAIS E ESTÉTICOS. PRELIMINAR DE CERCEAMENTO DE DEFESA. AFASTADA. DEFEITO NA PRESTAÇÃO DO SERVIÇO MÉDICO. HIDROSSALPINGE. PERFURAÇÃO DE ALÇAS INTESTINAIS. EXTRAVASAMENTO DE FEZES PARA CAVIDADE ABDOMINAL. COMPLICAÇÕES. MÚLTIPLAS ADERÊNCIAS DE EPÍPLON. ELEVAÇÃO DO RISCO DE PERFURAÇÃO INTESTINAL. LESÃO CARACTERIZADA. AUSÊNCIA DE ERRO MÉDICO. ALTA HOSPITALAR PRECIPITADA. NEGLIGÊNCIA. RESPONSABILIDADE PELAS COMPLICAÇÕES OCORRIDAS FORA DO AMBIENTE HOSPITALAR. VÍNCULO ENTRE MÉDICO E HOSPITAL. CADEIA DE FORNECIMENTO DO SERVIÇO. SOLIDARIEDADE. DANOS MORAIS E ESTÉTICOS À PACIENTE. CARACTERIZADOS. RAZOABILIDADE E PROPORCIONALIDADE. DANO MORAL REFLEXO. ESPOSO. AUSÊNCIA. DANOS MATERIAIS. COMPROVADOS. PAGAMENTO DE COPARTICIPAÇÃO. PLANO DE SAÚDE. JUROS MORATÓRIOS. TERMO INICIAL. CITAÇÃO. RESPONSABILIDADE CONTRATUAL. SUCUMBÊNCIA RECÍPROCA.
+1. Os sujeitos do processo têm o direito de requerer a produção das provas que julgarem necessárias para demonstrar a veracidade de suas alegações. Caberá ao Magistrado, no entanto, enquanto destinatário da prova, analisar e indeferir os pedidos que não tenham utilidade para a entrega da tutela jurisdicional.
+2. A alta médica hospitalar é prerrogativa do médico responsável pela internação, assistência e acompanhamento do paciente. Logo, havendo liberação precoce do enfermo, o profissional que autorizou sua saída poderá ser responsabilizado pelas consequências oriundas do seu ato, notadamente no caso de complicações ocorridas fora do ambiente hospitalar.
+3. O hospital possui responsabilidade solidária quando constatada a culpa do médico por ele credenciado.
+4. Não havendo distinção entre Hospital e médico, prevalecendo, aos olhos do consumidor, a indivisibilidade de fornecedores, não há como afastar a responsabilidade do nosocômio, uma vez comprovada a culpa do profissional pelo resultado danoso suportado pela paciente.
+5. O serviço defeituoso prestado à autora não traduz conduta esperada ou mero dissabor da vida cotidiana, pelo contrário, revela violação à honra subjetiva com piora do estado psicológico devido ao intenso sofrimento causado pelas consequências da alta hospitalar precipitada, além da aflição, angústia, desgosto e preocupação com sua permanência em leito de UTI e demais cirurgias pelas quais teve que passar, a fim de reparar o dano sofrido.
+6. Por dano estético entende-se a deformidade ou enfeiamento permanente que possa causar constrangimento na parte. Inexiste demonstração de nexo causal entre a alta precoce e as cicatrizes decorrentes da lesão intestinal.
+7. O dano moral reflexo ou por ricochete consiste na possibilidade de os efeitos de um ato ilícito, direcionados a uma vítima direta, alcançarem terceiros.
+8. Os sentimentos de medo, temor e aflição experimentados pelo familiar durante o tratamento e a internação de ente querido são comuns, dado o vínculo afetivo por eles nutrido, não ensejando, via de regra, a condenação dos responsáveis por danos morais reflexos.
+9. Comprovada a assunção das despesas médicas pelo segundo autor, concernentes ao pagamento da coparticipação do plano de saúde, com o propósito de reparar os danos causados com a alta precipitada da paciente, exsurge a obrigação dos réus de recompor o prejuízo suportado pela parte.
+10. Versando o caso sobre responsabilidade contratual, contam-se os juros de mora desde a Citação inicial, nos termos do artigo 405 do Código Civil.
+11. Preliminar de cerceamento de defesa rejeitada. Recursos conhecidos e parcialmente providos.
+Os embargos declaratórios opostos foram acolhidos em parte, conforme ementa a seguir transcrita:
+EMBARGOS DE DECLARAÇÃO. PROCESSO CIVIL. AUSÊNCIA DE OMISSÃO OU CONTRADIÇÃO. REEXAME DO JULGADO. ERRO MATERIAL. PARTE DECOTADA DO DISPOSITIVO.
+1. Os Embargos de Declaração têm fundamentação vinculada e se prestam a sanar obscuridade, omissão ou contradição existentes na decisão embargada, além de corrigir eventual erro material.
+2. Na espécie, a matéria posta em julgamento foi enfrentada e debatida por completo, levando em consideração todas as alegações expostas pelo embargante, firmando o meu convencimento de o pedido conter mera pretensão de reexame do julgado, incabível por ocasião dos Declaratórios.
+3. A irresignação da parte quanto à justiça da decisão e a pretensão de reforma daí decorrente devem ser manifestadas pela via processual adequada, não se prestando os Embargos de Declaração ao atendimento dessa finalidade.
+4. A condenação em honorários deve ser proporcional à quantidade de pedidos formulados e de pedidos acolhidos ou rejeitados.
+5. Embargos de Declaração acolhidos em parte.
+Irresignado, HOSPITAL MARIA AUXILIADORA S.A. interpôs recurso especial com base no art. 105, III, a e c, da CF, apontando violação dos arts. 14, caput, § 3º, I e II, 4º, do CDC, 186, 187, 927, 932, III, do CC, e 489, § 1º, I a IV, 1.022, I, II, parágrafo único, do CPC, além de dissídio jurisprudencial, sob o argumento de (1) omissão e negativa de prestação jurisdicional por parte do acórdão recorrido, que não se manifestou quanto ao fato de que a única falha verificada no atendimento ter sido causada pelo profissional médico; e (2) irresponsabilidade do nosocômio, porquanto o médico causador dos danos à paciente não tem vínculo com o hospital recorrente, sendo do profissional a responsabilidade, pois atuou por contra própria no presente caso.
+O recurso não foi admitido pelo TJDFT, por não configurar omissão, ausência de fundamentação ou negativa de prestação jurisdicional no julgado recorrido e por incidir, no caso, o teor da Súmula n.º 7 do STJ (e-STJ, fls. 2.113/2.115).
+Nas razões do presente agravo, HOSPITAL MARIA AUXILIADORA S.A. refuta os referidos óbices de prelibação (e-STJ, fls. 2.122/2.133).
+É o relatório.
+DECIDO
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial.
+(1) Da alegada omissão e negativa de prestação jurisdicional no acórdão recorrido
+Nas razões do seu recurso, HOSPITAL MARIA AUXILIADORA S.A. alegou omissão e negativa de prestação jurisdicional por parte do acórdão recorrido, que não se manifestou quanto ao fato de que a única falha verificada no atendimento ter sido causada pelo profissional médico.
+Contudo, não se verifica nos autos negativa de prestação jurisdicional ou omissão , a não ser, apenas, decisão contrária à pretensão da parte.
+Apurou-se que o TJDFT se manifestou acerca do tema proposto de maneira clara e fundamentada, não existindo, portanto, os vícios apontados, sendo forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente, visando rediscutir matéria que já foi analisada.
+A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+(2) Da responsabilidade civil do recorrente
+Nas razões do presente recurso, HOSPITAL MARIA AUXILIADORA S.A. alegou irresponsabilidade do nosocômio, porquanto o médico causador dos danos à paciente não tem vínculo com o hospital recorrente, sendo, portanto, apenas do profissional o dever de indenizar, pois atuou por contra própria no presente caso.
+Todavia, encontra-se consignado no acórdão recorrido que:
+No caso dos autos, todavia, é possível notar que a paciente recorreu ao Hospital Maria Auxiliadora para tratar de sua enfermidade, e não à clínica particular do médico responsável pelo procedimento cirúrgico.
+Os documentos que instruíram a Inicial também demonstram o timbre do Hospital em todos os exames e procedimentos realizados, inclusive no sumário de alta assinado pelo segundo réu (ID 33482966).
+Ao que se colhe, não houve, em momento algum, distinção entre Hospital e médico, prevalecendo, aos olhos do consumidor, a indivisibilidade de fornecedores.
+Diante desse contexto, não há como afastar a responsabilidade do nosocômio, uma vez comprovada a culpa do médico pelo resultado danoso suportado pela paciente (e-STJ, fl.1.922).
+Assim, rever as conclusões do acórdão recorrido quanto às circunstâncias que levaram à responsabilização do hospital recorrente demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula n.º 7 do STJ.
+Nesse sentido, confira-se a jurisprudência desta Corte:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. ERRO MÉDICO VERIFICADO. RESPONSABILIDADE SOLIDÁRIA DIANTE DA EXISTÊNCIA DE VÍNCULO ENTRE MÉDICO E HOSPITAL. QUANTUM INDENIZATÓRIO. MODIFICAÇÃO DO ACÓRDÃO QUE DEMANDA REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE A TEOR DA SÚMULA 7 DO STJ.
+(..)
+2. A Corte estadual, com base nas provas dos autos, reconheceu a responsabilidade civil do hospital, sinalizando a existência de vínculo do médico responsável pelo ato cirúrgico com o nosocômio.
+Logo, a alteração desse entendimento, a fim de excluir a responsabilidade da entidade hospitalar, demandaria o revolvimento de matéria fático-probatória, inviável em recurso especial.
+Incidência da Súmula 7/STJ.
+(..)
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.162.928/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 28/11/2022, DJe de 13/12/2022)
+Por tais razões, não se pode conhecer do recurso especial.
+Salienta-se que, de acordo com o pacífico entendimento desta Corte Superior, os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c, ficando, portanto, prejudicada a apreciação do dissídio jurisprudencial.
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC, c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela E menda n.º 22 de 16/3/2016, DJe 18/3/2016), CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em favor da recorrida, limitados a 20%, nos termos do art. 85, § 11, do NCPC.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO NCPC. RESPONSABILIDADE CIVIL. ERRO MÉDICO. OMISSÃO E NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. DEVER DE INDENIZAR DO HOSPITAL. VÍNCULO COM O PROFISSIONAL MÉDICO. RECONHECIMENTO. DISCUSSÃO EM SENTIDO CONTRÁRIO. INVIABILIDADE. REEXAME FÁTICO-PROBATÓRIO. VEDAÇÃO. SÚMULA N.º 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICIALIDADE. CONHECEU-SE DO AGRAVO PARA NÃO SE CONHECER DO RECURSO ESPECIAL.
