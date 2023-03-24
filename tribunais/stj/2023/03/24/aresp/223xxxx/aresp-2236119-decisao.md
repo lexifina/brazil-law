@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu o recurso especial, por entender aplicável o óbice da Súmula n. 83/STJ (e-STJ fls. 552-553); interposto, por sua vez, contra acórdão assim ementado (e-STJ, fl. 442):
+APELAÇÃO CÍVEL. RESCISÃO DE CONTRATO DE COMPRA E VENDA COM RESTITUIÇÃO DE VALORES PAGOS. IMÓVEL EM LOTEAMENTO. TAXA DE RETENÇÃO. ELEVAÇÃO PARA 20%. RAZOABILIDADE E PROPORCIONALIDADE AO OBJETO CONTRATUAL. TERRENO SEM EDIFICAÇÃO, EM LOTEAMENTO AINDA SEM INFRA-ESTRUTURA. PRECEDENTES. COMISSÃO DE CORRETAGEM. RETENÇÃO INDEVIDA. TEMA 938/STJ. TAXA DE OCUPAÇÃO. IMÓVEL SEM POSSIBILIDADE DE FRUIÇÃO. IPTU. IMISSÃO NA POSSE. JUROS DE MORA. TRÂNSITO EMJULGADO. TEMA 1002/STJ. CUMULAÇAO COM MULTA COMPENSATÓRIA. INVIABILIDADE. BIS IN IDEM. SUCUMBÊNCIA. REARBITRAMENTO. RECURSOS PROVIDOS EM PARTE.
+Opostos embargos de declaração, foram rejeitados (e-STJ, fls. 479-480).
+Nas razões do especial, aponta a recorrente violação dos artigos 402, 403 e 475 do Código Civil, além do dissídio jurisprudencial.
+Argumenta, em síntese, que seria devido o pagamento da taxa de fruição pela promitente adquirente em contrato de promessa de compra e venda resolvido, de modo a evitar o enriquecimento sem causa do favorecido.
+O recurso especial não foi admitido na origem (e-STJ, fls. 552-553), contra o que se manifesta a agravante na presente via.
+Assim delimitada a controvérsia, passo a decidir.
+No caso, observo que o Tribunal de origem condenou a promitente adquirente, em virtude da resolução contratual do contrato de promessa de compra e venda de unidade imobiliária, a devolver o percentual de 20% dos valores pagos.
+A despeito disso, concluiu que a indenização requerida, na forma de taxa de fruição, seria impertinente, por se tratar de lote não edificado. A propósito, transcrevo do acórdão recorrido (e-STJ, fls. 444-445):
+O percentual de retenção deve guardar proporção com o objeto do contrato, que no caso se trata de terreno em loteamento, sem edificação e sem infra-estrutura, de valor baixo, motivo pelo qual o percentual de 20% mostra-se adequado e suficiente à reparação dos custos operacionais e demais despesas que a empresa vendedora teve de arcar, conforme julgados deste Tribunal em casos análogo. ..
+A empresa Apelante também requer condenação de PAMELA FRANCIELE DE SOUZA ao pagamento de indenização, correspondente a 1% do valor do imóvel, a título de aluguel pelo período de fruição. O pagamento de taxa de ocupação do imóvel a título de perdas e danos, em regra admitido em casos desta natureza, encontra óbice na particularidade do caso em concreto, em que o objeto do contrato é um lote de terreno sem qualquer construção. (grifo acrescido)
+A orientação adotada pela Corte Local não destoa da jurisprudência do STJ, pacificada no sentido de que: "não é cabível a fixação de taxa de fruição na hipótese de desfazimento de contrato de compra e venda de terreno não edificado." (AgInt no AREsp n. 2.044.026/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 8/8/2022, DJe de 26/8/2022.)
+Nesse mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL. PROMESSA DE COMPRA E VENDA. IMISSÃO NA POSSE. DESISTÊNCIA DO PROMITENTE-COMPRADOR. TAXA DE FRUIÇÃO. IMÓVEL NÃO EDIFICADO. IMPOSSIBILIDADE. AGRAVO INTERNO PROVIDO PARA, EM NOVO JULGAMENTO, CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Consoante entendimento desta Corte Superior, rescindida a promessa de compra e venda por iniciativa do promitente-comprador, não há enriquecimento sem causa no caso de terreno não edificado, pois o comprador não pode residir no imóvel, sendo inviável a cobrança da taxa de ocupação do bem. Precedentes.
+2. Agravo interno provido para, em novo julgamento, conhecer do agravo e negar provimento ao recurso especial.
+(AgInt no AREsp n. 1.837.929/GO, relator Ministro Raul Araújo, Quarta Turma, julgado em 9/5/2022, DJe de 8/6/2022.)
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE RESCISÃO CONTRATUAL - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA DEMANDADA.
+1. Consoante entendimento desta Corte, não é cabível a fixação de taxa de fruição na hipótese de desfazimento de contrato de compra e venda de terreno não edificado. Incidência da Súmula 83 do STJ.
+2. Agravo interno desprovido.
+(AgInt no REsp n. 1.974.868/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 28/3/2022, DJe de 31/3/2022.)
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE LOTE NÃO EDIFICADO. TAXA DE FRUIÇÃO. FALTA DE ALCANCE NORMATIVO DOS ARTIGOS INDICADOS. SÚMULA N. 284/STF. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. COBRANÇA AUTOMÁTICA DA TAXA DE FRUIÇÃO. ABUSIVIDADE. DESCARACTERIZAÇÃO. SÚMULAS N. 5 E 7 DO STJ. PROVEITO ECONÔMICO DO ADQUIRENTE. VERIFICAÇÃO. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. DECISÃO MANTIDA.
+1. Considera-se deficiente, a teor da Súmula n. 284 do STF, a fundamentação recursal que alega violação de dispositivos legais cujo conteúdo jurídico não tem alcance normativo para amparar a tese defendida no recurso especial.
+2. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+3. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou revolvimento do contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+4. A Corte de origem concluiu que a estipulação contratual de cobrança automática da taxa de fruição do imóvel seria conduta abusiva da empresa vendedora, pois tal medida colocaria o comprador em situação de extrema vantagem. Sem o reexame de matéria fática, é inviável modificar tal entendimento.
+5. O Tribunal a quo assentou que a agravado comprou lote não edificado, insuscetível, portanto, de geração de proveito econômico, daí que não era possível falar em sua condenação ao pagamento de taxa de fruição. Dessa forma, é inviável alterar tal conclusão em recurso especial, ante o óbice da da Súmula n. 7/STJ.
+6. Segundo a jurisprudência do STJ, "na hipótese de desfazimento de contrato de promessa de compra e venda de terreno não edificado por interesse exclusivo dos adquirentes, é indevida a condenação dos consumidores ao pagamento de taxa de ocupação/fruição" (AgInt no REsp n. 1.941.068/SP, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 27/9/2021, DJe 29/9/2021), o que foi observado pela Corte local.
+7. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n. 83/STJ).
+8. Divergência jurisprudencial não comprovada, ante a incidência das Súmulas n. 284 e 283 do STF e 5, 7 e 83 do STJ.
+9.. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.897.775/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 14/3/2022, DJe de 18/3/2022.)
+Portanto, como a orientação adotada pela Corte Local está em conformidade com a jurisprudência atual do STJ, o recurso especial não deve ser conhecido em razão da Súmula 83/STJ.
+Em face do exposto, não conheço do recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
