@@ -1,0 +1,11 @@
+DECISÃO
+DIEGO FERRARI DANIEL interpõe agravo regimental contra decisão da Presidência desta Corte que não conheceu do seu agravo em recurso especial com base no art. 21-E, V, c/c o art. 253, parágrafo único, I, ambos do RISTJ.
+O agravante sustenta que teria refutado o fundamento da decisão proferida pelo Tribunal estadual, motivo pelo qual pugna pelo acolhimento do regimental, a fim de que seja conhecido e provido o recurso especial.
+Em consulta à página eletrônica do Tribunal Regional da 1ª Região, colheu-se a informação de que, em 30/7/2020, nos autos da Transferência Entre Estabelecimentos Penais n. 1000175-64.2019.4.01.4100, foi proferida a seguinte decisão, in verbis (destaques no original):
+O prazo de permanência de DIEGO FERRARI DANIEL no Sistema Penitenciário Federal exauriu-se em 17 de março de 2020 (ID 198117391).
+Todavia, até a presente data, mesmo após encaminhamento de ofício por este Juízo (IDs 200155884, 290458876 e 290458895), não há informações da 1ª Vara de Execuções Penais da Comarca de Curitiba/PR acerca de eventual pedido de prorrogação do prazo de permanência ou remessa das respectivas peças.
+Por tal razão, considerando que já houve o decurso do prazo de permanência, com fulcro no art. 10, § 2º, da Lei nº 11.671/2008, DETERMINO a exclusão de DIEGO FERRARI DANIEL do Sistema Penitenciário Federal e, por conseguinte, o seu regresso ao Sistema Penitenciário do Estado do Paraná/PR, do qual proveio o interno.
+Dessa forma, evidencia-se a inexistência do interesse-utilidade do recurso especial e, em consequência, do presente agravo regimental, ou, nas palavras de Ada Pellegrini Grinover, Antonio Magalhães Gomes Filho e Antonio Scarance Fernandes:
+ ..  a postulação de um conceito unitário do interesse em recorrer exige uma ótica antes prospectiva que retrospectiva, em que se dá ênfase à utilidade, entendida como proveito que a futura decisão seja capaz de propiciar ao recorrente. Esta visão permite abranger todas as hipóteses, quer se trate de recurso das partes, quer de terceiros, quer do Ministério Público, como fiscal da lei ou órgão da justiça. (Recursos no Processo Penal, 6. ed. rev., atual. e ampl. - São Paulo: Editora Revista dos Tribunais, 2009, p. 71).
+À vista do exposto, não conheço do agravo regimental.
+Publique-se e intimem-se.
