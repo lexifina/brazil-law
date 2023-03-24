@@ -1,0 +1,26 @@
+DECISÃO
+Valho-me do preciso relatório elaborado pelo Parquet (e-STJ fls. 468/469)
+Trata-se de Recurso Ordinário em Habeas Corpus, com pedido liminar, interposto por Filipe Daniel Lagos de Oliveira contra decisão proferida pela 6ª Câmara Criminal do Egrégio Tribunal de Justiça do Estado de Minas Gerais, que denegou a ordem do Habeas Corpus de nº 1.0000.21.230905-8/000 ao argumento que a ratificação dos atos praticados cabe ao juízo competente, nos termos dos artigos 108, §1º e 567 do Código de Processo Penal.
+No presente recurso, a defesa sustenta, em síntese, às fls. 415/449, que, em razão da competência da investigação ser da Justiça Federal, deve ser "decretada a nulidade dos atos decisórios proferidos pelo juízo da 2ª Vara Criminal de Pouso Alegre/MG, no âmbito da Operação Black Monday, tendo em vista a sua incompetência absoluta para processar a ação penal originária, bem como para determinar - como determinou -inúmeras medidas cautelares invasivas contra o Recorrente e demais investigados"
+É, em síntese, o relatório.
+Decido.
+Analisando o acórdão recorrido e toda documentação acostada ao presente recurso ordinário, verifico que o Superior Tribunal de Justiça não pode conhecer da questão deduzida na presente impetração, tendo em vista a falta de manifestação da Corte de origem sobre ela, especialmente porque foi registrado que a impetração não mereceu conhecimento, com o seguinte argumento (e-STJ fls. 399/400):
+Compulsando os autos, não vislumbro competência deste eg. Tribunal de Justiça para análise do pleito.
+Isso porque os autos originários já foram remetidos à Justiça Federal, atraindo para o TRF a competência para processar e julgar os habeas corpus relativos à ação penal.
+Não há como o Tribunal de Justiça de Minas Gerais exercer qualquer controle de legalidade sobre juízo que extrapola sua competência.
+Nos termos dos artigos 108, §1ºe 567 do CPP, caberá ao juízo competente analisar e ratificar, ou não, os atos já praticados. Ao juízo de Pouso Alegre caberia tão somente declinar a competência, como o fez, exaurindo-sea possibilidade de atuação naqueles autos.
+Reconhecida a competência da Justiça Federal para processar e julgar a demanda, a ela compete analisar quais atos decisórios prolatados pelo juízo anterior serão ou não revogados, mesmo em casos de incompetência absoluta.
+Desse modo, fica impossibilitada a manifestação deste Sodalício, sob pena de configuração do chamado habeas corpus per saltum, a ensejar verdadeira supressão de instância e violação aos princípios do duplo grau de jurisdição e do devido processo legal substancial.
+Ao discorrer sobre o tema, BRASILEIRO vaticina com clareza que "revela- se inviável, portanto, o pedido de julgamento de habeas corpus per saltum, ou seja, o julgamento do remédio heroico pelas instâncias superiores sem prévia provocação das instâncias inferiores acerca do constrangimento ilegal à liberdade de locomoção, sob pena de verdadeira supressão de instância e consequente violação do princípio do duplo grau de jurisdição" (LIMA, Renato Brasileiro. Manual de processo penal: volume único - 4ª ed. rev. ampl. e atual. Salvador: JusPodivm, 2016, p. 2.470, grifei).
+Ante a falta de manifestação do colegiado estadual, percebe-se a incompetência desta Corte Superior para o processamento e julgamento deste writ, já que inexiste ato a ser imputado à autoridade coatora, nos termos do art. 105, I, alínea "c", da Constituição Federal, bem como do art. 13, I, alínea "b", do Regimento Interno desta Corte Superior. Nesse sentido:
+HABEAS CORPUS. ROUBO MAJORADO. WRIT SUBSTITUTIVO DE RECURSO PRÓPRIO.  ..  SUPRESSÃO DE INSTÂNCIA. ORDEM CONCEDIDA DE OFÍCIO.
+ ..  10. O direito de recorrer em liberdade não foi objeto de discussão pela Corte de origem, motivo pelo qual se evidencia a incompetência deste Superior Tribunal de Justiça para apreciar o aludido tema posto no writ e a consequente supressão de instância.
+ ..  (HC n. 278.542/SP, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 4/8/2015, DJe 18/8/2015.)
+EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS. AUSÊNCIA DE AMBIGUIDADE, CONTRADIÇÃO, OBSCURIDADE OU OMISSÃO NO JULGADO. IMPUGNAÇÃO DE ATO DE JUIZ DE PRIMEIRO GRAU. ABSOLUTA INCOMPETÊNCIA. NEGATIVA DE SEGUIMENTO. APLICAÇÃO DO ART. 34, XVIII, DO RISTJ.
+1. Não há no acórdão ambiguidade, contradição, obscuridade ou omissão, consoante disposto no art. 619 do Código de Processo Penal.
+2. De acordo com o art. 105, I, c, da Constituição Federal, compete a esta Corte julgar habeas corpus contra atos de Tribunais de Justiça e Tribunais Regionais Federais, o que não ocorre no caso em questão, em que se impugna ato de Juízo de primeiro grau.
+3. Assim disciplina o art. 34, XVIII, do RISTJ: negar seguimento a pedido ou recurso manifestamente intempestivo, incabível, improcedente, contrário a súmula do Tribunal, ou quando for evidente a incompetência deste.
+4. Na ausência de argumento apto a afastar o posicionamento anteriormente firmado, mantenho a decisão por seus próprios fundamentos.
+5. Embargos de declaração rejeitados. (EDcl no HC n. 230.583/MG, relator Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 16/9/2014, DJe 1º/10/2014.)
+Tal o contexto, não conheço do presente recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
