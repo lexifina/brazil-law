@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS, com fulcro no art. 105, III, a, da Constituição Federal, contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (Apelação n. 1.0351.20.001671-2/001).
+Consta dos autos que o recorrido foi condenado à pena de 8 anos e 2 meses de reclusão, em regime inicial fechado, mais multa, pela prática dos delitos previstos nos arts. 33, caput, e § 4º , c/c o art. 40, V, ambos da Lei n. 11.343/2006, e 14 e 16, parágrafo único, IV, da Lei 10.826/2003.
+A defesa apresentou recurso de apelação perante a Corte de origem, a qual lhe proveu parcialmente para aplicar o princípio da consunção, absolvendo o recorrido do crime previsto no art. 14 da Lei n. 10.826/2003, reduzindo a reprimenda a 8 anos de reclusão e multa. O acórdão foi assim ementado (e-STJ fl. 280):
+EMENTA: APELAÇÃO CRIMINAL - PORTE DE MUNIÇÃO DE ARMA DE FOGO DE USO PERMITIDO E DE ARMA DE FOGO COM NUMERAÇÃO RASPADA - CONSUNÇÃO ENTRE OS DELITOS - POSSIBILIDADE  ARMA E MUNIÇÕES TRANSPORTADAS EM MESMAS CIRCUNSTÂNCIAS TEMPORAIS E ESPACIAIS - TRÁFICO DE DROGAS - AUMENTO DA FRAÇÃO DE DIMINUIÇÃO PELO PRIVILÉGIO - INVIABILIDADE - GRANDE QUANTIDADE DE DROGA DE ALTO POTENCIAL OFENSIVO Á SAÚDE - RESTITUIÇÃO DE VEÍCULO APREENDIDO - INVIABILIDADE - VEÍCULO UTILIZADO PARA O TRAFICO. - Aplica-se o princípio da consunção, com a absorção do delito do art. 14 (menos grave) pelo do art. 16 (mais grave) do Estatuto do Desarmamento, se cometidos nas mesmas circunstâncias espaciais e temporais. - Para a fixação da fração de redução aplicável à minorante do privilégio, necessária a análise das circunstâncias judiciais do art. 59 do Código Penal, bem como da quantidade e qualidade de drogas apreendidas, nos termos do art 42 da Lei de Tóxicos.
+O Ministério Público opôs embargos de declaração, os quais foram rejeitados (e-STJ fls. 309/316).
+Daí o presente recurso especial, no qual alega violação aos arts. 14, 16, § 1º, IV, ambos da Lei n. 10.826/2003, e 1022, parágrafo único, II, c/c o art. 489, § 1º, VI, do Código de Processo Civil.
+Sustenta que "não se mostra possível a aplicação do princípio da consunção entre os delitos previstos nos artigos 14 e 16, § 1º, IV, ambos da Lei n. 10.826/03, uma vez que são crimes autônomos, com objetividade jurídica distinta, não havendo que se falar em punição, apenas, pelo ilícito cuja pena é mais gravosa" (e-STJ fl. 325).
+Requer o conhecimento e provimento do recurso para que seja afastado o princípio da consunção.
+O recurso especial foi admitido (e-STJ fls. 334/339).
+O Ministério Público Federal manifestou-se pelo provimento do recurso.
+É o relatório.
+Decido.
+O Tribunal de origem, ao prover o recurso defensivo reconhecendo o princípio da consunção, consignou que (e-STJ fls. 283/286):
+De fato, deve-se aplicar ao caso o princípio da consunção, com a absorção do crime do ad. 14 (delito menos grave) pelo do ad. 16 (crime mais grave) da Lei 101826103, porquanto cometidos nas mesmas circunstâncias espaciais e temporais. A arma de fogo e as munições do mesmo calibre foram apreendidas no mesmo lugar e no mesmo contexto, pelo que trata-se de crime único.
+ ..
+Assim, se o porte da munição ocorreu no mesmo contexto do porte da arma de fogo com numeração raspada, deve ser o art. 14 absorvido pelo crime mais grave do art. 16, parágrafo único, IV, do Estatuto do Desarmamento.
+Nota-se que a Corte de origem consignou que deveria ser aplicado o princípio da consunção, tendo em vista que o porte da munição ocorreu no mesmo contexto do porte da arma de fogo com numeração raspada.
+Contudo, ao assim decidir, o Tribunal de origem foi de encontro com a jurisprudência do Superior Tribunal de Justiça, no sentido de ser "incabível a absorção do crime de porte ilegal de munição de uso permitido pelo de posse de arma de fogo e de munição de uso restrito, mediante aplicação do princípio da consunção, notadamente pela ocorrência de condutas distintas, pois tutelam bens jurídicos distintos" (AgRg no AREsp n. 1.353.606/DF, relator Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 3/12/2019, DJe de 13/12/2019).
+Nesse mesmo sentido:
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. POSSE DE MUNIÇÃO DE USO PERMITIDO E DE USO RESTRITO E PORTE DE ARMA DE FOGO COM NUMERAÇÃO DE SÉRIE RASPADA. APREENSÃO NO MESMO CONTEXTO FÁTICO. TESE DE CONSUNÇÃO RECONHECIDA PELO TRIBUNAL DE JUSTIÇA. ENTENDIMENTO EM PATENTE DIVERGÊNCIA COM A JURISPRUDÊNCIA DESTA CORTE.
+1. A decisão agravada está em harmonia com a jurisprudência desta Corte Superior de Justiça no sentido de que "os tipos penais dos arts. 12, 14 e 16 do Estatuto do Desarmamento tutelam bens jurídicos distintos, o que torna inviável o reconhecimento do crime único quando o agente é denunciado e condenado por infração a mais de um dispositivo legal.
+Precedentes" (AgRg no REsp 1497670/GO, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 30/3/2017, DJe07/4/2017).
+2. Agravo regimental improvido. (AgRg no REsp n. 1.819.737/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 17/9/2019, DJe de 26/9/2019.)
+Ante o exposto, dou provimento ao recurso especial para afastar o princípio da consunção e restabelecer a pena fixada na sentença condenatória.
+Publique-se. Intimem-se.
