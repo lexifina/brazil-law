@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de conflito negativo de competência em que figura como suscitante o JUÍZO DA 1ª VARA DO TRABALHO DE JOINVILLE (SC) e como suscitado o JUÍZO DE DIREITO DA 6ª VARA CÍVEL DE JOINVILLE (SC).
+Na origem, foi ajuizada ação de indenização pelo Banco do Brasil S.A. contra Igor Ristow Wippel Schulenburg, pela prática de ato ilícito durante a vigência de contrato de trabalho.
+O Juízo de Direito declinou a competência para a Justiça do Trabalho, considerando que "o objeto da presente ação é o ressarcimento do ex-empregador de valores dos quais o ex-empregado supostamente teria se apropriado em razão do cargo ocupado" (fl. 615).
+O Juízo do Trabalho, por sua vez, suscitou o conflito de competência porquanto, na "ação de reparação de danos ou ação ex delicto, não cabe à Justiça do Trabalho instruir e julgar o conflito de interesses, como meramente decorrente da relação de trabalho" (fl. 636).
+Manifestação do Ministério Público Federal às fls. 665-667.
+É o relatório. Decido.
+Como relatado, na origem, o Banco do Brasil S.A. ajuizou ação de indenização contra ex-empregado, pela suposta prática de atos ilícitos no curso do contrato de trabalho em decorrência da relação de emprego.
+Sobre os motivos que justificaram a declinação da competência, o Juízo suscitado informou o seguinte (fls. 655-656, destaquei):
+À exordial dos autos originários, de n. 0305186-46.2015.8.24.0038, alegando que seu ex-empregado efetuou, indevidamente, resgates de aplicações financeiras em plano de previdência privada de titularidade de cliente, incorrendo na prática de peculato, a parte autora, Banco do Brasil S. A., requereu a condenação da parte ré ao pagamento de R$ 173.690,00 (cento e setenta e três mil, seiscentos e noventa reais) e juntou documentos.
+ ..
+Entendendo ser o objeto da lide afeto à seara trabalhista, visto que a causa tem como fundamento situação ocorrida no âmbito da relação de emprego que existia entre as partes, declarou-se a incompetência absoluta deste Juízo para processar e julgar o feito, determinando-se a remessa dos autos à Justiça do Trabalho.
+A decisão desse juízo considerou que, à luz do disposto no art. 114, I e VI, da Constituição Federal e tendo em vista que o objeto da ação é o ressarcimento do ex -empregador de valores dos quais o ex-empregado supostamente teria se apropriado em razão do cargo ocupado, a competência da Justiça do Trabalho para processamento do feito é evidente.
+Nos termos do art. 114 da Constituição Federal, compete à Justiça do Trabalho o julgamento de demandas cuja causa de pedir decorra diretamente da relação de trabalho, mesmo quando o trabalhador figurar como réu.
+Nesse sentido, o entendimento do Juízo suscitado harmoniza-se com a jurisprudência firmada pela Segunda Seção do STJ no sentido de que "compete à Justiça do Trabalho processar e julgar ação de indenização por danos morais promovida pelo empregador, por suposto ato ilícito perpetrado por empregada de sociedade empresária da qual aquele é sócio, consubstanciado no registro de boletim de ocorrência relatando a suposta prática do crime de ameaça por parte do autor no curso da relação d e trabalho" (CC n. 130.122/SC, relator Ministro Raul Araújo, Segunda Seção, julgado em 10/9/2014, DJe de 1º/10/2014).
+Na mesma direção, o seguinte precedente:
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA DO TRABALHO. JUSTIÇA COMUM. AÇÃO DE INDENIZAÇÃO MOVIDA PELO EX-EMPREGADOR. DANOS MORAIS. SUPOSTO ATO DANOSO PRATICADO PELO EX-EMPREGADO. CAUSA DE PEDIR. DIRETA LIGAÇÃO COM A RELAÇÃO DE TRABALHO ESTABELECIDA ENTRE AS PARTES.
+1. A causa de pedir da ação de indenização movida pelo ex-empregador contra o ex-empregado, o envio de e-mails alegadamente desabonadores à honra da sociedade empresária, refere-se diretamente à relação de trabalho ou, mais exatamente, ao seu rompimento.
+2. Nos moldes de expressa previsão constitucional, que não distingue as ações de indenização ajuizadas pelo trabalhador daquelas movidas contra ele, a Justiça do Trabalho é a competente para conhecer e julgar as causas relacionadas à reparação de danos materiais e morais, cuja causa de pedir decorra diretamente do estabelecimento, manutenção ou extinção da relação de trabalho, sendo desimportante se o trabalhador é o autor ou o réu. Precedentes da Segunda Seção.
+3. Conflito conhecido para declarar competente a Justiça do Trabalho. (CC n. 135.845/DF, relator Ministro Lázaro Guimarães, Segunda Seção, julgado em 22/2/2018, DJe de 6/3/2018.)
+Confiram-se também os julgados a seguir: CC n. 122.556/AM, relatora Ministra Maria Isabel Gallotti, Segunda Seção, julgado em 24/10/2012, DJe de 29/10/2012; e CC n. 118.842/RS, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 12/6/2013, DJe de 19/6/2013.
+Nesse contexto, está configurada a competência da Justiça do Trabalho.
+Ante o exposto, conheço do conflito para declarar competente o JUÍZO DA 1ª VARA DO TRABALHO DE JOINVILLE (SC), ora suscitante.
+Publique-se. Intimem-se.
