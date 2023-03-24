@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de agravo apresentado por ESTADO DO CEARÁ contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ, assim resumido:
+CONSTITUCIONAL. ADMINISTRATIVO. MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO. APOSENTADORIA. EXCLUSÃO DA GRATIFICAÇÃO EXTRA-CLASSE. REDUÇÃO VENCIMENTAL. DECADÊNCIA. INEXISTÊNCIA. PRESTAÇÃO DF TRATO SUCESSIVO. SEGURANÇA PARCIALMENTE CONCEDIDA.
+Quanto à controvérsia, alega violação do art. 18 da Lei n. 1.533/51, no que concerne ao reconhecimento da decadência tendo em vista que a impetração do mandado de segurança se deu após transcorrido lapso temporal de 120 dias, afastando-se a caracterização de trato sucessivo, trazendo o(s) seguinte(s) argumento(s):
+É de farta sabença que, em sede de Mandado de Segurança, a parte interessada tem que ser diligente no sentido de efetivar a impetração no prazo estabelecido por lei, notadamente o art. 18 da Lei nº. 1.533/51, sob pena de ver extinto seu direito de manejar o writ.
+ ..
+É que o ato atacado pela impetrante foi aquele que concedeu seus proventos de aposentadoria, com a respectiva supressão da Gratificação Extra-classe, ato que se configurou único e de efeitos permanentes.
+Por isso, tem-se que o marco inicial do prazo decadencial ficou caracterizado em 27 de março de 2006, data da publicação do ato que a transferiu para a inatividade, pois a partir deste momento, indiscutivelmente, tomou conhecimento da situação supostamente ilegal, surgindo, dai, a lesão e, portanto, a pretensão (teoria da actio nata).
+Conclui-se, então, que está irremediavelmente atingido pela decadência o presente mandamus, haja vista que a impetração se deu em 18 de agosto de 2006, portanto, depois de transcorrido o lapso temporal de 120 (cento e vinte) dias previsto na lei (fls. 112).
+É, no essencial, o relatório. Decido.
+Na espécie, o acórdão recorrido assim decidiu:
+A suposta decadência do direito, em razão da segurança ter sido ajuizada depois de transcorridos mais de 120 dias da publicação do ato de aposentadoria da impetrante não é motivo para o seu reconhecimento.
+Assim se verifica por tratar-se de obrigação de trato sucessivo, visto que o direito da impetrante não foi suprimido, mas somente restringido, por isso se renova mensalmente. Destarte, o art. 18 da Lei nº. 1.533/1951 é inaplicável no caso em tela devido a sua contagem recomeçar a cada negativa de observância do direito pleiteado pela impetrante.
+Inclusive, vale mencionar, que esta Corte já disciplinou esta matéria na sua Súmula nº. 25, aplicável à hipótese dos autos:
+Nas prestações de trato sucesso, em que a ilegalidade suscitada no mandado de segurança renova-se periodicamente, descabe coimar de decadência da impetração.
+Rejeito, pois, a alegação de decadência, uma vez que nas obrigações de trato sucessivo, envolvendo pagamento de proventos, que é pago mensalmente, o prazo para impetração renova-se a cada ato (fl. 101).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp n. 1.637.445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp n. 1.647.046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
