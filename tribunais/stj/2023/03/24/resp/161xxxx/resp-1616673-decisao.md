@@ -1,0 +1,36 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pela FAZENDA NACIONAL contra acórdão prolatado, por unanimidade, pelo Tribunal Regional Federal da 5ª Região, assim ementado (fl. 435e):
+PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO FISCAL. PARCELAMENTO. RECUPERAÇÃO JUDICIAL
+1. O STJ e esta eg. Corte já se posicionaram no sentido de que o parcelamento da dívida, por não extinguir a obrigação, implica a suspensão da execução, e não sua extinção, o que só se verifica após quitado o débito.
+ ..
+II.A jurisprudência do STJ e desta Corte é Uníssona no sentido .de que de as execuções fiscais ajuizada em face de empresa em processo recuperação judicial não se suspendem em virtude do deferimento, .do processamento da referida recuperação;:devem ser obstado os atos judiciais que reduzam o patrimônio da empresa, enquanto mantida essa condição.
+III No caso dos autos, o pedido de recuperação judicial foi deferido em 29.8.2011, data a partir da qual deverá ser determinada a suspensão dos atos de constrição do patrimônio dos executados, que veio a ocorrer em 2012.
+ ..
+Opostos embargos de declaração, foram rejeitados (fls. 501/507e).
+Com amparo no art. 105, III, a, da Constituição da República, a Recorrente aponta ofensa a dispositivos legais, defendendo, em síntese, o restabelecimento da penhora.
+Sem contrarrazões, o recurso foi admitido.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 1973.
+Acerca da controvérsia, ressalte-se que o Tema n. 987/STJ ("Possibilidade da prática de atos constritivos, em face de empresa em recuperação judicial, em sede de execução fiscal de dívida tributária e não tributária") teve sua afetação cancelada, como se depreende do acórdão a seguir:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. PROPOSTA DE CANCELAMENTO DE AFETAÇÃO. VIGÊNCIA DA LEI 14.112/2020, QUE ALTEROU A LEI 11.101/2005. NOVEL LEGISLAÇÃO QUE CONCILIA ORIENTAÇÃO DA SEGUNDA TURMA/STJ E DA SEGUNDA SEÇÃO/STJ.
+1. Em virtude de razões supervenientes à afetação do Tema Repetitivo 987, revela-se não adequado o pronunciamento desta Primeira Seção acerca da questão jurídica central ("Possibilidade da prática de atos constritivos, em face de empresa em recuperação judicial, em sede de execução fiscal de dívida tributária e não tributária.")
+2. Recurso especial removido do regime dos recursos repetitivos. Cancelamento da afetação do Tema Repetitivo 987.
+(REsp 1694261/SP, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 23/06/2021, DJe 28/06/2021)
+Aliás, a desafetação do tema se deu por conta das alterações legais realizadas na Lei n. 11.101/2005, por meio da Lei n. 14.112/2020, que assim passaram a dispor:
+Art. 6º A decretação da falência ou o deferimento do processamento da recuperação judicial implica:
+I - suspensão do curso da prescrição das obrigações do devedor sujeitas ao regime desta Lei;
+II - suspensão das execuções ajuizadas contra o devedor, inclusive daquelas dos credores particulares do sócio solidário, relativas a créditos ou obrigações sujeitos à recuperação judicial ou à falência;
+III - proibição de qualquer forma de retenção, arresto, penhora, sequestro, busca e apreensão e constrição judicial ou extrajudicial sobre os bens do devedor, oriunda de demandas judiciais ou extrajudiciais cujos créditos ou obrigações sujeitem-se à recuperação judicial ou à falência.
+(..)
+§ 7º-A. O disposto nos incisos I, II e III do caput deste artigo não se aplica aos créditos referidos nos §§ 3º e 4º do art. 49 desta Lei, admitida, todavia, a competência do juízo da recuperação judicial para determinar a suspensão dos atos de constrição que recaiam sobre bens de capital essenciais à manutenção da atividade empresarial durante o prazo de suspensão a que se refere o § 4º deste artigo, a qual será implementada mediante a cooperação jurisdicional, na forma do art. 69 da Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil, observado o disposto no art. 805 do referido Código.
+§ 7º-B. O disposto nos incisos I, II e III do caput deste artigo não se aplica às execuções fiscais, admitida, todavia, a competência do juízo da recuperação judicial para determinar a substituição dos atos de constrição que recaiam sobre bens de capital essenciais à manutenção da atividade empresarial até o encerramento da recuperação judicial, a qual será implementada mediante a cooperação jurisdicional, na forma do art. 69 da Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil, observado o disposto no art. 805 do referido Código).
+Ademais, no texto do acórdão do REsp n. 1.694.261/SP, o Min. Mauro Campbell Marques fez a seguinte observação, que se mostra relevante para o caso dos autos:
+Na verdade, cabe ao juízo da recuperação judicial verificar a viabilidade da constrição efetuada em sede de execução fiscal, observando as regras do pedido de cooperação jurisdicional (art. 69 do CPC/2015), podendo determinar eventual substituição, a fim de que não fique inviabilizado o plano de recuperação judicial. Constatado que não há tal pronunciamento, impõe-se a devolução dos autos ao juízo da execução fiscal, para que adote as providências cabíveis.
+Isso deve ocorrer inclusive em relação aos feitos que hoje encontram-se sobrestados em razão da afetação do Tema 987.
+Logo, verifico que esta Corte firmou posicionamento segundo o qual o deferimento da recuperação judicial não suspende as execuções fiscais, cabendo ao juízo da recuperação judicial analisar a viabilidade da constrição patrimonial em sede de execução fiscal em cada caso concreto, respeitadas as regras presentes no art. 69 do CPC/2015, podendo, em caso de inviabilidade, determinar eventual substituição da medida, a fim de que não fique inviabilizado o plano de recuperação judicial.
+Nesse cenário, impõe-se o provimento parcial do recurso especial para, reformando o acórdão recorrido, afastar a suspensão da constrição determinada pela Corte de origem, ressalvando-se a possibilidade de o juízo da recuperação judicial, eventualmente, analisar a viabilidade da constrição.
+Por fim, no que tange aos honorários advocatícios, da conjugação dos enunciados administrativos ns. 3 e 7, editados em 09.03.2016 pelo Plenário desta Corte, depreende-se que as novas regras relativas ao tema, previstas no art. 85 do Código de Processo Civil de 2015, serão aplicadas apenas aos recursos sujeitos à novel legislação, tanto nas hipóteses em que o novo julgamento da lide gerar a necessidade de fixação ou modificação dos ônus da sucumbência anteriormente distribuídos, quanto em relação aos honorários recursais (§ 11).
+Ademais, vislumbrando o nítido propósito de desestimular a interposição de recurso infundado pela parte vencida, entendo que a fixação de honorários recursais, em favor do patrono da parte recorrida, está adstrita às hipóteses de não conhecimento ou improvimento do recurso.
+Posto isso, com fundamento no art. 557, § 1º A do CPC/1973 , e 34, XVIII, a e b, e 255, I e II, do RISTJ, CONHEÇO E DOU PARCIAL PROVIMENTO ao recurso especial, termos expostos.
+Publique-se. Intime-se.
