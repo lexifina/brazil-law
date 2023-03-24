@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial, com fundamento na Súmula 284/STF.
+No recurso especial, interposto com fulcro na alínea "c" do permissivo constitucional, sustenta a defesa que o acórdão "incorre em erro in judicando, pois ao reconhecer que a prescrição da pretensão punitiva não ocorre no presente no caso, sob o fundamento de que a causa interruptiva está na pronúncia e não na intimação do acusado acerca da pronúncia, e, ao reconhecer que o réu não foi intimado da sentença de pronúncia, para julgar a validade dos atos processuais e o marco interruptivo, nega vigência ao ordenamento jurídico aplicável ao tempo dos fatos jurídicos" (fl. 1873).
+Afirma que "os atos processuais posteriores à sentença de pronúncia, neste feito, devem ser declarados nulos, porque, inexistente a intimação pessoal e ficta da sentença de pronúncia" (fl. 1869).
+Colaciona precedentes desta Corte, suscitando haver dissídio jurisprudencial.
+Requer o provimento do recurso "para reconhecer a prescrição da pretensão punitiva, nos termos do com supedâneo no artigo 61 do Código de Processo Penal; artigos 107, inciso IV c/c 109, inciso II e artigo 110, §1º, todos do Código Penal e para decretar a nulidade dos atos do processo a partir da sentença de pronúncia, por infringência ao artigo 413 e artigo 414 do CPP em sua vigência anterior à reforma pela Lei nº 11.689/2008" (fl. 1882).
+Contraminuta apresentada. O Ministério Público Federal manifestou-se pelo improvimento do recurso.
+O recurso especial, interposto com fulcro no art. 105, inciso III, alínea "c", da Constituição Federal, exige a demonstração do dissídio jurisprudencial através da realização do indispensável cotejo analítico, para demonstrar a similitude fática entre o v. acórdão recorrido e o eventual paradigma (arts. 1.029, §1º, do CPC e 255, § 1º, do RISTJ).
+Na hipótese, a parte limitou-se a transcrever a ementa dos acórdãos, sem realizar o necessário confronto analítico a fim de demonstrar a semelhança fático-jurídica e o dissenso da tese jurídica adotada para, desse modo, caracterizar a divergência entre referidos julgados. A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. FURTO QUALIFICADO. ACORDO DE NÃO PERSECUÇÃO PENAL. LEI N. 13.964/2019. DENÚNCIA RECEBIDA. APLICAÇÃO RETROATIVA DO ART. 28-A DO CÓDIGO DE PROCESSO PENAL. DESCABIMENTO. SUPOSTA VIOLAÇÃO AO PRINCÍPIO DA IDENTIDADE FÍSICA DO JUIZ NÃO DEMONSTRADA. PREJUÍZO NÃO COMPROVADO. PENA-BASE ACIMA DO MÍNIMO LEGAL. FUNDAMENTAÇÃO IDÔNEA. PRETENSÃO DE INCIDÊNCIA DA FRAÇÃO MÁXIMA PELA TENTATIVA. AVALIAÇÃO DO ITER CRIMINIS. SÚMULA N. 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. AGRAVO REGIMENTAL DESPROVIDO.
+ ..  6. A comprovação da divergência jurisprudencial não foi efetuada nos moldes dos arts. 1.029, § 1.º, do Código de Processo Civil, e 255, § 1.º, do Regimento Interno do Superior Tribunal de Justiça, sendo indispensável, para tanto, o cotejo analítico entre o acórdão recorrido e os julgados paradigmas com a suficiente demonstração de similitude fática, o que não se verifica no caso.
+7. Agravo regimental desprovido.
+(AgRg no AREsp n. 1.976.249/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 7/2/2023, DJe de 14/2/2023.)
+Ante o exposto, conheço do a gravo para negar provimento ao recurso especial.
+Publique-se.
+Intimem-se.
