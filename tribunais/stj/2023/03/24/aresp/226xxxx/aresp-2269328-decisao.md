@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por LAIDE PEREIRA FAUSTINO RIBEIRO contra decisão que inadmitiu recurso especial com fundamento nas Súmulas n. 284 e 282 do STF e 7 do STJ.
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, foi interposto contra acórdão prolatado pelo Tribunal de Justiça do Estado de Goiás em apelação nos autos de ação de ação de cobrança de seguro.
+O julgado foi assim ementado (fl. 1.190):
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA DE SEGURO. INVALIDEZ PERMANENTE POR ACIDENTE DE TRABALHO. NÃO COMPROVAÇÃO DA INVALIDEZ EM PERÍCIA MÉDICA. INDENIZAÇÃO SECURITÁRIA INDEVIDA . DANOS MORAIS . INOCORRÊNCIA. IMPROCEDÊNCIA DOS PEDIDOS INICIAIS. HONORÁRIOS RECURSAIS. GRATUIDADE DA JUSTIÇA. SUSPENSÃO DA EXIGIBILIDADE. I - Ausente a comprovação da Invalidez Permanente por Acidente (IPA), conforme constatado em perícia médica judicial, não refutada por suficiente prova em sentido diverso, a segurada/autora não faz jus ao recebimento da indenização securitária, devendo ser confirmada a sentença, que julgou improcedente o pedido inicial. II - Acerca dos danos morais, de igual forma, inassiste razão à parte autora, ora apelante, porquanto ausente conduta ilícita, evento danoso e nexo de causalidade que lhe outorgue a pretensão indenizatória por aludidos danos, na forma disposta nos artigos 186 e 927 do Código Civil, sendo improcedente o pleito em espeque. III - Desprovido o apelo, majoram-se os honorários advocatícios sucumbenciais, nos termos do artigo 85, § 11, do Código de Processo Civil, todavia, suspende-se sua exigibilidade, ante ao benefício da gratuidade da justiça deferido à parte autora/apelante (CPC, art. 98, § 3º).
+APELAÇÃO CÍVEL CONHECIDA E DESPROVIDA.
+SENTENÇA MANTIDA.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, a agravante alega violação dos arts. 1.022 , 7º, 11 e 369 do CPC e 199, I, do CC, por negativa de prestação jurisdicional. Defende que o Tribunal de origem foi omisso ao não se manifestar a respeito da ilicitude da recusa securitária quando não houver a exigência de realização de exames médicos prévios.
+Aduz ser indevida a exigência de intervenção cirúrgica para que as lesões provenientes de acidente de trabalho sejam reconhecidas como permanentes.
+Aponta violação dos arts. 757 e 760 do CC e 21, I, da Lei n. 8.213/1991, argumentando ser irregular a exclusão automática da patologia LER da categoria de invalidez por acidente para fins de indenização securitária se não excluída no momento da pactuação, devendo ser reconhecidas "as concausas como co-fatores determinantes da invalidez passível de indenização securitária" (fl. 1.233).
+Alega ainda violação dos arts. 42 da Lei n. 8.213/1991 e 43 do Decreto n. 3.048/1999, ponderando que deve ser "reconhecida a invalidez para o labor exercido quando do infortúnio e não toda e qualquer profissiografia" (fl. 1.233).
+Afirma que o acórdão recorrido violou as Súmulas n. 474 e 609 do STJ.
+Requer o provimento do recurso a fim de que seja determinado o retorno dos autos à origem para nova análise ou a fim de que seja o acordão reformado conforme as teses acima ventiladas. Requer ainda que seja mantida a justiça gratuita, distribuído o ônus de sucumbência e fixada verba honorária em seu favor.
+É o relatório. Decido.
+O recurso não merece prosperar.
+I - Da alegada negativa de prestação jurisdicional
+Afasta-se a alegada ausência de prestação jurisdicional, visto que a Corte de origem examinou e decidiu, de modo claro, objetivo e fundamentado, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+Esclareça-se que o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+II - Do Prequestionamento
+Considera-se preenchido o requisito do prequestionamento quando o tribunal de origem se manifesta acerca da matéria inserta no dispositivo de lei federal apontado como violado, sendo desnecessária a menção explícita a seu número (AgInt no AREsp n. 1.767.078/DF, relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/9/2022, DJe de 29/9/2022; e AgInt no AREsp n. 2.010.772/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 12/9/2022, DJe de 19/9/2022).
+Inexistindo referido debate na instância antecedente, o recurso especial não comporta conhecimento ante a incidência analógica da Súmula n. 282 do STF.
+III - Da violação dos arts. 42 da Lei n. 8.213/1991 e 43 do Decreto n. 3.048/1999
+O acórdão recorrido, com base no acervo probatório dos autos, manteve a sentença, que concluíra que a agravante não fazia jus ao benefício securitário por ausência de lesão permanente inerente ao acidente de trabalho, pois, mesmo tendo o INSS reconhecido a ocorrência de lesão permanente, o laudo pericial utilizado em Juízo para obtenção de cobertura por lesões provenientes de acidente de trabalho tidas como permanente foi diverso e de maior valor probatório, tendo em vista a ocorrência do contraditório e da ampla defesa. Afastou-se também a necessidade de indenizar em razão da LER, pois a perícia constatara que a doença era preexistente ao acidente objeto da ação. Confira-se trecho do julgado (fls. 1.185-1.188, destaquei):
+Consoante se extrai dos autos, a autora alegou ter sofrido acidente de trabalho em abril de 2008, o que decorre do aviso de sinistro coligido ao evento n.º 3, doc. 4.
+Das provas colhidas sob o crivo do contraditório, qual seja o Laudo Pericial, verifica-se a existência de acidente e a descrição provável de contusão do joelho direito.
+O Laudo Pericial, todavia, rechaça a tese de que tenha havido lesão permanente.
+ ..
+Com isso, tenho que a autora não faça jus à indenização postulada, porquanto lhe falta pressuposto legal que legitime a procedência da pretensão securitária, consoante se extrai do artigo 42 da Lei n.º 8.213/91, do artigo 43 do Decreto n.º 3.048/99, e, também, do artigo 15 da Circular 302 da SUSEP.
+Ademais, embora a conclusão do INSS em relação ao acidente tenha sido diversa, no sentido de que lhe foi concedida aposentadoria por invalidez (mov. 3, doc. 4), pertinente reconhecer que o Laudo Pericial colhido em Juízo é distinto, revestindo- se de maior valor probatório, uma vez que crivado pelo contraditório e pela ampla defesa.
+Sendo assim, escorreito o entendimento esposado pelo douto juízo a quo, de que não houve lesão permanente inerente ao acidente de trabalho ocorrido em abril de 2008, relativo ao joelho da autora, sendo impositiva a manutenção da sentença.
+ ..
+Dessarte, inocorre dever de indenizar, seja pela alegada lesão, que não é permanente, seja porque, em relação a LER, restou constatado que a doença é pré- existente ao sinistro objeto da ação, não guardando relação que lhe outorgue o reconhecimento do direito postulado, sendo, assim, improcedente o pedido.
+Assim, para infirmar as conclusões do aresto recorrido e reconhecer ser devida a indenização à agravante por ocorrência de lesão permanente sofrida em acidente de trabalho, é necessário o reexame do conjunto probatório dos autos, o que é vedado em recurso especial, nos termos da Súmula n. 7 do STJ.
+A propósito: AgInt no AREsp n. 2.025.025/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 30/5/2022, DJe de 2/6/2022; e AgInt no AREsp n. 1.210.913/MT, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 10/4/2018, DJe de 19/4/2018.
+IV - Violação das Súmulas n. 474 e 609 do STJ
+O recurso especial não é via adequada para apreciar ofensa a enunciado de súmula, que não se insere no conceito de lei federal previsto no art. 105, III, a, da Constituição Federal (Súmula n. 518 do STJ).
+V - Divergência jurisprudencial
+No tocante ao apontado dissídio, ressalte-se que a incidência das Súmulas n. 7 do STJ e 282 do STF quanto à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+Nesse sentido: AgInt no AREsp n. 1.898.375/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 27/6/2022, DJe de 30/6/2022; AgInt no AREsp n. 1.866.385/DF, relator Ministro Francisco Falcão, Segunda Turma, julgado em 16/5/2022, DJe de 18/5/2022; e AgInt nos EDcl no REsp n. 1.996.848/PR, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 6/3/2023, DJe de 10/3/2023.
+V - Conclusão
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado na instância de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
