@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de embargos de declaração contra decisão monocrática.
+Proferida decisão no recurso às fls. 938-945, a parte embargante opõe embargos de declaração apontando vícios na decisão embargada, conforme se percebe dos seguintes trechos da petição:
+Inicialmente, vale registrar que a decisão que deu provimento ao recurso especial interposto pela União, ora embargada, não apresentou pronunciamento nenhum sobre o fundamento apresentado pela parte recorrida em suas contrarrazões, consubstanciado na flagrante ofensa e descumprimento ao previsto na Súmula n. 284/STF, sendo omissa a decisão nesse ponto.
+É importante consignar que este tema levantado pela parte recorrida, ora embargante, é fundamental ao julgamento do caso, sendo necessário o pronunciamento judicial sobre ele, uma vez que seu acolhimento conduz ao não conhecimento do recurso, sendo imprescindível ao processo.
+Desta feita, requer-se o pronunciamento expresso desta Relatoria sobre o referido tema aduzido pela parte recorrida, que pode levar à negativa de seguimento do recurso especial, e à manutenção do acórdão recorrido, da lavra do Tribunal Regional Federal da 2ª Região - TRF2.
+É o relatório. Decido.
+Os embargos não merecem acolhimento.
+A decisão ora embargada analisa os pontos essenciais para o deslinde da controvérsia nesta Corte.
+Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade; eliminar contradição; suprir omissão de ponto ou questão sobre as quais devia pronunciar-se o juiz de ofício ou a requerimento; e/ou corrigir erro material.
+Conforme entendimento pacífico desta Corte:
+O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida. (EDcl no MS 21.315/DF, Rel. Ministra Diva Malerbi (desembargadora Convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016).
+A Corte Especial do Superior Tribunal de Justiça já se manifestou no sentido de que o juízo de admissibilidade do especial pode ser realizado de forma implícita, sem necessidade de exposição de motivos. Assim, o exame de mérito recursal já traduz o entendimento de que foram atendidos os requisitos extrínsecos e intrínsecos de sua admissibilidade, inexistindo necessidade de pronunciamento explícito pelo julgador a esse respeito. (EREsp n. 1.119.820/PI, relator Ministro Mauro Campbell Marques, Corte Especial, DJe 19/12/2014). No mesmo sentido: AgInt no REsp n. 1.865.084/MG, relator Ministro Raul Araújo, Quarta Turma, julgado em 10/8/2020, DJe 26/8/2020; AgRg no REsp n. 1.429.300/SC, relator Ministro Humberto Martins, Segunda Turma, DJe 25/6/2015; AgRg no Ag n. 1.421.517/AL, relatora Ministra Assusete Magalhães, Segunda Turma, DJe 3/4/2014.)
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
