@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de Agravo contra inadmissão de Recurso Especial (art. 105, III, "a", da CF) interposto a acórdão do Tribunal de Justiça do Estado de Santa Catarina assim ementado (fl. 72, e-STJ):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. ISS. DECISÃO INTERLOCUTÓRIA QUE REJEITOU A ALEGAÇÃO DE VALORES BLOQUEADOS EM DUPLICIDADE.
+IRRESIGNAÇÃO DO CONTRIBUINTE. PEDIDO DE LIBERAÇÃO DO MONTANTE SUPOSTAMENTE PENHORADO A MAIOR. TESE AFASTADA.
+EXISTÊNCIA DE DUAS AÇÕES EXECUTIVAS EM FACE DO MESMO DEVEDOR QUE, EMBORA POSTERIORMENTE REUNIDAS, FORMALIZARAM AS RESPECTIVAS CONSTRIÇÕES DE MANEIRA INDIVIDUALIZADA.
+EXCESSO NÃO VISUALIZADO. PEDIDO DE DEVOLUÇÃO DE QUANTIA NEGADO.
+DECISUM OBJURGADO MANTIDO. RECURSO CONHECIDO E DESPROVIDO. EMBARGOS DE DECLARAÇÃO PREJUDICADOS.
+Os Embargos de Declaração foram desprovidos nestes termos (fl. 95, e-STJ):
+EMBARGOS DE DECLARAÇÃO. ARTIGO 1.022 DO CPC. OMISSÃO. VICIO INEXISTENTE. PRETENSÃO DE REEXAME DO JULGADO. INADEQUAÇÃO DA VIA ELEITA. PREQUESTIONAMENTO PARA EFEITO DE RECURSO ESPECIAL OU EXTRAORDINÁRIO. DESNECESSIDADE. ACLARATÓRIOS CONHECIDOS E REJEITADOS.
+"Os aclaratórios não se prestam à manifestação de inconformismo ou à rediscussão do julgado" (STJ, EDcl nos EDcl no AgRg no AREsp 743.156/SP, rel. Min. Moura Ribeiro, Terceira Turma, j.em 16-6-2016, DJe 22-6-2016).
+Nas razões do Recurso Especial, o agravante alega violação dos arts. 489, § 1º, IV, e 1.022, II, do Código de Processo Civil/2015. Afirma (fl. 118, e-STJ):
+Ao julgar os embargos de declaração, a Corte de origem apenas registrou que no acórdão embargado "houve manifestação expressa deste Juízo, acerca dos motivos que o levaram ao desprovimento do recurso do agravo de instrumento, inclusive, a respeito da alegação da parte embargante, no sentido de que houve duplicidade de penhora", e transcreveu os fundamentos expostos no acórdão que desproveu o recurso de agravo de instrumento do Banco executado, ora recorrente.
+Ao assim proceder, o Tribunal a quo se negou a enfrentar os fundamentos apresentados pelo Banco embargante, ora recorrente, incorrendo, pois, em nulidade, por clara violação aos arts. 1.022, II, e 489, § 1º, IV, ambos do Código de Processo Civil, tendo em vista que, muito embora o recorrente tenha, expressamente, pleiteado a análise de questões imprescindíveis para correto deslinde do feito, persiste, ainda assim, a omissão do órgão julgador.
+Contraminuta às fls. 175-181, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 9.3.2023.
+Deve ser reconhecida a ofensa ao art. 1.022, II, do CPC.
+No acórdão recorrido, não foi examinada a tese levantada pelo agravante sobre a "duplicidade de atos constritivos e a gritante incoerência lógica na atualização dos valores em discussão" (fl. 83, e-STJ).
+Transcrevo trechos dos Embargos de Declaração (fls. 83-85, e-STJ):
+O acórdão ora embargado foi embasado exclusivamente no fundamento de que as contrições de valores ocorreram em momento anterior à reunião das execuções fiscais, sendo, assim, omisso quanto aos fundamentos jurídicos aventados pelo Banco em sede de agravo de instrumento, como se passa a demonstrar pelas explanações abaixo expostas.
+Em suas razões recursais, o ora embargante, essencialmente, aduziu que a penhora de valores no âmbito das execuções fiscais de nº 0009525-03.2004.8.24.0008 e de nº 0000820-06.2010.8.24.0008 incorreu em nítido excesso, em virtude da duplicidade de atos constritivos e da gritante incoerência lógica na atualização dos valores em discussão.
+De maneira mais detalhada, colaciona-se abaixo os principais argumentos ventilados pelo Banco agravante, ora embargante:
+i) excesso de penhora decorrente da duplicidade da constrição - nos autos originários, o próprio Município de Blumenau, ora embargado, informou ao juízo, após requerer a reunião dos processos supracitados, que o débito das duas ações, atualizado até 15/12/2016, alcançava R$ 4.010.249,68. A propósito, atesta-se que, na referida data, o valor de ambas as execuções fiscais, já acrescidos os honorários advocatícios, somava R$ 3.913.971,35, de modo que, a constrição levada a cabo no processo de origem (repisa-se: no valor de R$ 4.040.586,27) contemplou o crédito tributário em exigência em ambas as execuções. Contudo, em descompasso ao petitório da municipalidade e aos valores constantes dos autos, foram realizados dois bloqueios 3 que, somados, atingem a cifra excessiva de R$ 4.666.318,99, evidenciando o indevido desfalque do patrimônio do contribuinte.
+ii) incoerência lógica referente à atualização do débito - reitera-se que, conforme defende o ora embargado, seu crédito tributário, em um período de 13 meses (10/11/2015 a 15/12/2016), teve um acréscimo de R$ 1.012.243,19 (valorização de 33,76%), porém esse mesmo crédito, em um período de 24 meses (15/12/2016 a 18/12/2018), no qual houve e incidência de juros de 1% ao mês e atualização monetária pelo INPC, foi acrescido de R$ 56.513,97, isto é, apenas 1,4% - percentual que é inferior aos juros devidos em apenas dois meses.
+(..)
+Ora, com a devida vênia, o acórdão embargado não procedeu ao cotejo analítico das alegações recursais- acima brevemente sintetizadas - do agravante, ora embargante, violando o direito fundamental ao contraditório, haja vista que os argumentos deduzidos no agravo interposto não foram efetivamente considerados no r. acordão.
+Diante do exposto, requer sejam recebidos e providos os presentes embargos de declaração com efeitos infringentes, com fulcro no art. 1.022, inc. II, e no art. 489, § 1º, ambos do Diploma Processual Civil, para que seja suprida a omissão do acórdão embargado quanto aos argumentos expendidos pelo ora embargante, especialmente no que tange ao sobejado quantum constrito e à inconsistência lógica na atualização dos valores exequendos, e, ao final, seja determinada a liberação dos valores referentes ao excesso de penhora.
+Porém, mesmo após instado a se manifestar, o Tribunal a quo não analisou a questão suscitada pelo recorrente, a qual é relevante para o deslinde da controvérsia. Dessa forma, justifica-se a devolução dos autos à origem para novo julgamento dos aclaratórios.
+Ante o exposto, conheço do Agravo para conhecer parcialmente do Recurso Especial e determinar o retorno dos autos à Corte local para novo julgamento dos Embargos de Declaração, de modo que seja concretamente apreciada a alegação do embargante sobre a "duplicidade de atos constritivos e a gritante incoerência lógica na atualização dos valores em discussão".
+Publique-se.
+Intimem-se.
