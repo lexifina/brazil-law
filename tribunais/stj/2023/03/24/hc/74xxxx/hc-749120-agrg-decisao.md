@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo regimental contra decisão que não conheceu do habeas corpus, ao argumento de que não teria sido juntado o inteiro teor da sentença condenatória.
+A defesa aponta que, "em que pese a sucinta fundamentação (2 páginas - 1387-1388) aquele é o título condenatório" (fl. 119). Argumenta que "a impugnação volta-se exatamente contra a falta de fundamentação na dosimetria da pena" (fl. 120).
+Busca a reconsideração ou a remessa do feito ao colegiado.
+Considerando as razões da defesa, reconsidero a decisão combatida e passo à análise do pedido defensivo.
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim ementado (fl. 41):
+APELAÇÃO. TRIBUNAL DO JÚRI. DO HOMICÍDIO JULGAMENTO. QUALIFICADO. NULIDADE, I NOCORRÊNCIA. DECISÃO MANIFESTAMENTE CONTRÁRIA À PROVA DOS AUTOS. PENA.
+1. Ausente acusação de um dos réus contra outro coacusado, não se verifica hipótese de nulidade por colidência de defesas.
+2. São manifestamente contrárias à prova dos autos as decisões do júri que não encontram nenhum respaldo no contexto probatório. Em respeito à soberania dos veredictos do Tribunal do Júri, a interpretação da expressão manifestamente deve ser restritiva, limitada às hipóteses de absoluto descompasso entre o decidido e o comprovado. No caso dos autos, presentes duas versões igualmente viáveis, pois amparadas em segmentos probatórios dos autos, a opção dos jurados não merece reparos.
+3. A valoração negativa da personalidade, na fixação da pena-base, exige fundamentação idônea. Insubsistência da conclusão de que a personalidade apresente desvios aparentes, em razão da vida pregressa, notadamente quando os acusados são reconhecidamente primários. Penas redimensionadas.
+RECURSO PROVIDO EM PARTE.
+O paciente foi condenado à pena de 14 anos de reclusão, em regime inicial fechado, como incurso no art. 121 do Código Penal. Interposto recurso de apelação pela defesa, o Tribunal de origem negou-lhe provimento.
+No presente writ, a defesa alega, em suma, a ocorrência de ilegalidade na dosimetria da pena-base.
+Liminarmente e no mérito, busca a readequação da pena.
+Indeferida a liminar e prestadas informações, o Ministério Público Federal se manifestou pela denegação da ordem.
+A sentença condenatória fixou a pena-base nos seguintes termos (fl. 35):
+A culpabilidade deve servir como elemento de medição da pena, determinando o grau de censurabilidade do ato praticado. No caso, a prova produzida nos autos revela a intensidade do dolo. É primário, conforme certidão da fls. 1250/1250-v. Conduta social e personalidade sem elementos de aferição. O motivo do crime não resto suficientemente esclarecido. As consequências foram graves, resultando, por equívoco, na morte de Sandrino, pessoa que, aparentemente, nenhuma desavença tinha com o réu. As circunstâncias fugiram a normalidade diante da excessiva violência empregada, restando Sandrino atingido em diversas regiões do corpo. Nada para aferir quanto ao comportamento da vítima, já que pessoa diversa da pretendida pelo algoz. Pena-base: 14 anos de reclusão, a qual torno definitiva na ausência de outra moduladoras.
+O acórdão de apelação ratificou a sentença assim consignando (fl. 54):
+Ao réu Leandro foi imposta pena-base de 14 anos de reclusão, diante da valoração negativa da culpabilidade (por intensidade de dolo), das consequências do crime (morte de pessoa que nenhuma relação tinha com a desavença com os réus) e das circunstâncias do crime (excessiva violência empregada). A pena foi tornada definitiva, diante da ausência de outras circunstâncias modificadoras.
+No merece reparos a pena como fixada. Com efeito, o aumento de dois anos da basilar afigura-se proporcional à valoração negativa de três balizadoras, o que restou devidamente fundamentado pelo juízo a quo.
+Como cediço, inexiste critério puramente aritmético para a dosimetria da pena, cabendo ao julgador, a quem a lei confere certo grau de discricionariedade regrada, sopesar cada circunstância à luz da proporcionalidade, consoante seu prudente arbítrio.
+Assim, somente haverá revisão nesta instância quando for constatada evidente desproporcionalidade entre o delito e a pena imposta, hipótese em que deverá haver reapreciação para a correção de eventual desacerto quanto ao cálculo das frações de aumento e de diminuição e a reavaliação das circunstâncias judiciais listadas no art. 59 do Código Penal.
+No caso, a pena-base foi exasperada pela intensidade do dolo, pela morte de pessoa diversa da pretendida, e pela excessiva violência empregada.
+No que tange à culpabilidade, trata-se de fundamentação inidônea, pois não foram indicados quaisquer dados concretos que demonstrem tal circunstância, não se prestando a tal a intensidade do dolo ou mesmo a morte de pessoa diversa da pretendida, porquanto elementar do tipo penal em questão, uma vez que o paciente foi condenado "como incurso nas sanções do artigo 121, § 2º, inciso IV, c/c o artigo 20, § 3º, ambos do Código Penal" (fl. 35).
+Ressalte-se que "a jurisprudência desta Corte Superior de Justiça é no sentido de que a pena-base não pode ser fixada acima do mínimo legal com fundamento em elementos constitutivos do crime ou com base em referências vagas, genéricas, desprovidas de fundamentação objetiva para justificar a sua exasperação" (AgRg no AREsp 1.121.856/ES, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 10/08/2018).
+Contudo, o mesmo não se pode dizer sobre a exasperação das circunstâncias do crime, uma vez que descrita a contento a excessiva violência empregada.
+Tem-se por justificado o aumento a título de circunstâncias do crime, "diante da excessiva violência empregada, restando Sandrino atingido em diversas regiões do corpo", na medida em que excede ligeiramente à normalidade, encontrando-se em harmonia com a jurisprudência do STJ. A propósito:
+HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO A RECURSO PRÓPRIO. IMPROPRIEDADE DA VIA ELEITA. ROUBO SIMPLES TENTADO. DOSIMETRIA. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL DE FORMA PROPORCIONAL E FUNDAMENTADA. REGIME PRISIONAL FECHADO. MANUTENÇÃO. PACIENTE REINCIDENTE E COM PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL, ANTE A PRESENÇA DE CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. NÃO APLICAÇÃO DA SÚMULA N. 269/STJ. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO.
+- O Superior Tribunal de Justiça, seguindo o entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, não tem admitido a impetração de habeas corpus em substituição ao recurso próprio, prestigiando o sistema recursal ao tempo que preserva a importância e a utilidade do habeas corpus, visto permitir a concessão da ordem, de ofício, nos casos de flagrante ilegalidade.
+- A dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade.
+- Nos casos em que a conduta do agente transcender ou extrapolar as circunstâncias ou consequências naturais do tipo, a violência excessiva poderá servir de fundamento para a elevação da pena-base.
+ ..
+- Habeas corpus não conhecido. (HC 421.934/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 28/11/2017, DJe 7/12/2017).
+Passo ao ajuste dosimétrico.
+A sentença fixou a pena-base em 14 anos de re clusão pelo reconhecimento de três circunstâncias desabonadoras; mantida apenas uma, reduz-se a pena-base, proporcionalmente, a 12 anos e 8 meses de reclusão, a qual resta definitiva, à míngua de outras circunstâncias modificadoras.
+Ante o exposto, concedo o habeas corpus parcialmente para reduzir a pena do pacien te a 12 anos e 8 meses de reclusão, mantidos os demais termos do acórdão impugnado.
+Comunique-se.
+Publique-se.
+Intimem-se.
