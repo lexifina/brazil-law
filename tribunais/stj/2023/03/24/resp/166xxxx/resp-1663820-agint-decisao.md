@@ -1,0 +1,7 @@
+DECISÃO
+Trata-se de agravo interno (e-STJ fls. 414/472), interposto contra decisão desta relatoria que negou provimento ao recurso especial por incidência da Súmula n. 83/STJ.
+Em suas razões, o agravante alega que "Ao contrário do que foi afirmado na r. decisão monocrática agravada, a atual, iterativa e notória jurisprudência do c. STJ é manifestamente favorável à tese sustentada pelo agravante em seus embargos de divergência", pois "Em reiterados julgados, o c. STJ vem sustentando a tese de que a TR não constitui índice de correção monetária, sendo manifestamente ilegal seu emprego para o reajuste de benefício de complementação de aposentadoria, ainda que assim esteja previsto no regulamento da entidade, devendo ser substituída por índice que reflita a inflação verificada no período, in casu, o INPC" (e-STJ fl. 417).
+Ao final, pede a reconsideração da decisão monocrática, ou a apreciação do agravo pelo Colegiado.
+A agravada apresentou contrarrazões (e-STJ fls. 476/487).
+É o relatório.
+Ante a relevância dos argumentos jurídicos deduzidos no agravo interno, assim como pela conveniência de se franquear às partes a possibilidade de sustentar oralmente suas razões perante o Órgão Julgador Colegiado, RECONSIDERO o julgamento, TORNO SEM EFEITO a decisão de fls. 407/410 (e-STJ) e DETERMINO a inclusão do presente recurso especial em pauta para julgamento, na sessão ordinária da Quarta Turma do STJ, do dia 18/4/2022.
