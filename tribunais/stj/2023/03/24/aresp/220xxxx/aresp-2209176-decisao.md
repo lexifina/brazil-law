@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial, com fundamento nas Súmulas 7 e 182 do STJ.
+Nas razões do recurso especial, aponta a defesa negativa de vigência ao disposto nos arts. 33 e 59 do CP, aduzindo que "o juiz poderá fixar o regime inicial de cumprimento de pena em regime semiaberto para os crimes apenados com pena igual ou inferior a 4 anos, se favoráveis as circunstâncias judiciais" (fl. 392).
+Requer, assim, seja conhecido e provido o recurso especial para fixar o regime inicial semiaberto para o cumprimento da pena.
+Apresentada a contraminuta, manifestou-se o Ministério Público Federal pelo conhecimento e provimento do agravo para negar provimento ao recurso especial.
+O recurso é tempestivo e ataca os fundamentos da decisão agravada. Passo, portanto, à análise do mérito.
+O recorrente foi condenado, como incurso no artigo 155, § 4º, inciso II, c.c. o artigo 14, inciso II, ambos do Código Penal, à pena de 1 ano e 4 meses de reclusão, em regime inicial fechado, e ao pagamento de 6 dias-multa.
+No que se refere ao regime prisional, destacou o acórdão (fls. 370-371):
+Resta, então, analisar as penas.
+Nesse mister, a despeito do inegável desvio e personalidade do acusado, que pouco tempo depois da prisão pelo crime em questão voltou a delinquir, quando ainda nem tinha cumprido todas as penas que lhe foram impostas, de fato, a condenação considerada para justificar os maus antecedentes refere-se a fato posterior ao aqui analisado e, portanto, não pode ser considerada para este fim.
+Com isso, a pena base deve retornar para o mínimo legal, mas, na segunda etapa, o aumento aplicado foi bem justificado, valendo lembrar que o réu, inclusive, é multirreincidente específico e a exasperação de 1/3 é justa.
+Em seguida, data venia, o reconhecimento da tentativa autoriza maior redução da reprimenda, pois o acusado foi flagrado em plena execução, quando ainda instalava os dispositivos para captação dos envelopes bancários e não chegou a se apossar de nenhum deles, como também afirmaram os policiais.
+Desse modo, considerado o iter criminis percorrido, onde o acusado já tinha instalado o dispositivo em 4 equipamentos quando foi detido, a redução de metade é a que se revela mais adequada no caso dos autos e a pena, então, chega ao total de 1 ano e 4 meses de reclusão e 6 dias-multa, de valor unitário mínimo.
+No mais, a despeito da redução operada, o regime fechado era mesmo o mais adequado, na esteira do parecer da d. Procuradoria de Justiça, tendo em vista não só a multirreincidência de Leonardo como também as circunstâncias judiciais mencionadas, ainda que não consideradas para o fim de aumentar a pena na primeira etapa da dosimetria, a ponto de afastar a incidência da Súmula nº 269, do Col. Superior Tribunal de Justiça, nos termos do art. 33, § 3º, do Código Penal.
+Verifica-se do excerto acima que o Tribunal de origem deu parcial provimento ao recurso da defesa para retornar a pena-base para o mínimo legal, mantendo, no entanto, o regime inicial fechado.
+Dessa forma, tendo sido a pena estabelecida em patamar inferior a quatro anos, ausentes circunstâncias judiciais desfavoráveis e tratando-se de condenado multirreincidente, cabível a fixação do regime inicial semiaberto.
+Com efeito, admite-se a fixação do regime imediatamente mais gravoso, o semiaberto, com fundamento na reincidência do acusado, por incidência da Súmula 269 do STJ. Nesse sentido: AgRg no HC 691.775/SP, Rel. Ministro JESUÍNO RISSATO (DESEMBARGADOR CONVOCADO DO TJDFT), QUINTA TURMA, julgado em 08/03/2022, DJe 14/03/2022, AgRg no HC 695.205/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 07/12/2021, DJe 13/12/2021.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial, estabelecendo o regime inicial semiaberto.
+P. e I.
