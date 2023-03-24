@@ -1,0 +1,106 @@
+DECISÃO
+Trata-se de recurso especial interposto por VALDIR JOSÉ NASCIMENTO E CIA TRANSPORTES LTDA. com fundamento no artigo 105, III, "a", da Constituição Federal, contra contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"CONTRATO DE TRANSPORTES - Ação de rescisão contratual c.c. cobrança de créditos remanescentes, perdas e danos, lucros cessantes e reparação de danos materiais e morais - Rescisão de maneira unilateral pela ré - Alegadas faltas cometidas pela autora que não configuraram justa causa, tendo a ré aplicado as devidas penalidades à requerente - Bloqueio da ordem de pagamento da última quinzena trabalhada incabível - Ressarcimento de rigor - Multa cabível pelo inadimplemento da ré quanto ao pagamento deste período e pela rescisão imotivada (cláusula 6ª) - Acolhimento da pretensão de reembolso de pedágio - Demais pedidos iniciais que não prosperam - Ação procedente, em parte - Recurso da ré improvido, e provido, em parte, o da autora" (fl. 2.530, e-STJ).
+Os embargos declaratórios foram rejeitados (fls. 2.589-2.593, e-STJ).
+No recurso especial, alega-se violação dos seguintes dispositivos legais com as respectivas teses:
+(i) art. 1.022, II, do CPC/2015, existência de omissões no acórdão recorrido relevantes ao julgamento da lide, notadamente, quanto aos dispositivos tidos por prequestionados;
+(ii) arts. 401 e 421 do CPC/1973, ocorrência de cerceamento de defesa pela negativa de realização de perícia para cálculo do valor da indenização e dos lucros cessantes;
+(iii) art. 473, parágrafo único, do CC, ante a rescisão unilateral do contrato, sem que transcorresse prazo compatível aos consideráveis investimentos feitos pela recorrente para sua execução;
+(iv) arts. 421, 422 e 423 do CC, haja vista a necessidade de notificação prévia para a rescisão do contrato, em observância aos princípios da função social do contrato e da boa-fé, o contrato deve se interpretar de modo a assegurar o pagamento de aviso prévio;
+(v) arts. 402 e 403 do CC, necessidade de condenação da recorrida a reparação pelos lucros cessantes a serem apurados;
+(vi) arts. 186 e 927, parágrafo único, do CC, dever da recorrida pela reparação dos danos materiais advindos dos furtos nos caminhões da recorrente em posse da recorrida no seu estacionados;
+(vii) arts. 186, 187 e 927 do CC, ao entendimento da ocorrência de danos morais indenizáveis;
+(vii) art. 21 do CPC/1973, haja vista a sucumbência recíproca, esta deve ser repartida por equidade e fixada sobre o valor da condenação.
+Assevera, ainda, ofensa a Súmula nº 227 deste Superior Tribunal de Justiça.
+Contrarrazões às fls. 2.689-2.705, e-STJ.
+O agravo em recurso especial foi provido.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+O argumento de que o acórdão atacado teria incorrido em negativa de prestação jurisdicional é improcedente. Não há falar em negativa de prestação jurisdicional, se o Tribunal de origem indica adequadamente os motivos que lhe formaram o convencimento, decidindo de forma clara, precisa e completa as questões relevantes do processo, embora contrariando a pretensão da parte recorrente.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DANOS MATERIAIS. BENFEITORIAS EM IMÓVEL. EFEITO SUSPENSIVO. REQUISITOS. AUSÊNCIA. ART. 1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO. EFEITOS MODIFICATIVOS. POSSIBILIDADE.
+1. A atribuição de efeito suspensivo a recurso especial está circunscrita à presença cumulativa dos requisitos da plausibilidade do direito invocado e no perigo de dano irreparável ou de difícil reparação, que não se fazem presentes na hipótese.
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. É possível a atribuição de efeitos infringentes aos embargos de declaração quando a alteração da decisão surgir como consequência lógica da correção da omissão, contradição ou obscuridade.
+4. Agravo interno não provido" (AgInt no AREsp 1.070.607/RN, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 25/8/2017 - grifou-se).
+Conforme a Súmula nº 518/STJ: "Para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula".
+O indeferimento de prova pericial não enseja cerceamento de defesa, quando a decisão do magistrado, que é destinatário final da instrução, está fundamentada em outras provas suficientes ao deslinde da controvérsia. Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SÚMULA 182/STJ. NÃO INCIDÊNCIA. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. PLANO DE SAÚDE. HOME CARE. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL DESPROVIDO.
+1. "Conforme jurisprudência deste Sodalício, não há cerceamento de defesa quando o eg. Tribunal estadual, de forma fundamentada, afasta a necessidade de prova pericial" (AgInt no AREsp n. 1.848.285/RS, relator Ministro RAUL ARAÚJO, QUARTA TURMA, j. em 28/3/2022, DJe de 3/5/2022).
+(..)
+3. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial" (AgInt no AREsp 1.649.729/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 17/10/2022, DJe de 21/10/2022).
+Ressalta-se que
+"Consoante orientação do Superior Tribunal de Justiça, "a pretensão recursal de reconhecimento de cerceamento de defesa pela indispensabilidade da prova pericial para a resolução do caso em exame exigiria o revolvimento e a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, reinterpretação de cláusula contratual, questionando o convencimento motivado do magistrado, situação que faz incidir o enunciado de Súmulas 5 e 7 do STJ" (AgInt no REsp 1864319/MG, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 14/03/2022, DJe 18/03/2022)" (AgInt nos EDcl no REsp 1.991.527/TO, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 22/8/2022, DJe de 24/8/2022).
+Quanto à indenização pelos investimentos realizados, o TJSP, mantendo a sentença por seus próprios fundamentos, assim dispôs:
+"Da mesma forma, não há que se falar em reembolso à autora dos investimentos referentes às trocas de frota de caminhões.
+Primeiramente, porque a autora tinha ciência que a ré poderia solicitar substituição ou aumento da quantidade de veículos disponibilizados e que a ré d everia deixar em dia a manutenção dos caminhões, sendo necessária, para tanto, a realização de trocas periódicas de sua frota, uma vez que isto estava previsto no contrato, nas cláusulas 2.7 e 2.8.
+No mais, as despesas com rastreamento de cargas também não estão previstas contratualmente como despesas de responsabilidade da ré.
+E ainda que se afirme que tais serviços eram de interesse exclusivo da ré, uma vez que garantiam a segurança do transporte, a previsão contratual demonstra que a autora conhecia das necessidades da ré, que somente contrataria empresa que possuísse toda aquela estrutura.
+Fato é que, no momento em que a autora assinou o contrato de prestação de serviços de transporte c om a ré, assumiu que possuía toda a infraestrutura necessária (ou providenciaria tal) para a devida prestação dos serviços" (fls. 2.537-2.538, e-STJ).
+Como se vê, a Corte de origem solucionou a questão à luz do contrato celebrado entre as partes, bem como do conjunto fático-probatório dos autos, o que inviabiliza o recurso especial em razão da incidência das Súmulas nºs 5 e 7/STJ. A propósito:
+"CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. AUSÊNCIA. PRODUÇÃO DE PROVAS. INDEFERIMENTO. CERCEAMENTO DO DIREITO DE DEFESA NÃO CONFIGURADO. NECESSIDADE DA PROVA. CONJUNTO FÁTICO-PROBATÓRIO. REEXAME. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. DESCUMPRIMENTO CONTRATUAL. INDENIZAÇÃO. EXTENSÃO. PROVAS. REAVALIAÇÃO. DESCABIMENTO. CLÁUSULAS CONTRATUAIS. INTERPRETAÇÃO VEDADA. SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+(..)
+4. A Corte de origem entendeu competir ao magistrado determinar ou dispensar a produção de provas, analisando sua necessidade para o deslinde da causa. Nesse sentido, concluiu que as provas requeridas não eram necessárias ao julgamento do feito, haja vista presença de elementos suficientes para formar a convicção do juiz e fundamentar sua decisão. Rever tal entendimento, acolhendo a pretensão de reconhecer a imprescindibilidade da dilação probatória, demandaria nova análise da matéria fática, inviável em recurso especial.
+5. No caso concreto, o Tribunal a quo destacou que a parte recorrente contribuiu para o agravamento do prejuízo suportado ao não promover atos visando o cumprimento da obrigação contratual assumida pelo recorrido, ao invés de ajuizar ação temerária. Desse modo, rever as premissas estabelecidas pelas instâncias ordinárias implicaria a análise do contrato e o reexame do conjunto fático-probatório dos autos, o que é vedado pelas Súmulas n. 5 e 7 do STJ.
+6. Agravo interno a que se nega provimento" (AgInt no AREsp 2.059.266/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 15/8/2022, DJe de 18/8/2022 - grifou-se).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. CONTRATO DE PRESTAÇÃO DE SERVIÇOS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. ROUBO DE CARGAS. RESPONSABILIDADE DA TRANSPORTADORA. INEXISTÊNCIA. REVISÃO. IMPOSSIBILIDADE. SÚMULAS NºS 5 E 7/STJ.
+(..)
+3. Na hipótese, rever o entendimento das instâncias ordinárias, de que a transportadora não é responsável pelos prejuízos decorrentes do roubo das cargas transportadas, demandaria a análise de fatos, provas e cláusulas contratuais, procedimentos inviáveis em recurso especial pela incidência das Súmulas nºs 5 e 7/STJ.
+4. Agravo interno não provido" (AgInt no AREsp 1.588.724/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 30/3/2020, DJe de 7/4/2020).
+Com relação à necessidade de aviso prévio, a Corte local assim entendeu:
+"Dessa forma, se para cada uma dessas infrações lhe era aplicada uma penalidade, não é razoável que, após anos com tal conduta, venha a ré, em determinado momento, argumentar que isto era motivo o bastante para o desfazimento unilateral do contrato, sem qualquer aviso prévio, configurando-se justa causa.
+Por óbvio que a ré tinha todo o direito de romper o contrato de maneira unilateral.
+No entanto, deveria ter observado as disposições contratuais que estabeleciam o dever de aviso prévio e, se não o fez, deve arcar com a multa ali prevista, não havendo que se falar que as falhas na prestação de serviços ora alegadas foram o bastante a justificar a rescisão por justa causa" (fl. 2.534, e-STJ).
+Nesse sentido, não há interesse da recorrente em obter provimento jurisdicional já alcançado. A propósito, confiram-se: AgInt no AREsp 1.900.868/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 22/11/2022, DJe de 29/11/2022; AgInt no AREsp 1.970.104/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 12/9/2022, DJe de 19/9/2022.
+No que concerne aos lucros cessantes, o acórdão recorrido concluiu que
+"Quanto aos lucros cessantes, além de não haver quaisquer provas de sua ocorrência e os lucros cessantes não podem ser presumidos - também não se configura responsabilidade da ré por eventuais problemas que a autora tenha tido para dar continuidade a sua atividade e dificuldade para se reestruturar, uma vez que a rescisão imotivada será devidamente reparada pela aplicação da multa.
+Caso tal reparação não seja suficiente, até porque dos relatos da autora tem-se que foi necessária a demissão de todos os funcionários, uma vez que não havia demanda para tanto, além da venda de todos os caminhões, este é ônus que deve ser arcado pela autora, decorrente do risco da própria atividade" (fl. 2.540, e-STJ).
+De fato, os lucros cessantes não são presumíveis na hipótese, o que atrai a aplicação da Súmula nº 83/STJ quanto ao ponto. Ressalta-se que a modificação da conclusão acima transcrita esbarra no óbice da Súmula nº 7/STJ. Veja-se:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LUCROS CESSANTES. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83 DO STJ. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. Os lucros cessantes devem ser efetivamente comprovados, não se admitindo lucros presumidos ou hipotéticos.
+2. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n. 83/STJ).
+3. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+4. Agravo interno a que se nega provimento" (AgInt no AREsp 2.061.190/PR, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 15/8/2022, DJe de 18/8/2022).
+"RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL C/C INDENIZAÇÃO POR PERDAS E DANOS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. CONDENAÇÃO EM LUCROS CESSANTES. LIQUIDAÇÃO POR ARBITRAMENTO. FIXAÇÃO DO VALOR DEVIDO PELA PERDA DA CHANCE. VIOLAÇÃO DA COISA JULGADA. PESSOA JURÍDICA QUE NUNCA EXERCEU ATIVIDADE EMPRESARIAL. LAUDO PERICIAL BASEADO EM DANO HIPOTÉTICO. LUCROS CESSANTES NÃO COMPROVADOS. JULGAMENTO: CPC/15.
+(..)
+4. De acordo com o CC/02, os lucros cessantes representam aquilo que o credor razoavelmente deixou de lucrar, por efeito direto e imediato da inexecução da obrigação pelo devedor.
+5. A perda de uma chance não tem previsão expressa no nosso ordenamento jurídico, tratando-se de instituto originário do direito francês, recepcionado pela doutrina e jurisprudência brasileiras, e que traz em si a ideia de que o ato ilícito que tolhe de alguém a oportunidade de obter uma situação futura melhor gera o dever de indenizar.
+6. Nos lucros cessantes há certeza da vantagem perdida, enquanto na perda de uma chance há certeza da probabilidade perdida de se auferir uma vantagem. Trata-se, portanto, de dois institutos jurídicos distintos.
+7. Assim feita a distinção entre os lucros cessantes e a perda de uma chance, a conclusão que se extrai, do confronto entre o título executivo judicial - que condenou a ré à indenização por lucros cessantes - e o acórdão recorrido - que calculou o valor da indenização com base na teoria perda de uma chance - é a da configuração de ofensa à coisa julgada.
+8. Especificamente quanto à hipótese dos autos, o entendimento desta Corte é no sentido de não admitir a indenização por lucros cessantes sem comprovação e, por conseguinte, rejeitar os lucros hipotéticos, remotos ou presumidos, incluídos nessa categoria aqueles que supostamente seriam gerados pela rentabilidade de atividade empresarial que sequer foi iniciada.
+9. Recurso especial de OPTICAL SUNGLASSES LTDA conhecido e desprovido. Recurso especial de VERPARINVEST S/A conhecido e provido" (REsp 1.750.233/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 5/2/2019, DJe de 8/2/2019).
+Quanto aos supostos furtos, o TJSP verificou que "É que não logrou êxito a autora em comprovar que tais furtos de fato ocorreram e que, tendo ocorrido, foram praticados por prepostos da ré" (fl. 2.540, e-STJ). Rever essa premissa é providência que esbarra na Súmula nº 7/STJ.
+Quanto aos danos morais alegados, assim ficou decidido:
+"Por fim, os danos morais realmente não se caracterizaram na espécie, já que não comprovado qualquer abalo na honra objetiva da requerente na qualidade de pessoa jurídica, uma vez que a mera rescisão unilateral, ainda que desmotivada, não basta" (fl. 2.542, e-STJ).
+Nesse particular incide o óbice das Súmulas nºs 7 e 83/STJ. A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRESTAÇÃO DE SERVIÇOS EDUCACIONAIS. COBRANÇA. MENSALIDADE. DESCONTO. AUSÊNCIA. DESCUMPRIMENTO CONTRATUAL. DANO MORAL. NÃO CONFIGURAÇÃO. REEXAME DE PROVAS. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Na hipótese, inviável modificar o quadro fático delineado pelo acórdão recorrido acerca da ausência de danos morais decorrentes do descumprimento contratual. Incidência da Súmula nº 7/STJ.
+3. A jurisprudência desta Corte é no sentido de que o mero descumprimento contratual não enseja indenização por dano moral.
+4. Agravo interno não provido" (AgInt no AREsp 2.052.256/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 10/10/2022, DJe de 17/10/2022).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE LOCAÇÃO. MERO DESCUMPRIMENTO CONTRATUAL. DANO MORAL NÃO CONFIGURADO. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência consolidada do STJ entende inexistir dano moral pelo mero descumprimento contratual, exceto quando verificada situação peculiar, apta a justificar o reconhecimento de violação a direitos da personalidade. Precedentes.
+2. A Corte Estadual, no presente caso, concluiu pela inexistência de ato ilícito praticado pelo recorrido, senão mero descumprimento contratual incapaz de render ensejo à indenização por danos morais.
+A reforma do aresto, neste aspecto, demanda inegável necessidade de reexame de matéria probatória, providência inviável de ser adotada em sede de recurso especial, ante o óbice da Súmula 7 desta Corte.
+3. Agravo interno não provido" (AgInt no AREsp 2.009.274/DF, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 13/6/2022, DJe de 17/6/2022).
+Por fim, no que diz respeito à sucumbência, a Corte local destacou que
+"Tão bem lançada a sentença que pontos que poderiam gerar alguma discussão sequer foram rebatidos pelas partes. A própria disciplina da sucumbência foi eficazmente equacionada, diante do resultado da demanda" (fl. 2.542, e-STJ).
+Com efeito, "A análise do quantitativo em que autor e réu saíram vencedores ou vencidos na demanda, bem como da existência de sucumbência mínima ou recíproca, esbarra no óbice da Súmula nº 7/STJ" (AgInt no AgInt no AREsp 1.800.732/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 10/10/2022, DJe de 17/10/2022). Nesse mesmo sentido:
+"AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE INDENIZAÇÃO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO RECURSAL DOS DEMANDANTES.
+(..)
+6. Nos termos da jurisprudência desta Corte a aferição do percentual em que cada litigante foi vencedor ou vencido ou a conclusão pela existência de sucumbência mínima ou recíproca das partes é questão que não comporta exame em recurso especial, por envolver aspectos fáticos e probatórios, incidindo o óbice da Súmula 7/STJ.
+(..)
+8. Agravo interno parcialmente provido, tão somente para que os juros de mora sobre a verba indenizatória incidam desde o evento danoso" (AgInt no REsp 1.679.413/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 28/11/2022, DJe de 2/12/2022).
+Assim, o recurso especial não merece prosperar.
+Não cabe, na hipótese, a majoração dos honorários sucumbenciais prevista no art. 85, § 11, do Código de Processo Civil de 2015, pois o recurso tem origem em sentença proferida sob a égide do CPC/1973. Nesse sentido:
+"EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. DIREITO INTERTEMPORAL: ART. 20 DO CPC/1973 VS. ART. 85 DO CPC/2015. NATUREZA JURÍDICA HÍBRIDA, PROCESSUAL E MATERIAL. MARCO TEMPORAL PARA A INCIDÊNCIA DO CPC/2015. PROLAÇÃO DA SENTENÇA. PRESERVAÇÃO DO DIREITO ADQUIRIDO PROCESSUAL.
+1. Em homenagem à natureza processual material e com o escopo de preservar os princípios do direito adquirido, da segurança jurídica e da não surpresa, as normas sobre honorários advocatícios de sucumbência não devem ser alcançadas pela lei processual nova. 2. A sentença (ou o ato jurisdicional equivalente, na competência originária dos tribunais), como ato processual que qualifica o nascedouro do direito à percepção dos honorários advocatícios, deve ser considerada o marco temporal para a aplicação das regras fixadas pelo CPC/2015.
+3. Assim, se o capítulo acessório da sentença, referente aos honorários sucumbenciais, foi prolatado em consonância com o CPC/1973, serão aplicadas essas regras até o trânsito em julgado.
+Por outro lado, nos casos de sentença proferida a partir do dia 18.3.2016, as normas do novel diploma processual relativas a honorários sucumbenciais é que serão utilizadas.
+4. No caso concreto, a sentença fixou os honorários em consonância com o CPC/1973. Dessa forma, não obstante o fato de o Tribunal de origem ter reformado a sentença já sob a égide do CPC/2015, incidem, quanto aos honorários, as regras do diploma processual anterior.
+5. Embargos de divergência não providos" (EAREsp 1.255.986/PR, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 20/3/2019, DJe de 6/5/2019).
+Ante o exposto, conheço em parte do recurso e, nessa parte, nego-lhe provimento.
+Publique-se.
+Intimem-se.
