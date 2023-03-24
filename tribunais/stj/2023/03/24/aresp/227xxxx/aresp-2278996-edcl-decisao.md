@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por CONSTRUTORA EPURA LTDA. à decisão de fl. 405, que determinou a baixa dos presentes autos ao tribunal de origem, tendo em vista a interposição de agravo interno.
+Alega a embargante que incorreu em erro material ao designar a peça recursal. No entanto, argumenta que "as matérias rebatidas estão naquelas previstas no art. 1.042 do CPC, não sendo o caso de agravo interno do art. 1.021 do CPC." (fl. 408)
+Requer, por fim, "considerando o princípio da fungibilidade, da instrumentalidade das formas, da primazia do mérito e da sanabilidade dos atos processuais", sejam os presentes embargos acolhidos, para que se processe o recurso como agravo em recurso especial.
+A parte embargada foi devidamente intimada para contrarrazoar estes aclaratórios, tendo apresentado impugnação no prazo estabelecido. (fls. 413/414)
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+De início, observa-se que a embargante não abordou, de forma técnica, os vícios previstos no art. 1.022 do CPC.
+Como se vê, a argumentação por ela desenvolvida não atende o objetivo da norma processual, pois não aborda tecnicamente nenhum vício que, caso presente, daria respaldo a essa espécie recursal.
+Em sua explanação, é possível verificar, ao revés, apenas sua insatisfação em relação à decisão embargada, buscando, por essa via, um caminho alternativo para o conhecimento do agravo, bem como justificar o próprio erro em que incorreu.
+Feita essa observação, cumpre assinalar que a Terceira Vice-Presidente do tribunal de origem inadmitiu o recurso especial com base no art. 1.030, V, do Código de Processo Civil. (fls. 379/381)
+Contra essa decisão, a parte embargada interpôs recurso nominado "agravo interno." (fl. 384)
+Malgrado o equívoco na escolha da espécie recursal, o tribunal de origem recebeu o recurso como agravo em recurso especial, determinando a subida dos autos ao Superior Tribunal de Justiça. (fl. 401)
+No entanto, ao contrário do que sustenta a parte embargante, não se trata de mero erro material, e sim de interposição de espécie recursal completamente divorciada dos elementos constantes dos autos que, como bem se vê, estavam a autorizar a interposição de agravo em recurso especial, previsto no art. 1.042 do CPC.
+No ponto, cumpre salientar que é da nossa jurisprudência que "a interposição do agravo previsto no art. 1.021 do CPC de 2015 quando cabível o agravo do art. 1.042 do mesmo codex, e vice-versa, configura erro grosseiro e leva ao não conhecimento do recurso erroneamente interposto" (REsp n. 1.926.705/AL, relator Ministro Gurgel de Faria, DJe de 30/3/2021), o que impossibilita o reconhecimento do erro como escusável e, por conseguinte, a aplicação do princípio da fungibilidade.
+Portanto, equivocada a decisão do Tribunal a quo que recebeu o presente agravo interno como agravo em recurso especial, razão pela qual determinou-se a baixa dos autos à origem, orientação que aqui se mantém.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
