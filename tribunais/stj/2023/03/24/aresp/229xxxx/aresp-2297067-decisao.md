@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por FUNDAÇÃO CORSAN DOS FUNCIONÁRIOS DA COMPANHIA RIOGRANDENSE DE SANEAMENTO CORSAN, contra decisão que negou seguimento a recurso especial fundamentado na alínea "a" do permissivo constitucional.
+Agravo em Recurso Especial interposto em: 08/12/2022.
+Concluso ao gabinete em: 17/03/2023.
+Ação: revisional de contrato, ajuizada por MARCIO REBESCHINI, em face da agravante, na qual alega - em síntese - ser mantenedor beneficiário desta, tendo celebrado contrato de empréstimo com desconto em folha de pagamento. Sustentou a incidência de juros acima do limite legal, com fundamento nos arts. 406 do CC/02 c/c 161, § 1º do CTN, bem como capitalização dos juros mensalmente, o que deve ser afastado em face da não contratação e do descabimento de anatocismo.
+Sentença: julgou parcialmente procedentes os pedidos, para declarar:
+i) a abusividade das taxas de juros remuneratórios praticados pela agravante, que excederam o limite de 12% ao ano (1% ao mês); e
+ii) condenar a agravante a restituir, na forma simples, os valores pagos a maior correspondentes à taxa de juros remuneratórios prevista no contrato n. 47364-1/2013, acrescidos de correção monetária pelos índices do IGP-M, a contar da data de cada pagamento e juros de mora de 1% ao mês, a contar da citação.
+Acórdão: negou provimento à apelação interposta pela agravante, nos termos da seguinte ementa:
+Apelação. Direito privado não especificado. Ação revisional. Preliminar. Sentença "extra petita". Rejeitada. Contrato de mútuo firmado com a Fundação CORSAN. Entidade de previdência privada. Lei Complementar 109/2001. Vedada incidência de juros superiores a 12% ao ano. Proibida a capitalização mensal de juros.
+1. Rejeitada a alegação de que a sentença é "extra petita". Analisando a inicial, em cotejo com o que foi determinado na sentença, é possível verificar que foi determinada apenas a devolução dos valores pagos a maior pelo autor com a correção monetária pelo IGP-M, configurando mera atualização da moeda, não ocorrendo nenhuma substituição de índice de correção monetária estabelecido no contrato.
+2. Tratando-se de entidade de previdência privada fechada, a requerida não pode se valer das disposições legais que regem os contratos firmados com instituições financeiras, motivo pelo qual não pode estipular juros livremente em seus contratos, devendo observar os limites estabelecidos na Lei de Usura (Dec. 22.626/33), cujo art. 1º veda a cobrança de juros superiores a 12% ao ano. Ademais, desde a entrada em vigor Lei Complementar nº 109/2001, como entidade de previdência privada fechada que é, não mais poderia conceder empréstimos aos seus associados. Assim, tendo sido concedido o empréstimo nessas condições, o contrato firmado entre as partes deverá ser avaliado como se mútuo entre particulares fosse, mediante limitação dos juros no patamar de 12% ao ano.
+3. Outrossim, na hipótese dos autos, os demonstrativos analíticos de empréstimo colacionados sinalizam a prática de capitalização mensal, que deve ser afastada ante a proibição do 591 do Código Civil.
+4. A jurisprudência do STJ está consolidada no sentido de admitir a compensação de valores e a repetição do indébito sempre que constatada cobrança indevida do encargo exigido, sem que, para tanto, haja necessidade de ser comprovado erro no pagamento, a fim de ser evitado o enriquecimento ilícito da parte beneficiada.
+Recurso desprovido. (e-STJ, fls. 218/219)
+Embargos de declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega a violação dos arts. 141, 492, e 1.022, todos do CPC/15. Além da negativa de prestação jurisdicional, sustenta a ocorrência de julgamento fora dos limites do pedido, tendo em vista a modificação "ex officio" do índice de correção monetária previsto no contrato, devendo, pois, ser restaurado o índice original (INPC).
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC/15
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte. A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente, acerca da ocorrência de capitalização de juros na hipótese, de maneira que os embargos de declaração opostos pela agravante quanto ao ponto, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art.1.022 do CPC/2015, incidindo, quanto ao ponto, a Súmula 568/STJ.
+- Do julgamento fora do pedido (extra petita)
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação dos arts. 141 e 492, ambos do CPC/15. Ademais, na situação em análise, não há julgamento fora do pedido (extra petita), pois a lide foi decidida nos exatos termos em que foi proposta, havendo congruência entre a decisão, o pedido e a causa de pedir.
+Nesse sentir, segue o trecho do acórdão recorrido:
+Sustenta a ré, ora apelante, que a sentença é "extra petita", ao fundamento de que não há pedido na inicial de substituição do índice de correção monetária INPC pelo IGP-M.
+Ao reverso do que alega a apelante, não houve substituição do índice estabelecido no contrato, apenas foi determinada a devolução dos valores pagos a maior com a correção monetária pelo IGP-M, configurando mera recomposição da moeda.
+Assim, vai rejeitada a preliminar. (e-STJ, fl. 213)
+Salienta-se, ainda, que o STJ firmou entendimento no sentido de que cabe ao julgador a interpretação lógico-sistemática do pedido formulado na petição inicial a partir de uma análise de todo o seu conteúdo, e não apenas da parte da petição destinada aos requerimentos finais. Nesse sentido: REsp 1.639.016/RJ, 3ª Turma, DJe de 04/04/2017; EDcl no REsp 1.331.100/BA, 4ª Turma, DJe de 10/08/2016; AgRg no Ag 886.219/RS, 3ª Turma, DJe de 07/05/2008 e REsp 440.221/ES, 4ª Turma, DJ de 11/10/2004.
+Logo, nos termos da Súmula 568/STJ, o acórdão recorrido não merece reforma quanto ao ponto mencionado.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, IV, "a", do CPC/15, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, §11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em R$ 2.000,00 (e-STJ, fl. 217) para R$ 2.200,00, observada eventual concessão de justiça gratuita.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, ambos do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. JULGAMENTO FORA DO PEDIDO (EXTRA PETITA). NÃO CARACTERIZAÇÃO. INTERPRETAÇÃO LÓGICO-SISTEMÁTICA DO PEDIDO. HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. MAJORAÇÃO. 1 . Ação revisional de contrato.
+2. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+3. Não implica julgamento fora do pedido (extra petita) a concessão de tutela jurisdicional que se encontra, ainda que implicitamente, abrangida no pedido formulado na petição recursal, extraída mediante sua interpretação. Súmula 568/STJ.
+4. Agravo conhecido. Recurso especial conhecido e não provido, com majoração de honorários.
