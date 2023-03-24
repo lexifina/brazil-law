@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus impetrado contra acórdão assim ementado (fl. 23):
+APELAÇÃO. PENAL E PROCESSO PENAL. HOMICÍDIO QUALIFICADO (ART. 121, § 2.º, INCISOS I E IV, DO CÓDIGO PENAL) E ORGANIZAÇÃO CRIMINOSA (ART. 2.º, § 2.º, DA LEI 12.850/13). DOSIMETRIA DA PENA.
+1. RECURSO DE HENDRYL OLIVEIRA PARENTE.
+1.1. PRIMEIRA FASE. FUNDAMENTAÇÃO INIDÔNEA DA CULPABILIDADE E ANTECEDENTES DO AGENTE. MANUTENÇÃO DA PENA-BASE ACIMA DO MÍNIMO LEGAL. PRINCÍPIO DO NON REFORMATIO IN PEJUS.
+1.2. SEGUNDA FASE. REAJUSTE DE OFÍCIO DA FRAÇÃO DA ATENUANTE DE CONFISSÃO ESPONTÂNEA PARA 1/6 (UM SEXTO). PRECEDENTES.
+1.3. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+2. RECURSO DE GABRIEL LIMA FRANÇA 2.1. PRIMEIRA FASE. FUNDAMENTAÇÃO INIDÔNEA DA CULPABILIDADE DO AGENTE. MANUTENÇÃO DA PENA- BASE ACIMA DO MÍNIMO LEGAL. PRINCÍPIO DO NON REFORMATIO IN PEJUS.
+2.2. ALEGAÇÃO DE AUSÊNCIA DE ANÁLISE DAS CIRCUNSTÂNCIAS JUDICIAIS RELATIVAS AO CRIME DE ORGANIZAÇÃO CRIMINOSA. INOCORRÊNCIA. ANÁLISE CONJUNTA PELA MAGISTRADA. PRINCÍPIO DA INDIVIDUALIZAÇÃO DA PENA OBSERVADO.
+2.3. PLEITO DE MODIFICAÇÃO DA FRAÇÃO APLICADA A CAUSA DE AUMENTO PELO USO DA ARMA DE FOGO.
+POSSIBILIDADE. AUSÊNCIA DE FUNDAMENTAÇÃO NA SENTENÇA PARA JUSTIFICAR PATAMAR MAIS ELEVADO.
+2.4. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+Consta dos autos que o paciente foi condenado às penas de 20 anos e 10 meses de reclusão, em regime fechado, e 10 dias-multa pela prática dos crimes tipificados nos arts. 121, § 2º, I e IV, do CP, e 2º, § 2º, da Lei 12.850/2013. Interpostos recursos, houve parcial provimento ao recurso defensivo, sendo a reprimenda reduzida para 18 anos, 4 meses e 20 dias de reclusão e 10 dias-multa.
+Sustenta a defesa, em síntese, que a pena-base deve ser fixada no mínimo legal, indicado ser inidônea a fundamentação empenhada para valorar as circunstâncias e consequências do crime.
+Requer a concessão da ordem para que seja reduzida a pena.
+O Ministério Público Federal opinou pelo não conhecimento do writ e, caso conhecido, pela denegação da ordem.
+Quanto à dosimetria da pena, assim foi disposto no acórdão impugnado (fls. 30/31):
+Relativamente ao quantum da reprimenda aplicada, cumpre pontuar que a dosimetria da pena não obedece a uma regra matemática rígida, mas se trata de uma operação realizada com base em elementos concretos dos autos, levada a efeito com certa discricionariedade, ainda que vinculada ao princípio do livre convencimento motivado do julgador, de forma que cada uma das circunstâncias individualmente valoradas pode ter maior ou menor influência no cômputo da pena-base.
+Não obstante a discricionariedade conferida ao julgador, a jurisprudência de nossos Tribunais tem firmado o entendimento de que as circunstâncias judiciais do art. 59 do Código Penal devem ser avaliadas segundo elementos concretos verificados nos autos, isto é, não podem servir de fundamento para exasperação da pena-base conceitos genéricos e abstratos, ou ínsitos ao próprio tipo penal, cuja reprovabilidade já se encontra sopesada na cominação legal da pena pelo legislador.
+Na hipótese vertente, observa-se que a Juíza singular valorou negativamente as vetoriais da culpabilidade e antecedentes dos agentes, bem como circunstâncias e consequências do crime, porém verifico que quase todas as considerações tecidas são genéricas e poderiam servir para qualquer sentença de homicídio, o que não se admite.
+A culpabilidade se relaciona à censurabilidade da conduta, medindo o seu grau de reprovabilidade diante dos elementos concretos disponíveis no caso em julgamento.
+Está ligada à intensidade do dolo ou grau de culpa do agente.
+No caso, tenho como incorreta a valoração negativa, posto que considerou somente a possibilidade de conduta diversa, o que é ínsito a qualquer delito.
+Quanto aos antecedentes do agente, a jurisprudência desta Corte e do Superior Tribunal de Justiça já firmaram entendimento de que a aferição negativa dos antecedentes, da conduta social ou da personalidade do agente, com fulcro em inquéritos policiais ou ações penais em andamento, fere o princípio da presunção de inocência (Súmula nº 444 do STJ).
+Quanto ao réu Hendryl, deve ser decotada tal vetorial, posto que o processo 0185685-45.2017.8.06.0001 não havia transitado em julgado na data do crime. Por outro lado, quanto ao réu Gabriel, deve-se manter a valoração negativa, posto que já condenado definitivamente pelo processo 0057193-74.2013.8.06.0001 na data do crime sob análise nestes autos.
+Já, quanto às circunstâncias do crime referem-se ao modus operandi, como local da ação, as condições e o modo de agir, a atitude assumida pelo autor no decorrer da realização do fato etc. No caso em apreço, as circunstâncias demonstram uma maior ousadia do sentenciado em sua execução, uma vez que praticado em concurso de agentes e com pluralidade de disparos da mesma arma de fogo. Tudo isso leva a valorar negativamente esta circunstância.
+Por fim, as consequências do crime, como "a extensão do dano produzido pela prática criminosa, sua repercussão para a própria vítima e seus parentes, ou para a comunidade ( ) quando não forem elementares do tipo, ou seja, essenciais à figura típica"1 , foram valoradas negativamente também de maneira correta, porquanto o homicídio foi fruto de disputa entre facções, extrapolando o ínsito ao próprio delito. Assim, mantenho esse vetorial.
+Como visto, verifica-se que foi mantido o aumento da pena-base do crime de homicídio qualificado pelo Tribunal de origem consignando ser válida valoração das circunstâncias e consequências do crime.
+A orientação jurisprudencial desta Corte é no sentido de que "A valoração negativa de circunstância judicial que acarreta exasperação da pena-base deve estar fundada em elementos concretos, não inerentes ao tipo penal" (AgRg no AREsp 1672105/MS, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 25/08/2020, DJe 01/09/2020).
+Verificou-se serem graves as circunstâncias nas quais os crimes foram praticados. Segundo consta do acórdão, "uma vez que praticado em concurso de agentes e com pluralidade de disparos da mesma arma de fogo" (fl. 31), tais fatores demonstram a existência de fundamentação concreta para dar maior valoração das circunstâncias do crime.
+Além disso, "Em relação às consequências do delito, que devem ser entendidas como o resultado da ação do agente, a avaliação negativa de tal circunstância judicial mostra-se escorreita se o dano causado ao bem jurídico tutelado se revelar superior ao inerente ao tipo penal." (AgRg no AREsp n. 2.237.582/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 14/2/2023, DJe de 27/2/2023.). Assim, se fez referência ao fato do delito ter sido praticado em contexto de guerra de facções rivais, situação a demonstrar que os resultados superam aqueles abstratamente previstos para o crime em comento.
+Portanto, a exasperação da pena não ocorreu sem fundamentação, encontrando-se o acórdão impugnado em conformidade com o entendimento jurisprudencial desta Corte Superior.
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
