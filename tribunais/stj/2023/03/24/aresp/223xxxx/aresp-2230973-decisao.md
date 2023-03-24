@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (e-STJ, fl. 364):
+APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA - INEXIGIBILIDADE DE DESCONTOS EM BENEFÍCO PREVIDENCIÁRIO - EXTINÇÃO COM RESOLUÇÃO DO MÉRITO - VICIO DE REPRESENTAÇÃO - PARTE QUE DESCONHECE O PATRONO - INEXISTÊNCIA DE PODERES VÁLIDOS -AUSÊNCIA DE PRESSUPOSTO DE VALIDADE - RECURSO NÃO CONHECIDO. O advogado não pode postular nos autos sem instrumento de mandato, salvo nos casos excepcionados pela legislação processual. Se a parte autora, intimada pessoalmente, declara que não conhece o advogado, a ação carece do pressuposto processual de validade de representação processual. Na esteira do "contraditório útil", segundo enunciado n. 3 da ENFAM, "é desnecessário ouvir as partes quando a manifestação não puder influenciar na solução da causa" (STJ, AREsp 1177414, Relator Ministro SÉRGIO KUKINA, Data da Publicação: 23/10/2017).
+Opostos embargos de declaração pela parte recorrida, foram acolhidos, conforme se verifica da ementa abaixo transcrita (e-STJ, fl.386):
+EMBARGOS DE DECLARAÇÃO - OMISSÃO - CONSTATAÇÃO - SUPRESSÃO -PAGAMENTO DAS CUSTAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS IMPOSTO AO ADVOGADO QUE JUNTOU PROCURAÇÃO INVÁLIDA - ART. 104 DO CPC/15. Os embargos de declaração se prestam a suprir omissão nas decisões judiciais (CPC, art. 1.022). Constatada omissão atinente à regra do art. 104, §2º do CPC/15 acolhem-se os embargos declaratórios para impor a obrigação de pagar as custas processuais e os honorários sucumbenciais ao advogado que praticou ato considerado ineficaz em razão da juntada de instrumento inválido de representação.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 105, 319, e, 320, do Código de Processo Civil; ao art. 5º da Lei n. 8.906/1994; bem como divergência jurisprudencial.
+Afirma que é incorreta a declaração de inépcia da inicial, porquanto presentes os requisitos dos arts. 319 e 320 do CPC.
+Aduz que a penalidade aplicada ao causídico subscritor da inicial é equivocada, uma vez que existe um mandato de procuração outorgado ao advogado pela parte.
+Contrarrazões apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+No caso, a Corte local concluiu pela irregularidade de representação do advogado da parte autora, de acordo com os seguintes fundamentos (e-STJ, fls. 367/371):
+Evidencia-se que o subscritor das peças processuais, desde a petição inicial, carece de poderes de representação em nome da parte Autora (Apelante), não sendo admitido postular nos autos sem instrumento de mandato, salvo nos casos excepcionados pelo CPC/15:
+(..)
+No caso, a parte Autora (Apelante) foi intimada pessoalmente para esclarecer se outorgou poderes ao patrono e informou ao Oficial de Justiça que "tem conhecimento da ação em seu nome, confirma sua assinatura na procuração, que autorizou o ingresso da ação, que não sabe quantas ações existem em seu nome, que não conhece o advogado Luiz Fernando Cardoso Ramos, que nunca foi em seu escritório, e não sabe onde fica, que foi procurado em sua residência por uma secretaria que informou ser do escritório do referido advogado, que não lembra seu nome e informou também que tem interesse em ajuizar a ação" (ordem n.20).
+Como se vê, não há como admitir a validade da "procuração", pois a parte Autora (Apelante) foi procurada em sua residência por "intermediadora" do patrono, sem prévia solicitação dos serviços advocatícios e que não conhece o advogado. Oportuno registrar que o Estatuto da Advocacia (Lei 8.906/94) regula a prática da profissão e assim dispõe:
+"Art. 34. Constitui infração disciplinar:
+(..)
+IV -angariar ou captar causas, com ou sem a intervenção de terceiros;"
+Veja-se que referido estatuto veda expressamente a captação de clientes, não podendo ser aceito o mandato confiado a pessoa que não o próprio patrono, pois segundo a lição de Silvio Rodrigues "o mandato é contrato intuito personae, no sentido de que é baseado na confiança que decerto o mandatário inspira ao mandante" (dos contratos e das declarações unilaterais de vontade Saraiva, 1978, pag. 289).
+Data venia,a forma que o procurador Luiz Fernando Cardoso Ramos, OAB/MG 190.952, recebeu poderes para o ajuizamento da ação ocorreu de forma irregular/ilícita e, portanto, não é válida a procuração obtida em desconformidade com a regulamentação da advocacia.
+Em caso semelhante, o TJ/SP confirmou a sentença proferida nos autos n. 1008641-59.2017.8.26.0132que extinguiu feito sem resolução de mérito, diante da irregularidade da representação processual da parte Autora que sequer conhecia pessoalmente o advogado. A propósito, a ementa do julgado:
+(..)
+Destaca-se que o fato de a parte Autora (Apelante) "confirmar" por qualquer meio a assinatura dos documentos não tem o condão de sanar a irregularidade e validar a representação, porquanto a origem do vínculo possui mácula já que realizado por interposta pessoa.
+Registra-se que não se trata de incapacidade postulatória, mas sim ausência de poderes de representação, conforme distinção por Fredie Didier Jr. em seu Curso de Direito Processual Civil, que torna o ato ineficaz e conduz à extinção do feito (Curso de Direito Processual Civil. Vol. I, 18ª ed. Salvador: Juspodivm, 2016, p. 338/339):
+(..)
+Importante consignar que a situação se difere da irregularidade da representação, prevista no artigo 76, §2º, do CPC/15, tendo em vista que, como dito, tem-se uma situação em que o advogado estaria pleiteando direito alheio.
+Nesse contexto, entende-se que não se pode conhecer do recurso, ficando mantida a improcedência do pedido.
+Diante do exposto, acolhe-se a preliminar suscitada para não conhecer do recurso.
+Com efeito, alterar a conclusão do acórdão recorrido quanto à ausência de procuração válida, com a condenação do advogado ao pagamento das custas processuais, demandaria o reexame do conjunto fático probatório, providência vedada em razão do óbice da Súmula 7/STJ.
+Ademais, no tocante à ofensa aos arts. 319 e 320 do CPC, verifico que a Corte local não emitiu juízo de valor quanto à alegação de ausência de inépcia da inicial, bem como não foram opostos embargos de declaração para sanar a omissão, o que impossibilita o julgamento da matéria em razão da ausência do necessário prequestionamento, a teor do disposto na Súmula 282/STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites previstos nos §§ 2º e 3º do referido dispositivo legal.
+Intimem-se.
