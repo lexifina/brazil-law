@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por FGR URBANISMO S/A, FGR INCORPORAÇÕES S/A e FGR URBANISMO NATAL SPE LTDA, contra decisão que negou seguimento a recurso especial fundamentado na alínea "a", do permissivo constitucional.
+Agravo em recurso especial interposto em: 11/04/2022.
+Concluso ao gabinete em: 17/03/2023.
+Ação: de resolução de contrato c/c restituição das quantias pagas c/c perdas e danos e pedido de tutela de urgência, ajuizada por RPX INCORPORAÇÕES LTDA, em desfavor de FGR URBANISMO NATAL SPE LTDA.
+Sentença: indeferiu a tutela provisória requerida e julgou parcialmente procedente o pedido formulado inicial, pa ra: a) condenar a empresa demandada ao reembolso do valor de R$ 79.223,66, referente aos valores vertidos para a compra do bem imóvel discutido nos autos, o qual deverá ser compensado com retenção de 10% (taxa contratual) acrescida dos emolumentos e taxas totais necessários para a transferência definitiva da propriedade em nome da empresa demandada.
+Acórdão: negou provimento à apelação interposta pelos agravantes , nos termos da seguinte ementa:
+"CIVIL E PROCESSO CIVIL. APELAÇÃO CÍVEL EM AÇÃO DE RESOLUÇÃO DE CONTRATO C/C RESTITUIÇÃO DE QUANTIAS PAGAS E PERDAS E DANOS. PRELIMINAR DE CERCEAMENTO DE DEFESA. REJEIÇÃO. SENTENÇA DE PROCEDÊNCIA PARCIAL. CONTRATO DE ALIENAÇÃO FIDUCIÁRIA EM GARANTIA DE BEM IMÓVEL. INCIDÊNCIA DOS ARTIGOS 26 E 27 DA LEI Nº 9.514/97. PROPOSTA DE DAÇÃO EM PAGAMENTO QUE NÃO PODE PREJUDICAR A PARTE DEVEDORA QUANTO À PERDA DO SEU DIREITO DE PROPRIEDADE SEM A DEVOLUÇÃO DO VALOR PAGO, SOB PENA DE ENRIQUECIMENTO ILÍCITO DA PARTE CREDORA. CONHECIMENTO E DESPROVIMENTO DO RECURSO." (e-STJ fl. 556).
+Embargos de declaração: opostos pelos agravantes, foram rejeitados.
+Recurso especial: alegaram ofensa aos arts. 26 e 27 da Lei 9.514/97; 1.022, II, do CPC/2015; sustentando: omissão do julgado ao não se manifestar sobre a não ocorrência da dação em pagamento; ii) que a execução da garantia da alienação fiduciária prevista no contrato foi devidamente executada; iii) que houve a notificação do agravado para fins de purgação da mora, no endereço constante do contrato e em demais endereços constantes do cadastro do cliente, sendo que a empresa devedora se manteve inerte; iv) que diante de ausência de purgação da mora, a propriedade do imóvel consolidou-se em favor da credora fiduciária; v) que não, dispensou a tentativa de venda do bem; vi) que não há previsão contratual para adquirente perca a totalidade dos valores pagos, mas tão somente para que a rescisão ocorra com a consolidação da propriedade em nome das agravantes, ao passo que a restituição à agravada ocorreria após a venda do imóvel no leilão, caso houvesse valor a restituir; vii) que o interesse de rescindir o contrato manifestado pela agravada equivale à mora; viii) a inaplicabilidade do CDC à hipótese dos autos, devendo ser reconhecida a ofensa aos 26 e 27/Lei 9.514/97, por ser a legislação especial que deve ser aplicada na presente hipótese.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC/2015
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente, acerca dos motivos que o levaram ao afastamento das alegações acerca da dação em pagamento, ainda que contrariamente às pretensões do agravante, de maneira que os embargos de declaração por ele opostos, de fato não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC/2015, incidindo, quanto ao ponto, a Súmula 568/STJ.
+- Da falta de prequestionamento
+No que se refere às alegações acerca da notificação do agravado para a purgação da mora; da sua inércia ao não purgar a mora e quanto ao interesse seu interesse em rescindir o contrato equivaler à mora, não foram objeto de debate pelo Tribunal de origem, tampouco foram opostos embargos de declaração para ver suprida eventual omissão sobre o tema, atraindo, quanto ao ponto, o óbice das Súmulas 282 e 356/STF.
+- Do reexame fático-probatório
+A alteração do que ficou decidido no acórdão recorrido quanto à alegações de inexistência de dispensa da tentativa de venda do bem e das disposições contratuais relativas à rescisão, à venda do imóvel e à restituição de valores, exigiria o reexame fático probatório dos autos e a interpretação das cláusulas contratuais, o que é inadmissível nesta via especial, a teor das Súmulas 5 e 7/STJ.
+- Da deficiência na fundamentação do recurso
+Por fim, no que se refere às alegações de inaplicabilidade do CDC à hipótese dos autos, extrai-se d acórdão recorrido:
+"No tocante ao mérito, ressalte-se que a Lei nº 9.514/1997, que instituiu a alienação fiduciária de bens imóveis, é norma especial e posterior ao Código de Defesa do Consumidor - CDC, pelo que, o inadimplemento do devedor fiduciante enseja a aplicação da regra prevista nos arts. 26 e 27 da lei especial, nos termos em que bem destacado pelo magistrado sentenciante." (e-STJ, fls. 559/560)
+Verifica-se que as razões do recurso especial estão dissociadas do decidido no acórdão, na medida em que, ao contrário do afirmado pelos agravantes, não foi aplicado o CDC, mas a Lei 9.514/97.
+Incidência da Súmula 284/STF, quanto ao ponto.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nesta extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, §11, do CPC/2015, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 10% sobre o valor corrigido da condenação (e-STJ fl. 532) para 15%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, §4º, e 1.026, §2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESOLUÇÃO CONTRATUAL. RESTITUIÇÃO DE QUANTIAS PAGAS. PERDAS E DANOS. TUTELA ANTECIPADA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS 282 E 356 DO STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ. RAZÕES DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO. SÚMULA 284/STF.
+1. Ação de resolução de contrato c/c restituição das quantias pagas c/c perdas e danos e pedido de tutela de urgência.
+2. Ausentes os vícios do art. 1022 do CPC, rejeitam-se os embargos de declaração.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados, impede o conhecimento do recurso especial. Súmulas 282 e 356/STF.
+4. O reexame de fatos e provas em recurso especial é inadmissível. Súmula 7/STJ.
+5. Quando a parte apresenta razões dissociadas do que foi decidido pelo Tribunal de origem, incide a Súmula 284 do STF ante a impossibilidade de compreensão da controvérsia.
+6. Agravo conhecido. Recurso especial parcialmente conhecido e não provido.
