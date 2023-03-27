@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/03/2023 a 27/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Humberto Martins, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Cuida-se de Agravo Interno contra decisão monocrática (fls. 198-203, e-STJ), que conheceu do Agravo e não conheceu do Recurso Especial.
+O agravante alega:
+Na decisão citada pelo eminente Ministro Relator, não foi enfrentado o disposto no art. 854, § 3º, I, do CPC, que prevê que o ônus da prova da impenhorabilidade recai sobre o executado.
+A questão tratada nestes autos é se o reconhecimento dessa impenhorabilidade pode se dar de ofício, antecipadamente, sem que o executado interessado alegue a impenhorabilidade nos termos do art. 854, §3º, I, do CPC, in verbis
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. EXECUÇÃO FISCAL. BLOQUEIO DE 40 SALÁRIOS MÍNIMOS. IMPENHORABILIDADE. JURISPRUDÊNCIA DO STJ. COMANDO DE ORDEM PÚBLICA.
+1. Nos termos da jurisprudência do STJ, é impenhorável a quantia de até 40 (quarenta) salários mínimos depositada em conta-corrente, aplicada em caderneta de poupança ou outras modalidades de investimento, exceto quando comprovado abuso, má-fé ou fraude. Precedentes: AgInt no REsp 1.893.441/SP, Rel. Min. Antonio Carlos Ferreira, Quarta Turma, DJe 16.12.2021; AgInt nos EDcl no AREsp 1.323.550/RJ, Rel. Min. Antonio Carlos Ferreira, Quarta Turma, DJe 30.9.2021; AgInt no AREsp 1.721.805/DF, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 7.10.2021; AgInt no REsp 1.897.212/SP, Rel. Min. Herman Benjamin, Segunda Turma, DJe 1º.7.2021.
+2. Acrescente-se, por fim, que se trata de comando de ordem pública, devendo o magistrado resguardar a impenhorabilidade dos bens no presente caso. Precedente: REsp 864.962/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 18.2.2010.
+3. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 17.2.2023.
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado.
+Nos termos da jurisprudência do Superior Tribunal de Justiça, é impenhorável a quantia de até 40 (quarenta) salários mínimos depositada em conta-corrente, aplicada em caderneta de poupança ou outras modalidades de investimento, exceto quando comprovado abuso, má-fé ou fraude.
+A propósito:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO. TÍTULO EXTRAJUDICIAL. APLICAÇÕES FINANCEIRAS. LIMITE DE IMPENHORABILIDADE DO VALOR CORRESPONDENTE A 40 (QUARENTA) SALÁRIOS MÍNIMOS. PRECEDENTES. DECISÃO MANTIDA.
+1. O STJ possui jurisprudência no sentido de ser impenhorável " a quantia de até quarenta salários mínimos poupada, seja ela mantida em papel moeda, conta-corrente ou aplicada em caderneta de poupança propriamente dita, CDB, RDB ou em fundo de investimentos, desde que a única reserva monetária em nome do recorrente, e ressalvado eventual abuso, má-fé ou fraude, a ser verificado caso a caso, de acordo com as circunstâncias do caso concreto (inciso X)" (REsp n. 1.230.060/PR, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 13/8/2014, DJe 29/8/2014).
+2. Nos termos do entendimento jurisprudencial firmado por esta Corte, a abrangência da regra do art. 833, X, do CPC/2015 se estende a todos os numerários poupados pela parte executada, até o limite de 40 (quarenta) salários mínimos, não importando se depositados em poupança, conta-corrente, fundos de investimento ou guardados em papel-moeda, autorizando as instâncias ordinárias, caso identifiquem abuso do direito, a afastar a garantia da impenhorabilidade. Incidência da Súmula n. 83 do STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.893.441/SP, Rel. Min. Antonio Carlos Ferreira, Quarta Turma, DJe 16.12.2021)
+DIREITO CIVIL E PROCESSO CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO. TÍTULO EXTRAJUDICIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. NATUREZA DA VERBA CONSTRITA. SÚMULA N. 7/STJ. APLICAÇÕES FINANCEIRAS (CDB). LIMITE DE IMPENHORABILIDADE DO VALOR CORRESPONDENTE A 40 (QUARENTA) SALÁRIOS MÍNIMOS. PRECEDENTES. DECISÃO MANTIDA.
+1. Inexiste afronta aos arts. 489 e 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. O recurso especial não comporta exame de questões que impliquem incursão no contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 desta Corte. No caso, para superar as premissas sobre as quais se apoiou o Tribunal a quo, a fim de reconhecer a existência de elementos nos autos que comprovariam a natureza remuneratória da verba constrita e, com isso, afastar a penhora incidente sobre tal numerário, seria necessário o revolvimento dos elementos de prova, hipótese vedada no recurso especial, a teor da Súmula n. 7/STJ.
+3. O STJ possui jurisprudência no sentido de que "reveste-se de impenhorabilidade a quantia de até quarenta salários mínimos poupada, seja ela mantida em papel moeda, conta-corrente ou aplicada em caderneta de poupança propriamente dita, CDB, RDB ou em fundo de investimentos, desde que a única reserva monetária em nome do recorrente, e ressalvado eventual abuso, má-fé ou fraude, a ser verificado caso a caso, de acordo com as circunstâncias do caso concreto (inciso X)" (REsp n. 1.230.060/PR, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 13/8/2014, DJe 29/8/2014).
+4. Nos termos do entendimento jurisprudencial firmado por esta Corte, a abrangência da regra do art. 833, X, do CPC/2015 se estende a todos os numerários poupados pela parte executada, até o limite de 40 (quarenta) salários mínimos, não importando se depositados em poupança, conta-corrente, fundos de investimento ou guardados em papel-moeda, autorizando as instâncias ordinárias, caso identifiquem abuso do direito, a afastar a garantia da impenhorabilidade. Desta forma, estando a decisão recorrida em discordância com o entendimento jurisprudencial firmado por esta Corte, acerca da extensão da regra prevista no art. 833, X, do CPC/2015, deve ser mantida a decisão agravada, que deu parcial provimento ao recurso especial somente para determinar a impenhorabilidade dos valores depositados em aplicações financeiras, até o limite de quarenta salários mínimos.
+5. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 1.323.550/RJ, Rel. Min. Antonio Carlos Ferreira, Quarta Turma, DJe 30.9.2021)
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. CONTA-CORRENTE. 40 (QUARENTA) SALÁRIOS MÍNIMOS. IMPENHORABILIDADE.
+1. De acordo com a jurisprudência firme desta Corte Superior, é impenhorável a quantia de até quarenta salários mínimos depositada em conta- corrente, aplicada em caderneta de poupança ou outras modalidades de investimento, exceto quando comprovado abuso, má-fé ou fraude. Precedentes.
+2. Hipótese em que se reconheceu a impenhorabilidade dos valores em conta-corrente do executado até o limite de 40 (quarenta) salários mínimos.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1.721.805/DF, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 7.10.2021)
+EXECUÇÃO FISCAL. APLICAÇÃO FINANCEIRA. IMPENHORABILIDADE DO LIMITE PREVISTO NO ART. 649, X, DO CPC. AFASTAMENTO DA CONSTRIÇÃO EM RELAÇÃO AO LIMITE DE QUARENTA SALÁRIOS MÍNIMOS.
+1. O Superior Tribunal de Justiça possui jurisprudência que entende serem impenhoráveis os valores que alcancem até o montante de quarenta salários mínimos depositados em poupança, como também aqueles depositados em conta- corrente ou fundo de investimento.
+2. O STJ também já decidiu que a simples movimentação atípica apurada pelas instâncias ordinárias, por si só, não constitui má-fé ou fraude a ensejar a mitigação da impenhorabilidade estabelecida pelo art. 833, X, do novo CPC.
+3. Agravo Interno não provido.
+(AgInt no REsp 1.897.212/SP, Rel. Min. Herman Benjamin, Segunda Turma, DJe 1º/7/2021)
+Dessume-se que o acórdão recorrido está em sintonia com o atual entendimento deste Tribunal Superior, motivo pelo qual não merece prosperar o apelo.
+Incide, in casu, o princípio estabelecido na Súmula 83/STJ: "Não se conhece do Recurso Especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida." Cumpre ressaltar que a referida orientação é aplicável também aos recursos interpostos pela alínea "a" do inciso III do art. 105 da Constituição Federal de 1988. Nesse sentido: REsp 1.186.889/DF, Segunda Turma, Rel. Ministro Castro Meira, DJe de 2.6.2010.
+Acrescente-se, por fim, que se trata de comando de ordem pública, devendo o magistrado resguardar a impenhorabilidade dos bens no presente caso.
+A propósito (grifei):
+PROCESSUAL CIVIL - EXECUÇÃO - IMPENHORABILIDADE DE BENS ÚTEIS E/OU NECESSÁRIOS ÀS ATIVIDADES DA EMPRESA INDIVIDUAL - PRECEDENTES - AUSÊNCIA DE PREQUESTIONAMENTO DO ARTIGO 97 DO CTN.
+1- Não houve prequestionamento do artigo 97 do CTN. Incide o óbice da Súmula 282/STF, por analogia.
+2 - Pacífica a jurisprudência desta Corte no sentido de que os bens úteis e/ou necessários às atividades desenvolvidas por pequenas empresas, onde os sócios atuam pessoalmente, são impenhoráveis, na forma do disposto no art. 649, VI, do CPC. Na hipótese, cuida-se de empresa individual cujo único bem é um caminhão utilizado para fazer fretes, indicado à penhora pelo próprio devedor/proprietário.
+3. Inobstante a indicação do bem pelo próprio devedor, não há que se falar em renúncia ao benefício de impenhorabilidade absoluta, constante do artigo 649 do CPC. A ratio essendi do artigo 649 do CPC decorre da necessidade de proteção a certos valores universais considerados de maior importância, quais sejam o Direito à vida, ao trabalho, à sobrevivência, à proteção à família. Trata-se de defesa de direito fundamental da pessoa humana, insculpida em norma infraconstitucional.
+4. Há que ser reconhecida nulidade absoluta da penhora quando esta recai sobre bens absolutamente impenhoráveis. Cuida-se de matéria de ordem pública, cabendo ao magistrado, de ofício, resguardar o comando insculpido no artigo 649 do CPC. Tratando-se de norma cogente que contém princípio de ordem pública, sua inobservância gera nulidade absoluta consoante a jurisprudência assente neste STJ.
+5. Do exposto, conheço parcialmente do recurso e nessa parte dou-lhe provimento.
+(REsp n. 864.962/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 18/2/2010.)
+Logo, ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Por tudo isso, nego provimento ao Agravo.
+É o Voto.
