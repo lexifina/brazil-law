@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/03/2023 a 27/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Humberto Martins, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que julgou agravo interposto pela Associação Brasileira das Empresas de Serviços de Petróleo contra a decisão que inadmitiu o recurso especial fundado no art. 105, III, a, da Constituição Federal, aviado com o objetivo de reformar o acórdão assim ementado, in verbis:
+Apelação cível. Mandado de segurança. Tributário. Pedido de abstenção de recolhimento do adicional de ICMS da contribuição de 10% para o Fundo Estadual de Equilíbrio Fiscal - FEEF, instituído pela Lei Estadual nº 7.428/2016. Sentença de denegação da ordem. Fundo que não se trata de um novo imposto, mas de uma modulação no tempo da forma de fruição do benefício fiscal. Norma que assegura a restituição dos valores que as empresas tiveram que adiantar aos cofres do Estado. Ausência de prejuízo, cuja efetiva demonstração demandaria dilação probatória, incompatível com o rito do mandamus.
+Constitucionalidade da Lei 7.428/2016, regulamentada pelo Decreto 45810/2016, reconhecida pelo Órgão Especial deste Tribunal de Justiça, no julgamento da Representação de Inconstitucionalidade nº 0063240- 02.2016.8.19.0000. Suprema Corte que indeferiu liminar na ADI nº 5635, requerida para suspender a eficácia da referida Lei estadual, prevalecendo, dessa forma, a presunção de constitucionalidade da norma. Precedentes deste TJRJ. Ausência de razões que autorizam a concessão da ordem. Manutenção da sentença que denegou a segurança. Desprovimento do recurso.
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, o recorrente indica como violados os arts. 15 e 178 do CTN; e art. 2º da LC n. 159/2017.
+Sustenta, em síntese, que o Fundo Estadual de Equilíbrio Fiscal - FEEF não poderia incidir sobre benefícios condicionados e por prazo determinado, violando assim os princípios da segurança jurídica, da boa fé e da confiança e que somente a União Federal pode instituir empréstimo compulsório.
+Contrarrazões pela manutenção da decisão recorrida.
+Após decisum que inadmitiu o recurso especial, foi interposto agravo, tendo o recorrente apresentado argumentos visando rebater os fundamentos da decisão agravada.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial."
+No agravo interno, a parte recorrente traz argumentos contrários à decisão recorrida.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. TRIBUTÁRIO. PEDIDO DE ABSTENÇÃO DE RECOLHIMENTO DO ADICIONAL DE ICMS DA CONTRIBUIÇÃO DE 10% PARA O FUNDO ESTADUAL DE EQUILÍBRIO FISCAL - FEEF, INSTITUÍDO PELA LEI ESTADUAL Nº 7.428/2016. ANÁLISE DE LEI LOCAL. SÚMULA N. 280/STF. DISPOSITIVOS CONSTITUCIONAIS. COMPETÊNCIA DO STF. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de mandado de segurança objetivando afastar a exigência de recolhimento para o FEEF - Fundo Estadual de Equilíbrio Fiscal, instituído pela Lei n. 7.428/2016. Na sentença, a segurança foi denegada. No Tribunal a quo, a sentença foi mantida.
+II - Verifica-se que a questão controvertida nos autos foi solucionada pelo Tribunal de origem, com fundamento em leis locais. Logo, torna-se inviável, em recurso especial, o exame da matéria nele inserida, diante da incidência, por analogia, do enunciado n. 280 da Súmula do STF, que dispõe: "Por ofensa a direito local não cabe recurso extraordinário." Nesse sentido: AgInt no AREsp n. 1.304.409/DF, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 31/8/2020, DJe 4/9/2020; AgInt no REsp n. 1.184.981/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 22/6/2020, DJe 30/6/2020; EDcl no AgInt no AREsp n. 1.506.044/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 24/8/2020, DJe 9/9/2020.
+III - Por outro lado, é vedada, no âmbito do recurso especial, a análise dos princípios constitucionais que fundamentaram o decisum recorrido, sob pena de usurpação da competência do Supremo Tribunal Federal.
+IV - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+O acórdão, objeto do recurso especial, fundamentou-se nos seguintes elementos:
+ ..
+O ponto nodal do debate instaurado na lide diz respeito à constitucionalidade da Lei 7.428/2016, regulamentada pelo Decreto nº 45.810/2016, que condiciona o aproveitamento de incentivos fiscais relativos ao ICMS a depósitos em favor do FEEF - Fundo Estadual de Equilíbrio Fiscal, nos seguintes termos:
+(..) Destarte, foi assegurado ao contribuinte a recuperação integral dos valores recolhidos ao fundo, por meio de prorrogação do termo final do benefício, garantindo-se a restituição dos valores que as empresas mencionadas na Lei Estadual nº 7.428/16 tiveram que adiantar aos cofres do Estado, por força do regime de recuperação fiscal implantado com a finalidade recuperar a economia estadual, não se verificando portanto qualquer prejuízo às empresas associadas à impetrante.
+Outrossim, a comprovação de eventual prejuízo é matéria que exige dilação probatória, incompatível com o rito do mandamus, inexistindo, portanto, direito líquido e certo.
+A sentença deve ser pois mantida, a uma, por ser aplicável o princípio da presunção de constitucionalidade das leis, e, a duas, por haver posição referendada pelo Órgão Especial desta Corte, no julgamento da Representação de Inconstitucionalidade nº 0063240- 02.2016.8.19.0000, no sentido da constitucionalidade das normas em questão, entendendo que o referido FEEF não se trata de novo imposto, uma vez que o fato gerador continua sendo o ICMS.
+ ..
+Verifica-se, assim, que a questão controvertida nos autos foi solucionada pelo Tribunal de origem, com fundamento em leis locais. Logo, torna-se inviável, em recurso especial, o exame da matéria nele inserida, diante da incidência, por analogia, do enunciado n. 280 da Súmula do STF, que dispõe: "Por ofensa a direito local não cabe recurso extraordinário." Nesse sentido: AgInt no AREsp n. 1.304.409/DF, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 31/8/2020, DJe 4/9/2020; AgInt no REsp n. 1.184.981/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 22/6/2020, DJe 30/6/2020; EDcl no AgInt no AREsp n. 1.506.044/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 24/8/2020, DJe 9/9/2020.
+Por outro lado, é vedada, no âmbito do recurso especial, a análise dos princípios constitucionais que fundamentaram o decisum recorrido, sob pena de usurpação da competência do Supremo Tribunal Federal.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
