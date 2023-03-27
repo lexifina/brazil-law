@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/03/2023 a 27/03/2023, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+Trata-se de agravo interno interposto por LEILA MARIA ARLANCH DE MORAES RIBEIRO e OUTROS contra a decisão que não conheceu de seu agravo em recurso especial em razão da incidência da Súmula 182 do STJ.
+Em suas razões recursais, a parte agravante alega: (a) impugnou os fundamentos do acórdão recorrido; (b) não pretende o reexame de fatos e provas, visto que "a discussão em sua inteireza, cinge-se sobre questão de ordem técnica". Reitera, ainda, as razões de mérito do recurso especial e pede que lhe seja concedida a gratuidade de justiça.
+Requer, por fim, o provimento do agravo para que seja determinado o processamento do recurso especial para a apreciação do mérito.
+Impugnação ao recurso não apresentada conforme a certidão de fl. 249.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. APLICAÇÃO. PEDIDO DE JUSTIÇA GRATUITA NO AGRAVO INTERNO. SEM PROVEITO PARA A PARTE. AUSÊNCIA DE EFEITOS RETROATIVOS. AGRAVO INTERNO NÃO CONHECIDO.
+1. A decisão ora recorrida não conheceu do agravo em razão da falta de impugnação aos fundamentos da decisão agravada; por conseguinte, consignou-se a incidência da Súmula 182 do STJ.
+2. A parte, para ver examinado por esta Corte Superior seu recurso especial inadmitido, precisa, primeiro, desconstituir os fundamentos utilizados para a negativa de admissão daquele recurso sob pena de vê-los mantidos.
+3. Neste recurso, a parte agravante igualmente não rebate as razões expostas na decisão que visa a impugnar, repetindo, pois, o vício anteriormente detectado. Aplicável ao caso a Súmula 182 do STJ, segundo a qual "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+4. Para controverter a incidência da Súmula 182 do STJ, é dever da parte agravante demonstrar, no agravo interno, de forma clara e objetiva, que o agravo em recurso especial impugnou todos os fundamentos da decisão de inadmissão do Tribunal de origem, o que não ocorreu.
+5. O pedido de gratuidade da justiça formulado em agravo interno não tem proveito para a parte, tendo em vista que esse recurso não necessita de recolhimento de custas. Benefício que, embora deferido, não produzirá efeitos retroativos.
+6. Agravo interno não conhecido.
+VOTO
+A decisão ora recorrida não conheceu do agravo em virtude da falta de impugnação aos fundamentos da decisão agravada; por conseguinte, consignou-se a incidência da Súmula 182 do STJ.
+Como é cediço, a parte, para ver examinado por esta Corte Superior seu recurso especial inadmitido, precisa, primeiro, desconstituir os fundamentos utilizados para a negativa de admissão daquele recurso sob pena de vê-los mantidos.
+Neste recurso, a parte agravante igualmente não rebate as razões expostas na decisão que visa a impugnar, repetindo, pois, o vício anteriormente detectado. Aplicável ao caso a Súmula 182 do STJ, segundo a qual "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Para controverter a incidência da Súmula 182 do STJ, é dever da parte agravante demonstrar, no agravo interno, de forma clara e objetiva, que o agravo em recurso especial impugnou todos os fundamentos da decisão de inadmissão do Tribunal de origem, o que não ocorreu.
+Registro, ainda, que o recurso de agravo, tanto aquele previsto no art. 1.042 do CPC/2015 como o dito regimental ou interno previsto no art. 1.021, § 1º, do CPC/2015, objetiva desconstituir os fundamentos que impediram o processamento do recurso especial; o recurso não comporta seguimento sem essa providência.
+Por fim, destaco que não há utilidade prática no pedido de justiça gratuita no agravo interno.
+Isso, porque o pleito de gratuidade da justiça formulado nesta fase recursal não tem proveito para a parte, tendo em vista que o recurso de agravo interno não necessita de recolhimento de custas. Benefício que, embora deferido, não produzirá efeitos retroativos. Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO INTERPOSTO NA VIGÊNCIA DO NCPC. APLICAÇÃO DO PRINCÍPIO DA UNIRECORRIBILIDADE. RECURSO INTEMPESTIVO. SUSPENSÃO DOS PRAZOS PROCESSUAIS NO TRIBUNAL ESTADUAL. AUSÊNCIA DE COMPROVAÇÃO, POR DOCUMENTO IDÔNEO, QUANDO DA INTERPOSIÇÃO DO RECURSO. ART. 1.003, § 6º, DO NCPC. ENTENDIMENTO DA CORTE ESPECIAL. ART. 932, PARÁGRAFO ÚNICO, DO NCPC. ABERTURA DE PRAZO. DESCABIMENTO. VIOLAÇÃO DO ART. 1.022 DO NCPC. OMISSÃO CONFIGURADA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Os embargos de declaração constituem recurso de estritos limites processuais e destinam-se a suprir omissão, afastar obscuridade, eliminar contradição eventualmente existentes no julgado combatido, bem como corrigir erro material.
+3. O pedido de gratuidade da justiça formulado nesta fase recursal não tem proveito para a parte, tendo em vista que o recurso de agravo interno não necessita de recolhimento de custas. Ademais, a concessão do benefício somente produzirá efeitos quanto aos atos processuais relacionados ao momento do pedido, ou posteriores a ele, não sendo admitida, portanto, sua retroatividade.
+4. Embargos de declaração acolhidos, sem efeitos infringentes. (EDcl no AgInt no AREsp 1.866.082/PR, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 16/5/2022, DJe de 19/5/2022.)
+PROCESSUAL CIVIL. SEGUNDOS EMBARGOS DE DECLARAÇÃO NO AGRAVO I NTERNO NO AGRAVO EM RECURSO ESPECIAL. ERRO MATERIAL. OCORRÊNCIA. PEDIDO DE JUSTIÇA GRATUITA NO AGRAVO INTERNO. SEM PROVEITO PARA A PARTE, AINDA QUE DEFERIDO NÃO PRODUZ EFEITOS RETROATIVOS. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. OMISSÃO NÃO CONFIGURADO. EMBARGOS ACOLHIDOS SEM EFEITOS INFRINGENTES.
+1. Existência de omissão, diante da falta de pronunciamento quanto ao pedido de retificação do nome, para que conste "em recuperação judicial" 2. Pedido de gratuidade da justiça formulado nesta fase recursal não tem proveito para a parte, tendo em vista que o recurso de agravo interno não necessita de recolhimento de custas. Benefício que, embora deferido, não produzirá efeitos retroativos. Precedentes.
+3. Não há contradição ou omissão a ser sanada no julgado, observando-se, de outra sorte, que a embargante pretende, mais uma vez, a rediscussão da matéria já decidida de maneira inequívoca por esta Turma, pretensão esta que não está em harmonia com a natureza e a função dos embargos declaratórios.
+4. Embargos de declaração acolhidos sem efeitos infringentes. (EDcl nos EDcl no AgInt no AREsp 1.724.775/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 25/10/2021, DJe de 28/10/2021.)
+Pelas considerações expostas, não conheço do agravo interno.
+É como voto.
