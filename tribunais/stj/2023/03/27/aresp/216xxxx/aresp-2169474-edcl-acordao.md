@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/03/2023 a 27/03/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Humberto Martins, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Conheceu-se do agravo para não conhecer do recurso especial interposto pelo Ibama, com fundamento no art. 105, III, a e c, da CF/1988.
+O recurso especial visa reformar acórdão do Tribunal Regional Federal da 4ª Região, nos termos assim ementados (fl. 63):
+TRIBUTÁRIO. AGRAVO INTERNO. AGRAVO DE INSTRUMENTO. PENHORA. SISTEMA BACENJUD. 1. A proteção prevista no art. 833, X, do CPC não se dirige apenas ao saldo imobilizado em caderneta de poupança, de modo que a impenhorabilidade até o valor de 40 salários mínimos não faz distinção entre poupança, conta-corrente, fundos de investimento, ou guardados em papel moeda. 2. Conforme determina a Súmula 108 desta Corte: "É impenhorável a quantia depositada até quarenta salários mínimos em caderneta de poupança (art. 833, X, NCPC), bem como a mantida em papel moeda, contacorrente ou aplicada em CDB, RDB ou em fundo de investimentos, desde que seja a única reserva monetária, e ressalvado eventual abuso, má-fé, ou fraude".
+Na origem, trata-se de agravo de instrumento interposto pelo Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis - Ibama contra a decisão que, nos autos da execução fiscal ajuizada contra Pedro Paulo Scheffer Cardoso, considerou impenhorável a quantia depositada até o valor de 40 salários-mínimos.
+No Tribunal a quo, a decisão foi mantida. Esta Corte conheceu do agravo para não conhecer do recurso especial.
+No recurso especial, Ibama aponta a violação dos arts. 789, 797, 835, I, 854, §§ 3º, I, e 5º e 1.022, II, todos do CPC; e 7º, II, 9º, 10 e 11, I, todos da Lei n. 6.830/1980.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conh eço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial."
+Interposto agravo interno, foi julgado pela Segunda Turma, conforme a seguinte ementa do acórdão (fl . 186):
+PROCESSUAL CIVIL. TRIBUTÁRIO. EXECUÇÃO FISCAL. SISBACEN. DEPÓSTIO INFERIOR A ATÉ 40 SALÁRIOS-MÍNIMOS. IMPENHORABILIDADE. ACÓRDÃO RECORRIDO ALINHADO COM A JURISPRUDÊNCIA DO STJ. APLICAÇÃO DA SÚMULA N. 83 DO STJ.
+I - Na origem, trata-se de agravo de instrumento interposto pelo Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis - Ibama contra a decisão que, nos autos da execução fiscal ajuizada contra Pedro Paulo Scheffer Cardoso, considerou impenhorável a quantia depositada até o valor de 40 salários-mínimos.
+II - No Tribunal a quo, a decisão foi mantida. Esta Corte conheceu do agravo para não conhecer do recurso especial.
+III - A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que não se conhece do recurso especial, se o Tribunal de origem decidiu a controvérsia alinhado com a jurisprudência desta Corte Superior.
+IV - A Corte de origem, ao apreciar a controvérsia, manteve a decisão monocrática proferida anteriormente, a qual se deu com base nos seguintes fundamentos: "(..) Ademais, cabe referir que a proteção prevista no art. 833, X, do CPC não se dirige apenas ao saldo imobilizado em caderneta de poupança, de modo que a impenhorabilidade até o valor de 40 salários mínimos não faz distinção entre poupança, conta corrente, fundos de investimento, ou guardados em papel-moeda, segundo julgado da Quarta Turma do Superior Tribunal de Justiça."
+V - O Tribunal de origem decidiu a matéria em conformidade com a jurisprudência desta Corte. Incide o disposto no enunciado n. 83 da Súmula do STJ, segundo o qual: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida." No mesmo sentido: (AgInt no AREsp n. 1.968.794/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 12/9/2022, DJe em 14/9/2022 e REsp n. 1.721.203/PB, relator Ministro Herman Benjamin, Segunda Turma, julgado em 27/2/2018, DJe em 2/8/2018).
+VI - Agravo interno improvido.
+Opostos embargos de declaração, aponta a parte embargante vícios no acórdão embargado, resumidos nos seguintes termos (fls. 196-197):
+.. existe omissão na decisão pois a egrégia Turma não se pronunciou sobre a questão levantada no recurso especial e no agravo interno relativa ao reconhecimento da impenhorabilidade não poder se dar de ofício, antecipadamente, sem que o executado interessado alegue a impenhorabilidade nos termos do art. 854, §3º, I, do CPC. (..)
+.. não há falar no óbice da Súmula 83/STJ, eis que, a jurisprudência citada no acórdão não trata especificamente do objeto de insurgência deste recurso especial pois os precedentes citados abordam exclusivamente o entendimento sobre a impenhorabilidade dos valores inferiores a 40 salários mínimos, ou seja, tratam da aplicação isolada do art. 833, X, do CPC. Não foi enfrentado nos referidos precedentes o disposto no art. 854, § 3º, I, do CPC, que prevê que o ônus da prova da impenhorabilidade recai sobre o executado.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. EXECUÇÃO FISCAL. SISBACEN. DEPÓSTIO INFERIOR A ATÉ 40 SALÁRIOS-MÍNIMOS. IMPENHORABILIDADE. ACÓRDÃO RECORRIDO ALINHADO COM A JURISPRUDÊNCIA DO STJ. APLICAÇÃO DA SÚMULA N. 83 DO STJ. INEXISTÊNCIA DE VÍCIOS NO ACÓRDÃO EMBARGADO.
+I - Na origem, trata-se de ação ajuizada contra o Estado do Pará objetivando o pagamento de indenização salarial correspondente ao depósito do FGTS com multa de 40% sobre todo o período trabalhado, além de indenização por danos morais e a restituição do pecúlio descontado.
+II - Na origem, trata-se de agravo de instrumento interposto pelo Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis - Ibama contra a decisão que, nos autos da execução fiscal ajuizada contra Pedro Paulo Scheffer Cardoso, considerou impenhorável a quantia depositada até o valor de 40 salários-mínimos.
+III - No Tribunal a quo, a decisão foi mantida. Esta Corte conheceu do agravo para não conhecer do recurso especial.
+IV - Opostos embargos de declaração, aponta a parte embargante vícios no acórdão embargado.
+V - Os aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso.
+VI - Os vícios apontados pela parte embargante, relacionados à impenhorabilidade de valores até 40 salários-mínimos foram analisados pelo acórdão recorrido, o que afasta a alegação de omissão.
+VII - Embargos de declaração rejeitados.
+VOTO
+Os embargos não merecem acolhimento.
+Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade; eliminar contradição; suprir omissão de ponto ou questão sobre as quais o juiz devia pronunciar-se de ofício ou a requerimento; e/ou corrigir erro material.
+Conforme entendimento pacífico desta Corte:
+O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida.
+(EDcl no MS n. 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.)
+A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do CPC/2015, razão pela qual inviável o seu exame em embargos de declaração. Nesse sentido:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. EMBARGOS DE DECLARAÇÃO. FINALIDADE DE PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. OMISSÃO. NÃO OCORRÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. ART. 1.022 DO NOVO CPC.
+1. A ocorrência de um dos vícios previstos no art. 1.022 do CPC é requisito de admissibilidade dos embargos de declaração, razão pela qual a pretensão de mero prequestionamento de dispositivos constitucionais para a viabilização de eventual recurso extraordinário não possibilita a sua oposição. Precedentes da Corte Especial.
+2. A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do novo CPC, razão pela qual inviável o seu exame em sede de embargos de declaração.
+3. Embargos de declaração rejeitados.
+(EDcl nos EAREsp n. 166.402/PE, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 15/3/2017, DJe 29/3/2017.)
+EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. CONTRADIÇÃO. NÃO OCORRÊNCIA. OMISSÕES. INEXISTÊNCIA. CARÁTER PROCRASTINATÓRIO RECONHECIDO. APLICAÇÃO DE MULTA.
+1. A contradição capaz de ensejar o cabimento dos embargos declaratórios é aquela que se revela quando o julgado contém proposições inconciliáveis internamente.
+2. Sendo os embargos de declaração recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição ou omissão -, não podem ser acolhidos quando a parte embargante pretende, essencialmente, a obtenção de efeitos infringentes.
+3. Evidenciado o caráter manifestamente protelatório dos embargos de declaração, cabe a aplicação da multa prevista no parágrafo único do art. 538 do CPC/1973.
+4. Embargos de declaração rejeitados com aplicação de multa.
+(EDcl na Rcl n. 8.826/RJ, relator Ministro João Otávio de Noronha, Corte Especial, julgado em 15/2/2017, DJe 15/3/2017.)
+Os vícios apontados pela parte embargante, relacionados à impenhorabilidade de valores até 40 salários-mínimos foram analisados pelo acórdão recorrido, o que afasta a alegação de omissão, conforme se percebe dos seguintes trechos do acórdão:
+A Corte de origem ao apreciar a controvérsia, manteve a decisão monocrática proferida anteriormente, a qual se deu com base nos seguintes fundamentos:
+Dispõe o art. 833 do CPC, em seu inciso X, sobre a impenhorabilidade absoluta dos valores inferiores a quarenta salários mínimos encontrados em caderneta de poupança, verbis:  ..  Tal impenhorabilidade é absoluta e visa a proteção do pequeno investimento, criado para proteger o indivíduo de eventual imprevisto em seu núcleo familiar, devendo ser determinada a liberação da totalidade de valores encontrados em conta poupança, sempre quando inferiores a quarenta salários mínimos.  ..
+Ademais, cabe referir que a proteção prevista no art. 833, X, do CPC não se dirige apenas ao saldo imobilizado em caderneta de poupança, de modo que a impenhorabilidade até o valor de 40 salários mínimos não faz distinção entre poupança, conta-corrente, fundos de investimento, ou guardados em papel-moeda, segundo julgado da Quarta Turma do Superior Tribunal de Justiça.
+Verifica-se que o Tribunal de origem decidiu a matéria em conformidade com a jurisprudência desta Corte. Incide o disposto no enunciado n. 83 da Súmula do STJ, segundo o qual: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida."
+Cumpre ressaltar que os aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso. No caso dos autos, não há omissão de ponto ou questão sobre as quais o juiz, de ofício ou a requerimento, devia pronunciar-se, considerando que o acórdão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
