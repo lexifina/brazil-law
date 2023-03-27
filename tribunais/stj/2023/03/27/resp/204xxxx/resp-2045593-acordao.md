@@ -1,0 +1,28 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. REVISÃO DE PROVAS. SÚMULA 07/STJ.
+1. O recurso especial não é conhecido quando as teses deduzidas não tiverem sido objeto de prévio debate na origem, nem quando elas buscarem resultado cuja confirmação demandar a revisão do acervo probatório. Inteligência das Súmulas 211/STJ e 07/STJ, respectivamente.
+2. Recurso especial não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos esses autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas, o seguinte resultado de julgamento:
+"A Turma, por unanimidade, não conheceu do recurso, nos termos do voto do Sr. Ministro-Relator."
+A Sra. Ministra Assusete Magalhães, os Srs. Ministros Francisco Falcão, Humberto Martins e Herman Benjamin votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Adriana Souza de Oliveira Santos interpõe recurso especial com fundamento no art. 105, inciso III, alínea "a", da Constituição da República, contra o acórdão prolatada pelo Eg. Tribunal Regional Federal da 5.ª Região, ementado assim:
+ADMINISTRATIVO. APELAÇÃO. EBSERH - EMPRESA BRASILEIRA DE SERVIÇOS HOSPITALARES. CARGO DE TÉCNICO DE ENFERMAGEM. CANDIDATA CLASSIFICADA FORA DO NÚMERO DE VAGAS PREVISTAS NO EDITAL. NOMEAÇÃO E POSSE. DESCABIMENTO. CONTRATAÇÃO DE PROFISSIONAIS TEMPORÁRIOS PARA ATUAR NA PANDEMIA COVID-19. PRETERIÇÃO. INEXISTENTE. MOTIVAÇÃO REFERENCIADA, "PER RELATIONEM", COMPATÍVEL COM O PRINCÍPIO DA OBRIGATORIEDADE DA MOTIVAÇÃO DAS DECISÃO JUDICIAS. ART. 93, INCISO IX, DA CONSTITUIÇÃO FEDERAL. PRECEDENTES DO STF E DO TRF5. ADOÇÃO DOS FUNDAMENTO DA SENTENÇA. APELAÇÃO IMPROVIDA.
+Trata-se de demanda instaurada em razão de concurso público promovido pela Empresa Brasileira de Serviços Hospitalares (EBSERH), do qual a recorrente aderiu à disputa por cargo de técnico em enfermagem com lotação no Hospital Universitário de Lagarto - HUL/UFS, no Estado de Sergipe.
+Segundo noticia a previsão era de 18 (dezoito) vagas das quais treze eram para a ampla concorrência, uma para candidatos deficientes e quatro para candidatos pretos ou pardos, esta última a concorrência escolhida.
+Diz ainda que se classificou na 51.ª (quinquagésima primeira) colocação dentre os candidatos negros, e que na lista da ampla concorrência deve figurar na 123.ª (centésima vigésima terceira) colocação, e que apesar da classificação ser evidentemente fora do número de vagas oferecidas inicialmente ela teria o direito à investidura no cargo porque a EBSERH, diante do avanço da pandemia de SARS-CoV-2 no país, e mais especificamente no Estado de Sergipe, teria contratado temporariamente terceiros para suprir a necessidade de pessoal no combate a essa situação, mas esse mesmo pessoal estaria a atuar em outras funções, o que caracterizaria a ilegalidade da contratação a ensejar a indevida preterição.
+A pretensão foi desacolhida em ambos os graus de jurisdição da instância ordinária, e o recurso especial consequente indica ter havido a violação ao art. 357 do CPC/2015, ante o cerceamento do direito de defesa decorrente da inexistência de decisão saneadora sobre a produção de prova, tendo havido, contudo, a rejeição ao pleito justamente por falta de prova, e o art. 2.º da Lei 9.784/1999 no que concernente ao princípio da legalidade.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. REVISÃO DE PROVAS. SÚMULA 07/STJ.
+1. O recurso especial não é conhecido quando as teses deduzidas não tiverem sido objeto de prévio debate na origem, nem quando elas buscarem resultado cuja confirmação demandar a revisão do acervo probatório. Inteligência das Súmulas 211/STJ e 07/STJ, respectivamente.
+2. Recurso especial não conhecido.
+VOTO
+O recurso não vence o conhecimento.
+A demanda em si é bastante singela: a recorrente foi aprovada em concurso público, mas fora do número de vagas oferecidas, o que todavia não impediria a sua nomeação no cargo uma vez caracterizada situação de preterição ilegal decorrente de contratação temporária de terceiros.
+O caso foi resolvido mediante a conclusão de que a contratação em si não era ilegal, mas emergencial justamente por força da situação excepcional ocasionada pela pandemia de SARS-CoV-2, e que isso amoldava a contratação ao regime constitucional da contratação temporária, corroborado pelo fato de a EBSERH haver inclusive comprovado que alguns temporários haviam sido retirados de atividade, ou seja, tudo nos autos demonstrava que não se pretendia preterir o direito de ninguém, mas suprir uma necessidade ocasional de pessoal para além do que os quadros da empresa podiam suportar, incluídos os aprovados dentro das vagas.
+Não houve, portanto, a tratativa de nenhuma das teses deduzidas na petição do recurso especial, o que autoriza o óbice da Súmula 211/STJ, sem embargo de que a conclusão havida na origem pautara-se pela análise das provas, e que a sua reversão para o fim da confirmação das teses demandaria semelhante providência que, no entanto, é impedida por força da Súmula 07/STJ.
+Assim, não conheço do recurso especial.
+Quanto aos honorários recursais, levando em conta que o tempo de tramitação do recurso, contado apenas entre a sua interposição na origem e a data do presente julgamento, não é demasiadamente longo, perfazendo pouco menos de quatro meses, e que não houve a necessidade de atuação do recorrido em comarca diversa da qual atua, bem como, por fim, tomando por premissa que a demanda recursal aparenta grau de complexidade diminuto, assim como é módico o arbitrado na origem, condeno a recorrente ao pagamento de honorários recursais os quais arbitro no total de R$ 10,00 (dez reais).
+É o voto.
