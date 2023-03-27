@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/03/2023 a 27/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Messod Azulay Neto e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Joel Ilan Paciornik.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra decisão de fls. 308/315, em que dei parcial provimento ao recurso especial apenas para reconhecer a atenuante da confissão espontânea, negando a aplicação do princípio da insignificância.
+O agravante repisa os argumentos expendidos no apelo especial no sentido da insignificância, sendo irrelevante o valor do bem furtado, pouco mais de um por cento do salário mínimo de R$ 998,00 (novecentos e noventa e oito reais). Salienta que a aplicação do princípio não deve considerar critérios subjetivos, tais como a reincidência.
+Requer seja reconsiderada a decisão para que seja conhecido e provido o recurso especial para a sua absolvição.
+É o relatório.
+EMENTA
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIME DE FURTO E CONTRAVENÇÃO DE VIAS DE FATO. APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. IMPOSSIBILIDADE. REINCIDÊNCIA ESPECÍFICA. RECURSO ESPECIAL DESPROVIDO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência desta Corte Superior está firmada no sentido da não incidência do princípio da insignificância nas hipóteses de reiteração de delitos e reincidência, como é o caso dos autos (AgRg no AREsp 896.863/RJ, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 13/6/2016).
+2. "O princípio da insignificância é verdadeiro benefício na esfera penal, razão pela qual não há como deixar de se analisar o passado criminoso do agente, sob pena de se instigar a multiplicação de pequenos crimes pelo mesmo autor, os quais se tornariam inatingíveis pelo ordenamento penal. Imprescindível, no caso concreto, porquanto, de plano, aquele que é contumaz na prática de crimes não faz jus a benesses jurídicas" (HC 544.468/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 14/2/2020).
+3. Agravo regimental desprovido.
+VOTO
+A agravante não trouxe nenhum argumento apto a ensejar a reforma do juízo monocrático, nesse contexto, não há razões para alterar a decisão agravada, que fica mantida, in verbis (fls. 248/251):
+"O Tribunal a quo manteve o acórdão condenatório nos seguintes termos do voto do relator:
+"Contudo, conforme me manifestei quando do julgamento do recurso de origem, a meu ver, não é cabível ao caso a absolvição pela aplicação do principio da insignificância.
+O princípio da insignificância é analisado sobre o aspecto da tipicidade material eis que para o fato ser formalmente típico basta a prática de uma conduta que se amolde a um tipo penal previsto. O prisma material por sua vez necessita de uma análise do caso concreto, observando-se a conduta do agente é capaz de lesionar bens jurídicos.
+É necessário, portanto, para a aplicação do princípio da insignificância a aferição do valor do objeto do crime e dos aspectos objetivos do fato, tais como a mínima ofensividade da conduta do agente; a ausência de periculosidade social da ação; õ reduzido grau de reprovabilidade do comportamento e a inexpressividade da lesão jurídica causada. O valor da res não pode ser portanto o único requisito observado para a aplicação do princípio em questão, sendo certo que a admissão do princípio em questão estimula a reiteração de pequenos delitos, instaurando-se na sociedade verdadeiro sentimento de impunidade, devendo ser evitada ao máximo sua aplicação.
+Analisando-se, assim, o caso concreto, no meu entender, incabível é a aplicação do princípio da insignificância. Isso porque muito embora o valor da res corresponda a menos de 10%  dez por cento  do salário mínimo vigente à época dos fatos, a CAC de f. 63-67 demonstra que o réu é reincidente específico na prática de delitos de cunho patrimonial, o que demonstra seu reiterado contato com a justiça e impossibilita a aplicação do referido brocardo. Sendo assim, afasto a aplicação do principio da insignificância, mantendo a condenação do acusado" (fls. 202/203).
+Consoante se depreende do trecho acima, o entendimento do acórdão recorrido está de acordo com aquele uniformizado nesta Corte. In casu, embora o valor da res furtiva não seja expressivo, as características do recorrente não justificam a aplicação do princípio da bagatela.
+O princípio da insignificância deve ser analisado em conexão com os postulados da fragmentariedade e da intervenção mínima do Estado em matéria penal, no sentido de excluir ou afastar a própria tipicidade penal, observando-se a presença de "certos vetores, como (a) a mínima ofensividade da conduta do agente, (b) a nenhuma periculosidade social da ação, (c) o reduzidíssimo grau de reprovabilidade do comportamento e (d) a inexpressividade da lesão jurídica provocada" (HC n. 98.152/MG, Rel. Ministro CELSO DE MELLO, Segunda Turma, DJe 5/6/2009).
+O recorrente é reincidente específico, o que demonstra a habitualidade delitiva, além da maior reprovabilidade da conduta, logo, o reconhecimento do princípio da insignificância, no caso, implicaria em impunidade e incentivo ao desrespeito das regras jurídicas. Nesse sentido (grifos nossos):
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO DE PEQUENO VALOR. ATIPICIDADE MATERIAL. PRINCÍPIO DA INSIGNIFICÂNCIA. NÃO CONFIGURADA. RÉU REINCIDENTE. HABITUALIDADE DELITIVA. AGRAVO IMPROVIDO.
+1. Acerca da matéria, sedimentou-se a orientação jurisprudencial no sentido de que a incidência do princípio da insignificância pressupõe a concomitância de quatro vetores: a) a mínima ofensividade da conduta do agente; b) nenhuma periculosidade social da ação; c) o reduzidíssimo grau de reprovabilidade do comportamento; e d) a inexpressividade da lesão jurídica provocada.
+2. A reincidência e a habitualidade delitiva têm sido compreendidas como obstáculos iniciais à tese da insignificância, ressalvada excepcional peculiaridade do caso penal.
+3. Apesar do valor do bem subtraído ser de R$ 60,00, consistente em 3 lençóis, montante inferior a 10% do salário mínimo à data do fato ocorrido em 2019, o agravante possui reincidência, diante da prática de crime de roubo.
+4. Agravo regimental improvido.
+(AgRg no AREsp 1.793.517/SP, Rel. Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO), SEXTA TURMA, DJe 09/08/2021).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO. PRINCÍPIO DA INSIGNIFICÂNCIA. APLICAÇÃO. IMPOSSIBILIDADE. REINCIDÊNCIA ESPECÍFICA. REITERAÇÃO DELITIVA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. As instâncias ordinárias destacaram a reincidência específica da ré - além de responder a mais quatro processos por crimes da mesma natureza, circunstância que configura a reiteração criminosa - o que, nos termos da jurisprudência desta Corte Superior, é suficiente para obstar a incidência do princípio da insignificância.
+2. Agravo regimental não provido.
+(AgRg no AREsp n. 2.002.342/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 7/10/2022).
+Incidente, portanto, a Súmula n. 83/STJ."
+Ante o exposto, voto pelo desprovimento do agravo regimental.
