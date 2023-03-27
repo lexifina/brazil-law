@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de recurso especial manejado pelo Município de Ribeirão Preto com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 491):
+APELAÇÃO. RESPONSABILIDADE CIVIL DO MUNICÍPIO. PRETENSÃO À INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. INUNDAÇÃO NO ESTABELECIMENTO EM RAZÃO DE FORTE CHUVA. Comprovados os danos materiais da empresa. Omissão da municipalidade em prevenir novas enchentes. Falha de serviço. Inocorrência de força maior. Chuvas torrenciais. Previsibilidade. Danos materiais. Comprovado o nexo de causalidade entre a omissão e os danos apurados no laudo pericial contábil e nos documentos acostados aos autos. Precedentes. Possibilidade de apuração do valor do estoque e perda de receita por meio de cálculo presumido. Incidência de correção monetária calculada pela tabela prática do TJSP, desde o evento danoso (Súmula nº 43 do STJ). Aplicação da Lei 11.960/09 apenas no que toca aos juros de mora, desde a citação. Tema 810 já julgado pelo STF. Honorários de sucumbência que devem ser fixados nos termos do artigo 85, § 3º, II, do novo CPC. Sentença reformada em parte. Recursos oficial e de apelação parcialmente providos, com observação.
+A parte recorrente aponta violação ao art. 1º-F da Lei 9.494/97, com a redação dada pela Lei 11.960/2009, sustentado que o índice aplicável à correção monetária e aos juros ainda não foi definitivamente concluída pelo Supremo Tribunal Federal.
+A empresa recorrida apresentou contrarrazões às fls. 529/536.
+Em novo julgamento, para eventual juízo de retratação, o acórdão foi mantido (fls. 580/584):
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+ O recurso não merece trânsito.
+Observa-se que o Tribunal de origem, ao apreciar o feito em juízo previsto no art. 1.040, II do CPC, concluiu pela conformidade do acórdão recorrido com as Teses 810/STF e 905/STJ.
+Nesse contexto, resta prejudicada a apreciação do recurso especial, em que se alega violação aos art. 1º-F da Lei 9.494/97, com a redação dada pela Lei 11.960/2009, pois, no caso dos autos, a congruência do acórdão recorrido com as teses indicadas, o que afasta o disposto no art. 1.041 do CPC/2015, segundo o qual "mantido o acórdão divergente pelo tribunal de origem, o recurso especial ou extraordinário será remetido ao respectivo tribunal superior, na forma do art. 1.036, § 1º.".
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
