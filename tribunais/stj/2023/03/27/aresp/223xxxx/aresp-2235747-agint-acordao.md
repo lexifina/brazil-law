@@ -1,0 +1,90 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/03/2023 a 27/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se, na origem, de ação de revisão de contrato ajuizada por JUSSARA TEREZINHA CARVALHO DE CAMPOS em desfavor de PORTOCRED S.A. CRÉDITO FINANCIAMENTO E INVESTIMENTO (ora agravante), a qual foi julgada procedente pelo Juízo singular.
+Interposta a apelação pela demandada, a Vigésima Quarta Câmara Cível do Tribunal de Justiça do Estado do Rio Grande do Sul negou-lhe provimento, mantendo íntegra a decisão outrora proferida (e-STJ, fls. 318-319):
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO REVISIONAL. CONTRATO DE MÚTUO (CONSIGNADO SERVIDOR PÚBLICO).
+POSSIBILIDADE DE REVISÃO JUDICIAL DO CONTRATO EXTINTO. INTERESSE PROCESSUAL. CONFIGURADO. AMPARADA EM PRECEITOS CONSTITUCIONAIS E NAS REGRAS DE DIREITO COMUM, A REVISÃO JUDICIAL DOS CONTRATOS BANCÁRIOS É JURIDICAMENTE POSSÍVEL, INCLUSIVE, DE CONTRATOS RENEGOCIADOS, CONSOANTE ENTENDIMENTO CONSUBSTANCIADO PELO STJ, MEDIANTE A EDIÇÃO DA SÚMULA Nº 286. OUTROSSIM, DE HÁ MUITO, O ENTENDIMENTO DA CORTE SUPERIOR, POR INTERPRETAÇÃO EXTENSIVA, SE APLICA IGUALMENTE AOS CONTRATOS EXTINTOS PELA QUITAÇÃO OU NOVAÇÃO. DESTARTE CONFIGURADO O INTERESSE PROCESSUAL. PRELIMINAR REJEITADA.
+PRESCRIÇÃO. O PRAZO PRESCRICIONAL PARA AS AÇÕES REVISIONAIS DE CONTRATO BANCÁRIO, NAS QUAIS PEDE O RECONHECIMENTO DA EXISTÊNCIA DE CLÁUSULAS CONTRATUAIS ABUSIVAS E A CONSEQUENTE RESTITUIÇÃO DAS QUANTIAS PAGAS A MAIOR, É DECENAL, POIS FUNDADAS EM DIREITO PESSOAL,CONSOANTE ART. 205 DO CC, SENDO QUE INCIDE DESDE A DATA DA CELEBRAÇÃO DO CONTRATO, UMA VEZ QUE FOI, NESSE MOMENTO,QUE A PARTE AUTORA TOMOU CONHECIMENTO DOS ENCARGOS ESTIPULADOS. ASSIM, A PRESCRIÇÃO PARA A PRETENSÃO DE RESTITUIÇÃO DOS VALORES PAGOS INDEVIDAMENTE, EM SEDE DE REVISIONAL DE CONTRATO BANCÁRIA, É DECENAL, INCLUSIVE, PORQUANTO A DISCUSSÃO ACERCA DA COBRANÇA INDEVIDA DEVALORES CONSTANTES DE RELAÇÃO CONTRATUAL E EVENTUAL REPETIÇÃO DE INDÉBITO NÃO SE ENQUADRA NO CONCEITO DE ENRIQUECIMENTO ILÍCITO. PRECEDENTES DO STJ. NO PONTO, APELO DESPROVIDO.
+JUROS REMUNERATÓRIOS. POSSIBILIDADE DA LIMITAÇÃO DA COBRANÇA DE JUROS REMUNERATÓRIOS, QUANDO COMPROVADA A ABUSIVIDADE, COMO NA HIPÓTESE DOS AUTOS. LIMITAÇÃO À TAXA MÉDIA DO MERCADO PREVISTA PARA AS OPERAÇÕES DA ESPÉCIE, DETERMINADA NA SENTENÇA, MANTIDA. NO PONTO, APELO DESPROVIDO.
+COMPENSAÇÃO E/OU REPETIÇÃO DO INDÉBITO. EM RESPEITO AO PRINCÍPIO QUE VEDA O ENRIQUECIMENTO SEM CAUSA, CABE A COMPENSAÇÃO E/OU A REPETIÇÃO DO INDÉBITO, DE FORMA SIMPLES. NO PONTO, APELO DESPROVIDO.
+PRELIMINAR REJEITA. APELAÇÃO DESPROVIDA. POR UNANIMIDADE.
+Opostos embargos de declaração, o Tribunal local os desacolheu, conforme ementa abaixo reproduzida (e-STJ, fl. 347):
+EMBARGOS DE DECLARAÇÃO. APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO REVISIONAL. CONTRATO DE MÚTUO (CONSIGNADO SERVIDOR PÚBLICO).
+REDISCUSSÃO DA MATÉRIA. AS QUESTÕES TRAZIDAS PELA PARTE EMBARGANTE JÁ FORAM SUFICIENTEMENTE ANALISADAS AO LONGO DO ACÓRDÃO EMBARGADO. PORTANTO, O SEU PEDIDO SE RESTRINGE À REDISCUSSÃO DO MÉRITO, VIA PARA QUAL OS EMBARGOS DE DECLARAÇÃO NÃO SE PRESTAM, POIS QUE RECURSO DE INTEGRAÇÃO E NÃO DE SUBSTITUIÇÃO. A INCONFORMIDADE DAS PARTES ACERCA DO DECISUM DEVE SER APRESENTADA MEDIANTE O RECURSO APROPRIADO, NÃO ENSEJANDO EMBARGOS DECLARATÓRIOS. POR OUTRO LADO, NÃO TEM O JULGADOR OBRIGAÇÃO DE RESPONDER A TODOS OS QUESTIONAMENTOS, DESDE QUE SUA DECISÃO SEJA FUNDAMENTADA E ESTEJAM ATENDIDOS OS PONTOS RELEVANTES DEDUZIDOS PELAS PARTES, OU SEJA, AQUELES FUNDAMENTAIS E SUFICIENTES PARA A COMPOSIÇÃO DO LITÍGIO. OUTROSSIM, MESMO NA HIPÓTESE DE PREQUESTIONAMENTO DA MATÉRIA, A IRRESIGNAÇÃO APRESENTADA A EXAME DEVE ENCONTRAR ABRIGO EM UMA DAS HIPÓTESES DO ARTIGO 1.022 DO CPC. INEXISTÊNCIA DE OMISSÃO,OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL.
+EMBARGOS DESACOLHIDOS, POR UNANIMIDADE.
+Contra o acórdão que desproveu a apelação, com fulcro no art. 105, III, c, da Constituição Federal, a PORTOCRED S.A. CRÉDITO FINANCIAMENTO E INVESTIMENTO interpôs recurso especial, apontando violação ao art. 51, IV e § 1º, III, do Código de Defesa do Consumidor.
+Em suas razões, alegou a recorrente que a abusividade das taxas juros praticadas no contrato da ação revisional foi declarada, realizando-se mero cotejo entre a taxa divulgada pelo BACEN e a taxa contratada, sem nenhuma analise individualizada do caso sob julgamento.
+Foram apresentadas as contrarrazões (e-STJ, fl. 549-555).
+Inadmitido o reclamo especial (e-STJ, fls. 558-561), houve a interposição do agravo em recurso especial (e-STJ, fls. 570-582).
+Em decisão monocrática (e-STJ, fls. 594-596), a Presidência desta Corte Superior conheceu do agravo para não conhecer do recurso especial, com fundamento na ausência de demonstração de similitude fática.
+Nas razões do agravo interno (e-STJ, fls. 599-608), a agravante, além de defender a existência de similitude fática, reitera as alegações do agravo em recurso especial.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL. NEGÓCIO JURÍDICO. JUROS REMUNERATÓRIOS. LIMITAÇÃO. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE DEMONSTRAÇÃO DE SIMILITUDE FÁTICA. AGRAVO INTERNO DESPROVIDO.
+1. É inviável o conhecimento do recurso especial pela alínea c do permissivo constitucional quando não demonstrada a similitude fática entre o aresto impugnado e o acórdão paradigma, impossibilitando a análise da divergência de interpretação da lei federal invocada.
+2. Agravo interno desprovido.
+VOTO
+Os argumentos trazidos pela insurgente não são capazes de modificar as conclusões da decisão agravada.
+De início, impende destacar que, quanto à questão central da controvérsia, a jurisprudência desta Corte Superior é no sentido de que a limitação da taxa de juros poderá ocorrer quando comprovada significativa discrepância, consideradas as particularidades do caso concreto.
+Ilustrativamente (sem grifo no original):
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO DO CONSUMIDOR. AÇÃO REVISIONAL. JUROS REMUNERATÓRIOS. LIMITAÇÃO. TAXA MÉDIA DO MERCADO. REVISÃO DO JULGADO. IMPOSSIBILIDADE. INCIDÊNCIA DOS ENUNCIADOS N.º 5 E 7/STJ.
+1. Conforme o posicionamento da Terceira Turma do Superior Tribunal de Justiça, os juros remuneratórios devem ser limitados à taxa média de mercado quando comprovada, no caso concreto, a significativa discrepância entre a taxa pactuada e a taxa de mercado para operações similares.
+2. Na hipótese dos autos, inviável rever a conclusão do Tribunal estadual de que os juros remuneratórios são abusivos quando comparados à taxa média de mercado, pois demandaria reexame de provas e interpretação de cláusula contratual, providências vedadas em recurso especial.
+3. Não apresentação de argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada.
+4. AGRAVO INTERNO CONHECIDO E DESPROVIDO.
+(AgInt no REsp n. 1.930.618/RS, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 25/4/2022, DJe de 27/4/2022.)
+Na hipótese dos autos, a Câmara julgadora, seguindo o entendimento jurisprudencial deste Superior Tribunal, negou provimento à apelação interposta pela parte agravante, dada a constatação de significativa discrepância nas taxas praticadas (e-STJ, fls. 313-316):
+JUROS REMUNERATÓRIOS.
+A norma prevista no art. 192, § 3º, da Carta da República que limitava as taxas de juros reais em 12% ao ano e que, por sua vez, restou revogada pela Emenda Constitucional nº 40 de29 de maio de 2003, não era auto-aplicável.
+Tal entendimento, inclusive, encontra-se consubstanciado na Súmula nº 648 do STF: "A norma do § 3º do art. 192 da Constituição, revogada pela EC 40/2003, que limitava a taxa de juros reais a 12% ao ano, tinha sua aplicabilidade condicionada à edição de lei complementar".
+Outrossim, a limitação dos juros em 12% ao ano, fundamentada na legislação ordinária e infraconstitucional, também não procede.
+Com efeito, com o advento da Lei nº 4.595/1964, diploma que disciplina de forma especial o Sistema Financeiro Nacional e suas instituições, estas deixaram de sofrer as limitações do Decreto nº 22.626/33 (lei de Usura), tendo ficado delegado ao Conselho Monetário Nacional poderes normativos para limitar as referidas taxas, salvo as exceções legais.
+A matéria, inclusive, encontra-se pacificada no STJ, nos termos da Súmula nº 596 do STF: "As disposições do Dec. nº 22.626/33 não se aplicam às taxas de juros e aos outros encargos cobrados nas operações realizadas por instituições públicas ou privadas que integram o Sistema Financeiro Nacional."
+Aliás, o STJ analisou a questão dos juros remuneratórios em contrato bancário em sede de incidente de processo repetitivo, resultando a orientação nº 1, a qual transcrevo:
+ ..
+Dessa forma, a taxa de juros remuneratórios não se encontra limitada a 12% ao ano.
+Por outro lado, eventual abusividade no caso concreto pode determinar a revisão dos juros contratados com base na Lei nº 8.078/90 (Código de Defesa do Consumidor - CDC).
+Tem entendido o STJ que, para a aferição da excessiva onerosidade dos juros remuneratórios, é necessário, apenas, o cotejamento da taxa contratada com a taxa média de mercado.
+Nesse sentido:
+ ..
+Note-se que, a fim de se aferir a abusividade, ou não, dos juros remuneratórios contratados pelas partes, foi traçado um paralelo entre as taxas de juros contratadas e a Taxa média de juros das operações de crédito com recurso livres Pessoas físicas - Crédito pessoal consignado para trabalhadores do setor público, códigos 20745 e 25467 (taxas anual e mensal).
+Destaco, ainda, que este Colegiado adota como parâmetro para apuração da existência de abusividade na contratação sujeitada à revisão, a taxa média de mercado registrada pelo Banco Central do Brasil - BACEN à época da contratação e em conformidade com a respectiva operação somada do percentual de 30% (trinta por cento), tido como a margem tolerável.
+Na hipótese dos autos, restou efetivamente demonstrada a abusividade na taxa de juros remuneratórios, diante das taxas pactuadas, em fevereiro/2012, de 8% ao mês e de 151,82% ao ano, comparadas às taxas médias praticadas no mercado, à mesma época, de 1,97% ao mês e26,43% ao ano, na operação de mesma espécie.
+Outrossim, não se pode admitir que o grau de risco da operação, tenha o condão de permitir a cobrança de juros exorbitantes pela instituição financeira, colocando o consumidor em desvantagem exagerada, diante da referida situação, sendo sua a discricionariedade de conceder empréstimos a determinado segmento de clientes, em concorrência com as demais instituições financeiras atuantes no mercado.
+Assim, admite-se a cobrança de juros remuneratórios além da taxa média de mercado divulgada pelo BACEN, mas com razoabilidade e observância das regras do Código de Defesa do Consumidor.
+Isto posto, não cabe a reforma da sentença, no ponto, uma vez que prolatada de acordo com o posicionamento desta Câmara, em consonância com o STJ, no sentido de, na hipótese de significativa discrepância entre a taxa pactuada e a taxa média de mercado para operações da espécie, devem ser fixados os juros remuneratórios à referida taxa média, conforme precedentes do STJ:
+AGRAVO REGIMENTAL NO AGRAVO. CONTRATO BANCÁRIO. JUROS REMUNERATÓRIOS LIMITADOS À TAXA MÉDIA DE MERCADO. DECISÃO AGRAVADA MANTIDA. IMPROVIMENTO.
+1 . - Mantém-se a limitação dos juros remuneratórios à taxa média de mercado quando comprovada, no caso concreto, a significativa discrepância entre a taxa pactuada e a taxa de mercado para operações da espécie.
+2.- O agravante não trouxe qualquer argumento capaz de modificar a conclusão do julgado, o qual se mantém por seus próprios fundamentos.
+3.- Agravo Regimental improvido.
+(AgRg no AREsp 504021 / RS AGRAVO REGIMENTAL NOAGRAVO EM RECURSO ESPECIAL 2014/0089812-6, Rel. Min. SIDNEI BENETI, Terceira Turma, Julgado em 27.05.2014, DJe em 09.06.2014) (grifado)
+CIVIL E PROCESSUAL CIVIL. BANCÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CAPITALIZAÇÃO MENSAL DOS JUROS. PACTUAÇÃO EXPRESSA. JUROS REMUNERATÓRIOS. ABUSIVIDADE NÃO CONSTATADA. COMISSÃO DE PERMANÊNCIA NO PERÍODO DE INADIMPLÊNCIA. POSSIBILIDADE. SÚMULAS N. 5 E 7 do STJ. MATÉRIA CONSTITUCIONAL. APRECIAÇÃO EM RECURSO ESPECIAL. INVIABILIDADE. DECISÃO MANTIDA.
+1. "A capitalização dos juros em periodicidade inferior à anual deve vir pactuada de forma expressa e clara. A previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada" (REsp n.973827/RS, Relatora para o acórdão Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 8/8/2012, DJe 24/9/2012). Precedente representativo da controvérsia (art. 543-C do CPC).
+2. Não cabe ao STJ o exame de matéria constitucional, sob pena de usurpação da competência do STF. Precedentes.
+3. As taxas de juros remuneratórios podem ser fixadas à taxa média de mercado quando verificada, pelo Tribunal de origem, a abusividade do percentual contratado. No caso concreto, o acórdão recorrido, com base no conteúdo probatório dos autos, afastou a alegação de abusividade da taxa de juros estipulada pelas partes. Incide o óbice das Súmulas n. 5 e 7 do STJ.
+4. "Nos contratos bancários sujeitos ao Código de Defesa do Consumidor, é válida a cláusula que institui comissão de permanência para viger após o vencimento da dívida" (Resp n.1.058.114/RS, Relator p/ Acórdão Ministro JOÃO OTÁVIO DE NORONHA, SEGUNDA SEÇÃO julgado em 12/8/2009, DJe 16/11/2010).
+5. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 391853 / MS AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL 2013/0298229-7. Rel. Min. ANTONIOCARLOS FERREIRA, Julgado em 27.03.2014, DJe em 08.04.2014) (grifado)
+Registre-se que, ao interpor o recurso especial com fundamento na alínea c do permissivo constitucional, a recorrente deixou de apresentar a similitude fática entre o aresto impugnado e a decisão paradigma, valendo-se de argumentos que, em grande medida, coincide com o entendimento cristalizado no Superior Tribunal de Justiça.
+Veja-se (e-STJ, fls. 362-363):
+Como visto na Orientação 1 - JUROS REMUNARATÓRIOS, acima, a jurisprudência desse egrégio Tribunal pacificou há muito a interpretação para a questão da abusividade prevista no art.51 do CDC no que tange às taxas de juros remuneratórios, determinando que "fique cabalmente demonstrada, ante às peculiaridades do caso concreto".
+ ..
+Como visto no trecho da decisão citado acima, para convencimento do Tribunal a quo bastou o mero cotejo entre taxa de juros prevista no contrato objeto da ação e a taxa média publicada pelo Bacen para época da contratação para se configurar a abusividade da taxa contratada e a consequente determinação de sua revisão.
+Resta evidente, então, a divergência da decisão do Tribunal a quo, que proferiu entendimento diverso do preconizado na decisão supracitada, visivelmente "simplificando" a aferição da abusividade na taxa de juros contratada entre as partes ora litigantes.
+No já citado RESP 1.061.530/RS, que parametrizou a jurisprudência da matéria, ficou estabelecido que a intervenção do Poder Judiciário na revisão da taxa de juros só é admitida em situações excepcionais, quando "cabalmente demonstrada" a abusividade "ante as peculiaridades do julgamento em concreto", depreende-se nitidamente que não foi o que ocorreu no julgado ora combatido, na medida que o mero cotejo de taxas entre o contrato revisando e a taxa do Bacen à época da contratação, s. m. j., em nada exauriu a necessária análise das peculiaridades do caso concreto.
+Ou seja, não houve pelo emérito julgador qualquer análise apurada das peculiaridades do caso em concreto nos presentes autos, como bem determinada a jurisprudência desta Corte Superior.
+A jurisprudência do Superior Tribunal de Justiça dispõe que a ausência de similitude fática entre a decisão embargada e o aresto paradigma impede a configuração do dissídio jurisprudencial pretensamente alegado pela agravante, obstando o conhecimento do recurso especial pela alínea c.
+Na mesma linha de cognição (sem grifos no original):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA Nº 284/STF. DIVERGÊNCIA JURISPRUDENCIAL. SIMILITUDE FÁTICA. DEMONSTRAÇÃO. AUSÊNCIA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. É inadmissível o inconformismo por deficiência na sua fundamentação quando o recurso especial deixa de indicar especificamente de que forma os dispositivos legais teriam sido violados. Aplicação da Súmula nº 284/STF.
+3. Nos termos dos artigos 1.029, § 1º, do CPC/2015 e 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça, é inviável o conhecimento do recurso especial pela alínea "c" do permissivo constitucional, quando não demonstrada, como no caso em apreço, a similitude fática entre as hipóteses confrontadas, inviabilizando a análise da divergência de interpretação da lei federal invocada.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.019.786/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 14/11/2022, DJe de 18/11/2022.)
+Tendo em vista, então, que as alegações feitas no agravo interno não são capazes de alterar o convencimento manifestado no aresto impugnado, permanece íntegra a decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
