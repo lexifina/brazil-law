@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/03/2023 a 27/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Humberto Martins, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto contra monocrática que decidiu recurso especial interposto por Elizabeth da Silva Teixeira da Silva, com fundamento no art. 105, III, a, da CF/1988.
+O recurso especial visa reformar decisão do Tribunal Regional Federal da 2ª Região, cuja ementa foi lançada nestes termos (fl. 457).
+PROCESSUAL CIVIL. APELAÇÃO. EXECUÇÃO INDIVIDUAL. MANDADO DE SEGURANÇACOLETIVO. NECESSIDADE DE FILIAÇÃO AO TEMPO DA PROPOSITURA DA AÇÃO. ILEGITIMIDADE ATIVA DA EXEQUENTE. EXTINÇÃO DA EXECUÇÃO. RECURSOCONHECIDO E DESPROVIDO.
+1. Cinge-se a questão a aferir se a Apelante detém legitimidade para executar individualmente a Sentença proferida no Mandado de Segurança Coletivo nº2005.51.01.016159-0, impetrado pela Associação de Oficiais Militares do Estado do Rio de Janeiro - AME/RJ, que reconheceu a legitimidade ativa da AME/RJ como substituta processual dos associados relacionados na petição inicial daquele mandamus, determinando a implantação da Vantagem Pecuniária Especial (VPE) nos proventos de reforma auferidos pelos Policiais Militares e Bombeiros do antigo Distrito Federal filiados àquela Impetrante.
+2. No julgamento do Recurso Extraordinário nº 612.043/PR, o Supremo Tribunal Federal firmou entendimento no sentido de que, para ser beneficiado por Sentença proferida em Ação Coletiva, é necessário que o autor da Ação Individual esteja filiado no momento da propositura da Ação Coletiva e seja residente no âmbito da jurisdição do órgão julgador.
+3. Devidamente intimada, a Apelante não cumpriu na totalidade a determinação judicial, porquanto não tenha logrado êxito em comprovar a filiação do instituidor do benefício à Associação de Oficiais Militares Estaduais do Rio de Janeiro, tampouco em colacionar cópia da listagem de fls. 28/34 do Mandado de Segurança Coletivo.
+4. Apelação conhecida e desprovida.
+Na origem, trata-se de execução individual de sentença coletiva ajuizada por Elizabeth da Silva Teixeira da Silva contra a União, na qual o ente federal foi condenado a implantar a Vantagem Pecuniária Especial - VPE nos proventos de reforma dos Policiais Militares e Bombeiros do antigo Distrito Federal.
+Na sentença, extinguiu-se o feito, por ilegitimidade ativa. No Tribunal a quo, a sentença foi mantida. Esta Corte conheceu do agravo para não conhecer do recurso especial.
+No recurso especial, Elizabeth da Silva Teixeira da Silva aponta violação do art. 22, caput, da Lei n.12.016/2009, aduzindo que o acórdão recorrido violou o artigo supracitado, uma vez que a decisão se deu no sentido de considerar a ilegitimidade ativa da agravante.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial."
+Interposto agravo interno, a parte agravante traz argumentos contrários aos fundamentos da decisão, resumidos nestes termos (fl. 811):
+ ..  para que se chegue à conclusão de que a recorrente é parte legítima, não se faz necessário o revolvimento de matéria fática, mas sim adotar a tese firmada pelo STJ no Tema 1056, que deveria ter sido cumprida pelo TRF 2, já que, na instância ordinária, foram juntados documentos que indicavam a qualidade de pensionista de oficial militar do Antigo DF da recorrente, justamente a categoria reconhecida no recurso repetitivo como legitimada, o que afasta o óbice da súmula 7 do STJ, dispensando o revolvimento de matéria fático-probatória para que se chegue a tal conclusão.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. MILITAR. VANTAGEM PECUNIÁRIA ESPECIAL - VPE. IMPLANTAÇÃO. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. ILEGITIMIDADE ATIVA. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. APLICAÇÃO DA SÚMULA N. 7 DO STJ.
+I - Na origem, trata-se de execução individual de sentença coletiva ajuizada contra a União, na qual o ente federal foi condenado a implantar a Vantagem Pecuniária Especial - VPE nos proventos de reforma dos Policiais Militares e Bombeiros do antigo Distrito Federal.
+II - Na sentença, extinguiu-se o feito, por ilegitimidade ativa. No Tribunal a quo, a sentença foi mantida. Esta Corte conheceu do agravo para não conhecer do recurso especial.
+III - A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que, se a irresignação da recorrente vai de encontro às convicções do julgador a quo que, com lastro no conjunto probatório, firmou o seu convencimento, é defeso a esta Corte Superior o seu reexame, a teor da Súmula n. 7/STJ.
+IV - A Corte de origem concluiu que (fl. 456): "(..) Devidamente intimada, a Apelante não cumpriu na totalidade a determinação judicial, porquanto não tenha logrado êxito em comprovar a filiação do instituidor do benefício à Associação de Oficiais Militares Estaduais do Rio de Janeiro, tampouco em colacionar cópia da listagem de fls. 28/34 do Mandado de Segurança Coletivo. Assim, deve ser reconhecida a ilegitimidade da Apelante para a propositura de execução individual da sentença proferida no mandamus. (..)"
+V - Para rever a posição adotada pela Corte de origem e interpretar os dispositivos legais indicados como violados, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese o enunciado da Súmula n. 7/STJ.
+VI - Agravo interno improvido.
+VOTO
+O recurso não merece provimento.
+A decisão deve ser mantida pelos seus próprios fundamentos, pois aplicou a jurisprudência do Superior Tribunal de Justiça firme no sentido de que, se a irresignação da recorrente vai de encontro às convicções do julgador a quo que, com lastro no conjunto probatório, firmou o seu convencimento, é defeso a esta Corte Superior o seu reexame, a teor da Súmula n. 7/STJ.
+A Corte de origem concluiu que (fl. 456):
+(..)
+Não obstante a desnecessidade de autorização específica dos filiados para impetração de Mandado de Segurança Coletivo por Associação (Súmula 629/STF), a execução de Sentença transitada em julgado em Ação Coletiva proposta por entidade associativa de caráter civil alcança apenas os filiados na data da propositura da Ação, não podendo o filiado em momento posterior à formalização da ação de conhecimento se beneficiar de seus efeitos.
+No caso em apreço, o Juízo a quo determinou que a Exequente emendasse a inicial, sob pena de extinção, a fim de: "a) Fornecer cópia da petição inicial, mandado de citação e respectiva certidão, sentença, e demais decisões/acórdãos proferidos no E. TRF, STJ e STF, ainda não juntadas aos autos, bem como certidão de trânsito em julgado; b) Comprovar sua filiação à Associação de Oficiais Militares Estaduais do Rio de Janeiro, autora do mandado de segurança coletivo originário, colacionando, ainda, cópia da listagem de fls.28/34 daquele feito"(fls. 105/107).
+Devidamente intimada, a Apelante não cumpriu na totalidade a determinação judicial, porquanto não tenha logrado êxito em comprovar a filiação do instituidor do benefício à Associação de Oficiais Militares Estaduais do Rio de Janeiro, tampouco em colacionar cópia da listagem de fls. 28/34 do Mandado de Segurança Coletivo.
+Assim, deve ser reconhecida a ilegitimidade da Apelante para a propositura de execução individual da sentença proferida no mandamus.
+(..)
+Assim, para rever a posição adotada pela Corte de origem e interpretar os dispositivos legais indicados como violados, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese o enunciado da Súmula n. 7/STJ.
+Ante o exposto, não conheço do recurso.
+É o voto.
