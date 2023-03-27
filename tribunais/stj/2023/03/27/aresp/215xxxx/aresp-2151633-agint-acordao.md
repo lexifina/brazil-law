@@ -1,0 +1,73 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/03/2023 a 27/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por ELIZABETH BARROS LOPES contra decisão de relatoria da Presidência do STJ, por meio da qual conheceu do agravo em recurso especial para não conhecer do recurso especial (fls. 255-258).
+O recurso especial foi interposto contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO assim ementado (fl. 93):
+AGRAVO DE INSTRUMENTO. SERVIDOR ESTADUAL. CATEGORIA ESPECÍFICA. SINDICATO PRÓPRIO. ILEGITIMIDADE ATIVA. AGRAVO PROVIDO.
+1. A jurisprudência pátria firmou-se no sentido de que, em situações envolvendo sindicato com amplo alcance, como é ocaso do SINTSEP, o sindicato "genérico" não possui legitimidade para atuar em nome das categorias específicas que tenham representação própria.
+2. Havendo entidade sindical mais específica (SINPROESSEMA) que atua na mesma base territorial e representa diretamente carreira a que pertence o agravado, forçoso reconhecer sua ilegitimidade ativa para executar a obrigação de fazer contida na sentença da Ação Coletiva n.º 6542/2005 proposta pelo SINTSEP, tendo em vista a vedação decorrente do princípio da unicidade sindical.
+3. Agravo de instrumento provido.
+Rejeitados os embargos de declaração opostos (fls. 139-151).
+No presente recurso, alega a parte agravante: a) quanto ao art. 1.022, II, CPC, pelo afastamento da Súmula n. 284/STF, pois "não há qualquer indicação genérica, mas precisa, ressaltando, em razão da omissão da corte estadual sobre a ofensa ao efeito devolutivo do agravo de instrumento e supressão de instância"; b) quanto ao dissídio jurisprudencial e ao art. 1.015 do CPC, pelo afastamento da Súmula n. 284/STF, pois: "não deve prosperar a suposta dissociação entre os fundamentos do Recurso Especial e o acórdão recorrido"; "não se deve falar em razões dissociadas, pois a violação ao efeito devolutivo recursal está diretamente vinculada à decisão que apreciou matéria de forma indevida"; e, "também é afastado o fundamento de impossibilidade de apreciação da divergência apontada com fulcro na alínea "c", pois extirpado o seu único fundamento, não mais existe o impedimento" (fls. 262-265).
+Impugnação ao agravo interno (fls. 269-272).
+É, no essencial, o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 1.022 DO CPC. ALEGAÇÃO GENÉRICA. SÚMULA N. 284/STF. AUSÊNCIA DE COMANDO NORMATIVO NO DISPOSITIVO LEGAL APONTADO COMO VIOLADO. SÚMULA N. 284/STF. RAZÕES RECURSAIS DISSOCIADAS. SÚMULA N. 284/STF. ANÁLISE DA DIVERGÊNCIA PREJUDICADA.
+1. Não se conhece da suposta afronta ao art. 1.022 do CPC, pois a parte recorrente se limitou a afirmar de forma genérica a ofensa ao referido normativo sem demonstrar qual questão de direito não foi abordada no acórdão proferido em embargos de declaração e a sua efetiva relevância para novo julgamento pela Corte de origem. Incidência da Súmula n. 284/STF.
+2. Incide a Súmula n. 284/STF quando o dispositivo legal indicado como violado não contém comando normativo capaz de sustentar a tese deduzida e infirmar a validade dos fundamentos do acórdão recorrido.
+3. Aplicável o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado.
+4. A análise da divergência jurisprudencial fica prejudicada pelo óbice aplicado à alínea "a" uma vez que ambas as alíneas tratam da mesma matéria e do mesmo dispositivo violado.
+Agravo interno improvido.
+VOTO
+O EXMO. MINISTRO HUMBERTO MARTINS (relator):
+Não merece provimento o presente recurso.
+Conforme exposto na decisão agravada, não se conhece da suposta afronta ao art. 1.022 do CPC, pois o recorrente se limitou a afirmar de forma genérica a ofensa ao referido normativo sem demonstrar qual questão de direito não foi abordada no acórdão proferido em embargos de declaração e a sua efetiva relevância para novo julgamento pela Corte de origem.
+Incidência da Súmula n. 284/STF.
+Nesse sentido, confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REVISÃO CONTRATUAL C/C INDENIZAÇÃO. 1. DANOS MORAIS. INEXISTÊNCIA. REVISÃO INVIÁVEL. SÚMULA 7/STJ. 2. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. ALEGAÇÃO GENÉRICA. SÚMULA 284/STF. 3. AGRAVO INTERNO DESPROVIDO.
+ ..
+2. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC/2015 se faz de forma genérica, sem a demonstração exata dos pontos em relação aos quais o acórdão se fez omisso, contraditório ou obscuro. Incidência da Súmula 284 do Supremo Tribunal Federal.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.107.963/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 12/9/2022, DJe de 14/9/2022.)
+O art. 1.015 do CPC, o qual disciplina as hipóteses de cabimento do recurso de agravo de instrumento, não tem comando normativo suficiente para amparar a tese recursal, qual seja, ocorrência de supressão de instância, o que impede sua apreciação em recurso especial.
+Com efeito, mais uma vez, incide na espécie, por analogia, o óbice contido na Súmula n. 284 do Supremo Tribunal Federal, segundo a qual "é inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia", como espelham os precedentes assim ementados:
+ADMINISTRATIVO. RESPONSABILIDADE DO ESTADO CONTAMINAÇÃO PELO VÍRUS HIV. TRANSFUSÃO DE SANGUE. INDENIZAÇÃO POR DANO MORAL E MATERIAL. PENSÃO VITALÍCIA. REEXAME DO CONTEXTO PROBATÓRIO QUE JUSTIFICOU O VALOR ARBITRADO. IMPOSSIBILIDADE. SÚMULA 7/STJ. VALOR RAZOÁVEL E SIMILAR A CASO ANÁLOGO. AUSÊNCIA DE PREQUESTIONAMENTO DAS TESES LIGADAS AO PENSIONAMENTO. SÚMULAS 282/STF E 356/STF. ART. 394 DO CÓDIGO CIVIL. AUSÊNCIA DE COMANDO NORMATIVO CAPAZ DE SUSTENTAR TESE SUSCITADA. SÚMULA 284/STF. JUROS DE MORA E CORREÇÃO MONETÁRIA. ACÓRDÃO RECORRIDO PARCIALMENTE CONSOANTE AO ENTENDIMENTO DESTE STJ. IMPOSSIBILIDADE DE ALTERAÇÃO. NON REFORMATIO IN PEJUS.
+ ..
+VII - O termo a quo dos juros moratórios e da correção monetária, na hipótese, é a data do ajuizamento da ação, e não do evento danoso, não tendo o indicado art. 394 do CC/2002 comando normativo suficiente a amparar a alegação de que, por se tratar de prestação de trato sucessivo, os juros moratórios não devem ser contabilizados a partir do vencimento de cada prestação, ocorrida mensalmente. Aplica-se à hipótese a Súmula 284/STF.
+ ..
+IX - Recurso especial parcialmente conhecido e, nessa parte, não provido.
+(REsp n. 1.975.490/MG, relator Ministro Francisco Falcão, Segunda Turma, julgado em 28/2/2023, DJe de 3/3/2023.)
+PROCESSUAL CIVIL. ADICIONAL DE INSALUBRIDADE. OBRIGAÇÃO LÍQUIDA. BASE DE CÁLCULO. ARTIGOS DE LEI INÁBEIS PARA COMBATER O ACÓRDÃO RECORRIDO. SÚMULA 284/STF. JUROS DE MORA A PARTIR DO INADIMPLEMENTO. SÚMULA 83/STJ. REVISÃO DA LIQUIDEZ. SÚMULA 7/STJ.
+1. Não prospera a afirmação do Estado recorrente de que se trata de obrigação ilíquida. Ora, o Tribunal de origem definiu que a base de cálculo do adicional de insalubridade será o subsídio mínimo pago à categoria, e os dispositivos legais apontados pelo recorrente (arts. 240 do CPC/2015 e 405 do CC) não possuem comando normativo hábil a amparar a tese recursal de que a aludida base de cálculo deve incidir sobre o menor subsídio pago aos servidores estaduais. Incide, portanto, o óbice da Súmula 284 do STF na tentativa de ver prevalecer outra base de cálculo que não aquela definida na decisão recorrida.
+ ..
+5. Agravo Interno não provido.
+(AgInt no AREsp n. 2.151.250/AL, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+Ademais, quanto à alegada ocorrência de supressão de instância, o acórdão recorrido assim decidiu:
+Não merece acolhida a alegação da embargante quanto à ocorrência de supressão de instância acerca da legitimidade levantada pelo Estado do Maranhão. Isso porque, como é sabido e restou consignado na decisão ora embargada, a legitimidade das partes é matéria de ordem pública e que, portanto, pode ser alegada em qualquer instância e ser conhecida até mesmo de ofício pelo órgão julgador.
+Desse modo, se tal matéria pode ser conhecida até mesmo de ofício e em qualquer grau de jurisdição, não há que se falar em existência de supressão de instância na hipótese de ser suscitada em sede de agravo de instrumento, mormente quando o juiz singular determina de imediato a implantação do percentual de 4,36% no contracheque do exequente, sem manifestação prévia do ente estatal, como ocorreu no caso em tela (fl. 143).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal" (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018).
+Ainda que assim não fosse, o entendimento do Tribunal de origem encontra-se em harmonia com a jurisprudência desta Corte, no sentido de que "a legitimidade das partes, por constituir uma das condições da ação, perfaz questão de ordem pública e pode ser alegado a qualquer tempo e grau de jurisdição ou mesmo declarado de ofício, sem que se tenha configurada a reformatio in pejus" (AgInt no REsp n. 1.493.974/PE, relator Ministro Og Fernandes, Segunda Turma, julgado em 19/11/2019, DJe de 22/11/2019).
+Nesse sentido, cito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. CUMPRIMENTO DE SENTENÇA. EXECUÇÃO COLETIVA. LEGITIMIDADE ATIVA. MATÉRIA DE ORDEM PÚBLICA APRECIÁVEL A QUALQUER TEMPO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA 284/STF.
+1. Mostra-se deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na espécie, o óbice da Súmula 284 do STF. Nesse mesmo sentido vão os seguintes precedentes: AgInt no AREsp 1.070.808/MA, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 10/6/2020; AgInt no REsp 1.730.680/RJ, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe de 24/4/2020; AgInt nos EDcl no AREsp 1.141.396/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 12/3/20020; AgInt no REsp 1.588.520/DF, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 27/2/2020 e AgInt no AREsp 1.018.228/PI, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 25/9/2019.
+2. Registre-se que "a legitimidade das partes, por constituir uma das condições da ação, perfaz questão de ordem pública e pode ser alegado a qualquer tempo e grau de jurisdição ou mesmo declarado de ofício, sem que se tenha configurada a reformatio in pejus." (AgInt no REsp n. 1.493.974/PE, relator Ministro Og Fernandes, Segunda Turma, julgado em 19/11/2019, DJe de 22/11/2019).
+3. Agravo interno não provido.
+(AgInt no AREsp n. 2.142.820/MA, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 13/2/2023, DJe de 16/2/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E ADMINISTRATIVO. MUNICÍPIO DE ITABORAÍ. DESCONTO COMPULSÓRIO PARA CUSTEAR UM SISTEMA PRÓPRIO DE ASSISTÊNCIA MÉDICA/ASSISTÊNCIA À SAÚDE DOS SERVIDORES MUNICIPAIS. DECLARAÇÃO DE INCONSTITUCIONALIDADE DA LEI MUNICIPAL Nº 1.590/1999. OMISSÃO DO ACÓRDÃO ESTADUAL AFASTADA. ILEGITIMIDADE PASSIVA DO INSTITUTO DE PREVIDÊNCIA MUNICIPAL. PEDIDO DE DEVOLUÇÃO DO INDÉBITO. REEXAME DE MATÉRIA FÁTICA E DE DISPOSITIVOS DE LEI LOCAL. SÚMULAS 7/STJ E 280/STF. FALTA DE ATAQUE A FUNDAMENTO DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. LEGITIMIDADE DAS PARTES. CONDIÇÃO DA AÇÃO. MATÉRIA DE ORDEM PÚBLICA APRECIÁVEL A QUALQUER TEMPO PELO JUÍZO SINGULAR OU PELA INSTÂNCIA ORDINÁRIA AD QUEM. JURISPRUDÊNCIA DO STJ.
+ ..
+4. Nos termos da jurisprudência do STJ, por se tratar de uma condição da ação e, portanto, matéria de ordem pública, a legitimidade das partes deve ser apreciada a qualquer tempo pelo Juízo singular ou pela instância ordinária ad quem.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 1.538.487/RJ, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 8/6/2020, DJe de 12/6/2020.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. INDISPONIBILIDADE DE BENS DOS SÓCIOS. RECURSO APRESENTADO PELA EMPRESA EXECUTADA. AUSÊNCIA DE LEGITIMIDADE RECURSAL. MATÉRIA APRECIADA EM SEDE DE RECURSO REPETITIVO (RESP 1.347.627/SP). REFORMATIO IN PEJUS. INEXISTÊNCIA. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+IV. A legitimidade recursal situa-se no âmbito do exame dos requisitos de admissibilidade do recurso, os quais devem ser examinados de ofício, independentemente de requerimento da parte ou do interessado, não se sujeitando à preclusão.
+V. Na forma da jurisprudência, "a questão da legitimidade recursal é matéria de ordem pública, cujo conhecimento pode-se dar de ofício, sem que fique caracterizada reformatio in pejus" (STJ, AgRg no Ag 1.381.728/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 30/09/2011). Em igual sentido: STJ, REsp 923.083/RS, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, DJe de 25/03/2008.
+VI. Agravo Regimental improvido.
+(AgRg nos EDcl no AREsp n. 568.904/RS, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 22/5/2018, DJe de 28/5/2018.)
+Por fim, a análise da divergência jurisprudencial fica prejudicada pelo óbice aplicado à alínea "a", uma vez que ambas as alíneas tratam da mesma matéria e do mesmo dispositivo violado.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
