@@ -1,0 +1,25 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/03/2023 a 27/03/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Humberto Martins, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Embargos de Declaração contra acórdão da Segunda Turma do STJ cuja ementa é a seguinte:
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO A FUNDAMENTO DA DECISÃO DENEGATÓRIA DE ORIGEM. SÚMULA 182 DO STJ. INCIDÊNCIA. AGRAVO INTERNO NÃO PROVIDO.
+1. O Recurso Especial da agravante não foi admitido com base nos seguintes argumentos: "Inicialmente, a parte recorrente alega em seu recurso a incidência ao caso dos Temas 955 e 1.021, do STJ. Nesse sentido, confira-se as teses fixadas e publicadas em 16/08/2018 e 11/12/2020, respectivamente: (..) Pois bem. Observa-se que a primeira tese trata do cálculo da complementação da aposentadoria sobre a incorporação de horas extraordinárias reconhecidas pela Justiça do Trabalho, o que a toda evidência não é o caso dos autos. Já a segunda diz respeito à impossibilidade de inclusão de verbas remuneratórias reconhecidas judicialmente nos cálculos da previdência complementar após a concessão deste beneficio. Todavia, conforme já exaustivamente abordado na presente lide, a parcela remuneratória reconhecida pela justiça trabalhista começou a ser paga à recorrida em 01/12/2011, e a sua aposentadoria se deu em 26/04/2016, ou seja, anterior ao benefício, sendo que no referido período o adicional de incorporação gerou reflexo nas contribuições vertidas a fim de compor a reserva matemática da recorrente. Portanto, tenho que a segunda tese também não se aplica ao caso em apreço. A respeito da alegada violação do art. 1.022, II, do Código de Processo Civil, este reclamo não está apto à instância superior em decorrência da censura da Súmula 831 do Superior Tribunal de Justiça, pois a decisão está fulcrada no entendimento da Corte Cidadã".
+2. Sedimentou-se, na Corte Especial do STJ, o entendimento de que "a decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais" (EAREsp 701.404/SC, EAREsp 746.775/SC e EAREsp 831.326/SC, Rel. p/ acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe de 30.11.2018).
+3. Importante registrar que o momento adequado para impugnação dos fundamentos da decisão que inadmite o Recurso Especial é a interposição do Agravo em Recurso Especial, sob pena de preclusão caso feita posteriormente.
+4. Agravo Interno não provido.
+Nos Aclaratórios, a embargante requer a fixação de honorários advocatícios recursais em razão de o julgamento do Agravo Interno interposto pela ora embargada ter tido o provimento negado.
+Impugnação às fls. 739-744, e-STJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS RECURSAIS EM AGRAVO INTERNO. IMPOSSIBILIDADE.
+1. Trata-se de Embargos de Declaração visando à fixação de novos honorários recursais em virtude do não provimento do Agravo Interno.
+2. Conforme a jurisprudência do Superior Tribunal de Justiça, não há, no Agravo Interno, caráter de Recurso independente/autônomo, visto que não faz a abertura de nova instância recursal, motivo pelo qual não se aplicam os honorários sucumbenciais recursais.
+3. Embargos de Declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 27.02.2023.
+Conforme a jurisprudência deste Tribunal, não há, no Agravo Interno, caráter de Recurso independente/autônomo, visto que não faz a abertura de instância recursal, motivo pelo qual não se aplicam os honorários sucumbenciais recursais (AgInt no AREsp 1.373.385/PR, Rel. Min. Raul Araújo, Quarta Turma, DJe 15.4.2019).
+Os honorários advocatícios já foram majorados por ocasião do julgamento do Recurso Especial de forma monocrática às fls. 668-671, e-STJ, de modo que não cabe nova majoração nos Recursos subsequentes interpostos perante o STJ.
+Diante do exposto, rejeito os Embargos de Declaração, com a advertência de que a reiteração será considerada expediente protelatório sujeito a multa.
+É como voto.
