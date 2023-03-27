@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+APELAÇÃO CÍVEL - EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - EXCEÇÃO DE PRÉ-EXECUTIVIDADE ACOLHIDA, PARA EXTINGUIR O PROCESSO, POR PRESCRIÇÃO INTERCORRENTE. CONDENAÇÃO DO EXEQUENTE AO PAGAMENTO DAS VERBAS SUCUMBENCIAIS - INVIABILIDADE - APLICAÇÃO DO PRINCÍPIO DA CAUSALIDADE - PRECEDENTES DO STJ - RECURSO PROVIDO.
+Ainda que a prescrição intercorrente tenha sido reconhecida em sede de Exceção de Pré-Executividade, é incabível a condenação do exequente ao pagamento das verbas sucumbenciais, em aplicação ao Princípio da Causalidade, uma vez que a parte executada deu causa ao ajuizamento da ação, em razão de sua inadimplência, conforme entendimento do STJ.
+Opostos embargos de declaração, esses foram rejeitados na origem.
+Nas razões do especial, aponta o agravante existência de dissídio jurisprudencial, além de violação dos artigos 82, 85 e 1.022 do Código de Processo Civil, alegando a ocorrência de negativa de prestação jurisdicional com a rejeição dos embargos de declaração, sem suprimento de vícios acerca de o princípio da causalidade determinar o ônus sucumbencial.
+Defende que, em face do reconhecimento da prescrição intercorrente da execução extrajudicial, por inercia do credor, em que o devedor não deu causa, deve-se imputar o ônus sucumbencial ao exequente.
+Assim delimitada a controvérsia, passo a decidir.
+No que se refere à preliminar, não observo omissão no acórdão, senão julgamento contrário aos interesses do agravante, o que não autoriza, por si só, o acolhimento de embargos de declaração, nem sua rejeição importa em violação à sua norma de regência.
+Esclareça-se que não se exige do julgador a análise de todos os argumentos das partes, para fins de convencimento e julgamento. Para tanto, basta o pronunciamento acerca dos fatos controvertidos, o que se observa no presente caso, havendo fundamentação quanto ao afastamento da condenação em honorários sucumbenciais, revelando que os motivos da decisão encontram-se objetivamente fixados nas razões do acórdão recorrido.
+Na hipótese dos autos, o Colegiado estadual assim dirimiu a controvérsia (fls. 223-225, e-STJ):
+Com razão o banco apelante.
+Isto porque, em respeito ao Princípio da Causalidade, o ônus sucumbencial deve recair sobre o devedor, que deu causa ao feito constritivo, uma vez que se encontrava em mora ao tempo do ajuizamento da ação ainda que a prescrição intercorrente tenha sido reconhecida em sede de exceção de pré-executividade, (..)
+Pelo exposto, DOU PROVIMENTO ao recurso para exonerar o banco exequente do pagamento das verbas sucumbenciais, em observância ao Princípio da Causalidade.
+Com efeito, considerando a moldura fática delineada pelo Tribunal de origem, verifico que o acórdão recorrido se encontra em harmonia com a orientação desta Corte Superior, cuja dicção é no sentido de que, em face do princípio da causalidade, não se justifica a imposição de sucumbência ao exequente, frustrado em seu direito de crédito, em razão de prescrição intercorrente. Isso porque quem deu causa ao ajuizamento da execução foi o devedor que não cumpriu a obrigação de satisfazer dívida líquida e certa (AgInt no AgInt no AREsp n. 2.037.941/PR, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 30/9/2022).
+Confiram-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DA ALÍNEA DO PERMISSIVO CONSTITUCIONAL. SÚMULA 284/STF. RECONHECIMENTO DA PRESCRIÇÃO INTERCORRENTE. PRETENSÃO DE FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS EM DESFAVOR DA PARTE EXEQUENTE. DESCABIMENTO. PRINCÍPIO DA CAUSALIDADE. SÚMULA N. 83/STJ. REQUERIMENTO DA PARTE AGRAVADA DE APLICAÇÃO DA MULTA PREVISTA NO § 4º DO ART. 1.021 DO CPC/2015. AGRAVO INTERNO DESPROVIDO.
+1. O recorrente não indicou a alínea do dispositivo constitucional na qual se fundamenta o recurso especial, circunstância que impede o seu conhecimento, segundo o disposto na Súmula 284/STF. Precedentes.
+2. Conforme a jurisprudência do Superior Tribunal de Justiça, a extinção do processo executivo, ante o reconhecimento da prescrição intercorrente, não afasta o princípio da causalidade em desfavor do devedor, nem atrai a sucumbência para a parte exequente. Súmula n. 83/STJ.
+3. A aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, porquanto a condenação da parte agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que, contudo, não se verifica na hipótese examinada.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.155.775/PR, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 18/11/2022)
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PRESCRIÇÃO INTERCORRENTE. VERBA HONORÁRIA. PRINCÍPIO DA CAUSALIDADE. MAJORAÇÃO. DESCABIMENTO. DECISÃO MANTIDA.
+1."Em face do princípio da causalidade, não se justifica a imposição de sucumbência ao exequente, frustrado em seu direito de crédito, em razão de prescrição intercorrente. Isso porque quem deu causa ao ajuizamento da execução foi o devedor que não cumpriu a obrigação de satisfazer dívida líquida e certa" (AgInt no AREsp n. 2.061.179/PR, relator Ministro Marco Buzzi, Quarta Turma, julgado em 22/8/2022, DJe de 26/8/2022).
+2. Caso concreto em que a parte executada pretende a majoração da verba honorária, fixada pela Corte local, de maneira equivocada, em seu favor ao reconhecer a prescrição intercorrente. Descabimento.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.963.501/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 5/10/2022)
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
