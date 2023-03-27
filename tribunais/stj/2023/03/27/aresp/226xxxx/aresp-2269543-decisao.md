@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de agravo interposto por Arlindo Souza Rocha e Silvio Maria de Souza contra a decisão de fls. 385-386 (e-STJ), proferida em juízo prévio de admissibilidade, na qual foi negado seguimento ao recurso especial.
+O recurso especial foi deduzido em desafio aos acórdãos de fls. 326-330 e 353-355 (e-STJ), prolatados pelo Tribunal de Justiça do Estado de São Paulo, assim ementados:
+PROCESSUAL CIVIL - Acidente de trânsito - Falecimento - Ação de indenização por danos materiais e morais proposta contra o condutor e o proprietário do caminhão que teria invadido a pista contrária - Pedido de intervenção de terceiros, modalidade chamamento ao processo - Decisão de primeiro grau que o defere - Agravo interposto pela chamada, tomadora do serviço de transporte prestado pelos réus - Ausência de direito de crédito, pelos réus, contra a chamada - Requisitos do artigo 130 do Código de Processo Civil não preenchidos - Recurso provido.
+EMBARGOS DE DECLARAÇÃO - Apontamento de contradição e do entendimento correto a ser aplicado - Pretensão infringente - Ausência de caracterização de quaisquer das hipóteses que ensejam a admissibilidade do recurso de fundamentação vinculada - Vícios do artigo 1.022 do Código de Processo Civil inexistentes - Embargos rejeitados
+Nas razões do recurso especial (e-STJ, fls. 357-374), apontaram os insurgentes, além de dissídio jurisprudencial, a existência de violação dos arts. 14, caput, do CDC; 932, III, do CCB; e 130, III, do CPC/2015. Sustentaram, em síntese, o cabimento do chamamento ao processo da subcontratante do serviço de transporte, tendo em vista a sua responsabilidade pelos danos decorrentes do acidente de trânsito.
+Contrarrazões às fls. 377-384 (e-STJ).
+A Corte de origem deixou de admitir o recurso sob os seguintes fundamentos: a) não demonstração da violação aos dispositivos arrolados; e b) incidência da Súmula 7/STJ.
+Daí o presente agravo, no qual os insurgentes contestam a aplicação dos óbices.
+Sem contraminuta (e-STJ, fl. 409).
+Brevemente relatado, decido.
+Da acurada análise dos acórdãos recorridos, verifica-se que o Tribunal de origem concluiu pelo descabimento do chamamento ao processo da subcontratante dos serviços de transporte, ao argumento de ausência de responsabilidade desta pelos danos decorrentes do acidente de trânsito.
+Veja-se à fl. 329 (e-STJ):
+Ressalvado o entendimento da MM. Juíza de primeiro grau, o inconformismo comporta acolhimento uma vez que não está presente nenhuma das hipóteses do artigo 130 do Código de Processo Civil e, mais especificamente, a do inciso III, considerando que a chamada, em relação aos interesses dos demandados, não ostenta a condição de "devedora solidária". Melhor explicando, embora se reconheça que "diante da existência de interesse econômico no serviço, consistente no lucro decorrente da entrega dos produtos a seus destinatários, exsurge, em regra, a responsabilidade solidária entre a tomadora e a empresa de transporte de cargas, devendo ambas responderem perante terceiros no caso de acidente ocorrido durante o deslocamento da mercadoria" (STJ, 4ª Turma, REsp 1282069/RJ, Relator Ministro Luis Felipe Salomão, 17.5.2016), a hipótese dos autos cuida de chamamento ao processo requerido pelos réus que ostentam as condições de condutor e de proprietário do veículo, os quais não terão qualquer direito de crédito, caso vencidos, contra a chamada.
+A jurisprudência desta Corte é no sentido da responsabilidade solidária da subcontratante pelos danos decorrentes de acidente ocorrido durante o transporte subcontratado.
+Nesse sentido:
+CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. ACIDENTE DE TRÂNSITO CAUSADO POR MOTORISTA TERCEIRIZADO. LEGITIMIDADE PASSIVA DA EMPRESA CONTRATANTE. PRECEDENTES. RESPONSABILIDADE CIVIL. ELEMENTOS CONFIGURADOS. SÚMULA 7/STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Agravo interno contra decisão da Presidência que não conheceu do agravo em recurso especial, em razão da falta de impugnação específica de fundamento decisório. Reconsideração.
+2. Na subcontratação ou terceirização, caracteriza-se a responsabilidade solidária do transportador contratante de serviço de transporte pelo acidente de trânsito causado por motorista do transportador contratado. Precedentes.
+3. A reforma do v. acórdão recorrido, para afastar a ocorrência de conduta imprudente do preposto da agravante, demandaria o revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+4. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial.
+(AgInt no AREsp n. 1.976.398/PR, relator Ministro Raul Araújo, Quarta Turma, julgado em 14/3/2022, DJe de 5/4/2022.)
+Dessa forma, a decisão recorrida não refletiu o entendimento deste Tribunal, razão pela qual merece reforma.
+Diante do exposto, conheço do agravo par a conhecer do recurso especial e dou-lhe provimento para, reconhecendo a responsabilidade solidária da subcontratante pelos danos decorrentes do acidente de trânsito ocorrido durante o transporte, reconhecer o cabimento do chamamento ao processo da empresa subcontratante.
+Retornem os autos à origem para o prosseguimento o feito.
+Fiquem as partes cientificada s de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. TRANSPORTE DE MERCADORIA SUBCONTRATADO. ACIDENTE DE TRÂNSITO. AÇÃO INDENIZATÓRIA. RESPONSABILIDADE SOLIDÁRIA DA SUBCONTRATANTE. CABIMENTO DO CHAMAMENTO AO PROCESSO. AGRAVO CONHECIDO PARA CONHECER DO RECURSO ESPECIAL E DAR-LHE PROVIMENTO.
