@@ -1,0 +1,7 @@
+DECISÃO
+Trata-se de Embargos de Declaração, opostos por INDUSTRIA E COMERCIO DE COSMETICOS NATURA LTDA, contra decisão de minha lavra, publicada em 03/11/22, que conheceu do Agravo para negar provimento ao Recurso Especial.
+Inconformada, sustenta a parte embargante que "em 31/08/2022, a C. 1ª Seção do STJ afetou o REsp 1.986.304/RS ao rito dos Recursos Repetitivos (Tema 1160), justamente visando, a partir do julgamento do paradigma, consolidar o entendimento desse E. Tribunal acerca da matéria sub judice, tendo, ainda, determinado expressamente a suspensão de todos os processos que versem sobre a mesma matéria, já que reconhecida a multiplicidade de demandas e a respectiva relevância envolvida, definindo-se a questão posta a julgamento." (fls. 1.561e).
+Por fim, requer "sejam conhecidos e acolhidos os presentes Embargos de Declaração p ara sanar a omissão apontada, anulando-se a decisão embargada, para determinar o retorno dos autos ao Tribunal de origem, para que aguardem, suspensos, o julgamento do Tema 1160." (fl.1.566e)
+A irresignação resta prejudicada, uma vez que, no último 31/08/2023, a PRIMEIRA SEÇÃO do STJ julgou os Recursos Especiais afetados ao Tema 1.160, fixando a seguinte tese jurídica "O IR e a CSL incidem sobre a correção monetária das aplicações financeiras, porquanto estas se caracterizam legal e contabilmente como Receita Bruta, na condição de Receitas Financeiras componentes do Lucro Operacional", ou seja, a tese fixada está alinhada à decisão embargada.
+Isto posto, rejeito os embargos de declaração.
+I.
