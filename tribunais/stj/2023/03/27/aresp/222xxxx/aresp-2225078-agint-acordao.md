@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/03/2023 a 27/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão fls. 543-546, que negou provimento ao agravo em recurso especial em razão da aplicação das Súmulas n. 5 e 7 do STJ, uma vez que a pretensão recursal demanda reexame de cláusulas contratuais e do acervo fático-probatório juntado aos autos, e da incidência da Súmula n. 284 do STF, quanto à alegada afronta ao art. 1.022 do CPC.
+Nas razões do presente recurso, a parte agravante sustenta que a decisão é equivocada, pois tanto o recurso especial quanto o agravo estão suficientemente fundamentados. Aduz que a questão é de tese jurídica e aplicação da lei federal.
+Afirma que se extrai claramente do recurso a fundamentação suficiente da alegação de violação do art. 1022 do CPC, inclusive com indicação das hipóteses nele previstas (obscuridade e omissão), incisos I e II.
+Aduz que o acordão reconhece os fatos, inclusive que houve danos a outros itens da colheitadeira segurada em decorrência do incêndio, mas nega a indenização por fundamentos obscuros e inescrutáveis.
+Argumenta que não é caso de aplicação das Súmulas n. 5 e 7 do STJ, pois a matéria de fato está suficientemente plasmada no acórdão recorrido, inexistindo controvérsia sobre interpretação de cláusula contratual, tampouco se demanda a reapreciação de provas.
+Defende que se exige mera operação interpretativa destinada a avaliar se houve equívoco do acordão na aplicação da lei, sobretudo se é juridicamente correta à luz do art. 757 do CC a intepretação dada pela Corte regional no sentido de que o fato de as peças estarem separadas do equipamento no momento do sinistro rechaça o direito à indenização.
+Reitera, ademais, as matérias apresentadas no recurso especial.
+Requer, assim, seja reconsiderada a decisão agravada ou seja o agravo julgado pelo colegiado.
+Contrarrazões apresentadas às fls. 558-587, em que se requer o não conhecimento ou o desprovimento do recurso com a majoração dos honorários recursais.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE INDENIZAÇÃO SECURITÁRIA. INCÊNDIO. BEM SEGURADO NÃO SINISTRADO. VIOLAÇÃO DO ART. 1.022 DO CPC. DEFICIÊNCIA DE FUNDAMENTAÇÃO. NÃO INDICAÇÃO DE INCISOS VIOLADOS. SÚMULA N. 284 DO STF. DEVER DE INDENIZAR. REEXAME DE CLÁUSULAS CONTRATUAIS, FATOS E PROVAS. SÚMULAS N. 5 e 7 DO STJ. MAJORAÇÃO DOS HONORÁRIOS PELO DESPROVIMENTO DO AGRAVO INTERNO. MESMO GRAU DE JURISIDIÇÃO. IMPOSSIBILIDADE. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia (Súmula n. 284/STF).
+2. Tendo o tribunal de origem concluído, mediante a análise do contrato e do acervo probatório dos autos, que não é devida a pretensão indenizatória, revisar referida conclusão encontra óbice nas Súmulas n. 5 e 7 do STJ.
+3. A interposição de agravo interno não inaugura instância, razão pela qual é indevida a majoração de honorários advocatícios prevista no art. 85, § 11, do CPC.
+4. Agravo interno desprovido.
+VOTO
+A irresignação não reúne condições de prosperar, devendo a decisão agravada ser mantida por seus próprios fundamentos assim expressos (fls. 545-546) :
+I - Da violação do art. 1.022 do CPC
+No que se refere à indicação de omissão e dos demais vícios do art. 1.022 do CPC, o STJ já decidiu que é deficiente a fundamentação do recurso especial em que a alegação de ofensa é genérica, sem especificação dos incisos que foram violados.
+Impõe-se, portanto, a aplicação, p or analogia, da Súmula n. 284 do STF.
+Nesse sentido: AgInt no AREsp n. 2.109.813/MG, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 26/9/2022, DJe de 28/9/2022; AgInt nos EDcl no REsp n. 1.861.453/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 14/3/2022, DJe de 18/3/2022.
+II - Da violação dos arts. 757 e 779 do CC
+A controvérsia diz respeito à indenização decorrente de cobertura securitária envolvendo máquina colheitadeira.
+A Corte estadual, com base na análise do acervo fático-probatório e nas especificidades do caso, afastou a pretensão indenizatória do recorrente. Consignou que a negativa da seguradora decorreu de perícia, que constatara a ausência de dano nas peças, que se encontravam em local diverso daquele em que houve o incêndio, e de cláusula da regulamentação geral do seguro contratado. Concluiu que a seguradora não poderia ser responsabilizada pelo pagamento de peças ou componentes que se encontravam em local diverso daquele em que estavam os bens segurados, por não haver comprovação de que estes estavam assegurados pela apólice. Acrescentou ainda que foram fornecidas as informações necessárias ao recorrente no momento de celebração do contrato de seguro, de forma clara e objetiva, não ocorrendo violação do dever de informação. Confira-se trecho do julgado (fls. 395-399, destaquei):
+No caso em comento, conforme adequadamente analisado na r. sentença de origem, a seguradora demandada realizou vistoria in loco, bem como nas máquinas seguradas, verificando a ausência de qualquer dano nos mencionados objetos, os quais, inclusive, não se encontravam do local do incêndio, concluindo que as peças e componentes desta, que estavam em local diverso, foram danificadas pelo fogo, ou seja, por ocasião da vistoria, o autor/segurado apresentou a colheitadeira e a plataforma, sem qualquer dano.
+Tal fato, inclusive restou corroborado pela parte autora na declaração da fl. 40  ..
+Nestes termos, consoante se extrai dos autos, os bens segurados não se encontravam no local em que houve o incêndio. A alegação da parte autora é que os equipamentos consumidos pelo fogo, pertenciam ao maquinário segurado e que haviam sido retirados para manutenção.
+Assim, não havendo sinistro nos bens segurados, os quais nenhum dano sofreram, a seguradora não pode ser responsabilizada pelo pagamento de supostas peças e ou componentes que se encontravam em local diverso dos bens segurados, pois não há comprovação de que tais peças estivessem asseguradas pela apólice em comento.
+ ..
+Na situação em evidência, não se verifica qualquer violação as regras consumeristas, uma vez que comprovado nos autos que a seguradora prestou as informações necessárias ao consumidor/aderente no momento da celebração do contrato de seguro, principalmente que forneceu cópia informação sobre a impossibilidade do endosso no momento postulado.
+As informações foram prestadas ao contratante de forma clara e objetiva, atendendo a seguradora ao dever de informação ao consumidor, em atendimento as normas do CDC e do art. 765 do Código Civil.
+ ..
+Dessa forma, diante da inexistência de violação ao dever de informação por parte da seguradora ré, mostra-se legal a contratação realizada, inexiste qualquer ilícito praticado pela ré, pelo qual vai afastada as pretensões indenizatórias.
+Assim, para infirmar as conclusões do aresto impugnado e concluir pela condenação à indenização securitária, seria imprescindível a análise de cláusulas contratuais e o reexame de provas, o que é inadmissível nesta instância extraordinária, em razão do disposto nas Súmulas n. 5 e 7 do STJ.
+III - Conclusão
+Ante o exposto, nego provimento ao agravo.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Com efeito, é deficiente a fundamentação do recurso quanto à violação do art. 1.022 do CPC, quando a parte recorrente limita-se a indicar, nas razões do recurso especial, de modo genérico, a afronta ao mencionado dispositivo legal, não demonstrando especificamente, os incisos que foram violados.
+Súmula n. 284 do STF - É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+No que tange à suposta violação dos arts. 757 e 779 do Código Civil não vejo como afastar a incidência das Súmulas n. 5 e 7 do STJ, porquanto o Tribunal de origem, como se pode ler do trecho transcrito na decisão recorrida, avaliou todo o acervo probatório constante dos autos, notadamente as cláusulas contratuais, e a perícia realizada, para afastar a pretensão indenizatória da parte agravante, porquanto, não poderia a seguradora ser responsabilizada pelo pagamento de peças ou componentes que se encontravam em local diverso daquele em que estavam os bens segurados, por não haver comprovação de que tais peças estavam assegurados pela apólice.
+Nesse sentido:
+AGRAVO INTERNO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. AGRAVO EM R ECURSO ESPECIAL. VIOLAÇÃO DO ART. 779 DO CC. INDENIZAÇÃO SECURITÁRIA. CABIMENTO. NECESSIDADE DE REEXAME DE PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULAS N. 5 E 7 DO STJ. PROCESSO CIVIL. HONORÁRIOS ADVOCATÍCIOS. REVISÃO. NÃO CABIMENTO.
+1. Rever o entendimento do Tribunal a quo de cabimento de indenização securitária demanda a interpretação de cláusulas contratuais e o reexame de fatos e provas dos autos, providência que encontra óbice nas Súmulas n. 5 e 7 do STJ.
+2. O recurso especial não é via própria para rever questão referente à fixação de honorários advocatícios se, para tanto, for necessário reexaminar elementos fáticos. Aplicação da Súmula n. 7/STJ.
+3. Agravo interno desprovido. (AgInt no AREsp n. 418.112/SC, relator Ministro João Otávio de Noronha, Terceira Turma, julgado em 2/8/2016, DJe de 22/8/2016, destaquei.)
+Registre-se ainda que averiguar os argumentos do Tribunal local de que foram fornecidas as informações necessárias ao segurado no momento de celebração do contrato de seguro, de forma clara e objetiva, também, demanda a interpretação de cláusulas contratuais e a revisão de provas, o que encontra óbice nas Súmulas n. 5 e 7 do STJ.
+Portanto, a parte agravante não logrou êxito em demonstrar situação superveniente que justificasse a alteração da decisão agravada.
+No mais, no que se refere a majoração dos honorários recursais, pleiteada em contrarrazões, cumpre destacar que a jurisprudência desta Corte firmou-se no sentido de que a interposição de agravo interno não inaugura instância, razão pela qual é inviável a majoração de honorários no julgamento de agravo interno e de embargos de declaração oferecidos pela parte cujo recurso não ultrapassou a fase de conhecimento ou foi desprovido (EDcl no AgInt no AREsp n. 437.263/MS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 3/4/2018, DJe de 10/4/2018; e AgInt no AREsp n. 1.223.865/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 22/3/2018, DJe de 3/4/2018).
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
