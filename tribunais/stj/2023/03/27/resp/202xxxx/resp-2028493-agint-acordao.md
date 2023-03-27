@@ -1,0 +1,84 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/03/2023 a 27/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Humberto Martins, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Cuida-se de Agravo Interno contra decisão que negou provimento ao recurso.
+A parte agravante sustenta, em suma:
+Primeiramente, importante impugnar a decisão agravada no que diz respeito a "(..)Preliminarmente, constata-se que não se configurou ofensa aos arts. 489, § 1º, e 1.022 do Código de Processo Civil, uma vez que o Tribunal a quo julgou integralmente a lide e solucionou a controvérsia. (..)", porquanto, cristalina omissão no que tange ao fato de o marco inicial prescricional ser a data do trânsito em julgado da sentença penal absolutória, a qual, o Tribunal de Origem ignorou, conforme consta nas razões recursais (e-STJ FlS.2074/2075), verbis:
+(..)
+No que tange ao mérito, ao contrário da decisão agravada, não trata-se "prazo para a propositura da Ação de Reintegração em cargo público é de cinco anos, a contar do ato que excluiu o servidor público, ainda que o ato seja nulo.".
+Pelo contrário. Considerando que o processo adminstrativo disciplinar e o processo penal versaram acerca da mesma matéria, o termo inicial do trânsito em julgado é a data da sentença penal absolutória e não do ato que exluiu o servidor.
+Pleiteia a reconsideração do decisum agravado ou a submissão do recurso à Turma.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. OFENSA AO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA. ABSOLVIÇÃO DO RÉU NA ESFERA CRIMINAL. PROVA INSUFICIENTE PARA A CONDENAÇÃO. INDEPENDÊNCIA DAS INSTÂNCIAS CÍVEL, PENAL E ADMINISTRATIVA.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC/2015.
+2. O Colegiado local consignou que "a independência das instâncias apenas é afastada quando, na esfera penal, taxativamente, afirmar-se que não houve fato ou, caso existente o fato, houver demonstração inequívoca de que o agente não foi o seu causador (art. 386, incisos I e IV do CPP), o que não é o caso dos autos".
+3. A jurisprudência sedimentada no STJ dispõe que "as esferas criminal e administrativa são independentes, estando a Administração vinculada apenas à decisão do juízo criminal que negar a existência do fato ou a autoria do crime", exceto se houver falta disciplinar residual não englobada pela sentença penal (Súmula 18/STF).
+4. O STJ tem entendimento pacificado de que o prazo para a propositura da Ação de Reintegração em cargo público é de cinco anos, a contar do ato que excluiu o servidor público, ainda que o ato seja nulo.
+5. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 22.2.2023.
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado. Portanto não há falar em reparo na decisão.
+Conforme consignado no decisum agravado, não se configurou ofensa aos arts. 489, § 1º, e 1.022 do Código de Processo Civil, uma vez que o Tribunal a quo julgou integralmente a lide e solucionou a controvérsia. Não há vícios de omissão ou contradição, pois a Corte de origem apreciou e decidiu, fundamentadamente, todas as questões postas ao seu crivo, não cabendo falar em negativa de prestação jurisdicional.
+O Colegiado local consignou que "a independência das instâncias apenas é afastada quando, na esfera penal, taxativamente, afirmar-se que não houve fato ou, caso existente o fato, houver demonstração inequívoca de que o agente não foi o seu causador (art. 386, incisos I e IV do CPP), o que não é o caso dos autos", e que a sentença reconheceu a prescrição da pretensão punitiva:
+Nessa perspectiva, consoante bem explanado pelo Juízo sentenciante, o pleito do requerente é questão de fundo de direito, uma vez que busca através da presente demanda a reintegração ao cargo público que ocupava anteriormente à sua demissão, não se subsumindo a referida hipótese de prestação periódica, de trato sucessivo, onde o prazo prescricional se renova.
+Na hipótese vertente, vislumbra-se que, após regular Processo Administrativo (P.A. nº 11/2000), concluiu a Comissão Disciplinar pela prática de conduta incompatível com o exercício de agente da polícia civil, decorrendo daí a exclusão do autor dos quadros daquela Instituição.
+Assim, por meio da Portaria nº 49, de 23 de janeiro de 2001, o autor/apelante foi demitido do serviço público (evento 01, anexo 5, fls. 75).
+Neste contexto, o STJ tem entendimento pacificado de que o prazo para a propositura da ação de reintegração em cargo público é de cinco anos, a contar do ato que excluiu o servidor público, ainda que o ato seja nulo. Neste sentido, vale citar:
+(..)
+No caso em tela, tendo em conta que a Decisão proferida no processo administrativo, que ocasionou a demissão da parte autora, foi proferida em 23/01/2001 (PROCADM5, pág.75) e a presente demanda ajuizada em 6/4/2020, passados mais de 19 (dezenove) anos do fato, tem-se que o direito autoral encontra-se fulminado pela prescrição.
+(..)
+Outrossim, cumpre destacar não merecer guarida a argumentação recursal no sentido de que a superveniente extinção da sua punibilidade, na seara criminal, deve ser aplicado ao presente caso, no intuito de desconstituir a decisão administrativa de demissão do autor.
+Segundo extrai-se dos autos, na Ação Penal nº 5000012- 83.2011.8.27.2727 foi interposta a Apelação Criminal nº 5004422- 52.2013.827.0000, na qual reconheceu-se a extinção de punibilidade do autor, cuja ementa restou exarada nos seguintes termos:
+APELAÇÃO CRIMINAL ROUBO QUALIFICADO TENTATIVA PRESCRIÇÃO - PRELIMAR ACOLHIDA SENTENÇA CONDENATÓRIA COM TRÂNSITO EM JULGADO PARA A ACUSAÇÃO - PRAZO QUE SE REGULA PELA PENA APLICADA - EXTINÇÃO DA PUNIBILIDADE RECONHECIDA. - Aplicada ao réu a pena de 06 (seis) anos de reclusão, com trânsito em julgado para a acusação, opera-se a prescrição em 12 (doze) anos, nos termos dos arts. 109, inciso III, e 110, §1º do CP. - Assim, verificando-se que entre a data do recebimento da denúncia e da prolação da sentença condenatória transcorreu período superior aos 12 (doze) anos, impõe-se o reconhecimento da prescrição da pretensão punitiva do Estado. (AP 5004422-52.2013.827.0000, Rel. Juiz convocado JOÃO RIGO, 5ª Turma da 1ª Câmara Criminal, julgado em 03/03/2015).
+Constata-se, portanto, que foi proferida sentença condenatória em desfavor do ora requerente nos autos da Ação Penal nº 5000012- 83.2011.8.27.2727, reconhecendo sua culpa, sendo, todavia, declarada a extinção da sua punibilidade em de sede recursal, em razão do reconhecimento da prescrição punitiva baseada na pena em concreto aplicada.
+Ocorre ser cediço que as instâncias civil, penal e administrativa não se comunicam, via de regra.
+A respeito do afirmado, confira-se o Verbete n.º 18 da Súmula de Jurisprudência do E. STF, aqui aplicável, por analogia:
+"Pela falta residual, não compreendida na absolvição pelo Juízo Criminal, é admissível a punição administrativa do servidor público".
+Neste sentido, prelecional Hely Lopes Meirelles, no sentido de que "a punição administrativa ou disciplinar não depende de processo civil ou criminal a que se sujeite também o servidor pela mesma falta, nem obriga a Administração a aguardar o desfecho dos demais processo. Apurada a falta funcional, pelos meios adequados (processo administrativo, sindicância ou meio sumário), o servidor fica sujeito, desde logo, à penalidade administrativa correspondente. A jurisprudência dispensa inclusive que se aguarde o desfecho de eventual processo civil ou criminal ao caso relacionado, em respeito a autonomia administrativa (cf. RT, 302/747)".
+(..)
+Assim, a sentença declaratória de extinção da punibilidade proferida no juízo criminal em nada repercute na seara administrativa, tendo em vista a independência das instâncias administrativa e penal no tocante à responsabilização dos servidores público pela prática de conduta violadora do dever funcional e também tipificada como crime.
+Nos termos da jurisprudência do Superior Tribunal de Justiça, a independência das instâncias apenas é afastada quando, na esfera penal, taxativamente, afirmar-se que não houve fato ou, caso existente o fato, houver demonstração inequívoca de que o agente não foi o seu causador (art. 386, incisos I e IV do CPP), o que não é o caso dos autos.
+Portanto, a sentença que reconhece a prescrição da pretensão punitiva apenas extingue a punibilidade, sem adentrar no mérito, sem condenar ou absolver o réu. Logo, a extinção da punibilidade não tem o condão de repercutir na esfera administrativa, como se representasse a absolvição por negativa de autoria ou por inexistência de fato criminoso, de modo que tal decisão não implica em desconsideração da independência das instâncias administrativa e penal.
+Nesse sentido, já se pronunciou o STJ, senão vejamos: (..)
+No mérito, melhor sorte não assiste ao recorrente, porquanto o STJ tem entendimento pacificado de que o prazo para a propositura da Ação de Reintegração em cargo público é de cinco anos, a contar do ato que excluiu o servidor público, ainda que o ato seja nulo.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO EM EMBARGOS DE DIVERGÊNCIA. AUSÊNCIA DE ARGUMENTOS HÁBEIS PARA ALTERAR O FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA 284 DO STF. NÃO COMPROVAÇÃO DE SIMILITUDE FÁTICA. ENTENDIMENTO DO ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA 168 DO STJ.
+(..)
+2. O STJ tem entendimento pacificado de que o prazo para a propositura da ação de reintegração em cargo público é de cinco anos, a contar do ato que excluiu o servidor público, ainda que o ato seja nulo, como no caso dos autos.
+3. Na hipótese dos autos, tendo transcorrido mais de cinco anos entre a publicação do ato em fevereiro de 2006 e o ajuizamento da ação em março de 2016, impossível o afastamento da prescrição do fundo de direito. Dessume-se que o acórdão recorrido está em sintonia com o atual entendimento do STJ, razão pela qual não merece prosperar a irresignação.
+(..)
+5. Agravo Interno não provido.
+(AgInt nos EDv nos EAREsp n. 1.380.304/SP, relator Ministro Herman Benjamin, Primeira Seção, DJe de 19/3/2021.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL.REINTEGRAÇÃO. SERVIDOR PÚBLICO. POLICIAL MILITAR. PROCESSO ADMINISTRATIVO DISCIPLINAR. DEMISSÃO. PRESCRIÇÃO DO DIREITO DE REQUERER A ANULAÇÃO DO ATO ADMINISTRATIVO. OCORRÊNCIA. ARTIGO 1º DO DECRETO 20.910/1932. PRECEDENTES. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
+(AREsp n. 1.207.582/ES, relator Ministro Napoleão Nunes Maia Filho, relator para acórdão Ministro Benedito Gonçalves, Primeira Turma, DJe de 10/9/2020.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REINTEGRAÇÃO. INVESTIGADOR DE POLÍCIA. DEMISSÃO. OCORRÊNCIA DA PRESCRIÇÃO DO DIREITO DE REQUERER A ANULAÇÃO DO ATO ADMINISTRATIVO. ARTIGO 1º DO DECRETO 20.910/1932.
+1. Consoante a jurisprudência pacífica do STJ, nos termos do Decreto 20.910/1932, o prazo para a propositura da ação de reintegração em cargo público é de cinco anos, a contar do ato que excluiu o servidor público, ainda que o ato seja nulo. Precedentes.
+2. Na hipótese dos autos, tendo transcorrido mais de cinco anos entre a publicação do ato de demissão, que ocorreu em 15/2/2006, com pedido de reconsideração indeferido em 29/12/2006, e o ajuizamento da ação em 4/3/2016, impossível o afastamento da prescrição do fundo de direito.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.380.304/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 18/11/2019.)
+Acrescente-se que a jurisprudência sedimentada nesta Corte dispõe que "as esferas criminal e administrativa são independentes, estando a Administração vinculada apenas à decisão do juízo criminal que negar a existência do fato ou a autoria do crime", exceto se houver falta disciplinar residual não englobada pela sentença penal (Súmula 18/STF).
+Nesse sentido:
+ADMINISTRATIVO. PROCESSO CIVIL. MANDADO DE SEGURANÇA. ANULAÇÃO DO ATO DE CASSAÇÃO DA APOSENTADORIA. ABSOLVIÇÃO NA ESFERA PENAL. INDEPENDÊNCIA ENTRE AS ESFERAS CIVIL, PENAL E ADMINISTRATIVA. PROCESSO ADMINISTRATIVO DISCIPLINAR. DEMONSTRAÇÃO CONCRETA DE OFENSA AOS PRINCÍPIOS ADMINISTRATIVOS. AUSÊNCIA DE VÍCIO NA TRAMITAÇÃO DO PROCESSO ADMINISTRATIVO. CONJUNTO PROBATÓRIO INSUFICIENTE PARA COMPRAR O DIREITO PLEITEADO. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO.
+(..)
+IV - O STJ entende que as esferas civil, penal e administrativa são independentes e autônomas e que a sentença criminal apenas repercute, na esfera administrativa, se negar a existência do fato ou a própria autoria do delito. Nesse sentido: AgInt no AREsp n. 1.054.594/RJ, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 19/8/2019, DJe 22/8/2019; AgInt no AREsp n. 1.019.336/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, julgado em 21/9/2017, DJe 2/10/2017.
+V - Na hipótese em questão, não houve absolvição por negativa de autoria ou materialidade do fato, mas somente o fato do ato praticado não constituir infração penal, o que não tem o condão de interferir na esfera administrativa.
+(..)
+XII - Agravo interno improvido.
+(AgInt no RMS n. 58.931/ES, relator Ministro Francisco Falcão, Segunda Turma, DJe de 30/9/2020.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPROBIDADE ADMINISTRATIVA. ART. 11, CAPUT, DA LEI 8.429/92. LICITAÇÃO. DISPENSA INDEVIDA. FRACIONAMENTO DE SERVIÇOS. ACÓRDÃO RECORRIDO QUE, EM FACE DOS ELEMENTOS DE PROVA DOS AUTOS, CONCLUIU PELA COMPROVAÇÃO DO ELEMENTO SUBJETIVO, PELA CONFIGURAÇÃO DE ATO DE IMPROBIDADE ADMINISTRATIVA E PELA PROPORCIONALIDADE DAS SANÇÕES APLICADAS. IMPOSSIBILIDADE DE REVISÃO DE FATOS E PROVAS, EM RECURSO ESPECIAL. ABSOLVIÇÃO DO RÉU, NA ESFERA CRIMINAL, POR NÃO EXISTIR PROVA SUFICIENTE PARA A CONDENAÇÃO. INDEPENDÊNCIA DAS INSTÂNCIAS CÍVEL, PENAL E ADMINISTRATIVA. AGRAVO INTERNO IMPROVIDO.
+(..)
+VII. Desinfluente o fato de, em ação penal, relativa aos mesmos fatos, tenha o Tribunal de origem absolvido o ora agravante, com fulcro no art. 386, VII, do Código de Processo Penal, ou seja, por não existir prova suficiente para a condenação. Com efeito, nos termos da jurisprudência Superior Tribunal de Justiça, "a absolvição operada no Juízo criminal somente se comunica com a esfera administrativa quando negada a existência do fato ou da autoria" (STJ, AREsp 1.358.883/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 09/09/2019), o que não se verifica no presente caso.
+VIII. Agravo interno improvido.
+(AgInt no AREsp n. 1.353.773/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 16/9/2020.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. RECURSO ESPECIAL. IMPROBIDADE ADMINISTRATIVA. DEMISSÃO DE AGENTE PÚBLICO EM SEDE DE PROCESSO DISCIPLINAR NA INSTÂNCIA ADMINISTRATIVA. POSSIBILIDADE DE INCIDÊNCIA DA SANÇÃO REFERENTE À PERDA DA FUNÇÃO PÚBLICA PREVISTA NO ART. 12, III, DA LEI Nº 8.429/92. INDEPENDÊNCIA ENTRE AS ESFERAS CIVIL, PENAL E ADMINISTRATIVA. INTERESSE RECURSAL VERIFICADO.
+1. A hipótese dos autos diz respeito ao ajuizamento de ação civil pública em face de ex-agente da Polícia Civil do Distrito Federal que, quando no exercício de sua função, após desentendimento de trânsito com terceiro, teria sacado arma de fogo e efetuado disparos em via pública. Um dos disparos efetuados teria atingido uma pessoa alheia ao embate, que se encontrava nas proximidades, no interior de seu veículo.
+(..) 3. Há reconhecida independência das instâncias civil, penal e administrativa, que é afastada quando a esfera penal taxativamente afirmar que não houve o fato, e/ou, acaso existente, houver demonstrações inequívocas de que o agente não foi o seu causador.
+Este fundamento, inclusive, autoriza a conclusão no sentido de que as penalidades aplicadas em sede de processo administrativo disciplinar e no âmbito da improbidade administrativa, embora possam incidir na restrição de um mesmo direito, são distintas entre si, tendo em vista que se assentam em distintos planos.
+(..)7. Recurso especial provido.
+(REsp n. 1.364.075/DF, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 2/12/2015.)
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo que contra ela se insurge.
+Por tudo isso, nego provimento ao Agravo Interno.
+É como voto.
