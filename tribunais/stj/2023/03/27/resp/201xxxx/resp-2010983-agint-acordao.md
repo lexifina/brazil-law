@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/03/2023 a 27/03/2023, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por ROGÉRI NAVARRO COTRIM contra decisão que não conheceu o recurso especial, nos termos da seguinte ementa:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. DECISÃO DE INDISPONIBILIDADE. BEM DE FAMÍLIA. ART. 1º, § ÚNICO, LEI 8.009/90. DISPOSITIVO DISSOCIADO DAS RAZÕES DO RECURSO E DA CONTROVÉRSIA. SÚMULA 284/STF. RECURSO NÃO CONHECIDO. 1. Os artigos indicados como violados no recurso especial devem guardar estreita relação com as razões do recurso e com a questão jurídica debatida pelo Tribunal de Justiça, e não tangenciá-la. Caso o dispositivo seja dissociado do embasamento do recurso e não tenha relação direta com os argumentos utilizados no acórdão, há fundamentação deficiente. Súmula 284/STF.2. A interposição do recurso com base no dissídio jurisprudencial também depende da indicação de dispositivo efetivamente relacionado ao objeto do debate dos acórdãos recorrido e paradigma, para que se fixe a correta interpretação do artigo de lei em questão. Caso a conclusão dos Tribunais se baseie em dispositivos diversos daqueles suscitados pelo recorrente, não é possível conhecer do recurso.3. Recurso não conhecido.
+Nas razões do agravo interno, o agravante sustenta que não se aplica a Súmula 284/STF, pois o recurso foi interposto com base exclusivamente na alínea "c", do inciso III, do art. 105, da Constituição Federal, e o Tribunal interpretou de forma distinta o dispositivo indicado, em relação a outros tribunais do país. Defende, ainda, que a divergência entre tribunais causa insegurança jurídica.
+Requer a reconsideração da decisão e, em caso negativo, sua reforma, para conhecimento e provimento do recurso especial.
+Contrarrazões ao agravo interno às fls. e-STJ 249/260.
+É o breve relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIALETICIDADE. IMPUGNAÇÃO ESPECÍFICA. INOCORRÊNCIA. DECISÃO DE NÃO CONHECIMENTO DO RECURSO ESPECIAL. AGRAVO INTERNO NÃO CONHECIDO.
+1.O art. 932, III, do CPC, prevê que não será conhecido o recurso que não impugne especificamente os fundamentos da decisão recorrida. Trata-se do princípio da dialeticidade. De acordo com essa norma, para que o recurso seja conhecido, é necessário o desenvolvimento de argumentação que refute, de forma específica, direcionada e aprofundada, as razões adotadas na decisão recorrida. Súmula 182/STJ.
+2. No caso, o Recurso Especial não foi conhecido, nos termos da Súmula 284/STF, porque o dispositivo violado não tinha correlação com a fundamentação do acórdão recorrido. Nas razões do agravo, contudo, o recorrente apenas demonstrou inconformismo com a decisão, sem apontar de forma específica o seu equívoco.
+3. Agravo interno não conhecido.
+VOTO
+Eminentes colegas, o agravo interno não merece ser conhecido.
+O art. 932, III, do CPC, prevê que não será conhecido o recurso que não impugne especificamente os fundamentos da decisão recorrida. Trata-se do princípio da dialeticidade.
+De acordo com essa norma-e nos termos da Súmula 182/STJ-, não basta a menção ao tema objeto do pronunciamento impugnado, para que o recurso seja conhecido. É necessário o desenvolvimento de argumentação que refute, de forma específica, direcionada e aprofundada, as razões adotadas na decisão recorrida. Nesse sentido:
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A FUNDAMENTO DA DECISÃO AGRAVADA. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL/2015. SÚMULA N. 182/STJ.
+1. A decisão ora agravada não conheceu do agravo em recurso especial com base na incidência da Súmula n. 182/STJ.
+2. As razões do agravo interno não enfrentam adequadamente o único fundamento da decisão agravada.
+3. Conforme já assentado pela Corte Especial do STJ, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ.
+4. O novo Código de Processo Civil, por meio do art. 932, reafirmou a jurisprudência desta Corte, ao exigir a impugnação específica dos fundamentos da decisão agravada.
+Agravo interno não conhecido. (AgInt no AREsp 1631654/SP, Relator Ministro Humberto Martins, Segunda Turma, Julgado em 07/12/2022, DJe 12/12/2022, grifei)
+AGRAVO INTERNO NO AGRAVO INTERNO NO MANDADO DE SEGURANÇA. PROCESSUAL CIVIL. NÃO IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182 DO STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Não se conhece de agravo regimental que não impugna especificamente os fundamentos da decisão agravada. Incidência da Súmula n. 182 do STJ.
+2. Agravo interno não conhecido. (AgInt no AgInt no MS 28326/BA, Relator Ministro João Otávio Noronha, Segunda Seção, Julgado em 29/11/2022, DJe 01/12/2022)
+O processo é dialético. As petições das partes devem referir-se reciprocamente, a partir de teses e antíteses, e as decisões e recursos devem se relacionar não apenas no binômio pedido/dispositivo, mas também na fundamentação adotada. A garantia do contraditório efetivo- que abarca a possibilidade concreta de influenciar os pronunciamentos judiciais- não cabe apenas ao órgão julgador, mas também e em primeiro lugar às partes. O convencimento depende do grau de profundidade das razões expostas.
+No caso concreto, o recurso especial não foi conhecido, com base na Súmula 284/STF, tendo em vista que o artigo indicado como violado não guarda relação com a controvérsia, o que impede a sua compreensão. Consignou-se, de forma expressa, que a necessidade de fundamentação adequada, com a correta indicação do dispositivo ofendido, também se aplica aos casos de dissídio jurisprudencial, pois não há divergência entre Tribunais se eles chegam a conclusões diferentes a partir da interpretação de artigos de lei distintos.
+Contudo, no agravo, o recorrente limitou-se a afirmar que a decisão monocrática é incorreta, tendo em vista que o recurso especial foi interposto com base em dissídio jurisprudencial e o Tribunal interpretou o dispositivo indicado de forma diversa daquela realizada por outros tribunais do país (e-STJ fl. 240):
+"No entanto, é válido observar nas razões insculpidas no recurso especial, que o agravante apenas embasou seu recurso na alínea "c", eis que o julgamento ocorrido no Eg. TJ/PR, diverge de demais tribunais pátrios, no que se refere à aplicação do (§ único do art. 1.º da Lei 8009/90), razão pela qual, toda a fundamentação inserta nas razões recursais outrora interposta, comprovam o preenchimento de todos os requisitos legais para o conhecimento e provimento do recurso especial!" (grifos originais)
+Note-se que não foi citado qualquer trecho do acórdão que confirme a afirmação. Ou seja, sequer tentou-se demonstrar que o Tribunal de Justiça do Estado do Paraná de fato interpretou o dispositivo indicado pelo recorrente.
+Os demais argumentos do agravo interno restringem-se à transcrição de ementas de diversos tribunais, novamente sem apontar em que trechos é possível identificar a interpretação do mesmo dispositivo.
+Dessa forma, não está preenchido o requisito da dialeticidade.
+Ante o exposto, não conheço do agravo interno.
+É como voto.
