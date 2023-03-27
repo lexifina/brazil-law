@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/03/2023 a 27/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de agravo interno interposto por HENRIETE INES GELAIN contra decisão assim ementada:
+RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. IMPETRAÇÃO CONTRA ATO JUDICIAL. DEMONSTRAÇÃO DE ABUSO OU TERATOLOGIA. AUSÊNCIA.
+1. Segundo a jurisprudência do STJ, o mandado de segurança contra ato judicial é medida excepcional, admissível somente nas hipóteses em que se verifica de plano decisão teratológica, ilegal ou abusiva, contra a qual não caiba recurso com efeito suspensivo e não amparado por habeas corpus ou habeas data.
+2. Hipótese em que o recorrente não demonstrou a existência do direito líquido e certo a ser amparado, excepcionalmente, pelo mandado de segurança, além de não se verificar teratologia ou flagrante ilegalidade, a amparar a pretensão.
+3. Recurso ordinário em mandado de segurança não provido.
+Sustenta o agravante que " o ato coator do Juízo singular feriu direito líquido e certo da parte agravante, pois ao negar a liberação do valor depositado em Juízo, que é considerado verba alimentar, está configurado o atraso"; que " tal inércia ou indeferimento do recurso, de fato, causará dano de difícil reparação, eis que o lesionado estará desprovido de seus recursos para a sua sobrevivência, inclusive privado de adimplemento de suas obrigações diárias, tais como água, luz, telefone, aluguel, alimentação, vestuário e afins"; e que "é pessoa incapaz, interditada por doença psiquiátrica, estando em tratamento médico há mais de 10 (dez) anos, necessitando diariamente de uso de medicamentos controlados e consultas médicas " (fl. 118, e-STJ).
+Afirma que a caracterização da flagrante ilegalidade do ato coator está no fato de que "o Juízo da curatela não detém legitimidade nenhuma para administrar ou exigir prestação de contas acerca do valor que a agravante, enquanto insolvente, venha a receber ou ter de direito" e que "o único que detém legitimidade legal para solicitar o levantamento de valores é o curador, sendo que tal ato deve ser do Juízo da insolvência civil, visto que é ele quem tem legitimidade legal para proibir qualquer ato de constrição em face de uma pessoa física que foi declarada a sua insolvência civil" (fl. 120, e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. IMPETRAÇÃO CONTRA ATO JUDICIAL. DEMONSTRAÇÃO DE ABUSO OU TERATOLOGIA. AUSÊNCIA.
+1. Segundo a jurisprudência do STJ, o mandado de segurança contra ato judicial é medida excepcional, admissível somente nas hipóteses em que se verifica de plano decisão teratológica, ilegal ou abusiva, contra a qual não caiba recurso com efeito suspensivo e não amparado por habeas corpus ou habeas data.
+2. Hipótese em que o recorrente não demonstrou a existência do direito líquido e certo a ser amparado, excepcionalmente, pelo mandado de segurança, além de não se verificar teratologia ou flagrante ilegalidade, a amparar a pretensão.
+3. Agravo interno não provido.
+VOTO
+Como afirmado na decisão agravada, verifica-se, no particular, que o recorrente se limitou a narrar os fatos, bem como a apresentar as razões do seu inconformismo com o ato impugnado, deixando de demonstrar a existência do direito líquido e certo a ser amparado, excepcionalmente, pelo mandado de segurança.
+No mais, o agravante não se desincumbiu do ônus de comprovar a teratologia ou flagrante ilegalidade, tampouco evidente abuso de poder praticado pela autoridade coatora, a amparar a sua pretensão.
+Não por outro motivo, o TJ/RS indeferiu a inicial do mandado de segurança e julgou extinto o processo, sem exame do mérito, com os seguintes fundamentos:
+Pois bem, no caso dos autos, não se desconhece que quando do julgamento do recurso de Agravo de Instrumento nº 70083466144, foi reconhecida a impenhorabilidade de valores oriundos de verbas indenizadas pelo Município de Caxias do Sul.
+Ocorre que a decisão exarada pelo juízo impetrado - que determinou a transferência de valores para processo de interdição e que impossibilitou a reserva de honorários contratuais - não traz qualquer prejuízo à agravante, pelo contrário, pois resguardam os interesses da própria interditada.
+Em relação ao ponto, aliás, cabe destacar o Poder Geral de Cautela conferido ao Julgador, ou seja, é preferível que no juízo de interdição se concentrem todos os atos de guarda e zelo dos bens (em sentido amplo) do curatelado, mesmo porque a medida protetiva se dá em nome e favor deste, e não no interesse ou conveniência de terceiros.
+Em consequência, conforme destacado na decisão objurgada, no processo de interdição nº 010/1.11.0014979-1 de HENRIETE INÊS GELAIN é que serão apreciados os pedidos de levantamentos de valores em favor da interditada, mediante prestação de contas, na forma da lei.
+Destarte, não verifico direito líquido e certo a ser resguardado no presente mandamus, tampouco ilegalidade ou abuso de poder na decisão exarada pelo 2º JUÍZO DA 4ª VARA CÍVELDA COMARCA DE CAXIAS DO SUL. (fl. 70, e-STJ - grifou-se)
+Por fim, ao contrário do que afirma o agravante, não há negativa de liberação do valor depositado, mas, consoante se verifica do acórdão recorrido, "no processo de interdição nº 010/1.11.0014979-1 de HENRIETE INÊS GELAIN é que serão apreciados os pedidos de levantamentos de valores em favor da interditada, mediante prestação de contas, na forma da lei" (fl. 70, e-STJ).
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno.
