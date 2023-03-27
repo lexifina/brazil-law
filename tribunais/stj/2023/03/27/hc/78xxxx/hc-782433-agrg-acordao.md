@@ -1,0 +1,25 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/03/2023 a 27/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik, Messod Azulay Neto e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Joel Ilan Paciornik.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. DOSIMETRIA. PENA BASE ESTABELECIDA NO PISO LEGAL PELA CORTE DE ORIGEM. FALTA DE INTERESSE RECURSAL. AGRAVO DESPROVIDO.
+1. Hipótese na qual resta clara a carência de interesse recursal, pois o pleito ora deduzido já foi deferido no julgamento da apelação, eis que a Corte de origem realizou ampla e benéfica revisão na pena do ora agravante, tendo reconduzido a pena base ao mínimo legal e, na segunda fase dosimétrica, limitou-se a aplicar a agravante da reincidência, utilizando a fração de 1/6 para o incremento da reprimenda.
+2. Agravo desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por ALOISIO ANTONIO GONSALES contra a decisão que não conheceu do writ (e-STJ, fls. fls. 83-84).
+Em razões, a defesa reitera que a pena foi estabelecida de forma arbitrária, máxime por não ter sido declinada qualquer fundamento para a fixação da básica acima do mínimo legal.
+Pugna, assim, pelo provimento do agravo a fim de conceder a ordem, reduzindo a pena ao patamar mínimo estabelecido no preceito secundário do tipo penal incriminador.
+É o relatório.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. DOSIMETRIA. PENA BASE ESTABELECIDA NO PISO LEGAL PELA CORTE DE ORIGEM. FALTA DE INTERESSE RECURSAL. AGRAVO DESPROVIDO.
+1. Hipótese na qual resta clara a carência de interesse recursal, pois o pleito ora deduzido já foi deferido no julgamento da apelação, eis que a Corte de origem realizou ampla e benéfica revisão na pena do ora agravante, tendo reconduzido a pena base ao mínimo legal e, na segunda fase dosimétrica, limitou-se a aplicar a agravante da reincidência, utilizando a fração de 1/6 para o incremento da reprimenda.
+2. Agravo desprovido.
+VOTO
+Razão não assiste ao agravante.
+Com efeito, resta clara a carência de interesse recursal, pois o pleito ora deduzido já foi deferido no julgamento da apelação, vez que a Corte de origem realizou ampla e benéfica revisão na pena do ora agravante, tendo reconduzido a pena base ao mínimo legal e, na segunda fase dosimétrica, limitou-se a aplicar a agravante da reincidência, utilizando a fração de 1/6 para o incremento da reprimenda.
+Oportuno transcrever excertos do voto condutor do acórdão:
+" A s bases do homicídio qualificado e da ocultação de cadáver foram fixadas, respectivamente, em 1/6 (um sexto) e no dobro acima dos patamares em razão da "personalidade de descaso ao ser humano, conduta social desviada aos delitos praticados e insensibilidade às consequências dos delitos, sendo certo que em nenhum momento a vítima colabor ou para os crimes, premeditaram o ilícito". Contudo, o fundamento deve ser afastado por ser inerente às próprias figuras típicas e suas consequências. Logo, as sanções são fixadas nos mínimos de 12 (doze) anos de reclusão (homicídio qualificado); e 01 (um) ano de reclusão e 10 (dez) dias-multa (ocultação de cadáver). Na segunda etapa, quanto ao homicídio qualificado, a sanção foi majorada em 1/5 (um quinto) para Alex Herone Vinicius já decotadas as reduções por suas menoridades relativas "reconhecidas as três qualificadoras ..  sendo que uma funcionou para a fixação da pena-base,enquanto as outras servem como agravantes, enquadráveis as circunstâncias no artigo 61, II, alíneas "a", "c", e "d," do Código Penal"; e em 2/5 (dois quintos) para Aloisio com fundamento, além das qualificadoras, na agravante da reincidência (processo nº 0008750-55.2007.8.26.0451, cf. F. A. de fls.2449/2460 e certidão de fls. 2461/2466). Todavia, a consideração das agravantes genéricas (CP,artigo 61, II, alíneas a, c, e d) caracteriza bis in idem,pois qualificam o crime de homicídio (integrantes do tipo derivado).
+Nesse contexto, as penas permanecem nos mínimos de 12 (doze) anos de reclusão (homicídio qualificado); e 01 (um) ano de reclusão e 10 (dez) dias-multa (ocultação de cadáver) para Alex Herone Vinicius vez que a menoridade relativa não tem o condão de reduzir as penas-base aquém dos patamares, a teor da Súmula nº 231 do STJ. E são majoradas em 1/6 (um sexto) para Aloisio com fundamento na reincidência, perfazendo 14 (quatorze) anos de reclusão (homicídio qualificado); e 01 (um) ano e 02 (dois) meses de reclusão e 11 (onze) dias-multa (ocultação de cadáver). Aplicado o concurso material, as sanções resultam definitivas, no recálculo, em 13 (treze) anos de reclusão e 10 (dez) dias-multa,no valor unitário mínimo (Alex Herone Vinicius); e 15 (quinze) anos e 02(dois) meses de reclusão e 11 (onze) dias-multa, no piso (Aloisio)".
+Ante o exposto, nego provimento ao agravo.
+É o voto.
