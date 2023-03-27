@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Messod Azulay Neto, João Batista Moreira (Desembargador convocado do TRF1), Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Cuida-se de agravo regimental interposto por JOAQUIM DOMINGUES DOS SANTOS em face de decisão monocrática proferida pela Presidência desta Corte, às fls. 686/687, que, com base nos arts. 21-E, V, e 253, parágrafo único, I, ambos do Regimento Interno do STJ, não conheceu do agravo em recurso especial, eis que não impugnados todos os fundamentos da decisão de inadmissibilidade do recurso especial proferida no TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - TJSP.
+Em face desta decisão, a defesa opôs embargos de declaração, que foram rejeitados pela Presidência (fl. 703).
+No presente regimental, o agravante alega não ser hipótese de incidência da Súmula n. 182 do STJ, porquanto o óbice da Súmula n. 7 do STJ, aplicado na decisão de inadmissibilidade do recurso especial proferida na origem, foi impugnado na peça do agravo em recurso especial. No mais, a defesa reiterou as razões do seu apelo nobre.
+Requer o provimento do agravo regimental para conhecer do agravo e do recurso especial e, em seguida, dar-lhe provimento.
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. SÚMULA N. 284 DO SUPREMO TRIBUNAL FEDERAL - STF. SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. ÓBICES NÃO IMPUGNADOS. INCIDÊNCIA DA SÚMULA N. 182 DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A impugnação específica, pormenorizada e concreta de todos os fundamentos da decisão de inadmissibilidade do recurso especial é requisito para o conhecimento do agravo. Apresenta-se insuficiente, pois, a mera alegação de não incidência dos óbices apontados pela decisão agravada.
+2. No caso em tela, o agravo em recurso especial não impugnou especificamente os fundamentos de inadmissibilidade consistentes nos óbices da Súmula n. 284 do Supremo Tribunal Federal e da Súmula n. 7 do Superior Tribunal de Justiça.
+3. Escorreita a decisão agravada que não conheceu do agravo em recurso especial, em razão da incidência da Súmula n. 182 do STJ.
+4 . Agravo regimental desprovido.
+VOTO
+O agravo regimental não merece provimento, devendo ser mantido o não conhecimento do agravo em recurso especial.
+A Presidência desta Corte não conheceu do agravo em recurso especial porque a defesa deixou de infirmar todos os fundamentos da decisão de inadmissibilidade, em atenção à necessária dialeticidade recursal, incidindo, in casu, a Súmula n. 182 do STJ (fls. 686/687). Consignou, ainda, ser a decisão de inadmissibilidade incindível, não composta por capítulos autônomos, razão pela qual deve ser impugnada em sua integralidade, sob pena de não conhecimento do agravo.
+Contudo, verifica-se que, no caso, em realidade, o agravante deixou de impugnar efetiva e concretamente os fundamentos de inadmissibilidade consistentes nos óbices da Súmula n. 284 do STF e da Súmula n. 7 do STJ. Confira-se, neste ponto, trecho da decisão que inadmitiu o apelo nobre na origem:
+"Com efeito, o recurso especial foi interposto sem a fundamentação necessária, consoante determina o artigo 1.029 do Código de Processo Civil, o que afasta a possibilidade de seu conhecimento, pois não foram devidamente infirmados os argumentos do aresto.
+O E. Superior Tribunal de Justiça, considerando a importância desse requisito formal, assinalou que: " (..) Verifica-se deficiência na fundamentação do recurso especial, a atrair o óbice do Enunciado n. 284 da Súmula do STF, pois o recorrente não demonstrou de maneira específica as razões de sua insurgência (..)".
+Outrossim, incide ao caso a Súmula nº 7 do STJ, que dispõe: "A pretensão de simples reexame de prova não enseja recurso especial" ,ou seja, há divergência quanto à situação reconhecida pelo Tribunal, não sendo possível emitir um juízo de valor sobre a questão de direito federal sem antes alterar os elementos de fato." (fls. 650/651)
+Em agravo contra esta decisão, a defesa limitou-se, genericamente, a afirmar não ser hipótese de incidência do óbice da Súmula n. 7 do STJ. Quanto à incidência da Súmula n. 284 do STF, a defesa sequer se manifestou.
+Conforme é cediço, faz- se necessária a impugnação específica, concreta e pormenorizada dos fundamentos da decisão agravada, não sendo suficiente a mera afirmação de não ser caso de incidência de determinado óbice, sem explicitar-se as razões que sustentariam tal alegação.
+É firme o entendimento desta Corte no sentido de que "inadmitido o recurso especial com base na Súm. 7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível" (AgInt no AREsp n. 600.416/MG, Segunda Turma, Rel. Min. Og Fernandes, DJe de 18/11/2016).
+Dessa forma, aplicável, por analogia, a Súmula n. 182 do STJ, que dispõe ser "inviável o agravo do art. 545 do Código de Processo Civil - CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Nesse sentido, confiram-se os seguintes precedentes (grifos nossos):
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DO STJ. RECURSO MANIFESTAMENTE INADMISSÍVEL. VIOLAÇÃO DA COMPETÊNCIA COLEGIADA. INOCORRÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ. AGRAVO DESPROVIDO.
+1. Nos termos da iterativa jurisprudência desta Corte Superior, "o julgamento monocrático do presidente do Superior Tribunal de Justiça antes da distribuição do processo, pelo não conhecimento de recurso que seja inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida, está amparado no art. 21-E, VI, do RISTJ, não havendo falar em violação do princípio da colegialidade." (AgRg no AREsp 2037202/MG. Quinta Turma. Rel. Ministro João Otávio de Noronha. DJe de 19.8.2022).
+2. Na modalidade do recurso previsto no art. 1.042 do CPC, "é inafastável o dever do recorrente de impugnar especificamente todos os fundamentos que levaram à inadmissão do apelo extremo, não se podendo falar, na hipótese, em decisão cindível em capítulos autônomos e independentes". Precedente da Corte Especial do STJ.
+3. A decisão que não admitiu o recurso especial assentou os óbices das Súmulas 7 e 211 do STJ, e Súmulas 280 e 284 do STF. No respectivo agravo, contudo, a parte deixou de rebater, concreta e especificamente, de acordo com a hipótese dos autos, todos os motivos delineados para não admissão do recurso.
+4. Esta Corte Superior pacificou entendimento de que a ausência de efetiva impugnação de todos os fundamento da decisão que inadmitiu o recurso especial na origem impede o conhecimento do agravo, nos termos da Súmula 182 do STJ.
+5. Agravo desprovido.
+(AgRg no AREsp n. 2.234.482/PR, relator Ministro João Batista Moreira (Desembargador Convocado do TRF1), Quinta Turma, julgado em 7/2/2023, DJe de 13/2/2023).
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE INADMISSIBILIDADE. NÃO IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. MANU TENÇÃO DA APLICAÇÃO DA SÚMULA N. 182 DO STJ. DECISÃO MANTIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Os recursos devem impugnar especificamente os fundamentos da decisão cuja reforma é pretendida, não sendo suficientes alegações genéricas nem a reiteração dos argumentos referentes ao mérito da controvérsia.
+2. Mantém-se a aplicação analógica da Súmula n. 182 do STJ quando não há impugnação efetiva, específica e fundamentada de todos os fundamentos da decisão que inadmite recurso especial.
+3. Para afastar a aplicação da Súmula n. 7 do STJ, não é bastante a mera afirmação de sua não incidência na espécie, devendo a parte apresentar argumentação suficiente a fim de demonstrar que, para o STJ mudar o entendimento da instância de origem sobre a questão suscitada, não é necessário reexame de fatos e provas da causa.
+(..).
+5. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.121.358/ES, relator Ministro João Otávio de Noronha, Quinta Turma, DJe de 30/9/2022).
+Ante o exposto, voto pelo desprovimento do agravo regimental.
