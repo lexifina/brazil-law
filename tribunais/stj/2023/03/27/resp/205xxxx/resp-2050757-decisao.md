@@ -1,0 +1,69 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto por SERVIÇO SOCIAL DA INDÚSTRIA - SESI E SERVIÇO NACIONAL DE APRENDIZAGEM INDUSTRIAL, contra acórdão prolatado, por unanimidade, pelo Tribunal Regional Federal da 3ª Região, assim ementado (fl. 261e):
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO. NÃO CONHECIMENTO. PEDIDO DE INTERVENÇÃO COMO ASSISTENTE DA UNIÃO. SUPRESSÃO DE INSTÂNCIA. RECURSO DESPROVIDO.
+1. O pronunciamento agravado versa unicamente sobre concessão de medida liminar. No bojo do agravo de instrumento, foi formulado pedido de intervenção dos recorrentes na relação processual debatida em juízo.
+2. O caso é mesmo de não conhecimento do recurso. Isso porque, não tendo o MM. Juízo "a quo" se pronunciado sobre o ingresso dos agravantes como assistentes da União, não poderia esse E. Tribunal examinar originariamente referido pleito, sob pena de se caracterizar indevida supressão de instância. A competência desta Corte é recursal, ou seja, cabe-lhe a função de reexaminar temas que tenham sido decididos na primeira instância.
+3. O disposto no parágrafo único do artigo 119 do Código de Processo Civil aplica-se às hipóteses em que o terceiro formula pedido de ingresso perante o Juízo de primeira instância e, negada a pretensão, tem seu pleito acolhido pelo Tribunal, situação diversa do presente caso, já que, repita-se, não houve pedido de ingresso dos recorrentes perante o MM. Juízo "a quo".
+Doutrina.
+4. Mantida a decisão que não conheceu do agravo de instrumento, não é o caso de suspender o presente julgamento com base no Tema 1.079 afetado perante a E. Primeira Seção do Superior Tribunal de Justiça.
+5. Agravo interno desprovido.
+Opostos embargos de declaração, foram rejeitados (fls. 314/326e).
+Com amparo no art. 105, III, a, da Constituição da República, os Recorrentes apontam ofensa a dispositivos legais, defendendo, em síntese, o direito ao ingresso no feito como assistentes litisconsorciais ou subsidiariamente como assistentes simples.
+Com contrarrazões, o recurso foi admitido.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, III, IV e V, do Código de Processo Civil de 2015, combinados com os arts. 34, XVIII, b e c, e 255, I e II, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, respectivamente, a:
+i) não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;
+ii) negar provimento a recurso ou pedido contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ; e
+iii) dar provimento a recurso se o acórdão recorrido for contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ:
+"O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Inicialmente, verifico a ausência de demonstração precisa de como a alegada violação aos arts. 3º do Decreto-lei n. 9.403/1946, 49 do Decreto n. 57.375/1965, 4º e 6º do Decreto-lei nº 4.048/1942, 50 do Decreto 494/1962, 1º, § 1º e § 5º e 3º da Lei 6.246/1944 e 15 e §2º e. 1.046 do CPC teria ocorrido, o que impede o conhecimento do recurso especial, nesses pontos.
+Em consonância com o entendimento desta Corte, nos casos em que a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se ao recurso especial, por analogia, o entendimento da Súmula 284, do Colendo Supremo Tribunal Federal, in verbis: É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia.
+Nesse sentido, os seguintes precedentes:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ENERGIA ELÉTRICA. ALEGAÇÕES GENÉRICAS DE VIOLAÇÃO AOS DISPOSITIVOS LEGAIS. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. AÇÃO DE COBRANÇA. DÉBITO DE TERCEIRO. OBRIGAÇÃO DE NATUREZA PESSOAL. RESPONSABILIDADE DO CONSUMIDOR QUE EFETIVAMENTE UTILIZOU O SERVIÇO.
+1. O recurso especial não pode ser conhecido no tocante à alegada ofensa à Resolução ANEEL 456/00. Isso porque o referido ato normativo não se enquadra no conceito de "tratado ou lei federal" de que cuida o art. 105, III, a, da CF.
+2. A mera indicação dos dispositivos legais tidos por violados, sem que haja demonstração clara e objetiva de como o acórdão recorrido teria malferido a legislação federal, não enseja a abertura da via especial, devendo a parte recorrente demonstrar os motivos de sua insurgência, o que não ocorreu no caso em exame. Hipótese em que incide a Súmula 284/STF, por deficiência na fundamentação.
+(..)
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 401.883/PE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 11/02/2014, DJe 18/02/2014).
+PROCESSUAL CIVIL. OFENSA AO ART. 535 DO CPC NÃO CONFIGURADA. ACÓRDÃO ASSENTADO EM FUNDAMENTO CONSTITUCIONAL E INFRACONSTITUCIONAL. NÃO COMPROVAÇÃO DE QUE FOI INTERPOSTO RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF.
+(..)
+3. No que tange à apontada violação do art. 292 do Código de Processo Civil, a insurgente restringe-se a alegar genericamente ofensa à citada norma sem, contudo, demonstrar de forma clara e fundamentada como o aresto recorrido teria violado a legislação federal apontada.
+4. Agravo Regimental não provido.
+(AgRg no AREsp 441.462/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 18/02/2014, DJe 07/03/2014).
+Acerca da assistência litisconsorcial, esta Corte firmou posicionamento segundo o qual os serviços sociais autônomos não possuem legitimidade para constarem no polo passivo de ações judiciais em que são partes o contribuinte e o/a INSS/União Federal e nas quais se discutem a relação jurídico-tributária e a repetição de indébito, porquanto são meros destinatários de subvenção econômica.
+Nessa linha:
+PROCESSUAL CIVIL, FINANCEIRO E TRIBUTÁRIO. EMBARGOS DE DIVERGÊNCIA. CONTRIBUIÇÕES DESTINADAS A TERCEIROS. SERVIÇOS SOCIAIS AUTÔNOMOS. DESTINAÇÃO DO PRODUTO. SUBVENÇÃO ECONÔMICA. LEGITIMIDADE PASSIVA AD CAUSAM. LITISCONSÓRCIO. INEXISTÊNCIA.
+1. O ente federado detentor da competência tributária e aquele a quem é atribuído o produto da arrecadação de tributo, bem como as autarquias e entidades às quais foram delegadas a capacidade tributária ativa, têm, em princípio, legitimidade passiva ad causam para as ações declaratórias e/ou condenatórias referentes à relação jurídico-tributária.
+2. Na capacidade tributária ativa, há arrecadação do próprio tributo, o qual ingressa, nessa qualidade, no caixa da pessoa jurídica.
+3. Arrecadado o tributo e, posteriormente, destinado seu produto a um terceiro, há espécie de subvenção.
+4. A constatação efetiva da legitimidade passiva deve ser aferida caso a caso, conforme a causa de pedir e o contexto normativo em que se apoia a relação de direito material invocada na ação pela parte autora.
+5. Hipótese em que não se verifica a legitimidade dos serviços sociais autônomos para constarem no polo passivo de ações judiciais em que são partes o contribuinte e o/a INSS/União Federal e nas quais se discutem a relação jurídico-tributária e a repetição de indébito, porquanto aqueles (os serviços sociais) são meros destinatários de subvenção econômica.
+6. Embargos de divergência providos para declarar a ilegitimidade passiva ad causam do SEBRAE e da APEX e, por decorrência do efeito expansivo, da ABDI.
+(EREsp n. 1.619.954/SC, relator Ministro Gurgel de Faria, Primeira Seção, julgado em 10/4/2019, DJe de 16/4/2019.)
+Quanto ao dispositivo de lei federal remanescente, a Corte de origem assentou (fls. 258/259e):
+O disposto no parágrafo único do artigo 119 do Código de Processo Civil aplica-se às hipóteses em que o terceiro formula pedido de ingresso perante o Juízo de primeira instância e, negada a pretensão, tem seu pleito acolhido pelo Tribunal, situação diversa do presente caso, já que, repita-se, não houve pedido de ingresso dos recorrentes perante o MM. Juízo "a quo". Nesse sentido, cite-se entendimento doutrinário:
+"Pode o assistente ingressar em qualquer tipo de procedimento e a qualquer momento, mas recebe o processo no estado em que se encontra.
+Isso se aplica também à fase recursal: o assistente pede para ingressar no feito, e, seu ingresso é negado por decisão agravável de instrumento. O . recurso é interposto e o Tribunal entende ser caso de assistência O assistente, então, ingressa no processo a partir desse momento." (WAMBIER, Teresa Arruda Alvim et al. Primeiros comentários ao Novo Código 3ª Tiragem. São Paulo: Revista dos de Processo Civil - Artigo por artigo.
+Tribunais, 2015, p. 216 - sem grifos no original)
+Assim, deve ser mantida a decisão que não conheceu do agravo de instrumento.
+A assistência é uma espécie de intervenção na qual ocorre a inserção de terceiro em processo alheio, ante a comprovação de interesse jurídico e o propósito de colaborar com uma das partes em causa pendente, podendo ser simples ou litisconsorcial (qualificada) a depender do quanto se assemelhe, ou não, a uma espécie de litisconsórcio facultativo ulterior.
+Assim, "pode ser assistente litisconsorcial todo aquele que, desde o início do processo, estaria legitimado a figurar como litisconsorte facultativo-unitário da parte assistida" (Código de Processo Civil Comentado. NERY JÚNIOR, Nelson; NERY, Rosa Maria de Andrade. 20ª ed. São Paulo: Revista dos Tribunais, 2021, p. 470 - destaque do original).
+Simples é a assistência quando o terceiro que ingressa no feito é titular de relação jurídica conexa àquela objeto de discussão.
+Com efeito, nos termos do parágrafo único do art. 119 do CPC/2015, o pedido de ingresso como assistente pode ser requerido e admitido a qualquer tempo, independentemente do grau de jurisdição, recebendo o assistente o processo no estado em que se encontra, verbis:
+Art. 119. Pendendo causa entre 2 (duas) ou mais pessoas, o terceiro juridicamente interessado em que a sentença seja favorável a uma delas poderá intervir no processo para assisti-la.
+Parágrafo único. A assistência será admitida em qualquer procedimento e em todos os graus de jurisdição, recebendo o assistente o processo no estado em que se encontre.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PEDIDO DE INGRESSO NA LIDE COMO TERCEIRO PREJUDICADO. FIGURA PROCESSUAL DA ASSISTÊNCIA LITISCONSORCIAL. ART. 119, PARÁGRAFO ÚNICO, DO CPC/2015. AUSÊNCIA DE INTERESSE PROPRIAMENTE JURÍDICO. INTERESSE ECONÔMICO. DESCABIMENTO. INDEFERIMENTO. EMBARGOS DE DECLARAÇÃO PREJUDICADOS.
+1. A orientação desta Corte Superior é firme no sentido de que a lei processual admite o ingresso de terceiro na condição de assistente simples ou litisconsorcial apenas quando demonstrado seu interesse jurídico na solução da controvérsia. E tal situação se verifica, em concreto, quando existente uma relação jurídica integrada pelo assistente que será diretamente atingida pelo provimento jurisdicional, não bastando o mero interesse econômico, moral ou corporativo.
+2. Nesse particular, a redação do art. 119 do CPC/2015 não alterou, em essência, o regime jurídico processual anterior, até porque continua a exigir que a admissão da assistência simples ou litisconsorcial somente pode ocorrer quanto houver "terceiro juridicamente interessado".
+ ..
+5. Embargos de declaração prejudicados.
+(EDcl nos EDcl no REsp n. 1.338.942/SP, Rel. Ministro OG FERNANDES, PRIMEIRA SEÇÃO, julgado em 22/8/2018, DJe de 28/8/2018)
+No caso, vislumbro interesse jurídico do SENAI e do SESI no feito, porquanto poderão sofrer consequências reflexas do provimento jurisdicional do presente processo, revelando-se, assim, a conveniência do julgamento favorável à Fazenda Nacional, a quem pretendem assistir.
+Nesse cenário, impõe-se o provimento parcial do recurso especial para, reformando o acórdão recorrido, admitir o ingresso no feito dos Recorrentes, SERVIÇO NACIONAL DE APRENDIZAGEM INDUSTRIAL - SENAI e SERVIÇO SOCIAL DA INDÚSTRIA - SESI na condição de assistente simples da parte recorrida (Fazenda Nacional).
+Por fim, no que tange aos honorários advocatícios, da conjugação dos enunciados administrativos ns. 3 e 7, editados em 09.03.2016 pelo Plenário desta Corte, depreende-se que as novas regras relativas ao tema, previstas no art. 85 do Código de Processo Civil de 2015, serão aplicadas apenas aos recursos sujeitos à novel legislação, tanto nas hipóteses em que o novo julgamento da lide gerar a necessidade de fixação ou modificação dos ônus da sucumbência anteriormente distribuídos, quanto em relação aos honorários recursais (§ 11).
+Ademais, vislumbrando o nítido propósito de desestimular a interposição de recurso infundado pela parte vencida, entendo que a fixação de honorários recursais, em favor do patrono da parte recorrida, está adstrita às hipóteses de não conhecimento ou improvimento do recurso.
+Posto isso, com fundamento no art. 932, III, IV e V do Código de Processo Civil e art. 34, XVIII, a e b, do Regimento Interno desta Corte, CONHEÇO EM PARTE E DOU PARCIAL PROVIMENTO ao Recurso Especial, nos termos expostos.
+Publique-se e intimem-se.
