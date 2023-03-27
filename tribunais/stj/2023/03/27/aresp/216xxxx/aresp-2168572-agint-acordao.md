@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/03/2023 a 27/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de agravo interno interposto por FUNDAÇÃO BANRISUL DE SEGURIDADE SOCIAL, contra a decisão unipessoal que, conhecendo de agravo, não conheceu do recurso especial que interpusera.
+Ação: de conhecimento em fase de cumprimento de sentença, ajuizada por ZELIA TEREZINHA ABREU FROTO em desfavor da ora agravante, com vistas ao pagamento de abono único e à incorporação do auxílio cesta-alimentação em seu benefício de previdência complementar.
+Decisão interlocutória: ao decidir a impugnação apresentada pela agravante, fixou os honorários advocatícios relativos à fase de cumprimento de sentença em 10% sobre o total devido.
+Acórdão: negou provimento ao agravo de instrumento interposto pela agravante, nos termos da seguinte ementa (e-STJ fl. 207):
+"AGRAVO DE INSTRUMENTO. PREVIDÊNCIA PRIVADA. CUMPRIMENTODEFINITIVO DE SENTENÇA. TRÂNSITO EM JULGADO. HONORÁRIOS ADVOCATÍCIOS. INCIDÊNCIA SOBRE O MONTANTE TOTAL DA CONDENAÇÃO. DEPÓSITO PARA GARANTIA DO JUÍZO. AUSÊNCIA DE PAGAMENTO DO DÉBITO. INCIDÊNCIA DOS HONORÁRIOS ADVOCATÍCIOS, PREVISTOS NOART. 523, § 1º, DO CPC (475-J, DO CPC/1973).
+I. No caso concreto, a partir do momento em que houve o trânsito em julgado da condenação da requerida, o cumprimento provisório de sentença foi convertido em definitivo. Assim, em se tratando de cumprimento definitivo de sentença e não havendo o pagamento espontâneo do débito dentro do prazo legal, incide a verba honorária prevista no art. 475-J, do CPC/1973. Precedentes desta Corte.
+II. De outro lado, como o depósito judicial não se destinou ao pagamento espontâneo do débito, mas sim para a apresentação da impugnação, não tendo havido a liberação dos valores para a parte credora, correta a incidência dos honorários advocatícios sobre o débito, conforme previsto no art. 523,§ 1º, do CPC.
+AGRAVO DESPROVIDO".
+Embargos de declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alegou violação dos arts. 475-J do CPC/73, 489, § 1º, VI, 523, § 1º, e 927, III, do CPC/15, bem como dissídio jurisprudencial. Além de negativa de prestação jurisdicional, sustentou que: (i) não são cabíveis honorários advocatícios em sede de execução provisória; (ii) a verba é devida apenas quando a execução é convertida em definitiva e tenha havido a intimação para adimplemento superveniente; (iii) houve o pagamento de quantia incontroversa, no curso da execução provisória.
+Prévio juízo de admissibilidade: o TJ/RS inadmitiu o recurso, o que ensejou a interposição de agravo em recurso especial.
+Decisão agravada: tornando sem efeito anterior decisão da Presidência do STJ, conheceu do agravo para não conhecer do recurso, conforme a ementa a seguir (e-STJ fl. 440):
+"PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. HONORÁRIOS ADVOCATÍCIOS. VIOLAÇÃO DOS ARTS. 489, § 1º, E 927, III, DO CPC/2015. NÃOOCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de conhecimento em fase de cumprimento de sentença, ajuizada com vistas ao pagamento de abono único e à incorporação do auxílio cesta-alimentação em benefício de previdência complementar.
+2. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, dentro dos limites da devolutividade recursal, não há que se falar em violação dos arts. 489, § 1º, e 927, III, do CPC/15.
+3. A ausência de decisão acerca dos argumentos invocados pelo recorrente, não obstante a oposição de embargos de declaração, impede o conhecimento do recurso especial.
+4. Alterar o decidido no acórdão impugnado, no que se refere à definitividade da execução e ao pagamento de quantia incontroversa, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+5. Decisão agravada tornada sem efeito. Agravo conhecido para não conhecer do recurso especial, em novo julgamento".
+Agravo interno: nas razões do presente recurso, a agravante afirma que, ao contrário do afirmado na decisão agravada, não foi sustentada duas teses, mas apenas uma, relativa à aplicação do entendimento desta Corte, firmado no REsp 1.291.736/PR.
+Aduz que, conforme entendeu-se no precedente, após o trânsito em julgado, deve ser franqueado à parte devedora a possibilidade de cumprir a condenação, e, somente na hipótese de inadimplemento, é que são cabíveis honorários advocatícios.
+Repisa que, na hipótese dos autos, não houve essa intimação específica, de modo que não é devida a verba honorária.
+No mais, pugna pela aplicação do disposto no art. 1.025 do CPC/2015, no tocante ao prequestionamento, e defende a inaplicabilidade da Súmula 7/STJ, aduzindo que se trata de controvérsia jurídica, referente ao descabimento de honorários advocatícios em sede de execução provisória.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. HONORÁRIOS ADVOCATÍCIOS. VIOLAÇÃO DOS ARTS. 489, § 1º, E 927, III, DO CPC/2015. NÃO OCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de conhecimento em fase de cumprimento de sentença, ajuizada com vistas ao pagamento de abono único e à incorporação do auxílio cesta-alimentação em benefício de previdência complementar.
+2. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, dentro dos limites da devolutividade recursal, não há que se falar em violação dos arts. 489, § 1º, e 927, III, do CPC/15.
+3. A ausência de decisão acerca dos argumentos invocados pelo recorrente, não obstante a oposição de embargos de declaração, impede o conhecimento do recurso especial.
+4. Alterar o decidido no acórdão impugnado, no que se refere à definitividade da execução e ao pagamento de quantia incontroversa, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+5. Agravo interno não provido.
+VOTO
+A decisão agravada, a par de conhecer do agravo, não conheceu do recurso especial interposto pela agravante em razão da ausência de violação dos arts. 489 e 927 do CPC/2015, bem como da incidência das Súmulas 7 e 211/STJ.
+Contudo, pela análise das razões recursais apresentadas, verifica-se que a agravante não trouxe qualquer argumento apto à modificação do decisum.
+A respeito da violação dos arts. 489 e 297 do CPC, a parte argumenta que o Tribunal de origem se recusou a aplicar, na íntegra, as teses firmadas por esta Corte no julgamento do REsp 1.291.736/PR, que dizem respeito ao descabimento de honorários advocatícios na execução provisória e à necessidade, após o trânsito em julgado, de se possibilitar ao devedor o cumprimento voluntário da obrigação.
+Todavia, consoante asseverado na decisão agravada, o TJ/RS se manifestou expressamente acerca do primeiro ponto, entendendo que a execução se iniciou provisoriamente, porém foi convertida em definitiva em 03/12/2014, quando houve o trânsito em julgado da fase de conhecimento. A partir dessa premissa, concluiu o Tribunal ser cabível a fixação de honorários advocatícios na fase de cumprimento de sentença, ante a ausência de pagamento voluntário do débito no prazo legal.
+Por outro lado, como afirmado na decisão unipessoal, a Corte local, realmente, não se manifestou acerca do segundo ponto, relativo à necessidade de intimação específica para pagamento voluntário da obrigação, após o trânsito em julgado. Isso, contudo, não implica, na específica hipótese dos autos, em negativa de prestação jurisdicional: o TJ/RS não se debruçou sobre essa questão simplesmente porque não foi invocada pela agravante no momento oportuno, qual seja, quando da interposição do agravo de instrumento (e-STJ fls. 4/9).
+Inclusive, sequer nos embargos de declaração suscitou a agravante essa tese sucessiva quanto à necessidade de intimação para adimplemento após o trânsito em julgado da fase de conhecimento, limitando-se a repisar o descabimento de honorários advocatícios na execução provisória (e-STJ fls. 235/237).
+Logo, atendo-se o Tribunal de origem aos limites da devolutividade recursal, e examinando fundamentadamente todos os pontos trazidos à sua apreciação, realmente não há que se falar em negativa de prestação jurisdicional, tampouco em violação dos arts. 489, § 1º e 927, III, do CPC/2015.
+Por consequência, não se tem por prequestionada a tese desenvolvida pela agravante no recurso especial, quanto à necessidade de intimação do devedor para adimplemento da obrigação, após o trânsito em julgado. Afinal, como destacado anteriormente, o Tribunal de origem não decidiu sobre essa questão, pelo singelo motivo de não ter sido oportunamente provocado pela parte.
+É por essa mesma razão, aliás, que se mostra inaplicável o disposto no art. 1.025 do CPC/2015, porque não há que se cogitar de qualquer vício do acórdão recorrido.
+Não há motivo, portanto, para o afastamento do óbice da Súmula 211/STJ.
+Quanto ao mais, observa-se que, nas razões do recurso especial, a agravante repisa a tese de que, em verdade, se trata de execução provisória e de que houve o pagamento de valor incontroverso.
+Essa linha argumentativa, contudo, vai de encontro ao que restou decidido pelo Tribunal de origem, consoante se observa do seguinte excerto do acórdão recorrido:
+" (..) Na hipótese dos autos, cumpre observar que a parte autora ingressou com o cumprimento provisório de sentença em 26.07.2010 (fl. 134), pois ainda não havia o trânsito em julgado da decisão de mérito, eis que pendente de julgamento o Recurso Especial interposto pela impugnante, ora agravada.
+No entanto, apesar das alegações da parte impugnante, depreende-se que houve o trânsito em julgado da decisão de mérito em 03.12.2014, conforme certidão de fl. 169, em razão do julgamento do Recurso Especial anteriormente interposto pela agravante.
+Assim, a partir do momento em que houve o trânsito em julgado da condenação da requerida, o cumprimento provisório de sentença foi convertido em definitivo.
+ ..
+Por conseguinte, em se tratando de cumprimento definitivo de sentença e não havendo o pagamento espontâneo do débito dentro do prazo legal, incide a verba honorária prevista no art. 475-J, do CPC/1973, devendo ser mantida a decisão, nesse ponto.
+De outro lado, sem razão a agravante, também, no que tange à incidência dos honorários da fase de cumprimento de sentença.
+Isto porque, como o depósito judicial não se destinou ao pagamento espontâneo do débito, mas sim para a apresentação da impugnação, não tendo havido a liberação dos valores para a parte credora, deve ocorrer a incidência da multa e dos honorários advocatícios sobre a totalidade do débito, conforme previsto no art. 523, § 1º, do CPC/2015 (art. 475-J, do CPC/1973). (e-STJ fls. 210/212).
+Ora, eventual alteração do entendimento do acórdão recorrido, no que concerne à definitividade da execução e ao pagamento de valor incontroverso, demandaria desta Corte, inevitavelmente, a incursão na seara fático-probatória dos autos, o que é vedado na estreita via do recurso especial, como estabelece a Súmula 7/STJ.
+Dessa maneira, em suma, o conhecimento do recurso especial é mesmo inviável, devendo ser mantidas as conclusões da decisão agravada.
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno.
