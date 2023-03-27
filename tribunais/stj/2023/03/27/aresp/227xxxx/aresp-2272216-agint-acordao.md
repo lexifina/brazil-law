@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/03/2023 a 27/03/2023, por unanimidade, dar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Trata-se de agravo interno, interposto pelo ADRIANA XAVIER DA MATTA, contra decisão da Presidência desta Corte, que não conheceu de seu agravo em recurso especial, em razão da ausência de impugnação específica de fundamento decisório (Súmula 182/STJ).
+Nas razões do agravo interno, alega-se que houve impugnação dos fundamentos da decisão de inadmissibilidade do recurso especial, em especial da Súmula 7/STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. DECISÃO RECONSIDERADA. AGRAVO DE INSTRUMENTO. PENHORA ONLINE DE VALORES DEPOSITADOS EM CONTA BANCÁRIA. IMPENHORABILIDADE QUE SE ESTENDE ATÉ O LIMITE DE 40 SALÁRIOS MÍNIMOS INDEPENDENTE SE MANTIDOS EM CONTA CORRENTE, POUPANÇA OU FUNDOS DE INVESTIMENTOS. DECISÃO EM SENTIDO CONTRÁRIO AO DA JURISPRUDÊNCIA DO STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E DAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Nos termos da jurisprudência do STJ, "a proteção prevista no art. 833, X, do CPC não se dirige apenas ao saldo imobilizado em caderneta de poupança, de modo que a impenhorabilidade até o valor de 40 salários mínimos não faz distinção entre poupança, conta corrente, fundos de investimento, ou guardados em papel-moeda" - (AgInt no REsp n. 1.229.639/PR, relator Ministro MARCO BUZZI, Quarta Turma, julgado em 11/10/2016, DJe de 20/10/2016).
+2. Agravo interno provido para reconsiderar a decisão agravada, e, em novo exame, conhecer do agravo para dar provimento ao recurso especial.
+VOTO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+À vista das razões apresentadas no agravo interno, reconsidero a decisão da Presidência desta Corte, tendo em vista que a houve a devida impugnação da Súmula 7/STJ, em sede de agravo em recurso especial.
+Passa-se, assim, a novo exame do feito.
+Trata-se de agravo de ADRIANA XAVIER DA MATTA contra decisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, interposto contra v. acórdão do eg. Tribunal de Justiça do Estado do Rio de Janeiro (TJ-RJ), assim ementado (fl. 73):
+AGRAVO DE INSTRUMENTO. PENHORA ON-LINE. SISBAJUD. NÃO COMPROVADA A IMPENHORABILIDADE DAS VERBAS BLOQUEADAS.
+1. Estabelece o art. 835, § 1º, do NCPC que é prioritária a penhora em dinheiro, podendo o juiz, nas demais hipóteses, alterar a ordem prevista no caput, de acordo com as circunstâncias do caso concreto, cabendo ao executado (art. 854, § 3º, do NCPC) comprovar que as quantias tornadas indisponíveis correspondem a alguma das hipóteses de impenhorabilidade elencadas no art. 833 do NCPC.
+2. No presente caso, não houve qualquer demonstração de que o bloqueio realizado em conta de titularidade da parte executada corresponda a depósitos de natureza salarial e alimentar, ou seja, de que a verba em discussão é oriunda exclusivamente de seu trabalho e destinada ao seu sustento e de sua família e à sua dignidade, a justificar a impenhorabilidade pretendida.
+3. A simples alegação genérica de que sobre o montante constrito nos autos de origem incide a hipótese de impenhorabilidade prevista no art. 833, X, CPC/2015, não se mostra suficiente para determinar o levantamento integral das quantias objeto de constrição judicial. Precedentes.
+4. Agravo de instrumento conhecido e desprovido.
+Nas razões do recurso especial, a recorrente alega violação ao art. 833, X, do Código de Processo Civil de 2015. Sustenta, em síntese, que "É de sabença que o art. 833, inciso X, do CPC/15 expressa que a quantia depositada em caderneta de poupança, até o limite de 40 salários-mínimos é impenhorável, entretanto encontra-se consolidado pelo STJ o entendimento de que são impenhoráveis os 40 salários-mínimos de maneira global, não importando quais aplicações financeiras a ela investida. (..) Assim, a jurisprudência pátria pacificou o entendimento de que a norma-garantia de impenhorabilidade dos valores depositados até a monta de 40 salários-mínimos deve ser interpretada para abrigar outros tipos de contas bancárias em que depositado tal valor do pequeno poupador."(fls. 127-128).
+Decido.
+A Corte de origem, analisando as circunstâncias do caso, afastou a impenhorabilidade dos valores depositados em conta de titularidade da agravante, como se infere do trecho abaixo transcrito (e-STJ, fls. 67-72):
+"Não se desconhece a jurisprudência do STJ no sentido de que "é possível ao devedor, para viabilizar seu sustento digno e de sua família, poupar valores sob a regra da impenhorabilidade no patamar de até quarenta salários mínimos, não apenas aqueles depositados em cadernetas de poupança, mas também em conta-corrente ou em fundos de investimento, ou guardados em papel-moeda" (REsp 1.230.060-PR).
+No entanto, em primeiro lugar, verifica-se que se trata de julgado sem força vinculante.
+No mais, comungo do entendimento de que a regra só protege a impenhorabilidade até 40 (quarenta) salários mínimos de quantia depositada em caderneta de poupança, cuja natureza seja de verba alimentar, em observância à própria finalidade deste dispositivo legal, não se admitindo, portanto, uma interpretação extensiva.
+Nesse sentido, cabe transcrever trecho do judicioso voto-vista proferido pela Ministra NANCY ANDRIGHI quando do julgamento do mesmo REsp 1.230.060-PR, que esmiuçou bem a controvérsia:
+(..)
+In casu, não houve qualquer demonstração de que o bloqueio realizado em conta de titularidade da parte executada corresponda a depósitos de natureza salarial e alimentar, ou seja, de que a verba em discussão é oriunda exclusivamente de seu trabalho e destinada ao seu sustento e de sua família e à sua dignidade, a justificar a impenhorabilidade pretendida.
+Descabe a presunção de impenhorabilidade, sendo certo que a simples alegação genérica de que sobre o montante constrito nos autos de origem incide a hipótese de impenhorabilidade prevista no art. 833, X, CPC/2015, não se mostra suficiente para determinar o levantamento integral das quantias objeto de constrição judicial.
+Isto posto, Voto no sentido de conhecer e negar provimento ao agravo de instrumento."
+Com efeito, o acórdão recorrido está em sentido contrário ao do posicionamento desta Corte de Justiça, a qual interpreta que "a proteção prevista no art. 833, X, do CPC não se dirige apenas ao saldo imobilizado em caderneta de poupança, de modo que a impenhorabilidade até o valor de 40 salários mínimos não faz distinção entre poupança, conta corrente, fundos de investimento, ou guardados em papel-moeda" - (AgInt no REsp n. 1.229.639/PR, relator Ministro Marco Buzzi, Quarta Turma, julgado em 11/10/2016, DJe de 20/10/2016). Sobre o tema, em reforço:
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. AGRAVO DE INSTRUMENTO. AUSÊNCIA DE VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. PREVIDÊNCIA PRIVADA COMPLEMENTAR. POSSIBILIDADE DE PENHORA AFERIDA NO CASO CONCRETO. APLICAÇÃO DE LIMITE DE 40 SALÁRIOS MÍNIMOS. SUBSISTÊNCIA DO DEVEDOR. PRECEDENTES. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO NÃO PROVIDO.
+1. Não configura ofensa aos arts. 489 e 1.022 do CPC/2015 o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados pelo recorrente, adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia.
+2. "A impenhorabilidade dos valores depositados em fundo de previdência privada complementar deve ser aferida pelo Juiz casuisticamente, de modo que, se as provas dos autos revelarem a necessidade de utilização do saldo para a subsistência do participante e de sua família, caracterizada estará a sua natureza alimentar, na forma do art. 649, IV, do CPC" (EREsp 1.121.719/SP, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 12/02/2014, DJe de 04/04/2014)
+3. "A jurisprudência desta egrégia Corte Superior é firme no sentido da impenhorabilidade de valor até 40 (quarenta) salários mínimos poupados ou mantidos pelo devedor em conta corrente ou em outras aplicações financeiras, ressalvada a comprovação de má-fé, abuso de direito ou fraude" (AgInt no AREsp 1512613/MG, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 04/05/2020, DJe 07/05/2020).
+4. Estando a decisão de acordo com a jurisprudência do Superior Tribunal de Justiça, o recurso especial encontra óbice na Súmula 83/STJ, pelas alíneas "a" e "c" do permissivo constitucional.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 1.697.507/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 10/10/2022, DJe de 21/10/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. CUMPRIMENTO DE SENTENÇA. PENHORA DE CONTA POUPANÇA. UTILIZAÇÃO COMO CONTA CORRENTE. IRRELEVÂNCIA. IMPENHORABILIDADE QUE SE ESTENDE ATÉ O LIMITE DE 40 SALÁRIOS MÍNIMOS INDEPENDENTE SE MANTIDOS EM CONTA CORRENTE, POUPANÇA OU FUNDOS DE INVESTIMENTOS. QUESTÃO DE DIREITO. INAPLICABILIDADE DA SÚMULA N.º 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A possibilidade de reconhecer a impenhorabilidade da quantia até 40 salários mínimos constitui, uma questão de direito, e não de fato. Incabível, por isso, a incidência da Súmula n.º 7 do STJ.
+2. São impenhoráveis os valores poupados pelo devedor, seja em caderneta
+de poupança, conta corrente, fundo de investimentos ou em papel moeda, até o limite de 40 salários mínimos.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.940.342/DF, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 12/12/2022, DJe de 14/12/2022).
+Nesse contexto, estando a decisão em sentido oposto da jurisprudência desta Corte, o recurso especial comporta provimento.
+Diante do exposto, dou provimento ao agravo interno para reconsiderar a decisão de fls. 207-208 e, em nova análise, conhecer do agravo para dar provimento ao recurso especial, a fim de determinar a impenhorabilidade dos valores depositados até o limite de 40 salários mínimos.
+É como voto.
