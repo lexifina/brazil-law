@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/03/2023 a 27/03/2023, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+Trata-se de agravo interno interposto por NILZA TEREZINHA FIGUEIREDO contra a decisão de fls. 237/239, da lavra do então Presidente do STJ, Ministro Humberto Martins, que conheceu de seu agravo para não conhecer do recurso especial interposto em razão da incidência das Súmulas 7 e 211/STJ.
+Nas razões recursais, alega-se: (i) "o V. Acórdão merece ser anulado porque incorreu em negativa de prestação jurisdicional ao deixar de manifestar-se expressamente sobre a tese do recorrente" (fl. 248); (ii) "a segurada logrou rebater específica e suficientemente todos os fundamentos da decisão de inadmissibilidade, sem apresentar impugnações genéricas para tanto" (fl. 249); (iii) "temos a INAPLICABILIDADE DA SÚMULA 182 DO STJ. Do ponto de vista formal, poder-se-ia cogitar da inconstitucionalidade da norma em referência  .. " (fl. 252); e (iv) é inaplicável a Súmula 7/STJ.
+Requer-se, por fim, o provimento do agravo para que seja determinado o processamento do recurso especial para a apreciação do mérito.
+Não foi apresentada impugnação ao recurso (fl. 262).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 1.021, §1º, DO CPC/2015. SÚMULA 182/STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1. Nos termos do art. 1.021, § 1º, do CPC/2015 e da Súmula 182 do STJ, o agravante deve infirmar, nas razões do agravo interno, os fundamentos da decisão impugnada, sob pena de não se conhecer do seu recurso.
+2. In casu,  a  decisão  ora  agravada conheceu do agravo para não conhecer do recurso especial em razão da incidência das Súmulas 7 e 211 do STJ.
+3. Para afastar a aplicação da Súmula 7 do STJ, não é bastante a mera afirmação de sua não incidência na espécie, devendo a parte apresentar argumentação suficiente a fim de demonstrar que, para o STJ mudar o entendimento da instância de origem sobre a questão suscitada, não é necessário o reexame de fatos e provas da causa.
+4. Quanto ao segundo fundamento invocado na decisão ora agravada (incidência da Súmula 211/STJ), a parte agravante não o impugnou, não havendo nem sequer menção ao instituto abordado por tal verbete sumular - requisito do prequestionamento.
+5. Dessa forma, considerando que a parte agravante não impugnou, específica e motivadamente, os fundamentos da decisão agravada, não se revela possível conhecer do presente agravo interno.
+6. Agravo interno não conhecido.
+VOTO
+Nos termos do art. 1.021, § 1º, do CPC/2015 e da Súmula 182 do STJ, o agravante deve infirmar, nas razões do agravo interno, os fundamentos da decisão impugnada, sob pena de não se conhecer do seu recurso.
+In casu,  a  decisão  ora  agravada conheceu do agravo para não conhecer do recurso especial em razão da incidência das Súmulas 7 e 211 do STJ.
+Para afastar a aplicação da Súmula 7 do STJ, não é bastante a mera afirmação de sua não incidência na espécie, devendo a parte apresentar argumentação suficiente a fim de demonstrar que, para o STJ mudar o entendimento da instância de origem sobre a questão suscitada, não é necessário o reexame de fatos e provas da causa. Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. NEXO DE CAUSALIDADE AFASTADO PELO TRIBUNAL DE ORIGEM. SÚMULA 7/STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. SÚMULA 182/STJ.
+1. A Corte local consignou: "tem-se por afirmado nas perícias que o volume de água da cheia de 2014 esultou de fenômeno natural, que acontece na região com periodicidade, intervalos de pouco mais de uma década. Logo, afastada a causa do dano como sendo de responsabilidade da apelada, não há que se falar em indenização."
+2. A alegação genérica, no Agravo Interno, de que o acolhimento das razões recursais depende de mero reenquadramento jurídico dos fatos arrolados não atende à necessária dialeticidade recursal, atraindo a incidência da Súmula 182/STJ. Precedentes.
+3. Agravo Interno não conhecido. (AgInt no REsp n. 1.944.846/RO, relator Ministro Herman Benjamin, Segunda Turma, julgado em 13/12/2021, DJe de 17/12/2021.)
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. IPTU, TAXA DE PREVENÇÃO E EXTINÇÃO DE INCÊNCIDOS. TAXA DE COLETA DE LIXO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. SÚMULA 182/STJ. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO. AGRAVO INTERNO DO CONTRIBUINTE NÃO CONHECIDO.
+1. A decisão ora recorrida não conheceu do agravo em razão da não impugnação aos fundamentos da decisão que inadmitiu o recurso especial na origem, notadamente quanto às Súmulas 7/STJ e 282/STF. Assim, consignou-se a incidência da Súmula 182 do STJ.
+2. A parte, para ver seu recurso especial inadmitido ascender a esta Corte, precisa, primeiro, desconstituir os fundamentos utilizados para a negativa de seguimento daquele recurso sob pena de vê-los mantidos.
+3. É mister repetir que as razões demonstrativas do desacerto da decisão agravada devem ser veiculadas imediatamente nessa oportunidade, pois convém frisar não ser admitida fundamentação a destempo, a fim de inovar a justificativa para ascensão do recurso excepcional, diante da preclusão consumativa.
+4. Em nova análise do agravo interposto, tem-se que a parte agravante efetivamente não rebateu todos os fundamentos da decisão de inadmissão do recurso especial, incidindo à espécie o Enunciado da Súmula 182 do STJ.
+5. Inadmitido o recurso especial em razão da dissonância da pretensão com jurisprudência desta Corte Superior, incumbiria à parte interessada apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada, procedendo ao cotejo analítico entre eles.
+6. Ainda, inadmitido o recurso especial com base na Súmula 7 do STJ, não basta a assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada ou simplesmente a insistência no mérito da controvérsia. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do citado óbice processual.
+7. Agravo interno do contribuinte não conhecido. (AgInt no AREsp n. 1.806.404/SP, relator Ministro Manoel Erhardt - Desembargador Convocado do TRF5, Primeira Turma, julgado em 20/9/2021, DJe de 22/9/2021.)
+Entretanto, na espécie, a parte agravante sustentou genericamente que seria inaplicável a Súmula 7 do STJ, sem abordar as circunstâncias do caso, o que não é admitido pela jurisprudência desta Corte Superior.
+No mais, quanto ao segundo fundamento invocado na decisão ora agravada (incidência da Súmula 211/STJ), a parte agravante não o impugnou, não havendo nem sequer menção ao instituto abordado por tal verbete sumular - requisito do prequestionamento.
+Além disso, no que concerne à negativa de prestação jurisdicional, verifica-se que a alegação foi formulada de forma genérica, sem a indicação da tese que não teria sido apreciada, o que consubstancia deficiência na argumentação recursal e inviabiliza o exame da matéria. No mais, quanto à apontada inaplicabilidade da Súmula 182/STJ, cabe ressaltar que a decisão ora agravada não fez nenhuma menção ao aludido enunciado sumular, de modo que a tese encontra-se dissociada das premissas jurídicas expostas na decisão agravada.
+Dessa forma, considerando que a parte agravante não impugnou, específica e motivadamente, os fundamentos da decisão agravada, não se revela possível conhecer do presente agravo interno, nos termos da Súmula 182 desta Corte e do disposto no art. 1.021, § 1º, do CPC/2015.
+Pelas considerações expostas, não conheço do agravo interno de NILZA TEREZINHA FIGUEIREDO.
+É o voto.
