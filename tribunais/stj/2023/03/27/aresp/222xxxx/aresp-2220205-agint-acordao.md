@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/03/2023 a 27/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+EXMO. SR MINISTRO RAUL ARAÚJO- Relator:
+Trata-se de agravo interno interposto por CLEUSA MARIA FUGA contra decisão da em. Ministra Presidente do STJ (fls. 862-864), que não conheceu do agravo em recurso especial, em razão de a parte agravante não ter impugnado a Súmula 7/STJ, o que fez incidir a Súmula 182/STJ.
+A parte agravante, nas razões do agravo interno, sustenta a inaplicabilidade da referida Súmula, pois não pediu reanalise de provas e fatos; e acrescenta que pleiteou a nulidade dos julgados por ausência de fundamentação acerca da decisão vinculante do RE 878.677 - Tema 809 (fls. 866-875). Registra, ainda, que, na sua peça recursal, impugnou especificamente a Súmula 7/STJ.
+Os agravados foram devidamente intimados, BENEDITO SCARELLI apresentou impugnação (fls. 878-884) e ATTÍLIO SCARELLI, JACYR SCARELLI, OSWALDO SCARELLI e PAULO CESAR SCARELLI apresentaram impugnação (fls. 886-893).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. AGRAVO A QUE SE NEGA PROVIMENTO.
+1. A ausência de impugnação específica, na petição de agravo em recurso especial, dos fundamentos da decisão que não admite o apelo especial atrai a aplicação do art. 932, III, do Código de Processo Civil de 2015 e do art. 253, parágrafo único, I, do RISTJ (redação dada pela Emenda Regimental n. 22, de 2016).
+2. Agravo interno a que se nega provimento.
+VOTO
+EXMO. SR MINISTRO RAUL ARAÚJO- Relator:
+O agravo interno não merece provimento.
+Na hipótese em exame, o Tribunal de origem não admitiu o recurso especial da ora agravante por entender incidente a Súmula 7/STJ, bem como não comprovada a divergência jurisprudencial (fls. 812-814).
+Todavia, a agravante, na petição de agravo (fls. 817-832), não rebateu, como lhe competia, todos os fundamentos adotados na decisão que inadmitiu o especial. Limitou-se a insistir na ausência da devida fundamentação da decisão, bem como na comprovação da divergência jurisprudencial, deixando, contudo, de impugnar a incidência da referida Súmula 7/STJ.
+De fato, observa-se que, nas razões do agravo, o recorrente não impugnou especificamente a incidência do óbice da Súmula 7/STJ ao caso.
+Note-se, ainda, que tal fundamento é suficiente - por si só - para obstar o conhecimento do recurso especial.
+Esta circunstância atrai a incidência do disposto no art. 932, III, do Código de Processo Civil de 2015, verbis:
+"Art. 932. Incumbe ao relator:
+(..)
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;
+(..)."
+A propósito, confiram-se:
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. RECURSO QUE DEIXA DE IMPUGNAR ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO ORA AGRAVADA. INCIDÊNCIA DOS ARTS. 932, III, E 1.021, § 1º, DO CPC/2015 E DA SÚMULA 182 DO STJ. RECURSO MANIFESTAMENTE INADMISSÍVEL. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, CPC. AGRAVO NÃO CONHECIDO.
+1. Inexistindo impugnação específica, como seria de rigor, aos fundamentos da decisão ora agravada, essa circunstância obsta, por si só, a pretensão recursal, pois, à falta de contrariedade, permanecem incólumes os motivos expendidos pela decisão recorrida. Incide na espécie o disposto no arts. 932, III e 1.021, § 1º, do Código de Processo Civil de 2015 e a Súmula n. 182 do Superior Tribunal de Justiça. (..)
+(AgInt no REsp 1.495.693/PE, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 13/06/2017, DJe de 19/06/2017)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE CORPORATIVO/EMPRESARIAL. EX-EMPREGADO. PERMANÊNCIA. ARTIGO 31 DA LEI 9.656/98. POSSIBILIDADE. CASO CONCRETO. FAIXA ETÁRIA. REAJUSTE DAS MENSALIDADES. REEXAME. SÚMULA 7/STJ. FUNDAMENTO. IMPUGNAÇÃO. ARTIGO 544, § 4º, I, DO CPC/73. NOVA AUSÊNCIA DE IMPUGNAÇÃO. ARTIGO 1.021, § 1º, DO CPC. SÚMULA N. 182/STJ. NÃO CONHECIMENTO. (..)
+3. A ausência de impugnação ao fundamento da decisão agravada no agravo interno faz incidir o disposto no enunciado n. 182 da Súmula desta Casa, haja vista a norma contida no artigo 1.021, § 1º, do Código de Processo Civil. (..)
+(AgInt no AREsp 918.551/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 06/06/2017, DJe de 20/06/2017)
+A ausência de impugnação específica, como seria de rigor, dos fundamentos da decisão de inadmissão do recurso especial, obsta, por si só, a pretensão recursal, pois, permanecem incólumes os motivos expendidos pela decisão recorrida, nos termos dos arts. 932, III, do Código de Processo Civil de 2015 e da Súmula 182 do Superior Tribunal de Justiça.
+Cabe ressaltar que, por ocasião do julgamento dos EAREsps 701.404, 746.775 e 831.326, concluído na sessão do dia 19/9/2018, a Corte Especial, com a ressalva do entendimento pessoal desta relatoria, consolidou a orientação de que, para se viabilizar o conhecimento do agravo em recurso especial, é necessário que o recorrente impugne especificamente a integralidade dos fundamentos da decisão agravada, autônomos ou não, o que não ocorreu na espécie.
+Considerando a missão uniformizadora do Superior Tribunal de Justiça, impõe-se a manutenção da decisão agravada, porque proferida segundo o entendimento adotado pela Corte Especial.
+Diante do exposto, nega-se provimento ao agravo interno.
+É como voto.
