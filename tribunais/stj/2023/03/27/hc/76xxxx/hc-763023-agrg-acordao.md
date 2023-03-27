@@ -1,0 +1,22 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/03/2023 a 27/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+RELATÓRIO
+Trata-se de agravo regimental em habeas corpus interposto por Alex Sander Mateos contra a decisão de minha lavra que denegou a ordem do writ impetrado em seu favor. Esta, a ementa da decisão (fl. 422):
+EXECUÇÃO PENAL. HABEAS CORPUS. FALTA GRAVE. INOBSERVÂNCIA DO DEVER DE TRABALHO. NULIDADE. FRAGILIDADE DAS PROVAS. NECESSIDADE DE REVISÃO DO CONJUNTO FÁTICO-PROBATÓRIO. VIA ELEITA. IMPOSSIBILIDADE. RECUSA AO TRABALHO. PREVISÃO LEGAL EXPRESSA (ARTS. 50, VI, E 39, V, AMBOS DA LEP). CONSTRANGIMENTO ILEGAL. AUSÊNCIA. PEDIDO DE EXTENSÃO. IMPOSSIBILIDADE.
+Ordem denegada. Pedido de extensão de fls. 323/331 indeferido.
+Alega o agravante que o Estado possui lei especifica e neste caso deve prevalecer a regra especial, visto que não se tem provas suficientes para imputar a paciente tamanha falta grave e tamanho prejuízo, paciente vem sofrendo grande constrangimento (fl. 438).
+Aduz que a falta imputada ao paciente foi sim homologada em processo administrativo disciplinar separado e examinado em recurso de agravo também separado ao do HC n. 773.507/SC ao que se quer extensão da decisão. Todavia, no presente caso, mesmo que a falta tenha sido objeto de homologação em execução penal distinta da examinada no presente habeas corpus e mantida por agravo em execução também com numeração própria, não há como se negar que a situação que culminou na imposição da falta disciplinar de Alisson não é a mesma do ora paciente Alex Sander, a similitude fática e processual entre eles é a mesma (fl. 439).
+Requer a reconsideração da decisão atacada ou a submissão do julgamento do recurso à Sexta Turma desta Corte, a fim de que seja desclassificada a falta grave imposta ao paciente para falta média, inclusive para dar efeito extensivo da decisão do HC n. 773.507/SC ao paciente Alex Sander Mateos, que faz jus, por ser medida de igualdade e justiça (fl. 443).
+É o relatório.
+EMENTA
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. FALTA GRAVE. INOBSERVÂNCIA DO DEVER DE TRABALHO. NULIDADE. FRAGILIDADE DAS PROVAS. NECESSIDADE DE REVISÃO DO CONJUNTO FÁTICO-PROBATÓRIO. VIA ELEITA. IMPOSSIBILIDADE. RECUSA AO TRABALHO. PREVISÃO LEGAL EXPRESSA (ARTS. 50, VI, E 39, V, AMBOS DA LEP). CONSTRANGIMENTO ILEGAL. AUSÊNCIA. PEDIDO DE EXTENSÃO. IMPOSSIBILIDADE.
+1. A recusa pelo apenado à execução de trabalho interno regularmente determinado pelo agente público competente, não havendo falar na existência de flagrante ilegalidade no v. acórdão combatido, sobretudo por que, além de a medida não se confundir com a pena de trabalho forçado, vedada pela Constituição Federal (art. 5º, XLVIII, "c"), encontra previsão no art. 6º da Convenção Americana de Direitos Humanos (AgRg no HC n. 429.608/SP, Ministro Felix Fischer, Quinta Turma, DJe 27/4/2018).
+2. Agravo regimental improvido.
+VOTO
+Apesar das alegações do agravante, a decisão agravada não comporta reparos.
+Este Superior Tribunal entende que, consoante previsão dos arts. 50, VI, e 39, V, ambos da LEP, configura falta grave a recusa pelo apenado à execução de trabalho interno regularmente determinado pelo agente público competente, não havendo falar na existência de flagrante ilegalidade no v. acórdão combatido, sobretudo porque, além de a medida não se confundir com a pena de trabalho forçado, vedada pela Constituição Federal (art. 5º, XLVIII, "c"), encontra previsão no art. 6º da Convenção Americana de Direitos Humanos (AgRg no HC n. 429.608/SP, Ministro Felix Fischer, Quinta Turma, DJe 27/4/2018).
+Quanto ao pedido de extensão, não obstante as alegações apresentadas, reafirmo o que disse na decisão impugnada, ou seja, a falta grave imputada ao ora paciente foi homologada em processo administrativo disciplinar diverso daquele examinado no HC n. 773.507/SC e examinado em agravo de execução também distinto.
+Por último, insisto que rever os fundamentos utilizados pelas instâncias ordinárias quanto ao afastamento da falta grave demandaria o reexame fático-probatório, inviável em sede de habeas corpus.
+Ante o exposto, nego provimento ao agravo regimental.
