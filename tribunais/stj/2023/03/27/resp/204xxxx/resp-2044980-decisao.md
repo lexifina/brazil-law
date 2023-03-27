@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por CAIXA ECONÔMICA FEDERAL, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim ementado:
+"AGRAVO INTERNO. JULGAMENTO POR DECISÃO MONOCRÁTICA. ART. 932 DO CPC. EXECUÇÃO. TÍTULO EXECUTIVO JUDICIAL. AÇÃO COLETIVA. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. SÚMULA 150 DO STF. INOCORRÊNCIA. RECURSO IMPROVIDO.
+1. Execução de título judicial originado de ação coletiva na qual a Caixa Econômica Federal foi condenada ao "pagamento, a expensas do FGTS, das diferenças de correção monetárias das contas vinculadas a esse Fundo, de que são titulares os filiados ao Sindicato autor, relativamente aos períodos de dezembro/1988 a fevereiro/1989 e abril/1990, nos termos da Lei Complementar nº 110/2001".
+2. A decisão transitou em julgado em 19/02/2013.
+3. Sobre a prescrição da pretensão executória, assim dispõe a Súmula n.º 150 do STF: "Prescreve a execução no mesmo prazo de prescrição da ação".
+4. A ação coletiva da qual derivou o presente título executivo refere-se à cobrança da atualização monetária dos depósitos do FGTS. Tal pleito, consoante já decidido pelo STF, em sede de repercussão geral, no RE 709.212-DF, subordina-se ao prazo prescricional quinquenal. Quanto à modulação dos efeitos dessa decisão, assim esclareceu o relator: "A modulação que se propõe consiste em atribuir à presente decisão efeitos ex nunc (prospectivos). Dessa forma, para aqueles cujo termo inicial da prescrição ocorra após a data do presente julgamento, aplica-se, desde logo, o prazo de cinco anos. Por outro lado, para os casos em que o prazo prescricional já esteja em curso, aplica-se o que ocorrer primeiro: 30 anos, contados do termo inicial, ou 5 anos, a partir desta decisão".
+5. Na hipótese dos autos não se verifica a consumação do lapso prescricional correspondente a cinco anos, contados a partir da decisão do STF, em 13/11/2014.6. Agravo interno a que se nega provimento" (fls. 852/853).
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 883/884e), os quais restaram rejeitados, nos termos da seguinte ementa:
+"EMBARGOS DE DECLARAÇÃO. AUSENTES AS HIPÓTESES DE CABIMENTO. EMBARGOS DEDECLARAÇÃO REJEITADOS.
+I - Não houve qualquer vício sanável na via dos embargos declaratórios.
+II - A matéria objeto dos presentes embargos de declaração traz questão que foi apreciada de forma clara com o mérito da causa, não apresentando o acórdão embargado, obscuridade, contradição ou omissão.
+III - Hipótese em que os embargos declaratórios são opostos com nítido caráter infringente.
+IV - Embargos de declaração rejeitados" (fls. 882/883) .
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora recorrente aponta violação aos arts. 1.022, II, do CPC/2015 e arts. 21 da Lei 4.717/65, arts. 489, VI, 927, III, 1.039 e 1.040, II, do CPC, sustenta ndo, além de negativa de prestação jurisdicional, que "a ação civil pública e a ação popular compõem um microssistema de tutela dos direitos difusos, razão pela qual aplica-se o prazo quinquenal previsto no art. 21, 4.717/65 para a propositura da ação civil pública" (fl. 889e).
+Argumenta, ainda:
+"Segundo deliberado pelo STJ na apreciação do tema 877 dos recursos repetitivos envolvendo o julgamento do REsp 1.388.000/PR, " o  prazo prescricional para a execução individual é contado do trânsito em julgado da sentença coletiva, sendo desnecessária a providência de que trata o art. 94 da Lei nº 8.078/90".
+Uma vez definido o prazo quinquenal para a ação de conhecimento, invocou-se a incidência da Súm. 150, STF para concluir que o prazo para início da execução individual deveria ser o mesmo da ação de conhecimento.
+De fato, somente é viável uma execução individual de decisão coletiva se promovida no prazo de 5 anos a partir do trânsito em julgado da sentença coletiva, conforme precedente vinculante firmado pelo STJ.
+Não é fundamentada decisão que deixa de seguir precedente invocado pela parte sem demonstrar distinção. Os órgãos judiciais devem aplicar os entendimentos firmados em julgamento de recursos repetitivos. Na existência de divergência entre o acórdão e decisão de tribunal superior superveniente, cabível o juízo de retratação" (fl. 890e)
+Contrarrazões a fls. 899/900e.
+O Recurso Especial foi admitido pelo Tribunal de origem (fls. 930/936e).
+A irresignação merece prosperar.
+Na origem, trata-se de Cumprimento de Sentença apresentado pela parte ora recorrente, com o objetivo de fazer-se cumprir decisão proferida em ação coletiva referente a expurgos inflacionários de FGTS.
+Julgada improcedente a demanda, recorreu o autor, tendo sido reformada a sentença, pelo Tribunal local.
+Daí a interposição do presente Recurso Especial.
+Inicialmente, em relação ao art. 1.022 do CPC/2015, deve-se ressaltar que o acórdão recorrido não incorreu em omissão, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente.
+Vale destacar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, REsp 1.129.367/PR, Rel. Ministra DIVA MALERBI (Desembargadora Federal Convocada/TRF 3ª Região), SEGUNDA TURMA, DJe de 17/06/2016; REsp 1.078.082/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 02/06/2016; AgRg no REsp 1.579.573/RN, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 09/05/2016; REsp 1.583.522/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 22/04/2016.
+No mais, no que tange à matéria de fundo, com razão a recorrente.
+Com efeito, no que tange à prescrição para execução individual de sentença proferida em ação coletiva a Primeira Seção deste STJ no julgamento do RESP 1.388.000/PT, Rel. p/ acórdão Min. Og Fernandes, DJe 12.4.2016, assentou entendimento segundo o qual o lustro prescricional para casos como tais é contado do trânsito em julgado da sentença coletiva.
+Assim, nos termos da jurisprudência do Superior Tribunal de Justiça, em se tratando "de execução individual de sentença proferida em ação coletiva, o beneficiário se insere em microssistema diverso e com regras pertinentes, sendo imperiosa a observância do prazo próprio das ações coletivas, que é quinquenal, nos termos do precedente firmado no REsp. n. 1.070.896/SC, aplicando-se a Súmula n. 150/STF" (AgRg no AREsp 254.658/MS, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe 18.12.2012).
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao Recurso Especial, a fim de restabelecer a sentença e reconhecer a prescrição.
+I.
