@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/03/2023 a 27/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Humberto Martins, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Cuida-se de Agravo Interno contra decisão deste relator, que não conheceu do Recurso Especial, com base no enunciado da Súmula 283/STF e na prejudicialidade da análise da divergência jurisprudencial.
+A parte agravante afirma que do recurso pode-se conhecer, uma vez que teria atacado todos os argumentos do acórdão recorrido (fl. 146, e-STJ).
+Alega também que as astreintes podem ser revisadas a qualquer momento e em qualquer instância recursal (fl. 148, e-STJ).
+A parte agravada, apesar de intimada, não apresentou impugnação.
+O Ministério Público Federal opinou pelo desprovimento do Recurso Especial (fls. 134-137, e-STJ).
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. REINTEGRAÇÃO. SERVIDOR PÚBLICO. DEMORA EXCESSIVA DA ADMINISTRAÇÃO PÚBLICA. APLICAÇÃO DE MULTA. ASTREINTES. REEXAME DE PROVAS. SÚMULA 7/STJ. FUNDAMENTAÇÃO NÃO ATACADA. SÚMULA 283 DO STF.
+1. O Tribunal de origem, soberano na análise do contexto fático-probatório produzido nos autos, assentou que o Estado do Maranhão reiteradamente demorou em cumprir a reintegração do servidor, inclusive, para que a ordem judicial fosse acatada pela Administração Pública, as astreintes foram majoradas.
+2. A Corte a quo também ressaltou que "a questão do cumprimento ou não da obrigação de fazer foi devidamente debatida em recurso anterior devidamente transitado em julgado, de modo que é vedado à parte, nos termos do art. 507 do CPC, nova manifestação judicial sobre questão já decidida, em razão da ocorrência da preclusão."
+3. Como os fundamentos supratranscritos não foram atacados pela parte recorrente e são aptos, por si sós, para manter o decisum combatido, permite-se aplicar na espécie, por analogia, o óbice da Súmula 283 do STF, ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo.
+4. O valor da astreintes estabelecido pela instância ordinária pode ser revisto nesta esfera tão somente nas hipóteses em que a condenação revelar-se irrisória ou exorbitante, distanciando-se dos padrões de razoabilidade, o que não é o caso dos autos. Aplica-se, nesse ponto, a Súmula 7 do STJ.
+5. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 27.2.2023.
+A irresignação não merece prosperar.
+Preliminarmente, o agravante deixou de impugnar um dos fundamentos da decisão recorrida, qual seja: divergência jurisprudencial prejudicada. Dessa forma, a análise do recurso se fixará no único ponto combatido - aplicação do enunciado da Súmula 283 do STJ.
+O Tribunal de origem, soberano na análise do contexto fático-probatório produzido nos autos, assentou que o Estado do Maranhão reiteradamente demorou em cumprir a reintegração do servidor, inclusive, para que a ordem judicial fosse acatada pela Administração Pública, as astreintes foram majoradas. In verbis:
+Naqueles autos, ficou assentado que, deferida a ordem para que o recorrido procedesse à reintegração do servidor exequente sob pena de multa diária de R$ 2.000,00 (dois mil reais), a qual teve como termo inicial de incidência o dia 07/05/2007, em virtude da reiterada demora em cumprir a medida, a juíza de base, constatando ser insuficiente o valor das astreintes anteriormente estabelecidas, aumentou seu valor ao patamar de R$10.000,00 (dez mil reais) por dia, no dia 17/01/2008, tendo o Estado do Maranhão tomado ciência do fato no dia 11/02/2008, sendo que o cumprimento da obrigação de fazer se deu somente no dia 14/03/2008.
+Estipulados os termos de descumprimento, também ficou consignado naqueles autos que, no tocante à insurgência da recorrente quanto ao valor fixado a título de multa, embora entendesse cabível a imposição de astreintes como meio coercitivo destinado a impor o cumprimento de decisão judicial, o valor a ser executado, na forma proposta pelo exequente/embargado, chegaria ao patamar de mais de R$ 1.000.000,00 (um milhão de reais), o que fugia à razoabilidade, eis que a obrigação principal girava em torno de R$ 389.118,79 (trezentos e oitenta e nove mil, cento e dezoito mil reais e setenta e nove centavos).
+Ante tais motivos, utilizando-me da faculdade que me competia de reduzir a multa cominatória em fase de execução que se mostrasse desproporcional, evitando por conseqüência o enriquecimento sem causa estabeleci a aplicação total da multa no valor de R$ 600.000,00 (seiscentos mil reais) por todo período de atraso.
+Desse modo a questão do cumprimento ou não da obrigação de fazer foi devidamente debatida em recurso anterior devidamente transitado em julgado, de modo que é vedado à parte, nos termos do art. 507 do CPC, nova manifestação judicial sobre questão já decidida, em razão da ocorrência da preclusão.
+A Corte a quo também ressaltou que "a questão do cumprimento ou não da obrigação de fazer foi devidamente debatida em recurso anterior devidamente transitado em julgado, de modo que é vedado à parte, nos termos do art. 507 do CPC, nova manifestação judicial sobre questão já decidida, em razão da ocorrência da preclusão."
+Como os fundamentos supratranscritos não foram atacados pela parte recorrente e são aptos, por si sós, para manter o decisum combatido, permite-se aplicar na espécie, por analogia, o óbice da Súmula 283 do STF, ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo.
+Nessa esteira:
+AGRAVO REGIMENTAL EM AGRAVO (ART. 544 DO CPC) - AÇÃO DE INDENIZAÇÃO - DECISÃO MONOCRÁTICA - SÚMULA N. 284 DO STF - AGRAVO REGIMENTAL DESPROVIDO.
+1. No presente caso, a parte aponta negativa de vigência ao art. 458 do CPC, porém, limita-se a atacar, em suas razões recursais, a excessividade do quantum fixado a título de dano moral. Assim, a deficiência da fundamentação do apelo extremo não permite a exata compreensão da controvérsia, estando escorreita sua inadmissibilidade.
+2. A ausência de indicação expressa do ponto do decisum que confronta os dispositivos legais tidos por vulnerados não permite verificar se a legislação federal infraconstitucional restou, ou não, malferida.
+3. Agravo regimental desprovido.
+(AgRg no AREsp 41.941/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe 29/5/2013).
+EMBARGOS DE DECLARAÇÃO. AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO. ART. 407 DO CÓDIGO CIVIL. OMISSÃO. OBSCURIDADE. CONTRADIÇÃO. INEXISTÊNCIA. ART. 406 DO CÓDIGO CIVIL. JUROS MORATÓRIOS. TAXA LEGAL. FUNDAMENTO NÃO ATACADO.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+2. É inadmissível o recurso especial que não impugna fundamento do acórdão recorrido apto, por si só, a manter a conclusão a que chegou a Corte Estadual (enunciado 283 da Súmula do STF).
+3. Embargos de declaração acolhidos parcialmente para sanar omissão apontada, sem, entretanto, emprestar-lhes efeito modificativo. (EDcl no AgRg no Ag 1089538/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe 09/09/2011).
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. REVISIONAL. COMISSÃO DE PERMANÊNCIA E TAXA DE ABERTURA DE CRÉDITO. DECISÃO MANTIDA. RAZÕES DESASSOCIADAS DOS FUNDAMENTOS DA ADOTADOS PELA DECISÃO IMPUGNADA. INCIDÊNCIA DA SÚMULA 284 DO STF.
+(..)
+3. O agravante que, em sede de agravo, se aventura em alegações outras que não seja a impugnação, de forma clara e específica, dos fundamentos adotados na decisão monocrática terá sua argumentação considerada deficiente por razões desassociadas, o que enseja a aplicação da inteligência da Súmula 284 do STF, caso dos autos.
+4. Agravo regimental não provido.
+(AgRg nos EDcl no REsp 1357144/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 29/04/2013).
+O valor da astreinte estabelecido pela instância ordinária pode ser revisto nesta esfera tão somente nas hipóteses em que a condenação revelar-se irrisória ou exorbitante, distanciando-se dos padrões de razoabilidade, o que não é o caso dos autos. Aplica-se, nesse ponto, a Súmula 7 do STJ.
+A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FALHA NA PRESTAÇÃO DO SERVIÇO DE FORNECIMENTO DE ENERGIA ELÉTRICA. COBRANÇA INDEVIDA. DANO MORAL CARACTERIZADO. ASTREINTES. PRETENDIDA MAJORAÇÃO DO VALOR. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+(..) IV. No caso, o Tribunal de origem, à luz das provas dos autos, concluiu que a redução do valor fixado a título de astreintes, de R$ 215.000,00 (duzentos e quinze mil reais) para R$ 25.000,00 (vinte e cinco mil reais) atende ao princípio da proporcionalidade e razoabilidade, além de evitar o desvirtuamento da função da multa coercitiva, na medida em que impede que a execução configure enriquecimento sem causa da parte.
+V. A jurisprudência do Superior Tribunal de Justiça consolidou também o entendimento no sentido de que o valor arbitrado a título de astreintes somente pode ser revisto, excepcionalmente, quando irrisório ou exorbitante, sob pena de ofensa ao disposto na Súmula 7 desta Corte. No caso, não sendo o caso de manifesta irrisoriedade, não há como afastar a incidência da Súmula 7/STJ. Precedentes do STJ.
+VI. Agravo interno improvido.
+(AgInt no AREsp 2.042.005/RJ, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 23/8/2022.)
+PROCESSUAL CIVIL. AÇÃO INDENIZATÓRIA, C/C OBRIGAÇÃO DE FAZER. ENERGIA ELÉTRICA. ASTREINTES. POSSIBILIDADE. REDUÇÃO DO VALOR. REEXAME DE FATOS E PROVAS. SÚMULA N. 7 DO STJ.
+I - Na origem, trata-se de ação por obrigação de fazer, cumulada com pedido de indenização, ajuizada para impor restabelecimento do fornecimento de energia elétrica no domicílio do autor. A sentença julgou procedentes os pedidos para condenar a concessionária a indenizar danos morais sofridos pelo autor. O Tribunal a quo negou provimento aos recursos que seguiram.
+II - Não se desconhece a jurisprudência do STJ que admite, excepcionalmente, nesta instância, a alteração do valor das astreintes se a multa mostrar-se, em razão da sua irrisoriedade ou exorbitância, em descompasso com o objetivo da cominação, que é, reitere-se, compelir o obrigado ao cumprimento da obrigação. Em situações como essa, supera-se o óbice da Súmula n. 7/STJ, porque torna-se evidente o desrespeito à norma de regência.
+III - No presente caso, a fixação do valor da multa, visando compelir a concessionária a cumprir a decisão judicial que a obrigava a restabelecer o fornecimento de energia elétrica, decorreu do prudente arbítrio do magistrado, à vista da essencialidade do serviço e das demais circunstâncias do caso. Assim, o recurso não comporta conhecimento, no ponto. Nesse sentido: AgInt no AREsp 1.163.837/DF, Rel. Ministro Francisco Falcão, Segunda Turma, julgado em 4/9/2018, DJe 11/9/2018; AgRg no AREsp 725.480/PE, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 20/6/2017, DJe 23/6/2017 e AgRg no REsp 1.420.686/SP, Rel. Ministro Sidnei Beneti, Terceira Turma, julgado em 11/2/2014, DJe 13/3/2014.
+IV - Agravo interno improvido.
+(AgInt no AREsp 1.558.353/RJ, relator Ministro Francisco Falcão, Segunda Turma, DJe de 28/8/2020.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. MUNICÍPIO. OBRIGAÇÃO DE FAZER. TRANSPORTE ESPECIAL E ASSISTÊNCIA DE PROFISSIONAL DE APOIO ESCOLAR. PESSOA COM DEFICIÊNCIA. MULTA DIÁRIA EM FACE DA FAZENDA PÚBLICA. POSSIBILIDADE. RECURSO REPETITIVO. RESP Nº 1.474.665/RS. QUANTUM DO VALOR ARBITRADO A TÍTULO DE MULTA. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7/STJ. AFASTAMENTO. POSSIBILIDADE NÃO CONFIGURADA NESTES AUTOS. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. SÚMULA 126/STJ. ÓBICE.
+1. Trata-se, na origem, de Ação de obrigação de fazer com pedido de tutela de urgência proposta pelo autor contra o Município de Americana/SP consistente no fornecimento de transporte especial e disponibilização de profissional de apoio escolar - cuidador -, nos termos especificados na inicial.
+2. É pacífico o entendimento do STJ, que admite a imposição da multa cominatória prevista no art. 461, § 4º, do CPC à Fazenda Pública. A Primeira Seção, ao julgar o REsp 1.474.665/RS, da relatoria do ilustre Ministro Benedito Gonçalves, sob o rito dos Recursos Repetitivos, entendeu caber multa em condenações de obrigação de fazer contra a Fazenda Pública.
+3. O valor da astreinte estabelecido pela instância ordinária pode ser revisto nesta esfera tão somente nas hipóteses em que a condenação revelar-se irrisória ou exorbitante, distanciando-se dos padrões de razoabilidade, o que não é o caso dos autos. Aplica-se, nesse ponto, a Súmula 7 do STJ.
+(..)
+6. Agravo conhecido para conhecer parcialmente do Recurso Especial, e, nessa parte, negar-lhe provimento.
+(AREsp n. 1.615.114/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 18/8/2020, DJe de 14/9/2020.)
+Com essas considerações, nego provimento ao Agravo Interno.
+É como voto.
