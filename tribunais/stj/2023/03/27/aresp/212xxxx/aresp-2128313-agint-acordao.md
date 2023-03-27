@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/03/2023 a 27/03/2023, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ.
+1. É inviável a apreciação do agravo interno que deixa de atacar, especificamente, de forma particularizada, os fundamentos da decisão agravada. Incidência, na espécie, da Súmula 182/STJ.
+2. Agravo interno não conhecido.
+RELATÓRIO
+O SENHOR MINISTRO SÉRGIO KUKINA: Trata-se de agravo interno manejado por Paulo Jazbik contra a decisão de fls. 1.005/1.007, por meio da qual a Presidência desta Corte não conheceu do agravo em recurso especial, por entender que: (I) o apelo nobre não foi devida e oportunamente preparado, incidindo, na espécie, o disposto na Súmula n. 187 do STJ, o que leva à deserção do recurso; (II) o apelo raro é manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VI, c/c os arts. 1.003, § 5º, 1.029, e 219, caput, todos do Código de Processo Civil; (III) incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente deixou de indicar precisamente os dispositivos legais federais que teriam sido violados ou quais preceitos legais seriam objeto de dissídio interpretativo.
+A parte agravante sustenta, em síntese, o seguinte (fls. 1.029/1.030):
+ ..
+Ocorre que a alegação do Agravo de Recurso Especial ser inadmitido se baseou no fato justamente da interposição do Agravo de Instrumento onde verificou-se que a parte Agravante interpôs o recurso especial em 16.11.2021, conforme se nota do evento nº 39 e não foi observado no Agravo de Instrumento.
+Neste passo verifica-se com a devida vênia que a alegação de não recolhimento de preparo de recurso especial nem se quer foi apreciada no próprio Recurso Especial e a sua não admissão baseou-se justamente nos fatos do mérito que foram alegados no Agravo de Instrumento interposto anteriormente, fato que deveria ser recebido, pois nem se quer foi recebido mesmo apesar de sua tempestividade e por não existir preparo de acordo com o Art. 1042 §2 do CPC, fato que por si só deveria ser reconsiderado no presente Agravo Interno.
+ ..
+Neste passo, com todas as vênias os Embargos de Declaração apresentados no prazo e forma legal que foi recebido e não acolhido para que o Agravo de Instrumento fosse recebido e conhecido em decisão monocrática deveria ser considerado já que foi interposto tempestivamente tornando-se a matéria alegada em decisão monocrática intempestiva já que posteriormente foi imposto o Agravo de Instrumento e Embargos de Declaração, razão pela qual merece ser acolhido o presente Agravo Interno.
+ ..
+Apesar de devidamente intimado, o Instituto Nacional do Seguro Social não apresentou impugnação (conforme certidão de fl. 1.042).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ.
+1. É inviável a apreciação do agravo interno que deixa de atacar, especificamente, de forma particularizada, os fundamentos da decisão agravada. Incidência, na espécie, da Súmula 182/STJ.
+2. Agravo interno não conhecido.
+VOTO
+O SENHOR MINISTRO SÉRGIO KUKINA (Relator): De acordo com o art. 1.021, § 1º, do CPC/2015, constitui ônus da parte agravante impugnar especificamente os fundamentos da decisão combatida, isto é, deve deixar evidente o desacerto do decisum, com a consequente desconstituição das razões de decidir adotadas no julgamento singular.
+Pois bem, nas razões do agravo interno em exame, a parte agravante deixa de refutar os fundamentos da decisão recorrida, circunstância que atrai a incidência da Súmula 182/STJ. Nesse sentido:
+PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE AUSÊNCIA DE RESPONSABILIDADE E DE JULGAMENTO EXTRA PETITA. ARGUMENTOS GENÉRICOS E DISSOCIADOS DO QUE FOI DECIDIDO. NÃO ATENDIMENTO AO ÔNUS DA DIALETICIDADE. SÚMULA 182/STJ. INCIDÊNCIA DAS SÚMULAS 5/STJ E 7/STJ.
+1. A Súmula 284/STF foi aplicada quando da análise da admissibilidade da alegação de violação ao art. 1.022 do CPC.
+Consignou-se que "nenhum argumento foi desenvolvido no intuito de demonstrar omissão, contradição ou obscuridade no acórdão recorrido, o que contraria a regra da dialeticidade e atrai a incidência da Súmula 284/STF". A impugnação da incidência do referido enunciado sumular no Agravo Interno não guarda relação com o que decidido monocraticamente.
+2. Sobre a responsabilidade civil do Estado do Rio de Janeiro, apontou-se que "não houve indicação do dispositivo legal considerado violado, tampouco cotejo analítico entre o acórdão recorrido e os precedentes indicados, limitando-se o Estado a transcrever parte de ementas de julgados do STJ." Mais uma vez, o Agravo Interno deixou de impugnar as razões da decisão objurgada. Estado e Município buscam se eximir de responsabilidade recriminando um ao outro. Além disso, alega-se a existência de convênio, o que exige análise de suas cláusulas, operação vedada ao STJ por força da Súmula 5/STJ.
+3. Quanto à incidência da Súmula 211/STJ, esclareceu-se que, considerando que a tese de violação ao art. 1.022 do CPC nem sequer mereceu conhecimento, "não há que se falar, no caso, em prequestionamento ficto. No entendimento desta Corte Superior, para a incidência do art. 1.025 do CPC, é indispensável que a parte invoque afronta ao art. 1.022 do CPC e a omissão, contradição ou obscuridade seja reconhecida".
+4. Os argumentos do Estado do Rio de Janeiro não apenas são genéricos, como também estão dissociados do que efetivamente decidido na decisão agravada. A ausência de impugnação especificada faz incidir na espécie a Súmula 182/STJ, que está em consonância com a redação atual do CPC em seu art. 1.021, § 1º: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+5. Consoante a jurisprudência pacífica do STJ, teses apresentadas em momento posterior à interposição do Recurso Especial não são passíveis de conhecimento por importar inovação recursal, indevida em virtude da preclusão consumativa.
+6. Finalmente, ainda que fosse possível o conhecimento do recurso, em Ação Civil Pública, "De acordo com a jurisprudência do STJ, não há ofensa ao princípio da congruência ou da adstrição quando o juiz promove uma interpretação lógico-sistemática dos pedidos deduzidos, ainda que não expressamente formulados pela parte autora. Assim, não há se falar em provimento extra petita" (REsp 1.355.574/SE, Rel. Min. Diva Malerbi, Segunda Turma, DJe 23.8.2016).
+7. Agravo Interno não conhecido.
+(AgInt no AREsp n. 1.890.696/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 24/5/2022, DJe de 30/6/2022)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. ENTENDIMENTO FIRMADO PELA CORTE ESPECIAL NOS ERESP N. 1.424.404/SP.
+1. No caso, não se configura a hipótese de impugnação parcial da decisão agravada relativamente a algum fundamento autônomo, a permitir o conhecimento do agravo interno no ponto e afastar a aplicação da Súmula 182/STJ, conforme entendimento firmado pela Corte Especial no julgamento dos EREsp n. 1.424.404/SP, DJe 17/11/2021.
+2. Quanto ao art. 1.022 do CPC/2015, o agravante cinge-se à alegação genérica de vício, sem apresentar qualquer argumentação no intuito de invalidar a fundamentação adotada. Quanto à Súmula 284/STF, sustenta ter apontado afronta aos arts. 10 e 372 do CPC/2015 e 145, III, 149, 173, I, do CTN, sem, contudo, indicar ou demonstrar em que parte do recurso especial estaria particularizada a alegação de violação, com vistas a tentar infirmar a aplicação da Súmula 284/STF e, assim, expor eventual equívoco da decisão ora agravada.
+3. Ademais, assinale-se que a referência havida nas razões recursais a dispositivos legais a título expositivo-argumentativo, em reforço à tese recursal, é hipótese que não autoriza a abertura da via especial, na medida em que não atende a requisito de admissibilidade do apelo nobre, qual seja, a particularização expressa do artigo de lei federal violado.
+4. A ausência de impugnação específica aos fundamentos da decisão agravada impõe o não conhecimento do recurso. Incidência da Súmula 182/STJ.
+5. Agravo interno não conhecido.
+(AgInt no REsp n. 1.959.213/RJ, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 14/2/2022, DJe de 16/2/2022)
+ANTE O EXPOSTO, não conheço do agravo interno.
+É como voto.
