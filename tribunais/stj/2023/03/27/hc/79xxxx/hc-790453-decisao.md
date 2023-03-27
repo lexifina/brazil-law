@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso ordinário, com pedido liminar, impetrado em benefício de MARINALDO SILVANO DE FRANCA, contra v. acórdão do eg. Tribunal de Justiça do Estado de Minas Gerais.
+Depreende-se dos autos que o paciente foi preso preventivamente pela prática, em tese, do crime previsto no art. 155, §4º, II, do Código Penal, art. 2º da Lei 12.850/2013, art. Iº, inciso II da Lei 9.613/1998, todos c.c. art. 61, inciso II, alínea "j" do Código Penal (fl. 26).
+Daí o presente mandamus, no qual a Defesa alega a existência de constrangimento ilegal consubstanciado na ausência de fundamentação idônea da decisão que decretou a segregação cautelar do paciente, ponderando a possibilidade da aplicação de medidas cautelares diversas da prisão. Aduz, ainda, que, em caso de condenação, terá direito a regime diverso do fechado.
+Requer, assim, a revogação da prisão preventiva.
+A liminar foi indeferida às fls. 40-41.
+As informações foram prestadas às fls. 45-106 e 107-131.
+O d. Ministério Público Federal, às fls. 135-139, manifestou pelo "não conhecimento do habeas corpus. Se conhecido, que a ordem seja denegada" .
+É o relatório.
+Decido.
+Inicialmente, cumpre esclarecer que o Regimento Interno deste Superior Tribunal de Justiça, em seu art. 34, inciso XX, permite ao relator "decidir o habeas corpus quando for inadmissível, prejudicado ou quando a decisão impugnada se conformar com tese fixada em julgamento de recurso repetitivo ou de repercussão geral, a entendimento firmado em incidente de assunção de competência, a súmula do Superior Tribunal de Justiça ou do Supremo Tribunal Federal, a jurisprudência dominante acerca do tema ou as confrontar".
+"A jurisprudência desta Corte é assente no sentido de que se justifica a decretação de prisão de membros de organização criminosa como forma de interromper suas atividades." (RHC 123.145/PE, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe 28/02/2020-grifei).
+A jurisprudência desta Corte se firmou no sentido de que:" O argumento de desproporcionalidade da custódia cautelar à provável futura pena do paciente não comporta acolhimento, pois apenas a conclusão do processo será capaz de revelar se o acusado será beneficiado com a fixação de regime prisional diverso do fechado, sendo inviável essa discussão neste momento processual." (AgRg no HC n. 779.709/MG, Quinta Turma, relator Ministro Ribeiro Dantas, DJe de 22/12/2022.)
+Não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+Não por outro motivo, a Corte Especial deste Superior Tribunal de Justiça, em 16/3/2016, editou a Súmula n. 568, segundo a qual "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema", aplicável à presente hipótese que trata de habeas corpus substitutivo de recurso próprio.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Tal posicionamento tem por objetivo preservar a utilidade e eficácia do habeas corpus como instrumento constitucional de relevante valor para a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, de forma a garantir a necessária celeridade no seu julgamento. Desta forma, incabível o presente mandamus, porquanto substitutivo de recurso próprio.
+Ante o exposto, com fulcro no art. 34, inciso XX, do RISTJ, não conheço do habeas corpus.
+P. e I.
