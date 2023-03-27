@@ -1,0 +1,64 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/03/2023 a 27/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por ALFREDO FARIAS PRESTES - ESPÓLIO (ESPÓLIO) contra decisão monocrática de minha relatoria, assim ementada:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. FALECIMENTO DO EXECUTADO. EMENDA À INICIAL. ESPÓLIO. POSSIBILIDADE. AGRAVO CONHECIDO. RECURSO ESPECIAL PROVIDO (e-STJ, fls. 1.236).
+Nas razões do presente inconformismo, defendeu que (1) houve preclusão quanto à possibilidade de emenda à inicial para inclusão do espólio no polo passivo, porquanto já conferida tal oportunidade, não tendo, contudo, sido informados todos os herdeiros do falecido, nem seguido o rito do art. 784 e seguintes do NCPC; (2) o rito para execução da CPR deveria ser o de entrega de coisa, não de pagar quantia certa; (3) deveria ter sido formulado requerimento de habilitação nos autos de inventário para recebimento do crédito; (4) houve ofensa à segurança jurídica, na medida em que os arts. 108 e 110 do NCPC viabilizam apenas a substituição processual em caso de falecimento da parte no curso do processo; (5) a jurisprudência à época da sentença não admitia a substituição de parte em caso de falecimento anterior à propositura da demanda; (6) não houve nomeação de curador, tendo em vista a existência de herdeiro menor de idade; e (7) JOSÉ CLOVIS DE OLIVEIRA praticou litigância de má-fé, visto que executou nos presentes autos e no inventário dívida já paga (e-STJ, fls. 1.242/1.271).
+Foi apresentada contraminuta (e-STJ, fls. 1.274/1.297).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CÉDULA DE PRODUTO RURAL. PREQUESTIONAMENTO. INOCORRÊNCIA. RÉU FALECIDO ANTES DO AJUIZAMENTO. SUBSTITUIÇÃO. POSSIBILIDADE. MUDANÇA DE ENTENDIMENTO INOCORRÊNCIA. EVENTUAL MUDANÇA. APLICAÇÃO IMEDIATA. PROCESSO EM CURSO. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. O prequestionamento é exigido inclusive em relação a matérias suscitadas em contrarrazões, sem o qual não é possível o conhecimento do recurso especial.
+2. Quando publicada a decisão que integrou a sentença, ao julgar embargos de declaração, já havia entendimento jurisprudencial quanto à possibilidade de emenda à inicial para substituição pelo espólio de pessoa falecida antes do ajuizamento da demanda.
+3. Ainda que se tratasse de mudança de entendimento jurisprudencial, é pacífico nesta Corte de Justiça que eventual alteração é aplicável imediatamente aos processos em trâmite, porquanto se trata de mera interpretação, não de criação de nova regra a se submeter ao princípio da irretroatividade ou do tempus regit actum.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido.
+VOTO
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as suas conclusões.
+(1) Da preclusão; (2) Do rito para execução da CPR; (3) Da habilitação em inventário; (4) Da ofensa à segurança jurídica; (6) Da nomeação de curador; e (7) Da litigância de má-fé
+Nas razões do presente recurso, ESPÓLIO alegou que (1) houve preclusão quanto à possibilidade de emenda à inicial para inclusão do espólio no polo passivo, porquanto já conferida tal oportunidade, não tendo, contudo, sido informados todos os herdeiros do falecido, nem seguido o rito do art. 784 e seguintes do NCPC; (2) o rito para execução da CPR deveria ser o de entrega de coisa, não de pagar quantia certa; (3) deveria ter sido formulado requerimento de habilitação nos autos de inventário para recebimento do crédito; (4) houve ofens a à segurança jurídica, na medida em que os arts. 108 e 110 do NCPC viabilizam apenas a substituição processual em caso de falecimento da parte no curso do processo; (6) não houve nomeação de curador, tendo em vista a existência de herdeiro menor de idade; e (7) JOSÉ CLOVIS DE OLIVEIRA praticou litigância de má-fé, visto que executou nos presentes autos e no inventário dívida já paga.
+Todavia, as questões alegadas não foram objeto de prequestionamento, tendo em vista que não foram objeto de debate pelo Tribunal estadual.
+Na verdade, o acórdão recorrido limitou-se a decidir que era nula a execução proposta em face de pessoa falecida, não se admitindo a substituição do polo passivo.
+Nesse contexto, a decisão agravada restringiu-se a decidir a tese relativa à possibilidade ou não de se possibilitar ao autor a emenda à inicial quando a demanda for ajuizada contra pessoa falecida antes da propositura da ação, para substituí-la pelo espólio.
+Vale ressaltar que o prequestionamento é exigido inclusive em relação a matérias suscitadas em contrarrazões, sem o qual não é possível o conhecimento do recurso especial.
+A propósito, veja-se o seguinte precedente:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO DE ALIMENTOS. CELEBRAÇÃO DE ACORDO. DESCUMPRIMENTO. PRISÃO CIVIL. ART. 733 DO CPC. POSSIBILIDADE. MATÉRIA SUSCITADA EM CONTRARRAZÕES AO RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. AGRAVO NÃO PROVIDO.
+1. O descumprimento de acordo celebrado em ação de execução de prestação alimentícia pode ensejar o decreto de prisão civil do devedor, porquanto a dívida pactuada constitui débito em atraso, e não dívida pretérita. Precedentes.
+2. A tese ventilada nas contrarrazões do recurso especial acerca da impossibilidade de continuidade do feito pelo artigo 733 do Código de Processo Civil, pois teria havido a extinção da execução, não foi apreciada pela Corte de origem, razão pela qual está ausente o requisito do prequestionamento.
+3. Agravo regimental a que se nega provimento.
+(AgRg no REsp n. 1.379.236/MG, relator Ministro RAUL ARAÚJO, Quarta Turma, j. em 12/2/2015, DJe de 5/3/2015)
+Assim, o agravo interno não merece prosperar no ponto.
+(5) Da jurisprudência à época da sentença
+No agravo interno, ESPÓLIO também aduziu que a jurisprudência à época da sentença não admitia a substituição de parte em caso de falecimento anterior à propositura da demanda.
+Nesse ponto, observa-se que, quando publicada a decisão que integrou a sentença, ao julgar embargos de declaração (e-STJ, fls. 246/247), já havia entendimento jurisprudencial quanto à possibilidade de emenda à inicial para substituição pelo espólio de pessoa falecida antes do ajuizamento da demanda. Confira-se:
+CIVIL. PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. RÉU FALECIDO ANTES DO AJUIZAMENTO DA AÇÃO. DESNECESSIDADE DE HABILITAÇÃO, SUCESSÃO OU SUBSTITUIÇÃO PROCESSUAL. NECESSIDADE DE SE FACULTAR A EMENDA À INICIAL PARA CORREÇÃO DO POLO PASSIVO DIANTE DA AUSÊNCIA DE CITAÇÃO VÁLIDA. PRETENSÃO QUE DEVE SER DIRIGIDA AO ESPÓLIO. AUSÊNCIA DE INVENTÁRIO OU DE INVENTARIANTE COMPROMISSADO. REPRESENTAÇÃO JUDICIAL DO ESPÓLIO. ADMINISTRADOR PROVISÓRIO. EMBARGOS DE DECLARAÇÃO PROTELATÓRIOS. POSSIBILIDADE DE AFASTAMENTO. EXCEPCIONALIDADE. DIVERGÊNCIA JURISPRUDENCIAL NÃO CONFIGURADA.
+1- Ação distribuída em 12/05/2011. Recurso especial interposto em 10/05/2012 e atribuídos à Relatora em 25/08/2016.
+2. O propósito recursal consiste em definir se a execução em face de devedor falecido antes do ajuizamento da ação deve ser suspensa até o processamento de ação de habilitação de sucessores ou se, ao revés, é admissível a emenda à inicial, antes da citação, para a substituição do executado falecido pelo seu espólio.
+3. A propositura de ação em face de réu preteritamente falecido não se submete à habilitação, sucessão ou substituição processual, nem tampouco deve ser suspensa até o processamento de ação de habilitação de sucessores, na medida em que tais institutos apenas são aplicáveis às hipóteses em que há o falecimento da parte no curso do processo judicial. Inteligência dos arts. 43, 265, I, e 1.055, todos do CPC/73.
+4. O correto enquadramento jurídico da situação em que uma ação judicial é ajuizada em face de réu falecido previamente à propositura da demanda é a de ilegitimidade passiva do de cujus, devendo ser facultado ao autor, diante da ausência de ato citatório válido, emendar a petição inicial para regularizar o polo passivo, dirigindo a sua pretensão ao espólio.
+5. Na ausência de ação de inventário ou de inventariante compromissado, o espólio será representado judicialmente pelo administrador provisório, responsável legal pela administração da herança até a assunção do encargo pelo inventariante.
+6. É admissível que esta Corte afaste a multa aplicada por embargos de declaração reputados protelatórios, em caráter excepcional, quando a ausência do manifesto propósito de protelar for evidente e aferível da mera leitura da peça recursal.
+7. A ausência de cópia do acórdão paradigma e de cotejo analítico entre os julgamentos alegadamente conflitantes impede o conhecimento do recurso especial pela divergência jurisprudencial.
+8. Recurso especial conhecido em parte e, nessa extensão, provido.
+(REsp n. 1.559.791/PB, relatora Ministra NANCY ANDRIGHI, Terceira Turma, j. em 28/8/2018, DJe de 31/8/2018.
+No entanto, ainda que se tratasse de mudança de entendimento jurisprudencial, é pacífico nesta Corte de Justiça que eventual alteração é aplicável imediatamente aos processos em trâmite, porquanto se trata de mera interpretação, não de criação de nova regra a se submeter ao princípio da irretroatividade ou do tempus regit actum.
+Confiram-se os julgados:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREQUESTIONAMENTO IMPLÍCITO DA MATÉRIA. ALIENAÇÃO FIDUCIÁRIA EM GARANTIA. DESINTERESSE DO ADQUIRENTE. MODIFICAÇÃO DA JURISPRUDÊNCIA DO TRIBUNAL. APLICABILIDADE AOS RECURSOS PENDENTES DE JULGAMENTO. REQUERIMENTO DA PARTE AGRAVADA DE APLICAÇÃO DA MULTA PREVISTA NO § 4º DO ART. 1.021 DO CPC/2015. AGRAVO INTERNO DESPROVIDO.
+1. Ocorre prequestionamento implícito quando, a despeito da menção expressa aos dispositivos legais apontados como violados, o Tribunal de origem emite juízo de valor acerca de questão jurídica deduzida no recurso especial.
+2. O pedido de resolução do contrato de compra e venda com pacto de alienação fiduciária em garantia, por desinteresse do adquirente, mesmo que ainda não tenha havido mora no pagamento das prestações, configura quebra antecipada do contrato.
+3. O novo posicionamento do Tribunal a respeito de determinada matéria jurídica aplica-se aos recursos pendentes de julgamento, ainda que interpostos antes do julgamento que modificou a jurisprudência, por caracterizar apenas interpretação da norma.
+Precedentes.
+4. A aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, porquanto a condenação do agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que, contudo, não se verifica na hipótese examinada.
+5. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AgInt no AREsp n. 1.430.878/SP, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. em 21/2/2022, DJe de 23/2/2022)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO DE ALIMENTOS. CELEBRAÇÃO DE ACORDO. DESCUMPRIMENTO. PRISÃO CIVIL. ART. 733 DO CPC. POSSIBILIDADE. MATÉRIA SUSCITADA EM CONTRARRAZÕES AO RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. AGRAVO NÃO PROVIDO.
+1. O descumprimento de acordo celebrado em ação de execução de prestação alimentícia pode ensejar o decreto de prisão civil do devedor, porquanto a dívida pactuada constitui débito em atraso, e não dívida pretérita. Precedentes.
+2. A tese ventilada nas contrarrazões do recurso especial acerca da impossibilidade de continuidade do feito pelo artigo 733 do Código de Processo Civil, pois teria havido a extinção da execução, não foi apreciada pela Corte de origem, razão pela qual está ausente o requisito do prequestionamento.
+3. Agravo regimental a que se nega provimento.
+(AgRg no REsp n. 1.379.236/MG, relator Ministro RAUL ARAÚJO, Quarta Turma, j. em 12/2/2015, DJe de 5/3/2015)
+Nesse rumo, a decisão não merece reparo.
+Dessarte, mantém-se a decisão proferida, por não haver motivos para sua alteração.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
