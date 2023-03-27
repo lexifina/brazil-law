@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se agravo interposto contra decisão que inadmitiu o recurso especial por intempestividade.
+Sustenta o agravante que, "na verdade foi protocolado o recurso dentro do prazo legal, pois o não conhecimento dos embargos de declaração não poderia ser fato gerador de indeferimento de recurso especial por intempestividade do recurso especial. Pois a decisão foi publicada em 21 de outubro de 2022 e o recurso especial foi protocolado em 31 de outubro de 2022, ou seja, dentro do prazo legal" (fl. 444).
+Apresentada contraminuta, manifestou-se o Ministério Público pelo não conhecimento do agravo.
+O agravo é tempestivo e ataca os fundamentos da decisão agravada.
+Não obstante a aplicação subsidiária do Código de Processo Civil ao processo penal, a contagem dos prazos processuais deverá ser realizada conforme a regra específica contida no art. 798 do CPP.
+Com efeito, de acordo com a jurisprudência desta Corte, é intempestivo o recurso interposto fora do prazo de 15 dias corridos, nos termos dos arts. 994, VI, c/c 1.003, § 5º, e 1.029, do Código de Processo Civil, bem como do art. 798 do Código de Processo Penal.
+No ponto, para melhor elucidação, eis o excerto da decisão de admissibilidade do recurso especial (fl. 430):
+No caso, verifico que não foram conhecidos os embargos de declaração opostos (evento n. 37), porquanto intempestivos. Logo, é certo que eles não interromperam o prazo para interposição de outros recursos (cf. STJ, 6ª T., AgRg nos Edcl no AREsp n. 1998.322/PB, Rel.ª Min.ª Laurita Vaz, DJe de 15/02/2022; STJ, 5ªT., EDcl nos EDcl no AgRg no AREsp n. 1.827.026/MG, Rel. Min. Joel Ilan Paciornik ,DJe de 16/12/2021).
+A par disso, o recurso especial apresenta-se extemporâneo, pois, o acórdão fustigado foi publicado em 02/08/2022 (terça-feira) - evento n. 27, de modo que o termo final para a interposição do recurso especial foi o dia 17/08/2022 (quarta-feira). Todavia, o protocolo do recurso ocorreu apenas no dia 31/10/2022 (segunda-feira),como visto no evento n. 43, ou seja, a destempo. Destarte, é evidente a intempestividade do recurso, eis que manejado em data posterior ao dies ad quem do prazo legal (inteligência do art. 798, caput e §3º,CPP).
+Na hipótese, o acórdão impugnado foi publicado em 2/8/2022, sendo o recurso interposto apenas em 31/10/2022, fora do prazo de 15 dias corridos, nos termos do art. 994, VI, c/c 1.003, § 5º e 1.029 do Código de Processo Civil, e também do art. 798 do Código de Processo Penal, sendo, portanto, intempestivo.
+Ressalte-se que, nos termos do entendimento desta Corte, "(..) os embargos de declaração intempestivos não interrompem o prazo recursal para eventual interposição de recurso subsequente" (AgRg nos EDcl no AgRg no REsp 1875735/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 1º/9/2020, DJe 4/9/2020). No mesmo sentido: AgRg no AREsp n. 1.926.238/MG, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 14/12/2021, DJe de 17/12/2021.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Publique-se.
+Intimem-se.
