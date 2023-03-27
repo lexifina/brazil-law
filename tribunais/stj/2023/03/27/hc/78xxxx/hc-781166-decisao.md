@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em benefício de ARIANA CRISTINA GAVIN no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC n. 2229894-37.2022.8.26.0000).
+Depreende-se dos autos que a ora paciente foi presa em flagrante, custódia essa posteriormente convertida em prisão preventiva, em razão da suposta prática dos delitos de tráfico de drogas e associação para o mesmo fim (e-STJ fls. 32/33). Segundo constou da denúncia, ela, associada a outro agente para o cometimento reiterado de tráfico de drogas, mantinha em depósito "523,88 gramas  quinhentos e vinte e três gramas e oitenta e oito centigramas  (48 porções pequenas e 02 porções maiores) da droga vulgarmente conhecida como maconha, e 91,18 (01 porção) da droga vulgarmente conhecida como cocaína" (e-STJ fl. 234, grifei).
+Irresignada, a defesa impetrou prévio writ na origem, buscando a revogação da prisão cautelar em razão da alegada ausência de fundamentação, bem como da ilicitude das provas por indevida invasão dos policiais ao seu domicílio, sem consentimento e sem a devida autorização judicial. O Tribunal de origem, no entanto, denegou a ordem em acórdão, cuja ementa foi assim definida (e-STJ fl. 17):
+Habeas Corpus. Tráfico de Drogas. Ilicitude das provas. Ocorrência de invasão de domicílio. Descabimento. Flagrante de crime permanente, situação que torna prescindível o mandado judicial. Inteligência do artigo 5º, XI, da CF. Meio impróprio para análise de prova. Pedido de revogação da prisão preventiva. Gravidade concreta da conduta, quantidade e variedade de drogas. Necessidade da prisão cautelar. Insuficiência das medidas cautelares alternativas ao cárcere. Presença dos requisitos dos artigos 310, II, 312 e 313, I, do Código de Processo Penal. Constrangimento ilegal não evidenciado. Ordem denegada.
+Daí o presente writ, no qual a defesa, em breve síntese, reitera as razões lançadas no writ originário, buscando o reconhecimento de ilegalidade por serem ilícitas as provas em vista da indevida invasão de domicílio sem fundadas razões, bem como por inexistirem os requisitos para a decretação da prisão cautelar em desfavor da paciente, destacando que ela possui condições pessoais favoráveis.
+Diante dessas considerações, requer a concessão de liminar, a fim de determinar a sua imediata soltura. No mérito, pugna pela concessão da ordem para reconhecer a ilicitude das provas produzidas e absolvê-la do delito imputado.
+O pedido liminar foi indeferido.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ.
+É o relatório.
+Decido.
+Em consulta ao processo originário n. 1500405-45.2022.8.26.0598, verifica-se que, em 27/2/2023, foi proferida sentença absolutória em favor da ora paciente e certificado o trânsito em julgado em 14/3/2023.
+Assim, patente que o presente writ está prejudicado, haja vista a perda superveniente de objeto.
+Ante o exposto, com base no art. 34, XX, do Regimento Interno desta Corte, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
