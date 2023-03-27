@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/03/2023 a 27/03/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Humberto Martins, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Embargos de Declaração contra acórdão da Segunda Turma do STJ cuja ementa é a seguinte:
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CREDITAMENTO A MAIOR. ICMS. BASE DE CÁLCULO. TRANSFERÊNCIA DE MERCADORIAS DA MATRIZ PARA CENTRO DE DISTRIBUIÇÃO LOCALIZADO EM DIFERENTE ESTADO DA FEDERAÇÃO. SUPERESTIMAÇÃO DOS VALORES NAS NOTAS FISCAIS DE TRANSFERÊNCIA DOS PRODUTOS. OCORRÊNCIA. REVISÃO DE PREMISSAS FÁTICAS ESTABELECIDAS NO TRIBUNAL DE ORIGEM. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. FUNDAMENTO AUTÔNOMO NÃO ATACADO. RAZÕES RECURSAIS DEFICIENTES. SÚMULAS 283 E 284 DO STF. DIVERGÊNCIA PREJUDICADA.
+1. Hipótese em que a Corte local, ao dirimir a controvérsia, concluiu que "a empresa, quando das operações de transferência das mercadorias para o Rio Grande do Sul, na saída do Estado de origem (São Paulo), superestimou, nas notas fiscais respectivas, o custo dessas mercadorias, assim aumentando a base de cálculo, e, consequentemente, o ICMS a ser creditado neste Estado" (fl. 1.165, e-STJ).
+2. Merece transcrição o seguinte excerto do acórdão recorrido: "Em relação à base de cálculo do imposto, é importante salientar que, na transferência entre estabelecimentos do mesmo contribuinte (situados na mesma unidade da federação ou não), ela se diferencia das operações envolvendo partes distintas. Enquanto para aquele tipo de operação é aplicável o art. 13, § 4º, da Lei Kandir, nas vendas de mercadorias a base de cálculo é aquela estabelecida pelo seu § 1º: (..) na mera circulação física, sem troca de propriedade, não há operação mercantil. Por isso o legislador previu base de cálculo distinta na saída de mercadoria para estabelecimento do mesmo contribuinte localizado em outra unidade da Federação, representando apenas o custo da própria mercadoria. E, no laudo complementar, concluiu o expert (fls. 869/870): (..) considerando também que a própria autora admite haver incluído outros valores além daqueles estabelecidos no art. 13, § 4º, da Lei Kandir, não haveria como desconstituir o auto de lançamento lavrado. Além disso, o laudo pericial não corrobora seus argumentos" (fl. 1.167, e-STJ).
+3. Embora escorado o Recurso em matéria de direito, escorreitamente amparado no permissivo constitucional, é certo que o julgamento nessa v. entrância requer sejam reavivadas questões de fato pontuadas na perícia, como a afirmação de que "a própria autora admite haver incluído outros valores além daqueles estabelecidos no art. 13, § 4º, da Lei Kandir" (fl. 1.169, e-STJ) e a constatação pelo perito de que a empresa "até o presente momento não demonstrou como chegou ao custo efetivo lançado em nota fiscal" (fl. 1.169, e-STJ).
+4. É inviável analisar a tese defendida no Recurso Especial de que inexistiu superestimação dos valores que compuseram a base de cálculo nas operações entre estabelecimentos de mesma titularidade, a qual busca afastar as premissas fáticas fixadas no aresto impugnado. Aplica-se, portanto, o óbice da Súmula 7/STJ.
+5. Entende-se ser inadmissível o apelo nobre quando o acórdão recorrido assenta em mais de um fundamento suficiente e o Recurso não abrange todos eles, bem como quando deficiente a fundamentação recursal (Súmulas 283 e 284 do STF, por analogia).
+6. Por fim, consoante o entendimento do STJ, "a análise da divergência jurisprudencial fica prejudicada quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional" (AgInt no AREsp 912.838/BA, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 3.3.2017). No mesmo sentido: AgInt no REsp 1.590.388/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 24.3.2017.
+7. Agravo Interno não provido.
+Nos Aclaratórios, a embargante afirma que houve omissão e contradição. Sustenta, em suma (fls. 1.362-1.400, e-STJ):
+Em relação à suposta incidência da Súmula nº 7/STJ, o próprio acórdão embargado reconheceu que o Recurso Especial da Embargante trataria de matéria exclusivamente de direito, em plena consonância com o permissivo constitucional. Veja-se:
+(..)
+No entanto, em seguida, o v. acórdão afirmou que seria necessário reavivar "questões de fato pontuadas na perícia", notadamente quanto aos valores que teriam sido efetivamente incluídos pela Embargante na base de cálculo do ICMS.
+Porém, com a devida vênia, o v. acórdão embargado negligenciou (omissão) a alegação da Embargante, no sentido de que E. TJ/RS teria elencado todas as riquezas que compuseram a base de cálculo do imposto!
+(..)
+Afinal, se o Recurso Especial trata de matéria exclusivamente de direito, não há que se falar em aplicação da Súmula nº 7/STJ (= contradição), sendo evidente a vício contido no v. acórdão embargado, o que de plano ensejaria a necessidade de acolhimento deste recurso.
+(..)
+Em nenhum momento o v. acórdão embargado enfrenta, efetivamente, a alegação da Embargante de que, o fato de o Fisco denominar (ou não) o procedimento adotado como lançamento por arbitramento não altera a sua natureza jurídica. O debate, aqui, é sobre a natureza jurídica do procedimento, e não a denominação dada pelo Estado do Rio Grande do Sul.
+Impugnação apresentada às fls. 1.403-1.409, e-STJ.
+É o relatório.
+EMENTA
+TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO. ICMS. CREDITAMENTO A MAIOR. TRANSFERÊNCIA DE MERCADORIAS DA MATRIZ PARA CENTRO DE DISTRIBUIÇÃO LOCALIZADO EM DIFERENTE ESTADO DA FEDERAÇÃO. SUPERESTIMAÇÃO DOS VALORES NAS NOTAS FISCAIS DE TRANSFERÊNCIA DOS PRODUTOS. OFENSA AO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA. REDISCUSSÃO DA MATÉRIA DE MÉRITO. IMPOSSIBILIDADE.
+1. A decisão embargada concluiu, entre outros pontos: a) "É inviável analisar a tese defendida no Recurso Especial de que inexistiu superestimação dos valores que compuseram a base de cálculo nas operações entre estabelecimentos de mesma titularidade, a qual busca afastar as premissas fáticas fixadas no aresto impugnado. Aplica-se, portanto, o óbice da Súmula 7/STJ" (fl. 1.356, e-STJ); e b) "Ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo, aplicam-se, por analogia, as Súmulas 284 e 283 do STF" (fl. 1.357, e-STJ).
+2. A solução integral da divergência, com motivação suficiente, não caracteriza violação ao art. 1.022 do CPC/2015.
+3. Os Embargos Declaratórios não constituem instrumento adequado para a rediscussão da matéria de mérito.
+4. Embargos de Declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 14.2.2023.
+A irresignação não merece acolhida, uma vez que ausentes os vícios listados no art. 1.022 do CPC/2015.
+Os Embargos de Declaração constituem Recurso de rígidos contornos processuais, exigindo-se, para seu acolhimento, os pressupostos legais de cabimento.
+A decisão embargada concluiu, entre outros pontos: a) "É inviável analisar a tese defendida no Recurso Especial de que inexistiu superestimação dos valores que compuseram a base de cálculo nas operações entre estabelecimentos de mesma titularidade, a qual busca afastar as premissas fáticas fixadas no aresto impugnado. Aplica-se, portanto, o óbice da Súmula 7/STJ" (fl. 1.356, e-STJ); e b) "Ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo, aplicam-se, por analogia, as Súmulas 284 e 283 do STF" (fl. 1.357, e-STJ).
+Cumpre salientar que, ao contrário do que afirma a parte embargante, não há omissão ou contradição no decisum embargado. Suas alegações denotam o intuito de rediscutir o mérito do julgado, e não o de solucionar omissão, contradição ou obscuridade.
+A propósito:
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de erro material, obscuridade, contradição ou omissão no julgado (CPC/2015, art. 1.022). É inadmissível, em regra, a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+(EDcl nos EAREsp 650.536/RJ, Rel. Ministro RAUL ARAÚJO, CORTE ESPECIAL, julgado em 26/10/2021, DJe 05/11/2021)
+Diante do exposto, rejeito os Embargos de Declaração, com a advertência de que reiterá-los será considerado expediente protelatório sujeito a multa prevista no Código de Processo Civil.
+É como voto.
