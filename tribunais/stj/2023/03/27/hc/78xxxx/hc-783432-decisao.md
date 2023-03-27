@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado pela Defensoria Pública em favor de MARCIO DIEGO DOS SANTOS DUARTE contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no julgamento da Apelação n. 1501264-68.2021.8.26.0510.
+Depreende-se dos autos que o paciente foi condenado à pena de 5 (cinco) anos e 10 (dez) meses de reclusão e 583 (quinhentos e oitenta e três) dias-multa, em regime inicial fechado, como incurso no art. 33, caput, da Lei n. 11.343/06 (fls. 17-26).
+No julgamento da apelação, o Tribunal de origem negou provimento ao recurso da defesa, mantendo incólume a sentença condenatória (fls. 29-33).
+Na hipótese, a impetrante aponta a necessidade de absolvição do paciente, com fundamento no disposto no art. 386, inciso II, do Código de Processo Penal, uma vez que houve atuação ilícita da Guarda Municipal.
+Afirma que "guardas municipais não possuem atribuição para realizar atividades de investigação, tampouco busca pessoal em observância do que disposto no artigo 240, §2º, do Código de Processo Penal" (fl. 7).
+Requer, ao final, a absolvição do paciente, nos termos do artigo 386, inciso II, do Código de Processo Penal.
+O pedido liminar foi indeferido às fls. 36-37.
+Informações prestadas às fls. 43-71.
+O Ministério Público Federal, às fls. 72-76, manifestou-se pela concessão do writ.
+É o relatório.
+Decido.
+Conforme relatado, busca-se na presente impetração a absolvição do paciente pela nulidade das provas obtidas mediante a prisão efetuada por guardas municipais.
+Com efeito, esta eg. Corte firmou o entendimento de que, "embora a Guarda Municipal não possua a atribuição de polícia ostensiva, mas apenas aquelas previstas no art. 144, § 8º da Constituição da República, sendo o delito de natureza permanente, pode ela efetuar a prisão em flagrante e a apreensão de objetos do crime que se encontrem na posse do agente infrator, nos termos do art. 301 do CPP" (AgRg no AREsp n. 1.565.524/MS, Quinta Turma, Rel. Min. Leopoldo de Arruda Raposo (Desembargador Convocado do TJ/PE), DJe de 12/12/2019).
+Saliente-se, ademais, que se tratando de crime de tráfico ilícito de substância entorpecente (art. 33, caput, da Lei 11.343/06), de natureza permanente, a ação se prolonga no tempo de modo que, enquanto não cessada a permanência, haverá o estado de flagrância, o que possibilita a prisão em flagrante, diga-se novamente, por qualquer do povo. Nesse sentido: AgRg no AREsp n. 2.019.016/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 13/6/2022; RHC n. 137.123/MG, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 30/8/2021.
+Contudo, na presente hipótese, verifica-se que as instâncias de origem não invocaram fundamentos concretos para demonstrar a existência de situação de flagrância percebida pelos guardas municipais capaz de autorizar a busca pessoal realizada em desfavor do paciente.
+Isso porque a diligência pautou-se, tão somente, no fato de os guardas municipais terem "avistado uma motocicleta ocupada por dois indivíduos, no contra fluxo, tendo o condutor mudado a direção e empreendido fuga" (fl. 20), circunstância que, por si só, não autorizam o procedimento.
+Como bem destacado pelo Parquet em seu parecer à fl. 82, "ao realizar busca pessoal no passageiro, os guardas atuaram em diligências investigatórias, extrapolando a função de patrulhamento preventivo prevista na lei de regência (Lei nº 13.022/2014 - Estatuto Geral das Guardas Municipais). Dessa forma, deve ser reconhecida a ilegalidade da atuação e a nulidade da apreensão das drogas".
+Nesse sentido: HC n. 767.989/SP, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe de 17/3/2023; AgRg no REsp n. 2.026.547/PR, Sexta Turma, Rel. Min. Laurita Vaz, DJe de 15/3/2023; AgRg no HC n. 733.439/SP, Sexta Turma, Rel. Min. Olindo Menezes (Desembargador Convocado do TRF 1ª Região), DJe de 15/12/2022; HC n. 772.471/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 21/10/2022.
+Desse modo, evidenciado o constrangimento ilegal pelo reconhecimento da nulidade das provas obtidas pela abordagem pessoal realizada pelos guardas municipais, cabe ao Juízo de primeira instância analisar a existência de outros fundamentos para a continuidade da persecução penal.
+Ante o exposto, concedo a ordem de ofício, para fins de declarar ilícita a prova decorrente da busca pessoal realizada pelos guardas municipais, e, por conseguinte, cassar a condenação, de modo a absolver o paciente.
+P. e I.
