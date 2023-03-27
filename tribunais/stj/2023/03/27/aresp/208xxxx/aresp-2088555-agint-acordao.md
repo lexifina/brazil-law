@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/03/2023 a 27/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: : Trata-se de agravo interno interposto por J.V. MOVEIS E ELETRO LTDA e ANA CATARINA TEODORO DA SILVA GONTIJO contra decisão de fls. 127/129, que não conheceu do seu agravo em recurso especial, haja vista a incidência da Súmula 182/STJ.
+Opostos embargos de declaração, foram eles rejeitados (e-STJ, fls. 142/144).
+Nas razões do agravo, sustenta a inaplicabilidade dos óbices de conhecimento. Afirma que não houve fixação do termo inicial para a incidência de juros e correção monetária sobre o dano moral.
+Aduz que, com a entrada em vigor do Código Civil de 2002, os encargos se submeteriam ao índice da SELIC. Afirma, em reforço, que a orientação da jurisprudência do STJ no tema não seria assente.
+Argumenta que, ausente fixação dos encargos sobre os danos morais na sentença, não há como admitir que se inove na decisão e se estabeleça, na fase de cumprimento de sentença, correção monetária e juros sobre o valor da indenização dos danos morais.
+Requer, ao final, a retração da decisão agravada ou o provimento do recurso, a fim de que seja excluída da condenação a correção monetária e os juros sobre o valor arbitrado a título de danos morais.
+Intimada, a agravada não ofereceu resposta (e-STJ, fls. 162).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO EM AGRAVO EM RECURSO ESPECIAL. JUROS DE MORA E CORREÇÃO MONETÁRIA. INDENIZAÇÃO POR DANOS MORAIS. CONSECTÁRIOS LEGAIS. AUSÊNCIA DE VÍCIO NA DECISÃO. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. A correção monetária e os juros de mora são consectários legais da condenação principal, possuem natureza de ordem pública e podem ser analisados até mesmo de ofício, de modo que sua aplicação ou alteração, bem como a modificação de seu termo inicial, não configura julgamento extra petita nem reformatio in pejus.
+2. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): Reconsidero a decisão de fls. 127/128, e-STJ, por observar que agravante impugnou os fundamentos da decisão agravada. Apesar disso, o agravo não prospera.
+Em síntese, a agravante alega que, ausente fixação dos encargos sobre os danos morais na sentença, não há como admitir que se inove na decisão e se estabeleça, na fase de cumprimento de sentença, correção monetária e juros sobre o valor da indenização dos danos morais. E aduz que, com a entrada em vigor do CC/02, os encargos em questão se submeteriam ao índice da SELIC, o que se sustentaria na jurisprudência do STJ.
+Não lhe assiste razão.
+Nas razões do especial, explica que "A questão a ser definida refere-se ao tempo em que deverá iniciar a contagem da correção e juros, se da fixação, do dano, ou da intimação para o cumprimento da sentença", argumentando que, ausente fixação expressa dos encargos incidentes sobre o valor do dano moral, o valor devido deveria ser corrigido a contar da intimação para o pagamento. E aponta como violado o art. 509, §4º, o qual dispõe que "Na liquidação é vedado discutir de novo a lide ou modificar a sentença que a julgou.
+O argumento trazido pela parte agravante, todavia, não caracteriza rediscussão da lide. Como se sabe, juros moratórios e correção monetária são devidos independentemente de expresso pronunciamento judicial. Isso porque os juros moratórios e a correção monetária consistem em consectários legais da condenação, consequências automáticas da decisão condenatória e sua obrigatoriedade decorre automaticamente de dispositivo de lei.
+Essa é atual orientação do Supremo Tribunal Federal. Confira-se:
+EMENTA Embargos de declaração no recurso extraordinário. Decisão condenatória. Silêncio quanto à incidência dos consectários legais. Embargos de declaração acolhidos para se prestarem esclarecimentos. 1. Negado provimento ao recurso extraordinário, o acórdão recorrido encontra-se confirmado em toda sua extensão, inclusive naquela que não foi expressamente abordada por esta Corte. 2. Havendo condenação da instância inferior ao pagamento de juros de mora e correção monetária, uma vez mantido o acórdão recorrido, também está reconhecido o direito ao percebimento de tais valores, ainda que a respeito do tema não se tenha pronunciado expressamente o STF. 3. Os juros de mora e a correção monetária constituem consectários legais da condenação, de modo que incidem independentemente de expresso pronunciamento judicial. 4. Embargos de declaração acolhidos apenas para esclarecer que os valores retroativos previstos nas portarias de anistia deverão ser acrescidos de juros moratórios e de correção monetária.
+(RE 553710 ED, Relator(a): DIAS TOFFOLI, Tribunal Pleno, julgado em 01/08/2018, PROCESSO ELETRÔNICO DJe-174 DIVULG 23-08-2018 PUBLIC 24-08-2018).
+Esse também é o entendimento adotado pelo STJ:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. ALTERAÇÃO, DE OFÍCIO, DO TERMO INICIAL DOS JUROS DE MORA. MATÉRIA DE ORDEM PÚBLICA. JULGAMENTO "EXTRA PETITA" E REFORMATIO IN PEJUS. INEXISTÊNCIA.
+1. O Tribunal a quo decidiu em conformidade com o entendimento desta Corte Superior, de acordo com o qual o termo inicial dos juros de mora constitui matéria de ordem pública, podendo ser alterado de ofício. Mesmo raciocínio empregado quanto a inversão dos honorários sucumbenciais, pois foi constatada ilegalidade quanto a sua distribuição, pois o autor se sagrou vencedor em maior parte dos pedidos.
+2. A jurisprudência do STJ é firme no sentido de que a correção monetária e os juros de mora são consectários legais da condenação principal, possuem natureza de ordem pública e podem ser analisados até mesmo de ofício, de modo que sua aplicação ou alteração, bem como a modificação de seu termo inicial, não configura julgamento extra petita nem reformatio in pejus.
+AGRAVO DESPROVIDO.
+(AgInt no AREsp n. 1.832.824/RJ, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 19/9/2022, DJe de 22/9/2022.)
+Nesse sentido, sendo os juros de mora e a correção monetária matérias de ordem pública, se a sentença executada for omissa em relação a estes, pode o julgador fixar, alterar ou modificar tais consectários da sentença, sem que tal ato caracterize vício no julgamento.
+Se os encargos decorrem automaticamente da condenação, não há que se falar em ofensa aos dispositivos de lei federal arrolados pela agravante, pois a solução dada pelo acórdão recorrido encontra-se em harmonia com o direito.
+Nas razões do especial, requer-se, ainda, "a reforma da decisão para que seja ampliada a análise das questões e as provas requeridas sejam deferidas de todo, mormente por se tratar de fato superveniente à sentença", aduzindo que a "extinção do direito aos lucros cessantes se dá pelo fato de ter o Recorrido o pronto restabelecimento de sua saúde e atividade laborativa, o que poderá perfeitamente ser comprovado mediante laudo a ser elaborado."
+Anoto, todavia, que o pedido veicula nítido propósito de rediscutir matéria fático-probatória examinada pelo acórdão recorrido, o que impede sua análise por esta Corte Superior, haja vista o óbice da Súmula 7/STJ.
+Registro, ainda, que a agravante argumenta a necessidade de se observar a taxa SELIC sobre os encargos moratórios, sem ter, contudo, feito nenhuma menção à questão no recurso especial, o que impede seu exame.
+Por fim, quanto ao cabimento do recurso especial pela alínea "c" do art.105,III, da Constituição Federal anoto que a parte não se desincumbiu do necessário cotejo analítico entre os acórdãos paradigmas e o recorrido, na forma preconizada pelos arts. 1029, § 1º, do CPC; e 255, parágrafos 1º e 2º, do Regimento Interno do STJ.
+Nesse contexto, não havendo argumentos aptos a infirmar os fundamentos da decisão agravada, esta deve ser integralmente mantida.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
