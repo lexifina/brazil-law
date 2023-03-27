@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/03/2023 a 27/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Humberto Martins, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que não conheceu do agravo em recurso especial, fundamentado no art. 105, III, a, da Constituição Federal, visando reformar acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim resumido:
+AGRAVO DE INSTRUMENTO EM FACE DE DECISÃO QUE, EM EXECUÇÃO FISCAL, REJEITOU EXCEÇÃO DE PRÉ-EXECUTIVIDADE. CDA"S QUE EMBASAM A EXECUÇÃO FISCAL PREENCHEM OS REQUISITOS ESSENCIAIS, NECESSÁRIOS E SUFICIENTES PARA A APURAÇÃO DA ORIGEM E DA FORMA DE CÁLCULO DO DÉBITO, ATENDENDO AO ART. 2O DA LEI Nº 6.830/80 E AO ART. 202; DO CTN. SEM ELEMENTOS QUE EVIDENCIEM INEQUIVOCAMENTE QUAISQUER VÍCIOS, NOTADAMENTE VERIFICÁVEIS EM EXCEÇÃO DE PRÉ-EXECUTIVIDADE - DÉBITOS DECLARADOS PELA AGRAVANTE  DESNECESSÁRIO O PRÉVIO PROCEDIMENTO ADMINISTRATIVO (SÚMULA Nº 436 DO STJ). DECISÃO DE IO GRAU MANTIDA. AGRAVO DESPROVIDO.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com base no art. 21-E, inciso V, c/c o art. 253, parágrafo único, inciso I, ambos do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+5. Todavia, contrariamente ao quanto consignado na r. decisão agravada, no Agravo em Recurso Especial a Agravante demonstrou que o Recurso Especial está pautado em violação aos artigos 783 e 803, inciso I, ambos do Código de Processo Civil, e aos artigos 142, 202, 203 e 204 do Código Tributário Nacional.
+6. Neste sentido, esclarece-se que no próprio tópico "II.3" do Agravo em Recurso Especial a Agravante demonstrou não apenas que o Apelo Especial não visa à rediscussão de direito local como também tem por objeto a análise de violação aos dispositivos legais acima mencionados.
+7. Por oportuno, esclarece-se que a violação aos referidos dispositivos legais decorre justamente do fato de que a Agravada inscreveu crédito tributário em dívida ativa sem a devida instauração de processo administrativo.
+8. Portanto, não há como se manter a r. decisão que não conheceu do Agravo em Recurso Especial por falta de demonstração de afronta a dispositivo legal.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO DE INSTRUMENTO. EXTINÇÃO DE EXECUÇÃO FISC AL POR AUSÊNCIA DE CERTEZA E LIQUIDEZ. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. INCIDÊNCIA DO ENUNCIADO N. 182 DA SÚMULA DO STJ.
+I - Na origem, trata-se de agravo de instrumento objetivando extinguir a execução fiscal haja vista a ausência de certeza e iliquidez que acometem os títulos executivos em razão da existência de vícios formais insanáveis que maculam as Certidões de Dívida Ativa. No Tribunal a quo, negou-se provimento ao recurso.
+II - A decisão recorrida, que não conheceu do agravo em recurso especial, considerou que a parte agravante deixou de impugnar especificamente o fundamento ausência de afronta a dispositivo legal.
+III - Nesse diapasão, verifica-se que a parte agravante deixa de atacar especificamente os fundamentos da decisão que negou seguimento ao recurso especial, ensejando, por analogia, a incidência do enunciado n. 182 da Súmula do STJ, segundo o qual "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". Ressalta-se que a mesma exigência é prevista no art. 1.021, § 1º, do Código de Processo Civil de 2015.
+IV - Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial. A propósito: EAREsp n. 746.775/PR, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe de 30/11/2018.
+V - Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ.
+VI - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+A decisão recorrida, que não conheceu do agravo em recurso especial, considerou que a parte agravante deixou de impugnar especificamente o fundamento ausência de afronta a dispositivo legal.
+Nesse diapasão, verifica-se que a parte agravante deixa de atacar especificamente os fundamentos da decisão que negou seguimento ao recurso especial, ensejando, por analogia, a incidência do enunciado n. 182 da Súmula do STJ, segundo o qual "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". Ressalta-se que a mesma exigência é prevista no art. 1.021, § 1º, do Código de Processo Civil de 2015.
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial. A propósito: EAREsp n. 746.775/PR, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe de 30/11/2018.
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
