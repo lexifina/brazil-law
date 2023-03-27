@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por INSTITUTO DE PAGAMENTOS ESPECIAIS DE SÃO PAULO, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+"AGRAVO DE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA - Pretensão ao arbitramento de honorários advocatícios em sede de cumprimento de sentença de obrigação de pagar, ainda que não impugnado, considerando haver litisconsortes com créditos de pequeno valor - Cabimento - Art. 85, § 7º, do CPC/2015 que somente se aplica aos créditos sujeitos ao regime de precatório - Arbitramento de verba honorária, apenas e tão-somente, sobre os créditos considerados de pequeno valor (RPV) - Precedentes do E. STF, do C. STJ e desta Corte- Decisão reformada - Recurso provido" (fl. 28e).
+O acórdão em questão foi objeto de Embargos de Declaração, os quais restaram rejeitados (fls. 42/47e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora recorrente aponta violação aos arts. 85, § 7º, do CPC, sustentando, em síntese, que o 7º do art. 85 do CPC aplica-se também nos casos de Requisição de Pequeno Valor (RPV), devendo, portanto, ser afastada sua condenação em honorários advocatícios, diante da ausência de resistência (fls. 53/56e).
+Contrarrazões a fls. 78/87e.
+O Recurso Especial foi admitido pelo Tribunal de origem (fls. 88/91e).
+Na origem, trata-se de Agravo de Instrumento interposto pelas partes ora recorridas, em face da decisão que, em cumprimento de sentença contra a Fazenda Pública, indeferiu pedido de fixação de honorários advocatícios.
+O Tribunal local deu provimento ao referido Agravo, "para afastar a exclusão da verba honorária do cumprimento de sentença em prol dos exequentes com direito de recebimento de ser crédito por Requisição de Pequeno Valor (RPV)" (fl. 35e).
+Daí a interposição do presente Recurso Especial, que não merece prosperar.
+Com efeito, o entendimento da jurisprudência do STJ firmou-se no sentido de que são devidos honorários em cumprimento de sentença contra a Fazenda Pública relativas a quantias sujeitas ao regime de Requisições de Pequeno Valor (RPV), ainda que não haja impugnação. A propósito:
+"PROCESSUAL CIVIL. AGRAVO. RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. OBRIGAÇÃO DE PEQUENO VALOR. PAGAMENTO POR RPV. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCOS. POSSIBILIDADE. ART. 85, § 7º, DO CPC/2015.
+1. Esta Corte firmou jurisprudência de que são devidos honorários em execuções contra a Fazenda Pública relativas a quantias sujeitas ao regime de Requisições de Pequeno Valor (RPV), ainda que não haja impugnação. Precedentes.
+2. Agravo interno não provido" (STJ, AgInt no AREsp 2.019.637/SP, Rel. Ministro MAURO CAMPBELL MARQUES , SEGUNDA TURMA, DJe de 17/6/2022).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. BASE DE CÁLCULO DOS HONORÁRIOS. VALOR TOTAL HOMOLOGADO. EXECUÇÃO SUJEITA À EXPEDIÇÃO DE RPV. ART. 85, § 7º, DO CPC. OVERRULING NÃO CABÍVEL. RECURSO NÃO PROVIDO.
+1. Cinge-se a controvérsia a definir se os honorários advocatícios da fase de cumprimento de sentença devem ter como base o valor total homologado ou apenas o excesso alegado pela União.
+2. Os honorários advocatícios, na fase de cumprimento de sentença, devem ser fixados sobre o valor total devido, independentemente de haver impugnação, quando se trate de execução que enseje a expedição de RPV, conforme interpretação em sentido contrário ao art. 85, § 7 º, do CPC/2015. Precedentes.
+3. Não merece acolhimento a proposta de overruling, visto que não foi demonstrada qualquer alteração no contexto social, econômico ou jurídico que possa justificar a modificação do entendimento desta Corte acerca da matéria.
+4. Agravo interno a que se nega provimento" (STJ, AgInt no REsp 1.962.703/PE, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 26/4/2022).
+Dessa maneira, aplica-se, ao caso, entendimento consolidado na Súmula 568/STJ, in verbis: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema", para adequar o acórdão recorrido à jurisprudência deste Tribunal.
+Ante o exposto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao Recurso Especial.
+Não obstante o disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), deixo de majorar os honorários advocatícios, por tratar-se, na origem, de recurso interposto contra decisão interlocutória, na qual não houve prévia fixação de honorários.
+I.
