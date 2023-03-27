@@ -1,0 +1,6 @@
+DECISÃO
+Cuida-se de carta rogatória por meio da qual a Justiça suíça (Tribunal Distrital de Brugg) solicita que se proceda à notificação de BRUNO SCHACKEMY, no que se refere ao Processo n. SZ.2.022.52 (processo sumário devido a falhas na organização), para designar um endereço na Suíça dentro de um prazo de 10 dias (Art. 140 da Ordem de Processo Civil). Em caso de não cumprimento, as notificações subsequentes serão realizadas através de publicação no diário oficial do cantão de Aargau (http://www. amtsblatt-ag. ch; Art. 141 pár. 1 alínea c da Ordem de Processo Civil). A justiça rogante determina, ainda, que para a apresentação do parecer, será concedido um prazo de 10 dias, contados a partir da notificação desta ordem. Caso o parecer não seja apresentado dentro do prazo determinado, será dado prosseguimento ao processo sem ele.
+A intimação prévia foi frustrada (fls. 36-37).
+O Ministério Público Federal apresentou manifestação, na qual opina pela devolução da carta rogatória à Justiça rogante, tendo em vista que, em consulta aos bancos de dados para verificação de possível endereço do interessado no Brasil, foi encontrado apenas endereço no exterior (fls. 39-40).
+Pelo exposto, determino a devolução da comissão sem cumprimento ao Juízo rogante, por intermédio da autoridade central.
+Publique-se.
