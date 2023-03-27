@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/03/2023 a 27/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Humberto Martins, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno contra decisão da Presidência do que não conheceu do Agravo em Recurso Especial, por força da Súmula 182/STJ.
+Aduz o agravante, em suma, que "não ocorreu violação à Súmula nº 182 do E. STJ, pois o Agravo em Recurso Especial atacou especificamente os fundamentos da r. decisão que inadmitiu o Recurso Especial."
+Intimada, a agravada apresentou impugnação às fls. 590-593, e-STJ.
+O Ministério Público Federal emitiu parecer às fls. 605-609, opinando pelo desprovimento do Agravo.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. APLICAÇÃO DA SÚMULA 182 DO STJ.
+1. A Ministra Presidente inadmitiu o Agravo em Recurso Especial com base na Súmula 182/STJ, pois a recorrente não teria impugnado especificamente o óbice da Súmula 7/STJ.
+2. Com efeito, compulsando as vinte e cinco páginas do Agravo em Recurso Especial, observa-se que não se atacou especificamente o aludido óbice. Nessa seara, a agravante restringiu-se a afirmar genericamente que "as razões do Recurso Especial são meramente processuais e não dependem da análise de fatos, bastando que o julgado se debruce sobre os próprios atos processuais sem análise de provas", bem como que "em nenhum momento a r. decisão agravada especificou qual tema dependeria de revisão das provas, situação esta que por si só eliminaria a incidência genérica da Súmula nº 7".
+3. As bases para uma impugnação específica da Súmula 7/STJ já foram estabelecidas por esta Turma, sendo certo que o Agravo em escopo não atende a nenhuma delas: "a impugnação da Súmula 7/STJ pressupõe estrutura argumentativa específica, indicando-se as premissas fáticas admitidas como verdadeiras pelo Tribunal de origem, a qualificação jurídica que lhe foi conferida e a apreciação jurídica que lhes deveria ter sido efetivamente atribuída. O recurso daí proveniente deveria se esmerar em demonstrar efetivamente que a referida Súmula não se aplica ao caso concreto, e não simplesmente reiterar o Recurso Especial". (AgInt no AREsp 2.023.795/SP, Rel. Min. Herman Benjamin, Segunda Turma, DJe 23.6.2022).
+4. Com efeito, a jurisprudência do STJ é assente no sentido de que "inadmitido o recurso especial com base na Súmula 7 do STJ, não basta a assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada ou simplesmente a insistência no mérito da controvérsia. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que possa justificar o afastamento do citado óbice processual" (AgInt no AREsp 1.067.725/SP, Rel. Ministro Og Fernandes, Segunda Turma, DJe 20.10.2017).
+5. Descumpridos tais parâmetros  como no presente caso  , a impugnação é tida como genérica, atraindo a Súmula 182/STJ.
+6. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 16.1.2023.
+O Agravo Interno não merece prosperar.
+A Ministra Presidente, às fls. 559-560, e-STJ, inadmitiu o Agravo em Recurso Especial com base na Súmula 182/STJ, pois a recorrente não teria impugnado especificamente o óbice da Súmula 7/STJ.
+Com efeito, compulsando as vinte e cinco páginas do Agravo em Recurso Especial (fls. 517-541, e-STJ), observa-se que o recorrente deixou de atacar especificamente aludido óbice. Nessa seara, restringiu-se a afirmar genericamente que " as razões do Recurso Especial são meramente processuais e não dependem da análise de fatos, bastando que o julgado se debruce sobre os próprios atos processuais sem análise de provas", bem como que "em nenhum momento a r. decisão agravada especificou qual tema dependeria de revisão das provas, situação esta que por si só eliminaria a incidência genérica da Súmula nº 7".
+Deveria, ao revés, ter elucidado de forma efetiva, concreta e pormenorizada a razão de a eventual reforma do acórdão de origem não implicar revolvimento de matéria fática.
+As bases para uma impugnação específica da Súmula 7/STJ já foram estabelecidas por esta Turma, sendo certo que o Agravo em escopo não atende a nenhuma delas:
+a impugnação da Súmula 7/STJ pressupõe estrutura argumentativa específica, indicando-se as premissas fáticas admitidas como verdadeiras pelo Tribunal de origem, a qualificação jurídica que lhe foi conferida e a apreciação jurídica que lhes deveria ter sido efetivamente atribuída. O recurso daí proveniente deveria se esmerar em demonstrar efetivamente que a referida Súmula não se aplica ao caso concreto, e não simplesmente reiterar o Recurso Especial.
+(AgInt no AREsp 2023795/SP, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, DJe 23.6.2022).
+Com efeito, a jurisprudência do STJ é assente no sentido de que "inadmitido o recurso especial com base na Súmula 7 do STJ, não basta a assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada ou simplesmente a insistência no mérito da controvérsia. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que possa justificar o afastamento do citado óbice processual" (AgInt no AREsp 1.067.725/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe 20.10.2017).
+Descumpridos tais parâmetros  como no presente caso  , a impugnação é tida como genérica, atraindo a incidência da Súmula 182/STJ. Nesse sentido:
+PROCESSUAL CIVIL. DIREITO ADMINISTRATIVO. RESPONSABILIDADE DA ADMINISTRAÇÃO. INDENIZAÇÃO POR DANO MORAL. ACIDENTE DE TRÂNSITO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+INCIDÊNCIA DA SÚMULA N. 7/STJ.
+I - Na origem, trata-se de ação de indenização por dano moral contra o Município de São José do Rio Preto e outro, objetivando o recebimento de 150 (cento e cinquenta) salários-mínimos, acrescidos de correção monetária e juros de mora. Na sentença o pedido foi julgado parcialmente procedente para condenar o Município de São José do Rio Preto ao pagamento de R$ 165.000,00 (cento e sessenta e cinco mil re ais), (valor correspondente a cento e cinquenta salários-mínimos) a título de indenização por morais e acrescidos de juros desde o evento danoso (Súmula n. 54/STJ). No Tribunal a quo, a sentença foi mantida.
+II - Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: ausência de afronta ao art. 1.022 do CPC, ausência de afronta a dispositivo legal e Súmula n. 7/STJ.
+III - Entretanto, a parte agravante deixou de impugnar especificamente os referidos fundamentos. Nos termos do art. 932, III, do CPC e do art. 253, parágrafo único, I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+IV - Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial.
+V - Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ.
+VI - Agravo interno improvido.
+(AgInt no AREsp 2063004/SP, Rel. Min. Franciso Falcão, Segunda Turma, DJe 21.9.2022).
+Diante do exposto, nego provimento ao Agravo Interno.
+É como voto.
