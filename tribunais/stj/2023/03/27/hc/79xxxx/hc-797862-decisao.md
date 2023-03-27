@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de EVERTON CRISTIAN DA SILVA PEREIRA, em que aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, o qual negou provimento ao agravo em execução defensivo, nos termos do acórdão assim ementado:
+"AGRAVO EM EXECUÇÃO PENAL - REMIÇÃO POR ESTUDO E LEITURA - Curso à distância não certificado por Autoridade Escolar oficial, e cuja carga horária não permite compatibilização com a sistemática da LEP - Precedente - Sentenciado não faz jus à remição - Decisão incensurável. Recurso desprovido." (e-STJ, fl. 29).
+Neste writ, a impetrante alega constrangimento ilegal causado ao paciente, na medida em que não foi reconhecido o direito à remição de pena pela realização de cursos profissionalizantes à distância, consubstanciando violação do art. 126 da LEP e da Recomendação n. 44/2013 do CNJ.
+Assevera que a LEP não exige fiscalização por parte do estabelecimento prisional, exige a certificação pela autoridade educacional competente do curso frequentado.
+Afirma que eventual ausência da comunicação da realização desses cursos pela autoridade competente ao Juízo da Execução não significa negar a ocorrência da atividade educacional, de modo que a esta autoridade cabe a competência para declarar a remição.
+Requer, inclusive liminarmente, a concessão da remição da pena do paciente pela realização dos cursos profissionalizantes.
+A liminar foi indeferida pelo Ministro Vice-Presidente desta Corte Superior, no exercício da Presidência (e-STJ, fls. 36-37).
+Prestadas as informações (e-STJ, fls. 40-48), os autos foram encaminhados ao Ministério Público Federal, que opinou, preliminarmente, pelo não conhecimento do habeas corpus (e-STJ, fls. 52-58).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+A controvérsia gira em torno da remição de pena em razão de horas de estudo à distância concluídas pela sentenciada.
+É direito do apenado a remição de penas pelo estudo, desde que as atividades, que poderão ser desenvolvidas de forma presencial ou a distância, sejam certificadas pelas autoridades educacionais competentes dos cursos frequentados, conforme o disposto no art. 126, § 2º, da LEP:
+"Art. 126. O condenado que cumpre a pena em regime fechado ou semiaberto poderá remir, por trabalho ou por estudo, parte do tempo de execução da pena.
+ ..
+§ 2º As atividades de estudo a que se refere o § 1º deste artigo poderão ser desenvolvidas de forma presencial ou por metodologia de ensino a distância e deverão ser certificadas pelas autoridades educacionais competentes dos cursos frequentados".
+Com efeito, a remição da pena pela realização de estudo demanda um controle mínimo para seu reconhecimento, com intuito de evitar a facilitação de fraudes e inadvertida concessão do benefício.
+Nessa linha de raciocínio, a jurisprudência do Superior Tribunal de Justiça é firme ao asseverar que, "ainda que concluído o curso na modalidade à distância - in casu - a remição em decorrência do estudo exige, para cada dia de pena remido, a comprovação de horas de estudo, que, dada a sistemática da lei de execução penal, encontrando-se o apenado sob a custódia do Estado, deve preceder de fiscalização e autenticidade do cumprimento dos requisitos legais" (AgRg no HC n. 478.271/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 30/8/2019, grifou-se).
+Ilustrativamente, confiram-se os seguintes precedentes:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. REMIÇÃO POR ESTUDO A DISTÂNCIA. REQUISITOS NÃO PREENCHIDOS. FALTA DE CONTROLE SOBRE AS HORAS EFETIVAMENTE ESTUDADAS. AGRAVO DESPROVIDO.
+1. Não sendo aptos os argumentos trazidos na insurgência para desconstituir a decisão agravada, deve ela ser mantida pelos seus próprios fundamentos.
+2. A orientação jurisprudencial desta Corte é no sentido de que a realização de estudo na modalidade à distância, para fins de remição da pena, deve atender a critérios mínimos, inclusive convênio prévio entre a unidade prisional e o poder público, a fim de demonstrar a sua sintonia e adequação aos propósitos da Lei de Execução Penal, sendo indispensável, ainda, a supervisão pela Unidade Prisional, o acompanhamento pelo Juiz da execução e a fiscalização pelo Ministério Público. Precedentes.
+3. No caso, o executado não faz jus ao deferimento do pedido de remição por estudo, uma vez que ausente qualquer validação por parte de Autoridade Educacional, bem como controle ou fiscalização realizada pela Autoridade Penitenciária.
+4. Agravo regimental desprovido." (AgRg no HC 739.518/SP, deste relator, Quinta Turma, julgado em 7/6/2022, DJ de 14/6/2022).
+"HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO PELO ESTUDO. EXIGÊNCIA LEGAL DE QUE A INSTITUIÇÃO MINISTRANTE SEJA CONVENIADA COM O PODER PÚBLICO. ORDEM DENEGADA.
+1. Na hipótese, o Paciente postula a remição por estudo, apresentando certificados de cursos realizados na modalidade de ensino à distância.
+2. Nos termos do art. 126, § 2.º, da Lei de Execução Penal, a remição de pena pelo estudo somente é possível quando o curso for oferecido por instituição devidamente autorizada ou conveniada com o Poder Público para esse fim, o que não ocorreu espécie.
+3. Ordem denegada." (HC 724.388/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 24/5/2022, DJe de 31/5/2022).
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. REMIÇÃO POR ESTUDO A DISTÂNCIA. REQUISITOS NÃO PREENCHIDOS. FALTA DE CONTROLE SOBRE AS HORAS EFETIVAMENTE ESTUDADAS. PRECEDENTES DESTA CORTE.
+1. Não sendo aptos os argumentos trazidos na insurgência para desconstituir a decisão agravada, deve ela ser mantida pelos seus próprios fundamentos.
+2. A orientação jurisprudencial desta Corte é no sentido de que a realização de estudo na modalidade à distância, para fins de remição da pena, deve atender a critérios mínimos, inclusive convênio prévio entre a unidade prisional e o poder público, a fim de demonstrar a sua sintonia e adequação aos propósitos da Lei de Execução Penal, sendo indispensável, ainda, a supervisão pela Unidade Prisional, o acompanhamento pelo Juiz da execução e a fiscalização pelo Ministério Público. Precedentes.
+3. Agravo regimental improvido." (AgRg no HC 642.837/SC, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 8/2/2022, DJe de 14/2/2022).
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO POR ESTUDO. CERTIFICAÇÃO POR AUTORIDADE EDUCACIONAL. IMPRESCINDIBILIDADE. ART. 126, § 2º, DA LEI N. 7.210/84. AGRAVO REGIMENTAL DESPROVIDO.
+1. O art. 126, § 2º, da Lei de Execução Penal - LEP exige a certificação por autoridade educacional, para fins de remição da pena por estudo. Precedentes.
+2. Agravo regimental desprovido." (AgRg no HC 687.437/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 21/9/2021, DJe de 24/9/2021).
+"EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. VIOLAÇÃO DO ART. 619 DO CPP. INOCORRÊNCIA. AUSÊNCIA DE OMISSÃO. REMIÇÃO DA PENA PELO ESTUDO. ART. 126 DA LEP. RECOMENDAÇÃO N. 44/2013 DO CNJ. ENTIDADE DE ENSINO NÃO CREDENCIADA. IMPOSSIBILIDADE DE DEFERIMENTO. FUNDAMENTAÇÃO INIDÔNEA DO ACÓRDÃO RECORRIDO.
+I - Com os aclaratórios opostos na origem, o Parquet pretendeu, como bem reconheceu a eg. Corte estadual, veicular mero inconformismo. A jurisprudência deste Superior Tribunal, entretanto, é firme no sentido que essa não é a via adequada para nova impugnação do mérito.
+II - In casu, conforme ressaltado no decisum reprochado, o Curso de Qualificação Profissional (Formação para Jardineiro), ofertado pelo CENED, não satisfaz as exigências legais, ante a ausência de demonstração do efetivo credenciamento. Portanto, a despeito de o estudo por parte do apenado dever ser fomentado, fato é que, para a remição da pena, devem ser observados os requisitos legais, sob pena de, à míngua de observância de regras mínimas à efetivação da benesse, não se respeitem as condições básicas de qualidade dos cursos realizados.
+Agravo regimental desprovido." (AgRg no REsp n. 1.926.932/SC, relator Ministro Felix Fischer, Quinta Turma, julgado em 18/5/2021, DJe de 25/5/2021).
+No caso dos autos, o Tribunal de origem confirmou a decisão do Juízo de primeiro grau, que indeferiu o pedido de remição por estudos aos seguintes fundamentos:
+É verdade que a Lei nº 7.210/84 prevê a remição de pena pelo estudo, inclusive por metodologia de estudo à distância, conforme disposto em seu art. 126, §2º.
+No entanto, a sequência do sobredito dispositivo exige a certificação por Autoridade Educacional, requisito esse não atendido no caso em tela.
+Sim, porque a atestação da conclusão do curso se deu pelos próprios diretores da instituição, sem o registro no MEC, ou seja, inexiste a certificação pela Autoridade Educacional, não obstante a argumentação defensiva em sentido diametralmente oposto.
+ ..
+Não bastasse, o mero certificado com a carga horária do curso não permite verificar o atendimento à sistemática exigida pela Lei de Execução Penal, a saber, a razão de um dia remido para cada doze horas de frequência escolar, divididas, no mínimo, em três dias, conforme art. 126 da Lei de Execução Penal.
+Acresça-se que, segundo parte final do inciso I do art. 1 º da Resolução nº 44/2013 do Conselho Nacional de Justiça, para fins de remição, as atividades devem ser "oferecidas por instituição devidamente por instituição devidamente autorizada ou conveniada com o poder público para esse fim" (destacado).
+Daí o porquê de o magistrado de primeiro grau ter entendido pela precariedade dos documentos acostados, inviabilizando o pedido." (e-STJ, fls. 30-31).
+Da leitura do trecho acima, extrai-se que a Corte Local constatou a ausência de fiscalização do Poder Público sobre as horas efetivamente dedicadas aos estudos, de modo que não se verifica o cumprimento dos requisitos legais para a remição das horas estudadas.
+Cabe ressaltar que rever o entendimento adotado pelas instâncias ordinárias para decidir de forma contrária demandaria o revolvimento fático-probatório, inviável na estreita via do habeas corpus.
+Nesse contexto, não se constata flagrante ilegalidade apta a ensejar a concessão da ordem, de ofício.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
