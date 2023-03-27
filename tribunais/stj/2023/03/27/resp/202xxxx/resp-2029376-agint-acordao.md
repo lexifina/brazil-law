@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/03/2023 a 27/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Humberto Martins, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que deu provimento ao recurso especial interposto pelo INSS, com fundamento no art. 105, III, a, da Constituição Federal.
+Na origem, trata-se de agravo de instrumento contra decisão que afastou a impugnação do INSS de excesso de execução e homologou os cálculos apresentados pelo exequente. Alega o INSS que há excesso de execução quanto aos honorários de sucumbência, pois o valor deve computar como base de cálculo dos honorários o que foi pago administrativamente, no curso da demanda, mas apenas a partir da citação, nos termos do Tema n. 1.050/STJ. No Tribunal a quo, o recurso foi improvido. Recurso especial do INSS conhecido e provido.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para afastar da base de cálculo dos honorários advocatícios os valores já pagos administrativamente à parte autora, anteriormente à citação, a título de benefício inacumulável."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+A autora não desconhece a existência do Tema 1.050 do Superior Tribunal de Justiça.
+ ..
+Ocorre que o caso em questão não se amolda à referida tese. A questão submetida a julgamento no recurso repetitivo se limitou ao cômputo, na base de cálculo dos honorários advocatícios, das parcelas pagas a título de benefício previdenciário na via administrativa no curso da ação. Ou seja, não houve análise quanto às parcelas pagas na via administrativa no período anterior à ação.
+Assim, é evidente que a tese firmada se limitou à análise dos benefícios concedidos na via administrativa após a citação válida. Contudo, isso não significa que os valores recebidos administrativamente, a título de benefício previdenciário inacumulável, antes da citação válida, devem ser excluídos da base de cálculo dos honorários advocatícios sucumbenciais.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. BASE DE CÁLCULO. TEMA 1.050/STJ. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de agravo de instrumento contra decisão que afastou a impugnação do INSS de excesso de execução e homologou os cálculos apresentados pelo exequente. Alega o INSS que há excesso de execução quanto aos honorários de sucumbência, pois o valor deve computar como base de cálculo dos honorários o que foi pago administrativamente, no curso da demanda, mas apenas a partir da citação, nos termos do Tema n. 1.050/STJ. No Tribunal a quo, o recurso foi improvido. Recurso especial do INSS conhecido e provido.
+II - O cerne da controvérsia cinge-se a possibilidade de inclusão dos valores já pagos administrativamente à parte autora, anteriormente à citação do INSS, a título de benefício inacumulável, na base de cálculo dos honorários advocatícios.
+III - A questão posta em debate foi apreciada por esta Corte no julgamento dos Recursos Especiais n. 1.847.731/RS, 1.847.766/SC, 1.847.848/SC e 1.847.860/RS, sob o rito dos Recursos Repetitivos (Tema 1.050/STJ), fixando-se a seguinte tese: "O eventual pagamento de benefício previdenciário na via administrativa, seja ele total ou parcial, após a citação válida, não tem o condão de alterar a base de cálculo para os honorários advocatícios fixados na ação de conhecimento, qu e será composta pela totalidade dos valores devidos."
+IV - No tocante à impossibilidade de inclusão de valores pagos administrativamente, antes da citação, na base de cálculo dos honorários advocatícios, destaco as seguintes decisões monocráticas: Resp. n. 2.019.029/PR, Ministro Mauro Campbell Marques, DJE 8/9/2022 e REsp. n. 2007327, Ministro Herman Benjamin, DJE 1º/8/2022.
+V - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+O cerne da controvérsia cinge-se a possibilidade de inclusão dos valores já pagos administrativamente à parte autora, anteriormente à citação do INSS, a título de benefício inacumulável, na base de cálculo dos honorários advocatícios.
+Conforme já destacado na decisão recorrida, a questão posta em debate foi apreciada por esta Corte no julgamento dos Recursos Especiais n. 1.847.731/RS, 1.847.766/SC, 1.847.848/SC e 1.847.860/RS, sob o rito dos Recursos Repetitivos (Tema 1.050/STJ), fixando-se a seguinte tese: "O eventual pagamento de benefício previdenciário na via administrativa, seja ele total ou parcial, após a citação válida, não tem o condão de alterar a base de cálculo para os honorários advocatícios fixados na ação de conhecimento, que será composta pela totalidade dos valores devidos."
+O referido tema foi enfrentando pela Segunda Turma em outras oportunidades - no tocante à impossibilidade de inclusão de valores pagos administrativamente, antes da citação, na base de cálculo dos honorários advocatícios - das quais destaco as seguintes decisões monocráticas: Resp. n. 2.019.029, Ministro Mauro Campbell Marques, DJE 8/9/2022 e REsp. n. 2.007.327, Ministro Herman Benjamin, DJE 1º/8/2022.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
