@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/03/2023 a 27/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Francisco Falcão, Humberto Martins, Herman Benjamin e Mauro Campbell Marques votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+MINISTRA ASSUSETE MAGALHÃES: Trata-se de Agravo interno interposto por CANEJO TV E VÍDEO DE PRODUÇÕES LTDA. - MICROEMPRESA, contra decisão de minha lavra, que conheceu em parte do Recurso Especial, e, nessa extensão, negou-lhe provimento, em razão da inexistência de omissão no acórdão recorrido e da incidência da Súmula 7 do STJ.
+Inconformada, sustenta a parte agravante que, "no seu Recurso Especial, a Agravante demonstrou que a Turma se negou a apreciar a questão do vício do acórdão (que entendeu pela impossibilidade da renúncia e adesão parcial), quando o artigo 1º §§ 4º e 11 da Lei nº 11.941/2009, c/c art. 13 §§ 4º e 5º da Portaria Conjunta PGFN/RFB nº 06/2009, expressamente previam diferente do que entendeu a Turma Julgadora" (fls. 506/507e).
+Afirma, de outro lado, que "a análise deste segundo tópico independe de análise fático-comprobatória, eis que se refere tão somente a questão de direito: o entendimento do acórdão recorrido no sentido de que "1. Impossibilidade de renúncia parcial do direito sobre o qual se funda a ação, para fins de parcelamento, porquanto a demandante objetiva desistir da ação no tocante a algumas competências do mesmo débito, em desacordo com o previsto na Lei nº 11.941/2009 c/c a Portaria Conjunta PGFN/RFB nº 06/2009." Afronta ou não os parágrafos 4º e 11 do art. 1º da Lei nº 11.941/2009, que c/c art. 13 §§ 4º e 5º da Portaria Conjunta PGFN/RFB nº 06/2009, previam a possibilidade de parcelamento parcial dos débitos, desde que devidamente individualizado os débitos " (fls. 508/509e).
+Por fim, requer a retratação da decisão ora agravada ou o provimento do recurso.
+Intimada, a parte agravada deixou transcorrer in albis o prazo para manifestação.
+É o relatório.
+EMENTA
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RENÚNCIA PARCIAL DO DIREITO SOBRE O QUAL SE FUNDA A AÇÃO, PARA FINS DE PARCELAMENTO TRIBUTÁRIO. ALEGADA OFENSA AO ART. 535 DO CPC/73. INEXISTÊNCIA. PREENCHIMENTO DE REQUISITOS PARA PARCELAMENTO. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara Recurso Especial interposto contra acórdão publicado na vigência do CPC/73.
+II. Não há falar, na hipótese, em violação ao art. 535 do CPC/73, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão proferido em sede de Embargos de Declaração apreciaram fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+III. O Tribunal de origem, com base no exame dos elementos fáticos dos autos, consignou que "a suplicante pretende cindir o mesmo débito, i.e., objetiva desistir da ação no tocante às competências que indica, não preenchendo os pressupostos autorizadores do parcelamento". Tal entendimento, firmado pelo Tribunal a quo, no sentido de que a parte não preenche os requisitos autorizadores do parcelamento pretendido, não pode ser revisto, pelo Superior Tribunal de Justiça, por exigir o reexame da matéria fático-probatória dos autos. Precedentes do STJ.
+IV. Agravo interno improvido.
+VOTO
+MINISTRA ASSUSETE MAGALHÃES (Relatora): Não obstante os combativos argumentos da parte agravante, as razões deduzidas neste Agravo interno não são aptas a desconstituir os fundamentos da decisão atacada, que merece ser mantida.
+No Recurso Especial, manejado com base nas alíneas a e c do permissivo constitucional, a parte recorrente alega, além da existência de dissenso pretoriano, violação aos arts. 535, II, do CPC/73 e 1º, §§ 4º e 11, da Lei 11.941/2009.
+Para tanto, afirma que "a omissão ventilada, ocorre sobre ponto determinante para a resolução integral da demanda, qual seja: com base na documentação dos autos, e as previsões legais, vê-se que a Recorrente adimpliu todas as condições impostas para efetuar o parcelamento parcial dos débitos discutidos no presente processo" (fl. 449e).
+Aduz, ainda, que "a Lei nº 11.941/2009 foi bastante clara quanto a possibilidade de parcelamento: os débitos a serem parcelados seriam incluídos a critério do optante, devendo este unicamente indicar de maneira pormenorizada no requerimento de parcelamento quais os débitos deveriam ser incluídos" e que, "nos autos do processo foi demonstrado o adimplemento dos requisitos previstos na Lei nº. 11.941/2009, sendo necessário o reconhecimento do parcelamento daqueles débitos indicados" (fl. 457e).
+Sem razão, entretanto.
+O acórdão recorrido assim decidiu a questão, no que interessa à espécie:
+"No caso dos autos, a norma regulamentadora (Portaria Conjunta PGFN/RFB nº 06/2009) possibilita a desistência parcial do pedido, desde que o débito possa ser distinguido daquele a que se vincular o restante da ação, conforme prevê o art. 13, § 4º, do diploma antes referido.
+Ocorre que a suplicante pretende cindir o mesmo débito, i.e., objetiva desistir da ação no tocante às competências que indica, não preenchendo os pressupostos autorizadores do parcelamento" (fl. 412e).
+Os Aclaratórios opostos restaram rejeitados (fls. 440/443e).
+De plano, à luz do que decidido pelo acórdão recorrido, cumpre asseverar que, ao contrário do que ora se sustenta, não houve violação ao art. 535, II, do Código de Processo Civil de 1973, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão proferido em sede de Embargos de Declaração apreciaram, fundamentadamente e de modo completo, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+Assim, "a solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 535 do CPC" (STJ, AgInt no AgInt no AREsp 867.165/MG, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 19/12/2016).
+Vale ressaltar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, REsp 801.101/MG, Rel. Ministra DENISE ARRUDA, PRIMEIRA TURMA, DJe de 23/04/2008.
+A propósito, ainda:
+"ADMINISTRATIVO. PROCESSUAL CIVIL. RESPONSABILIDADE CIVIL DO ESTADO. INDENIZAÇÃO POR DANOS MORAIS. PROPORCIONALIDADE E RAZOABILIDADE. REEXAME DE FATOS E PROVAS.
+1. Não há violação ao art. 535 do CPC quando a prestação jurisdicional é dada na medida da pretensão deduzida e a decisão está suficientemente fundamentada.
+(..)
+Agravo regimental improvido" (STJ, AgRg no AREsp 433.424/SC, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 17/02/2014).
+Ademais, não cabem Declaratórios com objetivo de provocar prequestionamento, se ausentes omissão, contradição ou obscuridade no julgado (STJ, AgRg no REsp 1.235.316/RS, Rel. Ministro HAMILTON CARVALHIDO, PRIMEIRA TURMA, DJe de 12/05/2011), bem como não se presta a via declaratória para obrigar o Tribunal a reapreciar provas, sob o ponto de vista da parte recorrente (STJ, AgRg no Ag 117.463/RJ, Rel. Ministro WALDEMAR ZVEITER, TERCEIRA TURMA, DJU de 27/10/97).
+Quanto ao mais, com efeito, como destacou a decisão ora agravada, o Tribunal de origem, com base no exame dos elementos fáticos dos autos, consignou que "a suplicante pretende cindir o mesmo débito, i.e., objetiva desistir da ação no tocante às competências que indica, não preenchendo os pressupostos autorizadores do parcelamento" (fl. 412e).
+Nesse contexto, considerando a fundamentação do acórdão objeto do Recurso Especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula 7/STJ.
+A propósito:
+"PROCESSUAL CIVIL. OFENSA AOS ARTS. 458 E 535 DO CPC NÃO CONFIGURADA. EMBARGOS À EXECUÇÃO FISCAL. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. PRINCÍPIO DA CAUSALIDADE. REEXAME DE PROVAS. SÚMULA 7/STJ. ALÍNEA "C". NÃO DEMONSTRAÇÃO DA DIVERGÊNCIA E NECESSIDADE DE REEXAME DO ACERVO PROBATÓRIO.
+1. A Corte local manteve a sentença que julgou parcialmente procedente os Embargos para reconhecer o excesso de execução determinando que ela prosseguisse no valor da diferença devida a título de IRPJ, em conformidade com o laudo pericial, e foi categórica ao consignar que não é devida a condenação da União em honorários advocatícios porque a referida cobrança somente ocorreu em razão de a executada ter feito com erro o preenchimento da sua DCTF.
+2. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 535 do CPC.
+3. O STJ não pode reexaminar os fatos e as provas produzidas nos autos, sob pena de infringir a Súmula 7 do STJ.
+(..)
+6. Agravo Interno não provido" (STJ, AgInt no REsp 1.592.074/CE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 25/10/2016).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. REEXAME DA PROVA. SÚMULA 7/STJ.
+1. Os arts. 2º, caput e parágrafo único, VII, e 50 da Lei n. 9.784/99 não foram objeto de análise pelo Tribunal de origem. Desse modo, carece o tema do indispensável prequestionamento viabilizador do recurso especial, razão pela qual não merece ser apreciado, nos termos do que preceituam as Súmulas 282 e 356 do STF.
+2. Na via especial, não cabe a análise de tese recursal que demande a incursão na seara fático-probatória dos autos. Incidência da orientação fixada pela Súmula 7 do STJ.
+3. Agravo interno a que se nega provimento" (STJ, AgInt no AREsp 912.470/SC, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 24/10/2016).
+"ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO BASILAR DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. SÚMULA 83/STJ. APLICABILIDADE AOS RECURSOS ESPECIAIS INTERPOSTOS COM BASE NAS ALÍNEAS A E C DO PERMISSIVO CONSTITUCIONAL. EXECUÇÃO DEFLAGRADA PELO DEVEDOR. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO. NÃO CABIMENTO.
+1. Não se mostra passível de acolhimento os argumentos da parte recorrente que demandam o reexame de matéria fático-probatória, tendo em vista o óbice previsto na Súmula 7/STJ.
+(..)
+5. Agravo regimental a que se nega provimento" (STJ, AgRg no AREsp 803.101/MG, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 19/05/2016).
+Ante o exposto, nego provimento ao Agravo interno.
+É o voto.
