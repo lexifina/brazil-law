@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/03/2023 a 27/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto por MARLENE JORGE DA SILVA E OUTROS em face de decisão de fls.1.411/1.416, por meio da qual dei parcial provimento ao recurso especial interposto pela parte contrária.
+Em seu recurso, a parte agravante argumenta que a agravada deixou de impugnar os fundamentos da decisão que inadmitiu o recurso especial, de forma a incidir o óbice da Súmula 182/STJ.
+Afirma, ainda, que o recurso esbarrava nas Súmulas 5 e 7 do STJ. Alega que o Tribunal de origem concluiu pela abusividade dos reajustes efetuados na mensalidade no plano de saúde e que a revisão de tal entendimento, mesmo em fase de cumprimento de sentença, demandaria o reexame do conjunto fático probatório e a análise de cláusulas contratuais, o que é inviável em sede de recurso especial.
+A parte agravada, regularmente intimada, pugnou pela aplicação de multa prevista pelos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+É o relatório.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO. INEXISTÊNCIA DOS ÓBICES PREVISTOS NAS SÚMULAS 5 E 7, DO STJ. REAJUSTE. SINISTRALIDADE. LIMITAÇÃO AOS ÍNDICES DA ANS. IMPOSSIBILIDADE. PRECEDENTES. OBSERVÂNCIA DOS ÍNDICES CONTRATUAIS EM SEDE DE LIQUIDAÇÃO DE SENTENÇA.
+1. Nos termos da jurisprudência já consolidada desta Corte, a análise do recurso especial não esbarra nos óbices previstos nas Súmulas 5 e 7, do STJ, quando se exige somente o reenquadramento jurídico das circunstâncias de fato e cláusulas contratuais expressamente descritos no acórdão recorrido.
+2. O Superior Tribunal de Justiça possui orientação no sentido de que, no plano coletivo, o reajuste anual é apenas acompanhado pela ANS, para fins de monitoramento da evolução dos preços e de prevenção de abusos, não havendo que se falar, portanto, em aplicação dos índices previstos aos planos individuais. Precedentes.
+3. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): Observo que os argumentos desenvolvidos pelo agravante não infirmam a conclusão da decisão impugnada, razão pela qual o presente recurso não merece prosperar.
+Inicialmente, destaco que o provimento do recurso especial não esbarrou nos óbices previstos pelas Súmulas n. 5 e 7 desta Corte, ante o caráter incontroverso e bem delineado das circunstâncias fático-probatórias contidas nos autos, assim como dos termos do contrato firmado entre as partes, cingindo-se a questão tão somente acerca de sua revaloração jurídica, à luz da jurisprudência consolidada deste Superior Tribunal de Justiça.
+Outrossim, não há que se falar nos outros óbices à sua admissibilidade, visto que impugnados os fundamentos do acórdão estadual e demonstrada a divergência em relação à jurisprudência pacífica desta Corte.
+Nesse contexto, inviável a manutenção do acórdão estadual, visto que contrário à jurisprudência deste Superior Tribunal de Justiça, que entende pela impossibilidade de aplicação do reajuste anual dos planos individuais aos coletivos.
+No caso, o acórdão recorrido consignou que a operadora não se desincumbiu de demonstrar o incremento da sinistralidade correspondente ao reajuste aplicado, de maneira que afastou a aplicação do percentual. No entanto, após, constatar a abusividade no reajuste da mensalidade, consignou que "em substituição ao reajuste aplicado pela operadora, devem incidir as variações autorizadas pela ANS para planos individuais ou familiares no mesmo período" (e-STJ, fl.1.197).
+Reitero, portanto, que, "no plano coletivo, o reajuste anual é apenas acompanhado pela ANS, para fins de monitoramento da evolução dos preços e de prevenção de abusos, não havendo que se falar, portanto, em aplicação dos índices previstos aos planos individuais" (AgInt no AREsp 1.155.520/SP, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 7/2/2019, DJe 15/2/2019). A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE COLETIVO. REAJUSTE POR AUMENTO DE SINISTRALIDADE. ÍNDOLE ABUSIVA NÃO DEMONSTRADA NO CASO. REEXAME PROBATÓRIO. IMPOSSIBILIDADE. ÍNDICES ESTABELECIDOS PELA ANS. INAPLICABILIDADE AOS CONTRATOS COLETIVOS. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência desta Corte é no sentido de que não é abusiva a cláusula que prevê a possibilidade de reajuste do plano de saúde, seja por variação de custos ou por aumento de sinistralidade.
+Precedentes.
+2. Na hipótese, o Tribunal de origem afastou a índole abusiva do reajuste por sinistralidade do valor da mensalidade do plano de saúde coletivo, sendo inviável a modificação de tal entendimento, em razão da incidência das Súmulas 5 e 7 do STJ.
+3. A jurisprudência do Superior Tribunal de Justiça é no sentido de que, no plano coletivo empresarial, o reajuste anual é apenas acompanhado pela Agência Nacional de Saúde Suplementar, para fins de monitoramento da evolução dos preços e de prevenção de abusos, prescindindo, entretanto, de sua prévia autorização.
+4. O entendimento adotado pelo acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1400251/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 7/12/2020, DJe 1/2/2021)
+AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL. PLANO DE SAÚDE. MENSALIDADES. REAJUSTE. AUMENTO DA SINISTRALIDADE. ABUSIVIDADE DECLARADA. ÍNDICES DA ANS E INDEXADORES DE INFLAÇÃO. IMPOSSIBILIDADE. INVERSÃO DO JULGADO. IMPOSSIBILIDADE. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A majoração das mensalidades do plano de saúde em virtude da sinistralidade é possível, a partir de estudos técnico-atuariais, para buscar a preservação da situação financeira da operadora. O reajuste não pode, no entanto, ser declarado abusivo apenas com base nos índices de majoração anuais divulgados pela ANS e nos indexadores que medem a inflação, sob pena de ferir o equilíbrio atuarial do plano.
+3. Agravo interno não provido.
+(AgInt no REsp 1852390/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 14/9/2020, DJe 28/9/2020)
+Diante da não distinção realizada pela Corte de origem dos reajustes aplicados e sendo certo que não há como abstrair o aumento do risco causado pelo aumento dos custos médico-hospitalares e pela maior utilização do plano de saúde, mas não se podendo admitir, de outra parte, a incidência de reajuste em percentual inferior ao aumento do risco causado pelo aumento de faixa etária dos usuários idosos e da sinistralidade, o índice adequado deve ser apurado na fase de liquidação de sentença.
+Nesse sentido foi, inclusive, a parte dispositiva da decisão agravada, na qual constou que foi dado parcial provimento ao recurso da parte contrária para "determinar a apuração do índice de reajuste adequado ao contrato em discussão nos autos, a ser definido por meio de cálculo atuarial, na fase de cumprimento da sentença." (e-STJ, fls.1.415/1.416).
+Por fim, em que pese o não provimento do agravo interno, a sua interposição, por si só, não pode ser considerada como protelatória ou como litigância de má-fé, de modo que incabível, por ora, a aplicação de penalidade à parte que exerce regularmente faculdade processual prevista em lei (EDcl no AgInt nos EAREsp 782.294/DF, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 13/12/2017, DJe 18/12/2017).
+Em face do exposto, nego provimento ao agravo interno.
+É o voto.
