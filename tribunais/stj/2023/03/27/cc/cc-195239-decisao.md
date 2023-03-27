@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de conflito negativo de competência entre o Juízo de Direito da 1ª Vara Criminal de Americana - SP, suscitante, em face do Juízo de Direito da 1ª Vara Criminal de Jequié - BA, ora suscitado, nos autos de representação policial para alienação antecipada de veículo apreendido e custodiado na delegacia de polícia da comarca de Jequié/Bahia, decorrente do crime de adulteração de sinal identificador (em que a vítima não foi localizada (fl. 55).
+Diante disso, o Juízo de Direito da 1ª Vara Criminal de Jequié - BA, declinou da competência para o Juízo de Direito da Vara Criminal da Comarca Americana - SP, com fundamento no art. 70 do CPP, uma vez que o licenciamento do veículo ocorreu no município Americana - SP (fls. 46 - 47).
+Recebidos os autos, o Juízo de Direito da 1ª Vara Criminal de Americana - SP, com apoio no parecer do Ministério Público do Estado de São Paulo, suscitou o presente conflito sob a alegação de que a "competência é do Juízo do local da apreensão, no caso, na comarca de Jequié/BA" (fl. 55).
+O Ministério Público Federal opinou no sentido de conhecer o conflito para declarar a competência do Juízo de Direito da 1ª Vara Criminal de Jequié - BA, o suscitado, conforme a seguinte ementa (fls. 63 - 65):
+"Penal e Processual Penal. Conflito negativo de competência. Adulteração de sinal identificador de veículo automotor. Incerteza acerca do local da consumação do crime. Autoria desconhecida. Competência firmada por prevenção. Art.72, §2º do CPP.
+- Requer-se o conhecimento do conflito, para declarar a competência do Juízo de Direito da 1ª Vara Criminal de Jequié/BA, suscitado."
+É o relatório.
+Decido.
+O conflito de competência ocorre quando duas ou mais autoridades se julgam competentes (positivo), incompetentes (negativo), ou quando houver divergência sobre a junção de processos, nos termos do artigo 114 do Código de Processo Penal.
+No caso concreto, tem-se conflito negativo existente entre Juízos vinculados a Tribunais diversos, logo, deve ser dirimido por este Superior Tribunal de Justiça, nos termos do art. 105, I, "d", da Constituição Federal.
+O cerne do presente conflito cinge-se a verificar o juízo competente para processar e julgar representação policial para alienação antecipada de veículo apreendido e custodiado na delegacia de polícia da comarca de Jequié/Bahia, decorrente do crime de adulteração de sinal identificador (em que a vítima não foi localizada) (fl. 55).
+Na espécie, conforme parecer do Ministério Público Federal (fl. 64):
+"De acordo com a manifestação do MP/SP (fl.53), não há como aferir o local em que se consumou o crime, pois o fato de ter sido o veículo matriculado em Americana não implica necessariamente que a adulteração tenha sido perpetrada naquela localidade.
+Na ausência de elementos a indicar o local onde o ilícito penal foi praticado e sendo desconhecido o autor do delito, a competência recai no juízo que primeiro tomou conhecimento dos fatos."
+Assim, diante da impossibilidade de aplicação das regras de competência firmadas pelo local de consumação do delito, como dispõe o art. 70, caput, do CPP e do domicílio do autor do delito, conforme art. 72, caput, do CPP, a competência deve ser fixada em favor do primeiro Juízo que conheceu dos fatos, nos termos do § 2º, do art. 72 do Código de Processo Penal:
+Art. 72. Não sendo conhecido o lugar da infração, a competência regular-se-á pelo domicílio ou residência do réu.
+§ 1º Se o réu tiver mais de uma residência, a competência firmar-se-á pela prevenção.
+§ 2º Se o réu não tiver residência certa ou for ignorado o seu paradeiro, será competente o juiz que primeiro tomar conhecimento do fato.
+Nesse mesmo sentido, transcrevo os seguintes precedentes desta Corte Superior de Justiça:
+"CONFLITO DE COMPETÊNCIA. PROCESSUAL PENAL. ADULTERAÇÃO DE SINAL DE VEÍCULO AUTOMOTOR (ART. 311 DO CÓDIGO PENAL). PENA MAIS GRAVE. TIPIFICAÇÃO DO DELITO CONEXO (FURTO SIMPLES OU RECEPTAÇÃO SIMPLES). IRRELEVÂNCIA PARA A FIXAÇÃO DA COMPETÊNCIA. LOCAL DA ADULTERAÇÃO NÃO CONHECIDO. RESIDÊNCIA DOS AUTORES DO DELITO. DESCONHECIMENTO. PREVENÇÃO. LOCAL DA DESCOBERTA DO FATO DELITUOSO. CONFLITO CONHECIDO PARA DECLARAR COMPETENTE O JUÍZO SUSCITADO.
+1. O crime do art. 311 do Código Penal, crime instantâneo de efeitos permanentes, possui penas abstratamente cominadas que vão de 3 (três) a 6 (seis) anos de reclusão. É mais grave do que os delitos de receptação simples e de furto simples, cujas reprimendas abstratas, em ambos, são de 1 (um) a 4 (quatro) anos de reclusão.
+Por isso, no caso concreto, atrai a prevenção para o delito conexo, seja ele furto ou receptação, por força do art. 78, inciso II, alínea a, do Código de Processo Penal.
+2. Não há informação sobre o local onde teria sido efetivada a adulteração, se em território paulista ou mineiro. Contudo, a descoberta do referido delito ocorreu na comarca de Uberaba/MG.
+Assim, a competência é firmada pela prevenção, nos termos do art. 72, § 2.º, do Código de Processo Penal, ou seja, é do Juízo do Estado de Minas Gerais, pois também não há notícia certa sobre o local de residência dos supostos autores do crime, o que afasta a incidência da regra do caput do mesmo artigo.
+3. Conflito conhecido para declarar competente o Juízo de Direito da 3.ª Vara Criminal de Uberaba-MG, o Suscitado. (CC n. 181.588/SP, Terceira Seção, relatora Ministra Laurita Vaz, DJe de 19/10/2021.)
+"CONFLITO NEGATIVO DE COMPETÊNCIA. INQUÉRITO POLICIAL. APROPRIAÇÃO INDÉBITA EM RAZÃO DE OFÍCIO, EMPREGO OU PROFISSÃO (ART. 168, § 1o., III DO CPB). INDICIADO CONTRATADO, NA BAHIA, PARA FAZER TRANSPORTE DE CARGA ATÉ MINAS GERAIS. IMPOSSIBILIDADE DE DETERMINAÇÃO DO LOCAL DA CONSUMAÇÃO DO DELITO. PREVENÇÃO. CONFLITO CONHECIDO, PARA DECLARAR A COMPETÊNCIA DO JUÍZO SUSCITADO.
+1. No caso, havendo Magistrados de igual jurisdição, e não sendo possível a determinação do local em que houve a consumação do delito de apropriação indébita, a competência deve ser fixada pela prevenção, em favor do Juiz que primeiro tomou conhecimento dos fatos e despachou nos autos do Inquérito.
+2. Em consonância com o parecer ministerial, conhece-se do conflito, para declarar a competência do Juízo de Direito da Vara Criminal de Cândido Sales/BA, o suscitado" (CC n. 90.700/MG, Terceira Seção, Rel. Min. Napoleão Nunes Maia Filho, julgado em 28/03/2008, DJe de 23/04/2008)
+No caso, o Juízo de Direito da 1ª Vara Criminal de Jequié - BA foi o primeiro a conhecer dos fatos, logo, ficou prevento para o julgamento do feito.
+Ante o exposto, conheço do presente conflito para declarar a competência do Juízo de Direito da 1ª Vara Criminal de Jequié - BA, ora suscitado.
+P. e I.
+EMENTA
+CONFLITO DE COMPETÊNCIA. PROCESSUAL PENAL. ADULTERAÇÃO DE SINAL DE VEÍCULO AUTOMOTOR. LOCAL E AUTORES DA ADULTERAÇÃO DESCONHECIDOS. COMPETÊNCIA DO PRIMEIRO JUÍZO QUE CONHECEU DOS FATOS. COMPETÊNCIA DO JUÍZO SUSCITADO.
