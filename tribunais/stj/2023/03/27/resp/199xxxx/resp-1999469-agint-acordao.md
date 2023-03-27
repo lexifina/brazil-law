@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/03/2023 a 27/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+GUSTAVO AGRA CARIRI interpõe agravo interno contra a decisão de fls. 633-635, que não conheceu do recurso especial.
+Nas razões do presente recurso, o agravante defende o seguinte (fls. 650-652):
+Ao contrário do afirmado na decisão que negou seguimento ao RESP, o acórdão do TJMG NEGOU a inversão da aplicação da cláusula penal, ou seja, TODOS os precedentes do STJ, inclusive os mencionados na própria decisão estão exatamente nos termos da pretensão dos embargantes, mas, O ACORDÃO NÃO DETERMINOU A INVERSÃO DA CLÁUSULA PENAL MORATÓRIA EM FAVOR DOS EMBARGANTES.
+ ..
+A própria decisão embargada AFIRMA SOBRE A POSSIBILIDADE DA INVERSÃO DA CLÁUSULA PENAL EM FAVOR DOS EMBARGANTES, EXATAMENTE NO CASO DE ATRASO/MORA NA ENTREGA DO IMÓVEL, FATO QUE NÃO FOI ACOLHIDO NO ACÓRDÃO.
+ ..
+Culto Relator, resumindo, houve erro material/contradição na decisão embargada, pois, tanto na decisão que ADMITIU o Recurso Especial, como a própria decisão embargada deixam claro A POSSIBILIDADE DA INVERSÃO DA CLÁUUSLA PENAL EM FAVOR DOS EMBARGANTES, EM CASO DE ATRASO/MORA NA ENTREGA DO IMÓVEL (NÃO SE LIMITANDO AOS CASOS DE RESCISÃO)QUE NÃO FOI ACOLHIDO PELO ACÓRDÃO RECORRIDO, ou seja, a fundamentação da decisão está perfeita, mas, a parte dispositiva é contraditória da fundamentação, pois, SE O ACÓRDÃO NÃO INVERTEU A MULTA, O MESMO ESTÁ EM DESALINHO AOS PRECENTES CITADOS E DO TEMA 971 DO STJ, PORTANTO, OUTRA DECISÃO NÃO PODE SER TOMADA, SENÃO, OCONHECIMENTO E PROVIMENTO DO RECURSO ESPECIAL, NOS TERMOS DOS PRECEDENTES CITADOS DO STJNA PRÓPRIA DECISÃO EMBARGADA.
+Requer o provimento do presente agravo para que se dê provimento ao recurso especial.
+Não houve impugnação ao referido recurso, conforme a certidão de fl. 658.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. INVERSÃO DE CLÁUSULA PENAL. NÃO CABIMENTO. REEXAME DE CLÁUSULAS CONTRATUAIS. SÚMULA N. 5 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Incide a Súmula n. 5 do STJ nas hipóteses em que a questão demandar a análise de contrato firmado entre as partes, providência inviável no âmbito do recurso especial.
+2. Agravo interno desprovido.
+VOTO
+A irresignação não reúne condições de prosperar.
+A decisão agravada - proferida pelo Ministro Luis Felipe Salmoão - firmou-se nestes termos (fls. 633-635):
+1. Cuida-se de recurso especial interposto por GUSTAVO AGRA CARIRI, com fundamento no art. 105, III, a e c, da Constituição da República, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim ementado:
+APELAÇÃO  AÇÃO ORDINÁRIA  CONTRATO DE COMPRA E VENDA DE IMÓVEL - ATRASO NA ENTREGA - PAGAMENTO DE MULTA E LUCROS CESSANTES - L. ITISPENDÊNCIA - APLICAÇÃO DE MULTA POR MÊS DE ATRASO - INOVAÇÃO RECURSAL - TOLERÂNCIA DE 180 DIAS - LEGALIDADE - APLICAÇÃO DE MULTA DE 10% SOBRE O VALOR DO CONTRATO - IMPOSSIBILIDADE - AUSÊNCIA DE RESCISÃO CONTRAUAL - ANULAÇÃO DE ASSEMBLEIA DE INSTALAÇÃO DE CONDOMÍNIO - IMPOSSIBILIDADE. Declarada a litispendência em relação a dois pedidos formulados na inicial e não tendo os apelantes se insurgido contra a sentença neste ponto, deve ser reconhecida a existência de coisa julgada. Não há como acolher, em sede de recurso, o pleito relativo à matéria que não integrou o pedido inicial, eis que se trata de inovação recursal, o que é vedado pelo ordenamento. Não existe qualquer abusividade na cláusula que prevê a tolerância de 180 dias, que está expressamente prevista no contrato de compra e venda firmado entre as partes. Verifica-se a impossibilidade de aplicação de multa em favor dos apelantes, no importe de 10% sobre o valor do contrato, já que tal cláusula foi estabelecida para o caso4e rescisão contratual, que não ocorreu no presente caso. Mesmo existindo atraso na entrega da obra, não há falar em impossibilidade de aplicação de correção sobre.. p saldo devedor, já que se trata de mera atualização da moeda, não sendo um plus que se acrescenta ao capital. Inexistindo previsão contratual que condicione a realização de assembleia de instalação de condomínio à prévia vistoria do imóvel, impossível a anulação da assembleia realizada.
+Opostos embargos de declaração, foram rejeitados.
+Em suas razões recursais, aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto no art. 408 do Código Civil.
+Sustenta a possibilidade de inversão da multa penal prevista no contrato em desfavor da construtora, nas hipóteses em que restar demonstrada tanto a mora, quanto o inadimplemento contratual absoluto (rescisão).
+Contrarrazões ao recurso especial às fls. 580-591.
+Crivo positivo de admissibilidade na origem (fls. 603-605).
+É o relatório. DECIDO.
+2. Quanto à inversão da cláusula penal, ao julgar os recurso especial repetitivo REsp 1614721/DF, a Segunda Seção do STJ firmou a tese no sentido de que é possível a inversão da cláusula penal moratória em favor do consumidor, nas hipóteses de mora ou inadimplemento do promitente vendedor.
+A propósito, confira a ementa do referido julgado:
+RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. COMPRA E VENDA DE IMÓVEL NA PLANTA. ATRASO NA ENTREGA. NOVEL LEI N. 13.786/2018. CONTRATO FIRMADO ENTRE AS PARTES ANTERIORMENTE À SUA VIGÊNCIA. NÃO INCIDÊNCIA. CONTRATO DE ADESÃO. OMISSÃO DE MULTA EM BENEFÍCIO DO ADERENTE. INADIMPLEMENTO DA INCORPORADORA. ARBITRAMENTO JUDICIAL DA INDENIZAÇÃO, TOMANDO-SE COMO PARÂMETRO OBJETIVO A MULTA ESTIPULADA EM PROVEITO DE APENAS UMA DAS PARTES, PARA MANUTENÇÃO DO EQUILÍBRIO CONTRATUAL.
+1. A tese a ser firmada, para efeito do art. 1.036 do CPC/2015, é a seguinte: No contrato de adesão firmado entre o comprador e a construtora/incorporadora, havendo previsão de cláusula penal apenas para o inadimplemento do adquirente, deverá ela ser considerada para a fixação da indenização pelo inadimplemento do vendedor. As obrigações heterogêneas (obrigações de fazer e de dar) serão convertidas em dinheiro, por arbitramento judicial.
+2. No caso concreto, recurso especial parcialmente provido. (REsp 1614721/DF, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 22/05/2019, DJe 25/06/2019)
+No caso presente, assim se manifestou o tribunal de origem sobre a questão:
+Ainda que constatado atraso na entrega do imóvel, verifica-se a impossibilidade de aplicação de multa em favor dos apelantes, no importe de 10% sobre o valor do contrato, já que tal cláusula foi estabelecida para o caso de rescisão contratual, conforme se extrai das fis. 42143 (cláusula VIII, item "f"), o que não ocorreu no presente caso.
+Ressalte-se que ao julgar o tema repetitivo 971, o STJ reconheceu a possibilidade da inversão da multa penal contratualmente prevista, em desfavor da construtora, da cláusula penal estipulada exclusivamente para o consumidor, nos casos de mora ou inadimplemento contratual absoluto.
+Vejamos trecho do voto do Ministro Salomão: "Seja por princípios gerais do direito, ou pela principiologia adotada no Código de Defesa do Consumidor, seja, ainda, por comezinho imperativo de equidade, mostra-se abusiva a prática de se estipular penalidade exclusivamente ao consumidor, para a hipótese de mora ou inadimplemento contratual absoluto, ficando isento de tal reprimenda o fornecedor em situações de análogo descumprimento da avença".
+Sendo assim, tal entendimento não se aplica ao caso concreto, não havendo falar em reforma da r. sentença nesse ponto.
+Entendeu que no caso não caberia a inversão da cláusula penal porque ela foi prevista para o caso de rescisão contratual e não para o caso de mora, que é o caso de inadimplemento ora em análise: atraso da entrega do imóvel. Afirmou que somente deveria existir a inversão da cláusula contratual estabelecida em favor da parte vendedora no caso da mesma hipótese fática ficar configurada da outra parte: mora ou rescisão contratual.
+Como no caso presente a situação embasadora da ação é o atraso da entrega do imóvel, situação para a qual, de acordo com o aresto recorrido, não tem previsão de cláusula penal para a parte adversa em situação semelhante, a inversão não tem cabimento, razão pela qual o aresto recorrido está em sintonia com o entendimento desta Corte.
+Alterar, por sua vez, o entendimento do tribunal de origem de que a cláusula contratual de cláusula penal restringe-se à hipótese de rescisão contratual, demanda interpretação de contrato, atividade não realizável nesta via especial, conforme súmula 5/STJ.
+3. Ante o exposto, não conheço do recurso especial.
+Reitere-se que, no que tange à suposta violação do art. 408 do Código Civil, conforme disposto na decisão agravada, o Tribunal de origem concluiu (fl. 635):
+Entendeu que no caso não caberia a inversão da cláusula penal porque ela foi prevista para o caso de rescisão contratual e não para o caso de mora, que é o caso de inadimplemento ora em análise: atraso da entrega do imóvel. Afirmou que somente deveria existir a inversão da cláusula contratual estabelecida em favor da parte vendedora no caso da mesma hipótese fática ficar configurada da outra parte: mora ou rescisão contratual.
+Como no caso presente a situação embasadora da ação é o atraso da entrega do imóvel, situação para a qual, de acordo com o aresto recorrido, não tem previsão de cláusula penal para a parte adversa em situação semelhante, a inversão não tem cabimento, razão pela qual o aresto recorrido está em sintonia com o entendimento desta Corte.
+Ora, para chegar a tal conclusão, o magistrado a quo avaliou as cláusulas do contrato de compra e venda de imóvel firmado entre os litigantes. Escorreita, portanto, a aplicação da Súmula n. 5 do STJ.
+Nesse contexto, a parte agravante não logrou êxito em apresentar argumentos suficientes que justificassem a alteração da decisão ora impugnada, que deve ser mantida por seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
