@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em benefício de GABRIEL CAMPOS GONÇALVES, contra acórdão do Tribunal de Justiça do Estado de São Paulo, proferido no julgamento da Apelação Criminal n. 1500055-46.2019.8.26.0571.
+Infere-se dos autos que o paciente foi condenado em primeiro grau como incurso no art. 157, § 2º, incisos I e II, do Código Penal, por duas vezes, à pena de 7 (sete) anos, 4 (quatro) meses e 25 (vinte e cinco) dias de reclusão e 15 (quinze) dias-multa , em regime inicial fechado. Foi-lhe concedido o direito de recorrer em liberdade.
+Irresignada, a defesa interpôs recurso de apelação, tendo o Tribunal de origem dado parcial provimento ao reclamo para desclassificar a conduta do ora paciente ao crime previsto no art. 157, § 2º, inciso II, do Código Penal, e reduzir as penas aos montantes e 4 anos, 3 meses e 6 dias de reclusão, em regime inicial semiaberto, e 10 dias-multa. Eis a ementa do julgado:
+Apelações. Roubos majorados pelo concurso de agentes e emprego de arma de fogo. Pleitos de Gabriel e Renanobjetivando a absolvição por reconhecimento de causaexcludente de culpabilidade, tendo em vista a dependênciaquímica dos acusados, e pleito de Edson almejando a absolvição por insuficiência probatória. Impossibilidade. Conjunto probatório robusto e coeso demonstrando que os réus, agindo em concurso, mediante grave ameaça,subtraíram um aparelho telefônico e a quantia de R$2.500,00 pertencentes à vítima. Confissões dos réuscorroboradas com as demais provas produzidas em juízo. Incabível a pretendida exclusão da culpabilidade, porquantoinexistirem elementos seguros que indiquem o fato de os réus estarem efetivamente sob o efeito de entorpecentes na data dos fatos, tampouco que estas substâncias tenhamcomprometido a capacidade de compreensão dos ilícitosperpetrados. De rigor, contudo, o afastamento da majoranteatinente ao emprego de arma de fogo, não devidamentecomprovadadurantea instrução,assimcomoo reconhecimento de crime único de roubo. Condenaçãomantida em parte. Reajuste no quantum de aumentoefetuado nas básicas para a fração de 1/8. Viável a fixaçãodo regime inicial intermediário aos recorrentes. Recursosparcialmente providos. (fl. 79)
+No presente writ, aponta a defesa que as instâncias ordinárias não consideraram o tempo de prisão preventiva do paciente (1 ano e 7 meses) para a fixação do regime de cumprimento de pena, nos termos do artigo 387, § 2º, do Código de Processo Penal.
+Afirma, ainda, que o paciente já atingiu o lapso temporal para a progressão do regime semiaberto para o regime aberto.
+Requer, em liminar e no mérito, que seja determinada que a autoridade coatora realize a detração da pena do paciente, fixando o regime aberto para o cumprimento de pena, ou que seja concedida a progressão do regime semiaberto para o aberto.
+É o relatório.
+Decido.
+A presente irresignação não merece prosperar.
+Com efeito, a  irresignação referente à detração penal, bem como à progressão de regime, não foi objeto de análise pelo Tribunal a quo, não tendo sido, portanto, examinada por aquele Colegiado, o que obsta a apreciação por Corte Superior de Justiça , sob pena de atuar em indevida supressão de instância.
+Nessa esteira:
+RECONSIDERAÇÃO NO HABEAS CORPUS. RECEBIMENTO COMO AGRAVO REGIMENTAL. EXECUÇÃO PENAL. DETRAÇÃO. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBIBLIDADE DE ANÁLISE NO ÂMBITO DO MANDAMUS POR DEMANDAR O EXAME APROFUNDADO DE PROVAS. AGRAVO DESPROVIDO.
+1. A questão referente à detração não foi debatida no acórdão atacado, sendo que este Tribunal Superior encontra-se, destarte, impedido de pronunciar-se a respeito, sob pena de indevida supressão de instância.
+2. Acrescenta-se, ainda, a impossibilidade de se determinar que o Tribunal de origem aprecie o writ, pois a análise da questão posta demanda o exame aprofundado de provas, providência incabível na via eleita.
+3. Reconsideração recebida como agravo regimental, o qual é desprovido.
+(RCD no HC n. 787.115/MG, de minha relatoria, Quinta Turma, DJe de 9/3/2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. RECEPTAÇÃO. ATENUANTE DA CONFISSÃO. APLICAÇÃO. INADMISSIBILIDADE. REGIME MAIS GRAVOSO FIXADO DIANTE DA REINCIDÊNCIA. IDONEIDADE. SUBSTITUIÇÃO DAS PENAS. INVIABILIDADE. DETRAÇÃO. SUPRESSÃO DE INSTÂNCIA.
+1. Não há falar-se no reconhecimento da atenuante da confissão, uma vez que o apenado não admitiu a origem ilícita do bem - elementar do tipo penal previsto no art. 180 do CP -, afirmando tão somente que havia recebido a motocicleta para lavá-la. Precedentes.
+2. Mesmo com a pena final estabelecida abaixo de quatro anos de reclusão, em razão da agravante da reincidência, possibilita-se a fixação de regime mais gravoso, no caso, o semiaberto.
+ ..
+5. Inexistindo debate sobre o tema da detração perante o Tribunal local, fica esta Corte inviabilizada de tratá-lo, sob pena de indevida supressão de instância.
+6. Agravo regimental desprovido.
+(AgRg no HC n. 712.102/SP, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma,DJe de 21/10/2022.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO PRISIONAL. SUPRESSÃO DE INSTÂNCIA. WRIT NÃO CONHECIDO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. FLAGRANTE ILEGALIDADE. EXISTÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO. HABEAS CORPUS CONCEDIDO DE OFÍCIO.
+1. A questão relativa à apontada ilegalidade da decisão que indeferiu pedido de progressão prisional não foi analisada pelo Tribunal de origem, o que impede a sua apreciação diretamente por esta Corte Superior de Justiça, sob pena de, se assim o fizer, incidir na indevida supressão de instância.
+2. O fundamento de que remédio constitucional não pode ser utilizado como substitutivo do agravo em execução não tem o condão de subtrair do órgão julgador a verificação quanto à existência de manifesto erro na decisão do Juiz da VEC. A tese de que a decisão proferida pelo Juízo de origem não possuiria fundamentação idônea para indeferir a progressão prisional não demanda análise de provas e está relacionada a direito de locomoção.
+3. Se for verificada a não interposição do agravo em execução, o remédio constitucional é o único instrumento de que dispõe o apenado para sanar eventual ilegalidade do decisum originário que indeferiu o referido benefício. Negativa de prestação jurisdicional reconhecida.
+4. Agravo regimental não provido. Habeas corpus concedido de ofício para determinar ao Tribunal de Justiça do Estado de São Paulo que aprecie, como entender de direito, uma vez verificada a não interposição de agravo em execução, se existe patente ilegalidade na decisão do Juiz da VEC.
+(AgRg no HC n. 718.847/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 21/2/2022.)
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. IMPOSSIBILIDADE. PLEITO DE PROGRESSÃO DE REGIME. INDEVIDA SUPRESSÃO DE INSTÂNCIA. FLAGRANTE ILEGALIDADE NÃO CONSTATADA IN CASU. HABEAS CORPUS NÃO CONHECIDO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, sedimentou orientação no sentido de não admitir habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+II - As questões vindicadas nesta impetração (progressão de regime e necessidade de revisão criminal) não foram apreciadas pelo eg. Tribunal de origem.
+III - Ausente manifestação do eg. Tribunal sobre a matéria, incabível, pois, o presente mandamus, porquanto está configurada a absoluta supressão de instância com relação a todas as questões expostas, ficando impedida esta Corte de proceder à sua análise, uma vez que lhe falta competência (art. 105, I e II, da CF; e art. 13, I e II, do RISTJ).
+Habeas corpus não conhecido.
+(HC n. 656.707/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, DJe de 27/9/2021.)
+Ante o exposto, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+Intimem-se.
