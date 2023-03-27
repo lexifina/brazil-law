@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de MARLON DA SILVA LUIS contra v. acórdão proferido pelo eg. TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, nos autos da apelação criminal n. 1.0471.16.002875-2/001.
+Depreende-se dos autos que a paciente foi condenada à pena de 5 (cinco) anos e 10 (dez) meses de reclusão e 583 (quinhentos e oitenta e três) dias-multa, em regime inicial fechado, como incurso nos arts. 33, caput, da Lei n. 11.343/2006 (fls. 25-34).
+Interposta apelação pela defesa, o Tribunal de origem negou provimento ao recurso, mantendo incólume a sentença condenatória (fls. 47-60).
+Na hipótese, a defesa aponta constrangimento ilegal quanto à inaplicabilidade da minorante prevista no art. 33, § 4º, da Lei de Drogas em favor do paciente.
+Sustenta que "por estarem preenchidos os requisitos previstos no art. 33, § 4º da Lei n.º 11.343/2006, a Defesa Pública pede a concessão do benefício do tráfico privilegiado, com revisão das circunstâncias judiciais" (fl. 9).
+Requer, ao final, o redimensionamento da reprimenda na primeira fase da dosimetria e a aplicação do redutor previsto no art. 33, § 4º, da Lei de Drogas.
+Informações prestadas às fls. 67-85; 86-104; 125-177 e 178-211.
+O Ministério Público Federal, às fls. 115-119, manifestou-se pelo não conhecimento da ordem.
+É o relatório.
+Decido.
+Conforme relatado, busca-se na presente impetração o redimensionamento da reprimenda na primeira fase da dosimetria e a aplicação do redutor previsto no art. 33, § 4º, da Lei de Drogas.
+Cumpre registrar, inicialmente, que a dosimetria da pena está inserida no âmbito de discricionariedade do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito.
+No tocante ao pedido de redimensionamento da reprimenda do paciente na primeira fase da dosimetra, verifico que a pena-base foi estabelecida no mínimo legal, razão pela qual falta interesse de agir nesse ponto (fl. 55).
+Quanto a aplicação do redutor previsto no art. 33, § 4º, da Lei n. 11.343/2006, registre-se que "a Quinta Turma desta Corte Superior, nos autos do HC n. 664.284/ES, Rel. Ministro RIBEIRO DANTAS, Julgamento em 21/9/2021, DJe 24/9/2021, passou a adotar o entendimento de que inquéritos policiais e ações penais em curso não podem justificar o afastamento do tráfico privilegiado, uniformizando o posicionamento de ambas as Turmas sobre o tema" (AgRg no HC n. 772.739/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 4/11/2022, grifei).
+Outrossim, "a Terceira Seção desta Corte, no julgamento do EREsp 1.916.596/SP, entendeu que a existência de atos infracionais pretéritos pode ser considerada para afastar a causa especial de diminuição em questão, exigindo-se, porém, que seja apontada a gravidade do fato anterior e a sua contemporaneidade com o delito de tráfico no qual se discute a aplicação da minorante" (AgRg no HC n. 766.833/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 13/12/2022.
+Na presente hipótese, denota-se que não houve fundamentação idônea a lastrear a inaplicabilidade da causa especial de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006, pois a apreensão de apenas 7,15 gramas de crack (fl. 48) e o fato de o paciente possuir ação penal em andamento e a simples indicação de atos infracionais pretéritos (fl. 56) não constituem elementos suficientes para o afastamento do benefício.
+De mais a mais, a respeito dos atos infracionais, ressalto que embora a Corte de origem os tenha mencionado não se sabe se estes foram ou não graves, bem como não restou demonstrado a contemporaneidade entre tais atos infracionais e o crime em apuração.
+A propósito: AgRg no AREsp n. 2.202.713/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 17/2/2023; AgRg no HC n. 761.799/SP, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe de 9/2/2023 e AgRg no REsp n. 2.016.863/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 21/11/2022.
+Evidenciado, in casu, o constrangimento ilegal apontado pela defesa, passo ao redimensionamento da reprimenda, mantidos os critérios dosimétricos empregados pelas instâncias ordinárias.
+Na primeira fase da dosimetria, mantenho a pena-base estabelecida em 5 (cinco) anos de reclusão e 500 (quinhentos) dias-multa (fl. 55).
+Na segunda fase, a reprimenda permanece inalterada.
+Na terceira fase, mantenho o acréscimo de 1/6 (um sexto) pela presença da agravante prevista no art. 40, inciso VI, da Lei de Drogas, alcançando a reprimenda 5 (cinco) anos e 10 (dez) meses de reclusão e 583 (quinhentos e oitenta e três) dias-multa (fl. 58).
+Ademais, ausentes outras causas modificadoras, reduzo a pena em 2/3, nos termos do art. 33, § 4º, da Lei n. 11.343/2006, totalizando a reprimenda definitiva em 1 (um) ano e 11 (onze) meses e 10 (dez) dias de reclusão, além do pagamento de 194 (cento e noventa e quatro) dias-multa.
+Por fim, o regime prisional inicial deve ser o aberto, nos termos determinados pelo art. 33, § 2º, do Código Penal, tendo em vista o quantum de pena e a integral favorabilidade das circunstâncias judiciais.
+Ante o exposto, concedo a ordem para aplicar a causa especial de diminuição do art. 33, § 4º, da Lei n. 11.343/06 no seu patamar máximo e estabelecer a sanção em 1 (um) ano e 11 (onze) meses e 10 (dez) dias de reclusão, além do pagamento de 194 (cento e noventa e quatro) dias-multa, bem como fixar o regime prisional aberto, para o início do cumprimento da pena da paciente.
+P. e I.
