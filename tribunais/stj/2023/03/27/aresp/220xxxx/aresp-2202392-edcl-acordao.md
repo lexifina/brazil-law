@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/03/2023 a 27/03/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Humberto Martins, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Na origem, trata-se de ação em que se pleiteia indenização por danos materiais e morais em decorrência de acidente ocorrido durante o exercício da função de delegado da polícia federal. Na sentença, julgaram-se os pedidos improcedentes. No Tribunal a quo, a sentença foi mantida.
+Mediante análise dos autos, verifica-se que a decisão inadmitiu o recurso especial com base na incidência da Súmula n. 7/STJ. Entretanto, a parte agravante deixou de impugnar especificamente o referido óbice.
+Interposto agravo interno, foi julgado pela Segunda Turma, conforme a seguinte ementa do acórdão:
+PROCESSUAL CIVIL. INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. ACIDENTE DURANTE EXERCÍCIO DA FUNÇÃO DE DELEGADO. PEDIDOS IMPROCEDENTES. NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL QUE NÃO ATACA OS FUNDAMENTOS DA DECISÃO RECORRIDA. INCIDÊNCIA DA SÚMULA N. 7/STJ.
+I - Na origem, trata-se de ação em que se pleiteia indenização por danos materiais e morais em decorrência de acidente ocorrido durante o exercício da função de delegado da polícia federal. Na sentença, julgaram- se os pedidos improcedentes. No Tribunal a quo, a sentença foi mantida.
+Mediante análise dos autos, verifica-se que a decisão inadmitiu o recurso especial com base na incidência da Súmula n. 7/STJ. Entretanto, a parte agravante deixou de impugnar especificamente o referido óbice.
+II - São insuficientes para considerar como impugnação aos fundamentos da decisão que inadmite o recurso especial na origem: meras alegações genéricas sobre as razões que levaram à negativa de seguimento, o combate genérico e não específico e a simples menção a normas infraconstitucionais, feita de maneira esparsa e assistemática no corpo das razões do agravo em recurso especial.
+III - Incumbe à parte, no agravo em recurso especial, atacar os fundamentos da decisão que negou seguimento ao recurso na origem. Não o fazendo, é correta a decisão que não conhece do agravo nos próprios autos.
+IV - Agravo interno improvido.
+Opostos embargos de declaração, aponta a parte embargante vícios no acórdão embargado.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. ACIDENTE DURANTE EXERCÍCIO DA FUNÇÃO DE DELEGADO. PEDIDOS IMPROCEDENTES. NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL QUE NÃO ATACA OS FUNDAMENTOS DA DECISÃO RECORRIDA. INCIDÊNCIA DA SÚMULA N. 7/STJ. AGRAVO INTERNO. OMISSÃO. NÃO OCORRÊNCIA.
+I - Na origem, trata-se de ação em que se pleiteia indenização por danos materiais e morais em decorrência de acidente ocorrido durante o exercício da função de delegado da polícia federal. Na sentença, julgaram- se os pedidos improcedentes. No Tribunal a quo, a sentença foi mantida.
+II - Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade; eliminar contradição; suprir omissão de ponto ou questão sobre as quais o juiz devia pronunciar-se de ofício ou a requerimento; e/ou corrigir erro material.
+III - Com efeito, o acórdão foi claro no sentido de que a parte agravante somente trouxe alegações genéricas a respeito do óbice. As afirmações encontradas no agravo em recurso especial, quanto à negativa de seguimento relativamente ao óbice referente à incidência da Súmula n. 7/STJ, são insuficientes, pela sua generalidade, para impugnar os fundamentos específicos da decisão que negou seguimento ao recurso especial na origem.
+IV - Cabia à parte, em conformidade com a jurisprudência, trazer argumentos que confrontassem os fundamentos de negativa de seguimento ao recurso especial, e não fundamentos genéricos e sem nenhuma vinculação dialética com a matéria tratada nos autos.
+V - Ademais, se o recurso é inapto ao conhecimento, a falta de exame da matéria de fundo impossibilita a própria existência de omissão quanto a esta matéria. Nesse sentido: EDcl nos EDcl no AgInt no RE nos EDcl no AgInt no REsp 1.337.262/RJ, relator Ministro Humberto Martins, Corte Especial, julgado em 21/3/2018, DJe 5/4/2018; EDcl no AgRg no AREsp 174.304/PR, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 10/4/2018, DJe 23/4/2018; EDcl no AgInt no REsp 1.487.963/RS, relator Ministro Og Fernandes, Segunda Turma, julgado em 24/10/2017, DJe 7/11/2017.
+VI - No caso dos autos, não há omissão de ponto ou questão sobre as quais o juiz, de ofício ou a requerimento, devia pronunciar-se, considerando que a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+VII - Embargos de declaração rejeitados.
+VOTO
+Os embargos não merecem acolhimento.
+Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade; eliminar contradição; suprir omissão de ponto ou questão sobre as quais o juiz devia pronunciar-se de ofício ou a requerimento; e/ou corrigir erro material.
+Com efeito, o acórdão foi claro no sentido de que a parte agravante somente trouxe alegações genéricas a respeito do óbice. As afirmações encontradas no agravo em recurso especial, quanto à negativa de seguimento relativamente ao óbice referente à incidência da Súmula n. 7/STJ, são insuficientes, pela sua generalidade, para impugnar os fundamentos específicos da decisão que negou seguimento ao recurso especial na origem.
+Cabia à parte, em conformidade com a jurisprudência, trazer argumentos que confrontassem os fundamentos de negativa de seguimento ao recurso especial, e não fundamentos genéricos e sem nenhuma vinculação dialética com a matéria tratada nos autos.
+Ademais, se o recurso é inapto ao conhecimento, a falta de exame da matéria de fundo impossibilita a própria existência de omissão quanto a esta matéria. Nesse sentido: EDcl nos EDcl no AgInt no RE nos EDcl no AgInt no REsp 1.337.262/RJ, relator Ministro Humberto Martins, Corte Especial, julgado em 21/3/2018, DJe 5/4/2018; EDcl no AgRg no AREsp 174.304/PR, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 10/4/2018, DJe 23/4/2018; EDcl no AgInt no REsp 1.487.963/RS, relator Ministro Og Fernandes, Segunda Turma, julgado em 24/10/2017, DJe 7/11/2017.
+No caso dos autos, não há omissão de ponto ou questão sobre as quais o juiz, de ofício ou a requerimento, devia pronunciar-se, considerando que a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
