@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de Lucas Schmidt contra o ato coator proferido pelo Desembargador Norival Acácio Engel, integrante do Tribunal de Justiça de Santa Catarina, que, nos autos do Recurso em Sentido Estrito n. 523607-47.2022.8.24.0064, determinou o sobrestamento do feito em razão de decisão proferida em incidente de assunção de competência.
+Alega-se, em síntese, que o paciente aguarda decisão liminar há mais de 4 meses, o que configura negativa de prestação jurisdicional, a despeito do que determina o art. 980 do Código de Processo Civil.
+Sustenta-se que a questão de fundo está consolidada por ambas as Turmas do Superior Tribunal de Justiça sobre matéria penal.
+Afirma-se que o tratamento alopático para transtornos de articulação temporomandibular (CID - 10 - K07.6) não surtiu efeito, até que, iniciado o tratamento com cannabis medicinal, o paciente pode encerrar o tratamento com os outros medicamentos.
+Aduz-se que o custo do tratamento e o longo tempo de espera para obtenção do produto fizeram o paciente cultivar cannabis para fins medicinais, conforme prescrição.
+Destaca-se a atipicidade da conduta e o risco de vir a ser enquadrado erroneamente no tipo penal da Lei n. 11.343/2006.
+Pede-se, em caráter liminar e no mérito, a concessão do salvo-conduto ou, subsidiariamente, a determinação de que o Tribunal de Justiça de Santa Catarina aprecie o recurso em sentido estrito (fls. 3/17).
+É o relatório.
+A concessão de ordem de habeas corpus demanda demonstração, de plano, da ilegalidade, ônus que recai sobre os impetrantes, a quem cumpre instruir o feito com a prova pré-constituída de suas alegações.
+In casu, verifico, de plano, a viabilidade do presente writ.
+Primeiramente, da análise dos autos, verifico estar configurada flagrante ilegalidade capaz de ensejar a superação da Súmula 691/STF.
+Depois, destaco que o decidido no IAC no REsp n. 2.024.250/PR (Ministra Regina Helena Costa, Primeira Seção, DJe 14/3/2023) não se aplica às questões de ordem penal, na qual se discute o direito de liberdade, não a autorização administrativa, objeto de deliberação da Primeira Seção do Superior Tribunal de Justiça. Além disso, dispõe o art. 980 do Código de Processo Penal, que trata dos incidentes de resolução de demandas repetitivas, aplicável ao incidente de assunção de competência, que exclui do âmbito da suspensão os habeas corpus.
+Reforça essa compreensão o fato de que, na via eleita, não se reconhece o direito ao plantio, como afirmado no RHC n. 147.169/SP, mas apenas a inviabilidade da solução penal para o caso de plantio de cannabis sativa para fins medicinais.
+Adentrando ao mérito, ressalto que a Sexta Turma do Superior Tribunal de Justiça decidiu que a conduta de plantar maconha para fins medicinais é atípica, ante a ausência de regulamentação prevista no art. 2º, parágrafo único, da Lei n. 11.343/2006, vide o RHC n. 147.169/SP, de minha relatoria, DJe 20/6/2022; e o REsp n. 1.972.092/SP, Ministro Rogerio Schietti Cruz, DJe 30/6/2022.
+Também a Quinta Turma desta Corte adotou essa orientação no julgamento do HC n. 779.289/DF, Ministro Reynaldo Soares da Fonseca, DJe 28/11/2022.
+Nos casos, prevaleceu o entendimento de que o cultivo de planta psicotrópica para extração de princípio ativo é conduta típica apenas se desconsiderada a motivação e a finalidade. A norma penal incriminadora mira o uso recreativo, a destinação para terceiros e o lucro, visto que, nesse caso, coloca-se em risco a saúde pública. A relação de tipicidade não vai se estabelecer na conduta de cultivar planta psicotrópica para extração de óleo para uso próprio medicinal, visto que a finalidade, aqui, é a realização do direito à saúde, conforme prescrito pela Medicina.
+No RHC n. 147.169/SP, ressalte-se, o salvo-conduto foi expedido "nos termos de autorização médica, a ser atualizada anualmente", fazendo-se parte do decisum, até regulamentação do art. 2º, parágrafo único, da Lei n. 11.343/2006.
+Nesse caso, a defesa trouxe relatório odontológico indicando que o paciente possui prescrição odontológica e histórico de ansiedade (CID-10 K07.6), recomendando-se uso terapêutico de canabinóides (fls. 29/30) em razão da ineficiência dos tratamentos experimentados com medicação tradicional. Também apresenta autorização da Anvisa para importar medicamento CBDism, Delta 8 Moon Rocks (fls. 24/25).
+Também apresentou certificado de participação em curso de cultivo e extração de cannabis medicinal (fl. 31).
+A defesa, no entanto, não especificou a periodicidade e a quantidade necessária para o plantio ou o laudo agronômico, razão pela qual me socorro do decidido no RHC n. 147.169/SP, no qual foram autorizadas 15 mudas a cada 3 meses, totalizando 60 por ano.
+Ante o exposto, concedo liminarmente a ordem para expedir salvo-conduto, a fim de impedir que qualquer órgão de persecução penal, como Polícias Civil, Militar e Federal, Ministério Público estadual ou Ministério Público Federal, turbe ou embarace o cultivo de 15 mudas de cannabis sativa a cada 3 meses, totalizando 60 por ano, para uso exclusivo próprio, enquanto durar o tratamento, nos termos de autorização odontológ ica, a ser atualizada anualmente, que integra a presente ordem, até a regulamentação do art. 2º, parágrafo único, da Lei n. 11.343/2006.
+Comunique-se.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. FLAGRANTE ILEGALIDADE. SÚMULA 691/STF. SALVO-CONDUTO. CULTIVO ARTESANAL DE CANNABIS SATIVA PARA FINS MEDICINAIS. PRINCÍPIOS DA INTERVENÇÃO MÍNIMA, FRAGMENTARIEDADE E SUBSIDIARIEDADE. AUSÊNCIA DE OFENSA AO BEM JURÍDICO TUTELADO. OMISSÃO REGULAMENTAR. DIREITO À SAÚDE. PRECEDENTES.
+Ordem concedida liminarmente nos termos do dispositivo.
