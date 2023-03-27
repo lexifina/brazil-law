@@ -1,0 +1,81 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/03/2023 a 27/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de agravo interno interposto por CARLOS ANTUZO VIEIRA DE FARO PASSOS E OUTROS em face de decisão monocrática da lavra deste signatário que deu parcial provimento ao agravo em recurso especial.
+O aludido apelo extremo, fundado na alínea "a" do permissivo constitucional, desafiou acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado (e-STJ, fl. 257):
+Cumprimento de sentença arbitral. Exigência de honorários sucumbenciais lá fixados. Incidente de desconsideração da personalidade jurídica. Nulidade da decisão judicial. Inocorrência. Empresa devedora desprovida de bens e inativa, sem encerramento formal. Quadro que associado às demais particularidades aqui indicadas autorizava o acolhimento do incidente nos termos dos artigos 50 do Código Civil. Recurso provido.
+Opostos embargos de declaração, esses foram rejeitados (e-STJ, fls. 274-278).
+Nas razões do especial (e-STJ, fls. 280-301), a parte recorrente sustentou violação aos seguintes dispositivos:
+a) arts. 489 e 1022 do Código de Processo Civil de 2015, defendendo que a Corte de origem não sanou omissões supostamente perpetradas pelo acórdão embargado, mesmo diante da oposição dos embargos declaratórios, o que teria configurado negativa de prestação jurisdicional.
+b) art. 50, § 2º, do Código Civil, alegando a ausência de preenchimento dos requisitos necessários à caracterização do abuso da personalidade jurídica pelos recorrentes;
+c) art. 85, § 1º, do CPC/15, aduzindo que em sede de incidente de desconsideração da personalidade jurídica não são cabíveis a fixação de honorários sucumbenciais.
+Apontou, ainda, divergência jurisprudencial.
+Oferecidas as contrarrazões às fls. 342-363 (e-STJ).
+Em sede de juízo provisório de admissibilidade, o Tribunal local negou seguimento ao recurso especial (fls. 366-368, e-STJ), o que ensejou o manejo do agravo (fls. 371-390, e-STJ), buscando destrancar o processamento daquela insurgência.
+Em decisão monocrática (e-STJ, fls. 432-438), este signatário deu parcial provimento ao recurso apenas para afastar a condenação ao pagamento de honorários de sucumbência, e negou provimento quanto à aventada negativa de prestação jurisdicional e violação ao art. 50, § 2º, do Código Civil, ante a incidência da Súmula 7/STJ.
+No presente agravo interno (e-STJ, fls. 441-454), o ora agravante combate os fundamentos do decisum monocrático e reitera os mesmos argumentos lançados nas razões do apelo extremo no que tange à contrariedade aos arts. 489 e 1022 do CPC/15 e 50, § 2º, do Código Civil.
+Requer, por fim, a reconsideração da decisão monocrática ou sua reforma pelo Colegiado.
+Impugnação às fls. 479-508 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE DEU PARCIAL PROVIMENTO AO RECLAMO.
+INSURGÊNCIA RECURSAL DOS AGRAVADOS.
+1. Não há falar em ofensa aos arts. 489 e 1022 do CPC/15, porquanto todas as questões fundamentais ao deslinde da controvérsia foram apreciadas pelo Tribunal a quo, sendo que não caracteriza omissão ou falta de fundamentação a mera decisão contrária ao interesse da parte, tal como na hipótese dos autos.
+2. O Tribunal de origem concluiu, com base na apreciação do acervo fático-probatório dos autos, que houve abuso da personalidade jurídica pela caracterização de confusão patrimonial, restando preenchidos os requisitos necessários à desconsideração da personalidade jurídica. Rever tais conclusões encontra óbice na Súmula 7 desta Casa. Precedentes.
+3. Esta Corte Superior de Justiça tem entendimento no sentido de que a incidência do referido enunciado sumular impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa o Tribunal de origem.
+4. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): O agravo interno não merece acolhida, porquanto os argumentos tecidos pela parte agravante são incapazes de infirmar a decisão agravada, motivo pelo qual merece ser mantida na íntegra, por seus próprios fundamentos.
+1. Consoante asseverado na decisão singular, a apontada violação aos arts. 489 e 1.022 do CPC/15 não se configura.
+Em suas razões, a parte sustentou que o precedente utilizado pela Corte de origem como razão de decidir, sem esclarecer qual a similitude dele com o caso concreto, constituiu vício de fundamentação.
+Aduziu, ainda, que não houve apreciação dos seguintes pontos: (I) a cessação das atividades da empresa ter ocorrido antes da constituição do título executivo, donde resulta não haver possibilidade dessa cessação ter sido feita para frustrar o pagamento da obrigação; e (II) o oferecimento pela PLANEF de bem para garantir a satisfação da sua dívida, que, não poderia ter sido recusado pelo Agravado.
+Entretanto, constata-se, da leitura do aresto objurgado, que a Corte estadual, ao apreciar o recurso interposto pela parte, dirimiu a controvérsia e decidiu as questões postas à apreciação de forma suficientemente fundamentada, sem omissões, manifestando-se expressamente acerca da caracterização do abuso da personalidade jurídica, caracterizado pela confusão patrimonial, porém, em sentido contrário ao pretendido pelo recorrente, o que não configura negativa de prestação jurisdicional ou deficiência de fundamentação.
+Assim constou do acórdão (fl. 276-277, e-STJ):
+Como se confere a fls. 259 e seguintes, o acórdão textualmente apontou as razões de fato e de direito pelas quais se impunha o desfecho nele indicado, o que ocorreu mediante exame dos temas aqui indicados nos embargos. Assim, o acórdão salientou que os "fatos que interessavam ao incidente estavam suficientemente revelados, seja por prova documental, seja pelas informações fornecidas pelas partes, o que autorizava a Juíza a dispensar a instrução e a proceder ao antecipado julgamento". Na sequência o acórdão apontou documentos que mostravam estar a devedora "inativa desde 2015 (fls.220), isso apesar de constar como ativa junto à Receita Federal (fls. 94 da origem)", e salientou que "a irregular inativação acompanhada da falta de bens são fatos que autorizam a desconsideração da personalidade jurídica e a consequente chamada dos sócios ou administradores para responder à execução". A propósito o acórdão aludiu à Súmula nº 435 do Superior Tribunal de Justiça, que sintetizava o entendimento naquela linha, e para mostrar que nem se cuidava de uma posição recente se reportou a conhecido julgado local, tendo então apontado as circunstâncias fáticas que autorizavam reconhecer a confusão patrimonial.
+Não é demais lembrar a orientação desta Corte no sentido de que o julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, nem a indicar todos os dispositivos legais suscitados, quando tenha encontrado motivação satisfatória para dirimir o litígio.
+Nesse sentido, confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. SUFICIÊNCIA. AGRAVO DE INSTRUMENTO INTERPOSTO CONTRA DECISÃO QUE PÔS TERMO À EXECUÇÃO. INAPLICABILIDADE DO PRINCÍPIO DA FUNGIBILIDADE, PORQUANTO NÃO HÁ DÚVIDA A RESPEITO DO RECURSO ADEQUADO. AGRAVO NÃO PROVIDO.
+1. Não há violação aos arts. 489 e 1.022 do Código de Processo Civil de 2015, tendo em vista que o v. acórdão recorrido, embora não tenha examinado individualmente cada um dos argumentos suscitados pela parte, adotou fundamentação suficiente, decidindo integralmente a controvérsia.
+2. A interposição de agravo de instrumento contra sentença que extingue processo de execução configura erro grosseiro e inviabiliza a aplicação do princípio da fungibilidade recursal. Precedentes.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1520112/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 04/02/2020, DJe 13/02/2020)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. OMISSÃO. INEXISTÊNCIA. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. ENTENDIMENTO NO SENTIDO DA AUSÊNCIA DE NOVAÇÃO. MERO PARCELAMENTO DA DÍVIDA. SÚMULAS 5 E 7/STJ. APLICAÇÃO. AGRAVO INTERNO DESPROVIDO.
+1. Inexistem omissões ou mesmo contradição a serem sanadas no julgamento estadual, portanto inexistentes os requisitos para reconhecimento de ofensa aos arts. 10, 489, § 1º, IV e VI, e 1.022 do CPC/2015 do novo CPC. O acórdão dirimiu a controvérsia com base em fundamentação sólida, sem tais vícios, o que não se confunde com omissão ou contradição, tendo em vista que apenas resolveu a celeuma em sentido contrário ao postulado pela parte insurgente. Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas apenas a declinar as razões de seu convencimento motivado, como de fato ocorre nos autos.
+(..)
+3. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp 1445088/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 16/12/2019, DJe 19/12/2019)
+Ressalta-se que não há falar em omissão quando não acolhida a tese ventilada pelo recorrente, mormente se o acórdão abordar todos os pontos relevantes ao deslinde do feito, como ocorre na hipótese.
+Inexiste, portanto, violação ao artigo 1.022 do CPC/15, visto que as questões foram apreciadas pelo Tribunal de origem, cuja fundamentação foi clara e suficiente para o deslinde da controvérsia.
+2. Outrossim, em relação à alegada ofensa ao art. 50, § 2º, do Código Civil, a decisão agravada merece ser mantida.
+Em suas razões recursais, o recorrente sustentou a ausência de preenchimento dos requisitos necessários à caracterização do abuso da personalidade jurídica.
+Contudo, no caso em análise, o Tribunal estadual asseverou que a dificuldade de se encontrar bens suficientes para a satisfação do crédito discutido, associada à dissolução irregular da empresa demandada e a ocorrência de confusão patrimonial constituem elementos suficientes para o deferimento do pedido de desconsideração de sua personalidade jurídica.
+Confira-se, a seguir, o seguinte trecho do acórdão recorrido (fls. 259-260, e-STJ):
+III Segundo decorre do artigo 50 do Código Civil, a desconsideração da autonomia do patrimônio do devedor justifica-se quando ocorre o "abuso da personalidade jurídica, caracterizado pelo desvio de finalidade, ou pela confusão patrimonial". Ora, na espécie a empresa devedora deixou de pagar seu débito e informou encontrar-se inativa desde 2015 (fls.220), isso apesar de constar como ativa junto à Receita Federal (fls. 94 da origem). Pois conforme se tem entendido a irregular inativação acompanhada da falta de bens são fatos que autorizam a desconsideração da personalidade jurídica e a consequente chamada dos sócios ou administradores para responder à execução.
+Afinal, a presunção em casos tais é que a autonomia jurídica da devedora está sendo utilizada para fim malicioso, isto é, evitar o cumprimento da obrigação e proteger o patrimônio particular dos sócios e dirigentes, quadro que retrata, justamente, uma das situações previstas no artigo 50 da lei civil.
+(..)
+Tal conclusão é aqui corroborada pelo fato de a empresa ter sede no endereço do domicílio residencial dos sócios (fls. 38, 46 e 210/219), bem como pela revelação de os pagamentos terem sido por eles realizados em nome da pessoa jurídica (fls. 136/153), o que impõe reconhecer a confusão patrimonial.
+Esse quadro autorizava, pois, desconsiderar a personalidade jurídica da devedora de modo a incluir no presente feito os respectivos sócios.
+Com efeito, de acordo com o entendimento jurisprudencial firmado nesta Corte Superior, para autorizar a desconsideração da personalidade jurídica a fim de alcançar os bens de seus sócios, afigura-se imprescindível a demonstração de preenchimento de algum dos requisitos elencados no art. 50 do CC, não se revelando a inexistência de bens penhoráveis ou eventual encerramento irregular fundamento suficiente para tanto.
+Consoante se extrai do acórdão recorrido, no caso ora em análise, o Tribunal de origem, soberano na apreciação do acervo fático e probatório dos autos, consignou expressamente ter havido abuso da personalidade jurídica, caracterizado pela confusão patrimonial.
+Dessa forma, modificar as conclusões do julgado e rediscutir a caracterização do abuso da personalidade jurídica, bem como da ocorrência, ou não, de confusão patrimonial, demandaria o revolvimento do suporte fático-probatório dos autos, o que encontra vedação na Súmula 7 do Superior Tribunal de Justiça.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. ART. 50 DO CÓDIGO CIVIL. REQUISITOS. AUSÊNCIA. REEXAME. FUNDAMENTOS. SÚMULA Nº 7/STJ.
+(..)
+3. Na hipótese, rever as conclusões das instâncias ordinárias quanto ao preenchimento dos requisitos para a desconsideração da personalidade jurídica da empresa demandaria a análise dos fatos e das provas da causa, o que atrai a incidência da Súmula nº 7/STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.852.233/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 13/12/2021, DJe de 16/12/2021.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CINDIBILIDADE. SÚMULA N. 182/STJ. NÃO APLICABILIDADE. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. CONFUSÃO PATRIMONIAL. CONSTATAÇÃO. REEXAME. SÚMULA N. 7 DO STJ. AGRAVO NÃO PROVIDO.
+1. A Corte Especial decidiu que é cindível a decisão que examina o agravo em recurso especial, cabendo à parte eleger as questões autônomas sobre as quais pretende recorrer por meio de agravo interno, sendo que às demais questões recai o fenômeno da preclusão.
+(EREsp 1424404/SP, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 20/10/2021, DJe 17/11/2021).
+2. Concluindo o acórdão estadual que houve confusão patrimonial com o fim de decretar a desconsideração da personalidade jurídica da sociedade, reexaminar a questão encontra o óbice de que trata o enunciado n. 7 da Súmula desta Casa.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.956.573/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 9/5/2022, DJe de 12/5/2022.)
+3. Registre-se, por fim, que, consoante iterativa jurisprudência desta Corte, a incidência da Súmula 7 do STJ é óbice também para a análise do dissídio jurisprudencial, o que impede o conhecimento do recurso pela alínea c do permissivo constitucional.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE DESPEJO. ALEGAÇÃO DE EXISTÊNCIA DE CONTRATO VERBAL DE LOCAÇÃO. NÃO COMPROVAÇÃO. REEXAME DE PROVAS. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. AGRAVO IMPROVIDO. (..) 2. A incidência da Súmula 7 do STJ é óbice também para a análise do dissídio jurisprudencial, o que impede o conhecimento do recurso pela alínea c do permissivo constitucional. Precedentes. 3. Agravo regimental improvido. (AgRg no AREsp 834.644/DF, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 17/03/2016, DJe 12/04/2016)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO. SÚMULA 7 DO STJ. 1. Ação de indenização por danos materiais e morais. 2. O reexame de fatos e provas não é possível na via especial, devido ao óbice da Súmula 7 desta Corte. 3. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. 4. Agravo interno no agravo em recurso especial não provido. (AgInt no AREsp 1423333/SC, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 29/04/2019, DJe 02/05/2019)
+De rigor, portanto, a manutenção da decisão agravada.
+3. Do exposto, nega-se provimento ao agravo interno.
+É como voto.
