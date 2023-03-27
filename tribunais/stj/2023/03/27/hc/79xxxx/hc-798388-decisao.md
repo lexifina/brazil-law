@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de RODRIGO DOS SANTOS, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos que, em 3/6 /2022, o paciente foi preso em flagrante pelo suposto cometimento do delito previsto no art. 155, caput, do Código Penal. Na mesma data, quando da realização da audiência de custódia, o magistrado concedeu-lhe a liberdade provisória, nos seguintes termos (e-STJ fl. 36):
+ ..  Deste modo, por ser necessária e adequada ao caso concreto, com fundamento no artigo 310, III, do CPP, concedo a RODRIGO DOS SANTOS a LIBERDADE PROVISÓRIA, com a fixação das seguintes medida cautelares previstas no artigo 319 do CPP: a) comparecimento mensal em Juízo para informar e justificar suas atividades, sendo que sua primeira apresentação deverá ser em CINCO (05) DIAS ÚTEIS; b) proibição de ausentar-se da comarca ou mudar de domicílio sem prévia autorização do Juízo. Além disso, fixo o compromisso de comparecer a todos os atos do processo e não mudar de endereço sem prévia autorização do juízo.
+Em 11/7/2022 o juízo de origem proferiu nova decisão decretando a prisão preventiva do acusado, diante do descumprimento das medidas cautelares antes impostas (fls. 81/82).
+Impetrado prévio writ, o Tribunal de origem denegou a ordem pleiteada, mantendo a segregação cautelar.
+Daí o presente mandamus, no qual sustenta a defesa que o suposto crime cometido é desprovido de violência ou grave ameaça, qual seja, o de furto simples, além de a res furtiva ser de pequeno valor (R$ 200,00) e ter sido devolvida à vítima.
+Destaca, também, que o paciente "está preso desde o dia 20 de outubro de 2022 e, acaso mantida sua situação processual, seguirá encarcerado até a data da audiência de instrução, debates e interrogatório, que se realizará em 13 de abril próximo, ou seja, pouco menos de 5 meses, período correspondente a quase metade da pena mínima prevista no artigo 155, caput, do Código Penal, evidenciando-se a desproporcionalidade entre a prisão provisória e eventual reprimenda que poderá ser aplicada no futuro" (fl. 7).
+Pretende, em suma, seja expedido alvará de soltura em seu favor.
+Indeferida a liminar e prestadas as informações, opinou o Ministério Público pelo não conhecimento do writ, mas pela concessão da ordem de ofício.
+É o relatório.
+Insta consignar que a regra, em nosso ordenamento jurídico, é a liberdade. Assim, a prisão de natureza cautelar revela-se cabível tão somente quando, a par de indícios do cometimento do delito (fumus commissi delicti), estiver concretamente comprovada a existência do periculum libertatis, nos termos do art. 312 do Código de Processo Penal.
+No caso, são estes os fundamentos invocados para a decretação da prisão preventiva (e-STJ fls. 81/82):
+Trata-se de requerimento de decreto de prisão preventiva do acusado Rodrigo dos Santos, sustentando a representante do Ministério Público que o réu, beneficiado com liberdade provisória e medidas cautelares aqui impostas, deixou de cumpri-las e sequer foi encontrado no distrito da culpa (pp. 74/77).
+Tem razão a representante do Ministério Público, pois bem se vê que o réu não demonstra interesse algum em cumprir as ordens que recebeu na audiência realizada a pp. 21/24, revelando descaso e nenhum compromisso com o juízo penal.
+Sublinhe-se que é apontado como autor de crime contra o patrimônio e, apesar de pessoalmente procurado, não foi localizado no distrito da culpa, ordenando-se citação ficta, por edital, pois o juízo desconhece seu paradeiro.
+Bem se vê que o réu não mantém comportamento esperado daquele que é processado e deve se submeter à coação processual.
+Outrossim, evidente que as cautelares impostas não foram adequadas à situação pessoal do réu, seja porque em risco está o regular andamento da persecução penal, revelando-se necessário acautelar a instrução criminal, bem como porque há de se assegurar a aplicação da lei penal.
+Ante o exposto, substituo as medidas cautelares descumpridas para impor ao réu RODRIGO DOS SANTOS a prisão preventiva, única adequada à assegurar a instrução criminal e bem assim a aplicação da lei penal.
+Como visto, o ora paciente descumpriu as medidas cautelares anteriormente impostas e encontra-se em local incerto e não sabido.
+Diante desse contexto, justificada está a necessidade de segregação cautelar para garantir a aplicação da lei penal e a instrução criminal.
+Nesse mesmo sentido, os seguintes precedentes do Superior Tribunal de Justiça:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. CUSTÓDIA PREVENTIVA. EXPRESSIVA QUANTIDADE DE DROGA. RÉU FORAGIDO POR DEZ ANOS. ATUALIDADE DA ORDEM DE PRISÃO. RECURSO NÃO PROVIDO.
+1. A decisão impugnada está devidamente motivada nos termos do art. 312 do Código de Processo Penal, na medida em que foi destacada a necessidade de se assegurar a ordem pública, a conveniência da instrução criminal e a aplicação da lei penal, pois, além da gravidade do fato apurado (apreensão de 22 quilos de maconha), o paciente está foragido há mais de 10 anos, desde a decretação da prisão cautelar.
+ ..  3. Agravo regimental não provido. (AgRg no HC n. 653.295/PR, relator Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 27/4/2021, DJe 30/4/2021.)
+PROCESSO PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. ASSOCIAÇÃO CRIMINOSA ARMADA. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. MODUS OPERANDI. ORGANIZAÇÃO CRIMINOSA ARMADA. RECORRENTE QUE PERMANECEU FORAGIDO POR 4 ANOS. REITERAÇÃO DELITIVA.
+ ..  4. A prisão preventiva encontra-se justificada para assegurar a aplicação da lei penal e garantir a instrução criminal em razão de o recorrente ter permanecido foragido durante 4 anos, tendo o feito sido desmembrado devido a isso, além de haver faltado à audiência mesmo devidamente intimado.  ..
+7. Recurso ordinário desprovido. (RHC n. 90.363/MG, de minha relatoria, SEXTA TURMA, julgado em 13/8/2019, DJe 23/8/2019.)
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
