@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/03/2023 a 27/03/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Sebastião Reis Júnior, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+QUINTINO ANTÔNIO FACCI opõe embargos de declaração contra acórdão da Sexta Turma, por meio do qual negou provimento ao seu agravo regimental.
+Em suas razões, o embargante aponta omissão no aresto impugnado, pois não teria se manifestado acerca da ilegalidade do indeferimento do pleito defensivo de arrolar mais cinco testemunhas para serem ouvidas no plenário do Tribunal do Júri.
+Entende ser necessário prequestionar a ocorrência de violação à ampla defesa, na medida em que a acusação teria dobrado seu rol de testemunhas enquanto à defesa não foi estendido tal direito.
+Requer o acolhimento dos aclaratórios, a fim de que seja sanado o vício referido.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. OMISSÃO NÃO VERIFICADA. SESSÃO PLENÁRIA DO JÚRI. PESSOAS A SEREM INQUIRIDAS NA CONDIÇÃO DE TESTEMUNHAS DO JUÍZO. VIOLAÇÃO DE PRINCÍPIOS CONSTITUCIONAIS. AUSÊNCIA DE COMPETÊNCIA DO STJ. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Consoante o disposto no art. 619 do Código de Processo Penal, a oposição de embargos de declaração enseja, em síntese, o aprimoramento da prestação jurisdicional, por meio da retificação do julgado que se apresenta omisso, ambíguo, contraditório ou com erro material.
+2. Não compete ao Superior Tribunal de Justiça a análise de suposta violação de dispositivos e princípios constitucionais, mesmo com o cunho de prequestionamento, por ser matéria reservada à competência do Supremo Tribunal Federal, nos termos do art. 102, III, da Constituição Federal.
+3. Embargos de declaração rejeitados
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Consoante o disposto no art. 619 do Código de Processo Penal, a oposição de embargos de declaração enseja, em síntese, o aprimoramento da prestação jurisdicional, por meio da retificação do julgado que se apresenta omisso, ambíguo, contraditório ou com erro material.
+Não constato omissão no decisum embargado, em que a Sexta Turma do STJ confirmou o decisum que negou provimento ao recurso ordinário em habeas corpus. A propósito, confira-se (fls. 274-277, grifos no original):
+II. Violação do princípio da isonomia - não ocorrência
+Em que pesem os argumentos expostos pela defesa, deve ser mantida a decisão agravada por seus próprios fundamentos.
+O processo penal brasileiro permite que o juiz colabore na produção de provas que possam auxiliá-lo na prestação jurisdicional, com vistas ao restabelecimento, o mais próximo possível, da verdade dos fatos que constituem a causa de pedir da ação penal.
+Na hipótese, Ministério Público, na fase do art. 422 do CPP, arrolou "para que sejam ouvidas em plenário, em caráter de imprescindibilidade, as mesmas testemunhas arroladas na denúncia" (fl. 47), ou seja, 10 testemunhas (fl. 77).
+Em que pese o rol apresentado pelo Parquet extrapolar o limite previsto no art. 422 do CPP, não houve ilegalidade, pois as excedentes serão ouvidas por prerrogativa do Juízo, conforme decisão acima reproduzida.
+Sob uma ótica que busca a realização do processo justo e tendo em vista as peculiaridades do Tribunal do Júri, em que o juiz-presidente apenas prepara e regula a realização do julgamento pelos juízes populares, deve ser prestigiada a atividade probatória deflagrada pelo Juiz que determina, de ofício, a oitiva em plenário de testemunhas excedentes arroladas na fase do art. 422 do CPP, mas já ouvidas em juízo na primeira fase do procedimento escalonado do Tribunal do Júri, de forma residual e em consonância com os arts. 209 e 497, XI, ambos do CPP, para a correta compreensão de importantes fatos relatados durante a produção da prova oral.
+Assim, o acórdão recorrido não destoa da jurisprudência desta Corte Superior, que "possui o entendimento consolidado de que não configura nulidade a ouvida de testemunha indicada extemporaneamente pela acusação, como testemunha do Juízo, conforme estabelece o art. 209 do Código de Processo Penal, em observância ao princípio da busca da verdade real" (HC n. 229.019/SE, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 28/6/2018, grifei).
+Ilustrativamente:
+ ..
+1. A estrutura acusatória do processo penal pátrio impede que se sobreponham em um mesmo sujeito processual as funções de defender, acusar e julgar, mas não elimina, dada a natureza publicista do processo, a possibilidade de o juiz determinar, mediante fundamentação e sob contraditório, a realização de diligências ou a produção de meios de prova para a melhor reconstrução histórica dos fatos, desde que assim proceda de modo residual e complementar às partes e com o cuidado de preservar sua imparcialidade.
+2. Não fora assim, restaria ao juiz, a quem se outorga o poder soberano de dizer o direito, lavar as mãos e reconhecer sua incapacidade de outorgar, com justeza e justiça, a tutela jurisdicional postulada, seja para condenar, seja para absolver o acusado. Uma postura de tal jaez ilidiria o compromisso judicial com a verdade e com a justiça, sujeitando-o, sem qualquer reserva, ao resultado da atividade instrutória das partes, nem sempre suficiente para esclarecer, satisfatoriamente, os fatos sobre os quais se assenta a pretensão punitiva.
+3. O uso, pelo magistrado, de seus poderes instrutórios, presentes em inúmeros dispositivos do Código de Processo Penal, não autoriza, porém, posturas de vanguarda ou de protagonismo judicial.
+4. Entretanto, sob uma ótica que busca a realização do processo justo e tendo em vista as peculiaridades do Tribunal do Júri, em que o juiz-presidente apenas prepara e regula a realização do julgamento pelos juízes populares, deve ser prestigiada a atividade probatória deflagrada pelo Juiz que determina, de ofício, a oitiva em plenário de testemunhas arroladas extemporaneamente na fase do art. 422 do CPP, mas já ouvidas em juízo na primeira fase do procedimento escalonado do Tribunal do Júri, porque de forma residual e em consonância com os arts. 209 e 497, XI, ambos do CPP, para a correta compreensão de importantes fatos relatados durante a produção da prova oral.
+5. Recurso ordinário não provido.
+(RHC n. 87.764/DF, relator Ministro Sebastião Reis Júnior, relator para acórdão Ministro Rogerio Schietti, 6ª T., DJe de 6/11/2017)
+ ..
+1. De acordo com o artigo 271 do Código de Processo Penal, como auxiliar do Ministério Público, o assistente de acusação tem o direito de produzir provas, inclusive de arrolar testemunhas, pois, caso contrário, não teria como exercer o seu papel na ação penal pública. Doutrina. Precedentes do STJ e do STF.
+2. Na hipótese dos autos, no curso da ação penal e antes da audiência de instrução e julgamento, o assistente de acusação pleiteou a oitiva de testemunhas, com o que concordou o Ministério Público, tendo o magistrado deferido o pedido, decisão que foi mantida após a impugnação da defesa.
+3. Ainda que se possa considerar o rol de testemunhas do assistente intempestivo, visto que apresentado após a resposta à acusação ofertada pelo réu, o certo é que a simples possibilidade de tais pessoas serem ouvidas como testemunhas do juízo afasta a ilegalidade suscitada na impetração, uma vez que, ao deferir a produção da prova oral, o togado de origem reputou- a necessária para o deslinde da controvérsia, motivo pelo qual pode ser colhida, nos termos dos artigos 156 e 209 da Lei Penal Adjetiva. Precedentes do STJ.
+ ..
+5. Agravo regimental desprovido.
+(AgRg no RHC n. 89.886/SP, Rel. Ministro Jorge Mussi, 5ª T., DJe 27/11/2017, grifei)
+Na mesma direção já decidiu o Supremo Tribunal Federal:
+ ..  Considerados os princípios da busca da verdade real e do livre convencimento, admite-se a iniciativa probatória, de maneira subsidiária, por parte do órgão julgador - artigo 209 do Código de Processo Penal (RHC n 154.680-PE, STF, 1ª Turma, unânime, Rel. Min. Marco Aurélio, julgado em sessão virtual de 25.9.2020 a 2.10.2020, publicado no DJ em 14.10.2020).
+Ademais, caberia à parte arrolar, na fase do art. 422 do CPP, pessoas cujas oitivas reputa imprescindíveis à busca da verdade, que poderiam ser ouvidas como testemunhas do Juízo, o que não ocorreu na hipótese.
+A propósito, transcrevo trecho do parecer do Ministério Público Federal, que bem examina a questão (fl. 192, ressaltei):
+Como bem anotado pelo Ministério Público estadual, o procedimento adotado pelo juiz é perfeitamente possível, pois atende ao princípio da busca da verdade real, não havendo nenhuma nulidade. Assim, perfilhamos, in totum, com a devida venia, tudo o que ficou dito nas contrarrazões do Parquet estadual, em especial o seguinte:
+"(..) o pedido de aditamento do rol de testemunhas de defesa apenas para se igualar ao número de testemunhas da acusação, carece de amparo legal. Isso porque, em primeiro lugar, há um momento processual para se arrolar testemunhas, e a defesa já se utilizou dele. Aliás, como bem explicitado na r. decisão a fls. 91, o número de testemunhas de acusação e de defesa é o mesmo. O que existem são testemunhas de juízo, o que atende ao princípio da verdade real. Isso porque as testemunhas são dos fatos, não havendo qualquer irregularidade em se buscar a verdade real por meio de testemunhas do juízo.
+Caso existissem outras testemunhas que fossem de fato relevantes para o processo, caberia à defesa, pleitear junto ao Juízo "a quo" a inclusão delas como testemunhas de juízo, demonstrando a relevância de seus depoimentos" (fl. 106/107).
+Assim, ausentes fatos novos ou teses jurídicas diversas que permitam a análise do caso sob outro enfoque, deve ser mantida a decisão agravada.
+O acórdão foi expresso em afirmar que defesa e acusação possuem o mesmo número de testemunhas a serem ouvidas na sessão plenária do Júri, na medida em que as demais serão inquiridas na condição de testemunhas do juízo.
+Ademais, constou expressamente que, " c aso existissem outras testemunhas que fossem de fato relevantes para o processo, caberia à defesa, pleitear junto ao Juízo "a quo" a inclusão delas como testemunhas de juízo, demonstrando a relevância de seus depoimentos" (fl. 277).
+Dessa forma, não há omissão a ser sanada.
+Saliento, por fim, que não compete ao Superior Tribunal de Justiça a análise de suposta violação de dispositivos e princípios constitucionais, mesmo com o cunho de prequestionamento, por ser matéria reservada à competência do Supremo Tribunal Federal, nos termos do art. 102, III, da Constituição Federal.
+À vista do exposto, rejeito os embargos de declaração.
