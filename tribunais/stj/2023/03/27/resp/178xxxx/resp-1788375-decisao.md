@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, em face de acórdão assim ementado (e-STJ, fl.213):
+AGRAVO DE INSTRUMENTO. HABILITAÇÃO DE CRÉDITO. FGTS. EQUIPARAÇÃO AO CRÉDITO TRABALHISTA. APLICAÇÃO DO ARTIGO 2º, §3º, DA LEI Nº 8.884/94. MULTAS APLICADAS EM DESFAVOR DO EMPREGADOR. CLASSIFICAÇÃO COMO CRÉDITO SUBQUIROGRAFÁRIO.
+1.Os créditos relativos ao Fundo de Garantia do Tempo de Serviço (FGTS) são equiparados, pelo artigo 2º, §3º, da Lei nº 8.844/94, aos créditos trabalhistas, os quais tiveram seu pagamento limitado, pelo artigo 83, inciso I, da Lei 11.101/05, a 150 salários mínimos por credor.
+2. As multas e demais encargos estão respaldados pelo artigo 83, inciso VII, da Lei nº 11.101/05 e devem ser classificados como créditos subquirografários, pois não se pode atribuir a penalidade imposta ao empregador a mesma natureza alimentar e trabalhista do FGTS.
+3. Deu-se provimento ao agravo de instrumento para excluir do privilégio do artigo 83, I, da Lei nº 3 11.101/05 as verbas referentes às multas pecuniárias.
+Nas razões do recurso especial, a parte recorrente aponta violação ao art. 449, § 1º, da Consolidação das Leis d o Trabalho; ao art. 83, I, da Lei n. 11.101/2005; bem como divergência jurisprudencial.
+Sustenta que parcelas decorrentes das multas previstas nos artigos 467 e 477 da CLT, e de 40% (quarenta por cento) do FGTS, devem ser classificadas como créditos derivados da legislação trabalhista, nos termos do artigo 83, inciso I, da Lei 11.101/2005.
+Contrarrazões apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+No caso, o Tribunal de origem deu provimento ao agravo de instrumento para excluir as multas e os demais encargos do rol dos créditos trabalhistas, porquanto "estão respaldados pelo artigo 83, inciso VII, da Lei nº 11.101/05, devendo ser classificada como créditos subquirografários, pois não se pode atribuir a penalidade imposta ao empregador a mesma natureza alimentar do FGTS" (e-STJ, fl.222).
+Verifico que a conclusão do acórdão recorrido está em dissonância com o entendimento firmado pela jurisprudência do STJ, no sentido de que "as verbas indenizatórias, como por exemplo, multas, possuem natureza salarial e devem ser classificadas, no processo de falência, como crédito prioritário trabalhista" (AgInt no AREsp n. 190.880/SP, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 23/8/2016, DJe 2/9/2016). Nesse sentido:
+PROCESSO CIVIL. FALÊNCIA. FALIDA. ISENÇÃO DE CUSTAS. ART. 208 DO DL Nº 7.661/45. NÃO INCIDÊNCIA. ASSISTÊNCIA JUDICIÁRIA. INCIDÊNCIA AUTOMÁTICA. INEXISTÊNCIA. PEDIDO. MOMENTO. HABILITAÇÃO DE CRÉDITO. MULTAS. INCLUSÃO. POSSIBILIDADE. DISPOSITIVOS LEGAIS ANALISADOS: ARTS. 23, PARÁGRAFO ÚNICO, III, 25, §3º, E 208 DO DL Nº 7.661/45, 2º E 4º DA LEI Nº 1.060/50; E 449, § 1º, 467 E 477, § 8º, DA CLT.
+1. Habilitação de crédito em falência ajuizada em 10.12.2008. Recurso especial concluso ao gabinete da Relatora em 08.08.2013.
+2. Recurso especial em que se discute os requisitos para a falida se beneficiar do direito ao não recolhimento das custas processuais, bem como se as verbas fixadas com base nos arts. 467 e 477, § 8º, da CLT podem ser habilitadas na falência.
+3. O art. 208 do DL nº 7.661/45 se aplica exclusivamente à massa, não se estendendo à pessoa da falida.
+4. O art. 208 do DL nº 7.661/45 só se aplica ao processo principal da falência, excluída a sua incidência em relação às ações autônomas de que a massa seja parte. Precedentes.
+5. Constitui erro grosseiro o pedido de assistência judiciária gratuita formulado na própria petição recursal. Enquanto não apreciado o pedido de justiça gratuita, não fica o recorrente exonerado do recolhimento das custas processuais, considerando-se deserto o recurso interposto sem que haja o respectivo pagamento. Precedentes.
+6. As verbas indenizatórias, como por exemplo, multas e horas extras, possuem natureza salarial e, portanto, devem ser classificadas, no processo de falência, como crédito prioritário trabalhista, sob pena de violação do art. 449, § 1º, da CLT.
+7. Recurso especial não provido.
+(REsp 1395298/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 11/03/2014, DJe 18/03/2014)
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. FALÊNCIA. DECRETO-LEI 7.661/45. HABILITAÇÃO. CRÉDITO TRABALHISTA. VERBAS INDENIZATÓRIAS. PRIORIDADE. ART. 449, § 1º, DA CLT. NÃO PROVIMENTO.
+1. "As verbas indenizatórias, como por exemplo, multas e horas extras, possuem natureza salarial e, portanto, devem ser classificadas, no processo de falência, como crédito prioritário trabalhista, sob pena de violação do art. 449, § 1º, da Consolidação das Leis Trabalhistas." (REsp 1051590/GO, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 08/09/2009, DJe 10/12/2009)
+2. Agravo regimental a que se nega provimento.
+(AgRg no REsp n. 1.147.873/GO, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 28/9/2012)
+Em face do exposto, dou provimento ao recurso especial para determinar que as multas trabalhistas sejam inseridas na classe do art. 83, I, da Lei n. 11.101/2005.
+Intimem-se.
