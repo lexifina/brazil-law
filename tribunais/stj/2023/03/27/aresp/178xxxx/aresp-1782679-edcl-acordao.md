@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/03/2023 a 27/03/2023, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Humberto Martins, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Interposto agravo interno, foi julgado pela Segunda Turma, conforme a seguinte ementa do acórdão:
+PROCESSUAL CIVIL. ADMINISTRATIVO. CONTRATOS ADMINISTRATIVOS. MANUTENÇÃO DA DECISÃO RECORRIDA. NÃO SE EVIDENCIA NENHUM DOCUMENTO CAPAZ DE ATESTAR A EFETIVA COMPROVAÇÃO DA RESPECTIVA OBRIGAÇÃO POR PARTE DA EMPRESA CONTRATADA.
+I - Na origem, trata-se de ação objetivando o recebimento de valor relativo ao contrato administrativo para locação de veículos, referente às últimas três parcelas. Na sentença o pedido foi julgado procedente. No Tribunal a quo, a sentença foi mantida.
+II - De fato, o respectivo contrato dispõe sobre a locação de veículos entre as partes, confirmando a relação entre os litigantes, mas não é suficiente para respaldar o suposto saldo de parcelas.
+III - Sem necessidade de se adentrar no acervo fático-probatório dos autos, tem-se que as notas fiscais que serviram de base para acolhida do pedido não contêm aceite, e não se evidencia nenhum documento capaz de atestar a efetiva comprovação da respectiva obrigação por parte da empresa contratada - e isso é fato incontroverso nos autos.
+IV - Nesse panorama, não há que prevalecer o interesse particular sobre o público, situação a levar ao vedado enriquecimento ilícito, nos termos da seguinte jurisprudência: AgInt no REsp 1.606.209/DF, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 30/3/2020, DJe 1º/4/2020.
+V - Agravo interno improvido.
+Foram opostos embargos de declaração.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. CONTRATO ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO SEM INDICAÇÃO DE OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO. NÃO CONHECIMENTO DOS EMBARGOS.
+I - Na origem, trata-se de ação objetivando o recebimento de valor relativo ao contrato administrativo para locação de veículos, referente às últimas três parcelas. Na sentença o pedido foi julgado procedente. No Tribunal a quo, a sentença foi mantida. Nesta Corte, deu-se provimento ao recurso especial para julgar improcedente a ação originária ajuizada por Máxima Rent a Car S.C. Ltda., com a inversão da verba sucumbencial.
+II - A jurisprudência deste Tribunal Superior é firme no sentido de que não preenche os requisitos de admissibilidade a petição dos embargos de declaração que não indica nenhum dos vícios elencados no art. 1.022 do Código de Processo Civil de 2015 (art. 535 do Código de Processo Civil de 1973), caso dos autos, o que, por si só, é suficiente para o não conhecimento do recurso, na medida em que a deficiência da argumentação inviabiliza a compreensão exata da controvérsia a ser solvida, atraindo a incidência, por analogia, do enunciado n. 284 da Súmula do STF.
+III - Embargos de declaração não conhecidos.
+VOTO
+Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre as quais devia pronunciar-se o juiz, de ofício ou a requerimento, e/ou corrigir erro material.
+O caput do art. 1.023 do Código de Processo Civil de 2015 aponta expressamente o dever do embargante de indicar a omissão, obscuridade ou contradição na decisão, ônus do qual não se desincumbiu o recorrente.
+A ausência de indicação, nas razões dos embargos declaratórios, da presença de quaisquer dos supramencionados vícios implica o não conhecimento dos embargos de declaração por descumprimento dos requisitos legais. Nesse sentido é a jurisprudência:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FALTA DE INDICAÇÃO, NAS RAZÕES DO RECURSO, DE QUALQUER UM DOS VÍCIOS DO ART. 535 DO CPC. NÃO PREENCHIMENTO DOS REQUISITOS DE ADMISSIBILIDADE. EMBARGOS NÃO CONHECIDOS.
+1. A jurisprudência deste Tribunal Superior é firme no sentido de que não preenche os requisitos de admissibilidade a petição dos embargos de declaração que não indica nenhum dos vícios elencados no art. 535 do CPC, caso dos autos, o que, por si só, é suficiente para o não conhecimento do recurso, na medida em que a deficiência da argumentação inviabiliza a compreensão exata da controvérsia a ser solvida, atraindo o teor da Súmula 284/STF.
+2. Embargos de declaração não conhecidos.
+(EDcl no AgRg no AREsp 181.826/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 01/10/2015, DJe 21/10/2015.)
+EMBARGOS DE DECLARAÇÃO. PROCESSUAL CIVIL. FALTA DE INDICAÇÃO DOS VÍCIOS RELACIONADOS NO ART. 535 DO CPC. JUÍZO NEGATIVO DE ADMISSIBILIDADE DOS DECLARATÓRIOS. 1. A ausência de indicação, nas razões dos embargos declaratórios, da presença de quaisquer dos vícios enumerados no art. 535 do CPC implica o não conhecimento dos aclaratórios por descumprimento dos requisitos previstos no art. 536 do mesmo diploma legal, além de comprometer a exata compreensão da controvérsia trazida no recurso. 2. Embargos de declaração não conhecidos. (EDcl no AgRg no AREsp 54.614/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 4/8/2015, DJe 12/8/2015).
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. EMBARGOS DE DECLARAÇÃO. DENÚNCIA ESPONTÂNEA. MULTA MORATÓRIA. FALTA DE INDICAÇÃO DOS VÍCIOS ELENCADOS NO ART. 535 DO CPC. 1. Não podem ser conhecidos os embargos de declaração manejados com o nítido propósito de discussão de matéria já decidida e que não indicam os vícios elencados no art. 535 do CPC capazes de macular o decisório embargado.  ..
+(AgRg nos EDcl no Ag 1058760/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 19/5/2009, DJe 1º/6/2009.)
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO EXTRAORDINÁRIO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO.
+INEXISTÊNCIA DE OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. REITERAÇÃO DE EMBARGOS COM INTUITO MANIFESTAMENTE PROTELATÓRIO. ABUSO DO DIREITO DE RECORRER. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS.
+I - Os embargos de declaração devem atender aos seus requisitos, quais sejam, suprir omissão, contradição ou obscuridade. Não havendo qualquer um desses pressupostos, o recurso integrativo não deve ser conhecido.
+II - A reiteração de embargos de declaração sem ao menos se indicar qual o ponto supostamente omisso indica o intuito protelatório do recurso.
+III - Embargos de declaração não conhecidos.
+(EDcl nos EDcl nos EDcl no ARE no RE nos EDcl nos EDcl no AgRg no AREsp n. 114.352/RJ, relator Ministro Gilson Dipp, Corte Especial, julgado em 1º/7/2014, DJe 5/8/2014.)
+Ante o exposto, não conheço dos embargos de declaração.
+É o voto.
