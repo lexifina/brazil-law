@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de conflito de competência suscitado pelo Juízo Federal da 4ª Vara de Foz do Iguaçu - SJ/PR, em face do Juízo de Direito da 2ª Vara de Barra do Corda - MA, nos autos de execução de pena.
+Segundo o constante dos autos, o Juízo Federal da 4ª Vara de Foz do Iguaçu - SJ/PR expediu carta precatória para o Juízo de Direito da 2ª Vara de Barra do Corda - MA, para realização de audiência admonitória, fiscalização e acompanhamento das penas de prestação de serviços à comunidade e prestação pecuniária, impostas a apenada Luzimar Ramos Nascimento, residente em Barra do Corda - MA (fls. 74 - 76).
+O Juízo de Direito da 2ª Vara de Barra do Corda - MA determinou a devolução da carta precatória, para que o ato seja realizado mediante videoconferência pelo Juízo suscitante (fl. 342).
+Nesse contexto, o Juízo Federal da 4ª Vara de Foz do Iguaçu - SJ/PR suscitou o presente conflito, sob a alegação de residindo o condenado em local diverso do Juízo natural da causa, pode o Juízo da execução penal expedir carta precatória para a realização de audiência admonitória para imposição e fiscalização das penas restritivas de direitos quando, entre as reprimendas, incluir-se a prestação de serviços à comunidade, situação configurada na hipótese dos autos (fls. 360 - 362).
+O Ministério Público Federal opinou no sentido de que seja "competente pela execução o juízo suscitante, JUÍZO FEDERAL DA 4ª VARA DE FOZ DOIGUAÇU/PR, e pela fiscalização o juízo suscitado, JUÍZO DE DIREITO DA 2ª VARA DEBARRA DO CORDA/MA", conforme a seguinte ementa (fls. 380 - 384):
+"CONFLITO DE COMPETÊNCIA. EXECUÇÃO PENAL. PENA PRIVATIVA DE LIBERDADE SUBSTITUÍDA POR RESTRITIVAS DE DIREITOS. CARTA PRECATÓRIA EXPEDIDA PELO JUÍZO SUSCITANTE. AUDIÊNCIA ADMONITÓRIA. RECUSA DO JUÍZO DEPRECADO. AINDA QUE A COMPETÊNCIA DA EXECUÇÃO PENAL PERMANEÇA COM O JUÍZO SUSCITANTE, CABE AO JUÍZO SUSCITADO A REALIZAÇÃO DE AUDIÊNCIA ADMONITÓRIA E A FISCALIZAÇÃO DO CUMPRIMENTO DAS SANÇÕES IMPOSTAS. PARECER PARA DECLARAR COMPETENTE PELA EXECUÇÃO O JUÍZO SUSCITANTE E PELA FISCALIZAÇÃO O JUÍZO SUSCITADO."
+É o relatório.
+Decido.
+O conflito de competência ocorre quando duas ou mais autoridades se julgam competentes (positivo), incompetentes (negativo), ou quando houver divergência sobre a junção de processos, nos termos do artigo 114 do Código de Processo Penal.
+No caso concreto, tem-se conflito negativo existente entre Juízos vinculados a Tribunais diversos, logo deve ser dirimido por este Superior Tribunal de Justiça, nos termos do art. 105, inciso I, alínea d, da Constituição Federal.
+Cinge-se a controvérsia sobre a recusa do juízo suscitado em cumprir carta precatória expedida pelo juízo suscitante, em razão da possibilidade de realização de audiência admonitória por videoconferência.
+Sobre o tema, a Terceira Seção desta Corte Superior de Justiça já pacificou o entendimento no sentido de que tal justificativa não se enquadra nas hipóteses taxativas de recusa, previstas no art. 267 do Código de Processo Civil de 2015, aplicável ao processo penal por força do art. 3º do Código de Processo Penal.
+Nesse sentido:
+"CONFLITO DE COMPETÊNCIA. CARTA PRECATÓRIA. INTERROGATÓRIO. VIDEOCONFERÊNCIA DETERMINADA PELO JUÍZO DEPRECADO. IMPOSSIBILIDADE. FACULDADE DO JUÍZO DEPRECANTE. CONFLITO CONHECIDO. COMPETÊNCIA DO JUÍZO SUSCITANTE.
+1. A oitiva por videoconferência - não obstante seja medida que visa agilizar a prestação jurisdicional, recomendada pelo Conselho Nacional de Justiça e pelo Conselho da Justiça Federal - é faculdade conferida ao Juízo da causa, não podendo o Juízo deprecado determinar modalidade de oitiva diversa daquela que lhe foi deprecada.
+2. As hipóteses de recusa no cumprimento da carta precatória estão elencadas no art. 267 do Código de Processo Civil, aplicado supletivamente ao Processo Penal, nenhuma delas correspondendo ao caso dos autos.
+3. Conflito conhecido para declarar a competência do Juízo Federal da 4ª Vara da Seção Judiciária do Estado do Pará, o Suscitante." (CC 145.457/PA, Terceira Seção, Rel. Ministro Joel Ilan Paciornik, julgado em 27/09/2017, DJe 16/10/2017, grifei)
+In casu, o Juízo suscitado deve ser declarado competente para cumprir a precatória nos termos em que foi expedida, não constituindo a videoconferência motivo legítimo para a recusa.
+Ante o exposto, conheço do conflito para declarar competente o Juízo de Direito da 2ª Vara de Barra do Corda - MA, o suscitado, para o cumprimento do ato deprecado.
+P. e I.
+EMENTA
+CONFLITO DE COMPETÊNCIA. CARTA PRECATÓRIA. AUDIÊNCIA ADMONITÓRIA. VIDEOCONFERÊNCIA DETERMINADA PELO JUÍZO DEPRECADO. RECUSA NÃO FUNDADA NAS HIPÓTESES DO ART. 267 DO CPC/2015. COMPETÊNCIA DO JUÍZO SUSCITADO.
