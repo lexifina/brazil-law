@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/03/2023 a 27/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Humberto Martins, Herman Benjamin e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto por Estado do Maranhão contra decisão monocrática, de minha relatoria, assim ementada:
+ADMINISTRATIVO. SERVIDOR PÚBLICO. PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OCORRÊNCIA. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
+No agravo interno, o Estado do Maranhão atribuí caráter infringente aos embargos de declaração apresentados pela parte ora recorrida contra o acórdão a quo. Dessa forma, defende a reforma da decisão ora impugnada, porque a rejeição dos declaratórios na origem deve ser mantida. Com efeito, o reconhecimento da ilegitimidade é matéria de ordem pública e deve ser realizado em qualquer grau de jurisdição. Defende, também, o não conhecimento do recurso especial com base no óbice da Súm. n. 126/STJ. Sustenta a impossibilidade de discussão acerca da legitimidade em razão de coisa julgada que declara a legitimidade do SINTSEP para ajuizar a ação coletiva em favor de seus representados.
+Não houve impugnação contra o agravo interno.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OMISSÃO CARACTERIZADA. NULIDADE DO ACÓRDÃO A QUO. AGRAVO INTERNO NÃO PROVIDO.
+1. No recurso especial, a parte ora recorrida suscitou violação do art. 1.022, II, do CPC/2015 ao elencar omissão no acórdão a quo quanto à impossibilidade de o Tribunal de origem conhecer de matéria que não lhe foi devolvida pelo agravo interno, tendo em vista a ocorrência da preclusão.
+2. O Tribunal de origem declarou que a aferição de legitimidade do sindicato é questão de ordem pública, porém não se manifestou acerca da preclusão da matéria acerca da legitimidade porque não foi matéria devolvida ao exame do Tribunal de origem em sede de agravo de instrumento.
+3. Houve, portanto, violação do art. 1.022 do CPC/2015, o que impõe o reconhecimento de nulidade do acórdão, bem com a determinação de novo julgamento dos embargos de declaração para que seja sanada as omissões.
+4. Agravo interno não provido.
+VOTO
+O presente agravo não merece lograr êxito.
+Em que pese o arrazoado, observa-se que a parte agravante não trouxe argumentos novos capazes de infirmar os fundamentos que embasaram a decisão agravada, o que faz subsistir o entendimento nela externado.
+No recurso especial, a parte ora recorrida suscitou violação do art. 1.022, II, do CPC/2015 ao elencar omissão no acórdão a quo quanto à impossibilidade de o Tribunal de origem conhecer de matéria que não lhe foi devolvida pelo agravo interno, tendo em vista a ocorrência da preclusão.
+Contudo, o Tribunal de origem declarou que a aferição de legitimidade do sindicato é questão de ordem pública, porém não se manifestou acerca da preclusão da matéria acerca da legitimidade porque não foi matéria devolvida ao exame do Tribunal de origem em sede de agravo de instrumento.
+Houve, portanto, violação do art. 1.022 do CPC/2015, o que impõe o reconhecimento de nulidade do acórdão, bem com a determinação de novo julgamento dos embargos de declaração para que seja sanada as omissões. Sobre o tema, os seguintes precedentes:
+PROCESSUAL CIVIL E ADMINISTRATIVO. VIOLAÇÃO DO ART. 535 DO CPC.CARACTERIZAÇÃO. GRATIFICAÇÃO DE DESEMPENHO TÉCNICO ADMINISTRATIVO - GDATA.LIMITAÇÃO TEMPORAL. LEI 11.357/2006. ENTRADA EM VIGOR APÓS O JULGAMENTO DAAPELAÇÃO E DOS EMBARGOS INFRINGENTES NA ORIGEM. TEMA SUSCITADO EM SEDE DEEMBARGOS DE DECLARAÇÃO. PRECLUSÃO. NÃO OCORRÊNCIA.
+1. Sabe-se que os embargos de declaração constituem instrumento processual com o escopo de eliminar do julgamento obscuridade, contradição ou omissão sobre tema cujo pronunciamento se impunha pela decisão ou, ainda, de corrigir evidente erro material. Serve, dessa forma, como instrumento de aperfeiçoamento do julgado (CPC, art. 535).
+2. No caso dos autos, muito embora provocada a Corte de origem por meio de embargos declaratórios, não houve manifestação acerca da limitação temporal para concessão da Gratificação de Desempenho Técnico Administrativo - GDATA decorrente da edição da Lei 11.357/2006, que promoveu a reestruturação dos cargos no âmbito do Poder Executivo, instituindo o Plano Geral de Cargos de Poder Executivo - PGPE, e criando a Gratificação de Desempenho de Atividade Técnico-Administrativa e de Suporte - GDPGTAS, o que, no entender do recorrente, impediria a percepção de GDATA pelos integrantes do PGPE.
+3. Insta destacar que os embargos infringentes de iniciativa da União interpostos contra acórdão que, por votação não unânime, deu provimento à apelação cível foram protocolizados em 21/9/2006, ou seja, em data anterior à publicação da Lei 11.357, de 19/10/2006. Assim, somente nos embargos de declaração opostos contra acórdão que apreciou os embargos infringentes, caberia a União levantar o tema referente à delimitação da GDATA, diante da entrada em vigor da novel legislação. Não há, portanto, falar em preclusão da matéria.
+4. Agravo regimental não provido.
+(AgRg no AgRg no AREsp 241.138/PB, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 04/12/2012, DJe 10/12/2012)
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO RECURSOESPECIAL. EXECUÇÃO FISCAL. TERRENO DE MARINHA. DISCUSSÃO SOBRE ARESPONSABILIDADE SOBRE O RECOLHIMENTO DA TAXA ANUAL DE OCUPAÇÃO. ALEGAÇÃODE VIOLAÇÃO DO ARTIGO 535 DO CPC. VÍCIO EXISTENTE. ACÓRDÃO ANULADO.RETORNO DOS AUTOS À ORIGEM.
+1. Os presentes embargos declaratórios merecem acolhimento, porquanto este colegiado incidiu em erro material ao concluir pela ausência de afronta ao art. 535, II, do CPC e reconhecer que o Tribunal de origem se manifestou de maneira clara e fundamentada sobre todas as questões postas a julgamento.
+2. No caso em análise, em que se discute a responsabilidade pelo pagamento de Taxa de Ocupação relativa a período posterior à transferência de terreno de marinha, verifica-se que o executado desde do início defendia sua ilegitimidade passiva sobre vários argumentos, dentre eles o de que, tanto na execução fiscal quanto no processo administrativo para cobrança da taxa de ocupação, foi informado a qualificação do atual ocupante, bem como que o Processo Administrativo de cobrança de foros em atraso reconheceu que os valores posteriores a 1997 eram de responsabilidade de Mario Cesar Couto Guimarães.
+3. Contudo, a Corte a quo, mesmo após ser instada mediante aclaratórios sobre as questões, deixou de se pronunciar sobre a matéria relevante à solução da controvérsia, do que resulta na necessária anulação do acórdão que julgou os embargos de declaração, a fim de que haja manifestação sobre os pontos levantados pela executada.
+4. Embargos de declaração acolhidos, com efeitos infringentes, para dar provimento ao recurso especial, ante o reconhecimento da violação ao art.535, II, do CPC, com o consequente retorno dos autos ao Tribunal de origem.
+(EDcl no REsp 1.201.256/RJ, 1ª Turma, Rel. Min. Benedito Gonçalves, DJe02.03.2012)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL.ARTIGO 535 DO CÓDIGO DE PROCESSO CIVIL. VIOLAÇÃO RECONHECIDA.
+1 - Caracterizada está a violação do artigo 535 do Código de Processo Civil quando o Tribunal de origem não aprecia matéria relevante ao deslinde da controvérsia oportunamente suscitada.
+2 - Agravo regimental a que se nega provimento.
+(AgRg no REsp 1.173.019/RS, 5ª Turma, Rel. Min. Marco Aurélio Bellizze, DJe 28.02.2012)
+PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. HONORÁRIOS ADVOCATÍCIOS.PRESCRIÇÃO. APELAÇÃO. EMBARGOS DE DECLARAÇÃO. OMISSÃO. VIOLAÇÃO DO ART.535 DO CPC. RECURSO PROVIDO. RETORNO DOS AUTOS À ORIGEM. NOVO JULGAMENTO.
+1. Da análise do acórdão recorrido é possível constatar que a questão da ocorrência de prescrição, suscitada nas contrarrazões ao recurso de apelação e reiterada por ocasião dos embargos de declaração, não foi, efetivamente, discutida pelo Tribunal de origem.
+2. Quanto à relevância do tema, impende apontar que a omissão, indubitavelmente, acarretou ao recorrente nítido prejuízo, pois, ausente o prequestionamento, impossível a revisão da questão diretamente em recurso especial, sendo que esta Corte já firmou o entendimento de que mesmo as chamadas questões de ordem pública devem estar prequestionadas, a fim de viabilizar sua análise nesta Instância Especial.
+3. A existência de omissão relevante à solução da controvérsia, não sanada pelo acórdão recorrido, caracteriza a violação do art. 535 do CPC.
+4. Recurso especial provido, para, em consequência do reconhecimento da violação do artigo 535 do CPC, determinar o retorno dos autos ao Tribunal de origem a fim de que seja proferido novo julgamento.
+(REsp 1.171.712/RS, 3ª Turma, Rel. Min. Nancy Andrighi, DJe 02.02.2012)
+Logo, o provimento do recurso especial pela decisão ora recorrida deve ser mantido, pois o acórdão proferido em sede de embargos de declaração deve ser anulado por omissão, e os autos devem retornar à origem para novo julgamento.
+Esclareço, outrossim, que a decisão que se pretende cassar é com base no art. 932, inciso III, c.c. o art. 1.030, § 2º, do Código de Processo Civil de 2015, não trazendo a parte qualquer motivo hábil para sua anulação.
+Com essas considerações, nego provimento ao agravo interno.
+É como voto.
