@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/03/2023 a 27/03/2023, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Humberto Martins, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno contra decisão monocrática da Presidência que conheceu do Agravo para não conhecer do Recurso Especial.
+O Agravante alega, em síntese:
+2.1. Em relação ao princípio da dialeticidade cabe esclarecer que, contrário do que entendeu o nobre Presidente desta Corte, o recorrente impugnou especificamente e de forma pormenorizada o acórdão recorrido, esclarecendo no apelo que não há repetitivo contrário à tese recursal, bem como não há violação à Súmula 7 do STJ, notadamente porque a matéria discutida é unicamente de direito, qual seja, violação ao art. 7º, III, da Lei 6.830/1980 e aos arts. 830 e 854 do nCPC (art. 105, III, "a" da CF) e violação à própria jurisprudência desta Corte - REsp 1.822.034/SC (art. 105, III, "c", da CF), não havendo falar em re/análise de fatos, portanto o apelo merece trânsito (itens 2.2 e 3.3 do REsp). Veja-se.
+(..)
+7. Frise-se, ademais, que em nenhum momento o recorrente pretendeu a reforma da decisão da Corte Paulista utilizando como "parâmetro apenas princípio jurídico, ao revés. Nos apelos especiais interpostos (REsp e AREsp) o recorrente deixou claro que a decisão da Corte Paulista viola o art. 7º, III, da Lei 6.830/1980 e os arts. 830 e 854 do nCPC (art. 105, III, "a" da CF) e viola a própria jurisprudência desta Corte - REsp 1.822.034/SC (art. 105, III, "c", da CF). (fls. 47-48, e-STJ)
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. DECISÃO AGRAVADA. FUNDAMENTOS. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. RAZÕES. DEFICIÊNCIA. SÚMULAS 182/STJ E 283 e 284 DO STF.
+1. Trata-se de Agravo Interno contra decisão monocrática da Presidência que conheceu do Agravo para não conhecer do Recurso Especial.
+2. A decisão ora agravada é aquela proferida pela Presidência do Superior Tribunal de Justiça, que assentou: "Na espécie, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente. Nesse sentido: "Quanto à segunda controvérsia, o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentido de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública." (AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/05/2020.)" (fl. 43, e-STJ).
+3. Dessa forma, cabe à parte, no presente momento, demonstrar que impugnou o fundamento da decisão agravada (óbice processual apontado nela).
+4. Porém, no caso concreto, a linha argumentativa é deficiente, pois deixa de refutar os fundamentos da decisão agravada.
+5. Nas razões do Agravo Interno, verifica-se que a parte agravante deixou de impugnar a decisão recorrida, limitando-se a reafirmar os argumentos do Recurso Especial, sem contrapor especificamente os fundamentos que dão supedâneo ao decisum hostilizado.
+6. Não pode ser admitido o Agravo Interno que não ataca especificamente os fundamentos da decisão agravada e traz razões totalmente dissociadas da decisão contra a qual se insurge, pois fere o disposto no art. 1.021, § 1º, do CPC/2015 ("Na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada").
+7. Outrossim, tal atitude fere as Súmula 182/STJ e das Súmulas 1 283 e 284 do STF, ante a deficiência na motivação e a ausência de impugnação.
+8. Agravo Interno não conhecido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 3.3.2023.
+A decisão ora agravada é aquela proferida pela Presidência do Superior Tribunal de Justiça, que assentou: "Na espécie, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente. Nesse sentido: "Quanto à segunda controvérsia, o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentido de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública." (AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/05/2020.)" (fl. 43, e-STJ).
+Dessa forma, cabe à parte, no presente momento, demonstrar que impugnou o fundamento da decisão agravada (óbice processual apontado nela).
+Porém, no caso concreto, a linha argumentativa é deficiente, pois deixa de refutar os fundamentos da decisão agravada.
+Nas razões do Agravo Interno, verifica-se que a parte agravante deixou de impugnar a decisão recorrida, limitando-se a reafirmar os argumentos do Recurso Especial, sem contrapor especificamente os fundamentos que dão supedâneo ao decisum hostilizado.
+Não pode ser admitido o Agravo Interno que não ataca especificamente os fundamentos da decisão agravada e traz razões totalmente dissociadas da decisão contra a qual se insurge, pois fere o disposto no art. 1.021, § 1º, do CPC/2015 ("Na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada").
+Outrossim, tal atitude fere as Súmulas 182/STJ, 283 e 284 do STF, ante a deficiência na motivação e a ausência de impugnação.
+PROCESSUAL CIVIL. CONTROVÉRSIA 101 CANCELADA. AGRAVO INTERNO. RAZÕES DE RECURSO DISSOCIADAS DOS FUNDAMENTOS SUFICIENTES CONTIDOS NA DECISÃO AGRAVADA. ART. 1.021, § 1º, DO CPC/2015 E SÚMULAS 283 E 284/STF.
+1. Na hipótese dos autos, inicialmente, cumpre salientar que a controvérsia relativa à legitimidade ativa de servidor autárquico para executar a Sentença coletiva n. 0025519-49.2002.8.26.0602, proferida pela 6ª Vara Cível de Sorocaba/SP - que condenou o Município de Sorocaba a realizar o enquadramento funcional de agentes públicos -, foi cancelada devido ao disposto no art. 256-E, I, do RISTJ, que prevê hipótese de rejeição, de forma fundamentada, da indicação do Recurso Especial representativo da controvérsia devido à ausência dos pressupostos recursais genéricos ou específicos e ao não cumprimento dos requisitos regimentais (Controvérsia 101).
+2. Extrai-se do decisum vergastado que o recurso foi inadmitido em virtude dos óbices das Súmulas 284/STF e 211/STJ, bem como da ausência de comprovação da divergência jurisprudencial. Todavia, nas razões do Agravo Interno, verifica-se que a parte agravante deixou de impugnar a decisão recorrida, limitando-se a reafirmar os argumentos do Recurso Especial, sem contrapor especificamente os fundamentos que dão supedâneo ao decisum hostilizado.
+3. Não pode ser admitido o Agravo Interno que não ataca especificamente os fundamentos da decisão agravada e traz razões totalmente dissociadas da decisão contra a qual se insurge, pois fere o disposto no art. 1.021, § 1º, do CPC/2015 ("Na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada").
+4. Outrossim, tal atitude fere os óbices das Súmulas 283 e 284 do STF, ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo.
+5. Agravo Interno não conhecido.
+(AgInt no AREsp 1.841.126/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 17/12/2021.)
+PROCESSUAL CIVIL. DECISÃO AGRAVADA. FUNDAMENTOS. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. RAZÕES. DEFICIÊNCIA.
+1. Nos termos do art. 1.021, § 1º, do CPC/2015 e da Súmula 182 do STJ, o agravante deve infirmar, nas razões do agravo interno, os fundamentos da decisão impugnada, sob pena de não ser conhecido o seu recurso.
+2. Hipótese em que o recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, os motivos da decisão ora agravada.
+3. "A apresentação de razões recursais dissociadas da fundamentação adotada na decisão agravada configura fundamentação recursal deficiente, a não permitir a exata compreensão da controvérsia e inviabilizando o conhecimento do recurso especial. Aplicação da Súmula 284 do STF, por analogia. Precedentes." (AgInt no REsp 1.888.452/RS, Relator Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 18/11/2021).
+4. Agravo interno não conhecido.
+(AgInt no AREsp 1.903.995/SP, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 30/3/2022.)
+Ante o exposto, não conheço do Agravo Interno.
+É como voto.
