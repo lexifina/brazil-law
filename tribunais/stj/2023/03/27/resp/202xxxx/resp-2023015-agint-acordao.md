@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/03/2023 a 27/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Humberto Martins, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que negou provimento ao recurso especi al da Fazenda Nacional.
+O recurso especial foi interposto contra acórdão do Tribunal Regional Federal da 4ª Região (TRF4), assim ementado:
+TRIBUTÁRIO. JULGAMENTO REALIZADO PELO RITO DO ART. 942 DO CPC/2015. MANDADO DE SEGURANÇA. SALÁRIO-EDUCAÇÃO. ART. 15 DA LEI 9.424/1996. PESSOA FÍSICA. CONTRIBUIÇÃO INDEVIDA.1. A contribuição salário educação somente é devida pela empresa, assim entendida a firma individual ou sociedade que assume o risco de atividade econômica urbana ou rural, com fins lucrativos ou não.2. O titular dos serviços notariais e de registro (cartórios) explora a atividade como pessoa física, não havendo relação jurídico-tributária que o obrigue ao recolhimento da contribuição ao salário-educação incidente sobre a remuneração paga ou creditada aos seus empregados (folha de salários).
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 255, § 4º, I e II, do RISTJ, conheço parcialmente do recurso especial e, nessa parte, nego-lhe provimento."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+Quanto ao óbice da Súmula 7 dessa Corte, não se pode olvidar que a Corte Regional, a dispor sobre a atuação da empresa, nos termos acima citados - repete-se "não procede a alegação da impetrante de que, tendo-lhe sido a função delegada pessoalmente, não pode revestir a forma de pessoa jurídica, até porque as responsabilidades da sua função são pessoais. O argumento é equivocado, porque se a função de notário é delegada em caráter pessoal, isso significa apenas que ele, no exercício privado dessa função, será sempre um empresário individual" caracterizou a atividade empresarial exercida, restando a essa Corte Superior apenas a aplicação do direito aos fatos já definidos.
+ ..
+No mais, quanto ao mérito, é de se reconhecer que, ao afastar a aplicação do art. 15 da Lei 8.212/91 e art. 15 da Lei 9.242, de 1996, e, consequentemente, a incidência da contribuição do salário-educação devida pelo recorrido, o acórdão regional desconsiderou que o entendimento dessa Corte Superior é no sentido de que ainda que na condição de pessoa física, está sujeito ao recolhimento da contribuição ao salário-educação, calculada sobre a folha de pagamento de seus empregados, nos termos dos dispositivos citados.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. MANDADO DE SEGURANÇA. FNDE. SALÁRIO-EDUCAÇÃO. ART. 15 DA LEI N. 9.424/1996. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de m andado de segurança em que se pleiteia o reconhecimento da inexistência de relação jurídico-tributária entre a impetrante, na condição de empregador pessoa física titular de serventia judicial/extrajudicial, e o FNDE, quanto à ilegalidade do pagamento das contribuições do salário-educação. Na sentença, a segurança foi denegada. No Tribunal a quo, a sentença foi reformada. Opostos embargos de declaração, foram rejeitados. Recurso especial conhecido parcialmente e, nessa parte, negado provimento.
+II - No que concerne à alegada violação do art. 15 da Lei n. 8.212/91 e art. 15 da Lei n. 9.424/1996, a Corte de origem fundamentou o acórdão vergastado essencialmente na análise do conjunto fático-probatório que instrui os autos, no que a pretensão recursal, que objetiva enquadrar a atividade da agravada como passível de cobrança da contribuição salário-educação, exarado pela instância ordinária, implicaria o revolvimento de fatos e provas para que fosse acolhida.
+III - Com efeito, para se concluir de modo diverso e amparar as pretensões deduzidas, com a consequente inversão do resultado do julgamento, seria necessária a incursão na seara fático-probatória dos autos, o que é vedado consoante teor da Súmula n. 7/STJ. (A pretensão de simples reexame de prova não enseja recurso especial).
+IV - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+No que concerne à alegada violação do art. 15 da Lei n. 8.212/91 e art. 15 da Lei n. 9.424/1996, a Corte de origem fundamentou o acórdão vergastado essencialmente na análise do conjunto fático-probatório que instrui os autos, no que a pretensão recursal, que objetiva enquadrar a atividade da agravada como passível de cobrança da contribuição salário-educação, exarado pela instância ordinária, implicaria o revolvimento de fatos e provas para que fosse acolhida.
+Com efeito, para se concluir de modo diverso e amparar as pretensões deduzidas, com a consequente inversão do resultado do julgamento, seria necessária a incursão na seara fático-probatória dos autos, o que é vedado consoante teor da Súmula n. 7/STJ. (A pretensão de simples reexame de prova não enseja recurso especial).
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
