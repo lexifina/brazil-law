@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/03/2023 a 27/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por QUALITY PARTICIPAÇÕES LTDA. contra decisão monocrática proferida por este signatário, assim ementada (e-STJ, fls. 708-713):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. INAPLICABILIDADE DO ART. 932, III, DO CPC/2015. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. OMISSÃO E NEGATIVA DE PRESTAÇÃO JURISDICIONAL. VÍCIOS NÃO CONFIGURADOS. RESPONSABILIDADE PELOS DÉBITOS ASSOCIATIVOS. CONCLUSÃO PAUTADA EM FATOS E PROVAS, BEM COMO INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. REVISÃO INVIÁVEL. SÚMULAS 5 E 7/STJ. AGRAVO CONHECIDO, EM JUÍZO DE RETRATAÇÃO, PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+Irresignada, a agravante alega que, embora a decisão recorrida tenha concluído que não havia omissões no acórdão objurgado, estas estariam presentes.
+Sustenta que o julgado do Tribunal de Justiça do Estado de Minas Gerais teria ignorado as provas juntadas aos autos e a argumentação empreendida na peça contestatória e nas razões de apelação.
+Aduz que, no caso em apreço, não haveria falar em reintegração automática da posse por for ça de cláusula contratual expressa, tendo em vista que a agravada teria continuado ocupando o imóvel, consoante atestado através de prova testemunhal.
+Pondera que não seria necessário o revolvimento do acervo fático-probatório e das cláusulas contratuais pactuadas para análise do caso.
+Impugnação às fls. 752-763 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE PELOS DÉBITOS ASSOCIATIVOS. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. OMISSÃO E NEGATIVA DE PRESTAÇÃO JURISDICIONAL. VÍCIOS NÃO CONFIGURADOS. REVISÃO DAS CONCLUSÕES ESTADUAIS. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS E DAS CLÁUSULAS DO CONTRATO FIRMADO. SÚMULAS 5 E 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada a violação ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. Para infirmar as conclusões a que chegou o acórdão recorrido, seria imprescindível o revolvimento do conjunto fático-probatório dos autos e a interpretação das cláusulas do contrato firmado entre as partes, o que é vedado nesta instância especial, conforme dispõem as Súmulas 5 e 7/STJ.
+3. Agravo interno desprovido.
+VOTO
+De fato, a decisão monocrática deve ser mantida.
+Com efeito, conforme asseverado na decisão agravada, depreende-se que a apontada afronta ao art. 1.022, do CPC/2015 não ficou caracterizada, uma vez que a jurisprudência desta Corte Superior é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Convém registrar que, apesar de rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo colegiado de origem, que sobre ela emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da recorrente.
+Confira-se (e-STJ, fls. 504-516; sem grifos no original):
+A controvérsia recursal diz respeito à responsabilidade pelo pagamento das taxas condominiais atreladas à propriedade do imóvel adquirido pela 1ª Apelante e vendido pela 2ª Apelante, integrante do Condomínio Encanto da Lagoa, que recebe benefício dos serviços prestados pela Associação Encanto da Lagoa, ora Apelada.
+Nesta ação, proposta pela Apelada em face das 1ª e 2ª Apelantes, são cobrados os valores referentes às taxas condominiais dos meses de Outubro/2010 a Agosto/2015, além das que se vencerem no curso da ação e que não tiverem sido adimplidas.
+(..)
+Como se vê, restou comprovado o ato de associar-se à Associação Encanto da Lagoa, sendo, portanto, a 1ª Apelante responsável pelo pagamento das taxas condominiais respectivas no período em que esteve na posse do imóvel comprado.
+(..)
+Portanto, a compradora foi imitida na posse tão logo implementou o pagamento da segunda parcela iniciando daí a obrigação de pagaras taxas condominiais da Associação Encanto da Lagoa, ora Apelada. E, estando a 2ª Apelada reintegrada na posse desde o inadimplemento da compradora, dispensada prévia notificação, procedimento judicial ou extrajudiciaI, conforme cláusula 5ª do contrato, impunha-se a ela assumir as parcelas subsequentes.
+(..)
+Como se vê, além da imissão imediata na posse do imóvel em caso de inadimplemento, ainda restou pactuado que o inadimplemento superior a sessenta dias ensejaria a rescisão de pleno direito do contrato. Dessa forma, no caso, a sentença que reconheceu a rescisão do contrato não tem efeitos constitutivos, como pretende a 2ª Apelante, e sim declaratórios, pois nos termos do contrato a rescisão já teria se operado e ela já teria se imitido na posse do lote.
+(..)
+No entanto, considerando que aquela ação fora proposta somente em 03.11.2009, entende-se que a vendedora Quality, ora 2ª Apelante, concedeu prazo mais extenso para que a compradora Kelly, ora 1ª Apelante, honrasse os compromissos assumidos quando da assinatura da avença, na tentativa de preservar o contrato, não podendo por isso ser penalizada.
+Consequentemente, em face das peculiaridades do caso, melhor que se entenda que a sentença rescisória do contrato é declaratória e retroage à data da propositura da ação, data em que a vendedora efetivamente requereu a prestação jurisdicional de ver declarado seu direito de considerar rescindido o contrato por força do inadimplemento da compradora.
+Assim, a compradora, ora 1ª Apelante deveria suportar as despesas condominiais no período entre a aquisição do lote (23.04.05) e a propositura da ação rescisória do contrato (03.11.2009), sendo da vendedora, ora 2ª Apelante, a responsabilidade pelo pagamento das despesas condominiais posteriores a 03.11.2009.
+E, considerando que nesta ação estão sendo cobradas despesas condominiais vencidas no período de outubro de 2010 a agosto/2015, no valor de R$41.929,35, além das que se vencerem no curso da ação (ordem n.1), impõe-se reconhecer que pagamento das referidas despesas cabe apenas à 2ª Apelante.
+Diante do exposto, dá-se provimento à primeira Apelação para afastar a condenação imposta à 1ª Apelante e declarar que a divida cobrada a partir de outubro de 2010 cabe apenas à 2ª Apelante, e, nega-se provimento à segunda apelação.
+Desse modo, forçoso reconhecer que, para infirmar as conclusões a que chegou o acórdão recorrido, seria imprescindível o revolvimento do conjunto fático-probatório dos autos e a interpretação das cláusulas do contrato firmado entre as partes, o que é vedado nesta instância extraordinária, segundo dispõem as Súmulas 5 e 7 do Superior Tribunal de Justiça.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. 1. IMÓVEL. PROMESSA DE COMPRA E VENDA. ENTREGA DA OBRA. ATRASO RECONHECIDO. DANO MORAL E MATERIAL CARACTERIZADOS. REVISÃO DA MATÉRIA. IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS 5 E 7/STJ. 2. REVALORAÇÃO DA PROVA. AFASTAMENTO. 3. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. PRECEDENTES. 4. RAZÕES RECURSAIS INSUFICIENTES. 5. AGRAVO IMPROVIDO.
+1. Modificar o entendimento do Tribunal local, acerca do reconhecimento de atraso na entrega da obra, não prescindiria do reexame de matéria fático-probatória, o que é inviável devido ao óbice da Súmula 7/STJ, não sendo o caso de revaloração da prova.
+1.2. A cláusula que estabelece prazo para entrega do imóvel somente após a obtenção do recurso financeiro foi considerada abusiva pela Corte estadual, com base no entendimento consolidado pelo Superior Tribunal de Justiça.
+1.3. A comprovação dos gastos da parte agravada com o pagamento de aluguéis no período de atraso na entrega da obra caracteriza o dano material, e o fato de que a demora foi de mais de 1 (um) ano - mais precisamente 1 (um) ano e 5 (cinco) meses - , conforme consignado pela sentença, demonstra a ocorrência do dano moral.
+1.4. Ademais, "o simples inadimplemento contratual em razão do atraso na entrega do imóvel não é capaz, por si só, de gerar dano moral indenizável, sendo necessária a comprovação de circunstâncias específicas que possam configurar a lesão extrapatrimonial, como na hipótese dos autos, em que o atraso foi superior a 1 (um) ano e 7 (sete) meses após o prazo de tolerância" (AgInt no AREsp 1.742.299/DF, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 7/6/2021, DJe 1º/8/2021).
+2. Nos termos da jurisprudência do Superior Tribunal de Justiça, "a incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte" (AgInt no AREsp 1.861.293/RS, Ministra Nancy Andrighi, DJe de 22/9/2021).
+3. Razões recursais insuficientes para a revisão do julgado.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1695022/MT, desta relatoria, TERCEIRA TURMA, julgado em 21/02/2022, DJe 23/02/2022)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ATRASO NA ENTREGA DO IMÓVEL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+2. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou revolvimento do contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+3. No caso concreto, a análise das razões apresentadas pelas recorrentes, quanto à inexistência de mora e ao dever dos agravados de pagar as despesas de IPTU do bem, ante a previsão contratual, demandaria o reexame da matéria fática, o que é vedado em sede de recurso especial.
+4. Segundo a jurisprudência desta Corte Superior, "as despesas de condomínio e IPTU são de responsabilidade da construtora até a entrega do imóvel ao adquirente. Isso porque, apesar de ter o IPTU como fato gerador a propriedade, o domínio útil ou a posse do imóvel (CTN, art. 32), se os recorridos não deram causa para o não recebimento do imóvel, não podem ser obrigados a pagar as despesas condominiais nem o citado imposto referente ao período em que não haviam sido imitidos na posse" (AgInt nos EDcl no REsp n. 1.839.792/RJ, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 10/8/2020, DJe 17/8/2020).
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp 1931878/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 4/10/2021, DJe 8/10/2021)
+Assim, tendo em vista que as alegações feitas no presente agravo interno não são capazes de modificar o convencimento anteriormente manifestado, permanece inalterada a decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
