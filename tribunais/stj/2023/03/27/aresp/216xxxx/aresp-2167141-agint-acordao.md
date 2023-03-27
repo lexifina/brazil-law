@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/03/2023 a 27/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Humberto Martins, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno interposto de decisão de fls. 609-611, e-STJ, que não conheceu do Agravo previsto no art. 1.042 do CPC/2015, tendo em vista a falta de impugnação específica da decisão negativa de admissibilidade do Recurso Especial proferida pelo Tribunal de origem.
+A agravante sustenta, em suma, ter impugnado todos os fundamentos no Agravo em Recurso Especial.
+Transcorreu o prazo sem apresentação de Impugnação ao Agravo (fl. 629, e-STJ).
+Pugna pela reconsideração da decisão agravada ou provimento, pelo colegiado, do Agravo Interno.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO A FUNDAMENTO DA DECISÃO DENEGATÓRIA DE ORIGEM. SÚMULA 182 DO STJ. INCIDÊNCIA. AGRAVO INTERNO NÃO PROVIDO. DECISÃO DA PRESIDÊNCIA DO STJ MANTIDA.
+1. O Recurso Especial da agravante não foi admitido com base nos seguintes argumentos: I) inviabilidade do apelo nobre por ofensa a dispositivos constitucionais; II) incidência do óbice das Súmulas 7 e 83 do STJ; e III) ausência de violação dos arts 489 e 1.022 do CPC.
+2. Constata-se que, na petição de Agravo em Recurso Especial (fls. 558-594, e-STJ), não há impugnação acerca da falta de cabimento do Recurso Especial para apreciar a violação de dispositivos constitucionais. Quanto à Súmula 7/STJ, observa-se o desenvolvimento de argumentos genéricos em sentido contrário.
+3. Sedimentou-se, na Corte Especial do STJ, o entendimento de que "a decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais" (EAREsp 701.404/SC, EAREsp 746.775/SC e EAREsp 831.326/SC, Rel. p/ acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe de 30/11/2018).
+4. Importante registrar que o momento adequado para impugnar os fundamentos da decisão que inadmite o Recurso Especial é a interposição do Agravo em Recurso Especial, sob pena de preclusão, caso feita posteriormente.
+5. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Não obstante os argumentos expendidos, o inconformismo não merece guarida.
+Na origem, a agravante busca a nomeação em concurso público apoiando-se na alegação de ter surgido cargo vago durante o prazo de validade do concurso, o que gerou o direito à nomeação.
+O Recurso Especial da agravante não foi admitido com base nos seguintes argumentos: I) inviabilidade do apelo nobre por ofensa a dispositivos constitucionais; II) incidência do óbice das Súmulas 7 e 83 do STJ; e III) ausência de violação dos arts 489 e 1.022 do CPC.
+Constata-se que, na petição de Agravo em Recurso Especial (fls. 558-594, e-STJ), não há impugnação acerca da falta de cabimento do Recurso Especial para apreciar a violação a dispositivos constitucionais. Quanto à Súmula 7/STJ, observa-se o desenvolvimento de argumentos genéricos em sentido contrário.
+No caso, a decisão agravada especificou que o conhecimento do apelo envolve reexame de fatos e provas, por exigir que o STJ modifique a conclusão do Tribunal de origem no que concerne à existência de cargo vago e/ou preterição de vaga. Exige-se, pelo princípio da dialeticidade, que a parte desenvolva argumentos específicos que contraponham os fundamentos da decisão agravada.
+O Superior Tribunal de Justiça perfilha o entendimento de ser necessária a impugnação específica de todos os fundamentos da decisão que inadmitiu o Recurso Especial, sob pena de não conhecimento pela aplicação da Súmula 182/STJ.
+Com efeito, sedimentou-se, na Corte Especial do STJ, o entendimento de que "a decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais" (EAREsp 701.404/SC, EAREsp 746.775/SC e EAREsp 831.326/SC, Rel. p/ acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe de 30/11/2018).
+Na mesma linha: AgInt no REsp n. 1.783.482/MS, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 15/6/2022.
+Importante registrar que o momento adequado para impugnação dos fundamentos da decisão que inadmite o Recurso Especial é a interposição do Agravo em Recurso Especial, sob pena de preclusão, caso feita posteriormente.
+De todo o exposto, conclui-se que o Agravo em Recurso Especial não merece conhecimento, devendo ser mantida a decisão da Presidência.
+Ante o exposto, nego provimento ao Agravo Interno.
+É como voto.
