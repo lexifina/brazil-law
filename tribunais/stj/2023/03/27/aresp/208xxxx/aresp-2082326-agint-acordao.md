@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/03/2023 a 27/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto por SENGÉS FLORESTADORA E AGRÍCOLA LTDA. em face da decisão de minha lavra, que conheceu do agravo e negou provimento ao recurso especial em virtude da incidência da Súmula 7 do STJ (fls. 333/336).
+Nas razões do presente agravo, a agravante sustenta que os honorários periciais remanescentes devem ser arcados pela parte sucumbente, nos termos do art. 33 do Código de Processo Civil/1973 e dos arts. 82, § 2º, 84 e 1.047 do Código de Processo Civil/2015.
+Afirma que não incide o óbice da Súmula 7 do STJ, sendo possível analisar a responsabilidade da parte sucumbente ao pagamento dos honorários remanescentes.
+Pugna pelo restabelecimento da primeira sentença proferida, uma vez que não é possível a sua reconsideração pelo Juiz prolator, sendo devido o pagamento do saldo remanescente da perícia pela parte sucumbente.
+Requer a reconsideração da decisão agravada ou o julgamento do agravo interno pela Turma.
+A impugnação não foi apresentada (fls. 357/360).
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. HONORÁRIOS PERICIAIS. INVERSÃO DO ÔNUS DA PROVA. PRECLUSÃO. PERÍCIA REQUERIDA PELA PARTE HIPOSSUFICIENTE. CUSTEIO PELA PARTE ADVERSA. CONCORDÂNCIA EXPRESSA. PRECLUSÃO. RESPONSABILIDADE PELO PAGAMENTO DO SALDO REMANESCENTE. SÚMULA 7 DO STJ. DECISÃO MANTIDA. AGRAVO NÃO PROVIDO.
+1. A decisão judicial pretérita que determinou a antecipação dos custos da perícia à parte ré, ora agravante, não fora impugnada no momento procedimental adequado (preclusão). Ao contrário, a parte anuiu as condições estabelecidas na decisão judicial e, então, realizou o depósito parcial do valor. Saldo remanescente devido.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): O presente recurso não merece prosperar.
+Cumpre reproduzir a decisão agravada, que segue mantida por seus próprios fundamentos:
+Trata-se de agravo interposto por SENGÉS FLORESTADORA E AGRÍCOLA LTDA. contra decisão que negou seguimento a recurso especial manejado em face de acórdão assim ementado (e-STJ, fls. 132/133):
+DIREITO CIVIL. DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. AÇÃO DE USUCAPIÃO EXTRAORDINÁRIA. HONORÁRIOS PERICIAIS. ANTECIPAÇÃO DO CUSTO DA PERÍCIA PELA PARTE RÉ. CONCORDÂNCIA EXPRESSA. PARTE AUTORA SUCUMBENTE E BENEFICIÁRIA DA GRATUIDADE DA JUSTIÇA. RESTITUIÇÃO DA VERBA PELO ESTADO DO PARANÁ. DECISÃO JUDICIAL MANTIDA.
+1. Recurso de agravo de instrumento interposto em face de decisão judicial interlocutória que manteve a determinação da antecipação do custeio dos honorários periciais à Parte Ré.
+2. A determinação judicial pretérita que determinou a antecipação dos custos da perícia à Parte Ré não fora impugnada no momento procedimental adequado (preclusão). Ao contrário, a Parte Ré anuiu as condições estabelecidas na douta decisão judicial e, então, realizou o depósito parcial dos valores.
+3. Não obstante à gratuidade da justiça deferida à Parte Autora, a resistência da Ré/Agravante em depositar o valor remanescente dos honorários periciais não soa adequado, pois, a obrigação do Estado do Paraná em suportar o ônus pericial em caso de sucumbência da Parte Autora não altera a obrigação imposta a Parte Ré no curso da demanda.
+4. Recurso de agravo de instrumento conhecido, e, no mérito, não provido
+Nas razões do recurso especial, a recorrente aponta violação dos arts. 82, § 2º, 84 e 94, todos do Código de Processo Civil/2015, sustentando que o ônus de pagamento da perícia é da parte sucumbente na demanda.
+Contrarrazões apresentadas.
+O recurso especial não foi admitido em virtude do óbice da Súmula 7 do STJ e das Súmulas 282 e 356 do STF.
+Nas razões deste agravo, a agravante impugnou os óbices sumulares apontados.
+Assim delimitada a controvérsia e ultrapassado o limite do conhecimento e provimento do presente agravo, passo ao julgamento do recurso especial.
+Em suas razões de recurso, a recorrente aduz que a responsabilidade pelo adimplemento dos honorários periciais remanescentes deve recair sobre a parte autora haja vista a improcedência da demanda inicial.
+Sobre o tema, o Tribunal de origem consignou que (i) a recorrente anuiu à decisão de saneamento do processo que determinou o pagamento dos honorários periciais, em virtude da gratuidade da parte autora; e (ii) há saldo remanescente a ser pago e que é devido pela recorrente, apesar do posterior julgamento improcedente da ação. Confira-se:
+No caso dos Autos, cinge-se a controvérsia acercado pagamento dos honorários periciais, em vista da discordância da Parte Ré em antecipar o pagamento do saldo remanescente.
+Dos Autos se extrai que fora atribuída a Parte Ré/Agravante a antecipação dos honorários periciais (seqs. 357.1 e 401.1), senão, veja-se:
+Seq. 401.1
+ ..
+Assim, em sendo a parte autora beneficiária da gratuidade da justiça e considerando que as empresas requeridas também pugnaram pela realização da perícia, o ônus para arcar com os honorários periciais cabe as mesmas. Outrossim, as requeridas possuem relevante poder econômico, não podendo alegar hipossuficiência financeira.
+ ..
+Assim, intime-se as requeridas para efetuarem o pagamento dos honorários periciais, de forma rateada, em até 10 (dez) dias, conforme requerido pelo perito na seq. 394.1. Caso a parte autora seja sucumbente, incumbirá ao Estado do Paraná o reembolso, ou até mesmo os autores, caso comprovado posteriormente que possuíam condições para tanto.
+ ..
+A Agravante anuiu às diretrizes da douta decisão judicial e, assim, manifestou-se nos Autos (seq. 416.1) da seguinte maneira:
+ ..
+Por meio do r. despacho do evento 357.1 este d. Juízo arbitrou os honorários periciais no valor de R$ 30.000,00 e determinou a intimação da parte interessada a depositar o valor de 50% do valor dos honorários periciais no início e os outros 50% ao final dos trabalhos, em 20 dias, sob pena de preclusão. Posteriormente, houve a complementação pela r. decisão do evento de 401.1, por meio da qual este d. Juízo determinou o rateio dos honorários periciais entre as rés. Visando dar cumprimento à determinação deste d. Juízo e a consequente realização da prova pericial, requer-se a juntada do comprovante de depósito de 25% dos honorários do Sr. Perito, sendo que os outros 25% serão pagos quando da entrega do laudo pericial".
+ ..
+Não obstante as razões recursais apresentadas, não se verifica razões para, então, modificar a decisão judicial objurgada.
+Dos Autos se extrai que as decisões judiciais proferidas são claras e objetivas em relação ao ônus e adiantamento dos valores da prova técnica. O fato da demanda ter sido julgada improcedente não conduz a obrigação da Parte Autora ou do Estado do Paraná antecipar o valor relativo a última parcela do acordo. Vale dizer, o saldo remanescente (R$ 7.500,00) está sob o encargo da Agravante conforme as provas e diligências produzidas pelo Juízo.
+Da fase de saneamento do feito, restou previamente estabelecido os valores da prova pericial bem como a forma e condições de pagamento, com a ressalva de que, em sendo vencedora a Parte Requerida, haveria a possibilidade de pedido de ressarcimento perante o Estado do Paraná em razão da gratuidade da justiça concedida a Parte Autora.
+ ..
+O ônus do Estado do Paraná em suportar os custos da perícia ao beneficiário da gratuidade da justiça não altera a obrigação imposta a Parte Ré em adiantar os honorários periciais e, em razão disso, permanece a obrigação em relação ao saldo remanescente em aberto (e-STJ, fls. 135/137 - sem destaques no original).
+Como se vê, o Tribunal de origem solucionou toda a controvérsia à luz das provas presentes nos autos e considerando, no caso, (i) anterior decisão determinando o pagamento dos honorários periciais pela ora recorrente e (ii) a sua inadimplência com parte do pagamento, concluindo que o saldo remanescente está sob o seu encargo, de sorte que a modificação das conclusões adotadas no acórdão recorrido demandaria a análise do conjunto fático-probatório dos autos, providência que esbarra no óbice da Súmula 7 do STJ.
+Ressalto que a recorrente não pode se eximir do pagamento do saldo remanescente, uma vez a inadimplência somente pode ser a ela atribuída, como destacado pelo Tribunal de origem, sob pena de violação ao princípio de que ninguém pode se beneficiar da própria torpeza.
+Em face do exposto, conheço do agravo e nego provimento ao recurso especial.
+Intimem-se.
+De início, ressalto que a decisão judicial pretérita que determinou a antecipação dos custos da perícia à parte ré, ora agravante, não fora impugnada no momento procedimental adequado, estando, portando, abrangida pela preclusão.
+No caso dos autos, a parte anuiu as condições estabelecidas na decisão judicial e, então, realizou o depósito parcial do valor referente à perícia judicial, confira-se:
+Bem analisando os autos, verifica-se que houve equívoco do juízo na decisão de mov. 744.1, razão pela qual revogo, nos termos da fundamentação a seguir exposta. Isso porque ao sanear o processo restou definido que as requeridas deveriam arcar com os honorários periciais, sendo que na oportunidade em que o Sr. Perito apresentou sua proposta sobre ela se manifestaram ao final anuindo com o valor e a forma de pagamento. Ainda, estavam cientes que na hipótese de improcedência da demanda poderiam requerer ao Estado o ressarcimento desses valores. Nesse cenário é que a prova pericial foi elaborada. Ocorre que uma das parcelas restou inadimplida sobrevindo o julgamento improcedente da demanda. Entretanto, a improcedência da demanda em nada altera a decisão preclusa na qual restou fixado a forma de pagamento dos honorários. A uma porque o Poder Judiciário deve assegurar às partes a segurança jurídica, seja na aplicação da lei ao expor os fundamentos da sua decisão de acordo com a lógica do sistema jurídico posto e dos entendimentos jurisprudenciais. A duas, poque a decisão sob a qual não mais cabe recurso não pode ser alterada. É a hipótese dos autos. Não bastasse isso, quando da decisão que restou preclusa quanto ao ônus pericial e forma de pagamento, criou-se uma expectativa no Sr. Perito auxiliar da Justiça que aceitou realizar o trabalho nos termos e condições fixados. Portanto, a obrigação do Estado em suportar o ônus pericial do beneficiário da assistência judiciária, não altera a obrigação imposta aos Requeridos no curso da demanda em adiantar os honorários periciais, cabendo a eles pugnar pelo ressarcimento junto ao Estado. 4. Pelo exposto conheço dos embargos, pois tempestivos e o mérito dou-lhes provimento para o fim de reconhecer o erro material e ao saná-lo revogar a decisão de mov. 704.1, substituindo-a pela decisão aqui proferida reconhecendo a obrigação da Requerida Sengés (fls. 133/134 - sem destaque no original)
+A discussão se refere, portanto, se a agravante é responsável pelo pagamento do saldo remanescente ou se a parte sucumbente deve arcar com tal valor.
+Como constou na decisão agravada, "o fato da demanda ter sido julgada improcedente não conduz a obrigação da Parte Autora ou do Estado do Paraná antecipar o valor relativo a última parcela do acordo. Vale dizer, o saldo remanescente (R$ 7.500,00) está sob o encargo da Agravante conforme as provas e diligências produzidas pelo Juízo" (fl. 335).
+Por esse motivo, constou na decisão ora agravada que o Tribunal de origem solucionou toda a controvérsia à luz das provas presentes nos autos e considerando, no caso, (i) anterior decisão determinando o pagamento dos honorários periciais pela ora recorrente e (ii) a sua inadimplência com parte do pagamento, concluindo que o saldo remanescente está sob o seu encargo.
+Com isso, forçoso reconhecer que a modificação das conclusões adotadas no acórdão recorrido quanto à concordância da agravante com a realização e valor da perícia; do posterior pagamento parcial do valor; e, portanto, da responsabilidade com o pagamento do saldo remanescente, demandaria a análise do conjunto fático-probatório dos autos, providência que esbarra no óbice da Súmula 7 do STJ.
+Por derradeiro, o tema relativo à impossibilidade de reconsideração da sentença pelo Juiz prolator não foi tratado no acórdão recorrido, não sendo possível a sua análise nessa fase de recurso.
+Assim, não trazendo a parte agravante nenhum fundamento capaz de desconstituir a decisão ora agravada, deve ela ser mantida por seus próprios fundamentos.
+Em face no exposto, nego provimento ao agravo interno.
+É como voto.
