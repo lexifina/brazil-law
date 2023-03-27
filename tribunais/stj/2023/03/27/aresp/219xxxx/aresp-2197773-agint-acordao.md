@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/03/2023 a 27/03/2023, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Humberto Martins, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que que não conheceu do agravo em recurso especial, fundamentado no art. 105, III, a, da Constituição Federal, visando reformar acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim resumido:
+APELAÇAO E RECURSO ADESIVO - AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS C.C. OBRIGAÇÃO DE FAZER  ROMPIMENTO DE TUBULAÇÃO DA REDE PÚBLICA DE DISTRIBUIÇÃO DE ÁGUA, RESPONSABILIDADE DA RÉ, EXISTENTE NA RUA DEFRONTE AO IMÓVEL DO AUTOR, QUE OCASIONOU INTERFERÊNCIA NA ESTRUTURA DE DO PRÉDIO - PROVA PERICIAL CONCLUSIVA NO SENTIDO DE QUE OS PROBLEMAS OCASIONADOS, NO IMÓVEL DO REQUERENTE, PELO VAZAMENTO NA TUBULAÇÃO DE ÁGUA FORAM DE TOTAL RESPONSABILIDADE DA SAMAR - NEXO DE CAUSALIDADE CONFIGURADO  CONJUNTO PROBATÓRIO DOS AUTOS QUE CONDUZ À ASSERTIVA DA RESPONSABILIDADE DA RÉ POR FALHA NA PRESTAÇÃO DO SERVIÇO PÚBLICO - EXCLUDCNTES DE CULPA EXCLUSIVA OU CONCORRENTE DO AUTOR, NÃO CONFIGURADOS - COMINAÇÃO PARA EXECUÇÃO DE OBRAS EM REPARO BEM DECRETADA - INDENIZAÇÃO POR DANOS MORAIS DEVIDA - VALOR LIXADO PARA A INDENIZAÇÃO DE DANO MORAL QUE BEM ATENDE AOS CRITÉRIOS DA RAZOABILIDADE E PROPORCIONALIDADE - SENTENÇA MANTIDA. RECURSOS DESPROVIDOS.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com base no art. 21-E, inciso V, c/c o art. 253, parágrafo único, inciso I, ambos do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial."
+Foi interposto agravo interno.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. CONSUMIDOR. AÇÃO ORDINÁRIA. DANOS CAUSADOS A IMÓVEL. INDENIZAÇÃO POR DANOS MORAIS. NÃO CONHECIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. INCIDÊNCIA ENUNCIADO N. 182 DA SÚMULA DO STJ.
+I - Na origem, trata-se de ação ordinária objetivando a reparação dos danos materiais causados a imóvel e a condenação da ré ao pagamento de indenização por danos morais diante da conduta praticada pela ré que submeteu, injustamente, o autor à situação angustiante, havendo-lhe ocasionado sérios transtornos, ante o risco imi nente de desabamento. Na sentença o pedido foi julgado parcialmente procedente. No Tribunal a quo, a sentença foi mantida.
+II - A decisão recorrida, que não conheceu do agravo em recurso especial, considerou que a parte agravante deixou de impugnar especificamente o fundamento ausência de afronta a dispositivo legal e Súmula n. 7/STJ.
+III - Por outro lado, em seu agravo interno, a parte agravante traz alegações dissociadas da decisão recorrida, referentes à matéria de mérito do recurso especial, que nem sequer chegou a ser submetido ao juízo de admissibilidade.
+IV - Nesse diapasão, verifica-se que a parte agravante deixa de atacar especificamente os fundamentos da decisão ora agravada, ensejando, assim, a incidência do enunciado n. 182 da Súmula do STJ, segundo o qual "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". Ressalta-se que a mesma exigência é prevista no art. 1.021, § 1º, do Código de Processo Civil de 2015.
+V - Nesse sentido, veja-se a seguinte jurisprudência: AgInt no REsp n. 1.600.403/GO, relator Ministro Humberto Martins, Segunda Turma, julgado em 23/8/2016, DJe 31/8/2016; AgInt no AREsp n. 873.251/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 19/5/2016, DJe 30/5/2016; AgInt no AREsp n. 864.079/PR, relator Ministro Herman Benjamin, Segunda Turma, julgado em 9/8/2016, DJe 8/9/2016.
+VI - Agravo interno não conhecido.
+VOTO
+O agravo interno não merece conhecimento.
+A decisão recorrida, que não conheceu do agravo em recurso especial, considerou que a parte agravante deixou de impugnar especificamente o fundamento ausência de afronta a dispositivo legal e Súmula n. 7/STJ.
+Por outro lado, em seu agravo interno, a parte agravante traz alegações dissociadas da decisão recorrida, referentes à matéria de mérito do recurso especial, que nem sequer chegou a ser submetido ao juízo de admissibilidade.
+Nesse diapasão, verifica-se que a parte agravante deixa de atacar especificamente os fundamentos da decisão ora agravada, ensejando, assim, a incidência do enunciado n. 182 da Súmula do STJ, segundo o qual "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". Ressalta-se que a mesma exigência é prevista no art. 1.021, § 1º, do Código de Processo Civil de 2015.
+Nesse sentido, veja-se a seguinte jurisprudência: AgInt no REsp n. 1.600.403/GO, relator Ministro Humberto Martins, Segunda Turma, julgado em 23/8/2016, DJe 31/8/2016; AgInt no AREsp n. 873.251/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 19/5/2016, DJe 30/5/2016; AgInt no AREsp n. 864.079/PR, relator Ministro Herman Benjamin, Segunda Turma, julgado em 9/8/2016, DJe 8/9/2016.
+Ante o exposto, não conheço do recurso de agravo interno.
+É o voto.
