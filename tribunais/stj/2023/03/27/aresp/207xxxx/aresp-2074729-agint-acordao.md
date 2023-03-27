@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/03/2023 a 27/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto em face da decisão de fls. 643/647, e-STJ, por meio da qual neguei provimento ao agravo em recurso especial, em razão do óbice da Súmula 283/STF.
+A parte agravante, em suas razões, argumentou não se aplicar o referido óbice sumular, tendo em vista que a fundamentação do recurso especial teria sido suficiente para demonstrar a violação ao art. 12, VI, da Lei 9.656/98. Sustentou não ser "necessário impugnar toda a fundamentação de determinada decisão, mas, sim, os pontos elementares desta" (fl. 658, e-STJ).
+A parte agravada, regularmente intimada, apresentou contrarrazões de fls. 662/670, e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REEMBOLSO DE DESPESAS MÉDICAS. PLANO DE SAÚDE. DESCREDENCIAMENTO DA CLÍNICA. FALTA DE INFORMAÇÃO AO SEGURADO E DE SUBSTITUIÇÃO DO ESTABELECIMENTO. AUSÊNCIA DE IMPUGNAÇÃO A ESSES FUNDAMENTOS. SÚMULA 283/STF. AGRAVO NÃO PROVIDO.
+1. Os fundamentos do acórdão proferido pelo Tribunal de origem não foram devidamente impugnados, o que atrai a incidência da Súmula 283 do Supremo Tribunal Federal.
+2. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): Observo que os argumentos desenvolvidos pela parte agravante não infirmam a conclusão da decisão impugnada, razão pela qual o presente recurso não merece prosperar.
+Isso porque o recurso especial esbarra, de fato, no óbice da Súmula 283/STF.
+O Tribunal de origem assim se manifestou sobre a controvérsia (fls. 496/501, e-STJ):
+Compulsando os autos, percebo que, ao contrário do que afirma a apelante, o conjunto probatório trazido na exordial corrobora as afirmações do autor apelado:existência de relação contratual com a requerida relativa à plano de abrangência nacional (Id. Num. 938697 - Pág. 33 e Id. Num. 938698 - Pág. 1); a existência de urgência na intervenção médica e os gastos efetuados com o tratamento (Id. Num.938698 até o Id. Num. 938708); e o credenciamento do hospital A.C Camargo ao tempo da celebração do contrato de plano de saúde, pois não foram infirmadas as razões de decidir do juízo de origem, calçadas nas matérias veiculadas em sítio eletrônico acerca do assunto.
+À propósito, ao revés do que pretendido pela parte apelante, não se pode exigir do consumidor, de outro bordo, que faça prova da ausência de comunicação por parte da apelante/ré de que o hospital A.C Camargo havia sido descredenciado do sistema nacional UNIMED, pois consiste na demonstração de fato negativo, chamada pela doutrina de "prova diabólica", por ser uma modalidade de prova impossível ou excessivamente difícil de ser produzida pela parte que alega o fato.
+Pois bem, nesse particular, entendo que o magistrado teve como invertido ope legis o ônus da prova, ao afirmar em sentença que o réu não havia se desincumbido de comprovar a existência da notificação ao autor acerca do descredenciamento do hospital em comento.
+E nisso, andou bem, eis que na presente lide, de natureza consumerista, há nitidamente a incidência da responsabilidade por fato do serviço devido à ausência de informação ao consumidor, na forma em que prevista no art. 14 do CDC; logo, a inversão do ônus probatório decorre ope legis.
+É entendimento pacificado no âmbito do Superior Tribunal de Justiça, que na hipótese de responsabilidade pelo fato do serviço (art. 14 do CDC), a inversão do ônus da prova decorre da própria lei, conforme se depreende do §3º inciso I do citado artigo, cabendo ao réu demonstrar que inexiste defeito no serviço prestado ou a existência de culpa exclusiva do consumidor ou de terceiros:
+(..) Concluo, portanto: no caso dos autos, a inversão do ônus da prova decorre da própria lei, não tendo a ré apelante se desincumbido do seu ônus de provar o cumprimento do dever de informação a ela imposto.
+A seu turno, a apelante argumenta que o cumprimento desse dever seria medida virtualmente impossível, dado o largo universo de credenciados no âmbito nacional da rede de cooperativas e que a informação do descredenciamento somente é fornecida quando o cliente filiado ao plano entra em contato com o Plano de Saúde para solicitar a realização do procedimento cirúrgico necessário.
+Ocorre que o dever de informação, ampla e prévia, acerca de descredenciamento de hospital é medida expressamente positivada na Lei n.º 9.656/1998 e preconizada como plenamente possível por inúmeros exemplares da jurisprudência pátria, conforme abaixo colaciono.
+(..) A jurisprudência do C. STJ e dos tribunais pátrios tem se posicionado sobre a aplicação desses dispositivos legais, no sentido de que, para o regular descredenciamento de hospital, é imprescindível a notificação dos consumidores com antecedência mínima de trinta dias e a contratação de novo prestador de serviço de saúde equivalente ao descredenciado, sob pena de caracterização de falha no serviço e direito ao reembolso integral de despesas realizadas pelo conveniado:
+(..) Destarte, constato in casu, evidente falha na prestação de serviços pela apelante, ao violar o dever de informação no tocante ao descredenciamento do hospital A.C.Camargo.
+Era obrigação da apelante, portanto, por mandamento do art. 17 da Lei nº.9.656/98 e do artigo 6º, III, da Lei 8.078/90 (CDC), INFORMAR, com trinta dias de antecedência, CADA CONSUMIDOR vinculado ao contrato com aquela cobertura, DO DESCREDENCIMENTO ocorrido, bem como APRESENTAR QUAL HOSPITAL DE MESMO PADRÃO teria substituído o "cancer center" A.C. CAMARGO.
+Com efeito, tal é a gravidade do defeito acima narrado na prestação do serviço, que o Colendo STJ determina que deva ser INTEGRAL o reembolso das despesas médicas e hospitalares por falha na informação a respeito do descredenciamento do hospital.
+O Tribunal de origem, conforme se depreende dos excertos acima transcritos, entendeu que o reembolso das despesas médicas deveria ser integral, uma vez que o hospital em que o segurado era atendido fora descredenciado; que ele não fora informado de tal fato e que, ainda, não teria havido a indicação de outra clínica, do mesmo padrão, que substituiria a que fora excluída da rede.
+Anoto, todavia, que esses fundamentos adotados pelo Tribunal de origem não foram devidamente impugnados em recurso especial, o que atrai, por analogia, a incidência da Súmula 283 do Supremo Tribunal Federal, segundo a qual "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO. JUROS MORATÓRIOS. LIMITAÇÃO A 1% AO MÊS. SÚMULA 379/STJ. LEGALIDADE DA COBRANÇA DA TARIFA DE CESTA DE SERVIÇOS. SÚMULAS 283 E 284/STF. AGRAVO DESPROVIDO.
+1. Limitação dos juros moratórios. Os juros poderão ser convencionados até o limite de 1% ao mês nos contratos bancários não regidos por legislação específica, como na presente hipótese. Súmula 379/STJ. Acórdão recorrido em harmonia com a jurisprudência desta Corte. Súmula 83/STJ.
+2. A ausência de impugnação, nas razões do recurso especial, de fundamentos suficientes à manutenção do acórdão estadual atrai a incidência das Súmulas 283 e 284 do STF.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.066.687/AL, relator Ministro Raul Araújo, Quarta Turma, julgado em 20/6/2022, DJe de 1/7/2022.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. LANÇAMENTO POR HOMOLOGAÇÃO. PROCESSO ADMINISTRATIVO. DESNECESSIDADE. ACÓRDÃO COMBATIDO. FUNDAMENTO AUTÔNOMO. IMPUGNAÇÃO. AUSÊNCIA.
+1. Tributo sujeito a lançamento por homologação constituído definitivamente mediante a entrega da declaração pelo próprio contribuinte dispensa a instauração prévia de processo administrativo. Precedentes. Incidência da Súmula 83 do STJ.
+2. O fundamento do acórdão recorrido - de que a presunção relativa de certeza e liquidez dos títulos executivos - não foi devidamente impugnado no recurso especial, motivo pelo qual se aplica in casu a Súmula 283 do STF.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 1.740.981/PE, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/6/2022, DJe de 1/7/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. SEGURO HABITACIONAL. CUMPRIMENTO DE SENTENÇA. LIQUIDAÇÃO. LEGITIMIDADE E INCOMPETÊNCIA. COISA JULGADA. ACÓRDÃO RECORRIDO. FUNDAMENTO. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA Nº 283/STF. INOVAÇÃO RECURSAL. MATÉRIA DE ORDEM PÚBLICA. EXAME ANTERIOR. PRECLUSÃO CONSUMATIVA. ASSISTENTE TÉCNICO. HONORÁRIOS. DESPESA PROCESSUAL. INCLUSÃO NA EXECUÇÃO. POSSIBILIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A ausência de impugnação de um fundamento suficiente do acórdão recorrido enseja o não conhecimento do recurso, incidindo o disposto na Súmula nº 283 do Supremo Tribunal Federal.
+3. A alegação de que a insurgência trata de matéria de ordem pública somente foi suscitada nas razões do presente agravo interno, restando patente a ocorrência de inovação recursal.
+4. As questões de ordem pública também estão sujeitas à preclusão consumativa se já tiverem sido objeto de manifestação jurisdicional anterior e não houver insurgência quanto à matéria no momento oportuno.
+5. O Superior Tribunal de Justiça consolidou entendimento no sentido da possibilidade de inclusão dos honorários do assistente técnico ou perito em liquidação ou cumprimento de sentença, quando há condenação genérica ao pagamento das custas processuais.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.007.442/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 27/6/2022, DJe de 30/6/2022.)
+Em face do exposto, nego provimento ao agravo interno.
+Em que pese o não provimento do agravo interno, a sua interposição, por si só, não pode ser considerada como protelatória ou como litigância de má-fé, de modo que incabível, por ora, a aplicação de penalidade à parte que exerce regularmente faculdade processual prevista em lei (EDcl no AgInt nos EAREsp 782.294/DF, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 13/12/2017, DJe 18/12/2017).
+É o voto.
