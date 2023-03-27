@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/03/2023 a 27/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Francisco Falcão, Humberto Martins, Herman Benjamin e Mauro Campbell Marques votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+MINISTRA ASSUSETE MAGALHÃES: Trata-se de Agravo interno interposto contra decisão de minha lavra, que conheceu do Agravo, para dar provimento ao Recurso Especial.
+Inconformada, sustenta a parte agravante que "considerando que o julgado assinalou de forma suficiente o fundamento normativo e jurisprudencial ao direcionar o julgamento da matéria e o que se denota é o claro intento do parquet em rediscutir matéria já decidida por ocasião de embargos de declaração, descabe acolher os aclaratórios" (fl. 1.468e).
+Impugnação da parte agravada, pelo improvimento do recurso.
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPROBIDADE ADMINISTRATIVA. OMISSÃO CONFIGURADA. AFRONTA AO ART. 1.022, II, DO CPC/2015. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara Agravo em Recurso Especial interposto contra decisum publicado na vigência do CPC/2015.
+II. Deixando a Corte local de se manifestar sobre questões relevantes apontadas em embargos de declaração, tem-se por configurada a violação ao art. 1022, II, do CPC/2015.
+III. No caso dos autos, a Corte de origem, ao negar provimento ao recurso interposto, nada decidiu acerca dos pontos relevantes - sobretudo no que concerne à reprovação por média e não por falta da agravada, assim como o eventual exercício de atividades laborais concomitantes.
+IV. É de se reconhecer que não houve a devida fundamentação do acórdão recorrido, com omissão sobre matéria relevante ao deslinde da controvérsia, razão pela qual se afigura acertada a decisão ora agravada, que reconheceu a afronta ao art.1.022, II, do CPC/2015.
+V. Agravo interno improvido.
+VOTO
+MINISTRA ASSUSETE MAGALHÃES (Relatora): Não merece censura a decisão agravada.
+Na origem, trata-se de Ação Civil Pública por atos de improbidade administrativa, julgada parcialmente procedente. A sentença foi objeto de apelação pela parte ora agravada, e provida pelo Tribunal local.
+O Tribunal de origem decidiu a questão em acórdão assim ementado:
+"DIREITO CONSTITUCIONAL, ADMINISTRATIVO E PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA POR ATOS IMPROBIDADE ADMINISTRATIVA. RECORRENTE VINCULADA À ASSOCIAÇÃO MANTIDA PELOS COFRES PÚBLICOS. PETIÇÃO INICIAL QUE ADUZ O RECEBIMENTO DE SALÁRIOS SEM O NECESSÁRIO EXERCÍCIO DE ATIVIDADES JUNTO À ASSOCIAÇÃO. ALEGAÇÃO DA RECORRENTE DE QUE NÃO EXISTIRIA PROVA BASTANTE SOBRE O NÃO EXERCÍCIO DE ATIVIDADE NA ASSOCIAÇÃO. ACATAMENTO. PROVAS QUE DEMONSTRAM QUE A PARTE RECORRENTE NÃO FREQUENTAVA O CURSO DE ENSINO SUPERIOR NO HORÁRIO DE TRABALHO. ELEMENTO ANÍMICO. DOLO. AUSÊNCIA. NÃO CONFIGURAÇÃO DO ATO DE IMPROBIDADE. REFORMA DA SENTENÇA. APELO CONHECIDO E PROVIDO" (fl. 1.378e).
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 1.392/1.383e), os quais restaram rejeitados, nos seguintes termos:
+"DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ALEGAÇÃO DE ERRO DE FATO NO ACÓRDÃO. INEXISTÊNCIA. FUNDAMENTO COMPLETO E EXAURIENTE PARA SOLUCIONAR SATISFATORIAMENTE A LIDE. AUSÊNCIA DE QUALQUER VÍCIO A DEMANDAR A COMPLEMENTAÇÃO DO JULGADO. PRETENSÃO DE REEXAME DA MATÉRIA. IMPOSSIBILIDADE PELA VIA RECURSAL ELEITA. EMBARGOS DE DECLARAÇÃO CONHECIDOS E DESPROVIDOS" (fl. 1.400e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da CF/88, a parte ora agravante aponta violação ao art. 1.022, II, do CPC/2015, sustentando, em apertada síntese, que "em que pese a oposição de recurso de embargos de declaração, não sanou os vícios neles suscitados, que dizem respeito aos erros de fato/omissões quanto a questões de fato essenciais ao correto estabelecimento da verdade processual relativa à conduta tipificada no art. 9º, XI, da Lei 8.429/1992" (fl. 1.417e).
+Por fim, requer "seja conhecido e provido o presente Recurso Especial, para anular o acórdão recorrido, em face da existência de erros de fato, com o consequente retorno dos autos à instância a quo, de sorte que seja realizado novo julgamento, desta feita com a correção das premissas fáticas e expressa apreciação dos elementos suscitados em sede de embargos, nomeadamente os seguintes: i) a recorrida não foi reprovada por faltas, mas por média, conforme consta do histórico escolar de Id. 5763276 - Pág. 13; e ii) o conflito de atividade socorria não apenas com as aulas do curso de Direito, mas também, em razão do exercício de cargo na Câmara Municipal do Natal, durante o turno vespertino, consoante atesta a folha de ponto, com frequência diária entre 12h e 18h (Id. 5762965, págs. 17-29). Em caráter alternativo, que seja desde logo julgada a lide, com base na regra do prequestionamento ficto, de forma que seja reformado o acórdão impugnado, restabelecendo-se os termos da sentença que julgou procedente o pedido ministerial" (fl. 1.421e).
+De fato, não merece reparos a decisão ora agravada, que reconheceu a vulneração ao art. 1.022, II, do CPC/2015.
+É posicionamento desta Corte de Justiça que ocorre violação ao art. 1.022, II, do CPC/2015 quando o Tribunal de origem deixa de enfrentar, expressamente, questões relevantes ao julgamento da causa, suscitadas, oportunamente, pela parte recorrente.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ADMINISTRATIVO. CONTRATOS. VIOLAÇÃO AO ART. 1.022 DO CÓDIGO DE PROCESSO CIVIL. OMISSÃO CARACTERIZADA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - É omisso o acórdão que deixa de manifestar-se sobre questões relevantes, oportunamente suscitadas e que poderiam levar o julgamento a um resultado diverso do proclamado. Nessas condições, a não apreciação de tese, à luz de dispositivos constitucional e infraconstitucional indicados a tempo e modo, impede o acesso à instância extraordinária.
+III - Prejudicada a análise das demais questões suscitadas no Recurso Especial.
+IV - Recurso especial provido.
+V - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+VI - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VII - Agravo Interno improvido" (STJ. AgInt no REsp n. 1.831.432/PR, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 27/04/2022).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA ANTERIOR. TEMA RELEVANTE PARA O JULGAMENTO DA LIDE. AUSÊNCIA DE PRONUNCIAMENTO. OMISSÃO CONFIGURADA. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM. INOVAÇÃO RECURSAL. NÃO CABIMENTO. DECISÃO MANTIDA.
+1. Deixando a Corte local de se manifestar sobre questões relevantes, apontadas em embargos de declaração que, em tese, poderiam infirmar a conclusão adotada pelo Juízo, tem-se por configurada a violação do art. 1.022 do CPC/2015, devendo ser provido o recurso especial, com determinação de retorno dos autos à origem, para que seja suprido o vício.
+2. Incabível o exame de tese não exposta nas contrarrazões do recurso especial e invocada apenas em momento posterior, pois configura indevida inovação recursal.
+3. Agravo interno a que se nega provimento" (STJ. AgInt nos EDcl no AREsp 1.818.817/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe de 26/11/2021).
+No caso, os Embargos de Declaração foram rejeitados, sem que o questionamento suscitado fosse efetivamente apreciado, vez que, no seu julgamento, o Tribunal de origem limitou-se a dizer que o acórdão embargado não padece dos vícios alegados, aduzindo que "houve a manifestação clara e satisfatória dos pontos discutidos nos autos, com a exposição dos fundamentos jurídicos necessários para tanto, não se sustentando a alegação de omissão no julgado" (fl. 1.402e).
+Com efeito, não tendo o Tribunal de origem emitido juízo de valor sobre os pontos - sobretudo no que concerne à reprovação por média e não por falta da agravada, assim como o eventual exercício de atividades laborais concomitantes -, tem razão a ora agravante, quando alega a existência de vício no acórdão impugnado.
+Destarte, resta configurada a violação ao art. 1.022 do CPC/2015 e, assim, a negativa de prestação jurisdicional.
+Assim, não tendo a parte agravante logrado êxito em infirmar os fundamentos que nortearam a decisão ora agravada, impõe-se a sua manutenção, em todos os seus termos.
+Pelo exposto, nego provimento ao Agravo interno.
+É como voto.
