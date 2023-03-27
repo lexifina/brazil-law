@@ -1,0 +1,9 @@
+DECISÃO
+O presente writ, impetrado em nome de Bianca Antonelli - condenada a 8 anos e 10 meses de reclusão, em regime inicial fechado, e ao pagamento de 1.283 dias-multa, pela prática dos crimes de tráfico de drogas (24,48 kg de maconha - fl. 306) e associação para o mesmo fim, no qual se ataca acórdão proferido pelo Tribunal de Justiça de São Paulo (fls. 1.524/1.551), que manteve a sentença condenatória prolatada na Ação Penal n. 1500798-84.2019.8.26.0594 (fls. 813/887), da 1ª Vara da comarca de Bauru/SP -, não deve ser conhecido.
+Isso porque, em relação ao acórdão ora hostilizado também foi interposto recurso especial pela paciente, objetivando pretensão de mérito idêntica à que ora se postula: a absolvição da paciente das imputações, aplicando-se o artigo 386, inciso VII, do Código de Processo Penal, por não existir provas suficientes para a condenação por tráfico de entorpecentes e associação ao tráfico (fl. 44) ou, subsidiariamente, a absolvição do artigo 35 posto não restar provado o vínculo associativo, na remota hipótese de condenação ao artigo 33, que seja aplicado o parágrafo 4º do artigo 33 da Lei de drogas em seu patamar máximo de redução, e aplicação de regime para cumprimento em regime aberto e substituição para pena restritiva de direito na modalidade de prestação de serviços a comunidade (fl. 44).
+Entretanto, em atenção ao princípio da unirrecorribilidade das decisões, não é possível a impetração de habeas corpus para tratar de máculas já suscitadas em recurso especial (AgRg no HC n. 573.510/SP, Ministro Jorge Mussi, Quinta Turma, DJe 3/8/2020).
+Em razão disso, não conheço da impetração.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS (24,48 KG DE MACONHA). IMPETRAÇÃO CONCOMITANTE À INTERPOSIÇÃO DE RECURSO ESPECIAL CONTRA ACÓRDÃO DA APELAÇÃO. PRETENSÕES DE MÉRITO COINCIDENTES. VIOLAÇÃO DO PRINCÍPIO DA UNIRRECORRIBILIDADE. CONHECIMENTO. IMPOSSIBILIDADE.
+Writ não conhecido.
