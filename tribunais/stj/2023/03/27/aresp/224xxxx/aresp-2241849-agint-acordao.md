@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/03/2023 a 27/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Trata-se de agravo interno manejado por DEVENIR SANTOS COSTA para desafiar decisão proferida às e-STJ fls. 565/569, em que conheci parcialmente do recurso especial e, nessa extensão, neguei-lhe provimento, considerando a ausência de violação dos arts. 489 e 1.022 do CPC/2015 , a incidência da Súmula 284 do STF e a não demonstração de divergência jurisprudencial.
+A parte agravante alega a efetiva existência do vício de negativa de prestação jurisdicional
+Requer a reforma da decisão para que seja dado provimento a o recurso especial.
+Impugnação apresentada às e-STJ fls. 579/582.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA.
+1. Não há violação dos arts. 489 e 1.022 do CPC/2015, quando o Tribunal de origem se manifesta de forma clara, coerente e fundamentada sobre as teses relevantes à solução do litígio.
+2. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+O presente agravo não merece prosperar.
+Como assinalado na decisão ora agravada, em relação à alegada ofensa dos arts. 489 e 1.022 do CPC/2015, cumpre destacar que, ainda que o recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação. Não há como confundir o resultado desfavorável ao litigante com a falta de fundamentação, motivo pelo qual não se constata violação dos preceitos apontados.
+Consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater um a um todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie. Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. RESCISÃO CONTRATUAL. PERDAS E DANOS. CUMPRIMENTO DE SENTENÇA. IMPENHORABILIDADE DO BEM DE FAMÍLIA. EXCEÇÃO. INAPLICABILIDADE. CONTRATO DE PRESTAÇÃO DE SERVIÇOS DE EMPREITADA. CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. REEXAME. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não viola os arts. 1.022, parágrafo único, I, II e III, e 489, § 1º, V e VI, do Código de Processo Civil de 2015 nem importa em negativa de prestação jurisdicional o acórdão que adota fundamentação suficiente para a resolução da causa, porém diversa da pretendida pelo recorrente, decidindo de modo integral a controvérsia posta.
+3. Na hipótese, rever as premissas adotadas pelo tribunal de origem a partir das circunstâncias fático-probatórias dos autos, a fim de adotar o entendimento de que a dívida foi contraída para a construção da casa, encontra o óbice da Súmula nº 7/STJ.
+4. A incidência da Súmula nº 7/STJ inviabiliza o recurso especial também pela alínea "c" do permissivo constitucional, restando prejudicado o exame da divergência jurisprudencial.
+5. Agravo interno não provido.
+(AgInt nos EDcl no AREsp 1.580.632/PR, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA julgado em 31/8/2020, DJe de 3/9/2020). (Grifos acrescidos).
+No caso, o Tribunal a quo decidiu integralmente a controvérsia, nos seguintes termos (e-STJ fl. 358):
+Assim, de acordo a decisão do Plenário do TJMA, os efeitos financeiros decorrentes do título judicial, ocorreria tão somente no período compreendido entre 1998 (Lei Estadual n.º 7.072/98) a 2004 (Lei Estadual nº 8.186/2004 de24/11/2004), considerando a mudança no estado fático ou do direito que mantinha a sentença (cláusula rebus sic stantibus), que alterou parcialmente a extensão do título judicial.
+Cumpre destacar que esse entendimento encontra-se em consonância com a jurisprudência do Superior Tribunal de Justiça, firmada sob o signo do art. 543-CPC (REsp 1.235.513/AL), quanto à possibilidade de compensação, quando não prevista no título judicial, se essa matéria de defesa não pôde ser suscitada no processo de conhecimento, cabendo sua alegação em Embargos à Execução, sem que tal providência viole a coisa julgada.
+Compulsando os autos, verifico que a servidora apelante ingressou no cargo público em 24/01/2012 (ID 12516672), portanto, após o termo final dos efeitos financeiros, que ocorreu com a edição da Lei Estadual n.º 8.186/2004). Logo, considerando que, na data do ingresso da apelante no cargo de professor, já se encontrava em vigor a nova tabela de vencimento para os integrantes do Grupo Ocupacional do Magistério, não havendo que se falar em perda remuneratória para os referidos servidores a ensejar pagamento de diferença em seu favor, acarretando a improcedência da ação, não merecendo reforma a sentença recorrida.
+Mostra-se, ainda, pertinente transcrever trecho do acórdão integrativo (e-STJ fl. 407):
+Pela simples leitura do Acórdão questionado, constata-se que na parte alusiva à sua fundamentação, enfrentou de forma clara todos os pontos essenciais discutidos pelas partes, com fundamentos que apontam que os argumentos apresentados pelo então Apelante, ora Embargante, não poderiam ser acolhidos e que as conclusões do julgamento não poderiam ser outras senão as ali manifestadas com respaldo nas provas e nas disposições legais mencionadas, tendo inclusive desenvolvido estudo comparativo entre os IAC"s 30.287/2016 e18.193/2018, para demonstrar que correta se encontra a sentença hostilizada quanto à aplicação da tese firmada no IAC nº 18.193/2018, tendo, assim, rechaçado por completo a tese do aqui Embargante, não havendo, portanto, que se falarem omissão ou em qualquer outro vício previsto no art. 1.022, I, II e III, do CPC.
+Aliás, o Acórdão embargado reconheceu, de forma bem fundamentada, que a retidão do decisum hostilizado se assentava essencialmente no fato de ter aplicado a tese de observância obrigatória fixada no IAC nº 18.193/2018, ao estabelecer "que o prazo inicial para a cobrança das diferenças remuneratórias a que se refere à sentença exequenda é a data do início dos efeitos financeiros da Lei Estadual nº 7.072/98, e que o prazo final é o da edição da Lei nº 8.186/2004 que deu efetivo cumprimento à Lei Estadual nº 7.885/2003".
+Por outro lado, o Acórdão embargado não fez outra coisa senão, de forma bem motivada ,aplicar a tese de observância obrigatória fixada no IAC nº 18.193/2018, originário deste Eg. Tribunal de Justiça, nos termos do art. 927, III, c/c art. 947, § 3º, do CPC, que apregoam que os juízes e os tribunais observarão os acórdãos em incidente de assunção de competência, e que o acórdão proferido nesta espécie de incidente vinculará todos os juízes e órgãos fracionários do Tribunal, ficando rejeitado, por consequência lógica, a aplicação de qualquer outra tese, não havendo, assim, como ser concebida a suposta omissão, vez que o título judicial sob execução já possuía definição acerca de sua limitação temporal no momento em que foi proferido o Acórdão embargado, definição esta estabelecida pelo Acórdão que julgou o IAC nº 18.193/2018. (Grifos acrescidos).
+Não há falar, portanto, em negativa de prestação jurisdicional.
+Embora não merecedor de acolhimento, o agravo interno, no caso, não se revela manifestamente inadmissível ou improcedente, razão pela qual não deve ser aplicada a multa do § 4º do art. 1.021 do CPC/2015.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
