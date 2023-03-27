@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo interposto pelo Município de Votuporanga contra decisão da Corte de origem que não admitiu o recurso especial em razão da inexistência de violação à lei federal e incidência da Súmula 7 do STJ.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 9, e-STJ):
+AGRAVO DE INSTRUMENTO - Execução Fiscal - TLFF e Multas do Exercício de 2020 - Decisão que indeferiu pedido de arresto - Pretensão à reforma - Não cabimento - Não esgotadas todas as tentativas de localização dos executados - Ausentes requisitos para o deferimento de arresto neste momento processual - Medida cabível apenas se o executado não tiver domicílio ou dele se ocultar, nos termos do art. 7º, III, da Lei nº 6.830/80 - Hipóteses não configuradas - Impossibilidade de aplicação subsidiária do art. 830 do CPC em execução fiscal, que é regida por lei especial - Decisão mantida - Recurso não provido.
+No recurso especial o recorrente alega violação dos artigos 7º, III, da LEF e 830 e 854 do CPC/2015, sob os seguintes argumentos: (a) a legislação aplicável ao caso não impõe a necessidade de preenchimento dos requisitos elencados no acórdão recorrido para que se proceda ao arresto; (b) o único requisito exigido para a concessão do arresto executivo é a tentativa frustrada de localizar o devedor; (c) não é necessário esgotar todos os meios para localizar o executado, visto que basta que ele não seja encontrado; (d) conforme entendimento deste e. STJ, é possível o "deferimento de arresto executivo sobre bens do executado mesmo antes que sejam esgotadas todas as tentativas de citação, desde que tenha havido efetiva tentativa infrutfera (conforme ocorreu no caso)".
+Sem contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Tendo a parte insurgente impugnado os fundamentos da decisão agravada, passo ao exame do recurso especial.
+No que diz respeito ao artigo 854 do CPC/2015, verifica-se que não houve juízo de valor por parte da Corte de origem, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplica-se ao caso a Súmula 282/STF.
+Nessa esteira, cumpre salientar que esta Corte firmou a compreensão de que "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe 10/4/2017).
+Na hipótese, nota-se que a parte recorrente não se desincumbiu do ônus de indicar a ofensa ao artigo 1.022 do CPC/2015 alegando a existência de possível omissão quanto à questão, o que impede o reconhecimento do prequestionamento ficto.
+A propósito (grifos acrescidos):
+PROCESSUAL CIVIL E ADMINISTRATIVO. PREQUESTIONAMENTO. AUSÊNCIA. DECISÃO JUDICIAL. TRÂNSITO EM JULGADO. POSTERIOR DESCONSTITUIÇÃO. BOA-FÉ. RESTITUIÇÃO AO ERÁRIO. DESCABIMENTO.
+1. Não enfrentada no julgado impugnado tese respeitante a artigo de lei federal apontado no recurso especial, há falta do prequestionamento, o que faz incidir in casu o óbice da Súmula 282 do STF.
+2. Segundo o entendimento desta Corte de Justiça, para se reconhecer o prequestionamento ficto de que trata o art. 1.025 do CPC, na via do especial, impõe-se ao recorrente a indicação de contrariedade do art. 1.022 do CPC, o que não ocorreu in casu.
+ ..
+4. Agravo interno desprovido. (AgInt no AREsp n. 1.966.918/CE, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 24/10/2022, DJe de 24/11/2022.)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ALEGADA VIOLAÇÃO AOS ARTS. 783, 927, III E V, DO CPC/2015, 128 E 204, PARÁGRAFO ÚNICO, DO CTN, 3º, PARÁGRAFO ÚNICO, DA LEI N. 6.830/80, 6º E 7º DA LC 87/96. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. ART. 1.025 DO CPC/2015. INAPLICABILIDADE, NO CASO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. IMPOSSIBILIDADE DE APRECIAÇÃO, NA VIA ELEITA. DILAÇÃO PROBATÓRIA. NÃO CABIMENTO. SÚMULA 393/STJ. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+II. Não tendo o acórdão hostilizado expendido juízo de valor sobre os dispositivos legais apontados nas razões recursais, a pretensão recursal esbarra em vício formal intransponível, qual seja, o da ausência de prequestionamento - requisito viabilizador da abertura desta instância especial -, atraindo o óbice da Súmula 282 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada"), na espécie.
+III. Na forma da jurisprudência do STJ, "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (STJ, REsp 1.639.314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe de 10/04/2017).
+ ..
+VII. Agravo interno improvido. (AgInt no AREsp n. 2.109.423/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 13/2/2023, DJe de 17/2/2023.)
+No que diz respeito à alegação de que é possível o "deferimento de arresto executivo sobre bens do executado mesmo antes que sejam esgotadas todas as tentativas de citação, desde que tenha havido efetiva tentativa infrutfera", o acórdão recorrido consignou o seguinte (fls. 11-12, e-STJ; grifos acrescidos):
+No caso em análise, somente houve a tentativa de citação em um endereço. Dessa forma, não restou demonstrado nos autos qualquer uma das hipóteses do citado dispositivo legal, o que inviabiliza por ora o pedido de arresto, considerando que não foram esgotadas as sucessivas modalidades de de citação previstas no art. 8º, incisos I a IV, da Lei nº 6.830/80.
+Por outro lado, o art. 830 do CPC prevê que: Se o oficial de justiça não encontrar o executado, arrestar-lhe-á tantos bens quantos bastem para garantir a execução.
+Ressalte-se que sequer houve a tentativa de citação por oficial de justiça.
+Não se desconhece que o pedido do agravante tem amparo legal. Contudo, existindo lei especial que trata expressamente da matéria (Lei nº 6.830/80), a aplicação do art. 830 do CPC com o pedido de arresto se mostra prematura neste momento processual.
+Ocorre que o recorrente não impugnou as referidas fundamentações nas razões do recurso especial que, por si só, assegura o resultado do julgamento ocorrido na Corte de origem e torna inadmissível o recurso que não a impugnou. Aplica-se ao caso a Súmula 283/STF.
+Nesse sentido (grifos acrescidos):
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. CONSELHO DE FISCALIZAÇÃO. COBRANÇA DE ANUIDADE. ALEGAÇÃO DE OFENSA AO ART. 1.022 DO CPC. SÚMULA 284/STF. LITERALIDADE DO ART. 8º, § 2º, DA LEI Nº 12.514/11, COM A REDAÇÃO DADA PELA LEI Nº 14.195/21. VALOR FIXO. FUNDAMENTAÇÃO NÃO IMPUGNADA. SÚMULA 283/STJ. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+2. Não se conhece do recurso especial, quando a parte deixa de impugnar fundamento autônomo, suficiente por si só à manutenção do julgado (Súmula283/STF).
+ ..
+4. Agravo interno não provido. (AgInt no REsp n. 2.038.972/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 13/2/2023, DJe de 16/2/2023.)
+EXECUÇÃO FISCAL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. BEM DE FAMÍLIA. NÃO CARACTERIZAÇÃO. ACÓRDÃO EMBASADO EM PREMISSAS FÁTICAS. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. APLICAÇÃO DO ÓBICE DA SÚMULA N. 283/STF. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+ ..
+III - A falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283 do Supremo Tribunal Federal.
+IV - A Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+ ..
+VI - Agravo Interno improvido. (AgInt no AREsp n. 2.110.151/RS, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 22/11/2022, DJe de 24/11/2022.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro em 10% os honorários advocatícios, observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (§ 3º do artigo 98 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. ARRESTO EXECUTIVO. ARTIGO 854 DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 282/STF. FUNDAMENTOS AUTÔNOMOS NÃO IMPUGNADOS. SÚMULA 283/STF. AGRAVO CONHECIDO NÃO CONHECER DO RECURSO ESPECIAL.
