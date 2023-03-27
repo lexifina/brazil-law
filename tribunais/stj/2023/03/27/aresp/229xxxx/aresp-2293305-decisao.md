@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de agravo apresentado por FAZENDA DO ESTADO DE SÃO PAULO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+APELAÇÃO e REMESSA NECESSÁRIA. Ação anulatória de débito fiscal.
+Pretensão à reforma da r. sentença que julgou procedentes os pedidos da ação para anular o AIIM nº 4.100.731-1, declarando a inexigibilidade do débito e pedido de arbitramento dos honorários advocatícios por equidade.
+Demandante que comprovou que as operações comerciais, realmente, ocorreram. Autora que cumpriu com o seu ônus de provar os fatos alegados. Inteligência do artigo 373, inciso I, do CPC de 2015.
+Inadmissibilidade da condenação dos honorários advocatícios por equidade, conforme entendimento jurisprudencial desta C. 8ª Câmara de Direito Público, deste E. TJSP e do C. STJ. Fixação da verba honorária nos termos do artigo 85, §§ 2º e 3º do Código de Processo Civil.
+RECURSO DESPROVIDO e REMESSA NECESSÁRIA DESACOLHIDA.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 85, § 3º, II e § 5º, do CPC, no que concerne à ilegalidade da majoração da condenação em honorários advocatícios, uma vez que ultrapassou percentual máximo permitido por lei, trazendo os seguintes argumentos:
+Em sede recursal, o v. acórdão manteve a sentença e acresceu os honorários em 1% ao valor atribuído à causa, totalizando assim, 11% sobre o valor da causa.
+Todavia, a majoração da condenação em honorários advocatícios para 11% do valor da causa, violou as faixas percentuais previstas nos incisos do §3º do artigo 85 c/c §5º do artigo 85 do CPC, tendo em vista o valor da causa, mais especificamente o art. 85, §3º, II do CPC.
+Para tanto, mister considerar que o valor da causa na data do ajuizamento (09/2020) era de R$ 611.374,44 ou seja, 585,05 salários mínimos (salário mínimo 2020 - R$ 1.045,00).
+O V. Acórdão, ao fixar os honorários em 11% do valor da causa, o fez em desacordo com as faixas percentuais previstas nos incisos do §3º do artigo 85, bem como não observou o §5º do artigo 85 do CPC.
+Isso porque, o valor da causa quando do ajuizamento da ação já correspondia a montante superior a 200 salários mínimos. E assim, a fixação dos honorários em 11% do valor da causa, representa percentual superior ao permitido por lei, na faixa que excede 200 salários mínimos.
+Neste contexto, há de se destacar que o § 11º do art. 85 veda ao Tribunal no cômputo geral da fixação de honorários devidos ao advogado do vencedor, ultrapassar os respectivos limites estabelecidos nos §§ 2º e 3º para a fase de conhecimento. Eis o teor do art. 85, §11 do CPC, verbis:
+ ..
+De fato, sendo dado à causa o valor de R$ 611.379,44 na data do ajuizamento (09/2020), correspondente a 585,05 salários mínimos, deve ser aplicável o inciso II do § 3º do artigo 85, sobre o valor que exceder 200 salários mínimos, onde o percentual mínimo é de 8% e máximo de 10% (fls. 2.422-2.423).
+É, no essencial, o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 211/STJ, uma vez que a questão não foi examinada pela Corte de origem, a despeito da oposição de embargos de declaração. Assim, ausente o requisito do prequestionamento.
+Nesse sentido: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo - Súmula n. 211 - STJ". (AgRg no EREsp n. 1.138.634/RS, relator Ministro Aldir Passarinho Júnior, Corte Especial, DJe de 19/10/2010.)
+Confiram-se ainda os seguintes julgados: AgRg nos EREsp n. 554.089/MG, relator Ministro Humberto Gomes de Barros, Corte Especial, DJ de 29/8/2005; AgInt no AREsp n. 1.264.021/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 1º/3/2019; AgInt no AREsp n. 953.171/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 23/8/2022; AgInt no AREsp n. 1.506.939/MS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 26/8/2022; AgRg no AREsp 1.647.409/SC, relator Ministro Rogério Schietti Cruz, Sexta Turma, DJe de 1º/7/2020; AgRg no REsp n. 1.850.296/PR, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 18/12/2020; AgRg no REsp n. 2.004.417/MT, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/8/2022, DJe de 16/8/2022.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
