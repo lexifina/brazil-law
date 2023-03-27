@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/03/2023 a 27/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Humberto Martins, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Cuida-se de Agravo Interno contra decisão de fls. 361-363, e-STJ, proferida pela Presidência do Superior Tribunal de Justiça, que não conheceu do Agravo previsto no art. 1.042 do CPC/2015, ante a falta de impugnação de todos os fundamentos da decisão agravada (Súmula 182/STJ).
+No Agravo Interno, o insurgente alega, em suma (fl. 402, e-STJ):
+Ao contrário do que restou sustentado na decisão ora agravada, o agravo em recurso especial do ente público impugnou todos os fundamentos da decisão que inadmitiu na origem o recurso especial, impugnação essa que se deu de forma direta, especifica e pormenorizada, não havendo que se falar na incidência do enunciado da Súmula 182 do col. STJ, consoante será demonstrado a seguir.
+Ademais, nos termos da orientação jurisprudencial firmada por essa egrégia Corte Superior de Justiça, a falta de combate ao fundamento que deixa de admitir o recurso especial por não ser ele a via adequada para exame de apontada violação a preceito ou princípio constitucional não acarreta na ausência de dialeticidade ou incidência da Súmula 182/STJ, conforme se vê dos seguintes precedentes: (..)
+Transcorreu o prazo legal sem apresentação de contraminuta.
+O agravante pleiteia a reconsideração da decisão agravada.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO A FUNDAMENTO DA DECISÃO DENEGATÓRIA DE ORIGEM. SÚMULA 182 DO STJ. INCIDÊNCIA. AGRAVO INTERNO NÃO PROVIDO. DECISÃO DA PRESIDÊNCIA DO STJ MANTIDA.
+1. O Recurso Especial do agravante não foi admitido com base nos seguintes argumentos: "Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: não cabimento do REsp quando a tese recursal é eminentemente constitucional e Súmula 83/STJ. Entretanto, a parte agravante deixou de impugnar especificamente: não cabimento do REsp quando a tese recursal é eminentemente constitucional." (fl. 361, e-STJ).
+2. Sedimentou-se, na Corte Especial do STJ, o entendimento de que "a decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais" (EAREsp 701.404/SC, EAREsp 746.775/SC e EAREsp 831.326/SC, Rel. p/ acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe de 30.11.2018).
+3. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Não obstante os argumentos expendidos, o inconformismo não merece guarida.
+O Recurso Especial do agravante não foi admitido com base nos seguintes argumentos (fl. 361, e-STJ):
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: não cabimento do REsp quando a tese recursal é eminentemente constitucional e Súmula 83/STJ.
+Entretanto, a parte agravante deixou de impugnar especificamente: não cabimento do REsp quando a tese recursal é eminentemente constitucional.
+Constata-se que, na petição de Agravo em Recurso Especial (fls. 310-326, e-STJ), não há impugnação sobre a falta de cabimento do Recurso Especial para apreciar violação de dispositivo constitucional.
+O Superior Tribunal de Justiça perfilha o entendimento de ser necessária a impugnação específica de todos os fundamentos da decisão que inadmitiu o Recurso Especial, sob pena de não conhecimento pela aplicação da Súmula 182/STJ.
+Com efeito, sedimentou-se, na Corte Especial do STJ, o entendimento de que "a decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais" (EAREsp 701.404/SC, EAREsp 746.775/SC e EAREsp 831.326/SC, Rel. p/ acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe de 30/11/2018).
+No mesmo sentido: AgInt no REsp 1.783.482/MS, Rel. Min. Assusete Magalhães, Segunda Turma, DJe de 15/6/2022.
+Ademais, consigno ser necessária a impugnação de todos os capítulos da decisão negativa de admissibilidade do Recurso Especial, mesmo em se tratando do capítulo que aponta falta de cabimento do apelo nobre para apreciar a violação da Constituição Federal, pois não há falar em capítulos autônomos nessa decisão.
+De todo o exposto, conclui-se que o Agravo em Recurso Especial não merece conhecimento, devendo ser mantida a decisão da Presidência.
+Ante o exposto, nego provimento ao Agravo Interno.
+É como voto.
