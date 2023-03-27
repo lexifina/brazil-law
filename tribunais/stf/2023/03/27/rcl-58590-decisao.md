@@ -1,0 +1,69 @@
+Decisão: Trata-se de reclamação constitucional, com pedido de liminar, ajuizada por Termares Terminais Marítimos Especializados Ltda., em face de decisão proferida pelo Superior Tribunal do Trabalho, nos autos do Processo nº 1001835-60.2017.5.02.0444.
+
+    Em suas razões, a reclamante alega, em síntese, que a decisão impugnada teria ofendido a autoridade de decisões proferidas nos julgamentos das ADC 58 e ADC 59. Aduz-se, nesse sentido, que:
+
+    “(...)
+
+    Ao proferir referida decisão o D. Ministro de origem contrariou diretamente a decisão proferida na Ação Declaratória de Constitucionalidade, com tema de repercussão geral, na medida em que determinou a observação de índice de correção monetária reconhecidamente inconstitucional, além da aplicação do IPCA-E em período processual.
+
+    (...)
+
+    Dessa forma, tem-se que o D. Ministro Sergio Pinto Martins proferiu decisão que flagrantemente violou os termos de decisão proferida pela Corte Constitucional, ao sequer conhecer os recursos da Reclamante que versam sobre o tema em apreço.
+
+    Ora, Exas., pode-se concluir, portanto, que a decisão proferida nos autos de origem, viola diretamente as disposições contidas na ADC58/59, uma vez que determinou-se a eficácia erga omnes e efeitos vinculantes, aos feitos sem decisão transitada em julgado, relativamente ao índice de correção monetária aplicável.
+
+    Frise-se, nesse passo, que, no presente caso, a decisão proferida pelo C. TST não transitou em julgado, na medida em que a ora peticionária manteve ativa a discussão sobre a correção monetária, por meio da interposição de Agravo Regimental em face da decisão monocrática proferida pela Corte Trabalhista.
+
+    Excelência, não restam dúvidas quanto a aplicação da decisão proferida na ADC58/59 ao caso em discussão, na medida em que se trata de hipótese em que discutido qual índice de correção monetária deve ser aplicado aos créditos trabalhistas.”. (eDOC 1 – ID: 14fbb83e, p. 4-5)
+
+    Nesses termos, requer seja “confirmada a medida liminar a fim de que seja cassada definitivamente a decisão do Processo nº 1001835- 60.2017.5.02.0444, para determinar a aplicação da decisão da ADC58/59 em sua integralidade, inclusive no que tange ao juros”.
+
+    É o relatório.
+
+    Decido.
+
+    A reclamação, tal como prevista no art. 102, I, “l”, da Constituição, e regulada nos artigos 988 a 993 do Código de Processo Civil e 156 a 162 do Regimento Interno do Supremo Tribunal Federal, tem cabimento para preservar a competência do tribunal ou garantir a autoridade das suas decisões, bem como contra ato administrativo ou decisão judicial que contrarie súmula vinculante. (CF/88, art. 103-A, § 3º)
+
+    No caso, a reclamante sustenta ter havido violação ao decidido por esta Corte no julgamento das ADC 58 e ADC 59.
+
+    O pedido merece prosperar.
+
+    Isso porque o Plenário desta Corte, no julgamento conjunto das ADC 58, ADC 59, ADI 5.867 e ADI 6.021, ao conferir interpretação conforme à Constituição ao art. 879, § 7º, e ao art. 899, § 4º, da CLT, na redação dada pela Lei 13.467/2017, determinou, até que sobrevenha solução legislativa, a aplicação dos mesmos índices de correção monetária e de juros vigentes para as condenações cíveis em geral, quais sejam, a incidência do IPCA-E na fase pré-judicial e, a partir da citação, a incidência da taxa SELIC. A propósito, transcrevo ementa desse julgado:
+
+    “DIREITO CONSTITUCIONAL. DIREITO DO TRABALHO. AÇÕES DIRETAS DE INCONSTITUCIONALIDADE E AÇÕES DECLARATÓRIAS DE CONSTITUCIONALIDADE. ÍNDICES DE CORREÇÃO DOS DEPÓSITOS RECURSAIS E DOS DÉBITOS JUDICIAIS NA JUSTIÇA DO TRABALHO. ART. 879, §7º, E ART. 899, §4º, DA CLT, NA REDAÇÃO DADA PELA LEI 13. 467, DE 2017. ART. 39, CAPUT E §1º, DA LEI 8.177 DE 1991. POLÍTICA DE CORREÇÃO MONETÁRIA E TABELAMENTO DE JUROS. INSTITUCIONALIZAÇÃO DA TAXA REFERENCIAL (TR) COMO POLÍTICA DE DESINDEXAÇÃO DA ECONOMIA. TR COMO ÍNDICE DE CORREÇÃO MONETÁRIA. INCONSTITUCIONALIDADE. PRECEDENTES DO STF. APELO AO LEGISLADOR. AÇÕES DIRETAS DE INCONSTITUCIONALIDADE E AÇÕES DECLARATÓRIAS DE CONSTITUCIONALIDADE JULGADAS PARCIALMENTE PROCEDENTES, PARA CONFERIR INTERPRETAÇÃO CONFORME À CONSTITUIÇÃO AO ART. 879, §7º, E AO ART. 899, §4º, DA CLT, NA REDAÇÃO DADA PELA LEI 13.467, DE 2017. MODULAÇÃO DE EFEITOS. 1. A exigência quanto à configuração de controvérsia judicial ou de controvérsia jurídica para conhecimento das Ações Declaratórias de Constitucionalidade (ADC) associa-se não só à ameaça ao princípio da presunção de constitucionalidade – esta independe de um número quantitativamente relevante de decisões de um e de outro lado –, mas também, e sobretudo, à invalidação prévia de uma decisão tomada por segmentos expressivos do modelo representativo. 2. O Supremo Tribunal Federal declarou a inconstitucionalidade do art. 1º-F da Lei 9.494/1997, com a redação dada pela Lei 11.960/2009, decidindo que a TR seria insuficiente para a atualização monetária das dívidas do Poder Público, pois sua utilização violaria o direito de propriedade. Em relação aos débitos de natureza tributária, a quantificação dos juros moratórios segundo o índice de remuneração da caderneta de poupança foi reputada ofensiva à isonomia, pela discriminação em detrimento da parte processual privada (ADI 4.357, ADI 4.425, ADI 5.348 e RE 870.947-RG – tema 810). 3. A indevida utilização do IPCA-E pela jurisprudência do Tribunal Superior do Trabalho (TST) tornou-se confusa ao ponto de se imaginar que, diante da inaplicabilidade da TR, o uso daquele índice seria a única consequência possível. A solução da Corte Superior Trabalhista, todavia, lastreia-se em uma indevida equiparação da natureza do crédito trabalhista com o crédito assumido em face da Fazenda Pública, o qual está submetido a regime jurídico próprio da Lei 9.494/1997, com as alterações promovidas pela Lei 11.960/2009. 4. A aplicação da TR na Justiça do Trabalho demanda análise específica, a partir das normas em vigor para a relação trabalhista. A partir da análise das repercussões econômicas da aplicação da lei, verifica-se que a TR se mostra inadequada, pelo menos no contexto da Consolidação das Leis Trabalhistas (CLT), como índice de atualização dos débitos trabalhistas. 5. Confere-se interpretação conforme à Constituição ao art. 879, §7º, e ao art. 899, §4º, da CLT, na redação dada pela Lei 13.467, de 2017, definindo-se que, até que sobrevenha solução legislativa, deverão ser aplicados à atualização dos créditos decorrentes de condenação judicial e à correção dos depósitos recursais em contas judiciais na Justiça do Trabalho os mesmos índices de correção monetária e de juros vigentes para as hipóteses de condenações cíveis em geral (art. 406 do Código Civil), à exceção das dívidas da Fazenda Pública que possui regramento específico (art. 1º-F da Lei 9.494/1997, com a redação dada pela Lei 11.960/2009), com a exegese conferida por esta Corte na ADI 4.357, ADI 4.425, ADI 5.348 e no RE 870.947-RG (tema 810). 6. Em relação à fase extrajudicial, ou seja, a que antecede o ajuizamento das ações trabalhistas, deverá ser utilizado como indexador o IPCA-E acumulado no período de janeiro a dezembro de 2000. A partir de janeiro de 2001, deverá ser utilizado o IPCA-E mensal (IPCA-15/IBGE), em razão da extinção da UFIR como indexador, nos termos do art. 29, § 3º, da MP 1.973-67/2000. Além da indexação, serão aplicados os juros legais (art. 39, caput, da Lei 8.177, de 1991). 7. Em relação à fase judicial, a atualização dos débitos judiciais deve ser efetuada pela taxa referencial do Sistema Especial de Liquidação e Custódia – SELIC, considerando que ela incide como juros moratórios dos tributos federais (arts. 13 da Lei 9.065/95; 84 da Lei 8.981/95; 39, § 4º, da Lei 9.250/95; 61, § 3º, da Lei 9.430/96; e 30 da Lei 10.522/02). A incidência de juros moratórios com base na variação da taxa SELIC não pode ser cumulada com a aplicação de outros índices de atualização monetária, cumulação que representaria bis in idem. 8. A fim de garantir segurança jurídica e isonomia na aplicação do novo entendimento, fixam-se os seguintes marcos para modulação dos efeitos da decisão: (i) são reputados válidos e não ensejarão qualquer rediscussão, em ação em curso ou em nova demanda, incluindo ação rescisória, todos os pagamentos realizados utilizando a TR (IPCA-E ou qualquer outro índice), no tempo e modo oportunos (de forma extrajudicial ou judicial, inclusive depósitos judiciais) e os juros de mora de 1% ao mês, assim como devem ser mantidas e executadas as sentenças transitadas em julgado que expressamente adotaram, na sua fundamentação ou no dispositivo, a TR (ou o IPCA-E) e os juros de mora de 1% ao mês; (ii) os processos em curso que estejam sobrestados na fase de conhecimento, independentemente de estarem com ou sem sentença, inclusive na fase recursal, devem ter aplicação, de forma retroativa, da taxa Selic (juros e correção monetária), sob pena de alegação futura de inexigibilidade de título judicial fundado em interpretação contrária ao posicionamento do STF (art. 525, §§ 12 e 14, ou art. 535, §§ 5º e 7º, do CPC. 9. Os parâmetros fixados neste julgamento aplicam-se aos processos, ainda que transitados em julgado, em que a sentença não tenha consignado manifestação expressa quanto aos índices de correção monetária e taxa de juros (omissão expressa ou simples consideração de seguir os critérios legais). 10. Ação Declaratória de Constitucionalidade e Ações Diretas de Inconstitucionalidade julgadas parcialmente procedentes”. (Tribunal Pleno, DJe 7.4.2021, grifo nosso)
+
+    Na oportunidade, ficou assentado que a incidência de juros moratórios com base na taxa SELIC não pode ser cumulada com a aplicação de nenhum outro índice de atualização do débito judicial, sob pena de caracterização de bis in idem.
+
+    Destacou-se, ainda, que, para se evitarem incertezas, o que ocasionaria grave insegurança jurídica, deveriam ser fixados alguns marcos jurídicos de modulação dos efeitos da decisão, entre eles a aplicação de eficácia erga omnes e efeito vinculante para aqueles feitos já transitados em julgado, desde que sem qualquer manifestação expressa quanto aos índices de correção monetária e taxa de juros (omissão expressa ou simples consideração de seguir os critérios legais).
+
+    No caso, verifica-se que a reclamante interpôs recurso ordinário para o TRT com o objetivo de ver aplicada a modulação dos efeitos firmada no julgamento da ADC 58. O pedido, no entanto, foi rejeitado, in verbis:
+
+    “(...)
+
+    Em que pese possuir entendimento diverso, conforme já externado em diversos julgados de minha relatoria, me alinho ao entendimento majoritário nesta E. 10ª Turma, que, com base no julgamento proferido pelo C. TST, no ArgInc 479-60.2011.5.04.0231 e no RE 870947, do E. STF, adota o IPCA-E para a atualização dos créditos trabalhistas, observados os efeitos modulatórios da decisão do TST para fixação do índice IPCA-E, a partir de 25 de março de 2015, permanecendo a TR para o período anterior” (eDOC 3 – ID: 07ae1d81, p. 59; grifei)
+
+    Contra tal decisão, foi interposto recurso de revista, cujo seguimento foi negado, sob o argumento de que a decisão recorrida estaria em consonância com a jurisprudência do Tribunal Superior do Trabalho, nos seguintes termos:
+
+    “(...)
+
+    DAS DECISÕES ATUAIS DO EG. TST. Constata-se que, mesmo na vigência da reforma trabalhista, as Turmas do Eg. TST continuam a determinar a aplicação do IPCA-E como fator de correção monetária dos débitos trabalhistas, citando o entendimento do Supremo Tribunal Federal - STF, bem como a decisão plenária do TST proferida no incidente de Arguição de Inconstitucionalidade 479-60.2011.5.04.0231, que declarou inconstitucional a expressão ‘equivalentes à TRD’ contida no artigo 39 da Lei 8.177/1991, por não refletir a efetiva recomposição da perda resultante da inflação, e acolheu o IPCA-E como fator de atualização monetária dos débitos trabalhistas a partir de 25 de março de 2015, data adotada pelo STF nos acórdãos que determinaram a aplicação do índice para os créditos em precatórios (ADIs 4.357 e 4.425).
+
+    Em decisões do C. TST, já na vigência da Lei nº 13.467/17, ficou assentado que a alteração trazida pelo artigo 879 da CLT é inaplicável. Nesse sentido, a 6ª Turma decidiu ser inviável a aplicação do parágrafo 7º do artigo 879 da CLT, uma vez que a Corte Suprema entendeu que a TR não reflete a desvalorização da moeda brasileira e, ainda, porque a Lei nº 13.467/2017 não retroage para atingir os contratos extintos antes de sua vigência. Na mesma direção é o entendimento da 1ª Turma, ao assentar que o mencionado artigo em nada altera a decisão do Plenário do TST, que declarou a inconstitucionalidade da TR como fator de correção monetária dos débitos trabalhistas, com respaldo em decisão vinculante do STF” (eDOC 3 – ID: 07ae1d81, p. 73)
+
+    Interposto agravo de instrumento contra tal decisão, o recurso foi inadmitido e o entendimento mantido.
+
+    Pois bem.
+
+    Observa-se que a decisão reclamada — ao confirmar a incidência de IPCA-E, a partir de 25 de março de 2015, permanecendo a TR para o período anterior (eDOC 3 – ID: 07ae1d81, p. 59) —, está em desacordo com o entendimento firmado por esta Suprema Corte no julgamento das ADC 58, ADC 59, ADI 5.867 e ADI 6.021, em que determinada a atualização dos débitos judiciais pelo IPCA-E, na fase pré-judicial e, a partir da citação, pela taxa SELIC, a qual engloba juros e correção monetária.
+
+    Diante do exposto, julgo procedente a presente reclamação para cassar o ato reclamado, determinando que outro seja proferida com observância da tese jurídica fixada pelo Supremo Tribunal Federal no julgamento das Ações Declaratórias de Constitucionalidade 58/DF e 59/DF e das Ações Declaratórias de Inconstitucionalidade 5.867/DF e 6.021/DF (art. 21, § 1º, do RISTF).
+
+    Publique-se. Int..
+
+    Brasília, 27 de março de 2023.
+
+Ministro Gilmar Mendes
+
+Relator
+
+Documento assinado digitalmente
