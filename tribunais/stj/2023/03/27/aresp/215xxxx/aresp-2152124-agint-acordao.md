@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/03/2023 a 27/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Humberto Martins, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Cuida-se de Agravo Interno interposto contra decisão que conheceu do Agravo para conhecer em parte do Recurso Especial do Estado de Mato Grosso do Sul e negar-lhe provimento.
+A parte agravante sustenta que não incide a Súmula 83/STF e repisa as teses de ofensa aos arts. 1.022 do CPC e 54 da Lei 9.784/1999. Aduz:
+Na verdade, os temas são cruciais para o deslinde do feito, uma vez que afetam diretamente a controvérsia de fundo.
+E que as questões são fundamentais para a aferição da própria existência do direito do particular.
+Entretanto, o fundamento pretoriano utilizado no provimento hostilizado justifica exatamente a conclusão contrária, o que indica contradição e omissão em pontos fundamentais para resolução da controvérsia em substancial afronta ao art. 1022/CPC.
+(..)
+Entretanto, a jurisprudência torrencial do STJ. na esteira da orientação do STF. entende que referido posicionamento não pode se aplicar no caso de ofensa direta ao texto constitucional, como ocorreu na espécie. Neste caso, não pode ser aplicado o prazo decadencial de 05 (cinco) anos da Lei de Processo Administrativo Federal.
+Pleiteia a reconsideração do decisum ou a submissão do recurso à Turma.
+Impugnação às fls. 1.102-1.108, e-STJ.
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. SERVIDOR PÚBLICO. VIOLAÇÃO DO ART. 1.022 DO CPC NÃO CONFIGURADA. PROGRESSÃO FUNCIONAL. PRETENSÃO DE RECEBIMENTO DE VALORES RETROATIVOS. DECADÊNCIA ADMINISTRATIVA. OCORRÊNCIA.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC/2015.
+2. O acórdão recorrido está em conformidade com o entendimento do Superior Tribunal de Justiça de que os atos administrativos praticados antes do advento da Lei Federal 9.784/1999 estão sujeitos ao prazo decadencial quinquenal, contado da sua entrada em vigor. Precedentes: AgRg no REsp 1.552.624/RN, Rel. Min. Sérgio Kukina, Primeira Turma, DJe 1/6/2018; AgRg no AgRg no REsp 1.554.505/RS, Rel. Min. Herman Benjamin, Segunda Turma, DJe 19/12/2016; AgRg no AREsp 64.741/MG, Rel. Min. Herman Benjamin, Segunda Turma DJe 18/03/2013.
+3. Incide, in casu, o princípio estabelecido na Súmula 83/STJ: "Não se conhece do Recurso Especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+4. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 17.2.2023.
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado. Portanto não há falar em reparo na decisão.
+Conforme consignado na decisão agravada, constata-se que não se configurou a ofensa aos arts. 489 e 1.022 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+Na hipótese dos autos, as partes insurgentes buscam a reforma do aresto impugnado, asseverando que o Colegiado a quo não se pronunciou sobre os temas ventilados nos recursos de Embargos de Declaração. Todavia, verifica-se que o acórdão controvertido está bem fundamentado, inexistindo omissão ou contradição.
+Registre-se, portanto, que a Corte local examinou e decidiu, fundamentadamente, todas as questões postas ao seu crivo, não cabendo falar em negativa de prestação jurisdicional.
+Em seu recurso, o Estado de Mato Grosso do Sul afirma que, ainda que tenha se passado prazo decadencial de cinco anos, pode-se anular o ato administrativo quando evidenciado que o ato em questão produz afronta ao texto constitucional, de modo que o art. 54 da Lei 9.784/1999 não se aplica aos casos de inconstitucionalidade.
+Sobre esse ponto, o acórdão recorrido asseverou:
+Por outro lado, é cediço que a Administração Pública tem o poder/dever de rever e anular seus próprios atos, quando eivados de ilegalidade. Todavia, se do ato ilegal decorrem efeitos favoráveis ao administrado, como é o caso dos autos, c obrigatória a instauração do processo administrativo prévio, com a observância do devido processo legal, bem como do prazo decadencial de cinco anos, previsto no art. 54 da Lei n. 9.784/99.
+Nesse sentido é a jurisprudência do Superior Tribunal de Justiça:
+(..)
+Sendo assim, tendo em vista que o ato que concedeu progressão funcional ao recorrente foi publicado em 21.09.2009. c que ate o presente momento não se tem notícias de revisão do ato pela Administração, evidente que houve a ocorrência da decadência administrativa, devendo ser preservada a situação jurídica consolidada, em nome do princípio da segurança jurídica.
+Logo, o provimento parcial do recurso é medida que se impõe.
+Dessume-se que o decisum recorrido está em sintonia com o atual entendimento deste Tribunal Superior, no sentido de que os atos administrativos praticados antes do advento da Lei Federal 9.784/1999 estão sujeitos ao prazo decadencial quinquenal, contado da sua entrada em vigor. Vejamos:
+ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SERVIDORES PÚBLICOS. HORAS EXTRAS INCORPORADAS EM DECORRÊNCIA DE DECISÕES JUDICIAIS TRANSITADAS EM JULGADO. REVISÃO. DECADÊNCIA CONFIGURADA. AGRAVO REGIMENTAL DA UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE DESPROVIDO.
+1. A Administração Pública, ao buscar a alteração do parâmetro estabelecido para cálculo das horas extras, procurou corrigir ato administrativo próprio, anterior ao advento da Lei 9.784/1999, motivo pelo qual deve submeter-se ao prazo decadencial estabelecido no artigo 54 da referida Lei, contando-se como termo inicial para a contagem da decadência, sua entrada em vigor (AgRg no REsp. 1.282.972/RN, Rel. Min. CASTRO MEIRA, DJe 15.2.2013).
+2. Na espécie, o processo revisional iniciou-se em agosto 2008 (fls. 89), motivo pelo qual deve ser reconhecida a decadência, nos termos do art. 54 da Lei 9.784/1999, já que o prazo para a Administração começou a correr em janeiro de 1999.
+3. Agravo Regimental da UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE desprovido.
+(AgRg no REsp 1.549.854/RN, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 26/3/2019)
+ADMINISTRATIVO E PROCESSUAL CIVIL. SERVIDOR PÚBLICO. OFENSA AO ART. 1022 DO CPC INEXISTENTE. AUSÊNCIA DE LITISCONSÓRCIO PASSIVO. HORAS EXTRAS INCORPORADAS. COISA JULGADA. ABSORÇÃO. DECADÊNCIA
+(..)
+3. O acórdão recorrido está em conformidade com o entendimento do Superior Tribunal de Justiça de que os atos administrativos praticados antes do advento da Lei Federal 9.784/1999 estão sujeitos ao prazo decadencial quinquenal, contado da sua entrada em vigor. Precedentes: AgRg no REsp 1.552.624/RN, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 1/6/2018; AgRg no AgRg no REsp 1.554.505/RS, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 19/12/2016; AgRg no AREsp 64.741/MG, Rel. Ministro Herman Benjamin, Segunda Turma DJe 18/03/2013.
+4. Recurso Especial não provido. (REsp 1.796.396/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 12/9/2019)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ADMINISTRATIVO. INCORPORAÇÃO DE HORAS EXTRAS EM DECORRÊNCIA DE DECISÕES JUDICIAIS. REVISÃO DA FORMA DE ATUALIZAÇÃO. ATO CONCRETO, ÚNICO E DE EFEITOS PERMANENTES. DECADÊNCIA. RECONHECIMENTO.
+1 - "É pacífico o entendimento no Superior Tribunal de Justiça segundo o qual a inclusão das horas extras incorporadas aos vencimentos dos servidores implantada em razão do cumprimento de decisão judicial transitada em julgado, constitui ato comissivo, único, de efeitos concretos. Assim, a revisão da base de cálculo das horas extras percebidas pelos Recorridos para adotar os novos critérios utilizados pelo Tribunal de Contas da União, em julho de 2008, está fulminada pelo prazo decadencial de cinco anos, previsto no art. 54, da Lei n. 9.784/1999, cuja contagem iniciou-se com a vigência da mencionada norma."(AgInt no REsp 1544316/RN, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 06/10/2016, DJe 21/10/2016).
+(..) (AgRg no REsp 1.552.624/RN, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 1º/6/2018)
+ADMINISTRATIVO. SERVIDOR. HORAS EXTRAS INCORPORADAS. DECADÊNCIA.
+1. Os atos administrativos praticados antes do advento da Lei Federal nº 9.784, de 1º.2.1999, estão sujeitos ao prazo decadencial quinquenal, contado da sua entrada em vigor.
+2. O Superior Tribunal de Justiça tem decidido que a possibilidade de revisão da base de cálculo das horas extras incorporadas está fulminada pela decadência, de que trata o art. 54 da Lei nº 9.784, de 1999.
+3. Agravo Regimental não provido.
+(AgRg no AgRg no REsp 1.554.505/RS, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, DJe 19/12/2016)
+ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. REVISÃO DA INCORPORAÇÃO DE HORAS EXTRAS. ATO CONCRETO, ÚNICO E DE EFEITOS PERMANENTES. O PRAZO DECADENCIAL PREVISTO NO ART. 54 DA LEI 9.784/99, QUANTO AOS ATOS ADMINISTRATIVOS ANTERIORES À SUA PROMULGAÇÃO, INICIA-SE A PARTIR DA DATA DE SUA ENTRADA EM VIGOR. DECADÊNCIA CONFIGURADA DO ATO ADMINISTRATIVO DE REVISÃO. AGRAVO REGIMENTAL DA UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE AO QUAL SE NEGA PROVIMENTO.
+1. Constata-se nos autos que a Administração Pública promoveu a alteração dos cálculos das horas extras incorporadas ao vencimento do Servidor Público Federal.
+2. Buscou-se a alteração de um parâmetro estabelecido para o cálculo das horas extras. Todavia, os pagamentos que eram realizados todos os meses pela Administração não constituem a renovação desse parâmetro, mas, sim, mera consequência dele.
+3. Esta Corte Superior adotou o entendimento de que tanto a fixação quanto a alteração ou supressão de cálculo da remuneração do Servidor são atos comissivos únicos e de efeitos permanentes, não se configurando, portanto, situação de prestação de trato sucessivo. Precedentes: AgRg no REsp. 1.311.034/RN, Rel. Min. HUMBERTO MARTINS, DJe 1.6.2012; RMS 31.113/AL, Rel. Min. LAURITA VAZ, DJe 1.2.2012; e AgRg nos EDcl no AgRg no REsp. 797.634/CE, Rel. Min. CELSO LIMONGI, DJe 3.8.2009.
+4. O Superior Tribunal de Justiça entende que, caso o ato acoimado de ilegalidade haja sido praticado antes da promulgação da Lei 9.784/99, a Administração tem prazo de cinco anos a partir da vigência da aludida norma para anulá-lo; e, se tiver sido realizado após a edição da mencionada Lei, o prazo quinquenal da Administração contar-se-á da prática do ato tido por ilegal, sob pena de decadência, salvo comprovada má-fé. Precedentes: AgRg no REsp. 1.314.724/RN, Rel. Min. HERMAN BENJAMIN, DJe 8.3.2013; AgRg no REsp. 1.257.473/RS, Rel. Min. HUMBERTO MARTINS, DJe 23.3.2012; AgRg no Ag. 1.116.887/RJ, Rel. Min. MARIA THEREZA DE ASSIS MOURA, DJe 15.8.2011; e AgRg no Ag. 1.342.657/RS, Rel. Min. JORGE MUSSI, DJe 18.4.2011.
+5. A Administração já procedia ao pagamento das horas extras normalmente corrigidas desde 1997, ou antes, de modo que o prazo decadencial somente teve início em 1.2.1999 (data da publicação da Lei 9.784/99), encerrando-se em 1.2.2004. Assim, considerando que tanto o procedimento administrativo formulada pela Secretaria de Fiscalização de Pessoal-SEFIP, quanto o respectivo Acórdão 2.161/05 do TCU datam de 2005, deve-se reconhecer a decadência.
+6. Agravo Regimental da UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE ao qual se nega provimento. (AgRg no REsp 1.553.593/RN, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 13/5/2016)
+Como observado, não merece prosperar a irresignação. Incide, in casu, o princípio estabelecido na Súmula 83/STJ: "Não se conhece do Recurso Especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo que contra ela se insurge.
+Por tudo isso, nego provimento ao Agravo Interno.
+É como voto.
