@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/03/2023 a 27/03/2023, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Humberto Martins, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que não conheceu do agravo em recurso especial, fundamentado no art. 105, III, a e c, da Constituição Federal, visando reformar acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim resumido:
+PROCESSO CIVIL - APELAÇÃO CIVIL - EXECUCÃO FISCAL EMBARGOS - NULIDADE DO TÍTULO SELIC - MULTA CONFISCATÓRIA - PRESCRIÇÃO I - A CDA QUE EMBASA A EXECUÇÃO, ALÉM DE ESPELHAR O INSTRUMENTO ADMINISTRATIVO DE APURAÇÃO DO CRÉDITO, TRAZ EM SEU BOJO O VALOR ORIGINÁRIO DO DÉBITO, O PERÍODO E O FUNDAMENTO LEGAL DA DÍVIDA E DOS CONSECTÁRIOS, ELEMENTOS SUFICIENTES A OPORTUNIZAR A DEFESA DO CONTRIBUINTE EM CONFORMIDADE COM OS PRINCÍPIOS DA AMPLA DEFESA E DO CONTRADITÓRIO. II - NÃO É NECESSÁRIO QUE O FATO GERADOR VENHA DETALHADO NA CERTIDÃO DE DÍVIDA ATIVA PARA SUA VALIDADE: BASTA MENCIONAR O NÚMERO DO PROCESSO ADMINISTRATIVO EM QUE O CRÉDITO FOI APURADO. III - OS CRÉDITOS FISCAIS EM COBRO NÃO ESTÃO PRESCRITOS, JÁ QUE FORAM LANÇADOS EM 21/01/2002. SENDO QUE A EXECUÇÃO FISCAL FOI DISTRIBUÍDA EM JULHO/2002. III - A MULTA MORATÓRIA NÃO ESTÁ SUBMETIDA AO PRINCÍPIO DO NÃO-CONFISCO E FOI APLICADA PROPORCIONAL E RAZOAVELMENTE NOS TERMOS DO ART. 35 DA LEI 8.212/91 C/C ART. 61 DA LEI 9.430/96 QUE PREVEEM PERCENTUAL MÁXIMO DE VINTE POR CENTO. IV - HAVENDO NORMA CONSTITUCIONAL QUE AUTORIZE A ATUALIZAÇÃO DO CRÉDITO TRIBUTÁRIO PELA TAXA SELIC, NÃO CABE AO JUDICIÁRIO DETERMINAR O AFASTAMENTO DE SUA APLICAÇÃO. V-APELO ÍMPROVIDO.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com base no art. 21-E, inciso V, c/c o art. 253, parágrafo único, inciso I, ambos do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial."
+Foi interposto agravo interno.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. PRESCRIÇÃO. NÃO CONHECIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. INCIDÊNCIA ENUNCIADO N. 182 DA SÚMULA DO STJ.
+I - Na origem, trata-se de embargos à execução fiscal objetivando julgar extinta a execução fiscal pela sua prescrição. Na sentença o pedido foi julgado improcedente. No Tribunal a quo, a sentença foi mantida.
+II - A decisão recorrida, que não conheceu do agravo em recurso especial, considerou que a parte agravante deixou de impugnar especificamente o fundamento Súmula n. 7/STJ.
+III - Por outro lado, em seu agravo interno, a parte agravante traz alegações dissociadas da decisão recorrida, referentes à matéria de mérito do recurso especial, que nem sequer chegou a ser submetido ao juízo de admissibilidade.
+IV - Nesse diapasão, verifica-se que a parte agravante deixa de atacar especificamente os fundamentos da decisão ora agravada, ensejando, assim, a incidência do enunciado n. 182 da Súmula do STJ, segundo o qual "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". Ressalta-se que a mesma exigência é prevista no art. 1.021, § 1º, do Código de Processo Civil de 2015.
+V - Nesse sentido, veja-se a seguinte jurisprudência: AgInt no REsp n. 1.600.403/GO, relator Ministro Humberto Martins, Segunda Turma, julgado em 23/8/2016, DJe 31/8/2016; AgInt no AREsp n. 873.251/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 19/5/2016, DJe 30/5/2016; AgInt no AREsp n. 864.079/PR, relator Ministro Herman Benjamin, Segunda Turma, julgado em 9/8/2016, DJe 8/9/2016.
+VI - Agravo interno não conhecido.
+VOTO
+O agravo interno não merece conhecimento.
+A decisão recorrida, que não conheceu do agravo em recurso especial, considerou que a parte agravante deixou de impugnar especificamente o fundamento da Súmula n. 7/STJ.
+Por outro lado, em seu agravo interno, a parte agravante traz alegações dissociadas da decisão recorrida, referentes à matéria de mérito do recurso especial, que nem sequer chegou a ser submetido ao juízo de admissibilidade.
+Nesse diapasão, verifica-se que a parte agravante deixa de atacar especificamente os fundamentos da decisão ora agravada, ensejando, assim, a incidência do enunciado n. 182 da Súmula do STJ, segundo o qual "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". Ressalta-se que a mesma exigência é prevista no art. 1.021, § 1º, do Código de Processo Civil de 2015.
+Nesse sentido, veja-se a seguinte jurisprudência: AgInt no REsp n. 1.600.403/GO, relator Ministro Humberto Martins, Segunda Turma, julgado em 23/8/2016, DJe 31/8/2016; AgInt no AREsp n. 873.251/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 19/5/2016, DJe 30/5/2016; AgInt no AREsp n. 864.079/PR, relator Ministro Herman Benjamin, Segunda Turma, julgado em 9/8/2016, DJe 8/9/2016.
+Ante o exposto, não conheço do recurso de agravo interno.
+É o voto.
