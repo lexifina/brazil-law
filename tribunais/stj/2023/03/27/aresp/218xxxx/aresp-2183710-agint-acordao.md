@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/03/2023 a 27/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Humberto Martins, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno interposto de decisão monocrática (fls. 124-126, e-STJ) que conheceu do Agravo para não conhecer do Recurso Especial.
+A agravante alega:
+Analisando as razões do Agravo e do próprio Recurso Especial, percebe-se que o conhecimento da insurgência não passa pelo revolvimento dos fatos e das provas, nem tampouco provoca os Tribunais Superiores a se debruçarem sobre os elementos já apreciados pelo Tribunal local. Provoca, tão só, essa Corte Superior a conferira correta qualificação jurídica aos fatos já reconhecidos e apreciados pelas instâncias inferiores. Em hipóteses como a presente, não há o que se falar em aplicação da Súmula 07/STJ, na medida em que o recurso especial manejado não pretende revolver os fatos dos autos -vez que incontroversos os elementos concretos sobre os quais se baseia o Especial, mas apenas provocar essa Corte a se manifestar quanto à qualificação jurídica dos fatos sobre os quais se baseou o acórdão vergastado.
+Pleiteia a reconsideração do decisum ou a submissão do feito à Turma.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. DESNECESSIDADE. ACÓRDÃO COM FUNDAMENTO NO CONTEXTO FÁTICO-PROBATÓRIO DOS AUTOS. REVISÃO. SÚMULA 7/STJ.
+1. Hipótese em que o Tribunal de origem concluiu: "no presente caso, não há elementos que comprovem os requisitos para a desconsideração, tendo o exequente a requerido, em suma, por não encontrar bens e pelo aparente encerramento irregular. O fato de inexistirem bens pode decorrer do insucesso da atividade empresarial, não sendo prova de irregularidade o esgotamento do capital social. A existência de apenas uma pessoa no quadro social da executada caracterizaria sua dissolução, não a extinção de sua personalidade jurídica" (fl. 76, e-STJ).
+2. É inviável analisar a tese defendida no Recurso Especial, pois inarredável a revisão do conjunto probatório dos autos para afastar as premissas fáticas estabelecidas pelo acórdão recorrido. Aplica-se, portanto, o óbice da Súmula 7/STJ.
+3. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 22.2.2023.
+O Tribunal de origem, com base no acervo fático-probatório dos autos, concluiu:
+Assim, para a análise do requerimento de desconsideração da personalidade jurídica, serão considerados os requisitos previstos no CC.
+A desconsideração da personalidade jurídica da empresa executada exige a caracterização do desvio da finalidade dessa empresa ou a confusão de seu patrimônio com o de seus sócios, hipóteses essas que não estão comprovadas nos autos.
+A sociedade distingue-se dos membros que a compõem; tem personalidade jurídica distinta destes. Admite-se, é certo, o afastamento da regra, que não é absoluta, em prol da função social do direito, que não pode prestigiar a utilização abusiva de seus institutos, quando a pessoa jurídica forem pregada de maneira imprópria para a prática de ato ilícito, com gestão abusiva ou fraudulenta de seus administradores, ou com confusão de seu patrimônio com o de seus sócios (CC, art. 50).
+Nesse caso, desconsidera-se a personalidade jurídica da sociedade a fim de que seus sócios respondam pessoalmente com os seus bens pela dívida daquela.
+Hipóteses como a ausência de bens penhoráveis da sociedade executada e seu encerramento irregular, por si, não caracterizam gestão abusiva ou fraudulenta por seus administradores e nem confusão do seu patrimônio com o de seus sócios, não justificando, portanto, a desconsideração de sua personalidade jurídica.
+(..)
+No presente caso, não há elementos que comprovem os requisitos para a desconsideração, tendo o exequente a requerido, em suma, por não encontrar bens e pelo aparente encerramento irregular. O fato de inexistirem bens pode decorrer do insucesso da atividade empresarial, não sendo prova de irregularidade o esgotamento do capital social. A existência de apenas uma pessoa no quadro social da executada caracterizaria sua dissolução, não a extinção de sua personalidade jurídica.
+É inviável analisar a tese defendida no Recurso Especial, pois inarredável a revisão do conjunto probatório dos autos para afastar as premissas fáticas estabelecidas pelo acórdão recorrido. Aplica-se, portanto, o óbice da Súmula 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO INTERPOSTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE AGRAVANTE.
+1. A Corte de origem manifestou-se expressamente acerca dos temas necessários a solução da controvérsia, de modo que, ausente qualquer omissão, contradição ou obscuridade, não se verifica a ofensa aos artigos 489 e 1.022 do CPC/15.
+2. Nos termos da jurisprudência desta Corte Superior, "para fins de aplicação da Teoria Menor da desconsideração da personalidade jurídica (art. 28, § 5º, do CDC), basta que o consumidor demonstre o estado de insolvência do fornecedor ou o fato de a personalidade jurídica representar um obstáculo ao ressarcimento dos prejuízos causados" (REsp 1766093/SP, Rel. Ministra NANCY ANDRIGHI, Rel. p/ Acórdão Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 12/11/2019, DJe 28/11/2019). Incidência da Súmula 83/STJ.
+3. A revisão do aresto impugnado no sentido pretendido pela parte recorrente exigiria derruir a convicção formada nas instâncias ordinárias, quanto ao preenchimento dos requisitos legais da medida de desconsideração da personalidade jurídica. Incidência da Súmula 7/STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.135.488/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 28/11/2022, DJe de 2/12/2022.)
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC. INOCORRÊNCIA. DISSOLUÇÃO IRREGULAR. SÚMULA N. 435/STJ. REQUISITOS PARA O REDIRECIONAMENTO PREENCHIDOS. INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. DESNECESSIDADE. ACÓRDÃO EMBASADO EM PREMISSAS FÁTICAS. REVISÃO. SÚMULA N. 7/STJ. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO ENTRE OS JULGADOS CONFRONTADOS .APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A Corte de origem apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese. Inexistência de omissão.
+III - Nos termos da Súmula n. 435/STJ: "Presume-se dissolvida irregularmente a empresa que deixar de funcionar no seu domicílio fiscal, sem comunicação aos órgãos competentes, legitimando o redirecionamento da execução fiscal para o sócio-gerente".
+IV - É firme a orientação deste Superior Tribunal de que, na execução fiscal, a ocorrência de algumas das hipóteses descritas nos arts. 134 e 135 do CTN autoriza o redirecionamento do processo executivo, sem a necessidade de instauração do incidente de desconsideração da personalidade jurídica.
+V - In casu, rever o entendimento do Tribunal de origem, com o objetivo de acolhera pretensão recursal de reconhecer a inocorrência da dissolução irregular da empresa, bem como a necessidade da instauração do Incidente da Desconsideração da Personalidade Jurídica da sociedade empresária, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7/STJ.
+VI - Para a comprovação da divergência jurisprudencial, a parte deve proceder ao cotejo analítico entre os julgados confrontados, transcrevendo os trechos dos acórdãos que configurem o dissídio jurisprudencial, sendo insuficiente, para tanto, a mera transcrição de ementas. Precedentes.
+VII - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VIII - Agravo Interno improvido.
+(AgInt no REsp n. 2.009.977/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 22/11/2022, DJe de 24/11/2022.)
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes, não há prover o Agravo que contra ela se insurge.
+Diante do exposto, nego provimento ao Agravo Interno.
+É como voto.
