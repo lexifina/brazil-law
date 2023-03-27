@@ -1,0 +1,25 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/03/2023 a 27/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Humberto Martins, Herman Benjamin e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno (fls. 141/146) interposto contra decisão monocrática sintetizada na seguinte ementa:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO FISCAL. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. EXECUTIVO FISCAL. PROSSEGUIMENTO. AUSÊNCIA DE PREQUESTIONAMENTO. ÓBICE DA SÚMULA 211/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+O agravante sustenta que o v. acórdão de origem padece de evidente negativa de prestação jurisdicional, uma vez que há ausência do enfretamento de aspectos relevantes para a conclusão da causa.
+Acrescenta, portanto, que não há a incidência da Súmula 284/STF, uma vez que o conteúdo do recurso especial apresentou os pontos em que o acórdão regional foi omisso.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. EXECUÇÃO FISCAL. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF.
+1. É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia (Súmula 284/STF).
+2. Agravo interno não provido.
+VOTO
+O recurso não merece prosperar.
+Cinge-se a controvérsia, na origem, de agravo de instrumento contra decisão que nos autos de execução fiscal inferiu o pedido de bloqueio de ativos financeiros por meio do sistema Sisbajud.
+O Tribunal de origem ao analisar a questão controvertida negou provimento à pretensão recursal, ponderando que não cabe na execução de dívida ativa contra massa falida o bloqueio de ativos financeiros, senão vejamos:
+A Fazenda Pública não se submete à habilitação de seus créditos(CTN, art. 187; LEF, art. 29), tanto que a execução fiscal desenvolve-se em juízo diverso do falimentar (LEF, art. 5º). Todavia, os créditos fiscais não se livram da classificação (Lei nº 11.101, de 2005, art. 83, III). Portanto, não cabe na execução de dívida ativa contra massa falida proceder a bloqueio de ativos inanceiros, ao contrário do que postulou a parte exequente na petição que deu ensejo à decisão agravada. Ante o exposto, voto por negar provimento ao agravo de instrumento.
+Com efeito, em que pese a fundamentação da agravante, na verdade, verifica-se que o capítulo do recurso especial voltado à demonstração de eventual ocorrência de negativa de prestação jurisdicional é genérico, limitando-se a afirmar que o acórdão a quo foi omisso quando a avaliação dos embargos de declaração, sem contudo delimitar como a tese omitida é fundamental à conclusão do julgado e, se examinada, como levaria à sua anulação ou reforma.
+Trata-se de deficiência na fundamentação, caso em que se aplica, por analogia, o disposto na Súmula 284/STF, in verbis: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, O FUNDAMENTO DA DECISÃO AGRAVADA ALUSIVO À INVIABILIDADE DE EXAME, EM RECURSO ESPECIAL, DA ALEGADA AFRONTA AOS PRINCÍPIOS CONSTITUCIONAIS DO CONTRADITÓRIO E DA AMPLA DEFESA. SÚMULA 182/STJ. AÇÃO ANULATÓRIA DE DÉBITO FISCAL. ALEGAÇÃO GENÉRICA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. ALEGADA VIOLAÇÃO AOS ARTS. 784, IX, E 803, I, DO CPC/2015, 202 E 203 DO CTN E 2º, § 5º, DA LEI 6.830/80. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. ART. 1.025 DO CPC/2015. INAPLICABILIDADE, NO CASO. INADMISSIBILIDADE DO RECURSO ESPECIAL, ADEMAIS, QUANTO À ALEGADA INEXISTÊNCIA DE PRESCRIÇÃO, POR DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. AGRAVO INTERNO PARCIALMENTE CONHECIDO, E, NESSA EXTENSÃO, IMPROVIDO. (..) V. No tocante à alegação de negativa de prestação jurisdicional, verifica-se que, apesar de apontar como violados os arts. 489 e 1.022 do CPC/2015, a parte agravante não evidencia qualquer vício, no acórdão recorrido, deixando de demonstrar no que consistiu a alegada ofensa aos citados dispositivos, atraindo, por analogia, a incidência da Súmula 284 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"). Nesse sentido: STJ, AgInt no AREsp 1.229.647/MG, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe de 15/06/2018; AgInt no AREsp 1.173.123/MA, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 29/06/2018. (..) X. Agravo interno parcialmente conhecido, e, nessa extensão, improvido. (AgInt no AREsp 1596432/RJ, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 14/06/2021, DJe 17/06/2021 - grifo nosso)
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É o voto.
