@@ -1,0 +1,104 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/03/2023 a 27/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de agravo interno interposto por JOSÉ DJALMA RIBEIRO, SOLANGE MARIA VIEIRA FERNANDES RIBEIRO, LUTIANNY VIEIRA FERNANDES RIBEIRO e ROSIANI APARECIDA CUSTÓDIO RIBEIRO em face de decisão monocrática da lavra deste signatário que negou provimento ao agravo em recurso especial.
+O aludido apelo extremo, fundado na alínea "a" do permissivo constitucional, desafiou acórdão proferido pelo TRIBUNAL DE JUSTIÇA DE MINAS GERAIS, assim ementado (e-STJ, fl. 560):
+APELAÇÂO CÍVEL AÇÃO DE REINTEGRAÇÃO DE POSSE-PRELIMINAR - ILEGITIMIDADE ATIVA - CONDOMÍNIO PRO INDIVISO - DEFESA DA POSSE - CONDÔMINO - PRELIMINAR REJEITADA - ESBULHO POSSESSÓRIO - PERDA DA POSSE ANTERIOR - ATO ATENTATÓRIO COMPROVADO - USUCAPIÃO - DEFESA - POSSIBILID4DE - SÚMULA 273 DO STF - REQUISITOS - AUSENTES. 1-Em se tratando de área comum que pode ser utilizada por todos os condôminos, cada um destes possui legitimidade ad causam para reclamar qualquer ameaça sobre a área, conforme disciplina o artigo 1.314 do CC/02. II - Para que seja reconhecido o direito de o autor ser reintegrado na posse, necessária se faz a comprovação do exercício da posse, como também da moléstia e ameaça perpetrada pela parte contrária, nos termos do artigo 561 do CPCII5. III - Nos termos da Súmula n. 237 do STF, a usucapião pode ser arguida em matéria de defesa. IV - Ausente demonstração de exercício de posse ininterrupta e com o agir como se dono fosse, a rejeição do pedido de prescrição aquisitiva é medida que se impõe.
+Opostos embargos de declaração, esses foram rejeitados (e-STJ, fls. 575-577).
+Nas razões do especial (e-STJ, fls. 611-625), a parte recorrente sustentou violação aos seguintes dispositivos:
+a) arts. 489 e 1022 do Código de Processo Civil de 2015, defendendo que a Corte de origem não sanou omissões e contradições supostamente perpetradas pelo acórdão embargado acerca do ônus dos recorridos de provar a existência de posse, a perda e prática de esbulho sobre o imóvel, mesmo diante da oposição dos embargos declaratórios, o que teria configurado negativa de prestação jurisdicional;
+b) arts. 17 do CPC/15 e 1314, 1199 do Código Civil, alegando a ilegitimidade passiva dos recorridos para ajuizar a demanda, porquanto trata-se de condomínio pro diviso, isto é, que não há copropriedade ou composse sobre o bem considerado como um todo;
+c) art. 373, I, do CPC/15, afirmando que os recorridos não se desincumbiram do seu ônus probatório, referente a perda da posse;
+d) arts. 561 do CPC/15, 1238 e 1243 do Código Civil, pugnando pela improcedência do pedido de reintegração de posse.
+Oferecidas as contrarrazões às fls. 633-645 (e-STJ).
+Em sede de juízo provisório de admissibilidade, o Tribunal local negou seguimento ao recurso especial (fls. 647-652, e-STJ), o que ensejou o manejo do agravo (fls. 655-667, e-STJ), buscando destrancar o processamento daquela insurgência.
+Em decisão monocrática (e-STJ, fls. 682-689), este signatário negou provimento ao recurso especial em razão da ausência de negativa de prestação jurisdicional e incidência da Súmula 7/STJ.
+No presente agravo interno (e-STJ, fls. 692-702), a ora agravante combate o óbice supracitado e reitera os mesmos argumentos lançados nas razões do apelo extremo.
+Requer, por fim, a reconsideração da decisão monocrática ou sua reforma pelo Colegiado.
+Sem impugnação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM AGRAVO EM RECURSO ESPECIAL - AÇÃO DE REINTEGRAÇÃO DE POSSE - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA RECURSAL DOS DEMANDADOS.
+1. Não há falar em ofensa aos arts. 489 e 1022 do CPC/15, porquanto todas as questões fundamentais ao deslinde da controvérsia foram apreciadas pelo Tribunal a quo, sendo que não caracteriza omissão ou falta de fundamentação a mera decisão contrária ao interesse da parte, tal como na hipótese dos autos.
+2. No caso, o Tribunal de origem asseverou que a área objeto da lide diz respeito a espaço comum do condomínio e qualquer condômino pode defender a posse. Para alterar tais conclusões e acolher o inconformismo recursal no sentido de verificar a apontada ilegitimidade ativa dos recorridos para a ação possessória seria imprescindível a reapreciação do conjunto fático e probatório dos autos, providência que atrai o óbice da Súmula 7 do STJ.
+3. A revisão de matéria relativa à prática de esbulho pelo réu da ação de reintegração de posse demanda o reexame do conjunto fático-probatório dos autos, que é vedado na via especial, diante do óbice da Súmula 7 deste Tribunal.
+4. Nos termos da jurisprudência desta Corte, não há como aferir eventual ofensa ao art. 333 do CPC/73 (art. 373 do CPC/15) sem que se verifique o conjunto probatório dos autos. A pretensão de simples reexame de provas, além de escapar da função constitucional deste Tribunal, encontra óbice na Súmula 7 do STJ, cuja incidência é induvidosa no caso sob exame. Precedentes.
+5. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): O agravo interno não merece acolhida, porquanto os argumentos tecidos pela parte agravante são incapazes de infirmar a decisão agravada, motivo pelo qual merece ser mantida na íntegra, por seus próprios fundamentos.
+1. Consoante asseverado na decisão singular, a apontada violação aos arts. 489 e 1.022 do CPC/15 não se configura.
+Constata-se, da leitura do aresto objurgado, que a Corte estadual, ao apreciar o recurso interposto pela parte, dirimiu a controvérsia e decidiu as questões postas à apreciação de forma suficientemente fundamentada, sem omissões, manifestando-se expressamente acerca da comprovação da prática do esbulho, porém, em sentido contrário ao pretendido pela recorrente, o que não configura negativa de prestação jurisdicional ou deficiência de fundamentação.
+Assim constou do acórdão (fl. 606, e-STJ):
+No acórdão embargado a Turma julgadora, à unanimidade, rejeitou a preliminar de ilegitimidade ativa arguida pela parte ora embargante, "por se tratar de uma área comum que pode ser utilizada por todos os condôminos, cada um destes possui legitimidade ad causam para reclamar qualquer ameaça sobre a área, conforme disciplina o artigo 1.314 do CC/02". E assim, arremata:
+"Na hipótese, observa-se que a parte autora, ora apelada, não tem por objetivo reivindicar área individualizada do condomínio. Conforme apresentado na exordial da ação, a área objeto da lide diz respeito a espaço comum do condomínio, o que revela se tratar de um condomínio pro indiviso, cedo de que, neste caso, pode qualquer condômino defender a posse". No mérito, foi negado provimento ao recurso, por entender a Turma julgadora que restou devidamente comprovada nos autos a alegada prática de esbulho pela parte ora embargante.
+Não é demais lembrar a orientação desta Corte no sentido de que o julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, nem a indicar todos os dispositivos legais suscitados, quando tenha encontrado motivação satisfatória para dirimir o litígio.
+Nesse sentido, confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. SUFICIÊNCIA. AGRAVO DE INSTRUMENTO INTERPOSTO CONTRA DECISÃO QUE PÔS TERMO À EXECUÇÃO. INAPLICABILIDADE DO PRINCÍPIO DA FUNGIBILIDADE, PORQUANTO NÃO HÁ DÚVIDA A RESPEITO DO RECURSO ADEQUADO. AGRAVO NÃO PROVIDO.
+1. Não há violação aos arts. 489 e 1.022 do Código de Processo Civil de 2015, tendo em vista que o v. acórdão recorrido, embora não tenha examinado individualmente cada um dos argumentos suscitados pela parte, adotou fundamentação suficiente, decidindo integralmente a controvérsia.
+2. A interposição de agravo de instrumento contra sentença que extingue processo de execução configura erro grosseiro e inviabiliza a aplicação do princípio da fungibilidade recursal. Precedentes.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1520112/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 04/02/2020, DJe 13/02/2020)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. OMISSÃO. INEXISTÊNCIA. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. ENTENDIMENTO NO SENTIDO DA AUSÊNCIA DE NOVAÇÃO. MERO PARCELAMENTO DA DÍVIDA. SÚMULAS 5 E 7/STJ. APLICAÇÃO.
+AGRAVO INTERNO DESPROVIDO.
+1. Inexistem omissões ou mesmo contradição a serem sanadas no julgamento estadual, portanto inexistentes os requisitos para reconhecimento de ofensa aos arts. 10, 489, § 1º, IV e VI, e 1.022 do CPC/2015 do novo CPC. O acórdão dirimiu a controvérsia com base em fundamentação sólida, sem tais vícios, o que não se confunde com omissão ou contradição, tendo em vista que apenas resolveu a celeuma em sentido contrário ao postulado pela parte insurgente. Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas apenas a declinar as razões de seu convencimento motivado, como de fato ocorre nos autos.
+(..)
+3. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp 1445088/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 16/12/2019, DJe 19/12/2019)
+Ressalta-se que não há falar em omissão quando não acolhida a tese ventilada pelo recorrente, mormente se o acórdão abordar todos os pontos relevantes ao deslinde do feito, como ocorre na hipótese.
+Inexiste, portanto, violação ao artigo 1.022 do CPC/15, visto que as questões foram apreciadas pelo Tribunal de origem, cuja fundamentação foi clara e suficiente para o deslinde da controvérsia.
+2. Em relação à alegada ofensa aos arts. 17 do CPC/15 e 1314 e 1199 do Código Civil, a decisão agravada merece ser mantida.
+No caso, os recorrentes sustentaram a ilegitimidade passiva dos recorridos para ajuizar a demanda. Todavia, a Corte local, soberana na apreciação dos elementos fático-probatórios dos autos, asseverou o seguinte (e-STJ, fl. 565):
+A parte ora apelada ajuíza a presente ação de reintegração de posse dc perdas e danos, em desfavor dos ora recorrentes, sob a alegação de estes esbulharam parte da área do condomínio do qual esta parte apelada faz parte. Com efeito, a legitimidade ad causam é requisito para demandar em Juízo, a exigir que para compor a relação jurídica processual, deve a parte estar envolvida no conflito de interesses, certo de que no desate da lide ela suportará os efeitos da sentença. Conforme a parte ora apelada alega, a área litigiosa compõe o condomínio edilício, não pertencendo a um condômino especificamente, mas diz respeito á área comum do condomínio. Neste caso, por se tratar de uma área comum que pode ser utilizada por todos os condôminos, cada um destes possui legitimidade ad causam para reclamar qualquer ameaça sobre a área, conforme disciplina o artigo 1.314 do CC/02:
+(..)
+Na hipótese, observa-se que a parte autora, ora apelada, não tem por objetivo reivindicar área individualizada do condomínio. Conforme apresentado na exordial da ação, a área objeto da lide diz respeito a espaço comum do condomínio, o que revela se tratar de um condomínio pro indiviso, certo de que, neste caso, pode qualquer condômino defender a posse.
+Dessa forma, para alterar as conclusões contidas no decisum e acolher o inconformismo recursal no sentido de verificar a apontada ilegitimidade ativa dos recorridos, seria imprescindível a reapreciação do conjunto fático e probatório dos autos, providência que atrai o óbice da Súmula 7 do STJ.
+A propósito:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM DANOS MORAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. SÚMULA N. 284 DO STF. INÉPCIA DA INICIAL. NÃO OCORRÊNCIA. LEGITIMIDADE ATIVA E PASSIVA. CONDOMÍNIO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. DEMONSTRAÇÃO. AUSÊNCIA. DECISÃO MANTIDA.
+(..)
+5. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+6. No caso concreto, o Tribunal de origem, a partir do exame dos elementos fáticos dos autos, afastou as alegações de ilegitimidade ativa e passiva e concluiu pela desnecessidade das provas requeridas e que a área em discussão é de domínio público. Dessa forma, inviável alterar tais conclusões em recurso especial, ante o óbice da referida súmula.
+7. O conhecimento do recurso especial pela alínea "c" do permissivo constitucional exige indicação do dispositivo legal ao qual foi atribuída interpretação divergente e demonstração do dissídio, mediante verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados (art. 1.029, § 1º, CPC/2015).
+8. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.099.276/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 14/6/2021, DJe de 17/6/2021.)
+3. Outrossim, não merece reparos a decisão agravada que aplicou o óbice da Súmula 7/STJ à pretensão recursal relativa aos arts. 561 do CPC/15, 1238 e 1243 do Código Civil.
+Compulsando os autos, extrai-se do acórdão recorrido que a Corte de origem, após analisar o acervo fático-probatório dos autos, concluiu pela ocorrência de esbulho, nos seguintes termos (e-STJ, fl. 569):
+Em análise dos depoimentos citados, tal como do acervo fotográfico de fls. 23127, observa-se que a caixa de esgoto do Condomínio se encontra exatamente na área litigiosa. Ora, não se afigura crivei que a estrutura hidráulica de um imóvel seja construída dentro de uma área alheia. Essa situação de fato permite entender que, se houve alguma posse exercida por Jairo Claro Boa Morte sobre o imóvel objeto da lide, essa não se deu de forma justa, porquanto precária, forte na consideração que a realização de manutenção na caixa de esgoto, bem como a existência desta, enseja considerar que o condomínio nunca deixou de exercer sua posse sobre a área objeto do litígio. O uso do imóvel por Jairo, para a guarda de veículo, conforme a parte ora recorrente informa nestes autos, não induz a existência de posse por ele exercida, haja vista que a toda evidência referida situação ocorreu por mera liberalidade, porquanto a existência da caixa de esgoto do condomínio na área litigiosa revela que este nunca deixou de exercer sua posse.
+Ressalte que o acervo fotográfico á fl. 71 não permite concluir que a posse no imóvel era exercida por Jairo, sequer há a data em que foi realizado o registro. Nesse sentido, resta demonstrado o esbulho praticado pela parte ora apelante, de modo a permitir a reintegração da parte apelada na posse do imóvel.
+(..)
+Assim, forte na consideração de que não restou inequivocamente demonstrado pela parte ora recorrente o exercício de posse ininterrupta e com o agir como se dono fosse, a rejeição do pedido de prescrição aquisitiva é medida que se impõe.
+Denota-se, portanto, que o Tribunal de origem formou suas conclusões pela procedência da ação de reintegração de posse com base no substrato fático-probatório dos autos.
+Derruir o referido e rediscutir questões atinentes ao esbulho e exercício da posse demanda, necessariamente, o reexame da narrativa fática e das provas que instruíram o processo - tais como documentos e depoimentos das testemunhas - , o que é vedado em âmbito de Recurso Especial, ante a incidência da Súmula 7/STJ deste Tribunal.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REINTEGRAÇÃO DE POSSE. OMISSÃO NÃO OCORRÊNCIA. APELAÇÃO. REPETIÇÃO DE FUNDAMENTAÇÃO. POSSIBILIDADE. POSSE. ALEGAÇÃO DE DOMÍNIO. AUSÊNCIA DE COMPROVAÇÃO. IMPROCEDÊNCIA DA AÇÃO. ESBULHO NÃO DEMONSTRADO. REVISÃO. IMPOSSIBILIDADE. DECISÃO AGRAVADA MANTIDA. AGRAVO INTERNO DESPROVIDO.
+(..)
+4. A revisão de matéria - prática de esbulho pelo réu da ação de reintegração de posse - que demanda o revolvimento do conjunto fático-probatório dos autos, não pode ser feita na via especial, diante do óbice da Súmula 7 deste Tribunal.
+5. Agravo interno desprovido.
+(AgInt no AREsp 1288260/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 14/08/2018, DJe 05/09/2018)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REINTEGRAÇÃO DE POSSE. COMPROVAÇÃO PELO AGRAVADO DOS PODERES INERENTES À PROPRIEDADE DO IMÓVEL OBJETO DO LITÍGIO. MATÉRIA QUE DEMANDA REEXAME DE PROVAS. SÚMULA 7 DO STJ. MULTA E HONORÁRIOS ADVOCATÍCIOS RECURSAIS. NÃO CABIMENTO AGRAVO INTERNO NÃO PROVIDO.
+1. Nos termos da jurisprudência do STJ, rever a conclusão do Tribunal a quo acerca da configuração dos requisitos ensejadores da procedência ou improcedência da tutela possessória demandaria o reexame de provas. Incidência da Súmula 7 do STJ.
+(..)
+4. Agravo interno não provido.
+(AgInt nos EDcl no AREsp 1179489/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 24/04/2018, DJe 02/05/2018)
+4. Por fim, consoante asseverado na decisão singular, não há que se rediscutir a distribuição do ônus da prova em sede de recurso especial. Isso porque "a Jurisprudência do STJ entende que não há como aferir eventual ofensa ao art. 333 do CPC/1973 (art. 373 do CPC/2015) sem que se verifique o conjunto probatório dos presentes autos. A pretensão de simples reexame de provas, além de escapar da função constitucional deste Tribunal, encontra óbice na Súmula 7 do STJ, cuja incidência é induvidosa no caso sob exame" (REsp 1665411/MT, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 05/09/2017, DJe 13/09/2017).
+Nesse sentido:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE INDENIZAÇÃO POR DANO MORAL. ACIDENTE FERROVIÁRIO. MORTE. ART. 1.022 DO NCPC. INOCORRÊNCIA DE FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284 DO STF. INAPLICABILIDADE. ART. 343 DO NCPC. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ QUANTO A INVERSÃO DO ÔNUS PROBATÓRIO E A ALEGADA CULPA EXCLUSIVA DA VÍTIMA, QUE NÃO FOI RECONHECIDA. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. AGRAVO INTERNO PARCIALMENTE NÃO PROVIDO.
+(..)
+3. Nos termos do art. 373, I e II, do NCPC, incumbe ao autor o ônus da prova quanto ao fato constitutivo do direito alegado, ao passo que cabe ao réu o ônus de demonstrar a ocorrência de algum fato impeditivo, modificativo ou extintivo do direito do autor.
+4. Não é possível reverter a conclusão do Tribunal estadual, para acolher a pretensão recursal, a respeito do ônus probatório, pois essa providência demandaria o revolvimento dos fatos da causa. Incidência da Súmula nº 7 do STJ.
+(..)
+8. Agravo interno parcialmente provido.
+(AgInt no AREsp 1644649/RJ, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 24/08/2020, DJe 27/08/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE ADIMPLEMENTO CONTRATUAL - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO AGRAVO.
+INSURGÊNCIA DA PARTE DEMANDANTE.
+1. A ausência de indicação do dispositivo de lei violado ou de interpretação controvertida caracteriza deficiência da fundamentação recursal. Incidência, por analogia, da Súmula 284 do STF.
+2. Conforme entendimento desta Corte, não há como aferir eventual ofensa ao art. 373 do CPC/15, sem incursão no conjunto probatório dos presentes autos. Incidência da Súmula 7/STJ.
+3. Rever as conclusões a que chegou a Corte de origem quanto à ausência dos documentos aptos a comprovar a relação jurídica entre as partes, bem como fato constitutivo de direito, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula 7 desta Corte.
+4. Nos termos da jurisprudência deste STJ, ausente a comprovação documental do negócio jurídico alegado pelo autor, não ha falar em extinção sem julgamento de mérito, mas sim em improcedência da ação, uma vez que, no procedimento ordinário, vocacionado à ampla produção de provas, é possível alcançar-se o mérito da questão em face de outros elementos probatórios produzidos nos autos. Precedentes.
+5. Agravo interno desprovido.
+(AgInt no AREsp 1560693/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 29/06/2020, DJe 03/08/2020)
+De rigor, portanto, a manutenção da decisão agravada.
+5. Do exposto, nega-se provimento ao agravo interno.
+É como voto.
