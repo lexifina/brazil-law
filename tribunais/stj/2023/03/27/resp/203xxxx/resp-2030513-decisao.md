@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto por COMPANHIA SIDERÚRGICA NACIONAL e outra (CSN), com fundamento no art. 105, III, alíneas a e c, da CF, contra acórdão proferido pelo Tribunal Paulista, relatado pelo Des. ROSANGELA TELLES, assim ementado:
+AGRAVO DE INSTRUMENTO. AÇÃO INDENIZATÓRIA. CUMPRIMENTO DE SENTENÇA. ATIPICIDADE DOS MEIOS EXECUTIVOS. BLOQUEIO DE CARTÕES DE CRÉDITO. Ausência de proporcionalidade em sentido estrito. Respeito à dignidade da pessoa humana e observância ao Estatuto do Patrimônio Mínimo. Ainda que o preceito deontológico determine que todo cidadão arque com as suas dívidas, a pretensão da atipicidade dos meios executivos não pode ser deferida porque implicaria em interpretação desarrazoada. Ausência de indicação do uso abusivo do referido meio de pagamento em detrimento da credora. Precedentes desta E. Corte. DECISÃO MANTIDA. RECURSO IMPROVIDO (e-STJ, fl. 676).
+Nas razões do presente recurso, CSN alegou violação dos arts. 139, IV e 797 do NCPC, aduzindo que a execução deve atender ao interesse do exequente, sendo adequada a medida coercitiva de bloqueio de cartão de crédito (e-STJ, fls. 682/697).
+Foram apresentadas contrarrazões (e-STJ, fls. 719/725).
+É o relatório.
+Decido.
+O recurso não merece prosperar.
+Do bloqueio do cartão de crédito
+Nas razões do presente recurso, CSN afirmou a violação dos arts. 139, IV e 797 do NCPC, aduzindo que a execução deve atender ao interesse do exequente, sendo adequada a medida coercitiva de bloqueio de cartão de crédito.
+Sobre o tema o Tribunal estadual consignou que o deferimento do bloqueio é desproporcional e não respeita o patrimônio mínimo do devedor, confira-se:
+A execução segue o interesse do credor. Inobstante, isso não importa na concessão de medidas desproporcionais à concretização do pagamento, na medida em que deve ser respeitado um patrimônio mínimo ao devedor, como corolário da dignidade da pessoa humana.
+Nessa linha de intelecção, afigura-se oportuna a tese defendida pelo I. PROFESSOR LUIZ EDSON FACHIN:
+(..) a existência de uma garantia patrimonial mínima inerente a toda pessoa humana, integrante da respectiva esfera jurídica individual ao lado dos atributos pertinentes à própria condição humana. Trata-se de um patrimônio mínimo indispensável a uma vida digna do qual, em hipótese alguma, pode ser desapossada, cuja proteção está acima dos interesses dos credores.
+O patrimônio, de fato, não é uma mera unidade abstrata, mas um elemento de coesão entre o sujeito de direito e a capacidade concreta de garantia da dignidade da pessoa humana, na medida em que é responsável pela manutenção da subsistência mínima, em consonância com a Constituição Federal (e-STJ, fl. 678).
+Assim, considerando a fundamentação de índole constitucional, deveria CSN ter interposto o respectivo recurso extraordinário, de modo a desconstituí-la, mas não o fez. Assim, incide a Súmula nº 126 do STJ. A propósito:
+PROCESSO CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C COM COBRANÇA. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AOS ARTS. 489 E 1.022 DO CPC/2015. APREENSÃO DE VEÍCULO POR AUTORIDADE POLICIAL. DEPÓSITO EM PÁTIO LEGAL. ACÓRDÃO RECORRIDO. FUNDAMENTO CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO NÃO INTERPOSTO. SÚMULA N. 126 DO STJ. DECISÃO MANTIDA.
+1. Inexiste afronta aos arts. 489 e 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. Acórdão estadual motivado por fundamento constitucional, consubstanciado na proibição do confisco (art. 150, IV, da CF), não impugnado por meio de recurso extraordinário, o que atrai o óbice da Súmula n. 126 do STJ. Precedentes.
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp n. 2.018.189/RJ, relator Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, j. em 12/12/2022, DJe de 15/12/2022.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. REVISÃO DAS CONCLUSÕES DO ACÓRDÃO RECORRIDO. ÓBICE DA SÚMULA N. 7/STJ. ALEGADA ILEGITIMIDADE DO MINISTÉRIO PÚBLICO PARA AJUIZAR A AÇÃO CIVIL PÚBLICA. ACÓRDÃO DO TRIBUNAL DE ORIGEM ALICERÇADO EM FUNDAMENTOS INFRACONSTITUCIONAL E CONSTITUCIONAL. AUSÊNCIA DE INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. APLICAÇÃO DA SÚMULA 126/STJ. NÃO ESPECIFICAÇÃO DOS DISPOSITIVOS LEGAIS EVENTUALMENTE VIOLADOS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. APLICAÇÃO DA SÚMULA N. 284/STF. NÃO DEMONSTRAÇÃO DO DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO NÃO EFETUADO. AGRAVO INTERNO IMPROVIDO.
+1. Conforme o entendimento consolidado neste Superior Tribunal, não configura julgamento ultra petita ou extra petita, com violação do princípio da congruência ou da adstrição, o provimento jurisdicional proferido nos limites do pedido, o qual deve ser interpretado lógica e sistematicamente a partir de toda a petição inicial.
+2. Existindo fundamento de índole constitucional, suficiente para a manutenção do aresto combatido, cabia ao ora insurgente a interposição concomitante do recurso extraordinário, de modo a desconstituir a convicção estadual. Ausente tal providência, o conhecimento do apelo especial esbarra no óbice previsto no verbete n. 126 da Súmula do Superior Tribunal de Justiça.
+3. A falta de indicação do dispositivo legal supostamente interpretado de forma divergente faz incidir a Súmula 284/STF, a obstar o conhecimento do recurso especial.
+4. É assente nesta Corte Superior que a mera transcrição de ementas e excertos, desprovida da realização do necessário cotejo analítico entre os arestos confrontados, mostra-se insuficiente para comprovar a divergência jurisprudencial ensejadora da abertura da via especial com esteio na alínea c do permissivo constitucional.
+5. Agravo interno improvido.
+(AgInt nos EDcl no AREsp n. 2.093.373/SP, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. em 14/11/2022, DJe de 18/11/2022.)
+Nessas condições, NÃO CONHEÇO do recurso especial.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. CUMPRIMENTO DE SENTENÇA. MEDIDAS COERCITIVAS ATÍPICAS. BLOQUEIO DE CARTÃO DE CRÉDITO. FUNDAMENTO CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO. NÃO INTERPOSIÇÃO. SÚMULA Nº 126 DO STJ. RECURSO ESPECIAL NÃO CONHECIDO.
