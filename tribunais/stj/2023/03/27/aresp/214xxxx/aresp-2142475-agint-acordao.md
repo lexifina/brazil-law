@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/03/2023 a 27/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+Trata-se de agravo interno interposto contra a decisão de fls. 478-480, que conheceu do agravo para conhecer em parte do recurso especial e negar-lhe provimento pelas razões seguintes: a) ausência de violação do art. 1.022, II, do CPC; e b) incidência da Súmula n. 284 do STF quanto à alegada afronta ao art. 1.025 do CPC.
+Nas razões do presente recurso, o agravante sustenta que a violação do 1.022 do CPC ocorreu diante da omissão do acórdão recorrido acerca da notificação extrajudicial por ele formulada para comunicação da agravada.
+Sustenta que não se aplica ao caso a Súmula n. 284 do S TF, porquanto do recurso sobressai claramente a questão suscitada.
+Requer a reforma do decisum agravado para conhecimento e provimento do recurso especial.
+Contrarrazões apresentadas às fls. 499-505, em que se requer o desprovimento do recurso.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE SEGURO DE VEÍCULO C/C DANOS MORAIS. VIOLAÇÃO DO ART. 1.022, II, DO CPC. NÃO OCORRÊNCIA. ART. 1.025 DO CPC. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA N. 284 DO STF. AGRAVO DESPROVIDO.
+1. Inexiste ofensa ao art. 1.022 do CPC quando a corte de origem examina e decide, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+2. A deficiência na fundamentação recursal obsta o conhecimento do apelo extremo se, da leitura, não for possível aferir de que maneira o acordão impugnado violou os dispositivos de lei federal indicados no recurso especial.
+3 . Agravo interno desprovido.
+VOTO
+A irresignação não reúne condições de prosperar, devendo a decisão agravada ser mantida por seus próprios fundamentos, assim expressos:
+I - Violação do art. 1.022 do CPC
+Afasta-se a alegada ofensa ao art. 1.022 do CPC, porquanto a Corte de origem examinou e decidiu, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+O acórdão recorrido esclareceu que o Magistrado indeferiu o pedido não pela prescrição (afastada preliminarmente) ou inexistência de comunicação do acidente (ocorrida em 12/4/2011), mas por ausência de comunicação na época do sinistro (24/7/1997), o que não foi refutado nas razões recursais, deixando incólume o fundamento da sentença.
+Ademais, esclareça-se que o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+II - Violação do art. 1.025
+A deficiência na fundamentação recursal obsta o conhecimento do apelo extremo se, de sua leitura, não for possível aferir de que maneira o acordão impugnado violou os dispositivos de lei federal indicados no recurso especial, inviabilizando a compreensão da controvérsia (Súmula n. 284 do STF).
+III - Conclusão
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Com efeito, não há falar em violação do art. 1.022, II, do CPC quando o tribunal de origem examina e decide, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+Na espécie, a Corte a quo discorreu, fundamentada e expressamente, sobre a ausência de comunicação da agravada na época do sinistro. Confiram-se trechos dos acórdãos da apelação e dos embargos de declaração (fls. 326-328 e 408-409, destaquei):
+Todavia, na sentença, o MM. Juiz a quo julgou improcedente o pedido, ao argumento de que não houve prévio comunicado do sinistro à seguradora, apenas quando da realização do acordo com o terceiro, impedindo a participação da seguradora na ação proposta pelo terceiro ou no acordo dela originado.
+No entanto, em suas razões recursais, o Apelante argumenta que houve contradição entre o afastamento da prescrição e a improcedência do pedido, afirmando que foi dada ciência da presente ação à Apelada HSBC Seguros (BRASIL) antecessora da HDI Seguros S/A, por meio de notificação extrajudicial em 12/04/2011.
+Ora, o Magistrado indeferiu o pedido não pela comunicação ocorrida à seguradora em razão do acordo celebrado, mas por ausência de comunicação na época do sinistro, que ocorreu em 24/07/1997. Sabido que o segurado, como cediço, não apenas deve informar à seguradora o sinistro ocorrido logo que o saiba, mas deve também tomar medidas razoáveis e imediatas que lhe estejam à disposição para atenuar as consequências danosas do evento. Caso contrário, poderá perder o direito à indenização securitária.
+ ..  Ora, no caso, o acidente entre o caminhão do Autor/Apelante e a motocicleta conduzida por Egrimalto Cordeiro de Toledo, ocorrido em 24/07/1997, culminou em um acordo extrajudicial no valor de R$ 450.000,00 (quatrocentos e cinquenta mil reais),homologado em juízo em 08/04/2013, no processo 9800208771.
+Ainda que, na época, o juiz tenha indeferido o pedido de denunciação à lide da seguradora na ação de origem, a comunicação do sinistro é fato independente e deveria ter ocorrido após o sinistro, como consta no art. 771 do Código Civil/2002 ( art.1.457 do CC/1916), o que não foi comprovado.
+Sobre este requisito imprescindível para o recebimento do direito à indenização, o Apelante nada mencionou em suas razões recursais, limitando a dizer que notificou a seguradora sucessora, em 12/04/2011.
+Como se vê, o apelante ao buscar refutar o motivo elencado pelo magistrado a quo deixou de impugnar especificamente o fundamento da sentença hostilizada, indicando os motivos pelos quais deveria ser modificada.
+Analisando a decisão colegiada embargada, vislumbro que persistiu a ausência de impugnação específica nas razões do Agravo Interno, submetido ao colegiado, vejam:
+Na sentença, o Magistrado a quo afastou a prescrição ânua, suscitada pela Seguradora, por considerar que o termo inicial do prazo prescricional é a data do pagamento da última parcela do acordo firmado entre o causador do dano e a vítima, já que a Segurado na integrou a lide indenizatória, e por considerar afrontado o disposto no artigo 787, §2º, do CCB.. Por outro lado, julgou improcedente o pedido de indenização securitária, em razão de que a Seguradora não foi comunicada do sinistro, à época de sua ocorrência, mas somente quase 1 (uma) década após, e posteriormente à formalização de acordo com o terceiro acidentado, no valor de R$450.000,00 (quatrocentos e cinquenta mil reais), em evidente ausência de boa-fé do segurado. Em consequência julgou prejudicado o pedido de indenização por danos morais.
+Nas razões do apelo, o Apelante, ora Embargante, argumenta que foi decretada a extinção do processo pela prescrição, quando na verdade, foi afastada a prejudicial demérito, dizendo ter havido contradição entre a fundamentação e o dispositivo. Como visto, as razões do apelo foram totalmente dissociadas dos fundamentos da sentença, razão por que proferida decisão monocrática no julgamento da Apelação, dela não conhecendo, conforme se vê em mov. nº 53.
+Desta decisão, o Apelante interpôs Agravo Interno (mov. nº 57), apenas reiterando idênticas razões deduzidas na Apelação, abrindo ensanchas ao desprovimento do recurso, por ausência de elementos novos, sendo mantida a decisão monocrática por seus fundamentos.
+Mais uma vez, surge o Autor, agora com estes Embargos de Declaração (mov. nº 74),apenas reproduzindo a peça recursal da Apelação, apontando os vícios da omissão e da contradição, novamente com razões dissociadas dos fundamentos da sentença, apelo e agravo interno.
+O Recorrente limitou-se a impugnar o reconhecimento da prescrição ânua, quando na verdade, foi afastada esta prejudicial de mérito, julgado improcedente o pedido de indenização securitária, e prejudicado o pedido de indenização por danos morais.
+Como visto, persistiu a ausência de impugnação específica do que restou decidido na instância singela. Destarte, não prestando os embargos declaratórios a modificar decisão ou acórdão contra os quais se rebela o Embargante, mas apenas o respectivo aclaramento, tem-se por descabida a interposição deste recurso
+Ademais, nas razões do recurso especial, o agravante restringe-se a sustentar que o acórdão recorrido teria violado o art. 1.025 do Código de Processo Civil por persistir a omissão do julgamento das matérias alegadas nos embargos de declaração.
+Todavia, não é possível extrair da leitura das razões do recurso especial de que maneira o acordão impugnado teria ofendido o referido dispositivo de lei federal. Assim, mantém-se a aplicação da Súmula n. 284 do STF à espécie diante da deficiência de fundamentação.
+Portanto, a parte agravante não logrou êxito em demonstrar situação superveniente que justificasse a alteração da decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
