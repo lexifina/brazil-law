@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por LUMINA PARTICIPAÇÕES E AQUISIÇÕES LTDA em face da decisão acostada às fls. 2925/2930, e-STJ, da lavra deste signatário, em que se deu parcial provimento ao recurso especial para julgar extinto o processo, sem exame do mérito, por ausência de interesse de agir da ora embargante.
+Nas razões dos aclaratórios (fls. 2932/2939, e-STJ) a embargante alegou omissão no decisum impugnado quanto à a) ausência da verificação da prejudicialidade do recurso interposto pela embargante em relação ao recurso interposto pela embargada; b) ausência de enfrentamento dos requisitos necessário par ao reconhecimento da existência ou não do interesse de agir da embargante, e c) ausência de observância sobre o desrespeito da determinação proferida pelo STJ quando do julgamento do Resp n. 1897112/PR.
+Impugnação às fls. 2951/2958, e-STJ.
+É o relatório. Decide-se.
+1. Inicialmente, ressalte-se que os embargos de declaração, conforme o disposto no artigo 1.022 do CPC/15, têm fundamentação vinculada às hipóteses legalmente previstas. Destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou, ainda, corrigir erro material. Não servem, no entanto, como meio de manifestação do inconformismo da parte com a decisão prolatada.
+Citam-se, a título exemplificativo, os seguintes julgados: EDcl no AgRg no Ag 1329960/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 04/10/2016, DJe 19/10/2016; EDcl no REsp 1597129/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 06/10/2016, DJe 17/10/2016; EDcl no AgRg na PET na Rcl 22.564/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 10/08/2016, DJe 18/08/2016.
+No caso em tela, a embargante sustenta que a decisão restou omissa quanto à a) ausência da verificação da prejudicialidade do recurso interposto pela embargante em relação ao recurso interposto pela embargada; b) ausência de enfrentamento dos requisitos necessário par ao reconhecimento da existência ou não do interesse de agir da embargante, e c) ausência de observância sobre o desrespeito da determinação proferida pelo STJ quando do julgamento do Resp n. 1897112/PR.
+Razão não lhe assiste.
+Conforme afirma a decisão embargada, verbis fls. 2928, e-STJ:
+Afasta-se, portanto, a alegada violação ao artigo 1.022 do CPC/15.2. A recorrente aponta, ainda, violação ao artigo 100, § 1º, da Lei 6.404/76, que ante o reconhecimento falta de interesse de agir da parte recorrida todo o processo deveria ser extinto e não apenas parte dele.
+Das transcrições supra apresentadas, o órgão julgador concluiu pela manutenção de parte do feito.
+2. A egrégia Segunda Seção desta Corte Superior, no entanto, no julgamento do Recurso Especial Repetitivo nº. 982.133/RS (Rel. Ministro Aldir Passarinho Junior, DJe 22.09.2008), processado nos moldes do art. 543-C do CPC/73, firmou entendimento no sentido de que "falta ao autor interesse de agir para a ação em que postula a obtenção de documentos com dados societários, se não lograr demonstrar: a) haver apresentado requerimento formal à ré nesse sentido; b) o pagamento pelo custo do serviço respectivo, quando a empresa lhe exigir, legitimamente respaldada no art. 100, parágrafo 1º, da Lei 6.404/76", entendimento consolidado no enunciado da Súmula 389/STJ.
+Com efeito, nos termos da jurisprudência deste Tribunal Superior, a Súmula 389/STJ é aplicável aos pedidos de exibição incidental dos chamados contratos de prestação de telefonia com cláusula de participação financeira:
+ ..
+Desse modo, o entendimento do Tribunal a quo, no ponto, destoa da jurisprudência desta Corte Superior sobre a matéria, firmada sob a sistemática dos recursos repetitivos, merecendo prosperar a irresignação da recorrente.
+Diante do provimento do presente recurso, prejudicada a análise da petição de recurso especial da parte contrária.
+Portanto, tendo a decisão embargada decidido de modo claro e fundamentado, apenas contrário aos interesses da parte embargante, não há de se falar em vício passível de correção por meio de embargos de declaração, mas sim pretensão meramente infringente, razão pela qual se impõe a sua rejeição.
+2 . Do exposto, rejeitam-se os embargos de declaração.
+Publique-se.
+Intimem-se.
