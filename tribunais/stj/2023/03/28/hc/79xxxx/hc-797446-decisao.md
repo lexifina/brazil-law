@@ -1,0 +1,14 @@
+DECISÃO
+CARLOS LUÍS DA SILVA alega sofrer coação ilegal e aponta como autoridade do coatora o Tribunal de Justiça do Estado do Rio Grande do Sul.
+A defesa pretende a soltura do paciente - condenado pela prática dos crimes de roubo circunstanciado e cárcere privado - ou a aplicação de medidas cautelares alternativas à prisão, sob o argumento de excesso de prazo na duração da cautelar máxima, por ausência dos requisitos necessários a sua manutenção.
+Decido.
+Infere-se dos autos que o réu foi condenado a 13 anos, 3 meses e 21 dias de reclusão, em regime inicial fechado, pela prática dos delitos tipificados nos arts. 148, § 2º, e 157, § 2º, II, e § 2º-A, I, na forma do art. 69, todos do Código Penal. Foi-lhe indeferido o recurso em liberdade, ao seguinte fundamento:
+O comportamento adotado pelos réus demonstra envolvimento com a criminalidade de forma não eventual, porque atuam dentro das leis do tráfico de drogas, em total desrespeito aos direitos alheios. Dessa forma, a soltura representa risco concreto de novos delitos, o que deve ser evitado. MANTENHO, portanto, a prisão preventiva para garantia da ordem pública (fl. 592).
+Não há que se falar em excesso de prazo por ausência de fundamentação para manutenção da cautelar máxima.
+A decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+Na espécie, o Juiz de primeira instância apontou, de forma idônea, a presença dos vetores contidos no art. 312 do Código de Processo Penal e indicou motivação suficiente e concreta para decretar a custódia provisória, sobretudo diante da gravidade em concreto da conduta, especialmente diante do modus operandi empregado na empreitada: delitos em concurso de agentes, com emprego de arma de fogo, envolvendo violência física - agressões com uso de adaga, cabo de martelo, pedaço de pau, socos, empurrões -, ameaças de morte e privação de liberdade da vítima.
+Na esteira do entendimento desta Corte, é justificada a constrição quando o "decreto da prisão preventiva evidencia a gravidade em concreto da conduta e a periculosidade do acusado que agiu com peculiar modus operandi" (HC n. 449.326/BA, Rel. Ministro Rogerio Schietti, 6ª T., DJe 5/4/2019).
+Nas hipóteses em que a dinâmica dos fatos e as demais circunstâncias do caso revelem a maior reprovabilidade da conduta investigada, tais dados são capazes de demonstrar a necessidade de garantia da ordem, por isso mesmo constituem fundamento idôneo para a custódia provisória.
+Pelos mesmos motivos, as medidas cautelares alternativas à prisão não se mostram adequadas e suficientes para evitar a prática de novas infrações penais.
+À vista do exposto, denego a ordem de habeas corpus .
+Publique-se e intimem-se.
