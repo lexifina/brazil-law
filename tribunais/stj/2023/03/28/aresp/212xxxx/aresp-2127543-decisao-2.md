@@ -1,0 +1,26 @@
+DECISÃO
+RENATO RIBEIRO DE JESUS agrava de decisão que inadmitiu seu recurso especial, interposto com base no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Goiás na Apelação Criminal n. 0229487-72.2017.8.09.0175.
+Nas razões do recurso especial, a defesa aponta a violação do art. 59 do Código Penal, ao argumento de ocorrência de bis in idem quando da valoração negativa dos maus antecedentes e da agravante da reincidência.
+Aduz, ainda, que "na receptação qualificada, é indiferente o conhecimento da origem espúria do bem", razão pela qual entende que o recorrente faz jus à aplicação da "atenuante genérica da confissão", porquanto confessou que adquiriu o bem (fl. 678).
+Requer o provimento do recurso para que seja redimensionada a reprimenda, com o consequente abrandamento do regime inicial.
+O apelo especial foi inadmitido durante o juízo prévio de admissibilidade, o que ensejou a interposição deste agravo.
+O Ministério Público Federal manifestou-se pelo não provimento do reclamo (fls. 760-762).
+Decido.
+Extrai-se dos autos que o agravante foi condenado, em primeiro grau, à pena de 4 anos, 2 meses e 22 dias de reclusão mais 45 dias-multa, em regime fechado, pela prática do delito previsto no art. 180, § 1º, do Código Penal.
+No caso a Corte estadual manteve o reconhecimento dos maus antecedentes e da reincidência do réu realizado na sentença, sob a seguinte motivação (fl. 632, grifei):
+Compulsando o processo dosimétrico da pena, verifica-se que, na primeira fase do critério trifásico, após judiciosa análise das circunstâncias judiciais, a magistrada oficiante dosou a pena-base acima do mínimo legal (03 anos, 07 meses e 15 dias), porquanto verificada, por meio da certidão de antecedentes criminais, dupla condenação penal transitada em julgado.
+Diante disto, uma das condenações foi usada para valorar negativamente a circunstância judicial inerente aos antecedentes criminais, justificando o afastamento da pena-base do mínimo legal.
+Na segunda fase, legitimamente, foi reconhecida a agravante da reincidência (CP, art. 61, I), resultando no acréscimo da fração de 1/6 (um sexto).
+Ao rejeitar os embargos de declaração opostos pela defesa o TJGO ressaltou: " ..  ficou constatado, por meio da certidão de antecedentes criminais que ele conta com duas condenações anteriores com trânsito em julgado. Diante disso, a sentença penal condenatória e o acórdão embargado seguiram o posicionamento majoritário de que uma pode ser utilizada na primeira fase como maus antecedentes e a outra na segunda etapa como reincidência" (fl. 657).
+No caso, não identifico o alegado bis in idem entre os maus antecedentes e a reincidência do réu, diante da multiplicidade de condenações existentes na sua folha de antecedentes, consoante registrado pelas instâncias antecedentes.
+Sobre o tema, o STJ tem o entendimento consolidado de que o aumento da sanção pelos maus antecedentes, na primeira fase da dosimetria, e pelo reconhecimento da agravante do art. 61, I, do Código Penal, desde que com fundamento em condenações prévias e definitivas distintas, não caracteriza ofensa ao princípio do ne bis in idem.
+Nessa perspectiva: "ostentando o réu mais de uma condenação definitiva, não há ilegalidade na utilização de uma delas na fixação da pena-base e de outra no reconhecimento da reincidência, com acréscimo na segunda fase do cálculo da pena" (HC n. 194.234/SP, Rel. Ministro Gurgel de Faria, 5ª T., DJe 10/10/2014).
+Diante do insucesso da tese defensiva que poderia levar à redução da reprimenda, ficam mantidas também a imposição do regime inicial fechado (pena superior a 4 anos de reclusão e circunstâncias judicias desfavorável).
+Quanto à tese de incidência da confissão espontânea observo que a defesa não indicou, de forma clara e precisa, os dispositivos legais que haveriam sido infringidos com força normativa capaz de alterar o aresto atacado.
+O Superior Tribunal de Justiça tem a função primordial, por meio do recurso especial, de uniformizar a interpretação e a aplicação do direito federal infraconstitucional. Com isso, o conhecimento do recurso, seja ele interposto pela alínea "a" ou pela alínea "c" do permissivo constitucional, exige, necessariamente, a indicação do dispositivo de lei federal que se entende por contrariado.
+Assim, denoto a falta de fundamentação do apelo especial no ponto, circunstância que atrai a incidência da Súmula n. 284 do Supremo Tribunal Federal, aqui aplicada por analogia: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido:
+ ..
+II - A ausência de indicação do dispositivo legal que teria sido supostamente violado inviabiliza o conhecimento do Recurso Especial, pois incide à espécie a Súmula 284 do Supremo Tribunal Federal. (AgRg no AREsp n. 1.842.386/SP, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), 5ª T., DJe de 28/10/2022)
+À vista do exposto, conheço do agravo para, com fundamento no art. 932, III, do CPC, c/c o art. 253, parágrafo único, II, "a", do RISTJ, conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se e intimem-se.
