@@ -1,0 +1,14 @@
+DECISÃO
+O JUÍZO DE DIREITO DA VARA DE EXECUÇÕES PENAIS DO DISTRITO FEDERAL suscita conflito de competência, em execução penal, diante do JUIZO DE DIREITO DA 1ª VARA DE EXECUÇÃO PENAL DE GOIÂNIA - GO.
+Cinge-se a controvérsia estabelecida neste incidente processual a saber qual o juízo competente para execução penal de réu condenado tanto em Brasíllia - DF quanto em Goiás, mas que foi preso em Brasília - DF.
+Ouvido, manifestou-se o Ministério Público Federal pelo conhecimento do conflito para que seja declarado competente o Juízo de Direito da 1ª Vara de Execução Penal de Goiânia - GO, ora suscitado (fls. 920-921).
+Decido.
+De início, registro que embora o réu possua condenação tanto em Brasília quanto em Goiás, destacou o Juízo suscitante que " o  apenado está preso no Distrito Federal somente em razão do mandado de prisão expedido pelo supracitado juízo, sendo certo que não existem ordem de segregação nem execução penal no âmbito da justiça desta unidade da federação" (fl. 900).
+Assim, embora o sentenciado haja sido preso em Brasília - DF, tal circunstância não tem o condão de deslocar a competência para a execução penal que já estaria em curso em Goiânia. Nesse sentido é a pacífica orientação desta Corte:
+ ..  a Terceira Seção desta Corte Superior orienta-se no sentido de que o cumprimento do mandado de prisão do Apenado em Estado da Federação diverso daquele onde foi processado não implica deslocamento da competência, sendo aplicável o disposto no art. 65 da Lei de Execuções Penais, que consagra ser competente o Juiz indicado na lei local de organização judiciária ou, na sua ausência, o que proferiu a sentença condenatória. (CC n. 161.783/DF, Rel. Ministra Laurita Vaz, DJe 14/12/2018).
+ ..
+1. O simples fato de o condenado estar preso em Comarca diversa daquela competente para a execução da sentença, em cumprimento de mandado de prisão preventiva expedido por um terceiro Juízo, não constitui causa legal de deslocamento da competência originária para a execução da pena. Precedentes. (CC n. 148.926/RS, Rel. Ministro Reynaldo Soares da Fonseca, DJe 27/10/2016)
+Registro, ainda, que o simples fato de o apenado vir a ser preso ou posuir domicílio em comarca distinta daquela em que ele foi condenado, não enseja o deslocamento automático da competência para a execução penal, que deve ser firmada perante o Juízo responsável pela execução penal do local da condenação.
+Como destacou o Parquet Federal, " o  processo de execução tramita na 1ª Vara de Execução Penal de Goiânia desde 2016, não havendo razão para que se altere a competência, ainda que, atualmente, o reeducando esteja cumprindo pena decorrente de condenação oriunda do Distrito Federal" (fl. 921).
+À vista do exposto, conheço do conflito para declarar competente o Juízo de Direito da 1ª Vara de Execução Penal de Goiânia - GO, ora suscitado.
+Publique-se. Dê-se ciência aos Juízos suscitante e suscitado.
