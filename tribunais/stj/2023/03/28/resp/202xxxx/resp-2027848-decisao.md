@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão assim ementado:
+PROCESSO CIVIL. APELAÇÃO. EXECUÇÃO INDIVIDUAL DE GDATA E GDPGTAS.
+PRESCRIÇÃO. INOCORRÊNCIA. LIMITES SUBJETIVOS DO TÍTULO COLETIVO.
+1. O acórdão proferido na Ação Coletiva nº 2007.34.00.028924-5, que condenou a União a recalcular a GDATA e a GDPGTAS dos substituídos, transitou em julgado em 3/5/2012, mas o Sindicato autor protocolizou o protesto judicial nº 0018944-74.2017.4.01.3400, em 20/4/2017, interrompendo o prazo prescricional na segunda metade do quinquênio. Reiniciada a contagem por dois anos e meio, o termo final se deu em 20/10/2019 (art. 202, II, do Código Civil c/c Decreto-Lei nº 20.910/1932, art. 9º, c/c Enunciado nº 383 da Súmula do STF), na mesma data em que proposta a presente execução individualizada, de forma que não se consumou o prazo prescricional.
+2. No entanto, o título executivo tem sua eficácia subjetiva limitada aos servidores indicados na listagem juntada na inicial, nos termos da restrição estabelecida pelo próprio Sindicato autor da ação coletiva nº 2007.34.00.028924-5. Precedentes desta Corte (AG nº 5015574-82.2020.4.02.0000, AC nº 5007864-65.2019.4.02.5102 e AC nº 5015970-62.2018.4.02.5001).
+3. Em sede de execução, impõe-se estrita observância aos limites do título executivo, sob pena de ofensa à coisa julgada.
+4. A ilegitimidade deve ser conhecida de ofício, em qualquer grau de jurisdição, independente de alegação das partes, tampouco se cogitando de julgamento surpresa (TRF2, 8ª T. Esp., AI nº 5008933- 78.2020.4.02.0000, rel. Des. Fed. Marcelo Pereira da Silva, julg. 6.4.2021).
+5. Apelação conhecida para, de ofício, extinguir a execução, na forma do art. 485, VI, do CPC.
+Em suas razões, a parte recorrente aponta, além de divergência jurisprudencial, violação dos arts. 5º, XXXV e LV, 8, III, 93, IX, da Constituição Federal, 16, 51, parágrafo único, 489, 502, 503, 505 1.022, II e 1.025 do CPC/2015 e 93, II e 103, III do CDC, defendendo além de negativa jurisprudencial, ofensa a coisa julgada, tendo em vista os limites objetivos e subjetivos do título executivo, que não estão circunscritos aos limites geográficos.
+Sustenta a não aplicação do Tema 499 do STF ao caso concreto, pois a exigência de autorização expressa às entidades associativas para representar seus filiados judicial ou extrajudicialmente, prevista no art. 5º, XXI, da Constituição Federal, limita-se a associação civil, não se aplicando a sindicato (e-STJ fl. 278).
+Contrarrazões apresentadas.
+Passo a decidir.
+Observa-se que não merece prosperar a presente irresignação.
+A via excepcional não se presta para análise de eventual ofensa à Constituição Federal.
+Quanto ao argumento de negativa de prestação jurisdicional, observa-se que não foram opostos declaratórios no Tribunal de origem, sendo certo ausência de interesse recursal.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. APONTADA VIOLAÇÃO AO ART. 535 DO CPC/1973. NÃO OPOSTOS EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE INTERESSE RECURSAL. DEMAIS ARTIGOS. NÃO DEMONSTRAÇÃO DAS RAZÕES DE MALFERIMENTO. AGRAVO IMPROVIDO.
+1. Inexistência de interesse recursal por alegada violação do art. 535 do CPC/1973 quando nem sequer houve oposição de embargos de declaração perante o Tribunal de origem.
+2. Se a parte agravante não apresenta argumentos hábeis a infirmar os fundamentos da decisão regimentalmente agravada, deve ela ser mantida por seus próprios fundamentos.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1331486/CE, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 18/03/2019, DJe 22/03/2019)
+Em outra quadra, infirmar o entendimento da Corte de origem, a fim de acolher os argumentos da parte recorrente - limites da coisa julgada -, encontra óbice na Súmula 7 do STJ.
+Noutro ponto, quanto ao argumento da legitimidade ativa filiado ao sindicato, verifica-se que a parte recorrente não indicou lei federal supostamente violada. Incidência da Súmula 284 do STF.
+Noutro giro, a Corte a quo apreciou a lide em consonância com o entendimento deste Tribunal de que caso a sentença tenha uma delimitação expressa dos seus limites subjetivos, a coisa julgada advinda da ação coletiva deve alcançar os relacionados no título executivo.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. AÇÃO COLETIVA. SINDICATO. SUBSTITUIÇÃO PROCESSUAL. LIMITAÇÃO EXPRESSA NO TÍTULO JUDICIAL. IMPOSSIBILIDADE DE INCLUSÃO DE SERVIDORES QUE NÃO INTEGRARAM A LISTAGEM. COISA JULGADA. AGRAVO NÃO PROVIDO.
+1. Cinge-se a controvérsia a definir se é possível a execução individual por servidores que não constaram de listagem apresentada por sindicato em ação coletiva, quando a decisão exequenda expressamente limitou os efeitos da condenação aos servidores indicados na referida lista.
+2. O Tribunal de origem, ao apreciar recurso de apelação, manteve a sentença que reconheceu a ilegitimidade ativa dos exequentes, por entender que, em caso de limitação subjetiva no título judicial, não é possível o aproveitamento da condenação por servidores não contemplados.
+3. O acórdão recorrido está em consonância com a jurisprudência dominante desta Corte no sentido de que, no caso de expressa limitação no título executivo quanto aos beneficiários da ação coletiva, é indevida a inclusão de servidor que não integrou a referida listagem, sob pena de ofensa à coisa julgada. Precedentes.
+4. Agravo interno a que se nega provimento. (AgInt EDcl REsp 1.507.769/BA, Rel. Min. OG FERNANDES, Segunda Turma, DJe 17/02/2021).
+AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. AÇÃO COLETIVA. SINDICATO. TÍTULO EXECUTIVO. LIMITAÇÃO SUBJETIVA. ANÁLISE. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. O STJ já se manifestou no sentido de que os sindicatos e as associações, na qualidade de substitutos processuais, têm legitimidade para atuar judicialmente na defesa dos interesses coletivos de toda a categoria que representam. Por isso, caso a sentença coletiva não tenha uma delimitação expressa dos seus limites subjetivos, a coisa julgada advinda da ação coletiva deve alcançar todas as pessoas da categoria e não apenas os filiados.
+2. No caso, o Tribunal de origem entendeu pela legitimidade ativa da parte exequente, ao concluir que o título executivo não limitou o benefício aos filiados do sindicato. Assim, a alteração das conclusões adotadas pela Corte de origem, a fim de que se entenda pela limitação subjetiva do título executivo, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Agravo interno não provido. (AgInt REsp 1.981.501/RS, Rel. Min. SÉRGIO KUKINA, Primeira Turma, DJe 23/06/2022).
+Dessume-se que o acórdão recorrido está em sintonia com o atual entendimento do STJ, razão pela qual não merece prosperar a irresignação. Incide, no caso, a Súmula 83 do STJ.
+Por fim, a jurisprudência desta Corte de Justiça é pacífica quanto à inadmissibilidade do recurso especial que, a despeito de fundamentar-se em dissídio jurisprudencial, deixa de apontar o dispositivo de lei federal ao qual o Tribunal de origem teria dado interpretação divergente daquela firmada por outros tribunais (AgRg no REsp. 1.346.588/DF, Relator Ministro ARNALDO ESTEVES LIMA, Corte Especial, DJe 17/03/2014).
+Na espécie, a parte recorrente não se desincumbiu de indicar o dispositivo de lei federal supostamente violado em razão do dissídio.
+Soma-se a isso o fato de que a parte recorrente deixou de realizar o cotejo analítico, na medida em que sequer transcreveu julgado tido como paradigma, nem especificar as nuances que envolveriam o caso concreto, não atendendo, portanto, aos pressupostos específicos necessários à configuração do dissenso jurisprudencial, preconizados pelos arts. 541, parágrafo único, do Código de Processo Civil, e 255, §§ 1º e 2º, do RISTJ.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração dessa verba, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se
