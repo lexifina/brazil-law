@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 22/03/2023 a 28/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti, Ricardo Villas Bôas Cueva, Marco Buzzi, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Antonio Carlos Ferreira.
+RELATÓRIO
+Trata-se de agravo interno interposto por MARCELO CASSIO AMORIM REBOUCAS em face de decisão que indeferiu os embargos de divergência, assim ementada:
+EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. REDISCUSSÃODE REGRA TÉCNICA DE ADMISSIBILIDADE RECURSAL. INVIABILIDADE. EMBARGOS DE DIVERGÊNCIA INDEFERIDOS.
+Nas razões do agravo interno, a parte agravante alega que (e-STJ, fls. 1348/1351):
+2. A R. DECISÃO AGRAVADA: Afirmou a r. decisão agravada que os embargos de divergência não seriam cabíveis, na espécie, porque o embargante, ora agravante, estaria discutindo a admissibilidade do recurso especial, notadamente a "incidência da súmula 07/STJ".
+3. Acrescentou, ainda, que o acórdão recorrido havia adentrado ao mérito "e os paradigmas não", o que seria também causa para não admissão dos embargos de divergência.
+4. RAZÕES PARA REFORMA DA R. DECISÃO MONOCRÁTICA: Com as vênias devidas, impõe-se a reforma da r. decisão monocrática, porque o caso dos autos tem peculiaridades importantes, que não foram devidamente consideradas pelo ilustre Relator, Ministro Paulo de Tarso Sanseverino.
+ ..
+6. E, efetivamente, este colendo Superior Tribunal de Justiça tem admitido embargos de divergência, ainda que em situações excepcionais, que se configuram quando a decisão de mérito reclama reforma, de modo que os pressupostos de admissibilidade se tornam também passíveis de revisão.
+ ..
+10 Nessa toada, em harmonia com o entendimento (sobre a questão de mérito) assentado neste colendo STJ, o embargante, ora agravante, pugna pela manutenção das premissas fáticas nas quais se baseou o v. acórdão do TJMG (para permitir a atribuição de responsabilidade ao sócio-gerente), impedindo que o v. acórdão embargado, alterando tais premissas, firme conclusão contrária à firmada na instância ordinária.
+11. A QUESTÃO DE MÉRITO (DECIDIDA NO V. ACÓRDÃO EMBARGADO) E SUA ESTREITA RELAÇÃO COM A BASE EMPÍRICA-RAZÕES PARA SE RECONHECER A EXCEPCIONALIDADE DO CASO EM TELA: Demonstrado que o argumento da r. decisão agravada, assentando na tese de que não é peremptória a vedação de reexame, em sede de embargos de divergência, das questões afetas à admissibilidade do recurso especial, cumpre pontuar que, em relação à questão de mérito abordada no v. acórdão embargado, há inegável aproximação entre o tema da admissibilidade e o tema de mérito.
+12. Em realidade, para afirmar a irresponsabilidade dos sócios-gerentes pelos débitos da empresa, o v. acórdão embargado (e, antes dele, a r. decisão monocrática que havia dado provimento ao recurso especial), deixou de realizar o juízo de admissibilidade, para, de pronto, examinar a questão de mérito (responsabilidade dos sócios-gerentes). E o fez em base empírica deturpada, porque abandonou a base empírica adotada pelo egrégio TJMG, fiando-se, candidamente, nas alegações de fato da parte então recorrente, ora agravada.
+13. Tem-se, por isso, a já apontada excepcionalidade do caso em tela.
+No mais, defende que (e-STJ, fl. 1353):
+19. ACÓRDÃOS PARADIGMAS -APRECIAÇÃO DA QUESTÃO DE MÉRITO: Finalmente, também merece reforma a r. decisão agravada porque os acórdãos paradigmas enfrentaram, sim, a questão de mérito, decidindo, pois, sobre a responsabilidade de sócios.
+20. No primeiro aresto paradigma, AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO Nº 668.190/SP, 3ª TURMA, REL. MIN. RICARDO VILLAS BÔAS CUEVA, DJE DE 16.09.2011,a conclusão foi por manter o redirecionamento da execução contra os sócios, haja vista a configuração da dissolução, cujos pressupostos não poderiam ser revistos pelo colendo STJ: "Evidenciada a dissolução irregular da empresa, matéria cuja revisão revela-se inviável em sede de recurso especial, tendo em vista o óbice da Súmula nº 7/STJ, merece ser mantido o redirecionamento".
+21. Há, claro, relação próxima entre o juízo de admissibilidade e o de mérito, notadamente nos recursos especiais interpostos com base na letra a do permissivo constitucional. Mas é certo que, no primeiro paradigma, manteve-se a conclusão de mérito, porque evidenciada a dissolução irregular da empresa, pressuposto fático imune à revisão neste colendo STJ.
+22. Destaque-se, ainda, o segundo aresto paradigma, RESP Nº 1.259.066/SP, 3ª TURMA, RELª: MINª NANCY ANDRIGHI, DJE, 28.06.2012, cujo provimento foi negado por este colendo STJ, que entendeu correto o v. acórdão recorrido: "Por esses fundamentos, entende-se acertada a desconsideração da personalidade jurídica da recorrente, não estando configurada a violação do art. 50 do CC/02". Trata-se, inequivocamente, de decisão de mérito, que se assentou no reconhecimento feito, pela instância ordinária, do "encerramento irregular da empresa", do qual se afirma o "abuso da personalidade jurídica, seja pelo desvio de finalidade, seja pela confusão patrimonial, apto a embasar o deferimento da desconsideração da personalidade jurídica da empresa, para se buscar o patrimônio individual de seu sócio".
+23. Não se sustenta, portanto, o outro fundamento da r. decisão agravada, segundo o qual os "paradigmas" não teriam adentrado o "mérito", quando se constata que, inegavelmente, ao menos dois arestos paradigmas examinaram a questão de mérito, afirmando, então, a legitimidade da desconsideração da personalidade jurídica, realçando, ainda, ser impossível rever as premissas fáticas das decisões locais.
+Impugnação às fls. 1358/1396 e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. REDISCUSSÃO DE REGRA TÉCNICA DE ADMISSIBILIDADE RECURSAL. INVIABILIDADE. AUSÊNCIA DE ARGUMENTOS QUE JUSTIFIQUEM A ALTERAÇÃO DA DECISÃO AGRAVADA.
+AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+VOTO
+Eminentes Colegas, a irresignação recursal não merece prosperar.
+Na espécie, a decisão agravada indeferiu os embargos de divergência em razão dos seguintes fundamentos (e-STJ, fls. 1342/1344):
+Os embargos de divergência manejados pela parte litigante são manifestamente inadmissíveis.
+ ..
+Na hipótese, da leitura do recurso apresentado, depreende-se que a parte embargante, relativamente à revisão dos requisitos necessários para configuração ou não da desconsideração da personalidade jurídica, alega apenas a impossibilidade de revaloração jurídica de matéria fático-probatória, não apontando a existência de um dissídio jurisprudencial propriamente dito, restringindo-se a buscar, por meio da repetição de argumentos relacionados à admissibilidade do recurso especial (incidência da súmula 07/STJ ao caso), a reforma do acórdão embargado da 4ª Turma.
+ ..
+Ademais, consoante pode se verificar das razões apresentadas pelo embargante, são incabíveis embargos de divergência quando o acórdão embargado adentra ao mérito e os paradigmas não, como na espécie.
+Sendo assim, nota-se não ter a parte embargante demonstrado que existe divergência jurisprudencial qualquer a ser dirimida, faltando a identidade de objeto necessária à caracterização da divergência jurisprudencial, o que corrobora para obstar o conhecimento do recurso.
+Ante o exposto, com fulcro no art. 266-C, do RISTJ, indefiro os embargos de divergência. (grifei)
+Diante disso, destaca-se que a decisão agravada está em consonância com a jurisprudência desta Corte Superior, uma vez que, "nos termos do art. 266, I e II, do RISTJ, não são cabíveis embargos de divergência amparados em eventual inobservância de regras técnicas alusivas ao conhecimento do recurso especial" (AgInt nos EDv nos EREsp n. 1.343.379/SC, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 31/3/2020, DJe de 2/4/2020.).
+Nesse sentido:
+AGRAVO REGIMENTAL. EMBARGOS DE DIVERGÊNCIA. DISCUSSÃO SOBRE REGRA TÉCNICA DE ADMISSIBILIDADE DE RECURSO ESPECIAL. IMPOSSIBILIDADE.
+1. A jurisprudência deste Superior Tribunal de Justiça já afirmou que não são cabíveis os embargos de divergência baseados em inobservância de regra técnica de admissibilidade do recurso especial.
+2. A finalidade dos embargos de divergência é uniformizar a jurisprudência do Superior Tribunal de Justiça em sede de recurso especial, não tendo por escopo a correção de eventual equívoco cometido ou proceder a novo julgamento das questões já apreciadas pelo acórdão embargado.
+3. Agravo improvido.
+(AgRg nos EREsp n. 934.356/SP, relator Ministro Paulo Gallotti, Corte Especial, julgado em 7/11/2007, DJ de 26/11/2007, p. 109.)
+No mais, reitera-se que "não se configura divergência entre julgados quando um deles adentra o mérito do recurso, apreciando a questão controvertida, enquanto o outro não conhece do recurso, sem enfrentar a tese, em razão de óbice relacionado à admissibilidade recursal." (PET nos EAREsp n. 740.722/SE, relator Ministro Francisco Falcão, Corte Especial, julgado em 17/5/2017, DJe de 26/5/2017.).
+Registre-se, por fim, que "é possível, com base na Súmula nº 168/STJ, inadmitir embargos de divergência quando a jurisprudência do Superior Tribunal de Justiça estiver no mesmo sentido do acórdão combatido." (AgInt nos EREsp n. 1.895.659/PR, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 29/11/2022, DJe de 9/12/2022.).
+A propósito, confira-se:
+AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. EXECUÇÃO. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. REQUISITOS. DISSOLUÇÃO IRREGULAR E AUSÊNCIA DE BENS PENHORÁVEIS. INSUFICIÊNCIA. CONCLUSÃO EM CONFORMIDADE COM PRECEDENTE ESPECÍFICO DA SEGUNDA SEÇÃO.
+1. Esta Corte Superior firmou seu posicionamento no sentido de que a irregularidade no encerramento das atividades ou dissolução da sociedade não é causa suficiente para a desconsideração da personalidade jurídica, nos termos do artigo 50 do Código Civil, devendo ser demonstrada a ocorrência de caso extremo, como a utilização da pessoa jurídica para fins fraudulentos (desvio de finalidade institucional ou confusão patrimonial).
+2. Conclusão do acórdão embargado em conformidade com a orientação firmada pela Segunda Seção no julgamento do EREsp 1.306.553/SC.
+3. Agravo interno a que se nega provimento.
+(AgInt nos EAREsp n. 960.926/SP, relatora Ministra Maria Isabel Gallotti, Segunda Seção, julgado em 9/8/2017, DJe de 21/8/2017.)
+DIREITO CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS ARESTOS EM CONFRONTO. SÚMULA 168/STJ. AGRAVO INTERNO DESPROVIDO.
+I - Trata-se de agravo interno interposto contra decisão monocrática de indeferimento liminar dos embargos de divergência, diante da ausência de similitude fática entre o acórdão embargado e os julgados paradigmas e incidência da súmula 168 do STJ. II - A ausência de similitude fática impede o comparativo entre acórdão embargado e paradigma de modo a obstar a configuração do dissídio jurisprudencial supostamente alegado pela parte.
+III - A jurisprudência do Superior Tribunal de Justiça se firmou no sentido de que, "a irregularidade no encerramento das atividades ou dissolução da sociedade não é causa suficiente para a desconsideração da personalidade jurídica, nos termos do artigo 50 do Código Civil, devendo ser demonstrada a ocorrência de caso extremo, como a utilização da pessoa jurídica para fins fraudulentos (desvio de finalidade institucional ou confusão patrimonial)." Precedentes.
+IV - Incidência, in casu, da súmula 168/STJ, que preconiza não caber "embargos de divergência, quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado". Agravo Interno desprovido.
+(AgInt nos EAREsp n. 139.597/RJ, relator Ministro Felix Fischer, Corte Especial, julgado em 26/3/2019, DJe de 2/4/2019.)
+Ante o exposto, nego provimento ao agravo interno, com a advertência de que a oposição de novos incidentes processuais infundados dará ensejo à aplicação de multa por conduta processual indevida.
+É o voto.
