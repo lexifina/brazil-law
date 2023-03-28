@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por OI S.A. - EM RECUPERAÇÃO JUDICIAL contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça do Ceará, assim ementado:
+EMENTA: DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM AGRAVO DE INSTRUMENTO. EXCEÇÃO DE INCOMPETÊNCIA. CONTRATO DE FRANQUIA. CLÁUSULA DE ELEIÇÃO DE FORO. HIPOSSUFICIÊNCIA DA EMPRESA FRANQUEADA. CLÁUSULA AFASTADA. ALEGAÇÃO DE OMISSÃO. ELEVADO VALOR DA CAUSA. HIPOSSUFICIÊNCIA DEMONSTRADA PELOS ELEMENTOS CONTIDOS NOS AUTOS. VALOR DA CAUSA QUE, POR SI, NÃO ELIDE A INCAPACIDADE ECONÔMICA DA FRANQUEADA. SUSCITAÇÃO DE OMISSÃO NA APLICAÇÃO DO ART. 63, §3º, DO CPC. CLÁUSULA DE ELEIÇÃO DE FORO QUE, UMA VEZ ANULADA, PERMITE A TRAMITAÇÃO DO PROCESSO NO FORO DO LOCAL DO OBJETO DO CONTRATO, ONDE A AGRAVANTE POSSUI FILIAL. EMBARGOS DE DECLARAÇÃO CONHECIDOS E PROVIDOS. OMISSÕES SANADAS, PORÉM SEM EFEITOS MODIFICATIVOS.
+01. Apesar da vultosa quantia indicada como valor da causa, resta configurada a hipossuficiência da parte embargada, devendo ser afastada a cláusula de eleição do foro, razão pela qual cabível a tramitação do feito perante a Comarca de Fortaleza, local de desenvolvimento das atividades objeto do contrato e onde a demandada possui filial, afastando qualquer prejuízo para sua defesa.
+02. Embargos conhecidos e providos. Omissão sanada.
+Irresignada, OI S.A. - EM RECUPERAÇÃO JUDICIAL interpôs recurso especial com base no art. 105, III, a e c, da CF, apontando a violação do art. 63, caput, § 3º, do CPC, além de dissídio jurisprudencial, sob o argumento de que (1) a cláusula de eleição de foro deve prevalecer no presente caso, tendo em vista não ser hipossuficiente a parte recorrida, devendo a controvérsia ser dirimida na Comarca do Rio de Janeiro; e (2) e se, porventura, tal cláusula for considerada nula, ainda assim os autos devem ser encaminhados para lá (RJ), onde fica a sede da empresa demandada.
+O recurso não foi admitido pelo Tribunal de Justiça do Ceará, por incidir, no caso, o teor das Súmulas n.ºs 5 e 7 do STJ (e-STJ, fls. 2.009/2.012).
+Nas razões do presente agravo, OI S.A. - EM RECUPERAÇÃO JUDICIAL refuta os referidos óbices impostos na não admissão do recurso especial interposto (e-STJ, fls. 2.014/2.038).
+Foi apresentada contraminuta (e-STJ, fls. 2.047/2.062).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial.
+(1) Da validade da cláusula de eleição de foro
+OI S.A. - EM RECUPERAÇÃO JUDICIAL alegou que a cláusula de eleição de foro deve prevalecer no presente caso, tendo em vista não ser hipossuficiente a parte recorrida, devendo a controvérsia ser dirimida na Comarca do Rio de Janeiro, portanto.
+Todavia, instado a se manifestar sobre o tema por esta Corte, o TJCE consignou que:
+Consoante já revelado desde o julgamento meritório do agravo de instrumento, o entendimento desta relatoria firmou-se no sentido de que a ruína financeira da empresa franqueada, comprovada por dívidas junto a instituições financeiras e, por fim, o próprio encerramento das atividades franqueadas, dão ensejo ao reconhecimento da hipossuficiência desta, apta a afastar a cláusula de eleição de foro.
+(..)
+Como cediço, a propositura de ação judicial per si não implica que a tese autoral se logrará vencedora e, muito menos, a partir de qual momento o valor requerido na inicial, acaso inteiramente provida, estará disponível para usufruto do autor, razão pela qual o valor dado à causa não é suficiente para afastar a hipossuficiência da parte.
+A bem da verdade, para que seja reconhecida a hipossuficiência da parte, é necessária análise dos fatos em que está inserida a autora/exordial, ora embargada, a qual, repito, comprovou o seu declínio econômico, com evolução de dívidas bancárias e, ernpós, com a promoção do encerramento total de suas atividades, o que demonstra sim a sua incapacidade de promover a ação judicial em outro estado da federação (e-STJ, fl.1.833).
+Assim, rever as conclusões do acórdão recorrido quanto à hipossuficiência da parte recorrida demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula n.º 7 do STJ.
+O recurso, portanto, não merece que dele se conheça quanto ao ponto.
+(2) Da hipótese descrita no § 3º do art. 63 do CPC
+Nas razões do presente recurso, OI S.A. - EM RECUPERAÇÃO JUDICIAL afirmou que, de acordo com o § 3º do art. 63 do CPC, se, porventura, a cláusula de eleição de foro for considerada nula, ainda assim os autos devem ser encaminhados para a Comarca do Rio de Janeiro, onde fica a sede da empresa demandada.
+Contudo, encontra-se consignado no acórdão recorrido que:
+(..) ainda que aplicável o art. 63, §3º, do Código de Processo Civil, tenho que a ação deve permanecer perante o foro da Comarca de Fortaleza. Isso porque determina a disposição legal que "antes da citação, a cláusula de eleição de foro, se abusiva, pode ser reputada ineficaz de oficio pelo juiz, que determinará a remessa dos autos ao juizo do foro de domicilio do réu."
+Ora, é indubitável que a lei ao citar "foro de domicilio do réu" apontou para o local onde o promovido detenha sede, razão pela qual não há qualquer nulidade em que o processo permaneça no Foro de Fortaleza, local onde os embargantes possuem endereço comercial e, inclusive foram citadas no endereço apontado, logrando inclusive em apresentar contestação e demais peças de sua defesa.
+Não se vislumbra nos autos impugnação a tais fundamentos, o que fez por atrair o teor da Súmula n.º 283 do STF, por analogia, tendo em vista que incólumes as conclusões do acórdão recorrido quanto à recorrente possuir endereço comercial em Fortaleza, onde teria sido, inclusive, citada.
+Nesse sentido, veja-se o seguinte precedente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE CONSIGNAÇÃO EM PAGAMENTO. INDEFERIMENTO DA INICIAL. ALEGAÇÃO DE EQUÍVOCO NA EXTINÇÃO DO FEITO. DESCUMPRIMENTO DE DETERMINAÇÃO JUDICIAL. FUNDAMENTO INATACADO. SÚMULAS NºS 283 DO STF E 7 DO STJ. MAJORAÇÃO DOS HONORÁRIOS SUCUMBENCIAIS. CORRETA APLICAÇÃO. PREVISÃO CONTIDA NO ART. 85, § 11, DO NCPC. ENTENDIMENTO FIRMADO EM JULGAMENTO DA EG. SEGUNDA SEÇÃO DESTA CORTE. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.(..)
+3. A subsistência de fundamento inatacado, apto a manter as conclusões do acórdão impugnado, impõe o reconhecimento da incidência da Súmula nº 283 STF, por analogia.
+(..)
+5. Agravo interno não provido.
+(AgInt nos EDcl no AREsp 1.818.635/SP, Rel. Ministro MOURA RIBEIRO, Terceira Turma , julgado em 25/4/2022, DJe 28/4/2022)
+Por tais razões, o recurso não merece que dele se conheça.
+Salienta-se que, de acordo com o pacífico entendimento desta Corte Superior, os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c, ficando, portanto, prejudicada a apreciação do dissídio jurisprudencial.
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC, c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela E menda n.º 22 de 16/3/2016, DJe 18/3/2016), CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO NCPC. CONTRATO DE FRANQUIA. EXCEÇÃO DE INCOMPETÊNCIA. FORO DE ELEIÇÃO. RIO DE JANEIRO. DECRETAÇÃO DE NULIDADE. HIPOSSUFICIÊNCIA DA PARTE. RECONHECIMENTO. DISCUSSÃO. IMPOSSIBILIDADE. REEXAME FÁTICO-PROBATÓRIO. VEDAÇÃO. SÚMULA N.º 7 DO STJ. HIPÓTESE DO § 3º DO ART. 63 DO CPC. APLICAÇÃO. DEMANDADA QUE POSSUI SEDE EM FORTALEZA. FUNDAMENTOS DO ACÓRDÃO RECORRIDO. NÃO IMPUGNAÇÃO. SÚMULA N.º 283 DO STF. ANALOGIA. DISSÍDIO JURISPRUDENCIAL. PREJUDICIALIDADE. A GRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
