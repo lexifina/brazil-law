@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Telefônica Brasil S.A. contra decisão de fls. 764/768, que negou provimento ao agravo em recurso especial por si interposto, aos seguintes fundamentos: (I) não houve violação ao art. 1.022, I e II, do CPC; (II) incidência da Súmula 7/STJ, pois verificar se há correspondência entre a conduta da recorrente e a descrição legal do art. 39 do CDC, demandaria, necessariamente, novo exame do acervo fático-probatório; (III) incidência da Súmula 7/STJ, pois contrariar a higidez da multa imposta, demandaria, necessariamente, novo exame do acervo fático-probatório; e (IV) impossibilidade de análise do recurso especial pela alínea c do permissivo constitucional.
+A parte embargante aponta omissão, ao fundamento de que, "ao contrário do quanto disposto no v. decisum, é indiscutível que a multa ora discutida fora integralmente mantida pelo E. Tribunal de origem" (fl. 772). Aduz que, no tocante à impossibilidade de análise do recurso especial pela alínea c do permissivo constitucional, a decisão embargada não atentou para a documentação como a "planilha comparativa entre o acórdão ora guerreado e o acórdão paradigmático" (fl. 775).
+Pugna, pois, pelo acolhimento dos embargos de declaração, para, atribuindo-lhes efeitos infringentes, prover o recurso especial no tocante à afronta ao art. 1022 do CPC.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+No caso dos autos, assiste razão à parte embargante.
+A decisão recorrida, no ponto que aplicou o óbice da Súmula 7/STJ, no que tange à proporcionalidade e razoabilidade da multa aplicada, foi assim fundamentada (fls. 767/766):
+Quanto à multa desproporcional e desarrazoada, verifica-se que a instância de origem reduziu o valor da multa mantida pelo juízo singular, de R$ 1.325.493,33 (um milhão, trezentos e vinte e cinco mil, quatrocentos e noventa e três e trinta e três centavos) para R$ 21.000,00 (vinte e um mil reais). Contudo, ainda inconformada, a recorrente alega que o montante da multa imposta na espécie destoa dos critérios estabelecidos pelo art. 57 do CDC.
+Ocorre que não se atentou para o fato de que o Tribunal a quo negou provimento à apelação da ora embargante, mantendo os termos da sentença, sendo vencido o relator (fls. 1179/1199), caracterizando, assim erro material passível de correção.
+Assim, forçosa é a reconsideração da decisão embargada.
+ANTE O EXPOSTO, acolho os embargos de declaração, com efeitos infringentes, para tornar sem efeito a decisão de fls. 1.639/1.643.
+Publique-se.
