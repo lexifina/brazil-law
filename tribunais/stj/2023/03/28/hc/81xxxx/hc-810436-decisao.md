@@ -1,0 +1,12 @@
+DECISÃO
+O paciente, condenado a 9 anos de reclusão pelos crimes de organização criminosa e corrupção passiva. alega sofrer coação ilegal. Aponta como autoridade coatora o Tribunal de Justiça Militar de Minas Gerais.
+Narra a impetração que o réu está preso desde 9/11/2020, por decisão de Juiz de primeiro grau e que, finalizada a instrução criminal, "não há mais o que se falar de risco para a aplicação da lei penal" (fl. 5).
+Busca, em liminar e no mérito, a revogação de sua prisão preventiva, "uma vez que ainda não houve o trânsito em julgado da sentença penal condenatória e manter o militar na prisão por quase 3 anos é, sem dúvida, antecipação de pena" (fl. 5).
+Decido.
+Observo que a impetração não está instruída com a cópia da sentença, que manteve a prisão preventiva do réu, ou do acórdão do Tribunal de Justiça, com a prévia análise do direito de recorrer em liberdade. Ainda, não foi comprovada a interposição de recurso às instâncias superiores.
+A deficiência impede o conhecimento do writ, pois não se sabe a fundamentação para a manutenção da prisão preventiva ou se o Tribunal a quo apreciou a controvérsia constante da inicial.
+O exame de matérias não deduzidas em primeiro e segundo graus e, por tal motivo, não apreciadas pelo Tribunal a quo "enseja indevida supressão de instância, com explícita violação da competência originária para o julgamento de habeas corpus (art. 105, I, c, da Constituição Federal)" (AgRg no HC n. 753.181/SP, rel. Rel. Ministro João Otávio de Noronha, 5ª T., DJe de 30/9/2022).
+. Ação constitucional de natureza mandamental, o writ tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir e sua natureza urgente exige prova pré-constituída das alegações, pois não comporta conversão em diligência ou dilação probatória. Era obrigatório à defesa instruir adequadamente os autos com documentos que permitissem a análise da aventada ilegalidade, o que não ocorreu.
+Deveras, "É ônus do impetrante instruir o habeas corpus requerido a esta Corte com cópia do ato coator, além da prova pré-constituída da aventada ilegalidade ou do abuso de poder. A deficiente instrução do writ impede o seu conhecimento" (EDcl no HC n. 783.484/MS, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), 6ª T., DJe de 17/2/2023).
+À vista do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente o processamento do habeas corpus.
+Publique-se e intimem-se.
