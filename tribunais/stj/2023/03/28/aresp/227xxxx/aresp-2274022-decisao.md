@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial com fundamento na Súmula 7/STJ.
+O agravante alega que a matéria discutida não demanda revolvimento fático-probatório e que foram impugnados devidamente os fundamentos do acórdão recorrido, requerendo o provimento do recurso.
+Oferecida contraminuta, o Ministério Público Federal manifestou-se pelo provimento do recurso.
+É o relatório.
+Decido.
+O agravo é tempestivo e ataca os fundamentos da decisão agravada, devendo ser conhecido para julgar o recurso especial, em que a defesa alega violação ao art. 42 da Lei n.11.343/2006, sustentando que "o aumento de dois anos, em face de uma pena mínima cominada em cinco anos, não se apresenta como razoável, por se considerar que a droga apreendida é da espécie que estabelece menor reprovação. Já foi decidido que o aumento de dois quintos da pena-base, em se tratando de maconha a espécie de droga, demandaria quantidade muito maior do que a aqui tratada" (fls. 252-253).
+O recorrente foi condenado como incurso no art. 33, caput, c/c o art. 40, VI, ambos da Lei 11.343/2006, às penas de 5 anos e 10 meses de reclusão, em regime inicial semiaberto e 583 dias multa.
+Interposta apelação pelo Ministério Público, o Tribunal de origem deu provimento ao recurso para fixar a pena em 6 anos, 9 meses e 20 dias de reclusão, mantido o regime prisional inicial semiaberto, e 680 dias-multa.
+A respeito da dosimetria, assim consta do acórdão (fls. 226/227):
+O Parquet, com razão, pleiteou o aumento da pena-base do recorrido, estipulada no mínimo legal.
+De fato, embora as circunstâncias judiciais descritas no art. 59 do Código Penal sejam favoráveis ao apelado, o mesmo não ocorre quando da análise do disposto no ad. 42 da Lei nº 11.343106.
+A culpabilidade, entendida como o juízo de reprovabilidade da conduta, não excedeu àquela inerente ao próprio tipo penal; os antecedentes criminais são bons, inexistindo qualquer registro de sentença penal transitada em julgado na CAC de fl. 60/60v; a conduta social e a personalidade não devem influir na pena, pois inexistem elementos nos autos a embasar uma valoração negativa.
+Nesse particular, vale ressaltar que a existência de ações penais em curso, sem o trânsito em julgado, é inábil para fins de se considerar eventual perfil voltado para a-delinquência ou comportamento desajustado, consoante enunciado sumular nº444 do STJ. A propósito:
+ ..
+Outrossim, os motivos, as circunstâncias e as consequências do crime, bem como o comportamento da vítima são próprios do tipo.
+Contudo, vê-se que a quantidade de entorpecentes apreendida foi bastante elevada e justifica a exasperação do apenamento, razão pela qual se estipula em 7 (sete) anos de reclusão e 700 (setecentos) dias-multa a pena-base de Claudinei.
+Na segunda fase, estão ausentes agravantes e, reconhecida a atenuante da confissão espontânea, entende-se pela redução da reprimenda em 1/6 (um sexto), ficando a pena intermediária estabelecida em 5 (cinco) anos e 10 (dez) meses de reclusão e 583 (quinhentos e oitenta e três) dias-multa.
+Na terceira fase, inexistem causas de diminuição e, reconhecida a majorante prevista no ad. 40, inc. VI, da Lei de Drogas, em razão do envolvimento de adolescente, preserva-se a majoração da reprimenda em 1/6 (um sexto), concretizando-a definitivamente em 6 (seis) anos, 9 (nove) t meses e 20 (vinte) dias de reclusão e 680 (seiscentos e oitenta) dias-multa.
+Quanto ao regime prisional a ser estabelecido para o acusado, este deve ser fixado conforme o mais novo entendimento dos Tribunais Superiores, com a aplicação da regra geral do ad. 33 do Código Penal, mesmo em casos de crimes hediondos ou a eles equiparados.
+ ..
+. No caso em comento em razão do quantum da reprimenda e da primariedade do agente, foi fixado o regime inicial semiaberto, o que não deve ser mantido.
+Ausentes os requisitos previstos nos artigos 44 e 77 do Código Penal, não se mostra possível substituir a pena privativa de liberdade por restritivas de direitos, bem como conceder-lhe o sursis.
+No caso, o Tribunal a quo fixou a pena-base acima do mínimo legal (2 anos) em razão da quantidade das drogas apreendidas.
+De acordo com o entendimento desta Cote, a natureza e quantidade da droga são fatores a serem necessariamente considerados na fixação da pena-base, nos termos do art. 42 da Lei 11.343/2006. Nesse sentido: HC n. 725.534/SP, relator Ministro Ribeiro Dantas, Terceira Seção, julgado em 27/4/2022, DJe de 1º/6/2022; AgRg no HC n. 742.937/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 14/6/2022, DJe de 17/6/2022.
+No caso, mostra-se excessivo o aumento de 2 anos (2/5) sobre a pena-base do crime de tráfico, consolidada em 7 anos de reclusão, em decorrência da apreensão de 3,245kg de maconha, pois a "majoração da pena na primeira fase de dosimetria deve seguir, em regra, a fração de 1/6 (um sexto) para cada circunstância judicial considerada desfavorável. A eleição de patamar superior a esse quantum exige que o Órgão Judiciário decline fundamentos idôneos e concretos capazes de demonstrar que o contexto na hipótese exorbita a gravidade inerente àquela vetorial" (AgRg no HC n. 711.280/MS, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 29/3/2022, DJe de 4/4/2022), situação excepcional que não se verifica na espécie.
+Assim, na primeira fase da dosimetria, ajusta-se o aumento da pena-base do crime de tráfico em 1/6, nos termos do art. 42 da Lei 11.343/2006, que resta fixada em 5 anos e 10 meses de reclusão, mais 583 dias-multa. Na segunda fase, diante da atenuante de confissão espontânea, fica a pena intermediária estabelecida no mínimo - 5 anos de reclusão e 500 dias-multa, observada a Súmula 231/STJ. Na terceira fase, mantém-se o aumento de 1/6 decorrente da causa de aumento do art. 40, VI, da Lei 11.343/2006, resultando na pena definitiva de 5 anos e 10 meses, mais 583 dias-multa, mantidos, no mais, os termos do acórdão recorrido.
+Ante o exposto, dou provimento ao agravo em recurso especial para (re) fixar a pena total definitiva do recorrente em 5 anos e 10 meses de reclusão, mais 583 dias-multa.
+Publique-se.
+Intimem-se.
