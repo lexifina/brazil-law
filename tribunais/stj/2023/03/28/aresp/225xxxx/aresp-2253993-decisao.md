@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interposto por MARCELO RAIMUNDO SANTANA contra decisão que inadmitiu o recurso especial interposto com fulcro no art. 105, III, "a", da Constituição em oposição a acórdão do Tribunal de Justiça do Estado de Minas Gerais no julgamento da Apelação n. 1.0313.14.030615-7/001.
+Consta dos autos que o recorrente foi condenado pela prática do delito previsto no art. 155, caput, §40, II, do Código Penal, à pena de 2 anos e 11 meses de reclusão e 29 dias-multa, em regime semiaberto.
+A Defensoria Pública local interpôs recurso de apelação que restou improvido, mantendo-se integralmente a sentença.
+Nas razões do especial, sustenta, em síntese, violação aos arts. 155, § 4º, I, do CP e 158 do CPP, ao argumento de que "além de não ser laudo específico para constatação de que, houve ou não escalada - aponta que o autor pulou uma janela que se encontrava aberta, ou seja, o autor adentrou no imóvel pulando uma janela e não escalando" (fl. 407).
+Defende, ainda, que "não há, aqui nesse presente Recurso Extremo, cabimento para questionar os fatos, mas sim, demonstrar que o laudo, referido pelo i. relator, não é LAUDO PRÓPRIO, conforme exigido na legislação penal" (fl. 407) .
+Inadmitido na origem por incidência da Súmula 7/STJ, a defesa interpôs o presente agravo, pelo qual aduz que "não se pretende que a Corte Infraconstitucional revolva na matéria probatória dos autos, mas apenas que verifique a inexistência de prova pericial da escalada, fato que inviabiliza a imputação da referida qualificadora ao agravante, sob pena de violação ao in dubio pro reo" (fl. 425).
+O Ministério Público Federal opinou pelo desprovimento do agravo.
+É o relatório.
+Decido.
+Embora admissível, o agravo não comporta provimento.
+Acerca da qualificadora da escalada, eis o excerto pertinente do acórdão recorrido (fls. 394/399):
+Pleiteia a defesa o decote da qualificadora da escalada, alegando ausência de prova pericial. Melhor sorte não lhe assiste. Ao contrário do que afirma a defesa, foi efetuado laudo pericial do local, com fotos, que atestou de forma segura que houve escalada conforme se verifica às fls. 17119. Portando, restaram claras as circunstâncias pelas quais o apelante teria conseguido chegar à janela que dava acesso ao imóvel. Vejamos a jurisprud4ncia desta Corte:
+ ..
+Outrossim, a comprovação da qualificadora da escalada no crime de furto não se limita à prova técnica, podendo ser demonstrada por outros meios de prova que não o exclusivamente pericial, o que também ocorreu no presente caso. No caso em debate, além de ter sido realizada perícia específica para constatar a ocorrência da escalada, as demais provas dos autos demonstram sua configuração. Ouvida em sede inquisitiva à fI. 34,. a vítima VICENTE PAULO MENDES afirmou que para ter acesso a residência, o autor teve que pular o muro do imóvel e escalar até a claraboia no segundo andar, aonde adentrou pela janela. Em seu interrogatório, o próprio acusado admitiu a escalada. Resta, assim, demonstrada, no mínimo, a anormalidade da via de acesso utilizada para realizar as subtrações, situação que permite o reconhecimento da qualificadora da escalada.
+ ..
+Pelo exposto, demonstrado que o réu utilizou de esforço incomum para adentrar nos limites da residência da vítima, a manutenção da qualificadora prevista no inciso II, do §40, do art. 155 do CP é medida que se impõe.
+Como se vê, o Tribunal a quo manteve o reconhecimento da qualificadora da escalada tendo em vista que "além de ter sido realizada perí cia específica para constatar a ocorrência da escalada, as demais provas dos autos demonstram sua configuração. Ouvida em sede inquisitiva à fl. 34, a vítima VICENTE PAULO MENDES afirmou que para ter acesso a residência, o autor teve que pular o muro do imóvel e escalar até a claraboia no segundo andar, aonde adentrou pela janela. Em seu interrogatório, o próprio acusado admitiu a escalada".
+Consoante entendimento jurisprudencial desta Corte, "para reconhecimento da qualificadora da escalada, é imprescindível a realização de exame pericial, sendo possível a sua substituição por outros meios probatórios somente se o delito não deixar vestígios ou tenham esses desaparecido, ou, ainda, se as circunstâncias do crime não permitirem a confecção do laudo" (AgRg no AREsp 1902141/ DF, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 05/10/2021, DJe 13/10/2021).
+Incide, pois, à espécie, o comando da Súmula 83/STJ.
+Ademais, tendo o Tribunal de origem concluído que, entre outros meios de prova, a perícia realizada demonstrou que houve a escalada, alterar a referida conclusão, na forma pretendida pela defesa, demandaria revolvimento fático-probatório, providência que encontra óbice na Súmula 7/STJ.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Publique-se.
+Intimem-se .
