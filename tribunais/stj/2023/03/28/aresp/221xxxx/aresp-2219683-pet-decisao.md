@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de petição avulsa (n. 00200047/2023 - fls. 2-4) apresentada por ULISSES COSTA JÚNIOR contra decisão de fls. 466-472, que negou provimento ao agravo do ora requerido.
+Em suas razões, o requerente alega que houve erro material no decisum, pois, ao majorar os honorários advocatícios em 10% sobre o valor já arbitrado nas instâncias de origem, equivocadamente, fixou tal verba em favor do seu patrono, que, no caso específico, foi sucumbente da demanda, de modo que o correto seria fixar tal verba em favor do patrono da parte recorrida.
+Requer o acolhimento do pedido para que seja sanado o erro material.
+Assiste razão ao requerente, pois houve efetivamente erro material no decisum.
+Proposta ação de restituição de quantia paga ou obrigação de fazer, c/c a indenização por danos morais pelo ora requerente, ULISSES COSTA JÚNIOR, em desfavor da ora requerida, PINHEIROS VEÍCULOS LTDA, o Juízo de primeiro grau julgou parcialmente procedentes os pedidos, condenando a parte ré às custas processuais e honorários advocatícios, estes arbitrados em 10% sobre o valor da condenação (fl. 180).
+Interposta apelação pela parte demandada, a parte ora requerida, o Tribunal de origem negou provimento ao recurso, majorando os honorários advocatícios sucumbenciais em 5% sobre o valor da condenação, com amparo no art. 85, § 11, do CPC.
+Rejeitados os embargos de declaração na origem e sobrevindo recurso especial de PINHEIROS VEÍCULOS LTDA (fls. 299-325), o apelo foi inadmitido (fls. 410-413) e os autos ascenderam ao STJ, por meio do agravo em recurso especial (fls. 417-434), o qual, por sua vez, restou desprovido - decisão de fls. 466-472.
+No entanto, conforme suscitado pela parte ora requerente, há um erro material na parte final da decisão em relação aos honorários advocatícios. Observe-se (fl. 472, destaquei):
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em favor do patrono da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Nesse contexto, impõe-se a necessária correção do equívoco a fim de que, onde consta "em favor do patrono da parte ora recorrente", considere-se "em favor do patrono da parte ora recorrida", fixando-se o novo texto nos seguintes termos:
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em favor do patrono da parte ora recorrida, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Ante o exposto, chamo o feito à ordem e defir o o pedido para, reconhecendo o erro material na decisão de fls. 466-472, estabelecer a majoração dos honorários advocatícios, conforme fundamentação acima.
+Comunique-se com urgência ao Juízo de primeira instância e ao Tribunal de origem para que adotem as providências que se fizerem necessárias.
+Publique-se. Intimem-se.
