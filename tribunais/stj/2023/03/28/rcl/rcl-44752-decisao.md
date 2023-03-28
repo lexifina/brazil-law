@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de reclamação, com pedido liminar, ajuizada por MRV ENGENHARIA E PARTICIPAÇÕES S/A contra acórdão exarado pela 3ª Câmara Cível do Tribunal de Justiça do Estado de Alagoas/AL.
+Em suas razões, a insurgente sustenta que "(..) a decisão reclamada, por se tratar de provimento judicial que contraria tese jurídica firmada em acórdão proferido em julgamento de a. Recursos Especiais Repetitivos pelo Superior Tribunal de Justiça prolatada nos autos dos Recursos Especiais nOS 1.601.149 / RS (2016/0136102-7) e nº 1.599.511 - SP (2016/0129715-8), precisamente os TEMAS 938 e 960 do STJ."
+Acrescenta, nesse contexto, que "(..) foi condenada em primeiro grau ao pagamento do valor da corretagem de forma simples R$ 2.078,001, sob a justificativa que seria indevido o repasse da referida taxa ao consumidor. (..) Interposto Recurso de Apelação pela Reclamante em face da sentença primeva, a E. Câmara manteve incólume a sentença de piso, condenando a Reclamante à restituição dos valores atinentes à comissão de corretagem."
+Entende, dessa forma, que "(..) v. acordão adotou premissa fática equivocada, uma vez que o objeto da ação trata-se de TAXA DE CORRETAGEM, cujo STJ já entendeu em sede de Recurso Especial Repetitivo pela total legalidade da transferência ao consumidor, desde que previamente pactuado, in casu, restou expressamente avençado no cláusula 3.3 do contrato de promessa de compra e venda."
+Pede, em caráter liminar, a suspensão dos efeitos do v. acórdão e, no mérito, a procedência da presente reclamação. (fls. 4/12)
+É o relatório.
+Decisão.
+O incidente não merece acolhimento.
+1. Nos termos dos artigos 105, I, "f", da Constituição Federal, 988, inc. II, do NCPC e 187 do RISTJ, somente caberá reclamação quando um órgão julgador estiver exercendo competência privativa ou exclusiva deste Tribunal ou, ainda, quando as decisões deste não estiverem sendo cumpridas por quem de direito.
+Com esse norte hermenêutico, a presente reclamação constitucional deve ser rejeitada porquanto, na hipótese dos autos, o "seu acolhimento tornaria ineficaz o propósito racionalizador implantado pelo regime dos recursos repetitivos." (ut. AgRg na Rcl 29.631/SP, Rel. Min. ASSUSETE MAGALHÃES, PRIMEIRA SEÇÃO, julgado em 22/02/2017, DJe 07/03/2017)
+Nesse contexto, em pronunciamento exarado pela eg. Corte Especial, nos autos da Reclamação 36.476/SP, Rel. Min. Nancy Andrighi, DJe de 06/03/2020, fixou orientação no sentido de que não é cabível o ajuizamento de reclamação com o objetivo de controlar a aplicação, no caso concreto, de tese firmada pelo STJ em recurso especial repetitivo.
+Na mesma linha: AgInt na Rcl 40592/DF, Rel. Min. Marco Aurélio Bellizze, Dje de 23/08/2021; AgInt na Rcl 41426/SP, Desta Relatoria, DJe de 17/06/2021; AgInt na Rcl 37346/ SP, Rel. Min. Moura Ribeiro, DJe de 14/06/2021. Dessa forma, inexistente qualquer das hipóteses legais de cabimento, o indeferimento liminar da presente reclamação é medida de rigor.
+2. Do exposto, com fundamento no art. 34, I, do RISTJ, indefiro liminarmente a presente reclamação.
+Publique-se. Intimem-se. Após, arquivem-se.
