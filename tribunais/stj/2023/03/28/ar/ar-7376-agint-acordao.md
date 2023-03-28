@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 22/03/2023 a 28/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Paulo de Tarso Sanseverino, Maria Isabel Gallotti, Ricardo Villas Bôas Cueva, Marco Buzzi, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Antonio Carlos Ferreira.
+RELATÓRIO
+Cuida-se de agravo interno interposto por MARIA DE FATIMA LEME contra decisão que indeferiu a petição inicial e julgou extinta a ação rescisória, sem resolução do mérito. Eis a ementa:
+AÇÃO RESCISÓRIA. ACÓRDÃO RESCINDENDO QUE NÃO CONHECE DO RECURSO INTERPOSTO. AUSÊNCIA DE PRESSUPOSTO DE ADMISSIBILIDADE. REMESSA DOS AUTOS AO TRIBUNAL COMPETENTE. INVIABILIDADE. EXTINÇÃO SEM EXAME DO MÉRITO.
+1. A jurisprudência da Segunda Seção do STJ é pacífica no sentido de que não cabe ação rescisória contra acórdão que não conhece do recurso especial por ausência de requisito de admissibilidade, porquanto não houve apreciação do mérito, pressuposto inafastável para essa espécie de pretensão. Precedentes.
+2. A Segunda Seção tem o entendimento de que é impertinente o pedido de remessa dos autos ao Tribunal competente, quando a petição inicial da ação rescisória, de modo equivocado, insurge-se contra acórdão que não se constitui no efetivo acórdão rescindendo, sendo inviável fazer-se a correção do pedido e da causa de pedir articulados na inicial.
+3. Ação rescisória extinta, sem resolução do mérito.
+Alega a agravante, em suas razões, que "a Segunda Seção do STJ não pode legislar em proveito próprio, ou se esquivar de julgar ação rescisória, que apesar do trânsito em julgado da decisão, não seja de mérito" e que "negar a remessa para o Tribunal competente, é cercear a defesa e o direito da agravante de receber a prestação judiciária cabível" (fl. 304, e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NA AÇÃO RESCISÓRIA. ACÓRDÃO RESCINDENDO QUE NÃO CONHECE DO RECURSO INTERPOSTO. OBJETO DA DEMANDA. AUSÊNCIA DE PRESSUPOSTO DE ADMISSIBILIDADE. REMESSA DOS AUTOS AO TRIBUNAL COMPETENTE. INVIABILIDADE. EXTINÇÃO SEM EXAME DO MÉRITO.
+1. A jurisprudência do STJ orienta que o CPC/2015 admite a propositura de ação rescisória para rescindir decisão transitada em julgado que, embora não seja de mérito, impeça a admissibilidade do recurso correspondente (art. 966, § 2º, II), hipótese em que o objeto da demanda visa apenas a admissibilidade do recurso, o que não ocorre no particular.
+2. A decisão agravada não trata de incompetência desta Corte para julgar a rescisória; logo, não se aplica a regra do § 5º do art. 968 do CPC/2015.
+3. Agravo interno desprovido.
+VOTO
+Consta da decisão agravada que a jurisprudência da Segunda Seção do STJ é pacífica no sentido de que "não cabe ação rescisória contra acórdão que não conhece do recurso especial por ausência de requisito de admissibilidade, porquanto não houve apreciação do mérito, pressuposto inafastável para essa espécie de pretensão" (AgInt na AR 5.613/RJ, julgado em 23/8/2017, DJe de 15/9/2017). No mesmo sentido: AgRg na AR 4.616/SP (Segunda Seção, julgado em 14/9/2016, DJe de 29/9/2016).
+Com efeito, sobre a aplicação do § 2º do art. 966 do CPC/2015, esta Corte já decidiu que, "o CPC/2015 admite a propositura de ação rescisória para rescindir decisão transitada em julgado que, embora não seja de mérito, impeça a admissibilidade do recurso correspondente (art. 966, § 2º, II), hipótese em que o objeto da presente demanda visa apenas a admissibilidade do recurso e superar a intempestividade reconhecida no aresto rescindendo" (AgInt na AR 6.745/DF, Primeira Seção, julgado em 2/3/2021, DJe 10/3/2021). No mesmo sentido: AR 6.226/RN, Segunda Seção, julgado em 9/11/2022, DJe de 16/11/2022; AR 6.835/RJ, Primeira Seção, julgado em 28/9/2022, DJe de 4/11/2022.
+A hipótese dos autos, todavia, não se amolda a essa hipótese, porquanto, da leitura da petição inicial, com a emenda de fls. 112-115, e-STJ, verifica-se que a ação rescisória foi ajuizada com a pretensão de rescindir acórdão do STJ que não conheceu do agravo em recurso especial interposto pela autora, por incidência da súmula 182 do STJ, com a pretensão de que "seja deferida a nomeação de perito atuário para auditagem dos cálculos apresentados nos autos" (fl. 115, e-STJ).
+Logo, em virtude da ausência de pressuposto de admissibilidade da ação rescisória, é manifesto o seu descabimento.
+Por fim, convém ressaltar que a Segunda Seção já decidiu, em hipótese análoga a dos autos, que é "impertinente o pedido de remessa dos autos ao Tribunal de Justiça competente, pois a inicial da ação rescisória insurge-se contra o acórdão desta Corte" (AgInt na AR 5.613/RJ, julgado em 23/8/2017, DJe de 15/9/2017).
+Na ocasião do julgamento da AR 5.613/RJ, registrou-se no voto condutor do acórdão que:
+O STJ distingue o mero erro no ajuizamento de ação rescisória em razão da competência do erro no ajuizamento em razão da matéria, com diferentes consequências.
+No primeiro caso, entende-se possível remeter o processo ao Tribunal competente, porquanto o erro está unicamente na indicação do órgão judiciário competente, mantendo-se incólume a inicial que impugna o correto acórdão a ser rescindido.
+Na segunda hipótese, ao invés, tem-se vedado a possibilidade da mesma remessa, na medida em que a petição inicial, de modo equivocado, insurge-se contra acórdão diverso, ou seja, contra decisão que não se constitui no efetivo acórdão rescindendo, sendo inviável fazer-se a correção do pedido e da causa de pedir articulados na inicial.
+Na espécie, a petição inicial, com a emenda respectiva, dá conta de que o acórdão rescindendo foi exarado pelo STJ e a decisão agravada não trata de incompetência desta Corte para julgar a rescisória.
+Logo, não se aplica a regra do § 5º do art. 968 do CPC/2015.
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno.
