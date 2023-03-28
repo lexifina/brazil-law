@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso extraordinário (fls. 510-525) interposto por JÚLIO DA SILVA NETO, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça que recebeu a seguinte ementa (fl . 502):
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTO DA DECISÃO IMPUGNADA NÃO COMBATIDO. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. O agravante deixou de infirmar causa específica de não conhecimento do recurso especial - ausência de dialeticidade recursal -, motivo pelo qual este agravo regimental também não pode ser conhecido, consoante o entendimento enunciado na Súmula n. 182 do STJ
+2. Neste regimental, a defesa deveria haver demonstrado que infirmou, na petição de agravo em recurso especial, a aplicação da Súmula n. 284 do STF - é dizer, que a fundamentação do REsp era suficiente para o seu conhecimento e que as razões recursais rebatiam integralmente os fundamentos do acórdão de apelação. Todavia, a parte limitou-se a reiterar as teses meritórias formuladas no especial. Ao proceder dessa forma, o agravante, novamente, não se desincumbiu do ônus de expor integral, específica e detalhadamente as razões de fato e de direito por que entendeu incorreta a decisão agravada.
+3. Agravo regimental não conhecido.
+A parte recorrente sustenta, no recurso extraordinário, que teria havido violação do art. 5º, XLVI e LVII, da CF e que a matéria tratada seria dotada de repercussão geral.
+Nesse sentido, defende que (fls. 522-523):
+No tocante à aplicação do concurso material, maiormente no que diz respeito soma de duas ações, houve uma descabida exacerbação.
+ ..
+Em que pese a orientação fixada pela norma penal supra-aludida, a decisão combatida pecou ao apurar as circunstâncias judiciais para assim exasperar a não aplicação do crime continuado, confirmando a sentença monocrática condenatória.
+Requer, ao final, a admissão do recurso, bem como a remessa ao Supremo Tribunal Federal.
+Contrarrazões apresentadas às fls. 534-539.
+É o relatório.
+Como relatado, o pronunciamento questionado concluiu pelo não preenchimento dos pressupostos de admissibilidade do recurso anteriormente dirigido ao Superior Tribunal de Justiça.
+Tal fato ocorreu porque, no julgado recorrido, não se conheceu do agravo regimental, mantendo a decisão que também não conheceu do agravo em recurso especial por incidência do óbice da Súmula n. 182/STJ.
+Como se vê, o mérito do recurso especial não chegou a ser apreciado, diante de insuperável óbice processual, impeditivo do próprio conhecimento do recurso.
+Segundo o STF, a necessidade de superação do que fora decidido no pronunciamento impugnado acerca dos pressupostos de conhecimento do recurso da competência de outro tribunal, como ocorreu neste caso, inviabiliza o exame do recurso extraordinário pela própria Corte Suprema, qualquer que seja a suscitada violação da Constituição Federal, consoante a tese fixada no Tema n. 181 da repercussão geral:
+A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral (RE n. 598.365-RG/MG).
+Nesse sentido, eventual ofensa à Carta Magna, se existente, seria apenas indireta ou reflexa, entendendo o Excelso Pretório que "carece de repercussão geral a discussão acerca dos pressupostos de admissibilidade de recursos da competência de cortes diversas" (ARE n. 1.227.415-AgR, relator Ministro Edson Fachin, Segunda Turma, DJe de 21/5/2021), mesmo quando suscitada a ofensa ao art. 105, III, da Constituição da República (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+Esse é também o consolidado entendimento do STJ, que reiteradamente nega provimento aos agravos que impugnam decisões de aplicação do Tema n. 181/STF, como exemplifica o precedente a seguir:
+Tratando-se de recurso extraordinário contra acórdão que não ultrapassou o juízo de admissibilidade, fica inviabilizado o exame das questões constitucionais suscitadas em face da inexistência de repercussão geral.
+(AgInt no RE nos EDcl no AgInt no AREsp n. 1.342.377/SP, relatora Ministra Maria Thereza de Assis Moura, DJe de 13/9/2019.)
+Assim, não sendo a discussão proposta revestida de repercussão geral, segundo o próprio STF, entendimento de observância obrigatória (CPC, art. 927, III, parte final), nada colhe o recurso extraordinário.
+Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO. TEMA N. 181/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. NEGATIVA DE SEGUIMENTO.
+1. "A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral" (Tema n. 181/STF).
+2. Não preenchidos os pressupostos de admissibilidade do agravo em recurso especial, aplica-se a tese do Tema n. 181/STF, ainda que se queira, no recurso extraordinário, discutir o mérito da causa ou os fundamentos que impediram o conhecimento do recurso (CPC, art. 927, III).
+3. Recurso extraordinário a que se nega seguimento, nos termos do art. 1.030, I, a, do CPC.
