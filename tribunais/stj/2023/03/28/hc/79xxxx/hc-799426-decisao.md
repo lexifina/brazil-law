@@ -1,0 +1,10 @@
+DECISÃO
+GABRIEL DA SILVA alega sofrer coação ilegal e aponta como autoridade do coatora o Tribunal de Justiça do Estado de São Paulo.
+A defesa pretende a soltura do paciente - condenado pela prática do crime de tráfico de drogas - ou a aplicação de medidas cautelares alternativas à prisão, sob o argumento de excesso de prazo para julgamento do recurso de apelação.
+Decido.
+Depreende-se dos autos que o réu teve a prisão preventiva decretada em 17/9/2021, permaneceu foragido até 2/1/2022 e foi condenado a 6 anos e 3 meses de reclusão, em regime inicial fechado, pela prática do delito de tráfico de drogas, circunstâncias que devem ser consideradas na averiguação de eventual excesso de prazo.
+A respeito do tema, "uníssona é a jurisprudência no sentido de que o constrangimento ilegal por excesso de prazo só pode ser reconhecido quando a demora for injustificada, impondo-se adoção de critérios de razoabilidade no exame da ocorrência de constrangimento ilegal" (AgRg no HC n. 627.656/RJ, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 18/12/2020).
+Consoante o entendimento deste Tribunal Superior, "O prazo para a conclusão da instrução criminal não tem as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade para definir o excesso de prazo, não se ponderando a mera soma aritmética dos prazos para os atos processuais (Precedentes do STF e do STJ)" (RHC n. 58.274/ES, Rel. Ministro Felix Fischer, 5ª T., DJe 17/9/2015).
+Na hipótese, não constato delonga injustificada na tramitação processual. De acordo coma as informações prestadas, a despeito de a sentença haver sido proferida em 19/5/2022, o recurso foi recebido pela Corte estadual em 5/8/2022 e, em 8/2/2023, "o processo em tela foi encaminhado à mesa para ser oportunamente incluído em pauta de sessão de julgamento" (fl. 245).
+À vista do exposto, denego a ordem de habeas corpus . Todavia, expeça-se recomendação à Corte estadual para que imprima máxima celeridade no julgamento da Apelação Criminal n. 1501281-63.2021.8.26.0168.
+Publique-se e intimem-se.
