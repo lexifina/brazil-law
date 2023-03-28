@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pela RAINHA LOGÍSTICA DISTRIBUIDORA E TRANSPORTADORA LTDA. contra decisão em que determinei a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que aplique as medidas cabíveis previstas no art. 1.040 do CPC/2015, conforme o decidido no Tema 985/STF.
+A embargante requer a reforma do acórdão de origem para que seja "mantida a suspensão do presente processo e a exigibilidade dos créditos discutidos até o trânsito em julgado do RE nº 1.072.485/PR - TEMA 985 ou, subsidiariamente, que a Corte julgue o presente recurso tão somente após o julgamento dos embargos de declaração opostos pelos contribuintes nos autos do RE nº 1.072.485/PR -TEMA 985.
+Sem impugnação.
+Passo a decidir.
+No caso, não se verifica o vício apontado, pois a decisão está clara no sentido de que o Supremo Tribunal Federal, no Tema 985 (RE n. 1.072.485/PR), definiu a tese de que "é legítima a incidência de contribuição social sobre o valor satisfeito a título de terço constitucional de férias".
+Nesse contexto, julgado o tema pela sistemática dos recursos repetitivos, esta Corte Superior orienta que os recursos que tratam da mesma controvérsia devem retornar ao Tribunal de origem para que este faça o juízo de conformação, nos termos do que dispõe o art. 34, XXIV, do RISTJ.
+Somente após realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado para esta Corte Superior, para serem analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Cabe ressaltar que "o Superior Tribunal de Justiça entende possível a aplicação imediata dos precedentes firmados em julgamentos submetidos à sistemática do recurso repetitivo ou da repercussão geral, independentemente da publicação do acórdão paradigma ou do julgamento de eventuais embargos de declaração opostos" (AgInt no REsp 1.680.593/RJ, de minha relatoria, Primeira Turma, DJe 04/12/2019).
+Ponderados esses elementos, constato que a insurgência da embargante não diz respeito a eventual deficiência de fundamentação do julgado, mas à interpretação que lhe foi desfavorável, possuindo (aquela) caráter meramente infringente e, por isso, sendo de inviável acolhimento no âmbito restrito dos embargos de declaração.
+Por fim, sopesando a boa-fé objetiva, não considero esses primeiros aclaratórios como flagrantemente procrastinatórios, motivo pelo qual deixo de aplicar a multa processual correspondente.
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
