@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto por MARIA DE FATIMA SANTOS, com base no art. 105, III, a e c, da Constituição Federal, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de Sergipe assim ementado (e-STJ, fl. 574):
+APELAÇÕES CÍVEIS. AÇÃO COMINATÓRIA C/C INDENIZAÇÃO POR DANOS MORAIS. REALIZAÇÃO DE CIRURGIA. NECESSIDADE DO PROCEDIMENTO CIRÚRGICO DEMONSTRADA. INDICAÇÃO DO MÉDICO ASSISTENTE. OPERADORA DE PLANO DE SAÚDE CONSTITUÍDA SOB A MODALIDADE DE AUTOGESTÃO. INAPLICABILIDADE DO CDC. OBRIGAÇÃO DO IPESAUDE DE CUSTEAR O PROCEDIMENTO CIRÚRGICO. RECUSA INDEVIDA PELA OPERADORA DE PLANO DE SAÚDE. DANO MORAL NÃO CONFIGURADO. MANUTENÇÃO DA SENTENÇA.
+I - O IPESAÚDE se trata de operadora de plano de saúde constituída sob a modalidade de autogestão, razão pela qual não se aplica o CDC ao caso em análise, conforme entendimento consubstanciado na Súmula 608 do STJ.
+II - O fato de ser inaplicável a legislação consumerista ao presente feito não atinge a obrigação do IPESAÚDE fornecer o tratamento pleiteado pela autora, pois, havendo cobertura da patologia pelo plano de saúde e prescrição de tratamento pelo médico que acompanha o paciente, independentemente da incidência das normas consumeristas, é dever da operadora de plano de saúde oferecer o tratamento indispensável ao usuário. Precedentes do STJ.
+III - Recursos conhecidos e improvidos para ambas as partes.
+Nas razões do recurso especial (e-STJ, fls. 592-606), a recorrente alega, além do dissídio jurisprudencial, ofensa aos arts. 186 e 927 do Código Civil de 2002.
+Sustenta, em síntese, que a negativa de cobertura pelo recorrido causou-lhe dano moral, sem que seja necessária a comprovação do efetivo abalo moral, uma vez que o dano é presumido. Invoca como fundamento um precedente do Superior Tribunal de Justiça em tal sentido.
+Foram apresentadas contrarrazões (e-STJ, fls. 620-630).
+Juízo de admissibilidade positivo (e-STJ, fls. 633-639).
+Brevemente relatado, decido.
+Relativamente ao pagamento de indenização por danos morais, a Corte originária assim destacou (e-STJ, fls. 581-582):
+Com relação ao dano extrapatrimonial, filio-me ao entendimento de que o mero descumprimento contratual não enseja o dever de indenizar, razão pela qual, para que fosse cabível a indenização pecuniária, os demandantes deveriam ter comprovado que sofreram um constrangimento relevante, uma situação de abalo à dignidade da pessoa, o que, em verdade, não ocorreu/não restou comprovado.
+O simples reconhecimento da conduta ilegítima por parte da operadora não gera (em processo anterior), por si só, o dever de indenizar.
+(..)
+Conforme cediço, não cabe indenização por danos morais simplesmente porque o Plano de Saúde estava a discutir cláusula contratual, ainda que se decida, em provimento jurisdicional derradeiro, pelo equívoco da interpretação e pela consequente condenação da operadora à cobertura do procedimento médico pretendido.
+Nessa trilha, tem-se que a recusa não incorreu, a meu ver, em ilícito capaz de ensejar reparação por dano moral, pois que não extrapolou os limites de desrespeito ao contrato.
+Com efeito, é assente no Superior Tribunal de Justiça a orientação de que a negativa indevida de cobertura de plano de saúde, por si só, não gera dano moral, devendo-se verificar as peculiaridades do caso concreto para avaliar se a conduta ilícita ultrapassou o mero inadimplemento contratual.
+Exemplificativamente:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. RECUSA DE CUSTEIO DE TRATAMENTO. DANOS MORAIS. DESCARACTERIZAÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. ÓBICE DA SÚMULA N. 7/STJ. VALOR DA INDENIZAÇÃO POR DANOS MORAIS. PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE. VERIFICAÇÃO. SÚMULA N. 7/STJ. DECISÃO MANTIDA. 1. Segundo a jurisprudência do STJ, "o descumprimento contratual por parte da operadora de saúde, que culmina em negativa de cobertura para procedimento de saúde, somente enseja reparação a título de danos morais quando houver agravamento da condição de dor, abalo psicológico ou prejuízos à saúde já debilitada do paciente" (AgInt no AREsp n. 1.185.578/SP, relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 3/10/2022, DJe de 14/10/2022).
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7/STJ).
+3. No caso concreto, o Tribunal de origem analisou as provas dos autos para concluir pela existência de danos morais indenizáveis, pois a situação a que a agravada foi exposta, ante a recusa do custeio do tratamento de saúde, ultrapassou o mero dissabor. Alterar esse entendimento demandaria o reexame de provas, inviável em recurso especial.
+4. Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento do referido óbice para possibilitar a revisão. No caso, o valor estabelecido pelo Tribunal a quo não se mostra excessivo, a justificar sua reavaliação em recurso especial.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.039.471/SP, Relator o Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 14/11/2022, DJe de 21/11/2022.)
+No caso, a pretendida alteração das conclusões a que chegou a Corte estadual (quanto à inexistência de afronta a direito da personalidade da parte autora e à inocorrência de danos morais indenizáveis) demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial segundo a Súmula n. 7/STJ.
+Ante o exposto, não conheço do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte ora recorrida em 2% sobre o valor atualizado da causa, suspensa a exigibilidade em razão da gratuidade de justiça deferida à recorrente.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. PLANO DE SAÚDE. AÇÃO COMINATÓRIA C/C INDENIZAÇÃO POR DANOS MORAIS. RECUSA INDEVIDA. DANOS MORAIS NÃO CONFIGURADOS. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
