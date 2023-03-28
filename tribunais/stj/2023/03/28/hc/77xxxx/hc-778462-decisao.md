@@ -1,0 +1,16 @@
+DECISÃO
+LUCIANO MARCIO DE SOUSA alega sofrer coação ilegal em seu direito de locomoção, ante acórdão proferido pelo Tribunal de Justiça do Estado de Goiás no Agravo em Execução n. 5580238-03.2021.8.09.0000.
+Insurge-se a impetrante contra a decisão que homologou falta disciplinar de natureza grave, porque noticiada a prática de novo crime durante a execução, existiu apenas a juntada e o aproveitamento de condenação, precedida de intimação e oitiva da defesa técnica, mas "sem que tenha havido a prévia realização de procedimento administrativo disciplinar (PAD) ou a designação de audiência de justificação", o que, a seu ver, caracteriza nulidade absoluta, pois não observados os princípios do contraditório e da ampla defesa.
+O Ministério Público Federal opinou pela denegação da ordem.
+Decido.
+A prática de fato definido como crime doloso constitui a falta disciplinar prevista no art. 52 da LEP, independente do trânsito em julgado de sentença condenatória (Súmula n. 526 do STJ), desde que sua apuração ocorra conforme o devido processo legal:
+a) em procedimento administrativo disciplinar específico (PAD);
+b) em audiência de justificação realizada na presença do defensor e do Ministério Público (Tema n. 941 de repercussão geral) ou
+c) mediante aproveitamento de sentença penal condenatória.
+Em todas essas situações, há observância do devido processo legal; o apenado tem a garantia do contraditório e da ampla defesa, pois, assistido por defensor ou advogado (defesa técnica) é ouvido para dar sua versão dos fatos (autodefesa), e tem oportunidade de refutar a alegação da prática de novo crime o que, no bojo de ação penal, ocorre de forma muito mais ampla, existindo um rito e toda uma fase de instrução para averiguar se o ilícito ocorreu e se o réu, verdadeiramente, foi o seu autor.
+É possível a solução monocrática do habeas corpus, por decisão monocrática do relator, pois a decisão de primeiro grau (fls. 608-613), mantida pelo Tribunal de Justiça (fls. 732-737), está conforme tese jurídica de repercussão geral.
+O Plenário do Supremo Tribunal Federal, ao fixar o Tema n. 758, definiu que a instrução para o reconhecimento da falta grave em apreço pode ser suprida por sentença que verse sobre a materialidade, a autoria e as circunstâncias do novo crime.
+No julgamento do RE n. 776.823/RS, afirmou-se a possibilidade de aproveitamento da condenação criminal (porque exarada conforme o devido processo legal), devendo a homologação da falta grave ser precedida de intimação da defesa técnica do apenado, no autos da execução, antes da declaração de penalidades previstas na LEP.
+No caso sob exame, uma vez comunicada nos autos da execução a prática de roubo majorado no curso do cumprimento da pena, ocorreu a regressão cautelar de regime. Com a juntada aos autos nova condenação, por incursão no art. 157, § 2º-A, I, do CP, a Defensoria Pública foi intimada e se manifestou. Depois, foi proferida decisão de homologação da falta grave. Assim, não se verifica ilegalidade, e não há necessidade de realização de PAD ou de audiência de justificação, pois o Juiz da VEC observou o entendimento consolidado no Tema n. 758, de repercussão geral.
+À vista do exposto, denego o habeas corpus.
+Publique-se e intimem-se.
