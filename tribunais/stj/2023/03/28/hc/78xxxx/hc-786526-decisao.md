@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado por RODRIGO ROQUE VIEIRA, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais.
+Dai o presente writ, no qual alega o Impetrante a ocorrência de constrangimento ilegal consubstanciado no encarceramento provisório mantido em desfavor do Paciente, aduzindo a ausência de fundamentação para a prisão cautelar.
+Pondera acerca da ausência de contemporaneidade da medida constritiva de liberdade.
+Requer, assim, a concessão da ordem para revogar a segregação cautelar e, subsidiariamente, a aplicação de medidas cautelares alternativas à prisão.
+O pedido liminar foi indeferido, às fls. 419-420.
+Informações prestadas às fls. 423-426, 433-460 e 472-482.
+O Ministério Público Federal, às fls. 484-490, manifestou-se pelo não conhecimento do writ, em parecer ementado nos seguintes termos, verbis:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO. INADEQUAÇÃO DA VIA. NÃO CONHECIMENTO. FURTO QUALIFICADO. PRISÃO PREVENTIVA. REITERAÇÃO DELITIVA. CRIME PRATICADO DURANTE LIBERDADE CONDICIONAL. FUNDAMENTAÇÃO IDÔNEA. CONTEMPORANEIDADE. NECESSIDADE NO MOMENTO DE SUA DECRETAÇÃO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PELO NÃO CONHECIMENTO" (fl. 484).
+É o relatório.
+Decido.
+Inicialmente, cumpre esclarecer que o Regimento Interno deste Superior Tribunal de Justiça, em seu art. 34, inciso XX, permite ao relator "decidir o habeas corpus quando for inadmissível, prejudicado ou quando a decisão impugnada se conformar com tese fixada em julgamento de recurso repetitivo ou de repercussão geral, a entendimento firmado em incidente de assunção de competência, a súmula do Superior Tribunal de Justiça ou do Supremo Tribunal Federal, a jurisprudência dominante acerca do tema ou as confrontar".
+Quanto a alegação de ausência dos requisitos ensejadores da prisão preventiva, cumpre ressaltar que a prisão cautelar deve ser considerada exceção, já que tal medida constritiva só se justifica caso demonstrada sua real indispensabilidade para assegurar a ordem pública, a instrução criminal ou a aplicação da lei penal, ex vi do artigo 312 do Código de Processo Penal.
+A prisão preventiva, portanto, enquanto medida de natureza cautelar, não pode ser utilizada como instrumento de punição antecipada do indiciado ou do réu, nem permite complementação de sua fundamentação pelas instâncias superiores (v.g. HC n. 93.498/MS, Segunda Turma, Rel. Min. Celso de Mello, DJe de 18/10/2012).
+"É iterativa a jurisprudência deste Superior Tribunal de Justiça no sentido de que " ..  a existência de inquéritos, ações penais em curso, anotações pela prática de atos infracionais ou condenações definitivas denotam o risco de reiteração delitiva e, assim, constituem fundamentação idônea a justificar a segregação cautelar."(HC 515.026/SC, Quinta turma, Rel. Min. Felix Fischer, DJe de 01/08/2019-grifei).
+Ressalte-se: "A contemporaneidade do decreto de custódia preventiva se verifica "da necessidade no momento de sua decretação, ainda que o fato criminoso tenha ocorrido em um período passado". (AgRg no HC 716.043/PE, Quinta Turma Relator Ministro Joel Ilan Paciornik, DJe de 4/4/2022).
+A Corte Especial deste Superior Tribunal de Justiça, em 16/3/2016, editou a Súmula n. 568, segundo a qual "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema", aplicável à presente hipótese que trata de habeas corpus substitutivo de recurso próprio.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não-conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Ante o exposto, com fulcro no art. 34, inciso XX, do RISTJ, não conheço do habeas corpus.
+P. e I.
