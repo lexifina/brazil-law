@@ -1,0 +1,5 @@
+DECISÃO
+Em atenção à petição de fls. 1.517-1.524, onde a parte recorrida alega que o presente processo tramitou no Tribunal de origem conjuntamente com os autos de n. 0029113-26.2002.819.0001, tendo sido proferida uma única sentença pelo Juízo da 1ª Vara da Fazenda Pública do Tribunal de Justiça do Estado do Rio de Janeiro, cuja decisão foi mantida por sua 4ª Câmara Cível, bem assim por esta Corte Superior no julgamento do AREsp 702.797/RJ, de relatoria do Ministro Humberto Martins.
+Esclarece que o presente feito (Processo n. 0034471-69.2002.8.19.0001 - REsp 1.877.969/RJ), por equívoco de ordem material e administrativa do TJRJ, foi separado do Processo de n. 0029113-26.2002.819.0001, AREsp 702.797/RJ, o que fez com que a 4ª Câmara Cível do TJRJ julgasse, mais uma vez, outro recurso apresentado pela Cedae/recorrente, relativamente o Processo n. 0034471-69.2002.8.19.0001, cujo resultado implicou na interposição do presente REsp 1.877.969 RJ.
+Desse modo, consulte-se o exmo. Sr. Ministro Humberto Martins acerca de sua prevenção para análise do presente feito.
+Publique-se.
