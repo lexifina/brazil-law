@@ -1,0 +1,22 @@
+DECISÃO
+ANDRE HALISON DA SILVA MELO alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Norte.
+A defesa pretende a soltura do réu - acusado da suposta prática dos crimes de roubo circunstanciado- ou a aplicação de medidas cautelares alternativas à prisão, sob os argumentos de ausência de fundamentos e requisitos que justifiquem a segregação cautelar e de desconsideração das condições subjetivas favoráveis do agente.
+O MPF opinou pelo desprovimento do recurso (fls. 183-184).
+Decido.
+Verifica-se que, ao determinar a cautelar preventiva do acusado, o Juízo de origem assim consignou:
+ ..
+No caso em análise, estão presentes a prova da materialidade e indícios de serem os flagrados autores do delito narrado nos autos.
+Com efeito, o auto de exibição e apreensão (ID 93143757 - pág. 50/52) da res furtiva demonstra a materialidade dos delitos e os indícios de serem os flagrados seus autores extraem-se dos relatos das testemunhas, da vítima e ouvidos perante a autoridade policial, que foram uníssonas em atribuir aos flagranteados a conduta delituosa narrada nos autos.
+Consta também nos autos termos de interrogatórios dos flagrados Anderson Vinicius e André Halison que confessam que praticaram os assaltos com mais duas pessoas, sendo que tais indícios se afiguram suficientes para a decretação da prisão dos autuados. A necessidade da custódia provisória se impõe não apenas pela gravidade do delito cometido, mas pelo fato da grave ameaça a ordem pública promovida pelos flagranteados que levaram na fuga duas vítimas, Lidiane Aparecida e seu filho Enzo.
+Também está preenchido o requisito exigido no art. 313, I, do CPP, visto que o delito (roubo majorado) tem pena mínima superior a quatro anos.
+Outrossim, a necessidade da manutenção da prisão preventiva para a garantia da ordem pública exclui a possibilidade da substituição da segregação por outras medidas dela diversas, previstas no artigo 319 do Código de Processo Penal, ante a evidente incompatibilidade entre os institutos.
+Por fim, ressalto que as eventuais condições pessoais favoráveis do indiciado, tais como primariedade, emprego e residência fixos, não são suficientes para afastar a necessidade da custódia cautelar, quando satisfeitos os requisitos previstos em lei (fl. 105, grifei).
+A decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+Na espécie, o Juiz de primeira instância apontou, de forma idônea, a presença dos vetores contidos no art. 312 do Código de Processo Penal e indicou motivação suficiente e concreta para decretar a custódia provisória, sobretudo diante da gravidade em concreto da conduta, especialmente diante do modus operandi empregado na empreitada - roubo em concurso de agentes, com emprego de arma de fogo e com restrição à liberdade de duas vítimas, que foram levadas junto com os agentes no momento da fuga.
+A Corte estadual destacou que "os réus invadiram as residências das vítimas durante o repouso noturno e, mediante uso de arma de fogo, as renderam e subtraíram diversos pertences, ameaçando-as a todo o momento" (fl. 148).
+Na esteira do entendimento desta Corte, é justificada a constrição quando o "decreto da prisão preventiva evidencia a gravidade em concreto da conduta e a periculosidade do acusado que agiu com peculiar modus operandi" (HC n. 449.326/BA, Rel. Ministro Rogerio Schietti, 6ª T., DJe 5/4/2019).
+Saliento, ainda, que este Superior Tribunal entende que "a presença de condições pessoais favoráveis ao agente, como primariedade, domicílio certo e emprego lícito, não representa óbice, por si só, à decretação da prisão preventiva quando identificados os requisitos legais da cautela" (HC n. 498.771/SP, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 12/11/2019, destaquei).
+Nas hipóteses em que a dinâmica dos fatos e as demais circunstâncias do caso revelem a maior reprovabilidade da conduta investigada, tais dados são capazes de demonstrar a necessidade de garantia da ordem, por isso mesmo constituem fundamento idôneo para a custódia provisória.
+Pelos mesmos motivos, as medidas cautelares alternativas à prisão não se mostram adequadas e suficientes para evitar a prática de novas infrações penais.
+À vista do exposto, nego provimento ao recurso.
+Publique-se e intimem-se.
