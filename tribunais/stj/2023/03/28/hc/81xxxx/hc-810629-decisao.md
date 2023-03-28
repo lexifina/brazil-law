@@ -1,0 +1,9 @@
+DECISÃO
+O presente writ, impetrado em benefício de Adiuson Jose de Oliveira contra ato coator do Tribunal de Justiça de São Paulo (Agravo de Execução Penal n. 0004193-14.2022.8.26.0026), não comporta processamento.
+Com efeito, busca a impetração a retificação do cálculo de penas, a fim de que seja determinada a incidência do lapso de 2/5, para fins de progressão de regime prisional, ao argumento de que o paciente não ostenta condenação anterior por crime hediondo, sendo reincidente em crime comum, o que atrai a aplicação do percentual de 40%.
+Ocorre que, consta dos autos que o paciente cumpre pena privativa de liberdade por crimes de tráfico de drogas e, posteriormente, condenado por roubo majorado pelo emprego de arma de fogo (fl. 19 ), ambos hediondos, até porque este Superior Tribunal consolidou o entendimento de que, diferentemente da conjuntura relativa ao tráfico privilegiado, a própria Constituição Federal, em seu art. 5º, XLIII, rotulou como mais graves, tal qual os crimes hediondos (a serem definidos por lei ordinária), os delitos de tortura, o tráfico ilícito de entorpecentes e o terrorismo. Tal equiparação foi realizada pelo próprio constituinte originário, de modo que não se cogita a hipótese de que o Pacote Anticrime tenha afastado o caráter equiparado a hediondo do crime de tráfico de drogas (AgRg no HC n. 736.796/SC, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 16/5/2022).
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+EXECUÇÃO PENAL. HABEAS CORPUS . PRETENSÃO DE RETIFICAÇÃO DO CÁLCULO DE PENAS. ALEGAÇÃO DE QUE O APENADO NÃO É REINCIDENTE EM CRIME HEDIONDO, PARA FINS DE PROGRESSÃO DE REGIME PRISIONAL. CUMPRIMENTO DE PENA POR CRIMES DE TRÁFICO DE DROGAS E ROUBO MAJORADO PELO EMPREGO DE ARMA DE FOGO. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
