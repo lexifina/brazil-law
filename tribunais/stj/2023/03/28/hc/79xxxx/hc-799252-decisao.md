@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de Edivan Bruno Sepulvida e Jefferson Pereira da Silva, em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo, que conheceu em parte da impetração e, na extensão, denegou a ordem no julgament o do HC n. 2226864-91.2022.8.26.000.
+Consta dos autos que os pacie ntes foram presos em flagrante no dia 25/3/2022, convertida a p risão em preventiva, e denunciados por tentativa de receptação, envolvidos com quadrilha especializada em roubo de cargas e caminhões, na Ação Penal n. 1500867-67.2022.8.26.0544.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, que conheceu em parte da impetração e, na extensão, denegou a ordem, em acórdão assim ementado (fl. 68):
+HABEAS CORPUS - Receptação dolosa na modalidade tentada (Artigo 180, caput, cc. o art. 29, caput, cc. o art. 14, II, todos do Código Penal).
+Insurgência contra a manutenção da prisão preventiva dos pacientes, mediante decisão carente de fundamentação idônea, embora ausentes os requisitos ensejadores da custódia cautelar - NÃO CONHECIMENTO - impetração que não destoa dos argumentos apresentados em outro pedido de habeas corpus, já apreciado e denegado por esta Colenda Câmara, registrado sob nº 2104830-17.2022.8.2 6.0000.
+De outro lado, sustenta a ocorrência de excesso de prazo na formação da culpa, vez que os pacientes se encontram presos cautelarmente desde 25/03/2022, sem que tivesse ocorrido o encerramento da instrução processual NÃO VERIFICADO - Princípio da razoabilidade - Um exame superficial dos autos é suficiente para a percepção de que a demora na formação da culpa decorre de circunstâncias peculiares da causa, e não do descaso ou desídia do Juízo de Primeiro Grau.
+Ordem parcialmente conhecida e, nesta extensão, denegada.
+O impetrante sustenta ausência de provas de autoria delitiva e falta dos requisitos previstos no art. 312 do Código de Processo Penal - CPP, de modo que a custódia cautelar não estaria suficientemente fundamentada.
+Alega excesso de prazo para a formação da culpa e ressalta a suficiência das medidas cautelares alternativas.
+Pretende, liminarmente e no mérito, a liberdade provisória, com a expedição de alvará de soltura.
+A liminar foi indeferida pelo Vice-Presidente, no exercício da Presidência desta Corte, Ministro Og Fernandes (fls. 84/86), as informações foram prestadas (fls. 89/140) e o Ministério Público Federal opinou pelo não conhecimento do writ e, diante da ausência de ilegalidade, pela não concessã o da ordem de ofício (fls. 142/147).
+Atualmente, os autos do Pro cesso n. 1500867-67.2022.8.26.0544 estão em fase de apresentação de alegações finais.
+É o relatório.
+Inicialmente, cabe ressaltar que, na via do habeas corpus, não há como se discutir a negativa de autoria e a ausência de provas, pois demandaria o exame aprofundado do conjunto fático-probatório que compõe o processo principal. O envolvimento ou não do agente no delito que lhe é imputado é matéria cuja análise é reservada à ação penal (a qual está prestes a ser sentenciada), bastando, para justificar a prisão cautelar, haver indícios de autoria.
+No que diz respeito ao alegado excesso de prazo para a formação da culpa, de acordo com as informações constantes na página eletrônica do Tribunal de origem, a Ação Penal n. 1500867-67.2022.8.26.0544 encontra-se na fase de alegações finais, incidindo, na espécie, a Súmula 52/STJ.
+Quanto aos motivos para a decretação da prisão preventiva, é evidente a deficiência na instrução do pedido ora formulado, porquanto a inicial veio desacompanhada de cópia do decreto de prisão preventiva com a análise da presença dos requisitos da prisão preventiva. Isso prejudica a compreensão exata do caso, inviabilizando, assim, o exame do apontado constrangimento ilegal.
+É consabido que incumbe aos impetrantes apresentar prova pré-constituída do direito alegado, sob pena de não conhecimento da impetração, máxime quando se tratar de advogado constituído (HC n. 445.031/PB, Ministro Nefi Cordeiro, Sexta Turma, DJe 29/6/2018).
+Ainda que assim não fosse, estou de acordo com a manifestação min isterial no sentido de que remanescem os requisitos da pr isão preventiva, nos termos do art. 312 do CPP - Periculum Libertatis - Reincidentes específicos, que se encontravam em cumprimento de pena no regime aberto, além de ostentarem outras condenações pela prática de crimes contra o patrimônio Garantia da ordem pública (fl. 145).
+Pelo exposto, não conheço deste writ.
+Publique-se.
+EMENTA
+HABEAS CORPUS. RECEPTAÇÃO TENTADA. NEGATIVA DE AUTORIA. CONTEXTO FÁTICO-PROBATÓRIO. INVIABILIDADE. EXCESSO DE PRAZO PARA A FORMAÇÃO DA CULPA. INSTRUÇÃO ENCERRADA. SÚMULA 52/STJ. PREJUDICIALIDADE. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. INSTRUÇÃO DEFICIENTE. INVIABILIDADE DE VERIFICAÇÃO DA VEROSSIMILHANÇA DAS ALEGAÇÕES.
+Writ não conhecido.
