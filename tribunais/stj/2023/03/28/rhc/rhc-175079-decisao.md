@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por LEANDRO WALLACE DA SILVA, em face de v. acórdão proferido pelo eg. TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Depreende-se dos autos que o ora recorrente foi preso em flagrante e, posteriormente, teve sua prisão convertida em preventiva pela prática, em tese, do delito previsto no art. 33, caput, da Lei n. 11.343/2006 (fl. 40).
+Irresignada, a defesa impetrou habeas corpus perante o eg. Tribunal a quo, por meio do qual buscava a revogação do decreto prisional. O eg. Tribunal de origem denegou a ordem, em v. acórdão de fls. 182-187.
+Daí o presente recurso ordinário, no qual alega a defesa que o recorrente estaria sofrendo constrangimento ilegal em razão da ausência de fundamentação idônea da decisão que determinou sua segregação cautelar. Pondera, neste sentido, que a prisão cautelar foi decretada pela gravidade em abstrato da conduta supostamente praticada.
+Argumenta ilegalidade da prisão em razão da não realização da audiência de custódia em tempo determinado pela lei.
+Salienta que o recorrente ostenta condições pessoais favoráveis, ponderando a possibilidade da aplicação de medidas cautelares diversas da prisão.
+Requer, ao final, a revogação da prisão preventiva ou, subsidiariamente, a substituição da prisão preventiva por medida cautelar diversa, prevista no art. 319 do Código de Processo Penal.
+A liminar foi indeferida às fls. 228-229
+As informações foram prestadas às fls. 232-289 e 303-353.
+O Ministério Público Federal, às fls. 293-296, manifestou-se pelo "provimento do recurso ordinário, para revogar a prisão preventiva, substituindo-a por outras medidas cautelares previstas no artigo 319 do CP, a serem definidas pelo juízo singular." (fl. 293).
+É o relatório.
+Decido.
+Pretende o recorrente, em síntese, por meio do presente recurso ordinário a revogação da prisão preventiva.
+Inicialmente, cumpre esclarecer que o Regimento Interno deste Superior Tribunal de Justiça, em seu art. 34, XVIII, "b", dispõe que o relator pode decidir monocraticamente para "negar provimento ao recurso ou pedido que for contrário a tese fixada em julgamento de recurso repetitivo ou de repercussão geral, a entendimento firmado em incidente de assunção de competência, a súmula do Supremo Tribunal Federal ou do Superior Tribunal de Justiça ou, ainda, a jurisprudência dominante sobre o tema".
+Não por outro motivo, a Corte Especial deste Superior Tribunal de Justiça, em 16/3/2016, editou a Súmula n. 568, segundo a qual "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Assim, passo ao exame das razões ventiladas no presente recurso ordinário.
+O pedido está prejudicado.
+Conforme informações do Juízo de origem (fls. 303-353), foi proferida sentença condenatória, em 01/03/2023, processo n. 0008412-14.2022.8.13.0194, e o paciente foi condenado à pena de "05 anos de reclusão, em regime inicial fechado" pela suposta prática "do art. 33, caput, da Lei n.º 11.343/2006,". Na ocasião, o MM. Magistrado acrescentou novos fundamentos para manter a prisão preventiva em seu desfavor: "Considerando a inalteração da situação fática desde a decretação da prisão preventiva, o quantum da pena fixada, bem como as informações de que o réu integra grupo criminoso, a fim de resguardar a ordem pública e garantir a aplicação da lei penal, nego ao réu o direito de recorrer em liberdade." (fl. 338-grifei).
+Portanto, conforme o entendimento sedimentado por esta Corte, o presente feito encontra-se prejudicado, uma vez que se insurge contra decreto prisional que não mais subsiste devido à superveniência de novo título prisional com novos fundamentos.
+A propósito: "Pleito de revogação da prisão preventiva ante a alegada ausência de fundamentação do decreto prisional prejudicado pela superveniência da sentença de pronúncia, que constitui novo título, com novos fundamentos para a prisão preventiva, os quais não foram impugnados na presente impetração, tampouco analisados pelo eg. Tribunal de origem" (HC 495.012/SP, Quinta Turma, Rel. Ministro Felix Fischer, DJe 25/06/2019). Nesse sentido, também: "A superveniência de sentença penal condenatória, na qual se nega ao Acusado o direito de recorrer em liberdade, com novos fundamentos para justificar a prisão preventiva conduz à prejudicialidade da ação constitucional de habeas corpus ou do recurso em habeas corpus dirigidos contra decisão antecedente de constrição cautelar. " (AgRg no HC n. 461.932/SP, Sexta turma, Relª. Minª. Laurita Vaz, DJe de 19/08/2019, grifei).
+Ante o exposto, julgo o presente recurso em habeas corpus prejudicado.
+P.I.
