@@ -1,0 +1,68 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto por USINAS SIDERÚRGICAS DE MINAS GERAIS S. A. - USIMINAS, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça assim ementado (fl. 300):
+TRIBUTÁRIO E PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. INCIDÊNCIA DE CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE OS VALORES PAGOS A TÍTULO DE PRÊMIO DECENAL. AGRAVO INTERNO NO RECURSO ESPECIAL DA EMPRESA A QUE SE NEGA PROVIMENTO.
+1. É entendimento desta Corte Superior que os valores pagos a título de prêmio decenal possuem natureza remuneratória e, portanto, integram a base de cálculo para fins de Contribuição Previdenciária. Precedentes: AgRg no REsp 1.449.335/SP, Rel. Min. HUMBERTO MARTINS, DJe 2.6.2014; AgInt no AREsp 941.736/DF, Rel. Min. HERMAN BENJAMIN, DJe 17.11.2016.
+2. Agravo Interno da Empresa a que se nega provimento.
+Os embargos de declaração opostos foram rejeitados (fls. 342-346).
+Foram interpostos, ainda, embargos de divergência, os quais foram indeferidos liminarmente (fls. 463-466), decisão esta que foi mantida em agravo interno, nos termos da seguinte ementa (fl. 501):
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO EM EMBARGOS DE DIVERGÊNCIA. PRÊMIO DECENAL. NATUREZA REMUNERATÓRIA. AUSÊNCIA DE SIMILITUDE FÁTICA. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. RECURSO NÃO PROVIDO.
+1. Para a configuração do dissídio jurisprudencial é imprescindível a demonstração tanto da similitude fática quanto da identidade jurídica entre o acórdão embargado e os paradigmas apontados, conforme a pacífica orientação deste eg. Superior Tribunal de Justiça, a partir da interpretação do § 4º do art. 1.043 do CPC e do § 4º do art. 266 do Regimento Interno desta Corte.
+2. Na espécie, do cotejo entre a fundamentação dos arestos indicados como paradigma e do acórdão embargado, constata-se que não há identidade de teses jurídicas. Isso porque o acórdão embargado cuida de analisar a natureza do prêmio decenal, enquanto nenhum dos acórdão indicados como paradigma trata do prêmio decenal. Tal divergência configura óbice ao conhecimento dos Embargos de Divergência. (AgInt nos EAREsp 1.441.916/SC, Rel. Min. Og Fernandes, Corte Especial, DJe 26.8.2020.)
+3. Ademais, observa-se que o acórdão recorrido adotou entendimento pacificado neste Tribunal de que os valores pagos a título de prêmio decenal possuem natureza remuneratória e, portanto, integram a base de cálculo para fins de Contribuição Previdenciária.
+4. Em situações análogas, o STJ reconhece que esses tipos de benefícios, que visam premiar a capacidade, o rendimento, o empreendimento e/ou o comprometimento do empregado, configuram verba remuneratória sobre a qual é inafastável a incidência tributária. (AgRg nos EDcl no REsp 1.098.218/SP, Rel. Min. Herman Benjamin, Seg unda Turma, DJe 9.11.2009, AgRg no REsp 1.449.335/SP, Rel. Min. Humberto Martins, Segunda Turma, DJe 2.6.2014; e AgInt no AREsp. 941.736/DF, Rel. Min. Herman Benjamin, Segunda Turma, DJe 17.11.2016.)
+5. Agravo Interno não provido.
+Os embargos de declaração opostos contra o aludido acórdão foram rejeitados (fls. 540-548).
+A parte recorrente alega que teria havido violação dos arts. 5º, XXXV, LIV e LV, 93, IX, 195, I, e 201, § 11, da CF e afirma a repercussão geral da matéria tratada.
+Sustenta que os valores dos pagamentos efetuados a título de prêmio decenal não poderiam sofrer incidência de contribuição previdenciária, por constituírem verba esporádica e eventual, sem natureza salarial ou remuneratória, não integrando, assim, a base de cálculo do salário de contribuição.
+Defende, ainda, que teria havido negativa de prestação jurisdicional e afronta ao devido processo legal, ao contraditório e à ampla defesa, em razão da rejeição dos embargos de declaração sem que tenham sido efetivamente abordadas as omissões apontadas.
+Ao final, requer a admissão do recurso e a remessa ao Supremo Tribunal Federal.
+As contrarrazões foram apresentadas às fls. 600-605.
+É o relatório.
+Quanto à questão da correta fundamentação das decisões judiciais, o Supremo Tribunal Federal firmou tese vinculante segundo a qual:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão (QO no Ag n. 791.292/PE).
+Em suma, apenas a ausência de fundamentação possibilitaria a apreciação do caso pela Suprema Corte, o que não ocorre quando há fundamentos, ainda que a parte não os considere corretos, completos ou os entenda demasiadamente sucintos.
+No caso, foram declinados o s motivos pelos quais se negou provimento ao agravo interno nos embargos de divergência, valendo destacar os seguintes trechos (fls. 506-507):
+Para a configuração do dissídio jurisprudencial é imprescindível a demonstração tanto da similitude fática quanto da identidade jurídica entre o acórdão embargado e os paradigmas apontados, conforme a pacífica orientação deste eg. Superior Tribunal de Justiça, a partir da interpretação do § 4º do art. 1.043 do CPC e do § 4º do art. 266 do Regimento Interno desta Corte.
+Na espécie, do cotejo entre a fundamentação dos arestos indicados como paradigma e do acórdão embargado, constata-se que não há identidade de teses jurídicas. Isso porque o acórdão embargado cuida de analisar a natureza do prêmio decenal, enquanto nenhum dos acórdão indicados como paradigma trata do prêmio decenal. Tal divergência configura óbice ao conhecimento dos Embargos de Divergência. Nesse sentido:
+ ..
+Ademais, observa-se que o acórdão recorrido adotou entendimento pacificado nesta Corte de que os valores pagos a título de prêmio decenal possuem natureza remuneratória e, portanto, integram a base de cálculo para fins de Contribuição Previdenciária.
+Dos contornos traçados na lide em torno do prêmio decenal, insuscetível classificar como indenizatória a referida verba. Ao contrário, sua natureza estrutural remete ao inafastável caráter remuneratório decorrente do desempenho atribuído ao empregado, ainda que em lapso temporal alargado (dez anos).
+Em situações análogas, o STJ reconhece que esses tipos de benefícios, que visam premiar a capacidade, o rendimento, o empreendimento e/ou o comprometimento do empregado, configuram verba remuneratória sobre a qual é inafastável a incidência tributária.
+(AgRg nos EDcl no REsp n. 1.098.218/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 27/10/2009, DJe de 9/11/2009.)
+Da mesma maneira, foram apresentados fundamentos para a rejeição dos embargos de declaração opostos na sequência, nos seguintes termos (fls. 546-547):
+A matéria alegada pelo embargante como omissa - ausência ou não de similitude fática - foi expressamente decidida no acórdão recorrido, de modo que se verifica tratar de indevida rediscussão da matéria.
+ ..
+Como se constata, não houve omissão, uma vez que o decisum julgou integralmente a lide e solucionou a controvérsia, manifestando-se em relação às matérias apontadas pela embargante como omissas.
+O STJ entende que o simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida.
+Com efeito, demonstrado que a prestação jurisdicional ocorreu, ainda que não se concorde com a solução dada à causa, afigura-se inviável o prosseguimento do recurso extraordinário, pois o provimento recorrido encontra-se em sintonia com a tese fixada no Tema n. 339/STF, de observância obrigatória (CPC, art. 927, III), entendimento reiterado pelo próprio STF, por exemplo, no ARE n. 1.349.717-ED-AgR, relator Ministro Luiz Fux, Plenário, DJe de 10/2/2022.
+Ademais, o STF pacificou o entendimento de que a suscitada afronta aos princípios do contraditório, da ampla defesa e do devido processo legal, bem como ao ato jurídico perfeito, ao direito adquirido e aos limites da coisa julgada, quando dependente da prévia análise de normas infraconstitucionais, configura ofensa reflexa ao texto constitucional.
+Nesse sentido é o Tema n. 660/STF, cujo acórdão paradigma recebeu a seguinte ementa:
+Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.
+(ARE n. 748.371-RG, relator Ministro Gilmar Mendes, julgado em 6/6/2013, DJe de 1º/8/2013.)
+No caso, a aferição da alegada ofensa aos princípios do devido processo legal, do contraditório e da ampla defesa, depende da análise do art. 1.022 do Código de Processo Civil , motivo pelo qual incide o Tema n. 660/STF.
+Do mesmo modo,  a Suprema Corte possui jurisprudência consolidada no sentido de que "a questão da ofensa ao princípio da inafastabilidade de jurisdição, quando há óbice processual intransponível ao exame de mérito, ofensa indireta à Constituição ou análise de matéria fática, tem natureza infraconstitucional, e a ela se atribuem os efeitos da ausência de repercussão geral" (Tema n. 895/STF).
+Essa tese foi estabelecida no julgamento do RE n. 956.302-RG/GO, nos termos da seguinte ementa:
+PRINCÍPIO DA INAFASTABILIDADE DA JURISDIÇÃO. ÓBICES PROCESSUAIS INTRANSPONÍVEIS. EXTINÇÃO DO PROCESSO SEM JULGAMENTO DE MÉRITO. QUESTÃO INFRACONSTITUCIONAL. MATÉRIA FÁTICA. AUSÊNCIA DE REPERCUSSÃO GERAL.
+Não há repercussão geral quando a controvérsia refere-se à alegação de ofensa ao princípio da inafastabilidade de jurisdição, nas hipóteses em que se verificaram óbices intransponíveis à entrega da prestação jurisdicional de mérito.
+(RE n. 956.302/GO-RG, relator Ministro Edson Fachin, julgado em 19/5/2016, DJe de 16/6/2016.)
+No caso, a afronta ao art. 5º, XXXV, da Constituição Federal é reflexa, pois demanda exame do art. 1.022 do Código de Processo Civil, razão pela qual se aplica à espécie o Tema n. 895/STF.
+Por fim,  verifica-se que a controvérsia cinge-se à questão da incidência de contribuição previdenciária sobre verbas pagas a título de prêmio decenal, estando o acórdão recorrido assim fundamentado (fl. 507):
+ ..  o acórdão recorrido adotou entendimento pacificado nesta Corte de que os valores pagos a título de prêmio decenal possuem natureza remuneratória e, portanto, integram a base de cálculo para fins de Contribuição Previdenciária.
+Dos contornos traçados na lide em torno do prêmio decenal, insuscetível classificar como indenizatória a referida verba. Ao contrário, sua natureza estrutural remete ao inafastável caráter remuneratório decorrente do desempenho atribuído ao empregado, ainda que em lapso temporal alargado (dez anos).
+Em situações análogas, o STJ reconhece que esses tipos de benefícios, que visam premiar a capacidade, o rendimento, o empreendimento e/ou o comprometimento do empregado, configuram verba remuneratória sobre a qual é inafastável a incidência tributária.
+(AgRg nos EDcl no REsp n. 1.098.218/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 27/10/2009, DJe de 9/11/2009.)
+Desse modo, a análise da matéria ventilada depende do exame dos arts. 22 e 28 da Lei n. 8.212/1991, motivo pelo qual eventual ofensa à Constituição da República, se houvesse, seria reflexa ou indireta, não legitimando a interposição do recurso.
+Em caso semelhante, assim já decidiu a Suprema Corte, a propósito:
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO TRIBUTÁRIO. INCIDÊNCIA DE TRIBUTOS BASEADA NA NATUREZA JURÍDICA DA VERBA. CONTRIBUIÇÃO PREVIDENCIÁRIA PATRONAL, RAT E CONTRIBUIÇÕES DEVIDAS A TERCEIROS. CARÁTER INFRACONSTITUCIONAL. PRECEDENTES. DESPROVIMENTO DO AGRAVO.
+1. A jurisprudência do Supremo se consolidou no sentido de ser infraconstitucional a discussão acerca da incidência de tributos, notadamente contribuição previdenciária ou imposto de renda, baseada na natureza da verba.
+2. Agravo regimental a que se nega provimento.
+(ARE n. 1.373.414-AgR-segundo, relator Ministro Edson Fachin, Segunda Turma, julgado em 3/10/2022, DJe de 9/11/2022.)
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO TRIBUTÁRIO. CONTROVÉRSIA SOBRE A INCIDÊNCIA DE CONTRIBUIÇÃO PREVIDENCIÁRIA BASEADA NA NATUREZA JURÍDICA DA VERBA. OFENSA INDIRETA OU REFLEXA. AUSÊNCIA DE REPERCUSSÃO GERAL.
+1. A jurisprudência do Supremo se consolidou no sentido de ser infraconstitucional a discussão acerca da incidência de tributos, notadamente contribuição previdenciária ou imposto de renda, baseada na natureza da verba. Precedentes.
+ ..
+3. Agravo regimental a que se nega provimento, com previsão de aplicação de multa, nos termos do art. 1.021, § 4º, do CPC.
+(ARE n. 1.265.199-AgR, relator Ministro Edson Fachin, Segunda Turma, julgado em 23/11/2020, DJe de 15/1/2021.)
+Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário, em relação à suscitada afronta aos arts. 5º, XXXV, LIV e LV, e 93, IX, da Constituição Federal; e, quanto às demais alegações, com fundamento no art. 1.030, V, do Código de Processo Civil, não admito o recurso.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO SUFICIENTE DO JULGADO RECORRIDO. TEMA N. 339/STF. OFENSA AOS PRINCÍPIOS DO CONTRADITÓRIO, DA AMPLA DEFESA E DO DEVIDO PROCESSO LEGAL. TEMA N. 660/STF. AFRONTA AO PRINCÍPIO DA INAFASTABILIDADE DE JURISDIÇÃO. TEMA N. 895/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. NEGATIVA DE SEGUIMENTO. PRÉMIO DECENAL. CONTRIBUIÇÃO PREVIDÊNCIÁRIA. INCIDÊNCIA. OFENSA REFLEXA À CONSTITUIÇÃO FEDERAL. MATÉRIA INFRACONSTITUCIONAL. RECURSO NÃO ADMITIDO.
