@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso extraordinário (fls. 1.077-1.091) interposto por JULIO CESAR FLORENTINO, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça que recebeu a seguinte ementa (fl. 1.068):
+PROCESSO PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. DELITOS DE ESTELIONATO E APROPRIAÇÃO INDÉBITA E CONTRAVENÇÃO PENAL DE EXERCÍCIO ILEGAL DE PROFISSÃO. ALEGAÇÃO DE VIOLAÇÃO DE DISPOSITIVOS NÃO PREQUESTIONADOS. ABSOLVIÇÃO. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A questão acerca da violação dos artigos 141, 435 e 489, §1º, inciso IV, do CPC e do artigo 71 do CP não foi objeto de debate pela instância ordinária, mesmo com a apresentação de embargos de declaração, o que inviabiliza o conhecimento do recurso especial por ausência de prequestionamento. Incidem ao caso as Súmulas n. 211/STJ e 282/STF.
+2. O Tribunal a quo, em decisão devidamente motivada, entendeu que, do caderno instrutório, emergem elementos suficientemente idôneos de prova, colhidos na fase inquisitorial e judicial, a enaltecer a tese de autoria delitiva imputada pelo Parquet ao acusado, a corroborar, assim, a conclusão aposta na motivação do decreto condenatório pelos delitos de estelionato e apropriação indébita e pela contravenção penal de exercício ilegal de profissão. Assim, rever os fundamentos utilizados pela Corte Estadual, para decidir pela absolvição pelo crime de estelionato, uma vez que não ficaram comprovadas as práticas dos verbos do tipo penal, ou pelo reconhecimento do princípio da consunção, como requer a defesa, importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula n. 7/STJ.
+3. Agravo regimental não provido.
+A parte recorrente sustenta, no recurso extraordinário, que teria havido violação do art. 5º, XXXV, XL, XLVI, e XXXIX, da CF e que a matéria tratada seria dotada de repercussão geral.
+Nesse sentido, argumenta (fl. 1.086):
+Diferentemente do que consta da decisão agravada a análise do recurso especial não pode ser obstaculizado pela incidência dos enunciados sumulares 211/STJ e 282/STF, bem como Sumula 7/STJ, eis que os dispositivos apontados como violados foram objeto da discussão pelo Tribunal, bem como que os pontos controvertidos apontados não exigem reanálise de provas, mas tão somente sua revaloração.
+Requer, ao final, a admissão do recurso, bem como a remessa ao Supremo Tribunal Federal.
+Contrarrazões apresentadas às fls. 1.100-1.115.
+É o relatório.
+Como relatado, o pronunciamento questionado concluiu pelo não preenchimento dos pressupostos de admissibilidade do recurso anteriormente dirigido ao Superior Tribunal de Justiça.
+Tal fato ocorreu porque, no julgado recorrido, foi negado provimento ao agravo regimental, mantendo a decisão que, nos pontos questionados, não conheceu do recurso especial ante os óbices das Súmulas n. 7 e 211 do STJ e 282 do STF.
+Como se vê, o mérito do recurso especial, nas matérias alegadas no presente recurso, não chegou a ser apreciado, diante de insuperável óbice processual, impeditivo do próprio conhecimento do recurso.
+Segundo o STF, a necessidade de superação do que fora decidido no pronunciamento impugnado acerca dos pressupostos de conhecimento do recurso da competência de outro tribunal, como ocorreu neste caso, inviabiliza o exame do recurso extraordinário pela própria Corte Suprema, qualquer que seja a suscitada violação da Constituição Federal, consoante a tese fixada no Tema n. 181 da repercussão geral:
+A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral (RE n. 598.365-RG/MG).
+Nesse sentido, eventual ofensa à Carta Magna, se existente, seria apenas indireta ou reflexa, entendendo o Excelso Pretório que "carece de repercussão geral a discussão acerca dos pressupostos de admissibilidade de recursos da competência de cortes diversas" (ARE n. 1.227.415-AgR, relator Ministro Edson Fachin, Segunda Turma, DJe de 21/5/2021), mesmo quando suscitada a ofensa ao art. 105, III, da Constituição da República (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+Esse é também o consolidado entendimento do STJ, que reiteradamente nega provimento aos agravos que impugnam decisões de aplicação do Tema n. 181/STF, como exemplifica o precedente a seguir:
+Tratando-se de recurso extraordinário contra acórdão que não ultrapassou o juízo de admissibilidade, fica inviabilizado o exame das questões constitucionais suscitadas em face da inexistência de repercussão geral.
+(AgInt no RE nos EDcl no AgInt no AREsp n. 1.342.377/SP, relatora Ministra Maria Thereza de Assis Moura, DJe de 13/9/2019.)
+Assim, não sendo a discussão proposta revestida de repercussão geral, segundo o próprio STF, entendimento de observância obrigatória (CPC, art. 927, III, parte final), nada colhe o recurso extraordinário.
+Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se. Intime m-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. RECURSO ESPECIAL NÃO CONHECIDO. TEMA N. 181/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. NEGATIVA DE SEGUIMENTO.
+1. "A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral" (Tema n. 181/STF).
+2. Não preenchidos os pressupostos de admissibilidade do recurso especial, aplica-se a tese do Tema n. 181/STF, ainda que se queira, no recurso extraordinário, discutir o mérito da causa ou os fundamentos que impediram o conhecimento do recurso (CPC, art. 927, III).
+3. Recurso extraordinário a que se nega seguimento, nos termos do art. 1.030, I, a, do CPC.
