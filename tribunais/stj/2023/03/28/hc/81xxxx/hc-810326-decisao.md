@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de Edson da Silva Souza, condenado a 4 meses de detenção, em regime inicial aberto - com concessão do benefício de suspensão da pena por 2 anos, sob condição de prestação de serviços à comunidade, proibição de frequentar bares, boates e afins, ou se ausentar da comarca por período superior a 8 dias sem autorização do juízo, além de comparecer a juízo bimestralmente para justificar as suas atividades -, pela prática dos crimes de ameaça e descumprimento de medidas protetivas de urgência (fls. 40/42 - Autos n. 0002778-33.2018.8.19.0025, do Juizado Especial Adjunto Criminal da comarca de Itaocara/RJ).
+Ataca-se acórdão proferido pelo Tribunal de Justiça do Rio de Janeiro no Agravo em Execução Penal n. 5009730-31.2022.8.19.0500 (fls. 29/37), que manteve revogação da suspensão da pena nos Autos n. 5000973-48.2022.8.19.0500, da Vara de Execução Penal em Meio Fechado e Semiaberto da comarca do Rio de Janeiro/RJ.
+Alega-se constrangimento ilegal consistente na revogação da suspensão condicional da pena, ao argumento de que não foram esgotadas as possibilidades de localização do ora Paciente para que, regulamente intimado, pudesse iniciar o cumprimento das condições impostas no sursis (fl. 7).
+Requer-se, então, a concessão da ordem, inclusive em caráter liminar, para declarar a nulidade da decisão que revogou o sursis, e determinando-se que o Juízo da Vara de Execuções Penais adote as providências necessárias à intimação do paciente, para que seja iniciado o cumprimento das condições impostas para a fruição do benefício (fl. 11).
+É o relatório.
+Da análise dos autos tem-se que a suspensão da execução da pena do paciente foi revogada e determinada expedição de mandado de prisão em desfavor do apenado, a ser cumprido no regime aberto (fl. 23), porque o paciente não foi localizado no endereço constante nos autos nem compareceu ao Juízo, após a sua devida intimação da sentença, por edital, a fim de atualizar o endereço e dar início ao cumprimento da suspensão da pena (fl. 34).
+Assim, sem razão a impetração, uma vez que para alcançar conclusão no sentido de que não foram esgotados os meios de localização do imputado demandaria reexame de provas, inviável na via estreita do writ (AgRg no HC n. 389.528/PR, de minha relatoria, Sexta Turma, julgado em 30/3/2017, DJe 7/4/2017).
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+EXECUÇÃO PENAL. HABEAS CORPUS. SUSPENSÃO CONDICIONAL DA PENA. REVOGAÇÃO. ALEGAÇÃO DE QUE NÃO FORAM ESGOTADAS AS POSSIBILIDADES DE LOCALIZAÇÃO DO PACIENTE. NECESSIDADE DE REVOLVIMENTO PROBATÓRIO. INVIABILIDADE. CONSTRANGIMENTO ILEG AL. AUSÊNCIA.
+Inicial indeferida liminarmente.
