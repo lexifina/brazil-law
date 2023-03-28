@@ -1,0 +1,81 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 22/03/2023 a 28/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti, Marco Buzzi, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Impedido o Sr. Ministro Antonio Carlos Ferreira.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto pela FUNDAÇÃO DOS ECONOMIÁRIOS FEDERAIS -FUNCEF em face de decisão monocrática (e-STJ, fls. 2321/2329) que, conhecendo do conflito, declarou a competência do JUÍZO DA 17A VARA DO TRABALHO DE PORTO ALEGRE - RS para o julgamento das pretensões trabalhistas deduzidas contra a Caixa Econômica Federal, uma vez que seu exame é prejudicial à análise daquelas voltadas contra a entidade de previdência.
+A decisão agravada recebeu a seguinte ementa:
+PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. JUSTIÇA DO TRABALHO X JUSTIÇA FEDERAL. PREVIDÊNCIA COMPLEMENTAR. DEMANDA EM QUE SE DISCUTE A INTEGRAÇÃO DO CTVA NO CÁLCULO DO BENEFÍCIO E O RECÁLCULO DO SALDAMENTO. NATUREZA SALARIAL DO COMPLEMENTO. CUMULAÇÃO INDEVIDA DE COMPETÊNCIAS. INCIDÊNCIA DA SÚMULA 170 DO STJ. PRECEDENTES ESPECÍFICOS. COMPETÊNCIA DA JUSTIÇA DO TRABALHO PARA O JULGAMENTO DOS PEDIDOS EM RELAÇÃO À CEF, EX-EMPREGADORA. PREJUDICIALIDADE. ENTENDIMENTO EM CONSONÂNCIA COM O TEMA 1.166/STF. DISTINÇÃO COM O RE 586.453/SE. CONFLITO CONHECIDO PARA DECLARAR A COMPETÊNCIA DO JUÍZO DA 17A VARA DO TRABALHO DE PORTO ALEGRE - RS, O SUSCITADO.
+Em suas razões, a parte agravante alega que (e-STJ, fls. 2335/2338):
+(a) A causa petendi e pedido (único) da demanda estão fundamentadas unicamente em matéria previdenciária. Da jurisprudência consolidada na Segunda Seção em casos que há pedidos exclusivamente previdenciários (REsp 1679480/RS).
+ ..
+Por meio da reclamação trabalhista, o Autor requereu apenas a condenação solidária das Requeridas ao recálculo do valor saldado e a integralizar a reserva matemática correspondente, considerando o CTVA (Complemento Temporário de Variação de Mercado) pago, bem como a complementar as contribuições mensais realizadas posteriormente a agosto de 2006, sob pena de conversão da obrigação e de incidência de multa, sem prejuízo da obrigação e indenizar os prejuízos causados.
+Ou seja, não houve pedido prévio para que a CTVA fosse reconhecida como verba de natureza salarial, mas apenas que ela fosse incluída no benefício, o que é distinto, veja-se (e-STJ fls. 29):
+ ..
+Reitera-se, o Autor não fez nenhum pedido afeto à matéria trabalhista. Não houve, sequer, pedido de reconhecimento de natureza salarial da parcela pleiteada. O que existe nos autos é tão somente o pedido de reflexos da parcela CTVA em seu plano de previdência privada, isto é: recálculo do valor do benefício (saldado) e integralização da reserva matemática (que corresponde ao custo que o plano terá com a majoração do benefício), bem como o recolhimento de contribuições devido a este recálculo.
+Fortes nessas razões, não pode o Juiz Trabalhista julgar a ação ajuizada pelo Autor, uma vez que o magistrado está adstrito ao pedido inicial e, no caso, o Autor não requereu a inclusão reflexa do CTVA em sua remuneração, não questionando em nenhum momento o contrato de trabalho e, sim, somente o contrato previdenciário.
+ ..
+Com efeito, é fato que, nesta ação, nunca esteve em discussão o contrato de trabalho que existiu entre o Autor e a CEF, mas sim as premissas contratuais e regulamentares do plano de previdência complementar aderido pelo Autor, devendo ser competente para julgar o feito a Justiça Federal à luz do que decidiu o e. STF na ocasião do julgamento do RE 586.453/SE.
+Com isso, a Justiça do Trabalho não possui competência para julgar o pedido afeto à complementação de aposentadoria como já pacificado pelo STF no Tema 190.
+No mais, defende que (e-STJ, fls. 2342/2343):
+Ainda, ao contrário do exposto na r. decisão agravada, de que a hipótese nos autos é diversa do decidido pelo c. STF no RE n. 586.453/SE e que é de competência da justiça do trabalho processar e julgar ação proposta pelo trabalhador aposentado, o STF decidiu que toda e qualquer demanda ajuizada contra entidade de previdência complementar, com pedido previdenciário, deve ser julgada pela Justiça Comum, seja o pedido de deferimento da complementação, seja de revisão das cláusulas do regulamento, ou de devolução de reserva de poupança, etc.
+ ..
+Assim, diante da total autonomia do contrato previdenciário com relação ao contrato de trabalho, a título de argumentação, caso a patrocinadora (no caso a CEF)fosse condenada a pagar algum valor à demandante, eventuais reflexos na sua complementação de aposentadoria só podem ser discutidos na Justiça Comum.
+ ..
+Desse modo, diante do real objeto da ação e da jurisprudência consolidada na Segunda Seção desse Superior Tribunal de Justiça (REsp 1679480/RS)e do Supremo Tribunal Federal (RE n. 1.242.250/SP)a respeito da matéria, pugna-se pelo provimento do presente agravo interno com a consequente manutenção da competência da Justiça Comum Federal, diante da presença da CEF no polo passivo da lide, nos termos do art. 109, I, da CF/88.
+Por fim, sustenta que (e-STJ, fls. 2343/2347):
+(b) Da inaplicabilidade do decidido no RE nº 1.265.564/SC(Tema n. 1166/STF).
+ ..
+A tese firmada no tema n. 1166/STF dispõe que "Compete à Justiça do Trabalho processar e julgar causas ajuizadas contra o empregador nas quais se pretenda o reconhecimento de verbas de natureza trabalhista e os reflexos nas respectivas contribuições para entidade de previdência privada a ele vinculada".
+ ..
+Assim, foi referendado, sem debate, o entendimento adotado pelo Min. Luiz Fux de que compete à Justiça do Trabalho processar e julgar causas ajuizadas contra o empregado nas quais o objeto principal seja o reconhecimento de verbas de natureza trabalhista, com consequente reflexo nas respectivas contribuições para a entidade de previdência privada.
+Se, por outro lado, o objeto principal FOR A COMPLEMENTAÇÃO DE APOSENTADORIA, como ocorre no presente caso, permanece a competência da justiça comum.
+ ..
+Nota-se que, não se pretende, no caso concreto, o reconhecimento de nenhuma verba de natureza trabalhista, o que ensejaria a competência da justiça do trabalho para processar e julgar o feito, conforme tese firmada no tema 1166/STF.
+ ..
+Resta claro, então, que o presente caso não se trata de simples pedido de reconhecimento da natureza salarial da verba CTVA, como entendeu a r. decisão agravante, mas, na realidade, pela leitura dos próprios pedidos da inicial, o Autor requereu apenas pedidos previdenciários como o recálculo do valor inicial dos benefícios saldados, observando o valor do CTVA, não devendo ser aplicado o decidido no tema 1166/STF.
+Assim, requer seja desprovido o presente agravo interno diante da inaplicabilidade do decidido no RE nº 1.265.564/SC (Tema n. 1166/STF)ao caso concreto.
+Impugnação às fls. 2353/2359 e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. PROCESSUAL CIVIL. JUSTIÇA DO TRABALHO E JUSTIÇA FEDERAL. PREVIDÊNCIA COMPLEMENTAR. DEMANDA EM QUE SE DISCUTE A INTEGRAÇÃO DO CTVA NO CÁLCULO DO BENEFÍCIO E O RECÁLCULO DO SALDAMENTO. ANÁLISE DA NATUREZA SALARIAL DO COMPLEMENTO. CUMULAÇÃO INDEVIDA DE COMPETÊNCIAS. INCIDÊNCIA DA SÚMULA 170 DO STJ. PRECEDENTES ESPECÍFICOS. COMPETÊNCIA DA JUSTIÇA DO TRABALHO PARA O JULGAMENTO DOS PEDIDOS EM RELAÇÃO À CEF, EX-EMPREGADORA. PREJUDICIALIDADE. ENTENDIMENTO EM CONSONÂNCIA COM O TEMA 1.166/STF. DISTINÇÃO COM O RE 586.453/SE. MANUTENÇÃO DA DECISÃO AGRAVADA.
+AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+VOTO
+Eminentes Colegas, as razões trazidas no agravo interno não alteram a convicção deste relator.
+É certo que as demandas envolvendo matéria desse tipo exigem análise e interpretação acurada dos autos, haja vista a existência de linha tênue na elucidação dos aspectos que orientam o julgamento dos incidentes alçados a essa Corte Superior. Tais circunstâncias desencadeiam a prolação de decisões deste STJ declarando a competência tanto da Justiça Federal, quanto da Justiça do Trabalho, a depender do caso concreto.
+Na espécie, a decisão agravada conheceu do conflito de competência para declarar a competência do JUÍZO DA 17A VARA DO TRABALHO DE PORTO ALEGRE - RS com base nos seguintes fundamentos (e-STJ, fls. 2323/2329):
+A petição inicial da ação movida pelo ora interessado ANDERSON LUIZ BOCHI contém os seguintes argumentos, no que interessa (e-STJ, fls. 22/30):
+ ..
+O CTVA só é pago aos empregados que exercem funções ditas de confiança, compondo a gratificação de função, como admitido pela Caixa Econômica em outra oportunidade (vide ata de audiência da reclamatória nº 01078-2006-008-04-00-4, anexa). Observe-se, inclusive, que o CTVA sofre a incidência de todos os encargos fiscais e sociais, evidenciando sua natureza salarial. O CTVA é, portanto, parte da gratificação de função que recebem os empregados no exercício de cargos comissionados, tendo nítido e reconhecido caráter salarial, inclusive integrando a remuneração-base dos empregados (RJ 115).
+ ..
+Ocorre que o valor "Saldado" (e a "Reserva Matemática" correspondente) foi calculado sem a consideração do CTVA pago ao empregado e das diferenças salariais objeto das ações nºs 0122200-22.2009.5.04.0013 e 0000056-72.2011.5.04.0014. As contribuições mensais posteriores a agosto de 2006 também estão sendo realizadas sem a consideração das diferenças salariais postuladas nas referidas ações.
+Desse modo, impõe-se que as reclamadas sejam condenadas a recalcular o valor "Saldado" e, por consequência, a integralizar corretamente a "Reserva Matemática" correspondente, considerando o CTVA pago e as diferenças salariais postuladas e deferidas nas reclamatórias nºs 0122200-22.2009.5.04.0013 e 0000056-72.2011.5.04.0014. As reclamadas devem ser condenadas também a complementar as contribuições mensais realizadas posteriormente a agosto de 2006, considerando as diferenças salariais postuladas e deferidas nas ações 0122200-22.2009.5.04.0013 e 0000056-72.2011.5.04.0014." (grifei)
+E dentre os pedidos contidos na exordial, destaco os seguintes itens:
+ ..
+Em face do exposto, requer sejam as reclamadas condenadas solidariamente a recalcular o valor "Saldado" e a integralizar a "Reserva Matemática" correspondente, considerando o CTVA pago e as diferenças salariais postuladas e deferidas nas ações nºs 0122200-22.2009.5.04.0013 e 0000056-72.2011.5.04.0014, bem como a complementar as contribuições mensais realizadas posteriormente a agosto de 2006, considerando as diferenças salariais postuladas e deferidas nas ações nºs 0122200-22.2009.5.04.0013 e 0000056-72.2011.5.04.0014, sob pena de conversão da obrigação e de incidência de multa, sem prejuízo da obrigação de indenizar os prejuízos causados.
+Conforme se depreende dos trechos acima, a causa de pedir e os pedidos formulados pelo autor, ora interessado, referem-se ao recolhimento dos valores a título de CTVA junto à previdência e do consequente recálculo do saldamento com base na nova contribuição.
+Nesse contexto, verifica-se que o exame da controvérsia não se restringiria à interpretação das normas relacionadas ao regime de previdência complementar, haja vista a necessidade de se decidir previamente se a referida parcela do "CTVA" tem ou não índole salarial e, por conseguinte, se poderia, nesse caso, ter sido excluída do salário de contribuição, o que, nos termos do art. 114, VI, da Constituição Federal e da jurisprudência pacífica do STJ, compete exclusivamente à Justiça Laboral.
+Destaco, por oportuno, que, conforme observação do Juízo Federal à fl. 2055 "(..) o CTVA não foi objeto de ação trabalhista julgada improcedente". Tal matéria deve, portanto, ser previamente analisada perante a Justiça Laboral, conforme fundamentação retro.
+ ..
+Importante, ainda, trazer à colação julgado do Pretório Excelso, asseverando a distinção com o Tema 190 de Repercussão Geral (RE 586.453), e que se adequa ao presente caso. Confira-se:
+ ..
+Verifica-se, assim, a ocorrência de cumulação indevida de pretensões em uma mesma ação - corroborado pelo fato de haver dois reclamados no polo passivo -, pois o autor formulou pedidos sem observar as competências materiais diferentes na sua análise (Justiça de Trabalho e Justiça Comum).
+A presente situação atrai, desse modo, a incidência, com as devidas adaptações, do enunciado da Súmula 170 do STJ: "compete ao juízo onde primeiro for intentada a ação envolvendo acumulação de pedidos, trabalhista e estatutário, decidi-la nos limites da sua jurisdição, sem prejuízo de nova causa, com pedido remanescente, no juízo próprio".
+Nesse panorama, impõe-se que as pretensões trabalhistas deduzidas contra a Caixa Econômica Federal sejam analisadas perante a Justiça do Trabalho, uma vez que seu exame é prejudicial à análise daquelas voltadas contra a entidade de previdência.
+ ..
+Ante o exposto, conheço do conflito para declarar a competência do JUÍZO DA 17A VARA DO TRABALHO DE PORTO ALEGRE - RS, o suscitado. (grifei)
+Diante disso, destaca-se que a decisão ora agravada está em plena consonância com o entendimento desta Corte Superior, uma vez que, "nos termos da jurisprudência do STJ, havendo cumulação de pretensões distintas, sendo um pedido antecedente, de reconhecimento da natureza salarial da verba CTVA, em face da ex-empregadora (CEF), deve a ação prosseguir primeiramente na Justiça do Trabalho." (AgRg no CC n. 139.734/RJ, relator Ministro Marco Buzzi, Segunda Seção, julgado em 29/9/2020, DJe de 2/10/2020.).
+Nesse sentido, confira-se:
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. REVISÃO DE CONTRIBUIÇÃO PREVIDENCIÁRIA. PLEITO DE RECONHECIMENTO DA NATUREZA SALARIAL DA PARCELA DENOMINADA "CTVA". REFLEXO NAS CONTRIBUIÇÕES PARA O PLANO DE PREVIDÊNCIA COMPLEMENTAR. CUMULAÇÃO DE PRETENSÕES DE NATUREZAS DISTINTAS. SÚMULA 170/STJ. COMPETÊNCIA DA JUSTIÇA DO TRABALHO PARA EXAMINAR O PLEITO INDENIZATÓRIO DIRIGIDO CONTRA A CEF.
+1. Cuida-se, na origem, de revisional de contribuição previdenciária ajuizada em face da CEF e da FUNCEF, em que se pretende a inclusão da verba denominada CTVA - Complemento Temporário Variável Ajuste de Mercado na composição de salário de participação, com os devidos reflexos no cálculo de benefício de complementação de aposentadoria.
+2. A presente demanda cumula pretensões de natureza distintas, havendo um pedido antecedente de reconhecimento da natureza salarial da verba CTVA, com a condenação da ex-empregadora (CEF) em aportar contribuições previdenciárias, e um pedido consequente de recálculo do valor do benefício de suplementação de aposentadoria a cargo da entidade de previdência privada (FUNCEF).
+3. Segundo a jurisprudência consolidada do STJ, em hipóteses como a presente, em se tratando de cumulação de pedidos envolvendo matérias de diferentes competências, deve a ação prosseguir primeiramente na Justiça Especializada, para o exame das pretensões derivadas da relação de trabalho, ressalvada a possibilidade de posterior ajuizamento de nova ação, perante a Justiça Comum, com vistas ao deslinde da controvérsia relativa ao reajuste do benefício de suplementação de aposentadoria. Aplica-se, com as adaptações necessárias, o disposto na Súmula 170/STJ. Precedentes.
+4. Assim, a Justiça do Trabalho é competente para apreciar as pretensões concernentes à natureza da CTVA e à condenação da CEF ao aporte das diferenças de contribuições previdenciárias.
+5. Agravo interno desprovido.
+(AgInt nos EDcl no CC n. 179.896/SP, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 18/8/2021, DJe de 20/8/2021.)
+Destarte, em que pesem as razões desenvolvidas pela parte no presente agravo interno, não foram trazidos argumentos capazes de alterar a decisão agravada.
+Nesse contexto, a decisão recorrida deve ser mantida pelos seus próprios fundamentos, porquanto válidos os argumentos que a sustentam.
+Ante o exposto, nego provimento ao agravo interno.
+Advirto, por derradeiro, que a apresentação de incidentes protelatórios poderá dar azo à aplicação de multa (art. 1.026, § 2º, do CPC).
+É o voto.
