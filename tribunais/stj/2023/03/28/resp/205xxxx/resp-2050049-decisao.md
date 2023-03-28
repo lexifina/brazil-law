@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão da Oitava Câmara de Direito Privado do TJSP.
+Na origem, a parte recorrida ajuizou ação objetivando a cobertura de tratamento médico cirúrgico.
+Em primeira instância, os pedidos foram julgados procedentes (e-STJ fls. 488/504).
+A empresa de saúde interpôs apelação, tendo o Tribunal de origem negado provimento ao recurso em acórdão que ficou assim ementado (e-STJ fl. 621):
+PLANO DE SAÚDE - OBRIGAÇÃO DE FAZER C.C. pedido de Tutela Provisória de Urgência Reapreciação de julgado por determinação do Superior Tribunal de Justiça - Manutenção do Acórdão anteriormente proferido, negando provimento ao recurso de apelação - Recurso especial provido, com determinação de reapreciação da apelação, nos termos de jurisprudência pacificada pela Quarta Turma do C. STJ - Precedente que não possui efeito vinculante - Na origem, a parte ora recorrida ajuizou ação, visando obter a cobertura de tratamento cirúrgico para câncer de próstata - Sentença de procedência - Ré que não comprovou que disponibiliza o tratamento sugerido na sua rede credenciada, nem trouxe qualquer tabela de referencia de valores aos autos, a busca do autor por profissionais e hospital externos mostrou-se devida e justificada, pois, do contrário, teria provavelmente sofrido repercussões irreversíveis - Recurso reapreciado, com manutenção da decisão proferida no Acórdão anterior.
+Nas razões do recurso especial (e-STJ fls. 657/650), fundamentado no art. 105, III, "a" e "c", da CF, a recorrente alegou, além de divergência jurisprudencial, ofensa ao art. 10 da Lei de Plano de Saúde, argumentando, em síntese, que não estaria obrigada a custear atendimento realizado fora da sua rede credenciada.
+É o relatório.
+Decido.
+O Tribunal de origem reconheceu que era devida a cobertura postulada, pois a parte ré "não comprovou que disponibiliza o tratamento sugerido na sua rede credenciada, nem trouxe qualquer tabela de referência de valores aos autos, de modo que a busca do autor por profissionais e hospital externos mostrou-se devida e justificada, pois, do contrário, teria provavelmente sofrido repercussões irreversíveis" (e-STJ fl. 623).
+Portanto, constata-se que o acórdão baseou-se nos elementos fático-probatórios para reconhecer a procedência da pretensão da parte autora.
+Assim, é inviável alterar a conclusão do Tribunal de or igem quanto ao tema, pois, para tanto, seria necessário reexaminar fatos e provas, providências vedadas a esta Corte, de acordo com as Súmulas n. 5 e 7 do STJ.
+Ademais, conforme decidido por esta Corte Superior, tratando-se de atendimento médico não prestado pela rede médica ofertada pelo convênio, "não há como se falar em aplicação da tabela da operadora do plano de saúde para atendimentos semelhantes, devendo o reembolso ser realizado de forma integral" (AgInt no AgInt nos EDcl no AREsp 1.704.048/SP, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 24/8/2021, DJe 1º/9/2021).
+Diante do exposto, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
