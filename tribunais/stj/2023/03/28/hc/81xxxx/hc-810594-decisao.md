@@ -1,0 +1,18 @@
+DECISÃO
+INGRID BARBOSA VIEIRA alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo.
+A defesa pretende a expedição da guia de recolhimento provisória em favor da paciente - que "se encontra em cumprimento de medidas cautelares alternativas à prisão, em especial de "recolhimento domiciliar noturno desde 17.12.2018" -, sob o argumento de que "estaria sofrendo constrangimento ilegal imposto pelo Juízo da Vara Criminal da Comarca de Tupã, Processo nº 0004422-23.2018.8.26.0637, em razão do indeferimento do pedido de expedição da guia de recolhimento provisória, o que impede a autuação de processo de execução e, consequentemente, a requisição de benefícios"
+Decido.
+O Juiz de origem indeferiu o pedido da defesa considerando que o processo encontra-se em fase recursal e que o paciente responde em liberdade.
+No que tange à questão, o Tribunal de origem denegou a ordem do writ pelas razões seguintes:
+ ..
+Observo, inicialmente, que o artigo 105 da Lei de Execução Penal determina que, após o trânsito em julgado da sentença condenatória que aplicar pena privativa de liberdade, se o réu estiver ou vier a ser preso, o Juiz ordenará a expedição de guia de recolhimento para a execução. Nesse mesmo sentido, dispõe o artigo674 do Código de Processo Penal: "Transitando em julgado a sentença que impuser pena privativa de liberdade, se o réu já estiver preso, ou vier a ser preso, o juiz ordenará a expedição de carta de guia para o cumprimento da pena".
+ ..
+Contudo, a paciente não faz jus à expedição da guia de recolhimento provisória em razão de não ter havido recolhimento prisional, mas apenas a aplicação de medidas cautelares, entre as quais o recolhimento noturno, que eventualmente ensejará, preferencialmente em sede do Juízo da Execução, a respectiva detração penal, consideradas, para tanto, apenas as horas de efetivo cumprimento da cautelar.
+Ainda, apesar do que dispõe o artigo 8º da Resolução nº 113 do CNJ, que prevê que "tratando-se de réu preso por sentença condenatória recorrível, será expedida guia de recolhimento provisória da pena privativa de liberdade, ainda que pendente recurso sem efeito suspensivo, devendo, nesse caso, o juízo da execução definir o agendamento dos benefícios cabíveis" (grifou-se), dispondo, deste modo, acerca da possibilidade da expedição da guia de recolhimento provisória sem que tenha havido o trânsito em julgado definitivo, incabível tal expedição, no caso da paciente, haja vista que nem ao menos foi expedido o mandado de prisão.
+Deste modo, em que pese a combatividade dos impetrantes, não se demonstrou a existência de constrangimento ilegal a ser afastado.
+Por esses motivos, meu voto denega a presente ordem. (fls. 15-17)
+Quanto à pretensão de deferimento da ordem para fins de iniciar a execução provisória da pena, verifico que não ocorreu o trânsito em julgado da condenação, de modo que, respondendo a paciente ao processo em liberdade, deve aguardar transitar em julgado da decisão condenatória, a fim de que seja expedida a guia de recolhimento para a execução.
+A jurisprudência desta Corte Superior é firme em assinalar que, a teor do art. 105 da LEP, o Juiz ordenará a expedição da guia de recolhimento para execução da pena somente se o réu estiver ou vier a ser preso.
+Na espécie, consignado pelo acórdão impugnado que a paciente está solta, inviável a expedição da guia de recolhimento provisória. Confira-se também: AgRg no RHC n. 104.220/RJ, Ministro Nefi Cordeiro, Sexta Turma, DJe 1º/3/2019; e EDcl no AgRg no HC n. 400.294/SP, Ministro Felix Fischer, Quinta Turma, DJe 30/10/2017; AgRg no HC n. 467.416/PE, Ministra Laurita Vaz, Sexta Turma, DJe 2/8/2019.
+Ante o exposto, denego a ordem in limine.
+Publique-se. Intimem-se.
