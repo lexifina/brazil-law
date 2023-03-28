@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo CONSELHO REGIONAL DE ENGENHARIA E AGRONOMIA DE SANTA CATARINA - CREA/SC, fundado na alínea "a" do permissivo constitucional, contra acórdão do TRF da 4ª Região assim ementado (e-STJ fl. 83):
+TRIBUTÁRIO. EXECUÇÃO FISCAL. CONSELHOS DE FISCALIZAÇÃO PROFISSIONAL. ART. 8º DA LEI 12.514/2011 NA REDAÇÃO DA LEI N. 14.195/21. CONDIÇÃO DE PROCEDIBILIDADE PARA A PROPOSITURA DA EXECUÇÃO.
+1. Juridicamente hígida a condição de procedibilidade introduzida pela Lei 14.195/2021 no art. 8º da Lei 12.514/2011 para a propositura de executivo fiscal pelos Conselhos de Fiscalização Profissional.
+2. A aplicação do teto mínimo para o ajuizamento da execução fiscal independe do valor da anuidade fixado pelo respectivo Conselho, considerando a opção legislativa por um valor fixo (inciso I do art. 6º da Lei 12.514/2011, na redação da Lei 14.195/2021 ).
+A recorrente sustenta violação dos arts. 4º, 6º e 8º da Lei n. 12.514/2011.
+Aduz, em suma, que, "diferente do alegado na decisão atacada, a dívida cobrada judicialmente pelo Conselho recorrente não esbarra no óbice inserido pela Lei nº 14.195/2021 no art. 8º da Lei n. 12.514/2011" (e-STJ fl. 94).
+Requer a reforma do acórdão, "uma vez que a multa pela prática de um ilícito administrativo em razão do poder de polícia do Crea-SC, prevista na Lei n. 5.194/1966, a se encontra prevista no rol do art. 4º da Lei n. 12.514/2011, bem como o valor de alçada para aplicação do disposto ao art. 8º da Lei n. 12.514/2011 deverá obedecer ao que dispõe o § 2º do art. 6º da referida legislação" (e-STJ fl. 96).
+Sem contrarrazões, o recurso fora admitido na origem (e-STJ fls. 101/102 ).
+Passo a decidir.
+O apelo nobre se origina de execução fiscal ajuizada por conselho de classe profissional julgada, a qual foi extinta sem apreciação do mérito em razão da ausência de interesse de agir, nos termos do art. 485, IV, do CPC/2015.
+Interposta apelação pelo exequente, esta foi desprovida pelo TRF da 4ª Região por meio de acórdão assim fundamentado (e-STJ fls. 86/87):
+Assim, decorre da leitura da atual redação do artigo 8º, caput, da Lei 12.514/11, que os Conselhos Profissionais não podem executar os débitos de anuidades, multas por violação da ética ou outras obrigações definidas em lei especial, cujo valor seja inferior a 5 vezes o valor constante do inciso I do caput do art. 6º da referida Lei. Nos termos do art. 6º, "caput", I, da Lei nº 12.514/2011, o valor tomado por parâmetro é R$ 500,00, o qual, reajustado de acordo com a variação integral do Índice Nacional de Preços ao Consumidor - INPC, conforme previsto no §1º do mesmo preceito legal, até a data do ajuizamento da presente execução fiscal corresponde a R$ 4.729,28(fonte: calculadora do cidadão - Banco Central do Brasil- https://www3. bcb. gov. br/CALCIDADAO/publico/corrigirPorIndice. do method=corrigirPorIndice).
+A pretensão de que o montante a ser considerado como limite mínimo para ajuizamento de execução fiscal seja de cinco vezes o valor definido por cada conselho profissional para a cobrança de anuidades - até o limite máximo constante do inciso I do art. 6º da Lei 12.514/2011 - não merece acolhida, porquanto contraria a literalidade do disposto no art. 8º, caput, da Lei12.514/2011, com a redação que lhe foi conferida pela Lei 14.195/2021, que é explícito ao se referir o "valor total inferior a 5 (cinco) vezes o constante do inciso I do caput do art. 6º desta Lei", ao invés de referir-se ao "valor cobrado anualmente da pessoa física ou jurídica inadimplente", tal como estabelecia o mesmo dispositivo, em sua redação original. Assim, a aplicação do valor mínimo para o ajuizamento da execução fiscal independe do valor da anuidade fixado pelo respectivo Conselho, porquanto a escolha do legislador foi por um valor fixo.
+Nesse sentido: TRF4, AG 5012557-13.2022.4.04.0000, PRIMEIRA TURMA, Relator LEANDRO PAULSEN, juntado aos autos em 18/03/2022.
+No caso concreto, trata-se de execução fiscal ajuizada após 27 de agosto de 2021, data em que passou a viger a Lei 14.195/2021, que alterou o § 2º do artigo 8º da Lei 12.514/2011, e os valores que o Conselho pretende executar (R$ 4.144,35 - conforme petição inicial) são inferiores ao patamar de05 (cinco) vezes o valor atualizado constante do inciso I do caput do art. 6º da Lei nº 12.514/2011, na redação que lhe deu o art. 21 da Lei 14.195, de 27 de agosto de 2021. Logo, deve ser mantida a sentença que determinou a extinção da execução fiscal, ajuizada pelo Conselho após a Lei nº 14.195/21.
+Pois bem.
+Verifico que a irresignação recursal não comporta conhecimento, uma vez que o exame da questão levantada pela parte recorrente - que a dívida cobrada judicialmente pelo conselho não esbarra no óbice inserido pela Lei n. 14.195/2021, pois se trata de multa pela prática de um ilícito administrativo em razão do poder de polícia do CREA-SC - não foi levada a efeito na origem.
+Com efeito, a admissibilidade do recurso na instância excepcional pressupõe que a Corte de origem tenha se manifestado sobre a tese jurídica apontada pelo recorrente, o que não ocorreu no caso dos autos.
+Esse é o entendimento pretoriano consagrado na edição da Súmula 282 do STF : "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+Frise-se, por oportuno, que a parte recorrente nem sequer opôs embargos de declaração, a fim de sanar eventual vício do acórdão objurgado, o que atrai a incidência da Súmula 356 do STF.
+Convém registrar que a exigência de prequestionamento prevalece também quanto às matérias de ordem pública.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO JUDICIAL. ATUALIZAÇÃO DE VALOR DEPOSITADO. ARTIGOS 15-A E 33, § 2º, DO DECRETO-LEI 3.365/41. FALTA DE PREQUESTIONAMENTO. SÚMULA 282/STF.
+ ..
+2. É firme no Superior Tribunal de Justiça o entendimento quanto à necessidade de prequestionamento da matéria trazida a exame, ainda que vinculada a tema de ordem pública.
+3. Agravo interno a que se nega provimento (AgInt no AREsp 928.071/ES, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 04/10/2016, DJe 19/10/2016).
+EMBARGOS DE DECLARAÇÃO. PRESCRIÇÃO E DECADÊNCIA. FALTA DE PREQUESTIONAMENTO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. AUSÊNCIA. EMBARGOS REJEITADOS.
+ ..
+2. A jurisprudência do STJ entende que, na seara extraordinária, o prequestionamento é necessário para exame, inclusive, das matérias de ordem pública.
+3. Embargos de declaração rejeitados (EDcl no AgInt no AREsp 868.729/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 13/09/2016, DJe 19/09/2016).
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Se m condenação da parte recorrente em honorários recursais, ante a ausência de fixação de honorários de sucumbência na origem.
+Publique-se. Intimem-se.
