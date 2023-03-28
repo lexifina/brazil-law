@@ -1,0 +1,23 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra decisão da Presidência desta Corte que conheceu do agravo para não conhecer do recurso especial.
+O agravante reitera as razões do recurso especial, em que pretende o restabelecimento da sentença condenatória pelo delito de associação para o tráfico.
+Requer a reconsideração da decisão ou a submissão ao órgão colegiado para conhecer do agravo e prover o recurso especial.
+Apresentada impugnação (e-STJ, fls. 658/671).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. REEXAME DE FATOS E PROVAS. SÚMULA 7 DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Hipótese em que o Tribunal de origem entendeu inexistir confirmação segura de que o réu tenha se associado de forma estável e permanente para a prática de traficância.
+2. Para alterar a conclusão do acórdão e restabelecer a sentença condenatória, como requer a parte recorrente, demandaria, necessariamente, o revolvimento do acervo fático-probatório delineado nos autos, providência incabível em recurso especial, ante o óbice da Súmula 7/STJ.
+3. Agravo regimental desprovido.
+VOTO
+Pretende o agravante a reforma da decisão da Presidência desta Corte que conheceu do agravo para não conhecer do recurso especial pela incidência da Súmula 7 do STJ.
+Sem razão, contudo, com a devida vênia.
+Como consta da decisão agravada, o Tribunal local, soberano na análise do conjunto fático-probatório, absolveu o recorrido da imputação do delito de associação para o tráfico pelos seguintes fundamentos (e-STJ fls. 539/540):
+Quanto ao delito do art. 35 da Lei de Drogas, é cediço que o atual diploma Antitóxicos não abordou a chamada associação eventual, então disciplinada na legislação anterior. Versa o tipo sobre crime autônomo, cuja consumação se verifica independentemente da prática efetiva de algum dos delitos de tráfico, desde que demonstrada a associação de pessoas, societas criminis, mediante ajuste prévio e, sobretudo, duradouro. Emana do Superior Tribunal de Justiça que para a caracterização do crime de associação para o tráfico imprescindível o dolo de associar com estabilidade e permanência, sendo que a reunião ocasional de duas ou mais pessoas não se subsume ao tipo do artigo 35 da Lei 11.343/06 (STJ - HC 214.660, 5ª T. Rel. Min. Jorge Mussi, j. 14/5/2013). No caso concreto, inexiste qualquer confirmação segura de que o réu Vanderlei tenha se associado ao acusado Manoel de forma estável e permanente para a prática de traficância, enfim, que tivessem perpetrado operação semelhante em momento pretérito ou que estivessem planejando empreitadas futuras. Veja-se que das interceptações realizadas tem-se que o Manoel informa ao Vanderlei sobre a investigação em curso, dizendo que seu nome foi citado como fornecedor e que, apesar do nome de Manoel não aparecer nas investigações, ele demonstra preocupação. Extrai-se ainda que Vanderlei é apontado por outros traficantes como fornecedor de drogas. Assim, em que pese haja prova de que Manoel estava preocupado com a investigação em curso bem como que outros traficantes apontem o Vanderlei como fornecedor, não há provas do vínculo associativo entre o réu e outra pessoa, tampouco indicação da estabilidade e permanência da atuação conjunta deles no tráfico de drogas. Face ao precário e duvidoso conjunto probatório acostado aos autos, mister a absolvição do réu quanto às imputações da prática do delito de associação para o tráfico capitulado no artigo 35 da Lei 11.343/2006.
+Conforme consta do trecho acima transcrito, o Tribunal de origem consignou que "inexiste qualquer confirmação segura de que o réu Vanderlei tenha se associado ao acusado Manoel de forma estável e permanente para a prática de traficância". Assim, para alterar a conclusão do acórdão e restabelecer a sentença condenatória, como requer a parte recorrente, demandaria, necessariamente, o revolvimento do acervo fático-probatório delineado nos autos, providência incabível em recurso especial, ante o óbice da Súmula 7/STJ.
+Dessume-se, portanto, das razões recursais que o agravante não trouxe elementos suficientes para reverter a decisão agravada que, de fato, apresentou a solução que melhor espelha a orientação jurisprudencial do Superior Tribunal de Justiça sobre a matéria.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
