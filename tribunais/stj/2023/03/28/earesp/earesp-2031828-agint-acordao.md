@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 22/03/2023 a 28/03/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Paulo de Tarso Sanseverino, Maria Isabel Gallotti, Ricardo Villas Bôas Cueva, Marco Buzzi, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Antonio Carlos Ferreira.
+RELATÓRIO
+Cuida-se de agravo interno interposto por DULCINEIA GONÇALVES FIGUEIREDO SANTOS contra decisão da Presidência do STJ que indeferiu liminarmente os embargos de divergência.
+Ação: "de obrigação de fazer c/c revisão de débito" (fl. 2) ajuizada pela agravante.
+Sentença: julgou procedentes os pedidos.
+Acórdão: por unanimidade, negou provimento ao recurso de apelação, nos termos da seguinte ementa:
+APELAÇÃO. CUMPRIMENTO DE SENTENÇA. Impugnação à Execução pelo Executado, alegando que as obrigações de fazer impostas já foram cumpridas, sustentando que o valor da multa se mostra excessivo. Resposta da parte contrária, aduzindo que as obrigações acessórias não foram cumpridas. Decisão do juízo a quo acertada, reduzindo o valor da multa, dentro dos critérios da razoabilidade. Pagamento pela Parte Executada. Cumprimento da obrigação. Insurgência da Exequente, alegando descumprimento da repetição do indébito. Pagamento das faturas que não restou comprovado. Descabimento. Manutenção do valor da multa aplicada. RECURSO DESPROVIDO.
+(fl. 312)
+Recurso especial: aduz, além de dissídio jurisprudencial, ofensa aos arts. 489, VI e 537, § 1º, do Código de Processo Civil, ao argumento de que não seria possível a alteração da multa diária já vencida.
+Acórdão Embargado da 4ª Turma: manteve a decisão monocrática do Relator, negando provimento ao agravo interno, nos termos da seguinte ementa:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE OBRIGAÇÃO DE FAZER C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO APELO. INSURGÊNCIA DA PARTE AUTORA.
+1. Nos termos da jurisprudência do STJ, o valor da multa cominatória (astreintes) pode ser revisto a qualquer tempo, até mesmo de ofício, quando irrisória ou exorbitante. Incidência da Súmula 83/STJ.
+2. Agravo interno desprovido.
+(fl. 1031)
+Embargos de divergência: aduz divergência entre o acórdão embargando e a orientação adotada no REsp 1.819.069/SC, da Terceira Turma, sustentando, em síntese, que não seria possível a redução da multa diária já vencida.
+Decisão unipessoal da Presidência do STJ: indeferiu liminarmente os embargos de divergência, ao fundamento de que a parte embargante limitou-se a citar o número do acórdão paradigma, deixando de cumprir regra técnica do recurso, o que constituiria vício insanável.
+Agravo interno: nas razões do presente recurso, a parte agravante sustenta que o acórdão embargado impõe exigência não prevista em lei e que, na hipótese, o dissídio foi demonstrado através da reprodução de julgado disponível na rede mundial de computadores, com a indicação da respectiva fonte.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. REQUISITOS DE ADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. AUSÊNCIA DE COTEJO ANALÍTICO.
+1. Esta Corte Superior perfilha o entendimento de que "é requisito indispensável para a comprovação ou configuração do alegado dissenso jurisprudencial a adoção pela parte recorrente, na petição dos embargos de divergência, de uma das seguintes providências, quanto aos paradigmas indicados: (i) a juntada de certidões; (ii) a apresentação de cópias do inteiro teor dos acórdãos apontados; (iii) a citação do repositório oficial, autorizado ou credenciado nos quais eles se achem publicados, inclusive em mídia eletrônica; e (iv) a reprodução de julgado disponível na rede mundial de computadores, com a indicação da respectiva fonte na Internet" (AgInt nos EREsp n. 1.903.273/PR, Corte Especial, julgado em 10/5/2022, DJe de 16/5/2022).
+2. Na hipótese dos autos, limitou-se a parte embargante a citar o número do acórdão apontado como paradigma, deixando de cumprir as regras técnicas do presente recurso, nos termos do art. 1.043, § 4º, do CPC e do art. 266, § 4º, do RISTJ.
+3. A admissão dos embargos de divergência está condicionada à comprovação da divergência jurisprudencial, por meio da realização do cotejo analítico e da demonstração da similitude fático-processual entre o acórdão embargado e o julgado paradigma, o que não se verificou na hipótese dos autos.
+4. Agravo interno não provido.
+VOTO
+1. Os embargos de divergência constituem instrumento excepcional voltado à uniformização da jurisprudência interna do Superior Tribunal de Justiça, representando mecanismo que, a despeito de depender da iniciativa das partes ou de terceiros interessados, "não tem por mira apenas realizar justiça subjetiva" , eis que "o Tribunal quando os julga tem por propósito específico promover a harmonia de interpretação da lei federal com a consequente uniformização da jurisprudência no âmbito interno da Corte" (EDcl nos EREsp 88.682/SP, 1ª Seção, DJ de 01/12/2003).
+2. Assim, por ser recurso de fundamentação vinculada, o cabimento dos embargos de divergência é restrito, do que exsurge especiais requisitos de admissibilidade a serem observados pela parte embargante.
+3. Nesse contexto, esta Corte Superior perfilha o entendimento de que "é requisito indispensável para a comprovação ou configuração do alegado dissenso jurisprudencial a adoção pela parte recorrente, na petição dos embargos de divergência, de uma das seguintes providências, quanto aos paradigmas indicados: (i) a juntada de certidões; (ii) a apresentação de cópias do inteiro teor dos acórdãos apontados; (iii) a citação do repositório oficial, autorizado ou credenciado nos quais eles se achem publicados, inclusive em mídia eletrônica; e (iv) a reprodução de julgado disponível na rede mundial de computadores, com a indicação da respectiva fonte na Internet" (AgInt nos EREsp n. 1.903.273/PR, Corte Especial, julgado em 10/5/2022, DJe de 16/5/2022).
+4. No mesmo sentido: AgInt nos EDcl nos EAREsp n. 503.161/PR, Primeira Seção, julgado em 16/11/2021, DJe de 19/11/2021; AgInt nos EDcl nos EREsp n. 1.539.922/MT, Segunda Seção, julgado em 3/5/2022, DJe de 6/5/202; AgRg nos EAREsp n. 1.472.525/DF, Terceira Seção, julgado em 9/12/2020, DJe de 18/12/2020.
+5. Na hipótese dos autos, no entanto, limitou-se a parte embargante a citar o número do acórdão apontado como paradigma, deixando de cumprir, portanto, as regras técnicas do presente recurso, nos termos do art. 1.043, § 4º, do CPC e do art. 266, § 4º, do RISTJ.
+6. Além disso, importa consignar que a admissão dos embargos de divergência está condicionada à comprovação da divergência jurisprudencial, por meio da realização do cotejo analítico e da demonstração da similitude fático-processual entre o acórdão embargado e o julgado paradigma, o que não se verificou na hipótese dos autos. Nesse sentido: AgInt nos EDv nos EREsp n. 1.949.566/SP, Segunda Seção, julgado em 16/8/2022, DJe de 18/8/2022.
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno.
+Prejudicadas as petições de fls. 1115-1138, 1139-1162 e 1163-1186.
