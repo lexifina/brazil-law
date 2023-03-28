@@ -1,0 +1,31 @@
+DECISÃO
+Aproveito o bem lançado relatório do representante do Ministério Público Federal (e-STJ fls. 11.942/11.962):
+Trata-se de recursos especiais interpostos por Alex Silveira Antunes e Everton Matias da Silva com fundamento no art. 105. inciso III. alíneas "a" e "c" da Constituição Federal, por Ricardo Feitosa do Nascimento, Dá rio José Theobald, Vanderlei da Silva VIegas, Antonio Marco Braga Campos e Júlio Cezar Lopes, com fundamento na alínea a, bem como por Osni Rocha, sem indicativo do permissivo constitucional, contra acórdão pro- ferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul.
+Apresentas as contrarrazões e admitidos os recursos (f. 11.840-11.862). os autos foram alçados ao Superior Tribunal de Justiça vindo, na seqüência, ao Ministério Público Federal para manifestação.
+ ..
+II.VII - Recurso Especial de Julio Cezar Lopes
+O recorrente foi condenado à pena de 27 anos, 4 meses e 17 dias de reclusão, em regime inicial fechado, e ao pagamento de 3.323 dias-multa. pela prática dos crimes tipificados do art. 33. caput e art. 35. caput. c. e artigo 40. inciso I. da Lei 11.343 06.
+Interposto recurso de apelação pela defesa e pelo Ministério Público Federal, apenas esse último foi provido, aumentado a pena para 14 anos. 11 meses e 19 dias de reclusão e o pagamento de 1.826 dias-multa.
+Neste recurso especial, alega afronta aos arts. 59. 61. I. e 62. I. do CP e arts. 381. III. e 387. II e EI. do CPP. pois inobservado o patamar de 1 6. calculado a partir da pena mínima, na primeira etapa da dosagem da pena. para as vetoriais quantidade e natureza do entorpecente. Aduz discrepância no cálculo da pena-base. com o aumento por cada vetorial negativa supostamente sem justificativa. Por fim. pugna pela redução do aumento de pena relativamente às agravantes de reincidência e posição de liderança (f. 10.909-10.934).
+Foram apresentas contrarrazões à f. 11.516-11.594.
+ ..  III. Ante o exposto, o MINISTÉRIO PÚBLICO FEDERAL manifesta-se pelo: (i) nào conhecimento dos recursos especiais de Alex, Ricardo. Everton e Osni; (ii) pelo conhecimento parcial do recurso especial de Antônio apenas quanto à alegada necessidade de verificação do sistema trifásico e reforma da dosimetria da pena para ser desprovido (iii) pelo conhecimento parcial dos recursos especiais de Dário e Vanderlei apenas quanto ao pedido de redução da multa para serem desprovidos: e (iv) pelo conhecimento e desprovimento do recurso especial de Julio Cezar. (Grifei.)
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso de JULIO CEZAR LOPES.
+É o relatório.
+Decido.
+DOSIMETRIA
+A pena-base dos delitos de tráfico de drogas foi exasperada em 2 anos e a de associa ção para o mesmo fim em 1 ano em razão da quantidade e nocividade das drogas - a saber, 198kg (cento e noventa e oito quilogramas) de cocaína, 103kg (cento e três quilogramas) de crack e mais 270kg (duzentos e setenta quilogramas) d e maconha (e-STJ fl. 10.912) -, em perfeita consonância com a jurisprudência desta Corte e com o disposto no art. 42 da Lei de Drogas, que determina como critério preponderante para o incremento da pena-base a quantidade e natureza das drogas.
+Em caso muito semelhante, a pena-base foi fixada em 10 anos de reclusão sob os seguintes fundamentos:
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PENA-BASE. QUANTIDADE DE DROGA. AUMENTO PROPORCIONAL. AUSÊNCIA DE MANIFESTA ILEGALIDADE. RECURSO NÃO PROVIDO.
+1. A individualização da pena é uma atividade vinculada a parâmetros abstratamente cominados na lei, sendo, contudo, permitido ao julgador atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, às Cortes Superiores é possível, apenas, o controle da legalidade e da constitucionalidade na dosimetria.
+2. No caso, observa-se que o Tribunal de origem, atento as diretrizes do art. 42 da Lei de Drogas, considerou a grande quantidade de droga apreendida (133,720kg de maconha) para elevar a pena-base em 5 anos de reclusão. Assim, apresentado elemento idôneo para a majoração da reprimenda, o qual foi elencado inclusive como circunstância preponderante, e levando-se em conta as penas máxima e mínima abstratamente cominadas ao delito de tráfico de drogas (5 a 15 anos), a elevação da pena no dobro do mínimo legal não se mostra desarrazoada, a autorizar a intervenção excepcional desta Corte.
+3. Recurso não provido.
+(AgRg no HC n. 746.798/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 23/8/2022, DJe de 30/8/2022, grifei.)
+Logo, estando o acórdão hostilizado em consonância com a jurisprudência desta Corte, não se conhece do recurso especial, conforme expressa disposição da Súmula n. 83/STJ, cujo teor passo a colacionar:
+Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida.
+(Súmula n. 83, CORTE ESPECIAL, julgado em 18/6/1993, DJ 2/7/1993, p. 13283.)
+Quanto à fração de agravamento das penas, com razão o recorrente, porquanto a fração de 1/3 pelas duas agravantes redundaria, para os delitos de tráfico de drogas, em três penas provisórias de 9 anos e 4 meses e uma pena de 8 anos, e, para os delitos de associação para o tráfico, em 5 anos e 4 meses de reclusão ao fim da segunda etapa dosimétrica.
+Mantido o aumento pela transnacionalidade, as penas de tráfico ficam fixadas em 3 penas de 10 anos, 10 meses e 20 dias e 1 pena de 9 anos, 6 meses e 10 dias de reclusão, e, aplicada a fração de 1/4 na maior pena a título de continuidade delitiva, tem-se que a pena definitiva pelos delitos de tráfico de drogas chega aos 13 anos, 7 meses e 10 dias.
+Na terceira fase, para os delitos de associação para o tráfico permanece a fração de 1/6 pela transnacionalidade, que leva a pena de cada delito a 6 anos, 2 meses e 20 dias.
+Somando-se a pena definitiva de tráfico de drogas com as 2 penas de associação para o tráfico em razão do concurso material, a pena definitiva atinge o total de 26 anos e 20 dias de reclusão, mantido no mais o acórdão de apelação.
+Ante o exposto, concedo parcial conhecimento, nessa extensão, dou provimento ao recurso especial de JÚLIO CEZAR LOPES para reduzir a pena definitiva a 26 anos e 20 dias de reclusão.
+Publique-se. Intimem-se.
