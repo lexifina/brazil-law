@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pela KRISTAL BRASIL COMÉRCIO E IMPORTAÇÃO DE PRODUTOS OPTICOS E ELETRÔNICOS LTDA. contra decisão em que acolhi os embargos de declaração para conhecer do recurso especial e dar-lhe parcial provimento, a fim de julgar parcialmente procedente o pedido formulado na inicial e converter a pena de perdimento das mercadorias em pena de multa de 100% sobre a diferença entre o valor efetivamente praticado, e aquele que foi utilizado para fins de deferimento da licença de importação.
+A embargante alega haver obscuridade na decisão embargada, porquanto, a despeito de seu recurso ter sido parcialmente acolhido, entende que pugnou pela anulação do termo de retenção e início de fiscalização, bem como pela condenação da Fazenda Nacional ao pagamento de todos os custos de demurrage e armazenagem oriundos da retenção e ao pagamento de indenização por danos morais. Logo, entende não ser possível extrair qual dos três pedido meritórios "estariam sendo deferidos/indeferidos por este colendo Tribunal Superior" (e-STJ fl. 569).
+Sem impugnação (e-STJ fl. 580).
+Passo a decidir.
+No caso, não se verificam os vícios processuais apontados.
+Conforme consignado na decisão embargada, a jurisprudência desta Corte é no sentido de que, constatada suposta irregularidade de subfaturamento na Declaração de Importação utilizando-se de falsidade ideológica, aplica-se pena de multa.
+No caso, a instância ordinária divergiu desta Corte ao aplicar pena de perdimento das mercadorias, porquanto deveria ter aplicado a pena de multa, conforme o entendimento supracitado. Por conseguinte, foi dado parcial provimento ao recurso do ora embargante para converter a pena de perdimento das mercadorias em pena de multa de 100% sobre a diferença entre o valor efetivamente praticado e aquele que foi utilizado para fins de deferimento da licença importação.
+Enfatiza-se que a jurisprudência desta Corte é no sentido de reduzir a pena para a aplicação de multa e não a sua extinção, como requer o embargante.
+Cabe considerar ao recorrente que o provimento parcial recursal é admitido, porquanto fosse binária a solução proposta, a opção ao não atendimento da pretensão do recorrente seria o desprovimento do recurso.
+Ponderados esses elementos, constato que a insurgência da embargante não diz respeito a eventual deficiência de fundamentação do julgado, mas à interpretação que lhe foi desfavorável, possuindo (aquela) caráter meramente infringente e, por isso, sendo de inviável acolhimento no âmbito restrito dos embargos de declaração.
+Por fim, sopesando a boa-fé objetiva, não considero esses primeiros aclaratórios como flagrantemente procrastinatórios, motivo pelo qual deixo de aplicar a multa processual correspondente.
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
