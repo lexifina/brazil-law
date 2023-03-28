@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial sob os seguintes fundamentos: (a) ausência de demonstração da ofensa aos artigos de lei indicados, (b) incidência da Súmula n. 7/STJ e (c) falha na comprovação do dissídio jurisprudencial (e-STJ fls. 660/662).
+O acórdão do TJSP traz a seguinte ementa (e-STJ fl. 618):
+RESPONSABILIDADE CIVIL. DANO MORAL. ADVOGADO. RECLAMAÇÃO VOLTADA AO CONTEÚDO DE DEFESA APRESENTADA PELA RÉ EM DEMANDA JUDICIAL QUE PATROCINOU. DESCABIMENTO. IMPROCEDÊNCIA MANTIDA. RECURSO NÃO PROVIDO. Responsabilidade civil. Reclamação do autor voltada ao conteúdo de defesa apresentada pela ré em demanda judicial que patrocina. A ré sustentou "suspeita" captação ilícita de clientes. Manifestação inserida no contexto da defesa que apresentou. Exercício regular de um direito. Excesso não caracterizado. Improcedência mantida. Recurso não provido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 640/645).
+No recurso especial (e-STJ fls. 625/634), fundamentado no art. 105, III, "a", da CF, o recorrente apontou violação dos arts. 187, 188, I, e 932, III, do CC/2002, 7º, § 2º, da Lei n. 8.906/1994 e 142, I, do CP, pois estariam presentes os requisitos para condenar a recorrida ao pagamento de danos morais, ante o emprego de expressões caluniosas pela advogado da empresa demandada contra sua pessoa, nos autos da processo n. 1000108-51.2020.8.26.0506, em trâmite na 10ª Vara Cível da Comarca de Ribeirão Preto/SP.
+Acrescentou que "não havia e não há nos autos qualquer indício de que o recorrente tenha envolvimento com a prática de crime ou contravenção penal. Portanto, a recorrida, ao solicitar por meio de seus advogados a instauração de inquérito policial, impôs ao recorrente um constrangimento moralmente indenizável (e-STJ fl. 632).
+Foram ofertadas contrarrazões (e-STJ fls. 649/659).
+No agravo (e-STJ fls. 665/672), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 687/697).
+É o relatório.
+Decido.
+A Corte local não se manifestou quanto ao art. 932, III, do CC/2002. Dessa forma, sem ter sido objeto de debate na decisão recorrida e ante a falta de aclaratórios no ponto, a matéria contida em tal dispositivo carece de prequestionamento e sofre, por conseguinte, o empecilho das Súmulas n. 282 e 356 do STF.
+O Tribunal de origem não debateu o conteúdo dos arts. 7º, § 2º, da Lei n. 8.906/1994 e 142, I, do CP, a despeito dos aclaratórios opostos.
+Inafastável, dessa maneira, o óbice das Súmulas n. 282 do STF e 211 do STJ.
+O pedido de indenização por danos morais foi rejeitado pela Corte local, nos seguintes termos (e-STJ fls. 619/622):
+Em síntese, o autor alegou que advoga em proveito de diversos clientes em demandas judicias contra a ré, a qual atua de forma indevida em relação aos consumidores, e que em precedente demanda por ele patrocinada a ré a ele imputou a ilícita conduta de captação de clientes. Sustentou que a ré tentou denegrir sua imagem e sua honra e que, por isso, deve ser reparado pelo dano moral experimentado.
+Entretanto, não se viu motivo justificador da reponsabilidade civil alegada pelo autor, como bem sintetizado pela sentença:
+Com efeito, a ré não praticou qualquer ato ilícito. As manifestações que fez na contestação (copiadas a fls. 03/04) estão muito longe de configurar "ataques diretos ao autor.
+A ré baseou sua defesa, naquele feito, em indícios, a seu ver, de captação indevida de clientes e de quebra de sigilo de dados cadastrais, face ao expressivo número de ações pelo autor patrocinadas contra a ré em curto espaço de tempo e dentro de área territorial limitada.
+Tal conduta configura exercício regular de direito. Não houve qualquer abuso ou emprego de expressão ofensiva por parte da ré, que até se mostrou bastante polida no linguajar empregado (diga-se de passagem, oposto ao linguajar empregado pelo autor no e-mail endereçado ao patrono da ré vide fl. 272, em que faz uso da expressão "petição ridícula").
+Pedir para expedir ofícios para o TED e para a Delegacia de Polícia tampouco caracteriza conduta capaz de causar dano moral ao autor. As providências independem de provimento jurisdicional e, em regra, são indeferidas em casos semelhantes, pois a própria parte pode, se o caso, comunicar diretamente às citadas instituições eventual prática que julgue ilícita.
+Não houve qualquer mácula à imagem e à honra do autor perante servidores, Juízo e, muito menos, cidadãos (não parece crível que cidadãos em geral fiquem entrando no sítio eletrônico do TJSP para verificar os processos patrocinados pelo autor)"
+Para além de a ré ter aludido a uma "suspeita" captação indevida de clientes, sem afirmação direta ou categórica, a manifestação está inserida no contexto da defesa que apresentou em processo judicial que tramitava contra si, de modo a configurar exercício regular de um direito, que exclui eventual ilicitude do ato e, portanto, a responsabilidade civil, nos termos do art. 188, inc. I, do Código Civil: Não constituem atos ilícitos: I - os praticados em legítima defesa ou no exercício regular de um direito reconhecido.
+(..)
+É certo que todo excesso deve ser coibido. O abuso de direito também tem protagonismo no cenário atual da legislação civil, comproeminente conteúdo ético. Daí por que configura ato ilícito o exercício do direito que desborda dos limites da boa-fé objetiva, como dispõe expressamente o art. 187 do Código Civil: Também comete ato ilícito o titular de um direito que, ao exercê-lo, excede manifestamente os limites impostos pelo seu fim econômico ou social, pela boa-fé ou pelos bons costumes.
+(..)
+Mas como visto, além de se tratar de defesa em processo judicial, em plena manifestação do contraditório, a ré aludiu a uma "suspeita" conduta irregular do patrono, sem que se possa disso inferir a ilicitude por ele aludida. Entendo, assim, que a sentença dirimiu com acerto a controvérsia ao julgar improcedente o pedido, de modo que, acrescida dos argumentos ora tecidos, é de ser mantida como proferida.
+Não há como ultrapassar as conclusões do Tribunal de origem sem o reexame do conjunto fático-probatório dos autos, providência vedada nesta sede especial, a teor da Súmula n. 7/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
