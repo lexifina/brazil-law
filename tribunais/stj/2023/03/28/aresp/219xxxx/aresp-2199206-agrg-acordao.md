@@ -1,0 +1,75 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros João Batista Moreira (Desembargador convocado do TRF1), Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO. ABSOLVIÇÃO. IMPOSSIBILIDADE. NECESSIDADE DE REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO DELINEADO NOS AUTOS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7 DO STJ.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada, pelos próprios fundamentos.
+II - Conforme ressaltado no decisum monocrático reprochado, "Para rever o posicionamento da Corte estadual, seria necessário o reexame da moldura fático-probatória dos autos" (AgRg no HC n. 745.277/SC, Sexta Turma, Rel. Min Rogério Schietti Cruz, DJe de 24/11/2022).
+Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo manejado por MARCELO DIOGO MOREIRA SALLES em face da r. decisão que inadmitiu o recurso especial interposto contra decisão do eg. Tribunal de Justiça do Estado de São Paulo, que inadmitiu o apelo nobre.
+Consta dos autos que o ora agravante foi condenado como incurso no art. 180, caput, do Código Penal, à pena de 1 (um) ano de reclusão, no regime aberto, mais 10 (dez) dias-multa. Houve substituição por penas restritivas de direitos (fls. 182-190).
+Irresignada, a il. Defesa interpôs apelação perante o eg. Tribunal de origem, que negou-lhe provimento (fl. 244-249), conforme o v. aresto assim ementado:
+"Apelação. Crime de receptação dolosa. Sentença condenatória. Recurso da defesa. 1. Quadro probatório suficiente para a responsabilização penal do apelante. A prova do dolo no crime de receptação é essencialmente indiciária, tomando-se em conta as circunstâncias em que se deu a ação do agente. Condenação mantida. 2. Sanção que comporta redução. Recurso parcialmente provido."
+No recurso especial, interposto com fulcro no artigo 105, inciso III, alínea a, da Constituição Federal (fls. 254-262), o insurgente alega "violação ao art. 386, em seus incisos V e VII".
+Afirma, para tanto, que "Muito embora a sentença e o acórdão digam que a versão dada pelo recorrente não é coesa, não há provas nos autos suficientes para incrimina-lo" (fl. 257).
+Aponta, ainda, que "Temos apenas o testemunho dos policiais militares e, não parece crível que estes, no exercício de suas funções, com dezenas de ocorrências diariamente possam dar depoimentos sólidos acerca de um fato tão controverso" (fl. 257).
+Aduz, outrossim, que "Ainda, o MP desistiu da oitiva da vítima, o que entendia o recorrente como essencial para o deslinde, tornando o conjunto probatório frágil no que tange à uma pretensa condenação" (fl. 257).
+Por fim, "REQUER que seja conhecido e provido integralmente o presente Recurso Especial para: (a) Seja reconhecida a ausência de elementos probatórios, absolvendo-se o recorrente, nos termos do art. 386, V e VII do CPP; (b) Caso seja mantida a condenação, requer-se a substituição da pena restritiva de direitos por pecuniária" (fl. 262).
+Apresentadas as contrarrazões (fls. 267-273), sobreveio juízo negativo de admissibilidade fundado na incidência da Súmula n. 7/STJ e Súmula n. 284/STF (fls. 276- 277).
+Nas razões do agravo, postula-se o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários a sua admissão (fls. 280-291), bem como reitera as argumentações vertidas no apelo especial.
+A d. Subprocuradoria-Geral da República apresentou parecer pelo desprovimento do agravo em recurso especial (fls. 317-322):
+"AGRAVO EM RECURSO ESPECIAL. RÉU CONDENADO PELA PRÁTICA DE RECEPTAÇÃO (ART. 180, CAPUT, DO CP).
+PEDIDO DE ABSOLVIÇÃO POR AUSÊNCIA DE PROVAS. NÃO CONHECIMENTO DO RECURSO ESPECIAL. SÚMULA 7/STJ.
+PLEITO DE CONVERSÃO DA PRESTAÇÃO DE SERVIÇOS À COMUNIDADE EM PENA PECUNIÁRIA. INVIABILIDADE. TIPO PENAL QUE PREVÊ SANÇÃO PRIVATIVA DE LIBERDADE CUMULADA COM MULTA. INTELIGÊNCIA DA SÚMULA 171/STJ.
+PARECER PELO CONHECIMENTO E, NO MÉRITO, PELO DESPROVIMENTO DO AGRAVO."
+O apelo extremo foi inadmitido diante da incidência da Súmula n. 7 do STJ.
+A  decisão  de  fls.  324-329,  conheceu do  agravo  para não conhecer do recurso especial, ante a incidência da Súmula n. 7 do STJ.
+No regimental (fls. 332-337), sustenta o agravante que a aplicação do óbice da Súmula n. 7 do STJ é equivocada.
+Alega que "é o presente AGRAVO para que a Turma em julgamento colegiado aprecie o Recurso Especial que clama não existir prova da conduta em dolo criminal para embasar a condenação" (fls . 336).
+Pugna, ao final, pela reconsideração da decisão impugnada ou, subsidiariamente, pela apresentação do recurso ao Colegiado.
+Por manter o decisum, trago o feito a julgamento do Colegiado.
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO. ABSOLVIÇÃO. IMPOSSIBILIDADE. NECESSIDADE DE REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO DELINEADO NOS AUTOS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7 DO STJ.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada, pelos próprios fundamentos.
+II - Conforme ressaltado no decisum monocrático reprochado, "Para rever o posicionamento da Corte estadual, seria necessário o reexame da moldura fático-probatória dos autos" (AgRg no HC n. 745.277/SC, Sexta Turma, Rel. Min Rogério Schietti Cruz, DJe de 24/11/2022).
+Agravo regimental desprovido.
+VOTO
+Em que pesem os argumentos do agravante, a decisão impugnada deve ser mantida.
+Não  obstante  os  argumentos  apresentados  pela combativa defesa  ,  o  presente  recurso  não  comporta  provimento.
+O  recorrente  interpôs  recurso  especial  alegando violação do art. 386, incisos V e VII, do Código de Processo Penal, uma vez que as provas constantes dos autos não são suficientes para embasar uma sentença condenatória .
+O  eg.  Tribunal  a  quo,  ao  manter a condenação do agravante  pelo  crime  de  receptação,  apreciou  as  provas  dos  autos  e  consignou  (fls.  244-249):
+"Inquestionável que o apelante foi surpreendido pelos agentes públicos quando conduzia o automóvel.
+Neste passo, em seguros depoimentos, os policiais militares Maycon Diniz Pereira e Francisco Soares Diniz Júnior (mídia digital fls. 150/151) narraram, em suma, que, na data dos fatos, suspeitaram da atitude do acusado, que, ao avistar a viatura, mudou rapidamente de faixa e estacionou em um mercado. Realizada a abordagem, encontraram R$ 2.000,00, que ele afirmou se destinavam ao pagamento de um agiota. Em consulta ao veículo, constataram que o emplacamento não coincidia com o chassi. Informalmente, o acusado admitiu ciência quanto à procedência ilícita do bem, e disse que rapidamente o repassaria.
+O que, a bem da verdade, foi admitido pelo acusado, conquanto tenha repelido a acusação (fls. 57 e mídia digital fls. 150/151).
+Na fase policial, confirmou estar na posse do veículo, mas negou ter conhecimento sobre a sua procedência ilícita. Relatou que havia recebido o veículo de um agiota e o levaria para outro agiota no supermercado, pelo que receberia comissão de R$ 500,00.
+Em seu interrogatório judicial, Marcelo tornou a afirmar que não sabia da procedência ilícita do veículo, que havia recebido de um agiota para entregar a outro agiota, no supermercado, a fim de saldar um saldo de R$ 1.900,00 de uma dívida que possuía.
+A versão a acenada boa-fé, todavia, não vinga. Pouco verossímil mercê das regras de experiência comum, acha-se escoteira nos autos.
+Com efeito, as circunstâncias estão a mostrar que o acusado tinha ciência da origem espúria do bem. Não apresentou qualquer documentação relativa ao veículo, nem tampouco forneceu explicação plausível que conferisse juridicidade à posse do automóvel, que tinha sinais identificadores adulterados. Fatores que, somados à natureza do bem, descortinam o dolo.
+Deveras, no caso de receptação dolosa, a presença do elemento subjetivo ciência da origem ilícita do bem - pode derivar "de conjecturas ou circunstâncias exteriores, ou seja, do comportamento ab externo, do modus operandi" do agente, porquanto "não há como aferir-se o dolo de maneira direta ou positiva" (TACRIM- SP, RJDTACrim 35/286, rel. José Habice. Na mesma linha, TACRIM-SP RJTACrim 30/63, rel. Barbosa de Almeida, apud Alberto Silva Franco e outros, Código Penal e Sua Interpretação Jurisprudencial, RT, vol. 2, Parte Especial, 7ª edição, pág. 2.960). Vale dizer, admite-se que o conhecimento, por parte do agente, da procedência espúria do bem venha a ser demonstrado por indícios (cfr. jurisprudência mencionada por JULIO FABBRINI MIRABETE, Código Penal Interpretado, Atlas, 5ª edição, págs. 1670/1671).
+Acertada, pois, a condenação, eis que a conduta do réu subsume-se ao suporte fático previsto no artigo 180 "caput", do Código Penal.
+4. A sanção não comporta alteração.
+É que as penas acabaram estabelecidas no mínimo legal, com regime inicial aberto para pena privativa de liberdade, substituída por uma pena restritiva de direito, o que se encontra dentro da sistemática legal.
+Oportuno salientar que não se afigura recomendável a substituição da pena privativa de liberdade por pena de multa quando, por força do preceito secundário da norma penal, o crime já comportar a imposição da pena de multa cumulativa com a pena privativa de liberdade (STJ, AgRg no AREsp nº 1.665.694, rel. Min. Reynaldo Soares da Fonseca; AgRg no HC nº 398,255, rel. Min. Rogerio Schietti Cruz; AgRg no HC nº 462.531, rel. Min. Joel Ilan Paciornik)
+5. Ante o exposto, nego provimento ao recurso."
+Em verdade, a eg. Corte local, após detida análise do conjunto probatório colhido no curso da instrução criminal, concluiu que o conjunto probatório revelam que o requerente tinha ciência da origem criminosa do bem e não detinha o documento do veículo.
+Forçoso  afirmar  que,  diante  das  balizas  estabelecidas  pelas  instâncias  ordinárias,  a  partir  do  exame  dos  elementos  carreados  aos  autos,  não  se  mostra  possível  ,  sem  que  seja  feita  nova  incursão  no  acervo  fático-probatório,  providência  inviável  em  sede  de  recurso  especial,  a  teor  do  enunciado  n.  7  da  Súmula  do  Superior  Tribunal  de  Justiça.
+Nesse  sentido  os  seguintes  precedentes:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. RECEPTAÇÃO. CIÊNCIA DA ORIGEM ILÍCITA DO BEM. ABSOLVIÇÃO. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. REGIME FECHADO. REINCIDÊNCIA E MAUS ANTECEDENTES. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Uma vez que a condenação dos recorrentes se fundamentou em fatos e provas concretas carreadas aos autos que evidenciaram, de maneira inequívoca, que eles conheciam a procedência ilícita do bem apreendido, não há como proclamar a absolvição quanto ao delito de receptação.
+2. Para rever o posicionamento da Corte estadual, seria necessário o reexame da moldura fático-probatória dos autos, o que é vedado na via estreita do habeas corpus.
+3. Não há constrangimento ilegal na manutenção do regime inicial fechado ao réu reincidente quando, não obstante a pena haja sido fixada em menos de 4 anos de reclusão, há circunstância judicial desfavorável.
+4. Agravo regimental não provido" (AgRg no HC n. 745.277/SC, Sexta Turma, Rel. Min Rogério Schietti Cruz, DJe de 24/11/2022).
+"PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO. AUSÊNCIA DE INDICAÇÃO PRECISA DE DISPOSITIVO DE LEI FEDERAL SUPOSTAMENTE VIOLADO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF ABSOLVIÇÃO. ORIGEM LÍCITA DOS BENS. ÔNUS DA PROVA DA DEFESA. NÃO COMPROVAÇÃO. REVERSÃO DO JULGADO PELO TRIBUNAL DE ORIGEM. REVISÃO DO CONTEÚDO FÁTICO-PROBATÓRIO. SÚMULA N. 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A parte agravante não indicou o dispositivo legal tido por violado, o que implica na deficiência de fundamentação do recurso especial, atraindo a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia").
+2. O Tribunal a quo, em decisão devidamente motivada, entendeu que, do caderno instrutório, emergem elementos suficientemente idôneos de prova a enaltecer a tese de autoria delitiva imputada pelo Parquetao acusado, a corroborar, assim, a conclusão aposta na motivação do decreto condenatório, pelo delito de receptação. Assim, rever os fundamentos utilizados pela Corte Estadual, para se concluir pela absolvição do acusado, em razão da ausência de dolo, uma vez que o acusado não tinha consciência da origem espúria do veículo, como requer a defesa, importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula 7/STJ.
+3. A jurisprudência do Superior Tribunal de Justiça se firmou no sentido que, no crime de receptação, se o bem houver sido apreendido em poder do acusado, cabe à defesa apresentar prova acerca da origem lícita do bem ou de sua conduta culposa, nos termos do disposto no art. 156 do Código de Processo Penal, sem que se possa falar em inversão do ônus da prova (AgRg no AREsp 979.486/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 21/3/2018). Precedentes.
+4. Agravo regimental não provido" (AgRg no AREsp n. 2.039.013/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 18/3/2022).
+"PROCESSO PENAL E PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. "OPERAÇÃO DEDICADO". FURTO QUALIFICADO. RECEPTAÇÃO. QUADRILHA. AUSÊNCIA DE OMISSÃO PELO TRIBUNAL DE ORIGEM. VIOLAÇÃO DO ART. 619 DO CPP. NÃO OCORRÊNCIA. AUTORIA E MATERIALIDADE COMPROVADAS. AFASTAMENTO. SÚMULA 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não há falar em omissão, uma vez que o acórdão recorrido apreciou as teses defensivas com base nos fundamentos de fato e de direito que entendeu relevantes e suficientes à compreensão e à solução da controvérsia, o que, na hipótese, revelou-se suficiente ao exercício do direito de defesa.
+2. O Tribunal a quo, em decisão devidamente motivada, entendeu pela condenação dos envolvidos, em razão do vasto conjunto de provas presente nos autos, que se comprovou pela materialidade e autoria delitiva. Assim, rever tais fundamentos para concluir pela absolvição, em razão da negativa da autoria e/ou insuficiência de prova para a condenação, como requer a parte recorrente, importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula 7/STJ.
+3. Agravo regimental não provido " (AgRg no HC n. 1.847.763/RS, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 20/8/2021).
+Assim, o agravante não aduziu qualquer argumento apto a ensejar a alteração da decisão ora agrava da, a qual deve ser mantida por seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
