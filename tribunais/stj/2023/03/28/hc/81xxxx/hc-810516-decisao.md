@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Luis Carlos Queiros dos Santos - condenado pela prática dos delitos descritos no art. 157, § 2º, II, e § 2º-A, I, do Código Penal, às penas de 8 anos, 10 meses e 20 dias de reclusão, em regime inicial fechado, além do pagamento de 21 dias-multa (Processo n. 1500417-08.2021.8.26.0594, da 1ª Vara Criminal da comarca de Bauru/SP) -, apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo, que, nos autos da Apelação n. 1500417-08.2021.8.26.0594, negou provimento ao apelo defensivo.
+Aqui, alegando violação do art. 68, parágrafo único, do Código Penal, requer-se, em liminar e no mérito, seja concedida a ordem, a fim de que seja aplicada somente uma das causas de aumento na terceira fase da dosimetria da pena, diante da falta de fundamentação concreta para a aplicação de duas causas de aumento no crime de roubo (concurso de pessoas e uso de arma de fogo), bem como que se fixe o regime semiaberto para o início do cumprimento de pena (fls. 17/18).
+Estes autos foram a mim distribuídos por prevenção do HC n. 686.243/SP; HC n. 808.535/SP; e do HC n. 809.730/SP.
+É o relatório.
+De início, registro que, em consulta à página eletrônica do Tribunal de origem aos autos da Apelação n. 1500417-08.2021.8.26.0594, houve a interposição simultânea de recurso especial, pendente de processamento, em que a defesa do paciente também suscitou a violação do art. 68 do Código Penal, aduzindo que o caso dos autos comporta a aplicação de apenas uma das majorantes, ante a inexistência de fundamentação idônea para aplicação concomitante das duas causas de aumento do crime de roubo.
+Em casos que tais, a orientação jurisprudencial desta Corte é no sentido da inadmissão do habeas corpus, a fim de que matéria seja debatida na via recursal adequada (HC n. 482.549/SP, Ministro Rogerio Schietti Cruz, Terceira Seção, julgado em 11/3/2020, DJe 3/4/2020).
+Acerca da tese remanescente, relativa à suposta ilegalidade no regime prisional fixado, não diviso constrangimento ilegal, pois o regime inicial fechado é o único adequado considerando o patamar da pena estipulada (superior a 8 anos).
+Ante o exposto, conheço em parte do writ e, nessa extensão, denego a ordem (art. 34, XVIII, a e XX, do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. WRIT IMPETRADO CONCOMITANTEMENTE AO RECURSO ESPECIAL NA CORTE DE ORIGEM. HC N. 482.549/SP. ADMISSIBILIDADE LIMITADA À TESE SOBEJANTE. SUPOSTA ILEGALIDADE NA FIXAÇÃO DO REGIME. IMPROCEDÊNCIA. PENA SUPERIOR A 8 ANOS.
+Writ conhecido em parte e, nessa extensão, denegada a ordem.
