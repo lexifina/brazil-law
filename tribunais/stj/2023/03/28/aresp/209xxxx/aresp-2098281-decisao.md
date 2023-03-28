@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de Pedido de Tutela de urgência para suspender os atos da Prefeitura do Rio de Janeiro.
+A parte aduz:
+Eminente Relator, malgrado os autos do presente Agravo em Recurso Especial ainda estariam transitando por essa Egregia SEGUNDA TURMA DO SUPERIOR TRIBUNAL DE JUSTIÇA, fato é que a ora agravante foi surpreendida na manha de hoje ( 08.02.2023 ), com uma verdadeira "tropa de choque ", cumprindo uma determinação da Prefeitura da Cidade do Rio de Janeiro, que, diametralmente oposto e de caráter EVIDENTEMENTE ABUSIVO, AUTORITARIO E AS AVESSAS AO ESTADO DE DIREITO iniciou um eventual cumprimento do Acórdao dessa Egregia SEGUNDA TURMA DO STJ, sem sequer, primeiro primeiro primeiro primeiro, qualquer pedido feito à essa Douta Relatoria no sentido de se dar cumprimento imediato ao Acordao; e, segundo, sem que os auto s baixassem à Vara de Fazenda.
+Ao final, pleiteia:
+seja DEFERIDO NOSSO PEDI DEFERIDO NOSSO PEDIDO E IMEDIATAMENTE EXPEDIDA LIMINAR DIRIGIDA À PREFEITURA DA CIDADE DO RIO DE JANEIRO PARA QUE CESSE , SOB PENA PREFEITURA DA CIDADE DO RIO DE JANEIRO PARA QUE CESSE , SOB PENA DE MULTA A SER FIXADA POR VOSSA EXCELENCIA QUALQUER ATIVIDADE ENCETADAS NO TERRENO DE PROPRIEDADE DA PARTE AGRAVANTE - ESPOLIO DE MANOEL ABRANTES - HAJA VISTA O FATO DE QUE SEQUER OS AUTOS FORAM ENVIADOS PARA A INSTANCIA INFERIOR AFIM DE QUE FOSSE CUMPRIDO O ACORDAO CUMPRIDO e mais do que isso, EXISTEM FAMILIAS RESIDINDO NO LOCAL O QUE RECLAMA UMA NOTIFICA NO LOCAL PREVIA, DO JUDICIARIO ATE MESMO PARA QUE AS REFERIDAS FAMILIAS TENHAM PRAZO PARA DESOCUPAR, EVENTUALMENTE O IMOVEL .
+É o relatório.
+Decido.
+O pedido de tutela de urgência deve ser indeferido, porque ausente os requisitos para tanto, em especial o fumus boni iurs.
+Trata-se de Ação Declaratória de nulidade de desapropriação em que a parte autora, ora requerente, ficou vencida.
+A publicação do acórdão do Agravo em Recurso Especial, com resultado desfavorável, ocorreu em 15.12.2022.
+A parte ora postulante, sequer informa ter oposto Embargos de Declaração, ou qualquer recurso contra o citado aresto. Assim não se vislumbra nenhuma possibilidade de reforma do julgado referido, nem possibilidade de concessão de efeito suspensivo ao decisum prolatado. Portanto, inviável a concessão de tutela de urgência. Nessa linha:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO DE INSTRUMENTO. CONTRIBUIÇÃO AO SALÁRIO-EDUCAÇÃO. LEGITIMIDADE DO TRIBUTO. REFIS. ADESÃO. DEPÓSITOS JUDICIAIS. CONVERSÃO EM RENDA DA UNIÃO. POSSIBILIDADE. APELO ESPECIAL. EFEITO SUSPENSIVO. REQUISITOS LEGAIS. AUSENTES. ALEGAÇÕES DE VÍCIOS NO ACÓRDÃO. INEXISTENTES.
+I - Na origem, trata-se de agravo de instrumento contra decisão que, em ação declaratória cumulada com repetição de indébito em fase de cumprimento de sentença, determinou a conversão dos depósitos judiciais em pagamento definitivo à União. Interposto recurso especial foi inadmitido, com fundamento na incidência dos óbices sumulares n. 7 e 83, ambos do STJ. Nesta Corte, indeferiu-se a atribuição de efeito suspensivo ao agravo em recurso especial.
+II - De acordo com o art. 995, parágrafo único, do Código de Processo Civil de 2015, em caso de recurso que em regra não é dotado de efeito suspensivo, a eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave ou de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso.
+III - Por sua vez, o art. 1.029, § 5º, inciso I, do CPC/2015 estabelece que o pedido de concessão de efeito suspensivo a recurso especial poderá ser formulado por requerimento dirigido ao Tribunal Superior respectivo, no período compreendido entre a interposição do recurso e sua distribuição, ficando o relator designado para seu exame prevento para julgá-lo.
+IV - Para a excepcional concessão do efeito suspensivo, há se exigir a presença cumulada dos dois requisitos legais, quais sejam, a possibilidade de risco de dano grave ou de difícil ou impossível reparação e a probabilidade de provimento do recurso.
+V - Verifica-se que o Tribunal a quo, ao tratar da questão, afirma que o assunto já foi resolvido no âmbito de agravo de instrumento julgado em 24/1/2014, o que inviabilizaria o recurso vinculado.
+VI - A questão vem sendo resolvida na direção do julgado definido no Tribunal a quo, no sentido de que, uma vez realizado o depósito, o valor fica indisponível até o trânsito em julgado da sentença, conforme se afere do seguinte julgado: REsp 252.432/SP, Rel. Ministro Francisco Falcão, Rel. p/ Acórdão Ministro Teori Albino Zavascki, Primeira Turma, julgado em 2/6/2005, DJ 28/11/2005.
+VII - Nesse panorama, consigna-se que os empeços acima referidos mitigam a plausibilidade jurídica do apelo nobre vinculado, não se apresentando ainda delimitado o risco de efetividade do recurso.
+VIII - Agravo interno improvido.
+(AgInt na Pet n. 12.948/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 3/3/2020, DJe de 11/3/2020.)
+Ante o exposto, indefiro o pedido postulado.
+Publique-se.
+Intimem-se.
