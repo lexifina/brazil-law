@@ -1,0 +1,5 @@
+DECISÃO
+Decisão proferida na execução de registro nº 2016/0174802-5, oriunda do mesmo título judicial, homologou o acordo entabulado entre o SINDICATO NACIONAL DOS AUDITORES FISCAIS DA RECEITA FEDERAL DO BRASIL e a UNIÃO, condicionando a expedição das requisições de pagamento à apresentação do Termo de Declaração Individual e dos dados exigidos pela legislação para instrução do ofício requisitório.
+Mediante a petição de fls. 1337-1345, a UNIÃO apresenta planilhas de valores devidos, documento pessoal e Termo de Declaração Individual (assinado dentro do prazo indicado) de FRANCISCO VILARDO, com autorização de destaque de honorários, para possibilitar a expedição das respectivas requisições de pagamento.
+Ante o exposto, tendo em vista o cumprimento das condições estabelecidas na decisão que homologou o acordo entre as partes, determino a expedição da requisição de pagamento em favor do interessado acima nominado , com destaque de honorários advocatícios, observados os instrumentos contratuais acostados aos autos e o valor apurado pela UNIÃO.
+Publique-se. Intimem-se.
