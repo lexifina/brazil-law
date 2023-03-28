@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial interposto por TJONG HIONG OEI, com respaldo nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado (e-STJ fl. 223):
+EMBARGOS À EXECUÇÃO DE DÍVIDA ATIVA. PROVA. APELAÇÃO. FATOS EXISTENTES NO MOMENTO DA IMPUGNAÇÃO. INADMISSIBILIDADE.
+Não é admissível que, em apelação, seja produzida prova tendente a demonstrar fatos que não são novos, nos termos do artigo 435 doCPC.
+Embargos de declaração acolhidos para apreciar questão relativa à prescrição em aresto com a seguinte ementa (e-STJ fl. 262):
+EMBARGOS DE DECLARAÇÃO. OMISSÃO. TAXA ANUAL POR HECTARE. PRAZO PRESCRICIONAL. TERMO INICIAL. EFEITOS INFRINGENTES.
+1. Acolhem-se, com efeitos infringentes, embargos de declaração interpostos para suprir omissão efetivamente existente no acórdão.
+2. Salvo no caso de dívidas vencidas antes da publicação da Leinº 9.821, de 1999, o prazo prescricional para a cobrança de créditos decorrentes de receitas patrimoniais, como é a Taxa Anual por Hectare (TAH), é de cinco anos, contados do lançamento, nos termos do artigo 47, II, da Lei nº 9.636, de 1998.
+Segundos aclaratórios acolhidos para sanar erro material quanto à data de constituição do crédito em debate (e-STJ fls. 316/320).
+Em suas razões, a parte recorrente aponta, além de dissídio jurisprudencial, violação do art. 47, da Lei n. 9.636.1998, sustentando que a Taxa Anual por Hectare - TAH estaria prescrita, porquanto seu vencimento ocorreu em 31/07/2000, e as cobranças anteriores a 2004 devem respeitar prazo prescricional de 5 anos.
+Aduz que a multa pelo não recolhimento do valor devido em julho de 2000 foi objeto de auto de infração em 2005, inexistindo lógica de se exigir multa se a obrigação ainda não foi constituída, tampouco razoabilidade no ajuizamento de demanda para exigência de obrigação vencida há 9 anos.
+Contrarrazões às e-STJ fls. 396/397.
+Juízo positivo de admissibilidade pelo Tribunal de origem à e-STJ fl. 400.
+Passo a decidir.
+Verifica-se que a parte recorrente aponta ofensa apenas ao art. 47 da Lei n. 9.636/1998 sem especificar o inciso ou alínea sob a qual recai a sua insurgência.
+Nesses casos, esta Casa de Justiça tem entendido que a impugnação se refere apenas sob a caput do artigo indicado.
+Na hipótese em apreço, assim dispõe o dispositivo suspostamente violado: "Art. 47. O crédito originado de receita patrimonial será submetido aos seguintes prazos:".
+Nota-se que o referido dispositivo é genérico, não apresentando qualquer comando normativo apto a sustentar a insurgência da parte recorrente, circunstância que demonstra a deficiência na fundamentação e atrai o óbice da Súmula 284 do STF.
+Nesse sentido:
+PROCESSUAL CIVIL. TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. MULTAS. ANS. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. ANULAÇÃO DAS PENALIDADES. IMPORCEDÊNCIA. CERCEAMENTO DE DEFESA. DEFICIÊNCIA RECURSAL. AUSÊNCIA EM APONTAR O DISPOSITIVO LEGAL VIOLADO. ALEGAÇÃO GENÉRICA. APLICAÇÃO DA SÚMULA N. 284 DO STF. IMPOSSIBILIDADE DE AMPLICAÇÃO DA COBERTURA. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO E NECESSIDADE DE INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INICIDÊNCIA DAS SÚMULAS N. 5 E 7, AMBAS DO STJ.
+ ..
+V - Quanto ao art. 3º da Lei n. 9.784/1999, na espécie, incide o óbice da Súmula n. 284 do STF, uma vez que não há a indicação clara e precisa do dispositivo de lei federal tido por violado, pois nas razões do recurso especial não se particularizou o inciso ou a alínea sobre o qual recairia a referida ofensa, incidindo, por conseguinte, o citado enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+VI - A indicação genérica do artigo de lei que teria sido contrariado induz a compreensão de que a violação alegada é somente de seu caput, que, no caso, traz em seu texto uma mera introdução ao regramento legal contido nos incisos ou nas alíneas. Nesse sentido:
+AgInt no AREsp n. 1.558.460/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 11/3/2020, AgInt no AREsp n. 1.229.292/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 4/9/2018; AgInt no AgRg no AREsp n. 801.901/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 1º/12/2017; AgInt nos EDcl no AREsp n. 875.399/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 1º/8/2017; AgInt no REsp n. 1.679.614/PE, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 18/9/2017; e AgRg no REsp n. 695.304/RJ, relator Ministro Francisco Falcão, Primeira Turma, DJ de 5/9/2005.
+VII - O óbice da Súmula n. 284 do STF, em razão da falta de comando normativo dos artigos de lei federal apontados como violados ou como objeto da divergência jurisprudencial, incide em duas situações: quando não têm correlação com a controvérsia recursal, por versarem sobre tema diverso; e quando sua indicação não é apta, por si só, para sustentar a tese recursal, seja porque a legislação apontada tem caráter genérico, seja porque, embora consignem em seu texto comando específico, exigiria a combinação com outros dispositivo legais.
+VIII - Verifica-se, da leitura das razões do recurso especial, que o art. 44 indicado como violado não tem comando normativo para amparar a tese recursal.
+IX - A indicação genérica do artigo de lei que teria sido contrariado, quando ele contém desdobramentos em parágrafos, incisos ou alíneas, induz à compreensão de que a violação alegada é somente de seu caput. Nesse sentido, vale citar os seguintes julgados:
+(AgInt no REsp n. 1.764.763/PR, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 27/11/2020 e AgInt no AREsp n. 1.674.879/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 12/3/2021, REsp n. 1.798.903/RJ, relator para o acórdão Ministro Reynaldo Soares da Fonseca, Terceira Seção, DJe de 30/10/2019; AgInt no REsp n. 1.844.441/RN, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 14/8/2020; AgInt no AREsp n. 1.524.220/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 18/5/2020; AgRg no AREsp n. 1.280.513/RJ, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 27/5/2019  .. .
+ ..
+XVI - Agravo interno improvido.
+(AgInt no AREsp n. 1.833.676/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 20/9/2021, DJe de 22/9/2021.).
+AGRAVO INTERNO EM RECURSO ESPECIAL. PROCESSO CIVIL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PRESCRIÇÃO INTERCORRENTE DA PRETENSÃO EXECUTÓRIA NO ÂMBITO DO CPC/73. CABIMENTO, INDEPENDENTEMENTE DE INTIMAÇÃO PARA PARA DAR ANDAMENTO AO FEITO, NOS TERMOS DO IAC NO RESP 1604412/SC. NO ENTANTO, HÁ NECESSIDADE DE INTIMAÇÃO DO EXEQUENTE PARA OPOR ALGUM FATO IMPEDITIVO À INCIDÊNCIA DA PRESCRIÇÃO. CONTRADITÓRIO JÁ EFETIVADO.
+1. "É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC/2015 se faz de forma genérica, sem especificar quais foram os incisos violados. Aplica-se, na hipótese, o óbice da Súmula 284 do STF". (AgInt no AREsp n. 1.530.183/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 19/12/2019).
+ ..
+3. Agravo interno não provido. (AgInt nos EDcl no REsp n. 1.861.453/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 14/3/2022, DJe de 18/3/2022.).
+Convém registrar que "resta prejudicada a análise da divergência jurisprudencial quando a tese sustentada esbarra em óbice sumular quando do exame do recurso especial pela alínea "a" do permissivo constitucional (AgRg no AREsp 278.133/RJ, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 24/09/2014).
+Ante o exposto, com base no art. 255, §4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários, nos termos do art. 85, § 11, do CPC/2015, visto que, conforme instâncias ordinárias, o crédito exigido já foi acrescido de encargos legais .
+Publique-se. Intimem-se.
