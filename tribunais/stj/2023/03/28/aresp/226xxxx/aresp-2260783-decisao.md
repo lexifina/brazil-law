@@ -1,0 +1,22 @@
+DECISÃO
+Na origem trata-se de ação de procedimento comum referente a termo de autorização de uso de área pública. Na sentença julgou-se o pedido procedente. No Tribunal a quo a sentença foi mantida. O valor da causa foi fixado em R$ 10.000,00 (Dez mil reais).
+O recurso especial foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, contra acórdão com o seguinte resumo de ementa:
+AÇÀO DE PROCEDIMENTO COMUM - SANEAMENTO BÁSICO - USO DE FAIXA DE DOMÍNIO DE RODOVIA PELA SABESP - COBRANÇA DE VALORES PELA CONCESSIONÁRIA - IMPOSSIBILIDADE - Ilegalidade da cobrança de tarifa pela concessionária de rodovia pelo uso de faixa de domínio por sociedade empresária prestadora de serviço público ou de interesse público, uma vez que a faixa de domínio de rodovia é considerada bem de uso comum, cuja cobrança tarifária não pode superar os limites da autorização constitucional trazida pelo artigo 150, inciso V, da Constituição Federal - Ademais, a cobrança resultaria em ofensa ao art. 11 da Lei nº 8.987/95, na medida em que oneraria a execução de outro serviço público, o fornecimento de água e a coleta de esgoto - Precedentes deste Egrégio Tribunal de Justiça - Manutenção da sentença de procedência da ação, e improcedência da reconvenção, que se afigura de rigor.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+Isso porque, a meu ver, há que se reconhecer a ilegalidade da exigência de quantia pela ocupação da faixa de domínio, consubstanciada no "Termo de Compromisso e Permissão de Uso e outras Avenças CCRACT-ND-18337/16".
+(..)
+No presente caso, não é possível extrair, do dispositivo supracitado, a autorização para exploração da faixa de domínio, nos moldes pretendidos pela concessionária apelante.
+(..)
+Na verdade, a possibilidade de criação de outras receitas está diretamente relacionada ao interesse econômico da concessionária, que não pode preponderar sobre o interesse público, conforme princípio basilar que rege direito público.
+(..)
+Além disso, deve-se ter em mente que a autorização legislativa invocada prevê expressamente que a finalidade de novas receitas é favorecer a modicidade das tarifas. No caso em apreço, todavia, a finalidade não apenas não é atendida, como ainda acaba por onerar a execução de outro serviço público, o fornecimento de água e a coleta de esgoto.
+(..)
+Tomada essa premissa, não se afigura razoável reputar pela legalidade da cobrança de preço público pelo uso de faixa de domínio entre concessionárias de serviço público.
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria, bem como o contrato de permissão de uso. Assim, para se chegar à conclusão diversa seria necessário o reexame tanto das cláusulas da referida avença quanto do conjunto fático-probatório, o que é vedado pelos enunciados ns. 5 e 7 das Súmulas do STJ, segundo os quais, respectivamente, "A simples interpretação de cláusula contratual não enseja recurso especial" e "A pretensão de simples reexame de provas não enseja recurso especial".
+Relativamente às demais alegações de violação dos arts. 103 do Código Civil de 2002 e 18 da Lei n. 8.987/1995, esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de or igem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
