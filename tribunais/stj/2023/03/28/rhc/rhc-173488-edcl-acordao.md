@@ -1,0 +1,47 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA. PRÁTICA DE DELITOS DENTRO DE UNIDADE PRISIONAL. PREVARICAÇÃO. MERA REDISCUSSÃO DE MATÉRIA JÁ DECIDIDA. PREQUESTIONAMENTO DE DISPOSITIVOS CONSTITUCIONAIS. ACLARATÓRIOS REJEITADOS.
+1. A pretensão de rediscussão de matéria já decidida é incompatível com a natureza dos embargos de declaratórios. Precedentes.
+2. Não cabe a esta Corte manifestar-se, em embargos de declaração, ainda que para fins de prequestionamento, sobre suposta violação a artigos da Constituição da República, sob pena de usurpação da competência do Supremo Tribunal Federal.
+3. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos. Os Srs. Ministros Joel Ilan Paciornik, Messod Azulay Neto, João Batista Moreira (Desembargador convocado do TRF1) e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR . MINISTRO RIBEIRO DANTAS (Relator):
+Trata-se de embargos de declaração opostos por SOSTENES RODRIGUES BRASIL JUNIOR contra acórdão da Quinta Turma, assim ementado:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA. PRÁTICA DE DELITOS DENTRO DE UNIDADE PRISIONAL. PREVARICAÇÃO. DENÚNCIA DETALHADA.
+JUSTA CAUSA CARACTERIZADA. PROVAS A SEREM EXAMINADAS NO CURSO DA INSTRUÇÃO PROCESSUAL. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO DESPROVIDO.
+1. Nos termos do entendimento consolidado desta Corte, o trancamento da ação penal ou inquérito policial por meio do habeas corpus é medida excepcional. Por isso, será cabível somente quando houver inequívoca comprovação da atipicidade da conduta, da incidência de causa de extinção da punibilidade ou da ausência de indícios de autoria ou de prova sobre a materialidade do delito.
+2. Na exordial acusatória, consta detalhada narrativa acerca da existência de organização criminosa em pleno funcionamento na Unidade Prisional de Anápolis, com a participação de agentes penitenciários, que proporcionavam aos custodiados o acesso a celulares, drogas, saídas noturnas, visitas indeterminadas, além de inúmeros outros proveitos ilegais, mediante pagamento de propina pelos presos. Os elementos foram colhidos a partir de interceptações telefônicas, de relatórios expedidos por agente infiltrado devidamente autorizado, de buscas e apreensões realizadas na unidade prisional, além de depoimentos prestados por outros presos pobres, que não usufruíam das liberalidade por falta de pagamento aos funcionários e eram, inclusive, ameaçados e agredidos para que não revelassem o esquema às autoridades públicas ("Operação Regalia").
+3. A tarefa de realizar aprofundado exame da matéria fático-probatória é reservada ao Juízo processante, que, após a detida análise, julgará a procedência ou não da acusação proposta. Naquele momento poderá a defesa apresentar a discussão ora proposta, a respeito da transferência do agravante para outra unidade prisional no período das supostas infrações.
+4. Agravo regimental desprovido. (e-STJ, fl. 792)
+Sustenta a defesa omissão do acórdão em razão da ausência de apreciação dos documentos colacionados que indicariam a saída do acusado do Presídio de Anápolis em momento anterior ao das investigações ocorridas naquele local. Salienta, ainda, a necessidade de prequestionamento dos dispositivos constitucionais citados ao longo de suas razões.
+Requer o acolhimento dos aclaratórios com efeitos infringentes para que seja provido seu recurso, nos termos pleiteados.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA. PRÁTICA DE DELITOS DENTRO DE UNIDADE PRISIONAL. PREVARICAÇÃO. MERA REDISCUSSÃO DE MATÉRIA JÁ DECIDIDA. PREQUESTIONAMENTO DE DISPOSITIVOS CONSTITUCIONAIS. ACLARATÓRIOS REJEITADOS.
+1. A pretensão de rediscussão de matéria já decidida é incompatível com a natureza dos embargos de declaratórios. Precedentes.
+2. Não cabe a esta Corte manifestar-se, em embargos de declaração, ainda que para fins de prequestionamento, sobre suposta violação a artigos da Constituição da República, sob pena de usurpação da competência do Supremo Tribunal Federal.
+3. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR . MINISTRO RIBEIRO DANTAS (Relator):
+A teor do artigo 619 do Código de Processo Penal, são cabíveis embargos de declaração quando houver ambiguidade, obscuridade, contradição ou omissão no julgado, podendo ainda ser admitidos para a correção de eventual erro material.
+Com efeito, as teses defensivas ora renovadas pelo embargantes foram todas examinadas tanto na decisão monocrática de fls. 746-750 (e-STJ), como no acórdão embargado, conforme se verifica da simples reprodução do seguinte excerto do voto condutor:
+A irresignação não merece guarida, pois a decisão ora guerreada foi proferida em consonância à orientação jurisprudencial desta Corte Superior.
+Conforme adiantado na decisão anterior, na hipótese, após extensão investigação no curso da "Operação Regalia", apurou-se a existência de organização criminosa em pleno funcionamento na Unidade Prisional de Anápolis, com a participação de agentes penitenciários, que proporcionavam aos custodiados o acesso a celulares, drogas, saídas noturnas, visitas indeterminadas, além de inúmeros outros proveitos ilegais, mediante pagamento de propina pelos presos. A detalhada denúncia está embasada em elementos probatórios colhidos a partir de interceptações telefônicas, de relatórios expedidos por agente infiltrado devidamente autorizado, de buscas e apreensões realizadas na unidade prisional, além de depoimentos prestados por outros presos pobres, que não usufruíam das liberalidade por falta de pagamento aos funcionários e eram, inclusive, ameaçados e agredidos para que não revelassem o esquema às autoridades públicas. Especificamente sobre o recorrente, tem-se que seu nome consta em diversas passagens da exordial acusa tória, sendo apontado como "Dr. Júnior", o supervisor da segurança, responsável pelo tráfico de drogas no presídio e pela comercialização de celulares e de outros itens.
+Nesse contexto, há narrativa coerente a respeito das possíveis e inúmeras infrações praticadas pelo agravante, amparada em elementos colhidos durante a fase investigativa.
+Nesse ponto, saliente-se que a tarefa de realizar aprofundado exame da matéria fático-probatória é reservada ao Juízo processante, que, após a detida análise, julgará a procedência ou não da acusação proposta. Naquele momento poderá a defesa apresentar a discussão ora proposta, a respeito da contradição referente à data de saída do recorrente do Presídio de Anápolis diante de sua suposta transferência para outra unidade prisional.
+Certo é que, no atual instante, há descrição suficiente acerca das infrações, de forma suficiente a dar início à persecução penal na via judicial e garantir o pleno exercício da defesa ao acusado. (e-STJ, fl. 795-796; grifou-se.)
+A propósito, a pretensão de rediscussão de matéria já decidida é incompatível com a natureza dos embargos de declaratórios. A ver:
+Incabível a adoção de embargos como forma de rediscutir matéria já decidida e contrária à pretensão, sem demonstrar, todavia, ambiguidade, obscuridade, contradição ou omissão, nos termos do art. 619 do CPP. (EDcl no AgRg no HC 657.581/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/5/2021, DJe 24/5/2021.)
+A pretensão de rediscutir matéria devidamente abordada e decidida no acórdão embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via dos embargos declaratórios. (EDcl no AgRg no HC 635.329/SP, Rel. Ministra Laurita Vaz, Sexta Turma, julgado em 23/3/2021, DJe 5/4/2021.)
+Sem a demonstração das hipóteses de cabimento, a rejeição dos embargos de declaração é medida que se impõe, notadamente quando o embargante pretende a rediscussão da questão controvertida para modificar o provimento anterior. (EDcl no AgRg no AREsp 1765832/DF, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 4/5/2021, DJe 7/5/2021.)
+Desse modo, não se verifica nenhum vício no decisum embargado.
+Por fim, imperioso esclarecer que carece a esta Corte competência para enfrentar suposta ofensa a dispositivos constitucionais, ainda que para efeito de prequestionamento da matéria, sob pena de usurpação do mister do Supremo Tribunal Federal. A respeito:
+PENAL E PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE VÍCIOS. PRETENSÃO DE REDISCUSSÃO DO JULGADO. INADEQUAÇÃO. PREQUESTIONAMENTO DE DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Na espécie, o acórdão embargado não ostenta nenhum dos vícios aludidos no art. 619 do Código de Processo Penal - CPP.
+1.1. Observa-se que o embargante pretende, em verdade, a modificação do provimento anterior, com a rediscussão da questão, o que não se coaduna com a medida integrativa.
+2. Não cabe a esta Corte manifestar-se, em embargos de declaração, ainda que para fins de prequestionamento, sobre suposta violação a artigos da Constituição Federal - CF, sob pena de usurpação da competência do Supremo Tribunal Federal.
+3. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp n. 1.909.260/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 22/3/2022, DJe de 24/3/2022.)
+Ante o exposto, rejeito os aclaratórios.
+É como voto.
