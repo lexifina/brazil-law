@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo interno, interposto por BANCO INDUSTRIAL DO BRASIL S/A, em face da decisão monocrática de fls. 638-640 e-STJ, da lavra da e. Ministra Presidente do STJ, que não conheceu do agravo em recurso especial ante o óbice da Súmula 182/STJ.
+O apelo extremo, fundado nas alíneas "a" e "c" do permissivo constitucional, fora deduzido em desafio ao acórdão de fls. 466-477 e-STJ, proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+Recuperação judicial - Incidente de impugnação de crédito- Decisão que rejeitou a pretensão - Inconformismo do credor - Acolhimento em parte - Crédito materializado em cédula de crédito bancário com garantia, nos termos do instrumento particular de cessão fiduciária de duplicatas, recursos financeiros e títulos - Os títulos cedidos estão vencidos e não há informação a respeito da execução dessas garantias ou eventual substituição das duplicatas não liquidadas - A extra concursalidade do crédito, nos termos do art. 49, § 3º, da Lei 11.101/05, diz com a excussão os bens dados em fidúcia - Se o credor opta pela execução de bens diversos daqueles ofertados em garantia, o crédito se submete à recuperação judicial - Essa opção, contudo, não implica, automaticamente, renúncia às garantias fiduciárias vinculadas ao título executivo extrajudicial - Jurisprudência do C. STJ e desta C. Câmara - Decisão ajustada, apenas para rechaçar a conclusão de renúncia tácita das garantias - Recurso provido em parte, com observação.
+Opostos embargos declaratórios (fls. 483-488 e 498-502 e-STJ), não foram acolhidos, conforme acórdãos de fls. 493-496 e 507-512 e-STJ.
+Nas razões de recurso especial (fls. 515-530 e-STJ), alegou o insurgente, além da divergência jurisprudencial, que o acórdão recorrido violou os seguintes dispositivos de lei federal: (i) arts. 489, § 1º, VI, e 1.022, II, do CPC/15; (ii) art. 49, § 3º, da Lei nº 11.101/05 e art. 5º do Decreto-Lei nº 911/1969.
+Aduziu, em síntese: (i) omissão do aresto atacado quanto aos pontos suscitados, em especial, quanto a faculdade do credor fiduciário em recorrer à ação executiva, a especificidade dos precedentes indicados e em relação à dificuldade de execução da garantia, ante o pedido de recuperação judicial; (ii) a possibilidade da execução do seu crédito, com garantia fiduciária, ser perseguido de modo extraconcursal, podendo, inclusive, executar bens diversos daqueles ofertados em garantia.
+Contrarrazões às fls. 571-577 e-STJ.
+Em juízo prévio de admissibilidade, a Corte de origem inadmitiu o apelo nobre por ausência de ofensa aos dispositivos de lei federal e ausência de similitude fática.
+Inconformado, interpôs agravo (art. 1.042 do CPC/15), cuja minuta está acostada às fls. 594-609 e-STJ, por meio do qual pretendia ver admitido o recurso especial.
+Contraminuta às fls. 618-625 e-STJ.
+A decisão monocrática de fls. 638-640 não conheceu do reclamo, ante a aplicação da Súmula 182/STJ. Opostos aclaratórios (fls. 644-650 e-STJ), foram rejeitados (fls. 656-657 e-STJ).
+Então, o presente agravo interno (fls. 661-670 e-STJ) por meio do qual o insurgente pugna pela reforma da deliberação singular, aduzindo, em síntese, a não incidência do referido óbice.
+Sem impugnação, conforme certidão de fl. 675 e-STJ.
+É o relatório.
+Decide-se.
+Ante as razões expostas e constatada a efetiva impugnação aos fundamentos da decisão que inadmitiu o apelo nobre, reconsidera-se o pronunciamento monocrático, passando-se a nova análise do recurso.
+De todo modo, a pretensão não merece prosperar por fundamentos diversos.
+1. De início, no tocante à tese de omissão do aresto atacado, constata-se que o recorrente, na origem, interpôs agravo de instrumento contra decisão interlocutória do juízo recuperacional a qual incluiu seu crédito no quadro de credores com a classificação de quirografário sob o fundamento de tácita renúncia à preferência da garantia fiduciária, tendo em vista a busca genérica de bens em ação executiva autônoma.
+Por seu turno, o Tribunal a quo deu parcial provimento à insurgência a fim de afastar a suposta renúncia tácita da garantia fiduciária e determinar que a extraconcursalidade do crédito limita-se à execução do bem indicado em garantia, caso se pretenda a busca de bens diversos, impõe-se a submissão ao concurso de credores. Nesse sentido:
+Ao contrário do sugerido pelo agravante, o referido julgado não reconheceu, irrestritamente, a extraconcursalidade do crédito, tanto que também observou que deve "a possibilidade de penhora de demais bens (ou ativos financeiros) ser submetida ao juízo recuperacional, único que pode e deve aquilatar o que se faz necessário para que a recuperação judicial cumpra seu objetivo".
+Essas observações apenas reforçam a conclusão bem externada no r. decisum, no sentido de que, se o credor opta pela execução de bens diversos daqueles ofertados em garantia, o crédito se submete à recuperação judicial.
+Em outras palavras, a natureza extraconcursal do crédito está vinculada à execução das garantias, daí o equívoco do argumento de que "basta o credor ostentar a qualidade de credor titular da posição de proprietário fiduciário de bens móveis ou imóveis, para que o crédito não se submeta aos efeitos da recuperação judicial, pouco importando a forma como este será cobrado" (f ls. 9). (..)
+Portanto, não convence a conclusão de que houve renúncia tácita, como indicado pelo i. Juízo a quo. Assim é que, apenas nesse particular, a presente irresignação prospera, para rechaçar a conclusão de renúncia tácita das garantias, pelo fato do credor (agravante) buscar a satisfação da dívida por outros meios. Todavia, repisando a observação retro destacada, se o agravante optar pela execução de bens distintos daqueles dados em garantia, em relação à recuperanda, o crédito de natureza quirografária fica mantido na recuperação judicial. (..)
+Percebe-se, portanto, que o aresto atacado abordou todos os pontos centrais da controvérsia para resolver o litígio, não havendo de se falar em omissão na hipótese. Nesse sentido:
+(..)
+2. O órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+(..)
+(AgInt no AREsp n. 1.852.071/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 13/2/2023, DJe de 16/2/2023.)
+Corroborando este entendimento: AgInt no AREsp n. 2.182.453/RS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 6/3/2023, DJe de 10/3/2023; REsp n. 1.957.630/RN, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 8/11/2022, DJe de 10/11/2022.
+Portanto, não prospera a tese de negativa de prestação jurisdicional.
+2. Quanto à possibilidade da execução do crédito do exequente, com garantia fiduciária, ser perseguido de modo extraconcursal, podendo, inclusive, executar bens diversos daqueles ofertados em garantia, constata-se não estar em consonância com o entendimento adotado por esta Corte Superior.
+Não se discute que o crédito com garantia fiduciária não se submete à recuperação judicial, podendo ser executado em ação própria.
+Contudo, tal via deve perseguir o específico bem indicado, não podendo buscar a satisfação da dívida no patrimônio total do devedor, sendo este o intuito, deve se submeter ao concurso recuperacional de credores. Nesse sentido:
+(..)
+4. Os credores fiduciários estão excluídos dos efeitos da recuperação judicial somente em relação ao montante alcançado pelos bens alienados em garantia.
+5. Agravo interno não provido.
+(AgInt nos EDcl no REsp n. 1.906.248/BA, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 27/6/2022, DJe de 30/6/2022.)
+Na mesma linha, cite-se: REsp n. 847.759/MG, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 1/12/2009, DJe de 14/12/2009.
+Assim, caso o agravante busque a satisfação do seu crédito por meio dos títulos dados em garantia, aplicar-se-á a extraconcursalidade, podendo persegui-lo em ação executiva própria, já na hipótese de busca no patrimônio global do recorrido, haverá d e habilitar seu crédito, como quirografário, no concurso de credores. Portanto, o Tribunal a quo decidiu no mesmo sentido desta Corte Superior, incidindo na hipótese a Súmula 83/STJ.
+3. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, conhece-se do agravo para negar provimento ao recurso especial. Por fim, não havendo fixação de honorários sucumbenciais pelas instâncias ordinárias, inaplicável a majoração prevista no art. 85, § 11, do CPC/15.
+Publique-se.
+Intimem-se.
