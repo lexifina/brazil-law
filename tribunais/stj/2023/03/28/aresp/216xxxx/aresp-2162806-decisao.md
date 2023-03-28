@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que negou seguimento ao recurso especial por inexistência de violação de lei federal e incidência das Súmulas n. 7 e 83 do STJ (e-STJ fls. 551/559).
+O acórdão recorrido está assim ementado (e-STJ fl. 429):
+APELAÇÃO CÍVEL - AÇÃO DE CONSIGNAÇÃO EM PAGAMENTO -DÚVIDA QUANTO À TITULARIDADE DE VALORES DEVIDOS A TÍTULO DE RESSARCIMENTO DECORRENTE DE COBRANÇA INDEVIDA PELO SERVIÇO DE ÁGUA E ESGOTO -SENTENÇA DE PROCEDÊNCIA - MANUTENÇÃO -PRETENSÃO DO PROPRIETÁRIO DA UNIDADE CONDOMINIAL EM RECEBER OS VALORES DEPOSITADOS - IMÓVEL LOCADO - COBRANÇAS IRREGULARES SUPORTADAS PELO LOCATÁRIO - DEVER DE PAGAMENTO DE DÉBITOS DE CONSUMO DE ÁGUA E COLETA DE ESGOTO, QUE, A DESPEITO DAS ALEGAÇÕES RECURSAIS, NÃO CONSTITUI OBRIGAÇÃO PROPTER REM, MAS SIM DEVER PESSOAL DO CONSUMIDOR, CABENDO AO EFETIVO USUÁRIO DO SERVIÇO O DIREITO DE SER RESSARCIDO POR EVENTUAL PREJUÍZO DECORRENTE DE COBRANÇAS INDEVIDAS - NEGADO PROVIMENTO AO RECURSO.
+Nas razões do recurso especial (e-STJ fls. 458/483), fundamentado no art. 105, III, "a", da CF, a parte recorrente alega sustenta as seguintes violações (e-STJ fl. 386):
+a) Arts. 1314 e 1315 do CC, quando tentam desvincular o direito discutido nos autos das chamadas obrigações propter rem, fazendo interpretação equivocada de despesas condominiais como próprias;
+b) Art. 1319 do CC e 18 do CPC, quando confere, indevidamente, legitimidade ad causa ao locatário de pleitear direito em nome e no lugar do condômino locador, em total contrariedade a legislação que é clara ao estabelecer que compete ao condômino e não ao locatário, os frutos percebidos pela coisa;
+c) Art. 12 da Lei 4.591/64, quando dá maior relevância as disposições estabelecidas entre locador e locatário do que as previsões obrigações contidas em Lei e que decorrem da propriedade.
+No agravo (e-STJ fls. 586/607), a parte agravante declara a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 613/617).
+É o relatório.
+Decido.
+Extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fls. 433/435):
+Trata-se a presente lide de ação de consignação em pagamento, proposta pelo condomínio ora recorrido, sob o fundamento de que recebeu, por meio de demanda judicial proposta em face da CEDAE, valores de restituição decorrentes de irregularidades em cobranças relacionadas ao serviço em questão, existindo dúvidas quanto a quem repassar tal montante, se ao proprietário da unidade condominial ou ao locatário que ocupou o bem no período em que foram realizadas as cobranças indevidas.
+(..)
+Isso porque, conforme bem destacou o juízo de primeiro grau, o réu Evandro anexou, às fls. 292/326, os comprovantes de pagamento das cotas condominiais entre 2000 e 2012, com inclusão das faturas de água, englobando todo o período referente ao ressarcimento dos valores indevidamente cobrados pela CEDAE, entre 2000 e 2009. Ou seja, o réu Evandro, na condição de locatário da unidade condominial, foi quem suportou os prejuízos relacionados às cobranças indevidas.
+O dever de pagamento de débitos de consumo de água e coleta de esgoto, a despeito das alegações recursais, não constitui obrigação propter rem, mas sim dever pessoal do consumidor, cabendo ao efetivo usuário do serviço o direito de ser ressarcido por eventual prejuízo decorrente de cobranças indevidas.
+(..)
+A recorrente demandada, por sua vez, se limita a alegar, na condição de proprietária do imóvel, seu direito aos valores depositados a título de consignação, não apresentando prova mínima, nos termos do art. 373, II, do CPC, de que tenha efetivamente suportado eventual cobrança pelos serviços em questão no período reclamado.
+A decisão recorrida está em consonância com a jurisprudência desta Corte, pacífica ao afirmar que a obrigação de pagar o débito referente ao serviço de fornecimento de água e coleta de esgoto se reveste de natureza pessoal e não propter rem, não se vinculando, portanto, à titularidade do imóvel. A propósito:
+ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIÇO DE ENERGIA ELÉTRICA. OBRIGAÇÃO DE NATUREZA PESSOAL E NÃO PROPTER REM. PRECEDENTES. CONTRATO DE LOCAÇÃO. MUDANÇA DE TITULARIDADE. AUSÊNCIA DE COMUNICAÇÃO À CONCESSIONÁRIA. RESPONSABILIZAÇÃO DO PROPRIETÁRIO.
+1. A jurisprudência do STJ firmou-se no sentido de que a responsabilidade pelo pagamento da prestação do serviço de água, esgoto ou energia possui natureza pessoal e não propter rem, devendo, portanto, a obrigação pelo pagamento do serviço recair sobre quem o solicita.
+2. Ocorre que, no caso, ainda que seja possível atribuir ao locatário a responsabilização pelo pagamento do serviço de energia elétrica, conforme consignado pela Corte a quo, a companhia agravada não foi informada a respeito da mudança de titularidade da obrigação.
+3. Quando o proprietário deixa de informar a alteração de titularidade, permanece a relação de fornecimento de energia estabelecida entre ele e a companhia de energia, vinculando-o à obrigação como usuário, uma vez que o vínculo jurídico estabelecido entre o locador e locatário não pode ser imposto à companhia de energia, sob pena de transferir obrigações sem prévio ajuste.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.737.379/PR, Relator Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 8/3/2022, DJe de 25/3/2022.)
+PROCESSO CIVIL. AGRAVO INTERNO. RAZÕES QUE NÃO ENFRENTAM O FUNDAMENTO DA DECISÃ O AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO AUTÔNOMO. AÇÃO DE COBRANÇA. DESPESAS CONDOMINIAIS. RATEIO. COBRANÇA INDIVIDUALIZADA. CARÁTER PROPTER REM. DISTINÇÃO DA COBRANÇA DE TARIFA POR CONCESSIONÁRIA DE SERVIÇO PÚBLICO. CERCEAMENTO DE DEFESA. ARTIGO SEM PERTINÊNCIA. VIOLAÇÃO NÃO DEMONSTRADA. ENUNCIADO 284 DA SÚMULA DO STF.
+1. As razões do agravo interno não enfrentam adequadamente o fundamento da decisão agravada.
+2. Nos termos da jurisprudência desta Corte Especial, é "dever da parte de refutar "em tantos quantos forem os motivos autonomamente considerados" para manter os capítulos decisórios objeto do agravo interno total ou parcial (AgInt no AREsp 895.746/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 9.8.2016, DJe 19.8.2016)" (EREsp 1424404/SP, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 20/10/2021, DJe 17/11/2021).
+3. As contribuições condominiais, previstas na respectiva convenção ou aprovadas em assembleia geral, possuem natureza propter rem e podem ser objeto de cobrança individualizada mediante rateio das despesas entre os condôminos. Precedentes.
+4. Ante a deficiência na motivação, aplica-se, por analogia, o óbice da Súmula 284 do STF.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.002.183/SP, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 12/12/2022, DJe de 16/12/2022.)
+PROCESSUAL CIVIL. TARIFA DE ÁGUA E ESGOTO. DEVOLUÇÃO. OBRIGAÇÃO PROPTER REM. INEXISTÊNCIA. ILEGITIMIDADE ATIVA AD CAUSAM. RECONHECIMENTO.
+1. O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. A Corte de origem reconheceu, de ofício, que os agravantes não detinham legitimidade para pleitear a devolução de tarifas de água e esgoto eventualmente pagas a maior, ao entendimento de que aquela obrigação não vincula o imóvel e sim as partes contratantes, razão por que reputou prejudicada a necessidade de produção probatória.
+3. Conclusão que se coaduna com a orientação firmada neste Tribunal de que "a contraprestação pelo serviço de água não tem natureza jurídica de obrigação propter rem, pois não se vincula à titularidade do imóvel, mas a quem solicitou o serviço." (AgRg no AREsp 454.302/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 05/06/2014, DJe 13/06/2014).
+4. Agravo interno desprovido.
+(AgInt nos EDcl no REsp n. 1.552.944/SP, Relator Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 18/4/2017, DJe de 19/5/2017.)
+Incidente, portanto, a Súmula n. 83/STJ.
+Além disso, para alterar tais fundamentos e reconhecer que a parte recorrente tenha efetivamente suportado eventual cobrança pelos serviços em questão no período reclamado, seria imprescindível o reexame do conjunto fático-probatório dos autos, o que é inviável em recurso especial, haja vista o teor da Súmula n. 7 do STJ.
+Diante do exposto, NEGO PROVIMENTO ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
