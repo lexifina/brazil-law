@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Cuida-se de agravo regimental interposto contra decisão de e-STJ fls. 425/427, de minha relatoria, em que conheci do agravo para dar provimento ao recurso especial para reconhecer a ilicitude da prova decorrente da revista pessoal realizada pelos guardas civis municipais sem a existência da necessária justa causa para a efetivação da medida invasiva.
+O recorrente alega que além do tráfico de drogas consistir em crime permanente, havia fundadas razões para a busca pessoal, porquanto o agravado estava em um lugar conhecido como ponto de venda de drogas, com uma sacola nas mãos, e tentou fugir ao avistar a viatura. Assevera que havia, por parte dos guardas civis municipais, fundadas suspeitas quanto à presença de situação deflagrante delito, o que se comprovou em seguida com a apreensão das drogas encontradas com o agravado.
+Objetiva, assim, a reconsideração da decisão agravada ou a remessa do feito à apreciação da Turma, a fim de que o agravo seja provido.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. ABORDAGEM REALIZADA POR GUARDAS MUNICIPAIS. AUSÊNCIA DE SITUAÇÃO DE FLAGRANTE DELITO. NULIDADE RECONHECIDA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. É pacifica a orientação nesta Corte Superior de que os integrantes da guarda mu nicipal têm função delimitada, não tendo atribuição de policiamento ostensivo, podendo, todavia, atuar em situação de flagrante delito, respaldada no comando legal do art. 301 do CPP.
+- Na hipótese dos autos, os guardas municipais atuaram como polícia ostensiva, em manifesto desrespeito às suas atribuições constitucionais, porquanto não haviam presenciado o paciente vendendo entorpecentes ou mesmo praticando qualquer outro delito que justificasse sua abordagem. Nesse contexto, não é possível admitir que a posterior situação de flagrância, justifique a abordagem e a revista pessoal realizadas ilegalmente, porque amparadas em mera suspeita, conjecturas, contaminando, assim, todo o conjunto probatório.
+2. Agravo regimental não provido.
+VOTO
+O agravo regimental não merece acolhida.
+Com efeito, dessume-se das razões recursais que o agravante não trouxe elementos suficientes para infirmar a decisão agravada, que, de fato, apresentou a solução que melhor espelha a orientação jurisprudencial do Superior Tribunal de Justiça sobre a matéria.
+Portanto, nenhuma censura merece o decisório ora recorrido, que deve ser mantido pelos seus próprios e jurídicos fundamentos, in verbis (e-STJ fls. 425/427):
+A questão atinente à nulidade da revista pessoal foi assim analisada pelo Tribunal estadual:
+Embora a norma prevista no artigo 144, par. 8º, da Constituição Federal estabeleça que a função da guarda municipal consiste na proteção dos bens, serviços e instalações do Município, não se pode olvidar que dispositivo acha-se inserido e aqui há que se atentar para a interpretação sistemática, que sobreleva a puramente gramatical no capítulo da segurança pública. Pelo que não parece desarrazoada a compreensão de que os guardas municipais possam também agir para tutelar a segurança pública.
+ ..
+No caso em tela, tomando-se em conta o princípio da razoabilidade, não se divisa que os guardas municipais tenham extrapolado de sua competência na prisão do acusado. Tal como se explicitará na sequência, os agentes públicos tinham fundada suspeita de que o acusado portava drogas (considerando que estavam num conhecido ponto de venda de substâncias entorpecentes, sendo que o réu, que carregava uma sacola, ao ver, os policiais, tentou evadir-se), num cenário a emprestar juridicidade à busca pessoal, bem como à prisão em flagrante e apreensão das substâncias entorpecentes.
+Pelo que hígida a conduta dos guardas municipais. (e-STJ fls. 273/274)
+É pacifica a orientação nesta Corte Superior de que os integrantes da guarda municipal têm função delimitada, não tendo atribuição de policiamento ostensivo, podendo, todavia, atuar em situação de flagrante delito, respaldada no comando legal do art. 301 do CPP.
+No caso concreto, não há mesmo justa causa para a revista pessoal, isso porque o fato de estar o recorrente carregando uma sacola num local conhecido como ponto de venda de drogas e sua tentativa de esquivar-se da polícia não evidenciam a ocorrência de um crime. Nessa linha já se decidiu:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. 1. ABORDAGEM REALIZADA POR GUARDAS MUNICIPAIS. AUSÊNCIA DE SITUAÇÃO DE FLAGRANTE DELITO. NULIDADE RECONHECIDA. 2. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. É pacifica a orientação nesta Corte Superior de que os integrantes da guarda municipal têm função delimitada, não tendo atribuição de policiamento ostensivo, podendo, todavia, atuar em situação de flagrante delito, respaldada no comando legal do art. 301 do CPP.
+- Na hipótese dos autos, os guardas municipais atuaram como polícia ostensiva, em manifesto desrespeito às suas atribuições constitucionais, porquanto não haviam presenciado o paciente vendendo entorpecentes ou mesmo praticando qualquer outro delito que justificasse sua abordagem. Nesse contexto, não é possível admitir que a posterior situação de flagrância, justifique a abordagem e a revista pessoal realizadas ilegalmente, porque amparadas em mera suspeita, conjecturas, contaminando, assim, todo o conjunto probatório.
+2. Agravo regimental a que se nega provimento. (AgRg no HC n. 787.756/SP, desta Relatoria, DJe de 19/12/2022.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. NULIDADE. TRÁFICO DE DROGAS. ART. 244 DO CPP. FLAGRANTE REALIZADO POR GUARDAS MUNICIPAIS. IMPOSSIBILIDADE. NOVA ORIENTAÇÃO CONSOLIDADA NO RES 1.977.119/SP. ORDEM DENEGADA. AGRAVO REGIMENTAL PROVIDO.
+1. Não obstante na decisão agravada tenha sido exarada compreensão quanto à ausência de ofensa ao art. 244 do Código de Processo Penal, esta Sexta Turma, posteriormente à referida decisão e por ocasião do julgamento do REsp n. 1.977.119/SP, alterou sua jurisprudência conferindo nova interpretação ao disposto no art. 244 do CPP.
+2. Nesse contexto, como destacado no acórdão paradigma desta Sexta Turma, "não é das guardas municipais, mas sim das polícias, como regra, a competência para patrulhar supostos pontos de tráfico de drogas, realizar abordagens e revistas em indivíduos suspeitos da prática de tal crime ou ainda investigar denúncias anônimas relacionadas ao tráfico e outros delitos cuja prática não atinja de maneira clara, direta e imediata os bens, serviços e instalações municipais", não sendo dado aos guardas municipais, em hipóteses como a presente, proceder à revista pessoal, em contexto alheio às suas atribuições, cabendo a eles o acionamento dos órgãos policiais para que, em observância ao disposto no art. 244 do CPP, realizem a abordagem e revista do agente suspeito.
+3. Agravo regimental provido. (AgRg no HC n. 681.381/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 15/12/2022.)
+Com essas considerações, nego provimento ao agravo regimental.
+É como voto.
+Ministro REYNALDO SOARES DA FONSECA
+Relator
