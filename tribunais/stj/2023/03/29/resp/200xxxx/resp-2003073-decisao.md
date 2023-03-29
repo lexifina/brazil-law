@@ -1,0 +1,29 @@
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto por ARINO SANTERIO DA SILVA em face de acórdão do TJMT que negou provimento a sua apelação, mantendo a sentença que extinguiu a ação declaratória de inexistência ou nulidade de relação jurídica, referente à contratação de empréstimo consignado, c.c. compensação de danos morais, nos termos da seguinte ementa:
+RECURSO DE APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA DE NULIDADE/INEXIGIBILIDADE DE DESCONTO EM FOLHA DE PAGAMENTO C/C REPETIÇÃO DE INDÉBITO E DANOS MORAIS - EMPRÉSTIMO CONSIGNADO - INDEFERIMENTO DA PETIÇÃO INICIAL - FRACIONAMENTO DE AÇÕES - MULTIPLICIDADE DE DEMANDAS - ABUSO DO DIREITO DE AÇÃO - DEMANDISMO - SENTENÇA MANTIDA - RECURSO DESPROVIDO.
+Quando a parte opta pelo fracionamento das ações, na medida em que poderia incluir em uma só ação os débitos que reputa fraudulentos contra mesma parte passiva, demonstra, na verdade, o desinteresse processual, sendo imperiosa a extinção do feito, nos termos do art. 485, inc. VI, do CPC.
+Vale destacar que constitui assedio processual ou "demandismo" a atitude da parte que promove o fracionamento das ações como manobra para ampliar as possibilidades de ganhos sucumbenciais e indenizatórios, razão pela qual é de rigor a confirmação da sentença de extinção do processo sem resolução do mérito e a revogação da gratuidade da justiça.
+No recurso especial, interposto com fundamento nas alíneas a e c do permissivo constitucional, o recorrente apontou, além de divergência jurisprudencial, a ofensa dos arts. 99, § 2º, do CPC e 5º da Lei nº 1.060/50, alegando que faz jus ao benefício da gratuidade de justiça, pois comprovou nos autos sua hipossuficiência econômica para arcar com os custos do processo.
+É o relatório.
+Passo a decidir.
+O presente recurso especial não merece ser conhecido.
+O recorrente não demonstrou como os arts. 99, § 2º, do CPC e 5º da Lei nº 1.060/50 teriam sido violados na hipótese concreta, pois não correlacionou seu argumento de que comprovou sua hipossuficiência econômica, suficiente para que lhe fosse concedido o benefício da gratuidade de justiça, à fundamentação do acórdão recorrido, que se limitou a cassar a anterior gratuidade de justiça ao fundamento da "existência injustificada de múltiplas ações idênticas leva a crer que o único propósito é a busca pela condenação da parte adversa em múltiplas verbas sucumbenciais, caracterizando as denominadas "demandas predatórias", que impactam diretamente na organização e qualidade dos serviços prestados pelas unidades judiciais e devem ser combatidas" (e-STJ, fl. 127,, g.n.).
+Assim, por estarem as razões recursais dissociadas da matéria decidida no acórdão recorrido, fica inviabilizada a compreensão da controvérsia trazida ao conhecimento desta Corte em razão da deficiência da fundamentação recursal, o que atrai a incidência do óbice da Súmula 284/STF.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. EXECUÇÃO. TÍTULO EXTRAJUDICIAL PENHORA DE COTAS SOCIAIS PARA GARANTIA DA EXECUÇÃO. OFENSA A PRINCÍPIO. IMPOSSIBILIDADE. RAZÕES RECURSAIS DISSOCIADAS. INCIDÊNCIA DA SÚMULA N.º 284 DO STF. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. TEMA NÃO DEBATIDO PELAS INSTÂNCIAS ORDINÁRIAS. INCIDÊNCIA DA SÚMULA N.º 282 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+3. A alegada afronta a lei federal não foi demonstrada com clareza, pois as razões do recurso especial apresentado se encontram dissociadas daquilo que ficou decidido pelo Tribunal de origem, o que caracteriza deficiência na fundamentação do apelo nobre e atrai, por analogia, o óbice da Súmula n.º 284 do STF.
+ ..
+(AgInt no AREsp n. 2.061.995/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 12/12/2022, DJe de 14/12/2022.)
+PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. ACIDENTE COM FOGOS DE ARTIFÍCIO. RESPONSABILIDADE DO ORGANIZADOR DO EVENTO. RAZÕES RECURSAIS DISSOCIADAS DOS FUNDAMENTOS DO JULGADO ATACADO. SÚMULAS 283 E 284 DO STF. PRETENSÃO DE REEXAME. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE SIMILITUDE. AGRAVO DESPROVIDO.
+1. Nos termos da jurisprudência desta Corte, estando as razões do recurso especial dissociadas dos fundamentos do acórdão recorrido, não havendo, portanto, impugnação do decisum, incidem as Súmulas 283 e 284 do STF.  ..
+(AgInt no AREsp n. 1.016.300/BA, relator Ministro Raul Araújo, Quarta Turma, julgado em 28/11/2022, DJe de 1/12/2022.)
+Ante o exposto, com substrato no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Com fundamento no art. 85, § 11, do CPC, majoro o percentual dos honorários sucumbenciais a que condenados o recorrente na origem em 3%, totalizando 18% sobre o valor atualizado da causa, observada a eventual e anterior concessão da gratuidade judiciária.
+Advirto as partes que a oposição de incidentes manifestamente improcedentes e protelatórios dará azo à aplicação das penalidades legalmente previstas.
+Considerando as informações constantes nos autos de que "o advogado que representa a parte autora nestes autos - Dr. Luiz Fernando Cardoso Ramos, inscrito na OAB/MT nº. 26.167-A e OAB/MS nº. 14.572, distribuiu mais de 7.700 ações no Estado do Mato Grosso, sendo aproximadamente 5.000 processos nesta Comarca de Sinop/MT, os quais questionam empréstimos consignados, descontados em benefícios previdenciários, nos mesmos termos deste processo" (e-STJ, fl. 126), oficie-se ao Conselho Federal da OAB para conhecimento e apuração de eventual falta disci plinar.
+Intimem-se.
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO JURÍDICA. CONTRATO DE EMPRÉSTIMO CONSIGNADO. ACÓRDÃO RECORRIDO. DEMANDA PREDATÓRIA. EXTINÇÃO DA AÇÃO. GRATUIDADE DE JUSTIÇA. RAZÕES RECURSAIS DISSOCIADAS. DEFICIÊNCIA DE FUNDAMENTAÇÃO RECURSAL. SÚMULA 284/STF.
+RECURSO ESPECIAL NÃO CONHECIDO.
