@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por JOKLEF REPRESENTAÇÕES LTDA. e outros (JOKLEF e outros) contra decisão que negou seguimento ao seu apelo nobre.
+Foi apresentada contraminuta (e-STJ, fls. 3.848/3.855).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alínea a, da CF, JOKLEF e outros alegaram a violação dos arts. 884 do CC/02; e 8º, 141, 203, §§ 1º e §2º, 507, 924, II, 932, III, 1.013, e 1.015, II e parágrafo único, todos do CPC. Sustentaram, em suma, a preclusão consumativa, com base no princípio da adstrição, bem como argumentaram sobre a impossibilidade do enriquecimento sem causa (e-STJ, fls. 3.765/3.788).
+Da violação dos arts. 884 do CC/02; e 8º, 141, 203, §§ 1º e §2º, 507, 924, II, 932, III, 1.013, e 1.015, II e parágrafo único, todos do CPC
+Inicialmente, verifica-se, de plano, que o conteúdo normativo referente a quase todos os mencionados dispositivos de lei não foi objeto de debate no v. acórdão recorrido, mesmo após a interposição de embargos declaratórios, carecendo, portanto, do necessário prequestionamento viabilizador do recurso especial, requisito indispensável ao acesso às instâncias excepcionais.
+Ressalte-se que é exigência contida na própria previsão constitucional para a interposição do recurso especial que a matéria federal tenha sido decidida em única ou última instância pela Corte de origem, não sendo suficiente a parte discorrer sobre o dispositivo legal que entende infringido. É imprescindível que se tenha emitido juízo de valor sobre os preceitos indicados como violados, o que não ocorreu na hipótese examinada, mesmo tendo sido opostos embargos de declaração.
+Aplicável, assim, a Súmula n.º 211 do STJ, a qual estabelece ser inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo.
+Além disso, destaca-se que, nas razões do especial, JOKLEF e outros não apresentaram argumentos claros e concatenados que pudessem esclarecer os fundamentos ou motivos pelos quais entendeu violado os mencionados dispositivos. Por conseguinte, não houve a demonstração, clara e precisa, da necessidade de reforma do acórdão recorrido, o que impede compreender a exata medida da controvérsia, ensejando a aplicação da Súmula n.º 284 do STF, por analogia.
+Por derradeiro, tendo o Tribunal mineiro afirmado que
+ ..  a discussão afeta no presente recurso diz respeito, em síntese, ao momento no qual a arrematação de bens do devedor realizada pelo representante legal das credoras passou a produzir efeitos, assim como eventual forma de atualização do valor da dívida e dos bens arrematados.
+Primeiramente, pontuo que requerimento semelhante ao formulado no agravo de instrumento foi pleiteado pela parte exequente (ora agravada) em f. 2089/2092 dos autos de origem (ordem 106, págs. 13 a 15), sendo indeferida àquele tempo pelo magistrado primevo em f. 2520/2522 (ordem 124, págs. 25 a 27) pela impossibilidade de aperfeiçoamento dos atos naquele momento.
+Dito isso, quanto aos efeitos da arrematação, com a devida vênia, entendo que a decisão recorrida não merece reforma.
+Isso porque, em que pese os bens terem sido levados a hasta pública no ano de 2013 (ordem 9), as arrematações apenas se aperfeiçoaram com a expedição das respectivas cartas a favor do representante legal das credoras em 2017 (ordens 10 e 11), oportunidade na qual, segundo art. 901, §§1º e 2º do CPC (art. 693, parágrafo único, do CPC/73) poderia o adquirente imitir-se na posse do bem e, em consequência, ocorrer a quitação do débito (em todo ou em parte).
+ ..
+Ou seja, harmoniza-se o disposto no art. 903 do CPC com os dispositivos citados, no sentido de que a arrematação será considerada perfeita e acabada com a assinatura do auto quando expedida em seguida a respectiva carta, o que ordinariamente ocorre.
+Havendo lapso temporal significativo entre o auto e a correlata carta (mera materialização do ato), aquelas normas requerem interpretação sistêmica.
+Por tal consequência, afasta-se a alegação de preclusão suscitada em contraminuta ao agravo, uma vez que, aperfeiçoada a arrematação apenas em 2017, somente após este momento seria possível a discussão relativa a eventual quitação ou saldo remanescente.
+No que diz respeito à atualização dos valores do débito e dos bens arrematados, tenho por importante ressaltar que o atraso na expedição das cartas deu-se por motivos diversos, notadamente a existência de outras penhoras sobre os bens constritos no feito e a discussão acerca de honorários devidos pela parte exequente a seu antigo patrono, pelo que, com a devida vênia, entendo não ser possível imputar o atraso a apenas uma das partes.
+Assim, verificando ter decorrido significativo lapso temporal entre a data das arrematações e a expedição das respectivas cartas, no caso concreto, tenho que a utilização do valor da arrematação, desatualizado, para fins de apuração de quitação total ou parcial da dívida ensejaria enriquecimento sem causa da parte exequente e onerosidade excessiva ao executado, tendo em vista, na hipótese, apenas o exequente seria beneficiado com o decurso do tempo.
+ ..
+Por tal razão, deverá o valor das arrematações ser corrigido monetariamente com a aplicação dos índices da tabela da CGJ/MG.
+Entretanto, em razão do reconhecimento de que as arrematações apenas se aperfeiçoaram com a expedição das respectivas cartas e, por consequência lógica, que a mora persiste até aquele momento, entendo não ser possível, nesse momento, a pretendida declaração de extinção da execução, uma vez que necessária a realização dos cálculos devidos para apuração do valor do débito e o do valor quitado com a adjudicação dos bens para a eventual constatação de pagamento integral ou existência de saldo remanescente (e-STJ, fls. 3.722/3.730 - sem destaques no original).
+Desse modo, evidencia-se não ser possível, aqui, entender de modo diferente, pois seria imprescindível o reexame de matéria fático-probatória, inviável, em razão do óbice contido na Súmula n.º 7 desta Corte: A pretensão de simples reexame de prova não enseja recurso especial.
+Assim, está claro que o recurso especial não merece nem sequer ultrapassar a barreira do conhecimento.
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER o recurso especial.
+Inaplicável ao caso a majoração dos honorários advocatícios.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. DEFICIÊNCIA DA FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N.º 284 DO STF. FALTA DE PREQUESTIONAMENTO. REFORMA DO JULGADO. REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DAS SÚMULAS N.ºS 7 E 211, AMBAS DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
