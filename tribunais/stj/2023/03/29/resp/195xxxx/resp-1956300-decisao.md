@@ -1,0 +1,47 @@
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto por THAISE RODRIGUES em face de acórdão do TJSP que negou provimento a sua apelação, mantendo a sentença que extinguiu o cumprimento provisório de sentença na parte relativa às astreintes, nos termos da seguinte ementa:
+CUMPRIMENTO PROVISÓRIO DE DECISÃO. MULTA DIÁRIA IMPOSTA EM SEDE DE TUTELA ANTECIPADA. EXECUÇÃO PROVISÓRIA.
+INADMISSIBILIDADE. Aplicação do entendimento firmado pelo C. Superior Tribunal de Justiça no julgamento do Recurso Especial Repetitivo nº 1.200.856-RS. Embora a multa diária tenha incidência desde a intimação do réu para cumprimento da determinação judicial, sua efetiva exigibilidade está condicionada ao trânsito em julgado da sentença que vier a confirmar a antecipação de tutela.
+Inadmissível que a autora venha se beneficiar da multa, sem que antes haja sentença que acolha a sua pretensão ou a tutela antecipatória que lhe foi deferida em caráter provisório. Decisão mantida. Apelação não provida.
+Os primeiros e os segundos embargos de declaração opostos pela recorrente, foram rejeitados.
+Os terceiros embargos de declaração foram igualmente rejeitados, com a aplicação da multa do § 2º do art. 1.026 do CPC.
+No recurso especial, interposto com fundamento nas alíneas a e c do permissivo constitucional, a recorrente apontou, além do dissídio jurisprudencial, ofensa aos seguintes dispositivos: (i) art. 1.022 do CPC, em razão da omissão do acórdão recorrido em apreciar as razões dos embargos de declaração; (ii) art. 10 do CPC, alegando que a matéria relacionada ao cabimento do cumprimento provisório de astreintes somente foi suscitada no acórdão da apelação, que é, portanto, nulo, por não lhe ter sido dada a oportunidade de prévia manifestação sobre a questão; (iii) art. 537, § 3º, do CPC, sustentando que o CPC/15 admite a possibilidade do cumprimento provisório de astreintes; (iv) art. 1.026, § 2º, do CPC, asseverando que a multa que lhe foi imposta é incabível, pois não lhe interessava retardar o andamento do processo e não foi demonstrada conduta dolosa que justificasse a imposição de sanção.
+É o relatório.
+Passo a decidir.
+O presente recurso especial merece ser parcialmente provido.
+Com relação às astreintes, a jurisprudência desta Terceira Turma firmou a orientação de que o CPC/15 passou a admitir o seu cumprimento provisório antes mesmo do trânsito em julgado da sentença de mérito, razão pela qual, para os cumprimentos de sentença regidos pelo novo diploma processual civil, não se aplica a tese repetitiva fixada no julgamento do REsp 1200856/RS.
+Nesse sentido:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. OBSCURIDADE. OMISSÕES. AUSÊNCIA. ASTREINTES. NATUREZA PATRIMONIAL. FUNÇÃO COERCITIVA E INIBITÓRIA. RESP N. 1200856/RS. INOVAÇÃO DO NOVO CÓDIGO DE PROCESSO CIVIL. EXECUÇÃO PROVISÓRIA DAS ASTREINTES ANTES DA SENTENÇA DE MÉRITO. POSSIBILIDADE. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. EXCESSO DO VALOR DAS ASTREINTES. EXAME DE OFÍCIO. POSSIBILIDADE. RETORNO DOS AUTOS À CORTE DE ORIGEM.
+1- Recurso especial interposto em 19/8/2020 e concluso ao gabinete em 1/9/2021.
+2- O propósito recursal consiste em dizer se: a) o acórdão recorrido contém obscuridade e omissões; b) à luz do novo Código de Processo Civil, é possível a execução provisória das astreintes antes da confirmação da tutela provisória por sentença de mérito; c) é necessário apresentar caução na execução provisória da multa cominatória; e d) se a Corte de origem pode examinar, de ofício, eventual excesso no valor das astreintes.
+3- Na hipótese em exame deve ser afastada a existência de obscuridade e omissões no acórdão recorrido, à consideração de que as matérias impugnadas foram enfrentadas de forma clara, objetiva e fundamentada nos julgamentos do recurso de apelação e dos embargos de declaração, naquilo que o Tribunal a quo entendeu pertinente à solução da controvérsia.
+4- As astreintes têm por escopo garantir a efetivação da tutela específica da obrigação ou o resultado prático equivalente. Por meio de sua imposição almeja-se induzir as partes a cumprir determinações judiciais que lhes foram impostas (em tutela provisória ou não), em prestígio ao princípio da efetividade dos provimentos jurisdicionais no contexto do moderno processo civil de resultados, motivo pelo qual possuem natureza patrimonial e função inibitória ou coercitiva.
+5- À luz do novo Código de Processo Civil, não se aplica a tese firmada no julgamento do REsp 1200856/RS, porquanto o novo Diploma inovou na matéria, permitindo a execução provisória da multa cominatória mesmo antes da prolação de sentença de mérito.
+6- Não há que se falar em exigência de caução, porquanto o levantamento do valor, por expressa disposição do § 3º do art. 537 do CPC/2015, está condicionado ao trânsito em julgado da sentença favorável à parte.
+7- A teor do § 3º do art. 537 do CPC/2015, é imperioso concluir que as astreintes, devidas desde o dia em que configurado o descumprimento da ordem judicial, podem ser objeto de execução provisória antes da confirmação da tutela provisória por sentença de mérito.
+8- No que diz respeito a interposição do presente recurso especial pela alínea "c" do permissivo constitucional, importa consignar que não se pode conhecer do recurso pela referida alínea, uma vez que pretende a parte recorrente discutir idêntica tese já afastada, ficando prejudicada a divergência jurisprudencial aduzida.
+9- Afastada a tese perfilhada pela Corte de origem no sentido de que o excesso da multa não poderia ser analisado de ofício, é imperiosa a determinação de retorno dos autos ao tribunal estadual para que enfrente o referido ponto como entender de direito, verificando, ante as peculiaridades fático-probatórias da hipótese, se a multa cominatória em questão revela-se insuficiente ou excessiva.
+10- Recurso especial parcialmente provido.
+(REsp n. 1.958.679/GO, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 23/11/2021, DJe de 25/11/2021, g.n..)
+Na hipótese dos autos, a conclusão do acórdão recorrido de que "somente com a prolação de decisão final acerca do objeto da lide, é que a exigência da multa se tornará viável, desde que a apelante tenha sua pretensão acolhida pelo d. juízo a quo" (e-STJ, fl. 67) não encontra, portanto, respaldo na jurisprudência desta Corte, merecendo o acórdão recorrido reforma no ponto.
+Com a modificação do acórdão nesse tópico, fica prejudicado o exame das alegadas nulidades decorrentes das apontadas violações aos arts. 10 e 1.022 do CPC.
+Todavia, conforme a jurisprudência do Superior Tribunal de Justiça, incide a multa do art. 1.026, § 2º, do CPC/15 quando as questões tidas por omissas foram devidamente fundamentadas na decisão embargada e se caracteriza o intento protelatório na interposição dos embargos de declaração.
+Ademais, para se chegar a conclusão diversa da que chegou o Tribunal estadual - a fim de afastar o caráter protelatório dos embargos, reconhecido pelo Tribunal de origem -, seria inevitável o revolvimento do arcabouço fático-probatório, procedimento sabidamente inviável na instância especial por incidir o óbice do Enunciado n.º 7 do STJ.
+A propósito:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA. NOTIFICAÇÃO EXTRAJUDICIAL ENVIADA AO ENDEREÇO DECLARADO PELA FIDUCIANTE MAS NÃO ENTREGUE. MOTIVO MUDOU-SE. MORA NÃO COMPROVADA. EMBARGOS DE DECLARAÇÃO PROTELATÓRIOS. MULTA DO ART. 1.026, § 2º, DO NCPC. AFASTAMENTO. SÚMULA N.º 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+3. Para se chegar a conclusão diversa da que chegou o Tribunal estadual - a fim de afastar a multa imposta no julgamento dos embargos de declaração, que foram considerados protelatórios -, seria inevitável o revolvimento do arcabouço fático-probatório, procedimento sabidamente inviável na instância especial por incidir o óbice da Súmula n.º 7 do STJ.
+ ..
+(AgInt no AREsp n. 2.168.221/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 9/11/2022, DJe de 11/11/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DA RÉ.
+ ..
+2.1. Na hipótese , o Tribunal estadual, soberano no exame do acervo fático-probatório dos autos, entendeu pelo evidente intuito protelatório dos embargos de declaração, razão pela qual a pretensão de afastamento da multa prevista no art. 1.026, § 2º, do CPC de 2015 encontra óbice na Súmula 7/STJ.
+ ..
+(AgInt no AREsp n. 2.171.186/SC, relator Ministro Marco Buzzi, Quarta Turma, julgado em 6/3/2023, DJe de 10/3/2023.)
+Ante o exposto, DOU PARCIAL PROVIMENTO ao recurso especial apenas para determinar o retorno dos autos ao segundo grau de jurisdição para que, superada a questão relacionada ao cabimento do cumprimento provisório de sentença relativa a astreintes, prossiga no julgamento da apelação interposta pela recorrente, como entender de direito.
+Advirto as partes que a oposição de incidentes manifestamente improcedentes e protelatórios dará azo à aplicação das penalidades legalmente previstas.
+Intimem-se.
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL CIVIL. CUMPRIMENTO PROVISÓRIO DE SENTENÇA. ASTREINTES. ART. 537, § 3º, DO CPC/15. TESE REPETITIVA. RESP N. 1200856/RS. INAPLICABILIDADE. TERCEIROS EMBARGOS DE DECLARAÇÃO. MULTA. ART. 1.026, § 2º, DO CPC. CARÁTER PROTELATÓRIO. REVISÃO. IMPOSSIBILIDADE. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ.
+RECURSO ESPECIAL PARCIALMENTE PROVIDO.
