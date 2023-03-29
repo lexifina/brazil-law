@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão assim ementado (fl. 240):
+APELAÇÃO CRIMINAL TRÁFICO DE DROGAS (ART. 33 c/c ART.40, III, DA LEI Nº 11.343/06) DOSIMETRIA QUANTIDADE E NATUREZA DA DROGA APREENDIDA PENA-BASE MODIFICADA CAUSA DE DIMINUIÇÃO PREVISTA NO § 4º, DO ART. 33, DA LEI Nº 11.343/06 CIRCUNSTÂNCIAS DO CASO CONCRETO CAUSA DE AUMENTO PREVISTA NO ART. 40, III, DA LEI Nº 11.343/06 - PATAMAR ACIMA DO MÍNIMO LEGAL NÃO FUNDAMENTADO - APLICAÇÃO - RECURSO PROVIDO EM PARTE.
+O aumento perpetrado pelo magistrado, muito embora coerente com o intervalo de pena proposto pela Lei de Drogas, está desproporcional, considerando, sobretudo, que a acusada transportava quantidade inexpressiva de drogas, cuja natureza não é considerada tão nociva.
+Ao fixar o percentual de redução previsto no art. 33, § 4º, da Lei n. 11.343/06, o julgador deve levar em consideração as circunstâncias do caso concreto.
+Não houve fundamentação para fixar a causa de aumento prevista no art.40, III da Lei de Drogas em fração diversa do mínimo.
+Recurso parcialmente provido.
+Sustenta a defesa violação do art. 33, § 4º, da Lei 11.343/2006, alegando que não houve fundamentação idônea para aplicar a minorante do tráfico privilegiado em fração diversa da máxima prevista (2/3), razão pela qual requer o provimento do recurso para aplicar citado patamar.
+Contrarrazões apresentadas. O Ministério Público Federal manifestou-se pelo improvimento do recurso.
+A recorrente foi condenada pelo juízo de primeiro grau, como incursa no art. 33 c/c art. 40, III, ambos da Lei 11.343/06, e artigo 331 do Código Penal, às penas de 3 anos e 10 meses de reclusão, em regime aberto, e 164 dias-multa, e 6 meses de detenção, em regime aberto, substituídas as penas privativas de liberdade por restritivas de direitos.
+Acerca da minorante do art. 33, § 4º, da Lei 11.343/2006, constou na sentença (fls. 154-156):
+Para concessão do presente beneficio, faz-se necessário o preenchimento de alguns requisitos básicos, quais sejam, ser réu primário, de bons antecedentes, não se dedicar às atividades criminosas nem integrar organização criminosa.
+Verifico que a ré faz jus a concessão do beneficio legal, pois é primária, possui bons antecedentes e não foram produzidas provas de que integra organização criminosa ou que se dedica às atividades criminosas.
+Desta forma, será aplicada a causa de diminuição de pena do artigo 33, § 4º da Lei 11.343/06.
+ ..  Presente a causa de diminuição de pena prevista no artigo 33, § 4º, da Lei 11.343/06, pelo que diminuo a pena privativa de liberdade na metade, passando a vigorar em 02 (DOIS) ANOS, 10 (DEZ) MESES e 15 (QUINZE) DIAS DE RECLUSÃO.
+O acórdão analisou a questão vertida nos seguintes termos (fl. 243):
+Na terceira fase, o apelante requer a fixação da causa de diminuição de pena, contida no art. 33,§ 4º da Lei 11.343/06, na fração de dois terços (2/3), sustentando que o magistrado a quo não apresentou fundamentos para fixá-la na metade (1/2).
+Na hipótese, observa-se que, o fato da acusada ter tentado ingressar em uma Penitenciária de Segurança Máxima com substâncias entorpecentes, impede a incidência da causa de diminuição de pena em sua fração máxima. Desse modo, mantenho a diminuição da pena privativa de liberdade na metade, ficando estabelecida em dois (2) anos e seis (6) meses de reclusão.
+Verifica-se que as instâncias ordinárias reconheceram a incidência da minorante do tráfico privilegiado, fixando, porém, fração diversa da m áxima. Para tanto, considerou-se o "fato da acusada ter tentado ingressar em uma Penitenciária de Segurança Máxima com substâncias entorpecentes", o que não constitui fundamento concreto apto a evidenciar vivência delitiva pela acusada ou para justificar a aplicação da benesse em fração diversa da máxima. Confira-se:
+HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. DOSIMETRIA. MINORANTE DO ART. 33, § 4º, DA LEI DE DROGAS. AUSÊNCIA DE INDICAÇÃO DE FUNDAMENTO CONCRETO. APLICAÇÃO EM 2/3. REGIME INICIAL ABERTO E SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. ORDEM CONCEDIDA.
+1. O art. 33, § 4º, da Lei de Drogas prevê a possibilidade de redução da reprimenda, na terceira fase da dosimetria, de 1/6 a 2/3, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa.
+2. Esta Corte superior entende ser possível, para fins de modulação do redutor mencionado, a utilização da quantidade, natureza, diversidade dos entorpecentes apreendidos, bem como a gravidade concreta do delito demonstrada pelas circunstâncias do crime.
+3. Entretanto, o fato de a agente ter tentado entrar com drogas, escondidas em partes do seu corpo, dentro do presídio com o objetivo de entregar ao seu marido, não constitui fundamento concreto a fim de mitigar a aplicação da benesse. Razão pela qual a ordem deve ser concedida, no ponto, para fixar a fração máxima prevista, qual seja, 2/3.
+4. Afastado o fundamento utilizado para justificar o agravamento do regime inicial e a negativa da conversão da pena privativa em restritiva, e fixada a pena final em patamar inferior a 4 anos de reclusão, o regime inicial deve ser alterado para o aberto e a pena privativa de liberdade substituída por restritiva de direitos.
+5. Habeas corpus concedido para reduzir a pena final a 1 ano, 11 meses e 10 dias de reclusão, mais 194 dias-multa, alterar o regime inicial para o aberto e substituir a pena privativa de liberdade por restritiva de direitos.
+(HC n. 532.434/SP, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 12/11/2019, DJe de 22/11/2019.)
+Dessa forma, fixada a pena intermediária em 5 anos de reclusão e 500 dias-multa, aplica-se a causa de aumento de pena prevista no art. 40, III, da Lei 11.343/2006, na fração de 1/6, bem como a minorante do art. 33, § 4º, da mesma lei, na fração de 2/3, perfazendo a pena final o patamar de 1 ano, 11 meses e 10 dias de reclusão, mantida a pena pecuniária de 164 dias-multa fixada na origem, bem como o regime aberto.
+Mantidos os demais termos do acórdão.
+Ante o exposto, dou provimento ao recurso especial para, relativamente ao crime descrito no art. 33, caput, da Lei 11.343/2006, reduzir a pena da recorrente a 1 ano, 11 meses e 10 dias de reclusão, em regime aberto, e 164 dias-multa.
+Publique-se.
+Intimem-se.
