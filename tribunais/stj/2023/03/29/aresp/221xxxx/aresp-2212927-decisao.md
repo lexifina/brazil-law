@@ -1,0 +1,50 @@
+DECISÃO
+Cuida-se de agravo interposto por BENEDICTO BATISTA NOVAES, EDSON JORGE DA SILVA, EVAIR CAPORASSO BONI, FRANCISCO CORTEZ MORA, LINDAURA ALVES ABRÃO, LUIZA PRADO, MARIA AUGUSTA PASQUOT POLIDO, MARIA DO CARMO GOMES DOSUALDO, MARIA DO CARMO MORAIS SAMPAIO LEITE, MARIA ELISA FERNANDEZ BOLANOS RAMOS, MARIZILDA DE SOUZA LINO, MARLENE MULLER, NEYD PETTENAZZI CAMARA, NILVA MENDONCA ASSAD GHIRALDINI, ODETE APARECIDA PEREIRA, RUBENS GERALDO DE SOUZA, SANDRA MARIA HAKMI DO VAL, SONIA HELENA BOCCES, SONIA LECY DA SILVA PERES, SONIA MARIA ROSSETTO CONTADOR, SUZANA MARIA NEVES NUNES e VERA LUCIA DE MELLO FRAGIACOMO contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que os agravantes interpuseram recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 623):
+SERVIDORES PÚBLICOS ESTADUAIS - PROFESSORES - EXERCÍCIO DE CARGOS OU FUNÇÕES COM REMUNERAÇÃO SUPERIOR À DO CARGO DE ORIGEM - PRETENSÃO À INCORPORAÇÃO DE DÉCIMOS - ART. 133 DA CE
+- Autores não se desincumbiram de seu ônus de comprovar o direito perseguido - Art. 373, I, do CPC - Não demonstraram a diferença de vencimentos entre os cargos ou funções e a quantidade de décimos perseguidos por cada qual - Sentença mantida - Apelo desprovido.
+Rejeitados os embargos de declaração opostos (fls. 648-652).
+No recurso especial, os agravantes alegam, preliminarmente, ofensa aos arts. 489, § 1º, IV, e 1.022, I e II, parágrafo único, II, do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+No mérito, os recorrentes aduzem que o acórdão contrariou as disposições contidas nos arts. 9º, 10, 370, 371 e 938, § 3º, do CPC.
+Suscitam, em síntese, que é dever do juiz determinar, de ofício, as provas que entender necessárias ao julgamento do mérito, bem como que o relator, uma vez que entendeu pela necessidade de produção de prova, deveria converter o julgamento em diligência.
+Asseveram que o juiz tem o dever de apreciar a prova constante nos autos e de indicar, na decisão, as razões da formação do seu convencimento. Ademais, argumentam que o juiz deixou de apreciar prova documental constante nos autos.
+Ainda, sustentam que o Tribunal de origem incidiu na violação de decisão surpresa e não observou o contraditório, tendo em vista que deixou de intimar as partes para se pronunciarem sobre o conjunto probatório.
+Foram oferecidas contrarrazões ao recurso especial (fls. 675-691).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 694-695), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 714-731).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+A irresignação não merece prosperar.
+Inicialmente, não há que se falar em violação dos arts. 489 e 1.022 do CPC, porquanto depreende-se do acórdão recorrido que o Tribunal de origem, de modo fundamentado, abordou a questão das provas e indicou claramente as razões de seu convencimento (fls. 626-627):
+Pois bem. Dos documentos carreados aos autos pelos autores é, de fato, possível, ao menos em relação a maior parte deles, depreender-se tanto os cargos de confiança por eles exercidos, quanto os períodos nos quais eles exerceram tais funções.
+Entretanto, da atenta leitura das declarações e portarias juntadas aos autos não se faz possível concluir os décimos concedidos pela administração aos requerentes, nem mesmo dos requeridos por eles. Importa observar que o período de um ano necessário à incorporação de 1/10 contém excepcionalidades que merecem ser verificadas.
+Igualmente, não consta das informações trazidas os valores dos valores pagos à época, tanto do cargo original como daquele com maior remuneração.
+Frise-se que alguns dos autores pleiteiam a incorporação de décimos referentes a períodos anteriores à própria Constituição do Estado de São Paulo, Carta que dispôs acerca de tal direito, o que é impossível.
+Ademais, a LCE nº 836/97 reestruturou o plano de carreira do magistério estadual, produzindo reflexos nos vencimentos dos servidores, inclusive em relação às incorporações, o que também não foi esclarecido.
+Assim, tendo em vista que os autores, ora apelantes, não se desincumbiram de comprovar o fato constitutivo do seu direito, de rigor a manutenção da sentença.
+Em embargos de declaração, o Tribunal de origem asseverou (fl. 651):
+Ademais, cumpre ressaltar, que o acórdão que manteve a sentença de improcedência da ação por ausência de comprovação pelos autores do fato constitutivo do seu direito, não viola nem a vedação à decisão surpresa nem o princípio do contraditório.
+Por fim, frise-se que as excepcionalidades a serem verificadas no período de um ano para a incorporação de 1/10, citadas no acórdão embargado, referem-se as ausências no trabalho não consideradas como de efetivo exercício.
+O v. acórdão decidiu todas as questões levantadas no presente recurso de forma clara e fundamentada. Assim, os presentes embargos pretendem rediscutir a questão anteriormente decidida.
+Ademais, nos termos da jurisprudência do STJ, "não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional" (AgInt no AREsp n. 1.907.401/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 22/8/2022, DJe de 29/8/2022).
+No mérito, maior sorte não assiste aos recorrentes.
+Alega a parte recorrente violação dos arts. 9º, 10, 370, 371 e 938, § 3º, do CPC.
+Sustenta a falta de oportunidade de produção de provas e que é dever do juiz determinar, de ofício, as provas que entender necessárias ao julgamento do mérito, bem como que o relator, uma vez que entendeu pela necessidade de produção de prova deveria converter o julgamento em diligência.
+Aduz que o juiz deixou de apreciar prova documental constante nos autos e que o Tribunal de origem incidiu na violação de decisão surpresa e não observou o contraditório, tendo em vista que deixou de intimar as partes para se pronunciarem sobre o conjunto probatório.
+No caso dos autos, o Tribunal de origem, de modo fundamentado, exarou: "Assim, tendo em vista que os autores, ora apelantes, não se desincumbiram de comprovar o fato constitutivo do seu direito, de rigor a manutenção da sentença" (fl. 627).
+E, em embargos de declaração, complementou (fl. 651):
+ ..  Não há que se falar em omissão do v. acórdão por não ter determinado a produção das provas faltantes, visto que era dos autores, ora embargantes, o ônus da produção da prova documental capaz de comprovar os fatos constituintes dos seus direitos.
+Ademais, cumpre ressaltar, que o acórdão que manteve a sentença de improcedência da ação por ausência de comprovação pelos autores do fato constitutivo do seu direito, não viola nem a vedação à decisão surpresa nem o princípio do contraditório.
+Nos termos da jurisprudência pacífica desta Corte, cabe ao magistrado, destinatário da prova, valorar sua necessidade, conforme o princípio do livre convencimento motivado. Não obstante, o entendimento desta Corte é firme no sentido de que a aferição acerca da necessidade de produção de prova impõe o reexame do conjunto fático-probatório encartado nos autos, o que é defeso ao STJ, em recurso especial, ante o óbice erigido pela Súmula n. 7/STJ.
+Nesse sentido, cito:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. FAIXA DE DOMÍNIO. ACESSO Á IMÓVEL. VIOLAÇÃO AO ART. 1.022 DO CPC. INOCORRÊNCIA. DISTRIBUIÇÃO DINÂMICA DO ÔNUS PROBATÓRIO. HIPOSSUFICIÊNCIA DE UMA DAS PARTES. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REVOLVIMENTO DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULAS N. 05 E 07/STJ. INCIDÊNCIA. ACÓRDÃO EMBASADO EM NORMA DE DIREITO LOCAL. LEI ESTADUAL N. 3.930/2006 E LEI COMPLEMENTAR ESTADUAL N. 741/2019. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 280/STF. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A Corte de origem apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese. Inexistência de omissão, contradição ou obscuridade.
+III - É entendimento desta Corte Superior, que a distribuição do ônus probatório é regra dinâmica que deve ser interpretada conforme o caso concreto, devendo o referido ônus recair sobre a parte que tiver melhores condições de produzir a prova, ainda mais na hipótese em que se verifica a hipossuficiência da parte autora na produção das provas necessárias à demonstração do direito pleiteado.
+IV - Rever o entendimento do Tribunal de origem, no sentido de afastar o cerceamento de defesa decorrente do julgamento antecipado da lide, demandaria interpretação de cláusula contratual e revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz dos óbices contidos nas Súmulas n. 05 e 07/STJ.
+ ..
+IX - Agravo Interno improvido.
+(AgInt no REsp n. 1.960.485/SC, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 5/12/2022, DJe de 7/12/2022 - grifo meu.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
