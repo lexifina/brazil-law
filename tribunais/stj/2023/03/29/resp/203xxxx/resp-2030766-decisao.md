@@ -1,0 +1,60 @@
+DECISÃO
+Trata-se de recurso especial interposto por FNS SRVIÇOS E FORMENTO MERCANTIL LTDA, fundamentado nas alíneas "a" e "c" do permissivo constitucional, em face de acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado (fls. 256/257, e-STJ):
+DIREITO CIVIL. PROCESSO CIVIL. APELAÇÃO CÍVEL. AÇÃO MONITÓRIA. TÍTULOS DE CRÉDITO. CHEQUES PRESCRITOS. SENTENÇA FUNDAMENTADA. OBSERVÂNCIA AOS REQUISITOS DO ARTIGO 489, § 1º, DO CPC. NECESSIDADE DA APRESENTAÇÃO DOS TÍTULOS DE CRÉDITO ORIGINAIS AOS AUTOS, AINDA QUE O PROCESSO SEJA ELETRÔNICO. SENTENÇA REFORMADA.
+1. Consideram-se atendidos os requisitos do art. 489, § 1º, do Código de Processo Civil, nas hipóteses em que, embora de forma sucinta, o pronunciamento jurisdicional relata as circunstâncias relevantes, aponta os argumentos de fato e de direito que motivaram a decisão e indica a solução para a questão posta em juízo.
+2. É imprescindível a apresentação da cártula original do título de crédito (cheque) na ação monitória, ante da possibilidade de circular, nos termos do art. 425, § 2º, do CPC, não excluindo essa exigência em processo eletrônico.
+3. Apelação conhecida e provida. Unânime.
+Opostos embargos de declaração (fls. 279/283, e-STJ), esses foram rejeitados.
+Em suas razões recursais (fls. 334/346, e-STJ), a recorrente apontou, além de dissídio jurisprudencial, violação aos artigos 1022 do Código de Processo Civil/15 e 11 da Lei 11.419/06. Sustentou, em suma: i) negativa de prestação jurisdicional, por não terem sido supridas as omissões, contradições e erro suscitadas nos aclaratórios em relação ao enfrentamento adequado da questão relativa à apresentação do original do título de crédito; ii) ser prescindível a apresentação da cártula original do título de crédito (cheque) para a instruir a ação monitória.
+Contrarrazões (fls. 357/364, e-STJ), e após decisão de admissão do recurso
+especial (fls. 367/368, e-STJ), os autos ascenderam a esta egrégia Corte de Justiça.
+É o relatório.
+Decido.
+O inconformismo não merece prosperar.
+1. Com efeito, no que tange à alegada violação ao artigo 1.022 do CPC/15, não merece acolhimento a insurgência, porquanto clara e suficiente a fundamentação adotada pelo Tribunal de origem.
+Aduz a insurgente a ocorrência de negativa de prestação jurisdicional, ao argumento de que o Tribunal de origem teria sido omisso em relação ao enfrentamento da questão relativa à necessidade da apresentação da cártula original do título de crédito.
+Contudo, da leitura dos autos, constata-se que referida tese foi expressamente examinada pela Corte a quo, consoante se denota dos seguintes trechos (fl. 207, e-STJ):
+Conforme relato, pede a Embargante que sejam atribuídos efeitos modificativos aos presentes Embargos de Declaração, sob o argumento de que o v. Acórdão contém erro material, omissão e obscuridade, pois foram juntados vários documentos comprobatórios do direito da Autora.
+Diz que "foram colacionados nos autos as fotocópias da original dos cheques, e tudo foi devidamente conferido pelo r. juiz, sem qualquer pedido de emenda. Não foi DETERMINADO pelo juiz de primeira instância, em nenhum momento da instrução do processo, para que fosse depositado os títulos na Vara (cartório ou secretaria)".
+Alega que, "mesmo que, voluntariamente, se quisesse depositar os cheques no fórum à época, não haveria como, porquanto estava, e ainda permanece, FECHADO, em razão da pandemia. Portanto, onde seria DEPOSITADOS tais títulos, Excelência ".
+Assevera que não houve qualquer suspeita na r. sentença de que os títulos não serem originais.
+Destaca, ainda, que "nos termos do artigo 11 da Lei nº 11.419/2006 os documentos produzidos eletronicamente e juntados aos processos eletrônicos, com garantia da origem e de seu signatário, serão considerados originais para todos os efeitos legais".
+Sem razão a Embargante.
+De logo, enfatizo que os embargos de declaração só podem ser acolhidos se houver omissão, contradição, erro material e ou obscuridade no julgado e que digam respeito às questões postas e não resolvidas no acórdão, nos termos do art. 1.022 do Código de Processo Civil.
+Também é necessário ressaltar que os embargos de declaração não servem para o reexame da matéria resolvida no julgado.
+Na hipótese em exame, ao contrário do que alega a Embargante, não há qualquer vício a ser sanado, pois todos os argumentos constantes das razões recursais e contrarrazões relevantes ao julgamento foram devidamente analisados no v. Acórdão.
+Como visto, o v. Acórdão embargado foi claro ao considerar que o egrégio TJDFT considera imprescindível a apresentação da cártula original do título de crédito na ação monitória, ante a possibilidade de a cártula circular, nos termos do art. 425, § 2º, do CPC, não afastando a exigência em autos eletrônicos.
+(..)
+Ora, a Embargante tinha o dever apresentar os títulos originais, ainda que sem a prévia determinação do Juízo de origem, sobretudo porque a parte contrária apresentou embargos monitórios questionando a ausência de prova escrita, justamente pelo fato de não terem sido apresentados os títulos originais (Id. 30289810), tese reeditada nas contrarrazões aos presentes Embargos de Declaração.
+Também não merece guarida a tese de que não seria possível apresentar os títulos originais, "porquanto o Fórum estava, e ainda permanece, FECHADO, em razão da pandemia", pois é cediço que o atendimento presencial, especialmente aos advogados, não cessou durante a pandemia, pois houve mera restrição de horários e formas de acesso às Varas.
+Desta forma, considerando que a questão trazida à discussão foi dirimida pelo Tribunal de origem de forma fundamentada e sem omissões ou contradições, merece ser afastada a alegada negativa de prestação jurisdicional.
+2. Cinge-se a controvérsia à necessidade de apresentação da cártula original do título de crédito (cheque) para instruir a ação monitória.
+O Tribunal de piso, ao analisar a controvérsia, assim decidiu (fls. 261/263, e-STJ):
+No entanto, tem razão os Apelantes quanto à exigência da apresentação das cártulas originais dos cheques.
+Sucede que o egrégio TJDFT se posiciona no sentido de que é imprescindível a apresentação da cártula original do título de crédito na ação monitória, ante da possibilidade de circular, nos termos do art. 425, § 2º, do CPC, não afastando a exigência em processos eletrônicos. Veja-se:
+(..)
+O fato de os presentes autos serem eletrônicos não isenta a apresentação dos cheques originais digitalizados. No caso, é nítido que aqueles estampados no Id. 30289482 não são os títulos originais, pois há elementos destacados nas cópias reproduzidas pela parte autora.
+O mero fato de se tratar de processo eletrônico não afasta a necessidade de os títulos originais serem apresentados, nos termos do § 2º do artigo 425 do Código de Processo Civil, que tem a seguinte redação: "Tratando-se de cópia digital de título executivo extrajudicial ou de documento relevante à instrução do processo, o juiz poderá determinar seu depósito em cartório ou secretaria."
+Dessa forma, não tendo o Autor trazido os cheques originais aos autos, mesmo depois de ter sido questionado a validade dos documentos nos embargos à monitória, a reforma da r. sentença é medida que se impõe.
+Como se verifica, o Tribunal de origem asseverou ser imprescindível a apresentação da cártula original do título de crédito na ação monitória.
+Desse modo, o entendimento do Tribunal de origem, no ponto, encontra-se em harmonia com a jurisprudência do STJ, o que atrai a incidência do teor da Súmula 83 desta Corte, a impedir o conhecimento do recurso por ambas as alíneas do permissivo constitucional.
+Ademais, a revisão do aresto impugnado no sentido pretendido pelo recorrente exigiria derruir a convicção formada nas instâncias ordinárias, medida impossível pela via estreita do recurso especial, conforme o enunciado da Súmula 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. CÉDULA DE CRÉDITO BANCÁRIO. EXECUÇÃO INSTRUÍD A COM CÓPIA DO TÍTULO. POSSIBILIDADE. AGRAVO INTERNO IMPROVIDO.
+1. "A juntada da via original do título executivo extrajudicial é, em princípio, requisito essencial à formação válida do processo de execução, pois objetiva assegurar a autenticidade da cártula apresentada e afastar a hipótese de ter o título circulado, sendo, em regra, nula a execução fundada em cópias dos títulos. A execução pode, excepcionalmente, ser instruída por cópia reprográfica do título extrajudicial em que fundamentada, prescindindo da apresentação do documento original, principalmente quando não há dúvida quanto à existência do título e do débito e quando comprovado que este não circulou" (REsp 1.997.729/MG, Relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 23/8/2022, DJe de 25/8/2022).
+2. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp n. 1.862.419/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 3/10/2022, DJe de 26/10/2022.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. 1. DISCUSSÃO QUANTO À NECESSIDADE DE APRESENTAÇÃO DE CÉDULA ORIGINAL DE CRÉDITO BANCÁRIO. EXIGIBILIDADE. RECONHECIMENTO. PRECEDENTE ESPECÍFICO DESTA CORTE DE JUSTIÇA. 2. HONORÁRIOS SUCUMBENCIAIS E RECURSAIS. NÃO CABIMENTO. 3. AGRAVO INTERNO IMPROVIDO.
+1. De fato, a jurisprudência mais recente de ambas as Turmas que compõem a Segunda Seção desta Corte Superior é no sentido da necessidade de juntada da via original do título executivo extrajudicial, com o objetivo de garantir a autenticidade da cártula e afastar a possibilidade de sua circulação. Daí a necessidade de conferir à parte autora oportunidade para apresentar a cédula de crédito original.
+2. Com efeito, não há falar em inversão dos honorários sucumbenciais e recursais, porquanto o decisum agravado não extinguiu o processo, mas apenas determinou seu retorno à origem para que fosse providenciada a juntada de documento original. Da mesma forma, não se cogita de extinção do feito, sem resolução de mérito, uma vez que, como dito, houve apenas a aplicação do entendimento jurisprudencial desta Corte Superior.
+3. Agravo interno improvido.
+(AgInt nos EDcl no AREsp n. 2.117.579/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 14/11/2022, DJe de 18/11/2022.)
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE BUSCA E APREENSÃO - DECISÃO MONOCRÁTICA QUE DEU PARCIAL PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE AUTORA.
+1. Segundo o entendimento jurisprudencial adotado por este Superior Tribunal de Justiça, a cédula de crédito bancário é título de crédito com força executiva, possuindo as características gerais atinentes à literalidade, cartularidade, autonomia, abstração, independência e circulação, este último atributo expressamente consignado no art. 29, § 1º, da Lei nº 10.931/2004.
+1.1 A juntada do original do documento representativo de crédito líquido, certo e exigível, consubstanciado em título de crédito com força executiva, é a regra, sendo requisito indispensável não só para a execução propriamente dita, mas, também, para todas as demandas nas quais a pretensão esteja amparada na referida cártula.
+1.2 A dispensa da juntada do original do título somente ocorre quando há motivo plausível e justificado para tal, como exemplo, quando estiver instruindo outra demanda ou inquérito, envolver quantias vultosas, não possuir a serventia judicial local apropriado para a sua guarda, casos em que essa Corte Superior tem abrandado a regra geral, admitindo demanda fundada em fotocópias. Incidência da Súmula 83/STJ.
+2. Agravo interno desprovido.
+(AgInt no REsp n. 1.939.207/SC, relator Ministro Marco Buzzi, Quarta Turma, julgado em 20/6/2022, DJe de 24/6/2022.)
+3. Do exposto, com fundamento no artigo 932 do NCPC c/c Súmula 568 do STJ, conheço do agrava para negar provimento ao recurso especial e, com base no art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) o valor dos honorários sucumbenciais fixados pela Corte de origem.
+Publique-se.
+Intimem-se.
