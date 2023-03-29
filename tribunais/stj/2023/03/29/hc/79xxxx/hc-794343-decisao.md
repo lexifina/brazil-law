@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de THIAGO BARRETO UCHOA apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Agravo em Execução n. 0007438-33.2022.826.0026).
+Colhe-se dos autos que o Tribunal de origem deu provimento ao recurso de agravo em execução interposto pelo Ministério Público para reformar a decisão que havia concedido o livramento condicional ao paciente (e-STJ fls. 17/26).
+Alega a defesa, na presente impetração, que o paciente preenche os requisitos necessários para a concessão do benefício do livramento condicional, regularmente reconhecidos em primeiro grau.
+Afirma, ainda, não haver justificativa para a determinação de realização de exame criminológico.
+Requer a concessão da medida liminar "para que seja concedida a ordem a fim de determinar imediatamente o afastamento do pedido de prisão do Paciente, com expedição de contramandado de prisão e/ou salvo conduto, ante a ilegalidade" (e-STJ fl. 15).
+Indeferida a liminar (e-STJ fls. 236/237), e prestadas as informações solicitadas (e-STJ fls. 241/271); manifestou-se o Ministério Público Federal pelo não conhecimento do habeas corpus (e-STJ fls. 273/277).
+É o relatório.
+Decido.
+No caso, a concessão do livramento condicional foi deferida com a seguinte fundamentação (e-STJ fl. 100):
+O lapso temporal exigido foi resgatado e existe anotação de bom comportamento carcerário.
+Por outro lado, as demais informações constantes dos autos indicam que o sentenciado também ostenta o requisito subjetivo para o benefício, inclusive em razão da boa conduta carcerária atual e da inexistência de falta disciplinar. Além disso, o "boletim informativo"emitido pela unidade prisional não foi impugnado pelo Ministério Público. Apresenta mérito suficiente para o livramento condicional, que lhe dará estímulo para a sua recuperação social.
+Ademais, por tudo que foi exposto, também não há necessidade da realização de exame criminológico, não tendo sido apontado nenhum motivo concreto recente que justificasse a realização de tal exame, conforme critérios previstos na Súmula Vinculante 26 do STF.
+Ressalta-se que os requisitos previstos no artigo 131, da LEP c. c. o artigo 83 do Código Penal foram preenchidos.
+Não há notícias de prisão cautelar por outro processo. Desta forma, não vejo argumentos para o indeferimento do pleito.
+Posto isso, defiro o pedido formulado pelo sentenciado preso no(a) Centro de Progressão Penitenciária II de Bauru e concedo o benefício do livramento condicional, impondo as seguintes condições
+O Tribunal de origem deu provimento ao recurso ministerial com a seguinte argumentação (e-STJ fls. 20/22):
+Verifica-se dos autos que o sentenciado, reincidente, cumpre pena de 14 anos de reclusão, por infração ao Art. 2º, §2º, da Lei n.º 12850/2013, e Art. 157, §2º, inciso V (por quatro vezes), do Código Penal (fls. 16/18).
+No caso ora examinado, o d. juízo "a quo" considerou que o reeducando preencheu os requisitos exigidos para a concessão da benesse.
+Ocorre que, para a concessão do benefício em questão, realmente não se contenta o legislador com o atendimento do lapso temporal, exigindo-se que o sentenciado detenha também mérito, a evidenciar que esteja efetivamente preparado para retornar ao convívio social.
+E neste tópico é necessário frisar que o agravado cometeu vários crimes graves gravíssimos, como já ventilado, possuindo longa pena a cumprir, além de contar com o registro de falta disciplinar de natureza grave, tudo a revelar sua alta periculosidade, circunstâncias que não podem ser ignoradas na análise do pedido de livramento condicional, considerando que este benefício traz menor vigilância do Estado sobre o detento.
+É bem verdade que a Lei nº 10.792/03, que alterou a redação do artigo 112 da Lei de ExecuçãoPenal, trouxe como inovação a dispensa da realização de exame criminológico, como regra, para a concessão de benefícios tais.
+Entretanto, a inexigência legal não afeta a necessidade da realização do exame criminológico, para que o magistrado possa aferir se o sentenciado está em condições de vivenciar um regime mais brando.
+ ..
+Em observância às súmulas em comento, repisa-se que, no caso dos autos, referido exame é primordial para concluir com segurança se o sentenciado assimilou a terapêutica penal e se não voltará a delinquir, já que o fato de ter cometido crimes de alta reprovação social, sendo criminoso contumaz e possuindo considerável pena a cumprir, além de contar com o registro de falta disciplinar de natureza grave por subversão à ordem e à disciplina, são circunstâncias que não podem ser desprezadas na análise do pressuposto subjetivo do benefício visado.
+Portanto, como visto acima, o acórdão recorrido utilizou a fundamentação da gravidade abstrata do delito e reincidência do apenado, bem como mencionando uma única falta grave homologada em 9/3/2012.
+Em que pese o entendimento firmado pelo Tribunal de origem, vê-se que não houve falta disciplinar recente, há atestado de bom comportamento carcerário e esta Corte entende ser ilegal a exigência de passagem por regime intermediário para efeitos de concessão de livramento condicional.
+No mesmo sentido os seguintes julgados desta Corte:
+HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. FALTA DISCIPLINAR REABILITADA, GRAVIDADE ABSTRATA DO DELITO E NECESSIDADE DE PRÉVIA PROGRESSÃO AO REGIME INTERMEDIÁRIO. FUNDAMENTAÇÃO INIDÔNEA. CONFIRMADA A MEDIDA LIMINAR. ORDEM CONCEDIDA.
+1. O art. 83 do Código Penal - com redação dada pela Lei n. 13.964/2019, - fez incluir o bom comportamento (não somente satisfatório, como disposto na redação antiga) durante a execução da pena, além do não cometimento de falta grave nos últimos doze meses, para a concessão do livramento condicional.
+2. Conforme entendimento jurisprudencial e a novel legislação, não é possível atribuir efeitos eternos às faltas graves praticadas pelo apenado, o que constituiria ofensa ao princípio da razoabilidade e ao caráter ressocializador da pena.
+3. Na espécie, a falta grave foi cometida em 21/09/2018 pelo Paciente - durante o cumprimento da reprimenda imposta pela prática do delito previsto no art. 157, § 2.º, inciso II, c.c. o art. 70, caput, ambos do Código Penal, que teve seu comportamento atual classificado como bom no exame criminológico.
+4. Ordem habeas corpus concedida para determinar que o pleito de livramento condicional seja reavaliado, desconsiderando a gravidade abstrata do delito cometido, a falta disciplinar praticada em 21/09/2018 e a necessidade de prévia progressão ao regime intermediário, confirmada a medida liminar.
+(HC n. 592.587/SP, relatora Ministra LAURITA VAZ, SEXTA TURMA, julgado em 18/8/2020, DJe 2/9/2020.)
+HABEAS CORPUS. SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. INDEFERIMENTO. REQUISITO SUBJETIVO. LONGA PENA A CUMPRIR. GRAVIDADE DOS DELITOS PRATICADOS. FALTA GRAVE ANTIGA E JÁ REABILITADA. DESNECESSIDADE DE ADAPTAÇÃO A UM REGIME MAIS LIBERAL PARA A CONCESSÃO DO LIVRAMENTO CONDICIONAL. FUNDAMENTAÇÃO INIDÔNEA. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.  ..
+2. Para a concessão do benefício do livramento condicional, nos termos do art. 83 do CP e arts. 112 e 131 da LEP, deve o reeducando preencher os requisitos de natureza objetiva (fração de cumprimento da pena) e subjetiva (comportamento satisfatório durante a execução da pena, bom desempenho no trabalho que lhe foi atribuído e aptidão para prover o próprio sustento de maneira lícita).
+3. A gravidade dos delitos pelos quais o paciente foi condenado (roubo), bem como a longa pena a cumprir não são fundamentos idôneos para indeferir os benefícios da execução penal. Precedentes.
+4. Esta Corte Superior tem se manifestado no sentido de que faltas graves antigas e já reabilitadas não configuram fundamento idôneo para indeferir o pedido de progressão de regime. Por aplicação da mesma ratio decidendi, também não devem ser consideradas como motivo bastante para o indeferimento do livramento condicional.
+5. Por fim, a jurisprudência deste Superior Tribunal de Justiça consolidou entendimento no sentido de que não há obrigatoriedade de o(a) apenado(a) passar por regime intermediário para que obtenha o benefício do livramento condicional, ante a inexistência de previsão no art. 83 do Código Penal.
+6. Habeas corpus não conhecido. Ordem concedida, de ofício, para determinar que o Juízo das Execuções novamente analise o pedido de livramento condicional, afastada a fundamentação anteriormente adotada.
+(HC n. 508.784/SP, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 6/8/2019, DJe 22/8/2019.)
+EXECUÇÃO PENAL. HABEAS CORPUS. COMUTAÇÃO. DECRETO PRESIDENCIAL Nº 9.246/2017. DESCUMPRIMENTO DE CONDIÇÕES IMPOSTAS NO LIVRAMENTO CONDICIONAL. FALTA OCORRIDA HÁ MAIS DE 12 MESES. INTERPRETAÇÃO SISTEMÁTICA E TELEOLÓGICA. ART. 4º, I E IV DO CITADO DECRETO. IMPOSSIBILIDADE DE INTERPRETAÇÃO EXTENSIVA DE RESTRIÇÕES NO DECRETO CONCESSIVO DE COMUTAÇÃO/INDULTO. PRECEDENTES. HABEAS CORPUS CONCEDIDO.
+ ..
+2. Se para o indeferimento da comutação pela prática de falta grave é necessário que a referida infração disciplinar seja verificada nos 12 meses anteriores à publicação do Decreto concessivo, não há razão para que, no caso de descumprimento das condições impostas ao livramento condicional, tal lapso temporal não seja igualmente observado.
+ ..
+(HC n. 529.025/SP, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 17/12/2019, DJe 3/2/2020.)
+Ante o exposto, concedo a ordem para cassar o acórdão referente ao Agravo em Execução n. 0007438-33.2 022.8.26.0026 e restabelecer a decisão que concedeu ao paciente o benefício do livramento condicional.
+Publique-se. Intimem-se.
