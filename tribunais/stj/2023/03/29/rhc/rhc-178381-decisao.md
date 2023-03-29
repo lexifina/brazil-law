@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto por Matheus Moreira da Silva contra o acórdão proferido pela Primeira Câmara Criminal do Tribunal de Justiça de Goiás, que denegou a ordem lá impetrada ( Habeas Corpus n. 5074506-79.2023.8.09.0113), mantendo a prisão preventiva imposta ao recorrente pela suposta prática do crime de tráfico de drogas.
+Neste recurso, a defesa sustenta constrangimento ilegal na medida constritiva.
+Requer, assim, a concessão a medida liminar, ante a existência de fumus boni iuris e periculum in mora, determinando a imediata liberdade provisória do recorrente, mediante imposição de medidas cautelares diversas da prisão, com a imediata expedição de alvará de soltura em favor do recorrente Matheus Moreira da Silva, aguardando em liberdade para que possa responder ulteriores termos do processo-crime (fl. 143).
+É o relatório.
+O Magistrado de piso fundamentou o periculum libertatis da seguinte maneira (fl. 56 - grifo nosso):
+Os elementos de prova já encartados, ainda que produzidos sob égide do princípio inquisitório, sem prévia manifestação da defesa, apontam sérios indícios de que solto, o autuado colaria em risco a ordem pública, isso em virtude da gravidade concreta da conduta delitiva, onde o flagrado trazia consigo, da capital Goiânia, 1 (uma) porção de substância esbranquiçada, semelhante a cocaína, de aproximadamente 500g, para difusão ilícita em Niquelândia/GO.
+Com efeito, a Autoridade Policial narra que já havia sido aportado ao GERNARC/GIH, possível envolvimento do custodiado com grupo criminoso, de renome nacional, com atuação em Niquelândia/GO, fato que demanda maior acuidade na análise da necessidade da prisão cautelar
+Nos termos da jurisprudência do Superior Tribunal de Justiça, o decreto de prisão preventiva deve demonstrar a materialidade do crime e dos indícios de autoria de conduta criminosa, além de indicar, fundamentadamente, nos termos do art. 93, IX, da Constituição Federal, e do art. 315, § 2º, do Código de Processo Penal, fatos concretos e contemporâneos que demonstrem o perigo que a liberdade do investigado ou réu representa para a ordem pública, para a ordem econômica, para a conveniência da instrução criminal ou para a garantia da aplicação da lei penal, conforme o art. 312 do Código de Processo Penal (HC n. 592.107/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 29/9/2020).
+Em relação ao periculum libertatis, admite-se que a quantidade, a variedade e a natureza da droga apreendida podem servir para o Magistrado reconhecer a gravidade concreta da ação e a dedicação do agente a atividades criminosas, elementos capazes de justificar a necessidade da custódia preventiva para a garantia da ordem pública (HC n. 466.654/PR, Ministra Laurita Vaz, Sexta Turma, DJe 13/11/2018).
+O caso diz respeito ao suposto tráfico de um total de 500 g de cocaína, quantidade essa relevante, apta a deflagrar o uso da prisão preventiva como forma de acautelar o processo.
+Ademais, eventuais condições pessoais favoráveis não possuem o condão de, isoladamente, conduzir à revogação da prisão preventiva.
+Nesse cenário, há nos autos elementos hábeis a recomendar a manutenção da custódia cautelar do recorrente, não se mostrando suficientes, para o caso em análise, as medidas previstas no art. 319 do Código de Processo Penal.
+Ante o exposto, nego provimento ao recurso.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS (500 G DE COCAÍNA). PRISÃO PREVENTIVA. MATERIALIDADE E AUTORIA. GRAVIDADE CONCRETA. QUANTIDADE DE DROGA APREENDIDA. GARANTIA DA ORDEM PÚBLICA. PRECEDENTES. PERICULOSIDADE CONCRETA.
+Recurso improvido.
