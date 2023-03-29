@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de ANDRÉ SILVA DE OLIVEIRA CAMARGO, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente foi condenado como incurso nos arts. 33, caput, e 35 c.c. 40, III, todos da Lei n. 11.343/2006, c.c. art. 61, II, "j", na forma do art. 69 do CP, às penas de 19 anos, 5 meses e 10 dias de reclusão, em regime inicial fechado, e ao pagamento de 2.913 dias-multa.
+Em sede recursal, o Tribunal de origem deu parcial provimento ao recurso defensivo, para reduzir a pena definitiva do paciente para 11 anos, 3 meses e 10 dias de reclusão e pagamento de 1593, readequadas suas condutas para os crimes dos artigos 33, caput, e 35, caput, todos da Lei 11.343/2006, afastados o artigo 61, inciso II, alínea "j", do Código Penal, e o artigo 40, inciso III, da Lei de Drogas.
+Neste habeas corpus, alega a defesa, em suma, que " c om relação ao delito previsto no art. 33, da lei 11.343/2006, na primeira fase da dosimetria da pena, foi indevida a exasperação em 1/3 da pena-base, somente pela natureza e quantidade de drogas, (sem fundamentar o acréscimo acima do mínimo legal), maculando o art. 489, IV e VI do CPC" (e-STJ, fl. 4).
+Requer a redução da pena-base.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Passo, assim, à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+A Corte de origem fixou a dosimetria da pena sob os seguintes fundamentos:
+" ..
+Anota-se que foram apreendidas, na casa de Luiz Gustavo, 600 porções de crack e 1 de maconha; na casa de André, mais 1 tablete de 997,03 gramas de crack, 101 porções de cocaína e outra a granel.
+Luiz Gustavo admitiu que traficava.
+André alegou que toda essa droga era para seu consumo mensal. Um quilo de crack, que daria cerca de 4000 pedras, e 100 gramas de cocaína, que daria cerca de 200 porções. Em um mês. Drogas no valor de mais de vinte mil reais. Simplesmente não convence. Se André usasse tanta droga em um mês, certamente morreria de overdose.
+Correta a adequação da conduta de ambos no artigo 33, caput, do Código Penal.
+ ..
+Na análise das penas, é necessário corrigir os excessos.
+A pena-base dos réus para todos os delitos partiu de dois terços acima do mínimo pela quantidade e natureza dos entorpecentes apreendidos. Para Luiz Gustavo, a confissão foi compensada com a agravante da calamidade pública. Para André, houve aumento de um quarto pela reincidência específica (fls. 76/77) e pela agravante da calamidade pública. Ao final, as penas de ambos os réus foram aumentadas em um sexto pela proximidade da casa de Luiz Gustavo com um estabelecimento de ensino (Escola Municipal Glaucia de Melo Santos Pires, fls. 153/155).
+Das novas penas de Luiz Gustavo.
+Pois bem, a expressiva quantidade de droga e sua variedade justificam aumento da pena-base somente do crime de tráfico em um terço (seis anos e oito meses de reclusão e pagamento de seiscentos e sessenta e seis dias-multa). Não se justifica aumentar a pena-base do delito de associação para o tráfico, pois a quantidade e a variedade, aliadas às conversas telefônicas e às diligências policiais, ensejaram a condenação por este crime.
+Também é afastada a agravante da calamidade pública, pois não há indícios de que os apelantes tenham se prevalecido desta condição para a prática do crime.
+ ..
+Das novas penas de André.
+Como já dito em relação a Luiz Gustavo, a expressiva quantidade de droga e sua variedade justificam aumento da pena-base somente do crime de tráfico em um terço (seis anos e oito meses de reclusão e pagamento de seiscentos e sessenta e seis dias-multa). Não se justifica aumentar a pena-base do delito de associação para o tráfico, pois a quantidade e a variedade, aliadas às conversas telefônicas e às diligências policiais, ensejaram a condenação por este crime.
+Afastada a agravante da calamidade pública, reportando-se ao fundamento retro exposto, remanesce aumento de um sexto pela reincidência específica de André (foi solto pelo delito anterior em agosto de 2016, menos de cinco anos antes do presente crime, fl. 326) (sete anos, nove meses e dez dias de reclusão e 777 dias- multa pelo tráfico; três anos e seis meses de reclusão e 816 diárias pela associação).
+Não incide a causa especial de aumento de pena relativa à proximidade da casa de Luiz Gustavo de um estabelecimento de ensino, como afastado acima em relação ao corréu.
+As penas finais de André ficam em sete anos, nove meses e dez dias de reclusão e pagamento de setecentos e setenta e sete dias-multa para o tráfico e três anos e seis meses de reclusão e pagamento de oitocentos e dezesseis dias-multa para a associação. Total de onze anos, três meses e dez dias de reclusão e pagamento de mil, quinhentos e noventa e três dias-multa, no piso.
+A condenação pela associação e a reincidência impedem aplicação do redutor legal.
+O regime prisional inicial fechado foi corretamente fixado, em face da quantidade da pena, da natureza dos crimes, da reincidência específica de André, que revelam a periculosidade concreta dos agentes, que com suas condutas geram instabilidade em inúmeros lares, exigindo, em consequência, resposta penal mais enérgica com a qual não é compatível solução mais branda. Nesse tópico, é sempre pertinente lembrar que os mercadores de entorpecentes criam um poder paralelo que desafia e se opõe às autoridades constituídas, destrói pessoas e famílias, subjuga comunidades inteiras, e aniquila o futuro de crianças e jovens, decorrendo desuas condutas gravíssimas consequências para a sociedade.
+ ..
+Diante do exposto, dá-se parcial provimento aos recursos para reduzir as penas totais de Luiz Gustavo para oito anos, seis meses e vinte e cinco dias de reclusão e pagamento de mil, duzentos e cinquenta e cinco dias-multa, no piso, e as penas totais de André para onze anos, três meses e dez dias de reclusão e pagamento de mil, quinhentos e noventa e três diárias, na base, nos termos expostos no cálculo retro, readequadas suas condutas para os crimes dos artigos 33, caput, e 35, caput, todos da Lei 11.343/2006, afastados o artigo 61, inciso II, alínea "j", do Código Penal, e o artigo 40, inciso III, da Lei de Drogas." (e -STJ, fls. 59-68; sem grifos no original)
+Como se verifica, as instâncias ordinárias, atentas às diretrizes do art. 42 da Lei de Drogas, consideraram a quantidade e a variedade das drogas apreendidas - 1 tablete de crack (997,03g), 600 porções de crack (39g), 1 porção de maconha (22,20g), 1 porção de cocaína (43,37g) e 101 porções petrificadas de cocaína (61,81g) - para elevar a pena-base do delito de tráfico de drogas em 1 ano e 8 meses de reclusão acima do mínimo legal.
+Tendo sido apresentado elemento idôneo para a majoração da reprimenda básica, elencado inclusive como circunstância preponderante, e levando-se em conta as penas mínima e máxima abstratamente cominadas ao delito de tráfico de drogas (5 a 15 anos), não se mostra desarrazoado o aumento operado pela instância ordinária, a autorizar a intervenção excepcional desta Corte.
+Confiram-se alguns julgados que respaldam esse entendimento:
+" ..  2. Em se tratando de crime de tráfico de drogas, o juiz deve considerar, com preponderância sobre o previsto no artigo 59 do Estatuto Repressivo, a natureza e a quantidade da substância entorpecente, a personalidade e a conduta social do agente, consoante o disposto no artigo 42 da Lei 11.343/2006. No caso dos autos, a pena-base do paciente se afastou do mínimo com lastro na natureza da droga (crack), o que encontra amparo na jurisprudência desta Corte.
+ ..
+8. Habeas corpus não conhecido. Contudo, concedo a ordem, de ofício, para redimensionar a pena e fixar o regime semiaberto".
+(HC 471.413/PE, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 16/10/2018, DJe 26/10/2018)
+"5. De acordo com o art. 42 da Lei n. 11.343/2006, a quantidade e a natureza da droga apreendida são preponderantes sobre as demais circunstâncias do art. 59 do Código Penal e podem justificar a fixação da pena-base acima do mínimo legal, cabendo a atuação desta Corte apenas quando demonstrada flagrante ilegalidade no quantum aplicado.
+6. Hipótese em que as instâncias antecedentes, atentas às diretrizes do art. 42 da Lei de Drogas, consideraram a natureza da droga apreendida (cocaína) para fixar a pena-base acima do mínimo legalmente previsto.
+ ..
+11. Habeas corpus não conhecido.
+(HC 461.769/MS, de minha relatoria, QUINTA TURMA, julgado em 13/12/2018, DJe 19/12/2018)
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
