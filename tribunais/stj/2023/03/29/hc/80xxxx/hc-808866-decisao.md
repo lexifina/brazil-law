@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, sem pedido liminar, impetrado em favor de RENATO LUIZ PEDRO DE LIMA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO, proferido no julgamento da Apelação n. 0000001-28.2021.8.17.4810.
+Consta dos autos que o paciente foi condenado, em primeiro grau, pela prática dos delitos de tráfico de drogas (art. 33, caput, da Lei n. 11.343/06) e posse irregular de arma de fogo de uso permitido (art. 12 da Lei n. 10.826/03), às penas de 5 anos de reclusão e 1 ano de detenção no regime inicial semiaberto.
+Inconformada, a defesa interpôs apelação, a qual foi desprovida.
+A impetrante sustenta a existência de constrangimento ilegal à liberdade do ora paciente, decorrente da não aplicação da causa especial de diminuição de pena do § 4º do art. 33 da Lei de Drogas, com fundamento, exclusivamente, em ação penal em andamento.
+Requer a aplicação da referida minorante, com a consequente alteração do regime prisional.
+O Ministério Público Federal manifestou-se nos termos da seguinte ementa:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. DESCABIMENTO. TRÁFICO DE DROGAS. ARTIGO 33, §4º, DA LEI Nº 11.343/06. AÇÕES PENAIS EM CURSO QUE NÃO IMPEDEM O RECONHECIMENTO DO TRÁFICO PRIVILEGIADO. ENTENDIMENTO FIRMADO PELA TERCEIRA SEÇÃO DO STJ (TEMA 1139). FRAÇÃO MÁXIMA. REGIME ABERTO. SUBSTITUIÇÃO DA PENA. NÃO CONHECIMENTO DO WRIT. CONCESSÃO DE HABEAS CORPUS, DE OFÍCIO, PARA FIXAR A PENA EM 1 ANO E 8 MESES DE RECLUSÃO, NO REGIME INICIAL ABERTO, ALÉM DE 166 DIAS MULTA, SUBSTITUÍDA A SANÇÃO CORPORAL POR PENAS RESTRITIVAS DE DIREITOS. (fl. 279)
+É o relatório.
+Decido.
+O presente habeas corpus não merece ser conhecido, pois foi impetrado em substituição a recurso próprio. Contudo, passo à análise dos autos para verificar a possível existência de ofensa à liberdade de locomoção do paciente, capaz de justificar a concessão da ordem de ofício.
+De início, eis os fundamentos apresentados na origem:
+Sentença:
+" ..  Uma vez que o denunciado responde ao processo nº 0000337-77.2016.8.17.0810 da 3ª Vara Criminal desta Comarca, com condenação por crime de roubo, embora sem informação quanto ao trânsito em julgado, fica configurada a dedicação às atividades criminosas, o que afasta a aplicação da causa de diminuição prevista no art. 33, §4º, da Lei nº 11.434/06, conforme atual jurisprudência do Superior Tribunal de Justiça:  .. " (fl. 19)
+Acórdão:
+" ..  Com efeito, como bem pontuou a Magistrada de piso, conforme se infere do trecho supratranscrito, pesa em desfavor do Apelante condenação criminal no bojo da ação penal nº 0000337-77.2016.8.17.0810, da 3ª Vara Criminal desta Comarca, por crime de roubo, por fatos ocorridos anteriormente ao que ora se discute (denúncia recebida em janeiro de 2016),inobstante o decreto condenatório só tenha transitando em julgado posteriormente em 15/09/2021(Acr nº 502487-5) - sendo anterior, porém, ao édito condenatório em apreço (19/01/2022).
+No ponto, adoto entendimento do Superior Tribunal de Justiça no sentido de que a condenação por fato anterior ao delito que se julga, mas com trânsito em julgado posterior, não caracteriza reincidência, mas configura maus antecedentes (Precedentes: HC 185.894/MG, REsp 686.935/MS e HC 210.787/RJ).  .. " (fl. 27)
+O acórdão impugnado encontra-se em consonância com o entendimento desta Corte de que a condenação por fato anterior, com trânsito em julgado antes da sentença condenatória em questão, configura antecedente criminal apto a justificar o afastamento do § 4º do art. 33 da Lei de Drogas.
+Nesse sentido:
+HABEAS CORPUS. IMPETRAÇÃO SUBSTITUTIVA DE RECURSO PRÓPRIO. IMPROPRIEDADE DA VIA ELEITA. TRÁFICO ILÍCITO DE ENTORPECENTES. DOSIMETRIA. CONDENAÇÃO POR FATO PRETÉRITO COM TRÂNSITO EM JULGADO POSTERIOR AO DELITO OBJETO DO MANDAMUS E ANTERIOR À RESPECTIVA SENTENÇA CONDENATÓRIA. MAUS ANTECEDENTES CONFIGURADOS. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. IMPOSSIBILIDADE. PACIENTE DETENTOR DE MAUS ANTECEDENTES. REGIME INICIAL FECHADO. PRESENÇA DE CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. MANUTENÇÃO DO REGIME MAIS GRAVOSO. HABEAS CORPUS NÃO CONHECIDO.
+- O Supremo Tribunal Federal, por sua Primeira Turma, e a Terceira Seção deste Superior Tribunal de Justiça, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir a sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade.
+- Inexiste ilegalidade a ser reconhecida no tocante à valoração negativa dos antecedentes criminais do paciente, tendo em vista a existência de condenação transitada em julgado por fato pretérito ao delito objeto do presente mandamus, com trânsito em julgado anterior à sentença proferida nos presentes autos, situação apta a configurar maus antecedentes. Precedentes.
+- Não é possível a aplicação da causa especial de diminuição prevista no § 4º do art. 33 da Lei n.º 11.343/2006, haja vista que o paciente não preenche os requisitos legais, porquanto ostenta maus antecedentes, o que configura óbice à concessão da benesse.
+- Não há ilegalidade no estabelecimento do regime inicial fechado, pois a pena de 5 anos e 20 dias de reclusão, a presença de circunstância judicial desfavorável (maus antecedentes), a qual embasou a fixação da pena-base acima do mínimo legal, aliada à quantidade da droga apreendida, são circunstâncias que justificam o regime inicial fechado, consoante o disposto no art. 33, § 3º, do CP.
+- Habeas corpus não conhecido.
+(HC n. 340.496/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/6/2016, DJe de 13/6/2016.)
+Ante o exposto, não conheço do habeas corpus, com fundamento no art. 34, XX, do RISTJ.
+Publique-se.
+Intimações necessárias.
