@@ -1,0 +1,29 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO PROCESSUAL CIVIL. INTERPOSIÇÃO SIMULTÂNEA DE RECURSO EXTRAORDINÁRIO E INCIDENTE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA CONTRA DECISÃO DE TURMA RECURSAL DE JUIZADO ESPECIAL. OFENSA AO PRINCÍPIO DA UNIRRECORRIBILIDADE RECURSAL. MAJORAÇÃO DOS HONORÁRIOS DE SUCUMBÊNCIA. ARTIGO 85, § 11, DO CPC/2015. RECURSO DESPROVIDO.
+
+    DECISÃO: Trata-se de recurso extraordinário manejado com arrimo na alínea a do permissivo constitucional.
+
+    Analisados os autos, verifica-se que, simultaneamente ao recurso extraordinário, foi interposto incidente de uniformização de jurisprudência, ambos com o objetivo de reformar o mesmo acórdão de turma recursal de juizado especial.
+
+    In casu, incide a orientação firmada na jurisprudência do Supremo Tribunal Federal de ser incabível o recurso extraordinário interposto simultaneamente ao incidente de uniformização de jurisprudência, por força do Princípio da Unirrecorribilidade Recursal. Deveras, interposto o incidente de uniformização de jurisprudência, o recurso extraordinário somente será cabível, em tese, contra o futuro acórdão que julgar o incidente, pois somente então estará exaurida a instância ordinária, para os fins previstos no artigo 102, III, da Constituição Federal. Nesse sentido:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. JUIZADOS ESPECIAIS. INTERPOSIÇÃO SIMULTÂNEA DE RECURSO EXTRAORDINÁRIO E DE INCIDENTE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA. OFENSA AO PRINCÍPIO DA UNIRRECORRIBILIDADE RECURSAL. NÃO ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS. SÚMULA Nº 281/STF. PRECEDENTES. 1. A interposição simultânea de recurso extraordinário e de incidente de uniformização de jurisprudência, ambos com o objetivo de reformar o mesmo capítulo de acórdão de turma recursal, ofende o princípio da unirrecorribilidade recursal. 2. Incide no caso a orientação da Súmula nº 281 do Supremo Tribunal Federal, ante a ausência de esgotamento das vias ordinárias. 3. Agravo regimental desprovido, com imposição de multa de 5% (cinco por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC). 4. Honorários advocatícios fixados ao máximo legal em desfavor da parte recorrente, caso as instâncias de origem os tenham fixado, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º e a eventual concessão de justiça gratuita.” (ARE 1.304.098-AgR, Plenário, Rel. Min. Luiz Fux - Presidente, DJe de 28/4/2021, grifos nossos)
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. INTERPOSIÇÃO SIMULTÂNEA DE INCIDENTE DE UNIFORMIZAÇÃO E RECURSO EXTRAORDINÁRIO CONTRA DECISÃO DE TURMA RECURSAL DE JUIZADO ESPECIAL FEDERAL. SUPRESSÃO DE INSTÂNCIA: SÚMULA 281 DO SUPREMO TRIBUNAL FEDERAL. MULTA APLICADA NO PERCENTUAL DE 1%, CONFORME ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 1.015.643-AgR, Plenário, Rel. Min. Cármen Lúcia - Presidente, DJe de 24/5/2017, grifos nossos)
+
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. TETO. REVISÃO DOS CRITÉRIOS DE REAJUSTE DE BENEFÍCIO. INTERPOSIÇÃO SIMULTÂNEA DE INCIDENTE DE UNIFORMIZAÇÃO E DE RECURSO EXTRAORDINÁRIO CONTRA DECISÃO DE TURMA RECURSAL DE JUIZADO ESPECIAL. AUSÊNCIA DE EXAURIMENTO DAS VIAS RECURSAIS ORDINÁRIAS. SÚMULA 281 DO STF. PRECEDENTES. REITERADA REJEIÇÃO DOS ARGUMENTOS EXPENDIDOS PELA PARTE NAS SEDES RECURSAIS ANTERIORES. MANIFESTO INTUITO PROTELATÓRIO. MULTA DO ARTIGO 1.021, § 4º, DO CPC/2015. AGRAVO INTERNO DESPROVIDO.” (ARE 1.151.037-AgR, Primeira Turma, Rel. Min Luiz Fux, DJe de 30/11/2018, grifos nossos)
+
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. JUIZADOS ESPECIAIS FEDERAIS. ACÓRDÃO DE TURMA RECURSAL. ATAQUE SIMULTÂNEO POR RECURSO EXTRAORDINÁRIO E POR INCIDENTE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA. OFENSA AO PRINCÍPIO DA UNIRRECORRIBILIDADE. AUSÊNCIA DE EXAURIMENTO DE INSTÂNCIA. 1. O incidente de uniformização de jurisprudência no âmbito dos Juizados Especiais Federais, cabível quando houver divergência entre decisões sobre questões de direito material proferidas por Turmas Recursais na interpretação da lei (art. 14, caput, da Lei 10.259/01), possui natureza recursal, já que propicia a reforma do acórdão impugnado. Trata-se de recurso de interposição facultativa, com perfil semelhante ao dos embargos de divergência previstos no art. 546 do CPC e dos embargos previstos no art. 894, II, da CLT. 2. Embora se admita, em tese - a exemplo do que ocorre em relação àqueles embargos (CPC, art. 546, e CLT, art. 894, II) -, a interposição alternativa de incidente de uniformização de jurisprudência ou de recurso extraordinário, não é admissível, à luz do princípio da unirrecorribilidade, a interposição simultânea desses recursos, ambos com o objetivo de reformar o mesmo capítulo do acórdão recorrido. 3. Apresentado incidente de uniformização de jurisprudência de decisão de Turma Recursal, o recurso extraordinário somente será cabível, em tese, contra o futuro acórdão que julgar esse incidente, pois somente então, nas circunstâncias, estará exaurida a instância ordinária, para os fins previstos no art. 102, III, da CF/88. 4. Agravo regimental a que se nega provimento.” (ARE 846.326-AgR, Segunda Turma, Rel. Min. Teori Zavascki, DJe de 26/4/2016, grifos nossos)
+
+    Ex positis, DESPROVEJO o recurso, com fundamento no artigo 932, VIII, do Código de Processo Civil de 2015 c/c o artigo 21, § 1º, do Regimento Interno do STF.
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do artigo 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 29 de março de 2023.
+
+Ministro LUIZ FUX
+
+Relator
+
+Documento assinado digitalmente
