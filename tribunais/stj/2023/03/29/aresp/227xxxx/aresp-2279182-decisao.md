@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por AGN CONSTRUÇÕES LTDA contra a decisão de fls. 96-97, que inadmitiu o recurso especial pelos seguintes fundamentos: a) não demonstração da alegada vulneração aos arts. 272, §§2º, 5º, 276 e 523 do CPC; b) quanto à alegada ofensa aos arts. 272, §§2º, 5º, 276 e 523 do CPC; e incidência da Súmula n. 7 do STJ.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Sustenta que, diversamente do que constou na decisão agravada, foi devidamente demonstrada a violação dos arts. 272, §§2º, 5º, e 276 do CPC.
+Esclarece que, no que toca à infringência aos dispositivos legais arrolados, apontou-se que a legislação infraconstitucional é clara ao estabelecer que é indispensável que da publicação constem os nomes das partes e de seus advogados, com o respectivo número de inscrição na OAB ou, se assim requerido, da sociedade de advogados, sob pena de nulidade.
+Afirma que, embora tenha sido reconhecido que nos embargos monitórios houve pedido expresso para que as publicações fossem veiculadas em nome do advogado Alexandre Mendes Cruz Ferreira (OAB/SP n. 282.477), a sentença não foi publicada em nome do referido patrono
+Ressalta que o prejuízo é evidente, a exemplo da aplicação da multa prevista no art. 523, §1º, do CPC, em razão da ausência de pagamento voluntário no prazo legal para fazê-lo. Ademais, alega que não fora oportunizado que indicasse bens passíveis de penhora oportunamente, se manifestasse no bojo do cumprimento de sentença até o ponto em que fora ofertado incidente de desconsideração, efetuasse o pagamento do crédito exequendo (sem multa) dentro do prazo legal para fazê-lo, etc.
+Afasta a incidência da Súmula n. 7 do STJ, pois não pretende reexaminar provas ou circunstâncias fáticas. Registra que o objetivo é a correta interpretação e aplicação dos preceitos dispostos nos arts. 72, § § 2º e 5º, 276 e 523 do Código de Processo Civil.
+Requer o provimento do agravo em recurso especial para que seja admitido e provido o recurso especial.
+O agravado apresentou contraminuta ao agravo em recurso especial.
+É o relatório. Decido.
+No caso dos autos, o Tribunal de origem afastou a alegação de nulidade, destacando que, "embora não tenha sido adequadamente intimada da r. sentença, acabou apresentando apelação (AP 1000687-98.2016.8.26.0001), que foi conhecida e resolvida, isto é, não houve nenhum prejuízo a sua defesa" (fl. 63).
+Ademais, afirmou que (fl. 64):
+ ..  não tendo sido concedido efeito suspensivo à apelação e, mais ainda, tendo sido mantida a r. sentença tal como lançada, não há sentido em impedir o cumprimento provisório do julgado, o qual, como se sabe, é possível sempre que pender "recurso desprovido de efeito suspensivo", como no caso.
+Fundamentou a decisão aduzindo ainda que, em regra seja necessária a intimação do advogado, a nulidade é afastada quando ausente o prejuízo ao interessado.
+Registrou que (fl. 64):
+É exatamente isso que se deu no caso concreto: a ausência de intimação não impediu a apresentação de defesa no momento adequado nem impede; afastado o trânsito em julgado da r. sentença - e ciente a parte da sua existência ante a apresentação de apelação contra ela - nada impede o cumprimento provisório.
+Com efeito, não se ignora jurisprudência desta Corte no sentido de que, havendo pedido para que a publicação seja realizada exclusivamente em nome de determinado advogado, configura cerceamento de defesa a intimação em nome de advogado diverso (AgRg no AREsp n. 358.469/MS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 10/9/2013).
+Contudo, não há que se olvidar que o Superior Tribunal de Justiça já sedimentou entendimento no sentido de que não se declara a nulidade (no caso, da intimação) sem que ocorra o efetivo prejuízo à parte, a despeito de inobservância da forma prevista em lei (EDcl no REsp n. 1.424.304/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 12/8/2014, DJe de 26/8/2014), o que, diante dos elementos probatórios dos autos, o TJSP destacou que não ocorreu.
+Diante das referidas considerações, afasta-se a alegada nulidade pleiteada pela parte agravante e a violação dos dispositivos legais arrolados.
+Assim, da detida análise dos autos, constata-se que, de fato, não ocorreu o desenvolvimento de argumentação jurídica clara e precisa de como o Tribunal a quo teria ofendido o disposto nos dispositivos legais arrolados ou de como tenha dado interpretação divergente da adotada pelo STJ ou por outro tribunal.
+Ressalte-se que a simples alegação de que ocorreu a violação de artigos não é suficiente para demonstrar a afronta a dispositivo legal.
+Ainda que assim não o fosse, a irresignação da parte agravante não mereceria prosperar, pois, concluir de forma diversa, entendendo pela existência de prejuízo no caso concreto, demandaria o necessário reexame do acervo fático-probatório dos autos, o que é vedado em recurso especial, nos termos da Súmula n. 7 do STJ.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
