@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por VIA CAMPOS TRANSPORTES EIRELI (ou VIA CAMPOS TRANSPORTES LTDA), contra decisão que inadmitiu o recurso especial com fundamento na incidência da Súmula n. 7 do STJ.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, foi interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo (Agravo de Instrumento n. 2185589-02.2021.8.26.0000) assim ementado (fl. 61):
+Agravo de instrumento. Arresto decretado em incidente de desconsideração da personalidade jurídica. Indeferimento do pedido de substituição do dinheiro arrestado por bens móveis. Providência que não se justifica no caso concreto. Manutenção da garantia mais idônea até ao menos a elucidação dos expedientes fraudulentos que constituem a causa de pedir do incidente. Inexistência de prova do comprometimento da saúde financeira da agravante. Decisão mantida. Recurso improvido.
+Nas razões do recurso especial, a parte ora agravante aponta ofensa aos arts. 805 e 847, caput, §§ 1º, II, e 2º, do Código de Processo Civil. Alega que a lei garante a substituição do arresto de dinheiro por bens móveis em virtude do princípio da menor onerosidade das medidas expropriatórias. Defende que o bloqueio do montante de R$ 250.000,00 ameaça a atividade empresarial ao diminuir seu capital de giro.
+Aduz ainda dissídio jurisprudencial com julgados do Tribunal de Justiça do Estado de Minas Gerais e do Superior Tribunal de Justiça.
+Requer o conhecimento e provimento do recurso para que seja deferida a substituição do arresto cautelar de pecúnia pelos bens móveis que foram ofertados.
+Contrarrazões às fls. 143-158.
+É o relatório. Decido.
+No caso, o Tribunal de origem indeferiu a substituição do arresto por dois fundamentos: a) o arresto de dinheiro justifica-se ao menos até que sejam apurados os ilícitos que deram causa ao incidente, porque só então será possível mensurar os riscos e verificar a adequação da garantia oferecida pela devedora; e b) a empresa devedora não comprovou que o bloqueio dos valores comprometeria gravemente sua saúde financeira.
+No entanto, a parte recorrente deixou de impugnar o primeiro fundamento, limitando-se a alegar que o bloqueio dos valores põe em risco a atividade empresarial. Portanto, incide na espécie, por analogia, a Súmula n. 283 do STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+Ademais, para reconhecer a suposta ofensa ao arts. 805 e 847, caput, §§ 1º, II, e 2º, do Código de Processo Civil, sob o argumento de que a imobilização dos valores comprometeria a sobrevivência da empresa, seria necessário o reexame de fatos e provas do processo, uma vez que o Tribunal de origem asseverou que a parte recorrente não comprovou que o arresto dos valores comprometeria gravemente a atividade empresarial. Incide, pois, o disposto na Súmula n. 7 do STJ.
+Ante o exposto, nego provimento ao agravo.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
