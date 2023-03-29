@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de agravo apresentado por SAVOY IMOBILIARIA CONST LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+TRIBUTÁRIO. ITU. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE REJEITADA. PROPOSITURA APÓS O QUINQUÊNIO LEGAL. NO QUE TANGE A PARTE DOS CRÉDITOS PERSEGUIDOS, CARACTERIZANDO PRESCRIÇÃO ORIGINÁRIA. DEMAIS CRÉDITOS NÃO FULMINADOS. MUNICÍPIO QUE NÃO DEU CAUSA À DEMORA NA CITAÇÃO OU À PARALISAÇÃO DO FEITO. INCIDÊNCIA DA SÚMULA 106 DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO DE INSTRUMENTO PROVIDO EM PARTE.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação dos arts. 174, parágrafo único, I, do CTN; e art. 240, § 2º, do CPC, no que concerne à irretroatividade da citação promovida nos autos à data da propositura da ação, para fins de interrupção do prazo prescricional, uma vez que o atraso na citação se deu em razão de o recorrido não ter promovido os atos necessários a viabilizá-la, trazendo os seguintes argumentos:
+12. A Recorrida não obedeceu ao prazo previsto no art. 240, §2º, do CPC para efetivar a citação, o que impede a retroatividade à data da propositura da demanda.
+ ..
+15. Da data de constituição do crédito tributário ocorrido em 10/1/2000 e 10/1/2001 e a citação válida da Recorrente em 1/10/2007, é inequívoco o transcurso de prazo superior a 5 anos, nos termos do artigo 174, parágrafo único, I, do CTN, na redação anterior à LC nº 118/2005, de modo que efetivamente houve a ocorrência de prescrição.
+16. No caso, não é possível a retroatividade da citação à data da propositura da demanda, já que a Recorrida não promoveu a citação no prazo de 10 dias conforme CPC vigente, ou 100 dias, de acordo com o CPC de 1973.
+17. A demora na citação não pode ser atribuída ao Poder Judiciário, eis que proposta a ação, ainda que dentro do prazo prescricional, cabe ao credor promover os atos necessários a viabilizar a citação.
+ ..
+21. Nesse sentido, o v. acórdão recorrido violou, a um só tempo, tanto o dispositivo do CTN, ao não considerar a data da citação válida como marco interruptivo da prescrição, quanto a norma do CPC, já que só há retroatividade à data da propositura da ação se o credor promover os atos necessários para viabilizar a citação no prazo de 10 dias conforme CPC vigente, ou 100 dias, de acordo com o CPC de 1973 (fls. 96-98).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Verdade que, no que toca aos exercícios 2000 e 2001, a execução foi inaugurada dentro do lustro prescricional originário e a citação foi aperfeiçoada depois dele (outubro/2007 fls. 26). Contudo, demora não pode ser atribuída ao credor, pois se expediu a carta quase três anos depois.
+De igual modo, não se operou prescrição intercorrente. Afinal, frutífero o ato citatório e apresentada impugnação pela executada (fls. 31/39 março de 2008), o credor foi pessoalmente intimado apenas em março de 2021 (fls. 49).
+A paralisação do processo foi fruto de retardo da máquina judiciária e não se pode penalizar o Município.
+Vale anotar que a ilustre Juíza referiu, no decisum hostilizado, "excessiva e já reconhecida demanda de trabalho" (fls. 55).
+Incide aqui a Súmula 106/STJ, assim redigida: "proposta a ação no prazo fixado para o seu exercício, a demora na citação, por motivos inerentes ao mecanismo da justiça, não justifica o acolhimento da arguição de prescrição ou decadência" (fl. 89, grifo meu).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
