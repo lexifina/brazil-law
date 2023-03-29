@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Ruan Henrique Alves Ferreira da Silva - condenado como incurso nos crimes de homicídio qualificado e corrupção de menores -, em que se aponta como autoridade coatora o Tribunal de Justiça de Pernambuco, que negou provimento à apelação defensiva, mantendo a condenação imposta pelo Juízo de Direito da 1ª Vara do Tribunal do Júri da comarca de Recife/PE (Ação Penal n. 0012277-07.2017.8.17.0001).
+Alega a impetrante, em síntese, constrangimento ilegal consistente em nulidade da condenação imposta pelas instâncias ordinárias, ao argumento de que, durante a fala do órgão ministerial em plenário, foi diversas vezes utilizado o silêncio do paciente em seu interrogatório na sessão de julgamento como elemento probatório para embasar o pedido de condenação (fl. 2).
+Postula, então, a concessão liminar da ordem para que seja anulada a sessão de julgamento do Tribunal do Júri e, por consequência, a sentença condenatória.
+Em 20/10/2020, indeferi o pedido liminar (fls. 49/50).
+Prestadas as informações (fls. 61/65), o Ministério Público Federal opinou pelo não conhecimento do writ (fls. 67/72):
+HABEAS CORPUS SUBSTITUTIVO. INADEQUAÇÃO DA VIA ELEITA. HOMICÍDIO MAJORADO. NULIDADE. SILÊNCIO. MERA REFERÊNCIA. TEMA NÃO EXPLORADO. AUSÊNCIA DE PREJUÍZO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+1.É pacífica a jurisprudência no sentido de que não deve ser conhecido o habeas corpus impetrado como substitutivo de recurso, cabendo, porém, a verificação da existência de flagrante ilegalidade que justifique a concessão da ordem, de ofício.
+2. A mera referência ao silêncio do acusado, sem a exploração do tema, não enseja a nulidade, ainda mais quando não resta demonstrada a existência de prejuízo nesse sentido.
+3. Parecer pelo não conhecimento do habeas corpus.
+É o relatório.
+O presente pedido não comporta acolhimento.
+Isso, porque conforme observado pelo Tribunal de origem, quando da ouvida da mídia na qual consta o interrogatório em Plenário (fl. 223), ocasião na qual o réu apenas negou a prática do crime dizendo que estava no local e hora errados, é possível ouvir a MM. Juíza de Direito, antes de iniciar o ato, esclarecer sobre o direito ao silêncio do réu (fl. 35), bem como que não ficou comprovado que a simples referência ao silêncio do réu feita pela douta Promotora de Justiça em Plenário seria capaz de influenciar a decisão dos jurados (fl. 36).
+No mesmo sentido:
+RECURSO ESPECIAL. DIREITO PENAL E PROCESSUAL PENAL. HOMICÍDIO QUALIFICADO E TENTATIVA DE HOMICÍDIO. TRIBUNAL DO JÚRI. AUSÊNCIA DA OITIVA DE TESTEMUNHAS IMPRESCINDÍVEIS PARA A DEFESA. IMPRESCINDIBILIDADE NÃO VERIFICADA. INTELIGÊNCIA DO ART. 461, DO CÓDIGO DE PROCESSO PENAL. ORIENTAÇÃO DA SÚMULA 523, DO SUPREMO TRIBUNAL FEDERAL. LEITURA PELA ACUSAÇÃO DO ACÓRDÃO QUE ANULOU O JÚRI REALIZADO ANTERIORMENTE. ARGUMENTO DE AUTORIDADE. INOCORRÊNCIA. MENÇÃO EM PLENÁRIO SOBRE O SILÊNCIO DO ACUSADO AO SER INTERROGADO. PLEITO DE NULIDADE DO JÚRI. PREJUÍZO NÃO DEMONSTRADO. INOCORRÊNCIA DE OFENSA AO PRINCÍPIO DA PLENITUDE DE DEFESA. INTELIGÊNCIA DO ART. 478, I E II, DO CÓDIGO DE PROCESSO PENAL. RECURSO ESPECIAL NÃO PROVIDO.
+1. Segundo a Súmula 523, do Supremo Tribunal Federal, "no processo penal, a falta de defesa constitui nulidade absoluta, mas a sua deficiência só o anulará se houver prova de prejuízo para o réu."
+2. O texto do art. 478 deve ser analisado em cotejo com o art. 480, do Código de Processo Penal, que possibilita aos jurados e às partes "a qualquer momento e por intermédio do juiz presidente, pedir ao orador que indique a folha dos autos onde se encontra a peça por ele lida ou citada, facultando-se, ainda, aos jurados solicitar-lhe, pelo mesmo meio, o esclarecimento de fato por ele alegado". E o art. 480, § 3º, acrescenta que: "os jurados, nesta fase do procedimento, terão acesso aos autos e aos instrumentos do crime se solicitarem ao juiz presidente." Portanto, não há ilegalidade na leitura do acórdão que julgou a apelação porque é permitida
+a leitura de documentos em Plenário pelas partes, desde que a menção de tais peças processuais não seja feita como argumento de autoridade, em prejuízo do acusado.
+3. O texto da lei é claro ao proibir a menção ao silêncio do acusado "e seu prejuízo" (art. 478, II, do Código de Processo Penal). Não se vislumbra prejuízo na simples menção ao silêncio do réu, sem a exploração do tema em Plenário, conforme consignado na ata de julgamento.
+4. "A Suprema Corte possui precedentes no sentido de que "a demonstração de prejuízo, a teor do art. 563 do CPP, é essencial à alegação de nulidade, seja ela relativa ou absoluta" (HC 85.155/SP, Segunda Turma, de relatoria da Ministra Ellen Gracie, DJ de 15/4/05).
+7. A declaração de nulidade no direito penal não prescinde da demonstração do efetivo prejuízo para a defesa, consoante dispõe o art. 563 do Código de Processo Penal, o que importa dizer que a desobediência às formalidades estabelecidas na legislação processual somente poderá implicar o reconhecimento da invalidade do ato quando a sua finalidade estiver comprometida em virtude do vício verificado" (RHC 114739/PA, Rel. Min. DIAS TOFFOLI, Primeira Turma, julgado em 30/10/2012, DJE 10/12/2012).
+5. Recurso especial não provido.
+(REsp n. 1.321.276/SP, Ministro Moura Ribeiro, Quinta Turma, DJe 15/8/2014 - grifo nosso)
+Em face do exposto, denego a ordem.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO E CORRUPÇÃO DE MENORES. NULIDADE. JÚRI. MENÇÃO AO SILÊNCIO DO ACUSADO. EXPLORAÇÃO EM PLENÁRIO. AUSÊNCIA. PREJUÍZO. INEXISTÊNCIA.
+Ordem denegada.
