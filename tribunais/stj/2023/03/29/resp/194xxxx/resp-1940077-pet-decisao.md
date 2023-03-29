@@ -1,0 +1,12 @@
+DECISÃO
+Por meio da petição juntada às e-STJ 433/435 a União alega que o despacho proferido à e-STJ fl. 430, o qual determinou a retirada de pauta e o sobrestamento do feito, padeceria de erro quanto ao tema afetado.
+Sustenta que "o sobrestamento do feito deve se dar com base na afetação dos RESPs 1.880.238, 1.880.241,1.880.246 e 1.871.942, que tratam da seguinte controvérsia: "Definir se há direito de pensionista de militar à assistência médico-hospitalar por meio do Fundo de Saúde da Aeronáutica (FUNSA). Os processos afetados tratam de instituidores falecidos antes da vigência da Lei nº 13.954/2019, razão pela qual a discussão da tese está adstrita à legislação vigente antes das alterações promovidas pelo referido diploma legal"" (e-STJ fl. 433).
+Requer, assim, que a decisão de e-STJ fl. 430 seja integrada, fazendo constar a correta causa do sobrestamento do feito, qual seja, a afetação dos RESPs 1.880.238, 1.880.241, 1.880.246 e 1.871.942.
+É o relatório. Decido.
+Com efeito, o despacho proferido à e-STJ fl. 430 apresenta equívoco quanto ao tema suscitado pela União para o sobrestamento do feito (Tema nº 1080/STJ).
+Ocorre que o Tema nº 1080/STJ NÃO se aplica ao presente caso.
+Com efeito, discute-se no Tema nº 1080 a seguinte controvérsia: "Definir se há direito de pensionista de militar à assistência médico-hospitalar por meio do Fundo de Saúde da Aeronáutica (FUNSA). Os processos afetados tratam de instituidores falecidos antes da vigência da Lei nº 13.954/2019, razão pela qual a discussão da tese está adstrita à legislação vigente antes das alterações promovidas pelo referido diploma legal."
+Segundo já consignado na própria decisão agravada (e-STJ fls. 388/395), a recorrida, filha maior de 24 anos de MILITAR VIVO, foi excluída do Fundo de Saúde da Aeronáutica em 28/02/2018, com base na Norma de Serviço do Comando da Aeronáutica (NSCA) nº 160-5, editada no ano de 2017, ao argumento de que não poderia ser considerada dependente do militar para fins de ser beneficiária da assistência médico-hospitalar, uma vez que seria maior de 24 anos, idade fixada em referido ato administrativo, conforme documento juntado às e-STJ fls. 33/34.
+Logo, o presente caso não trata de manutenção de pensionista de militar no FUNSA, mas sim de manutenção/reinclusão de filha maior de 24 anos de militar vivo, hipótese não abrangida pelo repetitivo.
+Diante do exposto, chamo o feito à ordem para indeferir o pedido de sobrestamento do processo.
+Publique-se. Intimem-se.
