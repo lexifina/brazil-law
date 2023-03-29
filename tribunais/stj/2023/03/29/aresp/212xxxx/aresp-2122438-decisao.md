@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão da incidência das Súmulas 7 do STJ e 280 do STF e da ausência de comprovação do dissídio nos moldes legais.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl.242):
+Ação Civil Pública - Transporte coletivo intermunicipal - Pretensão em coibir desrespeito aos direitos dos idosos pela não observância da gratuidade aos maiores de 65 anos que utilizam o transporte coletivo - Exegese do artigo 230 da Constituição Federal e artigo 39 do Estatuto do Idoso - Sentença de improcedência reformada - Recurso de apelação parcialmente provido.
+Rejulgamento dos embargos de declaração, nos termos da ementa (fl. 901):
+EMBARGOS DE DECLARAÇÃO - Anulação de V. Acórdão, proferido em embargos de declaração, determinado pelo S. T. J. - Rejulgamento - Ação Civil Pública proposta pelo Ministério Público para compelir empresa de transporte coletivo de passageiros na obrigação de efetivar o transporte gratuito de passageiro a idoso com mais de 60 anos - Alegação de omissão e contradição no V. Acórdão, bem como, pleito de prequestionamento de dispositivo legais para fins de acesso aos Tribunais Superiores - Inexistência de omissão e contradição - Os dispositivos legais utilizados para fundamentar o convencimento da Turma Julgadora, são condizentes com o direito perseguido e aptos ao deferimento do direito ao transporte coletivo gratuito a idosos, já garantido constitucionalmente - Ademais, advento da Lei Estadual no 10.179/13 e decreto regulamentador da referida lei, não havendo mais qualquer óbice à incrementação do direito dos idosos ao transporte coletivo intermunicipal gratuito -Embargos de declaração rejeitados.
+No recurso especial o recorrente alega violação do artigo 485, VI e § 3º, do CPC/2015, bem como dissídio jurisprudencial, ao argumento de que a edição da nova legislação gerou a perda superveniente do interesse processual.
+Com contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+Parecer do MPF nos termos da ementa (fl. 1083):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. REE-XAME DE FATOS. MANUTENÇÃO DE DECISÃO POR SEUS PRÓPRIOS FUNDAMENTOS. SÚMULAS 7/STJ. PARECER PELO DESPROVIMENTO DO AGRAVO EM RECURSO ESPECIAL.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Tendo a parte insurgente impugnado os fundamentos da decisão agravada, passo ao exame do recurso especial.
+Verifica-se que não houve juízo de valor por parte da Corte de origem quanto ao artigo 485, VI e § 3º, do CPC/2015 (e a tese a ele vinculada), o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplica-se ao caso a Súmula 282/STF.
+Ademais, segundo entendimento desta Corte, a inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese. Nesse sentido: AgInt no REsp 1.590.388/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 24/3/2017; AgInt no REsp 1.343.351/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 23/3/2017.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro em 10% os honorários advocatícios, observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (§ 3º do artigo 98 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO DO DISPOSITIVO TIDO POR VIOLADO. SÚMULA 282/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
