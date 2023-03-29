@@ -1,0 +1,12 @@
+DECISÃO
+A requerente ANA BEATRIZ FAILLI ALVES MACHADO peticiona a esta Corte Superior de Justiça, por meio de seu advogado, apresentando peça denominada pela defesa como recurso ordinário constitucional, pela qual se insurge contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - TJSP no julgamento da Revisão Criminal n. 2267356-28.2022.
+Eis o teor da ementa do acórdão impugnado:
+"Revisão criminal. Nulidade não verificada. Ausência de ilegalidade na prisão em flagrante da peticionária. Mérito. Não configuradas as hipóteses previstas no art. 621, do CPP. Nulidade alegada afastada e pedido revisional indeferido." (fl. 2)
+Por meio da presente petição a defesa da requerente alega ilegalidade de busca pessoal, por ter sido realizada por agentes municipais após denúncia anônima. Sustenta invasão ao domicílio da requerente pleiteando a anulação de todas as provas colhidas bem como das derivadas.
+Requer a concessão de medida liminar para que seja afastado o mandado de prisão e concedida prisão domiciliar. Subsidiariamente, pugna pela expedição de guia provisória "para que o defensor possa promover os trabalhos diante tais circunstâncias mencionadas" (fl. 32).
+É o relatório.
+Decido.
+Primeiramente observe-se que, nos termos do art. 105, inciso II, da Constituição Federal - CF, compete ao Superior Tribunal de Justiça - STJ julgar em recurso ordinário: (a) os habeas corpus decididos em única ou última instância pelos Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e Territórios, quando a decisão for denegatória; (b) os mandados de segurança decididos em única instância pelos Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e Territórios, quando denegatória a decisão; e (c) as causas em que forem partes Estado estrangeiro ou organismo internacional, de um lado, e, do outro, Município ou pessoa residente ou domiciliada no País.
+Como se vê, é incabível a interposição de recurso ordinário constitucional em face de acórdão de Tribunal Estadual que julga revisão criminal.
+Com efeito, a insurgência da defesa em face de acórdão proferido em julgamento de revisão criminal deve ser feita por recurso próprio que possui regras específicas de admissibilidade para seu processamento. Destarte, a presente petição substitutiva de recurso próprio não deve ser processada por ser manifestamente incabível.
+Ante o exposto, com fundamento no art. 34, XVIII, a, do Regimento Interno do STJ, não conheço do pedido .
