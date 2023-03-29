@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial interposto por MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal - CF, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS em julgamento de Agravo em Execução Penal n. 1.0079.15.042171-1/001.
+Consta dos autos que o Juízo da Execução Penal extinguiu a pena privativa de liberdade imposta a DEVID REBERT MARGARIDA por seu integral cumprimento (fl. 54).
+Recurso de agravo em execução penal interposto pela acusação foi desprovido (fl. 58). O acórdão ficou assim ementado:
+"AGRAVO EM EXECUÇÃO PENAL. REGIME ABERTO. PRISÃO DOMICILIAR. FALTA GRAVE. PRÁTICA DE NOVO CRIME. DESCONSIDERAÇÃO DO TEMPO DE PENA CUMPRIDO. IMPOSSIBILIDADE. AUSÊNCIA DE PREVISÃO LEGAL. A prática de falta grave durante o gozo da prisão domiciliar em regime aberto não tem o condão de suspender o cômputo de pena cumprida, ante a ausência de previsão legal" (fl. 53).
+Embargos de declaração opostos pela acusação foram rejeitados (fl. 86). O acórdão ficou assim ementado:
+"EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE CONTRADIÇÃO OU OBSCURIDADE. REJEIÇÃO DO RECURSO. NECESSIDADE. - Os embargos de declaração são inadmissíveis se a decisão embargada não ostentar ambiguidade, obscuridade, contradição, omissão ou erro material que justifique sua oposição." (fl. 81).
+Em sede de recurso especial (fls. 98/106), o parquet estadual apontou violação aos artigos 1º, 38, 39 e 117 todos da LEP, e 90 do Código Penal; e, em virtude da rejeição dos embargos declaratórios, e artigos 619 do Código de Processo Penal, e artigo 1.022, caput, incisos I e II do CPC c/c artigo 3º do CPP.
+Sustentou que a Câmara julgadora considerou o lapso temporal posterior à prática de novo crime como período de pena cumprido, malgrado o descumprimento das condições impostas. Afirmou que o recorrido encontrava-se em regime aberto com prisão domiciliar desde o dia 13.09.2016, todavia, em 08/03/2019, veio a cometer novo crime - tráfico de drogas.
+Em seguida, ponderou que, diante do descumprimento das condições impostas, a revogação da prisão domiciliar seria obrigatória.
+Requereu a reforma do acórdão recorrido.
+Contrarrazões do DEIVID REBERT MARGARIDA (fls. 111/115).
+Admitido o recurso no TJ (fls. 120/121), os autos foram protocolados e distribuídos nesta Corte. Aberta vista ao Ministério Público Federal - MPF, este opinou pelo provimento do recurso especial (fl. 139).
+É o relatório.
+Decido.
+Sobre a controvérsia, o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS manteve a decisão de extinção de pena do recorrido proferida pelo juízo da execução nos seguintes termos do voto do relator:
+"A pretensão não merece acolhida.
+Sustenta o agravante que foi considerado o cumprimento ficto da pena, vez que a execução deveria ter sido suspensa pela prática do novo crime durante a prisão domiciliar, nos termos da Súmula 534 do STJ: "A prática de falta grave interrompe a contagem do prazo para a progressão de regime de cumprimento de pena, o qual se reinicia a partir do cometimento dessa infração ."
+Todavia, tal sumula diz respeito à interrupção do prazo para obtenção dos benefícios da execução penal, e não sobre a alteração do marco final do cumprimento de pena. Certo é que não há previsão legal para que se desconsidere, pela prática de novo delito, o tempo de pena cumprido em prisão domiciliar no regime aberto, estando tal hipótese adstrita a casos em que haja revogação do livramento condicional, nos termos do art.88 do Código Penal e arts. 141 e 142 da LEP.
+(..)
+Assim, mesmo que o apenado estivesse em irregular cumprimento de sua pena no regime aberto, forçoso reconhecer a necessidade de cômputo deste período como tempo de pena efetivamente cumprida, não sendo possível a utilização da analogia "in m alam partem ".
+Portanto, o período de prisão domiciliar deve ser considerado como período de pena efetivamente cumprida mesmo diante do descumprimento das condições fixadas ou do cometimento de novo crime, haja vista a ausência de previsão legal para a desconsideração.
+Deve-se registrar, inclusive, que o apenado estava sob a custódia estatal durante todo o período e eventual delonga na suspensão da prisão domiciliar ou no cumprimento do mandado de prisão não permite que se atribua ao agravado os efeitos da morosidade do Estado " (fls. 56/57).
+Por seu turno, na decisão de extinção constou o seguinte:
+"Transcorrido o período de prova da prisão domiciliar, sem suspensão/revogação do benefícios, conforme se extrai do AP contido no SEEU, julgo do (a) sentenciado (a), nos termos do art. extinta a PPL109 da LEP, restando indeferido o pedido de seq. 49.1. " (fl. 30).
+Extrai-se dos trechos acima que o principal fundamento do acórdão vergastado para manter a decisão de extinção de pena do juízo da execução - inexistência de suspensão/revogação da prisão domiciliar - não foi refutado pelo órgão ministerial, caso em que aplicável o óbice da Súmula n. 283 do STF.
+De fato, é assente nesta eg. Corte Superior que "Se o apenado descumpre as condições do regime aberto ou não comparece para dar cumprimento às condições impostas, não há falar em extinção da pena pelo cumprimento da pena remanescente, o qual sequer se inicia efetivamente em tais casos" (HC n. 380.077/PR, Sexta Turma, Rel. Min. Néfi Cordeiro, DJe de 6/11/2017).
+No entanto, ainda que haja descumprimento das condições que foram estipuladas ao condenado por ocasião da concessão do benefício, cumpre ao Estado-Juiz revogá-lo, durante o período de prova. No mesmo sentido, cita-se precedente (grifos nossos):
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. EXECUÇÃO PENAL. ARTIGO 105, III, ALÍNEA "A" DA CONSTITUIÇÃO FEDERAL. LIVRAMENTO CONDICIONAL. TÉRMINO DO PERÍODO DE PROVA. EXTINÇÃO DA PUNIBILIDADE. PEDIDO DE REVOGAÇÃO DO BENEFÍCIO POSTERIORMENTE AO DECURSO DO PRAZO DEPURADOR. IMPOSSIBILIDADE. INEFICIÊNCIA DO ESTADO-JUIZ. JURISPRUDÊNCIA PACÍFICA DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO A QUE SE NEGA PROVIMENTO.
+1. A jurisprudência do Superior Tribunal de Justiça hodiernamente é firme no sentido de que, findo o período de prova do livramento condicional, a decisão da extinção da pena é ato meramente declaratório, ainda que prolatada em data ulterior, tendo-se por extinta a punibilidade na efetiva data do término do período de prova.
+2. Ainda que haja descumprimento das condições que foram estipuladas ao condenado por ocasião da concessão do benefício, cumpre ao Estado-Juiz revogá-lo, durante o período de prova. Nos termos do artigo 146 da Lei de Execuções Criminais, o juiz, de ofício, julgará extinta a pena privativa de liberdade se expirar o prazo do livramento condicional sem revogação.
+3. Agravo a que se nega provimento.
+(AgRg no REsp n. 666.724/RS, relatora Ministra Jane Silva (Desembargadora Convocada do TJ/MG), Sexta Turma, julgado em 30/10/2008, DJe de 19/12/2008).
+Assim, "inexistindo revogação ou prorrogação do período de prova, correta a decisão que extinguiu a pena, nos termos do art. 82 do Código Penal, segundo o qual "Expirado o prazo sem que tenha havido revogação, considera-se extinta a pena privativa de liberdade", caso dos autos (AgRg no REsp n. 1.468.840/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 15/12/2016, DJe de 1/2/2017).
+Incide o óbice da Súmula n. 83/STJ, também aplicável aos recursos especiais interpostos pela alínea "a" do permissivo constitucional.
+Ante o exposto, conheço do recurso especial e, com fundamento na Súmula n. 568 do STJ, nego-lhe provimento.
+Publique-se. Intime m-se.
