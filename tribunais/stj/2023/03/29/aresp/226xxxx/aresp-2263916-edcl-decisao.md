@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por CEMED CARE - EMRPESA DE ATENDIMENTO CLÍNICO GERAL LTDA., com fulcro no art. 1.022, II, do CPC/2015, em face de decisão, assim ementada (fl. 937):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO NÃO CONHECIDO.
+A embargante alega omissão no acórdão quanto à impugnação feita à decisão de inadmissibilidade, nos fundamentos indicados na decisão ora embargada, a qual alega ter sido específica.
+Com impugnação (fls. 950-955).
+É o relatório. Decido.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+A decisão ora embargada dispôs (fl. 937):
+Nos termos do que dispõe o art. 932, III, do CPC/2015 e o art. 253, parágrafo único, I, do RI/STJ (redação dada pela Emenda Regimental n. 22, de 2016), compete ao agravante impugnar especificamente os fundamentos da decisão que obstou o recurso especial na origem. Assim, além da manifestação do inconformismo, inerente ao ato de irresignação, impõe-se ao recorrente o ônus de contrapor-se, de forma clara e específica, aos fundamentos da decisão agravada, conforme determina a lei processual civil e o princípio da dialeticidade.
+No caso dos autos, a decisão de inadmissibilidade do recurso especial contém os seguintes fundamentos: (i) quanto aos arts. 489 e 1022 do CPC/2015: inexistência de vícios; (ii) Súmulas 5 e 7, do STJ: a revisão do acórdão quanto à presença de indícios que caracterizariam a hipótese de verdadeira cisão parcial da empresa devedora pressupõe a interpretação de cláusulas contratuais e o reexame dos demais elementos probatórios; (iii) Súmula 282/STF: falta de prequestionamento do art. 2º da Lei n. 9.784/1999 - o dispositivo legal não foi objeto de debate no acórdão recorrido, não servindo de fundamento à conclusão adotada; (iv) quanto ao arbitramento da verba honorária, por equidade - aplicação do Tema Repetitivo 1.076/STJ; (v) Súmula 280/STF - quanto aos arts. 24 e 34 da Lei Complementar Municipal n. 189/2003, o fundamento utilizado para interposição somente poderia ter sua procedência verificada mediante o reexame de direito local; (vi) quanto à alegação de dissídio - a jurisprudência arrolada versa acerca de exegese lastreada em matéria fática, cuja verificação da possível identidade com o caso concreto implicaria reexame da prova produzida, com óbice na Súmula 7 do STJ.
+Todavia, as razões aduzidas no presente AREsp não impugnam especificamente os seguintes fundamentos da decisão que inadmitiu o recurso especial: Súmula 282/STF; Súmula 280/STF; verba honorária, conforme Tema 1.076/STJ; Súmula 7/STJ quanto à análise de divergência na jurisprudência colacionada.
+Como dito, a falta de impugnação específica aos referidos fundamentos da decisão que inadmitiu o especial - demonstração de forma clara, objetiva e concreta do desacerto da decisão então agravada -, em cumprimento do dever de dialeticidade recursal, conforme disposto no art. 932, III, do CPC/2015 e no art. 253, parágrafo único, I, do RI/STJ, impede o conhecimento do AREsp, pois, a tanto, não basta a irresignação genérica de não incidência dos óbices sumulares aplicados - caso em tela.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS - DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO RECLAMO, ANTE A AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INSURGÊNCIA DO DEMANDANTE.
+1. Consoante expressa previsão contida nos arts. 932, III, do CPC e 253, I, do RISTJ, e em razão do princípio da dialeticidade, deve o agravante demonstrar, de modo fundamentado, o desacerto da decisão que inadmitiu o apelo extremo, o que não aconteceu na hipótese.
+Incidência da Súmula 182 do STJ.
+2. São insuficientes ao cumprimento do dever de dialeticidade recursal as alegações genéricas de inconformismo, devendo a parte recorrente, de forma clara, objetiva e concreta, demonstrar o desacerto da decisão impugnada. Precedentes.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.199.998/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 6/3/2023, DJe de 10/3/2023)
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA E ADEQUADA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. MANUTENÇÃO DA DECISÃO MONOCRÁTICA.
+I - A ausência de impugnação específica e adequada dos fundamentos da decisão que não admitiu o recurso especial impõe o não conhecimento do agravo em recurso especial.
+II - In casu, a parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial com relação à incidência das Súmulas 7 e 83, ambas do STJ.
+III - É entendimento desta Corte Superior que "inadmitido o recurso especial com base na Súm. 7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível" (AgInt no AREsp n. 600.416/MG, Segunda Turma, Rel. Min. Og Fernandes, DJe de 18/11/2016).
+IV - Com efeito: "E, ainda, esta Corte firmou o entendimento de que, "quando o inconformismo excepcional não é admitido pela instância ordinária, com fundamento no enunciado n. 83 da Súmula do Superior Tribunal de Justiça, a impugnação deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida" (AgRg no AREsp 709.926/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 18/10/2016, DJe 28/10/2016), o que não ocorreu no caso destes autos" (AgRg no AREsp 637.462/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 1º/8/2017).
+V - Não compete a este eg. Superior Tribunal de Justiça se manifestar sobre violação a princípios ou a dispositivos de extração constitucional, ainda que para fins de prequestionamento, sob pena de usurpação da competência do STF (Precedentes).
+Agravo regimental desprovido.
+(AgRg no AREsp n. 2.232.423/RO, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 14/2/2023, DJe de 2/3/2023)
+PROCESSUAL CIVIL. DECISÃO MONOCRÁTICA DA PRESIDÊNCIA QUE NÃO CONHECEU DO AGRAVO EM RECURSO ESPECIAL. INADMISSIBILIDADE DO RECURSO ESPECIAL. FUNDAMENTO INATACADO.  ..
+ ..
+5. A iterativa jurisprudência do Superior Tribunal de Justiça consolidou o entendimento de que não se conhece de Agravo contra decisão monocrática que não ataca especificamente os fundamentos da decisão recorrida, de forma a demonstrar que o entendimento esposado merece modificação. Assim, não bastam alegações genéricas em sentido contrário às afirmações da decisão agravada.
+ ..
+(AgInt no AREsp n. 1.715.725/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 24/2/2021, DJe de 1/3/2021.)
+Assim, inexiste qualquer vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. INEXISTÊNCIA DE VÍCIOS. EMBARGOS REJEITADOS.
