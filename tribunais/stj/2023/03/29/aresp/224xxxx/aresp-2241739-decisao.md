@@ -1,0 +1,14 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especial interposto por UNIMED NOROESTE CAPIXABA COOPERATIVA DE TRABALHO MEDICO em face de decisão que não admitiu recurso especial manejado contra acórdão do Tribunal de Justiça do Estado do Tocantins, assim ementado (e-STJ, fl. 328):
+APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZERC/C REPARAÇÃO POR DANOS MATERIAIS E MORAIS. RESSARCIMENTO DO BENEFICIÁRIO POR UTILIZAÇÃO DEMÉDICO NÃO CREDENCIADO AO PLANO DE SAÚDE. POSSIBILIDADE. LIMITES DA TABELA DO PLANO DE SAÚDECONTRATADO. 1. A operadora de plano de saúde está obrigada a ressarcir o Sistema Único de Saúde quando seus beneficiários se utilizarem do serviço público de atenção à saúde, conforme procedimento próprio estabelecido na Resolução Normativa 358/2014, da ANS. Constitucionalidade do art. 32 da LPS - Tema 345 da repercussão geral do STF. 2. Se a operadora de plano de saúde é obrigada a ressarcir o SUS na hipótese de tratamento em hospital público, não há razão para deixar de reembolsar o próprio beneficiário que se utiliza dos serviços de médico que não faz parte da sua rede credenciada. 3. O reembolso das despesas efetuadas pelo beneficiário com assistência à saúde deve ser permitido quando não for possível a utilização dos serviços próprios, contratados, credenciados ou referenciados pelas operadoras, sendo as hipóteses de urgência e emergência apenas exemplos (e não requisitos) dessa segurança contratual dada aos consumidores.4. Recurso conhecido e parcialmente provido para determinar que a UNIMED NOROESTE CAPIXABA promova o reembolso da cirurgia Artrose de Coluna, realizada pela recorrente, limitado ao valor da tabela do plano de saúde contratado para pagamento de médico credenciado à rede.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial a parte alega ofensa ao seguinte dispositivo legal: art. 12, VI, da Lei n. 9656/98, além de divergência jurisprudencial.
+Pede a reforma do acórdão por entender, em síntese, que "quando o beneficiário optou, por conta própria, em realizar o tratamento, bem como buscar internação j unto a nosocômio não credenciado ao plano de saúde, sem nenhuma justificativa plausível capaz de demonstrar a necessidade, emergência ou urgência de utilização de referido hospital, o que afasta o dever de reembolso" - fl. 345.
+Houve agravo interposto pela contraparte, o qual será objeto de decisão apartada.
+É o relatório.
+Passo a decidir o agravo.
+Atendidos os pressupostos de admissibilidade, especialmente a dialeticidade recursal.
+Diante da relevância da questão suscitada, merece provimento o agravo para melhor analisar o recurso especial interposto, procedendo-se à devida conversão.
+Ante o exposto, dou provimento ao agravo em recurso especial interposto por UNIMED NOROESTE CAPIXABA COOPERATIVA DE TRABALHO MEDICO, procedendo-se à conversão.
+Intimem-se.
