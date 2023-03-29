@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de William Carvalho Silva e Gustavo Silva Cavalcante, em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo, que negou provimento à apelação interposta pelos pacientes (fls. 19/22), mantendo, assim, sentença prolatada pelo Juízo de Direito da 30ª Vara Criminal da comarca de São Paulo/SP (Foro Central Criminal Barra Funda), que os condenara a 2 anos de reclusão, em regime inicial semiaberto, e 10 dias-multa, substituída a pena privativa de liberdade por duas penas restritivas de direitos (prestação de serviços à comunidade e prestação pecuniária), pela prática do crime de furto qualificado.
+Na presente impetração, alega-se constrangimento ilegal consistente em nulidade da sentença, em razão de o áudio das oitivas das testemunhas de acusação não estar audível.
+Sustenta a impetrante, em síntese, que as oitivas das testemunhas de acusação não estão audíveis, o que foi certificado pela serventia à fl. 183. Assim, não obstante ter havido transcrição parcial dos depoimentos nos autos, é certo que esses não foram disponibilizados na íntegra, o que, de fato, contamina a prova produzida.
+Aduz que a transcrição na sentença que é condenatória utiliza parte dos depoimentos para fundamentar a condenação, de forma que, eventualmente, alguma contradição ou elemento do depoimento que favorecesse ou réu podem ter sido suprimidos, inviabilizando, sobremaneira a defesa (fl. 4).
+Postula, então, a concessão liminar da ordem para que seja declarada a nulidade absoluta da Ação Penal n. 003772373.2018.8.26.0050, a partir da audiência de instrução, debates e julgamento realizada aos 20/5/2019, anulando-se a sentença para que seja refeita a colheita da prova oral (fl. 5).
+Prestadas as informações (fls. 35/38 e 42/54), o Ministério Público Federal opinou pelo não conhecimento da impetração (fls. 56/59):
+HABEAS CORPUS SUBSTITUTIVO. NÃO CONHECIMENTO. FURTO QUALIFICADO. ALEGAÇÃO DE QUE AS OITIVAS DAS TESTEMUNHAS DE ACUSAÇÃO NÃO ESTÃO AUDÍVEIS. NULIDADE. INOCORRÊNCIA. PREJUÍZO NÃO DEMONSTRADO. PAS DE NULLITÉ SANS GRIEF. AUSÊNCIA DE ILEGALIDADE.
+1. É pacífica a jurisprudência no sentido de que não deve ser conhecido o habeas corpus impetrado como substitutivo de recurso, cabendo, porém, a verificação da existência de flagrante ilegalidade que justifique a concessão da ordem de ofício.
+2. In casu, o Tribunal a quo asseverou que as oitivas das testemunhas de acusação foram devidamente transcritos nos autos, inclusive a defesa utilizou-se dos depoimentos, apresentando resumo ao ofertar as alegações finais, bem como não se insurgiu sobre a matéria.
+3. Não há que se falar em nulidade, uma vez que não se demonstrou o efetivo prejuízo para a defesa, o que se monstra em sintonia com o art. 563 do Código de Processo Penal, atraindo a aplicação do princípio pas de nullité sans grief.
+4. Parecer pelo não conhecimento do habeas corpus e, diante da ausência de ilegalidade, pela não concessão da ordem de ofício.
+É o relatório.
+Busca a impetração a declaração de nulidade da sentença condenatória, ao argumento de que a mídia que continha as oitivas das testemunhas de acusação estaria inaudível.
+Assim, tem-se que a impetração não logrou comprovar o prejuízo à defesa, pois, a despeito da alegação mandamental, o acórdão ora hostilizado registrou que os depoimentos das testemunhas de acusação foram devidamente transcritos na sentença condenatória. Além disso, a nobre defesa, ao ofertar as alegações finais, também apresentou resumo dos depoimentos, conforme consta às fls. 160/161, não se insurgindo sobre a questão (fl. 21).
+Nesse sentido o entendimento desta Corte, para a qual o processo penal é regido pelo princípio do pas de nullité sans grief e, por consectário, o reconhecimento de nulidade, ainda que absoluta, exige a demonstração do prejuízo (AgRg no HC n. 784.628/ES, Ministro Ribeiro Dantas, Quinta Turma, DJe 17/3/2023).
+Em face do exposto, denego a ordem.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. FURTO QUALIFICADO. NULIDADE. TESTEMUNHAS DE ACUSAÇÃO. DEPOIMENTOS INAUDÍVEIS. TRANSCRIÇÃO NA SENTENÇA. PREJUÍZO. AUSÊNCIA. CONSTRANGIMENTO ILEGAL INEVIDENTE.
+Ordem denegada.
