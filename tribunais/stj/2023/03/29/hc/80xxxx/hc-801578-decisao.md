@@ -1,0 +1,3 @@
+DECISÃO
+SEBASTIAO NETO FELIX DOS SANTOS vem, por meio da petição de fls. 138-139, informar que o Tribunal estadual concedeu a ordem no HC n. 2021740-77.2023.8.26.0000, para "ratificar a liminar deferida pelo egrégio Superior Tribunal de Justiça, para, mantida a liberdade provisória, condicioná-la ao cumprimento das medidas cautelares consistentes em: comparecimento periódico em juízo para informar e justificar atividades e proibição de se ausentar da comarca sem prévia autorização judicial (artigo 319, incisos IV e V, do Código de Processo Penal)". Requer, assim, a desistência do writ.
+Pelo exposto, ausente interesse defensivo no prosseguimento do feito, homologo o pedido de desistência, com fundamento no art. 34, inciso IX, do RISTJ.
