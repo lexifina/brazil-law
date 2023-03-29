@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de ALEXANDRE DE SOUSA CIRILO - cumprindo pena privativa de liberdade de 11 anos, 11 meses de reclusão, em razão de condenação pela prática dos crimes de tráfico de drogas, tráfico de drogas privilegiado, furto qualificado e adulteração de sinal identificador de veículo automotor -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DE SÃO PAULO (Agravo de Execução Penal n. 0016728-72.2022.8.26.0996).
+Alega a impetrante, em síntese, o seguinte (fl. 5):
+ ..  que, após o cumprimento dos requisitos legais, o juízo de piso deferiu, em benefício do paciente, o pedido de progressão ao regime aberto.
+Inconformado, o Ministério Público interpôs agravo em execução penal, perante o Tribunal de Justiça do Estado de São Paulo, tendo a autoridade coatora dado provimento ao recurso, para cassar a decisão de primeiro grau, com base na gravidade abstrata do delito, no longo tempo de pena a cumprir e no suposto histórico prisional desfavorável, determinando-se a realização exame criminológico, com vista à reanálise do pedido de progressão de regime.
+Postula, então, a concessão da ordem para que seja cassado o acórdão e o paciente seja incluído no regime aberto.
+É o relatório.
+É certo que o habeas corpus tem suas hipóteses de cabimento restritas e não deve ser utilizado a fim de provocar a discussão de temas afetos à apelação criminal, a recurso especial, a agravo em execução e a recurso em sentido estrito, tampouco deve vir como sucedâneo de revisão criminal.
+A ilegalidade passível de justificar a impetração deste remédio constitucional deve ser manifesta, de constatação evidente, restringindo-se a questões de direito que não demandem incursão em fatos e provas da ação penal ou exijam dilação probatória, inclusive no que diz respeito à execução penal.
+No caso, a Defensoria Pública, na inicial do writ, apresenta circunstância fática diferente da decidida no acórdão ora impugnado. Ali, a Quarta Câmara de Direito Criminal, ao contrário do alegado pela impetrante, não determinou a realização de exame criminológico para aferição do requisito subjetivo do reeducando, mas entendeu pela ausência do requisito objetivo para a concessão da progressão ao regime aberto. Isso é o que se depreende da simples leitura das fls. 66/67, sobretudo.
+Não existe nenhuma ilegalidade revelada em tal compreensão, até porque, nos termos da jurisprudência desta eg. Corte Superior, os requisitos para a progressão de regime não se limitam à verificação do lapso temporal e do atestado de conduta carcerária. Desse modo, pode-se concluir que somente com a conclusão do exame criminológico foi implementado o último requisito pendente para a progressão de regime (AgRg no HC n. 734.687/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 6/5/2022) - (AgRg no REsp n. 2.017.158/SP, Ministro Messod Azulay Neto, Quinta Turma, DJe 14/3/2023).
+Assim, ao lado de a impetrante não ter rebatido de forma eficiente o julgado exarado pelo Tribunal estadual, aquela Casa decidiu o tema conforme a firme jurisprudência do Superior Tribunal de Justiça .
+Indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO WRIT. ACÓRDÃO EM CONSONÂNCIA COM A FIRME JURISPRUDÊNCIA DO STJ. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Petição inicial indeferida liminarmente.
