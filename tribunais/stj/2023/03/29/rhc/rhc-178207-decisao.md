@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por Leandro Fernandes de Souza - preso preventivamente, desde 31/3/2021, pela suposta prática do crime descrito no art . 157, § 2º, II e V, e § 2º-A, I, do Código Penal (fls. 61/66) - contra o acórdão proferido pela Sexta Câmara Criminal do Tribunal de Justiça de São Paulo, que denegou a ordem ali impetrada (Habeas Corpus n. 2000568-79.2023.8.26.0000).
+Esta, a ementa do acórdão impugnado (fl. 62):
+Habeas Corpus. Crime de majorado. Alegação de excesso de prazo na formação da culpa. Demora justificada e razoável. Inexistência de constrangimento ilegal.
+Ordem denegada.
+Segundo a parte recorrente, ele está preso por mais de 135 dias (quase 5 meses), já considerando a presente data. Todavia, a audiência de instrução e debates e julgamento foi marcada para o dia 7 de março de 2023, ou seja, o recorrente computará seis meses de prisão sem ter sido julgado, o que claramente caracteriza o excesso de prazo na custódia cautelar (fl. 75).
+Assim, o recorrente alega excesso de prazo na formação da culpa e ausência de fundamentação idônea para manutenção da prisão preventiva.
+Para tanto, o recorrente pugna pelo provimento do recurso para que seja determinada a expedição do competente alvará de soltura em seu favor, em face do suposto constrangimento ilegal suportado, com ou sem aplicação de medidas cautelares diversas.
+É o relatório.
+A aferição do excesso de prazo reclama a observância da garantia da duração razoável do processo, prevista no art. 5º, LXXVIII, da Constituição Federal. Tal verificação, contudo, não se realiza de forma puramente matemática. Impõe, ao contrário, um juízo de razoabilidade, no qual devem ser sopesados não só o tempo da prisão provisória mas também as peculiaridades da causa, sua complexidade, bem como quaisquer fatores que possam influir na tramitação da ação penal (RHC n. 140.433/RS, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 10/3/2021).
+No caso, a conduta delitiva é descrita da seguinte forma: em tese, agindo em concurso com os demais denunciados,  ..  na data de 8/9/2022, por volta das 18h00hs, na Rua São Jorge, altura do n. 777, Tatuapé, nesta Capital,  ..  para proveito comum e em unidade de desígnios, subtraíram para eles, mediante emprego de arma de fogo, o veículo HR, branco placas EAW8E09, além de objetos de manutenção de celular, tablet, acessórios para câmeras, carregadores de celulares, dentre outros descritos às fls. 23/26, transportados pela vítima Thácio Gabriel Teófilo da Silva, o fazendo com a restrição de sua liberdade. Ainda segundo a acusação,  ..  a autoria delitiva foi somente descoberta porque, no dia seguinte ao assalto (9/9/2022), por volta das 16h10, os policiais militares Gabriel José de Freitas Oliveira e Jonas Fernandes Gomes, realizando patrulhamento de rotina, pela avenida Aricanduva, altura do número 2640, avistaram os veículos KIA/Sportage e FIAT/Fiorino, brancos, placas LLS5J72 e FEV4I04, veículos esses com denúncia de envolvimento em vários roubos de mercadorias cometidos contra as empresas Sousa Cruz e Mercado Livre, resolvendo abordar os denunciados, seus ocupantes, que estavam em atitude suspeita em seu interior" (fls. 61/66).
+Nesse contexto, in casu, segundo informação prestada pelo Juízo de Direito da 1ª Vara Criminal do Foro Central Criminal da Capital/SP, inexiste demora no julgamento do ora recorrente, ao explicitar (fl. 48):
+ ..
+O Paciente, preso em flagrante delito juntamente com os demais corréus, foi denunciado em 19 de setembro de 2022 como incurso no art. 157, § 2º, incisos II e V, e § 2º-A, inciso I, do Código Penal, por fatos ocorridos em 8 de setembro de 2022 (fls. 187/193).
+A denúncia foi recebida em 22 de setembro de 2022, oportunidade em que foi mantida a custódia cautelar dos acusados e determinada as respectivas citações (fls. 195/197).
+Apresentada resposta à acusação, designou-se o dia 7/3/2023, data mais próxima disponível em pauta, para audiência de instrução, debates e julgamento, o que se aguarda (fls. 363/368).
+Trata-se de caso grave, complexo e que envolve três réus, o que demanda maior elastério temporal no trâmite processual.
+ ..
+Por conseguinte, sobre a pretensão relativa ao excesso de prazo, constata-se que não há flagrante ilegalidade nos prazos, visto a pluralidade de acusados (três) e maior complexidade dos fatos - roubo triplamente majorado -, com emprego de arma de fogo e restrição de liberdade da vítima por tempo juridicamente relevante (fls. 61/66), a justificar que os prazos sejam globalmente considerados.
+Logo, não merece reforma o acórdão impugnado.
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. DIREITO PENAL. ROUBO DE CARGA E RESTRIÇÃO DA LIBERDADE DA VÍTIMA COM EMPREGO DE ARMA DE FOGO EM COAUTORIA. ROUBO TRIPLAMENTE MAJORADO. PLURALIDADE DOS ACUSADOS. TRÊS CORRÉUS. PRISÃO PREVENTIVA. EXCESSO DE PRAZO. CONSTRANGIMENTO ILEGAL. NÃO OCORRÊNCIA.
+Recurso em habeas corpus improvido.
