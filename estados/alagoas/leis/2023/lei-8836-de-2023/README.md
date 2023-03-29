@@ -1,0 +1,5 @@
+# Lei nº 8.836, de 28 de março de 2023, do Estado de Alagoas
+
+CRIA CARGOS DE ASSESSOR JUDICIÁRIO, SÍMBOLO ASJI/GDTJ, VINCULADOS Á ESTRUTURA ADMINISTRATIVA DO GABINETE DA VICE-PRESIDÊNCIA DO TRIBUNAL DE JUSTIÇA DE ALAGOAS , BEM COMO CRIA CARGOS DE ASSESSOR DO JAP, SÍMBOLO AJ/JAP PARA A ESTRUTURA FUNCIONAL DE ASSESSSORIA DOS JUÍZES AUXILIARES DA PRESIDÊNCIA. ALÉM DE CRIAR CARGOS DE ASSESSOR DE JUIZ DE 3ª ENTRÂNCIA.
+
+Fonte: Assembleia Legislativa (sapl.al.al.leg.br), <https://sapl.al.al.leg.br/norma/2488>; texto: <http://sapl.al.al.leg.br/media/sapl/public/normajuridica/2023/2488/lei_no_8.836_de_28_de_marco_de_2023_3.pdf>
