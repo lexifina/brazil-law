@@ -1,0 +1,42 @@
+DECISÃO
+Cuida-se de agravo apresentado por GABRIEL CRISTIAN TAVARES RODRIGUES contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS, assim resumido:
+APELAÇÃO CRIMINAL. CRIME DE TRÁFICO DE DROGAS. APREENSÃO DE 973,14G (NOVECENTOS E SETENTA E TRÊS GRAMAS E QUATORZE CENTIGRAMAS) DE MACONHA, 2,42G (DOIS GRAMAS E QUARENTA E DOIS CENTIGRAMAS DE COCAÍNA) E NOVE COMPRIMIDOS DE ROHYPNOL. PEDIDO DE DESCLASSIFICAÇÃO PARA O DELITO PREVISTO NO ARTIGO 28 DA LEI DE DROGAS. NÃO ACOLHIMENTO. AUTORIA E MATERIALIDADE DEMONSTRADAS NOS AUTOS. DEPOIMENTOS DOS POLICIAIS E DOS USUÁRIOS. RECURSO CONHECIDO E NÃO PROVIDO.
+Quanto à controvérsia recursal, alega violação do art. 28 da Lei n. 11.343/2006, no que concerne à necessidade de desclassificação do fato imputado ao réu do delito de tráfico para consumo pessoal de drogas, uma vez que não foi comprovada a traficância da droga apreendida, bem como porque a quantidade de droga apreendida é compatível com o consumo, trazendo os seguintes argumentos:
+Em pormenorizado confronto dos elementos carreados ao caderno processual, divisa-se que as provas produzidas ao longo da instrução não são idôneas a certificar -  de forma induvidosa a materialidade e a autoria do delito em apreço. Em razão disso, o recorrente requer a desclassificação da conduta imputada para o tipo previsto no art. 28 da Lei 11.343/06.
+ ..
+Apesar dos fundamentos apresentados pelo Juízo de 1ª instância, não ficou comprovada a intenção de difundir ilicitamente a droga. Em resumo, a declaração defensiva merece ser acolhida, já que não há como se afirmar, com convicção, que a droga apreendida era para a difusão ilícita.
+ ..
+O recorrente Gabriel não foi visto em movimentação típica de tráfico de drogas.
+O suposto usuário, ouvido em sede administrativa, não confirmou seu depoimento em juízo. Como é cediço, depoimentos extrajudiciais não podem ser levados em consideração para eventual condenação. É o que estabelece o art. 155 do Código de Processo Penal:
+ ..
+Sob o crivo do contraditório, o usuário não confirmou que comprou drogas do réu ou que o reconheceu. Seu depoimento não pode ser usado como fundamentação de eventual condenação.
+ ..
+A eventual utilização de declaração extrajudicial para fundamentação da sentença significa dizer que, se o que vale é o que foi colhido no inquérito policial, a prova lá produzida é sempre de melhor qualidade do que a produzida perante o Poder Judiciário.
+Haveria um evidente apequenamento da função judicial, que serviria apenas para homologar os indícios colhidos na fase administrativa.
+Como é cediço, o inquérito policial tem por finalidade o oferecimento de elementos indiciários para que o órgão de acusação possa iniciar a ação penal. Nesse passo, a utilização de depoimento colhido exclusivamente na fase administrativa não pode ser admitida, na medida em que o inquérito não observa os princípios da ampla defesa e contraditório, garantias constitucionais previstas a todos os acusados no art. 5º, inciso LV da Constituição Federal.
+ ..
+A quantidade de cocaína e rohypnol localizada em poder do recorrente é compatível com o consumo.
+ ..
+Do cotejo de tais excertos com os demais subsídios coligidos aos autos, a possibilidade de porte para consumo pessoal exsurge extremamente plausível.
+ ..
+Assim, não havendo outros indícios que propiciem juízo de certeza quanto à intenção de difundir ilicitamente a droga, requer a reforma da sentença e a desclassificação da conduta de tráfico para a tipificada no art. 28 da Lei 11.343/06, com esteio no princípio do in dubio pro reo (fls. 395/406, grifo meu).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia recursal, o Tribunal de origem se manifestou nos seguintes termos:
+Apesar de os acusados buscarem eximir o recorrente de qualquer responsabilidade pela mercancia proscrita de drogas, os elementos probatórios colhidos durante o inquérito e a instrução criminal evidenciam a prática do crime imputado na denúncia por parte do ora apelante.
+Na delegacia de polícia, o usuário Deivisson Davi Coutinho Braga asseverou que, no dia dos fatos, estava negociando a compra de uma cartela de Rohypnol pertencente ao recorrente pela quantia de R$ 30,00 (trinta reais) quando foram abordados pela equipe policial.
+ ..
+Também em sede inquisitorial, o usuário Wictor Damásio Delmondes disse que, no dia dos fatos, adquiriu uma porção de maconha pertencente ao apelante pela quantia de R$ 5,00 (cinco reais). Indicou que se dirigiu ao local dos fatos para adquirir a droga por se tratar de um ponto conhecido pela mercancia de entorpecentes.
+ ..
+O usuário Marco Antônio Conceição Cardoso, ao ser ouvido na delegacia de polícia, disse que, no dia dos fatos, adquiriu uma porção de maconha do corréu Breno pela quantia de R$ 10,00 (dez reais). No mais, indicou que o local em que se deu a aquisição é um conhecido ponto de venda de drogas.
+ ..
+Nesse cenário, não merece prosperar a tese desclassificatória aventada pela Defesa.
+ ..
+Na hipótese lançada aos autos e à vista dos parâmetros preconizados pelo aludido dispositivo, resta evidente que a conduta do acusado se amolda ao delito de tráfico de drogas, pois, além da dinâmica alhures referenciada e da apreensão de pelo menos três tipos distintos de entorpecentes, substantiva quantidade da maconha apreendida, um tablete de quase um quilograma de maconha, foi encontrada pelos policiais civis no quarto do apelante, materializando a sua imersão no contexto criminoso narrado durante a instrução criminal (fls. 367/372, grifo meu).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que para dissentir da conclusão do Tribunal de origem, quanto à desclassificação do delito, seria necessária a incursão no conjunto fático-probatório carreado aos autos.
+Nesse sentido: "É entendimento pacífico da jurisprudência - tanto deste Superior Tribunal quanto do Supremo Tribunal Federal - de que a pretensão de desclassificação de um delito exige, em regra, o revolvimento do conjunto fático-probatório produzido nos autos, providência incabível, em princípio, em recurso especial, consoante o enunciado na Súmula 7 do STJ". (AgRg no AREsp n. 1.748.266/SP, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 05/03/2021.)
+Na mesma linha: "No caso, a eg. Corte de origem manteve a sentença condenatória, de acordo com a análise do arcabouço probatório, concluindo pela condenação do ora recorrente quanto ao delito de tráfico de drogas. Assim modificar as conclusões fáticas do acórdão de origem e absolver o ora agravante ou desclassificar a conduta para o delito de posse para consumo pessoal, como pretende a defesa, demandaria o reexame fático-probatório, providência vedada pelo enunciado n. 7 da Súmula do Superior Tribunal de Justiça." (AgRg no REsp n. 1.988.016/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT, Quinta Turma, DJe de 30/6/2022.)
+De igual sorte: "Quanto ao pleito de desclassificação da conduta do agravante, ficou evidenciado, pela análise atenta às conclusões da Corte local, que há provas suficientes da materialidade e da autoria do recorrente para sustentar sua condenação nas infrações penais ora imputadas. Rever a posição adotada pelas instancias ordinárias demanda imprescindível revolvimento do acervo fático-probatório delineado nos autos." (AgRg no AREsp n. 2.036.179/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 16/5/2022.)
+Confiram-se ainda os seguintes julgados: EDcl no AREsp n. 1.616.809/GO, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 17/11/2020; AgRg no REsp n. 1.684.709/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 14/03/2018; AgRg no AgRg no AREsp n. 1.780.664/PB, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 22/02/2021; AgRg no AREsp n. 1.699.195/PE, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 27/11/2020; AgRg no REsp n. 1.820.397/SP, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 19/11/2020; AgRg no AREsp n. 1.603.857/SP, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 12/11/2020; AgRg no AREsp n. 2.096.763/TO, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 20/6/2022.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
