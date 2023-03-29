@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto por LEONARDO PONCE DA MOTTA (LEONARDO), com fundamento no art. 105, III, alíneas a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO INDENIZATÓRIA. REVISÃO PERIÓDICA DE MOTOCICLETA NA CONCESSIONÁRIA DA SEGUNDA RÉ. 24 MIL KM. VEÍCULO NA GARANTIA DE FÁBRICA. VERIFICAÇÃO DE MAU FUNCIONAMENTO DA EMBREAGEM. AUSÊNCIA DE PEÇA. VEÍCULO QUE FICOU PARADO E SEM CONSERTO POR MESES, SEM A ASSISTÊNCIA ADEQUADA DAS RÉS. SENTENÇA DE PROCEDÊNCIA PARA CONDENAR SOLIDARIAMENTE AS RÉS A RESTITUIR O VALOR PAGO PELO BEM AO AUTOR, BEM COMO DANOS MORAIS. INCONFORMISMO DA PRIMEIRA RÉ E DO AUTOR.
+PRELIMINAR DE ILEGITIMIDADE PASSIVA AFASTADA. LEGITIMIDADE DE AMBAS AS RÉS PARA FIGURAREM NO POLO PASSIVO. A PRIMEIRA. NA CONDIÇÃO DE FABRICANTE, E A SEGUNNDA, NA CONDIÇÃO DE VENDEDORA E DE PRESTADORA DE SERVIÇOS.
+PREJUDICIAL DE DECADÊNCIA AFASTADA. VÍCIO DO SERVIÇO. ARTS. 20 E 26, §1º DO CDC. AÇÃO AJUIZADA COM MENOS DE 3 (TRÊS) MESES DA CONSTATAÇÃO DO VÍCIO. INCONTROVERSO O VICIO NO SERVIÇO. ENTRETANTO, NÃO HÁ QUE SE FALAR EM RESTITUIÇÃO DO VALOR DO BEM, POIS O QUE SE RECLAMA É A FALHA NA PRESTAÇÃO DO SERVIÇO DAS RÉS, NO TOCANTE AO CONSERTO DA MOTOCICLETA. O CONSUMIDOR TEM O DIREITO DE RECLAMAR EVENTUAL VALOR PAGO PELO SERVIÇO. QUE NÃO FOI O CASO DOS AUTOS.
+DANO MORAL CONFIGURADO. FRUSTRAÇÃO DA LEGÍTIMA EXPECTATIVA DO CONSUMIDOR QUE, POR MESES. FICOU IMPEDIDO DE USUFRUIR DO BEM POR FALHA NA PRESTAÇÃO DO SERVIÇO DAS DEMANDADAS. PERDA DO TEMPO ÚTIL. VERBA INDENIZATÓRIA QUE MERECE REDUÇÃO AO PATAMAR DE R$ 4.000,00, EM ADEQUAÇÃO AOS PRINCÍPIOS DE PROPORCIONALIDADE E RAZOABILIDADE. JUROS DE MORA NOS DANOS MORAIS, DE 1% AO MÊS, QUE DEVE INCIDIR A PARTIR DA CITAÇÃO.
+SENTENÇA PUBLICADA SOB A ÉGIDE DO CPC/2015. HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. SUCUMBÊNCIA RECÍPROCA DAS PARTES (ART. 86 DO CPC/15), RAZÃO PELA QUAL NÃO SE MOSTRA CABÍVEL A MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS.
+PROVIMENTO AO RECURSO AUTORAL. PARCIAL PROVIMENTO AO RECURSO DA RÉ (e-STJ, fls. 569/570)
+Os embargos de declaração opostos por LEONARDO foram rejeitados (e-STJ, fls. 598/602).
+Nas razões do presente recurso, LEONARDO alegou além de dissídio jurisprudencial a violação dos arts. 11, 141, 489, 492 e 1.022 do NCPC; 2º, 3º e 18 do CDC, ao sustentar que: (1) houve negativa de prestação jurisdicional consubstanciada em: (1.a) contradição com os pedidos iniciais; (1.b) obscuridade ao não demonstrar em quais elementos baseou a conclusão de se tratar de hipótese de vício no serviço; e (1.c) omissão ao não enfrentar a tese de aplicação à hipótese das normas do art. 18 do CDC capazes de infirmar o entendimento adotado sobre a destinação da motocicleta; (2) o acórdão recorrido seria extra petita, ao decidir a causa com base em causa de pedir e pedido não invocados; (3) não se trataria de vício de serviço, mas sim de vício constatado em um bem móvel e material; e (4) teria direito a escolher entre a substituição do produto por outro da mesma categoria e espécie, a restituição da quantia paga ou o abatimento proporcional do preço (e-STJ, fls. 604/633).
+Foram apresentadas contrarrazões (e-STJ, fls. 675/690 e 698/701).
+É o relatório.
+Decido.
+O recurso merece prosperar.
+(1) Da negativa de prestação jurisdicional
+O TJRJ, ao analisar os embargos de declaração, incorreu em: (1.a) contradição com os pedidos iniciais; (1.b) obscuridade ao não demonstrar em quais elementos baseou a conclusão de se tratar de hipótese de vício no serviço; e (1.c) omissão ao não enfrentar a tese de aplicação à hipótese das normas do art. 18 do CDC capazes de infirmar o entendimento adotado sobre a destinação da motocicleta.
+É condição sine qua non ao conhecimento do especial que a questão de direito ventilada nas razões de recurso tenha sido analisada pelo acórdão objurgado.
+Assim, recusando-se o TJRJ a se manifestar sobre as questões federais terminou por negar prestação jurisdicional ao Recorrente.
+A propósito:
+RECURSO ESPECIAL. ACÓRDÃO RECORRIDO QUE NÃO SE MANIFESTOU SOBRE PONTO RELEVANTE PARA O DESATE DA CONTROVÉRSIA. OFENSA AO ART. 535 CONFIGURADA. TEMPESTIVIDADE DO RECURSO ESPECIAL. REGULARIDADE. 1. Muito embora o acórdão recorrido tenha afastado uma a uma as preliminares arguidas pela recorrente, silenciou quanto a ponto fundamental ao desate da controvérsia no mérito, qual seja, a ocorrência de mora do devedor, apesar de instado a fazê-lo em sede de embargos de declaração, o que caracteriza violação ao art. 535, II, do CPC. 2. Agravo regimental não provido.
+(AgRg no REsp 1187807/AM, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 21/6/2012, DJe 28/6/2012)
+É medida de rigor, portanto, o retorno dos autos à instância ordinária para que sane o referido vício.
+Fica prejudicada a analise das demais questões.
+Nessas condições, DOU PROVIMENTO ao recurso especial, determinando o retorno dos autos ao TJRJ para que analise as questões trazidas nos embargos de declaração, como entender de direito.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação das penalidades fixadas nos arts. 1.021, §4º ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA POR DANOS MORAIS E MATERIAIS. REVISÃO DE MOTOCICLETA NA CONCESSIONÁRIA. VEÍCULO NA GARANTIA DE FÁBRICA. MAU FUNCIONAMENTO DA EMBREAGEM. CONSERTO NÃO REALIZADO. OMISSÕES. OFENSA AO ART. 1.022 DO NCPC CONFIGURADA. RECURSO ESPECIAL PROVIDO.
