@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros João Batista Moreira (Desembargador convocado do TRF1), Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DISPARO DE ARMA DE FOGO EM VIA PÚBLICA E COMUNICAÇÃO FALSA DE CRIME. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL.
+I - A ausência de impugnação dos fundamentos da decisão que não admitiu o recurso especial impõe o não conhecimento do agravo em recurso especial.
+II - In casu, a parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial com relação à incidência da Súmula 7 do STJ e Súmula 284 do STF.
+Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por RAMON NEPUMUCENO DE AGUIAR CINTRA contra a decisão de fls. 698-701, por meio da qual o agravo em recurso especial deixou de ser conhecido.
+Consta dos autos que o agravante foi condenado como incurso nas penas dos artigos 15 da Lei n. 10.826/2003 e 340 do Código Penal, à pena de 02 (dois) anos de reclusão, em regime inicial aberto, substituída a pena privativa de liberdade por duas restritivas de direito (consistentes em prestação pecuniária, no valor de 3 (três) salários-mínimos e limitação de fim de semana), e ao pagamento de 20 (vinte) dias-multa, o que foi mantido pelo Tribunal de origem.
+Interposto recurso especial, alegou-se violação dos artigos 55, 156, 157, 214, 386I, incisos VI e VII, 395, incisos I, e 402, todos do Código de Processo Penal, ao argumento de que inexiste prova de autoria delitiva, havendo equívoca valoração das provas. O apelo foi inadmitido ante o óbice da Súmula 7 do STJ e Súmula 284 do STF.
+Nesta Corte, o agravo em recurso especial deixou de ser conhecido, pois a Defesa não impugnou especificamente os fundamentos da decisão de inadmissão do apelo nobre.
+No regimental (fls. 704-724), sustenta a Defesa que todos os fundamentos abarcados no acórdão guerreado foram devidamente infirmados pelo presente recurso, não havendo a incidência da Súmula 283 do STF e que o debate trazido à baila não importa reexame de provas. Além disso, repisa as razões do recurso especial.
+Pugna, ao final, pela reconsideração da decisão impugnada ou, subsidiariamente, pela apresentação do recurso ao Colegiado.
+Por manter o decisum, trago o feito a julgamento do Colegiado.
+É o relatório.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DISPARO DE ARMA DE FOGO EM VIA PÚBLICA E COMUNICAÇÃO FALSA DE CRIME. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL.
+I - A ausência de impugnação dos fundamentos da decisão que não admitiu o recurso especial impõe o não conhecimento do agravo em recurso especial.
+II - In casu, a parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial com relação à incidência da Súmula 7 do STJ e Súmula 284 do STF.
+Agravo regimental desprovido.
+VOTO
+Em que pesem os argumentos do agravante, a decisão impugnada deve ser mantida.
+Nesta Corte Superior, o agravo em recurso especial deixou de ser conhecido porque não foram infirmados parte dos fundamentos empregados pela eg. Corte de origem para inadmitir o recurso.
+Em relação à inadmissão quanto à aplicação da Súmula 7/STJ, a Defesa limitou-se a aduzir que "Todavia, importa ressaltar um quadrante de argumentos, ocorridos neste processo, que, em princípio, possa aparentar reanálise de provas, mas não será esse o propósito, certamente. O que se busca aqui é sanar uma inarredável falha do Tribunal de piso, do ensejo do acórdão guerreado, quando, equivocadamente, dera ao âmago dos fatos debatidos, uma qualificação jurídica desacertada. Desse modo, os fatos em espécie, a seguir explicitado, verdadeiramente ocorreram, nos moldes do que constam da decisão hostilizada. Destarte, trata-se de exame de fatos, não reexame" (fl. 653). A parte, ainda, repisou os argumentos do recurso especial.
+Com efeito, quanto à incidência da Súmula 7/STJ, deveria a parte agravante demonstrar a desnecessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no decisum a quo, o que não aconteceu.
+É entendimento desta Corte Superior que "inadmitido o recurso especial com base na Súm. 7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível" (AgInt no AREsp n. 600.416/MG, Segunda Turma, Rel. Min. Og Fernandes, DJe de 18/11/2016). No mesmo sentido: AgRg no AREsp n. 1.207.268/MG, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 19/12/2018 e AgRg nos EDcl no AREsp n. 2.104.712/CE, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 11/11/2022.
+Além disso, a decisão de admissibilidade do recurso especial encontra-se fundamentada na deficiência de fundamentação, nos moldes do art. 1.029 do Código de Processo Civil, de modo a atrair a incidência da Súmula 284/STF, nesse ponto, verifico que a parte informa apenas que indicou os dispositivos violados no v. acórdão recorrido, apontando insurgência em relação a Súmula 283/STF, a qual sequer foi tratada na decisão agravada. O mesmo equívoco ocorreu nas razões do regimental. Sendo certo, portanto, que a Defesa olvidou-se de rebater o descumprimento do art. 1.029 do Código de Processo Civil.
+Como mencionado na decisão agravada, não basta deduzir a inaplicabilidade do óbice sumular, devendo ser esclarecido o rechaço aos pontos esteares da decisão de admissibilidade, como comprovar, por meio da contraposição dos argumentos postos no recurso especial e conclusões do acórdão recorrido, a suficiência e adequação do inconformismo.
+Deve-se ressaltar que cabe ao agravante demonstrar o equívoco da decisão em face da qual se insurge, sendo imprescindível a impugnação específica a todos os óbices por ela apontados, obrigação da qual não se desincumbiu.
+Este é o teor do art. 932, inciso III, do Código de Processo Civil/2015, que autoriza o relator a não conhecer de recurso que tenha deixado de impugnar os fundamentos da decisão recorrida. Igualmente, o art. 253, inciso I, do Regimento Interno do Superior Tribunal de Justiça, com redação dada pela Emenda Regimental n. 22/2016, autoriza o relator a não conhecer do agravo que descumpra a tarefa de infirmar as razões de decidir que levaram ao trancamento do recurso especial.
+Ademais, rechaçar as argumentações utilizadas pelo decisum que inadmitiu o apelo extremo a destempo, na via do regimental, como ora pretende o agravante, é inadequado, porquanto tal impugnação deveria ter sido ventilada justamente no bojo do agravo em recurso especial.
+Assim, deve ser mantida a decisão agravada.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
