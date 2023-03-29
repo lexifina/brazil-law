@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo interno interposto contra decisão de minha lavra que não conheceu do agravo em recurso especial em vista da ausência de impugnação aos fundamentos da decisão da Corte de origem que inadmitiu o apelo nobre.
+A agravante alega que:
+"(..), nas razões do Agravo em Recurso Especial efetivamente atacou os fundamentos contidos na decisão recorrida, tendo apresentado razões para sua desconstituição, sem que isso importasse na necessidade de reapreciação dos fatos ou das provas. (..) a parte autora, ora agravante, atacou e apresentou fundamentos no Agravo em Recurso Especial para desconstituição da decisão agravada, notadamente porque são suficientes os reconhecimentos contidos nas decisões proferidas para a apreciação da matéria de fundo, não se fazendo necessária a reapreciação dos fatos/provas, bastando as análises já realizadas e expressamente contidas nos provimentos jurisdicionais.
+(..)
+Como se vê, pelo ora agravante restaram atacados os fundamentos contidos na decisão de admissibilidade, com apresentação de razões para sua desconstituição, tendo o Agravo em Recurso Especial demonstrado o modo como seria possível a análise das violações apontadas, a partir da revaloração das premissas contidas no acórdão recorrido, sem necessidade de revolvimento dos fatos/provas, tendo, assim, sido demonstrado que no caso vertente houve má aplicação da Súmula 7 - STJ. Logo, não encontra lugar o entendimento manifestado pela decisão denegatória, que sequer analisou o objeto da remessa recursal, não havendo se de falar na aplicação da Súmula 7 - STJ, porquanto não se faz necessário o revolvimento do conjunto fático probatório para o conhecimento da matéria que compõe o objeto do Recurso Especial, conforme acima demonstrado." (fl. 237-245).
+Sem impugnação (fl. 249).
+É o relatório. Passo a decidir.
+Consigna-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, verifica-se que os argumentos atinentes à incidência do Enunciado 7 da Súmula do STJ foram pontuados no AREsp, a fls.167-181, impugnando especificamente o entendimento da decisão de inadmissibilidade.
+Encontra-se, assim, devidamente impugnada a decisão ora agravada, razão pela qual se reconsidera as decisões de fls. 218-219 e 233, tornando-as sem efeitos.
+Ante o exposto, dou provimento ao agravo interno tão somente para tornar sem efeito as decisões de fls. 218-219 e 233. Após, retornem conclusos os autos.
+Publique-se. Intimem-se.
