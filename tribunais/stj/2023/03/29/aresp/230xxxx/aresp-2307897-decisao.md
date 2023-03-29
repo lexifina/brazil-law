@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por CHENDA CARGO LOGISTICS (BRASIL) LTDA, contra decisão que inadmitiu o recurso especial ante a incidência da Súmula n. 284 do STF.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão do Tribunal de Justiça local (Apelação Cível n. 7053152-85.2019.8.22.0001) assim ementado (fl.168):
+Apelação cível. Ação de cobrança de sobre-estadia ou demurrage de contêiner. Ausência de prova da data da devolução do contêiner. Pagamento indevido de despesas de eventual sobre-estadia. Prova apresentada após a prolação da sentença. Inovação recursal. Recurso desprovido.
+A não comprovação, durante a instrução processual, da data da devolução do contêiner conduz ao desprovimento do pedido de cobrança da sobre-estadia.
+A prova apresentada após a sentença, não se submeteu ao contraditório e a apelante detinha esses documentos antes da prolação da sentença e não os apresentou, é impossível levá-los em consideração para o deslinde da demanda, diante da vedação à inovação na fase recursal.
+Os aclaratórios opostos foram rejeitados (fls. 196-199).
+No recurso especial (fls. 207-213), a parte recorrente  aponta violações dos arts. 489, § 1º, IV, e 1.022, II, do Código de Processo Civil. Defende que a Corte de origem não enfrentou todos os argumentos deduzidos no processo e não fundamentou "ACERCA DO CONTEÚDO DO DOCUMENTO JUNTADO PELA RECORRENTE QUE É CAPAZ DE EM TESE, INFIRMAR A CONCLUSÃO ADOTADA PELOS JULGADORES" (fl. 210).
+Requer  o  conhecimento  e  provimento  do  recurso.
+É  o  relatório.  Decido.
+O  recurso  não merece  prosperar.
+O  Tribunal  de  origem  analisou as questões e decidiu nos seguintes termos  (fl. 167):
+No caso, o termo de responsabilidade foi acostado às fls. 26/29, foi estabelecido o prazo de free time de 28 (vinte e oito) dias, entretanto, deixou a apelante de provar que o contêiner não foi entregue dentro do prazo concedido.
+A não comprovação, durante a instrução processual, da data da devolução do contêiner conduz ao desprovimento do pedido de cobrança da sobre-estadia.
+A prova apresentada após a sentença, não se submeteu ao contraditório e a apelante detinha esses documentos antes da prolação da sentença e não os apresentou, é impossível levá-los em consideração para o deslinde da demanda, diante da vedação à inovação na fase recursal.
+No tocante à alegada contrariedade aos arts. 489, § 1º, IV, e 1.022, II, do Código de Processo Civil, não assiste razão à parte recorrente, porquanto o Tribunal a quo examinou e decidiu, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido nem negativa de prestação jurisdicional.
+Ademais, o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+Ressalte-se que a jurisprudência do Superior Tribunal de Justiça orienta-se no sentido de que, "devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC" (AgInt no AREsp n. 1.843.196/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 20/9/2021, DJe de 22/9/2021).
+Confiram-se ainda os seguintes julgados: REsp n. 1.829.231/PB, relator Ministro Herman Benjamin, Segunda Turma, julgado em 20/10/2020, DJe de 1º/12/2020; AgInt no AREsp n. 1.736.385/GO, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/11/2020, DJe de 2/12/2020; e AgInt no REsp n. 2.009.055/AM, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 10/10/2022, DJe de 18/10/2022.
+Vê-se ainda que a Corte de origem consignou a recorrente deixou "de provar que o contêiner não foi entregue dentro do prazo concedido" e que a prova apresentada após a sentença, não se submeteu ao contraditório, mesmo tendo a recorrente a detenção dos referidos "documentos antes da prolação da sentença e não os apresentou" (fl. 167).
+Dessa forma, a adoção de conclusões diversas do acórdão recorrido demandaria a interpretação de cláusulas contratuais e o revolvimento d o quadro fático-probatório dos autos, medidas inviáveis em recurso especial, em razão do óbice das Súmulas n. 5 e 7 do STJ.
+A propósito da matéria, confiram-se precedentes:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. PRESTAÇÃO JURISDICIONAL. DEFICIÊNCIA. NÃO OCORRÊNCIA. CARTÃO DE CRÉDITO. CLONAGEM. RESPONSABILIDADE. ADMINISTRADORA. CREDENCIADORA. ILEGITIMIDADE PASSIVA. SÚMULA Nº 83/STJ. PRESTAÇÃO DOS SERVIÇOS. FALHA. REVISÃO. NÃO CABIMENTO. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não importa deficiência na prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, para decidir de modo integral a controvérsia posta.
+3. As administradoras de cartão de crédito se responsabilizam integralmente pela compra do consumidor, assumindo o risco d e crédito, bem como de eventual fraude, notadamente quando há falha na prestação do serviço. Precedentes.
+4. O recurso especial é inviável quando a modificação das conclusões adotadas no acórdão
+recorrido demanda reinterpretação de cláusulas contratuais, bem como o reexame do conjunto fático-probatório dos autos (Súmulas nºs 5 e 7/STJ).
+5. Agravo interno não provido. (AgInt no AgRg no AREsp n. 731.449/CE, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 29/11/2022.)
+CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. DANO MORAL. "QUANTUM" INDENIZATÓRIO. REVISÃO. IMPOSSIBILIDADE. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou incursão no contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+2. No caso concreto, o Tribunal analisou a prova dos autos para concluir que havia cobertura contratual e danos morais. Alterar tal conclusão demandaria o reexame de matéria fática, o que é vedado em recurso especial.
+3. "A indenização por danos morais fixada em quantum sintonizado aos princípios da razoabilidade e da proporcionalidade não enseja a possibilidade de interposição do recurso especial, dada a necessidade de exame de elementos de ordem fática, cabendo sua revisão apenas em casos de manifesta excessividade ou irrisoriedade do valor arbitrado, o que não se evidencia no presente caso. Incidência da Súmula 7 do STJ" (AgInt no AREsp 1.722.400/SP, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 15/12/2020, DJe 17/12/2020).
+4. Agravo interno a que se nega provimento. (AgInt no REsp n. 2.022.722/MS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 5/12/2022.)
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e negar-lhe provimento.
+Nos termos do § 11 do art. 85 do CPC, majoro, em favor da parte ora recorrida, os honorários advocatícios de 15%, percentual arbitrado na instância de origem, para 20% sobre o valor atualizado da causa.
+Publique-se.  Intimem-se.
