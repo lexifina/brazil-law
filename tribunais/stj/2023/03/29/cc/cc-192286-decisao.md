@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de conflito negativo de competência entre o JUÍZO DA 8ª VARA DO TRABALHO DE NITEROI - RJ, suscitante, e o JUÍZO DE DIREITO DA 9ª VARA CÍVEL DE NITERÓI - RJ, suscitado, no âmbito de obrigação de fazer c/c danos materiais proposta por BIANCA LOUZANO MEIRELLES GOMES contra a FUNDAÇÃO MUNICIPAL DE SAÚDE e o MUNICÍPIO DE NITERÓI.
+O Juízo trabalhista suscitante alega incompetência absoluta para processar e julgar o feito, pois entende que o feito se refere a uma relação jurídico-administrativa (fls. 150-151).
+Antes disso, o Juízo estadual suscitado já havia se declarado incompetente, determinando a remessa dos autos à Justiça do Trabalho, em decisão assim fundamentada (fl. 66):
+A requerente que não é servidora pública ingressou com ação visando o recebimento de verbas trabalhistas. Alega ser contratada do Município de Niterói.
+Manuseando os autos verifica-se que a Justiça Estadual é incompetente para processar e julgar a presente ação devendo assim ser endereçada a Justiça do Trabalho.
+Assim, sendo, declino de minha competência para a Justiça do Trabalho.
+Parecer do Ministério Público Federal no sentido do reconhecimento da competência do Juízo estadual, ora suscitado, porquanto compete à Justiça comum decidir os litígios sujeitos ao regime estatutário ou jurídico-administrativo (fls. 169-175).
+É, no essencial, o relatório.
+Infere-se da inicial que a autora foi contratada, por prazo determinado, para prestação de serviços médicos aos réus. Afirma que o contrato foi prorrogado contínua e sucessivamente desde de outubro de 2014 . Dessa relação, segundo a reclamante, teriam surgido obrigações trabalhistas não cumpridas pelo ente público (férias e 13º salário).
+Com a Emenda Constitucional n. 45/2004, a competência para conhecer das ações decorrentes da relação de trabalho (incluídos os entes de Direito Público externo e da administração pública direta e indireta da União, dos Estados, do Distrito Federal e dos municípios) passou a ser da Justiça do Trabalho.
+Todavia, o Supremo Tribunal Federal, ao analisar a controvérsia na ADI n. 3.395/DF, referendou a liminar anteriormente concedida que suspendeu qualquer interpretação do inciso I do art. 114 da CF/1988 (alterado pela EC n. 45/2004) que atribuísse à Justiça do Trabalho a apreciação de causas entre o Poder Público e seus servidores com vínculo estatutário ou de caráter jurídico-administrativo. O acórdão ficou assim ementado:
+CONSTITUCIONAL E TRABALHO. COMPETÊNCIA DA JUSTIÇA DO TRABALHO. ART. 114, I, DA CONSTITUIÇÃO FEDERAL. EMENDA CONSTITUCIONAL 45/2004. AUSÊNCIA DE INCONSTITUCIONALIDADE FORMAL. EXPRESSÃO "RELAÇÃO DE TRABALHO". INTERPRETAÇÃO CONFORME À CONSTITUIÇÃO. EXCLUSÃO DAS AÇÕES ENTRE O PODER PÚBLICO E SEUS SERVIDORES. PRECEDENTES. MEDIDA CAUTELAR CONFIRMADA. AÇÃO DIRETA JULGADA PARCIALMENTE PROCEDENTE.
+1. O processo legislativo para edição da Emenda Constitucional 45/2004, que deu nova redação ao inciso I do art. 114 da Constituição Federal, é, do ponto de vista formal, constitucionalmente hígido.
+2. A interpretação adequadamente constitucional da expressão "relação do trabalho" deve excluir os vínculos de natureza jurídico-estatutária, em razão do que a competência da Justiça do Trabalho não alcança as ações judiciais entre o Poder Público e seus servidores.
+3. Medida Cautelar confirmada e Ação Direta julgada parcialmente procedente. (ADI 3395, relator Ministro ALEXANDRE DE MORAES, Tribunal Pleno, DJe-165 publicado em 1º/7/2020.)
+Ademais, em harmonia com a orientação do STF, o Superior Tribunal de Justiça firmou o entendimento de que a contratação de serviço temporário, amparada no art. 37, IX, da Constituição da República, possui natureza jurídico-administrativa, o que atrai a competência da Justiça Comum. Nesse sentido, cito os seguintes precedentes:
+PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. JUÍZOS COMUM ESTADUAL E TRABALHISTA. RECLAMAÇÃO TRABALHISTA. CONTRATAÇÃO DE AGENTE PÚBLICO. LEI LOCAL QUE INSTITUI ESTATUTO DOS SERVIDORES. EVENTUAL NULIDADE DA NOMEAÇÃO. EVENTUAL DESNATURAÇÃO DO VÍNCULO JURÍDICO-ADMINISTRATIVO. NÃO OCORRÊNCIA. AGRAVO INTERNO NÃO PROVIDO.
+1. A princípio, lei local instituiu o regime jurídico dos servidores públicos como estatutário.
+2. Ademais, a contratação de pessoas pela administração pública, ainda que irregular, possui natureza de ato administrativo que atraí a competência da Justiça Comum. 3. Agravo interno não provido.
+(AgInt no CC n. 170.776/SP, relator Ministro Mauro Campbell Marques, Primeira Seção, julgado em 2/3/2021, DJe de 4/3/2021.)
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇAS ESTADUAL E TRABALHISTA. AÇÃO NA QUAL SE POSTULAM VERBAS DECORRENTES DE CONTRATAÇÃO TEMPORÁRIA FUNDADA NO ART. 37, IX, DA CF/1988. VÍNCULO EXISTENTE ENTRE CONTRATANTE E CONTRATADO. NATUREZA JURÍDICO-ADMINISTRATIVA. COMPETÊNCIA DA JUSTIÇA COMUM.
+1. Compete à Justiça Comum estadual ou federal, conforme o caso, processar e julgar demanda decorrente de contrato temporário de trabalho fundado no art. 37, IX, da Constituição Federal. Precedentes do STJ e do STF.
+2. Conflito negativo conhecido, declarando-se, no caso concreto, a competência do Juízo de Direito da Vara da Fazenda Pública da Comarca de Paranaguá/PR, o suscitante.
+(CC n. 160.644/PR, relator Ministro Sérgio Kukina, Primeira Seção, julgado em 26/9/2018, DJe de 3/10/2018.)
+Ante o exposto, com fundamento no art. 955, parágrafo único, II, do CPC e no art. 34, XXII, do RISTJ, conheço do conflito para declarar a competência do JUÍZO DE DIREITO DA 9ª VARA CÍVEL DE NITERÓI - RJ, suscitado.
+Comunique-se a decisão ao Juízo suscitante e ao Juízo suscitado.
+Publique-se. Intimem-se.
