@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por MATEUS FIDELIS ZABEL contra decisão de fls. 50-53, e-STJ, que concedeu a ordem de ofício para afastar a causa de aumento do furto noturno e reduzir a reprimenda do ora embargante para o patamar de 2 anos de reclusão, mantendo, no mais, o acórdão recorrido.
+Objetiva o embargante a correção de erro material no cálculo da nova dosimetria da pena para que seja fixada a pena final em 1 ano, 9 meses e 23 dias de reclusão, mais 10 dias-multa.
+É o relatório.
+Decido.
+A teor do artigo 619 do Código de Processo Penal, são cabíveis embargos de declaração quando houver ambiguidade, obscuridade, contradição ou omissão no julgado, podendo ainda ser admitidos para a correção de eventual erro material.
+Com razão o embargante, pois presente erro de cálculo na nova dosimetria da pena realizada, sendo caso de acolhimento dos aclaratórios para correção do referido excerto.
+Assim, na decisão (e-STJ, fls. 50-53), onde se lê:
+A pena-base do paciente foi fixada acima do mínimo legal, em 2 anos e 4 meses de reclusão, além de 11 dias-multa, ante a existência de circunstância judicial desfavorável. Na segunda fase da dosimetria, ausentes atenuantes e agravantes, foi mantida a reprimenda no mesmo patamar. Na terceira fase, afastada a causa de aumento de pena do repouso noturno e reconhecida a causa de diminuição do furto privilegiado (fração de 1/3 utilizada pela Corte estadual), fixa-se a pena final em 1 ano, 9 meses e 23 dias de reclusão e 8 dias-multa.
+Diante do reconhecimento, na origem, da continuidade delituosa, exaspera-se a pena do crime mais grave (furto qualificado majorado) em 1/6, tornando-a definitiva em 2 anos de reclusão e 10 dias-multa, mantidos todos os demais termos estabelecidos no acórdão recorrido, especialmente o regime inicial aberto e a substituição da pena privativa por restritivas de direitos.
+Ante o exposto, defiro liminarmente o habeas corpus, e concedo a ordem, de ofício, a fim de afastar a causa de aumento do furto noturno e reduzir a reprimenda do paciente para 2 anos de reclusão, mantendo, no mais, o acórdão recorrido.
+Passa, agora, a constar:
+A pena-base do paciente foi fixada acima do mínimo legal, em 2 anos e 4 meses de reclusão, além de 11 dias-multa, ante a existência de circunstância judicial desfavorável. Na segunda fase da dosimetria, ausentes atenuantes e agravantes, foi mantida a reprimenda no mesmo patamar. Na terceira fase, afastada a causa de aumento de pena do repouso noturno e reconhecida a causa de diminuição do furto privilegiado (fração de 1/3 utilizada pela Corte estadual), fixa-se a pena final em 1 ano, 6 meses e 20 dias de reclusão e 7 dias-multa.
+Diante do reconhecimento, na origem, da continuidade delituosa, exaspera-se a pena do crime mais grave (furto qualificado majorado) em 1/6, tornando-a definitiva em 1 ano, 9 meses e 23 dias de reclusão e 8 dias-multa, mantidos todos os demais termos estabelecidos no acórdão recorrido, especialmente o regime inicial aberto e a substituição da pena privativa por restritivas de direitos.
+Ante o exposto, defiro liminarmente o habeas corpus, e concedo a ordem, de ofício, a fim de afastar a causa de aumento do furto noturno e reduzir a reprimenda do paciente para 1 ano, 9 meses e 23 dias de reclusão e 8 dias-multa, mantendo, no mais, o acórdão recorrido.
+Ante o exposto, acolho os aclaratórios, nos termos da fundamentação acima, a fim corrigir a pena final do embargante para o total de 1 ano, 9 meses e 23 dias de reclusão e 8 dias-multa.
+Renovem-se, com a devida retificação, as comunicações encaminhadas ao Tribunal de Justiça e ao Juízo de 1º grau.
+Publique-se. Intimem-se.
