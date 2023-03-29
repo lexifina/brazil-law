@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de ALISSON DA CONCEICAO VIEIRA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação 0001599-15.2017.8.26.0604).
+O paciente foi condenado à pena de 6 anos de reclusão em regime fechado, além do pagamento de 600 dias-multa, por infração ao art. 33, caput, da Lei 11.343/2006.
+A apelação interposta pela defesa foi provida parcialmente para reduzir as penas do acusado a 5 anos de reclusão e pagamento de 500 dias-multa.
+O impetrante sustenta: a) nulidade das provas obtidas por meio de indevida busca pessoal e domiciliar, realizadas por agentes da guarda municipal com base em denúncia anônima, à mingua de indicação de elementos concretos que justificassem a medida; b) "a condenação foi fundamentada na apreensão da droga e no depoimento dos guardas que atuaram na prisão. Prova ilícita sob a ordem constitucional brasileira, pela invasão de competência da Guarda Civil Municipal" (e-STJ fl. 6); c) "a corporação tem poderes apenas para proteger bens, serviços e instalações do município, não possuindo a mesma amplitude de atuação das polícias, e que a fundada suspeita mencionada pelo artigo 244 do Código de Processo Penal (CPP) é um requisito necessário para a realização de busca pessoal, mas não suficiente, porque não é a qualquer cidadão que é dada a possibilidade de avaliar sua presença" (e-STJ fls. 9-10); d) "o fato do tráfico de drogas se tratar de crime permanente não pode ser usado de fundamento para justificar a abordagem" (e-STJ fl. 12); e e) "o tráfico de drogas ser realizado ainda na frente ou nas proximidades da moradia do suspeito não autoriza o ingresso de policiais na residência sem autorização judicial" (e-STJ fl. 16).
+Requer, liminar e definitivamente, deferimento da ordem para anular as provas obtidas mediante abordagem pessoal e busca domiciliar realizadas pela guarda municipal, com a consequente absolvição do paciente.
+É, no essencial, o relatório. Decido.
+A matéria de fundo - nulidade de provas obtidas a partir da atuação da guarda municipal - não foi apreciada no acórdão impugnado. Assim, esta Corte não pode conhecer do tema, sob pena de supressão de instância.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. VIOLAÇÃO DE DOMICÍLIO E MINORANTE DO TRÁFICO PRIVILEGIADO. MATÉRIAS NÃO ANALISADAS PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE.
+1. As teses deduzidas nas razões do habeas corpus - nulidade das provas obtidas com violação de domicílio e necessidade de reconhecimento do tráfico privilegiado - não foram objeto de análise pelo Tribunal de origem e sequer suscitadas no recurso de apelação, configurando supressão de instância. Além disso, não se verifica qualquer ilegalidade na fundamentação empregada pelo juízo sentenciante para afastar a minorante do tráfico, pois indicados elementos concretos dos autos aptos a evidenciar a dedicação à atividade criminosa.
+2. Agravo regimental improvido.
+(AgRg no HC n. 756.677/SC, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 13/3/2023, DJe de 16/3/2023.)
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE DA PROVA POR VIOLAÇÃO DE DOMICÍLIO. TESE NÃO APRECIADA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. APLICAÇÃO DA MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. IMPOSSIBILIDADE. CIRCUNSTÂNCIAS CONCRETAS QUE DENOTAM A DEDICAÇÃO DO PACIENTE À ATIVIDADE CRIMINOSA. ALTERAÇÃO DA CONCLUSÃO DA INSTÂNCIA ORDINÁRIA QUE DEMANDA REVOLVIMENTO FÁTICO-PROBATÓRIO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO DESPROVIDO.
+1. A tese de nulidade das provas que teriam sido obtidas a partir de indevida violação domiciliar não foi apreciada pelo Tribunal de origem, ficando este Superior Tribunal de Justiça impedido de manifestar-se sobre a matéria em supressão de instância.
+2.  ..
+4. Agravo regimental desprovido.
+(AgRg no HC n. 758.050/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 7/2/2023, DJe de 14/2/2023.)
+Ante o exposto, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
