@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Everton Lima Machado à decisão, por mim proferida, na qual concedi parcialmente a ordem de habeas corpus, conforme esta ementa (fl. 276):
+HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE. ALEGAÇÃO DE INDEVIDA INVASÃO DE DOMICÍLIO. NÃO OCORRÊNCIA. DOSIMETRIA. COMPENSAÇÃO INTEGRAL ENTRE A ATENUANTE DE CONFISSÃO E A AGRAVANTE DE REINCIDÊNCIA ESPECÍFICA. POSSIBILIDADE. PRECEDENTE DA TERCEIRA SEÇÃO. PARECER ACOLHIDO.
+Ordem parcialmente concedida nos termos do dispositivo.
+Nestes embargos, sustenta-se omissão na decisão impugnada, alegando-se, em breve síntese, que o irmão do condenado veio a confessar o tráfico de drogas em outro processo, afirmando, inclusive, que também era o traficante no caso do processo que condenou o paciente (fl. 284).
+Argumenta-se que o dispositivo foi omisso quanto à prova nova de autoria, juntada às fls. 157/163 e referente à sentença proferida em outro processo de tráfico, em que Gabriel, o irmão do paciente, confessou ser o real traficante no presente caso (fl. 285).
+Requer-se, assim, que os embargos sejam acolhidos para que seja sanada a omissão existente na decisão com a inclusão da apreciação do pedido de absolvição por prova nova quanto à autoria (fl.286).
+É o relatório.
+Os presentes embargos mostram-se tempestivos, devendo ser conhecidos.
+E, de fato, a decisão padece de omissão, contudo, a resposta ao referido vício não satisfaz a pretensão.
+Isso porque, na via eleita, não há como dirimir a tese de negativa de autoria nem a de ausência de provas da conduta criminosa, pois isso demandaria a avaliação aprofundada do conjunto fático-probatório que compõe o processo principal. E o envolvimento ou não do agente no delito que lhe foi imputado é matéria cuja análise foi reservada à ação penal e à revisão criminal.
+Entendo não assistir razão ao embargante, eis os fundamentos do Tribunal a quo ao analisar o pedido de revisão criminal, in verbis (fls. 184/185):
+ ..
+A condenação pelo crime de tráfico de drogas era mesmo de rigor. Ao contrário do que pretende a Defesa, a despeito da total assunção sobre a propriedade das drogas por seu irmão Gabriel também traficante e condenado em processo próprio -, em nenhum momento se demonstrou qualquer circunstância que levasse a crer que teria sido apenas confundido.
+A prática do tráfico de drogas, pois, está configurada, devendo ser consideradas as circunstâncias em que ocorreram a abordagem e a apreensão, tratando-se de corriqueira apreensão de traficante, em conhecido ponto de comércio de entorpecentes (Favela do Caixão, "Beco do Pingo"), portando considerável quantidade de entorpecentes (262 porções, contendo 580,0 gramas de maconha, e 73 porções, contendo 200,0 gramas de conforme auto de constatação provisória de fls.26), confirmando as suspeitas de tráfico. Sem possibilidade de negativa, admitiu a propriedade do entorpecente, ao menos informalmente, aos policiais militares Evandro e Paulo os quais, em patrulhamento, avistaram-no, embaixo de um guarda- sol, em típica atitude de tráfico, tentando fugir para dentro do estabelecimento comercial familiar, dispensando a pochete que portava, ao perceber a aproximação dos policiais, sendo abordado e encontrado com 262 (duzentos e sessenta e duas) porções de maconha, e 73 porções de cocaína, em conhecido ponto de tráfico, momento em que disse "perdi, perdi, senhor, eu tô no corre mesmo". E essas circunstâncias foram confirmadas judicialmente pelas testemunhas, policiais militares, responsáveis pelo flagrante.
+Em razão da exigência de revolvimento do conteúdo fático-probatório, a estreita via do habeas corpus, bem como do recurso ordinário em habeas corpus, não é adequada para a análise das teses de negativa de autoria e da existência de prova robusta da materialidade delitiva (RHC n. 145.064/MG, Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, DJe 24/6/2021).
+Ante o exposto, acolho os embargos de declaração, a fim de sanar a omissão, sem, contudo, conceder efeitos modificativos.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS. TRÁFICO DE DROGAS. NEGATIVA DE AUTORIA. FATO NOVO APÓS A SENTENÇA CONDENATÓRIA. OMISSÃO CONFIGURADA. APROFUNDADO EXAME FÁTICO-PROBATÓRIO. INADMISSIBILIDADE.
+Embargos acolhidos, a fim de sanar a omissão, sem, contudo, conceder efeitos modificativos.
