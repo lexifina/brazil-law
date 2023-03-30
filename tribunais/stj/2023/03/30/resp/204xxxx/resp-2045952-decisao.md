@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de recurso especial interposto por TELEMAR NORTE LESTE S/A em face de de acórdão de lavra do TJ/RJ.
+Ação: de cobrança ajuizada por JAIR JOSE RIBEIRO em face de TELEMAR NORTE LESTE S/A, almejando a condenação da recorrente a apresentar cópia dos contratos de participação financeira, bem como dos livros societários que dizem respeito aos autores, e, ainda, a imediata entrega das ações faltantes, com o pagamento de indenização em dinheiro, equivalente à dobra acionária representada pela mesma quantidade de ações apuradas.
+Sentença: julgou improcedentes os pedidos da exordial, extinguindo o feito com resolução de mérito.
+Acórdão: deu provimento ao recurso de apelação interposto por JAIR JOSE RIBEIRO, anulando a sentença e ordenando que outra fosse proferida após a exibição, pela recorrente, dos instrumentos dos contratos, nos seguintes termos:
+APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA. CONTRATO DE PARTICIPAÇÃO FINANCEIRA EM INVESTIMENTO NO SERVIÇO TELEFÔNICO. AUSÊNCIA DE JUNTADA DO ALUDIDO CONTRATO FIRMADO ANTRE AS PARTES. PEDIDO DE EXPEDIÇÃO DE OFÍCIOS AOS BANCOS CUSTODIANTES DAS AÇÔES ORIGINÁRIAS DO CONTRATO DE PARTICIPAÇÃO FINANCEIRA, DEMONSTRANDO OS AUTORES QUE EM OUTROS PROCESSOS ESSE PEDIDO FOI DEFERIDO E FORAM OBTIDAS INFORMAÇÕES RELEVANTES SOBRE OS CONTRATOS FIRMADOS ENTRE AS PARTES. DIREITO DOS AUTORES A TEREM UM PRONUNCIAMENTO JUDICIAL ACERCA DESSE PEDIDO, AINDA QUE SEJA PARA SER INDEFERIDO, COMPETINDO AOS AUTORES TOMAR AS MEDIDAS QUE ENTENDEREM CABÍVEIS. NULIDADE DA SENTENÇA POR CERCEAMENTO DE DEFESA. RECURSO A QUE SE DÁ PROVIMENTO, NOS TERMOS DO DISPOSTO NO ART. 557, §º-A DO CPC.
+Recurso especial: interposto pela recorrente, retornou ao Tribunal de Origem por determinação da vice- presidência da Corte Estadual, abrindo vistas à retratação ou manutenção do julgado. (e-STJ fls. 1668)
+Acórdão: não exerceu o juízo de retratação, mantendo o julgado, de forma assim ementada:
+Contrato de participação financeira. Relação de consumo. Verossimilhança das alegações dos apelantes; hipossuficiência técnica. Informação do Banco Itaú S/A, no sentido de que os contratos em lide pertencem à Concessionária apelada, a corroborar a existência da relação jurídica material. Inversão do ônus probatório que se impõe. Precedentes. Anulação da sentença. Juízo de retratação não exercido, mantido o julgado original. (fl. 1753, e-STJ)
+Embargos de declaração: opostos pelo recorrido, foram rejeitados por duas vez. (fl. 1892 e fl. 1928, e-STJ).
+Recurso especial: aduz violação ao art. 100, § 1º, da Lei nº 6.404/76; à Súmula nº 389/STJ; e ao art. 1.022 do CPC.
+É relatório. Decide-se.
+- Da negativa de prestação jurisdicional
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+Ademais, da leitura do acórdão recorrido extrai-se, sem adentrar no acerto ou desacerto do julgamento, que foram devidamente analisadas e discutidas as questões de mérito, estando suficientemente fundamentado, de modo a esgotar a prestação jurisdicional.
+À vista disso, não há omissão a ser suprida, de modo que não se vislumbra a alegada violação do art. 1.022 do CPC/2015.
+- Da aplicabilidade da Súmula 389/STJ.
+A Egrégia Segunda Seção do Superior Tribunal de Justiça, no julgamento do Recurso Especial Repetitivo 982.133/RS, concluiu que: "falta ao autor interesse de agir para a ação em que postula a obtenção de documentos com dados societários, se não logra demonstrar: a) haver apresentado requerimento formal à ré nesse sentido; b) o pagamento pelo custo do serviço respectivo, quando a empresa lhe exigir, legitimamente respaldada no art. 100, parágrafo, 1º da Lei 6.404/1976".
+Ademais, a Segunda Seção desta Corte Superior, tem entendimento de que a Súmula nº 389/STJ é aplicável aos pedidos de exibição incidental dos chamados contratos de prestação de telefonia com cláusula de participação financeira.
+Nesse sentido: AgInt no AREsp 1.271.960/DF, Terceira Turma, DJe 14/08/2018; e AgInt nos EDcl no AREsp 934.742/PR, Quarta Turma, DJe 1º/12/2016.
+Portanto, a não comprovação da prévia existência de requerimento formal apresentado pelo autor da demanda visando obter os contratos de prestação de serviços de telefonia com cláusula de participação financeira revela sua falta de interesse de agir, impondo a extinção do feito sem resolução meritória.
+Na espécie, o Tribunal de origem, ao julgar os embargos de declaração opostos pelo recorrente, assim concluiu:
+No que tange à alegada omissão caracterizada pela ausência de análise de aplicação do disposto no art. 100, § 1º, da Lei das Sociedades Anônimas e da Súmula 389 do STJ e consequentemente a suposta ausência de interesse de agir, lobrigo que tal entendimento não merece acolhida, apesar de efetivamente tal pedido não ter sido apreciado pelo Relator Originário.
+A ação proposta pelos embargados não se traduz em ação cautelar de exibição de documentos, mas sim ação de cobrança de valores devidos em razão dos contratos de participação financeira, sendo o pedido referente à apresentação de documentos meramente incidental, assim sendo, não se revelaria aplicável o enunciado de Súmula 389 do STJ, portanto, apesar da existência de omissão, a mesma não irá gerar efeitos infringentes, mantendo-se neste ponto o v. Acórdão que foi objeto de embargos de declaração. (e-STJ fls. 1894)
+Assim, por estar o entendimento do acórdão de lavra do Tribunal de origem em dissonância com o entendimento adotado por esta Corte Superior, impõe-se a decretação da carência de ação por falta de interesse de agir do recorrido.
+Forte nessas razões, com fundamento no art. 932, III e V, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e DOU-LHE PARCIAL PROVIMENTO, para decretar a carência de ação por falta de interesse de agir, julgando improcedente o pedido.
+Deixo de majorar os honorários de sucumbência, visto que não foram arbitrados em desfavor da parte recorrente no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE COBRANÇA. OMISSÃO. NÃO DEMONSTRADA. SÚMULA 389/STJ. EXIBIÇÃO DE DOCUMENTOS. PEDIDO INCIDENTAL.
+1. Cuida-se de ação de cobrança.
+2. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em omissão.
+3. A egrégia Segunda Seção desta Corte Superior, tem entendimento de que a Súmula nº 389/STJ é aplicável aos pedidos de exibição incidental dos chamados contratos de prestação de telefonia com cláusula de participação financeira.
+4. Recurso especial conhecido e parcialmente provido.
