@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de JULIO CESAR SILVA MATIAS e WILSON FRANCA JUNIOR apontando como autoridade coatora o Tribunal de Justiça do Estado do Espírito Santo no julgamento da Apelação Criminal n. 0003144-64.2006.8.08.0004.
+Consta dos autos que os pacientes foram condenados pela prática da conduta descrita no art. 157, § 2º, II e IV, do Código Penal (roubo majorado pelo concurso de pessoas e restrição de liberdade das vítimas), à pena de 7 anos e 6 meses de reclusão, fixado o regime inicial fechado, pois, juntamente com outros indivíduos, "no dia 5 de março de 2006, os denunciados, de comum acordo e com união de vontades, fugiram da delegacia de Polícia Judiciária da Comarca de Anchieta/ES. (..) Consta nos autos, ainda, que o policial Luiz Fernando Ferreira sofreu várias lesões, sendo que sua aliança de noivado, seu celular e seu automóvel foram subtraídos mediante a restrição de sua liberdade e o concurso de pessoas". (e-STJ fl. 10).
+O Tribunal a quo negou provimento à apelação defensiva (e-STJ fl. 47):
+EMENTA: APELAÇÃO CRIMINAL. RECURSO DE DOIS RÉUS. CONDENAÇÃO PELO ARTIGO 157, §2º, INCISOS II E V, DO CÓDIGO PENAL. 1. ABSOLVIÇÃO. IMPOSSIBILIDADE. AUTORIA E MATERIALIDADE COMPROVADAS. 2. PLEITO DE DESCLASSIFICAÇÃO PARA FURTO. IMPOSSIBILIDADE. NÃO ACOLHIDO. GRAVE AMEAÇA E VIOLÊNCIA COMPROVADAS. APLICAÇÃO DA TEORIA MONISTA. 3. DOSIMETRIA. REDUÇÃO DAS PENAS. INVIABILIDADE. EFEITO DEVOLUTIVO DA APELAÇÃO. PENAS MANTIDAS. 4. PEDIDO DE RECORRER EM LIBERDADE PREJUDICADO. 5. RECURSOS CONHECIDOS E IMPROVIDOS.
+1. Nos crimes contra o patrimônio a palavra da vítima reveste- se de grande valia, já que, na maioria das vezes, são cometidos na clandestinidade, especialmente quando corroborada por outras provas existentes nos autos. Disso isso, in casu, inviável a absolvição pretendida pelas defesas, eis que a materialidade e a autoria delitivas do crime restaram cabalmente comprovadas, tanto pela palavra da vítima, quanto pelas demais testemunhas e pelas confissões dos apelantes, devendo ser mantida a condenação dos recorrentes nas sanções do artigo 157, §2º, incisos II e V, do Código Penal.
+2. Não há que se falar em desclassificação do crime de roubo para o de furto, vez que comprovada as elementares do crime de roubo consistentes na grave ameaça e violência à pessoa. Assim, diante da teoria monista do concurso de pessoas, adotada pelo nosso Código Penal, todos aqueles que colaboraram para o resultado criminoso incorrem no mesmo crime (art. 29 do Código Penal), e, considerando que a grave ameaça e a violência exercidas constituem elementares do crime de roubo, a todos comunicam.
+3. "É firme a jurisprudência do Superior Tribunal de Justiça no sentido de que o efeito devolutivo amplo da apelação possibilita o reexame dos fundamentos do édito condenatório, contanto que a situação final do apenado não seja agravada, com a elevação de sua pena definitiva ou o recrudescimento do seu regime prisional inicial". (AgRg no HC n.780.135/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/11/2022, DJe de 16/11/2022.). Logo, estando as circunstâncias judiciais desfavoráveis fundamentadas em elementos concretos constantes nos autos, inviável a redução das penas-bases dos apelantes.
+4. O pleito pelo direito de recorrer em liberdade encontra-se prejudicado, uma vez que o juiz de primeiro grau de jurisdição não decretou a prisão dos apelantes.
+5. Recursos conhecidos e improvidos.
+No presente writ, a defesa alega constrangimento ilegal na segunda fase da dosimetria da pena.
+Pondera que, sem apresentar fundamentação idônea para tanto, a Corte de origem manteve a redução da pena intermediária em razão da atenuante da confissão em 6 meses, consistentes em patamar diverso da fração de 1/6, costumeiramente aceita pela jurisprudência do STJ.
+Assim, requer a concessão da ordem para que seja reduzida a pena intermediária dos pacientes tendo como parâmetro a fração de 1/6.
+O pedido liminar foi indeferido.
+Prestadas as informações, o Ministério Público Federal opinou pelo não conhecimento do writ.
+É o relatório.
+Decido.
+Preliminarmente, cumpre ressaltar que, na esteira da orientação jurisprudencial desta Corte, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão em habeas corpus apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de maior aprofundamento no acervo fático-probatório.
+Objetiva a defesa, como se viu do relatório, a redução da pena intermediária imposta aos pacientes, sob o argumento de que a majoração, na segunda fase da dosimetria, deu-se em patamar diverso de 1/6 sem fundamentação concreta.
+Tem razão a defesa.
+Acerca do tema, deve-se frisar que o Código Penal não estabelece limites mínimo e máximo de aumento ou de redução de pena em razão da incidência das agravantes e das atenuantes genéricas.
+Assim, a exasperação ou diminuição da reprimenda em razão da incidência de circunstância agravante ou atenuante deve respeitar, em regra, a fração de 1/6, salvo situações excepcionais, devidamente justificadas, o que não ocorreu no caso.
+Ilustrativamente:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO DUPLAMENTE QUALIFICADO E PORTE ILEGAL DE ARMA DE FOGO. DOSIMETRIA. 1) VALORAÇÃO NEGATIVA DA CULPABILIDADE. JUSTIFICATIVA IDÔNEA. 2) AGRAVANTE DECORRENTE DA QUALIFICADORA DO PERIGO COMUM. AUMENTO SUPERIOR A 1/6. FUNDAMENTAÇÃO CONCRETA. 3) AUSÊNCIA DE ERRO OU FLAGRANTE ILEGALIDADE. PENA APLICADA DIANTE DAS PECULIARIDADES DO CASO CONCRETO. REVISÃO QUE ENCONTRA ÓBICE NA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+2. Esta Corte tem entendido que "em se tratando de atenuantes e agravantes, a lei não estabelece os percentuais de fração de diminuição e de aumento que devem ser utilizados. Em decorrência, a jurisprudência desta Corte firmou-se no sentido de que a fração de 1/6, mínima prevista para as majorantes e minorantes, deve guiar o julgador no momento da dosimetria da pena, de modo que, em situações específicas, é permitido o aumento superior a 1/6, desde que haja fundamentação concreta" (AgRg no REsp 1822454/GO, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 19/9/2019).
+ ..
+4. Agravo regimental desprovido.
+(AgRg no AREsp n. 1.842.007/TO, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 3/8/2021, DJe de 6/8/2021, grifei.)
+Desse modo, passo ao redimensionamento das penas dos pacientes, respeitados os parâmetros utilizados pelas origens.
+Na primeira etapa, mantenho a pena-base em 5 anos e 6 meses de reclusão (e-STJ fl. 58).
+Na segunda etapa, determino a redução da pena, pelo reconhecimento da confissão, à fração de 1/6 - 4 anos e 7 meses de reclusão.
+Na terceira etapa, tendo em vista que houve fundamentação para a aplicação cumulativa das causas de aumento pelo concurso de pessoas e restrição da liberdade da vítima, mantenho a exasperação à fração de 1/2 (e-STJ fls. 58/59) - 6 anos, 10 meses e 10 dias de reclusão, pena que torno definitiva.
+Mantidos, no mais, os éditos condenatórios.
+À guisa de todo o exposto, concedo a ordem de habeas corpus para redimensionar a reprimenda dos pacientes, nos termos acima delineados.
+Publique-se. Intimem-se .
