@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por ALVARES ALVARES INDUSTRIA E COMERCIO DE CARNES LTDA e SILVIO CARLOS YASSUNAGA BRITO, contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 08/11/2022.
+Concluso ao gabinete em: 22/12/2022.
+Ação: execução proposta pelo BANCO DO BRASIL S.A. em face das recorrentes, na qual foi apresentada exceção de pré-executividade.
+Decisão interlocutória: acolheu em parte a exceção para excluir do polo passivo a recuperanda, mantendo a execução em relação aos demais executados. Ao final, reconheceu a sucumbência recíproca e condenou ambos os litigantes ao pagamento dos honorários, fixados em R$ 2.000,00.
+Acórdão: deu parcial provimento ao agravo de instrumento interposto pelas recorrentes para afastar a sucumbência recíproca e condenar apenas o credor ao pagamento da verba honorária, nos termos da seguinte ementa (e-STJ, fl. 96):
+AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO. EXCEÇÃO DEPRÉ-EXECUTIVIDADE. PARCIAL ACOLHIDA. DEVEDORA PRINCIPAL EM RECUPERAÇÃO JUDICIAL. EXTINÇÃO DO FEITO EM SUA RELAÇÃO. DEVEDOR SOLIDÁRIO. COOBRIGADO. PERMANÊNCIA. SUCUMBÊNCIA RECÍPROCA NÃO CONFIGURADA. ÔNUS DO EXEQUENTE. DECISÃO PARCIALMENTE REFORMADA. 1. A recuperação judicial do devedor principal, não impede o prosseguimento das ações e execuções ajuizadas contra demais coobrigados, situação jurídica que persiste mesmo após a convolação em falência. Inteligência do disposto nos artigos 49, § 1º e 59, da Lei nº 11.101/05 e Súmula nº 581 do Superior Tribunal de Justiça. 2. Nos termos da jurisprudência da Corte de Cidadania, só é cabível a fixação da verba honorária quando a exceção de pré-executividade for acolhida para extinguir total ou parcialmente a execução, em homenagem aos princípios da causalidade e da sucumbência. 3. Extinta a execução em relação a um dos excipientes, arbitram-se, em favor do advogado da parte excluída, honorários sucumbenciais na forma prevista na legislação processual civil vigente, a serem suportados por quem deu causa à instauração do processo. 4. No caso, não restou configurada a sucumbência recíproca, devendo apenas o credor/agravado arcar com a verba honorária fixada. 5. AGRAVO DE INSTRUMENTO CONHECIDO E PARCIALMENTE PROVIDO.
+Embargos de Declaração: opostos pelas partes foram rejeitados.
+Recurso especial: alegam violação dos arts. 49, § 2º, 50,§ 1º, 59 e 61, da Lei n. 11.101/05; 85, §§ 2º, 6º e 8º, 233, 503, 507, 508 e 1.022, II, do CPC; e 104 e 111 do CC.
+Sustentam, em suma, os seguintes aspectos:
+(a) que o Tribunal de origem foi omisso quanto à: (a1) preclusão da oportunidade de os credores se insurgirem contra a decisão concessiva da recuperação judicial; (a2) possibilidade de exoneração dos coobrigados como decorrência da aprovação do plano de recuperação judicial com previsão expressa a esse respeito; (a3) inaplicabilidade da parte final do art. 59 da Lei 11.101/2005 às garantias pessoais; (a4) necessidade de majoração da verba honorária.
+(b) legalidade da cláusula do plano de recuperação judicial que prevê a exoneração das garantias pessoais, sobretudo diante do trânsito em julgado da decisão que homologou o plano de soerguimento e da extensão da novação aos coobrigados.
+(c) necessidade de fixação dos honorários de sucumbência com base no valor da causa.
+Decisão do TJGO: deixou de admitir o recurso especial com base nas Súmulas 284/STF e 7/STJ e negou-lhe seguimento quanto ao prosseguimento da execução em relação aos coobrigados, com base no Tema 885/STJ.
+Agravo em recurso especial: insistem na alegação de violação do art. 1.022 do CPC e afirmam que o apelo extremo está devidamente fundamentado no particular, além de aduzirem a inaplicabilidade da Súmula 7/STJ.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC/2015
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca de todas as questões necessárias ao deslinde da controvérsia, consignando que, "embora o plano preveja a extinção de avais e fianças assumidas pelos sócios, não prevalece o teor da cláusula, haja vista a afronta ao artigo 49, § 1º, da Lei federal nº 11.101/2005, devendo, por conseguinte, prosseguir a ação executiva contra o avalista" (e-STJ, fls. 92/93), bem como que caberia ao ora agravado o pagamento da verba honorária fixada em R$ 2.000,00.
+Assim, os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento. Deveras, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC/15.
+- Da jurisprudência do STJ
+Noutro vértice, observa-se que, consoante a jurisprudência desta Corte, afigura-se um contrassenso condenar o credor ao pagamento de honorários de sucumbência em razão da extinção parcial da execução, em razão da aprovação do plano de recuperação judicial da devedora.
+Nesse sentido: AgInt nos EDcl no AREsp 1.958.233/GO, Quarta Turma, DJe 6/10/2022; AgInt no REsp 1.768.320/RJ, Quarta Turma, DJe 29/4/2022; AgInt nos EDcl no AREsp 1.959.034/SP, Quarta Turma, DJe 31/3/2022; AgInt no AREsp 1.806.495/MT, Quarta Turma, DJe 1/10/2021; AgInt nos EDcl no AREsp 1.291.573/SP, Terceira Turma, DJe 21/3/2019.
+Assim, a extinção da execução por fato superveniente imputado ao executado - deferimento da recuperação judicial - enseja à devedora, e não ao credor, o ônus de arcar com as custas e honorários advocatícios.
+Deveras, caberia à recuperanda, a bem da verdade, o ônus de arcar com os honorários advocatícios, mas, como não houve impugnação por parte do ora agravado acerca da matéria no momento oportuno, fica mantido o acórdão recorrido, tendo em vista a vedação à reformatio in pejus.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e NEGO-LHE PROVIMENTO.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inad missível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA.
+1. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+2. Agravo conhecido. Recurso especial conhecido e não provido.
