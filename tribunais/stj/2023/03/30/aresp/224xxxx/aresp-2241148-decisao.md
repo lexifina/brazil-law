@@ -1,0 +1,7 @@
+DECISÃO
+Vieram os presentes autos ao Superior Tribunal de Justiça para apreciação de dois agravos em recurso especial interpostos, o primeiro, por Massa Falida de Diário de São Paulo Comunicações Ltda. (e-STJ, fls. 849-868), e, o segundo, por Rádio e Televisão Record S.A. (e-STJ, fls. 870-882), tendo figurado as agravantes como corrés na ação indenizatória por danos morais c/c obrigação de fazer movida por Bernardo Assumpção de Mônaco (Processo n. 1053653-27.2019.8.26.0100).
+Estando pendente de análise e decisão os referidos agravos, a parte autora/agravada protocolizou a Petição n. 1.080.388/2022 (e-STJ, fls. 952-953) para noticiar a celebração de acordo com a corré Rádio e Televisão Record S.A., já submetido à magistrada de primeiro grau (e-STJ, fls. 956-959) e por ela homologado (e-STJ, fl. 961).
+A notícia da celebração do acordo é reveladora, dados os termos do ajuste, da perda superveniente do interesse recursal, donde sem utilidade a apreciação do agravo de Rádio e Televisão Record S.A..
+Ante o exposto, com fundamento no art. 34, XI, do RISTJ, julgo prejudicado o agravo em recurso especial de Rádio e Televisão Record S.A. (e-STJ, fls. 870-882).
+Por não haver necessidade de se aguardar o decurso do prazo recursal, cuide a Coordenadoria de, tão logo publicada esta decisão, restituir os autos conclusos para que se prossiga na análise do agravo em recurso especial interposto pela Massa Falida.
+Publique-se.
