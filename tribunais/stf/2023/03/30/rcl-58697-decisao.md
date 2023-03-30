@@ -1,0 +1,61 @@
+MEDIDA LIMINAR NA RECLAMAÇÃO. LIMINAR EM AÇÃO POSSESSÓRIA. OCUPANTES INDÍGENAS. ALEGADA OFENSA À ORDEM DE SUSPENSÃO NACIONAL DE PROCESSOS PROFERIDA NO RE 1.017.365 - TEMA 1.031 DA REPERCUSSÃO GERAL. FUMUS BONI IURIS. ÁREA EM DISPUTA QUE INTEGRA TERRA INDÍGENA DELIMITADA, EM QUE PESE AINDA NÃO HOMOLOGADA, CONFORME MANIFESTAÇÃO DA FUNAI. PERICULUM IN MORA. EXISTÊNCIA DE CONFLITOS E RELATOS DE VIOLÊNCIA CONTRA A POPULAÇÃO INDÍGENA DA REGIÃO. TUTELA PROVISÓRIA DE URGÊNCIA DEFERIDA.
+
+    Decisão: Trata-se de reclamação, com pedido de liminar, ajuizada pela Defensoria Pública da União contra decisão proferida pelo Juízo da Vara Federal da Subseção Judiciária de Teixeira de Freitas/BA, nos autos da Ação Possessória nº 1004378-97.2022.4.01.3313, sob a alegação de ofensa à ordem nacional de suspensão de processos proferida no RE 1.017.365 (Tema 1.031 da sistemática da repercussão geral).
+
+    Relata a reclamante ter sido proposta na origem ação de reintegração de posse de área situada no Município de Prado/BA, em face de membros da Comunidade Indígena Comexatibá e da Fundação Nacional dos Povos Indígenas (FUNAI). Informa que, no âmbito daquele feito, foi deferida ordem de desocupação da área em 72 (setenta e duas) horas, sob pena de “emprego de aparato estatal policial para desocupação forçada da(s) área(s) acima apontada(s)”.
+
+    Em breve síntese, sustenta que, segundo informação prestada pela FUNAI na origem, a área em disputa estaria “totalmente inserida na Terra Indígena Comexatibá, com status de Delimitada e não homologada até a presente data.” Alega que a decisão em questão afrontaria a ordem de suspensão nacional de processos proferida pelo Eminente Ministro Edson Fachin nos autos do RE 1.017.365 (Tema 1.031 da sistemática da repercussão geral). Aduz que a região em que localizada a área em disputa estaria sendo “palco de intensos conflitos possessórios, havendo registro de morte de alguns indígenas”, o que tenderia a se agravar se mantida a decisão reclamada.
+
+    Requer, por estes fundamentos, a suspensão liminar da decisão reclamada e, após regular trâmite, sua suspensão definitiva, nos termos do que determinado no RE 1.017.365.
+
+    É o relatório. DECIDO.
+
+    Ab initio, pontuo que a reclamação, por expressa determinação constitucional, destina-se a preservar a competência desta Suprema Corte e a garantir a autoridade de suas decisões, ex vi do artigo 102, inciso I, alínea l, além de salvaguardar a estrita observância de preceito constante em enunciado de Súmula Vinculante, nos termos do artigo 103-A, § 3º, ambos da Constituição Federal.
+
+    Nada obstante já encontrasse previsão na legislação anterior, a reclamação adquiriu especial relevo no atual Código de Processo Civil, enquanto meio assecuratório da observância da jurisprudência vinculante dos Tribunais Superiores e no afã da criação de um sistema de precedentes no processo civil brasileiro. Nesse sentido, o Código passou a prever, além das hipóteses diretamente depreendidas do texto constitucional (art. 988, I, II e III), o cabimento da reclamação para a garantia da “observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência” (artigo 988, IV).
+
+    Embora tenha sistematizado a disciplina jurídica da reclamação e ampliado em alguma medida seu âmbito de aplicação, o novo diploma processual não alterou a natureza eminentemente excepcional do instituto. Deveras, a excepcionalidade no manejo da reclamação é depreendida a todo tempo da redação do novo CPC, seja pela vedação de sua utilização como sucedâneo de ação rescisória (art. 988, §5º, I), seja pela exigência de prévio esgotamento das instâncias ordinárias, no caso de reclamação fundada na inobservância de tese fixada em recurso extraordinário com repercussão geral reconhecida (art. 988, §5º, II).
+
+    A propósito, a jurisprudência desta Suprema Corte fixou diversas condições para a utilização da via reclamatória, de sorte a manter a logicidade do sistema recursal previsto no CPC e evitar o desvirtuamento do objetivo precípuo do Código, de racionalização e diminuição da litigiosidade em massa pela criação do microssistema de julgamento de casos repetitivos. Afirma-se, destarte, por exemplo, (i) a inviabilidade da reclamação para o revolvimento de fatos e provas adjacentes aos processos de origem, (ii) a necessidade de existência de estrita aderência entre a decisão reclamada e o conteúdo do paradigma invocado e (iii) a necessidade de demonstração de teratologia na aplicação de tese firmada sob a sistemática da repercussão geral. Neste sentido, os seguintes precedentes da Primeira Turma da Corte:
+
+    “Agravo regimental em reclamação. Alegação de violação do entendimento firmado na ADPF nº 828/DF-MC. Reclamação que objetiva o reexame de decisão fundamentada no conjunto fático-probatório dos autos. Sucedâneo recursal. Impossibilidade. Agravo regimental não provido. 1. Por atribuição constitucional, presta-se a reclamação para preservar a competência do STF e garantir a autoridade de suas decisões (art. 102, inciso I, alínea l, da CF/88), bem como para resguardar a correta aplicação das súmulas vinculantes (art. 103-A, § 3º, da CF/88). 2. A reclamação não pode ser utilizada como sucedâneo de recurso ou de ações judiciais em geral, tampouco para reanálise de fatos e provas. Precedentes. 3. Agravo regimental não provido”. (Rcl 50.238 AgR, Primeira Turma, Rel. Min. Dias Toffoli, DJe 24/05/2022, grifei).
+
+    “DIREITO CONSTITUCIONAL E DIREITO TRABALHISTA. AGRAVO INTERNO EM RECLAMAÇÃO. COMPETÊNCIA. CAUSA INSTAURADA ENTRE O PODER PÚBLICO E SERVIDOR. VÍNCULO CELETISTA. LEI FEDERAL Nº 11.350/2006. AGENTE COMUNITÁRIO DE SAÚDE E AGENTE DE COMBATE ÀS ENDEMIAS. ALEGADA AFRONTA À ADI 3.395. AUSÊNCIA DE ESTRITA ADERÊNCIA. 1. Agravo interno em reclamação ajuizado em face de decisão que afirmou a competência da Justiça do Trabalho, sob o fundamento de inexistir lei local inserindo os agentes comunitários de saúde no regime estatutário, na forma do art. 8º da Lei nº 11.350/2006. Alegação de violação à ADI 3.395. 2. A decisão da ADI 3.395 refere-se a causas envolvendo o Poder Público e seus servidores públicos, vinculados por relação estatutária ou de caráter jurídico-administrativo. Desse modo, não há relação de estrita aderência entre o ato reclamado e o paradigma invocado, requisito indispensável à propositura da reclamação. 3. Agravo interno a que se nega provimento”. (Rcl 54.159 AgR, Primeira Turma, Rel. Min. Roberto Barroso, DJe 15/09/2022, grifei).
+
+    “CONSTITUCIONAL, TRABALHISTA E PROCESSUAL CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO. SUPOSTA AFRONTA AO TEMA 932 DA REPERCUSSÃO GERAL. AUSÊNCIA DE TERATOLOGIA. UTILIZAÇÃO DA RECLAMAÇÃO COMO SUBSTITUTIVO DE RECURSOS DE NATUREZA ORDINÁRIA OU EXTRAORDINÁRIA. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO. 1. O Tribunal reclamado decidiu em consonância com as diretrizes fixadas pelo Tema 932, pois assentou que em se tratando de embarcações que operam em alto mar, não pode ser considerada como imprevisível, dado o fato de que faz parte, da prática da navegação, a rotina de manter contato com a Capitania dos Portos, que desempenha a função de manter as embarcações avisadas a respeito dos fenômenos climáticos em curso. Nesse sentido, se a embarcação estava realmente equipada com instrumentos de salvamento, estes deveriam ter sido acionados, não havendo prova nos autos nesse sentido. Logo, caracterizado o risco da atividade a ensejar a responsabilização objetiva da reclamada, a esta incumbe responder pela reparação dos danos havidos. 2. Desse modo, cotejando a decisão reclamada com o paradigma de confronto apontado, e respeitado o âmbito cognitivo deste instrumental, não se constata teratologia no ato judicial que se alega afrontar o precedente deste TRIBUNAL. 3. Dessa forma, a postulação não passa de simples pedido de revisão do entendimento aplicado na origem, o que confirma a inviabilidade desta ação. Esta CORTE já teve a oportunidade de afirmar que a reclamação tem escopo bastante específico, não se prestando ao papel de simples substituto de recursos de natureza ordinária ou extraordinária (Rcl 6.880-AgR, Rel. Min. CELSO DE MELLO, Plenário, DJe de 22/2/2013). 4. Recurso de agravo a que se nega provimento”. (Rcl 54.142 AgR, Primeira Turma, Rel. Min. Alexandre de Moraes, DJe 23/08/2022, grifei).
+
+    Fixadas as premissas, verifico que a presente reclamação tem como fundamento a alegação de desobediência à ordem de suspensão proferida nos autos do RE 1.017.365, de relatoria do Eminente Ministro Edson Fachin.
+
+    Com efeito, em julgamento concluído no dia 22/02/2019, o Plenário desta Corte reconheceu a existência de repercussão geral na matéria constitucional objeto do Tema 1.031, em acórdão que possui a seguinte ementa, in verbis:
+
+    “CONSTITUCIONAL. ADMINISTRATIVO. POSSE INDÍGENA. TERRA OCUPADA TRADICIONALMENTE POR COMUNIDADE INDÍGENA. POSSIBILIDADES HERMENÊNTICAS DO ARTIGO 231 DA CONSTITUIÇÃO DA REPÚBLICA. TUTELA CONSTITUCIONAL DO DIREITO FUNDAMENTAL INDÍGENA ÀS TERRAS DE OCUPAÇÃO TRADICIONAL.
+
+    1. É dotada de repercussão geral a questão constitucional referente à definição do estatuto jurídico-constitucional das relações de posse das áreas de tradicional ocupação indígena à luz das regras dispostas no artigo 231 do texto constitucional.
+
+    2. Repercussão geral da questão constitucional reconhecida”.
+
+    Após o reconhecimento da repercussão geral da matéria, o Ministro Edson Fachin determinou, em 06/05/2020, a suspensão de todos os processos judiciais, notadamente ações possessórias, anulatórias de processos administrativos de demarcação, bem como os recursos vinculados a essas ações, sem prejuízo dos direitos territoriais dos povos indígenas, até a ocorrência do término da pandemia da COVID-19 ou do julgamento final da Repercussão Geral no Recurso Extraordinário 1.017.365 (Tema 1.031), o que ocorrer por último, nos termos do artigo 1.035, § 5º, do CPC.
+
+    Em sede de juízo não exauriente sobre a matéria e sem prejuízo de ulterior revisão, entendo presentes os requisitos para a concessão de tutela provisória de origem na presente reclamação. Isto porque, em primeiro lugar, a demanda de origem envolve reintegração de posse de área ocupada por indígenas e que se insere em terra indígena com status de delimitada, de acordo com a FUNAI, em que pese ainda não homologada. O fato de a matéria controvertida no processo de origem se relacionar a relações de posse de áreas de aparente ocupação tradcional por indígenas demonstra a adequação da hipótese ao paradigma invocado, a impõe a observância da ordem de suspensão nacional de processos proferida no RE 1.017.365 (Tema-RE 1.031).
+
+    Soma-se ao fumus boni iuris da alegação da parte autora, o periculum in mora que decorre da existência de uma série de conflitos fundiários na região em que localizada a área em disputa, conforme inclusive se reconhece na decisão reclamada, em que se relata uma série de crimes cometidos contra a população indígena do sul da Bahia.
+
+    Dessa forma, nesta análise ainda perfunctória da controvérsia e sem prejuízo de um exame mais apurado do caso quando do recebimento das informações, entendo presentes os requisitos para a concessão de tutela provisória de urgência, nos termos dos artigos 300, caput, e 989, II, do CPC.
+
+    Ex positis, DEFIRO o pedido de TUTELA PROVISÓRIA DE URGÊNCIA, com fundamento no artigo 989, inciso II, do Código de Processo Civil, para suspender os efeitos da decisão proferida nos autos do Processo nº 1004378-97.2022.4.01.3313, em trâmite perante a Vara Federal da Subseção Judiciária de Teixeira de Freitas/BA, determinando que o Juízo de origem observe a ordem de suspensão exarada no RE 1.017.365 até ulterior decisão nestes autos.
+
+    Solicitem-se informações e comunique-se a autoridade reclamada acerca do teor desta decisão, em especial no que concerne ao deferimento do pedido de medida liminar (artigo 989, inciso I, do CPC).
+
+    Cite-se o beneficiário da decisão reclamada, autor da ação de origem, para a apresentação de contestação (artigo 989, inciso III, do CPC).
+
+    Em seguida, à Procuradoria-Geral da República (CPC, art. 991).
+
+    Publique-se.
+
+    Brasília, 30 de março de 2023.
+
+Ministro LUIZ FUX
+
+Relator
+
+Documento assinado digitalmente
