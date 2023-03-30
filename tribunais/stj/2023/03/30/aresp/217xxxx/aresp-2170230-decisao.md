@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo interposto por FLAVIO CARVALHO DE SOUSA BENEVIDES contra decisão que não admitiu recurso especial fundamentado na alínea a do permissivo constitucional, no qual desafia acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS, assim ementado (e-STJ fl. 455):
+APELAÇÃO CRIMINAL. ROUBO. DESCLASSIFICAÇÃO. FURTO. GRAVE AMEAÇA COMPROVADA. DOSIMETRIA DA PENA. CONSEQUÊNCIAS DO CRIME. VALORAÇÃO NEGATIVA. FUNDAMENTAÇÃO IDÔNEA.
+1. A grave ameaça integrante do tipo do art. 157 do CP pode ser empregada de forma velada, sendo suficiente que restrinja a liberdade psíquica do sujeito passivo, capaz de intimidá-lo ou atemorizá-lo. No delito de roubo, a locução grave ameaça é entendida como o mal iminente, capaz de permitir a subtração da res pelo agente naquele exato instante, em decorrência do temor infundido na pessoa da vítima.
+2. A condenação por roubo é imperativa quando demonstrada a forma como a vítima foi subjugada, ou seja, quando a grave ameaça exercida pelo agente foi capaz de incutir medo na vítima e de constrangê-la a entregar o seu veículo.
+3. Correta a valoração negativa das consequências quando o resultado da ação do acusado extrapola os efeitos do ordinariamente previsto no tipo penal - ao empreender fuga, o acusado colidiu contra outros veículos, causando danos a outras pessoas, além de sérios riscos para o trânsito.
+4. Recurso não provido.
+O agravante foi condenado à pena de 4 anos e 6 meses de reclusão em regime semiaberto, além do pagamento de 12 dias-multa, pela prática do crime previsto no art. 157, caput, do Código Penal.
+O Tribunal de origem negou provimento ao apelo da defesa (e-STJ fls. 454-466).
+Nas razões do recurso especial alega-se: a) violação dos arts. 155, caput, e 157, caput, do Código Penal; e b) "submete-se a essa Corte Superior de Justiça definir, a partir das premissas invocadas no acórdão (ID32439980), se as circunstâncias do anúncio de assalto efetivado pelo recorrente e o comportamento da vítima Maria Antônia da Silva são capazes de configurar a grave ameaça exigida para configurar o roubo (artigo 157, caput, do Código Penal)" (e-STJ fl. 477).
+Contrarrazões apresentadas às e-STJ fls. 502-507.
+O Tribunal a quo inadmitiu o apelo extremo por incidência da Súmula 7/STJ, fundamento contra o qual se insurge a parte agravante (e-STJ fls. 513-522).
+Parecer do Ministério Público Federal pelo desprovimento do agravo (e-STJ fls. 544-547).
+É o relatório.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo e passo ao exame do recurso especial.
+Para melhor elucidação da controvérsia, necessário transcrever os seguintes trechos do acórdão impugnado (e-STJ fls. 458-460):
+Em exame às provas existentes nos autos, tenho que a materialidade e a autoria do crime descrito na denúncia estão comprovadas pelos documentos acostados aos autos e pela prova oral colhida em juízo, sobretudo pela confissão do acusado.
+Como visto, a d. defesa pede seja o crime de roubo simples desclassificado para o crime de furto simples ao argumento no sentido de que não ocorreu violência ou grave ameaça, mas não é o caso.
+A vítima, em Juízo, declarou que estava estacionando seu veículo quando o acusado se aproximou pela janela do passageiro que estava aberta e disse: "você está sendo assaltada, não fala nada, não pega nada e desce do carro". Em seguida, saiu do veículo e o acusado assumiu a direção, colidindo contra outros quatro automóveis ao deixar o estacionamento e empreender fuga do local, tendo apenas observado toda a ação, assustada. Revelou que estava sozinha ao ser abordada e que o acusado não mostrou qualquer tipo de arma durante a empreitada. Afirmou ter reconhecido o acusado por fotografia na delegacia, sem qualquer dúvida, esclarecendo ter visualizado bem sua fisionomia durante a ação criminosa. Informou que seu veículo foi localizado no mesmo dia, na QE 38 do Guará, onde foi abandonado após o acusado colidir contra o veículo de propriedade da testemunha Henrique. Pontuou que, apesar de o acusado ter anunciado o assalto de forma calma, atendeu aos comandos sem qualquer reação, conforme orientações de segurança, para evitar qualquer retaliação por parte do autor. Por fim, contou que a testemunha Henrique revelou que o acusado, ao colidir contra o veículo de sua propriedade e ser questionado, empunhou uma faca, tendo visualizado o referido objeto caído no chão (transcrição da sentença ID23185820 e mídia ID 23185799).
+Ao revés do alegado pela d. defesa, a elementar da grave ameaça constou expressamente na denúncia e a tese defensiva foi devidamente refutada na r. sentença, in verbis:
+ ..
+Ora, o fato de a vítima ter dito que o acusado anunciou o assalto de forma clara e calma não afasta a grave ameaça. Isso porque evidenciado que a vítima foi subjugada, já que os dizeres do acusado "você está sendo assaltada, não fala nada, não pega nada e desce do carro", foram capazes de incutir medo e de constrangê-la a entregar o seu veículo, tanto que ela afirmou em Juízo que seguiu as orientações de segurança sem questionar, por medo de alguma retaliação.
+ ..
+A grave ameaça integrante do tipo do art. 157 do CP pode ser empregada de forma velada, sendo suficiente que restrinja a liberdade psíquica do sujeito passivo, capaz de intimidá-lo ou atemorizá-lo. No delito de roubo, a locução grave ameaça é entendida como o mal iminente, capaz de permitir a subtração da res pelo agente naquele exato instante, em decorrência do temor infundido na pessoa da vítima.
+Outrossim, como cediço, o anúncio de assalto representa, no consciente social, a possibilidade emergente e provável da consecução de violência. De igual modo, mostra-se legítimo o temor da vítima quando alguém chega de abruptamente e afirma ""você está sendo assaltada, não fala nada, não pega nada e desce do carro"
+De se ressaltar que, interrogado em Juízo, o acusado confessou a prática dos fatos narrados na denúncia. Relatou que estava sob efeito de drogas e álcool no momento do crime e que está arrependido. Negou estar armado durante a ação criminosa, esclarecendo se recordar apenas de ter pedido para a vítima descer do carro e não levar nenhum objeto (transcrição da sentença ID 23185820 e mídia ID 23185805).
+Ora, o acusado confessou os fatos e a vítima afirmou a grave ameaça, que como visto, lhe infundiu temor. Deve ser mantida a condenação pelo crime de roubo. Nesse sentido, cito precedentes do c. STJ e deste egrégio Tribunal de Justiça, in verbis:
+ ..
+Como se não bastasse, a jurisprudência é tranquila no sentido de que, nos crimes patrimoniais, a palavra da vítima reveste-se de especial credibilidade. Nesse sentido, trago à colação julgados oriundos deste egrégio Tribunal de Justiça, in verbis:
+ ..
+Deve, portanto, ser mantida a condenação do acusado pelo crime de roubo simples, nos termos da r. sentença.
+O Colegiado a quo consignou que a conduta delitiva se amolda ao crime de roubo e destacou que "a vítima foi subjugada, já que os dizeres do acusado "você está sendo assaltada, não fala nada, não pega nada e desce do carro", foram capazes de incutir medo e de constrangê-la a entregar o seu veículo, tanto que ela afirmou em Juízo que seguiu as orientações de segurança sem questionar, por medo de alguma retaliação" (e-STJ fl. 458).
+A Corte acrescentou que o recorrente "negou estar armado durante a ação criminosa, esclarecendo se recordar apenas de ter pedido para a vítima descer do carro e não levar nenhum objeto" e que "o acusado confessou os fatos e a vítima afirmou a grave ameaça, que como visto, lhe infundiu temor" (e-STJ fl. 459).
+A reforma do julgado não encontra espaço na via eleita, porquanto seria necessário revolver o contexto fático-probatório dos autos, providência incabível em recurso especial, medida obstada pela Súmula 7/STJ.
+A propósito:
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. PRETENSÃO DE DESCLASSIFICAÇÃO. IMPOSSIBILIDADE. NECESSIDADE DE DILAÇÃO PROBATÓRIA. ALEGAÇÃO DE REFORMATIO IN PEJUS. INCORRÊNCIA. NÃO ENFRENTAMENTO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ENUNCIADO SUMULAR N. 182/STJ. AGRAVO DESPROVIDO.
+I - Nos termos da jurisprudência consolidada nesta Corte, cumpre ao agravante impugnar especificamente os fundamentos estabelecidos na decisão agravada.
+II - No caso dos autos, verifica-se a Corte de origem, mediante exauriente exame do acervo fático-probatório constante dos autos, entendeu que restou caracterizada a grave ameaça, elementar do delito de roubo, procedendo ao acolhimento da pretensão ministerial constante da denúncia quanto à condenação pelo delito previsto no art. 157, § 2º, incisos II e V, c.c o art. 14, II, ambos do Código Penal, e art. 244-B da Lei n. 8069/1990.
+III - Nesse cenário, entender de forma contrária, com escopo de restabelecer a sentença condenatória pelo delito de furto qualificado na forma tentada, demandaria aprofundada dilação probatória que, de notória sabença, é incompatível com a via eleita, em que pese entendimento diverso da combativa defesa. Precedentes.
+ ..
+Agravo regimental desprovido.
+(AgRg no HC 734.554/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Quinta Turma, julgado em 02/08/2022, DJe de 09/08/2022.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DELITO DE ROUBO IMPRÓPRIO. DESCLASSIFICAÇÃO. EMPREGO DE GRAVE AMEAÇA CONTRA A VÍTIMA. IMPOSSIBILIDADE DE REVISÃO. SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Consuma-se o delito de roubo impróprio quando o agente emprega grave ameaça contra a vítima, visando assegurar a posse de bem subtraído.
+2. "A pretensão de simples reexame de prova não enseja Recurso Especial" (Súmula n. 7 do STJ).
+3. Agravo regimental desprovido.
+(AgRg no AREsp 1.705.250/PR, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 09/12/2020, DJe de 14/12/2020.)
+Com fundamento no art. 253, parágrafo único, II, a, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
