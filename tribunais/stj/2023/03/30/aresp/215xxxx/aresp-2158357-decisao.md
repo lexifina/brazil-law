@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interposto por Moises Batista dos Santos contra decisão que inadmitiu recurso especial que ataca acórdão do Tribunal Regional Federal da 3ª Região, assim ementado:
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. HONORÁRIOS ADVOCATÍCIOS. BASE DE CÁLCULO. PAGAMENTOS ADMINISTRATIVOS. COMPENSAÇÃO.
+- O acórdão transitado em julgado determinou, de forma expressa, a compensação dos valores pagos na via administrativa, a título de quaisquer benefícios por incapacidade, com os valores da aposentadoria por invalidez concedida neste feito.
+- A compensação dos valores pagos, sob o título de auxílio-doença, causará reflexo na base de cálculo dos honorários advocatícios. Essa redução decorre do próprio decisum.
+- Para efeito de honorários advocatícios, a base de cálculo do referido acessório deve ser subtraída das rendas mensais pagas sob o título de auxílio-doença.
+- Está vedada a rediscussão, em sede de execução, da matéria já decidida no processo principal, sob pena de ofensa à garantia constitucional da coisa julgada.
+- Agravo de Instrumento desprovido. Decisão agravada mantida.
+Nas razões de recurso especial fundado na alínea "a" do permissivo constitucional, a parte recorrente alega violação aos artigos 85, §9º; 509, §4º; 502 e 503, do CPC/2015, eis que se deve afastar os reflexos da compensação sobre a base de cálculo da verba honorária, pelo que, a referida verba deve incidir sobre a integralidade dos valores vencidos entre o termo inicial do beneficio e a data da sentença conforme constou do titulo executivo.
+O prazo para apresentação de contrarrazões transcorreu in albis.
+Decisão da Presidência do Tribunal Regional da Federal 3ª Região, com espeque na Súmula 83/STJ, negou seguimento ao seu recurso especial.
+Em razões de agravo, sustenta o agravante que a jurisprudência apontada na decisão de inadmissibilidade não se aplica ao caso dos autos.
+O prazo para apresentação de contraminuta ao agravo transcorreu in albis.
+É o relatório.
+Decido.
+Presentes os pressupostos de admissibilidade do agravo, passa-se à análise do recurso especial.
+A questão posta em debate foi apreciada por esta Corte no julgamento dos R ecursos Especiais 1.847.731/RS, 1.847.766/SC, 1.847.848/SC e 1.847.860/RS, o rito dos Recursos Repetitivos (Tema 1.050/STJ), restando fixada a seguinte tese: "O eventual pagamento de benefício previdenciário na via administrativa, seja ele total ou parcial, após a citação válida, não tem o condão de alterar a base de cálculo para os honorários advocatícios fixados na ação de conhecimento, que será composta pela totalidade dos valores devidos".
+Confira-se:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. INOCORRÊNCIA. CUMPRIMENTO DE SENTENÇA. HONORÁRIOS ADVOCATÍCIOS. BASE DE CÁLCULO. DESCONTO DOS VALORES DO BENEFÍCIO PREVIDENCIÁRIO RECEBIDO ADMINISTRATIVAMENTE. IMPOSSIBILIDADE. RECURSO ESPECIAL JULGADO SOB O RITO DOS RECURSOS REPETITIVOS (ART. 1.036 DO CPC/2015). RECURSO ESPECIAL DA AUTARQUIA FEDERAL A QUE SE NEGA PROVIMENTO.
+1. No recurso especial da autarquia federal discute-se a possibilidade de desconto da base de cálculos dos honorários advocatícios dos valores recebidos administrativamente pela parte autora.
+2. Não houve violação do art. 1.022 do CPC/2015, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade.
+3. A prescrição do art. 85, §2º, do CPC/2015 sobre os critérios para o arbitramento dos honorários de sucumbência prevê o conceito de proveito econômico. Com efeito, o proveito econômico ou valor da condenação da causa não é sinônimo de valor executado a ser recebido em requisição de pagamento, mas sim equivale ao proveito jurídico, materializado no valor total do benefício que foi concedido ao segurado por força de decisão judicial conseguido por meio da atividade laboral exercida pelo advogado.
+4. O valor da condenação não se limita ao pagamento que será feito do montante considerado controvertido ou mesmo pendente de pagamento por meio de requisição de pagamento, ao contrário, abarca a totalidade do proveito econômico a ser auferido pela parte beneficiária em decorrência da ação judicial.
+5. Consoante entendimento firmado por este Superior Tribunal de Justiça, os valores pagos administrativamente devem ser compensados na fase de liquidação do julgado; entretanto, tal compensação não deve interferir na base de cálculo dos honorários sucumbenciais, que deverá ser composta pela totalidade dos valores devidos (REsp. 956.263/SP, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, QUINTA TURMA, DJ 3.9.2007, p. 219).
+6. Os honorários advocatícios, nos termos do art. 85, § 2º, do CPC/2015, são fixados na fase de conhecimento com base no princípio da sucumbência, ou seja, em razão da derrota da parte vencida. No caso concreto, conforme constatado nos autos, a pretensão resistida se iniciou na esfera administrativa com o indeferimento do pedido de concessão do benefício previdenciário.
+7. A resistência à pretensão da parte recorrida, por parte do INSS, ensejou a propositura da ação, o que impõe a fixação dos honorários sucumbenciais, a fim de que a parte que deu causa à demanda assuma as despesas inerentes ao processo, em atenção ao princípio da causalidade, inclusive no que se refere à remuneração do advogado que patrocinou a causa em favor da parte vencedora.
+8. Tese fixada pela Primeira Seção do STJ, com observância do rito do julgamento dos recursos repetitivos previsto no art. 1.036 e seguintes do CPC/2015: o eventual pagamento de benefício previdenciário na via administrativa, seja ele total ou parcial, após a citação válida, não tem o condão de alterar a base de cálculo para os honorários advocatícios fixados na ação de conhecimento, que será composta pela totalidade dos valores devidos.
+9. Recurso especial da autarquia federal a que se nega provimento.
+(REsp n. 1.847.731/RS, rel. Min. MANOEL ERHARDT (DESEMBARGADOR CONVOCADO DO TRF-5ª REGIÃO), PRIMEIRA SEÇÃO, julgado em 28/4/2021, DJe de 5/5/2021.)
+O acórdão recorrido, portanto, destoa do atual entendimento deste Tribunal Superior, razão pela qual merece prosperar a irresignação.
+Ante o exposto, com fulcro no art. 932, V, do CPC/2015 c/c o art. 253, parágrafo único, II, c, do RISTJ, conheço do agravo para dar parcial provimento ao recurso especial, determinando que o eventual pagamento de benefício previdenciário na via administrativa, seja ele total ou parcial, após a citação válida, não tem o condão de alterar a base de cálculo para os honorários advocatícios fixados na ação de conhecimento, que será composta pela totalidade dos valores devidos.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. BASE DE CÁLCULO. TEMA 1.050/STJ. AGRAVO CONHECIDO PARA DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL.
