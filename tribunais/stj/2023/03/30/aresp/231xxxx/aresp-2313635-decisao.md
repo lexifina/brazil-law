@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ANTONIO SEBASTIAO FERREIRA contra decisão que inadmitiu recurso especial com fundamento na ausência de ofensa aos arts. 489 e 1.022 do CPC e na incidência da Súmula n. 83 do STJ.
+Alega o agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão assim ementado (fl. 147):
+RECURSO DE APELAÇÃO. AÇÃO DE BUSCA E APREENSÃO. COMPROVAÇÃO DA MORA. CERTIDÃO DO TABELIÃO DE PROTESTOS. FÉ PÚBLICA. AVISO DE RECEBIMENTO - AR. DISPENSABILIDADE. SENTENÇA MANTIDA.
+1. A documentação acostada aos autos evidencia a existência de instrumento de protesto no qual há certidão da Tabeliã atestando a realização da intimação pessoal.
+2. Verificada presunção de veracidade que milita em favor da certidão da Tabeliã e, por conseguinte, a existência de intimação pessoal, tem-se por configurada a mora.
+3. Assente no Superior Tribunal de Justiça que basta a entregada notificação no endereço do devedor declinado no contrato, sendo desnecessário o seu recebimento pessoal.
+4. Recurso conhecido e não provido.
+Os embargos de declaração opostos foram rejeitados (fls. 385-412).
+Nas razões do recurso especial, o ora agravante aponta violação dos arts. 489, § 1º, IV, e 1.022, I e II e parágrafo único, II, do CPC
+Sustenta obscuridade no acórdão recorrido, pois a existência de posterior protesto não foi aventado no processo, não tendo sido alegado pelo ora agravado. Aduz ainda que o Tribunal a quo não enfrentou a exigência imposta pelo art. 14, § 1º, da Lei n. 9.492/97.
+Afirma que "o Tribunal local ao julgar os embargos de declaração, se limitou a repetir que houve declaração do que esta "declaração goza de fé pública e, por isso, torna desnecessária a juntada do próprio AR aos autos para prova da comunicação", sem enfrentar a exigência legal imposta (§ 1º, do art. 14, da Lei n. 9.492/1997) e o argumento de impossibilidade de se aceitar a mera declaração diante desta exigência legal" (fl. 450).
+Defende que "não foram enfrentados os argumentos deduzidos pelo recorrente nos embargos de declaração e capazes de, em tese, infirmar a conclusão adotada no julgamento da apelação, com violação dos arts. 489, § 1º, IV e 1.022, I e II e parágrafo único, II, do CPC/2015, cuja ocorrência ficou prequestionada devido a manifesta omissão de apreciação de ponto relevante capaz de alterar o julgamento." (fl. 464).
+Requer o provimento do recurso a fim de que seja anulado o acórdão do Tribunal a quo proferidos nos embargos de declaração, para que seja enfrentadas, notadamente, as seguintes matérias (fl. 469):
+-  a regra do § 1º, do art. 14, da Lei n. 9.492/1997 e sobre a incompatibilidade desta exigência legal com o entendimento de que a mera certidão do tabelião seria suficiente para comprovar a intimação do protesto.
+-  a declaração genérica de fé pública da tabeliã não por ser invocada para contrariar comando expresso da lei do protesto e a fé pública não autoriza o tabelião descumprir os comandos da lei do protesto.
+ - não é cabível conferir legalidade a procedimento de protesto, se a prova da entrega da intimação do protesto, que é expressamente exigida pelo § 1º, do art. 14, da Lei n. 9.492/1997, não foi apresentada.
+É o relatório. Decido.
+O recurso não merece prosperar.
+O recurso não comporta provimento.
+Afasta-se a alegada ofensa aos arts. 489 e 1.022 do CPC, porquanto a Corte de origem examinou e decidiu, de modo claro, fundamentado e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido, conforme se observa das razões do acórdão proferido nos embargos de declaração (fl. 392, destaquei):
+No caso concreto, não há qualquer vício a ser sanado, mas mero propósito de rediscutir a causa. Insurge-se o recorrente com suposta obscuridade no acórdão embargado, sob o argumento de que esta Corte teria inovado na tese processual, sem que se intimasse o recorrente a respeito.
+Ocorre que, as suas alegações não merecem prosperar, visto que cabe ao julgador analisar todas as provas existentes nos autos, ressaltando-se, inclusive, que o documento ao qual se refere o embargante constou desde a peça inaugural do recorrido, sob o ID 14264179, tendo o recorrente sido devidamente citado para responder à presente ação, cabendo-lhe impugnar todos os documentos que acompanharam a exordial, não havendo que se falar, portanto, em ausência de intimação a seu respeito.
+Nessa linha, esta Corte de Justiça registrou de forma contundente as razões em reconhecer a validade do referido documento como prova de notificação da dívida, conforme transcrição de parte do voto a seguir:
+Ocorre que, posteriormente, foi promovido o protesto da dívida (ID14264179), tendo a Tabeliã do Tabelionato de Protesto de Títulos e Documentos de Feira de Santana/BA certificado a intimação pessoal do responsável. Essa declaração goza de fé pública e, por isso, torna desnecessária a juntada do próprio AR aos autos para prova da comunicação. Nesse sentido, confiram-se os seguintes julgados:
+ ..
+Assim sendo, tem-se que a leitura atenta do voto permite a exata compreensão dos motivos determinantes das conclusões do Órgão Julgador, que foram apresentadas objetivamente, sendo certo que os argumentos trazidos pela parte embargante revelam o seu propósito de rediscutir, em âmbito impróprio, as questões já exaustivamente analisadas.
+Assim, verifica-se que o Tribunal a quo enfrentou todas as questões necessárias ao deslinde da controvérsia, referentes ao protesto e o fato do documento constar desde a peça inaugural do recorrido, sob o ID n. 14264179, além da desnecessidade da juntada do próprio AR aos autos para prova da comunicação diante da certificação da tabeliã.
+Esclareça-se que o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+Ademais, "A manifestação acerca da matéria inserta no dispositivo de lei federal apontado como violado é suficiente para atender o requisito do prequestionamento, sendo desnecessária a menção explícita a seu número" (AgInt no REsp n. 2.012.613/PA, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 6/3/2023, DJe de 9/3/2023).
+Observa-se que a pretensão é rediscutir matéria devidamente abordada e decidida no decisum embargado, motivada pela mera insatisfação com o resultado do julgamento, situação que não se coaduna com os embargos de declaração.
+Desse modo, devidamente analisadas as questões de mérito e suficientemente fundamentado o acórdão recorrido, não há falar em ofensa aos artigos de lei indicados.
+Ante o exposto, nego provimento ao agravo em recurso especial .
+Nos termos do § 11 do art. 85 do CPC, majoro para 15% do valor da causa, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
