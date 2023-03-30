@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de mandado de segurança contra acórdão proferido nos autos do AREsp nº 2.016.544/SP, de relatoria do Ministro Herman Benjamin, assim ementado:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OFENSA AO ART. 1022 DO CPC NÃO CONFIGURADA. REDISCUSSÃO DA MATÉRIA DE MÉRITO. IMPOSSIBILIDADE.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1022 do CPC.
+2. Os Embargos Declaratórios não constituem instrumento adequado para a rediscussão da matéria de mérito.
+3. Embargos de Declaração rejeitados.
+A impetrante alega que comprovou a existência de instabilidade no e-SAJ na data da interposição do agravo interno, não podendo ser responsabilizado pela falha dos sistemas de informática do STJ, motivo por que deve ser considerado tempestivo seu recurso. Pede o deferimento de tutela de urgência.
+Sem razão, contudo, pois a pretensão é manifestamente improcedente. Oportuno o exame dos fundamentos do ato judicial impugnado, in verbis:
+A sua argumentação evidencia que a matéria devolvida para apreciação nestes Aclaratórios não possui efetiva relação com os vícios de omissão, obscuridade, contradição ou erro material no julgado. O que se pretende é alterar a conclusão adotada no julgamento do Agravo Interno, mediante rediscussão sobre as causas que resultaram na intempestividade do mencionado Recurso, e da responsabilidade por tal deficiência.
+Note-se que os próprios embargantes acabam por reconhecer que o Sistema de Transmissão do STJ não apresentou falhas, pois a segunda tentativa de transmissão de dados foi exitosa e durou cerca de oito minutos (início às 23h53 do dia 16.5.2022 e término às 00h01m28s do dia 17.5.2022). Ora, se tivesse havido inconsistência no Sistema do STJ a certidão emitida pela Coordenadoria teria indicado tal tipo de problema, sem permitir a rápida transmissão eletrônica da documentação informada.
+O que se tem, em última análise, é o inconformismo da parte com o fato de sua conexão privada ter oscilado, mas tal tipo de problema, estranho aos Sistemas Informatizados do STJ, não atrai o reconhecimento de culpa concorrente desta Corte e, conforme dito, a rediscussão da matéria é absolutamente incompatível com o objeto do Recurso previsto no art. 1.022 do CPC.
+Com efeito, o "aviso de indisponibilidade de sistemas" juntando aos autos pela parte impetrante (fl. 15 e-STJ) informa que houve instabilidade no serviço entre 9:00h e 17:00h, quando o serviço foi normalizado. A parte efetivou a interposição do seu recurso às 23:53h do mesmo dia, muito após a regularização do sistema.
+A inicial denota, em verdade, mera irresignação de mérito quanto ao acórdão proferido em agravo interno em agravo em recurso especial, tudo por meio de impugnações vagas e inespecíficas, revelando-se a inicial verdadeiramente inepta. Incidem os seguintes precedentes, aplicáveis ao caso concreto, por analogia:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO MANDADO DE SEGURANÇA. IMPETRAÇÃO VOLTADA CONTRA ATO JUDICIAL. INEXISTÊNCIA DE DECISÃO TERATOLÓGICA OU MANIFESTAMENTE ILEGAL.
+1. "A orientação desta Corte é pacífica sobre o descabimento de Mandado de Segurança contra ato jurisdicional dos órgãos fracionários ou de Relator desta Corte Superior, a menos que neles se possa divisar flagrante e evidente teratologia" (AgRg no MS 21.096/DF, Corte Especial, Rel. Min. Napoleão Nunes Maia Filho, DJe 19/4/2017)
+2. A ausência de demonstração de ilegalidade ou teratologia na decisão impugnada pela via mandamental leva ao necessário indeferimento da petição inicial.
+3. Agravo Interno improvido.
+(AgInt no MS n. 28.249/DF, relator Ministro João Otávio de Noronha, Corte Especial, julgado em 23/8/2022, DJe de 25/8/2022.)
+CONSTITUCIONAL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ATO JUDICIAL. DECISÃO PASSÍVEL DE RECURSO DE AGRAVO DE INSTRUMENTO (SÚMULA 267/STF). DIREITO LÍQUIDO E CERTO. INEXISTÊNCIA. ALEGAÇÃO DE ILEGITIMIDADE ATIVA E FRAUDE PROCESSUAL. AUSÊNCIA DE PROVA PRÉ-CONSTITUÍDA. NECESSIDADE DE DILAÇÃO PROBATÓRIA. SEGURANÇA DENEGADA. AGRAVO DESPROVIDO.
+1. Não é cabível o mandado de segurança contra ato judicial impugnável pela via recursal. Aplicação da Súmula 267/STF, por analogia. Precedentes.
+2. A impetração de mandado de segurança contra ato judicial, a teor da doutrina e da jurisprudência, reveste-se de índole excepcional, admitindo-se apenas em hipóteses extraordinárias, a saber: a) decisão judicial manifestamente ilegal ou teratológica; b) decisão judicial contra a qual não caiba recurso; c) para imprimir efeito suspensivo a recurso desprovido de tal atributo; e d) quando impetrado por terceiro prejudicado por decisão judicial, circunstâncias não verificadas nos autos. 3. Ademais, o mandado de segurança exige a demonstração de direito líquido e certo próprio do impetrante, mediante a apresentação de prova pré-constituída, o que não ocorre na hipótese, pois as alegações do recorrente demandam dilação probatória, medida inviável no rito sumário e especial da ação constitucional.
+4. Agravo interno não provido.
+(AgInt no RMS n. 66.438/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 22/8/2022, DJe de 26/8/2022.)
+Em face do exposto, indefiro liminarmente a inicial.
+Julgo prejudicado o pedido de tutela de urgência.
+Intimem-se.
