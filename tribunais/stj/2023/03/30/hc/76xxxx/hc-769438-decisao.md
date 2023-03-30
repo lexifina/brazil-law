@@ -1,0 +1,24 @@
+DECISÃO
+Estes autos foram a mim distribuídos por prevenção (HC n. 454.230/SP).
+Trata-se de habeas corpus impetrado em benefício de Leandro Nascimento Araujo Oliveira, em que se indica como órgão coator o Tribunal de Justiça de São Paulo.
+Depreende-se dos autos que o Juízo de Direito da Vara Criminal da comarca de Leme/SP, na Ação Penal n. 0002807-82.2018.8.26.0318, julgou procedente a pretensão punitiva estatal deduzida na denúncia para condenar o ora paciente, juntamente com os corréus, como incurso nos arts. 33, caput, e 35, caput, ambos da Lei n. 11.343/2006, à pena de 8 anos de reclusão, a ser inicialmente cumprida em regime fechado, e ao pagamento de 1.200 dias-multa, vedado o recurso em liberdade (fls. 28/40).
+O Tribunal de origem, por sua vez, negou provimento à apelação interposta pela defesa e deu provimento ao recurso do Ministério Público para, exasperando a pena-base, fixar a pena do ora paciente em 5 anos e 10 meses de reclusão, e pagamento de 583 dias-multa, para o crime de tráfico, e 3 anos e 6 meses de reclusão, e pagamento de 816 dias-multa, para o crime de associação, observado o cúmulo material entre os delitos, mantendo, no mais, a sentença recorrida (Apelação Criminal n. 0002807-82.2018.8.26.0318 - fls. 10/27).
+Neste Tribunal Superior, o impetrante almeja, liminarmente e no mérito, o restabelecimento da sentença de primeiro grau de jurisdição, com o redimensionamento da pena-base no mínimo legal.
+Liminar indeferida (fls. 49/50) e informações prestadas (fls. 53/98), o Ministério Público Federal opinou pela inadmissibilidade do writ ou pela denegação da ordem (fls. 102/106).
+É o relatório.
+O acórdão impugnado aumentou a pena-base dos crimes de tráfico de drogas e de associação para o tráfico em 1/6,  ..  com fundamento no art. 42, da Lei 11.343/2006 e aos comandos constitucionais da proporcionalidade e da individualização das penas, considerando-se a quantidade e natureza dos entorpecentes apreendidos, asseverando que  ..  foram apreendidas 727 porções de cocaína, já prontas para a venda, de cocaína, droga de potencial altamente lesivo, circunstâncias que atingem, de maneira aguda, o bem jurídico tutelado (saúde pública) - fl. 23.
+Todavia, verifico que se trata de 79,9 g de cocaína (fl. 28), quantidade que não justifica, isoladamente, o aumento da pena-base, nos termos da jurisprudência desta Casa.
+Com efeito, para que o réu seja incurso no crime de tráfico de drogas, alguma quantidade de substância entorpecente deverá ser apreendida e, nesse caso, a pena somente merece ser exasperada na primeira fase, quando a monta se mostrar extremamente elevada.
+Não obstante a notável nocividade da cocaína, a quantidade apreendida (menos de 80 g) não pode ser utilizada para agravar a pena do paciente, que já foi sopesada pelo legislador no mínimo de 5 anos para a repreensão desse delito. Se a pena for elevada apenas pela apreensão da droga, o dispositivo de lei se torna letra morta, por nunca ser aplicado em seu piso mínimo.
+Nesses termos, deve ser afastada a consideração negativa da vetorial da natureza da droga apreendida. A propósito, confiram-se: AgRg no HC n. 584.095/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 16/9/2020; e AgRg no HC n. 410.707/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 1º/7/2020.
+Dessa forma, as penas-base do paciente devem ser reduzidas ao mínimo legal, ou seja, 5 anos de reclusão, além do pagamento de 500 dias-multa, para o crime de tráfico de drogas, e 3 anos de reclusão, além do pagamento de 700 dias-multa, para o crime de associação para o tráfico, quantum que torno definitivo, em razão da ausência de circunstâncias atenuantes e agravantes, bem como de causas de diminuição e de aumento.
+Mantido o concurso material, as penas somam 8 anos de reclusão, além do pagamento de 1.200 dias-multa.
+Assim, tratando-se de réu primário, que teve suas penas-base definidas, agora, no mínimo legal, fixo o regime semiaberto para o início do cumprimento da reprimenda (art. 33, § 2º, b, e § 3º, do Código Penal).
+Ante o exposto, concedo a ordem a fim de fixar a reprimenda do paciente em 8 anos de reclusão, a ser inicialmente cumprida em regime semiaberto, além do pagamento de 1.200 dias-multa.
+Por fim, nos termos do art. 580 do Código de Processo Penal, estendo os efeitos desta decisão aos corréus Vinicius Lima dos Santos e Sabrina dos Santos.
+Comunique-se, com urgência, às instâncias ordinárias.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. DOSIMETRIA DA PENA. PENA-BASE. NÃO RELEVANTE QUANTIDADE DE DROGAS (79,9 G DE COCAÍNA). FUNDAMENTAÇÃO INIDÔNEA. REDUÇÃO AO MÍNIMO LEGAL. REGIME DE CUMPRIMENTO. SEMIABERTO. NECESSIDADE. EXISTÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Ordem concedida nos termos do dispositivo, com extensão dos efeitos aos corréus Vinicius Lima dos Santos e Sabrina dos Santos .
