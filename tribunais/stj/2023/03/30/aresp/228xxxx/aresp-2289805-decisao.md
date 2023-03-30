@@ -1,0 +1,53 @@
+DECISÃO
+Cuida-se de agravo apresentado por FRANCISCO GOMES e OUTROS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+INDENIZATÓRIA. DANOS MATERIAIS E MORAIS. DESAPARECIMENTO. REPARAÇÃO DE DANOS MORAIS E MATERIAIS EM RAZÃO DO DESAPARECIMENTO DO FILHO E IRMÃO DOS AUTORES. SUPOSTA RESPONSABILIDADE DE POLICIAIS MILITARES DA ROTA. APLICAÇÃO DO PRAZO PRESCRICIONAL QÜINQÜENAL - PREVISTO DO DECRETO 20.910/32 - NAS AÇÕES INDENIZATÓRIAS AJUIZADAS CONTRA A FAZENDA PÚBLICA, EM DETRIMENTO DO PRAZO TRIENAL CONTIDO DO CÓDIGO CIVIL DE 2002. ENTENDIMENTO CONSOLIDADO PELO E. STJ EM RECURSO REPETITIVO (RESP 1.251.993/PR TEMA 553). DESAPARECIMENTO OCORRIDO EM 2006. AÇÃO AJUIZADA EM 2013. PRESCRIÇÃO CONFIGURADA. INTELIGÊNCIA DO ART. 1º DO DECRETO 20.910/32. RECURSO NÃO PROVIDO.
+Alega violação dos arts. 7º do Código Civil; e 8º da Convenção Internacional para a Proteção de Todas as Pessoas contra o Desaparecimento Forçado, no que concerne ao não transcurso do prazo prescricional, não se aplicando ao presente caso o art. 206, § 1º, inciso V, do Código Civil, trazendo os seguintes argumentos:
+Ressalte-se que a presente ação não é uma simples ação ordinária de reparação civil.
+A Lei n. 9.140/95 (Pessoas Desaparecidas) dispõe em seu art. 10, § 1.º que:
+"O pedido de indenização poderá ser formulado até cento e vinte dias a contar da publicação desta Lei. No caso de reconhecimento pela Comissão Especial, o prazo se conta da data do reconhecimento. (g. n.)"
+A lei é clara ao determinar que o prazo se conta da data do reconhecimento do desaparecimento da pessoa.
+Embora não se trate de um desaparecido político pelas mãos da ditadura militar, as circunstâncias são semelhantes, pois se trata de uma pessoa que desapareceu quando estava sob a tutela das forças de segurança do Estado.
+Os eventos daquele maio de 2016 foram amplamente noticiados, inclusive pela imprensa internacional, conforme recortes abaixos.
+ ..
+Um ano após os acontecimentos, a família de PAULO continuava sem notícias, 1 conforme recorte do Globo acima.
+Hoje, passados 14 anos, a esperança na volta de PAULO não existe mais.
+Assim, a sua morte somente poderá ser presumida, visto que o seu corpo jamais foi encontrado e tampouco o Estado admite qualquer responsabilidade sobre o seu desaparecimento.
+Nesse sentido, o nosso ordenamento jurídico admite a morte presumida se a pessoa "estava em perigo de vida" ou se "desaparecido em campanha ou feito prisioneiro, não for encontrado até dois anos após o término da guerra", nos termos do art. 7.º, incisos I e II, do Código Civil:
+Pode ser declarada a morte presumida, sem decretação de ausência:
+I - se for extremamente provável a morte de quem estava em perigo de vida, II - se alguém, desaparecido em campanha ou feito prisioneiro, não for encontrado até dois anos após o término do guerra.
+Parágrafo único. A declaração da morte presumida, nesses casos, somente poderá ser requerida depois de esgotadas as buscas e averiguações, devendo a sentença fixar a data provável do falecimento.
+Dessa forma, não há como negar que PAULO estava "em perigo de vida", dadas as circunstâncias daquele momento: ataques de criminosos, histeria coletiva, nervos à flor da pele, periferia, favela, agressões de todos os lados, toque de recolher, ruas fechadas, escolas incendiadas, blitz..
+Não bastasse estar "em perigo de vida", pode-se acolher a idéia de que, à semelhança de um combatente, PAULO desapareceu em campanha ou foi feito prisioneiro, e, de fato, passados 14 anos anos, desconhece-se o seu paradeiro.
+Reforça essa tese a declaração do comandante-geral da PM de São Paulo:
+"Estamos em guerra contra eles  os criminosos . Vamos ter mais baixas, mas não vamos recuar" (fl.12).
+3. Da ofensa ao Artigo 8º da Convenção Internacional para a Proteção de Todas as Pessoas contra o Desaparecimento Forçado
+O Decreto n.º 8.767, de 11 de maio de 2016, que internalizou a Convenção Internacional para a Proteção de Todas as Pessoas contra o Desaparecimento Forçado, define desaparecimento forçado da seguinte forma.
+Artigo 2
+Para os efeitos desta Convenção, entende-se por "desaparecimento forçado" a prisão, a detenção, o seqüestro ou qualquer outra forma de privação de liberdade que seja perpetrada por agentes do Estado ou por pessoas ou grupos de pessoas agindo com a autorização, apoio ou aquiescência do Estado, e a subseqüente recusa em admitir a privação de liberdade ou a ocultação do destino ou do paradeiro do pessoa desaparecida, privando-a assim da proteção do lei.
+Mais adiante, o Decreto n.º 8.767, de 11 de maio de 2016 estabelece que Artigo 8
+Sem prejuízo do disposto no Artigo 5,
+1. O Estado Parte que aplicar um regime de prescrição ao desaparecimento forçado tomará as medidas necessárias para assegurar que o prazo do prescrição da ação penal:
+a) Seja de longa duração e proporcional à extrema seriedade desse crime; e b) Inicie no momento em que cessar o desaparecimento forçado, considerando-se a natureza contínua desse crime.
+2. Cada Estado Parte garantirá às vítimas de desaparecimento forçado o direito a um recurso efetivo durante o prazo de prescrição.
+PAULO desapareceu durante notório de onda de violência no Estado de São Paulo, entre os dias 12 e 21 de maio de 2006, quando ocorreram aqueles que ficaram conhecidos como "Crimes de Maio", nos quais, após um período de ataques comandados por facções criminosas contra órgãos públicos e empresas privadas, seguiu-se um período de ataques a pessoas pobres, na maioria pretas e pardas, nas periferias das cidades do Estado.
+Nesse período, 505 civis foram assassinados e 97 foram feridos por armas de fogo no estado de São Paulo. O número de mortes é cerca de quatro vezes maior do que o esperado para aquele período, se comparado com o ano anterior, segundo pesquisa da Organização Conectas Direitos Humanos e pelo Laboratório da Análise da Violência da Universidade do Estado do Rio de Janeiro (LAV-UERJ).
+Além disso, os dados mostram que 94% das vítimas, o que corresponde a 475 pessoas, sequer tinham qualquer registro criminal.
+A própria Secretaria de Segurança Pública reconhece que a Polícia Militar matou 108 pessoas em oito dias.
+Assim, ao estabelecer 16/05/2006 como termo a quo do lapso prescricional, o Estado reconhece tacitamente que PAULO desapareceu e, com isso, deve reconhecer também a sua responsabilidade objetiva.
+A conseqüência mais importante disso é a constatação de que se trata de um crime que atenta contra os direitos humanos, que são imprescritíveis.
+Nesse sentido, o STF destaca em seu site:
+ ..
+Assim, está demonstrado que no presente caso não cabe a presunção de prescrição trienal nos termos do art. 206, § 1º, inciso V, do Código Civil (fls. 745/752).
+É, no essencial, o relatório. Decido.
+Na espécie, no que diz respeito à alegação de violação do art. 7º, incisos I e II, do Código Civil, especificamente, incidem os óbices das Súmulas n. 282/STF e 356/STF, uma vez que a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: "O requisito do prequestionamento é indispensável, por isso que inviável a apreciação, em sede de recurso especial, de matéria sobre a qual não se pronunciou o Tribunal de origem, incidindo, por analogia, o óbice das Súmulas 282 e 356 do STF. 9. In casu, o art. 17, do Decreto 3.342/00, não foi objeto de análise pelo acórdão recorrido, nem sequer foram opostos embargos declaratórios com a finalidade de prequestioná-lo, razão pela qual impõe-se óbice instransponível ao conhecimento do recurso quanto ao aludido dispositivo". (REsp 963.528/PR, relator Ministro Luiz Fux, Corte Especial, DJe de 4/2/2010.)
+Confiram-se ainda os seguintes julgados: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; REsp n. 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019; AgInt no AREsp n. 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e AgRg no REsp n. 1.849.115/SC, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 23/6/2020; AgRg no AREsp n. 2.022.133/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 15/8/2022.
+Quanto à alegação de violação do art. 8º da Convenção Internacional para a Proteção de Todas as Pessoas contra o Desaparecimento Forçado, por sua vez, o acórdão recorrido assim decidiu:
+Não se aplica o art. 8 do Decreto 8.767/16, que promulga a Convenção Internacional para a Proteção de Todas as Pessoas contra o Desaparecimento Forçado, porque não se trata, o presente caso, de ação penal, mas de ação cível de reparação de danos (fl. 739).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp n. 1.637.445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp n. 1.647.046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
