@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de Embargos de Declaração, opostos por CONSTRUTORA SILVEIRA SALLES LTDA, a decisão de minha lavra, a qual não conheceu do Agravo em Recurso Especial com base na Súmula 182 do STJ (fls. 788/791e).
+Inconformada, alega a parte embargante que impugnou especificamente a aplicação da Súmula Súmula 7/STJ.
+Sustenta a embargante que "os tópicos do Agravo em Recurso Especial expuseram detalhadamente os motivos pelo que em nenhum dos argumentos contidos no Recurso Especial há a incidência da Súmula nº 7, isto porque: (i) no tópico "III. I.1" a Embargante expõe com clareza que a questão suscitada do julgamento extra petita era questão que ia de encontro ao entendimento do próprio Tribunal de origem e que isto era matéria que não esbarra na Súmula nº 7 porque cabe ao E. Superior Tribunal somente o reconhecimento da nulidade da decisão e não a discussão detalhada de quaisquer provas constantes nos autos; (ii) no tópico "III. II.1" se trata novamente de matéria exclusivamente argumentativa em que se demonstra dissídio jurisprudencial em que o Tribunal de Justiça do Estado do Ceará (Tribunal de Origem) decide de forma diversa ao entendimento firmado por este Superior Tribunal de Justiça, mais uma vez se destacou que a pretensão não iria de encontro a normativa da Súmulanº 7; (iii)outra vez no tópico "III. III" foi trazido aos autos detalhamento do porquê a decisão da vice-presidência do TJ-CE merecia ser agravada e reformada para que se admita e conheça as razões descritas no Recurso Especial. (fls. 795/796e).
+Impugnação aos Embargos de Declaração a fls. 805/818e.
+A irresignação não merece acolhida.
+Nos termos do art. 1.022 do CPC/2015, os Embargos de Declaração são cabíveis para "esclarecer obscuridade ou eliminar contradição", "suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento" e "corrigir erro material".
+Infere-se, portanto, que, não obstante a orientação acerca da natureza recursal dos Declaratórios, singularmente, não se prestam ao rejulgamento da lide, mediante o reexame de matéria já decidida, mas apenas à elucidação ou ao aperfeiçoamento do decisum, em casos, justamente, nos quais eivado de obscuridade, contradição, omissão ou erro material; não têm, pois, de regra, caráter substitutivo ou modificativo, mas aclaratório ou integrativo.
+Na decisão ora embargada, inexistem vícios sanáveis via Embargos de Declaração, eis que, de modo claro, coerente e fundamentado, o Agravo em Recurso Especial não foi conhecido com fundamento na Súmula 182/STJ.
+Observa-se, portanto, que ao contrário do que pretende fazer crer a parte embargante, o decisum está suficientemente fundamentado, não havendo que se falar em qualquer dos vícios que permitem a oposição de embargos de declaração.
+O que deseja a parte embargante, em seu recurso, é a rediscussão da matéria de fundo, e não a correção dos vícios que permitem a oposição dos Embargos Declaratórios.
+Nesse contexto, deve-se ressaltar que os Embargos de Declaração não constituem veículo próprio para o exame das razões atinentes ao inconformismo da parte, tampouco meio de revisão, rediscussão e reforma de matéria já decidida.
+A propósito:
+"PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE VÍCIO NO ACÓRDÃO. IMPOSSIBILIDADE DE REDISCUSSÃO DA MATÉRIA.
+1. Os embargos declaratórios não são cabíveis para alterar o julgado que não apresenta vícios do art. 1.022 do NCPC. Diferente do ocorre no caso, contradição, omissão ou obscuridade, porventura, existentes só se dão entre os termos do próprio acórdão, entre a ementa e o voto, entre o voto e o
+relatório etc.
+(..)
+4. O embargante, inconformado, busca, com a oposição destes embargos declaratórios, ver reapreciada e decidida a controvérsia de acordo com sua tese. Todavia, não é possível dar efeitos infringentes aos aclaratórios sem a demonstração de eventual vício ou teratologia. Embargos de declaração rejeitados" (STJ, EDcl no AgRg no AREsp 847.491/PE, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 02/05/2016).
+Pelo exposto, à míngua de vícios, rejeito os Embargos Declaratórios.
+I.
