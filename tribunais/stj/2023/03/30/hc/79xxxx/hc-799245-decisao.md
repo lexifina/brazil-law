@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de Aldenir Lopes da Silva, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO.
+Consta dos autos que o paciente foi condenado pelos crimes do art. 157, § 2º-A, I, c/c o art. 70 do Código Penal e art. 28 da Lei n. 11.343/2006, a uma pena total de 11 anos, 1 mês e 10 dias de reclusão no regime fechado.
+Afirma-se estar preso desde 16/4/2019, aguardando desde 1º/9/2021 o julgamento da apelação defensiva pelo Tribunal coator.
+Requer-se a revogação da prisão cautelar pelo excesso de prazo.
+O Ministro Og Fernandes, no exercício da Presidência desta Corte, antes de analisar o pedido liminar, solicitou informações ao Juízo de primeiro grau e determinou vista ao Ministério Público Federal.
+Prestadas as informações de praxe, o Ministério Público Federal opinou, pelas palavras da Subprocuradora-Geral da República SAMANTHA CHANTAL DOBROWOLSKI, pelo não conhecimento do presente writ, formalmente incabível, mas, desde logo, pugna pela concessão parcial da ordem, de ofício, a fim de que seja determinada a reavaliação imediata da necessidade e adequação da segregação cautelar do paciente, nos termos do art. 316, parágrafo único, do CPP, se ainda não realizada, com recomendação ao Tribunal de origem, para que, tanto quanto possível, confira maior celeridade ao julgamento do apelo (fl. 59).
+É o relatório.
+De início, destaco que, estando os autos instruídos com as informações do Juízo de origem e com o parecer do Ministério Público Federal, passo a analisar diretamente o mérito deste writ.
+A impetração pretende a revogação da prisão preventiva, haja vista o excesso de prazo no julgamento da apelação.
+Quanto ao alegado excesso de prazo, convém lembrar, no entanto, que a jurisprudência do Superior Tribunal de Justiça é firme em assinalar que a elevada reprimenda estabelecida na sentença condenatória deve ser considerada para fins de análise de suposto excesso de prazo no julgamento da apelação.
+Acerca do tema, por exemplo, estes julgados: AgRg no HC n. 549.040/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 17/3/2020; e HC n. 414.264/MG, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 1º/12/2017.
+O paciente foi condenado à pena de 11 anos 1 mês e 10 dias de reclusão pelos crimes do art. 157, § 2º-A, I, c/c o art. 70 do Código Penal e art. 28 da Lei n. 11.343/2006.
+Assim, apesar de sentenciado em 29/10/2019, paira sobre o paciente reprimenda de montante relevante, além de não estar caracterizada mora irrazoável, tendo em conta o decurso de 2 anos e 5 meses da sentença.
+No entanto, embora não esteja caracterizada demora suficiente para fulminar a legalidade da prisão preventiva, faz-se necessário empreender celeridade no julgamento da apelação, conforme destacou o Ministério Público Federal.
+Além disso, necessário empreender a análise da necessidade da prisão, nos termos do art. 316 do Código de Processo Penal.
+Por essa razão e também por economia processual, adoto as bem-lançadas razões ministeriais como fundamento, nos termos do permissivo jurisprudencial (fls. 56/59):
+ ..
+No caso, extrai-se das informações acostadas aos autos (fls. 48/49) e constantes do site do Tribunal de Justiça do Estado de Pernambuco, sobre o andamento da Ação Penal n. 0001648-98.2019.8.17.0810, em grau de recurso, que, embora o feito tramite de forma lenta, não se pode afirmar a existência de desídia estatal, especialmente se considerado o quantum de pena aplicado (mais de 11 anos de reclusão). Consta ainda do extrato processual eletrônico que a apelação foi feita conclusa ao relator em 1º/9/2021.
+Note-se, a respeito da questão, que o magistrado de origem, ao prestar informações, em 3/2/2023 (e-fl.49), asseverou que os autos foram remetidos no dia 26/5/2021 à Corte Estadual, para julgamento da apelação.
+Não é demais lembrar, além do mais, que, por motivo de força maior (pandemia da COVID-19), houve um atraso generalizado, mas justificado, nas marchas processuais país afora, nos últimos três anos, de modo que, por mais essa razão, não procede a impetração quanto à alegada demora no andamento do feito.
+Pertinente, todavia, o envio de ofício ao Tribunal de origem para que busque conferir maior celeridade no julgamento do processo. Nessa linha, segue precedente do Superior Tribunal de Justiça:
+ ..
+Outrossim, mister apontar que a Corte de origem não analisou o mérito da prisão preventiva e, dessa forma, sua substituição por medidas cautelares diversas, de ofício, incorreria em inequívoca supressão de instância, com o consequente desprezo das normas constitucionais delimitadoras da competência entre os órgãos do Poder Judiciário.
+E, se é certo que o habeas corpus é uma ação constitucional vocacionada à importante função de garantia da liberdade de locomoção do cidadão, não menos exato é que a sua utilização deve observar os necessários pressupostos processuais de natureza constitucional - como é o caso da competência -, sob pena de total desprestígio dos órgãos jurisdicionais inferiores, além de grave risco de paralisação das atividades das Cortes Superiores, em razão do elevado número dessa espécie de writ impetrado per saltum. Nesse sentido:
+ ..
+Não obstante, recomenda-se, no caso, se não ocorrida, a reavaliação imediata da segregação preventiva, consoante preceitua o art. 316, parágrafo único, do Código de Processo Penal1. É que, pelo teor dos autos e do andamento processual, a última avaliação da medida extrema teria sido feita há mais de 90 dias (em 18/01/2021 na prolação da sentença condenatória), mostrando-se razoável, por isso, seja determinada a revisão judicial da necessidade e adequação da prisão cautelar do ora paciente, se efetivamente inocorrente.
+Cumpre ressalvar, porém, no tocante ao aludido prazo nonagesimal, a firme orientação dessa Corte Superior de Justiça de que o termo para "a reavaliação da prisão preventiva, determinado pelo art. 316, paragrafo único, do CPP, não é peremptório, de modo que eventual atraso na execução deste ato não implica automático reconhecimento da ilegalidade da prisão tampouco a imediata colocação do custodiado cautelar em liberdade" (AgRg no HC 592.026/RS, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em15/09/2020, DJe 29/09/2020).
+Conveniente atentar-se, ainda, para o teor do enunciado n.º 19 da I Jornada deDireito e Processo Penal do CJF/STJ, ao dispor que a "revisão periódica da prisão preventiva deve analisar de modo motivado, ainda que objetivo, se os motivos que a fundamentaram se mantêm e se não há excesso de prazo, sendo vedada a mera alusão genérica à não alteração do quadro fático".
+Forçoso convir, por conseguinte, que, in casu, restou demonstrado, em parte, constrangimento ilegal apto a justificar a atuação de ofício dessa Corte Superior, embora restrito à necessária revisão nonagesimal do cabimento da cautelar imposta (se eventual e efetivamente não ocorrida).
+ ..
+Ante o exposto, denego a ordem. Concedo a ordem de ofício, para determinar a reanálise da necessidade da prisão preventiva e dar celeridade no julgamento da apelação criminal.
+Comunique-se.
+Intime-se o Ministério Públic o estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. ROUBO CIRCUNSTANCIADO E POSSE DE DROGA. PRISÃO CAUTELAR MANTIDA NA SENTENÇA CONDENATÓRIA. EXCESSO DE PRAZO NO JULGAMENTO DA APELAÇÃO CRIMINAL. VIOLAÇÃO DO PRINCÍPIO DA RAZOABILIDADE. NÃO OCORRÊNCIA. ELEVADA REPRIMENDA. REANÁLISE DA NECESSIDADE DA PRISÃO. CONSTRANGIMENTO ILEGAL NESSE PONTO. PARECER ACOLHIDO COMO RAZÕES DE DECIDIR.
+Ordem denegada. Ordem concedida de ofício, para determinar a reanálise da necessidade da prisão preventiva e dar celeridade no julgamento da apelação.
