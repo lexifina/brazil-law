@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto pelo ESTADO DE SÃO PAULO contra decisão que inadmitiu recurso especial manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado:
+ANULATÓRIA DE AIIM. ICMS. AUTO DE " INFRAÇÃO. CREDITAMENTO INDEVIDO. SUBSTITUIÇÃO TRIBUTÁRIA. INTELIGÊNCIA DO ART. 150, § 7O, DA CF, DO ART. 66-B DA LEI ESTADUAL Nº 6.374/89, COM A REDAÇÃO DADA PELA LEI ESTADUAL Nº 9.176/95, DO ART. 270 DO RICMS, DA PORTARIA CAT 17/99 E DA PORTARIA CAT 99/05 DOCUMENTOS FORNECIDOS PELA EMBARGANTE COM BASE NA PORTARIA CAT 17/99 SEM AS ALTERAÇÕES PROMOVIDAS PELA PORTARIA CAT 99/05, INIDÔNEOS PARA CREDITAMENTO DO IMPOSTO. APLICAÇÃO DA PORTARIA CAT 99/05 REGULADA PELO PRINCÍPIO "TEMPUS REGIT ACTUM" QUE AFASTA A ALEGADA RETROATIV IDADE. DESCUMPRIMENTO DA LEGISLAÇÃO TRIBUTÁRIA. DECADÊNCIA. INOCORRÊNCIA. PRAZO CONTADO DO PRIMEIRO DIA DO EXERCÍCIO SEGUINTE ÀQUELE EM QUE O LANÇAMENTO PODERIA TER SIDO EFETUADO. JUROS DE MORA. APLICAÇÃO DA LEI ESTADUAL N. 13.918/09, OBSERVADO O LIMITE MÁXIMO DA SELIC. INTERPRETAÇÃO CONFORME A CONSTITUIÇÃO. ARGUIÇÃO DE INCONSTITUCIONALIDADE N. 0170909-61.2012.8.26.0000 JULGADA PELO ÓRGÃO ESPECIAL. INTELIGÊNCIA DO ART. 100 DO CTN. HIGIDEZ DA MULTA PUNITIVA APLICADA DE 100% DO VALOR DO TRIBUTO, QUE NÃO VIOLA A VEDAÇÃO AO CONFISCO, A PROPORCIONALIDADE OU A RAZOABILIDADE. ADMISSIBILIDADE DA MULTA PUNITIVA NO LIMITE MÁXIMO DO VALOR DO IMPOSTO. RECURSOS NÃO PROVIDOS.
+Opostos embargos de declaração foram rejeitados.
+No recurso especial, fundamentado na alínea "a" do permissivo constitucional, o recorrente aponta violação dos arts. 113, § 3º, e 175, parágrafo único, do Código Tributário Nacional, sustentando que a multa aplicada pelo Fisco não poderia ser reduzida na medida em que não houve irregularidade.
+Houve contrarrazões (e-STJ fls. 9793/9821).
+O Tribunal de origem inadmitiu o recurso especial com fulcro na Súmula n. 280/STF.
+Insurge-se o agravante contra essa decisão afirmando que, ao contrário do que supõe a origem, o recurso especial reúne condições de processamento.
+Houve contraminuta ao agravo (e-STJ fls. 9859/9864)
+É o relatório. Decido.
+A insurgência não comporta acolhida.
+Ao analisar a controvérsia, a Corte de origem fundamentou que (e-STJ fl. 9657-9658):
+Em relação ao recurso da FESP pretendendo a higidez da multa inicialmente aplicada e dos juros moratórios nos termos da Lei 13.198108, verifica-se que tais pretensões são carreadas em normas inconstitucionais, merecendo prevalecer o decidido pela r. sentença atacada; Quanto à multa, o STF reconhece caráter confiscatório em multas superiores a 100% do valor do tributo.
+(..)
+Com relação aos juros moratórios, o órgão Especial do Tribunal de Justiça de São Paulo julgou procedente em parte a Arguição de Inconstitucionalidade n. 0170909-61.2012.8.26.0000, em 27.02.13, relativa aos artigos 85 e 96 da Lei Estadual n. 6374189 com a redação da Lei Estadual n. 13.918109, à vista da decisão de 14.04.10 do STF na ADI n. 442/SP, no sentido de que a regra do artigo 113 da Lei Estadual n. 6374189 deve ser interpretada de modo a que a UFESP não exceda o valor do índice de correção monetária dos tributos federais; este Tribunal estadual, pelo órgão Especial, afirmou, na aludida Arguição de Inconstitucionalidade, que o Estado pode estabelecer os encargos incidentes sobre seus créditos fiscais, mas, por se tratar de competência concorrente, nos termos do artigo 24, 1 e § 20 da CF, não pode estabelecer índices e taxas superiores aos estabelecidos pela União na cobrança de seus créditos; ou seja, é inválida a taxa de juros diária, superior à Selic, definida na lei estadual vigente e a taxa de juros aplicável ao montante do imposto ou da multa não deve exceder a incidente na cobrança dos tributos federais.
+Assim, correta a parcial procedência dos embargos à execução apenas para excluir a taxa de juros superior à Taxa Selic e para limitar o percentual da multa a 100% do valor do tributo. (Grifei)
+Do excerto depreende-se que a questão restou analisada no acórdão à luz de fundamento constitucional.
+Dessa feita, a análise da matéria por este e.STJ configuraria usurpação da competência constitucionalmente atribuída ao Supremo Tribunal Federal.
+No mesmo sentido:
+TRIBUTÁRIO E PROCESSO CIVIL AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTERESSE DE AGIR. FUNDAMENTO CONSTITUCIONAL. DECISÃO MANTIDA. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. Quanto à tese referente à ausência de interesse de agir, diante da inexistência de procedimento administrativo prévio para requerer a isenção do imposto de renda, por cardiopatia grave, verifica-se que o Tribunal de origem entendeu pela sua desnecessidade, tendo em vista que a Constituição Federal garante a apreciação pelo Poder Judiciário de lesão ou ameaça a direito (art. 5º, XXXV). Logo, não há como conhecer do recurso quanto ao ponto, diante da necessidade de análise de matéria constitucional.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.936.581/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 22/8/2022, DJe de 25/8/2022.)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial do ESTADO DE SÃO P AULO.
+Publique-se. Intimem-se.
+EMENTA
+TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. ICMS. MULTA. REDUÇÃO. FUNDAMENTO CONSTITUCIONAL. COMPETÊNCIA DO STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL DO ESTADO DE SÃO PAULO.
