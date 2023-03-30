@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de agravo interposto pelo MINISTÉRIO PÚBLICO FEDERAL contra decisão da Corte de origem que não admitiu o recurso especial.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fls. 430-431):
+CONSTITUCIONAL - ASSISTÊNCIA SOCIAL - BENEFÍCIO DE PRESTAÇÃO CONTINUADA AO IDOSO E À PESSOA COM DEFICIÊNCIA - REQUISITOS LEGAIS.
+1. O benefício de prestação continuada, de caráter não contributivo, foi regulamentado pela Lei Federal nº 8.742/93, que traz os requisitos necessários à implantação.
+2. Tanto no caso do idoso (maior de 65 anos) quanto no da pessoa com deficiência exige-se prova da impossibilidade de prover a própria subsistência ou de tê-la provida pela família.
+3. A hipossuficiência econômica é analisada no contexto familiar, nos termos do artigo 20, § 1º, da Lei Federal nº 8.742/93. O dever de assistência do Estado, no entanto, é subsidiário, e não afasta a obrigação de amparo mútuo familiar.
+4. A referência quantitativa do § 3º, do artigo 20, da LOAS, pode ser considerada como um dos critérios para a aferição de miserabilidade, sem a exclusão de outros. Jurisprudência do Superior Tribunal de Justiça, no regime de julgamentos repetitivos: TERCEIRA SEÇÃO, REsp 1112557/MG, j. 28/10/2009, DJe 20/11/2009, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO).
+5. Não deve ser considerado, no cálculo da renda familiar, o benefício no valor de um salário mínimo recebido por deficiente (artigo 34, parágrafo único, da Lei Federal nº. 10.741/03) ou idoso, conforme jurisprudência do Superior Tribunal de Justiça, em regime de julgamentos repetitivos: 1ª Seção, REsp nº 1.355.052/SP, j. 25/02/2015, DJe 05/11/2015, Rel. Ministro Benedito Gonçalves. A exclusão do rendimento de deficiente ou idoso, no entanto, não importa na automática concessão do benefício, devendo ser considerados os demais aspectos socioeconômicos e familiar do requerente.
+6. No caso concreto, o requisito socioeconômico não foi preenchido. O benefício assistencial não se presta à complementação da renda familiar, mas, sim, ao socorro daqueles que não possuem condições de manter ou ver mantidos pelo grupo familiar os padrões mínimos necessários à subsistência.
+7. Apelação improvida.
+Embargos de declaração rejeitados.
+Em razões de recurso especial, sustenta o MPF ofensa aos artigos 20, §§ 1º, 3º e 14, da Lei n. 8.742/1993 e 34, parágrafo único da Lei n. 10.741/03, aduzindo argumentação quanto ao reconhecimento do direito da parte autora ao benefício assistencial de amparo ao idoso no caso dos autos, uma vez que não deveria ter sido computado na renda per capita familiar a renda proveniente da aposentadoria do esposo idoso, não deveria ter se valido de outros meios de prova para sustentar a não miserabilidade da parte autora que não a renda per capita familiar inferior a  do salário-mínimo vigente, bem como deveria ter desconsiderado, para fins de cálculo da renda familiar, ainda que indiretamente, valores repassados pelos filhos da autora que não moram com ela.
+Sem contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Registre-se também que é possível ao Relator dar ou negar provimento ao recurso em decisão monocrática, nas hipóteses em que há jurisprudência dominante quanto ao tema, como autorizado pelo art. 34, XVIII, do RISTJ e pela Súmula 568/STJ.
+Tendo a parte insurgente impugnado os fundamentos da decisão agravada, passo ao exame do recurso especial.
+Na origem, cuida-se de ação destinada a viabilizar a implantação de benefício de prestação continuada previsto no artigo 203, V, da Constituição, e na Lei Federal nº 8.742/93.
+Com efeito, no que diz respeito aos artigos 20, §§ 1º, 3º e 14, da Lei n. 8.742/1993 e 34, parágrafo único da Lei n. 10.741/03 e a tese quanto ao reconhecimento do direito da parte autora ao benefício assistencial de amparo ao idoso no caso dos autos, a Corte de origem, após ampla análise do conjunto fático-probatório, firmou compreensão de que (fls. 429-430):
+ ..
+No caso concreto, a autora, nascida em 1947, tinha 71 anos na data do requerimento administrativo, protocolado em 08/08/2018 (fls. 122, ID 137893889).
+O estudo social (ID 137893922), elaborado em novembro de 2019, consignou que a autora reside com o esposo, à época com 82 anos, em imóvel próprio "com 03 quartos, sala, copa/cozinha e 02 banheiros".
+A renda mensal consiste na aposentadoria de seu esposo, no valor de R$ 958,00 e nos rendimentos obtidos pela autora com a realização de pequenos reparos em roupas, no valor de R$ 150,00.
+As despesas mensais consistem em água (R$ 44,20), energia elétrica (R$ 30,60), alimentação (R$ 600,00), medicamentos (R$ 413,00), gás de cozinha (R$ 73,00), totalizando R$ 1.160,00.
+Consta, ainda, que a autora tem dois filhos adultos, ambos técnicos de informática, que a auxiliam através do pagamento de seu plano de saúde e com o dinheiro necessário para adquirir medicamentos.
+O requisito socioeconômico não foi preenchido.
+Os elementos fáticos demonstram que a autora está amparada pela família e reside em imóvel com padrões razoáveis de conforto e segurança. A renda familiar, somada ao auxílio prestado pelos filhos da autora, é suficiente para o atendimento de suas necessidades básicas.
+O benefício assistencial não se presta à complementação da renda familiar, mas, sim, ao socorro daqueles que não possuem condições de manter ou ver mantidos pelo grupo familiar os padrões mínimos necessários à subsistência.
+ ..
+Assim, tem-se que a revisão da conclusão a que chegou o Tribunal de origem acerca dos elementos formadores da renda per capita familiar demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide ao caso a Súmula 7/STJ.
+Ilustrativamente, confiram-se:
+PREVIDENCIÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. BENEFÍCIO ASSISTENCIAL. LEI 8.742/93. CONDIÇÃO DE NECESSIDADE DO BENEFICIÁRIO NÃO DEMONSTRADA. IMPOSSIBILIDADE DE REVISÃO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A concessão de benefício assistencial, independente de contribuição à Seguridade Social, à pessoa portadora de deficiência e ao idoso que comprovem não possuir meios de prover à própria manutenção ou de tê-la provida por sua família, conforme dispuser a lei.
+2. No caso dos autos, o pedido foi julgado improcedente pelas instâncias ordinárias, por não reconhecer, com base no conjunto fático-probatório dos autos, a condição de necessidade que justifique a concessão do benefício, baseado em análise social que não limita-se ao exame da renda per capita, asseverando que a autora reside em casa própria com seu esposo que recebe benefício de aposentadoria, além de contar com ajuda dos seus 10 filhos, todos maiores e empregados que assistem o casal em qualquer eventualidade.
+3. Dessa forma, não tendo a autora logrado comprovar sua condição de necessidade, não faz jus à concessão do benefício assistencial pleiteado.
+4. Ademais, a alteração dessa conclusão somente seria possível através do reexame de prova, o que, entretanto, encontra óbice na Súmula 07/STJ. Precedentes: AgRg no AREsp 648.798/SP, Rel. Min. MAURO CAMPBELL MARQUES, DJe 12.8.2015; AgRg no AREsp 660.893/SP, Rel. Min. OG FERNANDES, DJe 25.6.2015; AgRg no AREsp 586.617/SP, Rel. Min. ASSUSETE MAGALHÃES, DJe 4.3.2015; AgRg no AREsp 400.135/SP, Rel. Min. BENEDITO GONÇALVES, DJe 3.2.2015.
+5. Agravo Regimental desprovido.
+(AgRg no AREsp 645.461/SP, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 3/3/2016) (grifei).
+AGRAVO REGIMENTAL. PREVIDENCIÁRIO. BENEFÍCIO ASSISTENCIAL. HIPOSSUFICIÊNCIA. REQUISITOS NÃO PREENCHIDOS. PRETENSÃO DE REEXAME DE PROVAS. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA.
+1. Conforme consignado na análise monocrática, o benefício de amparo assistencial, comumente denominado benefício de prestação continuada, foi introduzido no ordenamento jurídico brasileiro pela Lei 8.742/1993, como uma das alternativas de se concretizar um dos objetivos fundamentais da República, insculpido no art. 3º, IV, da Constituição Federal de 1988, qual seja, promover o bem-estar de todos, bem como efetivar o princípio constitucional da dignidade da pessoa humana.
+2. No caso dos autos, a Corte de origem deixou claro que a parte agravante não preenche os requisitos para a concessão do benefício assistencial, uma vez que seu grupo familiar possui renda suficiente para prover-lhe os meios de subsistência.
+3. Nesse contexto, os argumentos utilizados para fundamentar a pretensão trazida no recurso obstado somente poderiam ter sua procedência verificada mediante o reexame de matéria fática, competência que não cabe a esta Corte. Incide, portanto, na espécie, o óbice da Súmula 7 do Superior Tribunal de Justiça.
+Agravo regimental improvido.
+(AgRg no AREsp 621.159/SP, Rel. Min. Humberto Martins, Segunda Turma, DJe 12/2/2015).
+PROCESSO CIVIL. AGRAVO REGIMENTAL. BENEFÍCIO ASSISTENCIAL. LOAS. RENDA MÍNIMA. MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. ALÍNEA "C". NÃO DEMONSTRAÇÃO DA DIVERGÊNCIA. AGRAVO NÃO PROVIDO.
+1. O Tribunal a quo assim consignou na sua decisão: "Ademais, em que pese à deficiência do autor, o requisito da miserabilidade não restou demonstrado nos autos, considerando que os rendimentos mensais auferidos pela família é bem superior ao limite legal estabelecido, conforme se vê do CNIS acostados pelo Ministério Público Federal que comprova de que o genitor do requerente aufere um rendimento no valor de R$ 1.304,89" (fls. 369-370).
+2. Modificar a conclusão a que chegou a Corte de origem, de modo a acolher a tese do recorrente, demanda reexame do acervo fático-probatório dos autos, o que é inviável em Recurso Especial, sob pena de violação da Súmula 7/STJ.
+3. A divergência jurisprudencial deve ser comprovada, cabendo a quem recorre demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fática e jurídica entre eles. Indispensável a transcrição de trechos do relatório e do voto dos acórdãos recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de bem caracterizar a interpretação legal divergente. O desrespeito a esses requisitos legais e regimentais (art. 541, parágrafo único, do CPC e art. 255 do RI/STJ) impede o conhecimento do Recurso Especial com base na alínea "c" do inciso III do art. 105 da Constituição Federal.
+4. Agravo Regimental não provido.
+(AgRg no AREsp 579.632/SP, Rel. Min. Herman Benjamin, Segunda Turma, DJe 19/12/2014)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro-os em 10%, observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL. APLICABILIDADE DO CPC/2015. BENEFÍCIO ASSISTÊNCIAL DE PRESTAÇÃO CONTINUADA. IDOSO. NÃO IMPLEMENTAÇÃO DOS REQUISITOS LEGAIS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
