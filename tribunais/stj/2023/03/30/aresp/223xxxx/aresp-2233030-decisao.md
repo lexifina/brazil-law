@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo interposto por MATHEUS VECCHINI TURIN contra decisão que inadmitiu recurso especial manejado em face de acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO assim ementado:
+PREVIDENCIÁRIO. PENSÃO POR MORTE. FILHO RELATIVAMENTE INCAPAZ À ÉPOCA DO REQUERIMENTO ADMINISTRATIVO. PRESCRIÇÃO. OCORRÊNCIA. ART. 198 C/C ART. 3O DO CC/02. TERMO INICIAL DO BENEFÍCIO. ART. 74, II, DA LEI 8.213/91. DIB FIXADA NA DATA DO REQUERIMENTO ADMINISTRATIVO. INEXISTÊNCIA DE PARCELAS ATRASADAS. INDEVIDO O PAGAMENTO DAS PRESTAÇÕES DESDE O FALECIMENTO DO SEGURADO.
+1. Nos termos do artigo 198, I c/c artigo 3º do Código Civil de 2002, a prescrição não corre em face dos absolutamente incapazes.
+2. Por ocasião do requerimento administrativo, a parte autora era relativamente incapaz, de modo que a prescrição corria normalmente.
+3. Nos termos do artigo 74 da Lei 8.213/91 (com a redação vigente à época), a pensão por morte era devida desde a data do óbito, quando requerida até 30 dias depois deste, e do requerimento, quando requerida após esse prazo.
+4. Tendo a parte autora nascido em 27.02.1996, a prescrição começou a correr para ele em 27.02.2012 (ao atingir 16 anos), de modo que na data do requerimento administrativo (20.07.2016) já havia transcorrido os 30 dias do prazo.
+5. Para que fizesse jus ao benefício desde o falecimento do seu genitor, a parte autora deveria ter formulado requerimento administrativo em no máximo 30 dias a contar da data em que completou 16 anos, o que não o fez.
+6. Superado o prazo, o termo inicial do seu benefício deve ser fixado na data do requerimento administrativo, não fazendo jus a qualquer parcela anterior a esta data.
+7. Apelação da parte autora desprovida.
+Opostos embargos de declaração, estes foram rejeitados.
+No recurso especial, fundamentado na alíneas "a" e "c" do permissivo constitucional, o recorrente sustenta violação aos artigos 198, I, do Código Civil e 74, 79 e 103 da Lei 8.213/91.
+Sustenta, em síntese, que o beneficiário faz jus à pensão por morte desde a data do óbito, porquanto em relação à ele não correu a prescrição, já que na data do óbito do seu genitor tinha apenas 12 anos.
+Aponta, ainda, divergência jurisprudencial em relação ao REsp 1.669.468/RS, segundo o qual em relação à prescrição de direitos de incapazes, a teor do art. 198,inciso I, do Código Civil e dos artigos 79 e 103, parágrafo único da Lei n. 8213/91,não se lhe aplica o disposto no artigo 74 do mesmo diploma legal.
+Sem contrarrazões, o Tribunal de origem inadmitiu o recurso especial ao entendimento de que a análise do caso demandaria o revolvimento do conteúdo fático-probatório dos autos, o que encontra óbice no teor da Súmula 7/ST (fls. 668/675 e-STJ).
+O agravo em recurso especial impugnou todos os fundamentos da decisão de inadmissibilidade.
+É o relatório. Decido.
+O agravante impugnou a fundamentação contida na decisão agravada e, mostrando-se preenchidos os demais pressupostos de admissibilidade do presente recurso, adentra-se às razões do recurso especial.
+Na hipótese dos autos, conforme se extrai do acórdão recorrido, cuida-se de pedido de pensão por morte.
+É fato nos autos que à época do óbito o beneficiário tinha 12 anos e que o pedido administrativo, ocorrido em 2016, foi realizado posteriormente ao prazo de 30 dias previsto no artigo 74, I da Lei 8.213, vigente à época, tendo sido realizado, também, após a maioridade.
+A questão controversa, portanto, reside em saber se, após o beneficiário ter se tornado relativamente incapaz, passou a correr o prazo do artigo 74, I , que estabelecia o prazo administrativo de 30 dias para solicitar o benefício, de forma a possibilitar sua retroação à data do óbito.
+A jurisprudência desta e. Corte se firmou no sentido de que ao menor incapaz não se aplica o disposto no art. 74 da Lei 8.213/91, e o atingimento dos 16 anos tão somente inicia o prazo prescricional quinquenal das parcelas vencidas.
+Sobre o tema, confira-se o seguinte julgado:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. PENSÃO POR MORTE DEVIDA A MENOR. TERMO INICIAL DO BENEFÍCIO. DATA DO ÓBITO DO GENITOR. SÚMULA 83/STJ.
+1. Hipótese em que o Tribunal de origem consignou: "Quanto à prescrição, o entendimento desta Turma é no sentido de que o menor incapaz não pode ser prejudicado pela inércia de seu representante legal. Não se cogita, daí, a prescrição de direitos de incapazes, a teor do art. 198, inciso I, do Código Civil e dos artigos 79 e 103, parágrafo único da Lei n. 8213/91, não se lhe aplicando o disposto no artigo 74 do mesmo diploma legal. Em sendo assim, não correndo a prescrição contra o absolutamente incapaz, o implemento dos 16 anos não torna automaticamente prescritas parcelas não reclamadas há mais de 5 anos, apenas faz iniciar a fluência do prazo qüinqüenal, que se esgota aos 21 anos, quando, então, todas as parcelas não reclamadas há mais de 5 anos contadas dos 16 anos é que se tornam inexigíveis.
+Em que pese a ação ter sido ajuizada em 09/03/2014, aqui não se está a discutir o direito da autora em perceber o benefício, porque este foi concedido pelo INSS, e sim a DIB do benefício, em face da idade em que foi requerido administrativamente. Portanto, sendo a DER de 24/08/2013, quando a autora ainda tinha 20 anos de idade, ela possui direito de concessão do benefício de pensão por morte, desde a data do óbito de sua genitora (29/08/1992) até completar 21 anos de idade (29/08/2013), descontadas as parcelas já pagas administrativamente pela autarquia previdenciária."
+(fl. 173, e-STJ).
+2. O STJ firmou o entendimento de que, para fins de concessão de benefício previdenciário, contra o menor não corre a prescrição, por isso que o termo a quo das prestações deve, nesses casos, coincidir com a data da morte do segurado, e não do nascimento do beneficiário.
+3. Dessume-se que o acórdão recorrido está em sintonia com o atual entendimento do Superior Tribunal de Justiça, razão pela qual não merece prosperar a irresignação. Incide, in casu, o princípio estabelecido na Súmula 83/STJ: "Não se conhece do Recurso Especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida." 4. Cumpre ressaltar que a referida orientação é aplicável também aos recursos interpostos pela alínea "a" do art. 105, III, da Constituição Federal de 1988. Nesse sentido: REsp 1.186.889/DF, Segunda Turma, Relator Ministro Castro Meira, DJe de 2.6.2010.
+5. Recurso Especial não provido
+(REsp n. 1.669.468/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 27/6/2017, DJe de 30/6/2017.)
+PREVIDENCIÁRIO. PENSÃO POR MORTE. FILHO ABSOLUTAMENTE INCAPAZ À ÉPOCA DO FALECIMENTO DO GENITOR. REQUERIMENTO ADMINISTRATIVO POSTERIOR À RELATIVIZAÇÃO DA INCAPACIDADE. TERMO INICIAL DO BENEFÍCIO. DATA DO ÓBITO DO GENITOR.
+1. Em se tratando de menor absolutamente incapaz à época do falecimento do pai, milita em seu favor cláusula impeditiva da prescrição (art. 198, I, do CC).
+2. Nesse contexto, correta se revela a exegese de que será concedida a pensão por morte, retroativamente à data do óbito do instituidor do benefício, independentemente de o requerimento do benefício ter sido realizado após os trinta dias seguintes à data do falecimento de seu genitor. Precedente: (REsp 1.405.909/AL, Rel. Ministro SÉRGIO KUKINA, Rel. p/ Acórdão Ministro ARI PARGENDLER, PRIMEIRA TURMA, julgado em 22/05/2014, DJe 09/09/2014).
+3. Conforme destacado na decisão agravada, "contra o menor não corre a prescrição, por isso que o termo a quo das prestações deve, nesses casos, coincidir com a data da morte do segurado".
+4.Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.572.391/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 21/2/2017, DJe de 7/3/2017.)
+PREVIDENCIÁRIO E PROCESSO CIVIL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. PENSÃO POR MORTE. (I) RECONHECIMENTO DE TEMPO DE SERVIÇO. SENTENÇA TRABALHISTA. INÍCIO DE PROVA MATERIAL. (II) TERMO INICIAL DO BENEFÍCIO EM FAVOR DE MENORES. DATA DO ÓBITO DO SEGURADO. AGRAVO DESPROVIDO.
+1. A jurisprudência desta Corte Superior de Justiça admite a sentença trabalhista como início de prova material, para fins de reconhecimento de tempo de serviço, desde que fundada em elementos que atestem o exercício laboral no período alegado ou corroborada por outras provas nos autos.
+2. Não corre prescrição contra o menor absolutamente incapaz, não se lhe podendo aplicar, destarte, a regra do art. 74, II da Lei 8.213 /91, sendo, portanto, devido o benefício de pensão por morte aos dependentes menores desde a data do óbito do mantenedor.
+Precedentes: AgRg no Ag 1.203.637/RJ, 5T, Rel. Min. LAURITA VAZ, DJe 3.5.2010; REsp. 1.141.465/SC, 6T, Rel. Min. ALDERITA RAMOS DE OLIVEIRA (Desembargadora Convocada do TJ/PE), DJe 06.02.2013.
+3. Agravo Regimental do INSS desprovido.
+(AgRg no AREsp n. 269.887/PE, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 11/3/2014, DJe de 21/3/2014.)
+Nesse contexto, forçoso concluir que o acórdão recorrido está em dissonância com a jurisprudência desta e. Corte, motivo pelo qual deve ser reformado para se reconhecer que o benefício é devido desde a data do óbito, observada eventual prescrição quinquenal das parcelas devidas.
+Ante o exposto, com fulcro no art. 932, V, do CPC/2015 c/c o art. 255, § 4º, III, do RISTJ, conheço do agravo para dar provimento ao recurso especial, nos termos da fundamentação.
+Publique-se. Intimem-se.
+EMENTA
+PREVIDENCIÁRIO E CIVIL. PENSÃO POR MORTE. MENOR INCAPAZ. REQUERIMENTO APÓS A MAIORIDADE. PRESCRIÇÃO QUINQUENAL DAS PARCELAS. NAO INCIDÊNCIA DO ARTIGO 74 DA LEI 8.213/91. PRECEDENTES. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
