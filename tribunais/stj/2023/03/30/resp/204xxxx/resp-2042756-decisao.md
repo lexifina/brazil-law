@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de recurso especial interposto por MAURO DEL CIELLO (MAURO), com fundamento no art. 105, III, alíneas a e c, da CF, contra acórdão proferido pelo Tribunal Paulista, relatado pela Des. LÍGIA ARAÚJO BISOGNI, assim ementado:
+AGRAVO REGIMENTAL - Interposição contra decisão monocrática da Relatora que negou provimento a agravo de instrumento - Razoabilidade - Arrematante que responde pelos débitos condominiais anteriores à arrematação - Obrigação de natureza propter rem - Hipótese em que constou expressamente do edital de praceamento informação a respeito dos débitos incidentes sobre o bem - Precedentes desta E. 34ª Câmara de Direito Privado - Decisão mantida - Regimental não provido (e-STJ, fl. 126).
+Opostos embargos de declaração por MAURO, foram rejeitados (e-STJ, fls. 175/182).
+Nas razões do presente recurso, MAURO alegou violação dos arts. 203, §2º, 337, §4º, 507 do NCPC, 1.336, I, do CC, 12 da Lei nº 4.591/64, aduzindo que (1) o acórdão recorrido foi omisso quanto à tese de que o arrematante responde pelas cotas apenas a partir da imissão na posse; (2) o Juízo trabalhista decidiu que o arrematante não deveria responder pelo débito condominial, devendo ser respeitada a coisa julgada; (3) o condomínio tinha ciência da arrematação; e (4) o arrematante somente responde por cotas condominiais a partir da imissão na posse (e-STJ, fls. 184/208).
+Foram apresentadas contrarrazões (e-STJ, fls. 213/223).
+É o relatório.
+Decido.
+O recurso merece prosperar.
+(1) Da ausência de violação do art. 1.022, do NCPC
+Nas razões do seu recurso, MAURO alegou a violação do art. 1.022, do NCPC em virtude da omissão quanto à tese de que o arrematante responde pelas cotas apenas a partir da imissão na posse.
+Contudo, verifica-se que o Tribunal estadual se pronunciou sobre os temas consignando que o arrematante tem responsabilidade pelos débitos condominiais, confira-se:
+Na espécie, denota-se que, a respeito da reserva de valores decorrentes da arrematação em favor do condomínio, no bojo da reclamação trabalhista n. 0000212-84.2015.5.02.0079, a própria decisão agravada fez constar solicitação de informações junto ao respectivo juízo (79ª Vara do Trabalho de São Paulo), ressalvando-se, expressamente, o abatimento de valores eventualmente remetidos pela Justiça do trabalho (pág. 42).
+Por seu turno, denota-se que a manifestação do condomínio agravado nos autos da ação trabalhista só corrobora a ciência inequívoca do arrematante a respeito da dívida condominial, inclusive porque, na ocasião, assinalou de maneira expressa a natureza propter rem da obrigação (págs. 48/49e 67/68).
+Conforme se extraí dos autos, houve informação suficiente no edital a respeito da existência dos débitos condominiais (págs. 77/78), encontrando-se a r. decisão monocrática em consonância a recentes julgados no âmbito do C. STJ, sobre o tema:  ..  (e-STJ, fls. 129/130).
+Assim, inexistem os vícios elencados no art. 1.022 do NCPC, sendo forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente, visando rediscutir matéria que já foi analisada.
+A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Nesse sentido, confira-se o seguinte precedente:
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA COLETIVA PROMOVIDA PELO IDEC EM NOME DE POUPADORES ESPECÍFICOS E DETERMINADOS. REPRESENTAÇÃO PROCESSUAL. INCIDÊNCIA DA REGRA DO PROCESSO CIVIL TRADICIONAL. NECESSIDADE DE RECOLHIMENTO PRÉVIO DAS CUSTAS JUDICIAIS DO PROCESSO DE LIQUIDAÇÃO DE SENTENÇA. INEXISTÊNCIA DOS VÍCIOS ENSEJADORES À OPOSIÇÃO DOS DECLARATÓRIOS. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do que dispõe o art. 1.022 do CPC/2015, os embargos de declaração são cabíveis apenas quando amparados em suposta omissão, contradição, obscuridade ou erro material na decisão embargada, não se caracterizando via própria ao rejulgamento da causa.
+2. No presente caso, não se evidencia a existência da omissão e da contradição apontadas, porquanto decididas, clara e devidamente fundamentadas, as questões submetidas a julgamento pela parte embargante, sobretudo no que diz respeito à necessidade de recolhimento das custas judiciais na fase de liquidação de sentença intentada pelo Idec, na condição de representante processual, em nome de beneficiários específicos de determinados, equiparando-se, portanto, à liquidação individual de sentença coletiva, a qual se sujeita à regra geral disposta na lei processual acerca da responsabilidade pelo pagamento das despesas processuais.
+3. Embargos de declaração rejeitados.
+(EDcl no REsp 1.637.366/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. em 22/02/2022, DJe 03/03/2022)
+Afasta-se, portanto, a alegada violação.
+(2) Da responsabilidade do arrematante
+Nas razões do recurso especial, MAURO alegou ofensa aos arts. 203, §2º, 337, §4º, 507 do NCPC, 1.336, I, do CC, 12 da Lei nº 4.591/64, aduzindo que (2) o Juízo trabalhista decidiu que o arrematante não deveria responder pelo débito condominial, devendo ser respeitada a coisa julgada; (3) o condomínio tinha ciência da arrematação; e (4) o arrematante somente responde por cotas condominiais a partir da imissão na posse.
+Nesse ponto, o Tribunal estadual concluiu que a existência de pronunciamento do Juízo trabalhista na carta de arrematação afastando a responsabilidade do arrematante não teria eficácia perante o condomínio. Confira-se:
+No mais, pronunciamentos de natureza incidental nos autos do processo trabalhista, mesmo que constante da carta de arrematação (cf. pág. 46), não possuem a eficácia almejada pela parte embargante, até mesmo por se tratar de relação jurídica processual totalmente diversa da estabelecida nesta demanda, não figurando o condomínio credor como parte daquele processo.
+Na realidade, no processo trabalhista, o embargado apenas informou a existência da dívida condominial, a fim de que houvesse a reserva de valores para saldar parte do valor do débito condominial (págs. 48/49), corroborando-se inclusive o ofício encaminhado àquele juízo (pág. 54) (e-STJ, fls. 180/181).
+Com efeito, a jurisprudência do STJ tem entendimento de que o arrematante é responsável pelas cotas condominiais pretéritas quando o edital informa a existência dos débitos.
+Contudo, na hipótese em que a arrematação se dá com a declaração do Poder Judiciário de que o arrematante não seria responsável pelos débitos condominiais, não é possível imputar a este a responsabilidade pelo pagamento das cotas anteriores à alienação. Confiram-se:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL - AÇÃO DE COBRANÇA - ARREMATAÇÃO - DESPESAS CONDOMINIAIS - EXPRESSA PREVISÃO NO EDITAL DE ARREMATAÇÃO - INCIDÊNCIA DA SÚMULA 83/STJ - DECISÃO MONOCRÁTICA NEGANDO SEGUIMENTO AO RECLAMO. IRRESIGNAÇÃO DO AUTOR.
+1. Havendo expressa previsão no edital de praça que os imóveis seriam vendidos livres de quaisquer ônus que antecedessem à venda, impossível imputar ao arrematante a responsabilidade pelo pagamento.
+2. Agravo regimental desprovido.
+(AgRg no REsp n. 1.257.987/RS, relator Ministro MARCO BUZZI, Quarta Turma, j. em 20/10/2015, DJe de 26/10/2015.)
+PROCESSO CIVIL E DIREITO CIVIL. ARREMATAÇÃO. DÉBITO DE CONDOMÍNIO. VENDA JUDICIAL COM A RESSALVA DE NÃO IMPOSIÇÃO AO ADQUIRENTE DOS PAGAMENTOS DE DÉBITOS CONDOMINIAIS. INSURGÊNCIA DO CONDOMÍNIO. DECADÊNCIA. IMPOSSIBILIDADE DE SE REPUTAR TRANSFERIDOS OS DÉBITOS.
+1. A jurisprudência da 2ª Seção apresenta precedentes no sentido da responsabilidade do adquirente pelos débitos de condomínio que oneram o imóvel adquirido. Esse entendimento tem sido estendido às arrematações em juízo.
+2. Na hipótese de omissão do edital quanto à existência de débitos, há precedentes na 3ª Turma que, tanto admitem, como não admitem a transferência ao adquirente dos débitos condominiais.
+3. Se o condomínio, ciente de que a aquisição do imóvel em juízo fora promovida com a ressalva expressa da não transferência do débito condominial, não se insurge tempestivamente, deixando decair seu direito à anulação do negócio jurídico, não pode, depois, reclamar do adquirente o pagamento de seu suposto crédito.
+4. Não se pode onerar a parte que confiou na declaração do Poder Judiciário de não transferência dos débitos, apresentando-lhe, anos depois da compra, uma conta de despesas condominiais em valor equivalente ao que pagou pelo bem, notadamente quando já teria precluido seu direito de invalidar o negócio jurídico, que teve a não transferência dos débitos como uma das causas determinantes.
+5. A jurisprudência que entende pela transferência aos arrematantes de débitos condominiais pode, muitas vezes, inviabilizar a garantia.
+Na hipótese em que tais débitos se acumulem a ponto de equivaler ao valor do imóvel, nenhum licitante terá interesse em arrematar o bem, criando-se uma espiral infinita de crescimento do débito. Melhor solução seria a de admitir a venda desonerada do imóvel e a utilização do produto para abatimento do débito, entregando-se o imóvel a um novo proprietário que não perpetuará a inadimplência.
+6. Recurso especial conhecido e provido.
+(REsp n. 1.299.081/SP, relatora Ministra NANCY ANDRIGHI, Terceira Turma, j. em 18/9/2012, DJe de 27/9/2012.)
+Assim, porque os fundamentos adotados pelo acórdão recorrido estão em dissonância com o entendimento firmado nesta Corte, deve ser ele reformado.
+Dessa forma, incide a Súmula nº 568 do STJ.
+Nessas condições, DOU PROVIMENTO ao recurso especial, a fim de afastar a responsabilidade do arrematante pelas cotas condominiais anteriores à alienação judicial.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE COBRANÇA. CUMPRIMENTO DE SENTENÇA. COTAS CONDOMINIAIS. INCLUSÃO DO ARREMATANTE. VIOLAÇÃO DO ART. 1.022 DO NCPC. INEXISTÊNCIA. COTAS CONDOMINIAIS. RESPONSABILIDADE DO ARREMATANTE. DECLARAÇÃO DO JUDICIÁRIO. DISSONÂNCIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA Nº 568 DO STJ. RECURSO ESPECIAL PROVIDO.
