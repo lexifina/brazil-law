@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto pela FAZENDA NACIONAL, contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado:
+"AGRAVO INSTRUMENTO. EXECUÇÃO FISCAL. PROCESSUAL CIVIL. PIS COFINS. ICMS. VALOR DESTACADO NA NOTA FISCAL.
+1. Cinge-se o objeto da controvérsia à legalidade da exclusão do ICMS da base de cálculo tanto do PIS como da COFINS.
+2. O Plenário do E. Supremo Tribunal Federal (STF), no julgamento do Recurso Extraordinário nº 574.706-PR, com repercussão geral reconheceu que o valor arrecadado a título de ICMS não se incorpora ao patrimônio do contribuinte, dessa forma, não pode integrar a base de cálculo para fins de incidência do PIS e da COFINS. Tema nº 69: "O ICMS não compõe a base de cálculo para a incidência do PIS e da COFINS".
+3. O valor do ICMS a ser excluído da base de cálculo do PIS/COFINS é o destacado na nota fiscal, com base na orientação firmada pela Suprema Corte, diante da modulação dos efeitos do julgado.
+4. Agravo de instrumento provido" (fls. 473/474e).
+Opostos Embargos de Declaração por ambas as partes, foram rejeitados os da FAZENDA NACIONAL acolhidos os da parte recorrida , nos termos da seguinte ementa:
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO OU CONTRADIÇÃO EXISTENTE. EXECUÇÃO FISCAL. EXCLUSÃO. ICMS. PIS COFINS. HONORÁRIOS ADVOCATÍCIOS.
+1. Existindo no acórdão embargado omissão ou contradição a serem sanadas, acolhem-se os embargos opostos sob tais fundamentos.
+2. Deixou o v. acórdão de condenar a União Federal no pagamento de honorários advocatícios.
+3. É bem de ver a fixação de honorários advocatícios é cabível em exceção de pré-executividade, inclusive na hipótese em que acolhida parcialmente, na medida em que, para invocá-la, a parte empreendeu contratação de profissional, tal entendimento encontra-se sedimentado no E. Superior Tribunal de Justiça.
+4. Em face do princípio da sucumbência a União Federal deve ser condenada ao pagamento dos honorários de sucumbência em 10% sobre o valor excluído da execução fiscal de origem, nos termos do art. 85, §3º, I, do CPC, com observância do §5º do mesmo dispositivo legal.
+5. Embargos da União Federal rejeitados.
+6. Embargos da executada acolhidos" (fl. 552e).
+Nas razões do seu Recurso Especial, interposto pela alínea a do permissivo constitucional, a parte ora agravante aponta violação aos arts. 320, 321, 330, IV, 373, I, 434, 485, § 3º, 489, § 1º, IV e V, e 1.022, II, 525, § 13, 803, 926, 927, 1.030, III, ambos do CPC/2015, e 27 da Lei 9.868/99.
+Sustenta, em suma, que:
+(i) "O acórdão é omisso quanto à necessidade de dilação probatória no presente caso (TEMA 104STJ/Súmula 323), além da correta aplicação do Tema 69, caso julgado sob regime de repetitividade, precedente de observância obrigatória" (fl. 573e);
+(ii) "não há prova documental preexistente que comprove inequivocamente o suposto excesso de execução. Não houve a indicação do valor que se julga excessivo. Tampouco se juntou as notas fiscais com os valores do ICMS que supostamente teriam sido incluídos nas bases de cálculo do PIS e da COFINS" (fl. 576e);
+(iii) "a dívida, revestida de todos os elementos exigidos pela lei, tem a eficácia de prova pré-constituída e goza da presunção de liquidez e certeza, conforme disposto nos artigos 204, CTN e 3º da Lei nº 6.830/80. Para insurgir-se contra a pretensão fazendária por meio de exceção de pré-executividade, deve o contribuinte apresentar de plano prova inequívoca que baste por si só para afastar aquela presunção legal, o que, na espécie, não ocorreu" (fls. 576/577e);
+Por fim, aduz, ainda que (a) "aqueles que ajuizaram ação até 15/03/2017 poderão usufruir dos efeitos da decisão do Supremo Tribunal Federal desde a data do seu respectivo ajuizamento, alcançando-se os fatos geradores anteriores a cinco anos e todos aqueles que se verificaram no transcorrer da ação judicial, até os dias atuais" (fl. 591e); (b) "os períodos de apuração dos débitos em cobrança são anteriores a 15/03/2017 e a impugnação apresentada é posterior a esta data (exceção foi apresentada em 12/09/2018). Logo, é aplicável a modulação dos efeitos da decisão para ter por hígidas as CDAs em cobrança, eis que devidamente lançadas em momento anterior à declaração de inconstitucionalidade" (fl. 594e).
+A irresignação não merece prosperar.
+De início, em relação aos arts. 1.022, II, e parágrafo único, II, c/c 489, § 1º, V, ambos do CPC/2015, deve-se ressaltar que o acórdão recorrido não incorreu em qualquer vício, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente.
+Vale ressaltar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, REsp 1.666.265/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 21/03/2018; REsp 1.667.456/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 18/12/2017.
+De outra parte, observa-se que o Tribunal de origem decidiu a controvérsia, consoante a seguinte fundamentação:
+"Como é bem de ver, o Plenário do E. Supremo Tribunal Federal (STF), no julgamento do Recurso Extraordinário nº 574.706-PR, com repercussão geral reconheceu que o valor arrecadado a título de ICMS não se incorpora ao patrimônio do contribuinte, dessa forma, não pode integrar a base de cálculo para fins de incidência do PIS e da COFINS.
+Tema nº 69: "O ICMS não compõe a base de cálculo para a incidência do PIS e da COFINS".
+Necessário destacar que, no julgamento dos embargos de declaração, opostos pela União Federal no referido RE 574.706/PR, a decisão restou assim consolidada, verbis:
+(..)
+Desse modo, diante da modulação dos efeitos do julgado, fixou-se o entendimento de que o ICMS a ser excluído da base de cálculo do PIS/COFINS é o destacado na nota fiscal.
+Assim, para o fim de levantamento dos valores depositados nos autos, deve ser considerado que a agravante tem o direito de excluir da base de cálculo do PIS e da COFINS o valor integral do ICMS destacado nas notas fiscais de saída das mercadorias do seu estabelecimento, inclusive após o advento da Lei nº 12.973/2014.
+A decisão de acolhimento parcial dos embargos de declaração pelo Pleno do STF, que modulou os efeitos do julgado e atribuiu efeitos prospectivos às ações judiciais e administrativas protocoladas após a data em que julgado o RE nº 574.706/PR (após 15 de março de 2017) e fixada a tese com repercussão geral, só se aplica à repetição de indébito, não alcançando os executivos fiscais" (fls. 485/486e).
+Assim, é de ser ver que a controvérsia ora trazida foi dirimida, pelo Tribunal de origem, sob enfoque eminentemente constitucional, competindo ao Supremo Tribunal Federal eventual reforma do acórdão recorrido, sob pena de usurpação de competência inserta no art. 102 da Constituição Federal.
+Dessa forma, é inviável o exame da insurgência, tal como posta, em sede de Recurso Especial, que se restringe à uniformização da legislação infraconstitucional. Ilustrativamente:
+"PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTADUAL. REAJUSTE DE VANTAGEM PESSOAL INCORPORADA JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO ESTRITAMENTE CONSTITUCIONAL. INVIABILIDADE DO APELO NOBRE.
+1. Não ocorre julgamento extra petita quando o juiz aplica o direito ao caso concreto com base em fundamentos diversos dos apresentados pela parte. Não há falar, assim, em violação dos arts. 128 e 460 do CPC/1973.
+2. O Tribunal de origem decidiu a controvérsia à luz de fundamento eminentemente constitucional (art. 37, XIII, da Constituição Federal), circunstância que torna inviável o exame da matéria em sede de recurso especial.
+3. Agravo interno não provido" (STJ, AgInt no REsp 1.478.367/CE, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 14/03/2018).
+Ante o exposto, com fundamento no art. 255, § 4º, I e II, do RISTJ, conheço em parte do Recurso Especial e, nessa extensão, nego-lhe provimento.
+I.
