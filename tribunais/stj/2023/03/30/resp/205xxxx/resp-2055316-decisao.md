@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto pelo MUNICÍPIO DE DOIS IRMÃOS DO TOCANTINS, contra acórdão do Tribunal de Justiça do Estado do Tocantins, assim ementado:
+"EMENTA: AGRAVO DE INSTRUMENTO. AÇÃO DE DESAPROPRIAÇÃO. HONORÁRIOS PERICIAIS. PERÍCIA DETERMINADA DE OFÍCIO. ÔNUS DO EXPROPRIANTE. RECURSO NÃO PROVIDO.
+1. Nos casos de perícia determinada de ofício, dispõe o art. 95, caput, do CPC que os honorários periciais devem ser rateados entre as partes. Sucede que, no caso dos autos de origem, que trata de ação de desapropriação, a jurisprudência tem sido firme no sentido de que incumbe ao expropriante a produção da prova pericial. Precedentes.
+2. Recurso conhecido e não provido" (fl. 655e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a e c, da Constituição Federal, a parte recorrente apontou, além do dissídio jurisprudencial, violação ao art. 95, §3º, do CPC/2015, sustentando que, sendo o caso de ação de indenização por desapropriação indireta, deve ser afastada "a condenação do Município ao pagame nto de honorários periciais, uma vez que esta  a perícia  foi solicitada pelo expropriante da ação, conforme dispõe o artigo 95 do Código de Processo Civil, bem como a própria disposição do item 1 do acórdão contido no evento 33" (fl. 677e). Defende, em síntese, que, em ação de desapropriação indireta, quem ocupa a figura de expropriante é o particular, razão pela qual deve arcar com o ônus da prova pericial individualmente.
+O Recurso Especial foi admitido pelo Tribunal de origem (fls. 708/711e).
+A pretensão merece prosperar, mas apenas em parte.
+O ponto controvertido diz respeito à responsabilidade pelo adiantamento dos honorários periciais, em caso de ação de indenização por desapropriação indireta.
+O Tribunal de Justiça do Estado do Tocantins afirmou que, por se tratar de prova pericial determinada de ofício em sede de ação de desapropriação indireta, cabe ao Município antecipar os honorários periciais. Confira-se:
+"Primeiramente, cumpre ressaltar que a perícia, no caso dos autos, foi determinada de ofício, em razão do acórdão proferido na Apelação Cível nº0013656-70.2018.8.27.0000/TO.
+Nos casos de perícia determinada de ofício, dispõe o art. 95, caput, do CPC que os honorários periciais devem ser rateados entre as partes. Sucede que, no caso dos autos de origem, que trata de ação de desapropriação, a jurisprudência tem sido firme no sentido de que incumbe ao expropriante a produção da prova pericial. Nesse sentido:
+(..)" (fls. 647/685e).
+O acórdão local, contudo, está em desarmonia com a jurisprudência desta Corte de Justiça, firme no sentido de que o art. 95 do CPC/2015 também se aplica às ações de desapropriação indireta. Nesse sentido:
+"ADMINISTRATIVO E PROCESSUAL CIVIL. DESAPROPRIAÇÃO INDIRETA. HONORÁRIOS PERICIAIS. ÔNUS PECUNIÁRIO. PARTE QUE REQUER. ARTS. 82 E 95 DO CPC. PRECEDENTES DO STJ.
+1. Cuida-se de inconformismo com acórdão do Tribunal de origem que não atribuiu ao autor da ação de desapropriação indireta o ônus sobre o adiantamento dos honorários periciais.
+2. De acordo com o disposto nos arts. 82 e 95 do CPC, cabe à parte que requereu a produção de prova pericial adiantar o pagamento da remuneração do profissional, ou ao autor quando requerida por ambas as partes ou determinada de ofício pelo juiz. (AgRg no REsp 1.478.715/AM, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 26/11/2014).
+3. Na ação de desapropriação indireta, o ônus do adiantamento dos honorários periciais compete a quem requereu a prova ou ao autor, no caso de requerimento de ambas as partes (REsp 1.363.653/SC, Rel. Ministro Og Fernandes, Segunda Turma, DJe 26/2/2018). No mesmo sentido: REsp 1.343.375/BA. Rel. Min. Eliana Calmon, Segunda Turma, DJe 17/9/2013; AgRg no REsp 1.253.727/MG, Rel. Min. Arnaldo Esteves, Primeira Turma, DJe 15/9/2011; AgRg no REsp 1.165.346/MT, Rel. Ministro Humberto Martins, Segunda Turma, DJe 27/10/2010; REsp 948.351/RS, Rel. Ministro Luiz Fux, Rel. p Acórdão Min. Teori Albino Zavascki, Primeira Turma, DJe 29/62009.
+4. O fato de o ICMBio ter cumprido a decisão judicial que determinou à autarquia que antecipasse o pagamento dos honorários periciais, não tem o condão de acarretar a perda superveniente do objeto recursal.
+5. Recurso Especial provido" (REsp n. 1.823.835/ES, relator Ministro Herman Benjamin, DJe de 5/11/2019).
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou parcial provimento ao Recurso Especial, a fim de determinar que seja observado o teor do art. 95, caput, do CPC/2015.
+I.
