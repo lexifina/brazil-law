@@ -1,0 +1,48 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/15) interposto por FUNDAÇÃO CORSAN DOS FUNCIONÁRIOS DA COMPANHIA RIOGRANDENSE DE SANEAMENTO CORSAN, em face de decisão que não admitiu recurso especial da ora insurgente.
+O apelo extremo, fundado na alínea "a" do permissivo constitucional, desafia acórdão de fls. 275-280, e-STJ, proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fl. 279-280, e-STJ):
+APELAÇÃO. DIREITO PRIVADO NÃO ESPECIFICADO. AÇÃO REVISIONAL. EMPRÉSTIMOS FIRMADOS COM ENTIDADE FECHADA DE PREVIDÊNCIA COMPLEMENTAR. PRESCRIÇÃO DECENAL.
+Em se tratando de ação revisional de contrato de empréstimo, aplica-se o prazo prescricional de 10 anos, previsto no art. 205 do CC, pois fundada em direito pessoal. Ante a ocorrência de renovação sucessiva das dívidas, não há falar em prescrição.
+JUROS REMUNERATÓRIOS. ABUSIVIDADE. VERIFICADA.
+As atividades prestadas pelas entidades privadas de previdência complementar não podem ser equiparadas às instituições financeiras, sujeitando-se, por conseguinte, às disposições que regem os contratos celebrados com o mercado financeiro e à limitação da taxa de juros de 1% ao mês, equivalente a 12% ao ano. No caso, os juros foram pactuados entre 1,1% e 1,5% ao mês, ou seja, acima do limite imposto pela legislação, inexistindo dúvida a respeito da abusividade.
+CAPITALIZAÇÃO DE JUROS. AFASTAMENTO.
+Não é permitida sua cobrança em periodicidade inferior a anual, ainda que prevista deforma expressa, uma vez que as entidades privadas de previdência complementar deixaram de ser equiparadas às instituições financeiras, com o advento da Lei Complementar nº 109/2001.
+TAXA DE ADMINISTRAÇÃO. MANTIDA.
+A cláusula contratual é clara ao dispor que a taxa incide sobre o valor emprestado, oque efetivamente ocorreu, não se confundindo com a quantia creditada na conta do mutuário.
+REPETIÇÃO DO INDÉBITO.
+Deferida a revisão dos contratos, mostra-se viável a compensação e a repetição do indébito na forma simples, após o expurgo dos encargos abusivos e apuração do saldo final, nos termos do art. 42, parágrafo único, do CDC.
+SUCUMBÊNCIA. REDISTRIBUÍDA.
+Ante o novo alcance do julgamento e o decaimento mínimo do autor, cabe à demandada arcar com a integralidade do ônus sucumbencial.
+RECURSO PARCIALMENTE PROVIDO.
+Os embargos declaratórios opostos foram rejeitados (fls. 299-302, e-STJ).
+Nas razões do recurso especial (fls. 309-320, e-STJ), a insurgente apontou violação ao artigo 1.022, II, do CPC, argumentando a ausência de manifestação acerca da aplicabilidade da Resolução nº 3.792/2009/BACEN e dos dispositivos da LC nº 109/2001; ausência de comprovação autoral acerca da alegada capitalização dos juros remuneratórios.
+Não houve contrar razões.
+Em juízo de admissibilidade, o Tribunal de origem negou seguimento ao reclamo (fls. 329-335, e-STJ), dando ensejo na interposição do presente agravo (fls. 343-350, e-STJ), visando destrancar aquela insurgência.
+Não houve contraminuta.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. Cinge-se a controvérsia acerca da alegada vulneração ao artigo 1.022, II, do CPC, ao argumento da ausência de manifestação acerca da aplicabilidade da Resolução nº 3.792/2009/BACEN e dos dispositivos da LC nº 109/2001; ausência de comprovação autoral acerca da alegada capitalização dos juros remuneratórios.
+Acerca das citadas controvérsias, o Tribunal local assim decidiu (fls. 276-277, e-STJ):
+Quanto aos juros remuneratórios, melhor sorte socorre ao apelante.
+As entidades privadas de previdência complementar não podem ser equiparadas às instituições financeiras, ante a revogação parcial do art. 29 da Lei nº 8.177/91 pela Lei Complementar nº 109/2001.
+Logo, as atividades destes entes não se sujeitam às disposições que regem os contratos celebrados com o mercado financeiro, devendo-se observar os limites conferidos às relações civis pelo art. 406 do CC combinado com o art. 161, § 1º, do CTN, bem como pela Lei de Usura (Decreto nº 22.626/33), que veda a cobrança de juros superiores a 12% ao ano.
+Por conseguinte, como se trata de uma pessoa jurídica desprovida de fins lucrativos, consoante evidencia o Estatuto da Fundação CORSAN (evento 21, Estatuto 2), não há falar em livre pactuação da taxa de juros para a espécie e a adoção da taxa média de juros divulgada pela BACEN como parâmetro para a aferição de eventual abusividade.
+No caso, o exame dos empréstimos firmados pelas partes entre 2012 e 2018 evidencia a contratação de juros remuneratórios que variam de 1,1% a 1,5% ao mês (evento 1, contrato 5), ou seja, acima do limite imposto pela legislação, inexistindo dúvida a respeito da abusividade.
+A respeito do tema, colaciono precedente desta Câmara:
+ ..
+Em relação à capitalização dos juros, não é permitida sua cobrança em periodicidade inferior a anual, ainda que prevista de forma expressa, pois, como visto, as entidades privadas de previdência complementar deixaram de ser equiparadas às instituições financeiras, com o advento da Lei Complementar nº 109/2001.
+Nesse sentido, trago à baila precedente do STJ:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO ANULATÓRIA DE CLÁUSULAS CONTRATUAIS C/C REPETIÇÃO DE INDÉBITO. EMPRÉSTIMOS CELEBRADOS COM ENTIDADE DE PREVIDÊNCIA PRIVADA FECHADA. CAPITALIZAÇÃO MENSAL DE JUROS. IMPOSSIBILIDADE. DECISÃO MANTIDA. RECURSO DESPROVIDO.  ..  2. Por não ser equiparada a instituição financeira, a entidade fechada de previdência privada não pode cobrar capitalização mensal de juros de seus mutuários, na forma da Medida Provisória nº 1.963/2000, reeditada sob o nº 2.170-01/2001, só admissível para as entidades abertas. 3. Agravo interno não provido. (AgInt nos EDcl no AgInt no AREsp 952.395/DF, Rel. Ministro LÁZARO GUIMARÃES(DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 23/08/2018, DJe 29/08/2018). (grifei)
+Como bem destacou a Desembargadora Deborah Coleto Assumpção de Moraes, no julgamento da apelação nº 70080845431, a atividade principal das entidades privadas de previdência complementar é a proteção previdenciária, e não de promover o fomento de acesso ao crédito; por isso, cabível o afastamento de eventual capitalização dos juros remuneratórios.
+No ponto, o aresto vergastado concluiu: i) que entidades privadas de previdência complementar não podem ser equiparadas às instituições financeiras, ante a revogação parcial do art. 29 da Lei nº 8.177/91 pela Lei Complementar nº 109/2001; ii) pela impossibilidade de a recorrente realizar livre pactuação da taxa de juros para a espécie e a adoção da taxa média de juros divulgada pela BACEN como parâmetro para a aferição de eventual abusividade; iii) pela vedação da capitalização de juros em periodicidade inferior a anual, ainda que prevista de forma expressa pela recorrente.
+Não se vislumbra, dessa forma, a alegada omissão, pois o órgão julgador dirimiu a controvérsia de forma ampla e fundamentada, embora não tenha acolhido as pretensões da insurgente.
+Ademais, a orientação desta Corte é no sentido de que o julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, nem a indicar todos os dispositivos legais suscitados, quando tenha encontrado motivação satisfatória para dirimir o litígio, como ocorrera na hipótese.
+Nesse sentido, confira-se:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. 1. OFENSA AO ART. 535 DO CPC. INEXISTÊNCIA.  ..  1. Não há ofensa ao art. 535 do CPC, pois o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tenha encontrado motivação satisfatória para dirimir o litígio.2. O Tribunal de origem por ocasião do julgamento do recurso examinou as questões, embora de forma contrária à pretensão do recorrente, não existindo omissão a ser sanada.  ..  5. Agravo regimental improvido. (AgRg no AREsp 627.146/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 20/10/2015, DJe 29/10/2015)  grifou-se
+PROCESSUAL CIVIL. VIOLAÇÃO AOS ARTS. 535, 826 E 927 DO CPC. OMISSÃO. INEXISTENTE. JULGADO DEVIDAMENTE FUNDAMENTADO. CONCLUSÃO FIRMADA COM BASE NA MATÉRIA FÁTICO-PROBATÓRIA. SÚM. 7/STJ. DISSÍDIO INTERPRETATIVO. NÃO OBEDIÊNCIA AOS TERMOS REGIMENTAIS. REGIMENTAL NÃO PROVIDO. 1. Não se configurou a ofensa ao art. 535 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos aos autos pelas partes. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução. ..  4. Agravo regimental não provido. (AgRg no AREsp 498.536/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 08/09/2015, DJe 16/09/2015)  grifou-se
+Como se vê, não se vislumbra omissão, porquanto o acórdão restou devida e suficientemente fundamentado sobre as questões necessárias ao deslinde da controvérsia, não havendo falar em ofensa aos referidos dispositivos. Na mesma linha, precedentes: AgRg no REsp 1291104/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 17/05/2016, DJe 02/06/2016; AgRg no Ag 1252154/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 23/06/2015, DJe 30/06/2015; REsp 1395221/SP, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 05/09/2013, DJe 17/09/2013.
+Inexiste, portanto, violação ao artigo 1.022 do CPC, visto que a matéria fora apreciada pelo Tribunal de origem, cuja fundamentação foi clara e suficiente para o deslinde da controvérsia.
+2. Do exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+Intimem-se.
