@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de IGOR DA SILVA ESCOBAR apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC n. 2189598-70.2022.826.0000).
+Extrai-se dos autos que o paciente está preso preventivamente desde 31/7/2022 pela suposta prática do delito tipificado no art. 121 do Código Penal.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem, nos termos do aresto acostado às e-STJ fls. 8/13.
+Daí o presente writ, no qual a defesa alega cerceamento de defesa, uma vez que a impetração originária foi julgada em sessão virtual sem prévia intimação, obstando a possibilidade de sustentação oral.
+Invoca o princípio da presunção de inocência e assevera que o paciente agiu em legítima defesa. Aduz ausência dos requisitos autorizadores da custódia cautelar, previstos no art. 312 do Código de Processo Penal. Assevera que o decreto prisional carece de fundamentação idônea.
+Destaca as condições pessoais favoráveis e aduz ser suficiente a aplicação de medidas alternativas ao cárcere.
+Requer, liminarmente e no mérito, a concessão da ordem para que seja revogada a prisão preventiva.
+O pedido liminar foi indeferido.
+Ouvido, o Ministério Público Federal manifestou-se pelo não conhecimento do remédio constitucional.
+É o relatório.
+Decido.
+Acerca do alegado cerceamento de defesa, as informações prestadas pelo Tribunal de Justiça do Estado de São Paulo esclareceram o seguinte:
+Em atenção à solicitação, esclareço que o Habeas Corpus nº 2189598-70.2022.8.26.0000 foi impetrado pela Defesa, nesta Corte, buscando a revogação da prisão preventiva, decorrente de flagrante, ainda que com a aplicação de medidas cautelares alternativas ao cárcere, nos autos da Ação Penal nº 1501052-80.2022.8.26.0617, da Vara do Júri e das Execuções Criminais da Comarca de São José dos Campos, na qual o ora paciente foi denunciado, juntamente com outro corréu, por infração ao art. 121, § 2º, II, do Código Penal.
+Por publicação disponibilizada no Diário da Justiça Eletrônico em 17 de agosto de 2022, as partes foram intimadas para manifestarem-se acerca de eventual oposição ao julgamento virtual, nos termos do art. 1º, da Resolução nº 549/2011, com redação estabelecida pela Resolução nº 772/2017, ambas do Órgão Especial deste Tribunal, tendo o causídico concordado com referido julgamento.
+A Décima Segunda Câmara de Direito Criminal, em julgamento virtual finalizado aos 06 de outubro último, por unanimidade, denegou ordem à impetração.
+Opostos embargos de declaração pelo advogado de Igor, foi o julgamento virtual iniciado em 04 de novembro transato.
+Com efeito, o art. 1.º da Resolução n. 549/2011, de 10 de agosto de 2011, do Tribunal de Justiça de São Paulo, com redação dada pela Resolução n. 772/2017, dispõe que a oposição ao julgamento virtual deve ser realizada por petição "protocolizada no prazo de cinco dias úteis, contados da publicação da distribuição dos autos que, para este específico fim, servirá como intimação". Na espécie, consoante n oticiou o Tribunal de Justiça, o advogado Frediano Jose Momesso Teodoro foi intimado para manifestar eventual oposição ao julgamento virtual do habeas corpus lá impetrado por meio de publicação no DJe de 17 de agosto de 2022, e concordou com o referido julgamento, sem apresentar pedido de sustentação oral.
+Evidente, portanto, a regularidade do julgamento do remédio constitucional.
+Nesse mesmo caminhar:
+HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE DROGAS. APELAÇÃO. JULGAMENTO VIRTUAL. OPOSIÇÃO INTEMPESTIVA. PEDIDO DE SUSTENTAÇÃO ORAL APRESENTADO QUANDO JÁ INICIADO O JULGAMENTO. NULIDADE. NÃO OCORRÊNCIA. ORDEM DE HABEAS CORPUS DENEGADA.
+1. "Nos termos do art. 1.º da Resolução n.º 549/2011, com redação estabelecida pela Resolução n.º 772/2017, ambas do Órgão Especial do Tribunal de Justiça do Estado de São Paulo, a oposição ao julgamento em sessão virtual e o pleito de sustentação oral em audiência deverão ser realizados mediante petição protocolizada no prazo de cinco dias úteis, contados da publicação da distribuição dos autos, que, para este específico fim, servirá como intimação" (HC 462.087/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 17/10/2019, DJe 29/10/2019).
+2. Hipótese em que o patrono do Acusado foi intimado, em 03/12/2019, para se manifestar acerca de eventual oposição ao julgamento por meio de sessão virtual, mas se quedou inerte.
+3. Ademais, não deve ser acolhido o argumento do Impetrante de que a Defesa deveria ter sido intimada acerca da conversão do julgamento presencial em virtual. Ora, como destacado, foi apresentada, com antecedência, oportunidade para a Parte se manifestar a respeito de eventual julgamento virtual, não sobrevindo aos autos, no tempo adequado, oposição nem mesmo pedido para a realização de sustentação oral (vedação ao comportamento contraditório - venire contra factum proprium).
+4. Ordem de habeas corpus denegada. (HC n. 601.242/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, DJe 3/3/2022.)
+ ..  1. Nos termos do art. 1.º da Resolução n.º 549/2011, com redação estabelecida pela Resolução n.º 772/2017, ambas do Órgão Especial do Tribunal de Justiça do Estado de São Paulo, a oposição ao julgamento em sessão virtual e o pleito de sustentação oral em audiência deverão ser realizados mediante petição protocolizada no prazo de cinco dias úteis, contados da publicação da distribuição dos autos, que, para este específico fim, servirá como intimação. Desse forma, consoante decidido pela instância ordinária, a manifestação defensiva de oposição ao julgamento virtual foi intempestiva, não havendo se falar em nulidade do julgamento (HC 462.087/SP, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 17/10/2019, DJe 29/10/2019).
+2. No presente caso, os autos foram conclusos ao gabinete do Relator em 6/9/2019 e, desde essa data até o início do julgamento virtual (em 4/5/2020), não houve qualquer manifestação da defesa, sendo protocolizada urna petição, requerendo a sustentação oral somente em 6/5/2020, na data em que o julgamento virtual foi finalizado, não podendo se falar em nulidade.
+ ..  8. Agravo regimental não provido. (AgRg no REsp 1.915.434/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 19/04/2021.)
+Prossigo para assinalar que o pedido de revogação da prisão preventiva encontra-se prejudicado.
+Com efeito, em 28 de fevereiro de 2023, o M agistrado singular concedeu ao réu liberdade provisória mediante a imposição de medidas cautelares diversas da prisão, nos termos do art. 319 do Código de Processo Penal.
+No pormenor, portanto, nada mais há a ser apreciado.
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
