@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por DOM BOSCO CONSTRUTORA E PRE MOLDADOS DE CONCRETO LTDA. (DOM BOSCO) contra decisão que negou seguimento ao seu apelo nobre.
+Não foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alínea a, da Constituição Federal, DOM BOSCO alegou a violação dos arts. 1.022, I, 489, §1º, VI, 507, 508 do CPC, ao sustentar que (1) o acórdão recorrido foi omisso ao não apreciar a questão de inadequação dos cálculos do recorrido, BANCO DO BRASIL S/A (BANCO) ao teor do que dispõe a sentença transitada em julgado; (2) houve violação à coisa julgada, pois os cálculos apresentados pelo BANCO exequente estão em dissonância com a sentença que determinou a incidência de juros moratórios de 1% ao ano, afastamento da comissão de permanência no período de inadimplência em ambas as cédulas de crédito comercial e, na de nº 97/00155-4, a redução da multa moratória para 2%; (3) uma vez acolhida a impugnação ao excesso de execução, ainda que parcialmente, devem ser arbitrados honorários advocatícios em benefício da parte executada, conforme a orientação jurisprudencial firmada no Recurso Especial Repetitivo 1.134.186/RS.
+Da leitura da minuta do agravo de instrumento que deu origem ao presente recurso, pode-se aferir que o recorrido, BANCO DO BRASIL S/A (BANCO) ajuizou ação de execução contra DOM BOSCO, em 10/8/1998, com saldo devedor pendente de R$ 50.482,90, lastreado na Cédula de Crédito Comercial nº 96/00007-4.
+Em Primeira Instância, foi parcialmente acolhida a impugnação apresentada por DOM BOSCO, tão somente para determinar que o BANCO exequente promova a retificação de seus cálculos, devendo juntar planilha de débito com a amortização das nove prestações pagas e correção monetária do saldo devedor pela variação da TJLP.
+(1) Negativa de prestação jurisdicional
+Verifica-se que o Tribunal de Justiça do Estado de Goiás se pronunciou sobre os temas trazidos à baila, motivando adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+Assim, inexistem os vícios elencados no art. 1.022, I do NCPC, sendo forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente, visando rediscutir matéria que já foi analisada.
+A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Sob esse prisma:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. INEXISTÊNCIA DOS VÍCIOS SUSCITADOS.
+1. Consoante a jurisprudência do Superior Tribunal de Justiça, não se reconhece a violação ao art. 1.022, do NCPC, quando há o exame, de forma fundamentada, de todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte.
+2. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza vício do julgado.
+3. O verdadeiro intento dos presentes declaratórios é a obtenção de efeito infringente, pretensão que esbarra na finalidade integrativa do recurso em tela, que não se presta à rediscussão da causa devidamente decidida.
+4. EMBARGOS DE DECLARAÇÃO CONHECIDOS E REJEITADOS.
+(EDcl no AgInt no REsp 1822748 / DF, Rel Ministro PAULO DE TARSO SANSEVERINO, Terceira Turma, j. 24/10/2022 - sem destaques no original).
+Afasta-se, portanto, a alegada violação.
+(2) Violação à coisa julgada
+Ao dirimir a controvérsia, o Tribunal estadual concluiu não ser cabível o acolhimento integral da impugnação ofertada por DOM BOSCO, afastando os argumentos de excesso de execução pelo valor indicado. Confira-se:
+No presente caso, extrai-se dos autos que o excesso de execução em relação a 09 (nove) parcelas pagas, referentes aos meses 02/1996, 03/1997, 04/1997,05/1997,06/1997, 07/1997, 08/1997, 09/1197 e 10/1997. Tal excesso foi devidamente levado em consideração pelo MM. Juiz a quo.
+O contrato entabulado entre as partes prevê que os valores lançados na conta vinculada ao financiamento, bem como o saldo devedor daí decorrente, sujeitam-se à atualização monetária pela variação da Taxa de Juros de Longo Prazo (TJLP), a qual, inclusive, foi utilizada no cálculo do saldo devedor indicado no ajuizamento da ação.
+Assim, não se verifica outros excessos de execução pelo valor indicado.
+Quanto à penhora, verifica-se que se encontra preclusa a oportunidade de insurgir-se contra tal ato constritivo, tão somente, devendo ser observado se a alienação dos bens penhorados será suficiente para adimplir a dívida.
+De outro lado, o equívoco na confecção dos cálculos, pelo agravado/exequente, não a caracteriza litigância de má-fé, porquanto existe saldo devedor, tendo a agravante/ executada movido ação de repetição de indébito (5622595-10.2019.8.09.0051), visando elucidar possível cobrança indevida.
+Verifica-se, portanto, que as instâncias ordinárias, soberanas na análise das provas e dos fatos, consignaram que o cálculo trazido pelo BANCO encontra-se dentro dos critérios estabelecidos pela decisão transitada em julgado, não havendo que se falar em violação à coisa julgada.
+A alteração do entendimento consignado pela c. Câmara julgadora não seria possível sem incursão no acervo fático-probatório enfeixado nos autos. Assim, fica impedida a análise da tese recursal, no sentido de que os juros moratórios estão desconformidade com o título executivo e que não foi observado o afastamento da comissão de permanência e a redução da multa moratória, por expressa vedação contida no enunciado no 07 da súmula do STJ.
+Nesse sentido, a jurisprudência do STJ firmou entendimento de: não ser possível, em recurso especial, rever o posicionamento adotado pelo Tribunal de origem quanto ao teor do título em execução, a fim de verificar-se possível ofensa à coisa julgada, aplicando o enunciado da Súmula 7/STJ" (AgInt no AREsp n. 770.444/RS, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 15/3/2019).
+(3) Possibilidade de arbitramento de honorários advocatícios
+Sobre o tema, o Tribunal goiano assim se manifestou:
+De igual modo, incomportável o arbitramento de honorários, pois não se tratam de embargos à execução ou exceção de pré-executividade, sendo acolhida a insurgência tão somente para que sejam observados os parâmetros monetários corretos.
+Apesar de DOM BOSCO defender a aplicação da orientação firmada em sede de recurso repetitivo, no sentido de que no caso de acolhimento da impugnação, ainda que parcial, serão arbitrados honorários em benefício do executado, com base no art. 20, § 4º, do CPC (REsp 1.134.186, Rel. Min. Luis Felipe Salomão, DJe 21.10.2011), a aplicação do precedente vinculante não se aplica ao caso em comento, por decorrência lógica da aplicação da técnica do "distinguishing", introduzida em nosso ordenamento processual quando da reforma do Código de Processo Civil em 2015 (art. 489, §1º, VI).
+De fato, a situação fático-jurídica examinada apresenta peculiaridades que devem ser levadas em consideração. Senão vejamos.
+Conforme supramencionado, trata-se de execução por quantia certa ajuizada em 10/8/1998, em que DOM BOSCO apresentou defesa por meio de embargos à execução, além de promover ação declaratória contra o BANCO. Houve uma sentença única julgando os embargos à execução e a ação declaratória, a qual foi reformada pelo Tribunal de Justiça de Goiás, em sede de apelação, transitando em julgado em 29 de outubro de 2014.
+Assim, a presente execução já foi depurada por meio de sucessivos meios de defesa, de modo que não cabem mais honorários advocatícios apenas pela acolhida da insurgência apresentada por DOM BOSCO, para que sejam observados os parâmetros de atos judiciais já transitados em julgado.
+Nessas condições, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso.
+Deixo de majorar os honorários nos termos do artigo 85, § 11 do Código de Processo Civil, tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento que ataca decisão interlocutória na qual não houve prévia de fixação de honorários.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE EXECUÇÃO. IMPUGNAÇÃO ALEGANDO EXCESSO DE EXECUÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. VIOLAÇÃO À COISA JULGADA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7 DO STJ. HONORÁRIOS ADVOCATÍCIOS. NÃO CABIMENTO. "DISTINGUISHING". PECULIARIDADES DO CASO. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO.
