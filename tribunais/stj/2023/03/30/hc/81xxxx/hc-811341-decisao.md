@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de Nicolas Henrique Ribeiro de Souza, autuado em flagrante em 12/3/2023, pela prática, em tese, do crime de tráfico de drogas (21,1 g de maconha, 29,7 g de cocaína e 26,7 g de crack - fl. 39).
+Ataca-se o acórdão proferido pelo Tribunal de Justiça de São Paulo no HC n. 2055203-10.2023.8.26.0000 (fls. 18/21), que manteve a conversão da prisão em flagrante do paciente em preventiva, nos Autos n. 1500575-76.2023.8.26.0567 (fls. 22/23), da Vara Criminal da comarca de Votorantim/SP.
+Alega-se constrangimento ilegal consistente em deficiência de fundamentação do decreto preventivo e requer-se, então, a concessão da ordem, inclusive em caráter liminar, a fim de que o paciente seja posto em liberdade.
+É o relatório.
+A pretensão mandamental deve ser acolhida, uma vez que o decreto preventivo não demonstrou o receio de perigo gerado pelo estado de liberdade do imputado:
+a) à ordem pública, apenas assinalando a gravidade abstrata do delito - a sociedade se vê constantemente atormentada pela prática de fatos como o presente, ensejadores de crimes patrimoniais, de desestabilização familiar e de violência, em termos gerais (fl. 23) - e que a quantidade de droga apreendida e sua forma de acondicionamento, bem como as circunstâncias de local e horário da prisão indicam dedicação habitual e organizada ao comércio ilícito de entorpecentes, tudo a afastar, à primeira vista, o possível reconhecimento da figura privilegiada (fl. 22); ou
+b) à futura aplicação da lei penal, assentando que não há nos autos indicativos seguros da vinculação ao distrito da culpa. Não há, ainda, comprovante de ocupação lícita, tampouco de domicílio certo (fl. 22).
+Nesse sentido: o decreto de prisão preventiva é genérico, nele não havendo nenhuma menção a fatos que justifiquem a imposição da prisão cautelar. Carece, portanto, de fundamentação concreta, pois se limita a alegar que o agente foi flagrado com certa quantidade e qualidade de drogas e a invocar a gravidade abstrata da conduta atribuída ao agente, elementos ínsitos ao tipo penal em tela e insuficientes para a decretação ou manutenção da prisão preventiva, sob pena de se autorizar odiosa custódia ex lege (HC n. 723.149/PR, Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 10/5/2022, DJe 16/5/2022).
+Ainda: a fundamentação do decreto preventivo trouxe apenas considerações genéricas a respeito do delito, destacando sua perniciosidade, além da ausência de comprovação de residência fixa no distrito da culpa e de ocupação lícita (AgRg no HC n. 735.526/MS, Min istro Olindo Menezes, Desembargador Convocado do TRF 1ª Região, Sexta Turma, julgado em 14/6/2022, DJe 20/6/2022).
+Em razão disso, concedo liminarmente a ordem impetrada para revogar a prisão preventiva imposta ao paciente nos Autos n. 1500575-76.2023.8.26.0567, da Vara Criminal da comarca de Votorantim/SP.
+Intime-se o Ministério Público estadual.
+Publi que-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS (21,1 G DE MACONHA, 29,7 G DE COCAÍNA E 26,7 G DE CRACK). PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. PERNICIOSIDADE SOCIAL, AUSÊNCIA DE COMPROVAÇÃO DE RESIDÊNCIA FIXA E DE ATIVIDADE LÍCITA. FUNDAMENTOS INSUFICIENTES. REVOGAÇÃO QUE SE IMPÕE.
+Ordem liminarmente concedida nos termos do dispositivo.
