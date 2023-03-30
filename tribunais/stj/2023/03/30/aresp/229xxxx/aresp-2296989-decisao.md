@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de agravo apresentado por CLODOALDO DOS SANTOS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+Acidente do Trabalho - Operador de máquinas Acidente típico Fratura do segundo quirodáctilo esquerdo Benefício acidentário Desnecessidade de reabertura da instrução processual para realização de nova perícia médica Preliminar afastada Perícia médica renovada em segundo grau não combatida por prova técnico-científica Ausência de incapacidade laborativa Sentença de procedência reformada Recursos autárquico e oficial providos para decretar a improcedência da demanda (fl. 206).
+Quanto à controvérsia recursal, pela alínea "a" do permissivo constitucional, alega violação dos arts. 156 e 464 do CPC e arts. 19, 20, 21 e 86 da Lei nº 8.213/91, no que concerne à imprescindibilidade de realização de terceira perícia judicial, com fundamento na existência de questão de natureza técnica a ser dirimida, e traz os seguintes argumentos:
+No caso em tela houve clara negativa de vigência ao preceituado nos artigos 156 e 464 do Código de Processo Civil e nos artigos 19, 20, 21 e 86 da Lei 8.213/91.
+ ..
+Isto porque em 1ª Instância foi realizado exame pericial pelo Dr. Luciano Ribeiro Arabe Abdanur que concluiu que o Recorrente possui fratura do indicador esquerdo decorrente de acidente de trabalho que causam redução da capacidade laborativa. Todavia, em 2ª Instância, o I. Desembargador entendeu necessária a realização de nova perícia médica, a qual o Perito, Dr. Gilberto de Castro Brandão, afirmou que o Recorrente não apresenta incapacidade para o trabalho.
+ ..
+Como se vê, são conclusões tão díspares que, data vênia, não permitiam a escolha da última perícia produzida nesta demanda, feita pelo D. Juiz Relator, inteiramente prejudicial o Recorrente.
+A nomeação de terceiro perito era absolutamente imprescindível ao deslinde da questão e nesse ponto, foi negada vigência aos artigos 156 e 464 do Código de Processo Civil que exigem a nomeação de perito quando há questão de natureza técnica a ser dirimida.
+Com a devida venia, a prolação do V. Acórdão entendendo que não há incapacidade laborativa, portanto insuscetível de ressarcimento infortunístico, nega vigência ao disposto nos artigos 19, 20, 21 e 86 da Lei 8.213/91 e aos artigos 156 e 464 do Código de Processo Civil.
+ ..
+Ora, o laudo pericial está incompleto e não contém a análise clínica realizada na Recorrente, pois o I. Perito, Dr. Gilberto de Castro Brandão, não fez análise específica do caso em tela.
+Ao contrário do inócuo laudo de fls. 161/165, o Perito Dr. Luciano Ribeiro Arabe Abdanur realizou manobras e analisou o histórico ocupacional do Recorrente, apresentando laudo completo e coerente com a realidade dos fatos.
+ ..
+Com a devida venia, não é possível admitir que seja reputado como válido pronunciamento judicial no qual o magistrado ignora inteiramente as conclusões de um laudo técnico favorável ao Recorrente e acata outro laudo técnico desfavorável, sem qualquer questionamento sobre a disparidade entre as duas conclusões (fls. 215- 218).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Inicialmente, entendo desnecessária a conversão do julgamento em diligência para realização de nova perícia médica, uma vez que o laudo médico produzido por experto de confiança deste Corte foi bem elaborado, tendo ele analisado com acuidade as moléstias alegadas na inicial.
+Registre-se que o perito apresentou trabalho circunstanciado de forma regular e dentro das normas vigentes, apto a garantir conhecimento seguro das questões pertinentes à solução da demanda, merecendo total credibilidade.
+Desse modo, conclui-se que o laudo médico pericial renovado em segundo grau, acrescido dos exames subsidiários e demais provas apresentadas, possibilitou um claro conhecimento acerca da configuração ou não dos requisitos que autorizam a concessão do benefício acidentário.
+Vale lembrar que, em observância aos artigos 370, parágrafo único, e 371 do CPC, e aos princípios processuais da celeridade e da economia processual, não há justificativa plausível para respaldar os pedidos do autor, com a renovação da prova pericial, devendo subsistir a perícia realizada (fl.206, grifo meu)..
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
