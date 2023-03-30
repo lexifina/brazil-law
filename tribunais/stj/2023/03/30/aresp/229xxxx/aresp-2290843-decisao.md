@@ -1,0 +1,11 @@
+DECISÃO
+Cuida-se de agravo apresentado por PARAÍBA PREVIDÊNCIA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA, assim resumido:
+APELAÇÃO CÍVEL. ANUÊNIO. PRESCRIÇÃO INEXISTENTE. PRESTAÇÃO DE TRATO SUCESSIVO. POSSIBILIDADE DE JULGAMENTO PELO TRIBUNAL. ORDINÁRIA DE REVISÃO DE PROVENTOS. CONGELAMENTO DE ANUÊNIOS DE MILITARES ATRAVÉS DA LC  50/2003. CATEGORIA ESPECIAL REGIDA POR ESTATUTO PRÓPRIO. MP  185/12. ABRANGÊNCIA DOS MILITARES À MESMA FORMA DE PAGAMENTO DO ADICIONAL DOS SERVIDORES CIMS. IMPOSSIBILIDADE. MATÉRIA DECIDIDA POR INCIDENTE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA NO TJPB. PROVIMENTO DO RECURSO
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 2º da Lei Complementar Estadual nº 50/03, no que concerne à abrangência do dispositivo apontado a todos os servidores públicos, inclusive os servidores militares, razão pela qual não podem ter seus benefícios revisados de maneira privilegiada em detrimento dos servidores civis.
+É, no essencial, o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 280/STF, aqui aplicada por analogia, uma vez que não é cabível a interposição de recurso especial alegando ofensa ou interpretação divergente de dispositivo de lei estadual ou municipal.
+Nesse sentido: "Incabível, na estreita via do recurso especial, examinar violação de direito local, por incidência da Súmula 280/STF". (AgRg no AREsp 1.539.944/PR, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 23/6/2020.)
+Confiram-se ainda os seguintes precedentes: REsp 1.854.792/RJ, relator Ministro Francisco Falcão, Segunda Turma, DJe de 9/6/2020; REsp 1.810.850/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/9/2019; AgInt no REsp 1.583.153/MG, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 10/5/2019; AgInt no AREsp 1.264.067/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 15/10/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
