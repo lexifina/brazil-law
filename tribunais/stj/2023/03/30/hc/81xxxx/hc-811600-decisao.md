@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em causa própria por MARIA APARECIDA NETO apontando como autoridade coatora o Tribunal Regional Federal da 3ª Região.
+No presente writ, relata a defesa que a paciente foi condenada pelo crime de estelionato. No entanto, na distribuição de seu recurso de apelação na Corte Regional não foi observada a prevenção do Relator Desembargador Cotrim Guimarães, responsável pelo julgamento dos feitos da Operação Ócio..
+Requer, portanto, a anulação do processo n. 0003307-17.2012.4.03.6112, com a remessa de seu recurso ao Desembargador Cotrim Guimarães ou o Desembargador Maurício Kato.
+É o relatório. Decido.
+De início, observa-se que o tema objeto da presente impetração - incompetência do Relator da apelação para processar e julgar o recurso defensivo da paciente - não foi objeto de análise na Corte de origem, o que impede este Superior Tribunal de Justiça de examinar a matéria, sob pena de indevida supressão de instância.
+Como cediço, "não compete a esta Corte, em habeas corpus interposto contra acórdão de apelação, conhecer matéria não decidida previamente pela instância de origem, sob pena de indevida supressão de instância." (AgRg no HC n. 764.710/SP, relator Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 19/12/2022, DJe de 21/12/2022.)
+No mesmo sentido, é entendimento da Corte Maior que "o exaurimento da instância recorrida é, como regra, pressuposto para ensejar a competência do Supremo Tribunal Federal, conforme vem sendo reiteradamente proclamado por esta Corte (HC 129.142, Rel. Ministro MARCO AURÉLIO, Rel. p/ Acórdão Ministro ALEXANDRE DE MORAES Primeira Turma, DJe de 10/8/2017; RHC 111.935, Rel. Ministro LUIZ FUX, Primeira Turma, DJe de 30/9/2013; HC 97.009, Rel. p/ Acórdão: Ministro TEORI ZAVASCKI, Tribunal Pleno, DJe de 4/4/2014; HC 118.189, Rel. Ministro RICARDO LEWANDOWSKI, Segunda Turma, DJe de 24/4/2014)." (HC n. 179.085, Relator Ministro MARCO AURÉLIO, Relator para o Acórdão Ministro ALEXANDRE DE MORAES, Primeira Turma, julgado em 5/8/2020, DJe 25/ 9/2020).
+Ante o exposto, indefiro liminarmente o presente habeas corpus.
+Intimem-se.
