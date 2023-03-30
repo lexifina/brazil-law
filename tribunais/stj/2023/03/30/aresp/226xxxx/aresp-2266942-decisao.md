@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por EPITÁCIO RIBAS DA ROSA, contra decisão interlocutória que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 22/11/2022.
+Concluso ao gabinete em: 24/02/2023.
+Ação: de execução de título extrajudicial, ajuizada FERTILIZANTES HERINGER S/A, em face do agravante.
+Sentença: julgou extinta a execução e condenou a agravada ao pagamento de honorários advocatícios fixados em 10% sobre o valor atualizado da causa.
+Destacou a procedência dos embargos à execução e entendeu que não haveria interesse processual para o prosseguimento da execução, em razão da ausência de título executivo, razão pela qual julgou extinta a execução e condenou a agravada ao pagamento das custas processuais e honorários advocatícios fixados em 10% sobre o valor atualizado da causa.
+Acórdão: deu provimento à apelação interposta pelo agravado, para excluir a verba honorária, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL - AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - FEITO EXECUTIVO QUE JÁ HAVIA SIDO EXTINTO EM ACÓRDÃO PROFERIDO PELO TRIBUNAL COM AS COMINAÇÕES SUCUMBENCIAIS CABÍVEIS AO PATRONO DA SUCUMBENTE - SENTENÇA QUE NOVAMENTE EXTINGUIU O FEITO E IMPÔS ÔNUS SUCUMBENCIAIS INCINDINDO E M DUPLICIDADE DE CONDENAÇÃO - IMPOSSIBILIDADE - SENTENÇA CASSADA - RECURSO PROVIDO. Deve ser cassada a sentença que, omitindo-se à extinção do procedimento executivo declarada em acórdão pelo Tribunal, decreta novamente o fim a demanda, nos mesmos termos, inclusive, impondo o pagamento do ônus sucumbencial em duplicidade à parte sucumbente.
+Recurso especial: alega violação do art. 85, §1º e §2º, do CPC/15.
+Sustenta que o acórdão do Tribunal de origem estaria em desacordo com a orientação desta Corte Superior, firmada em sede de recurso repetitivo (Tema 587 do STJ), segundo a qual: "Os embargos do devedor são de conhecimento incidental à execução, razão porque os honorários advocatícios podem ser fixados em cada uma das duas ações".
+É O RELATÓRIO. DECIDO.
+- Da Súmula 568/STJ
+A Corte Especial do STJ, no julgamento do REsp n. 1.520.710/SC sob a sistemática de recursos repetitivos, fixou entendimento (Tema 587/STJ) segundo o qual "os embargos à execução são ação de conhecimento incidental à execução, razão porque os honorários advocatícios podem ser fixados em cada uma das duas ações, de forma relativamente autônoma, respeitando-se os limites de repercussão recíproca entre elas, desde que a cumulação da verba honorária não exceda o limite máximo previsto no § 3º do art. 20 do CPC/1973 (equivalente ao art. 85, §2º, do CPC/2015)" (REsp n. 1.520.710/SC, Corte Especial, DJe de 27/02/2019).
+Ainda nesse sentido: REsp n. 1.980.956/SP, 3ª Turma, DJe de 9/12/2022; e AgInt no REsp n. 1.966.922/PR, 4ª Turma, DJe de 30/3/2022.
+Na hipótese, o Tribunal de origem, após consignar que, por ocasião do julgamento dos embargos à execução, os quais foram julgados procedentes, com a extinção da execução, foram arbitrados honorários advocatícios em 15% sobre o valor da causa. Assim, entendeu que a sentença teria decretado mais uma vez a extinção do mesmo processo de execução que deu origem aos embargos, ignorando que a decisão anterior já teria fixado a sucumbência, razão pela qual concluiu que haveria duplicidade na condenação e a verba honorária imposta deveria ser excluída (e-STJ, fls. 624/625), em dissonância com o entendimento dominante sobre o tema nesta Corte.
+Aplica-se, portanto, a Súmula 568/STJ no particular.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, V, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e DOU-LHE PROVIMENTO, para determinar o retorno dos autos ao Tribunal de origem, a fim de que proceda novo julgamento da apelação interposta, na esteira do devido processo legal, à luz da jurisprudência do STJ.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO. DISSONÂNCIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ.
+1. Ação de execução de título extrajudicial.
+2. Os embargos à execução são ação de conhecimento incidental à execução, razão porque os honorários advocatícios podem ser fixados em cada uma das duas ações, de forma relativamente autônoma, respeitando-se os limites de repercussão recíproca entre elas, desde que a cumulação da verba honorária não exceda o limite máximo previsto no § 3º do art. 20 do CPC/1973 (equivalente ao art. 85, §2º, do CPC/2015). Precedentes. Ante o entendimento dominante do tema nesta Corte Superior, aplica-se, no particular, a Súmula 568/STJ.
+3. Agravo em recurso especial conhecido. Recurso especial conhecido e provido.
