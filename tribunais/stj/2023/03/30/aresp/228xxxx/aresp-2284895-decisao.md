@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (e-STJ, fl. 134):
+PROCESSO CIVIL. CUMPRIMENTO DE SENTENÇA. SALÁRIO. IMPENHORABILIDADE. RELATIVIZAÇÃO. DIGNIDADE DO DEVEDOR. PRESERVAÇÃO. DIREITO DO CREDOR. CUMPRIMENTO.
+1. O Superior Tribunal de Justiça tem adotado entendimento no sentido de relativizar a impenhorabilidade dos salários, uma vez que tal regra se presta a garantir a dignidade do devedor.
+2. A constrição de verba salarial, como medida excepcional, deve ocorrer em percentual que não prive o devedor do mínimo essencial à sua sobrevivência e dignidade, resguardando, também, o direito do credor em obter a satisfação da dívida.
+3. Agravo conhecido e provido em parte.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a parte agravante aponta violação dos arts. 833, IV, e 1.022, II, do Código de Processo Civil; bem como divergência jurisprudencial.
+Sustenta que, "no caso em comento, a dívida não é alimentar porque teve origem em rescisão de contrato de promessa de compra e venda de imóvel e o Recorrente não aufere mais de 50 (cinquenta) salários mínimos de renda mensal, de modo que a verba é impenhorável, nos moldes do artigo 833, IV do CPC".
+Aduz que o acórdão recorrido "contraria a jurisprudência dominante do Superior Tribunal de Justiça, visto que o entendimento consolidado deste e. STJ é no sentido de que a verba salarial é impenhorável, salvo quando se tratar de penhora para pagamento de dívida alimentar ou quando o executado receber mais de 50 salários mínimos".
+Assevera que "o v. acórdão recorrido não somente afrontou o artigo 833, inciso IV e §2º do CPC, como também, divergiu da jurisprudência do e. STJ, uma vez que autorizou a penhora do percentual de 10% da aposentadoria do Recorrente quando já existem penhoras preexistentes no percentual de 35%, de modo que o total penhorado da aposentadoria chega ao percentual de 45%, extrapolando o limite consignável de 30%".
+Defende que "o Tribunal a quo tenha dado provimento em parte ao Agravo de Instrumento para reduzir o percentual da penhora de 20% para 10%, verifica-se que o percentual somado às penhoras preexistentes extrapolam o limite consignável".
+Contrarrazões apresentadas.
+Delimitada a controvérsia, passo a decidir.
+Cuida-se de agravo de instrumento interposto contra decisão proferida nos seguintes termos (fl. 115):
+(..)
+Percebe-se, pois, que o Tribunal da Cidadania vem permitindo, excepcionalmente, a penhora de salário, sinalizando mudança de paradigma acerca da regra de impenhorabilidade de remuneração, mesmo na hipótese em que o valor executado não tenha natureza alimentar, mormente nos casos em que tal medida não prejudique a garantia da subsistência digna do devedor e de sua família.
+Na espécie, constata-se que o devedor é aposentado do Ministério da Infraestrutura com remuneração líquida superior a R$ 13.000,00 (treze mil reais), ID nº 106471106 e que após a penhora implementada por este Juízo, ainda restou o valor líquido de R$ 5.201,40 (cinco mil duzentos e um reais e quarenta centavos), quantia razoável frente a atual conjuntura nacional.
+Além disso, é ônus do devedor comprovar que os valores constritos são indispensáveis ao seu próprio sustendo e dignidade familiar, não sendo suficiente a documentação carreada a impugnação, vez que apenas demonstram que o réu tem vida confortável, residindo em cidade satélite de alto padrão, de modo que, não há óbice à constrição
+Isto posto, REJEITO a impugnação à penhora.
+(grifos acrescidos)
+O acórdão recorrido, por sua vez, está assim fundamentado (fls. 138/140):
+No caso concreto, a parte agravante logra parcial êxito em demonstrar o direito alegado, conforme demonstrado a seguir.
+Apesar de haver previsão legal da impenhorabilidade das verbas salariais, nos termos dos artigos 832 e 833, inciso IV, do Código de Processo Civil, o Superior Tribunal de Justiça tem adotado entendimento no sentido de relativizar a impenhorabilidade dos salários, uma vez que tal regra se presta a garantir a dignidade do devedor.
+No julgamento do EREsp n.º 1.582.475/MG fixou critérios para, excepcionalmente, permitir a penhora de salário, desde que seja reservado percentual que garanta a dignidade do devedor e de sua família. Confira-se:
+(..)
+Dessa forma, deve-se admitir o afastamento excepcional da regra da impenhorabilidade absoluta do salário, desde que a constrição ocorra em percentual que não prive o devedor do mínimo essencial à sua sobrevivência e dignidade. Nesse sentido, colaciono a seguir os seguintes precedentes desta Colenda 3ª Turma Cível.
+(..)
+No caso dos autos, observa-se que o executado/agravante aufere salário líquido mensal de R$ 5.201,40 (cinco mil, duzentos e um reais e quarenta centavos), já considerada a penhora determinada pelo Juízo a quo e outras duas penhoras também oriundas de decisão judicial, conforme contracheque ID Num. 106471106 dos autos de origem.
+Assim, a supressão abrupta de 20% (vinte por cento) dos vencimentos líquidos do devedor aparenta ser excessiva, quando consideradas as demais penhoras incidentes sobre a folha de pagamento, que totalizam decote de 55% (cinquenta e cinco por cento) de sua renda.
+Contudo, deve-se resguardar o direito do credor em obter a satisfação da dívida, decorrente de processo que tramita desde o ano de 2014, sem que tenha havido o pagamento do débito.
+Dessa forma, a redução do percentual da penhora em folha de pagamento para 10% (dez por cento) dos rendimentos líquidos do agravante melhor se amolda aos critérios da razoabilidade e da proporcionalidade, e, sobretudo, ainda permite a satisfação da obrigação havida entre as partes.
+Posto isso, dou provimento, em parte, ao agravo de instrumento interposto, para reduzir para 10% (dez por cento) o percentual da penhora incidente sobre os rendimentos líquidos do agravante.
+É como voto.
+(grifos acrescidos)
+De início, quanto à alegada violação ao art. 1.022 do CPC, verifica-se que o acórdão recorrido está devidamente fundamentado, sem os vícios de omissão, contradição ou obscuridade.
+Com efeito, a matéria submetida à apreciação foi analisada, consignando o Tribunal de origem expressamente os motivos do seu entendimento, caracterizando apenas julgamento contrário aos interesses da parte recorrente.
+Quanto ao mérito, o entendimento da Corte local está em conformidade com a orientação jurisprudencial deste Superior Tribunal de Justiça no sentido de que, mesmo para satisfação de crédito não alimentar, "a regra geral da impenhorabilidade de salários, vencimentos, proventos etc. (art. 649, IV, do CPC/73; art. 833, IV, do CPC/2015), pode ser excepcionada quando for preservado percentual de tais verbas capaz de dar guarida à dignidade do devedor e de sua família" (EREsp 1.582.475/MG, relator Ministro Benedito Gonçalves, Corte Especial, julgado em 3/10/2018, REPDJe 19/3/2019, DJe 16/10/2018). No mesmo sentido, confiram-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. PENHORA DE PERCENTUAL DE VENCIMENTOS E PROVENTOS. POSSIBILIDADE DE RELATIVIZAÇÃO DA REGRA DA IMPENHORABILIDADE. PRECEDENTES. AGRAVO INTERNO IMPROVIDO.
+1. A Corte Especial do Superior Tribunal de Justiça firmou entendimento no sentido de que a regra geral de impenhorabilidade de salários (art. 649, IV, do CPC/1973; art. 833, IV, do CPC/2015) pode ser excepcionada, desde que haja manutenção de percentual dessa verba capaz de guarnecer a dignidade do devedor e sua família.
+2. Segundo a orientação deste Tribunal Superior, a alteração do entendimento exarado pelo aresto recorrido (a respeito da razoabilidade do percentual a ser penhorado e seu respectivo impacto na capacidade de subsistência da parte recorrente) demandaria o reexame de elementos fático-probatórios dos autos, o que não é possível no âmbito do recurso especial, em face do óbice da Súmula 7/STJ, por ambas as alíneas do permissivo constitucional.
+3. Agravo interno improvido.
+(AgInt no REsp 1977354/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 25/4/2022, DJe 29/ 4/2022)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. AÇÃO DE INDENIZAÇÃO. PENHORA DE PERCENTUAL DOS PROVENTOS DO DEVEDOR. RELATIVIZAÇÃO DA REGRA DE IMPENHORABILIDADE (CPC/1973, ART. 649, IV; CPC/2015, ART. 833, IV). EXCEPCIONAL CABIMENTO. AGRAVO DESPROVIDO.
+1. Nos termos da jurisprudência desta Corte, "Em situações excepcionais, admite-se a relativização da regra de impenhorabilidade das verbas salariais prevista no art. 649, IV, do CPC/73, a fim de alcançar parte da remuneração do devedor para a satisfação do crédito não alimentar, preservando-se o suficiente para garantir a sua subsistência digna e a de sua família" (EREsp 1.518.169/DF, Rel. p/ acórdão Ministra NANCY ANDRIGHI, CORTE ESPECIAL, j. em 03/10/2018, DJe de 27/02/2019).
+2. No caso, em consonância com o entendimento desta Corte Superior, as instâncias ordinárias, examinando as circunstâncias da causa, como a demora no pagamento e a conciliação infrutífera, entenderam devida a penhora de 15% dos proventos do obrigado, sem risco à subsistência e à dignidade do devedor e de sua família, sendo cabível, portanto, a mitigação da regra da impenhorabilidade.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 1.897.103/SE, relator Ministro Raul Araújo, Quarta Turma, julgado em 29/8/2022, DJe de 1/9/2022.)
+Assim, os fundamentos adotados no acórdão recorrido estão em consonância com o entendimento firmado neste Superior Tribunal de Justiça, pois o Tribunal de origem, considerados os critérios da razoabilidade e da proporcionalidade, entendeu pela possibilidade de penhora de 10% (dez por cento) da aposentadoria da parte recorrente. Incide, portanto, o óbice da Súmula 83 do STJ.
+Ademais, modificar a conclusão das instâncias ordinárias quanto à existência de eventual prejuízo à manutenção do devedor e de sua família demandaria o reexame do conjunto fático-probatório dos autos, providência vedada em recurso especial. Dessa forma, incide também o óbice da Súmula 7 do STJ.
+Ressalta-se, ainda, que no que toca à alegada divergência jurisprudencial acerca do limite de 30% (trinta por cento) do salário que pode ser objeto de penhora, a possibilidade de penhora sobre proventos e salários do devedor não se confunde com o desconto por consignação, em contratos bancários em que há pactuação expressa, de até 30% (trinta por cento) das verbas salariais recebidas pelo contratante.
+Outrossim, além da incidência do óbice da Súmula 284/STF quanto ao ponto, ante a ausência de indicação de dispositivo de lei objeto da divergência, não há similitude fática entre os acórdãos confrontados, inviabilizando a análise do recurso pela alínea "c".
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
