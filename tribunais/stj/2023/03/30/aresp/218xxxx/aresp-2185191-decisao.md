@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interposto por MILTON MOREIRA DA SILVA contra decisão que inadmitiu recurso especial manejado em face de acórdão do eg. TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO NORTE.
+Consoante se extrai dos autos, o agravante foi condenado pela prática do delito previsto no art. 1º , incisos II e V, da Lei n 0 8.137/90, à pena de 2 anos e 3 meses de reclusão, em regime inicialmente aberto (convertida em duas penas restritivas de direito), e em 10 dias-multa (fls. 265/291).
+Em segunda instância, o eg. Tribunal a quo negou provimento à apelação do Ministério Público (fls. 394/397).
+No recurso especial, interposto com fulcro no artigo 105, inciso III, alíneas a e c, da Constituição Federal, o insurgente alegou violação do art. 59 do Código Penal, bem como do art. 386, inciso III, do Código de Processo Penal, pois o eg. Tribunal de origem, ante fundamentação inidônea, valorou negativamente a culpabilidade na fixação da pena base. Afirma ainda que o acórdão recorrido diverge do entendimento de outros Tribunais quanto à dosimetria da pena e que inexiste dolo na conduta. Pugna pela reforma do acórdão recorrido, absolvendo-se agravante tendo em vista a falta e insubsistência das provas trazidas aos autos e, alternativamente, requer a minoração da pena (fls. 441/447).
+Apresentadas as contrarrazões (fls. 451/458), sobreveio juízo negativo de admissibilidade fundado na incidência da Súmula 7/STJ, pois a análise das questões suscitadas implicariam em revolvimento fático-probatório (fls. 459/460).
+Nas razões do agravo, postula-se o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários à sua admissão (fls. 462/474).
+O Ministério Público Federal apresentou parecer pelo desprovimento do agravo em recurso especial (fls. 493/497).
+É o relatório.
+Decido.
+O agravo não merece ser conhecido.
+Conforme relatado, o apelo nobre foi inadmitido pelo eg. Tribunal a quo em razão da aplicação da aplicação da Súmula 7/STJ, tanto no que diz respeito à divergência jurisprudencial quanto à alegada violação de dispositivo legal.
+No caso, a parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial, qual seja, o fundamento relativo a incidência da Súmula 7/STJ, limitando-se apenas a repisar as razões do recurso especial sem acrescentar novos argumentos, nem mesmo mencionando razões para inaplicabilidade do mencionado óbice.
+Conforme entendimento assentado nesta Corte, "deve a parte recorrente impugnar, de maneira específica e pormenorizada, todos os fundamentos da decisão contra a qual se insurge, não bastando a formulação de alegações genéricas em sentido contrário às afirmações do julgado impugnado ou mesmo a insistência no mérito da controvérsia" (AgRg no AREsp n. 705.564/MG, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe de 25/8/2015).
+Desse modo, a ausência de impugnação adequada dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre, nos termos do art. 932, inciso III do CPC, obsta o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles. Nesta toada os seguintes precedentes: AgRg no REsp n. 1.958.975/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe 14/11/2022 e AgRg no AREsp 1682769/SC, Quinta Turma, Rel. Ministro Ribeiro Dantas, DJe 23/06/2020).
+Diante do exposto, nos termos do art. 253, parágrafo único inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+P. e I.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. CRIMES CONTRA A ORDEM TRIBUTÁRIA (ART. 1º, II E V DA LEI 8.137/90). AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
