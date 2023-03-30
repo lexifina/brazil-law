@@ -1,0 +1,68 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por HAPVIDA ASSISTÊNCIA MÉDICA S.A. (HAPVIDA) contra decisão que negou seguimento ao seu apelo nobre.
+Foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alínea a, da CF, HAPVIDA alegou a violação dos arts. 17, 272, § 5º, 329, II, e 485, VI, do NCPC; 14, § 3º, I, do CDC; e 186, 402, 403 e 927 do CC/02. Sustentou, em síntese, (1) a nulidade da intimação feita em nome do advogado substabelecido, em descumprimento do requerimento expresso formulado pela parte; (2) sua ilegitimidade para integrar o polo passivo da demanda, tendo em vista a ausência de vínculo empregatício com o profissional da área médica responsável pelo atendimento do autor; (3) a necessidade da redução do valor da indenização por danos morais, em observância aos princípios da razoabilidade e da proporcionalidade; e (4) a ocorrência de julgamento extra petita e ausência de prova no tocante à indenização por lucros cessantes.
+(1) Da nulidade da intimação
+Nas razões do recurso especial, HAPVIDA sustentou a nulidade da intimação, uma vez que a publicação não ocorreu em nome do advogado expressamente indicado como destinatário dos atos processuais.
+Sobre o tema, o TJSE assim se pronunciou:
+Examinando os autos, precisamente os documentos juntados aos dias 28/01/2019, vejo que o causídico Dr. IGOR MACEDO FACÓ substabeleceu, com reservas, seus poderes aos advogados RENÉ FREITAS DE QUEIROZ, OAB/CE nº 21.796 e LAURA MARIA AMARO MARTINS, OAB/CE nº 22.874 os quais substabeleceram os poderes delegados, com reservas, ao patrono MARCELO SAMPAIO DE FIGUEIREDO, OAB/SE nº 3.914.
+Este último causídico encontra-se devidamente cadastrado no sistema de controle processual, sendo intimado de todos os atos processuais, inclusive, atendendo a todas intimações, inclusive, peticionando a juntada de quesitos a serem respondidos pelo perito, consoante se enxerga no movimento de juntada realizado aos dias 29/08/2019:
+"Juntada de Indicação de Quesitos realizada nesta data.  Movimento Gerado pelo Advogado: MARCELO SAMPAIO DE FIGUEIREDO - 517 "
+Todavia, em relação a intimação para se manifestar acerca do laudo pericial, deixou o prazo transcorrer in albis, apesar de devidamente intimado, conforme publicação no Diário de Justiça aos dias 18/11/2019, abaixo descrita:
+ ..
+No caso dos autos, não observo qualquer ofensa a ampla defesa e contraditório, sendo o causídico devidamente cadastrado e intimado, de todos os atos processuais, não podendo se valer da própria torpeza para anular um processo que seguiu rigorosamente todos os trâmites legais sob argumentação inverídica de cerceamento de defesa.
+Ademais, entendo que as intimações, para uma melhor efetividade e garantia da ampla defesa, devem ser efetuadas no nome do Patrono MARCELO SAMPAIO DE uma vez que este causídico possui escritório nesta comarca e o causídico FIGUEIREDO tem escritório no Estado do Ceará, razão pela qual, substabeleceu IGOR MACEDO FACÓ os seus poderes a um advogado do nosso Estado (e-STJ, fls. 646/647).
+Desse modo, a revisão do julgado, com o consequente acolhimento da pretensão recursal, não prescindiria do reexame do acervo fático-probatório da causa, o que não se admite em âmbito de recurso especial, ante o óbice da Súmula nº 7 do STJ.
+A propósito, respeitadas as peculiaridades fáticas de cada caso:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. 1. NULIDADE DA INTIMAÇÃO. PUBLICAÇÃO EXCLUSIVA EM NOME DE DETERMINADO PATRONO. AUSÊNCIA DE REQUERIMENTO. REVER AS CONCLUSÕES DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. SÚMULA 7/STJ. 2. REVOGAÇÃO DA GRATUIDADE DE JUSTIÇA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 252 E 356 DO STF. 3. AGRAVO DESPROVIDO.
+1. O STJ entende ser nula a intimação realizada no nome de outro advogado quando constante dos autos pedido de publicação exclusiva em nome de determinado patrono, sob pena de configurar cerceamento de defesa. Contudo, no caso vertente, o Tribunal de origem asseverou que, não obstante tenham sido protocoladas petições de substabelecimento de poderes, em nenhuma delas houve pedido expresso de que as publicações ocorressem exclusivamente em nome dos advogados substabelecidos. Rever tais conclusões demandaria reexame de provas. Incidência da Súmula 7/STJ.
+2. A indicação de dispositivos sem que esses tenham sido debatidos pelo Tribunal de origem, apesar da oposição dos embargos de declaração, obsta o conhecimento do recurso especial pela ausência de prequestionamento.
+3. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp 1.415.473/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 1º/7/2019, DJe 6/8/2019.)
+(2) Da ilegitimidade passiva
+Por sua vez, a ora insurgente sustentou que não detém legitimidade para responder, solidariamente, pelo pagamento das indenizações reclamadas, tendo em vista a ausência de vínculo empregatício com o profissional da área médica responsável pelo atendimento ao autor, ora recorrido.
+Sob esse enfoque, o Tribunal sergipano, a partir da análise das provas dos autos, notadamente prova pericial, reconheceu a responsabilidade civil do hospital conveniado e da HAPVIDA, na condição de administradora dos planos de saúde, sinalizando a existência de fallha na prestação dos serviços prestados pelo médico durante os atendimentos do autor.
+Logo, a alteração desse entendimento, a fim de excluir a responsabilidade da entidade hospitalar, demandaria o revolvimento do acervo fático-probatório , inviável em recurso especial, ante o óbice da Súmula nº 7 do STJ.
+Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ERRO MÉDICO. FALHA NA PRESTAÇÃO DE SERVIÇOS. RESPONSABILIDADE DO PLANO DE SAÚDE. NEXO CAUSAL CONSTATADO. REEXAME. SÚMULA 7/STJ. DESPESAS MÉDICAS COM PROFISSIONAL NÃO CREDENCIADO. REEMBOLSO. SITUAÇÃO EXCEPCIONAL VERIFICADA. CABIMENTO. SÚMULA 83/STJ. LIMITAÇÃO DA RESTITUIÇÃO À TABELA DE MERCADO. JUROS DE MORA E CORREÇÃO MONETÁRIA. TERMO INICIAL. TESES NÃO PREQUESTIONADAS. SÚMULA 211/STJ. VALOR INDENIZATÓRIO. REVISÃO. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1.  ..
+2. O plano de saúde é responsável solidariamente pelos danos causados a seus segurados em decorrência de falhas na prestação dos serviços em estabelecimentos hospitalares credenciados.
+3. Concluindo a instância originária que a operadora de plano de saúde é responsável solidária pelos danos decorrentes do equívoco no atendimento médico ofertado à beneficiária, descabe a este Tribunal de Uniformização rever o posicionamento adotado, pois, para tanto, seria necessário o revolvimento de fatos e provas, o que é vedado pela Súmula 7/STJ.
+4. O entendimento jurisprudencial do STJ manifesta-se no sentido de que, em situação de urgência/emergência, ou quando atestada a impossibilidade de utilização dos serviços oferecidos pelo plano de saúde, a operadora é obrigada a custear o tratamento do beneficiário fora de sua rede credenciada.
+5. A jurisprudência desta Corte Superior firmou entendimento de que ""o valor estabelecido pelas instâncias ordinárias a título de indenização por danos morais pode ser revisto nas hipóteses em que a condenação se revelar irrisória ou exorbitante, distanciando-se dos padrões de razoabilidade""(AgInt no AREsp 1.331.437/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 24/06/2019, DJe 27/06/2019).
+6 . No caso, não há se falar em exorbitância dos valores arbitrados na condenação, uma vez que as quantias fixadas estão dentro dos parâmetros aplicados por este Tribunal Superior às situações em que a falha no atendimento médico causa ao beneficiário danos de natureza permanente.
+7. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp 1.813.558/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 9/8/2021, DJe 13/8/2021 - sem destaque no original.)
+(3) Do valor da indenização por dano moral
+Por sua vez, na linha dos precedentes desta Corte, o valor fixado a título de compensação por danos morais somente pode ser modificado em grau de recurso especial quando manifestamente abusivo ou irrisório.
+Nesse sentido:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 211 DO STJ. VALOR INDENIZATÓRIO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. A simples indicação dos dispositivos legais tidos por violados, sem enfrentamento do tema pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento (Súmula n. 211 do STJ).
+2. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7/STJ. Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais e estéticos arbitrado na origem, a jurisprudência desta Corte permite o afastamento do referido óbice, para possibilitar a revisão.
+3. No caso, o valor estabelecido pelo Tribunal de origem, considerando os danos sofridos pela parte autora - amputação dos membros inferiores, perda auditiva, problemas renais, entre outros -, não se mostra excessivo, a justificar sua reavaliação em recurso especial.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 2.129.065/BA, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, j. 12/12/2022, DJe 15/12/2022.)
+No caso dos autos, não se mostra exorbitante o quantum indenizatório fixado pelo Tribunal a quo em R$ 90.000,00 (noventa mil reais), a título de danos extrapatrimoniais, considerando a falha na conduta médica para combater a infecção do pé de pessoa diabética, o que culminou com sua amputação, bem como por não ter havido condenação, simultânea, a título de danos estéticos.
+Desse modo, estando o acórdão recorrido em plena consonância com a jurisprudência dominante desta Corte, incide, no ponto, a Súmula nº 568 do STJ.
+(4) Do julgamento extra petita e dos lucros cessantes
+Por fim, alegou a recorrente a ocorrência de julgamento extra petita no tocante à indenização por lucros cessantes, os quais, ademais, não teriam sido comprovados.
+A esse respeito, confiram-se os fundamentos assinalados pela Corte local:
+No tocante ao julgamento extra petita, entendo que não restou configurado o instituto, posto que é entendimento jurisprudencial que não ocorre julgamento extra petita nas situações jurídicas em que o magistrado interpreta de maneira mais restrita o pedido e a causa de pedir elaborados na inicial. Existindo pedido pela condenação em lucros cessantes, é de se considerar a possibilidade de ajustamento do valor indenizatório no percentual de 2/3 sobre o salário mínimo, a título de pensionamento ao autor, ainda que não haja pedido específico nesse sentido (e-STJ, fl. 657).
+Segundo entendimento desta Corte, "o pedido é aquilo que se pretende com a instauração da demanda e se extrai a partir de uma interpretação lógico-sistemática do afirmado na petição inicial, recolhendo todos os requerimentos feitos em seu corpo, e não só aqueles constantes em capítulo especial ou sob a rubrica dos pedidos" (REsp 120.299/ES, Rel. Ministro SÁLVIO DE FIGUEIREDO TEIXEIRA, Quarta Turma, j. 25/6/1998, DJ 21/9/1998).
+No mesmo sentido:
+ADMINISTRATIVO. RESPONSABILIDADE CIVIL. ERRO MÉDICO. JULGAMENTO EXTRA PETITA. NÃO-OCORRÊNCIA. CORRELAÇÃO LÓGICA ENTRE A CAUSA DE PEDIR E OS PEDIDOS FORMULADOS. INTERPRETAÇÃO LÓGICO-SISTEMÁTICA DO PEDIDO.
+1. O pedido é aquilo que se pretende com a instauração da demanda e se extrai a partir de uma interpretação lógico-sistemática do afirmado na petição inicial, recolhendo todos os requerimentos feitos em seu corpo, e não só aqueles constantes em capítulo especial ou sob a rubrica dos pedidos.
+2. In casu, há inquestionável correlação lógica entre a causa de pedir e os pedidos formulados na petição inicial. Ademais, é dado ao Juiz deferir pretensão que, conquanto não formulada expressamente, represente um minus em relação ao que perseguido, e exatamente por essa razão, esteja compreendida no pedido maior apresentado.
+Agravo regimental improvido.
+(AgRg no REsp 1.118.704/RJ, Rel. Ministro HUMBERTO MARTINS, Segunda Turma, j. 1º/9/2009, DJe 22/9/2009.)
+Incide, à hipótese, o comando da Súmula nº 83 do STJ.
+Nessas condições, CONHEÇO do agravo de HAP VIDA para CONHECER EM PARTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+MAJORO em 2% o valor dos honorários advocatícios anteriormente fixados em favor de JOSÉ FRANCISCO DOS SANTOS, limitados a 20%, nos termos do art. 85, § 11, do NCPC.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. ERRO MÉDICO. NULIDADE DA INTIMAÇÃO E ILEGITIMIDADE PASSIVA DA OPERADORA DO PLANO DE SAÚDE. REEXAME DE PROVAS. SÚMULA N.º 7 DO STJ. DANO MORAL. QUANTUM FIXADO COM RAZOABILIDADE. REDUÇÃO. IMPOSSIBILIDADE. SÚMULA N.º 568 DO STJ. LUCROS CESSANTES . JULGAMENTO EXTRA PETITA. PEDIDO. INTERPRETAÇÃO LÓGICO-SISTEMÁTICA. SÚMULA N.º 83 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL DE HAPVIDA PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
