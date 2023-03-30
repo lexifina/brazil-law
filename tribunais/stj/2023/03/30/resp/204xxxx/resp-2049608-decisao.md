@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de recurso especial, interposto por CARLOS RODRIGO LELIS LACOTIS, em desafio ao acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 30, e-STJ):
+Agravo de Instrumento Agravante que exerce a profissão de médico clínico e deixou de apresentar a declaração de imposto de renda no agravo distribuído sob nº 2136827-52.2021.8.26.0000, onde postulou de forma genérica a concessão de gratuidade - Comprovação de que a quantia depositada em conta bancária tem a natureza de verba, com caráter de impenhorabilidade que incumbe ao executado (AgInt no AREsp 1140631/MG, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 24/04/2018, DJe 02/05/2018)", ônus do qual não se desincumbiu Decisão Mantida Agravo Desprovido.
+Nas razões de recurso especial (fls. 34/43, e-STJ), o agravante aponta, além de dissídio jurisprudencial, ofensa ao artigo 833, IV e X, do CPC, sustentando a impenhorabilidade dos valores inferiores a 40 salários mínimos.
+Contrarrazões às fls. 48/56 (e-STJ).
+Decisão de admissibilidade às fls. 57/58, e-STJ.
+É o relatório.
+Decide-se.
+A pretensão merece acolhimento.
+1. Nos termos da jurisprudência da Segunda Seção desta Corte Superior, são impenhoráveis todos os valores pertencentes ao devedor, até o limite de 40 (quarenta) salários mínimos, mantidos em conta-corrente, caderneta de poupança ou fundos de investimentos.
+No mesmo sentido, os seguintes precedentes:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. PROCESSUAL CIVIL. IMPENHORABILIDADE DE VALOR DE ATÉ 40 (QUARENTA) SALÁRIOS MÍNIMOS MANTIDO EM CONTA BANCÁRIA. ART. 833, X, DO CPC/2015. APLICABILIDADE. PRECEDENTES. AGRAVO DESPROVIDO.
+1. A Segunda Seção desta Corte Superior pacificou o entendimento de que "é possível ao devedor poupar valores sob a regra da impenhorabilidade no patamar de até quarenta salários mínimos, não apenas aqueles depositados em cadernetas de poupança, mas também em conta-corrente ou em fundos de investimento, ou guardados em papel-moeda" (EREsp 1.330.567/RS, Rel. Ministro Luis Felipe Salomão, Segunda Seção, DJe de 19/12/2014).
+2. "A jurisprudência do Superior Tribunal de Justiça manifesta-se no sentido de que todos os valores pertencentes ao devedor, até o limite de 40 (quarenta) salários mínimos, mantidos em conta-corrente, caderneta de poupança ou fundos de investimentos são impenhoráveis, assim como que a simples movimentação atípica, por si só, não seria capaz de caracterizar má-fé ou fraude." (AgInt no REsp 1951550/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 11/10/2021, DJe 14/10/2021) 3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp n. 1.910.772/DF, relator Ministro Raul Araújo, Quarta Turma, julgado em 20/6/2022, DJe de 1/7/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. CUMPRIMENTO DE SENTENÇA. PENHORA DE CONTA POUPANÇA. UTILIZAÇÃO COMO CONTA CORRENTE. IRRELEVÂNCIA. IMPENHORABILIDADE QUE SE ESTENDE ATÉ O LIMITE DE 40 SALÁRIOS MÍNIMOS INDEPENDENTE SE MANTIDOS EM CONTA CORRENTE, POUPANÇA OU FUNDOS DE INVESTIMENTOS. QUESTÃO DE DIREITO. INAPLICABILIDADE DA SÚMULA N.º 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A possibilidade de reconhecer a impenhorabilidade da quantia até 40 salários mínimos constitui, uma questão de direito, e não de fato. Incabível, por isso, a incidência da Súmula n.º 7 do STJ.
+2. São impenhoráveis os valores poupados pelo devedor, seja em caderneta de poupança, conta corrente, fundo de investimentos ou em papel moeda, até o limite de 40 salários mínimos.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.940.342/DF, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 12/12/2022, DJe de 14/12/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO. TÍTULO EXTRAJUDICIAL. VERBA EM CONTA POUPANÇA. CONSTRIÇÃO PELA UTILIZAÇÃO DESVIRTUADA. LIMITE DE IMPENHORABILIDADE DO VALOR CORRESPONDENTE A 40 (QUARENTA) SALÁRIOS MÍNIMOS. NÃO ATENDIMENTO PELA CORTE LOCAL. DECISÃO MANTIDA.
+1. O STJ possui jurisprudência no sentido de ser impenhorável " a quantia de até quarenta salários mínimos poupada, seja ela mantida em papel moeda, conta-corrente ou aplicada em caderneta de poupança propriamente dita, CDB, RDB ou em fundo de investimentos, desde que a única reserva monetária em nome do recorrente, e ressalvado eventual abuso, má-fé ou fraude, a ser verificado caso a caso, de acordo com as circunstâncias do caso concreto (inciso X)" (REsp n. 1.230.060/PR, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 13/8/2014, DJe 29/8/2014).
+2. Nos termos do entendimento jurisprudencial firmado por esta Corte, a regra do art. 833, X, do CPC/2015 se estende a todos os numerários poupados pela parte executada, até o limite de 40 (quarenta) salários mínimos, não importando se depositados em poupança, conta-corrente, fundos de investimento ou guardados em papel-moeda, autorizando as instâncias ordinárias, caso identifiquem abuso do direito, a afastar a garantia da impenhorabilidade.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.976.153/DF, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 2/5/2022, DJe de 6/5/2022.)
+Na hipótese, a Corte de origem indeferiu o pedido de desbloqueio dos valores, sob o fundamento de que o recorrente é médico e não comprovou que o montante é essencial para a preservação de suas necessidades.
+Desta forma, estando a decisão recorrida em dissonância com o entendimento jurisprudencial firmado por esta Corte acerca da extensão da regra prevista no art. 833, X, do CPC/2015, o recurso merece ser provido, para determinar a impenhorabilidade dos valores depositados, até o limite de quarenta salários mínimos.
+2. Do exposto, com fulcro no artigo 932 NCPC c/c a Súmula 568 do STJ, dou parcial provimento ao recurso especial determinando a impenhorabilidade dos valores depositados nas contas de titularidade do recorrente, até o limite de quarenta salários mínimos.
+Publique-se.
+Intimem-se.
