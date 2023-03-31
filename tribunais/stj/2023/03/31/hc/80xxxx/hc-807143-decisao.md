@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado por VINICIUS FAGUNDES POLO apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC n. 2021547-62.2023.8.26.0000).
+Depreende-se dos autos que foi decretada a prisão preventiva do paciente pela prática, em tese, dos delitos previstos nos arts. 33, caput, e 35, ambos c/c o art. 40, IV e VI, da Lei n. 11.343/2006, em concurso com os arts. 244-B e 16, parágrafo único, da Lei n. 10.826/2003, tudo na forma do art. 69 do Código Penal - foram apreendidos um revólver calibre .38 e 2,489kg (dois quilos e quatrocentos e oitenta e nove gramas) de maconha, além de petrechos típicos para o preparo e embalo das drogas para posterior comercialização (e-STJ fl. 234).
+O Tribunal de origem denegou a ordem.
+Daí o presente writ, no qual alega a defesa que o decreto de prisão preventiva carece de fundamentação idônea, pois baseado na gravidade abstrata do delito.
+Aduz a presença de condições pessoais favoráveis do acusado - primário, portador de bons antecedentes e com domicílio certo. Além disso, ele é menor de 21 anos de idade.
+Argumenta que, em caso de condenação, terá direito a cumprir sua pena em regime semiaberto ou aberto, diante da aplicação da causa de diminuição prevista no art. 33, § 4º, da Lei de Drogas, bem como terá substituída a pena privativa de liberdade por restritivas de direitos.
+Requer, liminarmente, a imediata liberdade provisória, mediante imposição de medidas cautelares diversas da prisão, com a expedição do respectivo alvará de soltura. No mérito, pugna pela concessão definitiva da ordem, a fim de que o paciente possa responder em liberdade ulteriores termos da persecução penal.
+O pedido liminar foi indeferido.
+Ouvido, o Ministério Público Federal manifestou-se pela denegação da ordem.
+É o relatório.
+Decido.
+Há sempre de conter efetiva e concreta fundamentação o ato judicial que decreta a prisão, tais as disposições do nosso ordenamento jurídico.
+Com efeito, antes do trânsito em julgado da condenação, a prisão somente é cabível quando demonstrado o periculum libertatis, sendo impossível o recolhimento de alguém ao cárcere caso se mostrem inexistentes os pressupostos autorizadores da medida extrema, previstos na legislação processual penal.
+Ora, considerando-se que ninguém será preso senão por ordem escrita e fundamentada de autoridade judiciária competente, bem como que a fundamentação das decisões do Poder Judiciário é condição absoluta de sua validade (Constituição da República, art. 5º, inciso LXI, e art. 93, inciso IX, respectivamente), há de se exigir que o decreto de prisão preventiva venha sempre concretamente motivado, não fundado em meras conjecturas.
+A propósito do tema, a jurisprudência do Superior Tribunal de Justiça, embora ainda um pouco oscilante, optou pelo entendimento de que o risco à ordem pública se constataria, em regra, pela reiteração delituosa ou pela gravidade concreta do fato.
+Nesse tear, parece-me importante relembrar que "o juízo sobre a gravidade genérica dos delitos imputados ao réu, a existência de indícios de autoria e materialidade do crime, a credibilidade do Poder Judiciário, bem como a intranquilidade social não constituem fundamentação idônea a autorizar a prisão para a garantia da ordem pública, se desvinculados de qualquer fato concreto, que não a própria conduta, em tese, delituosa" (HC n. 48.381/MG, relator Ministro GILSON DIPP, QUINTA TURMA, DJ 1º/8/2006, p. 470).
+Assim, demonstrada a gravidade concreta do crime praticado, revelada, na maioria das vezes, pelos meios de execução empregados, ou a contumácia delitiva do agente, a jurisprudência desta Casa autoriza a decretação ou a manutenção da segregação cautelar, dada a afronta às regras elementares de bom convívio social.
+Além disso, na apreciação das justificativas da custódia cautelar, "o mundo não pode ser colocado entre parênteses. O entendimento de que o fato criminoso em si não pode ser conhecido e valorado para a decretação ou a manutenção da prisão cautelar não é consentâneo com o próprio instituto da prisão preventiva, já que a imposição desta tem por pressuposto a presença de prova da materialidade do crime e de indícios de autoria. Assim, se as circunstâncias concretas da prática do crime indicam periculosidade, está justificada a decretação ou a manutenção da prisão para resguardar a ordem pública" (STF, HC n. 105.585/SP, relatora Ministra ROSA WEBER, Primeira Turma, julgado em 7/8/2012, DJe de 21/8/2012).
+À vista desse raciocínio e dos vetores interpretativos estabelecidos, passo à análise da legalidade da medida excepcional.
+A prisão preventiva do paciente foi decretada nos termos seguintes (e-STJ fls. 124/132):
+De outro lado, em que pese a primariedade de VINICIUS (fls. 77/78), é certo que foi apontado pelo associado como fornecedor pela droga, oportunidade em que foi flagrado trazendo consigo grande quantidade de maconha, inclusive armado, bem como em seu apartamento foi localizado verdadeiro reduto de preparo e embalo da droga para posterior comercialização, onde atuava seu associado Cauã, ainda adolescente.
+Desta forma, é claro desenvolvimento do tráfico de forma associada e de grande quantidade de drogas (cerca de 2.489,45g de maconha), suficiente para atingir centenas de usuários e promover severo esgarçamento do tecido social, inclusive em concurso com o adolescente previamente corrompido para a prática ilícita e com emprego de arma de fogo.
+Conforme visto acima, o decreto de prisão preventiva teve como lastro para a segregação cautelar do agente a gravidade concreta da conduta e a grande quantidade de drogas apreendidas - a saber, 2,489kg (dois quilos e quatrocentos e oitenta e nove gramas) de maconha -, o que esta Corte tem admitido como fundamentação idônea para a decretação e manutenção da prisão preventiva em razão da gravidade concreta da conduta.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. QUANTIDADE DE DROGA APREENDIDA. MEDIDAS CAUTELARES DIVERSAS. IMPOSSIBILIDADE. RECURSO IMPROVIDO.
+ ..
+3. No caso, a prisão preventiva está justificada, pois a decisão que a impôs fez referência à gravidade concreta da conduta imputada ao recorrente, uma vez que foi apreendida elevada quantidade de entorpecentes (aproximadamente 1,050kg - um quilograma e cinquenta gramas - de cocaína). Dessarte, evidenciada a sua periculosidade e a necessidade da segregação como forma de acautelar a ordem pública.
+4. Mostra-se indevida a aplicação de medidas cautelares diversas da prisão, quando a segregação encontra-se fundada na gravidade efetiva do delito, indicando que as providências menos gravosas seriam insuficientes para acautelar a ordem pública e evitar a prática de novos crimes.
+ ..  (AgRg no RHC n. 125.192/SC, de minha relatoria, SEXTA TURMA, julgado em 12/5/2020, DJe 18/5/2020.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO ILÍCITO DE DROGAS. NEGATIVA DO DIREITO DE RECORRER EM LIBERDADE. GRAVIDADE CONCRETA DO DELITO. QUANTIDADE DE DROGA APREENDIDA. FUNDAMENTAÇÃO IDÔNEA. NECESSIDADE DE READEQUAÇÃO DA PRISÃO CAUTELAR COM O REGIME INTERMEDIÁRIO IMPOSTO NA SENTENÇA. AGRAVO DESPROVIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. A manutenção da custódia cautelar encontra-se suficientemente fundamentada em razão das circunstâncias do caso que, pelas características delineadas, retratam, in concreto, a periculosidade do Agente, a indicar a necessidade da segregação provisória para a garantia da ordem pública, considerando-se, sobretudo, a quantidade de droga apreendida - mais de 1 (um) quilograma e 200 (duzentas) gramas de maconha. Precedentes.
+ ..  (AgRg no HC n. 560.702/MG, relatora Ministra LAURITA VAZ, SEXTA TURMA, julgado em 12/5/2020, DJe 28/5/2020.)
+Cumpre consignar, por oportuno, que as condições subjetivas favoráveis do acusado, em casos como o presente, não impedem a prisão cautelar, porquanto evidenciados os requisitos legais à decretação da custódia provisória. Nesse sentido: RHC n. 64.879/SP, relator Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 21/3/2016.
+De igual forma, as circunstâncias que envolvem o fato demonstram que outras medidas previstas no art. 319 do Código de Processo Penal não surtiriam o efeito almejado para a proteção da ordem pública.
+A propósito, confiram-se estes precedentes:
+PROCESSO PENAL. RECURSO EM HABEAS CORPUS. ROUBO CIRCUNSTANCIADO TENTADO. PRISÃO CAUTELAR. GRAVIDADE CONCRETA. PERICULOSIDADE. MOTIVAÇÃO IDÔNEA. OCORRÊNCIA. RECURSO DESPROVIDO.
+ ..
+2. Não é ilegal o encarceramento provisório decretado para o resguardo da ordem pública, em razão da gravidade in concreto dos fatos, a conferir lastro de legitimidade à custódia.
+3. Nesse contexto, indevida a aplicação de medidas cautelares alternativas à prisão, porque insuficientes para resguardar a ordem pública.
+4. Recurso a que se nega provimento.
+(RHC n. 68.535/MG, relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 17/3/2016, DJe 12/4/2016.)
+PRISÃO TEMPORÁRIA CONVERTIDA EM PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. PERICULOSIDADE CONCRETA DO AGENTE. MODUS OPERANDI DOS DELITOS. VIOLÊNCIA REAL CONTRA UMA DAS VÍTIMAS, NECESSIDADE DE GARANTIR A ORDEM PÚBLICA. RÉU QUE PERMANECEU PRESO DURANTE A INSTRUÇÃO DO PROCESSO. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+3. Em vista da natureza excepcional da prisão preventiva, somente se verifica a possibilidade da sua imposição quando evidenciado, de forma fundamentada e com base em dados concretos, o preenchimento dos pressupostos e requisitos previstos no art. 312 do Código de Processo Penal - CPP. Deve, ainda, ser mantida a prisão antecipada apenas quando não for possível a aplicação de medida cautelar diversa, nos termos previstos no art. 319 do CPP.
+ ..
+6. É entendimento do Superior Tribunal de Justiça que as condições favoráveis do paciente, por si sós, não impedem a manutenção da prisão cautelar quando devidamente fundamentada.
+7. Inaplicável medida cautelar alternativa quando as circunstâncias evidenciam que as providências menos gravosas seriam insuficientes para a manutenção da ordem pública.
+Habeas corpus não conhecido.
+(HC n. 393.464/RS, relator Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 22/08/2017, DJe 4/9/2017.)
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
