@@ -1,0 +1,9 @@
+DECISÃO
+O requerente, por meio da petição de fls. 818-833, requer, "com urgência, que seja determinada a revogação da tutela provisória de urgência anteriormente deferida", nos seguintes termos:
+ ..  participou e foi aprovada no concurso para ingresso na Guarda Municipal da cidade de Campinas - SP (doc. 1 e 2), desta maneira, se faz imperiosa a revogação da ordem judicial precária anteriormente deferida para o prosseguimento no certame realizado.
+9. Acresce que, em razão da pendência deste Recurso Especial, havendo possibilidade de reversão do julgado que lhe fora desfavorável, não pretende pedir exoneração, já que detém mais de uma década de serviço, está com quase quarenta anos de idade e o início dessa nova carreira não ocorre por sua vontade, mas por necessidade, pois tem família e filho para sustentar (doc. 3 e 4), sendo que não deseja ficar, novamente, sem meio de subsistência.
+10. Esclarece que formulou este pedido no Juízo de origem, 13ª Vara da Fazenda Pública da Comarca de São Paulo - SP, através do cumprimento provisório nº 0008502-60.2023.8.26.0053, no entanto, fora indeferido (doc. 5), visto ter relatado que não possuía competência para tanto, desta maneira, outra alternativa não tem, a não ser fazer esta requisição.
+11. Ante o exposto, requer, com URGÊNCIA, que seja determinada a revogação da tutela provisória de urgência anteriormente deferida.
+No caso, cabe estabelecer que o recurso especial do requerente já foi analisado e não conhecido, com previsão de publicação no dia 30 de abril de 2023.
+Assim sendo, considerando que o referido apelo nobre não foi recebido no efeito suspensivo, evidencia-se que o pedido aqui deduzido é manifestamente improcedente, cabendo à Fazenda do Estado de São Paulo tomar as providências necessários no sentido de atender o a solicitação de desligamento do Sr. Thiago Augusto Rodrigues Alves.
+Publique-se. Intimem-se.
