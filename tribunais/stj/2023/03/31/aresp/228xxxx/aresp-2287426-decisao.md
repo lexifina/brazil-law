@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo apresentado por MUNICÍPIO DE CURITIBA contra decisão que inadmitiu recurso especial interposto com fundamento no art. 105, III, "a", da Constituição Federal.
+Passo a decidir.
+Do que se observa, o fundamento condutor adotado na decisão a quo é o de que o acórdão recorrido está em sintonia com precedente obrigatório desta Corte Superior relativamente à necessidade de citação válida, ainda que editalícia, para a interrupção do prazo prescricional (REsp n. 999.901/RS, Tema n. 82 do STJ).
+Constata-se, ainda, que, na espécie, a aplicação da Súmula 7 do STJ pela decisão a quo também guarda relação com o capítulo relativo à prescrição material do crédito tributário e a ocorrência de hipóteses de suspensão e interrupção do prazo prescricional.
+Ocorre que, de acordo com o disposto no art. 1.030, § 2º, do CPC/2015, é cabível agravo interno contra a decisão que nega seguimento a recurso especial interposto contra acórdão que está em conformidade com o entendimento do STJ exarado no julgamento de recursos repetitivos. Confira-se:
+Art. 1.030. Recebida a petição do recurso pela secretaria do tribunal, o recorrido será intimado para apresentar contrarrazões no prazo de 15 (quinze) dias, findo o qual os autos serão conclusos ao presidente ou ao vice-presidente do tribunal recorrido, que deverá:
+I - negar seguimento:
+ ..
+b) a recurso extraordinário ou a recurso especial interposto contra acórdão que esteja em conformidade com entendimento do Supremo Tribunal Federal ou do Superior Tribunal de Justiça, respectivamente, exarado no regime de julgamento de recursos repetitivos;
+§ 2º Da decisão proferida com fundamento nos incisos I e III caberá agravo interno, nos termos do art. 1.021.
+Esse agravo interno é a sede própria para se demonstrar eventual falha na aplicação de tese firmada no paradigma repetitivo em face da realidade do processo.
+Em razão dessa previsão normativa, é firme o entendimento desta Corte no sentido de que é incabível o agravo do art. 1.042 do CPC/2015 contra decisão que nega seguimento a recurso especial com base na aplicação de tese firmada em sede de recurso repetitivo, publicada a partir de 18 de março de 2016, quando entrou em vigor o CPC/2015.
+Frise-se que, no contexto dos autos, a menção na decisão a quo sobre existência de outro óbice à admissibilidade do recurso especial, referente à Súmula 7 do STJ, porquanto relacionada com o mesmo capítulo do recurso especial ao qual foi negado seguimento com fundamento em aresto repetitivo (necessidade de citação válida para interrupção do prazo da prescrição material), não guarda autonomia a justificar o cabimento do agravo dirigido para esta Corte Superior.
+Tendo o juízo de admissibilidade negado seguimento ao apelo extremo, quanto ao ponto, com base no art. 1.030, I, "b", do CPC/2015, é o agravo interno no Tribunal de origem - nos termos do art. 1.030, § 2º, c/c o art. 1.021 do CPC/2015 - a via adequada para a impugnação desta decisão, sendo inviável a análise dessa discussão pelo STJ na via do agravo em recurso especial.
+Ante o exposto, com base no art. 253, parágrafo único, I, do RISTJ, NÃO CONHEÇO do agravo em recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração dessa verba, em desfavor da parte recorrente, no importe de 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
