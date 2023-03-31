@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto por REAL ALAGOAS DE VIAÇÃO LTDA, REAL TRANSPORTES URBANOS LTDA E CARLOS ALBERTO SCHWAMBACH contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no art. 105, III, "a", da Constituição Federal, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado de Alagoas assim ementado:
+"AGRAVO DE INSTRUMENTO. AÇÃO ORDINÁRIA. DECISÃO QUE CONCEDEU PARCIALMENTE A TUTELA REQUERIDA PELOS AUTORES PROIBINDO O ARQUIVAMENTO NA JUCEAL DA ATA DA ASSEMBLEIA OCORRIDA EM JANEIRO DE 2020 NA CIDADE DE RECIFE. ALEGAÇÃO DOS AGRAVANTES NO SENTIDO DA VALIDADE DA ASSEMBLEIA REALIZADA. ALEGAÇÃO DE EXISTÊNCIA DE CLÁUSULA DE ELEIÇÃO DE FORO. CASO EM QUE HOUVE RECONHECIMENTO ATRAVÉS DE AÇÃO ORIGINÁRIA ANTERIOR DA INCOMPETÊRNCIA DO JUÍZO DA COMARCA DE MACEIÓ PARA ANALISAR QUESTÃO SEMELHANTE. CONEXÃO COM A PRESENTE DEMANDA. IMPUGNAÇÃO ÀS MESMAS QUESTÕES QUE LEVARAM AO AJUIZAMENTO DA PRIMEIRA AÇÃO. ASSEMBLEIAS DIVERSAS MAS COM IMPUGNAÇÃO ESPECÍFICA POR PARTE DOS AUTORES/AGRAVADOS DOS MESMOS PONTOS. EXISTÊNCIA, ADEMAIS DE RISCO DE DECISÕES CONFLITANTES. NECESSIDADE DE REUNIÃO DAS DEMANDAS NO JUÍZO PREVENTO. AGRAVO CONHECIDO E PROVIDO" (e-STJ fl. 3681).
+Nas razões do recurso especial (e-STJ fls. 3695/3718), os recorrentes alegam que o acórdão recorrido violou os arts. 46, 53, 55 e 63, § 1º, do CPC.
+Sustentam inexistir conexão entre as causas, que possuem pedido e causa de pedir distintos, além de que, o julgamento de uma causa não será apta a prejudicar a outra.
+Ao final, pugnam pela remessa dos presentes autos a comarca de Maceió-Alagoas, em razão da existência da cláusula de eleição de foro.
+Apresentadas as contrarrazões, o recurso foi inadmitido na origem, resultando daí o presente agravo, no qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação não merece prosperar.
+No caso vertente, o tribunal de origem reconheceu a conexão e necessidade de consequente reunião das demandas para julgamento conjunto, com base nos seguintes argumentos:
+"Vê-se ainda, que o próprio Magistrado de origem reconheceu a necessidadede suspender o feito diante da mencionada decisão, proferindo nova decisão às fls.678/679 dos autos principais, no seguinte sentido: (..)
+(..) Tais provimentos poderiam levar à conclusão no sentido de que o presentea gravo estaria prejudicado, entretanto, vê-se que dentre os pedidos do agravante está a remessa dos autos ao juízo da Comarca de Recife/PE, o que até então não foi atendido.
+Nesse momento, portanto, verifica-se que as razões já expostas em decisões anteriores desta Relatoria, tanto no mencionado agravo de instrumento quanto na reclamação permanecem inalteradas. Vale trazer à baila o que restou definido na Reclamação n. 0801708-26: (..).
+(..) Os agravados afirmam que, no contrato social da Real Alagoas e da Real Alagoas Viação, existe cláusula estabelecendo que o foro de eleição refere-se à cidade de Maceió/AL (cláusula vigésima) - o que pode se denotar da folha 168 destes autos.
+Assim, a Real Alagoas questiona dois pontos principais relacionados à convocação da Assembleia ocorrida em janeiro de 2020, quais sejam: a legitimidade dos agravantes em convocar a reunião e ainda, a validade da realização a Assembleia em Recife/PE.
+Ocorre que, apesar das discussões postas sob análise por meio deste recurso, tenho que existe prejudicialidade deste feito em relação àquele que está tramitando em Recife/PE, cuja ação foi proposta anteriormente à esta.
+Isso porque, apesar daquela ação questionar a validade da Assembleia realizada em 25.04.2019 e a atual ação de origem questionar a Assembleia datada de 24.01.2020, vê-se que as impugnações envolvem a mesma discussão: legitimidade da convocação pelos sócios da Rodoviária Borborema para tratar de temas afetos à Real Alagoas e ainda, a validade da sua realização na cidade de Recife/PE.
+Tanto na primeira quanto na segunda ação esses aspectos são questionados, sendo que a primeira demanda já está tramitando na Comarca de Recife/PE, de modo que aquele juízo irá decidir sobre as mesmas questões ora postas sob análise, havendo inclusive, risco de decisões conflitantes.
+(..) Note-se que, para efeito de conexão, não se exige sequer identidade plenaentre as causas de pedir, tendo em vista a finalidade desse instituto jurídico. Na precisaabordagem de Daniel Amorim Assumpção Neves: (..).
+(..) É preciso ter em mente que o instituto da conexão foi moldado processualmente para otimizar a prestação jurisdicional e evitar decisões que possam se revelar dissonantes. Daí porque, se as demandas estão fundadas em evento danoso, devem ser consideradas conexas para o fim de que sejam reunidas e resolvidas simultaneamente.
+Aliás, mesmo quando não há conexão, mas ainda assim remanesce risco de decisões conflitantes ou contraditórias, os processos devem ser reunidos para julgamento concomitante, nos termos do artigo 55, § 3º, do Código de Processo Civil: (..).
+Assim sendo, não obstante as razões expendidas pelos agravados, não há como deixar de reconhecer a conexão e necessidade de consequente reunião das demandas para julgamento conjunto" (e-STJ fl. 3687/3692) .
+Nesse contexto, a modificação do entendimento adotado pelo órgão colegiado demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, a teor do enunciado da Súmula nº 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixa-se de majorar os honorários sucumbenciais, conforme determina o artigo 85, § 11, do Código de Processo Civil de 2015, haja vista a ausência de condenação da parte em honorários nas instâncias ordinárias.
+Publique-se.
+Intimem-se.
