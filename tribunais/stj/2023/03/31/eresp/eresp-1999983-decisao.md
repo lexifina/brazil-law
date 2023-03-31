@@ -1,0 +1,9 @@
+DECISÃO
+Cuida-se de embargos de divergência opostos por GEAP AUTOGESTÃO EM SAÚDE em face do acórdão da Terceira Turma, da relatoria do MINISTRO MOURA RIBEIRO, que recebeu a seguinte ementa:
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. TRATAMENTO DE CÂNCER. MEDICAMENTO. RECUSA. ROL DE PROCEDIMENTOS DA ANS. EXEMPLIFICATIVO. ENTENDIMENTO DA TERCEIRA TURMA. DANOS EXTRAPATRIMONIAIS CARACTERIZADOS. REEXAME DE PROVAS. DESCABIMENTO. SÚMULA Nº 7 DO STJ. RECURSO ESPECIAL CONHECIDO E NÃO PROVIDO.
+A parte embargante sustenta divergência com os EREsp 1.886.929/SP e REsp 1.733.013/PR. Afirma que, em regra, o rol de procedimentos e eventos estabelecido pela Agência Nacional de Saúde (ANS) é taxativo, não estando as operadoras de saúde obrigadas a cobrirem tratamentos não previstos nessa lista.
+De início, cumpre afastar o exame do dissídio suscitado com o REsp 1.733.013/PR, eis que a parte menciona o julgado, sem proceder, todavia, ao indispensável cotejo analítico, necessário à comprovação da semelhança entre o caso dos autos e a hipótese julgada pela Quarta Turma.
+Melhor sorte não logra a embargante no que tange à divergência suscitada com os EREsp 1.886.929/SP. A despeito de ter realizado o cotejo analítico, a parte deixou de comprovar a identidade fática entre os julgados, pois o acórdão indicado como paradigma afirma que a taxatividade do rol da ANS é regra, todavia, comportando exceções. Já o caso dos autos, trata, justamente, de situação excepcional, relativa a tratamento de câncer, do qual depende a vida do segurado.
+Assim, cabia à parte comprovar porque a situação excepcionada no julgado embargado não encontra guarida em situações pontuais previstas no paradigma indicado, providência olvidada pela embargante, motivo por que a divergência não se revela configurada.
+Em face do exposto, não admito os embargos de divergência.
+Intimem-se.
