@@ -1,0 +1,65 @@
+DECISÃO
+Trata-se de reclamação ajuizada por LUCIA MARTINS DA SILVA, ALESSANDRA MARTINS DA SILVA, FILIPE MARTINS DA SILVA e LARISSA CRISTINA DA SILVA, em face de acórdão do Tribunal de Justiça do Estado de São Paulo, que teria descumprido decisão por mim proferida, REsp n. 1.950.292/SP.
+Aduzem que no recurso especial esta Corte teria dado provimento ao recurso interposto pelos ora reclamantes, para reconhecer a legitimidade passiva da parte recorrida, proprietária do reboque envolvido no acidente de trânsito tratado nos autos, determinando o retorno dos autos à origem para regular prosseguimento do feito.
+Aduzem que o TJSP, no entanto, ao processar o cumprimento de sentença, teria extinto a execução em relação à parte recorrida. Asseveram que este seria o fato que deu origem à presente reclamação, afirmando que esta Corte teria deixado "claro que reconheceu a culpa do Rei do Gado Fazenda Ltda pelo acidente, bem como a sua responsabilidade solidária com os demais demandados, para indenizar as vítimas, ora Reclamantes" (fl. 16).
+Alegam risco de grave dano, "máxime pela incontornável necessidade de preservação da competência e de garantia da autoridade e eficácia das decisões dessa E. Corte Superior de Justiça" (fl. 24).
+A liminar foi indeferida pela Vice-Presidência desta Corte, durante o recesso forense, por meio da decisão de fls. 330/331.
+Contestação às fls. 342/370.
+Eis os fundamentos pelos quais a liminar foi indeferida:
+A concessão de medida liminar pressupõe a constatação da presença simultânea dos requisitos autorizadores, a saber, o fumus boni iuris, caracterizado pela relevância jurídica dos argumentos expendidos pela parte; e o periculum in mora, consubstanciado na possibilidade de perecimento do bem jurídico objeto da pretensão resistida.
+Em juízo de cognição sumária, ínsito à análise de medidas urgentes em plantão judiciário, verifica-se que não restaram comprovados ambos os requisitos.
+Com efeito, nota-se que a e. Ministra Isabel Gallotti deu provimento ao recurso especial, determinando a reinclusão da recorrida no feito, por entender que a parte seria legítima para responder ao processo. Não é possível, neste momento de apreciação de medidas urgentes, concluir que a Relatora teria decidido pela ocorrência de responsabilidade final pelos danos, mas apenas, repita-se, pela legitimidade para responder ao processo.
+Ademais, não lograram os reclamantes comprovar de que modo seria indispensável a suspensão do feito neste momento, sem que se possa aguardar a relatoria natural deste feito para apreciação da medida.
+A atuação excepcional e interventiva desta Presidência, em regime de plantão judiciário e em substituição ao Relator, deve ocorrer apenas nas hipóteses em que restar evidente prejuízo ao resultado útil do processo, o que não é o caso dos autos.
+Adotei os seguintes fundamentos na decisão que proferi no REsp n. 1.950.292/SP:
+(..)
+Assiste razão à parte recorrente.
+A Corte de origem concluiu pela ilegitimidade passiva da parte proprietária do reboque, acoplado ao caminhão envolvido em acidente de trânsito, tendo em vista a cessão gratuita do referido reboque, a título de comodato, conforme se depreende do trecho do acórdão abaixo reproduzido (e-STJ, fls. 1.271 - 1.273):
+O demandado apelante tem razão, contudo, ao sustentar que não lhe cabia arcar com a indenização. Conforme reconheceu o juízo criminal, o acidente automobilístico ocorreu exclusivamente por culpa do réu Miguel, que na ocasião dirigia um caminhão ao qual estava acoplado o reboque de propriedade do á apelante. Ora, o entendimento corrente é no sentido de que se o reboque não deu causa ao acidente automobilístico, nem havia relação de subordinação entre o proprietário dele e o motorista do veiculo que o tracionava, motivo não há para aquele responder pela reparação dos danos por esse causados. Assim se tem entendido sob a constatação de que em casos tais inexiste relação causal entre o acidente e a presença do reboque, nem especial liame subjetivo que autorize impor ao seu dono a incumbência de indenizar dano causado por terceiro, como exigem os artigos 927 e 932 da lei civil.
+Nessa linha, aliás, tem decidido o Superior Tribunal de Justiça como dá exemplo julgado do assim ementado:
+"Responsabilidade civil. Acidente, envolvendo "cavalo mecânico" e carreta. Não responde o proprietário dessa pelos danos causados a terceiros, visto que inexiste vínculo de preposição entre ele e o motorista ou entre ele e dono do caminhão, não se aplicando o inciso 111 do artigo 1.521 do Código Civil." (REsp. no 205.860-SP, rel. Min. Eduardo Ribeiro).
+Na espécie era essa a situação.
+Com efeito, nada permitia reconhecer que o reboque de algum modo concorreu para o fato de o motorista ter perdido o controle do caminhão e colhido o carro da vítima, tanto que na petição inicial os autores nem à se animaram a apontar alguma particularidade que isso sugeria, o que desautorizava o julgador decidir com base em mera conjectura pessoal.
+Certo, ainda, que nem havia relação de subordinação entre o proprietário do reboque e o motorista do caminhão que o tracionava ou mesmo com o proprietário desse veículo.
+É verdade terem os autores impugnado o documento que retratava a entrega do reboque em comodato ao dono do caminhão (fls. 414), mas a rigor motivo algum havia para se negar fé àquela peça, a tanto não bastando mera suspeita de que não fora ele produzido na data lá indicada.
+De todo modo, ainda que por conta disso se abstraísse o aludido documento restaria o fato de não haver nem mínima evidência de que o motorista do caminhão era empregado ou preposto do dono do reboque. Assim, caso era de se julgar improcedente a ação quanto ao recorrente, o que agora ocorre, motivo pelo qual os autores passam a arcar com os honorários do advogado daquele demandado, equitativamente fixados em R$ 5.000,00, observada a gratuidade processual.
+Nesse contexto, verifica-se que o entendimento adotado na origem destoa do atual entendimento adotado pela jurisprudência desta Corte Superior, merecendo reforma no ponto. A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL. RESPONSABILIDADE CIVIL. ACIDENTE DE TRÂNSITO CAUSADO PELO CONDUTOR DO CAVALO MECÂNICO. RESPONSABILIDADE SOLIDÁRIA DO CONTRATANTE PROPRIETÁRIO DO SEMI-REBOQUE. LEGITIMIDADE PASSIVA. PRECEDENTES DO STJ. DECISÃO AGRAVADA MANTIDA. AGRAVO INTERNO DESPROVIDO.
+(AgInt no REsp 1571571/MG, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 22/5/2018, DJe 25/5/2018)
+RECURSO ESPECIAL. ART. 535 DO CPC. RESPONSABILIDADE CIVIL EM ACIDENTE DE TRÂNSITO. REBOQUE E CAMINHÃO TRATOR. RESPONSABILIDADE SOLIDÁRIA. LEGITIMIDADE PASSIVA DAS EMPRESAS PROPRIETÁRIAS DOS VEÍCULOS.
+1. Não há violação ao art. 535, II, do CPC, quando, rejeitados os embargos de declaração, a matéria em exame é devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da recorrente.
+2. A empresa proprietária de semirreboque é solidariamente responsável pelos danos causados em acidente envolvendo o caminhão trator, no qual se encontrava acoplado, devendo, assim, figurar no polo passivo de ação de indenização em razão dos prejuízos advindo daquele evento (grifamos).
+3. Recurso especial não provido.
+(REsp 1289202/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 21/6/2016, DJe 29/8/2016)
+AGRAVO REGIMENTAL. AGRAVO NO RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. ACIDENTE DE TRÂNSITO. SEMI-REBOQUE. PROPRIETÁRIO. LEGITIMIDADE PASSIVA.
+1. O proprietário do veículo responde solidariamente pelos danos decorrentes de acidente de trânsito causado por culpa do condutor, pouco importando que ele não seja seu empregado ou preposto, ou que o transporte seja oneroso ou gratuito (grifamos).
+2. Não apresentação pela parte agravante de argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada.
+3. AGRAVO REGIMENTAL DESPROVIDO.
+(AgRg no REsp 1521006/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 06/10/2015, DJe 13/10/2015)
+AGRAVO REGIMENTAL. AGRAVO NO RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. ACIDENTE DE TRÂNSITO. SEMI-REBOQUE. PROPRIETÁRIO. LEGITIMIDADE PASSIVA.
+1. O proprietário do veículo responde solidariamente pelos danos decorrentes de acidente de trânsito causado por culpa do condutor, pouco importando que ele não seja seu empregado ou preposto, ou que o transporte seja oneroso ou gratuito (grifamos).
+2. Não apresentação pela parte agravante de argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada.
+3. AGRAVO REGIMENTAL DESPROVIDO.
+(AgRg no REsp 1521006/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 06/10/2015, DJe 13/10/2015)
+Em face do exposto, dou provimento ao recurso especial, para reconhecer a legitimidade passiva da parte recorrida, proprietária do reboque envolvido no acidente de trânsito tratado nos autos, determinando, portanto, o retorno dos autos à origem para regular prosseguimento do feito.
+O feito voltou para o Tribunal de origem que procedeu ao rejulgamento, estando assim ementado o acórdão:
+Ação de indenização. Cumprimento de sentença. Direcionamento contra corréu. Sentença que rejeitou alegação de ilegitimidade passiva. Acórdão que confirmou o decidido e na sequência pelo exame do mérito julgou a ação improcedente quanto àquele réu.
+Recurso provido.
+Os fundamentos adotados no acórdão reclamado são os seguintes:
+Como se vê nos autos originais, a sentença rejeitou a alegação de ilegitimidade passiva do requerido Rei do Gado e na sequência reconheceu sua responsabilidade pelo pagamento da indenização pelos danos causados pelo acidente automobilístico.
+No julgamento da a pelação esta Câmara confirmou a rejeição daquela preliminar (fls. 1193), mas proclamou a falta de responsabilidade daquele demandado pelo pagamento da indenização, tendo então julgado a ação improcedente quanto a ele (fls. 1194).
+Os autores então interpuseram recurso especial, que foi assim decidido monocraticamente pela Ministra Relatora Maria Isabel Gallotti:
+(..)
+Os autos voltaram à origem e os autores então direcionaram a fase de cumprimento da sentença contra todos os demandados, dentre eles o ora agravante Rei do Gado (fls. 520), medida que o Juiz autorizou, o que motivou o presente agravo.
+No entanto, razão assiste ao recorrente.
+Isso porque, como se viu, ao julgar o recurso especial o Superior Tribunal de Justiça equivocadamente reconheceu o que o acórdão já havia textualmente proclamado, isto é, que o demandado Rei do Gado detinha legitimidade para responder à propositura.
+Assim, na linha daquela conclusão a referida Corte devolveu ao Tribunal local o exame das questões de mérito, isso também sob o equivocado entendimento de que elas não haviam sido apreciadas em face de proclamada falta de legitimidade passiva.
+Ocorre que o acórdão já havia decidido sobre o mérito da pretensão dos autores frente àquele réu, isso justamente por ter confirmado o reconhecimento da legitimidade daquele demandado para a causa.
+Logo, não se há de falar em dar agora continuidade ao julgamento no âmbito local, eis que esse já ocorreu e se esgotou justamente pelo exame das alegações meritórias atinentes àquela litigante.
+O fato de o Superior Tribunal de Justiça ter incidentalmente aludido a julgados que beneficiavam os autores quanto ao tema de fundo de sua pretensão aqui não tem relevo, note-se, na medida em que aquela Corte não decidiu sobre o mérito da causa, mas só mesmo acerca da legitimidade passiva.
+Logo, base não havia mesmo para agora se reclamar daquele litigante o pagamento da indenização, eis que o Tribunal local reputou improcedente a ação quanto a ele e inocorreu alteração desse desfecho pelo Superior Tribunal de Justiça.
+Disso decorre que ante a falta de título condenatório judicial não podia a fase de cumprimento de sentença ser direcionada contra o ora recorrente.
+Ante tal contexto resta julgar extinto o cumprimento de sentença em face do agravante, motivo pelo qual os agravados passam a responder por custas e honorários de advogado relativamente à presente fase, esses arbitrados em 10% do valor do débito nos termos do artigo 85 do CPC, observada a gratuidade processual.
+Desse modo, de fato, conforme constou da decisão que indeferiu a liminar, não se afigura descumprimento da decisão proferida no REsp n. 1.950.292/SP que se limitou a determinar o retorno dos autos à origem para reconhecimento da legitimidade do dono do reboque, o que já havia sido feito, contudo, no julgamento anterior proferido pelo Tribunal de origem, sendo afastada, no entanto, a responsabilidade dele no ocorrido e, assim, dado que esta Corte não se imiscuiu no mérito da demanda, não se pode, agora, em sede de reclamação, pretender seja esse tema debatido, o que somente seria possível na via recursal própria, mas que já se exauriu quando o Tribunal de origem julgou improcedente a demanda em relação ao ora interessado e não houve alteração desse entendimento por esta Corte.
+Em face do exposto, julgo improcedente a presente reclamação.
+Intimem-se.
