@@ -1,0 +1,31 @@
+DECISÃO
+ Trata-se  de  recurso  especial  interposto  pela UNIÃO,  com  fundamento  no  art.  105,  inciso  III,  alínea  a,  da  CF/1988,  contra  acórdão  proferido  pelo  TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS,  assim  ementado:
+MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO. GRATIFICAÇÃO DE ATIVIDADE EXTERNA (GAE). READAPTAÇÃO.
+A exclusão da GAE, n caso de readaptação do servidor público que não exerce função comissionada nem cargo em comissão, importa ofensa ao princípio da irredutibilidade de vencimentos, motivo pelo qual o pagamento deve ser restabelecido a partir da impetração do mandamus  (fls.  94).
+Nas razões do seu recurso especial (fls. 139/145), a parte recorrente sustenta violação ao art. 16, c/c o art. 4º, §1º, da Lei 11.416/2006; e art. 24, caput, da Lei 8.112/1990. Alega que: (a) a GAE é devida exclusivamente aos ocupantes de cargo de analista judiciário com atribuições relacionadas à execução de mandados e atos processuais de natureza externa, possuindo natureza propter laborem, de maneira que, se o servidor deixa de exercer as atribuições, não faz jus ao recebimento da gratificação; (b) a readaptação importa em investidura em outro cargo diverso do anteriormente ocupado.
+A parte recorrida apresentou as contrarrazões (fls. 261/272).
+O Ministério Público Federal, em parecer da lavra do Subprocurador-Geral da República, FLÁVIO GIRON, opinou pelo conhecimento e desprovimento do recurso especial (fls. 285/288).
+ É  o  relatório.
+Cuida-se,  na  origem,  de  mandado  de  segurança  impetrado  contra  ato do Presidente do Tribunal de Justiça do Distrito Federal e dos Territórios que não restabeleceu o pagamento da Gratificação de Atividade Externa - GAE, que havia sido suprimida da sua remuneração após a readaptação funcional do cargo de analista judiciário, especialidade Oficial de Justiça Avaliador, para o cargo de Analista Judiciário, Área Judiciária.
+Nos termos da Lei 8.112/1990, a readaptação do servidor para outro cargo compatível à limitação superveniente deve observar a equivalência de vencimentos:
+Art. 24. Readaptação é a investidura do servidor em cargo de atribuições e responsabilidades compatíveis com a limitação que tenha sofrido em sua capacidade física ou mental verificada em inspeção médica.
+§ 1º Se julgado incapaz para o serviço público, o readaptando será aposentado.
+§ 2º A readaptação será efetivada em cargo de atribuições afins, respeitada a habilitação exigida, nível de escolaridade e equivalência de vencimentos e, na hipótese de inexistência de cargo vago, o servidor exercerá suas atribuições como excedente, até a ocorrência de vaga.
+Por seu turno, a Lei 11.416/2006 instituiu a gratificação de atividade externa nos seguintes termos:
+Art. 16. Fica instituída a Gratificação de Atividade Externa - GAE, devida exclusivamente aos ocupantes do cargo de Analista Judiciário referidos no § 1º do art. 4º desta Lei.
+§ 1º A gratificação de que trata este artigo corresponde a 35%(trinta e cinco por cento) do vencimento básico do servidor.
+§ 2º É vedada a percepção da gratificação prevista neste artigo pelo servidor designado para o exercício de função comissionada ou nomeado para cargo em comissão.
+Observe-se que, nos termos da lei, a gratificação é devida a todos que ocupem o cargo de Analista Judiciário, especialidade Oficial De Justiça Avaliador, tendo como única exceção a designação do servidor para o exercício de função comissionada ou cargo em comissão, o que não é a hipótese dos autos.
+Importa ainda observar os termos da Portaria Conjunta STF/TSE/STJ/TST/STM/TJDFT 01/2007 (Anexo II, art. 4º), que disciplina a GAE:
+Art. 1º A concessão da Gratificação de Atividade Externa - GAE, devida exclusivamente ao servidor ocupante do cargo de Analista Judiciário, Área Judiciária, Execução de Mandados das carreiras do Poder Judiciário da União, observará os critérios e procedimentos estabelecidos neste ato.
+Art. 2º A Gratificação de Atividade Externa será paga, quando for o caso, cumulativamente com a indenização de transporte devida ao servidor.
+Art. 3º É vedada a percepção da gratificação de que trata este ato por servidor em exercício de função comissionada ou de cargo em comissão.
+§ 1º Ao servidor que se encontrar em exercício de função comissionada destinada, pelos órgãos do Poder Judiciário da União, especificamente aos ocupantes do cargo de Analista Judiciário descrito no art. 1º, será facultado optar pela percepção da GAE ou da função comissionada até que seja integralizado o vencimento básico previsto no Anexo IX da Lei nº 11.416/2006, sem prejuízo das atribuições relacionadas com a execução de mandados e atos processuais de natureza externa.
+§ 2º Os efeitos financeiros da opção de que trata o parágrafo anterior serão retroativos a 1º de junho de 2006, se for o caso.
+Art. 4º A gratificação integrará a remuneração contributiva utilizada para cálculo dos proventos de aposentadoria, nos termos do § 3º do art. 40 da Constituição Federal, bem como os proventos de aposentadoria e benefícios de pensão, amparados pelo art. 7º da Emenda Constitucional nº 41, de 31 de dezembro de 2003 e no parágrafo único do art. 3º da Emenda Constitucional nº 47, de 6 de julho de 2005.
+Art. 5º Ao Analista Judiciário, Área Judiciária, Execução de Mandados, do Quadro de Pessoal do Tribunal de Justiça do Distrito Federal e Territórios é devida a GAE a partir de 15 de dezembro de 2006.
+Parágrafo único. Ao servidor de que trata o caput deste artigo não é devida a GAE no período de 1º de junho a 14 de dezembro de 2006, tendo em vista o disposto no § 2º do art. 1º da Lei nº 10.417, de 5 de abril de 2002.
+Apura-se da referida portaria que a GAE compõe inclusive o cálculo dos proventos de aposentadoria dos oficiais de justiça federais, evidenciando tratar-se de parcela integrante de sua remuneração, e não meramente indenizatória.
+Nesses termos, o respeito à equivalêcia/irredutibilidade dos vencimentos a ser observada na readaptação do servidor federal que sofra limitações em sua capacidade física ou mental impõe a manutenção da gratificação em comento após a readaptação da servidora para o cargo de Analista Judiciária, Área Judiciária.
+ Ante  o  exposto,  nega-se  provimento  ao  recurso  especial  de  UNIÃO.
+Publique-se.  Intimações  necessárias.
