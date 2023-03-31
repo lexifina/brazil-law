@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo interposto por OURO BRANCO INDUSTRIA E COMERCIO DE EMBALAGENS PLASTICAS LTDA. E OUTROS contra a decisão que inadmitiu recurso especial. O apelo extremo, com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+"AGRAVO DE INSTRUMENTO. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO MONITÓRIA.
+DETERMINAÇÃO DE JUNTADA DE DOCUMENTOS. CASO DOS AUTOS EM QUE TODOS OS CONTRATOS OBJETO DO PLEITO MONITÓRIO JÁ SE ENCONTRAM ANEXADOS AO FEITO. DESNECESSIDADE DE APRESENTAÇÃO DE OUTROS DOCUMENTOS. DECISÃO MODIFICADA.
+UNÂNIME. DERAM PROVIMENTO AO RECURSO" (fl. 54 e-STJ).
+Os embargos de declaração opostos foram rejeitados (fl. 75 e-STJ).
+No especial, os recorrentes apontam, além de divergência jurisprudencial, violação do art. 6º, VIII, do CDC. Defendem , em síntese, que, "para o devido prosseguimento da demanda, deve ser especificado o valor correto do débito, após a devida análise por expert, o que só poderá ocorrer mediante apresentação dos contratos e documentos que somente o banco recorrido possui" (fl. 91 e-STJ).
+Apresentadas contrarrazões às fls. 103/123 (e-STJ).
+O Presidente do tribunal de origem inadmitiu o recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação não merece prosperar.
+Na hipótese dos autos, o tribunal de origem dirimiu a controvérsia nos seguintes termos:
+"Já de início, consigno ser o caso de reforma da decisão agravada, confirmando-se o entendimento expresso quando da análise preliminar do recurso (evento 5, DESPADEC1). Por pertinentes, transcrevo, na sequência, os fundamentos que sustentaram o deferimento liminar da ordem, adotando-os como razões de decidir:
+ .. . Recebo o recurso, atribuindo-lhe o efeito suspensivo postulado por verificar, no caso concreto, a plausibilidade do direito alegado e inequívoco perigo de dano grave ou de difícil e incerta reparação em desfavor da parte agravante. Inicialmente, registro que, relativamente à alegação de nulidade da decisão recorrida por ausência de fundamentação, não prospera a irresignação, vez que o julgado impugnado apresenta adequada exposição de seus motivos e tem sua conclusão amparada nos elementos fáticos e jurídicos que permearam a discussão durante todo o curso da lide quais sejam a necessidade de revisão dos encargos contratuais controvertidos nos embargos monitórios. Por consequência, sem que se possa falar em qualquer nulidade, vai afastada, de plano, a prejudicial. Entretanto, no que tange à exibição dos documentos, consoante afirmado pela própria instituição financeira recorrente em sua inicial, "as partes pactuaram diversas propostas para utilização do crédito" indicando, ao menos, quatro operações que teriam sido novadas por intermédio de um termo aditivo de retificação e ratificação. Este último contrato foi acostado aos autos nas fls. 11/12-v seguido da pactuação relativa à abertura de crédito em conta (fls. 13/20-v) e às operações de R$ 89.000,00 (oitenta e nove mil reais), R$ 111.000,00 (cento e onze mil reais), R$ 48.000,00 (quarenta e oito mil reais) e R$ 158.333,26 (cento e cinquenta e oito mil trezentos e trinta e três reais e vinte e seis centavos)que se encontram nas fls. 21/30-v. Documentos os quais indicam, de forma suficiente, o número de parcelas contratadas, a natureza da operação e o valor dos juros remuneratórios ajustados. E que, por esta razão, se revelam hábeis para a apreciação das questões revisionais postas nos embargos monitórios (fls. 40/48). Logo, inexiste razão que justifique a manutenção do comando impugnado sendo desnecessária a apresentação de outros instrumentos contratuais que não aqueles que já se encontram anexados ao feito" (fl. 52 e-STJ).
+Nesse cenário, a revisão do julgado esbarra no óbice da Súmula nº 7/STJ.
+Por fim, consoante iterativa jurisprudência desta Corte, a necessidade de reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de majorar os honorários sucumbenciais, conforme determina o artigo 85, § 11, do Código de Processo Civil de 2015, haja vista a ausência de condenação em honorários nas instâncias ordinárias.
+Publique-se.
+Intimem-se.
