@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de conflito negativo de competência suscitado pelo Juízo Federal da 2ª Vara de Campos - SJ/RJ, em face do Juízo de Direito do Primeiro Juizado Especial Criminal de Campos dos Goytacazes - RJ, nos autos de Termo Circunstanciado em que se apura suposto delito do artigo 60 da Lei 9.605/98.
+Extrai-se dos autos que a empresa L A Brandão de Azevedo (Cerâmica Brandão Azevedo - CNPJ 68.807.049/0001-94), estaria extraindo recursos minerais (argila), sem a competente autorização, permissão, concessão ou licença, ou em desacordo com a obtida (fl. 36).
+O Juízo de Direito do Primeiro Juizado Especial Criminal de Campos dos Goytacazes - RJ, após manifestação ministerial, declinou de sua competência em favor da Justiça Federal, sustentando conexão entre o crime ambiental e o delito de usurpação de bem da União (art. 2º, § 1º, da Lei n. 8.176/91) (fl. 43).
+O Juízo Federal da 2ª Vara de Campos - SJ/RJ, por sua vez, suscitou o presente conflito, sob o fundamento de que "a empresa ceramista Cerâmica estaria praticando, em tese, o delito tipificado no artigo 60 da Lei nº 9.605/98" e que "não há qualquer indício acerca da efetiva extração ilegal de matéria-prima pertencente à União" apto a configurar a prática do crime previsto no no artigo 2º da Lei n. 8.176/91, o que afasta a pretensa conexão e a competência federal para o processamento e julgamento do feito (fls. 57 - 58).
+O Ministério Público Federal, manifestou-se pela competência do Juízo de Direito do Primeiro Juizado Especial Criminal de Campos dos Goytacazes - RJ, o suscitado, consoante ementa a seguir transcrita (fls. 68 - 73):
+"CONFLITO NEGATIVO DE COMPETÊNCIA. PENAL E PROCESSO PENAL. JUSTIÇA FEDERAL E ESTADUAL. CRIME DO ART. 60 LEI 9.605/98. FUNCIONAMENTO DE ESTABELECIMENTO POTENCIAMENTE POLUIDOR SEM LICENÇA DO ÓRGÃO AMBIENTAL COMPETENTE. CRIME AMBIENTAL. AUSÊNCIA DE INDÍCIOS DE QUE A ATIVIDADE TENHA ATINGIDO BENS, SERVIÇOS OU INTERESSES DA UNIÃO. PRECEDENTES. CONHECIMENTO DO CONFLITO, PARA QUE SEJA DECLARADA A COMPETÊNCIA DO JUÍZO DO 1º JUIZADO ESPECIAL CRIMINAL DE CAMPOS DE GOYTACAZES-RJ, SUSCITADO."
+É o relatório.
+Decido.
+Assiste razão ao d. Juízo suscitante.
+Acerca da quaesti o, deve-se frisar, inicialmente, que a Lei n. 9.605/98, que regula os delitos praticados contra o meio ambiente, nada dispôs acerca da competência para processar e julgar os crimes ali tipificados.
+Ademais, tendo em vista que o art. 23, incisos VI e VII, da Constituição Federal, confere à União, aos Estados, ao Distrito Federal e aos Municípios a proteção ao meio-ambiente e não há, quanto aos crimes ambientais, expresso dispositivo constitucional ou infraconstitucional quanto à competência para o seu julgamento, tem se, a princípio, que o processo e o julgamento dos delitos ambientais compete à Justiça Comum Estadual.
+Isso porque a competência da Justiça Federal, consoante o disposto no art. 109, inciso IV, da Constituição Federal, restringe-se às hipóteses em que os crimes ambientais são perpetrados em detrimento de bens, serviços ou interesses da União, ou de suas autarquias ou empresas públicas.
+Desta forma, a competência da Justiça Federal, no presente caso, apenas se justificaria caso demonstrado o interesse da União na apuração do delito ambiental. Contudo, tal demonstração, a meu ver, não ocorreu na espécie.
+Consoante se extrai do parecer ministerial de fl. 70:
+"No caso, conforme relatado pelo juízo suscitante, segundo a narrativa do policial militar responsável pela fiscalização, verificou-se que a Cerâmica L Brandão estava funcionando sem a devida licença ambiental dos órgãos competentes (fl. 14)
+Ademais, o Laudo de Exame de Perícia de Local - PRPTC-CP-SPC-010036/2022 concluiu que, "pôde ser observada atividade de produção de tijolos no estabelecimento examinado, além de ter sido observada captação água, diretamente de poço"(fl. 16).
+Desse modo, consta apenas a notícia de que a empresa funcionava sem a devida licença ambiente, sem qualquer sequer menção quanto à origem da matéria-prima utilizada por ela, se decorrente ou não de extração ilegal de argila, o que de fato atrairia a competência da Justiça Federal.
+Desse modo, em razão da ausência de indícios de usurpação de bem mineral da União, a competência para o processamento do feito é do Juízo Federal da 2ª Vara de Campos dos Goytacazes - SJ/RJ."
+In casu, não está configurada, portanto, inequivocamente, a efetiva lesão a bens, serviços ou interesses da União, razão pela qual deve ser reconhecida a competência da Justiça Estadual para processamento do feito.
+Sobre o tema, assim já se manifestou esta eg. Corte:
+"AGRAVO REGIMENTAL NO CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA FEDERAL X JUSTIÇA ESTADUAL. AÇÃO PENAL. CRIME AMBIENTAL. ART. 55 DA LEI N. 9.605/1998. EXTRAÇÃO RUDIMENTAR DE AREIA EM LEITO DE RIO. AUSÊNCIA DE DEMONSTRAÇÃO DE LESÃO A INTERESSE DA UNIÃO COMPETÊNCIA DA JUSTIÇA ESTADUAL.
+1. Compete à Justiça estadual o julgamento do crime do art. 55 da Lei n. 9.605/1998, consubstanciado em extração rudimentar de areia em leito de rio, quando não demonstrada excepcional lesão a interesse da União.
+2. Agravo regimental improvido." (AgRg no CC n. 151.896/RJ, Terceira Seção, relator Ministro Antonio Saldanha Palheiro, DJe de 1/2/2019.)
+Diante de tais considerações, conheço do presente conflito, e declaro competente para processo e julgamento do feito o Juízo de Direito do Primeiro Juizado Especial Criminal de Campos dos Goytacazes - RJ, o suscitado .
+P. e I
+EMENTA
+CONFLITO DE COMPETÊNCIA. CRIME CONTRA O MEIO AMBIENTE. AUSÊNCIA DE EFETIVA LESÃO A BENS, SERVIÇOS OU INTERESSES DA UNIÃO. COMPETÊNCIA DA JUSTIÇA ESTADUAL.
