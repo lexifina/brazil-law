@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interposto por JUSTINO DAVINO PERES contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO DE REINTEGRAÇÃO DE POSSE. PRELIMINAR. CERCEAMENTO DE DEFESA. PRODUÇÃO DE NOVAS PROVAS. PRECLUSÃO. REINTEGRAÇÃO DE POSSE. REQUISITOS DO ARTIGO 561 DO CPC NÃO PREENCHIDOS. - O artigo 507 do Código de Processo Civil é claro ao prever que é vedado à parte discutir no curso do processo as questões já decididas a cujo respeito se operou a preclusão. Não tendo sido requerida a produção de novas provas no momento oportuno, o pleito posterior leva ao indeferimento do pedido, em decorrência de nítida preclusão. - Para o reconhecimento da procedência do pedido de reintegração de posse é necessário que o autor comprove a posse anterior, o esbulho, a data do esbulho, bem como a perda da posse, conforme previsto no art. 561 do CPC. Não comprovada a ocorrência de esbulho, deve ser indeferido o pleito de reintegração na posse" (e-STJ fl. 419).
+No recurso especial, o recorrente alega, além de divergência jurisprudencial, violação do art. 370, II, do Código de Processo Civil, ao fundamento de que o juiz tem o dever de determinar, de ofício, a produção de qualquer prova que entender ser imprescindível ao julgamento da lide, sob pena de cercear o direito de defesa da parte.
+Sustenta a inaplicabilidade do art. 507 do Código de Processo Civil, pois não há preclusão para o magistrado em matéria probatória.
+Com as contrarrazões, foi negado seguimento ao recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+Com efeito, as conclusões do tribunal de origem acerca do cerceamento de defesa e provas dos autos decorreram inquestionavelmente da análise do conjunto fático-probatório carreado aos autos, o que se pode facilmente aferir a partir da leitura dos fundamentos do julgado atacado, que ora se colaciona, na parte que interessa:
+"(..)
+No caso concreto, alega o apelante que houve cerceamento de defesa já que o próprio magistrado sentenciante não determinou, "ex officio", a realização de prova pericial, tida por ele como indispensável para o julgamento do processo.
+Ocorre que, como se colhe dos autos, mais especificadamente o despacho juntado no documento de ordem 115, o douto magistrado suscitou as partes quais provas pretendiam produzir.
+A parte autora respondeu em petição juntada a ordem 117, pleiteando, tão somente, a oitiva de testemunhas, sem indicar nenhuma outra prova que pretendia produzir.
+Ato contínuo, a oitiva da testemunha indicada foi deferida e ouvida em audiência de instrução e julgamento.
+O artigo 507 do Código de Processo Civil é claro ao prever que é vedado à parte discutir no curso do processo as questões já decididas a cujo respeito se operou a preclusão - exatamente como ocorre no presente caso - não podendo a parte autora, após o momento processual cabível, requerer que prova pericial seja produzida se não a requereu anteriormente.
+Destaca-se, ademais, que o poder conferido ao magistrado de produção de provas, nos moldes previstos no artigo 370 do Código de Processo Civil, não isenta as partes de desincumbir do ônus probatório que lhe são impostos pelo artigo 373, I e II do Código de Processo Civil, especialmente em lide em que se discute direito disponível, como a presente.
+Assim, se a parte autora não requereu a produção das provas cabíveis a demonstrar os fatos constitutivos do seu direito (art. 373, I do CPC), não pode agora, em sede recursal, simplesmente alegar que o magistrado não determinou a produção de prova que era necessária a correta apreciação do pedido formulado na inicial, já que, repita-se, o ônus probatório a respeito dos fatos constitutivos incumbe ao próprio autor, não ao Juiz de Direito.
+Desse modo, por reconhecer a preclusão temporal do ato de requerer a produção de novas provas e diante da inexistência de dever do magistrado de produção de provas supostamente necessárias para apreciação de pedido embasado em direito disponível, rejeito a preliminar de cerceamento de defesa levantada pela parte apelante" (e-STJ fls. 422/423).
+Nesse contexto, denota-se que o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, a teor do enunciado da Súmula nº 7 deste Superior Tribunal.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 15% (quinze por cento) sobre o valor da causa (R$ 28.000,00 - vinte e oito mil reais), os quais devem ser majorados para o patamar de 18% (dezoito por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
