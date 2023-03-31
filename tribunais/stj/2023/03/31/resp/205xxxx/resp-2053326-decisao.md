@@ -1,0 +1,70 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, com respaldo na alínea "a" do permissivo constitucional, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (e-STJ fl. 313):
+ACIDENTARIA - EVENTO TÍPICO - AMPUTAÇÃO DA PERNA DIREITA - LIAME OCUPACIONAL E PREJUÍZO FUNCIONAL TOTAL E PERMANENTE RECONHECIDOS - APOSENTADORIA POR O INVALIDEZ - CABIMENTO.
+"Incontroverso o acidente de trabalho e reconhecido pelo próprio INSS o prejuízo funcional total e permanente decorrente das sequelas dele advindas, de rigor a concessão do aposentadoria por invalidez acidentária com início, no caso, a partir da data da realização do laudo médico. Os valores em atraso serão apurados, atualizados e acrescidos de juros de mora na forma da Lei 8.213/91 c. c. o Código Civil vigente e Lei 11.960/09. A renda mensal a ser implantada será reajustada pelos índices de manutenção".
+ACIDENTÁRIA - EVENTO TÍPICO - AMPUTAÇÃO DA PERNA DIREITA - ALTA MÉDICA SEM A CONCESSÃO DE QUALQUER BENEFÍCIO - DANO MORAL - CABIMENTO NA HIPÓTESE DIANTE DA EXCEPCIONALIDADE E DA GRAVIDADE DO CASO.
+"Considerando que, no caso vertente, mesmo diante da evidente e indiscutível incapacidade resultante da amputação de uma perna, o obreiro recebeu alta médica sem que nenhum benefício lhe fosse concedido. Face à gravidade e absurdo da conduta da Previdência no trato do caso, é cabível, em caráter excepcionalíssimo, a condenação do INSS ao pagamento de danos morais fixados no importe de R$50.000,00".
+Apelação do autor provida (inclusão dos danos morais e verba honorária) mantida no mais a r. Sentença em sede do reexame necessário.
+Embargos de declaração rejeitados (e-STJ fls. 334/338).
+Em suas razões, a autarquia alega, em preliminar, afronta ao art. 535 do CPC/1973, por omissão do Tribunal de origem acerca da incompetência da Justiça Estadual e da ausência de pressupostos legais para a concessão da indenização por dano moral.
+No mérito, aponta violação dos arts. 109, I, da Constituição Federal de 1988 e 292, § 1º, II, do CPC/1973, argumentando ser incabível a cumulação de pedidos de concessão de benefício acidentário com indenização por danos morais diante da incompetência da Justiça Estadual para apreciar este último pleito .
+Aduz, ainda, com fundamento no art. 37, § 6º, da Carta Constitucional, estarem ausentes os pressupostos para condenação por dano moral por não ter havido comprovação de ato ilegal que tivesse causado a alegada lesão extrapatrimonial. Insurge-se, outrossim, contra o valor fixado a título de indenização (R$ 50.000,00), por considerar desarrazoado.
+Por fim, postula a incidência da Lei n. 11.960/2009, que alterou o art. 1º-F da Lei n. 9.494/1997, a partir de sua entrada em vigor, para a correção monetária das parcelas vencidas.
+Em juízo de retratação do art. 1.040, II, do CPC/2015, a Corte de origem manteve o julgado sob os seguintes fundamentos (e-STJ fl. 391):
+AÇÃO ACIDENTÁRIA - BENEFÍCIO DEFERIDO - CORREÇÃO DOS VALORES EM ATRASO - IGP-DI ATÉ JUNHO DE 2009, INCLUSIVE, TAXA REFERENCIAL (TR) A PARTIR DAÍ - JUROS DE MORA - BASE MENSAL DE 1% ATÉ JUNHO DE 2009 INCLUSIVE E, A PARTIR DAÍ, CONFORME DISCIPLINA DA LEI 11.960/09.
+Acórdão mantido.
+Sem contrarrazões (e-STJ fl. 380). Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 400/401.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Isso verificado, registro que, no pertinente aos arts. 37, § 6º, e 109, I, da Constituição da República, cumpre salientar que o recurso especial não é remédio processual adequado para conhecer de irresignação fundada em suposta afronta a preceito constitucional, sendo essa atr ibuição da Suprema Corte, em sede de recurso extraordinário (art. 102, III, da CF).
+A propósito:
+PREVIDENCIÁRIO. CONVERSÃO DE TEMPO DE SERVIÇO COMUM EM ESPECIAL. INCIDÊNCIA DA LEGISLAÇÃO VIGENTE QUANDO PREENCHIDOS OS REQUISITOS DO BENEFÍCIO PRETENDIDO. MATÉRIA DECIDIDA SOB O RITO DO ART. 543-C DO CPC. INCIDÊNCIA DA SÚMULA 168/STJ. PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. DESCABIMENTO.
+1. No julgamento do REsp 1.310.034/PR, Rel. Ministro HERMAN BENJAMIN, processado nos termos do arts. 543-C do CPC, ficaram estabelecidos os seguintes parâmetros: "a) a configuração do tempo especial é de acordo com a lei vigente no momento do labor, e b) a lei em vigor quando preenchidas as exigências da aposentadoria é a que define o fator de conversão entre as espécies de tempo de serviço".
+2. Segundo as premissas estabelecidas, para que o segurado faça jus à conversão de tempo de serviço comum em especial, é necessário que ele tenha reunido os requisitos para o benefício pretendido antes da vigência da Lei n. 9.032/95, de 28/4/95, independentemente do momento em que foi prestado o serviço.
+3. Portanto, na espécie, há incidência da Súmula 168/STJ: "Não cabem embargos de divergência, quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado."
+4. Não cabe ao Superior Tribunal de Justiça, ainda que para fins de prequestionamento, examinar na via especial suposta violação a dispositivo constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal.
+5. Agravo regimental a que se nega provimento. (AgRg nos EAREsp 651.943/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA SEÇÃO, julgado em 24/02/2016, DJe 04/03/2016).
+Impõe-se afastar, outrossim, a indigitada ofensa ao art. 535 do CPC/1973, visto que o acórdão impugnado apreciou a controvérsia, apontando as razões de seu convencimento, não se vislumbrando, na espécie, qualquer contrariedade à norma invocada (e-STJ fl. 337):
+Quanto à competência para apreciar o pedido de indenização por danos morais, a posição esposada pela Turma Julgadora decorre do entendimento implícito de que não há óbice à sua apreciação pela Justiça Comum Estadual na medida em que a deduzido em sede de ação acidentária, não se cogitando de obscuridade a respeito.
+Assim, ainda que a parte recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação. Não há como confundir o resultado desfavorável ao litigante com a falta de fundamentação, motivo pelo qual não se constata violação do preceito apontado.
+A propósito:
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CPC/2015. SUCEDÂNEO RECURSAL. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no artigo 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão da decisão recorrida ou erro material.
+2. No caso, não se verifica a existência de quaisquer das deficiências em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. "A ação rescisória não pode ser utilizada como sucedâneo recursal, visando à mera rediscussão do mérito da causa, dado seu caráter excepcional" (AR 5.696/DF, Rel. Ministro João Otávio de Noronha, Corte Especial, DJe 07/08/2018).
+4. Embargos de declaração rejeitados. (EDcl na AR 5.306/RJ, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA SEÇÃO, julgado em 14/08/2019, DJe 27/09/2019).
+No tocante aos consectários da condenação, colhe-se dos autos que o Tribunal a quo, em juízo de retratação do art. 1.040, II, do CPC/2015, decidiu manter o julgado por consignar que o acórdão já havia determinado a adoção da Lei n. 11.960/2009 "tanto para a correção monetária quanto para a base mensal de juros de mora" (e-STJ fl. 392).
+Não obstante, a autarquia limitou-se a postular a aplicação imediata da Lei n. 11.960/2009, sem observar a ausência de interesse recursal.
+Como é cediço, a falta de pertinência entre as razões do recurso especial e a decisão questionada atrai o óbice contido na Súmula 284 do STF - "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"-, pois não é possível conhecer de recurso especial que invoca como violado dispositivo de lei federal que não possui comando normativo apto a infirmar a tese adotada pelo acórdão recorrido.
+Nesse sentido:
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. AGRAVO REGIMENTAL. DECISÃO MONOCRÁTICA. INDEFERIMENTO LIMINAR DA AÇÃO. INCOMPETÊNCIA DO STJ PARA CONHECER ORIGINARIAMENTE DO WRIT. VEICULAÇÃO DE RAZÕES DISSOCIADAS. APLICAÇÃO DA SÚMULA 284/STF. PRECEDENTES DO STJ. AGRAVO REGIMENTAL DO IMPETRANTE NÃO CONHECIDO.
+1. Aplica-se o óbice da Súmula 284/STF quando o recurso veicular razões dissociadas dos fundamentos da decisão recorrida.
+2. No caso, a decisão agravada apenas reconheceu a incompetência do STJ, por não se configurar a hipótese do art. 105, I, b da CF/88, matéria não recorrida.
+3. Agravo Regimental do Impetrante não conhecido. (AgRg no MS 19.557/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA SEÇÃO, julgado em 14/12/2016, DJe 2/2/2017).
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC/1973. NÃO OCORRÊNCIA. FUNDAMENTAÇÃO RECURSAL DEFICIENTE. SÚMULA 284 DO STF.
+1. Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. O acolhimento de recurso especial por violação ao art. 535 do CPC/1973 pressupõe a demonstração de que a Corte de origem, mesmo depois de provocada mediante embargos de declaração, deixou de sanar vício de integração contido em seu julgado, o que não ocorreu na espécie.
+3. Não é possível conhecer de recurso especial que invoca como violado dispositivo de lei federal que não possui comando normativo apto a infirmar a tese adotada pelo acórdão recorrido. Inteligência da Súmula 284 do STF.
+4. Agravo interno desprovido. (AgInt no AREsp 290.622/MG, de minha relatoria, PRIMEIRA TURMA, julgado em 02/05/2017, DJe 20/06/2017).
+No mais, não merece acolhimento a alegada incompetência da Justiça estadual para condenar a autarquia ao pagamento de indenização por dano moral.
+Como é cediço, a competência da Justiça Federal é ratione personae, ou seja, é definida em razão do interesse da União ou de suas entidades autárquicas ou empresas públicas federais, seja na condição de rés, assistentes ou oponentes, à exceção das demandas de natureza especializada, tais como as de falência, acidente de trabalho e as sujeitas às Justiças Eleitoral e do Trabalho, ex vi do art. 109, I, da Carta Magna.
+Ou seja, a justiça estadual detém, por força do comando constitucional, a competência absoluta para processar e julgar as causas relativas a acidente de trabalho movidas contra a autarquia federal (art. 109, I, CF/1988).
+Outrossim, a legislação processual permite a cumulação de pedidos num mesmo processo contra o mesmo réu, porém, observados alguns requisitos, os quais eram previstos no § 1º do art. 292 do CPC/1973, correspondente ao art. 327 do CPC atual, que são:
+Art. 292. É permitida a cumulação, num único processo, contra o mesmo réu, de vários pedidos, ainda que entre eles não haja conexão.
+§ 1 o São requisitos de admissibilidade da cumulação:
+I - que os pedidos sejam compatíveis entre si;
+II - que seja competente para conhecer deles o mesmo juízo;
+III - que seja adequado para todos os pedidos o tipo de procedimento.
+Na espécie, não se vislumbra a ofensa ao inc. II do dispositivo supra, na medida em que é perceptível a decorrência lógica entre os pedidos cumulativos de (i) concessão de benefício e de (ii) indenização por dano moral.
+Isso porque, segundo a instância ordinária, o dano moral foi reconhecido em razão da cessação de benefício a quem dele necessitava, pois, "mesmo diante da evidente e indiscutível incapacidade resul tante da amputação de uma perna, o obreiro recebeu alta médica sem que nenhum benefício lhe fosse concedido" (e-STJ fl. 313).
+A propósito, mutatis mutandis:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA ESTADUAL E JUSTIÇA FEDERAL. CONCESSÃO DE APOSENTADORIA POR IDADE CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. ART. 109, § 3º, DA CR/88. FORO. OPÇÃO PELO SEGURADO. COMPETÊNCIA DA JUSTIÇA ESTADUAL.
+SUSCITADO.
+1.Extrai-se dos autos que o pedido do autor consiste na concessão de aposentadoria por idade, bem como na condenação do INSS ao pagamento de indenização por danos morais.
+2.O autor optou pela Justiça Estadual localizada no foro de seu domicílio, que por sua vez não possui Vara Federal instalada, nos termos do art. 109, § 3º, da CR/88.
+3.Entende esta Relatoria que o pedido de indenização por danos morais é decorrente do pedido principal, e a ele está diretamente relacionado.
+4.Consoante regra do art. 109, § 3º, da CR/88, o Juízo Comum Estadual tem sua competência estabelecida por expressa delegação constitucional.
+5.Conflito de competência conhecido para declarar a competência do Juízo de Direito da 1ª Vara de Registro-SP. (CC 111447/SP, TERCEIRA SEÇÃO, Relator Ministro Celso Limongi (Desembargador convocado TJ/SP), Julgado em 23/6/2010, DJe 2/8/2010).
+Ante o exposto, com base no art. 255, § 4º, I e II, do RISTJ, CONHEÇO EM PARTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração de tal verba, em desfavor da parte recorrente, no importe de 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
