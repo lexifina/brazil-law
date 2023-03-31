@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por ITAU UNIBANCO S.A, contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em Recurso Especial interposto em: 09/05/2022.
+Concluso ao gabinete em: 27/02/2023.
+Ação: de exigir contas, em primeira fase, ajuizada por ERCOLI DISTRIBUIDORA DE UTILIDADES DOMESTICAS E BRINQUEDOS LTDA e OUTROS, em face do agravante, na qual alegam que a empresa demandante mantém as contas correntes n. 03683-6 e n. 11648-9 junto da agência 0210 do banco demandado. Asseveram que a empresa autora sempre contratou e honrou pontualmente todas as obrigações assumidas junto ao requerido, apesar das dúvidas que pairavam acerca dos valores exigidos por esta no âmbito das operações financeiras existentes entre as partes (especialmente quanto à garantia ofertada e sua contabilização nas contas correntes acima indicadas).
+Por derradeiro, os requerentes afirmam que realizaram todas as suas operações de débito e crédito através das contas correntes acima indicadas, onde o requerido realiza estes lançamentos segundo sua conveniência.
+Decisão interlocutória: acolheu o pedido de exigir contas em primeira fase, determinando ao agravante que preste as contas exigidas pelos agravados, no prazo de quinze dias, sob pena de não poder impugnar as que forem por eles ofertadas.
+Acórdão: negou provimento ao agravo de instrumento interposto pelo agravante, nos termos da seguinte ementa:
+AÇÃO DE EXIGIR CONTAS - Primeira fase - De acordo com a nova sistemática adotada pelo CPC/2015, a decisão que encerra a primeira fase da ação de exigir contas tem natureza interlocutória, desafiando a interposição de agravo de instrumento - Exegese dos artigos 203, §§ 1º e 2º, 550, § 5º, e 1.015, II, todos do CPC/2015 - Precedentes - Preliminar de não conhecimento do agravo rejeitada.
+AÇÃO DE EXIGIR CONTAS - Primeira fase - Contrato bancário - Interesse de agir - Presença - Autores que buscam esclarecimentos sobre o destino dado aos títulos de crédito transferidos ao banco como garantia dos negócios celebrados entre eles - Dúvidas razoáveis quanto aos valores movimentados pelo banco em conta corrente e determinação do período sobre o qual se busca esclarecimentos - Viabilidade da via eleita - Agravo de instrumento não provido, prejudicado o regimental. (e-STJ, fl. 362)
+Embargos de declaração: opostos pelo agravante, foram rejeitados.
+Recurso especial: alega a violação dos arts. 319, III e IV, 373, I, 550, § 1º, e 1.022, todos do CPC/15, bem como a existência de dissídio jurisprudencial. Além da negativa de prestação jurisdicional, sustenta:
+i) terem as partes agravadas formulado pedido genérico que não é hábil a demonstrar o fato constitutivo de seus direitos; e
+ii) não terem as partes recorridas comprovado o fato constitutivo de seus direitos.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC/15
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte. A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente, acerca da viabilidade da presente ação de exigir contas, tendo em vista que "não prospera a alegação que as partes estão se utilizando dessa via processual para revisar as cláusulas contratuais, pois restou comprovado que os autores buscam esclarecimentos sobre o destino dos títulos de crédito transferidos ao banco como garantia dos negócios jurídicos celebrados entre as partes e, portanto, a via eleita é legitima." (e-STJ, fl. 378), de maneira que os embargos de declaração opostos pelo agravante, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC/2015, incidindo, quanto ao ponto, a Súmula 568/STJ.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 319, III e IV, 373, I, 550, § 1º, todos do CPC/15, indicados como violados, apesar da interposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, portanto, a Súmula 211/STJ.
+Ressalta-se que eventual alegação de serem de ordem pública os temas insertos nos dispositivos legais mencionados não torna indispensável o devido prequestionamento. Nesse sentir: AgInt no AREsp 1.021.641/MG (3ª Turma, DJe 19/05/2017) e AgInt no AREsp 613.606/PR (4ª Turma, DJe 17/05/2017).
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere à conclusão de que "o pedido foi feito de forma específica, com observância da delimitação temporal da pretensão e com justificação plausível acerca das dúvidas envolvendo os valores movimentados pelo banco em suas contas correntes" (e-STJ, fl. 366), o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da divergência jurisprudencial
+A incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente (pedido feito em ação de prestação de contas de forma específica, com observância da delimitação temporal da pretensão e com justificação plausível acerca das dúvidas envolvendo os valores movimentados pelo banco nas contas correntes dos agravados), também, impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgInt no AREsp n. 821.337/SP, Terceira Turma, DJe de 13/03/2017 e AgInt no AREsp n. 964.391/SP, Terceira Turma, DJe de 21/11/2016.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC/15, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados na instância de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação dessas nas penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXIGIR CONTAS. PRIMEIRA FASE. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Ação de exigir contas, em primeira fase.
+2. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial
+4. Alterar o decidido no acórdão impugnado, no que se refere à conclusão de que "o pedido foi feito de forma específica, com observância da delimitação temporal da pretensão e com justificação plausível acerca das dúvidas envolvendo os valores movimentados pelo banco em suas contas correntes" (e-STJ, fl. 366), exige o reexame de fatos e provas, o que é vedado em recurso especial pela súmula 7/STJ.
+5. A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+6. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa parte, não provido.
