@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+EMBARGOS À EXECUÇÃO - Duplicatas sem aceite - Necessidade de observância dos requisitos dispostos no art. 15, II, da Lei nº 5.474/68 para o ajuizamento da demanda executiva - Embargante que impugnou a existência dos negócios jurídicos que lastreiam os títulos executivos, bem assim as assinaturas constantes dos canhotos de entrega das mercadorias - Decisão que atribuiu à exequente, ora embargada, o ônus de prova relativamente aos pontos controvertidos - Insurgência de embargada - Descabimento - Ônus da embargada de comprovar a causa subjacente à emissão dos títulos e a autenticidade das assinaturas impugnadas (CPC, arts. 373, 1 e 429, II) - Precedentes do E. TJSP - Alegações da embargante que não se mostram destituídas de fundamento, uma vez que foram apresentados e-mails nos quais a cedente dos títulos reconheceu que foram emitidas duplicatas "frias" no âmbito da relação comercial mantida entre as partes originárias - RECURSO NÃO PROVIDO.
+Nas razões do especial, aponta a agravante existência de dissídio jurisprudencial, além de violação do artigo 373 do Código de Processo Civil.
+Afirma caber à executada que ajuizou os embargos à execução a desconstituição da higidez da cambial objeto da execução extrajudicial, dada a certeza e exigibilidade da cártula em face da correspondência entre a duplicata e a relação negocial comprovada por meio das notas fiscais, dos canhotos de recebimento da mercadoria e protestos.
+Assim delimitada a controvérsia, passo a decidir.
+No tocante à higidez da cambial que aparelha a ação principal e da suposta confirmação da entrega da mercadoria, observo que o Tribunal de origem, concluiu que em razão da verossimilhança das alegações expostas nos embargos à execução, cabia à exequente comprovar os fatos constitutivos da execução extrajudicial, como se extrai dos seguintes trechos (fls. 371-373, e-STJ):
+No caso, verifica-se que a embargante negou a existência dos negócios jurídicos que lastreiam as duplicatas, o que denota que tal ponto restou controvertido.
+Assim, uma vez que prova da entrega e recebimento da mercadoria constitui requisito previsto em lei para a execução das duplicatas, tem-se que incumbe à exequente/embargada a comprovação de tal fato (CPC, art. 373.1).
+(..)
+Igualmente, observa-se que a embargante impugnou especificamente as assinaturas constantes dos canhotos de recebimento das mercadorias. Salienta-se que não se trata de afirmação destituída de fundamento, uma vez que foram coliqidos aos autos e-mails nos quais a cedente dos títulos reconheceu que foram emitidas duplicatas "frias" no âmbito da relação comercial mantida entre as partes originárias (fls. 57/101)
+Logo. tendo em vista a contestação da autenticidade das assinaturas, tem-se que o ônus de prova incumbe àquele que defende a idoneidade e que produziu o documento (CPC, art. 429, II).
+Com efeito, considerando a moldura fática delineada pelo Tribunal de origem, verifico que o acórdão recorrido se encontra em harmonia com a jurisprudência deste Superior Tribunal. Ademais, o acolhimento das razões do recurso demandaria o inevitável reexame de matéria fática, procedimento que encontra óbice no verbete 7 da Súmula desta Corte. De igual teor:
+CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. EMBARGOS À EXECUÇÃO. DUPLICATAS. ÔNUS DA PROVA. NEGATIVA DE DEMONSTRAÇÃO DO FATO CONSTITUTIVO DO DIREITO DO AUTOR. REVISÃO. ÓBICE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N.º 7 DO STJ. AGRAVO INTERNO CONHECIDO EM PARTE, E, NESSA PARTE, NÃO PROVIDO.
+(..)
+2. Se o acórdão recorrido ao aferir como requisitos para se executar uma duplicata sem aceite, além do protesto por indicação, a comprovação da efetiva prestação dos serviços ou entrega de produtos, e, neste caso, não os vislumbra performados, a alteração de tal leitura do material de cognição esbarra no óbice da Súmula n.º 7 do STJ.
+3. A imposição do ônus probatório à exequente para comprovar a higidez do título não desvirtua o art. 373, I, do NCPC; antes reafirma a opção do Tribunal recorrido pela teoria do ônus subjetivo da prova fixado prévia e abstratamente pela Lei, somente podendo se falar de contraprova do réu quando bem desempenhada pelo demandante sua incumbência.
+4. A questão da distribuição do ônus de sucumbência e violação dos arts. 7º e 86 do NCPC não pode ser conhecida, ainda mais quando inaugurada apenas nas razões do agravo interno e nem sequer ventilada no acórdão recorrido e no apelo nobre, por falta de prequestionamento (Súmula n.º 211 do STJ) e inovação recursal.
+5. Agravo interno conhecido em parte, e, nessa parte, não provido.
+(AgInt no REsp n. 1.943.883/MG, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 14/12/2022)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL DECISÃO DA PRESIDÊNCIA MANTIDA. VIOLAÇÃO DOS ARTS. 1.022 E 1.025 DO CPC. SÚMULA 284 DO STF. DIREITO CAMBIAL. DUPLICATAS DE VENDA DE MERCADORIAS. INCIDENTE DE FALSIDADE. JUNTADA DE DOCUMENTOS NOVOS. AUSÊNCIA DE DEMONSTRAÇÃO DO RECEBIMENTO. SÚMULA 7 DO STJ. COMPROVAÇÃO DOS FATOS CONSTITUTIVOS DO DIREITO DO AUTOR. SÚMULAS 7 DO STJ E 283 DO STF. AGRAVO INTERNO DESPROVIDO.
+1. A parte recorrente não demonstrou, ao indicar a violação dos arts. 1.022 e 1.025 do CPC, o porquê de considerar os referidos dispositivos como violados, incidindo, na espécie, por analogia, o óbice contido na Súmula 284 do STF.
+2. É admitida a juntada de documentos novos após a petição inicial e a contestação desde que: a) não se trate de documento indispensável à propositura da ação; b) não haja má fé na ocultação do documento;
+c) seja ouvida a parte contrária. Precedentes.
+3. Não é possível confundir a simples juntada de documentos novos com a instauração de incidente de falsidade, cuja natureza se reveste de verdadeira ação declaratória.
+4. A Corte de origem consignou que não ficou comprovado, nos autos, o recebimento das mercadorias, notadamente porque a inicial foi veiculada sem as notas fiscais emitidas e os respectivos comprovantes de entrega. Incidência da Súmula 7 do STJ.
+5. O Tribunal a quo consignou, ainda, que a própria agravante não aproveitou o amplo espectro que se lhe abria com a dilação probatória, tendo requerido, inclusive, o imediato julgamento, por considerar o feito devidamente instruído, omitindo-se, em consequência, de comprovar o fato constitutivo do seu direito.
+Incidência da Súmula 7 do STJ.
+(..)
+7. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.069.958/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 26/8/2022)
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
