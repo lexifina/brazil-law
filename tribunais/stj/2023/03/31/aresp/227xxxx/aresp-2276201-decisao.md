@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por IDA TEREZINHA DA ROSA (IDA), contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça do Rio Grande do Sul, da relatoria do Desembargador ALBERTO DELGADO NETO, assim ementado:
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO DECLARATÓRIA NEGATIVA CUMULADA COM PEDIDO CONDENATÓRIO. PRESCRIÇÃO. INOCORRÊNCIA. DANO MORAL INEXISTENTE. REGISTRO NOS CADASTROS DE PROTEÇÃO AO CRÉDITO. EXERCÍCIO REGULAR DE DIREITO. SENTENÇA MANTIDA.
+1. A PRETENSÃO DE COBRANÇA DE DÍVIDAS LÍQUIDAS CONSTANTES DE INSTRUMENTO PÚBLICO OU PARTICULAR PRESCREVE EM CINCO ANOS, NOS TERMOS DO ARTIGO 206, §5º, INCISO I, DO CÓDIGO CIVIL. NO CASO, HOUVE CONTRATO DE PARCELAMENTO DA DÍVIDA ORIGINÁRIA, E DESTE DEVE SER CONTADA A PRESCRIÇÃO, A QUAL NÃO RESTOU IMPLEMENTADA.
+2. COMPROVADA A OBRIGAÇÃO INADIMPLIDA, A INSCRIÇÃO DONOME DO CONSUMIDOR NOS CADASTROS DE PROTEÇÃO DO CRÉDITO É MEDIDA DE EXERCÍCIO REGULAR DE DIREITO, NÃO HAVENDO QUE SE FALAR EM INDENIZAÇÃO POR DANOS MORAIS. SENTENÇA MANTIDA.
+APELAÇÃO NÃO PROVIDA (e-STJ, fl. 434)
+Os embargos de declaração opostos por IDA foram rejeitados (e-STJ, fls. 475/480).
+Irresignado, IDA interpôs recurso especial com base no art. 105, III, alínea a, da CF, apontando a violação ao art. 1.022 do NCPC, ao sustentar que (1) omisso o acórdão no fundamento atinente à existência de parcelamento, na medida em que o documento juntado não diz respeito à realização de parcelamento, mas de uma proposta encaminhada pelo banco e que não se concretizou, tanto que existia a obrigação de pagamento de um valor de R$ 25,00 (vinte e cinco reais) e que não foi realizado, além do fato do banco ter afirmado que jamais ocorreu o parcelamento; se assim não se entender, assevera que o parcelamento havia sido realizado pelo sindicato e não por IDA, na condição de fiadora, pelo que, em relação à ela, estaria prescrita a dívida; omisso também em relação à existência de ato ilícito e dever de indenizar.
+O recurso não foi admitido pelo Tribunal de Justiça do Rio Grande do Sul (e-STJ, fls. 522/527).
+Nas razões do presente agravo, IDA alegou que os fundamentos da decisão de inadmissibilidade não se sustentam.
+Foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+(1) Da ausência de violação do art. 1.022 do NCPC
+Nas razões do seu recurso, IDA alegou a violação do art. 1.022 do NCPC em virtude da omissão do acórdão sobre o fundamento atinente à existência de parcelamento, na medida em que o documento juntado não diz respeito à realização de parcelamento, mas de uma proposta encaminhada pelo banco e que não se concretizou, tanto que existia a obrigação de pagamento de um valor de R$ 25,00 (vinte e cinco reais) e que não foi realizado, além do fato do banco ter afirmado que jamais ocorreu o parcelamento. Se assim não se entender, assevera que o parcelamento havia sido realizado pelo sindicato e não por IDA, na condição de fiadora, pelo que, em relação à ela, estaria prescrita a dívida. Omisso também em relação à existência de ato ilícito e dever de indenizar.
+Contudo, verifica-se que o Tribunal estadual se pronunciou sobre os temas consignando:
+Quanto à alegada prescrição da dívida pela qual a Autora foi inscrita, de fato, a pretensão de cobrança de dívidas líquidas constantes de instrumento público ou particular prescreve em cinco anos, nos termos do artigo 206, § 5º, inciso I, do Código Civil.
+Todavia, equivocou-se a Apelante quanto ao marco temporal inicial de contagem do referido prazo.
+Isso porque o prazo iniciou da data de vencimento da última parcela de contratação do parcelamento da dívida, ou seja, no ano de 2020, como se vê do referido pacto  ..
+Assim, conforme demonstrado nos autos, ao contrário do que alega a Autora/Recorrente, com a inclusão do nome da fiadora no rol de inadimplentes em dezembro de 2018, não há que se falar em prescrição do débito inscrito.
+Nesse diapasão, o que gerou tanto a inscrição quanto a manutenção do nome da parte Apelante nos órgãos de restrição ao crédito foi o débito inadimplido. Logo, se a cobrança é devida e se a obrigação persiste, o lançamento do nome do inadimplente no rol de proteção ao crédito é exercício regular de direito. Não há, portanto, em se falar de indenização por danos morais decorrente de inscrição indevida nos órgãos protetivos de crédito (e-STJ, fls. 431/432).
+Em embargos de declaração, ressaltaram os julgadores:
+A embargante sustenta omissão no acórdão no que diz respeito ao não reconhecimento da prescrição, em razão de parcelamento da dívida. Alega que tal documento é uma mera proposta e que houve omissão na decisão, porquanto não seria possível negar sua anuência ao parcelamento. Ocorre que, conforme se denota dos autos, a autora, em primeiro momento do processo de origem, menciona nunca nem ter celebrado contrato com a parte contrária, argumentando a inexistência de dívida. Em sede de contestação, fica comprovada a origem da dívida, inclusive o parcelamento, porém, a embargante não impugnou os documentos juntados pelo banco. Agora, em sede de embargos declaratórios deseja discutir o teor dos documentos juntados pelo banco em contestação, o que se mostra descabido.
+Diante deste quadro não há que se falar em omissão no julgado, desejando a autora evidente rediscussão de mérito com base em impugnações que não trouxe aos autos em momento oportuno (e-STJ, fls. 476/477).
+Destaque-se, por necessário, que as questões suscitadas nos embargos de declaração não foram mencionadas anteriormente na apelação, o que era de rigor.
+Assim, inexistem os vícios elencados no art. 1.022 do NCPC, sendo forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente.
+A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Nesse sentido, confira-se o seguinte precedente:
+CIVIL. PROCESSO CIVIL. RECURSO ESPECIAL. IRRESIGNAÇÃO SUBMETIDA AO NCPC. RECUPERAÇÃO JUDICIAL. PENHORA DEFERIDA EM OUTRO PROCESSO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. ACÓRDÃO SUFICIENTEMENTE FUNDAMENTADO. COMPETÊNCIA DO JUÍZO UNIVERSAL PARA DECIDIR ACERCA DA DESTINAÇÃO DOS BENS DA EMPRESA RECUPERANDA. ART. 47, Lei 11.101/2005. PRECEDENTES. VENDA DE IMÓVEL JÁ PENHORADO EM OUTRO PROCESSO. POSSIBILIDADE. HIPÓTESE EM QUE O BEM JÁ ESTAVA EXPRESSAMENTE DESTINADO À VENDA, NO PLANO DE RECUPERAÇÃO DA EMPRESA. PREVALÊNCIA DO PROCEDIMENTO DE SOERGUIMENTO PERANTE A AÇÃO INDIVIDUAL. MAJORAÇÃO DE HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS AOS PARÂMETROS DA JURISPRUDÊNCIA DO STJ. IRRISORIEDADE DO VALOR ARBITRADO NA ORIGEM. RECURSO ESPECIAL DE INTERPART PARCIALMENTE CONHECIDO E NESSA EXTENSÃO DESPROVIDO. RECURSO ESPECIAL DE SÉRGIO E.I. PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Não há falar em violação dos arts. 489 e 1.022 do NCPC quando a decisão está clara e suficientemente fundamentada, resolvendo integralmente a controvérsia. O julgador não está obrigado a rebater, um a um, os argumentos trazidos pelas partes, quando encontrar motivação satisfatória para dirimir o litígio sobre os pontos essenciais da controvérsia em exame.
+ ..
+12. Recurso especial de INTERPART conhecido em parte e nessa extensão não provido.
+13. Recurso especial de SÉRGIO E.I. provido.
+(REsp n. 1.854.493/SP, de minha relatoria, Terceira Turma, julgado em 23/8/2022, DJe de 26/8/2022.)
+Afasta-se, portanto, a alegada violação.
+Nessas condições, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em favor de ITAU, limitados a 20%, nos termos do art. 85, § 11, do NCPC, devendo ser observados os benefícios da justiça gratuita.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL. AGRAVO EM RECURSO ESPECIAL INTERPOSTO NA ÉGIDE DO NCPC. AÇÃO DECLARATÓRIA. NEGÓCIO BANCÁRIO.PRESCRIÇÃO. OMISSÃO. INEXISTÊNCIA. DECISÃO SUFICIENTEMENTE FUNDAMENTADA. AGRAVO CONHECIDO. RECURSO ESPECIAL A QUE SE NEGA PROVIMENTO.
