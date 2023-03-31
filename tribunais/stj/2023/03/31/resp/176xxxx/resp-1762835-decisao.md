@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto por TRANSNAZA TRANSPORTES LTDA, ANTONIO RENOR ZAPELINI, ANTONIO RENOR ZAPPELINI FILHO, DOUGLAS ROGERIO ZAPPELINI e NAZA LOGISTICA E TRANSPORTES S/A, com fundamento no art. 105, inciso III, alínea a, da CF/1988, no qual se insurgem contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado:
+TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. CRÉDITOS OBJETO DE COMPENSAÇÃO. INOCORRÊNCIA. IRREGULARIDADE DA PENHORA NÃO CONFIGURADA.
+Afastada a alegação de que os créditos ora cobrados são objeto de compensação em outra ação judicial.
+A penhora no rosto dos autos incidiu sobre os direitos indisponibilizados na referida cautelar, sendo que não haverá qualquer ato de alienação sem a prévia avaliação.
+Hipótese em que o pedido de redução da penhora deve aguardar a avaliação dos bens, a fim de aferir se realmente são suficientes para a garantia integral dos créditos tributários (fls. 683/684).
+Os embargos de declaração opostos foram rejeitados (fls. 816/819).
+Nas razões do seu recurso especial, os recorrentes sustentam haver violação dos arts. 489, IV, e 1.022, do CPC/2015 (antigo art. 535 do CPC/1973), 13 da Lei 6.830/1980, 4º, 10 da Lei 8.397/1992, bem como do art. 5º, LV, da CF/1988. Alegam que o Tribunal de origem não se manifestou sobre questões essenciais ao deslinde da controvérsia.
+Devidamente intimada, a parte recorrida apresentou as contrarrazões (fls. 858/862).
+É o relatório.
+A irresignação não merece prosperar.
+Inicialmente, é importante ressaltar que o presente recurso atrai a incidência do Enunciado Administrativo 3 do STJ, segundo o qual "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Inexiste a alegada violação dos arts. 489 e 1.022 do CPC/2015, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro, omissão, contradição ou obscuridade. Observe-se, ademais, que julgamento diverso do pretendido, como na espécie, não implica ofensa aos dispositivos de lei invocados.
+Quanto à alegada afronta ao art. 5º, LV, da CF/1988, é incabível o recurso especial quanto ao ponto por se tratar de matéria a ser veiculada em recurso extraordinário, cuja apreciação é da competência do Supremo Tribunal Federal; o contrário implicaria usurpação de competência (art. 102, III, da CF/1988). A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INCORRÊNCIA. REINTERPRETAÇÃO DO ALCANCE DA TESE FIRMADA EM RECURSO EXTRAORDINÁRIO COM REPERCUSSÃO GERAL RECONHECIDA. MATÉRIA CONSTITUCIONAL. COMPETÊNCIA DO STF. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+(..)
+Não compete a este Superior Tribunal a análise de suposta violação a dispositivos constitucionais, ainda que para efeito de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal. Precedentes.
+(..)
+Agravo Interno improvido.
+(AgInt no REsp 1.836.774/PR, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 10/8/2020, DJe 14/8/2020 - sem destaques no original.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PENSÃO MILITAR. FILHA. REQUISITOS DO ART. 7º DA LEI 3.765/60 C/C LEI 8.216/91. ALEGADA OMISSÃO ACERCA DE VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. AFERIÇÃO. IMPOSSIBILIDADE DE ANÁLISE, EM SEDE DE RECURSO ESPECIAL. ALEGADA OFENSA AO ART. 535 DO CPC/73. NÃO OCORRÊNCIA. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL QUE, EM TESE, TERIA RECEBIDO INTERPRETAÇÃO DIVERGENTE DAQUELA FIRMADA POR OUTROS TRIBUNAIS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF, APLICADA POR ANALOGIA. IMPOSSIBILIDADE DE APRECIAÇÃO DE MATÉRIA CONSTITUCIONAL, EM SEDE DE RECURSO ESPECIAL, SOB PENA DE USURPAÇÃO DA COMPETÊNCIA DO STF. AGRAVO INTERNO IMPROVIDO.
+(..)
+Do exame do julgado combatido e das razões recursais, verifica-se que a solução da controvérsia possui enfoque eminentemente constitucional. Dessa forma, compete ao Supremo Tribunal Federal eventual reforma do acórdão recorrido, no mérito, sob pena de usurpação de competência inserta no art. 102 da Constituição Federal. Precedentes do STJ (AgRg no AREsp 584.240/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 03/12/2014; AgRg no REsp 1.473.025/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 03/12/2014).
+Agravo interno improvido.
+(AgInt no REsp 1.377.313/CE, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 18/4/2017, DJe 26/4/2017 - sem destaques no original.)
+Quanto à afronta ao art. 13 da Lei 6.830/1980 e aos arts. 4º e 10 da Lei 8.397/1992, o recurso especial encontra-se deficientemente fundamentado, uma vez que não houve esclarecimento em relação aos motivos aptos à modificação do entendimento adotado pela Corte de origem, tampouco de que forma teriam sido violados os dispositivos legais trazidos ao debate. Tal circunstância consubstancia deficiência na fundamentação recursal, motivo pelo qual não se pode conhecer do recurso especial. Incide no caso, por analogia, a Súmula 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+Ante o exposto, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimações necessárias.
