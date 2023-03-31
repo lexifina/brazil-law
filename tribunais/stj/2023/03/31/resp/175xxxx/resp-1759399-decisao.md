@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL, com fundamento no art. 105, inciso III, alínea a, da CF/1988, no qual se insurge contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado:
+ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO. CÉDULA DE CRÉDITO RURAL. COMISSÃO DE PERMANÊNCIA. ENCARGOS MORATÓRIOS. DESCARACTERIZAÇÃO DA MORA. LIMITAÇÃO DOS JUROS REMUNERATÓRIOS. TAXA REFERENCIAL. A. cédula ou nota de crédito rural rege-se pelo Decreto-Lei n. 167/67, que prevê, em caso de inadimplemento, a incidência de juros moratórios à taxa de 1% a. a. e de multa contratual, o que toma ilegítima a pactuação de. qualquer outra taxa, comissão de permanência ou encargo, tendente a burlar o referido diploma legal. O reconhecimento de abusividade na cobrança de encargo próprio do período de regularidade contratual, importa na descaracterização da mora, havendo, assim, a necessidade de exclusão dos encargos moratórios no período de alongamento da dívida. Incide a limitação de 12% aos juros, remuneratórios nas cédulas de crédito rural, comercial e industrial, em face da omissão na sua regulamentação pelo Conselho Monetário Nacional. A aplicação da taxa Referencial (TR) como índice oficial de correção do débito é admitida pela jurisprudência dos Tribunais Superiores nos contratos. firmados após o advento da Lei n.º 8.177/91, desde que pactuada pelas partes (fl. 269).
+Os sucessivos embargos de declaração opostos foram rejeitados (fls. 290/296 e 308/315).
+Nas razões do seu recurso especial, a parte recorrente sustenta, além de divergência jurisprudencial, violação dos arts. 489, §1º, 917, III, e 1.022, incisos I e II, do CPC/2015; e 16, § 2º, da Lei 6.830/1980; Alega: (a) negativa de prestação jurisdicional; (b) que, ao determinar a exclusão de parcelas em cobrança, o acórdão recorrido impôs uma desnecessária fase de liquidação de sentença, o que é incabível em embargos à execução; (c) o Tribunal de origem desconsiderou os aditivos de retificação e ratificação de sete cédulas de crédito rural formalizados em 1º/7/1998, com base no § 6º do art. 5º da Lei 9.138/1995; (d) para os créditos rurais adquiridos pela União, os encargos de mora estão limitados ao valor da Taxa SELIC mais 1% ao mês, e, após a inscrição em Dívida Ativa da União, aplica-se a Taxa SELIC, nos termos do art. 84, I, § 8º, da Lei 8.981/1995; e, (e) nos contratos celebrados em 1998, os juros remuneratórios foram fixados em 8% ao ano.
+Devidamente intimada, a parte recorrida apresentou as contrarrazões (fls. 330/336).
+É o relatório.
+A irresignação merece prosperar.
+No que importa à controvérsia travada no presente recurso, confira-se o seguinte trecho do acórdão:
+Comissão de permanência
+É firme na jurisprudência do é. Superior Tribunal de Justiça o entendimento no sentido de que, embora haja previsão contratual de incidência. de comissão de permanência, tal encargo é inexigível nas "cédulas de crédito rural, disciplinadas pelo. Decreto-Lei n.º 167/1967, uma vez que o § único do art. 5º, do referido diploma legal, admite a cobrança somente de juros e multa:
+ ..
+Com efeito, a incidência do aludido encargo (fls. 100/108) contraria a orientação jurisprudencial acima explicitada, devendo ser acolhida a pretensão do embargante ao afastamento de sua cobrança.
+Em substituição, devem ser aplicados, desde a impontualidade do devedor, os encargos previstos na Medida Provisória n.º 2.196-3/01 - juros moratórios limitados a 1% (um por cento) ao ano, acrescido da taxa SELIC diária, a título de remuneração no período do inadimplemento, haja vista a transferência legítima do crédito para a União:
+Art. 5º Ocorrendo inadimplemento em relação aos créditos adquiridos ou recebidos em pagamento pela União, nos termos dos arts. 2º e 3º, os encargos, contratuais decorrentes da mora estarão limitados à incidência, sobre o valor inadimplido, da taxa média ajustada dos financiamentos diários apurados no Sistema Especial de Liquidação e" de Custódia, divulgada pelo Banco Central do Brasil, acrescida de juros de mora deum por cento ao ano, Calculados pro rata die.
+Encargos moratórios e descaracterização da mora
+A Lei 9.138, de 29/11/1995, que dispõe sobre o crédito rural, assim estabelece em seu art. 5º, verbis:
+Art. 5º São as instituições e os agentes financeiros do Sistema Nacional de, Crédito Rural, instituído pela Lei nº 4.829, de 5 de novembro de 1965,autorizados a proceder ao alongamento de dividas originárias de crédito rural, contraídas por produtores rurais, suas associações, cooperativas e condomínios, inclusive as já renegociadas, relativas às seguintes operações, realizadas até 20de junho de1995:
+I - de crédito rural de custeio, investimento ou comercialização, excetuados os empréstimos do Governo Federal com opção de venda (EGF/COV);
+II - realizadas ao amparo da Lei nº 7.827,de 27 de setembro de1989 -Fundos Constitucionais de Financiamento do Norte, do Nordeste e do Centro-Oeste (FNO, FNE e FCO);
+III - realizadas com recursos do Fundo de Amparo ao, Trabalhador (FAT) e de outros recursos operadas pelo Banco Nacional de Desenvolvimento Econômico e Social (BNDES);
+IV - realizadas ao amparo do Fundo de Defesa da Economia Cafeeira(FUNGAM).
+§ 1º O Conselho Monetário Nacional poderá autorizar a inclusão de operações de outras fontes.
+§ 2º Nas operações de alongamento referidas no copal, o saldo devedor será apurado segundo as normas fixadas pelo Conselho Monetário Nacional.
+Nesse sentido, o art. 1º, inciso VI, b, da Resolução 2.238 do Conselho Monetário Nacional dispõe que para fins do alongamento de dívidas, o total do saldo devedor deve ser calculado com base nos encargos financeiros previstos nos contratos originais para a operação enquanto em curso normal, até a data do vencimento pactuado. Sendo que a partir do vencimento, incidirão os encargos financeiros totais até o limite máximo de 12% a. a. (doze por cento ao ano) mais o índice de remuneração dos depósitos de poupança, expurgando-se, se houver, os débitos relativos a multa, mora, taxa de inadimplemento e honorários advocatícios de responsabilidade da instituição financeira.
+Considerando que o Superior Tribunal de Justiça unificou entendimento na forma do artigo 543-C do Código de Processo Civil (Lei n.º 11.672/2008 - recursos repetitivos) no REsp n.º 1.061.530/RS (Segunda Seção, Relatora Ministra Nancy Andrighi, julgado em 22/10/2008, DJe de 10.03.2009):.
+ORIENTAÇÃO 2 - CONFIGURAÇÃO DA MORA a) O reconhecimento da abusividade nos encargos exigidos no período da normalidade contratual (juros remuneratórios e capitalização) descaracteriza a mora;
+b) Não descaracteriza a mora o ajuizamento isolado de ação revisional, nem mesmo quando o reconhecimento de abusividade incidir sobre os encargos inerentes ao período de inadimplência contratual.
+(omissis)
+Verificada a cobrança de encargo abusivo no período da normalidade contratual, resta descaracterizada a mora do devedor.
+Afastada a mora: i) é ilegal o envio de dados do consumidor para quaisquer cadastros de inadimplência; ii) deve o consumidor permanecer na posse dobem alienado fiduciariamente ei h) não se admite o protesto do título representativo da dívida.
+Não há qualquer vedação legal à efetivação de depósitos parciais, segundo oque a parte entende devido.
+Assim, o reconhecimento de abusividade na cobrança de encargo próprio do período de regularidade contratual, importa na descaracterização da mora, havendo, assim, a necessidade de exclusão dos encargos moratórios no período de alongamento da dívida.
+ ..
+Juros remuneratórios
+Por se tratar de legislação especifica. e posterior à Lei n.º 4.595/64, a ausência de regulamentação pelo Conselho Monetário Nacional enseja a submissão das taxas de juros pactuadas nas cédulas de crédito rural/industrial/comercial às limitações impostas pelo Decreto n.º 22.626/33 (Lei de Usura).
+Nesse sentido:
+ ..
+Nesse tópico, é de se acolher o recurso, para explicitar que os juros remuneratórios, no contrato em análise obedeçam à limitação de 12% ao ano.
+Taxa Referencial
+A cobrança da taxa Referencial a não é ilegal, desde que expressamente pactuada pelas partes em data posterior à Lei n.º 8.177/1991,como já reconhecido pelo e. Supremo Tribunal" Federal na ADIn n.º 493-0.
+Nessa linha, o enunciado da súmula n.º 295 do e. Superior Tribunal de Justiça: "A Taxa Referencial (TR) é indexador válido para contratos posteriores à Lei n. 8.177/91, desde que pactuada".
+Essa orientação tem sido adotada pelo Tribunal Regional Federal da 4ª Região:
+ ..
+Destarte, tendo em conta que o contrato foi celebrado posteriormente à vigência da Lei n.º 8.177/1991, tem-se por legal a cobrança da TR, expressamente pactuada (fls. 260/266).
+Contra o acórdão a parte recorrente opôs embargos de declaração a fim de provocar a Corte de origem a manifestar-se sobre (a) a impossibilidade de liquidação de sentença em embargos à execução, o que, na hipótese, seria necessário para dar cumprimento aos termos do acórdão recorrido, que havia determinado a revisão/exclusão das parcelas em cobrança; (b) a necessidade de avaliação judicial das operações de crédito rural das quais a CDA se originara, notadamente em razão da renegociação formalizada em 1998 no qual foi consolidada a dívida. Destacou, nesse último ponto, que o acórdão embargado "aplicou fundamentação genérica e padronizada a uma causa que demandava análise das cláusulas das cédulas de crédito rural" (fl. 322).
+Entretanto, o Tribunal a quo rejeitou os declaratórios sem apreciar o questionamento da parte recorrente.
+Verifico, portanto, a existência de omissão relevante no julgado, nos termos do art. 1.022 do CPC/2015.
+Dessa forma, é imperioso o acolhimento da pretensão recursal ante a ocorrência de violação ao art. 1.022 do CPC/2015, devendo os autos retornarem à origem para que sejam sanados os vícios apontados no recurso integrativo, por meio de novo julgamento dos embargos de declaração, com manifestação expressa a respeito da questão não apreciada.
+Ante o exposto, dou provimento ao recurso especial da FAZENDA NACIONAL para anular o acórdão proferido em embargos de declaração, e determino a devolução dos autos ao Tribunal a quo para que seja proferido novo julgamento com o saneamento do vício apontado.
+Publique-se. Intimações necessárias.
