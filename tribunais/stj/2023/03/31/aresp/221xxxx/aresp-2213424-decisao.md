@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo interposto por PETROX DISTRIBUIDORA LTDA. contra decisão que negou seguimento a recurso especial manejado em face de acórdão assim ementado (e-STJ, fl. 717):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO QUANTIA DECISÃO POR CERTA. INTERLOCUTÓRIA AGRAVADA INDEFERIU O QUE PEDIDO DE APLICAÇÃO DE MEDIDAS ATÍPICAS DE EXECUÇÃO, CONSISTENTE NA SUSPENSÃO/BLOQUEIO DA CNH E APREENSÃO DO PASSAPORTE DO EXECUTADO. RECURSO DO EXEQUENTE. MEDIDAS POSTULADAS QUE NÃO SE MOSTRAM CAPAZES DE PRODUZIR O EFEITO DESEJADO, QUAL SEJA O ADIMPLEMENTO DO DÉBITO, CARACTERIZANDO-SE MAIS COMO UMA SANÇÃO.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a recorrente aponta violação dos arts. 489 e 1.022 do Código de Processo Civil/2015, sustentando a omissão e contradição do Tribunal de origem no que se refere aos esgotamentos dos meios de satisfação da dívida e à possibilidade de adoção de medidas atípicas, previstas no art. 139 do CPC/2015, para o pagamento da dívida.
+No mérito, alega, a par de dissídio jurisprudencial, a negativa de vigência do art. 139, IV, do CPC/2015 e a possibilidade de adoção de medias atípicas para a satisfação da dívida.
+O recurso especial não foi admitido em virtude do óbice da Súmula 735 do STF e da Súmula 7 do STJ.
+Neste agravo, a agravante impugnou os óbices sumulares apontados.
+Assim delimitada a controvérsia, passo a decidir.
+Presentes os pressupostos de admissibilidade e ultrapassado o limite do conhecimento do presente recurso, verifico que esse não merece provimento, senão vejamos.
+No que se refere à preliminar de violação dos arts. 489 e 1.022 do CPC/2015, não há falar em omissão no acórdão, mas apenas julgamento contrário aos interesses da recorrente, o que não autoriza, por si só, o acolhimento de embargos de declaração, nem sua rejeição importa em violação à sua norma de regência.
+Isso porque, ao solucionar a controvérsia, o Tribunal de origem consignou, no acórdão do julgamento dos embargos de declaração, que "as medidas postuladas, no caso concreto, não se mostravam capazes de produzir o efeito desejado não se avistando utilidade prática para a satisfação do crédito" (e-STJ, fl. 733)
+Assim, apesar da rejeição dos embargos de declaração, não há como ser reconhecida a violação do art. 1.022 do CPC/15, porque não se exige do julgador a análise de todos os argumentos das partes, para fins de convencimento e julgamento. Para tanto, basta o pronunciamento fundamentado acerca dos fatos controvertidos, o que se observa no presente caso, em que os motivos da decisão encontram-se objetivamente fixados nas razões do acórdão recorrido. Nesse sentido: EDcl no AgRg nos EREsp 1.483.155/BA, Rel. Ministro Og Fernandes, Corte Especial, DJe 3/8/2016.
+No mérito, a recorrente aponta, a par de dissídio jurisprudencial, a negativa de vigência do art. 139, do CPC/2015, uma vez que foi demonstrada a possibilidade de adoção das medidas excepcionais com o fim de garantir a execução.
+A jurisprudência do STJ já consolidou o entendimento de que, em que pese o art. 139, IV, do CPC/2015 permitir ao magistrado "determinar todas as medidas indutivas, coercitivas, mandamentais ou sub-rogatórias necessárias para assegurar o cumprimento de ordem judicial, inclusive nas ações que tenham por objeto prestação pecuniária", fato é que as medidas atípicas pretendidas devem ser razoáveis e proporcionais.
+Sob essa ótica, esta Corte Especial tem afastado a possibilidade de adoção de medidas que guardam notório caráter de punição à parte devedora, o que, a toda evidência, não se coaduna com a própria finalidade da execução.
+Confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. CPC/15. CUMPRIMENTO DE SENTENÇA. MEDIDAS EXECUTIVAS ATÍPICAS. ART. 139, IV, DO CPC. SUSPENSÃO DA CARTEIRA NACIONAL DE HABILITAÇÃO (CNH) E APREENSÃO DE PASSAPORTE. DIRETRIZES FIXADAS PELA 3ª TURMA NO JULGAMENTO DO RESP 1.788.950/MT. INEXISTÊNCIA DE BENS PASSÍVEIS DE EXPROPRIAÇÃO RECONHECIDA PELAS INSTÂNCIAS ORDINÁRIAS. REVISÃO. VEDAÇÃO. SÚMULA 7/STJ. DECISÃO AGRAVADA MANTIDA. AGRAVO INTERNO DESPROVIDO.
+(AgInt no REsp 1.837.309/SP, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe 13/2/2020)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. MEDIDAS ATÍPICAS. SUSPENSÃO DE CNH. DESPROPORCIONALIDADE. SÚMULA 83 DO STJ. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. No tocante à ofensa ao artigo 139, inciso IV, do CPC, a jurisprudência desta Corte Superior firmou-se no sentido de que as medidas atípicas de satisfação do crédito não podem extrapolar os princípios da proporcionalidade e da razoabilidade, devendo-se observar, ainda, o princípio da menor onerosidade ao devedor, não sendo admitida a utilização do instituto como penalidade processual. Precedentes.
+2. No caso concreto, o Tribunal de origem consignou que a tutela atípica postulada, consistente na apreensão da Carteira Nacional de Habilitação (CNH), extrapola os princípios da razoabilidade e da proporcionalidade, além de não representar certeza de efetividade à satisfação do crédito. A conclusão do Tribunal está em harmonia com a jurisprudência desta Corte, atraindo a aplicação da Súmula 83 do STJ.
+3. Ademais, o reexame dos critérios fáticos é inviável em sede de recurso especial, a teor da Súmula 7/STJ.
+4. Agravo interno não provido.
+(AgInt no REsp 1.794.916/DF, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe 2/12/2020)
+No caso dos autos, o Tribunal de origem concluiu que a determinação de suspensão/retenção da CNH e apreensão de passaporte não se mostram capazes de produzir o efeito desejado, qual seja, o adimplemento do débito. Confira-se:
+Adianto que, em análise do caso concreto, entendo inexistir a plausibilidade do direito postulado, elemento essencial à prolação de uma decisão sumária. Senão vejamos.
+O novo Código de Processo Civil, por meio do artigo 139,inciso IV, inovou no ordenamento jurídico ao prever medidas executivas atípicas, tendentes à satisfação da obrigação exequenda, inclusive as de pagar quantia certa.
+Assim, de acordo com nova sistemática processual, esgotados os meios típicos de satisfação da dívida, deve o julgador eleger medida que seja necessária, lógica e proporcional. Em que pese tal inovação na busca da efetividade jurisdicional, não se pode perder de vista, em nenhuma hipótese, os preceitos constitucionais.
+No caso dos autos, vemos o esgotamento de todos os meios típicos para satisfação da dívida, sem obter qualquer êxito.
+No entanto, em que pese a dívida em comento tratar-se de quantia expressiva, não se verifica adequada, necessária e lógica a medida pretendida, ainda que sob o escudo da busca pela efetivação das decisões judiciais.
+Isso porque, no caso específico dos autos, a determinação de suspensão/retenção da CNH e apreensão de passaporte não se mostram capazes de produzir o efeito desejado, qual seja, o adimplemento do débito.
+Com efeito, não se avista a utilidade prática para a satisfação o crédito perseguido.
+Pelo contrário. Revela-se medida extrema e que fere direitos individuais, caracterizando-se mais como uma sanção, vindo, inclusive, a violar o princípio básico de que a execução deve ocorrer pelo meio menos gravoso  ..  (fl. 720).
+Nesse contexto, os fundamentos adotados pelo Tribunal de origem estão em consonância com o entendimento firmado nesta Corte, sendo vedado, ainda, o reexame do conjunto fático-probatório da demanda em sede de recurso especial.
+Incidem sobre o tema os óbices das Súmulas 7 e 568 do STJ.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
