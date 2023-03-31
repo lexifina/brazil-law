@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de agravo apresentado por CONSELHO REGIONAL DE ENGENHARIA E AGRONOMIA DO PARANÁ contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim resumido:
+TRIBUTÁRIO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. CONSELHO REGIONAL DE ENGENHARIA E AGRONOMIA. MONITORAMENTO DE ALARMES. INSTALAÇÃO DE EQUIPAMENTOS ELETRÔNICOS. ATIVIDE BÁSICA. REGISTRO. (DES)NECESSIDADE.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação dos arts. 7º, "g", 59 e 60 da Lei 5.194/1966; e art. 1º da 6.839/80, no que concerne à obrigatoriedade do registro da empresa recorrida junto ao CREA-PR, eis que a atividade por ela desenvolvida se enquadra na alínea "g" do art. 7º da Lei n. 5.194/1966, nos termos da Resolução n. 218/1973, sendo, portanto, inerente à Engenharia, trazendo os seguintes argumentos:
+A decisão recorrida entendeu que a atividade desenvolvida não se enquadra dentre aquelas caracterizadas como da Engenharia.
+Contudo, com o devido respeito, o r. entendimento não pode prosperar, uma vez que a legislação mostra exatamente o contrário.
+Ao concluir de modo fundamentado que a Recorrida necessita de registro neste Conselho diante das atividades que pratica, o Recorrente agiu em pleno e inquestionável atendimento ao interesse público da sociedade, exercendo o poder de polícia, não cabendo ao Poder Judiciário, com o devido respeito e nesse contexto, afastar a legitimidade da exigência do CREA-PR feito à Recorrida, haja vista que esta atitude representa indevida incursão na esfera do poder decisório do administrador público.
+O contrato social da Recorrida descreve em seu objeto social as atividades de prestação de serviços de vigilância e segurança patrimonial, envolvendo a instalação dos equipamentos de monitoramento, sendo esta atividade diretamente ligada à Engenharia Eletrônica.
+ ..
+Veja-se, contudo, que o acórdão afastou a necessidade de registro sob o fundamento de que a atividade desenvolvida não se caracteriza como típica da Engenharia, quando na realidade sua previsão na lei é explícita, já que art. 7º, "g", da Lei 5.194/66, prevê como típica da engenharia a execução de serviço técnico.
+ ..
+Deste modo, é evidente que se trata de uma atividade técnica, tal como previsto no art. 7º, "g", da Lei 5.194/66: g) execução de obras e serviços técnicos. Portanto, ao proferir entendimento diverso no acórdão, tem-se que houve clara violação ao mencionado dispositivo legal.
+Isso sem mencionar as resoluções elaboradas pelo CONFEA, com base no poder normativo previsto pelo art. 27, "f", da Lei 5.194/66:
+ ..
+Com fundamento nesta previsão legal o Conselho Federal de Engenharia e Agronomia (CONFEA) baixou a Resolução nº 218/73, que descreve as atividades enquadradas como típicas da Engenharia, obrigando ao registro:
+ ..
+À vista disso, é fundamental consignar que o conteúdo da Resolução 218/73 não extrapola o poder regulamentar conferido ao CONFEA, já que não criou atividades não previstas em lei, mas apenas dispôs de normas técnicas relativas a seus objetivos institucionais, tudo em completa consonância com a Lei 5.194/66.
+ ..
+Resta claro, por conseguinte, que as atividades realizadas pela parte Recorrida são, inequivocamente, contempladas pelas atividades da Engenharia Elétrica e Eletrônica, estando sujeita a registro no CREA, nos termos do art. 1º da Lei nº 6.839/80, que estabelece que a inscrição nas entidades fiscalizadoras se orienta em razão da atividade básica ou em relação à profissão pela qual as pessoas jurídicas prestam serviços a terceiros:
+ ..
+Desta feita, para a correta aplicação do art. 1º da Lei nº 6.839/1980, o qual determina que o registro das empresas nas entidades competentes far-se-á, em caráter compulsório, em função da atividade básica por elas desenvolvidas ou em relação àquela pela qual prestem serviços a terceiros, há que se interpretar em conjunto com as demais normais acima mencionadas, o que não foi feito pelo acórdão recorrido.
+E ao julgar pelo entendimento diverso, o acórdão recorrido afrontou aos artigos 7º, "g", 59 e 60 da Lei 5.194/66, e art. 1º da 6.839/80, conforme explanado, razão pela qual merece reforma (fls. 506-509).
+É, no essencial, o relatório. Decido.
+Na espécie, é incabível o recurso especial porquanto eventual violação de lei federal seria meramente indireta e reflexa, pois exigiria um juízo anterior de norma infralegal, o que refoge à competência deste Superior Tribunal de Justiça.
+Nesse sentido, confiram-se os seguintes julgados: AgInt no AREsp 1.524.223/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 11/5/2020; AgInt no AREsp 1.552.802/RS, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 13/4/2020; AgInt no REsp 1.652.475/MG, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 1º/3/2019; AgInt no REsp 1.724.930/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 22/8/2018; AgInt no AREsp 1.133.843/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 27/3/2018; REsp 1.673.298/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 9/10/2017.
+Ademais, o Tribunal de origem se manifestou nos seguintes termos:
+A sentença da lavra da eminente Juíza Federal Tani Maria Wurster deve ser mantida por seus próprios fundamentos, os quais adoto como razões de decidir:
+ ..
+No entanto, o caso em exame não se encaixa no conceito de técnica em eletrônica, mas de instalação de equipamento eletrificado, de modo que a resolução aventada não tem incidência.
+Ademais, sobre este assunto o Tribunal Regional Federal da 4ª Região já se posicionou, manifestando o entendimento de que a atividade de instalação de cercas elétricas não obriga a empresa a manter-se registrada perante o CREA, conforme se verifica da seguinte ementa:
+ ..
+Nestes termos, considerando que a empresa não estava obrigada a inscrever-se nos quadros do Conselho Exequente, nem mesmo não lhe era legalmente exigível a emissão de ART, reconheço a nulidade da autuação e, consequentemente, do título executivo originado a partir do processo administrativo 2008/7-109699-4, em execução nestes autos (fls. 487-489).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
