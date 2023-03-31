@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão com a seguinte ementa:
+Embargos de terceiro - Sentença de improcedência - Apelação intempestiva - Recurso interposto fora do prazo de 15 dias úteis previsto no art. 1.003, §5º, do CPC - Embargos de declaração da sentença opostos de forma intempestiva, não interrompendo ou suspendendo o prazo processual para interposição de outros recursos - Precedentes do STJ e TJSP - Apelação intempestiva - Recurso não conhecido.
+Opostos embargos de declaração, esses foram rejeitados na origem.
+Nas razões do especial, apontam os recorrentes existência de dissídio jurisprudencial, além de violação dos artigos 994, 1.023 e 1.026 do Código de Processo Civil.
+Sustentam que os embargos de declaração opostos na origem, uma vez que tempestivos e com regularidade da representação processual, interrompem o prazo recursal.
+Admitido o recurso na origem, nos termos da decisão de fls. 771-772, e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+A Corte local entendeu que o recurso de apelação era intempestivo, ao considerar que os segundos embargos de declaração opostos contra a sentença pelos ora recorrentes não interromperam o prazo, como se extrai dos trechos (fls. 670-671, e-STJ):
+O primeiro foi oposto em 22/6/2020 (fls. 521527), tempestivamente. Foram rejeitados por decisão proferida em 24/6/2020, veiculada no DJe de 7/7/2020. Nesse cenário, em 8/7/2020 teve início o prazo para interposição do recurso de apelação da sentença de improcedência.
+Todavia, em 15/7/2020 os embargantes opuseram novos embargos de declaração (fls. 531/538). De se ressaltar que referidos embargos apontaram omissão da própria sentença, não recorrendo da decisão que rejeitou os primeiros embargos de declaração.
+Dessa forma, o Juiz a quo não conheceu do segundo recurso, ressaltando a ocorrência de preclusão temporal e consumativa (fls. 539). Resta claro que os embargos de declaração foram opostos intempestivamente.
+A oposição de embargos declaratórios extemporâneos, fora do prazo de 5 dias previsto no art. 1.023 do CPC, não interrompe ou suspende o prazo para interposição de outros recursos.
+O Tribunal de origem se manifestou, ainda, nos embargos de declaração com efeitos integrativos, nos seguintes termos (fl. 704, e-STJ):
+Não se ignora que a decisão que rejeitou os primeiros embargos de declaração integra a sentença. Todavia, tal fato não justifica a interposição de novos embargos de declaração da r. sentença que não sofreu qualquer alteração.
+Ao apresentar novos embargos de declaração, os embargantes tentaram discutir, em segundo recurso, matéria que deveria ser arguida no primeiro recurso. Nesse aspecto, vale frisar o decidido pelo Juiz a quo ao não conhecer dos embargos: "Já tendo sido manejado e julgado igual recurso interposto contra a sentença proferida, quando não foi admitida a existência das omissões cogitadas, descabe a renovação da medida para apontamento de outros vícios que tais em face do mesmo pronunciamento judicial, seja por já haver transcorrido o prazo legal para tanto, seja por exaurida a faculdade processual pertinente, observado que a insurgência ora manifestada não se dirige à decisão que apreciou os embargos declaratórios primitivos" (fls. 539).
+Nesse cenário, considerando os argumentos que ocasionaram o não conhecimento dos segundos embargos de declaração, possível afirmar que não houve a suspensão do prazo recursal.
+Verificou-se a preclusão temporal do segundo embargos de declaração, caracterizando sua intempestividade.
+Tal situação, consequentemente, afetou a contagem do prazo para interposição do recurso de apelação, acarretando a intempestividade da apelação dos embargantes.
+Verifico que o acórdão da origem, no ponto, divergiu do entendimento firmado pelo Superior Tribunal de Justiça, cuja compreensão é de que "A única hipótese de os embargos de declaração, mesmo contendo pedido de efeitos modificativos, não interromperem o prazo para posteriores recursos é a de intempestividade, que conduz ao não conhecimento do recurso" (REsp n. 1.522.347/ES, relator Ministro Raul Araújo, Corte Especial, DJe de 16/12/2015).
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE DECLARAÇÃO INDEVIDAMENTE RECEBIDOS NA ORIGEM COMO MERO PEDIDO DE RECONSIDERAÇÃO. PRAZO RECURSAL INTERROMPIDO. AFASTADA A INTEMPESTIVIDADE DO SUBSEQUENTE AGRAVO INTERNO. AGRAVO PROVIDO. RECURSO ESPECIAL PROVIDO.
+1. A tempestiva oposição de embargos de declaração, ainda que venham a ser rejeitados por terem propósito infringente, interrompe o prazo para outros recursos.
+2. "Configura violação ao art. 538 do CPC o recebimento de embargos de declaração como mero "pedido de reconsideração", ainda que contenham nítido pedido de efeitos infringentes" (REsp 1.522.347/ES, Rel. Ministro RAUL ARAÚJO, Corte Especial, j. em 16/09/2015, DJe de 16/12/2015).
+3. Agravo interno provido para dar provimento ao recurso especial, reconhecendo-se a tempestividade do agravo interno interposto na origem.
+(AgInt nos EDcl no AREsp n. 1.806.345/RJ, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/10/2021)
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS DE DECLARAÇÃO TEMPESTIVOS OPOSTOS PERANTE O JUÍZO DE PRIMEIRO GRAU. PRETENSÃO INFRINGENTE. IMPOSSIBILIDADE DE RECEBIMENTO COMO PEDIDO DE RECONSIDERAÇÃO. PRAZO RECURSAL INTERROMPIDO.
+1. A Corte Especial deste Tribunal Superior, no julgamento do REsp 1.522.347/ES (Rel. Ministro Raul Araújo, DJe 16/12/2015), firmou a compreensão de que é incabível o recebimento de embargos declaratórios, ainda que contenham nítido pedido de efeitos infringentes, como mero "pedido de reconsideração", porque: "a) não atende a nenhuma previsão legal, tampouco aos requisitos de aplicação do princípio da fungibilidade recursal; b) traz surpresa e insegurança jurídica ao jurisdicionado, pois, apesar de interposto tempestivamente o recurso cabível, ficará à mercê da subjetividade do magistrado; c) acarreta ao embargante grave sanção sem respaldo legal, qual seja, a não interrupção de prazo para posteriores recursos, aniquilando o direito da parte embargante, o que supera a penalidade objetiva positivada no art. 538, parágrafo único, do CPC".
+2. Agravo interno não provido.
+(AgInt no REsp n. 1.733.091/GO, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 13/3/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DOS AGRAVADOS.
+(..)
+2. Manutenção da multa processual aplicada por embargos de declaração protelatórios. A impropriedade da alegação dos segundos embargos de declaração opostos com o escopo de rediscutir a suposta existência de vícios no julgado, enfrentados anteriormente nos primeiros embargos declaratórios, constitui prática processual abusiva e manifestamente protelatória, sujeita à aplicação da multa prevista no artigo 1.026, § 2º, do Código de Processo Civil de 2015. Precedentes.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 1.901.654/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 24/6/2022)
+Em face do exposto, dou provimento ao recurso especial, a fim de afastar a intempestividade do recurso de apelação interposto na origem e determinar o retorno dos autos à instância de origem para que proceda ao julgamento da ação conforme entender de direito.
+Intimem-se.
