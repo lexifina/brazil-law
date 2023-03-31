@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de novo pedido de reconsideração da decisão de fl. 223 e-STJ, proferida em que indeferi o pedido de reconsideração da decisão da Presidência desta Corte, que indeferiu a liminar.
+A defesa, mais uma vez, reitera o pedido de revogação da prisão do paciente, sob o fundamento de que a filha do paciente, de 13 anos e portadora de transtorno do aspecto autista em grau severo, dele necessita para seus cuidados. Salienta a existência de condições pessoais favoráveis e a falta de contemporaneidade da prisão.
+Renova que a iminente audiência de instrução e julgamento irá ocorrer em processo viciado por nulidade absoluta, apontando a ocorrência de novos incidentes processuais que determinam maior demora na conclusão do processo.
+Pleiteia o deferimento da liminar para revogar a prisão do paciente.
+É o relatório.
+Em homenagem aos princípios da economia processual, da celeridade processual e da fungibilidade recursal, é entendimento do Superior Tribunal de Justiça que o pedido de reconsideração de decisões monocráticas legalmente previsto é o do agravo regimental, cujo prazo para apresentação é de 5 (cinco) dias, contados da publicação da decisão agravada (RCD no HC 439.853/MG, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 10/04/2018, DJe 16/04/2018), RCD no HC 412.463/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 03/10/2017, DJe 09/10/2017) RCD no REsp 1617086/PR, Rel. Ministra ASSUSETE MAGALHÃES, PRIMEIRA SEÇÃO, julgado em 09/05/2018, DJe 21/05/2018).
+In casu, verifica-se que a decisão que indeferiu o pedido de reconsideração (e-STJ, fl. 223) foi publicada em 7/2/2023 (e-STJ, fl. 225). Contudo, o presente pedido de reconsideração somente foi apresentado em 28/3/2023 (e-STJ, fls. 228-290), fora, portanto, do quinquídio legal, não podendo ser recebido como se agravo regimental fosse. Nesse sentido, confira-se: AgInt no AREsp 1408772/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 19/02/2019, DJe 26/02/2019. Assim, não conheço o pedido de reconsideração.
+Retornem os autos ao Ministério Público Federal para parecer.
+Publique-se. Intimem-se.
