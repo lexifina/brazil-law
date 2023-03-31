@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto por SÉRGIO CARLOS TRONI, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça assim ementado (fl. 1.682):
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. ART. 304 C. C. O ART. 298 DO CÓDIGO PENAL. PEDIDO DE DECLARAÇÃO DA PRESCRIÇÃO DA PRETENSÃO PUNITIVA. OMISSÃO. INOCORRÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. O acórdão que confirma a condenação é marco interruptivo da prescrição da pretensão punitiva, conforme entendimento atual deste Superior Tribunal de Justiça, em conformidade com o julgamento, pelo Plenário do Supremo Tribunal Federal, do HC 176.473, Rel. Ministro ALEXANDRE DE MORAES, julgado em 27/04/2020, PROCESSO ELETRÔNICO DJe-224, DIVULG 09-09-2020, PUBLIC 10-09-2020, que firmou a seguinte tese: "Nos termos do inciso IV do artigo 117 do Código Penal, o Acórdão condenatório sempre interrompe a prescrição, inclusive quando confirmatório da sentença de 1º grau, seja mantendo, reduzindo ou aumentando a pena anteriormente imposta."
+2. O entendimento de que o acórdão confirmatório da condenação não constituiria novo marco interruptivo aplica-se tão somente aos crimes anteriores à vigência da Lei n. 11.596/2007, que deu nova redação ao art. 117, inciso IV, do Código Penal.
+3. No caso, cuidando-se de fatos ocorridos em 2013 e não transcorrido o prazo prescricional entre os marcos interruptivos, não há falar em consumação da prescrição da pretensão punitiva.
+4. Embargos de declaração rejeitados.
+A parte recorrente sustenta a violação dos arts. 5º, caput, II e XXXIX, da CF e aduz que há repercussão geral da matéria tratada.
+Alega que o acórdão recorrido, quando deixou de reconhecer a prescrição da pretensão punitiva estatal, teria violado os princípios da legalidade, anterioridade e isonomia, pois, a seu ver, " ..  não poderia ser aplicado retroativamente o entendimento do Supremo Tribunal Federal, no HC 176.473, no sentido de que o acórdão confirmatório também seria novo marco interruptivo da prescrição" (fl. 1.698).
+Requer, ao final, a admissão do recurso e a remessa ao Supremo Tribunal Federal.
+As contrarrazões foram apresentadas às fls. 1.716-1.718.
+É o relatório.
+Verifica-se que a controvérsia cinge-se à questão da ocorrência da prescrição da pretensão punitiva e eventual impossibilidade de aplicação, de forma retroativa, do entendimento firmado pelo STF no HC n. 176.473/RR.
+O acórdão impugnado assim se manifestou sobre o tema (fls. 1.685-1.688):
+Diante da pena aplicada, de 1 (um) ano e 4 (quatro) meses de detenção, o prazo prescricional é de 4 (quatro) anos. O recebimento da denúncia ocorreu em 06/04/2016 (fl. 459), e a publicação da sentença condenatória em 20/03/2018 (fl. 962). O acórdão confirmatório da condenação foi publicado, em sessão de julgamento, em 15/08/2019. Portanto, entre os marcos interruptivos, não transcorreu o prazo necessário para a consumação da prescrição da pretensão punitiva.
+Ao contrário do que alega o Embargante, o acórdão que confirma a condenação é marco interruptivo da prescrição da pretensão punitiva.
+Com efeito, o anterior entendimento deste Superior Tribunal de Justiça foi superado a partir do julgamento, pelo Plenário do Supremo Tribunal Federal, do HC 176.473, Rel. Ministro ALEXANDRE DE MORAES, julgado em 27/04/2020, PROCESSO ELETRÔNICO DJe-224 DIVULG 09-09-2020 PUBLIC 10-09-2020, que firmou a seguinte tese: "Nos termos do inciso IV do artigo 117 do Código Penal, o Acórdão condenatório sempre interrompe a prescrição, inclusive quando confirmatório da sentença de 1º grau, seja mantendo, reduzindo ou aumentando a pena anteriormente imposta."
+ ..
+Não há falar, outrossim, em modulação de efeitos desse entendimento, tampouco em irretroatividade, conforme recente pronunciamento unânime das duas Turmas que compõem esta Terceira Seção.
+ ..
+Tão somente em relação aos crimes anteriores à vigência da Lei n. 11.596/2007, que deu nova redação ao art. 117, inciso IV, do Código Penal, é que tem se entendido que o acórdão confirmatório da condenação não constituiria novo marco interruptivo. Essa contudo, não é a situação dos autos, que cuidam de fatos ocorridos em 2013.
+Ao assim decidir, constata-se que esta Corte Superior de Justiça acompanhou a jurisprudência do Supremo Tribunal Federal, conforme é possível observar da leitura dos seguintes precedentes:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. DECISÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA EM CONSONÂNCIA COM O ENTENDIMENTO FIRMADO PELO SUPREMO TRIBUNAL FEDERAL NO HC 176.473/RR. ORIENTAÇÃO JURISPRUDENCIAL QUE SE APLICA INCLUSIVE A FATOS PRATICADOS ANTES DA LEI 11.596/2007, QUE DEU NOVA REDAÇÃO AO INCISO IV DO ART. 117 DO CÓDIGO PENAL. REITERAÇÃO DOS ARGUMENTOS EXPOSTOS NA INICIAL QUE NÃO INFIRMAM OS FUNDAMENTOS DA DECISÃO AGRAVADA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+I - O acórdão do Superior Tribunal de Justiça apoiou-se no julgamento do Plenário desta Suprema Corte (HC 176.473/RR, de relatoria do Ministro Alexandre de Moraes), no qual se fixou a tese de que, "nos termos do inciso IV do artigo 117 do Código Penal, o acórdão condenatório sempre interrompe a prescrição, inclusive quando confirmatório da sentença de 1º grau, seja mantendo, reduzindo ou aumentando a pena anteriormente imposta".
+II - Esta Suprema Corte possui jurisprudência no sentido de que os preceitos constitucionais que regem a aplicação retroativa da norma penal benéfica e a irretroatividade da lei mais grave ao acusado (art. 5º, XL, da CF) não são aplicáveis aos precedentes jurisprudenciais, uma vez que tais regras referem-se às leis penais. Aliás, o Plenário do Supremo Tribunal Federal, no julgamento do referido HC 176.473/RR, não cogitou a modulação temporal dos efeitos daquela decisão.
+III - O presente recurso apenas reitera os argumentos de defesa anteriormente expostos, sem, no entanto, revelar quaisquer elementos capazes de afastar as razões decisórias então proferidas.
+IV - Agravo regimental a que se nega provimento.
+(AgR no HC n. 219.444, Ministro relator Ricardo Lewandowski, Segunda Turma, DJe de 4/10/2022.)
+Agravo regimental no recurso extraordinário com agravo. Direito Penal e Processual Penal. Prescrição da pretensão penal punitiva. Não ocorrência. Marco interruptivo da prescrição. Acórdão confirmatório de sentença condenatória. Princípio da irretroatividade da norma penal. Inaplicabilidade aos precedentes jurisprudenciais. Precedentes. Agravo regimental não provido.
+1. O Plenário da Suprema Corte, ao julgar o HC nº 176.473/RR, de relatoria do Ministro Alexandre de Moraes, fixou a seguinte tese: "Nos termos do inciso IV do artigo 117 do Código Penal, o Acórdão condenatório sempre interrompe a prescrição, inclusive quando confirmatório da sentença de 1º grau, seja mantendo, reduzindo ou aumentando a pena anteriormente imposta."
+2. "A jurisprudência desta Suprema Corte orienta-se no sentido de que os preceitos constitucionais relativos à aplicação retroativa da norma penal benéfica, bem como à irretroatividade da norma mais grave ao acusado, "ex vi" do artigo 5º, XL, da Constituição Federal, são inaplicáveis aos precedentes jurisprudenciais" (RHC nº 172.074-ED, Primeira Turma, Rel. Min. Rosa Weber, DJe de 17/2/21).
+3. Agravo regimental não provido.
+(ARE n. 1.320.608-AgR, Ministro relator Dias Toffoli, Primeira Turma, julgado em 17/8/2021, DJe de 8/9/2021.)
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PENAL. ACÓRDÃO CONFIRMATÓRIO DA CONDENAÇÃO. MARCO INTERRUPTIVO DA PRESCRIÇÃO. JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL.
+I - O Plenário do Supremo Tribunal Federal, ao julgar o HC 176.473/RR, da relatoria do Ministro Alexandre de Moraes, fixou a tese que, nos termos do inciso IV do artigo 117 do Código Penal, o acórdão condenatório sempre interrompe a prescrição, inclusive quando confirmatório da sentença de 1º grau, seja mantendo, reduzindo ou aumentando a pena imposta.
+II - Inaplicabilidade do princípio da irretroatividade da lei, por não tratar-se de mudança normativa.
+II - Agravo regimental a que se nega provimento.
+(RE n. 1.288.179-AgR-AgR, Ministro relator Ricardo Lewandowski, Segunda Turma, julgado em 11/11/2020, DJe de 19/11/2020.)
+Desse modo, estando o acórdão recorrido na mesma direção da jurisprudência firmada pela Suprema Corte, é impossível a admissão desta insurgência.
+Ante o exposto, nos termos do art. 1.030, V, do Código de Processo Civil, não admito o recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. DIREITO PENAL. PRESCRIÇÃO. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. RECURSO NÃO ADMITIDO.
