@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+LEGITIMIDADE AD CAUSAM
+- Ação de cobrança de seguro- Seguro prestamista atrelado a adesão a plano de consórcio - Seguro contratado cm razão da adesão ao grupo de consórcio administrado pela corre - Legitimidade passiva reconhecida- Ação movida pela única herdeira do segurado- Legitimidade ativa- Ocorrência:
+- Hipótese em que o consorciado contratou o seguro diretamente com a administradora de consórcio, cabendo, ainda, ser reconhecida a legitimidade ativa de sua única herdeira para pleitear a liberação da carta de crédito, por se tratar de direito próprio.
+CERCEAMENTO DE DEFESA
+- Ação de cobrança de seguro prestamista- Negativa pautada em doença preexistente- Dilação probatória- Desnecessidade - Controvérsia que pode ser solucionada apenas à luz do que dispõe a avença e prova documental já produzida- Julgamento antecipado da lide - Possibilidade:
+- Não há cerceamento de defesa quando a matéria controvertida pode ser analisada apenas à luz do que prevê o contrato celebrado entre as partes e a prova documental já coligida aos autos, autorizando-se o julgamento antecipado da lide.
+SEGURO PRESTAMISTA
+- Seguro prestamista vinculado a consórcio de bem móvel - Falecimento do consorciado - Recusa de cobertura pela seguradora, sob a alegação de doença preexistente- Conhecimento de seu quadro clínico no momento da adesão- Má-fé no preenchimento do questionário- Procedência- Impossibilidade:
+- Demonstrado que o consorciado, no momento da adesão ao seguro prestamista, tinha conhecimento de sua condição clínica, deixando de declarar doença preexistente, deve ser reconhecida a má-fé, a conduzir à improcedência a pretensão inicial. Exegese da Súmula 609 do C. STJ.
+RECURSOS DAS RÉS PROVIDOS.
+Opostos embargos de declaração, esses foram rejeitados na origem.
+Nas razões de recurso especial, aponta a agravante existência de dissídio jurisprudencial, além de violação dos artigos 489 e 1.022 do Código de Processo Civil; e, 6º do Código de Defesa do consumidor, alegando a ocorrência de negativa de prestação jurisdicional com a rejeição dos embargos de declaração, sem suprimento da omissão relativa à aventada ausência de intenção maliciosa do segurado.
+Afirma desacerto no acórdão estadual, haja vista ausência de prova da ciência do segurado de doença prévia à contratação do seguro de vida, além disso há comprovação que, posteriormente, o segurado ao tomar conhecimento da enfermidade realizava tratamento para controle.
+Presentes os pressupostos de admissibilidade e ultrapassado o limite do conhecimento do presente agravo, verifico que este não merece provimento, senão vejamos.
+A Súmula nº 568, desta Corte, dispõe que "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do temas".
+Quanto à preliminar, não observo omissão no acórdão, senão julgamento contrário aos interesses da agravante, o que não autoriza, por si só, o acolhimento de embargos de declaração, nem sua rejeição importa em violação à sua norma de regência.
+Esclareça-se que não se exige do julgador a análise de todos os argumentos das partes, para fins de convencimento e julgamento. Para tanto, basta o pronunciamento acerca dos fatos controvertidos, o que se observa no presente caso, havendo fundamentação relativo à omissão intencional pelo segurado de quadro clínico relevante, revelando que os motivos da decisão encontram-se objetivamente fixados nas razões do acórdão recorrido.
+Com efeito, a Câmara revisora, com base nos fatos, cláusulas contratuais e provas dos autos, concluiu que a conduta de omissão consciente na declaração de doença preexistente quebra o princípio da confiança, como se extrai dos trechos (fls. 330-332, e-STJ):
+Ora, embora não diagnosticado com a neoplasia hepática, sem apresentar sangramento nas varizes esofagianas, o autor omitiu quadro clínico relevante, suficiente a evoluir para a causa de seu óbito, não havendo como extrair boa-fé no preenchimento do questionário, ao declarar "não ser portador de nenhuma doença crônica ou congênita. Não ter apresentado resultados alterados em exames tais como ressonância magnética, radiografia, tomografia, ultrassonografia, endoscopia, exames de sangue ou qualquer outro" (fls. 105).
+Embora já tenha mitigado o C. Superior Tribunal de Justiça, a restrição contratual decorrente de doença preexistente, quando esta, apesar de fragilizar a saúde do segurado, não tenha ligação direta com o óbito, é certo que as patologias em questão (cirrose hepática e varizes esofagianas), ao contrário do ocorreu com a hipertensão arterial e diabetes também omitidas, tiveram correlação direta com o sinistro.
+(..)
+Mesmo a possibilidade de preenchimento do questionário por terceiro não afasta o erro inescusável do segurado, que conhecendo a extensão de seu problema de saúde e suas conseqüências, manifestou concordância com os termos ali expressos ao apor sua assinatura, sobretudo diante da expressa ressalva acerca da possibilidade de perda do direito ã indenização securitária na hipótese de omissão de informações quanto ao estado clínico (fls. 105).
+Destaco que, apesar de o contrato de seguro ser classificado, tradicionalmente, como um contrato aleatório, compete à seguradora, com base nas informações prestadas pelo segurado, a realização de cálculos que permitam a minimização dos riscos assumidos.
+Noutros termos, é justamente com base nas informações individualizadas de cada segurado que a seguradora irá calcular o prêmio adequado para as características informadas, de forma a cobrir o risco assumido e a viabilizar a continuidade do plano de seguro, de forma que a prestação de informações inverídicas ou omissão de circunstâncias relevantes, como no caso dos autos, colocam em risco a própria sobrevivência do seguro.
+Assim sendo, tendo a Corte estadual concluído que a parte segurada omitiu circunstâncias que influiriam na aceitação da proposta ou na taxa do prêmio, a alteração dessas premissas esbarraria nas vedações de reexame do conjunto fático-probatório e de análise de cláusulas contratuais por esta via do recurso especial, em virtude das Súmulas acima mencionadas.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. ART. 535 DO CPC/1973. VIOLAÇÃO. NÃO OCORRÊNCIA. SEGURO DE SAÚDE. COBERTURA. DOENÇA PREEXISTENTE. ESTADO DE SAÚDE PRECÁRIO. OMISSÃO NO PREENCHIMENTO DO QUESTIONÁRIO. MÁ-FÉ DO SEGURADO. RECONHECIMENTO. REVISÃO. INADMISSIBILIDADE. SÚMULA Nº 7/STJ.
+1. (..)
+2. A descaracterização da má-fé do segurado que forneceu intencionalmente informações inverídicas e incompletas à seguradora demandaria o reexame de matéria fática, circunstância obstada pela Súmula nº 7/STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp 1018142/MG, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 4/4/2017)
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo, considerando-se suspensa a exigibilidade em caso de assistência judiciária gratuita.
+Intimem-se.
