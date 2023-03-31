@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+PROCESSUAL CIVIL. Indeferimento da denunciação da lide ou de formação de litisconsórcio passivo necessário ou unitário. Incidência do CDC reconhecida. Descabimento de introdução de fundamento novo (eventual dolo ou culpa de terceiro), estranho à causa petendi originária. Inexistência de direito de garantia. Denunciação da lide não autorizada - Afastamento da denunciação da lide que não acarreta a perda do direito de regresso. Ausência de litisconsórcio passivo necessário. Hipótese de litisconsórcio facultativo e simples. Decisão mantida - Agravo improvido.
+Alegou-se, no especial, violação dos artigos 12, 13, 14 e 88 do Código de Defesa do Consumidor e 114 do Código de Processo Civil, sob o argumento de que é cabível, na hipótese dos autos, a denunciação da lide a terceiro, já que "sua presença é fator determinante para a elucidação dos fatos e apuração de responsabilidade civil do ora recorrente, já que cabe à instituição financeira demonstrar que os fatos ocorreram por culpa exclusiva de terceiro, posto que a princípio, conforme dispõe a Súmula 479 do STJ, sua responsabilidade é objetiva" (e-STJ, fl. 57).
+Assim delimitada a controvérsia, passo a decidir.
+Colhe-se dos autos que a agravada ajuizou pedido indenizatório em face do agravante sob o fundamento de que teria sido vítima de fraude praticada por terceiro, que obteve empréstimo em seu nome.
+Requerida a denunciação da lide, esta foi indeferida pelo juízo primevo por decisão mantida pelo Tribunal local, haja vista o reconhecimento de relação de consumo entre as partes.
+As instâncias ordinárias agiram de acordo com a jurisprudência do Superior Tribunal de Justiça, que entende não ser cabível a denunciação da lide quando se tratar de relação de consumo, podendo o réu, por ação direta, demandar o causador do dano.
+Assim:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. DENUNCIAÇÃO À LIDE DA CONSTRUTORA. NÃO CONFIGURADA HIPÓTESE DE LITISCONSÓRCIO PASSIVO NECESSÁRIO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. AGRAVO INTERNO DESPROVIDO.
+1. A falta de impugnação de argumento suficiente para manter, por si só, o acórdão impugnado, a argumentação dissociada bem como a ausência de demonstração da suposta violação à legislação federal impedem o conhecimento do recurso, na esteira dos enunciados n. 283 e 284 da Súmula do Supremo Tribunal Federal.
+2. O entendimento desta Corte Superior é de que, em se tratando de relação de consumo, descabe a denunciação da lide, nos termos do art. 88 do Código de Defesa do Consumidor.
+3. A jurisprudência do STJ se firmou no sentido de que "o Código de Processo Civil de 2015 não prevê a obrigatoriedade da denunciação da lide em nenhuma de suas hipóteses. Ao contrário, assegura o exercício do direito de regresso por ação autônoma quando indeferida, não promovida ou proibida (CPC/2015, art 125, caput, e § 1º) (AgInt no AREsp n. 1.962.768/RJ, Relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 14/12/2021, DJe 17/12/2021) 4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.026.035/RN, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 30/5/2022, DJe de 2/6/2022.)
+Inequívoca, pois, a incidência do verbete n. 83 da Súmula do Superior Tribunal de Justiça.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
