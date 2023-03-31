@@ -1,0 +1,60 @@
+DECISÃO
+Trata-se de agravo interposto por CHAGA SILVA DE ANDRADE e MARIA DE FATIMA SILVA DE ANDRADE contra decisão que inadmitiu o recurso especial.
+No apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, os recorrentes insurgem-se contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que os ora recorrentes propuseram ação de interdito proibitório julgada procedente em primeiro grau (e-STJ fls. 391-397).
+Irresignados, os réus interpuseram recurso de apelação que não foi provido, em acórdão assim resumido:
+"AÇÃO POSSESSÓRIA DE INTERDITO PROIBITÓRIO - Exceção de suspeição - Inexistência - Artigo 304 do Código de Processo Civil - Não incidência - "Perpectuatio legitimationis" - Mudanças no direito material não se refletem no processo - Venda do bem litigioso a testemunha - Possibilidade - Artigo 42 do Código de Processo Civil - Incidência - Provas testemunhais - Ocorrência - Todos os meios de prova desde lícitos e legítimos podem provar os fatos alegados - Prova testemunhal e documental em consonância - Caracterização - Ônus de provar os fatos alegados - Cumprimento - Inciso I do artigo 333 do Código de Processo Civil - Incidência - "Allegatio et non probatio quase non allegatio" -Aplicabilidade - Fundamentação "per relationem" - Possibilidade - Recursos improvidos." (e-STJ fl. 526).
+Os embargos de declaração opostos por ANA CECÍLIA DO SACRAMENTO e Outros foram acolhidos com efeitos modificativos, por maioria de votos, em aresto assim ementado:
+"EMBARGOS DE DECLARAÇÃO - Interdito Prolbitório - Sentença de procedência inicialmente confirmada por v. Acórdão - Omissão, contradição e obscuridade comprovadas - Análise imperfeita e equivocada da prova e dos fatos - Acolhimento dos embargos, com o desfazimento daqueles equívocos - Reforma da r. sentença necessária, após detida análise dos fatos e provas - Apelação a que se dá provimento - Inversão dos ônus sucumbenciais - Prequestionamento anotado - Embargos acolhidos, com efeito modificativo, por maioria de votos." (e-STJ fl. 547)
+Os aclaratórios que se seguiram, opostos pelos ora recorrentes, foram acolhidos parcialmente sem efeitos modificativos (e-STJ fls. 568-574).
+Seguiu-se a interposição de embargos infringentes pelos ora recorrentes, que foram rejeitados, por maioria de votos, com a seguinte ementa:
+"Embargos infringentes - Acórdão que ao dar provimento a recurso de embargos de declaração acolhe nova interpretação à prova dos autos - Possibilidade - Erro material que ao ser corrigido confere efeito modificativo aos embargos - Exame dos autos que autoriza interpretação diversa - Possibilidade - Prova da posse dos embargados _ Embargos rejeitados" (e-STJ fl. 629)
+Os novos aclaratórios opostos pelos ora recorrentes foram rejeitados (e-STJ fls. 651-656).
+Em sequencia, os ora recorrentes interpuseram recurso especial, que, autuado nesta Corte sob o nº 1.685.135/SP, foi provido para anular o julgamento dos embargos de declaração (e-STJ fls. 547-553), determinando o retorno dos autos ao Tribunal de origem para que fosse conferida oportunidade de impugnação aos embargos.
+Restituídos os autos à origem, foi conferida oportunidade de manifestação acerca dos embargos de declaração, que veio aos autos às fls. 817-834 (e-STJ).
+Após a resposta, O Tribunal de origem procedeu a novo julgamento dos aclaratórios, que foram acolhidos com efeitos modificativos, à unanimidade de votos.
+Confira-se a ementa do julgado:
+"Embargos declaratórios. Acolhimento de determinação do C. STJ de se oportunizar a Impugnação aos embargos declaratórios. Interdito Proibitório. Sentença de procedência Inicialmente confirmada por v. Acórdão. Omissão, contradição e obscuridade comprovadas. Análise imperfeita e equivocada da prova e dos fatos. Acolhimento dos embargos, com o desfazimento daqueles equívocos. Reforma da r. sentença necessária, após detida análise dos fatos e provas. Apelação a que se dá provimento. Inversão dos ônus sucumbenciais. Prequestionamento anotado.
+Embargos acolhidos, com efeito modificativo" (e-STJ fl. 840).
+Os dois embargos de declaração opostos de forma sucessiva pelos ora recorrentes foram rejeitados (e-STJ fls. 874-880 e 928-934).
+Nas razões do presente recurso especial (e-STJ fls. 937-970), os recorrentes apontam violação dos seguintes dispositivos com as respectivas teses:
+(i) artigos 489, § 1º, inciso IV, e 1.022, inciso II, do Código de Processo Civil - deficiência de fundamentação e negativa de prestação jurisdicional;
+(ii) artigos 2º, 141, 342, 556, 1.013 e 1.014 do Código de Processo Civil - indevida inovação em sede de apelação e embargos de declaração, decisão extra petita e reformatio in pejus e
+(iii) artigo 1.245, caput, § 1º, do Código Civil - apreciação equivocada da prova.
+Com as contrarrazões (e-STJ fls. 977-991), e não admitido o recurso na origem (e-STJ fls. 993-996), adveio o presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação não merece prosperar.
+No tocante à alegada negativa de prestação jurisdicional (artigos 489, § 1º, inciso IV, e 1.022, inciso II, do Código de Processo Civil de 2015), agiu corretamente o Tribunal de origem ao rejeitar os embargos declaratórios por inexistir omissão, contradição ou obscuridade no acórdão embargado, ficando patente, em verdade, o intuito infringente da irresignação, que objetivava a reforma do julgado por via inadequada.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. MATÉRIA JORNALÍSTICA. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. OMISSÃO NÃO VERIFICADA. CONCLUSÃO DO ACÓRDÃO PELA NÃO CONFIGURAÇÃO DOS DANOS MORAIS. REVISÃO DO JULGADO. IMPOSSIBILIDADE. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. A alegada ofensa aos arts. 489 e 1.022 do CPC/2015 não ficou configurada, uma vez que o Tribunal de origem examinou, de forma fundamentada, todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que tenha decidido em sentido contrário à pretensão do recorrente.
+2. O Tribunal de origem não reconheceu a configuração dos danos morais decorrentes da matéria jornalística, ante a não verificação de ocorrência de violação do direito de personalidade. Nesse contexto, para infirmar as conclusões a que chegou o acórdão recorrido, seria imprescindível o revolvimento do conjunto fático-probatório dos autos, o que é vedado nesta instância extraordinária, consoante dispõe a Súmula 7/STJ.
+3. Agravo interno improvido".
+(AgInt no AREsp 1.439.955/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 10/06/2019, DJe 13/06/2019 - grifou-se)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE SEGURO. OMISSÃO NO ACÓRDÃO DE ORIGEM. ARTIGOS 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. LIMITES DO RISCO CONTRATADO. REEXAME DE PROVAS. SÚMULAS 5 E 7/STJ. NÃO PROVIMENTO.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, obscuridades ou contradições, deve ser afastada a alegada ofensa aos arts. 489, § 1º, IV, e 1.022, I e II, do Código de Processo Civil.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+3. Agravo interno a que se nega provimento".
+(AgInt no AREsp 1.374.504/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 11/06/2019, DJe 14/06/2019 - grifou-se)
+No tocante ao conteúdo normativo dos artigos 2º, 141, 342, 556, 1.013 e 1.014 do Código de Processo Civil, não foi debatido no acórdão recorrido, apesar da oposição de embargos de declaração.
+Desatendido, portanto, o requisito do prequestionamento, nos termos da Súmula nº 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Nesse sentido:
+"AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO. RECURSO ESPECIAL. EXECUÇÃO. PRINCÍPIO DA MENOR ONEROSIDADE. INTERESSE DO CREDOR. PREQUESTIONAMENTO. SÚMULA 211/STJ. REEXAME DE PROVAS. SÚMULA 7/STJ.
+1.- O princípio da menor onerosidade ao devedor deve estar em harmonia com o interesse do credor.
+2.- O prequestionamento, entendido como a necessidade de o tema objeto do recurso haver sido examinado pela decisão atacada, constitui exigência inafastável da própria previsão constitucional, ao tratar do recurso especial, impondo-se como um dos principais requisitos ao seu conhecimento. Não examinada a matéria objeto do especial pela instância a quo, mesmo com a oposição dos embargos de declaração, incide o enunciado 211 da Súmula do Superior Tribunal de Justiça.
+3.- A verificação da afronta ao princípio da menor onerosidade do devedor, insculpido no artigo 620 do Código de Processo Civil, esbarra no óbice da Súmula 7 deste Tribunal.
+4.- Agravo Regimental improvido".
+(AgRg no AREsp 158.707/SP, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 22/05/2012, DJe 05/06/2012 - grifou-se)
+"CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REGRESSIVA. RESSARCIMENTO DE DANOS. TRANSPORTE AÉREO DE MERCADORIA. AVARIA DE CARGA. ALEGAÇÃO DE DECADÊNCIA. FUNDAMENTO NÃO ATACADO. SÚMULA 283/STF. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 211/STJ. LIMITAÇÃO DA RESPONSABILIDADE. POSSIBILIDADE. PREVALÊNCIA DA CONVENÇÃO DE MONTREAL. NECESSIDADE DE RETORNO DOS AUTOS À ORIGEM PARA ANÁLISE DE QUESTÃO FÁTICA. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+1. É inadmissível o recurso especial nas hipóteses em que o acórdão recorrido assenta em mais de um fundamento suficiente e o recurso não abrange todos eles. Aplicação analógica da Súmula 283 do STF.
+2. A falta de prequestionamento das matérias alegadas nas razões do especial impede seu conhecimento, não obstante a oposição de embargos declaratórios. Incidência da Súmula 211 do STJ.
+3. Nos termos da jurisprudência do STJ, "a pretensão indenizatória decorrente de danos a cargas ou mercadorias em transporte aéreo internacional está sujeita aos limites impostos pela Convenção de Montreal, salvo se o expedidor da bagagem haja feito ao transportador uma declaração especial de valor de sua entrega no lugar de destino, e tenha pago uma quantia suplementar, se for cabível." (AgInt no REsp 1874764/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 21/06/2021, DJe 29/06/2021).
+4. No caso, ao afastar a possibilidade de limitação do valor da indenização em qualquer hipótese, o Tribunal a quo foi em desencontro à jurisprudência desta Corte, merecendo provimento o recurso especial nesse ponto. Contudo, o acórdão recorrido não tratou sobre a existência ou não de declaração especial do expedidor de bagagem, questão fática imprescindível ao deslinde da controvérsia e que não pode ser examinada nesta instância, razão pela qual, para a melhor solução da controvérsia, se faz necessário o retorno dos autos para que se analise o feito nos termos da jurisprudência deste STJ.
+5. Agravo interno provido para conhecer do agravo e dar parcial provimento ao recurso especial, com a determinação de retorno dos autos ao Tribunal de origem, a fim de que reexamine a causa à luz do entendimento do Superior Tribunal de Justiça".
+(AgInt no AREsp n. 1.636.421/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 17/10/2022, DJe de 21/10/2022 - grifou-se)
+Quanto ao mais (artigo 1.245, caput, § 1º, do Código Civil), a inversão das conclusões da Corte local - que entendeu ausentes os requisitos para a procedência da ação de interdito proibitório - demandaria o reexame de matéria fático-probatória, o que é inviável em sede de recurso especial, nos termos da Súmula nº 7 do Superior Tribunal de Justiça: "A pretensão de simples reexame de prova não enseja recurso especial".
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento
+Publique-se.
+Intimem-se.
