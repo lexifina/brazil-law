@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por GEOVANI RODOLFO SIQUEIRA, à decisão de fls. 279/280, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Conforme já se afirmou anteriormente, a decisão embargada foi contradita, pois o que se alega foi um erro na contagem de prazo do sistema projudi que goza de fé pública.
+Partindo dessa premissa, houve decisão declarando intempestivo o Recurso Especial, entretanto, a petição de Recurso Especial foi protocolada como cumprimento de intimação, no prazo fornecido pelo projudi.
+Caso houve um erro do sistema projudi, não pode o embargante ser prejudicado por tal ato, visto que, o sistema goza de fé pública.
+Os tribunais devem se pautar na aplicação dos princípios da segurança e confiança dos atos oficiais, não podendo as partes serem prejudicadas em caso de equívoco na contagem de prazo (fls. 284/285).
+ ..
+O que se extrai das decisões acima é de que o prazo computado pelo sistema eletrônico goza de fé pública, assim, sendo amparados pelos princípios da segurança e confiança dos atos oficiais, respaldado pelo respeito e credibilidade dos prazos estabelecidos pelo sistema oficial de peticionamento eletrônico.
+Ademais, não pode o advogado ser prejudicado nos casos em que há contagem de prazo equivocada pelo sistema, assim já decidiu o Tribunal de Justiça do Estado do Paraná, aplicando o princípio da boa-fé, veja-se: (fl. 286).
+ ..
+Conclui-se assim, que nestes casos, os tribunais devem se pautar na aplicação dos princípios da segurança e confiança dos atos oficiais, sem contar, que o sistema eletrônico goza de fé pública, não podendo as partes serem prejudicadas em caso de equívoco na contagem de prazo, devendo ser necessário a análise do caso concreto para aplicação do princípio da boa-fé processual, conforme consigna o art. 5º do Código de Processo Civil (fl. 287).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada, no ato da interposição do recurso que pretende seja conhecido por este Tribunal, por documento oficial ou certidão expedida pelo Tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública.
+Nesse sentido, AgInt no AREsp 1542214/SP, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 9/6/2020; AgInt nos EDcl no AREsp 1553768/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/4/2020; e AgInt nos EDcl no AREsp 1379051/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 3/10/2019.
+Não se desconhece o entendimento firmado nesta Corte de que "o equívoco na indicação do término do prazo recursal contido no sistema eletrônico mantido exclusivamente pelo Tribunal não pode ser imputado ao recorrente" (EREsp 1805589/MT, relator Ministro Mauro Campbell Marques, Corte Especial, Dje de 25/11/2020). No entanto, a parte não trouxe nenhum documento apto a comprovar tal equívoco.
+É cediço, também, que o julgador não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu. (AREsp 1592147/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 31/08/2020; AgInt no AREsp 1639930/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 03/08/2020; AgInt nos EDcl no AREsp 1342656/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 07/05/2020).
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Não conheço da petição de fls. 290/297 em razão da preclusão consumativa.
+Publique-se. Intimem-se.
