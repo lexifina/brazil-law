@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado (fl. 234, e-STJ):
+COMPROMISSO DE COMPRA E VENDA DE IMÓVEL- Impossibilidade de o adquirente prosseguir com o negócio Rescisão decretada Prescrição dos valores pagos como corretagem e SATI Incidência do prazo prescricional trienal, a teor do art. 206, §3º, inc. IV, CC Entendimento firmado pelo STJ em sede de Recursos Repetitivos - Decretação da rescisão do compromisso e a restituição de parte das quantias pagas Percentual de retenção mantido- Danos morais inocorrentes- Recurso desprovido.
+Em suas razões, a parte recorrente alega, além de divergência jurisprudencial, violação ao art. 51, IV, do Código de Defesa do Consumidor.
+Argumenta não ter decorrido o prazo prescricional no caso dos autos. Afirma ter direito a ser compensada pelos danos morais suportados e, ainda, à restituição de, pelo menos, noventa por cento dos valores pagos na aquisição do imóvel.
+O recurso foi admitido na origem, nos termos da decisão de fls. 299/301, e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+A Súmula nº 568 desta Corte dispõe que "relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Anoto, de início, que, com relação às teses de prescrição e dos danos morais, a parte ora recorrente não indicou os dispositivos de lei federal que teriam sido violados ou objeto de divergência jurisprudencial por parte do TJSP. Essa situação configura deficiência na fundamentação e atrai, assim, o óbice da Súmula 284/STF.
+Ressalto, também, que o dissídio jurisprudencial não foi demonstrado na forma exigida pelos artigos 1.029, § 1º, do Código de Processo Civil de 2015 e 255, parágrafos 1º e 3º, do Regimento Interno do Superior Tribunal de Justiça.
+A simples transcrição de ementas ou votos, sem a exposição clara e precisa das circunstâncias que identifiquem ou assemelhem os casos confrontados, não autoriza haver por atendida a suposta divergência. Tais circunstâncias prejudicam a compreensão da controvérsia e atraem o óbice contido no enunciado n. 284 da Súmula do STF.
+No mérito, o recurso esbarra nas Súmulas 5 e 7 do STJ. Senão, vejamos.
+O Tribunal de origem manteve o percentual de retenção das parcelas pagas em 17%, conforme previsão contratual, expondo os seguintes fundamentos (fls. 236/238, e-STJ):
+No mais, certo que o promitente comprador, impossibilitado de arcar com o pagamento das parcelas de compromisso de compra e venda de imóvel ou não tendo mais interesse na continuidade do negócio, pode ajuizar ação visando à rescisão da avença.
+Assim, as partes devem ser restituídas ao status quo ante , autorizada a retenção de uma porcentagem pelo vendedor, consoante a Súmula 1 deste Egrégio Tribunal de Justiça, in verbis:
+"O compromissário comprador de imóvel, mesmo inadimplente, pode pedir a rescisão do contrato e reaver as quantias pagas, admitida a compensação com gastos próprios de administração e propaganda feitos pelo compromissário vendedor, assim como com o valor que se arbitrar pelo tempo de ocupação do bem" .
+É de se ressaltar, inicialmente, que se aplica à hipótese o Código de Defesa do Consumidor e a inversão do ônus da prova. Portanto, é de rigor a devolução das parcelas pagas, imediata e de uma só vez, corrigidas monetariamente, sob pena de se colocar o consumidor em situação de onerosidade excessiva, conforme dispõe o artigo 53 da citada norma e na esteira da Súmula nº 2 deste Tribunal de Justiça.
+Mas o percentual a ser restituído deve ser variável, e isso somente o caso concreto pode explicitar.
+Sem muita dificuldade, todavia e sobre esse tema quatro situações, genericamente consideradas, devem ser anotadas. Primeira, a mora exclusiva da devedora, que, por exemplo, não entrega a obra no prazo. A segunda, quando o comprador se coloca em mora, não efetuando o pagamento, mas de imediato pleiteia a rescisão. A terceira, quando o comprador se coloca em mora e somente depois de tempos é que toma a iniciativa. A quarta, quando a iniciativa é tomada pela própria alienante, diante da mora. A isso se acrescentem mais duas situações: o imóvel haver sido ou não ocupado, e bem a permanência nele, ainda, do comprador.
+Aliás, a referência nessa ordem não foi aleatória.
+Objetiva, claramente, demonstrar a gradação que a restituição deve ter em função desses elementos.
+A leitura dessa matéria, todavia, é algo diversa. A insuportabilidade do contrato pode decorrer de culpa do adquirente quando menos, em atentar para obrigação que assumiu ou, efetivamente em razão da imprevisão, de que cuida o artigo 477 do Código Civil (antigo 1092 do diploma revogado). E bem da onerosidade excessiva, de que cuida seu artigo 478.
+O adquirente ingressou com a presente ação devido à sua impossibilidade de prosseguir com o pagamento das parcelas. Dessa maneira, não pode ser tratado como aquele que fica que simplesmente deixa de pagar e não diz porque o faz, o qual quebra a expectativa de recebimento do credor e pode causar outros prejuízos que não exclusivamente aqueles decorrentes da falta do valor devido, o que não ocorreu no caso em tela.
+Em casos análogos, ao presente, vem o Superior Tribunal de Justiça adotando como parâmetro razoável de retenção algo em torno de 10% a 25% sobre os valores pagos:
+(..)
+Também a jurisprudência deste egrégio Tribunal de Justiça tem concluído pela suficiência da retenção no patamar de 10% a 30% das parcelas pagas para o ressarcimento das perdas e danos e despesas administrativas suportadas pela alienante que não deu causa à rescisão.
+Atento às circunstâncias do caso concreto, razoável e adequado é fixar o direito de retenção em 17% do valor das quantias pagas.
+A revisão des sas premissas exigiria a interpretação de cláusulas contratuais e o reexame de provas, providências vedadas em recurso especial, a teor das Súmulas 5 e 7 do Superior Tribunal de Justiça.
+Em face do exposto, não havendo o que reformar, nego provimento ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
