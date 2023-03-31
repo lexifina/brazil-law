@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto por AGENCIA NACIONAL DE TRANSPORTES TERRESTRES - ANTT com respaldo na alínea "a" do permissivo constitucional contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado (e-STJ fl. 36):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. VEÍCULO. ALIENAÇÃO FIDUCIÁRIA EM GARANTIA. CONTRATO. INSTITUIÇÃO FINANCEIRA. INFORMAÇÕES.
+Cabe autorizar a própria exequente a buscar diretamente junto à instituição financeira as informações sobre o contrato de alienação fiduciária em garantia, sendo desnecessário que seja expedido ofício pelo próprio juízo para essa finalidade.
+Embargos de declaração rejeitados (e-STJ fls. 53/55).
+Em suas razões, a parte recorrente aponta violação do art. 1.022, II, do CPC/2015, por negativa de prestação jurisdicional, e, no mérito, alega vulneração dos arts. 797, 831, 835, 854 e 829, do CPC/2015 e arts. 1º e 3º, da Lei Complementar n. 105/2001.
+Sustenta que a execução deve ser realizada no interesse do credor, não havendo razão para impor à autarquia a promoção de diligências, como a troca de ofícios, ocasionando a procrastinação o feito, tendo em vista que o credor judiciário poderá negar acesso às informações em razão de sigilo bancário.
+Juízo positivo de admissibilidade pelo Tribunal de origem à e-STJ fl. 69.
+Passo a decidir.
+Quanto à alegada ofensa ao art. 1.022, do CPC/2015, não se vislumbra nenhum equívoco ou deficiência na fundamentação contida no acórdão recorrido, sendo possível observar que o Tribunal de origem apreciou integralmente a controvérsia, apontando as razões de seu convencimento, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Ademais, consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das parte, tampouco a rebater um a um de todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DESAPROPRIAÇÃO. JULGAMENTO ULTRA PETITA. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, A DECISÃO AGRAVADA. SÚMULA 182/STJ. ALEGADA VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIOS, NO ACÓRDÃO RECORRIDO. INCONFORMISMO. AGRAVO INTERNO PARCIALMENTE CONHECIDO, E, NESSA EXTENSÃO, IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+ ..
+IV. Não há falar, na hipótese, em violação aos arts. 489, § 1º, IV, e 1.022, II, do CPC/2015, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão proferido em sede de Embargos de Declaração apreciaram fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+V. Na forma da jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, EDcl no REsp 1.816.457/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 18/05/2020; AREsp 1.362.670/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 31/10/2018; REsp 801.101/MG, Rel. Ministra DENISE ARRUDA, PRIMEIRA TURMA, DJe de 23/04/2008.
+VI. Agravo interno parcialmente conhecido, e, nessa extensão, improvido.
+(AgInt no AREsp n. 2.084.089/RO, Relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 12/9/2022, DJe de 15/9/2022.)
+Por sua vez, a questão foi assim decidida pelo Tribunal a quo (e-STJ fls. 37/38):
+Apurado nos autos que o executado mantém contrato de alienação fiduciária de veículo, o juízo de origem indeferiu, pelo fundamento antes indicado, o pedido da exequente de que fosse remetido ofício à instituição financeira para prestar informações sobre o cumprimento do contrato.
+Ora, ainda que haja anotação de restrição determinada em processo da justiça do trabalho, isso não exime o bem de ser expropriado nos autos da execução fiscal, até porque não há indicação do valor da reclamatória trabalhista e nem se ela está em fase executiva.
+Ainda pertinentes para a execução, portanto, as informações sobreo contrato de alienação fiduciária do veículo de fato são pertinentes para a execução, dado o potencial de posteriormente ser postulada a constrição sobre os direitos que o devedor fiduciário possui sobre o veículo.
+Todavia, como a parte agravante nada indica acerca da necessidade de que as informações sejam requisitadas mediante ofício expedido diretamente pelo juízo, cabe ao menos autorizar a parte agravante a obter essas informações em diligência a ser por si empreendida junto à instituição financeira, nos termos do art. 3º da Lei Complementar nº 105, de 2001 (Serão prestadas .. pelas instituições financeiras as informações ordenadas pelo Poder Judiciário..) .
+É o caso, pois, de reformar a decisão agravada, para viabilizar a autarquia a obter as informações junto ao credor fiduciário, a partir do que pode justificar o pedido de penhora a ser oportunamente apresentado ao juízo de origem. (Itálicos do original).
+Nesse passo, a modificação do julgado, nos moldes pretendidos, demandaria o reexame dos elementos de convicção postos no processo, providência incompatível com a via estreita do recurso especial, a teor da Súmula 7 do STJ.
+Confiram-se: REsp n. 2.030.211/PR, Ministro Mauro Campbell Marques, DJe de 19/10/2022; e REsp n. 2.042.674/RS, Ministro Sérgio Kukina, DJe de 19/12/2022.
+Ante o exposto, com base no art. 255, § 4º, I e II, do RISTJ, CONHEÇO EM PARTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Publique-se. Intimem-se.
