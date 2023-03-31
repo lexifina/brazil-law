@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 do CPC/2015) interposto por AUTO POSTO KAKOGAWA LTDA e RINALDO RORATO em face de decisão que inadmitiu o recurso especial.
+O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c" do permissivo constitucional, por sua vez desafia acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado (fl. 611, e-STJ):
+APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO. CÉDULA DE CRÉDITO BANCÁRIO. SENTENÇA DE IMPROCEDÊNCIA. RELAÇÃO DE CONSUMO. PESSOA FÍSICA OU JURÍDICA. POSSIBILIDADE DE MITIGAÇÃO DA TEORIA FINALISTA. VULNERABILIDADE FRENTE À INSTITUIÇÃO FINANCEIRA. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA. RELAÇÃO SUJEITA AO CÓDIGO DE DEFESA DO CONSUMIDOR. INVERSÃO DO ÔNUS DA PROVA. POSSIBILIDADE. VULNERABILIDADE TÉCNICA. HIPOSSUFICIÊNCIA. ART. 6º, INCISO VIII, DO CÓDIGO DE DEFESA DO CONSUMIDOR. PRECEDENTES DESTE TRIBUNAL. MATÉRIA DE DEFESA EM SEDE DE EMBARGOS À EXECUÇÃO. IMPOSSIBILIDADE DE SE DISCUTIR CONTRATO BANCÁRIO DIFERENTE DO QUE ENSEJOU A PROPOSITURA DA EXECUÇÃO DE TÍTULO EXTRAJUDICIAL PRIMÁRIA. INADEQUAÇÃO DA VIA ELEITA. CAPITALIZAÇÃO DIÁRIA DE JUROS. LEGALIDADE. CONTRATAÇÃO EXPRESSA. RECURSO DE APELAÇÃO CONHECIDO E PARCIALMENTE PROVIDO.
+Nas razões do recurso especial (fls. 627-649, e-STJ), apontam os insurgentes negativa de vigência ao artigo 917, inciso VI, do CPC/2015 e divergência jurisprudencial acerca da interpretação do artigo 28, § 1º, inciso I, da Lei nº. 10.931/2004.
+Sustentam, em síntese: (a) a possibilidade de discussão em embargos à execução, de toda matéria de defesa, o que incluiria o contrato da conta corrente para a qual foi transferido o valor referente à cédula de crédito contratada; e (b) o afastamento da cobrança de juros capitalizados de forma diária da cédula executada pelo fato de não haver autorização legislativa expressa para a cobrança de tal encargo.
+Contrarrazões ofertadas às fls. 675-680, e-STJ.
+O apelo nobre foi inadmitido na origem, ante a incidência da Súmula 7/STJ, quanto à matéria de defesa em embargos à execução, e por aplicação da regra inscrita no artigo 1.030, inciso I, alínea "b", do CPC/2015, no que pertine à capitalização de juros (fls. 681-684, e-STJ).
+Em face dessa decisão foi interposto agravo interno (fls. 691-694, e-STJ), o qual foi improvido (fls. 709-714, e-STJ), e, após, agravo em recurso especial (fls. 741-749, e-STJ), no qual os agravantes se insurgem quanto à negativa de seguimento ao recurso especial com base na decisão do Recurso Especial Repetitivo nº 973.827/RS, sob a alegação de que tal decisão não é capaz de infirmar os fundamentos apresentados pelos Agravantes, já que "não põe fim à discussão, muito pelo contrário, mostra-se ela também omissa quanto à possibilidade ou não da cobrança de juros capitalizados em periodicidade diária, não mencionando expressamente a possibilidade da cobrança de tal encargo em momento nenhum" (fl. 748, e-STJ).
+Sem impugnação.
+É o relatório. Decido.
+A pretensão recursal não comporta conhecimento.
+1. Com o advento do Código de Processo Civil de 2015, passou a existir expressa previsão legal no sentido do não cabimento de agravo em recurso especial contra decisão que nega seguimento ao apelo nobre com base na conformidade do acórdão a quo com a jurisprudência do STJ firmada em Recurso Especial Repetitivo.
+Tal disposição legal aplica-se aos agravos apresentados contra decisão publicada após a entrada em vigor do Novo CPC, em conformidade com o princípio tempus regit actum.
+A interposição do agravo previsto no art. 1.042 do CPC/15, nesses casos, constitui evidente erro grosseiro, não sendo mais possível determinar o retorno dos autos à instância ordinária para apreciá-lo como agravo interno.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE CONHECEU EM PARTE DO AGRAVO E, NA EXTENSÃO, NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA RECURSAL DOS AGRAVANTES.
+1. A Corte Especial do STJ, no julgamento da Questão de Ordem no Ag 1.154.599/SP, de relatoria do Ministro Cesar Asfor Rocha, adotou o entendimento de que é incabível o agravo interno contra a decisão que nega seguimento a recurso especial interposto contra acórdão que esteja em conformidade com o entendimento do STJ sob o rito dos recursos repetitivos. 1.1. Na forma do art. 1030, § 2º, do NCPC, o recurso cabível contra a decisão que nega seguimento a recurso especial com base no art. 1030, I, b, do CPC/15, é o agravo interno.
+Precedentes.
+1.2. Nos termos da jurisprudência desta Corte Superior, configura erro grosseiro a interposição do agravo previsto no art. 1042, caput, do CPC/15, sendo inviável, na hipótese, a aplicação do princípio da fungibilidade recursal. Precedentes.
+2. Agravo interno desprovido.
+(AgInt no AREsp 1369799/DF, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 23/04/2019, DJe 26/04/2019) grifou-se
+Portanto, o agravo não pode ser conhecido, por constituir erro grosseiro a sua interposição.
+2. Diante do exposto, não conheço do agravo (art. 1.042 do CPC/2015). Por conseguinte, nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) o valor dos honorários advocatícios arbitrados na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC/2015.
+Publique-se. Intimem-se.
