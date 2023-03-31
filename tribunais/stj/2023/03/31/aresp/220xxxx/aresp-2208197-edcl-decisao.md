@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de embargos de declaração opostos em face da decisão que deu parcial provimento ao agravo em recurso especial da parte embargada, determinando a incidência da taxa SELIC para fins de cálculo do valor devido.
+Em seu recurso, a embargante sustenta que: "Desde semana passada tenta-se protocolizar ACLARATÓRIOS, mas, pelo site foi impossível. Devido a isso mandamos emails para esse E. Superior, mas não obtivemos exito. Docs. anexos. PEDIMOS E ANEXAMOS OS ACLARATÓRIOS para conseguir protocolar os embargos, mas não aceitaram. Nos consideramos injustiçados. Somente hoje, neste momento, conseguimos acessar" (e-STJ, fl. 355).
+Defende que: "Desde semana passada tenta-se protocolizar ACLARATÓRIOS, mas, pelo site foi impossível. Devido a isso mandamos emails para esse E. Superior, mas não obtivemos exito. Docs. anexos. PEDIMOS E ANEXAMOS OS ACLARATÓRIOS para conseguir protocolar os embargos, mas não aceitaram. Nos consideramos injustiçados. Somente hoje, neste momento, conseguimos acessar" (e-STJ, fl. 356).
+Ressalta que: "a atitude da embargada, sabedora de que tem por objetivo procrastinar, para a final se eximir completamente do pagamento dos prejuizos causados para a embargante, insiste, com expedientes infundados, em mover toda a maquina judiciária em vão!! De ressaltar que o conflito é de 2014, distribuição em 03 de abril de 2014 !! Há exatos oito (8) anos que a embargada persiste, prejudicando enormemente o embargante" (e-STJ, fl. 357).
+Alega que: "O débito da embargada permanece e deveria ser calculado desde o desembolso dos capacetes ! Vale dizer, a embargante pagou pelos capacetes valores altos, e se forem atualizados pela SELIC, evidentemente haverá enorme prejuízo !! E quem irá se responsabilizar  É o incentivo ao calote  A embargante não aceita e nem deverá ser prejudicada" (e-STJ, fl. 359).
+Conclui que: "a embargante reitera a aplicação da atualização monetária calculada pela TABELE DEPRE (legislação estadual) , para débitos judiciais, expedida pelo E. TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, e os juros moratórios de 1%am, oficiais (artigo 406 do Código Civil e artigo 161, parágrafo 1. do Código Tributário Nacional)" (e-STJ, fl. 359).
+Intimada, a parte embargada apresentou impugnação destacando que: "Para comprovação do alegado, a Embargante simplesmente apresentou os e-mails encaminhados à Seção de Informações Processuais - Coordenadoria de Atendimento e Protocolo Judicial/STJ, com pedido de que protocolassem os Embargos para si, visto que não conseguia. Desta feita, a parte não logrou êxito em demonstrar por meio idôneo a indisponibilidade do sistema de peticionamento eletrônico da Corte, o que implica na intempestividade do recurso de Embargos de Declaração interposto fora do prazo legal" (e-STJ, fl. 368).
+Assim posta a questão, passo a decidir.
+Da análise dos autos, verifico que o prazo para oposição de embargos de declaração teve início aos 22/2/2022, e término aos 28/2/2023, todavia o referido recurso foi oposto apenas em 2/3/2023, portanto, fora do prazo legal de 5 (cinco) dias úteis, nos termos dos arts. 229 e 1.023, caput, do Código de Processo Civil de 2015.
+A propósito, cito os seguintes julgados:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DOS ACLARATÓRIOS. ART. 1.023 DO CPC/2015. NÃO CONHECIMENTO.
+1. O prazo para opor embargos de declaração é de 5 (cinco) dias úteis, a teor do que dispõem os arts. 219 e 1.023 do CPC/2015.
+2. No caso concreto, os aclaratórios foram opostos após o transcurso do período legal, portanto, são intempestivos.
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 1.434.054/SP, Rel. Ministro ANTONIO CARLOS
+FERREIRA, QUARTA TURMA, julgado em 26.8.2019, DJe 2.9.2019.)
+PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO COMINATÓRIA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DOS ACLARATÓRIOS ANTE A INTEMPESTIVIDADE.
+1. São intempestivos os embargos de declaração opostos depois de transcorrido o prazo de 5 (cinco) dias previsto no art. 1.023 do CPC/15.
+2. O recurso mostra-se manifestamente inadmissível, a ensejar a aplicação da multa prevista no artigo 1.021, § 4º, do CPC, no percentual de 1% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º, do citado artigo de lei.
+3. Agravo interno desprovido, com imposição de multa.
+(RCD nos EDcl no AREsp 1.367.948/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 25.6.2019, DJe 28.6.2019.)
+Quanto ao mais, verifica-se que a parte não logrou êxito em comprovar sua alegação de impossibilidade de oposição do recurso em análise, em virtude de suposta falha do sistema, não se prestando para tanto a simples juntada de e- mail a setor desta Corte Superior que nem sequer detinha competência para solucionar eventual problema da ordem narrada.
+Em face do exposto, não conheço dos embargos de declaração.
+Intimem-se.
