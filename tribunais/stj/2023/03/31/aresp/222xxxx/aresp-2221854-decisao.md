@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interposto por BANCO DO BRASIL S.A. contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado de Mato Grosso do Sul, assim ementado:
+"AGRAVO DE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA - AÇÃO CIVIL PÚBLICA - CÉDULA DE CRÉDITO RURAL - NECESSIDADE DE PRÉVIA LIQUIDAÇÃO DE SENTENÇA - POSSIBILIDADE DE CONVERSÃO DO CUMPRIMENTO DE SENTENÇA - PROVA PERICIAL SUFICIENTE - CHAMAMENTO AO PROCESSO - UNIÃO E BANCO CENTRAL DO BRASIL - NÃO CABIMENTO - OBRIGAÇÃO SOLIDÁRIA - ART. 275 DO CC - RECURSO CONHECIDO E PARCIALMENTE PROVIDO. Na linha de compreensão firmada pelo Superior Tribunal de Justiça, em se tratando de execução de sentença proferida em ação coletiva, existe apenas a determinação genérica de pagamento - fixação de obrigação exigível -, mas não se tem, ainda, a chamada liquidez do débito, isto é, o quantum debeatur, o que demandaria, por consequência, o prévio procedimento liquidação de sentença. Entretanto, é possível a conversão do cumprimento de sentença em liquidação por arbitramento, ínsito nos princípios da instrumentalidade das formas, da celeridade e da economia processuais. Não há falar em chamamento ao processo da União ou do Banco Central do Brasil, pois, nos termos do artigo 275 do Código Civil, o credor tem direito a exigir e receber de um ou de alguns dos devedores solidários a dívida em comum. Recurso conhecido e parcialmente provido" (e-STJ fl. 32).
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, alega-se violação dos seguintes dispositivos legais com as respectivas teses:
+(i) art. 1.022 do Código de Processo Civil, ao fundamento de que o acórdão combatido incorreu em negativa de prestação jurisdicional ao não apreciar aspectos relevantes da demanda suscitados nos embargos declaratórios;
+(ii) art. 509, II, do Código de Processo Civil, haja vista a necessidade de liquidação prévia da sentença, e
+(iii) arts. 130 e 132 do Código de Processo Civil, ante a necessidade de chamamento ao processo da União e do BACEN.
+Sem as contrarrazões, foi negado seguimento ao recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+A demanda em evidência discute, entre outros temas, a necessidade de liquidação de sentença para o cumprimento de sentença condenatória genérica proferida em demanda coletiva.
+A Corte Especial desta Corte afetou os REsps 1.978.629/RJ, 1.985.037/RJ e 1.985.491/RJ a julgamento sob o sistema de recursos repetitivos (Tema 1.169), a fim de "definir se a liquidação prévia do julgado é requisito indispensável para o ajuizamento de ação objetivando o cumprimento de sentença condenatória genérica proferida em demanda coletiva, de modo que sua ausência acarreta a extinção da ação executiva, ou se o exame quanto ao prosseguimento da ação executiva deve ser feito pelo Magistrado com base no cotejo dos elementos concretos trazidos aos autos".
+A decisão de afetação determina a suspensão do processamento de todos os processos que versem sobre a questão e tramitem no território nacional (art. 1.037, II, do CPC/2015), a fim de evitar decisões divergentes nos Tribunais de origem (acórdão publicado no DJe de 18/10/2022).
+Além disso, é inviável a apreciação de outras questões envolvidas no presente recurso sem o deslinde do tema por esta Corte.
+Ante o exposto, determino a remessa dos autos ao Tribunal de origem, com a respectiva baixa, a fim de que o processo permaneça suspenso até a publicação do acórdão do recurso especial repetitivo, observando-se, em seguida, os procedimentos previstos nos arts. 1.039 e 1.040 do CPC/2015.
+Publique-se.
+Intimem-se.
