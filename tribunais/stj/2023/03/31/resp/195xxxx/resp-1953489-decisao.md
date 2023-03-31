@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial interposto pela COMPANHIA ESTADUAL DE ÁGUAS E ESGOTOS - CEDAE, com fundamento na alínea a do permissivo constitucional, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO proferido com a seguinte ementa:
+APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR.
+TARIFA DE RECOLHIMENTO E TRATAMENTO DE ESGOTO. ALEGAÇÃO DE COBRANÇAINDEVIDA.
+SENTENÇA DE IMPROCEDÊNCIA. APELO DA PARTE AUTORA.
+LEGALIDADE EM TESE DA COBRANÇA DA TARIFA DE ESGOTO (TEMA Nº 565 DO STJ).
+PROVA PERICIAL. PRESTAÇÃO PARCIAL DO SERVIÇO.
+REDUÇÃO DA TARIFA EM 50%. REPETIÇÃO DO INDÉBITO DE FORMA SIMPLES. DANOS MORAIS NÃO CONFIGURADOS.
+PROVIMENTO PARCIAL DO RECURSO.
+Opostos embargos de declaração, foram eles rejeitados.
+A COMPANHIA ESTADUAL DE ÁGUAS E ESGOTOS - CEDAE sugere, além da ofensa ao art. 1.022 do CPC/2015, a transgressão aos arts. 927, do CPC/2015, 3º da Lei 11.445/2007 e 9º do Decreto 7.217/2010, sustentando ser lícita e devida a cobrança da tarifa sanitária em questão, independentemente do respectivo tratamento total dos resíduos antes de seu despejo.
+Aduz, também, preliminar de ilegitimidade passiva, matéria tida como de ordem pública, a justificar o acolhimento nesta seara, independente do prequestionamento.
+Contrarrazões à fl . 716.
+É o relatório.
+Primeiramente, inexiste a alegada violação do art. 1.022 do CPC/2015, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro, omissão, contradição ou obscuridade. Observe-se, ademais, que julgamento diverso do pretendido, como na espécie, não implica ofensa ao dispositivo de lei invocado.
+Em relação à legitimidade passiva, o exame da tese de que o negócio jurídico celebrado pela CEDAE com o Município do Rio de Janeiro teria excluído a responsabilidade e a legitimidade da parte recorrente demanda a análise de cláusulas contratuais e do contexto fático-probatório dos autos, medidas estas inviáveis em recurso especial, ante os óbices contidos nas Súmulas 5 e 7 desta Corte.
+No mérito, assiste razão à parte recorrente.
+Observa-se do acórdão recorrido, fl. 558, ser premissa fática das instâncias ordinárias que o serviço de esgotamento sanitário é prestado parcialmente.
+A Primeira Seção do STJ, no REsp 1.339.313/RJ (Tema 565/STJ), julgado sob o rito dos recursos repetitivos, firmou o entendimento de que a legislação aplicada à matéria enseja a possibilidade de cobrança da tarifa de esgotamento sanitário, ainda que não haja o cumprimento de todas as etapas do serviço. Naquela ocasião, constou-se, ainda, a inviabilidade de redução proporcional da tarifa de acordo com as etapas do serviço efetivamente prestadas. A propósito, citem-se os seguintes precedentes:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. REPETIÇÃO DE INDÉBITO. TARIFA DE ESGOTO. PREÇO PÚBLICO. SITUAÇÃO FÁTICO-PROBATÓRIA DESCRITA PELAS INSTÂNCIAS ORDINÁRIAS NO SENTIDO DE INEXISTIR QUALQUER SERVIÇO DE ESGOTAMENTO SANITÁRIO. REVISÃO. INADMISSIBILIDADE. EXAME DE PROVA.
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+Conforme decidido pela Primeira Seção, no REsp 1.339.313/RJ, repetitivo, justifica-se a cobrança da tarifa de esgoto quando a concessionária realiza a coleta, transporte e escoamento dos dejetos, ainda que não promova o respectivo tratamento sanitário antes do deságue; e a utilização das galerias de águas pluviais para a prestação do serviço não afasta a possibilidade da cobrança, uma vez que a concessionária não só realiza a manutenção e desobstrução das ligações de esgoto que são conectadas no sistema público de esgotamento, como também trata o lodo nele gerado.
+No caso dos autos, o acórdão recorrido, após ponderação a respeito da tese jurídica firmada por este Tribunal Superior, a partir de conclusões do laudo pericial, consignou não ocorrer nenhuma prestação de serviços, o que não autorizaria a cobrança da tarifa. Essa conclusão não pode ser revista sem reexame fático-probatório. Observância da Súmula 7 do STJ.
+A situação analisada no precedente qualificado não se assemelha àquela em que o esgoto é, diretamente, lançado, in natura, nas galerias de águas pluviais e, assim, corre até os corpos hídricos naturais, como, p.ex., rios e córregos. É que, nesses casos, não há qualquer serviço prestado ao consumidor. Precedentes.
+Agravo interno não provido.
+(AgInt no REsp n. 1.959.679/RJ, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 19/9/2022, DJe de 21/9/2022.)
+ADMINISTRATIVO. CONCESSIONÁRIA DE SERVIÇO PÚBLICO. TARIFA DE ESGOTO. SERVIÇO PARCIALMENTE PRESTADO. COLETA DE DEJETOS. RESP N. 1.339.313/RJ. POSSIBILIDADE DE COBRANÇA DA TARIFA EM SEU VALOR INTEGRAL.
+A questão posta nos autos diz respeito ao pagamento de tarifa de esgoto mesmo quando não prestado o serviço de forma integral. A sentença condenou a concessionária à devolução do valor pago a título de tarifa de esgoto.
+O Tribunal de Justiça do Estado do Rio de Janeiro manteve a condenação da devolução dos valores, concluindo que não restou demonstrado que a ré não presta serviço de esgoto e nem possui estação de tratamento.
+A Primeira Seção, no REsp n. 1.339.313/RJ, julgado sob o rito dos recursos repetitivos, firmou em 2013 o entendimento de que a legislação atinente à matéria enseja a possibilidade de cobrança da tarifa de esgotamento sanitário, ainda que não haja o cumprimento de todas as etapas do serviço. Naquela ocasião constou, ainda, a inviabilidade de redução proporcional da tarifa de acordo com as etapas do serviço efetivamente prestadas.
+Ocorre que no acórdão recorrido constou que, a despeito de não haver o serviço de tratamento de esgoto, há a coleta de dejetos, serviço esse parte integrante do complexo serviço de tratamento de água e esgoto. Assim, merece provimento o agravo regimental interposto, para conhecer o agravo de instrumento e dar provimento ao recurso especial, para garantir a legitimidade das tarifas de esgoto cobradas, afastando a condenação da concessionária à devolução de valores ou ao pagamento de indenização por dano moral.
+Agravo de instrumento conhecido para dar provimento ao recurso especial.
+(Ag n. 1.308.764/RJ, relator Ministro Francisco Falcão, Segunda Turma, julgado em 16/8/2022, DJe de 22/8/2022.)
+Ante o exposto, dou provimento ao recurso especial, para, em conformidade com o entendimento firmado nesta Corte Superior no julgamento do Tema 565/STJ, declarar a legalidade da cobrança total da tarifa de esgoto, mesmo ausente o tratamento final dos dejetos.
+Invertem-se os ônus sucumbenciais.
+Publique-se. Intimem-se.
