@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de recurso especial, interposto por PETRÓLEO BRASILEIRO S A PETROBRAS, com amparo nas alíneas "a" e "c" do permissivo constitucional, no intuito de reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ (fls. 187-195 e-STJ), assim ementado:
+AGRAVO INOMINADO EM AGRAVO DE INSTRUMENTO  - CUMPRIMENTO PROVISÓRIO DE SENTENÇA - DECISÃO QUE CONDENOU A AGRAVANTE AO PAGAMENTO DE HONORÁRIOS ADVOCATÍCIOS - MANUTENÇÃO - EXECUÇÃO PROVISÓRIA QUE SE DÁ NOS MESMOS MOLDES DA EXECUÇÃO DEFINITIVA - ART. 475-O DO CPC - CONDENAÇÃO EM SEDE DE CUMPRIMENTO DE SENTENÇA CABÍVEL MESMO APÓS O ADVENTO DA LEI N. 11.232/05 - NATUREZA DO CUMPRIMENTO DE SENTENÇA QUE NÃO ALTERA A NECESSIDADE DE SE REMUNERAR O TRABALHO PRESTADO PELOS PROCURADORES DA PARTE AUTORA - HONORÁRIOS FIXADOS COM BASE NO ART. 20, §§3º E 4º - MANUTENÇÃO - JURISPRUDÊNCIA PACÍFICA DESTE TRIBUNAL - AGRAVO DE INSTRUMENTO DECIDIDO MONOCRATICAMENTE -  ARTº 557, § 1º, DO CPC  - RECURSO  - NEGA SEGUIMENTO.
+Nas razões do especial (fls. 228-234 e-STJ), a insurgente alega violação aos seguintes dispositivos de lei federal: (i) artigo 557, § 2º, do CPC/73, aduzindo pugnando pelo afastamento da multa aplicada na origem; e (ii) artigo 475-O do CPC/73, bem como dissídio jurisprudencial, sustentando o descabimento de honorários em cumprimento provisório de sentença.
+Contrarrazões às fls. 249-265 e-STJ.
+O reclamo foi suspenso na origem, em decorrência de afetação de recurso repetitivo (fls. 267-268 e 270 e-STJ). Após o julgamento deste, submeteu-se o feito a juízo de retratação, cujo acórdão (fls. 306-308 e-STJ), restou assim ementado:
+AGRAVO REGIMENTAL CÍVEL. PROCESSO CIVIL. JUÍZO DE RETRATAÇÃO. -ARBITRAMENTO DE HONORÁRIOS DE SUCUMBÊNCIA NA FASE DE CUMPRIMENTO PROVISÓRIO DE SENTENÇA NA VIGÊNCIA DO CPC/1973. JUÍZO DE RETRATAÇÃO. ADEQUAÇÃO À TESE FIXADA PELO STJ NO JULGAMENTO DO RECURSO ESPECIAL Nº 1.291.736/PR. AFASTAMENTO DA VERBA HONORÁRIA. JUÍZO DE RETRATAÇÃO EXERCIDO. - RECURSO CONHECIDO E PROVIDO.
+Na ocasião, deu-se "provimento ao recurso de agravo regimental cível para afastar incidência de honorários advocatícios na fase de cumprimento provisório de sentença, na vigência do Código de Processo Civil de 1973" (fl. 307 e-STJ)
+Às fls. 313-314 e-STJ, admitiu-se o apelo nobre, pois "a Câmara julgadora exerceu juízo de retratação apenas em relação ao descabimento dos honorários em sede de execução provisória (Tema 525/STJ), não abordando a questão relativa ao afastamento da multa (Tema 434/STJ)" (fl. 314 e-STJ).
+É o relatório. Decide-se.
+A pretensão recursal deve prosperar.
+1. De início, registra-se que a tese recursal relativa aos honorários restou prejudicada pelo Juízo de retratação positivo realizado na origem.
+2. No mais, deve ser afastada a multa.
+Nos termos da jurisprudência deste STJ "o agravo interposto contra decisão monocrática do Tribunal de origem, com o objetivo de exaurir a instância recursal ordinária, a fim de permitir a interposição de recurso especial e do extraordinário, não é manifestamente inadmissível ou infundado, o que torna inaplicável a multa prevista no art. 557, § 2º, do Código de Processo Civil" (Tema/Repetitivo 434).
+No caso, ademais, o agravo restou acolhido, em juízo de retratação - não havendo sequer lógica na manutenção da multa.
+3. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, dá-se provimento ao recurso especial para afastar a multa aplicada às fls. 187-195 e-STJ.
+Publique-se. Intimem-se.
