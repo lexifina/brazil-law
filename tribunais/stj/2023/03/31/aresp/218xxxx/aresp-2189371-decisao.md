@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo contra o juízo de admissibilidade que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+APELAÇÕES CÍVEIS - AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO JURÍDICA - EMPRÉSTIMO CONSIGNADO - CONTRATO APRESENTADO - ASSINATURA IMPUGNADA - ÔNUS DO CREDOR - ARTIGO 429, INCISO II, DO CPC - INVALIDADE DO NEGÓCIO - RESTITUIÇÃO DO INDÉBITO - FORMA SIMPLES - DANOS MORAIS - CONFIGURADOS - VALOR - REDUÇÃO - SENTENÇA REFORMADA EM PARTE.
+- Tratando-se de ação declaratória de inexistência de relação jurídica é dever do pretenso credor, por força da teoria da distribuição dinâmica do ônus da prova, demonstrar a existência de vínculo contratual, porquanto não se pode exigir a prova de fato negativo - não contratação - da parte autora.
+- Apresentado o contrato, porém impugnada a assinatura nele contida, cabe à instituição financeira comprovar a regularidade da firma, nos termos do artigo 429, inciso II, do CPC.
+- Reconhecida a invalidade do contrato, incumbe ao banco restituir, de forma simples, os valores indevidamente descontados do benefício previdenciário do consumidor, nos termos do artigo 876, do Código Civil , e artigo 42, parágrafo único, do CDC.
+- O dano moral caracteriza-se, em regra, pela violação aos direitos da personalidade, sendo a dor, humilhação, angústia ou sofrimento em si do indivíduo meras consequências da violação a um bem jurídico tutelado.
+- O desconto indevido de parte do benefício previdenciário do consumidor prejudica sua subsistência, configurando afronta à dignidade da pessoa humana, devendo ser arbitrada indenização por danos morais.
+- Na fixação do quantum devido a título de danos morais, o Julgador deve pautar-se pelo bom senso, moderação e prudência, sem perder de vista que, por um lado, a indenização deve ser a mais completa possível e, por outro, ela não pode tornar-se fonte de lucro.
+- Primeiro recurso não provido. Segundo recurso provido em parte. Sentença reformada em parte.
+A parte agravante sustenta a violação dos arts. 186, 884, 927, do Código Civil, e 14, §3º, do Código de Defesa do Consumidor.
+Quanto ao art. 14, §3º, do Código de Defesa do Consumidor, a parte agravante sustenta inexistência de defeito ao serviço prestado, alegando que não foi comprovada a falsidade da assinatura do contrato. Não impugnou, todavia, o fundamento do acórdão recorrido, segundo o qual a produção de prova pericial, para atestar a veracidade da assinatura, era ônus que lhe competia. Assim, a pretensão de reforma do acórdão esbarra no óbice da Súmula n. 283/STF.
+Relativamente aos demais dispositivos legais citados pela agravante, atinentes à ausência de ato ilícito passível a justificar a indenização por danos morais, a Corte de origem entendeu que o desconto indevido de elevada quantia no benefício previdenciário do autor lhe privou do mínimo necessário à sua subsistência.
+A conclusão do Tribunal revisor foi obtida pela análise do conteúdo fático dos autos, que se situa fora da esfera de atuação desta Corte, nos termos do enunciado 7 da Súmula do STJ.
+Em face do exposto, nego provimento ao agravo. Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
