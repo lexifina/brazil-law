@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo manejado pelo Banco Sudameris Brasil Sociedade Anônima, contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado (fls. 806/807):
+AGRAVO RETIDO - CERCEAMENTO DE DEFESA - INOCORRÊNCIA - QUESTÕES DE DIREITO - DESNECESSIDADE DE PERÍCIA - IMPROCEDENTE.
+O Magistrado é o destinatário das provas, cabendo ao mesmo, segundo seu prudente arbítrio avaliar a necessidade ou não de sua produção voltada ao convencimento motivado, razão pela qual impossível o cerceamento de defesa alegado, uma vez, utilizando-se da prerrogativa do art. 130, do CPC, entendeu a perícia pleiteada como despicienda para o deslinde da causa.
+APELAÇÃO CÍVEL - DIREITO TRIBUTÁRIO - EMBARGOS A EXECUÇÃO FISCAL - ISS - SERVIÇO BANCÁRIO - NULIDADE DO AUTO DE INFRAÇÃO E DA CDA - 1NOCORRENTES - TAXATIVIDADE - INTERPRETAÇÃO EXTENSIVA - VERIFICAÇÃO DA NATUREZA DE SERVIÇO BANCÁRIO - RENDAS DE SERVIÇOS DE COBRANÇA, OUTRAS, TRANSF. FUNDOS, DEV. MANUT. T., OUTROS SERV. DOC, 2" VIA DOC.,EXT/TAXAS, SUBST. PGTO., CONSULT. TERM., ELAB/ATUALIZ. FICH., PGTO/RECEB. MONTA, TARIFAS, OUTROS, TARIF. S/ COMP. CHEQUES, EMISSÃO DE CHEQUES, DEVOL. CHEQUES EMISSÃO DE CARNÊS/OR - INTERPRETAÇÃO AMPLA E ANALÓGICA DA LISTA DE SERVIÇOS - INCIDÊNCIA DO ISS - RECURSO IMPROVIDO.
+- O lançamento do lSS se dá por homologação.
+Porém, no caso em questão, o Banco furtou-se a informar o fisco de uma operação sobre a qual incidia o ISS. Esse ato doloso, enseja a imposição do auto de infração.
+11 - Não padece de nulidade a CDA, porquanto contêm todos os requisitos necessários a compreensão e ao exercício da ampla defesa.
+III - As receitas auferidas pela oneração de serviços de rendas de cobranças de títulos de prestação de serviços de outras, transf. fundos, dev. manut. T., outros serv. doc, 2 a via doc., extltaxas, subst. pgto., consult. term., elab/atualiz. fich., pgto/receb. p/conta, tarifas, outros, tarif. s/ comp. cheques, emissão de cheques, devol, cheques emssão de carnês/or são passíveis de tributação pelo IBS, por correlação aos serviços relacionados na lista anexa à lei complementar municipal.
+Opostos embargos de declaração, foram rejeitados (fls. 834/844).
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 5º, LV, 93, X, 150, I, 156, III, 153, V, 21, VIII, 22, II, todos da Constituição Federal; 128, 130, 131, 333, I, 458, II e III, 460 e 535, II, do CPC; 108, §1º e 142 do CTN; 8º do Decreto-Lei 406/68 e itens 95 e 96 da lista anexa ao Decreto-Lei 406/68, na redação da Lei Complementar 56/87. Sustenta, em síntese: (I) tese de negativa de prestação jurisdicional; (II) "resta demonstrado que os W. acórdãos recorridos contrariam e negaram vigência aos artigos 130, 131 e 333, I, todos do Código de Processo Civil, ao indeferir a produção de prova pericial indispensável à comprovação do direito alegado." (fl. 853); (III) julgamento extra petita, "determinando que outro seja proferido em seu lugar, apreciando a impugnação da Recorrente quanto à tributação pelo ISS das receitas registradas na rubrica contábil 7.1.7.99.00.875.20  Outros Serviços." (fl. 854); (IV) "os w. acórdãos violaram o artigo 142 do CTN, uma vez que não basta ao lançamento conter as indicações de data e valores. É imprescindível que se tenha, também, a discriminação de qual verba é exigida do contribuinte." (fl. 856); e (V) "a reforma dos w. acórdãos recorridos para julgar procedentes os embargos à execução fiscal opostos na origem, com a extinção da exigência de ISS consubstanciada no auto de infração no 120/2003." (fl. 861).
+Contrarrazões às fls. 891/904.
+Às fls. 1.093/1.098, a Vice-Presidência do Tribunal de origem negou seguimento ao Recurso Especial interposto por BANCO SUDAMERIS BRASIL S/A, "quanto a seguinte tese: ofensa ao artigo 8º e aos itens 95 e 96, da lista anexa ao Decreto-Lei nº 406/68 (com redação dada pela Lei Complementar nº 56/87), bem como ao artigo 108, § 1º, do Código Tributário Nacional; inadmito-o quanto às demais teses."
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não prospera.
+Inicialmente, no tocante à ofensa ao artigo 8º e aos itens 95 e 96, da lista anexa ao Decreto-Lei nº 406/68 (com redação dada pela Lei Complementar nº 56/87), bem como ao artigo 108, § 1º, do Código Tributário Nacional; verifica-se que a Corte local negou seguimento ao apelo especial, razão pela qual prejudicada a apreciação desse ponto.
+Ademais, mostra-se deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 535 do CPC/73 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na espécie, o óbice da Súmula 284 do STF. Nesse mesmo sentido vão os seguintes precedentes: Agint no AREsp 1.070.808/MA, Rel. Ministro Marco Buzzi, Quarta Turma, DJe 10/06/2020; Agint no REsp 1.730.680/RJ, Rela. Ministra Regina Helena Costa, Primeira Turma DJe 24/4/2020; Agint no Edcl no AREsp 1.141.396/SP, Rel. Ministro Raul Araújo, Primeira Turma, DJe de 12/3/20020; Agint no REsp 1.588.520/DF Rel. Ministro Og Fernades, Segunda Turma, DJe de 27/2/2020 e Agint no AREsp 1.018.228/PI, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 25/9/2019.
+Ressalte-se, por oportuno, que a fundamentação deficiente do apelo, no tocante à negativa de prestação jurisdicional declaratória, não permite, por consequência e per saltum, ingressar no exame da alegada afronta à matéria normativa de fundo relativa aos arts. 128, 458, II e III e 460 do CPC/73 e 142 do CTN, porquanto remanesce ausente o indispensável prequestionamento.
+Em recurso especial não cabe invocar violação a norma constitucional, razão pela qual o presente apelo não pode ser conhecido relativamente à apontada ofensa aos arts. 5º, LV, 93, X, 150, I, 156, III, 153, V, 21, VIII, 22, II, da Constituição Federal.
+Com efeito, destaca-se do acórdão recorrido a seguinte fundamentação (fls. 811/821):
+Primeiramente conheço do agravo retido em razão do pedido expresso nas razões de apelação, entretanto não merece prosperar.
+Isto porque, o Magistrado "a quo", entendeu desnecessária a penda contábil e conforme preceituado no artigo art. 130 do CPC, o juiz é o destinatário das provas produzidas no processo, tendo o poder de indeferir aquelas que julgar inconvenientes ou desnecessárias.
+A par disso verifica-se desnecessária a produção de prova técnica.
+Além disso, peia prova documental constante nos autos pode se verificar as atividades tributáveis.
+Ademais, em caso similar já pronuncie recentemente acerca desnecessidade da feitura do laudo pericial, cuja emenda é importante transcrever:
+ ..
+Assim outro desprovido o agravo retido e de de cerceamento de defesa.
+ ..
+contêm todos os ampla defesa.
+Importa dizer que a CDA não é nula, porquanto requisitos necessários a compreensão e ao exercício da ampla defesa
+ ..
+Salienta-se que o iançamento do ISS se dá por homologação. Porém, no caso em questão, o Banco furtou-se a informar o fisco de uma operação sobre a qual incidia o ISS. Esse ato doloso, ensejou a imposição do auto de infração.
+Vale dizer acerca da incidência do ISS sobre os serviços bancados que a Primeira Seção do Superior Tribunal de Justiça (STJ) aprovou a súmula 424 sobre a legitimidade da incidência de Imposto Sobre Serviços (ISS) em serviços bancários congêneres da lista anexa ao Decreto-Lei 406/68 (referente a normas gerais de direito financeiro aplicáveis aos impostos sobre operações relativas à circulação de mercadorias e sobre serviços de qualquer natureza).
+Tal incidência conforme determina a súmula, também vale para a Lei Complementar 56/87, que deu nova redação à lista de serviços do referido decreto.
+No referente a taxatividade dos serviços, não prevalece os argumentos do apelante, vez que a taxatividade não impede que seja aplicada a interpretação extensiva.
+Nesse sentido, o Superior Tribunal de Justiça já manifestou que:
+ ..
+Quanto à insurgência de que as atividade objeto do auto infração 120/2003, por não ser tributadas por não ser enquadrarem no conceito constitucional de serviço, já que são típicas operações financeiras ou seus meios, instrumentos e etapas, não é isto que sê extrai das fls. 209/214, visto que trata de serviço prestados a clientes mediantes serviços específicos.
+Cumpre advertir, ainda, que o apelante, na condição embargante, não se desincumbiu do ônus de comprovar que as receitas compreendidas nas notificações de débitos fiscais e Autos de Infrações eram típicas do núcleo da atividade bancária e apresentavam natureza diversa daquelas previstas na Lista Anexa, conforme sustentou (art. 333 do CPC).
+ ..
+Sabe-se que as demais receitas auferidas pela cobrança de prestação de serviços de rendas de cobranças de títulos, outras, transf. fundos, dev. manut. T., outros serv. doc, 2" via doc., ext/taxas, subst.
+pgto., consult. term., elab/atualiz. fich., pgto/receb. p/conta, tarifas, outros, tarif. s/ comp. cheques, emissão de cheques, devol. cheques emissão de carnês/or são passíveis de tributação pelo ISS, por correlação aos serviços relacionados na lista anexa à lei complementar municipal.
+Nesse particular, já me manifestei recentemente nos autos de apelação Civ 0494338-0:
+ ..
+Nem se diga que as tributações estariam recaindo sobre as operações financeiras, em si, pois incide sobre a renda auferida pelo Banco com a cobrança pela prestação do serviço correlato. A matéria está consolidada nesta Corte, veja-se a propósito:
+ ..
+Assim, a alteração das conclusões adotadas pela Corte de origem, no sentido se houve ou não cerceamento de defesa, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
