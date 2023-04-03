@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se, na origem, de agravo de instrumento interposto por Banco do Brasil S.A. contra decisão que, nos autos do cumprimento individual de sentença coletiva, rejeitou impugnação apresentada pela instituição financeira.
+Analisando a insurgência, o Tribunal de Justiça do Estado de São Paulo estadual deu parcial provimento ao recurso em acórdão assim ementado (e-STJ, fl. 322):
+AGRAVO DE INSTRUMENTO - MULTA PREVISTA NO ARTIGO 475-J DO CÓDIGO DE PROCESSO CIVIL DE 1973 - Existência do V. Acórdão proferido nos autos do Recurso Especial, representativo da controvérsia nº 1.247.150/PR - O julgado de fls. 200/217 não divergiu da orientação do Superior Tribunal de Justiça - Decisão que não aplicou a supracitada sanção - Necessidade da prévia liquidação - Matéria não afetada para os fins do artigo 1.036 do Novo Estatuto Adjetivo Civil - Irrelevância do entendimento desta Câmara sobre a liquidez da r. sentença condenatória - Análise da controvérsia referente à Ação Civil Pública movida pela Apadeco contra o Banestado - Demanda coletiva diversa da objeto da presente execução - Posicionamento emanado pela r. decisão de fls.200/217 mantido - Recurso parcialmente provido
+Irresignado, o insurgente interpõe recurso especial (e-STJ, fls. 247-308), com amparo nas alíneas a e c do permissivo constitucional. Em suas razões, aponta, além de dissídio jurisprudencial, violação aos arts. 485, VI, 509 e 783 do CPC/2015; 95, 97 e 98 do CDC.
+Sustenta, entre outros argumentos, ser imprescindível a prévia liquidação do título judicial para a execução individual da sentença proferida em ação civil pública.
+Sem contrarrazões.
+O Tribunal de origem admitiu o processamento do recurso especial (e-STJ, fls. 338-338), ascendendo os autos a esta Corte.
+Brevemente relatado, decido.
+Verifica-se que, nos presentes autos, existe debate sobre questão de direito que foi afetada pela Corte Especial do Superior Tribunal de Justiça como representativa de controvérsia, a ser julgada sob o rito dos recursos especiais repetitivos, conforme previsão dos arts. 1.036 e 1.037 do CPC/2015.
+Com efeito, as decisões de afetação nos autos dos REsp 1.978.629/RJ, 1.985.037/RJ e 1.985.491/RJ, de relatoria do Ministro Benedito Gonçalves, DJe 18/10/2022, delimitaram o Tema 1.169 da seguinte forma: "Definir se a liquidação prévia do julgado é requisito indispensável para o ajuizamento de ação objetivando o cumprimento de sentença condenatória genérica proferida em demanda coletiva, de modo que sua ausência acarreta a extinção da ação executiva, ou se o exame quanto ao prosseguimento da ação executiva deve ser feito pelo Magistrado com base no cotejo dos elementos concretos trazidos aos autos".
+Nesse contexto, em observância ao princípio da economia processual e à própria finalidade do Código de Processo Civil de 2015, corroborada pelo art. 256-L do Regimento Interno do Superior Tribunal de Justiça, incluído pela Emenda Regimental n. 24, de 2016, considera-se devido o retorno dos autos à origem, onde ficarão sobrestados até a publicação dos acórdãos proferidos nos recursos representativos da controvérsia.
+Eis o teor da disposição regimental:
+Art. 256-L. Publicada a decisão de afetação, os demais recursos especiais em tramitação no STJ fundados em idêntica questão de direito:
+I - se já distribuídos, serão devolvidos ao Tribunal de origem, para nele permanecerem suspensos, por meio de decisão fundamentada do relator;
+II - se ainda não distribuídos, serão devolvidos ao Tribunal de origem por decisão fundamentada do Presidente do STJ.
+Ante o exposto, determino a devolução dos autos à Corte de origem, com a respectiva baixa, a fim de que, após a publicação dos acórdãos a serem proferidos nos recursos representativos da controvérsia, sejam tomadas as providências previstas nos arts. 1.039, caput , e 1.040 do CPC/2015.
+Fiquem as partes cientificadas de que a apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publi que-se.
+EMENTA
+RECURSO ESPECIAL. EXECUÇÃO INDIVIDUAL DE TÍTULO JUDICIAL COLETIVO. NECESSIDADE DE PRÉVIA LIQUIDAÇÃO DO JULGADO COLETIVO. MATÉRIA AFETADA AO RITO DOS RECURSOS ESPECIAIS REPETITIVOS. TEMA 1.169 DO STJ. PENDÊNCIA DE JULGAMENTO. DEVOLUÇÃO DOS AUTOS À ORIGEM.
