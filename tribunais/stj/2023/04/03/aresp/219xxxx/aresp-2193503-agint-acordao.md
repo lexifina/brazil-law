@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/03/2023 a 03/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  JOÃO  ARANTES  NETO  E OUTRO  contra  a  decisão  da  Presidência  do  Superior  Tribunal  de  Justiça  que  não  conheceu  do  recurso  em  virtude  da  incidência  da  Súmula  nº  284/STF  devido  à  ausência  de  indicação  do  dispositivo  legal  que  teria  tido  interpretação  divergente  (fls.  957/958 e-STJ).
+Nas  presentes  razões  (fls.  961/972 e-STJ),  os  agravantes  alega m  que  a  aplicação  da  Súmula  nº  284/STF  deve  ser  afastada ,  visto  que  o  recurso  especial  está  suficientemente  fundamentado.
+Aduz em  que  o  apelo  nobre  foi  interposto  com  base  na  alínea  "c"  do  permissivo  constitucional,  tendo  o  dissídio  jurisprudencial  sido  demonstrado  de  forma  coesa  e  precisa.
+Sustentam  que  inaplicável o  óbice  da  Súmula  nº  284/STF ,  nem  por  analogia,  ao  recurso  especial.
+Defendem  que
+"(..)  não  é  necessária  a  citação  explícita  do  artigo  de  Lei  interpretado  de  forma  divergente,  mas  tão-somente  exige-se  a  demonstração  de  ocorrência  do  DISSÍDIO  JURISPRUDENCIAL  em  casos  de  base  fática  semelhante  nos  quais  houve  decisão  de  maneira  divergente,  posto  que,  havendo  a  mesma  base  fática  a  ocorrência  de  divergência  de  interpretações  é  presumida"  ( fl.  970 e-STJ).
+Ao  final,  requerem  o  provimento  do  recurso.
+A  parte  contrária  ofereceu  impugnação  às  fls.  905/907  (e-STJ).
+É  o  relatório.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  CUMPRIMENTO  DE  SENTENÇA.  SUSPENSÃO.  DISPOSITIVO  DE  LEI.  INDICAÇÃO.  AUSÊNCIA.  FUNDAMENTAÇÃO  DEFICIENTE.  SÚMULA  Nº  284/STF.
+1.  O  recurso  especial  fundamentado  no  dissídio  jurisprudencial  exige,  em  qualquer  caso,  que  tenham  os  acórdãos  -  recorrido  e  paradigma  -  examinado  o  tema  sob  o  enfoque  do  mesmo  dispositivo  de  lei  federal.  Se  nas  razões  do  apelo  nobre  não  há  a  indicação  de  qual  dispositivo  de  lei  teria  sido  malferido,  com  a  consequente  demonstração  da  divergência  de  interpretação  à  legislação  infraconstitucional,  aplica-se,  por  analogia,  o  óbice  contido  na  Súmula  nº  284/STF,  a  inviabilizar  o  conhecimento  do  recurso  pela  alínea  "c"  do  permissivo  constitucional.  Precedentes.
+2.  Agravo  interno  não  provido.
+VOTO
+A  irresignação  não  merece  prosperar.
+No  recurso  especial,  os  recorrentes  alegaram  a  existência  de  divergência  jurisprudencial  ao  argumento  de  que,  com  base  no  poder  geral  de  cautela,  deve  ser  sus  penso  o  presente  feito,  referente  ao  cumprimento  de  sentença,  ante  a  necessidade  de  discussão  do  quantum  debeatur  e  dos  índices  de  atualização  do  cálculo  até  o  julgamento  final  da  ação  revisional,  ora  em  fase  de  instrução,  objetivando  evitar  prejuízos  irreparáveis.
+Apontaram  também  dissídio  pretoriano  quanto  à  aplicação  de  multa  pela  oposição  protelatória  de  declaratórios.
+Entretanto,  conforme  consignado  na  decisão  atacada,  os  agravantes  não  indicaram  especificamente  quais  artigos  de  lei  federal  teriam  sido  contrariados  pelo  aresto  recorrido,  embora  tenha m  se  insurgido  quanto  aos  fundamentos  da  decisão,  o  que  evidencia  a  deficiência  na  fundamentação  recursal,  a  impossibilitar  a  compreensão  da  controvérsia.
+De  fato,  o  recurso  especial  com  fulcro  no  dissídio  jurisprudencial  exige,  em  qualquer  caso,  que  tenham  os  acórdãos  -  recorrido  e  paradigma  -  examinado  a  questão  sob  o  enfoque  do  mesmo  dispositivo  de  lei  federal.
+Assim,  se  nas  razões  do  apelo  nobre  não  há  indicação  dos  dispositivos  de  lei  que  teriam  sido  malferidos,  com  a  consequente  demonstração  da  eventual  ofensa  à  legislação  infraconstitucional,  aplica-se,  por  analogia,  o  óbice  contido  na  Súmula  nº  284/STF,  a  inviabilizar  o  conhecimento  do  recurso  também  pela  alínea  "c"  do  permissivo  constitucional.
+A  propósito:
+"PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  RECURSO  MANEJADO  SOB  A  ÉGIDE  DO  NCPC.  AÇÃO  DECLARATÓRIA  DE  INEXISTÊNCIA  DE  DÉBITO  E  INEXIGIBILIDADE  DE  PROTESTO  CUMULADA  COM  INDENIZAÇÃO  POR  DANOS  MORAIS.  DISSÍDIO  INTERPRETATIVO.  FALTA  DE  INDICAÇÃO  DE  DISPOSITIVO  LEGAL  A  QUE  TERIA  SIDO  ATRIBUÍDA  INTERPRETAÇÃO  DIVERGENTE.  AUSÊNCIA  DE  CARACTERIZAÇÃO  DO  DISSÍDIO.  APLICAÇÃO,  POR  ANALOGIA,  DA  SÚMULA  Nº  284  DO  STF.  PRECEDENTES.  DECISÃO  MANTIDA.  AGRAVO  INTERNO  NÃO  PROVIDO.
+1.  Aplica-se  o  NCPC  a  este  recurso  ante  os  termos  no  Enunciado  Administrativo  nº  3,  aprovado  pelo  Plenário  do  STJ  na  sessão  de  9/3/2016:  Aos  recursos  interpostos  com  fundamento  no  CPC/2015  (relativos  a  decisões  publicadas  a  partir  de  18  de  março  de  2016)  serão  exigidos  os  requisitos  de  admissibilidade  recursal  na  forma  do  novo  CPC.
+2.  O  dissídio  jurisprudencial  não  foi  demonstrado,  uma  vez  que  não  foi  indicado  nas  razões  recursais  o  dispositivo  infraconstitucional  tido  por  violado,  exigência  essa  que  deve  ser  cumprida  tanto  para  o  recurso  especial  interposto  com  base  na  alínea  a  quanto  para  o  manejado  com  fulcro  na  alínea  c  do  permissivo  constitucional,  sendo,  portanto,  imperiosa  a  incidência  da  Súmula  nº  284  do  STF.
+3.  Não  sendo  a  linha  argumentativa  apresentada  capaz  de  evidenciar  a  inadequação  dos  fundamentos  invocados  pela  decisão  agravada,  o  presente  agravo  não  se  revela  apto  a  alterar  o  conteúdo  do  julgado  impugnado,  devendo  ele  ser  integralmente  mantido  em  seus  próprios  termos.
+4.  Agravo  interno  não  provido"  (AgInt  no  AREsp  2.101.387/SP,  Rel.  Ministro  MOURA  RIBEIRO,  Terceira  Turma,  julgado  em  15/8/2022,  DJe  17/8/2022).
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  DECLARATÓRIA  DE  INEXISTÊNCIA  DE  DÉBITO  C/C  COMPENSAÇÃO  POR  DANOS  MORAIS  E  REPETIÇÃO  DO  INDÉBITO.  CONTRATAÇÃO  DE  EMPRÉSTIMO  NA  MODALIDADE  DE  DESCONTO  DA  RESERVA  DA  MARGEM  CONSIGNÁVEL  (RMC)  DE  BENEFÍCIO  PREVIDENCIÁRIO.  DISCUSSÃO  ACERCA  DA  LEGALIDADE  DA  COBRANÇA.  MANUTENÇÃO  DA  SÚMULA  284/STF.  AGRAVO  INTERNO  DESPROVIDO.
+1.  A  ausência  de  indicação  do  dispositivo  de  lei  em  que  apontada  interpretação  divergente,  por  outros  tribunais,  não  autoriza  o  conhecimento  do  recurso  especial  pela  alínea  "c"  do  inciso  III  do  art.  105  da  Constituição  Federal  (Súmula  284  do  STF).
+2.  Agravo  interno  desprovido"  (AgInt  no  AREsp  2.014.852/SC,  Rel.  Ministro  RAUL  ARAÚJO,  Quarta  Turma,  julgado  em  15/8/2022,  DJe  26/8/2022).
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
