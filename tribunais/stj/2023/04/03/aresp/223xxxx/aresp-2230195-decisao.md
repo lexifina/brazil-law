@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interposto por OLIVEIROS DA CRUZ MARQUES, contra decisão que inadmitiu recurso especial manejado em face de acórdão do eg. TRIBUNAL DE JUSTIÇA DE SÃO PAULO.
+Depreende-se dos autos que o agravante foi sentenciado como incurso nas sanções do art. 302, caput, da Lei n. 9.503/1997, à pena de 2 (dois) anos de detenção, além da suspensão ou proibição de obter a permissão ou a habilitação para dirigir veículo automotor pelo prazo de 2 (dois) meses, a ser cumprida em regime inicial aberto, tendo sido a pena privativa de liberdade substituída por duas penas restritivas de direitos, consistentes na prestação de serviços à comunidade e pagamento de 1 (um) salário mínimo para entidade pública ou privada (fls. 305-310).
+Interposta apelação pela Defesa, o eg. Tribunal de origem negou provimento ao recurso, conforme v. acórdão de fls. 373-391.
+Foi interposto recurso especial (fls. 396-434), com fundamento no art. 105, inciso III, alíneas a e c, da Constituição da República, sustentando a defesa: i) violação ao artigo 187 do Código Civil, ante a ocorrência de culpa exclusiva da vítima; e ii) violação ao artigo 386, III, do Código Penal, pela ausência de tipicidade, em razão da culpa exclusiva da vítima.
+Apresentadas as contrarrazões (fls. 465-475), o apelo nobre não foi admitido em razão da incidência da Súmula 284/STF, da Súmula 7/STJ e da falta de adequada demonstração do alegado dissídio jurisprudencial, pois o recurso especial foi interposto sem a fundamentação necessária e a análise das questões suscitadas implicaria em revolvimento fático-probatório (fls. 478-479).
+Nas razões do agravo, postula-se o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários à sua admissão (fls. 482-504).
+Contraminuta ofertada (fls. 507-510).
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso especial (fls. 523-528).
+É o relatório.
+Decido.
+O agravo não merece ser conhecido.
+A parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial, não bastando, para tanto, deduzir genericamente a impossibilidade de incidência das Súmula 7/STJ.
+A defesa nas razões de fls. 482-504, em uma breve explanação, em síntese, quanto a incidência da Súmula 7/STJ, alegou que "reiterou especificamente o fato que o debate trazido à baila não importaria reexame de provas, mas de MÁVALORAÇÃO DAS PROVAS, no que se refere a culpa exclusiva da vítima, em observar não só a conduta do agravante, mas de todo o conjunto probatório, que implica também em observar a conduta da vítima" (fl. 490).
+No caso, deveria o agravante demonstrar a desnecessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no acórdão a quo, o que não ocorreu.
+É entendimento desta Corte Superior que "inadmitido o recurso especial com base na Súm. 7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível" (AgInt no AREsp 600.416/MG, Segunda Turma, Rel. Min. Og Fernandes, DJe 18/11/2016). Nesse sentido: AgRg no AREsp n. 1.207.268/MG, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 19/12/2018; AgRg nos EDcl no AREsp n. 2.104.712/CE, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 11/11/2022).
+Ademais, "conforme a jurisprudência desta Corte, a incidência da Súmula 7/STJ impede o exame do dissídio jurisprudencial aventado nas razões do apelo nobre" (AgRg no REsp 1532799/SC, Sexta Turma, Rel. Ministro Nefi Cordeiro, DJe 03/04/2018).
+Desse modo, a ausência de impugnação adequada dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre, nos termos do art. 932, inciso III do CPC, obsta o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+Nesse sentido: AgRg no REsp n. 1.958.975/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe 14/11/2022 e AgRg no AREsp 1682769/SC, Quinta Turma, Rel. Ministro Ribeiro Dantas, DJe 23/06/2020.
+Diante do exposto, nos termos do art. 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+P. e I.
+EMENTA
+PENAL. AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO CULPOSO NA DIREÇÃO DE VEÍCULO AUTOMOTOR. CONDENAÇÃO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
