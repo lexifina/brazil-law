@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/03/2023 a 03/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):
+Trata-se de agravo interno, interposto por JBA COMERCIO DE COMBUSTIVEIS LTDA, contra decisão monocrática, acostada às fls. 418/419 (e-STJ), da lavra da Ministra Presidente do STJ, que conheceu do agravo para não conhecer do recurso especial.
+Consoante se depreende dos autos, o apelo nobre desafia acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fl. 257, e-STJ):
+AGRAVO DE INSTRUMENTO. DIREITO PRIVADO NÃO ESPECIFICADO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EXCEÇÃO DE PRÉ- EXECUTIVIDADE. AUSÊNCIA DOS REQUISITOS.
+A exceção de pré-executividade cabe para apreciar matérias que se relacionem com os pressupostos processuais, condições da ação ou nulidades e defeitos formais evidentes do título executivo, não sendo a forma correta para discussões inerentes aos embargos do devedor.
+No caso, a tese defensiva da exceção foi manejada como substituto dos embargos à execução, uma vez que se insurge acerca da liquidez, certeza e exigibilidade do título executivo, que enseja a dilação probatória.
+RECURSO IMPROVIDO.
+Opostos embargos de declaração, restaram rejeitados.
+Em suas razões de recurso especial, a recorrente alegou, em suma, o cabimento da exceção de pré-executividade, a falta de pressupostos processuais e condições da ação, a nulidade do protesto e a existência de defeitos formais do título executivo.
+Contrarrazões (fls. 350/358, e-STJ).
+Em juízo de admissibilidade, a Corte local negou o processamento do recurso especial, sob o fundamento de incidência das Súmulas 7 e 211 do STJ
+Daí o agravo (art. 1042 do CPC/15).
+Contraminuta às fls. 402/411, e-STJ.
+Por decisão monocrática (fls. 418/419, e-STJ), a Ministra Presidente do STJ conheceu do agravo "para não conhecer do recurso especial", em razão da incidência da Súmula 284/STF.
+Na presente oportunidade, a agravante, em suas razões de fls. 422/439 (e-STJ), aduz que "o recurso especial demonstrou de forma clara e inarredável a ofensa ao Art. 1.022, II e Art. 489, § 1º, IV do Código de Processo Civil, não sendo oportuna e correta a aplicação da Súmula Nº 284 do Supremo Tribunal Federal".
+No mais, repisa a alegação de que não há incidência das Súmulas 7 e 211 do STJ, e reproduz os mesmos fundamentos constantes do apelo nobre.
+Impugnação às fls. 443/453, e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO.
+INSURGÊNCIA DA AGRAVANTE.
+1. A admissibilidade do recurso especial exige a clareza na indicação dos dispositivos de lei federal supostamente contrariados, bem como a explanação precisa da medida em que o acórdão recorrido teria afrontado cada um desses artigos, sob pena de incidência da Súmula 284/STF.
+2. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):
+O inconformismo não merece prosperar.
+1. Cabe ressaltar, o recurso especial é um meio impugnativo processual de fundamentação vinculada, no qual o efeito devolutivo se opera nos termos do que foi impugnado. A ausência de indicação expressa de dispositivos legais tidos por vulnerados ou como divergentemente interpretado inviabiliza o exame do recurso especial fundado.
+Dessa forma, é de rigor a incidência do verbete n.º 284, da Súmula do Supremo Tribunal Federal:
+"É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Sobre o tema:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO INDENIZATÓRIA. FUNDAMENTAÇÃO DEFICIENTE. NÃO INDICAÇÃO DO DISPOSITIVO DE LEI VIOLADO. APLICAÇÃO DA SÚMULA Nº 284 DO STF, POR ANALOGIA. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO NOS MOLDES LEGAIS. DANO MORAL. QUANTUM INDENIZATÓRIO. REVISÃO. NÃO CABIMENTO. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO. (..) 2. A ausência de expressa indicação de artigos de lei violados inviabiliza o conhecimento do recurso especial, não bastando a mera menção a dispositivos legais ou a narrativa acerca da legislação federal, aplicando-se o disposto na Súmula nº 284 do STF. (..) 6. Agravo interno não provido. (AgInt no AREsp 1960286/PR, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 21/02/2022, DJe 23/02/2022)
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. CABIMENTO. CITAÇÃO DE ARTIGOS. SÚMULA N. 284/STF. LEI N. 6.435/1977. INEXISTÊNCIA DE INDIVIDUALIZAÇÃO DOS DISPOSITIVOS VIOLADOS. SÚMULA N. 284/STF. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 DO STF E 211 DO STJ. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. DECISÃO MANTIDA. 1. É "impossível o conhecimento do recurso pela alínea "a", já que citação de passagem de artigos de lei não é suficiente para caracterizar e demonstrar a contrariedade a lei federal, posto ser impossível identificar se o foram citados meramente a título argumentativo ou invocados como núcleo do recurso especial interposto" (REsp n. 1.853.462/GO, Relator Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 24/11/2020, DJe 4/12/2020), o que ocorreu. 2. A falta de individualização dos dispositivos legais supostamente violados impede o conhecimento do recurso especial (Súmula n. 284/STF). (..) 7. Agravo interno a que se nega provimento. (AgInt no AREsp 944.639/SE, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 08/03/2021, DJe 12/03/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA, DE PLANO, NEGAR PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DO DEMANDADO. (..) 2. A jurisprudência deste Tribunal Superior firmou-se no sentido de que a falta de indicação expressa do dispositivo de lei objeto de divergência jurisprudencial configura fundamentação recursal deficiente, atraindo a incidência, por analogia, do Enunciado 284 do STF. Precedentes. (..) 3. Agravo interno desprovido. (AgInt no AREsp 1559589/MS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 11/05/2020, DJe 18/05/2020)
+RECURSO INTERPOSTO NA VIGÊNCIA DO CPC/2015. AGRAVO INTERNO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ARTIGOS DE LEI MENCIONADOS DE PASSAGEM NA PETIÇÃO DE RECURSO ESPECIAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA N. 284 DO STF. 1. Impossível o conhecimento do recurso pela alínea "a". Isto porque não há na petição do recurso especial a clara indicação dos dispositivos legais que se entende por violados. A citação de passagem de artigos de lei não é suficiente para caracterizar e demonstrar a contrariedade a lei federal, já que impossível identificar se o foram citados meramente a título argumentativo ou invocados como núcleo do recurso especial interposto. Incide na espécie, por analogia, o enunciado n. 284, da Súmula do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia". Precedente: REsp. n. 1.116.473 / RS, Segunda Turma, Rel. Min. Mauro Campbell Marques, julgado em 02.02.2012. 2. Agravo interno não provido. (AgInt no REsp 1615830/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 05/06/2018, DJe 11/06/2018)
+AGRAVO INTERNO. RECURSO ESPECIAL. INVENTÁRIO. SUCESSÃO DE CÔNJUGE. DISPOSITIVO VIOLADO. INDICAÇÃO PRECISA. AUSÊNCIA. DEMONSTRAÇÃO DE DISSÍDIO PRETORIANO. FALTA DE COTEJO ANALÍTICO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. (..) 2. A falta de indicação precisa de qual o artigo, parágrafo ou alínea, da legislação foi tida por violada caracteriza deficiência de fundamentação no recurso especial, inviabilizando a abertura da instância excepcional. Incidência da Súmula 284-STF. (..) 4. Agravo interno não provido. (AgInt no AREsp 1073482/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 17/08/2017, DJe 28/08/2017)
+Logo, verifica-se, no caso, que a decisão singular deve ser mantida com amparo nos fundamentos e nos precedentes acima alinhavados.
+2. Ante o exposto, nego provimento ao agravo interno.
+É como voto.
