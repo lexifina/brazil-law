@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo de MACAE REALTY EMPREENDIMENTOS IMOBILIARIOS LTDA e OUTRO contra decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+"APELAÇÕES CÍVEIS. COMPRA E VENDA DE IMÓVEL NA PLANTA. ATRASO DE QUASE DOIS ANOS PARA ENTREGA DO IMÓVEL. SENTENÇA DE PARCIAL PROCEDÊNCIA. RÉS CONDENADAS AO RESSARCIMENTO DOS VALORES PAGOS A TAXA DE EVOLUÇÃO DE OBRA, INDENIZAR OS LUCROS CESSANTES E PAGAR O VALOR DE R$ 5.000,00 (CINCO MIL REAIS), À TÍTULO DE DANOS MORAIS. IRRESIGNAÇÃO DAS RÉS.
+1. Preliminar de Ilegitimidade Passiva que se afasta. Teoria da Asserção.
+2. Falha na prestação do serviço que restou comprovada, não sendo suficiente o argumento de ocorrência de caso fortuito e força maior, considerando a teoria do risco do empreendimento, gerando o dever de indenizar o consumidor. Observância do enunciado nº 94 do E. TJRJ.
+3. A cobrança de "taxa de evolução" durante o período de mora, revela-se abusiva, constituindo onerosidade excessiva ao comprador, que é obrigado a arcar com o pagamento de uma taxa, em razão de conduta atribuível exclusivamente as rés, que não cumpriram com o prazo estabelecido no contrato. Inteligência do Tema 996 do STJ, firmado em sede de Recurso Repetitivo.
+4. Imóvel financiado com recursos provenientes do "Programa Minha Casa, Minha Vida", sendo regido atualmente pela Lei n.º 11.977/2009, que contém proibição de que o bem seja utilizado para fim diverso daquele que o funda.
+5. Dano moral caracterizado, mormente pelo fato de que o prazo de entrega frustrou a expectativa do autor por longo período.
+6. Verba indenizatória fixada em R$ 5.000,00 (cinco mil reais), que observou os princípios da razoabilidade e proporcionalidade.
+7. Deixo de majorar os honorários advocatícios em relação ao segundo apelante, vez que a sentença foi proferida na vigência do CPC de 1973.
+RECURSOS CONHECIDOS. PARCIAL PROVIMENTO DO PRIMEIRO RECURSO E DESPROVIMENTO DO SEGUNDO RECURSO." (e-STJ fl. 936)
+Os embargos de declaração opostos foram rejeitados (e-STJ fl. 974/978)
+Nas razões do recurso especial, o agravante alega violação dos arts. 489, § 1º, inciso IV, e o art. 1.022, parágrafo único, II, ambos do CPC, arts.186, 393 e 927, do CC. do CC e art. 14, § 3º, inc. II, do CDC, e divergência jurisprudencial, sustentando, em síntese, que: 1) a Corte de origem não sanou omissões sobre a tese de que teria ocorrido um acontecimento necessário e inevitável, qual seja, a descoberta de um duto da Petrobras que impediu a continuidade das obras do empreendimento; 2) houve fato de terceiro que seria suficiente para afastar a sua responsabilidade pelo atraso na entrega do empreendimento; 3) é incabível a condenação ao pagamento de indenização por danos morais, pois não ficou demonstrada circunstância excepcional que comprove efetiva violação a direitos da personalidade dos recorridos.
+Não foram apresentadas contrarrazões.
+É o relatório. Decido.
+Inicialmente, não prospera a alegada ofensa aos arts. 489, § 1º, inciso IV, e o art. 1.022, parágrafo único, II, ambos do CPC, tendo em vista que o v. acórdão recorrido adotou fundamentação suficiente, decidindo integralmente a controvérsia relativa à ocorrência de caso fortuito e força maior.
+É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte.
+As recorrentes afirmam que não podem ser responsabilizadas pelo atraso na entrega da obra em razão da ocorrência de fortuito externo, consistente na descoberta de um duto da Petrobrás que, por impedir a construção da estação de esgoto, importou na descontinuidade das obras do empreendimento.
+O Tribunal de origem expressamente consignou sobre o tema:
+"Alegam as rés, ora apelantes, que o atraso na entrega das se deu por culpa exclusiva do Poder Judiciário, vez que demorou para providenciar as obras de infraestrutura para construção do empreendimento, não devendo, pois, serem responsabilizadas pelo atraso.
+No caso em evidência, não há caso fortuito ou força maior, como alegado, pois, pela teoria do risco do empreendimento, os réus ao se habilitarem para construir o empreendimento pelo "Programa Minha Casa e Minha Vida", são responsáveis por cumprir os prazos pactuados com os consumidores. Trata-se, portanto, de fortuito interno que não abala o dever de indenizar, conforme verbete 94 do E; TJRJ, se provada a falha na prestação do serviço. Confira-se o enunciado:
+"Cuidando-se de fortuito interno, o fato de terceiro não exclui o dever do fornecedor de indenizar". (e-STJ fl. 941/942)
+Nesse contexto, a modificação de tal entendimento lançado no v. acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório. Sobre o tema:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL. PROMESSA DE COMPRA E VENDA. ATRASO NA ENTREGA DA OBRA. VIOLAÇÃO DOS ARTS. 463 E 722 DO CC. SÚMULAS 282 E 356/STF. CASO FORTUITO. SÚMULA 7/STJ. CULPA DO VENDEDOR. RESTITUIÇÃO INTEGRAL. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Fica inviabilizado o conhecimento de tema trazido na petição de recurso especial, mas não debatido e decidido nas instâncias ordinárias, porquanto ausente o indispensável prequestionamento. Aplicação das Súmulas 282 e 356 do STF.
+2. Na hipótese, o Tribunal de origem não constatou a ocorrência de excludente de nexo de causalidade, apta a justificar o atraso na entrega do imóvel, pois configurado fortuito interno, inerente ao risco do empreendimento. Incidência da Súmula 7 do STJ.
+3. Resolvido o contrato de promessa de compra e venda de imóvel por inadimplemento do vendedor, é cabível a restituição das partes ao status quo ante, com a devolução integral dos valores pagos pelo comprador, o que inclui a comissão de corretagem. Incidência da Súmula 83 do STJ. Precedentes.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.139.321/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 13/2/2023, DJe de 24/2/2023.)
+Já em relação ao dano moral, a orientação jurisprudencial do Superior Tribunal de Justiça é de que a demora na entrega do imóvel constitui mero inadimplemento contratual, o que, por si só, não gera o dever de indenizar, salvo se restar evidenciada situação excepcional capaz de superar o mero inadimplemento contratual, o que não restou demonstrado no caso dos autos. Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM DANOS MORAIS E MATERIAIS - ATRASO NA ENTREGA DE IMÓVEL - DANO MORAL - INEXISTÊNCIA DE CIRCUNSTÂNCIA EXCEPCIONAL - APLICAÇÃO, NA HIPÓTESE, DAS SÚMULAS 07 E 83 DO STJ. INCONFORMISMO DA PARTE DEMANDANTE.
+1. O simples inadimplemento contratual, em regra, não configura dano moral indenizável, incidindo, ainda, na hipótese, o enunciado das Súmulas 07 e 83 do STJ.
+2. Agravo interno improvido.
+(AgInt no REsp n. 1.575.754/RN, relator Ministro Marco Buzzi, Quarta Turma, julgado em 12/12/2022, DJe de 16/12/2022.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM DANOS MORAIS. ATRASO NA ENTREGA DO IMÓVEL. DANO MORAL. INVIABILIDADE. AUSÊNCIA DE CIRCUNSTÂNCIA EXCEPCIONAL. AGRAVO INTERNO DESPROVIDO.
+1. O mero descumprimento contratual pela promitente-vendedora, que deixa de entregar o imóvel no prazo contratado, não acarreta, por si só, danos morais, salvo se as circunstâncias do caso concreto demonstrarem a efetiva lesão extrapatrimonial, situação não comprovada nos autos. Precedentes.
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.955.328/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 14/11/2022, DJe de 30/11/2022.)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para dar parcial provimento ao recurso especial, a fim de afastar a indenização por danos morais.
+Tendo em vista a configuração de sucumbência recíproca, condeno, nos termos dos arts. 85 e 86 do CPC/2015, as partes a repartirem as custas e despesas processuais pela metade e ao pagamento de honorários advocatícios, os quais fixo em 10% sobre o valor da causa par cada parte.
+Deve ser observada eventual concessão da assistência judiciária gratuita na origem, bem como a vedação de compensação prevista no § 14 do art. 85 do citado diploma processual
+Publique-se.
