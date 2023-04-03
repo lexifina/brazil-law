@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/03/2023 a 03/04/2023, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DECISÃO DA PRESIDÊNCIA RECONSIDERAÇÃO. AÇÃO DE RESCISÃO CONTRATUAL. VÍCIOS DE CONSTRUÇÃO DE IMÓVEL. TRIBUNAL A QUO CONCLUIU PELA NÃO CONFIGURAÇÃO DO ALEGADO LITISCONSÓRCIO PASSIVO NECESSÁRIO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO PROVIDO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+1. Decisão agravada reconsiderada, na medida em que o agravo em recurso especial impugnou devidamente os fundamentos da decisão que inadmitiu o apelo nobre, exarada na eg. Instância a quo. Novo exame do feito.
+2. No caso, o Tribunal de Justiça, com arrimo no acervo fático-probatório carreado aos autos, concluiu pela desnecessidade do alegado litisconsórcio passivo necessário. A pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria revolvimento de matéria fático-probatória, inviável em sede de recurso especial, nos termos da Súmula 7/STJ.
+3. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para não conhecer do recurso especial.
+RELATÓRIO
+EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Trata-se de agravo interno (fls. 711-718) interporto por CONSTRUTORA TENDA S/A contra decisão (fls. 706-708), exarada pela Presidência desta eg. Corte, que não conheceu do agravo em recurso especial assentando que o recurso não impugnou os fundamentos da decisão que inadmitiu o recurso especial, exarada na eg. Instância a quo.
+Nas razões recusais, CONSTRUTORA TENDA S/A alega, em síntese, que, a "(..) despeito da decisão agravada ter mencionado a ausência de impugnação específica, é importante esclarecer que consta especificamente no Agravo em Recurso Especial, em tópico apartado, a questão relativa à inaplicabilidade da súmula 7 do STJ, atacando especificamente as questões apontadas na decisão" (fl. 716 - destaques no original).
+Ao final, pleiteia a reconsideração da decisão agravada ou, se mantida, seja o recurso levado a julgamento perante a eg. Quarta Turma.
+Intimada, LUCIANA DA SILVA MENDONÇA apresentou impugnação (fls. 750-728), pelo desprovimento do recurso.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DECISÃO DA PRESIDÊNCIA RECONSIDERAÇÃO. AÇÃO DE RESCISÃO CONTRATUAL. VÍCIOS DE CONSTRUÇÃO DE IMÓVEL. TRIBUNAL A QUO CONCLUIU PELA NÃO CONFIGURAÇÃO DO ALEGADO LITISCONSÓRCIO PASSIVO NECESSÁRIO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO PROVIDO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+1. Decisão agravada reconsiderada, na medida em que o agravo em recurso especial impugnou devidamente os fundamentos da decisão que inadmitiu o apelo nobre, exarada na eg. Instância a quo. Novo exame do feito.
+2. No caso, o Tribunal de Justiça, com arrimo no acervo fático-probatório carreado aos autos, concluiu pela desnecessidade do alegado litisconsórcio passivo necessário. A pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria revolvimento de matéria fático-probatória, inviável em sede de recurso especial, nos termos da Súmula 7/STJ.
+3. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para não conhecer do recurso especial.
+VOTO
+EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Em face das razões apresentadas, infere-se que o agravo interno merece provimento para reconsiderar a decisão agravada, na medida em que o agravo em recurso especial (fls. 666-675) impugnou devidamente os fundamentos da decisão (fls. 651-655) que inadmitiu o apelo nobre, exarada na eg. Instância a quo.
+Reconsiderada a decisão vergastada, passa-se a novo exame do feito.
+Trata-se de agravo em recurso especial interposto por CONSTRUTORA TENDA S/A contra decisão exarada pela il. Terceira Vice-Presidência do eg. Tribunal de Justiça do Estado do Rio de Janeiro (TJ-RJ), que inadmitiu seu recurso especial.
+Por sua vez, o apelo nobre foi manejado com arrimo na alínea a do permissivo constitucional, em face de v. acórdão assim ementado (fl. 158):
+"Apelação cível. Relação de consumo. Contrato promessa de compra e venda de imóvel. Vício redibitório (alagamento no apartamento da autora provocado pela ausência de construção de galerias paralelas de águas pluviais no empreendimento imobiliário, já que apartamento da autora foi construído em plano inferior à rua). Sentença que determinou o desfazimento do negócio jurídico, com a restituição integral dos valores despendidos, além de condenar a ré ao pagamento de danos materiais (a serem apurados em liquidação de sentença) e de compensação moral, em razão dos transtornos experimentados pela autora. Irresignação da construtora ré, alegando questão de ordem para sobrestamento do feito até a conclusão do julgamento pelo E. STJ dos REsps 1.891.498-SP e 1.894.504-SP (Tema 1.095). Preliminares ilegitimidade ativa, passiva, falta de interesse de agir e necessidade de formação de litisconsórcio passivo necessário (art.114 do CPC). Rejeição. Prejudicial de mérito (decadência). Inocorrência. No mérito, restou configurad a através do conjunto probatório existente, com destaque para o laudo pericial, a existência de nexo de causalidade entre o evento danoso e o projeto de construção, o qual deixou de considerar a ineficiência das redes pluviais naquela localidade, por ocasião da construção do empreendimento imobiliário. Conhecimento prévio da construtora sobre os problemas de alagamento na Rua da Prata e em seu entorno. Teoria do risco do empreendido.
+Empreendimento imobiliário construído em área sujeita a alagamento. Impossibilidade de retenção de valores, uma vez que o desfazimento do negócio não ocorreu por culpa da autora e sim por inteira responsabilidade da ré. Restituição integral dos valores comprovadamente pagos (a título de sinal e parcelas do financiamento). Danos materiais (bens móveis, utensílios,
+instalação de piso laminado no apartamento e válvula de contenção) que deverão ser ressarcidos à autora, tudo apurado em liquidação de sentença. Dano moral configurado. Valor da indenização imaterial fixada em R$20.000,00, que se mostrou razoável, estando em conformidade com os princípios da razoabilidade e proporcionalidade. Incidência do verbete sumular nº 343 deste E. TJRJ. Abalo psicológico existente, diante da frustração da autora ao adquirir um imóvel novo e inapropriado para sua moradia. Juros moratórios que incidirão a contar da data da citação. Tese jurídica firmada pelo E. STJ (Tema 1.002) que não se aplica ao caso concreto. Fixação dos honorários sucumbenciais recursais (art.85, § 11, do CPC).
+DESPROVIMENTO DO RECURSO."
+Os embargos de declaração opostos foram rejeitados (acórdão às fls. 564-570).
+Nas razões do apelo nobre (fls. 585-591), CONSTRUTORA TENDA S/A aponta violação ao art. 114 do CPC/2015, sob o argumento, entre outros, de que o v. "(..) acórdão aduz, em síntese, que não há que se falar em litisconsórcio passivo com a Caixa, justificando sua decisão no fato da Caixa Econômica Federal ter atuado como agente financeiro e não ter participado da construção da obra, logo, não poderia responder por eventual comprovação de vício e consequente condenação indenizatória" (fl. 590 - destaques no original).
+Assevera, também, que "(..) a parte Recorrida não requereu apenas condenação de cunho indenizatório. A Recorrida requereu a rescisão contratual e a devolução de todos os valores pagos, logo, a Caixa Econômica Federal, por consequência lógica, DEVE ser parte do processo, uma vez que é credora fiduciária do imóvel" (fl. 590 - destaques no original).
+Intimada, LUCIANA DA SILVA MENDONÇA apresentou contrarrazões (fls. 645-649) pelo desprovimento do recurso.
+Como dito, o apelo nobre foi inadmitido (decisão às fls. 651-655), motivando o agravo em recurso especial (fls. 666-675) em tela.
+Também foi oferecida contraminuta (fls. 679-684), pelo desprovimento do recurso.
+Passo a decidir.
+No caso, o eg. TJ-RJ, com arrimo no acervo fático-probatório carreado aos autos, concluiu pela desnecessidade do alegado litisconsórcio passivo defendido pela ora agravante. A título elucidativo, transcreve-se o seguinte excerto do v. acórdão estadual (fl. 509):
+"Com relação a necessidade de formação do litisconsorte passivo necessário (art.114 do CPC) com a Caixa Econômica Federal, Empresa Pública Federal, também não assiste razão à recorrente.
+Isto porque, in casu, o agente financeiro apenas atuou como um mero repassador do dinheiro à autora para fins de aquisição de seu imóvel, não participando da construção da obra, sendo esse o cerne da controvérsia (vício redibitório).
+Assim, não há que se falar na necessidade de formação de litisconsórcio passivo necessário com a integração da instituição financeira (Caixa Econômica Federal)."
+Nesse contexto, a pretensão de alterar o entendimento ora transcrito, considerando as circunstâncias do caso concreto, demandaria revolvimento de matéria fático-probatória, inviável em sede de recurso especial, nos termos da Súmula 7/STJ.
+Nessa linha de intelecção, destacam-se os seguintes julgados:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE AGRAVANTE.
+(..)
+2. O Tribunal local, com base no contexto fático e probatório dos autos e na análise das disposições previstas no contrato, concluiu não ser caso de litisconsórcio passivo necessário, tampouco unitário. Alterar tal entendimento demandaria necessariamente o reexame do conjunto fático probatório dos autos e a interpretação de cláusula contratual, providências vedadas nessa instância, em razão das Súmulas 5 e 7 do STJ.
+3. Agravo interno desprovido."
+(AgInt no AREsp n. 1.859.558/DF, relator MINISTRO MARCO BUZZI, Quarta Turma, julgado em 2/5/2022, DJe de 6/5/2022 - g. n.)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LITISCONSÓRCIO NECESSÁRIO. CONFIGURAÇÃO. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem incursão no contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+2. No caso concreto, o Tribunal de origem concluiu que, da análise dos documentos apresentados nos autos, não há falar em relação jurídica incindível que justificaria a intervenção da agravante no processo como litisconsorte necessário. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 609.239/MS, relator MINISTRO ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 9/3/2020, DJe de 16/3/2020 - g. n.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. PRESCRIÇÃO. DESCUMPRIMENTO CONTRATUAL. INVERSÃO DO ÔNUS DA PROVA. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O Tribunal de origem, amparado no acervo fático - probatório dos autos, concluiu que não é o caso de formação de litisconsórcio necessário; que não ocorreu a prescrição, uma vez que o prazo foi interrompido pelo ajuizamento de medida cautelar; e que restou caracterizado o descumprimento contratual, não sendo o caso de ofensa a direito da personalidade. Assim, rever o entendimento do acórdão recorrido não é possível em sede de recurso especial, pois demandaria, necessariamente, reexame de fatos e provas, o que é vedado em razão do óbice da Súmula 7 do STJ.
+(..)
+3. Agravo interno não provido."
+(AgInt no AREsp n. 1.320.033/SP, relator MINISTRO LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 14/5/2019, DJe de 22/5/2019.)
+Com essas considerações, conclui-se que o apelo não merece prosperar.
+Ante o exposto, dou provimento ao agravo interno para reconsiderar a decisão agravada e, em novo exame, conheço do agravo para não conhecer do recurso especial.
+É como voto.
