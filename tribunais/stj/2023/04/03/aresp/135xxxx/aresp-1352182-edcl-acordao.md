@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/03/2023 a 03/04/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+  Trata-se  de  embargos  de  declaração  opostos  por  JOSÉ  ALBERTO  FOGAÇA  DE  MEDEIROS  ao  acórdão  que  negou  provimento  ao  agravo  interno  (fls.  832/834  e-STJ).
+Em  suas  razões  (fls.  838/852  e-STJ),  o  embargante  alega  que  o  acórdão  embargado  foi  omisso,  pois,
+"(..)
+Quanto  à  ausência  do  prequestionamento  das  matérias  versadas  nos  arts.  128  e  655-A  do  CPC/1973(Súmula211/STJ),  o  recorrente  transcreveu  a  sentença  de  primeiro  grau,  que  julgou  procedentes  os  Embargos  de  Penhora,  analisando  detalhadamente  a  matéria  regida  portais  dispositivos  processuais"  (fl.  843  e-STJ).
+Reitera  a  tese  de  que  a  violação  do  art.  128  do  Código  de  Processo  Civil  de  1973  é  clara,  pois  seu  nome  como  pessoa  física  não  constou  nem  na  duplicata,  nem  na  petição  inicial  da  execução.
+Repisa  a  alegação  de  que  penhora  deve  recair  sobre  o  patrimônio  dos  partidos  políticos,  e  não  do  candidato.
+Sustenta  a  inaplicabilidade  dos  óbices  sumulares  invocados  pela  decisão  embargada  (Súmulas  nº  211/STJ  e  nº  283/STF)  e,  ao  final,  requer  o  acolhimento  do  recurso  para  afastar  a  omissão  ventilada.
+Não  houve  impugnação  (fl.  855  e-STJ).
+É  o  relatório.
+EMENTA
+EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  OMISSÃO.  INEXISTÊNCIA.
+1.  Ausentes  quaisquer  dos  vícios  elencados  no  artigo  1.022  do  Código  de  Processo  Civil  de  2015,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  suprimir  a  omissão,  afastar  a  obscuridade,  eliminar  a  contradição  o  u  corrigir  o  erro  material,  mas,  sim,  reformar  o  julgado  por  via  inadequada.
+2.  Embargos  de  declaração  rejeitados.
+VOTO
+Não  prospera  a  inconformidade  veiculada  nos  presentes  aclaratórios.
+A  decisão  embargada  não  padece  de  nenhum  dos  vícios  ensejadores  dos  declaratórios  enumerados  no  art.  1.022  do  Código  de  Processo  Civil  de  2015:  obscuridade,  contradição,  omissão  ou  erro  material.
+Inicialmente,  cumpre  esclarecer  que,  ao  contrário  do  alegado,  o  prequestionamento  pressupõe  o  efetivo  debate  das  questões  suscitadas  nas  razões  do  recurso  especial  pelo  tribunal  de  origem,  não  se  aperfeiçoando,  portanto,  com  a  mera  transcrição  da  sentença  de  mérito  ou  mesmo  com  a  arguição  da  matéria,  pela  parte  interessada,  nos  recursos  interpostos.
+A  propósito:
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PLANO  DE  SAÚDE.  CONTRATO  COLETIVO  EMPRESARIAL.  1.  AUSÊNCIA  DE  PREQUESTIONAMENTO.  SÚMULAS  N.  282  E  356/STF.  2.  RESOLUÇÃO  NORMATIVA.  ATO  NORMATIVO  QUE  NÃO  SE  ENQUADRA  NO  CONCEITO  DE  LEI  FEDERAL.  3.  PENALIDADE  PECUNIÁRIA.  INVALIDAÇÃO.  REEXAME  DE  FATOS,  PROVAS  E  DE  TERMOS  CONTRATUAIS.  INCIDÊNCIA  DAS  SÚMULAS  5  E  7/STJ.  4.  AGRAVO  INTERNO  DESPROVIDO.
+1.  Em  relação  ao  argumento  recursal  concernente  à  suposta  ofensa  aos  arts.  421  e  422  do  CC/2002,  incidem  as  Súmulas  282  e  356/STF,  diante  da  ausência  de  prequestionamento,  uma  vez  que  tal  tese  não  foi  objeto  de  análise  pela  Corte  local.  Ademais,  considera-se  configurado  o  prequestionamento  implícito  quando,  mesmo  sem  a  expressa  menção  dos  dispositivos  federais  tidos  como  violados,  há  o  efetivo  debate  da  norma  neles  contida,  o  que,  todavia,  não  se  verifica  na  hipótese  dos  autos.
+2.  Nos  termos  da  jurisprudência  desta  Corte  Superior,  na  esfera  do  recurso  especial  não  é  cabível  o  exame  de  eventual  ofensa  a  resolução,  por  não  se  enquadrar  no  conceito  de  lei  federal  previsto  na  Constituição  Federal.
+3.  Reverter  a  conclusão  do  colegiado  de  origem,  para  acolher  a  pretensão  recursal,  demandaria  necessariamente  a  interpretação  de  cláusulas  contratuais  e  o  revolvimento  do  acervo  fático-probatório  dos  autos,  o  que  se  mostra  impossível  dada  a  natureza  excepcional  da  via  eleita,  consoante  as  Súmulas  5  e  7  do  Superior  Tribunal  de  Justiça.
+4.  Agravo  interno  desprovido."  (AgInt  no  AREsp  2.104.197/SP,  relator  Ministro  Marco  Aurélio  Bellizze,  Terceira  Turma,  julgado  em  12/9/2022,  DJe  de  14/9/2022  -  grifou-se)
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL  -  AUTOS  DE  AGRAVO  DE  INSTRUMENTO  NA  ORIGEM  -  DECISÃO  MONOCRÁTICA  QUE  NÃO  CONHECEU  DO  RECLAMO.  INSURGÊNCIA  DA  PARTE  AGRAVADA.
+1.Por  não  se  amoldar  ao  conceito  de  lei  federal,  previsto  no  art.  105,  III,  da  Constituição  Federal,  não  se  revela  cognoscível,  na  presente  via  excepcional,  a  análise  da  suposta  inobservância  de  regras  insertas  em  Circular  ou  Resoluções  expedidas  pelo  Banco  Central  do  Brasil.
+2.  A  ausência  de  enfrentamento  da  questão  objeto  da  controvérsia  pelo  Tribunal  de  origem  impede  o  acesso  à  instância  especial,  porquanto  não  preenchido  o  requisito  constitucional  do  prequestionamento,  nos  termos  das  Súmulas  282  e  356/STF.  2.1  A  jurisprudência  desta  Corte  não  considera  suficiente,  para  fins  de  configuração  do  prequestionamento,  que  a  matéria  tenha  sido  suscitada  pelas  partes  ou  apenas  citada  no  acórdão  como  "considerada  ou  dada  por  prequestionada",  mas  sim  que  a  respeito  tenha  havido  efetivo  debate  no  aresto  recorrido.  2.2  Nos  termos  da  jurisprudência  desta  Corte  Superior,  a  aplicação  do  artigo  1.025  do  CPC/15  exige  que  a  parte  recorrente  tenha  oposto  aclaratórios  na  origem  e  apontado,  no  recurso  especial,  violação  ao  artigo  1.022  do  mesmo  diploma  e  indicado  de  forma  clara  e  específica,  o  vício  existente  no  acórdão  recorrido.
+3.  O  descompasso  argumentativo  entre  o  entendimento  firmado  pelo  Tribunal  a  quo  e  as  razões  deduzidas  pelo  recorrente  em  seu  apelo  nobre,  associado  à  subsistência  de  fundamentos  válidos,  não  atacados,  atraem,  por  analogia,  a  incidência  dos  enunciados  contidos  nas  Súmulas  283  e  284,  do  STF.
+4.  Incide  no  óbice  contido  na  Súmula  07/STJ  a  pretensão  voltada  para  reconhecer  a  legitimidade  ativa  ad  causa  do  ora  recorrente.
+5.  Agravo  interno  desprovido."  (AgInt  no  AREsp  2.072.750/SC,  relator  Ministro  Marco  Buzzi,  Quarta  Turma,  julgado  em  22/8/2022,  DJe  de  26/8/2022  -  grifou-se)
+No tocante  às  demais  alegações,  observa-se  que  o  embargante  apenas  reitera  as  teses  já  rechaçadas  nos  julgados  anteriormente  proferidos,  demonstrando  apenas  a  sua  insatisfação  com  o  mérito  do  julgamento,  o  que  evidencia  o  caráter  modificativo  da  sua  irresignação,  absolutamente  incompatível  com  a  via  integrativa.
+Nesse  contexto,  ausentes  quaisquer  dos  vícios  ensejadores  dos  aclaratórios,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  suprimir  a  omissão,  afastar  a  obscuridade,  eliminar  a  contradição  ou  corrigir  erro  material,  mas,  sim,  reformar  o  julgado  por  via  inadequada.
+Ante  o  exposto,  rejeito  os  embargos  de  declaração.
+É  o  voto.
