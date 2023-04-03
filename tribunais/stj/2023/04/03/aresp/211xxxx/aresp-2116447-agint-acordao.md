@@ -1,0 +1,100 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/03/2023 a 03/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva e lavrou este acórdão, nos termos do art. 52, IV, b, do RISTJ.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/15). AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. NEGATIVA DE PRESTAÇÃO JURISDICONAL. INOCORRÊNCIA. SENTENÇA HOMOLOGATÓRIA. EXTENSÃO. REVISÃO. SÚMULA Nº 7/STJ. MULTA POR EMBARGOS PROTELATÓRIOS. AFASTAMENTO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. APLICAÇÃO DO REFERIDO ÓBICE POR AMBAS AS ALÍNEAS DO PERMISSIVO CONSTITUCIONAL. PRECEDENTES.
+AGRAVO DESPROVIDO.
+RELATÓRIO
+Trata-se de agravo interno interposto por CONECTUS SERVICE TECNOLOGIA DA INFORMACAO EIRELI, em face de decisão assim ementada:
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/15). AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. NEGATIVA DE PRESTAÇÃO JURISDICONAL. INOCORRÊNCIA. SENTENÇA HOMOLOGATÓRIA. EXTENSÃO. REVISÃO. SÚMULA Nº 7/STJ. MULTA POR EMBARGOS PROTELATÓRIOS. AFASTAMENTO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. APLICAÇÃO DO REFERIDO ÓBICE POR AMBAS AS ALÍNEAS DO PERMISSIVO CONSTITUCIONAL. PRECEDENTES.
+AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESTA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+Nas razões do agravo, a parte agravante alega inaplicabilidade dos óbices apontados e repisa as alegações da peça inicial, aduzindo violação aos artigos 125, II, 489, IV e VI, 506, 525, § 1º, III e VII e 1026, § 2º do CPC e 844, § 3º do CC, sustentando, em síntese, negativa de prestação jurisdicional; que a extinção da lide principal provoca a extinção da lide secundária em consequência do acordo celebrado entre o Autor da Ação Principal e a Denunciada; e ausência de embargos protelatórios a ensejar a multa aplicada.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/15). AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. NEGATIVA DE PRESTAÇÃO JURISDICONAL. INOCORRÊNCIA. SENTENÇA HOMOLOGATÓRIA. EXTENSÃO. REVISÃO. SÚMULA Nº 7/STJ. MULTA POR EMBARGOS PROTELATÓRIOS. AFASTAMENTO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. APLICAÇÃO DO REFERIDO ÓBICE POR AMBAS AS ALÍNEAS DO PERMISSIVO CONSTITUCIONAL. PRECEDENTES.
+AGRAVO DESPROVIDO.
+VOTO
+Eminentes colegas, a irresignação recursal não merece acolhida.
+Com efeito, percebe-se que as razões trazidas no agravo interno, de inaplicabilidade dos óbices apontados, repisando as alegações da peça inicial de negativa de prestação jurisdicional; que a extinção da lide principal provoca a extinção da lide secundária em consequência do acordo celebrado entre o Autor da Ação Principal e a Denunciada; e ausência de embargos protelatórios a ensejar a multa aplicada, não são aptas a desconstituir a decisão recorrida, cujos fundamentos passo aqui a reiterar.
+Ora, conforme bem salientado na decisão proferida em sede de agravo em recurso especial, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia. O Tribunal de origem, no caso, julgou com fundamentação suficiente a matéria devolvida à sua apreciação, assim consignando em sede de embargos de declaração:
+Logo, não houve vício interno à fundamentação do v. acórdão proferido, apta a ensejar embargos de declaração.
+E, nesse sentido, para que se rejeite a pretensão recursal, observe-se o trecho do v. acórdão (e-fls. 157/161, apenso):
+"Pois bem.
+Trata-se de cumprimento de sentença promovido por MISTER CAR RENT A CAR LOCADORA DE AUTOS LTDA em face de CONECTUS SERVICE TECNOLOGIA DA INFORMAÇÃO EIRELI, que acolheu parcialmente a impugnação apresentada.
+A princípio, foi ajuizada "Ação de Reparação de Danos Materiais" por Adjarbas Guerra em face da Agravada MISTER CAR, em decorrência de acidente de trânsito ocorrido no dia 26.JAN.2016. Em sua contestação, a Agravada/Exequente denunciou a lide à Agravante/Executada, que se encontrava na posse do referido veículo, como locatária da Ré MISTER CAR.
+Sobreveio r. sentença condenatória nos seguintes termos:
+"Ante o exposto, JULGO PROCEDENTE a presente ação, movida por ADJARBAS GUERRA em face de MISTER CAR RENT A CAR LOCADORA DE AUTOS LTDA, extinguindo-a, nos termos do art. 487, I, do CPC, para condenar a ré ao pagamento de indenização por danos materiais no valor de R$ 12.499,57 (doze mil, quatrocentos e noventa e nove reais e cinquenta e sete centavos , sobre o qual deverá incidir correção monetária, pela Tabela Prática do Tribunal de Justiça do Estado de São Paulo, desde a data da elaboração do orçamento, e juros legais, a partir da citação. Por fim, JULGO PROCEDENTE A DENUNCIAÇÃO À LIDE, nos termos do artigo 487, inciso I, do CPC, para o fim de condenar a denunciada CONECTUS SERVICE TECNOLOGIA DA INFORMAÇÃO LTDA. à arcar com os prejuízos sofridos pela denunciante MISTER CAR RENT A CAR LOCADORA DE AUTOS LTDA. Sucumbente, arcará a denunciada com as custas e despesas processuais, bem como com os honorários advocatícios que fixo em 10% do valor da condenação da ação principal, conforme previsão do artigo 85, §2º do Código de Processo Civil." A Litisdenunciada interpôs recurso de apelação.
+Após a prolação da sentença condenatória, a Ré/Litisdenunciante/Agravada celebrou acordo com o Autor na lide principal, para pagamento da importância de R$ 16.000,00 (dezesseis mil reais), acordo que foi homologado pelo Juízo "a quo" nos seguintes termos:
+"Vistos.
+Adjarbas Guerra e outro, ajuizou ação de Procedimento Comum em face de Mister Car Rent A Car Locadora de Autos, devidamente qualificados. As partes, de comum acordo, decidiram por fim à lide, conforme pedido de homologação apresentado nestes autos.
+É o relatório.
+DECIDO.
+Homologo, por sentença, para que surta seus jurídicos efeitos, o acordo celebrado entre as partes as fls. 365/366, julgando extinto o processo, com resolução do mérito, nos termos do artigo 487, inciso III, letra "b" do Código de Processo Civil somente com relação à corré Mister Car Rent A Car Locadora de Autos. Com o trânsito em julgado da sentença, anote-se a extinção com relação à corré Mister Car. Sem prejuízo, aguarde-se o decurso de prazo para apresentação de contrarrazões e cumpra-se a decisão de fls. 363, remetendo-se os autos ao Egrégio Tribunal de Justiça. P.R.I." Em razão do trânsito em julgado do v. acórdão, a Exequente MISTER CAR RENT A CAR ingressou com cumprimento de sentença, pleiteando o ressarcimento da importância de R$ 25.008,62, que corresponde ao valor atualizado pago no acordo entabulado com o Autor na lide principal.
+A Executada apresentou impugnação, sobrevindo a r. decisão ora agravada.
+De início, a Executada sustentou a inexequibilidade do título, a falta de interesse processual e a realização do pagamento, em virtude da celebração de acordo na lide originária antes do trânsito em julgado da demanda. Também indicou a impossibilidade de prosseguimento do direito de regresso pelo cumprimento de sentença.
+A impugnação apresentada não merece ser acolhida.
+Nota-se que a r. sentença homologatória foi expressa em afirmar a sua extensão somente à Ré MISTER CAR RENT A CAR. A Litisdenunciada não apresentou o recurso cabível. Ademais, posteriormente à prolação da r. sentença homologatória sobreveio o v. Acórdão condenatório, que manteve integralmente os termos da r. sentença condenatória em relação à Litisdenunciada.
+Destaca-se, por fim, que constou da r. sentença a condenação da Litisdenunciada ao ressarcimento dos prejuízos sofridos pela Litisdenunciante:
+"JULGO PROCEDENTE A DENUNCIAÇÃO À LIDE, nos termos do artigo 487, inciso I, do CPC, para o fim de condenar a denunciada CONECTUS SERVICE TECNOLOGIA DA INFORMAÇÃO LTDA. à arcar com os prejuízos sofridos pela denunciante MISTER CAR RENT A CAR LOCADORA DE AUTOS LTDA".
+Assim, com o trânsito em julgado da r. sentença, configura-se possível a realização do direito de regresso da Ré MISTER CAR nos autos do cumprimento de sentença, uma vez que restou comprovado o seu prejuízo, diante do pagamento da indenização ao Autor/vítima do acidente.
+Houve, assim, a formação de título executivo judicial em face da Executada, inexistindo óbice ao seu cumprimento.
+Por sua vez, a alegação de excesso de execução deve ser acolhida.
+Em sua impugnação, a Executada requereu o reconhecimento de que somente deveria arcar com 50% do valor do prejuízo, em decorrência da solidariedade das partes.
+A r. decisão ora agravada acolheu parcialmente o pleito, definindo como o montante da execução aquele constante do título judicial, relativo ao valor dos orçamentos realizados pela vítima.
+Ocorre que o montante da condenação é superior ao valor do prejuízo efetivamente suportado pela Litisdenunciada, correspondente ao valor do acordo celebrado com o Autor. Ademais, nota-se que o pedido da Exequente no cumprimento de sentença, limitou-se ao ressarcimento pela Executada do montante do acordo.
+Assim, deve ser reconhecido o excesso de execução estabelecido pela r. decisão, prosseguindo-se a execução com base no valor indicado pela Executada inicialmente, com as devidas atualizações.
+Não deve ser acolhido o pleito da Executada de pagamento apenas de 50% do valor do acordo, uma vez que a solidariedade existente era relativa à relação do Autor/vítima com a Ré MISTER CAR e a Litisdenunciada. Entre a MISTER CAR e a Litisdenunciada, em decorrência da denunciação da lide, há direito de regresso, cujo montante deve ser suportado pela Litisdenunciada de forma integral.
+Logo, o presente recurso deve ser parcialmente provido, para reconhecer o excesso de execução, prosseguindo-se a execução com base no valor indicado pela Executada inicialmente, com as devidas atualizações." Pela simples leitura do quanto constou no v.
+acórdão, pois, observe-se que houve a expressa e pormenorizada fundamentação de todos os temas versados no recurso de agravo de instrumento da Executada, inclusive limites objetivos e subjetivos da demanda e formação de coisa julgada e de título executivo contra a Agravante. A Embargante, então, somente demonstra seu inconformismo com as razões de decidir apresentadas.
+Saliente-se, ademais, que eventual contradição entre entendimentos jurídicos ou sobre questão alheia à própria fundamentação da decisão embargada não consubstanciam obscuridade, contradição ou omissão sanáveis em sede de embargos de declaração. Sobre o tema, pois, confira-se a jurisprudência do E. Superior Tribunal de Justiça, na qual se considera tal hipótese como contradição externa ao julgado:
+ .. . (e-STJ fls. 189/192).
+Destarte, não justifica a alegação de violação ao artigo 489 do CPC, uma vez que ocorreu pronunciamento efetivo e claro sobre as questões postas. Ademais, o juiz não está obrigado a responder um a um os argumentos levantados pelas partes.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESCISÃO CONTRATUAL. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. VIOLAÇÃO DOS ARTS. 489 E 1022 DO CPC/15. INOCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ.
+1. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+2. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/15.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a oposição de embargos de declaração, impede o conhecimento do recurso especial.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. Agravo interno não provido. (AgInt no AREsp 1157866/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 13/03/2018, DJe 15/03/2018).
+Na verdade, a parte recorrente pretendeu rediscutir em sede de aclaratórios matérias já apreciadas pelo Tribunal a quo, providência vedada nesta espécie recursal.
+Nessa linha de entendimento:
+PROCESSUAL CIVIL. OFENSA AO ART. 535 DO CPC NÃO CONFIGURADA. REDISCUSSÃO DA MATÉRIA DE MÉRITO. IMPOSSIBILIDADE. CERCEAMENTO DE DEFESA. AUSÊNCIA DO PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 211/STJ. VALORAÇÃO DA PROVA. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. INVIABILIDADE. SÚMULA 7/STJ.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 535 do CPC. Além disso, os Embargos Declaratórios não constituem instrumento adequado para a rediscussão da matéria de mérito. (grifou-se)
+2. Em relação ao cerceamento de defesa, a irresignação não merece prosperar, uma vez que a Corte local não emitiu juízo de valor sobre a matéria alegada. É necessária a efetiva discussão do tema pelo Tribunal a quo, ainda que em Embargos de Declaração. Incidência da Súmula 211/STJ.
+3. Ademais, é evidente que, para modificar o entendimento firmado no acórdão impugnado, reconhecendo-se o cerceamento do direito de defesa da parte recorrente, ou a insuficiência das provas, seria necessário exceder as razões colacionadas no acórdão vergastado, o que demanda incursão no contexto fático-probatório dos autos, vedada em Recurso Especial. Súmula 7/STJ.
+4. Agravo Regimental não provido. (AgRg no AREsp 216.688/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 11/03/2014, DJe 19/03/2014).
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. AUSÊNCIA DE VIOLAÇÃO AO ART. 535 DO CPC. REEXAME DO SUPORTE FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ.
+1. Não se viabiliza o recurso especial pela indicada violação do artigo 535 do Código de Processo Civil quando a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, ainda que em sentido contrário à pretensão da parte recorrente. (grifou-se)
+2. A reapreciação do suporte fático-probatório dos autos é vedada nesta Corte, pelo óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+3. Agravo regimental não provido." (AgRg no AREsp 373.162/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 07/10/2014, DJe 14/10/2014).
+Acerca da alegação de que a extinção da lide principal provoca a extinção da lide secundária em consequência do acordo celebrado entre o Autor da Ação Principal e a Denunciada, o Tribunal de origem assim se manifestou:
+Nota-se que a r. sentença homologatória foi expressa em afirmar a sua extensão somente à Ré MISTER CAR RENT A CAR.
+A Litisdenunciada não apresentou o recurso cabível. Ademais, posteriormente à prolação da r. sentença homologatória sobreveio o v. Acórdão condenatório, que manteve integralmente os termos da r. sentença condenatória em relação à Litisdenunciada.
+Destaca-se, por fim, que constou da r. sentença a condenação da Litisdenunciada ao ressarcimento dos prejuízos sofridos pela Litisdenunciante:
+"JULGO PROCEDENTE A DENUNCIAÇÃO À LIDE, nos termos do artigo 487, inciso I, do CPC, para o fim de condenar a denunciada CONECTUS SERVICE TECNOLOGIA DA INFORMAÇÃO LTDA. à arcar com os prejuízos sofridos pela denunciante MISTER CAR RENT A CAR LOCADORA DE AUTOS LTDA".
+Assim, com o trânsito em julgado da r. sentença, configura-se possível a realização do direito de regresso da Ré MISTER CAR nos autos do cumprimento de sentença, uma vez que restou comprovado o seu prejuízo, diante do pagamento da indenização ao Autor/vítima do acidente.
+Houve, assim, a formação de título executivo judicial em face da Executada, inexistindo óbice ao seu cumprimento.(e-STJ fls. 159/160).
+Desse modo, afastar a conclusão da Corte Estadual acerca da extensão da sentença homologatória, demandaria o reexame de matéria fática e das demais provas constantes dos autos, o que é inviável em sede de recurso especial, a teor da Súmula nº 7/STJ.
+Quanto a multa arbitrada em razão da oposição de embargos de declaração tidos como protelatórios, igual sorte o recurso. Afastar as conclusões do v. acórdão, o qual reconheceu o caráter protelatório dos embargos, demandaria o reexame do conjunto fático-probatório dos autos, inviável em sede de recurso especial, de acordo com o enunciado sumular nº. 7/STJ.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA. 1. ALEGAÇÃO DE OMISSÃO DO ACÓRDÃO RECORRIDO. INEXISTÊNCIA. 2. AFASTAMENTO DA MULTA PREVISTA NO ART. 538, PARÁGRAFO ÚNICO, DO CPC. REEXAME DE PROVAS. DESCABIMENTO. SÚMULA 7/STJ. 3. RECURSO DESPROVIDO.
+1. Embora rejeitados os embargos de declaração, a matéria controvertida foi devidamente enfrentada pelo Colegiado de origem, que sobre ela emitiu pronunciamento de forma fundamentada, com enfoque suficiente a autorizar o conhecimento do recurso especial, não havendo que se falar em ofensa ao art. 535, II, do CPC.
+2. Na hipótese, o Tribunal estadual, soberano no exame do acervo fático-probatório dos autos, entendeu pelo evidente intuito protelatório dos embargos de declaração, razão pela qual a pretensão de afastamento da multa prevista no art. 538, parágrafo único, do CPC, encontra óbice na Súmula 7 desta Corte.
+3. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1288725/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 02/02/2016, DJe 05/02/2016).
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. REPRESENTAÇÃO COMERCIAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA N. 7/STJ. ART. 538, PARÁGRAFO ÚNICO, DO CPC. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos a teor do que dispõe a Súmula n. 7/STJ.
+2. No caso, o Tribunal de origem, com base nas provas coligidas aos autos, reconheceu o direito da recorrida ao recebimento de comissões decorrentes da representação comercial. Alterar tal conclusão demandaria o reexame de fatos e provas, inviável em recurso especial, a teor do disposto na mencionada súmula.
+3. O exame da suposta ofensa ao art. 538, parágrafo único, do CPC também atrai a incidência da Súmula n. 7 do STJ pois, ao aplicar a multa, o Tribunal a quo reconheceu o intuito manifestamente protelatório dos embargos de declaração, que não buscavam correção de vícios nem prequestionamento, mas reexame de matéria decidida.
+4. Agravo regimental a que nega provimento.
+(AgRg no AREsp 114.318/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 05/08/2014, DJe 13/08/2014)
+No que concerne ao dissídio, a jurisprudência deste Tribunal Superior firmou o entendimento de que não é possível o conhecimento do recurso especial interposto pela divergência jurisprudencial na hipótese em que o dissídio é apoiado em fatos e não na interpretação da lei. Isso porque a Súmula nº 7 do STJ também se aplica aos recursos especiais interpostos pela alínea c, do permissivo constitucional.
+À propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE REINTEGRAÇÃO DE POSSE - REQUISITOS DO ARTIGO 927 DO CPC - SÚMULA 7/STJ - IMPOSSIBILIDADE DE COMPROVAÇÃO DO DISSÍDIO JURISPRUDENCIAL POR RECLAMAR CONSIDERAÇÃO SOBRE A SITUAÇÃO FÁTICA - DECISÃO AGRAVADA MANTIDA
+1.- A revisão, em autos de Recurso especial, das conclusões levadas a efeito pelas decisões precedentes acerca da satisfação dos requisitos do artigo 927 do CPC para o provimento do pedido de reintegração de posse encontra óbice na súmula 7/STJ.
+2.- Impossível se torna o confronto entre os paradigmas e o acórdão recorrido, quando a comprovação do alegado dissenso reclama consideração sobre a situação fática própria de cada julgamento, o que não é possível de se realizar nesta via Especial, por força do enunciado 07 da Súmula desta Corte.
+3.- Agravo Regimental improvido. (AgRg no AREsp 279.116/MG, Rel. Ministro Sidnei Beneti, Terceira Turma, julgado em 23/04/2013, DJe 07/05/2013 - grifou-se).
+Destarte, a pretensão recursal não merece prosperar.
+Ante o exposto, nego provimento ao agravo.
+É o voto.
