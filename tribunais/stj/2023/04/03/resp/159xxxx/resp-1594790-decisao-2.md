@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de recurso especial, fundado no art. 105, III, "c", da Constituição, interposto por LUIZ CÉSAR SALLES GOMES e outra em face do v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"RESCISÃO DE CONTRATO - Alegação da existência de defeitos construtivos em imóvel financiado - Laudo pericial a confirmar a versão inicial - Faculdade do comprador em rejeitar a coisa afetada pelo vício oculto - rescisão do contrato e devolução das partes ao status quo ante - Moradores aconselhados pelo corpo de bombeiros a abandonar o imóvel em razão dos riscos - Circunstância que extrapola previsões contratuais ensejando a reparação pelos danos morais suportados - Fixação em R$ 10.000,00 - Majoração da verba honorária - Preliminares afastadas - Recurso dos autores provido, improvido o da ré." (fl. 1.054)
+Os recorrentes apontam dissídio jurisprudencial, pugnando pela majoração da indenização por danos morais, arbitrada em R$ 10.000,00 na origem, em razão do desfazimento da promessa de compra e venda por culpa da construtora.
+Contrarrazões às fls. 1.161/1.167.
+É o relatório.
+Deve ser rejeitado o pedido de majoração da indenização por danos morais, na espécie, uma vez que não ficou demonstrada situação excepcional que autorize a intervenção do STJ nesse tema, devendo incidir, no ponto, o óbice da Súmula n. 7/STJ.
+Com efeito, apesar de os autores terem sido obrigados a sair do imóvel às pressas, em razão do risco de desabamento do prédio, não se observa circunstância apontando a necessidade de se fixar a indenização em valor superior a R$ 10.000,00, ante a inexistência de prova de lesão extrapatrimonial mais grave (física ou psíquica).
+Incide, portanto, o entendimento já pacífico desta Corte no sentido de que, "Em regra, não é cabível na via especial a revisão do montante que foi estipulado pelas instâncias ordinárias a título de indenização por danos morais, ante a impossibilidade de reanálise de fatos e provas por este Sodalício, conforme o óbice previsto na Súmula 7/STJ" (AgInt no AREsp n. 2.072.402/BA, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 5/12/2022, DJe de 7/12/2022.).
+Ante o exposto, nego provimento ao recuso especial.
+Publique-se.
