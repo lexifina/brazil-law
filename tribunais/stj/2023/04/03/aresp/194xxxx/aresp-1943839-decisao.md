@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por EMÍLIA MARIA DOS SANTOS contra decisão que inadmitiu recurso especial em razão da incidência das Súmulas n. 5, 7 e 83 do STJ.
+Alega a parte agravante que não é caso de incidência das Súmulas n. 5 e 7 do STJ, na medida que o elemento de fato acerca da violação do art. 324 do Código Civil, qual seja, a posse do título pelo devedor está descrita no acórdão recorrido e é fato incontroverso nos autos .
+Afirma que não há falar em incidência da Súmula n. 83 do STJ, pois foi colacionado um único precedente na decisão de inadmissibilidade (AgInt no AREsp n. 1.760.685/DF, relatora Ministra Nancy Andrighi, DJe de 12/5/2021).
+Aduz que (fl. 351):
+ ..  este não é o único entendimento deste eg. STJ sobre a matéria, tendo a parte Agravante, inclusive, colacionado entendimento diverso, também deste eg. Superior Tribunal de Justiça, no mesmo sentido que é defendido no Recurso Especial.  ..
+ ..
+(AgInt no AgInt no AREsp 1397224/SP, QUARTA TURMA, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 19/19/220, DJe 26/10/2020)
+É o relatório. Decido.
+Nos termos dos arts. 932, III, do CPC e 253, parágrafo único, I, do RISTJ, não se conhecerá do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão recorrida.
+A refutação apta a infirmar a decisão agravada deve ser efetiva, específica e fundamentada, o que não ocorreu na espécie. Confiram-se os seguintes julgados: AgInt no AREsp n. 2.101.598/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 26/9/2022, DJe de 30/9/2022; e AgInt no AREsp n. 2.053.156/RS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 15/8/2022, DJe de 17/8/2022.
+Ressalte-se que nenhuma das alegações apresentadas no agravo em recurso especial constitui impugnação específica da aplicação da Súmula n. 83 do STJ, pois, segundo o entendimento deste Tribunal, exige-se a efetiva demonstração de que os julgados apontados na decisão de inadmissão do recurso especial foram superados pela jurisprudência do STJ ou de que exista distinção entre a matéria versada nos autos e aquela utilizada para justificar a aplicação da referida súmula. Nesse sentido: AgInt no AREsp n. 2.072.074/BA, relator Ministro Marco Buzzi, Quarta Turma, julgado em 23/6/2022, DJe de 2/8/2022; e AgInt no AREsp n. 1.475.222/MG, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 28/10/2019, DJe de 30/10/2019.
+Assim, considerando que a parte agravante, nas razões do agravo em recurso especial, deixou de impugnar todos os fundamentos da decisão agravada e que, no julgamento dos EAREsp n. 746.775/PR, em 19/9/2018, a Corte Especial do STJ assentou que a decisão de inadmissibilidade do recurso especial é incindível e deve ser impugnada em sua integralidade, é de rigor a aplicação, por analogia, da Súmula n. 182 do STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ante o exposto, não conheço do agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC/2015, majoro, em favor da parte ora recorrida, os honorários advocatícios de 10%, percentual arbitrado na origem, para 11% sobre o valor atualizado da causa, ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
