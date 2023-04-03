@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/03/2023 a 03/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Não participou do julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+RELATORA: MINISTRA NANCY ANDRIGHI
+Cuida-se de agravo interposto por PORTO SEGURO COMPANHIA DE SEGUROS GERAIS, contra decisão unipessoal que conheceu do agravo para conhecer parcialmente do recurso especial que interpusera e, nesta parte, deu-lhe parcial provimento, apenas para afastar a multa prevista no art. 1.026, §2º, do CPC/15.
+Ação: de cobrança de seguro obrigatório - DPVAT, ajuizada por DARLLAN DAMACENO DE OLIVEIRA, em face da agravante, fundada na indevida negativa de pagamento do seguro obrigatório.
+Acórdão: deu parcial provimento à apelação interposta pelo agravado, para impor condenar a agravante ao pagamento de R$ 5.000,00 a título de compensação por danos morais, além de majorar o valor dos honorários advocatícios para R$ 800,00, nos termos da seguinte ementa:
+RECURSO DE APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA DE SEGURO OBRIGATÓRIO DPVAT - NEGATIVA DE RECEBIMENTO PROTOCOLAR DO REQUERIMENTO ADMINISTRATIVO - RECUSA CAPRICHOSA E INJUSTIFICADA - AFRONTA AO DISPOSTO NOS ART. 5º, §2º, DA LEI Nº6.194/74, E ARTS. 32, E 33, CAPUT, AMBOS DA RESOLUÇÃO CNSP Nº 332/2015 - SENTIMENTO DE FRUSTRAÇÃO E LOGRO CAUSADO AO SEGURADO - DANO MORAL CONFIGURADO - MAJORAÇÃO DOS HONORARIOS ADVOCATICIOS - LITIGANCIA DE MÁ FÉ NÃO CONFIGURADA - RECURSO PARCIALMENTE PROVIDO.
+1. A recusa da Seguradora em receber o requerimento administrativo formulado pela vítima, entravando e retardando a satisfação da indenização securitária devida, constitui afronta ao disposto nos art. 5º, §2º, da Lei nº 6.194/74 e nos arts. 32 e 33, caput, ambos da Resolução CNSP nº 332/2015, sendo suficiente para justificar o reconhecimento de efetiva ocorrência de dano moral indenizável.
+2. O valor dos honorários advocatícios deve ser atingido a partir do concurso de algumas variáveis em atenção à regra do art. 85, §2º, do CPC, quais sejam, o grau de zelo profissional, o lugar de prestação do serviço, o tempo exigido para o serviço, a singularidade da matéria e o trabalho realizado.
+Decisão monocrática: conheceu do agravo para conhecer parcialmente do recurso especial, ante a ausência de violação do art. 1.022 do CPC/15 e a incidência da Súmula 7/STJ e, na parte conhecida , deu-lhe parcial provimento, apenas para afastar a multa prevista no art. 1.026, §2º, do CPC/15.
+Razões do agravo: Nas razões do presente recurso a agravante apresenta os seguintes argumentos:
+a) que o art. 1.022 do CPC/15 teria sido violado, em razão da omissão quanto à obrigatoriedade do recebimento de requerimento administrativo sem a documentação essencial; e
+b) que o art. 188, I, do CC/02 teria sido violado e não haveria necessidade de reexame de matéria fático probatória, visto que a recusa no recebimento de pedido administrativo não ensejaria automaticamente a condenação por dano moral.
+É O RELATÓRIO.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE. AUSÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de cobrança, fundada na indevida negativa de pagamento do seguro obrigatório.
+2. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. Agravo interno no agravo em recurso especial não provido.
+VOTO
+RELATORA: MINISTRA NANCY ANDRIGHI
+A decisão agravada conheceu do agravo para conhecer parcialmente do recurso especial, ante a ausência de violação do art. 1.022 do CPC/15 e a incidência da Súmula 7/STJ e, na parte conhecida, deu-lhe parcial provimento, apenas para afastar a multa prevista no art. 1.026, §2º, do CPC/15.
+Veja-se o que constou na decisão (e-STJ fls. 655/658):
+- Julgamento: CPC/15
+- Da violação do art. 1.022 do CPC/15
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte. A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente, acerca da ocorrência de dano moral, que teria decorrido da recusa da recepção protocolar do requerimento administrativo no balcão de atendimento, considerada prática furtiva, evasiva, embaraçosa e desleal, adotada apenas para obstar a rápida satisfação do direito à indenização devida (e-STJ fls. 543/455), de maneira que os embargos de declaração opostos pelo agravante de fato não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC/2015, incidindo, quanto ao ponto, a Súmula 568/STJ.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere à conclusão acerca da ocorrência de dano moral, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da multa por embargos de declaração protelatórios
+Da análise dos autos, percebe-se que os embargos de declaração interpostos pela parte agravante não possuem intuito protelatório, razão pela qual, de acordo com a Súmula 98/STJ, a aplicação da multa prevista no art. 1.026, § 2º, do CPC/15 deve ser afastada..
+1. Da ofensa ao art. 1.022 do CPC/15
+Inicialmente, constata-se que o artigo 1.022 do CPC/15 realmente não foi violado, porquanto o acórdão recorrido examinou todas as questões relevantes para o deslinde da controvérsia. O Tribunal de origem tratou de todos os temas oportunamente colocados pela agravante, proferindo, a partir da conjuntura então cristalizada, a decisão que lhe pareceu mais coerente.
+Assim, o Tribunal de origem, embora tenha apreciado toda a matéria posta a desate, tratou das questões alegadas pela agravante, referentes à recusa do requerimento administrativo e a consequente ocorrência de dano moral (e-STJ fls. 453/544), sob viés diverso do pretendido, o que não dá ensejo à oposição de embargos de declaração.
+Cumpre ressaltar o que restou consignado pelo Tribunal de origem quanto à questão:
+Em relação ao alegado dano moral, caracterizado, no caso, segundo o autor/apelante, em virtude de a Seguradora ter se recusado a receber o pedido administrativo de pagamento da indenização securitária, admito que essa prática furtiva, evasiva, embaraçosa e desleal, quando adotada pela Seguradora para simplesmente obstar a rápida satisfação do direito do segurado à indenização devida, configura, sem sombra de dúvida, ofensa à dignidade moral do pobre segurado/solicitante, pois, ao invés de se lhe conceder, pelo menos, o direito ao mero exame célere do pleito de pagamento administrativo, o infeliz solicitante é relegado às calendas de uma indiferença caprichosa que de pronto já lhe bate na cara a porta fechada do guichê de atendimento.
+É inegável a sensação de impotência, desrespeito, humilhação e logro que esse tipo de conduta provoca no ânimo daqueles que, já marcados no corpo e na alma pelas lesões do acidente automobilístico deque fora vítima, alimentavam a expectativa de receber da Seguradora pelo menos uma quota de atenção respeitosa à solicitação administrativa de exame e possível pagamento da indenização securitária.
+Esse tipo de situação diz respeito ao sofrimento da alma, à dor, ao constrangimento, à humilhação, enfim, atinge a personalidade.
+A comprovação de sua ocorrência, evidentemente, vai depender da verificação de cada caso concreto, observando-se que, no caso em exame, não se trata de uma situação em que o dano moral se encontra caracterizado in re ipsa, havendo necessidade de efetiva demonstração.
+O fato alegado pelo recorrente de que a recusa, não à imediata realização do pagamento, mas à simples recepção protocolar do requerimento administrativo no balcão de atendimento, lhe causou dificuldades para o recebimento do seguro, e que afronta o disposto nos art. 5º, §2º, da Lei nº 6.194/74 e nos arts. 32 e 33, caput, ambos da Resolução CNSP nº 332/2015, é suficiente para justificar o reconhecimento de efetiva ocorrência de dano moral.
+(..)
+Isto posto, dou parcial provimento ao apelo, para impor à Seguradora condenação ao pagamento de indenização por danos morais, cujo valor arbitro em R$ 5.000,00 (cinco mil reais) , acrescido de juros demora de 1% a. m. a partir da citação e correção monetária pelo INPC desde o arbitramento, e majorar o valor dos honorários advocatícios para R$ 800,00. (e-STJ, fls. 453/455)
+Assim, analisado o tema de forma expressa e coerente, com adequada motivação, não há se falar em negativa ou carência na prestação jurisdicional.
+2. Da Súmula 7/STJ
+Alterar as conclusões adotadas pelo Tribunal de origem, no que se refere à ocorrência de dano moral, que teria decorrido da simples recepção protocolar do requerimento administrativo no balcão de atendimento, considerada prática furtiva, evasiva, embaraçosa e desleal, adotada apenas para obstar a rápida satisfação do direito à indenização devida, de fato, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Cumpre ressaltar o que restou consignado pelo Tribunal de origem quanto à questão:
+Em relação ao alegado dano moral, caracterizado, no caso, segundo o autor/apelante, em virtude de a Seguradora ter se recusado a receber o pedido administrativo de pagamento da indenização securitária, admito que essa prática furtiva, evasiva, embaraçosa e desleal, quando adotada pela Seguradora para simplesmente obstar a rápida satisfação do direito do segurado à indenização devida, configura, sem sombra de dúvida, ofensa à dignidade moral do pobre segurado/solicitante, pois, ao invés de se lhe conceder, pelo menos, o direito ao mero exame célere do pleito de pagamento administrativo, o infeliz solicitante é relegado às calendas de uma indiferença caprichosa que de pronto já lhe bate na cara a porta fechada do guichê de atendimento.
+É inegável a sensação de impotência, desrespeito, humilhação e logro que esse tipo de conduta provoca no ânimo daqueles que, já marcados no corpo e na alma pelas lesões do acidente automobilístico deque fora vítima, alimentavam a expectativa de receber da Seguradora pelo menos uma quota de atenção respeitosa à solicitação administrativa de exame e possível pagamento da indenização securitária.
+Esse tipo de situação diz respeito ao sofrimento da alma, à dor, ao constrangimento, à humilhação, enfim, atinge a personalidade.
+A comprovação de sua ocorrência, evidentemente, vai depender da verificação de cada caso concreto, observando-se que, no caso em exame, não se trata de uma situação em que o dano moral se encontra caracterizado in re ipsa, havendo necessidade de efetiva demonstração.
+O fato alegado pelo recorrente de que a recusa, não à imediata realização do pagamento, mas à simples recepção protocolar do requerimento administrativo no balcão de atendimento, lhe causou dificuldades para o recebimento do seguro, e que afronta o disposto nos art. 5º, §2º, da Lei nº 6.194/74 e nos arts. 32 e 33, caput, ambos da Resolução CNSP nº 332/2015, é suficiente para justificar o reconhecimento de efetiva ocorrência de dano moral. (e-STJ, fl. 453)
+Frise-se que o STJ apenas toma os fatos conforme delineados pelo Tribunal de origem, de maneira que incursão nesta seara implicaria ofensa à referida Súmula.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno no agravo em recurso especial.
