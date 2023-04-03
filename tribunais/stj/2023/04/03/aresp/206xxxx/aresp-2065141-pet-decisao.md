@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de petição protocolizada pelo agravante, nestes autos de agravo em recurso especial, contra acórdão prolatado pela Sexta Turma deste Tribunal, ementado nos seguintes termos (e-STJ fl. 491):
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ART. 306, § 1º, INCISO II, DO CÓDIGO DE TRÂNSITO BRASILEIRO. EMBRIAGUEZ AO VOLANTE. PEDIDO DE ABSOLVIÇÃO. VIOLAÇÃO DO ART. 155 DO CÓDIGO DE PROCESSO PENAL. NÃO OCORRÊNCIA.
+1. No caso, para que fosse possível a análise do pleito absolutório, seria imprescindível o reexame dos elementos fático-probatórios dos autos, o que é defeso em âmbito de recurso especial, em virtude do disposto na Súmula n. 7/STJ. Com efeito, a instância de origem destacou a recusa do réu em realizar o teste do etilômetro e o exame de sangue, porém considerou amplamente comprovada a alteração da sua capacidade psicomotora de forma suficiente para caracterizar o crime de embriaguez ao volante, com base no termo de constatação, no exame pericial e nos depoimentos judiciais das testemunhas.
+2. Fundamentada a condenação nos elementos probatórios colhidos nas searas inquisitorial e judicial, não se verifica a arguida violação ao art. 155 do Código de Processo Penal.
+3. Agravo regimental desprovido.
+No presente pedido, requer "a conversão do feito em diligência, para que sejam encaminhados os presentes autos à promotoria de justiça atuante no caso na comarca de Ariquemes/RO, a fim de que, nos termos do que disposto no art.28-A do CPP, apresente proposta de acordo de não persecução penal" (e-STJ fl. 504).
+O pedido deduzido pelo ora requerente mostra-se manifestamente incabível, uma vez que constitui clara inovação recursal.
+Compulsando os autos, verifico que o recurso especial foi protocolizado no dia 23/9/2020, quando já estava em vigor a nova redação do art. 28-A do Código de Processo Penal, porém essa insurgência não foi oportunamente arguida.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ESTELIONATO TENTADO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. NÃO OCORRÊNCIA. ACÓRDÃO CONFIRMATÓRIO DA SENTENÇA CONDENATÓRIA. INTERRUPÇÃO DO PRAZO PRESCRICIONAL. NOVO ENTENDIMENTO STF. AGRG NO HC 176.473/RR. CONVERSÃO DO JULGAMENTO EM DILIGÊNCIA. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. AGRAVO REGIMENTAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+I - Não se conhece de agravo regimental quando o agravante deixa de impugnar os fundamentos da decisão proferida, limitando-se a repetir o recurso indeferido monocraticamente. Precedentes.
+II - O colendo Supremo Tribunal Federal, em decisão tomada em plenário, nos autos do HC 176.473/Roraima, que tem como relator o Min. Alexandre de Moraes, em 27/04/2020, fixou a seguinte tese: "Nos termos do inciso IV do artigo 117 do Código Penal, o Acórdão condenatório sempre interrompe a prescrição, inclusive quando confirmatório da sentença de 1º grau, seja mantendo, reduzindo ou aumentando a pena anteriormente imposta.".
+III - In casu, não há que se falar em conversão do julgamento em diligência para os fins de eventual proposição de acordo de não persecução penal, nos termos do art. 28-A do CPP, incluído pela Lei nº 13.964/2019, na medida em que constitui indevida inovação inovação em agravo regimental, o que não é admitido. Precedentes.
+Agravo regimental parcialmente conhecido e, nessa extensão, desprovido.
+(AgRg no AREsp n. 1.668.298/SP, relator Ministro Felix Fischer, Quinta Turma, julgado em 12/5/2020, DJe de 18/5/2020, grifei.)
+Registre-se que, da decisão colegiada proferida no âmbito deste Tribunal Superior, são cabíveis apenas embargos de declaração, embargos de divergência e recurso extraordinário para o Supremo Tribunal Federal.
+À vista do exposto, não conheço do presente pedido .
+Publique-se. Intimem-se.
