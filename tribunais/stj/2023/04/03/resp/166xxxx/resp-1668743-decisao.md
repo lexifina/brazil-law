@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto por COMPANHIA LIBRA DE NAVEGAÇÃO, com fundamentado no art. 105, III, a e c, da Constituição Federal, em desafio a acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+COBRANÇA. TRANSPORTE MARÍTIMO. Sobreestadia de contêiner. Prescrição. Ocorrência. Transcurso do prazo de um ano estabelecido no art. 22 da Lei nº 9.611/98. Sentença mantida por fundamento diverso. RECURSO DESPROVIDO.
+Nas razões do recurso especial, a parte recorrente alega, além de dissídio jurisprudencial, violação aos arts. 205 e 206, §5º, I, e a Lei do Operador de Transporte Multimodal (Lei n. 9.611/1998), em seu art. 22.
+Sustenta, em síntese, que não se aplica o prazo prescricional ânuo à hipótese dos autos, que não se enquadra na qualidade de transporte multimodal, mas, sim, unimodal.
+É o relatório. Decido.
+A irresignação não merece prosperar.
+Quanto à aplicação do prazo prescricional, em relação à sobrestadia de conteiners na modalidade multimodal, a Corte de origem assim se manifestou:
+Como o transporte multimodal de cargas compreende além do transporte em si, os serviços descritos no art. 3º, Lei nº 9.611/98 (coleta, unitização, desunitização, movimentação, armazenagem e entrega de carga ao destinatário, entre outros serviços correlatos que forem contratados entre a origem e o destino.), temos que as ações para cobrança da demurrage de contêineres, representa ação de não cumprimento de responsabilidades decorrentes do transporte multimodal, prescrevendo, portanto, no prazo de um ano, não de três anos (art. 206, §3º, VI, CC), tampouco de cinco anos (art. 206, §5º, I, CC) ) e, em razão das hipóteses anteriores, jamais em dez anos (art. 205, CC).
+A lei especial, na hipótese, prevalece sobre as normas gerais do Código Civil, que tem aplicação subsidiária, havendo de incidir o princípio de que legis especialis per generalis non derogat, de forma que " .. sempre que para um caso específico houver norma jurídica própria (especial), não se aplica o disposto em norma de âmbito de incidência mais largo (geral)" (Fábio Ulhoa Coelho, Curso de Direito Civil, vol. 1, Ed. Saraiva, p. 72).
+(..0
+Portanto, incide no caso o prazo prescricional de 01 (um) ano previsto no artigo 22 da Lei 9.611/98. Assim, considerando que os contêineres foram devolvidos em setembro e outubro de 2010 (fls. 13/14) e a presente ação ajuizada somente em 05/11/2012, à evidência operou-se a prescrição.
+Sobre o tema, tem-se que a jurisprudência da Segunda Seção desta Corte se firmou no sentido de que, "para as ações ações fundadas no não cumprimento das responsabilidades decorrentes do transporte multimodal, o prazo prescricional, apesar da revogação do Código Comercial, permanece sendo de 1 (um) ano, haja vista a existência de expressa previsão legal nesse sentido (art. 22 da Lei nº 9.611/1998)." (REsp n. 1.819.826/SP, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 28/10/2020, REPDJe de 12/11/2020, DJe de 3/11/2020.).
+Sendo assim, estando a decisão de acordo com a jurisprudência desta Corte, o recurso especial encontra óbice na Súmula 83/STJ, pelas alíneas "a" e "c" do permissivo constitucional.
+Ademais, a pretensão de modificar o entendimento firmado, quanto à modalidade contratual - unimodal ou multimodal - demandaria o revolvimento do acervo fático-probatório e análise de cláusulas contratuais, o que é inviável em sede de recurso especial, nos termos das Súmulas 7 e 5 do STJ. A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. SOBRE-ESTADIA DE CONTÊINERES. INEXISTÊNCIA DE OFENSA AO ART. 1.022 DO CPC/2015. MODALIDADE CONTRATUAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULAS N. 5 E 7 DO STJ. JUNTADA DE DOCUMENTOS NOVOS E TRADUÇÃO. SÚMULA N. 83/STJ. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos ou interpretação de cláusula contratual, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+3. No caso, o Tribunal de origem consignou expressamente que a relação jurídica estabelecida entre os contratantes versava apenas sobre transporte marítimo, não sendo transporte multimodal de cargas, motivo por que não deveria incidir o prazo de prescrição previsto no art. 22 da Lei n. 9.611/1998.
+4. "É admitida a juntada de documentos novos após a petição inicial e a contestação desde que: (i) não se trate de documento indispensável à propositura da ação; (ii) não haja má fé na ocultação do documento; (iii) seja ouvida a parte contrária (art.
+398 do CPC)" (AgRg no AREsp n. 435.093/SP, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 1º/8/2014). Incidência da Súmula 83/STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.657.018/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 19/4/2018, DJe de 26/4/2018.)
+Com essas considerações, conclui-se que o recurso não merece prosperar.
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se.
