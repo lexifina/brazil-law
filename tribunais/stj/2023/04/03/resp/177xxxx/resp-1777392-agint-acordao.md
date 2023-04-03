@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/03/2023 a 03/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+DIREITO CIVIL. PLANO DE SAÚDE. AGRAVO INTERNO NO RECURSO ESPECIAL. NEGATIVA INDEVIDA DE COBERTURA. CIRURGIA DE EMERGÊNCIA. EXIGÊNCIA DE CHEQUE CAUÇÃO. DANOS MORAIS. CABIMENTO. SÚMULA 83/STJ. AFASTAMENTO. IMPOSSIBILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. "Na hipótese em que se pretende impugnar a incidência da Súmula nº 83 do STJ, deveria a parte agravante demonstrar que os precedentes indicados na decisão agravada não se aplicavam ao caso, ou então trazer precedentes contemporâneos ou supervenientes aos referidos na decisão agravada, de forma a demonstrar que outra é a orientação jurisprudencial nesta Corte Superior, ou, que a divergência é atual, o que deixou de fazer" (AgInt no AREsp 885.406/MS, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 20/03/2018, DJe de 03/04/2018).
+2. Na hipótese, a fim de afastar o referido óbice, a agravante colacionou ementas de acórdãos anteriores aos apresentados na decisão agravada, sem sequer identificar sua origem ou proceder ao seu cotejo analítico, não se tendo desincumbido de demonstrar, portanto, a existência de orientação jurisprudencial divergente nesta Corte Superior acerca da matéria, não merecendo reparo a decisão agravada.
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Cuida-se de agravo interno interposto por HAPVIDA ASSISTÊNCIA MÉDICA S/A contra decisão de fls 287/296, que negou provimento ao recurso especial sob os seguintes fundamentos:
+(a) ao concluir pela ocorrência de danos morais em decorrência da negativa indevida de cobertura de cirurgia de emergência pelo plano de saúde e da exigência de caucionamento pelo hospital, o eg. TJ-CE o fez com arrimo na jurisprudência pacificada desta Corte, incidindo o óbice da Súmula 83/STJ no caso; e
+(b) considerando o contexto fático delineado pelo acórdão recorrido, a quantia fixada a título de danos morais não se mostra exorbitante ou desarrazoada, a ensejar a reanálise por esta Corte.
+Nas razões do presente recurso, por sua vez, a agravante defende a inaplicabilidade da Súmula 83/STJ, porque "a divergência é relativa a licitude da negativa com base no Contrato firmado antes da Lei nº 9.656/1998 e redigido em respeito ao CC/2002 e o CDC. Algo que tem seu lastro jurisprudencial" (fl. 303).
+Para demonstrar o apontado "lastro jurisprudencial", colaciona ementas do REsp 53.321/RJ (Relator Ministro Nilson Naves, Terceira Turma, DJ de 24/11/1997) e de outros dois acórdãos estaduais sem sequer apontar sua origem.
+Ao final, requer a reforma da decisão agravada ou o julgamento do recurso pela Turma Julgadora.
+Devidamente intimada, a parte agravada não apresentou impugnação (fl. 381).
+É o relatório.
+EMENTA
+DIREITO CIVIL. PLANO DE SAÚDE. AGRAVO INTERNO NO RECURSO ESPECIAL. NEGATIVA INDEVIDA DE COBERTURA. CIRURGIA DE EMERGÊNCIA. EXIGÊNCIA DE CHEQUE CAUÇÃO. DANOS MORAIS. CABIMENTO. SÚMULA 83/STJ. AFASTAMENTO. IMPOSSIBILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. "Na hipótese em que se pretende impugnar a incidência da Súmula nº 83 do STJ, deveria a parte agravante demonstrar que os precedentes indicados na decisão agravada não se aplicavam ao caso, ou então trazer precedentes contemporâneos ou supervenientes aos referidos na decisão agravada, de forma a demonstrar que outra é a orientação jurisprudencial nesta Corte Superior, ou, que a divergência é atual, o que deixou de fazer" (AgInt no AREsp 885.406/MS, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 20/03/2018, DJe de 03/04/2018).
+2. Na hipótese, a fim de afastar o referido óbice, a agravante colacionou ementas de acórdãos anteriores aos apresentados na decisão agravada, sem sequer identificar sua origem ou proceder ao seu cotejo analítico, não se tendo desincumbido de demonstrar, portanto, a existência de orientação jurisprudencial divergente nesta Corte Superior acerca da matéria, não merecendo reparo a decisão agravada.
+3. Agravo interno a que se nega provimento.
+VOTO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Inicialmente, cumpre ressaltar que o fundamento da decisão ora agravada, acerca da impossibilidade de revisão do quantum indenizatório nesta instância, não foi impugnado nas razões do agravo interno. Dessa forma, à falta de contrariedade, permanecem incólumes o motivos expendidos pela decisão recorrida nesse sentido.
+No mais, a irresignação não merece prosperar, pois a decisão agravada está em consonância com a jurisprudência pacificada desta eg. Corte de Justiça.
+Conforme relatado, a decisão agravada negou provimento ao recurso especial sob o argumento de que a condenação da agravante em pagamento de danos morais em decorrência da negativa indevida de cobertura de cirurgia de emergência pelo plano de saúde e da exigência de caucionamento pelo hospital se deu em consonância com a jurisprudência pacificada do STJ, incidindo o óbice da Súmula 83/STJ no caso.
+Nos termos da jurisprudência desta Corte Superior, sendo inadmitido o apelo especial com fundamento na Súmula 83/STJ, cabe ao agravante, nas razões do agravo interno, a fim de demonstrar que os precedentes utilizados na fundamentação da decisão agravada não se aplicam ao caso ou foram superados, indicar precedentes contemporâneos ou supervenientes aos indicados na decisão agravada, procedendo ao cotejo analítico entre eles, providência da qual a parte agravante não se desincumbiu. Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA Nº 182 DO STJ. AGRAVO NÃO CONHECIDO.
+1. O presente agravo interno foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O agravo interno não impugnou nenhuma das razões da decisão agravada, pois não refutou, de forma fundamentada, a aplicação das Súmulas nºs 284 do STF e 83 do STJ, ao caso. Incidência da Súmula nº 182 do STJ.
+3. Na hipótese em que se pretende impugnar a incidência da Súmula nº 83 do STJ, deveria a parte agravante demonstrar que os precedentes indicados na decisão agravada não se aplicavam ao caso, ou então trazer precedentes contemporâneos ou supervenientes aos referidos na decisão agravada, de forma a demonstrar que outra é a orientação jurisprudencial nesta Corte Superior, ou, que a divergência é atual, o que deixou de fazer.
+4. Agravo interno não conhecido."
+(AgInt no AREsp 885.406/MS, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 20/03/2018, DJe de 03/04/2018, g.n.)
+"AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO MONITÓRIA - PRESCRIÇÃO - TERMO INICIAL - ENTRADA EM VIGOR DO NOVO CÓDIGO CIVIL - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DA RÉ.
+1. "É inviável o agravo do art. 545 do CPC/73 que deixa de atacar especificamente os fundamentos da decisão agravada" (Súmula 182/STJ). Inteligência, outrossim, do disposto no artigo 1.021, § 1º, do NCPC.
+2. "Quando o inconformismo excepcional não é admitido com fundamento no enunciado n. 83 da Súmula do Superior Tribunal de Justiça, a impugnação deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida, demonstrando-se que outro é o entendimento jurisprudencial desta Corte. (Cf. AgRg nos EDcl no REsp 1494189/DF, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 23/02/2016, DJe 03/03/2016)
+3. Agravo interno não conhecido."
+(AgInt no AREsp 816.995/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 14/02/2017, DJe de 20/02/2017, g.n.)
+Na espécie, no entanto, a fim de demonstrar o apontado "lastro jurisprudencial" que autorizaria o provimento de seu recurso especial, a agravante colacionou uma ementa de acórdão do STJ julgado em 1997, portanto, muito anterior aos julgados utilizados na decisão agravada, e outras duas ementas de julgados de 2004 e 2016 sem sequer apontar sua origem. Tampouco procedeu ao cotejo analítico entre eles a fim de demonstrar sua aplicabilidade ao caso.
+Nesse contexto, não tendo a parte agravada se desincumbido de demonstrar a existência de orientação jurisprudencial divergente nesta Corte Superior, não merece reparo a decisão agravada, que deve ser mantida por seus próprios fundamentos.
+Ante o exposto, nega-se provimento ao agravo interno.
+É como voto.
