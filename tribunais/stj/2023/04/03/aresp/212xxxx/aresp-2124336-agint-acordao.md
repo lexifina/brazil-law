@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/03/2023 a 03/04/2023, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por CARLOS JORGE GONCALVES contra decisão monocrática de minha relatoria, por meio da qual não conheceu do agravo em recurso especial (fls. 606-615).
+Extrai-se dos autos que o recurso especial foi interposto, com fundamento no art. 105, inciso III, alínea "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO cuja ementa guarda os seguintes termos (fl. 309):
+CONSTITUCIONAL - ASSISTÊNCIA SOCIAL - BENEFÍCIO DEPRESTAÇÃO CONTINUADA AO IDOSO E À PESSOA COM DEFICIÊNCIA - REQUISITOS LEGAIS
+.1. O benefício de prestação continuada, de caráter não contributivo, foi regulamentado pela Lei Federal nº 8.742/93, que traz os requisitos necessários à implantação.
+2. Tanto no caso do idoso (maior de 65 anos) quanto no da pessoa com deficiência exige-se prova da impossibilidade de prover a própria subsistência ou de tê-la provida pela família. O dever de assistência do Estado é, portanto, subsidiário, e não afasta a obrigação de amparo mútuo familiar. Nesse sentido, a jurisprudência específica da Sétima Turma desta E. Corte (ApCiv 0003058-98.2019.4.03.9999, j. 22/10/2020, Dje 03/11/2020,Rel. Des. Fed. PAULO SERGIO DOMINGUES).
+3. Por conseguinte, conclui-se que a referência quantitativa expressa no §3º, do artigo 20, da LOAS, pode ser considerada como um dos critérios para a aferição de miserabilidade, sem a exclusão de outros.4. Não deve ser considerado, no cálculo da renda familiar, o benefício no valor de um salário mínimo recebido por deficiente (artigo 34, parágrafo único, da Lei Federal nº. 10.741/03) ou idoso, conforme jurisprudência do Superior Tribunal de Justiça, em regime de julgamentos repetitivos (1ªSeção, REsp nº 1.355.052/SP, j. 25/02/2015, DJe 05/11/2015, Rel. Min. B E N E D I T O G O N Ç A L V E S ).
+5. Todavia, é necessário consignar que a aludida exclusão do rendimento de deficiente ou idoso não importa na automática concessão do benefício, devendo serem considerados os demais aspectos socioeconômicos e familiares do requerente .
+6. No caso concreto, o requisito socioeconômico não foi preenchido. O benefício assistencial não se presta à complementação da renda familiar, mas, sim, ao socorro daqueles que não possuem condições de manter ou ver mantidos pelo grupo familiar os padrões mínimos necessários à subsistência .
+7. Apelação provida.
+Rejeitados os embargos de declaração opostos (fls. 444-454).
+Nas razões do presente agravo interno, a agravante apresenta as seguintes razões, em síntese: a) "o que aqui se postulou foi violação a lei infraconstitucional e a ofensa a princípios constitucionais foi alinhavada tão-só e somente como argumentação jurídica e reforço aos argumentos, mas houve o levantamento de ofensa a lei e a jurisprudência pátria"; b) com relação a falta de prequestionamento, "o mesmo fora feito inclusive em seara de embargos de declaração"; c) "não há impedimento da Súmula 7/STJ, porquanto o que se pretende é uma interpretação jurídica (valoração jurídica) do tema calcado no Recurso Repetitivo n. 185"; d) com relação a ofensa a jurisprudência, "há evidente similitude fática com o Acórdão paradigmático trazido para cotejo, pois o Tribunal "a quo" utilizando os critérios rígidos da lei, não aplicou jurisprudência iterativa no sentido da flexibilização do critério legal, inclusive em citado e conhecido recurso repetitivo, com a devida e máxima "venia"" (fls. 618-623).
+Pugna, por fim, pelo provimento do agravo interno.
+Sem contrarrazões (fl. 630).
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ.
+O agravo interno não merece conhecimento, porquanto os fundamentos utilizados na decisão recorrida para não conhecer do recurso especial não foram objeto de impugnação específica no recurso interno, inviabilizando o seu conhecimento. Incidência da Súmula n. 182/STJ. Precedentes.
+Agravo interno não conhecido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+A irresignação não merece conhecimento.
+O agravo em recurso especial não foi conhecido pelos seguintes fundamentos: incidência da Súmula n. 182/STJ, pois a parte agravante não teria impugnado todos os fundamentos da decisão agravada.
+Acrescentou-se, ainda, que mesmo que superada a incidência da Súmula n. 182/STJ, o recurso especial esbarraria nas Súmulas n. 282 e n. 356 do STF (arts. 223 e 434 do CPC), e na Súmula n. 7/STJ (quanto aos requisitos para concessão do benefício assistencial e divergência jurisprudencial).
+Verifica-se que a parte agravante nada alegou quanto ao fundamento de não conhecimento do agravo em recurso especial, qual seja, incidência da Súmula n. 182/STJ.
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ.
+Nesse sentido, confiram-se precedentes:
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PEDIDO DE SUSTENTAÇÃO ORAL EM AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. IMPOSSIBILIDADE. JULGAMENTO MONOCRÁTICO. INEXISTÊNCIA DE VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO INFIRMADOS. SÚMULA N. 182 DO STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. O STJ já assentou que "O cotejo entre o art. 994 do CPC e o § 2º-B do art. 7º da Lei n. 8.906/1994, inserido pela Lei n. 14.365/2022 evidencia que a novel lei não previu a possibilidade de sustentação oral em recursos interpostos contra decisão monocrática que julga o mérito ou não conhece de agravo de instrumento, de embargos de declaração e de agravo em especial ou extraordinário, uma vez que esses recursos não estão descritos no mencionado § 2º-B do art. 7º da Lei n. 8.906/1994" (EDcl nos EDcl no AgInt no AREsp n. 1.829.808/SP, Rel. Ministro Luis Felipe Salomão, 4ª T., DJe 28/6/2022).
+2. Não se caracteriza a aduzida ofensa ao princípio da colegialidade diante da existência de previsão legal e regimental para que o relator julgue monocraticamente o agravo em recurso especial, calcado em jurisprudência dominante do Superior Tribunal de Justiça, circunstância ocorrida nos autos. Ademais, segundo entendimento pacífico neste Superior Tribunal, o julgamento de agravo regimental torna superada a alegação de infringência do referido postulado, haja vista a devolução da matéria ao órgão colegiado.
+3. É ônus do agravante impugnar os fundamentos da decisão agravada. Uma vez que, no regimental, a defesa não infirmou todas as razões pelas quais foi negado provimento ao seu recurso especial, incide, neste momento, por analogia, a Súmula n. 182 do STJ.
+4. Agravo regimental não conhecido. (AgRg no AgRg no AREsp n. 1.739.428/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 25/10/2022, DJe de 28/10/2022.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. TRÁFICO DE DROGAS. CAUSA REDUTORA. AFASTAMENTO. REGISTROS DE ATOS INFRACIONAIS. FUNDAMENTAÇÃO INIDÔNEA.
+1. A ausência de impugnação específica aos fundamentos da decisão combatida, ônus da parte recorrente, atrai a incidência dos arts. 1.021, § 1º, do CPC; 253, parágrafo único, I, do RISTJ, e da Súmula 182 desta Corte, aplicável por analogia.
+2. Tendo o Tribunal de origem afastado a aplicação do tráfico privilegiado com base em registros de atos infracionais praticados na juventude, cabível a concessão de habeas corpus de ofício, para a concessão do benefício, diante da flagrante ilegalidade detectada, nos termos do mais recente entendimento da Sexta Turma desta Corte.
+3. Agravo regimental não conhecido. Concessão de habeas corpus de ofício. Pena definitiva (re) fixada em 1 ano, 11 meses e 10 dias de reclusão e 194 dias-multa, em regime aberto, com substituição.
+(AgRg no AREsp n. 2.183.883/SP, relator Ministro Olindo Menezes (desembargador convocado do TRF 1ª Região), Sexta Turma, julgado em 25/10/2022, DJe de 28/10/2022.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO. SUSTENTAÇÃO ORAL. NÃO CABIMENTO. PRINCÍPIO DA DIALETICIDADE. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Conforme se extrai do art. 7.º, § 2.º-B, do Estatuto da Ordem dos Advogados do Brasil, inserido pela Lei n. 14.365/22, o recurso interposto contra decisão que não conhecer de agravo em recurso especial não foi incluído entre as espécies recursais que admitem a sustentação oral.
+2. O princípio da dialeticidade impõe ao Agravante o ônus de demonstrar o desacerto da decisão agravada. No caso, nas razões do agravo regimental, o Recorrente não rebateu, especificamente, o fundamento da decisão recorrida. Aplicação da Súmula n. 182/STJ.
+3. Agravo regimental não conhecido. (AgRg no AREsp n. 2.192.467/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 18/10/2022, DJe de 24/10/2022.)
+Ante o exposto, não conheço do agravo interno.
+É como penso. É como voto.
