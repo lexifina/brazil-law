@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/03/2023 a 03/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto por FRANCISCO JOSÉ NUNES FERREIRA contra a decisão mediante a qual neguei provimento a seu agravo em recurso especial.
+O acórdão recorrido tem a seguinte ementa:
+DIREITO PROCESSUAL CIVIL. AÇÃO ORDINÁRIA DE NULIDADE DE CLÁUSULAS CONTRATUAIS. COMPRA E VENDA DE IMÓVEL ENTRE PESSOAS JURÍDICA E NATURAL. INEXISTÊNCIA DA FIGURA DO "FORNECEDOR" NA RELAÇÃO JURÍDICA (ART. 3º DO CDC). VENDEDOR QUE NÃO SE ENQUADRA NO CONCEITO DE CONSTRUTOR OU INCORPORADOR. NÃO INCIDÊNCIA DO CÓDIGO DE DEFESA DO CONSUMIDOR. EXISTÊNCIA DE CLÁUSULA COMPROMISSÓRIA. ALEGAÇÃO DO RÉU NA INTERPOSIÇÃO DA CONTESTAÇÃO (ART. 337, INCISO X, DO CPC/15). COMPETÊNCIA DO JUÍZO ARBITRAL. CONFIGURADA. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA. RECURSO CONHECIDO E PROVIDO PARA JULGAR EXTINTO O FEITO, SEM RESOLUÇÃO DO MÉRITO, NOS TERMOS DO ART. 485, INCISO VII, DO CPC/15.
+1. Inicialmente, a empresa apelante, José Odemilson Fernandes Moura - Me (Mm Gesso), defendeu a necessidade de extinção do feito por existir, no contrato celebrado, cláusula de compromisso arbitral, devendo ser declarada a incompetência do juízo ante o foro de eleição convencionado livremente entre as partes quando da assinatura do contrato.
+2. Para averiguar a validade da cláusula compromissória (fl. 25), é necessário analisar, primeiramente, a aplicabilidade (ou não) do Código Consumerista (Lei nº 8.078/90). No caso em análise, constata-se a ausência de um dos elementos subjetivos da relação de consumo, ante a inexistência de fornecedor de produto/serviço, conforme preceitua o supracitado art. 3º, vez que, de acordo com a Declaração de Firma Mercantil Individual(fls. 78/79), a empresa apelante, José Odemilson Fernandes Moura - Me (Mm Gesso), tem como atividade principal a comercialização de gesso. Inaplicabilidade do CDC.
+3. Verifica-se, conforme já transcrito neste voto, a existência do item 6.7 do instrumento contratual (fl. 25), no qual as partes acordaram que todas as controvérsias que devirem do contrato deverão ser resolvidas por arbitragem, observando-se o regulamento da 1ª Câmara de Mediação e Arbitragem do Ceará- CMA/CE.
+4. Para tanto, a Lei 9.037/1996 (Lei de Arbitragem) é clara ao estabelecer que somente "As pessoas capazes de contratar poderão valer-se da arbitragem para dirimir litígios relativos a direitos patrimoniais disponíveis." (art. 1º), podendo ".. submetera solução de seus litígios ao juízo arbitral mediante convenção de arbitragem, assim entendida a cláusula compromissória e o compromisso arbitral." (art. 3º) 5. Verifica-se que, desde a interposição da peça de defesa, a empresa promovida, ora apelante, informa a existência da convenção de arbitragem, conforme determina o art. 337, inciso X, do CPC/15, sendo esta uma das hipóteses de extinção do processo, sem resolução do mérito, conforme preceitua o inciso VII do art. 485 do CPC/15.6. Ad argumentandum tantum, a flexibilização da aludida cláusula só aconteceria se estivéssemos diante de um contrato acobertado pelo código consumerista, o que não é o caso conforme fundamentação já despendida no início deste decisum.
+7. Recurso conhecido e provido. Sentença reformada para julgar extinto o feito, sem resolução do mérito, nos termos do art. 485,inciso VII, do CPC/15.
+O agravante afirma ser incontroverso o error in procedendo e a nulidade do acórdão recorrido. Faz considerações sobre a nulidade da cláusula compulsória de arbitragem e a competência do Poder Judiciário para decidir a questão.
+Em sua impugnação, JOSÉ ODEMÍLSON FERNANDES MOURA - ME - alega a ausência de razões específicas que poderiam contrapor o acórdão recorrido.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. NULIDADE DE CLÁUSULAS CONTRATUAIS. FUNDAMENTAÇÃO DEFICIENTE.
+1. Os fundamentos do acórdão proferido pelo Tribunal de origem não foram devidamente impugnados, o que atrai a incidência da Súmula 283 do Supremo Tribunal Federal.
+2. Não se conhece do recurso especial quando a deficiência de sua fundamentação impedir a exata compreensão da controvérsia (Súmula 284 do STF).
+3. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI(Relatora): O agravo não prospera.
+Com efeito, não estão expostas as razões pelas quais se entende que cada dispositivo enumerado foi contrariado. Prejudicada a compreensão da controvérsia, é inviável o recurso especial, de acordo com a Súmula 284/STF.
+Além disso, nem sequer é feita menção às razões do acórdão recorrido a fim de explicitar o motivo pelo qual não deveriam prevalecer. Aplica-se ao caso também a Súmula 283/STF.
+Ressalte-se, ademais, que o acórdão recorrido se manifestou de forma suficiente e motivada sobre o tema em discussão nos autos. Ademais, não está o órgão julgador obrigado a se pronunciar sobre todos os argumentos apontados pelas partes, a fim de expressar o seu convencimento. No caso em exame, o pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado, encontra-se objetivamente fixado nas razões do acórdão recorrido. Desse modo, também não se verifica a alegada violação dos arts. 489 e 1022 do CPC.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
