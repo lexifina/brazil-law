@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/03/2023 a 03/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. DÉBITO CONDOMINIAL. PENHORA QUE RECAI SOBRE BENS DIVERSOS DO IMÓVEL GERADOR DA DÍVIDA. POSSIBILIDADE. NATUREZA DA OBRIGAÇÃO QUE NÃO ALTERA A EXTENSÃO PROPTER REM DA RESPONSABILIDADE PATRIMONIAL. COISA JULGADA. FUNDAMENTO AUTÔNOMO E SUFICIENTE À MANUTENÇÃO DO ACÓRDÃO RECORRIDO NÃO IMPUGNADO NO RECURSO ESPECIAL. SÚMULA 283/STF. AGRAVO INTERNO DESPROVIDO.
+1. A ausência de impugnação, nas razões do recurso especial, de fundamento central e suficiente para manter o acórdão recorrido atrai o óbice da Súmula 283 do STF, segundo a qual: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+O SENHOR MINISTRO RAUL ARAÚJO (Relator):
+Trata-se de agravo interno interposto por ADBENS - ADMINISTRADORA E PARTICIPAÇÕES DE BENS EIRELI contra decisão que conheceu do agravo para negar provimento ao recurso especial, em razão da existência de fundamento autônomo e suficiente à manutenção do v. acórdão recorrido não impugnado no recurso especial (Súmula 283/STF).
+Nas razões do agravo interno, sustenta que não é o caso de incidência da Súmula 283/STF, pois "a Recorrente atacou especificamente o entendimento equivocado do Tribunal de Justiça do Estado do Paraná, quanto à aplicação do art. 789 do CPC e 391 do CC. Veja que a Recorrente deixou amplamente esclarecido a natureza da suposta dívida, restando claro que a mesma é de natureza propter rem, ao passo que qualquer ato expropriatório deve recair primeiro sobre o imóvel que originou-se a cobrança. Com efeito, deixou claro que, sem qualquer base e ignorando a ordem judicial emanada das decisões proferidas no processo em evidencia, pugnou pela penhora de bens da empresa ora Recorrente" (fl. 279).
+Ao final, repisa as razões de mérito já deduzidas em sede de recurso especial.
+Devidamente intimado, o agravado não apresentou impugnação do agravo interno (certidão de fl. 286).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. DÉBITO CONDOMINIAL. PENHORA QUE RECAI SOBRE BENS DIVERSOS DO IMÓVEL GERADOR DA DÍVIDA. POSSIBILIDADE. NATUREZA DA OBRIGAÇÃO QUE NÃO ALTERA A EXTENSÃO PROPTER REM DA RESPONSABILIDADE PATRIMONIAL. COISA JULGADA. FUNDAMENTO AUTÔNOMO E SUFICIENTE À MANUTENÇÃO DO ACÓRDÃO RECORRIDO NÃO IMPUGNADO NO RECURSO ESPECIAL. SÚMULA 283/STF. AGRAVO INTERNO DESPROVIDO.
+1. A ausência de impugnação, nas razões do recurso especial, de fundamento central e suficiente para manter o acórdão recorrido atrai o óbice da Súmula 283 do STF, segundo a qual: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+2. Agravo interno a que se nega provimento.
+VOTO
+O SENHOR MINISTRO RAUL ARAÚJO (Relator):
+Como dito na decisão agravada, a parte ora agravante aponta em seu recurso especial violação dos arts. 391 do Código Civil de 2002 e 789 do Código de Processo Civil de 2015, bem como divergência jurisprudencial, sustentando, em síntese, que "Não ficam dúvidas, portanto que a penhora deve recair primeiro sobre o imóvel que origem ao débito, em razão da natureza que a dívida se refere. Qualquer cenário diferente é incompatível com o nosso ordenamento jurídico e deve ser repudiado. Em razão disso, a penhora de outros bens que pertencem à Recorrente deve ser afastada, por clara inobservância legal, sendo inaplicável para tanto o teor do que regula o art. 789 do CPC e também o art. 391 CC" (fl. 185).
+Todavia, o eg. Tribunal a quo consigna que não é possível a penhora do bem gerador da dívida, o qual a recorrente vendeu a terceiro, sob pena de afronta a coisa julgada, formada nos autos nº 0025675-05.2014.8.16.0017.
+A propósito, trecho elucidativo do aresto vergastado:
+"Outrossim, percebe-se que a pretensão de que a penhora recaia sobre o bem gerador da dívida, iria de encontro ao decidido nos autos nº o qual a recorrente vendeu a terceiro 0025675-05.2014.8.16.0017, no qual referido terceiro adquirente obteve a procedência da sua pretensão em face da ora agravante para que ela fosse determinada a "realizar os atos necessários para a transferência do imóvel registrado sob a matrícula nº 39.309 do 1º Ofício do Registro de Imóveis de Maringá, fazendo com que ele esteja desonerado de qualquer dívida surgida antes da data da aquisição (21/3/2014), sob pena de aplicação de multa diária no valor de R$ 300,00, limitado seu valor total ao preço pactuado pelo imóvel."
+Inclusive, oportuno destacar do Acórdão relativo à apelação interposta contra citada sentença, no qual a ora recorrente é mencionada como apelante, transitado em julgado." (fl. 111, g.n.).
+Contudo, tal fundamento, autônomo e suficiente à manutenção do v. acórdão recorrido, ou seja, a impossibilidade de a pretensão de que a penhora recaia sobre o bem gerador da dívida, o qual a recorrente vendeu a terceiro, iria de encontro ao decidido nos autos nº 0025675-05.2014.8.16.0017, o que afrontaria decisão com trânsito em julgado, não foi devidamente impugnado pela parte recorrente, convocando, na hipótese, a incidência da Súmula 283/STF, segundo a qual "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Diante do exposto, nega-se provimento ao agravo interno.
+É como voto.
