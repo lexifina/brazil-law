@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de recurso especial, fundado no art. 105, III, "a", da Constituição, interposto por JOSÉ ASSIMÁRIO PINTO E OUTROS em face do v. acórdão proferido pelo eg. Tribunal de Justiça do Estado da Paraíba, assim ementado:
+"EMBARGOS À EXECUÇÃO. COBRANÇA DE HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS. CONTRATO COM PREVISÃO DE CLÁUSULAS CONDICIONADAS. ACORDO FIRMADO NO DECORRER DA DEMANDA. NECESSIDADE DE ADEQUAÇÃO DA INTERPRETAÇÃO DAS OBRIGAÇÕES CONTRATUAIS. EXCESSO DE EXECUÇÃO. VERIFICADO. MANUTENÇÃO DA SENTENÇA. DESPROVIMENTO DO APELO.
+- Tendo em vista de que os honorários advocatícios contratuais foram estabelecidos na base do que fosse obtido do valor do êxito e, mais adiante, operando-se o acordo sem a participação dos contratados, não repercute sobre o pacto o valor dos honorários." (fl. 225)
+Os recorrentes apontam ofensa ao art. 20, § 3º, do CPC/73, sustentando, em síntese, ter decaído minimamente do pedido, uma vez que, "do pedido formulado ab initio a aqui Recorrida foi sucumbente em sua maior parte, posto que não retirou do valor devido aos Recorrentes mais do que 50% (cinquenta por cento), sendo, portanto, sucumbente na demanda, inexistindo até que se falar em sucumbência recíproca" (fl. 276).
+Contrarrazões às fls. 288/294.
+É o relatório.
+O eg. TJPB manteve a sucumbência exclusiva dos recorrentes, então exequentes, tendo em vista que os pedidos dos embargos à execução foram acolhidos integralmente, não se podendo cogitar, portanto, a sucumbência dos executados.
+Todavia, consoante copiosa jurisprudência do STJ, não se admite, em sede de recurso especial, o reexame do quanto cada uma das partes restou vencida ou vencedora na demanda, pois implica juízo fático proibido pela Súmula n. 7/STJ. Nesse sentido: "A jurisprudência desta Corte é firme no sentido de não ser possível a apreciação do quantitativo em que as partes saíram vencedoras ou vencidas na demanda, bem como da existência de sucumbência mínima ou recíproca e a fixação do respectivo quantum, por implicar incursão no suporte fático-probatório dos autos, esbarrando no óbice da Súmula 7 deste Sodalício." (AgInt no AREsp n. 1.723.236/SP, desta relatoria, Quarta Turma, julgado em 22/3/2021, DJe de 13/4/2021.).
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se.
