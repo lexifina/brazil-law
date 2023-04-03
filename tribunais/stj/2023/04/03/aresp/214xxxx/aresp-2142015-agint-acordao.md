@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/03/2023 a 03/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO SÉRGIO KUKINA: Trata-se de agravo interno manejado por Márcio Meirelles Ferreira e outros contra a decisão de fls. 2.591/2.593, por meio da qual a Presidência desta Corte não conheceu do agravo em recurso especial, por entender que incide, na espécie, a Súmula 182/STJ (tendo em vista que não teriam sido impugnadas a ausência de afronta ao art. 1.022 do CPC e a aplicação dos anteparos sumulares 211 e 7/STJ).
+Os agravantes sustentam que, "por ocaisão do recurso de agravo em recurso especial enfrentaram TODAS as questões suscitadas pela decisão que na ocasião inadmitiu o recurso especial" (fl. 2.607). Ademais, repetem, em essência, as alegações veiculadas na petição de agravo em recurso especial.
+Devidamente intimado, o Ministério Público do Estado do Rio de Janeiro pugnou pelo desprovimento do agravo (fls. 2.631/2.635).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO A TODOS OS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DO APELO RARO. INCIDÊNCIA DA SÚMULA 182/STJ.
+1. As razões do agravo em recurso especial devem atacar especificamente, de forma particularizada, todos os fundamentos da decisão denegatória de admissibilidade do apelo raro.
+2. Caso concreto em que a parte agravante não atendeu a esse encargo processual. Incidência, na espécie, da Súmula 182/STJ.
+3. Agravo interno desprovido.
+VOTO
+O SENHOR MINISTRO SÉRGIO KUKINA (Relator): De acordo com o art. 1.021, § 1º, do CPC/2015, constitui ônus da parte agravante impugnar especificamente os fundamentos da decisão combatida, isto é, deve deixar evidente o desacerto do decisum, com a consequente desconstituição das razões de decidir adotadas no julgamento singular.
+Nessa esteira, a Corte Especial do STJ, na assentada de 19/9/2018, consolidou o entendimento de que incumbe ao agravante infirmar, especificamente, a totalidade do conteúdo da decisão que não admitiu o processamento do recurso especial, sob pena de incidir a Súmula 182/STJ. Dessarte, não se admite a impugnação parcial do julgado (EAREsp 701.404/SC e EAREsp 831.326/SP, DJe de 30/11/2018).
+Pois bem, na espécie, muito embora a parte agravante tenha impugnado, nas razões do recurso especial, a apontada incidência dos óbices sumulares 211 e 7/STJ, nada argumentou acerca da ausência de violação ao art. 1.022 do CPC.
+Nesse contexto, em que não foram efetivamente impugnados todos os motivos que ensejaram a inadmissão do apelo raro, foi correta a aplicação, pelo Presidente desta Corte Superior, do anteparo sumular 182/STJ. A propósito, menciono a seguinte ementa:
+PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE AUSÊNCIA DE RESPONSABILIDADE E DE JULGAMENTO EXTRA PETITA. ARGUMENTOS GENÉRICOS E DISSOCIADOS DO QUE FOI DECIDIDO. NÃO ATENDIMENTO AO ÔNUS DA DIALETICIDADE. SÚMULA 182/STJ. INCIDÊNCIA DAS SÚMULAS 5/STJ E 7/STJ.
+1. A Súmula 284/STF foi aplicada quando da análise da admissibilidade da alegação de violação ao art. 1.022 do CPC.
+Consignou-se que "nenhum argumento foi desenvolvido no intuito de demonstrar omissão, contradição ou obscuridade no acórdão recorrido, o que contraria a regra da dialeticidade e atrai a incidência da Súmula 284/STF". A impugnação da incidência do referido enunciado sumular no Agravo Interno não guarda relação com o que decidido monocraticamente.
+2. Sobre a responsabilidade civil do Estado do Rio de Janeiro, apontou-se que "não houve indicação do dispositivo legal considerado violado, tampouco cotejo analítico entre o acórdão recorrido e os precedentes indicados, limitando-se o Estado a transcrever parte de ementas de julgados do STJ." Mais uma vez, o Agravo Interno deixou de impugnar as razões da decisão objurgada. Estado e Município buscam se eximir de responsabilidade recriminando um ao outro. Além disso, alega-se a existência de convênio, o que exige análise de suas cláusulas, operação vedada ao STJ por força da Súmula 5/STJ.
+3. Quanto à incidência da Súmula 211/STJ, esclareceu-se que, considerando que a tese de violação ao art. 1.022 do CPC nem sequer mereceu conhecimento, "não há que se falar, no caso, em prequestionamento ficto. No entendimento desta Corte Superior, para a incidência do art. 1.025 do CPC, é indispensável que a parte invoque afronta ao art. 1.022 do CPC e a omissão, contradição ou obscuridade seja reconhecida".
+4. Os argumentos do Estado do Rio de Janeiro não apenas são genéricos, como também estão dissociados do que efetivamente decidido na decisão agravada. A ausência de impugnação especificada faz incidir na espécie a Súmula 182/STJ, que está em consonância com a redação atual do CPC em seu art. 1.021, § 1º: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+5. Consoante a jurisprudência pacífica do STJ, teses apresentadas em momento posterior à interposição do Recurso Especial não são passíveis de conhecimento por importar inovação recursal, indevida em virtude da preclusão consumativa.
+6. Finalmente, ainda que fosse possível o conhecimento do recurso, em Ação Civil Pública, "De acordo com a jurisprudência do STJ, não há ofensa ao princípio da congruência ou da adstrição quando o juiz promove uma interpretação lógico-sistemática dos pedidos deduzidos, ainda que não expressamente formulados pela parte autora. Assim, não há se falar em provimento extra petita" (REsp 1.355.574/SE, Rel. Min. Diva Malerbi, Segunda Turma, DJe 23.8.2016).
+7. Agravo Interno não conhecido.
+(AgInt no AREsp n. 1.890.696/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 24/5/2022, DJe de 30/6/2022)
+ANTE O EXPOSTO, nego provimento ao agravo interno.
+É como voto.
