@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/03/2023 a 03/04/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva e lavrou este acórdão, nos termos do art. 52, IV, b, do RISTJ.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CPC/2015. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos rígidos limites estabelecidos pelo art. 1.022 do CPC/2015, os embargos de declaração destinam-se apenas a suprir omissão, afastar obscuridade, eliminar contradição ou sanar erro material eventualmente existentes no julgado e, excepcionalmente, atribuir-lhe efeitos infringentes quando algum desses vícios for reconhecido.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por LILIAN RODRIGUES FELIX VIANNA, contra acórdão que, nos termos de minha relatoria, por unanimidade, não foi provido o agravo interno, assim ementado (e-STJ, fls. 1146/1147):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. OBRIGAÇÃO DE FAZER CUMULADA COM AÇÃO INDENIZATÓRIA. FORNECIMENTO DE MEDICAÇÃO POR PLANO DE SAÚDE. VIOLAÇÃO AO ART. 1.022 DO CPC. INEXISTÊNCIA ASTREINTES. ALTERAÇÃO DE QUANTUM. IMPOSSIBILIDADE. SÚMULA 7/STJ.1. No que tange à alegada violação dos arts. 489 e 1.022 do Código de Processo Civil de 2015, constato não estar configurada a sua ocorrência. Da leitura dos autos, verifica-se que a Corte estadual julgou fundamentadamente a matéria, expondo as razões que levaram às suas conclusões. Portanto, a pretensão ora deduzida, em verdade, traduz-se em mero inconformismo com a decisão posta, o que não revela, por si só, a existência de qualquer vício nesta.2. Elidir a conclusão do Tribunal de origem quanto ao valor das astreintes demandaria o revolvimento ao conjunto fático-probatório dos autos, hipótese vedada nesta via especial, ao que preleciona a Súmula 7/STJ. Ademais, a alteração das astreintes por este Superior Tribunal de Justiça somente se justifica nos casos em que os valores mostram-se irrisórios ou exorbitantes, o que não se verifica no hipótese dos autos. AGRAVO DESPROVIDO.
+Em suas razões recursais a parte alega que "o v. acórdão deixou de enfrentar o argumento do recurso, no sentido de que o v. acórdão do C. TJ/ES não levou em consideração no julgamento o fato de a doença da embargante ter sido agravada por conta da omissão da embargada" (e-STJ, fl. 1.154).
+Impugnação apresentada às fls. 1159/1163.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CPC/2015. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos rígidos limites estabelecidos pelo art. 1.022 do CPC/2015, os embargos de declaração destinam-se apenas a suprir omissão, afastar obscuridade, eliminar contradição ou sanar erro material eventualmente existentes no julgado e, excepcionalmente, atribuir-lhe efeitos infringentes quando algum desses vícios for reconhecido.
+2. Embargos de declaração rejeitados.
+VOTO
+Eminentes colegas, os presentes embargos de declaração não devem ser acolhidos.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese, pois todas as questões aduzidas em sede de especial foram devidamente analisadas.
+Nas razões do declaratório, a parte reiterou que "o v. acórdão deixou de enfrentar o argumento do recurso, no sentido de que o v. acórdão do C. TJ/ES não levou em consideração no julgamento o fato de a doença da embargante ter sido agravada por conta da omissão da embargada" (e-STJ, fl. 1.154).
+Ocorre que consoante se depreende da leitura dos autos o Tribunal de origem, é de se observar que, no que tange à alegada violação dos arts. 489 e 1.022 do Código de Processo Civil de 2015, constato não estar configurada a sua ocorrência. Da leitura dos autos, verifica-se que a Corte estadual julgou fundamentadamente a matéria, expondo as razões que levaram às suas conclusões. Portanto, a pretensão ora deduzida, em verdade, traduz-se em mero inconformismo com a decisão posta, o que não revela, por si só, a existência de qualquer vício nesta.
+Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas apenas a declinar as razões de seu convencimento motivado, o que de fato ocorreu nos autos.
+Por fim, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Ilustrativamente, veja-se o seguinte precedente: EDcl no AgRg nos EREsp 1315507/SP, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 20/08/2014, DJe 28/08/2014.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria posta a apreciação desta Corte foi julgada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Nesse contexto, advirta-se que a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque, os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (artigo 1.026, § 2.º, do Código de Processo Civil).
+Ante o exposto, REJEITO os embargos de declaração.
+É o voto.
