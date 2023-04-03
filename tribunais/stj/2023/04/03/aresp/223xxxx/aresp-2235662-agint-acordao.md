@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/03/2023 a 03/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por Caixa Seguradora S.A. em contrariedade à decisão proferida por esta relatoria, assim ementada (e-STJ, fl. 328):
+AGRAVO EM RECURSO ESPECIAL. APÓLICE DE SEGURO DE VIDA EM FINANCIAMENTO HABITACIONAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+Em suas razões (e-STJ, fls. 335-337), a agravante assevera a ocorrência de ofensa ao art. 1.022 do CPC/2015, salientando que "o aresto foi omisso quanto aos principais fatos abordados pela seguradora em sua apelação, já que a prova do suicídio do segurado se encontra no processo de nº 1536217-51.2019.8.26.0050, conforme conclusão do próprio MP, o que foi devidamente reconhecido pelo nobre magistrado singular" (e-STJ, fl. 337).
+Requer, por fim, a reconsideração da decisão monocrática ou sua reforma pela Turma julgadora.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APÓLICE DE SEGURO DE VIDA EM FINANCIAMENTO HABITACIONAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. AGRAVO INTERNO IMPROVIDO.
+1. Não ocorre negativa de prestação jurisdicional quando o Tribunal de origem examina, de forma fundamentada, todas as questões que lhe foram submetidas, ainda que tenha decidido contrariamente à pretensão da parte. Nesse contexto, esta Corte já se manifestou no sentido de que não há que se confundir decisão contrária aos interesses da parte e negativa de prestação jurisdicional, nem fundamentação sucinta com ausência de fundamentação.
+1.1. Na hipótese em comento, é preciso deixar claro que o acórdão recorrido resolveu satisfatoriamente as questões deduzidas no processo, sem incorrer nos vícios de obscuridade, contradição, erro material ou omissão com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+2. Agravo interno improvido.
+VOTO
+O recurso não comporta provimento, porquanto as razões expendidas são insuficientes para a reconsideração da decisão impugnada.
+No que concerne à alegada negativa de prestação jurisdicional, a jurisprudência desta Corte Superior é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos suscitados pela parte em embargos declaratórios, cuja rejeição, nessas condições, não implica contrariedade aos arts. 489 e 1.022, I e II, do CPC/2015.
+Oportunamente, colhem-se do julgado dos aclaratórios os seguintes fundamentos (e-STJ, fls. 257-258):
+Cinge-se a controvérsia quanto à natureza da morte do segurado, bem como da validade do contrato de seguro por adesão, aduzindo a autora que não teve plena ciência de seu teor.
+Respeitado entendimento diverso do juízo a quo, não há nos autos qualquer elemento conclusivo quanto à natureza da morte do segurado. A ré trouxe apenas trechos do inquérito policial e do laudo do Instituto de Criminalística acerca da hipótese de suicídio tentado. Contudo, não foi apresentada a íntegra do laudo, ou sequer a parte conclusiva deste, tampouco cópia da manifestação do Ministério Público que motivou o arquivamento do inquérito. A relação entre as partes é tipicamente de consumo. Sendo assim, a responsabilidade civil da ré é objetiva, eximindo-se do dever de efetuar o pagamento do seguro somente na hipótese de demonstrar culpa exclusiva do consumidor ou de terceiros (consoante artigo 14, § 3º, inciso II, do CDC) o que não se vislumbrou nos autos.
+Neste ponto, cumpre ressaltar que não há como se exigir que a autora, nessas circunstâncias, faça prova negativa de que seu marido não cometeu suicídio.
+( )
+Diante da ausência robusta de provas, conclui-se pela regra, e não pela exceção, ou seja, pelo dever de pagamento do prêmio.
+Ainda que se pudesse concluir seguramente pela hipótese de suicídio, há que se observar que essa possibilidade de exclusão securitária não restou clara do momento da contratação do seguro junto ao financiamento do imóvel.
+Com efeito, é preciso deixar claro que o acórdão recorrido resolveu satisfatoriamente as questões deduzidas no processo, sem incorrer nos vícios de obscuridade, contradição ou omissão com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+Por conseguinte, tendo o Tribunal de origem motivado adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese, não há afirmar que a Corte estadual não se pronunciou sobre o pleito da ora agravante, apenas pelo fato de ter o julgado recorrido decidido contrariamente à pretensão da parte.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CARACTERIZAÇÃO. LEGITIMIDADE PASSIVA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. TÍTULO DE CRÉDITO. PROTESTO INDEVIDO. DANO MORAL IN RE IPSA. SÚMULA N. 83 DO STJ. DECISÃO MANTIDA.
+1. A Corte "a quo" pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em princípio, poderiam infirmar a conclusão adotada pelo Juízo, não havendo falar em ausência de prestação jurisdicional. O julgamento da causa em sentido contrário aos interesses e à pretensão de uma das partes não caracteriza negativa de prestação jurisdicional, tampouco viola os arts. 1.022 e 489 do CPC/2015.
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ). O Tribunal de origem asseverou que: (i) o título levado a apontamento estava quitado, (ii) a nota fiscal estava em nome da recorrente, (iii) apesar da cessão do crédito a terceiros, a duplicata foi emitida após tal contratação, e (iv) a certidão de protesto comprova que a recorrente não é parte estranha à lide. Desse modo, concluiu a Corte local que a "inserção, de forma indevida, gera automaticamente o constrangimento ao consumidor, pois atribui a pecha de mau pagador àquele que, até prova em contrário, honra seus compromissos financeiros e negociais pontualmente". Alterar esse entendimento demandaria o reexame das provas, o que é vedado em recurso especial.
+3. A jurisprudência do Superior Tribunal de Justiça é no sentido de que, na hipótese de protesto indevido de título ou de inscrição irregular em cadastros de inadimplentes, o dano moral se configura in re ipsa - independentemente de prova. Aplicação da Súmula n. 83 do STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1679481/MS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 28/09/2020, DJe 01/10/2020)
+Nesse contexto, esta Corte já se manifestou no sentido de que "a fundamentação sucinta, mas suficiente, não pode ser confundida com ausência de motivação" (AgInt no AgInt no AREsp 1.647.183/GO, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 26/04/2021, DJe 28/04/2021).
+Desse modo, tendo em vista que as alegações feitas no presente agravo interno não são capazes de alterar o convencimento anteriormente manifestado, permanece íntegra a decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
