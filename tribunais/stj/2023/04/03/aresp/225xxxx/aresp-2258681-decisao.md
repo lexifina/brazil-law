@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial, fundado no art. 105, III, "c", da Constituição Federal, interposto por ROSANGELA OLIVEIRA SANTOS SCHLOBACH, contra v. acórdão do Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+Agravo de Instrumento. Inventário. Decisão que determinou a exclusão de valores de previdência privada (VGBL) na partilha. Inconformismo. Descabimento. Em regra, a previdência privada não deve integrar o acervo hereditário, em razão da sua natureza securitária. Se a previdência privada for utilizada para fraudar a ordem de vocação hereditária, deverá ser considerada como aplicação financeira, sujeita ao inventário. Inexistência de elementos nos autos acerca da utilização indevida da previdência privada. Questão que depende da produção de outras provas. Remessa às vias ordinárias. Art. 612, do CPC. Decisão reformada. Agravo desprovido.
+Os embargos declaratórios foram rejeitados.
+Nas razões do recurso especial, a parte agravante aponta dissídio jurisprudencial quanto a interpretação dos arts. 784 e 1.659, VIII, do Código Civil ante a discussão se o VGLB deve integrar o acervo hereditário no inventário.
+Afirma que os "nos acórdãos paradigmas, considerando que o VGBL (vida gerador de benefício livre) tem caráter securitário, enquanto os acórdãos paradigmáticos consideraram o VGBL como investimento financeiro, até que se opere sua conversão em prestações periódicas como uma renda, requer seja dado provimento ao presente recurso, determinando-se que os saldos das previdências privadas abertas deixados pelo marido da recorrente sejam incluídos em seu inventário para fins de partilha entre seus herdeiros e a viúva meeira, para a atribuição da meação e dos quinhões" (fl. 167).
+É o relatório. Decido.
+Em relação ao dissídio jurisprudencial, não ficou caracterizada a sugerida divergência pretoriana, ante a ausência de similitude fática entre os paradigmas citados e a hipótese dos autos em que se assentou a tese de que "Assim, por se assemelhar a um seguro de vida, os valores recebidos pelos beneficiários de previdência privada não são considerados herança para todos os efeitos de direito, não devendo, portanto, integrar o acervo hereditário. Caso não haja beneficiários cadastrados na instituição financeira responsável pela previdência privada, os valores deverão ser partilhados entre os herdeiros, observada a ordem de sucessão hereditária. (..) Entretanto, se a previdência privada for utilizada para fraudar a ordem de vocação hereditária, deverá ser considerada como aplicação financeira, sujeita ao inventário. (..) No caso dos autos, não há elementos que demonstrem, de plano, o desvirtuamento da previdência privada (VBGL). Nada absolutamente nada, permite concluir que houve desnaturação da previdência privada para violar direitos sucessórios. Considerando os estreitos limites do inventário, não há como averiguar a questão sem a produção de outras provas. Discussão que, no caso, deve ser resolvida nas vias ordinárias, diante da litigiosidade entre os herdeiros e para garantia da ampla defesa e do contraditório" (fls. 152-155, grifou-se), situação não abordada nos acórdãos paradigmas.
+Dessa forma, não evidenciada a existência de similitude fático-jurídica entre as hipóteses confrontadas, fica inviabilizada a alegada existência de dissídio pretoriano.
+A propósito, confiram-se:
+"PROCESSO CIVIL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. NOTA PROMISSÓRIA. FALTA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO CONFIGURADO.
+(..)
+III - Ausente a similitude fática entre os casos confrontados, fica inviabilizado o conhecimento do especial pelo dissídio.
+Recurso ao qual se nega seguimento."
+(AgRg nos EDcl no REsp 261.776/PR, Relator o Ministro PAULO FURTADO, DJe de 17.6.2009)
+"PROCESSUAL CIVIL E CIVIL. AGRAVO NO AGRAVO DE INSTRUMENTO. RECURSO ESPECIAL. AÇÃO DE REINTEGRAÇÃO DE POSSE. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+- O reexame de fatos e provas em recurso especial é inadmissível.
+- O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+- Agravo não provido."
+(AgRg no Ag 1.411.488/SC, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 1º/12/2011, DJe de 7/12/2011)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
