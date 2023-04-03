@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de Ayslan Santos Vieira, no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DE MATO GROSSO DO SUL (Agravo de Execução Penal n. 1603024-91.2022.8.12.0000 ).
+Consta dos autos que Juízo singular indeferiu o pedido formulado pela defesa para que fossem retificados os cálculos de penas do paciente e cumprida apenas a fração de 16% da reprimenda imposta pelo crime de tráfico de drogas, equiparado a hediondo, visando à progressão de regime prisional, nos termos da nova redação do art. 112, inciso I, da LEP (fls. 84/85).
+Interposto agravo em execução defensivo, foi desprovido pela Corte estadual, sob os termos da seguinte ementa (fl. 99):
+EMENTA - AGRAVO DE EXECUÇÃO PENAL - TRÁFICO DE DROGAS - PROGRESSÃO DE REGIME - AFASTAMENTO DA HEDIONDEZ - APLICAÇÃO DE PERCENTUAL DE CRIME COMUM - LEI N.º 13.964/2019 - IMPOSSIBILIDADE - RECURSO DESPROVIDO.
+1. Em que pese o delito de tráfico de drogas, após a entrada em vigor da Lei n.º 13.964/2019, não mais figure no rol de crimes hediondos da Lei n.º 8.072/1990 em razão da revogação do § 2º de seu artigo 2º, a sua hediondez, por equiparação, provém de previsão constitucional (artigo 5º, inciso XLIII). Assim, para fins de progressão de regime, inadmissível a aplicação de percentual de crime comum ao delito de tráfico de drogas. Precedentes.
+2. Com o parecer, agravo desprovido.
+Nesta via, o impetrante reitera o pedido feito às instâncias ordinárias no sentido da retificação dos cálculos de penas (Autos de Execução n. 6000359-31.2020.8.12.0002 ), com o objetivo de aplicar ao crime previsto no art. 33, caput, da Lei n. 11.343/2006, a previsão do art. 112, I, da LEP, qual seja, 16% da reprimenda, considerando inexistir normal legal expressa que equipara o tráfico de drogas aos delitos hediondos para fim de progressão de regime (fl. 4 ).
+Indeferido o pedido de liminar pelo Ministro Jorge Mussi, então Vice-Presidente desta Corte, no exercício da Presidência (fls. 109/111) e prestadas as informações (fls. 114/120 ).
+Instado, opinou o Ministério Público Federal pela denegação da ordem, nos termos do parecer de fl. 124.
+É o relatório.
+Quanto ao tema , dizem os precedentes das duas Turmas que compõem a Terceira Seção do Superior Tribunal de Justiça que, diferentemente da conjuntura relativa ao tráfico privilegiado, a própria Constituição Federal, em seu art. 5º, XLIII, rotulou como mais graves, tal qual os crimes hediondos (a serem definidos por lei ordinária), os delitos de tortura, o tráfico ilícito de entorpecentes e o terrorismo. Tal equiparação foi realizada pelo próprio constituinte originário, de modo que não se cogita a hipótese de que o Pacote Anticrime tenha afastado o caráter equiparado a hediondo do crime de tráfico de drogas (AgRg no HC n. 736.796/SC, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 16/5/2022).
+Assim, a revogação do § 2º do art. 2º d a Lei n. 8.072/1990 pela Lei n. 13.964/2019 não tem o condão de retirar do tráfico de drogas sua caracterização como delito equiparado a hediondo, pois a classificação da narcotraficância como infração penal equiparada a hedionda decorre da previsão constitucional estabelecida no art. 5º, XLIII, da Constituição Federal (AgRg no HC n. 729.332/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 25/4/2022).
+Nesse contexto, verifica-se que o entendimento do acórdão impugnado não destoa da jurisprudência desta Corte Superior de Justiça sobre a matéria, pois acertada a fração utilizada para a progressão de regime de 2/5 (40%).
+Ante o exposto, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. RETIFICAÇÃO DO CÁLCULO DE PENAS. TRÁFICO DE DROGAS. NATUREZA DO DELITO. EQUIPARAÇÃO A CRIME HEDIONDO. ACÓRDÃO ATACADO EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STJ. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Ordem denegada.
