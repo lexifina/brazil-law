@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de renovação do Pedido de Tutela Provisória formulado, em 28/03/2023, por BAKMAR ELETRONICA LTDA. e FHB COMERCIAL ELETRÔNICA EIRELI, ao seguinte fundamento:
+"BAKMAR ELETRÔNICA LTDA E FHB COMERCIAL ELETRÔNICA EIRELI, por seu advogado subscrito, vem respeitosamente perante V.Exa. a fim de expor e requerer como segue, em especial quanto à possibilidade de RECONSIDERAÇÃO do despacho que negou a Tutela de Urgência, em especial em razão de fato novo que ora é trazido ao seu conhecimento.
+Conforme a cópia de Notificação da Prefeitura em anexo, datada de 23/03/2023, emitida após o referido despacho de V.Exa., confirma-se as alegações das Requerentes, observando-se o condicionamento de pagamento das multas inscritas no CADIN, sob pena de rescisão de contratos vigentes, o que impactaria as empresas de forma avassaladora, ressaltando inexistir qualquer prejuízo ao erário em caso de suspensão de tais inscrições de inadimplemento, havendo, como já esclarecido, questões em Recurso Especial capazes de infirmar a conclusão do E.TJSP, e que não foram objeto de devida apreciação" (fl. 566e).
+Não obstante a alegação da parte requerente, entendo que não ocorreu alteração fática relevante capaz de ensejar a modificação do entendimento anterior, de fls. 558/563e.
+Com efeito, verifica-se que, no caso vertente, não fora realizado o juízo de admissibilidade do Recurso Especial interposto pela requerente. Portanto, o Superior Tribunal de Justiça não possui competência para o exame do pedido formulado pela parte reque rente.
+Ademais, não é possível afir mar, em juízo de cognição sumária, que a conclusão adotada pelo Tribunal de Justiça do Estado de São Paulo seja teratológicas ou afronte, manifestamente, a jurisprudência do Superior Tribunal de Justiça.
+Ante o exposto, com fundamento no art. 34, XVIII, a, do RISTJ, não conheço do pedido formulado por BAKMAR ELETRONICA LTDA. e FHB COMERCIAL ELETRÔNICA EIRELI.
+I.
