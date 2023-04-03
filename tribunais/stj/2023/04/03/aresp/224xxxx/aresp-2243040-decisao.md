@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo (art. 1042 do CPC/15), interposto por RODOVIÁRIO MATSUTDA LTDA. e OUTROS, contra decisão que não admitiu recurso especial (fls. 215/223 e-STJ).
+O apelo nobre, amparado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, desafia acórdão prolatado pelo Tribunal de Justiça do Estado do Paraná, assim ementado (fl. 90, e-STJ):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULOEXTRAJUDICIA. CÉDULA DE CRÉDITO COM GARANTIAFIDUCIÁRIA. DECISÃO QUE DEFERIU A PENHORA DE BEMIMÓVEL, EM VEZ DO DE MÓVEIS DADOS EM GARANTIA. RECURSO DO EXECUTADO. ART. 835, § 3º, DO CPC. RELATIVIZAÇÃO DA REGRA DE PREFERÊNCIA QUE SEADMITE SÓ QUANDO A ALIENAÇÃO DO BEM SE TORNARDIFÍCIL, INCERTA, ONEROSA. PARTICULARIDADES DO CASO. PRECEDENTES DO STJ. POSSIBILIDADE DE A PENHORARECAIR SOBRE BEM DIVERSO DOS DA GARANTIA. DECISÃOMANTIDA. . RECURSO CONHECIDO E NÃO PROVIDO.
+Opostos embargos de declaração, foram rejeitados (fls. 117/125, e-STJ).
+Em suas razões de recurso especial, os recorrentes, ora agravantes, apontam, além de dissídio jurisprudencial, ofensa aos artigos 141, 835, §2º, do CPC/15. Sustentam, em síntese: i) a penhora deve recair sobre os bens dados em garantia fiduciária; ii) há violação ao princípio da adstrição, ante a utilização de situação veiculada em outros autos.
+Após a apresentação das contrarrazões (fls. 198/207, e-STJ), o apelo não foi admitido na origem (fls. 215/223, e-STJ), dando ensejo ao agravo (fls. 227/238, e-STJ), visando destrancar o processamento daquela insurgência, no qual os recorrentes refutaram os óbices aplicados pela Corte estadual.
+Contraminuta às fls. 250/257, e-STJ.
+É o relatório.
+Decide-se.
+O inconformismo não merece prosperar.
+1. Na hipótese, a Corte local entendeu que seria possível que a penhora para a satisfação do crédito com garantia real recaísse sobre bem diverso da avença (fl. 95, e-STJ):
+Não se ignora que a regra, aos casos em que a Execução é sobre crédito com garantia real, é a de que a penhora recaia sobre o bem afetado. Contudo, a jurisprudência, sobretudo a do STJ, é no sentido de se relativização disso, e não só porque a garantia é em favor da parte credora, mas porque, consoante as particularidades de cada, se conclua se essa, outra terapêutica se apresenta como de caso ou mais eficácia ao processo executivo, justamente, pelas referidas contingências . A propósito, mais que os interesses de uma in concreto ou outra parte (e o direito da parte credora, não satisfeito espontaneamente, é aspecto prevalente, nessas com siderações), se coloca a real da processo executivo, efetividade in judicio. Veja, a propósito:
+Com efeito, conforme entendimento desta Corte, a preferência para a penhora do bem dado em garantia é relativa, devendo ser afastada tal regra quando constatada situação excepcional, notadamente se o bem dado em garantia real se apresenta impróprio ou insuficiente para a satisfação do crédito da parte exequente, como entendeu o Tribunal local.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. PENHORA. BEM DADO EM GARANTIA. AFASTAMENTO. POSSIBILIDADE. SATISFAÇÃO DO CRÉDITO. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 1.022 DO CPC/2015. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. AUSÊNCIA DE SIMILITUDE FÁTICA. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+3. "No tocante ao malferimento do artigo 835, § 3º, do CPC (correspondente ao artigo 655, § 1º, do CPC/73), a jurisprudência desta Corte Superior firmou-se no sentido de que a preferência é relativa, devendo ser afastada tal regra quando constatada situação excepcional, notadamente se o bem dado em garantia real se apresenta impróprio ou insuficiente para a satisfação do crédito da parte exequente" (AgInt no REsp n. 1.778.230/DF, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 11/11/2019, DJe 19/11/2019).
+4. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+5. No caso concreto, o Tribunal de origem concluiu pela possibilidade de penhora de bens diversos, conforme for mais conveniente à efetividade da execução. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+6. O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige a demonstração da similitude fática entre os acórdãos confrontados.
+7. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.544.669/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 14/3/2022, DJe de 18/3/2022.)
+Aplicável o óbice da Súmula 83/STJ para ambas as alíneas.
+2. Por fim, não há julgamento extra petita quando o órgão julgador, adstrito às circunstâncias fáticas e ao pedido constante nos autos, proceder à subsunção normativa com amparo em fundamento jurídicos diversos dos suscitados pelas partes, como no caso dos autos.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CADASTROS RESTRITIVOS. AUSÊNCIA DE NOTIFICAÇÃO PRÉVIA. DANOS MORAIS. REVISÃO DO QUANTUM INDENIZATÓRIO. INCIDÊNCIA DA SUMULA 7/STJ. HONORÁRIOS ADVOCATÍCIOS.REVOLVIMENTO FÁTICO-PROBATÓRIO. SÚMULA N. 7. AGRAVO INTERNO NÃO PROVIDO.
+1. À luz dos artigos 128 e 460 do CPC/73, atuais, 141 e 492 do NCPC/15, o vício de julgamento extra petita não se vislumbra na hipótese do juízo a quo, adstrito às circunstâncias fáticas (causa de pedir remota) e ao pedido constante nos autos, proceder à subsunção normativa com amparo em fundamentos jurídicos diversos dos esposados pelo autor e refutados pelo réu. O julgador não viola os limites da causa quando reconhece os pedidos implícitos formulados na inicial, não estando restrito apenas ao que está expresso no capítulo referente aos pedidos, sendo-lhe permitido extrair da interpretação lógico - sistemática da peça inicial aquilo que se pretende obter com a demanda, aplicando o princípio da equidade.
+ ..
+(AgInt no AREsp 1152145/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 07/06/2018, DJe 13/06/2018)
+Incidência da Súmula 83/STJ para ambas as alíneas.
+3. Do exposto, com fundamento no art. 932 do NCPC c/c a súmula 568/STJ, conheço do agravo para conhecer do recurso especial e negar-lhe provimento.
+Publique-se. Intimem-se.
