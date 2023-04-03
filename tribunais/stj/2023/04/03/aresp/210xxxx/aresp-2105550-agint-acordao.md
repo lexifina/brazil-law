@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/03/2023 a 03/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto por Banco Toyota do Brasil S.A. em face de decisão que negou provimento a agravo em recurso especial.
+Afirma que "muito embora a agravante tenha apontado violação aos dispositivos constitucionais, o fez de forma meramente ilustrativa, a fim de demonstrar a extensão da afronta aos princípios e normas jurídicas perpetradas pela decisão recorrida, tudo consubstanciado na violação ao art. 373, I do CPC, sendo de competência da Corte Superior, portanto, a questão trazida. Desta feita, entende o agravante que a r. decisão deve ser reformada, ante a clara demonstração de violação a lei infraconstitucional e ausência de incidência da Súmula 83 desta Casa" (e-STJ, fl. 171).
+Alega, por fim, que a "agravante não pretende o reexame de provas ou das circunstâncias fáticas dos autos, mas apenas demonstrar que a realidade fática delineada no próprio acórdão recorrido, teria violado a disposição do artigo 373, I do Código de Processo Civil, pois a prova da ilegalidade/abusividade dos encargos, bem como, da alegada existência de contratação anteriores, é ônus que incumbe ao Agravado" (e-STJ, fl. 171).
+Pede o provimento do recurso, que, embora intimada a parte contrária, não foi respondido.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. CONTRATO BANCÁRIO. RELAÇÃO DE CONSUMO. INVERSÃO DO ÔNUS DA PROVA. REQUISITOS. PRESENÇA. REEXAME DE PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. INCIDÊNCIA DA SÚMULA 83/STJ. DECISÃO MANTIDA. RECURSO NÃO PROVIDO.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+2. O recurso especial é inviável quando o tribunal de origem decide em consonância com a jurisprudência do STJ (Súmula 83/STJ).
+3. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): O inconformismo não merece acolhida.
+A recorrente manifestou agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+AGRAVO DE INSTRUMENTO. AÇÃO CONSIGNATÓRIA C/C DECLARATÓRIA DE MODIFICAÇÃO DE CLÁUSULAS CONTRATUAIS DE CONTRATO DE FINANCIAMENTO. JUSTIÇA GRATUITA. MATÉRIA NÃO DISCUTIDA NA DECISÃO AGRAVADA. INVERSÃO DO ÔNUS DA PROVA. POSSIBILIDADE. CONSIGNAÇÃO DOS VALORES QUE O AUTOR ENTENDE DEVIDOS. NÃO AFASTAMENTO DOS CONSECTÁRIOS DA MORA. DECISÃO PARCIALMENTE REFORMADA.
+1. O recurso não merece conhecimento na parte em que as razões apresentam-se dissociadas do que restou decidido na decisão impugnada.
+2. Nos termos do artigo 6º, inciso VIII, do Código de Defesa do Consumidor, será deferida a inversão do ônus da prova quando a alegação apresentada pelo consumidor for verossímil e/ou quando for constatada a sua hipossuficiência, conceito este ligado à dificuldade de produção da prova pelo consumidor e à possibilidade de sua produção pelo prestador do serviço, como na espécie.
+3. Admite-se o depósito incidental das prestações vencidas e vincendas do contrato firmado entre as partes, em ação consignatória c/c revisional, no valor que o consignante entende devido, mas a elisão da mora somente é possível se o autor depositar em juízo o valor integral das parcelas, conforme pactuado no instrumento contratual entabulado.
+AGRAVO DE INSTRUMENTO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, PARCIALMENTE PROVIDO.
+Alegou, na ocasião, violação dos artigos 1.022 e 373, I, do Código de Processo Civil, sob o argumento de que o acórdão estadual é omisso e que cabe à parte autora a "prova do fato constitutivo do seu direito, em especial, a abusividade dos encargos e das cláusulas contratuais por ela impugnados" (e-STJ, fl. 123).
+De início, o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+Não há falar, portanto, em omissão ou negativa de prestação jurisdicional apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão da parte.
+Sobre o tema, os seguintes precedentes: AgRg no REsp 965.541/RS, Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 17/5/2011, DJe 24/5/2011, e AgRg no Ag 1.160.319/MG, Desembargador Convocado Vasco Della Giustina, Terceira Turma, julgado em 26/4/2011, DJe 6/5/2011.
+Quanto ao mais, investe o recorrente contra a parte do acórdão que manteve a inversão do ônus da prova em favor do agravado.
+A inversão do ônus da prova não se dá de modo automático, mas, uma vez constados os requisitos necessários ao seu deferimento, como a existência de relação de consumo e a verossimilhança das alegações ou hipossuficiência do consumidor, seu reexame é imune ao crivo do recurso especial.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. CÉDULA DE CRÉDITO BANCÁRIO. VIOLAÇÃO AO ART. 369 DO NCPC. SÚMULAS 282 E 356/STF. INVERSÃO DO ÔNUS DA PROVA. REEXAME DE MATÉRIA FÁTICA. SÚMULA 7/STJ. TARIFAS BANCÁRIAS. COBRANÇA. SÚMULAS 5 E 7 DESTA CORTE. AGRAVO DESPROVIDO.
+1. É inviável o conhecimento de tema trazido no recurso especial, mas não debatido e decidido nas instâncias ordinárias, porquanto ausente o indispensável prequestionamento. Aplicação, por analogia, das Súmulas 282 e 356 do STF.2. Segundo a orientação jurisprudencial desta Corte, a inversão do ônus da prova é realizada a critério do juiz mediante a verificação da verossimilhança das alegações da parte, de sua hipossuficiência ou da maior facilidade na obtenção da prova, requisitos cuja apreciação implica análise do acervo fático-probatório dos autos.3. O Tribunal de origem, com base no acervo fático-probatório, consignou que há previsão contratual para cobrança da TAC e da TEC. Dessa forma, a pretensão de alterar tal entendimento demandaria o revolvimento do suporte fático-probatório e análise de cláusulas contratuais, o que é inviável em sede de recurso especial, conforme dispõem as Súmulas 5 e 7 do STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.939.416/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 9/5/2022, DJe de 10/6/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. AGRAVO DE INSTRUMENTO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. PREENCHIMENTO DOS REQUISITOS PARA INVERSÃO DO ÔNUS DA PROVA. CONSTATAÇÃO PELAS INSTÂNCIAS ORDINÁRIAS. REVISÃO. ÓBICE DA SÚMULA N. 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. AGRAVO INTERNO DESPROVIDO.
+1. Conforme entendimento da Corte Especial do Superior Tribunal de Justiça, "a ausência de impugnação, no agravo interno, de capítulo autônomo e/ou independente da decisão monocrática do relator - proferida ao apreciar recurso especial ou agravo em recurso especial - apenas acarreta a preclusão da matéria não impugnada, não atraindo a incidência da Súmula 182 do STJ" (EREsp n. 1.424.404/SP, Rel. Ministro Luis Felipe Salomão, Corte Especial, julgado em 20/10/2021, DJe 17/11/2021).
+2. Não ficou configurada a violação aos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+3. No caso, concluindo o aresto impugnado pela presença dos elementos ensejadores à inversão do ônus da prova na espécie, descabe ao Superior Tribunal de Justiça rever o entendimento alcançado, pois se exige, para tanto, o reexame do conteúdo fático-probatório da causa, o que é vedado pela Súmula n. 7/STJ, no âmbito do recurso especial.
+4. Não se revela cognoscível a irresignação deduzida por meio da alínea c do permissivo constitucional, porquanto a recorrente não demonstrou a divergência nos moldes exigidos pelos arts. 1.029, § 1º, do CPC/2015 e 255, §§ 1º e 2º, do RISTJ. A mera transcrição de ementas e excertos, desprovida da realização do necessário cotejo analítico entre os arestos confrontados, mostra-se insuficiente para comprovar a divergência jurisprudencial ensejadora da abertura da via especial com esteio na alínea c do permissivo constitucional.
+5. O mero não conhecimento ou a improcedência do agravo interno não enseja a necessária imposição da multa prevista no art. 1.021, § 4º, do CPC/2015, tornando-se imperioso para tal que seja nítido o descabimento do recurso, o que não se verifica no caso concreto.
+6. Agravo interno desprovido.
+(AgInt no AREsp n. 2.092.111/GO, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 15/8/2022, DJe de 18/8/2022.)
+Inegável, pois, a incidência dos verbetes n. 7 e 83 da Súmula desta Casa.
+Ressalte-se, por fim, que nada foi dito na decisão agravada a respeito de dispositivos constitucionais, o que torna até mesmo incompreensível a alegação.
+Diante do exposto, nego provimento ao agravo interno.
+É como voto.
