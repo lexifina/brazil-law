@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/03/2023 a 03/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva e lavrou este acórdão, nos termos do art. 52, IV, b, do RISTJ.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. ALEGAÇÃO DE LOCUPLETAMENTO SEM CAUSA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AUSÊNCIA DE FUNDAMENTOS QUE JUSTIFIQUEM A ALTERAÇÃO DA DECISÃO AGRAVADA.
+AGRAVO INTERNO NÃO PROVIDO.
+RELATÓRIO
+Trata-se de agravo interno interposto por MAGDA MOFATTO HON contra decisão que conheceu parcialmente do recurso especial para negar provimento, assim ementada:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA QUE NÃO CONHECEU DO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO VERIFICADA. ALEGAÇÃO DE LOCUPLETAMENTO SEM CAUSA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO ACOLHIDO PARA, EM JUÍZO DE RETRATAÇÃO, TORNAR SEM EFEITO A DECISÃO DA PRESIDÊNCIA E, NO MESMO ATO, CONHECER DO AGRAVO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+Nas razões do agravo interno, a parte agravante sustenta que (e-STJ, fls. 1600/1602):
+5. A r. decisão monocrática ora agravada negou provimento ao recurso especial interposto pela ora Agravante, sob o fundamento de que não restou demonstrada a violação aos artigos 489 e 1.022 do CPC, bem como que a análise à apontada ofensa ao artigo 884 do CC estaria obstaculizada pelo óbice da Súmula 7/STJ.
+6. Em relação ao primeiro ponto, consignou-se que o Tribunal Estadual julgou fundamentadamente a matéria devolvida à sua apreciação,"expondo as razões que levaram às suas conclusões quanto à validade dos cálculos realizados pela Contadoria Judicial", de modo que a pretensão recursal seria mero inconformismo da parte.
+7. Ocorre que, ao contrário do consignado, o n. juízo a quo não se manifestou especificamente sobre os diversos erros materiais ocorridos nos cálculos judiciais, limitando-se a dispor que estes foram revistos pelo contador judicial, que, inclusive, tem fé pública.
+8. Com efeito, o v. acórdão recorrido não teceu qualquer consideração a respeito dos seguintes erros de cálculo apontados nas razões recursais:(i) deslocamento de índices; (ii) atualização de valores como se o mês tivesse 34 dias; (iii) inserção do valor da parcela no saldo devedor (sendo que este já contempla o valor originário da parcela); e (iv) inclusão de parcela de honorários já pagos.
+9. Observe que, não se pretende que este e. Superior Tribunal de Justiça faça a análise da existência ou não de tais erros materiais, mas apenas que se reconheça a omissão pelo e. Tribunal Estadual, que tem a obrigação de justificar de forma clara e fundamentada por qual motivo os cálculos apresentados estariam corretos.
+ ..
+14. Logo, considerando que os erros materiais citados não foram devidamente apreciados no bojo do v. acórdão recorrido, bem como não houve a devida fundamentação para o indeferimento da prova pericial pleiteada, assentando-se tão somente a presunção de legitimidade dos cálculos elaborados pela Contadoria Judicial, é de rigor o reconhecimento da omissão pelo n. juízo a quo, com a nulidade do acórdão e o consequente retorno dos autos à origem, para que profira nova decisão com a análise das alegações da Agravante.
+No mais defende que (e-STJ, fls. 1602/1604):
+15. Ainda, tal como delineado no referido recurso, não se pretende, na espécie, que esta e. Corte Superior reexamine os cálculos apresentados pela Contadoria Judicial, mas sim que reconheça a negativa de prestação jurisdicional pelo e. TJGO, determinando o retorno dos autos à origem, para que lá sejam sanadas as discrepâncias apontadas, inclusive mediante a determinação de perícia contábil, sob pena de perpetuar o cerceamento de defesa ora evidente.
+ ..
+22. Observe que, o que se está buscando não é rever os cálculos apresentados e homologados, mas sim refutar a falta de expertise da Contadoria Judicial do e. TJGO, que, repita-se, equivocou-se cinco vezes na realização dos cálculos - fato incontroverso. Daí a necessidade de atuação de profissional especializado, único capaz de aferir a correção do trabalho executado pela Contadoria Judicial.
+Impugnação do ESTADO DE GOIAS às fls. 1609/1613 e-STJ.
+Impugnação de CPM EMPREENDIMENTOS TURISTICOS E PARTICIPACOES LTDA, ANA CYRA PALMERSTON MUNIZ, ANA PAULA PALMERSTON MUNIZ, MIRTA BLANCHE PALMERSTON MUNIZ e NELSON BARBOSA PALMERSTON MUNIZ defendendo a rejeição do presente recurso e requerendo a aplicação da multa prevista no art. 1.021, § 4º, do CPC às fls. 1617/1622 e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. ALEGAÇÃO DE LOCUPLETAMENTO SEM CAUSA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AUSÊNCIA DE FUNDAMENTOS QUE JUSTIFIQUEM A ALTERAÇÃO DA DECISÃO AGRAVADA.
+AGRAVO INTERNO NÃO PROVIDO.
+VOTO
+Eminentes colegas, o agravo interno não merece prosperar.
+Em que pese o arrazoado, entendo que a ausência de qualquer novo subsídio trazido pela parte agravante, capaz de alterar os fundamentos da decisão ora agravada, faz subsistir incólume o entendimento nela firmado.
+Quanto à alegada violação aos arts. 1.022 e 489, § 1º, IV e VI do CPC, verifica-se, conforme se destacou na decisão ora agravada, que o Tribunal de origem julgou com fundamentação suficiente, de forma objetiva e coerente, a matéria devolvida à sua apreciação, de modo que, a pretensão ora deduzida, em verdade, traduz-se em mero inconformismo com a decisão posta, o que não revela, por si só, a existência de qualquer vício nesta.
+Nesse sentido, ressalta-se que a jurisprudência dessa Corte Superior é firme no sentido de que "não ocorre negativa de prestação jurisdicional quando o Tribunal de origem examina, de forma fundamentada, todas as questões que lhe foram submetidas, ainda que tenha decidido contrariamente à pretensão da parte. Nesse contexto, esta Corte já se manifestou no sentido de que não há que se confundir decisão contrária aos interesses da parte e negativa de prestação jurisdicional, nem fundamentação sucinta com ausência de fundamentação." (AgInt no AREsp n. 2.126.874/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 24/10/2022, DJe de 28/10/2022.).
+Quanto à apontada violação ao art. 884 do CC, no que concerne à alegação de necessidade de perícia contábil em razão da falta de expertise da Contadoria Judicial e de a nova inclusão dos honorários advocatícios no cálculo ter representado bis in idem e locupletamento sem causa em virtude de já terem sido integralmente quitados, verifica-se, conforme consignado na decisão agravada, que a pretensão recursal demanda o reexame das premissas firmadas pela Corte de origem diante do contexto fático-probatório constante dos autos, hipótese vedada por força da Súmula 7/STJ.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL. VIOLAÇÃO DO ART. 535 DO CPC. NÃO OCORRÊNCIA. COBRANÇA DE COTAS CONDOMINIAIS. CUMPRIMENTO DE SENTENÇA. EXATIDÃO DOS CÁLCULOS ELABORADOS POR CONTADOR JUDICIAL. PRESCINDIBILIDADE DE REALIZAÇÃO DE NOVA PERÍCIA. EXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. Não subsiste a alegada ofensa ao artigo 535 do CPC, pois o tribunal de origem enfrentou as questões postas, não havendo no aresto recorrido omissão, contradição ou obscuridade.
+2. A reforma do julgado, para o fim de se reconhecer eventual inexatidão dos cálculos apresentados por contador judicial e a consequente imprescindibilidade da realização de nova perícia contábil, demandaria o reexame do contexto fático-probatório, procedimento vedado na estreita via do recurso especial, a teor da Súmula nº 7/STJ.
+3. Agravo regimental não provido.
+(AgRg no AREsp n. 527.156/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 5/3/2015, DJe de 12/3/2015, grifei).
+Destarte, em que pesem as razões desenvolvidas pela parte no presente agravo interno, não foram trazidos argumentos capazes de alterar a decisão agravada.
+Assim, correta a decisão agravada, que se mantém por seus próprios fundamentos, uma vez que permanece a validade dos argumentos que a sustentam e não foram apresentados elementos aptos a desconstituí-la.
+Com relação aos pedidos das partes agravadas, registro que "a aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, não se tratando de mera decorrência lógica do não provimento do agravo interno em votação unânime. A condenação do agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória" (AgInt nos EREsp 1.120.356/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, DJe de 29/8/2016).
+Assim, deixo de aplicar a referida multa.
+Ante o exposto, nego provimento ao agravo interno.
+Advirta-se que a apresentação de incidentes protelatórios poderá dar azo à aplicação de multa (art. 1.026, § 2º, do CPC).
+É o voto.
