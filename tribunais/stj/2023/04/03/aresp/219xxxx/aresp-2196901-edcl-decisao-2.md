@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ASSEMBLEIA DE DEUS - MINISTÉRIO VALE DO JATOBÁ - contra decisão a fls. 1353/1355 que conheceu do agravo para não conhecer do recurso especial.
+Nas razões dos embargos de declaração, sustenta a embargante que não pretende o reexame do quadro probatório dos autos, porquanto a discussão do recurso especial se resume ao alegado error in judicando.
+A impugnação ao presente recurso foi apresentada a fls. 1379/1381.
+É o relatório. Passo a decidir.
+O apontado error in judicando decorre, no entender da recorrente, ora embargante, da interpretação equivocada do Estatuto constitutivo e, por conseguinte, do entendimento das questões possessórias. Assim, no seu entender, não há como se interpretar o Estatuto no sentido de que a emancipação da Regional depende arbitrariamente da Diretoria Geral, a ponto de tornar-se ilegítima ou sem efeito a mencionada Assembleia.
+Conforme delimitado na decisão embargada, nas razões do recurso especial, sustenta a recorrente, agravante, ora embargante, que o Tribunal a quo negou vigência aos arts. 54, III, 58, 112, 113, 1.024, 2.033, do Código Civil, e art. 229 da Lei 6.404/1976, na medida em que, ao não valorar adequadamente seu Estatuto, tampouco sua natureza jurídica, deixou de lhe reconhecer a posse plena, justa e pacífica sobre os imóveis, não podendo ser mera detentora desses imóveis.
+Ainda, que na cisão parcial, parte do patrimônio da pessoa jurídica cindida é transferido para a pessoa jurídica já existente ou constituída para esse fim, como é o caso. Assim, o Tribunal a quo, ao manter a reintegração da posse dos imóveis em litígio, violou frontalmente o art. 229 da Lei 6.404/1976.
+Com efeito, depreende-se que não há na decisão embargada vícios a serem sanados, pois a pretensão em ver reconhecida a validade da Assembleia Geral Ordinária realizada em 2012, bem como s ua emancipação, para fins de validar em seu nome escritura de todos os bens móveis e imóveis objetos da lide, encontra óbice para seu conhecimento, pois a pretensão recursal implica exame do Estatuto constitutivo da entidade, o que se mostra impróprio em sede de recurso especial, em observância à Súmula 7/STJ.
+Deveras, o error in procedendo é tema atrelado à interpretação do Estatuto, razão pela qual os embargos de declaração não devem ser acolhidos, pois impróprios ao mero rejulgamento do pedido recursal.
+Diante do exposto, rejeitam-se os embargos de declaração.
+Publique-se.
