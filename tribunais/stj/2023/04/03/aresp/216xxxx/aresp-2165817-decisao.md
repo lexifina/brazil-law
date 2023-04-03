@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo manejado pelo Estado de Minas Gerais contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 393):
+REMESSA NECESSÁRIA / APELAÇÃO CÍVEL - DIREITO ADMINISTRATIVO - RESPONSABILIDADE CIVIL - INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS - REBELIÃO DE PRESOS EM CADEIA PÚBLICA - AGRESSÃO INJUSTA E DESPROPORCIONAL A CARCEREIRO - NEXO CAUSAL COMPROVADO - PEDIDOS JULGADOS PROCEDENTES - SENTENÇA CONFIRMADA.
+Opostos embargos declaratórios pelo Estado de Minas Gerais e pelo Município de Rio Casca, foram acolhidos, apenas, para explicitar os critérios de atualização monetária da condenação (fls. 428/432).
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 884 e 944 do Código Civil. Sustenta que a indenização foi fixada em valor excessivo, sem levar em conta que "o recorrido foi contratado para exercer a função de carcereiro na cadeia pública no município de Ris Casca, ou seja, já sabia dos riscos inerentes à sua profissão." (fl. 457).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não prospera.
+No que diz respeito à alegada ofensa aos arts. 884 e 944 do CC, em regra, não é cabível na via especial a revisão do montante indenizatório fixado pela instância de origem, bem como o reconhecimento de culpa concorrente da parte adversa, ante a impossibilidade de análise de fatos e provas, conforme a Súmula 7/STJ.
+Ressalte-se que a jurisprudência do Superior Tribunal de Justiça admite, em caráter excepcional, que o quantum arbitra do seja alterado, caso se mostre irrisório ou exorbitante, em clara afronta aos princípios da razoabilidade e da proporcionalidade.
+A parte agravante, contudo, não demonstrou que o valor arbitrado a título de danos morais (R$ 20.000,00 - vinte mil reais - fl. 399), na espécie, seria excessivo, de forma que o acórdão recorrido deve ser mantido.
+A propósito do tema, confiram-se os seguintes precedentes :
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DANO MORAL. COMUNICAÇÃO DE CRIME. EXCESSO DOS COMUNICANTES. RECONHECIMENTO NA ORIGEM. INVERSÃO DO JULGADO. IMPOSSIBILIDADE. REEXAME DE PROVAS. VALOR INDENIZATÓRIO. REDUÇÃO. SÚMULA Nº 7/STJ.
+1. O tribunal de origem reconheceu o dano moral decorrente dos excessos na comunicação de suposto crime que incluiu a abordagem da vítima em seu ambiente de trabalho, seguida de agressões físicas, verbais e de acusação pública de furto, esbarrando o acolhimento da tese de exercício de dever legal e regular do direito no óbice contido na Súmula nº 7 do Superior Tribunal de Justiça.
+2. O Superior Tribunal de Justiça, afastando a incidência da Súmula nº 7/STJ, tem reexaminado o montante fixado pelas instâncias ordinárias a título de danos morais apenas quando irrisório ou abusivo, circunstâncias inexistentes no presente caso em que fixada a indenização em R$ 50.000,00 (cinquenta mil reais) para reparar excesso na comunicação de suposto crime que resultou na impossibilidade de a vítima continuar no emprego no qual estava há 8 (oito) anos.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 996.541/BA, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 7/3/2017, DJe de 14/3/2017.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. SERVIÇO DE ÁGUA E ESGOTO. ROMPIMENTO DE ENCANAMENTO. ALAGAMENTO DA RESIDÊNCIA DA PARTE AGRAVADA. OFENSA ART. 535 DO CPC. NÃO OCORRÊNCIA. INDENIZAÇÃO POR DANOS MORAIS. REDUÇÃO DO VALOR. PRETENSÃO
+RECURSAL QUE ESBARRA NO ÓBICE DA SÚMULA 7/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+I. Não há omissão no acórdão recorrido, quando o Tribunal de origem pronuncia-se, de forma clara e precisa, sobre a questão posta nos autos, assentando-se em fundamentos suficientes para embasar a decisão.
+II. No que concerne ao valor arbitrado a título de danos morais, a jurisprudência do Superior Tribunal de Justiça consolidou o entendimento no sentido de que somente pode ser revisto excepcionalmente, quando irrisório ou exorbitante, em afronta aos princípios da razoabilidade e da proporcionalidade, sob pena de ofensa ao disposto na Súmula 7 desta Corte.
+III. No caso, o Tribunal a quo, em virtude das peculiaridades fáticas do caso, manteve o valor de R$ 20.000,00 (vinte mil reais), a título de reparação por danos morais, quantum que merece ser mantido, por consentâneo com os princípios da proporcionalidade e da razoabilidade. Conclusão em contrário esbarraria no óbice da Súmula 7/STJ. Precedentes.
+IV. Agravo Regimental improvido.
+(AgRg no AREsp 750.562/MS, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 17/09/2015, DJe 28/09/2015)
+ANTE O EXPOSTO, nego provimento ao agravo. Levando-se em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do CPC).
+Publique-se.
