@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/03/2023 a 03/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EXTINÇÃO. PRESCRIÇÃO. HONORÁRIOS. FIXAÇÃO ENTRE 10% A 20% DO VALOR ATUALIZADO DA DEMANDA. ART. 85, § 2º, DO CPC/2015. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da jurisprudência firmada na Segunda Seção do Superior Tribunal de Justiça, os honorários advocatícios sucumbenciais devem ser fixados, em regra, com observância dos limites percentuais e da ordem de gradação da base de cálculo estabelecida pelo art. 85, § 2º, do CPC/2015, inclusive nas demandas julgadas improcedentes ou extintas sem resolução do mérito, sendo subsidiária a aplicação do art. 85, § 8º, do CPC/2015, possível apenas quando ausente qualquer das hipóteses do § 2º do mesmo dispositivo (REsp 1.746.072/PR, Rel. p/ acórdão Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, DJe de 29/3/2019).
+2. Na hipótese, extinto o feito em razão do reconhecimento da prescrição, e tendo sido devidamente apontado o valor da causa, os honorários advocatícios de sucumbência devem ser fixados nos percentuais previstos no § 2º do art. 85 do CPC/2015, assim como definido no v. acórdão recorrido. Súmula 83/STJ.
+3. Agravo interno desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Cuida-se de agravo interno interposto por JOSIANE NOVELI BARRETO e JOSI FLOR COMÉRCIO DE CONFECÇÕES LTDA contra decisão que conheceu do agravo para negar provimento ao recurso especial, em razão da consonância do acórdão recorrido com a jurisprudência desta Corte de Justiça acerca da interpretação conferida ao artigo 85, § 2º, do CPC/2015.
+Nas razões do agravo interno, alegam, em síntese, que a base de cálculo dos honorários advocatícios é o proveito econômico obtido com a extinção da execução, e não o valor da causa, como disposto no acórdão recorrido.
+A parte agravada, devidamente intimada, apresentou impugnação às fls. 937/942.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EXTINÇÃO. PRESCRIÇÃO. HONORÁRIOS. FIXAÇÃO ENTRE 10% A 20% DO VALOR ATUALIZADO DA DEMANDA. ART. 85, § 2º, DO CPC/2015. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da jurisprudência firmada na Segunda Seção do Superior Tribunal de Justiça, os honorários advocatícios sucumbenciais devem ser fixados, em regra, com observância dos limites percentuais e da ordem de gradação da base de cálculo estabelecida pelo art. 85, § 2º, do CPC/2015, inclusive nas demandas julgadas improcedentes ou extintas sem resolução do mérito, sendo subsidiária a aplicação do art. 85, § 8º, do CPC/2015, possível apenas quando ausente qualquer das hipóteses do § 2º do mesmo dispositivo (REsp 1.746.072/PR, Rel. p/ acórdão Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, DJe de 29/3/2019).
+2. Na hipótese, extinto o feito em razão do reconhecimento da prescrição, e tendo sido devidamente apontado o valor da causa, os honorários advocatícios de sucumbência devem ser fixados nos percentuais previstos no § 2º do art. 85 do CPC/2015, assim como definido no v. acórdão recorrido. Súmula 83/STJ.
+3. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+A irresignação não merece prosperar.
+O eg. Tribunal de origem reformou parcialmente a r. sentença que julgou extinta a execução de título extrajudicial, apenas para estabelecer os honorários de sucumbência em favor da parte executada, ora agravante, em montante equivalente a 10% do valor atualizado da causa, na forma do art. 85, § 2º, do CPC/2015, nos seguintes termos:
+"Na sentença recorrida, os honorários advocatícios foram fixados por apreciação equitativa da MM.ª Juíza, em R$ 10.000,00 (dez mil reais).
+As apelantes insurgem-se contra esse entendimento, sob o argumento de que a verba honorária deve ser fixada com base na regra geral prevista no artigo 85, §2º, do Código de Processo Civil de 2015.
+Assiste-lhes razão.
+Conforme disposto no artigo 85, §2º, do Código de Processo Civil de 2015, "Os honorários serão fixados entre o mínimo de dez e o máximo de vinte por cento sobre o valor da condenação, do proveito econômico obtido ou, não sendo possível mensurá-lo, sobre o valor . atualizado da causa".
+A seu turno, a fixação de honorários advocatícios por apreciação equitativa deve ser realizada nos termos do §8º, do supracitado artigo, apenas "Nas causas em que for inestimável ou irrisório o proveito econômico ou, ainda, quando valor da causa for muito baixo".
+Infere-se, portanto, que o arbitramento de honorários sucumbenciais por apreciação equitativa possui aplicabilidade subsidiária, restrita às hipóteses expressamente previstas legalmente.
+ ..
+No caso em análise, não está presente situação que autorize a fixação de honorários de forma equitativa, notadamente porque à causa foi atribuído o valor de R$ 478.312,31 (quatrocentos e setenta e oito mil, trezentos e doze reais e trinta e um centavos - mov. 1.1 - 1º grau, f. 04).
+Destarte, nos termos do disposto no artigo 85, §2º, do Código de Processo Civil, o apelo merece ser provido, para fixar honorários advocatícios aos procuradores das apelantes em 10% (dez por cento) do valor da causa, a ser atualizado, montante condigno a remunerar o trabalho realizado, inclusive em grau recursal.
+Em face do exposto, voto no sentido de: conhecer do recurso de apelação a) interposto pelo exequente, Fundo de Recuperação de Ativos - Fundo de Investimento em Direitos , e negar-lhe provimento; e, conhecer do recurso de apelação Creditórios Não Padronizado b) interposto pelas executadas, e , e Josi Flor Comércio de Confecções Ltda Josiane Noveli Barreto dar-lhe provimento, para fixar honorários advocatícios aos seus procuradores em 10% (dez por cento) do valor atualizado da causa." (e-STJ, fls. 712/715)
+Na hipótese, em que a execução foi extinta pela prescrição, inexistem condenação e proveito econômico imediato em favor dos executados, motivo pelo qual os honorários devem ser fixados em 10% do valor atualizado da execução. Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EXTINÇÃO. PRESCRIÇÃO. HONORÁRIOS. EQUIDADE. AFASTAMENTO. FIXAÇÃO ENTRE 10% A 20% DO VALOR ATUALIZADO DA DEMANDA. ART. 85, § 2º, DO CPC/2015. AGRAVO INTERNO PROVIDO PARA, EM NOVO JULGAMENTO, CONHECER DO AGRAVO E DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL.
+1. Nos termos da jurisprudência firmada na Segunda Seção do Superior Tribunal de Justiça, os honorários advocatícios sucumbenciais devem ser fixados, em regra, com observância dos limites percentuais e da ordem de gradação da base de cálculo estabelecida pelo art. 85, § 2º, do CPC/2015, inclusive nas demandas julgadas improcedentes ou extintas sem resolução do mérito, sendo subsidiária a aplicação do art. 85, § 8º, do CPC/2015, possível apenas quando ausente qualquer das hipóteses do § 2º do mesmo dispositivo (REsp 1.746.072/PR, Rel. p/ acórdão Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, DJe de 29/3/2019).
+2. Na hipótese, extinto o feito em razão do reconhecimento da prescrição, e tendo sido devidamente apontado o valor da causa, os honorários advocatícios de sucumbência devem ser fixados nos percentuais previstos no § 2º do art. 85 do CPC/2015, sendo indevida a aplicação do critério da equidade.
+3. Agravo interno provido para, em novo julgamento, conhecer do agravo e dar parcial provimento ao recurso especial, a fim de fixar os honorários advocatícios em 10% sobre o valor atualizado da causa."
+(AgInt no AREsp n. 1.878.815/MS, relator Ministro Raul Araújo, Quarta Turma, julgado em 21/2/2022, DJe de 9/3/2022.)
+"AGRAVO INTERNO NO RECURSO ESPECIAL - EXCEÇÃO DE PRÉ-EXECUTIVIDADE - DECISÃO MONOCRÁTICA QUE DEU PROVIMENTO AO APELO NOBRE DO EXCIPIENTE. INSURGÊNCIA DO EXCEPTO.
+1. O CPC/2015 tornou mais objetivo o processo de determinação da verba sucumbencial, introduzindo, na conjugação dos §§ 2º e 8º do art. 85, ordem decrescente de preferência de critérios (ordem de vocação) para fixação da base de cálculo dos honorários, na qual a subsunção do caso concreto a uma das hipóteses legais prévias impede o avanço para outra categoria REsp 1746072/PR, Rel. Ministra NANCY ANDRIGHI, Rel. p/ Acórdão Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, julgado em 13/02/2019, DJe 29/03/2019). 1.1. No caso em tela, a Corte de origem divergiu a orientação firmada neste Tribunal Superior ao fixar os honorários de sucumbência por equidade, sendo devida a reforma do aresto estadual para estabelecer a verba honorária em 10 (dez por cento) do valor da execução.
+2. Agravo interno desprovido."
+(AgInt no REsp n. 1.861.108/SC, relator Ministro Marco Buzzi, Quarta Turma, julgado em 11/5/2020, DJe de 19/5/2020)
+Com efeito, a fixação da verba honorária em percentual com base no valor atualizado da causa, na forma como estabelecida no v. acórdão recorrido, não destoa da jurisprudência do Superior Tribunal de Justiça, fazendo-se mister a confirmação da decisão agravada, que conheceu do agravo para negar provimento ao recurso especial.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
