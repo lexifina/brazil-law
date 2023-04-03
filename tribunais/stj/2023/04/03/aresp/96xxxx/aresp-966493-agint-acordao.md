@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/03/2023 a 03/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão assim ementada (fl. 314):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535, INCS. I E II, DO CPC/1973. NÃO OCORRÊNCIA. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+O agravante alega que, no caso, houve efetiva violação do art. 535, incs, I e II, do CPC/1973, por se estar diante de negativa de prestação jurisdicional. Afirma que "(..), o Tribunal a quo acabou por dar o mesmo tratamento a proventos e pensões, a par de existir regramento constitucional diferenciado na questão dos militares e das suas pensionistas, que decorre da leitura da norma constitucional acima mencionada, não se podendo abrir qualquer exceção para tal regra, eis que é clara e objetiva quanto à necessidade de aplicar aos pensionistas militares dos Estados, Distrito Federal e Territórios, o que for fixado em lei específica do respectivo ente estatal. Com efeito, a própria Constituição Federal, no § 2º do artigo 42, expressamente retirou os pensionistas dos militares, no âmbito dos Estados, Distrito Federal e Territórios, do regime próprio dos militares, que está previsto no § 1º do mesmo artigo 42, determinando a aplicação de normas específicas relativas ao pensionamento de cada ente estatal." (fl. 322).
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535, INCS. I E II, DO CPC/1973. NÃO OCORRÊNCIA.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do CPC/1973, devem ser exigidos os requisitos de admissibilidade na forma nele prevista, conforme Enunciado Administrativo n. 2/2016/STJ.
+2. A ofensa ao art. 535, incs. I e II, do CPC/1973 foi indicada porque o acórdão recorrido teria deixado de prequestionar expressamente o art. 42, §2º, da CF/1988.
+3. Os embargos de declaração, como previsto no dispositivo de lei supostamente violado, são cabíveis para provocar o saneamento de omissão, contradição e obscuridade, ao que a jurisprudência cuidou de acrescentar, ainda, o saneamento de erro material.
+4. Não consta da previsão legal o prequestionamento. Com efeito, eventual ausência de prequestionamento expresso de um dispositivo de lei não é causa, de per si, para reconhecimento de ofensa ao art. 535 do CPC/1973.
+5. "Na forma da jurisprudência, "não cabe ao Superior Tribunal de Justiça, a pretexto de examinar suposta ofensa ao art. 535, II, do CPC, aferir a existência de omissão do Tribunal de origem acerca de matéria constitucional, sob pena de usurpar a competência reservada ao Supremo Tribunal Federal" (STJ, AgRg no REsp 1.198.002/SE, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, DJe de 21/09/2012). Em igual sentido: STJ, AgInt no AREsp 224.127/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe de 10/02/2017; AgRg no AREsp 743.167/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 02/02/2016" (AgInt no AREsp 1.088.733/SP, Rel. Min. Assusete Magalhães, Segunda Turma, DJe de 2/9/2019).
+6. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigna-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973, devendo ser exigidos os requisitos de admissibilidade na forma nele prevista, conforme Enunciado Administrativo n. 2/2016/STJ.
+Dito isso, observa-se que o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Isso porque, como explicitado no decisum, no caso, a ofensa ao art. 535, incs. I e II, do CPC/1973 foi indicada porque o acórdão recorrido teria deixado de prequestionar expressamente o art. 42, §2º, da CF/1988. Inobstante, os embargos de declaração, como previsto no dispositivo de lei supostamente violado, são cabíveis para provocar o saneamento de omissão, contradição e obscuridade, ao que a jurisprudência cuidou de acrescentar, ainda, o saneamento de erro material.
+Nesse diapasão, não consta da previsão legal o prequestionamento. Com efeito, eventual ausência de prequestionamento expresso de um dispositivo de lei não é causa, de per si, para reconhecimento de ofensa ao art. 535 do CPC/1973.
+Nesse sentido os precedentes colacionados na decisão agravada: EDcl no AgRg no REsp 1388722/SC, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe de 26/6/2017; AgInt no AREsp 1.088.733/SP, Rel. Min. Assusete Magalhães, Segunda Turma, DJe de 2/9/2019; e, mutatis mutandi, EDcl no AREsp 1685042/MG, Rel. Min. Antonio Carlos Ferreira, Quarta Turma, DJe de 9/12/2020.
+Veja-se também:
+PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREQUESTIONAMENTO DE DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE. AUSÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. O art. 1.022 do CPC é peremptório ao prescrever as hipóteses de cabimento dos Embargos de Declaração; trata-se, pois, de recurso de fundamentação vinculada, restrito a situações em que patente a incidência do julgado em obscuridade, contradição, omissão ou erro material, o que não se constata ao caso em apreço, em que a parte pretende somente o prequestionamento de matéria constitucional.
+2. É vedado a este Tribunal apreciar a violação de dispositivos constitucionais, ainda que para fins de prequestionamento, uma vez que o julgamento de matéria de índole constitucional é reservado ao Supremo Tribunal Federal. Precedentes: AgInt no REsp. 1.604.506/SC, Rel. Min. ASSUSETE MAGALHÃES, DJe 8.3.2017; EDcl no AREsp. 909.718/MT, Rel. Min. LUIS FELIPE SALOMÃO, DJe 20.2.2017; EDcl no AgInt no AREsp. 880.545/PE, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe 9.3.2017.
+3. Embargos de Declaração da UNIÃO rejeitados.
+(EDcl no AgInt no AREsp 584.739/ES, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe de 9/5/2017)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
