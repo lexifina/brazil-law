@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, contra acórdão assim relatado (fls. 21/22):
+1. Em favor de Douglas de Sousa Santos, o Dr. Evandro Luís Desidério da Rocha impetrou o presente habeas corpus postulando, sob alegação de constrangimento ilegal, a concessão da ordem para reconhecer a ilicitude das provas e absolver o paciente quanto ao crime de tráfico de drogas e possa aguardar em liberdade o resultado do recurso interposto quanto aos demais delitos.
+Informa, em síntese, que o paciente, condenado como incurso no art. 33, caput, da Lei nº 11.343, de 2006, art. 155, § 4º, e art. 311, caput, ambos do CP, sem possibilidade de recorrer em liberdade. Alega que a condenação decorreu de provas ilicitamente obtidas, a inquinar todo o procedimento e tornar nula a condenação (fls. 01/11).
+Juntados documentos comprobatórios da impetração e indeferido o pedido liminar (fls. 29/30), prestou informações a d. autoridade coatora Juízo de Direito da 28ª Vara Criminal Central (fls. 33/36).
+Manifestou-se, em seguida, a d. Procuradoria Geral de Justiça pela denegação da ordem (fls. 41/45).
+É o relatório.
+O paciente foi condenado por tráfico de drogas, furto qualificado e adulteração de sinal identificador de veículo automotor, sendo-lhe indeferido o direito de recorrer em liberdade.
+A defesa alega que a condenação pelo tráfico se amparou em prova ilícita, obtida mediante invasão domiciliar. Assevera que inexiste periculum libertatis, de maneira que a custódia preventiva não se justifica, diante dos bons predicados do paciente.
+Liminarmente e no mérito, busca o reconhecimento da nulidade aventada, o desentranhamento das provas tidas como ilícitas, e a absolvição do delito de tráfico de drogas, assim como a concessão da liberdade provisória.
+Na origem, em consulta ao processo n. 1519410-68.2022.8.26.0228, verifica-se que a apelação foi juntada em 8/2/2023; sendo as contrarrazões apresentadas em 9/3/2023, consoante informações disponíveis no sistema e-SAJ do TJSP (acesso em 30/3/2023).
+Não havendo divergência da matéria no órgão colegiado, admissível seu pronto exame pelo relator, nos termos do art. 34, XVIII e XX, do RISTJ.
+A sentença indeferiu o direito de recorrer em liberdade nos seguintes termos (fl. 39):
+O réu respondeu preso a todo o processo, não se justificando a soltura após a prolação de sentença condenatória, razão pela qual nego o apelo em liberdade, sem prejuízo da execução provisória da pena, salientando-se que subsistem os fundamentos que ensejaram a decretação da prisão preventiva do réu, o qual praticou crime grave, assemelhado aos hediondos, a demonstrar que a manutenção da custódia se justifica para a garantia da ordem pública.
+Como se vê, a sentença remeteu-se aos fundamentos do decreto preventivo para justificar a manutenção da custódia, salientando que o paciente respondeu preso a todo o processo.
+"Segundo a jurisprudência do Superior Tribunal de Justiça, a manutenção da custódia cautelar no momento da sentença condenatória, em hipóteses em que o acusado permaneceu preso durante toda a instrução criminal, não requer fundamentação exaustiva, sendo suficiente, para a satisfação do art. 387, § 1.º, do Código de Processo Penal, o entendimento de que permanecem inalterados os motivos que levaram à decretação da medida extrema em um primeiro momento, desde que estejam, de fato, preenchidos os requisitos legais do art. 312 do mesmo diploma" (HC 616.460/PE, Rel. Ministra Laurita Vaz, Sexta Turma, DJe de 14/5/2021).
+Contudo, no caso dos autos, a defesa técnica não colacionou aos autos o decreto de prisão preventiva.
+Uma vez que habeas corpus é rito de cognição sumária, exige-se prova documental pré-constituída do direito alegado, sendo ônus do impetrante trazê-la no momento da impetração, máxime quando se tratar de advogado constituído. Desse modo, a ausência de peça essencial ao deslinde da controvérsia inviabiliza o exame do pleito defensivo. Nesse sentido: PET no HC 584.863/SP, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 17/06/2020.
+No tocante à alegada invasão domiciliar, a tese não foi apreciada pelo acórdão, como se vê (fls. 23/24):
+Embora se admita o cabimento do remédio heroico para salvaguardar outras garantias, e ainda assim em caráter excepcional, o habeas corpus, com sua cognição sumária e não exauriente, não se presta a análise aprofundada de provas.
+A ilegalidade a ser sanada deve ser perceptível ao primeiro olhar.
+Não é o caso do presente feito.
+Repita-se: por válidos que sejam os argumentos, o habeas corpus é via inadequada para sua apreciação, vez que a argumentação trazida demanda análise aprofundada, inviável nesta via que não comporta dilação probatória.
+Somado a isso, consultando os autos na origem, que tramitam em meio digital, observa-se que o impetrante já interpôs o competente recurso de apelação e em suas razões (fls. 405/422 dos autos na origem) constou os mesmos argumentos trazidos a este writ. Por ocasião do julgamento daquele recurso, o mérito das alegações será enfrentado.
+Com efeito: em consulta ao sistema e-SAJ do Tribunal de origem, constata-se a oposição de recurso de apelação, juntado aos autos em 8/2/2023, com contrarrazões apresentadas em 9/3/2023. Portanto, a análise das demais questões encontra óbice na supressão de instância, haja vista que as vias recursais ordinárias não foram esgotadas, havendo recurso próprio pendente de julgamento. Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO E CORRUPÇÃO DE MENORES. REGIME INICIAL DE CUMPRIMENTO DE PENA. MODO FECHADO. PLEITO DE ABRANDAMENTO. IMPOSSIBILIDADE. MATÉRIA NÃO APRECIADA PELA CORTE DE ORIGEM. APELAÇÃO CRIMINAL PENDENTE DE JULGAMENTO.
+1. O entendimento desta Corte Superior é no sentido de ser prematura a apreciação da questão de mérito pela via do habeas corpus (abrandamento de regime inicial de cumprimento de pena), quando interposta apelação na origem, recurso próprio para a análise das alegações.
+2. "O agravo regimental deve apresentar argumentos novos capazes de alterar o entendimento anteriormente firmado, sob pena de a decisão impugnada ser mantida por seus próprios fundamentos" (AgRg no RHC 147.013/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, julgado em 25/05/2021, DJe 28/05/2021).
+3. Agravo regimental improvido. (AgRg no HC 704.523/SP, Relator Ministro Olindo Menezes (Desembargador convocado do TRF 1ª Região), Sexta Turma, julgado em 7/12/2021, DJe 13/12/2021).
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
