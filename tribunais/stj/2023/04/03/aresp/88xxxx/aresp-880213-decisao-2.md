@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interposto por INSTITUTO MOREIRA SALLES em face de decisão de inadmissibilidade de recurso especial, fundado no art. 105, III, "a" e "c", da Constituição, interposto em face do v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA. AGRAVO RETIDO.
+JUNTDADA DE DOCUMENTOS. CARÊNCIA DE AÇÃO. NULIDADE DA SENTENÇA. DIREITO DE PROPRIEDADE. AÇÃO POSSESSÓRIA. COISA JULGADA. USUCAPIÃO. TOMBAMENTO. HONORÁRIOS ADVOCATICIOS DE SUCUMBÊNCIA. PRELIMINARES REJEITADAS. AGRAVO RETIDO NÃO PROVIDO. PRIMEIRO RECURSO PROVIDO. SEGUNDO RECURSO PROVIDO EM PARTE. TERCEIRO RECURSO NÃO PROVIDO.
+- "Somente os documentos tidos como pressupostos da causa é que devem acompanhar a inicial e a defesa. Os demais podem ser oferecidos em outras fases e até mesmo na via recursal, desde que ouvida a parte contrária e inexistentes o espírito de ocultação premeditada e o propósito de surpreender o juizo." - A sentença proferida de acordo com a matéria deduzida pelas partes e com a prova dos autos não extrapola os limites da lide.
+- A existência de coisa julgada em ação possessória, cujo objeto limita-se ao reconhecimento das questões afeitas à posse, não pode ser invocada como óbice à propositura da ação em que a parte pretende a declaração de direito de uso do imóvel com base na alegação de propriedade.
+- Em ação declaratória fundada em domínio, é possível reconhecer o direito de uso sobre a lateral contígua ao imóvel do autor da ação, se o conjunto probatório dos autos revela que detém titulo de propriedade sobre a área.
+A usucapião pode ser alegada em defesa, mas sua declaração judicial deve ser buscada por via de ação própria.
+- Restando demonstrado que a área controvertida não integra o imóvel tombado, não está sujeita aos efeitos do tombamento.
+- Nas causas em que não houver condenação os honorários devem ser arbitrados consoante apreciação equitativa do juiz, atendidos o grau de zelo profissional, o local da prestação do serviço, bem como a natureza e importância da causa, o trabalho realizado pelo advogado e o tempo exigido para o serviço prestado (CPC, art. 20, §§ 3º e 4º)." (fl. 2.499)
+O recorrente aponta ofensa aos arts. 17 e 18 Decreto-Lei n. 25/1937, 499, 500 e 538 do CPC/73, 23 da Lei n. 8.906/94, sustentando, em síntese, (a) "ainda que não seja declarado o direito de uso do Recorrente e ainda que se entenda que o imóvel referido não foi tombado, não pode a Recorrida usar o imóvel de modo que atrapalhe, em qualquer aspecto, o imóvel tombado de propriedade do Recorrente" (fl. 2.557), (b) apelação prematura, (c) "Os Recorridos interpuseram o recurso pretendendo a reforma apenas com relação à fixação da sucumbência. Ora, os honorários de sucumbência são devidos aos procuradores das partes, razão pela qual, com fulcro no art. 499 do Código de Processo Civil, a legitimidade para recorrer com relação à sua (não) fixação é exclusiva dos advogados" (fl. 2.566).
+Contrarrazões às fls. 2.608/2.629.
+É o relatório.
+Acerca do requisito do prequestionamento, dispõem as Súmulas n. 282 e 356/STF:
+Súmula 282. É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada. Jurisprudência selecionada.
+Súmula 356. O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento.
+Na espécie, o recorrente suscita três teses: (i) irregularidade do uso do imóvel pelos réus, em razão do tombamento do prédio objeto de litígio, (ii) intempestividade da apelação, pois interposta antes do julgamento dos embargos declaratórios (recurso prematuro) e (iii) ilegitimidade recursal.
+Nenhuma dessas questões, porém, foi expressamente debatida no aresto recorrido, o que impede o exame do recurso especial, dada a incidência das Súmulas n. 282 e 356/STF.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
