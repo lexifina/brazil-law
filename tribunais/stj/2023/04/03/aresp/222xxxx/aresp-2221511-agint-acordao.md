@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/03/2023 a 03/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Trata-se de agravo interno manejado por EDILEUZA MARIA GOIS CRUZ para desafiar decisão proferida às e-STJ fls. 710/712, que não conheceu do agravo em recurso especial, pois a agravante não impugnou especificamente o fundamento da decisão agravada, no caso, a incidência da Súmula 83 do STJ.
+Sustenta a parte agravante, às e-STJ fls. 716/724, em suma, que, ao contrário do consignado, infirmou o referido fundamento no trecho do agravo em recurso especial indicado.
+Requer, assim, seja conhecido e provido o recurso.
+Impugnação às e-STJ fls. 728/732.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. JUÍZO DE PRELIBAÇÃO NEGATIVO. DECISÃO DO TRIBUNAL DE ORIGEM. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA.
+1. De acordo com o disposto no art. 253, parágrafo único, I, do RISTJ e no art. 932, III, do CPC/2015, compete à parte agravante infirmar especificamente os fundamentos adotados pela Corte de origem para obstar o seguimento do recurso especial, mostrando-se inadmissível o agravo que não se insurge contra todos eles.
+2. Hipótese em que a recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, as razões que levaram à inadmissibilidade do apelo nobre.
+3. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Tenho que o inconformismo sob exame não merece prosperar.
+A parte agravante não trouxe nenhum argumento capaz de alterar o decisum atacado, proferido em sintonia com a jurisprudência deste Tribunal Superior, no sentido de que a parte deve infirmar especificamente os fundamentos da decisão impugnada, mostrando-se inadmissível o agravo que não se insurge contra todos eles, nos termos do disposto no art. 253, parágrafo único, I, do RISTJ e no art. 932, III, do CPC/2015.
+Nas razões do agravo em recurso especial, a recorrente não infirmou de forma clara e específica todos os fundamentos da decisão agravada, abstendo-se de atacar a incidência da Súmula 83 do STJ, em evidente desrespeito ao princípio da dialeticidade.
+Com efeito, a parte limitou-se a alegar, entre outras razões, o seguinte (e-STJ fls. 685/687):
+Em sua decisão, o Ilustre Desembargador Presidente se baseou no sentido de que o entendimento esposado pelo Tribunal de piso encontra-se em consonância com a jurisprudência pacífica do STJ, o que encontra óbice na Súmula 83 do STJ.
+Ou seja, concluiu que remeter o Recurso Especial interposto ao Tribunal ad quem para analisar a ofensa aos dispositivos de lei federal aduzidos vai de contra o entendimento firmado naquela Corte vedar tal apreciação.
+Acontece que, em verdade, o Presidente do TJ/SE - de forma equivocada - aplicou a citada súmula à alegação do Agravante de violação à lei federal. Em suma, entendeu Sua Excelência que também neste caso o óbice criado pela Súmula seria válido para ensejar a proibição do conhecimento do recurso.
+Entretanto, Excelência, a aplicação do referido enunciado à espécie de recurso especial pela violação à lei federal constitui violação ao princípio do contraditório e da ampla defesa, como tem proclamado a doutrina.
+Isso porque o verbete sumular é claro ao proclamar que não se conhecerá o Recurso Especial pela divergência quando a orientação do STJ tiver se firmado no mesmo sentido da decisão agravada (o que não ocorre, como visto).
+A súmula não foi editada pensando-se na hipótese de ser a mesma aplicada quando da interposição do Recurso Especial quando há alegação de violação à lei federal.
+ ..
+Ademais Nobre Relator, o objeto do Recurso Especial é, pois, a patente violação de dispositivo de lei federal, mais especificamente, art. 805 e 872 do Código de Processo Civil e da divergência jurisprudencial suscitada, no sentido de que deve ser determinada a exclusão total da penhora sobre o bem do casal, uma vez que a expropriação e a reserva de crédito, decorrente da arrematação do bem, ofende o direito à propriedade da Recorrente.
+ ..
+Cumpre mencionar que ante o entendimento jurisprudencial colacionado pelo Agravante ao caso em apreço, conforme se visualiza da respeitável decisão ora recorrido, o d. Tribunal que manteve a decisão reconheceu que o imóvel, mesmo dividido em lotes, mas só possuir uma matrícula, não pode ser considerado divisível.
+Contudo, fora fundamentada a decisão recorrida em jurisprudência divergente da decisão paradigma apresentada pela recorrente em seu Agravo de Instrumento, o que enseja o recurso especial com base no art. 105, III, alínea c da Constituição Federal.
+Sendo assim, demonstrada a inaplicabilidade da Súmula 83 no caso em apreço, assim devendo ser reformada a decisão recorrida ante a violação a legislação federal supra mencionada, e por consequência determinada a divisão cômoda do imóvel penhorado, nos termos dos art. 805 e 872 do Código de Processo Civil.
+Todavia, há de ser registrada a insuficiência para efeitos de impugnação a esse fundamento da mera alegação de que o recurso se baseou apenas na alínea "a" do permissivo legal, e, portanto, não seria aplicável a Súmula 83 do STJ, que supostamente se referiria apenas à pretensão lastreada na divergência jurisprudencial.
+Isso porque, de há muito, encontra-se pacificado o entendimento de que a Súmula 83 do STJ é aplicável tanto pela alínea "a" quanto pela "c" do permissivo constitucional (vide: AgRg no REsp 1.361.608/RN, relatora Ministra Regina Helena Costa, Primeira Turma, DJe 12/05/2016; AgRg no AREsp 804.289/PR, relator Ministro Herman Benjamin, Segunda Turma, DJe 24/05/2016).
+Nesse contexto, "se a inadmissão teve amparo no óbice descrito na Súmula 83 do STJ, deve a parte apontar precedentes deste Tribunal contemporâneos ou supervenientes aos mencionados na decisão agravada, procedendo ao cotejo analítico entre eles para demonstrar que outra é a orientação jurisprudencial nesta Corte Superior ou, na hipótese de distinção dos casos, comprovar a inaplicação ao feito do posicionamento exposto no decisum" (AgInt no AREsp 1723249/PR, Rel. Ministro OG FERNANDES, Segunda Turma, julgado em 22/06/2021, DJe 28/06/2021), o que não ocorreu.
+Assim, mostra-se inafastável o desprovimento do presente agravo interno.
+Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. SERVIDOR PÚBLICO. DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS. ART. 932, III, DO CPC/2015 E ART 253, PARÁGRAFO ÚNICO, I, DO RISTJ. PRECEDENTES. MATÉRIA DECIDIDA PELA CORTE ESPECIAL. EARESP Nº 746.775/PR. IMPUGNAÇÃO TARDIA EM SEDE DE AGRAVO INTERNO. IMPOSSIBILIDADE. INOVAÇÃO RECURSAL. PRECLUSÃO CONSUMATIVA. AGRAVO INTERNO NÃO PROVIDO.
+1. O Tribunal de origem inadmitiu o recurso especial alegando, dentre outros motivos, que não seria possível a interposição do recurso para alegar ofensa à Súmula nº 85/STJ, por não estar referida espécie compreendida na expressão lei federal, constante nas alínea "a", "b", ou "c" do inciso III do artigo 105 da Constituição Federal. Nas razões do agravo em recurso especial, os agravantes não impugnaram de forma específica referido fundamento.
+2. Verifica-se, pois, que os agravantes deixaram de impugnar especificamente todos os fundamentos da decisão de inadmissibilidade do recurso, razão pela qual o agravo em recurso especial não pode ser conhecido, a teor do art. 932, III, do CPC/2015, bem como do art. 253, parágrafo único, I, do RISTJ. Precedentes.
+3. A Corte Especial deste Tribunal Superior, ao julgar o EAREsp nº 746.775/PR, cujo julgamento foi concluído na sessão realizada em 19/09/2108, ratificou referido entendimento e estabeleceu a necessidade de impugnação específica de todos os fundamentos da decisão de inadmissibilidade do recurso especial, sob pena de não conhecimento do agravo.
+4. A tentativa de suprir falha de impugnação, através do agravo interno, de fundamento do juízo negativo de admissibilidade não impugnado nas razões do agravo em recurso especial, constitui verdadeira inovação recursal inviável em razão da ocorrência da preclusão consumativa.
+5. Agravo interno não provido.
+(AgInt no AREsp 1.335.756/MS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 06/11/2018, DJe 13/11/2018).
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO. MULTA ADMINISTRATIVA. AUSÊNCIA DE IMPUGNAÇÃO À TOTALIDADE DOS FUNDAMENTOS ADOTADOS PELA DECISÃO QUE NÃO ADMITE, NA ORIGEM, O RECURSO ESPECIAL. SÚMULA 182/STJ. INCIDÊNCIA.
+1. É inviável o agravo que deixa de atacar, de modo específico, os fundamentos adotados pelo Tribunal de origem para negar seguimento ao recurso especial. Incidência da Súmula 182 do STJ.
+2. A Corte Especial do STJ, na assentada de 19/9/2018, consolidou o entendimento de que incumbe ao agravante infirmar, especificamente, a totalidade do conteúdo da decisão que não admitiu o processamento do recurso especial, sob pena de incidir o óbice contido na Súmula 182/STJ. Dessarte, não se admite a impugnação parcial do julgado (EAREsp 701.404/SC e EAREsp 831.326/SP, DJe de 30/11/2018).
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.930.439/RJ, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 29/11/2021, DJe de 2/12/2021.).
+Deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC/2015, tendo em vista que o mero inconformismo com a decisão agravada não enseja a necessária imposição da sanção, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do Colegiado, como no caso em análise.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
