@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo de PITANGUEIRAS ACUCAR E ALCOOL LTDA contra decisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. SEGURO. INDENIZAÇÃO. Necessidade de liquidação da sentença, conforme restou determinado na sentença. Insurgência. Alegação de meros cálculos aritméticos. Aplicação de multa ante a intempestividade do depósito judicial. Descabimento. Honorários periciais que devem ser carreados pela vencedora. Entendimento do STJ no julgamento do REsp. nº 1.274.466/SC em sede de Recurso Repetitivo. Decisão parcialmente reformada.
+RECURSO PARCIALMENTE PROVIDO." (e-STJ fl. 36)
+Os embargos de declaração opostos foram rejeitados (e-STJ fl. 46/50)
+Nas razões do recurso especial, o agravante alega violação dos arts. 1.022, II, 219, caput e parágrafo único, 224, 509, §2º, 523, §1º do CPC, arts. 884 do CC, sustentando, em síntese, que: 1) o acórdão foi omisso quanto à informação apresentada no agravo de instrumento pelas recorrentes de que salvado foi vendido pelo valor de R$ 60.000,00, conforme documento apresentado na ação de cobrança, quanto ao fato de que o cumprimento de sentença apresentado pelas recorrentes foi instruído com os documentos necessários e quanto à intempestividade apontada por essas recorrentes do depósito realizado pela recorrida; 2) o cálculo da condenação imposta à recorrida depende de meros cálculos aritméticos, não se justificando a instauração da fase de liquidação; e ) deve ser reconhecida a intempestividade do depósito realizado, com a aplicação das disposições previstas no artigo 523, §1º, do CPC.
+É o relatório. Decido.
+Inicialmente, não prospera a alegada ofensa ao art. 1.022 do Código de Processo Civil, tendo em vista que o v. acórdão recorrido adotou fundamentação suficiente, decidindo integralmente a controvérsia, como se verá adiante.
+É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte.
+O agravante alega, em síntese, que o cálculo da condenação imposta à recorrida depende de meros cálculos aritméticos, não se justificando a instauração da fase de liquidação.
+O Tribunal de origem expressamente consignou o seguinte sobre o tema:
+"Inicialmente, cumpre ressaltar o acerto da decisão que determinou a liquidação da sentença. Isso porque, restou expressamente determinado na sentença na ação de indenização, a necessidade da liquidação, em razão da ausência de prova contundente do valor obtido com a venda do veículo.
+Ora, não cabe aos agravantes rediscutir o que já decidido na sentença e confirmado em acórdão.
+Assim, diante deste quadro, tendo em vista a necessidade da liquidação da sentença, não há que se falar em aplicação de multa e honorários advocatícios previstos no art. 523, § 1º do CPC.
+Com efeito, como bem asseverado na r. decisão agravada, o valor devido deve ser apurado, após a realização da perícia, não havendo, ainda, um valor líquido e certo, não se tratando de cumprimento de sentença, pelo que não cabe multa e honorários advocatícios do art. 523, §1º do CPC." (e-STJ, fls. 37) (grifei)
+Nesse contexto, a modificação de tal entendimento lançado no v. acórdão recorrido, quanto à necessidade de liquidação, demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório. Neste sentido:
+AGRAVO REGIMENTAL. AGRAVO. EXECUÇÃO. EXTINÇÃO. LITIGÂNCIA DE MÁ-FÉ. RECURSO CABÍVEL. APELAÇÃO. APURAÇÃO DOS VALORES. LIQUIDAÇÃO DE SENTENÇA. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7. VIOLAÇÃO 535 NÃO CONFIGURADA. LITIGÂNCIA DE MÁ-FÉ. NÃO OCORRÊNCIA.
+1. Não configura violação ao art. 535 do CPC a decisão que examina, de forma fundamentada, todas as questões submetidas à apreciação judicial, circunstância que afasta a negativa de prestação jurisdicional.
+2. A alegação de que os contracheques não se prestam a comprovar valores pagos por entidade de previdência privada não configura litigância de má-fé, diante da ausência de evidência de que a conduta teve o intuito de induzir o juízo a erro. O Juiz não está adstrito ao dispositivo legal indicado pela parte em decorrência do princípio de conhece o direito e o aplica à pretensão que lhe foi submetida.
+3. O ato judicial que extingue a execução deve ser impugnado por meio de recurso de apelação (CPC, art.. 475-M, § 3º, segunda parte).
+Precedentes.
+4. A conclusão do acórdão impugnado no recurso especial de que a apuração dos valores devidos não pode ser feita por simples cálculos aritméticos, sendo necessária a liquidação de sentença, não pode ser revista no âmbito do recurso especial, por demandar o reexame do conjunto fático-probatório dos autos (Súmulas 7/STJ).
+5. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 163.342/DF, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 18/3/2014, DJe de 26/3/2014.)
+Ademais, conforme constou no acórdão recorrido, reconhecida a necessidade da liquidação da sentença, não há que se falar em aplicação de multa e honorários advocatícios previstos no art. 523, § 1º do CPC.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
