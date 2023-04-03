@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/03/2023 a 03/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de agravo interno, interposto por CEG RIO S/A ("CEG RIO"), em face de decisão monocrática da lavra deste signatário que conheceu do agravo para não conhecer do recurso especial.
+O aludido apelo extremo, fundado na alínea "a" do permissivo constitucional, desafiou acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim ementado (e-STJ, fl. 1011):
+APELAÇÕES. EMBARGOS À EXECUÇÃO. SENTENÇA DE PROCEDÊNCIA. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL, LASTREADA EM DESCUMPRIMENTO DE CLÁUSULA, PREVISTA EM INSTRUMENTO DE CONFISSÃO DE DÍVIDA E DAÇÃO EM PAGAMENTO. INEXISTÊNCIA DE TÍTULO HÁBIL A PROMOVER EXECUÇÃO POR QUANTIA CERTA, DEVENDO SER EFETUADA EXECUÇÃO DE OBRIGAÇÃO DE FAZER PARA EFETIVA TRANSMISSÃO DA PROPRIEDADE DO IMÓVEL. ALEGAÇÃO DE INOBSERVÂNCIA DE CLÁUSULAS CONTRATUAIS, AS QUAIS PREVIAM A POSSIBILIDADE DE EXECUÇÃO POR QUANTIA CERTA EM CASO DE DESCUMPRIMENTO DA OBRIGAÇÃO POR PARTE DA DEVEDORA. CULPA DA CREDORA NA FALTA DE CUMPRIMENTO DA OBRIGAÇÃO. DESCABIMENTO. APELO DA EMBARGADA, PLEITEANDO A FIXAÇÃO DE HONORÁRIOS SUCUMBENCIAIS SOBRE O VALOR DA CAUSA, ATUALIZADO. NÃO CONHECIMENTO DO RECURSO DA SALYNAS. DIREITO PERSONALÍSSIMO DO ADVOGADO NÃO, DA PARTE. NEGADO PROVIMENTO AOS RECURSOS DA CEG E NÃO CONHECIMENTO DO RECURSO DA SALYNAS.
+Opostos embargos de declaração, esses foram rejeitados (e-STJ, fls. 1074-1087).
+Nas razões do especial (e-STJ, fls. 1089-1116), a parte recorrente sustentou violação aos seguintes dispositivos:
+a) art. 1022 do Código de Processo Civil de 2015, defendendo que a Corte de origem não sanou omissões supostamente perpetradas pelo acórdão embargado, mesmo diante da oposição dos embargos declaratórios, o que teria configurado negativa de prestação jurisdicional.
+b) arts. 313 e 356 do Código Civil, apontando que o credor não é obrigado a receber prestação diversa da que lhe é devida, ainda que mais valiosa, e, também, não ocorre dação em pagamento sem o consentimento do credor.
+Oferecidas as contrarrazões às fls. 1125-1130 (e-STJ).
+Em sede de juízo provisório de admissibilidade, o Tribunal local negou seguimento ao recurso especial (fls. 1133-1139, e-STJ), o que ensejou o manejo do presente agravo (fls. 1153-1183, e-STJ), buscando destrancar o processamento daquela insurgência.
+Em decisão monocrática (e-STJ, fls. 1229-1233), este signatário conheceu do agravo para não conhecer do recurso especial em razão da ausência de negativa de prestação jurisdicional e incidência das Súmulas 5/STJ e 7/STJ.
+No presente agravo interno (e-STJ, fls. 1236-1249), a ora agravante combate os óbices supracitados e reitera os mesmos argumentos lançados nas razões do apelo extremo.
+Requer, por fim, a reconsideração da decisão monocrática ou sua reforma pelo Colegiado.
+Impugnação às fls. 1252-1260 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA RECURSAL DA EXEQUENTE.
+1. Não há falar em ofensa ao art. 1022 do CPC/15, porquanto todas as questões fundamentais ao deslinde da controvérsia foram apreciadas pelo Tribunal a quo, sendo que não caracteriza omissão ou falta de fundamentação a mera decisão contrária ao interesse da parte, tal como na hipótese dos autos.
+2. O acolhimento da pretensão recursal e a reforma do acórdão recorrido demandariam o reexame das cláusulas do instrumento pactuado e das circunstâncias de fato pertinentes ao caso, o que não se admite em recurso especial, diante da aplicação das Súmulas 5 e 7 desta Corte.
+3. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): O agravo interno não merece acolhida, porquanto os argumentos tecidos pela parte agravante são incapazes de infirmar a decisão agravada, motivo pelo qual merece ser mantida na íntegra, por seus próprios fundamentos.
+1. Consoante asseverado na decisão singular, a apontada violação aos arts. 489 e 1.022 do CPC/15 não se configura.
+Constata-se, da leitura do aresto objurgado, que a Corte estadual, ao apreciar o recurso interposto pela parte, dirimiu a controvérsia e decidiu as questões postas à apreciação de forma suficientemente fundamentada, sem omissões, porém, em sentido contrário ao pretendido pela recorrente, o que não configura negativa de prestação jurisdicional ou deficiência de fundamentação.
+Assim constou do acórdão (fl. 1020, e-STJ):
+Como se observa no caso em tela, a embargante, COMPANHIA SALINAS, notificou a apelante a fim de efetuar a transferência do imóvel, descrito na alínea "b" da cláusula 2.2.2 do instrumento de confissão de dívida, e de dação em pagamento (indexadores 58/66), entretanto, a CEG RIO recusou o bem, pois imóvel com alegação de que ele não satisfaz o valor da execução, ante a impossibilidade de serem realizadas construções no local. Ocorre que, no instrumento de confissão de dívida e de dação em pagamento (indexadores 47/56) não consta qualquer cláusula ou condição quanto a eventual possibilidade de edificação na localidade. Vale destacar que, caberia a embargada realizar a devida avaliação do imóvel, e verificar as eventuais restrições administrativas da municipalidade, anteriormente, a celebração do negócio jurídico. Ademais, a apelante ingressou com ação, cujo o processo foi tombado sob o nº 0113092 - 41.2006.8.19.0001, perante a 8ª Vara Cível da Comarca da Capital, objetivando a anulação do mencionado negócio jurídico, entretanto, o pedido foi julgado improcedente, sendo mantida a sentença pela 8ª Câmara Cível. Para corroborar transcrevo a ementa:
+Não é demais lembrar a orientação desta Corte no sentido de que o julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, nem a indicar todos os dispositivos legais suscitados, quando tenha encontrado motivação satisfatória para dirimir o litígio.
+Nesse sentido, confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. SUFICIÊNCIA. AGRAVO DE INSTRUMENTO INTERPOSTO CONTRA DECISÃO QUE PÔS TERMO À EXECUÇÃO. INAPLICABILIDADE DO PRINCÍPIO DA FUNGIBILIDADE, PORQUANTO NÃO HÁ DÚVIDA A RESPEITO DO RECURSO ADEQUADO. AGRAVO NÃO PROVIDO.
+1. Não há violação aos arts. 489 e 1.022 do Código de Processo Civil de 2015, tendo em vista que o v. acórdão recorrido, embora não tenha examinado individualmente cada um dos argumentos suscitados pela parte, adotou fundamentação suficiente, decidindo integralmente a controvérsia.
+2. A interposição de agravo de instrumento contra sentença que extingue processo de execução configura erro grosseiro e inviabiliza a aplicação do princípio da fungibilidade recursal. Precedentes.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1520112/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 04/02/2020, DJe 13/02/2020)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. OMISSÃO. INEXISTÊNCIA. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. ENTENDIMENTO NO SENTIDO DA AUSÊNCIA DE NOVAÇÃO. MERO PARCELAMENTO DA DÍVIDA. SÚMULAS 5 E 7/STJ. APLICAÇÃO.
+AGRAVO INTERNO DESPROVIDO.
+1. Inexistem omissões ou mesmo contradição a serem sanadas no julgamento estadual, portanto inexistentes os requisitos para reconhecimento de ofensa aos arts. 10, 489, § 1º, IV e VI, e 1.022 do CPC/2015 do novo CPC. O acórdão dirimiu a controvérsia com base em fundamentação sólida, sem tais vícios, o que não se confunde com omissão ou contradição, tendo em vista que apenas resolveu a celeuma em sentido contrário ao postulado pela parte insurgente. Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas apenas a declinar as razões de seu convencimento motivado, como de fato ocorre nos autos.
+(..)
+3. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp 1445088/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 16/12/2019, DJe 19/12/2019)
+Ressalta-se que não há falar em omissão quando não acolhida a tese ventilada pelo recorrente, mormente se o acórdão abordar todos os pontos relevantes ao deslinde do feito, como ocorre na hipótese.
+Inexiste, portanto, violação ao artigo 1.022 do CPC/15, visto que as questões foram apreciadas pelo Tribunal de origem, cuja fundamentação foi clara e suficiente para o deslinde da controvérsia.
+2. Outrossim, não merece reparos a decisão agravada que aplicou os óbices das Súmulas 5/STJ e 7/STJ à pretensão recursal relativa aos arts. 313 e 356 do Código Civil.
+Em suas razões, a parte agravante insiste no argumento de que apontando que o credor não é obrigado a receber prestação diversa da que lhe é devida, ainda que mais valiosa, e, também, não ocorre dação em pagamento sem o consentimento do credor.
+Todavia, conforme constou do acórdão recorrido, embora a agravante tenha recusado o imóvel, "no instrumento de confissão de dívida e de dação em pagamento (indexadores 47/56) não consta qualquer cláusula ou condição quanto a eventual possibilidade de edificação na localidade".
+Ademais, a Corte estadual consignou que cabia à "embargada realizar a devida avaliação do imóvel, e verificar as eventuais restrições administrativas da municipalidade, anteriormente, a celebração do negócio jurídico."
+Confira-se (e-STJ, fl. 1020-1021):
+Como se observa no caso em tela, a embargante, COMPANHIA SALINAS, notificou a apelante a fim de efetuar a transferência do imóvel, descrito na alínea "b" da cláusula 2.2.2 do instrumento de confissão de dívida, e de dação em pagamento (indexadores 58/66), entretanto, a CEG RIO recusou o bem, pois imóvel com alegação de que ele não satisfaz o valor da execução, ante a impossibilidade de serem realizadas construções no local. Ocorre que, no instrumento de confissão de dívida e de dação em pagamento (indexadores 47/56) não consta qualquer cláusula ou condição quanto a eventual possibilidade de edificação na localidade. Vale destacar que, caberia a embargada realizar a devida avaliação do imóvel, e verificar as eventuais restrições administrativas da municipalidade, anteriormente, a celebração do negócio jurídico. Ademais, a apelante ingressou com ação, cujo o processo foi tombado sob o nº 0113092 - 41.2006.8.19.0001, perante a 8ª Vara Cível da Comarca da Capital, objetivando a anulação do mencionado negócio jurídico, entretanto, o pedido foi julgado improcedente, sendo mantida a sentença pela 8ª Câmara Cível. (..)
+Nesse contexto, o acolhimento da pretensão recursal e a reforma do acórdão recorrido demandariam o reexame das cláusulas do instrumento pactuado pelas partes e das circunstâncias de fato pertinentes ao caso, o que não se admite em recurso especial, diante da aplicação das Súmulas 5 e 7 desta Corte.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. FUNDAMENTOS IMPUGNADOS. RECONSIDERAÇÃO. LOCAÇÃO. IRRESPONSABILIDADE DOS SÓCIOS COMO FIADORES. ASSUNÇÃO DO DÉBITO NA QUALIDADE DE DEVEDORES. REVISÃO. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO PROVIDO. AGRAVO DO ART. 1.042 DO CPC/2015 CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+1. Em virtude da impugnação dos fundamentos da decisão de inadmissibilidade do recurso especial, o agravo interno merece provimento.
+2. A revisão de instrumento de confissão de dívida, a fim de verificar a irresponsabilidade por débito locatício não afiançado, mas, segundo conclusão do Tribunal de origem, assumido pelos sócios na qualidade de devedores solidários, esbarra nos óbices das Súmulas 5 e 7 do STJ.
+3. Agravo interno provido para reconsiderar a decisão agravada e, em nova análise, conhecer do agravo do art. 1.042 do CPC/2015 para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+(AgInt no AREsp n. 1.956.823/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 14/2/2022, DJe de 24/2/2022.)
+De rigor, portanto, a manutenção da decisão agravada.
+3. Do exposto, nega-se provimento ao agravo interno.
+É como voto.
