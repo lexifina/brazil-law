@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo de ARALCO S A - INDUSTRIA E COMERCIO EM RECUPERACAO JUDICIAL E OUTROS contra decisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+".IMPUGNAÇÃO DE CRÉDITO Devedora em recuperação judicial que apresenta incidente visando à inclusão de crédito decorrente de título judicial julgado após o pedido recuperatório Ausência de indicação do credor na lista apresentada na inicial (art. 53, III e IX) Ajuizamento três anos após a publicação da relação prevista no art. 8º da LREF Preclusão Recurso do credor acolhido para declarar extinto o procedimento instaurado em primeiro grau Recurso provido.
+Dispositivo: deram provimento ao recurso." (e-STJ fl. 672)
+Os embargos de declaração opostos foram rejeitados (e-STJ fl. 734/738)
+Nas razões do recurso especial, o agravante alega violação do art. 49, caput, da Lei 11.101/2005, pois sendo o fato ensejador da necessidade de indenização pelas Recorrentes anterior à recuperação judicial, referido crédito está sujeitos à recuperação judicial; artigos 8 e 10 da Lei 11.101/2005, pois a legislação admite o ajuizamento de impugnação retardatária de crédito pelas devedoras contra a relação de credores apresentada pelo il. administrador judicial e art.10 do Código de Processo Civil, pois não foi oportunizado às Recorrentes se manifestar em relação a alegada intempestividade, não foi possível esclarecer o motivo que possibilitou o ajuizamento do incidente apenas naquele momento.
+É o relatório. Decido.
+Da leitura do acórdão recorrido, verifica-se que conteúdo normativo dos dispositivos invocados no apelo nobre não foram apreciados pelo Tribunal a quo, ainda que a parte ora recorrente tenha oposto embargos de declaração a fim de sanar eventual irregularidade.
+A Corte de origem não se manifestou sobre o dispositivo que possibilitaria a apresentação de impugnações retardatárias, tampouco sobre a necessidade de intimação da recorrente antes de decidir pela intempestividade da impugnação.
+E tendo considerado o referido incidente como intempestivo, não analisou a sujeição ou não do crédito em discussão à recuperarão judicial.
+Ressalte-se que esta eg. Corte de Justiça consagra orientação no sentido da necessidade de prequestionamento dos temas ventilados no recurso especial, não sendo suficiente a simples invocação da matéria na petição de embargos de declaração. Caberia à recorrente, na hipótese, alegar violação ao art. 1.022 do Código de Processo Civil providência, todavia, da qual não se desincumbiu. Dessa forma, à falta do indispensável prequestionamento, incide, na espécie, a Súmula 211 do Superior Tribunal de Justiça.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE CONHECEU DO AGRAVO PARA, DE PLANO, NÃO CONHECER DO APELO EXTREMO. INSURGÊNCIA DA AUTORA.
+1. A ausência de enfrentamento da matéria pelo Tribunal de origem, não obstante a oposição de embargos de declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência da Súmula 211 do STJ.
+1.1. In casu, deixou a recorrente de apontar, nas razões do apelo extremo, a violação do artigo 1.022 do CPC/15, a fim de que esta Corte pudesse averiguar a existência de possível omissão no julgado quanto ao tema.
+1.2. Esta Corte admite o prequestionamento implícito dos dispositivos tidos por violados, desde que as teses debatidas no apelo nobre sejam expressamente discutidas no Tribunal de origem, o que não ocorreu na hipótese.
+2. Para alterar as conclusões do órgão julgador no tocante à configuração dos elementos ensejadores do dever de indenizar e dos danos morais pleiteados, na forma como posta, seria necessário o reexame do contexto fático e probatório dos autos, providência vedada em sede de recurso especial, a teor da Súmula 7/STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1598669/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 20/04/2020, DJe 27/04/2020)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
