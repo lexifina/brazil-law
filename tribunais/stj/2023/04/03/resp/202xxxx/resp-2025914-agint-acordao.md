@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/03/2023 a 03/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de agravo interno, interposto por JOSÉ PEDRINHO DIRINGS, contra decisão monocrática da lavra deste signatário (fls. 1002/1004, e-STJ), que deu provimento ao recurso da parte adversa, determinando o retorno dos autos à origem, para a promoção da liquidação de sentença.
+O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, desafiou acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fl. 886, e-STJ):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. DESNCESSIDADE DE INSTAURAÇÃO DE PRÉVIO PROCEDIMENTO DE LIQUIDAÇÃO DE SENTENÇA, NO CASO. POSSIBILIDADE DE LIQUIDAÇÃO DO DÉBITO POR CÁLCULOS ARITMÉTICOS. ALEGAÇÃO DE EXCESSO PELA AUSÊNCIA DE COMPENSAÇÕES E AMORTIZAÇÕES. RAZÕES RECURSAIS QUE NÃO ATACAM O FUNDAMENTO DA DECISÃO AGRAVADA. JUROS REMUNERATÓRIOS. AUSÊNCIA DE INTERESSE RECURSAL. AGRAVO DE INSTRUMENTO CONHECIDO EM PARTE E DESPROVIDO, NA PARTE CONHECIDA.
+Nas razões do recurso especial (fls. 908/922, e-STJ), o recorrente aponta ofensa aos artigos 509, II, do Código de Processo Civil/15 e 17 da Lei 7.730/89. Sustentou, em síntese: i) que é necessária a prévia liquidação do julgado coletivo; ii) devem ser utilizados os índices de correção monetária aplicáveis aos débitos judiciais da Justiça Federal; iii) os juros de mora devem incidir desde a habilitação promovida pelo recorrido, e não da citação da instituição financeira na ação de conhecimento; iv) a prescrição dos juros remuneratórios.
+Contrarrazões às fls. 934/951, e-STJ.
+Admitido o processamento do recurso na origem (fl. 954/961, e-STJ), ascenderam os autos a esta Corte.
+Em decisão monocrática (fls. 1002/1004, e-STJ), este relator deu provimento ao recurso da parte adversa determinando o retorno dos autos à origem, para a promoção da liquidação de sentença.
+Daí o agravo interno (fls. 1008/1011, e-STJ), no qual o agravante sustenta ser desnecessária a fase de liquidação de sentença. Argumenta que "na presente demanda não está sendo executada com base em sentença coletiva (com origem em ACP), mas sim em um título executivo definitivo, qual seja a sentença transitada em julgada proferida no processo nº 009/1.10.0000841-1 (CNJ: 0008411-97.2010.8.21.0009). Por conseguinte, não há a necessidade de prévia liquidação de sentença, a qual a qual somente se aplicaria em caso do cumprimento de sentença baseado na ACP (ação civil pública), o que não é o caso dos autos" (fl. 1010, e-STJ).
+Sem impugnação (fl. 1014, e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE DEU PROVIMENTO AO RECURSO DA PARTE ADVERSA DETERMINANDO O RETORNO DOS AUTOS À ORIGEM, PARA A PROMOÇÃO DA LIQUIDAÇÃO DE SENTENÇA. INSURGÊNCIA DA PARTE EXEQUENTE.
+1. A Segunda Seção dessa Corte fixou orientação no sentido de que o cumprimento da sentença genérica proferida em ação civil pública que condenou ao pagamento de expurgos inflacionários sobre a caderneta de poupança, deve ser objeto de prévio procedimento de liquidação de sentença, para a definição da titularidade do crédito e do valor devido, assegurando-se a oportunidade de ampla defesa e contraditório pleno ao executado.
+2. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): O agravo interno não merece acolhida, porquanto os argumentos tecidos pelos agravantes são incapazes de infirmar a decisão agravada, motivo pelo qual merece ser mantida.
+1. Com efeito, a Segunda Seção do STJ, no julgamento dos EREsp 1.705.018/DF, em 09/12/2020, decidiu que "o cumprimento da sentença genérica que condena ao pagamento de expurgos em caderneta de poupança deve ser precedido pela fase de liquidação por procedimento comum, que vai completar a atividade cognitiva parcial da ação coletiva mediante a comprovação de fatos novos determinantes do sujeito ativo da relação de direito material, assim também do valor da prestação devida, assegurando-se a oportunidade de ampla defesa e contraditório pleno ao executado". (AgInt nos EDcl no REsp n. 2.002.360/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 12/12/2022, DJe de 14/12/2022.)
+Nesse mesmo sentido:
+EMBARGOS DE DIVERGÊNCIA. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. EXPURGOS INFLACIONÁRIOS. NECESSIDADE DE PRÉVIA LIQUIDAÇÃO.
+1. A condenação oriunda da sentença coletiva é certa e precisa - haja vista que a certeza é condição essencial do julgamento e o comando da sentença estabelece claramente os direitos e as obrigações que possibilitam a sua execução -, porém não se reveste da liquidez necessária ao cumprimento espontâneo da decisão, devendo ainda ser apurados em liquidação os destinatários (cui debeatur) e a extensão da reparação (quantum debeatur). Somente nesse momento é que se dará, portanto, a individualização da parcela que tocará ao exequente segundo o comando sentencial proferido na ação coletiva.
+2. O cumprimento da sentença genérica que condena ao pagamento de expurgos em caderneta de poupança deve ser precedido pela fase de liquidação por procedimento comum, que vai completar a atividade cognitiva parcial da ação coletiva mediante a comprovação de fatos novos determinantes do sujeito ativo da relação de direito material, assim também do valor da prestação devida, assegurando-se a oportunidade de ampla defesa e contraditório pleno ao executado.
+3. Embargos de divergência não providos.
+(EREsp 1705018/DF, Rel. Ministra NANCY ANDRIGHI, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 09/12/2020, REPDJe 05/04/2021, DJe 10/02/2021)
+Na hipótese ora em foco, o Tribunal de origem considerou desnecessária a fase de liquidação de sentença, pelos seguintes fundamentos (fls. 887/888, e-STJ):
+Cuida-se de cumprimento individual de sentença proferida em ação civil pública, que tratou de direitos individuais homogêneos.
+Ao inverso do defendido pela parte recorrente, quanto é possível apurar o quantum debeatur mediante simples cálculo aritmético, é desnecessária a instauração do procedimento de liquidação de sentença requerido pelo ora agravante, ou mesmo realização de prova pericial.
+Como bem pondera o insigne jurista Humberto Theodoro Junior1,a necessidade de simples operações aritméticas para se definir o quantum debeatur não elimina a liquidez da obrigação, para efeito de sua execução forçada, nem mesmo quando o cálculo se faça com base em dados fora do título, mas de fontes precisas, como cotações oficiais, juros, correção monetária etc.
+Assim, não se faz necessária a liquidação de sentença para apuração do débito a ser restituído, podendo ser apurado através de mero cálculo.
+No caso, o Tribunal de origem afastou a necessidade do procedimento de liquidação de sentença ao argumento de que o quantum debeatur poderia ser apurado mediante simples cálculo aritmético. Tal entendimento não encontra amparo na recente jurisprudência desta Corte, merecendo reforma.
+Desta forma, determinou-se o retornar ao Tribunal de Justiça para que seja promovida a liquidação da sentença.
+De rigor, portanto, a manutenção da decisão agravada.
+2. Do exposto, nego provimento ao agravo interno.
+É como voto.
