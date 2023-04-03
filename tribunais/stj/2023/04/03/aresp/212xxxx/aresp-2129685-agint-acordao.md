@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/03/2023 a 03/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina e Regina Helena Costa votaram com o Sr. Ministro Relator.
+Impedido o Sr. Ministro Paulo Sérgio Domingues.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Trata-se de agravo interno manejado por ELIANA ROSECLER BATISTA DOS SANTOS - ESPÓLIO para desafiar decisão proferida às e-STJ fls. 273/274, que não conheceu do agravo em recurso especial, pois a agravante não impugnou especificamente todos os fundamentos da decisão agravada, abstendo-se de atacar a ausência de afronta ao art. 1.022 do CPC.
+Sustenta a parte agravante, às e-STJ fls. 278/287, em suma, que, ao contrário do consignado, infirmou o referido fundamento, "seja porque ventilou as questões ora debatidas desde a Exordial, sendo, inclusive, apreciado pelo D. Juízo de primeiro grau, seja porque o agravante opôs embargos de declaração em face do v. acórdão" (e-STJ fl. 280).
+Além disso, busca demonstrar a inaplicabilidade da Súmula 7 do STJ e, quanto à alegada violação do art. 1.022 do CPC, afirma que a omissão apontada diz respeito à aplicação do entendimento da Súmula 229 do extinto TFR (e-STJ fls. 284/285).
+Requer, assim, a reconsideração da decisão ora recorrida ou a sua submissão ao Órgão colegiado.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. JUÍZO DE PRELIBAÇÃO NEGATIVO. DECISÃO DO TRIBUNAL DE ORIGEM. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA.
+1. De acordo com o disposto no art. 253, parágrafo único, I, do RISTJ e no art. 932, III, do CPC/2015, compete à parte agravante infirmar especificamente os fundamentos adotados pela Corte de origem para obstar o seguimento do recurso especial, mostrando-se inadmissível o agravo que não se insurge contra todos eles.
+2. Hipótese em que a recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, as razões que levaram à inadmissibilidade do apelo nobre.
+3. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Tenho que o inconformismo sob exame não merece prosperar.
+A parte agravante não trouxe nenhum argumento capaz de alterar o decisum atacado, proferido em sintonia com a jurisprudência deste Tribunal Superior, no sentido de que a parte deve infirmar especificamente os fundamentos da decisão impugnada, mostrando-se inadmissível o agravo que não se insurge contra todos eles, a teor do disposto no art. 253, parágrafo único, I, do RISTJ e no art. 932, III, do CPC/2015.
+Nas razões do agravo em recurso especial, o recorrente não infirmou de forma clara e específica todos os fundamentos da decisão agravada, abstendo-se de atacar a ausência de afronta ao art. 1.022 do CPC, em evidente desrespeito ao princípio da dialeticidade.
+Com efeito, a parte limitou-se a alegar o seguinte (e-STJ fls. 245/248):
+Portanto, o inconformismo da Agravante é quanto à violação dos ao artigo 16, II , § 4º da lei 8.213/91, artigo 22, §3º incisos VIII, XIII, XIV e XVII do Decreto 3038/99 e os artigos 1022, 1025, 369 e 373, I do Código de Processo Civil - CPC e da Súmula 229 do extinto C . TFR, bem como a correta valoração das provas.
+A violou a disposição legal no artigo 16, II, § 4º da Lei 8.213/91, o qual reconhece os pais como dependentes, não existindo dependentes de primeira classe, e o § 4º do artigo em debate não traz exigência de provas especifica para comprovação da dependência econômica.
+Depreende do acordão hostilizado que ficou comprovado que o filho Crystiano, era solteiro, não tinha filhos, sempre residiu com mãe e a sua renda compunha o sustendo da casa, fato comum em família humildes.
+ ..
+Da mesma forma a decisão do E. Tribunal, contrariou o artigo 22, § 3º, incisos VIII, XIII, XIV e XVII do Decreto 3048/99, ao desconsiderar as provas documentais apresentados pela Recorrente com previsão legal.
+A parte tem o direito de empregar todos os meios de provas legais a teor do artigo 369 do CPC, bem como não há hierarquias entre as provas produzidas de modo juridicamente idôneo.
+E mais, a decisão de piso lastreou em parte da prova testemunhal e de suposições, o qual diante do disposto no artigo 371 do CPC a prova não pode ser apreciada de forma discricionária pelo Magistrado, devendo estabelecer uma valoração pautada com base em outras provas produzidas no processo, respeitando as razões expostas por cada parte e demais fatores que envolvem a demanda, motivando a razão de decidir pautada em objetos concretos do caso.
+No v. acórdão hostilizado o I. Julgadores asseveram: "(..)".
+Assim sendo, o E. Tribunal reconheceu que a renda mensal do filho Crystiano, que residia com mãe, compõe no sustento da casa, ou seja, representando auxílio financeiro a genitora, no sustento da casa, e não uma mera ajuda eventual.
+Ademais disso, a dependência econômica não precisa ser exclusiva, de acordo com entendimento jurisprudencial do extinto Tribunal Federal de Recursos, após reiteradas decisões sobre o tema, editou a Súmula nº 229, com o seguinte teor: "(..)".
+Em suma, tanto os fundamentos para desprovimento do recurso de apelação, quanto os argumentos para a inadmissibilidade do Recurso Especial contrariam o entendimento deste Superior Tribunal de Justiça.
+Da atenta leitura da argumentação apresentada, percebe-se que a recorrente, embora demonstre o seu inconformismo com as conclusões do acórdão recorrido, não especifica quais seriam as questões que eventualmente deixaram de ser adequadamente enfrentadas pelo Tribunal de origem.
+Já nas razões do agravo interno, o agravante busca suprir a deficiência que impediu o conhecimento do agravo em recurso especial, in verbis (e-STJ fls. 284/285):
+Quanto à violação do artigo 1.022 do CPC - Ausência de suprimento de omissão apontada em embargos de declaração, importa ressaltar que compõe o fundamento principal do recurso especial, onde a questão da aplicação do entendimento na Súmula 229 Extinto do TRF, a saber: "A mãe do segurado tem direito à pensão previdenciária, em caso de morte do filho, se provada a dependência econômica, mesmo não exclusiva." foi devidamente apresentada junto as razões de apelação e junto aos embargos, sem análise pelo Tribunal de origem.
+Dessa forma, mostra-se evidente, data máxima vênia, a violação do artigo 1.022 do CPC.
+Na linha da jurisprudência desta Corte, se os fundamentos do acórdão se mostram insuficientes ou incorretos na opinião da recorrente, não quer dizer que eles não existam. Não há que se confundir reexame de provas e a revaloração jurídica da premissa fática contida no acordão recorrido.
+Com todo o respeito e acatamento, entende a Agravante que a r. decisão não se postou com o costumeiro acerto.
+Por certo que o Magistrado não está obrigado a rebater todos os argumentos apresentados pela parte, mas, data máxima vênia, não pode ignorar os argumentos que são capazes de, em tese, infirmar a conclusão adotada - artigo 489, §1º, IV do CPC.
+Da mesma forma, permissa vênia, não pode o Magistrado deixar de seguir enunciado de súmula, jurisprudência ou precedente invocado pela parte, sem demonstrar a existência de distinção no caso em julgamento ou a superação do entendimento - artigo 489, §1º, VI do CPC.
+E, no caso presente, conforme se extrai do v. Acórdão e do v. Acórdão dos Embargos colacionado junto ao Agravo em Recurso Especial e na r. Decisão Monocrática, não houve, repita-se, qualquer análise sobre a questão.
+Sem adentrar na legitimidade do argumento ora trazido pela parte agravante, é certo que, conforme a jurisprudência desta Corte, a impugnação tardia dos fundamentos da decisão que não admitiu o recurso especial, já em sede de agravo interno, configura inovação recursal, incabível em razão da preclusão consumativa.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO À DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL NA CORTE DE ORIGEM. IMPUGNAÇÃO TARDIA. IMPOSSIBILIDADE. PRECLUSÃO CONSUMATIVA.
+1. A ausência de impugnação específica aos fundamentos da decisão da Corte de origem que não admitiu o recurso impede o conhecimento do agravo, nos termos dos artigos 932, III, do CPC/2015 e 253, parágrafo único, I, do RI/STJ (redação dada pela Emenda Regimental n. 22, 2016).
+2. A impugnação tardia dos fundamentos da decisão que inadmitiu o recurso especial - somente quando da interposição do agravo interno -, além de caracterizar indevida inovação recursal, não afasta o vício verificado no AREsp, porquanto operada a preclusão consumativa. Precedentes.
+3. Agravo interno não provido.
+(AgInt no AREsp 1.894.704/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 14/03/2022, DJe 18/03/2022).
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. MILITAR DO EXÉRCITO. DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS. ART. 932, III, DO CPC/2015 E ART 253, PARÁGRAFO ÚNICO, I, DO RISTJ. PRECEDENTES. MATÉRIA DECIDIDA PELA CORTE ESPECIAL. EARESP Nº 746.775/PR. IMPUGNAÇÃO TARDIA, EM SEDE DE AGRAVO INTERNO, DA DECISÃO DE INADIMISSIBILIDADE DO RECURSO ESPECIAL. INVIABILIDADE. INOVAÇÃO RECURSAL. PRECLUSÃO CONSUMATIVA. INTIMAÇÃO DO AGRAVANTE PARA COMPLEMENTAÇÃO DAS RAZÕES DO RECURSO. ART. 932, PARÁGRAFO ÚNICO, DO CPC/2015. INVIABILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. O Tribunal de origem inadmitiu o recurso especial com base nos seguintes fundamentos: a) inexistência de violação ao art. 1022 do CPC/2015; b) incidência da Súmula nº 83/STJ, no que tange a alegada ofensa ao art. 281 do CPC/1973, art. 573, § 1º, do CPP e ao art. 506, § 1º, do CPPM, pois o acórdão recorrido estaria no mesmo sentido da jurisprudência desta Corte, segundo a qual a extinção da punibilidade pela prescrição não configura hipótese de ressarcimento por preterição na promoção, por ausência de previsão legal, e que a lei de regência só admite os reflexos da sentença criminal na situação funcional do militar em duas hipóteses (quando nega a autoria ou declara a inexistência do fato delituoso), não se há de entender com repercussão na esfera administrativa a decisão do juízo criminal que declarou extinta a punibilidade pela prescrição, o que atraía a incidência da Súmula nº 83/STJ.
+2. Nas razões do agravo em recurso especial, o agravante não impugnou, de forma específica, a incidência da Súmula nº 83/STJ. Destaca-se que todos os argumentos expostos no agravo em recurso especial dizem respeito à alegação de ofensa ao art. 1022, II, do CPC/2015, nada tendo sido mencionado quanto à incidência da Súmula nº 83/STJ. Logo, não houve impugnação específica de todos os fundamentos da decisão de inadmissibilidade do recurso, razão pela qual o agravo em recurso especial não pode ser conhecido, a teor do art. 932, III, do CPC/2015, bem como do art. 253, parágrafo único, I, do RISTJ.
+3. Segundo entendimento firmado pela Corte Especial deste Tribunal Superior no EAREsp nº 746.775/PR, cujo julgamento foi concluído na sessão realizada em 19/09/2018, o agravante deve impugnar especificamente todos os fundamentos da decisão de inadmissibilidade do recurso especial, sob pena de não conhecimento do agravo.
+4. A tentativa de suprir falha de impugnação, através de agravo interno, de fundamento do juízo negativo de admissibilidade não impugnado nas razões do agravo em recurso especial constitui verdadeira inovação recursal, inviável em razão da ocorrência da preclusão consumativa.
+5. O art. 932, parágrafo único, do CPC/2015 permite apenas o suprimento de vício formal sanável, como ausência de procuração ou assinatura, mas não a complementação das razões do recurso interposto.
+6. Agravo interno não provido.
+(AgInt no AREsp 1.953.187/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 14/03/2022, DJe 17/03/2022).
+Deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC/2015, tendo em vista que o mero inconformismo com a decisão agravada não enseja a necessária imposição da sanção, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do Colegiado, como no caso em análise.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
