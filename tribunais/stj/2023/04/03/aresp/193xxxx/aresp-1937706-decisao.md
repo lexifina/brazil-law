@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por RITA BEATRIZ DE FREITAS BELON contra decisão exarada pela il. Primeira Vice-Presidência do eg. Tribunal de Justiça do Estado do Paraná (TJ-PR) que inadmitiu seu recurso especial.
+Por sua vez, o apelo nobre foi manejado com arrimo na alínea "a" do permissivo constitucional, em face de v. acórdão assim ementado (fls. 612-615):
+"APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO. ARBITRAMENTO DE HONORÁRIOS ADVOCATÍCIOS. RECURSO RECEBIDO NO DUPLO EFEITO (DEVOLUTIVO E SUSPENSIVO).
+1)RECURSO DOS APELANTES 2. PEDIDO DE REFORMA DA SENTENÇA, QUANTO AOS VALORES ATRIBUÍDOS AOS HONORÁRIOS ADVOCATÍCIOS. ARGUMENTO DE QUE NÃO É POSSÍVEL A INTERVENÇÃO DO PODER JUDICIÁRIO EM CONTRATOS DE HONORÁRIOS ADVOCATÍCIOS FIRMADOS ENTRE PARTICULARES. DESPROVIMENTO. A POSSIBILIDADE DE INTERVENÇÃO JUDICIAL NOS CONTRATOS FIRMADOS ENTRE PARTICULARES EXISTE, AINDA QUE DE MODO EXCEPCIONAL, PARA IMPEDIR ABUSOS E ILEGALIDADES E PARA CORRIGIR O DESEQUILÍBRIO DAS PRESTAÇÕES. AUSÊNCIA DE ILEGALIDADE. ART. 421 PARÁGRAFO ÚNICO DO CÓDIGO CIVIL. PRECEDENTES.
+2) RECURSO DOS APELANTES 2. ALEGAÇÃO DE QUE O VALOR MENSAL DOS HONORÁRIOS DEVE CORRESPONDER A 4.83 SALÁRIOS MÍNIMOS E NÃO AO QUANTUMFIXO DE R$ 3.000,00 (TRÊS MIL REAIS). DESPROVIMENTO. A CONSTITUIÇÃO FEDERAL,EM SEU ART 7º, INCISO IV, VEDA GENERICAMENTE A VINCULAÇÃO DOSALÁRIO MÍNIMO PARA QUALQUER FIM, E A SÚMULA 201 DO STJ IMPEDE, ESPECIFICAMENTE, A FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS COM BASE EM SALÁRIOS MÍNIMOS. PRECEDENTES.
+3) RECURSO DA APELANTE 1. ALEGAÇÃO DE QUE A CONTRATANTE ASSINOU OS CONTRATOS DE HONORÁRIOS ADVOCATÍCIOS SEM LER O SEU TEOR, E QUE A AVENÇA DEVE SER ANULADA EM HOMENAGEM À BOA-FÉ E ÀVERDADEIRA INTENÇÃO DA CONTRATANTE, DE REMUNERAR OS CAUSÍDICOS COM BASE NO PROVEITO ECONÔMICO OBTIDO, E NÃO SOBRE O VALOR DA CAUSA. DESPROVIMENTO. PARA SE ANULAR UMCONTRATO, SERIA NECESSÁRIO DEMONSTRAR ALGUM VÍCIO NO CONSENTIMENTO DAS PARTES (ERRO, DOLO, COAÇÃO, LESÃO E ESTADO DE PERIGO), MAS A AUSÊNCIA DE LEITURA DOS TERMOS DO CONTRATO CERTAMENTE NÃO CONFIGURA QUALQUER VÍCIO DE VONTADE, SOB PENA DE SOLAPAR A SEGURANÇA JURÍDICA E DESPRESTIGIAR OS PRINCÍPIOS QUE NORTEIAM A DISCIPLINA JURÍDICA DOS CONTRATOS, COMO O PACTA SUNT SERVANDA. PRECEDENTES.
+4)RECURSO DOS APELANTES 2. PEDIDO DE NÃO EXTENSÃO DOS EFEITOS DA SENTENÇAÀS PARTES EXCLUÍDAS DOS EMBARGOS. PROVIMENTO. OS CONTRATOSFIRMADOS EXCLUSIVAMENTE COM ESPÓLIO DE JOSÉ CARLOS BELON EPRODUTORA E COMERCIAL AGRÍCOLA NASCENTE LTDA, SEM A PARTICIPAÇÃO DA APELANTE RITA, NÃO ESTÃO ABARCADOSPELASENTENÇA COMBATIDA, EIS QUE AS PARTES MENCIONADAS FORAM EXCLUÍDAS DA LIDE, QUE PROSSEGUIU SOMENTE COM A APELANTE RITA NO POLO ATIVO DA DEMANDA.
+5) RECURSO DA APELANTE 1. PEDIDO DE DECLARAÇÃO DE NULIDADE DOS AUTOS DE EXECUÇÃODE TÍTULO EXTRAJUDICIAL. DESPROVIMENTO. É CRISTALINO QUE NÃO SE PODE DECLARAR A NULIDADE DE TODO O PROCESSO DE EXECUÇÃO, POIS HÁ CONTRATOS QUE ESTÃO EXCLUÍDOS DA MODIFICAÇÃO OPERADA NA SENTENÇA. MATÉRIA A SER DIRIMIDA EM LIQUIDAÇÃO DE SENTENÇA.
+6) RECURSO DA APELANTE 1. PEDIDO AFASTAMENTO DE CONDENAÇÃO AO PAGAMENTO DE HONORÁRIOS EM EMBARGOS À EXECUÇÃO. DESPROVIMENTO. O TEMA FOI JULGADO PELO STJ,PELO RITO DOS RECURSOS REPETITIVOS(TEMA/REPETITIVO 587 STJ), E CHEGOU-SE À CONCLUSÃO DE QUE É POSSÍVEL A CUMULAÇÃO DA COBRANÇA DE HONORÁRIOS ADVOCATÍCIOS NOS EMBARGOS À EXECUÇÃO. AUSÊNCIA DE DUPLA CONDENAÇÃO. PRECEDENTES.
+7) RECURSO DOS APELANTES 2. PEDIDO DE MAJORAÇÃO DOS HONORÁRIOS RECURSAIS PARA O PATAMAR DE 20%. DESPROVIMENTO. NÃO É POSSÍVEL DAR PROVIMENTO AO PEDIDO, POIS A COBRANÇA DA VERBA HONORÁRIA CUMULATIVAMENTE NO PROCESSO DE EXECUÇÃO E NOS EMBARGOS À EXECUÇÃO NÃO PODE ULTRAPASSAR O LIMITE MÁXIMO PREVISTO LEGALMENTE,DE 20%.
+8) CONHECIMENTO E DESPROVIMENTO DAAPELAÇÃO INTERPOSTA PELA APELANTE RITA. CONHECIMENTO E PARCIAL PROVIMENTO DA APELAÇÃO CÍVEL INTERPOSTA PELOS APELANTES OSVALDO E GISLAINE, UNICAMENTE PARA O FIM DE NÃO SE ESTENDER OS EFEITOS DA R. SENTENÇA RECORRIDA ÀS PARTES EXCLUÍDAS DOS PRESENTES EMBARGOS À EXECUÇÃO."
+Os embargos de declaração opostos foram rejeitados (vide acórdão às fls. 652-656)
+Nas razões do apelo nobre (fls. 663-675), RITA BEATRIZ DE FREITAS BELON aponta, preliminarmente, ofensa ao art. 884 do Código Civil, ao argumento, entre outros, de que "(..) o quantum devido a título de honorários contratuais deve estar vinculado ao valor econômico das demandas, observando o trabalho prestado pelo profissional, o tempo e lugar da prestação do serviço, a complexidade da causa e a qualidade dos serviços, sendo a tabela da OAB mero indicativo. In casu, permitir que os honorários sejam calculados sobre o valor atribuído à causa não atende à proporcionalidade e razoabilidade do serviço prestado" (fls. 673 - destaques no original).
+Aduz, também, que "(..) permitir que sejam os honorários calculados sobre o valor da causa e não sobre o efetivo proveito econômico, repercutirá no enriquecimento sem causa pelos Recorridos, violando dispositivo de lei federal" (fls. 674).
+Intimados, OSVALDO FARIA DO CARMO e GISLAINE FARIA DO CARMO CHIERICI apresentaram contrarrazões (fls. 685-691), pelo desprovimento do apelo.
+Como dito, o apelo nobre foi inadmitido (decisão às fls. 692-693), motivando o manejo do agravo em recurso especial (fls. 700-706) em exame.
+Também foi foi oferecida contraminuta (fls. 712-717), pelo desprovimento do agravo.
+É o relatório. Passo a decidir.
+O recurso em apreço não merece prosperar.
+No caso, o conteúdo normativo do referido dispositivo legal não foi examinado pelo eg. TJ-PR configurando ausência de prequestionamento. Por sua vez, os embargos de declaração (fls. 643-644) opostos pela ora Agravante sequer mencionava a referida norma; logo, não visava prequestiona-la. Assim sendo, o apelo nobre encontra óbice nas Súmulas n. 282 e 356, ambas do col. Supremo Tribunal Federal. Nessa linha de intelecção, confiram-se:
+"RECUPERAÇÃO JUDICIAL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PENHORA DE BENS DETERMINADA PELO JUÍZO UNIVERSAL. ALEGAÇÃO DE VIOLAÇÃO DO ART. 47 DA LEI N. 11.101/05. FALTA DE PREQUESTIONAMENTO DA MATÉRIA. INCIDÊNCIA DAS SÚMULAS N. 282 E 356 DO STF . (..) AGRAVO INTERNO DESPROVIDO.
+1. Não enseja a interposição de recurso especial matéria que não tenha sido debatida no acórdão recorrido e sobre a qual não tenham sido opostos embargos de declaração, a fim de suprir eventual omissão. Incidência, por analogia, as Súmulas 282 e 356 do STF.
+2. O óbice da ausência de prequestionamento impede a análise do dissenso jurisprudencial, porquanto inviável a comprovação da similitude das circunstâncias fáticas e do direito aplicado.
+(..)
+4. Agravo interno desprovido."
+(AgInt no AREsp n. 1.763.076/SP, relator MINISTRO JOÃO OTÁVIO DE NORONHA, Quarta Turma, julgado em 6/3/2023, DJe de 9/3/2023 - g. n.)
+"AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE AUTORA.
+(..)
+2. A ausência de enfrentamento da questão objeto da controvérsia pelo Tribunal de origem impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula 282 e 356 do STF, aplicável por analogia.
+3. Agravo interno desprovido."
+(AgInt no REsp n. 1.504.348/SP, relator MINISTRO MARCO BUZZI, Quarta Turma, DJe de 13/5/2022 - g. n.)
+"AGRAVO INTERNO. RECURSO ESPECIAL. PLANO DE SAÚDE. ÔNUS PROBATÓRIO. AUSÊNCIA DE PREQUESTIONAMENTO. DEVER DE INFORMAÇÃO CLARA E PRECISA. REVISÃO DE PROVAS E CLÁUSULAS CONTRATUAIS. SÚMULAS N. 5 E 7/STJ. NÃO PROVIMENTO.
+1. Ausente o prequestionamento, exigido inclusive para as matérias de ordem pública, incidem os óbices dos enunciados n. 282 e 356 da Súmula do STF.
+(..)
+3. Agravo interno a que se nega provimento."
+(AgInt no AgInt no REsp n. 1.903.832/SP, relatora MINISTRA MARIA ISABEL GALLOTTI, Quarta Turma, DJe de 6/5/2022 - g. n.)
+Com estas considerações, conclui-se que o apelo não merece prosperar.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
