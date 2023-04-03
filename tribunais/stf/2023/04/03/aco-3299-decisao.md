@@ -1,0 +1,109 @@
+DECISÃO
+
+AÇÃO CÍVEL ORIGINÁRIA. CONFLITO FEDERATIVO. INSCRIÇÃO DE ESTADO-MEMBRO EM CADASTRO FEDERAL DE INADIMPLÊNCIA.
+
+1. Compete ao Supremo Tribunal Federal, com fundamento no art. 102, inc. I, al. “f”, da Constituição, processar e julgar casos que envolvam a inscrição de Estado-membro em cadastros federais de inadimplência.
+
+2. Viola o devido processo legal a inscrição de Estado-membro ou entidade componente de sua administração indireta nos cadastros federais de inadimplência antes da efetiva instauração e do julgamento de tomada de contas especial (RE nº 1.067.086-RG/BA. Tema nº 327 do ementário da Repercussão Geral).
+
+3. Ação cível originária julgada procedente.
+
+Relatório
+
+    1. Trata-se de ação cível originária proposta pelo Estado do Ceará visando afastar inscrição nos cadastros federais de inadimplência referentes ao Convênio nº 433, de 2007, cujo objeto envolve a urbanização da Praia de Iracema, no Município de Fortaleza/CE.
+
+    2. Conforme relata, foi pactuado o valor total de R$ 5.000.000,00, dos quais R$ 4.500.000,00 correspondiam aos repasses da União e R$ 500.000,00 à contrapartida do Estado. Descreve o teor dos aditivos, as comunicações mantidas entre a Prefeitura de Fortaleza/CE e o Ministério do Turismo ao longo da execução da obra, bem como os repasses e as vistorias efetuados.
+
+    3. Salienta o atraso do Ministério do Turismo na análise das prestações de contas apresentadas em 2011. Segundo narra, mediante os Pareceres Técnicos nº 22/2018, nº 839/2018 e nº 2.454/2018, identificou-se a necessidade de devolução de parte dos recursos federais empregados, viabilizando-se a entrega de documentos financeiros complementares, os quais não foram encaminhados pela Prefeitura de Fortaleza.
+
+    4. Afirma ilegal e abusiva a inclusão no Cadastro Único de Convênios – CAUC e no Sistema Integrado de Administração Financeira do Governo Federal – SIAFI, realizada em 10 de julho de 2019. Frisa a impossibilidade de receber transferências voluntárias e recursos de convênios, celebrar operações de crédito interno e externo e obter garantias federais, indispensáveis à execução de políticas públicas estaduais.
+
+    5. À luz dos arts. 1º da Lei nº 9.873, de 1999, 5º, inc. XXXVI, e 37, § 5º, da Constituição da República, alega prescrita a pretensão da União à restituição do numerário e à anotação cadastral. Destaca não ser obrigatória a devolução dos recursos, tendo em vista a utilização na execução do objeto do Convênio e a ausência de dano ao erário.
+
+    6. Remete a gestões passadas e à Prefeitura de Fortaleza a atecnia na prestação de contas. Sustenta necessária a aplicação dos princípios da intranscendência das medidas restritivas de direitos e da proporcionalidade.
+
+    7. Assevera que a inscrição cadastral, sem oportunidade de defesa prévia ou instauração de tomada de contas especial no Tribunal de Contas da União, fere os princípios da presunção de inocência, do contraditório e da ampla defesa.
+
+    8. Requer, ao final, a procedência dos pedidos para: (i) que sejam desconstituídos ou declarados inexigíveis os débitos decorrentes do Convênio nº 433/2007; (ii) determinar que a ré se abstenha de inscrever o estado em quaisquer cadastros de inadimplência (CAUC, CADIN etc.) e de aplicar-lhe restrições de qualquer natureza (inclusive quanto a transferências e repasses de recursos) em decorrência dos débitos referidos.
+
+    9. Em 13/09/2019, o eminente Ministro Marco Aurélio, relator original do feito, deferiu (e-doc. 24) tutela de urgência para “determinar a retirada da restrição em nome do Estado do Ceará dos cadastros federais de inadimplência em decorrência do Convênio nº 433/2007, firmado com a União, até que iniciada e julgada eventual tomada de contas especial”.
+
+    10. A União ofertou contestação (e-doc. 28), na qual suscitou preliminar de incompetência do STF para apreciar o pedido relativo à cobrança dos valores do convênio, por se tratar de questão meramente patrimonial. No mérito, requereu a improcedência dos pedidos e, subsidiariamente, o sobrestamento da ação até o julgamento final do paradigma da Repercussão Geral nos autos do RE 1.067.086-RG/BA.
+
+    11. O Estado do Ceará reiterou (e-doc. 40) os fundamentos apresentados na inicial e requereu a produção de prova contábil, por meio de perícia.  A União informou não possuir provas a produzir (e-doc. 42).
+
+    12. Sobreveio decisão do e. Ministro Marco Aurélio (e-doc. 44), relator original do feito, por meio da qual Sua Excelência reconheceu a incompetência desta Corte para conhecer do pedido formulado no item d.1 da inicial, remetendo os autos do processo à Justiça Federal, Seção Judiciária do Estado do Ceará; e determinou o prosseguimento da ação, nesta Suprema Corte, quanto ao pedido do item d.2. Por consequência, ficou prejudicado o pedido de produção de prova pericial.
+
+    13. Aportou manifestação da Procuradoria-Geral da República no e-doc. 56, ementada nos seguintes termos:
+
+    “AÇÃO CÍVEL ORIGINÁRIA. CONSTITUCIONAL. ADMINISTRATIVO. FINANCEIRO. INSCRIÇÃO EM CADASTRO FEDERAL DE INADIMPLENTES. CAUC/SIAFI. IRREGULARIDADES NA PRESTAÇÃO DE CONTAS DO CONVÊNIO. TOMADA DE CONTAS ESPECIAL. INSTAURAÇÃO PRÉVIA. NECESSIDADE. PRINCÍPIO DO DEVIDO PROCESSO LEGAL. TEMA 327 DE REPERCUSSÃO GERAL. PROCEDÊNCIA DO PEDIDO.
+
+    1. O STF é competente para, no exercício da sua atribuição de Tribunal da Federação, conhecer, processar e julgar ação cível originária proposta com fundamento no art. 102, I, f, da Constituição Federal, com o intuito de cancelar a inscrição do estado autor nos sistemas CAUC/SIAFI e possibilitar a contratação de operações de crédito e a transferência de recursos federais, dada a potencial tensão entre as esferas federal e estadual de governo, apta a gerar desequilíbrios no particular modelo constitucional brasileiro de federalismo.
+
+    2. Segundo entendimento fixado pelo Supremo Tribunal Federal no julgamento do RE 1.067.086(Tema 327 da Repercussão Geral), a inscrição dos entes federados em cadastros de inadimplente pressupõe o respeito aos princípios do contraditório, da ampla defesa e do devido processo legal, somente reconhecido após o julgamento de tomada de contas especial ou procedimento análogo perante o Tribunal de Contas nos casos de descumprimento parcial ou total de convênio, prestação de contas rejeitada ou existência de débito decorrente de ressarcimento de recursos de natureza contratual (salvo os de conta não prestada).
+
+    – Parecer pela procedência do pedido.”
+
+    É o relatório.
+
+Análise
+
+    14.  De início, destaco que a jurisprudência do Supremo Tribunal Federal firmou-se no sentido de ser esta Suprema Corte competente para conhecer e julgar originariamente as causas que envolvam a inscrição de estado-membro ou entidades que compõem sua administração indireta nos cadastros federais de inadimplência, ante a presença de conflito federativo (art. 102, inc. I, al. “f”, da Constituição). Nesse sentido:
+
+    “EMENTA: SIAFI (CADIN)/CONCONV/CAUC – INCLUSÃO, NESSE CADASTRO FEDERAL, DE ENTIDADE ESTADUAL DA ADMINISTRAÇÃO INDIRETA, POR EFEITO DE INADIMPLEMENTO OBRIGACIONAL EM QUE TERIA ELA INCIDIDO – CONSEQÜENTE IMPOSIÇÃO AO ESTADO-MEMBRO (EM VIRTUDE DE ALEGADO DESCUMPRIMENTO, POR SEU ENTE MENOR, DAS RESPECTIVAS OBRIGAÇÕES) DE LIMITAÇÕES DE ORDEM JURÍDICA, EM DECORRÊNCIA DA MERA VINCULAÇÃO ADMINISTRATIVA A ELE, ENQUANTO ENTE POLÍTICO MAIOR, DA EMPRESA ESTATAL INADIMPLENTE – POSTULADO DA INTRANSCENDÊNCIA – IMPOSSIBILIDADE DE SANÇÕES E RESTRIÇÕES DE ORDEM JURÍDICA SUPERAREM A DIMENSÃO ESTRITAMENTE PESSOAL DO INFRATOR – LITÍGIO QUE SE SUBMETE À ESFERA DE COMPETÊNCIA ORIGINÁRIA DO SUPREMO TRIBUNAL FEDERAL – HARMONIA E EQUILÍBRIO NAS RELAÇÕES INSTITUCIONAIS ENTRE OS ESTADOS-MEMBROS E A UNIÃO FEDERAL – O PAPEL DO SUPREMO TRIBUNAL FEDERAL COMO TRIBUNAL DA FEDERAÇÃO – POSSIBILIDADE, NA ESPÉCIE, DE CONFLITO FEDERATIVO – PRETENSÃO CAUTELAR FUNDADA NA ALEGAÇÃO DE OFENSA AO PRINCÍPIO DA INTRANSCENDÊNCIA DAS MEDIDAS RESTRITIVAS DE DIREITOS – MEDIDA CAUTELAR DEFERIDA – DECISÃO DO RELATOR REFERENDADA PELO PLENÁRIO DO SUPREMO TRIBUNAL FEDERAL. CONFLITOS FEDERATIVOS E O PAPEL DO SUPREMO TRIBUNAL FEDERAL COMO TRIBUNAL DA FEDERAÇÃO. - A Constituição da República confere ao Supremo Tribunal Federal a posição eminente de Tribunal da Federação (CF, art. 102, I, “f”), atribuindo a esta Corte, em tal condição institucional, o poder de dirimir controvérsias que, ao irromperem no seio do Estado Federal, culminam, perigosamente, por antagonizar as unidades que compõem a Federação. Essa magna função jurídico-institucional da Suprema Corte impõe-lhe o gravíssimo dever de velar pela intangibilidade do vínculo federativo e de zelar pelo equilíbrio harmonioso das relações políticas entre as pessoas estatais que integram a Federação brasileira. A aplicabilidade da norma inscrita no art. 102, I, “f”, da Constituição estende-se aos litígios cuja potencialidade ofensiva revela-se apta a vulnerar os valores que informam o princípio fundamental que rege, em nosso ordenamento jurídico, o pacto da Federação. Doutrina. Precedentes. INSCRIÇÃO EM CADASTRO PÚBLICO DE INADIMPLENTES E ALEGAÇÃO DE OFENSA AO PRINCÍPIO DA INTRANSCENDÊNCIA DAS MEDIDAS RESTRITIVAS DE DIREITOS. - O postulado da intranscendência impede que sanções e restrições de ordem jurídica superem a dimensão estritamente pessoal do infrator. Em virtude desse princípio, as limitações jurídicas que derivam da inscrição, em cadastros públicos de inadimplentes, das autarquias, das empresas governamentais ou das entidades paraestatais não podem atingir os Estados-membros, projetando, sobre estes, consequências jurídicas desfavoráveis e gravosas, pois o inadimplemento obrigacional – por revelar-se unicamente imputável aos entes menores integrantes da administração descentralizada – só a estes pode afetar. - Os Estados-membros e o Distrito Federal, em consequência, não podem sofrer limitações em sua esfera jurídica, motivadas pelo só fato de se acharem administrativamente vinculadas a eles as autarquias, as entidades paraestatais, as sociedades sujeitas a seu poder de controle e as empresas governamentais alegadamente inadimplentes e que, por tal motivo, hajam sido incluídas em cadastros federais (CAUC, SIAFI, CADIN, v.g.). A QUESTÃO DOS DIREITOS E GARANTIAS CONSTITUCIONAIS, NOTADAMENTE AQUELES DE CARÁTER PROCEDIMENTAL, TITULARIZADOS PELAS PESSOAS JURÍDICAS DE DIREITO PÚBLICO. - A imposição de restrições de ordem jurídica, pelo Estado, quer se concretize na esfera judicial, quer se realize no âmbito estritamente administrativo (como sucede com a inclusão de supostos devedores em cadastros públicos de inadimplentes), supõe, para legitimar-se constitucionalmente, o efetivo respeito, pelo Poder Público, da garantia indisponível do “due process of law”, assegurada, pela Constituição da República (art. 5º, LIV), à generalidade das pessoas, inclusive às próprias pessoas jurídicas de direito público, eis que o Estado, em tema de limitação ou supressão de direitos, não pode exercer a sua autoridade de maneira abusiva e arbitrária. Doutrina. Precedentes. LIMITAÇÃO DE DIREITOS E NECESSÁRIA OBSERVÂNCIA, PARA EFEITO DE SUA IMPOSIÇÃO, DA GARANTIA CONSTITUCIONAL DO DEVIDO PROCESSO LEGAL. - A Constituição da República estabelece, em seu art. 5º, incisos LIV e LV, considerada a essencialidade da garantia constitucional da plenitude de defesa e do contraditório, que ninguém pode ser privado de sua liberdade, de seus bens ou de seus direitos sem o devido processo legal, notadamente naqueles casos em que se viabilize a possibilidade de imposição, a determinada pessoa ou entidade, seja ela pública ou privada, de medidas consubstanciadoras de limitação de direitos. - A jurisprudência dos Tribunais, especialmente a do Supremo Tribunal Federal, tem reafirmado o caráter fundamental do princípio da plenitude de defesa, nele reconhecendo uma insuprimível garantia que, instituída em favor de qualquer pessoa ou entidade, rege e condiciona o exercício, pelo Poder Público, de sua atividade, ainda que em sede materialmente administrativa ou no âmbito político-administrativo, sob pena de nulidade da própria medida restritiva de direitos, revestida, ou não, de caráter punitivo. Doutrina. Precedentes. BLOQUEIO DE RECURSOS CUJA EFETIVAÇÃO COMPROMETE A EXECUÇÃO, NO ÂMBITO LOCAL, DE PROGRAMA ESTRUTURADO PARA VIABILIZAR A IMPLEMENTAÇÃO DE POLÍTICAS PÚBLICAS. - O Supremo Tribunal Federal, nos casos de inscrição de entidades estatais, de pessoas administrativas ou de empresas governamentais em cadastros de inadimplentes organizados e mantidos pela União, tem ordenado a liberação e o repasse de verbas federais (ou, então, determinado o afastamento de restrições impostas à celebração de operações de crédito em geral ou à obtenção de garantias), sempre com o propósito de neutralizar a ocorrência de risco que possa comprometer, de modo grave e/ou irreversível, a continuidade da execução de políticas públicas ou a prestação de serviços essenciais à coletividade. Precedentes.”
+
+    (ACO nº 1.889-MC-REF/RN, Rel. Min. Celso de Mello, Tribunal Pleno, j. 15/12/2011, p. 1º/08/2014; grifos nossos).
+
+    15. Não havendo preliminares pendentes de apreciação, passo à apreciação do mérito.
+
+    16. Tenho que, na espécie, o afastamento da inscrição em cadastro de inadimplência federal deve ser acolhido.
+
+    17. Destaco que o Supremo Tribunal Federal tem, consistentemente, reconhecido que a inscrição de entes federados em cadastro de inadimplentes (ou outro que dê causa à negativa de realização de convênios, acordos, ajustes ou outros instrumentos congêneres que impliquem transferência voluntária de recursos) pressupõe o respeito aos princípios constitucionais do contraditório, da ampla defesa e do devido processo legal.
+
+    18. Recentemente, o Pleno do Supremo Tribunal Federal julgou o RE nº 1.067.086/BA, Rel. Min. Rosa Weber, sob o rito da repercussão geral (Tema RG nº 327), ocasião em que consolidou a posição da Corte sobre o tema. Transcrevo a ementa do julgado para melhor compreensão:
+
+    “EMENTA: RECURSO EXTRAORDINÁRIO COM REPERCUSSÃO GERAL. DIREITO ADMINISTRATIVO, FINANCEIRO E CONSTITUCIONAL. INSCRIÇÃO NO CADASTRO DE INADIMPLENTES DO SISTEMA INTEGRADO DE ADMINISTRAÇÃO FINANCEIRA DO GOVERNO FEDERAL – SIAFI/CADIN. DIREITO DA UNIÃO E DOS ESTADOS DE CONDICIONAR A ENTREGA DE RECURSOS AO PAGAMENTO DE SEUS CRÉDITOS, INCLUSIVE DE SUAS AUTARQUIAS. ART. 160, PARÁGRAFO ÚNICO, I, DA CONSTITUIÇÃO DA REPÚBLICA. AUSÊNCIA DE CONFLITO COM A GARANTIA DO CONTRADITÓRIO, AMPLA DEFESA E DEVIDO PROCESSO LEGAL. ART. 5º, LIV e LV, DA CONSTITUIÇÃO DA REPÚBLICA. VINCULAÇÃO AOS CADASTROS PARA A ENTREGA DE NOVOS RECURSOS. OBRIGAÇÃO LEGAL DIVERSA DO OBJETO DA AÇÃO. CARACTERIZAÇÃO DA INADIMPLÊNCIA PARA INSCRIÇÃO DE RESTRIÇÃO EM CADASTROS. MOMENTO. PRÉVIO JULGAMENTO DE TOMADA DE CONTAS ESPECIAL PELO TRIBUNAL DE CONTAS. NECESSIDADE NOS CASOS DE POSSIBILIDADE DE REVERSÃO DA INADIMPLÊNCIA. FIXAÇÃO DE TESE. RECURSO EXTRAORDINÁRIO A QUE SE NEGA PROVIMENTO. 1. Não viola o art. 160, I, da Constituição Federal a exigência do julgamento da tomada de contas especial para inscrição, em cadastro de inadimplentes, de ente subnacional que pretende receber recursos da União. 2. É requisito para a inscrição de ente subnacional em cadastro de inadimplentes o julgamento da tomadas de contas especial ou de outro procedimento específico instituído por lei que permita a apuração dos danos ao erário federal e das respectivas responsabilidades, desde que cabível à hipótese e possa resultar em reversão da inadimplência. Garantia do devido processo legal, contraditório e ampla defesa. Inteligência do disposto no art. 5º, LIV, e LV, da Constituição Federal. 3. É dispensável o julgamento ou mesmo a instauração da tomada de contas especial para a inscrição de ente subnacional em cadastro de inadimplentes, quanto tal procedimento não puder resultar em reversão da inadimplência, bastando, nestas hipóteses, a devida notificação do ente faltoso e o decurso do prazo nela previsto. 4. Fixação da seguinte tese em repercussão geral: “A inscrição de entes federados em cadastro de inadimplentes (ou outro que dê causa à negativa de realização de convênios, acordos, ajustes ou outros instrumentos congêneres que impliquem transferência voluntária de recursos), pressupõe o respeito aos princípios do contraditório, da ampla defesa e do devido processo legal, somente reconhecido: a) após o julgamento de tomada de contas especial ou procedimento análogo perante o Tribunal de Contas, nos casos de descumprimento parcial ou total de convênio, prestação de contas rejeitada, ou existência de débito decorrente de ressarcimento de recursos de natureza contratual (salvo os de conta não prestada) e; b) após a devida notificação do ente faltoso e o decurso do prazo nela previsto (conforme constante em lei, regras infralegais ou em contrato), independentemente de tomada de contas especial, nos casos de não prestação de contas, não fornecimento de informações, débito decorrente de conta não prestada, ou quaisquer outras hipóteses em que incabível a tomada de contas especial.” 4. Recurso extraordinário a que se nega provimento, com fixação de tese em repercussão geral.”
+
+    (RE nº 1.067.086/BA, Rel. Min. Rosa Weber, Tribunal Pleno, j. 16/09/2020, p. 21/10/2020; grifos nossos).
+
+    19. Portanto, fez-se uma distinção em relação às causas ensejadoras da inadimplência para efeito de determinar a obrigatoriedade ou não do prévio julgamento da tomada de contas especial como requisito para inscrição do ente federal nos cadastros de inadimplentes.
+
+    20. Não obstante, ressaltou-se que, em todas as situações, devem ser respeitados os princípios do devido processo legal, do contraditório e da ampla defesa, previamente à inscrição do ente federado em qualquer cadastro de inadimplentes. Assim, a observância do devido processo legal é medida que se impõe, seja por meio da tomada de contas especial (“nos casos de descumprimento parcial ou total de convênio, prestação de contas rejeitada, ou existência de débito decorrente de ressarcimento de recursos de natureza contratual”) ou por meio da notificação do ente faltoso (nos casos de “não prestação de contas, não fornecimento de informações, débito decorrente de conta não prestada, ou quaisquer outras hipóteses em que incabível a tomada de contas especial”).
+
+    21. O presente caso se amolda à al. “a” da tese fixada por esta Corte no julgamento do Tema RG nº 327, sendo necessário, dessa maneira, o julgamento da tomada de contas especial como requisito para a inscrição da entidade no cadastro de inadimplentes.
+
+    22. Transcrevo trecho do Parecer Financeiro nº 1002, de 2018, da Coordenação de Análise de Prestação de Contas do Ministério do Turismo (e-doc. 30), que indica os motivos que levaram à inscrição do Estado do Ceará nos cadastros restritivos:
+
+    “(...) 23. RESULTADO FINAL DA ANÁLISE FINANCEIRA
+
+    Este é o parecer financeiro que, em consulta aos autos e ao SICONV, nos leva a sugerir a REJEIÇÃO da prestação de contas.
+
+    24. PARECER DE ENCAMINHAMENTO QUANTO AO RESULTADO DA EXEUÇÃO FINANCEIRA
+
+    Diante do parecer apresentado, com conclusões a partir da documentação disponibilizada, recomenda-se a REJEIÇÃO. (...)”
+
+    23. Importante registrar, por oportuno, que a mera troca de ofícios ou expedientes, sem demonstração efetiva de atendimento aos princípios do contraditório e da ampla defesa, bem como do postulado do devido processo legal, não afasta a necessidade do julgamento da tomada de contas especial. Nesse sentido:
+
+    “EMENTA: AGRAVO EM AÇÃO CÍVEL ORIGINÁRIA. INSCRIÇÃO DE ESTADO-MEMBRO EM CADASTRO FEDERAL DE INADIMPLÊNCIA. SIAFI/CAUC/CADIN. CONVÊNIO. PRINCÍPIOS DA AMPLA DEFESA, CONTRADITÓRIO E DEVIDO PROCESSO LEGAL. NECESSIDADE DE PRÉVIA TOMADA DE CONTAS ESPECIAL. REPERCUSSÃO GERAL NO RE 1.067.086/BA – TEMA 327. PRECEDENTES. 1. A jurisprudência desta Suprema Corte é estável quanto à necessidade da Tomada de Contas Especial previamente ao registro do Estado Federado no SIAFI/CAUC/CADIN. Tese de Repercussão geral no RE 1.067.086, da minha relatoria (DJe de 28.9.2020). 2. A jurisprudência desta Suprema Corte orienta no sentido de que a troca de ofícios e/ou expedientes entre a União e os Estados Federados não afastam a necessidade da Tomada de Contas Especial para fins de inscrição nos cadastros federais de inadimplência. Precedentes. 3. Agravo regimental conhecido e não provido.”
+
+    (ACO nº 3.022-AgR/DF, Rel. Min. Rosa Weber, Tribunal Pleno, j. 29/03/2021, p. 12/04/2021; grifos nossos).
+
+    24. Assim, estando comprovado que a hipótese dos autos se amolda à al. “a” da tese fixada por esta Corte no julgamento do Tema RG nº 327 e que a inscrição do autor no cadastro de inadimplência ocorreu antes do julgamento da tomada de contas especial e sem que tenha lhe sido assegurada a ampla defesa, o contraditório e o devido processo legal, reconheço a ilegalidade da inscrição apontada na inicial.
+
+Dispositivo
+
+    25. Ante o exposto, confirmo os efeitos da tutela de urgência anteriormente concedida e julgo procedente o pedido para determinar o cancelamento das inscrições de inadimplência do Estado do Ceará no Cadastro Único de Convênios – CAUC, no Sistema Integrado de Administração Financeira do Governo Federal – SIAFI e no Cadastro Informativo de Créditos não quitados de órgãos e entidades federais – CADIN, referentes ao Convênio nº 433, de 2007, cujo objeto envolve a urbanização da Praia de Iracema, no Município de Fortaleza/CE (inc. I do art. 487 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+
+    26. Fixo os honorários em R$ 5.000,00 (cinco mil reais), nos termos do art. 85, § 8º, do CPC, de 2015.
+
+    27. Sem custas (art. 4º, inc. I, da Lei nº 9.289, de 1996).
+
+    Publique-se.
+
+    Intimem-se.
+
+    Brasília, 3 de abril de 2023.
+
+Ministro ANDRÉ MENDONÇA
+
+Relator
