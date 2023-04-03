@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo interposto por TERTULIANO DA SILVA, contra decisão que não admitiu o recurso especial, o qual foi apresentado em face do acórdão do Tribunal de Justiça do Estado de Mato Grosso do Sul, assim ementado (e-STJ, fl. 244):
+"EMENTA - APELAÇÕES CÍVEIS - AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C REPETIÇÃO DE INDÉBITO E DANOS MORAIS - PREJUDICIAL DE MÉRITO - PRESCRIÇÃO - MATÉRIA NÃO CONHECIDA - PRECLUSÃO - MÉRITO - EMPRÉSTIMO BANCÁRIO - DESCONTOS EM BENEFÍCIO PREVIDENCIÁRIO - CONTRATO NÃO APRESENTANDO - IMPOSSIBILIDADE DE JUNTADA DE DOCUMENTOS NA FASE RECURSAL - NÃO COMPROVAÇÃO DO RECEBIMENTO DO VALOR CONTRATADO - DEMONSTRAÇÃO DO ATO ILÍCITO - DANO MORAL CONFIGURADO - VALOR INDENIZATÓRIO MANTIDO - RESTITUIÇÃO DE VALORES COBRADOS INDEVIDAMENTE DE FORMA SIMPLES - NECESSIDADE - JUROS DE MORA - SÚMULA 54 DO STJ - HONORÁRIOS ADVOCATÍCIOS - FIXADOS EM PATAMAR RAZOÁVEL - PREQUESTIONAMENTO - APELO DO BANCO CONHECIDO E DESPROVIDO - APELO DO AUTOR PARCIALMENTE CONHECIDO E DESPROVIDO."
+Os embargos de declaração opostos foram rejeitados, conforme o acórdão de fls. 272-277.
+As razões do recurso especial, fundamentado nas alíneas "a" e "c" do permissivo constitucional, apontaram ofensa aos arts. 186, 927 e 944 do Código Civil de 2002; 6º, VI, 14 e 42, parágrafo único, do Código de Defesa do Consumidor, bem como divergência jurisprudencial.
+Sustentou, em síntese, que o valor da condenação em danos morais no importe de R$ 2.000,00 (dois mil reais) deve ser majorado para R$ 10.000,00 (dez mil reais).
+Foram apresentadas contrarrazões às fls. 414-423.
+A decisão de admissibilidade negou seguimento ao recurso especial com base no óbice da Súmula 7/STJ e na prejudicialidade do dissídio jurisprudencial, em razão da incidência da referida súmula.
+É o relatório.
+Na análise do valor arbitrado a título de indenização, a Corte de origem se manifestou da seguinte forma (e-STJ, fls. 251-252):
+"Sustenta o Banco apelante que, com base no princípio da razoabilidade, o quantum arbitrado a título de verba indenizatória deve ser minorado.
+O recorrente Tertuliano, por sua vez, alega que o magistrado a quo, ao fixar o quantum indenizatório em R$ 2.000,00 (dois mil reais), em decorrência de desconto indevido em seu benefício previdenciário, não respeitou o caráter punitivo e compensatório que deve ser observado para a mensuração do dano moral.
+É certo que a apuração do quantum indenizatório nos casos de dano moral consiste em matéria que deve ser analisada com a devida cautela, uma vez que a Lei não estabelece parâmetros objetivos para o seu cálculo, devendo ser prudentemente arbitrado pelo julgador com base nos princípios da razoabilidade e da proporcionalidade.
+Na busca desse objetivo, o importe fixado precisa mostrar-se razoável e proporcional ao poder econômico do ofensor, à sua culpabilidade e ao grau do dano, de forma a não se tornar inexpressivo e insignificante, escapando à função penalizadora e pedagógica da indenização, sem, também, se converter em fonte de enriquecimento sem causa da vítima, vindo esta a se beneficiar com o recebimento de importe superior ao que realmente lhe é devido.
+Esse é o entendimento amplamente exposto pela jurisprudência do C. Superior Tribunal de Justiça, senão vejamos:
+(..)
+Ante as peculiaridades e o conjunto probatório do caso concreto, depois de consideradas todas as circunstâncias, vejo que o valor arbitrado na sentença a quo deve ser mantido, entendendo como justa, razoável e adequada a quantia de R$ 2.000,00 (dois mil reais), porque espelha melhor a situação fática dos autos e obsta o enriquecimento ilícito." (Sem grifo no original).
+Com base nos arestos colacionados percebe-se que a Corte de origem com base no acervo fático-probatório dos autos, concluiu que o valor arbitrado a título de dano moral é razoável "porque espelha melhor a situação fática dos autos e obsta o enriquecimento ilícito".
+Isso posto, rever a decisão do Tribunal de origem esbarra na Súmula 7/STJ.
+Ademais, o entendimento desta Corte é no sentido de que só será feita a reavaliação do valor da indenização por danos morais quando o valor se mostrar manifestamente irrisório ou excessivo, o que não ocorre no caso em análise.
+Na mesma linha de intelecção:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE DÉBITO E INDENIZAÇÃO. DESCONTOS INDEVIDOS. BENEFÍCIO PREVIDENCIÁRIO. FRAUDE. MÚTUO BANCÁRIO. VALOR DOS DANOS MORAIS. REVISÃO. REEXAME DE MATÉRIA FÁTICA. MANUTENÇÃO DA SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Acerca da indenização a título de danos morais, o Superior Tribunal de Justiça firmou orientação de que somente é admissível o exame do valor fixado a título de danos morais quando for verificada a exorbitância ou a ín dole irrisória da importância arbitrada, em flagrante ofensa aos princípios da razoabilidade e da proporcionalidade.
+2. No caso, a decisão agravada deve ser confirmada pelos seus jurídicos fundamentos, pois o valor da indenização por danos morais, arbitrado em R$ 1.000,00 (mil reais), não se mostra irrisório nem desproporcional, considerando que não houve prejuízo nos rendimentos da agravante. A alteração do julgado, a fim de majorar o quantum, implica revolvimento de matéria probatória. Manutenção da Súmula 7/STJ.
+3. Agravo interno desprovido."
+(AgInt no AREsp n. 2.153.054/MS, relator Ministro Raul Araújo, Quarta Turma, julgado em 13/2/2023, DJe de 24/2/2023 - sem grifo no original).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DO TRANSPORTADOR. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. QUANTUM INDENIZATÓRIO. REVISÃO. ÓBICE DA SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Conforme entendimento desta Corte Superior, "é deficiente a fundamentação do recurso especial quando ausente a indicação adequada da questão federal controvertida ou quando o conteúdo normativo é inapto a amparar a tese recursal, atraindo o óbice da Súmula 284 do STF" (AgInt no REsp 1.716.758/DF, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 01/06/2021, DJe 10/06/2021).
+2. Nos termos da jurisprudência deste Superior Tribunal, o valor estabelecido pelas instâncias ordinárias a título de danos morais pode ser revisto tão somente nas hipóteses em que a condenação se revelar irrisória ou exorbitante, distanciando-se dos padrões de razoabilidade, o que não se evidencia no presente caso, de modo que a sua revisão encontra óbice na Súmula 7/STJ.
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 2.217.737/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 6/3/2023, DJe de 13/3/2023 - sem grifo no original).
+Finalmente, pela divergência pretoriana, o recurso também não merece acolhida, na medida em que a incidência da Súmula n. 7/STJ também obsta o apelo nobre pela alínea "c" do permissivo constitucional.
+Nessa linha de intelecção, destaca-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESOLUÇÃO CONTRATUAL CUMULADA COM PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC/2015. NÃO OCORRÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. SÚMULA 7 DO STJ. PREJUDICADO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ.
+1. Ação de resolução contratual cumulada com pedido de indenização por danos morais e materiais.
+2. É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/2015 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/2015.
+4. Alterar o decidido no acórdão impugnado no que se refere à tese atinente à inadmissibilidade de prova emprestada por envolver terceiro estranho à presente demanda, envolve o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+5. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+6. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+7. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp n. 2.175.639/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 13/3/2023, DJe de 15/3/2023 - sem grifo no original).
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
