@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão que negou provimento ao recurso defensivo, assim ementado:
+EMBARGOS INFRINGENTES. TRÁFICO DE ENTORPECENTES. CAUSA DE DIMINUIÇÃO DE PENA. INAPLICABILIDADE. DEDICAÇÃO À ATIVIDADE CRIMINOSA.
+A circunstância de ostentar o embargante anterior condenação, ainda que não transitada em julgado, dedicando-se, portanto, às atividades criminosas constitui empeço ao reconhecimento da causa de diminuição de pena prevista no art. 33, § 40, da Lei 11.346106.
+Sustenta o recorrente violação do art. 33, § 4º, da Lei 11.343/2006.
+Alega a falta de fundamentação idônea para a negativa da minorante do tráfico, porquanto a existência de ação penal em curso não constitui motivação válida.
+Requer o provimento do recurso, a fim de que seja redimensionada a pena.
+Contra-arrazoado e admitido na origem, manifestou-se o Ministério Público Federal pelo provimento do recurso.
+Quanto à minorante do tráfico, o acórdão recorrido está assim fundamentado:
+Ao negar ao recorrente o benefício previsto no art. 33, § 40, da Lei n. 11.343/06, invocara o acórdão recorrido a dedicação da recorrente às atividades criminosas, atentando-se a ilustre relatora Desa. Beatriz Pinheiro Caires à certidão de antecedentes criminais do recorrente de fis. 43146, ostentando condenação criminal por delito de homicídio, ainda que não transitada em julgado.
+Tal elemento de convicção constitui óbice à incidência da causa especial de diminuição de pena, benesse a ser deferida ao traficante esporádico, neófito, cuja participação em vendagem de drogas se faça de forma fortuita ou eventual.
+O acordão impugnado encontra-se em dissonância com a jurisprudência desta Corte, no sentido de que a existência de ações penais em curso, por si só, não constitui fundamento idôneo para afastar a causa de diminuição do tráfico, prevista no art. 33, § 4º, da Lei 11.343/06. A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. ADMISSÃO DO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. CONHECIMENTO. MÉRITO. MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. RECONHECIMENTO. AÇÕES PENAIS EM CURSO. FUNDAMENTO INIDÔNEO PARA AFASTAR A MINORANTE DO TRÁFICO PRIVILEGIADO. QUANTIDADE NÃO RELEVANTE DE DROGAS. REFORÇO ARGUMENTATIVO. AGRAVO REGIMENTAL IMPROVIDO.
+1. Não se vislumbra óbice à admissão do agravo em recurso especial quando suficientemente impugnados pela parte todos os fundamentos da decisão agravada. Inteligência do art. 932, III, do CPC e da Súmula n. 182/STJ.
+2. Conforme jurisprudência desta Corte, a quantidade não relevante, no caso, 43,63g (quarenta e três gramas e sessenta e três centigramas) de cocaína e 6,5g (seis gramas e cinco decigramas) de maconha, e a ausência de circunstâncias adicionais desfavoráveis não ensejam a exasperação da pena-base, a vedação da minorante do tráfico na sua fração máxima de 2/3, o recrudescimento do regime prisional ou a negativa à substituição das penas. Precedentes.
+3. A mais recente orientação de ambas as turmas do Supremo Tribunal Federal é a de que, em regra, inquéritos policiais e ações penais em andamento não constituem fundamentação idônea apta a respaldar a não aplicação do redutor especial de pena relativo ao reconhecimento da figura privilegiada do crime de tráfico de drogas. A Sexta Turma do Superior Tribunal de Justiça, em recente pronunciamento, apresentou entendimento alinhado à Suprema Corte nos autos do AgRg no AREsp n. 1.801.313/SP, relatora Ministra LAURITA VAZ, SEXTA TURMA, julgado em 9/3/2021, DJe 19/3/2021, considerando-se inválido, no caso concreto, o fundamento utilizado pelo Tribunal de origem para afastar o benefício, calcado no fato de que o réu havia sido preso recentemente também por tráfico de drogas.
+4. Agravo regimental improvido.
+(AgRg no AREsp 1839145/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 08/06/2021, DJe 17/06/2021.)
+No caso, considerando a ausência de circunstâncias adicionais no julgado deve ser reconhecido o tráfico privilegiado, tal como consignado no voto minoritário.
+Desse modo, faço prevalecer o voto vencido , em que reconhecida a minorante do tráfico no patamar de 2/3, tornando a reprimenda definitiva em 1 ano, 11 meses e 10 dias de reclusão e 194 dias-multa, no regime aberto e substituída a pena privativa de liberdade por penas restritivas de direitos, consoante arts. 33, §§ 2º e 3º, e 44 do CP.
+Ante o exposto, dou provimento ao recurso para fixar a pena em 1 ano, 11 meses e 10 dias de reclusão e 194 dias-multa, em regime aberto, e substituí-la por penas restritivas de direitos a serem estabelecidas pelo Juízo da execução.
+Publique-se.
+Intimem-se.
