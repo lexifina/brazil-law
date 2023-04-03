@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em virtude da ausência de violação dos dispositivos legais apontados (e-STJ fl. 456).
+O acórdão recorrido está assim ementado (e-STJ fl. 288):
+EMENTA : CIVIL E PROCESSUAL CIVIL. INCLUSÃO DAS EMPRESAS NO POLO PASSIVO DA DEMANDA. INVERSÃO DO ÔNUS DA PROVA. POSSIBILIDADE. AGRAVO DE INSTRUMENTO IMPROVIDO.
+1. Agravo de instrumento interposto por BERKLEY INTERNATIONAL DO BRASIL SEGUROS S. A. em face de decisão do Juízo da 24ª Vara Federal da Seção Judiciária do Estado de Pernambuco, que - em sede de ação de obrigação de fazer proposta por Maviael Mizael Chagas Junior em face da Caixa - determinou a inclusão no polo passivo da demanda de ambas as empresas, Econômica e outros notificando-as para comparecer à audiência de conciliação.
+2. Diante de um novo documento anexado aos presentes fólios, qual seja, o Contrato de Seguro Garantia (Id. 4058302.5805956) restou constatado, a princípio, que a Berkey Internacional do Brasil S. A e a Caixa Seguradora S. A firmaram contrato de seguro no intuito de garantir a conclusão da obra, ficando aberta a possibilidade de haver responsabilidade contratual destas duas instituições. Assim, o Juiz de origem determinou a inclusão dessas empresas no polo passivo da demanda.
+3. Não vislumbro em tal decisão, o perigo de dano qualificado, apto a fundamentar a suspensão dos efeitos da decisão atacada.
+4. De outra parte, verifico que o Juiz analisou as circunstâncias concretas do caso e, respaldado pelo art.6º, VIII do Código de Defesa do Consumidor e pelo comando constitucional que impõe a proteção ao consumidor, deferiu o pedido de inversão do ônus da prova.
+5. Nada a censurar na decisão vergastada. O CDC adotou a regra da distribuição dinâmica do ônus da prova, isto é, o magistrado tem o poder (a faculdade) de redistribuir (inverter) o ônus da prova, caso verifique a verossimilhança da alegação ou a hipossuficiência do consumidor, isso porque a vulnerabilidade do consumidor é presumida (art. 4º, I, CDC), e diz respeito ao direito material, ao contrário da hipossuficiência que diz respeito ao direito processual.
+6. Agravo de Instrumento improvido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 359/362).
+No recurso especial (e-STJ fls. 381/405), fundamentado no art. 105, III, "a", da CF, a recorrente alegou violação do art. 1.022 do CPC/2015, visto que o acórdão recorrido não analisou as questões dos embargos de declaração.
+Sustentou a tese de ofensa aos arts. 10 e 357 do CPC/2015, pois houve error in procedendo, aduzindo que "a inversão do ônus da prova ocorreu em momento anterior ao ingresso da RECORRENTE na lide, não de acordo com as providências preliminares ao saneamento e organização do processo" (e-STJ fl. 390).
+Aduziu inobservância dos arts. 373 do CPC/2015 e 6º, VIII, do CDC, por considerar indevida a inversão do ônus da prova diante da inexistência "da relação de consumo, nem mesmo a hipossufuciência do Recorrido em relação à Recorrente, porquanto, frise-se, ausente qualquer relação de consumo" (e-STJ fl. 400).
+No agravo (e-STJ fls. 476/487), declara a presença de todos os requisitos de admissibilidade do especial.
+É o relatório.
+Decido.
+Não há falar em ofensa aos arts. 489 e 1.022 do CPC/2015, pois o Tribunal a quo pronunciou-se, de forma clara e suficiente, sobre as questões suscitadas nos autos. Não há negativa de prestação jurisdicional quando os fundamentos utilizados tenham sido suficientes para embasar a decisão, ainda que em sentido diverso do sustentado pela parte, como de fato ocorreu.
+Em relação à tese de afronta aos arts. 10 e 357 do CPC/2015, tais questões não foram apreciadas pela Corte logo, tampouco foram objeto dos embargos de declaração opostos. Logo, ausente o prequestionamento da matéria (Súmula n. 211/STJ).
+Quanto à inversão do ônus da prova, o Tribunal de origem consignou que (e-STJ fl. 287):
+De outra parte, verifico que o Juiz analisou as circunstâncias concretas do caso e, respaldado pelo art. 6º, VIII do Código de Defesa do Consumidor e pelo comando constitucional que impõe a proteção ao consumidor, deferiu o pedido de inversão do ônus da prova.
+Nada a censurar na decisão vergastada. O CDC adotou a regra da distribuição dinâmica do ônus da prova, isto é, o magistrado tem o poder (a faculdade) de redistribuir (inverter) o ônus da prova, caso verifique a verossimilhança da alegação ou a hipossuficiência do consumidor, isso porque a vulnerabilidade do consumidor é presumida (art. 4º, I, CDC), e diz respeito ao direito material, ao contrário da hipossuficiência que diz respeito ao direito processual.
+No que tange à modulação de efeitos quanto à inversão do ônus da prova e sua incidência em relação à ora agravante, em princípio, não é possível o seu exame neste momento processual, sob pena de restar configurada supressão de grau de jurisdição, haja vista que o douto juízo a quo não foi provocado a respeito do tema.
+Para reformar o acórdão recorrido e afastar a inversão do ônus da prova, seria necessária a análise das provas dos autos, hipótese vedada pela Súmula n. 7/STJ.
+Além disso, quanto à modulação de efeitos do ônus da prova e sua incidência em relação à agravante, o TJPE entendeu que não poderiam ser apreciadas naquele momento processual, sob pena de supressão de instância. Tal fundamento não foi impugnado pela recorrente, aplicando-se a Súmula n. 283/STF.
+Por fim, o argumento de inexistência de relação jurídica entre a seguradora e a parte agravada não foi apreciado pel a Corte local, estando ausente o requisito do prequestionamento (Súmula n. 282/STF).
+Em face do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
