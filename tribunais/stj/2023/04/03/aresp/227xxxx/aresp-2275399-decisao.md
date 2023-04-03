@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo (art. 1042 do CPC/15), interposto por BANCO DO NORDESTE DO BRASIL S/A, contra decisão que não admitiu recurso especial (fls. 536/538 e-STJ).
+O apelo nobre, amparado no art. 105, inciso III, alínea "a", da Constituição Federal, desafia acórdão prolatado pelo Tribunal de Justiça do Estado da Bahia, assim ementado (fl. 148, e-STJ):
+APELAÇÃO CÍVEL. CONTRATO PARTICULAR DE COMPOSIÇÃO E CONFISSÃO DEDÍVIDAS, MEDIANTE GARANTIA DE FIANÇA E OUTROS PACTOS, FUNDADA EM NOTA DECRÉDITO RURAL . AÇÃO MONITÓRIA. PRESCRIÇÃO. PROCESSO EXTINTO COMRESOLUÇÃO DO MÉRITO. ART. 487, II, DO CÓDIGO DE PROCESSO CIVIL. PRESCRIÇÃO QUINQUENAL. EVIDÊNCIA. INTELIGÊNCIA DO ART. 206, § 5º, I, DO CÓDIGO CIVIL. INOCORRÊNCIA DE CAUSA SUSPENSIVA. ALEGAÇÃO, NÃO DEMONSTRADA,DE ENQUADRAMENTO DA DÍVIDA NAS DISPOSIÇÕES CONTIDAS EM LEIS FEDERAISVOLTADAS AO INCENTIVO À LIQUIDAÇÃO OU RENEGOCIAÇÃO DEDÍVIDAS. INAPLICABILIDADE. IRRESIGNAÇÃO IMOTIVADA. SENTENÇA MANTIDA. RECURSO IMPROVIDO.
+Em suas razões de recurso especial, o recorrente, ora agravante, aponta ofensa aos artigos 8º, § 12, da Lei 12844/13, 10 da Lei 13140/2016, 10 da Lei 13729/18. Sustenta, em síntese, que nã o há falar em prescrição, devendo a demanda ter seu curso regular.
+Após a apresentação das contrarrazões (fls. 188/194, e-STJ), o apelo não foi admitido na origem (fls. 195/198, e-STJ), dando ensejo ao agravo (fls. 200/208, e-STJ), visando destrancar o processamento daquela insurgência, no qual o recorrente refuta os óbices aplicados pela Corte estadual.
+Contraminuta às fls. 212/219, e-STJ.
+É o relatório.
+Decide-se.
+O inconformismo não merece prosperar.
+1. Na hipótese, ao reconhecer a prescrição, a Corte local consignou (fl. 153, e-STJ):
+Na causa em tela, entretanto, não há que se falar em suspensão ou prorrogação de lapso prescricional em razão do advento das aludidas normas federais, aplicáveis aos processos que, se encontravam "em curso" até as datas ali estabelecidas, conforme destacado por juiz da causa. Ademais, o apelante alega mas sequer demonstra que a parte acionada/apelada teria aderido, por meio de formal manifestação, aos aludidos programas de incentivo à liquidação ou renegociação de dívidas, disciplinados nas reportadas legislações. Resta incontroverso nos autos o vencimento final do contrato ocorrido em 02/05/2015, conforme admitido por ora recorrente, e o ajuizamento da ação monitória somente em07/08/2020, ID21220798, restando configurado o decurso do lapso prescricional previsto no art.206, §5º, I, do Código Civil/2002, o que indica o acerto da sentença vergastada, não merecedora de reforma, proferida sob os seguintes fundamentos:
+Assim, para alterar a conclusão da Corte local no sentido de que a parte agravante não comprovou que o agravado teria aderido aos programas de incentivo à liquidação de dívidas como forma de suspender o prazo prescricional e, por conseguinte, afastar a prescrição reconhecida, seria necessário promover o reexame do acervo fático-probatório dos autos, providência vedada na via eleita, a teor do óbice da Súmula 7/STJ.
+A propósito:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO. TERMO INICIAL. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. AUSÊNCIA DE SIMILITUDE FÁTICA. DECISÃO MANTIDA.
+1. Com base na teoria da actio nata, o termo inicial da prescrição é contado a partir do momento em que o titular do direito subjetivo violado obtém plena ciência da lesão e de toda sua extensão, que, no caso, ocorreu na data em que os autores, ora agravados, tomaram conhecimento do levantamento do alvará pelo advogado agravante. Precedentes.
+2. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou revolvimento do contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+3. No caso concreto, a análise das razões apresentadas pela parte recorrente quanto ao termo inicial da prescrição demandaria o reexame da matéria fática, o que é vedado em sede de recurso especial.
+4. O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige a demonstração da similitude fática entre os acórdãos confrontados.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.078.177/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 15/8/2022, DJe de 18/8/2022.)
+2. Do exposto, com fundamento no art. 932 do NCPC c/c a súmula 568/STJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
