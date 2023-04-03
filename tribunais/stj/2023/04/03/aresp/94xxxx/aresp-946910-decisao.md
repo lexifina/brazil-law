@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo (art. 544 do CPC/73), interposto por ALPHA EXTRAÇÕES DE AREIA LTDA., contra decisão que não admitiu recurso especial (fls. 782/784 e-STJ).
+O apelo nobre, amparado no art. 105, inciso III, alínea "a", da Constituição Federal, desafia acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 727, e-STJ):
+Exceção de pré-executividade. Cabimento tão somente em casos excepcionalíssimos. Requisitos de ausência de pressupostos para a constituição válida e desenvolvimento regular do processo, bem como de falta de condições da ação. Inocorrência de tais hipóteses no caso dos autos. Recurso desprovido.
+Opostos embargos de declaração, foram rejeitados (fls. 741/745, e-STJ).
+Em suas razões de recurso especial, a recorrente, ora agravante, aponta ofensa aos artigos 359, 535, 586 do CPC/73. Sustenta, em síntese: i) negativa de prestação jurisdicional, pois o Tribunal de origem não se manifestou sobre a presunção de veracidade dos argumentos apresentados e acerca da ausência de certeza, exigibilidade liquidez dos títulos; ii) devem ser presumidos verdadeiros os fatos alegados; e, por fim iii) a execução é nula por ausência título líquido, certo e exigível.
+Após a apresentação das contrarrazões (fls. 766/774, e-STJ), o apelo não foi admitido na origem (fls. 782/784, e-STJ), dando ensejo ao agravo (fls. 786/799, e-STJ), visando destrancar o processamento daquela insurgência, no qual a recorrente refuta os óbices aplicados pela Corte estadual.
+Contraminuta às fls. 804/806, e-STJ.
+É o relatório.
+Decide-se.
+O inconformismo não merece prosperar.
+1. Inicialmente, verifica-se que a apontada violação do art. 535 do CPC/73 não se configura, haja vista o Tribunal estadual ter dirimido clara e integralmente a controvérsia acerca da certeza, iliquidez e exigibilidade dos títulos, porém em sentido contrário ao pretendido pela recorrente.
+É, aliás, o que se observa dos seguintes excertos do acórdão recorrido (fl. 731, e-STJ):
+" Dito isso, ressalte-se que o Juiz somente deve acolher a exceção de pré-executividade, quando igualmente poderia, de ofício, haver obstado a execução. Assim, a denominada exceção de pré-executividade somente pode ser admitida em casos excepcionais em que evidente e inequívoca a ausência de pressupostos para desenvolvimento regular e válido da relação jurídica processual, ou na hipótese de clara configuração da falta de condições para a ação. Na espécie, não há que se falar em cristalina falta de pressupostos processuais ou ausência de condições para a ação, quando a exordial da execução vem instruída com título executivo emitido pelo excipiente, além do demonstrativo do débito (fls. 29/30 e fls. 35/57).".
+Portanto, verifica-se que a controvérsia foi integralmente solucionada pelo Tribunal de origem, com fundamento suficiente, não estando caracterizada a ofensa ao artigo 535 do CPC/73 (art. 1.022, CPC/15), pois não há que se confundir entre decisão contrária aos interesses da parte e negativa de prestação jurisdicional, nem fundamentação sucinta com ausência de fundamentação.
+Nesse sentido:
+PROCESSUAL CIVIL. PETIÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECEBIMENTO COMO AGRAVO REGIMENTAL. AUSÊNCIA DE ANÁLISE DE QUESTÃO RELEVANTE PARA O JULGAMENTO DA LIDE. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. DECISÃO MANTIDA.
+1. Inexiste afronta aos arts. 165, 458, II, e 535, II, do CPC/1973 quando o acórdão recorrido apresenta fundamentos suficientes para embasar a decisão, enfrentando todas as questões pertinentes para a solução da lide e manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+(..)
+(PET no AREsp 489.892/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 27/02/2018, DJe 12/03/2018)
+2. Ademais, não há falar em presunção de veracidade, porquanto, conforme entendimento desta Corte, no processo de execução, diversamente do processo de conhecimento, o direito do credor encontra-se consubstanciado no próprio título, que se reveste da presunção de veracidade, cabendo ao executado, ora agravante, desconstituir a eficácia do título executivo.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO INTEMPESTIVA. EFEITOS DA REVELIA. INAPLICABILIDADE. INSTITUTO APLICÁVEL APENAS À MATÉRIA DE FATO. PRECLUSÃO TEMPORAL. MULTA DE 10% PELO NÃO PAGAMENTO VOLUNTÁRIO. MATÉRIA NÃO PREQUESTIONADA. SÚMULAS 282 E 356 DO STF. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL DESPROVIDO.
+1.Os efeitos da revelia não abrangem as questões de direito, tampouco implicam renúncia a direito ou a automática procedência do pedido da parte adversa. Acarretam simplesmente a presunção relativa de veracidade dos fatos alegados pelo autor (CPC, art. 319).
+2. Conforme assentado por esta Corte, " .. no processo de execução, diferentemente do processo de conhecimento em que se busca a certeza do direito vindicado, o direito do credor encontra-se consubstanciado no próprio título, que se reveste da presunção de veracidade, até porque já anteriormente comprovado, cabendo, assim, ao embargante-executado o ônus quanto à desconstituição da eficácia do título executivo" (REsp 601.957/RJ, Rel. Ministro HAMILTON CARVALHIDO, SEXTA TURMA, julgado em 23/08/2005, DJ de 14/11/2005, p. 410).
+3. Não se aplicam os efeitos da revelia à impugnação do cumprimento de sentença apresentada extemporaneamente, uma vez que as questões de fato relativas ao direito do credor já foram anteriormente discutidas e comprovadas e se encontram acobertadas pelo manto da coisa julgada material.
+4. Fica inviabilizado o conhecimento de tema trazido na petição de recurso especial, mas não debatido e decidido nas instâncias ordinárias. Aplicação, por analogia, das Súmulas 282 e 356, ambas do col. STF.
+5. Agravo interno provido para negar provimento ao recurso especial.
+(AgInt no AREsp n. 1.352.507/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 11/10/2021, DJe de 17/11/2021.)
+3. Por fim, para alterar a conclusão da Corte local no sentido de que a execução foi instruída com título executivo emitido pelo excipiente, além de do demonstrativo do débito, inexistindo "cristalina falta de pressupostos processuais ou ausência de condições para a ação" (fl. 731, e-STJ) a ser reconhecida na exceção de pré-executividade, seria necessário promover o reexame do acevo fático-probatório dos autos, providência vedada na via eleita, a teor do óbice da Súmula 7/STJ.
+Confira-se:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. ALEGAÇÃO DE VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CÓDIGO DE PROCESSO CIVIL DE 2015. NÃO OCORRÊNCIA. PRETENSÃO DE COBRANÇA DE DÍVIDA LÍQUIDA CONSTANTE DE INSTRUMENTO PÚBLICO OU PARTICULAR. PRESCRIÇÃO QUINQUENAL. TERMO INICIAL. DATA DE VENCIMENTO DAS PARCELAS INADIMPLIDAS. REEXAME CONTRATUAL E FÁTICO DOS AUTOS. SÚMULAS N. 5 E 7 DO STJ.
+1. O acórdão recorrido analisou todas as questões necessárias ao deslinde da controvérsia, não se configurando omissão, contradição ou negativa de prestação jurisdicional.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória e interpretar cláusulas contratuais (Súmulas n. 5 e 7/STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.830.334/GO, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 27/6/2022, DJe de 30/6/2022.)
+4. Do exposto, com fundamento no art. 932 do NCPC c/c a súmula 568/STJ, conheço do agravo para conhecer em parte do recurso especial e negar-lhe provimento.
+Publique-se. Intimem-se.
