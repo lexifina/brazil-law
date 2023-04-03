@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/03/2023 a 03/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+Trata-se de agravo interno interposto por UNILEVERPREV - SOCIEDADE DE PREVIDÊNCIA PRIVADA E OUTROS, em face da decisão de fls. 1050-1053, e-STJ, da lavra deste signatário, que negou provimento ao recurso especial manejado pela ora agravante.
+O apelo nobre, de sua vez, fundamentado nas alíneas "a" e "c" do permissivo constitucional, desafia acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 927-935, e-STJ):
+PLANO DE SAÚDE. Decisum que fundou-se em causa de pedir totalmente diversa daquela posta em juízo (extra-petita). Fatos narrados na inicial que não se subsumem ao art. 31 da Lei nº 9.656/98. Sentença anulada. Causa madura para julgamento. Incidência do art. 1.013, §3º, inciso II, do NCPC. Prescrição. Inocorrência. Incorporação da RMB e da Previrefinações, respectivamente, pela Unilever Brasil Ltda. e pela Unileverprev Sociedade de Previdência privada. Abusividade da alteração unilateral dos contratos de plano de saúde cujos beneficiários seriam autores. Restituição das quantias pagas a maior que deve se dar de forma simples. Ação procedente. RECURSO DAS RÉS PROVIDO EM PARTE PARA DECRETAR A NULIDADE DA R. SENTENÇA EXTRA-PETITA; RECURSO DOS AUTORES PROVIDO PARA JULGAR PROCEDENTE A AÇÃO.
+Opostos embargos de declaração (fls. 982-986, e-STJ), esses foram rejeitados (fls. 988-991, e-STJ). Nas razões do recurso especial (fls. 994-1005, e-STJ), as recorrentes apontam violação aos artigos 110, 113 e 422, 884, 887 e 940 do CC/2002, 13 da Lei 9.656/98 e 485, VI, do CPC/2015.
+Sustentam, em síntese, que: a) a possibilidade de alteração dos planos de saúde oferecidos restou expressamente prevista nos contratos firmados junto aos ora recorridos; b) a alteração contratual não gera prejuízo aos beneficiários, o que denota a inexistência de prejuízo ou má-fé; c) a licitude da alteração promovida impossibilita a repetição de indébito pleiteada; d) a decisão firmada pelo acórdão recorrido gerará desequilíbrio contratual.
+Contrarrazões às fls. 1009-1026, e-STJ.
+Às fls. 1050-1053, e-STJ, negou-se provimento ao reclamo, com amparo nas Sumulas 5 e 7 do STJ e 284 do STF.
+Irresignada, a sucumbente maneja o presente agravo interno (fls. 1063-1074, e-STJ), no qual sustentam, em suma, a inaplicabilidade das Súmulas 5 e 7 do STJ ao caso.
+Impugnação às fls. 1078-1088, e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DECLARATÓRIA C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA RECURSAL DOS REQUERIDOS.
+1. A conclusão a que chegou o Tribunal de origem, relativa à violação da boa-fé objetiva ocorrida no momento da imposição de alteração contratual unilateral, fundamenta-se nas particularidades do contexto que permeia a controvérsia. Incidência da Súmulas 5 e 7 do STJ.
+2. Agravo interno desprovido.
+VOTO
+O agravo interno não merece acolhida, na medida em que os argumentos apresentados pela parte não infirmam a decisão atacada.
+1. Inicialmente, pontua-se que a insurgente, em sede de agravo interno, não impugnou a aplicação da Súmula 284 do STF em relação à alegada ofensa ao art. 485 do CPC/2015.
+Cuida-se, portanto, de matéria preclusa.
+2. No que toca à matéria efetivamente atacada, melhor razão não assiste à insurgente.
+Conforme disposto na decisão agravada, a Corte local, diante das particularidades da causa, consignou ser abusiva a alteração contratual, na medida em que os beneficiários do pleno de previdência foram expressamente informados de que tal prática não seria realizada. Veja-se (fls. 933-934, e-STJ):
+No mérito, cuida-se de ação cominatória c.c. repetição de indébito ajuizada por BENEDITO MACÁRIO FERREIRA e OUTRO contra UNILEVER BRASIL LTDA. e OUTRA objetivando, em síntese, sua manutenção e a de seus dependentes em antigo plano de saúde oferecido pelas rés, com o custeio na forma em que outrora vigorava (co-participação no percentual de 12%). Conforme reiteradamente este Egrégio Tribunal de Justiça vem decidindo nas ações em que analisada causa idêntica a dos autos, "não restam dúvidas, mesmo com o compromisso expresso de que o benefício que vinha sendo usufruído pelos aposentados seria mantido, houve alteração unilateralmente dos termos do contrato existente, sendo abusiva a imposição de adesão aos novos planos oferecidos pela ré, caracterizando-se a quebra contratual por parte das recorrentes" (negritei) Ora, patente a ofensa ao princípio da boa-fé contratual praticada pelas rés no caso em tela, sobretudo em razão da quebra do dever de lealdade (fls. 591/592), de modo que devem cumprir com as condições do plano de saúde inicialmente contratadas pelos autores, inclusive no tocante a forma de custeio, sendo cabível, por conseguinte, a devolução dos valores indevidamente pagos a maior em virtude do regramento imposto.
+Logo, diferentemente do que aduzem os insurgentes, tem-se que o provimento do recurso demandaria, necessariamente, o revolvimento de matéria probatória.
+Trata-se, contudo, de providência que encontra óbice nas Súmulas 5 e 7 do STJ. Precedentes:
+PROCESSUAL CIVIL. CONTRATOS. AGRAVO INTERNO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO. ALTERAÇÃO DAS CONDIÇÕES. IMPOSSIBILIDADE. SÚMULA N. 283/STF. FALTA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. REEXAME DE CONTEÚDO FÁTICO-PROBATÓRIO. INADMISSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. AUSÊNCIA DE PREQUESTIONAMENTO. DECISÃO MANTIDA.
+1. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, nem alegado nos embargos declaratórios opostos na origem, obsta o conhecimento do recurso especial, por falta de prequestionamento.
+Incidência das Súmulas n. 211 do STJ e 282 e 356 do STF.
+2. A alegação de ilegitimidade passiva não foi objeto de decisão pelo Tribunal de origem, de maneira que falta o necessário prequestionamento, sendo que esse tema sequer foi suscitado nos embargos declaratórios perante a Corte a quo.
+3. Para alterar o entendimento do TJSP quanto à existência de compromisso das recorrentes de manterem as condições do plano de saúde sem restrições e sobre o vício que invalidou a adesão da recorrida ao novo convênio, seria necessário o reexame de fatos e provas, além da revisão de cláusulas contratuais, o que é vedado em recurso especial (Súmulas n. 5 e 7 do STJ). Esse óbice incide ainda em relação à tese recursal de que o contrato firmado entre as partes permitiria a alteração das condições do plano de saúde.
+4. A parte ora agravante, no recurso especial, não controverteu a motivação do acórdão do TJSP acerca da assunção, pelas recorrentes, do ônus de manter as condições do convênio para os empregados inativos.
+5. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF, aplicada por analogia.
+6. Agravo interno a que se nega provimento.
+(AgInt no AgInt nos EDcl no REsp n. 1.735.052/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 13/6/2022, DJe de 21/6/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE COLETIVO. ART. 1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA. MENSALIDADE. REAJUSTE ABUSIVO. REVISÃO. IMPOSSIBILIDADE. SÚMULA NºS 5 E 7/STJ. (..) 3. Rever o entendimento firmado nas instâncias ordinárias, de que os reajustes pretendidos pelo seguro de saúde são abusivos, implicaria a análise de fatos, provas e de cláusulas contratuais, procedimentos inviáveis no recurso especial em virtude da incidência das Súmulas nºs 5 e 7/STJ. 4. Agravo interno não provido. (AgInt no AREsp 1118977/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 02/08/2018, DJe 07/08/2018)
+3. Do exposto, nego provimento ao agravo interno.
+É como voto.
