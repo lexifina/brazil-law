@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/03/2023 a 03/04/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos por ALCIDEIA OLIVEIRA DOS SANTOS CUNHA ao acórdão assim ementado:
+ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. PENSIONISTA DE MILITAR DO ANTIGO DISTRITO FEDERAL. EQUIPARAÇÃO COM MILITARES DO ATUAL DISTRITO FEDERAL. EXAME. IMPOSSIBILIDADE. SÚMULA 280 DO STF. AGRAVO INTERNO DO PARTICULAR DESPROVIDO.
+1. Na espécie, incide o óbice da Súmula 280 do STF (por ofensa a direito local não cabe Recurso Extraordinário), aplicada aqui por analogia, uma vez que, não obstante a parte recorrente alegue violação de lei que formalmente é federal, referido diploma legal, no caso concreto, é materialmente local, tendo em vista regular relações jurídicas locais. Julgados: AgInt nos EDcl no REsp. 1.761.051/DF, Rel. Min. SÉRGIO KUKINA, DJe 12.3.2020; AgInt no REsp. 1.637.699/DF, Rel. Min. ASSUSETE MAGALHÃES, DJe 2.3.2020.
+2. Agravo Interno do Particular desprovido (fls. 549/557).
+A parte embargante repisa os mesmos fundamentos alegados anteriormente de que "são servidores federais, pleiteando um direito previsto em lei federal, sendo certo que a mesma lei rege os militares do atual DF, que possuem vinculação com o referido ente federativo, e não com a União Federal, e, nesse último caso, podemos até debater que os direitos previstos em lei federal, se forem por esses últimos reivindicados, e tendo em vista a vinculação deles com outro ente federativo, poderia acarretar a interpretação de que a lei teria natureza local" (fl. 569).
+Requer, por fim, o acolhimento dos embargos de declaração com efeitos infringentes.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AÇÃO RESCISÓRIA. PENSIONISTA DE MILITAR DO ANTIGO DISTRITO FEDERAL. EQUIPARAÇÃO COM MILITARES DO ATUAL DISTRITO FEDERAL. EXAME. IMPOSSIBILIDADE. SÚMULA 280 DO STF. OMISSÃO. INEXISTÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. O inconformismo da parte embargante não se enquadra nas hipóteses de cabimento dos embargos de declaração, previstas no art. 1.022 do CPC/2015. Não há no acórdão ora combatido vícios de omissão, contradição, obscuridade ou erro material, não se prestando os aclaratórios para o fim de rediscutir os aspectos jurídicos anteriormente debatidos.
+2. Conforme consta do acórdão recorrido, não "há direito à vinculação remuneratória entre militares remanescentes do antigo Distrito Federal e os militares do atual Distrito Federal, na medida em que a Lei 10.486/2002 somente estende vantagens que nela estão expressamente estatuídas" (fl. 348)
+3. Na espécie incide a Súmula 280 do STF ("por ofensa a direito local não cabe Recurso Extraordinário"), aplicada aqui por analogia, uma vez que, não obstante a parte recorrente alegue violação de lei que formalmente é federal, referido diploma legal, no caso concreto, é materialmente local, tendo em vista regular relações jurídicas locais.
+4. Constata-se, portanto, que a parte embargante pretende renovar a discussão sobre questão que já foi decidida de maneira fundamentada, o que não é possível por meio dos embargos de declaração.
+5. Rever as matérias aqui alegadas acarretaria rediscutir entendimento já manifestado e devidamente embasado. Os embargos declaratórios não se prestam à inovação, à rediscussão da matéria tratada nos autos ou à correção de eventual error in judicando.
+6. Embargos de declaração rejeitados.
+VOTO
+Os embargos declaratórios não apresentam vícios formais, foram opostos dentro do prazo e cogitam, objetivamente, de matéria própria dessa espécie recursal (arts. 1.022 e 1.023 do CPC/2015). Nada há, enfim, que impeça o seu conhecimento.
+O inconformismo da parte embargante não se enquadra nas hipóteses de cabimento dos embargos de declaração, previstas no art. 1.022 do CPC/2015. Não há no acórdão ora combatido vícios de omissão, contradição, obscuridade ou erro material, não se prestando os aclaratórios para o fim de rediscutir os aspectos jurídicos anteriormente debatidos.
+Conforme consta do acórdão recorrido:
+Não há como se equiparar a remuneração dos militares e pensionistas da Polícia Militar e do Corpo de Bombeiros Militar do antigo Distrito Federal com os direitos remuneratórios dos militares do atual Distrito Federal, uma vez que se trata de regimes jurídicos que não se confundem.
+Não se constata, pois, a conclusão afirmada de que se consagrou o direito à vinculação remuneratória entre militares remanescentes do antigo Distrito Federal e os militares do atual Distrito Federal, na medida em que a Lei 10.486/2002 somente estende vantagens que nela estão expressamente estatuídas (fl. 348).
+Da leitura do acórdão recorrido, vê-se que o mérito recursal foi decidido à luz da interpretação da Lei estadual 10.486/2002. A alteração do julgado, conforme pretendido nas razões recursais, demandaria, necessariamente, a análise da legislação local, providência vedada em recurso especial. Desse modo, aplicável à espécie, por analogia, a Súmula 280/STF ("Por ofensa ao direito local não cabe recurso extraordinário").
+Constata-se, portanto, que a parte embargante pretende renovar a discussão sobre questão que já foi decidida de maneira fundamentada, o que não é possível por meio de embargos de declaração.
+O Superior Tribunal de Justiça assim já se manifestou:
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC/2015. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE. DEVIDO JUÍZO DE ADMISSIBILIDADE RECURSAL.
+1. De acordo com a norma prevista no art. 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. "Se o recurso é inapto ao conhecimento, o colegiado não tem como se pronunciar sobre o mérito, de modo que a falta de exame da matéria de fundo não se caracteriza omissão, senão mera decorrência do exercício do devido juízo de admissibilidade recursal" (EDcl no AgInt nos EREsp 1.559.725/PE, Rel. Ministro Og Fernandes, Primeira Seção, DJe 30/8/2017).
+4. Embargos de declaração rejeitados. (EDcl no AgInt no REsp n. 1.574.004/SE, relator Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 11/3/2021 - sem destaques no original.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ART. 1.022 DO CPC/2015. VÍCIO INEXISTENTE. REDISCUSSÃO DA CONTROVÉRSIA. RESPONSABILIDADE CIVIL DA UNIÃO. OMISSÃO. INEXISTÊNCIA. ANISTIA. PERQUIRIÇÃO DA NULIDADE DA PORTARIA INTERMINISTERIAL 122/2000. INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. REEXAME DE PREMISSAS FÁTICAS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Na hipótese dos autos, o acórdão embargado foi bastante claro ao consignar que o acolhimento da pretensão recursal demanda reexame do contexto fático-probatório, mormente para verificar se as premissas fáticas adotadas pelo Tribunal a quo não se enquadram nos precedentes judiciais adotados como fundamento do decisum objurgado. Incide, in casu, o óbice da Súmula 7/STJ.
+2. O recurso foi desprovido com fundamento claro e suficiente, inexistindo omissão, contradição, obscuridade ou erro material no acórdão embargado.
+3. Os argumentos da parte embargante denotam mero inconformismo e intuito de rediscutir a controvérsia, não se prestando os aclaratórios a esse fim.
+4. Embargos de Declaração rejeitados. (EDcl no AgInt nos EDcl no AREsp n. 1.608.546/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 16/11/2020, DJe 24/11/2020 - sem destaques no original.)
+Rever as matérias aqui alegadas acarretaria rediscutir entendimento já manifestado e devidamente embasado. Os embargos declaratórios não se prestam à inovação, à rediscussão da matéria tratada nos autos ou à correção de eventual error in judicando.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
