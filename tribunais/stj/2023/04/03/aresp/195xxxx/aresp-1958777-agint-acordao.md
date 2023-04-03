@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/03/2023 a 03/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Humberto Martins, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que julgou agravo interposto por Jorge Nehme Scaff e Outro, contra decisão em que não foi admitido recurso especial fundamentado no art. 105, III, a, da Constituição Federal, visando à reforma de acórdão proferido pelo Tribunal de Justiça do Estado do Mato Grosso do Sul, assim ementado:
+APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA DE NULIDADE E INEXISTÊNCIA DE RELAÇÃO JURÍDICA - SERVIDÃO DE PASSAGEM INSTITUÍDA POR LEI - PRELIMINAR CONTRARRECURSAL DE INADMISSIBILIDADE DO RECURSO - AUSÊNCIA DE INTERESSE RECURSAL E OFENSA AO PRINCÍPIO DA DIALETICIDADE- AFASTADAS- DECLARATÓRIA CUMULADA COM PRETENSÃO CONDENATÓRIA OU CONSTITUTIVA - SUJEIÇÃO AOS PRAZOS PRESCRICIONAIS - SERVIDÃO ADMINISTRATIVA INSTITUÍDA HÁ MAIS DE QUARENTA ANOS - PRESCRIÇÃO CONSUMADA- SENTENÇA MANTIDA- RECURSO IMPROVIDO. Constata-se das razões de apelação, que os apelantes expuseram os fundamentos de seu inconformismo, evidenciando o porquê de não se apresentar satisfeita com a sentença proferida na origem, perspectiva que faz concluir pelo não cabimento da alegação contra recursal. A ação declaratória pura é imprescritível, mas as pretensões condenatórias ou constitutivas resultantes da declaração de nulidade sujeitam-se à prescrição. De uma mera leitura nos pedidos iniciais e recursais, percebe-se que não se trata de ação declaratória pura, m as maculada com pretensões condenatórias ou constitutivas, razão porque incide o prazo prescricional de cinco anos previsto no art.10, § único do Decreto- lei nº 3.365/41. Assim, tendo a servidão de passagem administrativa sido instituída pelo Decreto n. 74.569, de 17 de setembro de 1974, mas a presente ação somente foi ajuizada em 14 de setembro de 2016, evidente a prescrição ocorrido, mesmo que se aplicado o prazo máximo de 20 anos, caso reconhecida a ocorrência de desapropriação indireta.
+Os declaratórios opostos foram rejeitados.
+Nas razões do recurso especial, a parte recorrente apontou a violação do art. 1.022 do CPC/2015, sob o fundamento de que, não obstante a oposição dos declaratórios, o Tribunal de origem permaneceu em contradição ao não reconhecer o descumprimento dos requisitos indispensáveis da servidão, de modo que não poderia ter validada judicialmente a servidão, ausente a formalização da escritura pública. Ademais, permaneceu omisso quanto ao caráter declaratório da pretensão inicial, não submetido a prazo prescricional.
+Indicou, no mérito, a ofensa aos arts. 4º do Decreto n. 35.851/1954 e 166, IV e V, do CC/2002, sob o fundamento de que o Tribunal de origem deveria ter reconhecido a ausência de prazo para decretação da nulidade da servidão, em razão da ausência de escritura pública para sua instituição, requisito indispensável para a validade do ato.
+O Tribunal de origem inadmitiu o recurso especial tendo sido interposto o presente agravo.
+A decisão recorrida tem o seguinte dispositivo:
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento; majorando, com fundamento no art. 85, § 11, do CPC/2015, os honorários sucumbenciais fixados pelo Tribunal de origem em R$ 500,00 (quinhentos reais).
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+ ..
+apesar das inegáveis evidências acerca do viés declaratório puro da ação, tal atributo não fora reconhecido pelo Tribunal a quo, que de maneira contraditória à realidade dos autos, imputou à ação suposto viés econômico, embora assim não o seja.
+ ..
+depreende-se que o Decreto Federal 35.851/54 inegavelmente possui força de lei em âmbito nacional, e, naquilo que diz respeito à regulação das concessões e servidões para fins de distribuição de energia, é este o comando legal federal que regula a matéria, havendo vigência do decreto com força legal.
+ ..
+Isto porque, depreende-se que os agravantes impugnaram todos os fundamentos aventados pela decisão recorrida, notadamente arguindo a violação ao art. 1.022/CPC, ao art. 4º, do Decreto 35.851/54 e ao art. 166, IV e V, e 169, ambos do CC/02.
+Nesse sentido, denota-se que os agravantes impugnaram a todos os fundamentos lançados pelo Tribunal a quo.
+ ..
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AÇÃO DECLARATÓRIA DE NULIDADE E INEXISTÊNCIA DE RELAÇÃO JURÍDICA. SERVIDÃO DE PASSAGEM INSTITUÍDA POR LEI. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO VERIFICADA. ANÁLISE DE NORMA INFRALEGAL. IMPOSSIBILIDADE. FUNDAMENTO AUTÔNOMO E SUFICIENTE PARA MANTER O ACÓRDÃO NÃO FOI REBATIDO PELO APELO NOBRE. SÚMULA N. 283/STF. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de ação declaratória de nulidade e inexistência de relação jurídica. A sentença julgou improcedente a ação. No Tribunal a quo, a sentença foi mantida.
+II - Não há violação do art. 535 do CPC/1973 (art. 1.022 do CPC/2015) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 165 do CPC/1973 e art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+III - Ademais, verifica-se que a pretensão recursal sustenta-se, em parte, na análise de ofensa a norma infralegal (Decreto n. 35.851/1954). Contudo, essa norma não se adequa ao conceito de tratado ou lei federal para fins de cabimento de recurso especial embasado no art. 105, III, a, da Constituição Federal.
+IV - No mais, quanto à alegada ofensa ao art. 166, IV e V, do CC/2002, tem-se que, conforme trecho acima transcrito, o Tribunal de origem solucionou a causa, considerando que os pedidos iniciais e recursais não se vinculam à demanda declaratória pura, mas sim a pretensões condenatórias ou constitutivas resultantes de ato que alega ser nulo, dada a pretensão de desconstituição da própria servidão.
+V - Tais fundamentos são suficientes para manter o acórdão recorrido e atraem a incidência, por analogia, dos óbices contidos nos enunciados n. 283 e 284, ambos da Súmula do STF.
+VI - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+Não há violação do art. 535 do CPC/1973 (art. 1.022 do CPC/2015) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 165 do CPC/1973 e art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+Ademais, verifica-se que a pretensão recursal sustenta-se, em parte, na análise de ofensa a norma infralegal (Decreto n. 35.851/1954). Contudo, essa norma não se adequa ao conceito de tratado ou lei federal para fins de cabimento de recurso especial embasado no art. 105, III, a, da Constituição Federal.
+No mais, quanto à alegada ofensa ao art. 166, IV e V, do CC/2002, tem-se que, conforme trecho acima transcrito, o Tribunal de origem solucionou a causa, considerando que os pedidos iniciais e recursais não se vinculam a demanda declaratória pura, mas sim a pretensões condenatórias ou constitutivas resultantes de ato que alega ser nulo, dada a pretensão de desconstituição da própria servidão.
+Tais fundamentos são suficientes para manter o acórdão recorrido e atraem a incidência, por analogia, dos óbices contidos nos enunciados n. 283 e 284, ambos da Súmula do STF.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
