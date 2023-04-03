@@ -1,0 +1,75 @@
+DECISÃO
+Trata-se de agravo de decisão que não admitiu recurso especial interposto por BANCO SMARTBANK S.A, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdãos assim ementados:
+AGRAVO DE INSTRUMENTO. Tutela de urgência. Ausente elementos que evidenciem a probabilidade do direito da recorrente. A própria agravante afirma que há erro material na notificação extrajudicial em razão de equívoco do cartório de registro de imóveis. Ausentes os requisitos do art. 300 do CPC para a concessão da tutela de urgência. Somente após a instrução processual será possível verificar se referido equívoco pode ser sanado ou não. Decisão mantida. recurso não provido.
+EMBARGOS DE DECLARAÇÃO. Acórdão que não apresenta omissão, contradição, obscuridade ou erro material a ser afastado. Caráter manifestamente infringente do recurso. Recurso manifestamente protelatório. Dicção do art. 1.026, §2º, do CPC. Multa fixada em 2% do valor atualizado da causa. Embargos rejeitados (fl. 353).
+O recurso especial alega ofensa aos arts. 1.022, I, e 1.026, §2º, do CPC. Aponta obscuridade no acórdão recorrido e pugna pelo afastamento da multa imposta no julgamento dos embargos de declaração.
+Sem contrarrazões (fl. 371).
+É o relatório. Passo a decidir.
+Obscuridade é o vício que ocorre quando falta clareza na fundamentação do julgado, tornando difícil sua exata interpretação.
+A título ilustrativo:
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC). AÇÃO MONITÓRIA. ACÓRDÃO DESSE ÓRGÃO FRACIONÁRIO REJEITANDO OS ANTERIORES ACLARATÓRIOS COM APLICAÇÃO DE MULTA. IRRESIGNAÇÃO DA RÉ.
+1. Hipótese em que, sob o pretexto da obscuridade, a embargante se utiliza do recurso aclaratório para aviar mero inconformismo com a decisão que, reconhecendo o caráter protelatório dos anteriores embargos de declaração, aplicou a multa de 1% (um por cento) sobre o valor da causa, nos termos do art. 538, parágrafo único, do CPC. Impossibilidade.
+2. A obscuridade é a qualidade daquilo que é de difícil ou impossível compreensão, não se verificando naquelas hipóteses em que o acórdão fundamenta de forma coerente e clara todos os pontos que o levaram a determinada conclusão.
+3. A mera insatisfação da parte com o julgado não tem o condão de tornar cabíveis os embargos de declaração, que servem ao seu aprimoramento, e não à sua modificação.
+4. Embargos de declaração rejeitados, com elevação da multa e o condicionamento da interposição de qualquer outro recurso ao depósito do valor respectivo, nos termos do art. 538, parágrafo único, do Código de Processo Civil. (EDcl nos EDcl nos EDcl no AgRg no AREsp n. 80.546/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 30.11.2015.)
+CIVIL. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM RECURSO ESPECIAL. ERRO MATERIAL E OMISSÃO. INOCORRÊNCIA. RESULTADO DO JULGAMENTO QUE REFLETE A MANIFESTAÇÃO E DELIBERAÇÃO COLEGIADA DO ÓRGÃO FRACIONÁRIO. CONTRADIÇÃO. INOCORRÊNCIA. INEXISTÊNCIA DE PROPOSIÇÕES INCONCILIÁVEIS ENTRE SI. OBSCURIDADE. AUSÊNCIA. CLAREZA DO TRECHO ALEGADAMENTE INCOMPREENSÍVEL E QUE, ALIÁS, É MERO OBITER DICTUM.
+1. Não há que se falar em erro material ou omissão quando se depreende, do acórdão embargado e da certidão de julgamento, que houve unanimidade quanto ao resultado, embora por fundamentações distintas, inclusive com alteração da Relatoria originária.
+2. A contradição que justifica a oposição de embargos de declaração é a interna, decorrente de proposições inconciliáveis entre si, mas não a suposta contradição entre as razões de decidir e a lei, doutrina, jurisprudência, fatos ou provas.
+3. Não há que se falar em obscuridade quando o trecho alegadamente incompreensível, além de ser preciso e claro quanto ao argumento utilizado, apenas compõe o obiter dictum e não a ratio decidendi.
+4. Embargos de declaração rejeitados. (EDcl no REsp n. 1.745.371/SP, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 17.12.2021.)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. 1. AGRAVO DE INSTRUMENTO. ALEGAÇÃO DE OBSCURIDADE E CONTRADIÇÃO NA DECISÃO DE PRIMEIRO GRAU. VÍCIOS NÃO VERIFICADOS. INTUITO INFRINGENTE DOS ACLARATÓRIOS. 2. OFENSA À COISA JULGADA. TESE NÃO ENFRENTADA PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. 3. RECURSO IMPROVIDO.
+1. A contradição que dá ensejo aos embargos de declaração é a interna, ou seja, aquela que se verifica entre as premissas ou entre essas e a conclusão do julgado. Não há contradição, portanto, quando a decisão embargada, por si só, adota fundamentos contrários aos interesses da parte e, sendo assim, o vício sustentado pelos agravantes não é outra coisa senão o próprio mérito da irresignação, já que de contradição propriamente dita e sanável por meio dos aclaratórios não há falar. Já a obscuridade é a ausência de inteligibilidade que torna incompreensível o conteúdo da decisão, de modo que, na espécie, não se verifica o referido vício no argumento de que a decisão teria acatado "como correto o laudo pericial lastreado em dados diversos daqueles apresentados nos autos pelos mutuários".
+(..)
+3. Agravo regimental a que se nega provimento. (AgRg no REsp n. 1.573.465/PR, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 23.9.2016.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OBSCURIDADE, CONTRADIÇÃO OU OMISSÃO. INEXISTÊNCIA. VIOLAÇÃO DO ART. 535 DO CPC. NÃO OCORRÊNCIA. REEXAME DE MATÉRIA JÁ DECIDIDA. IMPOSSIBILIDADE.
+1. Rejeitam-se os embargos declaratórios quando, no acórdão embargado, não há nenhum dos vícios previstos no art. 535, I e II, do CPC.
+2. A obscuridade que se admite nos embargos de declaração ocorre quando há nítida dificuldade na compreensão do julgado, decorrente da falta de clareza.
+3. Os embargos de declaração não se prestam para provocar o reexame de matéria já apreciada.
+4. Embargos de declaração rejeitados. (EDcl no AgRg no AREsp n. 747.657/SP, relator Ministro João Otávio de Noronha, Terceira Turma, DJe de 15.3.2016.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. IMPROBIDADE ADMINISTRATIVA. INEXISTÊNCIA DE OMISSÃO. OBSCURIDADE. OCORRÊNCIA. EFEITOS INFRINGENTES. INVIABILIDADE. JULGADOS DO STJ. EMBARGOS DECLARATÓRIOS ACOLHIDOS SEM EFEITOS INFRINGENTES.
+1. A atribuição de efeitos infringentes, em sede de embargos de declaração, somente é admitida em casos excepcionais, os quais exigem necessariamente, a ocorrência de omissão, contradição, obscuridade, ou erro material, vícios previstos no art. 1.022 do Código de Processo Civil de 2015.
+2. A omissão no julgado que permite o acolhimento do recurso integrativo configura quando não houver apreciação de teses indispensáveis para o julgamento da controvérsia. A obscuridade, por sua vez, remete à dificuldade de compreensão da inteireza da decisão judicial, cuja redação textual sem clareza compromete a concepção das razões do julgamento e do dispositivo em si.
+3. No caso dos autos, todas as insurgências propostas pela parte embargante foram apreciadas de maneira fundamentada, de modo que não há falar em negativa de prestação jurisprudencial.
+4. Por outro lado, o acórdão embargado possui afirmação sobre a ocorrência de audiência de instrução e julgamento nos autos da ação de improbidade a qual, em verdade, não ocorreu. O depoimento pessoal prestado pelo ora embargante em audiência ocorreu somente perante a jurisdição trabalhista, citada nos autos como fonte de confissão da conduta imputada ao réu. Tal incorreção constitui obscuridade na hipótese, haja vista a apreciação e análise da insurgência relacionada ao cerceamento de defesa ante o julgamento antecipado da lide.
+5. A despeito do reconhecimento da incorreção apontada, a simples supressão do trecho é suficiente para sanar o vício sem qualquer prejuízo à compreensão de que o recurso especial não merece ser conhecido quanto ao ponto.
+6. Embargos de declaração acolhidos sem efeitos infringentes. (EDcl no AgInt nos EDcl no REsp n. 1.840.583/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 11.12.2020.)
+Com efeito, "só é obscuro o acórdão quando os seus fundamentos e conclusão são incompreensíveis, confusos e impossibilitam o entendimento do julgado" (EDcl no REsp n. 286.575/PE, relator Ministro José Delgado, Primeira Turma, DJ de 27.8.2001, p. 228.).
+Não é o caso dos autos.
+Na espécie, a teor das razões recursais:
+Há uma obscuridade no venerando aresto: se é pacífico (admitido pelo recorrente) que há uma falha material (embora não cometida por ele); se a razão da liminar é exatamente essa falha material, o que impede que se corrija a falha material e se dê seguimento ao caso
+2.1. Perceba-se: o venerando aresto diz que "somente após a instrução processual será possível verificar se referido erro tem o condão ou não de ser sanado, prosseguindo-se, nesta hipótese, com o procedimento extrajudicial".
+2.2. Mas, ora: existe, sob a luz do sol, um erro material que não possa ser sanado  E o que mais, além de alegação de um lado e admissão do outro, é necessário para que se apure um erro e suas consequências
+2.3. O erro, do Cartório, foi na intimação.
+2.4. Logo, fazendo-se outra intimação, não há mais erro.
+2.5. Não se trata nem de sanar um erro, mas de reiniciar um procedimento, refazendo o ato equivocado (fls. 363/364).
+O Tribunal de Justiça foi claro no sentido de que somente após a instrução processual seria possível verificar se o equívoco apontado pela agravante poderia ser sanado ou não.
+Confira-se, a propósito:
+A questão do recurso consiste na possibilidade, ou não, de concessão tutela de urgência, consistente na suspensão do procedimento de consolidação da propriedade do imóvel.
+Pois bem.
+Neste momento processual, somente é possível analisar a existência ou não dos requisitos legais que autorizam a tutela de urgência, sob pena de se antecipar o julgamento de mérito, que depende de observância do devido processo legal, ou seja, do pleno exercício do contraditório e da ampla defesa, com a produção de todas as provas que se fizerem necessárias.
+Para concessão da medida de urgência devem ser observados os requisitos do artigo 300 do Código de Processo Civil, quais sejam: "elementos que evidenciem a probabilidade do direito" e o "perigo de dano ou risco ao resultado útil do processo".
+No presente caso, não se verifica a presença dos "elementos que evidenciem a probabilidade do direito" da recorrente.
+Isso porque a própria agravante afirma que iniciou o procedimento de consolidação da propriedade do bem com garantia fiduciária, mas da notificação extrajudicial constou erro material consistente na nomeação como apresentante a empresa Catarina Incorporadora Ltda.
+Uma vez que a própria agravante afirma existir erro material na notificação extrajudicial, a decisão impugnada não comporta qualquer alteração.
+Somente após a instrução processual será possível verificar se referido erro tem o condão ou não de ser sanado, prosseguindo-se, nesta hipótese, com o procedimento extrajudicial (fls. 346/347).
+Trata-se de embargos de declaração opostos contra o v. acórdão (fls. 344/347) que negou provimento ao recurso de agravo de instrumento para manter a r. decisão liminar impugnada.
+A embargante busca aclarar o v. acórdão, no tocante à possibilidade da retomada do procedimento extrajudicial, no caso de correção do erro formal. Por tais motivos, opõe os presentes embargos.
+(..)
+Os termos da irresignação da parte embargante evidenciam que, em verdade, pretende, pura e simplesmente, e por via imprópria, rediscutir a matéria, que já foi devidamente apreciada por este Tribunal de Justiça.
+Ao contrário do afirmado, a Turma Julgadora de forma clara e objetiva manifestou-se expressamente a respeito do procedimento extrajudicial, valendo destacar (fls. 347):
+"Somente após a instrução processual será possível verificar se referido erro tem o condão ou não de ser sanado, prosseguindo-se, nesta hipótese, com o procedimento extrajudicial." (fls. 353/354)
+Não se verifica a obscuridade alegada, mas o inconformismo da parte recorrente com o não acolhimento da pretensão recursal.
+Observa-se, todavia, que os embargos de declaração foram opostos com o intuito de questionar matéria considerada não apreciada pela parte recorrente. Tal o desiderato dos embargos, não há motivo para inquiná-los de protelatórios; daí que, em conformidade com a Súmula 98/STJ, deve ser afastada a multa aplicada pelo Tribunal local.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. SAQUES INDEVIDOS EM CONTA CORRENTE. DANOS MORAIS. PREJUÍZO À HONRA NÃO DEMONSTRADO. SÚMULA 7/STJ. MULTA PREVISTA NO ARTIGO 1.026, § 2º, DO CPC/2015. NÃO CABIMENTO. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL.(..) 4. A oposição de embargos de declaração, com nítido fim de prequestionamento, não possui caráter protelatório, não ensejando a aplicação da multa prevista no art. 1.026, § 2º, do CPC/2015, nos termos da Súmula 98/STJ.
+5. Agravo interno provido para conhecer do agravo e dar parcial provimento ao recurso especial, apenas para afastar a multa prevista no artigo 1.026, § 2º, do CPC/2015. (AgInt no AREsp n. 2.038.795/SC, relator Ministro Raul Araújo, Quarta Turma, DJe de 10.6.2022.)
+EMBARGOS DECLARATÓRIOS NOS EMBARGOS DECLARATÓRIOS NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DECLARATÓRIOS. OPOSIÇÃO. CARÁTER PROTELATÓRIO. NÃO CONFIGURAÇÃO. MULTA. AFASTAMENTO. ACOLHIMENTO DOS EMBARGOS.
+1. A multa inserta no parágrafo único do art. 538 do CPC/1973, deve ser afastada em razão da orientação firmada no STJ de que "embargos de declaração manifestados com notório propósito de prequestionamento não tem caráter protelatório" (Súmula 98).
+2. Embargos de declaração acolhidos para afastamento da multa (EDcl nos EDcl no AgInt no AREsp 927.064/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe 29.8.2017)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO ANULATÓRIA DE DUPLICATAS C/C PEDIDO DE CANCELAMENTO DE PROTESTO E REPARAÇÃO POR DANOS MORAIS. DEFICIENTE FUNDAMENTAÇÃO DO RECURSO. SÚMULA 284/STF. DISSÍDIO NÃO CONFIGURADO. NÃO INDICAÇÃO DO DISPOSITIVO LEGAL COM INTERPRETAÇÃO DIVERGENTE. SÚMULA 284/STF. REEXAME DE FATOS E PROVAS.
+IMPOSSIBILIDADE. SÚMULA 7/STJ. MULTA DO ART. 1026, §2º, DO CPC. AFASTADA. SÚMULA 98/STJ.
+(..) 5. Afasta-se a multa aplicada quando não se caracteriza o intento protelatório na interposição dos embargos de declaração. Aplicação da Súmula 98/STJ.
+6. Agravo interno parcialmente provido, tão-somente para afastar a multa revista no art. 1026, §2º, do CPC (AgInt no REsp 1773391/MG, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 21.8.2019).
+Nessa linha, a multa aplicada no julgamento dos embargos de declaração deve ser afastada, considerando não evidenciado o caráter manifestamente protelatório.
+Ante o exposto, conheço do agravo e dou parcial provimento ao recurso especial, a fim de afastar a multa imposta à parte recorrente em embargos de declaração.
+Publique -se.
