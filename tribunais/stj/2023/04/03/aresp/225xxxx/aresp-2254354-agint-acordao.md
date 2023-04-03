@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/03/2023 a 03/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Não participou do julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de agravo interno interposto por PAULO ROGÉRIO ANDALAFT e CARLOS EDUARDO ANDALAFT, contra decisão da Presidência (e-STJ, fls. 938/941) que conheceu do agravo para não conhecer o recurso especial.
+Ação: de cobrança de condomínio, ajuizada pelo CONDOMÍNIO SHOPPING CENTER CAMPOS SALLES em face de JOÃO ADAFFTE (ESPÓLIO), NOFAL ANDALAFT, NHAZI ANDALAFT, MARIA DE LOURDES ANDALAFT, RACHEL MALUF RAMALHO ANDALAFT, RICARDO MALUF RAMALHO ANDALAFT, EDUARDO ANDALAFT, ROBERTO ANTÔNIO RAMALHO ANDALAFT e NATALINO ANDALAFT (substituído nos autos por DANIEL CANDALAFET), pretendendo a condenação dos réus ao pagamento de taxas condominiais inadimplidas.
+Sentença: julgou parcialmente procedente o pedido para: "condenar os corréus, excluídos os Srs. Argene Mariza Cotrim Martins Andalaft, Cassiano Cotrim Martins Andalaft e Gustavo Cotrim Martins Andalaft, ao pagamento das contribuições condominiais vencidas, e inadimplidas, a partir de Novembro de 1999, incluídas, nos termos do artigo 290 do CPC revogado e do artigo 323 do CPC atual, as que se venceram desde o aforamento da ação (de acordo com os valores informados pelo autor as fls. 081179 e nos demais documentos trazidos aos autos), todas monetariamente atualizadas, pelos índices da Tabela Prática do Tribunal de Justiça de São Paulo, e acrescidas de juros moratórios".
+Acórdão: deu provimento à apelação interposta pelo CONDOMÍNIO SHOPPING CENTER CAMPOS SALLES, nos termos da seguinte ementa:
+"AÇÃO DE COBRANÇA. DESPESAS CONDOMINIAIS. Sentença de parcial procedência. Recurso do autor contra a forma de fixação das custas, despesas e honorários sucumbenciais. Corréus em favor dos quais o pedido foi julgado improcedente que renunciaram à herança, não recebendo nenhum quinhão do imóvel objeto do- litígio. Ato renunciativo não averbado na matricula do imóvel. Expectativa de que o credor realizasse prévia pesquisa em Cartório de Notas buscando eventual ato abdicativo que é descolada da realidade. Credor que direcionou a ação contra todos os herdeiros respeitando o principio sucessório da saisine. Inobservância, por parte dos herdeiros renunciantes, à disposição do art. 1275, II, e parágrafo único, do Código Civil. Efeitos gerados pela perda da propriedade diante da renúncia que ficam subordinados ao registro do ato renunciativo no Registro de Imóveis. Incidência do princípio da causalidade. Herdeiros renunciantes que, ao optarem por não proceder à averbação do ato renunciativo na matricula do imóvel objeto do litígio, deixaram de conferir a publicidade necessária ao credor autor, que, sem saber do direito por eles exercido, agiu conforme a praxe e a lógica. Corréus que aceitaram o risco de figurarem no polo passivo de uma ação judicial, de modo que deram causa à propositura da demanda também contra eles. Sucumbência invertida. Recurso provido. " (e-STJ, fl. 808)
+Recurso especial: alegou ofensa aos arts. 238 e 485, §3º do CPC/2015, sustentando: i) a nulidade da citação; ii) a impossibilidade de responsabilização dos recorrentes em razão da inexistência de posse dos imóveis.
+Decisão agravada: conheceu do agravo para não conhecer do recurso especial.
+Agravo interno: alega que a nulidade da citação trata-se de questão de ordem pública, que pode ser suscitada a qualquer momento, não dependendo, portanto, de prequestionamento. Diz que houve indicação do artigo tido por violado, o que afasta a aplicação da Súmula 284/STF.
+É O RELATÓRIO.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. TAXAS CONDOMINIAIS. NULIDADE DA CITAÇÃO. QUESTÃO DE ORDEM PÚBLICA. PREQUESTIONAMENTO, AUSÊNCIA. SÚMULAS 282 E 356/STF. FALTA DE INDICAÇÃO DO ARTIGO VIOLADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO. SÚMULA 284/STF. DECISÃO MANTIDA.
+1. Ação de cobrança de taxas condominiais.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+3. A jurisprudência é firme no sentido de que, mesmo tratando-se de questões de ordem pública, suscetíveis de serem conhecidas de ofício nas instâncias ordinárias, faz-se necessário o prequestionamento para que sejam apreciadas na instância especial, não podendo ser originalmente suscitadas perante esta Corte Superior. Precedentes.
+4. A ausência de fundamentação ou a sua deficiência implica o não conhecimento do recurso quanto ao tema. Súmula 284/STF.
+5. Agravo interno não provido.
+VOTO
+Pela análise das razões recursais apresentadas, verifica-se que a parte gravante não trouxe qualquer argumento novo capaz de ilidir os fundamentos da decisão agravada.
+- Da falta de prequestionamento - Súmulas 282/STF e 356/STF
+A respeito da alegação de nulidade da citação, o recurso especial não poderia ser conhecido, na medida em que a questão alegada não foi apreciada pelo Tribunal de origem, não tendo os agravantes interposto embargos de declaração com vistas a sanar eventual omissão do acórdão recorrido.
+É de se ressaltar, quanto ao ponto, a despeito das alegações acerca da questão ser de ordem pública, podendo ser suscitada a qualquer momento processual que, ainda que se trate de questão de ordem pública, ela não pode ser, de plano apreciada nesta instância superior.
+Isso porque, como sabido, a jurisprudência desta Corte é firme no sentido de que mesmo tratando-se de questões de ordem pública, suscetíveis de serem conhecidas de ofício nas instâncias ordinárias, faz-se necessário o prequestionamento para que sejam apreciadas na instância especial, não podendo ser originalmente suscitadas perante esta Corte Superior.
+Nesse sentido: AgInt nos EDcl na DESIS nos EDcl no REsp n. 1.455.671/PR, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 12/3/2019, DJe de 18/3/2019; AgInt no AREsp 1.565.171/PR, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 28/09/2020, DJe de 20/10/2020; AgInt no REsp n. 1.923.490/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 13/12/2021, DJe de 17/12/2021.
+Dessa forma, de fato, é descabida a apreciação do tema nesta instância, ante a falta de prequestionamento, ante a incidência dos óbices das Súmulas 282/STF e 356/STF
+- Da deficiência na fundamentação do recurso - Súmula 284/STF
+Quanto à alegação de impossibilidade de responsabilização dos recorrentes em razão da inexistência de posse dos imóveis, em nova análise, verifica-se que, na espécie, realmente incide o óbice da Súmula 284/STF, uma vez que a parte recorrente deixou de indicar precisamente os dispositivos legais que teriam sido violados, ressaltando que a mera citação de artigo de lei na peça recursal não supre a exigência constitucional.
+Embora os agravantes aleguem ter indicado o art. 238 do CPC/2015 como violado, referido artigo refere-se à citação, não servindo de base para a alegação acerca da sua responsabilização.
+Incidente, portando, na hipótese, a Súmula 284/STF.
+Mantida, portanto, a decisão agravada.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno no agravo em recurso especial.
