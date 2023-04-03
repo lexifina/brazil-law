@@ -1,0 +1,47 @@
+DECISÃO
+Cuida-se de recurso especial, interposto por WALTER LUIZ TADINI, com amparo nas alíneas "a" e "c" do permissivo constitucional, no intuito de reformar acórdão proferido pelo Tribunal Regional Federal da 3ª Região (fls. 140-149 e-STJ), assim ementado:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. EXPURGOS INFLACIONÁRIOS. POUPANÇA. PLANO VERÃO. AUSÊNCIA DE INDÍCIOS DE EXISTÊNCIA DA CONTRATAÇÃO NO PERÍODO VINDICADO. APRESENTAÇÃO DE EXTRATOS DE PERÍODO DIVERSO E MUITO POSTERIOR. AGRAVO INTERNO IMPROVIDO. 1. O julgamento do recurso não demanda que se perscrute a respeito do ato jurídico perfeito e do direito adquirido aos expurgos inflacionários, de modo que o julgamento não encontra óbice nas decisões de sobrestamento proferidas pelo Supremo Tribunal Federal. 2. A parte autora/agravante não instruiu a inicial com um documento sequer que comprovasse a titularidade das contas no período postulado (Janeiro/Fevereiro/89), limitando-se a requerer a exibição dos extratos pela ré. Os extratos de fls. 10/11 referem-se a período diverso do vindicado. 3. A respeito da obrigação de fornecimento de extratos pela instituição financeira, o Superior Tribunal de Justiça, no julgamento do RESP nº1.133.872/PB, submetido ao rito do art. 543-C do Código de Processo Civil, firmou entendimento no sentido de que é cabível a inversão do ônus da prova em favor do consumidor enquanto não estiver prescrita a pretensão e desde que o correntista revele a plausibilidade da relação jurídica alegada, demonstrando a existência da contratação no período reclamado e especificando os períodos cujos extratos pretende a exibição. 4. Os julgados do STJ posteriores ao precedente revelam que a determinação de fornecimento de extratos pela instituição financeira deve ser feita sempre que houver indícios capazes de demonstrar a existência da contratação no período reclamado e desde que não tenha havido a prescrição. 5. Nesse sentido, já decidiu a 2ª Seção desta Corte: "Consoante jurisprudência remansosa do STJ e desta Corte, os extratos bancários não são indispensáveis ao ajuizamento da ação, desde que acompanhe a inicial prova da titularidade da conta no período vindicado" (TRF 3ª Região, SEGUNDA SEÇÃO, EI -EMBARGOS INFRINGENTES - 400822 - 0079747-28.1991.4.03.6100, Rel. DESEMBARGADOR FEDERAL JOHONSOM DI SALVO, julgado em03/10/2017, e-DJF3 Judicial 1 DATA:10/10/2017). 6. Recurso improvido.
+Opostos embargos declaratórios (fls. 166-172 e-STJ), não foram acolhidos na origem, sendo aplicada a multa prevista no art. 1.026, §2º, do CPC/15 (fls. 189/196 e-STJ).
+Nas razões do especial (fls. 209-221 e-STJ), o insurgente alega, além da divergência jurisprudencial, violação aos seguintes dispositivos de lei federal: (i) art. 1.022 do CPC/15 - tendo em vista a omissão quanto à previsão na legislação de facilitação da defesa do consumidor com a inversão do ônus da prova; (ii) art. 1.026, §2º, do CPC/15 - porque houve inadequada aplicação de multa por embargos protelatórios; (iii) arts. 333, I e II, arts. 396 e 399, I e III, do CPC/15 e art. 6º, III e VIII do CDC - ante a negativa de conferir maior facilidade ao consumidor na defesa do seu direito, não permitindo a inversão do ônus da prova.
+Apresentadas contrarrazões (fl. 233 e-STJ), o apelo extremo foi admitido na origem.
+É o relatório.
+Decide-se.
+A pretensão recursal merece prosperar parcialmente.
+1. De início, em relação à omissão quanto ao direito do consumidor de ter facilitada a sua defesa, o Tribunal a quo se pronunciou de forma expressa a respeito do tema, conforme se percebe dos seguintes trechos:
+(..)
+Nos termos do entendimento remansoso do STJ e desta Corte, cabe ao autor A inversão do ônus da prova e a demonstrar a existência da contratação no período. exibição de documentos requerida na inicial não têm o condão de isentar o autor de fornecer ao juízo os elementos mínimos comprobatórios da existência da contratação no período reclamado.
+No caso, os extratos de fls. 10/11 são de períodos muito posteriores ao reclamado. Não há indício de prova da existência da contratação em Janeiro/89.
+Registro, por fim, que o RESP repetitivo nº 1.349.453 não dispensa a demonstração da existência de relação jurídica entre as partes, o que pressupõe a demonstração da existência da contratação no período vindicado, como se dessume dos julgados citados alhures.
+(..)
+O Tribunal de origem, portanto, não se omitiu em relação aos fatos narrados pelo recorrente, assim cumpre observar que o acórdão recorrido se manifestou de forma fundamentada sobre as questões necessárias para o deslinde da controvérsia, não restando configurada violação aos arts. 489 e 1.022 do CPC/15. Nesse sentido:
+(..)
+1. Não ficou configurada a violação aos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+(..)
+(AgInt no AREsp n. 2.014.890/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 30/5/2022, DJe de 2/6/2022.)
+Não há, desse modo, negativa de prestação jurisdicional na espécie.
+2. No que se refere à multa prevista no art. 1.026, §2º, do CPC/15, registre-se sua inadequação, tendo em vista os aclaratórios se apresentarem com nítido caráter de prequestionamento. Nesse sentido:
+(..)
+2. A oposição de embargos de declaração, com nítido fim de prequestionamento, não possui caráter protelatório, não ensejando a aplicação da multa prevista no art. 1.026, §2º, do CPC/2015, nos termos da Súmula 98 do STJ.
+(..)
+(AgInt no AREsp n. 2.000.528/MG, relator Ministro Marco Buzzi, Quarta Turma, julgado em 2/5/2022, DJe de 6/5/2022.)
+Corroborando este entendimento: AgInt no AREsp n. 1.675.696/DF, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 8/2/2022, DJe de 24/2/2022.
+Portanto, deve ser afastada a penalidade aplicada, conforme dispõe a Súmula 98/STJ.
+3. Na hipótese dos autos, o recorrente pleiteou na petição inicial que fosse determinado ao recorrido a apresentação dos extratos referentes ao período sobre o qual pleiteia diferenças de correção monetária, contudo, a sentença, mantida pelo Tribunal a quo, negou este pleito sob o argumento, em síntese, de que não existiria plausibilidade da relação jurídica alegada.
+Restou consignado no acórdão recorrido que o insurgente apresentou extrato da poupança referente a período posterior ao vindicado, não tendo êxito em demonstrar a existência da relação na época requerida, conforme se verifica dos seguintes excertos:
+(..)
+Nas razões recursais o autor insiste que fez prova da titularidade das referidascontas por meio dos extratos bancários de fls. 10/11, demonstrando indícios mínimos daexistência delas no período, pois os extratos se referem a Janeiro/91, período muito próximoao pleiteado nestes autos. (..)
+A parte autora/agravante não instruiu a inicial com um documento sequer quecomprovasse a titularidade das contas no período postulado (Janeiro/Fevereiro/89),limitando-se a requerer a exibição dos extratos pela ré.
+Os extratos de fls. 10/11 referem-se a período diverso do vindicado.
+(..)
+Para derruir as conclusões da Corte paulista, a respeito da não demonstração da existência da relação jurídica no período vindicado, seria imprescindível o revolvimento do acervo fático-probatório, o que encontra óbice na súmula 7/STJ. Nesse sentido:
+(..)
+4. O exame da pretensão recursal exigiria o revolvimento e a alteração das premissas fático-probatórias estabelecidas pelo v. acórdão recorrido, situação que faz incidir o enunciado de Súmula 7 do STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 1.832.549/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 16/8/2021, DJe de 24/8/2021.)
+Corroborando este entendimento: AgInt no AREsp n. 2.054.709/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 8/8/2022, DJe de 10/8/2022; AgInt no AREsp n. 1.803.167/DF, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 4/10/2021, DJe de 8/10/2021; AgInt no REsp n. 2.020.322/MG, relator Ministro Marco Buzzi, Quarta Turma, julgado em 6/3/2023, DJe de 10/3/2023.
+Assim, constata-se que o acórdão foi ao encontro da jurisprudência deste Tribunal Superior firmada no REsp 1133872 / PB, Tema Repetitivo 411, atraindo também a incidência da súmula 83/STJ:
+É cabível a inversão do ônus da prova em favor do consumidor para o fim de determinar às instituições financeiras a exibição de extratos bancários, enquanto não estiver prescrita a eventual ação sobre eles, tratando-se de obrigação decorrente de lei e de integração contratual compulsória, não sujeita à recusa ou condicionantes, tais como o adiantamento dos custos da operação pelo correntista e a prévia recusa administrativa da instituição financeira em exibir os documentos, com a ressalva de que ao correntista, autor da ação, incumbe a demonstração da plausibilidade da relação jurídica alegada, com indícios mínimos capazes de comprovar a existência da contratação, devendo, ainda, especificar, de modo preciso, os períodos em que pretenda ver exibidos os extratos.
+Desse modo, não prospera a insurgência também neste ponto, ante a aplicação das súmulas 7 e 83/STJ.
+4 . Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, dá-se parcial provimento ao recurso especial, apenas para excluir a aplicação da multa do art. 1.026, § 2º, do CPC/15.
+Publique-se.
+Intimem-se.
