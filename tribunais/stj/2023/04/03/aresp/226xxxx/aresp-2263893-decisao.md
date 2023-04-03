@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de Agra vo em Recurso Especial, interposto por PEDRO FERNANDES E OUTROS, contra decisão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"PROCESSUAL CIVIL. EXECUÇÃO FISCAL. IMPENHORABILIDADE. PEQUENA PROPRIEDADE RURAL. NÃO COMPROVAÇÃO.
+I. Caso em que não há comprovação de que a propriedade se destina à atividade rural familiar. Impenhorabilidade que não se reconhece.
+II. Recurso desprovido" (fl. 243e).
+O acórdão em questão foi objeto de Embargos de Declaração, os quais restaram rejeitados (fls. 288/295e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora agravante aponta violação aos arts. 141, 370, 371, 833, VII, todos do do CPC e 4, § 2º, da Lei 8.009/90, sustentando, em síntese, que não foram observadas as provas robustas que constam dos autos que comprovam a impenhorabilidade da pequena propriedade rural, onde os recorrentes trabalham e extraem seus sustentos (fls. 312/321e).
+Contrarrazões a fls. 360/365e.
+Inadmitido o Recurso Especial (fls. 367/368e), foi interposto o presente Agravo (fls. 370/375e).
+A irresignação não merece prosperar.
+Com efeito, conforme firme jurisprudência desta Corte, "compete às instâncias ordinárias exercer juízo acerca das provas produzidas, haja vista sua proximidade com as circunstâncias fáticas da causa, cujo reexame é vedado em âmbito de Especial, a teor da Súmula 7/STJ" (STJ, AgRg no AREsp 184.147/RN, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 20/08/2012).
+Nesse sentido:
+"PREVIDENCIÁRIO. PROCESSUAL CIVIL. APOSENTADORIA ESPECIAL. VIOLAÇÃO DO ART. 535, I E II, DO CPC. INEXISTÊNCIA. VIOLAÇÃO DE SÚMULA. IMPOSSIBILIDADE DE EXAME. ALEGADA OFENSA A DISPOSITIVO CONSTITUCIONAL. COMPETÊNCIA DO STF. NÃO RECONHECIMENTO DO TEMPO ESPECIAL. PRETENSÃO DE REEXAME DE MATÉRIA FÁTICA. SÚMULA 7/STJ.
+1. Conforme consignado na análise monocrática, inexistente a alegada violação do art. 535 do CPC, porquanto, com relação ao único período que a Corte de origem que não reconheceu como especial, qual seja, de 25/2/2000 a 22/8/2008, ficou decidido que a atividade de motorista de ônibus não deveria ser enquadrada como especial.
+Ademais, vê-se que o Tribunal a quo nada consignou sobre a Súmula 198/TFR (que prevê o reconhecimento de especialidade laboral por meio de perícia judicial), porque decidiu que o julgador não está limitado a ratificar as conclusões periciais, conforme art. 436, do CPC.
+2. Ressalte-se, ainda, que cabe ao magistrado decidir a questão de acordo com o seu livre convencimento, utilizando-se dos fatos, provas, jurisprudência, aspectos pertinentes ao tema e da legislação que entender aplicável ao caso concreto, o que ocorreu no caso vertente. Precedentes.
+3. Não pode ser conhecido o recurso especial quanto à alegação de violação de súmula, tendo em vista que enunciado sumular não é enquadrado no conceito de lei federal. Precedentes.
+4. A alegação de que "o art. 57 da Lei 8.213/91 está alicerçado nos princípios constitucionais da igualdade, consistente na compensação devida ao trabalhador que trabalha sob condições especiais, e da proteção à saúde à integridade física do segurado (art. 201, § 1º da CF)" (fl. 411, e-STJ), não pode ser conhecida, haja vista que possível ofensa a texto constitucional desafia recurso extraordinário estrito senso e não recurso especial. Precedentes.
+5. O não reconhecimento da atividade especial foi decidido com base no contexto fático-probatório dos autos, e a revisão do entendimento da Corte de origem, nos termos apresentados pelo recorrente, esbarra no óbice da Súmula 7 desta Corte, que diz: "A pretensão de simples reexame de prova não enseja recurso especial".
+Agravo regimental improvido" (STJ, AgRg no AREsp 785.341/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 27/11/2015).
+No caso, o Tribunal de origem, com base no exame dos elementos fáticos dos autos, consignou que "compulsados os autos, não se verifica prova relevante de que a propriedade se destina à atividade rural familiar, o que faz a parte agravante sendo apenas alegar que "se trata de pequena propriedade rural, onde os agravantes", sem, todavia, nada colacionar aos autos que trabalham e extraem seus sustentos comprovasse o alegado" (fl. 242e).
+Nesse contexto, considerando a fundamentação do acórdão objeto do Recurso Especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula 7/STJ.
+Pelo exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo, para não conhecer do Recurso Especial.
+I.
