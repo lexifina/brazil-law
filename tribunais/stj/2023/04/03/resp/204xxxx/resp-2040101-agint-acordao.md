@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/03/2023 a 03/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por COMPANHIA VALE DO RIO DOCE - CVRD (VALE) contra decisão monocrática de minha relatoria, assim ementada:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. ROMPIMENTO DE BARRAGEM EM BRUMADINHO. COISA JULGADA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 282 DO STF. ACORDO. INEXIGIBILIDADE DE PARCELAS. REEXAME DE FATOS E PROVAS. INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL. INVIABILIDADE. SÚMULAS NºS 5 E 7 DO STJ. RECURSO ESPECIAL NÃO CONHECIDO (e-STJ, fl. 1.395).
+Nas razões do presente inconformismo, defendeu que (1) é possível a revaloração da matéria fática, não se aplicando as Súmulas n.ºs 5 e 7 do STJ, pois apenas se discute a ofensa à coisa julgada decorrente da homologação de acordo firmado em ação civil pública, no qual extintas todas as obrigações relativas ao pagamento de auxílio emergencial; e (2) não incide a Súmula n.º 282 do STF, porquanto foram objeto de embargos de declaração os temas relativos à vulneração do art. 843 do CC, à inelegibilidade para recebimento do auxílio emergencial e à ofensa à coisa julgada (e-STJ, fls. 1.401/1.427).
+Não foi apresentada contraminuta.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. ROMPIMENTO DE BARRAGEM. ACORDO. ABRANGÊNCIA. REEXAME DE FATOS E PROVAS. INVIABILIDADE. SÚMULAS N.os 5 E 7 D STJ. PREQUESTIONAMENTO. INOCORRÊNCIA.DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. O acórdão vergastado assentou que as parcelas vencidas no período de vigência do acordo anterior permaneciam exigíveis, não estando abrangidas no acordo, as parcelas vencidas no período de vigência do acordo anterior permaneciam exigíveis, não estando abrangidas no acordo. Alterar as conclusões do acórdão impugnado exigiria incursão fático-probatória e interpretação de cláusula contratual, em afronta às Súmulas n.ºs 5 e 7 do STJ.
+2. A ausência de debate no acórdão recorrido quanto aos temas suscitados no recurso especial evidencia a falta de prequestionamento, admitindo-se o prequestionamento ficto na hipótese em que não sanada a omissão no julgamento de embargos de declaração e suscitada a ofensa ao art. 1.022 do NCPC no recurso especial.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido.
+VOTO
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as suas conclusões.
+(1) Da abrangência do acordo homologado
+Nas razões do presente recurso, VALE alegou que (1) é possível a revaloração da matéria fática, não se aplicando as Súmulas n.ºs 5 e 7 do STJ, pois apenas se discute a ofensa à coisa julgada decorrente da homologação de acordo firmado em ação civil pública, no qual extintas todas as obrigações relativas ao pagamento de auxílio emergencial.
+Nesse ponto, a decisão unipessoal assentou que não era possível conhecer do recurso especial, em virtude da aplicação das Súmulas n.ºs 5 e 7 do STJ.
+Com efeito, o Tribunal mineiro asseverou que as parcelas vencidas no período de vigência do acordo anterior permaneciam exigíveis, não estando abrangidas no acordo, nos termos da seguinte fundamentação:
+Nos autos da ação coletiva nº 5010709-36.2019.8.13.0024, foi firmado Termo de Acordo Preliminar (TAP) entre a Vale e o Ministério Público do Estado de Minas Gerais, o Estado de Minas Gerais e a Defensoria Pública do Estado de Minas Gerais, no qual foi fixada a obrigação de pagamento de indenização emergencial às vítimas do rompimento da Barragem I da Mina Córrego do Feijão, em Brumadinho.
+Em novo acordo judicial celebrado em 04/02/2021, bem como em decisões posteriores, restou estabelecido o encerramento do pagamento emergencial a partir de novembro/2021, sendo então implementado o Programa de Transferência de Renda, cuja execução está a cargo da Fundação Getúlio Vargas.
+Todavia, o término das prestações do auxílio emergencial firmado no Termo de Acordo Preliminar (TAP) apenas implica o encerramento dos pagamentos, remanescendo a obrigação em relação às parcelas vencidas durante o período de vigência do acordo, razão pela qual não há perda de objeto da ação (e-STJ, fl. 1.121).
+Diante disso, a reforma do acórdão vergastado, a fim de concluir que as obrigações vencidas foram extintas pelo acordo, importaria em reexame de fatos e provas e interpretação de cláusulas contratuais, vedados em recurso especial, nos termos das Súmulas n.ºs 5 e 7 do STJ.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. PLANO DE RECUPERAÇÃO. LEGALIDADE. CONTROLE. FUNDAMENTAÇÃO. DEFICIÊNCIA. AFASTAMENTO. SÚMULAS NºS 5, 7 E 211/STJ E NºS 283 E 284/STF. INCIDÊNCIA. PREQUESTIONAMENTO FICTO. RECONHECIMENTO. IMPOSSIBILIDADE. DECISÃO AGRAVADA. MANUTENÇÃO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em deficiência na fundamentação do julgado quando a decisão agravada indica pontualmente as ilegalidades concretamente constatadas pela Corte local no plano de recuperação aprovado, destacando, ainda, a ausência de transparência do acordo em relação à individualização dos créditos concursais.
+3. É evidente a deficiência na fundamentação recursal quando a linha argumentativa invocada pela parte recorrente se mostra divorciada das premissas assentadas pelo acórdão recorrido. Incidência das Súmulas nºs 283 e 284/STF.
+4. A revisão das conclusões do tribunal de origem demandaria a interpretação do contrato firmado entre as partes e o reexame do conjunto fático-probatório carreado aos autos, o que atrai a incidência das Súmulas nºs 5 e 7/STJ.
+5. A admissão de prequestionamento ficto (art. 1.025 do CPC/2015) em recurso especial exige que no mesmo recurso seja indicada violação do art. 1.022 do CPC/2015, para que se possibilite ao órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei. Precedentes.
+6. Agravo interno não provido.
+(AgInt no REsp n. 1.957.863/SP, relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. em 5/9/2022, DJe de 12/9/2022)
+Portanto, o agravo interno não merece prosperar.
+(2) Do prequestionamento
+No agravo interno, VALE também afirmou que não incide a Súmula n.º 282 do STF, porquanto foram objeto de embargos de declaração os temas relativos à vulneração do art. 843 do CC, à inelegibilidade para recebimento do auxílio emergencial e à ofensa à coisa julgada.
+Nesse aspecto, a decisão agravada consignou que não houve prequestionamento da alegação de ofensa à coisa julgada.
+De fato, a matéria atinente à coisa julgada não foi apreciada no acórdão recorrido, embora opostos embargos de declaração.
+Em que pese não se aplique a Súmula n.º 282 do STF, ante a oposição dos embargos declaratórios, a ausência de debate acerca da matéria impede o conhecimento do recurso especial no ponto.
+Importante destacar que a jurisprudência do STJ entende que, para a admissão do prequestionamento ficto, nos termos do art. 1.025 do NCPC, em recurso especial, exige-se a anterior oposição dos embargos de declaração, além da indicação de violação do art. 1.022 do NCPC, para que se possibilite ao Órgão julgador verificar a existência do vício no acórdão recorrido.
+Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. INSTRUMENTO CONTRATUAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OMISSÃO E DEFICIÊNCIA NA FUNDAMENTAÇÃO. NÃO OCORRÊNCIA. JULGAMENTO IMEDIATO DA CAUSA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. CLÁUSULA DE QUITAÇÃO GERAL E PLENA. AUSÊNCIA DE DOLO, COAÇÃO OU ERRO. TESE NÃO PREQUESTIONADA. SÚMULAS 282 E 356/STF. DISSÍDIO JURISPRUDENCIAL. NÃO INDICAÇÃO DO DISPOSITIVO VIOLADO. SÚMULA 284/STF. HONORÁRIOS RECURSAIS. MAJORAÇÃO. CABIMENTO. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada a violação aos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. Inadmissível o recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal local (enunciado n. 211 da Súmula do STJ).
+3. O prequestionamento ficto, previsto no art. 1.025 do CPC/2015, só é admissível quando, após a oposição de embargos de declaração na origem, a parte recorrente suscitar violação ao art. 1.022 do mesmo diploma, porquanto somente dessa forma é que o órgão julgador poderá verificar a existência do vício e proceder à supressão de grau, providência não adotada no recurso especial apresentado.
+4. No tocante à parte em que a insurgência foi inadmitida, ratifica-se que os arts. 840 e 849 do Código Civil não foram debatidos pelo acórdão recorrido, o que configura a ausência do indispensável prequestionamento da matéria e atrai a incidência das Súmulas 282 e 356/STF.
+5. A falta de indicação, de forma clara e precisa, dos dispositivos legais que teriam sido eventualmente violados ou que tiveram sua interpretação divergente à jurisprudência desta Corte impede o conhecimento do recurso, por deficiência na sua fundamentação, conforme preceitua a Súmula n. 284 do Supremo Tribunal Federal.
+6. No caso, estão presentes os requisitos cumulativos necessários à majoração dos honorários sucumbenciais prevista no art. 85, § 11, do CPC/2015, conforme as regras definidas pela Terceira Turma deste Tribunal Superior - nos EDcl no AgInt no REsp n. 1.573.573/RJ, desta relatoria, julgado em 4/4/2017, DJe de 8/5/2017.
+7. Agravo interno desprovido.
+(AgInt no REsp 1.839.431/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. em 8/2/2021, DJe 12/2/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. AUSÊNCIA DE VIOLAÇÃO AO ARTIGO 489, § 1º, do CPC DE 2015. ACÓRDÃO RECORRIDO DEVIDAMENTE FUNDAMENTADO. ALEGADA AFRONTA AOS ARTIGOS 337, § 4º, 502 E 805, DO CPC DE 2015. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA N. 282/STF. PREQUESTIONAMENTO FICTO PREVISTO NO ART. 1.025 DO CPC/2015. NECESSIDADE DE SE APONTAR VIOLAÇÃO AO ART. 1.022 DO CPC/2015. RECURSO NÃO PROVIDO.
+1. "Se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte, como ocorreu na espécie. Violação do art. 489, § 1º, do CPC/2015 não configurada" (AgInt no REsp 1.584.831/CE, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 14/6/2016, DJe 21/6/2016).
+2. As matérias referentes aos arts. 337, § 4º, 502 e 805, do CPC de 2015, não foram objeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmula n. 282/STF).
+3. Ressalto que o STJ não reconhece o prequestionamento pela simples interposição de embargos de declaração. Persistindo a omissão, é necessária a interposição de recurso especial por afronta ao art. 1.022 do CPC de 2015 (antigo art. 535 do Código de Processo Civil de 1973), sob pena de perseverar o óbice da ausência de prequestionamento.
+4. "A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei". (REsp 1639314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe 10/04/2017).
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.464.168/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. em 10/3/2020, DJe 17/3/2020)
+Contudo, no caso dos autos, apesar da oposição dos aclaratórios, a análise do tema agora tratado não pode ser feita em razão da ausência de indicação de violação do disposto no art. 1.022 do NCPC.
+Assim, não se reconhece o alegado prequestionamento.
+Dessarte, mantém-se a decisão proferida, por não haver motivos para sua alteração.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
