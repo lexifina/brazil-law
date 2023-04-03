@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interno (fls. 2411/2417) apresentado contra decisão monocrática da Ministra Presidente/STJ da qual se extrai:
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: Súmula 83/STJ.
+Entretanto, a parte agravante deixou de impugnar especificamente o referido fundamento.
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Os embargos de declaração opostos foram rejeitados.
+A agravante alega que:
+Ao Agravo ao Recurso Especial, apresentado às fls. 2370-2374, a Agravante expôs detalhadamente que, no presente caso, não há consonância do acórdão recorrido com o entendimento do Superior Tribunal de Justiça e, portanto, inaplicável a Súmula nº 83 do STJ.
+2. Tanto é verdade que a questão é controvertida, que ao decidir sobre o REsp nº 2005087/PR - cujo assunto aborda o que está sendo objeto deste AREsp -, o Ministro Relator Paulo de Tarso Sanseverino, Presidente da Comissão Gestora de Precedentes e de Ações Coletivas, decidiu:
+(..)
+Portanto, tendo em vista o assunto ser objeto de controvérsia, para o que já foram indicados como representativos os Recursos Especiais nº 2005087/PR, nº 2005029/SC, nº 2005567/RS e nº 2005289/SC, requer o recebimento deste recurso para reformar a decisão monocrática, para conhecer o AREsp e, consequentemente, admitir e analisar o Recurso Especial. Alternativamente, a suspensão processual até o devido julgamento pelo Superior Tribunal de Justiça, nos termos do art. 1.036 do CPC.
+Requer seja provido o recurso.
+Intimada para apresentar resposta, a agravada quedou-se inerte.
+É o relatório. Decido.
+A decisão agravada deve ser tornada sem efeito e os autos devolvidos ao Tribunal de origem.
+Com efeito, o Superior Tribunal de Justiça, nos seguintes feitos: REsp 2.005.029/SC, REsp 2.005.087/PR, REsp 2.005.289/SC e REsp 2.005.567/RS, todos da relatoria do Min. Herman Benjamin, submeteu à Primeira Seção (segundo o regime dos recursos repetitivos) a seguinte tese controvertida: "possibilidade de excluir os valores relativos à contribuição previdenciária do empregado e trabalhador avulso e ao imposto de renda de pessoa física, retidos na fonte pelo empregador, da base de cálculo da contribuição previdenciária patronal e das contribuições destinadas a terceiros e ao SAT/RAT".
+Determino, portanto, a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que, após publicada a conclusão do julgamento da questão afetada como repetitiva, o recurso especial: 1) tenha seguimento denegado na hipótese de o acórdão recorrido coincidir com a orientação do Superior Tribunal de Justiça; (ou) 2) seja novamente examinado pelo Tribunal de origem, na hipótese de o acórdão recorrido divergir da orientação do Superior Tribunal de Justiça.
+Impende salientar que a jurisprudência desta Corte firmou-se no sentido de ser irrecorrível a decisão que determina o sobrestamento do feito, no 2º Grau, diante da pendência de julgamento de recurso representativo da controvérsia. Confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SOBRESTAMENTO. TEMA 1.076/STJ. DEVOLUÇÃO DOS AUTOS À ORIGEM. IRRECORRIBILIDADE. 1. A decisão que determina a devolução dos autos à origem, a fim de que lá seja exercido o juízo de retratação antes da apreciação do respectivo recurso especial pelo STJ, não possui carga decisória e não acarreta prejuízo às partes. Por isso, é provimento irrecorrível. Precedentes. 2. Agravo interno não conhecido. (AgInt no REsp 1816085/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 28/06/2021, DJe 02/08/2021)
+Ante o exposto, torno sem efeito a decisão agravada e determino a devolução dos autos ao Tribunal a quo, com fulcro no art. 1030, III, do CPC/2015, e 256-L, I, do RISTJ, com a devida baixa nesta Corte, para que o recurso fique sobrestado aguardando o julgamento do tema afetado, e, após, sejam adotadas as providências previstas no art. 1040 do CPC/2015. Julgo prejudicado o agravo interno de fls. 2411/2417 .
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA PATRONAL. BASE DE CÁLCULO. VALORES RETIDOS A TÍTULO DE CONTRIBUIÇÃO PREVIDENCIÁRIA DO EMPREGADO. AFETAÇÃO DA MATÉRIA PARA JULGAMENTO SOB A SISTEMÁTICA DO ART. 1036 DO CPC/2015. ART. 256-L, I, DO RISTJ. DEVOLUÇÃO DOS AUTOS À ORIGEM PARA SOBRESTAMENTO DO FEITO ATÉ FINAL JULGAMENTO DO TEMA. AGRAVO INTERNO PREJUDICADO.
