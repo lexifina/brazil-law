@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/03/2023 a 03/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  SEGURADORA  LÍDER  DO  CONSÓRCIO  DO  SEGURO  DPVAT  S.A.  contra  a  decisão  (fls.  655/658  e-STJ)  que  conheceu  do  agravo  e  deu  parcial  provimento  ao  recurso  especial  para  afastar  a  multa  processual  imposta  à  recorrente  com  esteio  no  artigo  1.026,  §  2º,  do  Código  de  Processo  Civil.
+Naquela  oportunidade,  concluiu-se  que  (i)  ausente  a  negativa  de  prestação  jurisdicional  e  (ii)  aplicável  a  Súmula  nº  7/STJ  no  tocante  à  ocorrência  do  dano  moral.
+Nas  presentes  razões  (fls.  661/667  e-STJ),  a  agravante  insiste  na  tese  de  que  há  negativa  de  prestação  jurisdicional  e  afirma  que  a  matéria  é  puramente  de  direito,  não  havendo  óbice  da  Súmula  nº  7/STJ.
+É  o  relatório.
+EMENTA
+  A  GRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL.  NÃO  CONFIGURAÇÃO.  PRESTAÇÃO  DO  SERVIÇO.  FALHA.  DANO  MORAL.  OCORRÊNCIA.  REEXAME  DE  PROVA.  SÚMULA  Nº  7/STJ.
+1.  Não  há  falar  em  negativa  de  prestação  jurisdicional,  tampouco  em  fundamentação  deficiente,  se  o  tribunal  de  origem  motiva  adequadamente  sua  decisão,  solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entende  cabível  à  hipótese,  apenas  não  no  sentido  pretendido  pela  parte.
+2.  Na hipótese, as  conclusões  da  Corte  de  origem  acerca  da  existência  de  danos  morais  indenizáveis  alegadamente  suportados  pela  autor  a  da  demanda  resultaram  do  exame  de  todo  o  acervo  fático-probatório  carreado  aos  autos,  não  podendo  ser  objeto  de  revisão  em  recurso  especial  devido  ao  óbice  da  Súmula  nº  7/STJ.
+3.  Agravo  interno  não  provido.
+VOTO
+A  irresignação  não  merece  prosperar.
+Verifica-se  que  é  inviável  o  acolhimento  da  tese  recursal  relativa  à  suposta  violação  do  artigo  1.022  do  Código  de  Processo  Civil .
+De  fato,  extrai-se  dos  autos  que  o  t  ribunal  de  origem  agiu  corretamente  ao  rejeitar  os  declaratórios  opostos  pela  agravante,  não  subsistindo  nenhuma  omissão,  contradição  ou  obscuridade  no  acórdão  embargado,  ficando  patentes,  em  verdade,  o  propósito  infringente  dos  aclaratórios  e  a  pretensão  da  embargante  de  obter  do  colegiado  julgador  pronunciamento  acerca  de  manifestação  explícita  a  respeito  de  temas  que  já  haviam  sido  suficientemente  abordados  pela  Corte  local.
+Como  consabido,  a  estreita  via  dos  aclaratórios  não  se  presta  à  reforma  do  julgado  impugnado.
+Ademais,  ressalta-se  que  o  órgão  julgador  não  está  obrigado  a  se  pronunciar  a  respeito  de  todo  e  qualquer  ponto  suscitado  pelas  partes,  mas  somente  acerca  daqueles  considerados  suficientes  para  fundamentar  sua  decisão.
+A  motivação  contrária  ao  interesse  da  parte  ou  mesmo  omissa  quanto  aos  pontos  considerados  irrelevantes  pelo  julgador  não  autoriza  o  acolhimento  dos  embargos  de  declaração.
+Dessa  maneira,  não  se  revela  configurada  a  aludida  negativa  de  prestação  jurisdicional.
+Por  fim,  cumpre  reiterar  que  a  pretensão  de  ver  afastada  a  existência,  no  caso,  de  danos  morais  indenizáveis  vai  de  encontro  à  inteligência  da  Súmula  nº  7/STJ.
+Na  hipótese  vertente,  a  Corte  de  origem,  a  quem  sabidamente  cumpre  dar  a  última  palavra  na  análise  das  circunstâncias  fáticas  e  probatórias  da  causa,  decidiu  pela  procedência  do  pedido  indenizatório  autoral,  firme  no  entendimento  de  que  restou  comprovada  a  falha  no  procedimento  cirúrgico  a  que  foi  submetido  o  autor.
+Tal  conclusão  resultou  do  acurado  exame  de  todo  o  acervo  probatório  carreado  aos  autos,  conforme  se  extrai  do  seguinte  excerto  do  voto  condutor  do  aresto  ora  hostilizado:
+"(..)
+Em  relação  ao  alegado  dano  moral,  caracterizado,  no  caso,  segundo  a  autora/apelante,  em  virtude  de  a  Seguradora  ter  se  recusado  a  receber  o  pedido  administrativo  de  pagamento  da  indenização  securitária,  admito  que  essa  prática  furtiva,  evasiva,  embaraçosa  e  desleal,  quando  adotada  pela  Seguradora  para  simplesmente  obstar  a  rápida  satisfação  do  direito  do  segurado  à  indenização  devida,  configura,  sem  sombra  de  dúvida,  ofensa  à  dignidade  moral  da  pobre  segurada/solicitante,  pois,  ao  invés  de  se  lhe  conceder,  pelo  menos,  o  direito  ao  mero  exame  célere  do  pleito  de  pagamento  administrativo,  o  infeliz  solicitante  é  relegado  às  calendas  de  uma  indiferença  caprichos  a  que  de  pronto  já  lhe  bate  na  cara  a  porta  fechada  do  guichê  de  atendimento.
+É  inegável  a  sensação  de  impotência,  desrespeito,  humilhação  e  logro  que  esse  tipo  de  conduta  provoca  no  ânimo  daqueles  que,  já  marcados  no  corpo  e  na  alma  pelas  lesões  do  acidente  automobilístico  deque  fora  vítima,  alimentavam  a  expectativa  de  receber  da  Seguradora  pelo  menos  uma  quota  de  atenção  respeitosa  à  solicitação  administrativa  de  exame  e  possível  pagamento  da  indenização  securitária.
+Esse  tipo  de  situação  diz  respeito  ao  sofrimento  da  alma,  à  dor,  ao  constrangimento,  à  humilhação,  enfim,  atinge  a  personalidade.
+A  comprovação  de  sua  ocorrência,  evidentemente,  vai  depender  da  verificação  de  cada  caso  concreto,  observando-se  que,  no  caso  em  exame,  não  se  trata  de  uma  situação  em  que  o  dano  moral  se  encontra  caracterizado  in  re  ipsa,  havendo  necessidade  de  efetiva  demonstração.
+O  fato  alegado  pela  recorrente  de  que  a  recusa,  não  à  imediata  realização  do  pagamento,  mas  à  simples  recepção  protocolar  do  requerimento  administrativo  no  balcão  de  atendimento,  lhe  causou  dificuldades  para  o  recebimento  do  seguro,  e  que  afronta  o  disposto  nos  art.  5º,  §2º,  da  Lei  nº  6.194/74  e  nos  arts.  32  e  33,  caput,  ambos  da  Resolução  CNSP  nº  332/2015,  é  suficiente  para  justificar  o  reconhecimento  de  efetiva  ocorrência  de  dano  moral"  (fl.  494  e-STJ).
+Desse  modo,  para  desconstituir  as  conclusões  do  tribunal  de  origem  seria  imprescindível  que  esta  Corte  Superior  promovesse  a  incursão  no  universo  fático-probatório  da  causa,  o  que,  como  consabido,  é  vedado  ante  a  Súmula  nº  7/STJ.
+Assim,  não  prosperam  as  alegações  postas  no  presente  recurso,  incapazes  de  alterar  os  fundamentos  da  decisão  impugnada.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
