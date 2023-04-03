@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado pela Defensoria Pública estadual em favor de MESSIAS UBIRAJARA RIBEIRODUTRA contra v. acórdão proferido pelo eg. Tribunal de Justiça do Estado do Rio Grande do Sul, nos autos da apelação criminal n. 5005639-09.2019.8.21.3001.
+Depreende-se dos autos que o paciente foi absolvido das imputações que lhe foram feitas, nos termos do artigo 386, inciso VII, do Código de Processo Penal (fls. 16-21).
+No julgamento da apelação, o Tribunal de origem deu provimento parcial ao recurso ministerial a fim de condenar o réu pelo crime de tráfico de drogas, à pena de 5 (cinco) anos de reclusão e 500 (quinhentos) dias-multa, em regime inicial fechado (fls. 22-38).
+Na hipótese, a defesa aponta constrangimento ilegal, pois o paciente faz jus à aplicação do tráfico privilegiado, uma vez que a quantidade de droga apreendida não é fundamento idôneo para afastar a benesse pleiteada.
+Pugna pela fixação de regime inicial mais brando e pela substituição da pena privativa de liberdade por restritiva de direitos.
+Requer, assim, o redimensionamento da reprimenda, com a fixação do regime prisional menos gravoso, substituída a pena corporal por penas restritivas de direitos.
+Pedido liminar indeferido às fls. 42-43.
+Informações prestadas às fls. 46-89.
+O Ministério Público Federal, às fls. 99-106, manifestou-se pelo não conhecimento da ordem.
+É o relatório.
+Decido.
+Conforme relatado, busca-se na presente impetração a aplicação do redutor previsto no art. 33, § 4º, da Lei de Drogas, com a fixação do regime prisional menos gravoso e a substituição da pena corporal por penas restritivas de direitos.
+Cumpre registrar, inicialmente, que a dosimetria da pena está inserida no âmbito de discricionariedade do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito.
+No tocante a minorante prevista no art. 33, § 4º, da Lei de Drogas, assinale-se, que a Terceira Seção deste Sodalício firmou o entendimento de que, a quantidade de substância entorpecente e a sua natureza hão de ser consideradas na fixação da pena-base, nos termos do art. 42 da Lei n. 11.343/2006, não sendo, portanto, pressuposto para a incidência da causa especial de diminuição de pena descrita no art. 33, § 4º, da Lei n. 11.343/2006.
+Nesse sentido: AgRg no AgRg no AgRg no AREsp n. 2.108.796/SC, Sexta Turma, Rel. Min. Antonio Saldanha Palheiro, DJe de 15/12/2022 e AgRg no AREsp n. 2.130.651/MG, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 15/12/2022.
+Na presente hipótese, forçoso reconhecer a ocorrência de flagrante ilegalidade, eis que o benefício capitulado no parágrafo 4º, do art. 33 da Lei n. 11.343/06 foi afastado, tão somente, com base na quantidade de droga apreendida, a saber, "1590g de maconha e 89g de cocaína" (fl. 30).
+Desse modo, forçoso reconhecer a possibilidade de aplicação da causa especial de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/06, no seu patamar máximo, 2/3 (dois terços).
+Evidenciado, in casu, o constrangimento ilegal apontado pela defesa, passo ao redimensionamento da reprimenda do paciente, mantidos os critérios dosimétricos empregados pelas instâncias ordinárias.
+Na primeira fase da dosimetria, mantenho a pena-base estabelecida em 5 (cinco) anos de reclusão e 500 (quinhentos) dias-multa (fl. 33).
+Na segunda fase, a reprimenda permanece inalterada.
+Na terceira fase, reduzo a pena em 1/6, nos termos do art. 33, § 4º, da Lei n. 11.343/2006, totalizando a reprimenda definitiva em 4 (quatro) anos e 2 (dois) meses de reclusão e 416 (quatrocentos e dezesseis) dias-multa.
+No ponto, abro um parêntese para destacar que, segundo os autos, foram apreendidos com o paciente ""1590g de maconha e 89g de cocaína" (fl. 30). Como tal vetorial não foi considerada quando da fixação da pena-base, justifica a modulação da causa especial de diminuição.
+Nesse sentido: AgRg no AREsp n. 1.917.106/MG, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 17/3/2023; EDcl no AgRg no HC n. 705.950/SC, Sexta Turma, Rel. Min. Olindo Menezes (Desembargador Convocado do TRF 1ª Região), DJe de 20/6/2022 e AgRg no HC n. 739.812/RS, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 30/5/2022.
+De mais a mais, "é pacífica nesta Corte Superior a orientação segundo a qual a fixação de regime mais gravoso do que o imposto em razão da pena deve ser feita com base em fundamentação concreta, a partir das circunstâncias judiciais dispostas no art. 59 do Código Penal - CP ou de outro dado concreto que demonstre a extrapolação da normalidade do tipo" (HC n. 452.147/MG, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe 14/08/2018, grifei).
+In casu, a quantidade e a natureza de um dos entorpecentes - ""1590g de maconha e 89g de cocaína" (fl. 30). - são elementos aptos a ensejar a manutenção do do regime inicial fechado, o que está em consonância com o entendimento desta Corte, ex vi do art. 33, § 2º, "b", e § 3º, do Código Penal, e art. 42, da Lei n. 11.343/2006. Confira-se: AgRg no HC n. 568.801/SP, Quinta Turma, Rel. Min. Felix Fischer, DJe de 17/06/2020; AgRg no HC n. 540.202/SP Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 14/02/2020; e RCD no HC n. 558.257/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 16/04/2020.
+Por fim, fixada a pena cominada ao paciente em patamar superior a 4 (quatro) anos de reclusão, resta prejudicado o pedido de substituição da sanção corporal por penas restritivas de direitos, pois não preenchidos os requisitos estabelecidos no art. 44 do Código Penal.
+Ante o exposto, concedo a ordem, para redimensonar a reprimenda do paciente em 4 (quatro) anos e 2 (dois) meses de reclusão e 416 (quatrocentos e dezesseis) dias-multa, mantidos os demais termos da condenação.
+P. e I.
