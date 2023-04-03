@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de conflito negativo de competência suscitado pelo d. Juízo de Direito da Vara de Família e Sucessões de Colombo/PR em face do d. Juízo de Direito da Vara Única de Juquiá/SP.
+O conflito de competência foi estabelecido nos autos de ação ação de inventário proposta originalmente perante o d. Juízo paulista que declinou da competência para a Justiça paranaense, alegando que "o Ministério Público se manifestou pela redistribuição do feito, eis que o domicílio da autora da herança localizava-se na Rua Scheneider, 238, Santa Terezinha, Colombo/PR, conforme apontado na petição inicial e na certidão de óbito a fls. 18" (na fl. 23).
+Remetidos os autos, o d. Juízo paranaense suscita o presente conflito de competência, aduzindo que "a falecida LOURDES JANUÁRIO ALVES era domiciliada na cidade de Juquiá, Estado de São Paulo, e não neste Município de Colombo. Muito embora tenha constado na certidão de óbito de mov. 5.12 que era residente nesta cidade, é possível verificar por todos os demais documentos juntados aos autos (mov. 5.47 ao mov. 5.53) que a falecida nunca alterou definitivamente sua residência para Colombo" (na fl. 29).
+É o relatório.
+Passo a decidir.
+De início, conforme autorizado pelos arts. 178 e 951, parágrafo único, do CPC, deixa-se de colher a opinião ministerial, pois o presente conflito de competência não se insere dentre as hipóteses que provocam a imprescindível oitiva do Ministério Público e que tratam de interesse público ou social, interesse de incapaz ou litígios coletivos pela posse de terra rural ou urbana (art. 178, CPC).
+No caso dos autos não se tem notícias de quais são os bens a serem inventariados, sendo certo, todavia, que um deles, é o imóvel descrito como "casa popular" situada na "Rua Willis Pereira de Paula, n.º 31, Jardim Vovó Clarinha, nesta cidade de Juquiá, Estado de São Paulo", conforme declara o inventariante na fl. 7 dos presentes autos.
+Como de sabença, a competência para a ação de inventário, relativa, conforme uníssona jurisprudência desta Corte, é do Foro de domicílio do autor da herança (CPC, art. 48).
+Todavia, se o autor da herança não possuía domicílio certo, como é o caso dos autos, é competente o foro de situação dos bens imóveis (art. 48, parágrafo único, I, do CPC), no caso o Foro de Juquiá/SP.
+Ante o exposto, conheço do conflito para declarar a competência Juízo de Direito da Vara Única de Juquiá/SP.
+Publique-se.
