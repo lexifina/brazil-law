@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/03/2023 a 03/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Humberto Martins, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que não conheceu do recurso especial, fundamentado no art. 105, III, a, da CF/88, que visa reformar acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grosso do Sul, assim resumido:
+AGRAVO DE INSTRUMENTO - CUMPRIMENTODE SENTENÇA - DÉBITO RELATIVO A FGTS - PROFESSOR TEMPORÁRIO - PRESCRIÇÃO DA PRETENSÃO DE CUMPRIMENTO DE SENTENÇA - AFASTADA - PROCESSO FÍSICO - TERMO A QUO - INTIMAÇÃO DA PARTE ACERCA DO RETORNO DOS AUTOS AO JUÍZO DE ORIGEM - ÍNDICE DECORREÇÃO MONETÁRIA - IPCA-E - RECURSO DESPROVIDO. 1. O termo inicial para a contagem do prazo prescricional de cinco anos para o cumprimento de sentença em face da Fazenda Pública Estadual, quando se tratar de processo físico, é da intimação da parte sobre o retorno dos autos à origem, porque é a partir desse momento que se torna viável para ela o protocolo do pedido de execução e o acesso aos dados para efetivação do cálculo da dívida, conforme reiteradamente decidido por este Tribunal de Justiça. 2-Em se tratando de condenação imposta à Fazenda Pública, o índice adotado para correção monetária deve ser o IPCA-E, por ser o mais adequado para recompor a perda do poder de compra, nos termos da decisão proferida pelo STF no julgamento do RE n. 870.947 (Tema 810).
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+Destarte, as ideias articuladas na peça recursal estão absolutamente associadas ao que decidido na origem e possibilitam mais do que claramente, data venia, a compreensão da controvérsia e as razões da irresignação, não devendo ser aplicada a Súmula 284/STF na espécie.
+ ..
+Portanto, a própria Corte da Cidadania já delimitou que a matéria questionada merece aprofundada análise em sede especial, diante de clara afronta à sua jurisprudência e ao direito federal reputado como violado, não havendo que se falar na incidência da Súmula 284/STF.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. ARGUMENTO DE OCORRÊNCIA DE PRESCRIÇÃO. AGRAVO IMPROVIDO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF.
+I - Na origem, trata-se de agravo de instrumento contra decisão que, em cumprimento de sentença, rejeitou a impugnação apresentada ao argumento de ocorrência da prescrição. No Tribunal a quo, o agravo foi improvido. Opostos embargos de declaração, foram rejeitados. Interposto recurso especial, teve seu seguimento negado. Seguiu-se por interposição de agravo. No STJ o agravo foi conhecido para não conhecer do recurso especial.
+II - Evidencia-se a deficiência na fundamentação recursal quando o recorrente não indica qual dispositivo de lei federal teria sido violado, bem como não desenvolve argumentação a fim de demonstrar em que consiste a ofensa aos dispositivos tidos por violados.
+III - A via estreita do recurso especial exige a demonstração inequívoca da ofensa ao dispositivo mencionado nas razões do recurso, bem como a sua particularização, a fim de possibilitar exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação dos dispositivos infraconstitucionais tidos como violados caracteriza deficiência de fundamentação, fazendo incidir, por analogia, o disposto no enunciado n. 284 da Súmula do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+IV - No caso, a parte agravante não demostrou de forma inequívoca que, no processo físico, admite-se como termo inicial para a contagem do prazo prescricional a data da intimação da parte sobre o retorno dos autos à origem vindo de instâncias superiores.
+V - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+Evidencia-se a deficiência na fundamentação recursal quando o recorrente não indica qual dispositivo de lei federal teria sido violado, bem como não desenvolve argumentação a fim de demonstrar em que consiste a ofensa aos dispositivos tidos por violados.
+A via estreita do recurso especial exige a demonstração inequívoca da ofensa ao dispositivo mencionado nas razões do recurso, bem como a sua particularização, a fim de possibilitar exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação dos dispositivos infraconstitucionais tidos como violados caracteriza deficiência de fundamentação, fazendo incidir, por analogia, o disposto no enunciado n. 284 da Súmula do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+No caso, a parte agravante não demostrou de forma inequívoca que, no processo físico, admite-se como termo inicial para a contagem do prazo prescricional a data da intimação da parte sobre o retorno dos autos à origem vindo de instâncias superiores.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
