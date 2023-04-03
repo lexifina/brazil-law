@@ -1,0 +1,51 @@
+DECISÃO
+Cuida-se de agravo interposto por NOGUEIRA ARTES E DECORAÇÕES LTDA. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS cuja ementa guarda os seguintes termos (fl. 286):
+APELAÇÃO CÍVEL. DIREITO ADMINISTRATIVO. PROCON. MULTA ADMINISTATIVA. COMPARECIMENTO ESPONTÂNEO. NOTIFICAÇÃO TENTADA NOS ENDEREÇOS CONSTANTES NOS ORGÃOS OFICIAIS.
+1. Diante do comparecimento espontâneo da empresa autora no processo administrativo, antes da audiência de conciliação no Procon, caberia a essa comunicar eventual alteração em seus endereços.
+2. Não ofende o devido processo legal a notificação via edital realizada após tentativa de notificação nos endereços da empresa cadastrados perante os órgãos oficiais.
+3. Negou-se provimento ao apelo.
+Rejeitados os embargos de declaração opostos (fls. 326-338).
+No recurso especial, a parte recorrente alega, preliminarmente, ofensa ao art. 1.022 do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz que o acórdão ofendeu os arts. 42 do Decreto n. 2.181/1997 e 26 da Lei n. 9.784/1999, sustentando nulidade na notificação editalícia, tendo em vista que, segundo afirma, "não há prova nos autos que todos os endereços foram diligenciados, tampouco que houvesse contato telefônico pelos números indicados".
+Aponta divergência jurisprudencial com arestos desta Corte.
+Foram oferecidas contrarrazões ao recurso especial (fls. 564-566).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 569-570), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 591-592).
+É, no essencial, o relatório.
+Ultrapassados os requisitos de admissibilidade, passo à análise do recurso especial.
+Inicialmente, quanto à alegação de omissão relativa à "análise do exaurimento, ou não, das diligências para possibilitar a intimação da Recorrente nos termos dos incisos I, II ou III, do Artigo 16, da Lei Distrital 657/1994" (fl. 346), não há falar em ofensa ao art. 1.022 do CPC, uma vez que o Colegiado regional, acolhendo os fundamentos da sentença, destacando no acórdão recorrido que (fls. 293-294):
+No que se refere à alegação de cerceamento de defesa, alega a requerente não ter recebido a notificação acerca da instauração do processo administrativo.
+(..)
+Em detida análise dos autos, especialmente da cópia do Processo Administrativo, constato que a parte autora foi, inicialmente, notificada para prestar esclarecimentos em janeiro de 1999, tendo o representante da autora comparecido na Subsecretaria de Defesa do Consumidor em 10/2/1999 (ID 73184834 - Pág. 4).
+Ainda, de acordo com a referida documentação, a parte autora teria sido notificado no endereço citado na reclamação, a saber, CSA 2, Lot 9, Apt. 104, Taguatinga/DF, CEP 72015-025 (ID 73184834 - Pág. 3).
+Posteriormente, houve agendamento de tentativa de conciliação, tendo sido expedida notificação para a autora para o referido endereço, mas não houve seu comparecimento (ID 73184834 - Pág. 4 e 73184834 - Pág. 19).
+Ainda, conforme documento ID 73184834 - Pág. 5, após comparecimento da equipe de fiscalização para fins de notificação da parte autora, o servidor constatou que no endereço citado na reclamação seria residência da sogra do representante da autora, tendo esta negado o fornecimento de endereço para sua localização.
+Após, para fins de obstar eventual alegação de nulidade no procedimento, tendo sido constatada a existência de outro endereço da parte autora/reclamada, houve a expedição de nova notificação para o endereço constante no orçamento oferecido pela autora, a saber, PONTE ALTA DE CIMA, Condomínio Cooperágua, Rua 06, Lote 09, Setor de Mansões Gama/DF (ID 73184834 - Pág. 26).
+Ocorre que, realizada a fiscalização em 18/10/1999, contatou-se que houve mudança no nome do condomínio, sendo que o galpão onde localiza a sede da autora teria sido derrubado (ID 73184834 - Pág. 28).
+Portanto, somente em 19/10/1999, houve a expedição do segundo edital de notificação do infrator, ante a ausência de localização da empresa autora.
+Nesse contexto, verifico que a parte autora teve plena ciência do processo administrativo, tendo, inclusive, comparecido pessoalmente no órgão de defesa do consumidor, o que demonstra que teve tempo hábil para apresentar defesa ou propor acordo junto ao consumidor lesado. Ocorre que, após o comparecimento do representante legal da empresa autora, este não mais compareceu nos autos, tampouco apresentou endereço correto para a sua localização.
+Em sede de processo administrativo, somente há que se falar em nulidade nos casos em que estiver atrelada ao efetivo prejuízo da parte, em face dos princípios da efetividade e instrumentalidade das formas, pois os atos administrativos gozam de presunção de legalidade e legitimidade, assim como os praticados pelo PROCON/DF, cabendo à autora a demonstração de prova inequívoca em sentido contrário.
+Além disso, o Tribunal de origem ao negar provimento à apelação, ressaltou que "verificado o conhecimento prévio da autora sobre o processo administrativo ainda antes da audiência de conciliação e a sua inércia em atualizar seu endereço junto aos órgãos oficiais, não há que se falar em nulidade da notificação por edital ou cerceamento de defesa" (fl. 295).
+Observa-se, portanto, que a lide foi solucionada em conformidade com o que foi apresentado em juízo. Assim, verifica-se que o acórdão recorrido está com fundamentação suficiente, inexistindo omissão ou contradição.
+A propósito, cito os seguintes precedentes:
+PROCESSUAL CIVIL. DESAPROPRIAÇÃO DIRETA. UTILIDADE PÚBLICA. CONCESSIONÁRIA DE VEÍCULOS. RECURSO ESPECIAL. OFENSA AO ARTIGO 1022, II, DO CPC/15. INOCORRÊNCIA. DEVOLUÇÃO TOTAL DA MATÉRIA EM REEXAME NECESSÁRIO. SÚMULA 325/STJ. NECESSIDADE DE ALUGAR IMÓVEL LINDEIRO PARA ALTERAR ACESSO A LOJA. INDENIZAÇÃO AFASTADA PELO TRIBUNAL DE ORIGEM. REVISÃO. SÚMULA 7/ STJ.
+1. Os arts. 489, § 1º, e 1.022 do Código de Processo Civil não foram ofendidos. A pretexto de apontar a existência de erros materiais, omissão e premissas erradas, a parte agravante quer modificar as conclusões adotadas pelo aresto vergastado a partir das informações detalhadas do laudo pericial.
+ ..
+5. Agravo Interno não provido.
+(AgInt no AREsp n. 1.974.188/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 17/10/2022, DJe de 4/11/2022.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. DANO MORAL. SUSPENSÃO DO FORNECIMENTO DO SERVIÇO DE ÁGUA . DEMORA INJUSTIFICADA NO RESTABELECIMENTO DO SERVIÇO. ARTS. 489, § 1º, E 1022, II, DO CPC. OMISSÃO NÃO CONFIGURADA. DEVER DE INDENIZAR. REQUISITOS PARA A RESPONSABILIZAÇÃO DA CONCESSIONÁRIA. ACÓRDÃO ANCORADO NO SUBSTRATO FÁTICO-PROBATÓRIO DOS AUTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. VALOR DA INDENIZAÇÃO. EXCESSO NÃO CARACTERIZADO.
+1. Cuida-se de ação de procedimento ordinário ajuizada em desfavor de SAMAR - Soluções Ambientais de Araçatuba, com o fim de obter indenização pelos danos morais que alega ter sofrido com suspensão do serviço de água na residência da autora.
+2. Verifica-se, inicialmente, não ter ocorrido ofensa aos arts. 489, § 1º, e 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos.
+ ..
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.118.594/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 22/11/2022, DJe de 25/11/2022 - grifo nosso.)
+Quanto à alegada ofensa ao art. 42 do Decreto n. 2.181/1997, o Superior Tribunal de Justiça "entende não ser "possível, pela via do Recurso Especial, a análise de eventual ofensa a decreto regulamentar, resoluções, portarias ou instruções normativas, por não estarem tais atos administrativos compreendidos no conceito de lei federal, nos termos do art. 105, III, da Constituição Federal" (AgInt no REsp 1.832.794/RO, relatora Ministra REGINA HELENA COSTA, Primeira Turma, julgado em 25/11/2019, DJe 27/11/2019)" (AgInt no AREsp n. 1.893.127/RJ, relator Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 24/2/2022).
+Logo, é inviável o conhecimento do presente apelo especial no que tange à tese de afronta ao art. 42 do Decreto n. 2.181/1997.
+Por fim, em relação à suposta ofensa ao art. 26 da Lei n. 9.784/1999, o dissídio jurisprudencial viabilizador do recurso especial, pela alínea "c" do permissivo constitucional, não foi demonstrado nos moldes legais, pois não ficou evidenciada a similitude fática e jurídica entre os casos colacionados que teriam recebido interpretação divergente pela jurisprudência pátria.
+Para a caracterização da divergência, nos termos do art. 1.029, § 1º, do CPC e do art. 255, §§ 1º e 2º, do RISTJ, exige-se, além da transcrição de acórdãos tidos por discordantes, a realização do cotejo analítico do dissídio jurisprudencial invocado, com a necessária demonstração de similitude fática entre o aresto impugnado e os acórdãos paradigmas, assim como a presença de soluções jurídicas diversas para a situação, sendo insuficiente, para tanto, a simples transcrição de ementas, como no caso.
+Nesse sentido, cito precedentes: A gInt no AREsp n. 1.235.867/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 17/5/2018, DJe de 24/5/2018; AgInt no AREsp n. 1.109.608/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 13/3/2018, DJe de 19/3/2018; REsp n. 1.717.512/AL, relator Ministro Herman Benjamin, Segunda Turma, julgado em 17/4/2018, DJe de 23/5/2018.
+Outrossim, "não se admite como paradigma para comprovar eventual dissídio, acórdão proferido em "habeas corpus", mandado de segurança, recurso ordinário em "habeas corpus", recurso ordinário em mandado de segurança e conflito de competência" (AgRg no AREsp n. 830.977/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 19/12/2018).
+No caso, a parte recorrente trouxe um mandado de segurança a título de acórdão paradigma, esbarrando no óbice do entendimento supracitado.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
