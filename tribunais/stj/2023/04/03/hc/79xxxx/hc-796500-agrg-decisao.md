@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se  de  agravo  regimental  interposto  por  THIAGO  HUDSON  ALAMINOS  SILVA  contra  decisão  monocrática  de  minha  lavra  que  não  conheceu  do  habeas  corpus  impetrado  em  seu  favor,  em  que  se  pleiteou  o  afastamento  da  falta  grave  (e-STJ,  fls.  156/158).
+Neste  recurso,  a  defesa  sustenta  que  o  presente  writ  não  é  repetição  do  HC  conexo  n.  694.172,  porque  são  diversos  os  fundamentos  de  direito.  Enquanto  que,  no  conexo,  tratou-se  principalmente  da  ausência  de  oitiva  do  Paciente  em  Juízo  previamente  ao  reconhecimento  e  homologação  da  prática  de  falta  grave,  bem  como  da  possibilidade  de  que  fosse  reconhecida  a  prática  de  falta  média,  es te  versa  a  respeito  da  impossibilidade  da  condenação  fundada  tão  somente  na  palavra  de  agentes  estatais  que  não  apresentam  respaldo  em  qualquer  outra  prova.
+Aduz  que  as  declarações  dos  agentes  alegavam  recebimento  de  denúncias  apócrifas,  tendo  sido  dado  mais  valor  aos  depoimentos  dos  policiais,  desamparados  de  qualquer  outro  elemento  de  prova,  ressaltando,  ainda,  que  eles  nem  mesmo  foram  testemunhas  oculares  dos  fatos  apurados.
+Em  vista  do  exposto,  requer  a  reconsideração  da  decisão  agravada  ou  que  o  feito  seja  submetido  a  julgamento  perante  a  Quinta  Turma  desta  Corte  (conhecimento  e  provimento).
+É  o  relatório. Decido.
+O presente recurso não pode ser conhecido, porque representa mera reiteração do Agravo Regimental n. 202300253415, com identidade de partes, de causa de pedir e pedido.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO. MATERIALIDADE DELITIVA. VÍNCULO DE ESTABILIDADE E PERMANÊNCIA. REITERAÇÃO DE RECURSO ANTERIOR. COISA JULGADA. AUSÊNCIA DE ILEGALIDADE. HIPÓTESE QUE NÃO AUTORIZA HABEAS CORPUS DE OFÍCIO. AGRAVO REGIMENTAL IMPROVIDO.
+1. Verificando-se que a pretensão posta neste writ é mera reiteração das questões já apreciadas no AgRg no AREsp n. 1.907.641 - MG (2021/0184136-9), conexo a este, as alegações defensivas não podem ser novamente apreciadas, sob pena de ofensa à coisa julgada.
+2. "Nos termos do art. 654, § 2.º, do Código de Processo Penal, o habeas corpus de ofício é deferido por iniciativa dos tribunais quando detectarem ilegalidade flagrante. No caso, não se verifica tal requisito, tendo em vista que esta Corte analisou pleito idêntico deduzido em favor do Agravante  .. ". (AgRg no HC n. 744.071/PB, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 21/6/2022, DJe de 27/6/2022) 3. Agravo regimental improvido.
+(AgRg no HC n. 742.016/MG, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 25/10/2022, DJe de 28/10/2022.)
+Ante o exposto, não conheço do presente agravo regimental.
+Intimem-se.
