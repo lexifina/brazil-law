@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por FLAVIO HENRIQUE SANTOS - ADVOCACIA E CONSULTORIA à decisão desta relatoria (e-STJ, fls. 1.296-1.301) assim ementada:
+AGRAVO EM RECURSO ESPECIAL. APELAÇÃO. AÇÃO DE COBRANÇA. ALEGAÇÃO DE VIOLAÇÃO DE DISPOSITIVOS CONSTITUCIONAIS. MATÉRIA AFETA À COMPETÊNCIA DO STF. NECESSIDADE DE PRODUÇÃO DE PROVA TESTEMUNHAL. SÚMULA 7/STJ. OMISSÃO. IMPERTINÊNCIA DO DISPOSITIVO LEGAL APONTADO COMO VIOLADO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. SUFICIÊNCIA DO ACERVO PROBATÓRIO PARA RECONHECER A EXISTÊNCIA DE DÍVIDA. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS 5 E 7/STJ, POR AMBAS AS ALÍNEAS DO PERMISSIVO CONSTITUCIONAL. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Alega o embargante a ocorrência de omissão, sustentando a competência do Superior Tribunal de Justiça em analisar à tese de violação do art. 5.º, LV, da Constituição Federal, afronta a garantia constitucional do contraditório e da ampla defesa, uma vez que a matéria tem natureza infraconstitucional.
+Assevera, ainda, que o decisum não abordou as razões do apelo excepcional no tocante a violação do art. 476 do Código Civil, apresentadas sob o argumento de que "a simples existência de contrato não gera presunção em favor da AGRAVADA, que necessita, além de exibir a nota fiscal atinente ao serviço, trazer à baila a prova da sua efetiva prestação" (e-STJ, fl. 471).
+Foi apresentada impugnação, com pedido de aplicação de multa (e-STJ, fls. 476-481).
+Brevemente relatado, decido.
+De início, é preciso ponderar que os embargos de declaração possuem índole particular e fundamentação vinculada, cujo objetivo é o esclarecimento do verdadeiro sentido de uma decisão eivada de obscuridade, contradição ou omissão (art. 1.022 do CPC/2015), não possuindo natureza de efeito modificativo.
+Com efeito, a decisão embargada foi fundamentada no sentido de que "Não cabe ao Superior Tribunal de Justiça, em recurso especial, a análise de ofensa a dispositivos constitucionais, cuja competência é do Supremo Tribunal Federal, consoante o disposto no artigo 102 da Constituição Federal" (AgInt no REsp 1.933.028/SP, Relator Ministro Ricardo Villas Bôas Cueva, DJe 30/9/2021).
+Ademais, convém esclarecer, que a questão da suposta afronta aos princípios do contraditório e da ampla defesa, só possível de cognição pelo STJ se a insurgência for apresentada com base na violação de normas infraconstitucionais, o que não ocorreu na espécie.
+Além disso, destacou-se não ser possível infirmar o entendimento alcançado pelo acórdão recorrido, com base nos elementos de convicção juntados aos autos, a fim de se concluir pela imprescindibilidade da produção da prova testemunhal, tal como busca o insurgente, pois esbarraria no enunciado n. 7 da Súmula desta Corte.
+Em relação à tese de negativa de vigência ao art. 487 do CPC/2015, restou consignado a incidência, por analogia, do enunciado da Súmula 284 do STF, segundo o qual "é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Isso, porque o mencionado dispositivo de lei tido como violado, revela-se inadequado para a solução da controvérsia, uma vez que não tem comando normativo suficiente para infirmar o acórdão combatido.
+Portanto, ao analisar as questões aduzidas no recurso especial, esta Corte Superior julgou de forma clara e fundamentada, sem incorrer nos vícios de obscuridade, contradição ou omissão com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+Observa-se, ademais, que a parte embargante, na verdade, busca a rediscussão da matéria já decidida , o que não autoriza o manejo dos aclaratórios.
+A propósito:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PREVIDÊNCIA COMPLEMENTAR. RESTITUIÇÃO DE CONTRIBUIÇÕES INDEVIDAS. PRESCRIÇÃO DECENAL. SÚMULA N. 168 DO STJ. OMISSÕES. AUSÊNCIA. MERO INCONFORMISMO. ACLARATÓRIOS REJEITADOS.
+1. Os embargos de declaração são cabíveis somente quando houver na decisão obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+2. No caso, não se constatam os vícios alegados pela parte embargante, que busca rediscutir matéria devidamente examinada no acórdão embargado, o que é incabível nesta via.
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt nos EREsp n. 1.803.627/SP, Relator Ministro ANTONIO CARLOS FERREIRA, SEGUNDA SEÇÃO, julgado em 19/10/2021, DJe 3/11/2021).
+Evidente, portanto, a impossibilidade de acolhimento dos presentes declaratórios, porquanto devidamente motivada a decisão, além de não ter sido demonstrada a ocorrência de nenhuma das hipóteses do art. 1.022 do Código de Processo Civil de 2015.
+No que diz ao pedido da embargada de aplicação da penalidade prevista no § 2º do art. 1.026 do CPC/2015, constata-se que não está configurado o manifesto intuito protelatório capaz de ensejar a aplicação da sanção, pois o mero inconformismo com a decisão embargada não enseja a necessária imposição da sanção.
+Ilustrativamente:
+PROCESSUAL CIVIL. CIVIL. REINTEGRAÇÃO DE POSSE. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E IMPROVIDO. EMBARGOS DE DIVERGÊNCIA. INCIDÊNCIA DO ENUNCIADO N. 315 DA SÚMULA DO STJ. EMBARGOS LIMINARMENTE INDEFERIDOS. EMBARGOS DE DECLARAÇÃO. ERRO MATERIAL NO ACÓRDÃO. INEXISTÊNCIA DE OMISSÃO.
+(..)
+II - Não deve ser acolhido o requerimento para que seja imposta a multa prevista no § 2º do art. 1.026 do Código de Processo Civil de 2015, eis que o mero inconformismo com a decisão embargada não enseja a necessária imposição da sanção, quando não configurado o caráter manifestamente protelatório dos embargos de declaração.
+III - Embargos de declaração parcialmente acolhidos para suprir omissão no acórdão, sem efeitos modificativos.
+(EDcl no AgInt nos EAREsp 635.823/TO, Rel. Ministro FRANCISCO FALCÃO, CORTE ESPECIAL, julgado em 21/02/2018, DJe 28/02/2018)
+No caso, contudo, não há como considerar abusivo ou protelatório o exercício do direito de recorrer da então embargante, com a oposição dos embargos de declaração, razão pela qual rejeito o pedido de cominação de multa.
+Ante o exposto, rejeito os embargos de declaração.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. INEXISTÊNCIA. NÍTIDA PRETENSÃO DE REJULGAMENTO DO RECURSO. IMPOSSIBILIDADE. APLICAÇÃO DE MULTA. AUSÊNCIA DE CARÁTER PROTELATÓRIO. NÃO CABIMENTO NA HIPÓTESE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
