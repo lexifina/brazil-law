@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo em face de decisão que inadmitiu recurso especial interposto por AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S.A., com fundamentado no art. 105, III, a, da Constituição Federal, em desafio a acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+APELAÇÃO CÍVEL. Plano de saúde. Pedido de cobertura de despesas médico-hospitalares. Ré que não logrou êxito em comprovar que conta com rede credenciada apta, na cidade em que reside a autora, para realizar cirurgia de joelho. Falha no serviço evidenciada. Cobertura integral determinada. Dano moral. Inocorrência. Mero Inadimplemento contratual. Recurso parcialmente provido.
+Nas razões do recurso especial, a parte recorrente alega ofensa ao art. 12, VI, da Lei n. 9.656/98. Sustenta, em síntese, que as despesas havidas fora da rede credenciadas devem ser reembolsadas de acordo com a tabela contratada junto à operadora e não de forma integral, como realizado pelo Tribunal de Justiça de São Paulo.
+É o relatório. Decido.
+A irresignação não merece prosperar.
+A Corte de origem, analisando as circunstâncias do caso, decidiu pelo reembolso integral das despesas, consignando que não restou comprovada a existência de profissional da rede credenciada apto a realizar o procedimento cirúrgico no município de Santos, como se infere do trecho abaixo transcrito:
+Restou incontroverso nos autos o fato de que o médico por questões administrativas não poderia operar pelo plano de saúde.
+A autora recebeu o valor dos honorários, bem como a prévia de reembolso, como se vislumbra dos documentos de fls. 47 e seguintes, de onde se observa que tomou ciência de que não tinha direito a cobertura integral pelo plano de saúde.
+Todavia, ao entrar em contato com a ré não obteve resposta em relação à existência de rede credenciada apta para realizar o procedimento.
+E, com a devida vênia, o ônus de comprovar a existência de profissional apto credenciado é da ré e não da autora, como asseverado na r. sentença.
+Através do relatório médico acostado aos autos, vislumbra-se que a autora está sofrendo de fortes dores no joelho e ainda sem qualquer resposta do plano de saúde em relação à rede credenciada na cidade em que reside.
+A autora solicitou o encaminhamento formal da pesquisa de existência de especialistas em cirurgia de joelhos na região de Santos e a ré encaminhou documento que comprova a inexistência de profissional no Município ou em cidades limítrofes (doc. 10 fls. 53).
+Assim, comprovada a falha na prestação do serviço, fica a ré condenada a arcar integralmente com a cobertura do procedimento cirúrgico de remoção do parafuso, nos moldes do pedido médico.
+Tal conclusão está de acordo com a jurisprudência desta Corte, como se infere do recente julgado da eg. Quarta Turma:
+RECURSO ESPECIAL - PLANO DE SAÚDE - INDISPONIBILIDADE DE PRESTADOR DE SERVIÇO CREDENCIADO NA ÁREA DE ABRANGÊNCIA - OPERADORA QUE DESCUMPRE O DEVER DE GARANTIR O ATENDIMENTO NO MESMO MUNICÍPIO, AINDA QUE POR PRESTADOR NÃO INTEGRANTE DA REDE ASSISTENCIAL - INSTÂNCIAS ORDINÁRIAS QUE ESTABELECERAM O DEVER DE REEMBOLSO INTEGRAL, PORÉM NO PRAZO DE 72 HORAS.
+Hipótese: Controvérsia afeta à possibilidade de considerar cumprida a obrigação do plano de garantir acesso do beneficiário aos serviços e procedimentos para atendimento das coberturas, na hipótese de indisponibilidade de prestador de serviço credenciado no município de abrangência do plano, quando existir nosocômio credenciado em município limítrofe.
+1. Nos termos da Resolução Normativa nº 259/2011 da ANS, em caso de indisponibilidade de prestador credenciado da rede assistencial que ofereça o serviço ou procedimento demandado, no município pertencente à área geográfica de abrangência e à área de atuação do produto, a operadora deverá garantir o atendimento, preferencialmente, no âmbito do mesmo município, ainda que por prestador não integrante da rede assistencial da operadora do plano de saúde, cujo pagamento se dará mediante acordo entre as partes (operadora do plano e prestador).
+1.1 Somente em caso de inexistência de prestador não integrante da rede assistencial no mesmo município é que será devido o atendimento em município limítrofe.
+2. No caso, deixou a operadora de indicar profissional/nosocômio apto a proceder ao atendimento da autora no mesmo município de abrangência, bem como não autorizou o tratamento da demandante em prestador não integrante da rede assistencial no mesmo município, de modo que abusiva a negativa de custeio.
+2.1 Seja em razão da primazia do atendimento no município pertencente à área geográfica de abrangência, ainda que por prestador não integrante da rede credenciada, seja em virtude da não indicação pela operadora de prestador junto ao qual tenha firmado acordo, bem como diante da impossibilidade de a parte autora se locomover a município limítrofe, afigura-se devido o reembolso integral das despesas realizadas, no prazo de 30 (trinta) dias, contado da data da solicitação de reembolso, conforme previsão expressa do artigo 9º da RN nº 259/11 da ANS.
+3. Recurso especial provido, em parte, apenas para estabelecer o prazo de reembolso em 30 dias.
+(REsp n. 1.842.475/SP, relator Ministro Luis Felipe Salomão, relator para acórdão Ministro Marco Buzzi, Quarta Turma, julgado em 27/9/2022, DJe de 16/2/2023.)
+Nesse contexto, estando a decisão de acordo com a jurisprudência desta Corte, o recurso especial encontra óbice na Súmula 83/STJ.
+Com essas considerações, conclui-se que o recurso não merece prosperar.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do CPC/2015, majoro os honorários de R$1.500,00 (mil e quinhentos reais) para R$1.650,00 (mil seiscentos e cinquenta reais).
+Publique-se.
