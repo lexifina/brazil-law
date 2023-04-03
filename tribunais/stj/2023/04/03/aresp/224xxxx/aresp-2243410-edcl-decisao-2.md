@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de embargos de declaração (e-STJ fls. 346/353) opostos à decisão desta relatoria que conheceu do agravo e deu parcial provimento ao recurso especial (e-STJ fls. 325/327).
+A parte embargante sustenta haver contradição na decisão embargada, consistente no fato de ter sido aplicada a Súmula n. 7/STJ no referente à inexistência de litispendência e, em seguida, haver-se concluído que "a propositura da ação de busca e apreensão exclui o emprego da execução, em face do que estatui o art. 5º do Decreto-Lei nº 911, de 1.10.1969" (REsp n. 210.622/SC, relator Ministro Barros Monteiro, Quarta Turma, julgado em 11/11/2003, DJ de 16/2/2004, p. 255).
+Impugnação não apresentada.
+É o relatório.
+Decido.
+Os embargos têm por objeto a decisão monocrática de fls. 325/327 (e-STJ), cuja publicação ocorreu em 23/2/2023.
+O prazo recursal de 5 (cinco) dias úteis, iniciado em 24/2/2023, encerrou-se, portanto, em 2/3/2023, conforme certidão à fl. 354 (e-STJ).
+A embargante protocolizou a petição de embargos no dia 2/3/2023, a qual foi equivocadamente vinculada a outro processo, o AREsp n. 2.241.958/RS, conforme noticia a Petição Eletrônica (PET) n. 0160155/2023.
+A despeito da alegação de erro do sistema, ocasionado por suposta "queda de energia", que teria ensejado a juntada do recurso a processo diverso, a embargante não o comprova, deixando de cumprir ônus que lhe cabe (AgRg no AREsp n. 500.977/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 13/10/2015, DJe de 20/10/2015).
+A incorreção verificada no endereçamento da petição de embargos de declaração, erroneamente dirigida ao Ministro Raul Araújo, relator do AREsp n. 2.241.958/RS, evidencia ainda a existência de falha atribuível exclusivamente à própria embargante.
+Ademais, uma vez notada a protocolização dos embargos de declaração nos autos de outro processo, referido equívoco somente foi corrigido em 7/3/2023, data de protocolo da PET n. 0160155/2023 e dos embargos de declaração ora analisados (PET n. 0161013/2023).
+Acerca da questão, "a jurisprudência desta Corte Superior é firme no sentido de atribuir à parte a responsabilidade pela observância do procedimento para apresentação de recursos e petições perante os tribunais, considerando intempestiva a insurgência que, protocolada equivocadamente em outro processo, vem a ser juntada aos autos corretos fora do prazo legal" (excerto do voto condutor do acórdão prolatado nos EDcl no AgInt nos EDcl no AREsp n. 1.855.557/PR, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/6/2022, DJe de 15/6/2022).
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ERRO NA VINCULAÇÃO DA PETIÇÃO, CORRIGIDO SOMENTE APÓS O TRÂNSITO EM JULGADO. INTEMPESTIVIDADE. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS.
+1. Conquanto tenham por objeto o acórdão do agravo interno proferido pela Terceira Turma nestes autos, os presentes embargos de declaração foram erroneamente vinculados pelos embargantes, no momento da interposição, ao AREsp n. 1.774.369/PR. Constatado o erro, a petição recursal foi desentranhada daqueles autos e juntada a este processo, formando-se o presente expediente avulso.
+2. Em casos como o dos autos, a tempestividade há de ser aferida não pela data da protocolização do recurso, mas, sim, pela data da juntada da petição recursal no processo ao qual verdadeiramente vinculada, devendo a parte arcar com as consequências do equívoco de endereçamento por ela próprio cometido.
+3. Publicado que foi o acórdão do agravo interno em 28/10/2021, o prazo para os embargos teve início em 3/11/2021 e se encerrou em 9/11/2021. Conquanto protocolizada a petição dos declaratórios em 5/11/2021, foi ela indevidamente endereçada pelos embargantes a processo diverso (AREsp n. 1.774.369/PR), tendo sido juntada aos presentes autos, após descoberto o equívoco, apenas em 3/5/2022, revelando-se, assim, a sua manifesta intempestividade.
+4. Embargos de declaração não conhecidos.
+(EDcl no AgInt nos EDcl no AREsp n. 1.855.557/PR, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/6/2022, DJe de 15/6/2022.)
+AGRAVO INTERNO NA PETIÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PROTOCOLIZAÇÃO, POR ERRO DA PARTE, DE EMBARGOS DE DECLARAÇÃO EM PROCESSO ELETRÔNICO DISTINTO. INTEMPESTIVIDADE DA APRESENTAÇÃO NOS AUTOS CORRESPONDENTES. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. É intempestivo recurso juntado aos autos de processo eletrônico fora do prazo legal, quando equivocadamente peticionado pela parte em processo distinto, porque o peticionamento exclusivamente eletrônico, obrigatório nesta Corte, impõe ao usuário a responsabilidade pela conformidade dos dados da petição e do formulário eletrônico de interposição, nos termos dos arts. 10 e 14, II, da Resolução STJ/GP n. 10/2015.
+2. Agravo interno a que se nega provimento.
+(AgInt na PET no AREsp n. 1.537.168/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 1/6/2020, DJe de 15/6/2020.)
+Tendo em vista que o prazo p ara a oposição de embargos à decisão de fls. 325/327 (e-STJ) findou em 2/3/2023 e que os aclaratórios somente foram juntados a estes autos em 7/3/2023  porquanto anteriormente protocolizados por equívoco nos autos de outro processo  , cumpre declarar sua intempestividade.
+Em face do exposto, NÃO CONHEÇO dos embargos de declaração de fls. 346/353 (e-STJ).
+Publique-se e intimem-se.
