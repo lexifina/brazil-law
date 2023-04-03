@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/03/2023 a 03/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MI NISTRO MARCO BUZZI (Relator):
+Trata-se de agravo interno interposto por contra decisão monocrática de fls. 805/807 (e-STJ), a qual negou provimento ao recurso especial interposto pela parte ora recorrente.
+O apelo extremo, fundamentado na alínea "a" do permissivo constitucional, desafiou, a seu turno, acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+APELAÇÃO CÍVEL. DIREITO EMPRESARIAL. PRETENSÃO DE EXCLUSÃO COMPULSÓRIA DE SÓCIO. SENTENÇA DE IMPROCEDÊNCIA DOS PEDIDOS AUTORAL E RECONVENCIONAL. IRRESIGNAÇÃO DE AMBAS AS PARTES. ALEGAÇÃO DE QUE O AUTOR DA AÇÃO PRINCIPAL NÃO CUMPRIU SUA PRINCIPAL OBRIGAÇÃO, QUAL SEJA, INTEGRALIZAR AS QUOTAS SOCIAIS, QUE NÃO JUSTIFICA SUA EXCLUSÃO DA SOCIEDADE EIS QUE JÁ DE CONHECIMENTO E APROVAÇÃO DO OUTRO SÓCIO, DESDE O INÍCIO DA SOCIEDADE. AUTOR E RÉU QUE TIVERAM CIÊNCIA DAS CONDIÇÕES DA SOCIEDADE NO MOMENTO DA SUA FORMAÇÃO. FATOS ALEGADOS NO RECURSO ADESIVO QUE NÃO RESTARAM COMPROVADOS, TRATANDO-SE, COMO RESSALTADO NA R. SENTENÇA, DE MERAS ALEGAÇÕES. ADEMAIS, AINDA QUE HAJA INDÍCIOS DE QUEBRA DE AFFECTIO SOCIETATIS, A EXCLUSÃO COMPULSÓRIA DE SÓCIO NÃO PRESCINDE DA DEMONSTRAÇÃO DE FALTA GRAVE. CÓDIGO CIVIL, ART. 1.030. SENTENÇA QUE SE MANTÉM. NEGATIVA DE PROVIMENTO AOS RECURSOS.
+Opostos os embargos de declaração, restaram rejeitados (fls. 709/715, e-STJ)
+Em suas razões de recurso especial, a recorrente aponta ofensa aos artigos 489, §1.º, III e IV do CPC e 1.055 e 1.058 do Código Civil.
+Sustenta, em suma:
+a) a impossibilidade de integralização do capital social nas sociedades limitadas apenas com a prestação de serviços;
+b) que a não integralização do capital social na sociedade limitada é considerada falta grave passível de levar a exclusão do sócio remisso;
+c) negativa de prestação jurisdicional.
+Contrarrazões apresentadas.
+Em juízo de admissibilidade, negou-se o processamento do recurso especial, o que justificou a interposição do presente reclamo.
+Contraminuta apresenta pela parte adversa.
+Por decisão monocrática (fls. 805/807, e-STJ), este signatário negou provimento ao recurso especial ante a ausência de negativa de prestação jurisdicional e por não estarem prequestionados os dispositivos tido por violados.
+Em suas razões de agravo interno (fls. 810/821, e-STJ), a recorrente refuta os fundamentos em que se lastreou o decisum hostilizado, oportunidade em que reafirma os argumentos deduzidos no apelo nobre.
+Impugnação às fls. 823/831, e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE DISSOLUÇÃO PARCIAL DE SOCIEDADE COM PEDIDO DE EXCLUSÃO DE SÓCIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA DO DEMANDADO.
+1. A Corte de origem dirimiu a matéria submetida à sua apreciação, manifestando-se expressamente acerca dos temas necessários à integral solução da lide, de modo que, ausente qualquer omissão, contradição ou obscuridade no aresto recorrido, não se verifica a ofensa aos artigo 1.022 do CPC/15.
+2. A modificação da conclusão quanto à demonstração de justa causa demandaria o reexame de fatos e provas, o que, em regra, escapa ao conhecimento desta Corte Superior em sede de recurso especial ante o óbice da súmula 7/STJ.
+3. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):
+O presente recurso não merece prosperar, porquanto as razões expendidas pela parte agravante são insuficientes a derruir a fundamentação do decisum ora impugnado, motivo pelo qual ele merece ser mantido ainda que por fundamentos diversos.
+1. Quanto à alegada omissão, suscitando negativa de prestação jurisdicional pela Corte de origem, é sabido, consoante a jurisprudência deste Superior Tribunal de Justiça, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional.
+Destaque-se, por oportuno, que a matéria apontada como omitida foi objeto de expressa manifestação pelo Tribunal local, consoante denotam os seguintes excertos (fl. 694 e-STJ):
+O apelante VICTOR afirma que WANDERSON não cumpriu sua principal obrigação, qual seja, integralizar as quotas sociais, bem como que, de forma temerária, busca afastar da sociedade o sócio responsável por pagamento e administração desta.
+Entretanto, não há como se reconhecer a alegada falta grave.
+Como bem destacado pelo Juízo a quo, o fato de o apelado nunca ter integralizado o capital social na sociedade e nunca tê-la administrado já era de conhecimento e aprovação do apelante desde o início da sociedade, sendo certo que tanto o autor, quanto o réu, tiveram ciência das condições da sociedade no momento da sua formação.
+Como se vê, o órgão julgador apreciou as teses apresentadas pela parte recorrente, inclusive as apontadas como omissas nas razões recursais, em conjunto com o acervo probatório dos autos, em decisão suficientemente fundamentada, porém em sentido contrário ao pretendido pelo insurgente, o que não configura negativa de prestação jurisdicional ou deficiência de fundamentação. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO COMINATÓRIA CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. FUNDAMENTAÇÃO E OMISSÃO NÃO CONSTATADAS. 2. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. 3. CARÁTER PROTELATÓRIO DOS EMBARGOS DE DECLARAÇÃO. APLICAÇÃO DE MULTA DO ART. 1.026, § 2º, DO CPC/2015 PELO TRIBUNAL LOCAL. POSSIBILIDADE. SÚMULA 83/STJ. 4. AGRAVO IMPROVIDO. 1. Não ficou caracterizada a violação dos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.  ..  4. Agravo interno a que se nega provimento. (AgInt no AREsp 1.263.748/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 07/08/2018, DJe 13/08/2018)  grifou-se
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DA DEMANDADA. 1. As questões trazidas à discussão foram dirimidas pelo órgão julgador de forma suficientemente ampla, fundamentada e sem omissões ou contradições, portanto, deve ser afastada a alegada violação ao artigo 1.022 do CPC/15. Consoante entendimento desta Corte, não importa negativa de prestação jurisdicional o acórdão que adota para a resolução da causa fundamentação suficiente, porém diversa da pretendida pelo recorrente, decidindo de modo integral a controvérsia posta, como ocorre na hipótese. Precedentes.  ..  3. Agravo interno desprovido. (AgInt no REsp 1.669.141/MG, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 26/06/2018, DJe 01/08/2018)  grifou-se
+Na mesma linha, precedentes: AgRg no REsp 1291104/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 17/05/2016, DJe 02/06/2016; AgRg no Ag 1252154/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 23/06/2015, DJe 30/06/2015; REsp 1395221/SP, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 05/09/2013, DJe 17/09/2013.
+Ressalta-se que não há falar em deficiência de fundamentação do julgado quando não acolhida a tese ventilada pela recorrente, mormente se o acórdão abordar todos os pontos relevantes ao deslinde da controvérsia.
+2. Extrai-se do acórdão recorrido que a presente ação de exclusão judicial de sócio teve sua improcedência confirmada, sob o fundamento de que não houve a comprovação de ocorrência de falta grave. In verbis:
+Entretanto, não há como se reconhecer a alegada falta grave.
+Como bem destacado pelo Juízo a quo, o fato de o apelado nunca ter integralizado o capital social na sociedade e nunca tê-la administrado já era de conhecimento e aprovação do apelante desde o início da sociedade, sendo certo que tanto o autor, quanto o réu, tiveram ciência das condições da sociedade no momento da sua formação.
+Já WANDERSON, em suas razões recursais, afirma que VICTOR cometeu, sim, graves faltas que ensejam o rompimento do vínculo societário entre as partes, destacando que este o aceitou como sócio, tendo os mesmos direitos daquele. Ressalta o fato de a empresa seencontrar inativa, não produzindo, tendo dívidas trabalhistas, pois não foram cumpridas as obrigações trabalhistas com seus funcionários, além de ele ter realizado retiradas irregulares, bem como que, de forma temerária em relação à empresa e seu patrimônio, tentou tomar, literalmente, de assalto a empresa e seus bens. Por fim, alega que VICTOR, acompanhando de diversos "capangas", inclusive um criminoso procurado, invadiu e furtou objetos no endereço do Apelado, antiga sede da empresa que hoje se encontracom suas atividades paralisadas e se encontra respondendo inquérito policial.
+Ocorre que, em que pese serem graves os fatos alegados por WANDERSON, estes não foram comprovados, tratando-se, como ressaltado na r. sentença, de meras alegações. Assevere-se que, em não havendo concordância do sócio que se pretende excluir, ainda que haja fortes indícios de quebra de affectio societatis, não demonstrada a falta grave, não é possível a exclusão compulsória.
+Verifica-se do trecho transcrito que a questão da configuração de justa causa foi decida com esteio no contexto fático-probatório. Desse modo, a modificação da conclusão quanto à demonstração de justa causa demandaria o reexame de fatos e provas, o que, em regra, escapa ao conhecimento desta Corte Superior em sede de recurso especial (Súmula 7 do STJ).
+Ademais, é assente na jurisprudência desta Corte Superior que, por se tratar de liame originário da relação contratual dos sócios e necessário à manutenção do vínculo social, a ausência superveniente da affectio societatis é suficiente para fundamentar pedidos de retirada de sócio, mas não para lhe impor a exclusão. Para tanto, seja pela via administrativa, seja pela via judicial, faz-se imprescindível a comprovação de justa causa, de gravidade significativa e que coloque em risco a própria continuidade da atividade. Nesse sentido:
+CIVIL E COMERCIAL. RECURSO ESPECIAL. DISSOLUÇÃO PARCIAL DE SOCIEDADE. EXCLUSÃO DE SÓCIO. QUEBRA DA AFFECTIO SOCIETATIS. INSUFICIÊNCIA.
+1. A ausência de decisão sobre o dispositivo legal supostamente violado, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial. Incidência da Súmula 211/STJ.
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. Deficiência de fundamentação do recurso. Incidência da Súmula 284/STF.
+4. Inexiste ofensa ao art. 535 do CPC, quando o tribunal de origem pronuncia-se de forma clara e precisa sobre a questão posta nos autos.
+5. Para exclusão judicial de sócio, não basta a alegação de quebra da affectio societatis, mas a demonstração de justa causa, ou seja, dos motivos que ocasionaram essa quebra.
+6. Recurso especial a que se nega provimento.
+(REsp n. 1.129.222/PR, relatora Min. NANCY ANDRIGHI, Terceira Turma, julgado em 28/6/2011, DJe de 1/8/2011, g.n..)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DISSOLUÇÃO PARCIAL DA SOCIEDADE C/C EXCLUSÃO DE SÓCIOS MINORITÁRIOS - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECURSO. INSURGÊNCIA DAS AGRAVANTES.
+1. Na espécie, o Tribunal de origem concluiu que, para exclusão judicial de sócio, não basta a alegação de quebra da affectio societatis, mas a demonstração de justa causa, ou seja, dos motivos que ocasionaram essa quebra.
+1.1. O acórdão recorrido que adota a orientação firmada pela jurisprudência do STJ no sentido de ser necessária a demonstração de justa causa na hipótese de ação de dissolução de sociedade, promovida pelos sócios majoritários, para excluir de sociedade anônima fechada, de caráter familiar, sócio minoritário que se opõe à exclusão. Aplica-se, na hipótese, a Súmula 83 do STJ. Precedentes.
+1.2. Além disso, é inviável ao Superior Tribunal de Justiça rever a conclusão do órgão julgador acerca da ausência da demonstração da justa causa e a quebra da affectio societatis entre os sócios, pois demandaria o exame do contexto fático-probatório dos autos, atraindo o óbice da Súmula 7/STJ. Precedente.
+2. Agravo interno desprovido.
+(AgInt no AREsp n. 557.192/MS, relator Min. MARCO BUZZI, Quarta Turma, julgado em 18/9/2018, DJe de 25/9/2018, g.n.)
+Assim, o acórdão ora recorrido está em harmonia com o entendimento pacífico do Superior Tribunal de Justiça, o que atrai a incidência da Súmula 83/STJ.
+De rigor, portanto, a manutenção da decisão ora impugnada.
+3. Ante o exposto, nega-se provimento ao agravo interno.
+É como voto.
