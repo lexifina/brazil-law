@@ -1,0 +1,87 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial por ausência de violação dos arts. 98, 99, §§ 2º e 3º, 300, § 3º, e 828 do CPC/2015 e incidência da Súmula n. 7 do STJ (e-STJ fls. 90/92).
+O acórdão recorrido está assim ementado (e-STJ fl. 58):
+AGRAVO DE INSTRUMENTO. Ação monitória.
+Decisão que deferiu o pedido de tutela de urgência para determinar a averbação no registro de imóveis. Insurgência dos réus.
+Gratuidade recursal indeferida. Documentos que não comprovam a hipossuficiência financeira.
+Certidão de averbação premonitória. Aplicação do art. 828,CPC aos processos de conhecimento.
+Requisitos do art. 300 do CPC presentes. Atos de dilapidação do patrimônio constatados. Risco ao resultado útil do processo.
+Precedentes jurisprudenciais.
+Decisão mantida. Recurso desprovido.
+No recurso especial (e-STJ fls. 66/83), fundamentado no art. 105, III, "a", da CF, os recorrentes alegaram ofensa aos arts. 98, 99, §§ 2º e 3º, e 300, § 3º, do CPC/2015.
+Sustentaram que fazem jus à justiça gratuita, sustentando que "os documentos já acostados aos autos demostram claramente o preenchimento do requisito legal para o deferimento da benesse: insuficiência de recurso" (e-STJ fl. 73).
+Apontaram que, "somente se existir nos autos elementos que evidenciem a falta dos pressupostos legais para a concessão de gratuidade, impõe-se ao magistrado intimar a parte para a apresentação de documentos e, caso ela não comprove os preenchimentos dos pressupostos, indeferir a benesse, por inteligência à segunda parte do § 2º, art. 99 do Código de Processo Civil" (e-STJ fl. 77).
+Insurgiram-se quanto à averbação premonitória realizada em ação monitória, pugnando pelo seu afastamento.
+Afirmaram que, no presente caso, a averbação premonitória pode lhes causar danos irreversíveis e perdas substanciais, além de ter sido concedida de forma errônea devido ao erro procedimental.
+Buscaram a concessão de efeito suspensivo ao recurso.
+Ao final, requereram o deferimento dos benefícios da gratuidade processual.
+Foram apresentadas contrarrazões (e-STJ fls. 86/89).
+No agravo (e-STJ fls. 95/114), afirmam a presença de todos os requisitos de admissibilidade do especial.
+Foi oferecida contraminuta (a-STJ fls. 117/120).
+É o relatório.
+Decido.
+De início, verifica-se que a Corte local não se manifestou quanto ao art. 98, § 2º, segunda parte, do CPC/2015, sob o viés pretendido pela parte recorrente. Dessa forma, não tendo sido objeto de debate no acórdão recorrido e ante a falta de aclaratórios no ponto, a matéria contida em tal dispositivo carece de prequestionamento e sofre, por conseguinte, o empecilho das Súmulas n. 282 e 356 do STF.
+No que concerne à apontada violação do art. 300, § 3º, do CPC, a jurisprudência do STJ não admite a interposição de recurso especial cujo objetivo seja discutir a correção das decisões das instâncias de origem que negam ou deferem medida liminar ou antecipação de tutela, por não se tratar de decisão em única ou última instância. Incide, analogicamente, o enunciado da Súmula n. 735 do STF.
+Ademais, a alteração das conclusões adotadas pela Corte de origem, no sentido de asseverar se estão presentes os requisitos autorizadores da tutela de urgência, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme óbice previsto na Súmula n. 7/STJ. Sobre o tema:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AQUISIÇÃO DE VEÍCULO AUTOMOTOR. VÍCIO REDIBITÓRIO. PAGAMENTO DE IPVA. DECISÃO DE ANTECIPAÇÃO DOS EFEITOS DA TUTELA. REEXAME. IMPOSSIBILIDADE. SÚMULAS 7/STJ E 735/STF.
+1. A jurisprudência deste STJ, à luz do disposto no enunciado da Súmula
+735 do STF, entende que, via de regra, não é cabível recurso especial para
+reexaminar decisão que defere ou indefere liminar ou antecipação de
+tutela, em razão da natureza precária da decisão, sujeita à modificação a
+qualquer tempo, devendo ser confirmada ou revogada pela sentença de
+mérito. Apenas violação direta ao dispositivo legal que disciplina o
+deferimento da medida autorizaria o cabimento do recurso especial, no qual
+não é possível decidir a respeito da interpretação dos preceitos legais
+que dizem respeito ao mérito da causa.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória
+(Súmula 7/STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.075.621/SP, Rel. Ministra MARIA ISABEL GALLOTTI,
+QUARTA TURMA, julgado em 15/03/2018, DJe 20/03/2018.)
+O Tribunal de origem, com base nos fatos e nas provas dos autos, entendeu pela manutenção da decisão agravada, assim consignando (e-STJ fls. 59/63):
+Inicialmente, registra-se que os agravantes pedem a concessão do benefício da justiça gratuita. A decisão agravada não decidiu sobre tal matéria, motivo pelo qual o pleito formulado deve ser interpretado somente em relação à gratuidade recursal, que fica indeferida em razão da insuficiência probatória dos documentos de fls. 41/47.
+No mérito, a questão se resume à possibilidade de expedição de certidão de averbação premonitória na fase de conhecimento de ação monitória.
+A demanda foi proposta com base em Cédula de Crédito Bancário em nome de PSP Digital Gráfica e Editora Ltda e assinada por Mario Sergio dos Santos, representante da pessoa jurídica e devedor solidário da dívida. O Banco Itaú S/A obteve a autorização para averbar a ação monitória no registro de imóveis devido ao receio da prática de atos de dilapidação do patrimônio, que poderiam frustrar o objetivo da demanda.
+Os recorrentes alegam ser inviável a aplicação do art. 828, CPC às ações de conhecimento, pois integra o Título II do referido diploma legal, que tratadas espécies de execução. Veja-se o dispositivo:
+"O exequente poderá obter certidão de que a execução foi admitida pelo juiz, com identificação das partes e do valor da causa, para fins de averbação no registro de imóveis, de veículos ou de outros bens sujeitos a penhora, arresto ou indisponibilidade".
+Em que pese o tratamento dado pelo art. 828, CPC ao direito de averbação, considerando-o como um direito próprio do exequente na ação de execução, tem-se admitido a aplicação deste dispositivo nos processos de conhecimento, desde que presentes elementos que justifiquem tal medida.
+A averbação no registro de imóveis visa a garantir o direito do credor por meio da publicitação da ação judicial em trâmite. Tal medida é eficaz para evitar atos de dilapidação do patrimônio por parte do devedor, assegurando, ainda, que eventuais terceiros adquirentes possam ter ciência da situação que envolve o bem imóvel.
+Trata-se de medida excepcional ao rito comum que somente pode ser deferida se presentes os requisitos para a concessão da tutela de urgência, previstos no art. 300, CPC.
+Isso porque o processo de conhecimento comporta discussão a respeito da dívida alegada. A documentação trazida pelo credor não é dotada de força executiva, ao contrário do que ocorre com os títulos executivos nas ações de execução.
+Assim, a cautela aplicada à concessão de tutela de urgência deve ser empregada no deferimento de expedição de certidão de averbação premonitória em fase de conhecimento. É preciso considerar que o devedor não pode ser submetido a medidas que dificultem atos de livre disposição de seu patrimônio sem motivos coerentes que a justifiquem.
+No presente caso, a medida foi deferida antes mesmo da citação, em caráter de urgência, tendo em vista que o Juízo de Origem observou corretamente a presença dos requisitos do art. 300, CPC.
+O banco anexou à petição inicial a planilha de cálculos e a cópia do contrato, demonstrando a existência da Cédula de Crédito Bancário nº 884694862969, sob o agrupamento nº. 88469486296920280, no valor de R$ 740.764,32,a ser pago em 60 parcelas mensais e consecutivas.
+Apesar da ausência da via original do contrato, verifica-se que a cópia do negócio jurídico está devidamente rubricada e assinada por Mario Sergio dos Santos (fls. 40/41 dos autos originários), gerando uma presunção de verossimilhança das alegações formuladas pelo banco.
+Um dos argumentos trazidos pelos recorrentes no Agravo de Instrumento aponta para a existência de embargos monitórios "com fortes fundamentos a fim de extinguir a presente demanda e impugnar os valores até então apresentados pela parte Agravada" (fl. 08 do recurso). Porém, a fls. 110/111 dos referidos embargos, os réus, ora agravantes, confirmam a assinatura do contrato de empréstimo e o atraso no pagamento das parcelas, contribuindo para a presunção de existência da dívida.
+É certo que, conforme já explicitado, o processo de conhecimento comporta dilação probatória a fim de verificar os fatos e fundamentos apresentados pelas partes. Todavia, em que pese a impugnação dos valores atualizados apresentados pelo banco na planilha de cálculos (fls. 67/77 dos autos originários), a existência do contrato de nº 88469486296920280 mostra-se incontroversa, respaldando o requisito referente à probabilidade do direito alegado, nos termos exigidos pelo art.300, CPC.
+A concessão de tutela de urgência exige ainda a caracterização de perigo de dano ou risco ao resultado útil do processo.
+O autor, ora agravado, apresentou documentos que demonstram a doação de imóveis que antes se encontravam em nome de Mario. O co-réu e sua esposa possuíam três imóveis, que foram por eles doados com reserva de usufruto vitalício, por meio de escrituras datadas de 11/09/2020 e registradas nas matrículas do CRI em 15/10/2020 (fls. 03/04 dos autos originários).
+A cédula de crédito bancário foi assinada em 06/10/2020.
+Analisando as datas do contrato e das escrituras, pode-se concluir que o lapso temporal entre as doações e a assinatura do contrato é inferior a um mês, e o registro das alterações nas matrículas dos imóveis foi realizado logo após a assunção da obrigação perante o Banco Itaú (mais precisamente, nove dias após).
+Os fatos apontados pelo banco na inicial evidenciam, portanto, atos de dilapidação do patrimônio do devedor solidário, iniciados antes mesmo da contratação, permitindo-se concluir pela existência de risco ao resultado útil do processo.
+Considerando o valor total da dívida (R$740.764,32), é certo que somente os bens de alto valor econômico são úteis ao credor para alcançar a restituição da quantia dispendida.
+Diante da existência de um quarto imóvel que continua registrado em nome do co-réu Mario, é razoável a concessão da tutela de urgência pleiteada, antes mesmo da citação, para averbar a ação monitória junto ao registro de imóveis, evitando que, ao tomar conhecimento da demanda, o devedor doe a nua propriedade do bem, da mesma forma que doou os demais imóveis, com o intuito de dilapidar o patrimônio e frustrar o objetivo da demanda, que consiste no pagamento dos valores devidos ao banco.
+Uma vez verificada a presença dos requisitos do art. 300, CPC, não há qualquer ilegalidade na aplicação do art. 828 do mesmo diploma legal em processos de conhecimento, como a ação monitória. Neste sentido a jurisprudência desta E. Corte:
+Agravo de Instrumento. Alienação Fiduciária de imóvel. Ação Declaratória de Nulidade de Atos Jurídicos. Tutela provisória indeferida em Primeiro Grau. Pretensão à averbação premonitória em fase de conhecimento. Possibilidade. Art. 828, CPC. Aplicação subsidiária das regras que regem o processo de execução. Ausência de incompatibilidade. Decisão reformada. Recurso provido.(TJSP; Agravo de Instrumento2089244-13.2017.8.26.0000; Relator (a): Bonilha Filho; Órgão Julgador: 26ª Câmara de Direito Privado; Comarca de São Paulo; Data do Julgamento: 22/06/2017; Data de Registro: 23/06/2017)
+AGRAVO DE INSTRUMENTO Ação monitória. Decisão que indefere pedido formulado pela autora de expedição de certidão para fins de averbação da ação no registro de imóveis, de veículos ou de outros bens da ré - A despeito do art. 828 do NCPC fazer menção específica à ação de execução, é possível a aplicação do mencionado dispositivo no processo de conhecimento Precedentes desta Corte de Justiça - Decisão reformada Recurso provido.(TJSP; Agravo de Instrumento2117388-60.2018.8.26.0000; Relator (a): José Wagner de Oliveira Melatto Peixoto; Órgão Julgador: 15ª Câmara de Direito Privado; Comarca de São Paulo 11ª Vara do Foro Central Cível; Data do Julgamento: 02/07/2018;Data de Registro: 02/07/2018)
+TUTELA DE URGÊNCIA Ação monitória Cheque prescrito - Pretensão de que seja expedida certidão premonitória para averbação da existência da ação nos registros de imóveis, veículos e outros bens- Admissibilidade: Elementos dos autos que demonstram a probabilidade do direito alegado e o perigo de dano Interpretação extensiva do art. 828 do CPC para se garantir o resultado útil do processo - Presença dos requisitos autorizadores da concessão da tutela requerida, nos termos do art. 300 do Código de Processo Civil.(TJSP; Agravo de Instrumento2075759-38.2020.8.26.0000; Relator (a): Nelson Jorge Júnior; Órgão Julgador: 13ª Câmara de Direito Privado; Comarca de Itaberá; Data do Julgamento: 30/09/2020;Data de Registro: 30/09/2020)
+A Corte local concluiu que os agravantes não trouxeram aos autos elementos suficientes para comprovarem sua hipossuficiência, razão pela qual não fazem jus ao benefício da justiça gratuita, e ainda, pela necessidade de averbação premonitória por ser eficaz para evitar atos de dilapidação do patrimônio por parte do devedores.
+Ultrapassar as conclusões da Corte local quanto à ausência de prova de que os recorrentes fariam jus à gratuidade da justiça e de ser "razoável a concessão da tutela de urgência pleiteada, antes mesmo da citação, para averbar a ação monitória junto ao registro de imóveis, evitando que, ao tomar conhecimento da demanda, o devedor doe a nua propriedade do bem, da mesma forma que doou os demais imóveis, com o intuito de dilapidar o patrimônio e frustrar o objetivo da demanda, que consiste no pagamento dos valores devidos ao banco" (e-STJ fl. 61), demandaria o reexame do conjunto fático-probatório dos autos, o que é vedado em recurso especial, ante o óbice da Súmula n. 7 do STJ. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DESTA CORTE. PREQUESTIONAMENTO. AUSÊNCIA. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284 DO STF. AGRAVO DE INSTRUMENTO. JUSTIÇA GRATUITA. REVISÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento. Incidência das Súmulas n. 282 e 356 do STF.
+2. É inadmissível o recurso especial, se a deficiência em sua fundamentação não permitir a exata compreensão da controvérsia, a teor da Súmula n. 284/STF.
+3. Conforme a jurisprudência do STJ, a concessão do benefício de gratuidade da justiça a pessoa jurídica somente é possível quando comprovada a precariedade de sua situação financeira, inexistindo, em seu favor, presunção de insuficiência de recursos, ainda que em recuperação judicial.
+4. O recurso especial não comporta exame de questões que impliquem o revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+5. No caso concreto, o Tribunal de origem analisou a prova dos autos para indeferir o pedido de justiça gratuita requerido pela empresa. Alterar tal conclusão é inviável em recurso especial.
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.016.100/SP, de minha relatoria , Quarta Turma, julgado em 25/4/2022, DJe de 28/4/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. EXECUÇÃO. EMBARGOS À EXECUÇÃO. GRATUIDADE DA JUSTIÇA. INDEFERIMENTO. REFORMA DO JULGADO. ANÁLISE DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. POSICIONAMENTO DO STJ. INDEFERIMENTO DO PEDIDO DE JUSTIÇA GRATUITA. NÃO COMPROVAÇÃO DA HIPOSSUFICIÊNCIA. APLICAÇÃO DA SÚMULA Nº 83 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula nº 7 do STJ.
+3. O STJ adota o posicionamento de que o pedido de gratuidade de justiça pode ser negado se houver nos autos elementos que evidenciem a falta dos pressupostos legais para a concessão do benefício, desde que a parte requerente tenha sido previamente intimada para comprovar a alegada hipossuficiência, o que também atrai a incidência da Súmula nº 83 do STJ, aplicável em ambas as alíneas do permissivo constitucional.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.505.686/SP, Relator Ministro Moura Ribeiro, Terceira Turma, DJ 14/09/2020, DJe de 17/09/2020.)
+Por fim, inviável o acolhimento da pretensão de atribuição de efeito suspensivo ao recurso, pois, para se verificar a presença dos requisitos legais, seria necessária a análise de matéria fática, vedada em recurso especial ante o óbice da Súmula n. 7 do STJ.
+Julgo prejudicado, portanto, o pedido de efeito suspensivo.
+Diante do exposto, NEGO PROVIMENTO ao agravo em recurso especial.
+Publique-se. Intimem-se.
