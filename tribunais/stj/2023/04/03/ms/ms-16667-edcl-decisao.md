@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de Embargos de Declaração, opostos pelo SINDICATO PATRONAL RURAL DE PORTO SEGURO, pelo SINDICATO PATRONAL RURAL DE ITAMARAJÚ e pelo SINDICATO PATRONAL RURAL DE PRADO, contra decisão de minha lavra, publicada em 15/02/2023, que julgou extinto o Mandado de Segurança, sem resolução de mérito (fls. 3.427/3.432e).
+Inconformada, sustenta a parte embargante que:
+"O presente juízo foi omisso ao proferir o acórdão, já que o objeto do presente mandamus jamais foi a extinção do procedimento conciliatório, mas sim a decretação da nulidade do ato praticado dentro do procedimento. Vide pedido:
+(..)
+Em que pese o encerramento do procedimento conciliatória, o ato existiu, é eivado de nulidade e reverbera até o presente dia.
+Nobre Ministra, como exposto aos autos, o parecer AGU-SRG 01/2009 foi modificado através de ato dissimulado de aditamento, com base apenas e tão somente no teor de uma Reunião ocorrida em 23/08/2011, na CCAF, com a participação de pessoas interessadas na sua modificação pura e simples, sem respeitar os preceitos legais.
+O acórdão é omisso no que se refere a violação ao contraditório e ampla defesa das partes atingidas pela reabertura unilateral do procedimento. As partes atingidas não participaram da reabertura do processo conciliatório, que culminou no aditamento do parecer AGU/SRG- 01/2009 e reabriu os trabalhos de revisão/ampliação da TI Barra Velha e ampliação/"demarcação" da TI Cahy-Pequi.
+Para além disso, o acórdão embargado não se debruça sobre o fato de que o supracitado aditamento desrespeitou os direitos adquiridos daqueles que já tiveram uma situação jurídica constituída por meio do ato administrativo, em contrariedade com o verbete nº 473 da Súmula do Supremo Tribunal Federal.
+A reabertura ilegal/irregular do procedimento e seu aditamento terá consequências para além das partes que ali estavam envolvidas.
+(..)
+É inequívoca a violação ao contraditório e a ampla defesa.
+Logo, não há que se falar em perda do objeto quando a ilegalidade do ato cometido perdura até os dias atuais, de modo que a extinção do procedimento conciliatório não cessou tal ato, pelo contrário o confirmou" (fls. 3.438/3.440e).
+Por fim, requer o conhecimento dos Embargos Declaratórios "e o dê provimento para sanar as omissões apontadas para que este juízo se pronuncie a respeito do quanto exposto acima, de modo que sejam aplicados os efeitos infringentes, devendo ser reformada a decisão proferida bem como processado e julgado o mandamus manejado nos termos nele expostos" (fl. 3.441e).
+A UNIÃO apresentou impugnação aos Embargos de Declaração (fls. 3.479/3.481e).
+A irresignação não merece acolhida.
+Nos termos do art. 1.022 do CPC vigente, os Embargos de Declaração são cabíveis para "esclarecer obscuridade ou eliminar contradição", "suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento" e "corrigir erro material".
+Infere-se, portanto, que, não obstante a orientação acerca da natureza recursal dos Declaratórios, singularmente, não se prestam ao rejulgamento da lide, mediante o reexame de matéria já decidida, mas apenas à elucidação ou ao aperfeiçoamento do decisum, em casos, justamente, nos quais eivado de obscuridade, contradição, omissão ou erro material. Não têm, pois, de regra, caráter substitutivo ou modificativo, mas aclaratório ou integrativo.
+Quanto ao cerne do inconformismo recursal, ao contrário do que pretende fazer crer a parte embargante, a decisão está, de fato, suficientemente fundamentada, no sentido que:
+"Com efeito, conforme destacado pela UNIÃO, fora determinado:
+"(..) o arquivamento do procedimento conciliatório instaurado no âmbito da Câmara de Mediação e de Conciliação da Administração Pública Federal - CCAF entre a FUNAI, o INCRA e o ICMBio, referente à sobreposição de interesses agrários, indígenas e ambientais, Terra Indígena Cahy-Pequi (Comexatiba), Parque Nacional do Descobrimento e Projetos de Assentamentos Agrários, em área localizada no extremo sul do Estado da Bahia.
+2. Diante da "ausência de voluntariedade", determino o encerramento do procedimento conciliatório instaurado nesta CCAF, nos termos da alínea "c", do inciso IV, artigo 4º da Portaria CGU n.º 33/2018.
+3. Ao apoio da CCAF/CGU para dar ciência aos órgãos e entidades interessados e efetuar registro no MONITOR CCAF/CLC com a situação "Conflito não solucionado" e complemento "Falta de interesse na mediação"" (fl. 3.418e).
+Assim, com o encerramento do referido procedimento procedimento conciliatório, houve a perda do objeto do presente mandamus, impetrado com o objetivo de impedir a prática de ato tendente à sua reabertura.
+Ademais, ainda que assim não fosse, tal como destacado no parecer do Ministério Público Federal, "a questão relacionada a possível ampliação da Terra Indígena Barra Velha, localizada na região sul do Estado da Bahia, é matéria controvertida, e desta maneira, ocorre a inadequação da via eleita, em razão da necessidade de dilação probatória, inviável em sede de mandado de segurança. Desta forma, deve ser extinto o processo sem julgamento mérito, reservando-se, porém, aos impetrantes as vias ordinárias" (fl. 3.311e).
+Nesse sentido, são os seguintes julgados, oriundos de casos semelhantes ao dos autos: STJ, MS 20.033/DF, Rel. Ministro GURGEL DE FARIA, PRIMEIRA SEÇÃO, DJe de 01/04/2019; MS 20.334/DF, Rel. Ministro GURGEL DE FARIA, PRIMEIRA SEÇÃO, DJe de 01/04/2019; MS 20.683/DF, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA SEÇÃO, DJe de 08/11/2016" (fls. 3.431/3.432e).
+Deve-se ressaltar que, à luz do CPC vigente, os Embargos de Declaração não constituem veículo próprio para o exame das razões atinentes ao inconformismo da parte, tampouco meio de revisão, rediscussão e reforma de matéria já decidida. Nesse sentido: STJ, EDcl no AgInt no AREsp 1.544.182/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 02/04/2020.
+Ante o exposto, à míngua de vícios, rejeito os Embargos Declaratórios.
+I.
