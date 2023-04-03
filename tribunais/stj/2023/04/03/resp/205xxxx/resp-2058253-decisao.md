@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de recurso especial interposto por BANCO SANTANDER (BRASIL) S.A. (BANCO SANTANDER), com fundamento no art. 105, III, alíneas a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado da Paraíba, assim ementado:
+PROCESSUAL CIVIL - Apelação Cível - Ação declaratória - Cobrança de juros incidentes sobre tarifas bancárias - Processo anterior que analisou tarifas e as declarou ilegais - Novo processo - Pedido de restituição do valor referente aos juros remuneratórios incidentes sobre as tarifas declaradas ilegais - Sentença de Extinção do feito por entender ter havido coisa julgada - Irresignação do autor - Comprovação de declaração de nulidade da TAC e despesas com serviços de terceiros (ID 9428142 - Pág. 2) - Pedido distinto ao da presente ação - Inexistência de tríplice identidade - Inocorrência de coisa julgada material - Sentença cassada - Provimento.
+- Se na ação onde se julga esta irresignação o pedido é a declaração de nulidade e devolução dos juros remuneratórios/contratuais incidentes sobre as tarifas bancárias, não se pode acoimar de coisa julgada material a sentença que, em outro processo, tramitado em Juizado Especial Cível, envolvendo as mesmas partes, acolheu pedido de declaração de nulidade e devolução das próprias tarifas bancárias, sem os seus reflexos.
+- No caso dos autos, é de se invocar a regra do § 3º do art. 1.013 do CPC/2015, que prescreve ser cabível ao Tribunal ad quem julgar desde logo o mérito quando, decretada a nulidade da sentença, o feito estiver em condições de imediato julgamento.
+CONSUMIDOR - Apelação cível - Teoria da causa madura - Mérito da ação - Ação declaratória c/c repetição de indébito - Contrato de financiamento - Tarifas declaradas abusivas em sentença transitada em julgado em Juizado Especial - Pleito de restituição dos juros reflexos sobre tais valores - Cabimento - Encargos acessórios que seguem a obrigação principal - Art. 184, do Código Civil - Procedência.
+- Tendo ocorrido a declaração de nulidade de tarifas, em demanda anteriormente proposta, cujo trânsito em julgado já houve, urge salutar a restituição dos juros sobre elas reflexos, por ocasião da acessoriedade de tais encargos em relação às obrigações principais.
+- "Código Civil - Art. 184. Respeitada a intenção das partes, a invalidade parcial de um negócio jurídico não o prejudicará na parte válida, se esta for separável; a invalidade da obrigação principal implica a das obrigações acessórias, mas a destas não induz a da obrigação principal." (e-STJ, fls. 228/229).
+Os embargos de declaração opostos por BANCO SANTANDER foram rejeitados (e-STJ, fls. 284/297).
+Inconformado, BANCO SANTANDER manejou recurso especial, com base no art. 105, III, a e c, da CF alegando, a par de divergência jurisprudencial, a violação dos arts. (1) 1.022, II, do NCPC, por omissão do acórdão recorrido acerca dos motivos que levaram o Tribunal a não reconhecer a ocorrência de coisa julgada e que os juros constituíram pedidos na demanda que tramitou no Juizado especial; (2) 337, §§ 1º, 2º e 4º, do NCPC, ante a ocorrência de coisa julgada em relação aos valores pagos pelo recorrido relacionados a tarifas, acessórios e consectários considerados ilegais, os quais foram alvo de outra ação judicial; e (3) 323 do CC/02, não houve prova de quitação de reserva, não cabendo qualquer devolução.
+O recurso foi admitido pelo Tribunal paraibano (e-STJ, fls. 392/395).
+É o relatório.
+DECIDO.
+O recurso não merece provimento.
+(1) Da violação do art. 1.022 do NCPC.
+Nas razões do presente recurso, BANCO SANTANDER sustentou que o TJPB não teria apreciado a alegação de que a matéria atinente aos encargos cobrados estaria albergada pela coisa julgada e que os juros constituíram pedidos na demanda que tramitou no Juizado especial.
+Contudo, sem razão.
+O Tribunal paraibano assim se pronunciou sobre a questão:
+Não se confunde, todavia, o pedido de repetição de indébito das tarifas ditas abusivas (e juros moratórios incidentes) com o pedido de restituição dos juros remuneratórios que sobre elas incidiram, quando do financiamento do bem, eis que se trata de pretensões distintas.
+Considerando que no caso dos autos não houve nem no pedido, nem na sentença análise dos juros remuneratórios incidentes sobre as tarifas declaradas ilegais, não há que falar em coisa julgada.
+Com efeito, a presente demanda possui pedido diverso daquele que tramitou no Juizado Especial (e-STJ, fl. 233).
+Não há falar, portanto, em negativa de prestação jurisdicional, pois, a pretexto da alegação de ofensa ao art. 1.022, II, do NCPC, o que busca BANCO SANTANDER é apenas manifestar o seu inconformismo com o resultado do julgamento que lhe foi desfavorável, não se prestando a estreita via dos embargos de declaração a promover o rejulgamento da causa, já que inexistentes quaisquer dos vícios elencados no referido dispositivo da lei adjetiva civil.
+A jurisprudência desta Corte é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSO CIVIL. RESPONSABILIDADE CIVIL. ACIDENTE DE VEÍCULO. AÇÃO DE INDENIZAÇÃO. AUSÊNCIA DE VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. DANOS MORAIS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULAS 283 E 284 DO STF. LIMITAÇÃO DE COBERTURA. REEXAME. SÚMULAS 5 E 7 DO STJ. AGRAVO IMPROVIDO.
+1. Não há ofensa ao art. 1.022 do CPC/2015, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tiver encontrado motivação satisfatória para dirimir o litígio.
+2. Verifica-se que o Tribunal estadual analisou todas as questões relevantes para a solução da lide, de forma fundamentada, não havendo que se falar em negativa de prestação jurisdicional.
+3. A falta de impugnação de argumento suficiente para manter, por si só, o acórdão impugnado, a argumentação dissociada bem como a ausência de demonstração da suposta violação à legislação federal impedem o conhecimento do recurso, na esteira dos enunciados n.
+283 e 284 da Súmula do Supremo Tribunal Federal.
+4. A revisão das conclusões estaduais demandaria, necessariamente, o revolvimento das cláusulas contratuais e do acervo fático-probatório dos autos, providência vedada na via estreita do recurso especial, ante o óbice disposto nas Súmulas 5 e 7 do STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.500.162/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 25/11/2019, DJe 29/11/2019 - sem destaque no original)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL EM AGRAVO (ART. 544 DO CPC/73) - AÇÃO CONDENATÓRIA - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO NEGANDO PROVIMENTO AO RECLAMO, MANTIDA A DELIBERAÇÃO UNIPESSOAL QUE CONHECERA DO AGRAVO (ART. 544 DO CPC/73) PARA, DE PLANO, NEGAR SEGUIMENTO AO RECURSO ESPECIAL. INSURGÊNCIA DA RÉ.
+1. Não compete ao STJ o exame de preceitos constitucionais, ainda que para fins de prequestionamento, sob pena de usurpar a competência do Supremo Tribunal Federal. Precedentes.
+2. Nos termos do artigo 1.022 do CPC/15, os embargos de declaração são cabíveis apenas para esclarecer obscuridade ou eliminar contradição; suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento; ou corrigir erro material.
+3. Na hipótese dos autos, o acórdão proferido por este órgão fracionário encontra-se devida e suficientemente fundamentado, tendo enfrentado todos os pontos aventados pela parte nas razões do agravo regimental, apenas decidindo de forma contrária aos interesses da embargante, o que, à evidência, não consubstancia vício passível de correção por meio de embargos de declaração, mas sim pretensão meramente infringente.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 469.306/SP, Rel. Ministro MARCO BUZZI, Quarta Turma, julgado em 1º/12/2016, DJe 7/12/2016 - sem destaque no original)
+Afasta-se, portanto, a alegação de omissão do acórdão recorrido.
+(2) Da incidência da Súmula nº 7 do STJ.
+Por sua vez, BANCO SANTANDER sustentou a ocorrência de coisa julgada em relação aos valores pagos pelo recorrido relacionados a tarifas, acessórios e consectários considerados ilegais, os quais teriam sido objeto de outra ação judicial.
+Todavia, conforme se depreende da leitura dos excertos acima transcritos, para alterar a conclusão a que chegou o aresto recorrido, no sentido da ausência de coisa julgada quanto aos juros incidentes sobre as tarifas cobradas, indispensável seria o reexame do conjunto fático-probatório dos autos, providência vedada pela Súmula nº 7 do STJ.
+A propósito, confira-se o seguinte julgado:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PEDIDO DE SUSPENSÃO DO PROCESSO EM VIRTUDE DE DEFERIMENTO DO PROCESSAMENTO DE RECUPERAÇÃO JUDICIAL. VIA ESPECIAL INADEQUADA. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. VALOR PATRIMONIAL DA AÇÃO. CRITÉRIO DEFINIDO NO TÍTULO EXECUTIVO. SENTENÇA TRANSITADA EM JULGADO. ALTERAÇÃO. IMPOSSIBILIDADE. SÚMULA 83/STJ. EXCESSO DE EXECUÇÃO. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. AGRAVO IMPROVIDO.
+ ..
+3. Havendo definição específica no título judicial transitado em julgado acerca do critério de apuração do Valor Patrimonial da Ação (VPA), mesmo que contrário ao comando do enunciado n. 371 da Súmula deste Tribunal Superior, não é possível alterá-lo em cumprimento de sentença, em respeito à coisa julgada. Precedentes.
+4. Para desconstituir as premissas fáticas reconhecidas pelo acórdão quanto à subscrição da diferença de ações para o cálculo da liquidação, seria imprescindível o revolvimento de fatos e provas, providência vedada no âmbito do recurso especial, nos termos da Súmula n. 7 do STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.360.422/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, DJe 23/6/2017)
+(3) Da alegada violação do art. 323 do CC/02.
+Observa-se que o conteúdo normativo contido no art. 323, do CC/02, não foi enfrentado pelo TJPB, nem mesmo depois da oposição dos embargos de declaração.
+Assim, com base no que dispõe a Súmula nº 211 desta Corte, o recurso especial não poderia ter sido aqui analisado: Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo.
+Registra-se que caberia à parte, nas razões do seu especial, alegar a violação do art. 1.022 do NCPC, o que não foi feito.
+A jurisprudência do STJ firmou o entendimento de que, para que se configure o prequestionamento, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal (AgRg no AREsp 621.867/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 24/3/2015, DJe 27/3/2015).
+Nessas condições, CONHEÇO EM PARTE do recurso especial e, nesta extensão, NEGO-LHE PROVIMENTO.
+Por oportuno, previno que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação das penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE DE CLÁUSULAS CONTRATUAIS COM REPETIÇÃO DO INDÉBITO. VIOLAÇÃO DO ART. 1.022 DO NCPC. NÃO OCORRÊNCIA. OFENSA À COISA JULGADA. REEXAME DE PROVAS. DESCABIMENTO. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. ART. 323 DO CC/02. PREQUESTIONAMENTO DA MATÉRIA PELO TRIBUNAL. AUSÊNCIA. INCIDÊNCIA DA SÚMULA Nº 211 DESTA CORTE. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, NÃO PROVIDO.
