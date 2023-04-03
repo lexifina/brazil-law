@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de Embargos de Declaração, opostos por LINOFORTE MOVEIS LTDA, contra decisão de minha lavra, publicada em 15/12/2022, que conheceu do Agravo para dar provimento ao Recurso Especial.
+Inconformada, sustenta a parte embargante que:
+(i) "em que pese a aplicação do Tema 985 nos presentes autos, é razoável e pertinente aguardar o julgamento dos embargos de declaração quanto às matérias ali relacionadas, mormente no que se refere à modulação dos efeitos da decisão" (fl. 580e);
+(ii) "era parte integrante do recurso interposto por esta Embargante, o pedido de declaração de compensação dos valores indevidamente recolhidos a título de contribuição previdenciária sobre o salário maternidade, retroagindo-se nos últimos 5 (cinco) anos, contados da impetração do writ, inclusive aqueles pagos no curso da demanda. Pedido este não apreciado na referida decisão" (fl. 581e).
+Por fim, requer sejam acolhidos os Embargos de Declaração com efeitos infringentes.
+Intimada, a parte embargada deixou transcorrer in albis o prazo para manifestação (fl. 592e).
+A irresignação não merece acolhida.
+Nos termos do art. 1.022 do CPC vigente, os Embargos de Declaração são cabíveis para "esclarecer obscuridade ou eliminar contradição", "suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento" e "corrigir erro material".
+Infere-se, portanto, que, não obstante a orientação acerca da natureza recursal dos Declaratórios, singularmente, não se prestam ao rejulgamento da lide, mediante o reexame de matéria já decidida, mas apenas à elucidação ou ao aperfeiçoamento do decisum, em casos, justamente, nos quais eivado de obscuridade, contradição, omissão ou erro material. Não têm, pois, de regra, caráter substitutivo ou modificativo, mas aclaratório ou integrativo.
+Quanto ao cerne do inconformismo recursal, ao contrário do que pretende fazer crer a parte embargante, a decisão está, de fato, suficientemente fundamentada.
+Ressalte-se que é firme a jurisprudência desta Corte, no sentido de que "é desnecessário aguardar a publicação do acórdão do recurso apreciado na Corte Suprema, ou o julgamento dos Embargos de Declaração nela opostos, no rito da Repercussão Geral, para fins de julgamento de Recurso Especial no STJ. Precedentes: AgInt no RE nos EDcl no AgInt no REsp 1.355.713/SC, Rel. Min. Humberto Martins, Corte Especial, DJe 29.6.2018; AgRg no REsp 1.574.030/SC, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 28.5.2019; AgInt no AREsp 1.055.949/SC, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe 21.8.2019" (STJ, REsp 1.825.159/PE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 19/12/2019).
+Por fim, cabe esclarece que não há como apreciar o pedido de compensação, em sede de Recurso Especial, cabendo às instâncias ordinárias apreciar tal possibilidade à luz dos fundamentos expendidos na decisão embargada e dos elementos fático-probatórios constantes nos autos.
+Ante o exposto, à míngua de vícios, rejeito os Embargos Declaratórios.
+I.
