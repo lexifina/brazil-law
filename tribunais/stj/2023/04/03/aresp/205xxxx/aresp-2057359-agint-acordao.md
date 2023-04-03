@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/03/2023 a 03/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva e lavrou este acórdão, nos termos do art. 52, IV, b, do RISTJ.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. FUNDAMENTOS NÃO IMPUGNADOS. APLICAÇÃO DA SÚMULA 283/STF. ADEMAIS, REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. RAZÕES QUE NÃO INFIRMAM A DECISÃO AGRAVADA. DECISÃO MANTIDA.
+AGRAVO INTERNO DESPROVIDO.
+RELATÓRIO
+Trata-se de agravo interno interposto pelo JOSE DA PAIXAO BEZERRA, contra decisão que conheceu o agravo para não conhecer o recurso especial, assim ementada:
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. FUNDAMENTOS NÃO IMPUGNADOS. APLICAÇÃO DA SÚMULA 283/STF. AGRAVO CONHECIDO PARA, DESDE LOGO, NÃO CONHECER O RECURSO ESPECIAL. (e-STJ, fl. 406)
+Em suas razões, o agravante alegou a inaplicabilidade da Súmula 283/STF, pois "as ofensas aos arts. 421, 479 e 480 do Código Civil, em razão da não observância aos princípios da boa-fé objetiva, da função social do contrato e do dirigismo contratual, afastam, necessariamente e por absoluta conclusão lógica, o argumento da impossibilidade de revisão do contrato em razão de onerosidade excessiva decorrente de dificuldade financeiras do mutuário" (e-STJ, fl. 417).
+É o breve relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. FUNDAMENTOS NÃO IMPUGNADOS. APLICAÇÃO DA SÚMULA 283/STF. ADEMAIS, REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. RAZÕES QUE NÃO INFIRMAM A DECISÃO AGRAVADA. DECISÃO MANTIDA.
+AGRAVO INTERNO DESPROVIDO.
+VOTO
+Eminentes Colegas, a pretensão recursal não merece ser acolhida.
+Na hipótese, consta do acórdão recorrido que:
+Da análise da petição inicial, verifica-se que o autor, ao pedir a revisão contratual, fundamentou sua pretensão na suposta onerosidade excessiva e na necessidade de restabelecimento do equilíbrio contratual, não deduzindo pedido relacionado à utilização do FGHab.
+Além disso, no caso de redução da renda do mutuário, a cobertura pelo FGHab constitui em um empréstimo efetuado mediante o preenchimento de requisitos contratualmente previstos, dentre os quais ,o prévio requerimento administrativo e o adimplemento do contrato até a solicitação de cobertura, sendo que, no caso, nenhuma dessas condições foi observada.
+O fato é que a pretensão de revisão contratual, nos termos requeridos pela parte autora não se sustenta, tendo em vista que a alegação de onerosidade excessiva decorrente de dificuldades financeiras não tem o condão de, por si só, propiciar ao mutuário a revisão unilateral das cláusulas contratuais e suspensão da execução extrajudicial da dívida, não sendo suficiente para que o Judiciário substitua as partes e modifique a relação obrigacional por elas estabelecida, sob pena de violação ao Princípio do Pacta Sunt (PROCESSO: 08158573120174058100, APELAÇÃO CÍVEL, DESEMBARGADORServanda. FEDERAL ROGÉRIO DE MENESES FIALHO MOREIRA, 3ª TURMA, JULGAMENTO: 10/10/2019).
+Com essas considerações, dou provimento à apelação, para, reformando a sentença, julgar improcedente a ação. (e-STJ, fl. 305 - grifou-se)
+Contudo, da leitura do trecho acima transcrito, verifica-se que a menção expressa aos dispositivos legais suscitados não se mostra suficiente para infirmar o entendimento sustentado, no sentido de considerar que a pretensão de revisão contratual, nos termos requeridos pelo agravante, não se sustenta, tendo em vista que a alegação de onerosidade excessiva decorrente de dificuldades financeiras não tem o condão de, por si só, propiciar ao mutuário a revisão unilateral das cláusulas contratuais e suspensão da execução extrajudicial da dívida, não sendo suficiente para que o Judiciário substitua as partes e modifique a relação obrigacional por elas estabelecida, sob pena de violação ao Princípio do Pacta Sunt Servanda.
+Desse modo, a subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, impede a admissão da pretensão recursal, a teor do entendimento da Súmula nº 283/STF: "é inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Ademais, ainda que por fundamento diverso, mantém-se a decisão agravada, pois, conforme as razões fáticas dos autos acima expostas, acerca da legalidade da contratação e da impossibilidade de modificação das partes e da relação obrigacional, o Tribunal de origem, pautado nas provas constantes dos autos, concluiu que não é possível a revisão contratual.
+Nesse contexto, a revisão destas conclusões do Tribunal local para acolher a pretensão recursal para reconhecer a presença dos requisitos fáticos para a configuração do instituto da lesão ou da aplicação da teoria da imprevisão, demandaria o revolvimento do acervo fático-probatório dos autos e a análise e interpretação de cláusulas contratuais, providência inviável ante a natureza excepcional da via eleita, conforme enunciados das Súmulas n.ºs 5 e 7/STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL. CONTRATO DE FINANCIAMENTO HABITACIONAL. SFH. REVISÃO DAS PARCELAS. REDUÇÃO DA RENDA. AGRAVO NÃO PROVIDO.
+1. Ação de revisão de contrato de financiamento imobiliário firmado pelo SFH, visando a renegociação do valor das prestações mensais e o alongamento do prazo de liquidação, com fundamento no Código de Defesa do Consumidor.
+2. O Tribunal de origem, examinando as condições contratuais, concluiu que o recálculo da parcela estabelecida contratualmente não está vinculado ao comprometimento de renda do mutuário, mas sim à readequação da parcela ao valor do saldo devedor atualizado. Nesse contexto, entendeu que, para justificar a revisão contratual, seria necessário fato imprevisível ou extraordinário, que tornasse excessivamente oneroso o contrato, não se configurando como tal eventual desemprego ou redução da renda do contratante.
+3. Efetivamente, a caracterização da onerosidade excessiva pressupõe a existência de vantagem extrema da outra parte e acontecimento extraordinário e imprevisível. Esta Corte já decidiu que tanto a teoria da base objetiva quanto a teoria da imprevisão "demandam fato novo superveniente que seja extraordinário e afete diretamente a base objetiva do contrato" (AgInt no REsp 1.514.093/CE, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe de 7/11/2016), não sendo este o caso dos autos.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.340.589/SE, relator Ministro Raul Araújo, Quarta Turma, julgado em 23/4/2019, DJe de 27/5/2019 - grifou-se)
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa.
+É o voto.
