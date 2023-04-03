@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de recurso especial interposto por AYMORÉ CRÉDITO, FINANCIAMENTO E INVESTIMENTO S/A com arrimo nas alíneas "a" e "c" do permissivo constitucional contra v. acórdão exarado pelo eg. Tribunal de Justiça do Estado do Rio Grande do Sul (TJ-RS), assim ementao (fls. 81):
+"APELAÇÃO CIVEL. ALIENAÇÃO FIDUCIÁRIA. AÇÃO DE BUSCA E APREENSÃO. POSSIBILIDADE DE AJUIZAMENTO DE AÇÃO DE BUSCA E APREENSÃO, DESDE QUE INEQUIVOCAMENTE PREENCHIDOS OS REQUISITOS LEGAIS. NOTIFICAÇÃO INVÁLIDA PARA FINS DE CONFIGURAÇÃO DA MORA, PORQUANTO NÃO ENTREGUE NO DOMICÍLIO DO DEVEDOR; TAMPOUCO REALIZADA NOTIFICAÇÃO POSTERIOR POR MEIO DE EDITAL. RECURSO IMPROVIDO."
+Os embargos de declaração opostos foram rejeitados (vide acórdão às fls. 100-102).
+Nas razões recursais (fls. 110-122), AYMORÉ CRÉDITO, FINANCIAMENTO E INVESTIMENTO S/A aponta, além de divergência jurisprudencial, violação ao art. 2º, § 2º, do Decreto-Lei 911/69, ao argumento, entre outros, de que é validade da notificação enviada para o endereço eletrônico da recorrida, para fins de constituição em mora.
+Não foram oferecidas contrarrazões (vide certidão à fls. 133).
+Admitido o recurso (decisão às fls. 138-142), ascenderam os autoa a esta eg. Corte.
+É o relatório. Passo a decidir.
+Com efeito, acerca do referido dispositivo legal, oportuna a transcrição do seguinte excerto do v. acórdão estadual (fls. 78-79):
+"A ação de busca e apreensão de bem alienado fiduciariamente tem previsão o Decreto-Lei nº 911/69, desde que inequivocamente preenchidos os requisitos legais.
+Nesse contexto, a comprovação da mora é imprescindível1 e poderá ser realizada por carta registrada entregue no endereço do domicílio do devedor, revelando-se, por outro lado, dispensável a notificação pessoal2 e, ainda, menção acerca do valor do débito.
+Além disso, conforme nova redação do §2º do art. 2º do Decreto-Lei n. 911/69, o ato não precisa ser efetivado por intermédio de Cartório de Títulos e Documentos ou pelo Protesto doTítulo4; entretanto, caso realizado de tal forma, o fato de ter sido por Comarca diversa daquela do domicílio do devedor não interfere em sua legalidade (Recurso Especial Repetitivo 1184570-MG5).
+No caso concreto, a notificação (evento 1-7) não foi entregue no domicílio do devedor(constando a seguinte informação na certidão anexada: "ausente"), circunstância que acarreta a invalidade da medida, uma vez que não realizada a posterior notificação por edital67.
+Por oportuno:
+RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. ALIENAÇÃO FIDUCIÁRIAEM GARANTIA. DECRETO-LEI 911/1969. COMPROVAÇÃO DA MORA. NOTIFICAÇÃOFRUSTRADA PELO MOTIVO "AUSENTE". VIOLAÇÃO À BOA-FÉ OBJETIVA PELODEVEDOR. NÃO OCORRÊNCIA. CONSOLIDAÇÃO PROPRIEDADE EM FAVOR DOCREDOR FIDUCIÁRIO. DESCABIMENTO. 1. Controvérsia acerca da comprovação da mora na ação de busca e apreensão fundada no Decreto-Lei 911/1969 na hipótese em que a notificação enviada ao endereço do devedor frustrou-se pelo motivo "Ausente". 2. Nos termos do art. 2º, § 2º,do Decreto-Lei nº 911/1969, "A mora decorrerá do simples vencimento do prazo para pagamento e poderá ser comprovada por carta registrada com aviso de recebimento, não se exigindo que a assinatura constante do referido aviso seja a do próprio destinatário". 3. Existência de divergência na jurisprudência desta Corte Superior acerca da necessidade, ou não, de efetiva entrega da notificação no endereço cadastral do devedor, para se comprovar a mora. 4. Caso concreto em que a notificação sofreu três tentativas de entrega, todas frustradas pelo motivo "Ausente". 5. Inviabilidade de se extrair do simples fato da ausência do devedor de sua residência qualquer conduta contrária à boa-fé objetiva. 6. Existência de recente precedente desta turma acerca da validade da notificação frustrada pelo motivo "Mudou-se". 7. Inaplicabilidade das razões de decidir daquele precedente ao caso dos autos, pois a mudança de endereço do devedor, sem comunicação à credora fiduciária, importa violação à boa-fé objetiva, diversamente da mera ausência do devedor de sua residência. 8. Invalidade da notificação no caso em tela. 9. RECURSO ESPECIAL DESPROVIDO. (REsp 1848836/RS, Rel. Ministro PAULODE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 24/11/2020, DJe 27/11/2020)
+No mesmo sentido manifesta-se a doutrina (Manual da Alienação Fiduciária em Garantia de Bens Móveis e da Ação de Busca e Apreensão. / Autores: Alexandre Prevedello, Christian Ponzoni. - Londrina, PR: Thoth, 2022, p. 185):
+Ordinariamente as cartas com aviso de recebimento retornam com a informação "ausente" após três tentativas infrutíferas de entrega no endereço indicado no contrato em dias e horários alternados. Como as diligências ocorrem em horário comercial, é normal que não haja ninguém no local para o seu recebimento. Por isso, em tais casos - em que não há informação de mudança de endereço e não houve entrega no endereço indicado no local por motivos que independem da boa-fé do devedor -, exige-se que a notificação seja efetivada também por meio de edital, na medida em que não houve a sua entrega no endereço do devedor. Por fim, é inaplicável para a hipótese examinada ("ausente") o mesmo entendimento referente à hipótese de retorno da carta com a informação de que o devedor "mudou-se", já que não se pode "extrair do simples fato da ausência do devedor de sua residência qualquer conduta contrária à boa-fé objetiva" (REsp 1848836/RS, DJe 27/11/2020).
+Note-se, ainda, que a caracterização da mora deve ser anterior ao ajuizamento da demanda (art. 3ª, caput, do Decreto-lei 911/69), de modo que não há falar em concessão de prazo para a emenda da inicial8.
+Portanto, a mora não foi regularmente constituída, motivo da manutenção da sentença terminativa9."
+Com efeito, não se infere ofensa ao aludido dispositivo legal, pois o entendimetno ora transcrito coaduna com a jurisprudência esta eg. Corte, a qual se firmou no sentido de que para a constituição do devedor em mora nos contratos de alienação fiduciária é imprescindível a comprovação de encaminhamento de notificação ao endereço constante do contrato, bem como de seu efetivo recebimento, ainda que não pessoalmente, pelo devedor. A título ilustrativo:
+"CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA. AUSÊNCIA DE NOTIFICAÇÃO. PROVA DO RECEBIMENTO NO ENDEREÇO DO DEVEDOR. NECESSIDADE. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA 83/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. No contrato de alienação fiduciária, para a constituição do devedor em mora, é imprescindível a comprovação de encaminhamento de notificação ao endereço constante do contrato, bem como de seu efetivo recebimento, ainda que não pessoalmente, pelo devedor. Precedentes.
+(..)
+3. Agravo interno a que se nega provimento"
+(AgInt no AREsp n. 2.138.714/SP, relator MINISTRO RAUL ARAÚJO, Quarta Turma, DJe de 14.12.2022 - g. n.)
+"PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ALIENAÇÃO FIDUCIÁRIA. BUSCA E APREENSÃO. NOTIFICAÇÃO INVÁLIDA. AUSÊNCIA DE RECEBIMENTO. SÚMULA 83/STJ. HONORÁRIOS ADVOCATÍCIOS FIXADOS EM 20%. SÚMULA 83/STJ. REEXAME DE PROVA. SÚMULA 7/STJ. RECURSO DESPROVIDO.
+1. "Conforme o entendimento assente deste Superior Tribunal, para a constituição do devedor em mora nos contratos de alienação fiduciária, é imprescindível a comprovação de encaminhamento de notificação ao endereço constante do contrato, bem como de seu efetivo recebimento, o que não ocorreu no caso dos autos, segundo as instâncias ordinárias, ocasionando a extinção da ação". (AgInt no REsp 1829084/RS, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 21/11/2019, DJe 19/12/2019). Incidência da Súmula 83/STJ.
+(..)
+4. Agravo interno desprovido."
+(AgInt no REsp n. 1.956.179/RS, relator MINISTRO RAUL ARAÚJO, Quarta Turma, DJe de 26.8.2022 - g. n.)
+"CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRESTAÇÃO JURISDICIONAL ADEQUADA. ALIENAÇÃO FIDUCIÁRIA. AÇÃO DE BUSCA E APREENSÃO. LIMINAR CASSADA NA ORIGEM. AUSÊNCIA DE NOTIFICAÇÃO PRÉVIA. SÚMULAS N. 7 E 83 DO STJ. DECISÃO MANTIDA.
+(..)
+2. "Nos contratos de alienação fiduciária em garantia regidos pelo Decreto-Lei n. 911/1969, a mora se configura automaticamente quando vencido o prazo para o pagamento (mora ex re), mas o deferimento da busca e apreensão tem como pressuposto a comprovação desse fato por meio de notificação extrajudicial do devedor fiduciante. Súmula n. 72 do STJ" (AgInt no AREsp n. 876.487/PR, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 15/9/2016, DJe de 26/9/2016).
+3. É imprescindível a comprovação de encaminhamento ao endereço constante do contrato e efetivo recebimento da notificação, mediante protesto, carta registrada expedida por intermédio do cartório de títulos ou documentos, ou por simples carta registrada com aviso de recebimento. Precedentes.
+4. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+5. No caso, para dissentir das conclusões do acórdão recorrido, quanto à ausência de prova de que as cartas notificatórias foram efetivamente entregues aos devedores, seria necessário reexaminar o acervo material dos autos, o que não se admite na presente via, a teor da Súmula n. 7 do STJ.
+6. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 1.455.461/SP, relator MINISTRO ANTONIO CARLOS FERREIRA, Quarta Turma, DJe de 1.7.2022 - g. n.)
+Nesse cenário, estando o v. acórdão recorrido em sintonia com a jurisprudência desta eg. Corte, o apelo nobre encontra óbice na Súmula n. 83/STJ, a qual é aplicável tanto pela alínea "a" como pela alínea "c" do permissivo constitucional. Nessa linha de intelecção, destacam-se os recentes precedentes:
+"PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTOS SUFICIENTES. SÚMULAS N. 7 E 83 DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+(..)
+3. A Súmula n. 83 do STJ tem aplicação aos recursos especiais interpostos tanto pela alínea c quanto pela alínea a do permissivo constitucional.
+4. Agravo regimental desprovido."
+(AgRg no AREsp n. 1.802.457/SP, relator MINISTRO JOÃO OTÁVIO DE NORONHA, Quinta Turma, julgado em 27/9/2022, DJe de 30/9/2022 - g. n..)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE CONSIGNAÇÃO EM PAGAMENTO EM FASE DE CUMPRIMENTO DE SENTENÇA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE AUTORA.
+(..).
+2. Segundo a orientação jurisprudencial firmada por este Superior Tribunal de Justiça, a Súmula 83 do STJ é aplicável ao recurso especial tanto pela alínea "a" como pela alínea "c" do permissivo constitucional.
+3. Agravo interno desprovido."
+(AgInt no AREsp n. 2.080.599/SP, relator MINISTRO MARCO BUZZI, Quarta Turma, julgado em 26/9/2022, DJe de 29/9/2022 - g. n.)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO NA ORIGEM. AUSÊNCIA DE PEÇA OBRIGATÓRIA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182 DO SUPERIOR TRIBUNAL DE JUSTIÇ A.
+(..)
+4. Inadmissível o recurso especial, interposto tanto pela alínea "a", quanto pela alínea "c" do inc. III do art. 105 da Constituição Federal, quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n. 83/STJ).
+(..)
+7. Agravo interno a que se nega provimento."
+(AgInt no AREsp 904.399/AM, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 22/11/2021, DJe 25/11/2021 - g. n.)
+Com estas considerações, conclui-se que o apelo não merece prosperar.
+Ante o exposto, com arrimo no art. 255, §4º, II, do RI-STJ, nego provimento ao recurso especial.
+Publique-se.
