@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto por DIEGO OLIVEIRA DA CUNHA, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do eg. Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+"APELAÇÃO CIVEL. ALIENAÇÃO FIDUCIÁRIA EM GARANTIA. AÇÃO REVISIONAL.
+1. POSSIBILIDADE DE INCIDÊNCIA DE CAPITALIZAÇÃO MENSAL DE JUROS APÓS A EDIÇÃO DA MEDIDA PROVISÓRIA Nº 2.170/2001 E DESDE QUE EXPRESSAMENTE PACTUADA NO CONTRATO. "A PREVISÃO NO CONTRATO BANCÁRIO DE TAXA DE JUROS ANUAL SUPERIOR AO DUODÉCUPLO DA MENSAL É SUFICIENTE PARA PERMITIR A COBRANÇA DA TAXA EFETIVA ANUAL CONTRATADA" (RECURSO ESPECIAL N. 973827/RS, J. 27/06/2012).
+2. A DESCARACTERIZAÇÃO DA MORA DEPENDE DO RECONHECIMENTO DA ABUSIVIDADE DOS ENCARGOS PREVISTOS PARA O PERÍODO DA NORMALIDADE.
+3. CABÍVEL A COMPENSAÇÃO E/OU REPETIÇÃO SIMPLES, CASO VERIFICADA A COBRANÇA DE VALORES INDEVIDOS.
+4. TUTELA PROVISÓRIA. NÃO PREENCHIDOS OS REQUISITOS EXIGIDOS PELO SUPERIOR TRIBUNAL DE JUSTIÇA.
+RECURSO IMPROVIDO." (e-STJ,fl.230)
+Em suas razões recursais, o recorrente aponta violação dos artigos 6º, 47, 46 e 52, incisos I a III, todos da Lei 8.078/90 - Código de Defesa do Consumidor, bem como o artigo 28, parágrafo 1º, inciso I, da Lei 10.931/04, e divergência jurisprudencial, sustentando, em síntese, que: 1) há ilegalidade na pactuação de capitalização diária de juros, uma vez que não fora expressamente pactuada, não se podendo deduzir sua pactuação pela previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal e 2) o reconhecimento da ilegalidade da capitalização dos juros gera a descaracterização da mora do recorrente.
+Apresentadas contrarrazões às fls. 276/284 (e-STJ)
+É o relatório. Passo a decidir.
+O Tribunal de origem, no que diz respeito à capitalização diária de juros, expressamente consignou o seguinte:
+"Outrossim, nos termos da jurisprudência consolidada do E. Superior Tribunal de Justiça em sede de julgamento de incidente repetitivo (Recurso Especial n. 973827/RS, Quarta Turma, Rel. Min. Luis Felipe Salomão, julgado em 27/06/2012), a "previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada". Ainda, ausente ilegalidade na pactuação de capitalização diária de juros 1 . (e-STJ fl. 227/228)
+O precedente ao qual o excerto acima transcrito faz remissão assim prevê:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. DECISÃO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. TRÊS CÉDULAS DE CRÉDITO BANCÁRIO. CAPITALIZAÇÃO DE JUROS. JUROS COMPOSTOS. ARGUIÇÃO INFUNDADA. PERIODICIDADE DIÁRIA. POSSIBILIDADE. MATÉRIA DE DIREITO. REEXAME FÁTICO- PROBATÓRIO. DESCABIMENTO.
+1. A autorização legal para a periodicidade em que pode ocorrer a pactuação da capitalização dos juros é matéria de direito.
+2. "A capitalização dos juros em periodicidade inferior à anual deve vir pactuada de forma expressa e clara. A previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada" (2ª Seção, REsp 973.827/RS, Rel. p/ acórdão Ministra Maria Isabel Gallotti, DJe de 24.9.2012).
+3. Agravo regimental a que se nega provimento. (AgRg no REsp 1355139/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 05/08/2014, DJe 15/08/2014)
+De fato, é entendimento desta Corte Superior que é legal a cobrança de juros capitalizados em periodicidade diária, desde que expressamente pacutada, situação em que a referida taxa diária deve vir discriminada, senão vejamos:
+CIVIL E PROCESSUAL CIVIL. BANCÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CAPITALIZAÇÃO DIÁRIA E MENSAL DE JUROS. ILEGALIDADE PARCIAL. RESULTADO EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STJ. SÚMULA N. 83/STJ. DECISÃO MANTIDA.
+1. "Insuficiência da informação acerca das taxas efetivas mensal e anual, na hipótese em que pactuada capitalização diária, sendo imprescindível, também, informação acerca da taxa diária de juros, a fim de se garantir ao consumidor a possibilidade de controle "a priori" do alcance dos encargos do contrato" (REsp 1826463/SC, Rel. Ministro PAULO DE TARSO SANSEVERINO, SEGUNDA SEÇÃO, julgado em 14/10/2020, DJe 29/10/2020).
+2. "É permitida a capitalização de juros com periodicidade inferior à anual em contratos celebrados com instituições integrantes do Sistema Financeiro Nacional a partir de 31/3/2000 (MP n. 1.963-17/2000, reeditada como MP n. 2.170-36/2001), desde que expressamente pactuada" (Súmula n. 539/STJ).
+3. "A previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada" (Súmula n. 541/STJ).
+4. No presente caso, o desfecho conferido ao processo está alinhado à jurisprudência do STJ, considerando parcialmente abusiva a cláusula contratual na parte em que, apesar de prever as taxas efetivas anual e mensal, mantidas pelo acórdão recorrido, não dispõe acerca da taxa diária.
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.907.213/SC, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 9/5/2022, DJe de 16/5/2022.)
+No caso dos autos, a Corte de origem limitou-se a afirmar que a previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada, sem mencionar se, de fato, houve informação clara em relação à taxa diária de juros.
+Nesse contexto, considerando que verificar a pactuação dos juros capitalizados diariamente demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório, impõe-se o retorno dos autos à Corte de origem.
+Diante do exposto, nos termos do art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial, a fim de determinar o retorno dos autos ao Tribunal de origem para que reexamine a questão da legalidade da capitalização diária de juros, nos termos da fundamentação acima.
+Publique-se.
