@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto por LEONI RAQUEL SEEMUND CAMARGO com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Mato Grosso, assim ementado:
+RECURSO DE AGRAVO DE INSTRUMENTO - EXECUÇÃO PARA ENTREGA DE COISA INCERTA CONVERTIDA EM EXECUÇÃO POR QUANTIA CERTA- PENHORA ON LINE DE CRÉDITOS BANCÁRIOS DA AGRAVADA ANTES DA CITAÇÃO - OPOSTA EXCEÇÃO DE PRÉ- EXECUTIVIDADE - RECONHECIMENTO DA NULIDADE DA CITAÇÃO - COMPARECIMENTO ESPONTÂNEO DA EXECUTADA - DEVOLUÇÃO DO CRÉDITO BANCÁRIO BLOQUEADO RELEGADA PARA APÓS O TRÂNSITO EM JULGADO - TRANSCURSO DE MAIS DE TRÊS DIAS DESDE O COMPARECIMENTO ESPONTÂNEO SEM O PAGAMENTO DO DÉBITO OU INDICAÇÃO DE BENS À PENHORA - MANUTENÇÃO DA CONSTRIÇÃO - RECURSO PROVIDO.
+Nos casos de penhora on line efetivada antes da citação, descabe desconstituir a constrição se, desde o comparecimento espontâneo - quando considerada citada - a executada deixou transcorrer in albis o tríduo legal (art.829, do CPC/15), sem demonstrar qualquer boa vontade em adimplir do débito exequendo ou indicar outros bens à penhora, especialmente se opostos embargos à execução pela agravada, o qual teve indeferido o pedido de efeito suspensivo, sem que haja notícia de interposição de recurso contra tal decisum.-
+Não foram opostos embargos de declaração.
+Nas razões do recurso especial, sustenta o recorrente, além de dissídio jurisprudencial, que o Tribunal a quo negou vigência aos arts. 281 e 805 do CPC/2015, na medida em que a penhora on line efetivada no processo é nula de pleno direito, considerando que o ato de citação se mostrou inválido.
+Apresentadas contrarrazões ao recurso especial a fls. 231/241.
+É o relatório. Passo a decidir.
+Na origem, trata-se de Agravo de Instrumento contra decisão que determinou a penhora pelo sistema Bacenjud até o limite da dívida executada, argumentando a parte executada, ora agravante, que é nula a constrição dos ativos financeiros em decorrência da ausência de citação válida, não obstante o seu comparecimento espontâneo.
+Acerca da questão recursal, o Tribunal a quo aplicou o entendimento segundo o qual, não há nulidade do ato citatório se a parte ré, devedora, comparece espontaneamente aos autos; tornou incontroverso o comparecimento espontâneo do devedor, em momento processual que permitiu ampla defesa.
+Confira-se trecho do voto condutor do acórdão recorrido, in verbis:
+Ora, no caso, ainda que por ocasião da penhora on line a citação da agravada recorrida não tivesse se perfectibilizado, a partir do momento em que esta compareceu espontaneamente em juízo, deflagrou-se o prazo de três dias, de que trata o caput do art.829 do CPC/15, para o pagamento voluntário da dívida exequenda, sob pena de penhora.
+No entanto, até onde se sabe, não há qualquer evidência de que nos três dias que se sucederam ao comparecimento espontâneo da agravada tivesse havido o pagamento voluntário do débito exequendo, o que, por si só, bastaria para alterar o status da contrição impugnada que, embora inicialmente questionável, acabou se legitimando pela inércia da executada recorrente desde que voluntariamente compareceu nos autos.
+Logo, não se afigura razoável desconstituir a penhora efetivada, se apesar de já ter alcançado a quadra que lhe permite o exercício do contraditório e da ampla defesa, bem como a satisfação do valor de que é devedora, a agravada preferiu a inércia.
+Mais que isso, a agravada já opôs os Embargos à Execução n. 1004365-11.2022.8.11.0040, tendo o pedido de efeito suspensivo sido indeferido na decisão de ID. n. 90944434 daqueles autos.
+Acerca de tal decisão, a agravada - lá embargante - registrou ciência da decisão que indeferiu o efeito suspensivo aos seus embargos em 02.08.2022, com prazo para interposição de agravo previsto para terminar em 23.08.2022. (Destaques nossos)
+Deveras, o comparecimento da parte somente supre a ausência de citação ou intimação quando ainda é possível exercer plenamente o direito de defesa. Tal ocorre, certamente, quando comparece aos autos antes de exaurida qualquer possibilidade de participação no procedimento já findo, com trânsito em julgado, de liquidação de sentença.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA AGRAVADA.
+1. As questões postas à discussão foram dirimidas pelo órgão julgador de forma suficientemente ampla, fundamentada e sem omissões, portanto, deve ser afastada a alegada violação aos artigos 489 e 1.022 do CPC/15. Precedentes.
+2. Consoante entendimento reiterado do STJ, o comparecimento espontâneo do réu no processo supre a ausência de sua intimação quando é atingida a finalidade do ato, qual seja, cientificar a parte, de modo inequívoco, acerca da demanda ajuizada contra ela.
+2.1. Hipótese em que o comparecimento espontâneo ocorreu por intermédio da juntada aos autos de procuração que conferia à parte o poder de receber intimações em nome da representada. Inexistência de vício de intimação. Precedentes.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1938650/MT, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 12/12/2022, DJe de 16/12/2022)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO, NA ORIGEM. OMISSÃO. INEXISTÊNCIA. PRESCRIÇÃO. COMPARECIMENTO ESPONTÂNEO AOS AUTOS. SUPRIMENTO DO VÍCIO DE CITAÇÃO. INTERRUPÇÃO DO PRAZO PRESCRICIONAL. RETROAÇÃO À DATA DA PROPOSITURA DA DEMANDA. AGRAVO INTERNO IMPROVIDO.
+1. Não se verifica a alegada violação aos arts. 489, § 1º, IV, e 1.022 do CPC/2015, na medida em que a eg. Corte Estadual dirimiu, fundamentadamente, os pontos essenciais ao deslinde da controvérsia.
+2. O comparecimento espontâneo do executado aos autos supre a nulidade da citação, promovendo a interrupção da prescrição com efeitos retroativos à data da propositura da demanda, na forma do art. 219, § 1º, do CPC/73 (art. 240, § 1º, do CPC/2015).
+Precedentes.
+3. Agravo interno improvido.
+(AgInt no AREsp 2092513/GO, de minha Relatoria, QUARTA TURMA, julgado em 26/9/2022, DJe de 7/10/2022)
+No presente caso, reforce-se, ainda que por ocasião da penhora on line a citação da part e executada não tivesse se perfectibilizado, a partir do momento em que esta compareceu espontaneamente em juízo, deflagrou-se o prazo de três dias, de que trata o caput do art. 829 do CPC/15, para o pagamento voluntário da dívida exequenda.
+Dessa forma, entende-se que o acórdão recorrido deve ser confirmado pelos seus próprios fundamentos.
+Diante do exposto, nos termos do art. 255, §4º, II, do RISTJ, nego provimento ao recurso especial. E, quanto ao ônus da sucumbência recursal, deixo de majorar os honorários de advogado nos termos do §11 do art. 85 do CPC/2015, posto que o recurso especial é oriundo de agravo de instrumento.
+Publique-se.
