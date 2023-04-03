@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/03/2023 a 03/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão que conheceu do Agravo para não conhecer do Recurso Especial, assim fundamentada (e-STJ fls. 262-266):
+Quanto à primeira controvérsia, na espécie, não foi demonstrado o dissídio jurisprudencial, pois inexistente a necessária similitude fática entre o acórdão recorrido e aquele(s) apontado(s) como paradigma(s), tendo em vista que são diversas as circunstâncias concretas neles delineadas e o direito aplicado.
+ ..
+Quanto à segunda controvérsia, incide o óbice da Súmula n. 284/STF em razão da ausência de comando normativo do(s) dispositivo(s) legal(is) objeto do dissídio jurisprudencial, o que atrai, por conseguinte, o referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Segundo a jurisprudência do STJ, o óbice de ausência de comando normativo do artigo de lei federal apontado como violado ou como objeto de divergência jurisprudencial incide nas seguintes situações: quando não tem correlação com a controvérsia recursal, por versar sobre tema diverso; e quando sua indicação não é apta, por si só, para sustentar a tese recursal, seja porque o dispositivo legal tem caráter genérico, seja porque, embora consigne em seu texto comando específico, exigiria a combinação com outros dispositivo legais.
+Ressalte-se, por oportuno, que a indicação genérica do artigo de lei que teria sido contrariado induz à compreensão de que a violação alegada é somente de seu caput, pois a ofensa aos seus desdobramentos também deve ser expressamente indicada. Nesse sentido, vale citar os seguintes julgados:
+ ..
+Ademais, não foi comprovada a divergência jurisprudencial, uma vez que não foi cumprido nenhum dos requisitos previstos nos arts. 1.029, § 1º, do CPC, e 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça.
+ ..
+Além disso, verifica-se que a tese recursal que serve de base para o dissídio jurisprudencial não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Dessa forma, reconhecida a ausência de prequestionamento da tese recursal objeto da divergência, inviável a demonstração do referido dissenso em razão da inexistência de identidade entre os arestos confrontados, requisito indispensável ao conhecimento do recurso especial pela alínea "c" do permissivo constitucional.
+Em suas razões, a parte agravante sustenta não haver nenhum óbice sumular aplicável ao presente caso.
+Afirma que (e-STJ fls. 270-281):
+Quanto à primeira controvérsia, na espécie, não foi demonstrado o dissídio jurisprudencial, pois inexistente a necessária similitude fática entre o acórdão recorrido e aquele(s) apontado(s) como paradigma(s), tendo em vista que são diversas as circunstâncias concretas neles delineadas e o direito aplicado.
+ ..
+Quanto à segunda controvérsia, incide o óbice da Súmula n. 284/STF em razão da ausência de comando normativo do(s) dispositivo(s) legal(is) objeto do dissídio jurisprudencial, o que atrai, por conseguinte, o referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+ ..
+Segundo a jurisprudência do STJ, o óbice de ausência de comando normativo do artigo de lei federal apontado como violado ou como objeto de divergência jurisprudencial incide nas seguintes situações: quando não tem correlação com a controvérsia recursal, por versar sobre tema diverso; e quando sua indicação não é apta, por si só, para sustentar a tese recursal, seja porque o dispositivo
+ ..
+Ademais, não foi comprovada a divergência jurisprudencial, uma vez que não foi cumprido nenhum dos requisitos previstos nos arts. 1.029, § 1º, do CPC, e 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça.
+ ..
+Além disso, verifica-se que a tese recursal que serve de base para o dissídio jurisprudencial não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Dessa forma, reconhecida a ausência de prequestionamento da tese recursal objeto da divergência, inviável a demonstração do referido dissenso em razão da inexistência de identidade entre os arestos confrontados, requisito indispensável ao conhecimento do recurso especial pela alínea "c" do permissivo constitucional.
+Ressalte-se, por oportuno, que a indicação genérica do artigo de lei que teria sido contrariado induz à compreensão de que a violação alegada é somente de seu caput, pois a ofensa aos seus desdobramentos também deve ser expressamente indicada. Nesse sentido, vale citar os seguintes julgados:
+Sem Impugnação (e-STJ fl. 285).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL (ART. 105, III, "C", DA CF). AÇÃO RESCISÓRIA. DISSÍDIO NÃO DEMONSTRADO. DISPOSITIVO LEGAL OBJETO DE DIVERGÊNCIA JURISPRUDENCIAL. AUSENCIA DE COMANDO NORMATIVO. SÚMULA 284/STF.
+1. O presente agravo interno foi interposto contra decisão publicada na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo n. 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016.
+2. Não se conhece do recurso especial interposto com base na alínea "c" do permissivo constitucional quando a divergência não é demonstrada nos termos em que exigido pela legislação processual de regência (1.029, § 1º, do CPC/2015 e do art. 255, §§ 1º e 2º, do RISTJ). No caso, o dissídio não foi comprovado, tendo em vista que não foi realizado o devido cotejo analítico, com a demonstração clara do dissídio entre os casos confrontados, identificando os trechos que os assemelhem, não se oferecendo, como bastante, a simples transcrição de ementas ou votos.
+3. A indicação de dispositivo de lei federal apontado como violado ou objeto de divergência jurisprudencial desprovido de comando normativo apto à modificação do acórdão recorrido caracteriza deficiência da irresignação recursal, o que atrai a incidência da Súmula 284 do STF.
+4. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se, inicialmente, que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Registre-se também que é possível ao Relator dar ou negar provimento ao recurso em decisão monocrática, nas hipóteses em que há jurisprudência dominante quanto ao tema, como autorizado pelo art. 34, XVIII, do RISTJ e pela Súmula 568/STJ.
+A despeito das alegações do Agravante, razão não lhe assiste, devendo a decisão agravada ser mantida.
+Conforme consignado na decisão agravada, para interposição de recurso especial fundado na alínea c do inciso III, do art. 105 da CF, é necessário o atendimento dos requisitos essenciais para comprovação do dissídio pretoriano, conforme prescrições dos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ, o que não ocorreu no caso.
+Nos termos da jurisprudência desta Corte Superior de Justiça a divergência jurisprudencial exige comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos do acordão recorrido e do acórdão paradigma que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, realizando-se o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações. Nesse sentido: AgRg no REsp 1.558.877/PR, Rel. Min. Herman Benjamin, Segunda Turma, DJe 5/2/2016; AgRg no AREsp 752.892/RS, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe 4/11/2015.
+Com efeito, não basta "a mera transcrição de ementas ou de excertos do julgado (ou mesmo a íntegra do acórdão paradigmático) alegadamente dissidente, sem exposição das circunstâncias que identifiquem ou assemelhem os casos confrontados." (AgRg no AREsp 738.599/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe 23/2/2016).
+No mais, quanto à "segunda controvérsia, alega dissídio jurisprudencial em relação à aplicação do art. 535, § 8º, do CPC, no que concerne à possibilidade de interposição de ação rescisória pelo credor no prazo estabelecido no artigo citado em razão do critério da isonomia processual", conforme pontuado na monocrática agravada o referido dispositivo legal não possui comando normativo suficiente capaz de amparar a tese defendida no apelo nobre, tampouco de alterar o julgado, nos termos pretendido.
+Nesse contexto, impõe-se não apenas a correta indicação dos dispositivos legais supostamente contrariados pelo Tribunal a quo, mas também a delimitação da violação da matéria insculpida nos regramentos indicados, para que, assim, seja viabilizado o necessário confronto interpretativo e, consequentemente, o cumprimento da incumbência constitucional revelada com a uniformização do direito infraconstitucional sob exame.
+Na espécie, incide o óbice da Súmula n. 284/STF em razão da ausência de comando normativo do(s) dispositivo(s) apontado(s) como violado(s), o que atrai, por conseguinte, o referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Nesse sentido, vale citar os seguintes julgados:
+PROCESSUAL CIVIL E TRIBUTÁRIO. IPTU. IMUNIDADE. FUNDAMENTAÇÃO DEFICIENTE. EXECUÇÃO FISCAL. RFFSA E UNIÃO. TRANSFERÊNCIA PATRIMONIAL. CURSO DA DEMANDA. SUCESSORA. REDIRECIONAMENTO. POSSIBILIDADE. SUBSTITUIÇÃO DA CDA. DESNECESSIDADE.
+1. Os apontados arts. 130 e 131 do CTN não têm comando normativo para amparar a tese de imunidade do IPTU em favor da RFFSA, visto que tais dispositivos legais cuidam de tema diverso, referente à responsabilidade tributária por sucessão, sendo certo que a deficiência da irresignação recursal nesse ponto enseja a aplicação da Súmula 284 do STF.
+ ..
+(AgInt no REsp n. 1.764.763/PR, rel. Min. Gurgel de Faria, Primeira Turma, DJe de 27/11/2020.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. BANCÁRIO. CÉDULO DE CRÉDITO BANCÁRIO. JUROS REMUNERATÓRIOS. CÉRTIFICADO DE DEPÓSITO INTERBANCÁRIO (CDI). PREQUESTIONAMENTO. AUSÊNCIA. FUNÇÃO DESEMPENHADA PELO CÉRTIFICADO DE DEPÓSITO INTERBANCÁRIO (CDI). REEXAME. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. VIOLAÇÃO À SÚMULA. IMPOSSIBILIDADE. SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.  ..
+4. No que tange à aduzida ofensa ao art. 12, § 1º, VI, da Lei n. 10.931/04, o presente recurso não merece prosperar, porquanto o referido dispositivo não confere sustentação aos argumentos engendrados. Incidência da Súmula 284/STF. 5. O mesmo óbice representado pelo enunciado da Súmula 284/STF incide no que diz respeito à alegada ofensa aos arts. 421 e 425 do Código Civil, que veiculam comandos normativos demasiadamente genéricos e que não infirmam as conclusões do Tribunal de origem.
+ ..
+7. Agravo interno não provido (AgInt no AREsp n. 1.674.879/SP, rel. Min. Luis Felipe Salomão, Quarta Turma, DJe de 12/3/2021.)
+Ante o exposto, nega-se provimento ao Agravo Interno.
+É como voto.
