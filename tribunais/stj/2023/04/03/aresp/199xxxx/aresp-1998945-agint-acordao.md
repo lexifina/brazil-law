@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/03/2023 a 03/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva e lavrou este acórdão, nos termos do art. 52, IV, b, do RISTJ.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. NULIDADE DE CITAÇÃO. COMPARECIMENTO ESPONTÂNEO. AUSÊNCIA DE PREJUÍZO. FUNDAMENTOS NÃO IMPUGNADOS. SÚMULA 283/STF. INEXISTÊNCIA DE HERANÇA. NECESSIDADE DE DILAÇÃO PROBATÓRIA. DOCUMENTOS QUE DEVEM SER APRECIADOS EM SEDE DE EMBARGOS À EXECUÇÃO. FUNDAMENTOS NÃO ATACADOS. SÚMULA 283/STF. ADEMAIS, REVISÃO DE MATÉRIA FÁTICA DOS AUTOS. SÚMULA 7/STJ. RAZÕES QUE NÃO INFIRMAM A DECISÃO AGRAVADA.
+AGRAVO INTERNO DESPROVIDO.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por NAY ARA JULIA DELIBERADOR FARIA, LUCIENE APARECIDA DA SILVA DELIBERADOR, HAROLDO DELIBERADOR NETO, contra decisão que conheceu o agravo para não conhecer o recurso especial, assim ementada:
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. NULIDADE DE CITAÇÃO. COMPARECIMENTO ESPONTÂNEO. AUSÊNCIA DE PREJUÍZO. FUNDAMENTOS NÃO IMPUGNADOS. SÚMULA 283/STF. INEXISTÊNCIA DE HERANÇA. NECESSIDADE DE DILAÇÃO PROBATÓRIA. DOCUMENTOS QUE DEVEM SER APRECIADOS EM SEDE DE EMBARGOS À EXECUÇÃO. FUNDAMENTOS NÃO ATACADOS. SÚMULA 283/STF. ADEMAIS, REVISÃO DE MATÉRIA FÁTICA DOS AUTOS. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA, DESDE LOGO, NÃO CONHECER O RECURSO ESPECIAL. (e-STJ, fl. 204)
+Em suas razões, os agravantes alegam que "combateram o argumento de não admissão do Recurso Especial no tocante à nulidade da citação, esclarecendo que "Quando do julgamento do referido agravo a 1ª Câmara Cível do Egrégio Tribunal de Justiça do Paraná NEGOU PROVIMENTO ao agravo sob o argumento de que o comparecimento dos réus aos autos e a falta de prejuízo às suas defesas seriam óbice para o reconhecimento da nulidade pretendida, ferindo com isso a Lei Federal" (grifo nosso), citando em seguida a ementa do julgado" (e-STJ, fl. 216).
+Defendem que demonstraram que o julgamento do Recurso Especial independe do revolvimento fático, "juntando um julgado em fl. 09 do referido Agravo em Recurso Especial".
+Impugnação apresentada (e-STJ, fls. 224/225).
+É o breve relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. NULIDADE DE CITAÇÃO. COMPARECIMENTO ESPONTÂNEO. AUSÊNCIA DE PREJUÍZO. FUNDAMENTOS NÃO IMPUGNADOS. SÚMULA 283/STF. INEXISTÊNCIA DE HERANÇA. NECESSIDADE DE DILAÇÃO PROBATÓRIA. DOCUMENTOS QUE DEVEM SER APRECIADOS EM SEDE DE EMBARGOS À EXECUÇÃO. FUNDAMENTOS NÃO ATACADOS. SÚMULA 283/STF. ADEMAIS, REVISÃO DE MATÉRIA FÁTICA DOS AUTOS. SÚMULA 7/STJ. RAZÕES QUE NÃO INFIRMAM A DECISÃO AGRAVADA.
+AGRAVO INTERNO DESPROVIDO.
+VOTO
+Eminentes Colegas, o agravo interno não merece prosperar, porquanto ausente argu mentação hábil a comprovar a necessidade de modificação da decisão agravada.
+Isso porque quanto à nulidade de citação pela ausência de esgotamento dos meios, consta do acórdão recorrido que:
+Como já antecipado na decisão de indeferimento da tutela de urgência, certo é que eventual nulidade da citação por edital é suprida em razão do comparecimento espontâneo dos réus, ainda mais quando não demonstrado qualquer prejuízo às partes.
+Outrossim, não houve comprovação de nenhum prejuízo aos devedores no exercício de sua defesa, sendo certo que a existência de prejuízo é requisito indispensável para o reconhecimento da nulidade. É de se ressaltar que os princípios da instrumentalidade das formas, previsto no artigo 277 do CPC/15 reforça a ideia de que não há nulidade quando não houver prejuízo às partes. (e-STJ, fls. 62/63 - grifou-se)
+Entretanto, as ora agravantes argumentaram, tão somente, o não esgotamento dos meios existentes para realização da citação por edital, deixando de refutar o principal motivo trazido pelo acórdão para indeferir seu pleito, que seja: o comparecimento espontâneo supre a nulidade da citação por edital, bem como afastado qualquer prejuízo às partes.
+Ademais, quanto à alegação de inexistência de herança, o Tribunal de origem também fundamentou que:
+De outro lado, a alegação de inexistência de herança, para fins de decretação de ilegitimidade passiva, depende de dilação probatória, com produção do contraditório e da ampla defesa, inviável na via eleita.
+Isso porque o argumento de que não haveria bens a fim de suportar a execução trata de questão que deve ser apreciada em sede de embargos à execução, não se prestando a justificar pedido de declaração de ilegitimidade. Ilegitimidade, num primeiro momento, não há, na medida em que os agravantes são, de fato, herdeiros do devedor primitivo.
+Afinal, uma vez falecido o titular dos bens, opera-se a sucessão, e, com ela, o princípio da, transferindo automaticamente todos os bens deixados aos herdeiros, pelo menos de saisine forma temporária. Assim, a questão patrimonial que advém de tal situação deve ser discutida em via que se permita produção de provas, a fim de se esgotar questão acerca do patrimônio, por não se tratar de condição da ação.
+Ademais, os documentos de mov. 145.9 e de mov. 145.10 não se mostram suficientes a sustentar a posição dos agravantes, porque, como se é notório nas questões sucessórias, nem sempre a abertura de inventário coincide com a abertura da sucessão. E não se tem notícia da existência de inventário negativo. (e-STJ, fl. 64 - grifou-se)
+Contudo, as agravantes argumentaram, tão somente, a mera abusividade de penhora pela inexistência de herança, deixando de refutar o principal motivo trazido pelo acórdão para indeferir seu pleito, que seja: a impossibilidade de se verificar tal alegação em tal momento por necessitar de dilação probatória. Ademais, consignou que os documentos constantes nos autos não são suficientes para a verificação da alegação, sendo questão que deve ser apreciada em sede de embargos à execução.
+Desse modo, a subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, impede a admissão da pretensão recursal, a teor do entendimento da Súmula nº 283/STF: "é inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Por fim, discordar do entendimento do Colegiado acerca da alegação de abusividade da penhora em razão da inexistência de herança é necessário reexaminar o conjunto fático-probatório, o que é inadmitido pela Súmula 7 do STJ.
+Assim, é de rigor a manutenção da decisão recorrida, uma vez que as alegações trazidas no agravo interno não são aptas a desconstituí-la.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
