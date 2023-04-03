@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/03/2023 a 03/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno interposto por Loide da Silva Martins desafiando decisão que negou provimento ao agravo em recurso especial, sob os seguintes fundamentos: (I) inexistência de ofensa aos artigos 489, § 1º, IV e 1.022, II, parágrafo único, do CPC; e (II) a alteração das conclusões adotadas pela Corte de origem demandaria novo exame do acervo fático-probatório constante dos autos, providência vedada pela Súmula 7/STJ.
+Opostos embargos declaratórios, foram rejeitados (fls. 533/535).
+A parte agravante, em suas razões, repisa seus argumentos quanto à negativa de prestação jurisdicional, bem como à não aplicação ao caso de reexame de provas dos autos, sob a alegação de que "a pretensão da recorrente, ora agravante, está a tratar, do pedido de nova publicação da decisão mérito, haja vista que decisão na origem remeteu-se ao trânsito em julgado anterior a alteração ocorrida, em flagrante inobservância que ao ocorrer uma nova republicação será reaberto prazo para recurso, na medida em que se tratam estes de atos incontroversos, não sujeitos à análise fático-probatória a ensejar a aplicação da Súmula 7 do STJ quando da negativa de seguimento do Especial manejado e que, por si só, afastarem eventual inércia atribuída a parte demandante a ensejar reconhecimento do instituto da prescrição, nos termos em que proferida a decisão." (fls. 549/550)
+As razões do recurso foram impugnadas, às fls. 584/592.
+É o relatório.
+EMENTA
+SERVIDOR PÚBLICO. PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. VIOLAÇÃO AOS ARTS. 489, § 1º, IV, E 1.022, II, PARÁGRAFO ÚNICO, DO CPC. NÃO OCORRÊNCIA. REDISCUSSÃO DE MATÉRIA FÁTICA. NECESSIDADE. SÚMULA 7/STJ. INCIDÊNCIA.
+1. Não ocorreu omissão no aresto combatido, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. A alteração das conclusões adotadas pela Corte de origem , tal como proposta pela recorrente, demandaria, necessariamente, novo exame do acervo probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A irresignação não merece acolhimento, tendo em conta que a parte agravante não logrou desenvolver argumentação apta a desconstituir os fundamentos adotados pela decisão recorrida.
+Como asseverado na referida decisão, verifica-se não ter ocorrido qualquer omissão no aresto combatido, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+A propósito, "Não há que se falar em negativa de prestação jurisdicional, visto que tal somente se configura quando, na apreciação de recurso, o órgão julgador insiste em omitir pronunciamento sobre questão que deveria ser decidida, e não foi.  ..  A solução integral da controvérsia, com fundamento suficiente, não caracteriza negativa de prestação jurisdicional." (AgInt no AREsp 879.172/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 22/09/2016, DJe 28/09/2016).
+Neste sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGADA VIOLAÇÃO AO ART. 535 DO CPC/73. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. AÇÃO CIVIL PÚBLICA. MINISTÉRIO PÚBLICO. ATUAÇÃO COMO PARTE. INTERVENÇÃO COMO FISCAL DA LEI. DESNECESSIDADE. PRECEDENTES DO STJ. ANTECIPAÇÃO DOS EFEITOS DA TUTELA. REQUISITOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. QUESTÃO DE MÉRITO AINDA NÃO JULGADA, EM ÚNICA OU ÚLTIMA INSTÂNCIA, PELO TRIBUNAL DE ORIGEM. EXAME. IMPOSSIBILIDADE. SÚMULA 735/STF. AGRAVO INTERNO IMPROVIDO.
+ ..
+III. Não há falar, na hipótese, em violação ao art. 535 do CPC/73, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão dos Embargos Declaratórios apreciaram fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+ ..
+VII. Agravo interno improvido.
+(AgInt no AREsp 698.557/BA, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 13/09/2016, DJe 27/09/2016).
+Ademais, colheu-se do acórdão o seguinte trecho, in verbis (fls. 162/166):
+Do que consta no caderno processual, as partes não se ativeram acerca da divergência entre o percentual escrito por extenso e o numeral indicado, sendo, inclusive, interposta apelação sem qualquer menção à referida divergência, recurso este julgado em 26/04/2009, com trânsito em julgado em 22/05/2009 (fls. 61/68).
+Em 16/08/2010 a parte autora requereu a retificação do erro material, o qual foi reconhecido e corrigido pelo Juízo a quo em 04/01/2011, nos seguintes termos (fls. 75 e 79/80):
+"Recebo, conheço e defiro os embargos de declaração para retificação do erro material contido no dispositivo sentencial. Passa a constar:
+"Condeno o requerido no pagamento de 70% das custas processuais e honorários advocatícios, que quantifico em quatro por cento (4%) sobre as parcelas vencidas até a data da prolação da sentença (..)". (Grifei).
+A autora foi intimada desta decisão por nota de expediente em 19/01/2011, nada tendo dito à época (fls. 82/83). Posteriormente, foi determinada sua intimação para dar prosseguimento ao feito, sob pena de arquivamento com baixa, tendo o prazo transcorrido sem qualquer manifestação, e os autos foram baixados em 01/04/2011 (fls. 87/89).
+Dez anos depois, em 21/06/2021, a autora peticionou requerendo nova certificação do trânsito em julgado, pois o reconhecimento do erro material teria implicado modificação da sentença (fls. 91/92), ao que o Juízo indeferiu "na medida em que a ação ordinária transitou em julgado em 22.05.2009, conforme certidão de fls. 150" (fl. 94).
+Expostos os fatos relevantes ao deslinde da controvérsia, tenho que sem razão a recorrente, na medida em que o erro material pode ser conhecido a qualquer tempo, não implicando nova certificação do trânsito em julgado da decisão que o reconheceu e o corrigiu, pois que não implica alteração do julgado.
+(..)
+Não há falar em modificação do dispositivo sentencial, no caso dos autos, pois a retificação no percentual dos honorários advocatícios espelha, tão somente, a intelecção lógica do constante no próprio dispositivo original da sentença (..).
+(..)
+De efeito, o Juízo fixou os honorários advocatícios em "cinco por cento (4%)", ao argumento de que o réu foi vencedor em parte do pedido, motivo pelo qual não poderiam ser arbitrados em 5% como usualmente acontece em casos como o dos autos. Portanto, a decorrência lógica do raciocínio deduzido no dispositivo sentencial é a de que os honorários foram arbitrados em 4%, e não como constou na forma escrita por extenso (5%).
+Tanto o é, que ao retificar aquele percentual, o magistrado não se valeu do entendimento jurisprudencial consolidado de há muito nos tribunais, inclusive, no E. STJ, de que, diante de tal divergência, deve prevalecer a forma escrita por extenso. Se assim fizesse, estaria, flagrantemente, contrariando o entendimento lançado na sentença.
+Ao depois, poderia a parte autora, à época, ciente de que a regra usualmente aplicada em situações assim é a de prevalecer a forma escrita, recorrer, no entanto, não o fez, o que, no meu sentir, reafirma a compreensão de que a sentença arbitrou os honorários em quatro por cento (4%) e, portanto, não se pode cogitar de efetiva modificação do dispositivo.
+Ainda que assim não fosse, deveria a parte se insurgir da certidão de trânsito em julgado ao tempo em que o erro material foi corrigido.
+Contudo, intimada em duas ocasiões distintas após a retificação do percentual, a autora não se manifestou (fls. 82/83 e 87/89).
+E mais. Foi advertida de que o silêncio implicaria arquivamento do processo, com baixa. Porém, deixou o prazo transcorrer sem qualquer manifestação nos autos e, por consequência, houve o arquivamento.
+Nessas condições, não pode a parte, agora, depois de 10 (dez) anos da retificação do dispositivo sentencial, pretender seja alterada a data do trânsito em julgado da demanda, pois preclusa a oportunidade para tanto.
+Está correto, pois, o decisum ao observar que, diante desse quadro, a inversão do que foi decidido pelo Tribunal, tal como postulado nas razões do recurso especial, exigiria novo exame do acervo fático-probatório constante dos autos, providência que desafia a Súmula 7/STJ.
+Em face do exposto, nega-se provimento ao agravo interno.
+É o voto.
