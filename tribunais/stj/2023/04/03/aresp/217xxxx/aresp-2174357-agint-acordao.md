@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/03/2023 a 03/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+Trata-se de agravo interno interposto pelo ESTADO DO RIO DE JANEIRO contra a decisão que conheceu do agravo para não conhecer do seu recurso especial nos termos da seguinte ementa:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. MANDADO DE INJUNÇÃO. ADICIONAL NOTURNO. POLICIAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 282/STF. ACORDÃO RECORRIDO. FUNDAMENTO EXCLUSIVAMENTE CONSTITUCIONAL. NÃO CABIMENTO. USURPAÇÃO DE COMPETÊNCIA DO STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL (fl. 535).
+A parte agravante aduz, em síntese, que os dispositivos tidos por malferidos foram prequestionados, o que afasta a incidência da Súmula 282 do STF. Sustenta, ainda, que "as razões expostas no Recurso Especial (fls. 273/286) abordam questões referentes a legislação infraconstitucional, harmonizando com a competência desta C. Corte, conforme preconizado pelo art. 105, III, alínea "a", da Constituição da República" (fl. 547).
+Requer, por fim, a reconsideração da decisão agravada ou a submissão do feito à turma julgadora.
+Sem impugnação, conforme a certidão de fl. 552.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. SERVIDOR PÚBLICO. MANDADO DE INJUNÇÃO. ADICIONAL NOTURNO. POLICIAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 282/STF. ACORDÃO RECORRIDO. FUNDAMENTO EXCLUSIVAMENTE CONSTITUCIONAL. NÃO CABIMENTO. USURPAÇÃO DE COMPETÊNCIA DO STF. AGRAVO INTERNO DESPROVIDO.
+1. Os arts. 884 do CC/2002, 17 do CPC/2015, 20 da LINDB, 1º, 21 e 22 da LC 101/2000 e 2º da Lei 13.300/2016 não foram apreciados pelo Tribunal de origem. A ausência de enfrentamento pelo Tribunal de origem da matéria impugnada, objeto do recurso excepcional, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência, por analogia, da Súmula 282 do STF.
+2. O Tribunal de origem acolheu a pretensão autoral com amparo nos arts. 7º, IX, e 39, § 3º, da CF/1988. Dessa forma, é forçoso reconhecer que, possuindo o acórdão recorrido fundamento eminentemente constitucional, é descabida a revisão do acórdão pela via do recurso especial, sob pena de usurpação da competência do Supremo Tribunal Federal prevista no art. 102 da CF/1988.
+3. Agravo interno a que se nega provimento.
+VOTO
+Presentes os pressupostos de admissibilidade, conheço do recurso sob a égide do Código de Processo Civil de 2015.
+Não obstante as alegações da parte agravante, razão não lhe assiste.
+A parte agravante sustenta não ser hipótese de aplicação do enunciado da Súmula 282/STF.
+O prequestionamento é requisito previsto no inciso III do artigo 105 da Constituição Federal e impõe que somente causas decididas por Corte Estadual, Regional Federal ou do Distrito Federal e Territórios sejam autorizadas ao exame por meio de recurso especial. Se a controvérsia, tal como a apresentada no apelo nobre, não foi decidida, não há que se falar em abertura dessa via recursal.
+No caso, o Tribunal de origem não se manifestou a respeito dos arts. 884 do CC/2002, 17 do CPC/2015, 20 da LINDB, 1º, 21 e 22 da LC 101/2000 e 2º da Lei 13.300/2016 indicados no recurso especial, o que denota a falta de pronunciamento ou prequestionamento sobre a controvérsia suscitada.
+Desse modo, mantém-se o não conhecimento do recurso especial com fundamento na Súmula 282/STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+De outro lado, embora tenha sido indicado nas razões do recurso especial violação de dispositivos de lei federal, é incabível o recurso especial, pois interposto contra acórdão com fundamento eminentemente constitucional. A propósito, veja-se trecho do voto condutor do acórdão recorrido:
+Tem-se que a remuneração do trabalho noturno superior ao do diurno se encontra expressamente prevista no art. 7º, IX, da Constituição Federal, sendo tal direito estendido aos servidores públicos ocupantes de cargo público, a teor do disposto no art. 39, §3º, da mesma Constituição
+(..)
+Nesse contexto, observa-se que a remuneração por adicional noturno constitui uma garantia individual, inserida na Constituição Federal, especificamente no capítulo dos direitos sociais, bem como na Constituição do Estado, e que até hoje não foi normatizada pelo legislador estadual.
+Dessa forma, em se tratando de garantia constitucional estendida a todos os empregados e servidores públicos, independentemente do regime jurídico ao qual se encontram submetidos ou da existência de previsão contratual ou infraconstitucional, e também por se tratar de norma de eficácia plena, a teor do disposto no art. 5º, §1º, da CF/88, o adicional noturno deve ser concedido ao ora impetrante (fls. 105/108).
+Com efeito, o Tribunal de origem acolheu a pretensão autoral de "reconhecimento da omissão do Exmo Sr. Governador quanto à regulamentação da norma contida no art. 7º, IX e art. 39, §3º, da Constituição Federal, que preveem a remuneração do trabalho noturno superior à do diurno, ou seja, a concessão de adicional noturno" (fl. 105) com amparo nos arts. 7º, IX, e 39, § 3º, da CF/1988. Dessa forma, é forçoso reconhecer que, possuindo o acórdão recorrido fundamento eminentemente constitucional, é descabida a revisão do acórdão pela via do recurso especial, sob pena de usurpação da competência do Supremo Tribunal Federal, prevista no art. 102 da CF/1988.
+Nesse sentido, cito o seguinte julgado do Superior Tribunal de Justiça:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PENSÃO MILITAR. FILHA. REQUISITOS DO ART. 7º DA LEI 3.765/60 C/C LEI 8.216/91. ALEGADA OMISSÃO ACERCA DE VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. AFERIÇÃO. IMPOSSIBILIDADE DE ANÁLISE, EM SEDE DE RECURSO ES PECIAL. ALEGADA OFENSA AO ART. 535 DO CPC/73. NÃO OCORRÊNCIA. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL QUE, EM TESE, TERIA RECEBIDO INTERPRETAÇÃO DIVERGENTE DAQUELA FIRMADA POR OUTROS TRIBUNAIS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF, APLICADA POR ANALOGIA. IMPOSSIBILIDADE DE APRECIAÇÃO DE MATÉRIA CONSTITUCIONAL, EM SEDE DE RECURSO ESPECIAL, SOB PENA DE USURPAÇÃO DA COMPETÊNCIA DO STF. AGRAVO INTERNO IMPROVIDO.
+(..).
+V. Do exame do julgado combatido e das razões recursais, verifica-se que a solução da controvérsia possui enfoque eminentemente constitucional. Dessa forma, compete ao Supremo Tribunal Federal eventual reforma do acórdão recorrido, no mérito, sob pena de usurpação de competência inserta no art. 102 da Constituição Federal. Precedentes do STJ (AgRg no AREsp 584.240/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 03/12/2014; AgRg no REsp 1.473.025/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 03/12/2014).
+VI. Agravo interno improvido.
+(AgInt no REsp 1.377.313/CE, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 18/4/2017, DJe 26/4/2017 - sem destaques no original.)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
