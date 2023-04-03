@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão publicada na vigência do CPC/2015, que inadmitiu o recurso especial em razão da incidência da Súmula n. 83 do STJ (e-STJ fls. 846/848).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 665):
+APELAÇÃO. REGISTROS PÚBLICOS. PEDIDO DE RETIFICAÇÃO ADMINISTRATIVA DE IMÓVEL IMPUGNADO POR CONFRONTANTE. DEMARCAÇÃO DA ÁREA, ALEGAÇÃO DE CONFRONTAÇÕES ESTABELECIDOS EM SENTENÇA JUDICIAL ANTERIOR. SENTENÇA QUE EXTINGUIU O FEITO E ENCAMINHOU OS INTERESSADOS PARA AS VIAS ORDINÁRIAS A FIM DE RESOLUÇÃO DA CONTROVÉRSIA SOBRE O DIREITO DE PROPRIEDADE EM QUESTÃO. PRETENSÃO QUE EXTRAPOLA O ÂMBITO REGISTRAL. EXISTÊNCIA DE LITIGIOSIDADE. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. RATEIO PROPORCIONAL ENTRE OS ADVOGADOS. APLICAÇÃO DO ARTIGO 87 DO CÓDIGO DE PROCESSO CIVIL. DECISÃO MANTIDA. RECURSO CONHECIDO E DESPROVIDO.
+Os embargos de declaração foram acolhidos com efeitos infringentes para "conhecer e dar parcial provimento, visando fixar em 12% (doze por cento) do valor atualizado da causa à apelação os honorários de sucumbência, dos quais 1/3 caberão aos advogados de Adelar José Pegorini e Lidia Wauleczinski Pegorini, 1/3 ao procurador de Arno Alves da Rocha e 1/3 do procurador do Município de Itapejara d"Oeste" (e-STJ fl. 783).
+Nas razões do recurso especial (e-STJ fls. 791/802), fundamentado no art. 105, III, "c", da CF, a parte alega dissídio jurisprudencial acerca da aplicação dos arts. 85 e 87 do CPC/2015.
+Defende que "de acordo com o disposto no artigo 88 do CPC, em procedimentos de jurisdição voluntária, não há condenação em custas processuais ou honorários advocatícios, apenas antecipação de despesas, e final rateio entre os interessados. Assim, o Acórdão proferido nos presentes autos, não só diverge da jurisprudência dos demais tribunais, como afronta a aplicação do dispositivo legal acima citado" (e-STJ fl. 801).
+Requer "seja anulada a decisão que condenou os recorrentes ao pagamento de honorários e custas processuais, para que seja proferida nova decisão excluindo a condenação dos Recorrentes ao pagamento de custas e honorários, tendo em vista não serem cabíveis pela inocorrência de litigiosidade nos presentes autos" (e-STJ fl. 802).
+No agravo (e-STJ fls. 852/862), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada às fls. 866/869 (e-STJ).
+É o relatório.
+Decido.
+O acórdão recorrido encontra-se em conformidade com a jurisprudência desta Corte Superior, segundo a qual, em procedimento de jurisdição voluntária, a existência de litigiosidade excetua a regra de não cabimento de condenação em honorários advocatícios.
+Confiram-se:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO CPC/73. INVENTÁRIO. HABILITAÇÃO DE CRÉDITO. PROCEDIMENTO DE JURISDIÇÃO VOLUNTÁRIA. DISCORDÂNCIA DOS HERDEIROS. REMESSA ÀS VIAS ORDINÁRIAS COM RESERVA DE BENS. DISCUSSÃO SOBRE OS ÔNUS SUCUMBENCIAIS. OCORRÊNCIA DE SUCUMBÊNCIA RECÍPROCA. RECURSO ESPECIAL PROVIDO.
+1. Inaplicabilidade das disposições do NCPC, no que se refere aos requisitos de admissibilidade do recurso especial ao caso concreto, ante os termos do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+2. Esta Corte Superior já proclamou que em procedimento de jurisdição voluntária, a existência de litigiosidade excepciona a regra de não cabimento de condenação em honorários advocatícios. Precedentes.
+3. Havendo resistência dos herdeiros, a rejeição do pedido de habilitação de crédito em inventário enseja a condenação do habilitante em honorários. Contudo, havendo também determinação de reserva de bens e de remessa do feito às vias ordinárias, em razão da existência de documentos suficientes para comprovar o crédito, deve-se concluir que houve sucumbência recíproca, donde decorre a compensação da verba honorária e divisão das custas processuais entre os litigantes.
+4. Recurso especial provido.
+(REsp 1431036/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 17/04/2018, DJe 24/04/2018.)
+RECURSO ESPECIAL. RETIFICAÇÃO DE REGISTRO IMOBILIÁRIO. ARTIGO 213, INCISO I, ALÍNEAS "D" E "E", DA LEI Nº 6.015./1973. SÚMULA Nº 284/STF. INCIDÊNCIA. JURISDIÇÃO VOLUNTÁRIA. AUSÊNCIA DE LITIGIOSIDADE. HONORÁRIOS ADVOCATÍCIOS. NÃO CABIMENTO.
+1. Cuida-se, na origem, de ação de retificação de matrícula de imóvel (jurisdição voluntária), objetivando a correta delimitação do bem registrado, em que foi equivocadamente indicada pessoa para ser citada como suposta proprietária de área confrontante.
+2. Inviável o acolhimento do pleito exordial, em recurso especial, pois o dispositivo legal invocado (art. 216, I, alíneas "d" e "e", da Lei nº 6.015/1973) não garante automaticamente a retificação do registro, nem infirma o fundamento adotado no acórdão recorrido para rejeitar a pretensão inicial, qual seja, a insuficiência de prova da propriedade da área reclamada. Incidência da Súmula nº 284/STF.
+2. Em procedimento de jurisdição voluntária, a existência de litigiosidade excepciona a regra de não cabimento de condenação em honorários advocatícios. Precedentes.
+3. No caso, a mera alegação de ilegitimidade de parte citada como confrontante não torna litigiosa a demanda, não lhe cabendo, portanto, honorários sucumbenciais.
+4. Recurso especial parcialmente provido.
+(REsp 1524634/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 27/10/2015, DJe 03/11/2015.)
+No caso dos autos o Colegiado estadual asseverou que (e-STJ fls.670/671 ):
+Nos termos do artigo 85, caput do CPC, "a sentença condenará o vencido a pagar honorários ao advogado do vencedor", e, por inteligência de seu parágrafo 6º, isso independe do resultado da demanda, vale dizer, de o processo ser extinto sem ou com resolução de mérito.
+É pacífico na jurisprudência, ademais, o entendimento quanto a possibilidade de arbitramento de honorários advocatícios em procedimento de jurisdição voluntária, desde que constatada certa litigiosidade em concreto.
+(..)
+No caso em tela, houve evidente resistência ao pedido autoral, traduzindo-se em litigiosidade propriamente dita, haja vista que, embora a pretensão inicial tenha natureza jurídica de retificação registral, foram arguidos interesses opostos pelas partes, inclusive em sede recursal.
+Portanto, cabível no caso o arbitramento de verba honorária em favor de todos os que foram colocados no polo passivo, a ser suportada pela parte Autora, mesmo havendo pluralidade de procuradores distintos, por certo que os honorários sucumbenciais arbitrados devem ser rateados proporcionalmente, tendo em vista a aplicação do artigo 87 do Código de Processo Civil. Aliás, justamente por isso, é possível até mesmo questionar o interesse recursal dos Autores neste aspecto, pois, ainda que excluídos os procuradores do município do rateio da verba, esta se manteria hígida, para distribuição aos advogados dos demais réus.
+Incide, portanto, a Súmula n. 83 do STJ.
+Ademais, modificar o entendimento do acórdão impugnado quanto à litigiosidade nesta hipótese, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
