@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em virtude da incidência da Súmula n. 7 do STJ (e-STJ fls. 504/509).
+O acórdão recorrido está assim ementado (e-STJ fl. 341):
+EMENTA: AGRAVO DE INSTRUMENTO. AÇÃO DE INDENIZAÇÃO. CUMPRIMENTO DE SENTENÇA. HOMOLOGAÇÃO DOS CÁLCULOS ELABORADOS PELO PERITO JUDICIAL. DECISÃO MANTIDA. RECURSO NÃO PROVIDO. Deve ser mantida a decisão que homologou os cálculos periciais, quando elaborados em conformidade com o comando judicial executado.
+Os embargos de declaração foram rejeitados (e-STJ fls. 369/373).
+No recurso especial (e-STJ fls. 375/409), fundamentado no art. 105, III, "a", e "c" da CF, a recorrente alegou violação do art. 1.022, I e II, do CPC/2015, por negativa de prestação jurisdicional.
+Sustentou divergência jurisprudencial e ofensa aos arts. 210, I, II e III, da Lei n. 9.279/1996, 402 do CC/2002, 502 e 505 do CPC/2015, pois (e-STJ fls. 390/391):
+36. Os lucros cessantes, para serem calculados, exigem um fundamento seguro (histórico), de modo a não abranger ganhos imaginários ou fantásticos. O perito mesmo tendo feito a analise precisa, não foi aceita pelo tribunal que manteve a decisão do juízo que homologar a mera atualização da nota fiscal de venda do produto sem dedução dos custos e desconsiderando o benefício e lucro que já havia sido apontado pelo perito .
+37. Observe que a decisão ofende também o art. 402 do Código Civil que especifica que a reparação compreende "o que razoavelmente deixou de lucrar", e não o que "lucraria com especulação" ou "alavancagem". A lei protege o direito, mas não ao ponto de exacerbar o seu valor objetivo, como procedido por força da decisão proferida.
+38. Ou seja, a lei é clara ao estabelecer que se trata de LUCROS CESSANTES, A DECISÃO PROFERIDA TODAVIA IMPÔS O PAGAMENTO DO VALOR INTEGRAL DA NOTA FISCAL DE VENDA DA MERCADORIA, ATUALIZADO E NÃO O LUCROS CESSANTES E MUITO MENOS O BENEFÍCIO ECONOMICO.
+39. Há total distinção entre faturamento é lucro obtido na venda considerando que o valor da fatura das notas NÃO SERIA O BENEFÍCIO AUFERIDO PELA EMPRESA. A decisão é clara em estabelecer o benefício auferido e não o custo do produto. A DECISÃO OFENDEU A COISA JULGADA QUE FALA EM BENEFÍCIO NÃO EM CUSTO, MAIS LUCRO. NÃO SE PODE CONSIDERAR BENEFICIO O PAGAMENTO DO CUSTO, IMPOSTOS E OUTROS, SERIA ABSURDO.
+No agravo (e-STJ fls. 358/370), declara a presença de todos os requisitos de admissibilidade do especial.
+É o relatório.
+Decido.
+Não há falar em ofensa ao art. 1.022 do CPC/2015, pois o Tribunal a quo pronunciou-se, de forma clara e suficiente, sobre as questões suscitadas nos autos. Não há negativa de prestação jurisdicional quando os fundamentos utilizados tenham sido suficientes para embasar a decisão, ainda que em sentido diverso do sustentado pela parte, como de fato ocorreu.
+Quanto aos cálculos, a Corte local decidiu que (e-STJ fls. 344/345):
+Conforme relatado, a agravante afirma que os cálculos elaborados pelo ilustre perito estariam equivocados, desrespeitando as determinações do comando decisório.
+Sem razão, data vênia.
+Isso porque, esclareceu-se na sentença executada (DE 25), a condenação das requeridas ao pagamento de indenização seria fixada "segundo os critérios do art. 210 da Lei n. 9297/96, em valor correspondente aos benefícios que tiveram e à remuneração de que privaram o autor".
+Ademais, conforme decisão retratada no DE 46, o MM. Juiz de primeiro grau intimou o perito para adequar os cálculos levando em consideração a aplicação mais benéfica do art. 210, da Lei n. 9.279/96, in verbis:
+"(..) Entendo que razão assiste ao autor em sua petição de fls. 693/943, na qual impugna os cálculos do perito em vista que fora utilizado como patamar para averiguação do valor da indenização o inciso III do artigo 210 da Lei 9.279/96, ou seja, o royalty (valor atrelado à exploração de direito de marcas).É cediço que a utilização do inciso II do artigo anteriormente mencionado realmente seria mais favorável ao prejudicado, no caso o autor, uma vez que a indenização se daria em cima dos benefícios que foram auferidos por aquele que cometeu a violação do direito, no caso o réu. Assim, intime-se o perito para que adeque os cálculos da liquidação da sentença, tendo em consideração o disposto na sentença de fls. 433/441 e a aplicação mais benéfica do artigo 210 da Lei 9.279/96.(..)"
+Dessa maneira, tendo em vista que o laudo suplementar foi desenvolvido por profissional de confiança do Juízo, e que indicou de maneira fundamentada as razões pelas quais chegou aos valores apontados, realizando os cálculos nos termos determinados pela sentença e pelo acórdão, bem como na decisão acima, inexistem motivos pra desconstituí-lo.
+Logo, considerando que o laudo pericial suplementar homologado pelo i. Juiz atende ao comando da sentença e do acordão exequendo, indicando a aplicação mais benéfica do art. 210, da Lei 9.279/96, a manutenção da decisão é medida que se impõe.
+Para desconstituir a premissa estabelecida no acórdão r ecorrido, a fim de reconhecer que houve equívoco no cálculo, bem como que foram desrespeitadas as disposições da sentença , seria imprescindível a apreciação do conjunto fático-probatório dos autos, procedimento vedado pela Súmula n. 7 do STJ.
+Em face do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
