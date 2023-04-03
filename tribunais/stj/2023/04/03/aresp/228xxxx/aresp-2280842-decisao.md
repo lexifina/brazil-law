@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se, na origem, de embargos à execução opostos por VB LAGOA EMPREENDIMENTOS IMOBILIÁRIOS SPE LTDA. (ora recorrente) em face da ação de execução movida por MAIA MAYOR EMPREENDIMENTOS E PARTICIPAÇÃOES S.A.
+Ao sentenciar o feito, o magistrado singular julgou improcedentes os embargos opostos, consignando o seguinte fundamento (e-STJ, fl. 453):
+Ao exposto, JULGO IMPROCEDENTES OS EMBARGOS que VB LAGOA EMPREENDIMENTOS IMOBILÁRIOS LTDA. (CNPJ nº 15.628.042/0001-49) opõe à Execução que lhe move MAIA MAYOR EMPREENDIMENTOS E PARTICIPAÇÕES LTDA. (CNPJ nº 11.780.507/0001-21).
+Condeno a Embargante ao pagamento das custas e honorários advocatícios arbitrados em 10% sobre o valor atualizado da causa, com base no art. 85, §2º do CPC/2015.
+Insta salientar que, eventual cobrança da verba sucumbencial ora arbitrada deverá ser acrescida ao saldo devedor principal nos autos da ação executiva associada, nos termos do art. 85, § 13, do CPC.
+A execução prosseguirá nos autos principais, em todos os seus termos.
+Interposta a apelação , a Décima Oitava Câmara Cível do Tribunal de Justiça do Estado de Minas Gerais negou-lhe provimento, nos termos da ementa (e-STJ, fl. 488):
+APELAÇÃO CÍVIL - EMBARGOS À EXECUÇÃO - CONTRATO DE CORRETAGEM - DUPLICATAS SEM ACEITE - PROVA DO PROTESTO E DA PRESTAÇÃO DOS SERVIÇOS -VALIDADE DA COBRANÇA.-Para ser objeto de ação de execução, a duplicata mercantil, sem aceite, deve ser acompanhada, cumulativamente, do respectivo protesto e de documento hábil comprobatório da entrega e recebimento da mercadoria.
+-Não há em se falar de inexistência de título executivo líquido, certo e exigível se todos os requisitos legais de sua constituição foram preenchidos, conforme dispõe o art. 15, inciso II, alíneas "a" e "b", da Lei nº 5.474/68(Lei das Duplicatas).
+-Comprovada a prestação dos serviços de corretagem, na forma contratada, legítima é a sua cobrança, quando não ocorre a devida quitação.
+Contra o acórdão, a VB LAGOA EMPREENDIMENTOS IMOBILIÁRIOS SPE LTDA, com fulcro no art. 105, III, a e c, da Constituição Federal, interpôs recurso especial, apontando violação ao art. 15, II, b, da Lei n. 5.474/1968; e ao art. 783 do CPC/2015.
+Em suas razões, alegou a recorrente, além da ocorrência de dissídio jurisprudencial, a ausência do preenchimento de todos os requisitos necessários ao ajuizamento da execução, visto que não foram apresentados os comprovantes das prestações dos serviços.
+Apresentadas as contrarrazões (e-STJ, fls. 514-524).
+O processamento do apelo especial não foi admitido pela Corte de origem ante o entendimento de ausência de violação aos artigos indicados e pela incidência da Súmula n. 7 deste Superior Tribunal (e-STJ, fls. 528-529), o que ensejou a interposição do presente agravo (e-STJ, fls. 532-536).
+Contraminuta apresentada (e-STJ, fls. 540-548).
+Brevemente relatado, decido.
+O recurso não comporta provimento.
+Insurge-se a recorrente contra a decisão proferida ao argumento de que não foram cumpridos os requisitos para a instrução da ação de execução, porquanto a parte recorrida não fez prova da prestação dos serviços, limitando-se a apresentar documento unilateral, por ela elaborado, contendo a relação das unidades habitacionais supostamente vendidas.
+Sobre a questão controvertida, esta Corte Superior consolidou seu entendimento jurisprudencial no sentido de que, ainda que sem o aceite, a duplicata que houver sido protestada, quando acompanhada da comprovação da efetiva prestação dos serviços ou entrega de produto, consiste em documento a instruir a execução.
+Confira-se (sem grifos no original):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. COMPROVANTE DE ENTREGA DAS MERCADORIAS. INSTRUMENTO HÁBIL A EMBASAR A EXECUÇÃO. PRECEDENTES. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Nos termos da jurisprudência desta Corte, a duplicata sem aceite, desde que devidamente protestada e acompanhada dos comprovantes de entrega da mercadoria ou da prestação do serviço, constitui documento idôneo a embasar a execução. Precedentes.
+3. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula n.º 7 do STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.042.266/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 12/12/2022, DJe de 14/12/2022.)
+PROCESSUAL CIVIL E EMPRESARIAL. TÍTULOS DE CRÉDITO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO JULGADOS PARCIALMENTE PROCEDENTES. VIOLAÇÃO AO ART. 535 DO CPC/73. ALEGAÇÃO GENÉRICA. DUPLICATA SEM ACEITE. PRESTAÇÃO DE SERVIÇOS. PROTESTO. ACÓRDÃO QUE CONCLUIU PELA COMPROVAÇÃO DA PRESTAÇÃO DOS SERVIÇOS. TÍTULO HÁBIL A FUNDAMENTAR AÇÃO DE EXECUÇÃO. ALEGAÇÃO DE DESCUMPRIMENTO CONTRATUAL APTO A AFASTAR A CERTEZA, LIQUIDEZ E EXIGIBILIDADE DOS TÍTULOS. INCIDÊNCIA DAS SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 535 do CPC/1973 se faz de forma genérica, sem a demonstração exata dos pontos nos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF.
+2. A jurisprudência deste Tribunal Superior é no sentido de que, ainda que sem aceite, a duplicata que houver sido protestada, quando acompanhada de comprovação de realização do negócio jurídico subjacente, revela-se instrumento hábil a fundamentar a execução.
+3. No caso em análise, o Tribunal de origem concluiu que, apesar de não possuírem o aceite do devedor, as duplicatas foram devidamente protestadas e a parte embargada/agravada comprovou a efetiva prestação dos serviços de pintura descritos nas notas fiscais, de modo que os títulos ostentam os elementos necessários para lastrear a demanda executiva, asseverando que, ao assinar as notas fiscais, a agravante concordou com a prestação dos serviços e valores ali devidos, e anuiu com o seu pagamento.
+4. A alteração do entendimento do acórdão estadual, sob o fundamento de descumprimento contratual apto a afastar a certeza, liquidez e exigibilidade das duplicatas, demandaria a interpretação de cláusulas contratuais e revolvimento do acervo fático-probatório dos autos, o que é vedado em sede de recurso especial, a teor do que dispõem as Súmulas 5 e 7 desta Corte.
+5. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp n. 1.567.366/MG, relator Ministro Raul Araújo, Quarta Turma, julgado em 25/4/2022, DJe de 26/5/2022.)
+Na hipótese dos autos, depreende-se que, para o Tribunal de origem, a liquidez dos títulos ficou demonstrada, assim como ficou comprovada a prestação dos serviços de corretagem e os respectivos protestos.
+Veja-se (e-STJ, fls. 491-492):
+A duplicata é um título de crédito causal, decorrente da compra e venda mercantil ou da prestação de serviços, regulamentada pela Lei nº 5.474/68, e que segundo o art. 784, I, do CPC, constitui título executivo extrajudicial.
+Não há falar em inexistência de títulos executivos líquidos, certos e exigíveis, pois conforme dispõe o art. 15, inciso II, alíneas "a" e "b", da Lei nº 5.474/68 (Lei das Duplicatas), a duplicata mercantil sem aceite, para ser objeto de ação de execução, deve ser acompanhada, cumulativamente, do respectivo protesto e de documento hábil comprobatório da entrega e recebimento da mercadoria, e, no caso em tela, todos os requisitos foram preenchidos.
+No caso dos autos, verifica-se que a exequente/embargada apresentou as duplicatas juntamente com as notas fiscais que comprovam a prestação dos serviços de corretagem e os respectivos protestos, pelo que não há como acolher a alegação de nulidade da execução.
+Tem-se que a embargada, ora apelada, cumpriu com o pactuado no contrato de corretagem imobiliária firmado com a embargante, fazendo, portanto, jus ao recebimento da remuneração pelo serviços prestados, conforme disposição da cláusula terceira, "in verbis":
+ ..
+É que de fato ficou demonstrada a venda intermediada pela embargada de 104 unidades imobiliárias, e, ainda que em alguns casos tenha ocorrido o distrato, conforme informado pela embargante, verifica-se que o contrato foi celebrado e os clientes compradores pagaram o respectivo sinal, mostrando-se devida a comissão de corretagem nos termos do parágrafo segundo da cláusula acima transcrita.
+Nesse vértice, tendo a Corte de origem alcançada tal entendimento mediante a ampla apreciação das provas jungidas aos autos, não pode este Superior Tribunal proceder ao reexame do acervo fático-probatório a fim de adotar conclusão diversa sobre a aptidão dos documentos para aparelhar a ação de execução. Assim, dada a natureza excepcional da via especial, o acolhimento da pretensão recursal veiculada é providência inviável, incidindo o enunciado da Súmula n. 7/STJ.
+Por fim, a análise de divergência jurisprudencial, alegada com fundamento na alínea c do permissivo constitucional, fica prejudicada quando a tese sustentada no reclamo especial esbarra no óbice da Súmula n. 7/STJ.
+Nesse sentido (sem grifos no original):
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. OMISSÃO QUANTO À ANÁLISE DO DISSÍDIO JURISPRUDENCIAL. SUPRIMENTO DO VÍCIO. RECURSO ESPECIAL NÃO CONHECIDO PELA ALÍNEA "A". DIVERGÊNCIA PREJUDICADA. MANUTENÇÃO DO RESULTADO DO JULGAMENTO.
+1. Nos termos do art. 1.022 do CPC/2015, os embargos de declaração são modalidade recursal de integração e objetivam sanar obscuridade, contradição, omissão ou erro material, de maneira a permitir o exato conhecimento do teor do julgado.
+2. É pacífico o entendimento desta Corte Superior no sentido de que os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c, ficando prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo lei federal apontado como violado ou à tese jurídica.
+3. Embargos de declaração acolhidos, sem efeitos infringentes, para suprir a omissão apontada, mantendo-se o resultado do julgamento.
+(EDcl no AgInt no AREsp n. 1.459.125/PE, relator Ministro Manoel Erhardt (Desembargador Convocado do Trf5), Primeira Turma, julgado em 3/10/2022, DJe de 5/10/2022.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advo gado da parte recorrida em 2% do valor atualizado da causa.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO. EMBARGOS À EXECUÇÃO. DUPLICATA. PRETENSÃO RECURSAL QUE DEMANDA REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. ANÁLISE DE DISSÍDIO JURISPRUDENCIAL PREJUDICADA. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
