@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por JOB OLIVEIRA MALHEIROS e PATRICIA ELAINE MENDONCA PINTO MALHEIROS (JOB e PATRÍCIA) contra decisão que inadmitiu seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, de relatoria da Desª RENATA MACHADO COTTA, assim ementado:
+AGRAVO INTERNO. Direito de submeter a decisão ao colegiado. AGRAVO DE INSTRUMENTO. GRATUIDADE DE JUSTIÇA. PEDIDO INDEFERIDO EM DOIS RECURSOS ANTERIORES. AUSÊNCIA DE NOVOS ELEMENTOS. INDEFERIMENTO. Conforme já destacado na decisão monocrática, o pedido de gratuidade de justiça já foi indeferido por esta Câmara no julgamento de dois agravos de instrumento (0059049- 79.2014.8.19.0000 e 0069150-73.2017.8.19.0000) e o agravante não trouxe qualquer fato novo capaz de justificar a concessão do benefício nesse momento. Nesse passo, certo é que a jurisprudência é assente no sentido de que o benefício da gratuidade de justiça deve observar a real necessidade da parte, carente de recursos, para ser deferido, não bastando a simples alegação de não ter condições de arcar com o pagamento das despesas processuais, por se tratar de presunção relativa. Como de sabença, o direito à gratuidade de justiça depende da falta de condição financeira do requerente, o que no caso em tela, pelos documentos carreados aos autos, não se permite concluir. Ressalte-se que o agravante é advogado que, conforme consulta ao sistema deste Tribunal, atua em diversos processos, não sendo sequer crível que não possua condições financeiras de arcar com as custas de um agravo de instrumento, que estão em R$ 405,00. Desprovimento do recurso (e-STJ, fls. 43/44).
+Os embargos de decl aração opostos por JOB e PATRÍCIA foram rejeitados (e-STJ, fls. 80/88)
+Irresignados, JOB e PATRÍCIA interpuseram recurso especial, com base no art. 105, III, alíneas a e c, da CF, alegando violação dos arts. 98 e 99 do CPC, 17, X, da Lei Estadual nº 3.350/1999, ao sustentarem que não têm condições financeiras de arcar com as custas e despesas processuais, sem prejuízo de sua família, conforme provas documentais acostadas aos autos (e-STJ, fls. 111/116).
+Não foram apresentadas as contrarrazões (e-STJ, fl. 127).
+O recurso não foi admitido pelo Tribunal de Justiça do Estado do Rio de Janeiro (e-STJ, fls. 130/132).
+Nas razões do presente agravo, JOB e PATRÍCIA alegaram que impugnaram todos os fundamentos da decisão de inadmissibilidade (e-STJ, fls. 478/486).
+Não foi apresentada contraminuta (e-STJ, fl. 189).
+É o relatório.
+DECIDO.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+Há que se anotar, por primeiro, que a suscitada ofensa ao art. 17, X, da Lei nº 3.350/1999 não comporta conhecimento, pois se trata de norma local e, como é sabido, a interpretação da Lei estadual não se mostra viável em sede de recurso especial, diante do óbice da Súmula nº 280 do STF, aplicada por analogia, segundo a qual Por ofensa a direito local não cabe recurso extraordinário.
+A propósito, confiram-se os seguintes julgados:
+AGRAVO INTERNO NO AGRAVO RECURSO ESPECIAL. 1.AUSÊNCIA DE COMPROVAÇÃO DO RECOLHIMENTO DO PREPARO RECURSAL, A DESPEITO DE PRÉVIA INTIMAÇÃO PELO TRIBUNAL DE ORIGEM. DESERÇÃO. 2. DIFERIMENTO DE CUSTAS. NORMA DE DIREITO LOCAL. INVIABILIDADE DE EXAME. SÚMULA 280 DO STF. 3.AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DO FUNDAMENTO DA DECISÃO AGRAVADA. INCIDÊNCIA DO ART. 1.021, § 1º, DO CPC/2015. 4.AGRAVO INTERNO DESPROVIDO.
+ ..
+2. Com efeito, em relação ao pedido de diferimento do recolhimento de custas ao final do processo, não merece acolhimento, tendo em vista amparar-se na interpretação da Lei estadual n. 1.608/2003, o que atrai o óbice da Súmula n. 280 do STF, aplicada por analogia.
+ ..
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.141.094/SP, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 3/10/2022, DJe 5/10/2022 - sem destaques no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DIREITO DOCONSUMIDOR. AÇÃO DE INDENIZAÇÃO. COMPRA E VENDA. VAGA DE GARAGEM.DIMENSÕES. LEGISLAÇÃO LOCAL. ANÁLISE. IMPOSSIBILIDADE. SÚMULA Nº 280/STF.PARÂMETROS NORMATIVOS. NÃO ATENDIMENTO. REEXAME FÁTICO-PROBATÓRIO.IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. DANO MORAL. CONFIGURAÇÃO. REDUÇÃO.QUANTIA FIXADA. RAZOABILIDADE. SÚMULA Nº 7/STJ
+. ..
+2. Tendo o tribunal estadual decidido a questão à luz da legislação local, a inversão do julgado mostra-se inviável nesta instância especial diante do óbice da Súmula nº 280/STF, aplicada por analogia.
+ ..
+5. Agravo interno não provido.
+(AgInt no AREsp n. 1.905.187/RJ, relator Ministro RICARDO VILLAS BÔASCUEVA, Terceira Turma, j. 11/4/2022, DJe de 5/5/2022 sem destaques no original)
+No mais, JOB e PATRÍCIA, nas razões do apelo nobre, sustentaram que não têm condições financeiras de arcar com as custas e despesas processuais, sem prejuízo de sua família, conforme provas documentais acostadas aos autos.
+O Tribunal Fluminense, por seu turno, soberano na análise do conteúdo fático-probatório, asseverou que, pelos documentos juntados aos autos, não se permite concluir pela falta de condições financeiras das partes recorrentes, como se pode observar dos trechos extraídos dos acórdãos impugnados, a seguir transcritos:
+In casu, considerando os documentos juntados, não fica comprovado que o agravante necessita do benefício da gratuidade de justiça. Conforme já destacado na decisão monocrática, o pedido de gratuidade de justiça já foi indeferido por esta Câmara no julgamento de dois agravos de instrumento (0059049-79.2014.8.19.0000 e 0069150-73.2017.8.19.0000) e o agravantes não trouxe qualquer fato novo capaz de justificar a concessão do benefício nesse momento. Nesse passo, certo é que a jurisprudência é assente no sentido de que o benefício da gratuidade de justiça deve observar a real necessidade da parte, carente de recursos, para ser deferido, não bastando a simples alegação de não ter condições de arcar com o pagamento das despesas processuais, por se tratar de presunção relativa. Como de sabença, o direito à gratuidade de justiça depende da falta de condição financeira do requerente, o que no caso em tela, pelos documentos carreados aos autos, não se permite concluir Ressalte-se que o agravante é advogado que, conforme consulta ao sistema deste Tribunal, atua em diversos processos, não sendo sequer crível que não possua condições financeiras de arcar com as custas de um agravo de instrumento, que estão em R$ 405,00. Sendo assim, não há elementos que autorizem o deferimento do benefício da gratuidade de justiça para o agravante (e-STJ, fls. 46/47 - sem destaques no original)
+Ora, para se alterar a conclusão a que chegou o TJRJ quanto ao tema seria necessário reexaminar fatos e provas, providência vedada a esta Corte, de acordo com a Súmula nº 7 do STJ.
+A propósito, confiram-se os julgados:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. DEVER DE MOTIVAÇÃO. ART. 927 DO CPC/2015. JUSTIÇA GRATUITA. HIPOSSUFICIÊNCIA NÃO DEMONSTRADA. REAVALIAÇÃO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 211 DO STJ. PREQUESTIONAMENTO FICTO. OFENSA AO ART. 1.022 DO CPC/2015. ALEGAÇÃO ESPECÍFICA NECESSÁRIA. DECISÃO MANTIDA.
+ ..
+3. O recurso especial não comporta o exame de questões que impliquem incursão no contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+4. No caso concreto, o Tribunal de origem concluiu não ter sido demonstrada a situação de hipossuficiência do agravante. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+ ..
+7. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.491.014/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, j. 24/8/2020, DJe 28/8/2020 - sem destaques no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. JUSTIÇA GRATUITA. PESSOA FÍSICA. ART. 1.022 DO CPC/2015. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. HIPOSSUFICIÊNCIA. AUSÊNCIA DE DEMONSTRAÇÃO. SÚMULA Nº 7/STJ.
+ ..
+5. No caso concreto, o tribunal local concluiu pela ausência de documentos demonstrativos da alegada carência financeira do autor para arcar com as despesas processuais, revogando por isso o benefício da assistência judiciária. Não cabe ao Superior Tribunal de Justiça o reexame das premissas de fato que levaram o tribunal de origem a tal conclusão, sob pena de usurpar a competência das instâncias ordinárias, a quem compete o amplo juízo de cognição da lide. Incidência da Súmula nº 7/STJ.
+6. Agravo interno não provido.
+(AgInt no AREsp 1.311.620/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 10/12/2018, DJe 14/12/2018 - sem destaques no original)
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. GRATUIDADE DA JUSTIÇA. INDEFERIMENTO. OFENSA AO ART. 17, X, DA LEI ESTADUAL Nº 3.350/1999. ALEGAÇÃO DE VIOLAÇÃO DE LEI LOCAL. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N.º 280 DO STF, POR ANALOGIA. HIPOSSUFICIÊNCIA NÃO DEMONSTRADA. REAVALIAÇÃO DO CONJUNTO FÁTICO-PROBATÓRIO. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
