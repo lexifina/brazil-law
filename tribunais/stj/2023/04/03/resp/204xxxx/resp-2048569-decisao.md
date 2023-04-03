@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão assim ementado (fl. 589):
+EMENTA: APELAÇÂO CRIMINAL - ESTELIONATO TENTADO E FALSIDADE IDEOLÓGICA - PRELIMINAR - AUSÊNCIA DE OFERECIMENTO DA PROPOSTA DE SUSPENSÃO CONDICIONAL DO PROCESSO - ACUSADOS QUE, EM TESE, FAZEM JUS AO BENEFÍCIO - NULIDADE DO PROCESSO RECONHECIDA - MÉRITO - CRIME DE ESTELIONATO TENTANDO - AUSÊNCIA DE DOLO - ABSOLVIÇÃO NECESSÁRIA - CABIMENTO DA SUSPENSÃO CONDICIONAL DO PROCESSO QUANTO AO DELITO RESTANTE - REMESSA DOS AUTOS À PRIMEIRA INSTÂNCIA - NECESSIDADE - RESTANTE DO MÉRITO - PREJUDICADO.
+- Considerando que os acusados preenchem, ao menos em tese, os requisitos para a concessão do beneficio da suspensão condicional do processo, o juiz deve determinar a remessa dos autos ao Ministério Público para avaliação da oferta, por se tratar de prerrogativa exclusiva do Parquet - A imposição de pena privativa de liberdade em casos tais importa em violação ao devido processo legal, devendo o processo ser parcialmente anulado, a fim de que os autos sejam encaminhados ao membro do Ministério Público para que se manifeste sobre o cabimento do beneficio previsto no artigo 89, da Lei nº. 9.099195.
+- Inexistindo nos autos prova inequívoca do dolo do agente, mormente porque quando a suposta vítima celebrou contrato com o acusado ela era ao menos formalmente capaz, a absolvição se impõe, por atipicidade da conduta.
+- Em casos de procedência parcial da pretensão punitiva, em que se permita, ao menos em tese, a suspensão condicional do processo em relação ao delito restante, impõe-se a abertura de vista ao Ministério Público para análise da possibilidade de oferecimento da benesse.
+Inteligência da Súmula 337, do Superior Tribunal de Justiça.
+- Resta prejudicada a análise do mérito dos demais crimes quando necessário o retorno dos autos à origem para que haja expressa manifestação do Parquet quanto ao oferecimento do beneficio previsto no artigo 89, da Lei nº. 9.099/95, aos acusados.
+Opostos embargos de declaração, foram rejeitados.
+Sustenta o recorrente violação do art. 571, II, do Código de Processo Penal, aduzindo que o Tribunal de origem, ao julgar a apelação defensiva, declarou a nulidade parcial da sentença pelo não oferecimento da suspensão condicional do processo, contudo, a matéria já estava preclusa.
+Apresentadas contrarrazões, e admitido na origem, manifestou-se o Ministério Público Federal pelo provimento do recurso.
+O recorrido foi condenado, em primeiro grau, pela prática dos crimes previstos nos artigos 171 - caput c/c 14 - II e 299 - caput do CP às penas de 6 anos e 6 meses de reclusão, em regime inicial fechado, e de 79 dias- multa. Alair e João, por sua vez, foram condenados pelo crime do artigo 299 - caput do CP às penas de 3 anos, em regime inicial semiaberto, e de 40 dias-multa.
+Em sede de apelação, o Tribunal de origem acolheu preliminar de nulidade relativa ao não oferecimento da suspensão condicional do processo quanto aos delitos de falsidade ideológica cometidos por Alair e João. Posteriormente, absolveu Waldir do crime de estelionato e, como consequência, determinou o retorno dos autos à primeira instância para que o Ministério Público dissesse sobre a possibilidade de oferecimento da suspensão condicional do processo aos réus. Declarou, com isso, prejudicado os demais pedidos da defesa.
+Verifica-se do acórdão de apelação (fls. 595-596):
+A defesa sustenta, preliminarrtente, a nulidade absoluta do feito por ausência de oferecimento da suspensão bondicional do processo aos denunciados João e Alair, alegando que eles fazem jus ao benefício.
+A preliminar deve ser acolhida.
+Os apelantes foram denunciados nas sanções do artigo 299, caput, do Código Penal, cuja pena mínima cominada é de 01 (um) ano de récl ü sá o.
+Ademais, as CAC"s de fls. 107 e 1081109, demonstram que se trata de réus primários, possuidores de bons antecedentes e que respondem somente a este processo.
+Nesse conte3<to, o d. juízo a quo deveria ter oportunizado ao Ministério Público a formulação de propostá de suspensão condicional do processo, uma vez que a situação jurídica comporta, ao menos em tese, a concessão do beneficio previsto no artigo 89 da Lei nº 9.099195.
+Ora, caso o representante do Ministério Público entendesse pelo não cabimento do sursis processual, caber-lhe-ia fundamentar a recusa em oferecer a referida proposta, o que não ocorreu no presente caso.
+Em consequência, os apelantes foram apenados com pena privativa de liberdade sem que houvesse qualquer manifestação sobre o tema, o que não se admite, porquanto nítido o prejuízo experimentado por eles, que restaram condenados por crime pelo qual foram denunciados em processo em que podériam ter se beneficiado por instituto descriminalizador.
+Ademais, conforme bem ponderado pelo em. Des. Eduardo Brum, no julgamento da Apelação Criminal n. 1.0362.13.007609-8/601, "a suspensão condicional do processo não tem caráter processual puro e, portanto, não deve ser analisada unicamente sob o prisma da preclusão.
+Trata-se de instituto híbrido com importantes reflexos no direito material, haja vista que a aceitação do chamado sursis processàal pode ensejar a extinção da punibilidade caso os acusados cumpram o período de prova sem que o benefício seja revogado. Do mesmo modo, assegura ao beneficiário a manutenção de sua primariedade" (DJe de 2610812019).
+Ainda, não obstante a alegação do Parquet em sede de contrarrazões recursais de que "(..) a circunstância judicial da culpabilidade foi valorada em desfavor dos recorrentes, conforme se depreende da r. sentença condenatória, (..)", certo é que o oferecimento da suspensão condicional do processo deveria ter ocorrido no início do procedimento, não podendo uma circunstância judicial analisada de forma desfavorável em sentença, após toda a instrução do feito, ser utilizada para negar o beneficio que não foi analisado no momento oportuno.
+Dessa forma, forçoso é o reconhecimento da nulidade parcial do feito com relação aos réus João Leopoldino de Lima e Alair Pereira, já que não foi oportunizado ao órgão ministerial o oferecimento do sursis processual.
+Não foram arguidas outras preliminares, nem vislumbro alguma que deva ser reconhecida de ofício, razão pela qual passo ao exame do mérito recursal.
+Como se vê, o Tribunal de origem reconheceu a nulidade parcial do feito "com relação aos réus João Leopoldino de Lima e Alair Pereira, já que não foi oportunizado ao órgão ministerial o oferecimento do sursis processual".
+No entanto, "Conforme precedentes, a ausência de oferecimento da suspensão condicional do processo é causa de nulidade relativa, sujeita ao instituto da preclusão" (AgRg no REsp n. 1.686.511/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 20/9/2018, DJe de 3/10/2018.)
+A propósito:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PENAL. SUSPENSÃO CONDICIONAL DO PROCESSO. ART. 89 DA LEI N. 9.099/95. NÃO PROPOSITURA DEVIDO À TRAMITAÇÃO DE OUTRA AÇÃO PENAL. PRECLUSÃO DA MATÉRIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. " A  preclusão alcança aqueles casos em que a suspensão condicional do processo não foi ventilada até a sentença" (STJ, AgRg no AREsp 1273432/RJ, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTATURMA, julgado em 19.05.2020, DJe 28.05.2020)
+2. A alegação de nulidade pela ausência de proposta de sursis processual somente ocorreu após o desprovimento da apelação defensiva pelo Tribunal local, nos embargos de declaração opostos pela Defesa, evidenciando a preclusão da matéria.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 727.532/SE, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 24/5/2022, DJe de 31/5/2022.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AUSÊNCIA DE PROPOSTA DO SURSIS PROCESSUAL. DISCUSSÃO SURGIDA APÓS A SENTENÇA CONDENATÓRIA. NULIDADE RELATIVA. PRECLUSÃO DO TEMA.
+1. A jurisprudência desta Corte Superior de Justiça é no sentido de que, por se tratar de nulidade relativa, é alcançada pela preclusão a alegação formulada após a prolação de sentença condenatória, em que se aponta a falta de oferta de suspensão condicional do processo (AgRg nos EDcl no REsp 1611709/SC, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 04/10/2016, DJe 26/10/2016). Precedentes.
+Agravo regimental não provido.
+(AgRg no REsp n. 1.758.189/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23/10/2018, DJe de 31/10/2018.)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. NECESSIDADE DE REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ. SUSPENSÃO CONDICIONAL DO PROCESSO. ART. 89 DA LEI Nº 9.099/95. PRECLUSÃO. AGRAVO DESPROVIDO.
+I -  ..
+II - Na linha de precedentes desta Corte, por se tratar de nulidade relativa, é alcançada pela preclusão a alegação formulada após a prolação de sentença condenatória, em que se aponta a falta de oferta de suspensão condicional do processo.
+Agravo Regimental desprovido.
+(AgRg nos EDcl no REsp n. 1.611.709/SC, relator Ministro Felix Fischer, Quinta Turma, julgado em 4/10/2016, DJe de 26/10/2016.)
+Ante o exposto, dou provimento ao recurso especial, para afastar o reconhecimento da nulidade e determinar o retorno dos autos ao Tribunal de origem para que prossiga no julgamento do mérito do recurso de apelação interposto em favor dos réus João Leopoldino de Lima e Alair Pereira.
+Publique-se.
+Intimem-se.
