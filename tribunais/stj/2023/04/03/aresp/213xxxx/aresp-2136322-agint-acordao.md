@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/03/2023 a 03/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão assim ementada (fl. 2903):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. ARTIGO 20 DO CPC/1973. OFENSA À RAZOABILIDADE E PROPORCIONALIDADE. IRRISORIEDADE NÃO CONFIGURADA. IMPOSSIBILIDADE DE REVISÃO. SÚMULA 7/STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+A agravante sustenta que os honorários foram fixados em valores irrisórios.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. OFENSA À RAZOABILIDADE E PROPORCIONALIDADE. REVISÃO DO JUÍZO DE EQUIDADE. EXCEPCIONALIDADE NÃO CONFIGURADA.
+1. O presente recurso foi interposto na vigência do CPC/2015, razão pela qual incide o Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+2. Na forma da jurisprudência do STJ, vencida a Fazenda Pública, para a fixação do quantum dos honorários advocatícios, o magistrado deve levar em consideração o caso concreto em face das circunstâncias previstas no art. 20, §§ 3º e 4º, do CPC/1973, utilizando-se do juízo de equidade e podendo adotar como base de cálculo o valor da causa, o valor da condenação ou mesmo arbitrar valor fixo, não ficando adstrito aos percentuais legalmente previstos. Posicionamento firmado sob o rito do art. 543-C do CPC/1973 (REsp 1.155.125/MG, Rel. Min. Castro Meira, Primeira Seção, DJe de 6/4/2010).
+3. É pacífico, nesta Corte Superior, o entendimento de que, em regra, a revisão do valor fixado em honorários advocatícios exige novo exame dos fatos e provas dos autos, o que é vedado pela Súmula 7/STJ. Esse obstáculo apenas pode ser afastado quando se verificar excesso ou insignificância da importância arbitrada, ficando evidenciada ofensa aos princípios da razoabilidade e da proporcionalidade.
+4. A Corte de origem, após ampla análise do conjunto fático-probatório, salientando que a fixação de honorários advocatícios levou em consideração o grau de zelo do profissional, o lugar da prestação do serviço, a natureza e a importância do trabalho desenvolvido pelo advogado e o tempo exigido do seu serviço, firmou a compreensão de que, na hipótese, o valor de R$ 50.000,00 (cinquenta mil reais) atende aos requisitos legais, a situação não se revela excepcional para afastar a incidência do óbice da Súmula 7/STJ.
+5. Agravo interno não provido.
+VOTO
+O EXMO. SENHOR MINISTRO BENEDITO GONÇALVES (Relator): O presente recurso foi interposto na vigência do CPC/2015, razão pela qual incide o Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Observa-se que o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Na forma da jurisprudência do STJ, vencida a Fazenda Pública, para a fixação do quantum dos honorários advocatícios, o magistrado deve levar em consideração o caso concreto em face das circunstâncias previstas no art. 20, §§ 3º e 4º, do CPC/1973, utilizando-se do juízo de equidade e podendo adotar como base de cálculo o valor da causa, o valor da condenação ou mesmo arbitrar valor fixo, não ficando adstrito aos percentuais legalmente previstos. Posicionamento firmado sob o rito do art. 543-C do CPC/1973 (REsp 1.155.125/MG, Rel. Min. Castro Meira, Primeira Seção, DJe de 6/4/2010).
+É pacífico, nesta Corte Superior, o entendimento de que, em regra, a revisão do valor fixado em honorários advocatícios exige novo exame dos fatos e provas dos autos, o que é vedado pela Súmula 7/STJ. Esse obstáculo apenas pode ser afastado quando se verificar excesso ou insignificância da importância arbitrada, ficando evidenciada ofensa aos princípios da razoabilidade e da proporcionalidade.
+No caso dos autos, a Corte de origem, após ampla análise do conjunto fático-probatório, salientando que a fixação de honorários advocatícios levou em consideração o grau de zelo do profissional, o lugar da prestação do serviço, a natureza e a importância do trabalho desenvolvido pelo advogado e o tempo exigido do seu serviço, firmou a compreensão de que, na hipótese, o valor de R$ 50.000,00 (cinquenta mil reais) atende aos requisitos legais.
+Assim, tem-se que a revisão do montante determinado pelo Tribunal de origem realmente não é mais possível, visto que, nesta instância especial, é incabível um novo exame do juízo de equidade aplicado na origem, a fim de determinar o acerto ou não da medida, ante o óbice sumular referido (Súmula 7/STJ).
+Nesse sentido, confiram-se:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO DO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. EMBARGOS À EXECUÇÃO FSICAL. LITISPENDÊNCIA. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N 7/STJ. HONORÁRIOS ADVOCATÍCIOS. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N.7/STJ.
+1. O acórdão recorrido abordou, de forma fundamentada, todos os pontos essenciais para o deslinde da controvérsia, razão pela qual não há falar na suscitada ocorrência de violação dos arts. 489 e 1.022 do CPC.
+2. Reconhecida na origem a ocorrência de litispendência entre o presente embargos à execução fiscal e o mandado de segurança n. 2010.50.01005065-7), o mandado de segurança n. 2010.50.01.006972-1 e a ação anulatória n. 2010.50.01.005124-8.
+2. Modificar a conclusão a que chegou a Corte de origem, de modo a acolher a tese da agravante de que não há litispendência, demanda reexame do acervo fático-probatório dos autos, o que é inviável em recurso especial, sob pena de violação da Súmula n. 7 do STJ.
+3. A jurisprudência desta Corte somente admite a revisão, em recurso especial, do juízo de equidade referente à fixação de honorários advocatícios (art. 20, § 4º, do CPC/1973) quando o valor arbitrado é irrisório ou exorbitante, o que não é o caso dos autos.
+4. É inviável, em sede de recurso especial, o reexame de matéria fático-probatória, nos termos da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial.".
+Agravo interno improvido.
+(AgInt no AREsp n. 1.355.284/ES, relator Ministro Humberto Martins, Segunda Turma, julgado em 14/11/2022, DJe de 30/11/2022.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. PREQUESTIONAMENTO. AUSÊNCIA. HONORÁRIOS ADVOCATÍCIOS. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+1. Há manifesta ausência de prequestionamento, a atrair a aplicação da Súmula 211 do STJ, quando os conteúdos dos preceitos legais tidos por violados não são examinados na origem, mesmo após a oposição de embargos de declaração.
+2. Segundo o entendimento desta Corte Superior, para reconhecer o prequestionamento ficto de que trata o art. 1.025 do CPC/2015, na via do especial, impõe-se ao recorrente a indicação de contrariedade do art. 1.022 do CPC/2015, o que não ocorreu.
+3. A jurisprudência desta Corte Superior admite a revisão do juízo de equidade referente à fixação de honorários advocatícios (art. 20, § 4º, do CPC/1973) quando o valor arbitrado é irrisório ou exorbitante.
+4. O simples cotejo entre os valores discutidos nos autos e a verba honorária não é suficiente à conclusão pela irrisoriedade ou exorbitância, mormente porque, "no juízo de equidade, o magistrado deve levar em consideração o caso concreto em face das circunstâncias previstas no art. 20, § 3º, alíneas "a", "b" e "c", do CPC/1973, podendo adotar como base de cálculo o valor da causa, o valor da condenação ou arbitrar valor fixo" (REsp 934.074/SP, Rel. Ministra Eliana Calmon, Segunda Turma, DJe 18/09/2008).
+5. É inviável, em sede de recurso especial, o reexame de matéria fático-probatória, nos termos da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+6. Agravo interno desprovido.
+(AgInt no REsp n. 1.952.002/PE, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 29/8/2022, DJe de 15/9/2022.)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
