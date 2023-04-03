@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/03/2023 a 03/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL C/C INDENIZAÇÃO. CONTRATO DE COMPRA E VENDA DE IMÓVEL. RELAÇÃO DE CONSUMO. CESSÃO DE CRÉDITO. RESPONSABILIDADE SOLIDÁRIA DA CESSIONÁRIA CONFIGURADA. MODIFICAÇÃO. IMPOSSIBILIDADE. NECESSIDADE DE REVOLVIMENTO DA ANÁLISE DE CLÁUSULAS CONTRATUAIS E ACERVO FÁTICO-PROBATÓRIO. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Na hipótese, as instâncias ordinárias entenderam que a parte agravante responde solidariamente com a demandada pela restituição dos valores recebidos em razão do contrato de cessão de crédito firmado com a construtora.
+2. A modificação de tal entendimento, a fim de reconhecer a ilegitimidade passiva, demandaria a análise de cláusulas contratuais e o revolvimento do suporte fático-probatório dos autos, o que é inviável no âmbito estreito do recurso especial, a teor do disposto nas Súmulas 5 e 7 do STJ.
+3. Agravo interno desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Trata-se de agravo interno interposto por FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS CAIXA RB CAPITAL HABITAÇÃO em face de decisão desta relatoria, que conheceu do agravo para não conhecer do recurso especial, por incidência das Súmulas 5 e 7 do STJ.
+O agravante sustenta, em síntese, que, "ao contrário do alegado na referida decisão monocrática, o cerne das razões recursais definitivamente não carece de revolvimento fático ou mesmo probatório, mas de uma análise jurídica acurada para que as normas infraconstitucionais sejam respeitadas no caso" (fl. 702).
+Aduz, ainda, que "o Fundo nunca recebeu qualquer montante dos Agravados e a CCI foi apenas parcialmente (e bastante insuficientemente) cumprida, NÃO TENDO SIDO PERCEBIDOS QUAISQUER VALORES ESPECIFICAMENTE DECORRENTES DO CONTRATO OBJETO DA LIDE. Tanto é assim que inexiste nos autos qualquer elemento jurídico de pagamento em favor do Agravante, o que torna impossível o adimplemento da obrigação pecuniária imposta" (fl. 705).
+Requer, ademais, a reconsideração da decisão agravada ou sua reforma pelo Órgão Colegiado.
+Sem impugnação, conforme certidões acostadas às fls. 712-713.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL C/C INDENIZAÇÃO. CONTRATO DE COMPRA E VENDA DE IMÓVEL. RELAÇÃO DE CONSUMO. CESSÃO DE CRÉDITO. RESPONSABILIDADE SOLIDÁRIA DA CESSIONÁRIA CONFIGURADA. MODIFICAÇÃO. IMPOSSIBILIDADE. NECESSIDADE DE REVOLVIMENTO DA ANÁLISE DE CLÁUSULAS CONTRATUAIS E ACERVO FÁTICO-PROBATÓRIO. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Na hipótese, as instâncias ordinárias entenderam que a parte agravante responde solidariamente com a demandada pela restituição dos valores recebidos em razão do contrato de cessão de crédito firmado com a construtora.
+2. A modificação de tal entendimento, a fim de reconhecer a ilegitimidade passiva, demandaria a análise de cláusulas contratuais e o revolvimento do suporte fático-probatório dos autos, o que é inviável no âmbito estreito do recurso especial, a teor do disposto nas Súmulas 5 e 7 do STJ.
+3. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+A irresignação não merece prosperar.
+A parte agravante defende, sob alegada ofensa aos arts. 373, I, do CPC/2015 e 265, 403, 470 e 884 do CC/2002, que "não participou do contrato cuja rescisão foi requerida pelos Recorridos em juízo e não recebeu os valores por eles desembolsados em favor da corré, além de o inadimplemento contratual ter sido apenas da corré, obviamente não poderia ser condenada solidariamente à restituição de qualquer montante, ainda que inexistente" (fl. 600).
+O eg. Tribunal de Justiça do Estado de São Paulo confirmou a sentença afastando a alegada ilegitimidade passiva, nos seguintes termos (fls. 584-585):
+"Patente a legitimidade do FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS CAIXA RB CAPITAL HABITAÇÃO, uma vez que admite ser cessionário dos créditos decorrentes do financiamento ao empreendimento. Ademais, a responsabilidade solidária do fundo ficou restrita aos valores que recebeu, justamente por não ter estabelecido relação direta com a conduta da construtora ou incorporadora."
+Nesse contexto, constata-se que as instâncias ordinárias, após o exame acurado do acervo fático-probatório dos autos, considerando as peculiaridades do caso concreto, concluíram pela legitimidade passiva ad causam da parte recorrente, devendo responder solidariamente pelos valores recebidos.
+Dessa forma, cuida-se, evidentemente, de matéria que envolve a análise de cláusulas contratuais e o revolvimento do acervo fático-probatório, o que é inadmissível em sede de recurso especial, por vedação das Súmulas 5 e 7 do Superior Tribunal de Justiça.
+Nessa linha:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE DEMANDADA.
+1. As questões postas em discussão foram dirimidas pelo Tribunal de origem de forma suficiente, fundamentada e sem omissões, devendo ser afastada a alegada violação aos artigos 489 e 1.022 do CPC/15. Consoante entendimento desta Corte, não importa negativa de prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, decidindo de modo integral a controvérsia posta.
+Precedentes.
+2. Rever o entendimento do Tribunal de origem, no sentido de afastar a caracterização da relação de consumo no caso em análise, ensejaria em rediscussão de matéria fática, com o revolvimento das provas juntadas ao processo, o que é vedado pela Súmula 7 do STJ. Precedentes.
+3. Alterar a conclusão do Tribunal a quo, no sentido de afastar a legitimidade passiva e a responsabilidade solidária do recorrente, impreterivelmente, ensejaria em rediscussão de matéria fática, com o revolvimento das provas juntadas ao processo, o que é vedado pelas Súmulas 5 e 7 do STJ. Precedentes.
+4. Nos termos da jurisprudência do Superior Tribunal de Justiça, é vedada a denunciação da lide na hipótese de responsabilidade por acidente de consumo. Incidência da Súmula 83 do STJ. Precedentes.
+5. A alteração do acórdão impugnado com relação às provas dos autos demandaria o reexame do conjunto fático-probatório, o que é inviável no âmbito do recurso especial, a teor da Súmula 7/STJ. Na hipótese, não se vislumbra equívoco na apreciação da prova, mas sim o inconformismo da parte com relação ao juízo de valor aferido pelas instâncias ordinárias, cuja revisão esbarra no referido óbice sumular.
+6. Rever o valor fixado pelo Tribunal Estadual a título de danos morais, considerando que o quantum fixado não se mostra exorbitante, em relação ao reputado razoável por esta Corte em situação semelhante, esbarra no óbice da Súmula 7 desta Corte.
+7. Agravo interno desprovido."
+(AgInt no AREsp 1767275/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 11/10/2021, DJe 21/10/2021, g.n.)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. ATRASO INJUSTIFICADO NA ENTREGA DO BEM. ILEGITIMIDADE PASSIVA. CADEIA DE CONSUMO. RESPONSABILIDADE SOLIDÁRIA. SÚMULAS 5 E 7 DO STJ. DEVOLUÇÃO DOS VALORES PAGOS. SÚMULA 83 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Tratando-se de uma relação de consumo, impõe-se a responsabilidade solidária perante o consumidor de todos aqueles que tenham integrado a cadeia de prestação de serviço, em caso de defeito ou vício. Precedentes.
+2. Ademais, tendo o TJSP concluído que a responsabilidade da ora recorrente se deu em razão do princípio da solidariedade existente entre os integrantes da cadeia de prestadores de serviços, rever tal entendimento demandaria o revolvimento do conjunto probatório, o que é inviável, na via eleita, ante o óbice da Súmulas 5 e 7 do STJ.
+3. Este Superior Tribunal de Justiça sumulou o entendimento de que "na hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador integralmente, em caso de culpa exclusiva do promitente vendedor/construtor, ou parcialmente, caso tenha sido o comprador quem deu causa ao desfazimento" (Súmula 543/STJ).
+4. Cuidando o presente caso de resolução de contrato de compra e venda de imóvel por culpa exclusiva do promitente vendedor, como concluído pelo Tribunal de origem, a consequência jurídica, estampada na referida súmula, é a imediata e integral restituição das parcelas pagas pelo promitente comprador.
+5. Agravo interno não provido."
+(AgInt no REsp 1812710/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 30/11/2020, DJe 03/12/2020, g.n.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. COMPROMISSO DE COMPRA E VENDA. ATRASO NA ENTREGA DO IMÓVEL. OMISSÃO. INEXISTÊNCIA. CESSÃO DE CONTRATO. ASSUNÇÃO DA CONDIÇÃO DE CONTRATADA PELA AGRAVANTE. REEXAME. SÚMULA 5/STJ. LIMITAÇÃO DA RESPONSABILIDADE. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211/STJ. DANOS MORAIS. EXCESSIVO ATRASO NA CONCLUSÃO DAS OBRAS. SÚMULA 83/STJ. AGRAVO INTERNO IMPROVIDO.
+1. Não se verifica a alegada violação ao art. 489, § 1º, do CPC/2015, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, a questão que lhe foi submetida, não sendo possível confundir julgamento desfavorável, como no caso, com negativa de prestação jurisdicional ou ausência de fundamentação.
+2. O Tribunal de origem concluiu que, em razão da celebração do contrato de cessão de direitos, a agravante assumiu integralmente a condição de contratada, passando a receber diretamente os pagamentos das parcelas do compromisso de compra e venda, razão pela qual é legítima para figurar no polo passivo da ação de rescisão ajuizada pelo promitente-comprador. A reforma desse entendimento demandaria o reexame das cláusulas do contrato, providência inviável em sede de recurso especial, a teor do que dispõe a Súmula 5 deste Pretório.
+3. A falta de prequestionamento da matéria alegada nas razões do recurso especial impede seu conhecimento, não obstante a oposição de embargos declaratórios. Incidência da Súmula 211 do STJ.
+4. O simples inadimplemento contratual em razão do atraso na entrega do imóvel não é capaz, por si só, de gerar dano moral indenizável, sendo necessária a comprovação de circunstâncias específicas que podem configurar a lesão extrapatrimonial. Na hipótese, o atraso de mais de 2 (dois) anos, após o prazo pactuado, supera o mero inadimplemento contratual, levando-se em consideração os fatos descritos pelas instâncias ordinárias, visto que a situação exposta nos autos denota circunstância excepcional que enseja a reparação por danos morais. Precedentes.
+5. Agravo interno improvido.
+(AgInt no AREsp n. 2.040.214/MG, relator Ministro Raul Araújo, Quarta Turma, julgado em 15/8/2022, DJe de 26/8/2022. - grifou-se)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DISTRATO CONTRATUAL CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS E RESTITUIÇÃO DE VALORES. CONTRATO DE COMPRA E VENDA DE IMÓVEL. RELAÇÃO DE CONSUMO. CESSÃO DE CRÉDITO. RESPONSABILIDADE SOLIDÁRIA DA CESSIONÁRIA CONFIGURADA. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Na hipótese, as instâncias ordinárias entenderam que a parte agravante responde solidariamente com a construtora demandada pela restituição dos valores aos autores, tendo em vista que firmou com a construtora contrato de cessão de direitos creditórios e outras avenças, por meio do qual adquiriu os direitos de crédito vinculados ao contrato e foi a efetiva beneficiária dos valores quitados pelos compradores, como se verifica nos boletos e comprovantes de pagamento apresentados pelos autores.
+2. A modificação de tal entendimento, a fim de reconhecer a ilegitimidade passiva, demandaria o revolvimento do suporte fático-probatório dos autos, o que é inviável no âmbito estreito do recurso especial, a teor do disposto na Súmula 7 do STJ.
+3. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 1.998.778/MG, relator Ministro Raul Araújo, Quarta Turma, julgado em 13/6/2022, DJe de 29/6/2022 - grifou-se).
+Com essas considerações, conclui-se que o recurso não merece prosperar.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
