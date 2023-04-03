@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/03/2023 a 03/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+Trata-se de agravo interno interposto contra a decisão de fls. 394-396, que negou provimento ao agravo pelas razões seguintes: a) ausência de violação do art. 1.022, II, do CPC; e b) incidência da Súmula n. 7 do STJ referente ao valor da multa cominatória.
+Nas razões do presente recurso, a agravante sustenta que houve violação do art. 1.022 do CPC, tendo em vista que o Tribunal a quo não se manifestou acerca da necessária revisão das astreintes.
+Afirma que a discussão dos autos não envolve o reexame de fatos e prova, mas reside na correta interpretação dos arts. 537, § 1º, II, do CPC e 884 do CC.
+Requer seja reconsiderada a decisão agravada ou seja o agravo julgado pelo colegiado.
+Contrarrazões apresentadas às fls. 411-418, em que se pleiteia o desprovimento do recurso.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. VIOLAÇÃO DO ART. 1.022, II, DO CPC. NÃO OCORRÊNCIA. VALOR ARBITRADO A TÍTULO DE ASTREINTES. RAZOABILIDADE E PROPORCIONALIDADE. ACERVO FÁTICO-PROBATÓRIO. REEXAME. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. Inexiste ofensa ao art. 1.022 do CPC quando a corte de origem examina e decide, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+2. A questão relativa à redução/aumento das astreintes não pode ser revista na instância especial, pois tal procedimento implica reexame das circunstâncias fáticas que delimitaram a controvérsia (Súmula n. 7 do STJ), salvo se o arbitramento for excessivo ou ínfimo.
+3. Agravo interno desprovido.
+VOTO
+A irresignação não reúne condições de prosperar, devendo a decisão agravada ser mantida por seus próprios fundamentos, assim expressos (fls. 395-396):
+I - Violação do art. 1.022 do CPC
+Afasta-se a alegada ofensa ao art. 1.022, II, do CPC, porquanto a Corte de origem examinou e decidiu, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+Esclareça-se que o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+II - Violação dos arts. 537, § 1º, II, do CPC e 884 do CC
+Insurge-se a recorrente contra o valor da multa cominatória imposta em virtude do descumprimento da decisão que determinou o restabelecimento da parte recorrida no plano de saúde familiar, pois, segundo alega, ultrapassa o valor da obrigação principal, ferindo os princípios da razoabilidade e da proporcionalidade.
+O Superior Tribunal de Justiça já sedimentou entendimento no sentido de que a verificação da existência de exorbitância das astreintes por descumprimento de decisão judicial não pode ser baseada apenas na comparação entre a quantia total e o valor da obrigação principal, devendo ser analisado o valor estabelecido diariamente como multa (REsp n. 1.967.587/PE, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 21/6/2022, DJe de 24/6/2022; AgInt no REsp n. 1.931.697/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 15/8/2022, DJe de 17/8/2022; REsp n. 1.736.832/SC, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 26/2/2019, DJe de 6/3/2019; AgInt no REsp n. 1.914.269/DF, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 29/8/2022, DJe de 31/8/2022).
+Além disso, a análise da questão relativa à redução das astreintes não pode ser revista na instância especial, pois tal procedimento implica reexame das circunstâncias fáticas que delimitaram a controvérsia, salvo se o arbitramento for excessivo ou ínfimo, o que não ocorreu na espécie.
+Nesse sentido: AgInt no AREsp n. 1.784.618/MT, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 21/3/2022, DJe de 24/3/2022; REsp n. 1.929.288/TO, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 22/2/2022, DJe de 24/2/2022.
+No caso, o Tribunal de origem, com base na análise das especificidades do caso, manteve a imposição da multa por considerá-la razoável, proporcional e em conformidade com o disposto no art. 537 do CPC, ressaltando ainda o poder econômico da recorrente e o descumprimento da obrigação. Segue trecho do julgado (fls. 68-67, destaquei):
+No caso, diante das circunstâncias específicas, reputo que o valor das astreintes objeto do presente recurso, fixadas em R$ 5.000,00 por dia (cinco mil reais) e limitadas em R$ 200.000,00, se mostra razoável, tendo observado os princípios da razoabilidade e proporcionalidade, além de estar em consonância com os critérios acima mencionados para o estabelecimento das astreintes, inclusive considerado o poder econômico da agravante e o efetivo descumprimento da obrigação, não configurando hipótese para aplicação do art. 537, § 1º, do CPC.
+Assim, aplica-se ao caso a Súmula n. 7 do STJ.
+III - Conclusão
+Ante o exposto, nego provimento ao agravo.
+Deixo de majorar os honorários recursais nos termos do art. 85, § 11, do CPC, em razão da inexistência de prévia fixação pela origem.
+Com efeito, não há falar em violação do art. 1.022, II, do CPC quando o Tribunal de origem examina e decide, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+Na espécie, a Corte a quo discorreu, fundamentada e expressamente, sobre o valor fixado a título de astreintes, entendendo pela razoabilidade e proporcionalidade do patamar estabelecido (fl. 302, destaquei):
+Oportunamente, registra-se que o acórdão embargado, sem incorrer em omissão ou obscuridade, expressamente enfrentou a questão do valor fixado a título de astreintes diante das particularidades do caso em tela, entendendo pela razoabilidade e proporcionalidade do patamar estabelecido (que se mostrou insuficiente para compelir a embargante ao cumprimento da obrigação que lhe foi imposta, inclusive).
+Observa-se, na verdade, que, a pretexto de violação do art. 1.022, II, do CPC, a parte agravante, irresignada com resultado que lhe foi desfavorável, pretende obter novo julgamento da matéria, o que é inviável em embargos de declaração.
+No que tange à multa cominatória, importante salientar que a verificação da existência de exorbitância das astreintes por descumprimento de decisão judicial não pode ser baseada apenas na comparação entre a quantia total e o valor da obrigação principal, devendo ser analisado o valor estabelecido diariamente como multa. Além disso, verifica-se que o Tribunal a quo ressaltou a razoabilidade e proporcionalidade do valor das astreintes, limitadas em R$ 200.000,00, considerado ainda o poder econômico da agravante e o efetivo descumprimento da obrigação (fl. 66).
+Assim, não há como afastar a incidência da Súmula n. 7 do STJ à espécie, uma vez que, conforme consolidado entendimento desta Corte Superior, a excepcionalidade de revisão só é possível nos casos em que o arbitramento for excessivo ou ínfimo, o que não se verifica no presente caso. Além dos julgados já citados na decisão agravada, veja-se o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. EXIBIÇÃO DE DOCUMENTOS. ASTREINTE. VALOR. REVISÃO. IMPOSSIBILIDADE. ACERVO FÁTICO-PROBATÓRIO. REEXAME. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Nos termos da Súmula nº 518/STJ, não cabe recurso especial fundado em alegada violação de texto de súmula.
+3. É possível a revisão do valor da multa diária pelo descumprimento de decisão judicial a qualquer tempo, inclusive na fase de cumprimento de sentença, quando se mostrar irrisória ou exorbitante, em flagra nte ofensa aos princípios da razoabilidade e da proporcionalidade, tendo em vista que a decisão que comina as astreintes não faz coisa julgada material.
+4. Na hipótese, é inviável a este Tribunal Superior rever o entendimento firmado pelas instâncias ordinárias no tocante ao valor da multa cominatória sem a análise dos fatos e das provas dos autos, o que atrai a aplicação da Súmula nº 7/STJ.
+5. Não é cabível a revisão das astreintes com base apenas na comparação do valor do encargo com a importância da obrigação principal.
+6. Agravo interno não provido. (AgInt no AREsp n. 1.914.727/PE, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 5/12/2022, DJe de 9/12/2022, destaquei.)
+Registre-se que, conforme jurisprudência do Superior Tribunal de Justiça, "o destinatário da ordem judicial deve ter em mente a certeza de que eventual desobediência lhe trará consequências mais gravosas que o próprio cumprimento da ordem, e não a expectativa de redução ou de limitação da multa a ele imposta, sob pena de tornar inócuo o instituto processual e de violar o direito fundamental à efetividade da tutela jurisdicional" (REsp n. 1.840.693/SC, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 26/5/2020, DJe de 29/5/2020).
+Portanto, a parte agravante não logrou êxito em demonstrar situação superveniente que justificasse a alteração da decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
