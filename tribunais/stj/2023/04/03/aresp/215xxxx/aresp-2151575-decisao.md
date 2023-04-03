@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MARCOS ANTONIO CASTILHO contra decisão que inadmitiu recurso especial por incidir na espécie a Súmula n. 7 do STJ e na por não ter sido demonstrada a violação do art. 489, § 1º, IV, do CPC.
+Alega o agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Sustenta também que o órgão de interposição do recurso, ao emitir juízo prévio de admissibilidade, ultrapassou os limites de sua competência, adentrando indevidamente o mérito do recurso especial.
+É o relatório. Decido.
+Inicialmente, esclareça-se que, em conformidade com a jurisprudência do STJ, é possível o juízo de admissibilidade adentrar o mérito do recurso, porquanto o exame da admissibilidade pela alínea a, em razão dos pressupostos constitucionais, envolve o próprio mérito da controvérsia (REsp n. 1.664.818/DF, relator Ministro Og Fernandes, Segunda Turma, julgado em 21/6/2022, DJe de 30/6/2022; AgInt no AREsp n. 1.760.002/PR, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 9/5/2022, DJe de 11/5/2022; e AgRg no AREsp n. 2.032.402/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 3/5/2022, DJe de 6/5/2022).
+Nesse sentido, aliás, é o enunciado da Súmula n. 123 do STJ: "A decisão que admite, ou não, o recurso especial deve ser fundamentada, com exame dos seus pressupostos gerais e constitucionais".
+O recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, foi interposto contra acórdão prolatado pelo Tribunal de Justiça do Estado de Santa Catarina em apelação nos autos de ação de cobrança.
+O julgado foi assim ementado (fl. 541):
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. SENTENÇA DE IMPROCEDÊNCIA. INSURGÊNCIA DA AUTORA. DEFENDIDA IMPOSSIBILIDADE DE REVISÃO DE CLÁUSULAS CONTRATUAIS. APLICAÇÃO MITIGADA DA TEORIA FINALISTA ANTE A VULNERABILIDADE DA PARTE AUTORA FRENTE A CASA BANCÁRIA. POSSIBILIDADE DE REVISÃO DO NEGÓCIO. ART. 6º, V, CDC. INEXISTÊNCIA DE OFENSA AO PACTA SUNT SERVANDA, AO ATO JURÍDICO PERFEITO OU À AUTONOMIA DA VONTADE. INCIDÊNCIA DOS DITAMES DO CÓDIGO CONSUMERISTA. RELAÇÃO DE CONSUMO CARACTERIZADA. INSUBSISTÊNCIA. MAGISTRADO A QUO RECONHECEU A INEXISTÊNCIA DE RELAÇÃO JURÍDICA ENTRE AS PARTES. EXTRATOS DA CONTA CORRENTE QUE EVIDENCIAM A CONTRATAÇÃO E LIBERAÇÃO DO VALOR DO EMPRÉSTIMO AO CONSUMIDOR. CONTRATO CELEBRADO POR MEIO ELETRÔNICO. RELAÇÃO JURÍDICA EXISTENTE. PRECEDENTE DESTE ÓRGÃO FRACIONÁRIO. SENTENÇA DESCONSTITUÍDA. HONORÁRIOS RECURSAIS. DESCABIMENTO. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, o agravante aponta violação dos arts. 373, I, e 489, § 1º, IV, do CPC. Alega que o acórdão foi omisso ao não apreciar as alegações apresentadas nas contrarrazões de apelação, no que se refere à comprovação de contratação.
+Sustenta que o recorrido não se desincumbiu do ônus de comprovar a relação jurídica, pois não juntou aos autos o comprovante de contratação, deixando de fazer prova de fato constitutivo de seu direito.
+Aduz divergência jurisprudencial quanto ao erro de valoração da prova, pois o Tribunal a quo considerou suficientes para a comprovação da relação jurídica os extratos e condições gerais apócrifas; no entanto, o banco não juntou aos autos o comprovante de contratação, ainda que constasse do contrato a existência do documento.
+Sustenta ainda dissídio jurisprudencial quanto ao art. 139 do CPC.
+Passo, pois, à análise das proposições deduzidas.
+O recurso não merece prosperar.
+I - Da alegada negativa de prestação jurisdicional
+Afasta-se a alegada ofensa aos arts. 489, § 1º, IV, do CPC, visto que a Corte de origem examinou e decidiu, de modo claro, objetivo e fundamentado, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+Esclareça-se que o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+II - Da violação do art. 373, I, do CPC
+Alega o recorrente que o banco não se desincumbiu de seu ônus de comprovar a relação jurídica das partes, pois não apresentou o comprovante de contratação.
+O Tribunal de origem, analisando o acervo probatório, concluiu ser inequívoca a relação jurídica estabelecida entre as partes, por ter sido comprovada a contratação de empréstimo pessoal por meio eletrônico, conforme cláusula contratual do referido documento, não sendo exigível, portanto, o contrato assinado por ambas as partes. Registrou ainda que o extrato bancário apresentado pela instituição financeira demonstrara a realização de um depósito na conta do recorrente, no valor correspondente ao contrato em discussão.
+Confiram-se excertos do julgado (fl. 546, destaquei):
+Em análise aos autos observa-se que o objeto da ação de cobrança é o contrato colacionado ao evento 78, CONTR21-CONTR24, mediante o qual teriam as partes entabulado empréstimo pessoal, na data de 11/10/2011, ..
+ ..
+Ocorre que, em breve exame dos documentos colacionados pela instituição financeira, mormente o extrato apresentado ao evento 78, ANEXO27, tem-se como existente a relação jurídica das partes, em virtude de ter sido disponibilizado na conta corrente do recorrido, na data de 11/10/2011,  ..
+Assim, apesar do contrato de evento 78, CONTR21-CONTR24 não estar fisicamente assinado pelo consumidor, é evidente que a contratação do empréstimo deu-se por meio eletrônico, de acordo com o disposto na cláusula 18 do referido documento  ..
+Logo, descabida a sentença que julgou improcedentes os pedidos formulados, porquanto "em caso de celebração do contrato por meio eletrônico, descabida é a exibição do instrumento de contrato impresso e assinado pelas partes, uma vez que tal documento não existe fisicamente" (AC n. 0308242-21.2014.8.24.0039, de Lages, rel. Janice Goulart Garcia Ubialli, Quarta Câmara de Direito Comercial, j. 30-01-2018).
+Para rever as conclusões do Tribunal a quo acerca da comprovação da relação jurídica firmada entre as partes e concluir de modo diverso, seria imprescindível o reexame do contrato e das provas, o que é inadmissível nesta instância extraordinária, em razão do disposto nas Súmulas n. 5 e 7 do STJ.
+III - Da alegada divergência jurisprudencial
+Para a interposição de recurso especial fundado na alínea c do permissivo constitucional, é necessário o atendimento dos requisitos essenciais para a comprovação do dissídio pretoriano, conforme prescrições dos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ. Isso porque não basta a simples transcrição da ementa dos paradigmas, pois, além de juntar aos autos cópia do inteiro teor dos arestos tidos por divergentes ou de mencionar o repositório oficial de jurisprudência em que foram publicados, deve a parte recorrente proceder ao devido confronto analítico, demonstrando a similitude fática entre os julgados, o que não foi atendido no caso.
+Portanto, está prejudicada a apreciação do dissídio jurisprudencial ante a não realização do devido cotejo analítico.
+IV - Conclusão
+Ante o exposto, nego provimento ao agravo.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
