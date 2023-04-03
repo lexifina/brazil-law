@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/03/2023 a 03/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+PORTOCRED SA CREDITO FINANCIAMENTO E INVESTIMENTO interpõe agravo interno contra a decisão de fls. 815-817, que não conheceu do agravo em recurso especial diante da aplicação analógica da Súmula n. 182 do STJ.
+Nas razões do presente recurso, a agravante sustenta que impugnou os fundamentos da decisão que inadmitira o recurso especial.
+Reitera as razões recursais apresentadas no agravo em recurso especial, alegando, em síntese, que houve omissão na prestação jurisdicional pela Corte a quo e que não seria aplicável à espécie a Súmula n. 7 do STJ, pois desnecessário o revolvimento fático-probatório.
+Aduz que, "sobre o contrato nº 3801097573, existente entre as mesmas partes da presente demanda, quanto ao pleito de revisão contratual, a prestação jurisdicional já restou alcançada, restando sobre o mesmo indiscutível manto da coisa julgada" (fl. 836).
+Requer, assim, seja reconsiderada a decisão agravada ou seja submetido o recurso ao colegiado.
+É o relatório.
+EMENTA
+PROCESSUAL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE INADMISSIBILIDADE. NÃO IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. RECONSIDERAÇÃO. NOVA ADMISSIBILIDADE. AÇÃO REVISIONAL. CONTRATO DE EMPRÉSTIMO BANCÁRIO. COISA JULGADA. OFENSA AOS ARTS. 489 E 1.022 DO CPC. NÃO VERIFICAÇÃO. REEXAME. SÚMULA N. 7 DO STJ. INCABÍVEL. AGRAVO INTERNO DESPROVIDO.
+1. Inexiste ofensa aos arts. 489 e 1.022 do CPC quando o Tribunal de origem aprecia, com clareza e objetividade e de forma motivada, as questões que delimitam a controvérsia, ainda que não acolha a tese da parte insurgente.
+2. Não se admite a revisão do entendimento do Tribunal de origem quando a situação de mérito demandar o reexame do acervo fático-probatório dos autos, tendo em vista a incidência do óbice da Súmula n. 7 do STJ.
+3. Agravo interno desprovido.
+VOTO
+Em melhor análise à decisão de fls. 815-817, em que pese a ora agravante, nas razões do agravo em recurso especial, ter contestado adequadamente os fundamentos da decisão então agravada, a irresignação não reúne condições de prosperar.
+Assim, procede-se a novo exame de admissibilidade do recurso especial.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul (Apelação n. 5003754-59.2021.8.21.0003) em ação revisional de empréstimo bancário.
+O julgado foi assim ementado (fl. 653):
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO REVISIONAL. COISA JULGADA. CONTRATOS DISTINTOS. PRESCRIÇÃO. DECENAL JUROS REMUNERATÓRIOS. ABUSIVIDADE.
+Caso em que o contrato revisado no Processo n.º 001/1.12.0170761-8 não tem nenhuma relação com o instrumento contratual objeto da contenda originário, não havendo falar em violação da coisa julgada. Em se tratando de ação revisional, inclusive para fins de repetição de valores, aplica-se o prazo prescricional decenal previsto no art. 205 do Código Civil, conforme entendimento do Superior Tribunal de Justiça. Hipótese em que a alteração da taxa de juros remuneratórios, em se tratando de pacto firmado por instituição cadastrada no sistema financeiro nacional, depende da demonstração cabal de sua abusividade em relação à taxa média do mercado estabelecida pelo Banco Central para o período, o que ocorreu na espécie. Diante do desenlace do recurso, nos termos do art. 85, § 11, do Código de Processo Civil em vigor, majoram-se os honorários advocatícios em favor dos procuradores da autora.
+APELAÇÃO DESPROVIDA.
+Nas razões do recurso especial, a recorrente aponta violação dos arts. 489, II, e § 1º, 1.022, 502, 503 e 505 do Código de Processo Civil.
+Alega que o acórdão recorrido foi omisso em relação à tese de ter ocorrido a coisa julgada sobre o contrato n. 3801097573, bem como ter incorrido em carência de fundamentação sobre a questão.
+Aponta que o referido contrato foi objeto de análise em outro processo e não houve recurso, tendo ocorrido o trânsito em julgado.
+Requer seja acolhida a preliminar de coisa julgada sobre o contrato para que se declarem válidas as cláusulas que estipulam a cobrança dos juros remuneratórios e demais encargos, com sua consequente manutenção nos percentuais estabelecidos pelas partes. Pleiteia ainda a imposição dos ônus sucumbenciais exclusivamente à parte recorrida, caso a demanda seja provida.
+As contrarrazões foram apresentadas às fls. 762-773.
+Inicialmente, afasta-se a alegada ofensa aos arts. 489 e 1.022 do CPC, porquanto a Corte de origem examinou e decidiu, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+Esclareça-se que o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+Em relação à negativa de prestação jurisdicional e carência de fundamentação do acórdão recorrido acerca da não ocorrência da coisa julgada no contrato n. 3801097573, o Tribunal de origem debateu, de forma explícita, que o contrato não foi objeto de julgamento. Confira-se trecho do voto condutor do acórdão dos embargos de declaração nos embargos de declaração na apelação (fls. 733-734):
+ ..
+Conforme já referido, os embargos declaratórios não se destinam ao infindável reexame da matéria de mérito, via reprise de argumentos articulados pela parte vencida no processo. Embora o acórdão da Apelação Cível º 70056743651 esteja confuso em relação aos instrumentos revisados, resta claro, a partir da leitura da sentença e da petição inicial do Processo n.º 1.12.0179761-8, que o contrato ora revisado não foi objeto de julgamento, conforme já demonstrado.
+Aliás, conforme mencionado no acórdão que decidiu os primeiros aclaratórios opostos pela embargante, os argumentos articulados no voto não ensejam o reconhecimento de existência de qualquer vício passível de ser sanado pela estreita via dos declaratórios, na medida em que a sentença do Processo 1.12.0170761-8 faz menção expressa tão somente ao contrato de fl. 29 daquele processo, acostado na petição inicial e mencionado no voto embargado:
+Assim, não há se falar em carência de fundamentação ou omissão jurisdicional.
+Como visto acima, a Corte local, soberana na análise do arcabouço fático-probatório dos autos, concluiu, de forma fundamentada, que não ocorreu a coisa julgada no caso, pois o contrato n. 3801097573 não foi objeto de análise em processo anterior.
+Ademais, não cabe, como pretendido pela defesa, modificar as conclusões do Tribunal de origem a respeito da inocorrência da coisa julgada, sendo necessário reexame do contexto fático-probatório dos autos, procedimento vedado na via do recurso especial em face da Súmula n. 7 do STJ.
+Nesse sentido, destaco os seguintes precedentes:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE REPARAÇÃO DE DANOS MATERIAIS E MORAIS - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO RECURSAL DAS RÉS.
+1. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tenha encontrado motivação satisfatória para dirimir o litígio.
+2. A conclusão a que chegou o Tribunal de origem, relativa à inexistência de violação à coisa julgada, fundamenta-se nas particularidades do contexto que permeia a controvérsia. Incidência da Súmula 7 do STJ.
+3. Derruir a conclusão do Tribunal de origem, no sentido da demonstração dos danos materiais, ensejaria, necessariamente, a rediscussão de matéria fática, com o revolvimento das provas juntadas ao processo, incidindo, na espécie, o óbice da Súmula 7 deste Superior Tribunal de Justiça.
+4. Agravo interno desprovido. (AgInt nos EDcl no AREsp n. 2.123.502/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 12/12/2022, DJe de 16/12/2022.)
+TRIBUTÁRIO E PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTADUAL. URV. RENDIMENTOS RECEBIDOS ACUMULADAMENTE. REGIME DE TRIBUTAÇÃO. COISA JULGADA. REVOLVIMENTO DE FATOS E PROVAS. SÚMULAS N. 284 DO STF E 7 DO STJ.
+1. No que concerne à alegada violação do art. 1.022 do CPC/2015, a parte recorrente não logrou êxito em demonstrar objetivamente os pontos omitidos pelo acórdão combatido, individualizando o erro, a obscuridade, a contradição ou a omissão que supostamente teriam ocorridos, bem como sua relevância para a solução da controvérsia apresentada nos autos. Tal circunstância atrai, portanto, a incidência da Súmula n. 284/STF: "Inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.".
+2. Em recurso repetitivo, esta Corte Superior firmou o entendimento de que o imposto de renda incidente sobre os rendimentos recebidos acumuladamente deve ser calculado de acordo com as tabelas e alíquotas vigentes à época em que os valores deveriam ter sido adimplidos (REsp n. 1.118.429/SP, relator Ministro Herman Benjamin, Primeira Seção, DJe de 14/5/2010).
+3. A admissibilidade do recurso especial reclama a indicação clara dos dispositivos tidos por violados, bem como a exposição das razões pelas quais o acórdão teria afrontado cada um deles, não sendo suficiente a mera alegação genérica. Dessa forma, o inconformismo se apresenta deficiente quanto à fundamentação, o que impede a exata compreensão da controvérsia (Súmula n. 284/STF).
+4. No mais, a Corte de origem negou a pretensão da parte recorrente ao afirmar que "o dever de observância ao regime de competências está expressamente reconhecido no título executivo, conforme se nota nos documentos juntados aos autos eletrônicos".
+5. Para afastar o entendimento a que chegou aquela Corte, de modo a albergar as peculiaridades do caso e verificar a ocorrência de violação da coisa julgada, como sustentado no recurso especial, é necessário o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável na via especial, por óbice da Súmula n. 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial.".
+6. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.498.301/RS, relator Ministro Og Fernandes, Segunda Turma, julgado em 16/8/2022, DJe de 31/8/2022.)
+Dessa forma, inviável o acolhimento da pretensão recursal.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
