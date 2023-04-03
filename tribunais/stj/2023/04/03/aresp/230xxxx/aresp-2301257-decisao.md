@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial, interposto pela BOA VISTA SERVIÇOS S.A., com fundamento nas alíneas "a" e "c" do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+AGRAVO INTERNO. APELAÇÃO CÍVEL. CANCELAMENTO DE REGISTRO NEGATIVO. AÇÃO INDENIZATÓRIA. INSCRIÇÃO EM CADASTRO DE INADIMPLENTE. NECESSIDADE DE NOTIFICAÇÃO PRÉVIA DO CONSUMIDOR PARA INSCRIÇÃO. INOBSERVÂNCIA. DANOS MORAIS CONFIGURADOS. NÃO TRAZENDO A PARTE AGRAVANTE QUALQUER ARGUMENTO NOVO CAPAZ DE MODIFICAR O ENTENDIMENTO ADOTADO NA DECISÃO AGRAVADA, APENAS REEDITANDO A TESE ANTERIOR, IMPROCEDE O RECURSO INTERPOSTO. AGRAVO INTERNO NÃO PROVIDO.
+Os embargos de declaração foram rejeitados.
+Nas razões do recurso especial, a parte recorrente alega, além de dissídio jurisprudencial, violação aos arts. 373, II, do Código de Processo Civil de 2015, 43, § 2º, do Código de Defesa do Consumidor. Sustenta, em síntese, que "o entendimento é contrário a legislação pátria e merece ser reformado, não havendo falar em responsabilização da entidade arquivista, uma vez que os documentos acostados aos autos demonstram que a recorrente cumpriu com todas as suas obrigações legais" (fl. 373).
+É o relatório. Decido.
+Quanto ao cumprimento dos requisitos do art. 43, § 2º, do CDC, por parte da recorrente, a Corte de origem, analisando as circunstâncias do caso, assim dirimiu a controvérsia:
+Após detida análise do presente recurso, verifiquei não ter a parte recorrente tecido argumentos suficientes para modificar o entendimento exposto na decisão monocrática ora agravada. Assim, quanto ao mérito, entendo que deve ser mantida a orientação já manifestada na decisão monocrática ora atacada, razão pela qual a transcrevo e adoto como razões de decidir:
+No caso, de acordo com os documentos acostados junto à contestação (Evento 9) a entidade responsável pelo cadastro restritivo de crédito comprovou ter notificado o consumidor, contudo, tal correspondência foi encaminhada em data posterior à realização da inscrição do consumidor em cadastro de registro negativo, o que viola o disposto no art. 43, § 2º do CDC
+A simples ausência da comunicação em comento já enseja o direito à indenização por dano moral, sendo irrelevante, destarte, a efetiva existência do débito, haja vista que o fito da notificação não é cientificar o devedor da mora, mas sim lhe propiciar o acesso às informações, de molde a preveni-lo de futuros danos.
+A jurisprudência do STJ "é no sentido de que é ilegal e deve ser cancelada a inscrição do nome do devedor em cadastros de proteção ao crédito realizada sem a prévia notificação exigida pelo art. 43, § 2º, do CDC." (AgInt no REsp n. 1.973.724/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 5/9/2022, DJe de 12/9/2022.)
+Outrossim, a Segunda Seção desta Corte estabeleceu, no julgamento do REsp 1.061.134/RS, Rel. Ministra NANCY ANDRIGHI, que "a ausência de prévia comunicação ao consumidor da inscrição do seu nome em cadastros de proteção ao crédito, prevista no art. 43, § 2º do CDC, enseja o direito à compensação por danos morais, salvo quando preexista inscrição desabonadora regularmente realizada."
+Sendo assim, estando a decisão de acordo com a jurisprudência do STJ, o recurso especial encontra óbice na Súmula 83, que incide pelas alíneas "a" e "c" do permissivo constitucional.
+Ademais, a Corte de origem, analisando o acervo fático-probatórios dos autos, assentou não ter sido comprovada a notificação prévia da parte agravada. Assim, alterar a aludida conclusão demandaria a análise dos elementos fáticos dos autos ensejaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+2. No caso, o Tribunal de origem, examinando a prova dos autos, concluiu não ter sido comprovada a notificação prévia à inclusão da recorrida em cadastro de inadimplentes. Alterar tal conclusão demandaria nova análise de elementos fáticos, inviável em recurso especial.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1138534/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 06/02/2018, DJe 22/02/2018)
+Com essas considerações, conclui-se que o recurso não merece prosperar.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
