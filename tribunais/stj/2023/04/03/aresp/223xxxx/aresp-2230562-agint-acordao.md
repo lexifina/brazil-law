@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/03/2023 a 03/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Não participou do julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+Cuida-se de agravo interno interposto por QUALICORP ADMINISTRADORA DE BENEFICIOS S.A. contra decisão que não conheceu do recurso da agravante.
+Ação: revisional de contrato de plano de saúde c/c repetição de indébito ajuizada por GICÉLIO FRANCISCO DA SILVA FILHO em face da agravante.
+Sentença: julgou parcialmente procedente a demanda para condenar a agravante a excluir do plano do autor os índices de reajuste por sinistralidade aplicados a partir de 2016, determinando a incidência do reajuste anual em substituição e restituir os valores pagos a maior.
+Acórdão: negou provimento à apelação da agravante, nos termos da seguinte ementa:
+APELAÇÃO. PLANO DE SAÚDE. Ação de obrigação de fazer. Reajuste por VCMH/Sinistralidade. Sentença de parcial procedência, para condenar a requerida a excluir do plano de saúde do autor os índices de aumento aplicados pela sinistralidade a partir do exercício de 2016, e determinar, em substituição, a incidência apenas do índice de reajuste anual, com a restituição dos valores pagos a maior, deste outubro de 2016, com incidência de juros de mora e de correção monetária. Inconformismo. Preliminar de ilegitimidade. Não acolhimento. Requerida que participada cadeia de fornecimento do plano de saúde do autor, respondendo solidariamente. Incidência do artigo 7º,parágrafoúnico do CDC. Mérito. Ausência de comprovação, pela requerida, de que os índices efetivamente aplicados ao contrato estão em consonância com a elevação dos custos médico-hospitalares e/ou sinistralidade. Documentação juntada aos autos que nada demonstra quanto ao efetivo aumento dos custos a justificara majoração do prêmio nos índices aplicados. Correta a substituição pelos índices autorizados pela ANS para os contratos individuais e familiares nos respectivos períodos, com reembolso dos valores pagos a maior. Sentença mantida. RECURSO DESPROVIDO.APELAÇÃO. PLANO DE SAÚDE. Ação de obrigação de fazer. Reajuste por VCMH/Sinistralidade. Sentença de parcial procedência, para condenar a requerida a excluir do plano de saúde do autor os índices de aumento aplicados pela sinistralidade a partir do exercício de 2016, e determinar, em substituição, a incidência apenas do índice de reajuste anual, com a restituição dos valores pagos a maior, deste outubro de 2016, com incidência de juros de mora e de correção monetária. Inconformismo. Preliminar de ilegitimidade. Não acolhimento. Requerida que participada cadeia de fornecimento do plano de saúde do autor, respondendo solidariamente. Incidência do artigo 7º,parágrafoúnico do CDC. Mérito. Ausência de comprovação, pela requerida, de que os índices efetivamente aplicados ao contrato estão em consonância com a elevação dos custos médico-hospitalares e/ou sinistralidade. Documentação juntada aos autos que nada demonstra quanto ao efetivo aumento dos custos a justificara majoração do prêmio nos índices aplicados. Correta a substituição pelos índices autorizados pela ANS para os contratos individuais e familiares nos respectivos períodos, com reembolso dos valores pagos a maior. Sentença mantida. RECURSO DESPROVIDO.
+Embargos de declaração: opostos pela agravante, foram rejeitados.
+Recurso Especial: fundamentando o recurso nas alíneas "a" e "c" do permissivo constitucional, sustentou ofensa ao art. 20 da RN 195 da ANS, em virtude da legalidade do reajuste aplicado ao contrato.
+Decisão unipessoal: não conheceu do recurso ante a incidência da Súmula 284/STF, uma vez que não indicado o dispositivo de lei federal que teria sido violado ou ao qual teria sido dada interpretação divergente.
+Agravo interno: o agravante alega que apontou o dispositivo violado, qual seja, o art. 20 da RN 195 da ANS, devendo o recurso ser conhecido e provido.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO. PLANO DE SAÚDE. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL OU DE ATO NORMATIVO. DESCABIMENTO.
+1. Ação revisional de contrato de plano de saúde.
+2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+3. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+4. Agravo interno não provido.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+A despeito das alegações aduzidas neste recurso, percebe-se que a parte agravante não trouxe qualquer argumento novo capaz de ilidir o entendimento firmado na decisão ora agravada.
+Com efeito, na petição de recurso especial, no qual se alega a legalidade da aplicação de reajuste por sinistralidade em contrato de plano de saúde coletivo, a parte limita-se a apontar a não observância da regra contida no art. 20 da Resolução Normativa nº 195 da ANS. Não apontou nenhum dispositivo de lei federal, restando o recurso especial deficiente em sua fundamentação, de maneira que inafastável a incidência da Súmula 284/STF.
+Ademais, a interposição de recurso especial não é cabível quando ocorre violação de súmula, de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88, sendo insuficiente a indicação de resolução normativa como dispositivo violado.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno no agravo em recurso especial.
