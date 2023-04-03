@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de recurso especial, fundado no art. 105, III, "a", da Constituição, interposto por QUÍMICA AMPARO LTDA em face do v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"AGRAVO REGIMENTAL. Decisão monocrática que julgou prejudicado os embargos de declaração opostos em face de acórdão. Nulidade da decisão reconhecida. Possibilidade de reapreciação dos embargos de declaração. Agravo regimental provido.
+EMBARGOS DE DECLARAÇÃO. Mérito do recurso de apelação ainda não apreciado. Recurso prejudicado." (fl. 306)
+A recorrente aponta ofensa aos arts. 12, V, 463, 535, 560, 561, 986, 991, I, do CPC/73, sustentando, em síntese, (a) o Tribunal de origem "não analisou o mérito recursal, para que fosse suprimida a omissão quanto ao julgamento das demais questões de direito deduzidas pela ora recorrente, em sede de apelação, de modo a que as mesmas possam ser decididas e integrem o v. acórdão proferido" (fl. 323) e (b) a representação processual do espólio compete ao inventariante, e não aos herdeiros do de cujus.
+Contrarrazões às fls. 336/551.
+Parecer da Subprocuradoria-Geral da República às fls. 368/373, opinando pelo provimento parcial da irresignação.
+É o relatório.
+Ainda que possa parecer questionável a prática do Tribunal de origem de separar o julgamento da apelação em duas partes, uma para examinar a tese de ilegitimidade ativa e outra para as demais questões, o fato é que a ora recorrente não possui interesse recursal em apontar ofensa ao art. 535 do CPC/73, tendo em vista que, efetivamente, não houve recusa da Corte de 2º grau a examinar as demais teses da apelação, mas tão só o adiamento (com a cisão) do julgado.
+A irresignação, nesse ponto, deveria ter infirmado o erro de procedimento, com a citação de ofensa a dispositivo de lei federal respectivo, sem o que a matéria não pode ser conhecida, ante o óbice da Súmula n. 284/STF. Com efeito, nos termos da jurisprudência do STJ, "a Súmula 284 da Suprema Corte também incide quando o conteúdo normativo do dispositivo legal apontado como violado não é apto a lastrear a tese vertida no recurso especial, porquanto deficiente a fundamentação" (AgInt no AREsp n. 1.033.441/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 27/4/2017, DJe de 3/5/2017.).
+Quanto à questão de fundo, nota-se que o eg. TJSP, no último acórdão (efetivamente recorrido pelo apelo especial), limitou-se a considerar prejudicado o julgamento dos embargos de declaração, sem discutir (ou rediscutir) a tese de ilegitimidade ativa (ou de defeito na representação processual) do espólio. Incidente, portanto, o óbice das Súmulas 282 e 356/STF.
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se.
