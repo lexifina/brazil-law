@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/03/2023 a 03/04/2023, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por ANDRÉ CHEQUINI MANZELLO contra decisão de relatoria do Ministro Og Fernandes que rejeitou os embargos de declaração (fl. 986).
+Em breve resumo do processado, extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO cuja ementa guarda os seguintes termos (fls. 331-332):
+APELAÇÃO. ADMINISTRATIVO. SERVIDOR PÚBLICO. PROCESSUAL CIVIL. PRELIMINARES DE NULIDADE DA SENTENÇA POR FALTA DE FUNDAMENTAÇÃO; NULIDADE PROCESSUAL PELA AUSÊNCIA DE OPORTUNIDADE DE APRESENTAÇÃO DE MEMORIAIS; E DE NULIDADE DA SENTENÇA POR AUSÊNCIA DE REALIZAÇÃO DE NOVA PERÍCIA E PELO INDEFERIMENTO DO PEDIDO DE PRODUÇÃODE PROVA TESTEMUNHAL QUE SÃO AFASTADAS. MÉRITO: CASO EM QUE É CONFIRMADA A SENTENÇA DE IMPROCEDÊNCIA, QUE AFASTOU O PEDIDO DE CONDENAÇÃO DA UNIÃO AO PAGAMENTO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS DECORRENTES DO CANCELAMENTO DOS PLANOS DE SAÚDE DO AUTOR, ENQUANTO SERVIDOR DO MINISTÉRIO PÚBLICO DO TRABALHO, POIS: A) O ACERVO PROBATÓRIO DEIXOU SUFICIENTEMENTE DEMONSTRADO QUE, À ÉPOCA DA EXONERAÇÃO, O AUTOR ESTAVA EM CONDIÇÕES DE SAÚDE QUE LHE POSSIBILITASSEM DECIDIR VALIDAMENTE PELA SUA EXONERAÇÃO, TRATANDO-SE, ASSIM, DE ATO VÁLIDO; B) NÃO SOMENTE ERA AUSENTE DE VÍCIO A MANIFESTAÇÃO DE VONTADE DO AUTOR, COMO TINHA, EM VERDADE, OUTRA FINALIDADE: POSSIBILITAR AO AUTOR EXERCER A ADVOCACIA; C ) AS ALEGAÇÕES APRESENTADAS NA AÇÃO NÃO GUARDAM COMPATIBILIDADE COM A SITUAÇÃO DE FATO QUE GEROU A MANIFESTAÇÃO DE VONTADE DO AUTOR, AO REQUERER A EXONERAÇÃO; E D) O QUESTIONADO CANCELAMENTO FOI MERA DECORRÊNCIA DOS EFEITOS DO ATO DE EXONERAÇÃO A PEDIDO DO SERVIDOR. DANOS MORAIS: AUSÊNCIA DE ATO ILEGAL DO ENTE PÚBLICO QUE ATRAÍSSE EVENTUAL OBRIGAÇÃO DE INDENIZAR POR DANO MORAL. GRATUIDADE DA JUSTIÇA MANTIDA, NÃO SENDO HÁBIL A ILIDIR A PRESUNÇÃO DE POBREZA DA PARTE EXEQUENTE, PARA FIM DE INDEFERIMENTO DO BENEFÍCIO DA GRATUIDADE DA JUSTIÇA, O RECEBIMENTO DE VALORES EM EXECUÇÃO, UMA VEZ QUE, NO CASO, TAL MONTANTE TEM ORIGEM NO PAGAMENTO DE QUANTIAS QUE ERAM DEVIDAS À PARTE AO LONGO DE ANOS, SENDO IMPOSSÍVEL AFIRMAR QUE A SITUAÇÃO ECONÔMICA DO AUTOR SE ALTERE SIGNIFICATIVAMENTE PELO SIMPLES FATO DE VIR A RECEBER, DE FORMA ACUMULADA, O QUE DEVERIA TER-LHE SIDO PAGO MENSALMENTE AO LONGO DOS ANOS. CONDENAÇÃO DO AUTOR POR LITIGÂNCIA DE MÁ-FÉ, AO ATRIBUIR VÁRIAS VERSÕES A UM MESMO FATO, NA ESFERA PROCESSUAL, O QUE VAI DE ENCONTRO AO DEVER DA PARTE DE EXPOR OS FATOS EM JUÍZO CONFORME A VERDADE (ART. 77, I, DO CPC). O DIREITO DE AÇÃO NÃO PODE SER EXERCIDO DE FORMA ABUSIVA, ATRIBUINDO-SE A UM MESMO FATO, CONFORME MELHOR CONVENHA À PARTE, VÁRIAS VERSÕES, AINDA QUE MANIFESTAMENTE CONFLITANTES OS EFEITOS JURÍDICOS DECORRENTES DE CADA CAUSA DE PEDIR. A CONCESSÃO DO BENEFÍCIO DA GRATUIDADE DA JUSTIÇA NÃO ISENTA O BENEFICIÁRIO DO PAGAMENTO DE MULTA POR LITIGÂNCIA DE MÁ-FÉ, NOS TERMOS DO ART. 98, § 4º, DO CPC/2015. SENTENÇA MANTIDA. APELAÇÕES DESPROVIDAS.
+Os embargos de declaração foram rejeitados (fls. 452-453).
+Nas razões do agravo interno, o agravante afirma que (fl. 996):
+Entendendo o ora agravante ter cumprido com os pressupostos legais, requer sejam afastados os óbices indicados na decisão ora atacada (Súmulas 07 e 83, STJ), requerendo a Vossa Excelência o recebimento do presente agravo interno, para que seja encaminhado ao julgador/colegiado, dando-se provimento ao agravo interno ora interposto para que o mérito do agravo de instrumento seja conhecido, e, ao final, provido..
+Não houve impugnação.
+É, no essencial, o relatório.
+EMENTA
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A FUNDAMENTO DA DECISÃO AGRAVADA. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL/2015. SÚMULA N. 182/STJ. INCIDÊNCIA DA SÚMULA N. 7/STJ. NECESSIDADE DE DEMOSNTRAÇÃO EFETIVA DA NÃO APLICAÇÃO.
+1. A decisão ora agravada não conheceu do agravo em recurso especial com base na incidência da Súmula n. 182/STJ.
+2. As razões do agravo interno não enfrentam adequadamente o único fundamento da decisão agravada.
+3. Conforme já assentado pela Corte Especial do STJ, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ.
+4. O novo Código de Processo Civil, por meio do art. 932, reafirmou a jurisprudência desta Corte, ao exigir a impugnação específica dos fundamentos da decisão agravada.
+Agravo interno não conhecido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (r elator):
+O agravo interno não comporta conhecimento.
+In casu, a decisão ora agravada não conheceu do agravo em recurso especial com base na incidência da Súmula n. 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Novamente, verifica-se que a parte agravante não rebateu, no agravo interno, todos os fundamentos da decisão aqui agravada.
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, novamente, da Súmula n. 182 do STJ.
+Nesse sentido, confiram-se os seguintes julgados:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. APLICAÇÃO DO ENUNCIADO N. 182/STJ. HABEAS CORPUS EX OFFICIO. TRÁFICO. PENA RECLUSIVA DE 5 (CINCO) ANOS. CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. PRIMARIEDADE RECONHECIDA. REGIME INICIAL SEMIABERTO. ART. 33, § 2.º, ALÍNEA B, E § 3.º, DO CÓDIGO PENAL. AGRAVO REGIMENTAL NÃO CONHECIDO. ORDEM DE HABEAS CORPUS CONCEDIDA, DE OFÍCIO.
+1. Ausente a impugnação concreta aos fundamentos utilizados pela decisão agravada, que não conheceu do recurso especial, tem aplicação a Súmula n. 182 do Superior Tribunal de Justiça.
+2. Nos termos de reiteradas manifestações desta Corte, " a  não impugnação específica e pormenorizada dos fundamentos da decisão agravada inviabiliza o conhecimento do agravo, por violação ao princípio da dialeticidade, uma vez que os fundamentos não impugnados se mantêm. Dessarte, não é suficiente a assertiva de que todos os requisitos foram preenchidos ou a insistência no mérito da controvérsia". (AgRg no AREsp 1.547.953/GO, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 24/09/2019, DJe 04/10/2019).
+(..)
+(AgRg no AREsp n. 2.016.016/SP, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 6/5/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOSDA DECISÃODE ADMISSIBILIDADE DO RECURSO ESPECIAL. ARTS. 253, I, do RISTJ E 932, III, DO CPC/2015. SÚMULA 182/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A decisão ora recorrida não conheceu do agravo em razão da falta de impugnação aos fundamentos da decisão de admissibilidade do recurso especial.
+2. Como cediço, a parte, para ver seu recurso especial inadmitido ascender a esta Corte Superior, precisa, primeiro, desconstituir os fundamentos utilizados para a negativa de seguimento daquele recurso, sob pena de vê-los mantidos.
+3. No caso, restou consignado na decisão ora recorrida que o recurso especial deixou de ser admitido considerando: (a) incidência da Súmula 400 do STF; (b) incidência da Súmula 7 do STJ; e (c) dissídio jurisprudencial não comprovado, à míngua do indispensável cotejo analítico e da demonstração da similitude fática.
+4. Entretanto a parte agravante deixou de impugnar especificamente a incidência da Súmula 7/STJ e a não demonstração da divergência jurisprudencial.
+5. Com relação à incidência da Súmula 7 do STJ, observa-se das razões do agravo em recurso especial que a parte agravante refutou sua incidência apenas de maneira genérica, sem explicitar, de forma clara e objetiva, a inaplicabilidade do mencionado óbice sumular.
+6. A jurisprudência do Superior Tribunal de Justiça é no sentido de que, havendo omissão de impugnação específica acerca dos fundamentos da decisão questionada, não se conhece do Agravo em Recurso Especial, consoante preceituam os arts. 253, I, do RISTJ e 932, III, do CPC/2015 e a Súmula 182 do STJ.
+7. Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia.
+8. Consigne-se que, conforme a jurisprudência do STJ, a refutação somente por ocasião do manejo de agravo interno dos fundamentos da decisão que inadmitiu o recurso especial, além de caracterizar imprópria inovação recursal, não tem o condão de afastar a aplicação dos referidos óbices, tendo em vista a ocorrência de preclusão consumativa.
+9. Agravo interno não provido. (AgInt no AREsp n. 1.477.310/RJ, relator Ministro Manoel Erhardt (desembargador convocado do TRF5), Primeira Turma, DJe de 18/3/2022.)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FALTA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS EM QUE SE ASSENTA A DECISÃO AGRAVADA. INVIABILIDADE DO AGRAVO REGIMENTAL. INCIDÊNCIA DA SÚMULA 182/STJ.
+1. Trata-se de Agravo contra decisão que não conheceu de ambos os Agravos em Recurso Especial por ausência de impugnação às Súmulas 7/STJ (Agravo do Estado) e 83/STJ (Agravo dos particulares).
+2. Em atenção ao princípio da dialeticidade recursal, a refutação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula 182/STJ.
+3. A citação en passant de precedente do STJ não pode ser considerada impugnação especificamente apta a afastar a incidência da Súmula 182/STJ.
+4. Agravo Interno não provido. (AgInt no AREsp n. 1.897.137/AL, relator Ministro Herman Benjamin, Segunda Turma, DJe de 4/11/2021.)
+O novo Código de Processo Civil, por meio do art. 932, reafirmou a jurisprudência desta Corte, ao exigir a impugnação específica dos fundamentos da decisão agravada, in verbis:
+Art. 932. Incumbe ao relator:
+I - dirigir e ordenar o processo no tribunal, inclusive em relação à produção de prova, bem como, quando for o caso, homologar autocomposição das partes;
+II - apreciar o pedido de tutela provisória nos recursos e nos processos de competência originária do tribunal;
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;
+(..).
+Ante o exposto, não conheço do agravo interno.
+É como penso. É como voto.
