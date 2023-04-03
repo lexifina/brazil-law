@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 28/03/2023 a 03/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+Trata-se de agravo interno interposto por SÉRGIO YASSUDA GANTUS contra decisão proferida pela Presidência do STJ que não conheceu do recurso especial ante os óbices das Súmulas 282, 284 e 356/STF.
+Em suas razões recursais, a parte agravante refuta a aplicação dos óbices acima mencionados, bem como repisa as alegações do recurso especial que dizem respeito à configuração da legitimidade passiva do proprietário do imóvel (arrematante) pelo pagamento dos débitos de IPTU.
+A parte contrária não apresentou impugnação conforme consta na certidão de fl. 200.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. IPTU. ARREMATAÇÃO DE IMÓVEL. LEGITIMIDADE DO EXECUTADO. RAZÕES RECURSAIS DISSOCIADAS. SÚMULA 284/STF. REVISÃO. IMPOSSIBILIDADE. PRETENSÃO QUE DEMANDA REEXAME DE MATÉRIA FÁTICA. SÚMULA 7/STJ. ALTERAÇÃO DO POLO PASSIVO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. AGRAVO INTERNO DESPROVIDO.
+1. As razões do recurso especial apresentam-se dissociadas do quadro fático do acórdão recorrido, o que atrai a incidência, por analogia, do enunciado sumular 284/STF, que estabelece: "é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+2. Atestar a quitação dos débitos até o ano calendário de 2016 implicaria o reexame do contexto fático-probatório dos autos, providência vedada em recurso especial à luz da Súmula 7/STJ.
+3. A discussão sobre a alteração do polo passivo, nos termos do art. 2º, §8º, da Lei 6.830/1980, não foi objeto de apreciação, tampouco foram opostos embargos de declaração com o objetivo de sanar eventual omissão da questão de direito controvertida. A ausência de enfrentamento pelo Tribunal de origem da matéria impugnada, objeto do recurso excepcional, impede o acesso à instância especial porquanto não preenchido o requisito constitucional do prequestionamento. Incidência, por analogia, das Súmulas 282 e 356 do STF.
+4. Agravo interno a que se nega provimento.
+VOTO
+As alegações da parte agravante não são suficientes para a modificação da decisão agravada.
+Ao solucionar a controvérsia o Tribunal de origem decidiu nos seguintes termos:
+Não se discute que até 2.011 o imóvel pertenceu ao agravante, quando foi arrematado por terceiro. Assim, não há como acolher o argumento de que o agravante não era proprietário do bem na época dos fatos geradores das exações.
+Conforme dispõem os artigos 34 e 124, inciso I, ambos do Código Tributário Nacional (Lei Federal nº 5.172, de 25/10/1.996)1, considera-se contribuinte do IPTU e responsável solidário pelo recolhimento do tributo, aquele que é proprietário, titular do domínio útil ou possuidor do imóvel a qualquer título.
+Apesar dos argumentos do agravante, o fato de o imóvel ter sido arrematado em 09/03/2.011 por terceiro não altera a responsabilidade do agravante pelo pagamento do IPTU dos exercícios de 2.001 e 2.002, uma vez que no caso de aquisição em hasta pública a sub-rogação se limita ao preço pago, nos termos do artigo 130, parágrafo único, do Código Tributário Nacional (Lei Federal nº 5.172, de 25/10/1.996)2.
+Assim, não há como responsabilizar o arrematante por débitos de IPTU anteriores à data da arrematação, salvo se houver expressa menção no edital, conforme entendimento do E. Superior Tribunal de Justiça:
+ ..
+Considerando que não restou demonstrado que o edital da hasta pública atribuiu ao arrematante a responsabilidade pelo pagamento dos débitos de IPTU anteriores à arrematação, permanece o agravante como responsável pelo pagamento do débito tributário exigido pelo agravado.
+Por conseguinte, se não houve sucessão tributária do agravante para o arrematante, evidentemente não havia responsabilidade tributária deste a ser sucedida para os subsequentes adquirentes.
+Assim, é certo que nem a arrematação, nem as subsequentes alienações, têm o condão de afastar a responsabilidade tributária do agravante pelos anteriores fatos geradores de tributos.
+Por fim, nem se alegue que o crédito teria sido quitado em razão do parcelamento celebrado.
+O extrato de pendências fiscais colacionado pelo próprio agravante sem ressalvas, embora considere as dívidas de 2.001 e de 2.002, ora perseguidas, atesta quitação apenas de outros exercícios (fl. 59). E não foi colacionado nenhum documento que demonstre a abrangência desses créditos pelo suposto parcelamento, sendo esse ônus claramente cabível ao agravante, a quem compete provar eventual pagamento por meio de documentos.
+Meramente a corroborar, nota-se ainda que a r. decisão agravada afirmou expressamente que "o débito não se encontra quitado, conforme documento de fls. 225, 266/267 e decisão de fls. 244/245" (negritei)(fl. 83), indicando que a questão já havia sido anteriormente apreciada (fls. 105/107 - sem destaques no original).
+Do que se observa do acórdão recorrido, a tese de responsabilidade do arrematante pelo pagamento dos créditos de IPTU, referente aos anos de 2001 e 2002, foi rechaçada com fundamento no art. 130 do CTN uma vez que a sub-rogação ocorre sobre o respectivo preço, não sendo o adquirente responsável pelos tributos incidentes sobre o imóvel em momento anterior à hasta pública. O recorrente, por sua vez, limita-se a alegar ilegitimidade passiva em razão de a transferência de titularidade do imóvel ensejar a responsabilidade do proprietário pelos tributos, por tratar-se de obrigação propter rem. Aduz, em complemento, ter liquidado todas as dívidas havidas até o ano calendário de 2016 com o ente municipal agravado.
+Constata-se, assim, que as razões do recurso especial apresentam-se dissociadas do quadro fático do acórdão recorrido, o que atrai a incidência, por analogia, do enunciado sumular 284/STF, que estabelece: "é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia". A propósito, cito os seguintes julgados desta Corte Superior, naquilo que interessa:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL  .. . RAZÕES RECURSAIS DISSOCIADAS DO JULGADO. SÚMULA 284/STF.
+ ..
+3. É inadmissível o recurso especial que apresenta razões dissociadas do quadro fático e das premissas jurídicas expostos no acórdão recorrido. Incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.").
+ ..
+7. Agravo interno conhecido parcialmente para, na parte conhecida, negar-se-lhe provimento. (AgInt nos EDcl no AREsp n. 1.700.429/RJ, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 26/4/2021, DJe de 29/4/2021.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. CONVÊNIO. MODERNIZAÇÃO DA GUARDA MUNICIPAL. EXECUÇÃO. NÃO COMPROVAÇÃO. RESSARCIMENTO. MUNICÍPIO. INTIMAÇÃO ELETRÔNICA DA SENTENÇA. DEFICIÊNCIA NA FUNDAMENTAÇÃO. RAZÕES DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO. APLICAÇÃO DA SÚMULA N. 284 DO STF.
+ ..
+III - A jurisprudência do Superior Tribunal de Justiça, é firme no sentido de que se o recorrente apresenta razões dissociadas dos fundamentos adotados pelo acórdão recorrido, o recurso especial é deficiente na sua fundamentação, o que atrai a aplicação por analogia da Súmula n. 284 do STF.
+ ..
+VIII - Agravo interno improvido. (AgInt no REsp n. 1.806.873/PE, relator Ministro Francisco Falcão, Segunda Turma, julgado em 23/11/2020, DJe de 25/11/2020.)
+Ademais, proferir entendimento diverso, para atestar a quitação dos débitos até o ano calendário de 2016, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto. Sendo assim, incide no caso a Súmula 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Quanto ao pedido de alteração do polo passivo, nos termos do art. 2º, § 8º, da Lei 6.830/1980, verifica-se que não há manifestação do Tribunal de origem, tampouco foram opostos embargos de declaração com o objetivo de sanar eventual omissão da questão de direito controvertida. A ausência de enfrentamento pelo Tribunal de origem da matéria impugnada, objeto do recurso excepcional, impede o acesso à instância especial porquanto não preenchido o requisito constitucional do prequestionamento. Incidência, por analogia, das Súmulas 282 e 356 do STF.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
