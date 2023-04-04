@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de habeas corpus substitutivo de recurso próprio, impetrado em benefício de Valdir Santos Pereira e Luís Marcelo Schneider, contra acórdão do Tribunal Regional Federal da 4ª Região proferido no julgamento da Representação n. 5025766-49.2022.4.04.0000, assim ementado:
+"PROCESSO PENAL. REPRESENTAÇÃO PELO DESAFORAMENTO DO JULGAMENTO PELO TRIBUNAL DO JÚRI. OPERAÇÃO SALUS. HOMICÍDIO QUALIFICADO CONSUMADO E DELITOS CONEXOS. DÚVIDA ACERCA DA IMPARCIALIDADE DE EVENTUAL CONSELHO DE SENTENÇA NA COMUNIDADE EM QUE PERPETRADOS OS CRIMES. HIPÓTESE DEMONSTRADA.
+1. O desaforamento consiste no deslocamento da competência territorial de uma comarca ou subseção judiciária para outra, onde se dará o julgamento pelo Tribunal do Júri, tratando-se, pois, de medida excepcional, autorizada apenas nas hipóteses previstas nos artigos 427 e 428 do Código de Processo Penal.
+2. A existência de fundada dúvida acerca da imparcialidade do corpo de jurados a ser formado na localidade é causa suficiente para se determinar o desaforamento do julgamento, não se exigindo prova da parcialidade.
+3. A opinião do juiz da causa, em razão da proximidade com o fato, as partes, os dados do processo e sobretudo a comunidade local, é de suma relevância na aferição da existência de dúvida quanto à imparcialidade do corpo de jurados a ser formado. Precedentes do STJ e do STF.
+4. In casu, a gravidade concreta dos delitos, e, principalmente, a sua apontada motivação, amplamente divulgada pela mídia ao tempo do fatos, bem assim o estabelecimento na região da organização criminosa supostamente responsável pelo seu planejamento e execução, indicam que o fato objeto dos autos pode ter causado certa comoção na comunidade, gerando algum nível de alteração nos ânimos apto a afetar a imparcialidade dos indivíduos eventualmente escolhidos para compor o corpo de jurados.
+5. Reconhecida a existência de fundadas dúvidas acerca da imparcialidade do corpo de jurados que venha a ser formado no município de Cascavel/PR, impõe-se o desaforamento do julgamento em questão. Não se podendo estabelecer um local mais próximo onde os efeitos do delito entre a comunidade sejam de menor monta, convém determinar-se que o julgamento seja realizado na Subseção de Curitiba/PR, onde se presume que, dado o distanciamento dos fatos e o porte da cidade, será possível a continuidade do julgamento com a necessária isenção.
+6. Representação pelo desaforamento acolhida para o fim de determinar que o julgamento do Procedimento Especial dos Crimes de Competência do Júri nº 500808258-2016.4.04.7005/PR seja realizado na Subseção de Curitiba/PR" (fls. 114/115).
+A defesa afirma que não seria o caso de desaforamento do julgamento do Tribunal do Júri.
+A liminar foi indeferida por decisão de fls. 464/466.
+O Ministério Público Federal lavrou parecer que recebeu o seguinte sumário:
+"PENAL. PROCESSUAL PENAL. HABEAS CORPUS. HOMICÍDIO. REVOGAÇÃO DO DESAFORAMENTO. IMPOSSIBILIDADE. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO.
+PARECER PELO NÃO CONHECIMENTO DA ORDEM." (fl. 469)
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Contudo, considerando as alegações expostas na inicial, razoável verificar a existência de eventual constrangimento ilegal.
+O Tribunal de origem com base nos elementos fáticos carreados aos autos concluiu que seria o caso de desaforamento do Júri, ante a existência de dúvidas acerca da parcialidade dos jurados e modificar essa conclusão demanda o exame aprofundado de provas, providência incabível na via eleita.
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. 1. PEDIDO DE DESAFORAMENTO. PARCIALIDADE DO JÚRI. AUSÊNCIA DE ELEMENTO EMPÍRICO. IMPOSSIBILIDADE DE REEXAME DOS FATOS E PROVAS. 2. VÍTIMA MUITO QUERIDA. CIDADE PEQUENA. COMOÇÃO DOS HABITANTES. ELEMENTOS ABSTRATOS. 3. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. A fundamentação declinada pela Corte local para indeferir o pedido de desaforamento encontra-se em consonância com a jurisprudência desta Corte Superior, que é no sentido de que a simples presunção de parcialidade, sem qualquer embasamento empírico, não é suficiente para a adoção da medida excepcional do desaforamento de competência.
+- Para desconstituir as conclusões das instâncias ordinárias a respeito da ausência de comprometimento da imparcialidade dos jurados, seria necessário o revolvimento dos fatos e das provas dos autos, o que, como é de conhecimento, não é cabível na via estreita do mandamus.
+2. Oportuno registrar que os elementos apresentados pelo agravante como indicativos de parcialidade do júri, consistentes no fato de a vítima ser querida na cidade, de se tratar de cidade pequena e de o crime ter gerado comoção entre os habitantes revela situação ordinária e comum na maioria dos municípios com poucos habitantes, sendo, portanto, demasiadamente genérico para autorizar o deslocamento do julgamento.
+3. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 792.237/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/2/2023, DJe de 13/2/2023.)
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. DESAFORAMENTO. SÚMULA N. 7 DESTA CORTE. PRECLUSÃO.
+1. Uma vez determinado o desaforamento em razão das informações prestadas pelo Magistrado que conduzia o feito, o qual relatou dúvida sobre possível parcialidade dos jurados, não há violação ao art. 427 do Código de Processo Penal. Rever os motivos que ensejaram a medida, como pretende a defesa, esbarraria no vedado reexame de provas.
+2. Ademais, cumpre ressaltar, ainda, a preclusão do tema. Isso porque, obviamente tendo sido a medida de desaforamento determinada pelo Tribunal de origem antes do julgamento pelo Tribunal do Júri, deveria a defesa ter se insurgido pelas vias adequadas, logo após tal decisão, o que, ao que parece, não foi feito. Assim, aguardar o julgamento pelo Plenário, para então impugnar a medida que alterou regra de competência relativa, implica reconhecer que a alegação se deu em momento inoportuno.
+3. Agravo regimental desprovido.
+(AgRg no REsp n. 1.534.302/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 19/12/2022, DJe de 21/12/2022.)
+Por tais razões, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
