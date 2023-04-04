@@ -1,0 +1,20 @@
+DECISÃO
+Contra o acórdão proferido pelo Tribunal de Justiça de Mato Grosso do Sul, que denegou a ordem no HC n. 1418495-34.2022.8.12.0000 (fls. 121/128), preservando a prisão preventiva decretada pelo Juízo da 2ª Vara Criminal da comarca de Três Lagoas/MS, pela prática, em tese, do crime de tráfico de drogas (Autos n. 0010400-25.2022.8.12.0800 - fls. 58/65), interpõe recurso ordinário Gabriel da Silva Passaes Lima.
+O acórdão tem esta ementa (fl. 121):
+EMENTA - HABEAS CORPUS - TRÁFICO DE DROGAS - PRISÃO PREVENTIVA - PRESENÇA DOS PRESSUPOSTOS - GARANTIA DA ORDEM PÚBLICA E APLICAÇÃO DA LEI PENAL - CONDIÇÕES SUBJETIVAS FAVORÁVEIS QUE NÃO ASSEGURAM POR SI SÓS O DIREITO À REVOGAÇÃO DA SEGREGAÇÃO CAUTELAR - INEXISTÊNCIA DE OFENSA AO PRINCÍPIO DA PROPORCIONALIDADE - ORDEM DENEGADA.
+I - Para a conclusão ou manutenção da prisão preventiva mister se faz a presença do fumus comissi delicti e periculum libertatis. Se a segregação cautelar encontra respaldo na necessidade de garantia da ordem pública e de assegurar a aplicação da lei penal, notadamente à luz da gravidade concreta da conduta em tese cometida - paciente detinha em seu poder quantidade e variedade significativa de entorpecente, inclusive crack e cocaína, drogas com altíssimo potencial lesivo à saúde dos usuários, além do envolvimento de menores, não há que se falar, ao menos por ora, em revogação da medida.
+II - Condições subjetivas favoráveis ao paciente não impedem o decreto de prisão cautelar caso preenchidos outros requisitos de ordem objetiva e subjetiva, autorizadores da medida. Insuficientes, ao menos por ora, as medidas alternativas à segregação.
+III - Insubsistente a tese de ofensa ao princípio da proporcionalidade, eis que a gravidade concreta da conduta reforça a necessidade e a proporcionalidade da medida constritiva como forma de proteção da ordem pública contra a probabilidade de nova incursão delitiva que, sobretudo no tráfico de drogas, é fator de grande desestabilização da paz social.
+IV - Com o parecer, ordem denegada.
+Neste Tribunal Superior, o recorrente alega, em suma, que: (i) o decreto de prisão preventiva se encontra desprovido de fundamentação válida quanto à presença dos requisitos autorizadores da constrição (fl. 142); (ii) ostenta condições pessoais favoráveis, visto que é primário, tem apenas 18 (dezoito) anos de idade e possui domicílio e emprego certo na cidade de Três Lagoas - MS (fls. 143/144); e (iii) a soma de drogas apreendidas nos autos é inferior a 30 gramas, não sendo uma quantidade tão exorbitante que, por si só, justifica medida tão excepcional e gravosa como a prisão preventiva (fl. 145).
+Requer, liminarmente e no mérito, a revogação da prisão preventiva ou a sua substituição por medidas cautelares diversas (art. 319 do Código de Processo Penal).
+Contrarrazões às fls. 155/167.
+Liminar deferida (fls. 172/174).
+Prestadas as informações (fls. 179 e 182/183), o Ministério Público Federal opinou pela concessão da ordem, para que a prisão preventiva seja substituída por medidas cautelares diversas, previstas no art. 319 do Código de Processo Penal (fls. 206/209).
+É o relatório.
+As informações prestadas pelo Juízo de Direito da 2ª Vara Criminal da comarca de Três Lagoas/MS dão conta de que, após oferecimento da denúncia e regular instrução do feito, em 06.12.22 foi realizada audiência de instrução e julgamento e proferida sentença de desclassificação para o crime previsto no art. 28 da Lei 11.343/06, com a consequente revogação da prisão preventiva (fl. 179 - grifo nosso), fato que esgota a pretensão contida na presente interposição recursal, dada a alteração fática da situação do recorrente.
+Em consequência, julgo prejudicado o presente recurso (art. 34, XI, do RISTJ). Por óbvio, fica sem efeito a liminar anteriormente deferida.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. CRIME DE TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. SUPERVENIENTE SENTENÇA. DESCLASSIFICAÇÃO PARA O CRIME PREVIST O NO ART. 28 DA LEI N. 11.343/2006. REVOGAÇÃO DA CUSTÓDIA CAUTELAR. RELEVANTE ALTERAÇÃO DO PANORAMA FÁTICO-PROCESSUAL. PERDA DE OBJETO.
+Recurso prejudicado.
