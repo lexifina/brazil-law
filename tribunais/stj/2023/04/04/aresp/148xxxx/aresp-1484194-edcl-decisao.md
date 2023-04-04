@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra a decisão em que conheci do agravo e dei provimento ao recurso especial.
+Em seu recurso, a parte embargante argumentou a existência de obscuridade, tanto com relação à não existência de notificação de entrega de chaves do imóvel quanto à suposta coisa julgada do termo final dos lucros cessantes.
+A parte embargada, regularmente intimada, pugnou pela rejeição do recurso (fls. 651/655, e-STJ).
+Assim posta a questão, destaco que não se verifica a obscuridade apontada. A decisão recorrida deve ser mantida pelos seus próprios fundamentos. Estão ausentes os pressupostos que dariam ensejo à oposição dos embargos de declaração.
+O entendimento do Tribunal de origem está em consonância com a jurisprudência essa Corte. A partir dos elementos da causa, é possível a adequação do termo final dos lucros cessantes. Não existe ofensa à coisa julgada e não há, muito menos, preclusão da matéria (AgInt no AREsp n. 1.009.164/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 11/2/2020, DJe de 3/3/2020). A entrega das chaves tornou-se obrigação impossível. Rejeitar a alteração do termo final da condenação em lucros cessantes eternizaria a obrigação.
+Quanto à notificação para a entrega das chaves, conforme constou na decisão embargada: "O recorrente, por meio de notificação de fls. 354/358, e-STJ, informou a disponibilidade do imóvel. Diante dos valores em aberto, os recorridos foram constituídos em mora e cientificados de que, na hipótese do não pagamento dos valores em atraso, o imóvel seria submetido a leilão extrajudicial. Diante da inércia dos recorridos, foi realizado o leilão extrajudicial, seguido do exercício do direito de preferência e da adjudicação do bem ".
+Com efeito, o julgado embargado é claro em suas premissas e objetivo em suas conclusões. Não existe vício a ser sanado. Se a solução prestigiada não corresponde à desejada pelo embargante, não significa que a decisão esteja eivada de vícios, conforme pretendido.
+Verifico, assim, que o embargante pretende, sob o pretexto de existência de obscuridade, novo julgamento da causa. Os embargos de declaração não se prestam ao rejulgamento ou, simplesmente, ao prequestionamento de normas jurídicas ou temas que, segundo a ótica da parte, deveriam guiar ou conduzir a solução do litígio. Servem para suprimento de omissões e de contradições do julgado:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DANOS MORAIS E MATERIAIS. INDENIZAÇÃO. PRESTAÇÃO DE SERVIÇOS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ART. 535 DO CPC. NÃO OCORRÊNCIA. REEXAME DE PROVAS. INVIABILIDADE. SÚMULA Nº 7/STJ.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. A reforma do julgado demandaria o reexame do contexto fático-probatório, procedimento vedado na estreita via do recurso especial, a teor da Súmula nº 7/STJ.
+3. Agravo regimental não provido.
+(AgRg no AREsp 670.511/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 23/2/2016, DJe 1/3/2016)
+Em face do exposto, rejeito os embargos.
+Intimem-se.
