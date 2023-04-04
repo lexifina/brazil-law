@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de recurso especial interposto por ANDERSON JUNIOR TURMINA e OUTROS, com fundamento nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do TRF4.
+Recurso especial interposto em: 4/12/2015.
+Concluso ao gabinete em: 30/3/2023.
+Ação: de responsabilidade obrigacional securitária, ajuizada pelos recorrentes face da SUL AMÉRICA COMPANHIA NACIONAL DE SEGUROS, em decorrência de vícios de construção em imóveis adquiridos pelo Sistema Financeira de Habitação (SFH).
+Decisão interlocutória: firmou a competência da Justiça Federal para o julgamento da ação.
+Acórdão: negou provimento ao agravo de instrumento interposto pelos recorrentes, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO. SISTEMA FINANCEIRO DA HABITAÇÃO. COBERTURA SECURITÁRIA. APÓLICE PÚBLICA RAMO 66. COMPETÊNCIA.
+1. É da Justiça Federal a competência para julgamento dos feitos que versem sobre cobertura securitária no âmbito do SFH (apólices públicas - ramo 66, com comprometimento do FCVS). Em tal conformação, o comprometimento do FESA/FCVS é imanente.
+2. A CEF como representante do FCVS, nos feitos em que se discute cobertura securitária no âmbito do SFH, de apólice pública, com cobertura do FCVS, "ramo66", independentemente de quando tenha sido proposta a demanda, tem interesse jurídico nas ações judiciais que representem risco ou impacto jurídico ou econômico ao FCVS ou às suas subcontas.
+Recurso especial: aponta violação ao art. 50 do CPC/73, além de divergência jurisprudencial.
+Sustenta, em síntese, a incompetência da Justiça Federal, ante a ilegitimidade passiva da CEF.
+RELATADO O PROCESSO, DECIDE-SE.
+- Do interesse jurídico da CEF e da competência da Justiça Federal
+O Supremo Tribunal Federal, no julgamento do RE 827.996, na sistemática da repercussão geral, firmou a orientação de que, a partir da vigência da MP 513/2010 (que originou a Lei 12.409/2011), a Caixa Econômica Federal passou a ser administradora do FCVS, de maneira que compete à Justiça Federal a competência para o processamento e julgamento das causas em que se discute contrato de seguro vinculado à apólice pública, na qual a CEF atue em defesa do FCVS, devendo haver o deslocamento do processo para aquele ramo judiciário a partir do momento em que a referida empresa pública federal ou a União, de forma espontânea ou provocada, indique o interesse em intervir na causa.
+Foram fixadas, a propósito, as seguintes teses:
+"1) Considerando que, a partir da MP 513/2010 (que originou a Lei 12.409/2011 e suas alterações posteriores, MP 633/2013 e Lei 13.000/2014), a CEF passou a ser administradora do FCVS, é aplicável o art. 1º da MP 513/2010 aos processos em trâmite na data de sua entrada em vigor (26.11.2010):
+1.1.) sem sentença de mérito (na fase de conhecimento), devendo os autos ser remetidos à Justiça Federal para análise do preenchimento dos requisitos legais acerca do interesse da CEF ou da União, caso haja provocação nesse sentido de quaisquer das partes ou intervenientes e respeitado o § 4º do art. 1º-A da Lei 12.409/2011; e
+1.2) com sentença de mérito (na fase de conhecimento), podendo a União e/ou a CEF intervir na causa na defesa do FCVS, de forma espontânea ou provocada, no estágio em que se encontre, em qualquer tempo e grau de jurisdição, nos termos do parágrafo único do art. 5º da Lei 9.469/1997, devendo o feito continuar tramitando na Justiça Comum Estadual até o exaurimento do cumprimento de sentença; e
+2) Após 26.11.2010, é da Justiça Federal a competência para o processamento e julgamento das causas em que se discute contrato de seguro vinculado à apólice pública, na qual a CEF atue em defesa do FCVS, devendo haver o deslocamento do feito para aquele ramo judiciário a partir do momento em que a referida empresa pública federal ou a União, de forma espontânea ou provocada, indique o interesse em intervir na causa, observado o § 4º do art. 64 do CPC e/ou o § 4º do art. 1º-A da Lei 12.409/2011." (Tema 1011/STF)
+Em outras palavras, havendo a manifestação de interesse pela CEF na ação em curso, e não tendo sido prolatada a respectiva sentença (na fase de conhecimento) até 26/11/2010, deve haver o deslocamento do processamento do feito para a Justiça Federal. Na hipótese de já existir sentença proferida até 26/11/2010, entretanto, os autos devem permanecer na Justiça Comum, mesmo que haja a intervenção da CEF. Já as causas ajuizadas após 26/11/2010 devem sempre ser deslocadas para a Justiça Federal, a partir do momento em que a CEF intervir na causa em defesa do FCVS.
+Na presente hipótese, a ação foi ajuizada em 4/9/2009 (e-STJ fl. 49), antes, portanto, da entrada em vigor da Medida Provisória nº 513/2010. Ademais, verifica-se que não foi prolatada sentença e que, conforme consta do acórdão recorrido, a CEF se manifestou nos autos, pelo interesse na sua intervenção (e-STJ fl. 1666).
+Logo, ao manter a decisão que fixou a competência da Justiça Federal para o julgamento da ação, o Tribunal de origem decidiu em consonância com o Tema 1011/STF, não merecendo reforma, portanto, o acórdão recorrido.
+Forte nessas razões, com fundamento no art. 932, IV, "b", do CPC/15, CONHEÇO do recurso especial e NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados na instância de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+DIREITO PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE RESPONSABILIDADE OBRIGACIONAL SECURITÁRIA. SISTEMA FINANCEIRO DE HABITAÇÃO. INTERVENÇÃO DA CEF. DEMANDA AJUIZADA ANTES DA ENTRADA EM VIGOR DA MP 513/2010 (26.11.2010). COMPETÊNCIA. JUSTIÇA FEDERAL. RE 827.996. INCIDÊNCIA.
+1. Ação de responsabilidade obrigacional securitária, em decorrência de vícios de construção em imóveis adquiridos pelo Sistema Financeira de Habitação (SFH).
+2. Consoante o entendimento adotado pelo Supremo Tribunal Federal, no RE 827.996, deve haver o deslocamento para a Justiça Federal das demandas ajuizadas antes da entrada em vigor da MP 513/2010 (26/11/2010), se não tiver sido proferida sentença até 26/11/2010, desde que haja pedido espontâneo ou provocado de participação da CEF, no último caso, após manifestação de seu interesse.
+3. Recurso especial conhecido e não provido.
