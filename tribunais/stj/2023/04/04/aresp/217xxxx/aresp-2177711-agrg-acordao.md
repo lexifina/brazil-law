@@ -1,0 +1,6 @@
+EMENTA
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, acolher a QUESTÃO DE ORDEM suscitada pelo Sr. Ministro Relator e anular o julgamento realizado na sessão de 22/11/2022 e, nesta assentada, afetar o julgamento do feito à Primeira Seção.
+QUESTÃO DE ORDEM
+Trago ao Colegiado questão de ordem para anular o julgamento do agravo regimental de fls. 1154-1167, proferido pelo então Ministro Relator Jesuíno Rissato em sessão presencial de 21/11/2022, em virtude do equívoco na distribuição dos autos e posterior julgamento por esta Colenda Turma, pois o agravo em recurso especial foi interposto em face decisão do Tribunal a quo que manteve a decisão do Conselho de Justificação declarando o recorrente indigno do oficialato com a consequente perda do posto e da patente de Capitão QOPM/CE, portanto,  trata  de  penalidade aplicada em procedimento administrativo disciplinar relativa  às  matérias  de  Direito  P úblico  (art.  9º,  §1º,  XI,  do  RISTJ), bem como declinar a competência Primeira Seção desta Corte,  nos  termos  do  art.  9º,  §1º,  XI,  do  Regimento  Interno  desta  Corte.
+É o voto.
