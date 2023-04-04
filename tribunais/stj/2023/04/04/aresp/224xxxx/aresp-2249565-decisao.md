@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo interposto por SBA-PECAS ACABADAS DE ALUMINIO LTDA EM RECUPERACAO JUDICIAL e outros em face de decisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, contra v. acórdão do Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"Execução - Empresa executada em recuperação judicial - Crédito não submetido à recuperação - Penhora "on line" - Possibilidade - Questões já decididas em anteriores agravos de instrumento - Impossibilidade de levantamento de valores pelos devedores - Recurso provido." (fl. 150).
+Os embargos de declaração foram rejeitados (fls. 164-168).
+Nas razões do recurso especial, a parte ora agravante aponta violação dos arts. 502, 507 e 919, § 1º, do Código de Processo Civil de 2015, bem como divergência jurisprudencial, sustentando, em síntese, (a) a incompetência absoluta do Juízo Cível para decidir sobre constrição de ativos da empresa em recuperação judicial e prosseguimento da execução; e (b) a violação à coisa julgada, pois foram suspensos os atos excecutivos exclusivamente com relação a empresa SBA, enquanto pendente os embargos à execução, sendo que à época a parte adversa não entrou com o recurso cabível.
+Apresentadas contrarrazões ao apelo nobre (fls. 196-203).
+O Ministério Público Federal opina pelo não provimento do recurso (fls. 250-254).
+É o relatório.
+Inicialmente, a parte recorrente sustentou a incompetência absoluta do Juízo Cível para decidir sobre constrição de ativos da empresa em recuperação judicial e prosseguimento da execução. Entretanto, não apontou os dispositivos de Lei Federal tidos por violados, tampouco desenvolveu argumentação que evidenciasse a ofensa, tornando patente a falha de fundamentação do apelo especial, circunstância que atrai a incidência da Súmula 284/STF.
+Lado outro, quanto à alegada violação dos arts. 502, 507 e 919, § 1º, do CPC/15, sobre a violação à coisa julgada, uma vez que teriam sido suspensos os atos executivos em relação à SBA, enquanto pendente o julgamento dos embargos à execução; verifica-se que o conteúdo normativo dos dispositivos invocados no apelo nobre não foi apreciado pelo Tribunal a quo, ainda que a parte ora agravante tenha oposto embargos de declaração a fim de sanar eventual irregularidade. Dessa forma, à falta do indispensável prequestionamento, incide, na espécie, a Súmula 211 do Superior Tribunal de Justiça.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
