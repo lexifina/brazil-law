@@ -1,0 +1,11 @@
+DECISÃO
+JEAN CARLOS PEREIRA ajuíza reclamação, na qual alega, em síntese, que houve o descumprimento, pelo Magistrado de primeiro grau, de decisão proferida por esta Corte, no HC n. 764.035/SP, que determinou a detração do período em que foi imposta medida cautelar de recolhimento noturno no processo que resultou na sua condenação por furto qualificado.
+Prestadas as informações, foi indeferida a liminar e encaminhados os autos ao Ministério Público Federal, às fls. 11-113, que se manifestou pelo não conhecimento da reclamação. O Ministério Público do Estado de São Paulo, em contestação, às fls. 115-121, defendeu o seu não provimento.
+Decido.
+Tal como ficou consignado na decisão que indeferiu a liminar, as informações prestadas pelo Juízo das Execuções Penais, noticiam que "não foi constatada a decretação de medida cautelar de recolhimento noturno no processo de conhecimento" (fl. 35, destaquei).
+Tal situação, inclusive, foi realçada pelo Ministério Público do Estado de São Paulo, em contestação, nestes termos (fl. 119): "a detração pretendida não se mostrou possível, pela simples razão de que não houve, durante o processo, a aplicação da medida cautelar de recolhimento domiciliar noturno".
+Ora, mesmo com a intimação do reclamante para que esclarecesse se, de fato, houve a imposição dessa medida cautelar diversa da prisão, durante o processo de conhecimento, isso não ocorreu, visto que os documentos juntados não lograram comprovar tal situação.
+Logo, não há como cumprir decisão que, no campo da realidade das eventuais medidas impostas, não houve o estabelecimento do recolhimento noturno obrigatório. Vale dizer, é inadmissível a reclamação em que se pleiteia a detração de período de recolhimento noturno quando nem sequer houve a aplicação dessa medida no processo de conhecimento.
+Nesse sentido: "Não existindo descumprimento de decisão judicial emanada desta Corte identificável em um juízo perfunctório, a reclamação não preenche todos os requisitos processuais necessários para o seu conhecimento, carecendo de interesse processual, na modalidade "adequação", o que autoriza a sua extinção sem resolução de mérito" (AgRg na Rcl n. 44.399/SP, Rel. Ministro Reynaldo Soares da Fonseca DJe 16/12/2022).
+À vista do exposto, com fundamento no art. 34, XVIII, "a", do RISTJ, não conheço desta reclamação.
+Publique-se e intimem-se.
