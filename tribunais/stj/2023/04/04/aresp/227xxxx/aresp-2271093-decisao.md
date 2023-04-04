@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial interposto por EDICELIO INACIO DE SOUSA contra acórdão proferido pelo Tribunal de Justiça do Estado do Tocantins, conforme a seguinte ementa:
+AGRAVO INTERNO. DECISÃO MONOCRÁTICA QUE NÃO RECEBEU O RECURSO COMO REEXAME NECESSÁRIO. RECURSO CONHECIDO E IMPROVIDO. DECISÃO MANTIDA.
+1. Nos termos do art. 1.021, § 2º, do CPC, o agravo interno será submetido ao relator, prolator da decisão, que poderá se retratar, reconsiderando sua posição, ou submeter o recurso ao julgamento do órgão colegiado competente.
+2. Conforme bem explicitado pela Desembargadora relatora na decisão do evento 38, não cabe emenda à apelação nem a apreciação de reexame necessário de sentença prolatada em outros feitos, além do que a sentença recorrida não foi contrária aos interesses do Estado do Tocantins, não sendo o feito sujeito a reexame necessário.
+3. Recurso conhecido e improvido. Decisão mantida.
+APELAÇÃO. REINTEGRAÇÃO DE POSSE. IMPOSSIBILIDADE. IMÓVEL QUE INTEGRA OS BENS PÚBLICOS PERTENCENTES AO ESTADO. RECURSO CONHECIDO E IMPROVIDO. SENTENÇA MANTIDA.
+4. Verifica-se nos autos que o imóvel objeto da lide integra os bens públicos pertencentes ao Estado do Tocantins. Sendo assim, a decisão do Juízo "a quo" mostra-se em perfeita sintonia com o entendimento dos Tribunais, no sentido de que a ocupação de área pública, quando irregular, não pode ser reconhecida como posse, mas como mera detenção.
+5. Recurso conhecido e improvido. Sentença mantida.
+Os embargos de declaração foram acolhidos, nos termos da ementa a seguir:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO. VÍCIO ALEGADO VERIFICADO. JULGAMENTO DE MÉRITO DA APELAÇÃO CONCOMITANTE AO RECURSO REGIMENTAL. CERCEAMENTO DE DEFESA VERIFICADO. IMPOSSIBILIDADE DE REQUERER SUSTENTAÇÃO ORAL. ACLARATÓRIOS PROVIDOS.
+1. A finalidade dos Embargos de Declaração é a adequação do julgado embargado a fim de suprimir omissões, aclarar contradições e esclarecer obscuridades, conforme disposto no artigo 1.022 e incisos do Código de Processo Civil.
+2. Um vez que o julgamento concomitante de mérito do agravo interno e da apelação ocorreram sob o rito de recurso regimental, impossibilitando à parte o direito de sustentação oral por seu procurador, determinar a anulação do apelo julgado é a media que se impõe.
+3. Embargos de Declaração conhecidos e providos.
+No recurso especial, os recorrentes apontam violação do art. e 1.022 do CPC/2015, sustentando a ocorrência de omissão do acórdão recorrido quanto à suposta decadência do decreto expropriatório, o que afastaria a possibilidade de reintegração de posse do imóvel objeto da lide.
+Alega ofensa ao art. 493 do CPC/2015, sustentando a ocorrência de fato superveniente, qual seja, a caducidade do decreto expropriatório, que teria o efeito de afastar a possibilidade de reintegração de posse do imóvel em discussão.
+Sustenta, por fim, afronta ao art. 1.021, § 2º, do CPC/2015 aduzindo a falta de observância das regras de competência e prevenção para o julgamento do agravo interno.
+Houve contrarrazões.
+A inadmissão se deu por óbice da Súmula n. 283/STF.
+É o relatório.
+Passo a decidir.
+Conheço do agravo, porquanto infirmados os fundamento da não admissão do recurso especial.
+A pretensão recursal não merece acolhimento.
+No julgamento do agravo interno, o Tribunal de origem tratou da questão relacionada à alegada caducidade de decreto expropriatório, conforme se infere do trecho a seguir (e-STJ, fls. 1.049/1.050):
+Nos termos do art. 1.021, § 2º, do CPC, o agravo interno será submetido ao relator, prolator da decisão, que poderá se retratar, reconsiderando sua posição, ou submeter o recurso ao julgamento do órgão colegiado competente.
+A controvérsia posta à apreciação deste e. Colegiado refere-se à verificação do cabimento ou não da apreciação de reexame necessário de sentença prolatada em outros feitos. Em obediência a esse rito, passa-se a expor, de forma sucinta, as razões pelas quais não é o caso de reconsiderar a decisão recorrida, demonstrando a existência de motivos jurídicos e fáticos que conduzem à manutenção do posicionamento adotado naquela oportunidade.
+A sentença que os agravantes buscam reformar julgou procedente o pedido de reintegração de posse do ente estatal. Os requeridos, ora agravantes, apresentaram um recurso de apelação e solicitaram a apreciação de reexame necessário da sentença prolatada.
+Conforme bem explicitado pela Desembargadora Etelvina na decisão do evento 38, não cabe emenda à apelação nem a apreciação de reexame necessário de sentença prolatada em outros feitos, além do que a sentença recorrida não foi contrária aos interesses do Estado do Tocantins, não sendo o feito sujeito a reexame necessário.
+Portanto, a decisão internamente agravada, constante do evento 46 dos presentes autos, persiste por seus próprios fundamentos e, não havendo fatos novos ou fundamentos jurídicos diversos daqueles já expostos na apelação, não há motivos para reformá-la.
+O recurso é próprio e tempestivo, merecendo ser conhecido. Verifica-se nos autos que o imóvel objeto da lide integra os bens públicos pertencentes ao Estado do Tocantins. Sendo assim, a decisão do Juízo "a quo" mostra-se em perfeita sintonia com o entendimento dos Tribunais, no sentido de que a ocupação de área pública, quando irregular, não pode ser reconhecida como posse, mas como mera detenção.
+No julgamento dos embargos declaratórios, porém, o Tribunal de origem reconheceu a nulidade do julgamento do apelo, em virtude da ausência de oportunização de sustentação oral, determinando nova análise do apelo . Confira-se (1.120/1.121-e):
+Após detida análise do feito, tem-se que razão assiste ao embargante. Veja-se:
+Conforme observa-se no julgamento ocorrido no evento 89, foi pautado o agravo interno entrelaçado no evento 46, assim como, concomitantemente, foi julgado mérito da apelação, o que, em decorrência do julgamento pautado, impossibilitou a defesa da parte embargante em utilizar-se da sustentação oral.
+Assim, aplicar-lhes os efeitos infringentes para anular o julgamento de mérito da apelação, mantendo-se o julgamento de mérito do agravo interno é a medida que se impõe. Na ocasião, decorridos os prazos às intimações deste, os autos devem voltar conclusos para julgamento de mérito da apelação.
+No caso, bem ou mal, certo ou errado, a Corte de origem decidiu a controvérsia de modo integral e suficiente. Com efeito, a questão relacionada à propriedade do imóvel foi discutida no trecho do acórdão que analisou a apelação, posteriormente anulada, em virtude da ofensa ao contraditório e à ampla defesa, pela falta de realização da sustentação oral .
+Em suma, as questões apresentadas pelo recorrentes foram examinadas de modo suficiente e fundamentado, por isso não é caso de acolher as alegações de que houve negativa de prestação jurisdicional ou vício de fundamentação.
+Quanto ao mais, as razões recursais encontram-se dissociadas da fundamentação do acórdão recorrido. O Tribunal de origem tratou das questões referentes à competência interna e afastou o cabimento do reexame necessário sob o argumento de inexistência de ofensa a interesse do recorrido e por não se admitir discussão de sentença proferida em outros feitos.
+Ocorre que a recorrente, por meio de longo arrazoado, limitou-se a afirmar a ocorrência de fato superveniente a surtir efeitos sobre a reintegração de posse, deixando de infirmar a fundamentação do acórdão recorrido.
+Assim, seja pela apresentação de razões dissociadas da fundamentação do acórdão recorrido, seja pela falta de específica impugnação ao referido fundamento, os óbices das Súmulas 284 e 283 do STF não permitem o conhecimento do recurso especial.
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015 c/c o art. 255, § 4º, I e II, do RISTJ, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, percentual esse justificado pelo tempo decorrido entre a interposição do recurso e julgamento e a complexidade da causa, nos termos do art. 85, § 11, do Código de Processo Civil. Os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal devem ser observados, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. BENS PÚBLICOS. REINTEGRAÇÃO DE POSSE. EMBARGOS DE DECLARAÇÃO. OMISSÕES E OBSCURIDADE. INEXISTÊNCIA. RAZÕES RECURSAIS DISSOCIADAS DA FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. FUNDAMENTO INATACADO. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NA EXTENSÃO CONHECIDA, NEGAR-LHE PROVIMENTO.
