@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo nos próprios autos, interposto por SELMA AUGUSTA PEREIRA DOS SANTOS, WANDERSON PEREIRA DOS SANTOS e ALINE PEREIRA DOS SANTOS contra decisão publicada na vigência do CPC/2015, que inadmitiu seu recurso especial em razão do óbice da Súmula n. 7/STJ (e-STJ fls. 649/651).
+O acórdão recorrido encontra-se assim ementado (e-STJ fls. 472/473):
+APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR. RESPONSABILIDADE CIVIL OBJETIVA. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. ASSALTO EM AGÊNCIA BANCÁRIA QUE VITIMOU CLIENTE ATINGIDO POR DISPARO DE ARMA DE FOGO. SENTENÇA DE PROCEDÊNCIA. APELO DA INSTITUIÇÃO FINANCEIRA.
+Trata-se de ação indenizatória em razão da morte de ex-cônjuge e genitor dos apelados em assalto ocorrido no interior de uma agência bancária.
+Pela teoria do risco do empreendimento aquele que se propõe a fornecer bens e serviços tem o dever de responder pelos fatos provenientes da sua atividade, independentemente de culpa, pois, a responsabilidade decorre diretamente do exercício de sua função tópica de produzir, distribuir, comercializar ou executar serviços aos consumidores. Assim há responsabilidade objetiva das instituições financeiras pela ocorrência de roubos no interior de agência bancária, pois esse tipo de evento é previsível e se caracteriza como risco inerente à atividade econômica desenvolvida pelo banco, ao realizar movimentações financeiras de valores em espécie nos seus estabelecimentos bancários.
+Nesse cenário a atuação dos assaltantes que vitimou o cliente, baleado dentro da agência bancária que acabou falecendo logo após, constitui fortuito interno e não afasta o nexo de causalidade nem tampouco o dever do fornecedor de indenizar.
+Configurada, portanto, a falha na prestação do serviço.
+O dano moral se dá in re ipsa, pela simples ocorrência do fato danoso.
+Demandantes que devem ser compensados pelo sofrimento com a morte prematura no evento do genitor e cônjuge.
+Indenização pelo dano moral que deve observar os princípios das proporcionalidade e razoabilidade.
+O montante fixado na sentença de R$200.000,00 (duzentos mil reais) para cada autor se mostra excessivo, devendo ser reduzido para R$ 100.000,00 (cem mil reais) para cada um dos autores. Recurso CONHECIDO e PARCIALMENTE PROVIDO para reduzir o quantum de indenização pelos danos morais para R$100.000,00 (cem mil reais) para cada autor.
+Os embargos de declaração opostos pelo banco recorrido foram rejeitados (e-STJ fls. 497/500).
+Nas razões do recurso especial (e-STJ fls. 516/539), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte recorrente aponta, além de divergência jurisprudencial, violação do art. 944 do CC, já que o valor fixado a título de danos morais para cada um dos recorrentes foi reduzido pelo TJRJ a um patamar que se mostra irrisório diante do evento danoso, devendo ser restabelecido o valor fixado originalmente pela sentença, qual seja, R$ 200.000,00 (duzentos mil reais) para cada um dos recorrentes.
+Sustenta que "os autores, ora recorrentes, são ESPOSA e FILHOS, do Sr. Ubirajara, que veio a falecer na agência bancária da ré, ora recorrida, em assalto que se deu no interior de sua agência, sendo que os meliantes conseguiram passar livremente pelos detectores de metais, e demais empecilhos que a ré alegou ter para travar os aludidos meliantes" (e-STJ fl. 527).
+No agravo (e-STJ fls. 669/694), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada às fls. 772/783 (e-STJ).
+É o relatório.
+Decido.
+O Tribunal de origem, com base no acervo probatório dos autos, entendeu que o valor fixado a título de danos morais deve observar os princípios da razoabilidade e da proporcionalidade (e-STJ fl. 477):
+Não se pretende reparar integralmente a perda de um ente querido, mas, compensar a vítima pela dor a que foi submetida. Considerando as circunstâncias avistadas o valor arbitrado deve ser significativo, por conta da particular gravidade do evento, mas também não pode excessivo a ponto de ensejar o enriquecimento sem causa. Desta forma, o montante indenizatório fixado na sentença se revela excessivo, alcançando a soma de R$600.000,00 (seiscentos mil reais). A indenização por dano moral deve observar os princípios da proporcionalidade e razoabilidade e, por isso, deve ser reduzida para R$ 100.000,00 (cem mil reais) para cada um dos autores, verba compatível com o que é estabelecido na jurisprudência para casos semelhantes.
+Não obstante tenha havido redução do montante outrora fixado, a indenização para cada um dos recorrentes foi arbitrada em R$ 100.000,00 (cem mil reais).
+Na espécie, incide o óbice da Súmula n. 7/STJ, uma vez que, muito embora possa esta Corte atuar na revisão das verbas fixadas a título de danos morais, tal possibilidade restringe-se aos casos em que arbitradas na origem em valores irrisórios ou excessivos, o que não se verifica no caso concreto.
+Nesse sentido: "Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento do óbice da Súmula n. 7 do STJ para possibilitar sua revisão. No caso, a quantia arbitrada na origem é razoável, não ensejando a intervenção desta Corte" (AgInt no AREsp 1.214.839/SC, relator inistro Antonio Carlos Ferreira, Quarta Turma, DJe 8/3/2019).
+E ainda: AgInt no AREsp 1.672.112/ SP, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 27/8/2020.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
