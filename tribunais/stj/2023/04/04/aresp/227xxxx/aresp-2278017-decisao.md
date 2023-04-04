@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial, fundado no art. 105, III, "a", da Constituição Federal, interposto pela SAO FRANCISCO SISTEMAS DE SAUDE SOCIEDADE EMPRESARIA LIMITADA, contra v. acórdão do eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+PLANO DE SAÚ DE- RESCISÃO POR INADIMPLEHNCIA- PRAZO DE 60 DIAS RESPEITADO - NOTIFICAÇÃO ENVIADA EMPÓS DO QUINQUAGÉSIMO DIA - OFENSA AO ART. 13 II DA LEI 9.656 DE 1998 - INVIABILIDADE DO CANCELAMENTO - SENTENÇA REFORMADA - APELO PROVIDO. (fl. 90)
+Nas razões do recurso especial, a agravante aponta ofensa ao art. 13 da Lei 9.656/98, sustentando, em síntese, que o recorrido efetuou o pagamento da mensalidade fora da data acordada, ultrapassando 60 dias de atraso, pelo que o seu plano foi rescindido na forma contratual, além de ter ocorrido a efetiva e comprovada notificação do agravado dentro do prazo legal.
+É o relatório.
+Decido.
+Quanto ao tema, a Corte local consignou o seguinte:
+"Tendo em vista o disposto no texto da Lei, são requisitos para o cancelamento do benefício por inadimplemento: a mora superior a sessenta dias e a prévia notificação do consumidor até o quinquagésimo dia de inadimplência. Na mesma esteira, entendimento do Mirífico Superior Tribunal de Justiça, que assim decidiu nos autos do Resp 957.900-SP: "PLANO DE SAU"DE. INADIMPLECNCIA DO SEGURADO SUPERIOR A 60 (SESSENTA) DIAS. NOTIFICAÇÃO PRE VIA. RESCISÃO UNILATERAL. POSSIBILIDADE".
+Na hipótese, ver que a mensalidade não adimplida era, repita-se, referente ao mês de janeiro de 2019, com vencimento em 10 de fevereiro de 2019, nos termos do documento de fls. 62, findando-se o prazo de 60 dias em 10 de abril de 2019 e somente realizado o pagamento em 22 de outubro de 2019.
+Outrossim, a notificação não fôra enviada no prazo anotado na Lei - e consigna-se ser dispensável a intimação pessoal do devedor em casos que tais, presumindo- se da sabença do beneficiário acerca do conteúdo de notificação recebida por preposto ou familiar, como na hipótese.
+Ocorre, que o prazo para o envio da notificação é de cinqüenta dias contados a partir da inadimplência, vendo-se que o documento fôra enviado para o beneficiário somente em 16 de julho de 2019, muito empós de transcorrido o prazo, nem recebimento, impossível de se concluir que fôra oferecido o prazo de dez dias para a quitação, nos termos da Súmula nº 94 desta Relação." (fls. 91-92)
+Da leitura do excerto ora transcrito, verifica-se que o Tribunal de origem concluiu pela ilegalidade da rescisão unilateral do contrato de plano de saúde firmado, porquanto a notificação prévia do segurado ocorreu depois de ultrapassado o prazo legal de cinquenta dias, contados a partir da inadimplência do recorrido. Assim, a revisão dessas premissas exigiria o reexame do acervo fático-probatório dos autos, a justificar a incidência da Súmula 7/STJ.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos à recorrida de 12% para 13% sobre o valor atualizado da causa.
+Publique-se.
