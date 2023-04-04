@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por LENILDO RODRIGUES BISPO contra decisão monocrática proferida pela Desembargadora Relatora do HC n. 8005190-84.2023.8.05.0000, que tramitou perante o Tribunal de Justiça do Estado da Bahia.
+Depreende-se dos autos que o Recorrente foi definitivamente condenado à pena de 14 (catorze) anos de reclusão, em regime fechado, pela suposta prática do crime de homicídio qualificado (art. 121, §2º, incisos II e III, do Código Penal). Transitada em julgado a condenação, foi expedido mandado de prisão para o inicial cumprimento da pena, cumprido em 20/01/2023.
+O habeas corpus impetrado na origem alegou, em síntese, a deficiência da defesa técnica e a nulidade da pronúncia por excesso de linguagem , buscando a anulação de todos os atos realizados posteriormente a sentença de pronúncia, inclusive o veredicto emitido pelo Tribunal do Júri e o acórdão que o ratificou.
+Indeferida a liminar (fls. 111-118), a impetração não foi conhecida, em decisão monocrática, porque voltada contra condenação transitada em julgado, sem possibilidade de concessão de ordem de ofício (fls. 150-161).
+A insurgência, em síntese, repisa os argumentos do writ extinto sem julgamento de mérito. Requer, em liminar, a concessão de liberdade provisória ao Recorrente, ainda que impostas medidas cautelares diversas da prisão. No mérito, busca anular a condenação transitada em julgado, declarando a nulidade da sentença de pronúncia e todos os atos subsequente, bem como a insuficiência da defesa técnica anterior.
+É o relatório. Decido.
+Na origem, por meio de decisão monocrática, o habeas corpus foi extinto sem julgamento de mérito nos seguintes termos (fls. 93-94; sem grifos no original):
+"O presente Habeas Corpus não deve ser conhecido, tendo-se em vista que as pretensões nele veiculadas estão dirigidas à sentença condenatória proferida nos autos da Ação Penal nº 0018607-68.2008.8.05.0001, e ao correspondente acórdão, o qual, conforme se verifica, transitou em julgado em 19.12.2018 (ID 296087851).
+ ..
+Registra-se, por fim, que não se vislumbra, das razões constantes na petição inicial, motivação para saneamento, de ofício, de qualquer constrangimento ilegal.
+Do exposto, com fundamento no art. 259, § 2º, do RITJ/BA, onde se preceitua o indeferimento liminar, pelo Relator, do pedido manifestamente incabível, não se conhece do presente Habeas Corpus, extinguindo-se o processo sem julgamento de mérito."
+Considerando que o habeas corpus foi extinto por decisão unipessoal por membro do Tribunal de Justiça a quo, a competência desta Corte Superior para o processamento e julgamento do tema não foi inaugurada.
+Cuida-se de entendimento firmado pelas duas Turmas que compõem a Terceira Seção desta Corte, como demonstram os seguintes precedentes, a título ilustrativo:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. MANDAMUS CONTRA DECISÃO MONOCRÁTICA DO TRIBUNAL QUE RESTABELECEU PRISÃO PREVENTIVA. NÃO INTERPOSIÇÃO DO RECURSO AO COLEGIADO NA ORIGEM. WRIT INDEFERIDO LIMINARMENTE. AUSÊNCIA DE ILEGALIDADE FLAGRANTE. DECISÃO MANTIDA. AGRAVO REGIMENTAL IMPROVIDO.
+1. A jurisprudência desta Corte é pacífica no sentido de que, não tendo a parte recorrente interposto agravo regimental para esgotamento da instância anterior, com vistas a atender os ditames do art. 105, II, da Constituição Federal, é incabível a impetração do habeas corpus, só se flexibilizando esse entendimento quando constatada ilegalidade flagrante. Precedentes.
+2. Agravo regimental improvido." (AgRg no HC 503.168/DF, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 16/05/2019, DJe 04/06/2019;sem grifos no original.)
+"AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. DECISÃO MONOCRÁTICA QUE INDEFERIU LIMINARMENTE O RECURSO. INTERPOSIÇÃO CONTRA DECISÃO SINGULAR DE DESEMBARGADOR DO TRIBUNAL DE ORIGEM. NÃO ESGOTAMENTO DE INSTÂNCIA. RECURSO MANIFESTAMENTE INCABÍVEL. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. INAPLICABILIDADE. INCOMPETÊNCIA DESTE SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO REGIMENTAL DESPROVIDO.
+1. No presente recurso em habeas corpus se impugna decisão singular do Desembargador Relator do Tribunal de Justiça do Estado do Rio Grande do Sul que negou seguimento ao writ impetrado na origem, por se tratar de mera reiteração. Contra essa decisão seria cabível agravo regimental ao colegiado competente, o qual não foi interposto, o que impossibilita o conhecimento do recurso ordinário.
+2. O princípio da fungibilidade recursal tem aplicação quando se verifica a existência de dúvida objetiva a respeito de qual seria o recurso cabível em determinada hipótese. O equívoco da defesa em interpor o recurso adequado não se enquadra na categoria de dúvida objetiva, o que impossibilita a incidência do referido princípio na espécie.
+3. No caso, deveria ter sido interposto agravo regimental contra a decisão monocrática do relator na origem, a fim de submeter os argumentos defensivos à análise pelo colegiado competente daquela Corte. O recurso ordinário em habeas corpus mostra-se manifestamente incabível, tendo em vista a previsão constitucional de seu cabimento contra decisão denegatória de habeas corpus por Tribunal de Justiça (art. 105, inciso II, alínea "a", da CF), ou seja, contra aquela decisão que adentra o mérito da impetração e esgota seu exame naquela instância, para, assim, inaugurar a competência do Superior Tribunal de Justiça.
+4. Ante o não esgotamento da instância antecedente, por meio da interposição do recurso cabível contra decisão monocrática de Desembargador Relator, não pode o Superior Tribunal de Justiça, subvertendo o sistema de organização judiciária, analisar diretamente questão não apreciadas pela Corte de origem, sob pena de indevida supressão de instância (AgRg no HC n. 325.124/RJ, rel. Min. SEBASTIÃO REIS JÚNIOR, Sexta Turma, j. 9/6/2015, DJe 22/6/2015).
+5. Agravo regimental desprovido." (AgRg no RHC 118.447/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 10/10/2019, DJe 18/10/2019.)
+Cito, ainda, julgados proferidos pelas Primeira e Segunda Turmas do Supremo Tribunal Federal:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. IMPETRAÇÃO CONTRA DECISÃO MONOCRÁTICA DO SUPERIOR TRIBUNAL DE JUSTIÇA. NÃO ESGOTAMENTO DE JURISDIÇÃO. HOMICÍDIO QUALIFICADO. PRISÃO TEMPORÁRIA. SUPRESSÃO INSTÂNCIA.
+1. Há óbice ao conhecimento de habeas corpus impetrado contra decisão monocrática do Superior Tribunal de Justiça, cuja jurisdição não se esgotou. Precedentes.  ..
+3. Agravo regimental conhecido e não provido." (HC 171.614 AgR, Rel. Ministra ROSA WEBER, PRIMEIRA TURMA, DJe 03/09/2019; grifos diversos do original.)
+"AGRAVO REGIMENTAL EM HABEAS CORPUS.
+ ..
+2. Penal e Processual Penal.
+3. Sequestro e cárcere privado, extorsão e corrupção passiva (arts. 148, 158, § 1º, c/c. o art. 29, e art. 317, § 3º e 4º, "a" e "c", da Lei 4.898/1965).
+4. Retirada do monitoramento eletrônico.
+5. Habeas corpus impetrado contra decisão monocrática do STJ. Impossibilidade. Esgotamento das vias recursais. Precedentes.
+6. Agravo regimental a que se nega provimento." (HC 170.091 AgR, Rel. Ministro GILMAR MENDES, SEGUNDA TURMA, DJe 03/09/2019; grifos diversos do original.)
+Outrossim, verifico não se tratar de hipótese excepcional de flagrante ilegalidade, uma vez que a jurisprudência do Superior Tribunal de Justiça não admite a impetração de habeas corpus contra acórdão já transitado em julgado, manejado como substitutivo de revisão criminal.
+Dessa forma, não emerge dos autos, primo ictu oculi, a presença de ilegalidade manifesta a reclamar a concessão de habeas corpus ex officio em superação ao óbice de conhecimento do writ acima consignado.
+No mais, advirta-se à Defesa que o presente juízo não é exauriente. Assim, para a eventual análise da pretensão defensiva, poderá o Recorrente manejar na origem a via de impugnação cabível contra condenações transitadas em julgado, qual seja, a revisão criminal (STF, HC 206.818/SC, Rel. Ministro GILMAR MENDES, julgado em 13/10/2021, DJe 14/10/2021; v.g.).
+Ante o exposto, NÃO CONHEÇO do recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. RECURSO INTERPOSTO CONTRA DECISÃO MONOCRÁTICA. INVIÁVEL A ANÁLISE DA MATÉRIA, EM RAZÃO DO NÃO EXAURIMENTO DAS INSTÂNCIAS ORDINÁRIAS. RECURSO INADMITIDO.
