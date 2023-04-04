@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interno interposto pelo ESTADO DO MARANHÃO para desafiar decisão da Presidência desta Corte de Justiça, proferida às e-STJ fls. 234/235, em que não conheceu do agravo em recurso especial, visto que a parte agravante deixou de impugnar especificamente um dos fundamentos da decisão agravada - deficiência de cotejo analítico.
+Nas suas razões, a parte agravante sustenta que "resta incontroverso que houve refutação dessa base da decisão" (e-STJ fl. 242).
+Requer, ainda, o sobrestamento do feito até o julgamento final do Tema 1033.
+Sem impugnação (e-STJ fl . 247).
+Passo a decidir
+Exerço juízo de retratação.
+Nas razões do recurso especial obstaculizado, a parte recorrente alega que "Junto ao Superior Tribunal de Justiça ESTÁ CONSOLIDADA a tese de que a prescrição para liquidação e/ou execução da sentença coletiva tem início do trânsito em julgado da sentença coletiva" (e-STJ fl. 166), sendo que, "Caso a liquidação ou execução seja feita de forma coletiva, ajuizada pelo Substituto (Sindicato ou Associação - p.ex.), será interrompida a prescrição em favor dos particulares com suas pretensões individuais" (e-STJ fl. 167).
+Observo que esta Corte Superior afetou à sistemática dos recursos repetitivos os Recursos Especiais 1.801.615/SP e 1.774.204/RS - o Tema 1 033 -, cuja questão encontra-se delimitada nos termos da seguinte ementa:
+PROPOSTA DE AFETAÇÃO. RECURSO ESPECIAL. RITO DOS RECURSOS ESPECIAIS REPETITIVOS. DIREITO PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. CADERNETAS DE POUPANÇA. EXPURGOS INFLACIONÁRIOS. SOLUÇÃO CONCENTRADA E VINCULANTE. NECESSIDADE DE FIXAÇÃO DE TESE.
+1. Delimitação da controvérsia, para os efeitos dos arts. 927 e 1.036 do CPC, acerca do seguinte tema: "Interrupção do prazo prescricional para pleitear o cumprimento de sentença coletiva, em virtude do ajuizamento de ação de protesto ou de execução coletiva por legitimado para propor demandas coletivas."
+2. RECURSO ESPECIAL AFETADO AO RITO DO ART. 1.036 DO CPC/2015. (ProAfR no REsp 1774204 / RS, Relator Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, 30/10/2019)
+Nesse caso, encontrando-se o tema afetado à sistemática dos feitos repetitivos, esta Corte orienta que os recursos que tratam da mesma controvérsia devem aguardar o julgamento do paradigma representativo sobrestados no Tribunal de origem, viabilizando, assim, o juízo de conformação, hoje disciplinado pelos arts. 1.039 e 1.040 do CPC/2015.
+Confiram-se as seguintes decisões monocráticas no mesmo viés: AgInt nos EDcl no Ag 1.432.709/ES, rel. Ministro NAPOLEÃO NUNES MAIA FILHO, Primeira Turma, DJe 18/12/2018; REsp 1.770.141/RJ, rel. Ministra REGINA HELENA COSTA, Primeira Turma, DJe 18/10/2018.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado a esta Corte Superior, para que aqui possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Registre-se que essa medida visa evitar também o desmembramento do apelo especial e, em consequência, eventual ofensa ao princípio da unirrecorribilidade ou unicidade recursal.
+Ante o exposto, RECONSIDERO a decisão de e-STJ fls. 234/235 e, DETERMINO a DEVOLUÇÃO dos autos ao Tribunal de origem, com a respectiva baixa, para que lá fiquem sobrestados aguardando o julgamento Recursos Especiais 1.801.615/SP e 1.774.204/RS (Tema 1.033) e, após sua publicação, em observância ao art. 1.040 do CPC/2015: a) negue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pela Suprema Corte; ou b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema posto em repercussão geral.
+Publique-se. Intimem-se.
