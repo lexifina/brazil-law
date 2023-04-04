@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de Pedido de Uniformização de Interpretação de Lei ajuizado por GILSON SILVA OLIVEIRA e MARIA DAS GRAÇAS DOS SANTOS BARBOSA, com fundamento no art. 18, § 3º, da Lei 12.153/2009, contra acórdão de Turma Recursal dos Juizados Especiais da Fazenda Pública do Estado da Bahia proferido com a seguinte ementa:
+RECURSO INOMINADO. DIREITO ADMINISTRATIVO. HOSPITAL PÚBLICO. DESÍDIA. A FALTA DA QUALIDADE DO SERVIÇO PÚBLICO DE SAÚDE ENSEJOU O FALECIMENTO DO FILHO DOS AUTORES. O MÉDICO QUE REALIZOU O ATENDIMENTO INFORMOU A URGÊNCIA NA TRANSFERÊNCIA DO PACIENTE. DESCASO DO ENTE ENSEJOU A MORTE. RESPONSABILIDADE CIVIL DO ESTADO. INCIDÊNCIA DO ARTIGO 37, § 6º, CF. INDENIZAÇÃO POR DANOS MORAIS DEVIDAMENTE QUANTIFICADA. SENTENÇA DE PROCEDÊNCIA PARCIAL MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. RECURSO CONHECIDO E DESPROVIDO.
+Os requerentes alegam haver discrepância entre o posicionamento da Turma Recursal e a orientação manifestada pelo STJ no julgamento do AgInt no REsp 1.559.006/RS de que seria possível a revisão do valor fixado a título de danos morais quando este se revelasse desproporcional ou irrisório.
+Ouvido, opinou o MPF pelo não conhecimento do pedido.
+É o relatório.
+Nos termos do art. 18 da Lei 12.153/2009, "caberá pedido de uniformização de interpretação de lei quando houver divergência entre decisões proferidas por Turmas Recursais sobre questões de direito material". Adiante, no § 3º do mesmo dispositivo, é estabelecida a competência do STJ para examinar pedidos de uniformização sobre controvérsias em que haja dissonância na interpretação da lei federal por Turmas de diferentes estados, ou quando a decisão proferida estiver em contrariedade com súmula desta Corte.
+Na espécie, o pedido de uniformização se ampara em alegação de suposta contrariedade a precedente jurisprudencial do STJ, não especificando eventual dissidência entre Turmas Recursais ou contrariedade com súmula, razão pela qual não se enquadra nas hipóteses de cabimento descritas na Lei 12.153/2009, não merecendo conhecimento.
+Sobre as hipóteses de cabimento do Pedido de Uniformização de Interpretação de Lei com fundamento na Lei 12.153/2009, colhe-se o precedente:
+ADMINISTRATIVO. PEDIDO DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA. ART. 18, § 3º, E 19 DA LEI N. 12.153/09. SERVIDORA PÚBLICO DO ESTADO DO PARANÁ. PRETENSÃO DE COMPLEMENTAÇÃO DE PROVENTOS DE APOSENTADORIA. PARIDADE. EC N. 20/1998. RELAÇÃO DE TRATO SUCESSIVO. PRESCRIÇÃO QUE ATINGE O PRÓPRIO FUNDO DE DIREITO. INOCORRÊNCIA. APLICABILIDADE DA SÚMULA N. 85/STJ. PEDIDO DE UNIFORMIZAÇÃO PROVIDO.
+I - No âmbito do microssistema dos Juizados Especiais da Fazenda Pública, do exame conjunto dos arts. 18, caput, §§ 1º e 3º, e 19, caput, da Lei n. 12.153/2009, verifica-se que o pedido de uniformização de interpretação acerca de questão de direito material concernente a lei federal é admissível quando: (i) houver divergência entre Turmas Recursais de diferentes Estados sobre controvérsia idêntica; e (ii) súmula desta Corte sofrer contrariedade por decisão proferida por Turma Recursal ou pelas Turmas de Uniformização de que trata o § 1º do art. 18 do referido diploma legal.
+(..).
+IV - Pedido de uniformização de interpretação de lei provido.
+(PUIL 1.191/PR, relatora Ministra Regina Helena Costa, Primeira Seção, julgado em 12/6/2019, DJe de 19/6/2019.)
+Ante o exposto, não conheço do presente pedido.
+Fica prejudicada a análise do pedido liminar.
+Publique-se. Intimem-se.
