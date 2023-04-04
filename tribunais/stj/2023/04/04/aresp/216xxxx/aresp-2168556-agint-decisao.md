@@ -1,0 +1,5 @@
+DECISÃO
+Trata-se de agravo interno interposto pela COPEN COMPANHIA DE PETRÓLEO, GÁS E ENERGIA S.A. para desafiar decisão proferida às e-STJ fls. 1.525/1.531, em que conheci do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento, ante a ausência de afronta ao art. 1.022 do CPC e da incidência da Súmula 7 do STJ.
+Após a retirada do feito da pauta virtual para melhor exame acerca do emprego do óbice da Súmula 7 desta Corte ao caso concreto, constato que a singularidade do tema aqui devolvido, ainda não enfrentado pela Primeira Turma desta Corte Superior, recomenda seja o agravo em recurso especial submetido à apreciação daquele Colegiado.
+Assim, EXERÇO o juízo de retratação previsto no art. 1.021, § 2º, do CPC/2015, para RECONSIDERAR a decisão agravada e submeter o agravo a julgamento perante o Colegiado, facultando às partes sustentar oralmente suas razões, em homenagem ao contraditório e à ampla defesa, consoante admite o art. 1.042, § 5º, do CPC/2015.
+Publique-se. Intimem-se .
