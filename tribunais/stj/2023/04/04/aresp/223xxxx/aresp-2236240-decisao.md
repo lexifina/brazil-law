@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por MASA MECANIZACAO AGRICOLA LTDA, contra decisão que negou seguimento a recurso especial fundamentado na alínea "a" do permissivo constitucional.
+Agravo em Recurso Especial interposto em: 14/09/2022.
+Concluso ao gabinete em: 19/12/2022.
+Ação: declaratória de extinção de negócio jurídico, ajuizada por AGCO DO BRASIL MAQUINAS E EQUIPAMENTOS AGRICOLAS LTDA, em face da agravante, em razão da existência de contrato de concessão comercial entre as partes. Aduz que, nos termos da legislação específica, possui o direito de rescindir de forma unilateral o contrato sem justa causa, desde que cumpra com o dever legal de recompra do estoque de produtos, peças e ferramental.
+Decisão interlocutória: considerou preclusas matérias ventiladas na ação autônoma n. 00021 47-51.2021.8.26.0361, ajuizada pela agravante (MASA MECANIZACAO AGRICOLA LTDA) em face da agravada (AGCO DO BRASIL MAQUINAS E EQUIPAMENTOS AGRICOLAS LTDA).
+Acórdão: negou provimento ao agravo de instrumento interposto pela agravante, nos termos da seguinte ementa:
+Agravo de instrumento - Declaratória de extinção de contrato concessão comercial - Irresignação quanto ao reconhecimento de preclusão de alguns dos pedidos - Ausência de impugnação específica pela ré quanto ao valor indenizatório pretendido pela autora neste (sic) demanda - Ajuizamento de outra ação pela ré - Impossibilidade de rediscussão da matéria por via indireta - Decisão mantida - Recurso desprovido. (e-STJ, fl. 2.158)
+Embargos de declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega a violação dos arts. 55, 343, 489 e 1022, todos do CPC/15; 23 e 24, ambos da Lei 6.729/79 (Lei Ferrari). Além da negativa de prestação jurisdicional, sustenta:
+i) a existência de deficiência de fundamentação no bojo do acórdão recorrido; e
+iii) que utilização da reconvenção é uma mera faculdade processual visando dar maior celeridade à resolução dos conflitos, bem como que a não utilização pelo réu da ação reconvencional no momento oportuno, não impede, no entanto, que este ajuíze ação própria para requerer suas pretensões.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC/15
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte. A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente, acerca da preclusão, em razão da ausência de apresentação de impugnação específica - na presente ação - por parte da agravante sobre o valor das indenizações relativas a peças de reposição, peças scrap, tratores e ferramental especial, nos termos da Lei 6.729/79 (Lei Ferrari), de forma a ser incabível a irresignação em ação autônoma posterior (0002147-51.2021.8.26.0361), ajuizada pela própria agravante, referente as indenizações mencionadas, de maneira que os embargos de declaração opostos pela referida parte, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art.1.022 do CPC/2015, incidindo, quanto ao ponto, a Súmula 568/STJ.
+- Da violação do art. 489 do CPC/2015
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/2015, nos termos da Súmula 568/STJ (AgInt no AREsp 1.121.206/RS, 3ª Turma, DJe 01/12/2017; AgInt no AREsp 1.151.690/GO, 4ª Turma, DJe 04/12/2017).
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere à constatação de que em ambas as demandas (a presente ação e a ação autônoma posterior ajuizada pela agravante) o objeto é o valor das indenizações relativas a peças de reposição, peças scrap, tratores e ferramental especial, bem como que "considerando que a agravante deixou de apresentar impugnação específica quanto ao valor de indenização pretendido pela agravada, a matéria está preclusa, sendo incabível a rediscussão da matéria por via transversa com o ajuizamento de nova demanda." (e-STJ, fl. 2.160), exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da fundamentação deficiente
+Os argumentos invocados pela agravante não demonstram como o acórdão recorrido violou os arts. 55 do CPC/15 e 23 e 24, ambos da Lei 6.729/79, pois os dispositivos citados foram mencionados apenas no capítulo referente à negativa de prestação jurisdicional. Aplica-se, nesse sentir, a Súmula 284/STF.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC/15, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados na instância de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação dessas nas penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE EXTINÇÃO DE NEGÓCIO JURÍDICO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC/15. NÃO OCORRÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF.
+1. Ação declaratória de extinção de negócio jurídico.
+2. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/15.
+4. Alterar o decidido no acórdão impugnado, no que se refere à constatação de que em ambas as demandas (a presente ação e a ação autônoma posterior ajuizada pela agravante) o objeto é o valor das indenizações relativas a peças de reposição, peças scrap, tratores e ferramental especial, bem como que "considerando que a agravante deixou de apresentar impugnação específica quanto ao valor de indenização pretendido pela agravada, a matéria está preclusa, sendo incabível a rediscussão da matéria por via transversa com o ajuizamento de nova demanda." (e-STJ, fl. 2.160), exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+5. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+6. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa parte, não provido.
