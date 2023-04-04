@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de Agravo Interno interposto contra a decisão monocrática (fls. 454-459, e-STJ) que deu parcial provimento ao Recurso Especial.
+Na origem, cuida-se de Mandado de Segurança com vistas à concessão de ordem que autorize a parte a não incluir os incentivos/benefícios fiscais referentes ao ICMS (redução da base de cálculo, diferimento e isenção) nas bases de cálculo do IRPJ, CSLL, PIS e COFINS apurados na sistemática do lucro real. A recorrente, ora agravada, alega que os referidos benefícios não constituem renda, receita ou acréscimo patrimonial, independentemente do preenchimento ou satisfação das condicionantes legais advindas com a Lei Complementar 160/2017.
+Verifica-se que o tema discutido nos presentes autos foi afetado ao rito dos Recursos Repetitivos no julgamento dos Recursos Especiais 1.945.110/RS e 1.987.158/SC, com a seguinte controvérsia a ser dirimida: "Definir se é possível excluir os benefícios fiscais relacionados ao ICMS, - tais como redução de base de cálculo, redução de alíquota, isenção, imunidade, diferimento, entre outros - da base de cálculo do IRPJ e da CSLL (extensão do entendimento firmado no ERESP 1.517.492/PR que excluiu o crédito presumido de ICMS das bases de cálculo do IRPJ e da CSLL)".
+Na oportunidade, foi deferida a "suspensão do processamento de todos os processos, individuais ou coletivos, que versem sobre a mesma matéria e tramitem no território nacional, nos termos do art. 1.037, II, do CPC/2015".
+Ante o exposto, de ofício, torno sem efeito a decisão às fls. 454-459, e-STJ, e determino o retorno dos autos ao Tribunal a quo, com a devida baixa, para que, após o julgamento dos Recursos Especiais Repetitivos em questão (REsp 1.945.110/RS e REsp 1.987.158/SC), seja exercido, ou não, o juízo de retratação nos termos do art. 1.040, do CPC/2015.
+Prejudicado o Agravo Interno.
+Publique-se.
+Intimem-se.
