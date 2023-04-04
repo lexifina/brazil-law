@@ -1,0 +1,20 @@
+DECISÃO
+Agrava-se de decisão que inadmitiu o recurso especial interposto por GOURMET EXPERT COMERCIO E SERVICOS DE ASSESSORIA EM ALIMENTOS LTDA - ME, com fundamento no art. 105, inciso III, alínea a, da CF/1988, no qual se insurge contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado:
+Ação Declaratória. Agravo de Instrumento. Pedido de restituição de valores de correção monetária expurgados pelo banco agravado dos planos Cruzado, Verão e Color I e II. Cálculos com que concordaram as partes e depósito de diferença reclamadas. Pretensão a recebimento de mais uma diferença. Inadmissibilidade ante o que informa o Contador e pondera o Magistrado no despacho agravado. Recurso desprovido (fl. 468).
+Os embargos de declaração opostos foram rejeitados (fls. 483/489).
+Nas razões de seu recurso especial, a parte agravante sustenta violação dos arts. 406, do CC/2002, e 161, § 1º, do CTN. Alega que: (a) para o cálculo da correção monetária dos depósitos judiciais aplicam-se os índices divulgados pela Tabela Prática de Atualização de Débitos Judiciais do TJSP, e não os índices de caderneta de poupança; (b) incidem juros moratórios de 1% ao mês; e (c) ao contrário do que constou no acórdão recorrido, não concordou com os cálculos apresentados no período compreendido entre o mês de junho de 2003 até o efetivo pagamento.
+Devidamente intimada, a parte agravada apresentou as contrarrazões (fls. 517/523).
+Sobreveio o juízo de admissibilidade negativo, razão pela qual se interpôs o agravo em recurso especial ora em análise.
+Inicialmente, os autos foram distribuídos ao Ministro Antonio Carlos Ferreira, integrante da Quarta Turma. Em função da natureza litigiosa, houve a redistribuição do feito a um dos Ministros integrantes da Primeira Seção desta Corte Superior.
+É o relatório.
+É importante ressaltar que o presente recurso atrai a incidência do Enunciado Administrativo 3 do STJ, segundo o qual "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Nos exatos termos do acórdão recorrido, o Tribunal de origem assim se manifestou:
+E, em que pese o alegado pelo agravante, o despacho agravado, cuja cópia segue a fls. 436, está correto e deve ser mantido.
+Nele observou o Juiz:
+"Fica acolhido,  n totum o parecer da contadoria de fls. r, 906. Com efeito, uma vez concordando a autora com os cálculos apresentados até 24.06.2005, foi a importância atualizada pelos índices da poupança e com incidência de juros capitalizados de 0,5% ao mês até 24.02.2007, quando foram depositados R$ 2449.137,22.
+Assim, nada mais há reclamar, pelo que julgo extinta a obrigação do Banco do Brasil 5/A nestes autos, que deverão ser arquivados".
+E. conforme apontado pelo Serviço de Contadoria da Fazenda Pública (doc 17  fls. 906, fls. 274 destes autos de agravo), não há erro algum a se corrigir nos cálculos que acabaram contando com a concordância da autora, sendo que a Nossa Caixa, na ocasião, depositou "dentro do prazo requerido (fls. 830 -parágrafo quarto)".
+Não há argumentar com aquisição de natureza judicial pelo crédito em debate para justificar a pretensão de recebimento de ainda mais uma diferença, com elevação de percentual de juros e nova atualização (fls. 470/471).
+O Tribunal de origem reconheceu que a parte ora agravante aquiesceu dos cálculos apresentados pela instituição bancária e, diante do parecer da contadoria judicial, extinguiu o incidente processual. Entendimento diverso, conforme pretendido, implicaria reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca de fatos e provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto. Sendo assim, incide no caso a Súmula 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimações necessárias.
