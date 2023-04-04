@@ -1,0 +1,52 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/2015) interposto por CLELIO AUGUSTO VAZ DE ARAÚJO contra decisão que negou seguimento a recurso especial, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal.
+O apelo extremo, a seu turno, desafia acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fls. 444-445 e-STJ):
+APELAÇÃO CÍVEL. SEGURO PRESTAMISTA. AÇÃO DE COBRANÇA. INVALIDEZ PERMANENTE TOTAL POR ACIDENTE. SENTENÇA REFORMADA.
+- Trata-se de ação de cobrança, na qual o autor objetiva o pagamento de indenização securitária por invalidez permanente em decorrência de acidente.
+- A previsão do "caput" do artigo 757 do Código Civil estabelece que a seguradora obrigar-se-á apenas pelos riscos predeterminados, ou então, riscos assumidos, de sorte que sua interpretação possibilita a eleição de riscos sobre os quais recairá a cobertura securitária, bem como a exclusão daqueles que não pretende garantir.
+- Caso dos autos em que constatada por perícia médica a invalidez parcial do segurado, risco não coberto pela apólice contratada. Decreto de improcedência dos pedidos.
+APELO PROVIDO. UNÂNIME.
+Opostos embargos de declaração (fls. 459-467 e-STJ), esses foram rejeitados (fls. 476-481 e-STJ).
+Em suas razões de recurso especial (fls. 487-505 e-STJ), o recorrente aponta que o acórdão recorrido violou os seguintes dispositivos legais:
+(i) artigos 489, § 1º, inc. IV, e 1.022, inc. II, do Código de Processo Civil de 2015, sob a alegação da existência de omissão e negativa de prestação jurisdicional acerca da matéria suscitada nos embargos de declaração; e
+(ii) artigos 489 do Código de Processo Civil de 2015; e 47 e 54 do Código de Defesa do Consumidor, aduzindo, em suma, que o recorrente, estando invalidado de forma permanente para exercer as suas funções de motorista, tal situação se equipara à invalidez total permanente; e a hipossuficiência do segurado, bem como as leis consumeristas, as quais protegem o direito do recorrente diante de qualquer dúvida/omissão/contradição em relação à interpretação de contratos.
+Sem contrarrazões.
+Em sede de juízo provisório de admissibilidade (fls. 581-588 e-STJ), o Tribunal de origem inadmitiu o recurso especial, sob os seguintes fundamentos: a) inexistência de violação aos arts. 489 e 1.022 do CPC/15; e b) incidência dos óbices das Súmulas 5 e 7 do STJ.
+Daí o agravo (fls. 598-609 e-STJ), buscando destrancar o processamento daquela insurgência, no qual a parte insurgente refuta os óbices aplicados pela Corte estadual.
+Sem contraminuta.
+É o relatório.
+Decide-se.
+O presente recurso não merece prosperar.
+1. Afasta-se, de início, a alegação de negativa de prestação jurisdicional. Não se verifica ofensa aos artigos 489 e 1022 do CPC/15 quando o Tribunal decide, de modo claro e fundamentado, as questões essenciais ao deslinde do feito. Ademais, não se deve confundir decisão contrária aos interesses da parte com negativa de prestação jurisdicional.
+Nesse sentido, citam-se os seguintes precedentes deste Superior Tribunal de Justiça: AgInt no AREsp 1024735/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 07/08/2018, DJe 13/08/2018; AgInt no AREsp 1254843/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/05/2018, DJe 01/06/2018; AgInt no AREsp 1224697/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 15/05/2018, DJe 21/05/2018; AgInt no AREsp 1015125/AC, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 17/04/2018, DJe 24/04/2018; AgInt nos EDcl no REsp 1647017/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 20/03/2018, DJe 02/04/2018.
+Alegou a parte recorrente que o acórdão impugnado restou omisso, pois teria deixado de se manifestar sobre a alegação da ocorrência de "invalidez permanente total por acidente no tocante a função desempenhada pelo autor (caminhoneiro) e sua idade avançada, uma vez que suas lesões já estão consolidadas e, não havendo mais alternativas e/ou recuperação".
+Todavia, conforme trecho a seguir citado, o Tribunal local tratou expressamente de todas as questões essências ao deslinde da controvérsia. Confira-se (fls. 449-450 e-STJ):
+No caso dos autos, realizada perícia médica, o laudo (evento 3 - doc 6 - fls. 9 e ss) concluiu que as lesões verificadas na parte autora estão consolidadas e que, para fins de graduação da doença, o percentual é de 47,5 sobre o capital segurado e incapacita de forma permanente para o trabalho declarado.
+Ou seja, a perícia não constatou a existência de invalidez permanente total, mas verificou a incapacidade para o desempenho da atividade declarada pelo autor.
+Em outras palavras, não se verifica invalidez permanente total (100%), mas parcial (47,5%), o que não autoriza a cobertura, por esse motivo.
+O entendimento do nosso Tribunal é no sentido de que os riscos assumidos pela seguradora são exclusivamente os assinalados na apólice, dentro dos limites por ela fixados, não se admitindo interpretação extensiva: (..).
+Desse modo, não verificada a hipótese de cobertura postulada pela parte autora, vai provido o recurso para que os pedidos sejam julgados improcedentes.
+Como visto, as teses da parte insurgente foram apreciadas pelo Tribunal a quo, que as afastou apontando os fundamentos jurídicos para tal.
+Não há que se falar, portanto, em omissão, sendo certo que os embargos de declaração não se constituem via própria para rejulgamento da causa, não havendo espaço para análise de inconformismo quanto ao entendimento adotado.
+Nesse sentido: REsp 1432879/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 16/10/2018, DJe 19/10/2018; EDcl nos EDcl no REsp 1641575/RJ, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 25/09/2018, DJe 01/10/2018; EDcl no AgInt no REsp 1666792/ES, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 19/04/2018, DJe 22/05/2018; AgInt no AREsp 1179480/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 27/02/2018, DJe 06/03/2018; AgInt no REsp 1598364/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/08/2017, DJe 22/08/2017; EDcl no AgInt no AREsp 471.597/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 06/06/2017, DJe 20/06/2017.
+Afasta-se, portanto, a alegada violação aos artigos 489 e 1.022 do CPC/15.
+2. No mérito, cinge-se a pretensão recursal à verificação acerca do cabimento do pagamento de indenização securitária no caso dos autos.
+Conforme se verifica da fundamentação do acórdão recorrido acima transcrita acima, a controvérsia foi decidida à luz das peculiaridades da demanda. Eventual reforma do acórdão recorrido, sobretudo na parte relativa ao exame do cabimento do pagamento da indenização securitária contratada - demandaria o reexame das provas dos autos, principalmente, das cláusulas do contrato de seguro de vida entabulado entre as partes, juízo obstado pelas Súmulas 5 e 7 do STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DESTA CORTE. SEGURO DE VIDA. PERÍODO DE CARÊNCIA. ACIDENTE PESSOAL. REVISÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem o revolvimento do contexto fático-probatório dos autos e a interpretação de cláusulas contratuais (Súmulas n. 5 e 7 do STJ).
+2. No caso concreto, o Tribunal de origem analisou a prova dos autos, bem como os termos do contrato, para concluir pela inexistência de cláusula de carência na proposta inicial e pelo óbito decorrente de acidente pessoal. Asseverou também que, ainda que fosse possível considerar o falecimento por morte natural, haveria cobertura contratual sem período de carência. Alterar tal conclusão é inviável em recurso especial.
+3. A incidência das Súmulas n. 5 e 7 do STJ obsta o recurso especial também pela alínea "c" do inciso III do art. 105 da Constituição Federal, ficando, portanto, prejudicado o exame da divergência jurisprudencial.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1836938/MG, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 25/10/2021, DJe 28/10/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. SEGURO DE VIDA. CONCLUSÕES DA SEGUNDA INSTÂNCIA FUNDADAS NA APRECIAÇÃO DE FATOS, PROVAS E TERMOS DO CONTRATO DE SEGURO DE VIDA. CARÊNCIA DE PROVA DO DEVER DE INFORMAÇÃO À PARTE SEGURADA ACERCA DAS CONDIÇÕES LIMITATIVAS DA AVENÇA. ART. 46 DO CDC. VALOR DA INDENIZAÇÃO. SÚMULA 7/STJ. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. AGRAVO INTERNO DESPROVIDO.
+1. O acórdão concluiu que a insurgente não teria feito prova de que teria informado à parte segurada as condições limitativas do contrato de seguro de vida, conforme dispõe o art. 46 do CDC. Nesse contexto, estabeleceu-se que a recusa da cobertura se deu com base em cláusula prevista nas condições gerais do contrato, das quais a parte não teve ciência previamente à assinatura da avença, razão por que seria devida a cobertura securitária por invalidez funcional permanente por doença, como descrito nas coberturas contratadas na apólice de seguro. Essas ponderações foram feitas com base em fatos, provas e termos contratuais, atraindo a aplicação das Súmulas 5 e 7/STJ, que incidem sobre ambas as alíneas do permissivo constitucional.
+2. A respeito do valor da indenização securitária, o acórdão, também com suporte probatório, analisou a questão e fixou o montante devido. Aplicação da Súmula 7/STJ.
+3. A fixação dos honorários advocatícios no patamar máximo, 20% (vinte por cento) do valor da condenação, igualmente foi estabelecida com suporte probatório  Súmula 7/STJ.
+4. O teor dos arts. 10, 374, III, e 492 do Código de Processo Civil/2015 não foi objeto de apreciação do acórdão (questão a respeito da vulneração ao princípio da adstrição). Incidência dos óbices das Súmulas 282 e 356/STF.
+5. Agravo interno desprovido.
+(AgInt no AREsp 1853859/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 11/10/2021, DJe 14/10/2021)
+3. Do exposto, com fulcro no artigo 932 do NCPC c/c Súmula 568 do STJ, conhece-se do agravo para não conhecer do recurso especial.
+Por conseguinte, nos termos do art. 85, § 11, do CPC, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC.
+Publique-se.
+Intimem-se.
