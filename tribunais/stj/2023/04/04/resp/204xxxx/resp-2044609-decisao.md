@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de Recurso Especial interposto contra acórdão proferido pelo TRF da 4ª Região, assim ementado: (fl. 648)
+TRIBUTÁRIO. BASE DE CÁLCULO DO IRPJ/CSLL. EXCLUSÃO DE BENEFÍCIOS FISCAIS DE ICMS.
+Não se excluem das bases de cálculo do IRPJ e da CSLL benefícios fiscais diversos do crédito presumido de ICMS.
+É o relatório. Passo a decidir.
+In casu, verifica-se que a questão juríd ica tratada nos autos: Definir se é possível excluir os benefícios fiscais relacionados ao ICMS, - tais como redução de base de cálculo, redução de alíquota, isenção, imunidade, diferimento, entre outros - da base de cálculo do IRPJ e da CSLL (extensão do entendimento firmado no ERESP 1.517.492/PR que excluiu o crédito presumido de ICMS das bases de cálculo do IRPJ e da CSLL), foi submetida ao ao rito do art. 1.036, § 5º, do CPC/2015, nos autos dos Recursos Especiais 1.945.110/RS e 1.987.158/SC (Tema Repetitivo 1182/STJ), com determinação de suspensão do processamento de todos os processos, individuais ou coletivos, que versem sobre a mesma matéria e tramitem no território nacional.
+Desse modo, em observância ao princípio da economia processual, é possível ao relator determinar o retorno dos autos à origem, onde ficarão sobrestados até a publicação do acórdão proferido nos autos do recurso representativo da controvérsia, devendo tais recursos serem apreciados na forma prevista nos arts. 1.039 e 1.040 do CPC/2015.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, com a respectiva baixa nesta Corte, para que, após a publicação do acórdão a ser proferido no recurso representativo da controvérsia, o apelo especial: a) tenha seguimento denegado na hipótese de o acórdão recorrido coincidir com a orientação do STJ; ou b) seja novamente examinado pelo Tribunal de origem, caso o aresto hostilizado divirja do entendimento firmado nesta Corte (arts. 1.039, 1.040, I e II, e 1.041 do CPC/2015).
+Publique-se. Intimem-se.
