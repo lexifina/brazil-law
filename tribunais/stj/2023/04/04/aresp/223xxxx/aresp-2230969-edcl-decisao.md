@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por L RIBEIRO SOCIEDADE DE ADVOGADOS contra a decisão de fls. 249/252 assim ementada:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO RECURSO ESPECIAL. PRAZO. ART. 1.003, § 6º, DO CPC/2015. SUSPENSÃO DE EXPEDIENTE FORENSE NO ESTADO DO PARANÁ. NECESSIDADE DE COMPROVAÇÃO NO ATO DE INTERPOSIÇÃO DO RECURSO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL (fl. 249).
+Sustenta a parte embargante haver omissão na decisão embargada, visto que "a comprovação de feriado local no momento da interposição do recurso restringe-se a situações de Tribunais regionalizados, mas não ao Superior Tribunal de Justiça em relação aos Recursos Especiais, pois estão sob regência de uma só diretriz que corresponde a Lei Federal" (fl. 261).
+Requer o acolhimento dos aclaratórios para que "seja sanado o vício da respeitável decisão, em consonância aos imperativos normativos insertos nos art. 1.022 e seguintes do CPC, concedendo-lhe efeitos infringentes, para restar conhecido o Recurso Especial da Embargante " (fl. 272).
+Não houve impugnação ao recurso (fl. 268).
+É o relatório.
+Sem razão a parte embargante.
+Nos termos do art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na espécie.
+Com relação à alegada tempestividade recursal, não se verifica a suposta omissão apontada pela parte embargante, tendo em vista que a decisão embargada foi clara e explícita sobre a questão, nos seguintes termos:
+8. Verifica-se dos autos que o início do prazo para a interposição do recurso especial deu-se em 28/03/2022, tendo em vista a intimação eletrônica ocorrida em 25/03/2022 (fl. 179), sendo o recurso especial interposto somente em 19/04/2022 (fl. 181).
+9. O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis previsto no art. 1.003, § 5º, do CPC/2015.
+10. Ademais, em função de determinação expressa no atual Código de Processo Civil, a jurisprudência do STJ estabelece que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada no ato da interposição do recurso que se pretende alçar a este Tribunal por documento oficial ou certidão expedida pelo Tribunal de origem.
+(..)
+11. No caso, como não houve comprovação por documento idôneo, no momento da interposição do recurso especial, de que foram suspensos os prazos processuais no Tribunal de origem durante o transcurso do prazo recursal, o recurso especial não merece prosperar (fls. 250/252).
+Assim, evidencia-se não ter ocorrido omissão no julgado a ensejar complementação do que já foi decidido. A parte embargante pretende renovar a discussão sobre questão decidida e fundamentada, o que não é possível por meio dos embargos de declaração.
+O STJ tem entendimento firmado no sentido de que a ocorrência de feriado local, recesso, paralisação ou interrupção de expediente forense deve ser demonstrada no ato de interposição do recurso, por meio de documento oficial ou certidão expedida pelo Tribunal de origem, não bastando a simples menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública. Nesse sentido: AgInt nos EDcl no AREsp 1.553.768/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/4/2020; e AgInt nos EDcl no AREsp 1.379.051/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 3/10/2019.
+Outrossim, registre-se que "o juízo de admissibilidade do recurso especial é bifásico, de modo que qualquer pronunciamento do Tribunal de origem acerca da tempestividade recursal não vincula esta Corte Superior, a quem compete analisar, em definitivo, o preenchimento dos requisitos de admissibilidade do recurso especial". (AgInt nos EDcl no AREsp 1.703.604/DF, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/3/2022.)
+Rever a matéria aqui alegada acarretaria rediscutir entendimento já manifestado e devidamente embasado. Os embargos declaratórios não se prestam à inovação, à rediscussão da matéria tratada nos autos ou à correção de eventual error in judicando.
+Pelas razões expostas, rejeito os embargos de declaração.
+Publique-se. Intimações necessárias.
