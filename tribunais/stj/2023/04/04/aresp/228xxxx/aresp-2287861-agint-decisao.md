@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo interno (e-STJ fls. 563/597) interposto contra decisão da eminente Ministra Presidente desta Corte que não conheceu do agravo em recurso especial.
+Em suas razões, a parte agravante aduz que impugnou todos os fundamentos da decisão de inadmissibilidade do recurso especial, não podendo o agravo ser rejeitado com base na Súmula n. 182/STJ.
+Repisa ainda os argumentos do especial.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+Contrarrazões às fls. 600/621 (e-STJ).
+É o relatório.
+Decido.
+A parte recorrente atacou todos os fundamentos da decisão que não admitiu o recurso especial, não havendo falar em aplicação da Súmula n. 182/STJ.
+Assim, reconsidero a decisão agravada, proferida pela Presidência do STJ, e passo a novo exame do recurso.
+Na origem, o recurso especial foi inadmitido em virtude da incidência da Súmula n. 7 do STJ (e-STJ fls. 491/492).
+O acórdão recorrido está assim ementado (e-STJ fl. 404):
+EMENTA: APELAÇÃO CÍVEL - ACIDENTE DE TRÂNSITO - COLISÃO PELA TRASEIRA - ÔNUS DA PROVA - DANOS MATERIAIS - APURAÇÃO EM LIQUIDAÇÃO DE SENTENÇA - POSSIBILIDADE. 1. A culpa do condutor de veículo que colide na parte traseira de outro é presumida, devendo ser afastada quando comprovado que o acidente se deu por culpa exclusiva da vítima ou de terceiro, caso fortuito ou força maior, hipóteses excludentes da responsabilidade. 2. Evidenciada nos autos a ocorrência do sinistro; a culpa da parte contrária, assim como a impossibilidade de utilização do bem para o desempenho das atividades comerciais, deve a requerente ser indenizada pelos lucros cessantes, o qual será calculado desde a data do sinistro até quando foi efetivamente liberado do conserto. 3. Consoante entendimento jurisprudencial, a referida verba poderá ser arbitrada em liquidação de sentença, diante da necessidade de ser realizada prova acerca do real lucro auferido com a utilização do veículo, considerando o desconto das despesas operacionais.
+No recurso especial (e-STJ fls. 417/445), fundamentado no art. 105, III, "a", da CF, a parte recorrente aduziu ofensa aos arts. 186, 402, 403 e 927 do CC. Sustentou, em síntese, ausência de provas da culpa pelo acidente, do dano material e do direito indenizatório por lucro cessante.
+A insurgência não merece prosperar.
+Em relação a responsabilidade pelo acidente, o Superior Tribunal de Justiça tem entendimento de que presume-se a culpa do condutor que colide na parte traseira do veículo que está imediatamente à sua frente, cabendo a ele a prova de desoneração de sua culpa.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO AGRAVO INTERNO. ERRO MATERIAL. OCORRÊNCIA. AÇÃO REGRESSIVA DE RESSARCIMENTO DE DANOS. ACIDENTE DE TRÂNSITO. COLISÃO TRASEIRA. CULPA PRESUMIDA. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ.EMBARGOS DE DECLARAÇÃO ACOLHIDOS PARA CONHECER DO AGRAVO INTERNO E NEGAR-LHE PROVIMENTO.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022).
+2. No caso, os aclaratórios merecem acolhimento, para sanar erro material, a fim de reconhecer a tempestividade do agravo interno.
+3. Presume-se a culpa do condutor que colide na parte traseira do veículo que está imediatamente à sua frente, cabendo a ele a prova de desoneração de sua culpa. Precedentes.
+4. No caso, o Tribunal de origem concluiu que o motorista réu não conseguiu afastar a presunção de que o acidente ocorreu por sua culpa. A modificação de tal entendimento demandaria o reexame do substrato fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do disposto na Súmula 7 do STJ.
+5. Embargos de declaração acolhidos para conhecer do agravo interno e negar-lhe provimento.
+(EDcl no AgInt no AREsp n. 1.954.548/SP, relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 16/5/2022, DJe de 20/6/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. JUÍZO DE ADMISSIBILIDADE NA ORIGEM. INCURSÃO NO MÉRITO DO RECURSO. POSSIBILIDADE. NÃO OCORRÊNCIA DE USURPAÇÃO DE COMPETÊNCIA. SÚMULA 123/STJ. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OMISSÃO. NÃO OCORRÊNCIA. ACIDENTE DE TRÂNSITO. MOTORISTA QUE COLIDIU NA TRASEIRA DE OUTRO VEÍCULO. PRESUNÇÃO DE CULPA. AFASTAMENTO DESSA PRESUNÇÃO. NECESSIDADE DE PROVA EM CONTRÁRIO. AUSÊNCIA DE COMPROVAÇÃO. REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. CERCEAMENTO DE DEFESA. OCORRÊNCIA DE PRECLUSÃO. FUNDAMENTO SUFICIENTE E AUTÔNOMO DO TRIBUNAL DE ORIGEM NÃO IMPUGNADO. SÚMULA 283/STF. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. A jurisprudência do Superior Tribunal de Justiça já assentou a compreensão de ser possível a incursão no mérito da lide pelo Tribunal local quando necessária à análise dos pressupostos constitucionais de admissibilidade do recurso especial, sem que isso configure usurpação de competência, nos moldes preconizados no enunciado n. 123 da Súmula desta Corte.
+2. Verifica-se que o Tribunal de origem analisou todas as questões relevantes para a solução da lide, de forma fundamentada, não havendo que se falar em negativa de prestação jurisdicional.
+3. Inafastável a incidência da Súmula 7/STJ no caso em análise, porquanto a alteração da cognição do aresto hostilizado demandaria o reexame de fatos e provas, uma vez que está consignado naquele decisum que o autor (Antônio Valença de Santana - Espólio) não se desincumbiu do ônus de comprovar a responsabilidade do José, ora interessado, mas tão somente a do Roberto, ora insurgente.
+4. Considerando que nem todos os fundamentos do acórdão recorrido foram objeto de impugnação específica nas razões do recurso especial, é imperiosa a incidência, à hipótese, do óbice da Súmula n. 283 do Supremo Tribunal Federal.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 885.350/RJ, relator Ministro marco aurélio bellizze, terceira turma, julgado em 23/6/2016, DJe de 1/7/2016.)
+No caso concreto, o Tribunal de origem, levando em consideração os elementos de provas, concluiu pela responsabilidade da ré pelo acidente, culpa que foi confirmada pelo motorista da empresa, pela comprovação do dano material através dos orçamentos apresentados e pela verificação do direito indenizatório a título de lucro cessante, in verbis (e-STJ fls. 408/411):
+A culpa do condutor de veículo que colide na parte traseira de outro é, portanto, presumida, podendo ser afastada apenas quando comprovado que o acidente se deu por culpa exclusiva da vítima ou de terceiro, caso fortuito ou força maior, hipóteses excludentes da responsabilidade.
+Extrai-se, do conjunto probatório dos autos, que o veículo de propriedade. da apelante deu causa ao acidente, pois não manteve a distância, de segurança, necessária a evitar a colisão em comento.
+Acrescenta-se, também, que não prospera a tese de que o acidente ocorreu devido à freada brusca do veículo à frente. Vê-se que próprio motorista da requerida, em seu depoimento prestado perante juízo da 43 Vara Cível da Comarca de Uberaba, informou:
+"que era o motorista condutor do ônibus da empresa ré no dia dos fatos. (..) que o ônibus não perdeu o freio na hora da colisão; que o ônibus trafegava no mesmo sentido, atrás do caminhão da empresa autora, e aconteceu a colisão na parte traseira do caminhão e na parte frontal do ônibus; que a colisão na traseira do caminhão decorreu de uma pequena distração do depoente, porque uma passageira bateu na porta que divide a cabine do motorista do salão onde ficam os passageiros do ônibus" ( .. ).
+(..)
+Todavia, a prova dos autos só ratifica a sua culpa exclusiva pelo acidente, tendo decidido acertadamente o juízo a quo.
+(..)
+Todavia, ao contrário do que tenta fazer crer, a parte autora acostou os três orçamentos às f. 41143, 4416 e 47149, referentes ao veículo Volvo e às f. 65168, os orçamentos referentes ao semirreboque Random.
+Não bastasse, acostou as notas fiscais dos serviços realizados às f. 36139 e f. 61163, restando evidenciados os danos ao veículo 2, que dão direito à respectiva reparação por danos materiais.
+Ressalte-se que tais documentos nem sequer foram impugnados de forma específica pela recorrente.
+Restou comprovado, ainda, que, em razão do acidente narrado na inicial, que se deu por culpa exclusiva da requerida, o veículo da requerente não pôde ser utilizado para prestação de serviços de transporte de cargas entre os dias 01/04/2013 (data do acidente), até o dia 11/06/2013, o que, sem sombra de dúvidas, justifica a procedência do pedido de indenização por lucros cessantes.
+Certo é que a referida verba poderá ser arbitrada em liquidação de sentença, haja vista a necessidade de se realizar prova acerca do real lucro auferido com a utilização do veículo.
+Dissentir dessa conclusão, a fim de acolher os argumentos do especial, esbarra no óbice da Súmula n. 7/STJ.
+Ainda quanto ao lucro cessante, vale ressaltar que "é cabível a remessa da apuração dos lucros cessantes para a fase de liquidação, que se desenvolve mediante atividade cognitiva complementar à cognição exercida na fase de conhecimento, quando então serão examinadas as provas e mensurado o valor da indenização, o que não importa dizer que o acórdão foi condicional, mas apenas que, verificando a existência dos danos materiais e condenando a recorrente ao pagamento de indenização, determinou a sua aferição na fase liquidatória" (AgInt no REsp n. 1.978.895/CE, relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 13/6/2022, DJe de 17/6/2022).
+Ante o exposto, reconsidero a decisão da Presidência desta Corte (e-STJ fls. 558/560 ) para CONHECER do agravo nos próprios autos e NEGAR-LHE PROVIMENTO.
+Mantida a majoração dos honorários aplicada pela decisão agravada.
+Publique-se e intimem-se.
