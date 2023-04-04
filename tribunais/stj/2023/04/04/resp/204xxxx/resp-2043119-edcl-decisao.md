@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de Embargos de Declaração, opostos por GENIVAL LUIZ DA SILVA, contra decisão de minha lavra, publicada em 15/02/2023, em que conheci parcialmente do Recurso Especial para, nesta parte, dar-lhe provimento.
+Inconformada, sustenta a parte embargante que:
+"A fim de evitar futuros questionamentos da União em fase de cumprimento de sentença, impende que conste de forma expressa na r. decisão o reestabelecimento do valor indenizatório fixado pela r. sentença, no montante de R$ 25.000,00, com correção monetária desde a fixação e juros de mora desde o evento danoso, nos termos da Súmula 54 e 362 do Egr. STJ" (fl. 788e).
+Por fim, requer o acolhimento dos Embargos Declaratórios.
+Nas razões de impugnação, a parte embargada pugna pelo não conhecimento dos Embargos Declaratórios (fls. 793/796e).
+A irresignação não merece acolhida.
+Nos termos do art. 1.022 do CPC vigente, os Embargos de Declaração são cabíveis para "esclarecer obscuridade ou eliminar contradição", "suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento" e "corrigir erro material".
+Infere-se, portanto, que, não obstante a orientação acerca da natureza recursal dos Declaratórios, singularmente, não se prestam ao rejulgamento da lide, mediante o reexame de matéria já decidida, mas apenas à elucidação ou ao aperfeiçoamento do decisum, em casos, justamente, nos quais eivado de obscuridade, contradição, omissão ou erro material. Não têm, pois, de regra, caráter substitutivo ou modificativo, mas aclaratório ou integrativo.
+Quanto ao cerne do inconformismo recursal, ao contrário do que pretende fazer crer a parte embargante, a decisão está, de fato, suficientemente fundamentada, no sentido que: reforma-se o acórdão recorrido, para que de adeque a jurisprudência do STJ, no sentido de que "indenização é reparação a prejuízos suportados ao passo em que remuneração é a contrapartida de um trabalho realizado, não sendo possível considerar a reintegração como uma indenização. Assim, os fundamentos da reintegração e do pagamento são distintos, tanto no mundo dos fatos quanto no mundo do direito" (STJ, MS 19.0 55/DF, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA SEÇÃO, DJe de 17/05/2018); b) não merece conhecimento a tese recursal da retroatividade das prestações mensais, por aplicação da Súmula 211/STJ.
+Deve-se ressaltar que, à luz do CPC vigente, os Embargos de Declaração não constituem veículo próprio para o exame das razões atinentes ao inconformismo da parte, tampouco meio de revisão, rediscussão e reforma de matéria já decidida.
+Nesse sentido:
+"ADMINISTRATIVO. PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CPC/2015. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE. FUNDAMENTAÇÃO DEFICIENTE DO AGRAVO INTERNO. INAPLICABILIDADE DO ART. 932, PARÁGRAFO ÚNICO, DO CPC.
+1. De acordo com o previsto no artigo 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão do acórdão atacado, ou para corrigir-lhe erro material. Não se verifica, no caso concreto, a existência de quaisquer das deficiências em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+2. Com efeito, decidiu-se que o agravo interno não tinha condições de conhecimento, porquanto a parte agravante deixou de refutar todos os fundamentos da decisão agravada, o que fez atrair o óbice da Súmula 182/STJ.
+3. Não podem ser acolhidos embargos declaratórios que, a pretexto dos alegados vícios do acórdão embargado, traduzem, na verdade, seu inconformismo com a decisão tomada, pretendendo rediscutir o que já foi decidido.
+4. Em razão de sua natureza substancial, a falta de impugnação integral dos fundamentos da decisão recorrida não admite posterior saneamento, a ela não se aplicando o disposto no parágrafo único do artigo 932 do CPC.
+5. Embargos de declaração rejeitados" (STJ, EDcl no AgInt no AREsp 1.544.182/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 02/04/2020).
+Ante o exposto, à míngua de vícios, rejeito os Embargos Declaratórios.
+I.
