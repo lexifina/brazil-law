@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de JOÃO ADILSON DE SOUZA MENEZES no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA.
+Consta dos autos que o paciente foi preso pela suposta prática dos crimes tipificados "nos arts. 121, § 2º, incisos I e IV, 311, caput, ambos c/c artigo 29, caput, todos do Código Penal" (e-STJ fl. 15).
+Irresignada, a defesa impetrou habeas corpus no Tribunal de Justiça, que concedeu parcialmente a ordem, nos termos da seguinte ementa (e-STJ fls. 13/14):
+"HABEAS CORPUS". PACIENTE DENUNCIADO PELA PRÁTICA, EM TESE, DOS CRIMES DE HOMICÍDIO QUALIFICADO E ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR (ART. 121, §2º, INCISOS I E IV; E ART. 311, "CAPUT", AMBOS DO CÓDIGO PENAL). CONVERSÃO DA PRISÃO TEMPORÁRIA EM PREVENTIVA. PREENCHIMENTO DOS PRESSUPOSTOS E REQUISITOS DO ART. 312 DO CÓDIGO DE PROCESSO PENAL. INDÍCIOS SUFICIENTES PARA SUSTENTAR AS IMPUTAÇÕES FEITAS AO PACIENTE. NECESSIDADE DA SEGREGAÇÃO PARA GARANTIA DA ORDEM PÚBLICA, CONVENIÊNCIA DA INSTRUÇÃO CRIMINAL E ASSEGURAR A APLICAÇÃO DA LEI PENAL. PACIENTE QUE TERIA, EM TESE, PARTICIPADO DA ADULTERAÇÃO DE PLACAS DE UM VEÍCULO ROUBADO PELOS CORRÉUS F. E C., UTILIZADO POSTERIORMENTE PARA QUE C. SE DIRIGISSE ATÉ A RESIDÊNCIA DA VÍTIMA E EFETUASSE DISPAROS CAUSADO-LHE A MORTE. GRAVIDADE CONCRETA DOS FATOS. PERICULOSIDADE DO AGENTE. "FUMUS COMMISSI DELICTI" E "PERICULUM LIBERTATIS" DEMONSTRADOS. SEGREGAÇÃO CAUTELAR QUE NÃO FERE O PRINCÍPIO DA PRESUNÇÃO DE INOCÊNCIA. PACIENTE REINCIDENTE EM CRIME DOLOSO. POSSIBILIDADE DE REITERAÇÃO CRIMINOSA EVIDENCIADA. INEXISTÊNCIA, ADEMAIS, DE VÍNCULO COM O DISTRITO DA CULPA, QUE REVELA O RISCO À CONVENIÊNCIA DA INSTRUÇÃO CRIMINAL E À APLICAÇÃO DA LEI PENAL. ALEGADA AUSÊNCIA DE FUNDAMENTAÇÃO DA DECISÃO. NÃO ACOLHIMENTO. MAGISTRADO QUE EXPLICITOU OS ELEMENTOS CONCRETOS PARA A DECRETAÇÃO DA CONSTRIÇÃO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. SUSTENTADA A ILEGALIDADE DA PRISÃO EM RAZÃO DA NÃO REAVALIAÇÃO NO PERÍODO DE NOVENTA DIAS, NOS TERMOS DO ART. 316 DO CÓDIGO DE PROCESSO PENAL. SUPERAÇÃO DO PRAZO QUE NÃO IMPLICA REVOGAÇÃO AUTOMÁTICA DA SEGREGAÇÃO CAUTELAR. NECESSIDADE, PORÉM, DE DETERMINAR AO JUÍZO DE ORIGEM A REAVALIAÇÃO.
+ORDEM CONHECIDA E PARCIALMENTE CONCEDIDA.
+A presente impetração funda-se na falta de fundamentação idônea para a decretação e manutenção da segregação cautelar, visto que, "ao invés de reconhecer a ilegalidade da prisão, conforme dispõe o referido dispositivo legal, oportunizou ao juízo de primeiro grau a reanalisar a prisão preventiva, mesmo que depois de noventa dias" (e-STJ fl. 4), bem como que não estão presentes os requisitos para a prisão.
+Diante disso, pleiteia a defesa, em tema liminar e no mérito, a revogação da prisão preventiva.
+Liminar indeferida.
+O Ministério Público Federal manifestou-se pela prejudicialidade do writ.
+É, em síntese, o relatório.
+Decido.
+O presente writ está prejudicado.
+Isso, porque informações obtidas no sítio eletrônico do Tribunal de origem dão conta de que, no dia 4/8/2022, sobreveio a prolação de sentença, condenando o paciente à pena de 20 anos e 5 meses de reclusão, a ser cumprida em regime inicialmente fechado, pela prática dos crimes previstos no art. 121, § 2º, inciso I, e no art. 311, caput, ambos do Código Penal, na forma do art. 69 do Código Penal. Na ocasião, foi negada a possibilidade de recurso em liberdade.
+Assim, fica sem objeto este recurso, em razão da superveniência de novo título a embasar a custódia, não submetido a pronunciamento do Tribunal de origem.
+A propósito:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. ART. 33 DA LEI N. 11.343/2006 E ART. 16, § 1º, DA LEI N. 10.826/2003. PRISÃOPREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA.NOVO TÍTULO PRISIONAL. PREJUDICIALIDADE DA IRRESIGNAÇÃO.ADEMAIS, ÉDITO CONDENATÓRIO NÃO JUNTADO AOS AUTOS.RECURSO DESPROVIDO.
+1. "Sobrevindo decisão condenatória, o pedido em que se busca a revogação da prisão preventiva anteriormente decretada ou a substituição por outras medidas cautelares está prejudicado, pois, consoante iterativa jurisprudência do Superior Tribunal de Justiça, a superveniência de sentença condenatória recorrível constitui novo título a justificar a custódia cautelar, devendo os seus fundamentos ser submetidos à análise do Tribunal de origem antes de serem aqui apreci ados, vedada a supressão de instância" (AgRg no RHC n. 158.359/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 25/4/2022).
+ ..
+3. Agravo regimental desprovido.
+(AgRg no RHC n. 163.316/SP de minha relatoria, Sexta Turma, julgado em14/6/2022, DJe de 20/6/2022.)
+Assim, patente que o pre sente writ está prejudicado haja vista a perda superveniente de objeto.
+Ante o exposto, com base no art. 34, XX, do Regimento Interno desta Corte, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
