@@ -1,0 +1,100 @@
+DECISÃO
+Cuida-se de agravo interno, interposto por CLARA BATISTA LORIGADOS, contra decisão m onocrática, da lavra do Ministro Presidente do STJ (fls. 1.152-1.154 e-STJ), que não conheceu do agravo (art. 1.042 do CPC/15), por meio do qual a parte ora insurgente pretendia ver admitido o recurso especial.
+O apelo nobre, por sua vez, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, foi interposto em desafio a acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 499 e-STJ):
+SEGURO. PLANO DE SAÚDE. CONTRATO COLETIVO POR ADESÃO. CLÁUSULA QUE PREVÊ REAJUSTE ANUAL POR AUMENTO DE SINISTRALIDADE E POR VARIAÇÃO DE CUSTOS MÉDICO-HOSPITALARES. CLÁUSULA CLARA E QUE NÀO GERA DÚVIDAS. AVENÇA CELEBRADA ENTRE DUAS EMPRESAS. INEXISTÊNCIA DE ILEGALIDADE OU ABUSIVIDADE QUANTO AO TEOR DE REFERIDA PREVISÃO. INAPLICABILIDADE DA APLICAÇÃO SUPLETIVA, A AVENÇA DE NATUREZA COLETIVA, DAS LIMITAÇÕES VIGENTES PARA OS CONTRATOS INDIVIDUAIS E FAMILIARES. AÇÃO IMPROCEDENTE. SENTENÇA REFORMADA. RECURSO PROVIDO.
+Opostos embargos de declaração (fls. 682-689 e-STJ), esses foram rejeitados (fls. 690-697 e-STJ).
+Em suas razões de recurso especial (fls. 510-538 e-STJ), a recorrente aponta que o acórdão recorrido violou os seguintes dispositivos legais:
+(i) artigo 5º, inc. LV, da CF; 67 e 930 do CPC/15, sustentando a nulidade do julgamento virtual realizado pelo Tribunal a quo, tendo em vista a existência de prévia oposição das partes, requerendo o julgamento presencial, e existência de prejuízo, importando em cerceamento de defesa;
+(ii) artigos 489, § 1º, e 1.022, inc. II, do CPC/15, alegando a existência de omissão e negativa de prestação jurisdicional acerca da matéria suscitada nos embargos de declaração;
+(iii) artigo 373, inc. II, do CPC/15, aduzindo que o ônus da prova quanto à existência de fato impeditivo, modificativo ou extintivo do direito do autor, cabe a operadora de plano de saúde requerida; e
+(iv) artigos 4º, inc. I, 6º, incs. III e VIII, 36, inc. V e X, 47 e 51 do CDC, 421, 422 do CC; e 16, inc. XI, da Lei nº 9.656/98, defendendo, em suma, a abusividade dos reajustes anuais aplicados pela operadora de plano de saúde.
+Alegou, ainda, a existência de dissídio jurisprudencial.
+Contrarrazões às fls. 702-715 e-STJ.
+Em sede de juízo provisório de admissibilidade (fls. 716-719 e-STJ), o Tribunal de origem inadmitiu o recurso especial, sob os seguintes fundamentos: a) não cabimento da alegação de violação a dispositivos constitucionais; b) inexistência de violação aos arts. 489 e 1.022 do CPC/15; c) não ter ficado demonstrada a alegada vulneração aos dispositivos legais violados; e d) aplicação dos óbices das Súmulas 5 e 7 do STJ.
+Daí a interposição do respectivo agravo (art. 1.042 do CPC/15), às fls. 722-755 e-STJ.
+Contraminuta às fls. 760-769 e-STJ.
+Em juízo monocrático (fls. 1.152-1.154 e-STJ), o Ministro Presidente do STJ não conheceu do agravo, por ofensa ao princípio da dialeticidade.
+Daí o presente agravo interno (fls. 1.157-1.165 e-STJ), no qual a parte agravante sustenta a inaplicabilidade do referido óbice.
+Impugnação às fls. 1.171-1.179 e-STJ.
+É o relatório.
+Decide-se.
+Ante as razões expendidas, reconsidera-se a decisão de fls. 1.152-1.154 e-STJ, porquanto verificada a efetiva impugnação aos fundamentos da decisão da inadmissibilidade a quo, a fim de conhecer do agravo para negar provimento ao recurso especial.
+1. De início, observa-se que em recurso especial não cabe invocar ofensa à norma constitucional, razão pela qual o presente recurso não pode ser conhecido relativamente à apontada violação ao artigo 5º da Constituição Federal.
+2. No que que diz respeito à insurgência ao julgamento em sessão virtual pelo Tribunal de origem, conforme afirmado pelo aresto recorrido, a realização de sessões de julgamento presenciais foram suspensas, em razão do enfrentamento da pandemia de Covid-19. Ademais a recorrente não demonstrou ocorrência de prejuízo, não se podendo falar em nulidade do acórdão recorrido.
+Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. ART. 1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA. MATÉRIA DE ORDEM PÚBLICA. APRECIAÇÃO ANTERIOR. PRECLUSÃO CONSUMATIVA. JULGAMENTO VIRTUAL. SUSTENTAÇÃO ORAL. SUPRESSÃO. EFETIVO PREJUÍZO. DEMONSTRAÇÃO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. As questões de ordem pública também estão sujeitas à preclusão se já tiverem sido objeto de anterior manifestação jurisdicional.
+4. A jurisprudência do Superior Tribunal de Justiça orienta-se no sentido de que a declaração da nulidade do ato processual está condicionada à demonstração de efetivo prejuízo (pas de nullité sans grief). Precedentes.
+5. Agravo interno não provido.
+(AgInt nos EDcl no AREsp n. 2.075.371/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 13/2/2023, DJe de 17/2/2023)  grifou-se
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE OMISSÃO QUANTO AOS PEDIDOS DE RETIRADA DE PAUTA DE JULGAMENTO VIRTUAL, AO DIREITO DE RESPOSTA À PETIÇÃO E AO PEDIDO DE SUSTENTAÇÃO ORAL. AUSÊNCIA DE PREJUÍZO PROCESSUAL. ACÓRDÃO EMBARGADO. MANTEVE A INCIDÊNCIA DA DO ÓBICE DA SÚMULA 182/STJ. EMBARGOS ACOLHIDOS, SEM EFEITOS INFRINGENTES.
+1. A oposição ao julgamento virtual prevista no art. 184-D, parágrafo único, do RISTJ há de ser acompanhada de argumentação idônea a bem evidenciar efetivo prejuízo ao direito de defesa da parte, o que não se verificou no caso.
+2. Não havendo análise de mérito do recurso especial pela Turma julgadora, impõe-se a manutenção da decisão que negou provimento ao agravo interno mantendo a decisão monocrática que concluiu pela aplicação da Súmula 182/STJ.
+3. Embargos de declaração parcialmente acolhidos, sem efeitos infringentes.
+(EDcl no AgInt no AREsp n. 2.120.288/TO, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 28/11/2022, DJe de 30/11/2022)  grifou-se
+3. De outra parte, afasta-se a alegação de negativa de prestação jurisdicional. Não se verifica ofensa aos artigos 489 e 1022 do CPC/15 quando o Tribunal decide, de modo claro e fundamentado, as questões essenciais ao deslinde do feito. Ademais, não se deve confundir decisão contrária aos interesses da parte com negativa de prestação jurisdicional.
+Nesse sentido, citam-se os seguintes precedentes deste Superior Tribunal de Justiça: AgInt no AREsp 1024735/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 07/08/2018, DJe 13/08/2018; AgInt no AREsp 1254843/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/05/2018, DJe 01/06/2018; AgInt no AREsp 1224697/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 15/05/2018, DJe 21/05/2018; AgInt no AREsp 1015125/AC, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 17/04/2018, DJe 24/04/2018; AgInt nos EDcl no REsp 1647017/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 20/03/2018, DJe 02/04/2018.
+Alegou a recorrente que o acórdão impugnado restou omisso acerca da alegação de não houve a apuração dos reajustes e, principalmente, nos parâmetros utilizados para imposição das majorações, os quais deveriam ter justificativa atuarial.
+Todavia, conforme trecho a seguir citado, o Tribunal local tratou expressamente das questões essenciais ao deslinde da controvérsia. Confira-se (fls. 501-503 e-STJ):
+Isso porque, nem de longe há a abusividade que se pretendeu ver na aplicação dos índices utilizados para fator de correção do valor do prêmio, por aumento de sinistralidade e por VCMH, desde o ano de 2006. Note-se que o próprio contrato, ao qual aderiu a autora, estabelece, em sua cláusula 27, o reajustamento anual das mensalidades, tanto em virtude do aumento de sinistralidade quanto pela variação dos custos médico-hospitalares, segundo os parâmetros ali minuciosamente detalhados (fl. 61/62).
+E tratando-se de contrato coletivo de plano de saúde, estabelecido entre pessoas jurídicas, não há que se falar em abusividade dos índices de correção que, ressalte-se, são livremente pactuados pelas partes contratantes ou de aplicação da legislação protetiva.
+Na realidade, o que pretende a demandante é obter, no bojo de um contrato coletivo, a proteção conferida às apólices individuais, situação com a qual não se pode compadecer. (..).
+No mais, como já anotei no julgamento da Apelação Cível nº. 012942-11.2012.8.26.0100, da Comarca da Capital, nunca é demais lembrar que os planos de saúde sejam os de prestação de serviço, sejam os de seguro médico são atividades econômicas exercidas por empresas, e que, portanto, buscam, como resultado dessa atividade, um lucro.
+Posta assim a questão, e certo que o contrato é tipicamente de seguro, não se veda o estabelecimento de cláusulas limitativas de responsabilidade e mesmo de reajuste dos valores dos prêmios pelo aumento da sinistralidade advindo da idade ou dos custos. Até porque o prêmio pago guarda nítido cálculo atuarial em relação ao risco assumido.
+Daí que, para que se preserve a válida autonomia da manifestação da vontade, o ato jurídico perfeito e acabado, a irretroatividade da lei e bem a boa-fé que deve orientar todas as relações jurídicas, há que se respeitar o reajuste efetuado pela seguradora que, repita-se, operou-se nos exatos termos das cláusulas contratuais pactuadas pelas partes.
+Destarte, em resumo, afigurando-se lícitos os reajustes aplicados pela operadora em razão da alteração na sinistralidade e da variação de custos médico-hospitalares, tal como previsto em contrato, a improcedência integral da demanda era de rigor.
+Como visto, as teses da insurgente foram apreciadas pelo Tribunal a quo, que as afastou apontando os fundamentos jurídicos para tal.
+Não há que se falar, portanto, em omissão, sendo certo que os embargos de declaração não se constituem via própria para rejulgamento da causa, não havendo espaço para análise de inconformismo quanto ao entendimento adotado.
+Nesse sentido: REsp 1432879/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 16/10/2018, DJe 19/10/2018; EDcl nos EDcl no REsp 1641575/RJ, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 25/09/2018, DJe 01/10/2018; EDcl no AgInt no REsp 1666792/ES, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 19/04/2018, DJe 22/05/2018; AgInt no AREsp 1179480/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 27/02/2018, DJe 06/03/2018; AgInt no REsp 1598364/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/08/2017, DJe 22/08/2017; EDcl no AgInt no AREsp 471.597/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 06/06/2017, DJe 20/06/2017.
+Afasta-se, portanto, a alegada violação aos artigos 489 e 1.022 do CPC/15.
+4. No mais, cinge-se a controvérsia à verificação acerca da legalidade do reajuste por sinistralidade implementado pela operadora do plano de saúde coletivo objeto dos autos.
+Como visto da fundamentação do acórdão recorrido, acima transcrita, a Corte local ressaltou expressamente que não há se falar em abusividade da cláusula que estabelece o reajuste por sinistralidade.
+Nesse ponto, a decisão encontra-se em consonância com a jurisprudência desta Corte Superior, veja-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/2015). ART. 1.022 DO CPC. OMISSÃO NÃO INDICADA. DEFICIENTE FUNDAMENTAÇÃO RECURSAL. SÚMULA 284/STF. PLANO DE SAÚDE. FALHA NO DEVER DE INFORMAÇÃO. INOCORRÊNCIA. REAJUSTE ANUAL DA MENSALIDADE. POSSIBILIDADE. ABUSIVIDADE. INOCORRÊNCIA. REVISÃO DAS CONCLUSÕES DA CORTE DE ORIGEM. IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS 5 E 7/STJ. AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
+ ..
+2. É possível reajustar os contratos de saúde coletivos, sempre que a mensalidade do seguro ficar cara ou se tornar inviável para os padrões da empresa contratante, seja por variação de custos ou por aumento de sinistralidade.(AgRg nos EDcl no AREsp 235.553/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 02/06/2015, DJe 10/06/2015)
+3. Acolher as teses de falha no dever de informação e abusividade do reajuste das mensalidades, inevitável seria a revisão do conteúdo fático-probatório, bem como da relação contratual, inerentes à presente hipótese, o que é vedado em sede especial, a teor das Súmulas 5 e 7 desta Corte.
+4. Agravo interno não provido.
+(AgInt no AREsp 1201808/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 25/03/2019, DJe 27/03/2019)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. RAZÕES QUE NÃO ENFRENTAM O FUNDAMENTO DA DECISÃO AGRAVADA. PLANO DE SAÚDE COLETIVO. REAJUSTE ANUAL. SINISTRALIDADE. LIMITAÇÃO AOS ÍNDICES DA ANS. IMPOSSIBILIDADE. PRECEDENTES.
+ ..
+2. É "possível o reajuste de contratos de saúde coletivos sempre que a mensalidade do seguro ficar cara ou se tornar inviável para os padrões da empresa contratante, seja por variação de custos ou por aumento de sinistralidade" (AgRg nos EDcl no AREsp 235.553/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 2/6/2015, DJe de 10/6/2015).
+3. O Superior Tribunal de Justiça possui orientação no sentido de que, no plano coletivo, o reajuste anual é apenas acompanhado pela ANS, para fins de monitoramento da evolução dos preços e de prevenção de abusos, não havendo que se falar, portanto, em aplicação dos índices previstos aos planos individuais. Precedentes.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1155520/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 07/02/2019, DJe 15/02/2019)
+Ademais, também conforme se extrai da decisão proferida pela Corte local, acima transcrita, o órgão julgador, com base na análise da prova coligida aos autos, concluiu que, "afigurando-se lícitos os reajustes aplicados pela operadora em razão da alteração na sinistralidade e da variação de custos médico-hospitalares, tal como previsto em contrato, a improcedência integral da demanda era de rigor".
+Desse modo, derruir as conclusões a que chegou o Tribunal de origem e acolher a pretensão recursal ensejaria o necessário revolvimento das provas constantes dos autos, bem como do contrato entabulado entre as partes, providências vedadas em sede de recurso especial, ante o óbice estabelecido pelas Súmulas 5 e 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. PLANO DE SAÚDE. MENSALIDADES. REAJUSTE. OMISSÃO. NÃO OCORRÊNCIA. AUMENTO DA SINISTRALIDADE. ABUSIVIDADE. INVERSÃO DO JULGADO. IMPOSSIBILIDADE. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de ser possível o reajuste de contratos de saúde coletivos sempre que a mensalidade do seguro ficar cara ou se tornar inviável para os padrões da empresa contratante, seja por variação de custos ou por aumento de sinistralidade.
+4. Na hipótese, rever o entendimento da instância ordinária, que concluiu pela abusividade do reajuste, demanda o reexame de cláusulas do contrato e das provas constantes dos autos, procedimentos obstados pelas Súmulas nºs 5 e 7/STJ.
+5. Agravo interno não provido.
+(AgInt no REsp 1883615/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 08/02/2021, DJe 12/02/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO. AÇÃO REVISIONAL. REAJUSTE POR SINISTRALIDADE. AUSÊNCIA DE COMPROVAÇÃO DO REAJUSTE APLICADO. REEXAME. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ.
+1. O Tribunal de origem reconheceu a abusividade do reajuste diante da falta de demonstração do aumento da sinistralidade do plano de saúde.
+2. Desse modo, insindicável a conclusão do Tribunal por esta Corte Superior, ante os óbices das Súmulas 5 e 7/STJ.
+3. Agravo Interno não provido.
+(AgInt no AREsp 1701421/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 15/12/2020, DJe 18/12/2020)
+AGRAVO INTERNO EM RECURSO ESPECIAL - AÇÃO DE OBRIGAÇÃO DE FAZER COM PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO APELO EXTREMO. INSURGÊNCIA RECURSAL DOS REQUERENTES.
+1. De acordo com a jurisprudência desta Corte, não é abusiva, por si só, a previsão contratual que prevê reajustes em contratos de planos de saúde com base em critérios de sinistralidade. Precedentes.
+1.1. No caso em tela, o Tribunal local, atento ao entendimento jurisprudencial supracitado, assentou que o reajuste aplicado em 2014, seria abusivo. Apontou, ademais, ser impossível a análise da abusividade de reajustes futuros, na medida em que, para tanto, seria necessária a apreciação das particularidades da causa. Logo, sua revisão esbarra no óbice contido nas Súmulas 5 e 7 do STJ.
+Precedentes.
+2. Agravo interno desprovido.
+(AgInt no REsp 1725797/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 25/05/2020, DJe 28/05/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE COLETIVO. REAJUSTE POR AUMENTO DE SINISTRALIDADE. ÍNDOLE ABUSIVA NÃO DEMONSTRADA NO CASO. REEXAME PROBATÓRIO. IMPOSSIBILIDADE. ÍNDICES ESTABELECIDOS PELA ANS. INAPLICABILIDADE AOS CONTRATOS COLETIVOS. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência desta Corte é no sentido de que não é abusiva a cláusula que prevê a possibilidade de reajuste do plano de saúde, seja por variação de custos ou por aumento de sinistralidade. Precedentes.
+2. Na hipótese, o Tribunal de origem afastou a índole abusiva do reajuste por sinistralidade do valor da mensalidade do plano de saúde coletivo, sendo inviável a modificação de tal entendimento, em razão da incidência das Súmulas 5 e 7 do STJ.
+3. A jurisprudência do Superior Tribunal de Justiça é no sentido de que, no plano coletivo empresarial, o reajuste anual é apenas acompanhado pela Agência Nacional de Saúde Suplementar, para fins de monitoramento da evolução dos preços e de prevenção de abusos, prescindindo, entretanto, de sua prévia autorização.
+4. O entendimento adotado pelo acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1400251/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 07/12/2020, DJe 01/02/2021)
+Por fim, destaca-se que esta Corte de Justiça tem entendimento no sentido de que a incidência da Súmula 7/STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a Corte de origem.
+Nesse sentido, confiram-se os seguintes precedentes: AgRg no AREsp 786.906/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 26/04/2016, DJe 16/05/2016; e AgRg no AREsp 662.068/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 19/05/2015, DJe 22/06/2015.
+5. Do exposto, reconsidera-se a decisão de fls. 1.152-1.154 e-STJ e, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, conhece-se do agravo para negar provimento ao recurso especial.
+Por conseguinte, nos termos do art. 85, § 11, do CPC, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC.
+Publique-se.
+Intimem-se.
