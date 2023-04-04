@@ -1,0 +1,71 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por COMPANHIA ESTADUAL DE ÁGUAS E ESGOTOS - CEDAE, contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO INDENIZATÓRIA. RELAÇÃO DE CONSUMO. CEDAE. FALHA NA PRESTAÇÃO DO SERVIÇO.
+AUTOR COBRADO DE FORMA IRREGULAR. PERÍCIA REALIZADA POR EXPERT DO JUIZO QUE CONFIRMOU A NARRATIVA AUTORAL. TOTAL DESCASO COM O CONSUMIDOR QUE TEVE SEU NOME NEGATIVADO INDEVIDAMENTE. CONFIGURADO O DANO MORAL IN RE IPSA. SENTENÇA QUE NÃO MERECE RETOQUE. RECURSO NÃO PROVIDO" (fl. 267e).
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 284/292e), os quais restaram rejeitados, nos seguintes termos:
+"EMBARGOS DE DECLARAÇÃO. APELAÇÃO CÍVEL. ALEGAÇÃO DE ILEGITIMIDADE PASSIVA QUE NÃO PROSPERA. NO MAIS, ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. INOCORRÊNCIA DAS HIPÓTESES DO ARTIGO 1.022 DO CPC. EMBARGOS DESPROVIDOS" (fl. 336e).
+Nas razões do Recurso Especial (fls. 353/383e), interposto com base no art. 105, III, a e c, da Constituição Federal, a parte ora agravante aponta, além do dissídio jurisprudencial, violação aos arts. 248 do CC; 165 e 458, II e III, do CPC/2015.
+Sustentou que:
+"A responsabilidade da Companhia Estadual de Águas e Esgotos (CEDAE) em relação à execução dos serviços de captação, tratamento, adução, distribuição de água potável, coleta, transporte, tratamento de esgoto e a cobrança por tais serviços, decorria do Termo de Reconhecimento Recíproco firmado em fevereiro de 2007 (cláusula primeira), em relação ao Município do RJ, assim como demais contratos com os outros Municípios do Estado do Rio de Janeiro. Entretanto, em agosto de 2021, o Estado do Rio de Janeiro firmou novos contratos de prestação dos serviços de saneamento público, em decorrência do leilão realizado em abril de 2021, modificando a relação jurídica existente no que tange ao abastecimento de água da presente demanda.
+A realização do leilão de parte dos serviços outrora concedidos à CEDAE 1 é fato público e notório e, diante disso, uma nova concessionária passará a executar os serviços até então prestados pela Companhia, com exceção da captação e tratamento de água. Trata-se de decisão tomada pelo Estado do Rio de Janeiro, pela Região Metropolitana do Estado do Rio de Janeiro e, ainda, por Municípios diversos do Estado, sobre a qual a CEDAE não possui qualquer ingerência.
+Assim, a distribuição de água potável, todos os serviços de esgoto (coleta, transporte, tratamento e destinação final) e a gestão comercial (cobrança, alteração de titularidade, instalação de medidores, serviços em geral), são de responsabilidade das novas concessionárias.
+Registre-se que a localidade abrangida por esta demanda - Nova Iguaçu - está localizada no bloco IV da concessão, arrematado pelo Consórcio AEGEA - Águas do Rio.
+As obrigações entre as concessionárias ficaram definidas - conforme cláusula 5 do Contrato de Interdependência, anexo ao Edital da Concessão 2, celebrado como parte da desestatização realizada - da seguinte forma:
+(..)
+Cabe informar, ainda, que o contrato com o Consórcio que representa a ÁGUAS DO RIO foi assinado no dia 11/08/2021 iniciando-se, desta forma, o período da operação assistida, que no caso da ÁGUAS DO RIO terminou no dia 31/10/21.
+Desta forma, temos que com relação aos Blocos 01 e 04, ficou estabelecido entre o poder concedente e a nova concessionária que a operação assistida seria mantida até o dia 31/10/2021, por entenderem que a concessionária ÁGUAS DO RIO se encontra apta a assumir a operação dos serviços de esgotamento sanitário, abastecimento de água tratada e gestão comercial, conforme se comprova através do documento em anexo.
+(..)
+Nessa esteira, diante do atual cenário da concessão dos serviços de esgotamento sanitário, de distribuição de água e gestão comercial, deve-se atentar que a CEDAE não poderá executar quaisquer intervenções no tocante aos serviços concedidos a outra concessionária.
+Logo, o término da operação assistida em 31/10/2021, acaba por inviabilizar, de vez, a realização de quaisquer obras pela CEDAE ou alterações comerciais futuras porque não é mais a prestadora destes serviços, não tendo acesso às suas operações.
+Desta forma, a Cedae não possui legitimidade passiva no que se refere à obrigação de fazer quanto a declarar a inexistência de débitos referentes ao consumo de água da embargada enquanto não regularizado o fornecimento de água no ramal onde foi instalado o hidrômetro após 31/10/2021 configurando-se conveniente sua alegação de ilegitimidade nos termos do artigo 337, XI, do CPC.
+(..)
+Deste modo, a CEDAE atualmente é responsável unicamente pela produção de água tratada e fornecimento de água para as novas concessionárias (sistema upstream), estando completamente afastada dos serviços públicos de abastecimento de água (sistema downstream), esgotamento sanitário e gestão comercial em todas as áreas abrangidas pela Concessão" (fls. 358/362e).
+Ponderou que:
+"Dessa forma, o v. acórdão recorrido, data vênia, carece de fundamentação, sendo, portanto, nulo de pleno direito, razão pela qual espera a reforma do v.
+aresto recorrido por violação expressa aos arts. 165 e 458, II e III, do Código de Processo Civil e franca divergência com o entendimento do E. Superior Tribunal de Justiça, para determinar que outros se profiram, pronunciando-se o Tribunal Local fundamentadamente sobre todos os pontos suscitados no recurso de apelação.
+O MM. Juízo a quo por contrariar os artigos 125, II, 130, 332 e 333, do Código de Processo Civil, cerceando flagrantemente o direito de defesa da recorrente, fato de todo inadmissível.
+Isso ocorre porque, no caso dos autos, como adiante se verá, a produção de provas pericial é imprescindível para a solução da controvérsia, não tendo, em momento algum intuito procrastinatório, servindo ainda sua produção para garantir a igualdade das partes no exercício do direito do contraditório e da ampla defesa. Não garantindo às partes a igualdade de tratamentos, circunstância que também se verifica pela igualdade na produção de provas, resta violada a norma contida no art. 125 do CPC.
+Nesse passo, diante da essencialidade da medida e do seu tempestivo requerimento, não pode o magistrado privar a recorrente da realização de tal prova, sendo certo que, tal privação, ofende o trazido no art. 130 do CPC que lhe dá a possibilidade de indeferir apenas as diligências inúteis e protelatórias e não aquelas essenciais.
+Outrossim, é ônus da recorrente a comprovação de fato impeditivo, modificativo ou extintivo do direito da parte recorrida, nos termos do art. 373, II do CPC, razão pela qual não lhe podem ser tolhidos os meios para produção dessas provas. A decisão do magistrado singular impede o regular exercício da produção da prova pela recorrente, que, aliás, já é ônus da recorrente nos termos do já mencionado art. 373, II do CPC, que termina por ser francamente violado" (fls. 366/367e).
+Aduziu que:
+"Cabe ressaltar ainda que a CEDAE abastece grande parte do Estado do Rio de Janeiro, motivo pelo qual não pode manter o ramal pressurizado durante 24 horas por dia, pois tal ato acarretaria em prejuízo da coletividade.
+Importante frisar que a CEDAE não é obrigada a abastecer os imóveis durante 24 horas por dia, conforme prevê o Decreto Estadual nº. 553/76, em seu art. 12, parágrafo 4º, in verbis
+(..)
+Outrossim, cumpre esclarecer que abastecimento contínuo não é, necessariamente, ininterrupto, devendo ser apenas aquele necessário ao abastecimento da unidade consumidora que possua reservação técnica.
+No caso em tela, alega a recorrida não possui abastecimento de água continuamente 24 horas por dia, o que a empresa recorrente não está obrigada a fazer.
+Além disso, cumpre esclarecer que o perito informou em seu Laudo Pericial que o abastecimento é feito através de um "ramal" denominado BY PASS DN 250, que nada mais é do que um tronco alimentador que, na impossibilidade de abastecer o Reservatório de Austin devido a pressão insuficiente na rede, utiliza-se esse dispositivo para interligar a entrada com a saída do reservatório, em ponto de cota mais favorável.
+Por esse motivo não há que se falar em regularização do fornecimento de água, uma vez que há abastecimento de água no imóvel" (fls. 369/370e)
+Alegou que:
+"De acordo com a legislação vigente, a utilização da leitura do hidrômetro para a realização da cobrança, somente se dá quando o consumo de água ultrapassar o valor mínimo permitido.
+Assim sendo, caso a leitura aponte um valor inferior ao mínimo, é legal a cobrança pela tarifa mínima.
+O Decreto 553/76 , que aprova o regulamento dos serviços públicos de abastecimento de água e esgotamento sanitário do estado do rio de janeiro, a cargo da CEDAE estabelece em seus artigos, in verbis:
+(..)
+Sobre a possibilidade da cobrança de água com base na tarifa mínima, o STJ já firmou entendimento sobra a legalidade de tal modalidade:
+(..)
+Diante disso, a r. sentença requer que a apelante recalcule o débito da autora na proporção de 4m , sendo está menor que a tarifa mínima legal, que é 15m /mês, logo estará ferindo a isonomia em detrimento aos demais consumidores.
+Ante o exposto, a inarredável conclusão que se pode chegar é que o faturamento do serviço de fornecimento de água com base na tarifa mínima é lícito, desde que o consumo seja inferior aos limites mínimos definidos para cada categoria de consumidores" (fls. 370/374e).
+Afirmou que:
+"Por tais razões, mesmo no suposto período em que a parte parte autora não teria recebido o fornecimento por optar por utilizar-se de abastecimento por carro pipa, cabível é o pagamento de valores relativos à tarifa de manutenção pelo fornecimento de água, pois, o serviço de água estava disponível.
+(..)
+De acordo com o Decreto Estadual nº 553/76 e a legislação federal sobre o tema, qual seja a Lei 6.528/78 e a Lei 11.445/2007, a recorrente é autorizada a faturar o consumo por estimativa quando não existir hidrômetro instalado no imóvel, uma vez que todos os usuários proprietários de imóveis abastecidos pela CEDAE, possuidores ou não de hidrômetro, devem pagar pelo serviço prestado" (fls. 376/379e).
+Inadmitido o Recurso Especial (fls. 425/428e), foi interposto o presente Agravo (fls. 439/443e).
+A irresignação não merece conhecimento.
+O Tribunal estadual, ao julgar o recurso, concluiu que (fls. 271/273e):
+"Configurada a relação de consumo, impõe-se a observância do artigo 14 do CDC, notório é que da atividade em exame resulta responsabilidade civil objetiva, bem como os riscos dela derivados. Desta forma, as empresas concessionárias de serviços públicos são responsáveis por eventuais danos decorrentes da falha na prestação do serviço por elas oferecido.
+Realizada perícia judicial, o ilustre expert , apresentou laudo minucioso e fundamentado, cuja conclusão segue abaixo (IE. 222):
+"( ) CONSIDERANDO QUE, todos os valores de consumos de água registrados pelo hidrômetro de nº A10B107419, referentes ao período de jun/2012 a ago/2017, reclamados pelo Autor, foram obtidos por meio de média ou limite inferior e não por meio de verificação do valor registrado pelo equipamento supracitado; (Vide item 4.3) CONSIDERANDO QUE, tal forma de obtenção de consumo é absolutamente desprovida de credibilidade técnica;
+TEM SE QUE, os "valores de consumo de água da unidade do Autor" registrados nas contas mensais, de jun/2012 a ago/2017, reclamados pelo Requerente são incorretos.
+Após a pressurização (entrada em operação) do ramal provido de hidrômetro, deve-se obter uma média de consumo real após 6 (seis) meses de utilização cujo valor será aplicado/adotado como valor correto em cada mês do período reclamado pelo Requerente." Destaque-se que estamos diante de serviço essencial, que deve ser fornecido de forma adequada, eficiente e contínua, o que não se traduz em cobrança excessiva e atendimento pessoal ineficiente, que resultou na situação em comento."
+Inicialmente, por simples cotejo entre as razões do Recurso Especial e os fundamentos do acórdão recorrido, observa-se que a tese recursal contida nos artigos ditos violados, sequer implicitamente, foi apreciada pelo Tribunal de origem, não obstante terem sido opostos Embargos de Declaração, para tal fim.
+Por essa razão, à falta do indispensável prequestionamento, não pode ser conhecido o Recurso Especial, no ponto, incidindo o teor da Súmula 211 do STJ ("inadmissível recurso especial quanto à questão que, a despeito da oposição dos embargos declaratórios, não foi apreciado pelo Tribunal a quo").
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. COMISSÃO DE CORRETAGEM. INDENIZAÇÃO. CABIMENTO. REEXAME DE PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos declaratórios, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.
+(..)
+6. Agravo interno não provido" (STJ, AgInt no AREsp 1.172.051/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 23/03/2018).
+Acrescente-se que, se a parte recorrente entendesse persistir algum vício no acórdão impugnado, imprescindível a alegação de violação ao art. 1022 do CPC/2015, por ocasião da interposição do Recurso Especial, sob pena de incidir no intransponível óbice da ausência de prequestionamento.
+Assim, à mingua de prequestionamento, inviável a apreciação da aludida tese recursal.
+Nesse contexto, considerando a fundamentação do acórdão objeto do Recurso Especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula 7/STJ.
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo, para não conhecer do Recurso Especial.
+I.
