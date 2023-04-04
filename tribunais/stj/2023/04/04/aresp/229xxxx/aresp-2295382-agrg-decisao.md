@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo regimental interposto por TAMIRIS JULIANA SOARES DA SILVA contra decisão de e-STJ fls. 635/636, proferida pela Presidência do Superior Tribunal de Justiça, que não conheceu do seu agravo.
+Depreende-se dos autos que a ora agravante foi condenada, em Juízo de primeiro grau, como incursa nas sanções dos arts. 33, 34 e 35 da Lei n. 11.343/2006, à pena total de 11 anos e 10 meses de reclusão, em regime inicial fechado, além de 2.483 dias-multa (e-STJ fls. 352/363).
+Extrai-se da denúncia que (e-STJ fls. 172/173):
+Consta do incluso inquérito policial que, no dia 23 de julho de 2020, por volta das 08h30min, na Avenida Deputado Bráz de Assis Nogueira, nº 1.021, Bloco 20, Apto 01, Jardim Ciranda, nesta cidade e Comarca, TAMIRIS JULIANA SOARES DA SILVA, qualificada às fls. 06, e AGDA LUIZ GONCALVES, qualificada às fls. 07, tinham em depósito drogas, para fins de tráfico, consistentes em quatorze porções de cocaína, com peso líquido de 8,35 gramas, e cinco porções de maconha (03 parangas e 02 porções maiores), com peso líquido de 14,47 gramas, drogas que determinam dependência física ou psíquica, conforme laudo de constatação provisória de fls. 48/55, e laudo de exame químico toxicológico de fls. 167/169, o que faziam sem autorização e em desacordo com determinação legal ou regulamentar.
+Consta, ainda, que na mesma época e local, as denunciadas TAMIRIS JULIANA SOARES DA SILVA e AGDA LUIZ GONCALVES associaram-se para a prática do tráfico de drogas.
+Conforme o apurado, TAMIRIS e AGDA, mãe e filha, associaram-se e passaram a se dedicar ao tráfico de drogas, tendo em depósito os entorpecentes supramencionados para vende-los.
+Policiais civis receberam notícia de crime envolvendo as denunciadas na associação e no tráfico de drogas, razão pela qual solicitaram e obtiveram mandado de busca e apreensão, oportunidade em que foram cumpri- lo.
+Os policiais deslocaram-se até a residência de AGDA, que dormia na sala do imóvel, e prontamente confirmou a existência de drogas na casa, certo que entregou aos agentes a quantia de R$ 299,00 reais que estava no bolso de sua calça, oriunda da mercancia dos entorpecentes.
+Em sequência, realizadas buscas no imóvel, em um dos quartos, em que dormia a sobrinha de AGDA, na cômoda, no interior de uma gaveta os policiais localizaram as porções de cocaína.
+Ato contínuo, os agentes dirigiram-se para o quarto de TAMIRIS. Neste cômodo, foram encontradas as porções de maconha, uma balança eletrônica e uma pequena bolsa verde, contendo 121 embalagens de plástico incolor semelhantes aos utilizados para a manufatura de todas as porções de drogas que foram apreendidas na residência.
+Sobreveio a prisão em flagrante de TAMIRIS e AGDA.
+O Tribunal de origem, por maioria, deu parcial provimento "ao recurso das rés para absolvê-las quanto ao delito do artigo 34 da Lei 11.343/06, com base no artigo 386, VII do CPP e readequar as penas de TAMIRIS JULIANA SOARES DA SILVA para 08 anos de reclusão, em regime inicial fechado e, pagamento de 1200 dias-multa e AGDA LUIZ GONÇALVES para 11 anos, 10 meses e 10 dias de reclusão, em regime inicial fechado e, pagamento de 1729 dias-multa, ambas pela prática dos delitos previstos nos artigos 33 e 35 da Lei 11.343/06, na forma do artigo 69 do Código Penal" (e-STJ fl. 482), conforme a seguinte ementa (e-STJ fl. 483):
+APELAÇÃO CRIMINAL TRÁFICO DE DROGAS e ASSOCIAÇÃO PARA O TRÁFICO Provas suficientes da autoria e materialidade delitiva. Condenação mantida. ABSOLVIÇÃO artigo 34 - possibilidade - Penas readequadas; REGIME bem aplicado. APELOS PARCIALMENTE PROVIDOS.
+Nas razões do recurso especial (e-STJ fls. 534/551), a defesa apontou, além de divergência jurisprudencial, violação dos arts. 33, § 4º, 35 e 42 da Lei n. 11.343/2006; e 33, §§ 2º e 3º, e 59, ambos do Código Penal.
+Alegou, de início, que não houve demonstração de estabilidade e permanência com divisão de tarefas, insurgindo-se contra a condenação ao delito de associação para o tráfico de drogas. Sustentou que "a prisão se deu pelo tráfico flagrado, por policiais que não conheciam a recorrente, sem qualquer prévia investigação e até mesmo informações a respeito de alguma estabilidade, permanência, divisão de tarefas que pudessem afirmar com toda certeza de uma associação ao tráfico" (e-STJ fl. 538).
+Afirmou que "o venerável acórdão acabou por violar o dispositivo federal constante dos artigos 33, § 4º e 42, ambos da Lei 11.343/06, pois afastou a benesse, causa de diminuição da pena, mesmo que presentes os requisitos, alicerçado exclusivamente na condenação no delito de associação, fazendo presumir dedicação à atividades criminosas" (e-STJ fl. 541).
+Por fim, aduziu que, "sendo provido o presente recurso, a pena da recorrente restará fixada abaixo dos 4 (quatro) anos, já que será diminuída, podendo, atento ao princípio da proporcionalidade, ser fixado o regime aberto para seu cumprimento e eventual substituição da pena privativa de liberdade por restritivas de direitos" (e-STJ fl. 543).
+Contrarrazões às e-STJ fls. 579/593. O recurso especial não foi admitido (e-STJ fls. 599/600). A defesa interpôs agravo (e-STJ fls. 603/612).
+A Presidência desta Corte não conheceu do agravo por ausência de impugnação específica de fundamentos da decisão que havia inadmitido o recurso especial (e-STJ fls. 635/636).
+Irresignada, a parte interpõe o presente agravo regimental (e-STJ fls. 639/648), alegando que atacou adequadamente todos os fundamentos da decisão agravada.
+Requer, assim, a reconsideração do julgamento para que do agravo em recurso especial seja conhecido.
+É, em síntese, o relatório.
+Decido.
+Assiste razão à agravante.
+É que, de fato, compulsando os autos, verifica-se que os fundamentos da decisão de inadmissibilidade do recurso especial foram suficientemente impugnados.
+Ante o exposto, dou provimento ao agravo regimental para determinar o regular processamento do agravo em recurso especial.
+Dê-se vista ao Ministério Público Federal para parecer.
+Após, tornem-me os autos conclusos.
+Publique-se. Intimem-se.
