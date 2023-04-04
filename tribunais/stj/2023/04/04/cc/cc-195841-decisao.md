@@ -1,0 +1,11 @@
+DECISÃO
+O JÚIZO DE DIREITO DA VARA DE EXECUÇÃO PENAL EM MEIO FECHADO E SEMIABERTO DE UNAÍ - MG suscita conflito de competência, em execução penal, diante do JUÍZO DE DIREITO DA VARA DE EXECUÇÕES PENAIS DE BRASÍLIA - DF.
+A controvérsia estabelecida neste incidente processual se cinge a sabaer qual o juízo competente para execução de pena de condenado, que possuia outra execução em unidade federativa diversa, a qual, contudo, já estava integralmente cumprida.
+Ouvido, manifestou-se o Ministério Público Federal pelo conhecimento do conflito para que seja declarado competente o Juízo de Direito da Vara de Execuções Penais de Brasília - DF, ora suscitado (fls. 418-420).
+Decido.
+Com razão o Ministério Público Federal. Muito embora existisse execução anterior em Unaí- MG contra o agora condenado em Brasília - DF, verifica-se que a pena referente a esse processo foi integramente cumprida, conforme destacou o Juízo suscitante, nestes termos: "o sentenciado deu integral cumprimento da pena existente nesta Comarca e nem mesmo segregado aqui está" (fl. 79, destaquei).
+Logo, como pontuou o Parquet Federal, "conforme disposto no artigo 65 da LEP, a execução penal competirá ao Juiz indicado na lei local de organização judiciária e, na sua ausência, ao da sentença, sendo cediço que eventual execução penal anterior, já extinta pelo cumprimento, não constitui causa legal de deslocamento da competência, permanecendo, assim, a competência do local da condenação para a execução penal" (fls. 419-420). Nesse sentido:
+CONFLITO DE COMPETÊNCIA. EXECUÇÃO DA PENA. DELITOS PRATICADOS EM MAIS DE UMA UNIDADE DA FEDERAÇÃO. EXECUÇÃO ANTERIOR INTEGRALMENTE CUMPRIDA PERANTE O JUÍZO SUSCITANTE. PREVENÇÃO AFASTADA. AUSÊNCIA DE PRÉVIA CONSULTA PARA TRANSFERÊNCIA DA EXECUÇÃO. COMPETÊNCIA DO JUÍZO SUSCITADO. (CC n. 181.608, Rel. Ministro Jesuíno Rissato - Desembargador convocado do TJDFT, DJe 17/9/2021)
+Em conclusão, a execução penal anterior, quando integralmente cumprida, não tem o condão de alterar a competência originária da execução penal em que se inicia, a qual permanece perante o juízo do local da condenação.
+À vista do exposto, conheço do conflito para declarar competente o o Juízo de Direito da Vara de Execuções Penais de Brasília - DF, ora suscitado.
+Publique-se. Dê-se ciência aos Juízos sucitante e suscitado.
