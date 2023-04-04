@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial fundamentado no art. 105, III, "a", da CF, interposto contra acórdão assim ementado (e-STJ fls. 449/450):
+PROCESSUAL CIVIL - Apelação - Contrarrazões - Preliminar - Ofensa ao princípio da dialeticidade recursal -Inocorrência - Rejeição.
+- Embora o recurso de apelação devolva ao Juízo "ad quem" toda a matéria objeto de controvérsia, o seu efeito devolutivo encontra limites nas razões suscitadas pelo recorrente e em homenagem ao princípio da dialeticidade, deve a parte insurgente, sob as penas do art. 932, III, do CPC, observar a indispensável pertinência temática entre as razões de decidir e os argumentos fornecidos pelo recurso para justificar o pedido de reforma do julgado combatido, diretriz essa observada no recurso em pauta.
+CIVIL E CONSUMIDOR - Apelação - Ação declaratória c/c indenização por danos materiais - Contrato de financiamento - Tarifas declaradas abusivas em sentença transitada em julgado em Juizado Especial - Pleito de restituição dos juros reflexos sobre tais valores - Sentença- Declaração de prescrição - Direito pessoal - Incidência do art. 205, "caput" do Código Civil - Prazo decenal -Entendimento firmado pelo STJ e por esta Corte -Aplicabilidade - Desprovimento.
+- A ação revisional de contrato é fundada em direito pessoal, possuindo prazo prescricional decenal.
+- "Art. 205. A prescrição ocorre em dez anos, quando a lei não lhe haja fixado prazo menor."
+- "1. A jurisprudência desta Corte é firme no sentido deque o prazo prescricional para as ações revisionais de contrato bancário, nas quais se pede o reconhecimento da existência de cláusulas contratuais abusivas e a consequente restituição das quantias pagas a maior, é vintenário (sob a égide do Código Civil de 1916) ou decenal (na vigência do novo Código Civil), porquanto fundadas em direito pessoal. 2. Agravo regimental a que se nega provimento." (STJ - AgRg no REsp: 1504037 MG2014/0331086-0, Relator: Ministro Marco Aurélio Bellizze, Data de Julgamento: 28/04/2015, T3 - Terceira Turma, Data de Publicação: DJe 01/06/2015)
+Os embargos de declaração foram rejeitados (e-STJ fls. 489/499).
+Em suas razões (e-STJ fls. 503/531), a parte recorrente aponta, além de dissídio jurisprudencial, violação dos seguintes dispositivos legais:
+(i) arts. 489, § 1º, III, IV e VI, e 1.022, I e II, do CPC/2015, porque (e-STJ fls. 508/509):
+ ..  aplicou a data da assinatura do contrato como marco inicial, sem observar que na data da assinatura do contrato o direito em que se funda essa ação não poderia ser ajuizado, o que só foi possível após a declaração de nulidade das tarifas. Além do mais, ignorou que houve causa interruptiva que igualmente modificaria esse marco inicial.
+ ..  o Tribunal não apreciou 3 teses alternativas que afastariam a prescrição no caso concreto, notadamente 1) tese de que na assinatura do contrato o direito ainda não existia, somente surgindo no momento do trânsito em julgado da sentença que declarou nulas as tarifas; 2) a prescrição da pretensão de reaver prejuízos em uma parcela não pode gerar prescrição de outro prejuízo que ainda não atingiu 10 anos de sua ocorrência; 3) a existência de outra ação anterior com citação válida e com mérito julgado envolvendo o mesmo contrato é causa interruptiva de prescrição.
+(ii) art. 202, I, do CC/2002, pois (e-STJ fls. 522/528):
+Tanto é que a presente ação foi proposta justamente para pleitear a declaração de nulidade dos juros cobrados sobre tarifas anuladas previamente na ação anterior, no mesmo contrato.
+Portanto, não considerar uma ação anterior envolvendo as mesmas partes e o mesmo contrato como causa interruptiva representa negativa de vigência ao artigo202, I do Código Civil, merecendo absoluta reforma no particular.
+ ..  Não se pode contar o prazo prescricional antes que toda a obrigação esteja concluída. Logo, o marco inicial da contagem da prescrição é a data do encerramento do contrato, isto é, a data do vencimento da última parcela.
+ ..  o direito à declaração de nulidade das obrigações acessórias se originou no momento em que transitou em julgado a decisão que declarou nulas as obrigações principais. Portanto, em análise alternativa, é o momento em que se originou o direitoque se tem início à contagem do prazo prescricional porque ali foi criado o direito em que se funda a ação.
+Contrarrazões apresentadas às fls. 536/553 (e-STJ).
+O recurso foi admitido na origem.
+É o relatório.
+Decido.
+No presente caso, apesar da oposição de embargos declaratórios, o Tribunal de origem manteve omissão a respeito de questões pertinentes ao deslinde da causa, oportunamente suscitadas pela parte, quais sejam, a) que o direito só existe a partir do trânsito em julgado da sentença que declarou nulas as tarifas, b) que a prescrição de uma parcela não poderia gerar a prescrição das demais parcelas com menos de 10 (dez) anos, e c) que haveria causa interruptiva da prescrição (art. 202, I, do CC/2002) pela citação válida na outra ação envolvendo o mesmo contrato.
+É pacífico neste Tribunal o entendimento segundo o qual, não havendo apreciação dos declaratórios em relação a ponto relevante, impõe-se a anulação do acórdão recorrido para que o recurso seja novamente apreciado.
+Assim, constatada a omissão, considerando que a análise fático-probatória não pode ser realizada por este juízo especial, os autos devem retornar ao Tribunal de origem.
+Ficam prejudicadas as demais questões apresentadas no recurso especial.
+Ante o exposto, DOU PROVIMENTO ao recurso, a fim de determinar o retorno dos autos ao Tribunal de origem para exame dos vícios apontados, nos termos da fundamentação.
+Publique-se e intimem-se.
