@@ -1,0 +1,8 @@
+DECISÃO
+FELIPE MOREIRA MARTINS, condenado por uso de documento público materialmente falso, alega ser vítima de constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal Regional Federal da 6ª Região, que, a despeito do regime semiaberto fixado para o início do cumprimento de pena, manteve a prisão preventiva, a qual pretende seja revogada.
+O caso comporta julgamento antecipado, visto que a solução da controvérsia encontra solução pacificada no âmbito desta Corte. De início, registro que a prisão preventiva se encontra devidamente fundamentada, conforme ficou consignado no julgamento do RHC n. 163.414/MG, publicado no DJe 6/5/2022, o qual negou provimento ao recurso interposto com o objetivo de desconstituir a preventiva nesse mesmo caso.
+No mais, é sólida a ompreensão deste Superior Tribunal de que "não há incompatibilidade entre a manutenção da prisão cautelar e a fixação do regime semiaberto para o inicial cumprimento de pena  .. " (AgRg no HC n. 779.532/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 13/12/2022, DJe de 19/12/2022)" (AgRg no HC n. 798.705/RJ, Rel. Ministro Antonio Saldanha Palheiro, DJe 23/3/2023).
+Nesse sentido, ainda, o seguinte aresto : "É pacífico o entendimento deste Tribunal Superior no sentido de que a manutenção da prisão preventiva pelo juiz sentenciante é compatível com a fixação do regime semiaberto, desde que ocorra a devida adequação da segregação cautelar com o regime estabelecido pela sentença condenatória" (AgRg no HC n. 783.309/SC, Rel. Ministro Ribeiro Dantas, DJe 16/2/2023).
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, denego in limine a ordem.
+Dê-se ciência ao Ministério Público Federal.
+Publique-se e intimem-se.
