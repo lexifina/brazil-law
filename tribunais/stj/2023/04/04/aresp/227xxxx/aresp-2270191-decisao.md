@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de Agravo da Concessionária de Rodovias Galvão BR-153 SPE S.A. contra decisão que negou seguimento ao seu Recurso Especial (art. 105, III, "a", da CF/1988) no qual impugna acórdão do Tribunal de Justiça do Estado de Goiás assim ementado:
+AGRAVO INTERNO EM APELAÇÃO CÍVEL. AÇÃO REGRESSIVA DE RESSARCIMENTO DE DANOS. ALEGAÇÃO DE DUPLICIDADE DE INTIMAÇÕES (DJE E PORTAL ELETRÔNICO). AUSÊNCIA DE PROVAS. MANUTENÇÃO DE DECISÃO QUE RECONHECEU A INTEMPESTIVIDADE DO RECURSO.
+1. Nos termos do art. 5º, § 1º, da Lei 11.419/2006, que regulamenta a intimação por meio do portal eletrônico, somente se considera realizada a intimação no dia em que o advogado efetiva a consulta eletrônica - ou deixa de fazê-lo pelo prazo de 10 dias -, exigindo-se a certificação nos autos acerca de sua realização.
+2. Havendo duplicidade de intimações - pelo diário de justiça eletrônico (DJe) e pelo portal eletrônico -, prevalece a realizada neste último, privilegiando-se a boa-fé processual e a confiança dos operadores jurídicos nos sistemas informatizados de processo eletrônico (STJ, EAREsp 1.663.952/RJ).
+3. Na hipótese, não há provas a respeito da alegada duplicidade de intimações, porquanto não consta do histórico dos autos a realização de intimação do agravante por meio portal eletrônico, visto que não houve a geração da respectiva certidão constando "intimação lida", mas apenas a intimação de seu advogado via DJe.
+4. Inexistindo a alegada duplicidade de intimações, tampouco prova de que o erro na contagem de prazo decorreu de falha do próprio sistema de processo eletrônico, deve prevalecer a intimação por meio do DJe, mantendo-se a decisão que reconheceu a intempestividade do recurso.
+Precedentes do TJGO.
+AGRAVO INTERNO CONHECIDO E DESPROVIDO. DECISÃO MONOCRÁTICA MANTIDA.
+Os Embargos de Declaração foram rejeitados.
+Em seu Apelo Especial, a parte recorrente alega violação dos arts. 371, 489, § 1º, IV, e 1.022, II, do CPC/2015; e 5º da Lei 11.419/2006. Sustenta, em suma:
+(..), muito embora a Recorrente tenha efetivamente acostado nos autos a certidão de intimação emitida pelo portal eletrônico, e expressamente instado o Tribunal a quo a se manifestar sobre o mencionado documento em sede de embargos de declaração, o referido órgão julgador não se dignou a analisar a certidão, mantendo-se, portanto, omisso com relação às provas constantes dos autos.
+Sendo assim, uma vez verificada a omissão acerca da certidão de intimação expedida pelo portal de intimações do Tribunal de Justiça de Goiás, resta, também, caracterizada violação aos artigos 1.022, inciso II e 489, §1º, inciso IV, ambos do Código de Processo Civil, (..) (fl. 1.015, e-STJ).
+Argumenta (fls. 1.022-1.024, e-STJ):
+No presente caso, a inclusão da intimação no portal foi feita no dia 13.01.2022, sendo que o início do prazo para a intimação automática do sistema aconteceu no dia 14.01.2022 e encerrou-se em 24.01.2022, conforme se verifica da certidão extraída do portal do Tribunal de Justiça de Goiás (Doc. 07):
+(..)
+(..), HÁ nos autos provas a respeito da alegada duplicidade de intimações, (ii) HOUVE a geração da respectiva certidão constando "intimação lida" e (iii) o recorrente TROUXE aos autos o elemento que se sobrepõe a fundamentação outrora tecida.
+Ressalta-se que a referida certidão trata-se de documento legal, expedido pelo portal de intimações do Tribunal e tem como finalidade, justamente, comprovar a intimação da Embargante e, portanto, não pode ser simplesmente ignorada pelos nobres julgadores.
+Desta forma, não há que se falar na ausência de comprovação por parte da Recorrente.
+Com efeito, os acórdãos tal como lançados infringem, deliberadamente, os dispositivos colacionados acima, pois deram interpretações completamente distintas do que dispõe a lei.
+Desta forma, reitera-se o fato do presente recurso especial ter um objeto claro: definir se a regra legal que trata da informatização do processo judicial, mesmo diante de tão categórico e enfática locução, pode ser flexibilizada e, deliberadamente, violada pelo Tribunal a quo.
+Contrarrazões às fls. 1.083-1.085, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 31 de janeiro de 2023.
+De início, constato que não se configura a suposta infringência aos arts. 489 e 1.022 do Código de Processo Civil de 2015, pois o colegiado originário julgou integralmente a lide e solucionou a controvérsia de maneira amplamente fundamentada, em conformidade com o que lhe foi apresentado.
+Claramente se observa que não se trata de omissão, contradição ou obscuridade, tampouco de correção de erro material, mas sim de inconformismo direto com o resultado do julgamento, que foi contrário aos interesses da recorrente.
+No mais, melhor sorte não assiste à agravante.
+Com efeito, a Corte Especial do STJ, no julgamento dos EAREsp 1.663.952/RJ, cujo acórdão transitou em julgado em 30.8.2021, firmou o seu entendimento no sentido de que, havendo, concomitantemente, publicação pelo DJe e intimação eletrônica, será considerada apenas a data desta última na contagem dos prazos processuais, uma vez que os arts. 4º e 5º da Lei 11.419/2006 lhe conferiram preponderância sobre a primeira.
+Contudo, na hipótese em exame, o Tribunal de origem, ao dirimir a controvérsia, assim se pronunciou (fls. 936-938, e-STJ):
+A pretensão recursal consiste, em suma, nos seguintes argumentos: (i) o recurso de apelação é tempestivo, visto que, em caso de duplicidade de intimações, pelo diário de justiça eletrônico (DJe) e pelo portal eletrônico (art. 5º da Lei 11.419/2006), deve prevalecer esta última; (ii) mesmo que não acolhida a justificativa, o recurso deve ser conhecido em razão do princípio da boa-fé, pois o erro na contagem do prazo teria ocorrido em virtude de falha do próprio sistema de processo eletrônico.
+De plano, vislumbro que o provimento judicial contestado deve ser mantido, por seus próprios fundamentos, diante da ausência de qualquer fato capaz de justificar a retratação prevista no art. 1.021, § 2º, do Código de Processo Civil (CPC), motivo pelo qual submeto a pretensão ao crivo dos ilustres componentes desta Turma Julgadora.
+Pois bem. Nos termos do art. 5º, § 1º, da Lei 11.419/2006, que regulamenta a intimação por meio do portal eletrônico, somente se considera realizada a intimação no dia em que o intimado efetiva a consulta eletrônica - ou deixa de fazê-lo pelo prazo de 10 dias -, exigindo-se a certificação nos autos acerca de sua realização. Confira-se:
+(..)
+Nesse contexto, de acordo com a jurisprudência do Superior Tribunal de Justiça (STJ), havendo duplicidade de intimações - no DJe e no portal eletrônico -, prevalece a realizada neste último, privilegiando-se a boa-fé processual e a confiança dos operadores jurídicos nos sistemas informatizados de processo eletrônico:
+(..)
+Ocorre que, no presente caso, não há provas a respeito da alegada duplicidade de intimações, porquanto, após a prolação da sentença (mov. 49), seguiu-se a informação de encaminhamento da intimação via diário da justiça eletrônico (DJe) (mov. 51), a qual fora seguida do recurso de apelação interposto pelo ora agravante (mov. 52).
+Nesse sentido, não consta do histórico dos autos a realização de intimação do agravante por meio portal eletrônico, visto que não houve a geração da respectiva certidão constando "intimação lida", mas apenas a intimação de seu advogado via DJe (mov. 51).
+Dessa forma, inexistindo a alegada duplicidade de intimações, tampouco prova de que o erro na contagem de prazo decorreu de falha do próprio sistema de processo eletrônico, deve prevalecer a intimação por meio do DJe, mantendo-se a decisão que reconheceu a intempestividade do recurso. Em casos análogos, esse tem sido o posicionamento desta Corte: (..)
+Assim, para ultrapassar a conclusão assentada no aresto recorrido, seria necessário o reexame das circunstâncias fáticas da causa, esbarrando a pretensão, mais uma vez, no óbice da referida Súmula 7/STJ. Sobre o tema:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE COMPROVAÇÃO POR MEIO DE DOCUMENTO HÁBIL NO ATO DE INTERPOSIÇÃO. PRAZO DE 15 DIAS ÚTEIS. INTEMPESTIVIDADE. DUPLICIDADE DE INTIMAÇÕES ELETRÔNICAS. PORTAL ELETRÔNICO PREVALECE SOBRE O DIÁRIO DA JUSTIÇA ELETRÔNICO. ENTENDIMENTO DA CORTE ESPECIAL. AUSÊNCIA DE COMPROVAÇÃO DA INTIMAÇÃO PELO PORTAL ELETRÔNICO POR MEIO DE DOCUMENTO IDÔNEO NO ATO DA INTERPOSIÇÃO DO RECURSO. JUÍZO DE ADMISSIBILIDADE. DUPLO CONTROLE. AGRAVO INTERNO DESPROVIDO.
+1. É intempestivo o recurso especial protocolizado após o prazo de 15 dias úteis, de acordo com o art. 1.003, § 5º, c/c o art. 219, caput, do CPC de 2015.
+2. A Corte Especial do Superior Tribunal de Justiça firmou entendimento de que havendo duplicidade de intimações eletrônicas nos autos, prevalece a feita pelo portal eletrônico em detrimento àquela realizada pelo Diário de Justiça eletrônico (EAREsp n. 1.663.952/RJ).
+3. Todavia, ausente nos autos documento hábil à comprovar a alegada data de publicação pelo sistema PJe não bastando, para tanto, a simples alegação ou o print de tela ou imagem de página extraída da internet, inseridos no corpo da petição do recurso.
+4. A decisão de admissibilidade na origem não vincula o Superior Tribunal de Justiça, que promoverá nova análise dos pressupostos recursais dos casos que lhe são submetidos.
+5. Agravo interno desprovido. (AgInt no REsp 1.915.567/DF, rel. Min. João Otávio de Noronha, Quarta Turma, j. em 28/11/2022, DJe de 30/11/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE OBRIGAÇÃO DE FAZER - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DO STJ QUE NÃO CONHECEU DO RECLAMO. IRRESIGNAÇÃO RECURSAL DOS DEMANDANTES.
+1. São intempestivos o recurso especial e o agravo (art. 1.042 do CPC/15) interpostos após o prazo de 15 (quinze) dias úteis previsto nos artigos 219 e 1.003, § 5º, do CPC/15.
+2. Não constam dos autos elementos aptos a demonstrar a suposta duplicidade de intimações. Ademais, a parte não trouxe qualquer documento idôneo para comprovar suas alegações a respeito da data que aduz ter sido efetivamente intimada.
+3. Agravo interno desprovido. (AgInt no AREsp n. 1.863.154/DF, relator Ministro Marco Buzzi, Quarta Turma, julgado em 11/10/2021, DJe de 21/10/2021.)
+Ante o exposto, conheço do Agravo para conhecer em parte do Recurso Especial, tão somente quanto à afronta aos arts. 489 e 1.022 do CPC/2015, e, nessa extensão, nego-lhe provimento.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
