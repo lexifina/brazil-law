@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de Recurso Especial interposto, com fundamento no art. 105, III, "a", da Constituição da República, contra acórdão do Tribunal Regional Federal da 5ª Região assim ementado (fl. 600, e-STJ):
+TRIBUTÁRIO. CREDITAMENTO DE PIS E COFINS. NÃO CUMULATIVIDADE. LEIS 10.637/02 E 10.833/03. CONCEITO DE INSUMO. ADEQUAÇÃO DO ACÓRDÃO RECORRIDO AO REsp 1.221.170/PR.
+Os Embargos de Declaração foram rejeitados (fls. 664-677, e-STJ).
+A parte recorrente alega violação aos arts. 489 e 1.022, II, do CPC; 3º da Lei 10.637/2002; 3º da Lei 10.833/2003; 6º, XIV, da Lei 7.713/1988; e 63 da MP 2.158-35/2002. Afirma, em petição padrão, que somente podem ser considerados "insumos para fins de apuração de créditos da Contribuição para o PIS/Pasep e da Cofins bens e serviços utilizados pela pessoa jurídica no processo de produção de bens e de prestação de serviços, excluindo-se do conceito os dispêndios realizados após a finalização do aludido processo, salvo exceções justificadas" (fl. 734, e-STJ). Aduz que a compensação cruzada é indevida (fl. 736, e-STJ).
+Contrarrazões apresentadas às fls. 746-756, e-STJ.
+É o relatório.
+Decido.
+Os autos deram entrada no Gabinete em 15.3.2023.
+A irresignação não merece acolhida.
+Inicialmente, é importante constar que o Tribunal de origem adequou o seu entendimento sobre o conceito de insumo à tese firmada pelo Superior Tribunal de Justiça no julgamento do REsp 1.221.170/PR, pelo rito dos Recursos Repetitivos.
+A parte recorrente sustenta que os arts. 489 e 1.022, II, do CPC; 6º, XIV, da Lei 7.713/1988; e 63 da MP 2.158-35/2002 foram violados, mas deixa de apontar, de forma clara, o vício em que teria incorrido o acórdão impugnado. Assim, é inviável o conhecimento do Apelo Nobre nesse ponto, ante o óbice da Súmula 284/STF. Cito precedentes :
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA DEMANDADA.
+1. A alegação de afronta ao art. 535 do CPC/73, vigente à época, de forma genérica, sem a efetiva demonstração de omissão do Tribunal a quo no exame de teses imprescindíveis para o julgamento da lide, impede o conhecimento do recurso especial ante a deficiência na fundamentação. Incidência da Súmula 284/STF.
+2. Acórdão recorrido em consonância com o entendimento desta Corte acerca da legitimidade passiva da demandada, a atrair a aplicação do disposto na Súmula 83/STJ. 2.1. Revisar as conclusões do órgão julgador acerca da legitimidade passiva, tal como pretende a recorrente, demandaria o revolvimento de fatos e provas, providência obstada pela Súmula 7 do STJ. Precedentes.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1.762.391/MG, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe 28/5/2021).
+PROCESSUAL CIVIL. AGRAVO INTERNO EM ARESP. ALEGAÇÃO GENÉRICA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. DEFICIÊNCIA DE ARGUMENTAÇÃO. SÚMULA 284/STF. RECURSO ESPECIAL QUANTO A QUESTÃO QUE, A DESPEITO DA OPOSIÇÃO DE ACLARATÓRIOS, NÃO FOI APRECIADA PELO TRIBUNAL A QUO. SÚMULA 211/STJ. AGRAVO INTERNO DO ENTE FEDERATIVO DESPROVIDO.
+1. Esta Corte Superior tem a diretriz de que é deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC/2015 se faz de forma genérica, sem especificar quais foram os incisos violados. Aplica-se, na hipótese, o óbice da Súmula 284 do STF (AgInt no AREsp 1.530.183/RS, Rel. Min. MARCO AURÉLIO BELLIZZE, DJe de 19.12.2019; AgInt no AREsp 1.559.920/SE, Rel. Min. FRANCISCO FALCÃO, DJe 22.10.2020).
+2. Na espécie, incide ao caso o óbice da Súmula 284/STF, uma vez que a parte recorrente aponta violação do art. 1.022 do CPC/2015, sem especificar, todavia, quais incisos teriam sido contrariados, a despeito da indicação de omissão, contradição, obscuridade ou erro material.
+3. Em referência à suposta violação ao art. 489, § 1o., IV, do CPC, sabe-se que é inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo (AgRg nos EREsp. 1.138.634/RS, Rel. Min. ALDIR PASSARINHO JÚNIOR, DJe 19.10.2010). Note-se, também: AgRg no AREsp 1.647.409/SC, Rel. Min. ROGÉRIO SCHIETTI CRUZ, DJe de 01.07.2020; AgInt no AREsp 1.264.021/SP, Rel. Min. RICARDO VILLAS BÔAS CUEVA, DJe de 01.03.2019; REsp 1.771.637/PR, Rel. Min. HERMAN BENJAMIN, DJe de 04.02.2019.
+4. Na presente demanda - e à luz dos julgados ilustrativos - , incide o óbice da Súmula 211/STJ, uma vez que a questão suscitada no Recurso Especial não foi examinada pela Corte de origem, a despeito da oposição de embargos de declaração. Ressente-se o apelo especial do requisito do prequestionamento.
+5. Agravo Interno do Ente Federativo desprovido.
+(AgInt no AREsp 1766826/RS, Rel. Ministro MANOEL ERHARDT (DESEMBARGADOR CONVOCADO DO TRF-5ª REGIÃO), PRIMEIRA TURMA, DJe 30/4/2021).
+PROCESSUAL CIVIL. (..) DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. (..)
+(..) II - A jurisprudência desta Corte considera que quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284, do Supremo Tribunal Federal.
+(..) (AgInt no REsp 1.630.011/RJ, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 30/3/2017).
+RECURSO ESPECIAL (..) DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. (..)
+1. Não se conhece do Recurso Especial em relação à ofensa ao art. 535 do CPC/1973, ao art. 1.022 do CPC/2015 e aos arts. 151, III, e 174 do Código Tributário Nacional quando a parte não aponta, de forma clara, o vício em que teria incorrido o acórdão impugnado. Aplicação, por analogia, da Súmula 284/STF.
+(..) (REsp 1.652.761/MG, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 24/4/2017).
+A Fazenda Nacional recorreu do acórdão proferido pela instância revisora suscitando desconformidade com o precedente proferido por esta Corte. Ledo engano do órgão fazendário, pois o Colegiado regional seguiu estritamente a jurisprudência do STJ. Segue trecho do aresto vergastado:
+Assim, considerando a necessária deferência que deve ser prestada ã tese firmada pelo STJ, impõe-se, enquanto medida impostergável para harmonização do tratamento da matéria, a realização de juízo de adequação, de modo a afastar a aplicação do conceito restritivo de insumo dado pelas Instruções Normativas da SRF 247/2002 e 404/2004, reconhecendo o direito do autor ao desconto dos créditos da Contribuição para o PIS e da COFINS calculados sobre as aquisições necessárias ao desempenho das atividades econômicas da empresa (operações relacionadas ao processo produtivo).
+Dessume-se que o decisum a quo está em sintonia com o atual entendimento deste Tribunal Superior, razão pela qual não merece prosperar a irresignação. Incide, in casu, o princípio estabelecido na Súmula 83/STJ: "Não se conhece do Recurso Especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida". Cumpre ressaltar que a referida orientação é aplicável também aos Recursos interpostos pela alínea "a" do art. 105, III, da Constituição Federal de 1988. Nesse sentido: REsp 1.186.889/DF, Segunda Turma, Relator Ministro Castro Meira, DJ de 2.6.2010.
+Diante do exposto, não conheço do Recurso Especial, com fulcro no art. 932 do CPC.
+Publique-se.
+Intimem-se.
