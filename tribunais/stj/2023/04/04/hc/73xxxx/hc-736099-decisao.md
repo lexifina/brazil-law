@@ -1,0 +1,58 @@
+DECISÃO
+RONALDO PEREIRA EMERICK alega sofrer coação ilegal no seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal Regional Federal da 2ª Região na Apelação Criminal n. 0004988-89.2009.4.02.5001.
+O paciente foi condenado, pelos crimes previstos nos arts. 2º da Lei n. 8.176/1991 e 55 da Lei n. 9.605/1998, à sanção de 4 anos de detenção e 275 dias-multa, em regime inicial aberto. A pena privativa de liberdade foi substituída por duas restritivas de direitos.
+A defesa se insurge contra a fixação da pena-base, ao argumento de que a elevação da reprimenda ocorreu de forma desproporcional e sem apresentação de devida fundamentação que a justificasse. Pleiteia, ainda, o reconhecimento da atenuante da confissão espontânea.
+Requer a concessão da ordem para reduzir a pena imposta.
+O Ministério Público Federal, em parecer do Subprocurador-Geral da República Francisco de Assis Vieira Sanseverino, às fls. 103-111, opinou pelo não conhecimento do habeas corpus.
+Decido.
+I. Pena-base
+O acusado foi condenado por incursão nos arts. 2º da Lei n. 8.176/1991 e 55 da Lei n. 9.605/1998. Aduz que, em relação ao crime ambiental (art. 55), a pena-base foi fixada no máximo previsto para o tipo penal em razão de apenas uma circunstância judicial desfavorável. Pleiteia, ainda, que seja reconhecida a atenuante da confissão espontânea, conforme orientação da Súmula n. 545 do STJ.
+A Corte de origem assim se manifestou (fls. 60-62):
+ ..
+No tocante à dosimetria da pena, a defesa pede: i) que seja fixada a pena no mínimo legal; ii) que se exclua a incidência da continuidade delitiva; iii) que se reconheça a presença da confissão e violação da súmula 545 do STJ; iv) que se aplique a atenuante genérica do art. 66 do CP, em observância ao princípio da duração razoável do processo.
+No tocante à dosimetria da pena, somente será acolhida a retirada da continuidade delitiva, eis que, ao que indicam os autos, as empresa somente atuou em local do processo DNPM 896.328. Os demais pedidos relativos à reanálise da fixação da pena devem ser negados e a pena base deve ser mantida tal como fixada. Para o crime do art. 2º da Lei n. 8.176/91, o magistrado entendeu pelo desvalor da conduta em virtude do tempo de duração da exploração ilegal, quase sete anos, e a quantidade de granito comercializados irregularmente.
+Está correto o juiz singular. em que pese o aumento possa ter extrapolado o que em geral se pratica, o art. 59 do CP traz em sua essência a possibilidade de o magistrado, mais próximo aos fatos, ponderar a necessidade de aumento da pena. Não vejo desproporção alguma entre os fatos, suas consequências e a pena aplicada.
+A confissão foi corretamente afastada, de vez que o réu embora tenha reconhecido os fatos em sede policial, desmentiu em juízo, o que autoriza o afastamento da atenuante, do art. 65, III, d, do CP.
+ ..
+Por outro lado, no que toca à pena de multa, assiste-lhe razão. De fato, a pena privativa de liberdade de três anos de reclusão é compatível com uma pena de multa de 175 dias-multa, no valor fixado na sentença de 2 (dois) salários mínimos vigente à época dos fatos.
+Isso porque, o Superior Tribunal possui orientação no sentido de que a extinção do índice utilizado como parâmetro para a fixação da pena pecuniária (multa) não elimina o preceito secundário, previsto na norma incriminadora, devendo ser restaurados os efeitos da lei geral, aplicando-se ao caso concreto o Código Penal, mais especificamente o disposto no § 1º do art. 49 do Código Penal, que fixa o salário mínimo como unidade de valor para a fixação da pena de multa.  ..
+Assim, para o crime descrito no art. 2º da Lei 8.176/91, a pena deve ser fixada em 3 (três) anos de detenção e 175 dias-multa, no valor acima fixado.
+Quanto ao crime previsto no art. 155 da Lei n. 9.605/98, o magistrado também elevou a pena privativa de liberdade em virtude das graves consequências do crime ambiental, ao fundamento de que houve alteração na capacidade de uso do solo, dano à flora pela remoção de 17 hectares de vegetação e prejuízos ambientais associados à extração mineral, conforme detalhamento do laudo pericial de fls. 124/136/IPL.
+Assim, fixou a pena-base, em 1 (um) ano de detenção e 20 (vinte) dias-multa, estes no valor unitário de 2 (dois) salários mínimos vigentes à data dos fatos, haja vista a vantagem econômica auferida com a prática delitiva, nos termos do art. 18 da Lei n. 9.605/98 c/c arts. 12 e 49, par. 1º, ambos do CP.
+Aqui a pena de multa também deve ser aumentada para se adequar aos critérios de proporcionalidade e às circunstâncias concretas colhidas nos autos. Nessa linha de raciocínio, a pena de multa deve ser fixada em 100 dias multa, no valor fixado na sentença para este crime, de 2 (dois) salários mínimos vigentes à época dos fatos, restando definitiva a pena em 1 (um) ano de detenção e 100 (cem) dias-multa, estes no valor unitário de 2 (dois) salário mínimo.
+O regime inicial de cumprimento de pena será o aberto, a teor do art. 33, § 2º, "c" e § 3º, ambos do Código Penal.
+Finalmente, presentes os requisitos do art. 44, do Código Penal, substituo a pena privativa de liberdade por duas restritivas de direitos, a serem definidas pelo Juízo de Execuções Penais, levando-se em consideração os meses de condenação, a condição econômico-financeira do réu e o grau de lesividade do crime cometido.
+A fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, nos arts. 5º, XLVI, da Constituição Federal, 59 do Código Penal e 387 do Código de Processo Penal.
+Todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleito o quantum de reprimenda a ser aplicada ao condenado criminalmente, visando à prevenção e à reprovação do delito perpetrado.
+Assim, para obter-se uma aplicação justa da lei penal, o julgador, dentro dessa discricionariedade juridicamente vinculada, há de atentar para as singularidades do caso concreto; deve, na primeira etapa do procedimento trifásico, guiar-se pelas oito circunstâncias relacionadas no caput do art. 59 do Código Penal. São elas: a culpabilidade; os antecedentes; a conduta social; a personalidade do agente; os motivos; as circunstâncias e as consequências do crime e o comportamento da vítima.
+Na hipótese, para ambos os crimes, a avaliação desfavorável da vetorial consequências do delito é idônea. Com efeito, o longo período de exploração ilegal e a quantidade elevada de mineral extraído (20.361 metros cúbicos), justificam a elevação da pena-base acima do mínimo previsto para o art. 2º da Lei n. 8.176/1991.
+Da mesma forma, a alteração na capacidade de uso do solo e o dano causado à flora pela remoção de 17 hectares de vegetação, além dos prejuízos ambientais detalhados em laudo pericial, motivam idoneamente a elevação da reprimenda relativa ao crime do art. 55 da Lei n. 9.605/1998.
+Quanto à proporcionalidade, relembro que o STJ admite a possibilidade de a sanção-base ser fixada no máximo da pena estabelecida no tipo penal mesmo na hipótese de apenas uma vetorial desfavorável, desde que haja fundamentação concreta que legitime tal procedimento.
+A pena-base do crime previsto no art. 2º da Lei n. 8.176/1991 foi acrescida em dois anos acima do mínimo. O intervalo é de quatro anos. Ponderadas a fundamentação explicitada e as circunstâncias do ilícito, entendo que o aumento é proporcional à gravidade da conduta praticada e demonstrada de forma concreta.
+No tocante ao crime previsto no art. 55 da Lei n. 9.605/1998, a pena-base foi acrescida em 6 meses, o que significou a sanção no máximo da reprimenda prevista para o referido delito (6 meses a 1 ano).
+Conforme já evidenciado, as graves consequências infligidas ao meio ambiente (17 hectares de vegetação devastados ilegalmente e danos comprovados mediante laudos) legitimam o aumento da pena no patamar estabelecido.
+Cumpre registrar, nesse ponto, dada a importância do tema nos tempos atuais, que a pena máxima abstratamente fixada (1 ano de detenção) não mais se afigura suficiente para prevenção e reprovação das condutas previstas no art. 55 da Lei n. 9.605/1998.
+Sobre a possibilidade de fixação da pena-base no máximo previsto no tipo penal, cito o seguinte julgado:
+ ..
+3. "Ainda que não especificadas as circunstâncias judiciais consideradas negativas pelas instâncias de origem, não há que se falar em ilegalidade no montante majorado, tendo em vista que é entendimento deste Sodalício que apenas uma vetorial desfavorável pode levar a pena-base ao patamar máximo permitido para o aumento, desde que sustentada por fundamentação suficiente, como na espécie" (AgRg no AREsp n. 1.253.065/SP, relator Ministro JORGE MUSSI, QUINTA TURMA, julgado em 23/4/2019, DJe 7/5/2019).
+4. Agravo regimental desprovido.
+(AgRg no REsp n. 1.525.998/SP, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 26/9/2022.)
+A confissão espontânea do réu deve ser reconhecida se influenciou o convencimento judicial. É irrelevante o fato de haver sido espontânea ou não, total ou parcial, ou até que haja ocorrido posterior retratação.
+De acordo com o entendimento desta Corte Superior: "A confissão espontânea do réu, ainda que tenha sido parcial ou qualificada, deve ser reconhecida, de modo a ensejar a atenuação da pena, se influenciou o convencimento judicial" (HC n. 236.624/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 21/10/2016).
+O Magistrado de primeira instância explicitou (fl. 21):
+ ..
+Afasto a confissão como possível circunstância atenuante da pena por considerar que o réu reconheceu diversos fatos em sede policial e, ao depois, desmentiu perante este Juízo, arguindo também justificativas para as condutas anteriormente asseveradas. Sendo assim, o acusado empreendeu uma espécie de confissão qualificada ou condicionada e, com isso, afastou-se da posição privilegiada pelo legislador no art. 65, III, "d" do CP.
+Conforme se observa, as instâncias antecedentes usaram as declarações (confissão qualificada em sede policial) do réu na formação do juízo de certeza sobre a autoria delitiva e, por essa razão, deve ser reconhecida a atenuante da confissão espontânea.
+II. Readequação da pena do crime do art. 2º da Lei n. 8.176/1991
+Na primeira fase, mantida a avaliação desfavorável da vetorial consequências do crime e a fração de aumento, a pena-base permanece em 3 anos de detenção mais 175 dias-multa.
+Na segunda etapa, reconhecida a atenuante da confissão espontânea, reduzo a pena intermediária na fração de 1/6, o que perfaz 2 anos e 6 meses de detenção mais 140 dias-multa.
+Ausentes causas de diminuição e de aumento, torno a pena definitiva em 2 anos e 6 meses de detenção mais 140 dias-multa.
+III. Readequação da pena - art. 5º da Lei n. 9.605/1998
+Na primeira fase, mantida a avaliação desfavorável da vetorial consequências, a pena-base permanece em 1 ano de detenção mais 100 dias-multa.
+Na segunda etapa, reconhecida a atenuante da confissão espontânea, reduzo a pena intermediária na fração de 1/6, o que perfaz 10 meses de detenção mais 83 dias-multa.
+Ausentes causas de diminuição e de aumento, torno a pena definitiva em 10 meses de detenção mais 83 dias-multa.
+O somatório das penas, em virtude do concurso material de condutas, é de 3 anos e 10 meses de detenção mais 223 dias-multa. Ficam mantidos o valor do dia-multa, o regime inicial aberto e a substituição da reprimenda por duas restritivas de direitos.
+IV. Dispositivo
+Ante o exposto, concedo a ordem de habeas corpus, em parte, para estabelecer a pena definitiva do paciente em 3 anos e 10 meses de detenção mais 223 dias-multa, no regime inicial aberto.
+Oficie-se ao Tribunal de origem bem como ao Juízo da execução, comunicando-lhes o teor desta decisão.
+Publique-se e intimem-se.
