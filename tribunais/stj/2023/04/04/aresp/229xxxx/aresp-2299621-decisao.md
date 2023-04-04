@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de agravo apresentado por MARIO POLEWACZ contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO DE INSTRUMENTO - GRATUIDADE PROCESSUAL - AGRAVANTE - HIPOSSUFICIÊNCIA ECONÔMICA - NÃO COMPROVAÇÃO - FAVOR LEGAL - REJEIÇÃO - DECISÃO COMBATIDA - MANUTENÇÃO. AGRAVO DE INSTRUMENTO NÃO PROVIDO.
+Quanto à controvérsia recursal, alega violação do art. 98, caput, §§ 5º e 6º, do CPC, no que concerne à necessidade de concessão da justiça gratuita ao recorrente, e alternativamente, o diferimento das custas processuais, tendo em vista que não possui renda suficiente para suportar o pagamento desses elevados encargos, o que impede o seu direito de defesa, trazendo os seguintes argumentos:
+A norma estabelecida no caput do art. 98, do CPC/15 foi afrontada no caso concreto, circunstância que resultou (consequência jurídica) em claro prejuízo processual, já que o recorrente não terá acesso à prestação jurisdicional.
+ ..
+Observa-se, pela fundamentação colacionada, que o E. Tribunal a quo interpretou incorretamente a norma, estabelecendo o seu juízo de valor na situação econômica do recorrente dentro de um contexto social e não nos elevados custos do processo.
+Vale lembrar que o legislador, ao criar a norma, trouxe como paradigma o esforço (financeiro) necessário aos litigantes para o custeamento de uma ação judicial e não a situação patrimonial das partes; daí Rogério de Vidal Cunha afirmar que o requisito para a deferimento
+ ..
+Ou seja, não é porque uma pessoa possui bens imóveis ou participações societárias que, impreterivelmente, teria condições financeiras para suportar o custeamento de todas as fases de um processo.
+Na situação sub juidice, é fato incontroverso que as custas exigidas para a distribuição dos embargos da execução são muito elevadas em decorrência do valor executado e, nessa ordem de ideias, o paradigma estabelecido para se negar o direito à justiça gratutita está errado.
+ ..
+Fato é que, o julgamento proferido pelo E. Tribunal a quo gerou uma situação de vulnerabilidade, totalmente distinta daquela esperada pelo legislador, já que, diante dos altos custos do processo, o recorrente não conseguirá exercer o seu direito de defesa e, deste fato decorre a necessidade de acolher o RESP e determinar a reforma do V. ACÓRDÃO para se conceder o direito previsto no art. 98, do CPC/15.
+A norma extraída do § 5º, do art. 98, do CPC/15 também foi afrontada fato que resultou em uma consequência indesejada pelo legislador, porquanto, a negativa de sua vigência impedirá que o recorrente tenha acesso à prestação jurisdicional.
+Diferentemente da justificativa apresentada no julgado, a norma em comento deveria ter sido aplicada para se garantir o direito de defesa, mediante o pagamento diferido das custas.
+ ..
+Portanto, demonstrado que a não aplicação da norma criou uma situação prejudicial ao litigante, muito diferente daquela esperada pelo legislador - já que, o recorrente não conseguirá exercer o seu direito de defesa sem o recolhimento antecipado das custas processuais - tem-se que este RESP deverá ser acolhido para se outorgar provimento ao AGRAVO DE INSTRUMENTO (fls. 29-31).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+No caso, os documentos indicam que o agravante é empresário, possui diversos imóveis, veículos, 95% das quotas da empresa executada, com patrimônio avaliado em torno de R$ 271.000,00 (fls. 836/844). Por sua vez, os extratos bancários demonstram diversos recebimentos, em altos valores mensais, situação que descaracteriza a pretensão (fls. 931/966). Não é hipossuficiente economicamente, motivo pelo qual também não prevalece o direito ao diferimento das custas (fl. 22).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à existência ou não dos requisitos para a concessão da gratuidade de justiça às partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Nesse sentido, o STJ já decidiu sobre a "inviabilidade de verificar se as partes no caso poderiam ou não serem contempladas pelo benefício da gratuidade de justiça, por demanda reexame de contexto fático-probatório". (AgInt no AREsp 897.498/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 16/8/2016.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.570.272/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 20/5/2020; AgInt no AREsp 1.000.602/RS, relator Ministro Og Fernandes, Segunda Turma, DJe de 22/5/2020; AgInt no AREsp 1.564.850/MG, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/3/2020; AgInt no AREsp 1.173.115/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 18/4/2018; REsp 1.784.623/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 11/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
