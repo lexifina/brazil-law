@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de petição interposta por NZN EMPREENDIMENTOS IMOBILIÁRIOS LTDA., requerendo a reconsideração da decisão de fls. 7.005/7.007 (e-STJ).
+Os requeridos peticionaram às fls. 7.458/7.462 (e-STJ), informando que o presente pedido de reconsideração, que na verdade seriam memoriais, teria sido apreciado nos autos do agravo interno (e-STJ fls. 7.106/7.011), sustentando ser devido o encaminhamento dos autos à Presidência do STJ para análise da admissibilidade dos recursos extraordinários.
+É o relatório.
+Na decisão de fls. 7.005/7.007 (e-STJ), foi indeferido o pedido da parte requerente nos seguintes termos:
+Trata-se de petição interposta por IVO PINHEIRO RUSSI e YEDA MARIA CESAR (e-STJ fls. 6.823/6.946).
+Relatam que (e-STJ fls. 6.824/6.825):
+Conforme se infere do processado, trata-se de AÇÃO DE CONVERSÃO DE OBRIGAÇÃO DE FAZER proposta por JOÃO DE LORENZO JÚNIOR, MARIA LÚCIA PENHA IPPOLITO DE LORENZO, RAFAEL DE LORENZO, REGINA MARIA DE LORENZO STRENGER e RICARDO DE LORENZO contra NZM EMPREENDIMENTOS IMOBILIÁRIOS LTDA e ERG EMPREENDIMENTOS IMOBILIÁRIOS LTDA -EPP, ação essa JULGADA PROCEDENTE, tendo sido determinada a penhora e avaliação do imovel residencial dos ora Requerentes, matriculados sob o nº 1.826 do 1º RI. de Santos/SP, imóvel esse sito à Rua G nº 231, bairro José Menino, CEP 11065-730, Santos/SP, estando em fase de Cumprimento Provisório de Sentença (Processo nº 0001466-58.2020.8.26.0477), em trâmite perante a DD. 1ª Vara Cível da Comarca de Praia Grande-SP.
+Fora proferida r. sentença de IMPROCEDÊNCIA DA AÇÃO, reformada pela Egrégia Segunda Instância, tendo as duas empresas Requeridas lançado mão de Recurso Especial, obstado por r. despacho da Presidência do Tribunal de Justiça de São Paulo, vindo a ser interposto AGRAVO CONTRA DESPACHO DENEGATÓRIO DE RESP, recurso esse conhecido por Vossa Excelência, entretanto desacolhido, sobrevindo Embargos Declaratórios e, atualmente, em fase de AGRAVO INTERNO.
+Em referida demanda, pretendem os Autores da ação originária receberem a quantia remanescente das coexecutadas NZM e ERG são, respectivamente, de R$.13.133.219,38 e R$.15.674.137,21 (cálculo para março/2021).
+Tal pretensão de constrição judicial se deu em razão de os ora Requerentes figurarem no negócio jurídico como DEVEDORES SOLIDÁRIOS E ASSUNTORES DO DÉBITO DA EMPRESA ERG.
+Sustentam ser devida sua intervenção nos autos como assistentes litisconsorciais, pois "a intervenção dos ora Requerentes exige a demonstração do real interesse jurídico na demanda, verificável pela possibilidade de lhes sobrevir prejuízo juridicamente relevante, o que ocorre na hipótese dos autos" (e-STJ fl. 6.843).
+Aduzem que os "Autores deveriam ter incluído no polo passivo da ação todos os envolvidos no negócio jurídico em discussão", e que tal falha insanável resulta na (e-STJ fls. 6.845/6.846):
+(..) ANULAÇÃO DE TODOS OS ATOS PROCESSUAIS A PARTIR DO R. DESPACHO INICIAL QUE DETERMINOU AS CITAÇÕES DAS CORREQUERIDAS ERG E NZM, com determinação de EMENDA DA INICIAL PARA INCLUSÃO DOS ORA REQUERENTES, já que o direito em disputa também envolve interesses de Ivo e Yeda, participantes da relação jurídica de direito material discutida, porquanto na qualidade de ASSUNTORES DA DÍVIDA DA ERG, dívida essa aliás dada plena quitação pelos Autores, em razão da GARANTIA HIPOTECÁRIA do imóvel residencial dos Requerentes, garantia essa sendo agora executada, DEVERIAM TER SIDO INCLUÍDOS NA AÇÃO NA QUALIDADE DE LITISCONSORTES PASSIVOS NECESSÁRIOS, MAS NÃO O FORAM! Portanto, de rigor a DECRETAÇÃO DE NULIDADE DE TODO O PROCESSADO A PARTIR DO R. DESPACHO INICIAL DE CITAÇÃO.
+Ressaltam que, inexistindo citação válida dos requerentes, estaria configurada a prescrição e a decadência "do direito de ação dos Autores" (e-STJ fl. 6.847).
+Requerem (e-STJ fls. 6.854/6.855):
+(..) a acolhida dos pedidos formulados (assistência litisconsorcial, anulação de todo o processado a partir do r. despacho que determinou a citação de parte dos envolvidos na relação jurídica de direito material discutida nos autos, reconhecendo-se em consequência, a pedido e "ex officio", a ocorrência dos institutos da PRESCRIÇÃO e da DECADÊNCIA, não sem antes oportunizar-se às demais partes envolvidas que se manifestem acerca da pretensão posta à lume pelos ora Requerentes, JULGANDO-SE IMPROCEDENTE A AÇÃO, restabelecendo-se a r. sentença de primeira instância, caso não ocorra a reforma automática do quanto decidido através do Agravo Interno, em sede de juízo de retratação, que é o que aqui se pretende.
+Os requeridos apresentaram impugnação e requereram a imposição de multa por litigância de má-fé (e-STJ fls. 6.947/6.957).
+É o relatório.
+Decido.
+Os requerentes buscam atuação como assistentes litisconsorciais, visando a anulação do processo a partir do despacho que determinou a citação e a análise dos pontos referentes à prescrição e à decadência.
+No entanto, as referidas matérias não foram apreciadas pelo Tribunal de origem e não são tratadas nas razões do recurso especial, o que impossibilita o exame das teses apresentadas, pois, nos presentes autos, a questão sujeita à analise perante esta Corte Superior fica restrita à admissibilidade e, se for o caso, ao mérito do recurso especial.
+Portanto, cabe à parte requerer, na origem, o que entender de direito.
+Diante do exposto. INDEFIRO os pedidos.
+Irresignada, a parte requerente interpôs agravo interno, julgado nos termos da seguinte ementa (e-STJ fl. 7.106):
+PROCESSUAL CIVIL. AGRAVO INTERNO NA PETIÇÃO NO AGRAVO EM RECURSO ESPECIAL. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 282 DO STF. DECISÃO MANTIDA.
+1. A simples indicação de afronta a dispositivo legal, sem debate - sequer implícito - da matéria pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento (Súmula n. 282 do STF).
+2. Agravo interno a que se nega provimento.
+Portanto, prejudicado o pedido de reconsideração, tendo em vista que a decisão monocrática foi mantida no julgamento do agravo interno.
+Diante do exposto, JULGO PREJUDICADO o pedido de reconsideração e DETERMINO a remessa dos autos à Presidência desta Corte Superior, para apreciação da admissibilidade dos recursos extraordinários (e-STJ fls. 7.116/7.218 e 7.305/7.456).
+Publique-se e intimem-se.
