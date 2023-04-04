@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de Conflito n egativo de Competência instaurado entre o Juízo Federal da 1ª Vara de Londrina - SJ/PR e o Tribunal de Justiça do Estado do Paraná nos autos de Ação de Obrigação de Fazer cumulada com Pedido de Danos Morais contra a Editora e Distribuidora Nacional S.A, em que o autor pleiteia a disponibilização de disciplinas para que possa completar a grade do 10º semestre, além do pagamento de indenização por danos morais.
+Dispensei manifestação do Ministério Público por se tratar de matéria conhecida no STJ.
+É o relatório.
+Decido.
+A instauração do presente Conflito de Competência tem por escopo a definição do Juízo competente para julgamento de demanda cujo mérito tem por objetivo obrigar a instituição de ensino a ofertar as duas matérias obrigatórias para a conclusão do curso de graduação em Medicina Veterinária - quais sejam: Tópicos Especiais em Medicina Veterinária I e Clínica Médica de Pequenos Animais -, além de pedir indenização por danos morais.
+Trata-se, portanto, de pretensão que não se relaciona com a matéria sedimentada pelo Tema 1.154 do STF, tendo em vista a ausência de pedido relativo à expedição de diploma.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO CONFLITO NEGATIVO DE COMPETÊNCIA INSTAURADO ENTRE JUÍZOS ESTADUAL E FEDERAL. DEMANDA PROPOSTA CONTRA INSTITUIÇÕES PRIVADAS DE ENSINO SUPERIOR PARA FINS DE PAGAMENTO DE INDENIZAÇÃO DECORRENTE DO DESCUMPRIMENTO DE OFERTA DE CURSO COM DUPLA TITULAÇÃO. EFICÁCIA VINCULATIVA DE TESE FIRMADA PELO SUPREMO TRIBUNAL FEDERAL NO JULGAMENTO DO RE 1.304.904/SP (TEMA 1.154).
+1. Trata-se de Conflito Negativo de Competência entre a Turma Recursal do Juizado Especial do Estado de Goiás e o Juízo Federal da 15ª Vara do Juizado Especial Cível de Goiânia (SJ/GO), nos autos de Ação de Indenização por Danos Morais ajuizada por particular contra instituição privada de ensino superior.
+2. O Supremo Tribunal Federal, quando do julgamento do RE 1.304.904/SP (Tema 1.154), sob a sistemática da Repercussão Geral, firmou orientação segundo a qual compete à Justiça Federal processar e julgar feitos em que se discuta controvérsia relativa à expedição de diploma de conclusão de curso superior realizado em instituição privada de ensino que integre o Sistema Federal de Ensino, mesmo que a pretensão se limite ao pagamento de indenização.
+3. Conforme trechos extraídos das manifestações dos juízos suscitado e suscitante, a celeuma trazida na inicial diz respeito ao pagamento de indenização em virtude da expedição de diploma de modo divergente ao que foi prometido. Da leitura do inteiro teor do acórdão do STF, constato que a moldura fática naquele julgado não é análoga à relatada nesse autos, pois não se discute a validade do diploma, mas a oferta não cumprida de curso com dupla titulação (Farmácia e Bioquímica).
+4. Agravo Interno provido para declarar competente a Justiça comum estadual.
+(AgInt no CC 191.045/GO, Rel. Ministro Herman Benjamin, Primeira Seção, DJe de 13/12/2022.)
+EMBARGOS DE DECLARAÇÃO. NEGATIVA DE SEGUIMENTO. RECURSO EXTRAORDINÁRIO. ERRO MATERIAL. CONFLITO DE COMPETÊNCIA. RESPONSABILIDADE CIVIL. INTERESSE DA UNIÃO. DEMANDA INDENIZATÓRIA. VIOLAÇÃO DO ART. 109, I, DA CONSTITUIÇÃO FEDERAL. ACÓRDÃO RECORRIDO EM DISSONÂNCIA COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. EMBARGOS ACOLHIDOS, COM EFEITOS MODIFICATIVOS.
+(..)
+2. Da leitura do acórdão recorrido, constata-se a presença de erro material, pois o Tema 1.076/STF trata do dever de indenizar decorrente da demora ou negativa de entrega de diplomas ou certificados de conclusão de curso superior ministrado por entidade privada de ensino no âmbito de programa estadual de capacitação de docente, não se estendendo ao caso dos autos, em que se discute a competência para processar e julgar demanda envolvendo instituição particular de ensino superior.
+3. O Supremo Tribunal Federal, por ocasião do julgamento do RE n. 1.304.964/RG, reconheceu a repercussão geral da questão (Tema 1.154/STF) e pronunciou a seguinte tese: "Compete à Justiça Federal processar e julgar feitos em que se discuta controvérsia relativa à expedição de diploma de conclusão de curso superior realizado em instituição privada de ensino que integre o Sistema Federal de Ensino, mesmo que a pretensão se limite ao pagamento de indenização".
+4. No presente recurso, pretende o recorrente o reconhecimento da competência da Justiça Federal, nos termos do art. 109, I, da Constituição Federal.
+5. A Primeira Seção desta Corte Superior, no aresto objeto do presente recurso extraordinário, concluiu pela competência da Justiça do Estado do Paraná, tendo consignado que "a autora já recebeu o diploma, de sorte que remanesce apenas o pedido formulado na petição inicial voltado à condenação dos réus ao pagamento de danos morais, em relação ao qual não se mostra a União como parte legítima passiva".
+6. O acórdão recorrido afigura-se, a princípio, dissonante da tese firmada pelo Supremo Tribunal Federal no Tema n. 1.154/STF.
+(..)
+8 . Embargos de declaração acolhidos, com efeitos modificativos, com determinação de encaminhamento dos autos à Primeira Seção do STJ para análise de eventual juízo de retratação.
+(EDcl nos EDcl no AgInt no RE nos EDcl no CC 161.407/PR, Rel. Ministro Jorge Mussi, Corte Especial, DJe de 27/5/2022.)
+Ante o exposto, conheço do Conflito de Competência para declarar competente o Juízo Estadual, qual seja, o Juízo da 2ª Vara Cível de Londrina - PR.
+Publique-se.
+Intimem-se.
