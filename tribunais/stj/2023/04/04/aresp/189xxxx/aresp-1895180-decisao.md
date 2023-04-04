@@ -1,0 +1,23 @@
+DECISÃO
+Agrava-se da decisão que inadmitiu o recurso especial interposto por ROBERTO RIVELINO NEVES, com fundamento no art. 105, inciso III, alínea a, da CF/1988, no qual se insurgira contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado:
+AGRAVO EXECUÇÃO FISCAL - IPTU de 2015 - Município de Monte Alto Ausente penhora nos autos, não houve início de prazo para embargar Por maior razão, não há que se pretender, validamente, devolução de aludido prazo Precedente desta Câmara - RECURSO IMPROVIDO (fl. 526).
+Nas razões do recurso especial, a parte ora agravante aponta a violação dos arts. 2º, § 8º, da LEF e 10 do CPC/2015. Argumenta que tal violação se dá na medida em que o Tribunal local confirmou a decisão que manteve a continuidade da execução fiscal sem a sua intimação para apresentar os embargos à execução.
+Intimada, a parte agravada apresentou as contrarrazões (fls. 546/551), sobrevindo o juízo de admissibilidade negativo, razão pela qual se interpôs o presente agravo em recurso especial ora em análise.
+É o relatório.
+A irresignação não merece prosperar.
+Nos  exatos  termos  do  acórdão  recorrido,  o  Tribunal  de  origem  assim  se  manifestou  sobre  o cerne da  insurgência:
+(..) a r. decisão agravada deixa claro que não houve penhor nos autos, tanto que foi determinada a constrição de bens via sistemas BACENJUD e RENAJUD (fls. 503/4).
+Se é assim, sequer teve início o prazo para embargar, motivo pelo qual não se pode pretender, validamente, a devolução de prazo para embargar.
+Neste sentido, ideia expressa em precedente desta Câmara:
+AGRAVO DE INSTRUMENTO - Execução Fiscal - Garantia da execução efetivada com Penhora on line - ausência de intimação da penhora - necessidade - início do prazo para embargar a partir da intimação da penhora efetivada com o depósito nos termos do art. 16, III, LEF - Necessidade de intimação e abertura do prazo para embargar - Precedentes do STJ - Recurso provido (TJSP; Agravo de Instrumento 9019558-87.2009.8.26.0000; Relator (a): Eutálio Porto; Órgão Julgador: 15ª Câmara de Direito Público; Foro de Diadema - 1ª Vara da Fazenda Pública; Data do Julgamento: 23/07/2009; Data de Registro: 01/09/2009).
+Pelos fundamentos acima expostos, nega-se provimento ao recurso (fls. 526/527).
+O Tribunal de origem manteve a decisão que indeferiu a concessão de prazo para interposição de embargos, chancelando entendimento de que, na hipótese em comento "ainda não houve penhora nestes autos, e na execução fiscal o prazo para interposição de embargos à execução, que é de 30 (trinta) dias, começa a fluir a partir da intimação da parte executada sobre a penhora, nos termos do disposto no artigo 16, III, da Lei 6.830/80" (fls. 512, g.n.).
+Dessa forma, entender de forma diversa acarretaria revolver fatos e provas, medida defesa em recurso especial conforme preceitua o teor da Súmula 7/STJ. Isso porque o art. 16, III, da Lei 6.830/1980 estabelece como requisito para a abertura de prazo para a interposição de embargos a intimação da parte executada sobre a penhora, o que, conforme consignado pelas instâncias ordinárias, não ocorreu. Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO REGIMENTAL. INEXISTÊNCIA DE VIOLAÇÃO DO ART. 535 DO CPC. EXECUÇÃO FISCAL. PRAZO PARA OPOSIÇÃO DE EMBARGOS AO DEVEDOR. TERMO INICIAL. INTIMAÇÃO PESSOAL DA PENHORA.
+1. Não há violação do art. 535 do CPC, quando todas as questões postas em debate são devidamente enfrentadas no acórdão recorrido.
+2. Entendimento desta Corte no sentido de que o prazo para oposição de embargos à execução fiscal é contado a partir da data da intimação pessoal da penhora, nos termos do art. 16, III, da Lei n. 6.830/80, e não da juntada aos autos do respectivo mandado, devendo constar expressamente deste a advertência do prazo para oferecimento dos respectivos embargos.
+3. Espécie em que o Tribunal a quo consignou que a parte recorrente não juntou a certidão de intimação da penhora para poder precisar o marco inicial do prazo. Desse modo, não há como verificar se a executada foi intimada expressamente do prazo ou não. Incidência da Súmula 7/STJ.
+4. Agravo regimental não-provido (AgRg no REsp n. 843.721/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 10/11/2008.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Por fim, caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimações necessárias.
