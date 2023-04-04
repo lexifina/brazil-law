@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de agravo apresentado por CARLOS ROBERTO DE FREITAS e OUTRO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+DIREITO PROCESSUAL CIVIL - EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CÍVEL - VÍCIOS DESCRITOS NO ARTIGO 1.022 DO CÓDIGO DE PROCESSO CIVIL - OMISSÃO - PRESENÇA - EMBARGOS ACOLHIDOS - SIMULAÇÃO - VERIFICAÇÃO - SENTENÇA MANTIDA - APELO NÃO PROVIDO
+ ..
+- Haverá simulação nos negócios jurídicos quando contiverem declaração, confissão, condição ou cláusula não verdadeira.
+- Extraindo-se, dos autos, que houve formalização de locação fictícia para assegurar o pagamento de dívida contraída pelos réus, em outro negócio, é de se julgar improcedente o pedido de despejo e cobrança, pela falta de pagamento de aluguéis.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 167 do CC. Sustenta a inexistência de contrato locação simulado, pois ausentes os requisitos legais para tanto, trazendo o(s) seguinte(s) argumento(s):
+5.1. O v. acórdão entendeu pela existência de simulação no caso dos autos e isso, nos seus dizeres, porque "o que se vê, do processado, é a formalização de locação fictícia para assegurar o pagamento de dívida contraída pelos réus, em outro negócio."
+5.2. Em primeiro lugar, não há controvérsia nos autos sobre a existência de múltiplos negócios jurídicos entre as partes, tanto que o próprio v. acórdão anotou tal circunstância.
+ ..
+Na espécia, o v. acórdão sequer apontou qualquer seria a intenção de violar a lei ou de prejudicar terceiros, até porque o negócio jurídico que teria dado azo à locação é efetivamente lícito e firmado entre partes maiores e capazes.
+5.6. Logo, não se poderia qualificar o contrato de locação ajustado entre as partes de simulado porque ausentes os requisitos legais para tanto, o que evidencia a violação ao art. 167 do Código Civil.
+5.7. Não é só. Houve verdadeira confusão entre conceitos jurídicos distintos: POSSE x PROPRIEDADE. Os recorridos nunca foram os proprietários do imóvel locado, já que o registro imobiliário aponta outras pessoas com tal qualidade. Eram apenas e tão somente os detentores (possuidores) do imóvel e tinham um contrato de compra e venda não registrado.
+5.8. Ocorre que, dentre os diversos negócios entabulados entre as partes - o que foi reconhecido pelo próprio acórdão recorrido - havia um contrato de cessão de direitos e obrigações, através do qual os recorridos cederam os direitos do referido contrato de compra e venda aos recorrentes e exatamente por isso foi celebrada a locação, que de simulada nada tem!!
+5.9. Repita-se: a locação não se vincula com a PROPRIEDADE, mas com a POSSE!! E a posse do imóvel era dos recorrentes em razão da cláusula constituti do contrato de cessão de direitos que firmaram com os recorridos.
+5.10. Logo, se os recorrentes detinham a posse do imóvel - posse recebida dos próprios recorridos!! - era óbvio e ululante que poderiam ajustar o contrato de locação do imóvel.
+5.11. Não há qualquer vício de simulação no caso, tanto que os recorridos sequer questionaram a celebração do contrato de cessão de direitos e da própria LOCAÇÃO.
+5.12. Portanto, o v. acórdão recorrido violou as previsões do art. 167 do Código Civil, a autorizar a admissão e o provimento deste apelo especial (fls. 343/345).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Na inicial, pretendem os autores, ora embargantes, o despejo dos réus, ora embargados, e cobrança, em relação a imóvel objeto de locação firmada entre as partes, aduzindo que estes nunca realizaram o pagamento dos aluguéis.
+O douto juízo rejeitou a pretensão, sob o fundamento de que, do que emergiu dos autos, está configurada simulação, pois o contrato que baseia o pleito inicial teve a finalidade de mascarar outro negócio ajustado entre as partes, de compra e venda de semoventes - que não foi adimplido - sendo os requeridos os verdadeiros proprietários do imóvel, o qual nunca esteve sob o domínio dos requerentes.
+ ..
+In casu, chego à mesma conclusão do ilustre Sentenciante, por verificar que o contrato de locação, em relação ao qual se pretende cobrar, é uma simulação de outro ajuste, como dito, de compra e venda de gado, que não foi quitado pelos réus.
+Objetiva-se, assim, o recebimento da dívida sobre outra roupagem, a caracterizar simulação relativa.
+O suposto contrato de locação encontra-se às fls. 10/14, doc. único, referindo-se ao mesmo imóvel constante do "Instrumento Particular de Compra e Venda" de fls. 120/123, doc. único, figurando, como comprador, o réu, ao qual foi reconhecido o direito de posse sobre ele - porquanto ainda não registrado - por meio de sentença proferida, em sede de embargos de terceiro, pelo juízo da Comarca de Igarapava (fls. 130/132, doc. único).
+Não houve demonstração, pelos autores, muito menos alegação, no momento processual adequado, de que teriam a posse em relação o bem, de modo a permitir que o alugassem.
+Em arremate, o que se vê, do processado, é a formalização de locação fictícia para assegurar o pagamento de dívida contraída pelos réus, em outro negócio, não havendo razão para modificação da sentença recorrida, que julgou improcedente o pedido inicial (fls. 328/331, grifos meus).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
