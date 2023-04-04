@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de embargos de declaração, oposto por JURACI CONCEICAO VASCO SOUZA e OUTROS, em face de decisão monocrática da lavra deste signatário (fls. 804/810, e-STJ), que negou provimento ao agravo, em razão da ausência de negativa de prestação jurisdicional e da incidência das Súmulas 83 e 7 do STJ.
+Irresignados (fls. 812/816, e-STJ), os embargantes alegam a existência de omissão na decisão embargada acerca do REsp 1.604.412/SC, utilizado com fundamento para afastar a prescrição intercorrente. Sustentam que no caso, a suspensão e/ou arquivamento se deu por inércia do credor e, não por ausência de bens penhoráveis.
+Afirmam o seguinte:
+"Ou seja, o caso concreto diverge daquele julgado no REsp 1.604.412/SC, já que a presente demanda em momento algum foi suspensa ou arquivada por ausência de bens (cabe lembrar que há inclusive bens penhoráveis antes mesmo do início do transcurso do prazo da prescrição intercorrente) ou por iniciativa do exequente; já na demanda objeto do RESP acima mencionado, o feito havia sido arquivado diante do pedido feito pelo próprio exequente, tendo sido aplicado, assim, o prazo prévio de um ano para somente após iniciar-se a contagem da prescrição intercorrente.
+O presente feito não admite discussões acerca do transcurso de um ano para início da contagem da prescrição intercorrente, já que não é caso de arquivamento ou suspensão da ação por ausência de bens penhoráveis; logo, não há como aplicar o entendimento constante no RESP 1.604.412/SC, conforme acima demonstrado". (fl. 813, e-STJ).
+Impugnação às fls. 818/820, e-STJ.
+É o relatório.
+Decido.
+Os embargos de declaração não merecem acolhida.
+1. Nos estreitos limites do artigo 1.022 do CPC/2015, os embargos de declaração visam somente suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material existente em decisão ou acórdão, não podendo ser utilizado como instrumento para a rediscussão do julgado, como pretende a parte embargante.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. OBJETIVO DE REFORMA DA DECISÃO. INADEQUAÇÃO. TERCEIRO INTERESSADO. EQUIPARAÇÃO AO ASSISTENTE. ASSESSORIEDADE.
+1. Os embargos de declaração objetivam sanar eventual existência de obscuridade, contradição, omissão e/ou erro material no julgado (CPC, art. 1022), sendo inadmissível a oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, mormente porque não são cabíveis para provocar novo julgamento da lide.
+2. O terceiro possui legitimidade para recorrer de decisão judicial quando não é parte, mas, para tanto, deve ter interesse jurídico no processo e atuará de forma análoga ao assistente.
+3. A assistência simples segue o regime da acessoriedade, cessando se o assistido não recorre. Precedentes.
+4. Embargos de declaração rejeitados.
+(EDcl no REsp n. 1.909.451/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 11/4/2022, DJe de 19/4/2022.)
+No caso, as razões dos embargos revelam tão somente o intuito de reapreciação da questão já decidida, o que não se admite com a objetividade do recurso manejado.
+É que, a pretexto da existência de omissão na decisão singular, na verdade, pretende a modificação do decisum no ponto em que aplicou-se o óbice das Súmulas 83 e 7 desta Corte Superior, porquanto o Tribunal local afastou a prescrição intercorrente tendo em vista que, ao contrário do sustentado pelos agravantes, não restou caracterizada a inércia do credor.
+Confira-se os seguintes excertos do decisum pertinente à insurgência ora em exame (fls. 807/809, e-STJ):
+2. Cinge-se a controvérsia recursal quanto à ocorrência da prescrição intercorrente.
+Com efeito, a Segunda Seção deste Superior Tribunal de Justiça, por ocasião do julgamento do Incidente de Assunção de Competência no REsp 1.604.412/SC, em 27/06/2018, uniformizou as seguintes teses acerca da prescrição intercorrente nas execuções ajuizadas antes da vigência do CPC/2015:
+i) Incide a prescrição intercorrente, nas causas regidas pelo CPC/73, quando o exequente permanece inerte por prazo superior ao de prescrição do direito material vindicado, conforme interpretação extraída do art. 202, parágrafo único, do Código Civil de 2002;
+ii) O termo inicial do prazo prescricional, na vigência do CPC/1973, conta- se do fim do prazo judicial de suspensão do processo ou, inexistindo prazo fixado, do transcurso de 1 (um) ano (aplicação analógica do art. 40, § 2º, da Lei 6.830/1980);
+iii) O termo inicial do art. 1.056 do CPC/2015 tem incidência apenas nas hipóteses em que o processo se encontrava suspenso na data da entrada em vigor da novel lei processual, uma vez que não se pode extrair interpretação que viabilize o reinício ou a reabertura de prazo prescricional ocorridos na vigência do revogado CPC/1973 (aplicação irretroativa da norma processual);
+iv) O contraditório é princípio que deve ser respeitado em todas as manifestações do Poder Judiciário, que deve zelar pela sua observância, inclusive nas hipóteses de declaração de ofício da prescrição intercorrente, devendo o credor ser previamente intimado para opor algum fato impeditivo à incidência da prescrição.
+(..)
+Na espécie, a Corte de origem, ao decidir a demanda, adotou os seguintes fundamentos (fls. 476/474, e-STJ):
+Quanto à prescrição da pretensão, consoante entendimento doutrinário, para que seja caracterizada a prescrição intercorrente, no âmbito do processo civil, necessário o preenchimento concomitante de dois requisitos: 1) que o credor permaneça inerte, deixando de praticar atos processuais, bem como 2) que a ausência de movimentação perdure pelo mesmo prazo prescricional incidente sobre a pretensão da ação principal. Neste diapasão, o STF editou a Súmula nº 150, a qual dispõe que: "Prescreve a execução no mesmo prazo de prescrição da ação.".
+Assim, deixando a parte credora de promover o prosseguimento do feito, a prescrição intercorrente tem seu termo inicial a partir do último ato processual praticado, uma vez que a prescrição, por força do art. 240, §1º, do CPC, encontrava-se interrompida desde a citação válida, que retroagiu à data do ajuizamento da lide. E tal inércia, iniciada após a prática último ato, poderá perdurar, no máximo, pelo mesmo prazo prescricional assinado na lei para o ingresso da demanda executiva/que originou o título executivo.
+(..)
+Destarte, no caso concreto, mostra-se impositivo o afastamento da prescrição intercorrente. Nas circunstâncias, como se observa, os próprios apelados confirmam que a última manifestação da credora ocorreu no dia 14/07/2015 (Evento 3, Doc. 7, p. 37), enquanto a seguinte sobreveio no dia 17/05/2019 (Evento 3, Doc. 7, p. 38), de modo que, diferentemente do quanto sustentado, não foi implementado o prazo de 4 (quatro) anos.
+A propósito do tema, cumpre ressaltar que, como decidido pelo STJ no julgamento do REsp 1.604.412/SC, "o termo inicial do prazo prescricional, na vigência do CPC/1973, conta-se do fim do prazo judicial de suspensão do processo ou, inexistindo prazo fixado, do transcurso de um ano (aplicação analógica do art. 40, § 2º, da Lei 6.830/1980)".
+Por conseguinte, no caso em exame, o prazo de prescrição trienal (como prevê o art.18, I, da Lei 5.474/1968) começou fluir no dia 15/07/2015, não tendo transcorrido integralmente até o dia 17/05/2019 (Evento 3, Doc. 4, p. 21).
+Logo, impositivo o provimento da apelação cível, para que seja desconstituída a sentença, afastando-se a prescrição intercorrente.
+Dessa forma, além de o aresto recorrido encontrar apoio na orientação jurisprudencial firmada por esta Colenda Corte sobre a matéria, o que atrai a incidência do óbice contido na Súmula 83/STJ, para infirmar as conclusões a que chegou o Tribunal de origem, demandaria, necessariamente, o reexame das provas carreadas aos autos, o que é vedado nesta instância extraordinária, a teor da Súmula 7/STJ.
+Como se vê, a pretensão do insurgente não está em harmonia com a natureza e a função dos embargos declaratórios, não demonstrando, em suas razões recursais, qualquer vício que a decisão embargada tenha incorrido.
+Portanto, não se vislumbra quaisquer das máculas do artigo 1.022 do CPC/15 na decisão hostilizada.
+2. Não obstante a rejeição dos aclaratórios, deixa-se de se aplicar a multa prevista no artigo 1.026, § 2º, do CPC/15, pois, em se tratando de primeiros embargos de declaração que não ostentam caráter manifestamente protelatórios, pressuposto para aplicação da medida, descabida a sua incidência neste momento processual.
+No entanto, desde já se adverte que a reiteração de embargos de declaração, com intuito de rediscussão do julgado, poderá caracterizar o aludido caráter manifestamente protelatório, ensejando a aplicação da multa citada.
+3. Do exposto, rejeito os embargos de declaração.
+Publique-se.
+Intimem-se.
