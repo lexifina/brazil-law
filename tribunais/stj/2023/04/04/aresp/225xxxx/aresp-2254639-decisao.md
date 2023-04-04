@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial, no qual se alega violação do art. 842 do Código de Processo Civil, além de dissídio jurisprudencial. O acórdão recorrido está retratado na seguinte ementa (fl. 206):
+EXECUÇÃO - Penhora sobre bem imóvel - Intimação do cônjuge do executado - Ausência - Atenção ao princípio do pás de nullité sans grief (art. 277 do CPC) - Prejuízo não demonstrado, sequer alegado - Demais, preclusão (art. 278, caput do referido Código) - Alegada nulidade não suscitada pela recorrente na primeira oportunidade que lhe coube falar nos autos - Decisão mantida - Recurso desprovido, revogado efeito suspensivo.
+Sustenta a agravante que alegou, em tempo hábil, a nulidade da penhora em razão da ausência de intimação acerca da constrição do bem imóvel.
+Afirma que se trata de matéria de ordem pública, o que afasta a alegada preclusão.
+Assim posta a questão, passo a decidir.
+Observo que o Tribunal de origem concluiu que a agravante não demonstrou o prejuízo em razão da falta de intimação da penhora, bem como asseverou que a agravante teve ciência da dívida e da constrição, conforme se extrai dos seguintes trechos (fls. 207/209):
+(..)
+Recurso infundado - revogado efeito suspensivo. De fato, apesar de não intimada formalmente da constrição do termo de penhora e depósito do imóvel de matrícula nº 40.046 (fls. 1.723/1.725 da origem, notadamente fls. 1.724, item II), a agravante não demonstrou prejuízo que essa ausência lhe causou.
+Lembre-se que a declaração de nulidade de atos processuais deve se dar sempre à luz da hipótese concreta, uma vez que o regime de nulidades no processo civil vincula-se à efetiva ocorrência de prejuízo à parte (princípio pas de nulitté sans grief) do que não ocorreu.
+Destaca-se que a nulidade alegada pela recorrente se fundamenta tão-somente no formalismo da ausência de intimação sem qualquer outro motivo que justificasse a anulação da penhora. Ou seja, não demonstrou prejuízo, nem sequer alegou. Considere-se, ademais, que até o momento, não houve alienação do bem, nem notícia de ofensa à sua meação.
+Impõe-se, portanto, o aproveitamento dos atos que atinjam sua finalidade, inda que praticados sem as formalidades exigidas, quando não resultarem prejuízos às partes (art. 277 do CPC).
+Além disso como bem observado em primeiro grau e destacado na contraminuta (fls. 145, item 1. e 165, item 3., do agravo, respectivamente) a agravante não suscitou a nulidade no primeiro momento que compareceu aos autos (novembro de 2020 fl. 123 do agravo), mas apenas em 24.02.2021 (fls. 127/134 do agravo, notadamente fl. 128, item II.).
+(..)
+Assim, ainda que houvesse nulidade da intimação, já teria operado a preclusão para sua discussão.
+(..)
+Não passa despercebido, também, que as circunstâncias dos autos permitem concluir pela ciência da exequente da dívida e da penhora. Isto porque, a agravante, em 2014, assinou os títulos exequendo (duas cédula de crédito bancário nº 75.516 e 75.326, uma no valor de 4 milhões de reais e outra 5 milhões de reais) como interveniente (fls. 53, 75 , 82 e 104 da origem) ciente, pois, da vultosa dívida que seu falecido esposo e executado George se comprometera e ela anuiu; a execução foi proposta em 2015 em face da Usina Rio Verde e das pessoas físicas George, Humberto, Cassio e Fábio, respectivos, marido e filhos da recorrente (fls. 35/53 do agravo); houve oposição de embargos de terceiro, em 2019, pela empresa Pau d"alho, cuja sócia é a agravante, no qual ficou afastada boa-fé na aquisição desta por outros imóveis penhorados nos autos, inclusive nesta sede recursal (fls.183/189 do agravo) e, por fim, que o falecido esposo da agravante e executado George, no momento da penhora do bem em questão, suscitou impenhorabilidade do imóvel por ser bem de família o que, aliás, a recorrente nem sequer arguiu indeferida em primeiro grau e mantida nesta instância (fls. 2.418 da origem e consulta ao SAJ nos autos do Agravo de Instrumento nº 2199157-56.2019).
+(..)
+Com efeito, anoto que rever o entendimento da Corte local demandaria o reexame do acervo fático dos autos, o que encontra óbice no enunciado n. 7 da Súmula do STJ.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
