@@ -1,0 +1,7 @@
+DECISÃO
+JONATHAN BUENO DA SILVA, alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo no Habeas Corpus n. 5002033-29.2023.8.24.0000, em que foi mantida sua prisão preventiva.
+Depreende-se dos autos que "o Paciente foi preso por volta das 14h30min do dia 22 de janeiro de 2023 (domingo) em suposto flagrante da prática do crime de roubo tentado (artigo 157, caput, combinado com o artigo 14, inciso II, do Código Penal). Na audiência de custódia a situação de flagrante foi convertida em prisão preventiva" (fl. 207).
+Asseriu a defesa, perante a Corte de origem, que "o decreto de prisão preventiva é genérico, carecedor de fundamentação, e não apresenta justificação válida do periculum libertatis. Ressaltando os predicados pessoais aduz que a manutenção da prisão preventiva do Paciente caracteriza violação ao princípio da homogeneidade porquanto, caso venha a ser condenado" (fl. 207).
+Concedida a medida liminar e prestadas as informações, foram os autos ao Ministério Público Federal, que pugnou pela prejudicialidade do mandamus, dado que, " s egundo as informações prestadas, adveio o trânsito em julgado da ação penal a que respondeu o ora Paciente, de modo que o fundamento que ensejou a impetração do habeas corpus perdeu-se com a superveniência desse evento, restando prejudicada a sua análise por evidente perda de objeto" (fl. 233, grifei).
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, julgo prejudicado o habeas corpus, pela perda superveniente de seu objeto.
+Publique-se e intimem-se.
