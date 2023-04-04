@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de Agravo Interno contra decisão da Presidência desta Corte, que não conheceu do Agravo em Recurso Especial em virtude da ausência de impugnação específica.
+Os agravantes requerem a reforma da decisão anterior e sustentam:
+Todavia, equivocou-se a r. decisão agravada, pois o Agravo de Decisão Denegatória de Recurso Especial interposto pelos agravantes impugnou TODOS os fundamentos da r. decisão que inadmitiu o recurso nobre, especialmente a afronta ao artigo 1.022 do Código de Processo Civil.
+Sem impugnação.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 22.3.2023.
+A decisão de inadmissibilidade foi devidamente impugnada, assim passo à análise do Agravo em Recurso Especial.
+Trata-se de Agravo contra decisão que inadmitiu Recurso Especial (art. 105, III, "a" e "c", da Constituição Federal de 1988) interposto de acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (fls. 29-30, e-STJ):
+RECURSO DE AGRAVO DE INSTRUMENTO DOS EXEQUENTES - Cumprimento de sentença - Decisão agravada da juíza "a quo" (fls. 458/459): "Vistos. Declaro cumprida a obrigação de fazer e julgo extinta a execução nessa parte, nos termos do art. 924, II, do CPC/15 (com exceção do litisconsorte falecido ALEXANDER DISNER FILHO - fls. 1/3).
+Fica a executada intimada para, querendo, oferecer em 30 dias impugnação à execução movida pelo(s) autor(es), nos termos do artigo 535, do Código de Processo Civil. Valor requisitado: R$ 576.042,14 (quinhentos e setenta e seis mil, quarenta e dois reais e catorze centavos) - atualizado até maio/2021 (fls. 380/457).
+Descabido o arbitramento de honorários advocatícios neste momento, nos termos do artigo 85, § 7º, do CPC. No silêncio, certifique-se o decurso de prazo para manifestação da executada e, a seguir, intime(m)-se o(s) exequente(s) a providenciar(em) a instauração do incidente processual com vistas à expedição de ofício precatório e/ou ofício requisitório de pequeno valor. Após notícia de inclusão do precatório na ordem cronológica pelo DEPRE, nos termos do Provimento CSM nº 894/04, remetam-se os autos ao Cartório do Distribuidor para redistribuição do feito ao Setor de Execuções contra a Fazenda Pública, com as atualizações de estilo. Em caso de OPV, após o pagamento e a sentença de extinção, arquivem-se os autos, ou remetam-se ao UPEFAZ Unidade de Processamento das Execuções Contra a Fazenda Pública, caso exista ofício requisitório pendente de pagamento. Intime-se. São Paulo, aos 30 de julho de 2021." - Inconformismo dos exequentes/agravantes - Pretensão seja dado provimento ao recurso de agravo de instrumento, reformando-se em parte a r. decisão agravada, para arbitrar em favor dos patronos da parte exequente os honorários advocatícios decorrentes da fase de cumprimento de sentença, em relação aos créditos de pequeno valor, com base no § 1º e § 7º do Código de Processo Civil, observando-se os percentuais previstos no § 3º do referido dispositivo legal.
+Cumprimento de sentença - Cálculos apresentados pelos exequentes sem oposição da Fazenda do Estado de São Paulo - Honorários advocatícios - Não cabimento pela ausência de impugnação ao cumprimento de sentença - Exegese do artigo 85, § 7º, do Código de Processo Civil.
+Precedentes desta Egrégia 11ª Câmara de Direito Público e deste Egrégio Tribunal de Justiça de São Paulo - Decisão de 1º grau, mantida - Recurso de agravo de instrumento dos exequentes, improvido.
+Os Embargos de Declaração foram rejeitados nestes termos (fls. 1.029-1.039, e-STJ, grifo no original):
+EMBARGOS DE DECLARAÇÃO - Os embargos são, efetivamente, de natureza infringente - O v. Acórdão não é omisso - O acolhimento dos embargos predispõe a ocorrência de um dos pressupostos apontados no art. 1.022, do Código de Processo Civil (vigente) - Inocorrência de omissão, contradição, obscuridade e erro material, mas não podem se prestar, a não ser em casos excepcionalíssimos, a dar efeitos infringentes ao julgado - Inexistência de quaisquer dessas hipóteses - O v. Acórdão embargado abordou todos os temas recorridos de forma objetiva e clara - Ademais, ressalta-se, por oportuno, que, em regra, tem-se que os honorários advocatícios são devidos no cumprimento de sentença, porém, na hipótese específica em que a Fazenda do Estado de São Paulo não oferece impugnação, a verba honorária não tem cabimento - Assim, a prestação jurisdicional objeto da ação se deu por encerrada (2º grau de jurisdição) - Deve a embargante deduzir a matéria em outra via - A matéria prequestionada só poderá ser conhecida pelo Colendo Tribu nal competente, nos termos das Súmulas 282 e 356 do Supremo Tribunal Federal - Precedentes desta Egrégia 11ª Câmara de Direito Público, do E. Tribunal de Justiça de São Paulo e do E. Superior Tribunal de Justiça - Decisão mantida - Embargos de declaração, rejeitados.
+Os recorrentes alegam que ocorreu ofensa ao art. 1.022, II, do CPC e aduzem:
+Ora, não objetivam os recorrentes a fixação de honorários sobre os créditos apurados como precatórios, mas apenas em relação aos considerados como pequeno valor (RPV), tal como disciplinado nos §1º §7º do artigo 85 do Código de Processo Civil.
+(..)
+No decorrer da execução de pagar, os patronos da parte recorrente pleitearam honorários advocatícios devidos pela atuação na fase de execução, em relação aos créditos de pequeno valor.
+(..)
+Assim, considerando que não houve pagamento voluntário dos créditos de pequeno valor pela parte recorrida, tendo os recorrentes promovido o cumprimento de sentença em face da executada, legitimo seria a fixação de honorários nesta fase processual.
+(..)
+Para comprovar tal fato, a seguir transcreverá trechos do julgamento proferido nos autos do Agravo Interno no Agravo em Recurso Especial nº 1.461.383 - PR (2019/0060882-2), relatado pelo D. Ministro HERMAN BENAJAMIN, que em situação análoga a presente, estabeleceu " são devidos honorários advocatícios nas execuções contra a Fazenda Pública, ainda que não embargadas, quando o crédito está sujeito ao regime da Requisição de Pequeno Valor - RPV ".
+Contrarrazões às fls. 102-113, e-STJ.
+Este Relator entende, com base na jurisprudência do STJ, como devidos honorários advocatícios nas execuções contra a Fazenda Pública, ainda que não embargadas/impugnadas, quando o crédito está sujeito ao regime da Requisição de Pequeno Valor - RPV.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. OBRIGAÇÃO DE PEQUENO VALOR. PAGAMENTO POR RPV. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCOS. POSSIBILIDADE.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Na hipótese dos autos, verifica-se que o entendimento do Tribunal de origem está em consonância com a orientação desta Corte, haja vista serem devidos honorários advocatícios nas execuções contra a Fazenda Pública, ainda que não embargadas, quando o crédito está sujeito ao regime da Requisição de Pequeno Valor - RPV.3. Agravo Interno não provido.
+(AgInt no REsp 2.012.137/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 13/10/2022)
+AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO DE SENTENÇA. PAGAMENTO POR RPV. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. PRECEDENTES.
+1. A jurisprudência desta Corte firmou-se no sentido de que, nas hipóteses em que o pagamento da obrigação é feito mediante requisição de pequeno valor - RPV, é cabível a fixação de honorários advocatícios nas execuções contra a Fazenda Pública, ainda que não embargadas. Precedentes.
+2. Agravo interno não provido.
+(AgInt no REsp 2.014.120/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 6/10/2022)
+PROCESSUAL CIVIL. AGRAVO. RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. OBRIGAÇÃO DE PEQUENO VALOR. PAGAMENTO POR RPV. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCOS. POSSIBILIDADE. ART. 85, § 7º, DO CPC/2015.
+1. Esta Corte firmou jurisprudência de que são devidos honorários em execuções contra a Fazenda Pública relativas a quantias sujeitas ao regime de Requisições de Pequeno Valor (RPV), ainda que não haja impugnação. Precedentes.
+2. Agravo interno não provido.
+(AgInt no AREsp 2.019.637/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 17/6/2022)
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. APOSENTADORIA POR INVALIDEZ. EXECUÇÃO DE SENTENÇA. EXTINÇÃO PELO PAGAMENTO. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. ACÓRDÃO RECORRIDO EM CONFRONTO COM A JURISPRUDÊNCIA DO STJ.
+I - Na origem, trata-se de execução de sentença ajuizada contra a União objetivando o pagamento de aposentadoria por invalidez. Na sentença, extinguiu-se a execução pelo pagamento, sem condenação da União ao pagamento de honorários advocatícios. No Tribunal a quo, a sentença foi mantida. Nesta Corte, deu-se provimento ao recurso especial.
+II - A jurisprudência d o Superior Tribunal de Justiça é firme no sentido de que são devidos honorários advocatícios nas execuções contra a Fazenda Pública, ainda que não embargadas, quando o crédito está sujeito ao regime da Requisição de Pequeno Valor - RPV. Neste sentido, destacam-se: (REsp 1.664.736/RS, relator Ministro Og Fernandes, Segunda Turma, julgado em 27/10/2020, DJe 17/11/2020 e AgInt no AREsp 1.461.383/PR, relator Ministro Herman Benjamin, Segunda Turma, julgado em 19/9/2019, DJe 11/10/2019.)
+III - Agravo interno improvido.
+(AgInt no REsp 1.950.451/MG, Rel. Ministro Francisco Falcão,Segunda Turma, DJe 31/3/2022)
+Ante o exposto, dou provimento ao Agravo Interno e conheço do Agravo para dar provimento ao Recurso Especial, a fim de que sejam arbitrados honorários sucumbenciais no presente cumprimento de sentença, nos termos do art. 85 do CPC/2015.
+Publique-se.
+Intimem-se.
