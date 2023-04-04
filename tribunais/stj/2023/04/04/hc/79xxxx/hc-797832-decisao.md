@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de Leandro Tadeu de Jesus da Silva, em que se aponta como autoridade coatora a Segunda Câmara Criminal do Tribunal de Justiça de São Paulo.
+Consta dos autos (n. 0008127-13.2011.8.26.0269) que o paciente foi condenado à pena de 9 anos e 4 meses de reclusão, em regime fechado, e 14 dias-multa, pelo Juízo da 2ª Vara Criminal do Foro de Itapetininga/SP, como incurso no art. 121, caput, II, c/c o art. 14, II, ambos do Código Penal (fls. 252/259).
+Em sede de recurso em sentido estrito, a Segunda Câmara Criminal do Tribunal de Justiça de São Paulo negou provimento ao recurso (fls. 194/200). Esta, a ementa do julgado (fl. 195):
+RECURSO EM SENTIDO ESTRTTO  Tentativa de homicídio simples  Pretensão consistente na impronúncia do acusado  Presença de indícios apontando animus necandi na conduta  Apreciação do fato pelo Conselho de Sentença  Necessidade  Decisão mantida  Recurso não provido.
+Em sede de revisão criminal (Processo n. 0037670-48.2018.8.26.0000), o pedido revisional não foi conhecido ao fundamento de não estar demonstrada a presença de qualquer das hipóteses do art. 621 do Código de Processo Penal (fls. 285/288).
+No presente writ, a defesa requer a aplicação na fração máxima de redução de pena, em face da tentativa, e o reconhecimento do concurso formal próprio (fls. 3/11).
+Prestadas informações pelo Tribunal de Justiça de São Paulo (fls. 297/322).
+Parecer ministerial opinando pelo não conhecimento do writ (fls. 324/326).
+É o relatório.
+Verifica-se a existência do processo conexo, HC n. 660.795/SP, impetrado em favor do paciente, em que se busca o reconhecimento de crime único. O habeas corpus foi indeferido liminarmente em decisão de 20/4/2021.
+Não há ilegalidade na dosimetria. Na sentença, em relação à vítima João Batista, a pena-base foi fixada em 7 anos de reclusão e 11 dias-multa, portanto, 1/6 acima do piso mínimo, em razão dos maus antecedentes. De fato, o paciente responde a processos criminais e a inquéritos, e possui também uma condenação transitada em julgado, que pode ser u sada na primeira fase da dosimetria, como fez o Magistrado. Sobre a tentativa, foi considerada a redução da pena na fração mínima de 1/3, por ter entendido o Julgador como longo o iter criminis percorrido, somente não se consumando o delito, após ter o réu efetuado diversos disparos de arma, por circunstâncias alheias à vontade do agente. Para esse delito, a pena final foi de 4 anos e 8 meses de reclusão, e 7 dias-multa. Não há como a fração de redução pela tentativa ser reexaminada, em sede de habeas corpus, devendo ser respeitada a livre convicção do Magistrado, quando fixada a pena.
+Em relação à vítima Rogério Gonçalves, a pena-base foi fixada também em 7 anos de reclusão e 11 dias-multa, 1/6 acima do piso mínimo, em razão dos maus antecedentes, já que há condenação transitada em julgado. Da mesma forma, em face da tentativa, o Julgador relevou como longo o iter criminis percorrido, somente não se consumando o delito, após ter o paciente efetuado diversos disparos de arma, por circunstâncias alheias à vontade do agente. A pena final também ficou fixada em 4 anos e 8 meses de reclusão, e 7 dias-multa.
+Por fim, com a aplicação do concurso formal, a pena final foi fixada em 9 anos e 4 meses de reclusão, e 14 dias-multa, pois, mediante uma só ação, foram praticados dois crimes idênticos, tendo sido considerada a conduta como dolosa, com desígnios autônomos.
+Não houve ilegalidade no não conhecimento da revisão criminal por ter sido considerada como uma segunda apelação, em que a parte não apresentou nenhuma das hipóteses previstas no art. 621 do Código de Processo Penal.
+Ante o exposto, denego a ordem.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. HOMICÍDIO SIMPLES. DOSIMETRIA. AUSÊNCIA DE ILEGALIDADE. PENA FIXADA COM RAZOABILIDADE PELOS ANTECEDENTES, ELEVADA EM 1/6. ITER CRIMINIS PERCORRIDO. LONGO PERCURSO. DISPAROS DE ARMA EFETUADOS. IMPOSSIBILIDADE DE REEXAME. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Ordem denegada.
