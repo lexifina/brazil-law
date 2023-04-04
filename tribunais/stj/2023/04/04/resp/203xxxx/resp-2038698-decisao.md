@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL com fundamento no art. 105, III, "a" do permissivo constitucional contra acórdão do TRF da 5ª Região assim ementado (e-STJ fl. 962):
+Tributário e Processual Civil. Ação Declaratória e Anulatória de Débito Fiscal. Contribuição social. Verbas pagas a titulo de terço constitucional de férias não se incorporara ao salário. Precedentes do Colendo STF. Adicional de difícil acesso ( Lei Municipal n. 2 2.280/2005. Natureza indenizatória. Município-autor foi sucumbente, em parte mínima do pedido ( art. 21, p.u. CPC) Apelação do Município provida e apelação da Fazenda Nacional e remessa oficial improvidas.
+Embargos declaratórios rejeitados (e-STJ fls. 984/993).
+No especial, a parte alega violação dos arts. 22 e 28 da Lei n. 8.212/1991, requerendo, em síntese, a incidência da contribuição previdenciária sobre o adicional de férias e sobre o adicional de difícil acesso habitualmente pago pelo autor.
+Contrarrazões apresentadas às e-STJ fls. 1.053/1.072.
+Em juízo de retratação, seguiu-se a ementa do julgado (e-STJ fls. 1.160/1.161):
+PROCESSUAL CIVIL, TRIBUTÁRIO E CONSTITUCIONAL. AÇÃO ORDINÁRIA. RETORNO DOS AUTOS PARA ADEQUAÇÃO AO RE 1.072.485/PR (TEMA 985/STF). CONTRIBUIÇÃO PREVIDENCIÁRIA PATRONAL. TERÇO CONSTITUCIONAL DE FÉRIAS. INCIDÊNCIA. DISSONÂNCIA DO JULGADO DESTA TURMA COM A TESE FIRMADA PELO STF. JUÍZO DE RETRATAÇÃO. CABIMENTO. REFORMA DO CAPÍTULO DA DECISÃO ACERCA DOS HONORÁRIOS ADVOCATÍCIOS.
+1. Autos que retornam da Vice-Presidência desta Corte, a bem de se lhe permitir ajustar julgamento originário desta Quarta Turma a determinados precedentes do STF (RE 1.072.485/PR e RE 566.621/RS), decidido em sede de repercussão geral (Temas 985 e 04), bem assim quanto às orientações do STJ, na sistemática dos recursos repetitivos, nos RESP 1.230.957/RS e RESP 1.358.281/SP.
+2. A Corte Suprema, ao apreciar o RE 1.072.485/PR (Tema 985), firmou a seguinte tese jurídica: " É legítima a incidência de contribuição social sobre o valor satisfeito a título de terço constitucional de férias ".
+3. O acórdão turmário entendeu que não incide contribuição previdenciária sobre o terço constitucional de férias, contrariando a orientação do tribunal superior. Logo, deve ser reformada a decisão colegiada, para adequar o julgado ao decidido no RE 1.072.485/PR (Tema 985).
+4. Realizado o juízo de retratação, há repercussão no capítulo da decisão relativo aos honorários advocatícios (art. 1.041, § 1º, do CPC), no que se refere ao reconhecimento da sucumbência recíproca, uma vez que parte autora sucumbiu na maior parte do seu pedido (1/3 de férias e compensação de créditos relativos ao salário maternidade e salário-família, ganhando apenas a rubrica adicional de difícil acesso ).
+Assim, a parte autora deve ser condenada em honorários advocatícios, ora fixados em R$ 5.000,00 (cinco mil reais), nos termos do art. 20, §§ 3º e 4º, do CPC/73 (sentença proferida em 29/03/2012), haja vista o elevado valor atribuído à causa (R$ 1.558.192,39) e a impossibilidade de ser calculado o quantum debeatur neste iter processual. Com efeito, existindo a possibilidade de a condenação em honorários de sucumbência se mostrar desproporcional e injusta, exatamente como constatado no caso concreto, devem ser fixados por apreciação equitativa, atendendo sempre aos princípios da razoabilidade e proporcionalidade.
+5. Juízo de retratação exercido, para dar parcial provimento à remessa oficial e à apelação da Fazenda Nacional, negando provimento à apelação do Município, reconhecendo a incidência da contribuição previdenciária sobre o terço constitucional de férias, mantidos os demais termos do acórdão turmário.
+O recurso especial foi admitido na origem (e-STJ fl. 1.174).
+Passo a decidir.
+Importa mencionar que o recurso especial origina-se de ação ordinária ajuizada pelo MUNICÍPIO DO CABO DE SANTO AGOSTINHO-PE em desfavor da FAZENDA NACIONAL que objetiva a declaração de inexigibilidade da contribuição previdenciária patronal incidente sobre o terço de férias e sobre o adicional de difícil acesso.
+No primeiro grau de jurisdição, a ação foi julgada parcialmente procedente.
+Irresignadas, ambas as partes interpuseram recurso de apelação.
+O Tribunal de origem deu provimento à apelação do Município e negou provimento ao recurso da União e à remessa oficial.
+Em juízo de retratação, fora acolhido, em parte, o recurso fazendário, para o fim de reconhecer a incidência da exação tributária sobre o terço constitucional de férias.
+Pois bem.
+Acerca do tema residual, ou seja, no que diz respeito à incidência de contribuição previdenciária patronal sobre as verbas denominadas adicional de difícil acesso e de representação, o conhecimento do recurso especial encontra óbice na Súmula 280 do STF.
+Isso porque o julgamento do recurso especial demandaria o exame da legislação local - Lei Municipal n. 2.280/2005 - que instituiu tais verbas de modo a apurar sua natureza jurídica, remuneratória ou indenizatória, exame notoriamente descabido por esta Corte Superior.
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRIBUIÇÃO PREVIDENCIÁRIA. REGIME PRÓPRIO DE PREVIDÊNCIA DE ESTADO DA FEDERAÇÃO. SÚMULA 280/STF. DESPROVIMENTO.
+1. Esta Corte tem entendimento de que o art. 4º da Lei n. 10.887/2004 trata especificamente dos servidores da União, suas autarquias e fundações, uma vez que os Estados, Municípios e Distrito Federal detêm competência tributária para instituir contribuição para o custeio do regime próprio de previdência dos seus servidores. Precedentes.
+2. No caso dos autos, a base de cálculo da contribuição previdenciária foi dirimida pela Corte a quo com base nas Leis Complementares Estaduais n.
+282/2004 e n. 46/1994, o que torna inviável a análise da impugnação feita em recurso especial, nos termos da Súmula 280 do STF, aplicada por analogia.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.073.777/ES, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 07/12/2017, DJe 15/12/2017).
+PROCESSUAL CIVIL. SERVIDOR MUNICIPAL. GRATIFICAÇÃO DE DIFÍCIL ACESSO. BASE DE CÁLCULO DA CONTRIBUIÇÃO PREVIDENCIÁRIA. EXAME DE LEI LOCAL. SÚMULA 280/STF. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Cuida-se, na origem, de Ação Ordinária proposta pelos recorridos contra o Instituto de Previdência Municipal de São Paulo - Iprem, ora recorrente, objetivando a exclusão da Gratificação de Difícil Acesso da base de cálculo das contribuições previdenciárias, bem como, a devolução dos valores indevidamente descontados, acrescidos de correção monetária e juros.
+2. O Juiz de 1º Grau julgou procedente o pedido em face do Instituto de Previdência Municipal de São Paulo - Iprem.
+3. O Tribunal a quo negou provimento à Apelação do recorrente e assim consignou: "A preliminar de falta de interesse de agir se confunde com o mérito e com ele será analisada. Dispõe o artigo 3º da Lei Municipal nº 11.035/91: (..) Sobreveio, em seguida, a Lei Municipal nº 13.973/2005, dispondo sobre as contribuições para o regime próprio de previdência social dos servidores públicos do Município de São Paulo, determinando em seu art.
+1º, §1º, inciso VI, a exclusão das parcelas remuneratórias pagas em decorrência do local de trabalho. (..) pela qual não se incorpora aos vencimentos, devendo, por conseguinte, ser excluída da base de cálculo da contribuição previdenciária. Assim, considerando os descontos efetuados, não há que se falar em falta de interesse de agir, não carecendo do exaurimento da via administrativa, para se pleitear o quê de direito perante o Poder Judiciário." (fls. 182-183, grifo acrescentado).
+4. Esclareça-se que o exame da pretensão recursal pressupõe a apreciação de normas de Direito local, mais especificamente das Leis Municipais 11.035/1991 e 13.973/2005 e do Decreto municipal 46.860/2005. 5. Isso posto, a Corte de origem decidiu a lide à luz das referidas Leis Municipais 11.035/1991 e 13.973/2005, fazendo referência às suas disposições para solucionar a controvérsia.
+Aplica-se, in casu, por analogia, a Súmula 280 do STF. Nesse sentido: REsp 1.245.902/AM, Relatora Ministra Eliana Calmon, Segunda Turma, DJe 19/6/2013, e AgInt no AREsp 965.063/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 6/3/2017.
+6. Recurso Especial não conhecido.
+(REsp 1.656.905/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 20/04/2017, DJe 02/05/2017).
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários sucumbenciais em 10% sobre o valor já fixado na origem, respeitados os limites e os critérios previstos nos §§ 2º e 3º do referido dispositivo.
+Publique-se. Intimem-se.
