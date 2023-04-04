@@ -1,0 +1,8 @@
+DECISÃO
+Certidão de fl. 797 (e-STJ) noticiou que:
+(..) está pendente de apreciação a Petição n. 518297/2015 (fls. 787/790), em que se requer penhora via BacenJud com vistas ao bloqueio do montante referente (i) à condenação em honorários advocatícios, fixados em 15% sobre o valor atualizado da causa, (ii) à multa do art. 557, § 2º, do CPC/1973, fixada em 5% sobre o valor da causa atualizado, (iii) à multa do art. 475-J do CPC/1973, no percentual de 10% e (iv) aos honorários relativos ao cumprimento de sentença, fixados em R$ 500,00 (decisões de fls. 719/720 e 744/746).
+Em atendimento ao despacho de fl. 800 (e-STJ), o exequente ratificou o pedido de penhora (e-STJ fls. 806-807) e apresentou cálculos atualizados do valor devido.
+À fl. 811 (e-STJ), foi determinada a intimação do BANCO CENTRAL DO BRASIL - BACEN para "informar o número do Cadastro Nacional da Pessoa Jurídica - CNPJ da empresa executada, tendo em vista que tal informação é imprescindível para a realização do procedimento, ou requerer o que entender de direito".
+Na sequência, sobreveio petitório informando que o "CNPJ da parte TERRAPLANAGEM PAVIMENTAÇÃO E CONSTRUÇÕES LTDA. - TEPAC não consta nos autos do processo". Nesse contexto, o exequente pugnou pela suspensão do cumprimento de sentença, pelo prazo de seis meses, para localização dos dados do devedor a fim de viabilizar o prosseguimento do feito.
+Ante o exposto, defiro o pedido de fls. 814-815 (e-STJ) para determinar a suspensão do cumprimento de sentença, pelo prazo de seis meses , com fundamento no art. 921, III, § 1º, c/c o art. 921, § 7º, do CPC.
+Publique-se. Intimem-se.
