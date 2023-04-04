@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de Recurso Especial interposto com fundamento no art. 105, III, "a" e "c" da Constituição Federal em face de acordão assim ementado:
+EMENTA: APELAÇÃO CÍVEL. AÇÃO ANULATÓRIA DE ATOADMINISTRATIVO. REJEIÇÃO DE CONTAS DO ORDENADOR. CONTASJULGADAS PELO TRIBUNAL DE CONTAS DO ESTADO. SENTENÇA DEDECRETAÇÃO DE PRESCRIÇÃO DO DIREITO DO AUTOR. DECRETO Nº20.190/32. PRESCRIÇÃO QUINQUENAL EM FACE DA FAZENDAPÚBLICA. PRECEDENTES. MANUTENÇÃO DO JULGADO. APELOCONHECIDO E IMPROVIDO.
+1- O Decreto nº 20.910/32, dispõe sobre a prescrição quinquenal de qualquer direito ou ação contra a Fazenda Pública federal, estadual ou municipal, nos termos do art. 1º do referido diploma.
+2- No caso em comento, a data do ato ou do fato decorre da publicação no Diário Oficial da decisão do Tribunal de Contas, publicada em 25/04/2014, restando prescrito o direito de reclamação do autor junto ao Judiciário em cinco anos de tal data, qual seja, em 25/04/2019. A ação anulatória objeto do presente recurso de apelação cível fora ajuizada em 11/06/2019, mais de cinco anos após a data do ato que o autor, ora recorrente, queria ver anulado. Prescrito o direito do autor, ora recorrente. Precedentes.
+3- Por oportuno, na forma legal, nos termos do parágrafo 11 do artigo 85 do Código de Processo Civil, honorários advocatícios recursais em mais 3% (três por cento) sobre o valor da condenação imposta em primeiro grau.
+4- Apelo conhecido e improvido.
+O recorrente alega violação dos arts. 489 e 1.022 do CPC/2015, bem como divergência jurisprudencial,
+Os Embargos de Declaração foram rejeitados.
+Contrarrazões às fl. 817-822 e-STJ.
+É o relatório.
+Decido.
+Os autos foram remetidos a este Gabinete em 6.3.2023.
+No tocante à suposta ofensa ao art. 489 e do art. 1.022 do CPC/2015, assiste razão à parte recorrente.
+A análise do acórdão recorrido, em conjunto com a sua decisão integrativa, revela que o Tribunal a quo não se manifestou adequadamente sobre a questão que lhe foi apresentada.
+Com efeito, a Apelação devolveu ao colegiado originário o tratamento da prescritibilidade ou imprescritibilidade de atos nulos - o que não foi discutido, sequer mediante provocação por aclaratórios.
+Neste sentido, as razões de decidir não abordam a controvérsia de forma completa e, portanto, ferem a devolutividade, uma vez que não há como abstrair, do aresto embargado, os fatos alegados pela parte recorrente, os quais servem de premissa à tese de direito invocada.
+Assim, diante da deficiência na prestação jurisdicional realizada pela instância ordinária, impõe-se o acolhimento da apontada contrariedade ao art. 1.022 do CPC/2015 e a devolução dos autos à origem para que sejam sanados o vícios destacados.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE DEU PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DA AGRAVADA.
+1. Necessidade de esclarecimentos pelo acórdão recorrido, devidamente suscitados em embargos de declaração, sobre questões relevantes para a solução da causa.
+2. Presente um dos vícios elencados no art. 1022 do CPC, é adequada a devolução dos autos à origem para rejulgamento dos embargos de declaração a fim de ser realizada a completa prestação jurisdicional.
+3. Agravo interno desprovido.
+(AgInt no AREsp 2.001.565/PR, Rel. Ministro Marcos Buzzi, Quarta Turma, DJe 6/5/2022)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. PARCIAL RECONSIDERAÇÃO DA DECISÃO AGRAVADA. VIOLAÇÃO AO ART. 1022, II, DO CPC/2015. OMISSÃO. OCORRÊNCIA. TERMO INICIAL DOS JUROS DE MORA. INVIABILIDADE DE ALTERAÇÃO EM SEDE DE EMBARGOS À EXECUÇÃO SOB PENA DE OFENSA À COISA JULGADA. TESE SUSCITADA NAS CONTRARRAZÕES DE APELAÇÃO E REITERADA NOS EMBARGOS DE DECLARAÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL CONFIGURADA. DEVOLUÇÃO DOS AUTOS PARA COMPLEMENTAÇÃO DO JULGADO. PREJUDICIALIDADE DAS DEMAIS TESES RECURSAIS. AGRAVO INTERNO PROVIDO PARA, EM JUÍZO DE RETRATAÇÃO, DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL.
+1. A jurisprudência deste Tribunal Superior firmou-se no sentido de que o provimento do recurso especial por contrariedade ao art. 1022 do CPC/2015 pressupõe que sejam demonstrados, fundamentadamente, os seguintes motivos: (a) que a questão supostamente omitida tenha sido invocada na apelação, no agravo ou nas contrarrazões a estes recursos, ou, ainda, que se cuide de matéria de ordem pública a ser examinada de ofício, a qualquer tempo, pelas instâncias ordinárias;
+(b) a oposição de aclaratórios para indicar à Corte local a necessidade de sanar a omissão em relação ao ponto; (c) que a tese omitida seja fundamental à conclusão do julgado e, se examinada, poderá conduzir a anulação ou reforma do julgado; (d) a inexistência de outro fundamento autônomo, suficiente para manter o acórdão.
+2. Os recorrentes alegaram nas contrarrazões de apelação (e-STJ fls. 1214/1240), dentre outras teses, que não seria possível a alteração, em sede de embargos à execução, do termo inicial dos juros de mora, ante a ausência de efeito rescisório dos embargos, sob pena de ofensa à coisa julgada, razão pela qual os juros de mora seriam devidos desde a citação, data fixada no acórdão de apelação da ação de conhecimento.
+3. Nos embargos de declaração os agravantes alegaram, dentre outras matérias, ausência de análise da tese apresentada nas contrarrazões de apelação, segundo a qual seria inviável a alteração do termo inicial dos juros de mora em sede de embargos à execução, ante a ausência de efeito rescisório dos embargos, sob pena de ofensa à coisa julgada, sendo irrelevante eventual reformatio in pejus.
+Ademais, os recorrentes alegaram que não teria havido reformatio in pejus no acórdão de apelação da ação de conhecimento, ante o efeito translativo pleno da remessa necessária.
+4. Em que pese sua relevância para a solução da controvérsia, o Tribunal de origem não enfrentou referidas matérias - inviabilidade de alteração do termo inicial dos juros de mora em sede de embargos à execução, ante a ausência de efeito rescisório dos embargos, sob pena de ofensa à coisa julgada, bem como ausência de reformatio in pejus no acórdão de apelação da ação de conhecimento, ante o efeito translativo pleno da remessa necessária -, mesmo após a oposição de embargos de declaração, restando configurada a ofensa ao art. 1022, II, do CPC/2015, por negativa de prestação jurisdicional, devendo os autos serem devolvidos para a complementação do julgado.
+5. Quanto à outra omissão suscitada - impossibilidade de limitação do reajuste de 3,17% sobre as rubricas DAS e FG até 1º de março de 1995, data de vigência da Lei nº 9.030/95, uma vez que referida limitação não consta do título judicial executado -, não há que se falar em negativa de prestação jurisdicional, nem em vício, quando o acórdão impugnado aplica tese jurídica devidamente fundamentada, promovendo a integral solução da controvérsia, ainda que de forma contrária aos interesses da parte. Ademais, o magistrado não está obrigado a se manifestar sobre todas as teses invocadas, bastando que decida de forma motivada a questão.
+6. Agravo interno provido para, em juízo de retratação, dar parcial provimento ao recurso especial.
+(AgInt no REsp 1.947.611/MG, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 28/4/2022)
+Ante o exposto, conheço do Recurso Especial e dou-lhe provimento para determinar o retorno dos autos à Corte local a fim de que esta, em novo julgamento dos Embargos de Declaração, se manifeste sobre os argumentos acima referidos.
+Publique-se.
+Intimem-se.
