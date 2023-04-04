@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim ementado (fl. 60):
+HABEAS CORPUS. CÓDIGO PENAL. CRIMES CONTRA O PATRIMÔNIO. ART. 157, CAPUT, E § 2º, INC. I. ROUBOS MAJORADOS.
+PARCIAL CONHECIMENTO.
+Em Habeas Corpus anterior as demais questões já foram examinadas, e sem fatos novos não existem fundamentos para o reexame do que já decidido.
+SENTENÇA CONDENATÓRIA.
+Roubo a estabelecimentos comerciais, um deles com emprego de arma de fogo. Sentença condenatória. Fundamentação eficiente para determinar a prisão. Não há ofensa à presunção de inocência, pois certo que a Constituição Federal admite, paralelamente, não apenas a prisão em flagrante, mas também a prisão preventiva, por conversão ou de maneira independente, dando prioridade à proteção social, em detrimento do interesse individual.
+REGIME INICIAL SEMIABERTO.
+Mesmo provisória a execução da pena, deverá ser cumprida no regime definido na sentença. Não há, portanto, constrangimento ilegal a ser reparado, ou qualquer ofensa aos princípios da presunção de inocência ou da proporcionalidade.
+HABEAS CORPUS CONHECIDO, EM PARTE. ORDEM DENEGADA.
+UNÂNIME.
+Consta dos autos que o paciente foi condenado como incurso no art. 157, caput, e art. 157, § 2º-A, I, na forma do art. 71, do Código Penal, a 7 anos e 13 dias de reclusão, em regime semiaberto, sendo-lhe negado o direito de recorrer em liberdade.
+No presente writ, a defesa argumenta que "em que pese o regime semiaberto fixado para início de cumprimento, o Juízo a quo manteve a prisão preventiva do paciente, ensejando evidente incompatibilidade" (fl. 3).
+Destaca a primariedade do paciente e ausência dos requisitos previstos no art. 312 do CPP.
+Requer, assim, liminarmente e no mérito, a revogação da prisão preventiva, ainda que mediante a aplicação de medidas cautelares diversas.
+Não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo relator, nos termos do art.34, XVIII e XX, do RISTJ.
+Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+Consta da sentença condenatória, na parte em que se negou o direito de apelar em liberdade (fls. 93-94):
+O réu respondeu ao processo preso cauterlamente para garantia da ordem pública e por conveniência da instrução criminal.
+Os motivos que ensejaram a decretação da prisão preventiva permanecem higidos, pois é certo que confirmação, em Juizo, da autoria dos réu em delito de roubo, constitui sinal de que sua liberdade importará em intranquilidade social diante do fundado receio de que voltem a delinquir.
+Nesse ponto, destaca-se que o acusado possui outras ações em curso pelo mesmo delito, incluindo uma condenação por crime patrimonial pendente de trânsito em julgado, pelo que pode-se dizer que o principio da não culpabilidade, começa a perder força com a prolação de sentença condenatória, onde analisada pormenorizadamente a prova produzida, mesmo que pendente de trânsito em julgado, evidenciando-se assim, risco de reiteração delitiva.
+Ademais, na análise das circunstâncias para a decretação da prisão preventiva, inquéritos e processos em andamento são elementos que, não obstante, precários, podem ser utilizados para fundamentar a prisão em virtude da probabilidade de reiteração delitiva.
+Além disso, a fixação do regime inicial aberto ou semiaberto para o cumprimento de pena não impede a manutenção da custódia, desde que haja motivos para a manutenção da prisão cautelar, como é o caso dos autos.
+Por isso, nego aos réu o direito de apelar em liberdade, mantendo a segregação cautelar para garantia de ordem pública.
+Contudo, considerando o quantum de pena fixado e os regimes iniciais de cumprimento de pena, deve ocorrer a imediata adequação, devendo ser comunicado imediatamente à SUSEPE para que providencie a adequação de regime.
+Como se vê, a prisão preventiva foi mantida tendo em vista a higidez dos motivos que ensejaram a sua decretação, revelada na reiteração delitiva do paciente, que "possui outras ações em curso pelo mesmo delito, incluindo uma condenação por crime patrimonial pendente de trânsito em julgado".
+A jurisprudência desta Corte é pacífica no sentido de que a periculosidade do acusado, evidenciada na reiteração delitiva, constitui motivação idônea para o decreto da custódia cautelar, como garantia da ordem pública, como no caso dos autos. Nesse sentido: HC n. 286854/RS - 5ª T. - unânime - Rel. Min. Felix Fischer - DJe. 1º-10-2014; RHC n. 48002/MG - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 4/8/2014; RHC n. 44677/MG - 5ª T. - unânime - Rel. Min. Laurita Vaz - DJe 24/6/2014.
+Outrossim, registros criminais anteriores, anotações de atos infracionais, inquéritos e ações penais em curso, e condenações ainda não transitadas em julgado são elementos que podem ser utilizados para amparar eventual juízo concreto e cautelar de risco de reiteração delitiva, de modo a justificar a necessidade e adequação da prisão preventiva para a garantia da ordem pública (RHC 100.793/RR, Sexta Turma, Rel. Ministra Laurita Vaz, DJe. 23/10/2018). No mesmo sentido: RHC 106.136/DF, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 19/02/2019, DJe 01/03/2019; HC 479.323/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 12/02/2019, DJe 11/03/2019; HC 441.396/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 05/02/2019, DJe 14/02/2019.
+Assim, havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. A esse respeito: HC n. 325.754/RS - 5ª T. - unânime - Rel. Min. Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE) - DJe 11/09/2015 e HC n. 313.977/AL - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 16/03/2015.
+Por fim, de acordo com a jurisprudência desta Corte, não há incompatibilidade entre a fixação de regime semiaberto e o indeferimento do direito de recorrer em liberdade na sentença condenatória, sendo apenas necessária a compatibilização da custódia com o regime fixado, cabendo à defesa do paciente requerer ao juízo competente a execução provisória da pena, adequando-se a custódia preventiva ao regime aplicado em sentença (EDcl no HC 604.090/PR, Rel. Ministro Nefi Cordeiro, Sexta Turma, DJe 16/09/2020).
+No caso, não se verifica constrangimento ilegal, sobretudo porque o próprio juízo sentenciante, ao negar a liberdade provisória ao réu , consignou que o regime de cumprimento de sua pena deverá ser ajustado.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
