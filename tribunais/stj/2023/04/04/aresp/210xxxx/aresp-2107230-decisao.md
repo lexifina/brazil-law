@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial por inexistência de violação de lei federal, incidência da Súmula n. 7 do STJ e ausência de comprovação do dissenso jurisprudencial (e-STJ fls. 2.030/2.033).
+O acórdão recorrido está assim ementado (e-STJ fl. 1.929):
+Ação de indenização - representação comercial - interesse de agir verificado - cerceamento de defesa - não ocorrência - existência de vínculo entre as partes reconhecido - contrato verbal - prova pericial conclusiva - indenização devida - falta de impugnação específica - ação julgada procedente - sentença mantida - recurso improvido.
+No recurso especial (e-STJ fls. 1.935/1.972), fundamentado no art. 105, III, "a" e "c", da CF, a parte recorrente alegou ofensa aos arts. 5º, X, LIV e LV, da CF, 350, 369, 373, § 2º, do CPC/2015, por cerceamento de defesa.
+Segundo afirma, "se observa que apesar de admitir a matéria de mérito controvertida a ser desvendada, existência de vinculo jurídico, o Juízo Singular redistribui a Recorrente o "ônus provar a base de cálculo das comissões praticadas e o adimplemento das comissões devidas por toda atuação da autora em seu favor", por fim restringiu a prova a pericia Contábil, indeferindo a prova oral, único meio pelo qual se poderia provar que a Recorrente jamais havia prestado serviço junto aos clientes da Recorrente" (e-STJ fl. 1.967).
+No agravo (e-STJ fls. 2.036/2.053), afirma a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 2.072/2.078).
+É o relatório.
+Decido.
+No que se refere ao art. 5º, X, LIV e LV, da CF, compete ao STJ velar pela aplicação uniforme da legislação infraconstitucional, não se conhecendo, portanto, do recurso especial que sustente ofensa à Constituição, sob pena de usurpação da competência do STF (art. 102, III, da CF).
+No caso, o TJSP reconheceu a inexistência de cerceamento, decidindo com base nos seguintes fundamentos (e-STJ fl. 1.930):
+Ainda, preliminarmente, tem-se que não houve cerceamento de defesa, uma vez que o julgamento antecipado da lide, quando a matéria é exclusivamente de direito, ou não necessita de outras provas, não viola o princípio constitucional da ampla defesa, conforme preceitua o art. 335,I da lei de rito. Essa é a hipótese dos autos, pois a apreciação do pedido inicial independe da realização de outras provas, podendo ser realizada à luz do direito positivo vigente, com base na prova documental e pericial produzida, não tendo a prova testemunhal a força probante pretendida pela apelante.
+A perícia contábil realizada foi conclusiva acerca da existência do contrato verbal de representação comercial, emergindo prova de que o autor intermediou a venda de mercadorias em prol da apelante, sendo devida a remuneração ajustada, a qual não foi integralmente paga pela apelante.
+Ao contrário do que sustenta a apelante em seu longo e repetitivo arrazoado, os documentos colacionados e analisados pelo vistor judicial foram expressamente considerados pela r. sentença recorrida e reputados como suficientes para caracterizar o contrato verbal de representação comercial.
+Modificar o entendimento do acórdão impugnado quanto à existência de cerceamento de defesa, nesta hipótese, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+Por fim, a incidência da Súmula n. 7/STJ também inviabiliza o exame do recurso especial pela alínea "c" da norma autorizadora, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a Corte de origem.
+Diante do exposto, NEGO PROVIMENTO ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
