@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial por inexistência de violação de lei federal e incidência da Súmula n. 282 e 356 do STF (e-STJ fls. 1.165/1.169).
+O acórdão recorrido traz a seguinte ementa (e-STJ fls. 919/920):
+APELAÇÕES CÍVEIS - INOVAÇÃO RECURSAL - PRELIMINAR DE OFÍCIO - NÃO CONHECIMENTO PELA INOVAÇÃO RECURSAL - PRELIMINAR DE ILEGITIMIDADE ATIVA REJEITADA - MÉRITO - AÇÃO DECLARATÓRIA DE NULIDADE DE ATO JURÍDICO - FRAUDE - INEXISTÊNCIA DE FALHA NA PRESTAÇÃO DE SERVIÇO DOS NOTÁRIOS E REGISTRADORES - RECURSOS IMPROVIDOS.
+1 - A tese suscitada no mérito do recurso de fls. 700/720 de aplicação da teoria da aparência, não foi apresentada ao magistrado de primeiro grau, Configurando inovação recursal.
+2 - Considerando os fatos trazidos na inicial, tem-se que ANTONIO RUFINO DE SOUZA JUNIOR deve ser considerado legitimo para figurar no polo ativo da presente demanda, não merecendo prosperar o pedido de extinção sem resolução do mérito.
+3 Mérito. Nos termos da jurisprudência deste Egrégio Tribunal de Justiça, extrapola a função do notário a verificação de falsidade de documento aparentemente verdadeiro apresentado pelo fraudador, eis que não se exige que possua conhecimentos técnicos de perito criminal, para o fim pretendido. (TJES, Classe: Apelação, 030160050081, Relator : EWERTON SCHWAB PINTO JUNIOR, órgão Julgador: PRIMEIRA CÂMARA CÍVEL , Data de Julgamento: 12/11/2019, Data da Publicação no Diário: 09/12/2019)
+Os embargos de declaração foram rejeitados (e-STJ fls. 954/962 e 999/1.016).
+No recurso especial (e-STJ fls. 1.018/1.069), fundamentado no art. 105, III, "a" e "c", da CF, a parte recorrente alega, além de divergência jurisprudencial, ofensa ao art. 489, § 1º, IV, do CPC/2015, por negativa de prestação jurisdicional, destacando que "foram debatidos em primeira instância e também contam do apelo interposto a necessidade de prestigiar a boa-fé dos recorrentes, (..) e da necessidade de se reconhecer como válida a aquisição dos imóveis objeto da presente demanda" (e-STJ fls. 1.020/1.021).
+Aponta afronta aos arts. 182, 1.227, 1.245 e 1.268 do CC/2002, sustentando, em síntese, a validade do negócio jurídico, argumentando que "a propriedade dos imóveis foi transmitida a terceiros de b oa-fé pela proprietária legítima, ou seja, aquele em cujo nome estava registrados os imóveis ora sob em comento" (e-STJ fls. 1.032).
+No agravo (e-STJ fls. 1.172/1.184), afirmam a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 1.190/1.193).
+É o relatório.
+Decido.
+Não há falar em ofensa ao art. 489, § 1º, IV, do CPC/2015, pois o Tribunal a quo pronunciou-se, de forma clara e suficiente, sobre as questões suscitadas nos autos. Não há negativa de prestação jurisdicional quando os fundamentos utilizados tenham sido suficientes para embasar a decisão, ainda que em sentido diverso do sustentado pela parte, como de fato ocorreu.
+Extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fl. 921):
+Inicialmente, suscito, de oficio, preliminar de não conhecimento (parcial) do recurso interposto por MAGDA GIUBERTI E BRENO GIUBERTI ante a inovação recursal.
+Isso porque a tese suscitada no mérito recurso de fls. 700/720 de aplicação da teoria aparência, não foi apresentada ao magistrado primeiro grau, configurando inovação recursal.
+Sendo assim, a alegação de que os apelantes agiram de boa-fé e que, portanto, deve-se aplicar in casu a teoria da aparência para declarar a legalidade do negócio jurídico de compra e venda, configura inovação recursal, visto que não foi apresentada na peça de defesa, não devendo devendo ser conhecida em segunda instância.
+Na hipótese, a parte recorrente limita-se a apontar violação dos arts. 182, 1.227, 1.245 e 1.268 do CC/2002, de forma que as razões recursais apresentadas encontram-se dissociadas daquilo que ficou decidido pelo Tribunal de origem, o que caracteriza deficiência na fundamentação do recurso especial e atrai, por analogia, o óbice da Súmula 284 do STF.
+Além disso, o conteúdo do referidos dispositivos não foi analisado pela Corte local, apesar da oposição de embargos declaratórios.
+Caberia à parte alegar violação do art. 1.022 do Código de Processo Civil de 2015, o que não ocorreu. Dessa forma, à falta do indispensável prequestionamento, incide a Súmula n. 211 do Superior Tribunal de Justiça.
+Em relação ao dissídio jurisprudencial, importa ressaltar que o conhecimento do recurso pela alínea "c" do permissivo constitucional exige indicação do dispositivo legal ao qual foi atribuída interpretação dissonante e demonstração da divergência, mediante cotejo analítico entre o acórdão recorrido e os paradigmas, de modo a verificar as circunstâncias que assemelhem ou identifiquem os casos confrontados, ônus dos quais a parte recorrente não se desincumbiu.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20%(vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os li mites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
