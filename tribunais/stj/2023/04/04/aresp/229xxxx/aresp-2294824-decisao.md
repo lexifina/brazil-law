@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de agravo interposto por INCORPORADORA PINHEIRO PEREIRA 10 LTDA. - EM RECUPERAÇÃO JUDICIAL e OUTRA contra a decisão que inadmitiu recurso especial.
+O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, impugna o acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro assim ementado:
+"APELAÇÃO CÍVEL. RESCISÃO CONTRATUAL CUMULADA COM DANOS MORAIS. ATRASO NA ENTREGA DE IMÓVEL COMERCIAL. ILEGITIMIDADE ATIVA QUE NÃO SE JUSTIFICA. EMPRESA QUE REALIZA CONTATOS COM OS CLIENTES COMO SE FOSSE PARTE CONTRATUAL. TEORIA DA APARÊNCIA. AUSÊNCIA DE APLICAÇÃO DE CLÁUSULA CONTRATUAL DE PRORROGAÇÃO DE ENTREGA DE IMÓVEL. ATRASO CAUSADO POR CULPA EXCLUSIVA DO PROMITENTE VENDEDOR. IMPOSSIBILIDADE DE RETENÇÃO DAS ARRAS. ART. 418 DO CÓDIGO CIVIL. INVERSÃO DA CLÁUSULA PENAL. POSSIBILIDADE. APLICAÇÃO SOMENTE DE CLÁUSULA COMPENSATÓRIA. PRECEDENTES. SENTENÇA QUE SE REFORMA PARA AFASTAR A APLICAÇÃO DA MULTA MORATÓRIA E MANTER A APLICAÇÃO DA INVERSÃO DA MULTA COMPENSATÓRIA, CUJO MONTANTE SERÁ DETERMINADO PELO JUÍZO A QUO, POR ARBITRAMENTO, MANTENDO A SENTENÇA NOS DEMAIS TERMOS PELOS SEUS PRÓPRIOS FUNDAMENTOS. RECURSO A QUE SE DÁ PARCIAL PROVIMENTO" (e-STJ fl. 475).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 524/529).
+No especial (e-STJ fls. 531/550), as recorrentes alegam violação dos seguintes dispositivos legais, com as respectivas teses:
+(i) artigos 489, § 1º, IV, e 1.022, parágrafo único, II, do Código de Processo Civil - o Tribunal de origem incorreu em negativa de prestação jurisdicional ao deixar de se manifestar a respeito das seguintes questões: incidência e validade da cláusula de tolerância, incompatibilidade entre o pedido de rescisão e a cláusula penal e quanto aos parâmetros da indenização pela inversão da cláusula penal adotada pelo Superior Tribunal de Justiça;
+(ii) artigos 413, 884 e 944 do Código Civil - a incompatibilidade da cláusula penal com o pedido de rescisão, visto que este faz com que retornem as partes ao status quo ante, e aquela pressupõe a manutenção do vínculo contratual, de modo que não pode a parte recorrida ser indenizada pelo atraso na entrega do imóvel se pretende resolver o contrato.
+Além disso, no julgamento dos temas nºs 970 e 971/STJ restou decidido que, em regra, a cláusula penal é fixada no percentual de 0,5% (meio por cento) sobre o valor do locativo.
+Pugnam para que a referida indenização seja considerada até a data do ajuizamento da ação, e
+(iii) artigo 85, § 11, do CPC - o Tribunal de origem contrariou a orientação do Superior Tribunal de Justiça ao dar parcial provimento ao apelo das recorrentes e, ainda assim, majorar a verba honorária devida à parte recorrida.
+Ao final, requerem o provimento do recurso.
+Após o decurso do prazo legal para a apresentação das contrarrazões (e-STJ fl. 565), o recurso foi inadmitido na origem, sobrevindo a interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação merece prosperar em parte.
+Trata-se, na origem, de ação de rescisão contratual c/c indenização por danos materiais e morais ajuizada por Fernando de Oliveira Dutra em desfavor de João Fortes Engenharia S.A. e Incorporadora Pinheiro Pereira 10 Ltda., ambas em recuperação judicial, objetivando a resolução do contrato de promessa de compra e venda devido ao atraso na entrega do imóvel.
+O magistrado de piso deu parcial procedência aos pedidos apenas para
+"(..)
+I - Decretar a rescisão do contrato celebrado entre as partes;
+II - Condenar as rés solidariamente na devolução integral dos valores pagos pelo autor, acrescidos de juros de mora a contar da citação e correção monetária contada de cada desembolso.
+III - Condenar as demandadas solidariamente ao pagamento da multa moratória prevista na cláusula 6.1 de forma inversa, com juros de mora de 1% ao mês desde a data prevista para a entrega (30/04/2015) até a data da rescisão do contrato, sobre o valor total já pago pelo Autor (R$ 65.167,39);
+IV - Condenar as rés solidariamente ao pagamento da multa compensatória prevista na cláusula 6.1.2 de forma inversa, juros compensatórios de 1% por mês de atraso, contados desde a data em que deveria ter sido entregue o imóvel (30/04/2015), incidentes sobre o valor total já pago pelo Autor (R$ 65.167,39)" (e-STJ fl. 358).
+O Tribunal local, por sua vez, deu parcial provimento ao apelo das recorrentes
+"(..) para afastar somente a aplicação da multa moratória contida na cláusula 6.1 do contrato firmado e manter a aplicação da inversão da multa compensatória, cujo montante será determinado pelo juízo a quo, por arbitramento, mantendo a sentença nos demais termos pelos seus próprios fundamentos" (e-STJ fl. 502).
+Irresignadas, buscam as recorrentes a reforma do julgado.
+De início, no tocante à violação dos artigos 489 e 1.022 do Código de Processo Civil, verifica-se que o tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+De fato, quanto à cláusula de tolerância, restou esclarecido que o prazo de tolerância estava, por contrato, condicionado a implemento de certas condições que não se verificaram, ou seja, "(..) afastou-se o adiamento da entrega do imóvel não por considerar ilegal o prazo pactuado, mas tão somente por não ter havido comprovação de que se implementaram as situações que permitissem a dilação do prazo" (e-STJ fl. 527).
+Já em relação à cláusula penal, o aresto que apreciou os aclaratórios consignou que a multa moratória foi afastada por ser incompatível com a rescisão contratual, contudo, a aplicação da multa compensatória foi mantida em virtude do inadimplemento total da obrigação.
+T ambém foi assentado pelo Tribunal local que o apelo das recorrentes "(..) se restringiu em requerer a redução da multa moratória, cujo afastamento foi reconhecido. Por outro lado, não houve impugnação ao montante devido a título de multa compensatória, cujo percentual foi fixado em sede de sentença" (e-STJ fl. 529).
+Como se observa, não há falar, portanto, em existência de omissão ou de deficiência de fundamentação apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+Quanto ao mérito, verifica-se que a Corte estadual, ao entender que a cláusula penal é devida pela resolução contratual em razão de inadimplemento, decidiu em conformidade com a jurisprudência deste Superior Tribunal de Justiça, atraindo a incidência da Súmula nº 568/STJ.
+A propósito:
+"PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA DA OBRA. CDC. AFASTAMENTO. NECESSIDADE DE VERIFICAÇÃO DOS REQUISITOS DE RELAÇÃO CONSUMERISTA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. MORA DA VENDEDORA. DESCARACTERIZAÇÃO. INADMISSIBILIDADE. APLICAÇÃO DA SÚMULA N. 7/STJ. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83/STJ. CLÁUSULA PENAL. INVERSÃO. POSSIBILIDADE. SÚMULA N. 83/STJ. DECISÃO MANTIDA.
+(..)
+6. A Segunda Seção do STJ, no julgamento do Recurso Especial representativo da controvérsia n. 1.614.721/DF, ocorrido em 22/5/2019, de relatoria do Ministro LUIS FELIPE SALOMÃO, concluiu que, "seja por princípios gerais do direito, seja pela principiologia adotada no CDC, ou, ainda, por comezinho imperativo de equidade, mostra-se abusiva a prática de estipular cláusula penal exclusivamente ao consumidor, para a hipótese de mora ou de inadimplemento contratual absoluto, ficando isento de tal reprimenda o fornecedor em situações de análogo descumprimento da avença. Destarte, prevendo o contrato a incidência de multa para o caso de inadimplemento por parte do consumidor, a mesma multa deverá ser considerada para o arbitramento da indenização devida pelo fornecedor, caso seja deste a mora ou o inadimplemento absoluto", entendimento aplicado pelo Tribunal de origem. Incidência da Súmula n. 83/STJ.
+7. Agravo interno a que se nega provimento" (AgInt no AREsp 1.970.669/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 25/4/2022, DJe de 28/4/2022.)
+Já em relação ao valor de referida multa, o aresto recorrido consignou que "(..) não houve impugnação ao montante devido a título de multa compensatória, cujo percentual foi fixado em sede de sentença" (e-STJ fl. 529).
+Nesse contexto, tendo sido reconhecida a preclusão quanto ao tema, não cabe a esta Corte o exame da questão por ausência de prequestionamento e por importar em indevida supressão de instância.
+Por fim, a jurisprudência deste Tribunal Superior entende que a condenação em honorários recursais, nos termos do art. 85, § 11, do CPC, ocorrerá quando simultaneamente se apresentarem as seguintes situações:
+a) a decisão recorrida for publicada a partir de 18/3/2016, quando entrou em vigor o CPC/2015;
+b) o recurso não for conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado, e
+c) a condenação em honorários advocatícios desde a origem no feito em que interposto o recurso.
+Nesse sentido, os seguintes precedentes:
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. HONORÁRIOS RECURSAIS. MAJORAÇÃO. IMPOSSIBILIDADE. SUCUMBÊNCIA RECÍPROCA. AUSÊNCIA DE CONDENAÇÃO EM HONORÁRIOS A FAVOR DE UMA OU DE OUTRA PARTE.
+(..)
+3. Ausente a condenação ao pagamento de verba honorária a favor de uma ou de outra parte, não é cabível o arbitramento dos honorários recursais previstos no art. 85, § 11, do CPC/2015.
+4. Embargos de declaração acolhidos em parte, sem efeitos modificativos, apenas para esclarecer-se quanto à aplicação aos honorários" (EDcl no AgInt nos EDcl no AREsp 1.336.829/RJ, Rel. Ministro OG FERNANDES, Segunda Turma, julgado em 20/2/2020, DJe 2/3/2020).
+"TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ALEGAÇÃO GENÉRICA DE OFENSA A DISPOSITIVO DE LEI FEDERAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. PRESCRIÇÃO. MOROSIDADE DO PODER JUDICIÁRIO. ACÓRDÃO EMBASADO EM PREMISSAS FÁTICAS. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 07/STJ. AUSÊNCIA DE CONDENAÇÃO ANTERIOR EM HONORÁRIOS ADVOCATÍCIOS. HONORÁRIOS RECURSAIS. NÃO CABIMENTO. AGRAVO INTERNO PARCIALMENTE PROVIDO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Revela-se deficiente a fundamentação do recurso quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284, do Supremo Tribunal Federal.
+III - Rever o entendimento da Corte de origem, com o objetivo de acolher a pretensão recursal de reconhecer a prescrição, bem como acerca da aplicação da Súmula n. 106/STJ, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 07 desta Corte.
+IV - Revela-se incabível a condenação em honorários recursais quando não houve a fixação anterior da verba honorária de sucumbência.
+V - Agravo Interno parcialmente provido tão somente para afastar a condenação em honorários recursais" (AgInt no REsp 1.952.626/RJ, Rel. Ministra REGINA HELENA COSTA, Primeira Turma, julgado em 19/10/2021, DJe 26/10/2021 - grifou-se).
+No caso, o Tribunal de origem deu parcial provimento ao apelo das recorrentes, não sendo cabível, portanto, a estipulação de honorários recursais em favor do recorrido.
+Ante o exposto, conheço do agravo para dar parcial provimento ao recurso especial, a fim de afastar a condenação em honorários recursais fixada em favor do autor ora recorrido.
+Publique-se.
+Intimem-se.
