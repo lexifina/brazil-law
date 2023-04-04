@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por CONSELHO REGIONAL DE FARMÁCIA DO ESTADO DE SÃO PAULO, contra decisão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"ADMINISTRATIVO. CONSELHO REGIONAL DE FARMÁCIA. RESPONSABILIDADE TÉCNICA. OFICIAL DE FARMÁCIA. SÚMULA N.º 120 DO STJ. POSSIBILIDADE.
+1. O E. Superior Tribunal de Justiça assentou entendimento de que o oficial de farmácia pode ser responsável técnico por drogaria (Súmula n.º 120).
+2. Apelação improvida" (fl. 172e).
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 180/184e), os quais restaram rejeitados (fls. 187/191e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora agravante aponta violação ao art. 535 do CPC/73, assim como ao art. 15, §3º, da Lei 5.991/73, sustentando a impossibilidade de assunção de responsabilidade técnica por Oficial de Farmácia, por não haver interesse público que justifique a medida. Alega, em relação à Súmula 120 do STJ, que "a mesma foi editada com base em processos nos quais encontravam-se presentes os requisitos que configuram o interesse público" e que, portanto, ela não se aplica ao caso em tela.
+Por fim, requer "seja dado o provimento da apelação interposta pelo ora recorrente, prosseguindo-se na ação executiva fiscal até que os valores sejam plenamente satisfeitos, por ser esta a única medida de JUSTIÇA EM PROTEÇÃO À SAÚDE PÚBLICA" (fls. 205/206e).
+Contrarrazões a fls. 222/231e.
+Inadmitido o Recurso Especial (fl. 236/238e), foi interposto o presente Agravo (fls. 243/248e).
+Sem Contraminuta.
+A irresignação não merece prosperar.
+Na origem, trata-se de Embargos à Execução Fiscal opostos pela parte ora recorrida, com o objetivo de declarar a inexistência das Certidões de Dívida Ativa que estavam sendo executadas pelo ora recorrente, sob o argumento de que o Oficial de Farmácia podia assumir a responsabilidade técnica da Farmácia, sem necessidade de que houvesse um Farmacêutico.
+Julgado procedente os Embargos à Execução Fiscal, recorreu o autor / o réu, restando mantida a sentença, pelo Tribunal Regional local.
+Daí a interposição do presente Recurso Especial.
+Inicialmente, em relação ao art. 535 do CPC/73, deve-se ressaltar que o acórdão recorrido, julgado sob a égide do anterior Código de Processo Civil, não incorreu em omissão, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente.
+Vale destacar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, REsp 1.129.367/PR, Rel. Ministra DIVA MALERBI (Desembargadora Federal Convocada/TRF 3ª Região), SEGUNDA TURMA, DJe de 17/06/2016; REsp 1.078.082/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 02/06/2016; AgRg no REsp 1.579.573/RN, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 09/05/2016; REsp 1.583.522/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 22/04/2016.
+No que tange à alegada violação ao art. 15, §3º, da Lei 5.991/73, extrai-se do voto condutor do acórdão recorrido que a aplicação da Súmula 120 do STJ ao caso concreto se deu com base em precedentes que indicam ser "despicienda a análise acerca da existência de interesse público, a fim de se evitar a interpretação restritiva e abusiva do permissivo legal".
+A parte ora recorrente, nas razões do Recurso Especial, cinge-se a repisar os mesmos argumentos refutados na origem, insistindo na tese de que a ausência de interesse público impede que o Oficial de Farmácia assuma a responsabilidade técnica da farmácia. Incide, no ponto, o óbice das Súmulas 283 e 284 do STF.
+Não bastasse isso, a procedência do Recurso Especial, a fim de se reconhecer a ausência de interesse público alegada pela parte recorrente, tornaria imprescindível o reexame dos fatos acostados aos autos, providência vedada pela Súmula 7 do STJ.
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do agravo, para conhecer parcialmente do Recurso Especial, e, nessa extensão, negar-lhe provimento.
+Deixo de majorar os honorários advocatícios, tendo em vista que o Recurso Especial foi interposto contra acórdão publicado na vigência do CPC/73, tal como dispõe o Enunciado administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC").
+I.
