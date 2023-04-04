@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo BRB BANCO DE BRASÍLIA S.A., com respaldo na alínea "a" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Distrito Federal e Territórios assim ementado (e-STJ fls. 266/267):
+APELAÇÃO. CIVIL E CONSUMIDOR. CONTRATOS BANCÁRIOS. SERVIDOR PÚBLICO. REGIME ESTATUTÁRIO. EMPRÉSTIMO. DESCONTO EM CONTA CORRENTE. LIMITAÇÃO. POSSIBILIDADE. PATAMAR DE 30%. DIGNIDADE PESSOA HUMANA. GARANTIA DO MÍNIMO EXISTENCIAL. RELATIVIZAÇÃO DA AUTONOMIA DA VONTADE PRIVADA. TEMA 1085, STJ. DISTINGUISHING.
+1. Apelação contra sentença que julgou parcialmente procedentes os pedidos para determinar que o réu se abstenha de promover descontos de empréstimo na conta corrente da autora em valor superior a 30% de seus rendimentos brutos, abatidos os descontos compulsórios, sob pena de multa.
+2. A limitação dos descontos oriundos de empréstimos bancários ao patamar de 30% (trinta por cento) é legitimamente direcionada às deduções consignadas em folha de pagamento. A jurisprudência, todavia, inclinou-se no sentido de que tal barreira pode ser aplicada analogicamente aos empréstimos com desconto autorizado em conta corrente, a fim de coibir o superendividamento e preservar as condições materiais essenciais e elementares à subsistência do consumidor e sua família. Relativizada autonomia da vontade privada. Precedentes.
+3. Constatado que os abatimentos decorrentes dos mútuos contraídos pela autora excedem o limite normativo, é impositiva a adequação das deduções ao patamar de 30% de sua remuneração mensal (consistente nos rendimentos brutos, abatidos apenas os descontos obrigatórios), com vistas a garantir-lhe o mínimo existencial.
+4. A limitação dos descontos ao total correspondente à margem consignável não exime o contratante da obrigação de saldar os débitos, tampouco afasta a possibilidade de a instituição financeira buscar a satisfação da dívida por outros meios.
+5. Recurso conhecido e desprovido.
+Não houve oposição de embargos de declaração.
+Nas suas razões, a parte recorrente aponta violação do art. 927, III, do CPC, sustentando que houve o desrespeito ao julgado no Tema n. 1.085/STJ.
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 308/309.
+Passo a decidir.
+O recurso não merece prosperar.
+A parte recorrente não se desincumbiu do ônus de especificar como o acórdão recorrido teria contrariado o dispositivo legal alegadamente violado, o que atrai, por analogia, a Súmula 284 do Supremo Tribunal Federal, que estabelece: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Nessa linha:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FORNECIMENTO DE ÁGUA E ESGOTO. COBRANÇA. ALEGAÇÕES GENÉRICAS. SUFICIÊNCIA DAS PROVAS DOS AUTOS PARA FORMAÇÃO DA CONVICÇÃO DO JULGADOR. CERCEAMENTO DE DEFESA. AUSÊNCIA. INDEFERIMENTO DE PROVA DESNECESSÁRIA. REVISÃO DO JUÍZO. SÚMULA 7/STJ. INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. SÚMULA 280/STF. DEFICIÊNCIA DA FUNDAMENTAÇÃO RECURSAL. SÚMULAS 284/STF E 283/STF.
+1. O presente recurso foi interposto na vigência do CPC/2015, razão pela qual incide o Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+2. Não se conhece do recurso quanto aos arts. 11, 141, 489 e 1.022 do CPC/2015, quando as razões recusais cingem-se à alegação genérica de violação e não indicam, de forma clara e objetiva, as questões acoimadas de vício, com a demonstração de sua relevância para o deslinde da causa, a ensejar o rejulgamento dos aclaratórios na origem. Incidência do óbice da Súmula 284/STF.
+(..)
+6. Configura deficiência da fundamentação recursal a apresentação de razões dissociadas, que não impugnam fundamentação do acórdão por si só suficiente para manter o entendimento expendido. Aplicação das Súmulas 284 e 283 do STF.
+7. Agravo interno não provido.
+(AgInt no AREsp n. 1.797.792/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 6/3/2023, DJe de 9/3/2023.).
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. AGENTE DE SEGURANÇA JUDICIÁRIA. GAS. TESTE DE CONDICIONAMENTO FÍSICO. LEGALIDADE. ACÓRDÃO ALINHADO COM A JURISPRUDÊNCIA DO STJ. DEFICIÊNCIA RECURSAL. ALEGAÇÕES GENÉRICAS DE OFENSA A LEGISLAÇÃO. APLICAÇÃO DA SÚMULAS N. 83 DO STJ E 284 DOS STF.
+(..)
+X - Fica inviabilizado o confronto interpretativo acima referido quando o recorrente, apesar de indicar dispositivos infraconstitucionais como violados, deixa de demonstrar como tais dispositivos foram ofendidos. Nesse diapasão, verificado que o recorrente deixou de explicitar os motivos pelos quais consideraria violada a legislação federal, apresenta-se evidente a deficiência do pleito recursal, atraindo o teor da Súmula n. 284 do STF. Acerca do assunto, os seguintes precedentes: (AgInt no AREsp n. 461.849/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 2/5/2017, DJe 5/5/2017 e AgInt no REsp n. 1.595.285/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 6/10/2016, DJe 17/10/2016.) XI - Agravo interno improvido.
+(AgInt nos EDcl no REsp n. 1.972.204/AL, relator Ministro Francisco Falcão, Segunda Turma, julgado em 17/10/2022, DJe de 19/10/2022.).
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, caso aplicáveis os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
