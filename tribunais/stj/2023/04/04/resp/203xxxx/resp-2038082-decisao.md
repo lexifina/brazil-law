@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por FEDERAL DE SEGUROS S/A - FALIDO, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim ementado:
+"PROCESSUAL CIVIL. SISTEMA FINANCEIRO DA HABITAÇÃO. SEGURO HABITACIONAL. FCVS. COMPETÊNCIA.
+I. Nos contratos regidos pelas normas do SFH em que se discute a cobertura securitária, a CEF somente possui interesse a respaldar seu ingresso na lide se forem preenchidos três requisitos, a saber, se o contrato foi celebrado entre 02.12.1988 e 29.12.2009; se a apólice for pública, com cobertura do Fundo de Compensação de Variações Salariais - FCVS (Ramo 66); bem como a demonstração cabal de comprometimento do FCVS. Recurso Especial nº 1.091.363/SC.
+II - Hipótese dos autos em que o contrato de financiamento imobiliário foi celebrado antes do advento da Lei 7.682 de 02.12.1988. Intervenção da CEF na lide. Impossibilidade.
+III - A Lei 13.000/14 em nada altera o quadro fixado pela jurisprudência do E. STJ tendo em vista que continua sendo exigida a comprovação da demonstração de comprometimento do FCVS, com risco efetivo de exaurimento da reserva técnica do Fundo de Equalização de Sinistralidade da Apólice - FESA, prova esta ausente nos autos. IV - Agravo de Instrumento desprovido e embargos de declaração prejudicados." (fls. 821e).
+Nas razões do Recurso Especial (fls. 826/842e), interposto com base no art. 105, III, a e c, da Constituição Federal, a parte ora recorrente aponta, além do dissídio jurisprudencial, violação da Lei 13.000/2014 em conjunto com a Súmula 150/STJ, Lei 12.409/2011 e Resolução 364/2014 do FCVS, quanto a legitimidade da CEF e a competência da Justiça Federal para processar e julgar causas em que se discute contrato de seguro vinculado à apólice pública, na qual a CEF atue em defesa do FCVS.
+Por fim, requer a reforma do acórdão para considerar a legitimidade da Caixa Econômica Federal e a competência da Justiça Federal (fl. 842e).
+Contrarrazões a fls. 877/888e.
+O Recurso Especial foi admitido pelo Tribunal de origem (fls. 900/903e).
+A irresignação não merece prosperar.
+Na origem, trata-se de Ação Ordinária ajuizada por Eneziana Eunice Martins em face da parte ora recorrente, objetivando a condenação da ré por danos estruturais a imóvel financiado no âmbito do Sistema Financeiro de Habitação.
+Por decisão monocrática, a Juíza Federal da 2ª Vara Federal de Campo Grande/MS indeferiu a intervenção da Caixa Econômica Federal na lide e, em consequência, declarou a incompetência absoluta da Justiça Federal para julgar o feito, determinando-se a remessa dos autos à Justiça Estadual.
+A Federal Seguros S.A interpôs Agravo de Instrumento (fls. 6/49e), não providos pelo Tribunal, ao fundamento de que se trata de apólice não garantida pelo FCVS, pois o contrato foi firmado em 29/12/1982, anteriormente à vigência da Lei nº 7.682/1988, ficando afastado o interesse da Caixa Econômica Federal na lide, em conformidade com a Súmula 150 do Superior Tribunal de Justiça.
+Daí a interposição do presente Recurso Especial.
+Com efeito, o recurso não merece trânsito, pois a parte recorrente não indicou, de forma clara e individualizada, como lhe competia, os dispositivos legais que porventura tenham sido malferidos pelo Tribunal de origem, o que caracteriza ausência de técnica própria indispensável à apreciação do Recurso Especial.
+Nos termos da jurisprudência desta Corte, o conhecimento do Recurso Especial exige a indicação, de forma clara e individualizada, de qual dispositivo legal teria sido violado ou objeto de interpretação divergente, sob pena de incidência da Súmula 284 do Supremo Tribunal Federal. Assim, seja pela alínea a, seja pela alínea c do permissivo constitucional, é necessária a indicação do dispositivo legal tido como violado ou em relação ao qual teria sido dada interpretação divergente.
+A propósito:
+"AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - EXCEÇÃO DE INCOMPETÊNCIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA DA RÉ.
+1. A alegação de ofensa a dispositivos legais que não foram arrolados no recurso especial constitui indevida inovação recursal, inviabilizando o exame da tese em sede de agravo interno.
+2. Não há falar em omissão e, por conseguinte, em contrariedade ao art. 535 do CPC/1973, pois o julgamento da lide apenas se deu de forma contrária aos interesses da parte.
+3. A admissibilidade do recurso especial exige a clareza na indicação dos dispositivos de lei federal supostamente contrariados, bem como a explanação precisa da medida em que o acórdão recorrido teria afrontado cada um desses artigos, sob pena de incidência da Súmula nº 284 do STF.
+(..)
+8. Primeiro agravo interno desprovido. Segundo agravo interno não conhecido, por força da preclusão consumativa" (STJ, AgInt no REsp 1.628.949/PI, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe de 07/03/2018).
+Por outro lado, resta consolidado o entendimento no âmbito desta Corte, por força da Súmula 518/STJ, segundo a qual "para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula", porquanto tal ato não se enquadra no conceito de "tratado ou lei federal", previsto no permissivo constitucional (art. 105, III, a), tratando-se de mero entendimento consolidado no âmbito do Poder Judiciário, não tendo o condão de abrir a via estreita dos recursos excepcionais.
+Assim, limitando-se a parte recorrente a apontar violação à Súmula 150/STJ, furtando-se de indicar, de forma clara, precisa e expressa , violação a norma infraconstitucional, não há como conhecer-se da presente irresignação.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+I.
