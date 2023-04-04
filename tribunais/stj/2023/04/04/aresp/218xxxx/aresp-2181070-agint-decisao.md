@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se  de  agravo  interno  interposto  por  SPE  RIO  2014  INCORPORADORA  E  CONSTRUTORA  LTDA.  e  CONSTRUTORA  SANTA  CECÍLIA  DO  RIO  DE  JANEIRO  LTDA.  contra  a  decisão  da  Presidência  do  Superior  Tribunal  de  Justiça  (fls.  596-598,  e-STJ)  que  não  conheceu  do  agravo  em  recurso  especial  devido  à  ausência  de  impugnação  específica  da  afronta  ao  art.  1.022  do  Código  de  Processo  Civil.
+Em  suas  razões,  as  agravantes  aduzem  que  "(..)  O  julgamento  dos  Embargos  foi  um  copia  e  cola  do  acórdão  embargado.  É  impossível,  nessas  circunstâncias,  que  o  recurso  das  ora  Agravantes  tenha  sido  apreciado",  violando  o  art.  1.022  do  Código  de  Processo  Civil.
+Impugnação  às  fls.  629-635  (e-STJ).
+É  o  relatório.
+DECIDO.
+Em  virtude  dos  argumentos  expostos  pelas  agravantes,  reconsidera-se  a  decisão  de  fls.  596-598  (e-STJ)  e  passa-se  à  análise  do  agravo  em  recurso  especial.
+Trata-se  de  agravo  interposto  contra  a  decisão  que  inadmitiu  recurso  especial.  O  apelo  extremo,  fundamentado  no  art.  105,  inciso  III,  alíneas  "a"  e  "c",  da  Constituição  Federal,  insurgiu-se  contra  o  acórdão  proferido  pelo  Tribunal  de  Justiça  do  Estado  do  Rio  de  Janeiro  assim  ementado:
+"Agravo  interno  em  apelação  cível.  Apelação  cível.  Direito  do  consumidor.  Ação  de  rescisão  contratual  c/c  indenizatória  por  danos  morais.  Promessa  de  compra  e  venda  de  imóvel  na  planta.  Atraso  na  entrega,  mesmo  considerado  o  acréscimo  de  90  dias.  Sentença  de  procedência  reformada  em  parte  em  sede  recursal.  Inadimplemento  da  Ré.  Jurisprudência  do  STJ  e  desta  Corte,  consolidadas  nas  Súmulas  543  e  98,  admitindo  a  imediata  restituição  das  parcelas  pagas  pelo  promitente  comprador,  integralmente,  em  caso  de  culpa  exclusiva  do  promitente  vendedor/construtor.  Dano  moral  configurado  em  razão  da  falha  na  prestação  do  serviço  ao  consumidor.  Verba  indenizatória  reduzida.  Súmula  nº  343  do  STJ.  Recurso  que  não  apresenta  elementos  de  convicção  que  autorizem  a  alteração  do  julgado.  Desprovimento"  (fl.  462,  e-STJ).
+Os  embargos  de  declaração  foram  rejeitados  (fl.  484,  e-STJ).
+No  seu  arrazoado,  as  recorrentes  alegam,  além  de  divergência  jurisprudencial  quanto  ao  dano  moral,  a  violação  dos  arts.  489  e  1.022  do  CPC.
+Contrarrazões  juntadas  às  fls.  539-544  (e-STJ).
+O  recurso  foi  inadmitido  na  origem,  sobrevindo  daí  o  presente  agravo.
+Ultrapassados  os  requisitos  de  admissibilidade  do  agravo,  passa-se  ao  exame  do  recurso  especial.
+A  irresignação  merece  parcial  provimento.
+Inicialmente,  observa-se  que,  no  caso  em  apreço,  as  questões  trazidas  aos  autos  foram  devidamente  analisadas  e  discutidas,  e  fundamentado  corretamente  o  aresto  impugnado,  de  modo  a  exaurir  a  prestação  jurisdicional,  não  há  falar  em  violação  dos  arts.  489  e  1.022  do  CPC.
+Acerca  da  indenização  por  danos  morais,  o  aresto  recorrido  entendeu  que
+"(..)  o  atraso  na  conclusão  das  obras  frustra  a  legítima  expectativa  do  consumidor,  justificando  a  indenização  por  danos  morais,  nos  termos  do  artigo  6º,  VI  c/c  artigo  14,  caput  e  §1º,  do  CDC"  (fl.  439,  e-STJ).
+Todavia,  esta  Corte  Superior  tem  entendimento  firme  no  sentido  de  que,  em  regra,  a  demora  na  entrega  do  imóvel  constitui  mero  inadimplemento  contratual,  o  que,  por  si  só,  não  gera  o  dever  de  indenizar.
+A  propósito:
+"CIVIL.  PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NOS  EMBARGOS  DE  DECLARAÇÃO  NO  RECURSO  ESPECIAL.  RECURSO  MANEJADO  SOB  A  ÉGIDE  DO  NCPC.  COMPRA  E  VENDA  DE  IMÓVEL  EM  CONSTRUÇÃO.  OPERAÇÃO  ANTERIOR  À  LEI  Nº  13.786/2018.  LESÃO  EXTRAPATRIMONIAL.  CARACTERIZAÇÃO  COM  BASE  EXCLUSIVAMENTE  NA  DEMORA  NA  CONCLUSÃO  DA  OBRA.  ORIENTAÇÃO  DA  TERCEIRA  TURMA  NO  SENTIDO  DE  QUE  O  MERO  INADIMPLEMENTO  CONTRATUAL  NÃO  CONFIGURA  DANO  MORAL.  INCIDÊNCIA  DA  SÚMULA  Nº  568  DO  STJ.  DECISÃO  MANTIDA.  AGRAVO  INTERNO  NÃO  PROVIDO.
+1.  Aplica-se  o  NCPC  a  este  recurso  ante  os  termos  do  Enunciado  Administrativo  nº  3,  aprovado  pelo  Plenário  do  STJ  na  sessão  de  9/3/2016:  Aos  recursos  interpostos  com  fundamento  no  CPC/2015  (relativos  a  decisões  publicadas  a  partir  de  18  de  março  de  2016)  serão  exigidos  os  requisitos  de  admissibilidade  recursal  na  forma  do  novo  CPC.
+2.  A  jurisprudência  desta  Corte  é  firme  no  sentido  de  que,  em  regra,  o  atraso  na  entrega  do  imóvel  constitui  mero  inadimplemento  contratual,  o  que,  por  si  só,  não  gera  dano  moral  indenizável.  Na  hipótese,  o  Tribunal  de  Justiça  não  consignou  a  existência  de  circunstância  excepcional  a  caracterizar  dano  moral,  motivo  pelo  qual  é  indevida  a  indenização.
+3.  Não  sendo  a  linha  argumentativa  apresentada  capaz  de  evidenciar  a  inadequação  dos  fundamentos  invocados  pela  decisão  agravada,  o  presente  agravo  não  se  revela  apto  a  alterar  o  conteúdo  do  julgado  impugnado,  devendo  ele  ser  integralmente  mantido  em  seus  próprios  termos.
+4.  Agravo  interno  não  provido"  (AgInt  no  AREsp  2.157.998/RJ,  Rel.  Ministro  MOURA  RIBEIRO,  Terceira  Turma,  julgado  em  10/10/2022,  DJe  de  13/10/2022).
+  Ante  o  exposto,  reconsiderando  a  decisão  de  fls.  596-598  (e-STJ),  conheço  do  agravo  para  conhecer  do  recurso  especial  e  dar-lhe  parcial  provimento  para  excluir  a  indenização  por  danos  morais.
+Publique-se.
+Intimem-se.
