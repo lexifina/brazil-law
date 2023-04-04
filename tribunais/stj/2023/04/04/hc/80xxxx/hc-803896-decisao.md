@@ -1,0 +1,28 @@
+DECISÃO
+RAMONES GUILHERME DA SILVA PASSOS alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado da Bahia.
+A defesa pretende a revogação da prisão preventiva do paciente, sob o argumento de excesso de prazo para o julgamento da apelação criminal.
+O MPF opinou pela denegação da ordem (fls. 749-753).
+Decido.
+Infere-se dos autos que o acusado foi condenado pelo delito previsto no art. 157 § 2º, II, § 2º-A, I e § 3º, II, c/c o art. 69, todos do CP, a 27 anos e 11 meses de reclusão, em regime inicial fechado.
+As informações prestadas pelo Juízo de origem esclarecem que:
+ ..
+Inicialmente, importa consignar que, após regular tramitação da ação penal, o réu Ramones foi condenado, juntamente com outro indivíduo(Bruno Lima da Silva) lhe sendo atribuída as penas de vinte e sete anos e onze meses de reclusão, em regime fechado, e pagamento de 98 (noventa e oito) dias-multa, em razão da prática dos delitos previstos no art. 157, §2º, inciso II, §2º-A, I, e §3º, inciso II, c/c o 69, todos do Código Penal(ID. nº 39703769).
+Irresignado, o acusado interpôs recurso de apelação no dia 01/10/2021 (ID. nº 39703788).
+Os autos foram distribuídos para este Relator no dia 13/10/2021, que, em 18/10/2021, proferiu despacho determinando, primeiramente, a intimação da defesa dos réus a fim de que apresentasse as razões de apelo, em seguida fosse intimado o MP de1º grau para oferecimento de contrarrazoado e, por fim, o encaminhamento dos autos à Procuradoria de Justiça para os fins de emissão de parecer (ID. nº25736771).
+Em 03/12/2021, os fólios foram enviados aoNúcleo Central de Digitalização - UNIJUD. Em 22/02/2022, as partes foram intimadas (comunicação eletrônica/ato ordinatório) acerca da digitalização e consequente inserção do processo na plataforma do sistema PJE.
+Tendo em vista que as partes não apresentara mas sobreditas razões e contrarrazões, este Relator proferiu despacho reiterativo, em 08/06/2022 (ID. nº 29921167).
+Em 13/06/2022, a Defesa do réu Ramones apresentou suas razões de apelo (ID. nº 30166095), nas quais alegou,  .. .
+Em 14/12/2022, os autos foram remetidos ao 1ºgrau, em diligência, para que o Ministério Público juntasse suas contrarrazões.
+Contrarrazões apresentadas pelo Ministério Público Estadual no dia 19/01/2023 (ID. nº39703805), nas quais pugnou pelo total improvimento do apelo, confirmando-se a sentença condenatória.
+Em 13/02/2023, a Procuradoria de Justiça apresentou opinativo (ID. nº 40539069).
+Desde então, o feito já se encontra em vias de confecção de voto, com vistas à submissão do mesmo a julgamento. Gize-se, por oportuno, que a prisão preventiva do Paciente (ID. nº 39702630 - fls. 22 a 24) fora decretada, tendo em vista a periculosidade social do mesmo, evidenciada pelo modus operandi (roubo sem sequência, mediante o concurso de agentes, emprego de arma de fogo e violência extremada contra as vítimas, uma delas vindo a óbito) do delito.  ..
+Ademais, impende registrar que se trata de ação penal complexa, envolvendo mais de um réu, sendo que o apelo tem recebido o devido impulso, sem que tenha extrapolado o horizonte da razoabilidade, mormente quando em cotejo com o sobredito quantum de pena definitiva (vinte e sete anos e onze meses de reclusão em regime fechado) aplicado no primeiro grau, consoante consignado na decisão in limine da Corte Superior de Justiça.  ..  (fl. 741-744, grifei).
+Sobre o alegado excesso de prazo na prisão, faço lembrar que os prazos processuais previstos na legislação pátria devem ser computados de maneira global e o reconhecimento do excesso deve-se pautar sempre pelos critérios da razoabilidade e da proporcionalidade (art. 5º, LXXVIII, da CF), considerando cada caso e suas particularidades.
+Na hipótese, não constato delonga injustificada na tramitação processual. De acordo com a cronologia dos atos processuais acima descritos, verifica-se que o feito tem tramitado normalmente, sobretudo ao se considerar a pluralidade de réus e a complexidade do crime apurado e a necessidade de digitalização dos autos e de nova intimação das partes para apresentação das razões recursais.
+Assim, reitero que considerando a pena total aplicada e o andamento do feito - que já conta com o parecer do Ministério Público estadual -, não verifico flagrante excesso de prazo, pois não foi demonstrado que, em razão de eventual demora para a apreciação da apelação, a apenado se encontre impedido de usufruir de benefícios relativos à execução da sua pena.
+Nesse sentido:
+ ..
+2. O excesso de prazo para o julgamento da apelação não pode ser medido apenas em razão do tempo decorrido para o julgamento do recurso, devendo ser apreciado, também, a partir do princípio da razoabilidade e da proporcionalidade, tendo em vista a complexidade da causa em julgamento, bem como a pena imposta na sentença condenatória.
+3. Na hipótese, a defesa apresentou as razões recursais, em segundo grau, em 26/10/2016. O órgão acusatório foi devidamente intimado para apresentar as contrarrazões e, logo após, os autos foram encaminhados à Procuradoria Geral, que ofertou parecer, tendo sido conclusos ao relator, em 17/4/2017, para estudo. Nesse contexto, considerando a pena imposta na sentença (10 anos de reclusão), os trâmites necessários, a complexidade do feito, pois cuida-se de assalto à empresa, com apelação de dois réus, não se visualiza desídia que possa ser atribuída ao Tribunal, que justifique o relaxamento da prisão por excesso de prazo.4. Habeas corpus parcialmente conhecido e, nessa extensão, ordem denegada. (HC n. 403.016/RJ, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 15/8/2017).
+À vista do exposto, denego a ordem de habeas corpus.
+Publique-se e intimem-se.
