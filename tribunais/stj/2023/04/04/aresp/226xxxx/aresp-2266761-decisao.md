@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de Agravo contra inadmissão do Recurso Especial por incidência das Súmulas 7, 83 e 211/STJ; e 282 e 356/STF.
+Entendem as agravantes que houve discussão acerca do art. 1º da Lei da Ação Popular que, justamente, versa sobre o seu cabimento. Defendem:
+O QUE SE PRETENDE, COMO JÁ MENCIONADO, É ANULAR O ATO DO PODER PÚBLICO LESIVO AO PATRIMÔNIO PÚBLICO, QUAL SEJA, A NEGATIVA DE CUMPRIMENTO DOS TERMOS CONTRATUAIS FIRMADOS AO CUSTO DE PRATICAMENTE DEZOITO MILHÕES DE REAIS. Como visto, foi este o valor recebido pela Segunda Agravada para corrigir 2.675 redações dos candidatos da ampla concorrência do Concurso da Policial Federal.
+Contudo, os documentos juntados aos autos demonstram que esse quantitativo não foi atingido!
+ ..
+Dessa forma, não se olvida que na forma em que proferida, a decisão viola a Lei 7.347/1985, no artigo 1º, inciso IV. Da mesma forma, tem-se por violada a Lei 4.717/1965 nos artigos 1º e 2º! Sendo a ação popular parte de um microssistema de defesa de direitos, é fato que aos autores é dado o direito de provocarem o Poder Judiciário em busca de resposta!
+Assim sendo, não se olvida que cada candidato prejudicado poderia socorrer-se ao Poder Judiciário, como mencionado na sentença. Contudo, isso não elide o cabimento da presente ação. Ademais, pensando de forma pragmática, a prevalecer o entendimento segundo o qual a possibilidade de tutela de um direito de forma individual afasta o cabimento de ações coletivas, então não é errado concluir que jamais caberão ações coletivas.
+Contrarrazões às fls. 947- 958, e-STJ
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 14 de março de 2023.
+O acórdão foi assim ementado (fls. 947-958, e-STJ):
+AÇÃO POPULAR. ABRANGÊNCIA. INADEQUAÇÃO DA VIA PROCESSUAL ELEITA. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DO MÉRITO. SENTENÇA MANTIDA. APELO IMPROVIDO.
+1. A ação popular tem por objetivo a invalidação de atos praticados pelo Poder Público que sejam lesivos ao patrimônio público ou de entidade de que o Estado participe, à moralidade administrativa, ao meio ambiente e ao patrimônio histórico e cultural, nos termos do art. 5º, LXXIII, da Constituição Federal.
+2. Inviável a utilização de ação popular para proteção de interesses particulares, devendo ser extinto o feito, sem resolução do mérito, por inadequação da via processual eleita.
+O aresto entendeu que a via é inadequada para a proteção de direitos individuais, ainda que homogêneos. Não restou demonstrado nos autos que se trata de interesses e direitos difusos, quais sejam, os transindividuais, de natureza indivisível, de que sejam titulares pessoas indeterminadas e ligadas por circunstâncias de fato, para defesa do patrimônio público, concreto ou abstrato. Colho do voto:
+Logo, entendo que a petição inicial deve ser indeferida, por inadequação da via eleita, no que se refere à essa discussão, nos termos do art. 1º da Lei 4.717/1965 c/c art. 485, IV, do CPC (falta de interesse de agir decorrente da inadequação da via eleita).
+Não se vislumbra a ocorrência de lesão ao patrimônio público ou de entidade de que o Estado participe, à moralidade administrativa, ao meio ambiente e ao patrimônio histórico e cultural, nos termos do art. 5º, LXXIII, da Constituição Federal, fator absolutamente necessário para propositura da ação, uma vez que prepondera, no caso, o interesse eminentemente individual dos envolvidos.
+Resta pacificado o entendimento de que a vaga alegação de imoralidade administrativa não configura lesão ao patrimônio público, de sorte que os pedidos da inicial se distanciam, em muito, da lista exemplificativa trazida pelo art. 4º da Lei de Ação Popular. Nesse sentido, aresto do TRF da 4ª Região a seguir transcrito:
+ADMINISTRATIVO. CONSTITUCIONAL. AÇÃO POPULAR. ABRANGÊNCIA. INADEQUAÇÃO DA VIA PROCESSUAL ELEITA. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DO MÉRITO.
+- A ação popular tem por objetivo a invalidação de atos praticados pelo Poder Público que sejam lesivos ao patrimônio público ou de entidade de que o Estado participe, à moralidade administrativa, ao meio ambiente e ao patrimônio histórico e cultural, nos termos do art. 5º, LXXIII, da Constituição Federal.
+- Inviável a utilização de ação popular para proteção de interesses particulares, devendo ser extinto o feito, sem resolução do mérito, por inadequação da via processual eleita. (TRF4 5026920-80.2015.404.7200, Terceira Turma, Relator p/ Acórdão Ricardo Teixeira do Valle Pereira, juntado aos autos em 10/03/2016)
+Sendo assim, diante da inadequação da via processual eleita, deve ser mantida a extinção do processo sem resolução do mérito, com fulcro no art. 485, IV, do CPC.
+Os referidos dispositivos legais não foram analisados pela instância de origem sob o viés pretendido pela parte. Ausente, portanto, o indispensável requisito do prequestionamento, o que atrai, por analogia, o óbice da Súmula 282/STF: "É inadmissível o Recurso Extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+Para se afastar a conclusão do decisum recorrido, de que se trata de "interesse eminentemente individual", e analisar a tese defendida no Recurso Especial, seria imprescindível a revisão do conjunto probatório dos autos. Incide a Súmula 7/STJ.
+Não se verifica a distinção para afastar os precedentes colacionados no juízo prelibador. Inadmitido o REsp com base na Súmula 83/STJ, incumbiria à parte interessada apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada, procedendo ao cotejo analítico entre eles. Dessume-se não atacada a referida Súmula. É inviável o Agravo que deixa de atacar os fundamentos da decisão agravada. Incide a Súmula 182 do STJ. Nesse sentido:
+ADMINISTRATIVO. SERVIDOR PÚBLICO FEDERAL. ENQUADRAMENTO. LICENÇA-PRÊMIO NÃO GOZADA. CÔMPUTO COMO TEMPO EFETIVO DE EXERCÍCIO. LEI 11.091/05. POSSIBILIDADE. PRECEDENTES. SÚMULA 83 DO STJ. FUNDAMENTO DA DECISÃO AGRAVADA NÃO ATACADO. SÚMULA 182 DO STJ. PREQUESTIONAMENTO. AUSÊNCIA.
+1. A orientação do STJ é de que, se a licença-prêmio não gozada foi computada como tempo efetivo de serviço, para fins de aposentadoria, conforme autorização legal, não pode ser desconsiderada para fins do enquadramento previsto na Lei 11.091/05.
+2. É inviável o agravo que deixa de atacar os fundamentos da decisão agravada. Incide a Súmula 182 do STJ.
+3. Fundamentada a decisão agravada no sentido de que o acórdão recorrido está em sintonia com o atual entendimento do STJ, deveria a recorrente demonstrar que outra é a positivação do direito na jurisprudência do STJ.
+4. A tese jurídica debatida no Recurso Especial deve ter sido objeto de discussão no acórdão atacado. Inexistindo esta circunstância, desmerece ser conhecida por ausência de prequestionamento. Súmula 282 do STF.
+5. Agravo Regimental não provido. (AgRg no REsp 1.374.369/RS, Relator Ministro Herman Benjamin, Segunda Turma, DJe 26.6.2013)
+Acrescenta-se que a fundamentação supra é apta, por si só, para manter o decisum combatido e não houve contraposição recursal sobre "a vaga alegação de imoralidade administrativa" ou sobre que "os pedidos da inicial se distanciam, em muito, da lista exemplificativa trazida pelo art. 4º da Lei de Ação Popular", aplica-se na espécie, por analogia, o óbice da Súmula 283/STF: "É inadmissível o Recurso E xtraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+Por tudo isso, não conheço do Agravo em Recurso Especial.
+Publique-se.
+Intimem-se.
