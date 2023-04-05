@@ -1,0 +1,67 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº
+5001752-79.2022.8.08.0024
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: HDI SEGUROS S.A.
+RECORRIDO: JULIANA CRISTINA SIQUEIRA DIAS
+RELATOR(A
+):SALOMAO AKHNATON ZOROASTRO SPENCER ELESBON
+
+_______________________________________________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+NOTAS ORAIS
+VOTOS COM DOCUMENTO
+(EXCETO VOTO VENCEDOR)
+VOTO VENCEDOR
+Recurso Inominado nos autos n° 5001752-79.2022.8.08.0024
+
+Recorrente:
+HDI SEGUROS SA.
+
+Recorrido:
+JULIANA CRISTINA SIQUEIRA DIAS
+
+Relator: SALOMÃO AKHNATON ZOROASTRO SPENCER ELESBON
+
+Data do Julgamento:
+
+VOTOS
+
+DR. SALOMÃO AKHNATON ZOROASTRO SPENCER ELESBON
+–
+RELATOR
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA: JUIZADO ESPECIAL CÍVEL. RECURSO INOMINADO. AÇÃO INDENIZAÇÃO DE DANOS MATERIAIS. DIREITO DO CONSUMIDOR. CONTRATO DE SEGURO DE AUTOMÓVEL. RESTITUIÇÃO DE VALORES. INEXISTÊNCIA DA COMPROVAÇÃO DO AGRAVAMENTO DO RISCO OU DA MÁ-FÉ DO CONTRATANTE. SINISTRO OCORRIDO QUANDO TERCEIRO EMBRIAGADO ESTAVA DIRIGINDO AUTOMÓVEL. INDENIZAÇÃO SECURITÁRIA DEVIDA. COMPETÊNCIA PARA JULGAMENTO DO JUIZADO ESPECIAL PARA AÇÕES DE COBRANÇA DE SEGURO INDEPENDENTE DE VALOR, POR FORÇA DE LEI. ARTIGO 3º, II DA LEI 9.099/95 C/C ARTIGO 275, II DO CPC. SENTENÇA QUE FIXOU A INDENIZAÇÃO DE DANOS MATERIAIS NO VALOR DE R$ 66.209,49 (SESSENTA E SEIS MIL DUZENTOS E NOVE REAIS E QUARENTA E NOVE CENTAVOS). RECURSO CONHECIDO MAS IMPROVIDO. SENTENÇA MANTIDA PELOS PRÓPRIOS FUNDAMENTOS, NA FORMA DO ART. 46, DA LEI Nº 9.099/95. CONDENAÇÃO DA RECORRENTE AO PAGAMENTO DAS CUSTAS E DE HONORÁRIOS ADVOCATÍCIOS FIXADOS NO IMPORTE DE 10% SOBRE O VALOR DA CONDENAÇÃO.
+
+VOTO
+
+O Sr. Juiz de Direito Dr. GUSTAVO HENRIQUE PROCÓPIO SILVA
+
+- Acompanho o voto do Eminente Relator.
+
+O Sr. Juiz de Direito Dr. GRÉCIO NOGUEIRA GRÉGIO -
+Acompanho o voto do Eminente Relator.
+
+DECISÃO
+
+Por maioria de votos,
+CONHECER
+do recurso inominado interposto e lhe
+NEGAR
+
+PROVIMENTO,
+para manter a sentença por seus próprios fundamentos, nos termos do artigo 46 da Lei 9.099/95, além de
+CONDENAR
+a parte recorrente ao pagamento de custas e dos honorários advocatícios no importe de 10% sobre o valor da condenação.
+
+EMENTA
+Voto servindo como ementa.
+DECISÃO
+À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
