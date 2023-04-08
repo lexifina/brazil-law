@@ -1,0 +1,73 @@
+DECISÃO
+
+RECURSO EXTRAORDINÁRIO. AUSÊNCIA DE CONCURSO PÚBLICO. SERVIDORA NÃO EFETIVA, COM ESTABILIDADE PELO ART. 19 DO ADCT. VINCULAÇÃO AO RGPS. PROVIMENTO.
+
+    1. Trata-se de recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal da 1ª Região, assim ementado:
+
+    “ADMINISTRATIVO. PROCESSUAL CIVIL. SERVIDORES PÚBLICOS ORIUNDOS DO ESTADO DE GOIÁS CONTRATADOS ANTES DA CF/88. ESTABILIDADE NO SERVIÇO PÚBLICO. ART. 19 DO ADCT DA CF188. INEXISTÊNCIA DE EFETIVIDADE NO CARGO/EMPREGO PÚBLICO. TRANSFERÊNCIA PARA O ESTADO DO TOCANTINS. VINCULAÇÃO AO INSTITUTO DE PREVIDÊNCIA DO ESTADO DO TOCANTINS — IPETINS (ATUAL INSTITUTO DE GESTÃO PREVIDENCIÁRIA DO TOCANTINS — IGEPREV). DESVINCULAÇÃO POSTERIOR DO RPPS E VINCULAÇÃO AO RGPS. DIREITO DE PERMANÊNCIA NO REGIME PRÓPRIO DE PREVIDÊNCIA DO ESTADO DO TOCANTINS. CONTRIBUIÇÕES RECOLHIDAS. COMPENSAÇÃO ENTRE REGIMES. PRESCRIÇÃO. CONSECTÁRIOS DA CONDENAÇÃO.
+
+    1. Considerando a nova sistemática instituída pelo novo Codex de Direito Adjetivo Civil, em que o legislador optou por restringir as hipóteses de remessa oficial, a sentença, proferida sob a égide do CPC/2015, não está sujeita à remessa oficial, nos termos do artigo 496, § 3º, I, do NCPC, tendo em vista que a condenação imposta ao INSS não tem o potencial de ultrapassar 1.000 (mil) salários mínimos.
+
+    2. Não há falar em prescrição do fundo de direito nas relações de trato sucessivo, como no caso de aposentadoria, prescrevendo-se tão somente as parcelas vencidas antes do quinquênio que precede ao ajuizamento da ação, nos termos do parágrafo único do art. 103 da Lei de Benefícios, da Súmula 85/STJ e da jurisprudência desta Corte, assim como no Decreto n. 20.910, de 1932, que estabelece a prescrição das ações contra a Fazenda Pública.
+
+    3. A controvérsia posta na presente ação gira em torno da possibilidade de a parte autora permanecer vinculada ao Instituto de Previdência do Estado do Tocantins — IPETINS, atual Instituto de Gestão Previdenciária do Tocantins — IGEPREV/TO. Considerando os reflexos decorrentes da pretensão deduzida, revela-se nítido o interesse no feito do INSS, do IGEPREV/TO e do Estado do Tocantins, circunstância que os torna legitimados para figurar no polo passivo desta ação.
+
+    4. In casu, a parte autora ingressou no serviço público antes de 1983 — inicialmente no Governo do Estado de Goiás e, posteriormente, transferida para o Governo do Estado do Tocantins —, foi estabilizada no serviço público por aplicação do art. 19 do ADCT, e contribuiu até 2001 para o Instituto de Previdência do Estado do Tocantins - IPETINS, atual Instituto de Gestão Previdenciária do Tocantins — IGEPREV/TO.
+
+    5. A controvérsia acerca da relação previdenciária dos servidores estabilizados, com base no art. 19 do ADCT, foi resolvida pelo Parecer/GM n° 30, originário do Ministério do Planejamento, Orçamento e Gestão, exarado pelo então Advogado-Geral da União, e aprovado com efeito vinculativo pelo Presidente da República para a Administração Federal, que consolidou entendimento no sentido de assegurar aos servidores estáveis com base no art. 19 do ADCT os mesmos direitos previdenciários garantidos aos servidores efetivos.
+
+    6. As contribuições recolhidas para o regime próprio de previdência do Estado de Tocantins vincularam os servidores oriundos do Estado de Goiás, ainda que não efetivados no cargo/emprego, mas estáveis no serviço público, àquele regime de previdência, cuja transferência compulsória para o RGPS violou o princípio da segurança jurídica.
+
+    7. Por aplicação da interpretação constitucional e das regras de segurança e de boa-fé das relações com o Poder Público, a parte autora deve ser mantida no RPPS do Estado do Tocantins, cujos critérios de concessão, manutenção e cálculo dos benefícios a ela aplicáveis (art. 40 da CF/88) são diversos em tudo das condições de concessão do beneficio no RGPS, especialmente quanto ao valor inicial do benefício e à paridade entre ativos e inativos.
+
+    8. A hipótese em exame não trata do instituto da "desaposentação", tema que foi exaustivamente debatido nas diversas esferas do Poder Judiciário e que também foi objeto de decisão do e. STF no julgamento do RE n° 661.256/SC, em sede de repercussão geral. A pretensão da parte autora é de retorno ao RPPS do Estado de Tocantins, desde a data de sua transferência para o RGPS, e eventual cancelamento de benefício previdenciário já concedido é apenas consequência lógica da invalidação da inclusão indevida no regime previdenciário.
+
+    9. Como consequência do retorno da parte autora ao RPPS, o INSS e o Estado de Tocantins o deverão proceder às devidas compensações dos valores recolhidos como contribuição previdenciária, uma vez que deverá ser restabelecido o direito a ela aplicável como agente público contratado antes da Constituição de 1988, estabilizado e beneficiário do art. 19 do ADCT ou da interpretação emergente do art. 243 da Lei 8.112/90, aplicável às demais esferas de governo, ou seja, estadual, distrital e municipal.
+
+    10. Consectários da condenação fixados de acordo com o entendimento jurisprudencial da Segunda Turma desta Corte Regional Federal.
+
+    12. Remessa oficial não conhecida.
+
+    13. Apelações do IGEPREV/TO e do INSS não providas.”
+
+    (e-doc. 12, p. 10-11).
+
+    2. No recurso extraordinário, o INSS (e-doc. 30) e o Estado do Tocantins (e-doc. 32) afirmam violados os arts. 5º, inc. XXXVI, 37, inc. II, e 40, § 13, da Constituição da República e 19 do ADCT. Sustentam que a recorrida, servidora do Estado do Tocantins, remanescente dos Quadros do Estado de Goiás, admitida sem concurso, estável em razão das Disposições Constitucionais Transitórias, aposentada pelo RGPS, não se equipara a servidor efetivo para efeito de aposentadoria pelo RPPS, devendo a aposentadoria permanecer a cargo do INSS. Discorrem sobre a impossibilidade de desaposentação de servidor aposentado pelo RGPS, para que se proceda a nova aposentadoria pelo RPPS, sob pena de ofensa ao primado do ato jurídico perfeito.
+
+    É o relatório.
+
+    Decido.
+
+     3. A jurisprudência do Supremo Tribunal Federal é firme no sentido de que os servidores abrangidos pela estabilidade excepcional prevista no art. 19 do Ato das Disposições Constitucionais Transitórias não se equiparam aos efetivos e, portanto, são titulares apenas do direito de permanecer no serviço público nos cargos em que foram admitidos, não fazendo jus aos benefícios específicos dos servidores efetivos. Confiram-se, a propósito, os seguintes julgados:
+
+    “Agravo regimental em recurso extraordinário. Tributário. Contribuição previdenciária. Servidores públicos detentores da estabilidade excepcional do art. 19 do ADCT. Inclusão no regime próprio de previdência social. Impossibilidade. Jurisprudência da Corte. Cláusula de reserva de plenário. Inexistência de afronta. 1. Os servidores abrangidos pela estabilidade excepcional prevista no art. 19 do ADCT não se equiparam aos servidores efetivos, os quais foram aprovados em concurso público. 2. Conforme consta do art. 40 da Constituição Federal, com a redação dada pela EC nº 42/03, pertencem ao regime próprio de previdência social tão somente os servidores titulares de cargos efetivos da União, dos Estados, do Distrito Federal e dos municípios, incluídas suas autarquias e fundações. 3. Ausência de violação da cláusula de reserva de plenário prevista no art. 97 da Constituição Federal, na medida em que o Tribunal de origem se apoiou em julgados do próprio Plenário do Supremo Tribunal Federal. 4. Agravo regimental ao qual se nega provimento, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC). 5. Majoração do valor monetário da verba honorária já fixada em 10%, a título de honorários recursais, nos termos do art. 85, § 11, do novo Código de Processo Civil, observados os limites dos §§ 2º e 3º do citado artigo e a eventual concessão de justiça gratuita.”
+
+    (RE nº 1.347.392-AgR/SP, Rel. Min. Dias Toffoli, Primeira, Turma, j. 21/02/2022, p. 15/03/2022; grifos acrescidos).
+
+    “DIREITO ADMINISTRATIVO E CONSTITUCIONAL. TERCEIRO AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. SERVIDOR PÚBLICO. ESTABILIDADE EXCEPCIONAL. ART. 19 DO ADCT. VANTAGENS INERENTES AO CARGO EFETIVO. IMPOSSIBILIDADE DE OBTENÇÃO. PRECEDENTES. 1. A jurisprudência do Supremo Tribunal Federal é firme no sentido de que os servidores públicos beneficiados pelo art. 19 do Ato das Disposições Constitucionais Transitórias - ADCT teriam direito à estabilidade, não se lhes conferindo as vantagens privativas dos ocupantes de cargo efetivo, para o qual se exige concurso público. Precedentes. 2. Agravo interno a que se nega provimento.”
+
+    (ARE nº 1.297.814-AgR-terceiro/AC, Rel. Min. Roberto Barroso, Primeira Turma, j. 30/08/2021, p. 20/09/2021; grifos acrescidos).
+
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. INTERPOSIÇÃO EM 13.9.2017. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. ESTABILIDADE. ART. 19 DO ADCT. PROGRESSÃO NA CARREIRA. IMPOSSIBILIDADE. PRECEDENTES. 1. O Supremo Tribunal Federal tem entendimento de que o servidor estável, nos termos do art. 19 do ADCT, não é efetivo, possuindo somente o direito de permanência no serviço público no cargo em que fora admitido, porém sem incorporação na carreira, não tendo direito a progressão funcional nela, ou a desfrutar de benefícios que sejam privativos de seus integrantes. 2. Agravo regimental a que se nega provimento, (...)”
+
+    (ARE nº 981.424-AgR/MS, Rel. Min. Edson Fachin, Segunda Turma, j. 18/12/2018, p. 13/02/2019).
+
+    4. Em diversas ocasiões, o Supremo Tribunal Federal teve a oportunidade de assentar que os efeitos da estabilidade não se igualam aos da efetividade decorrente da prévia aprovação em concurso público, de tal sorte que alguns benefícios são previstos apenas para servidores efetivos. Cito, por exemplo, o ARE nº 1.306.505-RG/AC, Tema nº 1.157 do ementário da Repercussão Geral, no qual se concluiu ser vedado o reenquadramento, em novo Plano de Cargos, Carreiras e Remuneração, de servidor admitido sem concurso público antes da promulgação da Constituição da República, mesmo que beneficiado pela estabilidade excepcional do art. 19 do ADCT, haja vista que esta regra transitória não prevê direito à efetividade. Eis a ementa pertinente:
+
+    “TEMA 1157 DA REPERCUSSÃO GERAL. SERVIDOR ADMITIDO SEM CONCURSO PÚBLICO NA VIGÊNCIA DA CONSTITUIÇÃO PRETÉRITA. IMPOSSIBILIDADE DE ENQUADRAMENTO NO PLANO DE CARGOS, CARREIRA E REMUNERAÇÃO IMPLEMENTADO PARA SERVIDORES PÚBLICOS EFETIVOS. VIOLAÇÃO AO ARTIGO 37, INCISO II, DA CONSTITUIÇÃO FEDERAL E DA TESE FIRMADA NA ADI 3.609/AC. AGRAVO CONHECIDO. PROVIMENTO AO RECURSO EXTRAORDINÁRIO. DENEGAÇÃO DA ORDEM. 1. O Plenário do SUPREMO TRIBUNAL FEDERAL, no julgamento da ADI 3609, Rel. Min. DIAS TOFFOLI, Tribunal Pleno, DJe de 30/10/2014, declarou a inconstitucionalidade da Emenda Constitucional 38/2005, da Constituição do Estado do Acre, que previa a efetivação de servidores públicos providos sem concurso público até 31 de dezembro de 1994, mesmo que não se enquadrassem na estabilidade excepcional prevista no artigo 19 do ADCT da Constituição Federal, por violação ao artigo 37, II, da Constituição Federal. 2. A modulação dos efeitos realizada por esta CORTE no julgamento da ADI 3609 não conferiu efetividade aos servidores que ingressaram no serviço público estadual sem concurso até 5/2/2015. A concessão de efeitos prospectivos teve por escopo conceder ao Estado tempo suficiente para a realização de concurso público para o preenchimento dos cargos que foram ocupados de forma inconstitucional, visando a evitar a paralisação de serviço público essencial. 3. Inexistência de direito líquido e certo ao reenquadramento no novo Plano de Cargos, Carreiras e Remuneração (PCCR), criado para servidores efetivos admitidos mediante concurso público e instituído pela Lei Estadual 2.265, de 31 de março de 2010, com alterações promovidas pela Lei Estadual 3.104, de 29 de dezembro de 2015, ambas do Estado do Acre, uma vez que foi admitido em 13 de maio de 1986, sem concurso público e contratado pelo regime celetista. 4. Dispensada a devolução de valores eventualmente recebidos de boa-fé até a data de conclusão do presente julgamento tendo em vista a natureza jurídica de verba alimentar das quantias percebidas. 5. Agravo conhecido para DAR PROVIMENTO ao Recurso Extraordinário do Estado, e DENEGAR A SEGURANÇA. 6. Fixação, para fins de repercussão geral, da seguinte tese ao Tema 1157: “É vedado o reenquadramento, em novo Plano de Cargos, Carreiras e Remuneração, de servidor admitido sem concurso público antes da promulgação da Constituição Federal de 1988, mesmo que beneficiado pela estabilidade excepcional do artigo 19 do ADCT, haja à vista que esta regra transitória não prevê o direito à efetividade, nos termos do artigo 37, II, da Constituição Federal e decisão proferida na ADI 3609 (Rel. Min. DIAS TOFFOLI, Tribunal Pleno, DJe. 30/10/2014).”
+
+    (ARE nº 1.306.505-RG/AC, Tema RG nº 1.157, Rel. Min. Alexandre de Moraes, Pleno, j. 28/03/2022, p. 04/04/2022).
+
+    5. Nos termos do art. 40 da CRFB, com redação dada pela Emenda Constitucional nº 20, de 1998, no qual se estabelece que pertencem ao Regime Próprio de Previdência Social tão somente os servidores titulares de cargos efetivos da União, dos Estados, do Distrito Federal e dos Municípios, incluídas as respectivas autarquias e fundações, é inviável a inclusão da servidora aposentada no RPPS, devendo os proventos permanecerem a cargo do INSS.
+
+    6. Em idêntico sentido, analisando especificamente recursos a envolver servidores do Estado do Tocantins remanescentes do Estado de Goiás, que pretendiam filiação ao RPPS, mais essencialmente ao IGEPREV, cito, entre muitas outras, as recentíssimas decisões monocráticas prolatadas nos seguintes processos: RE nº 1.369.863/TO (Rel. Min. Roberto Barroso, j. 20/04/2022, p. 22/04/2022); ARE nº 1.343.344/TO (Rel. Min. Ricardo Lewandowski, j. 15/09/2021, p. 16/09/2021); ARE nº 1.360.527/TO (Rel. Min. Edson Fachin, j. 29/04/2022, p. 02/05/2022); RE nº 1.364.524/TO (Rel. Min. Gilmar Mendes, j. 10/05/2022, p. 11/05/2022); e RE nº 1.381.494/TO (Rel. Min. Dias Toffoli, j. 20/05/2022, p. 23/05/2022).
+
+    7. Ante o quadro, dou provimento ao recurso extraordinário, na forma do art. 932, inc. V, als. “a” e “b”, do CPC, e do art. 21, § 2º, do RISTF, para, nos termos da jurisprudência do Supremo Tribunal Federal, julgar improcedentes os pedidos. Ficam invertidos os ônus da sucumbência, observados, entretanto, os efeitos da concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 8 de abril de 2023.
+
+    Ministro ANDRÉ MENDONÇA
+
+    Relator
