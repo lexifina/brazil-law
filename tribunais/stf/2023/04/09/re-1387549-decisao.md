@@ -1,0 +1,100 @@
+DECISÃO
+
+RECURSO EXTRAORDINÁRIO. RE Nº 593.849-RG/MG, TEMA RG Nº 201. ICMS. FATO GERADOR PRESUMIDO. RESTITUIÇÃO DE VALORES PAGOS A MAIOR. REGIME DE SUBSTITUIÇÃO TRIBUTÁRIA. MODULAÇÃO CONFORME ESTABELECIDO NO PARADIGMA: TEMA RG Nº 201. OBSERVÂNCIA DAS PREMISSAS FÁTICAS FIXADAS NA ORIGEM. ANPALISE DE LEGISLAÇÃO LOCAL E REEXAME DE FAOTS E PROVAS: IMPOSSIBILIDADE NO CAMPO EXTRAORDINÁRIO. ÓBICES DOS ENUNCIADOS Nª 279 E Nº 280 DA SÚMULA DO STF. NEGATIVA DE SEGUIMENTO.
+
+ 1.	Trata-se de recurso extraordinário interposto contra acórdão da 6ª Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+
+“Apelação - Ação declaratória visando ao reconhecimento do direito da autora à restituição do ICMS-ST incidente sobre fatos geradores ocorridos com base de cálculo inferior à presumida, com estrito cumprimento ao disposto no artigo 66-B, inciso II, da Lei Estadual nº 6.374/1989, sem as restrições da Lei nº 13.291/2008 e dos Comunicados CAT nº 14/2008 e 42/2018 - Sentença de improcedência - Recurso voluntário da autora - Parcial provimento de rigor - Tema nº. 201 de Repercussão Geral Mérito, no R.E. 593.849-MG, que reconheceu a possibilidade de a restituição incidir não apenas em casos nos quais a base de cálculo seja definida pela autoridade fiscal, mas também naqueles em que a base de cálculo seja fixada consoante o valor agregado - Portanto, viceja a pretensão da autora de que seja afastado o § 3º, do artigo 66-B, da Lei nº 6.374/89, já declarado inconstitucional pelo C. Órgão Especial - Portaria CAT 14/2008 que obedece o decidido pelo C. STF quanto a modulação dos efeitos da decisão do Tema nº 201 - Portaria CAT 42/2018 que indica a forma e os requisitos para o ressarcimento pretendido pela autora, que deve se sujeitar às normas estaduais que disciplinam a matéria, vez que não demonstrada a aventada ilegalidade nos termos do dispositivo - Precedentes - R. sentença parcialmente reformada - Recurso da autora parcialmente provido.”
+(e-doc.. 23, p. 2).
+
+ 2.	No recurso extraordinário, interposto com fundamento na alínea “a” do permissivo constitucional, a recorrente alega violados os arts. 5º, inc. XXXV, e 102, inc. I, e § 2º da Constituição da República. Em síntese, sustenta que a modulação de efeitos do RE nº 593.849-RG/MG, leading case do Tema nº 201 de Repercussão Geral, seria inaplicável ao presente processo, que envolve discussão de legislação do Estado de São Paulo (e-doc. 28).
+
+É o relatório.
+
+Decido.
+
+ 3.	Tenho convicção de que a decisão recorrida não diverge do entendimento do Supremo Tribunal Federal, que, no âmbito da sistemática da repercussão geral, ao julgar o RE nº 593.849-RG/MG, Tema RG nº 201, assim definiu a inteligência jurídica a prevalecer:
+
+“Tema 201 de RG: É devida a restituição da diferença do Imposto sobre Circulação de Mercadorias e Serviços (ICMS) pago a mais no regime de substituição tributária para a frente se a base de cálculo efetiva da operação for inferior à presumida.”
+
+“RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL. DIREITO TRIBUTÁRIO. IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS - ICMS. SUBSTITUIÇÃO TRIBUTÁRIA PROGRESSIVA OU PARA FRENTE. CLÁUSULA DE RESTITUIÇÃO DO EXCESSO. BASE DE CÁLCULO PRESUMIDA. BASE DE CÁLCULO REAL. RESTITUIÇÃO DA DIFERENÇA. ART. 150, §7º, DA CONSTITUIÇÃO DA REPÚBLICA. REVOGAÇÃO PARCIAL DE PRECEDENTE. ADI 1.851.
+1. Fixação de tese jurídica ao Tema 201 da sistemática da repercussão geral: “É devida a restituição da diferença do Imposto sobre Circulação de Mercadorias e Serviços – ICMS pago a mais no regime de substituição tributária para frente se a base de cálculo efetiva da operação for inferior à presumida”.
+2. A garantia do direito à restituição do excesso não inviabiliza a substituição tributária progressiva, à luz da manutenção das vantagens pragmáticas hauridas do sistema de cobrança de impostos e contribuições.
+3. O princípio da praticidade tributária não prepondera na hipótese de violação de direitos e garantias dos contribuintes, notadamente os princípios da igualdade, capacidade contributiva e vedação ao confisco, bem como a arquitetura de neutralidade fiscal do ICMS.
+4. O modo de raciocinar “tipificante” na seara tributária não deve ser alheio à narrativa extraída da realidade do processo econômico, de maneira a transformar uma ficção jurídica em uma presunção absoluta.
+5. De acordo com o art. 150, §7º, in fine, da Constituição da República, a cláusula de restituição do excesso e respectivo direito à restituição se aplicam a todos os casos em que o fato gerador presumido não se concretize empiricamente da forma como antecipadamente tributado.
+6. Altera-se parcialmente o precedente firmado na ADI 1.851, de relatoria do Ministro Ilmar Galvão, de modo que os efeitos jurídicos desse novo entendimento orientam apenas os litígios judiciais futuros e os pendentes submetidos à sistemática da repercussão geral.
+7. Declaração incidental de inconstitucionalidade dos artigos 22, §10, da Lei 6.763/1975, e 21 do Decreto 43.080/2002, ambos do Estado de Minas Gerais, e fixação de interpretação conforme à Constituição em relação aos arts. 22, §11, do referido diploma legal, e 22 do decreto indigitado.
+8. Recurso extraordinário a que se dá provimento.”
+(RE nº 593.849-RG/MG, Tema RG nº 201,Rel. Min. Edson Fachin, Tribunal Pleno, j. 19/10/2016, p. 05/04/2017; grifos acrescidos).
+
+“SEGUNDOS EMBARGOS DE DECLARAÇÃO EM RECURSO EXTRAORDINÁRIO. DIREITO TRIBUTÁRIO. IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS – ICMS. SUBSTITUIÇÃO TRIBUTÁRIA PROGRESSIVA. SÚMULA DE JULGAMENTO. ATA DE JULGAMENTO. PREMISSAS FÁTICAS. SUPORTE NORMATIVO. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. CONTRADIÇÃO. OMISSÃO. NÃO CONFIGURADA. ESCLARECIMENTO. POSSIBILIDADE.
+1. Nos termos do artigo 1.022 do Código de Processo Civil, os embargos de declaração não constituem meio hábil para reforma do julgado, sendo cabíveis somente nos casos de obscuridade, contradição ou omissão da decisão impugnada, bem como para corrigir eventual erro material.
+2. Os embargos declaratórios não se prestam à rediscussão do assentado em paradigma de repercussão geral, com pretensão de efeitos infringentes, mesmo que a título de reparar equívocos fáticos e normativos, os quais foram suscitados no curso do processo e devidamente enfrentados e valorados pela corrente majoritária do STF.
+3. A despeito de veicular pretensões estranhas às hipóteses legais de cabimento de embargos de declaração, a jurisprudência do STF admite o acolhimento de embargos declaratórios tão somente para prestação de esclarecimento reputado necessário, sem quaisquer efeitos infringentes.
+4. A tese de julgamento que consta em ata de julgamento publicada no Diário Oficial possui força de acórdão, até a publicação deste. Assim, o marco temporal de observância da orientação jurisprudencial para casos futuros ajuizados após o julgamento do paradigma deve ser considerado a partir da publicação da tese ou súmula da decisão em meio oficial. Arts. 1.035, §11, e 1.040 do CPC.
+5. Não há omissão na súmula da decisão, por não abarcar os casos em que a base presumida é menor do que a base real, porquanto se trata de inovação processual posterior ao julgamento, não requerida ou aventada no curso do processo. De todo modo, a atividade da Administração Tributária é plenamente vinculada ao arcabouço legal, independentemente de autorização ou explicitação interpretativa do Poder Judiciário, nos termos do art. 3º do CTN.
+6. Não há contradição na modulação de efeitos da decisão recorrida realizada, pois se trata de faculdade processual conferida ao STF, em caso de alteração da jurisprudência dominante, condicionada à presença de interesse social e em prol da segurança jurídica. Não há, então, relação de causalidade entre a mudança de entendimento jurisprudencial e a adoção da técnica de superação prospectiva de precedente (prospective overruling). Art. 927, §3º, do CPC.
+7. O comando dispositivo do acórdão detém densidade suficiente para a satisfação executiva da pretensão deduzida em juízo, sendo assim o montante e as parcelas devidas ultrapassam o âmbito de cognoscibilidade do recurso extraordinário e de conveniência da sistemática da repercussão geral. RE-QO 593.995, de relatoria do Ministro Joaquim Barbosa, Tribunal Pleno, DJe 17.06.2014.
+8. Embargos declaratórios rejeitados.”
+(RE nº 593.849-ED-segundos/MG, Rel. Min. Edson Fachin, Tribunal Pleno, j. 08/11/2017, p. 21/11/2017; grifos acrescidos).
+
+ 4.	Ademais, é inquestionável o fato de que, para reapreciar os embasamentos elencados pelo Tribunal a quo e a respectiva decisão quanto à temática do presente caso, seria necessário o reexame dos pressupostos fático-probatórios constantes dos autos, além da análise da legislação local. Extraio, ainda, do voto condutor do acórdão recorrido, trecho que ressalta os aspectos fático-probatórios e os atos normativos locais que conduziram aquele julgamento, os quais, como dito, são insuscetíveis de revolvimento na seara extraordinária:
+
+“A apelante visa ao afastamento da restrição imposta pelo § 3º do referido inciso, cuja redação foi acrescentada pela Lei nº 13.291/2008, e que estabelece como condição para a restituição que o preço final ao consumidor tenha sido autorizado ou fixado pela autoridade competente, restringindo o direito à hipótese que não coincide com a base real da operação.
+No tocante a este ponto, assiste razão à apelante.
+Com efeito, o Colendo Supremo Tribunal Federal, no julgamento do Tema nº. 201 de Repercussão Geral, no R.E. 593.849-MG, reconheceu a possibilidade de a restituição incidir não apenas em casos nos quais a base de cálculo seja definida pela autoridade fiscal, mas também naqueles em que a base de cálculo seja fixada consoante o valor agregado. Colhe-se da ementa do julgado:
+(...)
+Em outras palavras, afastou-se a restrição prevista no § 3º, do artigo 66-B, da Lei nº 6.374/89, que autorizava a restituição “apenas na hipótese de a base de cálculo do imposto devido por substituição tributária ter sido fixada nos termos do “caput” do artigo 28”.
+Cumpre anotar, ainda, que Este E. Tribunal de Justiça já decidiu pela inconstitucionalidade do § 3º do art. 66-B da Lei Estadual n. 6.374/89:
+“ARGUIÇÃO DE INCONSTITUCIONALIDADE. Artigo 66- B, inciso II, § 3º, da Lei Estadual nº 6374/1989, na redação dada pela Lei Estadual nº 13291/2008. Edição do Comunicado CAT 14/2018 posterior ao ingresso da ação. Questões que dizem respeito à necessidade de prévio requerimento administrativo para comprovação da dissonância entre preço praticado e base do imposto devido por substituição tributária, ao condicionamento da restituição ao art. 166 do CTN, à imposição de recolhimento da complementação do ICMS pelo contribuinte substituído, bem como as demais, alheias à análise da constitucionalidade do ato normativo, deverão ser solvidas pelo órgão fracionário. Controle de constitucionalidade que se dá de forma incidental, com cisão no julgamento da causa principal, em observância à cláusula de reserva do plenário. Competência do Órgão Especial reservada à análise da constitucionalidade ou não da norma e sua declaração. ARGUIÇÃO DE INCONSTITUCIONALIDADE. Artigo 66- B, inciso II, § 3º, da Lei Estadual nº 6374/1989, na redação dada pela Lei Estadual nº 13291/2008, que estabelece a possibilidade de restituição de créditos tributários oriundos da diferença entre a base de cálculo presumida e a efetivada somente quando a base de cálculo for fixada por autoridade competente. Restrição da Lei Estadual incompatível com o § 7º do artigo 150 da Constituição da República. Precedentes do Supremo Tribunal Federal e desta Egrégia Corte. Inconstitucionalidade reconhecida. Arguição acolhida.” (Incidente de Arguição de Inconstitucionalidade nº 0033098-49.2018.8.26.0000, j. em 7.8.2019)”
+Portanto, viceja a pretensão da autora de que seja afastada a restrição acima descrita, embora não na extensão por ela pretendida.
+Não há como acolher o pedido da apelante no tocante à suposta necessidade de afastar as restrições impostas pelo Comunicado CAT 14/2018.
+Em relação ao Comunicado CAT 14/2018, em atendimento ao decidido pelo C. STF, este estabeleceu que a repetição se fará em relação aos valores recolhidos após a data do julgamento do recurso repetitivo (19/10/2016), e aos casos pretéritos que já estivessem em trâmite judicial na referida data, no que respeita a modulação dos efeitos da decisão do Tema nº 201, o que autoriza concluir que houve observância aos parâmetros decididos no RE nº 593.849/MG.
+A Autora ingressou com a presente ação após a decisão do STF, não havendo possibilidade jurídica da pretensão de ver alcançados fatos geradores pretéritos, diante da própria modulação dos efeitos do julgado, mesmo porque não se trata, nos termos da ressalva ali consignada, de processo judicial pendente submetido à sistemática da repercussão geral.
+Tampouco viceja a pretensão de afastar a aplicação da Portaria CAT 42/2018 aos fatos geradores ocorridos após sua edição.
+Referida portaria indica a forma e os requisitos para o ressarcimento pretendido pela autora, mediante instituição de sistema eletrônico de ressarcimento (artigo10) e criação de conta corrente eletrônica de controle do ressarcimento (artigo 13). Veja-se, ainda, que o registro do pedido de ressarcimento deverá conter as informações requisitadas no artigo 16 e estará sujeito à verificação fiscal, conforme a disposição do artigo 17.
+A autora deve se sujeitar às normas estaduais que disciplinam a matéria, e concretizando-se eventual lesão de direito, discuti-los oportunamente, se insatisfeita, não havendo, no tocante a este ponto, como fazer prescrição jurisdicional genérica.
+Registre-se que não há notícia de ilegalidade nos termos indicados pela Portaria CAT nº 42/2018. Logo, não é possível se admitir a compensação por meio de escrituração fiscal, como pretendido, tampouco a determinação de incidência de índice de correção monetária.
+(...)
+Por conseguinte, é devido o reconhecimento da existência do crédito e a possibilidade conferida à apelante de utilizá-lo, em virtude do quanto decidido no Tema n.º 201. Todavia, deverá submeter-se ao procedimento previsto pela Fazenda do Estado, na esfera administrativa, para a utilização do crédito, ainda que não possa o Fisco impor à autora o cumprimento da exigência disciplinada pelo artigo 66-B, § 3.º, da Lei Estadual n.º 6.374/89.
+Assim, era de ser julgada parcialmente procedente a ação, apenas para declarar o direito da autora de não cumprir a exigência do artigo 66-B, § 3.º, da Lei Estadual n.º 6.374/89.
+Por derradeiro, considerando o desfecho do presente recurso, de rigor o reconhecimento da sucumbência recíproca.
+Deste modo, em adição à verba honorária fixada em primeira instância em favor do patrono do Estado, hei por bem fixar honorários de 10% do valor da ação em favor do patrono da autora.
+3. Ante todo o exposto, pelo meu voto, dou parcial provimento ao recurso.” (e-doc. 23; grifos acrescidos).
+
+ 5.	Assim, em minha visão, somente pela análise do quadro fático-probatório especialmente delineado no caso, em cotejo com a legislação local que orientou o acórdão recorrido, seria possível concluir de forma diversa daquela definida pela Corte a quo, providência inviável em sede extraordinária, tendo em vista os óbices dos enunciados nº 279 e nº 280 da Súmula do STF.
+
+E. 279: “Para simples reexame de prova não cabe recurso extraordinário.”
+
+E. 280: “Por ofensa a direito local não cabe recurso extraordinário.”
+
+ 6.	Acrescento, ainda, que, em situações idênticas à destes autos, ou seja, em recursos extraordinários em que se questionava a aplicação da modulação de efeitos do Tema nº 201 do rol da Repercussão Geral a casos oriundos do Estado de São Paulo e envolvendo a legislação paulista, esta Corte reafirmou o entendimento consubstanciado no julgamento-paradigma do RE 593.849-RG/MG:
+
+“Ementa: DIREITO TRIBUTÁRIO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO. ICMS. FATO GERADOR PRESUMIDO. RESTITUIÇÃO DE VALORES PAGOS A MAIOR. REGIME DE SUBSTITUIÇÃO TRIBUTÁRIA. MODULAÇÃO CONFORME ESTABELECIDO NO TEMA 201. OBSERVÂNCIA DAS PREMISSAS FÁTICAS FIXADAS NA ORIGEM.
+1. De acordo a orientação jurisprudencial do Supremo Tribunal Federal (STF), é cabível a restituição do ICMS no regime de substituição tributária progressiva, nas hipóteses em que o fato gerador ocorra com um valor inferior ao que foi presumido.
+2. Ao julgar o RE 593.849-RG (Tema 201), esta Corte assinalou que a tese firmada deverá atingir fatos geradores futuros, ressalvados os processos judiciais pendentes.
+3. No caso, a ação foi ajuizada somente em outubro de 2019, devendo, portanto, submeter-se à modulação estabelecida no paradigma de repercussão geral (Tema 201). Dessa orientação não divergiu o acórdão recorrido.
+4. Não cabe ao STF estabelecer premissas fáticas diversas daquelas fixadas pelo acórdão recorrido, sob pena de afronta à Súmula 279/STF. Precedente.
+5. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015.”
+(RE nº 1.358.062-ED-AgR/SP, Rel. Min. Roberto Barroso, Primeira Turma, j. 04/04/2022, p. 25/04/2022).
+
+“EMENTA: AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. DIREITO TRIBUTÁRIO. ICMS. SUBSTITUIÇÃO TRIBUTÁRIA PARA A FRENTE. BASE DE CÁLCULO PRESUMIDA SUPERIOR À BASE DE CÁLCULO REAL. RESTITUIÇÃO DO IMPOSTO PAGO A MAIOR. TEMA 201 DE REPERCUSSÃO GERAL. MODULAÇÃO DE EFEITOS. APLICAÇÃO AO CASO CONCRETO. ALCANCE DO DIREITO PREEXISTENTE PREVISTO EM NORMA ESTADUAL. ARTIGO 66-B, II E § 3º, DA LEI 6.374/1989 DO ESTADO DE SÃO PAULO. ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. INVIABLIDADE. SÚMULA 280 DO STF. PROCEDIMENTOS, CRITÉRIOS E REQUISITOS PARA A RESTITUIÇÃO DE TRIBUTO PAGO A MAIOR NO REGIME DE SUBSTITUIÇÃO TRIBUTÁRIA PROGRESSIVA. AUSÊNCIA DE REPERCUSSÃO GERAL. TEMA 1.020. MAJORAÇÃO DOS HONORÁRIOS DE SUCUMBÊNCIA. ARTIGO 85, § 11, DO CPC/2015. AGRAVO DESPROVIDO.
+1. A incidência ao caso da modulação dos efeitos da decisão prolatada pela Plenário desta Corte no julgamento do RE 593.849 Rel. Min. Edson Fachin, DJe de 5/4/2017, Tema 201 de Repercussão Geral, demanda a análise da legislação infraconstitucional local (artigo 66-B, II e § 3º, da Lei 6.374/1989 do Estado de São Paulo), de forma a aferir o alcance do direito preexistente à decisão desta Corte, providência que esbarra no óbice da Súmula 280 do STF.
+2. A controvérsia relativa a procedimentos, critérios e requisitos para a restituição de tributo pago a maior no regime de substituição tributária progressiva não possui repercussão geral (ARE 1.222.648-RG, Plenário, Rel. Min. Dias Toffoli - Presidente, DJe de 26/9/2019, Tema 1.060).
+3. Agravo interno desprovido, com imposição de multa de 5% (cinco por cento) do valor atualizado da causa (artigo 1.021, § 4º, do CPC), caso seja unânime a votação.
+4. Honorários advocatícios majorados ao máximo legal em desfavor da parte recorrente, caso as instâncias de origem os tenham fixado, nos termos do artigo 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º e a eventual concessão de justiça gratuita.”
+(RE nº 1.378.778-AgR/SP, Rel. Min.  Luiz Fux, Primeira Turma, j. 03/11/2022, p. 14/11/2022).
+
+ 7.	Nesse mesmo sentido, menciono as decisões monocráticas: ARE nº 1.366.343-ED/SP, Rel. Min. Edson Fachin, j. 31/10/2022, p. 04/11/2022; ARE nº 1.391.078/SP, Rel. Min. Edson Fachin, j. 31/08/2022, p. 1º/09/2022, e RE nº 1.353.765/SP, Rel. Min. Ricardo Lewandowski, j. 15/09/2022 e p. 19/09/2022.
+
+ 8.	Por fim, considerando o julgamento deste recurso extraordinário, fica prejudicada a análise da Petição STF nº 18.951/2023 (e-doc. 56).
+
+ 9.	Ante o exposto, nego seguimento ao recurso extraordinário, nos termos do art. 21, § 1º, do RISTF. Considerando ter havido condenação ao pagamento de honorários advocatícios pela instância anterior (e-doc. 23, p. 10), majoro seu valor monetário em 10% (dez por cento), a título de honorários recursais, na forma do art. 85, § 11, do CPC, observados os limites legais.
+
+Publique-se.
+
+Brasília, 9 de abril de 2023.
+
+Ministro ANDRÉ MENDONÇA
+Relator
