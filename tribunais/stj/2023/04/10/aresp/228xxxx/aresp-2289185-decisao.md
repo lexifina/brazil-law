@@ -1,0 +1,36 @@
+DECISÃO
+Vistos, etc.
+Trata-se de ag ravo em recurso especial interposto por JOÃO ANTONIO DE AGUILA contra decisão do Tribunal de Justiça do Estado de São Paulo que não admitiu recurso especial manejado contra acórdão assim ementado (e-STJ, fl. 464):
+EMBARGOS À EXECUÇÃO PENHORA BEM IMÓVEL ALEGAÇÃO DE UTILIZAÇÃO COMO BEM DE FAMILIA PARA FINS DA LEI Nº 8.009/90 FATO NÃO DEMONSTRADO E OBJETO DE RECURSO ANTERIOR - PEDIDO DE NOVA AVALIAÇÃO - DESCABIMENTO - EXCESSO DE PENHORA NÃO VERIFICADO - LITIGÂNCIA DE MÁ-FÉ NÃO CONFIGURADA CERCEAMENTO DE DEFESA INOCORRÊNCIA- SENTENÇA MANTIDA RECURSOS IMPROVIDOS.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial a parte alega ofensa aos seguintes dispositivos legais: arts. 9º, 10, 369, 464/480, 805 e 873 do CPC e arts. 1º e 5º da Lei n. 8009/90.
+Pede a reforma do acórdão por entender, em síntese, que:
+(i) "o indeferimento da prova pericial, documental e oral contraria os princípios constitucionais e legais do Estado Democrático de Direito, do acesso à jurisdição, do devido processo legal, da ampla defesa e do contraditório" - fl. 492;
+(ii) "o recorrente trouxe provas materiais de que o imóvel em questão é seu único bem e que reside nele. O fato de o recorrente estar residindo em outra cidade devido ao seu trabalho não afasta que seu único imóvel seja desprotegido pela impenhorabilidade" - fl. 493;
+(iii) subsidiariamente, o imóvel deve passar por nova avaliação, dado que o valor estipulado pelo perito não levou em conta diversos aspectos que agregam valor ao bem, o que levaria a uma venda por preço vil e
+(iv) houve excesso na execução, pois "o imóvel penhorado sobressai do valor que está sendo executado. Deste modo, a penhora de todo o imóvel se mostra excessiva, devendo ela recair sobre a parte ideal do valor da execução" - fl. 499.
+É o relatório.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+Extrai-se do acórdão recorrido que "o julgamento antecipado tem previsão no art. 355, I, do CPC e não configurou cerceamento de defesa, porque suficiente a prova documental" - fl. 465.
+É de se observar que, com base no princípio da livre persuasão racional, o deferimento ou não de produção ou complementação de provas é ato norteado pela discricionariedade regrada do julgador, podendo ele decidir, motivadamente, sobre as diligências que julgar necessárias ou não ao deslinde da questão.
+Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE ALUGUERES. VIOLAÇÃO AO ART. 535 DO CPC E CERCEAMENTO DE DEFESA NÃO CONFIGURADOS. CONEXÃO. CAUSAS COM VÍNCULO DE IDENTIDADE. RELAÇÕES JURÍDICAS QUE SE APOIAM EM FATO ÚNICO. JULGAMENTO SIMULTÂNEO. ECONOMIA PROCESSUAL E PRESERVAÇÃO DO PRESTÍGIO DAS DECISÕES PROFERIDAS. DISCRICIONARIEDADE RELATIVA DO JUÍZO.
+1.  ..
+2. O art. 330, I, do CPC/1973 esclarece que é facultado ao juízo proferir sentença, desde que não haja necessidade de produzir provas em audiência. Também, o art. 131 - do mesmo diploma legal - cuida do princípio da livre persuasão racional, que estabelece caber ao magistrado avaliar as provas requeridas e rejeitar aquelas que protelariam o andamento do processo, em desrespeito ao princípio da celeridade processual.
+3.  ..
+9. Agravo interno não provido.
+(AgInt nos EDcl no AgInt no AREsp 479.470/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 17/09/2019, DJe 24/09/2019)
+Sendo assim, rever o posicionamento da Corte local e entender, como quer a parte recorrente, que o indeferimento de produção de prova pericial, documental e oral prejudicou o deslinde da controvérsia demandaria o revolvimento do acervo fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ.
+No mais, a Corte de origem, soberana na análise das provas carreadas aos autos, concluiu que o bem em questão não seria o único imóvel pertencente ao ora recorrente e que seria apenas para lazer (fl. 465):
+".. ao contrário do alegado nos embargos, a penhora realizada sobre o imóvel de lazer encontra-se correta. O executado não residia no imóvel (RESIDE EM SOROCABA-SP) e não era o único bem dele, conforme bem explicitado pelo embargado na impugnação (fls.353). Tanto é verdade que o embargante havia negociado com o embargado aquele bem através de compromisso de compra e venda, desfeito o negócio posteriormente com o ajuizamento da ação de cobrança c/c rescisão contratual e pedido reconvencional (processo n. 1000192.75.2017.8.26.0306). Desse modo, não pode ser aplicado ao caso o disposto no art. 1º da Lei n. 8009/90, sendo, portanto, legítima e legal a penhora realizada.
+Assim, rever a conclusão a que chegou o Tribunal local para entender, como quer a parte recorrente, que o imóvel penhorado seria o único bem de propriedade da parte e não poderia sofrer nenhum tipo de constrição, demanda o revolvimento do acervo fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ.
+No que concerne ao pedido de nova perícia e de excesso na execução, mais uma vez não há razão ao recorrente, porquanto extrai-se do acórdão recorrido que (fls. 465/466):
+ ..  não há nenhuma mácula na avaliação realizada pelo Sr. Oficial de Justiça, que avaliou o bem penhorado em R$ 250.000,00. Ademais, o embargante não trouxe nenhuma prova nos autos que a avaliação realizada não seja condizente com os valores praticados naquela localidade. Da mesma forma não pode ser acolhido o pedido de excesso de penhora. O crédito do exequente, conforme atualização até dezembro de 2020, alcançava o montante de R$ 178.163,53. Como sabido, em hasta pública, o bem penhorado quando é arrematado, geralmente é por valores inferiores ao da avaliação em torno de 30% (trinta por cento). Portanto, não se vislumbra nenhuma ilegalidade na avaliação ou mesmo excesso de penhora no presente caso".
+O que, mais uma vez, leva a necessidade de revolvimento do acervo fático-probatório dos autos, medida incabível em sede de recurso especial, incidindo o Verbete Sumular n. 7/STJ.
+Com fundamento no art. 85, § 11, do CPC, majoro o percentual dos honorários sucumbenciais a que condenado o recorrente na origem em 2%, totalizando 14% sobre o valor do proveito econômico da demanda, observada a eventual e anterior concessão da gratuidade judiciária.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. PENHORA DE BEM IMÓVEL. CERCEAMENTO DE DEFESA, IMPOSSIBILIDADE DE PENHORA DO BEM, AVALIAÇÃO DESPROPORCIONAL DO BEM E EXCESSO NA EXECUÇÃO. REVER A CONCLUSÃO A QUE CHEGOU A CORTE DE ORIGEM DEMANDA O REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ.
+1. Rever o posicionamento da Corte local e entender, como quer a parte recorrente, que o (i) indeferimento de produção de prova pericial, documental e oral, (ii) o imóvel penhorado seria o único bem de propriedade da parte e não poderia sofrer nenhum tipo de constrição; (iii) a avaliação do imóvel foi feita por preço vil e (iv) o excesso na execução prejudicou o deslinde da controvérsia demandaria o revolvimento do acervo fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ.
+AGRAVO CONHECIDO PARA, DESDE LOGO, NÃO CONHECER DO RECURSO ESPECIAL.
