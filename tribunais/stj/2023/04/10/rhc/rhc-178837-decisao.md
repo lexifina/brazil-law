@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso ordinário, com pedido liminar, impetrado em favor de FRANCISCO ALVES DA SILVA, contra acórdão proferido pela Quarta Turma do Tribunal Regional Federal da 1ª Região, no julgamento do HC n. 1042444-94.2022.4.01.0000.
+O paciente foi preso em flagrante no dia 8 de novembro de 2022 transportando cerca de 1,4kg de ouro sem procedência declarada. O produto foi encontrado por agentes da Polícia Rodoviária Federal em abordagem de rotina na rodovia BR 230, que liga os municípios de Jacareacanga e Itaituba, no Estado do Pará, região próxima ao Garimpo Bom Jardim.
+Após a conversão em prisão preventiva, a defesa impetrou habeas corpus na origem, aduzindo, em síntese, a ilegalidade da busca pessoal, realizada sem investigações preliminares ou menção a situações que pudessem caracterizar a justa causa para o procedimento. Os policiais se basearam somente no nervosismo do paciente.
+O Tribunal Regional Federal da 1ª Região denegou a ordem, ensejando a impetração deste writ, no qual são reafirmados os argumentos em favor do reconhecimento da ilicitude da busca pessoal, aduzindo que o simples fato de o abordado ter demonstrado nervosismo durante a abordagem não é suficiente para justificar a ação. Além disso, sustenta que a ação policial se deu fora dos limites das atribuições da Polícia Rodoviária Federal, considerando que a essa instituição compete o patrulhamento ostensivo das rodovias federais, cabendo às polícias civis e à Polícia Federal a apuração de infrações penais.
+Diante disso, requer, liminarmente e no mérito, que seja reconhecida a ilicitude das provas colhidas durante a abordagem policial, o trancamento da ação penal e a restituição dos bens apreendidos.
+É o relatório. Decido.
+Em consulta ao sistema eletrônico deste Tribunal, verifica-se que o tema ora versado nos presentes autos é também objet o do habeas corpus n. 810.221/PA - impetrado em favor do ora recorrido e que ataca o mesmo acórdão do TJPA (1042444-94.2022.4.01.0000) - com decisão de minha relatoria publicada no DJE em 23/3/2023, indeferindo a liminar.
+Por oportuno, destaque-se que o habeas corpus n. 810.221-PA foi distribuído em 21/3/2023 e o presente feito, em 3/4/2023 (e-STJ, fl. 167).
+Ante o exposto, julgo prejudicado o presente recurso em habeas corpus.
+Intimem-se.
