@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por Mario Rafael Ickert contra decisão de fl. 196, que homologou a desistência do recurso especial manejado pelo INSS.
+Afirma a presença de omissão no julgado, uma vez que, no momento em que manifestada a pretensão, já havia decisão prolatada nos autos, não conhecendo do nobre apelo da autarquia e majorando os honorários advocatícios, nos termos do § 11 do art. 85 do CPC.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+No caso dos autos, verifica-se a presença de omissão no julgado, pois este juízo, ao homologar o pedido de desistência do recurso especial, deixou de observar a decisão prolatada às fls. 1.246/1.248.
+O Superior Tribunal de Justiça, por ocasião do julgamento do REsp nº 627.022/SC (Rel. Ministra Eliana Calmon, Segunda Turma, julgado em 19/10/2004, DJ 13/12/2004, p. 322), houve por bem conceituar os institutos processuais da desistência da ação, renúncia e desistência do recurso, em acórdão assim ementado:
+PROCESSO CIVIL - DESISTÊNCIA DA AÇÃO - APELO JULGADO PELO TRIBUNAL - IMPOSSIBILIDADE - DISTINÇÃO DOS INSTITUTOS: DESISTÊNCIA DA AÇÃO, DESISTÊNCIA DO RECURSO E RENÚNCIA.
+1. A desistência da ação é instituto de natureza eminentemente processual, que possibilita a extinção do processo, sem julgamento do mérito, até a prolação da sentença. Após a citação, o pedido somente pode ser deferido com a anuência do réu ou, a critério do magistrado, se a parte contrária deixar de anuir sem motivo justificado. A demanda poderá ser proposta novamente e se existirem depósitos judiciais, estes poderão ser levantados pela parte autora.
+Antes da citação o autor somente responde pelas despesas processuais e, tendo sido a mesma efetuada, deve arcar com os honorários do advogado do réu.
+2. A desistência do recurso, nos termos do art. 501 do CPC, independe da concordância do recorrido ou dos litisconsortes e somente pode ser formulado até o julgamento do recurso. Neste caso, há extinção do processo com julgamento do mérito, prevalecendo a decisão imediatamente anterior, inclusive no que diz respeito a custas e honorários advocatícios.
+3. A renúncia é ato privativo do autor, que pode ser exercido em qualquer tempo ou grau de jurisdição, independentemente da anuência da parte contrária, ensejando a extinção do feito com julgamento do mérito, o que impede a propositura de qualquer outra ação sobre o mesmo direito. É instituto de natureza material, cujos efeitos equivalem aos da improcedência da ação e, às avessas, ao reconhecimento do pedido pelo réu. Havendo depósitos judiciais, estes deverão ser convertidos em renda da União. O autor deve arcar com as despesas processuais e honorários advocatícios, a serem arbitrados de acordo com o art. 20, § 4º do CPC ("causas em que não houver condenação").
+4. Hipótese em que, já tendo sido julgada a apelação pelo Tribunal, impossível o deferimento do pedido de desistência da ação.
+5. Recurso especial improvido.
+Reza o § 5º do art. 485 do CPC: "A desistência da ação pode ser apresentada até a sentença". No caso, conforme antes anotado, já houve prolação de decisão no presente recurso especial, é de se reconhecer que houve, em verdade, pleito pela desistência do prazo para interpor agravo interno.
+ANTE O EXPOSTO, ante a presença de omissão, acolho os embargos de declaração, com efeitos infringentes, para tornar sem efeito a decisão de fl. 1.260, mantendo hígido o não conhecimento do recurso especial reconhecido na decisão de fls.1.246/1.248.
+Por consequência, quanto à petição de fls. 1.249/1.256, indefiro o pedido de desistência.
+Publique-se.
