@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, apontando-se como autoridade coatora o Tribunal de Justiça do Estado de Pernambuco.
+O paciente foi condenado à pena de 7 anos e 1 mês de reclusão, em regime semiaberto, e 15 dias-multa, nos termos do art. 157, §2º, II e §2º-A, I, do Código Penal. Em apelação, o Tribunal de origem deu provimento ao apelo ministerial e também o condenou por adulteração de sinal identificador de veículo automotor, reconhecendo o concurso material entre os delitos.
+Em que pese o trânsito em julgado, com expedição de mandado de prisão, a defesa entende que "há necessidade de reforma da referida decisão, haja vista não ter sido aplicado entendimento recente do Supremo Tribunal Federal quanto à análise do reconhecimento realizado em fase investigativa" (fl. 4).
+Aponta inconsistências no depoimento da vítima e afirma que "utilizou-se o reconhecimento realizado em fase de investigação como definitivo para comprovação de autoria do fato" (fl. 7).
+Destaca que não houve apreensão da arma de fogo, reputando inidônea a incidência da majorante prevista no § 2º-A, I, do art. 157. Sustenta que não houve ratificação, em juízo, das provas colhidas na fase investigativa.
+Entende que não há suporte fático a sustentar o concurso material entre os crimes, pois "não há comprovação alguma de autoria acerca da adulteração do sinal do veículo" (fl. 11). Contudo, "se mantido o entendimento de que está caracterizada a adulteração ante a suposta prática do delito de roubo, deve-se afastar a materialidade do fato, uma vez que operada a absorção pelo delito de roubo".
+Liminarmente, pugna pela suspensão do cumprimento do mandado de prisão. No mérito, requer o reconhecimento da nulidade e corolária absolvição e, subsidiariamente, o afastamento da majorante de emprego da arma de fogo, e a absolvição quanto ao delito do art. 311 do Código Penal.
+O procedimento do habeas corpus, assim como seu consectário recursal, não permite a dilação probatória, pois exige prova pré-constituída das alegações, sendo ônus do impetrante trazê-la no momento da impetração, máxime quando se tratar de advogado constituído.
+No caso, os autos não foram instruídos com o inteiro teor do acórdão de apelação, com o devido exame das teses alegadas, o que obsta sua análise por esta Corte Superior. Assim, a ausência de peça essencial ao deslinde da controvérsia inviabiliza o exame dos pleitos defensivos . Neste sentido:
+PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL EM HABEAS CORPUS. INSTRUÇÃO DEFICIENTE. PROVA PRÉ-CONSTITUÍDA. NECESSIDADE. PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL E NÃO PROVIDO.
+1. Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações, não comportando dilação probatória. É cogente ao impetrante, pois, apresentar elementos documentais suficientes para se permitir a aferição da alegada existência de constrangimento ilegal no ato atacado na impetração.
+2. A inicial do writ não veio acompanhada da cópia do acórdão proferido por ocasião do julgamento da apelação, o que prejudica a exata compreensão do caso, inviabilizando-se, assim, o exame do alegado constrangimento ilegal.
+3. Pedido de reconsideração recebido como agravo regimental. Agravo não provido. (PET no HC 584.863/SP, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 17/6/2020).
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
