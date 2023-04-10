@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de THIAGO RODRIGUES PINTO em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ (Apelação Criminal 0000692-84.2020.8.16.0128).
+O paciente foi condenado à pena de 1 ano e 8 meses de reclusão, em regime aberto, além do pagamento de 166 dias-multa, por infração ao art. 33, § 4º, da Lei 11.343/2006.
+A apelação interposta pelo parquet foi provida para redimensionar a pena para 5 anos, 7 meses e 15 dias de reclusão, em regime fechado, além do pagamento de 510 dias-multa .
+A impetrante sustenta: a) não há fundamentação suficiente para afastar o tráfico privilegiado; b) "injusta presunção de que o paciente atuasse em favor de organização criminosa ou praticasse, há tempos, a traficância" (e-STJ fl. 8); c) condições pessoais favoráveis; d) quantidade pequena de material tóxico encontrado com o paciente; e e) "o regime fechado não se faz necessário e mostra-se, inclusive, desproporcional ao quantum de pena aplicado pela sentença e acórdão condenatório" (e-STJ fl. 14).
+Requer, liminarmente, seja o paciente colocado em regime semiaberto até o julgamento final deste writ e, definitivamente, deferimento da ordem para que seja reconhecido o tráfico privilegiado, com o consequente abrandamento da pena e do regime impostos.
+É o relatório.
+O presente habeas corpus reitera pedido que está sendo objeto de exame por este Relator nos autos do HC769.742/PR , com as mesmas alegações, não tendo a defesa trazido qualquer fato capaz de dar ensejo à nova apreciação por este Tribunal do pleito deduzido na mencionada impetração, o que obstaculiza o conhecimento deste writ.
+Na esteira da jurisprudência dominante do Superior Tribunal de Justiça, "não se conhece de habeas corpus cuja questão já tenha sido objeto de análise em oportunidade diversa, tratando-se de mera reiteração de pedido" (AgRg no HC n. 790.979/RO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/2/2023, DJe de 13/2/2023; AgRg no HC n. 747.442/MT, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 9/8/2022, DJe de 15/8/2022).
+Ante o exposto, nos termos do art. 210 do Regimento Interno deste Superior Tribunal de Justiça, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
