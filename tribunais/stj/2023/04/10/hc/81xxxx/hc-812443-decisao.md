@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de CEZAR AUGUSTO GREGORY contra acórdão da 5.ª Turma do Tribunal de Justiça de Goiás, na Apelação n.º 0146989.89.2012.8.09.0175, assim ementado:
+APELAÇÃO CRIMINAL. ROUBOS MAJORADOS PELO USO DE ARMA E CONCURSO DE AGENTES, FALSIFICAÇÃO DEDOCUMENTO PÚBLICO E ADULTERAÇÃO DESINAL IDENTIFICADOR DE VEÍCULOAUTOMOTOR. CONDENAÇÃO POR ROUBOMAJORADO. SUFICIÊNCIA DE PROVAS. 1) Comprovadas a autoria e materialidade dos crimes de roubos majorados, qualquer irregularidade detectada no ato do seu reconhecimento é mera irregularidade, pois que suprida durante a instrução, sendo imperiosa a condenação do apelado, dosando-lhe, na sequência, a pena. CONDENAÇÃO PELO CRIME DEADULTERAÇÃO DE SINAL IDENTIFICADOR. IMPOSSIBILIDADE. 2) Não foram produzidas durante a instrução criminal provas suficientemente capazes de infundir a certeza necessária para sustentar a prolação de um decreto condenatório em desfavor do apelante pelo ilícito em apreço. CONDENAÇÃO PRLO CRIME DEFALSIFICAÇÃO DE DOCUMENTO PÚBLICO. INVIABILIDADE. 3) Quando não há nos autos provas de que o apelado tenha efetivamente realizado esta conduta, a absolvição é medida que se impõe. APELO CONHECIDO E PARCIALMENTE PROVIDO PARA CONDENAR OAPELADO PELO CRIME DE ROUBOMAJORADO, DOSANDO-LHE A PENA. (e-STJ, fls. 1244-1245)
+Em razões, o impetrante aponta ilegalidade, na medida em que a autoria delitiva foi baseada exclusivamente em reconhecimento realizado em desacordo com o disposto no art. 226 do Código de Processo Penal.
+Requer que o paciente seja absolvido, or ausência de provas suficientes e válidas para a condenação (CPP, art. 386, VII), uma vez que o reconhecimento foi ilegal e não corroborado por outras provas produzidas sob contraditório não permitindo a condenação do paciente.
+É o relatório.
+Decido.
+Da análise dos autos, note-se que o presente habeas corpus, distribuído em 31/32023, constitui mera reiteração do pedido formulado no HC 785151/GO, de minha relatoria, que não foi conhecido, ao argumento de que já houve o trânsito em julgado da condenação em 7/1/2022, razão pela qual a utilização do habeas corpus com o fim de se desconstituir as decisões proferidas pelas instâncias ordinárias consubstanciaria pretensão revisional que configura usurpação da competência do Tribunal de origem, nos termos dos arts. 105, inciso I, alínea "e" e 108, inciso I, alínea "b", ambos da Constituição Federal.
+Assim, havendo identidade de partes e da causa de pedir, impugnando os dois feitos o mesmo acórdão (Apelação n.º 0146989.89.2012.8.09.0175), observa-se a inviabilidade de seu conhecimento.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. MERA REITERAÇÃO DE PEDIDOS. AGRAVO DESPROVIDO.
+I - O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada por seus próprios fundamentos.
+II - No presente caso, o writ não passa de mera reiteração de pedidos no HC n. 712.783/SP, já julgado. Nesse passo, "Inviável o reexame de matéria já apreciada em mandamus anteriormente julgado, configurada a inadmissível reiteração de pedido, conforme art. 210 do Regimento Interno do STJ" (AgRg no HC n. 756.282/SE, Quinta Turma Rel. Min. Ribeiro Dantas, DJe de 20/10/2022).
+Agravo regimental desprovido.
+(AgRg no HC n. 752.006/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 13/12/2022, DJe de 16/12/2022.)
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. REITERAÇÃO DO PLEITO FORMULADO NO HC N. 750.512/SP. LITISPENDÊNCIA. PETIÇÃO RECURSAL LIMINARMENTE INDEFERIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. No HC n. 750.512/SP, foi formulada idêntica pretensão em favor do ora Recorrente. O recurso ordinário, portanto, é mera reiteração de pedido anterior, em que há identidade de partes, de pedido e de causa de pedir, além de impugnarem ambos o mesmo acórdão e a mesma matéria. Assim, é incognoscível a insurgência defensiva.
+2. Não é possível a concessão da ordem de habeas corpus de ofício na hipótese de reiteração de pedido, porquanto a viabilidade de se proceder de tal maneira deve ser verificada quando do julgamento do writ conexo.
+3. Agravo regimental desprovido.
+(AgRg nos EDcl no RHC n. 172.358/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 13/12/2022, DJe de 19/12/2022.)
+Ante o exposto, indefiro liminarmente o habeas corpus, nos termos do art. 210 do RISTJ.
+Publique-se. Intimem-se.
