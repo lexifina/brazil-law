@@ -1,0 +1,39 @@
+DECISÃO
+Vistos etc.
+Trata-se de agravo em recurso especial interposto por BANCO DO BRASIL S.A. em face de decisão que inadmitiu recurso especial fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, interposto contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+"AGRAVO DE INSTRUMENTO. DECISÃO QUE DETERMINOU O RESTABELECIMENTO DO LIMITE DE CHEQUE ESPECIAL DO AGRAVADO, NO PRAZO DE48 HORAS, SOB PENA DE MULTA INICIALMENTEESTABELECIDA EM R$30.000,00. DECISÃO QUESE REPORTA A ANTECIPAÇÃO DOS EFEITOS DA TUTELA DATADA DE 2017. AUSÊNCIA DE IRREGULARIDADE. DESPROVIMENTO DO RECURSO."
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, a parte alega a violação dos artigos 489, inciso II e § 1º, incisos IV e VI, 1.022, inciso II, 76, 346 e 492, parágrafo único, do Código de Processo Civil, sob os argumentos, em síntese, de que:
+(a) houve negativa de prestação jurisdicional;
+(b) configurou-se julgamento ultra petita, pois "o pleito do autor se restringia apenas ao restabelecimento das linhas de crédito por seis meses, mas recebeu na decisão julgamento além do requerido, visto que a determinação foi de reestabelecer por tempo indeterminado" (e-STJ fl. 480);
+(c) "apesar de não ser legalmente admissível a decretação da revelia do Banco, após, as publicações e intimações deveriam ser realizadas em diário oficial, conforme preconiza o artigo 346 do CPC", o que não ocorreu, de forma que "foram praticados atos de constrição ao patrimônio deste peticionante, sem que houvesse notificação e oportunidade nos autos de manifestar-se sobre a penhora" (e-STJ fl. 481); e
+(d) "não é possível execução provisória de multa que foi concedida em decisão interlocutória sobre efeitos de concessão de tutela mesmo que o Acórdão confirme estes valores" (e-STJ fl. 482).
+É o breve relatório.
+Passo a decidir.
+A insurgência merece provimento quanto à apontada ofensa aos artigos 489 e 1.022 do Código de Processo Civil de 2015.
+O Tribunal de origem deixou de se manifestar quanto às seguintes teses defendidas pelo ora recorrente no agravo de instrumento interposto na origem:
+(a) "considerando que Banco Réu cumpriu a determinação judicial em 24/05/2017 (fls. 258) percebe-se que tal obrigação o cessou em 24/11/2017, i. e., seis meses após o restabelecimento do limite de cheque especial", mas "em verdadeiro julgamento ultra petita o julgador estendeu a obrigação o do Banco Agravante em prazo muitíssimo superior ao solicitado pela parte autora, uma vez que a decisão agravada foi proferida em 05/02/2020" (e-STJ fl. 7);
+(b) "o patrono inicial do Banco do Brasil, escritório Rocha, Calderon e Advogados Associados apresentou, às fls. 553, petição dando conhecimento ao juízo da revogação do seu mandato", mas "ainda que a irregularidade da representação do Banco Réu tenha sido devidamente certificada nos autos (fls. 570), não houve qualquer providência adotada pelo Juízo de piso, tampouco a publicação, em Diário de Justiça Eletrônico, de qualquer ato processual" (e-STJ fls. 9-10); e
+(c) "ainda que se ignore o disposto no artigo 76, caput, do CPC, tendo em vista a inexistência de concessão de prazo para regularização da representação processual, pode se verificar o descumprimento ao comando disposto no art. 346, que impõe publicação dos atos decisórios em processo com réu revel em órgão oficial" (e-STJ fl. 12).
+Com efeito, o órgão julgador limitou-se a afirmar que a decisão recorrida apenas determinou o cumprimento da antecipação dos efeitos da tutela deferida em 06.03.2017, tendo destacado, no julgamentos dos embargos declaratórios, que, "embora o embargado tenha mencionado diversas outras decisões no bojo de seu recurso, somente a decisão agravada seria apreciada, como o foi" (e-STJ fl. 449).
+Nesse contexto, não houve manifestação sobre as nulidades suscitadas pelo ora recorrente, como apontado pela própria parte recorrida nos embargos de declaração por ela opostos na origem (e-STJ fls. 425-426), não tendo sido nem mesmo exposta eventual situação de preclusão quanto aos tópicos controvertidos.
+Fica evidenciada, assim, a violação dos artigos 489 e 1.022 do CPC/2015, uma vez que não foi prestada a jurisdição de forma integral.
+Nesse sentido, mutatis mutandis:
+AGRAVO INTERNO NO RECURSO ESPECIAL. FERIADO LOCAL. COMPROVAÇÃO EM AGRAVO REGIMENTAL. POSSIBILIDADE. CPC/1973. TEMPESTIVIDADE. INDENIZAÇÃO POR DANO MORAL. MATÉRIA JORNALÍSTICA. PROCEDÊNCIA DO PEDIDO. APELAÇÃO DE AMBAS AS PARTES. FALECIMENTO DO AUTOR. SUBSTITUIÇÃO PROCESSUAL. AUSÊNCIA DE HABILITAÇÃO DO ESPÓLIO. NÃO CONHECIMENTO DAS APELAÇÕES. EMBARGOS DE DECLARAÇÃO REJEITADOS. OMISSÃO CONFIGURADA. VIOLAÇÃO DO ART. 535 DO CPC/73. AGRAVO PROVIDO. RECURSO ESPECIAL PROVIDO.
+1. Possibilidade de comprovação da tempestividade recursal por ocasião da interposição do agravo interno nos casos de recurso manejado sob a égide do Código de Processo Civil de 1973. Reconsideração.
+2. A ausência de manifestação sobre questão relevante para o julgamento da causa, mesmo após a oposição de embargos de declaração, constitui negativa de prestação jurisdicional (CPC/1973, art. 535, II; CPC/2015, art. 1.022, II), impondo-se a anulação do acórdão dos embargos de declaração e o retorno dos autos ao Tribunal de origem para que se manifeste sobre o ponto omisso.
+3. Hipótese em que o Tribunal de origem, reconhecendo a ausência de pressuposto válido para o prosseguimento da ação, em razão da morte do autor e da ausência de habilitação do espólio, limitou-se a não conhecer das apelações interpostas pelas partes, deixando de se pronunciar acerca da eventual extinção do processo e demais questões arguidas em embargos de declaração. Existência de omissão relevante.
+4. Agravo interno provido para dar provimento ao recurso especial.
+(AgInt no REsp 1431860/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 10/08/2020, DJe 26/08/2020)
+AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. RECUPERAÇÃO JUDICIAL. CUMPRIMENTO DE SENTENÇA. HONORÁRIOS SUCUMBENCIAIS. SUJEIÇÃO AOS EFEITOS DA RECUPERAÇÃO. OFENSA AOS ARTS. 489 E 1.022 DO CÓDIGO DE PROCESSO CIVIL DE 2015. CONFIGURAÇÃO. RETORNO DOS AUTOS.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Configurada a ofensa aos arts. 489 e 1.022 do Código de Processo Civil de 2015, tem-se correto o parcial provimento do recurso especial interposto pela agravada em virtude da necessidade de que o tribunal de origem se manifeste acerca das questões suscitadas nos embargos de declaração ante a relevância da omissão apontada.
+3. Agravo interno não provido.
+(AgInt no AgInt no REsp 1829014/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 20/04/2020, DJe 27/04/2020)
+Portanto, sendo potencialmente relevante a questão aventada na origem, impõe-se a aco lhida do recurso especial para se reconhecer a omissão do julgado e determinar a devolução dos autos à origem para a apreciação dos temas omitidos, uma vez que se trata de matéria que envolve elementos fáticos-probatórios, insuscetível de ser objeto de prequestionamento ficto, nos moldes do art. 1.025 do CPC/2015, e, portanto, de ser, desde logo, julgada por esta Corte Superior.
+Assim, fica prejudicado o exame das demais insurgências recursais.
+Ante o exposto, conheço do agravo para, desde logo, dar provimento ao recurso especial e determinar o retorno dos autos ao Tribunal de origem, a fim de que sejam sanadas as omissões individualizadas na fundamentação da presente decisão.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE OFENSA AOS ARTIGOS 489 E 1.022 DO CPC/201 5. CONFIGURAÇÃO DE OMISSÃO NO ACÓRDÃO RECORRIDO EM RELAÇÃO ÀS MATÉRIAS APONTADAS PELA PARTE RECORRENTE.
+AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
