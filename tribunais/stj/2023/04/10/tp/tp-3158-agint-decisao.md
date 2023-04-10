@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interno interposto pelo ESTADO DO RIO GRANDE DO SUL contra decisão proferida pelo Ministro Napoleão Nunes Maia Filho que deferiu pedido tutela provisória para concessão de efeito suspensivo a recurso especial nos seguintes termos:
+PROCESSUAL CIVIL E TRIBUTÁRIO. PEDIDO DE TUTELA PROVISÓRIA. EXECUÇÃO FISCAL. COOPERATIVAEM LIQUIDAÇÃO JUDICIAL. REQUERIMENTO DE CONCESSÃO DE EFEITO SUSPENSIVO AO AGRAVOEM RECURSO ESPECIAL, A FIM DE RESTABELECER A SUSPENSÃO DE ATOS EXECUTÓRIOSEM DESFAVOR DE COOPERATIVAEM LIQUIDAÇÃO.
+IMPOSSIBILIDADE DE SE ADOTAR MEDIDAS QUE LEVEM À EXPROPRIAÇÃO DO PATRIMÔNIO DA ENTIDADE, JÁ QUE SE ACHA DEMONSTRADA A PROBABILIDADE DO DIREITO E DE PROVIMENTO DO RECURSO ESPECIAL.
+TUTELA PROVISÓRIA POSTULADA POR COTRIJUI-COOPERATIVA AGROPECUÁRIA E INDUSTRIAL-EM LIQUIDAÇÃO DEFERIDA PARA DETERMINAR A SUSPENSÃO DOS ATOS EXECUTÓRIOS QUE ENVOLVAM REDUÇÃO DAS DISPONIBILIDADES FINANCEIRA E PATRIMONIAL DA COOPERATIVA NOS AUTOS DA EXECUÇÃO FISCAL 016/1.05.0001225-4, INCLUSIVE A REALIZAÇÃO DE LEILÃO DOS IMÓVEIS PENHORADOS, ATÉ A APRECIAÇÃO DEFINITIVA DO ARESP 1.710.720/RS (fl. 286).
+O ente agravante alega que não se encontram presentes os requisitos da plausibilidade do direito invocado e do risco de perecimento do direito, essenciais à concessão da tutela de urgência.
+Requer, por fim, a reconsideração da decisão agravada a fim de indeferir a tutela provisória postulada.
+Devidamente intimada, a parte agravada apresentou impugnação (fls. 311/318).
+É o relatório.
+Observa-se que o pedido de tutela provisória está atrelado à concessão de efeito suspensivo ao Agravo em Recurso Especial 1.710.720/DF, julgado nesta Corte Superior por decisão unipessoal do Ministro Manoel Erhardt (Desembargador convocado do TRF5), que contou com a seguinte ementa publicada no DJe de 10/6/2021:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. COOPERATIVA EM LIQUIDAÇÃO JUDICIAL. SUSPENSÃO DE ATOS EXECUTÓRIOS EM DESFAVOR DE COOPERATIVA EM LIQUIDAÇÃO. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL DA COOPERATIVA.
+Assim, considerando o superveniente julgamento do agravo em recurso especial ao qual se objetivou atribuir efeito suspensivo, fica prejudicado o agravo interno manejado contra a decisão que deferiu o pedido de tutela provisória. A propósito, citam-se os seguintes julgados:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO PEDIDO DE TUTELA PROVISÓRIA. PEDIDO DE EFEITO SUSPENSIVO AO RECURSO ESPECIAL 1.690.026/RN. RESP QUE, NO STJ, FOI PARCIALMENTE CONHECIDO, E, NESSA EXTENSÃO, IMPROVIDO. DECISÃO MANTIDA EM SEDE DE AGRAVO INTERNO. RECURSO ESPECIAL JULGADO, AINDA SEM TRÂNSITO EM JULGADO. SUPERVENIENTE PERDA DO OBJETO. PRECEDENTES DO STJ. AGRAVO INTERNO PREJUDICADO.
+Agravo interno aviado contra decisão que indeferiu o pedido de tutela provisória, objetivando atribuir efeito suspensivo ao Recurso Especial 1.690.026/RN.
+O Recurso Especial, interposto pelos ora agravantes - ao qual se pretendia atribuir efeito suspensivo -, restou parcialmente conhecido, e, nessa extensão, improvido, cuja decisão foi mantida pela Segunda Turma do STJ, em sede de Agravo interno, porém, ainda sem trânsito em julgado.
+No caso, "tendo em vista o superveniente julgamento do agravo em recurso especial ao qual se pretendia conferir efeito suspensivo, deve ser reconhecida a perda de objeto do pedido de tutela provisória" (STJ, AgInt no TP 304/RJ, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 23/06/2017). Nesse mesmo sentido: STJ, AgRg no TP 91/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe de 11/05/2017; AgInt no TP 2.751/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 04/11/2022.
+Na forma da jurisprudência desta Corte, "a decisão que julga o recurso, ainda que não tenha transitado em julgado, prejudica a medida cautelar que buscava lhe atribuir efeito suspensivo, por perda de objeto (AgRg na MC 25.363/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 13/09/2016)" (STJ, AgRg no TP 11/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe de 30/05/2017). Em igual sentido: STJ, AgRg na MC 20.112/AM, Rel. Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, DJe de 26/06/2013; Pet 11.502/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 18/04/2017.
+Agravo interno prejudicado.
+(AgInt no TP 707/RN, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 7/12/2022, DJe de 14/12/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NA TUTELA PROVISÓRIA. EFEITO SUSPENSIVO A RECURSO ESPECIAL. JULGAMENTO DO RECURSO ESPECIAL PRINCIPAL. PERDA DE OBJETO.
+O pedido de tutela de urgência deduzido com o fim de atribuir efeito suspensivo a recurso especial fica prejudicado, por perda superveniente de objeto, em virtude do julgamento do recurso principal. Precedentes.
+Agravo interno não provido.
+(AgInt no TP 1.931/BA, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 21/3/2022, DJe de 24/3/2022.)
+Ante o exposto, julgo prejudicado o presente agravo interno por perda superveniente de seu objeto.
+Publique-se. Intimações necessá rias.
