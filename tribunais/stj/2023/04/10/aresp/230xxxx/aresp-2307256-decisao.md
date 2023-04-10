@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de agravo interposto por RAIMUNDO NONATO VAZ RAMOS - SUCESSÃO e OUTRO, contra decisão que inadmitiu recurso especial com fundamento no art. 105, inciso III, da Constituição Federal.
+É, no essencial, o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n. 02 e n. 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+De início, registro que o § 6.º do art. 1.042 do Código de Processo Civil dispõe que "na hipótese de interposição conjunta de recursos extraordinário e especial, a parte agravante deverá interpor um agravo para cada recurso não admitido".
+Como se verifica, a parte ora agravante, por meio de uma única petição, procura interpor conjuntamente os agravos contra a inadmissão dos recursos extraordinário e especial, o que, além de contrariar texto expresso da legislação processual, não encontra guarida nesta Corte Superior:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.RECURSO ESPECIAL E RECURSO EXTRAORDINÁRIO NÃO ADMITIDOS, NA ORIGEM, EM JUÍZO PRÉVIO DE ADMISSIBILIDADE. RAZÕES DO AGRAVO EM RECURSO ESPECIAL E DO AGRAVO EM RECURSO EXTRAORDINÁRIO CUMULADAS EM UMA ÚNICA PETIÇÃO DE AGRAVO. ART. 544, § 1º, DO CPC. DESCUMPRIMENTO.AGRAVO NÃO CONHECIDO. PRECEDENTES DO STJ. AGRAVO REGIMENTAL IMPROVIDO.
+I. No caso, o ora agravante - contra a decisão que, em juízo prévio de admissibilidade, negou seguimento ao Recurso Especial e ao Recurso Extraordinário - cumulou, em uma única peça, as razões do Agravo em Recurso Especial e do Agravo em Recurso Extraordinário, em desconformidade com o disposto no art. 544, § 1º, do CPC.
+II. Ausente a regularidade formal, exigida pelo art. 544, § 1º, do CPC, não merece censura a decisão que não conheceu do Agravo. Nesse sentido: STJ, AgRg no AREsp 398.176/SP, Rel. Ministra REGINA HELENA COSTA, QUINTA TURMA, DJe de 29/08/2014; AgRg no REsp 1.151.399/MG, Rel.
+Ministra ELIANA CALMON, SEGUNDA TURMA, DJe de 10/02/2010;
+AgRg no REsp 745.601/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 19/03/2009.
+III. Agravo Regimental improvido.
+(AgRg no AREsp 723.062/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe 29/03/2016).
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se. Intimem-se.
