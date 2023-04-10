@@ -1,0 +1,19 @@
+DECISÃO
+O espólio de ANTONIO FERNANDO MIRANDA apresentou petição (e-STJ fls. 1.818/1.830) noticiando o falecimento da parte, requerendo a habilitação do espólio nos autos e a anulação de todos os atos subsequentes à data do óbito.
+A parte recorrente manifestou-se às fls. 1.848/1.851 (e-STJ), co ncordando com os pedidos.
+É o breve relato.
+Decido.
+Nos termos da jurisprudência do STJ, "a eventual inobservância do disposto no art. 265, inciso I, do CPC/1973 (art. 313, inciso I, do CPC/2015), que determina a suspensão do processo em razão da morte de qualquer das partes, enseja apenas nulidade relativa, sendo válidos os atos praticados, desde que não haja prejuízo aos interessados" (AgInt no AREsp n. 2.005.388/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 12/12/2022, DJe de 16/12/2022). No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. VIOLAÇÃO AOS ARTS. 17, 18, 76, 81, 110, 314 E 687 DO CPC/2015; E 682, II, DO CC/2002. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. FALECIMENTO DA PARTE. AUSÊNCIA DE SUSPENSÃO DO PROCESSO. NULIDADE RELATIVA. INEXISTÊNCIA DE PREJUÍZO. VALIDADE DOS ATOS PRATICADOS. SÚMULA 83/STJ. AGRAVO DESPROVIDO.
+1. Fica inviabilizado o conhecimento de tema trazido no recurso especial, mas não debatido e decidido nas instâncias ordinárias, tampouco suscitado nos embargos de declaração opostos, para sanar eventual omissão, porquanto ausente o indispensável prequestionamento. Aplicação, por analogia, das Súmulas 282 e 356 do STF.
+2. A jurisprudência do STJ é firme no sentido de que "A inobservância do artigo 313, I, do CPC, que determina a suspensão do processo a partir da morte da parte, enseja apenas nulidade relativa, sendo válidos os atos praticados, desde que não haja prejuízo aos interessados. A norma visa preservar o interesse particular do espólio e dos herdeiros do falecido e, não tendo sido causado nenhum dano a eles, não há por que invalidar os atos processuais praticados." (AgInt no REsp n. 1.924.921/RJ, relator Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 20/9/2021, DJe de 27/9/2021).
+3. Diante da manifesta improcedência do recurso especial, assim como do presente agravo interno, indefere-se o pedido de concessão de efeito suspensivo ao agravo interno.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.083.123/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 12/9/2022, DJe de 27/9/2022.)
+No caso, não se verifica prejuízo à parte interessada.
+JURACY LOMBARDI MIRANDA e MARIA BERNADETE MIRANDA opuseram embargos de terceiro contra WINTHER REBELLO ADVOGADOS ASSOCIADOS, LUIZ AUGUSTO WINTHER REBELLO JÚNIOR e ANTONIO FERNANDO MIRANDA para desconstituir penhora que teria recaído sobre sua propriedade.
+A sentença extinguiu o processo sem resolução do mérito, com fundamento no art. 485, VI, do CPC/2015 por concluir pela ilegitimidade das autoras (e-STJ fls. 516/521). Interposta apelação, foi desprovida (e-STJ fls. 585/589). Foi então interposto recurso especial, inadmitido na origem (e-STJ fls. 1.637/1.640). A Presidência desta Corte não conheceu do agravo em recurso especial (e-STJ fls. 1.746/1.748), referida decisão foi confirmada no julgamento do agravo interno pela Quarta Turma (e-STJ fls. 1.783/1.787) e posteriores embargos de declaração foram rejeitados (e-STJ fls. 1.811/1.814).
+Verifica-se, portanto, que houve apenas interposição de recurso pela parte autora e foi mantida a extinção do processo sem resolução do mérito. Em tais condições, não é caso de declaração de nulidade de todos os atos processuais desde a data do óbito de ANTONIO FERNANDO MIRANDA, pois ausente prejuízo para a parte ré .
+No mais, cumprida a prestação jurisdicional por esta Corte, o pedido de habilitação nos autos deve ser feito na origem.
+Diante do exposto, INDEFIRO os pedidos. Certifique-se o trânsito em julgado e devolvam-se os autos à origem.
+Publique-se e intimem-se.
