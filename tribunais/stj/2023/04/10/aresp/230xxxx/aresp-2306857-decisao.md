@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de agravo apresentado por MARIA OLIVEIRA DA SILVA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim resumido:
+APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA DE NULIDADE C/C REPARAÇÃO DE DANOS - RÉ PELISSON & CIA INCORPORADORA E LOTEADORA LTDA. - AUSÊNCIA DE ATOS PARA A VENDA DE LOTES - CLÁUSULA CONTRATUAL QUE VEDAVA A NEGOCIAÇÃO ANTES DE APROVADO O LOTEAMENTO - INEXISTÊNCIA DE RESPONSABILIDADE PELOS PREJUÍZOS CAUSADOS - APELO 4 PROVIDO, POR MAIORIA DE VOTOS.
+Quanto à controvérsia, alega violação dos arts. 47 da Lei n. 6.766/1979; 12 e 28, § 3º, do CDC, no que concerne ao reconhecimento da responsabilidade objetiva das empresas consorciadas pelos prejuízos causados aos consumidores, trazendo os seguintes argumentos:
+9. Não obstante, o acórdão recorrido afasta a responsabilidade da recorrida Pelisson, por entender que esta não teve culpa pelos danos em tela; nega, entretanto, vigência aos dispositivos de legislação federal que prevêem a responsabilidade objetiva para casos de empresas consorciadas, como no presente caso.
+ ..
+16. Cumpre ressaltar que a recorrida Pelisson era beneficiária direta do loteamento irregular em questão, haja vista que caso o mesmo não houvesse sido embargado, ela obteria lucro com o empreendimento.
+17. Ao constituir sociedade com os demais réus e dar início ao empreendimento, autorizando a construção de muro em sua propriedade e a instalação de outdoor de publicidade quanto à comercialização de lotes, a recorrida Pelisson concorreu para a situação que acabou por causar prejuízo às recorrentes.
+ ..
+22. Conforme inequivocamente comprovado pelos documentos de seq. 1.6 e 1.7, as empresas PELISSON & CIA LOTEADORA E INCORPORADORA LTDA e LYNCORP EMPREENDIMENTOS IMOBILIÁRIOS LTDA são sociedades consorciadas, nos exatos termos das disposições constantes dos artigos 278 e 279 da Lei 6.404/76.
+ ..
+29. Nesta esteira, clarividente a responsabilidade da recorrida Pelisson no que toca ao empreendimento Green Diamond, tendo restado comprovado que ela configura empresa consorciada da ré Lyncorp, tendo inclusive fornecido o imóvel para visitas de consumidores, autorizado a construção de infraestrutura (muro) e a colocação de outdoor, com plena ciência da comercialização de lotes de forma ilícita, objetivando obter lucro com isto. (fls. 5.135-5.140).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Verifica-se, portanto, que não se pode atribuir responsabilidade pela venda dos lotes à empresa Pelisson.
+Assim sendo, não cabe a esta empresa restituir o valor que as autoras entregaram para terceiro, Sr. Mário, que sequer é réu nesta demanda.
+Acrescente-se que o reconhecimento da existência de relação consumerista entre as autoras e os demais réus, não impede que se afaste a responsabilidade dos proprietários da Fazenda e da empresa Pelisson e Cia. Ltda., pois estes não integram a cadeia de fornecedores da relação jurídica estabelecida entre as autoras, o Sr. Mário e a Lyncorp.
+Destaca-se que a Pelisson e Cia Ltda. não realizou publicidade, não participou da venda dos lotes e não recebeu qualquer quantia.
+A questão ora analisada já foi objeto de exame por esta Corte de Justiça, sendo que a obrigação de restituição de valores (pela empresa ou pela família Pelisson) foi excluída sob duas óticas, a da ilegitimidade passiva e a da ausência de responsabilidade solidária (fls. 4963-4964).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
