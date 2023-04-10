@@ -1,0 +1,62 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+Segunda Turma Recursal DOS JUIZADOS ESPECIAIS DO DISTRITO FEDERAL
+Processo N.RECURSO INOMINADO CÍVEL 0714443-14.2022.8.07.0020RECORRENTE(S)B2M ATACAREJOS DO BRASIL LTDARECORRIDO(S)ERIK CARDOSO ALVESRelatoraJuiza SILVANA DA SILVA CHAVES Acórdão Nº1685401
+
+EMENTA
+
+ RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. CONSUMIDOR. FURTO DE PERTENCES NO INTERIOR DE VEÍCULO. ESTACIONAMENTO PÚBLICO LOCALIZADO NAS ADJACÊNCIAS DE ESTABELECIMENTO COMERCIAL. LEGÍTIMA EXPECTATIVA DE SEGURANÇA POR PARTE DO CONSUMIDOR. RISCO-PROVEITO DO NEGÓCIO. DANO MATERIAL COMPROVADO. RECURSO CONHECIDO E NÃO PROVIDO.
+
+1.        Trata-se de Recurso Inominado interposto pela parte requerida em face da sentença exarada pelo Juízo do 1º Juizado Especial Cível de Águas Claras que julgou parcialmente procedentes os pedidos contidos na inicial para condenar a empresa requerida ao pagamento em favor do autor de R$ 4.100,00 (quatro mil e cem reais) a título de reparação material pelos prejuízos sofridos.
+
+2.        Na origem o autor, ora recorrido, ajuizou ação em que pretendeu a condenação da requerida ao pagamento de R$ 4.100,00 (quatro mil e cem reais) a título de indenização material pelos danos decorrentes do furto ocorrido no estacionamento do supermercado e ao pagamento de indenização no valor de R$ 5.000,00 (cinco mil reais) a título de danos morais. Narrou que no dia 08/07/2020 se dirigiu ao hipermercado atacadista requerido, localizado no Setor de Indústrias Gráficas, aproximadamente às 10h40, estacionando seu veículo no estacionamento do réu. Alegou que ao retornar das compras encontrou seu carro com a porta aberta e seus pertences, que ali dentro estavam, teriam sido furtados. Destacou que os bens subtraídos foram os seguintes: Mochila office, marca reserva, no valor de R$ 550,00; Fone galaxy buds + samsung, no valor de R$ 850,00; Óculos de sol da marca Gucci, no valor de R$ 1.500,00; Óculos de sol da marca Ray ban, no valor de R$ 350,00; Lancheira fitness (bolsa térmica), da marca artic zone, no valor de R$ 200,00; Garrafa térmica Inox, da marca autospout, no valor de R$ 120,00; Pen Drive, valor 80,00; Certificado digital da OAB, no valor de R$ 190,00; Necessaire da marca wolner, no valor de R$ 200,00; Carregador de telefone S20, com cabo de 3m, no valor de R$ 180,00; Um terno azul marinho da marca Zara, no valor de R$ 590,00; Carregador portátil da marca sony, no valor de R$ 120,00 e uma Porca do segredo das rodas, no valor de R$ 360,00. Afirmou que em razão do constatado foi a procura da administração do requerido que, após análise do circuito de câmeras do local, informou ter visto um veículo, estacionado próximo ao automóvel do autor, cujos ocupantes seriam os responsáveis pela subtração. Aduziu que chegou a solicitar as imagens do circuito interno, o que lhe fora negado, sob a alegação de que não haveria autorização para entrega, devendo o autor fazer o registro de ocorrência e solicitar que a Polícia requisitasse as imagens, pois só a ela seriam entregues. Asseverou que feita a ocorrência, tomou conhecimento de que o veículo responsável pela subtração já havia sido identificado em outros furtos registrados. Esclareceu que os autores foram identificados, por meio do devido processo criminal instaurado e que houve a devolução de apenas parte dos bens subtraídos, quais sejam: Cabo de carregador de 3m; Pen Drive e Carregador portátil da marca sony. Defendeu a reponsabilidade da parte requerida pelo evento danoso, em razão da falha do dever de guarda, vigilância e segurança. Sustentou os danos causados pelo furto de seus pertences do interior do veículo no estacionamento da requerida não se limitaram à esfera material, mas atingiram também à esfera pessoal, motivo pelo qual pugnou pela reparação pelos prejuízos materiais e morais.
+
+3.        Recurso tempestivo e adequado à espécie. Preparo regular (ID 44052832). Foram ofertadas contrarrazões (ID 44052837).
+
+4.        A questão devolvida ao conhecimento desta Turma Recursal consiste na reponsabilidade civil por falha na prestação de serviço decorrente de furto pertences localizado no interior de veículo ocorrido em estacionamento público adjacente ao estabelecimento comercial.
+
+5.        Em suas razões recursais, o réu alegou que o estacionamento está localizado nas adjacências do seu estabelecimento comercial, mas dele não faz parte, sendo, inclusive, utilizado por vários estabelecimentos comerciais. Sustentou ausência de responsabilidade, tendo em vista que os fatos ocorreram por culpa exclusiva de terceiro. Defendeu a inaplicabilidade da Súmula nº 130 do STJ, pois o estacionamento está localizado em área pública. Afirmou que não há nexo de causalidade entre sua conduta e o dano, pois os fatos decorreram de culpa de terceiro. Asseverou que as sentenças de primeiro grau prolatadas nos autos nº 727889-20.2017.8.07.0001 da 25ª Vara Cível de Brasília e autos 0710827-82.2018.8.07.0016 do 7º Juizado Especial Cível de Brasília já reconheceram a publicidade do local e a ausência do dever de indenizar. Aduziu que a jurisprudência deste Tribunal afirma que a empresa não deve ser punida por um fato inesperado e inevitável que não faz parte da atividade fim do serviço prestado. Destacou precedente do STJ, no qual o supermercado Super Adega Atacadista de Alimentos Ltda. foi isento da responsabilidade pelos danos decorrentes de roubo realizado em estacionamento público adjacente ao estabelecimento comercial (REsp 1642397/DF, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 20/03/2018, DJe 23/03/2018). Requereu a reforma da sentença para julgar improcedentes os pedidos inaugurais, em razão da ocorrência de caso fortuito; fato de terceiro; inexistência de prestação de qualquer serviço de estacionamento no caso, considerando que o veículo estava localizado em local público, aberto a qualquer pessoa e gratuito como já reconhecido e pacificado pelo STJ e a não comprovação da presença de qualquer bem no interior do veículo.
+
+6.        A relação jurídica estabelecida entre as partes é de natureza consumerista, estando as partes inseridas nos conceitos de fornecedor e consumidor previstos no Código de Defesa do Consumidor (arts. 2º e 3º da Lei 8.078/90). Aplicam-se ao caso em comento as regras de proteção do consumidor, inclusive as pertinentes à responsabilidade objetiva na prestação dos serviços.
+
+7.        Nesta demanda é incontroverso que o autor/recorrido foi vítima de furto de pertences no interior de seu veículo, o qual estava estacionado em área pública, nas adjacências do supermercado atacadista do réu/recorrente. Tal fato foi gravado em vídeo por meio de circuito fechado de TV do estabelecimento comercial, cujas imagens foram utilizadas pela Polícia para identificar o veículo usado pelos autores da subtração e, através da investigação policial, foi possível a apreensão de parte dos bens subtraídos com a identificação do responsável pela infração penal, conforme se verifica da ação penal nº 0741897-94.2020.8.07.0001 acostada ao processo (ID  44052254).
+
+8.        O fornecedor responde pelo defeito na prestação do serviço, independente da existência de culpa ou dolo, por integrar o risco do negócio, nos termos do art. 14, § 1º, II do CDC. A responsabilidade objetiva do fornecedor somente será afastada, quando comprovados fatos que rompem o nexo causal, como, por exemplo, hipóteses de força maior ou culpa exclusiva do consumidor (art. 14, § 3º, II do CDC), o que não se verificou no caso.
+
+9.        Nos termos do destacado na sentença recorrida, nos casos de furto de veículo ocorridos em estabelecimentos públicos, localizados ao lado do estabelecimento comercial, vem prevalecendo o entendimento na jurisprudência pátria quanto à necessidade da análise se referido estacionamento possuía características aptas a gerar no consumidor à expectativa de segurança para atrair a responsabilidade do estabelecimento pelos danos ocorridos. No presente caso, embora tratar-se de estacionamento aberto, sem controle de acesso, verifica-se do conjunto probatório juntado aos autos a localização adjacente ao supermercado atacadista, a presença de toldos para cobertura dos carros, demarcações das vagas e câmeras de vigilância, inclusive, por meio das quais foi possível gravar o evento.
+
+10.      Nesse contexto, a presença de tais estruturas gerou no recorrido a legítima expectativa de segurança de estacionar seu carro para fazer suas compras no local. O fato de se tratar de serviço gratuito não exclui a responsabilidade da recorrente, pois ao oferecer um estacionamento supostamente seguro aos seus clientes, facilitando o acesso ao estabelecimento, a empresa atrai os consumidores para seu comércio, o que a beneficia por fomentar sua atividade, importando em ônus pela guarda e vigilância dos veículos ali estacionados.
+
+10.       Não há que se falar em ocorrência de caso fortuito ou força maior, no caso concreto, porquanto resta evidenciada a previsibilidade do dano e a ciência dos riscos, em razão da notícia de terem ocorrido outros furtos semelhantes na localidade, tendo sido instaladas câmeras de vigilância voltadas para o referido estacionamento. A ocorrência do furto não afasta a responsabilidade objetiva da fornecedora, por se tratar de fortuito interno.
+
+11.      A presente demanda difere dos precedentes citados pelo réu em seu recurso, uma vez que aqui demonstrado tratar-se de estacionamento mantido pelo réu/recorrente, a fim de atender objetivos de natureza econômica, possuindo características de estacionamento privado, em face dos aspectos físicos que ostentava, estes aptos a gerar no consumidor a expectativa de segurança e confiabilidade em estacionar seu veículo no local. Ademais, o recorrente não comprovou que a utilização do estacionamento não era de uso restrito de seus clientes, sendo utilizado pelos demais comércios existentes nos arredores, fato que atrairia aplicação dos precedentes mencionados ao caso, ônus que lhe incumbia.
+
+12.      No que se refere aos bens subtraídos, a narrativa do consumidor mostra-se crível, devendo se destacar que a boa-fé se presume, não havendo nenhum elemento nos autos a demonstrar que o recorrido apresentou declarações falsas com o fim de enriquecer ilicitamente. Além disso, conforme destacado pelo magistrado sentenciante, a partir da aplicação das regras de experiência, especificamente considerando a data e horário em que ocorreu o fato e a atividade profissional desempenhada pelo recorrido, os objetos detalhados tanto na ocorrência policial, quanto neste processo, são itens que normalmente são utilizados em uma jornada de trabalho característico da profissão do recorrido, sendo razoável que estivessem no interior do veículo enquanto fazia compras. Outrossim, os valores dos bens apresentados pelo recorrido são condizentes com os praticados no mercado e próximos aos indicados dos bens avaliados no laudo de avaliação econômica indireta realizado pelo Instituto de Criminalística da Polícia Civil do Distrito Federal, acostado ao ID 44052254 - Pág. 89 até 91. Portanto, configurada a obrigação de ressarcimento pelos danos materiais experimentados pelo autor.
+
+13.      Recurso conhecido e não provido.
+
+14.      Custas recolhidas. Condenado o recorrente vencido ao pagamento de honorários advocatícios, fixados em 10% sobre o valor da condenação.
+
+15.      A súmula de julgamento servirá de acórdão, com fulcro no art. 46 da Lei n.º 9.099/95.
+
+ACÓRDÃO
+
+Acordam os Senhores Juízes da Segunda Turma Recursal dos Juizados Especiais do Distrito Federal do Tribunal de Justiça do Distrito Federal e dos Territórios, SILVANA DA SILVA CHAVES - Relatora, ARNALDO CORRÊA SILVA - 1º Vogal e MARILIA DE AVILA E SILVA SAMPAIO - 2º Vogal, sob a Presidência da Senhora Juiza GISELLE ROCHA RAPOSO, em proferir a seguinte decisão: RECURSO CONHECIDO E NÃO PROVIDO. UNÂNIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 13 de Abril de 2023
+
+Juiza SILVANA DA SILVA CHAVESRelatora
+
+RELATÓRIO
+
+A ementa servirá de acórdão, conforme inteligência dos arts. 2º e 46 da Lei n. 9.099/95.
+
+VOTOS
+
+A Senhora Juíza SILVANA DA SILVA CHAVES - RelatoraA ementa servirá de acórdão, conforme inteligência dos arts. 2º e 46 da Lei n. 9.099/95.
+O Senhor Juiz ARNALDO CORRÊA SILVA - 1º Vogal Com o relatorA Senhora Juíza MARILIA DE AVILA E SILVA SAMPAIO - 2º Vogal Com o relator
+
+DECISÃO
+
+RECURSO CONHECIDO E NÃO PROVIDO. UNÂNIME.
