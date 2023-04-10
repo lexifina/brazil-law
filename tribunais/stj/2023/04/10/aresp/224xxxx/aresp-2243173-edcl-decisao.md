@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de embargos de declaração interpostos por ANDRE RICARDO SOUTO MAIOR e OUTROS contra decisão unipessoal que conheceu do agravo para conhecer parcialmente do recurso especial que interpuseram e, nessa extensão, negar-lhe provimento, nos termos da seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. DECISÃO QUE DEFERIU O PEDIDO DE DESCONSIDERAÇÃO INVERSA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC/15. INOCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO.
+1. Incidente de desconsideração da personalidade jurídica em que foi proferida decisão deferindo o pedido de desconsideração inversa.
+2. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/15.
+4. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+5. O reexame de fatos e provas em recurso especial é inadmissível.
+6. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+7. Agravo conhecido. Recurso especial parcialmente conhecido e não provido.
+No presente recurso, apontam os embargantes possível omissão na decisão embargada em relação à nulidade por negativa de prestação jurisdicional e nulidade por cerceamento de defesa e quanto à ausência de preenchimento dos requisitos previstos pelo art. 50 do CC/02.
+É O BREVE RELATÓRIO.
+Nos termos do art. 1.022 do CPC/15, somente é cabível o recurso de embargos de declaração nas hipóteses em que haja, na decisão impugnada, obscuridade, contradição, omissão ou erro material.
+Na hipótese, não ocorreu nenhum dos vícios mencionados. Efetivamente, nenhuma obscuridade, contradição, omissão ou erro material existe no corpo da decisão que justifique a oposição desse recurso.
+De fato, ao conhecer parcialmente do recurso especial e negar-lhe provimento, a decisão embargada foi clara quanto à ausência de violação dos arts. 489 e 1.022 do CPC/15 e à incidência das Súmulas 7 e 211/STJ. Embasou que:
+O TJ/SC foi claro ao concluir que: i) não se discute no procedimento subjacente a higidez do título exequendo, pois aludido documento integra a causa de pedir do processo expropriatório e será nesse processo o momento adequado e oportuno para se discutir tais requisitos; o incidente da desconsideração da personalidade jurídica serve para permitir o exercício do direito constitucional ao contraditório, à ampla defesa e ao devido processo legal, uma vez que o simples redirecionamento do processo, sem o efetivo direito de defesa, não foi contemplado com o advento do Código Fux; ii) a prova pericial, embora se pretenda utilizá-la para comprovar a ausência de confusão patrimonial, não serviria ao intento almejado, pois as condutas constatadas superam o simples cotejo analítico de ajustes contábeis ou fiscais e o ardil, não raro, é camuflado e obscuro, de modo a embaralhar as vistas de quem precisa encontrá-lo; iii) na hipótese dos autos, o abuso de personalidade está devidamente comprovado, pois o primeiro agravan te, inicialmente executado, transferiu cotas, desfez-se de patrimônio, integralizou bens de valores até então desconhecidos (ou desatualizados), tudo em período muito curto ao então pedido de recuperação judicial da empresa conexa, inadimplemento contratual e ajuizamento da lide; iv) a conduta praticada pelo executado destinou-se unicamente à tentativa de blindar seu patrimônio, lesar credores e, com isso, descumprir obrigações contratuais sem reflexo na prática de atos expropriatórios contra si direcionados, conduta que não pode ser chancelada.
+Dessa maneira, no acórdão recorrido não há omissão, contradição, obscuridade ou erro material. Ademais, foram devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional.
+(..)
+O acórdão recorrido não decidiu acerca do art. 355, I, do CPC/15, indicado como violado, apesar da oposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+(..)
+Alterar o decidido no acórdão impugnado, no que se refere à inexistência de cerceamento de defesa (desnecessidade da perícia) e ao preenchimento dos requisitos para desconsideração da personalidade jurídica, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+(..)
+Além disso, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente (preenchimento dos requisitos para desconsideração da personalidade jurídica), impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República.
+Na verdade, revela-se inequívoca a pretensão dos embargantes de se valerem dos embargos de declaração para rediscutir matéria já decidida, fazendo com que prevaleça o seu entendimento sobre o tema, intuito esse incompatível com a natureza desse recurso. Como se sabe, os embargos declaratórios não são via adequada para corrigir suposto error in judicando, não sendo possível atribuir eficácia infringente ao recurso se ausentes erro material, omissão, obscuridade ou contradição.
+Assim, dissociado o pleito de qualquer um dos pressupostos de interposição dos embargos de declaração, desautorizada está a pretensão declinada, impondo-se, então, a sua rejeição.
+Forte nessas razões, REJEITO os embargos de declaração no agravo em recurso especial.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. VÍCIOS. INEXISTÊNCIA.
+1. Devem ser rejeitados os embargos de declaração quando inexiste qualquer vício a ser sanado na decisão embargada.
+2. Embargos de declaração rejeitados.
