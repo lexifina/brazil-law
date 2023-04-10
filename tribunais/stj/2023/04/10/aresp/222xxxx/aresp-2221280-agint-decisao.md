@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo interno de MANUEL DA COSTA MOSQUEIRA e PAULO ROBERTO XIMENES ROCHA contra decisão de minha relatoria em que conhecido do agravo para não conhecer do recurso especial em decorrência da incidência do óbice da Súmula 7/STJ.
+Alega a agravante, em síntese, que: a) não incide o óbice da Súmula 7/STJ no presente caso, uma vez que foi expressamente reconhecido no acórdão recorrido que os embargos declaração foram interpostos tempestivamente, mas, mesmo assim, não conhecidos porque recebidos como mero pedido de reconsideração; e b) o recebimento dos embargos de declaração como mero pedido de reconsideração contraria o decidido pelo STJ.
+Foi apresentada impugnação.
+É o relatório. Passo a decidir.
+Com razão a agravante, pois o óbice aplicado na decisão recorrida não se ajusta ao presente feito, sendo o caso de reanálise do recurso especial.
+O Tribunal de origem decidiu à controvérsia nos seguintes termos:
+(..) inobstante a tempestividade dos embargos de declaração interpostos contra a decisão objeto do presente agravo, certo é que os embargos opostos em fls. 659/663 foram manejados com evidente e mera de obter a reconsideração do Juízo a quo sobre os termos da decisão mantida pela decisão que desproveu os primeiros embargos de declaração de fls. 617/621 Nesse contexto, sabe-se que o pedido de reconsideração não possui o condão de interromper o prazo recursal que passou a correr após a decisão que rejeitou os primeiros embargos de declaração desprovidos.
+A propósito, o teor da Súmula nº 46, deste Tribunal de Justiça:
+"Não se suspende, com o pedido de reconsideração, o prazo para interposição de qualquer recurso".
+Assim, verificando-se não ocorrida a interrupção do prazo recursal, após proferida a decisão de fls. 634, que desproveu os embargos de declaração de fls.
+659/663, impõe-se reconhecer a intempestividade deste agravo de instrumento, cuja interposição ocorreu após o decurso do prazo legal de 15 (quinze) dias, contado da ciência da decisão dos embargos opostos em fls. 617/621. (destaquei)
+Das razões do acórdão recorrido, verifica-se que o segundo embargos de declaração oposto pelos recorrentes foi recebido pelo Tribunal de origem como pedido de reconsideração.
+Ocorre que a Corte Especial deste Tribunal Superior, no julgamento do REsp 1.522.347/ES (Rel. Ministro Raul Araújo, DJe 16/12/2015), firmou o entendimento de que é incabível o recebimento de embargos declaratórios, ainda que contenham nítido pedido de efeitos infringentes, como mero "pedido de reconsideração". O julgado restou assim ementado:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. RECEBIMENTO DE EMBARGOS DE DECLARAÇÃO COM PEDIDO DE EFEITO MODIFICATIVO COMO MERO PEDIDO DE RECONSIDERAÇÃO. IMPOSSIBILIDADE. VIOLAÇÃO AO ART. 538 DO CPC. RECURSO PROVIDO.
+1. Configura violação ao art. 538 do CPC o recebimento de embargos de declaração como mero "pedido de reconsideração", ainda que contenham nítido pedido de efeitos infringentes.
+2. Tal descabida mutação: a) não atende a nenhuma previsão legal, tampouco
+aos requisitos de aplicação do princípio da fungibilidade recursal; b) traz surpresa e insegurança jurídica ao jurisdicionado, pois, apesar de interposto tempestivamente o recurso cabível, ficará à mercê da subjetividade do magistrado; c) acarreta ao embargante grave sanção sem respaldo legal, qual seja a não interrupção de prazo para posteriores recursos, aniquilando o direito da parte embargante, o que supera a penalidade objetiva positivada no art. 538, parágrafo único, do CPC.
+3. A única hipótese de os embargos de declaração, mesmo contendo pedido de efeitos modificativos, não interromperem o prazo para posteriores recursos é a de intempestividade, que conduz ao não conhecimento do recurso.
+4. Assim como inexiste respaldo legal para se acolher pedido de reconsideração como embargos de declaração, tampouco há arrimo legal para se receber os aclaratórios como pedido de reconsideração. Não se pode transformar um recurso taxativamente previsto no art. 535 do CPC em uma figura atípica, "pedido de reconsideração", que não possui previsão legal ou regimental.
+5. Recurso especial provido.
+(REsp 1522347/ES, Rel. Ministro RAUL ARAÚJO, CORTE ESPECIAL, julgado em 16/09/2015, DJe 16/12/2015)
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE DECLARAÇÃO INDEVIDAMENTE RECEBIDOS NA ORIGEM COMO MERO PEDIDO DE RECONSIDERAÇÃO. PRAZO RECURSAL INTERROMPIDO. AFASTADA A INTEMPESTIVIDADE DO SUBSEQUENTE AGRAVO INTERNO. AGRAVO PROVIDO. RECURSO ESPECIAL PROVIDO.
+1. A tempestiva oposição de embargos de declaração, ainda que venham a ser rejeitados por terem propósito infringente, interrompe o prazo para outros recursos.
+2. "Configura violação ao art. 538 do CPC o recebimento de embargos de declaração como mero "pedido de reconsideração", ainda que contenham nítido pedido de efeitos infringentes" (REsp 1.522.347/ES, Rel. Ministro RAUL ARAÚJO, Corte Especial, j. em 16/09/2015, DJe de 16/12/2015).
+3. Agravo interno provido para dar provimento ao recurso especial, reconhecendo-se a tempestividade do agravo interno interposto na origem.
+(AgInt nos EDcl no AREsp n. 1.806.345/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 20/9/2021, DJe de 15/10/2021.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/73). EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO PEDIDO DE RECONSIDERAÇÃO. APELAÇÃO CONHECIDA. HIPÓTESE DE INTERRUPÇÃO DO PRAZO RECURSAL. PRECEDENTE DA CORTE ESPECIAL. LEGALIDADE DO ACORDO. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE DISPOSITIVO LEGAL. SÚMULA 284/STF. VIOLAÇÃO À COISA JULGADA. NÃO OCORRÊNCIA. FUNDAMENTOS NÃO ATACADOS.
+SÚMULA 283/STF. AGRAVO INTERNO DESPROVIDO.
+(AgInt no REsp n. 1.601.698/MG, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 21/9/2017, DJe de 29/9/2017.)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO MERO PEDIDO DE RECONSIDERAÇÃO. IMPOSSIBILIDADE. PRECEDENTE DA CORTE ESPECIAL. VIOLAÇÃO AO ART. 538 DO CPC. EMBARGOS ACOLHIDOS.
+1. Os embargos de declaração são cabíveis quando houver, na decisão ou no acórdão, obscuridade, contradição ou omissão (CPC, art. 535).
+2. A Corte Especial, no julgamento do REsp 1.522.347/ES, sob a relatoria do Ministro Raul Araújo, pacificou o entendimento de que "1. Configura violação ao art. 538 do CPC o recebimento de embargos de declaração como mero "pedido de reconsideração", ainda que contenham nítido pedido de efeitos infringentes. 2. Tal descabida mutação: a) não atende a nenhuma previsão legal, tampouco aos requisitos de aplicação do princípio da fungibilidade recursal; b) traz surpresa e insegurança jurídica ao jurisdicionado, pois, apesar de interposto tempestivamente o recurso cabível, ficará à mercê da subjetividade do magistrado; c) acarreta ao embargante grave sanção sem respaldo legal, qual seja a não interrupção de prazo para posteriores recursos, aniquilando o direito da parte embargante, o que supera a penalidade objetiva positivada no art. 538, parágrafo único, do CPC".
+3. Embargos de declaração acolhidos, reconhecendo-se violação ao art. 538 do CPC.
+(EDcl no AgRg no AREsp n. 168.637/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 1/12/2015, DJe de 16/12/2015.)
+Dessa forma, verifica-se que a decisão do Tribunal de origem está em desacordo com a jurisprudência desta Corte, incidindo o enunciado da Súmula 568/STJ, in verbis: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema."
+Nesse contexto, a oposição do segundo embargos de declaração, no caso, ainda que com a pretensão de novo julgamento do mérito, interrompeu o prazo para a interposição do agravo interno.
+Ante o exposto, com fulcro no art. 932, V, do CPC/2015 c/c o art. 253, parágrafo único, II, c, do RISTJ, conheço do agravo para dar provimento ao recurso especial, nos termos da fundamentação, e determino o retorno dos autos ao Tribunal de origem para prosseguir no julgamento do feito.
+Publica-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO DA DECISÃO AGRAVADA. EMBARGOS DE DECLARAÇÃO RECEBIDOS NA ORIGEM COMO MERO PEDIDO DE RECONSIDERAÇÃO. IMPOSSIBILIDADE. DECISÃO DO TRIBUNAL DE ORIGEM EM DESCONFORMIDADE COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 568/STJ. SEGUNDO EMBA RGOS DE DECLARAÇÃO. PRAZO RECURSAL DO AGRAVO INTERNO INTERROMPIDO. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL .
