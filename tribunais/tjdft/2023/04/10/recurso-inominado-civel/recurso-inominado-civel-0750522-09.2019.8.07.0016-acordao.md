@@ -1,0 +1,52 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+Terceira Turma Recursal DOS JUIZADOS ESPECIAIS DO DISTRITO FEDERAL
+Processo N.RECURSO INOMINADO CÍVEL 0750522-09.2019.8.07.0016RECORRENTE(S)DISTRITO FEDERALRECORRIDO(S)JESSICA FERREIRA BARBOSARelatorJuiz CARLOS ALBERTO MARTINS FILHO Acórdão Nº1686171
+
+EMENTA
+
+JUIZADOS ESPECIAIS DA FAZENDA PÚBLICA. ADMINISTRATIVO. RESTITUIÇÃO AO ERÁRIO. ACERTO REMUNERATÓRIO DE EXONERAÇÃO. INAPLICABILIDADE DO TEMA 1009 DO STJ. OBSERVÂNCIA DA MODULAÇÃO DOS EFEITOS. AUSÊNCIA DE PROVA DA MÁ-FÉ. INVIABILIDADE DA DEVOLUÇÃO DOS VALORES PERCEBIDOS.  RECURSO CONHECIDO E IMPROVIDO.
+
+1. Recurso interposto pelo Distrito Federal contra a sentença que confirmou a tutela antecipada e julgou procedente o pedido inicial para declarar a inexistência do débito da autora relativa valores recebidos a título de acerto exoneratório, a que se refere à comunicação de devolução de valores ao Erário de 25 de junho de 2019; condenar o Distrito Federal na obrigação de não efetuar qualquer desconto no contracheque da autora referente a verba em contexto; bem como à obrigação de restituir eventuais valores já descontados a tal título.
+
+2. A controvérsia recursal incide sobre a legalidade do ato administrativo que determinou a restituição ao erário dos valores indevidamente recebidos pela servidora pública (parte autora).
+
+3. O exercício do poder-dever de autotutela - por meio do qual cabe à Administração Pública anular os atos administrativos ilegais e revogar os inconvenientes e inoportunos - possui limitações, submetendo-se aos princípios do devido processo legal e da legítima confiança.
+
+4. Conforme a modulação de efeitos do julgamento do Tema 1009 dos Recursos Repetitivos do Superior Tribunal de Justiça, referente a erro administrativo operacional ou de cálculo, a tese fixada somente deve atingir os processos que tenham sido distribuídos, na primeira instância, a partir da publicação do Acórdão, ocorrida em 19/05/2021.
+
+5. No caso, a ação foi ajuizada em 09/10/2019, prevalecendo, portanto, o posicionamento jurisprudencial anterior à fixação da referida tese, no sentido de que, inexistente prova de má-fé, o servidor público tem a justa expectativa de que são legais os valores pagos pela Administração Pública, sendo inviável a restituição.
+
+6. Em relação aos pagamentos indevidos efetuados no período de dezembro de 2018 a março de 2019, segundo os documentos comprobatórios apresentados aos autos, em razão de comunicação formal da servidora pública autora, o réu encontrava-se ciente da exoneração.
+
+7. Observa-se que a parte autora recebeu indevidamente os valores em evidência por erro operacional da Administração Pública, não tendo concorrido para a ocorrência do erro objeto da notificação administrativa de 25 de junho de 2019.
+
+8. Destarte, ante a ausência de demonstração de má-fé no recebimento do pagamento indevido, mostra-se ilegítimo o desconto e a cobrança das verbas em contexto, ainda que indevidas.
+
+9. Recurso conhecido e improvido.
+
+10. Sem condenação ao pagamento de custas, haja vista a isenção prevista no Decreto-lei 500/1969. Condenado o recorrente vencido ao pagamento de honorários advocatícios fixados em 10% do valor da causa, tendo em vista a natureza da demanda e o proveito econômico obtido (Art. 55 da Lei 9.099/1995).
+
+11. A súmula de julgamento servirá de acórdão, conforme regra dos Arts. 2º e 46 da Lei 9099/95.
+
+ACÓRDÃO
+
+Acordam os Senhores Juízes da Terceira Turma Recursal dos Juizados Especiais do Distrito Federal do Tribunal de Justiça do Distrito Federal e dos Territórios, CARLOS ALBERTO MARTINS FILHO - Relator, EDI MARIA COUTINHO BIZZI - 1º Vogal e DANIEL FELIPE MACHADO - 2º Vogal, sob a Presidência da Senhora Juiza EDI MARIA COUTINHO BIZZI, em proferir a seguinte decisão: CONHECIDO. DESPROVIDO. UNÂNIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 14 de Abril de 2023
+
+Juiz CARLOS ALBERTO MARTINS FILHORelator
+
+RELATÓRIO
+
+Dispensado o relatório. A ementa servirá de acórdão, conforme inteligência dos arts. 2º e 46 da Lei n. 9.099/95.
+
+VOTOS
+
+O Senhor Juiz CARLOS ALBERTO MARTINS FILHO - RelatorDispensado o voto. A ementa servirá de acórdão, conforme inteligência dos arts. 2º e 46 da Lei n. 9.099/95.
+A Senhora Juíza EDI MARIA COUTINHO BIZZI - 1º Vogal Com o relatorO Senhor Juiz DANIEL FELIPE MACHADO - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECIDO. DESPROVIDO. UNÂNIME.
