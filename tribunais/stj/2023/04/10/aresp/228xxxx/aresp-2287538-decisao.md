@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto por RICARDO FERNANDES APRELINI e HÉRCULES GIULIANO DE MENEZES em adversidade à decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça Militar do Estado de Minas Gerais, nos termos da seguinte ementa (e-STJ, fl. 754):
+EMBARGOS INFRINGENTES E DE NULIDADE - ALTERAÇÃO DA DINÂMICA DOS FATOS E A RESPEITO DA REAÇÃO DAS VÍTIMAS À ABORDAGEM, APÓS CESSADA A TENTATIVA DE FUGA - CONFIGURAÇÃO DO CRIME DE FALSIDADE IDEOLÓGICA (ART. 312 DO CÓDIGO PENAL MILITAR) - ELEMENTOS EXTRAÍDOS DA CONJUGAÇÃO DAS PROVAS ORAIS E DO VÍDEO - CONDENAÇÃO - RECURSO PROVIDO.
+Interpostos embargos de declaração, foram eles rejeitados (e-STJ fl. 738).
+Nas razões do recurso especial (e-STJ fls. 858-898), fundado nas alíneas "a" e "c" do permissivo constitucional, alega a defesa violação do art. 312 do CPM. Pugna pela absolvição dos recorrentes, alegando que a absolvição da prática do delito de lesão corporal com base na excludente da ilicitude do estrito cumprimento do dever legal, ou seja, em virtude de uma "ação legítima", afasta a "potencialidade lesiva" do crime de falsidade ideológica, tendo em vista que os fatos foram praticados no mesmo contexto da abordagem policial.
+Apresentadas contrarrazões (e-STJ fls. 774-778), o Tribunal a quo não admitiu o recurso especial (e-STJ fls. 782-786), tendo sido interposto o presente agravo. O Ministério Público Federal, instado a se manifestar, opinou pelo não provimento do agravo (e-STJ fls. 846-852)
+É o relatório. Decido.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo.
+Os agravantes foram condenados pela prática do delito previsto no artigo 312 do Código Penal Militar (falsidade ideológica), a penas idênticas de 1 ano de reclusão, em regime aberto, com a concessão do sursis processual.
+Do acórdão recorrido, extrai-se (e-STJ fl. 676-707, grifei):
+ ..  Em análise do pleito dos embargos infringentes, no meu modesto entendimento, estes merecem ser providos, porquanto provada a realização típica do delito de falsidade ideológica.
+Nos autos da ação penal originária, a denúncia descreve os fatos relativos à imputação criminal, nos termos seguintes:
+ ..
+A referida denúncia se mostrou procedente quanto ao delito de falsidade ideológica. Veja-se que o REDS 2019-028184029-001 foi confeccionado pelo 2º Sgt PM Luiz Alberto de Jesus, com base, exclusivamente, nos dados e nas informações repassados pelos ora embargados, como esclareceu o 2º Sgt em sua oitiva judicial(Evento 104 - VÍDEO 2 - 13"54" - AJME).
+O referido militar registrou, inveridicamente, que os ofendidos, durante a tentativa de fuga, perderam o controle direcional da motocicleta em que estavam e caíram ao solo, bem como que os mesmos, ato contínuo, tentaram empreender fuga a pé.
+Contudo, no vídeo gravado por câmara de segurança no local em que os fatos descritos da denúncia se deram, acostado no Evento 4 - VÍDEO8 dos Autos n. 2001431-44.2019.9.13.0003, verifica-se que estes fatos, efetivamente, não ocorreram.
+Os civis, Hugo Lemos e Marcos Paulo Barreto de Souza, desceram da moto, veículo que foi ao solo após a chegada do militar.
+Considero nítido o fato de o garupeiro da motocicleta, Hugo Lemos, descer, retirar o capacete e o colocar no solo e, ato contínuo, elevar os braços.
+Já o condutor da motocicleta desce da motocicleta e já é abordado pelo policial militar que o joga ao solo.
+É certo que a dinâmica dos fatos e a reação das vítimas à abordagem, após cessada a tentativa de fuga, foi propositadamente alterada no Boletim de Ocorrência, o que atentou contra a credibilidade da Polícia Militar, considerando que os policiais militares possuem fé pública, e o teor desse documento deveria necessariamente retratar a verdade, conforme ressaltou a eminente procurador de justiça atuante nesta Corte castrense.
+Coaduno com as razões expressas pelo eminente desembargador Fernando Armando Ribeiro (Evento 20 - ACOR1, nos autos do Processo de n. 2000343-34.2020.9.13.0003, sobre a realização do tipo penal previsto no art. 312 do Código Penal Militar.
+ ..
+Com o devido respeito aos eminentes desembargadores que se posicionaram de forma diversa, entendo que deve prevalecer o voto vencido da lavra do eminente desembargador Fernando Armando Ribeiro, razão pela qual dou provimento aos embargos infringentes interpostos pela eminente procuradora de justiça para condenar os números 104.553-3, 3º Sargento PM Ricardo Fernandes Aprelini, e 138.052-6, Cabo PM Hércules Giuliano de Menezes, pela prática do delito de falsidade ideológica (art. 312 do Código Penal Militar), a uma pena de 1 (um) ano, a ser cumprida, inicialmente, no regime aberto, com direito ao sursis.
+Assim, o Tribunal a quo, em decisão devidamente motivada, entendeu que, do caderno instrutório, emergem elementos suficientemente idôneos de prova a enaltecer a tese de autoria delitiva imputada pelo parquet aos acusados, a corroborar, assim, a conclusão aposta na motivação do decreto condenatório, pelo delito do art. 312 do CPM.
+Rever os fundamentos utilizados pela Corte castrense, para decidir pela absolvição, por ausência de prova concreta da autoria delitiva, como requer a defesa, importaria o revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula 7/STJ.
+Prosseguindo, a conduta imputada aos recorrentes se coaduna com a figura típica descrita no art. 312 do Código Penal Militar, estando a autoria e a materialidade delitiva evidenciadas nos autos.
+Com efeito, não se pode olvidar que, concluindo as instâncias ordinárias, soberanas na análise das circunstâncias fáticas da causa, que haveria provas suficientes para a condenação dos réus, chegar a entendimento diverso, implicaria revolvimento do contexto fático-probatório, inviável em sede de recurso especial, a teor do enunciado n. 7 da Súmula do STJ.
+Sobre o tema, destaco do STJ:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIME MILITAR. LESÃO CORPORAL LEVE COMETIDA NO EXERCÍC IO DA FUNÇÃO. ART. 209 DO CPM. PLEITO DE ABSOLVIÇÃO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA 7, STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula 7, STJ.
+2. Agravo regimental não provido (AgRg no REsp n. 1.424.206/SC, Relator Ministro MOURA RIBEIRO, Quinta Turma, julgado em 6/5/2014, DJe de 13/5/2014, grifei).
+Ante o exposto, com fundamento no art. 932, VIII, do CPC, c/c art. 253, parágrafo único, inciso II, alínea "b", parte final, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
