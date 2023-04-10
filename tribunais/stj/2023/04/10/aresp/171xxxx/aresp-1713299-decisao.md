@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial, diante da absoluta impropriedade do recurso (e-STJ fls. 289/290).
+Os embargos de declaração foram rejeitados (e-STJ fl. 303).
+Em suas razões (e-STJ fls. 307/372), a parte agravante requer (e-STJ fls. 370/371):
+ ..  2. Anular o Acórdão proferido em sede de Declaratórios pela Terceira Vice - Presidência, diante da omissão persistente, por contrariar o disposto no art.
+1.022, do CPC, bem como por ausência de fundamentação, ex vi art. 489, §1º e seus incisos, do mesmo Diploma Legal, determinado a remessa dos autos ao Tribunal de origem, para que, novamente, aprecie os Embargos de Declaração, como entender de direito, sanando o vício alegado e assim exerça efetivo juízo de admissibilidade do Recurso Especial interposto pelo Jurisdicionado;
+3. Ou, sucessivamente, por se tratar de julgamento de única - e última - instância, proferido por Tribunal de Justiça em Ação Própria (Reclamação) e revela a existência de "causa decidida", que seja declarado de plano o perfeito cabimento do Recurso Especial, ou então, observando o Princípio da Eventualidade, que esta C. Corte Superior, aproveitando a matéria invocada, apresente pronunciamento sobre qual o meio de impugnação é o adequado para atacar Decisão assentada pelo Colegiado do Órgão Especial das Cortes de Justiça locais em Reclamação, sendo certo que, até então, permissa diferente do que fez a d. Julgadora na origem, o mais prudente é admitir de forma ampla a aplicação do Princípio da Fungibilidade, como deve ocorrer nestes autos caso Vossas Excelência entendam por outra via que não a eleita, não punindo os recorrentes (ou impetrantes, ou reclamantes) pelo erro cometido exclusivamente pelo Legislador Pátrio;
+Não houve apresentação de contraminuta (e-STJ fl. 415).
+É o relatório.
+Decido.
+É intempestivo o agravo.
+A intimação eletrônica da decisão agravada ocorreu em 28/11/2019 (quinta-feira) (e-STJ fl. 293). Por conseguinte, o prazo recursal de 15 (quinze) dias úteis iniciou-se em 29/11/2019 (sexta-feira), encerrando-se em 19/12/2019 (quinta-feira). Todavia, o presente recurso foi interposto somente no dia 22/12/2019 (e-STJ fl. 307).
+Ademais, é pacífico, na jurisprudência desta Corte Superior, que a oposição de embargos de declaração à decisão que inadmite o especial não suspende nem interrompe o prazo de interposição do agravo do art. 1.042 do CPC/2015, que é a única insurgência cabível contra o juízo de inadmissibilidade do especial. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. EMBARGOS DE DECLARAÇÃO. NÃO INTERRUPÇÃO DO PRAZO RECURSAL. PRAZO DE 15 DIAS ÚTEIS. INTEMPESTIVIDADE. AGRAVO INTERNO DESPROVIDO.
+1. A interposição de recurso manifestamente incabível não interrompe o prazo recursal. Assim, os embargos de declaração opostos a decisão que inadmite recurso especial não interrompem o prazo para a interposição do agravo em recurso especial, único recurso cabível na hipótese.
+2. É intempestivo o agravo em recurso especial protocolizado após o prazo de 15 dias úteis, de acordo com o art. 1.003, § 5º, c/c o art. 219, caput, do CPC de 2015.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.171.299/PR, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 12/12/2022, DJe de 16/12/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO. EMBARGOS DE DECLARAÇÃO CONTRA PRIMEIRO JUÍZO DE ADMISSIBILIDADE. DESCABIMENTO. NÃO INTERRUPÇÃO DO PRAZO PARA A INTERPOSIÇÃO DE RECURSO CABÍVEL. CPC DE 2015. AUSÊNCIA DE ALTERAÇÃO SUBSTANCIAL EM RELAÇÃO AO SISTEMA ANTERIOR. PRECEDENTES DO STJ E DO STF.
+1. A jurisprudência do Superior Tribunal de Justiça e do Supremo Tribunal Federal firmou-se no sentido de que o agravo é o único recurso cabível contra decisão que nega seguimento a recursos de natureza extraordinária, de modo que os embargos de declaração opostos contra decisão de admissibilidade do Tribunal de origem não interrompem o prazo para a interposição do agravo, uma vez que manifestamente incabíveis. Manutenção desse entendimento após a entrada em vigor do Código de Processo Civil de 2015.
+2. Hipótese dos autos em que, ademais, a decisão denegatória de trânsito do recurso especial está suficientemente fundamentada, não se demonstrando genérica a ponto de inviabilizar a impugnação ao seu conteúdo, de forma que inaplicável a ressalva a que alude o acórdão da Corte Especial nos EAREsp. 275.615/SP.
+3. Agravo interno a que se nega provimento.
+(AgInt no AgInt no REsp n. 1.737.166/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 15/3/2022, DJe de 22/3/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE ADMISSIBILIDADE. EMBARGOS DE DECLARAÇÃO. INTERRUPÇÃO DO PRAZO. NÃO OCORRÊNCIA. INTEMPESTIVIDADE DO AGRAVO. DECISÃO MANTIDA.
+1. "Os embargos de declaração, quando opostos contra decisão de inadmissibilidade do recurso especial na origem, não interrompem, em regra, o prazo para a interposição do agravo, único recurso cabível, salvo quando essa decisão for tão genérica que impossibilite ao recorrente aferir os motivos pelos quais teve seu recurso obstado, inviabilizando-o totalmente de interpor o agravo. Precedentes da Corte Especial" (AgInt nos EAREsp 166.402/PE, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/12/2016, DJe 07/02/2017.) 2. No caso, a decisão de admissibilidade foi clara ao negar seguimento ao recurso especial por deficiência no preparo. Portanto, os declaratórios não interromperam o prazo para o agravo em recurso especial.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 668.745/RJ, de minha relatoria, Quarta Turma, julgado em 30/11/2020, DJe de 9/12/2020.)
+Ante o exposto, NÃO CONHEÇO do agravo.
+Publique-se e intimem-se.
