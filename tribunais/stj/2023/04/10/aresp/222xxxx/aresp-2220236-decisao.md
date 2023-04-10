@@ -1,0 +1,45 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especial interposto por SERGIO MURILO SOUSA D OLIVEIRA e FATIMA CARVALHO D OLIVEIRA contra decisão do Tribunal de Justiça do Estado do Rio de Janeiro que não admitiu recurso especial manejado contra acórdão assim ementado:
+CIVIL. SISTEMA FINANCEIRO DE HABITAÇÃO. CEF. CONTRATO DE FINANCIAMENTOIMOBILIÁRIO. ARTIGO 3º DA LEI Nº 11.922/2009. RENEGOCIAÇÃO CONTRATUAL. ATO FACULTATIVO. APELO IMPROVIDO. HONORÁRIOS ADVOCATÍCIOS MAJORADOS.
+1. CUIDA-SE DE APELAÇÃO INTERPOSTA POR FATIMA CARVALHO D OLIVEIRA E SERGIO MURILO SOUSA D OLIVEIRA EM FACE DE SENTENÇA (EVENTO 126 - 1º GRAU), PROFERIDANOS AUTOS DESTA AÇÃO REVISIONAL, AJUIZADA CONTRA A CAIXA ECONÔMICA FEDERAL,QUE JULGOU EXTINTO O PROCESSO SEM RESOLUÇÃO DE MÉRITO, COM BASE NO ART.485, VI, DO CPC/2015, QUE OBJETIVA A REFORMA DA SENTENÇA, ALEGANDO QUE OSCONTRATOS DE FINANCIAMENTO HABITACIONAL DEVEM SER ALVO DE REVISÃO CONTRATUAL EM RAZÃO DE DESEQUILÍBRIO FINANCEIRO DO MUTUÁRIO, NA FORMA DA LEI Nº 11.922/09.
+2. A QUESTÃO CONTROVERTIDA CINGE-SE EM VERIFICAR SE OS AUTORES FAZEM JUS ÀRENEGOCIAÇÃO DO SEU CONTRATO DE MÚTUO HABITACIONAL COM FULCRO NA LEI Nº11.922/2009.
+3. EM VIRTUDE DA INTERPRETAÇÃO LITERAL DO ART. 3º DA LEI 11.922/09, VERIFICA-SEQUE, APESAR DA NORMA CITADA TER POSSIBILITADO A RENEGOCIAÇÃO DAS DÍVIDAS DEFINANCIAMENTOS HABITACIONAIS, TAL BENESSE CONSISTE EM MERA FACULDADECONCEDIDA ÀS PARTES DO CONTRATO, SENDO QUE O ART. 3º, CAPUT, DA LEI MENCIONADA ADUZ QUE OS CONTRATOS "PODERÃO SER RENEGOCIADOS, DE COMUMACORDO ENTRE AS PARTES CONTRATANTES". ASSIM, NÃO EXISTE DEVER LEGAL DE ACAIXA ECONÔMICA FEDERAL REALIZAR A REPACTUAÇÃO DA AVENÇA, APRESENTANDOPROPOSTA RENEGOCIAÇÃO PARA O FINANCIAMENTO HABITACIONAL, COMO PRETENDEOS APELANTES. LOGO, CONSTATA-SE QUE NÃO HOUVE VIOLAÇÃO AOS ARTS. 5º E 6º DALEI Nº 11.922/09.
+4. ALÉM DO MAIS, O PRAZO DETERMINADO NO ART. 3º, I E II, DA LEI Nº 11.922/2009 PARA ARENEGOCIAÇÃO DO CONTRATO DE FINANCIAMENTO HABITACIONAL SEM FCVS JÁTRANSCORREU, PORQUANTO LAPSO TEMPORAL PARA A AVENÇA ERA DE 12 (DOZE)MESES A CONTAR DA VIGÊNCIA DA CITADA LEI (14 DE ABRIL DE 2009), SENDO QUE APRESENTE AÇÃO FOI PROPOSTA SOMENTE EM 23 DE MAIO DE 2019, O QUE OBSTA OPLEITO RECURSAL.
+5. DESTARTE, DEVE-SE PRESTIGIAR O PRINCÍPIO DO PACTA SUNT SERVANDA, DE TALARTE QUE O ACORDO DE VONTADE, QUE OBRIGA AS PARTES EM DIREITOS E OBRIGAÇÕESRECÍPROCAS, DEVE SER RESPEITADO E CUMPRIDO, SENDO POSSÍVEL A RENEGOCIAÇÃO QUANDO OCORRER ANUÊNCIA DE TODOS OS CONTRATANTES, ALGO NÃO VERIFICADO NAHIPÓTESE EM COMENTO.
+6. PORTANTO, NÃO COMPETE AO PODER JUDICIÁRIO SE IMISCUIR NA ESFERA ADMINISTRATIVA DA INSTITUIÇÃO FINANCEIRA COM O FITO DE LHE DETERMINAR ARENEGOCIAÇÃO CONTRATUAL COM PARTICULARES, SOB PENA DE AFRONTAR AAUTONOMIA DA VONTADE.
+7. APELAÇÃO IMPROVIDA, MAJORANDO-SE OS HONORÁRIOS ADVOCATÍCIOS INICIALMENTE ARBITRADOS EM 10% (DEZ POR CENTO) PARA 11% (ONZE POR CENTO) DO VALOR ATRIBUÍDO À CAUSA, ATUALIZADO, OBSERVADA A CONCESSÃO DE GRATUIDADE DE
+Nas razões do recurso especial, a parte recorrente alega ofensa aos arts. 3º, II, e 4º da Lei n. 11.922/09, sustentando, em síntese, o equívoco do entendimento contido no acórdão recorrido, uma vez que o prazo estabelecido no art. 3º da referida Lei somente se iniciaria a partir do momento em que o mutuário houvesse sido convocado para a renegociação (e-STJ, fl. 346).
+O recurso foi inadmitido na origem, advindo, daí, o presente agravo.
+É o relatório.
+Passo a decidir.
+A irresignação não merece acolhida.
+A parte recorrente, em sede de recurso especial, alega ofensa aos arts. 3º, II, e 4º da Lei n. 11.922/09.
+O acórdão recorrido, por sua vez, assim assentou quanto à matéria arguida (e-STJ fls. 324-325):
+Percebe-se que a Lei nº 11.922/09 prevê a possibilidade de renegociação da dívida para contrato de financiamento habitacional formalizado até o dia 05 de setembro de 2001, nos negócios que não possuam a cobertura do Fundo de Compensação de Variações Salariais - FCVS - ou para aqueles que perderam tal cobertura, conforme o art. 3º da norma retrocitada.
+Em virtude da interpretação literal do art. 3º da Lei 11.922/09, verifica-se que, apesar da norma citada ter possibilitado a renegociação das dívidas de financiamentos habitacionais, tal benesse consiste em mera faculdade concedida às partes do contrato, sendo que o art. 3º, caput, da Lei mencionada aduz que os contratos "poderão ser renegociados, de comum acordo entre as partes contratantes". Assim, não existe dever legal de a Caixa Econômica Federal realizar a repactuação da avença, apresentando proposta renegociação para o financiamento habitacional, como pretendem os apelantes. Logo, constata-se que não houve violação aos arts. 5º e 6º da Lei nº 11.922/09.
+(..)
+Além do mais, o prazo determinado no art. 3º, I e II, da Lei nº 11.922/2009 para a renegociação do contrato de financiamento habitacional sem FCVS já transcorreu, porquanto lapso temporal para a avença era de 12 (doze) meses a contar da vigência da citada lei (14 de abril de 2009), sendo que a presente ação foi proposta somente em 23 de maio de 2019, o que obsta o pleito recursal.
+Destarte, deve-se prestigiar o princípio do pacta sunt servanda, de modo que o acordo de vontade, que obriga as partes em direitos e obrigações recíprocas, deve ser respeitado e cumprido, sendo possível a renegociação quando ocorrer anuência de todos os contratantes, algo não verificado na hipótese em comento.
+Portanto, não compete ao Poder Judiciário se imiscuir na esfera administrativa da instituição financeira com o fito de lhe determinar a renegociação contratual com particulares, sob pena de afrontar a autonomia da vontade.
+Desse modo, não tendo apresentado o recorrente nenhum argumento que enseje a reforma da sentença, esta deve ser mantida em sua integralidade.
+Desse modo, elidir as conclusões do aresto impugnado, demandaria o revolvimento do conjunto fático-probatório dos autos, o que é vedado nesta sede especial a teor da Súmula 07/STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. BANCÁRIO. CÉDULA DE CRÉDITO RURAL. DÍVIDA. RENEGOCIAÇÃO. REQUISITOS. PREENCHIMENTO. REVISÃO. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Na hipótese, rever o entendimento do tribunal local, que concluiu pela validade do contrato e pelo não preenchimento dos requisitos para a prorrogação da dívida, demandaria a interpretação de cláusulas contratuais e o reexame de provas, atraindo a incidência das Súmulas nºs 5 e 7/STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.883.014/TO, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 14/2/2022, DJe de 22/2/2022.)
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. COMPROVAÇÃO DA TEMPESTIVIDADE DO RECURSO ESPECIAL EM AGRAVO REGIMENTAL. SUSPENSÃO DO EXPEDIENTE FORENSE. AÇÃO MONITÓRIA. CÉDULA RURAL PIGNORATICIA. SÚMULA 284/STF. APLICAÇÃO DA LEI 10.696/03. SÚMULA 7/STJ.
+1. A comprovação da tempestividade do recurso especial em decorrência de suspensão de expediente forense no Tribunal de origem pode ser feita posteriormente, em agravo regimental, desde que por meio de documento idôneo capaz de evidenciar a prorrogação do prazo do recurso cujo conhecimento pelo STJ é pretendido.
+2. A normatividade do art. 11 do Decreto-Lei 167/67 encontra-se desassociada da faticidade verificada no processo em comento para sua aplicabilidade, e, por conseguinte, do conteúdo decisório do acórdão. No caso, evidencia-se de forma indubitável que a alegação traçada no recurso especial encontra-se desassociada do fundamento do acórdão recorrido, o que configura deficiência insanável em sua fundamentação e atrai a inteligência da Súmula 284/STF.
+3. A revisão do entendimento do Tribunal de origem, no sentido de que a lei não determinou a automática securitização da dívida, devendo o devedor preencher os requisitos legais, efetuando requerimento neste sentido, mas que, no caso não houve pedido de renegociação, demanda o reexame dos fatos e provas constantes dos autos, o que é vedado no âmbito do recurso especial, nos termos da Súmula n. 7 do STJ.
+4. Agravo regimental não provido.
+(AgRg no AREsp n. 693.720/MG, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 10/3/2016, DJe de 21/3/2016.)
+Destarte, inviável a pretensão recursal.
+Por fim, considerando o disposto no art. 85, § 11, do CPC/2015 e que o Tribunal de origem fixou a verba honorária em 11% sobre o valor da causa (e-STJ fls. 326), em benefício do patrono da parte recorrida, a majoração dos honorários devidos pela parte ora recorrente para 12 % sobre o valor da causa é medida adequada ao caso, observada a eventual anterior concessão da gratuidade judiciária.
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/2015). SUPOSTA OFENSA AOS ARTS. 3º, II, E 4º DA LEI N. 11.922/09 REVISÃO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 07/STJ.
+AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
