@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de JONATHAN MICAEL MARTINS RIOS e KEVIN LUCAS MARTINS MOREIRA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal 1500532-51.2021.8.26.0619/50000).
+O paciente Jonathan foi condenado às penas de: "07 anos de reclusão e ao pagamento de 700 dias-multa, no piso, por infração ao artigo 33, caput, da Lei 11.343/06; 03 anos e 06 meses de reclusão e 816 dias-multa, no piso, por infração ao artigo 35, da Lei 11.343/06; 02 anos e 04 meses de reclusão, por infração ao artigo 14, caput da Lei 10.826/06; 02 meses e 10 dias de detenção, por infração ao artigo 329 do Código Penal, todos na forma do artigo 69, do Código Penal" (e-STJ fl. 38).
+O paciente Renan, por sua vez, foi condenado às penas de: "07 anos de reclusão e ao pagamento de 700 dias-multa, no piso, por infração ao artigo 33, caput, da Lei 11.343/06; 03 anos e 06 meses de reclusão e ao pagamento de 816 dias-multa, no piso, por infração ao artigo 35, da Lei 11.343/06; 02 meses e 10 dias de detenção, por infração ao artigo 329 do Código P enal; e 02 anos e 04 meses de reclusão e ao pagamento de 11 dias-multa, no piso, por infração ao artigo 333, do Código Penal, todos na forma do artigo 69, do Código Penal" (e-STJ fl. 38).
+O Tribunal a quo deu "parcial provimento provimento aos recursos defensivos apenas para, quanto ao crime previsto no art. 329, do Cód. Penal, fixar o regime prisional semiaberto" (e-STJ fl. 40).
+A impetrante sustenta ofensa ao art. 35 da Lei 11.343/2006, porquanto "não restou comprovado nos autos o vínculo associativo, de maneira estável e permanente" (e-STJ fl. 8) entre os agentes.
+Requer, liminar e definitivamente, deferimento da ordem para que sejam os pacientes absolvidos, "nos termos do art. 386, II, do Código de Processo Penal" (e-STJ fl. 14), do imputado crime de associação para o tráfico de entorpecentes.
+É o relatório.
+O Superior Tribunal de Justiça firmou entendimento de não se admitir o emprego de habeas corpus destinado a absolvição a readequação típica da conduta denunciada, porquanto tais providências demandariam incabível revolvimento de questões fático-probatórias aferidas perante as instâncias locais:
+habeas corpus não é o meio juridicamente adequado para veicular demandas relacionadas a absolvição ou readequação típica, tendo em vista a necessidade de reingresso na seara fático-probatória para reverter as conclusões das instâncias antecedentes a respeito da responsabilidade criminal do paciente (AgRg no HC 787.367/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 6/12/2022, DJe de 14/12/2022).
+No mesmo sentido, v.g.:
+(..)
+2. Como é de conhecimento, a tese de insuficiência probatória, a ensejar a pretendida absolvição, não pode ser analisada pela via mandamental, pois depende de amplo exame do conjunto probatória, providência incompatível com os estreitos limites cognitivos do habeas corpus, cujo escopo se restringe à apreciação de elementos pré-constituídos não sendo esta a via processual adequada para decisões que dependam de dilação probatória.
+3. Na hipótese, verifica-se que a Corte local, soberana na análise dos fatos e provas, afastou, em sede de Revisão Criminal, o pedido de absolvição por insuficiência probatória e manteve a condenação do paciente pela prática dos crimes tipificados no artigo 33, caput, da Lei n. 11.343/2006, e no artigo 12, caput, da Lei n. 10.826/2003, destacando que foram produzidos elementos de prova suficientes à sustentação da tese acusatória, não havendo que se falar em manifesta ausência de provas, como faz crer a defesa.
+4. Ressalta-se, ademais, que vigora no processo penal brasileiro o princípio do livre convencimento motivado, em que o julgador, desde que de forma fundamentada (assim como no caso), pode decidir pela condenação, não se admitindo no âmbito do habeas corpus a reanálise dos motivos pelos quais a instância ordinária formou convicção pela prolação de decisão repressiva em desfavor do acusado, notadamente no bojo de condenação já transitada em julgado e mantida em sede de revisão criminal.
+5. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 802.688/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 28/2/2023, DJe de 6/3/2023.)
+(..)
+2. O habeas corpus não se presta para apreciação de alegações que buscam a absolvição do paciente, em virtude da necessidade de revolvimento do conjunto fático-probatório, o que é inviável na via eleita.
+(..)
+7. Writ não conhecido.
+(HC n. 738.632/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 7/6/2022, DJe de 14/6/2022.)
+Ante o exposto, com fundamento no art. 210 do Regimento Interno deste Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
