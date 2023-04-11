@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto por MARIA ALICE DE LIMA FRACASSI, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça assim ementado (fl. 363):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RAZÕES QUE NÃO IMPUGNAM, ESPECIFICAMENTE, O FUNDAMENTO DA DECISÃO RECORRIDA. SÚMULA 182/STJ E ART. 1.021, § 1º, DO CPC/2015. AGRAVO INTERNO NÃO CONHECIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+II. A decisão ora agravada não conheceu do recurso, em razão da incidência da Súmula 187 do STJ.
+III. O Agravo interno, porém, não impugna, específica e motivadamente, o fundamento da decisão agravada, pelo que constituem óbices ao conhecimento do inconformismo a Súmula 182 desta Corte e o art. 1.021, § 1º, do CPC/2015. Nesse sentido: STJ, AgInt nos EDcl no AREsp 1.712.233/RJ, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 01/03/2021;AgInt no AREsp 1.745.481/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 01/03/2021;AgInt no AREsp 1.473.294/RN, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 22/06/2020;AgInt no AREsp 1.077.966/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 17/10/2017;AgRg no AREsp 830.965/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe de 13/05/2016.
+IV. Agravo interno não conhecido.
+Os embargos de declaração foram rejeitados (fls. 411-429).
+A parte recorrente alega a violação do art. 5º, LIV, da CF e aduz haver repercussão geral da matéria tratada.
+Sustenta que (fl. 452):
+ ..  inobstante a dispensa de que sejam impugnados todos os fundamentos da decisão recorrida em Agravo, as recorrentes trataram impugnar de forma específica, o(s) fundamento(s) da r. monocrática que pretendia guerrear, qual(ais) seja(m), a suposta insuficiência de preparo recursal de seu Recurso Especial, inclusive discorrendo essa impugnação em capítulo próprio e específico de sua peça recursal.
+Requer, ao final, a admissão do recurso e a remessa ao Supremo Tribunal Federal.
+As contrarrazões foram apresentadas às fls. 467-473.
+É o relatório.
+Da análise dos autos, observa-se que o pronunciamento recorrido limitou-se à verificação da ausência do preenchimento dos pressupostos de admissibilidade do recurso cuja competência é do Superior Tribunal de Justiça, constando da referida conclusão que não houve impugnação dos fundamentos de inadmissibilidade do recurso especial, incidindo o óbice do enunciado 182 da Súmula do STJ.
+Portanto, a questão de mérito não chegou a ser apreciada no julgamento efetivado pelo Superior Tribunal de Justiça, uma vez que a existência de óbice s processuais impediu o próprio conhecimento da insurgência.
+Exatamente para casos como o presente, o Supremo Tribunal Federal sedimentou o entendimento segundo o qual a discussão relativa ao preenchimento dos pressupostos de admissibilidade de recursos da competência de outros tribunais impede a abertura da via extraordinária, pois as ofensas à Constituição Federal, se existentes, ocorreriam de modo indireto ou reflexo.
+Como se vê, ainda que o recurso extraordinário suscite violações da Constituição Federal sobre o mérito da causa, para se chegar à análise da matéria de fundo, seria necessário discutir e superar os óbices processuais, hipótese rejeitada pelo STF, que, no julgamento do Recurso Extraordinário n. 598.365-RG/MG, sob a sistemática da repercussão geral, assentou que "a questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral" (Tema n. 181/STF).
+Eis a ementa adotada pelo STF no recurso paradigma, por meio do qual foi definida a tese acima transcrita:
+PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL.
+A questão alusiva ao cabimento de recursos da competência de outros Tribunais se restringe ao âmbito infraconstitucional. Precedentes. Não havendo, em rigor, questão constitucional a ser apreciada por esta nossa Corte, falta ao caso "elemento de configuração da própria repercussão geral", conforme salientou a ministra Ellen Gracie, no julgamento da Repercussão Geral no RE 584.608.
+(RE n. 598.365-RG, relator Ministro Ayres Britto, Tribunal Pleno, julgado em 14/8/2009, DJe de 26/3/2010.)
+Desse modo, resulta inviável a análise da violação constitucional alegada no recurso extraordinário, justamente porque o acórdão recorrido não apreciou o mérito do recurso apresentado ao STJ, o que faz, precisamente, incidir o invocado Tema n. 181/STF.
+Vale salientar ser pacífica a jurisprudência do STF no sentido de que "carece de repercussão geral a discussão acerca dos pressupostos de admissibilidade de recursos da competência de cortes diversas" (ARE n. 1.227.415-AgR, relator Ministro Edson Fachin, Segunda Turma, julgado em 17/5/2021, DJe de 21/5/2021).
+Idêntico é o entendimento consolidado do STJ, que, ao apreciar agravo interno interposto contra decisão que negou seguimento a recurso extraordinário, caso em tudo semelhante ao presente, assim concluiu: "Tratando-se de recurso extraordinário contra acórdão que não ultrapassou o juízo de admissibilidade, fica inviabilizado o exame das questões constitucionais suscitadas em face da inexistência de repercussão geral." (AgInt no RE nos EDcl no AgInt no AREsp n. 1.342.377/SP, relatora Ministra Maria Thereza de Assis Moura, DJe de 13/9/2019.)
+Assim, afastada a repercussão geral, consoante a tese fixada no Tema n. 181/STF, de observância cogente (CPC, art. 927, III, parte final), inviável a própria apreciação do mérito recursal.
+Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. AUSÊNCIA DE REQUISITOS DE ADMISSIBILIDADE DO RECURSO DIRIGIDO AO SUPERIOR TRIBUNAL DE JUSTIÇA. AUSÊNCIA DE REPERCUSSÃO GERAL. TEMA N. 181/STF. NEGATIVA DE SEGUIMENTO.
+1. Os aspectos relativos aos pressupostos de admissibilidade de recursos da competência dos tribunais infraconstitucionais impedem o seguimento do recurso extraordinário, pois as ofensas à Constituição Federal, se existentes, ocorreriam de modo indireto ou reflexo.
+2. Tal conclusão é adotada quando o Superior Tribunal de Justiça não conhece de recurso de sua competência, ainda que o recurso extraordinário suscite discussão de mérito.
+3. Questão sobre a qual o Supremo Tribunal Federal firmou a ausência de repercussão geral, dada a natureza infraconstitucional do debate, nos termos do Tema n. 181/STF. Precedentes do STF e do STJ.
+4. Recurso extraordinário a que se nega seguimento, nos termos do art. 1.030, I, a, do CPC.
