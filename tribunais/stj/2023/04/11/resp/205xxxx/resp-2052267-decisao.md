@@ -1,0 +1,67 @@
+DECISÃO
+Trata-se de recurso especial interposto por CIDÂNGELO LEMOS GALVÃO PENNA, com fundamento no art. 105, inciso III, alínea a, da CF/1988, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS assim ementado:
+EMBARGOS DE DECLARAÇÃO - OMISSÃO - EXISTÊNCIA - VÍCIO SANADO - RECURSO ACOLHIDO SEM ATRIBUIÇÃO DE EFEITO MODIFICATIVO. 1. Os embargos de declaração têm o objetivo de introduzir o estritamente necessário para eliminar a obscuridade ou contradição ou suprir a omissão existente no julgado. 2. Constatada omissão no julgado, devem ser acolhidos os embargos, com o intuito de sanar o vício, todavia sem atribuir-lhes efeito modificativo (fl. 577).
+Os embargos de declaração opostos foram rejeitados com aplicação de multa (fls. 589/596).
+Nas razões recursais, a parte recorrente aponta violação dos arts. 1.022, II, c/c 489, § 1º, IV, e 1.026, do CPC/2015; 44, § 1º, da Lei 8.666/1991; 22 da Lei 9.784/1995 e 1º da Lei 12.016/2009. Sustenta, em síntese, os seguintes pontos: a) negativa de prestação jurisdicional; b) nulidade da cláusula de barreira prevista no certame por ausência de critério expresso/objetivo para a inscrição definitiva; c) necessidade de afastamento da multa protelatória, uma vez que os embargos de declaração foram opostos para fins de prequestionamento.
+Devidamente intimada, a parte recorrida apresentou as contrarrazões (fls. 625/634).
+É o relatório.
+A irresignação merece prosperar em parte.
+Inicialmente, é importante ressaltar que o presente recurso atrai a incidência do Enunciado Administrativo 3 do STJ, segundo o qual "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Inexiste a alegada violação dos arts. 489 e 1.022 do CPC/2015, pois a prestação jurisdicional foi dada na medida da pretensão deduzida conforme se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de nenhum erro, omissão, contradição ou obscuridade. Observe-se, ademais, que julgamento diverso do pretendido, como na espécie, não implica ofensa aos dispositivos de lei invocados.
+Nos  exatos  termos  do  acórdão  recorrido,  o  Tribunal  de  origem  assim  se  manifestou  sobre  o cerne da  insurgência:
+No caso, de fato, houve omissão em relação à Resolução nº . 245/2010.
+Antes de adentrar ao cerne da omissão, imperioso registrar que o embargante, Cidângelo Lemos Galvão Penna, participou do Concurso Público da Defensorja Pública do Estado de Minas Gerais, Edital n.001/2008, tendo sido aprovado nas provas de múltipla escolha e discursiva.
+Posteriormente, a Defensoria Pública do Estado de Minas Gerais divulgou, em 05 de fevereiro de 2010, a relação de candidatos classificados para a inscrição definitiva, na qual não constava o nome do ora recorrente.
+Diante disso, Cidângelo Lemos Galvão Penna impetrou Mandado de Segurança e, em sede de Agravo de Instrumento, perante esta 2a Câmara Cível, alcançou o deferimento da antecipação dos efeitos da tutela recursal para requerer a inscrição definitiva no concurso, bem como a sua participação na prova oral.
+Ocorre que, em agosto de 2010, antes do deferimento de inscrição definitiva e convocação para a prova oral, houve o julgamento do Agravo de Instrumento nº. 1.0024.10.034473-8/001, conforme acórdão constante às f.251/257, nos seguintes termos: "Isso posto, NEGO PROVIMENTO AO RECURSO e torno sem efeito a decisão de f. 89/90-TJ."
+Vê-se que a decisão precária que antecipou os efeitos da tutela, foi tornada sem efeito, retirando a determinação judicial que autorizava a participação do candidato na prova oral.
+Ato contínuo, em 09 de setembro de 2010, a Defensoria Pública do Estado de Minas Gerais publicou a Resolução nº. 245/2010, dispondo em seu artigo 3º:
+"Foram prejudicados os requerimentos de inscrição definitiva relativos aos candidatos amparados por medida judicial inscritos sob os números 1985, 2096, 7329 e 10607, cujas decisões decaíram."
+Portanto, correta a conduta da Defensoria Pública, eis que ao publicar a Resolução nº. 245/2010 observou a determinação judicial que tornou sem efeito a decisão de determinação da inscrição definitiva e convocação para a prova oral.
+Em que pese o inconformismo do embargante decorrente de não ter sido inserido na lista de inscrição definitiva, não há que se falar em ilegalidade no ato da embargada.
+Parece-me que houve equívoco relacionado à alegação da Defensoria Pública do Estado de Minas Gerais sobre o não comparecimento do candidato à prova oral.
+O que realmente aconteceu foi a prejudicialidade do requerimento de inscrição definitiva e ausência de convocação para a prova oral, em decorrência de a decisão ter decaído.
+Destarte, aludida Resolução não foi prejudicial e em nada altera a situação de desclassificação do embargante (fls. 578/580).
+Observa-se que o acórdão recorrido concluiu que a parte recorrente não pôde participar da fase oral do certame tendo em vista a decisão judicial que o autorizava ter decaído, não havendo que se falar em qualquer ilegalidade do ato da recorrida. Todavia, a parte recorrente não impugna tal fundamento. Apenas insiste na tese de nulidade da cláusula de barreira prevista no certame por ausência de critério expresso/objetivo para a inscrição definitiva.
+O Superior Tribunal de Justiça já se manifestou no sentido de ser inadmissível o recurso especial que apresente razões dissociadas do quadro fático e das premissas jurídicas expostas no acórdão recorrido. É esse o caso dos autos. Na hipótese, incide, por analogia, o enunciado sumular 284/STF, estabelecendo que: "é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia". A propósito, cito os seguintes julgados desta Corte Superior, naquilo que interessa:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL (..). RAZÕES RECURSAIS DISSOCIADAS DO JULGADO. SÚMULA 284/STF.
+(..)
+3. É inadmissível o recurso especial que apresenta razões dissociadas do quadro fático e das premissas jurídicas expostos no acórdão recorrido. Incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.").
+(..)
+7. Agravo interno conhecido parcialmente para, na parte conhecida, negar-se-lhe provimento.
+(AgInt nos EDcl no AREsp n. 1.700.429/RJ, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 26/4/2021, DJe de 29/4/2021 - sem destaques no original.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. CONVÊNIO. MODERNIZAÇÃO DA GUARDA MUNICIPAL. EXECUÇÃO. NÃO COMPROVAÇÃO. RESSARCIMENTO. MUNICÍPIO. INTIMAÇÃO ELETRÔNICA DA SENTENÇA. DEFICIÊNCIA NA FUNDAMENTAÇÃO. RAZÕES DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO. APLICAÇÃO DA SÚMULA N. 284 DO STF.
+(..)
+III - A jurisprudência do Superior Tribunal de Justiça, é firme no sentido de que se o recorrente apresenta razões dissociadas dos fundamentos adotados pelo acórdão recorrido, o recurso especial é deficiente na sua fundamentação, o que atrai a aplicação por analogia da Súmula n. 284 do STF.
+(..)
+VIII - Agravo interno improvido.
+(AgInt no REsp n. 1.806.873/PE, relator Ministro Francisco Falcão, Segunda Turma, julgado em 23/11/2020, DJe de 25/11/2020 - sem destaques no original.)
+Ademais, a análise da questão trazida pela parte recorrente demanda o estudo das regras previstas no edital do concurso, providência vedada em recurso especial, ante o óbice contido na Súmula 5 do STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. EDITAL DO CERTAME. ANÁLISE. REEXAME DE PROVAS. IMPOSSIBILIDADE. LEGISLAÇÃO LOCAL. APRECIAÇÃO. INVIABILIDADE. DIVERGÊNCIA JURISPRUDENCIAL. EXAME. PREJUÍZO.
+1. 1. Não há violação dos arts. 489 e 1.022 do CPC/2015 quando o Tribunal de origem se manifesta de forma clara, coerente e fundamentada sobre as teses relevantes à solução do litígio.
+2. A modificação do julgado, para acolher que houve ilegalidade (falta de objetividade) na aplicação e no resultado do exame psicotécnico e que o perfil profissional não deveria ser exigido para o ingresso na polícia civil, demandaria o reexame das regras do edital, bem como dos fatos e provas dos autos, providência incompatível com a via estreita do recurso especial, nos termos das Súmulas 5 e 7 do STJ.
+3. O recurso especial tem por escopo a uniformização da interpretação da lei federal e, por isso, não serve para a análise de eventual infringência à lei local, nos termos da Súmula 280 do STF.
+4. É pacífico o entendimento do Superior Tribunal de Justiça no sentido de que a incidência dos óbices sumulares quando do exame do recurso especial pela alínea "a" inviabiliza também a análise da divergência jurisprudencial.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.088.359/MG, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 28/11/2022, DJe de 1/2/2023.)
+SERVIDOR PÚBLICO. PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONCURSO PÚBLICO. AVALIAÇÃO MÉDICA. APTIDÃO PARA O EXERCÍCIO DO CARGO PÚBLICO. REDISCUSSÃO DE MATÉRIA FÁTICA. INTERPRETAÇÃO DE CLÁUSULAS DO EDITAL. NECESSIDADE. SÚMULAS 5 e 7/STJ. INCIDÊNCIA.
+1. A inversão do que foi decidido pelo Tribunal de origem acerca da falta de aptidão médica do autor para o exercício do cargo público pleiteado, tal como postulado nas razões do recurso especial, exigiria novo exame do acervo fático-probatório constante dos autos, providência que desafia a Súmula 7/STJ.
+2. Ademais, a análise da fundamentação adotada pela Corte de origem para julgar improcedente o pedido autoral revela, ainda, a necessidade de interpretação de cláusulas do edital que regeu o certame, circunstância que também torna inviável o exame da controvérsia em sede de recurso especial, segundo o verbete n. 5 de nossa Súmula.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 2.031.907/SC, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 30/5/2022, DJe de 2/6/2022.)
+Por fim, o entendimento do Superior Tribunal de Justiça é o de que a mera rejeição dos embargos declaratórios não é suficiente para a aplicação da multa prevista no art. 1.026, § 2º, do CPC/2015, que se justifica quando é observada a intenção de retardar injustificadamente o andamento normal do processo, em prejuízo da parte contrária e do Poder Judiciário. É necessária a configuração da manifesta improcedência do recurso para autorizar sua aplicação, o que não ocorreu no presente caso. A propósito, confiram-se os seguintes julgados desta Corte Superior, naquilo que interessa:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO ORDINÁRIA. DECISÃO INTERLOCUTÓRIA QUE DEFERE PRODUÇÃO DE PROVA PERICIAL. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIOS, NO ACÓRDÃO RECORRIDO. INCONFORMISMO. MULTA DO ART. 1.026, § 2º, DO CPC/2015. NÃO CABIMENTO. SÚMULA 98/STJ. NATUREZA JURÍDICA DA LISTA DO ART. 1.015 DO CPC/2015. MITIGAÇÃO DA TAXATIVIDADE DO ROL DO ART. 1.015 DO CPC/2015. TEMA 988/STJ. RESP 1.696.396/MT E RESP 1.704.520/MT. MODULAÇÃO DOS EFEITOS DA DECISÃO. APLICAÇÃO DA TESE PARA AS DECISÕES INTERLOCUTÓRIAS PROFERIDAS APÓS A PUBLICAÇÃO DO ACÓRDÃO PARADIGMA. DECISÃO INTERLOCUTÓRIA PROLATADA EM MOMENTO ANTERIOR. NÃO INCIDÊNCIA DA TESE. AGRAVO INTERNO PARCIALMENTE PROVIDO.
+(..)
+V. Nos termos da Súmula 98/STJ, "embargos de declaração manifestados com notório propósito de prequestionamento não tem caráter protelatório". Assim, a simples oposição dos Embargos de Declaração pela parte agravante, por si só, não justifica a imposição da multa prevista no art. 1.026, § 2º, do CPC, motivo pelo qual o Recurso Especial merece ser provido, no ponto.
+(..)
+VIII. Agravo interno parcialmente provido, para conhecer do Recurso Especial e dar-lhe parcial provimento, apenas para afastar a condenação da parte agravante ao pagamento da multa, prevista no art. 1.026, § 3º, do CPC/2015.
+(AgInt no REsp 1.686.924/MG, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 15/3/2021, DJe 19/3/2021.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. PRESCRIÇÃO. OCORRÊNCIA. NÃO APLICAÇÃO DO ENTENDIMENTO CONSOLIDADO NO JULGAMENTO DE RECURSO REPRESENTATIVO DA CONTROVÉRSIA. RESP 1.336.026/PE. TEMA 880. MODULAÇÃO DOS EFEITOS. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.026, § 2º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO. OMISSÕES E CONTRADIÇÃO. INEXISTÊNCIA.
+(..)
+IV - Em regra, descabe a imposição da multa prevista no art. 1.026, § 2º, do Código de Processo Civil de 2015 em razão do mero improvimento dos Embargos de Declaração, sendo necessária a configuração da manifesta improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Embargos de declaração rejeitados.
+(EDcl no AgRg no AgRg no REsp 1.301.935/DF, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 5/11/2019, DJe 29/11/2019.)
+Tem-se, assim, que os embargos de declaração opostos não se revestiram de caráter protelatório. Deste modo, deve-se afastar a multa aplicada na origem.
+Ante o exposto, conheço em parte do recurso especial e, nessa extensão, dou-lhe parcial provimento apenas para afastar a multa prevista no art. 1.026, § 2º, do CPC/2015.
+Publique-se. Intimações necessárias.
