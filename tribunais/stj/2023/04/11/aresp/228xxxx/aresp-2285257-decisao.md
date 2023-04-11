@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interposto por JAYNE LIMA SILVA, contra decisão que inadmitiu recurso especial manejado em face de acórdão do eg. TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS.
+Consoante se extrai dos autos, a agravante foi condenada pela prática do crime descrito no art. 33, caput, da Lei n. 11.343/2006, com a causa de aumento de pena do art. 40, III, do referido Diploma, à pena de 1 (um) ano, 11 (onze) meses e 10 (dez) dias de reclusão e 194 (cento e noventa e quatro) dias-multa, em regime inicial aberto, convertida em 2 (duas) penas restritivas de direito, na forma do art. 44, §2º, segunda parte, do Código Penal.
+Em segunda instância, o eg. Tribunal a quo negou provimento à apelação mantendo a sentença recorrida (fls. 387-396).
+No recurso especial, interposto com fulcro no artigo 105, inciso III, alínea a, da Constituição Federal, a insurgente alegou violação ao art. 22 do Código Penal, pois o eg. Tribunal de origem deveria ter considerado, para afastar a condenação, a ocorrência de coação irresistível, na medida em que a agravante foi obrigada a cometer o delito mediante ameaça, com emprego de arma de fogo (fls. 348-360).
+Por fim, a Defesa pleiteou a reforma do v. acórdão vergastado, para que seja reconhecida a existência da coação, com a consequente absolvição.
+Apresentadas as contrarrazões (fls. 425-432 ), sobreveio juízo negativo de admissibilidade fundado na incidência da Súmula 7/STJ, pois a análise das questões suscitadas implicariam revolvimento fático-probatório (fls. 436-438).
+Nas razões do agravo, postula-se o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários à sua admissão (fls. 443-450 ).
+O Ministério Público Federal apresentou parecer pelo desprovimento do recurso especial (fls. 468-471).
+É o relatório.
+Decido.
+O agravo não merece ser conhecido.
+Conforme relatado, o apelo nobre foi inadmitido pelo eg. Tribunal a quo em razão da incidência da Súmula 7/STJ.
+No caso, a parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial, não bastando, para tanto, deduzir genericamente a inaplicabilidade dos óbices apontados na decisão agravada.
+De fato, com relação ao óbice da Súmula 7/STJ, em síntese, a parte limitou-se a afirmar o que segue (fls. 446-447): (i) "não parece correto o entendimento esposado na r. decisão combatida. Isto porque o recurso interposto está dentro das hipóteses constitucionalmente previstas"; (iii) "Ademais também não se pretende, com o presente recurso, reexame do conjunto fático-probatório"; e (iii) "Diferentemente do que se assevera no r. acórdão denegatório, o que se busca através do presente recurso é a revaloração dos critérios jurídicos utilizados", repisando as razões do recurso especial.
+Contudo, deveria a agravante demonstrar a desnecessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no decisum a quo, o que não aconteceu.
+É entendimento desta Corte Superior que "inadmitido o recurso especial com base na Súm. 7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível" (AgInt no AREsp 600.416/MG, Segunda Turma, Rel. Min. Og Fernandes, DJe 18/11/2016).
+Nesse mesmo sentido: AgRg no AREsp n. 1.207.268/MG, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 19/12/2018 e AgRg nos EDcl no AREsp n. 2.104.712/CE, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 11/11/2022.
+Desse modo, a ausência de impugnação adequada dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre, nos termos do art. 932, inciso III do CPC, obsta o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles. Nesta toada os seguintes precedentes: AgRg no REsp n. 1.958.975/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe 14/11/2022 e AgRg no AREsp 1682769/SC, Quinta Turma, Rel. Ministro Ribeiro Dantas, DJe 23/06/2020).
+Diante do exposto, nos termos do art. 253, parágrafo único inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+P. e I.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
