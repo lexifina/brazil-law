@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JOÃO GANGINI contra acórdão do Tribunal de Justiça do Estado de Minas Gerais proferido na Apelação n. 1.0271.14.009757-4/001.
+Consta dos autos que o Paciente, em primeiro grau de jurisdição, foi condenado como incurso no art. 1.º, incisos I (por três vezes) e XIII, do Decreto-lei n. 201/1967, à pena total de 6 (seis) anos, 11 (onze) meses e 24 (vinte e quatro) dias de reclusão, no regime inicial semiaberto, mais 30 (trinta) dias-multa. Isso porque contratou um dos corréus, nos meses de abril a junho de 2009, a quem efetuou pagamento com recursos públicos, sem que houvesse a prestação de atividade laboral correspondente à Administração Pública. Tal conduta teve por finalidade a ocultação de desvio de recurso público municipal para a satisfação de compromisso assumido com o outro corréu pelo apoio político-eleitoral.
+O recurso de apelação do Sentenciado foi parcialmente provido pelo Tribunal estadual para o fim de reduzir o quantum de pena para 3 (três) anos de reclusão (inciso I) e 3 (três) meses de detenção (inciso XIII), no regime inicial aberto para ambos os delitos. As penas privativas de liberdade foram substituídas por duas restritivas de direitos. O acórdão foi assim ementado (fl. 159):
+"APELAÇÃO CRIMINAL - CRIMES DE RESPONSABILIDADE - PRELIMINAR - ALEGAÇÃO DE NULIDADE OCORRIDA NO CURSO DA INSTRUÇÃO CRIMINAL - INOCORRÊNCIA - AUSÊNCIA DE DEMONSTRAÇÃO DO PREJUÍZO - MÉRITO - MATERIALIDADE, AUTORIA, DOLO E PREJUÍZO AO ERÁRIO DEMONSTRADOS - CONDENAÇÕES CONFIRMADAS - DOSIMETRIA - MITIGAÇÃO DAS PENAS-BASE - NECESSIDADE -ABRANDAMENTO DO REGIME CARCERÁRIO E SUBSTITUIÇÃO DA PENA - POSSIBILIDADE - EXTENSÃO DE EFEITOS AO CORRÉU NÃO APELANTE - ART. 580 CPP - RECURSOS PARCIALMENTE PROVIDOS.
+1. A Lei Processual Penal brasileira adota, em sede de nulidades processuais, o princípio pas de nullité sans grief, segundo o qual, somente há de se declarar a nulidade se, alegada em tempo oportuno, houver demonstração ou comprovação de efetivo prejuízo para a parte, o que não ocorreu no caso em comento.
+2. Havendo provas suficientes da ocorrência dos delitos imputados na exordial, do dolo específico dos agentes e de efetivo prejuízo aos cofres públicos, deve ser mantida a condenação dos réus.
+3. Se as circunstâncias judiciais do art. 59 do CP que culminaram com a aplicação das penas-base acima dos mínimos legais não encontram respaldo nos autos, devem ser elas mitigadas.
+4. Considerando o novo quantum de condenação, a primariedade dos réus e a avaliação favorável das circunstâncias do art. 59 do CP, mostra-se possível a fixação de regime prisional aberto, bem como a substituição da pena privativa de liberdade por restritivas de direitos, com extensão de efeitos ao corréu não apelante.
+5. Recursos parcialmente providos."
+O processo-principal está pendente de julgamento de agravo em recurso extraordinário pelo Supremo Tribunal Federal.
+No presente habeas corpus, a Parte Impetrante aduz a atipicidade da conduta denunciada, sob a alegação de que "pagar ao servidor público não constitui desvio ou apropriação - é obrigação legal. A forma de provimento, direcionada ou não, em fraude ou não, é questão diversa, passível inclusive de sanções administrativas ou civis, mas não o crime imputado" (fls. 10-11).
+Requer, liminarmente, o sobrestamento dos efeitos da condenação. No mérito, pugna "pelo trancamento da ação penal" (fl. 14).
+Originariamente impetrado o mandamus perante o Tribunal estadual, o Desembargador Relator não conheceu do pedido, declinando da competência para o Superior Tribunal de Justiça (fls. 234-237).
+É o relatório. Decido.
+Verifico que no HC n. 806.607/MG foi formulada pretensão idêntica à veiculada neste writ, em favor do mesmo Paciente, o qual indeferi liminarmente em decisão assim ementada:
+"HABEAS CORPUS. PENAL. CRIMES DE RESPONSABILIDADE. DECRETO-LEI N. 201/1967. TESE DE ATIPICIDADE DA CONDUTA. MATÉRIA NÃO SUSCITADA TAMPOUCO APRECIADA EM SEDE DE APELAÇÃO. SUPRESSÃO DE INSTÂNCIA. W RIT INDEFERIDO LIMINARMENTE."
+O decisum transitou em julgado em 21/03/2023.
+Assim, constato a inadmissibilidade do remédio heroico, porquanto "não pode ser conhecida a impetração que veicula mera reiteração de pedido já formulado em writ anteriormente impetrado nesta Corte". No mesmo sentido, v.g.: HC 519.170/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 15/10/2019, DJe 21/10/2019; EDcl no AgRg no HC 532.973/RS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 10/10/2019, DJe 15/10/2019.
+Ante o exposto, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PENAL. REITERAÇÃO DO PLEITO FORMULADO NO HC N. 806.607/MG. COISA JULGADA. WRIT INDEFERIDO LIMINARMENTE.
