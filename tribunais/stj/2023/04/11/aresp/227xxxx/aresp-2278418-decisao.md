@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de agravo apresentado por MUNICÍPIO DE CURITIBA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim resumido:
+EXTINÇÃO DO PROCESSO EM RAZÃO DO PAGAMENTO DA DÍVIDA NA VIA ADMINISTRATIVA. CONDENAÇÃO DA FAZENDA PÚBLICA AO PAGAMENTO DAS CUSTAS PROCESSUAIS. RECURSO PARA APLICAÇÃO DO PRINCÍPIO DA CAUSALIDADE. IMPOSSIBILIDADE. CITAÇÃO NÃO REALIZADA E INEXISTÊNCIA DE PROVA DE QUE O EXECUTADO TEVE CIÊNCIA DA PROPOSITURA DA AÇÃO. NÃO OCORRÊNCIA DA TRIANGULAÇÃO DA RELAÇÃO PROCESSUAL. DEVER DO MUNICÍPIO DE EXIGIR O PAGAMENTO DAS CUSTAS PROCESSUAIS. NOVO ENTENDIMENTO DESTA CÂMARA CÍVEL. PRECEDENTES. RESSALVA QUANTO À TAXA JUDICIÁRIA. REFORMA DA SENTENÇA NESTE PONTO. RECURSO DE APELAÇÃO CONHECIDO E PARCIALMENTE PROVIDO.
+Quanto à controvérsia recursal, alega violação dos arts. 90 e 924, II, do CPC, no que concerne à necessidade de condenação da parte executada, ora recorrida, ao pagamento das custas processuais, uma vez que deu causa ao ajuizamento da demanda e realizou o pagamento administrativo do débito após o ajuizamento da execução fiscal, trazendo o(s) seguinte(s) argumento(s):
+Mesmo constatando que a execução foi extinta em virtude do pagamento (artigo 924, II, do CPC) o v. acordão manteve a decisão que condenou o exequente, ora Recorrente, ao pagamento de custas processuais.
+ ..
+Isso porque, em primeiro lugar, o v. acórdão entendeu que o Recorrente não teria comprovado nos autos qualquer comprovante de pagamento do tributo, não sabendo ao certo como se deu a quitação, se por pagamento extrajudicial, se ocorreu após a propositura da execução fiscal ou se administrativamente.
+Contudo, o modo de quitação pouco importa para a aferição da responsabilidade pelo pagamento dos ônus sucumbenciais, eis que o artigo 924, II do CPC não traz condições sou exceções, bastando que a obrigação seja SATISFEITA:  .. .
+ ..
+No caso, o pagamento foi realizado administrativamente em 02/03/2017, isto é, APÓS o ajuizamento da execução fiscal em 18/08/2015,cabendo ao Recorrido arcar com as custas processuais, tendo em vista que foi ele que deu causa a instauração da execução fiscal, ao não pagar o débito por ele devido (fl. 45).
+Veja-se que o lançamento tributário é precedido de procedimento administrativo cuja parte devedora teve a ampla oportunidade de adimplir a exação fiscal devida, não podendo alegar desconhecimento da dívida.
+Contudo, o Recorrido permaneceu inerte, sem adimplir sua dívida tributária, razão pela qual o Recorrente se viu obrigado a demandar judicialmente a fim de satisfazer seu crédito.
+ ..
+Conforme consta da r. sentença, o executivo fiscal foi extinto em virtude do pagamento extrajudicial, isto é, trata-se de reconhecimento do pedido pelo Recorrido ante a satisfação do débito, aplicando-se a parte final do artigo 90 do CPC:  .. .
+ ..
+Assim, nos termos da jurisprudência deste E. STJ cabe ao executado arcar com as custas processuais:  ..  (fl. 46).
+Assim, segundo o princípio da causalidade as despesas processuais devem ser arcadas por aquele que se comportou de forma a tornar necessária a instauração do processo, ou seja, por aquele que, agindo ou se omitindo, causou a formação da relação processual (fl. 47).
+É, no essencial, o relatório. Decido.
+Na espécie, o acórdão recorrido assim decidiu:
+Ainda, importante consignar que o executado sequer tomou conhecimento do processo, de modo que deveria o exequente, quando do pagamento da dívida administrativamente, orientar o executado a quitaras custas processuais em cartório para, somente depois, admitir o integral adimplemento (fl. 32).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp n. 1.637.445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp n. 1.647.046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
