@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interposto por SAULO FERNANDO CASTANHO PERES contra decisão do Tribunal de Justiça do Estado de São Paulo, que não admitiu o recurso especial manejado com apoio no art. 105, III, alíneas "a" e "c", da Constituição Federal.
+Nas razões recursais, alega a defesa violação dos artigos 156 e 564, IV do Código de Processo Penal e artigo 33 do Código Penal, bem como a ocorrência de dissídio jurisprudencial.
+Aduz, em suma, que a) não havia justa causa para realização de busca domiciliar sem autorização judicial, ressaltando que a existência de denúncias anônima não é motivação idônea a autorizar a diligência; b) que não há provas da ocorrência de tráfico de entorpecentes na hipótese, sendo de rigor a desclassificação para a conduta do art. 28 da Lei 11.343/2006; c) que não houve motivação idônea para imposição do regime mais gravoso, sobretudo ao se considerar que a pena base foi fixada no mínimo legal.
+Requer o provimento do recurso para que seja reformado o acórdão recorrido.
+Foram apresentadas contrarrazões (e-STJ, fls. 990-1011).
+O recurso foi inadmitido (e-STJ, fls. 1014-107). Daí este agravo (e-STJ, fls. 1020-1026).
+O Ministério Público Federal opina pelo não conhecimento ou desprovimento do recurso (e-STJ, fls. 1058-1062).
+É o relatório.
+Decido.
+A irresignação não merece conhecimento.
+Conforme constante da decisão agravada, o recurso especial não foi admitido diante a) da incidência da Súmula 182 do STJ, por não terem sido devidamente atacado os fundamentos do acórdão impugnado; b) ante a não comprovação do dissídio jurisprudencial, nos termos legais, destacando-se a necessidade de realização do devido cotejo analítico e da impossibilidade de se utilizar como paradigma acórdãos proferidos em julgamento de habeas corpus, de recurso ordinário em habeas corpus, de conflito de competência, de mandado de segurança ou de recurso ordinário em mandado de segurança; c) ainda no que se refere à comprovação do dissídio jurisprudencial, foi apontada a incidência da Súmula 13 do STJ; d) e, por fim, houve incidência também da Súmula 7 do STJ.
+Por outro lado, o agravante não refutou adequadamente os fundamentos da decisão agravada, limitando-se a a aduzir genericamente que foi devidamente suscitada a violação de lei federal, que a matéria encontra-se prequestionada e que não seria necessário o revolvimento do contexto fático e probatório dos autos.
+Como bem ponderou o Ministério Público Federal em seu parecer, "O Agravante não impugnou todos os fundamentos da Decisão ora hostilizada, em especial a ausência de comprovação do dissídio jurisprudencial nos moldes exigidos pelos artigos 1.029, §§ 1º e 2º, do CPC c. c o 255, do RISTJ. (e-STJ, fl. 1059, grifou-se).
+Com isso, é inafastável a aplicação do impeditivo da Súmula 182 deste Superior Tribunal ("é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos d a decisão agravada"). Nesse sentido, confiram-se os seguintes precedentes: AgRg nos EREsp 1.387.734/RJ, Rel. Ministro JORGE MUSSI, CORTE ESPECIAL, DJe de 9/9/2014; e AgRg nos EDcl nos EAREsp 402.929/SC, Rel. Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, DJe de 27/8/2014.
+Anote-se, ainda, que o Código de Processo Civil de 2015, em seu art. 932, reafirmou a orientação do STJ, ao exigir a impugnação específica dos fundamentos da decisão agravada.
+Ademais, tem-se que: "a jurisprudência desta Corte é assente no sentido de que, para afastar a incidência da Súmula 182/STJ, não basta a impugnação genérica dos fundamentos da decisão agravada, é necessário que a contestação seja específica e suficientemente demonstrada" (AgInt no REsp 1.600.403/GO, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 23/8/2016, DJe 31/8/2016, com destaque).
+Acrescenta-se que, no julgamento do EAREsp 746.775 (DJe 30/11/2018), a Corte Especial do STJ manteve o entendimento da necessidade de impugnação específica de todos os fundamentos da decisão agravada, sob pena de incidência da Súmula 182/STJ.
+Ante o exposto, com apoio no art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
