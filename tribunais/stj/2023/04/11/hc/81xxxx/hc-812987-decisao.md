@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de MAURICIO SEBASTIAO ROSA em que se aponta como autoridade coatora o TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO (Apelação Criminal 5012898-46.2017.4.04.7200).
+O paciente foi condenado à pena de 2 anos e 4 meses de reclusão em regime aberto, substituída por duas penas restritivas de direito - consistentes em prestação de serviço à comunidade ou a entidades públicas e pagamento de prestação pecuniária-, além do pagamento de 39 dias-multa, por infração ao art. 19 da Lei 7.492/1986.
+A apelação interposta pela defesa foi desprovida (e-STJ fls. 40/50).
+A impetrante sustenta: a) "nulidade ocorrida na decretação da revelia de acusado em situação de rua, em vulnerabilidade social, sem observância do art. 392, I, II e VI, do CPP" (e-STJ fl. 17); b) "em nova nulidade, o ora paciente não foi intimado da sentença condenatória e, novamente, sequer edital de intimação foi publicado, o que ocasionou afronta ao art. 392, I ou II, do Código de Processo Penal" (e-STJ fl. 14); c) "a proposta de acordo de não persecução penal oferecida pela acusação exigiu o pagamento, em parcela única, de R$ 1.000,00 (um mil reais), o que não se coaduna com a situação vulnerável do ora paciente" (e-STJ fl. 18); e d) "foi fixada pena de multa e a pena privativa de liberdade foi substituída por duas penas restritivas de direito, dentre as quais, a pena pecuniária de R$ 2.000,00, penas essas totalmente incompatíveis com a situação de morador de rua do ora paciente, o que afastou o teor da Resolução 431 do CNJ" (e-STJ fls. 6 e 7).
+Requer, liminar e definitivamente, deferimento da ordem anular a ação penal a partir da decisão que decretou a revelia do paciente.
+É o relatório.
+A matéria de fundo não foi discutida no acórdão impugnado. Assim, esta Corte não pode conhecer do tema, sob pena de supressão de instância.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. INSTRUÇÃO DEFICIENTE. SUPRESSÃO DE INSTÂNCIA. INDEFERIMENTO LIMINAR DO WRIT. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Quanto à alegação defensiva de que a decisão ora impugnada indicou a "ausência de cópia de documento absolutamente irrelevante para a controvérsia em discussão", a defesa argumenta, na inicial, que "o ora paciente teve sua revelia decretada por não comparecer à audiência, da qual havia sido regularmente intimado", de modo que "o não comparecimento decorreu da circunstância de estar o paciente preso, em virtude de outro feito, não tendo o juiz da causa requisitado a sua condução". Todavia, considerando que a jurisprudência do STJ é firme em salientar ser necessário que o inconformismo da defesa tenha sido manifestado tempestivamente, sob pena de preclusão, forçoso concluir pela necessidade de verificar-se o que a defesa alegou por ocasião da resposta à acusação.
+Precedentes.
+2. A apontada nulidade do feito, por decretação supostamente indevida da revelia, não foi analisada pelo Tribunal de origem no julgamento da apelação, o que impede a apreciação dessa matéria diretamente por esta Corte Superior de Justiça, sob pena de, assim o fazendo, incidir em vedada supressão de instância.
+3. A questão em comento é objeto da Revisão Criminal n. 70085002855, em trâmite na Corte local, de modo que não há como esta Corte Superior antecipar-se ao julgamento na instância ordinária, sob pena de vedada supressão de instância.
+4. Agravo regimental não provido.
+(AgRg no HC n. 665.939/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 1/6/2021, DJe de 10/6/2021.)
+Ante o exposto, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
