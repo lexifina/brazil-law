@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial interposto por GERSON CONCEIÇÃO FRAZÃO (GERSON), com fundamento no art. 105, III, alíneas a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça de São Paulo, da relatoria do Desembargador HUGO GREPALDI, assim ementado:
+APELAÇÃO AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO C.C. INDENIZATÓRIA Autor que alega cobranças indevidas pela ré, sendo que nunca teria contratado serviços junto a ela Sentença de parcial procedência Insurgência do requerente IMPUGNAÇÃO À GRATUIDADE CONCEDIDA AO DEMANDANTE Ré que não se desincumbiu do seu ônus probatório de demonstrar a alegada atual condição do requerente de arcar com as despesas processuais Ausência de elementos indicativos de capacidade econômica Manutenção da benesse que se impõe DANO MORAL Não configuração Situação incapaz de gerar sofrimento ou humilhação justificadora de compensação Precedentes desta Corte Negado provimento (e-STJ, fl. 132.)
+Os embargos de declaração opostos por GERSON foram rejeitados (e-STJ, fls. 148/151.)
+Nas razões do presente recurso, GERSON alegou, a par de dissídio jurisprudencial, a violação aos arts. 14 do CDC e 186, 187 e 927 do CC/02, aduzindo que sofreu abolo psíquico, que transbordou do mero aborrecimento, ao constatar a existência de contas atrasadas em cadastro efetuado junto à plataforma Serasa Limpa Nome e o protesto de seu nome, o que da enseja a reparação cível por danos morais.
+Foram apresentadas contrarrazões.
+É o relatório.
+Decido.
+O recurso não merece prosperar.
+Nas razões da insurgência especial, GERSON aduziu que sofreu abolo psíquico, que transbordou do mero aborrecimento, ao constatar a existência de contas atrasadas em cadastro efetuado junto à plataforma Serasa Limpa Nome e o protesto de seu nome, o que da enseja a reparação cível por danos morais.
+A propósito do tema, destacou o TJSP:
+A plataforma na qual a parte autora se cadastrou não se confunde com o cadastro de inadimplentes. O débito do qual tomou conhecimento por meio da referida plataforma não afeta o seu score, tratando- se de informação disponibilizada ao próprio consumidor. Segundo informações do sítio eletrônico da Serasa, apenas "as dívidas negativadas são utilizadas para o cálculo do Serasa Score, independentemente de possuírem ofertas no Serasa Limpa Nome", "já as contas atrasadas (não negativadas) não são utilizadas no cálculo do Serasa Score", sendo que "o pagamento de dívidas negativadas ou contas atrasadas realizado por meio do Serasa Limpa Nome pode gerar bonificações" na pontuação do consumidor, "o chamado Score Turbo, que é uma forma de incentivo" para manutenção das contas em dia (disponível em <<https://www.serasa.com.br/limpa-nome-online/faq>>, acesso em 10/08/2022 às 15:26>>)).
+Assim, diferentemente do que tenta fazer crer o requerente, as contas atrasadas que constaram em seu cadastro na plataforma Limpa Nome não foram utilizadas no cálculo do seu score, tratando-se de espaço de negociação entre credor e devedor com intermediação da Serasa, mediante acesso realizado pela própria consumidora que decidiu utilizar o serviço.
+E a anotação das contas não foi capaz de causar danos morais ao consumidor, eis que a informação foi obtida mediante cadastro na plataforma, sendo que conforme informado pela Serasa na descrição do serviço não é utilizada no cômputo do score, diferindo do cadastro de inadimplentes este sim de caráter público e que exige a notificação prévia à anotação, justamente em razão da publicidade do dado , não tendo o registro da conta, portanto, importado em abalo ao crédito.
+Assim, por não vislumbrar abalo psíquico suportado pelo autor ao constatar a existência de contas atrasadas em cadastro efetuado junto à plataforma Serasa Limpa Nome, de rigor a manutenção da sentença no que tange ao afastamento da pretensão indenizatória (e-STJ, fl. 137, sem destaques no original.).
+Dessa forma, conforme se nota, a Corte bandeirante assim decidiu com amparo no contexto fático-probatório da causa, de modo que a revisão do julgado, com
+o consequente acolhimento da pretensão recursal, demandaria, necessariamente, o reexame das provas, o que não se admite no âmbito do recurso especial, ante o óbice da Súmula n.º 7 do STJ.
+A propósito:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. SÚMULA 182/STJ. NÃO INCIDÊNCIA. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA.
+RESPONSABILIDADE CIVIL. PRESTAÇÃO DE SERVIÇOS EDUCACIONAIS. PROPAGANDA ENGANOSA. NÃO CONFIGURAÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL DESPROVIDO.
+1. Decisão agravada reconsiderada, na medida em que o agravo em recurso especial impugnou devidamente os fundamentos da decisão que inadmitiu o apelo nobre, exarada na instância a quo.
+2. O Tribunal de origem, com arrimo no acervo fático-probatório carreado aos autos, concluiu que os informes publicitários se referiam
+adequadamente ao curso ministrado - Engenharia Eletrônica com ênfase em Automação industrial -, não havendo falar em engano por parte do consumidor que recebeu diploma de bacharelado em engenharia eletrônica, de modo que a resistência do CREA em efetuar o registro como engenheiro de automação industrial não pode ser reputada como de responsabilidade da agravada.
+3. A pretensão de alterar o entendimento sobre a inexistência de propaganda enganosa, considerando as circunstâncias do caso concreto, demandaria a análise de matéria fático-probatória, o que é vedado nesta via recursal.
+4. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial.
+(AgInt nos EDcl no AREsp n. 2.090.393/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 3/10/2022, DJe de 21/10/2022)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. CONTRATO DE PRESTAÇÃO DE SERVIÇOS EDUCACIONAIS. RESPONSABILIDADE. EXISTÊNCIA DE SOLIDARIEDADE. REEXAME FÁTICO E PROBATÓRIO. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Na espécie, o Tribunal de origem, com arrimo nas provas dos autos e na interpretação das cláusulas contratuais, concluiu que o contrato de prestação de serviços educacionais colacionado tem por contratantes a aluna, bem como sua genitora, que figura na avença como responsável legal e financeira, de modo que é parte legítima para figurar no polo passivo da ação. Incidência das Súmulas 5 e 7 do STJ.
+2. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 1.940.352/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 19/9/2022, DJe de 4/10/2022.).
+Nessas condições, NÃO CONHEÇO do recurso especial.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em favor de ANHANGUERA, limitados a 20%, nos termos do art. 85, § 11, do NCPC, observadas as regras da Justiça gratuita.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE C/C INDENIZATÓRIA. PRETENSÃO DE REPARAÇÃO CÍVEL. NÃO RECONHECIMENTO. INVERSÃO DE ENTENDIMENTO. VEDAÇÃO. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. RECURSO ESPECIAL NÃO PROVIDO.
