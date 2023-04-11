@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, impetrado em benefício de Douglas Gustavo Dias, contra acórdão do Tribunal de Justiça do Estado de Santa Catarina, proferido no julgamento da Apelação n. 5016688-05.2021.8.24.0023.
+Consta dos autos que o paciente foi condenado à pena de 5 anos e 10 meses de reclusão, no regime inicial semiaberto, e 583 dias-multa, pela prática do delito de tráfico de drogas (art. 33, "caput", da Lei n. 11.343/06).
+No presente writ, o impetrante sustenta que o paciente preenche todos os requisitos exigidos para a aplicação da causa especial de diminuição de pena na fração máxima e a redução da pena-base ao mínimo legal.
+O Ministério Público Federal opinou pela concessão da ordem.
+É o relatório.
+Decido.
+Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal - STF, esta Corte não admite habeas corpus substitutivo de recurso próprio, sem prejuízo da concessão da ordem, de ofício, se existir flagrante ilegalidade na liberdade de locomoção.
+Consta do judicioso parecer ministerial:
+"A ordem deve ser concedida.
+No presente caso, observa-se a existência de ilegalidade na decisão a quo, tendo em vista não ter sido reconhecida a minorante prevista no art. 33, §4º, da Lei nº 11.343/06. Isso porque, verifica-se que o v. acórdão combatido não apresentou fundamentação suficiente para afastar a aplicação do benefício.
+Assim, o Tribunal a quo afirmou apenas que No que se refere ao pedido de fixação da pena no mínimo legal, o apelo não merece prosperar. Nesse tocante, entendo que a natureza e a variedade das drogas apreendidas (a saber: 14 petecas de cocaína, com peso total de 1,1g e 14 pedras de crack, com peso total de 1,4g) denota maior reprovabilidade à prática criminosa perpetrada. Nesse sentido já decidiu esta Corte: Ap. Crim. n. 5000517-61.2021.8.24.0026; Desa. Rel. Ana Lia Moura Lisboa Carneiro; j em 14.06.2022 (e-STJ Fls. 65/66).
+Portanto, o Tribunal Estadual afastou o benefício do tráfico privilegiado com base na variedade de drogas apreendidas, apesar da quantidade ser mínima, desconsiderando a primariedade do agente, o que é vedado pelo ordenamento jurídico e pelo entendimento das Cortes Superiores.
+Nesse sentido, essa Corte Superior de Justiça firmou o entendimento de que (..) não sendo expressiva a quantidade de droga apreendida -7g de cocaína e 21,1g de maconha -e a míngua de elementos probatórios que indiquem a habitualidade delitiva do paciente, e considerando sua primariedade e seus bons antecedentes, impõe-se a aplicação do redutor do art. 33, § 4º, da Lei n. 11.343/2006 no máximo legal (2/3). 5. Estabelecida a reprimenda final em patamar inferior a 4 anos, verificada a primariedade do agente e sendo favoráveis as circunstâncias do art. 59 do CP, o regime inicial aberto é o adequado à prevenção e à reparação do delito, nos termos do art. 33, § 2º, "c", do Código Penal. 6. Preenchidos os requisitos legais do art. 44 do Código Penal, é cabível a substituição da pena privativa de liberdade por restritiva de direitos.(HC 529.408/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 24/09/2019, DJe 30/09/2019)
+Por fim, considerando que o reconhecimento da ocorrência do tráfico privilegiado no presente caso, impõe-se, também, a readequação da penalidade aplicada e do regime inicial de cumprimento de pena.
+Ante o exposto, o Ministério Público Federal manifesta-se pela concessão do Habeas Corpus, para que seja reconhecido o tráfico privilegiado, readequando-se a pena imposta, bem como para que seja estabelecido o regime inicial compatível com a penalidade." (fls. 550/551)
+Como visto, das bem lançadas razões do parecer ministerial, as quais adoto como fundamentos para decidir, a negativa de aplicação do redutor deve estar calcada em elementos concretos, mostrando-se insuficiente a existência de ação penal em curso, bem como a ínfima quantidade de drogas apreendidas (1,1g de cocaína e 1,4g de crack), a qual também não serve para majorar a pena-base.
+Passo à nova dosimetria da pena.
+A pena-base deve ser reduzida ao mínimo legal, em 5 anos de reclusão e 500 dias-multa.
+Não houve causas modificativas na segunda fase de dosimetria.
+Na terceira fase, aplico a minorante do § 4º do art. 33 da Lei n. 11.343/2006 na fração de 2/3, alcançando a pena do tráfico o patamar de 1 ano e 8 meses de reclusão, no regime aberto, devendo esta reprimenda ser substituída por duas medidas restritivas de direitos a serem fixadas pelo Juízo da Execução, além de 166 dias-multa.
+Por tais razões, não conheço do habeas corpus. Todavia, concedo a ordem, de ofício, a fim de reduzir a pena do paciente para 1 ano e 8 meses de reclusão, no regime aberto, devendo esta reprimenda ser substituída por duas medidas restritivas de direitos a serem fixadas pelo Juízo da Execução, além de 166 dias-multa.
+Publique-se.
+Intimem-se.
