@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se, na origem, de mandado de segurança interposto por Maristela da Silva Van Der Lan, em face do acórdão do Tribunal de Justiça do Estado de Mato Grosso do Sul, que concluiu pela competência da turma recursal para o processamento e julgamento de mandamus impetrado contra ato de juízo de direito praticado no exercício de função nas Turmas Recursais.
+Na decisão de fls. 263/265, a Presidência desta Corte Superior deferiu a liminar pleiteada para determinar a suspensão dos efeitos do acórdão recorrido e designar o Juízo da 4ª Vara do Juizado da Fazenda Pública e da Saúde Pública do Estado do Mato Grosso do Sul como juízo precário.
+O Estado de Mato Grosso do Sul opôs embargos de declaração apontando vício de omissão relativo ao Tema n. 1.234/STF, que, conforme alega, sinaliza a obrigatória legitimidade passiva da União para integrar a presente demanda, que discute o fornecimento de medicamento registrado na ANVISA, mas não inserido nas listas de fármacos do SUS.
+Às fls. 306-308, este relator deu provimento ao recurso ordinário para determinar o prosseguimento do feito no Juízo Estadual, considerando o entendimento firmado no Tema n. 793/STF, sobre a possibilidade da ação ser ajuizada contra qualquer um dos entes.
+Em novos embargos de declaração (fls. 311-317), o Estado de Mato Grosso do Sul reprisa suas razões de aclaratórios a respeito do Tema n. 1.234/STF.
+Intimada, a parte embargada apresentou impugnação (fl. 335-346).
+É o relatório. Decido.
+Não merece acolhimento os embargos de declaração ora opostos.
+A matéria objeto do RE n. 1.366.243/SC diz respeito ao interesse processual da União em demandas sanitárias que envolvam medicamentos registrados na ANVISA, mas não padronizados no SUS. Assim, o que se definirá, por consequência, é a competência para julgamento desse tipo específico de demanda.
+No caso dos autos, a pretensão recursal diz respeito tão somente à competência para julgar mandamus interposto contra decisão declinatória de competência proferida por juízo de Juizado Especial, ou seja, auferir se o Tribunal de Justiça Estadual seria competente para apreciar e julgar o mandado de segurança impetrado pela ora recorrente, ou se estaria escorreita a remessa dos autos para julgamento em uma das Turmas Recursais.
+Ademais, a decisão proferida nos autos do Tema n. 1.234/STF foi de reconhecimento da repercussão geral da questão, sem a determinação de sobrestamento dos processos em que se discute matéria coincidente, motivo pelo qual não há interferência no presente recurso em mandado de segurança.
+Cumpre ressaltar que os aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso. No caso dos autos, não há omissão de ponto ou questão sobre as quais o juiz, de ofício ou a requerimento, devia pronunciar-se, considerando que a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
