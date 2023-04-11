@@ -1,0 +1,11 @@
+DECISÃO
+Cuida-se de embargos de declaração em que FETIAESC -FEDERAÇÃO DOS TRABALHADORES NAS INDÚSTRIAS DE CARNES, INDÚSTRIAS DA ALIMENTAÇÃO E AFINS DOESTADO DE SANTA CATARINA alega que a decisão de e-STJ fls. 920/926 é omissa na medida em que não observou que a matéria referente aos honorários se encontrava prequestionada, porque foi alegada pela recorrente na instância ordinária e, ainda que assim não fosse, tratava-se de matéria de ordem pública, que poderia ser examinada a qualquer tempo.
+Sem impugnação aos aclaratórios.
+Passo a decidir.
+Adianto que não há nenhuma omissão na decisão recorrida que, quanto ao prequestionamento, foi expressa no sentido de que:
+Por fim, não conheço da alegada violação dos arts. 18 da Lei n. 7.347/1985 e 87 da Lei n.8.078/1990, porque não prequestionados (Súmula 211 do STJ). Lembre-se que a admissão de prequestionamento ficto (art. 1.025 do CPC/2015), em recurso especial, exige que no mesmo recurso seja "indicada violação do art. 1.022 do CPC/2015, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que, uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei, o que não ocorreu no presente caso" (AgInt no REsp n. 1.990.435/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 14/11/2022, DJe de 17/11/2022).
+Registre-se que o prequestionamento não ocorre só com a manifestação da parte, mas com o enfrentamento da matéria no acórdão ou o reconhecimento da omissão sobre o tema, sendo que nenhuma das hipóteses aconteceu nos autos.
+Além disso, "em recurso especial, a matéria de ordem pública somente pode ser examinada quando prequestionada pela Corte de origem e invocada no recurso especial ou nas contrarrazões do recorrido. Precedentes desta Corte Superior e do Supremo Tribunal Federal" (AgInt nos EREsp n. 582.776/AL, relator Ministro Jorge Mussi, Corte Especial, julgado em 11/6/2019, DJe de 14/6/2019).
+Portanto, não se tratou de qualquer omissão no julgamento, evidenciando-se que o que pretende a parte é rediscutir os fundamentos da decisão, inviável em sede de embargos de declaração.
+Ante o exposto, REJEITO os aclaratórios.
+Publique-se. Intimem-se.
