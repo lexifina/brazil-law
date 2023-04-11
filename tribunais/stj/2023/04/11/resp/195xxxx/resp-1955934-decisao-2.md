@@ -1,0 +1,66 @@
+DECISÃO
+Cuida-se de recurso especial, interposto por ANTONIO MARINI NETO e OUTRA, com amparo nas alíneas "a" e "c" do permissivo constitucional, no intuito de reformar acórdão proferido pelo Tribunal de Justiça do Estado do Mato Grosso do Sul (fls. 779-822 e-STJ), assim ementado:
+APELAÇÃO CÍVEL - AÇÕES CONEXAS - AÇÃO DE REVISÃO CONTRATUAL E REINTEGRAÇÃO DE POSSE - PRETENSÃO, EM AÇÃO REVISIONAL, DE ALTERAÇÃO CONTRATUAL EM RAZÃO DA ONEROSIDADE EXCESSIVA - TEORIA DA IMPREVISÃO - CONTRATO DE COMPRA E VENDA DE IMÓVEL MEDIANTE PAGAMENTO DAS PARCELAS EM SACAS DE SOJA - ALEGAÇÃO DE CONDIÇÕES CLIMÁTICAS ADVERSAS QUE IMPEDIRAM A PRODUÇÃO ESPERADA - AUSÊNCIA DE REQUISITOS LEGAIS PARA CONFIGURAÇÃO DA TEORIA DA IMPREVISÃO - PEDIDO IMPROCEDENTE - FALTA DA PRESENÇA DOS REQUISITOS PREVISTOS NO ARTIGO 478 DO CÓDIGO CIVIL - SENTENÇA MANTIDA - RECURSO IMPROVIDO.
+As intempéries climáticas e mercadológicas são riscos inerentes à produção agrícola, de sorte que não há que se falar em extraordinariedade ou imprevisibilidade de tais acontecimentos em tal setor, pela teoria da imprevisão, mesmo porque para a aplicação dessa teoria necessário se faz ainda, segundo a literalidade do art. 478 do CC, que tais acontecimentos tenham gerado vantagem excessiva para a outra parte, o que não ocorreu na relação contratual objeto desta demanda.
+APELAÇÃO CIVIL - AÇÃO DE REINTEGRAÇÃO DE POSSE - PRELIMINARES DE AUSÊNCIA DE INTERESSE DE AGIR E INADEQUAÇÃO DA VIA ELEITA - COMPROVAÇÃO DA POSSE, DO ESBULHO E DA PERDA DA POSSE - CONTRATO DE COMPRA E VENDA - FALTA DE PAGAMENTO DO PREÇO DA ÚLTIMA PARCELA - CONVENÇÃO QUE DISPÕE SOBRE A POSSIBILIDADE DE DEVOLUÇÃO PROPORCIONAL DA ÁREA CORRESPONDENTE AO PREÇO NÃO PAGO - CLÁUSULA RESOLUTIVA EXPRESSA - PRESENÇA DOS REQUISITOS DO ART. 927 DO CPC - MATÉRIA JÁ EXPRESSAMENTE DECIDIDA POR ESTE TRIBUNAL EM SEDE DE ANTERIOR AGRAVO DE INSTRUMENTO, COM REJEIÇÃO DA ARGUIÇÃO - PRELIMINARES REJEITADAS.
+Havendo o Tribunal apreciado, em sede de agravo de instrumento, as preliminares de inadequação da via eleita e falta de interesse de agir, sem que tenha havido comprovação de que o que ali restou decidido foi modificado pelas instâncias superiores, deve-se rejeitar as mesmas preliminares, deduzidas sob os mesmos fundamentos, já exaustivamente examinados.
+MÉRITO - TEORIA DO ADIMPLEMENTO SUBSTANCIAL - CLÁUSULA QUE, CARACTERIZADO O PAGAMENTO SUBSTANCIAL, AFASTA A CLÁUSULA RESOLUTIVA EXPRESSA, NOS TERMOS DO ARTIGO 474 DO CC DE 2002 - AFERIÇÃO DO VALOR PAGO, PARA FINS DE CONSTATAÇÃO DE SER O PAGAMENTO SUBSTANCIAL, OU NÃO, EM VISTA DO NEGÓCIO CELEBRADO E NO CASO CONCRETO - INADIMPLEMENTO QUE CORRESPONDE À ÚLTIMA PARCELA DO PREÇO - VALOR, TODAVIA, CONSIDERÁVEL EM FACE DO NEGÓCIO CELEBRADO - SUBSTANCIALIDADE DO ADIMPLEMENTO NÃO CONSTATADA - RESOLUÇÃO QUE OPERA SEUS REGULARES EFEITOS - DEVER DE DEVOLUÇÃO DO BEM.
+Não se aplica genericamente a jurisprudência que trata do adimplemento substancial como causa de improcedência do pedido de rescisão do contrato ou de reintegração na posse do bem alienado, porque o juiz deve sempre examinar a espécie e a natureza do contrato e em especial o valor das prestações e a duração delas, de forma tal que mesmo faltando uma só prestação a ser paga, e se esta representa, como no caso, o percentual de 30,31% do preço do negócio - compra e venda de imóvel rural - não terá ocorrido, pelas peculiaridades da relação jurídica celebrada entre as partes, adimplemento substancial do contrato.
+CLÁUSULA PENAL - INCIDÊNCIA DA MULTA CONTRATUAL QUE TAMBÉM DECORRE DO INADIMPLEMENTO - POSSIBILIDADE DE REDUÇÃO OU DE EXCLUSÃO DELA, À VISTA DA NATUREZA DO CONTRATO - INTELIGÊNCIA DO ARTIGO 413 DO CÓDIGO CIVIL - MULTA EXCLUÍDA.
+De acordo com o 408 do Código Civil incorre de pleno direito o devedor na cláusula penal, desde que, culposamente, deixe de cumprir a obrigação ou se constitua em mora. Assim, restando configurado o descumprimento contratual e a culpa da parte, resta devida a imposição da multa contratualmente prevista.
+Referida cláusula, todavia, por força do artigo 413 do Código Civil, pode ser reduzida no caso concreto.
+Se se constata que os alienantes foram reintegrados na extensão de terras proporcional ao percentual do inadimplemento da última parcela do preço que haveria de ser pago pelos adquirentes, recebendo-a beneficiada pelos adquirentes, eis que ali realizaram prévio cultivo da terra para futuro plantio da lavoura de soja, não se pode afirmar que os alienantes sofreram perdas e danos, como forma de justificar a aplicação da cláusula penal, a qual, por tal motivo, é deixada de aplicar e declarada como indevida pelos réus, mesmo em face de sua inadimplência.
+Afinal, a aplicação da cláusula, em sua literalidade, ou mesmo com redução do percentual dela, vai implicar no enriquecimento sem causa dos alienantes em detrimento dos adquirentes, fato suficiente que justifica a não aplicação da cláusula in concreto.
+HONORÁRIOS ADVOCATÍCIOS, QUANTUM FIXADO EM OBSERVÂNCIA AO ART. 20, § 4º, DO CPC.
+O art. 20, § 4º, do Código de Processo Civil, determina a fixação equitativa dos honorários advocatícios através de ponderação e razoabilidade, pelos serviços desenvolvidos pelo profissional da advocacia e o interesse econômico em disputa, não devendo ser reduzida a verba fixada em consonância com essa regra.
+Preliminares rejeitadas. Recurso conhecido e parcialmente provido apenas para afastar a aplicação e incidência da cláusula penal.
+Embargos de declaração opostos por ambas as partes, restaram acolhidos os aclaratórios dos ora recorrentes, para corrigir erro material, resultando na redução (e não exclusão) da multa contratual (fls. 893-905 e-STJ), e rejeitados aqueles manejados pelos demandados.
+Novos embargos manejados pelos recorrentes (fls. 935-937 e-STJ), também acolhidos, em parte, para sanar omissão acerca dos juros (fls. 927-933 e-STJ).
+Terceiros aclaratórios rejeitados às fls. 941-44 e-STJ.
+Nas razões do especial (fls. 1021-1033 e-STJ), os insurgentes apontaram violação aos seguintes dispositivos de lei federal:
+(i) artigo 535 do CPC/1973, por não ter sido sanada a contradição apontada no aclaratórios;
+(ii) artigos 128 e 460 do CPC/1973, ante a ocorrência de julgamento extra petita, ao determinar-se a suspensão da reintegração de posse sem que houvesse pedido nesse sentido, e fazendo referência a decisão do STJ, concedendo efeito suspensivo, a qual reputa inexistente;
+(ii) artigo 413 do Código Civil, por entender ser indevida a redução da multa contratual pois inexistente o cumprimento parcial da obrigação pelos recorridos; e,
+(iii) artigo 397 do Código Civil, sustentando que os juros incidentes sobre a multa são devidos desde a inadimplência.
+Contrarrazões às fls. 1062-1070 e-STJ.
+Em sede de juízo provisório de admissibilidade (fls. 1072-1076 e-STJ), o Tribunal local inadmitiu o recurso especial, o que ensejou o manejo de agravo (art. 544 do CPC/73), ao qual foi dado provimento, tornando sem efeito deliberação anterior, para melhor análise da matéria (fls. 1229-1232 e-STJ).
+É o relatório.
+Decide-se.
+A pretensão recursal deve prosperar em parte .
+1. Preliminarmente, alegaram os recorrentes a existência de contradição no acórdão impugnado, "pois o Tribunal a quo declarou que manteve a suspensão do cumprimento do acórdão até ulterior deliberação da superior instância, pois existia decisão do Superior Tribunal de Justiça impedindo o cumprimento da liminar de reintegração de posse (não existe decisão do STJ suspendendo a liminar de reintegração de posse)" (fl. 1028 e-STJ).
+Tal alegação, todavia, não se amolda, sequer em tese, ao vício de que trata o artigo 535 do CPC/73.
+Isso porque, a contradição que autoriza o manejo dos embargos de declaração é a contradição interna, verificada entre os elementos que compõem a estrutura da decisão judicial, e não entre a solução alcançada e a solução que almejava o jurisdicionado.
+Em semelhante sentido: AgInt no AREsp 1657633/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 10/08/2020, DJe 14/08/2020; EDcl no AgInt no AgInt nos EDcl no AREsp 1450410/RJ, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 30/03/2020, DJe 01/04/2020; AgInt no AREsp 1599936/SC, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 30/03/2020, DJe 06/04/2020.
+Afasta-se, portanto, a alegada contradição.
+1.1. Ainda assim, em análise aos autos e feitos conexos, observa-se que a reintegração de posse havia sido deferida liminarmente nos autos do Agravo de Instrumento n. 2011.023092-0/0000-00 (TJMS) - que deu origem ao Recurso Especial n. 1.315.533/MS.
+Apenso a estes autos, consta, de fato, medida cautelar requerida por IVAN WILLIAMS FREITAS, que restou deferida pela Vice-Presidência da Corte de origem (Ap. 2, fls. 137-142 e-STJ, dos autos do REsp 1.315.533/MS), para atribuir efeito suspensivo àquele recurso especial (interposto nos autos do Agravo de Instrumento n. 2011.023092-0/0000-00 - TJMS).
+Logo, de fato, quando julgado o presente feito perante a Corte local, no ano de 2014, havia decisão vigente suspendendo a reintegração de posse - porém, não deste STJ, e sim da Vice-Presidência do Tribunal de origem.
+De todo modo, no atual estágio, sequer seria benéfico aos aqui recorrentes o retorno do feito ao Tribunal de origem para eventual correção de vício - pois apenas postergaria os efeitos da medida.
+Por todas estas razões, afasta-se a preliminar de negativa de prestação jurisdicional, bem como resta prejudicada a alegação de julgamento extra petita, sobre este mesmo ponto, pelo julgamento do presente recurso.
+2. No mérito, aduzem os insurgentes violação ao artigo 413 do Código Civil, por entender ser indevida a redução da multa contratual, pois inexistente o cumprimento parcial da obrigação pelos recorridos.
+A Corte de origem apresentou os seguintes fundamentos para justificar a redução da multa: (a) possibilidade de redução quanto houver parcial cumprimento da obrigação ou a penalidade mostra-se excessiva; (b) quase 70% do valor do contrato foi pago na forma prevista; e, (c) a terra seria restituída aos ora recorrentes com benefícios/benfeitorias.
+Não houve impugnação específica aos referidos fundamentos, de modo que o recurso especial encontra óbice nas Súmulas 283 e 284/STF.
+Ademais, tendo a Corte de origem considerado adequado, ao caso concreto, o arbitramento da multa em 5% (cinco por cento) do valor contratado, rever tal conclusão encontra óbice nas Súmulas 5 e 7/STJ.
+3. Por fim, aponta-se violação ao artigo 397 do Código Civil, sustentando que os juros incidentes sobre a multa são devidos desde a inadimplência.
+A Corte de origem, considerando que a multa havia sido inicialmente afastada, e depois restabelecida em menor percentual, determinou a incidência de juros a partir da publicação do acórdão.
+Todavia, em se tratando de relação contratual, os juros devem incidir deste a citação, conforme reiterada jurisprudência deste STJ:
+CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. PROMESSA DE COMPRA E VENDA DE IMÓVEL. RESPONSABILIDADE PELO INADIMPLEMENTO CONTRATUAL. INTERPRETAÇÃO DE CLÁUSULAS E REVISÃO DO ACERVO FÁTICO DOS AUTOS. INCIDÊNCIA DAS SÚMULAS N.os 5 E 7 DO STJ. RESTITUIÇÃO DA INTEGRALIDADE DOS VALORES PAGOS. APLICAÇÃO DA SÚMULA N.º 568 DO STJ. INCIDÊNCIA DE JUROS DE MORA. TERMO INICIAL. DATA DA CITAÇÃO. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+4. Conforme o entendimento do STJ, incidem juros moratórios a partir da citação em se tratando de inadimplemento contratual por parte da promitente vendedora, o que foi reconhecido no caso.
+5. Agravo interno não provido.
+(AgInt no REsp n. 2.013.385/MG, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 28/11/2022, DJe de 30/11/2022.)
+A GRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE COMPRA E VENDA. IMÓVEL. ENTREGA. ATRASO. RESPONSABILIDADE CIVIL. CONTRATUAL. PRAZO PRESCRICIONAL. REGRA GERAL. ART. 205 DO CÓDIGO CIVIL. DANOS MORAIS. VALOR. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. TERMO INICIAL. JUROS DE MORA. CITAÇÃO. DIVERGÊNCIA JURISPRUDENCIAL. NÃO CONFIGURAÇÃO.
+ ..
+4. No caso de ilícito contratual, os juros de mora são devidos a partir da citação.
+ ..
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.146.622/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 22/11/2022, DJe de 29/11/2022.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. ATRASO INJUSTIFICADO NA ENTREGA DO BEM. SÚMULA 7 DO STJ. RESTITUIÇÃO INTEGRAL DAS PARCELAS PAGAS. SÚMULA 543 DO STJ. LUCROS CESSANTES. DANO MATERIAL PRESUMIDO. PRECEDENTES. JUROS DE MORA. CITAÇÃO. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+4. No caso de ilícito contratual, os juros de mora são devidos a partir da citação. Precedentes.
+5. Agravo interno não provido.
+(AgInt no REsp n. 1.987.981/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 9/8/2022, DJe de 16/8/2022.)
+4. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, dá-se parcial provimento ao recurso especial interposto por ANTONIO MARINI NETO e OUTRA , para determinar a incidência de juros de mora desde a citação.
+Incabível a majoração de honorários (artigo 85, § 11, do CPC/15), por se tratar de recurso interposto ainda na vigência do CPC/73 (enunciado administrativo n. 7/STJ).
+Publique-se.
+Intimem-se.
