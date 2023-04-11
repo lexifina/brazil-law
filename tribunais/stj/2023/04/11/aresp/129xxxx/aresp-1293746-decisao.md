@@ -1,0 +1,36 @@
+DECISÃO
+Agrava-se da decisão que inadmitiu o recurso especial interposto pelo DEPARTAMENTO NACIONAL DE PRODUÇÃO MINERAL - DNPM, com fundamento no art. 105, inciso III, alínea a, da CF/1988, contra acórdão proferido pelo Tribunal Regional Federal da 2ª Região assim ementado:
+DIREITO ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. TAXA ANUAL POR HECTARE. PREÇO PÚBLICO. REGIME JURÍDICO DAS TAXAS DE OCUPAÇÃO. APLICAÇÃO ANALÓGICA. MULTA. PRESCRIÇÃO. DECADÊNCIA.
+1. A decisão agravada, acolhendo em parte a exceção de pré-executividade, pronunciou a decadência do direito de constituir de os créditos de Taxa Anual de Hectare - TAH vencidos em 31/7/2001, CDAs nos 20.0106076.2008, 20.016080.2008 e 20.016082.2008, subsistindo apenas parte dos créditos inscritos sob o nº 20.0106076.2008, vencidos em 31/7/2002 e 31/7/2003.
+2. Às TAHs, preço público, aplica-se por analogia o regime jurídico das taxas de ocupação. É quinquenal o prazo de prescrição para cobrança da TAH,com fluência a partir do vencimento, para as competências anteriores à Lei nº 9.821/99 (24/8/1999), aplicando-se a decadência somente para as posteriores. Precedentes.
+3. A cobrança da TAH é efetivada mediante boleto gerado pelo Departamento Nacional de Produção Mineral, o que faz consumar o lançamento. Assim, vencida a dívida, passa a correr apenas o prazo prescricional quinquenal para a cobrança, sendo esta a hipótese tratada nestes autos.
+4. Os créditos inscritos nas CDA"s ora executadas venceram em 31/07/2001, 3/07/2002 e 31/07/2003, contando-se daí o prazo prescricional quinquenal para cobrança, que findou, para o mais recente, em 31/07/2008. Dessa forma, os débitos já estavam prescritos quando da inscrição em dívida ativa, em 03/10/2008, impondo-se a extinção da execução de todos os créditos inscritos nas CDA"s executadas.
+5. Agravo de instrumento desprovido (fls. 184/194).
+Opostos embargos de declaração, foram eles improvidos.
+Nas razões do seu recurso especial (fls. 216/226), a parte agravante sustenta violação dos arts. 535, II, do CPC/1973, do art. 47 da Lei 9.636/1998 e do art. 2º da Lei 10.852/2004, argumentando, para tanto, que o acórdão recorrido foi omisso quanto à tese de que a prescrição seria de 10 (dez) anos a contar do lançamento.
+Contrarrazões recursais às fls. 257/271.
+Sobreveio o juízo de admissibilidade negativo (fl. 247), fundado no óbice da Súmula 7 do STJ e na ausência de negativa de prestação jurisdicional, razão pela qual se interpôs o presente agravo em recurso especial, ora em análise.
+É o relatório.
+A irresignação não merece prosperar.
+Inexiste a alegada violação do art. 535 do CPC/1973, pois a prestação jurisdicional foi dada na medida da pretensão deduzida consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro, omissão, contradição ou obscuridade. Observe-se, ademais, que julgamento diverso do pretendido, como na espécie, não implica ofensa ao dispositivo de lei invocado.
+No mérito recursal, o Tribunal de origem assim se manifestou:
+À TAH, preço público, aplica-se, por analogia, o regime jurídico das taxas de ocupação. No mesmo sentido, confira-se:
+ ..
+Fixadas essas premissas, a controvérsia acerca da prescrição e decadência já está superada pela minuciosa análise feita no REsp 847099, pela 1ª Turma do STJ, em 21/10/2008, relatado pela Exma. Ministra Denise Arruda, cuja ementa transcrevo:
+ ..
+Com efeito, o prazo de prescrição para cobrança da TAH é quinquenal, com fluência a partir do vencimento, para as competências anteriores à Lei nº9.821/1999 (24/8/1999), e também quinquenal, mas fluindo a partir do lançamento por ela instituído, daí para a frente.
+Por outro lado, inexistindo na legislação anterior qualquer previsão de decadência, os créditos anteriores à Lei nº 9.821/1999 sujeitam-se ao prazo por ela instituído, a contar de sua edição.
+É que o prazo prescricional sempre existiu, com base no Decreto nº 20.910/1932. Já a decadência refere-se ao direito de a Fazenda Pública "lançar"" o crédito mas, antes da Lei nº 9.821/1999, sequer existia essa modalidade de constituição do crédito para taxas de ocupação. Se a Fazenda já tivesse o direito-dever de "lançar" o crédito de TAH, a instituição posterior de um prazo decadencial implicaria a sua contagem para fatos já ocorridos e far-se-ia somente a partir da nova lei. No caso, contudo, a Lei nº 9.821/1999, dando nova redação ao art. 47 da Lei nº 9.636/1998. instituiu não só o prazo decadencial, mas também o próprio "direito potestativo" de efetuar o lançamento.
+ ..
+No caso concreto. os créditos já constituídos e inscritos nas CDA"s ora executadas venceram em 31/07/2001, 31/07/2002 e 31/07/2003, contando-se daí o prazo prescricional quinquenal para cobrança, que findou, para o mais recente, em 31/07/2008. Dessa forma, os débitos já estavam prescritos quando da inscrição em dívida ativa, em 03/10/2008, impondo-se a extinção da execução de todos os créditos inscritos nas CDA"s executadas (fls. 189/192).
+Verifico, portanto, que a conclusão veiculada no acórdão está em harmonia com a orientação do STJ sobre o tema, qual seja, a de que o prazo prescricional da execução de créditos referentes à Taxa Anual por Hectare - TAH é quinquenal, incidindo na hipótese o disposto na Súmula 83/STJ ("não s e conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida").
+Nesse sentido, cito os seguintes julgados do Superior Tribunal de Justiça:
+ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TAXA ANUAL POR HECTARE (TAH). PRESCRIÇÃO. APLICAÇÃO DO DECRETO 20.910/32. PRECEDENTES DO STJ.
+1. Nos termos da jurisprudência desta Corte, cabe exceção de pré-executividade em execução fiscal quando o exame de matéria de ordem pública não depende de dilação probatória.
+2. O acórdão recorrido está em conformidade com a jurisprudência do STJ no sentido da aplicação do prazo prescricional do Decreto 20.910/32 na execução dos créditos referentes à taxa anual por hectare (TAH)
+3. Agravo regimental não provido. (AgRg no AREsp n. 567.405/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 4/11/2014, DJe de 10/11/2014.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ADMINISTRATIVO E PROCESSUAL CIVIL. EXECUÇÃO FISCAL PARA COBRANÇA DE RECEITA NÃO-TRIBUTÁRIA (PATRIMONIAL) DA UNIÃO. COMPENSAÇÃO FINANCEIRA PELA EXPLORAÇÃO DE RECURSOS MINERAIS (CFEM). PRESCRIÇÃO QUINQUENAL. DECRETO 20.910/1932. INAPLICABILIDADE DO CÓDIGO CIVIL. PRECEDENTES SOB O RITO DO ART. 543-C DO CPC. AGRAVO DO DEPARTAMENTO NACIONAL DE PRODUÇÃO MINERAL (DNPM) DESPROVIDO.
+1. Embora denominada taxa, a TAH (taxa anual por hectare) é preço público, cuja execução submete-se ao prazo prescricional de cinco anos, conforme previsto no Decreto 20.910/32.
+2. Agravo Regimental do Departamento Nacional de Produção Mineral (DNPM) a que se nega provimento. (AgRg no AREsp n. 332.766/PR, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 26/8/2014, DJe de 5/9/2014.)
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial do DEPARTAMENTO NACIONAL DE PRODUÇÃO MINERAL - DNPM e, na parte conhecida, negar-lhe provimento .
+Publi que-se. Intimações necessárias.
