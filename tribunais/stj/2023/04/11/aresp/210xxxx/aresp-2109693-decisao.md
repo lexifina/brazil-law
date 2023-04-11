@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por ACQUALOE COMERCIO E INDUSTRIA DE COSMETICOS LTDA., com base no art. 105, III, a e c, da Constituição Federal, desafiando acórdão do Tribunal de Justiça do Estado de Santa Catarina assim ementado (e-STJ, fl. 380):
+APELAÇÃO CÍVEL. EMBARGOS MONITÓRIOS. CONTRATO DE PRESTAÇÃO DE SERVIÇOS DE IMPORTAÇÃO POR CONTA E ORDEM DE TERCEIROS. JUSTIÇA GRATUITA. SÚMULA 481 DO SUPERIOR TRIBUNAL DE JUSTIÇA. NÃO COMPROVAÇÃO. AFASTAMENTO DO BENEFÍCIO MANTIDO. AUSÊNCIA DE NOTIFICAÇÃO EXTRAJUDICIAL. DESNECESSIDADE. MORA QUE DECORRE DO VENCIMENTO DOS TÍTULOS E/OU DA CITAÇÃO. ARTIGO 397 DO CÓDIGO CIVIL. PRINCÍPIO CONSTITUCIONAL DA LEGALIDADE. ARTIGO 5º, II, DA CARTA MAIOR. IMPUGNAÇÃO INTEMPESTIVA. DESENTRANHAMENTO DOS DOCUMENTOS. NÃO OCORRÊNCIA. ANDEBEATUR E QUANTUM DEBEATUR COMPROVADOS NA INICIAL. JUIZ COMO DESTINATÁRIO DA PROVA. SENTENÇA MANTIDA. RECURSO DESPROVIDO.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 412-416).
+Em suas razões de recurso especial (e-STJ, fls. 424-437), a agravante alegou, além de divergência jurisprudencial, violação aos arts. 318, 350 e 434, do CPC/2015.
+Sustentou, em síntese, nulidade processual, uma vez que os documentos exibidos com a intempestiva impugnação aos embargos monitórios, além de não serem desentranhados dos autos, serviram para amparar a sentença condenatória mantida pela Corte estadual.
+O processamento do apelo especial não foi admitido pela Corte local, levando a insurgente a interpor o presente agravo.
+Brevemente relatado, decido.
+De plano, vale pontuar que o recurso em análise foi interposto na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo n. 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A respeito da tese defendida no apelo excepcional, o Tribunal de origem assim se manifestou (e-STJ, fl. 385):
+A apelante volta-se contra a parte da sentença que não desentranhou do processo os documentos exibidos com a impugnação aos embargos monitórios, uma vez que foram considerados intempestivos.
+Colhe-se da sentença:
+ ..  não obstante a intempestividade da impugnação aos embargos monitórios ofertada pela autora, não é o caso de ser desentranhada do processo, haja vista que sua manutenção não implica em prejuízos para a defesa.
+"Outrossim, fazendo uso da analogia, é sabido que nem mesmo a incidência da revelia conduz ao desentranhamento das peças fornecidas, uma vez que ausente previsão legal nesse sentido.
+"Do mesmo modo, os documentos colacionados às páginas 124/133 devem permanecer nos autos, pois, além de oportunizado a ré manifestar se (páginas 144/147), poderiam ter sido juntados a qualquer tempo pelo autora durante a instrução." (evento 87, p. 3/8)
+De fato, não há nulidade sem prejuízo.
+Desse modo, os documentos exibidos com a intempestiva impugnação não trouxeram nenhum prejuízo à apelante, seja porque o an debeatur e o quantum debeatur já estavam comprovados com as documentações exibidas com a inicial, seja porque a ela foi oportunizada o direito de manifestação, sem esquecer, e conforme jurisprudência colacionada pelo Magistrado a quo:
+Ressai, claro, portanto, que o Tribunal estadual adotou, como fundamento central para afastar a alegada nulidade, à ausência de efetivo prejuízo na juntada posterior de documentos. Todavia, pelo que se pode depreender das razões vertidas em seu recurso especial (e-STJ, fls. 424-437), a recorrente não infirma o fundamento estrutural adotado pela Corte originária .
+Com efeito, trata-se de fundamento autônomo e suficiente à subsistência do entendimento adotado na origem, que deixou de ser impugnado pela parte recorrente, impondo o reconhecimento da incidência das Súmulas 283 e 284 do STF, por analogia.
+Ademais, convém consignar, que esta Corte Superior firmou entendimento de que " a decretação de nulidade pressupõe a demonstração de efetivo prejuízo ao exercício do direito de defesa, uma vez que o trâmite processual deve observância aos princípios da instrumentalidade das formas e da celeridade (princípio pas de nullité sans grief) (EDcl nos EDcl no AgInt no AREsp 1563273/PE, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 08/06/2020, DJe 12/06/2020).
+Diante do exposto, conheço agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte agravada em 2% sobre o valor atualizado da condenação.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. APELAÇÃO. EMBARGOS MONITÓRIOS. NULIDADE. AUSÊNCIA DE EFETIVO PREJUÍZO. FUNDAMENTO SUFICIENTE NÃO ATACADO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULAS 283 E 284/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
