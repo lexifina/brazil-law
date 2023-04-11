@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (fl. 392, e-STJ):
+AGRAVO DE INSTRUMENTO. INTEMPESTIVIDADE NÃO VERIFICADA. CONHECIMENTO. AÇÃO DE OBRIGAÇÃO DE FAZER. PERFIL DE INSTAGRAM DE ONG DESATIVADO. IRREGULARIDADE. DEVER DE REATIVAÇÃO. ASTREINTES FIXADAS NO VALOR DE R$ 2.000,00 E MAJORADAS PARA R$ 3.000,00, SEM LIMITAÇÃO TEMPORAL. EXCLUSÃO DO VALOR. POSSIBILIDADE. JUSTA CAUSA PARA DESCUMPRIMENTO CONFIGURADA. RECURSO PROVIDO.
+Os embargos de declaração opostos foram rejeitados (fls. 468/475, e-STJ).
+Nas razões do recurso especial, a parte ora agravante alega, além de divergência jurisprudencial, violação aos arts. 304, § 2º e 489, § 1º, IV, do Código de Processo Civil de 2015.
+Afirma, inicialmente, que o Tribunal de origem teria sido omisso, por não ter analisado todas as questões suscitadas.
+Argumenta, também, que estaria configurada a preclusão no caso dos autos, não sendo possível o conhecimento, por parte das instâncias de origem, da alegação de ausência de justa causa para descumprimento da decisão judicial.
+Assinala, nesse sentido, que a multa aplicada à parte recorrida não poderia ter sido afastada.
+Foram apresentadas contrarrazões às fls. 489/507, e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+A Súmula nº 568 desta Corte dispõe que "relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Inicialmente, quanto às alegações de ofensa ao art. 489, § 1º, IV, do Código de Processo Civil de 2015, verifico que essas não merecem prosperar. Isso porque, consoante entendimento consolidado desta Corte, o recorrente não possui o direito de ter todos os argumentos alegados rebatidos, cabendo ao tribunal analisar e debater as questões principais para o deslinde da controvérsia.
+Ademais, verifico que o Tribunal de origem analisou expressamente as questões levantadas pela parte recorrente, de modo que não configura omissão ou negativa de prestação jurisdicional o fato de o acórdão ter sido proferido em sentido contrário ao desejado por ela.
+Dessa forma, tendo a decisão analisado de forma fundamentada as questões trazidas, não há que se falar nos vícios apontados, nos termos do acórdão cuja ementa transcrevo abaixo:
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ARTS. 489 E 1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA. JULGAMENTO ULTRA PETITA. EXCESSO. EXTIRPAÇÃO. POSSIBILIDADE. NÃO PROVIMENTO.
+1. O acórdão recorrido analisou todas as questões necessárias ao deslinde da controvérsia, não se configurando ausência de fundamentação na prestação jurisdicional.
+2. A decisão que julga além dos limites da lide não precisa ser anulada, devendo ser eliminada a parte que constitui o excesso. Precedentes.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1339385/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 9/4/2019, DJe 12/4/2019)
+O Tribunal de origem reconheceu a tempestividade do recurso, expondo os seguintes fundamentos (fls. 394/395, e-STJ):
+Em contrarrazões (mov. 40.1 - TJ), as partes agravadas defenderam que o presente recurso não merece conhecimento, pois intempestivo, considerando que não houve a interposição, em momento oportuno, pelo Facebook do recurso devido em relação às decisões dos movs. 15.1 e 33.1, operando-se a estabilidade da tutela de urgência concedida em seu favor.
+Pois bem, extrai-se dos autos que a magistrada concedeu a tutela de urgência em 25/03/2021, determinando (mov. 15.1) que o Facebook reativasse a conta da agravada no prazo de 48 (quarenta e oito) horas, sob pena de aplicação de multa diária no valor de R$ 2.000,00 (dois mil reais). No dia 05/04/21 o Facebook foi citado e opôs embargos de declaração dentro de seu prazo legal (mov. 26.1), informando a necessidade de apresentação de e-mail seguro para o cumprimento da obrigação. Estes embargos foram desprovidos e, ainda, nele decidiu-se pela majoração das astreintes para R$ 3.000,00 (três mil reais) (mov. 33.1), ocorrendo a confirmação da intimação do agravante em 29/04/2021 (mov.38).
+Depois, as partes peticionaram informando o cumprimento da liminar (movs. 47 e 48) e sobreveio decisão com a apuração do valor devido (mov.
+50.1). Irresignado, o Facebook opôs novos embargos declaratórios (mov. 58.1), que também foram rejeitados (mov. 80.1), obtendo-se a confirmação da intimação dele em 29/09/2021 (mov. 87.1). Diante do desprovimento de suas objeções em primeiro grau de jurisdição, o Facebook interpôs em 20/10/2021 o presente agravo de instrumento, isto é, dentro do prazo de 15 (quinze) dias úteis, contados a partir de sua última intimação.
+Verifica-se, portanto, que não há óbice para a análise recursal em relação à periodicidade da multa vincenda, pois o montante devido foi estabelecido pela decisão mov. 50.1, de modo que subsiste o direito do agravante em discutir a matéria, encontrando-se atendido o pressuposto da tempestividade.
+Logo, considerando que o agravante também pretende a redução do período de aplicação das astreintes e que não se encontra precluso seu direito de discutir esta matéria, merece conhecimento o recurso.
+Constou, ademais, do acórdão que julgou os embargos de declaração (fls. 471/472, e-STJ):
+Cabe frisar que, apesar do agravante ter apontado as decisões de fls. 60/62 e fls. 108/109, ao analisar a tempestividade, contou o prazo recursal de 15 (quinze) dias úteis a partir das decisões de mov. 50.1 e 80.1, vejamos:
+(..)
+Não obstante, impugnou reiteradamente o montante de R$73.000,00 (setenta e três mil reais), os quais somente foram fixados pelo magistrado singular, a título de astreintes, pelo mov. 50.1. Nesse sentido, extrai-se da exordial do agravo de instrumento:
+(..)
+Logo, conforme bem ponderado no acórdão vergastado, não há que se reconhecer a intempestividade recursal.
+Não prosperam as alegações de violação ao art. 304, § 2º do Código de Processo Civil, sob o argumento de ocorrência de preclusão, uma vez que, conforme jurisprudência deste Superior Tribunal de Justiça, "a decisão que comina astreintes não preclui, não fazendo tampouco coisa julgada" (REsp n. 1.333.988/SP, relator Ministro Paulo de Tarso Sanseverino, Segunda Seção, julgado em 9/4/2014, DJe de 11/4/2014.)
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. AÇÃO DE MANUTENÇÃO DE CONTRATO DE SEGURO DE VIDA. CUMPRIMENTO DE SENTENÇA. PEDIDO DE INCIDÊNCIA DE ASTREINTES. AGRAVO DE INSTRUMENTO. RECONHECIMENTO PELO TJPR DE AUSÊNCIA DE DESCUMPRIMENTO DA DECISÃO JUDICIAL. RECURSO ESPECIAL E EXTRAORDINÁRIO. INTERPOSIÇÃO PELO SEGURADO. INADMISSÃO. ART. 1.030, I, a, NCPC. AGRAVO INTERNO. INDEFERIMENTO. IMPETRAÇÃO DE WRIT. INDEFERIMENTO. DECADÊNCIA. AUSÊNCIA DE COMPROVAÇÃO DO DIREITO LÍQUIDO E CERTO INVOCADO. RECURSO ORDINÁRIO A QUE SE NEGOU PROVIMENTO. MANUTENÇÃO DA DECISÃO AGRAVADA. AGRAVO INTERNO NÃO PROVIDO.
+1. Este agravo interno foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O mandado de segurança foi denegado por ausência de teratologia e de ilegalidade manifesta.
+3. Ainda que se considerasse que o writ não foi atingido pela decadência, pois as decisões objeto da impetração são todas desdobramentos do primeiro acórdão que proveu o agravo de instrumento de MAPFRE em desfavor de CALISTO, o ato judicial não pode ser considerado juridicamente absurdo ou manifestamente ilegal.
+4. É entendimento pacífico no STJ que a questão atinente a fixação e exigibilidade das astreintes é de ordem pública e, por isso, não se sujeita a preclusão. (Nesse sentido: AgInt nos EDcl no REsp n. 1.737.829/SP, de minha relatoria, Terceira Turma, julgado em 4/5/2020, DJe de 7/5/2020).
+5. Ademais, a Corte Especial do STJ já se pronunciou no sentido de que o agravo interno é o único recurso cabível contra a decisão que inadmite recurso extraordinário, com fundamento no art. 1.030, I, a, CPC/15, sendo causa de esgotamento de jurisdição (ARE no AgInt no RE nos EDcl no AgRg no REsp 1.532.329 - SP, rel. Min. HUMBERTO MARTINS, j. 19.4.2017).
+6. Agravo interno que não trouxe argumentos bastantes e suficientes para infirmar os fundamentos da decisão agravada, sendo, portanto, improcedente.
+7. Agravo interno desprovido.
+(AgInt nos EDcl no RMS n. 65.199/PR, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 9/11/2022, DJe de 11/11/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO. INSURGÊNCIA RECURSAL DA AGRAVANTE.
+1. A parte agravante refutou, nas razões do agravo em recurso especial, a aplicação da Súmula 7/STJ, não incidindo, portanto, o óbice da Súmula 182/STJ.
+2. O acórdão do Tribunal de origem encontra-se em harmonia com o entendimento de há muito consolidado no STJ, no sentido de que em virtude de permissão contida no art. 537, §1º, do CPC/2015 (art. 461 do CPC/1973) o magistrado pode, a qualquer tempo, e mesmo de ofício ou a requerimento da parte, afastar ou alterar tanto o valor quanto a periodicidade das astreintes, em caso de ineficácia ou insuficiência ao desiderato de compelir o devedor ao cumprimento da obrigação, ou ainda quando este se tornar insuficiente ou excessivo, mesmo depois de transitada em julgado a sentença, não havendo espaço para falar em preclusão ou em ofensa à coisa julgada. Incidência da Súmula 83/STJ.
+2.2. A ausência de enfrentamento da matéria objeto da controvérsia pelo Tribunal de origem, não obstante a oposição de embargos de declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento.
+Incidência da Súmula 211 do STJ.
+3. Agravo interno provido para reconsiderar a decisão da Presidência e, de plano, conhecer do agravo para negar provimento ao recurso especial.
+(AgInt no AREsp n. 2.052.428/DF, relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/9/2022, DJe de 29/9/2022.)
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
