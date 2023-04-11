@@ -1,0 +1,24 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+O MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO interpõe agravo regimental contra a decisão de fls. 397-402, na qual conheci do agravo e dei provimento ao recurso especial a fim de reduzir a reprimenda imposta ao réu e torná-la definitiva em 1 ano e 8 meses de reclusão e pagamento de 166 dias-multa.
+Nas razões de pedir, o Parquet aduz que, além da quantidade de drogas, as circunstâncias do caso concreto são suficientes para afastar a incidência da minorante do tráfico.
+Pleiteia, caso não haja reconsideração da decisão anteriormente proferida, seja o feito submetido à apreciação do órgão colegiado.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. QUANTIDADE DE DROGAS APREENDIDAS. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Por ocasião do julgamento do REsp n. 1.887.511/SP (Rel. Ministro João Otávio de Noronha, DJe 1º/7/2021), a Terceira Seção desta Corte Superior de Justiça decidiu que a utilização supletiva dos elementos relativos à natureza e à quantidade de drogas apreendidas, na terceira fase da dosimetria, para fins de afastamento do redutor previsto no art. 33, § 4º, da Lei n. 11.343/2006, somente pode ocorrer quando esse vetor seja conjugado com outras circunstâncias do caso concreto que, unidas, caracterizem a dedicação do agente à atividade criminosa ou à integração a organização criminosa, o que não aconteceu no caso.
+2. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Não obstante o esforço do agravante, os argumentos apresentados são insuficientes para infirmar a decisão agravada, cuja conclusão mantenho.
+Para a aplicação da minorante prevista no § 4º do art. 33 da Lei de Drogas, é exigido, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa nem se dedique a atividades delituosas. Isso porque a razão de ser da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 é justamente punir com menor rigor o pequeno traficante.
+A propósito, confira-se o seguinte trecho de voto deste Superior Tribunal: "Como é cediço, o legislador, ao instituir o referido benefício legal, teve como objetivo conferir tratamento diferenciado aos pequenos e eventuais traficantes, não alcançando, assim, aqueles que fazem do tráfico de entorpecentes um meio de vida." (HC n. 437.178/SC, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 11/6/2019).
+No caso, o Tribunal de origem afastou a incidência da minorante considerando a quantidade de drogas apreendidas e a confissão do acusado.
+Entretanto, faço o registro que, em sessão realizada no dia 9/6/2021, por ocasião do julgamento do REsp n. 1.887.511/SP (Rel. Ministro João Otávio de Noronha, DJe 1º/7/2021), a Terceira Seção desta Corte Superior de Justiça decidiu que:
+ ..  7. A utilização concomitante da natureza e da quantidade da droga apreendida na primeira e na terceira fases da dosimetria, nesta última para descaracterizar o tráfico privilegiado ou modular a fração de diminuição de pena, configura bis in idem, expressamente rechaçado no julgamento do Recurso Extraordinário n. 666.334/AM, submetido ao regime de repercussão geral pelo Supremo Tribunal Federal (Tese de Repercussão Geral n. 712).
+8. A utilização supletiva desses elementos para afastamento do tráfico privilegiado somente pode ocorrer quando esse vetor seja conjugado com outras circunstâncias do caso concreto que, unidas, caracterizem a dedicação do agente à atividade criminosa ou à integração a organização criminosa.
+Além disso, pela análise do autos noto que o acusado confessou apenas que entregaria a droga a terceiro mediante remuneração, o que demonstra a ocorrência do tráfico em si, mas não caracteriza a habitualidade. Aliás, não posso deixar de mencionar que o Juiz de primeiro grau, que teve contato direto com as provas dos autos, entendeu presentes os requisitos para a incidência do privilégio.
+Entendo, assim, que não há fundamentos nos autos a justificar o afastamento do privilégio do tráfico, em especial porque, ao tempo do delito, o réu era tecnicamente primário e possuidor de bons antecedentes e que, no contexto da prisão em flagrante, não foram apreendidos outros apetrechos destinados à traficância, anotações relativas ao comércio reiterado de drogas, rádio transmissor ou balança de precisão.
+À vista do exposto, nego provimento ao agravo regimental.
