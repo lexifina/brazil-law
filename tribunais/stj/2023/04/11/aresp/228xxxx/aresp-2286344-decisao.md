@@ -1,0 +1,16 @@
+DECISÃO
+Na origem trata-se de agravo de instrumento contra decisão rejeitou exceção de pré-executividade. No Tribunal a quo a decisão foi mantida.
+O recurso es pecial foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, contra acórdão com o seguinte resumo de ementa:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. MUNICÍPIO DO RIO DE JANEIRO. COBRANÇA DE IPTU REFERENTE AOS EXERCÍCIO DE 2002 A 2004. DECISÃO REJEITANDO A SEGUNDA EXCEÇÃO DE PRÉ EXECUTIVIDADE APRESENTADA PELO EXECUTADO, COM FULCRO NO ARTIGOS 505 E 507 DO CPC. IRRESIGNAÇÃO. EXCIPIENTE QUE APRESENTA SEGUNDA EXCEÇÃO DE PRÉ-EXECUTIVIDADE PARA DISCUTIR QUESTÕES JÁ ANALISADAS PELO JUÍZO A QUO NO JULGAMENTO DA PRIMEIRA EXCEÇÃO APRESENTADA. PRECLUSÃO. DECISÃO MANTIDA. RECURSO AO QUAL SE NEGA PROVIMENTO.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+Ora, em que pese na primeira exceção de pré-executividade apresentada pelo ora Agravante tenha ele alegado, exclusivamente, a prescrição do crédito tributário, certo é que o Magistrado de primeiro grau, ao rejeitá-la, analisou incidentalmente a questão da arrematação. Vejamos trechos da decisão(index26 - autos originários):
+(..)
+Conforme salientado na decisão acima, a praça do imóvel ocorreu com a expressa sub-rogação das dívidas de IPTU e taxas por parte do ora Agravante (arrematante), dívidas essas que foram incluídas no lance de arrematação, de modo que, assim, ocorreu ali a novação e reconhecimento da dívida por parte do próprio Agravante, sendo ele, portanto, desde então, o responsável pelo pagamento do débito exequendo.
+Destarte, como se pode verificar, com a oposição de nova exceção de pré-executividade, o Agravante pretende a rediscussão de questões que já foram analisadas pelo juiz de primeiro grau e, inclusive, por este Tribunal de Justiça nos autos do citado Agravo de Instrumento de nº 0010797-06.2018.8.19.0000 motivo pelo qual deve ser mantida a decisão ora atacada que rejeitou a nova exceção de pré-executividade com fulcro nos artigos 505 e 507 do CPC.
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Ademais, o reexame do acórdão recorrido, em confronto com as razões do recurso especial, revela que o fundamento apresentado naquele julgado, de que "o Agravante pretende a rediscussão de questões que já foram analisadas pelo juiz de primeiro grau", utilizado de forma suficiente para manter a decisão proferida no Tribunal a quo, não foi rebatido no apelo nobre. Desse modo, a ausência de impugnação específica às razões de decidir adotadas pelo acórdão objurgado atraem os óbices das Súmulas n. 283 e 284, ambas do STF.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
