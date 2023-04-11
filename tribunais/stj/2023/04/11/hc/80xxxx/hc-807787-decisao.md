@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de RENATO ALEF VENANCIO apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (Apelação Criminal n. 1.0000.22.097903-3/001).
+Consta dos autos que o paciente foi condenado, em primeiro grau, à pena de 8 (oito) meses de reclusão, em regime semiaberto, além de 3 (três) dias-muita, pela prática do delito previsto no art. 155, § 4º, incisos II e IV, c/c o art. 14, inciso II, ambos do Código Penal.
+Interposta apelação pela defesa, o Tribunal de origem negou provimento ao recurso, cujo acórdão foi assim ementado (e-STJ fl. 28):
+APELAÇÃO CRIMINAL - FURTO QUALIFICADO TENTADO -MATERIALIDADE E AUTORIA INCONTROVERSAS - DECOTE DA QUALIFICADORA DAESCALADA - INVIABILIDADE - PRESCINDIBILIDADE DE REALIZAÇÃO DE LAUDO PERICIAL - COMPROVAÇÃO POR OUTROS MEIOS DE PROVA - ESFORÇO INCOMUM EVIDENCIADO. - A realização de exame técnico não se mostra indispensável para a comprovação da qualificadora da escalada, que pode ser demonstrada por outros meios de prova, especialmente a prova oral.-Evidenciado que os acusados se valeram de vias anormais e de esforço incomum para ter acesso à "res furtiva", inviável o decote da qualificadora da escalada.
+Daí o presente writ, no qual sustenta a defesa a ausência de laudo pericial para comprovação da qualificadora da escalada.
+Requer, ao final, a exclusão da mencionada qualificadora, com a consequente redução da pena.
+O Ministério Público Federal opinou pela denegação da ordem (e-STJ fls. 51/54).
+É o relatório. Decido.
+O Superior Tribunal de Justiça firmou orientação de ser imprescindível, nos termos dos arts. 158 e 167 do Código de Processo Penal, a realização de exame pericial para o reconhecimento das qualificadoras de escalada e arrombamento no caso do delito de furto (art. 155, § 4º, II, do CP), quando os vestígios não tiverem desaparecido e puderem ser constatados pelos peritos.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO. ROMPIMENTO DE OBSTÁCULO. AUSÊNCIA DE PROVA PERICIAL. EXCEPCIONALIDADE NÃO DEMONSTRADA. COMPROVAÇÃO POR OUTROS MEIOS DE PROVA. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O reconhecimento da qualificadora do rompimento de obstáculo exige a realização de exame pericial, o qual somente pode ser substituído por outros meios probatórios quando inexistirem vestígios, o corpo de delito houver desaparecido ou as circunstâncias do crime não permitirem a confecção do laudo.
+2. Na hipótese, é incontroverso que não foi realizado exame pericial para atestar o rompimento do obstáculo. Ademais, os motivos apresentados pelas instâncias antecedentes não demonstraram nenhuma excepcionalidade que justificasse a sua ausência, haja vista que suposta demora ou impedimento para a realização do exame nem sequer foram comprovados.
+3. Agravo regimental não provido.
+(AgRg no AREsp 1812415/AL, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 16/03/2021, DJe 22/03/2021.)
+AGRAVO REGIMENTAL EM AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PENAL. CRIME DE FURTO QUALIFICADO PELO ROMPIMENTO DE OBSTÁCULO. EXAME PERICIAL NÃO REALIZADO. INEXISTÊNCIA DE JUSTIFICATIVAS PARA A NÃO REALIZAÇÃO DO EXAME. IMPRESCINDIBILIDADE DA PROVA TÉCNICA. MANUTENÇÃO DA DECISÃO AGRAVADA.
+1. No julgamento do REsp n. 1.320.298/MG, a Sexta Turma desta Corte Superior examinou a possibilidade de, em razão das particularidades do caso concreto e em respeito ao sistema de livre apreciação da prova, reconhecer a incidência da qualificadora da escalada nos delitos de furto quando sua ocorrência for incontroversa nas provas colhidas nos autos, a despeito da ausência de laudo pericial que a ateste. Na oportunidade - na qual fiquei vencido -, firmou-se o entendimento de que o exame pericial é imprescindível para a configuração da qualificadora da escalada (AgRg no REsp n. 1.551.741/MG, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 15/3/2016). Precedente que se aplica à qualificadora pelo rompimento de obstáculos.
+2. Portanto, consolidou-se o entendimento de que, mesmo quando a ocorrência da qualificadora do rompimento de obstáculos for incontroversa nos autos, como afirma o Parquet, faz-se imprescindível prova técnica para configuração da qualificadora.
+3. Agravo regimental improvido.
+(AgRg no AgRg no REsp 1739964/RS, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 09/10/2018, DJe 31/10/2018.)
+Na hipótese, o acórdão recorrido não justifica a falta da perícia. Apenas discorre sobre a possibilidade de comprovação da qualificadora por outros meios de prova.
+Logo, imperioso afastar a qualificadora e, assim, manter a condenação do paciente pelo crime de furto qualificado pelo concurso de pessoas na forma tentada (art. 155, § 4º, inciso IV, c/c o art. 14, inciso II, ambos do CP).
+Contudo, ainda que excluída a qualificadora referente à escalada, a pena permanece inalterada, porquanto mantida a qualificadora referente ao concurso de pessoas (inciso IV).
+Ante o exposto, concedo parcialmente a ordem de habeas corpus para afastar a qualificadora prevista no inciso II do § 4º do art. 155 do CP, desclassificando a condenação do paciente para o delito previsto no art. 155, § 4º, inciso IV, c/c o art. 14, inciso II, ambos do CP, e mantendo os demais termos da condenação.
+Publique-se. Intimem-se.
