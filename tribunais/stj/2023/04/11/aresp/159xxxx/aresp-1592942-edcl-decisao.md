@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se  de  embargos  de  declaração  opostos  por PRISCILLA GUAZZI AZZOLINI  contra a decisão  assim  ementada:
+PROCESSO CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL EXTINTA EM VIRTUDE DO RECONHECIMENTO DA PRESCRIÇÃO INTERCORRENTE. IMPOSSIBILIDADE DE CONDENÇÃO DA FAZENDA PÚBLICA EM HONORÁRIOS ADVOCATÍCIOS. PRINCÍPIO DA CAUSALIDADE. IMPOSSIBILIDADE DE EXCLUSÃO, NA HIPÓTESE DOS AUTOS, DIANTE DA VEDAÇÃO DA NON REFORMATIO IN PEJUS. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL DO CONTRIBUINTE (fl. 548).
+Sustenta a parte embargante contradição no julgado visto que, nos termos da jurisprudência invocada na decisão recorrida, a dispensa de honorários ocorre apenas quando não houver localização de bens penhoráveis, hipótese não configurada nos autos.
+Requer,  por  fim,  o  acolhimento  dos  embargos  de  declaração  com  efeitos  infringentes.
+Não foi apresentada impugnação ao recurso (fl. 561).
+  É o relatório.
+Em que pese a aparente contradição apontada pela embargante, o simples fato de terem sido localizados bens penhoráveis, cuja constrição foi cancelada na origem, não interfere no raciocínio desenvolvido por esta Corte Superior de Justiça de que os ônus de sucumbência devem ser suportados por quem deu causa ao ajuizamento da ação, de modo que, nos casos em que a execução fiscal é extinta com fundamento na prescrição intercorrente, o princípio da causalidade atua contra a parte executada. A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. EXECUÇÃO FISCAL. MULTA AMBIENTAL. PRESCRIÇÃO INTERCORRENTE. HONORÁRIOS SUCUMBENCIAIS. PRINCÍPIO DA CAUSALIDADE. IMPOSSIBILIDADE DE CONDENAÇÃO DA FAZENDA PÚBLICA.
+1. A jurisprudência desta Corte de Justiça trilha no sentido da impossibilidade de condenação da Fazenda Pública ao pagamento de honorários sucumbenciais nas hipóteses de extinção do processo executivo em razão da prescrição intercorrente, ainda que oferecida exceção de pré-executividade.
+2. "O reconhecimento da prescrição intercorrente não infirma a existência das premissas que autorizavam o ajuizamento da execução, relacionadas com a presunção de certeza e liquidez do título executivo e com a inadimplência do devedor, de modo que é inviável atribuir ao credor os ônus sucumbenciais com fundamento no princípio da causalidade, sob pena de indevidamente beneficiar a parte que não cumpriu oportunamente com a sua obrigação" ( AgInt no REsp 1.849.437/SC , Rel. Ministro Gurgel De Faria, Primeira Turma, DJe de 28/10/2020).
+3. Agravo interno não provido. (AgInt no REsp n. 1.993.985/MG, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 6/3/2023, DJe de 9/3/2023.)
+Como se vê, o inconformismo da parte embargante não se enquadra nas hipóteses de cabimento dos embargos de declaração, previstas no art. 1.022 do CPC/2015. O que se observa é uma tentativa de renovar a discussão sobre questão que já foi decidida de maneira fundamentada, o que não é possível por meio dos embargos de declaração.
+Rever as matérias aqui alegadas acarretaria rediscutir entendimento já manifestado e devidamente embasado. Os embargos declaratórios não se prestam à inovação, à rediscussão da matéria tratada nos autos ou à correção de eventual error in judicando.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
