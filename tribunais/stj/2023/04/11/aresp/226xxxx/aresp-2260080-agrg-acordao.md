@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+PAULO SOARES BRANDÃO agrava de decisão de minha relatoria em que conheci do agravo para não conhecer do recurso especial e, dessa forma, mantive integralmente sua condenação pelo crime previsto no art. 171, § 3º, do Código Penal.
+O agravante reitera a premissa de omissão do julgado ao aduzir que "se o Tribunal a quo tivesse analisado e valorizado a prova judicial certamente daria diferente solução ao caso" (fl. 1.817). Aduz que a pretensão absolutória não implica reexame probatório, mas apenas revaloração jurídica da prova. Aponta, ainda, a desproporcionalidade do aumento da pena-base em decorrência da avaliação desfavorável da vetorial culpabilidade. Por fim, reafirma a existência de dissídio jurisprudencial, no tocante à ausência de dolo na conduta.
+Pleiteia a reconsideração do decisum ou o julgamento do agravo regimental pelo colegiado.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ESTELIONATO PREVIDENCIÁRIO. AUSÊNCIA DE OMISSÃO NO ACÓRDÃO. PRETENSÃO ABSOLUTÓRIA. SÚMULA N. 7 DO STJ. CULPABILIDADE. FUNDAMENTAÇÃO IDÔNEA. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. AUSÊNCIA DE SIMILITUDE FÁTICA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A pretensão de rediscussão da matéria decidida desfavoravelmente não autoriza a oposição dos aclaratórios. Não há omissão no julgado de origem que justifique a anulação do acórdão que examinou os embargos de declaração.
+2. As teses absolutórias fundamentadas na insuficiência da prova para a condenação implicam a necessidade de revolvimento fático-probatório dos autos, procedimento vedado, em recurso especial, pelo disposto na Súmula n. 7 do STJ.
+3. A elaboração de sofisticado esquema, com a participação de diversas pessoas em cada etapa, o fato de as vítimas serem pessoas idosas e sem instrução, além do emprego, por parte do réu, dos conhecimentos técnicos decorrentes de sua condição de advogado, justificam a exasperação da pena-base, inclusive acima da fração de referência de 1/6.
+4. O dissídio jurisprudencial não foi demonstrado, pois o paradigma está lastreado em premissa (insuficiência da prova do dolo específico) não reconhecida no acórdão impugnado. Assim, não há similitude fática que permita a avaliação da incidência jurídica.
+5. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+A despeito dos esforços perpetrados pelo insurgente, não verifico fundamento suficiente a infirmar a decisão agravada, cuja conclusão mantenho.
+A decisão ora impugnada foi estabelecida nos seguintes termos (fls. 1.794-1.798):
+ ..
+Decido.
+I. Não admissibilidade do recurso especial
+A defesa apontou omissão no julgado de origem em virtude da ausência de análise do depoimento, em juízo, do corréu que seria apto a afastar a participação do acusado no ilícito. Também alegou a incompatibilidade do dolo eventual em vista do disposto na instrução normativa do INSS (art. 624, § 3º, da IN n. 20/2007) que disciplinava a conferência dos documentos apresentados nos requerimentos dos benefícios.
+Sobre a autoria e a materialidade delitivas, o acórdão recorrido consignou o seguinte (fls. 1.462-1.464, destaquei):
+ ..
+A autoria de OZÉLIA NOGUEIRA, PAULO THOMAZ DE AQUINO e PAULO SOARES BRANDÃO restou satisfatoriamente demonstrada.
+O depoimento de Altina de Freitas Medeiros, tanto em sede policial quanto em Juízo, é convergente no sentido de que OZÉLIA NOGUEIRA foi a responsável por providenciar a documentação para instruir o pedido de seu benefício previdenciário.
+Por seu turno, OZÉLIA afirmou, tanto perante a Autoridade Policial quanto ao Magistrado ,que auxiliava PAULO THOMAZ, angariando pessoas a quo interessadas em benefícios previdenciários para o escritório dele. Afirmou ainda que PAULO THOMAZ lhe entregava os formulários, necessários para o requerimento, em branco e que os segurados os assinavam sem preencher.
+Não obstante OZÉLIA afirme que desconhecia a fraude, sua versão não se sustenta ante suas próprias declarações. A apelante sabia que os documentos eram assinados pelos segurados em branco, sem que houvesse qualquer explicação para eles das condições necessárias e dos procedimentos adotados para solicitação do benefício.
+Não obstante afirme nunca ter trabalhado com PAULO THOMAZ, somente esporadicamente o indicando a conhecidos que queriam se aposentar, nada recebendo por isso, não é crível que aceitou receber depósito de clientes do escritório para, posteriormente, os repassar a PAULO THOMAZ sem que houvesse entre os dois um ele muito mais forte do que o de meros conhecidos.
+Nesse sentido, OZÉLIA confirmou que recebia, na conta bancária de sua ex-cunhada, ROSEMEIRE SALVATERRA, os pagamentos de alguns clientes de PAULO. E Altina afirmou, tanto no inquérito policial quanto perante o Juízo, que pagou pelos serviços de OZÉLIA através de depósitos na conta poupança de propriedade de ROSEMEIRE.
+Resta claro que OZÉLIA e PAULO, de comum acordo, prestavam serviços na área de concessão de benefícios previdenciários e que, quando se deparam com o interesse de Altina Medeiros por receber benefícios previdenciários, mas cientes da ausência do preenchimento dos requisitos por ela, instruíram seu requerimento de LOAS com informações falsas. E assim procederam a fim de receberem vantagem consistente no pagamento pelos "serviços prestados".
+A autoria de PAULO THOMAZ resta comprovada pelas declarações de OZÉLIA e pelo próprio contexto do caso. OZÉLIA trabalhava para PAULO THOMAZ, esse lhe entregava os formulários necessários para requerimento do benefício em branco; esses formulários eram repassados aos segurados, que somente os assinava, nada preenchendo.
+Após a devolução dos formulários, agora pelos "clientes", PAULO THOMAZ, conjuntamente com OZÉLIA, buscavam nos arredores do bairro do escritório e da residência de OZÉLIA pessoas que preenchessem os documentos e concedessem declarações de endereço ideologicamente falsas.
+Após, PAULO THOMAZ os entregava pessoalmente no escritório de PAULO SOARES BRANDÃO, advogado para quem trabalhava como intermediário. A relação entre os dois foi confirmada pelos próprios réus, que, no entanto, negam ter conhecimento da fraude.
+A alegação de PAULO THOMAZ de que não trabalhou no pedido de benefício de Altina Medeiros, não se sustenta. Ele era o único elo entre OZÉLIA, que foi contratada por Altina, e PAULO SOARES BRANDÃO, que agiu como procurador no requerimento de benefício de Altina mesmo que nunca tenha tido qualquer tipo de contato com a segurada, como se infere do depoimento de Altina.
+Friso que, ouvidos em Juízo, PAULO SOARES e OZÉLIA negaram conhecer um ao outro, mas ambos confirmaram conhecer PAULO THOMAZ e com ele guardar relação profissional.
+Portanto, somente com a conduta de PAULO THOMAZ é que os documentos chegaram as mãos do advogado PAULO SOARES.
+Esse, embora negue, tinha plena consciência da fraude.
+Conforme consta do Relatório da "Operação Ostrich", PAULO THOMAZ, quando ouvido no bojo do inquérito policial nº 264/2015, esclareceu que o procedimento de instrução de requerimentos e concessão de benefícios assistenciais pelo INSS fora idealizado pelo advogado PAULO BRANDÃO SOARES, que teria, inclusive, orientado PAULO THOMAZ a solicitar que os requerentes do LOAS assinassem os formulários de requerimento sem que os mesmos estivessem preenchidos, de modo a preenchê-los, se necessário, com informações falsas (ID.
+154157685 - fl. 62).
+O acordo entre ambos visava aumentar os lucros da prestação de serviços, uma vez que o pagamento pelos segurados a PAULO THOMAZ, e desse para PAULO SOARES, somente ocorria se o benefício fosse concedido. Em conluio, os corréus elaboraram um esquema que aumentava as chances de aprovação pelo INSS:
+captavam pessoas idosas e sem instrução, as convencia de que teriam direito a benefício do INSS - muitos acreditando que estavam se aposentando -, colhiam assinaturas em documentos em branco ou previamente preenchidos por terceiros e obtinham declarações de endereço ideologicamente falsas, bem como cooptavam pessoas para preencher os formulários com dados falsos.
+Esse foi o procedimento adotado no requerimento do benefício de Altina Medeiros e, embora, PAULO SOARES alegue que recebia os documentos já preenchidos e, portanto, não teria condições de averiguar a veracidade de cada requerimento e declaração, sua versão é pouco crível. Em sede policial, o acusado afirmou que ao receber os documentos fazia conferência dos mesmos (ID.
+154157686 - fl. 128) e é pouco provável que, sendo um advogado experiente, não percebesse que a documentação apresentada por PAULO THOMAZ possuía quase sempre as mesmas letras e, recorrentemente, apontavam endereços iguais ou semelhantes como sendo a residência de diversos requerentes.
+Friso que no IPL nº 0255/2015, restou constatado no laudo de perícia criminal federal nº 4657/2015, que um dos requerimentos de benefícios objeto de investigação - requerido com o mesmo - apresentava manuscritos modus operandi convergentes com o punho subescritor de PAULO THOMAZ DE AQUINO, mas também com o de PAULO SOARES BRANDÃO (ID. 154157685 - fl. 64).
+Sendo assim, comprovados a autoria, o dolo e a materialidade delitiva, mantenho as condenações dos acusados PAULO THOMAZ DE AQUINO e OZÉLIA DE OLIVEIRA NOGUEIRA pela prática do crime do art. 171, §3º, do CP, e, acolhendo o pedido da acusação, condeno PAULO SOARES BRANDÃO nas sanções do art. 171, §3º, do Código Penal.
+A Corte de origem explicitou os elementos pelos quais entendeu comprovados a autoria e o dolo na conduta imputada ao agravante. Com relação ao depoimento do corréu, observo que o acórdão recorrido atribuiu ao acusado a plena consciência da fraude e a responsabilidade de fazer a conferência dos documentos ao recebê-los, e não por ser aquele que inseria os dados falsos.
+O dolo foi imputado na forma direta e não eventual, conforme defendido pela defesa. Além disso, a instrução normativa do INSS não teria o condão de tornar atípica a conduta praticada pelo grupo. Portanto, não identifico omissão relevante que possa justificar a anulação do acórdão que julgou os embargos de declaração.
+As teses absolutórias fundamentadas na insuficiência da prova para a condenação implicam a necessidade de revolvimento fático-probatório dos autos, procedimento vedado, em recurso especial, pelo disposto na Súmula n. 7 do STJ.
+A valoração desfavorável da vetorial culpabilidade é idônea e baseada em elementos não integrantes do tipo penal. Com efeito, a elaboração de sofisticado esquema, com a participação de diversas pessoas em cada etapa, o fato de as vítimas serem pessoas idosas e sem instrução, além do emprego, por parte do réu, dos conhecimentos técnicos decorrentes de sua condição de advogado, justificam a exasperação da pena-base, inclusive, acima da fração de referência de 1/6.
+Em situação semelhante, cito o seguinte julgado:
+ ..
+3. O fato do agente se valer da condição de advogado para a prática do crime é fundamento idôneo e permite a exasperação da pena-base. Precedentes.
+4. Agravo regimental desprovido.
+(AgRg no AREsp n. 1.650.008/SP, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 29/6/2020)
+Portanto, em relação à questão da dosimetria da pena, a pretensão é inviável pelo óbice estabelecido na Súmula n. 83 do STJ.
+O alegado dissídio jurisprudencial não foi demonstrado, pois o paradigma está lastreado em premissa (insuficiência da prova do dolo específico) não reconhecida no acórdão impugnado. Assim, não há similitude fática que permita a avaliação da incidência jurídica. Na verdade, a insurgência, nesse ponto, enseja reexame fático-probatório, a fim de afastar o dolo na conduta, o que não é possível na via eleita.
+II. Dispositivo
+À vista do exposto, conheço do agravo para não conhecer do recurso especial.
+Cumpre reiterar a inadmissibilidade do recurso especial.
+Não há omissão no julgado de origem que justifique a anulação do acórdão que examinou os embargos de declaração. A pretensão de rediscussão da matéria decidida desfavoravelmente não autoriza a oposição dos aclaratórios.
+As teses absolutórias fundamentadas na insuficiência da prova para a condenação implicam a necessidade de revolvimento fático-probatório dos autos, procedimento vedado, em recurso especial, pelo disposto na Súmula n. 7 do STJ.
+A elaboração de sofisticado esquema, com a participação de diversas pessoas em cada etapa, o fato de as vítimas serem pessoas idosas e sem instrução, além do emprego, por parte do réu, dos conhecimentos técnicos decorrentes de sua condição de advogado, justificam a exasperação da pena-base, inclusive acima da fração de referência de 1/6.
+O dissídio jurisprudencial não foi demonstrado, pois o paradigma está lastreado em premissa (insuficiência da prova do dolo específico) não reconhecida no acórdão impugnado. Assim, não há similitude fática que permita a avaliação da incidência jurídica.
+À vista do exposto, nego provimento ao agravo regimental.
