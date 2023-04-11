@@ -1,0 +1,27 @@
+DECISÃO
+Vistos.
+Trata-se de Conflito Negativo de Competência entre o JUÍZO DE DIREITO DA VARA ÚNICA DE JERUMENHA/PI e o JUÍZO DA VARA DO TRABALHO DE FLORIANO/PI em ação trabalhista objetivando o recebimento de adicional de insalubridade.
+Dispensada a remessa ao Ministério Público Federal, nos termos do art. 951, parágrafo único, do Código de Processo Civil
+Feito breve relato, decido.
+Nos termos do art. 955, parágrafo único, I, do Código de Processo Civil de 2015, combinado com o art. 34, XXII, do RISTJ, o Relator está autorizado, mediante decisão monocrática, a decidir o conflito de competência quando inadmissível, prejudicado, ou em conformidade com tese firmada em julgamento de recurso repetitivo ou de repercussão geral, incidente de assunção de competência, súmula desta Corte e do Supremo Tribunal Federal, ou jurisprudência dominante acerca do tema.
+Sublinho que o presente incidente comporta conhecimento, porquanto se trata de controvérsia instaurada entre juízos vinculados a tribunais distintos, consoante o disposto no art. 105, I, d, da Constituição da República.
+O Supremo Tribunal Federal, ao julgar ADI 3.395/DF, interpretando o inciso I do art. 114 da Constituição da República, alterado pela EC 45/2004, excluiu da expressão "relação de trabalho" qualquer interpretação que atribuísse à Justiça do Trabalho competência para apreciar causas envolvendo a Administração Pública e seus servidores, vinculados por típica relação de ordem estatutária ou de caráter jurídico-administrativo.
+Em sintonia com a jurisprudência do Supremo Tribunal Federal, a 1ª Seção desta Corte tem acolhido o entendimento segundo o qual "a competência para processar e julgar os litígios instaurados entre os agentes públicos e os entes estatais a que servem depende da natureza jurídica do vínculo entre as partes, cabendo à justiça trabalhista o exame das relações fundadas na CLT e à justiça comum, federal ou estadual, aquelas sujeitas a regime estatutário ou jurídico-administrativo" (CC 129.447/RN, 1ª S., Rel. Min. Sérgio Kukina, DJe de 30.09.2015).
+Nesse sentido:
+PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. JUÍZOS COMUM ESTADUAL E TRABALHISTA. RECLAMAÇÃO TRABALHISTA. CONTRATAÇÃO DE AGENTE PÚBLICO. LEI LOCAL QUE INSTITUI ESTATUTO DOS SERVIDORES. EVENTUAL NULIDADE DA NOMEAÇÃO. EVENTUAL DESNATURAÇÃO DO VÍNCULO JURÍDICO-ADMINISTRATIVO. NÃO OCORRÊNCIA. AGRAVO INTERNO NÃO PROVIDO.
+1. A princípio, lei local instituiu o regime jurídico dos servidores públicos como estatutário.
+2. Ademais, a contratação de pessoas pela administração pública, ainda que irregular, possui natureza de ato administrativo que atraí a competência da Justiça Comum.
+3. Agravo interno não provido.
+(AgInt no CC 170.776/SP, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 02/03/2021, DJe 04/03/2021).
+EMBARGOS DE DECLARAÇÃO NO CONFLITO NEGATIVO DE COMPETÊNCIA. CONTROVÉRSIA SOBRE A VALIDADE DE LEI LOCAL, QUE TRANSMUDOU O REGIME CELETISTA PARA O ESTATUTÁRIO. COMPETÊNCIA DA JUSTIÇA COMUM ESTADUAL. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, COM EFEITOS INFRINGENTES, PARA FIXAR A COMPETÊNCIA DA JUSTIÇA COMUM ESTADUAL.
+1. O STF, no julgamento da ADI 3.395/DF, referendou liminar anteriormente concedida, que suspendera qualquer interpretação do inciso I do art. 114 da CF/1988, alterado pela EC 45/2004, que atribuísse à Justiça do Trabalho a apreciação de causas instauradas entre o Poder Público e seus servidores, a ele vinculados por típica relação de ordem estatutária ou de caráter jurídico-administrativo.
+2. A jurisprudência desta Corte, acompanhando o STF, no sentido de que, se o vínculo estabelecido entre o Poder Público e o servidor for estatutário ou de caráter jurídico-administrativo, a competência para análise das controvérsias trabalhistas será da Justiça Comum (Estadual ou Federal).
+3. No caso concreto, a reclamante fez constar em sua inicial que passou a prestar serviços ao Município de Cocal/PI na função de Zeladora, por concurso público, a partir de 23/7/2001, na vigência da Lei 281/1993, que instituiu o Regime Jurídico Único, cuja competência para o julgamento da demanda é da Justiça Comum estadual, que é também competente para deliberar acerca da validade da norma local que cria ou modifica regime jurídico de natureza estatutária para os servidores públicos mu nicipais 4. Ante o exposto, acolho os Embargos de Declaração, com efeitos infringentes, para declarar competente para processar e julgar a demanda o JUÍZO DE DIREITO DA VARA ÚNICA DE COCAL - PI.
+(EDcl no CC 163.441/PI, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA SEÇÃO, julgado em 27/05/2020, DJe 05/06/2020)
+No caso em exame, das provas juntadas e da narrativa contida na exordial e na contestação, observa-se que a Autora exercia cargo público no regime estatutário (fl. 13e), evidenciando a natureza jurídico-administrativa do vínculo, o que atrai a competência da Justiça Comum para solucionar a controvérsia.
+Tal orientação, restou cristalizada na Súmula n. 137/STJ:
+Compete a Justiça Comum Estadual processar e julgar ação de servidor público municipal, pleiteando direitos relativos ao vinculo estatutário.
+Posto isso, nos termos do art. 955, parágrafo único, I, do Código de Processo Civil, conheço do conflito, para declarar competente o JUÍZO DE DIREITO DA VARA ÚNICA DE JERUMENHA/PI .
+Comunique-se, com urgência, aos Juízos Juízo Suscitados.
+Publique-se. Intime-se.
+Após as providências cabíveis, arquivem-se os autos.
