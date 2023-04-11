@@ -1,0 +1,18 @@
+DECISÃO
+GEANE MENEZES DA SILVA alega sofrer constrangimento ilegal em virtude de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, que não conheceu do HC n. 2034170-61.2023.8.26.0000.
+Nesta Corte, a defesa pretende seja elaborado novo cálculo de pena, "para que o período de cumprimento em PRISÃO DOMICILIAR determinado pelo Superior Tribunal de Justiça, compreendido 16.01.2019 à 04.11.2020, ou seja, por mais de 01 (um) ano e 10 (dez) meses, seja computado para fins de detração pena" (fls. 21-22).
+Decido.
+O Tribunal não conheceu do writ, nos seguintes termos:
+"Habeas Corpus" Execução da pena Decisão que indeferiu a aplicação da detração penal Inexistência de constrangimento ilegal Inadequação da via eleita Os Tribunais Superiores pacificaram o entendimento de que não se admite "Habeas Corpus" quando a lei prevê recurso próprio para impugnar a decisão proferida pelo Juízo das Execuções Criminais Matéria insuscetível de "habeas corpus" Ordem não conhecida.
+Logo, muito embora tenham sido transcritos trechos da decisão proferida pelo Juízo da execução, bem como do pleito defensivo, não houve nenhum pronunciamento sobre a alegação posta na inicial do writ por parte do Tribunal de Justiça do Estado de São Paulo. Assim, a "matéria não analisada pelo Tribunal de origem não pode ser diretamente enfrentada neste momento, sob pena de supressão de instância" (RHC n. 98.130/MG, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 16/10/2018).
+A questão foi suscitada no habeas corpus originário, que não foi conhecido porque a ação constitucional é meio impróprio para o reconhecimento da referida ilegalidade. Ocorre que a matéria, em princípio, não demanda análise profunda das provas, bastando verificar se a versão apresentada nos autos permite o reconhecimento da detração penal.
+Este Superior Tribunal de Justiça compreende que a Corte de origem sempre deve averiguar a existência ou não de ilegalidade flagrante, relacionada a questão de direito.
+Com efeito:
+II - A não manifestação do eg. Tribunal a quo sobre o mérito da impetração, na hipótese, configurou indevida negativa de prestação jurisdicional. Tratando-se de questão relevante, devidamente suscitada no writ originário, e não apreciada, devem os autos ser remetidos à eg. Corte estadual para que se pronuncie acerca da quaestio.
+III - Embora a via estreita do writ não se preste à análise aprofundada do tema debatido, é preciso que a ilegalidade prima facie seja afastada de forma fundamentada. Assim, não obstante a previsão de recurso próprio no ordenamento jurídico, é admissível a utilização do mandamus, quando a pretensão não demanda, em princípio, revolvimento de matéria probatória.
+ ..
+Ordem concedida, de ofício, para anular o v. acórdão do eg. Tribunal a quo, determinando que este aprecie, como entender de direto, a questão deduzida no mandamus originário.
+(HC n. 398.690/SC, Rel. Ministro Felix Fischer, 5ª T., DJe 10/8/2017).
+A matéria discutida pela defesa é eminentemente de direito. Assim, os autos devem retornar à origem, para que o Tribunal de Justiça analise se a questão de direito procede e se manifeste sobre a possibilidade de concessão, de ofício, da ordem.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do habeas corpus, haja vista a falta de manifestação da Corte estadual sobre o mérito da causa. Contudo, de ofício, concedo a ordem, de ofício, in limine, para determinar o retorno dos autos ao Tribunal de Justiça do Estado de São Paulo, a fim de que se pronuncie acerca da ocorrência de eventual ilegalidade do ato apontado como coator.
+Publique-se e intimem-se.
