@@ -1,0 +1,65 @@
+DECISÃO
+
+RECURSO EXTRAORDINÁRIO COM AGRAVO. CIVIL E PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO: SÚMULAS NS. 282 E 356 DESTE SUPREMO TRIBUNAL. DANO MORAL. INDENIZAÇÃO. IMUNIDADE PARLAMENTAR. NEXO DE CAUSALIDADE. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. RECURSO EXTRAORDINÁRIO COM AGRAVO AO QUAL SE NEGA PROVIMENTO.
+
+Relatório
+
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado da Primeira Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios:
+
+    “APELAÇÃO CÍVEL. CONSTITUCIONAL, DIREITO CIVIL E PROCESSUAL CIVIL. DANO MORAL. ATOS PRATICADOS POR SENADOR. OFENSAS VEICULADAS PELA INTERNET. IMUNIDADE PARLAMENTAR. ALCANCE DE LIMITAÇÕES. ATOS PRATICADOS EM FUNÇÃO DO MANDATO LEGISLATIVO. 1. De acordo com a doutrina, a imunidade parlamentar não é um privilégio concedido ao parlamentar pessoalmente; é uma garantia assegurada ao Poder Legislativo, para que funcione livre de qualquer coação. 2. A jurisprudência assinala a necessidade de se distinguir as situações em que as supostas ofensas são proferidas dentro ou fora do Parlamento. Para os casos em que a ofensa é irrogada em plenário, a imunidade parlamentar material elide a responsabilidade civil por dano moral independente de conexão com o mandato. 3. Considerando que a inviolabilidade visa garantir a independência dos membros do parlamento para permitir o bom exercício da função e proteger a integridade do processo legislativo, a proteção constitucional diz respeito às manifestações, orais ou escritas, desde que motivadas pelo desempenho do mandato (prática 'in officio') ou externadas em razão deste (prática 'propter officium') (STF - AI 818.693/MT). 4. A exigência da ‘conexão como exercício do mandato ou com a condição parlamentar’ somente será necessária se as ofensas são irrogadas fora do Parlamento (STF: INQ 390 e 1.710). 5. Tendo em vista que as manifestações do parlamentar veiculadas na Internet estão relacionadas ao exercício do mandato, contendo um teor político, e referem-se a fatos que estão sob o debate público, a conduta do Senador está acobertada pela imunidade material constitucionalmente assegurada. 6. Recurso conhecido e desprovido” (e-doc. 16).
+
+    Nos embargos de declaração opostos, que foram rejeitados (e-doc. 21), argumentou-se que o “v. acórdão embargado padece do vício da omissão, notadamente porque deixou de se manifestar sobre a incidência dos arts. 186, 927 e 953 do Código Civil” (fl. 2, e-doc. 18).
+
+    2. No recurso extraordinário, o agravante alega ter o Tribunal de origem contrariado o inc. X do art. 5º e o art. 53 da Constituição da República, ao argumento de que “o que se vê é a ausência de conexão entre as ofensas proferidas e o exercício regular do mandato parlamentar pelo recorrido. A uma porque houve ofensas voltadas a questões familiares do recorrente, em clara demonstração de perseguição pessoal. De fato, nota-se que o apelado acusa o recorrente de ser um aproveitador, alguém que enriqueceu por meio de um casamento com fins exclusivamente materiais” (fl. 11, e-doc. 26).
+
+    Sustenta que, “não bastassem as ofensas que atingem única e exclusivamente a esfera privada da vida do recorrente – que ensejam por si a reforma da sentença apelada – é de se questionar como acusações de ‘office boy picareta’, ‘de quinta’, ‘trombadinha’, ‘mala’, ‘gambá’, ‘malandrinho’, difundidas em redes sociais, estariam vinculadas ao exercício parlamentar. Em nenhuma hipótese!” (fl. 14, e-doc. 26).
+
+    3. O recurso extraordinário foi inadmitido pela incidência da Súmula n. 282 deste Supremo Tribunal (e-doc. 32).
+
+    O agravante argumenta ser “evidente que houve discussão acerca do art. 53 da Constituição Federal, o qual normatiza a imunidade parlamentar” (fl. 4, e-doc. 36).
+
+    Apreciada a matéria trazida na espécie, DECIDO.
+
+    4. Razão jurídica não assiste ao agravante.
+
+    5. A alegação de ofensa ao inc. X do art. 5º e o art. 53 da Constituição da República não foi objeto de debate e decisão prévios pelo Tribunal de origem, tampouco os embargos de declaração opostos o foram com a finalidade de comprovar ter havido, no momento processual próprio, o prequestionamento. Incidem, na espécie vertente, as Súmulas ns. 282 e 356 do Supremo Tribunal Federal. Assim, por exemplo:
+
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL E ADMINISTRATIVO. AUSÊNCIA DE PREQUESTIONAMENTO: SÚMULAS NS. 282 E 356 DESTE SUPREMO TRIBUNAL. AÇÃO POPULAR. PROGRAMA DE DESENVOLVIMENTO ECONÔMICO INTEGRADO E SUSTENTÁVEL DO DISTRITO FEDERAL – PRO-DF. LEI DISTRITAL N. 2.427/1999. DECLARAÇÃO DE INCONSTITUCIONALIDADE PELO CONSELHO ESPECIAL DO TRIBUNAL DE JUSTIÇA. VALIDADE DA MODULAÇÃO DOS EFEITOS. REVISÃO: SÚMULAS NS. 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL DESPROVIDO” (RE n. 1.406.266-AgR, de minha relatoria, Primeira Turma, DJe 24.2.2023).
+
+    “EMENTA: AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO COM AGRAVO. FUNDAMENTAÇÃO A RESPEITO DA REPERCUSSÃO GERAL. INSUFICIÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. VINCULAÇÃO DAS VERBAS DO FUNDEF/FUNDEB. LEGITIMIDADE ATIVA DA UNIÃO. COMPETÊNCIA DA JUSTIÇA FEDERAL. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM A JURISPRUDÊNCIA DESTA SUPREMA CORTE” (ARE n. 1.416.920-AgR, Relator o Ministro Alexandre de Moraes, Primeira Turma, DJe24.3.2023).
+
+    6. Ainda que fosse possível superar a ausência de prequestionamento, o que não se dá na espécie, melhor sorte não assistiria ao agravante.
+
+    No voto condutor do acórdão recorrido, o Desembargador relator assentou:
+
+    “Inicialmente, destaco que ofensas praticadas por parlamentares através da Internet, desde que em razão do mandato de Senador da República, estão acobertadas pela imunidade prevista na Constituição Federal, ainda que produzidas fora do Congresso Nacional. E, no caso em questão, verifica-se inclusive vídeos gravados pelo Senador dentro do recinto da própria Casa legislativa.
+
+    Nessas circunstâncias, verifica-se a ocorrência de nexo de causalidade entre as manifestações do recorrido e as funções parlamentares por ela exercidas, porque, mesmo os comentários acerca da vida privada do recorrente estão estritamente relacionados ao exercício do mandato, diante da possibilidade de indicação para o cargo de Ministro das Cidades e porque o autor ocupa o cargo de Secretário dos Transportes Metropolitanos do Estado de São Paulo.
+
+    Mesmos os adjetivos utilizados para se referir ao autor, conquanto deselegantes, têm meramente o objetivo de criticá-lo politicamente para o cargo almejado no governo federal, em nítida oposição parlamentar.
+
+    Portanto, todas as manifestações do recorrido estão relacionadas ao exercício do mandato, contendo um teor político, referentes a fatos que estiveram sob o debate público, qual seja, a escolha do apelante como ministro, sendo fatos de interesse da sociedade e do eleitorado. Tem-se, assim, que não resta configurada a responsabilidade civil apta a compensar os danos morais” (fls. 5-6, e-doc. 16).
+
+      Para rever o entendimento adotado pelo Tribunal de origem, seria necessário o reexame do conjunto probatório constante dos autos, procedimento incabível de ser adotado validamente em recurso extraordinário, como se tem na Súmula n. 279 do Supremo Tribunal Federal. Assim, por exemplo:
+
+    “EMENTA RECURSO EXTRAORDINÁRIO. AGRAVO INTERNO. CONSTITUCIONAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. IMUNIDADE PARLAMENTAR. AUSÊNCIA DE NEXO DE CAUSALIDADE ENTRE A MANIFESTAÇÃO E O EXERCÍCIO DO MANDATO. REEXAME DE FATOS E PROVAS. ENUNCIADO N. 279 DA SÚMULA DO SUPREMO. VERBA HONORÁRIA (CPC, ART. 85, § 11). 1. Dissentir da conclusão alcançada pelo Tribunal de origem – quanto à inviolabilidade de parlamentares, no tocante à expressão oral e escrita, no exercício do mandato e na circunscrição do Município, desde que haja relação de pertinência entre a declaração e as atividades políticas – demandaria revolvimento dos elementos fático-probatórios. Incidência do enunciado n. 279 da Súmula do Supremo. 2. Majora-se em 1% (um por cento) a verba honorária fixada na origem, observados os limites impostos, bem assim eventual deferimento da gratuidade de justiça. Disciplina do art. 85, §§ 2º, 3º e 11, do Código de Processo Civil. 3. Agravo interno desprovido” (ARE n. 1.1294.932-AgR, Relator o Ministro Nunes Marques, Segunda Turma, DJe 7.4.2022).
+
+    “EMENTA: DIREITO CIVIL. DANO MORAL. INDENIZAÇÃO. IMUNIDADE PARLAMENTAR. NEXO DE CAUSALIDADE. RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/2015. ALEGAÇÃO DE OFENSA AO ART. 53 DA CONSTITUIÇÃO DA REPÚBLICA. DEFICIÊNCIA NA DEMONSTRAÇÃO DA REPERCUSSÃO GERAL. INOBSERVÂNCIA DO ART. 1.035, §§ 1º E 2º, DO CPC/2015. REELABORAÇÃO DA MOLDURA FÁTICA. PROCEDIMENTO VEDADO NA INSTÂNCIA EXTRAORDINÁRIA. 1. Deficiência na fundamentação, em recurso extraordinário interposto sob a égide do CPC/2015, da existência de repercussão geral da questão constitucional suscitada. Inobservância do art. 1.035, §§ 1º e 2º, do CPC/2015. O preenchimento desse requisito demanda a demonstração, no caso concreto, da existência de questões relevantes do ponto de vista econômico, político, social ou jurídico que ultrapassem os interesses subjetivos do processo. A afirmação genérica da existência de repercussão geral ou a simples indicação de tema ou precedente desta Suprema Corte são insuficientes para o atendimento do pressuposto. 2. A controvérsia, conforme já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar em afronta ao preceito constitucional indicado nas razões recursais. Compreensão diversa demandaria a reelaboração da moldura fática a tornar oblíqua e reflexa eventual ofensa à Constituição, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, ‘a’, da Lei Maior, nos termos da jurisprudência desta Suprema Corte. 3. As razões do agravo não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, principalmente no que se refere à ausência de ofensa a preceito da Constituição da República. 4. Majoração em 10% (dez por cento) dos honorários anteriormente fixados, obedecidos os limites previstos no art. 85, §§ 2º, 3º e 11, do CPC/2015, ressalvada eventual concessão do benefício da gratuidade da Justiça. 5. Agravo interno conhecido e não provido” (ARE n. 1.336.507-AgR, Relatora a Ministra Rosa Weber, Primeira Turma, DJe 18.10.2021).
+
+    “Ementa: AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. IMUNIDADE PARLAMENTAR. ART 53, CAPUT, DA CONSTITUIÇÃO DA REPÚBLICA. NEXO DE CAUSALIDADE ENTRE AS OFENSAS E A FUNÇÃO PARLAMENTAR. NÃO CARACTERIZADO. REEXAME DE FATOS E PROVAS. SÚMULA 279 DO STF. PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO. 1. A jurisprudência do Supremo Tribunal Federal reconhece não ser aplicável o preceito da imunidade material quando as ofensas à honra de terceiros atribuídas a parlamentares estiverem desvinculadas das atividades políticas por eles exercidas. Precedentes. 2. Para se chegar a conclusão diversa daquela a que chegou o Tribunal de origem acerca da existência de nexo de causalidade entre o ato praticado e a função parlamentar seria necessário o reexame dos fatos e provas dos autos. Incidência da Súmula 279 do STF. 3. Agravo regimental a que se nega provimento. Nos termos do art. 85, §11, CPC, majoro em ¼ (um quarto) os honorários fixados na origem, devendo ser observados os limites dos §§ 2º e 3º do mesmo dispositivo” (ARE n. 1.321.116-AgR, Relator o Ministro Edson Fachin, Segunda Turma, DJe 30.6.2021).
+
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Constitucional. 3. Imunidade parlamentar. Vereador. Pertinência entre a manifestação e o exercício do mandato. 4. Necessidade de reexame do acervo probatório. Súmula 279 do STF. Precedentes. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento” (ARE n. 997.267-AgR, Relator o Ministro Gilmar Mendes, Segunda Turma, DJe 27.8.2018).
+
+    Nada há a prover quanto às alegações do agravante.
+
+    7. Pelo exposto, nego provimento ao recurso extraordinário com agravo (als. a e b do inc. IV do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal) e condeno a parte sucumbente, nesta instância recursal, ao pagamento de honorários advocatícios, majorados em 10%, percentual somado ao fixado na origem, respeitados os limites dos §§ 2º, 3º e 11 do art. 85 do Código de Processo Civil.
+
+    Anote-se que eventual recurso manifestamente inadmissível contra esta decisão demonstraria apenas inconformismo e resistência em pôr termo a processos que se arrastam em detrimento da eficiente prestação jurisdicional, o que sujeitaria a parte à aplicação da multa processual do § 4º do art. 1.021 do Código de Processo Civil.
+
+    Publique-se.
+
+    Brasília, 11 de abril de 2023.
+
+Ministra CÁRMEN LÚCIA
+
+Relatora
