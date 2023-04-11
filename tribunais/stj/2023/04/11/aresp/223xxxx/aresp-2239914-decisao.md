@@ -1,0 +1,5 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por VALMIRA BARROS DE ARAÚJO contra o acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo.
+Da análise das razões recursais e do acórdão recorrido, noto que a relação jurídica litigiosa, em que se discute a responsabilidade civil objetiva por danos a os consumidores (fundamentada em artigos do CDC e Código Civil), é regida pelas normas do direito privado, estando inserida entre aquelas de competência da Segunda Seção desta Corte Superior, nos termos do art. 9º, caput e § 2º, II e XIV, do Regimento Interno do Superior Tribunal de Justiça, sendo esse o critério que define a distribuição interna de competência no âmbito deste Tribunal.
+Diante do exposto, declino da competência para a apreciação do recurso e determino a devolução dos autos à Secretaria Judiciária para redistribuição do feito a uma das turmas que compõem a Segunda Seção, nos termos do art. 9º, caput e § 2º, II e XIV do Regimento Interno desta Corte.
+Publique-se. Intimações necessárias.
