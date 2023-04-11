@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, acolher os embargos, sem efeitos modificativos, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Batista Moreira (Desembargador convocado do TRF1), Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO. OMISSÃO. EIVA CONFIGURADA. PLEITO QUE NÃO REVERBERA. PEDIDO DE CONCESSÃO DE HABEAS CORPUS, DE OFÍCIO. IMPOSSIBILIDADE. EMBARGOS ACOLHIDOS, SEM EFEITOS INFRINGENTES.
+I - São cabíveis embargos declaratórios quando houver, na decisão embargada, qualquer contradição, omissão ou obscuridade a ser sanada. Podem também ser admitidos para a correção de eventual erro material, consoante entendimento preconizado pela doutrina e jurisprudência, sendo possível, excepcionalmente, a alteração ou modificação do decisum embargado.
+II - Na espécie, a omissão apontada pela parte não prospera, porquanto é descabida a postulação de habeas corpus de ofício, como sucedâneo recursal ou como forma de se tentar burlar a inadmissão do recurso próprio, tendo em vista que o seu deferimento se dá por iniciativa do próprio órgão jurisdicional, quando verificada a existência de ilegalidade flagrante ao direito de locomoção.
+Embargos de declaração acolhidos sem efeitos modificativos.
+RELATÓRIO
+Trata-se de embargos de declaração interpostos por EDERSON DE ASSIS DOS SANTOS NETTO contra acórdão da Quinta Turma, que conheceu em parte do agravo regimental para, na extensão, negar-lhe provimento (fls. 742-746).
+Nas razões deste recurso, o embargante aponta omissão ao pleito de concessão de habeas corpus de ofício na hipótese de não conhecimento da sua irresignação.
+Requer, ao final, o acolhimento dos embargos declaratórios para que seja concedido de ofício a ordem de habeas corpus, a fim de absolvê-lo.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO. OMISSÃO. EIVA CONFIGURADA. PLEITO QUE NÃO REVERBERA. PEDIDO DE CONCESSÃO DE HABEAS CORPUS, DE OFÍCIO. IMPOSSIBILIDADE. EMBARGOS ACOLHIDOS, SEM EFEITOS INFRINGENTES.
+I - São cabíveis embargos declaratórios quando houver, na decisão embargada, qualquer contradição, omissão ou obscuridade a ser sanada. Podem também ser admitidos para a correção de eventual erro material, consoante entendimento preconizado pela doutrina e jurisprudência, sendo possível, excepcionalmente, a alteração ou modificação do decisum embargado.
+II - Na espécie, a omissão apontada pela parte não prospera, porquanto é descabida a postulação de habeas corpus de ofício, como sucedâneo recursal ou como forma de se tentar burlar a inadmissão do recurso próprio, tendo em vista que o seu deferimento se dá por iniciativa do próprio órgão jurisdicional, quando verificada a existência de ilegalidade flagrante ao direito de locomoção.
+Embargos de declaração acolhidos sem efeitos modificativos.
+VOTO
+Presentes os pressupostos de admissibilidade, conheço dos embargos.
+Destaque-se, ab initio, conforme pacífica jurisprudência desta eg. Corte, que são cabíveis embargos declaratórios quando houver, na decisão embargada, qualquer contradição, omissão ou obscuridade a ser sanada. Além disso, é cediço que os embargos declaratórios não constituem recurso de revisão, sendo inadmissíveis se a decisão embargada não padecer dos vícios que autorizariam a sua interposição.
+No caso em exame, a parte aponta omissão quanto ao pleito de habeas corpus de ofício, formulado em sede de agravo regimental, em que postulava a absolvição, "ante a inadmissível inversão do ônus da prova e atipicidade de sua conduta, tendo em vista a ausência da elementar - "que sabe ser produto de crime" - prevista no artigo 180, caput, do Digesto Penal" (fl. 715).
+Vale registrar que a decisão embargada conheceu em parte da irresignação, para, na parte conhecida, negar-lhe provimento. Assim quanto ao pleito de absolvição constou o que sege na decisão agravada: "Entender de modo diverso ao que estabelecido pelo eg. Tribunal de origem para se concluir pela atipicidade da conduta demandaria, necessariamente, o revolvimento do acervo fático-probatório delineado nos autos, providência que não se coaduna com os propósitos da via eleita, nos termos da Súmula n. 7/STJ, que dispõe que "a pretensão de simples reexame de prova não enseja recurso especial" (fl. 745).
+Embora com razão quanto à eiva, não comporta acolhimento a sua pretensão. Isso porque é descabida a referida postulação, como sucedâneo recursal ou como forma de se tentar burlar a inadmissão do recurso próprio, tendo em vista que o seu deferimento se dá por iniciativa do próprio órgão jurisdicional, quando verificada a existência de ilegalidade flagrante ao direito de locomoção.
+Com efeito, "É descabido postular a concessão de habeas corpus de ofício para que sejam supridas falhas na admissibilidade, uma vez que essa medida é concedida sponte propria pelo órgão julgador, quando constata a existência de ilegalidade flagrante" (AgRg no AREsp n. 820.484/AM, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe de 14/3/2016).
+Em reforço: AgRg no AREsp n. 1.898.696/SP, Quinta Turma, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 13/10/2021; AgRg no AREsp n. 1.760.437/SC, Quinta Turma, Rel. Min. Felix Fischer, DJe de 04/03/2021; AgRg no AREsp n. 864.672/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 1/6/2016.
+Acolho os embargos declaratórios, sem empregar-lhes efeitos infringentes.
+É o voto.
