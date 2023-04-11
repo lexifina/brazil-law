@@ -1,0 +1,4 @@
+DECISÃO
+Cuida-se de carta rogatória por meio da qual a Justiça mexicana solicita que se proceda à notificação de CHRISTIANO DE MADEIROS SIQUEIRA para que lhe seja entregue pessoalmente "a cédula de notificação de Não Exercício da Ação Penal, com o número de ofício UIDPM-A-EILI-C8-222/2022, da data de 1º de junho de 2022, cujo original é anexado a este, pelo qual se faz do seu conhecimento a determinação do Não Exercício da Ação Penal, da data de 16 de maio de 2022, resolvido dentro dos autos do Expediente de Investigação FED/SDHPDSC/UNAI-TAMP/0000026/2017" (fls. 12 e 17).
+Tendo em vista que a diligência foi cumprida (certidão de fl. 132 ), determino a devolução dos autos à Justiça rogante com o cumprimento da comissão, por intermédio da autoridade central competente (art. 216-X do Regimento Interno do STJ).
+Publique-se.
