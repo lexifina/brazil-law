@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor DEBORA TALITA AGUIA DE OLIVEIRA, no qual aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, que negou provimento ao agravo em execução.
+Consta dos autos que o Magistrado de Primeiro Grau indeferiu o pedido de livramento condicional, fundamentando a ausência do requisito subjetivo, em razão do cometimento de prática de falta grave durante o cumprimento da pena. O Tribunal estadual manteve a decisão em sede de agravo em execução.
+Neste writ, alega o impetrante a inidoneidade da decisão do Magistrado singular que negou o benefício ao fundamento da existência de falta disciplinar grave já reabilitada e cujos efeitos já foram suportados.
+Aduz que atestar o bom ou mau comportamento carcerário é competência da direção da unidade prisional. Não cabe ao juiz fazer juízo de valor sobre faltas, sobretudo se já homologadas e superado o período de reabilitação, quando o Boletim Informativo juntado aos autos atesta o bom comportamento.
+Pleiteia o deferimento do benefício do livramento condicional ao paciente.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus de ofício.
+Ao manter o indeferimento do pedido de concessão de livramento condicional, o Tribunal de origem explicitou as razões de seu convencimento:
+"A meu ver, a r. decisão não comporta reparos.
+Isso porque, a sentenciada demonstra renitência na adoção de comportamentos socialmente inadequados, eis que há registro da prática de ao menos 06 faltas disciplinares no curso da execução, sendo a última delas em data recente (07/06/2022).
+Ou seja, há insistência na demonstração de comportamentos socialmente inadequados e resta evidente a não absorção da terapêutica penal.
+Sob a perspectiva do requisito subjetivo, nos termos do art. 131 da Lei de Execução Penal (LEP) e do art. 83, inciso III, "a", do Código Penal, tem-se que, ao praticar diversas faltas graves, a sentenciada não demonstrou bom comportamento durante a execução da pena, o que lhe impede de gozar do benefício ora pleiteado." (e-STJ, fl.32)
+Consolidou-se nesta Corte Superior de Justiça entendimento no sentido de que, conquanto não interrompa a contagem do prazo para fins de livramento condicional (enunciado n. 441 da Súmula do STJ), a prática de falta grave impede a concessão do aludido benefício, por evidenciar a ausência do requisito subjetivo exigido durante o resgate da pena, nos termos do art. 83, III, do Código Penal.
+O Tribunal de origem entendeu que o argumento referente à ausência de requisito subjetivo se mostra legítimo, na espécie, na medida em que se considerem o registro de faltas disciplinares de natureza grave elementos indicativos de ausência de senso de responsabilidade, a colocar séria dúvida acerca da assimilação da terapêutica penal.
+Embora o paciente tenha cumprido o requisito temporal para o livramento condicional, é sabido que o magistrado define sua convicção pela livre apreciação da prova, analisando os critérios subjetivos, in casu, diante do histórico prisional desfavorável do apenado.
+Segundo a orientação jurisprudencial desta Corte, a prática de faltas graves é indicativa da ausência de cumprimento do requisito subjetivo da progressão de regime; a circunstância de o paciente já haver se reabilitado, pela passagem do tempo, desde o cometimento das sobreditas faltas, não impede que se invoque o histórico de infrações praticadas no curso da execução penal, como indicativo de mau comportamento carcerário (AgRg no HC n. 684.918/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 20/8/2021).
+Nesse contexto, não verifico a ocorrência de flagrante ilegalidade no acórdão impugnado.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intime-se.
