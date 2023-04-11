@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interno interposto por EDP - COMERCIALIZAÇÃO E SERVIÇOS DE ENERGIA LTDA contra decisão do Ministro Manoel Erhardt (Desembargador convocado do TRF4) proferida com a seguinte ementa:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 I, II E IV, E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. DEFICIÊNCIA NA FUNDAMENTAÇÃO. APLICAÇÃO DA SÚMULA 284 DO STF. QUEDA DO CONSUMO DE ENERGIA QUE DECORRE DO ISOLAMENTO SOCIAL IMPOSTO EM VIRTUDE DA PANDEMIA DE COVID-19. ONEROSIDADE EXCESSIVA. CLÁUSULAS CONTRATUAIS. ABUSIVIDADE. REVISÃO. INVIABILIDADE. REEXAME CONTRATUAL E FÁTICO-PROBATÓRIO. ENUNCIADOS 5 E 7 DA SÚMULA DO STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. AGRAVO CONHECIDO PARA CONHECER PARTE DO RECURSO ESPECIAL DA CONCESSIONÁRIA E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+Inconformada, a parte agravante alega a incompetência das turmas que compõem a Primeira Seção desta Corte para o processamento e o julgamento de seu recurso especial, postulando a anulação da decisão agravada e a consequente redistribuição a um dos ministros que atuam na Segunda Seção.
+Alternativamente, sustenta a não incidência dos óbices das S úmulas 5 e 7/STJ.
+Impugnação às fls. 1.053/1.066.
+É o relatório.
+Conforme orientação jurisprudencial desta Corte, a competência interna das seções e turmas que integram o Superior Tribunal de Justiça tem natureza relativa, de modo que eventual incompetência deve ser suscitada anteriormente à prolação de decisão, seja ela monocrática ou colegiada, após o que ocorre a preclusão dessa questão e a sequência do julgamento de acordo com a distribuição originária. A propósito:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. COMPETÊNCIA INTERNA DO STJ. NULIDADE RELATIVA. PRECLUSÃO. RESPONSABILIDADE CIVIL. TRANSPORTE DE PASSAGEIROS. FUNDAMENTO CONSTITUCIONAL NÃO ATACADO. SÚMULA N. 126/STJ.
+1. A competência interna do STJ gera nulidade meramente relativa e incumbe à parte interessada suscitá-la na primeira oportunidade, antes de ser proferida a decisão colegiada ou monocrática, sob pena de preclusão. Precedentes.
+2. O acórdão recorrido abriga fundamento de índole constitucional, consignando que os serviços de transportes - e, em essencial, a sua prestação - baseiam-se no direito social previsto no art. 6º da CF, cuja interpretação não pode ser no sentido de reduzir os direitos do usuário do transporte.
+3. Ocorre, contudo, que a recorrente não interpôs o devido recurso extraordinário ao STF, de modo a incidir a jurisprudência sedimentada na Súmula n. 126/STJ, que assim dispõe: "É inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário".
+4. O entendimento insculpido no referido enunciado traduz a hipótese de que, não interposto o extraordinário, torna-se inadmissível a apreciação do especial por haver transitado em julgado a matéria constitucional discutida e decidida no acórdão vergastado.
+Agravo interno improvido.
+(AgInt no AREsp n. 2.097.185/SP, relator Ministro Humberto Martins, Segunda Turma, julgado em 13/2/2023, DJe de 16/2/2023.)
+Na espécie, consta às fls. 983/987 petição da parte ora recorrente apontando, corretamente, a incompetência das turmas da Primeira Seção para o julgamento da controvérsia. Somente após o protocolo dessa peça sobreveio a decisão que agora se impugna, o que afasta a preclusão.
+Ante o exposto, dá-se provimento ao agravo interno para tornar sem efeito a decisão agravada e determinar a redistribuição do feito a um dos ministros que compõem as turmas da Segunda Seção desta Corte.
+Publique-se. Intimem-se.
