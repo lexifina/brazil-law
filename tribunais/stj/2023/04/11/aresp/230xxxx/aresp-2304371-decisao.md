@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interposto por BANCO DO BRASIL S.A. contra decisão que não admitiu o recurso especial, fundado nas alíneas a e c do inciso III do art. 105 da Constituição Federal, que desafiou acórdão prolatado pelo Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado (e-STJ, fl. 60):
+AGRAVO DE INSTRUMENTO. IMPUGNAÇÃO À FASE DE CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. CÉDULA RURAL EXPURGOS INFLACIONÁRIOS. COMPETÊNCIA DA JUSTIÇA FEDERAL - Esta Corte tem decidido reiteradamente não se verificar interesse da União ou ente Federal a justificar a sua inclusão no polo passivo da demanda a implicar a remessa dos autos à Justiça Federal, uma vez que a União não é contratante da Cédula Rural, objeto de discussão, mas sim o Banco do Brasil, que celebrou a avença com a parte agravante. LITISCONSÓRCIO PASSIVO NECESSÁRIO - Reconhecida a solidariedade entre União, Banco Central e o banco agravante, possível o direcionamento do cumprimento provisório a qualquer um dos devedores solidários. AGRAVO DE INSTRUMENTO DESPROVIDO.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 84-87).
+Nas razões do recurso especial (e-STJ, fls. 94-113), o recorrente apontou violação aos arts. 103 e 509 do CPC/2015; bem como a existência de dissídio jurisprudencial.
+Sustentou, em síntese, a necessidade de prévia liquidação, além da incompetência absoluta dos juízes estaduais pra julgamento dos cumprimentos individuais de sentença vinculados à ação civil pública que originariamente tramitou na Justiça Federal.
+Sem contrarrazões.
+O Tribunal de origem negou seguimento e inadmitiu o recurso especial do banco, ante a consonância do acórdão recorrido com a orientação firmada em julgamento submetido à sistemática dos recursos especiais repetitivos e pela incidência das Súmulas 282 e 356 do STF.
+Daí, a interposição do presente agravo.
+Brevemente relatado, decido.
+No que tange à questão da competência, o Tribunal estadual negou seguimento ao recurso especial, nos termos do art. 1.030, I, b, do CPC/2015, pois o acórdão recorrido encontra-se em conformidade com precedente firmado pelo Superior Tribunal de Justiça em julgamento de recurso especial repetitivo (REsp 1.145.146/RS - Tema 315/STJ).
+Dispõe o art. 1.030, § 2º, do CPC/2015 que, uma vez negado seguimento ao recurso especial na instância a quo, tendo em vista a conformidade do entendimento exarado pelo acórdão recorrido com o firmado em julgamento repetitivo por este Tribunal Superior, a irresignação da parte com a decisão de admissibilidade proferida pela Corte de origem deve se dar por meio de agravo interno, nos termos do art. 1.021 do CPC/2015.
+Assim, não merece conhecimento o presente agravo pois se trata de recurso incabível, conforme entendimento proferido pela Terceira Turma desta Corte de Justiça.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE RESTITUIÇÃO DE ARRAS C/C INDENIZAÇÃO POR DANO MORAL. APELO NOBRE NÃO ADMITIDO NA ORIGEM PORQUE A MATÉRIA FOI JULGADA SEGUNDO O RITO DO ART. 1.040, I, e 1.030, I, B, AMBOS DO NCPC (ART. 543-C DO CPC/73). AGRAVO EM RECURSO ESPECIAL. NÃO CABIMENTO. INTERPRETAÇÃO DIVERGENTE. NECESSIDADE DE INDICAÇÃO DO DISPOSITIVO DE LEI VIOLADO. INCIDÊNCIA DA SÚMULA Nº 284 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Constitui erro grosseiro a interposição do agravo previsto no art. 1.042, caput, do NCPC quando a Corte estadual inadmite o recurso especial com base em recurso repetitivo, nos termos do art. 1.040, I, e 1.030, I, b, ambos do NCPC (antigo art. 543-C, § 7º, do CPC/73).
+3. O conhecimento do recurso especial interposto com amparo no art. 105, III, c, da CF exige, também, a indicação do dispositivo de lei federal, pertinente ao tema decidido, que supostamente teria sido objeto de interpretação divergente, sob pena de incidência da aludida Súmula nº 284 do STF.
+4. Agravo interno não provido.
+(AgInt no AREsp 1.878.079/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 6/12/2021, DJe 10/12/2021)
+No tocante ao art. 509 do CPC/2015, verifica-se que seu conteúdo normativo não foi objeto de apreciação pelo Tribunal a quo. Portanto, ausente o prequestionamento, entendido como a necessidade de ter o tema objeto do recurso sido examinado na decisão atacada.
+O prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial. Incidem, ao caso, as Súmulas 282 e 356 do STF.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. INDENIZAÇÃO. DANOS MORAIS. ATRASO DE VOO. AUSÊNCIA DE PREQUESTIONAMENTO. PREQUESTIONAMENTO IMPLÍCITO. NÃO VERIFICAÇÃO. SÚMULAS N. 282 E 356 DO STF. QUANTUM INDENIZATÓRIO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. INCIDÊNCIA. DISSÍDIO JURISPRUDENCIAL NÃO CONHECIDO. AGRAVO INTERNO DESPROVIDO.
+1. O prequestionamento significa a prévia manifestação do tribunal de origem, com emissão de juízo de valor, acerca da matéria referente ao dispositivo de lei federal apontado como violado. Trata-se de requisito constitucional indispensável para o acesso à instância especial.
+2. A ausência de enfrentamento da questão objeto da controvérsia impede o acesso à instância especial e o conhecimento do recurso especial, nos termos das Súmulas n. 282 e 356 do STF.
+3. Não se considera preenchido o requisito do prequestionamento (prequestionamento implícito) quando o tribunal de origem não debate efetivamente acerca da matéria inserta no dispositivo de lei federal, ainda que não mencionado explicitamente seu número.
+4. A revisão pelo STJ da indenização arbitrada a título de danos morais exige que o valor tenha sido irrisório ou exorbitante, fora dos padrões de razoabilidade. Salvo essas hipóteses, incide a Súmula n. 7 do STJ, impedindo o conhecimento do recurso especial.
+5. A incidência da Súmula n. 7 do STJ quanto à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+6 . Agravo interno desprovido.
+(AgInt no AREsp n. 2.105.375/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 20/3/2023, DJe de 24/3/2023.)
+Diante do exposto, conheço parcialmente do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. CÉDULA RURAL. 1. DECISÃO DENEGATÓRIA DO RECURSO ESPECIAL BASEADA EM RECURSO REPETITIVO. AGRAVO DO ART. 1.042 DO CPC/2015. ERRO GROSSEIRO. 2. OFENSA AO ART. 509 DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282 E 356/STF. 3. AGRAVO PARCIALMENTE CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
