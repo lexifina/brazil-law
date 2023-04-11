@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de Recu rso Especial, interposto por EURIVAN PEREIRA RODRIGUES, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO TOCANTINS , assim ementado:
+"AGRAVO DE INSTRUMENTO. CUMPRIMENTO SENTENÇA COLETIVA. SERVIDORES EXONERADOS. FÉRIAS VENCIDAS. FÉRIAS PROPORCIONAIS. DÉCIMO TERCEIRO PROPORCIONAL. ILEGITIMIDADE AD CAUSAM EVIDENCIADA. APLICAÇÃO EFEITO TRANSLATIVO. DEMANDA ORIGINÁRIA EXTINTA. RECURSO PROVIDO.
+1. Cumprimento da sentença proferida nos autos nº 5002004- 78.2008.827.2729, que reconheceu o direito ao recebimento de valores relativos às férias proporcionais, férias vencidas e décimo terceiro proporcional dos servidores exonerados através do ATO n.º 2.871-EX.
+2. No caso de expressa limitação no título executivo quanto aos beneficiários da ação coletiva, é indevida a inclusão de servidor que não integrou a referida listagem, sob pena de ofensa à coisa julgada (Precedentes STJ). Na espécie, a parte recorrida não integra aludida listagem e, portanto, não possui legitimidade para propor o cumprimento da sentença.
+3. Uma vez evidenciada a ilegitimidade ad causam da parte exequente, imperativa se torna a extinção da demanda, conquanto por meio da atribuição de efeito translativo - conferido a todo recurso - a segunda instância pode extinguir, mesmo em Agravo de Instrumento, o processo originário sem resolução do mérito em razão da constatação de causa que obsta seu prosseguimento, desde que, para tanto, seja assegurado às partes o exercício do direito fundamental ao contraditório (art. 5º, LV, CRFB), como ocorreu na espécie.
+4. Agravo de Instrumento conhecido e provido. Mediante aplicação de efeito translativo ao recurso, extingue-se a demanda originária sem resolução do mérito, nos termos do artigo 485, VI do CPC" (fls. 298/299e).
+O acórdão em questão foi objeto de dois Embargos de Declaração (fls. 305/310e e 350/360e), os quais restaram rejeitados, nos termos das seguintes ementas:
+"EMBARGOS DE DECLARAÇÃO. AGRAVO DE INSTRUMENTO. CUMPRIMENTO SENTENÇA COLETIVA. SERVIDORES EXONERADOS. FÉRIAS VENCIDAS. FÉRIAS PROPORCIONAIS. DÉCIMO TERCEIROPROPORCIONAL. ILEGITIMIDADE AD CAUSAM EVIDENCIADA. INEXISTÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. REDISCUSSÃO DE MATÉRIA. RECURSO NÃO PROVIDO.
+1. Tendo o julgado analisado e solucionado expressamente as questões tidas como ignoradas nestes Embargos de Declaração, não há que se falar em omissão, contradição ou obscuridade a ser sanada.
+2. Embargos de Declaração conhecidos e não providos" (fl. 343e).
+"EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CUMPRIMENTO SENTENÇA COLETIVA. SERVIDORES EXONERADOS. FÉRIAS VENCIDAS. FÉRIAS PROPORCIONAIS. DÉCIMO TERCEIRO PROPORCIONAL.
+ILEGITIMIDADE AD CAUSAM EVIDENCIADA. INEXISTÊNCIA DE OMISSÃO. REDISCUSSÃO DE MATÉRIA. RECURSO NÃO PROVIDO.
+1. O entendimento adotado por esta Corte é o de que o dispositivo da sentença exequenda limitou os bene ciados àqueles listados pelo sindicato, logo somente estes estão legitimados a propor o cumprimento do título.
+2. O meio adequado para se insurgir contra o posicionamento adotado no acórdão se trata de recurso para instância superior, vez que os Embargos de Declaração não se prestam para rediscussão da matéria, como pretende a parte embargante.
+3. Embargos de Declaração conhecidos e não providos" (fl. 393e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora recorrente alega violação aos seguintes dispositivos:
+"Art. 489, §3º do Código de Processo Civil, que trata do dever de se interpretar uma decisão judicial a partir da conjugação de todos os seus elementos e em conformidade com o princípio da boa-fé.
+Arts. 490 e 492 do Código de Processo Civil, que tratam do princípio da adstrição ou congruência, segundo o qual a sentença oua decisão de mérito devem observar os limites traçados pelos elementos que identificam a ação, o que impede que o juiz, ao analisá-la, se desvencilhe dos pedidos formulados, da causa de pedir e das que partes que compõe a relação jurídica processual.
+Art. 141 do Código de Processo Civil, que ao tratar do princípio da adstrição ou congruência estabelece que o juiz decidirá o mérito nos limites do que foi proposto pelas partes" (fl. 408e)
+Por fim, requer "seja conhecido e provido o recurso especial com a reforma do acórdão em razão da violação ao dispositivo de lei federal previsto no art. 489, §3º do CPC e, consequentemente, seja reconhecida a legitimidade do Recorrente, visto que os efeitos da sentença proferida nos autos da Ação Coletiva de Cobrança nº 5002004-78.2008.827.2729, estendem-se a todos os servidores públicos comissionados exonerados pelo Ato n. 2.871-EX, em 15/08/2008" (fl. 422e).
+Contrarrazões, a fls.430/449e.
+O Recurso Especial foi admitido pelo Tribunal de origem (fls. 455/456e).
+A irresignação não merece conhecimento.
+Outrossim, por simples cotejo entre as razões do Recurso Especial e os fundamentos do acórdão recorrido, observa-se que as teses recursais contidas nos arts. 489, § 3º; 490 e 492 ; e 141 do CPC/2015 não foram apreciadas pelo Tribunal local, não obstante terem sido opostos Embargos de Declaração, para tal fim.
+Por essa razão, à falta do indispensável prequestionamento, não pode ser conhecido o Recurso Especial, incidindo o teor da Súmula 211 do STJ ("inadmissível recurso especial quanto à questão que, a despeito da oposição dos embargos declaratórios, não foi apreciado pelo Tribunal a quo").
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. COMISSÃO DE CORRETAGEM. INDENIZAÇÃO. CABIMENTO. REEXAME DE PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos declaratórios, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.
+(..)
+6. Agravo interno não provido" (STJ, AgInt no AREsp 1.172.051/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 23/03/2018).
+Assim, à mingua de prequestionamento, inviável a apreciação das aludidas teses recursais.
+Registre-se, por oportuno, que não há impropriedade em afirmar a falta de prequestionamento e afastar a indicação de afronta ao art. 1.022 do CPC/2015, haja vista que o julgado está devidamente fundamentado, sem, no entanto, ter decidido a causa à luz dos preceitos jurídicos suscitados pela parte recorrente, pois, como consabido, não está o julgador a tal obrigado.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.Em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado
+Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015.
+Ressalte-se que, em caso de reconhecimento do direito à gratuidade de justiça, permanece suspensa a exigibilidade das obrigações decorrentes de sua sucumbência, nos termos do § 3º do art. 98 do CPC/201 5
+I.
