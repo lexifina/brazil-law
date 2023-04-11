@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto pela União contra decisão da Corte de origem que não admitiu o recurso especial.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Nos termos do que dispõem os artigos 932, III, do CPC/2015 e 253, parágrafo único, I, do RI/STJ (redação dada pela Emenda Regimental n. 22, de 2016), compete ao agravante impugnar especificamente os fundamentos da decisão que obstou o recurso especial na origem.
+Assim, além da manifestação do inconformismo, inerente ao ato de irresignação, impõe-se ao recorrente o ônus de contrapor-se, de forma clara e específica, aos fundamentos da decisão agravada, conforme determina a lei processual civil e o princípio da dialeticidade.
+No caso dos autos, a decisão de não admissão do recurso especial está motivada na incidência da Súmula 83/STJ, todavia o agravante não impugnou, especificamente, a sua aplicação pela Corte de origem, o que acarreta o não conhecimento do agravo.
+Com efeito, a agravante limita-se a alegar:
+"No caso, o recurso não esbarrou no óbice da Súmula 83 desse STJ, diante do fato de que a orientação desta Corte deve respeitar a sistemática do pagamento dos royalties proposta pela Lei nº 9.478/1997 e pelo Decreto nº 2.705/1998, destacando que não há mora ou pagamento extemporâneo pela União que possibilite a correção monetária dos royalties, devendo o acórdão recorrido ser reformado, a fim de se reconhecer a improcedência dos pedidos iniciais."
+Neste agravo interno, o recorrente não demonstrou ter se insurgido, na minuta do agravo, contra a decisão que obstou o recurso especial e que está respaldada na incidência da Súmula 83/STJ.
+Ao agravante impõe-se o ônus de observar o contexto em que os fundamentos da decisão da Corte de origem foram lançados e impugná-los, de forma individualizada e específica, o que não ocorreu no caso dos autos.
+Com efeito, no tocante à decisão de inadmissibilidade que aplica o óbice da Súmula 83/STJ, incumbe ao agravante apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada, procedendo ao cotejo analítico entre eles, sob pena de não conhecimento do recurso.
+A propósito, destaco julgados recentes desta Primeira Turma:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APLICABILIDADE DO CPC DE 2015. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO COMBATIDA. INCIDÊNCIA DA SÚMULA 83 DO STJ. IMPUGNAÇÃO NÃO DEMONSTRADA. PRINCÍPIO DA DIALETICIDADE NÃO ATENDIDO.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do CPC/2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Em que pese à agravante sustentar que rebateu todos os fundamentos lançados na decisão que inadmitiu o recurso especial, os argumentos expendidos no agravo não foram aptos a cumprir os requisitos da dialeticidade quanto à incidência da Súmula 83 do STJ.
+3. A partir da leitura das razões recursais, constata-se que a agravante não rebateu, como lhe competia, os fundamentos da decisão de inadmissibilidade do Recurso Especial, tendo em vista que caberia à parte agravante apresentar julgados supervenientes ou contemporâneos aos precedentes utilizados na decisão agravada, de modo a demonstrar que a matéria não seria pacífica naquele momento ou que estaria superada, o que não ocorreu. Precedentes: AgInt no AREsp 1.322.384/RJ, Rel. Min. Og Fernandes, Segunda Turma, DJe 11/3/2019.
+4. Assim, diante da ausência de impugnação efetiva e voltada a afastar as conclusões da decisão combatida, mantém-se o não conhecimento do agravo em recurso especial.
+4. Agravo interno não provido.
+(AgInt no AREsp 1.920.520/RS, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe 16/2/2022).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. SÚMULA 182/STJ. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. A decisão ora recorrida não conheceu do agravo em razão da não impugnação aos fundamentos da decisão que inadmitiu o recurso especial na origem, notadamente quanto à Súmula 83/STJ, Súmula 7/STJ, deficiência de cotejo analítico e divergência não comprovada. Assim, consignou-se a incidência da Súmula 182 do STJ.
+2. A parte, para ver seu recurso especial inadmitido ascender a esta Corte, precisa, primeiro, desconstituir os fundamentos utilizados para a negativa de seguimento daquele recurso sob pena de vê-los mantidos.
+3. É mister repetir que as razões demonstrativas do desacerto da decisão agravada devem ser veiculadas imediatamente nessa oportunidade, pois convém frisar não ser admitida fundamentação a destempo, a fim de inovar a justificativa para ascensão do recurso excepcional, diante da preclusão consumativa.
+4. Em nova análise do agravo interposto, tem-se que a parte agravante efetivamente não rebateu todos os fundamentos da decisão de inadmissão do recurso especial, incidindo à espécie o Enunciado da Súmula 182 do STJ.
+5. Ainda, inadmitido o recurso especial com base na Súmula 7 do STJ, não basta a assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada ou simplesmente a insistência no mérito da controvérsia. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do citado óbice processual.
+6. Por fim, inadmitido o recurso especial em razão da dissonância da pretensão com jurisprudência desta Corte Superior, incumbiria à parte interessada apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada, procedendo ao cotejo analítico entre eles.
+7. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.855.586/RJ, Rel. Min. Manoel Erhardt (desembargador convocado do TRF-5ª Região), Primeira Turma, DJe 16/8/2021)
+Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro em 10% os honorários advocatícios, observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (§ 3º do artigo 98 do CPC/2015).
+Ante o exposto, não conheço do agravo.
+Publique-se. Intimem-se.
