@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de agravo apresentado por SIMONE MEIRELES REZENDE contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, assim resumido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. AÇÃO DE CONHECIMENTO COM PEDIDO DECLARATÓRIO E CONDENATÓRIO. RAZÕES RECURSAIS DISSOCIADAS DA MATÉRIA DECIDIDA. NÃO CONHECIMENTO. As razões do agravo interno de que versam os autos se encontram completamente dissociadas dos fundamentos da decisão ora recorrida, que rejeitou os embargos de declaração por inexistir quaisquer das hipóteses do artigo 1.022, do Código de Processo Civil, em manifesta afronta ao disposto no artigo 1.021, § 1º, do Código de Processo Civil. AGRAVO INTERNO NÃO CONHECIDO.
+Quanto à primeira controvérsia, pela alínea "a" do permissivo constitucional, alega violação dos arts. 98 e 99, § 2º, do CPC, no que concerne ao cumprimento dos requisitos para o reconhecimento do direito ao benefício da assistência judiciária gratuita diante da comprovação de sua hipossuficiência, trazendo os seguintes argumentos:
+Entretanto, como demonstrado, a Recorrente necessita da concessão do benefício da assistência judiciária por não possuir condições de arcar com as custas processuais sem comprometer sua subsistência, tendo sido juntado documentos que comprovam a concessão da benesse, especificamente ao evento 1.
+ ..
+Infere-se do texto legal que qualquer parte no processo pode usufruir do benefício da justiça gratuita.
+Logo, a Recorrente faz jus ao benefício, haja vista não ter condições de arcar com as despesas do processo sem prejuízo de sua manutenção.
+ ..
+As consequências de uma decisão que indefere o pedido de justiça gratuita são totalmente manifestas, pois, não podendo a parte prover as custas processuais sem prejuízo de seu sustento, infelizmente verá seu direito de ação praticamente fulminado, em razão de impedimentos judiciais que a própria Lei não faz (fls. 87/90).
+Quanto à segunda controvérsia, pela alínea "a" do permissivo constitucional, alega violação dos arts. 98 e 99, § 2º, do CPC, no que concerne à presunção de veracidade da declaração de hipossuficiência, inexistindo provas em sentido contrário, trazendo os seguintes argumentos:
+Nesta senda, ainda foi colacionado aos autos declaração de hipossuficiência, sendo que esta possui presunção de veracidade, juris tantum, porém esta somente poderá ser negada de plano pelo Juiz, se houver fundadas razões para tanto.
+ ..
+Assim, não havendo prova em contrário da alegada hipossuficiência o comando do art. 99 do CPC, é de que de ofício será deferida a assistência judiciária (fls. 90).
+É, no essencial, o relatório. Decido.
+Na espécie, para ambas as controvérsias, não houve o prequestionamento dos dispositivos de lei federal apontados como violados, uma vez que não houve o devido e necessário debate a respeito destes dispositivos no acórdão prolatado pelo Tribunal a quo.
+Esta Corte Superior de Justiça já sedimentou o entendimento segundo o qual é "inviável a análise de violação de dispositivos de lei não prequestionados na origem, apesar da oposição de embargos de declaração" (AgInt no REsp n. 1.858.639/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 29/8/2022, DJe de 31/8/2022).
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.883.703/ES, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 1/9/2022; REsp n. 1.666.862/CE, relator Ministro Francisco Falcão, relator para acórdão Ministro Og Fernandes, Segunda Turma, DJe de 8/9/2022; AgRg no AREsp n. 2.089.384/RN, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 22/8/2022; AgInt no AREsp n. 2.101.047/MA, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 24/8/2022; AgInt no AREsp n. 2.033.678/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 19/8/2022; AgInt no AREsp n. 1.812.402/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 17/6/2022; AgInt no AREsp n. 743.795/RN, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 28/4/2022.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
