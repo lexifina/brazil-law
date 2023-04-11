@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos  pela UNIÃO  à decisão assim ementada:
+ADMINISTRATIVO E PROCESSUAL CIVIL. RECURSO ESPECIAL. PRECATÓRIO. JUROS MORATÓRIOS. INCIDÊNCIA NO PERÍODO COMPREENDIDO ENTRE A DATA DA ELABORAÇÃO DOS CÁLCULOS E A EXPEDIÇÃO DO PRECATÓRIO. ENTENDIMENTO CONSOLIDADO NO JULGAMENTO DO RE 579.431/RS SOB O RITO DA REPERCUSSÃO GERAL (TEMA 96). QUESTÃO DE ORDEM NO RESP 1.665.599/RS. REVISÃO DO TEMA REPETITIVO 291/STJ. RECURSO ESPECIAL A QUE SE NEGA PROVIMENTO (fl. 1.149).
+Sustenta a parte embargante omissão no julgado em relação ao único argumento do recurso especial referente à ocorrência da preclusão quanto à pretensão de execução complementar dos juros moratórios.
+Requer,  por fim,  o acolhimento dos embargos de declaração com o fim de que seja sanado o vício apontado.
+Impugnação ao recurso apresentada (fls. 1.165/1.175).
+É o relatório.
+Inicialmente, é importante ressaltar que o presente recurso atrai a incidência do Enunciado Administrativo 3 do STJ, segundo o qual "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Analisando a controvérsia posta nos autos, observo que a decisão embargada não se manifestou sobre o argumento da parte recorrente quanto à ocorrência da preclusão no que diz respeito à pretensão de execução complementar dos juros moratórios.
+Assim, considerando que se trata da principal e única alegação arguida nas razões do recurso especial, reconheço a omissão suscitada e faço uma nova análise do apelo.
+A insurgência merece prosperar.
+Discute-se nos autos a possibilidade de se realizar execução complementar dos juros moratórios incidentes no período compreendido entre a data da elaboração dos cálculos e a data da expedição do precatório.
+Sobre a questão, o Tribunal de origem assim se manifestou:
+Considerando que o Supremo Tribunal Federal já firmou posicionamento de que a motivação referenciada "per relationem" não constitui negativa de prestação jurisdicional, tendo-se por cumprida a exigência constitucional da fundamentação das decisões judiciais (HC 160.088 AgR, Rel. Ministro Celso de Mello, Segunda Turma, julgado em 29/03/2019, Processo Eletrônico DJe-072, Public. 09-04-2019; e AI 855.829AgR, Rel. Ministra Rosa Weber, Primeira Turma, julgado em 20/11/2012, Public. 10-12-2012), adoto como razões de decidir os termos da decisão, que passo a transcrever:
+"(..) , ante o julgamento do RE 579.431, em sede de repercussão geral, definindo a tese In casu acima mencionada, entendendo cabível a execução dos valores referentes aos juros de mora, devendo ser remetido o feito à Contadoria para elaboração dos valores. Acerca dos , igualmente, razão honorários advocatícios em virtude da promoção da execução assiste aos Exequentes. Fixo-os em R$ 1.500,00 (mil e quinhentos reais), ressaltando que, independentemente de impugnação, tais honorários serão devidos, considerando o novo entendimento fixado pelo STJ nos Recursos Repetitivos REsp 1.648.238/RS, 1.648.498/RS e1.650.588/RS. (..)".
+Mais a mais, sobre o tema, é assente na jurisprudência inexistir preclusão ao pleito de pagamento de eventual saldo remanescente relativo aos juros incidentes entre a data da conta de liquidação e a inscrição da requisição de pagamento, mesmo após a prolação de sentença extinta da execução, como na hipótese.
+Verifico que o entendimento adotado pelo Tribunal de origem encontra-se em dissonância com a jurisprudência desta Corte a respeito do assunto .
+Não se desconhece o entendimento do STF firmado no julgamento do RE 579.431/RS, sob o regime de repercussão geral (Tema 96), quanto ao cabimento dos juros de mora no período compreendido entre a data da realização dos cálculos e a da expedição da requisição de pequeno valor - RPV ou do precatório. Todavia, a concordância da parte com os cálculos apurados sem a devida impugnação no momento oportuno induz à ocorrência da preclusão.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. JUROS DE MORA E CORREÇÃO MONETÁRIA. OFÍCIOS REQUISITÓRIOS DE PEQUENO VALOR. COMPLEMENTAÇÃO. IMPOSSIBILIDADE. PRECLUSÃO CONSUMATIVA. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que a concordância da parte com os cálculos apurados sem a devida impugnação no momento oportuno induz à ocorrência da preclusão (AgInt no REsp n. 1.939.917/PE, relator Ministro Francisco Falcão, Segunda Turma, julgado em 11/4/2022, DJe de 18/4/2022.)
+2. Agravo interno não provido.
+(AgInt no AREsp n. 2.072.712/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 26/9/2022, DJe de 29/9/2022.)
+SERVIDOR PÚBLICO. PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO. PRECATÓRIO. CÁLCULOS APURADOS. CONCORDÂNCIA. JUROS DE MORA. PRECLUSÃO. REDISCUSSÃO DE MATÉRIA FÁTICA. NECESSIDADE. SÚMULA 7/STJ. INCIDÊNCIA.
+1. O aresto regional não se afastou do entendimento firmado neste Superior Tribunal de que a concordância da parte com os cálculos apurados sem a devida impugnação no momento oportuno induz à ocorrência da preclusão.
+2. A alteração das conclusões adotadas pela Corte de origem, tal como proposta pela parte recorrente, demandaria, necessariamente, novo exame do acervo probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.908.074/PE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 26/9/2022, DJe de 29/9/2022.)
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. EXECUÇÃO DE SENTENÇA. EXPEDIÇÃO DE PRECATÓRIO. JUROS MORATÓRIOS. COMPLEMENTAÇÃO. APRESENTAÇÃO DE NOVOS CÁLCULOS. IMPOSSIBILIDADE. PRECLUSÃO CONSUMATIVA. ACÓRDÃO ALINHADO AO ENTENDIMENTO DESTA CORTE SUPERIOR.
+I - Na origem, trata-se de cumprimento de sentença ajuizado contra a União objetivando a cobrança de honorários sucumbenciais e parcelas não pagas em decorrência da execução de sentença coletiva. Na sentença, determinou-se o pagamento das diferenças de juros de mora, através de requisitórios complementares, após homologação do valor a ser apurado pela Contadoria Judicial, extinguindo-se a execução. No Tribunal a quo, a sentença foi mantida. Nesta Corte, deu-se provimento ao recurso especial para extinguir a execução pela ocorrência da preclusão.
+II - A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que a concordância da parte com os cálculos apurados sem a devida impugnação no momento oportuno induz à ocorrência da preclusão.
+III - A parte exequente concordou expressamente com as RPV"s expedidas em seu favor, de modo que é incabível o pedido posterior de complementação do valor, dada a preclusão. No mesmo sentido, mutatis mutandis: (AgInt nos EDcl no AREsp 713.282/RS, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 17/12/2019, DJe 19/12/2019)
+IV - Agravo interno improvido.
+(AgInt no REsp n. 1.939.917/PE, relator Ministro Francisco Falcão, Segunda Turma, julgado em 11/4/2022, DJe de 18/4/2022.)
+Ante o exposto, acolho os embargos de declaração, com efeitos infringentes, para dar provimento ao recurso especial da UNIÃO.
+Publique-se. Intimações necessárias.
