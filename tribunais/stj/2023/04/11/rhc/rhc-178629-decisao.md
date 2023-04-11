@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto contra acórdão assim ementado (fl. 65):
+HABEAS CORPUS. ARTIGO 157, §2º, II, §2º-A, I, C/C ART. 14, II E ART. 121, §2º, II, TODOS DO CÓDIGO PENAL. IMPETRAÇÃO OBJETIVANDO A REVOGAÇÃO DA PRISÃO DA PACIENTE. PRESENTES OS REQUISITOS AUTORIZADORES DA PRISÃO PREVENTIVA. IMPROCEDÊNCIA DO PEDIDO.
+Consta dos autos que o recorrente foi preso preventivamente e denunciado como incurso nos arts. 157, §2º, II, §2º-A, I, c/c art. 14, II e art. 121, §2º, II, do Código Penal.
+No presente recurso, aduz a defesa que "que a conduta do paciente Paulo Renan é atípica, pois a própria denúncia e as imagens demonstram o alegado acima, afastando qualquer hipótese de prática de roubo ou homicídio por parte do paciente" (fl. 102).
+Alega que o decreto prisional carece de fundamentação idônea, estando ausentes os requisitos autorizadores da segregação cautelar.
+Requer, assim, liminarmente e no mérito, a concessão da liberdade provisória mediante a aplicação de medidas cautelares diversas.
+Na origem, Processo nº 0294122-47.2022.8.19.0001, verifica-se a designação de audiência de instrução e julgamento para o dia 10/5/2023, conforme informação processual eletrônica extraída do site do Tribunal a quo em 31/3/2023.
+Não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo relator, nos termos do art.34, XVIII e XX, do RISTJ.
+Inicialmente, ressalte-se que no procedimento do habeas corpus não se permite a produção de provas, pois essa ação constitucional deve ter por objetivo sanar ilegalidade verificada de plano, pelo que não é possível aferir a materialidade e a autoria delitiva quando controversas, bem como a atipicidade da conduta. As alegações quanto a esse ponto, portanto, não devem ser conhecidas.
+Posto isso, não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312, do CPP.
+A decisão que decretou a prisão preventiva restou assim fundamentada (fls. 129-130):
+A decretação da prisão se impõe por conveniência da instrução criminal, tendo em vista que as testemunhas não foram ouvidas em Juízo e a permanência dos denunciados em liberdade poderia intimidar as mesmas, prejudicando a busca da verdade real.
+Frise-se também a gravidade do crime praticado, que apavora aqueles que vivem nesta cidade.
+Necessária, portanto, a prisão para garantia da ordem pública. A prisão processual, todavia, não está determinada pela probabilidade de condenação dos denunciados. Fundamenta-se na necessidade do encarceramento para que as provas sobre os fatos sejam adquiridas em um ambiente que favoreça o surgimento da verdade.
+Como o fundamento da jurisdição criminal é a descoberta da verdade, nos limites éticos e técnicos possíveis, cumpre ao juiz preservar as condições de aquisição da prova, livrando-a de perturbações que comprometam a apuração dos fatos.
+As testemunhas devem depor sem se sentirem constrangidas. Assim, com razão o Ministério Público em sua promoção.
+Destaco a gravidade do crime praticado pelos réus, denotando a necessidade de suas prisões.
+Ressalto, ainda, que a vítima fatal foi morta enquanto estava ao solo, sendo alvejada na cabeça, sendo portanto, necessária a prisão dos denunciados devido a periculosidades dos réus.
+Somando-se, ainda, o fato de ser o réu Paulo policial militar e estava praticando crimes, o que ofende à ordem pública.
+Posto isso, presentes os requisitos do artigo 312, do Código de Processo Penal, DECRETO A PRISÃO PREVENTIVA DOS LUCAS YAN CORREA GUIMARAES e PAULO RENAN DA SILVA.
+Como se vê, extrai-se do decreto de prisão preventiva fundamentação que se mostra idônea para a custódia cautelar, revelada na gravidade concreta da conduta, ressaltando-se que "a vítima fatal foi morta enquanto estava ao solo, sendo alvejada na cabeça", bem como "o fato de ser o réu Paulo policial militar e estava praticando crimes, o que ofende à ordem pública".
+Com efeito, é firme o entendimento jurisprudencial de que "a segregação cautelar para a garantia da ordem pública se mostra fundamentada no caso em que o modus operandi empregado revela especial desvalor da conduta", (AgRg no HC 582.326/PR, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 04/08/2020, DJe 13/08/2020), a evidenciar a periculosidade real, propensão à prática delitiva e conduta violenta, como no caso. No mesmo sentido:
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. HOMICÍDIO. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. PERICULOSIDADE DO ACUSADO DEMONSTRADA PELO MODUS OPERANDI DO DELITO. TEMOR DAS TESTEMUNHAS. GARANTIA DA ORDEM PÚBLICA. CONVENIÊNCIA DA INSTRUÇÃO CRIMINAL. FUNDAMENTAÇÃO IDÔNEA. APRESENTAÇÃO ESPONTÂNEA PERANTE A AUTORIDADE POLICIAL. IRRELEVÂNCIA. ALEGADA FALTA DE CONTEMPORANEIDADE DA CUSTÓDIA. INOCORRÊNCIA. RECURSO DESPROVIDO. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Agravante é acusado de ter cometido o delito de homicídio simples, com prisão preventiva decretada quando do recebimento da denúncia, em 23/05/2022.
+2. A segregação cautelar encontra-se suficientemente fundamentada na garantia da ordem pública, pois foi amparada na gravidade concreta da conduta praticada - "cometido pelo acusado com extrema violência, com várias perfurações de arma branca no corpo da vítima, e ainda na presença de pessoas que estavam participando de uma festa" - , reveladora do potencial grau de periculosidade do Agente, tanto que as testemunhas oculares do crime estão temerosas em prestar depoimento.
+3. Verifica-se a presença de atualidade nos fundamentos da prisão preventiva, pois foi ressaltada a periculosidade do Réu, que ainda persiste, bem como a necessidade de se garantir a instrução processual, ainda em seu início, de modo que as medidas cautelares diversas da prisão se mostram insuficientes para acautelar a ordem pública.
+4. Agravo regimental desprovido.
+(AgRg no RHC n. 170.151/PI, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 11/10/2022, DJe de 20/10/2022.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. TENTATIVA DE HOMICÍDIO QUALIFICADO. FUNDAMENTAÇÃO IDÔNEA. GRAVIDADE CONCRETA DA CONDUTA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP).
+2. Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+3. Na hipótese, as instâncias ordinárias apresentaram fundamentação idônea à manutenção da segregação cautelar do agravante, notadamente em virtude da gravidade concreta da conduta delitiva e do modus operandi empregado pelo agente, que haveria desferido um golpe de faca contra a vítima durante uma festividade, onde havia aglomeração de pessoas.
+4. Ademais, registro que as condições subjetivas favoráveis do paciente, por si sós, não impedem a prisão cautelar, caso se verifiquem presentes os requisitos legais para a decretação da segregação provisória.
+5. Agravo regimental não provido.
+(AgRg no HC n. 770.848/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 4/10/2022, DJe de 10/10/2022.)
+Ademais, havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. A esse respeito: HC n. 325.754/RS - 5ª T. - unânime - Rel. Min. Leopoldo del Arruda Raposo (Desembargador convocado do TJ/PE) - DJe 11/09/2015 e HC n. 313.977/AL - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 16/03/2015.
+Ante o exposto, indefiro liminarmente o recurso em habeas corpus.
+Publique-se.
+Intimem-se.
