@@ -1,0 +1,50 @@
+DECISÃO
+Cuida-se de agravo interposto por Rodrigo Luis Tassi contra a decisão de fls. 1.674-1.677 (e-STJ), proferida em juízo prévio de admissibilidade, na qual foi negado seguimento ao recurso especial.
+O recurso especial foi deduzido em desafio aos acórdãos de fls. 1.564-1.573 e 1.603-1.610 (e-STJ), prolatados pelo Tribunal de Justiça do Estado do Paraná, assim ementados:
+RECURSO DE APELAÇÃO - AÇÃO ANULATÓRIA DE ARREMATAÇÃO - SENTENÇA DE RECONHECIMENTO DA DECADÊNCIA - INSURGÊNCIA DA PARTE AUTORA - PRETENSÃO DE DECLARAÇÃO DA NULIDADE COM FUNDAMENTO EM SUPOSTA DESCRIÇÃO INADEQUADA DOS BENS IMÓVEIS LEILOADOS - ALEGAÇÃO DE QUE SE TRATARIA DE NULIDADE ABSOLUTA, INSUSCETÍVEL DE CONVALIDAÇÃO PELO DECURSO DO TEMPO - NÃO ACOLHIMENTO - QUESTÃO QUE IMPORTA VIOLAÇÃO AO ARTIGO 886 DO CÓDIGO DE PROCESSO CIVIL - ENTENDIMENTO CONSOLIDADO DO SUPERIOR TRIBUNAL DE JUSTIÇA DE QUE SE CUIDA DE NORMA PROCEDIMENTAL CUJA VIOLAÇÃO ENSEJA NULIDADE RELATIVA - PLEITO DE ALTERAÇÃO DO TERMO INICIAL ADOTADO NA SENTENÇA - REJEITADO - MARCO INICIAL DO CÔMPUTO DA DECADÊNCIA QUE CORRESPONDE À DATA DE EXPEDIÇÃO DA CARTA DE ARREMATAÇÃO - PRECEDENTES DA CORTE SUPERIOR E DESTA CÂMARA - DEMANDA AJUIZADA APÓS O DECURSO DO PRAZO DE QUATRO ANOS PREVISTO NO ARTIGO 178 DO CÓDIGO CIVIL APLICÁVEL À ESPÉCIE - DECADÊNCIA OPERADA - RECURSO DESPROVIDO.
+RECURSO ADESIVO - PRETENSÃO DE MAJORAÇÃO DO VALOR DOS HONORÁRIOS ADVOCATÍCIOS - FIXAÇÃO PELA REGRA GERAL, NA FORMA DO ARTIGO 85, § 2º, DO CÓDIGO DE PROCESSO CIVIL - ACOLHIMENTO - TEMA OBJETO DE JULGAMENTO SOB A SISTEMÁTICA DOS RECURSOS REPETITIVOS PELO SUPERIOR TRIBUNAL DE JUSTIÇA - TESE FIXADA QUE PRIVILEGIOU A LITERALIDADE DA NORMA DO ARTIGO 85 DO CÓDIGO DE PROCESSO CIVIL -APRECIAÇÃO EQUITATIVA QUE DEVE SE LIMITAR EXCLUSIVAMENTE A CAUSAS INESTIMÁVEIS OU DE VALOR IRRISÓRIO - MUDANÇA DO ENTENDIMENTO DESTE COLEGIADO EM OBSERVÂNCIA AO PRECEDENTE VINCULANTE - RECURSO PROVIDO.
+EMBARGOS DE DECLARAÇÃO EM RECURSO DE APELAÇÃO CÍVEL -AÇÃO ANULATÓRIA DE ARREMATAÇÃO - SENTENÇA DE RECONHECIMENTO DA DECADÊNCIA - ACÓRDÃO QUE NEGOU PROVIMENTO À APELAÇÃO DO AUTOR E DEU PROVIMENTO AO RECURSO ADESIVO - ALEGAÇÃO DE EXISTÊNCIA DE OMISSÃO E OBSCURIDADE NO JULGADO - INOCORRÊNCIA - FUNDAMENTAÇÃO CLARA E SUFICIENTE QUANTO À OCORRÊNCIA DA DECADÊNCIA DO DIREITO DE ANULAR A ARREMATAÇÃO - TEMÁTICAS ARGUMENTADAS NOS EMBARGOS QUE FORAM SUFICIENTEMENTE ANALISADAS NO JULGAMENTO DO APELO - MERO INCONFORMISMO DA PARTE COM O RESULTADO DO JULGAMENTO QUE LHE FOI DESFAVORÁVEL - TENTATIVA DE REDISCUSSÃO DO MÉRITO - INEXISTÊNCIA DE VÍCIO SANÁVEL PELA PRESENTE VIA - PREQUESTIONAMENTO - HIPÓTESE CONDICIONADA À PRESENÇA DE VÍCIO QUE, NOS TERMOS DO ARTIGO 1.022 DO CÓDIGO DE PROCESSO CIVIL, AUTORIZE OS EMBARGOS DE DECLARAÇÃO - EMBARGOS REJEITADOS
+Nas razões do recurso especial (e-STJ, fls. 1.614-1.634), apontou o insurgente, além de dissídio jurisprudencial, a existência de violação dos arts. 166, II e V, 168 e 169 do CCB; e 903, I, §§ 3º e 4º, do CPC/2015. Sustentou, em síntese: i) que as omissões existentes no edital de leilão, referentes às condições dos imóveis, configura vício insanável (nulidade absoluta da arrematação) que não convalesce com o tempo; e ii) que o termo inicial do prazo decadencial começa a fluir a partir da data da expedição ou do cumprimento do mandato de imissão na posse.
+Contrarrazões às fls. 1.640-1.663 (e-STJ).
+A Corte de origem deixou de admitir o recurso ao argumento de incidência das Súmulas 7 e 83/STJ e 283 e 284/STF.
+Daí o presente agravo, no qual o insurgente contesta a aplicação dos óbices.
+Contraminuta às fls. 1.703-1.724 (e-STJ).
+Brevemente relatado, decido.
+Inicialmente, vale ressaltar que o recurso especial é de fundamentação vinculada, sendo cabível apenas nas hipóteses das alíneas a, b e c do inciso III do art. 105 da Constituição Federal, quais sejam: a) contrariar tratado ou lei federal, ou negar-lhes vigência; b) julgar válido ato de governo local contestado em face de lei federal; e c) der a lei federal interpretação divergente da que lhe haja atribuído outro tribunal.
+O presente recurso especial foi interposto com fundamento nas alíneas a e c do permissivo constitucional, tendo sido alegada a violação dos arts. 166, II e V, 168 e 169 do CCB; e 903, I, §§ 3º e 4º do CPC/2015 e suposto dissídio jurisprudencial entre a decisão recorrida e o julgado Ac. 140.7419/TJDFT.
+Ocorre que o conteúdo normativo dos dispositivo tidos por violados não é apto para lastrear a tese recursal (de que a existência de omissões no edital de leilão, sobre as condições dos imóveis, resulta em nulidade absoluta da arrematação).
+Note-se o conteúdo normativo dos dispositivos:
+Art. 166. É nulo o negócio jurídico quando:
+II - for ilícito, impossível ou indeterminável o seu objeto;
+V - for preterida alguma solenidade que a lei considere essencial para a sua validade;
+Art. 168. As nulidades dos artigos antecedentes podem ser alegadas por qualquer interessado, ou pelo Ministério Público, quando lhe couber intervir.
+Art. 169. O negócio jurídico nulo não é suscetível de confirmação, nem convalesce pelo decurso do tempo.
+Art. 903. Qualquer que seja a modalidade de leilão, assinado o auto pelo juiz, pelo arrematante e pelo leiloeiro, a arrematação será considerada perfeita, acabada e irretratável, ainda que venham a ser julgados procedentes os embargos do executado ou a ação autônoma de que trata o § 4º deste artigo, assegurada a possibilidade de reparação pelos prejuízos sofridos.
+I - invalidada, quando realizada por preço vil ou com outro vício;
+§ 3º Passado o prazo previsto no § 2º sem que tenha havido alegação de qualquer das situações previstas no § 1º, será expedida a carta de arrematação e, conforme o caso, a ordem de entrega ou mandado de imissão na posse.
+§ 4º Após a expedição da carta de arrematação ou da ordem de entrega, a invalidação da arrematação poderá ser pleiteada por ação autônoma, em cujo processo o arrematante figurará como litisconsorte necessário.
+Ou seja, não diz os dispositivos que a existência de omissões no edital de leilão, sobre as condições dos imóveis, resulta em nulidade absoluta da arrematação.
+Também o julgado apontado como divergente não trata dessa situação , mas apenas sobre a não convalidação de nulidade absoluta.
+Dessa forma, incidente a Súmula 284/STF a obstar o conhecimento do recurso.
+Nesse sentido:
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE RECUPERAÇÃO JUDICIAL. IRREGULARIDADES. AFERIÇÃO. INEXISTÊNCIA DE ALCANCE NORMATIVO DO ARTIGO INDICADO. SÚMULA N. 284/STF. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO E DA DECISÃO AGRAVADA. SÚMULAS N. 283 DO STF E 182 DO STJ. REEXAME DE MATÉRIA FÁTICA. SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. Considera-se deficiente, a teor da Súmula n. 284 do STF, a fundamentação recursal que alega violação de dispositivos legais cujo conteúdo jurídico não tem alcance normativo para amparar a tese defendida no recurso especial.
+2. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+3. O recurso especial não comporta exame de questões que impliquem interpretação de cláusula contratual ou revolvimento do contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+4. No caso, averiguar, em recurso especial, a existência de possíveis irregularidades no pagamento dos débitos das empresas recuperandas demandaria o reexame de matéria fática, medida inviável em recurso especial.
+5. É inviável o agravo previsto no art. 1.021 do CPC/2015 que deixa de atacar especificamente os fundamentos da decisão agravada (Súmula n. 182/STJ).
+6. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.723.093/MS, Rel. Ministro Antônio Carlos Ferreira, Quarta Turma, julgado em 29/11/2021, DJe 02/12/2021).
+Por fim, a jurisprudência desta Corte é de que o termo inicial do prazo decadencial para pleitear a anulação da arrematação é a data da expedição da carta de arrematação.
+A propósito:
+EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. AÇÃO ANULATÓRIA DE ARREMATAÇÃO. PRAZO DECADENCIAL. TERMO INICIAL. DATA DA EXPEDIÇÃO DA CARTA DE ARREMATAÇÃO. RECURSO A QUE SE NEGA PROVIMENTO.
+1. É firme a jurisprudência desta Corte no sentido de que a arrematação pode ser impugnada nos próprios autos da execução, mediante petição do interessado, ou invalidada, de ofício, caso haja nulidade, sendo certo que, após expedida a respectiva carta, a sua desconstituição deve ser pleiteada na via própria, isto é, por meio de ação anulatória. 2. Se a ação anulatória só tem cabimento após expedida a carta de arrematação, o termo inicial para a contagem do prazo decadencial para a propositura desse tipo de demanda deve ser a data de expedição da carta.
+3. Embargos de divergência não providos.
+(EREsp n. 1.655.729/PR, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, julgado em 21/2/2018, DJe de 28/2/2018.)
+Logo, a decisão recorrida refletiu o entendimento desta Corte, razão pela qual não merece reforma.
+Diante do exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor dos advogados da parte recorrida em 3% (três por cento) sobre o valor atualizado da causa.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO ANULATÓRIA DE ARREMATAÇÃO. RECONHECIMENTO DA DECADÊNCIA. EXISTÊNCIA DE NULIDADE ABSOLUTA. CONTEÚDO NORMATIVO DOS DISPOSITIVOS ARROLADOS INAPTO PARA LASTREAR A TESE. INCIDÊNCIA DA SÚMULA 284/STF. TERMO INICIAL DO PRAZO DECADENCIAL. DATA DA EXPEDIÇÃO DA CARTA DE ARREMATAÇÃO. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
