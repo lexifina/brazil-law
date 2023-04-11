@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por MARIMEX DESPACHOS TRANSPORTES E SERVIÇOS LTDA à decisão de fls. 659/663, da relatoria do Ministro Manoel Erhardt (Desembargador Convocado do TRF da 5ª Região) assim ementada:
+PROCESSUAL CIVIL E TRIBUTÁRIO. IMUNIDADE. AFASTAMENTO. INVOCAÇÃO DE AFRONTA A NORMA INFRACONSTITUCIONAL. FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO BASEADA NA EXEGESE DO TEXTO CONSTITUCIONAL. IMPOSSIBILIDADE DE ALTERAÇÃO EM SEDE DE RECURSO ESPECIAL. AFASTAMENTO DA COMPETÊNCIA ATRIBUÍDA A ESTA CORTE PELO ART. 105, III, DA CONSTITUIÇÃO FEDERAL. AGRAVO DA EMPRESA A QUE NEGA PROVIMENTO (fl. 659).
+Sustenta a parte embargante haver omissão na decisão quanto à "EFETIVA VIOLAÇÃO AOS ARTIGOS 489,§ 1º, INC. IV E 1.022, II, DO CPC E CONSEQUENTE OMISSÃO NO QUE TOCA À LEGISLAÇÃO INFRACONSTITUCIONAL (ARTS.32 E 34 DO CTN) IMPLICITAMENTE RECONHECIDA PELA R. DECISÃO AGRAVADA" (fl. 666).
+Aponta, ainda, contradição no julgado "no que tange ao entendimento do Tribunal de origem" (fl. 221).
+Requer, por fim, o acolhimento dos aclaratórios para que "sejam sanadas as omissões identificadas, emprestando-se efeitos infringentes aos presentes aclaratórios para, então, ser conhecido e provido seu recurso especial, determinando-se a anulação do v. acórdão de embargos de declaração proferido pelo E. TJSP, que não se manifestou especificamente quanto à vertente infraconstitucional da matéria, e que é essencial para o deslinde da controvérsia" (fl. 674).
+Não houve impugnação ao recurso (fl. 770).
+É o relatório.
+Sem razão a parte embargante.
+O inconformismo da parte embargante não se enquadra nas hipóteses de cabimento dos embargos de declaração, previstas no art. 1.022 do CPC. Não há na decisão vícios de omissão, contradição, obscuridade ou erro material, não se prestando os aclaratórios para o fim de rediscutir os aspectos jurídicos anteriormente debatidos.
+No caso dos autos, não verifico a suposta omissão tendo em vista que a decisão embargada foi clara e explícita no sentido de que, "no tocante à alegação de deficiência na prestação jurisdicional, que inexistem as alegadas violações, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de qualquer erro, omissão, contradição ou obscuridade. Observe-se, ademais, que julgamento diverso do pretendido, como na espécie, não implica ofensa ao dispositivo de lei invocado" (fl. 660).
+Desse modo, inexiste vício de julgamento.
+Não se pode falar em violação aos arts. 489 e 1.022 do CPC quando o órgão julgador adota outro fundamento que não aquele defendido pela parte, desde que as questões discutidas sejam analisadas de forma fundamentada, o que foi feito no presente caso.
+A parte recorrente pode discordar do acórdão a quo por entender que a fundamentação utilizada é inadequada à controvérsia. A hipótese, entretanto, não é de negativa de prestação jurisdicional, mas de descontentamento da parte com a decisão proferida. A propósito
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DESAPROPRIAÇÃO. JULGAMENTO ULTRA PETITA. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL.
+RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, A DECISÃO AGRAVADA. SÚMULA 182/STJ. ALEGADA VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIOS, NO ACÓRDÃO RECORRIDO.
+INCONFORMISMO. AGRAVO INTERNO PARCIALMENTE CONHECIDO, E, NESSA EXTENSÃO, IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+ ..
+IV. Não há falar, na hipótese, em violação aos arts. 489, § 1º, IV, e 1.022, II, do CPC/2015, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão proferido em sede de Embargos de Declaração apreciaram fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+V. Na forma da jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, EDcl no REsp 1.816.457/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 18/05/2020; AREsp 1.362.670/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 31/10/2018; REsp 801.101/MG, Rel. Ministra DENISE ARRUDA, PRIMEIRA TURMA, DJe de 23/04/2008.
+VI. Agravo interno parcialmente conhecido, e, nessa extensão, improvido. (AgInt no AREsp n. 2.084.089/RO, Relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 12/9/2022, DJe de 15/9/2022.)
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimações necessárias.
