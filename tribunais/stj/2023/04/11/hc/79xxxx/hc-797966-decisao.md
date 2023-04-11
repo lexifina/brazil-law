@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus impetrado contra acórdão assim ementado (fl. 27):
+Apelação. Tráfico. Art. 33, caput, da Lei nº 11.343/06. Posse irregular de arma de fogo de uso permitido. Art. 12 da Lei nº 10.826/03. Pedido de desclassificação delitiva para porte para consumo. Inviabilidade. Tráfico configurado. Redução do recrudescimento operado na primeira fase. Não cabimento da redutora do §4º, do art. 33, da Lei Antidrogas. Modificação do regime carcerário para o semiaberto. Impossibilidade. Não cabimento da substituição da pena privativa de liberdade por restritiva de direitos. Recurso parcialmente provido.
+Consta dos autos que o paciente foi condenado à pena de 6 anos e 8 meses de reclusão, em regime inicial fechado, mais 666 dias-multa, como incurso no art. 33, caput, da Lei n. 11.343/06 e 1 ano de detenção, em regime aberto, pela prática do delito do art. 12 da Lei n. 10.826/03, substituída por uma pena restritiva de direito consistente em prestação pecuniária de 01 (um) salário mínimo.
+O Tribunal de origem deu parcial provimento ao apelo defensivo, a fim de reduzir a pena pelo delito de tráfico de drogas para 6 anos de reclusão e 600 dias-multa.
+A impetrante sustenta violação de domicílio e consequente ilicitude das provas dela decorrente.
+Alega que os policiais não possuíam mandado judicial, autorização formal do morador, e não se verificava qualquer situação de flagrante delito ou perigo.
+Aponta aumento excessivo na pena-base pela quantidade de drogas e ilegalidade na vedação do benefício do tráfico privilegiado.
+Requer o reconhecimento da ilicitude das provas obtidas pela invasão domiciliar e consequente absolvição do paciente, e subsidiariamente, a redução da pena-base e a aplicação da causa de diminuição de pena do art. 33, § 4º, da Lei nº 11.343/2006, com fixação de regime mais brando.
+As informações foram prestadas e o Ministério Público Federal manifestou-se pela não admissão do writ, mas, em seguida, pela concessão de uma ordem de habeas corpus ex officio para reduzir a pen a fixada.
+Inicialmente, constata-se que a matéria relacionada à invasão de domicílio e ilicitude das provas dela obtidas não foi analisada pelo acórdão recorrido.
+Desse modo, não debatidas as questões pela Corte a quo, é firme o entendimento de que "fica obstada sua análise a priori pelo Superior Tribunal de Justiça, sob pena de dupla e indevida supressão de instância, e violação dos princípios do duplo grau de jurisdição e devido processo legal" (RHC 126.604/MT, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 07/12/2020, DJe 16/12/2020)
+Nesse sentido:
+HABEAS CORPUS. INDEFERIMENTO LIMINAR. IMPETRAÇÃO EM SUBSTITUIÇÃO AO RECURSO CABÍVEL. UTILIZAÇÃO INDEVIDA DO REMÉDIO CONSTITUCIONAL. VIOLAÇÃO AO SISTEMA RECURSAL. ALEGAÇÃO DE ILEGALIDADE DA DECISÃO QUE REVOGOU A PRISÃO DOMICILIAR. MATÉRIA NÃO ENFRENTADA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. DESPROVIMENTO DO RECLAMO.
+1. A via eleita revela-se inadequada para a insurgência contra o ato apontado como coator, pois o ordenamento jurídico prevê recurso específico para tal fim, circunstância que impede o seu formal conhecimento.
+2. A alegação de ilegalidade da decisão que revogou a prisão domiciliar não foi objeto de debate pelo Trib unal de origem, que não conheceu do writ lá impetrado, o que evidencia a impossibilidade de análise da impetração por este Sodalício, sob pena de indevida supressão de instância. Precedentes.
+3. Agravo regimental desprovido. (AgRg no HC n. 773.693/SC, relator Ministro João Batista Moreira (Desembargador Convocado do TRF1), Quinta Turma, julgado em 7/2/2023, DJe de 13/2/2023.)
+Lado outro, em consulta aos assentamentos eletrônicos desta Corte Superior, verifica-se que foi impetrado o HC n. 782.787/SP com o mesmo paciente e contra o mesmo acórdão destes autos, suscitando a fixação da pena-base no mínimo legal e a aplicação da minorante do tráfico privilegiado na fração máxima.
+No citado mandamus, em decisão de minha lavra, DJe 6/12/2022, as citadas matérias foram apreciadas tendo sido concedido o habeas corpus para fixar a pena do paciente em 1 ano e 8 meses de reclusão, em regime aberto, além do pagamento de 166 dias-multa, substituída a pena privativa de liberdade por penas restritivas de direitos, a ser fixadas pelo Juízo de Execução.
+Incide, portanto, na hipótese, o disposto no art. 210 do Regimento Interno desta Corte, segundo o qual "quando o pedido for manifestamente incabível, ou for manifesta a incompetência do Tribunal para dele tomar conhecimento originário, ou for reiteração de outro com os mesmo fundamentos, o relator o indeferirá liminarmente."
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
