@@ -1,0 +1,45 @@
+DECISÃO
+Cuida-se de agravo interposto por FEDERACAO DA AGRICULTURA E PECUARIA DO ESTADO DE MATO GROSSO DO SUL-FAMASUL contra decisão que não admitiu seu recurso especial, fundamentado no art. 105, III, a, da Constituição Federal, por sua vez manejado contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO nos termos da seguinte ementa (fl. 415):
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. PROCESSO DE DEMARCAÇÃO. LITISPENDÊNCIA.
+1. A Federação em questão já havia ajuizado diversas demandas pleiteando exatamente o mesmo que nesta ação mandamental: paralisação dos trabalhos de demarcação efetuados pela Funai em Mato Grosso do Sul.
+2. O interesse de agir consubstancia-se no trinômio utilidade, necessidade e adequação, mas o provimento buscado se mostra improfícuo dada a existência de processo anterior de mesmo teor. Tratava-se, assim, de nítido caso de litispendência, pressuposto processual extrínseco (negativo).
+3. Ademais, não apenas a segurança liminarmente concedida em processo anterior foi sustada por decisão do Pretório Excelso na Suspensão de Segurança nº 4243, como esta Corte Regional reformou a respectiva sentença em grau de apelação, denegando a segurança pleiteada.
+4. O que a impetrante reiteradamente busca é inviabilizar processo de demarcação de terras indígenas que, consoante o art. 67 do ADCT, já deveria estar finalizado desde 05.10.1993. Aplicação de multa por litigância de má-fé.
+5. Apelação não provida.
+Rejeitados os embargos de declaração opostos (fls. 429-435).
+Nas razões do recurso especial (fls. 436-464), aponta a parte recorrente ofensa ao disposto no art. 337, §§ 1º, 2º e 3º, do Código de Processo Civil, sustentando que "houve o reconhecimento da litispendência do presente mandamus com o mandado de segurança identificado pelo n. 0002638-14.2009.4.03.6000, o qual tramitou na lª Vara Federal da Comarca de Campo Grande-MS" (fl. 446).
+Sem contrarrazões (fl. 527), sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 529-531), o que ensejou a interposição do presente agravo (fls. 532-551).
+Sem contraminutas do agravo (fl. 552).
+Parecer do Ministério Público Federal pelo conhecimento do Agravo e, no mérito, pelo seu desprovimento, de modo a não se conhecer do Recurso Especial, ou, no mérito deste, a não lhe conceder provimento (fls. 561-563).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+A irresignação não merece prosperar.
+O Tribunal de origem concluiu que trata-se de caso de litispendência, baseado nos fatos e nas provas existentes nos autos, de acordo com o seguinte trecho do acórdão (fls. 408-409):
+Observo que o objeto da presente ação mandamental era a determinação de suspensão dos trabalhos de demarcação, instaurados pela Portaria n. 158/2009/Funai até que a autoridade coatora (Diretor Regional da Funai), prestasse informações necessárias sobre o procedimento adotado.
+Atento que a Federação em questão, dentre outras demandas, já havia ajuizado mandado de segurança anteriormente (processo nº 0002638-14.2009.4.03.6000) pleiteando exatamente o mesmo que nesta ação mandamental, conforme se dessume da sentença prolatada:
+"concedo a segurança para determinar que os trabalhos de campo, nos casos alcançados pelo presente mandamus, somente sejam iniciados mediante prévia notificação dos interessados, com antecedência mínima de 30 (trinta) dias, na qual será indicada a data/hora de início dos mesmos; a natureza e as consequências jurídicas do ato técnico, e, bem assim, o direito de participar e intervir no ato, pessoalmente e/ou por intermédio de advogados e/ou peritos".
+Nos termos da Súmula nº 267 do STF, não cabe mandado de segurança contra ato judicial passível de recurso ou correição. Entendimento incorporado na nova Lei do Mandado de Segurança, em seu art. 5º, II.
+Deve-se dessumir de tal intelecção outrossim ser inviável o mandado de segurança quando a parte pode obter o pretendido em outro processo judicial já existente.
+No caso em tela, o autor já havia ajuizado várias demandas buscando afastar a demarcação sem a intimação e participação prévia dos possuidores.
+O interesse de agir consubstancia-se no trinômio utilidade, necessidade e adequação, mas o provimento buscado se mostra improfícuo dada a existência de processo anterior de mesmo teor.
+Tratava-se, assim, de nítido caso de litispendência, pressuposto processual extrínseco (negativo).
+Ainda se assim não se entendesse, a presente demanda teria nítido caráter acessório (ou prejudicial) com o pretérito mandado de segurança indigitado, já que, em suma, apenas objetivava sua efetividade.
+Rever tal entendimento, conforme pretendido, implica o reexame do contexto fático-probatório dos autos. Sendo assim, incide a Súmula n. 7/STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Confira-se:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. ACÓRDÃO DO TRIBUNAL DE ORIGEM QUE, DIANTE DO ACERVO PROBATÓRIO DOS AUTOS, CONSTATOU A VALIDADE DA CERTIDÃO DA DÍVIDA ATIVA. IMPOSSIBILIDADE DE REEXAME DE FATOS E PROVAS. APLICAÇÃO DA SÚMULA 7 DO STJ. AGRAVO INTERNO IMPROVIDO.
+ ..
+II. No caso dos autos, considerando a fundamentação do acórdão recorrido, no qual ficou consignado que "a CDA preenche todos requisitos do art. 202 do CTN, repetidos no art. 2º, § 5º, da LEF.
+Conforme mencionado pelo magistrado de origem, "os valores originários do débito estão devidamente discriminados, em cada competência, bem como os valores correspondentes a juros de mora (equivalentes à taxa SELIC e computados a partir do vencimento de cada competência inadimplida), correção monetária (não há, tanto assim que o valor originário é idêntico ao valor atualizado) e multa de mora". Assim, não há qualquer vício no título executivo, porquanto, por não haver correção monetária, o valor originário é idêntico ao valor atualizado", os argumentos utilizados pela parte recorrente, no sentido de que, "tendo em vista que não houve o atendimento dos requisitos legais obrigatórios constantes do art. 202, II e III do Código Tributário Nacional, bem como do art. 2º, § 5º, II da Lei 6.830/80, impõe-se a aplicação do art. 203 do Caderno Tributário, a fim de que seja reconhecida a nulidade das certidões de dívida ativa que embasam o presente feito", somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula 7/STJ. Precedentes: STJ, AgRg no AREsp 604.338/DF, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 06/04/2015; AgRg no REsp 1.506.059/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 24/03/2015; AgRg no REsp 1.488.260/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 03/02/2015.
+III. Agravo interno improvido.
+(AgInt no AREsp n. 1.932.251/RS, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+SERVIDOR PÚBLICO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 1.022 DO CPC. INOCORRÊNCIA. INSTAURAÇÃO DE PROCESSO ADMINISTRATIVO PARA APURAR EVENTUAL IRREGULARIDADE. AUSÊNCIA DE DECADÊNCIA ADMINISTRATIVA. INTUITO DE SOBREPOSIÇÃO INDEVIDA DE GRAUS HIERÁRQUICOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. INCIDÊNCIA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+ ..
+III - O acórdão recorrido adotou entendimento consolidado nesta Corte segundo o qual configura-se exercício do direito de anular qualquer medida de autoridade administrativa que importe impugnação à validade do ato, não se devendo falar em decadência administrativa com a instauração de processo administrativo para apurar eventual irregularidade.
+IV - In casu, rever o entendimento do Tribunal de origem, o qual concluiu que a manutenção do ato administrativo anulado importaria na sobreposição indevida de graus hierárquicos, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7/STJ.
+V - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+ ..
+VII - Agravo Interno improvido.
+(AgInt no REsp n. 2.012.703/RN, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 13/2/2023, DJe de 17/2/2023.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Caso existam nos autos honorários advocatícios fixados pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
