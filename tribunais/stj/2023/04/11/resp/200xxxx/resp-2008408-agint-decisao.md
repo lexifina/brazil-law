@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo interno interposto contra decisão assim ementada (fl. 780):
+TRIBUTÁRIO. RECURSO ESPECIAL. CONTRIBUIÇÃO PREVIDENCIÁRIA PATRONAL. BASE DE CÁLCULO. REMUNERAÇÃO BRUTA. RETENÇÕES LEGAIS, NA FONTE, A TÍTULO DE IMPOSTO DE RENDA E DE CONTRIBUIÇÕES DO EMPREGADO. INCLUSÃO. ORIENTAÇÃO JURISPRUDENCIAL PACÍFICA. RECURSO ESPECIAL NÃO PROVIDO.
+A parte agravante sustenta, em síntese, às fls. 787-824, que: i) há necessidade de sobrestamento do presente recurso, haja vista a afetação da matéria para julgamento sob a sistemática dos recursos repetitivos (REsp 2.005.029/SC); ii) é inaplicável o art. 932, IV, do CPC, para justificar o desprovimento do recurso; e iii) é necessária a reforma da decisão monocrática, para que sejam excluídos os valores relativos ao IRRF e à contribuição previdenciária a cargo do empregado da base de cálculo da contribuição previdenciária patronal, de terceiros e ao SAT/RAT.
+Sem impugnação.
+É o relatório.
+Com efeito, reconsidero a decisão de fls. 780-782 e passo a novo exame do recurso especial.
+Verifica-se que a questão debatida nos autos -Possibilidade de se excluir os valores relativos à contribuição previdenciária do empregado e do trabalhador avulso e ao imposto de renda de pessoa física, retidos na fonte pelo empregador, da base de cálculo da contribuição previdenciária patronal e das contribuições destinadas a terceiros e ao SAT/RAT", foi afetada pela Primeira Seção do STJ ao rito dos recursos especiais repetitivos (REsp 2.005.289/SC; REsp 2.005.029/SC; REsp 2.005.087/PR e REsp 2.005.567/RS), mostrando-se conveniente, em observância ao princípio da economia processual e à própria finalidade do CPC, determinar o retorno dos autos à origem, onde ficarão sobrestados até a publicação do acórdão a ser proferido nos autos do recurso representativo da controvérsia.
+Ante o exposto, torno sem efeito a decisão de fls. 780-782 e determino a devolução dos autos ao Tribunal de origem, com a respectiva baixa nesta Corte, para que, após a publicação do acórdão a ser proferido no recurso representativo da controvérsia, o apelo especial: a) tenha seguimento denegado na hipótese de o acórdão recorrido coincidir com a orientação do STJ; ou b) seja novamente examinado pelo Tribunal de origem, caso o aresto hostilizado divirja do entendimento firmado nesta Corte (arts. 1.039, 1.040, I e II, e 1.041 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. RETRATAÇÃO DA DECISÃO AGRAVADA. TEMA 1174/STJ. DEVOLUÇÃO DOS AUTOS A ORIGEM.
