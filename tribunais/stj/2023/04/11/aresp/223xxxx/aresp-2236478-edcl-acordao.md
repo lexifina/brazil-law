@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, rejeitar os embargos.
+Os Srs. Ministros João Batista Moreira (Desembargador convocado do TRF1), Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ASSOCIAÇÃO CRIMINOSA E PECULATO. AUSÊNCIA DE IMPUGNAÇÃO DA DECISÃO QUE NÃO CONHECEU DO AGRAVO EM RECURSO ESPECIAL. MERA IRRESIGNAÇÃO DA PARTE. PRESCRIÇÃO VIRTUAL. AUSÊNCIA DE PREVISÃO LEGAL. PREQUESTIONAMENTO. IMPOSSIBILIDADE.
+I - Os embargos declaratórios não constituem recurso de revisão, sendo inadmissíveis se a decisão embargada não padecer dos vícios que autorizariam a sua oposição (obscuridade, contradição e omissão).
+II - Verifico a nítida intenção do embargante de atribuir efeito infringente aos embargos declaratórios, diante da irresignação pelo resultado do julgamento que lhe desfavoreceu, o que não é possível nesta via.
+III - Ademais, "Não é possível o reconhecimento da prescrição em perspectiva, antecipada ou virtual, por ausência de previsão legal, nos termos da Súmula n. 438/STJ" (AgRg nos EDcl no AgRg no AREsp n. 1.740.769/RN, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 17/2/2021).
+IV- Não compete a este eg. STJ se manifestar explicitamente sobre dispositivos constitucionais, ainda que para fins de prequestionamento. (Precedente).
+Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração interpostos por RENATA CRISTINA SILVA BORGES e WILSON ROBERTO RIBEIRO contra acórdão da Quinta Turma, que negou provimento ao agravo regimental, na forma da seguinte ementa (fl. 1834):
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ASSOCIAÇÃO CRIMINOSA E PECULATO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL.
+I - A ausência de impugnação dos fundamentos da decisão que não admitiu o recurso especial impõe o não conhecimento do agravo em recurso especial.
+II - In casu, a parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial com relação à incidência das Súmula 83 do STJ.
+III - E, ainda, esta Corte firmou o entendimento de que, "quando o inconformismo excepcional não é admitido pela instância ordinária, com fundamento no enunciado n. 83 da Súmula do Superior Tribunal de Justiça, a impugnação deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida" (AgRg no AREsp 709.926/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 18/10/2016, DJe 28/10/2016), o que não ocorreu no caso destes autos"(AgRg no AREsp 637.462/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 1º/8/2017).
+Agravo regimental desprovido"
+Nas razões deste recurso, a defesa sustenta que "s eminentes ministros componentes da Corte Especial deste e. STJ se recusaram a analisar a questão da prescrição, alegando que ficam limitados apenas a analisar questões concernentes a admissibilidade de recursos" (fl. 1847), alegando que a prescrição em matéria penal é matéria de ordem pública, a ser apreciada em qualquer grau de jurisdição.
+Busca o reconhecimento da prescrição virtual, afirma que "apesar do caso tratar de discussão jurídica acerca de possibilidade de reconhecimento da prescrição em perspectiva ou virtual, já é possível identificar que há incidência da prescrição legal elencada no inciso II, art. 109 do Código Penal, fato que restou omisso no acórdão, e deveria ter sido devidamente apreciado pelos ilustres magistrados da Corte Superior, por se tratar de matéria de ordem pública" (fls. 1848-1849).
+Por fim, aponta lesão ao artigo 5º, inciso XXXV da Constituição Federal, notadamente reconhecido como Princípio da Inafastabilidade da Jurisdição.
+Requer, ao final, o acolhimento dos embargos.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ASSOCIAÇÃO CRIMINOSA E PECULATO. AUSÊNCIA DE IMPUGNAÇÃO DA DECISÃO QUE NÃO CONHECEU DO AGRAVO EM RECURSO ESPECIAL. MERA IRRESIGNAÇÃO DA PARTE. PRESCRIÇÃO VIRTUAL. AUSÊNCIA DE PREVISÃO LEGAL. PREQUESTIONAMENTO. IMPOSSIBILIDADE.
+I - Os embargos declaratórios não constituem recurso de revisão, sendo inadmissíveis se a decisão embargada não padecer dos vícios que autorizariam a sua oposição (obscuridade, contradição e omissão).
+II - Verifico a nítida intenção do embargante de atribuir efeito infringente aos embargos declaratórios, diante da irresignação pelo resultado do julgamento que lhe desfavoreceu, o que não é possível nesta via.
+III - Ademais, "Não é possível o reconhecimento da prescrição em perspectiva, antecipada ou virtual, por ausência de previsão legal, nos termos da Súmula n. 438/STJ" (AgRg nos EDcl no AgRg no AREsp n. 1.740.769/RN, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 17/2/2021).
+IV- Não compete a este eg. STJ se manifestar explicitamente sobre dispositivos constitucionais, ainda que para fins de prequestionamento. (Precedente).
+Embargos de declaração rejeitados.
+VOTO
+Os presentes embargos não reúnem condições de prosperar.
+Inicialmente, cumpre salientar que são cabíveis embargos declaratórios quando houver na decisão embargada qualquer contradição, omissão ou obscuridade a ser sanada. Podem também ser admitidos para a correção de eventual erro material, consoante entendimento preconizado pela doutrina e jurisprudência, sendo possível, excepcionalmente, a alteração ou modificação do decisum embargado.
+Nas razões do recurso integrativo, a parte limita-se a aduzir que a prescrição virtual deve ser reconhecida, cabendo a análise de ofício.
+Constou da decisão embargada, que a Defesa, em uma breve explanação, apenas limitou-se a dizer quanto à aplicação da Súmula 83/STJ, que "ante a evidente existência da possibilidade de aplicação da pena em perspectiva para ilícitos supostamente praticados antes da edição da Lei 12.234/2010, posto a existência de diversas jurisprudências em Tribunais Superiores que demonstram de forma clara a existência de dissídio jurisprudencial a fundamentar foi interposto o devido Recurso Especial. Ocorre que, nos termos da decisão monocrática, a ilustre TERCEIRAL VICE-PRESIDENTE DO E. TJMG, erroneamente, negou seguimento ao apelo especial" (fl. 1776), além de repisar as razões do especial. No entanto, caberia a Defesa comprovar, por meio da indicação de precedentes desta Corte Superior, a desarmonia do julgado ou da ausência de entendimento pacificado sobre a matéria, por exemplo, evidenciando, assim, a inaplicabilidade do embaraço indicado pelo Tribunal a quo, o que não ocorreu.
+Assim, inicialmente, verifica-se que o julgado recorrido não padece de qualquer vício, porquanto decidiu fundamentadamente a quaestio trazida à sua análise, não podendo ser considerado nulo tão somente porque contrário aos interesses do ora recorrente. O que pretende o embargante, na verdade, é o reexame de matéria já julgada, situação que não se coaduna com a estreita via dos declaratórios.
+Verifico, portanto, a nítida intenção do embargante de atribuir efeito infringente aos embargos declaratórios, diante da irresignação pelo resultado do julgamento que lhe desfavoreceu, o que não é possível nesta via.
+Ademais, "Não é possível o reconhecimento da prescrição em perspectiva, antecipada ou virtual, por ausência de previsão legal, nos termos da Súmula n. 438/STJ" (AgRg nos EDcl no AgRg no AREsp n. 1.740.769/RN, Quinta Turma, Rel. Ministro Joel Ilan Paciornik, DJe de 17/2/2021).
+Por fim, não se mostra cabível a utilização dos embargos de declaração para fins de prequestionamento de matéria constitucional, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal, ex vi do art. 102, III, da Constituição da República. Veja-se: EDcl no HC n. 334.806/PB, Quinta Turma, Rel. Min. Joel Ilan Paciornick, DJe de 14/02/2019.
+Diante do exposto, rejeito os embargos de declaração.
+É o voto.
