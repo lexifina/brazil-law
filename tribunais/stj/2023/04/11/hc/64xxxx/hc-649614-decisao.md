@@ -1,0 +1,12 @@
+DECISÃO
+GLEISON DA CRUZ FERREIRA alega sofrer constrangimento ilegal diante de acórdão proferido pelo Tribunal de Justiça do Estado do Paraná na Apelação n. 0000951-80.2018.8.16.0118.
+Nesta Corte, a defesa pleiteia a declaração da nulidade do ingresso no domicílio do paciente, por não haver sido precedido de fundadas razões, bem como por violar o direito à não autoincriminação.
+Prestadas as informações, o Ministério Público Federal ofertou parecer às fls. 862-866.
+A defesa pleiteia, às fls. 868-871, a concessão de tutela provisória para suspender o cumprimento da pena imposta ao réu.
+Todavia, observo que o habeas corpus não pode ser conhecido, malgrado a orientação desta Corte assinale que a realização de busca domiciliar exija a presença de justa causa.
+Deveras, por se tratar de questão diretamente ligada aos fatos e aos elementos concretos que porventura justifiquem a ação dos agentes estatais, é necessário que haja o prévio debate (prévia apreciação) pelas instâncias ordinárias, as quais possuem amplo espectro cognitivo que permitiria, por isso mesmo, imiscuir-se no próprio contexto fático, providência essencial para o deslinde da controvérsia.
+No caso, a nulidade apontada, que até poderia resvalar no édito condenatório, não foi nem sequer tangenciada pelo Juízo singular e pelo Tribunal de origem, que nada trataram a respeito da matéria na sentença e no acórdão combatido, o que impede a apreciação dessa questão diretamente por esta Corte Superior de Justiça, sob pena de, se assim o fizer, incidir em indevida supressão de instância.
+Registro, por oportuno, que tal matéria deveria haver sido suscitada perante o Juízo competente, até para possibilitar às instâncias ordinárias, soberanas na análise de provas como referido alhures, um pronunciamento seguro sobre a questão, de modo que é vedada, portanto, a inauguração, em habeas corpus, de tese defensiva não aventada e não debatida na via ordinária.
+Ilustrativamente: "Evidenciado que os temas levantados não foram objeto de debate e decisão por parte de órgão colegiado do Tribunal de origem, sobressai a incompetência desta Corte para o exame das matérias, sob pena de indevida supressão de instância" (HC n. 164.785/MS, Rel. Ministro Gilson Dipp, 5ª T., DJe 8/6/2011).
+À vista do exposto, não conheço do habeas corpus. Fica prejudicado o exame do pedido de tutela provisória (fls. 868-871).
+Publique-se e intimem-se.
