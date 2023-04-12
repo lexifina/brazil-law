@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto por HUALLYSSON ALVES DA SILVA contra decisão do Tribunal de Justiça do Estado do Tocantins, que não admitiu o recurso especial manejado com apoio no art. 105, III, "a", da Constituição da República.
+O agravante alega violação do art. 128 da LC 80/94. Aduz nulidade do PAD, visto que a Defensoria "não foi informada previamente acerca do depoimento do agente penitenciário, Sr. WAGNER JOSÉ PIRES, tomado no dia 29/10/2019, o que enseja em flagrante nulidade".
+Sustenta, ainda, ser "inconteste que o ora recorrente estava desassistido pela Defensora Pública, instituição que havia escolhido para lhe defender, o que lhe resultou em prejuízo, ensejando na nulidade de todo o feito a partir do mencionado momento - depoimento do agente penitenciário, Sr. WAGNER JOSÉ PIRES -, ante a ofensa ao direito constitucional de defesa".
+Requer seja reconhecida a nulidade arguida, afastando a falta grave, bem como mantendo a data-base anterior e a integralidade dos dias remidos.
+Foram apresentadas as contrarrazões (e-STJ, fls. 109-112).
+O recurso especial foi inadmitido (e-STJ, fls. 118-121). Daí este agravo.
+O Ministério Público Federal manifestou-se pelo não provimento do recurso (e-STJ, fls. 159-162).
+É o relatório.
+Decido.
+Quanto à nulidade da decisão proferida no procedimento administrativo em razão da ausência da Defensoria por ocasião da inquirição das testemunhas, de acordo com a jurisprudência desta Corte, razão não assiste ao sentenciado.
+Isso porque, conforme disposto no acórdão estadual, "verifica-se que, para a oitiva dos agentes penitenciários, fora nomeado advogado para o ato, não havendo qualquer demonstração de prejuízo para o agravante" (e-STJ, fl. 77).
+Observa-se, pois, que o agravante esteve assistido por advogado no momento da ouvida dos agentes penitenciários, sendo proporcionado ao réu o exercício da ampla defesa e do contraditório.
+Portanto, no campo das nulidades no processo penal, sejam relativas ou absolutas, o reconhecimento de nulidade exige a comprovação de efetivo prejuízo, o que não ocorreu na espécie. A mera alegação de que "o ora recorrente estava desassistido pela Defensora Pública, instituição que havia escolhido para lhe defender" não é suficiente, devendo haver a demonstração em concreto de prejuízo suportado pela parte, o que não ocorreu no caso destes autos.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ART. 17 DA LEI N. 10.826/2003. ALEGAÇÃO DE AFRONTA AO ART. 489, § 1.º, INCISO IV, DO CÓDIGO DE PROCESSO CIVIL. VÍCIOS NÃO CONFIGURADOS. PLEITOS PELA ABSOLVIÇÃO OU DESCLASSIFICAÇÃO PARA O ART. 12 DO MESMO DIPLOMA LEGAL. INVERSÃO DO JULGADO. INCIDÊNCIA DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA. PRETENSA NULIDADE PELA AUSÊNCIA DE INTIMAÇÃO DA DEFESA PARA A OITIVA DE TESTEMUNHA. NÃO DEMONSTRAÇÃO DO PREJUÍZO. INCIDÊNCIA DO PRINCÍPIO PAS DE NULLITÉ SANS GRIEF. ALEGAÇÃO DE AFRONTA A DISPOSITIVO CONSTITUCIONAL. INVIABILIDADE DE ANÁLISE NA VIA DO RECURSO ESPECIAL AGRAVO REGIMENTAL PROVIDO. AGRAVO REGIMENTAL DESPROVIDO.
+1. O aresto atacado não contém quaisquer vícios, porquanto o entendimento adotado pela Corte de origem é apto à solução de todas as questões suscitadas e, por via de consequência, o acórdão não é de ser considerado nulo tão somente porque contraria os interesses da parte sucumbente.
+2. No que diz respeito à nulidade pela ausência de intimação da Defesa quanto às audiências para a oitiva de testemunhas, a Corte a quo decidiu de acordo com a jurisprudência desta Corte Superior de Justiça, fixada no sentido de que, na forma do art. 563 do Código de Processo Penal, nenhum ato poderá ser declarado nulo caso não demonstrado, tal como ocorre na hipótese dos autos, efetivo prejuízo para a Defesa.
+3. O Tribunal de origem concluiu que foram apresentadas provas idôneas e aptas a alicerçar a condenação pela prática da conduta prevista no art. 17 da Lei n. 10.826/2003. Portanto, a inversão do julgado, de maneira a fazer prevalecer os pleitos pela absolvição ou, subsidiariamente, desclassificação para o tipo preconizado no art. 12 daquele Diploma Legal, demandaria nova incursão nas provas e fatos que instruem o caderno processual, o que encontra óbice na Súmula n. 7 do Superior Tribunal de Justiça.
+4. Não incumbe ao Superior Tribunal de Justiça, nem mesmo para fins de prequestionamento, examinar supostas ofensas a dispositivos constitucionais, sob pena de usurpação da competência atribuída pelo texto constitucional ao Supremo Tribunal Federal.
+5. Agravo regimental desprovido. (AgRg no AgRg no AREsp n. 1.780.664/PB, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 9/2/2021, DJe de 22/2/2021.)
+" ..
+5. O Código de Processo Penal adotou o princípio pas de nullité sans grief, prescrevendo no art. 563 que "nenhum ato será declarado nulo, se da nulidade não resultar prejuízo para a acusação ou para a defesa", sendo certo que, no presente caso, não conseguiu o impetrante demonstrar, concretamente, qual teria sido o efetivo prejuízo decorrente da alegada nulidade, limitando-se a indicar a decisão desfavorável ao paciente.
+6. Habeas corpus denegado."(HC n. 196.126/SC, Ministro MARCO AURÉLIO BELLIZZE, QUINTA TURMA, DJe 13/6/2012).
+Ante o exposto, com fundamento no art. 932, VIII, do CPC, c/c art. 253, parágrafo único, II, "b", do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
+Publique-se. Intimem-se.
