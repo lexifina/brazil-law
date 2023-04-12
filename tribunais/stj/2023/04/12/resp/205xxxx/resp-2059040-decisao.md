@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto por LUZIA LUCIA DAS NEVES DOS PASSOS e OUTROS, com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais (Apelação Cível n. 1.0024.20.003972-5/003) assim ementado (fl. 185):
+APELAÇÃO - ANULAÇÃO DE DECISÃO JUDICIAL - REQUISITOS NÃO PREENCHIDOS. "No direito processual civil brasileiro, há duas hipóteses em que uma decisão judicial existente pode ser invalidada após o prazo para a propositura de ação rescisória. É o caso da decisão proferida em desfavor do réu, em processo que correu a sua revelia, quer porque não foi citado, quer porque o fora de maneira defeituosa." "O meio de impugnação previsto para tais decisões é a ação de nulidade, denominada querela nullitatis, que se distingue da ação rescisória não só pela hipótese de cabimento, mais restrita, como também por ser imprescritível  .. ".
+Os embargos de declaração opostos foram rejeitados (fls. 215-217).
+Nas razões do recurso especial, a parte recorrente aponta dissídio jurisprudencial e violação dos arts. 17, 485, IV, VI e § 3º, do Código de Processo Civil, argumentando que o autor não tem legitimidade para figurar no polo ativo do processo.
+Alega que "A notícia deste erro insanável partiu de denúncia do próprio recorrido conforme se pode aferir nos autos de apelação no documento de nº 15 contido nos autos da apelação", consistente na "confissão de ilegitimidade ativa neste processo" (fl. 228).
+Sustenta que "a simples leitura do documento fulmina todo o processo de conhecimento e derruba por completo a execução impondo, data vênia, sua completa nulidade" (fl. 228).
+Colaciona julgado do Superior Tribunal de Justiça visando demonstrar divergência jurisprudencial acerca da possibilidade de relativização da coisa julgada em caso de existência de vício insanável de falta das condições da ação.
+Requer o conhecimento e provimento do recurso para que seja julgada procedente a ação declaratória anulatória.
+As contrarrazões não foram apresentadas.
+Admitido o apelo extremo (fls. 324-325), os autos ascenderam ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+Trata-se na origem de ação declaratória de nulidade de sentença julgada extinta, sem análise de mérito, por falta de interesse de agir.
+Inconformados, os réus apelaram. O Tribunal de origem negou provimento ao recurso sob o seguinte fundamento (fls. 187-188):
+Os Apelantes ajuizaram ação declaratória de nulidade de sentença proferida em ação de outorga de escritura, por terem apurado, após a confissão do ora Apelado, sua ilegitimidade ativa para o ajuizamento da mencionada ação.
+Sobre a querella nulitatis, vale destacar o entendimento de Fredie Didier Jr. e Leonardo José Carneiro da Cunha:
+"No direito processual civil brasileiro, há duas hipóteses em que uma decisão judicial existente pode ser invalidada após o prazo para a propositura de ação rescisória. É o caso da decisão proferida em desfavor do réu, em processo que correu a sua revelia, quer porque não foi citado, quer porque o fora de maneira defeituosa.  ..  O meio de impugnação previsto para tais decisões é a ação de nulidade, denominada querela nullitatis, que se distingue da ação rescisória não só pela hipótese de cabimento, mais restrita, como também por ser imprescritível  .. " (DIDIER JR., Fredie; CUNHA, Leonardo José Carneiro da. Curso de Direito Processual Civil: meios de impugnação às decisões judiciais e processo nos tribunais. V.3. 7 ed. Salvador: Jus Podivm, 2009. p.453/454)
+A querela nullitatis apenas é cabível quando não há citação do réu ou quando há algum defeito na sua citação.
+A causa de pedir da ação é a nulidade da sentença por ilegitimidade ativa do Apelado, o que não é um dos casos de cabimento de quarella nullitatis.
+Vê-se, assim, que o Tribunal a quo entendeu não ser cabível querela nullitatis que tem como causa de pedir a nulidade da sentença por ilegitimidade ativa, mas que apenas nas hipóteses de ausência ou defeito de citação a demanda seria possível.
+A parte recorrente, contudo, limitando-se a defender a existência de confissão do vício insanável de legitimidade ativa, em momento algum rebateu o fundamento do acórdão recorrido, o que atrai a incidência das Súmulas n. 283 e 284 do STF.
+Ademais, para rever a conclusão adotada na origem e acatar a tese recursal de existência de vício insanável ensejador de nulidade de sentença já transitada em julgado, seria imprescindível o reexame fático-probatório dos autos, medida vedada em recurso especial, em face do óbice da Súmula n. 7 do STJ.
+Registre-se que, para a interposição de recurso especial fundado na alínea c do permissivo constitucional, é necessário o atendimento dos requisitos essenciais para a comprovação do dissídio pretoriano, conforme prescrições dos arts. 1.029, § 1º, do CPC e 225, § 1º, do RISTJ.
+Isso porque não basta a simples transcrição da ementa dos paradigmas, pois, além de juntar aos autos cópia do inteiro teor dos arestos tido por divergentes ou de mencionar o repositório oficial de jurisprudência em que foram publicados, deve a parte recorrente proceder ao devido confronto analítico, demonstrando a similitude fática entre os julgados, o que não foi atendido no caso.
+No acórdão recorrido, entendeu-se ser incabível querella nullitatis fundada em ilegitimidade ativa. No recurso especial, entretanto, a parte recorrente, a título de divergência pretoriana, colaciona julgado que trata de não cabimento, em virtude do instituto da preclusão, de querella nullitatis fundada em deficiência na fundamentação da decisão judicial.
+Nesse contexto, não há semelhança entre as bases fáticas dos acórdãos confrontados, razão pela qual não são aptos para demonstrar o dissídio jurisprudencial.
+Ante o exposto, não conheço do recurso especial.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
