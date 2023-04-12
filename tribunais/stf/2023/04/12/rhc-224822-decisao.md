@@ -1,0 +1,95 @@
+DECISÃO
+
+RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS. VIOLAÇÃO DE DOMICÍLIO: INOCORRÊNCIA. CONSENTIMENTO DO MORADOR. FLAGRANTE DELITO. FUNDADAS RAZÕES PARA INGRESSO DOS POLICIAIS. NEGATIVA DE PROVIMENTO.
+
+    1. Trata-se de recurso ordinário em habeas corpus impetrado contra acórdão pelo qual a Sexta Turma do Superior Tribunal de Justiça não conheceu do Agravo Regimental no Agravo Regimental no Habeas Corpus nº 731.556/SC.
+
+    2. Colhe-se dos autos que o recorrente foi condenado à pena de 6 anos e 3 meses de reclusão, no regime semiaberto, e ao pagamento de 750 dias-multa, pela prática do crime do art. 33, caput, da Lei nº 11.343, de 2006 (tráfico de drogas).
+
+    3. O Tribunal de Justiça negou provimento à apelação da defesa. Embargos de declaração opostos não foram conhecidos.
+
+    4. Inconformada, a defesa impetrou, em 25/03/2022, habeas corpus perante o Superior Tribunal de Justiça, conhecido, em parte, pelo Ministro Relator e, nessa extensão, concedida a ordem para reduzir a pena-base ao mínimo legal, redimensionando a pena para 5 anos de reclusão e pagamento de 500 dias-multa, mantido o regime semiaberto. Sobreveio agravo regimental, tendo o Relator reconsiderado, em parte, a decisão agravada para conhecer integralmente do HC, mantendo a concessão parcial da ordem apenas para reduzir a pena-base ao mínimo legal. Interposto novo agravo regimental, não foi conhecido pela Sexta Turma do STJ. A seguir, foram interpostos embargos de declaração, sem êxito.
+
+    5. Neste recurso, a Defensoria Pública da União sustenta a ilicitude do ingresso dos policiais no domicílio do recorrente, pois ausente justa causa para a medida. Alega que, apesar de a namorada do acusado ter supostamente permitido a entrada dos policiais no imóvel, não havia justa causa para a busca, tendo sido justificado o ingresso exclusivamente em razão de ter o acusado corrido para o interior de sua residência ao avistar a guarnição policial. Afirma ser duvidosa a autorização para entrada na residência. Alude ao que decidido pelo Supremo Tribunal Federal no Recurso Extraordinário nº 603.616-RG/RO.
+
+    6. Busca a absolvição do recorrente por ausência de prova válida ou, subsidiariamente, o desentranhamento dos autos das provas ilícitas e dos dos elementos dela derivados, com prolatação de nova sentença.
+
+    7. Consulta ao sítio eletrônico do Tribunal de Justiça do Estado de Santa Catarina revelou o trânsito em julgado do título condenatório em 26/04/2022.
+
+    É o relatório.
+
+    Decido.
+
+    8. O Plenário do Supremo Tribunal Federal, no Recurso Extraordinário nº 603.616-RG/RO (Rel. Min. Gilmar Mendes, j. 05/11/2015, p. 10/05/2016 — Tema nº 280 do ementário da Repercussão Geral), definiu a seguinte tese: “A entrada forçada em domicílio sem mandado judicial só é lícita, mesmo em período noturno, quando amparada em fundadas razões, devidamente justificadas a posteriori, que indiquem que dentro da casa ocorre situação de flagrante delito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade, e de nulidade dos atos praticados”.
+
+    9. No caso, o Tribunal de origem, em consonância com esse entendimento, ao negar provimento à apelação da defesa, narrou a existência de autorização para o ingresso dos policiais na residência do recorrente. Eis os fundamentos lançados:
+
+    “Além disso, o réu aduz que os policiais entraram na residência sem autorização, chutando e apontando armas. Contradizendo tal relato, a própria namorada do acusado confirmou que autorizou o ingresso policial na residência, indo exatamente ao encontro da narrativa da testemunha Elder, que foi claro ao afirmar que a entrada na residência do acusado foi permitida por uma mulher. Mais uma vez em contradição, o menor afirma que a droga foi encontrada através de um drone, exposição totalmente fantasiosa, já que em nenhum momento a presença de drone no local foi indicada e, inclusive, contraria as narrativas das demais informantes, já que todas as pessoas que estavam no local confirmaram que o policial saiu de dentro da residência carregando a mochila após localizá-la. Inclusive, Vitória (namorada do ora apelante) foi clara ao negar a existência de drone na ocorrência.” (e-doc. 82, p. 6).
+
+    10. À mesma conclusão chegou o Superior Tribunal de Justiça, além de descrever fundadas razões da ocorrência de crime permanente dentro do imóvel.
+
+    “Com efeito, observo que o acórdão impugnado examinou a matéria nos seguintes termos (fls. 514-517; sem grifos no original):
+
+    ‘Ouvido na fase policial (evento 1, vídeo 2 do Inquérito Policial) e em juízo (evento 79), o policial militar Elder Câmara Madeira Filho esclareceu que, em rondas de moto pela comunidade Vila Cachoeira, acompanhado por outros colegas de farda que estavam de moto e também com uma viatura, ao entrarem em determinada rua, avistaram movimentação estranha e prontamente constataram a realização do tráfico. Assim, contou que dois rapazes saíram correndo e um deles (o acusado) adentrou em uma residência, razão pela qual, juntamente com o seu companheiro Fagundes, dirigiram-se até o mencionado local, momento em que bateram na porta e foram atendidos por uma mulher que prontamente autorizou que lá entrassem. Na sequência, o acusado apareceu 'como se nada fosse nada' e também concordou com a realização da revista, a qual foi feita pelo soldado Fagundes enquanto ficou esperando com o réu fora da residência. Disse, também, que nesse momento chegou uma parente do acusado e perguntou o que estava acontecendo, ao que o acusado respondeu que 'ah tava no corre né tia', admitindo que estava fazendo 'corre' para o tráfico. Sobre as buscas, informou que seu colega localizou uma mochila, que anteriormente estava sendo carregada pelo réu, contendo cocaína, crack, uma capa de colete, onde se coloca a placa balística, uns torrões de maconha, que estavam embaladas para serem vendidos e dinheiro. Acrescentou, no mais, que o acusado tinha tentado jogar a mochila pela janela para a casa do vizinho antes de chegarem ao local. Além disso, apontou que bem na entrada da comunidade tem um muro laranja com escritas do PGC e do Comando Vermelho, duas facções aliadas. Por fim, respondendo aos questionamentos da defesa, disse que o segundo rapaz que saiu correndo ficou aos cuidados dos militares Juliano e Evandro.
+
+    (...)
+
+    A defesa arrolou cinco testemunhas, as quais foram ouvidas na condição de informantes, diante da relação de parentesco com o acusado.
+
+    (...)
+
+    Já a namorada do réu, Vitória da Silva Raithes, esclareceu que ela e o acusado acordaram e ela já começou fazer o almoço enquanto ele saiu para comprar um refrigerante, sendo que quando ele estava retornando a polícia apareceu e, provavelmente com medo, o acusado acabou correndo para casa. Disse, no mais, que quando ele abriu o portão da residência um menor entrou junto, correu para os fundos da casa e dispensou alguma coisa. Contou, então, que a polícia apareceu na sequência, tendo autorizado o ingresso dos militares na residência. Dando continuidade, afirmou que ficou sentada no sofá com o menor enquanto o acusado desceu e a polícia ficou olhando a residência, tendo um policial pulado o muro. Por fim, disse que o menor falou que assumiria a droga, mas quando foram até a polícia ele não assumiu, então, quando o acusado foi algemado, ele resolveu falar, mas os policias não quiseram escutar e prenderam o réu. Por fim, disse que a tia do acusado levou o menino (Ezequiel) na delegacia, mas ninguém quis ouvi-lo.
+
+    (...)
+
+    O acusado, na fase policial (evento 1, vídeo 4 do Inquérito Policial), disse que não estava na rua no momento dos fatos, sendo que tinha acabado de acordar e almoçar. Apontou, em resumo, que um menor 'do corre' entrou correndo na sua casa e na sequência a polícia também entrou no local sem qualquer autorização, sendo que eles localizaram no fundo da residência uma mochila com entorpecentes, que pertencia ao indivíduo mencionado.
+
+    Por fim, sob o manto do contraditório (evento 79), negou os fatos. Afirmou, em síntese, que os policiais forjaram a situação, que a droga era do Ezequiel, o qual confessou no seu depoimento. Disse, ainda, que os policiais entraram sem autorização e chegaram apontando as armas. Relatou, ademais, que estava com a sua mulher dentro de casa, pois tinha acabado de acordar, saiu para comprar refrigerante, parou na esquina para comprar um baseado, momento em que a polícia apareceu e por essa razão saiu correndo para dentro de sua casa, tendo o menor entrado junto e se direcionado para os fundos da casa. Disse, outrossim, que estavam no local junto consigo o Ezequiel e mais outras pessoas, as quais não conhece. Relatou que não viu nenhum policial vindo atrás, só viu as viaturas, que pararam na frente da sua casa e foram lá para baixo, pegaram outro guri, que posteriormente foi liberado, e voltaram para sua casa, onde chegaram chutando as coisas. Disse, ainda, que ia comprar maconha com Ezequiel, que o conhece de vista, pois fica perambulando pelo local vendendo droga. Sobre a mochila apreendida, relatou que no momento não a viu com Ezequiel, pois ele correu direto para trás da sua casa e só assumiu depois que estava com pochete. Disse, para mais, que não correu para os fundos casa, que permaneceu no segundo andar. Negou, ainda, que os policiais tenham subido no muro, pois já o levaram para o lado de fora, com a cabeça baixa, momento em que foi algemado. Por fim, disse que no seu interrogatório na delegacia contou que tinha maconha na sua casa e se não apareceu na gravação é porque foi forjado.
+
+    (...)
+
+    Além disso, o réu aduz que os policiais entraram na residência sem autorização, chutando e apontando armas. Contradizendo tal relato, a própria namorada do acusado confirmou que autorizou o ingresso policial na residência, indo exatamente ao encontro da narrativa da testemunha Elder, que foi claro ao afirmar que a entrada na residência do acusado foi permitida por uma mulher. Mais uma vez em contradição, o menor afirma que a droga foi encontrada através de um drone, exposição totalmente fantasiosa, já que em nenhum momento a presença de drone no local foi indicada e, inclusive, contraria as narrativas das demais informantes, já que todas as pessoas que estavam no local confirmaram que o policial saiu de dentro da residência carregando a mochila após localizá-la. Inclusive, Vitória (namorada do ora apelante) foi clara ao negar a existência de drone na ocorrência.’
+
+    Embora seja possível o conhecimento da impetração no ponto, ressalto que não merece prosperar a alegação de que teria sido ilegal o ingresso dos policiais na residência onde foram encontrados os entorpecentes. Da leitura do acórdão impugnado, verifica-se que a namorada do réu autorizou a entrada dos policiais em sua casa, confirmando tal fato em juízo.
+
+    Conforme bem exposto pelo Ministro Nefi Cordeiro, Relator no Habeas Corpus n. 381.953/RJ, julgado em 20/04/2017, ‘(...) havendo o consentimento expresso do morador - seja o próprio paciente ou sua esposa - quanto à entrada em seu domicílio, não há que se falar em ilicitude da prova colhida a partir de revista realizada’’.
+
+    De fato, o caso em análise enquadra-se em uma das hipóteses de exceção da garantia constitucional de inviolabilidade de domicílio, tendo em vista que só haveria a alegada violação se os agentes adentrassem sem o consentimento do morador - o que não ocorreu -, nos termos estabelecidos pelo art. 5.º, inciso XI, da Constituição da República Federativa do Brasil de 1988: (...).” (e-doc. 96, p. 1-3, grifos nossos).
+
+    11. O posicionamento está de acordo com a jurisprudência do Supremo no sentido de que “o artigo 5º, inciso XI, da Constituição Federal, a versar a inviolabilidade domiciliar, pressupõe o ingresso indevido ou forçado de terceiros em domicílio alheio, razão pela qual o prévio consentimento do morador, por descaracterizar a situação de ilicitude da entrada, inviabiliza o reconhecimento de ilegalidade da diligência”. (HC nº 148.965/SC, Rel. Min. Marco Aurélio, Primeira Turma, j. 17/03/2020, p. 22/04/2020).
+
+    12. Verificado que o ingresso dos policiais na residência se deu mediante autorização, alcançar conclusão diversa demandaria o reexame do acervo fático-probatório, incabível na via estreita do habeas corpus. A esse respeito:
+
+     “Agravo regimental em habeas corpus. Penal. Processual Penal. Alegada violação de domicílio. Busca domiciliar autorizada pelo acusado. Legalidade. Precedentes. Vício de consentimento da autorização de ingresso. Reexame de fatos e provas. Agravo regimental não provido. 1. A jurisprudência da Corte está consolidada no sentido de que “o prévio consentimento do morador, por descaracterizar a situação de ilicitude da entrada, inviabiliza o reconhecimento de ilegalidade da diligência” (HC nº 148.965/SC, Primeira Turma, Rel. Min. Marco Aurélio, DJe de 22/4/20). 2. Para se infirmar entendimento contrário ao adotado pelas instâncias ordinárias quanto ao alegado vício de consentimento na autorização para ingresso pelos policiais na residência, seria necessário o reexame do suporte fático probatório, providência incabível em habeas corpus, o qual não admite dilação probatória. Precedente: HC nº 191.508, Primeira Turma, Rel. Min. Roberto Barroso, DJe de 25/11/20. 3.Agravo regimental ao qual se nega provimento.”
+
+    (HC nº 199.227-AgR/SP, Rel. Min. Dias Toffoli, Primeira Turma, j. 12/05/2021, p. 22/06/2021; grifos nossos).
+
+    “Processual penal. Agravo regimental em habeas corpus. Importação e exposição à venda de produto sem registro na Anvisa e de procedência desconhecida. Busca domiciliar autorizada pelo acusado. Jurisprudência do Supremo Tribunal Federal. 1. A jurisprudência consolidada deste Supremo Tribunal Federal é no sentido de que o art. 5º, XI, da Constituição Federal, a versar a inviolabilidade domiciliar, pressupõe o ingresso indevido ou forçado de terceiros em domicílio alheio, razão pela qual o prévio consentimento do morador, por descaracterizar a situação de ilicitude da entrada, inviabiliza o reconhecimento de ilegalidade da diligência. Precedentes. 2. O acolhimento da pretensão defensiva – vício no consentimento para ingresso dos policiais – exigiria o reexame do conjunto fático-probatório da causa, medida incabível na via processualmente restrita do HC. 3. Inexiste situação de teratologia, ilegalidade flagrante ou abuso de poder que justifique a concessão da ordem. 4. Agravo regimental a que se nega provimento.”
+
+    (HC nº 191.508-AgR/ES, Rel. Min. Roberto Barroso, Primeira Turma, j. 11/11/2020, p. 25/11/2020; grifos nossos).
+
+    13. Ainda que não fosse o caso, isto é, mesmo que não tivesse havido a referida autorização, não se vislumbraria a ilegalidade arguida, pois ficou evidenciado que o ingresso dos policiais na casa do recorrente se deu em razão de fundadas suspeitas de drogas eram mantidas em depósito, notadamente diante do fato de os policiais, em ronda de rotina, terem constatado a aparente realização de tráfico, somada ao fato de o recorrente e outro indivíduo terem se evadido do local portando uma mochila e adentrado a residência. Com efeito, revelada situação de flagrante delito e por ser permanente o crime de tráfico de drogas, considerado o núcleo do tipo “ter em depósito”, tem-se caracterizada a justa causa para a ação policial.
+
+    14. Desse modo, a par do consentimento, ficou caracterizada fundada razão para o ingresso. A conclusão adotada está em harmonia com a jurisprudência do Supremo Tribunal Federal, inexistindo ilegalidade a ser reparada nesta via, conforme ilustram os seguintes precedentes:
+
+    “Processual penal. Agravo regimental em recurso ordinário em habeas corpus. Tráfico de drogas, associação para o tráfico e posse irregular de arma de fogo de uso permitido e de uso restrito. Inadequação da via eleita. Violação de domicílio. Fundadas razões. Jurisprudência do Supremo Tribunal Federal. Fatos e provas. 1. A orientação do Supremo Tribunal Federal (STF) é no sentido de que o ‘habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado’ (HC 118.292-AgR, Rel. Min. Luiz Fux). Precedentes. 2. A orientação jurisprudencial desta Corte é no sentido de que a ‘Constituição dispensa o mandado judicial para ingresso forçado em residência em caso de flagrante delito. No crime permanente, a situação de flagrância se protrai no tempo’ (RE 603.616, Rel. Min. Gilmar Mendes). 3. O acórdão proferido pelo Superior Tribunal de Justiça não divergiu desse entendimento, especialmente ao considerar que ‘a narrativa contida nos autos permite que se conclua pela presença de traços indicativos de prática criminosa antes mesmo do ingresso dos policiais no endereço do paciente, de modo a justificar a mitigação da garantia constitucional de inviolabilidade de domicílio’. Ainda nessa linha: HC 168.038-AgR, Rel. Min. Ricardo Lewandowski; e ARE 1.131.533-AgR, Rel. Min. Alexandre de Moraes. 4. Para chegar a conclusão diversa das instâncias antecedentes, seria necessário o reexame do conjunto fático-probatório dos autos, providência impossível na via restrita do habeas corpus. 5. Agravo regimental a que se nega provimento.”
+
+    (RHC nº 205.584-AgR/PI, Rel. Min. Roberto Barroso, Primeira Turma, j. 16/11/2021, p. 1º/12/2021; grifos nossos).
+
+    “Agravo regimental no habeas corpus. 2. Penal e Processo Penal. 3. Tráfico de drogas (art. 33, caput, da Lei 11.343/2006). 4. Habeas corpus impetrado contra decisão monocrática do STJ. Impossibilidade. Ausência de agravo regimental. Esgotamento das vias recursais. 5. Flagrante delito. Inviolabilidade de domicílio não configurada. Crime permanente. Repercussão geral reconhecida no RE 603.616/RO. 6. Agravo regimental desprovido.”
+
+    (HC nº 211.694-AgR/SP, Rel. Min. Gilmar Mendes, Segunda Turma, j. 02/07/2022, p. 06/07/2022; grifos nossos).
+
+    “Agravo regimental em habeas corpus. Crimes de tráfico de drogas, receptação, uso de documento falso e adulteração de sinal identificador de veículo automotor. Condenação transitada em julgado. Alegada nulidade da ação penal quanto ao crime de tráfico de drogas. Persecução baseada em suposta prova ilícita obtida mediante invasão de domicílio do agravante, à míngua de autorização judicial ou justa causa. Flagrante de crime permanente. Dispensabilidade de mandado de busca e apreensão. Fundadas razões para a realização de procedimento policial. Precedentes. Ausente constrangimento ilegal flagrante. Reexame de fatos e provas para afastar a regularidade do ingresso dos policiais no domicílio do paciente firmada pelas instâncias antecedentes. Inviabilidade na via eleita. Regimental não provido.”
+
+    (HC nº 210.511-AgR/SC, Rel. Min. Dias Toffoli, Primeira Turma, j. 04/04/2022, p. 29/04/2022; grifos nossos).
+
+    15. Por todo o exposto, nego provimento ao recurso ordinário em habeas corpus, com fundamento no art. 192, caput, c/c o art. 312 do RISTF.
+
+    Publique-se.
+
+    Brasília, 12 de abril de 2023.
+
+Ministro ANDRÉ MENDONÇA
+
+Relator
