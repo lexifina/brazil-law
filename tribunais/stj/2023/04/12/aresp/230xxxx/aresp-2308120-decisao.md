@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de agravo apresentado por MINERACAO BURITIRAMA S/A e OUTROS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO DE INSTRUMENTO - EMBARGOS À EXECUÇÃO - PRETENSÃO DOS AGRAVANTES À ATRIBUIÇÃO DE EFEITO SUSPENSIVO - INADMISSIBILIDADE - NÃO PREENCHIMENTO DE TODOS OS PRESSUPOSTOS ESTABELECIDOS NO ARTIGO 919. § IO DO CPC - INDEFERIMENTO CORRETO - DECISÃO MANTIDA - RECURSO NÃO PROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 919, § 1º do CPC, no que concerne à presença dos requisitos para a concessão de efeito suspensivo aos embargos à execução, trazendo os seguintes argumentos:
+23. O v. acórdão recorrido manteve o indeferimento do pedido de efeito suspensivo aos embargos à execução sob o fundamento de que não estão preenchidos os requisitos legais. Ao assim decidir, violou o art. 919, § 1º, do CPC, já que estão presentes: (i) garantia da execução; (ii) probabilidade de direito; e (iii) perigo de dano.
+24. Com relação ao primeiro requisito, o v. acórdão recorrido afirmou que a execução " não se encontra garantida por nenhuma das hipóteses previstas artigo 919, § 1º do CPC. " (fl. 491).
+25. Contudo, os Recorrentes ressaltam que a execução está suficientemente garantida, uma vez que a Buritirama é empresa solvente, possui diversos imóveis capazes de fazer frente à dívida e há diversas notas promissórias oferecidas pelos recorrentes João José e Skypar.
+ ..
+30. A não concessão do efeito suspensivo aos embargos à execução permite que sejam realizados inúmeros atos constritivos que afetarão diretamente o patrimônio da Buritirama, dificultando ainda mais o pagamento de seus fornecedores e funcionários.
+31. Com relação ao segundo requisito, a probabilidade de direito dos Recorrentes é de tamanha evidência, porque:
+(i) A execução é inepta, eis que o Recorrido não se desincumbiu do ônus de apresentar demonstrativo do débito atualizado (CPC, art. 798, inciso I, alínea b).
+A memória de cálculo apresentada é insuficiente: não há identificação da evolução do crédito, da composição da base de cálculo, dos percentuais e critérios de incidência de juros e outros aspectos fundamentais da composição do valor executado; e (ii) Há excesso na execução, pois o Recorrido incluiu em seus cálculos encargos indevidos: (a) os títulos executivos estipularam expressamente que o Banco ABC seria responsável pelo pagamento dos impostos incidentes sobre a operação, de modo que não há fundamento para a cobrança de IOF e de encargos a ele relacionados; e (b) as taxas de conversão do dólar são abusivas e devem ser revisadas pelo Judiciário.
+32. Diferentemente do que afirmou o v. acórdão recorrido, embora essas matérias constituam o próprio mérito dos embargos à execução, devem ser apreciadas para fins de verificação dos requisitos do art. 919, §1º, do CPC.
+33. Por fim, com relação ao perigo de dano, o prosseguimento da execução coloca em risco as atividades dos Recorrentes e o seu patrimônio. Além disso, a Buritirama possui papel de extrema relevância na economia nacional o que reforça o grave perigo de dano a que ela está sujeita.
+ ..
+47. Ainda, como já bem esclarecido, a suspensão da execução não coloca em risco a satisfação do crédito, já que ela está suficientemente garantida, conforme já demonstrado.
+Entretanto, ainda assim o E. TJSP violou o art. 919, §1º, do CPC, ao não considerar os pontos elencados acima que justificam a necessidade de concessão de efeito suspensivo aos embargos à execução. (fls. 499).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+No caso vertente, não se vislumbra a conjugação dos requisitos exigidos pelo art. 919, § 1º, do CPC.
+Como bem salientado pelo Ilustre Magistrado de Primeiro Grau, "(..) Em que pesem as notas promissórias juntadas pela embargante com o intuito de garantir este juízo (fls. 125/131), não vislumbro demonstrada de forma idônea a solvência dos seus respectivos responsáveis, razão pela qual, prima facie, não concluo por sua aptidão para efetivamente assegurar a satisfação da dívida exequenda." (fls. 82).
+ ..
+Ressalta-se que as alegações relativas à inépcia da inicial e de excesso de execução são questões a serem verificadas no curso dos embargos, não sendo possível concluir desde logo pela probabilidade do direito alegado.
+Também não concorre o segundo requisito legal necessário à concessão da tutela provisória de urgência, consistente no perigo de dano irreparável ou de difícil reparação, ou mesmo risco ao resultado útil do processo.
+Salienta-se que o prejuízo deve ser concreto e não meramente potencial, como aquele decorrente do simples prosseguimento da ação executiva.
+Ademais, a execução não se encontra garantida por nenhuma das hipóteses previstas artigo 919, § 1º do CPC.
+Registre-se que os próprios recorrentes afirmaram em suas razões recursais "(..) em que a Agravante Buritirama, apesar de manter operação saudável e rentável, vive momento de desencaixe de caixa, que impossibilita, atualmente, o oferecimento de garantia." (fls. 09).
+Como se percebe, não se acham presentes nos autos os pressupostos estabelecidos no artigo 919, § 1º, do Código de Processo Civil, o que recomenda o recebimento dos embargos sem a atribuição do efeito suspensivo almejado pelo agravante (fls. 490/492).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "No caso, o Tribunal de origem concluiu não ser caso de deferimento do efeito suspensivo aos embargos à execução. Alterar esse entendimento demandaria analisar o contrato e reexaminar o conjunto fático-probatório dos autos, providências não admitidas no âmbito desta Corte, a teor das Súmulas n. 5 e 7 do STJ." (AgInt no AREsp n. 2.231.426/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 13/3/2023, DJe de 16/3/2023.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
