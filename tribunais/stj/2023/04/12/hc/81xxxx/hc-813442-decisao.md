@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de Luis Carlos Moraes de Souza (ou Luiz Carlos Moraes de Souza), em que se aponta como órgão coator o Tribunal de Justiça do Rio de Janeiro.
+Depreende-se dos autos que o Juízo de Direito da 1ª Vara Criminal da comarca de Macaé/RJ, na Ação Penal n. 0018956-48.2018.8.19.0028, julgou parcialmente procedente a pretensão punitiva estatal deduzida na denúncia para condenar o ora paciente como incurso no art. 35, caput, c/c o art. 40, IV, ambos da Lei n. 11.343/2006, à pena de 11 anos, 3 meses e 27 dias de reclusão, em regime inicial fechado, e ao pagamento de 1.374 dias-multa, vedado o recurso em liberdade.
+Interposta a apelação, o Tribunal a quo, por unanimidade, deu parcial provimento ao recurso defensivo para redimensionar a pena final do delito associativo de Luis Carlos para 9 anos, 1 mês e 6 dias de reclusão, mais 1.534 dias-multa, bem como redimensionar o valor do dia-multa para o seu mínimo legal de 1/30; dar provimento ao recurso ministerial para também condenar o ora paciente nas penas do art. 33, caput, c/c o art. 40, IV, da Lei n. 11.343/2006, e assim fixar sua pena definitiva em 23 anos e 4 meses de reclusão, em regime inicial fechado, mais 2.567 dias-multa, mantendo-se, no mais, os termos da sentença recorrida (Apelação Criminal n. 0018956-48.2018.8.19.0028 - fls. 40/132).
+Neste Tribunal Superior, o impetrante almeja, em síntese, a concessão da ordem para (fls. 38/39):
+(i) o reconhecimento e a declaração de nulidade da interceptação telefônica como meio probatório, por ofensa ao art. 2º, inc. II, da Lei n. 9.296/1996, devendo ser desentranhado todo e quaisquer documentos e/ou mídias a ela relacionada, nos termos do art. 157 do CPP;
+(ii) a absolvição da acusação de tráfico de drogas, por não ter sido provada a prática de qualquer verbo-tipo do art. 33 da Lei n. 11.343/2006, com a consequente aplicação do art. 386, inc. V, do Código de Processo Penal;
+(iii) a absolvição da acusação de associação para o tráfico de drogas, por ofensa ao art. 35 da Lei n. 11.343/2006, por não ter sido provada a estabilidade e permanência com facção criminosa, aplicando o art. 386, inc. VII, do CPP, por não existir prova suficiente para condenação;
+(iv) Todavia, por oportunidade, em caso de manutenção da condenação:
+a) pelo afastamento da valoração negativa das circunstâncias judiciais, por infringência ao art. 59 do Código Penal;
+b) pelo afastamento da agravante de liderança, por ofensa ao art. 62, inc. I, do Código Penal;
+c) afastamento da causa de aumento de pena prevista no artigo 40, inc. IV, da Lei n. 11.343/2006; e por fim,
+d) pela retificação da base de aplicação das frações, para que seja adotado o critério de 1/6 sobre a pena mínima, ante a violação ao art. 68 do Código Penal, ao princípio da proporcionalidade e da individualização da pena.
+Estes autos foram a mim distribuídos por prevenção (HC n. 672.076/RJ).
+É o relatório.
+Pelo exame dos autos, o presente writ não merece ser conhecido.
+Isso porque o impetrante não se desincumbiu do ônus de instruir adequadamente o habeas corpus com cópia da denúncia, cópia da(s) decisão(ões) que decretou(aram) a(s) interceptação(ões) telefônica(s) e cópia da sentença condenatória, peças essenciais para a verificação da verossimilhança das alegações e que poderiam dar suporte à premissa da defesa.
+Como sabido, o habeas corpus, ação constitucional de natureza mandamental destinada a afastar eventual ameaça ao direito de ir e vir, tem, em razão de seu escopo, natureza urgente e, por essa razão, não comporta dilação probatória e exige prova pré-constituída das alegações, a qual deve ser trazida no momento do seu ajuizamento, cabendo o ônus da instrução ao impetrante, em especial, quando se tratar de advogado.
+Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. INSTRUÇÃO E NARRATIVA DEFICIENTE. AUSÊNCIA DE DOCUMENTAÇÃO E ESCLARECIMENTOS ESSENCIAIS À ANÁLISE DA CONTROVÉRSIA. MANUTENÇÃO DA DECISÃO DE INDEFERIMENTO LIMINAR DA PETIÇÃO INICIAL QUE SE IMPÕE. AGRAVO DESPROVIDO. 1. Compete à Defesa narrar e instruir completa e adequadamente o remédio constitucional do habeas corpus (ou seu respectivo recurso), por cuidar-se de procedimento que "pressupõe prova pré-constituída do direito alegado" (STJ: HC n. 437.808/RJ, Ministro Jorge Mussi, Quinta Turma, DJe 28/6/2018). Assim, ao não se desincumbir do ônus de formar e narrar adequadamente os autos quando da impetração do writ, a Parte Impetrante impede a apreciação do mérito do writ.
+2. Agravo regimental desprovido.
+(AgRg no HC n. 526.388/SP, Ministra Laurita Vaz, Sexta Turma, DJe 17/9/2019).
+E ainda: EDcl no HC n. 504.490/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 12/8/2019; AgRg no HC n. 512.896/ES, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 1º/7/2019; AgRg no HC n. 512.017/SP, da minha relatoria, Sexta Turma, DJe 2/8/2019; HC n. 155.877/PB, Ministra Laurita Vaz, Quinta Turma, DJe 2/2/2012; HC n. 211.459/PB, Ministro Jorge Mussi, Quinta Turma, DJe 19/12/2011; HC n. 187.273/PE, da minha relatoria, Sexta Turma, DJe 1º/2/2012; e AgRg no HC n. 196.824/SC, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 28/11/2011.
+Ante o exposto, não conheço do presente habeas corpus.
+Pub lique-se.
+EMENTA
+HABEAS CORPUS. CRIMES DESCRITOS NO ART. 33, CAPUT, 35, CAPUT, C/C O ART. 40, IV, TODOS DA LEI N. 11.343/2006. CONDENAÇÃO. PLEITOS DE ABSOLVIÇÃO E REFORMA DA DOSIMETRIA DA PENA. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DE DOCUMENTOS ESSENCIAIS À ANÁLISE DAS ALEGAÇÕES. AÇÃO DE NATUREZA MANDAMENTAL QUE EXIGE PROVA PRÉ-CONSTITUÍDA. ÔNUS QUE COMPETE AO IMPETRANTE.
+Writ não conhecido.
