@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de petição (e-STJ, fls. 804-805) por meio da qual o requerente MARCIO DE AZEREDO ou MÁRCIO AZEREDO pleiteia "a suspensão dos autos principais, até decisão definitiva do recurso interposto, mediante comunicação por ofício, tendo em vista a determinação de expedição de mandado de prisão pelo julgador a quo" (e-STJ, fl. 804).
+É o relatório.
+Decido.
+O pedido não merece ser conhecido.
+Dispõe o art. 1.029, § 5.º, incisos I, II e III, do Código de Processo Civil, que o pedido de atribuição de efeito suspensivo a recurso especial deve ser dirigido ao Presidente ou Vice-Presidente do Tribunal que proferiu o acórdão recorrido, enquanto ainda não publicada a decisão de admissibilidade do recurso; ou ao Superior Tribunal de Justiça somente quando já exercido o juízo positivo de admissibilidade. Eis o teor do texto legal:
+§ 5º. O pedido de concessão de efeito suspensivo a recurso extraordinário ou a recurso especial poderá ser formulado por requerimento dirigido:
+I - ao tribunal superior respectivo, no período compreendido entre a publicação da decisão de admissão do recurso e sua distribuição, ficando o relator designado para seu exame prevento para julgá-lo;
+II - ao relator, se já distribuído o recurso;
+III - ao presidente ou ao vice-presidente do tribunal recorrido, no período compreendido entre a interposição do recurso e a publicação da decisão de admissão do recurso, assim como no caso de o recurso ter sido sobrestado, nos termos do art. 1.037.
+In casu, o recurso especial foi inadmitido na origem, sendo indispensável, portanto, a demonstração da viabilidade de reversão do prévio juízo negativo de admissibilidade do apelo nobre ao qual se pretende atribuir efeito suspensivo.
+Com efeito, esta Corte Superior perfilha o entendimento de que a atribuição de efeito suspensivo a recurso especial inadmitido na origem e objeto de agravo perante esta Corte de Justiça é excepcional e pressupõe a aferição da existência de decisão teratológica ou manifestamente contrária à jurisprudência do STJ, somada à demonstração dos requisitos da viabilidade do apelo nobre e da plausibilidade do direito invocado, além do perigo da demora, o que não se evidenciou nos autos, em uma análise perfunctória própria do presente momento processual.
+Nesse sentido:
+AGRAVO REGIMENTAL NA TUTELA PROVISÓRIA. ATRIBUIÇÃO DE EFEITO SUSPENSIVO A AGRAVO EM RECURSO ESPECIAL. RÉU PRESO DESDE O INÍCIO DA INSTRUÇÃO POR DECISÃO FUNDAMENTADA, CONSOANTE JÁ RECONHECIDO PELO SUPERIOR TRIBUNAL DE JUSTIÇA. AUSÊNCIA DE DEMONSTRAÇÃO DE PLAUSIBILIDADE JURÍDICA DA INSURGÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A atribuição de efeito suspensivo a recurso especial inadmitido pelo Tribunal de origem é admitida tão somente em situações excepcionais, em que demonstrada a teratologia da decisão de inadmissão ou a viabilidade da tese jurídica sustentada no recurso especial, mormente quando flagrantemente contrária à jurisprudência desta Corte Superior.
+2. Esta Corte Superior pacificou o entendimento de que a manutenção da custódia cautelar no momento da sentença condenatória, nos casos em que o Acusado permaneceu preso durante toda a instrução criminal, não requer fundamentação exaustiva, sendo suficiente ao entendimento de que permanecem inalterados os motivos que levaram à decretação da medida extrema em um primeiro momento, desde que estejam, de fato, preenchidos os requisitos legais do art. 312 do Código de Processo Penal.
+3. A legalidade do decreto de prisão preventiva já foi mais de uma vez reconhecida pelo Superior Tribunal de Justiça, em incontáveis julgados da minha relatoria interpostos pelo Agravante e pelos corréus, tanto antes quanto depois do encerramento da instância ordinária.
+4. Outrossim, o pedido de tutela provisória exige a demonstração da plausibilidade do direito, aferida a partir da probabilidade de acolhimento dos fundamentos da insurgência, bem como do risco ao resultado útil do processo principal, o que não se evidencia no caso porque, além de demandarem reexame de provas, as teses de recurso especial já foram expressamente afastadas em julgamentos de habeas corpus e recursos ordinários em habeas corpus referentes à mesma ação penal.
+5. Agravo regimental desprovido.
+(AgRg no TP n. 3.433/MS, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 17/8/2021, DJe de 27/8/2021; grifou-se.)
+Ademais, veja-se que, no presente caso, o agravo em recurso especial não foi conhecido, por decisão da Presidência desta Corte (e-STJ, fls. 693-694), diante de sua manifesta intempestividade, tendo sido interposto agravo regimental.
+Ante o exposto, indefiro o pedido de suspensão do trâmite processual.
+Após vista dos autos ao Ministério Público Federal para parecer, retornem os autos para julgamento do agravo regimental interposto às fls. 774-790 (e-STJ).
+Publique-se. Intimem-se.
