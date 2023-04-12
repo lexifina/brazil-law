@@ -1,0 +1,89 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+1ª Turma Cível
+Processo N.AGRAVO DE INSTRUMENTO 0743477-94.2022.8.07.0000AGRAVANTE(S)INACIO ANGELO DE FARIA PINTOAGRAVADO(S)RAIMUNDO PINTO DE ALMEIDA,MARIA APARECIDA DE ALMEIDA MARTINS,JOSE PINTO DE ALMEIDA,JOAO PINTO DE ALMEIDA e GILBERTO PINTO DE ALMEIDARelatorDesembargador TEÓFILO CAETANO Acórdão Nº1689551
+
+EMENTA
+
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. INVENTÁRIO. AVIAMENTO SOB O PROCEDIMENTO DO ARROLAMENTO COMUM. PEDIDO DEDUZIDO POR ALGUNS DOS HERDEIROS. RELAÇÃO PROCESSUAL. INTEGRAÇÃO PELOS SUCESSORES SOBEJANTES.  HERDEIROS REPRESENTADOS POR ADVOGADOS DIFERENTES. LITIGIOSIDADE. GRATUIDADE DE JUSTIÇA. POSTULAÇÃO POR UM DOS HERDEIROS EM NOME PRÓPRIO E ALCANCE RESTRITO. POSSIBILIDADE. APRECIAÇÃO DO PEDIDO PELO JUÍZO SUCESSÓRIO. IMPERIOSIDADE. CONCERTAÇÃO COMO PEDIDO DEDUZIDO PELO ESPÓLIO. INVIABILIDADE. AGRAVO CONHECIDO E PARCIALMENTE PROVIDO.
+
+1.    Conquanto formulado o processo sucessório pelo procedimento do arrolamento comum, a inexistência de consenso entre todos os sucessores, com a instauração de dissenso entre parte dos herdeiros, denotando que assumira contornos litigiosos, legitima que um dos herdeiros, acorrendo ao processo, formule, em nome próprio e com alcance restrito à sua pessoa, pedido vocacionado a ser contemplado com a gratuidade de justiça, que deve ser examinado com esse alcance, não prejudicando ou afetando a postulação o fato de o espólio ser responsável pelos custos do inventário e não ser beneficiário da salvaguarda.
+
+2.      O pedido formulado por um dos herdeiros almejando sua contemplação com o benefício da justiça gratuita deve ser resolvido pelo juízo sucessório com esse alcance, afigurando-se irrelevante o fato de  o espólio não ser beneficiário da salvaguarda, pois terá, acaso concedido, efeito restrito, ressoando que, pendente de pronunciamento a postulação advinda do sucessor, a questão não pode ser resolvida no grau recursal de imediato, porquanto não pode o órgão revisor se manifestar acerca de matéria ainda não resolvida na instância originária, sob pena de suprimir grau de jurisdição e vulnerar o devido processo legal.
+
+3.      Agravo conhecido e parcialmente provido. Unânime.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 1ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, TEÓFILO CAETANO - Relator, RÔMULO DE ARAÚJO MENDES - 1º Vogal e DIVA LUCY DE FARIA PEREIRA - 2º Vogal, sob a Presidência do Senhor Desembargador RÔMULO DE ARAÚJO MENDES, em proferir a seguinte decisão: CONHECER DO RECURSO E DAR-LHE PARCIAL PROVIMENTO. DECISÃO UNÂNIME, de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 24 de Abril de 2023
+
+Desembargador TEÓFILO CAETANORelator
+
+RELATÓRIO
+
+Cuida-se de agravo de instrumento interposto por Inácio Ângelo de Faria Pinto em face da decisão que, nos autos da ação de inventário dos bens deixados por Julieta Pinto de Almeida, manejada por parte dos herdeiros necessários da extinta, dentre outras medidas, não conhecera da impugnação formulada pelo ora agravante, esclarecendo, outrossim, que a gratuidade de justiça fora indeferida em face do espólio, que suportará as custas processuais. Objetiva o agravante a reforma do decisório guerreado de forma que seja contemplado com a gratuidade de justiça que postulara.
+
+Como lastro material passível de aparelhar a irresignação, argumentara, em suma, que alguns herdeiros necessários da inventariada, Sra. Julieta Pinto de Almeida, sua avó paterna, ajuizaram ação de inventário dos bens deixados pela extinta. Sustentara que, inserido na relação processual, postulara que fosse concedido em seu favor os benefícios da justiça gratuita, pedido que fora indeferido pelo Juízo a quo e materializado na decisão arrostada. Asseverara que, tendo afirmado sua incapacidade de custear os emolumentos derivados da ação aviada e exibido seus contracheques, assiste-lhe o direito de ser agraciado com o benefício que reclamara, inclusive porque dos elementos que ilustram os autos não se extrai nenhum fato apto a elidir a presunção que o beneficia e lhe assegura o direito de ser contemplado com a isenção de custas que reclamara com a simples condição de que afirme sua hipossuficiência, consoante prescreve o artigo 4º da Lei nº 1.060/50.
+
+Ressaltara que, além do mais, consoante o entendimento jurisprudencial dominante, à parte assiste o direito de fruir dos benefícios da assistência judiciária mediante a simples satisfação da condição de afirmar que não está em condições de suportar os custos do processo, sem prejuízo próprio ou da sua família, pois o regrado por aludido dispositivo guarda compatibilidade com o artigo 5º, inciso LXXIV, da Constituição Federal, que simplesmente cuidara de impor ao estado a obrigação de prestar assistência judiciária gratuita aos carentes de recursos suficientes para custear o processo, não condicionando a fruição do benefício à evidenciação da incapacidade financeira de quem o postulara. Esteado nesses argumentos, postulara a reforma da decisão a quo, de forma que seja contemplado com a gratuidade de justiça que reclamara como forma de ter acesso ao Judiciário.
+
+Admitido o agravo, não havendo sido formulado pedido de antecipação da tutela recursal, fora assinalado prazo aos agravados para, querendo, contrariarem o recurso[1].
+
+Os agravados, conquanto devidamente intimados, não contrariaram o recurso[2].
+
+É o relatório.
+
+[1] - ID Num. 42642307 - Pág. 1 (fl. 26).
+
+[2] - ID Num. 43511755 - Pág. 1 a ID Num. 43511604 - Pág. 1 (fls. 28/32).
+
+VOTOS
+
+O Senhor Desembargador TEÓFILO CAETANO - Relator
+
+Cabível, tempestivo, dispensado de preparo, subscrito por advogado e corretamente aparelhado, satisfazendo, pois, os pressupostos objetivos e subjetivos de recorribilidade que lhe são próprios, conheço do agravo.
+
+Cuida-se de agravo de instrumento interposto por Inácio Ângelo de Faria Pinto em face da decisão que, nos autos da ação de inventário dos bens deixados por Julieta Pinto de Almeida, manejada por parte dos herdeiros necessários da extinta, dentre outras medidas, não conhecera da impugnação formulada pelo ora agravante, esclarecendo, outrossim, que a gratuidade de justiça fora indeferida em face do espólio, que suportará as custas processuais. Objetiva o agravante a reforma do decisório guerreado de forma que seja contemplado com a gratuidade de justiça que postulara.
+
+Do alinhado infere-se que o objeto do agravo está circunscrito à aferição da possibilidade de ser assegurado ao agravante os benefícios da justiça gratuita em sede de ação de inventário, independentemente da aferição do que legalmente é exigido para que a parte possa fruir dos benefícios da justiça, tendo em vista que a decisão arrostada cingira-se a esclarecer que, na ação de inventário, as despesas processuais são suportadas exclusivamente pelo espólio. Assim pontuada a matéria devolvida a reexame e delimitado o lastro invocado como apto a ensejar o acolhimento da pretensão reformatória que estampa, seu desenlace não encerra dificuldades.
+
+Consoante retratado nos autos principais, diante do falecimento da Sra. Julieta Pinto de Almeida, fora ajuizada ação de inventário na forma de arrolamento comum, tendo por objeto a partilha dos bens deixados pela falecida. Com efeito, a extinta deixara 10 (dez) herdeiros necessários, dentre os quais se incluem seus filhos e os netos de filhos já falecidos, que participam da sucessão por representação. A a ação fora manejada por apenas 5 (cinco) herdeiros, de modo que fora postulada a citação dos demais sucessores sobejantes. Há que ser assinalado, ainda, que uma das netas da falecida, a Sra. Jackeline Costa de Almeida, regularmente citada, formulara impugnação[1] reclamando a intimação do inventariante para prestar contas dos valores recebidos a título de aluguéis dos imóveis que integram o acervo hereditário e depositar em Juízo esses valores.  Nessa impugnação, ademais, requestara a herdeira nomeada a condenação dos herdeiros que originalmente aviaram a ação ao pagamento de honorários advocatícios de sucumbência.
+
+Consignadas essas observações, sobreleva pontuar que a ação de inventario, na forma de arrolamento comum, traduz procedimento de jurisdição voluntária, no qual sequer há a citação da parte contrária, mas apenas o chamamento dos herdeiros para se manifestarem sobre as primeiras declarações. Ocorre que, na hipótese, fica patente a natureza contenciosa da sucessão, tendo em conta a latente litigiosidade manifestada por uma das herdeiras da extinta e pelo próprio agravante, que, inclusive, formulara impugnação, que não fora conhecida pelo Juízo, estando ambos representados por advogados diferentes do causídico que assiste os herdeiros que aviaram a ação de inventário.
+
+Saliente-se, demais disso, que a ação de inventário ostenta características peculiares, tendo em vista que, ao mesmo tempo em que admite seja ajuizada de forma concorrente por qualquer dos legitimados indicados nos artigos 615 e 616 do estatuto processual, o aviamento do processo sucessório por um dos legitimados automaticamente excluiu a possibilidade de exercício do direito de ação pelos demais co-legitimados, que passarão a ocupar o polo processual oposto ao do sucessor que deflagrara o pedido de inventário. É o que ocorre na hipótese, em que foram inseridos na angularidade contrária ao dos sucessores que aviaram a pretensão 5 (cinco) sucessores da extinta.
+
+Alinhadas essas considerações, aferida a litigiosidade estabelecida entre os herdeiros da inventariada, conquanto os custos do inventário devam ser suportados pelo espólio, os herdeiros também experimentarão custos, notadamente em razão do manejo de recursos, podendo, então, em nome próprio, demandar gratuidade com essa conformação, que não aproveitará o espólio. Destarte, independentemente da circunstância de ter sido indeferido o beneplácito ao espólio, assiste ao agravante o direito de postular a concessão da salvaguarda pessoalmente, cujo alcance será adstrito à sua pessoa, não aproveitando a universalidade.
+
+Assim é que, aviado o pedido, não sobeja possível ao Juiz da sucessão deixar de examinar a postulação sob a ótica de que a gratuidade demandada pelo espólio já havia sido indeferida. Nesse contexto, merece reparos o provimento guerreado, que omitira a análise do pedido de gratuidade de justiça formulado pelo agravante sob o fundamento de que gratuidade de justiça fora indeferida em face do espólio, que suportará as custas processuais. É que, frise-se, diante da litigiosidade instaurada, o agravante suportará custos que transcendem os afetos ao espólio, notadamente o preparo de eventuais recursos que venha a interpor em nome próprio.
+
+Aliás, o Superior Tribunal de Justiça, Corte encarregada de ditar a derradeira palavra na exegese e aplicação do direito federal infraconstitucional, possui o entendimento de que afigura-se possível a condenação ao pagamento de honorários de sucumbência em processo de jurisdição voluntária em que houver litigiosidade, consoante se infere dos julgados que guardam as seguintes ementas:
+
+“PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO NCPC. HABILITAÇÃO DE CRÉDITO NO INVENTÁRIO. PROCEDIMENTO DE JURISDIÇÃO VOLUNTÁRIA. DISCORDÂNCIA DOS HERDEIROS. CONTENCIOSO. HONORÁRIOS ADVOCATÍCIOS. VERBA CABÍVEL. AGRAVO INTERNO NÃO PROVIDO. 1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC. 2. Esta Corte Superior já proclamou que, em procedimento de jurisdição voluntária, a existência de litigiosidade excepciona a regra de não cabimento de condenação em honorários advocatícios. 3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo interno não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido. 4. Agravo interno não provido.” (AgInt no AREsp n. 1.562.651/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 10/5/2021, DJe de 13/5/2021.)
+
+“PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PROCEDIMENTO ESPECIAL DE JURISDIÇÃO VOLUNTÁRIA. CONTENCIOSO. HONORÁRIOS ADVOCATÍCIOS. VERBA CABÍVEL. 1. ‘Nos procedimentos de jurisdição voluntária, em que há litigiosidade, não meros interessados, é cabível a condenação da parte vencida em honorários advocatícios. Precedentes do STJ: REsp n. 77.057-SP, relator Ministro NILSON NAVES, DJ de 25.3.1996; AgRg no Ag n. 128.881-MG, relator Ministro WALDEMAR ZVEITER, DJ de 25.2.1998’ (Resp n. 283.222/RS, relator Ministro JOÃO OTÁVIO DE NORONHA, 2ª Turma, unânime, DJ 6.3.2006). 2. Agravo regimental a que se nega provimento.” (AgRg no Ag n. 1.362.095/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 10/4/2012, DJe de 18/4/2012.)
+
+“RECURSO ESPECIAL. RETIFICAÇÃO DE REGISTRO IMOBILIÁRIO. ARTIGO 213, INCISO I, ALÍNEAS ‘D’ E ‘E’, DA LEI Nº 6.015./1973. SÚMULA Nº 284/STF. INCIDÊNCIA. JURISDIÇÃO VOLUNTÁRIA. AUSÊNCIA DE LITIGIOSIDADE. HONORÁRIOS ADVOCATÍCIOS. NÃO CABIMENTO. 1. Cuida-se, na origem, de ação de retificação de matrícula de imóvel (jurisdição voluntária), objetivando a correta delimitação do bem registrado, em que foi equivocadamente indicada pessoa para ser citada como suposta proprietária de área confrontante. 2. Inviável o acolhimento do pleito exordial, em recurso especial, pois o dispositivo legal invocado (art. 216, I, alíneas ‘d’ e "e", da Lei nº 6.015/1973) não garante automaticamente a retificação do registro, nem infirma o fundamento adotado no acórdão recorrido para rejeitar a pretensão inicial, qual seja, a insuficiência de prova da propriedade da área reclamada. Incidência da Súmula nº 284/STF. 2. Em procedimento de jurisdição voluntária, a existência de litigiosidade excepciona a regra de não cabimento de condenação em honorários advocatícios. Precedentes. 3. No caso, a mera alegação de ilegitimidade de parte citada como confrontante não torna litigiosa a demanda, não lhe cabendo, portanto, honorários sucumbenciais. 4. Recurso especial parcialmente provido.” (REsp n. 1.524.634/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 27/10/2015, DJe de 3/11/2015.)
+
+Há que ser acentuado, por fim, que não sobeja cabível, nesta sede recursal, aferir se a situação financeira do agravante o habilita a ser agraciado com os benefícios da justiça gratuita, sob pena de supressão de instância. Como cediço, o princípio do duplo grau de jurisdição, se se qualifica como garantia e direito assegurado à parte, deve se conformar com o devido processo legal, ensejando a ilação de que somente pode ser exercitado após ter sido a questão resolvida pela instância inferior. Ou seja, somente após ter o órgão jurisdicional a quo se manifestado sobre a questão é que poderá ser devolvida à reapreciação do órgão revisor. Com efeito, o recurso é o instrumento processual destinado a resguardar às partes o direito de submeterem ao órgão recursal o reexame das questões resolvidas pela instância inferior, consubstanciando-se, pois, na forma de materialização do princípio do duplo grau de jurisdição que usufrui da condição de dogma constitucional.
+
+Como está destinado a viabilizar o reexame de questão já resolvida, o aviamento de todo e qualquer recurso tem como pressuposto genético a existência de pronunciamento judicial acerca da matéria que faz seu objeto. O efeito devolutivo próprio dos recursos está municiado com poder para devolver ao exame da instância superior o exame tão-somente e exclusivamente das matérias efetivamente resolvidas pela instância inferior. Existindo questão pendente de pronunciamento, não se afigura, por conseguinte, viável a resolução da matéria nessa sede recursal.
+
+Como corolário dessas circunstâncias emerge, então, a certeza de que deve o juízo sucessório examinar a pretensão formulada pelo agravante, não estando esse órgão recursal municiado com lastro para, desconsiderando o princípio do duplo grau de jurisdição, substituí-lo e, apreciando a pretensão, deferi-la ou denegá-la, concedendo provimento jurisdicional que ainda não lhe havia sido outorgado ou negado. Se assim procedesse, o órgão revisor incorreria em nítida supressão de instância e invasão de competência, resolvendo questão que originariamente, em subserviência, inclusive, ao princípio do Juízo natural, deve ser solvida pelo Juízo da causa e somente após seu pronunciamento é passível de ser submetida ao seu reexame.
+
+Alinhados esses argumentos e afigurando-se despiciendo o aduzimento de quaisquer outras considerações, ressoa que a ilustrada decisão arrostada ressente-se de sustentação, porquanto deve o Juízo apreciar o pedido de concessão dos benefícios da justiça gratuita postulado pelo agravante, devendo ser parcialmente reformada como forma de lhe ser resguardada a resolução da pretensão que deduzira.
+
+Com fundamento nos argumentos alinhados, provejo parcialmente o agravo para, reformando parcialmente a ilustrada decisão arrostada, instar o Juízo sucessório a apreciar o pedido de gratuidade judiciária formulado pelo agravante, que não se confunde com o pedido anteriormente formulado pelo espólio. Comunique-se ao ilustrado Juízo prolator da decisão agravada. Sem custas finais.
+
+É como voto.
+
+[1] - ID Num. 125516059 - Pág. 14 (fls. 190/193) – ação principal
+
+O Senhor Desembargador RÔMULO DE ARAÚJO MENDES - 1º Vogal Com o relatorA Senhora Desembargadora DIVA LUCY DE FARIA PEREIRA - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECER DO RECURSO E DAR-LHE PARCIAL PROVIMENTO. DECISÃO UNÂNIME
