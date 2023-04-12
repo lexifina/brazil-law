@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de pedido, formulado por TALLIS RORGES DA SILVA ROVERI, de reconsideração da decisão de e-STJ fls. 41/42, por meio da qual indeferi liminarmente o presente writ, nos seguintes termos:
+Trata-se de habeas corpus com pedido liminar impetrado em favor de TALLIS RORGES DA SILVA ROVERI apontando como autoridade coatora o Juiz de Direito Presidente do Tribunal do Júri da Comarca de Santa Fé do Sul/SP.
+Colhe-se dos autos que o paciente foi condenado a 21 anos, 10 meses e 15 dias de reclusão, em regime fechado, pela prática de delitos de homicídio qualificado consumado e tentado.
+Posteriormente, a defesa impetrou prévio writ no Tribunal de origem, pugnando pelo reconhecimento de nulidade na quesitação, sob o argumento de que, "estando presente contradição essencial na descrição dos fatos e o crime descrito nas quesitações, a confundir os jurados e ocasionar na contradição da resposta dos quesitos e a sentença aplicada, a NULIDADE ABSOLUTA - que poderia ter sido sanada em tempo e modo pelo D. Magistrado de piso - era e é o que se impõe" (e-STJ fl. 6). Requereu, ao final, a concessão da ordem para reconhecer a nulidade apontada.
+A Corte de origem, no entanto, não conheceu do writ originário e determinou a remessa do feito a esta Corte, ao fundamento de que já houve o julgamento do recurso de apelação (Apelação n. 0004955-86.2012.8.26.0541), de maneira que, passando a figurar aquele Tribunal como autoridade coatora, a competência para apreciação do habeas corpus seria do Superior Tribunal de Justiça (e-STJ fls. 28/29).
+Os autos, então, por prevenção do HC n. 677.844/SP, foram a mim distribuídos.
+É o relatório. Decido.
+O habeas corpus não comporta conhecimento.
+Como se sabe, o rito do habeas corpus pressupõe prova pré-constituída do direito alegado, a partir da qual deve a parte demonstrar, de maneira inequívoca, a existência de constrangimento ilegal imposto, o que não ocorre na espécie.
+É que, não obstante as razões declinadas na inicial e a decisão da Corte de origem proferida às e-STJ fls. 28/29, não está juntada aos autos cópia do acórdão da Corte originária que apreciou o recurso de apelação, o que, a toda evidência, impede o exame da controvérsia suscitada.
+Dessa forma, diante da ausência de prova pré-constituída das alegações, torna-se impossível analisar o suposto constrangimento ilegal.
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
+Neste pedido, a defesa colaciona aos autos cópia do acórdão proferido na apelação, aduzindo que "a Colenda 16ª Turma do Egrégio Tribunal de Justiça do Estado de São Paulo, não apreciou o tema apresentado neste modesto Habeas Corpus, porquanto, não fora objeto de recurso de Apelação, logo, com a devida e máxima vênia, como já dito, esta modesta Defesa entende que o Tribunal de Justiça do Estado de São Paulo, seria competente para julgar a matéria, pelas razões expostas" (e-STJ fl. 46).
+Reitera os argumentos lançados na inicial, e pugna, ao final, pela concessão da ordem para reconhecer a nulidade apontada, determinando-se a realização de novo julgamento pelo Tribunal do Júri.
+É o relatório. Decido.
+A defesa colacionou aos autos, às e-STJ fls. 47/59, o documento imprescindível ao exame da controvérsia, qual seja, a cópia do acórdão proferido pelo Tribunal de origem por ocasião do julgamento do recurso de apelação.
+No entanto, a leitura do acórdão proferido pela Corte a quo revela que a nulidade aqui aventada não foi suscitada nas razões de apelação, não tendo sido, via de consequência, apreciada pela instância ordinária.
+É o que revelam os seguintes excertos do acórdão ora impugnado, senão vejamos (e-STJ fls. 48/51):
+Trata-se de recurso de apelação interposto por TALLIS RORGES DA SILVA ROVERI, contra sentença de primeiro grau (fls. 2018/2022), prolatada em 28 de julho de 2022, pelo MM. Juiz de Direito, Dr. Rafael Almeida Moreira de Souza, da 3ª Vara da Comarca de Santa Fé do Sul, que o condenou à pena de 21 anos, 10 meses e 15 dias de reclusão, em regime inicial fechado, por infração ao art. 121, § 2º, incisos II e IV, c.c. o art. 121, § 2º, incisos II e IV (forma tentada), do Código Penal, ambos em concurso formal.
+Inconformado, TALLIS, por sua defesa técnica, interpôs recurso de apelação almejando, preliminarmente, o reconhecimento de nulidade decorrente da colocação de duas vítimas em uma mesma série de quesitos, cerceamento de defesa pelo indeferimento de juntada de documentos e pelo não adiamento da sessão de julgamento (ante a impossibilidade de comparecimento presencial de testemunha acometida por doença), assim como pela juntada de documentos pelo órgão acusatório, os quais impediram a análise pormenorizada pela defesa. No mérito, sustentou o suposto julgamento contrário à prova dos autos, e, subsidiariamente, o redimensionamento da reprimenda.
+ ..
+Ab initio, não devem prosperar os pleitos preliminares suscitados pela defesa do acusado.
+Consoante se depreende da ata de julgamento (fl. 2076), procedeu-se à formação de uma série de quesitos para ambos os delitos sob o fundamento destes terem sido praticados através de uma única conduta, em concurso formal próprio, visando evitar, pois, "colidência de respostas logicamente incompatíveis". Outrossim, inexistiu qualquer prejuízo para a defesa, a qual não apresentou teses distintas para os delitos, salientando-se, também, o fato de sequer ter se irresignado desse ponto durante o julgamento em plenário (fl. 2077), estando preclusa a referida objeção. (Grifei.)
+A ausência de apreciação da controvérsia pela instância antecedente, como se sabe, impede o exame da nulidade aqui apontada pela defesa, sob pena de indevida supressão de instância e violação aos postulados do devido processo legal e duplo grau de jurisdição.
+Ilustrativamente:
+PENAL E PROCESSO PENAL. RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. SENTENÇA CONDENATÓRIA. NEGATIVA DO DIREITO DE RECORRER EM LIBERDADE. FUNDAMENTAÇÃO CONCRETA. REITERAÇÃO DELITIVA, E NATUREZA E QUANTIDADE DA DROGA APREENDIDA. ILEGALIDADE. NÃO CONFIGURADA. RECURSO PARCIALMENTE CONHECIDO, E, NESTA PARTE, IMPROVIDO.
+1. Matéria não apreciada pelo Tribunal a quo, também não pode ser objeto de análise nesta Superior Corte, sob pena de indevida supressão de instância.
+ ..
+3. Recurso em habeas corpus parcialmente conhecido, e, nesta parte, improvido. (RHC n. 68.025/MG, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 17/5/2016, DJe 25/5/2016.)
+Ante o exposto, reconsidero a decisão de e-STJ fls. 41/42, mas mantenho o indeferimento liminar do presente habeas corpus, por motivo diverso.
+Publique-se. Intimem-se.
