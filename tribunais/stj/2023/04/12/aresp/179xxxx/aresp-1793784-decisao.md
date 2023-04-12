@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ENDUTEX BRASIL LDA. (ENDUTEX) contra decisão que negou seguimento ao seu apelo nobre.
+Foi apresentada contraminuta (e-STJ, fl. 1.033/1.040).
+É o relatório.
+Decido.
+Primeiramente, quanto à alegação de cumprimento da obrigação pela seguradora SOMPO SEGUROS S.A., ante o pagamento e a necessidade de desconto de valores da franquia, deve ser apresentada ao Juízo de primeira instância para que se manifeste acerca dele, não competindo a esta Corte a apreciação do tema.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alínea a, da CF, ENDUTEX alegou a violação dos arts. 1.022, 1.023, §2º, do NCPC e 445, caput e §1º, do CC, aduzindo que (1) o acórdão recorrido foi omisso quanto à decadência a partir da ciência inequívoca do vício; (2) é nula a reforma do acórdão sem intimação da parte adversa para se manifestar acerca dos embargos de declaração; e (3) decorreu o prazo decadencial de cento e oitenta dias para reclamar vícios redibitórios (e-STJ, fls. 948/958).
+(2) Da nulidade do julgamento dos embargos de declaração
+Nas razões do especial, ENDUTEX aduziu violação do art. 1.023, §2º, do NCPC, asseverando que é nula a reforma do acórdão sem intimação da parte adversa para se manifestar acerca dos embargos de declaração.
+Com efeito, o acórdão que julgou os embargos de declaração opostos pela SOMPO SEGUROS S.A. (SOMPO) acolheu parcialmente os embargos, determinando que fosse decotado da condenação da seguradora o montante relativo à franquia (e-STJ, fls. 931/935).
+Desse modo, observa-se que houve verdadeira concessão de efeitos infringentes, reduzindo o montante devido pela SOMPO.
+Contudo, a jurisprudência do STJ é pacífica no sentido de que deve ser oportunizado o contraditório e a ampla defesa à parte embargada, quando houver possibilidade de concessão de efeitos infringentes. A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS DE DECLARAÇÃO. EFEITOS INFRINGENTES. AUSÊNCIA DE INTIMAÇÃO DO EMBARGADO PARA IMPUGNAR. NULIDADE. MULTA DO ART. 1.021, § 4º, do CPC/2015. NÃO INCIDÊNCIA. DECISÃO MANTIDA.
+1. "O entendimento da Corte Especial do Superior Tribunal de Justiça é no sentido de que, havendo "possibilidade de concessão de efeitos infringentes aos embargos declaratórios, os princípios do contraditório e da ampla defesa pressupõem a viabilidade de a Parte Embargada participar da construção comunicativa da decisão judicial, de modo a agregar aos autos suas contrarrazões antes do pronunciamento da Corte" (EAREsp 285.745/SP, Rel. Ministra LAURITA VAZ, CORTE ESPECIAL, DJe 2/2/2016.).Embargos de divergência providos" (EREsp 1.049.826/SP, Rel. Ministro HUMBERTO MARTINS, CORTE ESPECIAL, julgado em 16/11/2016, DJe 24/11/2016.) 2. Conforme orienta a jurisprudência das Turmas que compõem a Segunda Seção do STJ, "a aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, não se tratando de mera decorrência lógica do não provimento do agravo interno em votação unânime. A condenação do agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que, contudo, não ocorreu na hipótese examinada" (AgInt nos EREsp n. 1.120.356/RS, Relator Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 24/8/2016, DJe 29/8/2016).
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.675.116/MT, relator Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, j. em 19/10/2020, DJe de 26/10/2020.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS DE DECLARAÇÃO ACOLHIDOS COM EFEITOS MODIFICATIVOS. INVERSÃO DA SUCUMBÊNCIA. AUSÊNCIA DE INTIMAÇÃO PARA IMPUGNAR OS EMBARGOS DE DECLARAÇÃO. OFENSA AO CONTRADITÓRIO. NULIDADE DO JULGADO. AGRAVO INTERNO DESPROVIDO.
+1. A falta de intimação da parte embargada enseja nulidade do julgamento que acolhe embargos de declaração conferindo-lhes efeitos modificativos.
+2. Agravo interno desprovido.
+(AgInt no REsp n. 1.839.732/SP, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. em 31/8/2020, DJe de 8/9/2020.)
+Portanto, o recurso especial merece provimento, a fim de reconhecer a nulidade do acórdão que julgou os embargos de declaração de e-STJ, fls. 922/929, determinando o retorno dos autos ao Tribunal estadual para que proceda a novo julgamento dos referidos aclaratórios, após intimação da parte embargada para se manifestar acerca do recurso.
+Nessas condições, CONHEÇO do agravo para DAR PROVIMENTO ao recurso especial, para reconhecer a nulidade do acórdão que julgou os embargos de declaração de e-STJ, fls. 922/929, determinando o retorno dos autos para que o Tribunal estadual proceda a novo julgamento dos referidos aclaratórios, após intimação da parte embargada para se manifestar acerca do recurso.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. VÍCIO REDIBITÓRIO. REPARAÇÃO DE DANOS. EFEITOS INFRINGENTES. EMBARGOS DE DECLARAÇÃO. CONTRADITÓRIO. IMPRESCINDIBILIDADE. NULIDADE. AGRAVO CONHECIDO. RECURSO ESPECIAL PROVIDO.
