@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por APARECIDO VALTAIR GALBIATI (APARECIDO) contra decisão que inadmitiu seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça do Estado de São Paulo, de relatoria do Des. SERGIO ALFIERI, assim ementado:
+AGRAVO INTERNO. Interposição contra decisão que indeferiu os benefícios da gratuidade da justiça e facultou ao agravante o recolhimento do preparo, sob pena de deserção. Manutenção dos fundamentos da decisão agravada. Pedido formulado em sede recursal, sendo determinada a juntada de documentos. Parcial cumprimento. Benefício indeferido, diante da não comprovação de o agravante estar impossibilitado de suportar os encargos processuais, facultado o recolhimento do preparo do recurso, sob pena de deserção. Decisão mantida. RECURSO DESPROVIDO, com observação quanto ao preparo da apelação (e-STJ, fl. 994)
+Os embargos de declaração opostos por APARECIDO foram rejeitados (e-STJ, fls. 993/998).
+Irresignado, APARECIDO interpôs recurso especial, com base no art. 105, III, alínea a e c, da CF, alegando violação dos arts. 8, 98, 99, § 3º, 100, 1.022, II, do CPC, ao sustentar (1) negativa da prestação jurisdicional, em razão do não acolhimento dos embargos opostos para fins de prequestionamento; (2) que não possui condições de suportar as custas e despesas processuais da ação, sendo o bastante para a concessão dos benefícios da justiça gratuita a apresentação da declaração de hipossuficiência; e, (3) dissenso jurisprudencial (e-STJ, fls. 1.014/1.056).
+Foram apresentadas as contrarrazões (e-STJ, fls. 1.063/1.065).
+O recurso não foi admitido pelo Tribunal de Justiça do Estado de São Paulo (e-STJ, fls. 1.066/1.069).
+Nas razões do presente agravo, APARECIDO alegou que não incidem os óbices apontados na decisão de inadmissibilidade (e-STJ, fls. 1.072/1.088).
+Foi apresentada contraminuta (e-STJ, fls. 1.091/1.096).
+É o relatório.
+DECIDO.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+(1) Da alegada negativa da prestação jurisdicional
+No que se refere à violação do art. 1.022, II, do CPC, APARECIDO alegou genericamente a ofensa ao citado artigo, sem demonstrar de que forma houve a vulneração ao referido dispositivo, sem indicar quais pontos do acórdão foram omissos, contraditórios ou obscuros.
+Ou seja, não houve a indicação das teses omitidas, em evidente alegação genérica de contrariedade ao referido dispositivo.
+Nestes casos, ante a deficiente fundamentação do recurso, incide a Súmula nº 284 do STF, por analogia: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Esse é o entendimento desta Corte, confiram-se os seguintes julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. ACIDENTE DE TRÂNSITO. 1. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA 284/STF. 2. DEVER DE INDENIZAÇÃO. FUNDAMENTO INATACADO. INCIDÊNCIA DA SÚMULA 283/STF. 3. MONTANTE INDENIZATÓRIO. PRETENSÃO DE REDUÇÃO. DESCABIMENTO. SÚMULA 7/STJ. 4. JUROS DE MORA. TERMO INICIAL. RELAÇÃO EXTRACONTRATUAL. DATA DO EVENTO DANOSO. SÚMULA 54/STJ. 5. AGRAVO INTERNO IMPROVIDO.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa aos arts. 489 e 1.022 do CPC/2015 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão tornou-se omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF.
+ ..
+5. Agravo interno improvido.
+(AgInt no AREsp 1.526.287/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 16/3/2020, DJe 20/3/2020 - sem destaques no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - EMBARGOS À EXECUÇÃO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA EMBARGADA.
+1. A alegação de afronta ao artigo 1.022 do CPC/15 se deu de forma genérica, circunstância impeditiva do conhecimento do recurso especial, no ponto, pela deficiência na fundamentação. Aplicação da Súmula 284 do STF, por analogia.
+ ..
+3. Evidente a deficiência na fundamentação do apelo extremo, pois apresenta razões dissociadas do que foi decidido pelo acórdão recorrido, circunstância atrativa da Súmula 284/STF.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1.345.876/SP, Rel. Ministro MARCO BUZZI, Quarta Turma, j. 19/11/2019, DJe 21/11/2019 - sem destaques no original)
+Assim, não se conhece da suscitada violação ao art. 1.022 do CPC.
+(2) Da invocada comprovação dos requisitos ensejadores para a concessão dos benefícios da justiça gratuita
+O Tribunal de Justiça do Estado de São Paulo, soberano na análise do conteúdo fático-probatório, conclui inexistir, nos autos, prova inequívoca da insuficiência econômica da parte recorrente, não tendo sido preenchidos, dessa forma, os requisitos para a concessão da gratuidade de justiça, como se pode observar dos trechos extraídos do acórdão impugnado, a seguir transcritos:
+O art. 99, § 2º, do CPC, autoriza expressamente o afastamento da presunção iuris tantum da declaração de hipossuficiência econômica, se houver nos autos elementos que evidenciem a falta dos pressupostos legais para a concessão da gratuidade da justiça. O Juízo a quo indeferiu o pedido de concessão da gratuidade da justiça, ao fundamento de que "malgrado não tenha realizado declaração de IR, a contratação entabulada, de per si, é bastante para comprovar que não se enquadra no conceito de miserabilidade". E, nesse sentido, a transação entabulada - aquisição de 24.680 kg de sementes de amendoim no valor total de R$ 180.600,00 -, por si só, é mais do que suficiente para ir em desencontro à alegação de insuficiência de recursos para o recolhimento do preparo recursal. Ademais, o agravante recolheu as custas iniciais na ação de conhecimento apensada aos embargos à execução (proc. 1002018-84.2019.8.26.0236), além de não ter cumprido integralmente ao determinado às fls. 937/939, ao deixar de trazer aos autos a documentação necessária para análise do pedido, mesmo após a concessão de prazo suplementar (fls. 953). Nesse contexto, não estão preenchidos os requisitos para a concessão da gratuidade de justiça, posto inexistir prova inequívoca de insuficiência econômica do agravante (e-STJ, fl. 997/998 - sem destaques no original)
+Ora, adotar conclusão diversa da que chegou o Tribunal Bandeirante demandaria, necessariamente, o reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula nº 7 do STJ.
+Nesse sentido, confira-se a jurisprudência desta Corte:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ QUE NÃO CONHECEU DO RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A FUNDAMENTOS DA DECISÃO AGRAVADA. DESCUMPRIMENTO DA EXIGÊNCIA CONTIDA NO § 1º DO ART. 1.021 DO CPC/2015. JUSTIÇA GRATUITA. INDEFERIMENTO. REVISÃO. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. NÃO COMPROVAÇÃO. ADEQUAÇÃO DA DECISÃO AGRAVADA. AGRAVO INTERNO PARCIALMENTE CONHECIDO E NÃO PROVIDO.
+(AgInt no AREsp n. 1.987.578/MS, relator Ministro PAULO DE TARSO SANSEVERINO, Terceira Turma, j. 8/8/2022, DJe de 10/8/2022 - sem destaques no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. ASSISTÊNCIA JUDICIÁRIA GRATUITA. PESSOA FÍSICA. PRESUNÇÃO JURIS TANTUM. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. BENEFÍCIO INDEFERIDO NA ORIGEM. CONFIRMADO PELO TRIBUNAL APÓS ANÁLISE DO ACERVO FÁTICO-PROBATÓRIO. REEXAME. INVIABILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO PROVIDO. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, tratando-se de concessão do benefício de gratuidade da justiça a pessoa física, há presunção juris tantum de que quem pleiteia o benefício não possui condições de arcar com as despesas do processo sem comprometer seu próprio sustento ou de sua família. Tal presunção, contudo, é relativa, podendo o magistrado indeferir o pedido de justiça gratuita se encontrar elementos que infirmem a hipossuficiência do requerente. Precedentes.
+2. No caso, as instâncias ordinárias, examinando a situação patrimonial e financeira da agravante, concluíram haver elementos suficientes para afastar a declaração de hipossuficiência, indeferindo, por isso, o benefício da justiça gratuita. Nesse contexto, a alteração das premissas fáticas adotadas no acórdão recorrido demandaria o reexame do contexto fático-probatório dos autos, o que é defeso na via estreita do recurso especial, nos termos da Súmula 7/STJ.
+3. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para negar provimento ao recurso especial.
+(AgInt no AREsp n. 2.081.592/SP, relator Ministro RAUL ARAÚJO, Quarta Turma, j. 10/10/2022, DJe de 21/10/2022 - sem destaques no original)
+(3) Do suscitado dissenso jurisprudencial
+Consoante iterativa jurisprudência desta Corte, a incidência da Súmula nº 7 do STJ impede o conhecimento do recurso lastreado pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+A propósito, veja-se o seguinte julgado:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE INDENIZAÇÃO. DANO MORAL AMBIENTAL. CERCEAMENTO DE DEFESA. LIVRE CONVENCIMENTO. REEXAME DE PROVAS. SÚMULA Nº 7 DO STJ. CONFIGURAÇÃO DOS DANOS MORAIS. REEXAME DE PROVAS. SÚMULA Nº 7 DO STJ. DISSÍDIO JURISPRUDENCIAL APOIADO EM FATOS AGRAVO INTERNO NÃO PROVIDO.
+ ..
+4. No que se refere ao dissídio jurisprudencial, há que se registrar que consoante iterativa jurisprudência desta Corte, a incidência da Súmula nº 7 do STJ impede o conhecimento do recurso lastreado também pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+5. Agravo interno não provido.
+(AgInt no AREsp 1.400.292/SP, de minha relatoria, Terceira Turma, j. 9/3/2020, DJe 11/3/2020)
+Nessas condições, CONHEÇO do agravo em recurso especial, para NÃO CONHECER do recurso especial.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação das penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. VIOLAÇÃO DO ART. 1.022, II, DO CPC. INOCORRÊNCIA. JUSTIÇA GRATUITA. APELAÇÃO. INDEFERIMENTO. FALTA DE COMPROVAÇÃO DOS REQUISITOS ENSEJADORES DA BENESSE. REFORMA. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA Nº 7 DO STJ. DISSENSO JURISPRUDENCIAL APOIADO EM FATOS. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
