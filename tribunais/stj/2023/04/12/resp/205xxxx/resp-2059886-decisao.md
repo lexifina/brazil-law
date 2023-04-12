@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interposto por MARIA DOS REIS, às fls. 1.412-1.433, contra decisão da Corte de origem que não admitiu o recurso especial em razão da incidência da Súmula 284 do STF e da impossibilidade de se arguir violação de texto de súmula do STJ.
+O apelo nobre obstado enfrenta acórdã o, assim ementado (fls. 1.154-1.158):
+Processual Civil. Demanda movida por particular intentada contra três demandados, Companhia de Saneamento de Pernambuco (Compesa), Caixa Econômica Federal e Município de Araripina, ou seja, uma estadual; outra, federal; a última, municipal.
+ ..
+A impertinência do pedido principal do recurso da Compesa, por seu turno, deixa prejudicado os seus pedidos alternativos, entre os quais, o de atribuir responsabilidade a Caixa Econômica Federal, circunstância que indica a total desnecessidade de análise do papel da referida empresa pública federal, à míngua, também, de inconformismo por parte da autora com relação a improcedência da demanda contra mencionada ré, levando em conta a total falta de menção no seu recurso de apelo à aludida conclusão.
+Nesse sentido, a permanência da Caixa Econômica Federal - elo único que prende à lide ao comando da Justiça Federal - só pode ser consagrada por força de determinação expressa em recurso especial ou extraordinário, e, se não acontecer, a execução da sentença, envolvendo partes que não participam do roldo inc. I, do art. 109, da Constituição, deverá efetuar-se na Justiça Estadual, para onde, depois do trânsito em julgado, os autos deverão ser remetidos, salvo caso de decisão em sentido contrário em recurso especial ou em extraordinário.
+Por fim, o outro recurso, da parte autora, também não merece guarida. O valor da indenização se revela adequado, além de ter sido esse o que foi fixado nos julgados anteriores, aqui referidos, não havendo motivo para o seu aumento, nem tampouco para ser arbitrado para cada membro da família, mas considerando a família como uma unidade, nem se mostra pertinente a alteração na data da incidência dos juros de mora permanece como a r. sentença atacada apontou.
+Improvimento aos apelos da Compesa e da parte autora. Condenação dos vencidos em honorários advocatícios recursais, no percentual de um por cento sobre a condenação imposta em primeiro grau, a teor do § 11, do art. 85, do Código de Processo Civil, ficando, porém, suspensa sua cobrança da parte autora, por até cinco anos, enquanto perdurarem as condições que permitiram a concessão da justiça gratuita, com base no art. 98, § 3º, idem.
+Embargos de declaração rejeitados.
+No recurso especial a recorrente alega violação da Súmula 54/STJ, ao argumento de que o marco inicial de incidência dos juros de mora decorrentes de indenização em responsabilidade extracontratual é a data do evento danoso.
+Com contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Tendo a parte insurgente impugnado os fundamentos da decisão agravada, passo ao exame do recurso especial.
+A pretensão não merece prosperar.
+No caso dos autos, a recorrente não individualizou qual dispositivo de lei federal ou tratado se apresenta malferido. De fato, revelam-se deficientes as razões do recurso especial quando o recorrente limita-se a expor alegações genéricas e não indica qual dispositivo de lei federal ou tratado foi contrariado pelo acórdão recorrido, situação que se evidencia nos autos e impede o conhecimento do recurso. Aplica-se à hipótese a Súmula 284/STF.
+Ademais, o recurso especial não constitui via adequada para a análise de eventual ofensa a Súmula, ainda que vinculante, porque o termo não está compreendido na expressão "lei federal", constante da alínea "a " do inciso III do art. 105 da Constituição Federal. Incide ao caso o óbice contido na Súmula 518/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial. Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro em 10% os honorários advocatícios, observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (§ 3º do artigo 98 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DEFICIÊNCIA NA ARGUMENTAÇÃO RECURSAL. SÚMULA 284/STF. ARGUIÇÃO DE VIOLAÇÃO DE TEXTO DE SÚMULA. IMPOSSIBILIDADE. SÚMULA 518/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
