@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRF da 5ª Região, assim ementado (fl. 214):
+ADMINISTRATIVO. INSCRIÇÃO NOS QUADROS DA OAB. GERENTE DE INSTITUIÇÃO. LEI Nº 8.906/94. APELAÇÃO IMPROVIDA. FINANCEIRA (BB) IMPOSSIBILIDADE.
+1 A sentença apelada denegou a segurança pleiteada, objetivando a inscrição do impetrante nos quadros da OAB/PE, dada a incompatibilidade entre a função de gerência de instituição financeira e o exercício da advocacia.
+2. Nas razões de recurso, o apelante alegou, em apertada síntese, o seguinte: a) em março de 2021, apresentou pedido de inscrição definitiva como advogado na OAB/PE, devidamente instruído com a documentação a que alude o art. 8º da Lei n. 8.906/90; b) teve sua inscrição indeferida pela OAB; c) indeferimento deu-se em virtude de o autor ocupar o cargo de Gerente do Banco do Brasil, que, na visão da OAB/PE seria incompatível com o exercício da advocacia.
+3. No caso dos autos, a Lei n.º 8.906/1994 (Estatuto da Ordem dos Advogados do Brasil), foi expressa ao estabelecer a incompatibilidade do exercício da advocacia com algumas atividades.
+4. Especificamente, com relação à pretensão do apelante, observa-se a teor da documentação id. 1962007 que o impetrante exerce atividade de gerência no Banco do Brasil, amoldando-se, assim, ao obstáculo previsto no art. 28, inciso VIII do mencionado diploma legal.
+5. Apelação improvida.
+Embargos de declaração rejeitados.
+O recorrente sustenta ofensa ao art. 28, VIII, da Lei 8.906/1994, ao argumento de que, embora exerça função de gerência em instituição financeira, não detém poder de mando nem ingerência sobre direitos de terceiro, de modo que não há razões para indeferir o seu registro como advogado na OAB/PE.
+Com contrarrazões.
+Juízo positivo de admissibilidade à fl. 392.
+Instado a se manifestar, o Ministério Público Federal ofertou parecer pelo não conhecimento do recurso especial (fls. 404-407).
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+A pretensão não merece pro sperar.
+Isso porque o Tribunal de origem, após ampla análise do conjunto fático-probatório, firmou compreensão de que o ora recorrente exerce atividade de gerência no Banco do Brasil, subsumindo-se à hipótese de incompatibilidade ao exercício da advocacia.
+Vejamos (fls. 212-213):
+4. Especificamente, com relação à pretensão do apelante, observa-se a teor da documentação id. 1962007 que o impetrante exerce at ividade de gerência no Banco do Brasil, amoldando-se, assim, ao obstáculo previsto no inciso VIII do artigo acima transcrito.
+5. Nesse contexto, conforme pontuou a Juíza de origem, resta evidente que a pessoa dotada de poder decisório nas instituições financeiras são tidas por incompatíveis com o exercício da advocacia, em face do acesso privilegiado a informações não compartilhadas com outros advogados, bem como da facilidade de captação de clientes, o que, notadamente, se dá em prejuízo da classe de advogados de maneira geral.
+Assim, tem-se que a revisão da conclusão a que chegou o Tribunal de origem sobre a questão demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide ao caso a Súmula 7/STJ.
+Nesse sentido, mutatis mutandis:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. INSCRIÇÃO NA ORDEM DOS ADVOGADOS DO BRASIL. ART. 28, V, DA LEI 8.906/94. CARGO DE INSPETOR DE OBRAS MUNICIPAL. INCOMPATIBILIDADE. AUSÊNCIA DE VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, O ALUDIDO FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA 182/STJ. ACÓRDÃO RECORRIDO EM SINTONIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. SÚMULA 7/STJ. AGRAVO INTERNO PARCIALMENTE CONHECIDO, E, NESSA EXTENSÃO, IMPROVIDO.
+ ..
+IV. Nos termos do art. 28, V, da Lei 8.906/94, "a advocacia é incompatível, mesmo em causa própria, com as seguintes atividades: (..) V - ocupantes de cargos ou funções vinculados direta ou indiretamente a atividade policial de qualquer natureza". Consoante a jurisprudência do STJ, "a vedação relacionada à "atividade policial de qualquer natureza" abrange as atividades administrativas de fiscalização, autuação, apreensão e interdição, compreendidas no poder de polícia, pois, conferir vedação apenas à "atividade policial", no âmbito da segurança pública, não se coaduna com a extensão prevista na norma em análise pela expressão "de qualquer natureza" (STJ, REsp 1.377.459/RJ, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 27/11/2014). Em igual sentido: STJ, AgInt no REsp 1.752.999/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 31/05/2019; AgInt no REsp 1.650.353/ES, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 14/08/2017; AgRg no REsp 1.353.727/SC, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 14/10/2015.
+V. O acórdão recorrido concluiu que "o cargo em questão, ainda que indiretamente, reveste-se de natureza policial, pois diz respeito às atividades de fiscalização à forma de execução dessas medidas, tais como a lavratura de autos de infração, repreensões, intimações e embargos", e que, "na hipótese, é incontroversa a execução de funções típicas do poder de polícia administrativa". Assim, decidiu em conformidade com a jurisprudência desta Corte, aplicando-se, ao caso, o entendimento consolidado na Súmula 568/STJ ("O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema").
+VI. O entendimento firmado pelo Tribunal a quo, à luz dos fatos e das provas dos autos, no sentido de que o cargo em questão reveste-se, ainda que indiretamente, de natureza policial, não pode ser revisto, pelo Superior Tribunal de Justiça, em sede de Recurso Especial, sob pena de ofensa ao comando inscrito na Súmula 7 desta Corte. Precedentes do STJ.
+VII. Agravo interno parcialmente conhecido, e, nessa extensão, improvido.
+(AgInt no REsp n. 1.818.379/RS, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 19/11/2019, DJe de 29/11/2019).
+PROCESSUAL CIVIL E ADMINISTRATIVO. OAB. INSCRIÇÃO. CARGO DE ANALISTA DO SEGURO SOCIAL QUE NÃO SE ENQUADRA NO CASO DE INCOMPATIBILIDADE DO ART. 28 DA LEI 8.906/1994. SÚMULA 83/STJ. IMPOSSIBILIDADE DE REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+ ..
+2. Ademais, tendo o Tribunal de origem, diante das circunstâncias fáticas dos autos, concluído que as funções próprias do cargo de analista do seguro social, ocupado pela recorrida, não se enquadra no caso de incompatibilidade previsto no art. 28 da Lei 8.906/1994, é inviável o acolhimento das alegações deduzidas no Recurso Especial porquanto demanda incursão no acervo fático-probatório da causa, o que encontra óbice na Súmula 7/STJ.
+ ..
+4. Agravo em Recurso Especial não provido.
+(AREsp n. 1.170.560/PR, relator Ministro Herman Benjamin, Segunda Turma, julgado em 21/11/2017, DJe de 19/12/2017).
+Ante o exposto, não conheço do recurso especial. Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro em 10% os honorários advocatícios, observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (§ 3º do artigo 98 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EXERCÍCIO DA ADVOCACIA. INCOMPATIBILIDADE. CARGO DE GERÊNCIA EM INSTITUIÇÃO FINANCEIRA. ATRIBUIÇÕES. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. RECURSO ESPECIAL NÃO C ONHECIDO.
