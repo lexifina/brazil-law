@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso ordinário, sem pedido liminar, impetrado em favor de ELDER (VANDER ROBERTO) LAURENTINO, contra v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo (HC n. 2249038- 94.2022.8.26.0000).
+Depreende-se que o Juízo das execuções indeferiu pedido de prisão domiciliar formulado pelo paciente (fl. 82-83).
+Inconformada, a Defesa impetrou habeas corpus perante o Tribunal de origem, que não conheceu do writ, conforme acórdão de fls. 84-89, assim ementado:
+"Habeas corpus Nova impetração contendo pedido anteriormente aduzido em outro writ Reiteração do HC n.º 2297306-19.2021.8.26.0000 Inadmissibilidade de reiteração de pedido já veiculado a esta e. Corte ou que poderia ter sido veiculado em impetração anterior Precedentes Impetração anterior de outros três habeas corpus Ausência da demonstração de novos elementos fáticos ou jurídicos que impusessem uma nova análise Pedido que é matéria de incidente da execução Providência incabível em sede de HC - Remédio heroico inadequado Impossibilidade de HC substitutivo de recurso próprio Entendimentos do E. Superior Tribunal de Justiça e do E. Supremo Tribunal Federal Descabimento de concessão da ordem de ofício Decisão que negou a prisão domiciliar bem fundamentada Ordem não conhecida."
+No presente writ, a Defesa alega, em apertada síntese, que o paciente está submetido a constrangimento ilegal, porquanto preenche os requisitos legais para deferimento da prisão domiciliar, sob alegação de deficiência visual de sua companheira.
+Alega imprescindibilidade do paciente aos cuidados de sua companheira.
+Requer, ao final "(..) seja CONHECIDO e PROVIDO, digne-se Vossa Excelência a determinar que seja DEFERIDO o pedido de concessão de PRISÃO DOMICILIAR em favor do paciente ELDER VANDER ROBERTO ROBSON LAURENTINO, por ser medida de Justiça" (fl. 11)
+Informações prestadas às fls. 98-135 e 136-146.
+O Ministério Público Federal, às fls. 148-150, manifestou-se pela denegação da ordem, em parecer com a seguinte ementa:
+"Habeas corpus. Tráfico de entorpecentes. Pedido de prisão domiciliar. Companheira com deficiência visual. Writ não conhecido na origem por reiteração de pedido. Constrangimento ilegal não evidenciado. Ausência de comprovação da imprescindibilidade do paciente para os cuidados de pessoa com deficiência. Réu custodiado desde 2021. Necessidade de análise de matéria probatória. Parecer pela denegação da ordem."
+É o relatório.
+Decido.
+Via de regra, no que tange à concessão de prisão domiciliar em sede de execução penal, esta somente seria admitida nas hipóteses elencadas no art. 117 da Lei n. 7.210/1984, as quais pressupõem estar o reeducando no gozo do regime aberto, conforme se infere-se da leitura do dispositivo citado:
+"Art. 117. Somente se admitirá o recolhimento do beneficiário de regime aberto em residência particular quando se tratar de:
+I - condenado maior de 70 (setenta) anos;
+II - condenado acometido de doença grave;
+III - condenada com filho menor ou deficiente físico ou mental;
+IV - condenada gestante."
+De forma excepcional, claro, a jurisprudência desta Corte Superior de Justiça tem admitido o recolhimento do condenado em residência, ainda que não esteja no regime mais brando. Nesse sentido, os seguintes precedentes: RHC n. 64.509/MA, Quinta Turma, Rel. Min. Felix Fischer, DJe de 10/08/2016; AgRg no HC n. 234.583/RS, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 10/03/2014; RHC n. 87.697/RJ, Sexta Turma, Relª. Minª. Maria Thereza de Assis Moura, DJe de 21/11/2017.
+Na hipótese dos autos, no entanto, além de o paciente cumprir pena em regime fechado (fl. 82), as instâncias ordinárias concluíram, de forma fundamentada, pela impossibilidade da implementação da prisão domiciliar seja pela mera reiteração de pedidos reconhecida desde a origem (havia três impetrações anteriores no TJSP com os mesmos fundamentos: 2251989-95.2021.8.26.0000, 2212247-63.2021.8.26.0000 e 2251989-95.2021.8.26.0000) seja pela inexistência de excepcionalidade concreta devidamente demonstrada.
+In verbis (fl. 88):
+"(..) Acrescente-se, de todo modo, que não há comprovação de que o Paciente é o único responsável pela sua companheira, mormente considerando que ele se encontra preso desde 03/09/2021. Assim, não se verificando manifesta ilegalidade a ponto de justificar deferimento de ordem de ofício - mormente dado que a decisão que negou o pedido de prisão domiciliar está adequadamente fundamentada (fls. 60/61) e que o remédio constitucional não se presta ao exame aprofundado de provas ou de méritos para a concessão de benefícios da execução penal - de rigor o não conhecimento do Habeas Corpus (..)" (grifei).
+De mais a mais, é iterativa a jurisprudência do Superior Tribunal de Justiça no sentido de ser imprópria a via do habeas corpus (e do seu recurso) para a análise da presente tese defensiva, em razão da necessidade de incursão no acervo fático-probatório.
+Sobre o tema: HC n. 475.442/PE, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 22/11/2018; HC 431.708/MS, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 30/5/2018; HC n. 376.672/SP, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 31/8/2017; e AgRg no HC 379.981/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 16/3/2017.
+No mais, ir além do debate realizado pelas instâncias ordinárias configuraria a indevida supressão de instância. Nesse sentido, julgados deste Superior Tribunal de Justiça: EDcl no RMS 52.007/PR, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 7/3/2019; HC 374.752/MT, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 17/2/2017; HC 367.864/MT, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 22/2/2017; e AgRg no HC 400.382/RS, Sexta Turma, Relª. Minª. Maria Thereza de Assis Moura, DJe de 23/6/2017.
+Assim, não se verifica in casu a alegada flagrante ilegalidade.
+Ante o exposto, denego o presente habeas corpus.
+P. I.
