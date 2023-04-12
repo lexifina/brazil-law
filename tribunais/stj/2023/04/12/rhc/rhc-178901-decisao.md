@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por Matheus Alves Rios, atacando-se o acórdão proferido pelo Tribunal de Justiça do Ceará no HC n. 0621717-74.2023.8.06.0000 (fls. 85/100), que manteve a conversão da prisão em flagrante do recorrente em preventiva nos Autos n. 0201619-33.2023.8.06.0001 (fls. 55/59), da 2ª Vara de Delitos de Tráfico de Drogas da comarca de Fortaleza/CE, pela prática, em tese, do crime de tráfico de drogas (20 g de maconha, uma trouxinha de cocaína e uma pedra de crack - fl. 29).
+Aduz-se ilegalidade manifesta, consistente em deficiência de fundamentação do decreto preventivo, e requer-se, então, o conhecimento e o provimento do recurso, inclusive em caráter liminar, a fim de que o recorrente seja posto em liberdade.
+É o relatório.
+A despeito das alegações recursais, não diviso o alegado constrangimento quanto à fundamentação do decreto de prisional, pois a decisão que decretou a prisão cautelar demonstrou o receio de perigo gerado pelo estado de liberdade do imputado à ordem pública, ressaltando a reincidência específica do recorrente - que ostenta condenação definitiva por tráfico de drogas (fl. 56) -, existência de execução penal em curso - devendo ser ressaltado que, no processo de execução penal, foi proferida decisão de regressão para o regime fechado (fl. 56) - e a reiteração delitiva - constato, ainda, a existência de uma ação penal em andamento, por tentativa de furto qualificado (fl. 56) -, apresentando, assim, fundamento apto a consubstanciar a prisão.
+Confira-se: apresentada fundamentação concreta para a decretação da prisão preventiva, evidenciada na vivência delitiva do recorrente, consubstanciada na identificação de reincidência e execução penal em curso, não há falar em ilegalidade do decreto de prisão preventiva (RHC n. 81.956/MG, Ministro Nefi Cordeiro, Sexta Turma, julgado em 16/5/2017, DJe 24/5/2017).
+Em razão disso, nego seguimento ao presente recurso.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS (20 G DE MACONHA, UMA TROUXINHA DE COCAÍNA E UMA PEDRA DE CRACK). PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. RISCO DO ESTADO DE LIBERDADE PARA A ORDEM PÚBLICA. REINCIDÊNCIA ESPECÍFICA, EXECUÇÃO PENAL EM CURSO E REITERAÇÃO DELITIVA. FUNDAMENTOS IDÔNEOS. PRISÃO MANTIDA.
+Recurso a que se nega seguimento.
