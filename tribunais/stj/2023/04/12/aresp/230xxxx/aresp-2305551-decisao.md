@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de agravo apresentado por PATRICIA ALICE ZAMBOM DA SILVA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+AGRAVO DE INSTRUMENTO  EMBARGOS À EXECUÇÃO GRATUIDADE DE JUSTIÇA  PESSOA NATURAL  HIPOSSUFICIÊNCIA FINANCEIRA NÃO DEMONSTRADA  RECURSO DESPROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação dos arts. 98, caput, e 99, § 2º, do CPC, no que concerne à comprovação de que a recorrente faz jus ao benefício da gratuidade de justiça, trazendo a seguinte argumentação:
+O presente recurso é aviado em desfavor da decisão proferida nos autos do Agravo de Instrumento nº 1960404-69.2022.8.13.0000, que, negou provimento ao recurso interposto pela Recorrente, indeferindo a concessão da gratuidade judiciária.
+ ..
+Entretanto, como demonstrado, a Recorrente necessita da concessão do benefício da assistência judiciária por não possuir condições de arcar com as custas processuais sem comprometer sua subsistência, tendo sido juntado documentos que comprovam a concessão da benesse.
+ ..
+Infere-se do texto legal que qualquer parte no processo pode usufruir do benefício da justiça gratuita. Logo, a Recorrente faz jus ao benefício, haja vista não ter condições de arcar com as despesas do processo sem prejuízo de sua manutenção e de sua família.
+ ..
+Houve ainda clara afronta ao artigo 99, § 2º do Código de Processo Civil, pois não foi determinado que a Recorrente comprovasse o preenchimento dos pressupostos para a concessão da gratuidade.
+Nesta senda, ainda foi colacionado aos autos declaração de hipossuficiência, sendo que esta possui presunção de veracidade, juris tantum, porém esta somente poderá ser negada de plano pelo Juiz, se houver fundadas razões para tanto.
+De tal forma, não há que se falar que a Recorrente não comprovou o estado de hipossuficiência, pois foi cumprido o requisito, sem que houvesse no caso em tela qualquer demonstração de suficiência que fundamentasse a decisão do Douto Juízo a quo para indeferimento.
+Assim, não havendo prova em contrário da alegada hipossuficiência o comando do art. 99 do CPC, é de que de ofício será deferida a assistência judiciária. (fls. 172/177).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Em se tratando de pessoa natural, determina o §3º do art. 99 do CPC que se presume verdadeira a alegação de hipossuficiência deduzida, sendo tal presunção, contudo, relativa. Afinal, o magistrado tem o dever de, na direção do processo, perquirir concretamente quais são os indivíduos que fazem jus ao benefício de gratuidade da justiça, evitando situações de abuso de direito, e assegurando às partes igualdade de tratamento (art. 139, II, do CPC).
+ ..
+Esclarecidas tais premissas, observo que, embora tenha defendido a ausência de condições financeiras para custear as despesas processuais, a recorrente deixou de juntar documentação suficientemente capaz de demonstrar a veracidade de suas alegações.
+Com efeito, ela se limitou a acostar holerites (ordens n.º 22, 27 e 28) e um "status do consumidor" que demonstra a inexistência de inscrições de seu nome nos órgãos de proteção ao crédito (ordens n.º 29 e 30).
+Nesse ponto, entendo por bem destacar que foi oportunizada à agravante a juntada de documentos complementares (decisão de ordem n.º 25), tais como: extratos bancários recentes, certidões negativas de propriedade de imóveis e de veículos, certidões comprobatórias de negativação em órgãos de proteção ao crédito, e cópias de Declarações de Imposto de Renda completas. Entretanto, ela deixou de fazê-lo, e sequer forneceu maiores explicações sobre sua situação financeira, o que parece indicar que o recorrente tem fontes de renda/bens que não gostaria de exibir ao Poder Judiciário.
+Destarte, não tendo a agravante juntado documentação capaz de provar a alegada hipossuficiência de recursos para o custeio das despesas processuais sem prejuízo do próprio sustento ou do de sua família, impõe-se o indeferimento da benesse da gratuidade de justiça (fls. 158/160).
+Assim , incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à existência ou não dos requisitos para a concessão da gratuidade de justiça às partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Nesse sentido, o STJ já decidiu sobre a "inviabilidade de verificar se as partes no caso poderiam ou não serem contempladas pelo benefício da gratuidade de justiça, por demanda reexame de contexto fático-probatório". (AgInt no AREsp 897.498/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 16/8/2016.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.570.272/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 20/5/2020; AgInt no AREsp 1.000.602/RS, relator Ministro Og Fernandes, Segunda Turma, DJe de 22/5/2020; AgInt no AREsp 1.564.850/MG, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/3/2020; AgInt no AREsp 1.173.115/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 18/4/2018; REsp 1.784.623/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 11/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
