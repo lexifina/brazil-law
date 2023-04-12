@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso especial interposto por GLEDSON GERALDO VIANA, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, contra acórdão prolatado pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO.
+A controvérsia tratada nos autos foi devidamente relatada no parecer ministerial acostado às e-STJ fls. 300/305, in verbis:
+Trata-se de recurso especial interposto com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdãos proferidos pelo Tribunal Regional Federal da 3ª Região, assim ementados:
+PENAL. PROCESSUAL PENAL. APELAÇÃO CRIMINAL.APROPRIAÇÃO INDÉBITA PREVIDENCIÁRIA. ART. 168-A DO CÓDIGO PENAL. MATERIALIDADE. AUTORIA. DOLO. INEXIGIBILIDADE DE CONDUTA DIVERSA. DOSIMETRIA DA PENA. PENA-BASE. CONTINUIDADE DELITIVA. PRESTAÇÃO PECUNIÁRIA. 1. Materialidade, autoria e dolo comprovados. 2. O elemento subjetivo para o crime do art. 168-A do Código Penal, em todas as figuras, é o dolo genérico, ou seja, a vontade livre e consciente de não recolher a contribuição social cujo repasse aos cofres públicos era um dever legal, bem como o não pagamento de beneficio cujo valor tenha sido reembolsado pela previdência social. Não se exige, como na apropriação indébita, o dolo especifico, traduzido pelo animus rem sibi habendi, ou seja, a vontade livre e consciente de ter para si coisa alheia que se sabe ser de outrem. 3. Excludente de culpabilidade por inexigibilidade de conduta diversa não demonstrada. A defesa não se desincumbiu do ônus de comprovar as dificuldades financeiras que levaram à omissão do pagamento das contribuições previdenciárias. É insuficiente a mera alegação de tais dificuldades. 4. Dosimetria da pena. Pena-base reduzida ao míni mo legal. Em que pese o prejuízo financeiro tenha sido significativo, o valor, no caso, não constitui circunstância apta a justificar a exasperação da pena-base pela valoração negativa das consequências do crime. 5. Reduzida a aplicação da majorante da continuidade delitiva na fração de 1/5 (um quinto). Jurisprudência do Tribunal.
+PENAL. PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO. OMISSÃO. ANPP. 1. O ANPP não é cabível para fatos anteriores ao início da vigência da Lei nº 13.964/2019 depois que foi recebida a denúncia. Jurisprudência do STF e do STJ. Omissão inexistente. 2. Embargos de declaração rejeitados.
+O recorrente, a pretexto de violação ao art. 28-A, do CPP, requer o provimento do recurso para reformar o acórdão hostilizado, "oportunizando-se a necessária manifestação ordinária de oferecimento do ANPP e, em caso de recusa, a necessária revisão da negativa, com a remessa ao Órgão revisional competente do douto Ministério Público Federal" (e-STJ, fl. 261).
+As contrarrazões foram apresentadas pelo Ministério Público Federal.
+Ao final, o Parquet opinou pelo não conhecimento do recurso.
+É o relatório.
+Decido.
+Não assiste razão à defesa.
+Isso, porque o entendimento adotado pela Corte de origem está de acordo com a orientação firmada neste Tribunal Superior, segundo a qual a Lei que instituiu o acordo de não persecução penal não pode retroagir a feitos cuja denúncia já foi recebida.
+Nesse sentido os seguintes precedentes desta Corte:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DESCAMINHO. ACORDO DE NÃO PERSECUÇÃO PENAL. ART. 28-A DO CPP. VIGÊNCIA POSTERIOR AO RECEBIMENTO DA DENÚNCIA. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. HABITUALIDADE CARACTERIZADA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O STJ, por ambas as turmas d e direito criminal, unificou entendimento de que o art. 28-A do Código de Processo Penal, introduzido pela Lei n. 13.964/2019 (Pacote Anticrime), é norma de natureza processual cuja retroatividade deve alcançar somente os processos em que não houve o recebimento da denúncia.
+2. A habitualidade delitiva afasta a aplicação do princípio da insignificância nos crimes de descaminho.
+3. Agravo regimental não provido. (AgRg no REsp 1980052/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 19/4/2022, DJe 25/ 4/2022.)
+À vista do exposto e acolhendo o parecer do Ministério Público Federal, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
