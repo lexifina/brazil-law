@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de ERIVELTON SILVA PEREIRA DE QUEIROZ, preso cautelarmente e pronunciado por infração ao art. 121, § 2º, incs. II e IV, c/c o art. 20, § 3º, ambos do Código Penal, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA (HC N. 8052832-87.2022.8.05.0000).
+Na origem, a defesa impetrou habeas corpus alegando que o paciente sofre de graves problemas de saúde, é cardiopata, hipertenso, sofreu pré-infarto e está com suspeita de covid-19. Destacou que possui dois filhos menores e que as medidas cautelares mostram-se cabíveis na espécie.
+Julgado o writ, em sessão virtual de 2/2/2023, sobreveio o presente habeas corpus, no qual sustenta a ocorrência de flagrante cerceamento de defesa e violação ao devido processo legal, por não ter sido oportunizada a sustentação oral.
+Afirma que "a petição pedindo pelo direito à sustentar oralmente foi protocolada antes do julgamento do feito, o protocolo se deu no dia 31/01/2023 mesma data em que foi pautado enquanto o julgamento se deu no dia 02/02/2023, tendo havido tempo hábil para a análise do pedido" (e-STJ, fl. 6).
+Requer liminarmente o reconhecimento da nulidade do julgamento por ausência de oportunidade de realização de sustentação oral, bem como a nulidade do julgado por ausência de fundamentação. Pugna, no mérito, pela concessão da ordem para cessar patente constrangimento ilegal sofrido pelo paciente ante a não existência das hipóteses autorizadoras da decretação da prisão preventiva.
+Liminar indeferida às e-STJ fls. 549/550.
+Informações prestadas.
+Parecer ministerial pela denegação da ordem, à e-STJ fl. 561.
+É, em síntese, o relatório.
+A ordem deve ser denegada.
+Com efeito, consta das informações prestada pelo Tribunal de origem que (e-STJ fls. 555/556):
+V - Do exame dos Autos Habeas Corpus nº 8052832-57.2022.8.05.0000, verifica-se que foi proferido despacho por esta Relatoria, solicitando a inclusão do feito em pauta de julgamento, no dia 30/01/2023 (ID. 39966997), o que foi efetivado, conforme expediente publicado no DJe de 31/01/2023 (ID. 40265367), no qual constou, REGULARMENTE, o nome da Advogada/Impetrante;
+VI - No mesmo dia da referida publicação no DJe (31/01/2023), o Paciente, por meio da Advogada/Impetrante, requereu sua intimação para que pudesse fazer sustentação oral (ID. 40040697), restando cumprido o disposto no artigo 5º, do Decreto Judiciário deste Tribunal nº 291, de 31/03/2022;
+VII - A Secretaria da Segunda Câmara Criminal certificou que, in verbis: "(..) a impetrante Dra Encana Silva Pereira de Queiroz foi intimada para sessão de julgamento do dia 02/02/23 mediante despacho publicado no Diário da Justiça Eletrônico nº 3.266 de 31.01.2023, Caderno 1, Página 1768 (documento anexo). Certifico ainda que os dados para acesso à aludida sessão foram disponibilizados via whatsapp, adotando procedimento comum a esta Secretaria desde o início das sessões virtuais" (ID 40129828);
+VIII - Pontue-se que, durante a Sessão de Julgamento no dia 02/02/2023, apregoada, a fim de que exercesse seu sustentação oral, a Dra. Encana Silva Pereira de Queiroz não se fez presente à referida Sessão Virtual, quedando-se, pois, precluso o seu direito à prática do referido ato, segundo inteligência do artigo 7º, do Decreto Judiciário nº 291, de 31/03/2022 (*Segue o link de acesso ao momento em que o Habeas Corpus nº 8052832-87.2022.8.05.0000 foi julgado - processo nº 98 da Pauta: http://sessoes2. tjba. jus. brinvideo/1409); (grifei.)
+Ora, de acordo com as informações prestadas, a advogada nomeada pelo paciente foi devidamente intimada para a sessão de julgamento e não se fez presente razão pela qual não há nenhuma ilegalidade ou teratologia a ser reparada nesta instância.
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
