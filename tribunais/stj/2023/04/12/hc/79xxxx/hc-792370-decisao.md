@@ -1,0 +1,26 @@
+DECISÃO
+MARCELO LUIZ DE CARVALHO alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 0042103-18.2013.8.26.0050.
+Consta dos autos que o paciente foi condenado a 4 anos e 2 meses de reclusão, em regime fechado, mais multa, pela prática do delito de tráfico de drogas.
+Nesta Corte, a defesa pretende o abrandamento do regime fechado, bem como a realização da detração penal.
+Indeferida a liminar e prestadas as informações, o Ministério Público Federal manifestou-se pelo não conhecimento da impetração.
+Decido.
+Quanto à almejada modificação do regime inicial para o semiaberto, cumpre enfatizar que esta Corte tem decidido que o modo inicial de cumprimento da pena não está vinculado, de forma absoluta, ao quantum de reprimenda imposto.
+É dizer, para a escolha do regime prisional, devem ser observadas as diretrizes dos arts. 33 e 59, ambos do Código Penal, além dos dados fáticos da conduta delitiva que, se demonstrarem a gravidade concreta do crime, poderão ser invocados pelo julgador para a imposição de regime mais gravoso do que o permitido pelo quantum da pena (HC n. 279.272/SP, Rel. Ministro Moura Ribeiro, 5ª T., DJe 25/11/2013; HC n. 265.367/SP, Rel. Ministra Laurita Vaz, 5ª T., DJe 19/11/2013; HC n. 213.290/SP, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 4/11/2013; HC n. 148.130/MS, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 3/9/2012).
+No caso, a Corte estadual manteve a imposição do regime inicial fechado "com espeque na natureza e quantidade das drogas, circunstâncias que revelam a gravidade concreta do comportamento e, por isso, evidenciam a necessidade de tratamento penal enérgico" (fl. 63, grifei), ou seja, com base justamente nas peculiaridades do caso concreto.
+Entretanto, embora tal argumento constitua, de fato, fundamento idôneo a justificar a fixação do modo de cumprimento da pena, especialmente em razão da quantidade de drogas apreendidas não muito expressiva - 28,45 g de cocaína, 23,63 g de maconha e 3,96 g de crack -, se mostra desproporcional sopesar apenas tal elemento para justificar a imposição do regime fechado, em especial, pela a ausência de circunstância judicial desfavorável e a quantidade de sanção aplicada, que permitem a fixação do regime semiaberto para início do cumprimento da pena de reclusão.
+Assim, entendo que o modo intermediário é o mais adequado para a prevenção e repressão do delito perpetrado.
+Em relação à detração da pena, o acórdão registrou que "embora os réus tenham permanecido presos cautelarmente  .. , insta ressaltar que a progressão de regime não pode ser concedida tão somente com base no requisito objetivo" (fl.
+Com efeito, nos termos do art. 387, § 2º, do Código de Processo Penal, modificado pela Lei n. 12.736/2012, o tempo de prisão provisória, de prisão administrativa ou de internação, no Brasil ou no estrangeiro, será computado para fins de determinação do regime inicial de pena privativa de liberdade, o que não se confunde com progressão de regime.
+Ilustrativamente:
+ ..
+A previsão inserida no § 2º do art. 387 do Código de Processo Penal não se refere à verificação dos requisitos para a progressão de regime, instituto que se restringe à execução penal, mas à possibilidade de o Juízo de 1º Grau, no momento oportuno da prolação da sentença, estabelecer regime inicial mais brando, em razão da detração. Assim, cabe ao sentenciante descontar da pena aplicada ao réu o período em que fora mantido em prisão provisória. Realizada tal operação, observados os parâmetros do art. 33, § 2º, do Código Penal e as circunstâncias do art. 59 do Código Penal, é possível ao juiz alterar o regime, aplicando modalidade menos gravosa.
+ ..
+(HC n. 382.692/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 24/2/2017).
+A jurisprudência do Superior Tribunal de Justiça é uníssona em afirmar que "o instituto da detração, nos termos do art. 387, § 2º, do CPP, refere-se ao regime inicial de cumprimento de pena e não possui relação com o instituto da progressão de regime próprio da execução penal, devendo o juiz sentenciante verificar, no momento da prolação da sentença, a possibilidade de se fixar um regime mais brando em razão da detração, não havendo que se falar em análise dos requisitos objetivos e subjetivos, mas tão somente no tempo de prisão provisória naquele processo" (AgRg no RHC n. 133.548/BA, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 8/3/2021).
+Diante de tais considerações, identifico o apontado constrangimento ilegal, porquanto, não obstante o disposto no art. 387, § 2º, do CPP, deixou o Tribunal a quo de aplicar o instituto da detração em favor do paciente.
+Assim, deve ser determinado o retorno dos autos à Corte de origem, para
+que aplique a detração penal em favor do acusado, ex vi do disposto no art. 387, § 2º, do CPP.
+À vista do exposto, concedo a ordem, para fixar o regime semiaberto ao paciente e determinar o retorno dos autos ao TJSP, a fim de que aplique a detração penal.
+De ofício, nos termos do art. 580 do CPP, estendo os efeitos desta decisão ao corréu DAVID RODRIGUES FERREIRA, uma vez que está em idêntica situação fático-processual.
+Comunique-se o inteiro teor dessa decisão às instâncias ordinárias, para as providências cabíveis.
+Publique-se e intimem-se.
