@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de agravo interno interposto por INSTITUTO NACIONAL DO SEGURO SOCIAL contra decisão monocrática de relatoria do Min. Og Fernandes que não conheceu do agravo em recurso especial em razão da Súmula n. 182/STJ (fls. 713-716).
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 612):
+Embargos à execução - trabalhador - apontamento da existência de irregularidades no laudo contábil que comprometem o cálculo - reconhecimento quanto à necessidade de aplicação da Lei nº 11.960/09 até a datada inscrição do precatório - Recurso parcialmente provido.
+Rejeitados os embargos de declaração opostos (fl. 643).
+Alega a agravante que não é caso de aplicação da Súmula n. 182/STJ, porquanto afirma que impugnou de forma específica a incidência da Súmula n. 7/STJ.
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+A agravada, instada a manifestar-se, apresentou contrarrazões (fls. 727-732).
+É, no essencial, o relatório.
+A agravante demonstrou a impugnação à Súmula n. 7/STJ. Desse modo, reconsidero a decisão de fls. 713-715 e passo à análise do recurso especial.
+Cuida-se, na origem, de embargos à execução movido pelo INSS em que o Tribunal de origem julgou parcialmente procedente.
+Entendeu a Corte de origem que é inviável a dedução dos valores em atraso em relação ao benefício auxílio-doença tendo em vista que se insere na matéria de outra ação que tramita perante a Justiça Federal. Fundamentou, ainda, que não foi identificado nos autos que o auxílio-doença e a aposentadoria por invalidez têm o mesmo fato gerador.
+Nas razões de decidir, o Tribunal a quo assentou (fl. 615):
+Inviável a dedução de valores em relação ao benefício NB 31/532.624.542-2 tendo em vista que se insere na matéria de outra ação que tramita perante a Justiça Federal. Além disso, não foi identificado nos autos que decorre do mesmo fato gerador.
+Em recurso especial, alegou o INSS que é vedada a cumulação de auxílio-doença e aposentadoria por invalidez, mesmo com fatos diferentes.
+Ocorre que, para rever o posicionamento firmado na origem, de que não foi identificado se se trata de mesmo fato gerador (aposentadoria e auxílio-doença) e que a dedução pretendida refere-se a benefício que está sendo discutido em outra ação , seria necessária a incursão na seara fático-probatória, conduta vedada pela Súmula n. 7/STJ.
+A propósito, mutatis mutandis, cito:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. LABOR RURAL. ATIVIDADE COM MANEJO DE ANIMAIS. EQUIPARAÇÃO. CATEGORIA PROFISSIONAL. ATIVIDADE AGROPECUÁRIA. DECRETO 53.831/1964. POSSIBILIDADE. INVERSÃO DO JULGADO. INVIABILIDADE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. AGRAVO INTERNO DO INSS A QUE SE NEGA PROVIMENTO.
+1. A orientação desta Corte Superior de Justiça firmou-se no sentido de "não ser possível equiparar a categoria profissional de agropecuária, constante no item 2.2.1 do Anexo ao Decreto 53.831/1964, à atividade exercida pelo empregado rural na lavoura da cana-de-açúcar" (AgInt no AREsp 1915920/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 14/03/2022, DJe 28/03/2022).
+2. Entretanto, conforme destacado na decisão agravada, as instâncias ordinárias consideraram passível de enquadramento, como atividade especial, o período anterior a 28/04/1995, por categoria profissional - Código 2.2.1 do Quadro Anexo do Decreto 53.831/1964 -, por ter sido demonstrado que a parte autora "trabalhava com máquinas (trator), na agricultura, em lavoura de soja e criação de animais (gado, ovelha)" (fl. 666). Em relação ao período posterior a 28/04/1995, foi reconhecida a especialidade ante a comprovação de exposição habitual a agentes insalubres.
+3. Assim, para se chegar à conclusão diversa, seria necessário o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção. Inafastável, portanto, o óbice da Súmula 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+4. Agravo interno do INSS a que se nega provimento.
+(AgInt no REsp n. 1.973.496/RS, relator Ministro Manoel Erhardt (desembargador convocado do TRF5), Primeira Turma, julgado em 23/5/2022, DJe de 25/5/2022.)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO ART. 1.022 DO CPC/2015 NÃO CARACTERIZADA. AÇÃO RESCISÓRIA. ART. 966, VIII, DO CPC/2015. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. REVISÃO DE CRITÉRIOS DE CÁLCULOS. ERRO DE FATO NÃO RECONHECIDO PELO TRIBUNAL A QUO. ALTERAÇÃO DO JULGADO. SÚMULA 7/STJ. OFENSA AO ART. 966, V, DO CPC/2015. SÚMULA 284/STF. MULTA DO ART. 1.026, § 2º, DO CPC/2015. EXCLUSÃO. IMPOSSIBILIDADE. REEXAME DE PROVAS.
+ ..
+5. Descabe ao Superior Tribunal de Justiça, em Recurso Especial, alterar a conclusão da Corte de origem que reconheceu pela não ocorrência de erro de fato, pois para acatar os argumentos apresentados pela recorrente em sentido contrário, seria necessário revolvimento do conteúdo fático-probatório dos autos, obstado neste momento processual, consoante a Súmula 7/STJ.
+6. Outrossim, a Ação Rescisória "não se presta a rediscutir suposta justiça ou injustiça da decisão, má-interpretação de fatos ou reexame de provas produzidas, ou mesmo para complementá-la" (AR 5.802/GO, Rel. Min. Francisco Falcão, Primeira Seção, DJe 6/4/2021).
+7. Em relação à alegada ofensa ao art. 966, V, do CPC/2015, conforme consignado na decisão agravada, aplica-se a Súmula 284/STF, tendo em vista que a rescisória está fundamentada apenas em erro de fato (art. 966, VIII, do CPC/2015) (fl. 3, e-STJ) e, ademais, a parte recorrente não desenvolveu argumentos para demonstrar de que modo tal dispositivo foi ofendido.
+8. Por fim, o Tribunal de origem, a partir de conclusão amparada no fato de terem sido interpostos dois Embargos de Declaração sucessivos pela recorrente, determinou a aplicação da multa prevista no art. 1.026, § 2º, do CPC/2015, pois entendeu revestirem-se tais recursos de caráter meramente protelatório.
+9. Essa inferência, baseada nas circunstâncias específicas da hipótese, consoante estabelecido no acórdão recorrido, não pode ser modificada em Recurso Especial, em razão do óbice da Súmula 7/STJ.
+10. Agravo Interno não provido.
+(AgInt no AREsp n. 1.881.226/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 14/2/2022, DJe de 15/3/2022.)
+Ante o exposto, reconsidero a decisão de fls. 713-715 para conhecer do agravo e não conhecer do recurso especial.
+Publique-se. Intimem-se.
