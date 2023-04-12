@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TJMG, assim ementado (e-STJ fl. 79):
+AGRAVO DE INSTRUMENTO - EXCEÇÃO DE PRÉ- EXECUTIVIDADE - CITAÇÃO POR EDITAL - FRUSTRAÇÃO DAS DEMAIS MODALIDADES - CABIMENTO - NULIDADE DA CDA  INOCORRÊNCIA - REQUISITOS FORMAIS ÁTENDIDOS
+A citação por edital na execução fiscal é cabível quando frustradas as demais modalidades (Súmula 414, STJ).
+Frustradas a tentativa de citação do executado por correios e pôr oficial de justiça, a citação por edital é medida cabível, devendo ser mantida a decisão que afastou a alegação de nulidade da citação editalícia.
+A CDA que atende aos requisitos formais do art. 21 , §50 , da LEF é válida e goza de presunção de certeza e liquidez. Requisitos formais preenchidos. Nulidade não constatada.
+Recurso não provido.
+Embargos de declaração rejeitados.
+O recorrente alega violação dos artigos 256, §3 e 257, inciso I, do CPC/15, sob o argumento de que não foram esgotadas todas as possibilidades de localização e citação pessoal do executado, pois era possível realizar a busca pelo endereço do devedor em outros sistemas conveniados, como: TRE, concessionárias/prestadoras de serviços de água, luz e telefone, sistemas INFOSEG/INFOJUD.
+Com contrarrazões.
+Juízo positivo de admissibilidade (e-STJ fls. 140-143)
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+No que diz respeito à alegação de que não foram esgotados todas as formas de localização e citação pessoal do executado, conforme o artigo 256, §3 do CPC/15, a Corte de origem, após ampla análise do conjunto fático-probatório, firmou compreensão de que após serem feitas diversas tentativas de citação do executado, foi realizado a citação editalícia.
+Nesse sentido, confira-se excerto da decisão recorrida (e-STJ fl. 83)
+"Incasu tentou-se a citação do executado via postal, sendo a carta devolvida com a ocorrência: "número não encontrado" (f. 11).
+Na sequência, o Município de Juiz de Fora requereu sua citação por oficial de justiça, também sem sucesso, conforme certificado à f .16.
+Ato subsequente, o exequente requereu a citação do executado, via postal, em novo endereço (f. 17), tendo sido acarta, mais uma vez, devolvida (f. 20).
+Só então, após ser atestada a ausência de endereço diverso no Sistema da Receita Federal, foi requerida a citação por edital do agravante (f. 21), que foi deferida pelo magistrado de origem (f. 23) e efetivada (f.24125).
+Observa-se que o Município de Juiz de Fora pleiteou a citação editalícia após frustradas as demais modalidades de citação previstas na Lei 6.830/1980 (citação por correio e por oficial de justiça), sendo, portanto, cabível a citação por edital, nos termos, do entendimento sumulado pelo STJ .. "
+Assim, tem-se que a revisão da conclusão a que chegou o Tribunal de origem sobre a questão demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide ao caso a Súmula 7/STJ.
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. CITAÇÃO POR EDITAL. NULIDADE. REJEITADA PELO TRIBUNAL DE ORIGEM. ESGOTAMENTO DE TODOS OS MEIOS DE LOCALIZAÇÃO. CUMPRIMENTO DOS REQUISITOS LEGAIS. REVISÃO DE FATOS E PROVAS. IMPOSSIBILIDADE.
+1. A citação por edital é medida excepcional, razão pela qual só é admitida após esgotados todos os meios reais de localização da parte demandada.
+2. Alterar o entendimento do Tribunal de origem a respeito do esgotamento de todos os meios reais de localização da executada recai no óbice da Súmula 7/STJ.
+3. Agravo interno não provido. (AgInt no AREsp n. 1.789.536/DF, Rel. Min. Nancy Andrighi, Terceira Turma, julgado em 22/3/2021, DJe de 25/3/2021.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. CITAÇÃO POR EDITAL. NÃO ESGOTAMENTO PRÉVIO DAS DILIGÊNCIAS PARA LOCALIZAÇÃO DO DEVEDOR. IMPOSSIBILIDADE. AGRAVO INTERNO DA FAZENDA NACIONAL NÃO PROVIDO.
+1. É pacífica a orientação, firmada pela Primeira Seção do STJ e consubstanciada na Súmula 414/STJ, de que "a citação por edital, na execução fiscal, somente é cabível quando não exitosas as outras modalidades de citação ali previstas: a citação por correio e a citação por Oficial de Justiça" (REsp 1.103.050/BA, Rel. Ministro TEORI ALBINO ZAVASCKI, DJe 6/4/2009).
+2. Tal precedente, contudo, deve ser interpretado à luz da jurisprudência há muito consolidada nesta Corte de Justiça no sentido de que a citação por edital, na execução fiscal, é medida excepcional, em razão disso só é admitida após esgotados os meios reais de localização da parte demandada. Precedentes: AgInt no AgInt no AREsp 1.665.820/PB, Rel. Ministro MANOEL ERHARDT, DJe 20/05/2021;
+AgInt no REsp 1.852.706/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, DJe 18/12/2020; e AgInt no AREsp 1.662.782/RS, Rel. Ministro MAURO CAMPBELL MARQUES, DJe 15/12/2020.
+3. Hipótese em que o Tribunal Regional indeferiu o pedido de citação por edital por entender que não foram esgotadas as tentativas de intimação pessoal dos executados, de modo que a inversão do julgado demandaria o reexame do conjunto fático-probatório dos autos, providência inviável nesta instância recursal, nos termos da Súmula 7/STJ.
+4. Agravo Interno não provido. (AgInt no REsp n. 1.937.970/GO, Rel. Min. Manoel Erhardt (Desembargador Convocado do TRF5), Primeira Turma, julgado em 23/8/2021, DJe de 27/8/2021.)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. ACOLHIMENTO. ACÓRDÃO RECORRIDO. ALEGADA OFENSA AO ART. 535 DO CPC/73. INEXISTÊNCIA. PRESCRIÇÃO. OCORRÊNCIA. CITAÇÃO POR EDITAL. NULIDADE. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão publicada em 19/10/2017, que, por sua vez, julgara recurso interposto contra decisum publicado na vigência do CPC/73.
+II. Não há falar, na hipótese, em violação aos arts. 165, 458, incisos II e III, e 535, inciso III, do CPC/73, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão proferido em sede de Embargos de Declaração apreciaram fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+III. O Tribunal de origem negou provimento à Apelação do ora agravante, a fim de manter a sentença que, em autos de Exceção de Pré-executividade, concluiu que não teriam sido esgotados todos os meios de localização da parte executada, antes da citação por edital, de modo que não teria sido instaurada, de forma válida, a relação processual, antes do transcurso do prazo prescricional.
+IV. Segundo entendimento consolidado em julgamento realizado em sede de recurso especial representativo de controvérsia repetitiva, iniciado o prazo prescricional com a constituição do crédito tributário, o termo ad quem dá-se com a propositura da Execução Fiscal. Ademais, a interrupção da prescrição pela citação válida, na redação original do art. 174, I, do CTN, ou pelo despacho que a ordena, conforme a modificação introduzida pela Lei Complementar 118/2005, retroage à data do ajuizamento, em razão do que determina o art. 219, § 1º, do CPC (STJ, REsp 1.120.295/SP, Rel. Ministro LUIZ FUX, PRIMEIRA SEÇÃO, DJe de 21/05/2010).
+V. Na forma da jurisprudência, a "Primeira Seção do STJ, no julgamento do Recurso Especial 1.103.050/BA, de relatoria do Min. Teori Albino Zavascki, submetido ao regime do art. 543-C do CPC, firmou entendimento no sentido de que, nos termos do art. 8º da Lei 6.830/1980, a citação por edital, na execução fiscal, somente é cabível quando esgotadas as outras modalidades de citação ali previstas: a citação por correio e a citação por Oficial de Justiça" (STJ, REsp 1.685.587/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 16/10/2017).
+VI. O entendimento firmado pelo Tribunal a quo, no sentido de que não teriam sido esgotados todos os meios de localização da executada, antes da citação por edital, não pode ser revisto, pelo Superior Tribunal de Justiça, em sede de Recurso Especial, sob pena de ofensa ao comando inscrito na Súmula 7 desta Corte. Precedentes do STJ.
+VII. Agravo interno improvido. (AgInt no REsp n. 1.315.853/MG, Rel. Min. Assusete Magalhães, Segunda Turma, julgado em 24/4/2018, DJe de 27/4/2018.)
+Ante o exposto, não conheço do recurso especial.
+Incabível a aplicação do artigo 85, § 11, à hipótese, tendo em vista que não foram fixados honorários advocatícios nas instâncias ordinárias.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
