@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de agravo interposto por FLUT CONFECÇÕES LTDA. - EPP contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 28):
+AGRAVO DE INSTRUMENTO MULTA POR LITIGÂNCIADE MÁ-FÉ - Aplicação de multa em virtude da litigância de má-fé do agravante - Abuso do direito de defesa - Os recursos, "devem acomodar-se às formas e às oportunidades previstas em lei, para não tumultuar o processo e frustrar o objetivo da tutela jurisdicional em manobras caprichosas e de má-fé".
+Apresentação de nova exceção de pré-executividade temerária, manifestamente protelatória, demonstrando a intenção deliberada de opor resistência injustificada ao andamento do processo, nos exatos termos do art. 80, incs. IV, V, VI e VII, do CPC/2015, com infundada alegação de mudança de orientação quando já fixada tese vinculante especifica quanto ao ICMS.
+Tese do Tema 214 - É constitucional a inclusão do valor do Imposto sobre Circulação de Mercadorias e Serviços - ICMS na sua própria base de cálculo.
+Decisão que rejeitou a exceção de pré-executividade e aplicou multa por litigância de má-fé no seu patamar mínimo, mantida. Recurso não provido.
+Sem oposição de embargos de declaração.
+No recurso especial, a parte recorrente alega violação do art. 80, incisos IV, V, VI e VII, e 81 do CPC , visto que não estar configurada a litigância de má-fé.
+Sustenta que (fl. 39):
+A Recorrente, no caso concreto, nunca alterou a verdade dos fatos. Como já afirmado pelo próprio v. acórdão recorrido, a Recorrente em momento algum deixou de considerar a existência de uma decisão em Repercussão Geral sobre a constitucionalidade da inclusão do ICMS em sua própria base, mas simplesmente invocou o julgamento do Tema 69 de Repercussão do E. STF para justificar seu entendimento de mudança de posicionamento jurisprudencial quanto ao Tema 214 de Repercussão do E. STF, argumento este que não foi acolhido pelo v. acórdão recorrido.
+Contrarrazões ao recurso especial às fls. 52-56.
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fl. 57), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 74-76).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+A irresignação não merece prosperar.
+Ao fixar a multa por litigância de má-fé, consignou o Tribunal de origem (fls. 29-30):
+A agravante já havia apresentado exceção de pré-executividade alegando nulidade da CDA em razão da utilização de juros declarados inconstitucionais em junho/2018, a qual foi acolhida apenas para retificação do débito.
+E apresentou nova exceção, alegando iliquidez e incerteza da CDA pela inclusão indevida do valor do ICMS na sua base de cálculo, conforme mudança de posicionamento pelo julgamento do RE 574.706, em 15/03/2017 (data anterior à primeira exceção apresentada).
+Ocorre que, conforme bem asseverado pelo d. magistrado, "há evidente e extravagante tentativa da parte executada de protelar o andamento do feito suscitando incidente temerário e manifestamente improcedente, porquanto o aventado Tema 69 do E. STF, quanto ao PIS e COFINS, em nada interfere ou prejudica o já julgado Tema 214 (RE 582.461) do mesmo Pretório Excelso, especificamente quanto ao ICMS, firmando-se a tese vinculante de que "é constitucional a inclusão do valor do Imposto sobre Circulação de Mercadorias e Serviços - ICMS na sua própria base de cálculo".
+É certo que o direito de defesa é garantido constitucionalmente, todavia, o seu exercício deve atentar aos princípios que regem o sistema processual brasileiro, dentre os quais o da boa-fé. Os recursos, "devem acomodar-se às formas e às oportunidades previstas em lei, para não tumultuar o processo e frustrar o objetivo da tutela jurisdicional em manobras caprichosas e de má-fé". O exagero, como se demonstra, deve ser repelido e sancionado pelo Estado-Juiz.
+Dessa forma, evidenciado o abuso de direito, tanto pela apresentação de exceção de pré-executividade temerária, manifestamente protelatória, demonstrando a intenção deliberada de opor resistência injustificada ao andamento do processo, nos exatos termos do art. 80, incs. IV, V, VI e VII, do CPC/2015, quanto pela infundada alegação de mudança de orientação quando já fixada tese vinculante especifica (Tema214), que caracterizam a litigância de má-fé, razão pela qual mantenho a pena coprevista no art. 81, caput, do CPC/2015, não havendo falar em sua redução, uma vez que aplicada em seu patamar mínimo.
+Com efeito, a reversão do julgado para afastar a multa por litigância de má-fé demandaria reexame do acervo fático-probatório dos autos, o que encontra óbice na Súmula n. 7/STJ.
+Nesse sentido, confiram-se julgados:
+5. Na hipótese, o Tribunal a quo, após o exame acurado dos autos e das provas, concluiu pela caracterização de litigância de má-fé da agravante, por entender que a parte alterou a verdade dos fatos.
+6. A modificação da conclusão do Tribunal de origem sobre a litigância de má-fé da parte agravante demandaria o revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7/STJ. (AgInt no AREsp n. 313.782/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 17/8/2022.)
+3. O julgado atestou a má-fé, porquanto a seguradora teria alterado a verdade de fatos e procedido de modo temerário ao não cumprir o acordo assinado. Frisou inexistir efetivo direito de defesa, mas sim a configuração de sua má-fé. Incidência da Súmula 7/STJ. (AgInt no AREsp n. 1.835.575/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 22/9/2021.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 15% sobr e o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
