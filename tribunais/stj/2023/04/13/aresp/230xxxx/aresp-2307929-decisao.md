@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de agravo apresentado por MINISTERIO PUBLICO DO ESTADO DE MATO GROSSO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO, assim resumido:
+RECURSOS DE APELAÇÃO CÍVEL - REEXAME NECESSÁRIO DA SENTENÇA - MANDADO DE SEGURANÇA - PROIBIÇÃO DE COBRANÇA - ESTACIONAMENTO - ESTABELECIMENTO COMERCIAL - INCONSTITUCIONALIDADE INCIDENTAL - FORMAL E MATERIAL - MATÉRIA LEGISLATIVA DE COMPETÊNCIA DA UNIÃO - DIREITO À PROPRIEDADE - VIOLAÇÃO AOS PRINCÍPIOS DA LIVRE INICIATIVA E DA LIVRE CONCORRÊNCIA ECONÔMICA - SUBMISSÃO A RESERVA DE PLENÁRIO - ART. 97 DA CRFB - DESNECESSIDADE - SENTENÇA RATIFICADA - RECURSOS VOLUNTÁRIOS DESPROVIDOS.
+Lei municipal não pode proibir a cobrança de estacionamento por estabelecimentos comerciais, por ser matéria de competência da União (direito civil), envolvendo direito à propriedade, e, também, diante dos princípios constitucionais da livre iniciativa e da livre concorrência econômica (artigo 170, caput, e inciso IV, da Constituição Federal).
+Invade a competência da União para legislar sobre direito civil (art. 22, I, da CF/88) a norma municipal que veda a cobrança de qualquer quantia ao usuário pela utilização de estabelecimento em local privado.
+Precedentes do STF.
+Os órgãos fracionários dos tribunais não submeterão ao plenário, ou ao órgão especial, a arguição de inconstitucionalidade, quando já houver pronunciamento destes, ou do plenário do Supremo Tribunal Federal, sobre a questão.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 1º da Lei n. 12.016/2009, no que concerne ao não cabimento de mandado de segurança em face da Lei Complementar Municipal n. 389/2012, haja vista o caráter geral, abstrato e impessoal da normal, diante da incidência do enunciado n. 266 da Súmula do STF, trazendo os seguintes argumentos:
+Ora, o Supremo Tribunal Federal editou a Súmula 266, com o intuito de externar seu entendimento de que o ato normativo é dotado dos atributos da generalidade, impessoalidade e abstração e, por essa razão, não é capaz de violar direito individual, enquanto a tutela mandamental exige ofensa ou ameaça concreta a direito líquido e certo do impetrante.
+Em conformidade com esse entendimento, não se admite, em sede de mandado de segurança, pedido direto de invalidação de determinado ato normativo.
+No entanto, referida ação constitucional comporta pleito de anulação de determinado ato concreto que, amparado na norma que se reputa ilegal ou inconstitucional, venha a lesar direito líquido e certo do impetrante.
+ ..
+Todavia, constata-se que a Lei Complementar Municipal nº 389/2015, reputado como coator, é ato geral, abstrato e impessoal, visto que disciplina o uso e ocupação do solo urbano no município de Cuiabá/MT, razão pela qual sua impugnação por meio da via mandamental encontra óbice no supracitado verbete sumular.
+ ..
+Portanto, a lei de efeitos concretos nada mais é do que um ato administrativo sob as vestes de lei formal. Não é lei em sentido material, mas tão somente lei meramente formal.
+Consistem tais leis, assim, em normas muito específicas, de casuística realmente rara, que se comportam normativamente como autênticos atos administrativos concretos, vale dizer, já trazem em seu suporte fático a hipótese de incidência e o destinatário de suas prescrições individualizado, nominado, explicitado.
+E o mais importante: estas leis ditas concretas, diversamente do que ocorre nas leis em tese, não têm qualquer hipótese de aplicação para casos futuros, porque elas nascem para regular, exclusivamente, a situação individual de um sujeito que está expressamente individualizado na própria norma.
+Logo, não lhes remanesce nenhum grau de generalidade ou de abstração que possa alcançar outros destinatários ou fatos.
+Partindo desses ensinamentos e voltando os olhos ao caso dos autos, observa-se que a sobredita lei municipal não se trata, por certo, de norma de efeitos concretos, já que não individualiza seus destinatários e tampouco se dirige a empreendimentos certos e determinados.
+Em verdade, a generalidade e abstração do ato considerado coator é extraída de sua simples leitura, da qual se infere seu direcionamento à universalidade de sujeitos, sendo indiferente, nesse contexto, a justificativa de que prevenção visada busca efeito apenas ao Condomínio Civil Pantanal Shopping.
+ ..
+Portanto, resta evidente que o mandado de segurança teve sua função desvirtuada, sendo utilizado, equivocadamente, para promoção de debate sobre a constitucionalidade dos artigos 173, 174 e 175 da Lei Complementar Municipal nº 389/2015, em nítida ofensa ao art. 1º da Lei nº 12.016/09.
+ ..
+Contudo, toda a construção argumentativa do writ está amparada na tese de inconstitucionalidade e não no debate sobre a impossibilidade de futura autuação administrativa.
+São laudas e mais laudas argumentando que os artigos 173, 174 e 175 da Lei Complementar Municipal nº 389/2015 seriam formal e materialmente inconstitucionais, com alegações que, evidentemente, só poderiam ter sido apresentadas em sede de ação declaratória de inconstitucionalidade, dado seu caráter abstrato (fls. 646/649).
+É, no essencial, o relatório. Decido.
+Na espécie, não é cabível o recurso especial porque interposto contra acórdão com fundamento em legislação local, ainda que se alegue violação ou interpretação divergente de dispositivos de lei federal. Aplicável, por analogia, o óbice previsto na Súmula n. 280 do STF: "Por ofensa a direito local não cabe recurso extraordinário".
+Nesse sentido: "A tutela jurisdicional prestada pela Corte de origem com fundamento em legislação local impede o exame do apelo extremo, mediante aplicação da Súmula 280/STF". (REsp 1.759.345/PI, relator Ministro Og Fernandes, Segunda Turma, DJe de 17/10/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no REsp 1.657.693/RJ, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 18/8/2020; AgInt no REsp 1.616.439/SC, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 1º/6/2020; AgRg no REsp 1.822.671/MT, relator Ministro Jorge Mussi, Quinta Turma, DJe de 7/4/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
