@@ -1,0 +1,85 @@
+HABEAS CORPUS. PENAL E PROCESSUAL PENAL. CRIME DE TORTURA. ARTIGO 1º, I, "A", § 4º, I E III, DA LEI Nº 9.455/97. PLEITO ABSOLUTÓRIO. PROVA PRODUZIDA EM FASE DE INQUÉRITO POLICIAL. CONDENAÇÃO LASTREADA EM OUTROS ELEMENTOS DE PROVA. REVOLVIMENTO DO CONJUNTO FÁTICO PROBATÓRIO ENGENDRADO NOS AUTOS. INADMISSIBILIDADE NA VIA ELEITA. IMPOSSIBILIDADE DE UTILIZAÇÃO DO HABEAS CORPUS COMO SUCEDÂNEO DE RECURSO OU REVISÃO CRIMINAL.
+
+- Seguimento negado, com fundamento no artigo 21, § 1º, do RISTF.
+
+    Decisão: Trata-se de habeas corpus impetrado contra acórdão do Superior Tribunal de Justiça no AREsp nº 2.011.487, assim ementado:
+
+    “PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME DE TORTURA. VIOLAÇÃO AO ART. 155 DO CÓDIGO DE PROCESSO PENAL – CPP. NÃO OCORRÊNCIA. CONDENAÇÃO LASTREADA EM PROVAS COLHIDAS NO INQUÉRITO POLICIAL E EM JUÍZO. VIOLAÇÃO AO ART. 59 DO CÓDIGO PENAL – CP NÃO EVIDENCIADA. FUNDAMENTAÇÃO IDÔNEA. MONTANTE DE EXASPERAÇÃO DA PENA-BASE. DESPROPORCIONALIDADE NÃO VERIFICADA. AUSÊNCIA DE CRITÉRIO LEGAL. DISCRICIONARIEDADE DO JULGADOR. AGRAVANTE DO ART. 1º, § 4º, III, DA LEI N. 9.455/1997. APLICAÇÃO DEMONSTRADA PELAS PROVAS EXISTENTES NOS AUTOS. INCIDÊNCIA DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA – STJ. AGRAVO REGIMENTAL DESPROVIDO.
+
+    1. O Tribunal de Justiça afastou a tese defensiva de que a condenação estaria lastreada unicamente em elementos colhidos na investigação policial, porquanto tais elementos foram valorados em conjunto com a prova produzida em juízo. Assim, não há que se falar em violação ao art. 155 do CPP.
+
+    2. Esta Corte tem entendido que a dosimetria da pena só pode ser reexaminada em recurso especial quando se verificar, de plano, a ocorrência de erro ou ilegalidade. Diante da inexistência de um critério legal matemático para exasperação da pena-base, admite-se certa discricionariedade do órgão julgador, desde que baseado em circunstâncias concretas do fato criminoso, de modo que a motivação do édito condenatório ofereça garantia contra os excessos e eventuais erros na aplicação da resposta penal. Precedentes.
+
+    2.1. Na hipótese, a pena-base foi exasperada com elementos concretos dos autos. Quanto à culpabilidade, a Corte de origem observou que os réus se valeram de seu prestígio sócio econômico para induzir policiais militares a executar o delito, destacando, ainda, o fato de uma das vítimas ser pessoa de seu convívio íntimo, que trabalhava em sua residência há mais de 8 anos. No que se refere às circunstâncias do crime, observou o tempo das violentas agressões, que duraram a noite e a madrugada inteiras. E, no que tange às consequências do delito, destacaram as sequelas psicológicas causadas às vítimas da violência. Precedentes.
+
+    2.2. O incremento da pena-base realizado in casu não pode ser considerado desproporcional, pois de acordo com um dos critérios considerados razoáveis por esta Corte, qual seja, 1/8 sobre o intervalo entre as penas mínima e máxima do delito para cada vetor negativado. Precedentes.
+
+    2.3. As circunstâncias judiciais consideradas neutras ou favoráveis não influem na exasperação da pena-base decorrente de outra valorada de forma negativa.
+
+    3. A incidência da causa de aumento de pena prevista no art. 1º, § 4º, III, da Lei de Tortura foi demonstrada por meio das provas existentes nos autos. A alteração dessa conclusão demandaria o reexame probatório vedado pela Súmula n. 7 do STJ.
+
+    4. Agravo regimental desprovido.”
+
+    Colhe-se dos autos que os pacientes foram denunciados pela suposta prática do crime previsto no artigo 1º, I, "a", § 4º, I e III, da Lei nº 9.455/97, tendo sido absolvidos, com fundamento no art. 386, VII, do Código de Processo Penal.
+
+    Em sede de apelação, o Tribunal de origem deu provimento ao recurso do Ministério Público para condenar os pacientes à pena de 05 (cinco) anos, 09 (nove) meses e 12 (doze) dias de reclusão, em regime inicial semiaberto.
+
+    Irresignada, a defesa interpôs recurso especial que, remetido ao Superior Tribunal de Justiça por meio de agravo, restou desprovido.
+
+    Contra esse decisum, foi interposto agravo regimental, o qual restou desprovido nos termos da ementa supratranscrita.
+
+    Neste mandamus, a defesa sustenta, em síntese, a ocorrência de constrangimento ilegal consubstanciado na condenação dos pacientes.
+
+    Afirma que o “acórdão guerreado destoa do entendimento proferido pelo excelso Supremo Tribunal Federal em inúmeras oportunidades, que orienta no sentido de se afigurar nula a condenação penal unicamente baseada em prova produzida apenas na fase do inquérito policial”.
+
+    Defende que “o acórdão condenatório não se encontra fundamentado nem merece prosperar, pois silente quanto às provas produzidas em juízo, condenando os impetrantes embora ausente qualquer prova judicializada”.
+
+    Ao final, formula pedido nos seguintes termos:
+
+    “Diante de todo o exposto e contando com os doutos e inestimáveis suprimentos intelectuais de Vossa Excelência, os impetrantes/pacientes pedem que, cumpridas as formalidades de estilo, reste concedida ORDEM DE HABEAS CORPUS para que seja restaurada a sentença proferida pelo MM. Juízo de Direito da 12ª Vara Criminal da Comarca de Belo Horizonte/MG, absolvendo os impetrantes, ante a ausência de provas, nos moldes do inciso VII19 do artigo 386 do Código de Processo Penal, com todos os consectários daí emergentes, tendo em vista que não houve a fundamentação adequada e indispensável para a condenação, cessando assim todas as irregularidades cometidas, em especial a ilegalidade do acórdão condenatório, por ser de pleno direito e JUSTIÇA!”
+
+    É o relatório, DECIDO.
+
+    In casu, inexiste situação que permita a concessão da ordem de ofício ante a ausência de teratologia na decisão atacada, flagrante ilegalidade ou abuso de poder. Por oportuno, transcrevo a fundamentação da decisão do Superior Tribunal de Justiça, naquilo que interessa, in verbis:
+
+    “[...] Quanto ao mérito, não obstante o empenho dos agravantes, o recurso não merece provimento. Os agravantes não trouxeram nenhum argumento apto a ensejar a reforma do juízo monocrático.
+
+    No que tange à violação ao art. 155 do CPP, o Tribunal de origem afastou a tese da Defesa nos seguintes termos do voto do relator:
+
+    ‘Consoante se depreende do acórdão impugnado, o reconhecimento da responsabilidade dos embargantes é produto de acurado confronto de todos os elementos probatórios constantes dos autos.
+
+    Insta ressaltar, a propósito, que o art. 155 do CPP dispõe que o juiz apreciará livremente a prova, atendendo aos fatos e circunstâncias constantes dos autos, devendo indicar apenas os motivos que lhe formaram o convencimento, não podendo fundamentar sua decisão exclusivamente nos elementos informativos colhidos na investigação, mas, podendo utilizar-se destes em consonância com a prova colhida na instrução processual, para formar o juízo de censurabilidade penal, como sói acontecer no presente caso.’ (fl. 4.426)
+
+    Como ressaltado na decisão objurgada, a Corte de origem afastou a alegação defensiva, no sentido de que a condenação dos agravantes teria se dado com base, exclusivamente, em provas colhidas no inquérito policial, porquanto tais elementos probatórios foram valorados em conjunto com outras provas colhidas na instrução processual. Tal entendimento se coaduna com a jurisprudência desta Corte, segundo a qual os elementos obtidos durante o inquérito policial podem servir para a condenação, se sopesados em conjunto com a prova colhida sob o crivo do contraditório e da ampla defesa. Citam-se precedentes (grifos nossos): [...]”
+
+    Deveras, como se depreende da fundamentação da decisão do juízo a quo, “a Corte de origem afastou a alegação defensiva, no sentido de que a condenação dos agravantes teria se dado com base, exclusivamente, em provas colhidas no inquérito policial, porquanto tais elementos probatórios foram valorados em conjunto com outras provas colhidas na instrução processual”. Destarte, o referido entendimento não diverge da orientação sufragada por este Supremo Tribunal Federal, in verbis:
+
+    PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TENTATIVA DE FURTO QUALIFICADO. PEDIDO DE ABSOLVIÇÃO. JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. 1. O entendimento desta Corte é no sentido de que “o habeas corpus não é, considerado o seu rito estreito, a via processual adequada ao reexame de fatos e provas para chegar-se à absolvição” (HC 107.550, Rel. Min. Luiz Fux). 2. O Supremo Tribunal Federa já decidiu que o “livre convencimento do juiz pode decorrer das informações colhidas durante o inquérito policial, nas hipóteses em que complementam provas que passaram pelo crivo do contraditório na fase judicial, bem como quando não são infirmadas por outras provas colhidas em juízo” (RHC 118.516, Rel. Min. Luiz Fux). 3. Hipótese de paciente condenado (em primeira e segunda instâncias) à pena de 1 ano e 4 meses de reclusão, em regime inicial aberto, pelo crime previsto no art. 155, § 4º, I, c/c o art. 14, II, do Código Penal. Situação concreta em que, conforme assentou o Superior Tribunal de Justiça, “as instâncias de origem se basearam para condenação nas provas orais – depoimento das testemunhos e dos policiais –, produzidas em juízo, somada aos termos da confissão na fase extrajudicial”. Para dissentir das conclusões das instâncias precedentes, seria necessário o revolvimento do conjunto fático-probatório, inviável em sede de habeas corpus. 4. Agravo regimental desprovido. (HC 224.437-AgR, Primeira Turma, Rel. Min. Roberto Barroso, DJe de 10/4/2023)
+
+    Agravo regimental em habeas corpus. Penal e Processo Penal. Crime do art. 157, § 3º, do CP. Alegação de condenação lastreada exclusivamente nos elementos produzidos na fase do inquérito policial. Não ocorrência. Decisão em que se considerou o acervo probatório, especialmente a prova testemunhal. Ausência de ilegalidade. Absolvição. Impossibilidade. Reexame do cotejo fático-probatório. Precedentes. Agravo não provido. 1. Segundo a jurisprudência do Supremo Tribunal Federal, “documento no âmbito do inquérito corroborado por outras provas, produzidas sob o pálio do contraditório e da ampla defesa, na fase judicial, afasta a tese de que a condenação tenha se dado sem o suficiente lastro probatório” (v.g. RHC nº 117.980, Segunda Turma, Rel. Min. Gilmar Mendes, DJe de 23/6/14). 2. Ademais, “os elementos do inquérito podem influir no formação do livre convencimento do juiz para a decisão da causa quando complementam outros indícios e provas que passam pelo crivo do contraditório em juízo” (RE nº 425.734/MG-AgR, Segunda Turma, Rel. Min. Ellen Gracie, DJ de 28/10/05; HC nº 103.092/RJ, Primeira Turma, de minha relatoria, DJe de 4/5/12; HC nº 114.592/MT, Segunda Turma, Rel. Min. Ricardo Lewandowski, DJe de 26/3/13; HC nº 119.315/MG, Segunda Turma, Rel. Min. Cármen Lúcia, DJe de 13/11/14). 3. É inviável a utilização do habeas corpus para se revolver o contexto fático-probatório e glosar os elementos de prova que tenham amparado a conclusão da instância ordinária. Nesse sentido: RHC nº 105.150, Primeira Turma, de minha relatoria, DJe de 4/5/12; RHC nº 121.092/SP, Primeira Turma, Rel. Min. Luiz Fux, DJe de 12/5/14; HC nº 118.602/SP, Segunda Turma, Rel. Min. Teori Zavascki, DJe de 11/3/14; e o HC nº 111.398/SP, Segunda Turma, Rel. Min. Ricardo Lewandowski, DJe de 3/5/12. 4. Agravo regimental não provido. (HC 207.824-AgR, Primeira Turma, Rel. Min. Dias Toffoli, DJe de 29/6/2022)
+
+    AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. RECORRENTES PRONUNCIADOS POR SUPOSTA TENTATIVA DE HOMICÍDIO QUALIFICADO. ALEGAÇÃO DE INOBSERVÂNCIA DO ART. 155 DO CÓDIGO DE PROCESSO PENAL PELO TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO. IMPROCEDÊNCIA. SENTENÇA DE PRONÚNCIA FUNDADA EXCLUSIVAMENTE EM ELEMENTOS INDICIÁRIOS COLHIDOS NO INQUÉRITO POLICIAL. INOCORRÊNCIA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I – Não há que falar em nulidade do acórdão do Tribunal de Justiça do Estado de São Paulo – TJSP por ausência de manifestação quanto à suposta inobservância do art. 155 do CPP, já que a análise do conjunto indiciário foi ampla. Se a Corte estadual entendeu que os indícios de autoria estavam demonstrados também pela prova oral produzida em juízo, o fez em observância à referida regra processual, segundo a qual o “juiz formará sua convicção pela livre apreciação da prova produzida em contraditório judicial, não podendo fundamentar sua decisão exclusivamente nos elementos informativos colhidos na investigação” (art. 155, CPP). II – O Tribunal de Justiça bandeirante examinou, de forma exaustiva, a alegada ausência de indícios suficientes de autoria, destacando que os elementos indiciários foram corroborados pela prova oral produzida sob o crivo do contraditório, na linha do entendimento consolidado por esta Suprema Corte, de que “os elementos do inquérito podem influir na formação do livre convencimento do juiz para a decisão da causa quando complementam outros indícios e provas que passam pelo crivo do contraditório em juízo” (RE 425.734-AgR/MG, Rel. Min. Ellen Gracie, Segunda Turma). III – As alegações dos recorrentes, tais como postas, mostram o nítido propósito de discutir os fatos da causa para modificar a sentença de pronúncia, o que não é possível na via estreita do habeas corpus , cabendo ao juízo natural o exame aprofundado do conjunto fático-probatório, como ocorreu. Precedentes. IV – Agravo regimental a que se nega provimento. (RHC 192.283-AgR, Segunda Turma, Rel. Min. Ricardo Lewandowski, DJe de 19/11/2020)
+
+    Na hipótese sub examine, cumpre destacar que o Tribunal de origem, ao reformar a sentença absolutória, consignou que “o acervo probatório colacionado aos autos deixa clara a participação dolosa de Maria e Marzo nos delitos de tortura perpetrados contra Idalgina e Daniel”, e que “os acusados Maria e Marzo ordenaram a execução do injusto, sendo, portanto, coautores de igual importância”.
+
+    Nesse contexto, eventual exame da pretensão defensiva demandaria uma indevida incursão na moldura fática delineada nos autos. Desta sorte, impende consignar que o habeas corpus é ação inadequada para a valoração e exame minucioso do acervo fático probatório engendrado nos autos. Destarte, não se revela cognoscível a insurgência que não se amolda à estreita via eleita. Nesse sentido:
+
+    AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL E PROCESSUAL PENAL. CRIME DE HOMICÍDIO DUPLAMENTE QUALIFICADO. HABEAS CORPUS SUBSTITUTIVO DE RECURSO EXTRAORDINÁRIO. INADMISSIBILIDADE. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL PARA JULGAR HABEAS CORPUS: CRFB/88, ART. 102, I, D E I. HIPÓTESE QUE NÃO SE AMOLDA AO ROL TAXATIVO DE COMPETÊNCIA DESTA SUPREMA CORTE. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO. INADMISSIBILIDADE NA VIA ELEITA. INÉPCIA DA DENÚNCIA. NÃO CARACTERIZADA. CUSTÓDIA PREVENTIVA DEVIDAMENTE FUNDAMENTADA. ELEMENTOS CONCRETOS A JUSTIFICAR A MEDIDA. ALEGADO EXCESSO DE PRAZO. INOCORRÊNCIA. AGRAVO REGIMENTAL DESPROVIDO. (HC 130.439, Primeira Turma, Rel. Min. Luiz Fux, DJe de 12/5/2016)
+
+    Por fim, impende consignar que não cabe a rediscussão da matéria perante essa Corte e nesta via processual, porquanto o habeas corpus não é sucedâneo de recurso ou revisão criminal. Nesse sentido:
+
+    AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. WRIT SUCEDÂNEO DE RECURSO OU REVISÃO CRIMINAL. EXECUÇÃO PENAL. FALTA DISCIPLINAR GRAVE. ABSOLVIÇÃO OU DESCLASSIFICAÇÃO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. INVIABILIDADE. MANIFESTA ILEGALIDADE OU TERATOLOGIA NÃO IDENTIFICADAS. 1. Inadmissível o emprego do habeas corpus como sucedâneo de recurso ou revisão criminal. Precedentes. 2. Para concluir em sentido diverso das instâncias anteriores quanto ao pleito de absolvição ou desclassificação da imputação de falta grave, imprescindíveis o reexame e a valoração de fatos e provas, para o que não se presta a via eleita. Precedentes. 3. Agravo regimental conhecido e não provido. (RHC 217.371-AgR, Primeira Turma, Rel. Min. Rosa Weber, DJe de 9/9/2022)
+
+    AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. MATÉRIA CRIMINAL. WRIT UTILIZADO COMO SUCEDÂNEO DE REVISÃO CRIMINAL. IMPOSSIBILIDADE. REGIME. AUSÊNCIA DE ILEGALIDADE EVIDENTE OU TERATOROLOGIA A INFIRMAR JULGAMENTO ACOBERTADO PELA COISA JULGADA. AGRAVO REGIMENTAL DESPROVIDO. 1. O recurso ordinário em habeas corpus não merece conhecimento na medida em que funciona como sucedâneo de revisão criminal. Precedentes. 2. Devido ao caráter excepcional da superação da jurisprudência da Corte, a concessão da ordem de ofício configura providência a ser tomada tão somente em casos absolutamente aberrantes e teratológicos, o que não se verifica na espécie. 3. Agravo regimental desprovido. (RHC 213.694-AgR, Segunda Turma, Rel. Min. Edson Fachin, DJe de 26/8/2022)
+
+    Ex positis, NEGO SEGUIMENTO ao habeas corpus, com fundamento no artigo 21, § 1º, do RISTF.
+
+    Publique-se.
+
+    Brasília, 13 de abril de 2023.
+
+Ministro LUIZ FUX
+
+Relator
+
+Documento assinado digitalmente
