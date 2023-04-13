@@ -1,0 +1,6 @@
+DECISÃO
+Trata-se de agravo interno interposto por QUINTA DA NEVE INCORPORAÇÃO DE EMPREENDIMENTOS IMOBILIÁRIOS LTDA - em recuperação judicial contra decisão monocrática proferida pela P residência do STJ (fls. 1.532/1.534) que não conheceu do agravo ante o óbice contido na Súmula 284/STF.
+A parte insurgente, nas razões do agravo interno (fls. 1.210/1.222), alega que impugnou especificadamente o ponto referente à ausência de óbice pelo enunciado da Súmula 284/STF, na presente demanda.
+Da análise das razões recursais e do acórdão recorrido, noto que a relação jurídica litigiosa, qual seja, ação de rescisão de contrato C/C repetição de indébito revisional de contrato bancário, é regida pelas normas do direito privado, estando inserida entre aquelas de competência da Segunda Seção desta Corte Superior, nos termos do art. 9º, caput e § 2º, II e XIV, do Regimento Interno do Superior Tribunal de Justiça, sendo esse o critério que define a distribuição interna de competência no âmbito deste Tribunal.
+Diante do exposto, declino da competência para a apreciação do recurso e determino a devolução dos autos à Secretaria Judiciária para redistribuição do feito a uma das turmas que compõem a Segunda Seção.
+Publique-se. Intimações necessárias.
