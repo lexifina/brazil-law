@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de agravo interposto por REGYANNE OLIVEIRA DE SOUZA contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, cuja ementa guarda os seguintes termos (fls. 909):
+AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DEDÉBITO CUMULADA COM OBRIGAÇÃO DE FAZERE INDENIZAÇÃO FINANCIAMENTO ESTUDANTILPROGRAMA"UNIESPPAGA" - QUITAÇÃOSUJEITA A REQUISITOS NÃO PREENCHIDOS PELAINTERESSADA AÇÃO IMPROCEDENTE RECURSOIMPROVIDO.
+Rejeitados os embargos de declaração opostos (fls. 1110/1112).
+No recurso especial, alega a recorrente ofensa aos arts. 186, 389 e 927 do Código Civil, 355, I, do Código de Processo Civil, e 6º, III, IV e VI, 30, 31, 36, 37, 39, 46, 47, 48 e 51, VI e XV, do Código de Defesa do Consumido, ao defender a nulidade de contrato firmado, no caso, com a segunda recorrida, porquanto somente teve conhecimento das condições do programa previsto no contrato em questão posteriormente a assinatura do contrato de financiamento estudantil, e posteriormente ao ingresso na instituição. Sustenta cerceamento de defesa e descumprimento do dever de informação por parte da referida instituição de ensino.
+Suscita divergência jurisprudencial com arestos de outros tribunais.
+Foram oferecidas contrarrazões ao recurso especial (fls. 1132/1134).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 1135/1137), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 1186/1193).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Cuida-se na origem de ação declaratória de inexigibilidade de débito cumulada com obrigação de fazer e pretensão de indenização por danos morais ajuizada pela ora recorrente, em decorrência de apontada ilegalidade em contrato firmado em programa chamado "UNIESP PAGA", promovido pela referida instituição de ensino, quando sustenta descumprimento do dever de informação e cerceamento de defesa. O juiz de primeiro julgou improcedente o pedido. Decisão confirmada pelo Tribunal a quo. Reitera a recorrente em recurso especial alegações já rejeitadas em recurso especial.
+Não merece prosperar o recurso.
+De início, consigne-se inviável a apreciação das alegações da recorrente, considerando que a Corte de origem, ao entender que o contrato em questão previa que a quitação estava sujeita a requisitos que não foram preenchidos pela interessada, ora recorrente, firmou o entendimento com base no conjunto probatório dos autos. Confira-se o seguinte excerto do referido acórdão (fls. 910/911):
+Porém, pelo Regulamento do Grupo Educacional tinha ciência das responsabilidades que assumira junto à instituição de ensino, informações muito claras no contrato por ela assinado. É certo que disposição contratual que exige "excelência no rendimento escolar" desperta incerteza quanto ao seu significado, devendo, assim, ser interpretada de maneira mais favorável ao consumidor, conforme decidiu a Câmara na Apelação 1001303-20.2018.8.26.0481, de Presidente Epitácio, j. 18.02.19. Todavia, obtenção de nota abaixo da mínima exigida para o exame ENADE não aponta para "excelência" (fls. 410/411).
+(..)
+Recentemente, em caso parelho, a Câmara decidiu que houve informação clara, tanto na propaganda, quanto no contrato e mesmo na palestra inserida na mídia invocada pelo apelante, constatando-se que haveria pagamento se o autor preenchesse os requisitos (Apelação nº 1002281-64.2017.8.26.0082, de Boituva, Rel. Des. Hélio Nogueira, j. 17.04.18).
+Ausente, portanto, abuso ou obrigação que coloque o consumidor em desvantagem exagerada ou atente contra a boa fé objetiva.
+Assim, rever tal entendimento, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos e das cláusulas contratuais, a eventualmente ensejar novo juízo acerca dos fatos e provas. Sendo assim, incide no caso as Súmulas n. 5 e 7 do STJ.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. CONTRATO ADMINISTRATIVO. IRREGULARIDADES. CLÁUSULA DE ELEIÇÃO DE FORO. ACÓRDÃO BASEADO NO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS E NA ANÁLISE DE CLÁUSULAS CONTRATUAIS. IMPOSSIBILIDADE. SÚMULAS 7 E 5 DO STJ.
+1. Tendo a controvérsia sido solucionada à luz do instrumento contratual e do conjunto probatório dos autos, é inviável o conhecimento dos Recursos Especiais, pois esbarra-se no óbice das Súmulas 5 e 7 do STJ.
+2. Agravo Interno não provido.
+(AgInt no AREsp n. 1.849.261/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 11/10/2021, DJe de 4/11/2021.)
+Outrossim, quanto à alegada divergência jurisprudencial, não é possível o conhecimento do nobre apelo interposto pela alínea "c", na hipótese em que ele está apoiado em fatos, e não na interpretação da lei, assim a necessidade de reexame de matéria fática torna prejudicado o exame da divergência jurisprudencial, considerando a inevitável ausência de similitude fática entre acórdãos.
+A propósito, confira-se:
+PROCESSUAL CIVIL. ADMINISTRATIVO. DANO MORAL. HANSENÍASE. PRESCRIÇÃO. INTERNAÇÃO COMPULSÓRIA. SEGREGAÇÃO. ISOLAMENTO. REEXAME DE FATOS E PROVAS. SÚMULA N. 7/STJ. ANÁLISE DA DIVERGÊNCIA PREJUDICADA. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Trata-se de ação indenizatória por danos extrapatrimoniais por violação de princípios, direitos e garantias fundamentais e direitos de personalidade contra a União objetivando reparação pecuniária em decorrência da separação compulsória de sua genitora ocorrida à época da internação desta, em 1947, também compulsoriamente no Hospital Colônia de Itapuã, por ser portadora de hanseníase.
+II - O Tribunal Regional Federal da 4ª Região, em grau recursal, negou provimento ao recurso de apelação autoral, mantendo incólume a decisão monocrática de improcedência da ação em razão da prescrição da pretensão indenizatória.
+III - No que trata da apontada ofensa aos arts. 10 e 332, § 1º, do CPC/2015, e ao art. 1º do Decreto n. 20.910/1932, a Corte a quo analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+IV - Nos casos de interposição do recurso, alegando divergência jurisprudencial quanto à mesma alegação de violação, a incidência do Enunciado n. 7, quanto à interposição pela alínea a, impede o conhecimento da divergência jurisprudencial, diante da patente impossibilidade de similitude fática entre acórdãos. Nesse sentido:
+AgInt no AREsp n. 1.044.194/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 19/10/2017, DJe 27/10/2017.
+V - Agravo interno improvido. (AgInt no REsp n. 1.987.220/RS, relator Ministro Francisco Falcão, Segunda Turma, DJe de 19/8/2022.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
