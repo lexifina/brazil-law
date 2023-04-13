@@ -1,0 +1,6 @@
+DECISÃO
+Trata-se de ação de homologação de sentença estrangeira apresentada pela República da Itália, com o consequente pedido de transferência de execução de pena do nacional brasileiro PEDRO ANTONIO MATO NARBONDO, fundada no artigo 6º, 1, do Tratado de Extradição firmado entre Brasil e Itália, promulgado pelo Decreto nº. 863, de 9 de julho de 1993.
+O título judicial homologando consiste em sentença penal proferida pela Corte de Apelação de Milão, datada de 08 de julho de 2019 e transitada em julgado em 09 de julho de 2021, por meio da qual o brasileiro nato PEDRO ANTONIO MATO NARBONDO foi condenado, em razão de coautoria na prática de crimes de homicíd ios dolosos qualificados ocorridos na Argentina entre 8 e 9 de junho de 1976, à pena de prisão perpétua.
+O requerido apresentou contestação às fls. 501-528. Nos termos do art. 216-K do Regimento Interno do Superior Tribunal de Justiça, "Contestado o pedido, o processo será distribuído para julgamento pela Corte Especial, cabendo ao relator os demais atos relativos ao andamento e à instrução do processo".
+Assim sendo, distribua-se o processo, por sorteio, a um dos Ministros integrantes da Corte Especial deste Tribunal.
+Publique-se. Cumpra-se.
