@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por JOANA DE SOUZA ALVES, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO TOCANTINS, assim ementado:
+"AGRAVO DE INSTRUMENTO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. AÇÃO ORDINÁRIA COLETIVA. DISPOSITIVO QUE RESTRINGE A ABRANGÊNCIA. COISA JULGADA. AGRAVO DE INSTRUMENTO PROVIDO.
+1 - O posicionamento do Superior Tribunal de Justiça é o de que, quando a sentença, em ação ordinária movida por sindicato, não restringe seus efeitos apenas àqueles que eram filiados à época do protocolo da ação, a coisa julgada acaba por alcançar todos os pertencentes à categoria beneficiada
+2 - A contrario sensu, quando a sentença expressamente limitar seu alcance apenas aos associados, esta não poderá abranger os servidores não representados no processo de conhecimento.
+3 - No presente caso, verifica-se que a sentença exequenda expressamente limitou a abrangência da condenação, desse modo, o referido título executivo judicial abrange somente aqueles servidores representados pela entidade de classe nos autos da ação coletiva.
+4 - Agravo de Instrumento Provido, para reformar a decisão vergastada, e reconhecer a ilegitimidade ativa e extinguir o processo, nos termos do art. 485, VI do CPC. Condeno a parte autora ao pagamento das custas e honorários de sucumbência, os quais fixo em 12% do valor da causa, restando suspensa sua exigibilidade em caso de deferimento na instância singela" (fl. 77e).
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 80/93e), os quais restaram rejeitados, nos termos da seguinte ementa:
+"EMBARGOS DE DECLARAÇÃO EM FACE DOACÓRDÃO PROVENIENTE DO AGRAVO DE INSTRUMENTOQUE JULGOU ILEGÍTIMA A PARTE EMBARGANTE PARAPROPOR CUMPRIMENTO SENTENÇA COLETIVA EM RAZÃODA PARTE NÃO CONSTAR NA LISTA SISEPE. RECURSOCONHECIDO E NÃO PROVIDO.
+1. Ao contrário do que alega a embargante, não houve omissão no acórdão, uma vez que restou plenamente consignado que a sentença exequenda expressamente limitou a abrangência da condenação, desse modo, o referido título executivo judicial abrange somente aqueles servidores representados pela entidade de classe nos autos da ação coletiva.
+2. No evento n. 16, fora determinada a livre distribuição dos auto sem razão do reconhecimento da inexistência de recurso ou ação anterior que atraia a aplicação do artigo 78, §8º, do Regimento Interno do Tribunal de Justiça do Estado do Tocantins, não havendo que se falar em nulidade do acórdão em razão da inexistência de prevenção.
+3. Embargos de Declaração conhecidos e não providos, mantendo o acórdão nos moldes em que fora proferido" (fl. 116e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora recorrente alega violação aos seguintes dispositivos:
+"Art. 489, §3º do Código de Processo Civil, que trata do dever de se interpretar uma decisão judicial a partir da conjugação de todos os seus elementos e em conformidade com o princípio da boa-fé.
+Arts. 490 e 492 do Código de Processo Civil, que tratam do princípio da adstrição ou congruência, segundo o qual a sentença oua decisão de mérito devem observar os limites traçados pelos elementos que identificam a ação, o que impede que o juiz, ao analisá-la, se desvencilhe dos pedidos formulados, da causa de pedir e das que partes que compõe a relação jurídica processual.
+Art.141 do Código de Processo Civil, que ao tratar do princípio da adstrição ou congruência estabelece que o juiz decidirá o mérito nos limites do que foi proposto pelas partes." (fl. 122e)
+Por fim, requer "seja conhecido e provido o recurso especial com a reforma do acórdão em razão da violação ao dispositivo de lei federal previsto no art. 489, §3º do CPC e, consequentemente, seja reconhecida a legitimidade do Recorrente, visto que os efeitos da sentença proferida nos autos da Ação Coletiva de Cobrança nº 5002004-78.2008.827.2729, estendem-se a todos os servidores públicos comissionados exonerados pelo Ato n. 2.871-EX, em 15/08/2008" (fl. 136e).
+Contrarrazões, a fls.139/158e.
+O Recurso Especial foi admitido pelo Tribunal de origem (fls.162/163e).
+A irresignação não merece conhecimento.
+Outrossim, por simples cotejo entre as razões do Recurso Especial e os fundamentos do acórdão recorrido, observa-se que as teses recursais contidas nos arts. 489, § 3º; 490 e 492; e 141 do CPC/2015 não foram apreciadas pelo Tribunal local, não obstante terem sido opostos Embargos de Declaração, para tal fim.
+Por essa razão, à falta do indispensável prequestionamento, não pode ser conhecido o Recurso Especial, incidindo o teor da Súmula 211 do STJ ("inadmissível recurso especial quanto à questão que, a despeito da oposição dos embargos declaratórios, não foi apreciado pelo Tribunal a quo").
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. COMISSÃO DE CORRETAGEM. INDENIZAÇÃO. CABIMENTO. REEXAME DE PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos declaratórios, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.
+(..)
+6. Agravo interno não provido" (STJ, AgInt no AREsp 1.172.051/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 23/03/2018).
+Assim, à mingua de prequestionamento, inviável a apreciação das aludidas teses recursais.
+Registre-se, por oportuno, que não há impropriedade em afirmar a falta de prequestionamento e afastar a indicação de afronta ao art. 1.022 do CPC/2015, haja vista que o julgado está devidamente fundamentado, sem, no entanto, ter decidido a causa à luz dos preceitos jurídicos suscitados pela parte recorrente, pois, como consabido, não está o julgador a tal obrigado.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+Em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015.
+Ressalte-se que, em caso de reconhecimento do direito à gratuidade de justiça, permanece suspensa a exigibilidade das obrigações decorrentes de sua sucumbência, nos termos do § 3º do art. 98 do CPC/2015
+I.
