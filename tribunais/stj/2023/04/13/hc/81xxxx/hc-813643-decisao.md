@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de Gustavo Ribeiro, em que se aponta como autoridade coatora a Décima Quarta Câmara de Direito Criminal do Tribunal de Justiça de São Paulo, que deu parcial provimento à Apelação ministerial n. 0001588-94.2017.8.26.0374 para afastar a minorante do tráfico privilegiado e redimensionar a pena do paciente para 5 anos de reclusão, em regime fechado, como incurso no art. 33 da Lei n. 11.343/2006.
+Neste writ, sustenta que o afastamento do redutor do art. 33, § 4º, da Lei n. 11.343/2006, é evidentemente ilegal, pois afronta o entendimento desse tribunal, que não admite que eventuais apontamentos em folha de antecedentes sejam considerados para afastar a redução da pena pelo tráfico privilegiado. pugna-se pelo reconhecimento do tráfico privilegiado em sua fração máxima, readequando o regime prisional (fl. 6).
+Requer, assim, a concessão liminar da ordem para reconhecer a ilegalidade da decisão ora atacada que afastou a aplicação do privilégio descrito no art. 33, § 4º, da Lei n. 11.343/2006, e, consequentemente, restabelecer a decisão de primeiro grau que o aplicou e fixou regime aberto para início do cumprimento da pena (fl. 18).
+É o relatório.
+A concessão de ordem de habeas corpus demanda demonstração, de plano, da ilegalidade, ônus que recai sobre a impetrante, a quem cumpre instruir o feito com a prova pré-constituída de suas alegações.
+In casu, verifico, de plano, a viabilidade do presente writ, apenas em parte.
+Quanto à incidência da causa de diminuição do § 4º do art. 33 da Lei n. 11.343/2006, consta o seguinte (fl. 76):
+É cediço que a causa especial de redução depena, prevista no § 4º do artigo 33 da Lei n. 11.343/2006, tem por escopo beneficiar somente o traficante ocasional, e não aquele que faz do tráfico o seu meio de vida.
+Ademais, sua aplicação só se justifica em hipóteses bastante reduzidas, devendo estar presentes todos os requisitos elencados § 4º, do artigo 33 da referida Lei, o que não se verifica no caso vertente, eis que evidenciada a dedicação do réu às atividades criminosas, conforme demonstrado pela folha de antecedentes às fls. 97/99 e da certidão de fls.100/101.
+Convém enfatizar o consignado pelo douto Promotor de Justiça, de teor seguinte: "O acusado (I) já se beneficiou com a transação penal em relação ao crime de receptação culposa, em virtude de delito cometido em 12/11/2011; (II) já foi condenado pelo crime de tráfico de entorpecentes pelo delito cometido em 17/05/2014, entretanto se beneficiou neste processo com a prescrição intercorrente verificada em virtude da não interposição de recurso pelo Parquet; (III) foi investigado pelo crime de porte de drogas para consumo pessoal por fato ocorrido em 1/11/2011, mas houve a prescrição da pretensão punitiva; e (IV) já foi condenado pelo crime de estelionato (data do fato: 21/6/2011), sendo certo que esta condenação ainda não transitou em julgado pela interposição de recurso pela defesa"(fl. 218). Portanto, é de rigor o afastamento da benesse concedida.
+In casu, verifico que o Tribunal local menciona que o paciente se dedica a atividades criminosas, destacando o histórico criminal do condenado (fl. 76).
+Desse modo, inviável rever a conclusão do Tribunal local, visto que somente mediante incursão no acervo probatório seria possível, medida essa incabível na via do habeas corpus.
+De outra banda, verifico constrangimento ilegal no tocante à fixação do regime fechado para o início de cumprimento da pena, a ser sanado por este Relator.
+Pois bem, conforme posicionamento firmado nesta Corte, mostra-se inadmissível a estipulação de regime prisional mais rigoroso do que aquele previsto para sanção aplicada com base apenas na gravidade abstrata do delito (Súmulas 440/STJ; 718 e 719 do STF).
+A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea. Nesse contexto, aplicando-se a legislação de regência, o regime adequado para o início do cumprimento da pena é o semiaberto (art. 33, § 2º, b, do CP).
+No mesmo sentido: AgRg no HC n. 581.539/RJ, Ministro Reynaldo Soares da Fonseca, Sexta Turma, DJe 25/6/2020; e AgRg no HC n. 539.510/SP, Ministro Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE), Quinta Turma, DJe 19/2/2020.
+Ante o exposto, concedo liminarmente a ordem, apenas para fixar o regime semiaberto para o início de cumprimento da pena.
+Comunique-se.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. CONDENAÇÃO. RECONHECIMENTO DO TRÁFICO PRIVILEGIADO. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. INADEQUAÇÃO DA VIA ELEITA. REGIME FECHADO. CONSTRANGIMENTO ILEGAL NO PONTO.
+Ordem concedida liminarmente, apenas para fixar o regime semiaberto para o início de cumprimento da pena.
