@@ -1,0 +1,43 @@
+DECISÃO
+Cuida-se de recurso especial interposto por COSAN LUBRIFICANTES E ESPECIALIDADES S.A., com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO, que julgou prejudicado o recurso de agravo interno da recorrente nos termos da seguinte ementa (fl. 601):
+AGRAVO. TRIBUTÁRIO. PENHORA. CARTA DE FIANÇA. SUBSTITUIÇÃO. DECLARAÇÃO INIDONEIDADE POSTERIOR. PERDA OBJETO.
+1 - Esta Turma Especializada, ao julgar o agravo interno em agravo de instrumento nº2012.02.01.012519-8, entendeu que a carta de fiança apresenta danos autos originários não se afigura como garantia idônea e suficiente do Juízo para fins de suspensão da cobrança do crédito tributário objeto de execução fiscal, à vista do rol taxativo do art. 151 do CIN.
+2 - Houve, portanto, perda de objeto do agravo, pois a superveniência de decisão deste Tribunal Regional faz desaparecer o interesse processual no presente recurso, na medida em que a carta de fiança na qual a ora agravante fundamenta sua pretensão de levantar a penhora no rosto dos autos do processo nº 95.0024447-0 deixou de ser considerada como garantia do Juízo.
+3 - Agravo conhecido e julgado prejudicado.
+Rejeitados os embargos de declaração opostos (fls. 613-621).
+No presente recurso especial, o recorrente alega, preliminarmente, ofensa ao art. 535 do CPC/1973, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz, no mérito, que o acórdão regional contrariou as disposições contidas nos arts. 522, 618, 620, 655, I e X, do CPC/1973 e 11, incisos I e VII, da Lei n. 6.830/1980.
+Sustenta, outrossim, que, "ao se permitir a manutenção da concomitância de duas espécies de penhora, viola-se a própria ordem de preferência entre elas, a teor do artigo 655,I e X do CPC e artigo 11, inciso I e VII da Lei de Execuções Fiscais. Ou seja, determinada a ordem BANCEJUD, deveria necessariamente afastar a penhora no rosto dos autos, afinal uma prefere à outra" (fl. 634).
+Apresentadas as contrarrazões (fls. 653-657), sobreveio o juízo de admissibilidade po sitivo da instância de origem (fl. 673).
+Petições apresentadas pela parte recorrente às fls. 822-851 e pela Fazenda Nacional às fls. 852-853.
+É, no essencial, o relatório.
+De início, não prospera a alegada violação do art. 535 do CPC/1973, uma vez que deficiente sua fundamentação.
+Com efeito, a recorrente limitou-se a alegar, genericamente, ofensa ao referido dispositivo legal, sem explicitar os pontos em que o acordão recorrido teria sido omisso, contraditório ou obscuro, bem como a relevância do enfrentamento da legislação e das teses recursais não analisadas.
+A respeito de tais questões, esta Corte não pode e não deve decidir tateando no escuro, tentando identificar as supostas máculas do acórdão recorrido e os dispositivos tidos por violados. Essa tarefa é da recorrente, que não se desincumbe dela pelo fato isolado de apontar os dispositivos legais tidos por afrontados.
+As razões do recurso especial devem exprimir, com transparência e objetividade, os motivos pelos quais a agravante visa reformar o decisum. Ausente tal diretriz, incide o óbice da Súmula n. 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, cito:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 535 DO CPC/1973. ALEGAÇÕES GENÉRICAS. SÚMULA N. 284/STF. PRESCRIÇÃO. TRIBUTOS SUJEITOS A LANÇAMENTO POR HOMOLOGAÇÃO. REPETIÇÃO DE INDÉBITO. LEI COMPLEMENTAR N. 118/2005. TESE DOS "CINCO MAIS CINCO". INTERRUPÇÃO DA PRESCRIÇÃO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. ISS. AGENCIAMENTO MARÍTIMO. ACÓRDÃO COM ENFOQUE CONSTITUCIONAL E INFRACONSTITUCIONAL. NÃO INTERPOSIÇÃO DO RECURSO EXTRAORDINÁRIO. SÚMULA N. 126/STJ.
+1. A ausência de indicação, nas razões de recurso especial, das questões sobre as quais o Tribunal de origem manteve-se omisso, inviabiliza o reconhecimento da violação do art. 535 do CPC/1973, em razão do óbice da Súmula n. 284/STF.
+ ..
+Agravo interno improvido.
+(AgInt no REsp n. 1.342.597/RJ, relator Ministro Humberto Martins, Segunda Turma, julgado em 21/3/2023, DJe de 27/3/2023.)
+No mais, a jurisprudência do Superior Tribunal de Justiça é firme no sentido de que, se as razões recursais apresentadas pelo recorrente estão dissociadas dos fundamentos do acórdão recorrido não é possível conhecer do recurso especial, por aplicação dos óbices das Súmulas n. 283 e 284 do STF.
+A propósito, cito:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FORNECIMENTO DE ÁGUA E ESGOTO. COBRANÇA. ALEGAÇÕES GENÉRICAS. SUFICIÊNCIA DAS PROVAS DOS AUTOS PARA FORMAÇÃO DA CONVICÇÃO DO JULGADOR. CERCEAMENTO DE DEFESA. AUSÊNCIA. INDEFERIMENTO DE PROVA DESNECESSÁRIA. REVISÃO DO JUÍZO. SÚMULA 7/STJ. INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. SÚMULA 280/STF. DEFICIÊNCIA DA FUNDAMENTAÇÃO RECURSAL. SÚMULAS 284/STF E 283/STF.
+ ..
+5. A jurisprudência pacífica do STJ é no sentido de que inexiste cerceamento de defesa quando o julgador, ao constatar nos autos a existência de provas suficientes para o seu convencimento, indefere pedido de produção de provas inúteis ou protelatórias. Precedentes.
+6. Configura deficiência da fundamentação recursal a apresentação de razões dissociadas, que não impugnam fundamentação do acórdão por si só suficiente para manter o entendimento expendido. Aplicação das Súmulas 284 e 283 do STF.
+7. Agravo interno não provido.
+(AgInt no AREsp n. 1.797.792/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 6/3/2023, DJe de 9/3/2023 - grifo meu.)
+SERVIDOR PÚBLICO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. RAZÕES RECURSAIS DISSOCIADAS. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DAS SÚMULAS N. 283 E 284/STF. VALOR DA INDENIZAÇÃO POR DANOS MORAIS FIXADO COM FUNDAMENTO NOS PRINCÍPIOS DA RAZOABILDIADE E PORPORCIONALIDADE. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE PREJUDICADA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A jurisprudência desta Corte considera deficiente a fundamentação quando a parte deixa de impugnar fundamento suficiente para manter o acórdão recorrido, apresentando razões recursais dissociadas dos fundamentos utilizados pela Corte de origem. Incidência, por analogia, das Súmulas n. 283 e 284/STF.
+ ..
+VIII- Agravo Interno improvido.
+(AgInt nos EDcl no REsp n. 1.998.121/MG, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 13/2/2023, DJe de 17/2/2023 - grifo meu.)
+No caso dos autos, o Tribunal de origem entendeu que houve perda do objeto do agravo porquanto "a superveniência de decisão deste Tribunal Regional faz desaparecer o interesse processual no presente recurso, na medida em que a carta de fiança na qual a ora agravante fundamenta sua pretensão de levantar a penhora no rosto dos autos do processo nº 95.0024447-O deixou de ser considerada como garantia do Juízo" (fl. 598).
+Contudo, da análise das razões do recurso especial, observa-se que a ora recorrente não rebateu o principal fundamento do acórdão recorrido, qual seja, a ausência de interesse processual - perda do objeto do recurso. A parte recorrente limitou-se a alegar violação dos arts. 522, 618, 620, 655, I e X, do CPC/1973 e 11, incisos I e VII, da Lei n. 6.830/1980.
+Desse modo, verifica-se que as razões recursais apresentadas se encontram dissociadas daquilo que ficou decidido pelo Tribunal de origem, o que caracteriza deficiência na fundamentação do recurso especial e atrai, por analogia, os óbices das Súmulas 283 e 284 do STF.
+Ante o exposto, não conheço do recurso especial.
+Deixo de majorar os honorários advocatícios, tendo em vista que o recurso especial foi interposto contra acórdão publicado na vigência do CPC/73, tal como dispõe o Enunciado administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC").
+Publique-se. Intimem-se.
