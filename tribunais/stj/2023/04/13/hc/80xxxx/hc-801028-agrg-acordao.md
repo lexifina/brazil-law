@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT) e Laurita Vaz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de agravo regimental interposto por Roselaine Ribeiro de Carvalho contra a decisão monocrática, pela qual não conheci do writ impetrado em seu favor, cujos fundamentos estão assim sintetizados (fl. 530):
+HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. WRIT IMPETRADO CONTRA CONDENAÇÃO TRANSITADA EM JULGADO. SUCEDÂNEO DE REVISÃO CRIMINAL. INADMISSIBILIDADE. AUSÊNCIA DE JULGAMENTO DE MÉRITO NESTA CORTE SUPERIOR. NEGATIVA DE RECONHECIMENTO DA MINORANTE DO ART. 33, § 4º, DA LEI N. 11.343/2006. ALTERAÇÃO QUE EXIGIRIA REVOLVIMENTO FÁTICO. INVIABILIDADE NA VIA ELEITA.
+Writ não conhecido.
+Reitera a defesa o pleito de reconhecimento do tráfico privilegiado, afirmando que a recorrente preenche todos os requisitos exigidos pelo § 4º do art. 33 da Lei n. 11.343/2006.
+Afirma que, segundo orientação do Supremo Tribunal Federal, a natureza e a quantidade da droga apreendida apenas podem ser levadas em consideração em uma das fases da dosimetria da pena, sendo vedada a sua apreciação cumulativa (fls. 538/539).
+Requer, assim, a reconsideração da decisão agravada ou, caso contrário, a sua submissão ao órgão colegiado competente.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL. HABEAS CORPUS. WRIT IMPETRADO CONTRA ACÓRDÃO TRANSITADO EM JULGADO. SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA A COMPETÊNCIA DO STJ. PLEITO DE RECONHECIMENTO DO TRÁFICO PRIVILEGIADO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+Agravo regimental improvido.
+VOTO
+A despeito das alegações da agravante, não lhe assiste razão, devendo a decisão agravada ser mantida.
+Com efeito, este writ é sucedâneo de revisão criminal, uma vez que a condenação já transitou em julgado.
+Assim, como não existe neste Superior Tribunal julgamento de mérito passível de revisão em relação à condenação sofrida pelo agravante, forçoso reconhecer a incompetência desta Corte Superior para o processamento do presente pedido. Nesse sentido, a propósito: AgRg no HC n. 494.794/MA, da minha relatoria, Sexta Turma, DJe 11/4/2019.
+E mais, ainda que assim não fosse, conforme explicitei na decisão impugnada, o pleito de reconhecimento do tráfico privilegiado exigiria o reexame dos elementos fáticos do processo, prática vedada na estreita via estreita do habeas corpus, dado o rito célere e de cognição sumária.
+No mesmo sentido: HC n. 761.095/SP, Ministro Messod Azulay Neto, Quinta Turma, DJe 16/12/2022; AgRg no HC n. 768.036/MG, Ministro Jesuíno Rissato, Desembargador convocado do TJDFT, Quinta Turma, DJe 29/11/2022.
+Oportuno ressaltar que, segundo a mais abalizada interpretação dada ao art. 33, § 4º, da Lei n. 11.343/2006, por esta Corte Superior, a constatação de que o paciente se dedica à atividade criminosa se perfaz de forma indiciária, por um conjunto de circunstâncias associadas à prática dos crimes previstos no caput e no § 1º do artigo 33 da Lei de Drogas (AgRg no HC n. 409.927/MS, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 12/3/2018). E, na hipótese, asseverou o Magistrado de primeiro grau (fls. 433/435 - grifo nosso):
+Do tráfico privilegiado (art. 33, § 4", Lei n. 11.343/2006)
+Estabelece o § 4º do art. 33 da Lei de Drogas que é cabível a causa de diminuição de pena (de 1/6 a 2/3), desde que "o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa".
+Da leitura do mencionado dispositivo, infere-se que há necessidade de preenchimento cumulativo de 4 (quatro) requisitos, quais sejam: 1) primariedade; 2) bons antecedentes; 3) não se dedicar a atividades criminosas; 4) não integrar organização criminosa.
+Os réus, apesar de tecnicamente primários, não preenchem o terceiro requisito necessário ao reconhecimento da causa de diminuição de pena, pois há evidências de dedicação a atividades criminosas.
+O réu Evando possui uma condenação com trânsito em julgado (fl. 461), que apesar de não poder figurar como reincidência e haja discussão sobre a possibilidade de figurar como maus antecedentes, não deixa de ser condenação finda.
+Além disso, disso, ambos os réus foram condenados em primeiro grau pela prática de tráfico de drogas nos autos 0000016-50.2016.8.26.0306 (fls. 455 e 459), atualmente em fase de recurso. Apesar de não se desconhecer recente decisão do C. Superior Tribunal de Justiça no sentido de que condenações não definitivas não possuem o condão de configurar a dedicação a atividades criminosas, ver-se-á que a condenação é apenas mais um elemento que demonstra a impossibilidade de aplicação do redutor.
+Não bastasse, além das referidas condenações, o caso concreto revela ainda alto grau de organização e constância do comércio espúrio. A quantidade da droga, por si só, não é exagerada, considerando o seu peso, e não o fracionamento. Mas a quantidade de dinheiro em espécie, decorrente do tráfico, totalizando mais de R$ 15.000,00 (quinze mil reais), demonstra que: (a) ou são feitas grandes transações de droga, que somam quantias vultosas; (b) ou o comércio já é realizado, no chamado "varejo", tempo suficiente para que pudessem guardar a referida quantia, que corresponde somente a parte do lucro.
+De uma forma ou de outra, independentemente de qual situação se trate, o fato é que está estampada a dedicação ao comercio ilícito.
+Veja-se: dedicação não se confunde com associação para o tráfico. Embora não haja elementos suficientes para o reconhecimento da associação, porquanto não foi comprovada suficientemente a permanência e estabilidade, as circunstâncias do crime revelam que a dedicação se faz presente.
+Naturalmente, a expressão "não se dedicar a atividades criminosas" não pode incluir o fato apurado nos autos (tráfico de drogas, exclusivamente), uma vez que, se assim fosse, a causa de diminuição jamais seria aplicada. No entanto elementos alheios à mera tipificação do delito, em conjunto, demonstram que ocorreu dedicação às atividades ilícitas e que não se tratou de fato isolado, de primeira viagem.
+Como visto, pelos excertos acima transcritos, as instâncias ordinárias, soberanas na análise do conjunto fático-probatório, concluí ram, a partir da análise de elementos cognitivos produzidos nos autos, que a ré, ora paciente, se dedica a atividades criminosas. Assim, para conclusão diversa, exigir-se-ia o revolvimento de todo o conjunto fático-probatório.
+Ante o exposto, nego provimento ao agravo regimental.
