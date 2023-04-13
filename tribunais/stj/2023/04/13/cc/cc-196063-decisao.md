@@ -1,0 +1,5 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o Juízo de Direito da 1ª Vara Mista de Catolé do Rocha/PB e o Juízo Federal da 1ª Vara da Seção Judiciária do Estado da Paraíba, nos autos de ação de obrigação de fazer cumulada com indenização proposta contra o Instituto Teológico e Pedagógico da Paraíba Ltda. ME - INTEPEPB, a Faculdade de Mantenense dos Vales Gerais - FAMA e a Faculdade Cidade de Guanhães - FACIG, objetivando, entre outros aspectos, o ressarcimento dos valores pagos "referentes à matrícula, taxas e mensalidades, e demais despesas  .. , com os acréscimos da devida correção monetária como forma indenizatória pela demora da entrega de diplomação de conclusão de curso devidamente reconhecido pelo MEC" (e-STJ, fl. 25).
+Diante da existência de controvérsia envolvendo a expedição de diploma de graduação superior, a apreciação do presente conflito de competência foge à competência desta Segunda Seção, a teor do que dispõe o art. 9º, § 1º, III e XIV, do RISTJ.
+Assim sendo, determino a redistribuição do presente conflito de competência a um dos e. Ministros da Primeira Seção deste Tribunal.
+Publique-se.
