@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de agravo interposto por FAZENDA NACIONAL contra decisão que inadmitiu recurso especial (e-STJ, fls. 171-173) proposto para impugnar acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 66):
+Recuperação Judicial Determinação da abstenção do órgão responsável pela gestão globalizada das contas do FGTS de promover a cobrança em duplicidade dos valores devidos Verbas de natureza trabalhista e concursal, sendo a exatidão dos valores devidos e a regularidade dos pagamentos objeto de perquirição no procedimento concursal, observado o procedimento de verificação de créditos Jurisprudência - Ordem judicial apenas voltada para créditos já incluídos no Quadro Geral de Credores, sem prejuízo para o FGTS - Decisão mantida Recurso desprovido.
+Opostos embargos de declaração, o aresto recorrido foi integralizado pelas seguintes ementas:
+Embargos de declaração Vícios inexistentes Pretendido reexame da causa Inadmissibilidade Prequestionamento - Embargos rejeitados.
+(e-STJ, fl. 113)
+Embargos de declaração Vícios inexistentes Pretendido reexame da causa Inadmissibilidade Prequestionamento - Embargos rejeitados.
+(e-STJ, fl. 133)
+Nas razões do recurso especial, a recorrente, com fulcro na alínea a do permissivo constitucional, alegou violação aos arts. 2º, 18, 20, 25 e 26 da Lei 8.036/1990; e 489, § 1º, IV, e 1.022, II, parágrafo único, II, do CPC/2015.
+Apontou omissão e deficiência na fundamentação do acórdão recorrido, afirmando que o Tribunal de origem deixou de se manifestar a respeito de que "o pagamento efetuado diretamente ao empregado não vale como quitação de débitos do empregador e não é oponível à autoridade operadora do Fundo de Garantia do Tempo de Serviço (FGTS)" (e-STJ, fl. 133) e acerca do fato que de os valores referentes aos juros e à correção monetária incidentes sobre o inadimplemento pertencem ao fundo garantidor.
+Apreciada a admissibilidade do recurso excepcional, o Tribunal de origem inadmitiu a insurgência (e-STJ, fls. 171-173).
+Diante de tal fato, foi interposto agravo em recurso especial (e-STJ, fls. 185-202).
+Brevemente relatado, decido.
+De início, é importante ressaltar que o recurso foi interposto contra decisão publicada já na vigência do Novo Código de Processo Civil, sendo, desse modo, aplicável ao caso o Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Nas razões do apelo excepcional, a primeira tese defendida pela recorrente refere-se à existência de omissão e deficiência na fundamentação do acórdão recorrido, passível de justificar afronta aos arts. 489 e 1.022 do CPC/2015.
+Argumentou que o aresto objurgado deixou de apreciar argumentos no sentido de que "o pagamento efetuado diretamente ao empregado não vale como quitação de débitos do empregador e não é oponível à autoridade operadora do Fundo de Garantia do Tempo de Serviço (FGTS)" (e-STJ, fl. 133) e acerca do fato que de os valores referentes aos juros e correção monetária incidentes sobre o inadimplemento pertencem ao fundo garantidor.
+Acerca do tema, é preciso esclarecer que os embargos de declaração possuem fundamentação vinculada, cujo objetivo é sanear a decisão eivada de obscuridade, contradição, omissão ou erro material (art. 1.022 do CPC/2015), não possuindo, desse modo, natureza infringente.
+Todavia, constatado quaisquer dos vícios acima mencionados, é determinante que a correção seja efetuada, a fim de que a prestação jurisdicional requerida do Estado seja efetiva.
+No caso em análise, verifica-se que, apesar de o Tribunal de origem ter sido instado a pronunciar-se sobre as questões acima levantadas, manteve-se inerte.
+Desse modo, conclui-se, portanto, que o acórdão combatido, a despeito da oposição de embargos declaratórios, deixou de sanar efetivamente a omissão apontada, impondo-se, assim, o retorno dos autos para que o órgão competente realize novo julgamento dos aclaratórios, corrigindo o vício indicado.
+A propósito, seguem os seguintes precedentes:
+CIVIL E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO OPOSTOS A ACÓRDÃO PROFERIDO EM APELAÇÃO. OMISSÃO VERIFICADA. RECURSO ESPECIAL PROVIDO. RETORNO DOS AUTOS PARA NOVA ANÁLISE PELO TRIBUNAL DE ORIGEM.
+1. Constatado que o Tribunal de origem, provocado por meio de embargos de declaração, omitiu-se na análise de questões relevantes para o deslinde da causa, deve-se acolher a alegação de ofensa ao art. 1.022, II, do Código de Processo Civil e determinar o retorno dos autos para novo julgamento do recurso integrativo.
+2. Recurso especial provido.
+(REsp n. 2.005.719/RJ, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 14/2/2023, DJe de 2/3/2023.)
+RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. DIREITOS INDIVIDUAIS HOMOGÊNEOS. TARIFA. CARTÃO DE CRÉDITO. PARCERIA BANCO/LOJISTA. INFORMAÇÃO. DEFICIÊNCIA. PRESTAÇÃO JURISDICIONAL. NEGATIVA. OMISSÃO. CONTRADIÇÃO. RECONHECIMENTO. ACÓRDÃO RECORRIDO. ANULAÇÃO. VIOLAÇÃO DO ART. 535 DO CPC/1973. DEVOLUÇÃO. NOVO JULGAMENTO.
+1. Recursos especiais interpostos contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Cinge-se a controvérsia, somados os temas de ambos os recursos interpostos, à verificação da i) negativa de prestação jurisdicional alegada; ii) ilegitimidade passiva da primeira recorrente (MARISA); iii) ilegitimidade ativa do recorrido (IBEDEC); iv) legalidade da tarifa de cartão de crédito cobrada no caso concreto; v) restrição da condenação apenas aos associados ao IBEDEC; vi) limitação da eficácia da sentença à competência territorial; vii) ausência de fundamento legal para a determinação de divulgação da sentença coletiva em jornais de grande circulação, e viii) inadequação da condenação à restituição em dobro na hipótese.
+3. Não tendo sido devidamente apreciadas as questões imprescindíveis à solução da controvérsia, oportunamente ventiladas pela parte recorrente nos embargos de declaração opostos ao acórdão recorrido, deve ser reconhecida a violação do art. 1.022 do CPC/2015.
+4. Reconhecidas as omissões, bem como a contradição, apontadas no acórdão recorrido, impõe-se o retorno dos autos ao Tribunal de origem para saneamento dos vícios.
+5. Recurso especial da MARISA LOJAS S.A. parcialmente conhecido e, nessa extensão, provido. Prejudicada a análise do recurso especial do ITAUCARD S.A.
+(REsp n. 1.623.514/MT, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 6/12/2022, DJe de 19/12/2022.)
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial, a fim de, reconhecida a violação ao art. 1.022 do CPC/2015, determinar ao Tribunal de origem que realize novo julgamento dos embargos de declaração, devendo se pronunciar, como entender de direito, sobre as relevantes questões que lhe foram submetidas pela parte embargante.
+Em virtude do provimento do presente recurso, fica prejudicada, por hora, a análise do agravo em recurso especial de CAIXA ECONÔMICA FEDERAL (e-STJ, fls. 176-180).
+Fiquem as partes cientificadas de que a apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. OMISSÃO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. CONSTATAÇÃO. CORREÇÃO NÃO EFETIVADA. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL DE FAZENDA NACIONAL. PREJUDICADO O AGRAVO EM RECURSO ESPECIAL DE CAIXA ECONÔMICA FEDERAL.
