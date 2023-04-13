@@ -1,0 +1,78 @@
+DECISÃO
+Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, a, da CF, contra acórdão assim ementado:
+"ADMINISTRATIVO. SERVIDOR PÚBLICO. ATO ADMINISTRATIVO. URP/1989. LITISPENDÊNCIA E COISA JULGADA. INOCORRÊNCIA. DECADÊNCIA. PRESCRIÇÃO. PARCELA RECEBIDA POR FORÇA DE ANTECIPAÇÃO DE TUTELA POSTERIORMENTE REVOGADA. BOA-FÉ. TR.
+1. Não há falar em coisa julgada/litispendência nas hipóteses de ação individual e coletiva (CDC, art. 104), eis que são causa petendi distintas.
+Outrossim, à parte é dado o direito de se bene ciar do resultado da ação coletiva, não havendo, entretanto, obrigatoriedade de aguardar o deslinde daquela para poder ingressar em juízo, sob pena de se afrontar o direito constitucional de ação, art. 5º, XXXV. Ademais, a presente ação individual se fundamenta nos fatos ocorridos após o cumprimento das ações coletivas, indicando os eventuais erros administrativos.
+2. Afasta-se a decadência - art. 54, da lei 9.784/99 - , porquanto desde o ajuizamento da ação 2002.72.00.002565-6 a questão está sendo objeto de discussão, não decorrendo o prazo decadencial pretendido.
+Outrossim, a referida transitou em julgado somente em 09/02/2012, marco inicial da contagem de prazo prescricional.
+3. São irrepetíveis os valores (diferenças salariais da URP) recebidos de boa-fé pelo servidor que estava amparado não apenas por decisão judicial proferida em cognição exauriente, mas também por jurisprudência consolidada do STF posteriormente modificada. Precedentes.
+4. Na data de 24/09/2018, o Ministro Luiz Fux proferiu decisão nos autos dos Emb. Decl. no Recurso Extraordinário 870.947, concedendo efeito suspensivo aos embargos de declaração opostos por diversos entes federativos estaduais para suspender a aplicação do Tema 810 do STF até a apreciação pela Corte Suprema do pleito de modulação dos efeitos da orientação estabelecida" (fl. 812e).
+O acórdão em questão foi objeto de Embargos de Declaração por ambas as partes, sendo rejeitados os da parte ré e provido os da parte autora apenas para sanar erro material, sendo mantida a decisão, nos termos da seguinte ementa:
+"EMBARGOS DECLARATÓRIOS. ARTIGO 1.022 DO CPC/2015. OMISSÃO.
+INEXISTÊNCIA. ERRO MATERIAL. PREQUESTIONAMENTO. DESNECESSIDADE.
+1. A decisão embargada enfrentou a questão de forma clara e suficientemente fundamentada, expressando o entendimento desta Turma.
+Ademais, o magistrado somente estará obrigado a rebater os argumentos trazidos pela parte, desde que sejam capazes de infirmar os a conclusão adotada pelo julgador, art. 489, §1º, IV, CPC/2015.
+2. No caso dos autos não se verifica nenhum dos vícios previstos no artigo 1.022 do CPC/2015. Os vícios apontados pelos embargantes, em verdade, pretendem a rediscussão da matéria, o que se afigura incabível em sede de embargos de declaração.
+3. Cabíveis embargos de declaração para sanar erro material.
+4. Quanto ao pedido de pré-questionamento cabe ressaltar que, a teor do artigo 1025 do Novo Código de Processo Civil, é suficiente a mera suscitação da matéria para se obter tal desiderato, com o que rejeito os embargos declaratórios no ponto" (fl. 886e).
+Opostos novos Embargos Declaratórios, foram também rejeitados:
+"PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS. OMISSÃO. INOCORRÊNCIA. PREQUESTIONAMENTO.
+No caso dos autos não se verifica nenhum dos vícios previstos no artigo 1.022 do CPC de 2015 a justificar a interposição de embargos declaratórios(fl. 922e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora recorrente aponta violação aos arts. 1.022, 300, 302, 337, 485, 502 e 503 do CPC, 876, 884, 885, do Código Civil, 53 e 54 da Lei 9.784/99 e 46, § 3º, e 114 da Lei n. 8.112/90.
+Contrarrazões a fls. 980/1.001e.
+O Recurso Especial foi admitido pelo Tribunal de origem (fls. 1.087/1.088e).
+Após a suspensão do feito, em virtude do que decidido pelo STJ em Questões de Ordem suscitadas nos REsps 1.769.306/AL e 1.769.209/AL, os autos foram devolvidos ao órgão julgador para observância do Tema 692/STJ.
+O Tribunal de origem, mediante juízo negativo de retratação, manteve o acórdão recorrido por decisão assim ementada:
+"ADMINISTRATIVO. PROCESSUAL CIVIL. JUÍZO DE RETRATAÇÃO. SERVIDOR PÚBLICO.DEVOLUÇÃO DE VALORES AO ERÁRIO. TEMA N.º 692/STJ. JUÍZO DE RETRATAÇÃO.
+1. Não obstante Superior Tribunal de Justiça tenha decidido pela a obrigatoriedade de devolução dos valores recebidos por força de decisão liminar posteriormente reformada, o tema n.º 692 versa sobre o pagamento de benefício previdenciário no âmbito do Regime Geral de Previdência Social, de modo que não se aplica no caso concreto, o qual trata do pagamento de diferenças salariais em favor de servidor público federal, regido por legislação distinta.
+2. Manutenção do acórdão, em juízo de retratação" (fl. 1.246e)
+Conclusos os autos à Vice-presidência da instância a quo, proferiu-se decisão com o seguinte teor:
+"Remetidos os autos ao STJ, aquela Corte determinou o retorno do processo a este Regional, para que, em razão da afetação de recursos ao regime dos recursos repetitivos, fosse observado o procedimento previsto nos arts. 1.040 e 1.041 do CPC / 543-C, § 7º, do CPC/1973.
+Trata-se de recurso especial interposto com fundamento no art. 105, III, da Constituição Federal, contra acórdão de Órgão Colegiado desta Corte.
+Os autos foram encaminhados para retratação no Tema STJ 692, tendo a Turma ratificado o julgamento, deixando de aplicar o tema em questão.
+No mais, o Superior Tribunal de Justiça, ao apreciar(em) recurso(s) submetido(s) à sistemática dos recursos repetitivos e/ou da repercussão geral, fixou a(s) seguinte(s) tese(s):
+Tema STJ 1009 - Os pagamentos indevidos aos servidores públicos decorrentes de erro administrativo (operacional ou de cálculo), não embasado em interpretação errônea ou equivocada da lei pela Administração, estão sujeitos à devolução, ressalvadas as hipóteses em que o servidor, diante do caso concreto, comprova sua boa-fé objetiva, sobretudo com demonstração de que não lhe era possível constatar o pagamento indevido.
+Quanto ao Tema 1.009, o STJ decidiu, em modulação dos efeitos, que:
+7. Modulação dos efeitos: Os efeitos definidos neste representativo da controvérsia, somente devem atingir os processos que tenham sido distribuídos, na primeira instância, a partir da publicação deste acórdão. (19- 05-2021)
+Em relação à(s) matéria(s), o Órgão julgador desta Corte decidiu a hipótese apresentada nos autos em consonância com o entendimento do(s) referido(s) Tribunal(is).
+Por sua vez, em atenção à sistemática prevista nos arts. 1.030, I, e 1.040, I, do CPC/2015, deve ser negado seguimento a recurso especial interposto contra acórdão que esteja em conformidade com a orientação firmada pelo STJ em regime de recursos repetitivos.
+Verifica-se, entretanto, que o(s) recurso(s) especial(is) abrange(m) outras matérias distintas daquela analisada pelo STJ no Tema acima referido, razão porque ratifico o juízo de admissibilidade anterior.
+Desse modo, cumprida a determinação emanada do STJ, mas não havendo a total perda do objeto, devem os autos retornar àquela Corte, para que, assim entendendo pertinente, possa ela deliberar acerca da apreciação dos demais tópicos constantes do recurso especial.
+Ante o exposto, nego seguimento ao recurso especial quanto ao Tema 1.009 do STJ e determino a remessa dos autos ao Eg. Superior Tribunal de Justiça, nos termos do art. 1.041 do CPC, quanto ao remanescente" (fls. 1.270/1.271e)
+A irresignação não merece conhecimento.
+Na origem, trata-se de demanda ajuizada pela parte ora recorrida, objetivando que a ré se abstenha de descontar valores recebidos pelos autores a título de URP.
+Julgado procedente o feito, foi reformada a sentença, pelo Tribunal local, com o provimento parcial da Apelação da parte ré.
+Daí a interposição do presente Recurso Especial.
+Como relatado, a Vice-presidência do Tribunal de origem negou seguimento ao Recurso Especial na parte em que impugnava a devolução de valores recebidos em razão de erro administrativo, por entender que o acórdão recorrido está em consonância com a tese firmada no Tema 1009/STJ, admitindo-o quanto aos demais pontos suscitados no apelo.
+Em relação ao art. 1.022 do CPC/2015, deve-se ressaltar que o acórdão recorrido não incorreu em qualquer vício, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente.
+Vale ressaltar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, REsp 1.666.265/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 21/03/2018; STJ, REsp 1.667.456/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 18/12/2017; REsp 1.696.273/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 19/12/2017.
+No que se refere às alegações de ofensa aos arts. 302 e 337 do CPC/2015, aos arts. 53 e 54 da Lei 9.784/99 e aos arts. 46, § 3º, e 114 da Lei 8.112/90, aplica-se o teor da Súmula 284 do STF, tendo em vista que a parte recorrente não desenvolveu, nas razões do Recurso Especial, argumentos para demonstrar de que modo tais dispositivos foram violados.
+Na forma da jurisprudência desta Corte, "a admissibilidade do recurso especial exige a clareza na indicação dos dispositivos de lei federal supostamente contrariados, bem como a explanação precisa da medida em que o acórdão recorrido teria afrontado cada um desses artigos, sob pena de incidência da Súmula nº 284 do STF" (STJ, AgInt no REsp 1.628.949/PI, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe de 07/03/2018).
+Ademais, no caso, o Tribunal de origem, reapreciando a matéria em virtude do julgamento do Tema 692/STJ, proferiu decisão que, embora consistente em juízo negativo de retratação, consignou o seguinte:
+"No caso dos autos, embora a Turma tenha decidido pela irrepetibilidade dos valor recebidos de boa-fé pelo servidor, amparado por decisão judicial, o que, em linha de princípio destoaria da jurisprudência do STJ, não há razão para alterar o acórdão proferido por esta Corte.
+Não obstante o Superior Tribunal de Justiça tenha assentado a obrigatoriedade de devolução dos valores recebidos por força de decisão liminar posteriormente reformada, o Tema n.º 692 versa sobre o pagamento de benefício previdenciário no âmbito do Regime Geral de Previdência Social, e o caso concreto envolve o pagamento de remuneração a servidor público federal, regido por legislação distinta.
+Logo, o presente caso não se enquadra no referido Tema, pois não se aplica ao caso, uma vez que não se trata de administração previdenciária, mas, sim, de remuneração de servidor público.
+(..)
+Ademais, conforme bem observado pela Desembargadora Federal Vivian Josete Pantaleão Caminha, em casos análogos ao presente (AC 5008276- 84.2018.4.04.7200, QUARTA TURMA), a rubrica objeto da reposição ao erário foi nominada nos contracheques do(s) servidor(es) pela própria Administração como DECISÃO JUDICIAL TRAN JUG-AT (ativos) ou DECISÃO JUDICIAL TRAN JUG- APO (aposentados), e não DECISÃO JUDICIAL N TRAN JU, circunstância que, certamente, induziu-o(s) a crer de que se tratava de adimplemento em caráter definitivo.
+Portanto, o voto condutor do acórdão submetido à retratação não guarda pertinência com o Tema (692/STJ).
+Inexistindo similitude fática ou de direito entre os temas mencionados e o acórdão ora em reexame, deve ser mantido o julgamento anteriormente proferido por esta Turma, não sendo caso, portanto, de retratação do julgado" (fls. 1.252/1.254e)
+Nesse contexto, considerando a fundamentação do acórdão objeto do Recurso Especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula 7/STJ.
+A propósito:
+"PROCESSUAL CIVIL. OFENSA AOS ARTS. 458 E 535 DO CPC NÃO CONFIGURADA. EMBARGOS À EXECUÇÃO FISCAL. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. PRINCÍPIO DA CAUSALIDADE. REEXAME DE PROVAS. SÚMULA 7/STJ. ALÍNEA "C". NÃO DEMONSTRAÇÃO DA DIVERGÊNCIA E NECESSIDADE DE REEXAME DO ACERVO PROBATÓRIO.
+1. A Corte local manteve a sentença que julgou parcialmente procedente os Embargos para reconhecer o excesso de execução determinando que ela prosseguisse no valor da diferença devida a título de IRPJ, em conformidade com o laudo pericial, e foi categórica ao consignar que não é devida a condenação da União em honorários advocatícios porque a referida cobrança somente ocorreu em razão de a executada ter feito com erro o preenchimento da sua DCTF.
+2. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 535 do CPC.
+3. O STJ não pode reexaminar os fatos e as provas produzidas nos autos, sob pena de infringir a Súmula 7 do STJ.
+(..)
+6. Agravo Interno não provido" (STJ, AgInt no REsp 1.592.074/CE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 25/10/2016).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. REEXAME DA PROVA. SÚMULA 7/STJ.
+1. Os arts. 2º, caput e parágrafo único, VII, e 50 da Lei n. 9.784/99 não foram objeto de análise pelo Tribunal de origem. Desse modo, carece o tema do indispensável prequestionamento viabilizador do recurso especial, razão pela qual não merece ser apreciado, nos termos do que preceituam as Súmulas 282 e 356 do STF.
+2. Na via especial, não cabe a análise de tese recursal que demande a incursão na seara fático-probatória dos autos. Incidência da orientação fixada pela Súmula 7 do STJ.
+3. Agravo interno a que se nega provimento" (STJ, AgInt no AREsp 912.470/SC, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 24/10/2016).
+"ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO BASILAR DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. SÚMULA 83/STJ. APLICABILIDADE AOS RECURSOS ESPECIAIS INTERPOSTOS COM BASE NAS ALÍNEAS A E C DO PERMISSIVO CONSTITUCIONAL. EXECUÇÃO DEFLAGRADA PELO DEVEDOR. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO. NÃO CABIMENTO.
+1. Não se mostra passível de acolhimento os argumentos da parte recorrente que demandam o reexame de matéria fático-probatória, tendo em vista o óbice previsto na Súmula 7/STJ.
+(..)
+5. Agravo regimental a que se nega provimento" (STJ, AgRg no AREsp 803.101/MG, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 19/05/2016).
+Por fim, no tocante ao pedido sucessivo, a parte recorrente deixou de indicar o dispositivo que teria sido violado pelo Tribunal de origem, o que atrai, mais uma vez, o óbice da Súmula 284/STF.
+Ante o exposto, com fundamento no art. 255, § 4º, I e II, do RISTJ, conheço em parte do Recurso Especial e, nessa extensão, nego-lhe provimento.
+Em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015.
+I.
