@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, contra acórdão assim ementado (fl. 35):
+HABEAS CORPUS - Artigo 155, § 4º, incisos I e IV, do Código Penal - Alegação de excesso de prazo para a formação da culpa - Inocorrência - Inexistência de violação do princípio da razoabilidade na duração do processo - Ausência de negligência ou descaso do Juízo na condução do feito - Autos aguardam a apresentação de defesa preliminar pela Defensoria Pública em relação a um dos corréus - Revogação da prisão preventiva ou concessão de liberdade provisória - Alegação de primariedade; de ausência dos requisitos autorizadores da prisão preventiva; e, de que o crime imputado não foi cometido com emprego de violência ou grave ameaça à pessoa - Descabimento - Decisão fundamentada - Presença das condições necessárias à decretação da custódia cautelar - Ausência de mérito para o deferimento do benefício - Crime cometido durante o gozo de liberdade provisória, concedida em processo em que o paciente responde por roubo majorado.
+Ordem denegada.
+O paciente responde a ação penal por furto qualificado, tendo sido decretada a prisão preventiva.
+A defesa afirma que a imputação não condiz com a verdade, e que ele seria viciado em substância psicotrópica. Destaca a primariedade e aduz que o crime não foi cometido mediante violência ou grave ameaça.
+Busca a liberdade provisória, com ou sem fiança, ou outras medidas cautelares.
+Na origem, a audiência de instrução e julgamento está marcada para o dia 24/4/2023, de acordo com o sistema e-SAJ do TJSP (acesso: 11/4/2023 - ação penal n. 1500361-45.2023.8.26.0548).
+Quanto à possibilidade de imposição de fiança, verifica-se que não há manifestação do acórdão impugnado. Assim, é firme o entendimento de que "fica obstada sua análise a priori pelo Superior Tribunal de Justiça, sob pena de dupla e indevida supressão de instância, e violação dos princípios do duplo grau de jurisdição e devido processo legal" (RHC n. 126.604/MT, Relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 16/12/2020).
+No mais, o habeas corpus é procedimento de cognição sumária, exigindo prova documental pré-constituída do direito alegado, sendo ônus do impetrante trazê-la no momento da impetração, máxime quando se tratar de advogado constituído. Contudo, o decreto de prisão preventiva não foi juntado aos autos. Desse modo, a ausência de peça essencial ao deslinde da controvérsia inviabiliza o exame do pleito defensivo. Ness e sentido: PET no HC 584.863/SP, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 17/06/2020.
+Ademais, em exame perfunctório, não se vislumbra ilegalidade flagrante na manutenção da custódia, uma vez que a decisão à fl. 32 menciona que o delito foi praticado no gozo de liberdade provisória.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
