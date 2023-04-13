@@ -1,0 +1,16 @@
+DECISÃO
+WELLINGTON ARAÚJO DE JESUS opõe embargos de declaração à decisão de fls. 676-677, em que indeferi o pedido de extensão formulado em seu favor e, assim, mantive a sua custódia preventiva.
+A defesa aduz que "o requerente WELLINGTON estava absolvido em 1º Grau, sendo condenado apenas em grau de recurso do MPF ao total de 08 (oito) anos e 09 (nove) meses de reclusão, e NÃO 18 (dezoito) anos e 09 (nove) meses de reclusão, ocorrendo erro material em tal decisão" (fl. 698).
+Afirma, ainda, que houve omissão no decisum embargado, porque: "Uma vez que novo julgamento ocorrerá em 2º Grau, aquela decisão proferida e que condenou o paciente na apelação encontra-se sem efeito, retornado ao status anterior, ou seja, a absolvição, tornando sem efeito a pena aplicada de 08 (oito) anos e 09 (nove meses de reclusão)" (fl. 697).
+Observa que o réu "já cumpriu um total de 03 (três) anos e 05 (cinco) meses do processo de origem, comprovando, dessa forma, o excesso de prazo na formação da culpa, pois logo atingirá o cumprimento de 50% (cinquenta por cento) da pena total" (fl. 700).
+Requer, assim, o acolhimento dos embargos, "para extensão do direito ao reconhecimento do excesso de prazo injustificado na custódia cautelar do requerente" (fl. 700).
+O Ministério Público Federal manifestou-se pelo acolhimento dos embargos, " apenas para sanar erro material, sem efeitos infringentes" (fl. 721).
+Decido.
+Consoante o disposto no art. 619 do Código de Processo Penal, a oposição de embargos de declaração enseja, em síntese, o aprimoramento da prestação jurisdicional, por meio da retificação do julgado que se apresenta omisso,
+ambíguo, contraditório ou com erro material.
+No caso, assiste razão ao embargante, devendo ser acolhidos os presentes embargos, inclusive com a atribuição de efeitos modificativos quanto ao resultado do julgado.
+Em primeiro lugar, verifico que o decisum embargado possui erro material, porquanto o recorrente, em segundo grau, foi condenado, na verdade, à pena de 8 anos e 9 meses de reclusão (fl. 290), e não à reprimenda de 18 anos e 9 meses de reclusão, como, equivocadamente, constou da decisão ora recorrida (fl. 677).
+Quanto à almejada soltura do recorrente, também entendo assistir razão à defesa. Isso porque, com a anulação do acórdão proferido nos autos da Apelação Criminal n. 0005832-25.2014.403.6104/SP, o acórdão que condenou o embargante foi tornado sem efeito, devendo, portanto, ser retornado o status anterior, qual seja, a sentença que o absolveu em primeiro grau (fls. 144-146) e, assim, determinou a sua soltura, se por outro motivo não estivesse preso (fl. 152).
+À vista do exposto, acolho os embargos de declaração para, atribuindo-lhe efeitos infringentes, sanar os equívocos apontados e, por conseguinte: a) reconhecer a existência de erro material no decisum embargado e, assim, fazer constar que o recorrente, na verdade, foi condenado, em segundo grau, à pena de 8 anos e 9 meses de reclusão; b) diante da anulação do acórdão proferido nos autos da Apelação Criminal n. 0005832-25.2014.403.6104/SP, determinar a imediata expedição de alvará de soltura em seu favor, se por outro motivo não estiver ou não houver a necessidade de ser preso.
+Comunique-se, com urgência.
+Publique-se e intimem-se.
