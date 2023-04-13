@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto em face de acórdão do TRF 4ª Região cuja ementa é a seguinte:
+TRIBUTÁRIO. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DESENTENÇA. HONORÁRIOS. TUTELA DE EVIDÊNCIA.
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, interposto com base nas alíneas a e c do permissivo constitucional, a recorrente aponta ofensa aos arts. 489 e 1.022, II, do CPC/2015, arguindo ausência de manifestação do órgão julgador acerca das questões suscitadas.
+No mérito, alega violação ao art. 85, § 8º, do CPC/15 e divergência jurisprudencial , sob o argumento de que com a redação do dispositivo legal supracitado, considerando o valor muito baixo atribuído à causa, os honorários advocatícios deverão ser fixados por apreciação equitativa. Este é exatamente o caso dos autos. Os honorários advocatícios, tem inequivocamente caráter alimentar, contudo, nem sempre representam remuneração digna aos advogados" (fl. 310).
+Em suas contrarrazões, a recorrida pugna pelo não conhecimento do recurso ou, alternativamente, pelo seu não provimento.
+O recurso foi inadmitido pela decisão de fl. 575 cujos fundamentos foram impugnados por meio do presente agravo.
+Insurge a parte agravante contra essa decisão, afirmando que, ao contrário do que supõe o juízo de admissibilidade, o recurso especial reúne condições de ser processado.
+É o relatório. Passo a decidir.
+A pretensão não merece acolhimento.
+Observa-se dos autos que a Vice-Presidência do Tribunal de origem inadmitiu o processamento do recurso especial, tendo em vista a não satisfação do preparo, mesmo após a intimação da parte para a sua regularização.
+Vale ressaltar que o recorrente somente apresentou documentação relativa à eventual deferimento da gratuidade de justiça no feito originário quando da interposição do agravo em recurso especial.
+Com efeito, a jurisprudência deste Tribunal firmou-se no sentido de que cabe ao recorrente efetuar o recolhimento do respectivo preparo, sob pena de não conhecimento do recurso, nos termos da Súmula nº 187/STJ: "É deserto o recurso interposto para o Superior Tribunal de Justiça, quando o recorrente não recolhe, na origem, a importância das despesas de remessa e retorno dos autos".
+Importante destacar que "o benefício da gratuidade judiciária não tem efeito retroativo, de modo que a sua concessão posterior à interposição do recurso não tem o condão de isentar a parte do recolhimento do respectivo preparo. Desse modo, nem mesmo eventual deferimento da benesse nesta fase processual, descaracterizaria a deserção do recurso especial" (AgInt no AREsp nº 1.769.760/MS, Rel. Min. NANCY ANDRIGHI, Terceira Turma, DJe de 10/03/2021).
+A corroborar tal entendimento:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. APELAÇÃO VERSANDO EXCLUSIVAMENTE SOBRE HONORÁRIOS. ART. 99, § 5º, DO CPC/2015. ADVOGADO QUE NÃO É BENEFICIÁRIO DA JUSTIÇA GRATUITA. ACÓRDÃO RECORRIDO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83/STJ. AGRAVO INTERNO IMPROVIDO.
+1. O recurso versa exclusivamente sobre a cobrança de honorários advocatícios, que pertencem ao advogado, e os benefícios da justiça gratuita foram deferidos apenas ao seu cliente, de modo que é de rigor a aplicação do art. 99, § 5º do CPC/2015.
+2. O art. 99, § 5º, do CPC/2015 dispõe que "o recurso que verse exclusivamente sobre valor de honorários de sucumbência fixados em favor do advogado de beneficiário estará sujeito a preparo, salvo se o próprio advogado demonstrar que tem direito à gratuidade".
+3. Constatada a inexistência do recolhimento do preparo recursal, caberá ao relator intimar o interessado para que faça seu recolhimento, em dobro, ou demonstre que também faz jus ao benefício.
+4. No caso vertente, o relator da apelação intimou o advogado para recolhimento em dobro do preparo, nos termos da legislação de regência, o que não foi atendido pelo interessado e ensejou o não conhecimento do apelo. Assim, constata-se que o acórdão recorrido está em harmonia com a jurisprudência desta Corte.
+5. Agravo interno improvido. (AgInt no AREsp 1572165/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 08/06/2020, DJe 12/06/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. APELAÇÃO VERSANDO EXCLUSIVAMENTE SOBRE HONORÁRIOS. ART. 99, § 5º, DO CPC/2015. ADVOGADO QUE NÃO É BENEFICIÁRIO DA JUSTIÇA GRATUITA. AGRAVO DESPROVIDO.
+1. Nos termos do art. 99, § 5º, do CPC/2015, o recurso que verse exclusivamente sobre valor de honorários de sucumbência fixados em favor do advogado de beneficiário da justiça gratuita estará sujeito a preparo, salvo se o próprio advogado demonstrar que tem direito à gratuidade. Assim, constatada a inexistência do recolhimento do preparo recursal, caberá ao relator intimar o interessado para que faça seu recolhimento, em dobro, ou demonstre que também faz jus ao benefício.
+2. Agravo interno desprovido. (AgInt no AREsp 1398425/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 18/03/2019, DJe 22/03/2019)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE COBRANÇA. SEGURO OBRIGATÓRIO. DPVAT. PARTE BENEFICIÁRIA DA ASSISTÊNCIA JUDICIÁRIA GRATUITA. PREPARO. EXIGÊNCIA. MAJORAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. ÚNICA TESE DO RECURSO. PREPARO. IMPRESCINDIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+2. Sob a égide do NCPC, será exigido o preparo quando o recurso versar exclusivamente sobre o valor dos honorários sucumbenciais em favor do advogado da parte que litiga sob o pálio da justiça gratuita, ressalvada a hipótese de o próprio causídico comprovar que ostenta as condições necessárias para se beneficiar da assistência judiciária gratuita.
+3. Agravo interno não provido.
+(AgInt no REsp 1.846.825/SP, Rel. Min. MOURA RIBEIRO, TERCEIRA TURMA, julgado em 20/4/2020, DJe 23/4/2020.)
+RECURSO ESPECIAL DO ESTADO DO PARANÁ. ADMINISTRATIVO. FORNECIMENTO DE MEDICAMENTO ONCOLÓGICO. RESPONSABILIDADE SOLIDÁRIA DOS ENTES FEDERATIVOS. IMPRESCINDIBILIDADE DO FÁRMACO DEMONSTRADA. REVISÃO. SÚMULA 7/STJ. RECURSO ESPECIAL DO PARTICULAR. REVISÃO DE HONORÁRIOS SUCUMBENCIAIS. AUSÊNCIA DE REGULARIZAÇÃO DO PREPARO APÓS INTIMAÇÃO NOS TERMOS DO ART. 1.007, §4º, DO CPC/2015. DESERÇÃO.
+ ..  5. O art. 99, § 5º, do CPC/2015 preceitua que na hipótese em que o recurso que verse exclusivamente sobre valor de honorários de sucumbência fixados em favor do advogado de beneficiário de justiça gratuita, o recurso estará sujeito a preparo. In casu, foi proferido despacho determinando a intimação do recorrente, na pessoa de seu advogado, para realizar no prazo de 5 (cinco) dias, o recolhimento em dobro das custas processuais, conforme preceitua o disposto no art. 1.007, § 4º, do
+CPC/2015 (fl. 1.072, e-STJ). Ocorre que os autos voltaram conclusos sem manifestação da parte (fl. 1.075, e-STJ). Dessa forma, o reconhecimento da deserção é medida que se impõe.
+6. Recurso Especial do Estado do Paraná parcialmente conhecido e, nessa parte, não provido e Recurso Especial de Silvio José Ferreira não conhecido.
+(REsp 1.655.741/RS, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 20/6/2017, DJe 30/6/2017.)
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015 c/c o art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. RECURSO VERSANDO EXCLUSIVAMENTE SOBRE HONORÁRIOS. PREPARO. ART. 99, § 5º, DO CPC/2015. AUSÊNCIA DE RECOLHIMENTO DO PREPARO OU COMPROVAÇÃO DA GRATUIDADE DE JUSTIÇA. SÚMULA Nº 187/STJ. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
