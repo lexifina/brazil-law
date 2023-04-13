@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de MARCO ANTÔNIO DE SOUZA NILO contra acórdão do Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente foi preso em flagrante, com posterior conversão em preventiva, decretada pela suposta prática dos crimes previstos no art. 33, caput, da Lei n. 11.343/06.
+Irresignada, a Defesa impetrou habeas corpus perante a Corte Estadual, tendo sido a ordem denegada.
+Neste writ, alega o impetrante ausência dos requisitos para manutenção da medida extrema. Pugna, ao final, pela revogação da prisão preventiva, para que seja expedido contramandado de prisão, a fim de que o paciente possa responder a ação penal em liberdade ou seja a custódia cautelar substituída por medidas cautelares diversas da prisão.
+Defende, ainda, nos termos do art. 580 do CPP, a possibilidade de extensão dos efeitos da liberdade provisória concedida ao corréu Lucas aduzindo que estão na mesma condição fático-jurídica.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+Em consulta na base de dados processuais desta Corte, verifica-se que esta impetração traz pedido já deduzido no habeas corpus como o n. 812.070/SP, combatendo o mesmo acórdão.
+Desse modo, tratando-se de mera reiteração de outro feito já deduzido nesta Corte, é o caso de não conhecimento do pedido.
+A propósito:
+"PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. LESÃO CORPORAL DE NATUREZA GRAVE NO ÂMBITO DOMÉSTICO. ART. 129, § 2º, IV, e § 10, DO CÓDIGO PENAL. REITERAÇÃO DE PEDIDO FORMULADO EM AGRAVO EM RECURSO ESPECIAL. IMPOSSIBILIDADE. AGRAVO DESPROVIDO. 1. "A impetração de habeas corpus com o objeto idêntico ao de outro já julgado, caracteriza indevida reiteração de pedidos, circunstância que impede o conhecimento das alegações suscitadas" (HC 340.037/PR, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 18/4/16). No caso dos autos, conforme destacado na decisão agravada, a matéria posta nos autos, referente à dosimetria da pena imposta ao paciente, já foi apreciada por esta Corte, nos autos do AREsp 870.212/PE, tendo sido negado seguimento ao recurso especial. 2. Inexistindo fato superveniente ou alegação diversa daquela formulada no bojo do AREsp 870.212/PE, correto o indeferimento liminar do presente feito por caracterizar mera reiteração de pedido. Agravo regimental desprovido. " (AgRg no HC 402.383/PE, Rel. Min. JOEL ILAN PARCIONIK, QUINTA TURMA, DJe 15/12/2017).
+Por fim, na falta de identidade fático-processual entre o corréu (sem antecedentes desabonadores) que foi beneficiado pela liberdade provisória na decisão que decretou a prisão preventiva e o ora paciente, não comporta provimento o pedido de extensão, já que há este é reincidente e voltou a praticar delito.
+No mesmo sentido:
+"HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. ASSOCIAÇÃO PARA O NARCOTRÁFICO. QUADRILHA OU BANDO. PRISÃO PREVENTIVA. REVOGAÇÃO EM RELAÇÃO AO PACIENTE. PRETENDIDA EXTENSÃO DA ORDEM AOS CORRÉUS. FALTA DE INDIVIDUALIZAÇÃO DA CONDUTA ILÍCITA DO BENEFICIADO COM A LIBERDADE PROVISÓRIA. PARTICIPAÇÃO DOS REQUERENTES DEVIDAMENTE DESCRITA NA DECISÃO QUE ORDENOU A CONSTRIÇÃO PROCESSUAL. AUSÊNCIA DE SIMILITUDE FÁTICO-PROCESSUAL. INAPLICABILIDADE DO ART. 580 DO CPP. PEDIDOS INDEFERIDOS.
+1. O artigo 580 do CPP permite que, na hipótese de concurso de agentes, a decisão judicial favorável proferida em favor de um acusado se estenda aos demais, desde que as situações fático-processuais sejam idênticas e não esteja a decisão beneficiadora fundada em motivos que sejam de caráter eminentemente pessoal.
+2. Constatada a ausência de identidade fático-processual entre o beneficiado da decisão proferida por esta Quinta Turma nos autos do presente habeas corpus e os ora requerentes, não há como se deferir a pretendida extensão do julgado.
+3. Concedida a liberdade provisória para dois requerentes, resta prejudicada a pretensão formuladas em favor destes.
+4. Pedidos de extensão formulados em favor de LUIS FERNANDO DAS NEVES e BRUNO HENRIQUE RAMOS indeferidos, julgando-se prejudicada a pretensão apresentada em prol dos requerentes TIAGO APARECIDO BENTO e ADRIANO DIAS CAETANO."
+(PExt no HC 185.163/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 3/3/2015, DJe 23/3/2015).
+"PEDIDO DE EXTENSÃO. HABEAS CORPUS. AUSÊNCIA DE SIMILITUDE FÁTICO-PROCESSUAL. NÃO APLICAÇÃO DO ART. 580 DO CPP. PEDIDO INDEFERIDO.
+1. "No caso de concurso de agentes  .. , a decisão do recurso interposto por um dos réus, se fundado em motivos que não sejam de caráter exclusivamente pessoal, aproveitará aos outros" (art. 580 do CPP).
+2. A própria fundamentação do voto que concedeu ordem de habeas corpus ao paciente, com efeitos extensivos a determinado corréu, ressaltou, de forma peculiar e específica, que as condutas por eles praticadas não se amoldam ao crime de associação para o tráfico, pois destacadas do grupo organizado chefiado pelo ora requerente.
+3. Pedido de extensão indeferido."
+(PExt no HC 271.723/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 22/9/2015, DJe 30/9/2015).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
