@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de reclamação, com pedido de liminar, proposta por M C A, neste ato representado por G I C, com fundamento nos arts. 988, IV, do CPC/2015, contra decisão proferida pelo Juízo da 2ª Vara Cível da Comarca de Concórdia/SC, que, nos autos de ação objetivando o fornecimento de tratamento de saúde, ajuizada em desfavor do Estado de Santa Catarina e do Município de Concórdia, determinou a inclusão da União como litisconsórcio passivo necessário, sob pena de extinção do feito sem resolução de mérito.
+O reclamante alega que ao declinar da competência para julgamento da ação, a deliberação judicial descumpriu a decisão liminar proferida pelo STJ no Incidente de Assunção de Competência n. 14 - CC 187.276/RS -, na qual foi determinada a abstenção da prática de quaisquer atos judiciais de declinação de competência nas ações de saúde, devendo o feito tramitar no Juízo estadual.
+Liminar deferida para suspender os efeitos do ato impugnado (fls. 53-55).
+Intimado, o Estado de Santa Catarina apresentou contestação às 61-78
+Informações prestadas pelo juízo reclamado às fls. 116-119.
+Instado, o Ministério Público Federal opinou pela procedência da reclamação (fls. 127-131).
+É o relatório. Decido.
+O Regimento Interno desta Corte dispõe:
+Art. 187. Para preservar a competência do Tribunal, garantir a autoridade de suas decisões e a observância de julgamento proferido em incidente de assunção de competência, caberá reclamação da parte interessada ou do Ministério Público desde que, na primeira hipótese, haja esgotado a instância ordinária. (Redação dada pela Emenda Regimental n. 24, de 2016)
+Parágrafo único. A reclamação, dirigida ao Presidente do Tribunal e instruída com prova documental, será autuada e distribuída ao relator da causa principal, sempre que possível.
+No caso vertente, observa-se que a ação por meio da qual se postula a dispensação de tratamento médico foi proposta contra os entes estadual e municipal.
+Nesse sentido, conforme ponderado na decisão liminar de fls. 53-55, considerando a grande repercussão social e relevante questão de direito da matéria de saúde debatida, notadamente a aplicação das Súmulas n. 150, 224 e 254 do Superior Tribunal de Justiça, foi realizada nesta Corte proposta de instauração de incidente de assunção de competência nos autos do CC n. 187.276/RS, juntamente com os de números 187.533/SC e 188.0002/SC, a fim de definir o juízo competente e, se for o caso, evitar a declinação de competência para a Justiça Federal nas hipóteses em que essa medida não se mostrar cabível - IAC n. 14, de relatoria do Ministro Gurgel de Faria.
+A referida proposta foi acolhida à unanimidade na sessão de julgamento virtual publicada em 13/6/2022, conforme voto do relator, em acórdão assim ementado:
+PROCESSUAL CIVIL. INCIDENTE DE ASSUNÇÃO DE COMPETÊNCIA. DIREITO À SAÚDE. MEDICAMENTO NÃO INCORPORADO AO SUS E REGISTRADO NA ANVISA. CONFLITO NEGATIVO DE COMPETÊNCIA. JUÍZOS FEDERAL E ESTADUAL. PROPOSTA. ACOLHIMENTO.
+1. Trata-se de proposta de incidente de assunção de competência, nos termos do art. 947 do Código de Processo Civil/2015, em conflito negativo de competência instaurado nos autos de ação ordinária que versa sobre o fornecimento de medicação não padronizada pelo Sistema Único de Saúde - SUS.
+2. A instauração do presente incidente visa unicamente decidir o juízo competente para o julgamento de demanda relativa à dispensação de tratamento médico não incluído nas políticas públicas, sendo o conflito de competência o processo adequado para dirimir a questão de direito processual controvertida, sem que haja necessidade de adentrar no mérito da causa (onde suscitado o conflito) - ainda que a discussão se refira a preliminar, como, no caso, a legitimidade ad causam - nem em eventual nulidade da decisão do Juízo Federal, matérias que devem ser analisadas no bojo da ação ordinária.
+3. Delimitação da tese controvertida: Tratando-se de medicamento não incluído nas políticas públicas, mas devidamente registrado na ANVISA, analisar se compete ao autor a faculdade de eleger contra quem pretende demandar, em face da responsabilidade solidária dos entes federados na prestação de saúde, e, em consequência, examinar se é indevida a inclusão da União no polo passivo da demanda, seja por ato de ofício, seja por intimação da parte para emendar a inicial, sem prévia consulta à Justiça Fe deral.
+4. Proposta de julgamento do tema mediante a sistemática do incidente de assunção de competência acolhida.
+(IAC no CC n. 187.276/RS, relator Ministro Gurgel de Faria, Primeira Seção, julgado em 31/5/2022, DJe de 13/6/2022.)
+Na ocasião, foram estabelecidas como necessárias as seguintes medidas:
+ .. .
+c) manutenção do curso das ações que versem sobre a dispensação de tratamento/medicamento não incluído nas políticas públicas, visto que a suspensão dos feitos poderia causar dano de difícil reparação àqueles que necessitam da tutela do direito à saúde;
+d) havendo conflito de competência, fica, nos termos do art. 955 do CPC/2015, designado o Juízo estadual para decidir, em caráter provisório, as medidas urgentes referentes aos processos em comento;
+ .. .
+Na sequência, em atenção ao princípio da segurança jurídica e tendo em vista que, mesmo após a afetação do IAC, os declínios mútuos de competência entre as Justiças Estaduais e Federais persistiram, resultando na instauração e consequente distribuição de conflito ao Superior Tribunal de Justiça, consignou-se em questão de ordem que:
+ ..  até o julgamento definitivo do incidente de assunção de competência (IAC), o Juiz estadual deverá abster-se de praticar qualquer ato judicial de declinação de competência nas ações que versem sobre tema idêntico ao destes autos, de modo que o processo deve prosseguir na jurisdição estadual.
+Nesse panorama, depreende-se que a decisão hostilizada está em dissonância com as determinações formuladas nos autos do IAC - 14/STJ, de relatoria do Ministro Gurgel de Faria.
+Nesse contexto, conforme ponderado pelo Parquet às fls. 127-131:
+A decisão reclamada, proferida em 14.12.2022, ou seja, após o acolhimento do incidente e da decisão proferida na referenciada Questão de Ordem, determinou a intimação do reclamante para incluir a União no polo passivo da demanda, sob pena de extinção do processo, contrariando, assim, o comando expresso dessa e. Corte que proibiu a prática de atos desse jaez, por parte de juízes estaduais, destinados ao declínio de competência em ações cujo objeto seja o fornecimento de medicamento registrado na Anvisa.
+Tais as circunstâncias, a fim de garantir a autoridade do decidido por essa Egrégia Corte Superior de Justiça, é de rigor a cassação do decisum reclamado.
+Ante o exposto, julgo procedente a reclamação para anular a decisão reclamada, determinando, como consequência, que, superada a necessidade de inclusão da União no feito, os autos tenham seu curso regular no respectivo Juízo estadual.
+Comunique-se.
+Publique-se.
