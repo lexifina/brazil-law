@@ -1,0 +1,8 @@
+DECISÃO
+CARLOS ANDRE REIS DE SOUSA alega sofrer constrangimento ilegal diante de decisão de Desembargador do Tribunal de Justiça do Estado do Piauí, que indeferiu o pedido liminar no writ lá impetrado.
+Nesta Corte, a defesa sustenta, em resumo: a) nulidade da prisão em flagrante do réu, ao argumento de que as circunstâncias do caso, evidenciadas pelas declarações dos agentes participaram da diligência, que se "extrapolou aquilo que a jurisprudência convencionou chamar de flagrante esperado" (fl. 12); b) nulidade da decisão que indeferiu a concessão de liberdade provisória, por ausência de fundamentação idônea; c) não preenchimento dos requisitos do art. 312 do Código de Processo Penal; d) suficiência e adequação das cautelares diversas; e) possibilidade de extensão dos efeitos, ao ora paciente, da conclusão exarada na sentença condenatória em relação aos corréus, que foram beneficiados com o direito de recorrer em liberdade.
+Todavia, a análise dos autos permite verificar que o feito não foi instruído com cópia da sentença condenatória, o que inviabiliza o exame de seu teor e da motivação exarada para manter a custódia provisória do réu em tal decisum e assegurar o recurso em liberdade aos coacusados.
+Além disso, a matéria não foi apreciada na decisão proferida pelo Desembargador relator - que, aparentemente, é anterior à proação da sentença, pois se limita a descrever decisão prévia, que negou o pedido de revogação da prisão preventiva. Ademais, a suscitada nulidade da prisão em flagrante não foi abordada nos atos decisórios anexados aos autos.
+Dessa forma, não vejo como dar prosseguimento ao presente feito.
+À vista do exposto, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
