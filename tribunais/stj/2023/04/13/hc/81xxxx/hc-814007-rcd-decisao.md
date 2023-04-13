@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de pedido de reconsideração formulado pela defesa de PAULO EDUARDO BITTENCOURT NORONHA contra decisão monocrática desta Relatoria que indeferiu o pedido liminar contido na presente impetração (e-STJ fls. 174/177).
+Em suas razões (e-STJ fls. 183/192), a defesa insiste no deferimento da liminar contida no writ, determinando o sobrestamento dos autos até o julgamento de mérito deste habeas corpus, tendo em vista a proximidade da data do julgamento do requerente perante o Tribunal do Júri.
+Reitera a tese contida na inicial do mandamus, consistente na ausência do nexo de causalidade entre os atos praticados por PAULO e os crimes contra a vida em apuração. Em suma, entende a defesa que não há provas de que o paciente colidiu no veículo em que estavam as vítimas, tendo chegado ao local do acidente depois do ocorrido, tampouco houve provas acerca de eventual de disputa automobilística, conforme comprovam os depoimentos das testemunhas oculares que instruem a inicial.
+Ao final, requer a reconsideração da decisão que indeferiu a liminar, determinando a suspensão do julgamento popular designado para o próximo dia 19/4/2023, bem como o andamento da ação penal n. 3002384-73.2013. 8.26.0568/SP, até o julgamento de mérito deste habeas corpus.
+É o relatório. Decido.
+De início, destaca-se que: Os pedidos de reconsideração carecem de qualquer respaldo no regramento processual vigente. Eles não constituem recursos, em sentido estrito, nem mesmo meios de impugnação atípicos. Por isso, não suspendem prazos e tampouco impedem a preclusão (STF. Segunda Turma. Rcl 43.007 AgR/DF, Relator Ministro RICARDO LEWANDOWSKI, julgado em 9/2/2021 - Informativo de Jurisprudência n. 1005).
+Na hipótese, em que pesem os argumentos defensivos, não vislumbro, ao menos em juízo de cognição sumária, manifesta ilegalidade apta a justificar o deferimento da medida de urgência.
+Isto se dá porque não foram trazidos argumentos novos capazes de infirmar os fundamentos do decisum impugnado, cuja reconsideração se pretende.
+Ademais, a alegação de ausência do nexo causal, bem como ausência de comprovação da existência do crime, não se apresentam manifestos a ponto de justificar seja obstado o prosseguimento do feito na origem em que, repito, o acórdão confirmatório da pronúncia fora proferido há mais de 7 (sete) anos.
+Soma-se a isso o fato de que, numa análise própria do pedido liminar, o acolhimento da tese defensiva no sentido de que não há provas acerca do nexo causal entre os crimes dolosos contra a vida em apuração e as condutas atribuídas ao paciente implicaria, a princípio, em revolvimento do contexto fático-probatório, o que é sabidamente inviável na presente via.
+Por fim, ressalta-se que o julgamento de mérito deste feito aguarda, apenas, a vinda da manifestação do órgão ministerial, visto que os autos, que haviam sido deslocados ao Parquet para emissão de parecer, tiveram sua tramitação restabelecida para análise desta petição.
+Ante o exposto, indefiro o pedido de reconsideração.
+Encaminhem-se, novamente, os autos ao Ministério Publico Federal para elaboração de parecer, com a maior brevidade possível.
+Intimem-se.
