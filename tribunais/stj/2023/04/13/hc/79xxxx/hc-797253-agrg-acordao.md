@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, não conhecer do agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT) e Laurita Vaz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trago à análise da Turma o agrav o regimental interposto por Jose Vitorio Araujo da Silva contra a decisão, de fls. 189/192, na qual deneguei a ordem no pedido de habeas cor pus, conforme esta ementa:
+HABEAS CORPUS. HOMICÍDIOS CONSUMADO E TENTADO. PRISÃO TEMPORÁRIA. RISCO DE REITERAÇÃO DELITIVA. IMPRESCINDÍVEL PARA AS INVESTIGAÇÕES. FORAGIDO. NECESSIDADE DE ASSEGURAR A APLICAÇÃO DA LEI PENAL. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Ordem denegada.
+No presente recurs o, o agravante reitera os argumentos da petição inicial do habeas corpus, no sentido de não haver provas de autoria delitiva, pois a testemunha narra os fatos sem demonstrar certeza; e rememora as condições pessoais favoráveis, afirmando que nã o trará embaraços às investigações.
+Requer, ao final, o provimento do recurso, com a revogação da prisão temporária.
+Não abri prazo para contrarrazões.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS NÃO CONHECIDO. RAZÕES QUE NÃO INFIRMARAM TODOS OS FUNDAMENTOS DO DECISUM ATACADO. SÚMULA 182/STJ.
+Agravo regimental não conhecido.
+VOTO
+No caso, o agravante não se desincumbiu do ônus de demonstrar o desacerto da decisão a gravada, mediante impugnação clara e específica dos fundamentos do decisum combatido, que foram assim expostos (fls. 189/192):
+Trata-se de habeas corpus impetrado em nome de Jose Vitorio Araujo da Silva, apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo, que denegou a ordem lá impetrada no HC n. 2254597-32.2022.8.26.0000, mantendo a prisão temporária decretada pelo Juízo de Direito da Vara do Júri, Infância e Juventude do Foro e comarca de Taubaté/SP, pela suposta prática dos crimes de homicídio consumado e de tentativa de homicídio.
+Sustenta a defesa, em síntese, constrangimento ilegal consistente em ausência de requisitos autorizadores da prisão temporária e a falta de indícios suficientes de autoria.
+Requer, liminarmente e no mérito, a revogação da constrição cautelar.
+A liminar foi indeferida pelo Vice-Presidente, no exercício da Presidência, Ministro Og Fernandes (fls. 127/128), as informações foram prestadas (fls. 131/181) e o Ministério Público manifestou-se pela denegação da ordem (fls. 185/187).
+Atualmente, o Inquérito n. 1500851-64.2022.8.26.0625 ainda não foi concluído, encontrando-se no Distrito Policial, com dilação de prazo.
+É o relatório.
+De início, urge ressaltar que, na via eleita, não há como se discutir a tese de negativa de autoria, pois demandaria o reexame aprofundado do conjunto fático-probatório que compõe o processo principal.
+De outro lado, melhor sorte não assiste ao paciente quanto ao pleito de revogação da prisão temporária.
+No caso, a custódia cautelar está devidamente fundamentada na garantia da ordem pública, dada a gravidade concreta do crime (modus operandi) e a periculosidade do agente, aferível a partir do risco de reiteração na prática delitiva, pois, conforme consta no decreto de prisão temporária, há desentendimentos pretéritos entre ele e a vítima Jean, incluindo ameaça de morte. Ademais, segundo se apurou, José Vitório, há três meses, teria atentado contra a vida do ofendido Jean por meio de disparo de arma de fogo, sem ter acertado o alvo, todavia (fl. 72); além da necessidade de garantir a aplicação da lei penal, tendo em vista a condição de foragido do acusado, ora paciente.
+Ademais, ao indeferir o pedido de revogação da prisão, o Juízo salientou que, a partir do relatório de investigações, uma das vítimas, antes de ser assassinada, já havia sofrido disparos de arma de fogo efetuados pelo requerente (fl. 30).
+O Tribunal de Justiça local, por sua vez, asseverou que (fls. 123/124 - grifo nosso):
+Demais, embora a Lei nº 12.403/2011 tenha trazido a possibilidade de aplicação de medidas cautelares diversas da prisão, não se pode desconsiderar a gravidade dos delitos e as circunstâncias em que se deram os fatos, não se perdendo de vista, também, que aquelas medidas, "in casu", mostram-se insuficientes e inadequadas. Recomenda-se, assim, a manutenção da prisão cautelar, porque, como já dito, alhures, existindo prova da materialidade do fato e indícios suficientes de autoria, presentes os requisitos do artigo 312, é o quanto basta para a adoção da medida extrema.
+De se observar, ademais, que a prisão temporária não chegou a ser cumprida, embora decretada já algum tempo.
+Ao que parece, o paciente está foragido, a significar que há que se aguardar sua prisão para eventual continuidade das investigações.
+A determinação da custódia cautelar do paciente revela-se, assim, imprescindível não só para a manutenção da ordem pública e no interesse da instrução criminal, como, ainda, para a garantia da eventual aplicação da lei penal.
+Em suma, não há, ao menos, por enquanto, qualquer constrangimento ilegal a ser afastado.
+Destaca-se, ainda, a opinião do Subprocurador-Geral da República Ronaldo Meira de Vasconcellos Albo, para quem, em que pese os argumentos da douta defesa, o decreto prisional encontra-se devidamente fundamentado, não havendo se falar em fundamentação inidônea.  ..  Ademais, consta da decisão de fl. 179 que o ora paciente, passados 3 meses da decretação da prisão, ainda não havia sido preso, demonstrando que pretende se furtar à aplicação da lei penal, sendo necessária a sua prisão (fls. 186/187).
+Como se vê, está justificada a manutenção da custódia cautelar, pois foi demonstrado o preenchimento dos requisitos legais, não sendo recomendável a aplicação de nenhuma medida cautelar referida no art. 319 do Código de Processo Penal, pois as circunstâncias evidenciam que as providências menos gravosas seriam insuficientes para a manutenção da ordem pública.
+Nesse sentido, a jurisprudência do Superior Tribunal de Justiça já sedimentou que a prisão temporária foi adequadamente motivada, pois fundamentada nas hipóteses previstas na legislação, tendo as instâncias ordinárias afirmado a imprescindibilidade da custódia para a escorreita elucidação do delito e encerramento das investigações. Constata-se que há indícios suficientes de que o recorrente seja autor do delito de homicídio doloso (art. 1º, inciso III, alínea a, da Lei n. 7.960/89) e, ainda, que encontra-se foragido (art. 1º, inciso I, da Lei n. 7.960/89), recomendando-se a segregação cautelar, pois imprescindível para o deslinde do inquérito policial (AgRg no RHC n. 166.325/MG, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 13/12/2022).
+Na mesma linha, confira-se o HC n. 574.782/SP, Ministra Laurita Vaz, Sexta Turma, DJe 15/4/2021.
+Pelo exposto, com base na jurisprudência e no parecer, denego a ordem (art. 34, XX, do RISTJ).
+Caberia ao agravante, nas razões do regimental, rebater, um a um, todos esses fundamentos , demonstrando o desacerto quanto às circunstâncias dos crimes - desentendimentos pretéritos entre ele e a vítima Jean, incluindo ameaça de morte - e ao risco de reiteração d elitiva - José Vitório, há três meses, teria atentado contra a vida do ofendido Jean por meio de disparo de arma de fogo, sem ter acertado o alvo, todavia (fl. 72) (fl. 190) -, a embasar o decr eto de prisão preventiva para a garantia da ordem pública, o que não se verifica da leitura da peça.
+É inviável, portanto , o ag ravo regimental o u interno que deixa de atacar os fundamentos da decis ão agrav ada, de aco rdo com os arts. 932, III, e 1.021, § 1º, do Código de Processo Civil - CPC de 2015 e a S úmula 182 do Superior Tribunal de Justiça. Precedentes (AgRg no AREsp n. 936.228/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 25/5/2017).
+Assim, não conheço deste recurso.
