@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por VICENTE LIMA CLETO INCORPORADORA LTDA e CURY CONSTRUTORA E INCORPORADORA S.A., contra decisão que inadmitiu recurso especial em razão da incidência da Súmula n. 7 do STJ.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, foi interposto contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro (Apelação Cível n. 0031045-28.2015.8.19.0087) assim ementado (fl. 767):
+DIREITO DO CONSUMIDOR. INDENIZATÓRIA. ATRASO NA ENTREGA DE UNIDADE IMOBILIÁRIA.
+Ação indenizatória de danos material e moral. Contrato de promessa de compra e venda de unidade imobiliária, para o fim de moradia. Sentença de parcial procedência.
+Relação de consumo. Aplicação da Lei nº. 8.078, de 1990 (Código de Defesa do Consumidor -CDC).
+Irresignação recursal limitada ao pedido de compensação do dano extrapatrimonial.
+Atraso, incontroverso. Divergência relativa ao termo inicial do atraso. Previsão de entrega estipulada no contrato para o dia 30/06/2014. Acréscimo do prazo de tolerância de 180 (cento e oitenta) dias. Inadimplemento que deve ser considerado, pois, a partir de 30/12/2014. Entrega das chaves apenas aos 10/10/2016, aproximadamente dois anos após.
+Dano moral caracterizado. Frustração e transtornos diante das expectativas relacionadas à compra do imóvel próprio e ao planejamento financeiro, que extrapolamos limites do mero dissabor. Precedentes do Superior Tribunal de Justiça e desta Corte Estadual. Verba fixada de modo adequado ao fato e respectivos danos.
+Manutenção da sentença.
+Sucumbência recursal, que impõe a majoração dos honorários advocatícios arbitrados em desfavor da ré, na forma do §11, do artigo 85, do Código de Processo Civil, em vigor.
+Recurso a que se nega provimento.
+Os embargos de declaração opostos foram rejeitados (fls. 802-806).
+Nas razões do recurso especial, a parte recorrente aponta dissídio jurisprudencial e violação dos arts. 884 e 944 do Código Civil, argumentando que o simples descumprimento contratual, que não ultrapassa mero aborrecimento, não gera dano moral.
+Colaciona julgado do Superior Tribunal de Justiça visando demonstrar divergência jurisprudencial acerca da não incidência de compensação por dano moral por atraso na entrega da obra.
+Requer o conhecimento e o provimento do recurso para que seja julgado improcedente o pedido de reparação por dano moral.
+As contrarrazões não foram apresentadas .
+É o relatório. Decido.
+A alegação de violação de normas legais sem a individualização precisa e compreensível do dispositivo legal supostamente ofendido, isto é, sem a específica indicação numérica do artigo de lei, dos parágrafos e incisos e das alíneas, e a citação de passagem de artigos sem a efetiva demonstração da contrariedade de lei federal impedem o conhecimento do recurso especial por deficiência de fundamentação.
+No caso, a parte recorrente apresentou argumentação genérica, não se desincumbindo de demonstrar, de forma clara e específica, violação de legislação federal, especialmente porque deixou de indicar o comando normativo que estaria sendo afrontado, se o caput ou parágrafo único dos arts. 884 e 944 do CC.
+Registre-se que "o recurso especial é reclamo de natureza vinculada e, para o seu cabimento, inclusive quando apontado o dissídio jurisprudencial, é imprescindível que se demonstrem, de forma clara, os dispositivos apontados como malferidos pela decisão recorrida, sob pena de inadmissão" (AgInt no AREsp n. 2.120.664/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 19/9/2022, DJe de 21/9/2022).
+Impõe-se, portanto, a aplicação, por analogia, da Súmula n. 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência de sua fundamentação não permitir a exata compreensão da controvérsia."
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DO MINISTRO PRESIDENTE DESTA CORTE PELO NÃO CONHECIMENTO DO RECURSO ESPECIAL. ALEGAÇÃO GENÉRICA DO DISPOSITIVO SUPOSTAMENTE VIOLADO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. AGRAVO INTERNO DA EMPRESA DESPROVIDO.
+1. Os arts. 36 e 37 do CTN, tidos por contrariados, são normas cuja interpretação também depende dos preceitos estabelecidos nos seus incisos e parágrafos - nenhum apontado como violado.
+2. Com efeito, não basta a indicação genérica do dispositivo supostamente violado sem que se especifique qual o comando normativo está sendo afrontado, se seu caput, incisos ou parágrafos. Efetivamente, há deficiência na fundamentação recursal por negativa genérica de lei federal se os dispositivos tidos por violados encerram vários incisos ou parágrafos e a parte recorrente não especifica qual teria sido vulnerado pelo acórdão recorrido. Incidência da Súmula 284 do STF.
+3. Agravo Interno da Empresa desprovido. (AgInt no AREsp n. 1.504.650/RS, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 25/11/2019, DJe de 29/11/2019.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO PRECISA DOS DISPOSITIVOS DE LEI FEDERAL VIOLADOS. SÚMULA 284 DO STF. MANUTENÇÃO DA DECISÃO DA PRESIDÊNCIA.
+1. A admissibilidade do recurso especial reclama a indicação clara dos dispositivos tidos por violados, bem como a exposição das razões pelas quais o acórdão teria afrontado cada um, não sendo suficiente a mera alegação genérica. O inconformismo apresenta-se deficiente quanto à fundamentação, o que impede a exata compreensão da controvérsia (Súmula 284/STF).
+2. "Impossível o conhecimento do recurso pela alínea "a". Isto porque não há na petição do recurso especial a clara indicação dos dispositivos legais que se entende por violados. A citação de passagem de artigos de lei não é suficiente para caracterizar e demonstrar a contrariedade a lei federal, já que impossível identificar se o foram citados meramente a título argumentativo ou invocados como núcleo do recurso especial interposto" (AgInt no REsp 1.615.830/RS, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 11/6/2018).
+3. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.559.881/SC, relator Ministro Og Fernandes, Segunda Turma, julgado em 18/2/2020, DJe de 27/2/2020.)
+AGRAVO INTERNO NO RECURSO ESPECIAL E NO AGRAVO EM RECURSO ESPECIAL. CIVIL. AÇÃO REVISIONAL DE CONTRATO DE EMPRÉSTIMO PESSOAL. AGRAVO DE INSTRUMENTO. PRAZO PRESCRICIONAL. TERMO INICIAL.
+1. A alegada afronta à lei federal não foi demonstrada com clareza, pois o único dispositivo apontado como violado não tem comando normativo suficiente para amparar a tese recursal, atraindo, por analogia, o óbice da Súmula 284 do STF.
+2. Na forma da jurisprudência pacificada por esta Corte Superior, a cobrança de juros capitalizados em periodicidade anual ou inferior à anual nos contratos de mútuo não é permitida quando não houver expressa pactuação.
+3. AGRAVO INTERNO DESPROVIDO. (AgInt no REsp n. 1.981.159/RS, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 22/6/2022.)
+Confiram-se ainda estes julgados: AgInt no REsp n. 1.409.884/MG, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 8/8/2022, DJe de 12/8/2022; AgInt no AREsp n. 2.013.867/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 5/9/2022, DJe de 9/9/2022; e EDcl no AgInt no REsp n. 1.581.336/PR, relator Ministro Francisco Falcão, Segunda Turma, julgado em 28/3/2022, DJe de 31/3/2022.
+Ressalte-se que, para a interposição de recurso especial fundado na alínea c do permissivo constitucional, é necessário o atendimento dos requisitos essenciais para a comprovação do dissídio pretoriano, conforme prescrições dos arts. 1.029, § 1º, do CPC e 225, § 1º, do RISTJ.
+Isso porque não basta a simples transcrição da ementa dos paradigmas, pois, além de juntar aos autos cópia do inteiro teor dos arestos tido por divergentes ou de mencionar o repositório oficial de jurisprudência em que foram publicados, deve a parte recorrente proceder ao devido confronto analítico, demonstrando a similitude fática entre os julgados, o que não foi atendido no caso.
+Portanto, inviável o conhecimento do recurso quanto à divergência jurisprudencial.
+Ante o exposto, nego provimento ao agravo.
+Nos termo s do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em favor da parte ora recorrida , observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
