@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ALCIDES ALVES DE SOUZA contra decisão indeferitória de provimento urgente proferida por Desembargadora Relatora do Tribunal de Justiça do Estado de São Paulo no HC n. 204592752-52.2023.8.26.0000.
+Consta dos autos que o Paciente foi denunciado como incurso no art. 121, § 2º, incisos I, IV e V, c.c. o art. 29, do Código Penal. A denúncia foi recebida na data de 29/10/1996, tendo o processo sido desmembrado em relação a ele, após a sentença de pronúncia, estando a condenação de dois corréus transitada em julgado. O Paciente aguarda em liberdade a sessão de julgamento designada para o dia 09/05/2023, após desprovidos os recursos especial e extraordinário defensivos.
+Alegando nulidades processuais, a Defesa impetrou habeas corpus no Tribunal de origem, porém o pedido liminar foi indeferido, no dia 03/01/2023 (fls. 49-51).
+Defende o Impetrante, em suma, que (fl. 3):
+"1. Condenação de inocente - erro judicial. Condenação lastreada em prova nula.
+2. Denúncia absolutamente sem aptidão acusatória (inépcia). Violação ao art. 5º, LVII, da Constituição da República. Fatos contrários às provas produzidas sob o crivo do contraditório na fase processual (acervo probandi pleno em favor do Paciente). Condenação com base em prova meramente indiciária. Violação ao art. 155, do CPP.
+3. Exordial acusatória lastreada em ilações e conjecturas e alegorias. Inexistência de qualquer liame entre os corréus.
+4. Jurisprudência do egrégio Supremo Tribunal Federal pacífica no sentido ora impetrado em favor do Paciente.
+5. Possibilidade de impetração de ordem habeas corpus na atual fase pós-processual em substituição (entendimento do Pretório Excelso).
+6. Necessária apreciação liminar diante da violação constitucional indicada no mandamus.
+7. Impetração utilizada como sucedâneo de recurso. Possibilidade em hipóteses excepcionais quando líquidos e incontroversos os fatos apresentados ao Estado- Juiz (HC 139.741 -STF - Min. DIAS TOFFOLI).
+8. FATOS NOVOS. Documentos públicos demonstrando que a narrativa fática não se coaduna com o que foi ofertado em denúncia.
+9. Pedido liminar para suspensão da marcha processual e solenidade de julgamento do Tribunal do Júri até decisão final do writ."
+Aduz, precipuamente, constrangimento ilegal "consubstanciado na tortura sofrida durante a fase do inquérito policial, resultando em declarações de falsa confissão de delito contra a vida, que não foram confirmadas na fase processual - crivo do contraditório e da plena defesa -, para a concessão da liminar guerreada em favor deste" (fl. 4).
+Prossegue, em extensa petição, afirmando que o procedimento do Tribunal do Júri viola o princípio da presunção da inocência, no caso, porque não há justa causa para ação penal fundada em provas obtidas ilegalmente, gerando denúncia dissociada da realidade fática, o que pode ser aferido sem reexame de provas.
+Busca, assim, (fl. 32):
+"a) diante da manifesta ilegalidade trazida a lume, a declaração de nulidade processual;
+b) suspender a marcha processual, ora em fase recursal, em desfavor do Paciente, até ulterior decisão de mérito neste writ;
+c) no mérito, julgar procedente as nulidades aqui identificadas, ante a inexistência no caderno processual do devido, necessário e exigido respaldo para a conformidade do decreto de condenação do Paciente sem justificativa precedente, acolhendo a ordem de habeas corpus em favor do paciente ALCIDES ALVES DE SOUZA (violação do devido processo penal);
+d) subsidiariamente, requer o reconhecimento, via remédio heroico, da necessidade de libertar o Paciente até o julgamento final do presente writ ;
+e) seja garantido o legal e regular processamento da referida ordem de habeas corpus, respeitando-se: (i) a lógica interna do processo e a inteireza das razões aqui apresentada; (ii) a ordem cronológica dos eventos investigativos; e, ainda, (iii) as garantias constitucionais intrínsecas ao processo penal, diante da falta de respaldo expresso e fundamentado na jurisprudência de escol (eg. STF) amealhada as razões."
+É o relatório. Decido.
+Conforme posicionamento firmado pelo Supremo Tribunal Federal e por esta Corte, não se admite habeas corpus contra decisão negativa de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância.
+É o que está sedimentado na Súmula n. 691/STF ("não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar"), aplicável, mutatis mutandis, ao Superior Tribunal de Justiça (HC 541.515/MG, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 04/02/2020, DJe 17/02/2020; AgRg no HC 558.161/PR, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 05/03/2020, DJe 10/03/2020; HC 543.255/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 03/03/2020, DJe 12/03/2020; AgRg no HC 506.812/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 01/07/2019, v.g.).
+Assim, ordinariamente, não pode ocorrer a superação de tal óbice processual, salvo nas hipóteses em que se evidenciar situação absolutamente teratológica e desprovida de qualquer razoabilidade (por forçar o pronunciamento adiantado da Instância Superior e suprimir a jurisdição da Inferior, em subversão à regular ordem de competências).
+Na espécie, todavia, não é possível ultrapassar tal vedação, sobretudo porque, consignou a decisão impugnada que "através da leitura da petição inicial e da documentação acostada, não vislumbro, ao primeiro exame, o fumus boni juris ensejador do provimento liminar almejado" (fl. 51), o que não destoa da jurisprudência desta Corte Superior.
+De fato, além das alegações do Impetrante demandarem acurado exame de matéria fática, inviável em sede de análise liminar, o Paciente responde a ação penal em liberdade, sem qualquer indicativo de que será preso ou submetido a julgamento pelo Conselho de Sentença antes de apreciada a impetração originária.
+Assim, por não se observar, ao menos primo ictu oculi, nenhuma teratologia, não há como superar o óbice processual previsto na Súmula n. 691 do Supremo Tribunal Federal, cuja essência vem sendo reiteradamente ratificada por julgados do Pretório Excelso e deste Superior Tribunal de Justiça.
+Ante o exposto, com fundamento nos arts. 34, inciso XX, e 210 do Regimento Interno do Superior Tribunal de Justiça, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. IMPETRAÇÃO CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR EM OUTRO WRIT NA ORIGEM AINDA NÃO JULGADO. IMPOSSIBILIDADE DE SUPERAÇÃO DA SÚMULA N. 691 DA SUPREMA CORTE. AUSÊNCIA DE TERATOLOGIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA.
