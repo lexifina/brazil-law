@@ -1,0 +1,5 @@
+DECISÃO
+Trata-se de agravo interno interposto por SULBRASIL INCORPORAÇÃO LTDA., EM RECUPERAÇÃO JUDICIAL, contra decisão monocrática proferida pela P residência do STJ (fls. 1.070/1.072), que não conheceu do agravo ante o óbice da Súmula 182/STJ.
+Da análise das razões recursais e do acórdão recorrido, noto que a relação jurídica litigiosa, AÇÃO DE RESCISÃO CONTRATUAL C/C PEDIDO DE RESTITUIÇÃO DE VALORES E INDENIZAÇÃO POR DANOS MORAIS COM PEDIDO DE TUTELA DE URGÊNCIA , é regida pelas normas do direito privado, estando inserida entre aquelas de competência da Segunda Seção desta Corte Superior, nos termos do art. 9º, caput e § 2º, II e XIV, do Regimento Interno do Superior Tribunal de Justiça, sendo esse o critério que define a distribuição interna de competência no âmbito deste Tribunal.
+Diante do exposto, declino da competência para a apreciação do recurso e determino a devolução dos autos à Secretaria Judiciária para redistribuição do feito a uma das turmas que compõem a Segunda Seção.
+Publique-se. Intimações necessárias.
