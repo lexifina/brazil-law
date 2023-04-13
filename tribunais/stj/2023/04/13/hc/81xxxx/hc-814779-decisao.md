@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido, liminar, impetrado em favor de DANILLO ABRAS, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - Desaforamento n 2048903-32.2023.8.26.0000.
+Extrai-se dos autos que o paciente foi pronunciado pela suposta prática dos delitos tipificados no artigo 121, parágrafo 2º, incisos I, III e IV, por duas vezes, c. c o artigo 121, parágrafo 2º., incisos I, III e IV, c. c artigo 14, inciso II, combinado com artigo 29, caput, na forma do artigo 69, caput, todos do Código Penal,
+A defesa impetrou apresentou pedido de desaforamento de julgamento perante o Tribunal de origem, tendo o Desembargador Relator indeferido o pleito liminar, consoante decisão de fls.12-14 (e-STJ).
+Neste writ, a defesa alega, em suma, que não há como asseguara a imparcialidade dos jurados da cidade de Cerquilho, tendo em vista que o fato causou grande comoção social, pois a cidade é muito pequena e o crime foi gravíssimo.
+Aduz que a família de uma das vítimas atua no ramo de usina de cana de acúcar e vários familiares foram políticos de influência. Pondera, inclusive, que o atual Prefeito da cidade é parente de primeiro grau da vítima, o que já seria suficiente a indicar o desaforamento.
+Requer a concessão da ordem, liminarmente, para que seja suspenso o plenário do júri designado para 24/4/2023 e, no mérito, o desaforamento do julgamento para outra cidade.
+É o relatório.
+Decido.
+Esta Corte possui entendimento pacificado no sentido de que não cabe habeas corpus contra decisão que indefere pedido liminar, ressalvado nos casos de flagrante ilegalidade ou teratologia da decisão impugnada, sob pena de indevida supressão de instância (Súmula 691/STF). (AgRg no HC 285.647/CE, Rel. Ministro Jorge Mussi, Quinta Turma, DJe 25/08/2014; HC 284.999/SP Rel. Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 09/10/2014).
+O enunciado aplica-se também à hipótese, por analogia, uma vez que se trata de pleito liminar indeferido por Desembargador Relator em pedido de desaforamento de julgamento. Nesse sentido, confira-se a decisão proferida no HC 360674, Rel. Min. MARIA THEREZA DE ASSIS MOURA, DATA DA PUBLICAÇÃO 15/06/2016).
+No caso dos autos, não se verifica a ocorrência de flagrante ilegalidade na decisão impugnada, de modo a justificar o processamento da presente ordem, na medida em que se encontra assim motivada:
+"A medida liminar em desaforamento do julgamentoé excepcional, sendo que a análise do pedido revela-se inadequada à esferada cognição sumária, haja vista confundir-se com o mérito, devendo serreservado à Colenda Turma Julgadora a solução da questão em toda a suaextensão, sendo que, não foi demonstrado regularmente, de pronto, ofumus boni iuris eo periculum in mora, necessáriosparaconcessãoda liminar.
+Nessa medida, INDEFIRO a liminar requerida.
+Vale destacar, que o Corréu GILMAR RAMOS DA SILVApleiteou o Desaforamento do Julgamento, registrado sob nº 2141191-33.2022.8.26.0000, no qual proferi o Voto nº 47550, indeferindo o pedido ormulado, sendo acolhido por unanimidade pela Terceira Câmara de Direito Criminal, em sessão permanente e virtual no dia 29.07.2022.
+Processe-se o pedido de desaforamento, com manifestação doJuiz Presidente do Tribunal do Júri da Comarca de Cerquilho, nos termosdo art. 427, § 3º, do Código de Processo Penal, ouvindo-se em seguida, a d. Procuradoria Geral de Justiça" (e-STJ, fls. 13-14).
+Assim, de acordo com a pacífica jurisprudência desta Corte Superior de Justiça, a fim de evitar indevida supressão de instância, deve-se aguardar o julgamento de mérito da impetração pela Corte de origem, na medida em que não se constata teratologia na decisão que indeferiu a liminar.
+Ante o exposto, indefiro liminarmente o habeas corpus, nos termos do art. 210 do RISTJ.
+Publique-se.Intime-se.
