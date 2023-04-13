@@ -1,0 +1,13 @@
+DECISÃO
+SANDRO DA SILVA PEREIRA alega sofrer coação ilegal em virtude de decisão proferida pelo Tribunal de Justiça do Estado do Ceará no Habeas Corpus n. 641344-98.2022.8.06.0000.
+A defesa requer, em síntese, a revogação da preventiva decretada em desfavor do paciente pela suposta prática do crime descrito no art. 155, § 4º, I e IV, do Código Penal.
+Decido.
+A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP).
+Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+Apoiado nessa premissa, verifico que se mostram suficientes as razões invocadas na instância ordinária para embasar a ordem de prisão do ora paciente, porquanto contextualizou, em dados dos autos, a necessidade cautelar de segregação do réu.
+Na espécie, ao ser decretada a preventiva, destacou o Magistrado de primeiro grau, além da própria dinâmica do delito (furto com arrombamento de dois apartamentos), o seguinte: "há contra os réus várias ações penais no Estado, por crimes como furto qualificado, porte ilegal de arma e homicídio qualificado. Demonstram, portanto, inclinação às práticas delitivas" (fl. 40).
+Como asseri por ocasião do julgamento do Recurso em Habeas Corpus n. 173.553/CE, impetrado pelo corréu, "não há como deixar de considerar, no caso, não só o modus operandi com que praticados os delitos, mas também (e sobretudo), a existência de diversas ações penais em andamento por suposta prática de crimes graves, os quais indicam, ao menos em um juízo de cautelaridade, a periculosidade do insurgente".
+Na linha da orientação que tem sido adotada por esta Corte, justifica a custódia cautelar, a fim de evitar a reiteração delitiva e, por isso mesmo, afasta a possibilidade de imposição de cautelares alternativas, as quais se mostram insuficientes para resguardar a ordem pública.
+Nesse sentido é firme a jurisprudência deste Superior Tribunal, de que "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (RHC n. 108.629/MG, Rel. Ministro Antonio Saldanha Palheiro, DJe 11/6/2019).
+Diante do exposto, nego provimento ao recurso em habeas corpus, in limine.
+Publique-se e intimem-se.
