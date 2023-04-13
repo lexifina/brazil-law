@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se  de  habeas  corpus  com  pedido de  liminar  impetrado  em  favor  de RENAN GABRIEL RODRIGUES DE LA MAJOR ,  em que se aponta  como  autoridade  coatora  o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO  (HC 2072516-81.2023.8.26.0000).
+O paciente está preso preventivamente por suposta prática do crime de tráfico de drogas.
+A impetrante sustenta: a) existência de flagrante ilegalidade, apta a afastar o óbice previsto na Súmula 691/STF; b) ausência de fundamentação suficiente para justificar a segregação cautelar imposta, pois estaria embasada em motivos genéricos; e c) "o réu, mesmo condenado, poderá fazer jus a um regime inicial menos gravoso (aberto), haja vista ser o paciente primário e de bons antecedentes" (e-STJ fl. 8).
+Requer, liminar e definitivamente, deferimento da ordem para que seja revogada a prisão preventiva do paciente.
+É  o  relatório.
+A jurisprudência deste Superior Tribunal de Justiça firmou-se em que, "ausente teratologia ou evidente ilegalidade na decisão impugnada capaz de justificar o processamento da presente ordem, pela mitigação da Súmula 691 do STF, deve-se resguardar a competência do Tribunal Estadual para análise do tema e evitar a indevida supressão de instância" (AgRg no HC 740.7 03/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/8/2022, DJe de 10/8/2022).
+Verifica-se que não está caracterizada manifesta ilegalidade suficiente para superar o óbice do referido enunciado sumular.
+A autoridade impetrada consignou (e-STJ fls. 54-55):
+Ressalte-se que a decisão atacada demonstrou claramente os motivos para a manutenção da custódia cautelar (páginas 40/42). Segundo consta da denúncia (páginas 12/13), o ora paciente RENAN trazia consigo, sem autorização legal ou regulamentar, para fins de tráfico, 48,54 gramas de cocaína (distribuídos em 21 micro tubos plásticos), substância entorpecente capaz de causar dependências física e/ou psíquica. Ainda de acordo com a peça acusatória, o ora paciente é pessoa já conhecida nos meios policiais pela prática de tráfico, tendo ainda confessado aos policiais que estava traficando entorpecentes em razão de estar desempregado. Ressalte-se que a cocaína é droga de alto poder viciante e vulnerante e que o paciente trazia consigo quase 50g de entorpecente, quantia que, considerando a natureza da droga, é relevante e indica vínculo com o tráfico habitual, notadamente ante a ausência de comprovação de atividade lícita pelo paciente. Essas circunstâncias justificam a prisão e não autorizam a aplicação de medida cautelar substitutiva, ao menos nesta fase.
+Frise-se, ademais, que o ora paciente, que possui apenas 19 anos de idade, embora seja tecnicamente primário, ostenta diversas passagens recentes por atos infracionais (página 17), indicando estreito vínculo com a criminalidade.
+Nego, pois, a liminar.
+Não se constata vício na n egativa do pleito liminar, sendo certo que o revolvimento das questões aventadas acarretaria supressão de instância, pois serão alvo de exame na Corte de origem quando do julgamento final.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno deste Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
