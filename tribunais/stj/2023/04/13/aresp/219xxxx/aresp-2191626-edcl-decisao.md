@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de Embargos de Declaração, opostos pelo ESTADO DE MATO GROSSO DO SUL, contra decisão de minha lavra, publicada em 15/02/2023, que conheceu do Agravo para dar provimento ao Recurso Especial interposto pela parte ora embargada.
+Inconformada, sustenta a parte embargante que:
+"Melhor explicitando, não existe em vigor qualquer objeção para que os juízos estaduais declinem de sua competência em favor da pertinente Seção Judiciária Federal, considerados os limites estabelecidos pelo STF no tema 1234 de sua repercussão geral.
+Entretanto, com o máximo respeito, o provimento combatido nãodedicounenhumalinhaaoenfrentamentodestapeculiaridade,oqueconstitui omissão a ser sanada pela via dos embargos de declaração, nos termos doart.1022,II,doCPC. Nesse sentido, confira-se:
+(..)
+Com efeito, no intuito de esclarecer a omissão suscitada nestes declaratórios, o recorrente requer seja expressamente analisado o caso à luz do Tema 1234 da repercussão geral do STF.
+Data venia, ante a necessidade de integração das lacunas acima assinaladas e a atribuição dos consequentes efeitos infringentes.." (fls. 647/648e).
+Por fim, requer o acolhimento dos Embargos Declaratórios, destacando, ainda, que inexiste impedimento para que seja suspenso o presente feito até que seja definida o Tema 1234 da Repercussão Geral.
+Nas razões de impugnação, a parte embargada pugna pelo não conhecimento dos Embargos Declaratórios (fls. 658/662e).
+A irresignação não merece acolhida.
+Nos termos do art. 1.022 do CPC vigente, os Embargos de Declaração são cabíveis para "esclarecer obscuridade ou eliminar contradição", "suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento" e "corrigir erro material".
+Infere-se, portanto, que, não obstante a orientação acerca da natureza recursal dos Declaratórios, singularmente, não se prestam ao rejulgamento da lide, mediante o reexame de matéria já decidida, mas apenas à elucidação ou ao aperfeiçoamento do decisum, em casos, justamente, nos quais eivado de obscuridade, contradição, omissão ou erro material. Não têm, pois, de regra, caráter substitutivo ou modificativo, mas aclaratório ou integrativo.
+Quanto ao cerne do inconformismo recursal, ao contrário do que pretende fazer crer a parte embargante, a decisão está, de fato, suficientemente fundamentada, no sentido que: a) inexiste violação ao art. 1.022 do CPC/2015, eis que o acórdão recorrido não incorreu em qualquer vício, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente; b) "a orientação jurisprudencial desta Corte é no sentido de que, em se tratando de fornecimento gratuito de medicamentos, o litisconsórcio entre os entes federativos é facultativo, estando a União obrigada a figurar no polo passivo da demanda somente naquelas hipóteses em que não há registro na ANVISA da medicação pleiteada, o que não é o caso dos autos".
+Ainda, o fato de não haver impedimento quanto à suspensão do presente feito até a definição do Tema 1234 da Sistemática de Repercussão Geral não enseja a obrigatoriedade de que seja esta a opção do julgador. Isso, em especial, em demanda que envolve questões atinentes ao direito à saúde.
+Por fim, vale ressaltar que, à luz do CPC vigente, os Embargos de Declaração não constituem veículo próprio para o exame das razões atinentes ao inconformismo da parte, tampouco meio de revisão, rediscussão e reforma de matéria já decidida.
+Nesse sentido:
+"ADMINISTRATIVO. PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CPC/2015. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE. FUNDAMENTAÇÃO DEFICIENTE DO AGRAVO INTERNO. INAPLICABILIDADE DO ART. 932, PARÁGRAFO ÚNICO, DO CPC.
+1. De acordo com o previsto no artigo 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão do acórdão atacado, ou para corrigir-lhe erro material. Não se verifica, no caso concreto, a existência de quaisquer das deficiências em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+2. Com efeito, decidiu-se que o agravo interno não tinha condições de conhecimento, porquanto a parte agravante deixou de refutar todos os fundamentos da decisão agravada, o que fez atrair o óbice da Súmula 182/STJ.
+3. Não podem ser acolhidos embargos declaratórios que, a pretexto dos alegados vícios do acórdão embargado, traduzem, na verdade, seu inconformismo com a decisão tomada, pretendendo rediscutir o que já foi decidido.
+4. Em razão de sua natureza substancial, a falta de impugnação integral dos fundamentos da decisão recorrida não admite posterior saneamento, a ela não se aplicando o disposto no parágrafo único do artigo 932 do CPC.
+5. Embargos de declaração rejeitados" (STJ, EDcl no AgInt no AREsp 1.544.182/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 02/04/2020)
+Ante o exposto, à míngua de vícios, rejeito os Embargos Declaratórios.
+I.
