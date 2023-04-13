@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por Robson Rangel contra o acórdão proferido pelo Tribunal de Justiça de Goiás que denegou a ordem no writ originariamente impetrado, pelos fundamentos sintetizados na seguinte ementa (fl. 292):
+HABEAS CORPUS. SAÍDA TEMPORÁRIA. SITUAÇÃO PANDÊMICA. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. Não padece de ilegalidade a decisão que determina a suspensão de saídas temporárias de presos, com o intuito de prevenir a proliferação do contágio pela pandemia da COVID-19. Isso porque a decisão tem em conta a supremacia do interesse público e atende a recomendações oriundas tanto do Poder Executivo quanto do Conselho Nacional de Justiça (Resolução n. 62/2020).
+ORDEM CONHECIDA E DENEGADA.
+Sustenta-se, em suma, que o apenado se encontra em cumprimento de pena desde 20/9/2002 e, portanto, vedar o benefício da saída temporária com fundamento no § 2º do art. 122 da Lei de Execução Penal, inserido pela Lei n. 13.964/2019, fere o princípio da irretroatividade da lei penal mais gravosa.
+Pleiteia-se, assim, o provimento do recurso, a fim de que seja concedido ao réu o direito à saída provisória.
+Apresentadas contrarrazões (fls. 343/344), os autos ascenderam a esta Corte Superior.
+O Ministério Público Federal manifestou-se pelo não provimento do recurso (fls. 350/354).
+É o relatório.
+Consta dos autos que o recorrente cumpre pena de 46 anos e 1 mês de reclusão, pela prática dos crimes de latrocínio, ocultação de cadáver e associação para o tráfico de entorpecentes.
+Busca, em suma, seja concedido o benefício da saída temporária, indeferido pelo Juízo da 2ª Vara de Execução Penal da comarca de Goiânia/GO em 20/11/2020, à época em que o réu se encontrava em regime semiaberto.
+Contudo, do atento exame dos autos entendo que o pleito se encontra prejudicado.
+Com efeito, ao prestar informações à Corte a quo, o Magistrado de primeiro grau, em 5/2/2021, noticiou que o recorrente se encontra em cumprimento de prisão domiciliar, com monitoração eletrônica, não tendo renovado o pedido de concessão de saída temporária (fls. 122/123). Ademais, informações mais recentes, datadas de 23/3/2022, noticiam que foram praticadas volumosas quantidades de violações ao monitoramento eletrônico pelo sentenciado, o total de 125 violações de área de inclusão entre setembro de 2021 e dezembro de 2021 (fl. 275), aguardando a Magistrada a manifestação da defesa e do Ministério Público Federal para decidir a respeito da regressão de regime.
+Sendo assim, diante da substancial alteração fático-processual, o recurso perdeu seu objeto.
+De mais a mais, o Tribunal a quo, tal qual pleiteado pelo recorrente, reconheceu que o art. 122, § 2º, da Lei n. 7.210/1984, não pode ser aplicado ao apenado, ora recorrente, na medida em que já iniciado o cumprimento da sua pena quando da edição da Lei n. 13.964/2019. Sendo assim, ausente o interesse recursal no ponto.
+De outro lado, afirmou que não havia constrangimento ilegal a ser sanado, na medida em que a Magistrada singular, ao indeferir o pedido, ponderou, ainda, o momento crítico da pandemia da Covid-19, o que justifica a suspensão das saídas temporárias, com o intuito de prevenir a proliferação do vírus (fl. 297), fundamento esse que, além de se encontrar em sintonia com a jurisprudência desta Corte Superior, restou inatacado nas razões recursais, sendo suficiente, por si só, para manter o decisum vergastado.
+Por oportuno, confira-se:
+HABEAS CORPUS. DECISÃO DO CORREGEDOR DO TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO. COMPETÊNCIA DO STJ. SUSPENSÃO DE SAÍDA TEMPORÁRIA A QUE FARIAM JUS EXECUTADOS QUE CUMPREM PENA EM REGIME SEMIABERTO, EM VIRTUDE DA PANDEMIA. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. ORDEM DENEGADA.
+1. É desta Corte Superior a competência para a apreciação da decisão do Corregedor Geral de Justiça do Estado de São Paulo que determinou a suspensão das saídas temporárias a que fariam jus os presos em regime semiaberto, no mês de março/2020, em virtude do risco de contaminação da população carcerária pelo coronavírus, postergando o gozo do benefício para momento posterior à cessação da pandemia.
+2. Não padece de ilegalidade a decisão que determina a suspensão de saídas temporárias de presos, com o intuito de prevenir a proliferação do contágio pela pandemia da Covid-19. Isso porque a decisão tem em conta a supremacia do interesse público e atende a recomendações oriundas tanto do Poder Executivo quanto do Conselho Nacional de Justiça (Resolução n. 62/2020). Além disso, não configura supressão do direito previsto no art. 122 da Lei n. 7.210/84, pois foi assegurado o seu gozo em momento oportuno.
+3. Há que se levar em conta que a vedação do ingresso de pessoas nas Unidades Prisionais devido à pandemia visa a proteger, de modo eficiente, a integridade física dos apenados. Assim sendo, seria incongruente permitir que alguns dos executados deixassem o presídio para visitar suas famílias e a ele retornassem, pois a permissão aumentaria o risco de contágio de todos os reclusos.
+4. Ordem denegada.
+(HC n. 571.014/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 18/6/2020 - grifo nosso)
+Ante o exposto, não conheço do recurso em habeas corpus.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. EXECUÇÃO PENAL. REGIME SEMIABERTO. SAÍDA TEMPORÁRIA. SUPERVENIENTE ALTERAÇÃO FÁTICO-PROCESSUAL. RÉU PROGREDIDO À PRISÃO DOMICILIAR COM MONITORAMENTO ELETRÔNICO. PERDA DE OBJETO. INDEFERIMENTO DO PLEITO COM FUNDAMENTO NA PREVENÇÃO À PROLIFERAÇÃO DA PANDEMIA DA COVID-19. ENTENDIMENTO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR.
+Recurso não conhecido.
