@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto por NILFA SIAAÃO DE OLIVEIRA e outros (NILFA e outros), com fundamento no art. 105, III, alíneas a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça de São Paulo (TJSP), relator CARLOS GOLDMAN, assim ementado:
+AÇÃO INDENIZATÓRIA. SEGURO AGRAVO HABITACIONAL. PROCEDÊNCIA. RETIDO VISANDO À EXPEDIÇÃO DE OFICIO À CDHU. PEDIDO ADIANTE DEFERIDO. RECURSO NÃO CONHECIDO.
+AÇÃO INDENIZATÔRIA. SEGURO AGRAVO HABITACIONAL. PROCEDÊNCIA.RETIDO REAVIVANDO EXCEÇÕES PROCESSUAIS E PREJUDICIAL.COMPETÊNCIA PETIÇÃO INICIAL APTA. DA JUSTIÇA ESTADUAL COMUM. ILEGITIMIDADE PASSIVA DA CAIXA ECONÔMICA PASSIVO FEDERAL POLOS ATIVO E CORRETOS. PRESCRIÇÃO INOCORRENTE. RECURSO DESPROVIDO.
+AÇÃO INDENIZATÓRIA. SEGURO HABITACIONAL. PROCED Ê NCIA. HIP Ó TESES DE COBERTURA SECURITÁRIA NÃO CARACTERIZADAS. LIMITAÇÕES LÍCITAS. INDENIZAÇÃO INDEVIDA. CLÁUSULA PENAL INAPLICÁVEL, AUSENTE INADIMPLEMENTO CONTRATUAL DA RÉ. APELAÇÃO PROVIDA. (e-STJ, fl. 792)
+Nas razões do presente recurso, NILFA e outros alegaram violação aos arts. 18 e 47 do CDC, ao sustentar (1) que os vícios de construção, nos contratos de seguro do STF, devem ser abrangidos pela apólice de seguro.
+Não foram apresentadas contrarrazões.
+É o relatório.
+Decido.
+O recurso merece prosperar.
+(1) cobertura securitária
+O Tribunal de origem, ao julgar a apelação, concluiu não ser cabível a cobertura securitária, em face da exclusão contratual para os vícios construtivos, assim se pronunciando:
+Ocorre que o laudo pericial aferiu que "os danos q existentes nos imóveis têm como origem problemas de aplicação de materiais e/ou execução de obra sem a observação da boa técnica construtiva, somados à aplicação de materiais e mão de obra de baixa qualidade" (fls. 525) - o que não se C4 subsume a nenhuma daquelas situações (o perigo hodierno de desmoronamento, em especial, o experto expressamente repeliu). Desse modo, à mingua do advento d"algum dos riscos cobertos, não calhava à demanda senão a improcedência.
+Deveras, (i) a exclusão de cobertura em lume se amolda ao art. 784 do Código Civil vigente (art. 1.459 do diploma revogado) (TJSP, 6ª Câmara de Direito Privado: Apelação nº 0021691-57.2013.8.26.0344); (ii) o contrato de seguro é aleatório e, in casu, a álea não se implementou, de maneira que a seguradora nenhuma indenização deve aos autores, sem que isto represente enriquecimento sem causa - antes, trata-se de contexto normal a contratos da espécie, albergado expressamente na legislação (art. 764 do Código Civil vigente o art. 1.452 do diploma revogado).
+De se registrar, com precedente desta E. Câmara, que a disposição que limita a cobertura securitária "tem sua validade reconhecida pela jurisprudência desta E. Corte Bandeirante, devendo ser respeitada, uma vez que pelo contrato de seguro, o segurador se obriga, mediante o pagamento do prêmio, a garantir interesse legítimo do segurado, relativo a pessoa ou coisa, contra riscos predeterminados", nos termos do art. 757, caput do Código Civil. (..) (e-STJ, fl. 796)
+A conclusão adotada na origem encontra-se em desarmonia com a jurisprudência deste Superior Tribunal de Justiça, que já se pronunciou no sentido de que Os vícios de construção devem estar necessariamente contemplados na apólice do seguro habitacional, sendo lícita a exclusão apenas daqueles resultantes de atos praticados pelo próprio segurado ou do uso e desgaste natural e esperado do bem (AgInt no AREsp n. 2.195.032/PR, de minha relatoria, Terceira Turma, julgado em 13/3/2023, DJe de 15/3/2023). Na mesma direção:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE RESPONSABILIDADE OBRIGACIONAL SECURITÁRIA. SISTEMA FINANCEIRO DE HABITAÇÃO. SEGURO HABITACIONAL. NÃO INCIDÊNCIA DAS SÚMULAS 5 E 7/STJ. VÍCIOS CONSTRUTIVOS. EXCLUSÃO DA COBERTURA SECURITÁRIA. DESCABIMENTO.
+1. Ação de responsabilidade obrigacional securitária.
+2. A discussão em análise não demanda o reexame de fatos e provas ou de cláusulas contratuais, mas sim da violação a normas infraconstitucionais destinadas a salvaguardar a proteção dos segurados do SFH por vícios de construção no imóvel.
+3. A Segunda Seção desta Corte consolidou orientação no sentido de que que "a interpretação fundada na bo a-fé objetiva, contextualizada pela função socioeconômica que desempenha o contrato de seguro habitacional obrigatório vinculado ao SFH, leva a concluir que a restrição de cobertura, no tocante aos riscos indicados, deve ser compreendida como a exclusão da responsabilidade da seguradora com relação aos riscos que resultem de atos praticados pelo próprio segurado ou do uso e desgaste natural e esperado do bem, tendo como baliza a expectativa de vida útil do imóvel, porque configuram a atuação de forças normais sobre o prédio" (REsp 1.804.965/SP, DJe de 01/06/2020).
+4. A decisão recorrida acatou o argumento do ora recorrido fundado na alínea "a" do permissivo constitucional, de modo que ficou prejudicada a alegação de dissídio jurisprudencial.
+5. Agravo interno não provido.
+(AgInt no REsp n. 2.019.309/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 6/3/2023, DJe de 9/3/2023)
+Nessas condições, CONHEÇO o agravo para DAR PROVIMENTO ao recurso especial, restabelecendo a sentença de (e-STJ, fls. 743/747).
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL RECURSO ESPECIAL. SFH. SEGURO HABITACIONAL. VÍCIOS CONSTRUTIVOS. INDENIZAÇÃO SECURITÁRIA. OBRIGATORIEDADE. PROVIMENTO.
