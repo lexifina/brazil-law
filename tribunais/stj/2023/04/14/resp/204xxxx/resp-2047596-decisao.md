@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de Recursos Especiais interpostos contra acórdão assim ementado:
+EXECUÇÃO FISCAL. ART. 40 DA LEF. PRESCRIÇÃO INTERCORRENTE CARACTERIZADA. PRINCÍPIO DA CAUSALIDADE. HONORÁRIOS ADVOCATÍCIOS. DESCABIMENTO.
+1. A prescrição intercorrente nas execuções fiscais é regulada pelo art. 40 da Lei nº 6.830/1980, e se caracteriza pela inércia processual do credor por determinado período de tempo qualificada pela impossibilidade de satisfação do crédito tributário, porque não encontrados o devedor ou bens penhoráveis.
+2. Para o reconhecimento da prescrição intercorrente deve-se observar os critérios estabelecidos pelo STJ no julgamento do REsp 1.340.553, realizado sob o rito dos recursos repetitivos.
+3. A prescrição não se interrompe ou suspende pelo mero pedido de diligência, mas só quando implicar efetiva constrição patrimonial do executado.
+4. Demonstrado que a prescrição intercorrente ocorreu pela não localização, em tempo hábil, de bens passíveis de constrição, e considerando que não houve equívoco quanto ao ajuizamento da execução fiscal, não há fundamento para condenar o exequente ao pagamento de honorários advocatícios e custas processuais, face ao princípio da causalidade.
+Os Embargos de Declaração foram rejeitados.
+A Fazenda Nacional afirma que houve ofensa aos arts. 489, § 1º, e 1.022 do CPC e ao art. 40, §§ 2º e 4º, da LEF.
+Contrarrazões às fls. 265- 268, e-STJ.
+Waldy Gomes de Oliveira aduz que ocorreu, além de divergência jurisprudencial, violação dos arts. 85, § 1º, e 1.022, II, do CPC.
+Contrarrazões às fls. 284- 286, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 1º.2.2023.
+A controvérsia tem por objeto acórdão que decretou a prescrição intercorrente e eximiu a Fazenda Nacional dos encargos de sucumbência.
+Por se tratar de questão prejudicial, e que merece acolhida, há inquestionável omissão no acórdão recorrido, devidamente apontada pelo ente público.
+O Tribunal a quo invocou precedente do STJ, relativo ao julgamento de Recurso Repetitivo, para concluir que houve prescrição intercorrente na hipótese dos autos, porque a Execução Fiscal para cobrança de crédito não tributário teve a suspensão automática iniciada em 2.10.2007 (data da intimação da Fazenda Nacional a respeito da inexistência de bens penhoráveis). Adicionou a informação de que, até a data da prolação de sentença (12.12.2019), havia sido ultrapassado o prazo de seis anos (um ano de suspensão, acrescido dos cinco anos da prescrição intercorrente), mesmo "descontados os períodos de suspensão por imposição legal (de 13/10/2009 a 30/11/2010 e de 28/09/2016 a 27/12/2018)" - fl. 183, e-STJ.
+Sucede que o ente público opôs Embargos de Declaração para questionar, entre outras coisas, a existência de penhora de bem, o que afastaria a premissa adotada no julgado de que a prescrição intercorrente se consuma apenas quando, na ausência de citação do devedor, ou de penhora de seus bens, transcorrem o prazo de suspensão (um ano) e da prescrição (cinco anos) sem que haja medida de efetiva citação ou constrição de bens.
+Veja-se o que foi dito nos aclaratórios da Fazenda Nacional (fl. 233, e-STJ):
+(..) como bem referido nas razões de apelação, houve penhora efetiva e útil de bem imóvel, conforme autos de fls. 53-54, datado de 12 de junho de 2015, o que interrompeu o lustro prescricional.
+Ao apontar a contrariedade ao art. 1.022 do CPC, o ente fazendário expressamente mencionou idêntica informação (fls. 253-254, e-STJ, grifos no original):
+Como bem se vê, não transcorreram mais de 6 anos entre os marcos interruptivos a serem considerados, ou seja, 02/10/2007, quando a FN foi intimada acerca da inexistência de bens penhoráveis e as suspensões por imposição legal - de 13/10/2009 a 30/11/2010 e 28/09/2016 a 27/12/2018 e entre esta última até a prolação da sentença, em 12/12/2019, considerando ainda a penhora de bem imóvel em 12.06.2015.
+O ponto a respeito da alegada penhora de bem, realizada em 12.6.2015, é relevante porque, segundo as balizas corretamente estabelecidas de forma abstrata no aresto hostilizado, "a contagem do prazo prescricional, uma vez iniciada, somente se interrompe pela efetiva constrição de bens do executado, ou pela citação do devedor, caso este não tenha sido inicialmente localizado. Neste caso, a interrupção retroage à data do protocolo da petição que requereu a providência frutífera" (fl. 182, e-STJ).
+Na medida em que o colegiado originário reconhece que a suspensão automática do processo, assim como o subsequente início automático da contagem da prescrição intercorrente, será afetada em caso de efetiva constrição de bens do devedor, com data retroativa ao protocolo da petição que a requereu, torna-se absolutamente indispensável que o órgão julgador, em relação ao questionamento que lhe foi apresentado nos aclaratórios: a) identifique se, conforme alegado pela parte exequente, houve penhora de bem imóvel em 12.6.2015; b) em caso positivo, defina qual a data do protocolo da petição que requereu a penhora de bens (para identificação do efeito retroativo); e c) em consequência, se pronuncie a respeito da configuração da prescrição intercorrente, considerando a data da suspensão automática, o período da primeira suspensão do prazo da prescrição intercorrente (13.10.2009 até 30.11.2010) e a data do protocolo da petição que resultou na efetiva constrição judicial.
+A leitura do decisum impugnado evidencia que as instâncias de origem não se pronunciaram a respeito do relevantíssimo item suscitado pela fazenda credora.
+Diante do exposto, conheço do Recurso Especial da Fazenda Nacional para dar-lhe parcial provimento e determino o retorno dos autos à Corte regional para novo julgamento dos Embargos de Declaração opostos pela parte, nos termos acima fundamentados. Prejudicado, neste momento, o Recurso Especial da parte adversa.
+Publique-se.
+Intimem-se.
