@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de conflito negativo de competência suscitado pelo Juízo Federal da 6ª Vara de Campo Grande/MS em relação ao Tribunal de Justiça do Estado do Mato Grosso do Sul, em ação de cobrança ajuizada pelo Banco do Brasil.
+Noticiam os autos que o Banco do Brasil ajuizou ação de cobrança contra João Carlos Ferraz e Tânia Aparecido Alves Ferraz, na justiça estadual, para cobrança do valor de R$ 158.563, 63 (cento e cinquenta e oito mil, quinhentos e sessenta e três reais e sessenta e três centavos) decorrente de cédula rural pignoratícia, financiada com o FCO - Fundo Constitucional de Financiamento do Centro-oeste.
+O Juízo suscitado, entendendo que "o titulo apresentado na presente demanda também é objeto da execução fiscal que tramita perante a Justiça Federal sob o n. 0011396-11.2011.4.03.6000" (fl. 33, e-STJ), declinou de sua competência e determinou o envio dos autos à Justiça Federal, nos termos do art. 45 do Código de Processo Civil/2015.
+O Juízo suscitante, por seu turno, consignou que inexistiria interesse da União no processo, pontificando que os créditos cobrados na ação ordinária não foram cedidos à União, ou seja, os valores valores cobrados em ambas as ações são provenientes de receitas distintas.
+Eis as razões:
+"(..) No caso dos autos, os créditos cedidos para a União foram os financiados pelo Fundo de Commodities e Poupança Ouro do Banco do Brasil.
+A ação ordinária de cobrança foi ajuizada, em 14.07.2016, para receber o valor de R$ 158.563,63 (cento e cinquenta e oito reais e quinhentos sessenta e três reais e sessenta e três centavos), oriundo do ECO  Fundo Constitucional de Financiamento do Centro-oeste (id. 39969815, PDF: f. 40), atualizado para R$ 479.058,65 (quatrocentos e setenta e nove mil, cinquenta e oito reais e sessenta e cinco centavos).
+Por outro norte, consta no mesmo documento que os valores R$ 10.376,37 (dez mil, trezentos e setenta e seis reais e trinta e sete centavos) e 11.558,90 (onze mil, quinhentos e cinquenta e oito reais e noventa centavos) são obtidos do Fundo de Commodities e Poupança Ouro, respectivamente.
+Somando-se esses valores resulta no montante de R$ 21.935,27, o qual foi cedido para a União (id. 39969815, PDF: f. 40 e 55- demonstrativo de conta vinculada).
+Em setembro de 2011, foi ajuizada a execução fiscal n. 0011396-11.2011.403.600 na Justiça Federal para o recebimento desse crédito cedido à União, que se tornou dívida ativa da União, no valor atualizado de R$ 55.482,24, conforme se infere pela CDA 13 6 113000307-27 (ID 39969823, PDF: f. 17).
+Pelo exposto, é possível constatar que os valores são provenientes de receitas diferentes, conforme demonstrado nos documentos acostados aos autos, podendo ser cobrados de acordo com seus respectivos procedimentos apropriados.
+Tanto é assim que o valor originário do crédito era R$ 180.498,90, sendo deste R$ 158.563,63, proveniente do FCO, objeto da ação ordinária de cobrança, e R$ 21.935,27, proveniente do Fundo de Commodities e da Poupança Ouro, cedido à União e em cobrança na justiça federal, com valor atualizado para o ajuizamento (R$ 55.482,24).
+Logo, esse montante cobrado na execução fiscal não poderia se referir ao valor cobrado na ação ordinária ajuizada na Justiça Estadual, visto que é muito inferior àquele" (fls. 20/21, e-STJ- grifou-se).
+Além disso, afastou a alegação de litispendência com os seguintes fundamentos:
+"No caso em análise, não há identidade de nenhum dos itens: i) na da ação ordinária de cobrança, o autor é o Banco do Brasil; na ação de execução fiscal o exequente é a União; ii) o pedido na ação ordinária é a condenação ao pagamento, do crédito financiado pelo FCO, no valor atualizado de R$ 479.058,65, que se tornaria título executivo judicial; na execução fiscal o pedido é o pagamento do valor atualizado cedido para a União (R$ 55.482,24), titulo executivo extrajudicial, o qual é oriundo do Fundo de Commodities e da Poupança Ouro do Banco do Brasil, cedido à União; iii) a causa de pedir na ação ordinária de cobrança é o não pagamento do montante financiado pelo CFO; na execução fiscal a causa de pedir é o não pagamento da quantia proveniente de Fundo de Commodities e Poupança Ouro.
+Assim, não há falar em litispendência da ação ordinária de cobrança n. 0802116.23.2016.8.12.0018, ajuizada na Justiça Estadual com a execução fiscal n. 0011396-11.2011403.6000 em trâmite nesta Vara Federal" (fl. 22, e-STJ).
+Determinou, assim, o envio dos autos a esta Corte Superior.
+É o relatório.
+DECIDO.
+Acerca da competência da Justiça Federal, este Tribunal Superior já possui alguns entendimentos consolidados nas Súmulas nºs 150, 224 e 254, que possuem os seguintes enunciados, respectivamente:
+"Compete à Justiça Federal decidir sobre a existência de interesse jurídico que justifique a presença, no processo, da União, suas autarquias ou empresas públicas."
+"Excluído do feito o ente federal, cuja presença levara o Juiz Estadual a declinar da competência, deve o Juiz Federal restituir os autos e não suscitar conflito."
+"A decisão do Juízo Federal que exclui da relação processual ente federal não pode ser reexaminada no Juízo Estadual."
+Tendo sido consignado pelo suscitante que os créditos cobrados na ação de cobrança não foram cedidos à União, por consectário lógico, a esta falta o interesse no feito, condição que atrairia a competência à Justiça Federal, cuja aferição cabe exclusivamente ao magistrado federal, não há falar em conflito de competência, mas em restituição dos autos à Justiça Estadual.
+Dessa forma, não havendo interesse de pessoa ou matéria sujeita ao foro federal, não se constituiu o pressuposto atrativo da competência da Justiça Federal.
+Ante o exposto, não conheço do conflito de competência, devendo os autos ser restituídos ao Tribunal de Justiça do Mato Grosso do Sul, o suscitado, para que julgue a apelação como entender de direito.
+Publique-se.
+Intimem-se.
