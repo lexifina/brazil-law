@@ -1,0 +1,8 @@
+DECISÃO
+BRUNO VINICIOS SILVA BARROS alega sofrer constrangimento ilegal diante de acórdão proferido pelo Tribunal de Justiça do Estado do Maranhão no Agravo Regimental na Apelação n. 0825328-74.2022.8.10.0000.
+Nesta Corte, a defesa sustenta a negativa de prestação jurisdicional pelo Tribunal de origem, ao negar processamento ao writ lá impetrado. Afirma que a análise das nulidades suscitadas - ilegalidade do mandado de busca e apreensão expedido em desfavor do coinvestigado e da quebra de sigilo telefônico autorizada a partir dos elementos obtidos no cumprimento de tal mandado, nulidade da utilização de print de conversa de whatsapp como meio de prova e quebra da cadeia de custódia da prova - prescinde de revolvimento do contexto fático-probatório dos autos, reflete diretamente no status libertatis do réu - preso preventivamente a partir do resultado de tais diligências -, motivo pelo qual pode ser feita na via do habeas corpus.
+Todavia, a leitura do aresto combatido evidencia que o não conhecimento do habeas corpus pela Corte local não foi lastreado apenas na necessidade de dilação probatória, visto que foi apontada, também, a supressão de instância, uma vez que a defesa suscitou as mesmas matérias perante o Juízo singular, em resposta à acusação, e ainda estava pendente a análise do tema em primeira instância.
+Logo, não identifico negativa de prestação jurisdicional na espécie.
+Ademais, não é cabível o exame das ilegalidades diretamente por esta Corte Superior, sob pena de configurar supressão de instância.
+À vista do exposto, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
