@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão com a seguinte ementa:
+APELAÇÃO CÍVEL - AÇÃO ANULATÓRIA- CANCELAMENTO DE SEGURO DE VIDA - ALEGAÇÃO DE INCAPACIDADE DO AGENTE - INCAPACIDADE NÃO COMPROVADA QUANDO DA REALIZAÇÃO DO NEGÓCIO JURÍDICO-APÓLICE MANTIDA. O ato praticado pelo incapaz ainda não interditado poderá ser invalidado se concorrerem três requisitos: 1) a incapacidade de entendimento; 2) o prejuízo ao incapaz; 3) má-fé da outra parte. Ausente os requisitos o negócio jurídico deve ser mantido, ainda mais quando não demonstrado que o adimplemento do contrato de seguro de vida gera grave prejuízo à subsistência e à situação financeira da curatelada, pois é certo que o interesse econômico e o bem-estar da incapaz devem ser resguardados em primeiro lugar.
+Opostos embargos de declaração pelas partes, os do ora recorrentes foram rejeitados na origem e os da parte adversa foram acolhidos pelo Tribunal de origem, adotando-se a seguinte ementa:
+EMBARGOS DE DECLARAÇÃO-OMISSÃO VERIFICADA - ACOLHIMENTO DOS PRIMEIROS EMBARGOS. Verificando-se erro de fato apontado nos embargos declaratórios, devem os mesmos serem acolhidos.
+A recorrida interpôs novos embargos de declaração, os quais foram rejeitados pelo Tribunal de origem, adotando-se a seguinte ementa:
+EMBARGOS DE DECLARAÇÃO - ÓBITO DA PARTE EMBARGADA - PERDA SUPERVENIENTE DO OBJETO - NÃO OCORRÊNCIA - CONTRADIÇÃO - NÃO VERIFICADA - EMBARGOS REJEITADOS.
+1. O falecimento da parte no curso do processo não implica, por si só, na perda superveniente do objeto, notadamente quando a matéria constitui apenas desdobramento da obrigação principal já decidida e não possui natureza personalíssima.
+2. Os embargos de declaração se prestam a sanar os vícios previstos no art. 1.022 do Código de Processo Civil, entre eles a omissão, a obscuridade, a contradição e o erro material, não sendo o instrumento processual pertinente para modificação do acórdão embargado, de modo a ser alterado o rumo do julgamento.
+3. Não demonstrada a ocorrência de vício de contradição, o recurso deve ser rejeitado.
+Nas razões do especial, apontam os recorrentes existência de dissídio jurisprudencial, além de violação dos artigos 489 e 1.022 do Código de Processo Civil; 104, 1.741 e 1.774 do Código Civil, alegando a ocorrência de negativa de prestação jurisdicional com a rejeição dos embargos de declaração, sem suprimento da omissão referente ao cancelamento da cobertura securitária preencher os requisitos legais atribuídos ao curador, além de atuar em benefício da curatelada.
+Defendem desacerto no acórdão estadual que anulou ato jurídico praticado pelo curador, haja vista a observância dos requisitos legais e o intuito de evitar diminuição do patrimônio da interditada , além disso, há a possibilidade de ser ratificada posteriormente pelo Juízo de 1º grau.
+O recurso foi admitido na origem, nos termos da decisão de fls. 1.219-1.221, e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+Quanto à preliminar, não observo omissão no acórdão, senão julgamento contrário aos interesses dos recorrentes, o que não autoriza, por si só, o acolhimento de embargos de declaração, nem sua rejeição importa em violação à sua norma de regência.
+Esclareça-se que não se exige do julgador a análise de todos os argumentos das partes, para fins de convencimento e julgamento. Para tanto, basta o pronunciamento acerca dos fatos controvertidos, o que se observa no presente caso, havendo fundamentação quanto à formalização do contrato e da não comprovação do prejuízo alegado à interditada, revelando que os motivos da decisão encontram-se objetivamente fixados nas razões do acórdão recorrido.
+No tocante à validade do ato praticado pelo curador, observo que o Tribunal de origem, com base nos fatos e provas dos autos, concluiu pela continuidade do contrato de seguro, não tendo os réus logrado êxito em provar fatos impeditivos, extintivos, modificativos do direito vindicado pela autora, como se extrai dos seguintes trechos (fls. 770-771, e-STJ):
+Do exame dos autos, verifica-se que a Sra. Lúcia .. celebrou contratos de seguro de vida com ré Mongeral Aegon Seguros e Previdências S/A sob o número de matrícula 8.305.276-9, inserindo como única beneficiária da apólice sua neta, ora autora.
+Em 2013, a ré sofreu um derrame e tornou-se incapaz para a prática de atos da vida civil. Em razão disso, foi distribuída, em 04/09/2013, uma ação de interdição e expedido, em 04/12/2013, o termo de curatela provisória. Em 14/01/2014, o curador provisório nomeado, Paulo Roberto Alves, solicitou à seguradora o cancelamento dos citados contratos de seguro de vida.
+Pois bem. Inicialmente cabe frisar que a interdição da incapaz somente foi decretada em momento posterior à realização negócio jurídico por ela.
+(..)
+No caso em apreço, entendo que a vontade da apelada e a preservação do contrato de seguro de vida poderiam ser afastadas, mediante autorização judicial, se demonstrado que o adimplemento do contrato de seguro de vida gera grave prejuízo à subsistência e à situação financeira da curatelada, pois é certo que o interesse econômico e o bem-estar da incapaz devem ser resguardados em primeiro lugar. Contudo, analisando os documentos acostados aos autos pelo curador, não há provas de que o valor pago mensalmente à seguradora esteja prejudicando a subsistência da apelada. Os réus, aliás, não juntaram qualquer documento comprobatório das despesas da apelada e da proporção que o valor pactuado representa sobre a renda auferida pela incapaz.
+Assim, diante do insuficiente conjunto probatório a demonstrar eventual prejuízo, a vontade da incapaz deve ser preservada.
+O acolhimento das razões do recurso especial, a fim de demover a compreensão da Corte de origem e, com isso, descaracterizar a anulação do ato praticado pelo curador, demandaria reexame de matéria fática, o que esbarra, na Súmula 7 do STJ.
+Em conformidade, cito os seguintes precedentes:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CURATELA. INTERDIÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. DECISÃO MANTIDA. EMBARGOS DE DECLARAÇÃO PROTELATÓRIOS. MULTA DO ART. 1.026, § 2º, DO CPC/2015. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+(..)
+3. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+4. No caso concreto, o Tribunal de origem, a partir do exame dos elementos de prova, entendeu estar suficientemente provado nos autos que a nomeação de uma das filhas do interditando como curadora melhor atenderia o interesse dele. Concluir de modo contrário implicaria reexame de matéria fática, vedado em recurso especial.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.353.047/MG, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 20/5/2019)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. COMPROVAÇÃO DOS FATOS IMPEDITIVOS, MODIFICATIVOS OU EXTINTIVOS DO DIREITO DO AUTOR QUE FIGUROU COMO GARANTIDOR DE DÍVIDA INADIMPLIDA PELO RÉU. AFASTAMENTO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. IMPROVIMENTO.
+1.- A análise da alegação recursal demandaria o reexame do conjunto fático-probatório, obstado nesta instância, conforme o disposto na Súmula 7/STJ.
+2.- O agravo não trouxe nenhum argumento novo capaz de modificar a conclusão alvitrada, a qual se mantém por seus próprios fundamentos.
+3.- Agravo Regimental improvido.
+(AgRg no AREsp n. 215.406/RJ, relator Ministro Sidnei Beneti, Terceira Turma, DJe de 9/10/2012)
+Em face do exposto, nego provimento ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Intimem-se.
