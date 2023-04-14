@@ -1,0 +1,20 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Messod Azulay Neto, João Batista Moreira (Desembargador convocado do TRF1), Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de agravo regimental interposto por RAIMUNDO NONATO FERREIRA DA CRUZ contra a decisão de fls. 513/516, em que conheci do agravo para não conhecer do recurso especial em razão da incidência das Súmulas ns. 282 e 356 do STF.
+Em suas razões recursais, o agravante alega, em síntese, que houve o prequestionamento necessário para o conhecimento do recurso especial. Salienta que se admite o prequestionamento implícito para fins de conhecimento do apelo quando as questões nele debatidas tenham sido decididas no acórdão recorrido.
+Requer a reconsideração da decisão agravada ou o provimento do agravo regimental pela Turma competente, para que se conheça e dê provimento ao recurso especial ou determine o retorno dos autos à Corte de origem para a manifestação das questões levantadas nos embargos declaratórios.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. DESCLASSIFICAÇÃO DA CONDUTA PARA AQUELA PREVISTA NO ART. 129, § 1º, III, DO CÓDIGO PENAL - CP. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS NS. 282 E 356 DO SUPREMO TRIBUNAL FEDERAL - STF. PREQUESTIONAMENTO IMPLICITO. INAPLICABILIDADE. RECURSO ESPECIAL NÃO CONHECIDO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Sobre a controvérsia (desclassificação para o crime previsto no art. 129, § 1º, III, do CP), o TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS não se pronunciou, sequer foi instado a tal manifestação, considerando que o conteúdo da apelação dizia respeito à absolvição por insuficiência provatória; redução da pena básica; reconhecimento da lesão corporal privilegiada e sua compensação com a causa de aumento do art. 129, § 10º; alteração do regime prisional e a concessão da suspensão condicional da pena.
+2. O prequestionamento implícito ocorre quando a Corte originária discute a matéria sob o enfoqu e suscitado no recurso especial, porém sem mencionar, explicitamente, o artigo de lei indicado como violado no apelo nobre. No caso concreto, não houve nenhum debate sobre a adequação típica da conduta no artigo 129, § 1º, III, do CP. Inviável, pois, a este STJ a análise da quaestio por ausência de prequestionamento, que é imprescindível, inclusive quando se tratar de matéria de ordem pública. Assim, ficam mantidos os óbices das Súmulas ns. 282 e 356 do STF.
+3. Agravo regimental desprovido.
+VOTO
+O presente recurso não merece ser provido, pois o agravante não trouxe nenhum argumento apto a ensejar a reforma do juízo monocrático.
+Sobre a controvérsia (desclassificação para o crime previsto no art. 129, § 1º, III, do CP), o TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS não se pronunciou, sequer foi instado a tal manifestação, considerando que o conteúdo da apelação dizia respeito à absolvição por insuficiência provatória; redução da pena básica; reconhecimento da lesão corporal privilegiada e sua compensação com a causa de aumento do art. 129, § 10º; alteração do regime prisional e a concessão da suspensão condicional da pena.
+Com efeito, o prequestionamento implícito ocorre quando a Corte originária discute a matéria sob o enfoque suscitado no recurso especial, porém sem mencionar, explicitamente, o artigo de lei indicado como violado no apelo nobre. No caso concreto, não houve nenhum debate sobre a adequação típica da conduta no artigo 129, § 1º, III, do CP. Inviável, pois, a este STJ a análise da quaestio por ausência de prequestionamento, que é imprescindível, inclusive quando se tratar de matéria de ordem pública.
+Assim, ficam mantidos os óbices das Súmulas ns. 282 e 356 do STF.
+Ressalte-se não ter havido a oposição de embargos de declaração perante à Corte Estadual.
+Ante o exposto, voto pelo desprovimento do agravo regimental.
