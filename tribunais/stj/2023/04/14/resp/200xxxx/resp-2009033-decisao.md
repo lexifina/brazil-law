@@ -1,0 +1,67 @@
+DECISÃO
+Trata-se de recurso especial interposto por ADELINO AUGUSTO GONÇALO SARAIVA e Outros, com arrimo no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"APELAÇÃO. TAXA ASSOCIATIVA. Sentença que julgou improcedente a ação. Inconformismo da parte autora. A administração do condomínio tem o caráter de associação, com direitos e deveres estipulados, por livre e espontânea vontade, entre seus associados, para a consecução dos objetivos comuns. Pretório Excelso, nos autos do Recurso Extraordinário nº 695.911, de Repercussão Geral (Tema nº 492), entendeu por bem fixar tese sobre a cobrança de taxa associativa. Ao firmar o compromisso de compra e venda os apelados aderiram à obrigação "propter rem" de pagar pelos serviços de limpeza, manutenção e conservação do loteamento Centro de Apoio, e aderiram à obrigação "propter rem" de se associar à Sociedade Alphaville Centro de Apoio, o que revela claro desatendimento aos preceitos contidos nos artigos 104, do Código Civil Brasileiro ("Ato Jurídico Perfeito"), artigos 884 a 886 do Código Civil Brasileiro ("Vedação ao enriquecimento ilícito"), e artigo 1.022, do Código de Processo Civil. Desde a aprovação do loteamento onde se encontram os imóveis objeto da presente ação, é "conditio sine qua non" a associação do comprador à associação "SACA Sociedade Alphaville Centro de Apoio" e o cumprimento do seu regulamento, condição esta que consta, expressamente, nos instrumentos de compra e venda assinados pela parte ré, ora apelada. Devida a cobrança dos valores em aberto, que deverão ser apurados em fase de liquidação. Sentença reformada. Recurso provido" (e-STJ fl. 288).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 341-346).
+Em suas razões (e-STJ fls. 298-309), os recorrentes apontam, além de divergência jurisprudencial, violação dos seguintes dispositivos com as respectivas teses:
+(i) artigos 489, inciso VI, 926, 927 e 928 e 1.022, parágrafo único, inciso I, do Código de Processo Civil - negativa de prestação jurisdicional, deficiência de fundamentação e insegurança jurídica e
+(ii) artigos 104, 884 e 886 do Código Civil - descumprimento do Tema 882 dos recursos repetitivos e do Tema 492 da repercussão geral (RE nº 695.911).
+Com as contrarrazões (e-STJ fls. 352-383), e admitido o recurso na origem (e-STJ fls. 408-409), subiram os autos a esta colenda Corte.
+É o relatório.
+DECIDO.
+A irresignação não merece prosperar.
+No tocante à alegada negativa de prestação jurisdicional (artigos 489, inciso VI, 926, 927 e 928 e 1.022, parágrafo único, inciso I, do Código de Processo Civil), agiu corretamente o Tribunal de origem ao rejeitar os embargos declaratórios por inexistir omissão, contradição ou obscuridade no acórdão embargado, ficando patente, em verdade, o intuito infringente da irresignação, que objetivava a reforma do julgado por via inadequada.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. MATÉRIA JORNALÍSTICA. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. OMISSÃO NÃO VERIFICADA. CONCLUSÃO DO ACÓRDÃO PELA NÃO CONFIGURAÇÃO DOS DANOS MORAIS. REVISÃO DO JULGADO. IMPOSSIBILIDADE. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. A alegada ofensa aos arts. 489 e 1.022 do CPC/2015 não ficou configurada, uma vez que o Tribunal de origem examinou, de forma fundamentada, todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que tenha decidido em sentido contrário à pretensão do recorrente.
+2. O Tribunal de origem não reconheceu a configuração dos danos morais decorrentes da matéria jornalística, ante a não verificação de ocorrência de violação do direito de personalidade. Nesse contexto, para infirmar as conclusões a que chegou o acórdão recorrido, seria imprescindível o revolvimento do conjunto fático-probatório dos autos, o que é vedado nesta instância extraordinária, consoante dispõe a Súmula 7/STJ.
+3. Agravo interno improvido".
+(AgInt no AREsp 1.439.955/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 10/06/2019, DJe 13/06/2019 - grifou-se)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE SEGURO. OMISSÃO NO ACÓRDÃO DE ORIGEM. ARTIGOS 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. LIMITES DO RISCO CONTRATADO. REEXAME DE PROVAS. SÚMULAS 5 E 7/STJ. NÃO PROVIMENTO.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, obscuridades ou contradições, deve ser afastada a alegada ofensa aos arts. 489, § 1º, IV, e 1.022, I e II, do Código de Processo Civil.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+3. Agravo interno a que se nega provimento".
+(AgInt no AREsp 1.374.504/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 11/06/2019, DJe 14/06/2019 - grifou-se)
+Quanto ao mais (artigos 104, 884 e 886 do Código Civil), o acórdão recorrido está em harmonia com a orientação desta Corte no sentido de que, em regra, as taxas de manutenção criadas por associações de moradores não obrigam os não associados, ficando ressalvadas as hipóteses em que houver anuência ao encargo.
+O tema foi sedimentado pela Segunda Seção desta Corte, no julgamento do REsp nº 1.439.163/SP e do REsp nº 1.280.871/SP, processados sob o rito dos recursos repetitivos.
+Confira-se:
+"RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA - ART. 543-C DO CPC - ASSOCIAÇÃO DE MORADORES - CONDOMÍNIO DE FATO - COBRANÇA DE TAXA DE MANUTENÇÃO DE NÃO ASSOCIADO OU QUE A ELA NÃO ANUIU - IMPOSSIBILIDADE.
+1. Para efeitos do art. 543-C do CPC, firma-se a seguinte tese: "As taxas de manutenção criadas por associações de moradores não obrigam os não associados ou que a elas não anuíram".
+2. No caso concreto, recurso especial provido para julgar improcedente a ação de cobrança".
+(REsp 1.439.163/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Rel. p/ Acórdão Ministro MARCO BUZZI, SEGUNDA SEÇÃO, julgado em 11/03/2015, DJe 22/05/2015)
+Ainda segundo a jurisprudência desta Corte, a manifestação de vontade de anuir ao encargo pode se perfectibilizar mediante contrato, por meio de adesão do proprietário aos termos constitutivos da associação de moradores, por intermédio de previsão na escritura pública de compra e venda do lote ou, ainda, do depósito em cartório do contrato-padrão contendo as obrigações no registro de imóveis, entre outros.
+Nesse sentido:
+"AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DECLARATÓRIA DE DESASSOCIAÇÃO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INCONFORMISMO DA PARTE DEMANDADA.
+1. Nos termos da orientação jurisprudencial adotada por esta Corte Superior de Justiça, em loteamentos administrados por associações de moradores, apenas a lei ou a anuência do morador pode obrigá-lo ao pagamento da contribuição associativa, seja por meio da celebração de contrato, seja por meio da adesão à entidade.
+1.1 De igual forma, não há vedação para que o associado postule sua desfiliação, de sorte que as taxas de manutenção serão devidas apenas e tão-somente até a data da sua manifestação.
+2. Agravo interno desprovido".
+(AgInt no REsp 1.938.363/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 27/09/2021, DJe 1º/10/2021 - grifou-se)
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL - AÇÃO DE COBRANÇA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INCONFORMISMO DO RÉU.
+1. Nos termos da jurisprudência do STJ, as taxas de manutenção criadas por associação de moradores, de natureza pessoal e contratual, não podem ser impostas a proprietário de imóvel que não é associado ou não aderiu formalmente ao ato que instituiu o encargo, em observância ao princípio da liberdade de associação.
+2. No caso dos autos, a autora juntou os dois instrumentos particulares de venda e compra dos lotes firmados pelo réu em julho de 2015, pelos quais se constata a concordância do adquirente com a cobrança perpetrada pela entidade nos termos das expressas cláusulas contratuais. Incidência das Súmulas 5, 7 e 83 do STJ.
+3. Agravo interno desprovido".
+(AgInt nos EDcl no REsp 1.902.052/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 31/05/2021, DJe 04/06/2021 - grifou-se)
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ERRO DE FATO. EMBARGOS DE DECLARAÇÃO ACOLHIDOS.
+1. Os embargos de declaração são cabíveis quando houver na decisão obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+2. No caso, verificado o equívoco na premissa de fato, acolhem-se os embargos para que seja suprido o vício.
+3. "As taxas de manutenção criadas por associações de moradores não obrigam os não associados ou que a elas não anuíram" (Recurso Especial repetitivo n. 1.439.163/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Rel. p/ Acórdão Ministro MARCO BUZZI, julgado em 11/3/2015, DJe 22/5/2015).
+4. Estando comprovado o vínculo associativo, surge para o morador o dever de contribuição.
+5. Embargos de declaração acolhidos com efeitos infringentes".
+(EDcl no AgInt no AgInt no AREsp 1.612.678/DF, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 1º/03/2021, DJe 03/03/2021 - grifou-se)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. SUSTENTAÇÃO ORAL. IMPOSSIBILIDADE. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 1.022 DO CPC/2015. ASSOCIAÇÃO DE MORADORES. TAXAS ASSOCIATIVAS. RESPS N. 1.280.871-SP E 1.439.163-SP. ANUÊNCIA EXPRESSA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. Nos termos do art. 159, IV, do RISTJ, não haverá sustentação oral no julgamento de agravo interno, salvo disposição legal expressa em contrário. 2. Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+3. "As taxas de manutenção criadas por associações de moradores não obrigam os não associados ou que a elas não anuíram" (REsps n. 1.280.871-SP e 1.439.163-SP, Relator para Acórdão Ministro MARCO BUZZI, SEGUNDA SEÇÃO, julgado em 11/03/2015, DJe 22/05/2015).
+4. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+5. O Tribunal de origem analisou a prova dos autos para concluir pela efetiva participação dos recorrentes no condomínio e em suas deliberações (p. ex. presença atuante nas assembleias, conferência de balancetes, candidatura a cargos eletivos do condomínio, pagamento de taxas associativas, etc.). Alterar tais conclusões é inviável em recurso especial.
+6. Agravo interno a que se nega provimento".
+(AgInt no AgInt nos EDcl no AREsp 1.311.045/MG, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 08/10/2019, DJe 14/10/2019 - grifou-se)
+No caso em apreço, o Tribunal de origem, à luz da prova dos autos, consignou, de forma categórica, que os réus anuíram expressamente aos encargos objeto da presente ação de cobrança, consoante se colhe dos seguintes excertos do acórdão recorrido:
+"(..)
+Na hipótese, os apelados adquiriram os imóveis situados na Quadra C-02, lotes 01, 02 e 03 - Centro de Apoio II, em 03/10/1983.
+Desta forma, se tornaram associados da Sociedade Alphaville Centro de Apoio, por disposição expressa contida no próprio "Instrumento Particular de Compromisso de Venda e Compra" (fls. 51/60, 61/70 e 71/80), firmado com o próprio loteador, CONSTRUTORA ALBUQUERQUE TAKAOKA S/A, o que torna inadequada a aplicação, na espécie, da orientação definida pelo Colendo Superior Tribunal de Justiça, no julgamento do Recurso Especial nº 1.439.163/SP (Tema nº 882).
+Ao firmar o compromisso de compra e venda os apelados aderiram à obrigação propter rem de pagar pelos serviços de limpeza, manutenção e conservação do loteamento Centro de Apoio, e aderiram à obrigação propter rem de se associar à Sociedade Alphaville Centro de Apoio, o que revela claro desatendimento aos preceitos contidos nos artigos 104, do Código Civil Brasileiro ("Ato Jurídico Perfeito"), artigos 884 a 886 do Código Civil Brasileiro ("Vedação ao enriquecimento ilícito"), e artigo 1.022, do Código de Processo Civil.
+Desde a aprovação do loteamento onde se encontram os imóveis objeto da presente ação, é conditio sine qua non a associação do comprador à associação "SACA Sociedade Alphaville Centro de Apoio" e o cumprimento do seu regulamento, condição esta que consta, expressamente, nos instrumentos de compra e venda assinados pela parte ré, ora apelada" (e-STJ fl. 294).
+Nesse contexto, não há espaço para falar em falta de anuência dos réus. Há, ao contrário, adesão inequívoca manifestada por livre e espontânea vontade em instrumento contratual.
+Incide, na espécie, a Súmula nº 568/STJ, segundo a qual "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se.
+Intimem-se.
