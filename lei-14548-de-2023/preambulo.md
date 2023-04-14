@@ -1,0 +1,2 @@
+Altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para compatibilizá-la com a Lei nº 12.127, de 17 de dezembro de 2009, que criou o Cadastro Nacional de Crianças e Adolescentes Desaparecidos, e com a Lei nº 13.812, de 16 de março de 2019, que instituiu a Política Nacional de Busca de Pessoas Desaparecidas e criou o Cadastro Nacional de Pessoas Desaparecidas.
+O VICE-PRESIDENTE DA REPÚBLICA, no exercício do cargo de PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
