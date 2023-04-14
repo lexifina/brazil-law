@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de Agravo contra decisão que inadmitiu Recurso Especial (art. 105, III, "a", da CF) interposto de acórdão assim ementado:
+AÇÃO DECLARATÓRIA C/C OBRIGACAO DE FAZER -CONCURSO PUBLICO - TÉCNICO DA ÁREA INSTRUMENTAL DO GOVERNO -ADMINISTRADOR - DESISTÊNCIA DE CANDIDATO MELHOR CLASSIFICADO -INTERESSE DA ADMINISTRAÇÃO DEMONSTRADO - DIREITO A NOMEAÇÃO -CUSTAS E EMOLUMENTOS - ISENÇÃO - HONORÁRIOS SUCUMBENCIAIS -REDUÇÃO - RECURSO PARCIALMENTE PROVIDO -SENTENCA RATIFICADA EM SEUS DEMAIS TERMOS.
+Os Embargos de Declaração foram rejeitados (fls. 704-710, e-STJ).
+No Recurso Especial, o Estado do Mato Grosso sustenta (fls. 716-732, e-STJ):
+O acórdão recorrido contrariou, expressamente, o artigo 1.022, II, III e parágrafo único c/c art. 489, II e § 1º, inciso IV, do Código de Processo Civil, pois, incorreu em erro de fato, tendo em vista que a ora recorrida não passou a figurar dentre os aprovados, em razão da desistência de candidatos aprovados dentro do número de vagas previstas no edital, nem, tampouco, houve contratação temporária para o cargo para o qual a recorrida foi classificada em concurso público, bem como, a omissão diz respeito ao fato de que o acórdão, em momento algum, menciona o decidido pelo Supremo Tribunal Federal no RE 83.7311, decidido em-sede de repercussão geral, estando em desconformidade com o decidido naquele recurso.
+(..)
+Por conseguinte, a existência de vagas não se verifica pela simples matemática de classificação e do número de desistentes, haja vista que a cada vaga surgida, decorrente de desistência, foi sendo nomeado o candidato em colocação seguinte na ordem de classificação.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 29.3.2023.
+Inicialmente constato que não se configura a ofensa ao art. 1.022 do Código de Processo Civil, pois o Tribunal de origem julgou integralmente a lide e solucionou o conflito em conformidade com o que lhe foi apresentado.
+Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução. Nesse sentido: REsp 1.486.330/PR, Rel. Ministro Og Fernandes, Segunda Turma, DJe 24.2.2015; AgRg no AREsp 694.344/RJ, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 2.6.2015; e EDcl no AgRg nos EAREsp 436.467/SP, Rel. Ministro João Otávio de Noronha, Corte Especial, DJe 27.5.2015.
+Como se observa de forma clara, não se trata de omissão, mas sim de inconformismo direto com o resultado do julgamento, que foi contrário aos interesses do recorrente. Ressalte-se que o mero descontentamento com o conteúdo da decisão não enseja Embargos Declaratórios, recurso que se presta tão somente a sanar os vícios previstos no art. 1.022 do CPC/2015, pertinentes à análise dos temas trazidos à tutela jurisdicional no momento processual oportuno.
+Ademais, a controvérsia foi dirimida nestes termos (fl. 612, e-STJ):
+Assim, que com a ausência de posse de 31 (trinta e um) candidatos, surge o direito de nomeação dos candidatos ate a 159 (centésima quinquagésima nona) posição, haja vista que a administração demonstrou de modo inequívoco, a necessidade de seu preenchimento. Logo, o ato da administração de nomear os candidatos classificados que não vieram a tomar posse, comprova a existência de vagas, a necessidade do serviço e a preterição dos demais classificados, o qual resulta, por conseguinte, o direito do apelado a nomeação, pois classificado em 154º (centésimo quinquagésimo quarto) lugar.
+Para modificar o entendimento firmado no acórdão recorrido, de modo a afirmar que não houve desistência de candidatos no pleito nem contratações temporárias, conforme alegado pela parte, seria necessário reapreciar o contexto fático-probatório dos autos, providência vedada em Recurso Especial conforme dispõe a Súmula 7 desta Corte: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+Ante o exposto, conheço do Agravo para conhecer parcialmente do Recurso Especial, somente quanto à afronta ao art. 1.022 do CPC, e, nessa parte, negar-lhe provimento.
+Publique-se.
+Intimem-se.
