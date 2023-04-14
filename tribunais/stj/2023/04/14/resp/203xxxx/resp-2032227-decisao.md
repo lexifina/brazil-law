@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de recurso especial interposto por WAGNER ANTONIO DE SOUZA, com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Paraná assim ementado:
+"PROCESSUAL CIVIL. APELAÇÃO CÍVEL. AÇÃO DE REVISÃO CONTRATUAL. CONTRATO DE ABERTURA DE CRÉDITO EM CONTA CORRENTE.1. CAPITALIZAÇÃO DE JUROS. OCORRÊNCIA NÃOCOMPROVADA. ALEGAÇÕES GENÉRICAS. IMPOSSIBILIDADE DEEXPURGO. 2. JUROS REMUNERATÓRIOS. LIMITAÇÃO NA TAXAMÉDIA DE MERCADO. DESCABIMENTO. ABUSIVIDADE NÃOCOMPROVADA. MANUTENÇÃO DAS TAXAS PRATICADAS. 3. SUCUMBÊNCIA. INVERSÃO DO ÔNUS.1. Contendo a petição inicial alegações genéricas e abstratas em relação à eventual prática de capitalização de juros, impõe-se o julgamento em desfavor da mesma, presumindo-se que não houve a cobrança de juros sobre juros.2. Não demonstrada a abusividade da taxa dse juros remuneratórios praticada, não há motivo para determinar a adoção da taxa média de mercado. A abusividade da taxa de juros deve ser cabalmente demonstrada em cada caso, com a comprovação do desequilíbrio contratual ou de lucros excessivos.3. O ônus de sucumbência deve ser distribuído considerando o aspecto quantitativo e o jurídico em que cada parte decai de suas pretensões. Apelação Cível provida" (fl. 189, e-STJ).
+Os embargos de declaração foram rejeitados (fls. 232/242, e-STJ).
+No seu arrazoado, a parte recorrente alega, além de divergência jurisprudencial, a violação dos artigos 112, 122, 170, 406 e 591 do Código Civil; 5º, da MP nº 2170, edição 36, e 4º do Decreto nº 22.626/1933.
+Sustenta, em síntese, que não pode se exigir prova da abusividade dos juros e da capitalização dos juros quando não pactuadas pelas partes e quando inexiste contrato.
+Contrarrazões juntadas às fls. 267/270 (e-STJ).
+O recurso especial foi admitido pela decisão de fls. 273/274 (e-STJ).
+É o relatório.
+DECIDO.
+Os pressupostos para conhecimento do recurso especial encontram-se presentes.
+A insurgência não merece prosperar.
+No tocante aos juros remuneratórios, as instituições financeiras não se sujeitam à limitação dos juros remuneratórios que foi estipulada pela Lei de Usura (Decreto nº 22.626/33), em consonância com a Súmula nº 596/STF, sendo também inaplicável o disposto no art. 591, c/c o art. 406, do Código Civil para esse fim, salvo nas hipóteses previstas em legislação específica. A redução dos juros dependerá de comprovação da onerosidade excessiva - capaz de colocar o consumidor em desvantagem exagerada - em cada caso concreto, tendo como parâmetro a taxa média de mercado para as operações equivalentes, de modo que a simples estipulação de juros remuneratórios superiores a 12% (doze por cento) ao ano, por si só, não indica abusividade, nos termos da Súmula nº 382/STJ.
+Nesse sentido, o REsp nº 1.061.530/RS, da relatoria da Ministra Nancy Andrighi, submetido ao regime dos recursos repetitivos, julgado pela Segunda Seção, com a seguinte ementa, na parte que interessa:
+"DIREITO PROCESSUAL CIVIL E BANCÁRIO. RECURSO ESPECIAL. AÇÃO REVISIONAL DE CLÁUSULAS DE CONTRATO BANCÁRIO. INCIDENTE DE PROCESSO REPETITIVO. JUROS REMUNERATÓRIOS. (..) ORIENTAÇÃO 1 - JUROS REMUNERATÓRIOS
+a) As instituições financeiras não se sujeitam à limitação dos juros remuneratórios estipulada na Lei de Usura (Decreto 22.626/33), Súmula 596/STF;
+b) A estipulação de juros remuneratórios superiores a 12% ao ano, por si só, não indica abusividade;
+c) São inaplicáveis aos juros remuneratórios dos contratos de mútuo bancário as disposições do art. 591 c/c o art. 406 do CC/02;
+d) É admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada _ art. 51, §1º, do CDC) fique cabalmente demonstrada, ante às peculiaridades do julgamento em concreto".
+Além disso, no julgamento do REsp nº 973.827/RS, submetido à sistemática dos recursos repetitivos, restou decidido que nos contratos firmados após 31/3/2000, data da publicação da Medida Provisória nº 1.963-17, admite-se a capitalização dos juros em periodicidade inferior a um ano, desde que pactuada de forma clara e expressa, assim considerada quando prevista a taxa de juros anual em percentual pelo menos doze vezes maior do que a mensal, consoante se colhe da ementa de referido julgado:
+"CIVIL E PROCESSUAL. RECURSO ESPECIAL REPETITIVO. AÇÕES REVISIONAL E DE BUSCA E APREENSÃO CONVERTIDA EM DEPÓSITO. CONTRATO DE FINANCIAMENTO COM GARANTIA DE ALIENAÇÃO FIDUCIÁRIA. CAPITALIZAÇÃO DE JUROS. JUROS COMPOSTOS. DECRETO 22.626/1933 MEDIDA PROVISÓRIA 2.170-36/2001. COMISSÃO DE PERMANÊNCIA. MORA. CARACTERIZAÇÃO.
+1. A capitalização de juros vedada pelo Decreto 22.626/1933 (Lei de Usura) em intervalo inferior a um ano e permitida pela Medida Provisória 2.170-36/2001, desde que expressamente pactuada, tem por pressuposto a circunstância de os juros devidos e já vencidos serem, periodicamente, incorporados ao valor principal. Os juros não pagos são incorporados ao capital e sobre eles passam a incidir novos juros.
+2. Por outro lado, há os conceitos abstratos, de matemática financeira, de "taxa de juros simples" e "taxa de juros compostos", métodos usados na formação da taxa de juros contratada, prévios ao início do cumprimento do contrato. A mera circunstância de estar pactuada taxa efetiva e taxa nominal de juros não implica capitalização de juros, mas apenas processo de formação da taxa de juros pelo método composto, o que não é proibido pelo Decreto 22.626/1933.
+3. Teses para os efeitos do art. 543-C do CPC: - "É permitida a capitalização de juros com periodicidade inferior a um ano em contratos celebrados após 31.3.2000, data da publicação da Medida Provisória n. 1.963-17/2000 (em vigor como MP 2.170-36/2001), desde que expressamente pactuada." - "A capitalização dos juros em periodicidade inferior à anual deve vir pactuada de forma expressa e clara. A previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada".
+(..)
+6. Recurso especial conhecido em parte e, nessa extensão, provido" (Rel. Ministro LUIS FELIPE SALOMÃO, Rel. p/ Acórdão Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 8/8/2012, DJe 24/9/2012).
+No caso, o Tribunal de origem entendeu que não está comprovada a prática da capitalização dos juros e a abusividade dos juros, com base nos seguintes fundamentos:
+"(..)
+Analisando a petição inicial apresentada pela autora, observa-se que este desenvolveu alegação singela sobre a capitalização de juros no contrato objeto da presente ação revisional, limitando-se a afirmar a sua prática na espécie, bem como a sua vedação.
+(..)
+Portanto, não foi realizada a produção de prova pericial, o que era de rigor para comprovar a ocorrência da capitalização de juros na conta corrente.
+Assim, diferentemente do que constou na sentença, o pleito da parte autora não comporta acolhimento, uma vez que não houve a efetiva demonstração da forma como ocorreu a capitalização de juros.
+Veja-se que por não ter se desincumbido de referido ônus, a parte autora experimenta consequências jurídicas desfavoráveis daí decorrentes, especialmente o não reconhecimento dos fatos alegados e não comprovados.
+Nesse contexto, a alegação genérica acerca da capitalização de juros não pode ser acolhida, já que ao magistrado não é dado atuar em tese, até porque sua atividade encontra-se limitada pelos fatos concretamente narrados pelas partes (narra mihi factum, dabo tibi ius).
+(..)
+Sendo assim, não restando comprovada a prática da capitalização de juros no contrato de conta corrente, deve ser modificada a sentença nesta parte, a fim de afastar o expurgo da capitalização de juros e para excluir a repetição desse valor.
+(..)
+No caso, extrai-se do exame dos autos que o autor embora tenha juntado cálculos (mov. 1.7/1.8), não comprovou a onerosidade excessiva capaz de modificar as taxas praticadas pela instituição financeira, já que não foi produz ida a prova pericial. Veja-se que os documentos acostados pelo autor, por si só, não são capazes que comprovar suas afirmações, sobretudo se considerado que são unilaterais.
+Na verdade, constata-se que o autor se limitou a alegar genericamente a ilegalidade/abusividade dos juros praticados, sem comprovar de modo efetivo a excessividade das taxas praticadas frente à média de mercado. Vale dizer, assumiu os riscos de propor uma ação mal instruída, pediu a revisão do contrato de modo absolutamente genérico, presumindo que a abusividade seria verificada com a inversão do ônus da prova.
+Assim, inexistindo prova cabal de abusividade das taxas dos juros remuneratórios cobrados, deve ser mantida as taxas praticadas/pactuadas, conforme posicionamento adotado por esta Câmara.
+(..)
+Portanto, necessária a reforma da sentença, a fim de manter as taxas de juros remuneratórios praticadas pelo apelante, com exclusão de repetição desses valores, em razão d a inexistência de cobrança ilegal.
+(..)" (fls. 191/195, e-STJ).
+Nesse contexto, rever o entendimento firmado pelas instâncias ordinárias, de que não foi comprovada a prática de capitalização de juros e nem a abusividade dos juros contratados, demandaria a análise de fatos, de provas dos autos e de cláusulas contratuais, o que é inviável no recurso especial pelos óbices das Súmulas nºs 5 e 7/STJ.
+No mesmo sentido:
+"AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DECLARATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DO AUTOR.
+1. A análise acerca da existência de capitalização de juros no contrato de abertura de crédito em conta corrente esbarra nos verbetes sumulares 5 e 7 do STJ.
+2. Importante consignar, ainda, que esta Corte de Justiça tem entendimento no sentido de que a incidência da Súmula 7/STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a Corte de origem.
+3. Agravo interno desprovido" (AgInt no REsp n. 1.737.320/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 31/5/2021, DJe de 4/6/2021).
+Por fim, cumpre atentar que as teses jurídicas firmadas por esta Corte, no julgamento dos REsps nºs 1.112.880/PR e 1.112.879/PR, sob o rito dos recursos repeititivos, são aplicáveis aos contratos de mútuo e não aos contratos de abertura de crédito em conta concorrente, tratados na presente hipótese.
+Ante o exposto, não conheço do recurso especial.
+Nos termos do artigo 85, § 11, do Código de Processo Civil de 2015, os honorários sucumbenciais devem ser majorados de R$ 1.000,00 (mil reais) para 1.500,00 (mil e quinhentos reais), observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
