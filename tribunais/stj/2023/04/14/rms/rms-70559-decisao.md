@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de recurso ordinário em mandado de segurança interposto por DORIVAL DE ALMEIDA BATISTA, com fundamento no art. 105, II, "b", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA assim ementado (fls. 139-140):
+AGRAVO INTERNO. MANDADO DE SEGURANÇA. POLICIAL MILITAR. ADICIONAL DE INSALUBRIDADE. INDEFERIMENTO DA PETIÇÃO INICIAL. AUSÊNCIADE PROVA PRÉ-CONSTITUÍDA. DIREITO LÍQUIDO ECERTO INEXISTENTE. NECESSIDADE DE LAUDOTÉCNICO EMITIDO PELA JUNTA MÉDICA OFICIALDO ESTADO DA BAHIA. ADSTRIÇÃO DAADMINISTRAÇÃO PÚBLICA AO PRINCÍPIO DALEGALIDADE. DECISÃO MANTIDA. AGRAVOINTERNO IMPROVIDO.
+A pretensão de obrigar o Estado da Bahia a proceder ao pagamento de adicional de insalubridade aos policiais e bombeiros militares, em decorrência pura e simples da pandemia de coronavírus, carece de mínimo respaldo legal, haja vista que não há lei a amparar o excepcional pagamento desse adicional ou que flexibilize a comprovação dos requisitos legais para receber a verba por conta da pandemia.
+O limite estreito de cognição do mandado de segurança, cujo escopo é proteger direito líquido e certo contra ato ilegal ou abusivo, desautoriza, pelo menos nesta via, a dispensa do laudo técnico exigido pelo art. 7º do Decreto Estadual nº 16.529/2016, ainda que sob a justificativa de excepcionalidade da emergência de saúde pública, como pretende a Impetrante, tanto mais porque não há como presumir, genericamente, a condição insalubre e seu respectivo grau para conceder verba remuneratória a determinado servidor público militar, à revelia absoluta do sistema normativo vigente.
+A adstrição ao princípio da legalidade obsta que os agentes da Administração Pública deixem de exercitar os poderes e de cumprir os deveres que lhes são impostos pela lei.
+Decisão mantida. Agravo interno improvido.
+No presente recurso ordinário, afirma o recorrente ser-lhe devido o pagamento de adicional de insalubridade na condição de policial militar com atuação durante a pandemia de covid-19 e enquanto perdurar o estado de calamidade . Defende a desnecessidade de laudo pericial para a concessão do auxílio pleiteado, pois a insalubridade em questão restaria evidente e dispensaria prova.
+Requer a reforma do acórdão recorrido para conceder a segurança perseguida.
+Manifestação do Ministério Público Federal às fls. 265-270 pelo não provimento do recurso.
+É, no essencial, o relatório.
+O recurso não merece ser provido.
+O mandado de segurança pressupõe a existência de direito líquido e certo, comprovado de plano mediante prova pré-constituída (art. 5º, LXIX, da CF/1988 e art. 1º da Lei n. 12.016/2009), o que não se observa na espécie.
+Conforme acertadamente consignado pelo Tribunal de origem, nos termos da Lei Estadual n. 7.990/01 e do Decreto Estadual n. 16.529/16, para a concessão dos adicionais de insalubridade e periculosidade é necessária a emissão de laudo técnico para atestar o efetivo exercício da atividade em condições especiais, bem como para aferir o grau da insalubridade para a definição do percentual a ser eventualmente concedido.
+Assim, não tendo o recorrente se desincumbido de demonstrar de plano o preenchimento dos requisitos legais de modo a amparar a concessão de adicional de insalubridade, e não se admitindo na via mandamental dilação probatória, impõe-se a denegação da segurança.
+Esta Corte já teve a oportunidade de enfrentar o tema, confira-se:
+ADMINISTRATIVO E PROCESSUAL CIVIL. POLÍCIA MILITAR. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ADICIONAL DE PERICULOSIDADE. DILAÇÃO PROBATÓRIA. NÃO CABIMENTO.
+1. O acórdão recorrido reconheceu a existência da previsão legal do adicional de periculosidade aos policiais militares nos termos do art. 92 da Lei Estadual 7.990/2001. Entretanto, denegou a segurança por haver necessidade da elaboração de laudo técnico que atestasse o trabalho em condições perigosas, consoante o Decreto 9.967/2006.
+2. O Mandado de Segurança exige prova pré-constituída como condição essencial à verificação do direito líquido e certo, de modo que a dilação probatória mostra-se incompatível com a natureza dessa ação constitucional. Não é o meio processual adequado para provar um fato. No mesmo sentido: RMS 53.485/BA, Relator Ministro Herman Benjamin, Segunda Turma, DJe 13.9.2017; e AgInt no RMS 57.059/BA, Relator Ministro Sérgio Kukina, Primeira Turma, DJe 9.8.2018.
+3. Recurso Ordinário em Mandado de Segurança não provido.
+(RMS n. 61.789/BA, relator Ministro Herman Benjamin, Segunda Turma, julgado em 22/10/2019, DJe de 29/10/2019.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. MANDADO DE SEGURANÇA. POLICIAL MILITAR. ADICIONAL DE PERICULOSIDADE. DILAÇÃO PROBATÓRIA.
+IMPOSSIBILIDADE. 1. Em sede de mandado de segurança, é indispensável que a prova do direito seja pré-constituída, sendo inviável a dilação probatória. 2. Não obstante o Decreto n. 9.967/2006 assegure o direito à percepção do adicional de periculosidade aos servidores do Estado da Bahia, há expressa exigência de apresentação do laudo pericial que ateste as condições de trabalho. 3. Hipótese em que não há a comprovação, nos termos da legislação de regência, das condições perigosas a que estão submetidos os policiais militares, exigindo-se para sua comprovação instrução probatória, medida incompatível com a via mandamental.
+4. Agravo interno desprovido.
+(AgInt no RMS n. 55.586/BA, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 25/4/2019, DJe de 15/5/2019.)
+Ante o exposto, nego provi mento ao recurso ordinário.
+Publique-se. Intimem-se.
