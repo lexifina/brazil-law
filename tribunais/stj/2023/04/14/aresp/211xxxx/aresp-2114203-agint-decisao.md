@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interno interposto por LUCAS PAULA NEVES contra decisão que não conheceu do agravo em recurso especial, por falta de impugnação específica dos fundamentos da decisão agravada (e-STJ fls. 404/405).
+Inconformado, o agravante interpõe o presente recurso (e-STJ fls. 407/414), postulando a reforma da decisão agravada, sob a alegação de que abordou todas as matérias de forma abrangente em seu recurso.
+É o relatório.
+DECIDO.
+Considerando a manifestação do agravante, faz-se imperiosa a reconsideração da decisão de e-STJ fls. 542/544 e passa-se ao exame do agravo em recurso especial, contra decisão que inadmitiu o recurso especial.
+O apelo extremo fundamentado na alíneas "a" e "c" do permissivo constitucional, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grosso assim ementado:
+"AGRAVO INTERNO - AGRAVO DEINSTRUMENTO - AÇÃO DE BUSCA E APREENSÃO - EFEITO SUSPENSIVO/ATIVO INDEFERIDO EM SEDE DE INSTRUMENTAL -CONSTATADA A DEVIDA CONSITUIÇÃO DODEVEDOR EM MORA - NOTIFICAÇÃO EXATRAJUDICIAL ENCAMINHADA NOENDEREÇO INFORMADO PELO AGRAVANTE NO CONTRATO DE MÚTUO OBJETO DOSAUTOS - A DOCUMENTAÇÃO CARREADA AOSAUTOS MILITA EM FAVOR DO BANCO AGRAVADO - O AGRAVANTE NÃO COMPROVA OS PRESSUPOSTOS AUTORIZADORES PARA A REFORMA DA DECISÃO OBJURGADA- DECISÃO MANTIDA - RECURSO DESPROVIDO.
+Se a parte não traz argumentos capazes de convencer o julgador da necessidade de reformado decisum que indeferiu o pedido de efeito suspensivo/ativo pleiteado no recurso de Agravo de Instrumento, impõe-se a sua manutenção.
+Na hipótese, o Recorrente não demonstrou a presença dos requisitos exigidos na norma processual para a concessão da medida liminar vindicada no Instrumental.
+Constatou-se nos autos que o Recorrente/Devedor foi devidamente constituído em mora, eis que a notificação extrajudicial expedida pelo Banco Agravado foi encaminhada para o endereço informado pelo próprio Agravante no contrato objeto da lide.
+Assim, nesta fase de cognição incompleta, não sobressaem elementos quanto à probabilidade do direito vindicado pela parte Recorrente.
+De igual modo, o Agravante não demonstra o risco concreto de dano irreparável ou de difícil reparação decorrente do indeferimento do efeito suspensivo/ativo até decisão do mérito do Instrumental." (e-STJ fls. 270/271).
+No recurso especial, o recorrente alega que houve, além de divergência jurisprudencial, violação dos 2º, § 2º, 3º do Decreto-lei nº 911/1969, 14 e 15, ambos da Lei 9.492/1997. Sustenta, em síntese, que que não foi constituído em mora e que é necessário demonstrar o exaurimento de todos os meios de tentativas de localização do devedor.
+O recurso não merece prosperar.
+Nos termos da jurisprudência desta Corte Superior, é inviável, em regra, a interposição de recurso especial postulando o reexame do deferimento ou indeferimento de medida acautelatória ou antecipatória, pois esta possui natureza precária e provisória do juízo de mérito, cuja reversão é possível a qualquer momento pela instância a quo .
+Dessa forma, configura-se a ausência do pressuposto constitucional relativo ao esgotamento das instâncias ordinárias, imprescindível ao trânsito da insurgência extraordinária, o que atrai a aplicação analógica da Súmula nº 735/STF: "Não cabe recurso extraordinário contra acórdão que defere medida liminar."
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ACÓRDÃO QUE DEFERIU ANTECIPAÇÃO DOS EFEITOS DA TUTELA. ANÁLISE DO MÉRITO DA DEMANDA.IMPOSSIBILIDADE. SÚMULA 735/STF, APLICADA POR ANALOGIA. AGRAVO REGIMENTALIMPROVIDO.
+I. Na forma da jurisprudência, não é cabível recurso especial quanto à alegação de ofensa a dispositivos de lei relacionados com a matéria demérito da causa, que, em liminar ou antecipação dos efeitos da tutela, é tratada apenas sob juízo precário de mera verossimilhança, "porquanto (em relação a) tal matéria, somente haverá causa decidida em única ou última instância com o julgamento definitivo, atraindo, analogicamente, o enunciado da súmula 735 do STF: "Não cabe recurso extraordinário contra acórdão que defere medida liminar"" (STJ, REsp 765.375/MA, Rel. Ministro TEORI ALBINO ZAVASCKI, PRIMEIRA TURMA, DJU de 08/05/2006). Em igual sentido: STJ, AgRg no AREsp 404.891/ES, Rel. Ministro OG FERNANDES,SEGUNDA TURMA, DJe de 18/12/2013.
+II. Agravo Regimental improvido". (AgRg no REsp n. 1.289.023/PB, Relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 16/6/2015, DJe 25/6/2015)
+"DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DECISÃO INTERLOCUTÓRIA. PROCESSO CAUTELAR. INCIDÊNCIA DO ART. 542, § 3º, DO CPC.RECEBIMENTO NA FORMA RETIDA. RECURSO INTERPOSTO CONTRA DECISÃO LIMINAR/ANTECIPATÓRIA DE TUTELA. SÚMULA N. 735/STF.
+1. Nos termos do que dispõe o art. 542, § 3º, do Código de Processo Civil, o recurso especial oriundo de decisão interlocutória proferida em processo de conhecimento, cautelar ou embargos à execução ficará retido nos autos e somente será processado se o reiterar a parte por ocasião da interposição de recurso contra a decisão final.
+2. Nessas hipóteses, tem-se entendido que, em razão do processamento indevido do recurso especial, o qual, a rigor, devia ter permanecido retido, nos termos do art. 542, § 3º, do CPC, os autos devem ser restituídos ao Tribunal a quo em observância do preceito legal. Precedentes.
+3. Esta Corte, em sintonia com o disposto na Súmula 735 do STF ("Não cabe recurso extraordinário contra acórdão que defere medida liminar"), entende que, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela. Precedentes.
+4. Agravo regimental não provido". (AgRg no AREsp n. 581.358/RJ, Relator o Ministro Luis Felipe Salomão, Quarta Turma, julgado em 28/4/2015, DJe 5/5/2015)
+Ante o exposto, reconsidero a decisão de (e-STJ fls. 404/405) para conhecer do agravo e não conhecer do recurso especial.
+Deixo de majorar os honorários sucumbenciais, conforme determina o artigo 85, § 11, do Código de Processo Civil de 2015, haja vista a ausência de condenação em honorários nas instâncias ordinárias.
+Publique-se.
+Intimem-se.
