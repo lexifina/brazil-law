@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de Cristiane Rodrigues Ferreira, apontando-se como autoridade coatora o Tribunal de Justiça do Rio de Janeiro, que negou provimento ao recurso de Apelação Criminal n. 0009909-91.2022.8.19.0066, mantendo a sentença que condenou a paciente como incursa no art. 33, caput, e art. 35, c/c o art. 40, VI, todos da Lei n. 11.343/2006, à pena de 9 anos e 4 meses de reclusão, no regime inicial fechado.
+Aqui, a defesa alega constrangimento ilegal na condenação da paciente pelo delito de associação para o tráfico.
+Afirma que, para associação para tráfico, o ânimo associativo há de ser concretamente externado, já que integrante e indispensável do tipo. Se há só indícios inconcludentes da materialidade e da autoria do delito de tráfico de drogas, não se pode afirmar a associação para esse fim, só porque os policiais afirmaram-no com fincas em elementos que não hão nem no APF e nem em juízo (fl. 5).
+Requer, ao final, a concessão da ordem para absolvição na imputação do art. 35 da Lei n. 11.343/2006 (fl. 7).
+Informações prestadas (fls. 82/87 e 89/92), o Ministério Público Federal ofereceu parecer pela denegação da ordem (fls. 97/112).
+É o relatório.
+Conforme relatado, busca a presente impetração a absolvição do delito de associação para o tráfico de drogas.
+O Juízo sentenciante, sobre o tema, afirmou que (fls. 69/70 - grifo nosso):
+ ..
+Neste sentido, o conteúdo da prova testemunhal colhida em juízo, constitui prova apta a demonstrar a materialidade do crime do art. 35 da Lei nº 11.343/06, desde que apuradas a estabilidade, permanência e a especial finalidade de cometer um ou mais delitos de tráfico, o que será objeto de análise quando do exame das condutas dos réus.
+Segundo consta dos autos, a acusada faz parte de associação criminosa voltada à prática do tráfico de drogas.
+No seu depoimento em juízo os policiais militares confirmaram a atuação da denunciada em comunhão de ações e desígnios com o adolescente Alex e a criança Rômulo, tendo os agentes da lei informado que fazia algum tempo que já vinham recebendo denúncias de tráfico de drogas na residência da ré.
+Note-se que as testemunhas relataram que a ré Cristiane entregou parte das drogas, sendo que o adolescente Alex entregou o restante do material entorpecente apreendido.
+Frise-se ainda que o local onde a denunciada estava fazendo o tráfico era dominado pela facção do Comando Vermelho, devendo ser ressaltado que o material entorpecente arrecadado exibia inscrição "VSS e SPC Tropa Vassourão CV Pó 50; 25", fazendo alusão à facção do Comando Vermelho
+Assim, pela prova oral produzida nos autos, sob o crivo do contraditório e da ampla defesa, restou comprovado que a ré estava associada com o adolescente Alex e a criança Rômulo, para o fim de praticar o tráfico de drogas, vez que, em conjunto, guardavam e tinham em depósito os entorpecentes.
+Superados os subterfúgios verbais para tratar do comércio ilícito de entorpecentes e em cotejo com a prova testemunhal produzida e com os demais elementos de prova juntados aos autos, pode-se afirmar a existência de uma organização estável e permanente para a prática do tráfico de entorpecentes envolvendo a acusada, o adolescente e a criança. As negociações com chefe de quadrilha, a maneira de organizar, endolar e vender as drogas, indicam que a acusada, de fato, ocupava posição e/ou função na facção criminosa que atua no município de Vassouras.
+Como já dito anteriormente, o crime consumou-se, pois independe da efetiva prática do delito de tráfico de entorpecentes.
+Por tais fundamentos, tenho que a acusada, o adolescente e a criança, dolosamente, associaram-se de forma estável e permanente para cometer do crime de tráfico de entorpecentes, incidindo na conduta típica prevista no art. 35, caput, da Lei n. 11.343/2006.
+ ..
+O Tribunal a quo manteve a condenação, nos seguintes termos (fls. 17/18):
+ ..
+Já quanto à associação para o tráfico de drogas, é situação que se extraídas circunstâncias da prisão.
+Com efeito, dúvidas não existem quanto à presença do liame subjetivo estabelecido entre a Apelante e outros indivíduos não identificados para a prática do delito de tráfico de drogas, pois não é crível que pudesse atuar sem pertencer, de alguma forma, à facção Comando Vermelho, que domina o comércio de drogas na localidade.
+Ademais, de se relembrar a apreensão de folha com anotações sobre o tráfico de drogas, apreendida em posse da Apelante, além da mesma ter sido presa em flagrante na companhia de uma criança de 11 anos e um adolescente.
+De se acrescer, também, ter a Apelante confessado informalmente aos policiais militares onde estava localizada a droga, havendo, portanto, indícios sérios e concludentes (CPP, art. 239) no sentido de que os recorrentes estavam associados para a prática do crime de tráfico de drogas.
+Realmente, quem possui anotações para controle e movimento de mercancia de entorpecentes, quem alicia menores de idade para esse mister, quem opera de maneira a preservar sua "mercadoria" e, "principalmente, quem atua em região dominada por facção criminosa, sem percalços, se revela como pessoa que, inquestionavelmente, integra a cadeia de prática delituosa, de forma estável e permanente.
+ ..
+Pois bem, da atenta análise da sentença condenatória, do acórdão e do que consta dos autos, observa-se que houve, com base em indícios (paciente foi presa em flagrante, em sua residência, com dois menores de idade, na posse de 166,8 g de cocaína, que exibia inscrição "VSS e SPC Tropa Vassourão CV Pó 50; 25", fazendo alusão à facção do Comando Vermelho), uma presunção de associação da ré com os menores, sem se declinar de forma concreta o período e a forma, elementos indispensáveis para a demonstração da estabilidade e permanência ínsitas do crime de associação para o tráfico.
+Com efeito, os dizeres do acórdão, com referências genéricas à configuração do tipo previsto no art. 35 da Lei n. 11.343/2006, como vínculo subjetivo entre os agentes, não se afiguram suficientes para embasar a condenação nesse ponto da imputação. O crime de associação para o tráfico (art. 35 - Lei n. 11.343/2006), mesmo formal ou de perigo, demanda os elementos "estabilidade" e "permanência" do vínculo associativo, que devem ser demonstrados de forma aceitável (razoável), ainda que não de forma rígida, para que se configure a societas sceleris e não um simples concurso de pessoas, é dizer, uma associação passageira e eventual. É preciso atenção processual, sem estereótipos, para a distinção, em cada caso, entre o crime de associação para o tráfico, nos termos do art. 35 da Lei n. 11.343/2006, e a coautoria mais complexa, não podendo a associação ser dada como comprovada por inferência do design do crime de tráfico perpetrado (AgRg no HC n. 706.819/RS, Ministro Olindo Menezes (Desembargador convocado do TRF/1ª Região), Sexta Turma, julgado em 27/9/2022, DJe 30/9/2022).
+Ainda sobre o tema:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. CRIME DE ASSOCIAÇÃO PARA O TRÁFICO. ART. 35 DA LEI N. 11.343/2006. AUSÊNCIA DE PROVA DA CONCRETA ESTABILIDADE E PERMANÊNCIA NA ORIGEM. ABSOLVIÇÃO. JURISPRUDÊNCIA DO STJ.
+1. Para a configuração do delito de associação para o tráfico "é imprescindível o dolo de se associar com estabilidade e permanência, uma vez que a reunião ocasional de duas ou mais pessoas não é suficiente para a configuração do tipo do art. 35 da Lei 11.343/2006". (AgRg no HC n. 573.479/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/5/2020, DJe 27/5/2020.)
+2. No caso, ao deixar de esclarecer o tempo da suposta associação e sem evidenciar a existência concreta de animus associativo, as instâncias ordinárias não declinaram fundamento válido para a conclusão de que houve vínculo duradouro entre o paciente e qualquer membro da facção, inexistindo prova da estabilidade e permanência para lastrear a condenação pelo delito de associação para o tráfico.
+3. Não se faz possível a condenação pelo delito de associação para o tráfico em razão de a prisão ter sido realizada em local sabidamente dominado por facção criminosa.
+4. Agravo regimental improvido.
+(AgRg no HC n. 734.103/RJ, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Sexta Turma, julgado em 13/3/2023, DJe 16/3/2023 - grifo nosso)
+Ante o exposto, concedo a ordem para afastar a condenação da paciente pelo delito de associação para o tráfico (Ação Penal n. 0009909-91.2022.8.19.0066).
+Comunique-se.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O MESMO FIM. PRETENSÃO DE ABSOLVIÇÃO DO DELITO DE ASSOCIAÇÃO. FUNDAMENTOS APRESENTADOS PELAS INSTÂNCIAS ORDINÁRIAS, QUE DEMONSTRAM A DEDICAÇÃO A ATIVIDADES CRIMINOSAS, MAS NÃO A ESTABILIDADE E PERMANÊNCIA INDISPENSÁVEL PARA A CONFIGURAÇÃO DO DELITO DE ASSOCIAÇÃO. PRECEDENTES. CONSTRANGIMENTO ILEGAL.
+Ordem concedida nos termos do dispositivo.
