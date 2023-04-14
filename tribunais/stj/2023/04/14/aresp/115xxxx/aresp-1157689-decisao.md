@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial interposto por AYMORE CRÉDITO, FINANCIAMENTO E INVESTIMENTO S/A, em face de decisão que inadmitiu Recurso Especial manejado com fundamento na alínea a do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+"APELAÇÃO CÍVEL - EMBARGOS À EXECUÇÃO FISCAL - IPVA - VEÍCULO OBJETO DE ALIENAÇÃO FIDUCIÁRIA - LEGITIMIDADE PASSIVA - CREDOR FIDUCIÁRIO - CONSTITUCIONALIDADE DA LEI ESTADUAL Nº 14.937/03.
+- O contribuinte do IPVA é o proprietário de veículo automotor, conforme dispõe o art. 4o, da Lei nº 14.937/03, respondendo solidariamente com ele, pelo pagamento do tributo e dos acréscimos legais devidos, o devedor fiduciante, em relação a veículo objeto de alienação fiduciária
+(art. 5o, inciso I).
+- A propriedade do bem alienado fiduciariamente é do credor fiduciário (instituição financeira) e o devedor é apenas o possuidor direto até que haja o adimplemento da obrigação.
+- "Mostra-se constitucional a disciplina do Imposto sobre Propriedade de Veículos Automotores mediante norma local, Deixando a União de editar normas gerais, exerce a unidade da federação a competência legislativa plena - § 3o do artigo 24, do corpo permanente da Carta de 1988 -, sendo que, com a entrada em vigor do sistema tributário nacional, abriu-se à União, aos Estados, ao Distrito Federal e aos Municípios, a via da edição de leis necessárias à respectiva aplicação - § 3º do artigo 34 do Ato das Disposições Constitucionais Transitórias da Carta de 1988." (Al 167777 AgR, Relator(a): Min. MARCO AURÉLIO, Segunda Turma, julgado em 04/03/1997, DJ 09-05-1997 PP-18134 EMENT VOL-01868-04 PP-00796)" (fl. 151e).
+O acórdão em questão foi objeto de Embargos de Declaração, rejeitados nos seguintes termos:
+"EMBARGOS DE DECLARAÇÃO - CREDOR FIDUCIÁRIO -RESPONSABILIDADE PELO PAGAMENTO DO IPVA - REQUISITOS DO CPC - AUSÊNCIA - REEXAME DO JULGADO - EFEITOS INFRINGENTES - IMPOSSIBILIDADE.
+- Ausentes os requisitos previstos no Código de Processo Civil - omissão, contradição ou obscuridade - devem ser rejeitados os Embargos Declaratórios.
+- A propriedade do bem alienado fiduciariamente é do credor fiduciário (instituição financeira) e o devedor é apenas o possuidor direto até que haja o adimplemento da obrigação.
+- Para a concessão de efeitos infringentes, assim como para fins de prequestionamento, é necessário que o acórdão tenha incorrido em omissão, contradição ou obscuridade" (fl. 185e).
+Nas razões do Recurso Especial, a parte ora agravante alega violação aos arts. 59 e 155, II, da Constituição Federal; 1.022, II, do CPC; 110, 131, I, 142 e 145, todos do CTN; 481, 586, 1.228, 1.267 e 1.361, todos do Código Civil e 3º, § 1º do DL 911/69, sustentando, em síntese, omissão não suprida em sede de Embargos de Declaração (negativa de prestação jurisdicional); nulidade da CDA; que não possui legitimidade para figurar no polo passivo da demanda, considerando que não é o proprietário do veículo (fls. 190/216e).
+Apresentadas as contrarrazões (fls. 280/284e), o Recurso Especial foi inadmitido, na origem (fls. 293/298e), o que ensejou a interposição do presente Agravo (fls. 302/324e).
+Considerando que a controvérsia refere-se ao Tema 685/STF, determinei a devolução do presente feito ao Tribunal de origem, com a devida baixa nesta Corte, para que o Recurso Especial fosse apreciado após exercido o juízo de retratação ou declarado prejudicado o Recurso Extraordinário interposto (fls. 342/344e).
+Entendendo, com razão, que o Tema 685/STF não se aplica ao caso dos autos, os autos foram devolvidos pelo Tribunal de origem, para análise do Agravo em Recurso Especial (fls. 379/380e).
+Entretanto, o Agravo em Recurso Especial não merece ser conhecido.
+Com efeito, o Recurso Especial restou inadmitido, pelos seguintes fundamentos: a) não cabe Recurso Especial para análise de normas constitucionais; b) não houve negativa de prestação jurisdicional; c) incidência da Súmula 283/STF; d) incidência da Súmula 280/STF.
+A parte agravante, todavia, deixou de infirmar, especificamente, o seguinte fundamento: não houve negativa de prestação jurisdicional. Aliás, infirmou a incidência da Súmula 282/STF que sequer serviu de fundamento para inadmissão do Recurso Especial.
+Diante desse contexto, o presente Agravo em Recurso Especial não pode ser conhecido.
+Com efeito, com o advento da Lei 12.322, de 09/09/2010, o Agravo de Instrumento contra decisão que não admite Recurso Especial passou a ser Agravo nos próprios autos. Porém, o legislador incorporou, ao texto legal, o princípio da dialeticidade, há muito sedimentado na jurisprudência desta Corte, com amparo na doutrina acerca do tema.
+Assim, de acordo com o inciso I do § 4º do art. 544 do CPC/73, é dever da parte agravante atacar, especificamente, todos os fundamentos da decisão do Tribunal de origem que nega trânsito ao Recurso Especial, sob pena de não conhecimento de sua irresignação.
+Esta Corte, com fundamento no citado dispositivo, bem como no princípio da dialeticidade recursal, vem aplicando, por analogia, a Súmula 182/STJ ao Agravo que não refute, de maneira específica, todos os fundamentos da decisão que não admitiu o Recurso Especial. É o que se depreende da leitura dos seguintes julgados:
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE ADMISSIBILIDADE NEGATIVA. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO. VERBETE SUMULAR N. 182/STJ. INCIDÊNCIA CONFIRMADA. EFEITO SUSPENSIVO. VIA INADEQUADA. AGRAVO REGIMENTAL IMPROVIDO.
+1. A teor do verbete n. 182 da Súmula desta Corte, é manisfestamente inadmissível o agravo em recurso especial que não impugna, especificamente, todos os fundamentos da decisão confrontada.
+(..)
+3. Agravo regimental improvido" (STJ, AgRg no AREsp 620.602/RS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe de 29/06/2016).
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. DECISÃO QUE INADMITIU O RECURSO ESPECIAL. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. INCIDÊNCIA DA SÚMULA 182/ STJ.
+I - Não se conhece do agravo que não tenha atacado especificamente os fundamentos da decisão que inadmitiu, na origem, o recurso especial, nos termos da Súmula 182 do STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+II - O Agravante não apresenta, no regimental, argumentos suficientes para desconstituir a decisão agravada.
+III - Agravo Regimental improvido" (STJ, AgRg no Ag 1.368.414/RJ, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 27/03/2015).
+"PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO MONOCRÁTICA NÃO REFUTADOS. PRINCÍPIO DA DIALETICIDADE RECURSAL FUNDAMENTOS AUTÔNOMOS. SÚMULA 182/STJ. OBRIGAÇÃO DE INFIRMAR TODOS ELES. PRECEDENTE. RESOLUÇÃO N. 432 DO CONTRAN. NORMA INFRALEGAL NÃO ABRANGIDA PELO CONCEITO DE LEI FEDERAL. PRECEDENTE. ART. 306 DO CTB. ALTERAÇÃO PELA LEI N. 12.760/2012. ADMISSÃO DE OUTROS MEIOS DE PROVA. PRCEDENTE.
+Agravo regimental improvido" (STJ, AgRg no AREsp 811.800/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe de 17/03/2016).
+"PROCESSUAL CIVIL. ADMINISTRATIVO. CONCURSO PÚBLICO. VIOLAÇÃO DO ART. 535 DO CPC. INEXISTÊNCIA. INOVAÇÃO RECURSAL. LEI ESTADUAL N. 9.664/2012. LEGISLAÇÃO LOCAL. SÚMULA 280/STF. ALÍNEA "C". DISPOSITIVO DE LEI EM QUE TERIA OCORRIDO A DISSIDÊNCIA INTERPRETATIVA. AUSÊNCIA DE INDICAÇÃO. SÚMULA 284 DO STF. INCIDÊNCIA DA SÚMULA 182/STJ.
+1. É inviável o agravo que deixa de atacar especificamente todos os fundamentos da decisão agravada. Incidência, por analogia, da Súmula 182 do STJ.
+2. No agravo regimental, a agravante não impugna todas as razões da decisão agravada, limitando-se apenas a rebater a incidência da Súmula 284/STF.
+3. Nos termos do art. 544, § 4º, inciso I, do Código de Processo Civil, "a parte deve impugnar todos os fundamentos da decisão agravada, autônomos ou não, pois não existe identidade entre a lógica da Súmula n. 182/STJ e a Súmula n. 283 do STF, uma vez que o conhecimento, ainda que parcial do agravo em especial, obriga a corte a conhecer de todos os fundamentos do especial, inclusive os não impugnados de modo específico". (AgRg no AREsp 68.639/GO, Rel. Min. Mauro Campbell Marques, Segunda Turma, julgado em 13/12/2011, DJe de 2/2/2012).
+Agravo regimental não conhecido" (STJ, AgRg no AREsp 450.558/MA, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 24/02/2014).
+O novo Código de Processo Civil ratificou tal entendimento, conforme se depreende do seu art. 932, III, in verbis:
+"Art. 932. Incumbe ao relator:
+(..)
+III. não conhecer do recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;
+(..)".
+Assim, se a lei estabelece pressupostos ou requisitos para a admissibilidade do recurso - no particular, o art. 932, III, do CPC/2015 determina a necessidade de impugnação específica aos fundamentos da decisão que inadmitir o Recurso Especial -, cabe à parte proceder em estrito cumprimento às determinações legais.
+De fato, "não se pode desconhecer os pressupostos de admissibilidade do recurso. O aspecto formal é importante em matéria processual não por obséquio ao formalismo, mas para segurança das partes e resguardo do due process of law" (STJ, AgRg no Ag 427.696/RJ, Rel. Ministro SÁLVIO DE FIGUEIREDO TEIXEIRA, QUARTA TURMA, DJU de 12/08/2002).
+Ante o exposto, com fundamento no art. 253, parágrafo único, I, do RISTJ, não conheço do presente Agravo em Recurso Especial.
+I.
