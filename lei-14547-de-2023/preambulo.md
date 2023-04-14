@@ -1,0 +1,2 @@
+Altera a Lei nº 12.973, de 13 de maio de 2014, para ampliar o prazo de vigência do crédito presumido e do regime de consolidação.
+Faço saber que o PRESIDENTE DA REPÚBLICA adotou a Medida Provisória nº 1.148, de 2022, que o Congresso Nacional aprovou, e eu, Veneziano Vital do Rêgo, Primeiro Vice-Presidente, no exercício da Presidência, para os efeitos do disposto no art. 62 da Constituição Federal, com a redação dada pela Emenda Constitucional nº 32, combinado com o art. 12 da Resolução nº 1, de 2002-CN, promulgo a seguinte Lei:
