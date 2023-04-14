@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por GEAP AUTOGESTAO EM SAUDE, contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 22/11/2022.
+Concluso ao gabinete em: 04/04/2023.
+Ação: de obrigação de fazer c/c danos morais ajuizada por VALDETE PINHO RODRIGUES em face da agravante, visando o fornecimento do medicamento AVELUMABE (BAVENCIO) para tratamento de câncer de rim metastático para o fígado.
+Sentença: julgou procedente a demanda para condenar a agravante no fornecimento da medicação prescrita bem como no pagamento de compensação por danos morais no valor de R$ 10.000,00.
+Acórdão: negou provimento ao recurso da agravante, nos termos da seguinte ementa:
+AGRAVO INTERNO. APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. PLANO DE SAÚDE. RECUSA DE COBERTURA PARA O FORNECIMENTO DO MEDICAMENTO PRESCRITO PELO MÉDICO. ROL DA ANS. PRELIMINAR DE DIALETICIDADE AFASTADA. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM O ENTENDIMENTO DOMINANTE DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+Recurso especial: alega violação dos arts. 10 da Lei 9656/98 e 421 e 422 do CC. Sustenta a legalidade da exclusão de cobertura de medicamento não previsto no rol de coberturas obrigatórias editado pela ANS, de natureza taxativa, ou no contrato firmado entre as partes.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da obrigação de a operadora custear o tratamento de doença coberta pelo contrato de plano de saúde
+A Corte de origem decidiu que a se a cobertura encontra amparo em cláusulas contratuais, é abusiva a restrição pelo plano de saúde no custeio do tratamento prescrito.
+Em consulta ao bula"rio da Anvisa, verifica-se que o medicamento obteve o devido registro em 04/06/2018 (Registro nº 100890403) https://consultas.anvisa.gov.br/#/medicamentos/25351423162201735/.
+Nessa toada, o acórdão recorrido está em harmonia com a jurisprudência desta Corte, no sentido de que "é abusiva a recusa da operadora do plano de saúde de custear a cobertura do medicamento registrado na ANVISA e prescrito pelo médico do paciente, ainda que se trate de fármaco off-label, ou utilizado em caráter experimental" (AgInt no AREsp 1.653.706/SP, Terceira Turma, julgado em 19/10/2020, DJe 26/10/2020; AgInt no AREsp 1.677.613/SP, Terceira Turma, julgado em 28/09/2020, DJe 07/10/2020; AgInt no REsp 1.680.415/CE, Quarta Turma, julgado em 31/08/2020, DJe 11/09/2020; AgInt no AREsp 1.536.948/SP, Quarta Turma, julgado em 25/05/2020, DJe 28/05/2020), especialmente porque, na hipótese, o medicamento se mostrava imprescindível à conservação da vida e saúde do beneficiário.
+Ademais, verifica-se que, segundo informa o laboratório detentor do registro do Bavencio (nome comercial do Avelumabe) na bula do paciente registrada na Anvisa, o medicamento é indicado para o tratamento de carcinoma de células renais, entre outros.
+No âmbito da Segunda Seção do STJ, o entendimento é de que há obrigatoriedade de fornecimento de medicamento antineoplásico oral, como se destaca dos seguintes precedentes: REsp 1.883.654/SP, 4ª Turma, DJe 02/08/2021; REsp 1.692.938/SP, 3ª Turma, DJe 04/05/2021; AgInt no REsp 1.911.407/SP, 3ª Turma, DJe 24/05/2021; AgInt no REsp 1.889.213/SP, 3ª Turma, DJe 29/10/2020.
+Registre-se, por relevante, que a Lei 14.307, de 03/03/2022, tornou obrigatória a cobertura de medicamentos antineoplásicos no âmbito da saúde suplementar, em conformidade com a prescrição médica, desde que os medicamentos utilizados estejam registrados no órgão federal responsável pela vigilância sanitária, com uso terapêutico aprovado para essas finalidades.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. FORNECIMENTO DE MEDICAMENTO ANTINEOPLÁSICO. MEDICAMENTO REGISTRADO NA ANVISA. TRATAMENTO DE CÂNCER. RECUSA DE COBERTURA INDEVIDA.
+1. Ação de obrigação de fazer visando o fornecimento de medicamento antineoplásico.
+2. Segundo a jurisprudência do STJ, "é abusiva a recusa da operadora do plano de saúde de custear a cobertura do medicamento registrado na ANVISA e prescrito pelo médico do paciente, ainda que se trate de fármaco off-label, ou utilizado em caráter experimental" (AgInt no AREsp 1.653.706/SP, Terceira Turma, julgado em 19/10/2020, DJe 26/10/2020; AgInt no AREsp 1.677.613/SP, Terceira Turma, julgado em 28/09/2020, DJe 07/10/2020; AgInt no REsp 1.680.415/CE, Quarta Turma, julgado em 31/08/2020, DJe 11/09/2020; AgInt no AREsp 1.536.948/SP, Quarta Turma, julgado em 25/05/2020, DJe 28/05/2020), especialmente na hipótese em que se mostra imprescindível à conservação da vida e saúde do beneficiário.
+3. Considera-se abusiva a negativa de cobertura de medicamentos para o tratamento de câncer. Precedentes de ambas as Turmas que compõe a 2ª Seção do STJ.
+4 . Agravo conhecido. Recurso especial conhecido e desprovido.
