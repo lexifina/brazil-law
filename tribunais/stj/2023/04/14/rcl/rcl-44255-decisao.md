@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de reclamação, com pedido de liminar, proposta por JOÃO PAULO GONÇALVES VIEIRA, contra decisão proferida pelo Juiz de Direito do Juizado Especial da Comarca de Cataguases/MG que teria confrontado a determinação desta Corte Superior no IAC 14 no sentido de que os juízos estaduais de ações que versem sobre fornecimento de medicamentos não incluído nas políticas públicas, mas devidamente registrado na ANVISA, abstenham-se de qualquer ato de declinação de competência até final julgamento do incidente.
+O reclamante sustenta, em síntese, que, no dia 19/10/2022, o Juízo Reclamado, mesmo após a suscitação de conflito de competência pelo Juízo Federal, negou-se a decidir sobre pedido urgente formulado pelo autor na Justiça Estadual (fl. 10 e-STJ).
+Requer a procedência da Reclamação e a concessão de medida liminar.
+Deferida a liminar às fls. 242/245 e-STJ.
+O juiz de direito do Juizado Especial da Fazenda Pública da Comarca de Cataguases/MG prestou informações às fls. 254/259 e-STJ.
+A União apresentou manifestação às fls. 264/267 e-STJ.
+O Estado de Minas Gerais apresentou contestação às fls. 302/316 e-STJ pugnando pelo não conhecimento da Reclamação ou a improcedência dos pedidos.
+O Ministério Público Federal, no parecer de fls. 320/324 e-STJ, opina pela procedência da Reclamação.
+É o relatório. Passo a decidir.
+Conforme consta da decisão que apreciou o pedido liminar, a Reclamação tem cabimento quando proposta pela parte interessada ou pelo Ministério Público para preservar a competência do Superior Tribunal de Justiça ou para garantir a autoridade das suas decisões (arts. 105, I, "f", da CF/88 e 187 do RISTJ).
+Por outro lado, o Código de Processo Civil de 2015 estabeleceu as hipóteses de cabimento de reclamação:
+Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+I - preservar a competência do tribunal;
+II - garantir a autoridade das decisões do tribunal;
+III - garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade;
+IV - garantir a observância de enunciado de súmula vinculante e de precedente proferido em julgamento de casos repetitivos ou em incidente de assunção de competência.
+IV - garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência.
+A presente Reclamação tem como objetivo reformar o acórdão reclamado a fim de que o juízo estadual se abstenha de praticar qualquer ato de declinação de competência até final julgamento do IAC 14/STJ, nos termos definidos em Questão de Ordem suscitada no incidente.
+No que diz respeito à matéria versada nos autos que deram origem à presente Reclamação, impende destacar que a Primeira Seção desta Corte Superior afetou os Conflitos de Competência n. 187.276/RS, n. 187.533/SC e n. 188.002/SC à sistemática do Incidente de Assunção de Competência (IAC 14), nos termos do art. 947 do Código de Processo Civil/2015.
+A discussão submetida a julgamento foi definida nos seguintes termos:
+Tratando-se de medicamento não incluído nas políticas públicas, mas devidamente registrado na ANVISA, analisar se compete ao autor a faculdade de eleger contra quem pretende demandar, em face da responsabilidade solidária dos entes federados na prestação de saúde, e, em consequência, examinar se é indevida a inclusão da União no polo passivo da demanda, seja por ato de ofício, seja por intimação da parte para emendar a inicial, sem prévia consulta à Justiça Federal.
+A propósito, a ementa do julgado de afetação:
+PROCESSUAL CIVIL. INCIDENTE DE ASSUNÇÃO DE COMPETÊNCIA. DIREITO À SAÚDE. MEDICAMENTO NÃO INCORPORADO AO SUS E REGISTRADO NA ANVISA. CONFLITO NEGATIVO DE COMPETÊNCIA. JUÍZOS FEDERAL E ESTADUAL. PROPOSTA. ACOLHIMENTO.
+1. Trata-se de proposta de incidente de assunção de competência, nos termos do art. 947 do Código de Processo Civil/2015, em conflito negativo de competência instaurado nos autos de ação ordinária que versa sobre o fornecimento de medicação não padronizada pelo Sistema Único de Saúde - SUS.
+2. A instauração do presente incidente visa unicamente decidir o juízo competente para o julgamento de demanda relativa à dispensação de tratamento médico não incluído nas políticas públicas, sendo o conflito de competência o processo adequado para dirimir a questão de direito processual controvertida, sem que haja necessidade de adentrar no mérito da causa (onde suscitado o conflito) - ainda que a discussão se refira a preliminar, como, no caso, a legitimidade ad causam - nem em eventual nulidade da decisão do Juízo Federal, matérias que devem ser analisadas no bojo da ação ordinária.
+3. Delimitação da tese controvertida: Tratando-se de medicamento não incluído nas políticas públicas, mas devidamente registrado na ANVISA, analisar se compete ao autor a faculdade de eleger contra quem pretende demandar, em face da responsabilidade solidária dos entes federados na prestação de saúde, e, em consequência, examinar se é indevida a inclusão da União no polo passivo da demanda, seja por ato de ofício, seja por intimação da parte para emendar a inicial, sem prévia consulta à Justiça Federal.
+4. Proposta de julgamento do tema mediante a sistemática do incidente de assunção de competência acolhida.
+(IAC no CC n. 187.276/RS, relator Ministro Gurgel de Faria, Primeira Seção, julgado em 31/5/2022, DJe de 13/6/2022.)
+Posteriormente, a Primeira Seção deliberou por unanimidade que, até o julgamento definitivo do IAC n. 14, devem os juízos estaduais se abster da prática de atos judiciais de declinação de competência nas ações que versem sobre provisão de fármacos e tratamentos médicos, em observância ao princípio da segurança jurídica, de modo que o processo deve prosseguir na jurisdição estadual que fica designada para decidir, em caráter provisório, as medidas urgentes referentes aos respectivos processos, nos termos do art. 955 do CPC/2015.
+Assim sendo, verifica-se que, no caso dos autos, o acórdão reclamado foi proferido posteriormente ao referido IAC, motivo pelo qual é possível concluir que houve desrespeito à autoridade deste Tribunal Superior nos termos do que foi determinado no IAC 14.
+No mesmo sentido, os seguintes julgados: Rcl n. 45.117, Ministra Regina Helena Costa, DJe de 27/03/2023; Rcl n. 44.398, Ministro Herman Benjamin, DJe de 23/03/2023; Rcl n. 44.055/MG, Ministro Gurgel de Faria, DJe de 22.03.2023; Rcl n. 44.499, Ministro Humberto Martins, DJe de 21/03/2023.
+Posto isso, nos termos do art. 34, XVIII, do Regimento Interno desta Corte, JULGO PROCEDENTE a presente Reclamação, confirmando a liminar, para cassar a decisão reclamada e determinar o prosseguimento do feito no Juízo Estadual, nos termos expostos.
+Publique-se e intimem-se com urgência.
+EMENTA
+PROCESSUAL CIVIL. RECLAMAÇÃO. DIREITO À SAÚDE. FORNECIMENTO DE MEDICAMENTO NÃO INCORPORADO AO SUS E REGISTRADO NA ANVISA. JUÍZO ESTADUAL QUE CONCLUIU PELA NECESSIDADE DE INCLUSÃO DA UNIÃO FEDERAL NO POLO PASSIVO DA DEMANDA. DECLINAÇÃO DE COMPETÊNCIA AO JUÍZO FEDERAL. IAC 14/STJ PENDENTE DE JULGAMENTO. DETERMINAÇÃO AO JUÍZO ESTADUAL DE SE ABSTER DE PRATICAR QUALQUER ATO JUDICIAL DE DECLINAÇÃO DE COMPETÊNCIA. RECLAMAÇÃO JULGADA PROCEDENTE.
