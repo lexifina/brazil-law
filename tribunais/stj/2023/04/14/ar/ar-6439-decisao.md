@@ -1,0 +1,5 @@
+DECISÃO
+Conforme decidido pela 2ª Seção do STJ, o autor, pela improcedência unânime da ação rescisória que interpôs, foi condenado ao pagamento da multa prevista no art. 968, II, do CPC/2015, não alcançada pelo benefício da assistência judiciária gratuita (e-STJ fl. 264).
+Às e-STJ fls. 305/307, SEGURADORA LÍDER DO CONSÓRCIO DO SEGURO DPVAT SA pleiteia a intimação do autor para "acostar aos autos a guia e o respectivo comprovante de pagamento do depósito de 5% sobre o valor da causa e, sendo comprovado, requer a expedição de alvará e transferência eletrônica dos valores depositados para a conta bancária da SEGURADORA LÍDER DO CONSÓRCIO DO SEGURO DPVAT S. A, CNPJ: 09.248.608/0001-04, Agência: 1912-7, Conta: 64.4000-2, Banco do Brasil, conforme previsto no art. 974, parágrafo único, do CPC."
+Forte nessas razões, determino a intimação do autor para que comprove o pagamento da aludida multa bem como defiro a expedição do alvará e/ou transferência eletrônica de valores em nome da ré, conforme requerido.
+Após, ao arquivo.
