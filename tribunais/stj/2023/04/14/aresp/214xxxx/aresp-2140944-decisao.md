@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo interposto por OI S/A, contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no art. 105, inc. III, alínea "a", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado do Paraná assim ementado:
+"AGRAVO DE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA - EMPRESA OI S.A. EM RECUPERAÇÃO JUDICIAL - IRRESIGNAÇÃO COM OS CÁLCULOS - DECISÃO QUE NÃO RECONHECEU A IRREGULARIDADE - INSURGÊNCIA -ALEGAÇÃO DE QUE A ATUALIZAÇÃO DA DÍVIDA DEVE SER REALIZADA SOMENTE ATÉ A DATA DE AJUIZAMENTO DA RECUPERAÇÃO JUDICIAL -PERTINÊNCIA - JURISPRUDÊNCIA DESTE TRIBUNAL - ARTIGO 59 DA LEI 11.101/05 - (2) - INSATISFAÇÃO QUANTO À COMPLEMENTAÇÃO DAS AÇÕES EMPRESARIAIS E À EXISTÊNCIA DE DIVIDENDOS - IMPOSSIBILIDADE DE ANALISE DESTES PONTOS - MATÉRIAS ABARCADAS PELA COISA JULGADA, EIS QUE DECIDIDAS EM SENTENÇA E AFIRMADA EM RECURSOS COM TRÂNSITO EM JULGADO - (3) - PLEITO PELO NOVO CÔMPUTO DOS JUROS DEMORA, EIS QUE REALIZADOS A PARTIR DE DATA EQUIVOCADA - VERIFICADO O ERRO CONTÁBIL - SENTENÇA QUE DETERMINOU A INCIDÊNCIA DE JUROS MORATÓRIOS A PARTIR DA CITAÇÃO - CÁLCULO QUE SE BASEOU, TAMBÉM, EM DATA DIVERSA DA CITAÇÃO - NECESSIDADE DE PRODUÇÃO DE NOVOS CÁLCULOS OBSERVADAS AS ESPECIFICAÇÕES CONTIDAS NA SENTENÇA, SOB A SUPERVISÃO DO JUÍZO - A QUO - DECISÃO REFORMADA - RECURSO PARCIALMENTE PROVIDO" (e-STJ fl. 45)
+Opostos embargos de declaração, foram rejeitados (fls. 77/84, e-STJ).
+Nas razões do especial (fls. 91/100, e-STJ), a recorrente alega violação do artigo 1.022, II, do CPC/2015, ao argumento de existir omissão na apreciação de pontos específicos que determinaram a homologação de laudo pericial equivocado.
+Sustenta que houve omissão na medida em que não consideraram a argumentação exposta a respeito da participação das empresas incorporadas, bem como a inadequação do critério adotado para a apuração dos dividendos.
+Apresentadas as contrarrazões, o recurso foi inadmitido. Daí o presente agravo no qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação não merece acolhimento.
+Registra-se que a negativa de prestação jurisdicional nos embargos declaratórios somente se configura quando, na apreciação do recurso, o Tribunal de origem insiste em omitir pronunciamento sobre questão que deveria ser decidida, e não foi.
+Não é o caso dos autos.
+O recorrente alega a existência de omissão na conclusão do julgado sobre a alegação de que deve ser eliminado do cálculo o valor referente à indenização pelas empresas incorporadas e a apontada inadequação do critério adotado para a apuração dos dividendos, uma vez que somente podem ser computados até a data da cotação utilizada como parâmetro para a conversão em indenização.
+Todavia, consta do acórdão que
+"Afirma que foi condenada a complementar as ações das empresas: Telesc, Telemat, Telems, Telegoiás, Telebrasília,Teleron, Teleacre e CTMR, que, todavia, são empresas distintas, com históricos, reflexos e grupamentos nomercado acionário próprio, assim, corolário lógico, trata-se de indenização das ações a ser complementada dacompanhia TELEPAR CELULAR.
+Por fim, discorda do procedimento adotado para a apuração dos dividendos, na medida em que "tendo em vista que as ações foram indenizadas pelo valor na data da integralização (03/07/1995), a partir desta data o Autor não tem mais direito às ações, assim, não sendo possuidor das mesmas, não há dividendos a serem pagos, pois estes são provenientes do número de ações" (Mov. 1.1/TJPR, p. 10. grifei).
+Vejamos como restou decidido em sentença:
+"Pelo exposto, julgo procedente o pedido dos autores para condenar a ré acomplementar a diferença das ações emitidas por força dos contratos, ou na impossibilidade, a pagar perdas e danos correspondentes às ações não emitidas na data da integralização do capital e aos dividendos, bonificações e juros sobre o capital próprio, apurados no balancete do mês respectivo. Correção monetária desde a data em que o valor deveria ter sido creditado aos autores e juros de mora de 1,0% (Mov. 1.8) ao mês contados da citação"
+Como se observa, os temas clamados foram decididos em sentença. Assim, embora apresente tais irresignações, algumas destas matérias (complementação das ações, juros de mora e pagamento dos dividendos) já foram alcançadas pela coisa julgada, não mais podendo serem discutidas, eis que a necessidade de pagamento e a forma de cálculo foi anteriormente determinada, em sede de Sentença, a qual, embora apelada, restou incólume (Mov. 1.16,p. 18), tendo devidamente transido em julgado após a negativa do recurso especial, conforme se observa do Mov.1.16, p. 127.
+Assim, impossível que em sede de cumprimento de sentença a parte insurgente procure alterar decisão que já restou devidamente transita em julgado, tornando impossível o acolhimento do pleito referente à complementação das ações e pagamento dos dividendos" (fl. 47/48, e-STJ).
+E, em sede de embargos de declaração, a Corte de origem ressaltou que:
+"Ao contrário, do que se depreende dos autos, a motivação dos presentes declaratórios se limita amera irresignação da parte com o resultado exarado pela corte julgadora, opondo a presente alternativa recursal com subversão de seu cabimento para eventualmente alterar o resultado do acórdão pela reanálise da matéria controvertida, após ter, o julgado, expressamente se manifestado (..):
+"Como se observa, os temas clamados foram decididos em sentença.
+Assim, impossível que em sede de cumprimento de sentença a parte insurgente procure alterar decisão que já restou devidamente transita em julgado, tornando impossível o acolhimento do pleito referente à complementação das ações e pagamento dos dividendos" (fl. 80, e-STJ).
+Com efeito, as instâncias ordinárias enfrentaram a matéria posta em debate na medida necessária para o deslinde da controvérsia, não havendo falar em negativa de prestação jurisdicional.
+A propósito:
+"PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 03/STJ.
+SERVIDOR PÚBLICO FEDERAL. VIOLAÇÃO DOS ARTIGOS 489 E 1.022 DO CPC/2015. INOCORRÊNCIA. VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS.
+ANÁLISE. IMPOSSIBILIDADE. INOVAÇÃO EM SEDE DE AGRAVO INTERNO. IMPOSSIBILIDADE. REENQUADRAMENTO FUNCIONAL. PRESCRIÇÃO DO FUNDO DE DIREITO. ATO CONCRETO. ACÓRDÃO RECORRIDO EM SINTONIA COM A JURISPRUDÊNCIA DO STJ. CONTROVÉRSIA QUE EXIGE ANÁLISE DE PORTARIA. MATÉRIA INSUSCETÍVEL DE APRECIAÇÃO EM RECURSO ESPECIAL. HONORÁRIOS SUCUMBENCIAIS. TITULARIDADE DO ADVOGADO PÚBLICO. LEI 13.327/2016. AGRAVO INTERNO NÃO PROVIDO.
+1. Inexiste violação aos artigos 489 e 1.022 do CPC/2015, quando não se vislumbra omissão, obscuridade ou contradição no acórdão recorrido capaz de torná-lo nulo, especialmente se o Tribunal a quo apreciou a demanda de forma clara e precisa.
+2. É vedado, em sede de agravo interno, ampliar-se o objeto do recurso especial, aduzindo-se questões novas, não suscitadas no momento oportuno, em virtude da ocorrência da preclusão consumativa.
+3. A prescrição da pretensão, por ser de reenquadramento funcional, atinge o próprio fundo de direito e está em sintonia com a jurisprudência firmada no âmbito deste e. STJ.
+4. A via especial é inadequada para análise de Portarias, Resoluções, Regimentos, ou qualquer outro tipo de norma que não se enquadre no conceito de Lei Federal.
+5. Os honorários advocatícios de sucumbência das causas em que forem parte a União, as autarquias e as fundações públicas federais pertencem ao advogado público.
+6. Agravo interno não provido" (AgInt no AREsp 801.104/DF, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 04/10/2016, DJe 13/10/2016 - grifou-se).
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Deixo de fixar os honorários recursais (art. 85, § 11, do CPC/2015), haja vista que o recurso especial ao qual se negou provimento é oriundo de acórdão proferido por ocasião de julgamento de agravo de instrumento, sem fixação de honorários sucumbenciais.
+Publique-se.
+Intimem-se.
