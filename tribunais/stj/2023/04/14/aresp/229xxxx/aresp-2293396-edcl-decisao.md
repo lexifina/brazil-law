@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por VINICIUS ANTONIO MENDES DA SILVA contra a decisão que não conheceu do agravo em recurso especial em razão da ausência de impugnação dos fundamentos da decisão que inadmitiu o recurso especial, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante que (fls. 857/861):
+O Embargante teve contra si o v. Acórdão de e-STJ FL. 760/761 dos autos que não conheceu do agravo em recurso especial em seus exatos termos deixando de analisar e reconhecer o cerceamento de defesa em relação a falta de intimação do Embargante, face a r. sentença prolatada pelo douto Juízo singular, não reconhecendo ainda a aplicação do artigo 155 do Código de Processo Penal, deixando também de reconhecer a jurisprudência dominante nesse excelso Superior Tribunal de Justiça, em especial os julgados nos:
+ ..
+Eminentes Julgadores(as), causa-nos espécie verificar que o óbice da súmula aplicada na espécie não trata da matéria versada nos autos do presente processo, data vênia a egrégia 3ª Câmara Criminal do egrégio Tribunal de Justiça de Minas Gerais enfrentou aplicou entendimento desse excelso Superior Tribunal de Justiça ao analisar matéria afeta " aos artigos 3º, 14, 18, § 1º, e 32, todos da LC nº 109/2001", sendo notório que a referida Lei Complementar 109/2001 versa sobre REGIME DE PREVIDÊNCIA COMPLEMENTAR, o que não pode ser aplicado ao caso em voga.
+Destarte ter apontado a incidência da Súmula 211/STJ, em prejuízo do Embargante, contudo não se debruçou em analisar o dispositivo apontado no v.
+acórdão do egrégio Tribunal de Justiça de Minas Gerais, qual seja a fundamentação no artigo 1.030, inciso V do CPC, o que deverá ser alvo de profunda análise nesta oportunidade.
+Requer, assim, o conhecimento e o acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a retirar ambiguidade, esclarecer obscuridade, eliminar contradição e suprir omissão existentes no julgado, o que não se verifica na hipótese.
+A propósito, da análise do recurso de agravo em recurso especial observa-se que a parte agravante deixou de impugnar especificamente o fundamento da decisão agravada, conforme exigido pelo art. 253, parágrafo único, do RISTJ, a saber: Súmula 211/STJ.
+Veja-se que a refutação apta a infirmar a decisão agravada deve ser efetiva, individualizada, específica e fundamentada (AgInt no REsp n. 1.535.657/MT, relator Ministro Luís Felipe Salomão, Quarta Turma, DJe de 26/8/2020, e AgRg no RHC n. 128.660/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 24/8/2020).
+Importante registrar que o momento adequado para impugnação dos fundamentos da decisão que não admite o recurso especial é a interposição do agravo em recurso especial, sob pena de preclusão caso feita posteriormente.
+Ressalte-se que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, os EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Assim, não há nenhuma irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou ambiguidade).
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
