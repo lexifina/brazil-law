@@ -1,0 +1,67 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Terceira Seção, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Reynaldo Soares da Fonseca, Antonio Saldanha Palheiro, Joel Ilan Paciornik, Jesuíno Rissato (Desembargador Convocado do TJDFT), João Batista Moreira (Desembargador convocado do TRF1) e Laurita Vaz votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Messod Azulay Neto.
+Presidiu o julgamento o Sr. Ministro Ribeiro Dantas.
+RELATÓRIO
+Darci José Simões Peter opõe embargos de declaração ao acórdão da Sexta Turma, assim ementado (fl. 5.483):
+PROCESSO PENAL. AGRAVO REGIMENTAL EM EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. ART. 619 DO CÓDIGO DE PROCESSO PENAL. OMISSÃO. AUSÊNCIA DE SIMILITUDE FÁTICA. PRECEDENTES. INDICAÇÃO DE RECURSO ORDINÁRIO EM HABEAS CORPUS COMO PARADIGMA. DESCABIMENTO. ART. 1.043, § 1º, DO CPC. INÚMEROS PRECEDENTES.
+1. A análise da existência de omissão, contradição, ambiguidade ou obscuridade trazida a pretexto de divergência interpretativa acerca do art. 619 do Código de Processo Penal passa, necessariamente, pela verificação de todo o processo, incluindo aí as razões recursais e a natureza das alegações nela formuladas. Como cada feito possui nuances e teses próprias, fica inviabilizada a configuração da existência de similitude fática entre as situações que deram suporte à prolação dos acórdãos recorrido e paradigma, a qual constitui pressuposto de admissibilidade dos embargos de divergência.
+2. Não se admitem embargos de divergência quando o alegado dissídio é apresentado com acórdão paradigma proferido em habeas corpus, recurso ordinário em habeas corpus, recurso em mandado de segurança, mandado de injunção ou habeas data. Inúmeros precedentes, mesmo após o advento do novo Código de Processo Civil (art. 1.043, § 1º).
+3. Agravo regimental improvido.
+Nas razões, a defesa do embargante aduz, em síntese, que a decisão passada, concessa vênia aos Eminentes Ministros Relatores, passou ao largo das matérias aduzidas, especialmente quanto à violação do art. 619 do CPP. Divergência de entendimento da Sexta Turma e Terceira Seção (fls. 5.492/5.517); e quanto à violação do art. 28-A do CPP. Divergência de entendimento da Sexta Turma (fls. 5.517/5.521).
+Requer o prequestionamento das matérias apontadas à luz do Art. 5º XXXVII, XL e LIII, todos da CF/88 a fim de viabilizar o acesso a instâncias recursais no Excelso Pretório (fl. 5.521), pugnando, ao final, pelo acolhimento dos Embargos de Declaração para ver supridas as omissões e obscuridade encontradas no decisum, inclusive mediante atribuição de efeitos infringentes, ou para efeito de ter-se o prequestionamento das matérias ora tratadas que permitirão o acesso ao Excelso Pretório (fl. 5.522).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS PRECONIZADOS NO ART. 619 DO CPP. MANIFESTA IMPROCEDÊNCIA. REDISCUSSÃO. DESCABIMENTO.
+Embargos de declaração rejeitados.
+VOTO
+O acórdão não padece de nenhum dos vícios preconizados no art. 619 do Código de Processo Penal.
+Nos termos do art. 619 do Código de Processo Penal, o recurso de embargos de declaração tem fundamentação vinculada, ou seja, a parte não pode sustentar qualquer matéria referente ao seu inconformismo com a decisão prolatada.
+Também prescreve o art. 620 do mesmo diploma legal, que somente são cabíveis embargos de declaração quando existente ambiguidade, obscuridade, contradição ou omissão.
+Na hipótese, não há falar em omissão no julgado.
+Ora, o acórdão embargado manteve o indeferimento liminar dos embargos de divergência, mediante fundamentação clara e suficiente para firmar a conclusão nele estabelecida. Confira-se (fls. 5.486/5.488 - grifo nosso):
+ ..  De um lado, consoante afirmado na decisão ora impugnada, a análise da existência de omissão, trazida a pretexto de divergência interpretativa acerca do art. 619 do Código de Processo Penal, passa, necessariamente, pela verificação de todo o processo, incluindo as razões recursais e a natureza das alegações nela formuladas.
+Não há como concluir que determinado pronunciamento judicial tenha incorrido em omissão, contradição, obscuridade ou ambiguidade, sem o exame das circunstâncias fáticas da hipótese.
+Com isso, é indiscutível que a conclusão a respeito do tema emerge de cada julgamento, à luz das peculiaridades de cada caso concreto, pois, como disse na decisão impugnada, cada feito possui nuances e teses próprias, o que inviabiliza a configuração da existência de similitude fática entre as situações que deram suporte à prolação dos acórdãos recorrido e paradigma, a qual constitui pressuposto de admissibilidade dos embargos de divergência.
+Além dos precedentes outrora citados, colaciono mais estes:
+ ..
+De outro lado, também não prospera o inconformismo em relação ao art. 28- A do Código de Processo Penal.
+Isso porque, mesmo sob a vigência do novo Código de Processo Civil, o Superior Tribunal de Justiça considera inadmissível, em sede de embargos de divergência, a indicação de acórdãos proferidos em ações que possuem natureza de garantia constitucional como habeas corpus, recurso ordinário em habeas corpus, mandado de segurança, recurso ordinário em mandado de segurança, habeas data e mandado de injunção.
+Na mesma linha, cito recentes precedentes da Corte Especial:
+ ..
+Percebe-se, pois, que o embargante opõe os presentes aclaratórios em virtude, tão somente, de seu inconformismo com a decisão ora atacada, não se divisando, na hipótese, nenhum dos vícios previstos no art. 619 do Código de Processo Penal.
+Na mesma linha:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. OMISSÃO E CONTRADIÇÃO INEXISTENTES. INDEFERIMENTO LIMINAR MANTIDO. NÃO COMPROVAÇÃO DA DIVERGÊNCIA NOS MOLDES DOS ARTS. 1.043, §4º, DO CÓDIGO DE PROCESSO CIVIL - CPC/2015 E 266, §4º, DO REGIMENTO INTERNO DO SUPERIOR TRIBUNAL DE JUSTIÇA - RISTJ. ACLARATÓRIOS REJEITADOS.
+1. Os embargos de declaração são cabíveis quando houver ambiguidade, obscuridade, contradição ou omissão, a teor do art. 619 do Código de Processo Penal - CPP, hipótese não configurada nos autos.
+2. O acórdão embargado manteve o indeferimento liminar dos embargos de divergência porque não comprovado o dissídio nos termos do art. 1.043, § 4º, do Código de Processo Civil de 2015 e do art. 266, § 4º, do Regimento Interno do Superior Tribunal de Justiça.
+3. Embargos de declaração rejeitados.
+(EDcl no AgRg nos EDcl nos EREsp n. 1.916.881/PR, Ministro Joel Ilan Paciornik, Terceira Seção, DJe 28/3/2022)
+Cumpre destacar a orientação do Supremo Tribunal Federal, firmada em julgado com repercussão geral, no sentido de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões (QO no AI n. 791.292, julgado sob a relatoria do Ministro Gilmar Mendes), circunstância verificada no caso. Eis a ementa do julgado:
+ ..  Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3º e 4º). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral. Em face do exposto, rejeito os embargos de declaração.  ..
+Aliás, o que se verifica das razões dos embargos, é a tentativa do embargante de, por via oblíqua, rediscutir as conclusões do acórdão embargado, providência descabida na via eleita.
+A propósito:
+PENAL. PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. EMBARGOS REJEITADOS.
+1. Os embargos de declaração são cabíveis quando houver ambiguidade, obscuridade, contradição ou omissão, a teor do art. 619 do Código de Processo Penal - CPP, e erro material, conforme art. 1022, III, do Código de Processo Civil - CPC.
+2. Sem a demonstração das hipóteses de cabimento e evidente o propósito de rediscussão de mérito, a rejeição dos embargos de declaração é medida que se impõe.
+3. Embargos declaratórios rejeitados.
+(EDcl no AgRg nos EDcl nos EREsp n. 1.952.123/SP, Ministro Joel Ilan Paciornik, Terceira Seção, DJe 28/3/2022)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. VÍCIOS INEXISTENTES. MERA REDISCUSSÃO. HABEAS CORPUS DE OFÍCIO. POSTULAÇÃO. DESCABIMENTO.
+1. Apenas se admitem embargos de declaração quando evidenciada deficiência no acórdão recorrido com efetiva obscuridade, contradição, ambiguidade ou omissão, conforme o art. 619 do CPP, situações que não se fazem presentes
+2. Existindo fundamentação no sentido de que a ausência de impugnação específica aos fundamentos da decisão combatida atrai a incidência do art. 1.021, § 1º, do CPC e da Súmula 182 desta Corte, não se prestam os embargos de declaração para a rediscussão do aresto recorrido quando revelado mero inconformismo com o resultado do julgamento.
+3. "Nos termos do art. 654, § 2.º, do Código de Processo Penal, o habeas corpus de ofício é deferido por iniciativa dos Tribunais quando detectarem ilegalidade flagrante. Não se presta como meio para que a Defesa postule o pronunciamento judicial acerca do mérito de recurso que não ultrapassou os requisitos de admissibilidade" (AgRg no AREsp 1795241/SP, Ministra Laurita Vaz, Sexta Turma, DJe 15/4/2021).
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg nos EAREsp n. 1.780.841/PR, Ministro Olindo Menezes, Desembargador convocado do TRF 1ª Região, Terceira Seção, DJe 14/2/2022)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. EXAME DA PROVA PELA CORTE LOCAL. CONFIRMADA A MATERIALIDADE E A AUTORIA DELITIVA. ACÓRDÃO EMBARGADO QUE DECIDIU PELA IMPOSSIBILIDADE DE REVISÃO, COM APLICAÇÃO DA SÚMULA N. 07 DO SUPERIOR TRIBUNAL DE JUSTIÇA. INEXISTÊNCIA DE DISSÍDIO JURISPRUDENCIAL. EMBARGOS DE DIVERGÊNCIA LIMINARMENTE INDEFERIDOS. AGRAVO REGIMENTAL DESPROVIDO. ALEGADA OMISSÃO. VÍCIO INEXISTENTE. PRETENSÃO DE PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. IMPROPRIEDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. "A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC. Os Embargos Declaratórios não constituem instrumento adequado para a rediscussão da matéria de mérito, nem ao prequestionamento de dispositivos constitucionais com vistas à interposição de Recurso Extraordinário" (EDcl no AgInt nos EDcl nos EAREsp 1.202.915/SP, Ministro Herman Benjamin, Corte EspecialL, DJe 28/8/2019).
+2. Embargos de declaração rejeitados.
+(EDcl no AgRg nos EREsp n. 1.774.653/SP, Ministra Laurita Vaz, Terceira Seção, DJe 17/9/2021)
+Esclareço que não compete a esta Corte Superior a análise de suposta violação de dispositivo constitucional, ainda que para efeito de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal, ex vi, art. 102, III, da Constituição Federal. Veja-se o EDcl no AgRg nos EDcl nos EAREsp n. 1.604.546/PR, Ministro Messod Azulay Neto, Terceira Seção, DJe 22/2/2023.
+Diante da manifesta improcedência dos aclaratórios, cumpre advertir o embargante de que a oposição de novos embargos de declaração (manifestamente improcedentes) ensejará a aplicação dos consectários delineados na jurisprudência desta Corte Superior, a saber: baixa imediata dos autos com certificação do trânsito em julgado ou a remessa dos autos para o Supremo Tribunal Federal (na hipótese de remanescer recurso pendente de competência daquela Corte).
+Nesse sentido:
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AMBIGUIDADE, OBSCURIDADE, CONTRADIÇÃO OU OMISSÃO. INEXISTÊNCIA. RECURSO COM NÍTIDO CARÁTER PROTELATÓRIO. ABUSO DO DIREITO DE DEFESA. REMESSA DOS AUTOS AO SUPREMO TRIBUNAL FEDERAL PARA ANÁLISE DO AGRAVO EM RECURSO EXTRAORDINÁRIO PENDENTE. DETERMINAÇÃO DE BAIXA IMEDIATA DOS AUTOS PARA EXECUÇÃO DA PENA DOS DEMAIS EMBARGANTES.
+1. A mera desconformidade do embargante com a rejeição da tese que entende cabível não caracteriza omissão, porquanto insiste em rediscutir matéria que já foi devidamente rechaçada por esta Corte de Justiça em recursos anteriores.
+2. A reiteração recursal sem inovação evidencia o caráter protelatório do recurso, configurando abuso do direito de defesa.
+3. Embargos de declaração rejeitados, determinando-se a imediata remessa dos autos ao Supremo Tribunal Federal para o julgamento do agravo em recurso extraordinário de C A A e determinação da imediata baixa dos autos para execução da pena de Z D L e D F A, procedendo-se à certificação do trânsito em julgado.
+(EDcl nos EDcl no AgRg no AREsp n. 869.043/RJ, Ministro Nefi Cordeiro, Sexta Turma, DJe 11/6/2018)
+Ante o exposto, rejeito os embar gos de declaração.
