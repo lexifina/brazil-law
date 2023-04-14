@@ -1,0 +1,88 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por HAYASA COMÉRCIO E SERVIÇOS DE AUTOMOTORES LTDA. (HAYASA) contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal Fluminense, relatado pelo Des. ANTÔNIO ILOÍZIO BARROS BASTOS, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER c/c INDENIZATÓRIA. DEFEITOS EM VEÍCULO. RESPONSABILIDADE DA VENDEDORA. DANO MORAL. CONFIGURADO. MANUTENÇÃO. 1 - Ação de obrigação de fazer c/c indenizatória ajuizada em razão de aquisição de veículo para exercício de atividade laborativa com diversos defeitos. 2 - Inércia da vendedora em realizar o reparo. Prova pericial esclarecedora. 3 - Desídia da empresa demandada que viola os princípios da boa-fé e da confiança. Falha na prestação do serviço verificada. 4 - Danos morais configurados diante da indisponibilidade do bem, que seria usado para sustento do autor. 5 - Valor indenizatório fixado em valor razoável e em atenção aos princípios da proporcionalidade e da razoabilidade, à luz dos critérios aplicáveis à espécie, não merecendo a modificação pretendida pela parte ré. Aplicação da Súmula 343 deste TJRJ. 6 - Correta conversão da obrigação de fazer em perdas e danos, abrangendo as astreintes. 7 - Recurso conhecido e improvido (e-STJ, fl. 1.232).
+Os embargos de declaração opostos por HAYASA foram rejeitados (e-STJ, fls. 1.279/1.282).
+Irresignada, HAYASA interpôs recurso especial com base no art. 105, III, alínea a, da CF, apontando a violação aos arts. 497, 1.022 do NCPC, 186, 927 do CC, ao sustentar que (1) a obrigação de fazer relativa ao reparo do veículo foi tempestivamente cumprida, inexistindo imposição de astreintes; (2) não houve danos materiais, porquanto os problemas não decorreram de vícios ocultos, mas do uso constante do veículo pelo comprador na condição de motorista de aplicativo e da instalação do sistema de gás; (3) não houve dano moral, mas mero aborrecimento; (4) o valor da indenização por danos morais deve ser reduzido; e (5) o acórdão recorrido foi omisso (e-STJ, fls. 1.297/1.325).
+O recurso não foi admitido pelo Tribunal estadual (e-STJ, fls. 1.349/1.356).
+Nas razões do agravo, HAYASA alegou que não incidem os óbices (e-STJ, fls. 1.389/1.420).
+Foi apresentada contraminuta (e-STJ, fls. 1.426/1.435).
+O agravo em recurso especial não foi conhecido em decisão da Presidência do STJ, em virtude da ausência de impugnação à (1) falta de violação do art. 1.022 do NCPC; e (2) incidência da Súmula nº 7 do STJ (e-STJ, fls. 1.448/1.450).
+Nas razões do presente agravo interno, HAYASA defendeu que impugnou os fundamentos da decisão de inadmissibilidade (e-STJ, fls. 1.453/1.485).
+Não foi apresentada impugnação.
+É o relatório.
+DECIDO.
+Da reconsideração do decisum agravado
+Considerando as razões apresentadas no presente agravo interno, RECONSIDERO a decisão de e-STJ, fls. 1.448/1.450 e passo a novo exame do agravo em recurso especial interposto às e-STJ, fls. 1.389/1.420.
+Do agravo em recurso especial
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+(5) Da alegação genérica de violação ao art. 1.022, do NCPC
+Nas razões do seu recurso, HAYASA alegou a violação do art. 1.022, do NCPC em virtude de omissão quanto a ponto relevante.
+Contudo, não houve a indicação das teses omitidas, contraditórias ou obscuras, em evidente alegação genérica de contrariedade ao referido dispositivo.
+Nestes casos, ante a deficiente fundamentação do recurso, incide a Súmula 284 do STF, por analogia: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Esse é o entendimento desta Corte, confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO C/C REPARAÇÃO DE DANOS MORAIS. 1. OFENSA AO ART. 1.022. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. 2. EXISTÊNCIA DE RELAÇÃO JURÍDICA E EXIGIBILIDADE DO DÉBITO COMPROVADOS. EQUÍVOCO NO VALOR. DANO MORAL NÃO CARACTERIZADO. ALTERAÇÃO. SÚMULA N. 7/STJ. 3. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356/STF. 4. LITIGÂNCIA DE MÁ-FÉ. NÃO OCORRÊNCIA. 5. AGRAVO INTERNO IMPROVIDO.
+1. É deficiente a fundamentação do recurso especial em que a alegação de violação ao art. 1.022 do CPC/2015 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão tornou-se omisso, contraditório ou obscuro. Aplica-se ao caso o óbice da Súmula 284/STF.
+2. O Tribunal estadual, ao dirimir a controvérsia, concluiu pela exclusão da anotação restritiva no nome da recorrente. Para acolher a pretensão recursal (quanto à existência de relação jurídica, a impossibilidade de declaração da inexigibilidade do débito e a não configuração de dano moral), demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra impossível dada a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+3. O prequestionamento ocorre quando a causa tiver sido decidida à luz da legislação federal indicada, com emissão de juízo de valor acerca dos respectivos dispositivos legais, interpretando-se sua aplicação ou não ao caso concreto, o que não se deu na presente hipótese.
+4. A interposição de recursos cabíveis não implica litigância de má-fé nem ato atentatório à dignidade da justiça, ainda que com argumentos reiteradamente refutados pelo Tribunal de origem ou sem alegação de fundamento novo.
+5. Agravo interno improvido.
+(AgInt no AREsp 1.949.215/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. em 21/02/2022, DJe 23/02/2022)
+Não se conhece, portanto, da violação ao art. 1.022, do NCPC.
+(2) (3) e (4) Do descumprimento da obrigação de fazer e dos danos morais
+HAYASA afirmou a violação dos arts. 497 do NCPC, 186 e 927 do CC, ao sustentar que (1) a obrigação de fazer relativa ao reparo do veículo foi tempestivamente cumprida, inexistindo imposição de astreintes; (2) não houve danos materiais, porquanto os problemas não decorreram de vícios ocultos, mas do uso constante do veículo pelo comprador na condição de motorista de aplicativo e da instalação do sistema de gás; e (3) não houve dano moral, mas mero aborrecimento.
+Sobre o tema o Tribunal estadual consignou que (1) a grande maioria dos vícios decorreu de colisão anterior à aquisição; (2) os vícios não foram reparados; e (3) foi caracterizado o abalo moral, decorrente da essencialidade do bem para o trabalho do comprador, confira-se:
+Insiste a parte ré, ora apelante, em afirmar acerca da realização de todos os consertos no automóvel, na contramão da conclusão da prova pericial. A apelante não sanou os vícios do automóvel. Por esta razão, correta a manutenção da multa, bem como sua conversão em perdas e danos, pois a apelante, repita-se, não conseguiu realizar todos os consertos dos quais o veículo necessitava.
+Restou claro por todo momento processual que não se tratava de desgaste natural, mas decorrente de colisão anteriormente sofrida pelo bem.
+E o apelado apontou os defeitos apresentados após a aquisição, não sendo de antemão conhecidos. São vícios ocultos.
+Não se houve a apelante com boa-fé contratual, pois ocultou no momento da venda os vícios do bem. Isso foi bem delineado pelo Sr. Perito às fls. 520, no item da conclusão:  ..  E os defeitos apresentados não são, pela leitura atenta do laudo, salvo em pequena parte da infiltração de água, pela instalação do GNV.
+Prosseguindo, seja em função da essencialidade do bem defeituoso nos dias atuais, principalmente no caso em apreço, utilizado como ferramenta de trabalho, seja pela necessidade de ajuizamento da presente demanda para que fosse sanado o imbróglio, deve, assim, o autor ser compensado pela perda de tempo útil, bem como todos os transtornos que lhe foram causados, não sendo admissível prevalecer a ideia de que sofrer a má qualidade da prestação dos serviços faz parte dos aborrecimentos cotidianos dos consumidores (e-STJ, fls. 1.234/1.235).
+Assim, rever as conclusões quanto ao descumprimento da obrigação, quanto à responsabilidade da vendedora pelos vícios ocultos e quanto aos danos morais demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula nº 7 do STJ.
+Nesse sentido, confira-se a jurisprudência desta Corte:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO ORDINÁRIA DE RESTITUIÇÃO DE VALORES C/C PERDAS E DANOS. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AOS ARTS. 458 E 535 DO CPC/1973. CERCEAMENTO DE DEFESA, DANO MORAL E CUMPRIMENTO DO PRAZO LEGAL. REVISÃO. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. RESPONSABILIDADE SOLIDÁRIA DA CONCESSIONÁRIA E DO FABRICANTE DE AUTOMÓVEIS. AUSÊNCIA DE REPARO DO VÍCIO EM VEÍCULO ZERO NO PRAZO LEGAL. RESTITUIÇÃO DO PREÇO PAGO. FACULDADE DO CONSUMIDOR. ART. 18, § 1º, DO CDC. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83 DO STJ. FALTA DE IMPUGNAÇÃO A FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA N. 182 DO STJ. VALOR DO DANO MORAL. INDICAÇÃO DO DISPOSITIVO LEGAL SUPOSTAMENTE VIOLADO NÃO VERIFICADA. SÚMULA N. 284 DO STF. JUROS DE MORA. DEFICIÊNCIA DE FUNDAMENTAÇÃO DO RECURSO. SÚMULA N. 284 DO STF. DECISÃO MANTIDA.
+1. Inexiste afronta aos arts. 458 e 535 do CPC/1973 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+3. No caso concreto, o Tribunal de origem concluiu pela inexistência de cerceamento de defesa, presença de dano moral e descumprimento do prazo legal para o conserto do veículo. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+4. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n. 83/STJ).
+5. O entendimento do STJ é de que a responsabilidade entre a concessionária e a fabricante de veículos por defeitos no automóvel - vício do produto - é solidária. Precedente.
+6. Segundo orientação jurisprudencial desta Corte, conforme disposto no art. 18, § 1º, do CDC, no caso de o vício de qualidade não ser sanado no prazo de 30 (trinta) dias, cabe ao consumidor, independentemente de justificativa, optar pela substituição do bem, pela restituição do preço, ou pelo abatimento proporcional.
+Precedente.
+7. É inviável o agravo previsto no art. 1.021 do CPC/2015 que deixa de atacar especificamente os fundamentos da decisão agravada (Súmula n. 182/STJ).
+8. O conhecimento do recurso especial exige a indicação dos dispositivos legais supostamente violados. Ausente tal requisito, incide a Súmula n. 284/STF.
+9. Considera-se deficiente, a teor da Súmula n. 284 do STF, a fundamentação recursal que alega violação de dispositivo legal cujo conteúdo jurídico é dissociado da tese defendida no recurso especial.
+10. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.540.388/SC, relator Ministro ANTONIO CARLOS FERREIRa, Quarta Turma, j. em 30/5/2019, DJe de 10/6/2019.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. COMPRA DE VEÍCULO USADO QUE APRESENTOU DEFEITOS. 1. VIOLAÇÃO DOS ARTS. 458, II, E 535, II, DO CPC. NÃO OCORRÊNCIA. 2. INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. ALEGAÇÃO DE AUSÊNCIA DE FALHA NA PRESTAÇÃO DO SERVIÇO E NECESSIDADE DE REDUÇÃO DO QUANTUM INDENIZATÓRIO. REEXAME DE PROVAS. DESCABIMENTO. SÚMULA N. 7 DO STJ. 3. JUROS DE MORA. RESPONSABILIDADE CONTRATUAL. INCIDÊNCIA A PARTIR DA CITAÇÃO. SÚMULA N. 83 DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não viola os arts. 458, II, e 535, II, do CPC o acórdão que, integrado pelo julgamento proferido nos embargos de declaração, se pronuncia de forma suficiente para a solução da controvérsia deduzida nas razões recursais.
+2. Impossível a revisão do julgado quanto ao dever de indenizar bem como em relação ao quantum indenizatório, se tal procedimento demanda o reexame do conjunto fático-probatório dos autos.
+Incidência da Súmula 7 do STJ.
+3. Os juros de mora sobre o valor da indenização, em se tratando de responsabilidade contratual, devem incidir a partir da citação.
+Precedentes. Súmula n. 83 do STJ.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 618.917/RJ, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. em 5/3/2015, DJe de 12/3/2015.)
+O recurso, portanto, não merece ser conhecido quanto ao ponto.
+(4) Do valor dos danos morais
+Na linha dos entes desta Corte, o valor fixado a título de compensação por danos morais somente pode ser reduzido quando manifestamente abusivo.
+Nesse sentido, confiram-se os seguintes julgados:
+RECURSO ESPECIAL. DIREITO CIVIL. RESPONSABILIDADE CIVIL. AÇÃO INDENIZATÓRIA. DANOS MORAIS. MATÉRIA JORNALÍSTICA. PROGRAMAS DE TELEVISÃO. IMAGENS OBTIDALS POR CÂMERA OCULTA. VIDA COTIDIANA. DIREITO À PRIVACIDADE. PRÁTICA DE CRIME. EMISSÃO DE JUÍZO DE VALOR CONDENATÓRIO. ANTECIPAÇÃO INDEVIDA. CONTEÚDO SENSACIONALISTA. DEVER DE INDENIZAR. DANOS MORAIS. VALOR. RAZOABILIDADE. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Cinge-se a controvérsia a discutir a responsabilidade civil por dano à imagem e à honra do autor em virtude da veiculação de matérias jornalísticas em programas televisivos da emissora ré.
+3. Os direitos à informação e à livre manifestação do pensamento, apesar de merecedores de relevante proteção constitucional, não possuem caráter absoluto, encontrando limites em outros direitos e garantias constitucionais não menos essenciais à concretização da dignidade da pessoa humana, tais como o direito à honra, à intimidade, à privacidade e à imagem.
+4. No desempenho da nobre função jornalística, o veículo de comunicação não pode descuidar de seu compromisso ético com a veracidade dos fatos narrados nem assumir postura injuriosa ou difamatória com o simples propósito de macular a honra de terceiros.
+5. Na hipótese, as matérias jornalísticas imputaram ao autor uma condenação prévia, quando sequer havia sido julgado. Na verdade, referidas matérias continham teor sensacionalista, explorando exclusivamente a vida contemporânea do autor, sem estabelecer relação com os eventos apurados na esfera criminal.
+6. O Superior Tribunal de Justiça, afastando a incidência da Súmula nº 7/STJ, tem reexaminado o montante fixado pelas instâncias ordinárias a título de danos morais apenas quando irrisório ou abusivo, circunstâncias inexistentes no presente caso.
+7. Recurso especial não provido.
+(REsp 1.550.966/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. em 02/06/2020, DJe 04/06/2020 - sem destaque no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. RELAÇÃO DE CONSUMO. DEVER DE TRANSPORTE SEGURO. RESPONSABILIDADE OBJETIVA. DANO COMPROVADO. DANO MORAL CONFIGURADO. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. As conclusões do acórdão recorrido sobre a inexistência de causas excludentes da ilicitude na hipótese vertente, e existência do ato ilícito apto a gerar o dever de indenizar; não podem ser revistas por esta Corte Superior, pois demandaria, necessariamente, reexame de fatos e provas dos autos, o que é vedado em razão do óbice da Súmula 7 do STJ.
+2. A revisão da indenização por danos morais só é possível em recurso especial quando o valor fixado nas instâncias locais for exorbitante ou ínfimo, de modo a afrontar os princípios da razoabilidade e da proporcionalidade. Ausentes tais hipóteses, incide o óbice da Súmula 7 do STJ, a impedir o conhecimento do recurso.
+3. Majoração de honorários advocatícios nos termos do art. 85, § 11, do CPC de 2015.
+4. Agravo interno não provido.
+(AgInt no AREsp 1.325.664/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. em 15/06/2020, DJe 18/06/2020 - sem destaque no original)
+No caso dos autos, considerando as peculiaridades do caso concreto, em que os defeitos do veículo, essencial ao trabalho do comprador, não foram reparados, não se mostra exorbitante o valor da indenização mantido pelo Tribunal Fluminense em R$ 15.000,00 (quinze mil reais).
+Nessas condições, DOU PROVIMENTO ao agravo interno para reconsiderar a decisão agravada e, em nova análise, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+MAJORO os honorários advocatícios anteriormente fixados em desfavor de HAYASA em 5%, nos termos do art. 85, § 11, do NCPC.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação das penalidades fixadas nos arts. 1.021, §4º ou 1.026, §2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM PEDIDO INDENIZATÓRIO. COMPRA E VENDA DE VEÍCULO. VÍCIOS OCULTOS. VIOLAÇÃO DO ART. 1.022 DO NCPC. OMISSÃO. NÃO INDICAÇÃO. OBRIGAÇÃO DE FAZER. DESCUMPRIMENTO. VÍCIOS OCULTOS. DANOS MORAIS. REEXAME DE FATOS E PROVAS. INVIABILIDADE. SÚMULA Nº 7 DO STJ. VALOR INDENIZATÓRIO. ABUSIVIDADE. INOCORRÊNCIA. AGRAVO INTERNO PROVIDO. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
