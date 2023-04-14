@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que negou seguimento ao recurso especial, impugnando acórdão assim ementado:
+EMENTA: AGRAVO INTERNO - ASSISTÊNCIA JUDICIÁRIA - PESSOA FÍSICA - AUSÊNCIA DE DEMONSTRAÇÃO DA ALEGADA MISERABILIDADE JURÍDICA - REVOGAÇÃO DO BENEFÍCIO - DECISÃO MANTIDA. - A gratuidade de justiça não deve ser concedida quando não houver demonstração bastante da miserabilidade jurídica e, principalmente, quando houver indícios de capacidade financeira. - Não comprovada a situação de hipossuficiência financeira, deve ser mantida a decisão que revogou o benefício da gratuidade de justiça concedido à parte.
+Sustenta o agravante, nas razões de recurso especial, ofensa aos artigos 98 e 99 do Código de Processo Civil e 5º, caput, da Lei 1.060/50. Alega que deveria lhe ser concedido o benefício da Justiça gratuita no caso. Afirma que "Razão não assiste, ao D. Desembargador, pois ficou claramente comprovado nos autos que o Recorrente é pobre no sentido legal da lei, não tendo condições de arcar com as custas e honorários advocatícios" (fl. 314).
+Assevera que "Infere-se do texto legal que qualquer parte no processo pode usufruir do benefício da justiça gratuita. Logo, o Recorrente, pessoa aposentada que aufere 1 salário mínimo mensal, também faz jus ao benefício, haja vista não ter condições de arcar com as despesas do processo sem prejuízo de sua manutenção" (fl. 317).
+Assim delimitada a controvérsia, passo ao exame do recurso.
+Nesse contexto, verifico que o Tribunal de origem manteve o indeferimento da gratuidade de justiça ao ora recorrente, assim discorrendo (fls. 304-307 e-STJ):
+Inicialmente, importante ressaltar que o benefício da gratuidade processual pode ser concedido à pessoa física ou jurídica, desde que comprovada a necessidade da benesse, nos termos do art. 5º, LXXIV, da Constituição Federal, não bastando, para o deferimento, a simples apresentação de declaração de pobreza.
+(..).
+Ainda, nos termos do art. 8º da Lei 1.060/50 e art. 95, §3º do CPC o julgador, verificando a inexistência ou o desaparecimento dos requisitos para concessão da justiça gratuita, poderá revogá-la depois de dada a oportunidade da parte interessada se manifestar. Assim, não se trata de questão a ser suscitada apenas pela parte contrária, mas o julgador também, de ofício pode aferir a capacidade de a parte ser beneficiária da justiça gratuita.
+Após análise da documentação trazida pelo agravante, tem-se que deve ser mantida a decisão recorrida.
+O apelante se manifestou e colacionou documentos (cód. 55/58) quais sejam: extrato de empréstimo consignado, declaração de benefício, de forma a demonstrar a renda mensal auferida.
+E, embora a documentação colacionada tem-se que o apelante realizou contrato de financiamento e se comprometeu ao pagamento de parcelas no importe de R$ 18,00 o que contradiz a suposta hipossuficiência financeira.
+Assim, tem-se que não restou comprovada a alegada miserabilidade jurídica, possuindo o autor renda auferida suficiente para arcar com o pagamento dos custos do processo.
+Além disso, a despeito de fazer menção a uma difícil situação financeira suportada, a parte sequer se desincumbiu de comprovar nos autos sobredita circunstância, não juntando nenhum documento apto a corroborar suas alegações, como comprovantes de despesas mensais com água, energia, celular, alimentação, vestuário, e dependentes, por exemplo.
+Ademais, é sabido que toda ação implica custos, devendo a parte requerente separar uma pequena parcela de seus rendimentos para o pagamento das custas processuais.
+Ainda, importante enfatizar que os benefícios da Lei nº 1.060/1950 são conferidos exclusivamente aos necessitados, pessoas em estado de miserabilidade econômica, desprovidas de bens e receitas. Dessa forma a mera dificuldade financeira é insuficiente para a concessão do benefício.
+Assim, tem-se que o agravante permanece omitindo a real situação financeira por ele vivenciada, devendo ser mantida a decisão que revogou o benefício da gratuidade de justiça, pois não comprovada a alegada miserabilidade jurídica, havendo indícios de que possui capacidade financeira suficiente para arcar com o pagamento dos custos do processo.
+Dessa forma, o Colegiado estadual entendeu que, "Assim, tem-se que o agravante permanece omitindo a real situação financeira por ele vivenciada, devendo ser mantida a decisão que revogou o benefício da gratuidade de justiça, pois não comprovada a alegada miserabilidade jurídica, havendo indícios de que possui capacidade financeira suficiente para arcar com o pagamento dos custos do processo" (fl. 307).
+Com efeito, anoto que a desconstituição da referida conclusão demandaria o reexame do acervo fático dos autos, procedimento que, em sede de especial, encontra óbice na Súmula n. 7/STJ. A propósito, confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. JUSTIÇA GRATUITA. INDEFERIMENTO. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. A jurisprudência firmada no âmbito desta eg. Corte de Justiça delineia que o benefício da assistência judiciária pode ser indeferido quando o magistrado se convencer, com base nos elementos acostados aos autos, de que não se trata de hipótese de miserabilidade jurídica.
+2. No caso, o Tribunal a quo entendeu não estar devidamente comprovada a impossibilidade de a parte arcar com as despesas do processo, não tendo sido acostadas aos autos provas que afastassem tal conclusão.
+3. A modificação de tal entendimento lançado no v. acórdão recorrido demandaria a análise do acervo fático-probatório dos autos, o que é vedado pela Súmula 7 do STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp 1.151.809/ES, Rel. Ministro LÁZARO GUIMARÃES, DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO, QUARTA TURMA, DJe de 28.2.2018.)
+Diante do exposto, nego provimento ao recurso.
+Deixo de proceder à majoração os honorários advocatícios, visto que o Tribunal de origem não condenou a parte agravante a pagá-los.
+Intimem-se.
