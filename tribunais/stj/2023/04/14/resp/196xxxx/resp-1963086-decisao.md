@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de recurso especial interposto por PLACO DO BRASIL LTDA, com fundamento na alínea "a" do permissivo constitucional, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de Rondônia assim ementado:
+"Agravo de instrumento. Franquia. Cláusula de eleição de foro. Mitigação. Hipossuficiência demonstrada. Agravo provido. Seguindo a jurisprudência do STJ, é possível a mitigação da cláusula de eleição do foro no contrato de adesão de franquia, quando demonstrada a hipossuficiência da parte franqueada, caso dos autos." (e-STJ fl. 105).
+Os embargos de declaração opostos foram rejeitados (fls. 80/82, e -STJ).
+No recurso especial (fls. 89/103, e -STJ), a parte recorrente alega que houve negativa de vigência dos seguintes dispositivos e suas respectivas teses:
+(i) art. 1.022, II, do Código de Processo Civil/2015 - nulidade do acórdão por não suprir a omissão apontada nos embargos de declaração, e
+(ii) arts. 46, 53, III, a, e 63 do Código de Processo Civil de 2015, ao fundamento de que a cláusula de eleição de foro é válida, mesmo que inserida em contrato de adesão.
+Oferecidas as contrarrazões (fls. 3.786/3.795, e-STJ),o recurso foi admitido, subindo os autos a esta Corte.
+É o relatório.
+DECIDO.
+A insurgência não merece prosperar.
+No tocante à negativa de prestação jurisdicional, verifica-se que o tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+No caso, o Tribunal de Justiça manifestou-se expressamente quanto à competência do foro, conforme se verifica do seguinte trecho do acórdão:
+"(..)" Ademais, como bem fundamentou o magistrado , a ação é milionária a quo e, em que pese a hipossuficiência financeira da autora, apontou que não obsta o seu processamento na comarca eleita pelo foro.
+Ora, de acordo com a análise dos autos na origem, notadamente a situação econômica da agravante (balancetes), houve deferimento da gratuidade para processamento da ação de rescisão na origem, demonstrando que não está em condições financeiras, enquanto a empresa agravada tem abrangência nacional.
+Assim, do mesmo modo que o juiz na análise do pedido de tutela e a quo gratuidade, também compreendo estar evidenciada a hipossuficiência da agravante em relação à agravada. Ademais, os fatos em que se escudam as pretensões deduzidas tiveram lugar na localidade da sede da agravante, ou seja, nesta capital.
+A jurisprudência tem admitido a mitigação da cláusula de eleição de foro prevista em contrato de adesão quando verificada a hipossuficiência do aderente ou a dificuldade de acesso à justiça, conforme, aliás, decidiu o colendo Superior Tribunal de Justiça:.
+(..)
+Portanto, com base na fundamentação supra, conheço deste recurso e, no mérito, dou provimento para manter a competência da 5ª Vara Cível da Comarca de Porto Velho para processar e julgar os autos do Processo n. 7044317-79.2017.8.22.0001, nos termos da petição inicial, emenda à inicial, réplica à contestação" (fls. 48/49, e-STJ- grifou-se)
+Não há falar, portanto, em existência de omissão apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+Confiram-se:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE CUSTEIO DE MEDICAMENTO (THIOTEPA). 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. 2. FUNDAMENTO SUFICIENTE NÃO ATACADO. SÚMULA 283/STF. 3. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. 4. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282/STF E 211/STJ. 5. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada a violação ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. O acórdão recorrido encontra-se em perfeita harmonia com a jurisprudência desta Corte no sentido de que, "embora se trate de fármaco importado ainda não registrado pela ANVISA, teve a sua importação excepcionalmente autorizada pela referida Agência Nacional, sendo, pois, de cobertura obrigatória pela operadora de plano de saúde" (REsp 1.923.107/SP, relatora ministra Nancy Andrighi, Terceira Turma, julgado em 10/8/2021, DJe 16/8/2021).
+3. Atentando-se aos argumentos trazidos pela recorrente e aos fundamentos adotados pela Corte estadual de que a ANVISA admite a importação do fármaco, verifica-se que estes não foram objeto de impugnação nas razões do recurso especial, e a subsistência de argumento que, por si só, mantém o acórdão recorrido torna inviável o conhecimento do apelo especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+4. A ausência de debate acerca do conteúdo normativo dos arts. 66 da Lei n. 6.360/1976 e 10, V, da Lei n. 6.437/1976, apesar da oposição de embargos de declaração, atrai os óbices das Súmulas 282/STF e 211/STJ.
+5. Agravo interno a que se nega provimento" (AgInt no AREsp 2.164.998/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se).
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE REGRESSO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DOS DEMANDADOS.
+1. Não há se falar em negativa de prestação jurisdicional, na medida em que o órgão julgador dirimiu todas as questões que lhe foram postas à apreciação, de forma clara e sem omissões, embora não tenha acolhido a pretensão da parte.
+2. Rever a conclusão do Tribunal de origem com relação à responsabilidade pelo ressarcimento dos valores pagos em reclamação trabalhista demandaria o reexame do conjunto fático-probatório dos autos e a interpretação de cláusulas contratuais, providencias que encontram óbice no disposto nas Súmulas 5 e 7 do STJ. Precedentes.
+3. Agravo interno desprovido" (AgInt nos EDcl no AREsp 2.135.800/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se).
+No que concerne à cláusula de eleição de foro, o Tribunal de origem, verifica-se que o aresto combatido está alinhado à jurisprudência do Superior Tribunal de Justiça, que reconhece a possibilidade de declaração da nulidade da cláusula de eleição de foro estipulada em contrato de adesão, quando configurada a vulnerabilidade ou a hipossuficiência do aderente ou o prejuízo no acesso à justiça, como ocorre na hipótese dos autos.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONSUMIDOR. AGRAVO DE INSTRUMENTO. COMPETÊNCIA. CLÁUSULA DE ELEIÇÃO DE FORO. AFASTAMENTO. IMPOSSIBILIDADE. HIPOSSUFICIÊNCIA E PREJUÍZO À DEFESA DO CONSUMIDOR NÃO RECONHECIDOS PELAS INSTÂNCIAS ORDINÁRIAS. MODIFICAÇÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da jurisprudência do STJ, " a cláusula de eleição de foro prevista em contrato de adesão pode ser afastada, quando comprovada a hipossuficiência da parte e a dificuldade de acesso à Justiça, como forma de manter o equilíbrio contratual" (AgInt no AREsp 440.494/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 04/11/2019, DJe de 08/11/2019).
+2. No caso concreto, o eg. Tribunal de origem concluiu pela validade da cláusula de eleição de foro, pois os elementos dos autos não demonstram a hipossuficiência e o prejuízo à defesa do consumidor. A pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria revolvimento de matéria fático-probatória, o que é inviável em sede de recurso especial, consoante preconiza a Súmula 7/STJ.
+3. Agravo interno a que se nega provimento" (AgInt no AREsp 1763888/PR, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 28/06/2021, DJe 05/08/2021).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO DE CONTRATO DE FRANQUIA C/CINDENIZAÇÃO POR DANOS MATERIAIS. OMISSÃO DO ACÓRDÃO RECORRIDO INEXISTÊNCIA. FORO DE ELEIÇÃO. AFASTAMENTO PELO TRIBUNAL DE ORIGEMANTE O RECONHECIMENTO DE HIPOSSUFICIÊNCIA DOAUTOR. SÚMULA 83/STJ. RECURSO DESPROVIDO.
+1. Nos termos do art. 1.022, I, II e III, do CPC/2015, destinam-se os embargos de declaração a expungir do julgado eventuais omissão, obscuridade ou contradição, ou ainda a corrigir erro material, não se caracterizando via própria ao rejulgamento da causa.
+2. A jurisprudência desta Corte Superior reconhece a possibilidade de declaração da nulidade da cláusula de eleição de foro estipulada em contrato de adesão, desde que configurada a vulnerabilidade ou a hipossuficiência do aderente ou o prejuízo no acesso à justiça. Incidência, à hipótese, da Súmula 83/STJ.
+3. Agravo interno desprovido" (AgInt no AREsp 1522991/SC, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 10/02/2020, DJe 13/02/2020).
+"PROCESSO CIVIL E CONSUMIDOR. CONTRATO DECOMPRA E VENDA DE MÁQUINA DE BORDAR. FABRICANTE. ADQUIRENTE. VULNERABILIDADE. RELAÇÃO DE CONSUMO. NULIDADE DE CLÁUSULA ELETIVA DE FORO.
+1. A Segunda Seção do STJ, ao julgar o REsp 541.867/BA, Rel. Min. Pádua Ribeiro, Rel. p/ Acórdão o Min. Barros Monteiro, DJ de 16/05/2005, optou pela concepção subjetiva ou finalista de consumidor.
+2. Todavia, deve-se abrandar a teoria finalista, admitindo a aplicação das normas do CDC a determinados consumidores profissionais, desde que seja demonstrada a vulnerabilidade técnica, jurídica ou econômica.
+3. Nos presentes autos, o que se verifica é o conflito entre uma empresa fabricante de máquinas e fornecedora de softwares, suprimentos, peças e acessórios para a atividade confeccionista e uma pessoa física que adquire uma máquina de bordar em prol da sua sobrevivência e de sua família, ficando evidenciada a sua vulnerabilidade econômica.
+4. Nesta hipótese, está justificada a aplicação das regras de proteção ao consumidor, notadamente a nulidade da cláusula eletiva de foro.
+5. Negado provimento ao recurso especial" (REsp 1010834/GO,Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 03/08/2010, DJe 13/10/2010).
+Logo, não merece reforma o acórdão recorrido, incidindo, na espécie, o enunciado da Súmula nº 568/STJ.
+Ante o exposto, nego provimento ao recurso especial.
+Não cabe, na hipótese, a majoração dos honorários sucumbenciais prevista no art. 85, § 11, do Código de Processo Civil de 2015, pois o recurso tem origem em decisão sem a prévia fixação de honorários.
+Publique-se.
+Intimem-se.
