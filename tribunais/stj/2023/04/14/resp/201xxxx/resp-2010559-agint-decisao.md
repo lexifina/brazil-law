@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo interno interposto contra decisão assim ementada:
+TRIBUTÁRIO. RECURSO ESPECIAL. MANDADO DE SEGURANÇA. CONTRIBUIÇÃO PREVIDENCIÁRIA PATRONAL. BASE DE CÁLCULO. IMPOSSIBILIDADE DE EXCLUSÃO DOS VALORES RETIDOS A TÍTULO DE IMPOSTO DE RENDA E DE CONTRIBUIÇÃO PREVIDENCIÁRIA A CARGO DO EMPREGADO. DECISÃO DO TRIBUNAL DE ORIGEM EM CONSONÂNCIA COM A ORIENTAÇÃO JURISPRUDENCIAL DO STJ. SÚMULA 83/STJ. RECURSO ESPECIAL NÃO CONHECIDO
+A parte agravante sustenta, em síntese, ser indevida a inclusão do o Imposto de Renda Retido na Fonte (IRRF) e Contribuição Previdenciária dos empregados na base de cálculo da contribuição previdenciária patronal.
+Sem impugnação.
+É o relatório.
+Verifica-se que a questão debatida nos autos - Possibilidade de se excluir os valores relativos à contribuição previdenciária do empregado e do trabalhador avulso e ao imposto de renda de pessoa física, retidos na fonte pelo empregador, da base de cálculo da contribuição previdenciária patronal e das contribuições destinadas a terceiros e ao SAT/RAT" - foi afetada pela Primeira Seção do STJ ao rito dos recursos especiais repetitivos, no Tema 1.174/STJ (REsp 2.005.289/SC; REsp 2.005.029/SC; REsp 2.005.087/PR e REsp 2.005.567/RS), mostrando-se conveniente, em observância ao princípio da economia processual e à própria finalidade do CPC, determinar o retorno dos autos à origem, onde ficarão sobrestados até a publicação do acórdão a ser proferido nos autos do recurso representativo da controvérsia.
+Ante o exposto, torno sem efeito a decisão de fls. 391-393 e determino a devolução dos autos ao Tribunal de origem, com a respectiva baixa nesta Corte, para que, após a publicação do acórdão a ser proferido no recurso representativo da controvérsia, o apelo especial: a) tenha seguimento denegado na hipótese de o acórdão recorrido coincidir com a orientação do STJ; ou b) seja novamente examinado pelo Tribunal de origem, caso o aresto hostilizado divirja do entendimento firmado nesta Corte (arts. 1.039, 1.040, I e II, e 1.041 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. RETRATAÇÃO DA DECISÃO AGRAVADA. TEMA 1174/STJ. DEVOLUÇÃO DOS AUTOS A ORIGEM.
