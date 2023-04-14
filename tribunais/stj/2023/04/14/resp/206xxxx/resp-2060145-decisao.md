@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão assim ementado:
+"AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. RPV. HONORÁRIOS ADVOCATÍCIOS. ART. 85, § 7º, CPC. Decisão que, em cumprimento de sentença, deixa de fixar verba honorária, por ausência de impugnação, com fundamento no art. 85, § 7º, do CPC. Inadmissibilidade.
+Aplicabilidade apenas em execuções que ensejem o pagamento de precatórios. Sistemática relativa à expedição de precatório que não se aplica aos pagamentos de obrigações definidas como de pequeno valor, nos termos do art. 100, § 3º, da CF. Aplicação do art. 85, § 1º, do CPC.
+RECURSO PROVIDO" (fl. 38e).
+A parte recorrente aponta ofensa ao art. 85, § 7º, do CPC/2015 e art. 1º-D da Lei 9.494/97, sustentando que, "se há necessidade de requisição judicial para pagamento de OPV, a Fazenda Pública não pode pagar espontaneamente o crédito de pequeno valor, de modo que não dá causa à execução, restando indevida a fi xação de novos honorários" (fl. 56e).
+Contrarrazões a fls. 67/76e.
+Com relação à controvérsia, a PRIMEIRA SEÇÃO do STJ, na sessão virtual de 15/03/2023 a 21/03/2023, apreciando os Recursos Especiais 2.031.118/SP, 2.029.675/SP e 2.029.636/SP, todos da relatoria do Ministro HERMAN BENJAMIN, afetou os feitos à sistemática dos recursos repetitivos (RISTJ, art. 257-C), assim enunciando a tese repetitiva:
+"Possibilidade de fixação de honorários advocatícios sucumbenciais em cumprimento de sentença contra a Fazenda Pública, independentemente de existência de impugnação à pretensão executória, quando o crédito estiver sujeito ao regime da Requisição de Pequeno Valor - RPV"
+No mesmo julgamento, foi determinada a suspensão de todos os recursos especiais e agravos em recurso especial que versem sobre a questão delimitada e tramitem na segunda instância e/ou nesta Corte superior.
+Conforme a jurisprudência do STJ, havendo afetação ao rito dos recursos repetitivos, por medida de economia processual e para evitar decisões dissonantes, os recursos que tratam da mesma matéria no STJ devem aguardar, no Tribunal de origem, a solução no recurso especial afetado. Nesse sentido: EDcl no AgInt no AREsp 1.445.132/MG, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 23/9/2019; EDcl no AgInt no REsp 1.478.016/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 6/4/2018.
+Ante o exposto, com fundamento no art. 1.037, II, do CPC/2015, determino a devolução dos autos ao Tribunal de origem, com a devida baixa, para que o processo permaneça suspenso até a publicação do acórdão referente ao tema afetado, com posterior juízo de conformidade, nos termos do art. 1.040 do CPC/2015.
+I.
