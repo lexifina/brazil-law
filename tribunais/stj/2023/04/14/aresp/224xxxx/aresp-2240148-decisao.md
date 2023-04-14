@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (fls. 922/923, e-STJ):
+CONSUMIDOR, CIVIL E PROCESSO CIVIL. CONTRATO DE COMPRA E VENDA DE IMÓVEL. TERMO ADITIVO COM METRAGEM DA ÁREA PRIVATIVA DIVERSA DA CONTIDA NO CONTRATO ORIGINÁRIO. INEXISTÊNCIA DE ALTERAÇÃO NA ÁREA TOTAL DO IMÓVEL. REPETIÇÃO DE INDÉBITO. INFILTRAÇÕES ENCONTRADAS NO APARTAMENTO. PERÍCIA REALIZADA. COMPROVAÇÃO DE DANOS DECORRENTES DE FALHAS NO PROJETO ARQUITETÔNICO. RESPONSABILIDADE DA CONSTRUTORA CONFIGURADA. HONORÁRIOS PERICIAIS ADIANTADOS PELA RÉ. PRETENSÃO DE RATEIO EM FACE DA SUCUMBÊNCIA RECÍPROCA. HONORÁRIOS SUCUMBENCIAIS. BASE DE CÁLCULO. VALOR DA CONDENAÇÃO. SENTENÇA PARCIALMENTE REFORMADA.
+1. O tamanho do imóvel é característica essencial do contrato e, portanto, deve ser corretamente informado no instrumento assinado entre as partes. Inexistindo diferença entre o contrato primitivo e o aditivo no que concerne a área total da unidade imobiliária, não há que se falar em acréscimo do preço cobrado no contrato originário.
+2. No que se refere à pretensão de reparação, por vícios de construção, foi realizada perícia judicial, a qual foi categórica quanto a existência de falha do projeto arquitetônico, competindo à ré/apelante arcar com os custos necessários a realização do reparo.
+3. De acordo com entendimento do c. STJ, os honorários periciais devem ser adiantados pela parte que requerer a produção da referida prova e, ao final do processo, devem ser ressarcidos pelo vencido da demanda, em atenção ao princípio da sucumbência.
+4. O Código de Processo Civil estabeleceu uma ordem de preferência na utilização das possíveis bases de cálculo para o arbitramento da verba sucumbencial, devendo ser fixados sobre o valor da condenação, ou em sua falta sobre o valor do proveito econômico ou, não sendo possível mensurá-lo, sobre o valor da causa, inexistindo previsão legal para aplicar bases de cálculo distintas.
+5. Recurso parcialmente provido.
+Nas razões do recurso especial, a parte ora agravante alega violação aos arts. 85, § 2º, 489, §1º, IV e 1.022 do Código de Processo Civil de 2015.
+Sustenta, de início, que o Tribunal de origem teria sido omisso, por não ter analisado todas as questões suscitadas. Argumenta, ainda, que a parte recorrida deve arcar com a integralidade dos honorários, por ter sucumbido na maior parte dos pedidos formulados.
+Foram apresentadas contrarrazões às fls. 1.009/1.012, e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+A Súmula nº 568 desta Corte dispõe que "relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Inicialmente, quanto às alegações de ofensa aos arts. 489, § 1º, e 1.022 do Código de Processo Civil de 2015, verifico que essas não merecem prosperar. Isso porque, consoante entendimento consolidado desta Corte, o recorrente não possui o direito de ter todos os argumentos alegados rebatidos, cabendo ao tribunal analisar e debater as questões principais para o deslinde da controvérsia.
+Ademais, verifico que o Tribunal de origem analisou expressamente as questões levantadas pela parte recorrente, de modo que não configura omissão ou negativa de prestação jurisdicional o fato de o acórdão ter sido proferido em sentido contrário ao desejado por ela.
+Dessa forma, tendo a decisão analisado de forma fundamentada as questões trazidas, não há que se falar nos vícios apontados, nos termos do acórdão cuja ementa transcrevo abaixo:
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ARTS. 489 E 1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA. JULGAMENTO ULTRA PETITA. EXCESSO. EXTIRPAÇÃO. POSSIBILIDADE. NÃO PROVIMENTO.
+1. O acórdão recorrido analisou todas as questões necessárias ao deslinde da controvérsia, não se configurando ausência de fundamentação na prestação jurisdicional.
+2. A decisão que julga além dos limites da lide não precisa ser anulada, devendo ser eliminada a parte que constitui o excesso. Precedentes.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1339385/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 9/4/2019, DJe 12/4/2019)
+Anoto, ainda, quanto à alegada violação ao art. 85, § 2º do CPC/15, que, conforme jurisprudência desta Corte, "a aferição do percentual em que cada litigante foi vencedor ou vencido ou a conclusão pela existência de sucumbência mínima ou recíproca das partes é questão que não comporta exame em recurso especial, por envolver aspectos fáticos e probatórios, aplicando-se à hipótese a Súmula 7/STJ"(AgInt no AREsp 866.420/MS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 20/2/2020, DJe 3/3/2020).
+Em face do exposto, não havendo o que reformar, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
