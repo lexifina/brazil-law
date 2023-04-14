@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de agravo interposto por Wernersbach Representação Comercial Ltda. contra a decisão de fls. 1.725-1.727 (e-STJ), proferida em juízo prévio de admissibilidade, na qual foi negado seguimento ao recurso especial.
+O recurso especial foi deduzido em desafio aos acórdãos de fls. 1.644-1.653 e 1.668-1.671 (e-STJ), prolatados pelo Tribunal de Justiça do Estado de São Paulo, assim ementados:
+Representação comercial - Ação de indenização - Rescisão sem justa causa - Indenizações previstas nos arts. 27, "j", e 34, ambos da Lei n" 4.886/65 - Sentença reformada - Procedência da ação - Liquidação de sentença pelo procedimento comum (CPC, art. 511) - Apelação provida.
+Embargos de declaração -- Não enquadramento no art. 1.022 do CPC -Rejeição dos embargos.
+Nas razões do recurso especial (e-STJ, fls. 1.674-1.684), apontou a insurgente a existência de violação dos arts. 1.022, I, do CPC/2015 e 27, j, da Lei 4.886/1965. Sustentou, em síntese: i) ocorrência de negativa de prestação jurisdicional; e ii) que recebia comissão em percentual acima do ajustado contratualmente, devendo a indenização ser calculada sobre o efetivo recebimento.
+Sem contrarrazões (e-STJ, fl. 1.722).
+A Corte de origem deixou de admitir o recurso sob os seguintes fundamentos: a) não ocorrência de negativa de prestação jurisdicional; b) não demonstração da violação aos dispositivos arrolados; e c) incidência da Súmula 7/STJ.
+Daí o presente agravo, no qual a insurgente contesta a aplicação dos óbices.
+Sem contraminuta (e-STJ, fl. 1.757).
+Brevemente relatado, decido.
+Inicialmente, defendeu a recorrente a ocorrência de negativa de prestação jurisdicional. Alegou que o Tribunal de origem não sanou a contradição apontada (reconhecer que a indenização deve ser calculada sobre os valores recebidos a título de comissão e apontar um percentual sobre o faturamento para o cálculo da verba).
+Todavia, observa-se que o Tribunal local se manifestou satisfatoriamente sobre tal questão, concluindo pela inexistência de provas de recebimento de comissões em percentual acima do pactuado.
+Veja-se às fls. 1.653-1.654 (e-STJ):
+Desse modo, conclui-se que a ré rescindiu o contrato sem justa causa, e, portanto, com base no art. 27, "j", da LRC, deve ser condenada a pagar o valor indenização à autora, cuja base de cálculo a ser apurada em liquidação de sentença deve ser o montante equivalente a 1/12 do total da retribuição auferida durante o tempo em que exerceu a representação para a ré. Não há prova suficiente nos autos para que se possa alterar a base de cálculo do período de julho de 1999 até o final de 2008, nem para que se possa alterar o percentual de comissão previsto no contrato, isto é, mediante recebimento de comissão em valor equivalente a 2% sobre o valor das vendas (cláusulas primeira, segunda, terceira, e quarta -- fl. 22). Deve arcar a ré, também, com o pagamento da indenização prevista no art. 34, da LRC, equivalente a 1/3 das comissões auferidas pelo representante, nos três meses anteriores à rescisão, cuja base de cálculo é a mesma para a outra indenização (comissões recebidos com base no percentual de 2% sobre os valores das vendas).
+Assim, não assiste razão à recorrente, quando defende a ocorrência de negativa de prestação jurisdicional, porquanto a questão considerada omitida foi apreciada pelo órgão julgador, com fundamentação clara, coerente e suficiente.
+Por fim, o acolhimento da tese de que a insurgente recebia comissões em percentual acima do previsto contratualmente esbarra no óbice das Súmulas 5 e 7/STJ, porquanto demandaria nova incursão no conjunto probatório e contratual.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXIGIR CONTAS. ILEGITIMIDADE PASSIVA. PRECLUSÃO. SÚMULA 7 DO STJ. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STJ. PERCENTUAL DA COMISSÃO DE CORRETAGEM PARA A TEMPORADA DE 2004-2005. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Rever o acórdão recorrido e acolher a pretensão recursal de inexistência de preclusão sobre a tese de ilegitimidade passiva embasada em documento novo demandaria a alteração do conjunto fático-probatório dos autos, o que é inviável nesta via especial ante o óbice da Súmula 7 do STJ.
+2. Esta Corte Superior possui jurisprudência no sentido de que "ainda que a questão seja de ordem pública, há preclusão consumativa se a matéria tiver sido objeto de decisão anterior definitivamente julgada" (AgRg no AREsp 630.587/SP, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 28/06/2016, DJe 01/07/2016).
+3. O exame da pretensão recursal de reforma do entendimento da Corte local quanto ao percentual da corretagem para o período da temporada de 2004-2005 ante a ocorrência de comportamento contraditório e preclusão exigiria o revolvimento do conjunto fático-probatório dos autos e a interpretação do contrato, o que é vedado na via especial ante os óbices das Súmulas 5 e 7 do STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.030.343/SC, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 8/8/2022, DJe de 15/8/2022.)
+Diante do exposto, conheço do agravo de Wernersbach Representação Comercial Ltda. para conhecer parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. REPRESENTAÇÃO COMERCIAL. AÇÃO INDENIZATÓRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO VERIFICADA. RECEBIMENTO DE COMISSÃO EM PERCENTUAL ACIMA DO AJUSTADO. INCIDÊNCIA DAS SÚMULAS 5 E 7/STJ. AGRAVO DE WERNERSBACH REPRESENTAÇÃO COMERCIAL LTDA. CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
