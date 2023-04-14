@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de Agravo interno, interposto por LATIF MIKHAIEL JABUR ABUD e OUTROS, em 26/02/2020, contra decisão proferida pelo Presidente do STJ, Ministro JOÃO OTÁVIO DE NORONHA, publicada em 04/02/2019, que conheceu do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento (fls. 1.257/1.261e).
+De acordo com os autos, os ora agravantes interpuseram, em 25/04/2013, Agravo de Instrumento contra decisão que, nos autos de Ação Civil Pública ajuizada pelo ora agravado, deferira a indisponibilidade dos bens de todos os requeridos, "até o limite do prejuízo estimado provocado ao erário, qual seja, R$ 154.123.443,00, ficando vedados quaisquer atos de alienação".
+O Tribunal de origem, em acórdão publicado em 19/07/2019, negou provimento ao Agravo de Instrumento.
+Tendo em vista o tempo transcorrido desde a interposição do Agravo de Instrumento e a prolação do acórdão recorrido e o disposto nos arts. 6º, 77, I, e 80, II, do CPC/2015, as partes foram intimadas a dizer se a referida Ação Civil Pública fora julgada e se teriam interesse no julgamento do feito.
+Na petição de fl. 1.334e, os agravantes informam que "não possuem interesse no julgamento do feito, uma vez que houve perda do objeto por superveniência de sentença".
+Levando em consideração a informação dos agravantes, no sentido de que sobreveio sentença julgando o feito que dera origem ao Agravo de Instrumento em que prolatado o acórdão impugnado no Recurso Especial e de que não possuem mais interesse no julgamento do feito, forçoso reconhecer a perda do objeto do presente Agravo em Recurso Especial.
+Ante o exposto, reconsidero da decisão de fls. 1.257/1.261e. Com fundamento no art. 253, parágrafo único, I, do RISTJ, não conheço do Agravo em Recurso Especial, por perda do seu objeto.
+I.
