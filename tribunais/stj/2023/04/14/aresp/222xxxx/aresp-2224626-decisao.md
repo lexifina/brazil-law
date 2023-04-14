@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo cont ra decisão que não admitiu recurso especial interposto por TANIA MARIA RAABE DA CUNHA, com fundamento na alínea c do permissivo constitucional, no qual se insurgiu contra acórdão do Tribunal Regional Federal da 4ª Região assim ementado (e-STJ, fl. 230):
+CIVIL. CONTRATOS BANCÁRIOS. AÇÃO DE PROCEDIMENTOCOMUM. CAPITALIZAÇÃO MENSAL DE JUROS. TEMA 247 DO STJ. COMISSÃO DE PERMANÊNCIA. MORA.
+A capitalização mensal dos juros é admitida, nos contratos firmados após a vigência da MP 1.963-17/2000, reeditada sob o n. 2.170/2001, desde que devidamente pactuada em contratos firmados após a entrada em vigor da respectiva norma. In casu, os contratos em questão possuem previsão de juros anuais superiores ao duodécuplo da taxa mensal - conforme tema 247 do STJ.
+Entendimento consolidado pela jurisprudência no sentido de que se admite a cobrança da comissão de permanência no período da inadimplência, desde que não seja cumulada com outros encargos moratórios e desde que seu valor não ultrapasse a soma dos encargos previstos para o período da normalidade contratual, quais sejam, juros remuneratórios, juros moratórios e multa.
+Existente abusividade/ilegalidade no período de normalidade contratual no contrato Cheque Empresa Caixa (capitalização mensal sem pactuação expressa e clara), devem ser afastados a mora e seus consectários.
+No recurso especial (e-STJ, fls. 245-256), sustentou a recorrente divergência jurisprudencial e apontou a violação dos arts. 6º, 46, 47, e 52, I a III, do Código de Defesa do Consumidor, 28, § 1º, I, da Lei 10.931/2004.
+Alegou que "o montante exequendo padece de excesso derivado da incidência indevida de capitalização de juros sobre ambos os contratos" (e-STJ, fl. 247).
+Aduziu que o acórdão recorrido diverge do entendimento firmado no REsp n. 1.388.972/SC, Tema 953/STJ.
+Ressaltou, ainda, que "o contrato debatido padece de irregularidade que resulta na descaracterização da mora" (e-STJ, fl. 253), sendo aplicável ao caso o Tema n. 28/STJ.
+Requereu, ao final, a admissão do recurso.
+Nas razões do agravo, a parte agravante impugna os fundamentos da decisão denegatória do recurso, reiterando, no mais, as razões do mérito recursal (e-STJ, fls. 342-351).
+Brevemente relatado, decido.
+De início, constata-se que foi negado seguimento ao recurso especial, nos termos do art. 1.030, I, b, do CPC/2015, pois as questões acerca da capitalização de juros e sua cobrança em periodicidade inferior à anual foram decididas no TRF-4ª Região em conformidade com precedentes firmados pelo Superior Tribunal de Justiça, Temas n. 246, 247 e 953.
+Assim, não merece conhecimento o presente agravo nesse ponto. Isso porque se trata de recurso incabível, conforme entendimento proferido pela Terceira Turma desta Corte no julgamento do AREsp n. 959.991/RS, desta relatoria, julgado em 16/8/2016 e publicado em 26/8/2016.
+Além disso, dispõe o art. 1.030, § 2º, do CPC/2015 que, uma vez negado seguimento ao recurso especial na instância a quo, tendo em vista a conformidade do entendimento exarado pelo acórdão recorrido com o firmado em julgamento repetitivo por este Tribunal Superior, a irresignação da parte com a decisão de admissibilidade proferida pela Corte de origem deve se dar por meio de agravo interno, nos termos do art. 1.021 do CPC/2015.
+Por fim, em relação à descaracterização da mora, o Tribunal de origem assim consignou (e-STJ, fl. 237):
+Descaracterização da mora
+Por fim, cabe destacar a orientação/tese firmada pelo eg. Superior Tribunal de Justiça, no julgamento do Recurso Especial n.º 1.061.530(Representativo de Controvérsia, DJe 10/03/2009):
+ORIENTAÇÃO 2 - CONFIGURAÇÃO DA MORA a) O reconhecimento da abusividade nos encargos exigidos no período da normalidade contratual (juros remuneratórios e capitalização) descarateriza a mora; b) Não descaracteriza a mora o ajuizamento isolado de ação revisional, nem mesmo quando o reconhecimento de abusividade incidir sobre os encargos inerentes ao período de inadimplência contratual.
+No caso, inexistente abusividade/ilegalidade no período de normalidade contratual, a mora e seus consectários permanecem inalterados.
+O TRF-4ª Região concluiu que não houve abusividade durante o período do contrato, devendo a mora manter-se inalterada.
+Dessarte, tais ponderações foram fundadas na apreciação fático-probatória da causa e de termos contratuais, contexto que atrai o teor das Súmulas n. 5 e 7 do Superior Tribunal de Justiça.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - EMBARGOS À EXECUÇÃO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DOS EMBARGANTES.
+1. Na forma da jurisprudência desta Corte, cabe ao juiz decidir sobre a produção de provas necessárias, ou indeferir aquelas que tenha como inúteis ou protelatórias, de acordo com o art. 370, CPC/2015, não implicando cerceamento de defesa o indeferimento da dilação probatória, notadamente quando as provas já apresentadas pelas partes sejam suficientes para a resolução da controvérsia.
+Precedentes.
+1.1 A revisão das conclusões do órgão julgador quanto à suficiência das provas apresentadas demandaria o reexame do acervo fático-probatório dos autos, providência vedada pela Súmula 7 do STJ.
+2. Pronunciado pela Corte de origem a inexistência de novação da dívida em comento, a revisão de tal entendimento demanda o reexame dos aspectos fáticos delineados na lide, o que resta obstado nesta via recursal especial, a teor das Súmulas 5 e 7/STJ.
+3. A análise dos fundamentos que ensejaram o reconhecimento da liquidez, certeza e exigibilidade do título que embasa a execução, exige o reexame probatório dos autos, procedimento inviável por esta via especial, ante o óbice da Súmula 7 do STJ.
+4. Consoante entendimento do STJ, "a Cédula de Crédito Bancário é título executivo extrajudicial, representativo de operações de crédito de qualquer natureza, circunstância que autoriza sua emissão para documentar a abertura de crédito em conta-corrente, nas modalidades de crédito rotativo ou cheque especial. O título de crédito deve vir acompanhado de claro demonstrativo acerca dos valores utilizados pelo cliente, trazendo o diploma legal, de maneira taxativa, a relação de exigências que o credor deverá cumprir, de modo a conferir liquidez e exequibilidade à Cédula (art.
+28, § 2º, incisos I e II, da Lei n. 10.931/2004)" (REsp 1291575/PR, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 14/08/2013, DJe 02/09/2013).
+4.1 A jurisprudência do Superior Tribunal de Justiça entende que, "excepcionalmente, a certeza quanto à existência do ajuste celebrado pode ser obtida por outro meio idôneo ou no próprio contexto dos autos, caso em que a exigência da assinatura de duas testemunhas no documento particular - contrato de confissão de dívida - pode ser mitigada" (AgInt no AREsp 1361623/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 15/04/2019, DJe 23/04/2019).
+Incidência da Sumula 83/STJ.
+5. A Segunda Seção do STJ, em sede de recurso representativo da controvérsia, firmou o entendimento de que, após a Medida Provisória n. 1.963-17/2000, é permitida a capitalização de juros em periodicidade inferior à anual, quando expressamente pactuada, assim considerada a previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal. Precedentes.
+6. O Superior Tribunal de Justiça fixou o entendimento de que as instituições financeiras não estão submetidas à Lei de Usura, não obstante as instâncias ordinárias possam identificar a abusividade dos juros remuneratórios, à luz do caso concreto. Precedentes.
+6.1 O Tribunal de origem, à luz dos elementos de prova constantes dos autos, concluiu pela ausência de abusividade dos juros remuneratórios. A revisão deste entendimento ensejaria o revolvimento do contrato e do conteúdo fático-probatório dos autos, o que é inviável na sede do recurso especial, nos termos das Súmulas 5 e 7/STJ. Precedentes.
+7. Agravo interno desprovido.
+(AgInt no AREsp n. 1.968.780/MS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 14/3/2022, DJe de 21/3/2022.)
+Ante o exposto, conheço parcialmente do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários advocatícios em 2% (dois por cento) sobre a base de incidência fixada na origem.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO ORDINÁRIA DE COBRANÇA. PARTE DO RECURSO ESPECIAL NÃO ADMITIDA NA ORIGEM. MATÉRIA JULGADA DE ACORDO COM O ENT ENDIMENTO FIRMADO EM RECURSO REPETITIVO: TEMAS 246, 247 E 953/STJ. NÃO CABIMENTO DO AGRAVO (CPC/2015, ART. 1.042). MORA. REVISÃO. IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ. AGRAVO PARCIALMENTE CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
