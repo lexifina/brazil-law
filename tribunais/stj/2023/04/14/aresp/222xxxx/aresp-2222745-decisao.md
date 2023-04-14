@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interposto por CAIXA DE PREVIDENCIA DOS FUNCS DO BANCO DO BRASIL contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado:
+"CIVIL E PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. LIQUIDAÇÃO DE SENTENÇA. PREVIDÊNCIA PRIVADA. PREVI. COMPENSAÇÃO. POSSIBILIDADE. DECISÃO MANTIDA. 1 - Nos termos da jurisprudência do Superior Tribunal de Justiça, não há óbice à compensação das cotas a serem recolhidas com o resultado da revisão do benefício de previdência complementar a receber. Ademais, assim que for homologada a prova pericial, tanto a obrigação de revisar o valor do benefício e de pagar as diferenças das parcelas vencidas, quanto a obrigação de recompor a reserva matemática, tornar-se-ão líquidas e, de acordo com o art. 369 do Código Civil, "A compensação efetua-se entre dívidas líquidas, vencidas e de coisas fungíveis". 2 - Dessa maneira, configurando-se a Autora e a Ré, ao mesmo tempo, credora e devedora uma da outra e, em sendo as obrigações recíprocas referentes ao pagamento do benefício da aposentadoria complementar, reputam-se configurados os requisitos para a compensação, de acordo com os artigos 368 e 369 do Código Civil. Agravo de Instrumento desprovido" (e-STJ fl. 51).
+No recurso especial, alega-se violação dos seguintes dispositivos legais com as respectivas teses:
+(i) arts. 368 e 369 do Código Civil, ao fundamento de que não se pode admitir a compensação entre os valores aportados a título de recomposição prévia e integral da reserva matemática e a quantia a ser recebida pelo participante, sob pena de ofensa ao Tema nº 955/STJ, e
+(ii) arts. 926 e 927, III, do Código de Processo Civil, haja vista a soberania das decisões exaradas em sede de recurso repetitivo e os termos do Tema nº 1.021/STJ.
+Sem as contrarrazões, foi negado seguimento ao recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+No que se refere aos arts. 926 e 927, III, do Código de Processo Civil, verifica-se que a matéria versada nos dispositivos apontados como violados no recurso especial não foi objeto de debate pelas instâncias ordinárias, embora opostos embargos de declaração. Ausente o requisito do prequestionamento, incide o disposto na Súmula nº 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Quanto aos arts. 368 e 369 do Código Civil, o aresto combatido encontra-se alinhado à jurisprudência do Superior Tribunal de Justiça, consoante a qual é possível a compensação de dívidas líquidas e vencidas.
+A propósito:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PROCESSO CIVIL. PRESTAÇÃO JURISDICIONAL. DEFICIÊNCIA. AUSÊNCIA. CERCEAMENTO DE DEFESA. SÚMULA Nº 7/STJ. PLANO DE PREVIDÊNCIA PRIVADA. EMPREGADO EM ATIVIDADE. VERBAS TRABALHISTAS. JUSTIÇA DO TRABALHO. HORAS EXTRAS. SALÁRIO DE PARTICIPAÇÃO. REVISÃO. EQUILÍBRIO ATUARIAL. SÚMULA Nº 83/STJ. VERBA HONORÁRIA. RAZOABILIDADE. MODIFICAÇÃO. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não importa deficiência na prestação jurisdicional o acórdão que adota para a resolução da causa fundamentação suficiente, porém diversa da pretendida pelo recorrente, para decidir de modo integral a controvérsia posta.
+3. Na hipótese, rever as conclusões do tribunal de origem de que houve alteração na remuneração do autor, lastreada nas parcelas já pagas no curso do contrato de trabalho, e que as verbas previdenciárias incidentes sobre as horas extras deferidas pela Justiça do Trabalho já foram recolhidas em favor do recorrente, evidenciando a ausência de desiquilíbrio atuarial, atrai o óbice da Súmula nº 7/STJ.
+4. Para a manutenção do equilíbrio econômico-atuarial do fundo previdenciário e em respeito à fonte de custeio, devem ser recolhidas as cotas patronal e do participante (art. 6º da Lei Complementar nº 108/2001), podendo esta última despesa ser compensada com valores a serem recebidos com a revisão do benefício complementar.
+5. No caso, a revisão do que decidido pelo tribunal local, que majorou a verba honorária de acordo com os parâmetros legais e com a jurisprudência do Superior Tribunal de Justiça, esbarra no óbice da Súmula nº 7/STJ.
+6. Agravo interno não provido" (AgInt nos EDcl no REsp 1.863.352/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 10/3/2023 - grifou-se).
+Logo, não merece reforma o acórdão recorrido, incidindo, na espécie, o enunciado da Súmula nº 568/STJ.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nesta, parte negar-lhe provimento.
+Não cabe, na hipótese, a majoração dos honorários sucumbenciais prevista no art. 85, § 11, do Código de Processo Civil de 2015, pois o recurso tem origem em decisão interlocutória sem a prévia fixação de honorários.
+Publique-se.
+Intimem-se.
