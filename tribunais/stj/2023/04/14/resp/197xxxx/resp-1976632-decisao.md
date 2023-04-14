@@ -1,0 +1,10 @@
+DECISÃO
+Em petição às fls. 517-538, e-STJ, o Instituto Educacional Pequeninos de Jesus informa que, em novembro de 2022, firmou o Termo Aditivo de Compromisso de Ajustamento de Conduta perante o Ministério Público do Trabalho - MPT, de modo que a presente demanda teria perdido o objeto.
+Às fls. 518, e-STJ, verifica-se que a cláusula segunda do TAC firmado estabelece a Justiça do Trabalho de Frutal - MG como a competente para o julgamento do TAC 3.107/2012.
+Às fls. 511-513, e-STJ, foi determinada a suspensão do presente feito para se aguardar o julgamento do CC 171.408/MG, desta relatoria. Em consulta ao andamento do referido processo, observa-se que, inicialmente, o Conflito foi conhecido para estabelecer a competência da Justiça do Trabalho de Frutal - MG para apreciar a causa. Posteriormente, o requerente protocolou pedido de desistência, o qual foi homologado em 19 de dezembro de 2022.
+O presente Recurso Especial foi interposto pelo Ministério Público do Estado de Minas Gerais com pedido de que "seja determinada a remessa dos autos à Vara do Trabalho de Frutal" (fl. 267, e-STJ).
+O Ministério Público do Estado de Minas Gerais foi intimado duas vezes (fls. 540 e 547, e-STJ) para se manifestar sobre a matéria, porém se manteve inerte. Em petição às fls. 553-554, e-STJ, de forma extemporânea, o Parquet estadual alega que o TAC juntado não está assinado pela instituição compromissária. Contudo, nota-se que o referido Termo Aditivo de Compromisso foi, sim, assinado pela instituição compromissária (fl. 520, e-STJ).
+Constata-se, portanto, que houve a perda superveniente do objeto, pois o pleito do Recurso Especial consiste na remessa dos autos à Vara do Trabalho de Frutal - MG, exatamente como previsto na cláusula segunda do TAC firmado em 24 de novembro de 2022. Assim, não há mais interesse do recorrente em obter provimento judicial.
+Ante o exposto e com base no art. 485, VI, do CPC, reconheço a perda superveniente do objeto e julgo extinto o Recurso Especial sem resolução de mérito.
+Publique-se.
+Intimem-se.
