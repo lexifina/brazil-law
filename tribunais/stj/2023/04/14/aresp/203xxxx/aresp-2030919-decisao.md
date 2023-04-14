@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo interposto por ANTONIO HUMBERTO BIRELO, AUTO POSTO MAJU LTDA, ROSANA RACHEL DE SOUZA BIRELO contra a decisão que inadmitiu recurso especial. O apelo extremo, com fundamento no artigo 105, III, alínea "a", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"AGRAVO DE INSTRUMENTO. Revisão de contratos bancários. Decisão agravada que indeferiu a tutela de urgência, pois qualquer afirmação de caráter unilateral, ainda não submetida ao contraditório, não detém força suficiente para fazer cessar o cumprimento do contrato que as partes e stipularam. Inconformismo dos autores. Pretensão de reforma. Pedido de efeito antecipatório recursal, cuja apreciação se dá, neste momento, diretamente pelo colegiado desta câmara julgadora (arts. 129 e 168, § 2º do RITJSP). Com parcial razão, apenas no que diz respeito à possibilidade de se permitir o depósito de valores no processo, por conta e risco do depositante, sem impedira mora; valores cuja destinação será ao final deliberada pelo juízo. No mais, verossimilhança das alegações não evidenciada. Ausência de demonstração cabal e inconteste das ilegalidades apontadas, requisito necessário à abstenção da inscrição ou da manutenção em cadastro de inadimplentes. Discussão judicial do débito que não tem o condão de inibir os efeitos da mora ou de determinar a abstenção da instituição bancária no lançamento do nome dos recorrentes nos órgãos de proteção ao crédito. Súmula nº 380 do STJ. Efeito antecipatório recursal indeferido e, na sequência, já julgado o agravo, com a decisão recorrida sendo em pequena parte modificada. Recurso provido em parte" (fl. 263 e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 279-282 e-STJ).
+No seu arrazoado (fls. 285-300 e-STJ), a parte recorrente alega, além de divergência jurisprudencial, a violação do artigo 300 do Código de Processo Civil.
+Defende que estão presentes os requisitos para a concessão da tutela de urgência.
+Com relação ao periculum in mora, afirma que "de nada adiantará dar razão mais tarde aos Recorrentes, fazendo excluir anotações restritivas de crédito somente ao final da demanda, após ter encerrado suas atividades, dispensado seus funcionários e lacrado suas portas" (fl. 294 e-STJ).
+Sustenta que "A PROBABILIDADE DO DIREITO - fumus boni iuris - também é incontestável, lastreada não somente na recusa da casa bancária em fornecer os contratos à demandante, mas, principalmente, na própria perícia contábil" (fl.294 e-STJ).
+Contrarrazões juntadas às fls. 306-313 (e-STJ).
+O Presidente do tribunal de origem inadmitiu o recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação não merece prosperar.
+Inicialmente, oportuno registrar que esta Corte Superior entende não ser cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, haja vista a natureza precária da decisão, consoante dispõe a Súmula nº 735/STF.
+A propósito:
+"ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO RECORRIDO QUE LIMITA-SE A RECONHECER OS REQUISITOS NECESSÁRIOS PARA A CONCESSÃO DA MEDIDA LIMINAR. IMPOSSIBILIDADE DE REVISÃO DOS CRITÉRIOS PARA CONCESSÃO DE MEDIDA LIMINAR, EM SEDE DE RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA 735/STF. AGRAVO INTERNO DO ESPÓLIO A QUE SE NEGA PROVIMENTO.
+1. O acórdão recorrido limita-se a analisar o pedido de concessão de liminar, para determinar a imissão de posse em parte da área litigiosa, ressaltando que o julgamento do recurso está restrito à análise do acerto ou desacerto da decisão singular, de tal sorte que o exame exauriente da matéria relativa ao mérito da causa tornava-se inviável, visto que este não é o objeto.
+2. Não cabe, em sede de Recurso Especial, a reapreciação da decisão que defere ou indefere pedido liminar ou antecipação de tutela, seja por não se tratar de decisão de mérito definitiva, a teor do que dispõe a Súmula 735/STF, seja por envolver o exame de material probatório.
+3. Agravo Interno do espólio a que se nega provimento" (AgInt no AREsp 371.848/SC, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 28/11/2017, DJe 6/12/2017).
+"CIVIL. PROCESSUAL CIVIL. AGRAVO REGIMENTAL. AGRAVO EM "RECURSO ESPECIAL. (..) RECURSO ESPECIAL QUE SE VOLTA CONTRA DECISÃO QUE DEFERE A ANTECIPAÇÃO DOS EFEITOS DA TUTELA. INCIDÊNCIA DA SÚMULA Nº 735 DO STF, POR ANALOGIA.
+(..)
+4. O STJ, em sintonia com o disposto no enunciado da Súmula nº 735 do STF, entende que, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou não liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito. Precedentes.
+5. Agravo regimental não provido" (AgRg no AREsp 614.229/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 23/6/2016, DJe 1º/7/2016).
+"EMBARGOS DE DECLARAÇÃO. RECURSO ESPECIAL. AGRAVO REGIMENTAL. PRINCÍPIO DA UNIRRECORRIBILIDADE. ANTECIPAÇÃO DE TUTELA. REVISÃO NO STJ. IMPOSSIBILIDADE. SÚMULA 735/STF. SÚMULA 7/STJ.
+(..)
+2. O STJ, em sintonia com o disposto no enunciado da Súmula 735 do STF, entende que, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito. Apenas violação direta ao dispositivo legal que disciplina o deferimento da medida autorizaria o cabimento do recurso especial, no qual não é possível decidir a respeito da interpretação dos preceitos legais que dizem respeito ao mérito da causa. Precedentes.(..)
+4. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento" (EDcl no REsp 1.293.275/AM, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 15/03/2016, DJe 21/03/2016).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. MEDIDA CAUTELAR. ARRESTO. REQUISITOS AUTORIZADORES. SUPERIOR TRIBUNAL DE JUSTIÇA. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. SÚMULA Nº 735/STF.
+1. A reforma do julgado demandaria o reexame do contexto fático-probatório, procedimento vedado na estreita via do recurso especial, a teor da Súmula nº 7/STJ.
+2. A jurisprudência do Superior Tribunal de Justiça entende que não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, haja vista a natureza precária da decisão, a teor do que dispõe a Súmula nº 735/STF.
+3. Agravo interno não provido" (AgInt no AREsp 990.867/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 2/2/2017, DJe 10/2/2017).
+Ademais, no presente caso, o Tribunal de origem entendeu que não estão presentes os requisitos previstos no art. 300 do CPC.
+Nesse contexto, a verificação do preenchimento ou não dos requisitos autorizadores da antecipação de tutela, nesta oportunidade, demandaria o revolvimento do contexto fático-probatório dos autos, procedimento vedado na via do recurso especial por força da Súmula nº 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de tratar dos honorários recursais (art. 85, § 11, do CPC/2015), haja vista que o recurso especial ao qual se negou provimento é oriundo de acórdão proferido por ocasião de julgamento de agravo de instrumento, sem fixação de honorários sucumbenciais.
+Publique-se.
+Intimem-se.
