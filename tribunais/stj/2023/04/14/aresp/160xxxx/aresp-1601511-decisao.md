@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de agravo interposto por MUNICÍPIO DE SOROCABA contra decisão que não admitiu seu recurso especial, fundamentado no art. 105, III, a, da Constituição Federal, por sua vez manejado contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 194):
+AGRAVO DE INSTRUMENTO - Processo em fase de execução - Precatório Judicial - Saldo remanescente - Na hipótese de atraso ou insuficiência no pagamento das parcelas do precatório judicial, cabível a correção da distorção - A expedição de precatório complementar, no caso, não se enquadra na vedação trazida pelo artigo 100, § 8º da CF - Decisão mantida - Recurso não provido.
+Acolhidos os embargos de declaração opostos, nos seguintes termos (fls. 233-234):
+Necessário acolher-se a irresignação para sanar o erro material.
+O trecho à fl. 197 que outrora constava:
+"Diante da atuação do patrono da agravada em grau recursal, majoro os honorários advocatícios fixados na origem em mais 1%, conforme preconiza o artigo 85, § 11º, do Código de Processo Civil de 2015."
+Doravante constará:
+"Enfim desacolho o presente recurso, pelos fundamentos citados, fixo honorário advocatício no mínimo legal (calculando-se com base no inciso do art. 85 do CPC/15 sobre o valor da diferença entre o quantum devido e o efetivamente pago), e os majoro 1%, conforme preconiza o artigo 85, § 11º, do Código de Processo Civil de 2015."
+A alteração, contudo, não implica prejuízo às partes e tampouco altera o resultado do julgamento vez que a sistemática aplicada restou inalterada.
+Nas razões do recurso especial (fls. 201-206), aponta a parte recorrente ofensa ao disposto no art. 85, § 11, do Código de Processo Civil, sustentando "ser descabido falar-se em honorários advocatícios recursais, uma vez que a r. decisão interlocutória de primeira instância expressamente deixou de condenar as partes ao pagamento da verba honorária".
+Oferecidas contrarrazões (fls. 237-241), sobreveio o juízo de admissibilidade negativo na instância de origem (fl. 260), o que ensejou a interposição do presente agravo (fls. 271-276).
+Sem contraminutas do agravo (fl. 278).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+A irresignação merece prosperar.
+A jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que "os honorários recursais não têm autonomia nem existência independente da sucumbência fixada na origem e representam um acréscimo (o CPC/2015 fala em "majoração") ao ônus estabelecido previamente, motivo por que na hipótese de descabimento ou na de ausência de fixação anterior, não haverá falar em honorários recursais" (STJ, AREsp 1.050.334/PR, relator Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 3/4/2017).
+Confiram-se precedentes:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REAFIRMAÇÃO DA DER. JUROS MORATÓRIOS DEVIDOS EM CASO DE DESCUMPRIMENTO DA OBRIGAÇÃO. PRAZO PARA A IMPLANTAÇÃO DO BENEFÍCIO: 45 DIAS DA CONDENAÇÃO. EMBARGOS DE DELARAÇÃO NO RECURSO ESPECIAL 1.727.063/SP, SUBMETIDO AO RITO DOS REPETITIVOS (TEMA 995/STJ). ACÓRDÃO EM HARMONIA COM A ORIENTAÇÃO DO STJ SOBRE O TEMA. SÚMULA 83/STJ. MAJORAÇÃO DE HONORÁRIOS RECURSAIS. DESCABIMENTO. AGRAVO INTERNO DO PARTICULAR PARCIALMENTE PROVIDO.
+ ..
+3. No que toca aos honorários recursais, o recurso merece prosperar. Com efeito, a pretensão da parte autora foi parcialmente acolhida em primeira instância, com a condenação da autarquia federal ao pagamento integral dos honorários de sucumbência. Em segunda instância, os recursos de apelação de ambas as partes foram parcialmente providos, sem que houvesse a inversão do ônus da sucumbência. Assim, realmente, não há falar em majoração da verba honorária em desfavor da parte recorrente, com amparo no art. 85, § 11, do CPC/2015, porquanto não fixada na instância de origem.
+4. Agravo interno do particular parcialmente provido, apenas para afastar a majoração de honorários advocatícios.
+(AgInt no AREsp n. 1.840.254/PR, relator Ministro Manoel Erhardt (desembargador convocado do TRF5), Primeira Turma, julgado em 25/10/2021, DJe de 27/10/2021.)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO FISCAL. CRÉDITO TRIBUTÁRIO. LANÇAMENTO POR HOMOLOGAÇÃO. DESNECESSIDADE DE LANÇAMENTO POR PARTE DA ADMINISTRAÇÃO TRIBUTÁRIA. SÚMULA 436/STJ. PRECEDENTES DO STJ. VALIDADE DA CDA. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. FALTA DE IMPUGNAÇÃO, NO RECURSO ESPECIAL, DE FUNDAMENTO DO ACÓRDÃO COMBATIDO, SUFICIENTE PARA A SUA MANUTENÇÃO. INCIDÊNCIA DA SÚMULA 283/STF. HONORÁRIOS RECURSAIS. AUSÊNCIA DE FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS, NA ORIGEM. IMPOSSIBILIDADE DE MAJORAÇÃO. ART. 85, § 11, DO CPC/2015. AGRAVO INTERNO PARCIALMENTE PROVIDO.
+ ..
+VI. Quanto aos honorários recursais, assiste razão à parte agravante. Nos termos da jurisprudência deste Superior Tribunal de Justiça, "os honorários recursais não têm autonomia nem existência independente da sucumbência fixada na origem e representam um acréscimo (o CPC/2015 fala em "majoração") ao ônus estabelecido previamente, motivo por que na hipótese de descabimento ou na de ausência de fixação anterior, não haverá falar em honorários recursais" (STJ, AREsp 1.050.334/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 03/04/2017). No caso dos autos, o Juízo singular afastou a condenação da parte ora agravante em honorários advocatícios, "em vista da cobrança, na execução fiscal, do encargo de 20% previsto no Decreto-lei n. 1.025/69 (Súmula nº 168 do TFR)", de maneira que se mostra indevida a fixação de honorários recursais.
+VII. Agravo interno parcialmente provido, para afastar a condenação em honorários recursais.
+(AgInt no REsp n. 1.883.070/RS, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 19/4/2021, DJe de 23/4/2021.)
+Desse modo, o acórdão recorrido está em divergência da orientação jurisprudencial do STJ.
+Ante o exposto, conheço do agrav o e dou provimento ao recurso especial para afastar a fixação e majoração dos honorários advocatícios fixados pelo Tribunal de origem.
+Publique-se. Intimem-se.
