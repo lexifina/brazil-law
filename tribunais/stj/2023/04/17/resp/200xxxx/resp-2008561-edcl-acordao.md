@@ -1,0 +1,86 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 11/04/2023 a 17/04/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por Caixa de Previdência dos Funcionários do Banco do Brasil ao acórdão da Terceira Turma desta Corte assim ementado (e-STJ, fls. 1.675-1.676):
+AGRAVO INTERNO NO RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. AÇÃO DE REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO. 1. NÃO CABIMENTO DO AGRAVO EM RECURSO ESPECIAL CONTRA A DECISÃO FUNDADA NO ART. 1.030, I, B, DO CPC/2015. 2. HONORÁRIOS SUCUMBENCIAIS. REVISÃO. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. 3. AGRAVO INTERNO DESPROVIDO.
+1. Consoante dispõe o art. 1.030, § 2º, do CPC/2015, o recurso cabível contra a decisão que nega seguimento a recurso especial, ao fundamento de que o acórdão recorrido está em conformidade com tese fixada em recurso repetitivo (art. 1.030, I, b, do CPC/2015), é o agravo interno. Logo, havendo expressa previsão legal do recurso adequado, é inadmissível a interposição do agravo previsto no art. 1.042, caput, do CPC/2015, com a finalidade de atacar decisão com aquele fundamento, constituindo erro grosseiro.
+2. Modificar o entendimento do Tribunal local (acerca do percentual fixado como honorários advocatícios e da distribuição da sucumbência) exigiria reexame de matéria fático-probatória, também inviável devido ao óbice da Súmula 7/STJ.
+3. Agravo interno desprovido.
+Em suas razões (e-STJ, fls. 1.697-1.709), a embargante aponta vício na decisão embargada.
+Para tanto, sustenta omissão, na medida em que a tese firmada no Tema n. 955/STJ não versou sobre o arbitramento de honorários de sucumbência. Sendo assim, antes da liquidação de sentença e subsequente opção do demandante para recomposição ou não da reserva matemática, não seria possível declarar a ora insurgente como sucumbente.
+Aduz que "a revisão pleiteada se dá pelo reconhecimento tardio de horas extras trabalhadas, não sendo o beneficiário funcionário da Previ, resta evidente que a Recorrente não deu causa à propositura da ação" (e-STJ, fl. 1.701).
+Indica, ainda, os arts. 5º, XXXVI, e 93, IX, da CF/1988 para efeito de prequestionamento.
+Novos embargos de declaração apresentados pela ora embargante às fls. 1.710-1.716 (e-STJ).
+Impugnação apresentada às fl. 1.725 (e-STJ).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. INTERPOSIÇÃO DE DOIS AGRAVOS INTERNOS CONTRA A MESMA DECISÃO. NÃO CABIMENTO. OMISSÃO. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Conforme a jurisprudência do Superior Tribunal de Justiça, tendo em vista o princípio da unirrecorribilidade e a preclusão consumativa, a interposição de dois recursos pela mesma parte contra a mesma decisão judicial impede o conhecimento daquele protocolizado por último.
+2. Consoante dispõe o art. 1.022 do CPC/2015, destinam-se os embargos de declaração a corrigir no julgado eventual omissão, obscuridade, contradição ou erro material, não se caracterizando via própria ao rejulgamento da causa.
+3. Ademais, "não compete a esta Corte Superior a análise de suposta violação de dispositivos constitucionais, ainda que para efeito de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal, ex vi art. 102, III, da Constituição da República" (EDcl no REsp 1.725.452/RS, Relatora Ministra Regina Helena Costa, DJe 22/9/2021).
+4. Embargos de declaração de fls. 1.710-1.716 (e-STJ) não conhecidos.
+5. Embargos de declaração rejeitados.
+VOTO
+De início, necessário esclarecer que se mostram inadmissíveis os segundos embargos de declaração opostos pela ora embargante, pois, em observância ao princípio da unicidade ou unirrecorribilidade recursal, ao embargante não é dado interpor mais de um recurso contra a mesma decisão, operando-se a preclusão consumativa, caso isso aconteça, em relação àquele interposto por último.
+Logo, considerando que contra o acórdão da Terceira Turma desta Corte o embargante já havia interposto os aclaratórios de fls. 1.697-1.709 (e-STJ), de rigor o não conhecimento da segunda insurgência, ante a preclusão consumativa.
+A fim de corroborar a conclusão exarada, confira-se o seguinte julgado deste Tribunal:
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DOIS RECURSOS INTERPOSTOS CONTRA UMA ÚNICA DECISÃO. PRINCÍPIO DA UNIRRECORRIBILIDADE. PRECLUSÃO CONSUMATIVA. NÃO CONHECIMENTO DOS EMBARGOS DE FLS. 480/486.
+1. Ressalte-se que "é assente, na jurisprudência do STJ, o entendimento de que a interposição de dois ou mais recursos, pela mesma parte e contra a mesma decisão, impede o conhecimento daqueles que foram apresentados após o primeiro apelo, haja vista a preclusão consumativa e o princípio da unirrecorribilidade.
+Precedentes do STJ: EDcl no AgRg no AREsp 799.126/RS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, DJe de 09/06/2016; AgRg no REsp 1.525.945/RJ, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, DJe de 03/06/2016" (AgInt no AREsp 1.097.778/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 24/10/2017).
+2. Caso concreto em que a parte ora agravante interpôs dois embargos de declaração contra a mesma decisão atacada, sendo inviável o conhecimento do segundo recurso.
+3. Embargos de declaração de fls. 480/486 não conhecidos.
+(EDcl no AgInt no AREsp n. 1.921.341/RJ, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 21/2/2022, DJe de 24/2/2022.)
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. INTERPOSIÇÃO DE DUAS PEÇAS RECURSAIS. PRECLUSÃO CONSUMATIVA E OFENSA AO PRINCÍPIO DA UNICIDADE RECURSAL. EMBARGOS DOS PARTICULARES NÃO CONHECIDOS.
+1. Não é possível conhecer da insurgência, visto que a interposição de dois Embargos de Declaração pela mesma parte objetivando impugnar a mesma decisão impede o conhecimento do segundo recurso, em face da ocorrência da preclusão consumativa e observância ao princípio da unirrecorribilidade das decisões.
+2. Embargos de Declaração dos Particulares não conhecidos.
+(EDcl no AgRg no REsp n. 1.386.100/RS, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 4/5/2020, DJe de 6/5/2020.)
+Outrossim, os embargos de declaração constituem modo de impugnação à decisão judicial de fundamentação vinculada, sendo cabíveis tão somente nas hipóteses previstas no art. 1.022 do Código de Processo Civil de 2015, quais sejam, omissão, obscuridade e contradição, bem como para sanar erro material.
+O recurso em comento visa unicamente aperfeiçoar as decisões judiciais, com o intuito de prestar a tutela jurisdicional de forma clara e completa, não tendo por finalidade revisar ou anular decisões. Apenas, excepcionalmente, ante o aclaramento de obscuridade, desfazimento de contradição ou supressão de omissão, prestam-se os declaratórios a modificar o julgado.
+Registre-se que, em relação à fixação dos honorários sucumbenciais, o julgamento ora embargado é claro em consignar que, diversamente do que indica a ora embargante, sua fixação não possui reflexo na tese firmada no Tema 955/STJ, mas decorre de expressa previsão legal (art. 85 do CPC/2015).
+A propósito:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. EXECUÇÃO. CÉDULA DE CRÉDITO RURAL. RENEGOCIAÇÃO DA DÍVIDA. EXTINÇÃO IMPRÓPRIA. MODIFICAÇÃO DO DIREITO DE CRÉDITO. HONORÁRIOS ADVOCATÍCIOS. PRINCÍPIO DA CAUSALIDADE. CAUSA SUPERVENIENTE. RESPONSABILIDADE. ATUAÇÃO BILATERAL DAS PARTES. ART. 12 DA LEI 13.340/16. ART. 90, § 2º, DO CPC/15. DISTRIBUIÇÃO IGUALITÁRIA.
+1. Cuida-se de execução fundada em Cédula de Crédito Rural Pignoratícia e Hipotecária que foi extinta em razão da renegociação da dívida, nos termos da Lei 13.340/16.
+2 Recurso especial interposto em: 09/04/2019; conclusos ao gabinete em: 09/09/2019. Aplicação do CPC/15.
+3. O propósito recursal consiste em determinar se, em virtude da renegociação, realizada com fundamento na Lei 13.340/16, da dívida inscrita em cédula de crédito rural pignoratícia e hipotecária, com a consequente extinção do processo executivo, devem ser os executados condenados a pagar honorários advocatícios em favor dos patronos do exequente.
+4. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+5. A condenação ao pagamento de honorários advocatícios é uma consequência objetiva da extinção do processo, sendo orientada, em caráter principal, pelo princípio da sucumbência e, subsidiariamente, pelo da causalidade.
+6. O princípio da causalidade atende a uma razão de justiça distributiva e demanda que se questione comportamento das partes antes e no decorrer do processo.
+7. A aplicação da causalidade e a justa distribuição das despesas e dos honorários resulta na imputação da responsabilidade a quem tornou necessário o processo ou quem seja responsável pela causa superveniente que ensejou sua extinção. Precedentes.
+8. O processo executivo pode encontrar termo de maneira anômala e antecipada nos casos em que se extingue o próprio direito de crédito do exequente, por qualquer dos meios liberatórios previstos no direito material, ainda que extraprocessuais.
+9. O acordo bilateral entre as partes, envolvido na renegociação da dívida, demanda reciprocidade das concessões, não caracteriza sucumbência e é resultado da conduta de ambas as partes. Nessa situação, os honorários devem ser arcados por cada parte, em relação a seu procurador (arts. 90, § 2º, do CPC/15 e 12 da Lei 13.340/16).
+10. Recurso especial parcialmente conhecido e, no ponto, desprovido. (REsp 1.836.703/TO, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 6/10/2020, DJe de 15/10/2020 - sem grifo no original)
+Além disso, na hipótese dos autos, a embargante foi condenada ao pagamento de custas e despesas processuais, assim como ao pagamento de honorários advocatícios no montante de 10% sobre o valor da causa (e-STJ, fl. 727).
+Dessa maneira, esta Corte Superior possui entendimento de que a alteração a conclusão do acórdão de origem - no sentido de que a análise sobre a distribuição dos honorários sucumbenciais, a aplicação do princípio da causalidade e o montante cabível a cada uma das partes - exige o reexame do conjunto fático-probatório, o que não se mostra possível nesta esfera recursal.
+Na mesma linha de cognição:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL E CIVIL. CONTRATO DE COMPRA E VENDA. ATRASO NA ENTREGA DO IMÓVEL. FORÇA MAIOR. NÃO CONFIGURAÇÃO. MULTA POR RESCISÃO CONTRATUAL POR INADIMPLEMENTO. CABIMENTO. ANÁLISE. INTERPRETAÇÃO DAS CLÁUSULAS CONTRATUAIS E REEXAME DE PROVAS. VEDAÇÃO. SÚMULAS 5 E 7/STJ. INCIDÊNCIA. ÔNUS DA SUCUMBÊNCIA, PRINCÍPIO DA CAUSALIDADE E HONORÁRIOS ADVOCATÍCIOS. ANÁLISE. REEXAME DE PROVAS. VEDAÇÃO. SÚMULA 7/STJ. INCIDÊNCIA. AGRAVO INTERNO NÃO PROVIDO.
+1. A conclusão a que chegou o Tribunal de origem, no sentido de que não se configurou nenhum motivo excludente de força maior previsto no contrato apto a causar o atraso na entrega do imóvel, ensejando a multa por rescisão contratual por inadimplemento , também prevista no instrumento, decorreu de convicção formada em face do contrato celebrado entre as partes e dos elementos fáticos existentes nos autos. Rever os fundamentos do acórdão recorrido importa necessariamente na interpretação das cláusulas contratuais e no reexame de provas, o que é vedado nesta fase recursal. Incidência das Súmulas 5 e 7/STJ.
+2. O STJ possui entendimento uniforme no sentido de que a análise sobre a distribuição do ônus da sucumbência, a aplicação do princípio da causalidade e o valor dos honorários advocatícios demanda o reexame do conjunto fático-probatório, o que é inviável nesta via especial. Incidência da Súmula 7/STJ.
+3. Agravo interno não provido. (AgInt no AgInt no AREsp 1.628.525/PE, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 29/6/2020, DJe de 3/8/2020)
+Vale citar ainda:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO REVISIONAL - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA DEMANDADA.
+1. A alegação genérica de negativa de prestação jurisdicional, sem a demonstração precisa da ocorrência e relevância dos supostos vícios, atrai a incidência da Súmula 284/STF.
+2. É necessária a recomposição prévia da reserva matemática para que haja o recálculo do benefício mensal a ser pago a parte autora.
+Precedentes.
+3. Rever as conclusões da Corte de origem, acerca do montante arbitrado a título de honorários sucumbenciais e distribuição da sucumbência, encontra óbice na Súmula 7/STJ.
+4. Agravo interno desprovido. (AgInt no REsp n. 1.961.902/DF, relator Ministro MARCO BUZZI, Quarta Turma, julgado em 9/5/2022, DJe de 13/5/2022)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. INDENIZAÇÃO. INSCRIÇÃO. CADASTRO. RESTRITIVO. CULPA CONCORRENTE. PREQUESTIONAMENTO FICTO. ART. 1.025 DO CPC/2015. INEXISTÊNCIA. REEXAME DE PROVAS. DANOS MORAIS. VALOR. IMPOSSIBLIDADE DE REVISÃO. SÚMULA Nº 7/STJ. SUCUMBÊNCIA. GRAU. MATÉRIA DE FATO. HONORÁRIOS RECURSAIS. MAJORAÇÃO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+ ..
+6. A jurisprudência desta Corte é firme no sentido de não se poder rever o entendimento exarado na origem, fixado a título de honorários de sucumbência, ante o óbice da Súmula nº 7/STJ.
+7. O Enunciado Administrativo nº 7/STJ deliberou que nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais. Hipótese dos autos.
+8. Agravo interno não provido. (AgInt no AREsp 1.514.423/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 16/3/2020, DJe 19/3/2020)
+Por conseguinte, ao analisar a questão aduzida no recurso especial, decidiu- se por aplicar o mencionado óbice sumular, de forma clara e fundamentada, sem incorrer nos vícios de obscuridade, contradição, omissão ou erro material, com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+Observa-se então que, na verdade, a parte embargante busca a rediscussão da matéria já decidida de maneira inequívoca pela Turma julgadora, pretensão esta que não se encontra em harmonia com a natureza e a função dos embargos declaratórios.
+Evidente, portanto, a impossibilidade de acolhimento dos presentes declaratórios, porquanto devidamente motivada a decisão, além de não ter sido demonstrada a ocorrência de nenhuma das hipóteses do art. 1.022 do Código de Processo Civil de 2015.
+Ademais, cabe registrar que "não compete a esta Corte Superior a análise de suposta violação de dispositivos constitucionais, ainda que para efeito de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal, ex vi art. 102, III, da Constituição da República" (EDcl no REsp 1.725.452/RS, Relatora Ministra Regina Helena Costa, DJe 22/9/2021).
+Confira-se:
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. RESPONSABILIDADE CIVIL. "MÁFIA DO APITO". JOGOS DE FUTEBOL. ARBITRAGEM. FRAUDE. DANO MORAL COLETIVO. NÃO CONFIGURAÇÃO. OMISSÃO, CONTRADIÇÃO E OBSCURIDADE NÃO VERIFICADAS. DISPOSITIVOS CONSTITUCIONAIS. PREQUESTIONAMENTO. INVIABILIDADE.
+1. Ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade, eliminar a contradição ou corrigir erro material, mas, sim, reformar o julgado por via inadequada.
+2. Nos termos do art. 105, III, da Constituição Federal, não compete ao Superior Tribunal de Justiça o exame de dispositivos constitucionais em embargos de declaração, ainda que opostos para fins de prequestionamento, sob pena de invasão da competência atribuída ao Supremo Tribunal Federal.
+3. Embargos de declaração rejeitados. (EDcl no REsp 1.664.186/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 13/4/2021, DJe 16/4/2021)
+Ante o exposto, não conheço dos embargos de declaração de fls. 1.710-1.76 (e-STJ) e rejeito os embargos de declaração de fls. 1.697-1.709 (e-STJ).
+Por fim, no que diz respeito ao pleito trazido na impugnação aos declaratórios - de aplicação da multa do art. 1.026, § 2º, do CPC/2015 -, constata-se que não está configurado, por ora, o manifesto intuito protelatório capaz de ensejar a aplicação da sanção.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de novos embargos de declaração manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
