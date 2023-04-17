@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 11/04/2023 a 17/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE CONTRATUAL CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. PRINCÍPIO DA NÃO SURPRESA. FUNDAMENTO LEGAL. INAPLICABILIDADE. NEGÓCIO JURÍDICO ANULÁVEL. DOLO. PRAZO DECADENCIAL DE 4 ANOS. AGRAVO INTERNO IMPROVIDO.
+1. Nos termos da jurisprudência do STJ, "O princípio da não surpresa não impede a requalificação jurídica do enquadramento fático circunscrito na causa de pedir da demanda, em relação ao qual houve o necessário contraditório, defluindo do princípio jura novit curia" (REsp 1.717.144/SP, R elator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 14/2/2023, DJe de 28/2/2023).
+2. Na forma do art. 178, II, do Código Civil de 2002, o prazo de decadência para pleitear-se a anulação de negócio jurídico objeto de dolo é de 4 (quatro) anos, contados da data da celebração do negócio jurídico.
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Trata-se de agravo interno interposto por JEANE MARIA DE ALMEIDA contra decisão desta relatoria, que deu parcial provimento ao recurso especial manejado por IPÊ EMPREENDIMENTOS IMOBILIÁRIOS LTDA para reconhecer a decadência do pedido inicial.
+Em suas razões recursais, a ora agravante alega, em síntese: (a) a aplicação do prazo decadencial pela decisão agravada, com base na constatação de dolo negativo da empresa ré, ofendeu o princípio da não-surpresa, pois esse fundamento jamais havia sido debatido na lide; (b) nas hipóteses de vício do produto ou do serviço, a prescrição da ação de reparação de danos se inicia do conhecimento do dano e da autoria, e não da conclusão do negócio jurídico, o que afasta, na hipótese, a consumação do prazo prescricional; (c) ainda que se admitisse a incidência do prazo decadencial previsto no art. 26, II, do CDC, o termo inicial do prazo prescricional deveria ser a data da ciência inequívoca da consumidora a respeito da inutilidade parcial do imóvel adquirido; (d) a reclamação administrativa efetuada em fevereiro de 2017 obstou a decadência do direito; e (e) o prazo prescricional aplicável às ações de indenização por inadimplemento contratual é decenal, conforme a regra geral do art. 205 do Código Civil.
+Requer, ao final, a reconsideração da decisão agravada ou sua reforma pela Turma Julgadora (fls. 322/346).
+Impugnação apresentada às fls. 349/354.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE CONTRATUAL CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. PRINCÍPIO DA NÃO SURPRESA. FUNDAMENTO LEGAL. INAPLICABILIDADE. NEGÓCIO JURÍDICO ANULÁVEL. DOLO. PRAZO DECADENCIAL DE 4 ANOS. AGRAVO INTERNO IMPROVIDO.
+1. Nos termos da jurisprudência do STJ, "O princípio da não surpresa não impede a requalificação jurídica do enquadramento fático circunscrito na causa de pedir da demanda, em relação ao qual houve o necessário contraditório, defluindo do princípio jura novit curia" (REsp 1.717.144/SP, Relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 14/2/2023, DJe de 28/2/2023).
+2. Na forma do art. 178, II, do Código Civil de 2002, o prazo de decadência para pleitear-se a anulação de negócio jurídico objeto de dolo é de 4 (quatro) anos, contados da data da celebração do negócio jurídico.
+3. Agravo interno a que se nega provimento.
+VOTO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Inexistem razões que justifiquem o acolhimento da pretensão recursal.
+De início, observa-se que o princípio da não-surpresa proíbe o magistrado de emitir decisão com base em fato a respeito do qual as partes ainda não se manifestaram. Não veda, porém, que a causa seja decidida à luz do ordenamento jurídico e das regras efetivamente aplicáveis à controvérsia, cujo conhecimento é exigido não só de todos os cidadãos (princípio da força obrigatória da lei), mas especialmente de todos os operadores do direito.
+Nesse sentido:
+"EMBARGOS DE DECLARAÇÃO. OMISSÃO. OBSCURIDADE. CONTRADIÇÃO. INEXISTÊNCIA. PRINCÍPIO DA NÃO SURPRESA. AUSÊNCIA DE OFENSA. EFEITOS MODIFICATIVOS. USO DE EMBARGOS DECLARATÓRIOS PARA CONFORMAÇÃO A JULGAMENTO EM REPETITIVO. APLICAÇÃO RESTRITIVA.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+2. O "fundamento" ao qual se refere o art. 10 do CPC/2015 é o fundamento jurídico - circunstância de fato qualificada pelo direito, em que se baseia a pretensão ou a defesa, ou que possa ter influência no julgamento, mesmo que superveniente ao ajuizamento da ação - não se confundindo com o fundamento legal (dispositivo de lei regente da matéria). A aplicação do princípio da não surpresa não impõe, portanto, ao julgador que informe previamente às partes quais os dispositivos legais passíveis de aplicação para o exame da causa. O conhecimento geral da lei é presunção jure et de jure.
+3. O acolhimento dos embargos de declaração com efeitos modificativos para fim de adequação a precedente julgado em recurso repetitivo tem como pressuposto que a tese repetitiva seja anterior ao julgado embargado. Somente assim se poderia considerar que o acórdão embargado tivesse se omitido na consideração da orientação firmada no recurso repetitivo. Precedente da Corte Especial: EAg 1.014.027/RJ, rel. Ministro Jorge Mussi, DJe 26.10.2016.
+4. Ademais, tal efeito modificativo somente se justificaria, de forma excepcional, se se cuidasse da mesma matéria julgada no repetitivo. Os embargos de declaração não se prestam à aplicação analógica de tese repetitiva, o que deve ser buscado na via processual adequada.
+5. Embargos de declaração rejeitados."
+(EDcl no REsp 1280825/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 27/06/2017, DJe 01/08/2017, g.n.)"
+"DIREITO CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. SUSPENSÃO DO CUMPRIMENTO DE SENTENÇA. AUSÊNCIA DE BENS PASSÍVEIS DE EXECUÇÃO. INÉRCIA DO EXEQUENTE POR SIGNIFICATIVO PERÍODO DE TEMPO. BOA-FÉ OBJETIVA. "SUPRESSIO" . NÃO OCORRÊNCIA. DISTINÇÃO. PRESCRIÇÃO E DECADÊNCIA. IMPOSSIBILIDADE DA SUSPENSÃO DA FLUÊNCIA DE JUROS E CORREÇÃO MONETÁRIA DURANTE A SUSPENSÃO DO PROCESSO. INEXISTÊNCIA DE OFENSA À COISA JULGADA. RECURSO PROVIDO.
+1. Inexiste afronta aos arts. 489 e 1.022 do CPC/2015 quando a Corte local se pronunciou, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. O princípio da não surpresa não impede a requalificação jurídica do enquadramento fático circunscrito na causa de pedir da demanda, em relação ao qual houve o necessário contraditório, defluindo do princípio jura novit curia.
+ ..
+6. Recurso especial provido."
+(REsp n. 1.717.144/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 14/2/2023, DJe de 28/2/2023)
+Quanto ao mérito da controvérsia, trata-se de ação de indenização por danos materiais e morais, imputando-se à parte ré a venda de imóvel à autora com omissão dolosa a respeito de restrição ambiental que impede a construção em grande parte do terreno adquirido.
+O Tribunal de origem, em análise de preliminar, afastou a decadência da pretensão com base na seguinte fundamentação:
+"Vale dizer, trata-se de grave vício, repercutindo no patrimônio material ou moral do consumidor, por isso a hipótese será de responsabilidade pelo fato do produto, observando-se, assim, o prazo prescricional quinquenal do art. 27 do referido diploma legal, cujo decurso, a propósito, não se configurou na espécie.
+Veja-se que, tendo como termo inicial da contagem do prazo quinquenal a o data da ciência do vício alegado (29/03/216 - fls. 25) e termo final 29/03/2021, não há que se falar em prescrição, já que a presente ação foi ajuizada em 16/02/2018.
+(..)
+Por outro lado, ainda que se admitisse a aplicação do art. 26, inciso II, do CDC não haveria que se falar em decadência, porquanto tão logo descoberto o vício oculto a consumidora/compradora formulou reclamação perante o vendedor, conforme narrado na petição inicial e provado pelo documento de p. 32, o qual revela que a reclamação extrajudicial foi feita de forma verbal no decorrer do ano de 2016, de forma escrita em fevereiro de 2017 e reiterada em novembro de 2017, mas não houve resposta. Diante da ausência de resposta negativa, o prazo decadencial sequer iniciou a sua contagem até a data da propositura da ação." (fls. 182/183)
+Conforme se verifica, a Corte de origem afastou a decadência do pedido, por considerar que ao caso melhor se amoldaria a aplicação do art. 27 do CDC, segundo o qual " p rescreve em cinco anos a pretensão à reparação pelos danos causados por fato do produto ou do serviço (..)".
+Entretanto, cuida-se de ação de anulação de negócio jurídico fundado na alegação de dolo negativo, vício de consentimento por meio do qual a parte contratada omite com má-fé vício que reduz o valor ou torna impróprio o uso do bem, cujo prazo decadencial é de 4 (quatro) anos a contar da celebração do negócio jurídico, nos termos do art. 178, II, do Código Civil. Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO REVISIONAL DE BENEFÍCIO PREVIDENCIÁRIO - DECISÃO MONOCRÁTICA QUE DEU PROVIMENTO AO RECLAMO DA ENTIDADE DE PREVIDÊNCIA PRIVADA, A FIM DE JULGAR IMPROCEDENTE A DEMANDA, ANTE O RECONHECIMENTO DA DECADÊNCIA.
+INSURGÊNCIA DA REQUERENTE.
+Hipótese: Trata-se de ação, ajuizada por viúva de participante de plano de previdência privada, buscando a revisão do cálculo de pensão por morte com fundamento em critérios previstos em estatuto já extinto.
+1. No caso, a revisão pleiteada exigiria a prévia anulação do contrato ou transação extrajudicial (atinente à migração), a fim de repristinar o plano original. 1.1. Incidência do prazo decadencial de 4 (quatro) anos para o exercício do direito potestativo de pleitear a anulação de negócio jurídico (no caso, a migração) supostamente celebrado mediante erro ou dolo, contado do dia em que se realizara, nos termos dos artigos 178, § 9º, inciso V, alínea "b", do Código Civil de 1916, e 178, inciso II, do Código Civil de 2002 (REsp 1.201.529/RS, Rel. Ministro Sidnei Beneti, Rel. p/ Acórdão Ministra Maria Isabel Gallotti, Segunda Seção, julgado em 11.03.2015, DJe 01.06.2015).
+2. Agravo interno desprovido
+(AgInt no AREsp 742.220/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 28/03/2019, DJe 02/04/2019)"
+Por sinal, há de se destacar que a imputação de dolo negativo à recorrente foi considerado fato incontroverso nos autos, ante a verificação da revelia.
+Nesse contexto, considerada a afirmação do Tribunal de origem de que "a autora/apelada adquiriu um lote de terra da ré/apelante no ano de 2000" (fl. 185), reclamando o direito à reparação de danos apenas em 2016 (administrativamente) e em 2018 (judicialmente), a demanda encontra-se fulminada pela decadência.
+Por fim, nada obstante essa conclusão possa causar alguma indignação à parte consumidora, sua proteção não pode ser promovida ao arrepio das regras de direito, em especial das que garantem a segurança jurídica nas relações sociais.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
