@@ -1,0 +1,55 @@
+DECISÃO:
+
+    Vistos.
+
+    Christian Adolpho Diniz do Nascimento interpõe recurso extraordinário contra acórdão da 2ª Câmara de Direito Privado do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+
+    “APELAÇÃO. AÇÃO DECLARATÓRIA INCIDENTAL. ASSOCIAÇÃO DE MORADORES. CERCEAMENTO DE DEFESA. Inocorrência. Julgamento antecipado do mérito. Prova documental carreada aos autos suficiente para o deslinde da controvérsia. EXISTÊNCIA DE RELAÇÃO JURÍDICA ENTRE OS LITIGANTES. Prestação de serviços, de caráter indivisível, aos moradores ou proprietários de imóveis localizados na área de atuação de associação de moradores. Reconhecimento de existência de relação jurídica entre os litigantes. Inaplicabilidade, no caso concreto, da tese consolidada no REsp 1280871/SP. Fundamento do crédito que não tem por base o vínculo associativo, mas o dever contratual estabelecido por imposição do loteador. Adquirente de lote que sucede o transmitente em todos os seus direitos e obrigações. Inteligência do art. 29 da Lei nº 6766/79. Presença de contrato padrão na matrícula do loteamento com a informação relativa ao dever de rateio de despesas. Precedentes desta E. Corte e do E. Superior Tribunal de Justiça. SUCUMBÊNCIA. Inversão do ônus sucumbencial. RECURSO PROVIDO”.
+
+    No recurso extraordinário sustenta-se violação do artigo 5º, caput e incisos II e XX, da Constituição Federal.
+
+    Em 15/6/21, o Presidente da Seção de Direito Privado do Tribunal de origem, em razão do julgamento do RE nº 695.911/SP, feito paradigma do Tema 492 da Repercussão Geral, determinou a remessa dos autos à Câmara julgadora para a análise de eventual juízo de retratação.
+
+    Após novo julgamento do feito, a 2ª Câmara de Direito Privado do Tribunal de Justiça de São Paulo deixou de exercer o juízo de retratação sob o fundamento de que “a previsão do rateio de despesas foi devidamente registrada na matrícula mãe, tendo-se que a adesão é contratual, não associativa, permitindo-se a cobrança dos valores do proprietário/possuidor do lote, antes ou depois da Lei Federal 13.465/2017 ou da vigência de Lei Municipal / Decreto Municipal, ante a sua adesão”. Eis a ementa:
+
+    “ASSOCIAÇÃO. ARTIGO 1.030, II/CPC. Autor que requereu a declaração de inexistência de relação jurídica. Sentença de procedência. Acórdão que deu provimento ao recurso da associação ré. DEVOLUÇÃO DOS AUTOS PELA EGRÉGIA PRESIDÊNCIA DA SEÇÃO DE DIREITO PRIVADO DESTE TRIBUNAL PARA REAPRECIAÇÃO. TEMA 492 DO E. SUPREMO TRIBUNAL FEDERAL: ‘É inconstitucional a cobrança por parte de associação de taxa de manutenção e conservação de loteamento imobiliário urbano de proprietário não associado até o advento da Lei nº 13.465/17, ou de anterior lei municipal que discipline a questão, a partir da qual se torna possível a cotização dos proprietários de imóveis, titulares de direitos ou moradores em loteamentos de acesso controlado, que i) já possuindo lote, adiram ao ato constitutivo das entidades equiparadas a administradoras de imóveis ou (ii) sendo novos adquirentes de lotes, o ato constitutivo da obrigação esteja registrado no competente Registro de Imóveis’. CASO SUB JUDICE: Matrícula mãe que registrou a obrigação dos proprietários/possuidores de lotes de rateamento das despesas, inclusive de fornecimento de água pela associação. Autor que adquiriu o lote de terceiros, sub-rogando-se nos direitos e obrigações, nos termos do artigo 29 da Lei 6.766/79. Tem-se pela adesão contratual, que permite a cobrança do rateio de despesas. Acórdão confirmado. RECURSO PROVIDO”.
+
+    Decido.
+
+    Anote-se, inicialmente, que o caso dos autos não se enquadra na matéria abordada no Tema nº 492 (RE nº 695.911/SP), pois, na espécie, a cobrança de despesas se origina de previsão contratual, matéria distinta da abordada no tema referido.
+
+    De fato, o Tribunal de origem modificou a sentença que julgou procedente o pedido autoral com base nos seguintes fundamentos:
+
+    “In casu, todavia, a situação fática não se amolda perfeitamente ao precedente supracitado, motivo pelo qual há de se reconhecer a sua inaplicabilidade (distinguish).
+
+    Assim o é porque o fundamento do rateio das despesas, no caso concreto, não corresponde à existência de vínculo associativo tácito entre os litigantes, mas sim ao dever contratual do apelado, reforçado pela legislação sobre o tema, de adimplir com os custos necessários para a manutenção do lote.
+
+    De fato, conforme pode se depreender do contrato padrão instituído pelo loteador e averbado junto à matrícula do próprio loteamento, ‘todos os sítios que compõem o loteamento PANORAMA SÍTIOS DE RECREIO serão servidos de água, linha de tronco de eletricidade e asfalto, instalados às expensas da VENDEDORA para uso exclusivo de seus proprietários, que se obrigam a manter esses serviços, inclusive o poço semi-artesiano, às suas expensas e conservá-los sempre em bom estado e perfeito funcionamento, sendo certo que essas despesas de manutenção, inclusive dos bosques e áreas comuns, serão rateadas na proporção das áreas de cada comprador’ (fls. 43).
+
+    Há de se consignar que quando o apelado adquiriu a res de antiga proprietária (fls. 13/15), referidas informações já gozavam de publicidade, uma vez que registradas perante Cartório de Registro Imobiliário, sendo que, nos termos do art. 29 da Lei nº 6766/79, ‘aquele que adquirir a propriedade loteada mediante ato inter vivos, ou por sucessão causa mortis, sucederá o transmitente em todos os seus direitos e obrigações, ficando obrigado a respeitar os compromissos de compra e venda ou as promessas de cessão, em todas as suas cláusulas, sendo nula qualquer disposição em contrário, ressalvado o direito do herdeiro ou legatário de renunciar à herança ou ao legado’[g.n.].
+
+    Admitindo a força vinculante do contrato padrão sobre o adquirente, inclusive, o E. STJ já se manifestou no sentido de que ‘por força do disposto na Lei de loteamento, as restrições e obrigações constantes no contrato-padrão, depositado em cartório como condição para o registro do projeto de loteamento, incorporam-se ao registro e vinculam os posteriores adquirentes, porquanto dotadas de publicidade inerente aos registros público’ [g.n]
+
+    Nesse contexto, verifica-se que a análise da pretensão recursal não prescinde do reexame do conjunto fático-probatório constante dos autos e da interpretação das cláusulas do contrato firmado entre as partes, providências vedadas em sede recursal extraordinária, a teor do que dispõem as Sumulas nºs 279 e 454 desta Corte. Nesse sentido:
+
+    “RECURSO EXTRAORDINÁRIO. CONTRIBUIÇÕES ASSOCIATIVAS. TAXAS DE MANUTENÇÃO. COBRANÇA DE RATEIO DE DESPESAS POR SERVIÇOS PRESTADOS. PREVISÃO CONTRATUAL. REEXAME DE FATOS E PROVAS. ANÁLISE DE CLÁUSULA CONTRATUAL. ENUNCIADOS N. 279 E 454 DA SÚMULA DO SUPREMO. VERBA HONORÁRIA. ART. 85, § 11, DO CÓDIGO DE PROCESSO CIVIL. MAJORAÇÃO CABÍVEL. 1. Rever o posicionamento do Tribunal de origem quanto à pertinência das taxas de manutenção decorrentes das contribuições associativas passaria, necessariamente, pelo reexame fático-probatório e pela interpretação de cláusula de contrato, o que é inviável no âmbito do recurso extraordinário, em razão dos óbices, respectivamente, dos enunciados n. 279 e 454 da Súmula do Supremo. 2. Majora-se em 1% (um por cento) a verba honorária fixada na origem, observados os limites impostos. Disciplina do art. 85, §§ 2º, 3º e 11, do Código de Processo Civil. 3. Recurso extraordinário não conhecido” (RE nº 1.348.821/SP-AgR, Sergunda Turma, Relator o Ministro Nunes Marques, DJe de 14/03/2022).
+
+    “AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO COM AGRAVO. REAPRECIAÇÃO DE PROVAS E CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. SÚMULAS 279 E 454 DO STF. 1. A reversão do acórdão passa necessariamente pela revisão das provas e pela análise de cláusulas contratuais. Incidem, portanto, os óbices das Súmulas 279 (Para simples reexame de prova não cabe recurso extraordinário) e 454 (Simples interpretação de cláusulas contratuais não dá lugar a recurso extraordinário.) desta CORTE. 2. Agravo interno a que se nega provimento. Na forma do art. 1.021, §§ 4º e 5º, do Código de Processo Civil de 2015, em caso de votação unânime, fica condenado o agravante a pagar ao agravado multa de um por cento do valor atualizado da causa, cujo depósito prévio passa a ser condição para a interposição de qualquer outro recurso (à exceção da Fazenda Pública e do beneficiário de gratuidade da justiça, que farão o pagamento ao final)” (ARE nº 1.235.752/SP-ED-AgR, Primeira Turma, Relator o Ministro Alexandre de Moraes, DJe de 20/09/2021).
+
+    “Agravo regimental em recurso extraordinário. 2. Direito Civil. 3. Cobrança de taxa associativa condominial. 4. Necessidade de reexame do acervo probatório e de cláusulas contratuais. Súmulas 279 e 454 do STF. Precedentes. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento. Verba honorária majorada em 10%” (RE nº 1.240.817/SP-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe de 18/03/2020).
+
+    “Direito Civil. Direito Processual Civil. Agravo interno em recurso extraordinário com agravo. Ação de cobrança. Associação de moradores. Loteamento. Taxas de manutenção. Proprietário de imóvel não associado. Cerceamento de defesa. Controvérsia que demanda a análise de legislação infraconstitucional. Reapreciação dos fatos e do material probatório constantes dos autos. Súmula 279/STF. Questão relativa a pressupostos de admissibilidade de recurso de competência do tribunal de origem. Ausência de repercussão. Caráter protelatório. 1. A solução da controvérsia demanda a análise de matéria infraconstitucional e uma nova reapreciação dos fatos e do material probatório constantes dos autos (Súmula 279/STF), procedimentos inviáveis em recurso extraordinário. 2. O Supremo Tribunal Federal já assentou a ausência de repercussão geral da questão relativa ao cabimento de recursos da competência de outros Tribunais, por restringir-se a tema infraconstitucional (RE 598.365, Rel. Min. Ayres Britto). 3. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015. 4. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015” (ARE nº 818.686/SP-AgR, Primeira Turma, Relator o Ministro Roberto Barroso, DJe de 14/03/2017).
+
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 17 de abril de 2023.
+
+Ministro DIAS TOFFOLI
+
+Relator
+
+Documento assinado digitalmente
