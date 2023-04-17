@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 11/04/2023 a 17/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão, assim ementada (fl. 218):
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO. CUMPRIMENTO DE SENTENÇA. ERRO MATERIAL. INCLUSÃO DE PARCELAS DEVIDAS A EXEQUENTE. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. EXAME PREJUDICADO. RECURSO ESPECIAL NÃO CONHECIDO.
+O agravante alega que a decisão monocrática proferida por este relator não deve prevalecer, tendo em vista a questão tratada no recurso especial é eminentemente de direito, sendo descabido o revolvimento de matéria fática.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. CUMPRIMENTO DE SENTENÇA. ERRO MATERIAL. INCLUSÃO DE PARCELAS DEVIDAS A EXEQUENTE. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. COISA JULGADA. TRANSCURSO DO PRAZO DECADENCIAL PARA DESCONSTITUIR O JULGADO. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO CONTIDO NO ACÓRDÃO RECORRIDO. SÚMULA 283/STF.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. O entendimento desta Corte firmou-se "no sentido de que tão somente o erro material pode ser corrigido a qualquer tempo, enquanto os erros sobre os critérios do cálculo, inclusive, no que concerne a juros moratórios e correção monetária sujeitam-se à preclusão" (AgInt no REsp 1.958.481/RS, Relator Ministro Francisco Falcão, DJe 24/3/2022).
+3. Não há como desconstituir o entendimento delineado no acórdão impugnado quanto ao critério de cálculo adotado na fase de liquidação de sentença sem que se proceda ao reexame dos fatos e das provas dos autos, o que não se admite nesta instância extraordinária, em decorrência do disposto na Súmula 7/STJ.
+4. A falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283 do Supremo Tribunal Federal.
+5. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, observa-se que o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Na espécie, a parte recorrente pugnou, em recurso especial, que a Corte a quo teria vilipendiado os artigos 463, I, do CPC/1973 e 494, I, do CPC/2015, argumentando que (..) "a conta apresentada pela contadoria judicial padece de erro material, pois dela não constam os valores devidos ao substituído processual Florismundo Marques" (fl. 218).
+Com efeito, e conforme bem delineado por ocasião da decisão monocrática, o TRF da 5ª Região, negando provimento ao recurso de agravo de instrumento interposto, assentou a compreensão de que (fls. 219):
+Embora o credor tenha exercido pretensão executória oportunamente, dormitou diante da omissão da contadoria que não abordou seus cálculos e, mais grave, diante da sentença que os homologou.
+Com efeito, consoante ressaltado no pronunciamento agravado (na decisão integrativa), os cálculos relativos ao credor ficaram excluídos da conta homologada em sede de embargos à execução e que transitou em julgado em 14/08/2013.
+O juízo considerou a ocorrência da prescrição, mas o fato é que, em verdade, há coisa julgada formada desde 2013, de modo que caberia à parte ter perseguido a desconstituição daquele pronunciamento. A essa altura, aliás, há coisa soberanamente julgada, também pelo transcurso do prazo decadencial para o manejo da ação rescisória.
+Diante desses elementos, não são relevantes os argumentos do agravante, sobretudo porque o caso não se enquadra enquanto erro material.
+O entendimento deste Superior Tribunal firmou-se "no sentido de que tão somente o erro material pode ser corrigido a qualquer tempo, enquanto os erros sobre os critérios do cálculo, inclusive, no que concerne a juros moratórios e correção monetária sujeitam-se à preclusão" (AgInt no REsp 1.958.481 /RS, Relator Ministro Francisco Falcão, DJe 24/3/2022, sem grifo no original).
+No caso, não há como desconstituir o entendimento delineado no acórdão impugnado quanto ao critério de cálculo adotado na fase de liquidação de sentença sem que se proceda ao reexame dos fatos e das provas dos autos, o que não se admite nesta instância extraordinária, em decorrência do disposto na Súmula 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO DO ARTIGO 1.022 DO CPC/2015. AUSÊNCIA. MEDIDA DE CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. EQUÍVOCO NA ELABORAÇÃO DOS CÁLCULOS. POSSIBILIDADE DE CORREÇÃO DA ERRONIA A QUALQUER TEMPO. INOCORRÊNCIA DE PRECLUSÃO NA ESPÉCIE. RESTITUIÇÃO DO VALOR INDEVIDAMENTE PERCEBIDO. CABIMENTO. DISSÍDIO. AUSÊNCIA DE COTEJO ANALÍTICO. ALTERAÇÃO DAS CONCLUSÕES FIRMADAS NO ACÓRDÃO. IMPOSSIBILIDADE. ÓBICE DA SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. Caso em que o Tribunal de origem negou provimento ao agravo de instrumento, mantendo a decisão do Juiz que, em cumprimento de sentença contra o Estado de Santa Catarina, determinou a remessa dos autos à Contadoria Judicial para proceder à atualização de valores, com a intimação dos exequentes para devolverem as quantias recebidas a maior apontadas na planilha atualizada, sob pena de penhora e configuração de crime de desobediência.
+2. Não há falar em violação dos artigos 1.022 e 489 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+3. O alegado dissídio jurisprudencial não foi comprovado nos moldes estabelecidos nos artigos 541, parágrafo único, do CPC/1973 e 255, § 1º do RISTJ, tendo em vista a não realização do devido cotejo analítico, com a demonstração clara do dissídio entre os casos confrontados, identificando os trechos que os assemelhem, não se oferecendo, como bastante, a simples transcrição de ementas ou votos.
+4. No mais, infirmar as conclusões firmadas no acórdão recorrido, para acolher a tese recursal de que "o cálculo da contadoria do FORUM, que apurou o valor a ser devolvido, está repleto de erros" demanda, necessariamente, o reexame das provas carreadas aos autos. Incide, na espécie, o teor da Súmula 7/STJ. Precedentes.
+5. Agravo interno não provido (AgInt no REsp 1.730.008/SC, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 6/10/2021).
+Ainda que assim não fosse, a ausência de impugnação a fundamento que, por si só, respalda o resultado do julgamento proferido pela Corte de origem impede a admissão do recurso especial. Incide ao caso a Súmula 283/STF.
+Ocorre que o recurso especial não apresentou argumentação contra a seguinte fundamentação contida no acórdão recorrido (fl. 219):
+O juízo considerou a ocorrência da prescrição, mas o fato é que, em verdade, há coisa julgada formada desde 2013, de modo que caberia à parte ter perseguido a desconstituição daquele pronunciamento. A essa altura, aliás, há coisa soberanamente julgada, também pelo transcurso do prazo decadencial para o manejo da ação rescisória.
+A referida fundamentação, por si só, mantém o resultado do julgamento e a sua não impugnação implica inadmissão do recurso especial.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. SUFICIÊNCIA DE PROVAS. SISTEMA DE COTAS. CRITÉRIO DE AVALIAÇÃO FENOTÍPICA. CONFORMIDADE COM O EDITAL. SÚMULAS 7 E 5/STJ. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO CONTIDO NO ACÓRDÃO RECORRIDO. SÚMULA 283/STF.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Não há vulneração do art. 1.022 do CPC/2015, quando a controvérsia deduzida na origem é dirimida de modo claro e fundamentado, não podendo se confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+3. A questão controvertida implica análise do Edital de regência do processo seletivo e requer interpretação de suas cláusulas, bem como revolvimento do conjunto probatório, o que é vedado em Recurso Especial, nos termos das Súmulas 5 e 7 do Superior Tribunal de Justiça.
+4. A ausência de impugnação a fundamento que, por si só, respalda o resultado do julgamento proferido pela Corte de origem impede a admissão do recurso especial. Incide ao caso a Súmula 283/STF.
+5. Agravo interno não provido (AgInt no REsp 1900407/AL, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 30/03/2022)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
