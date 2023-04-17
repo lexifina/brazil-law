@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 11/04/2023 a 17/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS ELENCADOS NA DECISÃO MONOCRÁTICA. SÚMULA 182 DO STJ. AGRAVO INTERNO DESPROVIDO .
+1. No caso, o agravante deixou de impugnar, no agravo interno, todos os fundamentos elencados na decisão monocrática, como razões de decidir. Incidência da Súmula 182 do STJ.
+2. Agravo interno desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Trata-se de agravo interno interposto por SÃO FRANCISCO SISTEMAS DE SAÚDE SOCIEDADE EMPRESÁRIA LIMITADA contra decisão monocrática proferida por esta relatoria, que conheceu do agravo para não conhecer do recurso especial, sob os seguintes fundamentos: a) ausência de prequestionamento; e b) não comprovação do dissídio pretoriano.
+Em suas razões recursais, a agravante apenas reprisa o mérito da demanda, sustentando a tese da legalidade da recusa, por parte do plano de saúde, do fornecimento de procedimento médico não previsto no rol da ANS.
+Ao final, pleiteia a reconsideração da decisão agravada ou, se mantida, seja o presente feito levado a julgamento perante a eg. Quarta Turma.
+Transcurso in albis do prazo para o oferecimento de contraminuta ao agravo interno.
+É o relatório.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS ELENCADOS NA DECISÃO MONOCRÁTICA. SÚMULA 182 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. No caso, o agravante deixou de impugnar, no agravo interno, todos os fundamentos elencados na decisão monocrática, como razões de decidir. Incidência da Súmula 182 do STJ.
+2. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Cinge-se a pretensão recursal à verificação do dever de cobertura de tratamento médico prescrito para o adequado tratamento de menor beneficiário de plano de saúde, diagnosticado com transtorno do espectro autista.
+Ao julgar o recurso de apelação, o Tribunal Estadual consignou que, dada a extrema gravidade do transtorno, o menor necessitava de tratamento de fisioterapia em ambiente hospitalar.
+Ocorre que, conforme salientado no relatório, na decisão unilateral, o recurso especial não foi conhecido, por ausência de prequestionamento e por falta de comprovação do dissídio pretoriano.
+Não obstante, no presente agravo interno, o recorrente não realizou a impugnação dos fundamentos do decisum ora agravado, situação que enseja a aplicação da Súmula 182 do STJ. A propósito:
+ADMINISTRATIVO. RESPONSABILIDADE CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AO FUNDAMENTO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ E DOS ARTS. 932, III, E 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. MULTA. LITIGÂNCIA DE MÁ-FÉ. INAPLICABILIDADE. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Razões de agravo interno nas quais não impugnado especificamente o fundamento da decisão agravada, o que, à luz do princípio da dialeticidade, constitui ônus da Agravante. Incidência da Súmula n. 182 do STJ e aplicação do art. 932, III, combinado com o art. 1.021, § 1º, todos do Código de Processo Civil de 2015.
+III - Inaplicabilidade da multa por litigância de má-fé (arts. 80, IV e VII, e 81 do estatuto processual civil de 2015), porquanto ausente demonstração de que a parte recorrente agiu com culpa grave ou dolo. Precedente do Supremo Tribunal Federal.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero não conhecimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno não conhecido.
+(AgInt no AREsp n. 2.215.294/PA, relatora Ministra REGINA HELENA COSTA, Primeira Turma, julgado em 6/3/2023, DJe de 8/3/2023.)
+PROCESSUAL CIVIL. AÇÃO ORDINÁRIA. DECLARAÇÃO DE INEXISTÊNCIA DE DÉBITO. INDENIZAÇÃO POR DANOS MORAIS. PEDIDOS PROCEDENTES. AGRAVO INTERNO. AUSÊNCIA DE IMPUGNAÇÃO À FUNDAMENTAÇÃO. SÚMULA N. 182 DO STJ.
+I - Na origem, trata-se ação ordinária em que se pleiteia a declaração de inexistência de débito e indenização por danos morais.
+Na sentença, julgaram-se os pedidos procedentes. No Tribunal a quo, a sentença foi mantida. Mediante análise dos autos, verifica-se que a decisão inadmitiu o recurso especial com base na ausência de afronta ao art. 1.022 do CPC. Entretanto, a parte agravante deixou de impugnar especificamente o referido óbice. A parte agravante, em seu agravo interno, não impugna esse fundamento.
+II - É entendimento desta Corte que não se conhece do agravo interno que não impugna os fundamentos da decisão recorrida. Incidência do enunciado n. 182 da Súmula do STJ.
+III - Agravo interno não conhecido.
+(AgInt no AREsp n. 2.215.229/RJ, relator Ministro FRANCISCO FALCÃO, Segunda Turma, julgado em 6/3/2023, DJe de 10/3/2023.)
+Não se pode olvidar, ainda, que a jurisprudência desta Corte se firmou no sentido de que as operadoras de plano de saúde possuem o dever de custear, de forma ilimitada, as sessões de tratamento para os beneficiários com diagnóstico de "Transtorno do Espectro Autista". Nesse sentido:
+CIVIL E PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. TRANSTORNO DO ESPECTRO AUTISTA. TERAPIA MULTIDISCIPLINAR. LIMITAÇÃO DO NÚMERO DE SESSÕES. IMPOSSIBILIDADE. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM A JURISPRUDÊNCIA DESTA CORTE. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A jurisprudência desta Corte entende abusiva a cláusula contratual ou o ato da operadora de plano de saúde que importe em interrupção de terapia por esgotamento do número de sessões anuais asseguradas no Rol de Procedimentos e Eventos em Saúde da ANS.
+3. A Segunda Seção desta Corte, no julgamento dos EREsp n.º 1.889.704/SP, relator Ministro Luis Felipe Salomão, julgado aos 8/6/2022, reafirmou o dever da operadora do plano de saúde em custear, de forma ilimitada, as sessões de tratamento para os beneficiários com diagnóstico de "Transtorno do Espectro Autista".
+4. Agravo interno não provido.
+(AgInt no AgInt no AREsp n. 1.696.364/SP, relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 29/8/2022, DJe de 31/8/2022. - g. n.)
+PROCESSUAL CIVIL. CONTRATOS. AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. ROL DA ANS. TAXATIVIDADE. FLEXIBILIZAÇÃO EXCEPCIONAL. POSSIBILIDADE. DECISÃO DE ACORDO COM A JURISPRUDÊNCIA DO STJ. AUTISMO. TRATAMENTO MULTIDISCIPLINAR. NEGATIVA DE COBERTURA. ILEGALIDADE. DANO MORAL. REVISÃO. REEXAME DE CONTEÚDO FÁTICO-PROBATÓRIO. INADMISSIBILIDADE. SÚMULA N. 7/STJ. FALTA DE INDICAÇÃO DOS ARTIGOS DE LEI VIOLADOS. SÚMULA N. 284/STF. DECISÃO MANTIDA.
+1. Cumpre observar os seguintes parâmetros objetivos para admitir, em hipóteses excepcionais e restritas, o afastamento das limitações contidas na lista da ANS: "1 - o Rol de Procedimentos e Eventos em Saúde Suplementar é, em regra, taxativo; 2 - a operadora de plano ou seguro de saúde não é obrigada a arcar com tratamento não constante do Rol da ANS se existe, para a cura do paciente, outro procedimento eficaz, efetivo e seguro já incorporado à lista; 3 - é possível a contratação de cobertura ampliada ou a negociação de aditivo contratual para a cobertura de procedimento extrarrol; 4 - não havendo substituto terapêutico ou estando esgotados os procedimentos do Rol da ANS, pode haver, a título de excepcionalidade, a cobertura do tratamento indicado pelo médico ou odontólogo-assistente, desde que (i) não tenha sido indeferida expressamente pela ANS a incorporação do procedimento ao Rol da Saúde Suplementar; (ii) haja comprovação da eficácia do tratamento à luz da medicina baseada em evidências; (iii) haja recomendações de órgãos técnicos de renome nacionais (como Conitec e NatJus) e estrangeiros; e (iv) seja realizado, quando possível, o diálogo interinstitucional do magistrado com entes ou pessoas com expertise na área da saúde, incluída a Comissão de Atualização do Rol de Procedimentos e Eventos em Saúde Suplementar, sem deslocamento da competência do julgamento do feito para a Justiça Federal, ante a ilegitimidade passiva ad causam da ANS" (EREsp n. 1.886.929/SP, Relator Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 8/6/2022, DJe de 3/8/2022).
+2. Quanto ao tratamento multidisciplinar para autismo, reconheceu a Segunda Seção, no citado precedente, que é devida a cobertura, sem limite de sessões, admitindo-se que está previsto no rol da ANS, nos seguintes termos: "a) para o tratamento de autismo, não há mais limitação de sessões no Rol; b) as psicoterapias pelo método ABA estão contempladas no Rol, na sessão de psicoterapia; c) em relatório de recomendação da Comissão Nacional de Incorporação de Tecnologias no Sistema Único de Saúde - Conitec, de novembro de 2021, elucida-se que é adequada a utilização do método da Análise do Comportamento Aplicada - ABA."
+3. Constata-se que o entendimento do Tribunal de origem, ao determinar a cobertura, pelo plano de saúde, de tratamento multidisciplinar para autismo sem limitação de sessões, concorda com a recente jurisprudência do STJ.
+4. Por outro lado, o recurso especial, ao propor que o rol da ANS tem natureza taxativa, sem nenhuma flexibilização, e suscitar que as sessões de terapia para tratamento de autismo estariam fora do mencionado rol, diverge do atual entendimento da Segunda Seção desta Corte Superior.
+5. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+6. O Tribunal de origem entendeu que a negativa de cobertura indevida causou dano moral, ao colocar em risco a possibilidade de efetivo desenvolvimento da capacidade do beneficiário, causando abalo emocional, frustração, desamparo e angústia. Alterar esse entendimento, no presente caso, demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+7. Nos termos da jurisprudência do STJ, é imprescindível que, no recurso especial, sejam particularizados, de forma inequívoca, os normativos federais supostamente contrariados pelo Tribunal de origem, sob pena de incidência da Súmula n. 284 do STF (AgInt no AREsp 1.621.098/MG, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 14/3/2022, DJe 18/3/2022).
+8. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.941.857/SP, relator Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 29/8/2022, DJe de 31/8/2022. - g. n.)
+Com essas considerações, conclui-se que o recurso não merece prosperar.
+Diante do exposto, nego provimento ao agravo interno.
+É como voto.
