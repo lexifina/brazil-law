@@ -1,0 +1,83 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 11/04/2023 a 17/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Gurgel de Faria e Paulo Sérgio Domingues votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+Trata-se de Agravo Interno interposto contra decisão monocrática, proferida pela Excelentíssima Ministra Maria Thereza de Assis Moura, Presidente desta Corte, mediante a qual o Agravo foi conhecido para não conhecer do Recurso Especial, em razão da aplicação da Súmula n. 7 desta Corte, pelas alíneas a e c, da ausência de prequestionamento e de cotejo analítico.
+Sustenta o Agravante, em síntese, a inaplicabilidade da Súmula n. 7/STJ.
+Afirma que "a Súmula 07 não tem interpretação extensiva a qualquer tipo de reexame de provas, mas tão somente à sua simples reanálise" (fl. 1.030e).
+Alega que "A tese que se esposou e que se pretende seja definida pelo STJ é: a ausência de juntada do PTA caracteriza a nulidade da execução fiscal de dívida de ISSQN. Essa questão não demanda reexame de fatos" (fl. 1.038e).
+Por fim, requer o provimento do recurso, a fim de que seja reformada a decisão impugnada ou, alternativamente, sua submissão ao pronunciamento do colegiado.
+Impugnação às fls. 1.044/1.046e.
+É o relatório.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VALIDADE DA CDA. ISSQN. SERVIÇOS BANCÁRIOS. ENQUADRAMENTO DE ATIVIDADES. ACÓRDÃO EMBASADO EM PREMISSAS FÁTICAS. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. INCIDÊNCIA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Rever o entendimento do Tribunal de origem, para reconhecer a nulidade da CDA e o desacerto do enquadramento das atividades desenvolvidas pelo Recorrente para fins de incidência de ISSQN, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7/STJ.
+III - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+IV - Agravo Interno improvido.
+VOTO
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Cumpre destacar que, em sede de Agravo Interno, a ausência de impugnação específica de capítulo autônomo impõe o reconhecimento da preclusão da matéria não impugnada, afastando-se a incidência da Súmula n. 182/STJ (EREsp 1.424.404/SP, rel. Ministro Luis Felipe Salomão, Corte Especial do Superior Tribunal de Justiça, julgado em 20/10/2021, DJe 17/11/2021).
+Da leitura do agravo interno, constata-se que os óbices relativos à ausência de prequestionamento e de cotejo analítico, bem como acerca da aplicação da Súmula n. 7/STJ pela alínea c não foram combatidos nas razões do presente recurso.
+Passo ao exame da questão remanescente.
+Não assiste razão ao Agravante.
+O tribunal de origem, após minucioso exame dos elementos fáticos contidos nos autos, consignou a higidez da CDA e o enquadramento das atividades às hipóteses de incidência do ISSQN, nos seguintes termos (fls. 855/860e):
+Sabe-se que a dívida ativa regularmente inscrita goza de presunção de certeza e de liquidez - art. 204 do CTN e art. 3º da Lei n.º 6.830/80.
+Verifica-se, no caso, que a certidão de dívida ativa preencheu os seus requisitos legais, os quais estão disciplinados no art. 202 do CTN, "verbis":
+ ..
+Ora, a certidão da dívida ativa deve indicar com precisão todos os elementos necessários à identificação do débito. E isso se fez.
+A CDA descreveu a origem e natureza do crédito (ISSQN), com sua fundamentação legal.
+Nela constou, também, o número do Processo Tributário Administrativo respectivo (01.025324-08/80), permitindo-se o conhecimento detalhado dos serviços tributados, para o regular exercício da defesa pelo contribuinte.
+Segundo a perita, o Município tributou as atividades/operações do Apelante inseridas nas seguintes contas/subcontas contábeis:
+ ..
+Em relação às receitas registradas no grupo Rendas de Prestação de Serviços (7.1.7.00.00-9), concluiu a "expert" que elas "correspondem - sob o aspecto técnico contábil - aos valores provenientes de atividades de prestação direta de serviços." (evento 9, pág. 111).
+Também assinalou que:
+"Já no item 15 da LC nº 116/003, sob o aspecto exclusivamente contábil e considerando o elenco de contas do COSIF em vigor no período sob exame, verifica-se que para todas as atividades incluídas no grupo 7.1.7.00.00-9 "Rendas de Prestação de Serviços", da Embargante, há previsão, especificamente nos subitens:
+ ..
+Destarte, quanto às preditas contas, a expert reconheceu o enquadramento das atividades ali incluídas na LC nº 116/03, para fins de incidência do ISSQN.
+Mais, complementou que elas se referem à atividade-fim, ou seja, relacionam-se a uma prestação de serviço direto.
+Anote-se que constitui fato gerador do ISSQN a prestação dos serviços discriminados na lista anexa à Lei Complementar nº 116/2003, cujo rol, apesar de taxativo, admite interpretação extensiva.
+Nesse sentido decidiu o Superior Tribunal de Justiça, no julgamento de recurso repetitivo:
+"TRIBUTÁRIO - SERVIÇOS BANCÁRIOS - ISS - LISTA DE SERVIÇOS - TAXATIVIDADE - INTERPRETAÇÃO EXTENSIVA.
+1. A jurisprudência desta Corte firmou entendimento de que é taxativa a Lista de Serviços anexa ao Decreto-lei 406/68, para efeito de incidência de ISS, admitindo-se, aos já existentes apresentados com outra nomenclatura, o emprego da interpretação extensiva para serviços congêneres.
+2. Recurso especial não provido. Acórdão sujeito ao regime do art. 543-C do CPC e da Resolução STJ 08/08."
+(STJ. REsp 1.111.234/PR. Primeira Seção. Relatora Ministra Eliana Calmon. Dje 08/10/2009).
+Acentue-se que a alegação de que umas ou outras operações - apesar de inseridas nas listas de serviços tributáveis pelo ISSQN - têm caráter acessório e, nessa condição, não constituiriam fato gerador do tributo, é incapaz, por si, de infirmar o trabalho técnico feito nos autos.
+Nesse contexto, não havendo incoerência na perícia para o efeito de ajustamento das referidas atividades às hipóteses de incidência do ISSQN, deve-se reconhecer a higidez do crédito tributário que lhes diz respeito.
+In casu, rever tal entendimento, com o objetivo de acolher a pretensão recursal, para reconhecer a nulidade da CDA e o desacerto do enquadramento das atividades desenvolvidas pelo Recorrente para fins de incidência de ISSQN, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7 desta Corte, assim enunciada: "A pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido:
+TRIBUTÁRIO. PROCESSUAL CIVIL. RECURSO ESPECIAL. APLICAÇÃO AO CASO CONCRETO DE ENTENDIMENTO FIRMADO EM RECURSO ESPECIAL REPETITIVO. TRIBUNAL DE ORIGEM. IDÊNTICA QUESTÃO JURÍDICA. ANÁLISE PREJUDICADA. VIOLAÇÃO A ENUNCIADO DE SUMULAR. SÚMULA 518/STJ. OFENSA AO ART. 1.022 DO CPC. INEXISTÊNCIA. VALIDADE DA CDA. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+1. Na sistemática introduzida pelo artigo 543-C do CPC/73 e ratificada pelo novel diploma processual civil (arts. 1.030 e 1.040 do CPC), incumbe ao Tribunal de origem, com exclusividade e em caráter definitivo, proferir juízo de adequação do caso concreto ao precedente formado em repetitivo, sob pena de tornar-se ineficaz o propósito racionalizador implantado pela Lei 11.672/2008.
+Precedente: Questão de Ordem no Ag 1.154.599/SP, Rel. Ministro Cesar Asfor Rocha, Corte Especial, DJe de 12/5/2011.
+2. A Corte local analisou a questão acerca da necessidade de desmembramento do feito executivo na hipótese dos autos à luz do entendimento consolidado no julgamento do Recurso Especial Repetitivo n. 1.158.766/RJ (relator Ministro Luiz Fux, Primeira Seção, julgado em 8/9/2010, DJe de 22/9/2010 - Tema n. 392), concluindo pela adequação do acórdão recorrido a esse precedente, pelo que resta prejudicada a apreciação do recurso especial no ponto.
+3. Impossível a apreciação, em recurso especial, da alegação de ofensa à Súmula 27/STJ, ante o óbice contido no anteparo sumular n. 518/STJ.
+4. Não ocorre ofensa ao art. 1.022 do CPC, quando o Tribunal de origem dirime, fundamentadamente, as questões que lhe são submetidas, apreciando integralmente a controvérsia posta nos autos.
+5. Quanto à alegada nulidade da CDA, não se presta a estreita via recursal a reformar a conclusão do Tribunal de origem a respeito da validade do título executivo, na hipótese em que, para tal, faz-se necessário o revolvimento de seu próprio conteúdo, por demandar reexame de matéria fático-probatória. Incidência da Súmula 7/STJ.
+6. Os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c, sendo certo que, no caso concreto, não foram atendidos os requisitos exigidos pelos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ.
+7. Agravo interno não provido.
+(AgInt no AREsp n. 2.095.109/RJ, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 10/10/2022, DJe de 14/10/2022, destaquei.)
+TRIBUTÁRIO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO. INTERRUPÇÃO PELA CITAÇÃO. RETROAÇÃO. FUNDAMENTO INATACADO. SÚMULA 283/STF. DEMONSTRAÇÃO DA PRESCRIÇÃO. ALEGAÇÃO INCONGRUENTE. SÚMULA N. 284/STF. CDA. FUNDAMENTOS DE HIGIDEZ NÃO IMPUGNADOS. SÚMULA N. 283/STF. REQUISITOS. ALTERAÇÃO. SÚMULA N. 7/STJ.
+1. A Corte regional, ao tratar da prescrição, registrou que o REsp n. 1.120.295/SP (relator Ministro Luiz Fux, DJe de 21/5/2010), julgado como recurso especial representativo da controvérsia, estabeleceu que a prescrição para a cobrança do crédito tributário interrompe-se pelo despacho do juiz que ordenar a citação em execução fiscal, retroagindo a citação à data do despacho, fundamento que não foi adequadamente impugnado pela agravante, pois limitou-se a aduzir que "a citação da Recorrente ocorreu somente em 01.12.2016 (Evento 07 da execução) - portanto, 02 (dois) meses e 09 (nove) dias após a emissão daquele despacho inicial". Incidência da Súmula n. 283/STF.
+2. Ademais, as razões do recurso especial não demonstram de que forma teria ocorrido eventual prescrição do crédito tributário, mostrando-se, inclusive, incongruente ao consignar que "o débito perseguido no executivo fiscal compreende as competências dos anos de 2013, 2014 e 2015" e a "citação da Recorrente ocorreu somente em 01.12.2016", porquanto não ultrapassado o prazo de cinco anos previsto no art. 174 do CTN, o que atrai ao ponto, também, a incidência da Súmula n. 284/STF.
+3. As razões do recurso especial não impugnam os fundamentos de que a higidez da CDA se mantem, pois: (i) a CDA reveste-se de presunção de legalidade cujo ônus de desconstituição cabe ao contribuinte;
+(ii) a juntada de eventual processo administrativo cabe ao contribuinte; (iii) é prescindível a juntada do demonstrativo de cálculo; e (iv) "a dívida tem origem em declaração apresentada pelo próprio contribuinte. Logo não cabe a alegação de desconhecimento daquilo que ele mesmo declarou, sendo dispensado qualquer outra providência do Fisco antes da cobrança judicial". Incidência da Súmula n. 283/STF.
+4. Concluindo a corte de origem que as CDAs que instruem o feito executivo apresentam "todos os requisitos exigidos", a modificação do julgado para fins de acolher a alegação de que "as CDAs que lastreiam o executivo fiscal embargado  ..  não preenchem com os requisitos elencados pelo artigo 202 do CTN" demandaria incursão na seara fática dos autos, o que encontra óbice na Súmula n. 7/STJ.
+Agravo interno improvido.
+(AgInt no AREsp n. 2.065.927/PR, relator Ministro Humberto Martins, Segunda Turma, julgado em 7/12/2022, DJe de 12/12/2022, destaquei.)
+TRIBUTÁRIO. PROCESSUAL CIVIL. TRIBUNAL DE ORIGEM. ISSQN. SERVIÇOS BANCÁRIOS. LISTA DE SERVIÇOS. INTERPRETAÇÃO EXTENSIVA. RECURSO ESPECIAL REPETITIVO. ENTENDIMENTO FIRMADO. APLICAÇÃO AO CASO CONCRETO. RECURSO ESPECIAL. IDÊNTICA QUESTÃO JURÍDICA. ANÁLISE PREJUDICADA NO PONTO. ENQUADRAMENTO DE ATIVIDADES. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. INCIDÊNCIA.
+1. Na sistemática introduzida pelo artigo 543-C do CPC/73 e ratificada pelo novel diploma processual civil (arts. 1.030 e 1.040 do CPC), incumbe ao Tribunal de origem, com exclusividade e em caráter definitivo, proferir juízo de adequação do caso concreto ao precedente formado em repetitivo, sob pena de tornar-se ineficaz o propósito racionalizador implantado pela Lei 11.672/2008.
+Precedente: Questão de Ordem no Ag 1.154.599/SP, Rel. Ministro Cesar Asfor Rocha, Corte Especial, DJe de 12/5/2011.
+2. Na espécie, a Corte local analisou a questão acerca da possibilidade de utilização de interpretação extensiva dos serviços bancários constantes da Lista Anexa à Lei Complementar 116/2003 e, para os fatos jurídicos que lhe são pretéritos, da Lista Anexa ao Decreto-Lei 406/68, à luz do entendimento consolidado no julgamento do Recurso Especial Repetitivo 1.111.234/PR - Tema 132 (Rel. Ministra Eliana Calmon, Primeira Seção, julgado em 23/9/2009, DJe 8/10/2009) -, concluindo pela adequação do acórdão recorrido a esse precedente, pelo que resta prejudicada a apreciação do recurso especial no ponto.
+3. Quanto à questão referente ao fato gerador do ISSQN no caso dos autos, a alteração das conclusões adotadas pela Corte de origem acerca do enquadramento das atividades desenvolvidas pelo recorrente para fins de incidência ou não de ISS, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial. Incidência da Súmula 7/STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.864.876/MG, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 15/8/2022, DJe de 18/8/2022, destaquei.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. ISS. DECRETO-LEI N. 406/1968. LISTA ANEXA. ROL TAXATIVO. INTERPRETAÇÃO EXTENSIVA. POSSIBILIDADE. SERVIÇOS BANCÁRIOS. NECESSIDADE DE REEXAME DE FATOS E PROVAS. SÚMULA 7 DO STJ.
+1. A Primeira Seção desta Corte Superior, no julgamento do REsp n. 1.111.234/PR, submetido ao rito dos recursos repetitivos, firmou o entendimento de que, embora taxativa a Lista de Serviços anexa ao Decreto-Lei n. 406/1968, para efeito de incidência de ISS, admite-se o emprego da interpretação extensiva para serviços congêneres, independentemente da nomenclatura adotada.
+2. Eventual alteração das conclusões adotadas pela Corte de origem, quanto ao correto enquadramento das atividades desenvolvidas pelo contribuinte para incidência ou não de ISS, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula n. 7/STJ.
+Agravo interno improvido.
+(AgInt no AREsp n. 2.100.741/PR, relator Ministro Humberto Martins, Segunda Turma, julgado em 9/11/2022, DJe de 30/11/2022, destaquei.)
+Assim, em que pesem as alegações trazidas, os argumentos apresentados são insuficientes para desconstituir a decisão impugnada.
+No que se refere à aplicação do art. 1.021, § 4º, do CPC/2015, a orientação desta Corte é no sentido de que o mero inconformismo com a decisão agravada não enseja a imposição da multa, não se tratando de simples decorrência lógica do não provimento do recurso em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso. Nessa linha: Corte Especial, AgInt nos EAREsp n. 1.043.437/SP, Rel. Ministro JORGE MUSSI, j. 13.10.2021; e 1ª S., AgInt nos EREsp n. 1.311.383/RS, Rel. Ministra ASSUSETE MAGALHÃES, j. 14.09.2016.
+Apesar do improvimento do recurso, não restou configurada a manifesta inadmissibilidade, razão pela qual afasto a apontada multa.
+Posto isso, NEGO PROVIMENTO ao recurso.
