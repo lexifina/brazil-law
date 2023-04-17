@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 11/04/2023 a 17/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Messod Azulay Neto e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Ribeiro Dantas.
+Presidiu o julgamento o Sr. Ministro Joel Ilan Paciornik.
+RELATÓRIO
+Cuida-se de agravo regimental interposto por FABIO JUNIOR FERREIRA DA ROCHA e SIMONE RODRIGUES DE SOUZA, contra decisão singular por mim proferida, às fls. 319/337, em que não conheci do habeas corpus, mas concedi a ordem, de ofício, tão-somente para adequar a prisão preventiva dos agravantes, para que fosse cumprida no regime fixado na sentença.
+No presente regimental, alega a defesa incompatibilidade entre o regime semiaberto fixado na sentença e a prisão provisória dos agravantes.
+Requer, assim que "uma vez preenchidos todos os pressupostos objetivos e subjetivos do presente agravo regimental, seja o mesmo conhecido e provido, reconsiderando-se a decisão proferida ou submetendo o presente à apreciação da Turma deste e. STJ, conhecido e provido, dando-se, consequentemente, prosseguimento e julgamento do Habeas Corpus impetrado para que o mesmo seja conhecido e concedido a revogação da prisão preventiva, concedendo o direito de recorrer em liberdade" (fls. 341/346).
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE. COMPATIBILIDADE DA CUSTÓDIA CAUTELAR COM O REGIME SEMIABERTO. GUIA DE RECOLHIMENTO PROVISÓRIO EXPEDIDA. AGRAVO DESPROVIDO.
+1. Esta Corte Superior de Justiça sedimentou entendimento segundo o qual a prisão preventiva é compatível com o regime prisional semiaberto, desde que seja realizada a efetiva adequação ao regime intermediário, sob pena de tornar mais gravosa a situação daquele que opta por recorrer do decisum. Precedentes.
+2. In casu, consta dos autos que foi feita a recomendação de adequação da execução provisória da pena, nos exatos limites do regime estabelecido - semiaberto -, já tendo sido expedida guia de recolhimento provisório, não havendo falar, portanto, em constrangimento ilegal a ser sanado.
+3. Agravo regimental desprovido.
+VOTO
+O presente agravo regimental não merece provimento, em que pesem os argumentos apresentados pelo agravante, devendo a decisão ser mantida por seus próprios fundamentos.
+Ressalte-se que esta Corte Superior de Justiça sedimentou entendimento segundo o qual a prisão preventiva é compatível com o regime prisional semiaberto, desde que seja realizada a efetiva adequação ao regime intermediário, sob pena de tornar mais gravosa a situação daquele que opta por recorrer do decisum.
+No caso dos autos, consta do acórdão impugnado que foi feita a recomendação de adequação da execução provisória da pena, nos exatos limites do regime estabelecido - semiaberto -, já tendo sido expedida guia de de recolhimento provisório, não havendo falar, portanto, em constrangimento ilegal a ser sanado.
+Nesse sentido, trago à colação os seguintes julgados deste Superior Tribunal de Justiça - STJ:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. TRÁFICO DE DROGAS E RESISTÊNCIA. GRAVIDADE EM CONCRETO DA CONDUTA DELITIVA. QUANTIDADE E DIVERSIDADE DE ENTORPECENTES APREENDIDOS. RISCO DE REITERAÇÃO. RÉU REINCIDENTE. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Para ser compatível com o Estado Democrático de Direito  o qual se ocupa de proteger tanto a liberdade quanto a segurança e a paz públicas  e com a presunção de não culpabilidade, é necessário que a decretação e a manutenção da prisão cautelar se revistam de caráter excepcional e provisório. A par disso, a decisão judicial deve ser suficientemente motivada, mediante análise da concreta necessidade da cautela, nos termos dos artigos 282, incisos I e II c/c 312 do CPP.
+2. O Juízo singular apontou a presença dos vetores contidos no art. 312 do Código de Processo Penal, em especial a ameaça à ordem pública, dada a gravidade em concreto da conduta delitiva, face à quantidade dos entorpecentes apreendidos, "eis que trazia consigo expressiva quantidade de drogas, sendo 325g de cocaína, dividida em 290 pinos, e 275g de maconha, dividida em 64 embalagens", bem como o risco de reiteração, dado que se trata de condenado reincidente.
+3. Ademais, "a jurisprudência dessa Corte já se manifestou pela compatibilidade entre a prisão preventiva e a fixação de regime semiaberto estabelecido para o cumprimento da pena reclusiva, desde que adequada a segregação à modalidade prisional imposta na condenação" (AgRg no HC n. 687.787/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 20/9/2021).
+4. Agravo regimental não provido.
+(AgRg no HC n. 734.920/PR, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 3/5/2022).
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. SENTENÇA CONDENATÓRIA QUE MANTÉM A PRISÃO PREVENTIVA. FUNDAMENTAÇÃO SUFICIENTE. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DA CONDUTA DELITIVA. REGIME SEMIABERTO FIXADO NA SENTENÇA E MANUTENÇÃO DA PRISÃO PREVENTIVA. COMPATIBILIDADE. CUMPRIMENTO DOS REQUISITOS PARA PROGRESSÃO DE REGIME. TEMA NÃO ANALISADO PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. RECURSO NÃO PROVIDO.
+1. Conforme preconiza o § 1º do art. 387 do CPP, o magistrado, ao proferir sentença condenatória, decidirá fundamentadamente sobre a manutenção ou, se for o caso, imposição de prisão preventiva ou de outra medida cautelar, sem prejuízo do conhecimento da apelação que vier a ser interposta.
+2. No caso, a segregação cautelar tem como fundamento o acautelamento do meio social, dada a periculosidade do agravante, evidenciada na gravidade concreta da conduta delitiva, uma vez que ele foi condenado por integrar organização criminosa.
+3. É inviável a substituição da prisão preventiva por medidas cautelares diversas quando a gravidade concreta da conduta delituosa indica que a ordem pública não estaria acautelada com a soltura do agravante.
+4. A jurisprudência desta Corte já se manifestou pela compatibilidade da manutenção da prisão preventiva e a fixação de regime semiaberto na sentença, alinhando-se ao entendimento consolidado pelo Supremo Tribunal Federal, que tem admitido a adequação da segregação provisória ao regime fixado na sentença condenatória.
+5. A alegação de que o agravante já cumpriu os requisitos legais para progressão de regime não foi objeto de cognição pelo Tribunal de origem. Logo, inviável o enfrentamento do tema por esta Corte Superior, sob pena de incorrer em indevida supressão de instância.
+6. Agravo regimental não provido.
+(AgRg no RHC n. 159.177/CE, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 26/4/2022).
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. ART. 16, § 1º, INCISO IV, DA LEI N. 10.826/2003. SENTENÇA QUE CONDENOU O AGRAVANTE EM REGIME SEMIABERTO, MANTENDO A PRISÃO CAUTELAR. DETERMINAÇÃO PELA INSTÂNCIA DE ORIGEM DE COMPATIBILIZAÇÃO ENTRE A CUSTÓDIA CAUTELAR E O REGIME FIXADO NA SENTENÇA. AUSÊNCIA DE ILEGALIDADE. ORDEM DENEGADA. AGRAVO DESPROVIDO.
+1. Esta Corte possui entendimento pacificado no sentido da compatibilidade entre a prisão preventiva e o regime semiaberto fixado na sentença condenatória, bastando a adequação da constrição cautelar ao modo de execução estabelecido na sentença. Precedentes.
+2. No caso, não havendo ilegalidade em relação à determinação da manutenção da segregação cautelar, fundamentada na garantia da ordem pública pelo fundado receio de reiteração delitiva do agravante, não há que falar em constrangimento ilegal decorrente da determinação de adequação da prisão preventiva ao regime semiaberto imposto na sentença.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 704.574/PE, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 15/2/2022).
+Ante o exposto, voto no sentido negar provimento ao agravo regimental.
