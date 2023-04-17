@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 11/04/2023 a 17/04/2023, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Sebastião Reis Júnior, Rogerio Schietti Cruz e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por ANAILTON OLIVEIRA DA CUNHA contra decisão em que não conheci do recurso especial.
+Consta dos autos que o agravante foi condenado à pena de 4 anos, 4 meses e 15 dias de reclusão, pela prática do crime de tortura com o fim de obter informação, declaração ou confissão da vítima (art. 1º, inciso I, alínea a, § 4º, inciso I, e § 5º, da Lei n. 9.455/1997).
+A apelação criminal do réu foi desprovida, nos termos da ementa de e-STJ fls. 1.494/1.495:
+PENAL. PROCESSO PENAL. APELAÇÃO CRIMINAL. TORTURA. PRELIMINAR DE INCOMPETÊNCIA DO JUÍZO E NÃO APRECIAÇÃO DA MATÉRIA DE DEFESA. REJEIÇÃO. CRIME PRATICADO FORA DO EXERCÍCIO DA FUNÇÃO DE MILITAR. COMPETÊNCIA DA JUSTIÇA COMUM PARA PROCESSAR E JULGAR O FEITO. ANALISADAS TODAS AS TESES APRESENTADAS PELA DEFESA NA SENTENÇA A QUO. NÃO ACOLHIMENTO. ABSOLVIÇÃO. AUSÊNCIA DE PROVAS. IMPOSSIBILIDADE. MATERIALIDADE E AUTORIA DEMONSTRADAS. PALAVRA DA VÍTIMA FIRME E EM CONSONÂNCIA COM AS DEMAIS PROVAS CARREADAS AOS AUTOS. CONJUNTO FÁTICO-PROBATÓRIO EFICAZ. DESCLASSIFICAÇÃO PARA LESÃO CORPORAL E/OU HOMICÍDIO PRIVILEGIADO TENTADO. INACEITABILIDADE. NÚCLEOS DISTINTOS. COMPROVAÇÃO DO ANIMUS DE CAUSAR SOFRIMENTO FÍSICO E PSICOLÓGICO NA VÍTIMA. REDUÇÃO DA PENA-BASE AO MÍNIMO LEGAL. INADMISSIBILIDADE. CULPABILIDADE, PERSONALIDADE E CIRCUNSTÂNCIAS DO CRIME EM DESFAVOR DOS AGENTES. RECONHECIMENTO DA ATENUANTE DA CONFISSÃO. INVIABILIDADE. CONFISSÃO QUALIFICADA. PROMOÇÃO DA DETRAÇÃO. INAPLICABILIDADE. COMPETÊNCIA DO JUÍZO DAS EXECUÇÕES PENAIS. MUDANÇA DO REGIME PRISIONAL. INACEITABILIDADE. REQUISITOS NÃO PREENCHIDOS. EXCLUSÃO DA PERDA DO CARGO. INADMISSIBILIDADE. EFEITO AUTOMÁTICO DA CONDENAÇÃO.
+1. Comprovado que os agentes não estavam de serviço e não agiram em razão da função militar no momento em que praticaram o crime de tortura, inexiste nulidade nos atos praticado pelo Juízo Criminal, pois a competência é da Justiça Comum.
+2. Descabida a absolvição quando os elementos contidos nos autos, corroborados pelos depoimentos da vítima e testemunhas formam um conjunto sólido, dando segurança ao juízo para a condenação.
+3. Inadmissível desclassificar a conduta dos agentes se restou demonstrado que a intenção não se constituiu apenas em lesões corporais, mas sim em extensas e repetidas agressões físicas e ameaças com aninus de causar-lhe intenso sofrimento físico e mental.
+4. A circunstância judicial atinente à culpabilidade diz respeito à censurabilidade da conduta, e não à natureza do crime.
+5. O exame negativo da personalidade poderá ser realizado pelo julgador quando tiver fundamentos concretos no processo que demonstrem a efetiva periculosidade do agente, independentemente de laudo.
+6. As circunstâncias do crime são elementos que influenciam em sua gravidade, tal como o modus operandi utilizado para a prática do delito.
+7. O Julgador possui a discricionariedade para fixar a fração que melhor se adequa ao caso concreto.
+8. Não se reconhece atenuante da confissão quando não teve relevância para o convencimento do julgador, tampouco foi utilizada para corroborar o acervo probatório e fundamentar a condenação.
+9. O Instituto da Detração é de competência do Juízo das Execuções Penais, cabendo a ele aplicá-lo no momento oportuno.
+10. A perda do cargo nos crimes de tortura é um efeito necessário e automático da condenação.
+11. Apelos conhecidos e desprovidos.
+Interpostos embargos infringentes, foram eles desprovidos, como se denota da ementa a seguir transcrita (e-STJ fl. 1.696):
+DIREITO PENAL. EMBARGOS INFRINGENTES E DE NULIDADE. CRIME DE TORTURA. AUTORIA E MATERIALIDADE SUFICIENTEMENTE DEMONSTRADAS PELO ACERVO PROBATÓRIO. IMPOSSIBILIDADE DE DESCLASSIFICAÇÃO PARA LESÃO CORPORAL. SATISFAÇÃO DOS ELEMENTOS DO TIPO PENAL.
+1. O art. 1º, inciso I, alínea "a", § 4º, inciso I, e § 5º, todos da Lei n. 9.455/1997, expressamente define o crime de tortura e indica com precisão os meios de execução do delito por agentes público, destacando-se como núcleo do tipo o "constrangimento da vítima com emprego de violência ou grave ameaça" com o dolo específico de "causar sofrimento físico e/ou mental da vítima com o fim de dela obter informação, declaração ou confissão".
+2. Em consonância com o contexto fático-probatório, tanto a autoria como a materialidade do crime de tortura estão suficientemente provados pelos depoimentos das testemunhas, sublinhando-se que o Laudo de Exame de Corpo de Delito, quando indicou a ocorrência de lesões físicas, ainda que não tenham acarretado perigo de morte ou sequelas incapacitantes, sedimenta a convicção de que a vítima sofreu espancamentos, ameaças e grave pressão psicológica para informar aos Embargantes a localização dos bens furtados, satisfazendo-se, portanto, todos os elementos do crime de tortura. Vale dizer, a prova dos autos evidencia que os Embargantes se valeram condição de policiais militares para capturar a vítima, submetendo-a a uma sessão de agressões físicas e terror psicológico, com o propósito de obter a confissão da autoria do furto dos bens pertencentes a um dos policiais, indicando a localização dos objetos subtraídos.
+3. Embargos Infringentes e de Nulidade desprovidos.
+Irresignada, a defesa interpôs recurso especial, alegando que a conduta do réu se enquadrava no crime do art. 129, caput, do Código Penal. Aduziu que não estavam presentes as elementares do crime de tortura, consistentes em constranger a vítima com o animus de causar-lhe sofrimento físico, corpóreo ou psíquico. Asseriu, ainda, a falta de comprovação do dolo específico de obter da vítima informação, declaração ou confissão.
+O Ministério Público Federal manifestou-se conforme o parecer assim ementado (e-STJ fls. 1.957/1.958):
+RECURSO ESPECIAL. TORTURA. ALEGAÇÃO DE CONTRARIEDADE AO ART. 20 DO CÓDIGO PENAL. DISSÍDIO JURISPRUDENCIAL. PRETENSÃO À DESCLASSIFICAÇÃO PARA LESÕES CORPORAIS. FEIÇÕES DE APELAÇÃO. CONTRARIEDADE NÃO DEMONSTRADA. INCIDÊNCIA DA SÚMULA 284 DO STF. DISSÍDIO JURISPRUDENCIAL. SIMILITUDE FÁTICA NÃO DEMONSTRADA. NÃO CONHECIMENTO.
+1. Inviável o conhecimento de recurso especial, com feição de apelação, quando a parte não se desincumbe do ônus de demonstrar em que ponto a decisão recorrida teria violado dispositivos de lei federal. Em casos tais, a jurisprudência do STJ entende pela aplicação, por analogia, da Súmula 284/STF.
+2. A condenação pelo crime de tortura está amparada em fundamentação idônea, apontando a Corte de origem as "extensas e repetidas agressões físicas e ameaças com animus de causar-lhe  à vítima  intenso sofrimento físico e mental", as quais consistiram em socos e murros para que confessasse furto, colocação de arma de fogo na cabeça do ofendido, além de ter sido ele "fixado" com pregos ao assoalho da residência de uma das testemunhas.
+3. Nesse contexto, "considerando que o Tribunal a quo é soberano na análise do acervo fático-probatório constante dos autos processuais, a reversão do entendimento constante do acórdão para afastar a ocorrência de erro de tipo demandaria revolvimento de provas, o que atrairia a incidência do supramencionado preceito sumular" (AgRg no REsp 1690364/SC, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 06/12/2018, DJe 14/12/2018).
+4. Ausente o cotejo analítico, sem a demonstração da similitude fático-jurídica e da suposta incompatibilidade de entendimentos adotados no acórdão recorrido e paradigma, inviável conhecer do recurso especial pela alínea c.
+5. Parecer pelo não conhecimento do recurso especial.
+No presente agravo, a defesa reitera os argumentos deduzidos no apelo nobre, ressaltando que suas insurgências não demandam reexame de provas.
+Requer, por fim, a reconsideração da decisão ou o seu enfrentamento pelo colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIME DE TORTURA. AGRAVO INTERPOSTO APÓS O PRAZO DE CINCO DIAS PREVISTO NO ART. 39 DA LEI N. 8.038/1990 E NO ART. 258, CAPUT, DO REGIMENTO INTERNO DO SUPERIOR TRIBUNAL DE JUSTIÇA. INTEMPESTIVIDADE.
+1. Nos termos dos arts. 258, caput, do Regimento Interno do Superior Tribunal de Justiça; 39 da Lei n. 8.038/1990; e 798, caput e § 3º, do Código de Processo Penal, é intempestivo o agravo regimental interposto fora do prazo de 5 dias corridos.
+2. No caso dos autos, a decisão ora agravada foi publicada no dia 10/2/2023 (sexta-feira), e o presente recurso foi interposto em 18/2/2023 (sábado), quando já havia escoado o prazo legal de 5 dias para a sua interposição.
+3. Agravo regimental do qual não se conhece.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+O presente agravo regimental não cumpre o pressuposto objetivo de admissibilidade do recurso consistente na tempestividade da irresignação.
+Com efeito, nos termos dos arts. 258, caput, do Regimento Interno do Superior Tribunal de Justiça; 39 da Lei n. 8.038/1990; e 798, caput e § 3º, do Código de Processo Penal, é intempestivo o agravo regimental interposto fora do prazo de 5 dias corridos.
+E, de acordo com o entendimento do Superior Tribunal de Justiça, " ..  em ações que tratam de matéria penal ou processual penal, não incidem as novas regras do Código de Processo Civil - CPC, referentes à contagem dos prazos em dias úteis (art. 219 da Lei n. 13.105/2015), ante a existência de norma específica a regular a contagem do prazo (art. 798 do CPP), uma vez que o CPC é aplicado somente de forma suplementar ao processo penal" (AgRg no AREsp n. 981.030/PE, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 16/2/2017, DJe de 22/2/2017).
+No caso dos autos, a decisão ora agravada foi publicada no dia 10/2/2023 (sexta-feira - e-STJ fl. 1.974), e o presente recurso foi interposto em 18/2/2023 (sábado - certidão de e-STJ fl. 1.996), quando já havia escoado o prazo legal de 5 dias para a sua interposição.
+Ante o exposto, não conheço do agravo regimental.
+É o voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
