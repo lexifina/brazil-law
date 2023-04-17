@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 11/04/2023 a 17/04/2023, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Ribeiro Dantas.
+Presidiu o julgamento o Sr. Ministro Joel Ilan Paciornik.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. AUSÊNCIA DE IMPUGNAÇÃO A TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. OFENSA AO PRINCÍPIO DA DIALETICIDADE. SÚMULA 182 DO STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+I - Registre-se que a não impugnação específica e pormenorizada dos fundamentos da decisão agravada inviabiliza o conhecimento do agravo, por violação ao princípio da dialeticidade. Portanto, não é suficiente para a cognição do agravo regimental assertivas de que todos os requisitos foram preenchidos ou reiteração do mérito da controvérsia.
+II - In casu, o presente inconformismo limitou-se a afirmar que: i) "o eventual cabimento de recurso próprio não constitui óbice à impetração de ordem de habeas corpus"; e ii) o paciente está preso em razão de condenação proferida pelo Tribunal do Júri que ofendeu o art. 479 do Código de Processo Penal.
+III - Com efeito, caberia à parte insurgente contestar a conclusão contida na deliberação unipessoal, impugnando especificamente cada fundamento lançado no decisum agravado: a) o não cabimento manifesto de recurso ordinário em habeas corpus contra acórdão que aprecia apelação; e b) a existência de erro grosseiro a afastar o princípio da fungibilidade recursal.
+IV - Ademais, observa-se que nas razões do regimental o paciente alega matéria completamente dissociada a realidade dos autos. Isso porque o acórdão que a julgou a apelação tratou da condenação do paciente por crime de tráfico ilícito de entorpecentes. Nas razões do recurso ordinário em habeas corpus, a defesa pleiteia a absolvição do paciente, sob o pálio de insuficiência probatória. Já, no presente agravo regimental, o inconformismo cinge-se a alegação de nulidade de condenação do Tribunal do Júri por ofensa ao art. 479 do Código de Processo Penal. Assinale-se que "não se conhece de alegação contida nas razões do Agravo Regimental que se encontram dissociadas do que decidido nos autos" (AgRg no AREsp n. 620.086/SP, Segunda Turma, Rel.ª Min.ª Assusete Magalhães, DJe de 2/6/2015).
+V - Nessa senda, as razões expendidas no bojo do presente inconformismo contrariam o comando do art. 1.021, § 1º, do Código de Processo Civil de 2015.
+Agravo regimental não conhecido.
+RELATÓRIO
+Às fls. 324-325, a decisão agravada foi assim relatada:
+"Trata-se de recurso ordinário em habeas corpus interposto por BRUNO GUSTAVO DE LIMA SILVINO contra acórdão proferido pelo eg. TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA, no julgamento da apelação criminal n. 0000852-69.2016.8.15.0131.
+Depreende-se dos autos que o recorrente foi condenado à pena de 4 (quatro) anos e 2 (dois) meses e 420 (quatrocentos e vinte) dias-multa, em regime inicial semiaberto, como incurso no art. 33, caput, da Lei n. 11.343/06 (fls. 108-112).
+No julgamento da apelação, o Tribunal de origem negou provimento ao recurso da defesa, mantendo incólume a sentença condenatória (fls. 177-199).
+Opostos aclaratórios, foram rejeitados (fls. 240-246).
+Interposto agravo regimental, a Corte de origem não conheceu do recurso por ausência de previsão legal (fls.262-264).
+No presente recurso, o recorrente sustenta que "não há elementos probatórios suficientes para imputação do fato criminoso, tendo em vista que, os depoimentos das testemunhas trazem apenas indícios, mas não provas concretas que sejam capazes de ensejar condenação" (fl. 292).
+Requer, ao final, "seja conhecido e provido o presente recurso na forma da lei e regimento interno desta Corte, para reformar ao v. acórdão do colendo Tribunal de Justiça do Estado da Paraíba, e, digne-se os Excelentíssimos Ministros em RECONHECER e DECLARAR a ABSOLVIÇÃO DO RECORRENTE ANTE A VASTA COMPROVAÇÃO DE AUSÊNCIA DE PROVAS QUE SUSTENTE DECRETO CONDENATÓRIO" (fl. 299).
+O Ministério Público Federal, às fls. 314-322, manifestou-se pelo não conhecimento do recurso, mas pela concessão da ordem de ofício, em parecer assim ementado:
+"RECURSO ORDINÁRIO. TRÁFICO DE DROGAS. QUANTIDADE ÍNFIMA DE DROGA. APLICABILIDADE DO PRINCÍPIO DA INSIGNIFICÂNCIA. EXCESSOS NA FIXAÇÃO DA PENA. POSSIBILIDADE DE RECONHECIMENTO DO TRÁFICO PRIVILEGIADO. PARECER PELO NÃO CONHECIMENTO DO RECURSO. HABEAS CORPUS DE OFÍCIO PARA TRANCAR O PROCESSO PENAL" (fl. 314).
+É o relatório".
+Ao final, o recurso ordinário em habeas corpus não foi conhecido (fls. 324-326).
+Daí o presente agravo regimental interposto pela defesa de BRUNO GUSTAVO DE LIMA SILVINO.
+Nas razões do presente inconformismo (fls. 330-336), a parte agravante alega que "o Agravante encontra-se preso em razão de uma condenação pelo Tribunal do Júri que a defesa reputa ser nula, haja vista a inobservância do disposto no art. 479, do Código de Processo Penal" (fl. 333).
+Sustenta que "temos na espécie: (1) a nulidade do julgamento, decorrente da inobservância do previsto no art. 479, do CPP; (2) a manifestação da defesa contra essa inobservância e (3) o evidente prejuízo decorrente dela: a condenação do Agravante" (fl. 334).
+Requer a reconsideração do decisum agravado ou a submissão da irresignação ao Órgão Colegiado.
+Por manter a decisão agravada, submeto o agravo regimental à apreciação da Quinta Turma.
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. AUSÊNCIA DE IMPUGNAÇÃO A TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. OFENSA AO PRINCÍPIO DA DIALETICIDADE. SÚMULA 182 DO STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+I - Registre-se que a não impugnação específica e pormenorizada dos fundamentos da decisão agravada inviabiliza o conhecimento do agravo, por violação ao princípio da dialeticidade. Portanto, não é suficiente para a cognição do agravo regimental assertivas de que todos os requisitos foram preenchidos ou reiteração do mérito da controvérsia.
+II - In casu, o presente inconformismo limitou-se a afirmar que: i) "o eventual cabimento de recurso próprio não constitui óbice à impetração de ordem de habeas corpus"; e ii) o paciente está preso em razão de condenação proferida pelo Tribunal do Júri que ofendeu o art. 479 do Código de Processo Penal.
+III - Com efeito, caberia à parte insurgente contestar a conclusão contida na deliberação unipessoal, impugnando especificamente cada fundamento lançado no decisum agravado: a) o não cabimento manifesto de recurso ordinário em habeas corpus contra acórdão que aprecia apelação; e b) a existência de erro grosseiro a afastar o princípio da fungibilidade recursal.
+IV - Ademais, observa-se que nas razões do regimental o paciente alega matéria completamente dissociada a realidade dos autos. Isso porque o acórdão que a julgou a apelação tratou da condenação do paciente por crime de tráfico ilícito de entorpecentes. Nas razões do recurso ordinário em habeas corpus, a defesa pleiteia a absolvição do paciente, sob o pálio de insuficiência probatória. Já, no presente agravo regimental, o inconformismo cinge-se a alegação de nulidade de condenação do Tribunal do Júri por ofensa ao art. 479 do Código de Processo Penal. Assinale-se que "não se conhece de alegação contida nas razões do Agravo Regimental que se encontram dissociadas do que decidido nos autos" (AgRg no AREsp n. 620.086/SP, Segunda Turma, Rel.ª Min.ª Assusete Magalhães, DJe de 2/6/2015).
+V - Nessa senda, as razões expendidas no bojo do presente inconformismo contrariam o comando do art. 1.021, § 1º, do Código de Processo Civil de 2015.
+Agravo regimental não conhecido.
+VOTO
+Observa-se que os argumentos apresentados pela parte agravante, nas razões deste agravo regimental, não buscaram refutar os fundamentos da decisão monocrática agravada.
+Registre-se que a não impugnação específica e pormenorizada dos fundamentos da decisão agravada inviabiliza o conhecimento do agravo, por violação ao princípio da dialeticidade. Portanto, não é suficiente para a cognição do agravo regimental assertivas de que todos os requisitos foram preenchidos ou reiteração do mérito da controvérsia.
+In casu, o presente inconformismo limitou-se a afirmar que: i) "o eventual cabimento de recurso próprio não constitui óbice à impetração de ordem de habeas corpus"; e ii) o paciente está preso em razão de condenação proferida pelo Tribunal do Júri que ofendeu o art. 479 do Código de Processo Penal.
+Com efeito, caberia à parte insurgente contestar a conclusão contida na deliberação unipessoal, impugnando especificamente cada fundamento lançado no decisum agravado: a) o não cabimento manifesto de recurso ordinário em habeas corpus contra acórdão que aprecia apelação; e b) a existência de erro grosseiro a afastar o princípio da fungibilidade recursal.
+Ademais, observa-se que nas razões do regimental o paciente alega matéria completamente dissociada a realidade dos autos. Isso porque o acórdão que a julgou a apelação tratou da condenação do paciente por crime de tráfico ilícito de entorpecentes. Nas razões do recurso ordinário em habeas corpus, a defesa pleiteia a absolvição do paciente, sob o pálio de insuficiência probatória. Já, no presente agravo regimental, o inconformismo cinge-se a alegação de nulidade de condenação do Tribunal do Júri por ofensa ao art. 479 do Código de Processo Penal.
+Assinale-se que "não se conhece de alegação contida nas razões do Agravo Regimental que se encontram dissociadas do que decidido nos autos" (AgRg no AREsp n. 620.086/SP, Segunda Turma, Rel.ª Min.ª Assusete Magalhães, DJe de 2/6/2015).
+Nessa senda, as razões expendidas no bojo do presente inconformismo contrariam o comando do art. 1.021, § 1º, do Código de Processo Civil de 2015, que assim dispõe:
+"Art. 1.021. Contra decisão proferida pelo relator caberá agravo interno para o respectivo órgão colegiado, observadas, quanto ao processamento, as regras do regimento interno do tribunal.
+§ 1º Na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada" (grifei).
+A propósito: AgRg no AREsp n. 843.841/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 11/10/2018; e AgRg no AREsp 1.055. 243/ES, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 18/08/2017.
+Desta feita, por se encontrar divorciada da orientação jurisprudencial desta Corte Superior (Súmula 182 do STJ) e da legislação pertinente, a irresignação não merece ser conhecida.
+Ante o exposto, não conheço do agravo regimental.
+É como voto.
