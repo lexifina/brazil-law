@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 11/04/2023 a 17/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Humberto Martins, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno contra decisão de fls. 598-601, e-STJ, que conheceu do Agravo previsto no art. 1.042 do CPC/2015 para não conhecer do Recurso Especial, tendo em vista tratar-se de temática relacionada à interpretação da Constituição Federal.
+O agravante sustenta, em suma (fl. 605, e-STJ):
+Em que pese a interpretação adotada, a parte agravante entende pela ocorrência de erro de julgamento, pelos seguintes motivos.
+De início, é preciso dizer que o recurso especial possui duas teses. A primeira relacionada à incorreta aplicação da modulação de efeitos, cujos dispositivos de suporte são art. 927, inc. V, do Código de Processo Civil (CPC), o art. 27 da Lei nº. 9.868/99 e o art. 6º, § 2º do Decreto-Lei nº. 4.657/42 (LINDB).
+A segunda tese é de não cabimento da ação rescisória e se funda no art. 966, inc. V, do CPC, a partir da interpretação da Súmula 343 do Supremo Tribunal Federal (STF).
+A primeira tese, como se pode notar, não depende de legislação local e muito menos de normal constitucional. Toda a questão em torno da incorreta aplicação da modulação de efeitos se restringe à legislação federal, mais especificamente, o CPC.
+Basta analisar o art. 927, inc. V, do CPC para constatar que os tribunais devem observar "a orientação do plenário ou do órgão especial aos quais estiverem vinculados". Partindo desta premissa, o órgão especial do tribunal a quo, em controle de constitucionalidade concentrado, modulou efeitos ex nunc a partir da publicação na imprensa oficial (fls. 14/15):
+Pugna pela reconsideração da decisão agravada ou provimento, pelo colegiado, do Agravo Interno.
+Transcorreu o prazo legal sem apresentação de Impugnação ao Agravo.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AÇÃO RESCISÓRIA AJUIZADA PERANTE O TRIBUNAL DE ORIGEM. INDEXAÇÃO DO AUXÍLIO-ALIMENTAÇÃO AO SALÁRIO MÍNIMO. ACÓRDÃO COM FUNDAMENTO CONSTITUCIONAL.
+1. Ao dirimir a controvérsia, o Tribunal a quo concluiu pelo cabimento da Ação Rescisória sob o fundamento de que o pagamento de verba salarial vinculada ao salário mínimo ofende o art. 7º, IV, da Constituição Federal e a Súmula Vinculante 4
+2. Verifica-se que, muito embora tenham sido citados dispositivos infraconstitucionais, a matéria foi dirimida sob enfoque eminentemente constitucional. Descabe, pois, ao STJ examinar a questão, porquanto reverter o julgado significa usurpar competência do STF.
+3. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 13.03.2023.
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado. Portanto não há falar em reparo na decisão.
+Conforme consignei no decisum, o agravante visa obter do STJ, em Recurso Especial, a interpretação de dispositivos da Constituição Federal, informando que houve desrespeito a precedente oriundo de Ação Direta de Inconstitucionalidade, o que é inviável.
+Ao dirimir a controvérsia, o Tribunal a quo concluiu pelo cabimento da Ação Rescisória sob o fundamento de que o pagamento de verba salarial vinculada ao salário mínimo ofende o art. 7º, IV, da Constituição Federal e a Súmula Vinculante 4. Merece transcrição este excerto do acórdão impugnado (fls. 365-366, e-STJ):
+4.1. Antônio Garcia de Marco propôs ação de cobrança (autos nº 404-74.2014.8.16.0152)em face do Município de Santa Mariana, pugnando pelo reconhecimento do seu direito à percepção de auxílio alimentação previsto no artigo 117-A da Lei Complementar Municipal nº 02/2000, desde janeiro de 2012até sua efetiva implementação. Pediu, ainda, a condenação do ente municipal ao pagamento da verba corrigida pelos índices de remuneração básica, com juros de mora conforme caderneta de poupança.
+(..)
+6. No caso, o autor fundamenta o pedido rescisório em dois principais argumentos: (i)violação à normas jurídicas relacionadas à impossibilidade e vinculação do salário mínimo (art. 7º, IV, CF; Súmula Vinculante nº 04, STF; art. 33, §3º, Constituição do Estado do Paraná; e art. 927, II, CPC); e (ii)a existência de fato novo, consubstanciado no julgamento da ação direta de inconstitucionalidade nº 1.747.260-1.
+De fato, a procedência do pedido formulado na ação de cobrança teve como fundamento a regra do artigo117-A da Lei Complementar Municipal nº 001/2012:
+(..)
+No entanto, a Constituição Federal é clara ao coibir a vinculação do salário mínimo para qualquer finalidade, conforme dispõe o seu artigo 7º, inciso IV: "São direitos dos trabalhadores urbanos e rurais, além de outros que visem à melhoria de sua condição social: (..) salário mínimo, fixado em lei, nacionalmente unificado, capaz de atender a suas necessidades vitais básicas e às de sua família com moradia, alimentação, educação, saúde, lazer, vestuário, higiene, transporte e previdência social, com reajustes periódicos que lhe preservem o poder aquisitivo, sendo vedada sua vinculação para qualquer fim".
+Tal entendimento é reforçado pela Súmula Vinculante nº 04: "Salvo nos casos previstos na Constituição, o salário mínimo não pode ser usado como indexador de base de cálculo de vantagem de servidor público ou de empregado, nem ser substituído por decisão judicial".
+Desse modo, parece-nos evidente a existência de violação a norma jurídica. Tanto é assim que o artigo 117-A do Estatuto dos Servidores Público do Município de Santa Mariana foi declarado inconstitucional pelo Órgão Especial desta Corte, no julgamento da Ação Direta de Inconstitucionalidade nº 1.747.260-1, assim ementada:
+Depreende-se que a temática central do conflito é de cunho eminentemente constitucional, e a análise da questão, de todos os ângulos abordados no Recurso, envolve matéria dessa natureza. Não cabe, portanto, a sua apreciação em Recurso Especial, pois a competência para tal é do Supremo Tribunal Federal conforme dispõe o art. 102, III, da Constituição da República.
+Nesse sentido, cito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. CONTRATO TEMPORÁRIO. ESTABILIDADE PROVISÓRIA DECORRENTE DE GRAVIDEZ. OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015 NÃO CARACTERIZADA. ARTS. 373, I, E 1.013 DO CPC/2015. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. ACÓRDÃO DO TRIBUNAL A QUO APOIADO EM LEGISLAÇÃO LOCAL E FUNDAMENTO CONSTITUCIONAL. SÚMULA 280/STF. COMPETÊNCIA DO STF. DISSÍDIO PRETORIANO PREJUDICADO.
+1. Cuida-se, na origem, de Ação de Obrigação de Fazer c/c Reintegração ao Trabalho contra o Estado de Santa Catarina, em que a autora sustenta que foi contratada como professora temporária, o qual foi extinto ao seu termo. No entanto, descobriu posteriormente sua gravidez, buscando o direito à estabilidade provisória garantida pela Constituição Federal às gestantes.
+2. Inexiste a alegada violação dos arts. 489 e 1.022 do CPC/2015, visto que a Corte de origem julgou integralmente a lide e solucionou, de maneira clara e amplamente fundamentada, a controvérsia, em conformidade com o que lhe foi apresentado, não podendo o acórdão ser considerado nulo tão somente porque contrário aos interesses da parte.
+3. Em relação à suposta violação dos artigos 373, I, e 1.013 do CPC/2015, o recorrente não apontou, nas razões recursais, fundamentação bastante para contextualizar o porquê de o Tribunal de origem ter ofendido os citados dispositivos legais, de forma a atrair a tutela da instância especial. Assim, incide, no ponto, a Súmula 284/STF.
+4. Segundo se observa dos fundamentos que serviram para a Corte de origem apreciar a controvérsia, o tema foi dirimido com fundamento constitucional e em direito local (Lei Estadual 18.185/2009), de modo que o Recurso Especial se apresenta inviável, seja porque usurparia a competência reservada pela Constituição ao Supremo Tribunal Federal, seja porque pressupõe reexame de legislação estadual, obstado pela Súmula 280/STF, segundo a qual: "por ofensa ao direito local não cabe recurso extraordinário, ensejando o não conhecimento do recurso especial".
+5. Fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada na apreciação do Recurso Especial pela alínea "a" do permissivo constitucional.
+6. Recurso Especial parcialmente conhecido, somente com relação à preliminar de violação dos arts. 489 e 1.022 do CPC/2015, e, nessa parte, não provido.
+(REsp 1.928.687/TO, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 15/3/2022)
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Por tudo isso, nego provimento ao Agravo Interno.
+É como voto.
