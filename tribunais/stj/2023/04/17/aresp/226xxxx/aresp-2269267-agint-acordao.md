@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 11/04/2023 a 17/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+Trata-se de agravo regimental interposto por MARCELO HORLE BONGIOVANNI e OSVALDO HORLE BONGIOVANNI contra a decisão que negou provimento ao agravo em recurso especial com base na Súmula n. 182 do STJ.
+Os agravantes alegam que houve impugnação específica de todos os fundamentos da decisão de inadmissibilidade do recurso especial.
+Afirmam que, nas razões do ag ravo em recurso especial, demonstraram a violação dos dispositivos apontados no recurso especial e a inaplicabilidade da Súmula n. 7 do STJ, bem como atenderam ao disposto no art. 105, III, c, da Constituição Federal, pois colacionaram decisões proferidas por outros tribunais que divergem do entendimento exposto no acórdão recorrido.
+Requerem a reforma do decisum para que o agravo seja provido a fim de que haja o conhecimento e o provimento do recurso especial.
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME CONTRA A ORDEM TRIBUTÁRIA. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182 DO STJ.
+1. Incide a Súmula n. 182 do STJ quando a parte agravante não impugna especificamente todos os fundamentos da decisão agravada.
+2. Agravo regimental desprovido.
+VOTO
+A irresignação não reúne condições de prosperar diante da inexistência de argumentos capazes de infirmar os fundamentos da decisão impugnada.
+Conforme exposto na decisão agravada, a inadmissão do recurso especial baseou-se nos seguintes fundamentos: ausência de afronta a dispositivo legal, Súmula n. 7 do STJ e deficiência de cotejo analítico.
+Entretanto, a parte agravante, nas razões do agravo em recurso especial, não impugnou especificamente o fundamento relativo à deficiência de cotejo analítico.
+Nos termos dos arts. 932, III, do CPC e 253, parágrafo único, I, do RISTJ, não se conhecerá do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão recorrida.
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige a impugnação de todos os seus fundamentos.
+A propósito, confira-se precedente:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC
+5. Embargos de divergência não providos. (EAREsp n. 746.775/PR, relator para o acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/9/2018, DJe de 30/11/2018.)
+Além disso, a refutação apta a infirmar a decisão agravada deve ser efetiva, individualizada, específica e fundamentada, o que não ocorreu no caso dos autos.
+Para afastar o fundamento de ausência de cotejo analítico, não basta a parte sustentar que houve a demonstração da divergência jurisprudencial, sendo necessário que comprove que efetivamente realizou o cotejo analítico.
+Vejam-se julgados sobre a questão:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INOBSERVÂNCIA DO ART. 1.021, § 1º, DO NCPC E INCIDÊNCIA DA SÚMULA N.º 182 DO STJ. AGRAVO NÃO CONHECIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O agravo interno não infirmou as razões da decisão agravada, pois não refutou, de forma devida, a aplicação das Súmulas n.ºs 5 e 13 do STJ e a deficiência de cotejo analítico, que levaram ao não conhecimento do apelo nobre manejado. Inobservância do art. 1.021, § 1º, do NCPC e aplicação da Súmula n.º 182 do STJ.
+3. Agravo interno não conhecido. (AgInt no AREsp n. 2.054.036/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 15/8/2022, DJe de 17/8/2022.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ORGANIZAÇÃO CRIMINOSA. INADMISSÃO DO RECURSO ESPECIAL. RAZÕES NÃO INFIRMADAS EM SUA TOTALIDADE. SÚMULA N. 182 DO STJ. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. No agravo interposto contra a inadmissão do recurso especial, a defesa não demonstrou, de modo concreto, que a moldura fática é incontroversa e, em casos semelhantes, recebeu interpretação diversa por esta Corte Superior, tampouco evidenciou haver realizado o devido cotejo analítico entre os precedentes indicados como paradigma e a situação dos autos. Correta a aplicação da Súmula n. 182 do STJ à espécie.
+2. É inadequada a pretensão de concessão de habeas corpus de ofício com intuito de superar, por via transversa, óbice reconhecido à admissibilidade do recurso interposto. Precedentes.
+3. Agravo regimental não provido. (AgRg no AREsp n. 1.692.489/AC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 27/9/2022, DJe de 6/10/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. SÚMULA 182/STJ. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. A decisão ora recorrida não conheceu do agravo em razão da não impugnação aos fundamentos da decisão que inadmitiu o recurso especial na origem, notadamente quanto à incidência da Súmula 7 do STJ e à ausência de comprovação da divergência jurisprudencial. Em razão disso, consignou-se a incidência da Súmula 182 do STJ.
+2. A parte, para ver seu recurso especial inadmitido ascender a esta Corte, precisa, primeiro, desconstituir os fundamentos utilizados para a negativa de seguimento daquele recurso, sob pena de vê-los mantidos.
+3. É mister repetir que as razões demonstrativas do desacerto da decisão agravada devem ser veiculadas imediatamente nessa oportunidade, pois convém frisar não ser admitida fundamentação a destempo, a fim de inovar a justificativa para ascensão do recurso excepcional, diante da preclusão consumativa.
+4. Em nova análise do agravo interposto, tem-se que a parte agravante efetivamente não rebateu todos os fundamentos da decisão de inadmissão do recurso especial,
+5. Inadmitido o recurso especial com base na Súmula 7 do STJ, não basta a assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do citado óbice processual.
+6. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.770.082/SP, relator Ministro Manoel Erhardt, Primeira Turma, julgado em 26/4/2021, DJe de 30/4/2021.)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. INOCORRÊNCIA.AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A TODOS OS FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA N. 182/STJ. AGRAVO DESPROVIDO.
+1. Consoante disposições do Código de Processo Civil e do Regimento Interno desta Corte (arts. 932, caput, do CPC e 255, § 4º, III, do RISTJ), o Relator deve fazer um estudo prévio da viabilidade do recurso especial, além de analisar se a tese encontra plausibilidade jurídica.
+2. E não há que se falar em afronta ao princípio da colegialidade e/ou cerceamento de defesa, pois a possibilidade de interposição de agravo regimental contra a respectiva decisão permite que a matéria seja apreciada pela Turma, afastando o vício suscitado pelo agravante.
+3. A falta de impugnação específica a todos os fundamentos utilizados na decisão agravada atrai a incidência do enunciado sumular n. 182 desta Corte Superior.
+4. Como tem reiteradamente decidido esta Corte, os recursos devem impugnar, de maneira específica e pormenorizada, os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos. Não são suficientes meras alegações genéricas sobre as razões que levaram à inadmissão do agravo ou do recurso especial ou à insistência no mérito da controvérsia.
+5. Agravo regimental a que se nega provimento. (AgRg no AREsp n. 1.708.623/SE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 25/8/2020, DJe de 31/8/2020.)
+É de rigor a incidência, por analogia, da Súmula n. 182 do STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
