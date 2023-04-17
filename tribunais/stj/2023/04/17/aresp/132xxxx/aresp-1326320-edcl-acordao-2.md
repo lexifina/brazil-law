@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 11/04/2023 a 17/04/2023, por unanimidade, acolher os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Humberto Martins, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de embargos de declaração opostos contra Acórdão que julgou agravo interno. O recurso foi julgado pela E. Segunda Turma, conforme a seguinte ementa do acórdão:
+TRIBUTÁRIO. IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS. ISENÇÃO CONDICIONADA. VENDA DE CIGARROS PARA EMBARCAÇÕES OU AERONAVES DE TRÁFEGO INTERNACIONAL. DESVIO DE DESTINAÇÃO. RESPONSABILIDADE PELO FATO. SUJEIÇÃO AO PAGAMENTO DO TRIBUTO DEVIDO. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. INEXISTÊNCIA.
+I - Na origem, trata-se de ação anulatória ajuizada pela recorrente objetivando eximir-se do pagamento de IPI incidente sobre a venda de cigarros que, não obstante comercializados para consumo a bordo de embarcações ou aeronaves de tráfego internacional, não tiveram tal destinação especial, o que deu ensejo ao auto de infração impugnado.
+II - Para a obtenção da isenção de IPI prevista no art. 8º, I, do Decreto-Lei n. 1.593/1977, ou seja, exportação direta para consumo a bordo de embarcações ou aeronaves de tráfego internacional, aportadas no Brasil, tendo em vista o caráter condicional do benefício, é obrigatória a comprovação da destinação.
+III - De acordo com a legislação vigente à época dos fatos, em especial o art. 42 do RIPI - Decreto 87.981/82, descumprida a condição para a qual havia sido concedida a isenção tributária, o imposto não recolhido na saída do estabelecimento passa a ser devido por aquele que deu causa à tredestinação, inclusive o estabelecimento industrial, se assim fosse comprovado.
+IV - A Portaria MF 471/78, ato infralegal, ao prever a obrigação de apresentação de guias de exportação do estabelecimento produtor como forma de comprovação da correta destinação da mercadoria, não poderia ser utilizada como fundamento para a responsabilidade solidária do estabelecimento fabricante. A expressão "responsabilidade pelo cumprimento" do efetivo embarque, contida na Portaria MF 471/78, deve ser compreendida apenas como uma obrigação acessória do industrial, tendente a auxiliar o Fisco na atividade de fiscalização, da qual poderá resultar o lançamento tributário contra o proprietário, possuidor, transportador ou qualquer outro detentor de cigarros nacionais destinados à exportação, inclusive contra o próprio fabricante, nos termos do art. 42 do RIPI - Decreto 87.981/82.
+V - No caso dos autos, a própria Receita Federal do Brasil fez constar no auto de infração que a tredestinação foi provocada pelas empresas adquirentes dos cigarros produzidos pela recorrente, cujas guias de exportação foram canceladas por expiração de prazo, de modo que não cabe ao recorrente o pagamento do tributo devido.
+VI - Impõe-se o afastamento de alegada violação ao art. 1.022, do CPC/2015, quando a questão apontada como omitida pelo recorrente foi examinada no acórdão recorrido e inexistente contradição indicada, caracterizando o intuito revisional dos embargos de declaração.
+VII - Agravo conhecido para dar parcial provimento ao recurso especial.
+Na origem, trata-se de ação anulatória ajuizada pela recorrente objetivando eximir-se do pagamento de IPI incidente sobre a venda de cigarros que, não obstante comercializados para consumo a bordo de embarcações ou aeronaves de tráfego internacional, não tiveram tal destinação especial, o que deu ensejo ao auto de infração impugnado. Na sentença julgou-se improcedente o pedido. No Tribunal a quo a sentença foi reformada. Posteriormente, após interposição de embargos infringentes, a sentença foi restabelecida. Interposto recurso especial, teve seu seguimento negado na origem. No STJ, o agravo em recurso especial foi conhecido para dar parcial provimento ao recurso especial.
+Opostos embargos de declaração, aponta a parte embargante os seguintes vícios no acórdão embargado:
+ ..
+II-AS OMISSÕES NA FIXAÇÃO DOS HONORÁRIOS SUCUMBENCIAIS E NA CONDENAÇÃO DA FAZENDA AO PAGAMENTO DAS DESPESAS PROCESSUAIS
+ ..
+03. Contudo, apesar de a Fazenda Nacional haver restado integralmente vencida, no voto condutor do julgado não houve a devida fixação dos honorários sucumbenciais que esta deve pagar à Embargante, de modo que o v. acórdão embargado restou omisso quanto ao ponto, devendo ser aclarado.
+ ..
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. NA ORIGEM. TRIBUTÁRIO IPI RESPONSABILIDADE ISENÇÃO PRODUTOS DESTINADOS A CONSUMO A BORDO DE EMBARCAÇÕES OU AERONAVES DE TRÁFEGO INTERNACIONAL DESVIO NA DESTINAÇÃO NÃO IMPUTADO AO INDUSTRIAL . RECURSO PARCIALMENTE PROVIDO. OMISSÃO QUANTO A INVERSÃO DOS ÔNUS SUCUMBENCIAIS. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, PARA FIXAR A INVERSÃO DOS ÔNUS SUCUMBENCIAIS.
+I - Na origem, trata-se de ação anulatória ajuizada pela recorrente objetivando eximir-se do pagamento de IPI incidente sobre a venda de cigarros que, não obstante comercializados para consumo a bordo de embarcações ou aeronaves de tráfego internacional, não tiveram tal destinação especial, o que deu ensejo ao auto de infração impugnado. Na sentença julgou-se improcedente o pedido. No Tribunal a quo a sentença foi reformada. Posteriormente, após interposição de embargos infringentes, a sentença foi restabelecida. Interposto recurso especial, teve seu seguimento negado na origem. No STJ, o agravo em recurso especial foi conhecido para dar parcial provimento ao recurso especial.
+II - Os embargos merecem acolhimento. De fato, em que pese o recurso especial ter sido parcialmente provido, porquanto a arguição relativa ao art. 1.022 do CPC/2015 não ter sido acolhida, o fato é que, no mérito, o objeto principal do pedido foi provido, restando sucumbente a UNIÃO. Nessas circunstâncias, imperioso a inversão dos ônus sucumbenciais contra a FAZENDA NACIONAL.
+III - Embargos de declaração acolhidos, para fixar a inversão dos ônus sucumbenciais.
+VOTO
+Os embargos merecem acolhimento.
+De fato, em que pese o recurso especial ter sido parcialmente provido, porquanto a arguição relativa ao art. 1.022 do CPC/2015 não ter sido acolhida, o fato é que, no mérito, o objeto principal do pedido foi provido, restando sucumbente a UNIÃO.
+Nessas circunstâncias, imperioso a inversão dos ônus sucumbenciais contra a FAZENDA NACIONAL.
+Ante o exposto, acolho os embargos de declaração, com efeitos modificativos, para fixar a inversão dos ônus sucumbenciais.
+É o voto.
