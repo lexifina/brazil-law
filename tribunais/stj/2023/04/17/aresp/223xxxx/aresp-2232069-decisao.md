@@ -1,0 +1,56 @@
+DECISÃO
+Cuida-se de agravo interposto por AUTOLOCADORA ALL JUNIOR LTDA. contra decisão que não admitiu seu recurso especial, fundamentado no art. 105, III, a e c, da Constituição Federal, por sua vez manejado contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL nos termos da seguinte ementa (fl. 92):
+AGRAVO INTERNO. EXECUÇÃO FISCAL. ARREMATAÇÃO. NULIDADE. INEXISTÊNCIA.
+1. Embora o pagamento tenho sido realizado por pessoa diversa do arrematante, restou comprovado que tal fato decorreu da impossibilidade da quitação do valor em outros bancos, de modo que a empresa arrematante solicitou o pagamento por terceiro junto ao banco Banrisul. Ademais, o pagamento ocorreu em parcela única, de forma imediata, inexistindo qualquer irregularidade.
+2. A ausência de comprovação pelo agravante da aceitação do precatório oferecido junto ao Programa Compensa RS, antes da realização da hasta pública, afasta a alegação de nulidade da arrematação. Ademais, restou evidenciado nos autos que não preencheu os requisitos legais para tanto. Matéria apreciada nos autos do agravo de instrumento nº 5087605-54.2021.8.21.7000/RS.
+RECURSO DESPROVIDO.
+Rejeitados os embargos de declaração opostos (fls. 115-118).
+Nas razões do recurso especial (fls. 127-135), aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto nos arts. 892, 897 e 903, § 1º, III, do Código de Processo Civil, sustentando que o pagamento realizado pelo arrematante foi irregular, porquanto ausente o pronunciamento judicial prévio autorizando forma diversa do previsto na lei.
+O segundo recurso especial apresentado pela mesma parte (fls. 137-145) não foi conhecido, em atenção ao princípio da unirrecorribilidade.
+Oferecidas contrarrazões (fls. 156-158), sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 163-170), o que ensejou a interposição do presente agravo (fls. 178-183).
+Apresentadas contraminutas do agravo (fls. 187-191).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+A irresignação não merece prosperar.
+O Tribunal de origem concluiu que não há nenhuma irregularidade no pagamento realizado pelo arrematante, baseado nos fatos e nas provas existentes nos autos, de acordo com o seguinte trecho do acórdão (fls. 89-90):
+Conforme se infere do recurso, a parte agravante sustenta, em síntese, a nulidade do procedimento de expropriação do bem, em razão de a arrematação ter sido paga por terceiro, bem como diante da existência de ter realizado pedido de compensação de créditos deprecatórios através do PROGRAMA COMPENSA RS.
+Como bem apanhado pelo Ministério Público em seu parecer, "embora o pagamento tenho sido realizado por pessoa diversa do arrematante, restou comprovado que isso ocorreu em razão da impossibilidade da quitação em outros bancos, de modo que a empresa arrematante solicitou que referida pessoa realizasse o depósito junto ao banco Banrisul. Ademais, o pagamento ocorreu emparcela única, de forma imediata, estando a arrematação perfeita e acabada".
+Tal circunstância restou esclarecida pelo juízo a quo quando da prolatação da decisão recorrida, a saber:
+Desacolho a alegação de nulidade de arrematação, pois embora o pagamento tenho sido realizado por Venicius Rissi, foi justificado no Evento 100 que tal ocorreu em razão da impossibilidade da quitação em outros bancos, de modo que a empresa arrematante solicitou que referida pessoa realizasse o depósito junto ao banco Banrisul.
+Além disso, o pagamento ocorreu em parcela única, de forma imediata, estando a arrematação perfeita e acabada.
+Rever tal entendimento, conforme pretendido, implica o reexame do contexto fático-probatório dos autos. Sendo assim, incide a Súmula n. 7/STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Confira-se:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. ACÓRDÃO DO TRIBUNAL DE ORIGEM QUE, DIANTE DO ACERVO PROBATÓRIO DOS AUTOS, CONSTATOU A VALIDADE DA CERTIDÃO DA DÍVIDA ATIVA. IMPOSSIBILIDADE DE REEXAME DE FATOS E PROVAS. APLICAÇÃO DA SÚMULA 7 DO STJ. AGRAVO INTERNO IMPROVIDO.
+ ..
+II. No caso dos autos, considerando a fundamentação do acórdão recorrido, no qual ficou consignado que "a CDA preenche todos requisitos do art. 202 do CTN, repetidos no art. 2º, § 5º, da LEF.
+Conforme mencionado pelo magistrado de origem, "os valores originários do débito estão devidamente discriminados, em cada competência, bem como os valores correspondentes a juros de mora (equivalentes à taxa SELIC e computados a partir do vencimento de cada competência inadimplida), correção monetária (não há, tanto assim que o valor originário é idêntico ao valor atualizado) e multa de mora". Assim, não há qualquer vício no título executivo, porquanto, por não haver correção monetária, o valor originário é idêntico ao valor atualizado", os argumentos utilizados pela parte recorrente, no sentido de que, "tendo em vista que não houve o atendimento dos requisitos legais obrigatórios constantes do art. 202, II e III do Código Tributário Nacional, bem como do art. 2º, § 5º, II da Lei 6.830/80, impõe-se a aplicação do art. 203 do Caderno Tributário, a fim de que seja reconhecida a nulidade das certidões de dívida ativa que embasam o presente feito", somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula 7/STJ. Precedentes: STJ, AgRg no AREsp 604.338/DF, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 06/04/2015; AgRg no REsp 1.506.059/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 24/03/2015; AgRg no REsp 1.488.260/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 03/02/2015.
+III. Agravo interno improvido.
+(AgInt no AREsp n. 1.932.251/RS, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+SERVIDOR PÚBLICO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 1.022 DO CPC. INOCORRÊNCIA. INSTAURAÇÃO DE PROCESSO ADMINISTRATIVO PARA APURAR EVENTUAL IRREGULARIDADE. AUSÊNCIA DE DECADÊNCIA ADMINISTRATIVA. INTUITO DE SOBREPOSIÇÃO INDEVIDA DE GRAUS HIERÁRQUICOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. INCIDÊNCIA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+ ..
+III - O acórdão recorrido adotou entendimento consolidado nesta Corte segundo o qual configura-se exercício do direito de anular qualquer medida de autoridade administrativa que importe impugnação à validade do ato, não se devendo falar em decadência administrativa com a instauração de processo administrativo para apurar eventual irregularidade.
+IV - In casu, rever o entendimento do Tribunal de origem, o qual concluiu que a manutenção do ato administrativo anulado importaria na sobreposição indevida de graus hierárquicos, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7/STJ.
+V - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+ ..
+VII - Agravo Interno improvido.
+(AgInt no REsp n. 2.012.703/RN, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 13/2/2023, DJe de 17/2/2023.)
+Por fim, não se pode conhecer do recurso pela alínea c. A pretensão da parte é de ver reconhecida a existência de dissídio jurisprudencial que tem por objeto a mesma questão aventada sob os auspícios da alínea a, que, por sua vez, foi obstaculizada pela Súmula n. 7/STJ. Quando isso acontece, impõe-se o reconhecimento da inexistência de similitude fática entre os arestos confrontados, requisito indispensável ao conhecimento do recurso especial pela alínea c.
+Confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA PROFERIDA EM AÇÃO COLETIVA AJUIZADA PELO SINDICATO NACIONAL DOS TÉCNICOS DA RECEITA FEDERAL - SINDTTEN. LIMITAÇÃO. COISA JULGADA. SÚMULA 7/STJ.
+1. A jurisprudência do Superior Tribunal de Justiça entende que, havendo o Tribunal a quo reconhecido a existência de limitação subjetiva do título executivo sobre a qual se operou a coisa julgada, decidir em sentido contrário, afastando a ocorrência de tal limitação, pressupõe reexame do conjunto fático-probatório, o que é vedado por força da Súmula 7/STJ. Precedentes.
+2. A impugnação da Súmula 7/STJ pressupõe estrutura argumentativa específica, indicando-se as premissas fáticas admitidas como verdadeiras pelo Tribunal de origem, a qualificação jurídica atribuída pelo Tribunal de origem e a apreciação jurídica que lhes deveria ter sido realmente
+atribuída. O recurso daí proveniente deveria se esmerar em demonstrar efetivamente que a referida súmula não se aplica ao caso concreto, e não em simplesmente reiterar o Recurso Especial. Precedentes.
+3. A incidência da Súmula 7 do STJ é óbice também para a análise do dissídio jurisprudencial, impedindo o conhecimento do recurso pela alínea "c" do permissivo constitucional (AgInt no AREsp 964.391/SP, Rel. Min. Ricardo Villas Bôas Cueva, Terceira Turma, DJe 21.11.2016).
+ ..
+5. Agravo Interno não provido.
+(AgInt no REsp n. 2.019.640/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. INDENIZAÇÃO POR DANOS MORAIS. VALOR FIXADO. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. IMPOSSIBILIDADE. EXAME PREJUDICADO. SÚMULA 7/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. No caso dos autos, a pretensão está vinculada ao reexame de provas, o que não é adequado na via do especial, consoante enuncia a Súmula 7/STJ.
+3. A incidência da Súmula n. 7 do STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+4. Prejudicada a análise de divergência jurisprudencial quanto à matéria a respeito da qual a tese sustentada foi afastada ou sobre a qual houve a aplicação de óbice sumular, quando do exame do recurso especial pela alínea "a" do permissivo constitucional. Precedentes.
+5. Agravo interno não provido.
+(AgInt no REsp n. 1.894.589/RJ, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 14/3/2022, DJe de 18/3/2022.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Caso existam nos autos honorários advocatícios fixados pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
