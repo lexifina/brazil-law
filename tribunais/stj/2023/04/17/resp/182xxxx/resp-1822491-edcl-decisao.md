@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por LPS BRASIL CONSULTORIA DE IMÓVEIS S.A. (LPS BRASIL), contra decisão monocrática de minha relatoria, assim ementada:
+CIVIL. AÇÃO DE COBRANÇA. COMISSÃO DE CORRETAGEM E TAXA SATI. IRRESIGNAÇÃO SUBMETIDA AO NCPC. PRETENSÃO SUJEITA À PRESCRIÇÃO TRIENAL. RECURSO ESPECIAL DA FOX 41 PROVIDO. RECURSO ESPECIAL DA LPS BRASIL PREJUDICADO.
+Nas razões do presente inconformismo, defendeu que, como ambos os recursos especiais estão relacionados à mesma matéria - ocorrência da prescrição trienal -, faz-se necessário o provimento, também, do seu apelo nobre, com a consequente condenação do autor, ora embargado, ao pagamento dos ônus sucumbenciais.
+Não foi apresentada contraminuta.
+É o relatório.
+A pretensão deve ser acolhida.
+Narram os autos que VERA LÚCIA MARIA RODRIGUES (VERA) ajuizou ação contra PROJETO FOX 41 DESENVOLVIMENTO IMOBILIÁRIO LTDA. (FOX 41) e LPS BRASIL, ora embargante, pleiteando a repetição em dobro da Taxa SATI e da comissão de corretagem pagas para a aquisição de imóvel.
+O Tribunal de Justiça de São Paulo deu parcial provimento ao recurso de apelação interposto por VERA, determinando a repetição simples dos valores reclamados
+No âmbito desta Corte Superior, o recurso especial de FOX 41 foi provido para reconhecer a ocorrência da prescrição trienal, pois, segundo admitido na própria petição inicial, o contrato de promessa de compra e venda foi firmado em abril de 2011 e, na mesma data, foram pagas, por meio de cheques, a comissão de corretagem e a Taxa SATI. Assim, como a ação de cobrança somente foi protocolada aos 30/6/2014, ou seja, mais de três anos depois, é de se reconhecer o advento da prescrição.
+Nas razões dos presentes embargos de declaração, LPS BRASIL alega violação do art. 1.022, II, do NCPC indicando obscuridade da decisão, porquanto, se ambos os recursos especiais veiculavam a mesma matéria (prescrição quanto à cobrança da comissão de corretagem e da taxa SATI), ao invés de ser julgado prejudicado, o seu apelo nobre também deveria ter sido provido.
+No ponto, assiste-lhe razão, pois, tendo sido a ação ajuizada por VERA em desfavor de duas corrés, configurando hipótese de litisconsórcio passivo, a extinção do processo pelo julgamento do mérito, ante a ocorrência da prescrição, deve ser reconhecida em relação a ambas as litisconsortes, afigurando-se impositiva a fixação de honorários advocatícios em benefício de FOX 41 e de LP BRASIL, uma vez que a sucumbência é única.
+Esse enfrentamento é perfeitamente possível, no âmbito de embargos de declaração, que se prestam exatamente a sanar defeitos do julgado, entre eles suprir omissão, obscuridade, contradição ou erro material relacionado a ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento (art. 1.022, II, CPC).
+Nessas condições, ACOLHO os embargos de declaração, com efeitos modificativos, para DAR PROVIMENTO ao recurso especial de LPS BRASIL, a fim de julgar improcedentes os pedidos formulados na petição inicial em razão da prescrição e condenar VERA ao pagamento de custas processuais e honorários advocatícios sucumbenciais equivalentes a 10% sobre o valor da causa.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. COMISSÃO DE CORRETAGEM E TAXA SATI. PRETENSÃO SUJEITA À PRESCRIÇÃO TRIENAL. LITISCONSÓRCIO PASSIVO. FIXAÇÃO DOS ÔNUS SUCUMBENCIAIS EM BENEFÍCIO DE AMBAS AS CORRÉS. ACLARATÓRIO ACOLHIDO. RECURSO ESPECIAL PROVIDO.
