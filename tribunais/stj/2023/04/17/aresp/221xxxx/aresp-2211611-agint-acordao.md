@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 11/04/2023 a 17/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por MARIA APARECIDA DE BESSA e IONETY FERREIRA DA CUNHA contra decisão monocrática proferida pela presidência do STJ que obstou a subida de Recurso Especial em razão de intempestividade, uma vez que a parte agravante não teria comprovado a ocorrência de feriado local ou suspensão de expediente forense, para aferição da tempestividade do recurso (fls. 813-814.
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no art. 105, inciso III, "a" e "c", da CF/1988, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO assim ementado (fl. 374):
+PROCESSUAL CIVIL E CIVIL. AGRAVO RETIDO. AUSÊNCIA DE REITERAÇÃO. JUROS NOMINAIS. AUSÊNCIA DE INTERESSE RECURSAL. PEDIDO DE QUITAÇÃO DO FINANCIAMENTO. NÃO CONHECIMENTO. SISTEMA FINANCEIRO DE HABITAÇÃO. AÇÃO  REVISIONAL DE CLÁUSULAS CONTRATUAIS. CESSIONÁRIO. LEGITIMIDADE ATIVA. CONVERSÃO DA MOEDA NACIONAL  URV. LEGALIDADE. PERCENTUAL DE 84,32%. INCIDÊNCIA. COEFICIENTE DE EQUIPARAÇÃO SALARIAL - CES. SEGURO HABITACIONAL. FCVS. TAXA DE COBRANÇA E ADMINISTRAÇÃO - TCA. CONTRIBUIÇÃO PARA O FUNDHAB. TABELA PRICE. ÍNDICE DE REAJUSTE DO SALDO DEVEDOR. JUROS. CRITÉRIO DE AMORTIZAÇÃO DO SALDO DEVEDOR. PAGAMENTO INDEVIDO. RESTITUIÇÃO CABÍVEL. PLANO DE EQUIVALÊNCIA SALARIAL. OBSERVÂNCIA NECESSÁRIA. CONTRATO ANTERIOR A LEI 8.004/90. AUTÔNOMOS. REAJUSTE DAS PRESTAÇÕES PELA VARIAÇÃO DO SALÁRIO " MINIMO.
+Rejeitados os embargos de declaração opostos (fls. 413-419).
+Alega a parte agravante que o recurso é tempestivo, porquanto "a jurisprudência deste E. STJ, alterando anterior posição, ainda na vigência do CPC/73, vem possibilitando a comprovação da tempestividade de recurso com a juntada posterior de documentos comprobatórios de feriado local ou suspensão do expediente forense do Tribunal de origem" e "o recurso em questão restou interposto na vigência do CPC/73, não lhe sedo aplicável a regulação do artigo 1.003, §6ºdo CPC/15".
+Junta cópia da Resolução n. 8, de 10 de dezembro de 2008, para comprovar que houve a suspensão dos prazos em virtude do recesso forense entre os dias 20/12/2008 a 6/1/2009.
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+Sem contraminuta (fls. 850 e 851).
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO CÓDIGO DE PROCESSO CIVIL DE 1973. POSSIBILIDADE DE COMPROVAÇÃO POSTERIOR DA AUSÊNCIA DE ATIVIDADE FORENSE. NÃO OCORRÊNCIA. INTEMPESTIVIDADE MANTIDA.
+1. De acordo com os Enunciados Administrativos do STJ 2 e 3, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+2. Para os recursos interportos na vigência do CPC de 1973, o entendimento desta Corte Superior é de que a comprovação da tempestividade do recurso, em decorrência da existência de feriado local ou de suspensão de expediente forense, pode ocorrer posteriormente, em agravo interno. Precedentes.
+3. Contudo, no caso, a parte ora agravante acostou aos autos resolução do TJGO, enquanto que o acórdão recorrido foi proferido pelo TRF da 1ª Região, não comprovando, assim, a suspensão do expediente forense como alegado.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+A decisão agravada não conheceu do recurso especial uma vez que a parte fora intimada do acórdão recorrido em 19/12/2008, sendo o recurso interposto somente em 21/1/2009, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias, nos termos do art. 508 do Código de Processo Civil de 1973.
+De acordo com os Enunciados Administrativos do STJ 2 e 3, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Para os recursos interportos na vigência do CPC de 1973, o entendimento desta Corte Superior é de que a comprovação da tempestividade do recurso, em decorrência da existência de feriado local ou de suspensão de expediente forense, pode ocorrer posteriormente, em agravo interno.
+Nesse sentido, cito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO CÓDIGO DE PROCESSO CIVIL DE 1973. RECESSO FORENSE. AGRAVO REGIMENTAL INSTRUÍDO COM DOCUMENTO COMPROBATÓRIO DA SUSPENSÃO DO PRAZO RECURSAL. INTEMPESTIVIDADE. AGRAVO INTERNO DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+1. Na hipótese em exame, aplica-se o Enunciado 2 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça."
+2. Não se desconhece o entendimento desta Corte Superior de que a comprovação da tempestividade do recurso, em decorrência da existência de feriado local ou de suspensão de expediente forense, pode ocorrer posteriormente, em sede de Agravo. Precedentes: AgRg no AREsp. 570.272/PE, Rel. Min. HERMAN BENJAMIN, DJe 31.3.2015; EDcl no AgRg no REsp. 1.139.132/DF, Rel. Min. LUIS FELIPE SALOMÃO, DJe 12.5.2015; EDcl no AgRg no REsp. 1.123.122/SP, Rel. Min. NEFI CORDEIRO, DJe 4.3.2015.
+3. Contudo, no caso, a parte ora agravante apesar de de acostar aos autos documento comprobatório de sua alegação, a parte Recorrente foi intimada do acórdão recorrido em 7.1.2016, sendo o Recurso Especial somente interposto em 10.2.2016, quando já esgotado o prazo recursal de 15 dias, nos termos do art. 508 do CPC/1973.
+Portanto, manifesta a intempestividade do recurso. Precedentes:
+AgInt no AREsp. 954.357/RJ, Rel. Min. LÁZARO GUIMARÃES, DJe 22.5.2018; AgInt nos EDcl nos EDcl no AREsp. 1.089.388/SP, Rel. Min. REGINA HELENA COSTA, DJe 1o.3.2018; EDcl no AgRg no REsp.
+1.552.495/SC, Rel. Min. MARCO BUZZI, DJe 14.12.2017; AgInt nos EDcl no AREsp. 936.637/SP, Rel. Min. MOURA RIBEIRO, DJe 4.8.2017.
+4. Agravo Interno do Particular a que se nega provimento.
+(AgInt nos EDcl no REsp n. 1.834.282/RS, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 31/8/2020, DJe de 8/9/2020.)
+PROCESSUAL CIVIL. TRIBUTÁRIO. COBRANÇA DE TLLF. TEMPESTIVIDADE. NÃO COMPROVAÇÃO. AUSÊNCIA DE DOCUMENTO IDÔNEO.
+I - Na origem, trata-se execução fiscal ajuizada para a cobrança dos créditos tributários referentes à Taxa de Licença para Localização e Funcionamento - TLLF. Na sentença, julgou-se extinto o processo em razão da ocorrência de prescrição. No Tribunal de origem, a sentença foi mantida.
+II - Observa-se, mediante análise do recurso de Município de Maceió, que o ente público foi intimado pessoalmente do acórdão recorrido em 11/12/2014, sendo o recurso especial somente interposto em 14/1/2015.
+III - O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 30 dias, nos termos do art. 508 do Código de Processo Civil de 1973 c/c o art. 188 do mesmo diploma legal.
+IV - Conforme pacificado nesta Corte, a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada, no ato da interposição do recurso que pretende seja conhecido por este Tribunal, por documento oficial ou certidão expedida pelo Tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública (AgInt no REsp n. 1.686.469/AM, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/3/2018.) V - Admite-se, ainda, a comprovação posterior, em via de agravo interno, quando o recurso especial foi interposto na vigência do CPC/73. Verifica-se, entretanto, que, mesmo em via de agravo interno, o recorrente não apresentou nenhum documento idôneo, ou seja, apto a comprovar a tempestividade de seu recurso especial.
+Nesse sentido: AgRg no AREsp n. 137.141/SE, Rel. Ministro Antonio Carlos Ferreira, Corte Especial, julgado em 19/9/2012, DJe 15/10/2012 e AgRg no AREsp n. 631.370/RS, Rel. Ministra Assusete Magalhães, Segunda Turma, julgado em 21/2/2017, DJe 8/3/2017.) VI - Agravo interno improvido.
+(AgInt no REsp n. 1.813.192/AL, relator Ministro Francisco Falcão, Segunda Turma, julgado em 3/3/2020, DJe de 10/3/2020.)
+Contudo, no caso, a parte ora agravante acostou aos autos resolução do TJGO, enquanto que o acórdão recorrido foi proferido pelo TRF da 1ª Região, não comprovando, assim, a suspensão do expediente forense como alegado.
+Assim, da leitura da petição de agravo interno não se extrai argumentação relevante apta a infirmar os fundamentos da decisão ora agravada.
+Dessarte, nada havendo a retificar ou esclarecer na decisão agravada, deve ela ser mantida.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
