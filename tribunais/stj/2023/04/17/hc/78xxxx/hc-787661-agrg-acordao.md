@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 11/04/2023 a 17/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Sebastião Reis Júnior, Rogerio Schietti Cruz e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por JONATAS CORREA FOGACA contra decisão de minha relatoria que denegou o habeas corpus (e-STJ fls. 787/790).
+Depreende-se dos autos que o Juízo da Vara de Execuções Penais da Comarca de Criciúma fixou "o dia 1º/4/2022 como data-base para a progressão ao regime aberto, pois foi quando restaram satisfeitos conjuntamente os requisitos objetivo e subjetivo para a presente progressão" (e-STJ fl. 692).
+A defesa impetrou habeas corpus perante a Corte de origem, a qual não conheceu do writ em decisão monocrática (e-STJ fls. 359/363). A defesa apresentou agravo interno, não conhecido nos termos do acórdão assim ementado (e-STJ fl. 734):
+PROCESSO CRIMINAL. RECURSO DE AGRAVO INTERNO CRIMINAL EM HABEAS CORPUS. DECISÃO MONOCRÁTICA QUE JULGA PREJUDICADA A IMPETRAÇÃO, PELA PERDA SUPERVENIENTE DO OBJETO. PRETENDIDA ALTERAÇÃO DA DATA-BASE FIXADA PELA INSTÂNCIA PRIMEVA.
+- INOVAÇÃO RECURSAL. ATO COATOR CONSUBSTANCIADO NA DECISÃO QUE POSTERGOU A ANÁLISE DE CONCESSÃO DO BENEFÍCIO DE PROGRESSÃO DE REGIME APÓS A REALIZAÇÃO DE EXAME CRIMINOLÓGICO. SUPERVENIENTE DECISÃO CONCEDENDO PROGRESSÃO DE REGIME. NAS RAZÕES DO AGRAVO INTERNO SUSTENTADA A PERSISTÊNCIA DO INTERESSE RECURSAL, PONDERANDO QUE A PROGRESSÃO DE REGIME DEFERIDA PELA INSTÂNCIA PRIMEVA NÃO AFASTOU O INTERESSE NA FIXAÇÃO DO MARCO DO CUMPRIMENTO DO REQUISITO OBJETIVO COMO DATA-BASE PARA CONCESSÃO DE BENEFÍCIOS. INVIABILIDADE DE CONHECER DO PRESENTE RECURSO POIS O ARGUMENTO DE INCORREÇÃO NO MARCO FIXADO PARA CONCESSÃO DE BENEFÍCIOS FUTUROS - DATA EM QUE RESTARAM SATISFEITOS CONJUNTAMENTE OS REQUISITOS OBJETIVO E SUBJETIVO PARA A PROGRESSÃO PARA O REGIME SEMIABERTO - FOI SUSCITADO APENAS NAS RAZÕES DESTE PEDIDO, SENDO CEDIÇO QUE " NO ÂMBITO DO AGRAVO REGIMENTAL, NÃO SE ADMITE QUE A PARTE, PRETENDENDO A ANÁLISE DE TESES ANTERIORMENTE OMITIDAS, AMPLI E OBJETIVAMENTE AS CAUSAS DE PEDIR FORMULADAS NA PETIÇÃO INICIAL OU NO RECURSO " (STJ, AGRG NO HC N. 606.684/SP, REL.ª MIN.ª LAURITA VAZ, J. 17/11/2020).
+- ANÁLISE DA POSSIBILIDADE DE EVENTUAL HIPÓTESE QUE JUSTIFIQUE A ATUAÇÃO DE OFÍCIO (ARTIGO 654, §2º, DO CÓDIGO DE PROCESSO PENAL).
+EXECUÇÃO PENAL. PENA PRIVATIVA DE LIBERDADE. PROGRESSÃO DE REGIME. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE. CONSOANTE REITERADA JURISPRUDÊNCIA, A DECISÃO QUE CONCEDE A PROGRESSÃO DE REGIME POSSUI NATUREZA DECLARATÓRIA, E NÃO CONSTITUTIVA, RAZÃO PELA QUAL O MARCO INICIAL PARA FUTURAS PROGRESSÕES, SERÁ A DATA EM QUE O APENADO PREENCHER OS REQUISITOS OBJETIVO E SUBJETIVO PREVISTOS NA LEI DE EXECUÇÃO PENAL (ARTIGO 112).
+- AGRAVO INTERNO CRIMINAL NÃO CONHECIDO.
+No habeas corpus alegou que, "em que pese a decisão posterior do juízo da execução penal tenha deferido a progressão de regime, esta fixou a data da REALIZAÇÃO do exame criminológico como data-base, e não o dia em que o Paciente implementou o requisito objetivo"(e-STJ fl. 6); e ressalta que "a decisão que defere a progressão de regime tem natureza declaratória" (e-STJ fl. 6).
+Destacou que, "considerando o atestado de bom comportamento carcerário do Paciente, necessário seja fixada como data-base a data em que o Paciente efetivamente preencheu o requisito objetivo necessário à progressão de regime, qual seja: 22.03.2022" (e-STJ fl. 9).
+O habeas corpus foi denegado (e-STJ fls. 787/790).
+No presente agravo regimental, sustenta que, "tendo em vista o atestado de bom comportamento carcerário do paciente, faz-se mister fixar como data-base a data em que o paciente efetivamente preencheu o requisito objetivo necessário à progressão de regime, isto é, 22/03/2022" (e-STJ fl. 797).
+Requer, assim, a alteração da data-base para o dia em que o agravante efetivamente preencheu o requisito objetivo necessário à progressão de regime.
+É o relatório.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. DATA-BASE. REQUISITOS OBJETIVO E SUBJETIVO. PREENCHIMENTO. RECURSO DESPROVIDO.
+1. Não se verifica a existência de constrangimento ilegal apto a ensejar a concessão da ordem, uma vez que o entendimento a que chegou o Tribunal de origem, no que se refere ao marco inicial para concessão de progressão de regime, está em consonância com o entendimento desta Corte Superior, segundo o qual "a data-base para verificação da implementação dos requisitos objetivo e subjetivo, previstos no art. 112, da Lei n. 7.210/84, deverá ser definida de forma casuística, fixando-se como termo inicial o momento em que preenchido o último requisito pendente, seja ele o objetivo ou o subjetivo" (HC n. 358.566/RS, relator o Ministro Felix Fischer, Quinta Turma, DJe de 21/10/2016).
+2. " A  data-base para verificação da implementação dos requisitos objetivo e subjetivo, previstos no art. 112 da Lei n. 7.210/1984, deverá ser definida de forma casuística, fixando-se como termo inicial o momento em que preenchido o último requisito pendente, seja ele o objetivo ou o subjetivo, não havendo falar em constrangimento ilegal em razão da consideração do adimplemento do requisito subjetivo somente com a conclusão do exame criminológico" (AgRg no HC n. 739.943/SP, relator Ministro Sebastião Reis Junior, Sexta Turma, julgado em 7/6/2022, DJe 17/6/2022).
+3. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+A decisão monocrática deve ser mantida pelos seus próprios fundamentos.
+Isso porque, conforme consignado no decisum, o entendimento do Superior Tribunal de Justiça é o de que "a data-base para verificação da implementação dos requisitos objetivo e subjetivo, previstos no art. 112, da Lei n. 7.210/84, deverá ser definida de forma casuística, fixando-se como termo inicial o momento em que preenchido o último requisito pendente, seja ele o objetivo ou o subjetivo" (HC n. 358.566/RS, relator o Ministro Felix Fischer, Quinta Turma, DJe de 21/10/2016, grifei).
+Dessa forma, não se verifica a ocorrência de ilegalidade, uma vez que a Corte de origem entendeu que a data-base deveria ser a data da realização do exame criminológico, conforme o seguinte trecho (e-STJ fl. 737):
+Ademais, não entrevejo, em breve análise, o alegado constrangimento ilegal que possibilite a eventual concessão de ordem de ofício.
+Consoante reiterada jurisprudência, a decisão que concede a progressão de regime possui natureza declaratória, e não constitutiva, razão pela qual o marco inicial para futuras progressões, será a data em que o apenado preencher os requisitos objetivo e subjetivo previstos na LEP (artigo 112).
+Nesse mesmo sentido, cito:
+AGRAVO REGIMENTAL. HABEAS CORPUS. PROGRESSÃO DE REGIME. DATA-BASE PARA A PROGRESSÃO AO REGIME ABERTO. REALIZAÇÃO DE EXAME CRIMINOLÓGICO. CONSTATAÇÃO DO REQUISITO SUBJETIVO. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE. MANUTENÇÃO DO INDEFERIMENTO LIMINAR QUE SE IMPÕE.
+1. Deve ser mantida a decisão monocrática na qual se indefere liminarmente a inicial quando não evidenciado constrangimento ilegal à liberdade de locomoção.
+2. Hipótese em que as instâncias ordinárias decidiram em consonância com o entendimento deste Superior Tribunal, no sentido de que a data-base para verificação da implementação dos requisitos objetivo e subjetivo, previstos no art. 112 da Lei n. 7.210/1984, deverá ser definida de forma casuística, fixando-se como termo inicial o momento em que preenchido o último requisito pendente, seja ele o objetivo ou o subjetivo, não havendo falar em constrangimento ilegal em razão da consideração do adimplemento do requisito subjetivo somente com a conclusão do exame criminológico. Precedente.
+3. Agravo regimental improvido. (AgRg no HC n. 739.943/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 7/6/2022, DJe de 17/6/2022.)
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
