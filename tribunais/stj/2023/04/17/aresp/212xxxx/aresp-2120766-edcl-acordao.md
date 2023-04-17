@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 11/04/2023 a 17/04/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de embargos de declaração opostos contra acórdão, assim ementado (fl. 9.039):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. ILEGITIMIDADE ATIVA. RECONHECIMENTO PELO TRIBUNAL DE ORIGEM MEDIANTE ANÁLISE DO SUPORTE FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. O Tribunal de origem concluiu que a parte recorrente não teria legitimidade recursal de assistente simples, na medida em que a parte assistida não recorreu.
+Assim, para rever tal conclusão, imprescindível o reexame de matéria fático- probatória, o que é inviável em recurso especial pelo óbice da Súmula 7/STJ.
+3. O alegado dissídio jurisprudencial não foi comprovado nos moldes estabelecidos nos artigos 1.029, § 1º, do CPC/2015 e 255, § 1º do RISTJ, tendo em vista que não foi realizado o devido cotejo analítico, com a demonstração clara do dissídio entre os casos confrontados, identificando os trechos que os assemelhem, não se oferecendo, como bastante, a simples transcrição de ementas ou votos.
+4. Agravo interno não provido.
+Em suas razões, a parte embargante aponta que houve vício de omissão no acórdão embargado, sustentando que " ..  as questões debatidas nos autos estritamente legais e incontroversas. Visto que, observa-se, claramente que houve/há violação aos artigos 121 e 122 do CPC, tendo em vista que não reconheceu a legitimidade da associação Recorrente (apesar de demonstradas) e não sanou as omissões e obscuridades levantadas nos Embargos de Declaração, bem assim, os artigos 840 e 841 do CC (Lei Federal nº 10.406/02) e o Art. 48, § 1º, I da Lei de Responsabilidade Fiscal (Lei Complementar nº 101/2000), sendo, portanto, cabível o recurso nos termos do Art. 105, III, "a" e "c", da Constituição Federal." (fl. 9.057).
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados.
+VOTO
+EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que os recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+No caso, verifica-se, a partir dos próprios argumentos recursais apresentados, não tratar-se de omissão do acórdão embargado, mas de mero inconformismo com o entendimento firmado de que "não há legitimidade recursal do assistente simples para interpor recurso, quando a parte assistida não recorre". Assim, a toda evidência, a parte embargante, não conformado com o acórdão embargado a seu desfavor, pretende meramente o reexame do mérito da causa, providência incompatível com o presente recurso que está bem fundamentado na "incidência da Súmula nº 7 do STJ" (fl. 9.042).
+Ademais, conforme a jurisprudência consolidada desta Corte, os embargos de declaração não servem para que se adeque a decisão ao entendimento da parte embargante, nem para o acolhimento de pretensões que refletem mero inconformismo, e, menos ainda, para rediscussão de matéria já resolvida (EDcl no AgInt no RE nos EDcl no AgInt no RMS 52.333/GO, Rel. Ministro Humberto Martins, Corte Especial, DJe 29/06/2018; EDcl no MS 20.816/DF, Rel. Ministro Jorge Mussi, Corte Especial, DJe 17/04/2018; EDcl nos EDcl nos EDcl no AgInt nos EDcl nos EREsp 1491187/SC, Rel. Ministro Mauro Campbell Marques, Corte Especial, DJe 23/03/2018; EDcl no AgInt no RE nos EDcl no AgInt no REsp 1.539.387/RS, Rel. Ministra Maria Thereza de Assis Moura, Corte Especial, DJe 14/2/2019; e EDcl no AgInt nos EREsp 703.188/SP, Rel. Ministro Napoleão Nunes Maia Filho, Corte Especial, DJe 17/09/2019.
+Advirta-se, por fim, que eventual oposição de novos embargos de declaração sem argumentação plausível para o recurso, apenas para solicitar rejulgamento da controvérsia, pode ensejar a aplicação da multa prevista no artigo 1.026, § 2º, do CPC/2015.
+Ante o exposto, rejeitos os embargos de declaração.
+É como voto.
