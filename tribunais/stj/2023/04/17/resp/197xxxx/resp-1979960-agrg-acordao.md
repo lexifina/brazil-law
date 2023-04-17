@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 11/04/2023 a 17/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Sebastião Reis Júnior, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+LINDOMAR DE SOUZA OLIVEIRA agrava da decisão de fls. 161-164, em que dei provimento ao recurso especial da acusação, para restabelecer a decisão de primeiro grau que determinou a reconversão das penas restritivas de direitos em privativa de liberdade.
+Neste regimental, a defesa aponta o recente entendimento firmado pela Terceira Seção desta Corte Superior no julgamento do REsp n. 1.918.287/MG, de modo que é possível o cumprimento simultâneo das restritivas de direitos aplicadas ao agravante com o regime fechado.
+Requer a reconsideração do decisum anteriormente proferido ou a submissão do feito a julgamento pelo órgão colegiado, para que seja negado provimento ao recurso do Ministério Público estadual.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. PENA RESTRITIVA DE DIREITOS. SUPERVENIENTE PENA PRIVATIVA DE LIBERDADE EM REGIME FECHADO. CONVERSÃO DA SANÇÃO RESTRITIVA EM RECLUSIVA. APLICAÇÃO DO ENTENDIMENTO FIRMADO NO RECURSO REPETITIVO N. 1.918.287/MG (TEMA 1106). AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Consoante decidiu a Terceira Seção do Superior Tribunal de Justiça, no julgamento do REsp n. 1.918.287/MG, sob o rito do recurso especial repetitivo, Rel. para o acórdão Min. Laurita Vaz, finalizado em 27/4/2022 (Tema 1.106), "sobrevindo condenação por pena privativa de liberdade no curso da execução de pena restritiva de direitos, as penas serão objeto de unificação, com a reconversão da pena alternativa em privativa de liberdade, ressalvada a possibilidade de cumprimento simultâneo aos apenados em regime aberto e vedada a unificação automática nos casos em que a condenação substituída por pena alternativa é superveniente".
+2. No caso, a primeira execução iniciou-se em 16/9/2020 e refere-se a penas restritivas de direitos. Em 23/10/2020 sobreveio condenação por pena privativa de liberdade, em regime diverso do aberto, tornando incompatível o cumprimento simultâneo dos dois tipos de penas, devendo a restritiva de direitos ser reconvertida em privativa de liberdade e somada com a nova condenação, fixando-se novo regime penal, conforme procedeu corretamente o Juiz da execução.
+3. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Não obstante os esforços perpetrados pelo ora agravante, não constato fundamentos suficientes a desconstituir a decisão agravada, a qual mantenho, ainda que por outros fundamentos.
+Com efeito, após a publicação do decisum ora impugnado, a Terceira Seção, no julgamento do REsp n. 1.918.287/MG, sob o rito do recurso especial repetitivo, Rel. para o acórdão Min. Laurita Vaz, finalizado em 27/4/2022 (Tema 1.106), fixou a tese de que, sobrevindo condenação por pena privativa de liberdade, as penas restritivas de liberdade anteriores serão objeto de unificação, consoante a previsão do art. 44, § 5º, do CPP, ressalvada a possibilidade de cumprimento simultâneo das sanções e vedada a unificação automática nos casos em que a condenação substituída por pena alternativa é superveniente.
+Confira-se a ementa do julgado:
+ ..
+1. A lei contempla a possibilidade de conversão da pena restritiva de direitos quando o apenado vem a ser posteriormente condenado à pena privativa de liberdade. Inteligência dos arts. 44, §5.º, do Código Penal e 181, §1.º, e, da Lei n. 7.210/84.
+2. Os arts. 44, §5.º, do Código Penal e 181, §1.º, e, da Lei n. 7.210/84, não amparam a conversão na situação inversa, qual seja, aquela em que o apenado já se encontra em cumprimento de pena privativa de liberdade e sobrevém nova condenação em que a pena corporal foi substituída por pena alternativa.
+3. Em tais casos, a conversão não conta com o indispensável amparo legal e ainda ofende a coisa julgada, tendo em vista que o benefício foi concedido em sentença definitiva e, portanto, somente comporta a conversão nas situações expressamente previstas em lei, em especial no art. 44, §§4.º e 5.º, do Código Penal.
+4. A pena restritiva de direitos serve como uma alternativa ao cárcere. Logo, se o julgador reputou adequada a concessão do benefício, a situação do condenado não pode ser agravada por meio de interpretação que amplia o alcance do §5.º do art. 44 do Código Penal em seu prejuízo, notadamente à vista da possibilidade de cumprimento sucessivo das penas.
+5. Recurso especial desprovido, com a fixação da seguinte tese:
+"Sobrevindo condenação por pena privativa de liberdade no curso da execução de pena restritiva de direitos, as penas serão objeto de unificação, com a reconversão da pena alternativa em privativa de liberdade, ressalvada a possibilidade de cumprimento simultâneo aos apenados em regime aberto e vedada a unificação automática nos casos em que a condenação substituída por pena alternativa é superveniente."
+(REsp n. 1.918.287/MG, relator Ministro Sebastião Reis Júnior, relatora para acórdão Ministra Laurita Vaz, Terceira Seção, julgado em 27/4/2022, DJe de 28/6/2022)
+Prevaleceu a compreensão de que o Juiz da VEC só pode realizar a reconversão nos termos do art. 44, § 5º, do Código Penal, que prevê, em sua literalidade:
+ ..  sobrevindo condenação a pena privativa de liberdade, por outro crime, o juiz da execução penal decidirá sobre a conversão, podendo deixar de aplicá-la se for possível ao condenado cumprir a pena substitutiva anterior  .. .
+Já a Lei de Execuções Penais prevê no art. 181 a hipótese de conversão das penas de prestação de serviços à comunidade e limitação de fim de semana em pena corporal, quando o condenado sofrer condenação "por outro crime à pena privativa de liberdade, cuja execução não tenha sido suspensa".
+Dessa forma, os arts. 44, § 5º, do Código Penal e 181, § 1º, "e", da Lei n. 7.210/1984 não amparam a conversão na situação inversa, qual seja, aquela em que o condenado a cumprir pena privativa de liberdade é sentenciado, posteriormente, a cumprir pena corporal substituída por restritiva de direitos. A sentença definitiva somente comporta conversão nas situações expressamente previstas em lei (art. 44, §§ 4º e 5º, do Código Penal).
+Na hipótese, no Processo n. 0008796-87.2018.8.13.0332, o agravante foi condenado, em 21/9/2018, a pena privativa de liberdade substituída por restritivas de direitos. O processo de execução definitiva foi cadastrado em 16/9/2020.
+Posteriormente à condenação a penas substitutivas, nos Autos n. 0003579-92.2020.8.13.0332, sobreveio nova sentença que aplicou ao réu pena privativa de liberdade no regime fechado, prolatada em 23/10/2020.O processo de execução definitiva foi cadastrado em 13/7/2022.
+Assim, não obstante a data de cadastramento das guias, tem-se que a condenação a penas substitutivas (21/9/2018) antecede a outra, por crime posterior, relacionada a pena privativa de liberdade. Sobreveio sentença (23/10/2020) que aplicou ao réu a reclusão no regime fechado, o que impossibilita o cumprimento simultâneo das sanções, em especial a de prestação de serviços.
+Assim, incide o art. 44, § 5º, do Código Penal, in verbis:
+Art. 44. As penas restritivas de direitos são autônomas e substituem as privativas de liberdade, quando:
+ ..
+§ 5º Sobrevindo condenação a pena privativa de liberdade, por outro crime, o juiz da execução penal decidirá sobre a conversão, podendo deixar de aplicá-la se se for possível ao condenado cumprir a pena substitutiva anterior.
+Logo, ainda que por fundamentos diversos, a decisão agravada está conforme a tese jurídica firmada pela Terceira Seção (Tema 1.106), em recurso especial repetitivo.
+À vista do exposto, nego provimento ao agravo regimental.
