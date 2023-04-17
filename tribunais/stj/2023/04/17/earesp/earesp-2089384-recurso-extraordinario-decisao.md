@@ -1,0 +1,73 @@
+DECISÃO
+Trata-se de recurso extraordinário (fls. 1.352-1.405) interposto por GLEIDSON RENE RODRIGUES MARINHEIRO, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça que recebeu a seguinte ementa (fls. 1.214-1.215):
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PROCURAÇÃO NOS AUTOS. DEFESA QUEDOU-SE SILENTE APÓS INTIMAÇÃO PARA REGULARIZAÇÃO DO VÍCIO PROCESSUAL. SÚMULA 115/STJ. PLEITO DE ABSOLVIÇÃO POR NEGATIVA DE AUTORIA E AUSÊNCIA DE PROVAS. SÚMULA 7/STJ. AUSÊNCIA DO NECESSÁRIO PREQUESTIONAMENTO PELA INSTÂNCIA ORDINÁRIA. SÚMULA 211/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É pacífico o entendimento da Terceira Seção desta Corte no sentido de que,  s e o advogado que assinou a petição  ..  não possui procuração ou substabelecimento nos autos e, embora intimado a regularizar a representação processual, quedou-se inerte, impõe-se a incidência da Súmula 115 do STJ, segundo a qual, "Na instância especial é inexistente recurso interposto por advogado sem procuração nos autos" (AgRg nos EREsp 1.509.492/SP, Rel. Ministro NEFI CORDEIRO, TERCEIRA SEÇÃO, julgado em 12/09/2018, DJe 18/09/2018).
+2. Ainda que assim não fosse, concluindo as instâncias ordinárias, soberanas na análise das circunstâncias fáticas da causa, que haveria provas suficientes para a condenação do réu, chegar a entendimento diverso, implicaria revolvimento do contexto fático-probatório, inviável em recurso especial, a teor do da Súmula 7 do STJ.
+3. Não há falar em negativa de autoria, uma vez que, conforme fundamentado pelo magistrado sentenciante e confirmado pelo Tribunal a quo, inexistem dúvidas acerca da autoria e materialidade das condutas praticadas.
+4. A ausência de prequestionamento de parte dos dispositivos apontado como violados inviabiliza, nesse ponto, o conhecimento do recurso especial, nos termos da Súmula 211/STJ.
+5. Agravo regimental não provido.
+Os embargos de declaração opostos foram rejeitados (fls. 1.256-1.257).
+Na sequência, o recorrente interpôs embargos de divergência, os quais foram indeferidos liminarmente nos termos da seguinte fundamentação (fl. 1.347):
+Mediante análise dos autos, verifica-se que a parte embargante apresenta como paradigma julgado proferido em sede de recurso ordinário em habeas corpus.
+Com efeito, o Superior Tribunal de Justiça firmou entendimento no sentido de que, em sede de embargos de divergência, não se admite como paradigma acórdão proferido em ações que possuem natureza de garantia constitucional como habeas corpus, recurso ordinário em habeas corpus, mandado de segurança, recurso ordinário em mandado de segurança, habeas data e mandado de injunção.
+A parte recorrente sustenta, no recurso extraordinário, que teria havido violação dos arts. 1º, III, 5º, LIV e LV, e 93, IX, da CF e que a matéria tratada seria dotada de repercussão geral.
+Nesse sentido, defende que o acórdão recorrido teria deixado de se manifestar a respeito de questões relevantes para a solução da controvérsia, que, a seu ver, poderiam ter sido examinadas, inclusive de ofício, no caso, ocorrência de nulidades processuais e regime de cumprimento da pena aplicada.
+Refere que (fl. 1.383):
+ ..  a Sexta Turma adentrou no mérito, declarando nula a prova, ao passo que a sexta turma informa que não é possível a verificação dessa temática, havendo uma verdadeira divergência entre as turmas, devendo ser conhecido o presente apelo para sanar a divergência entre as turmas.
+Portanto, neste processo houve ausência de prestação jurisdicional.
+O acórdão proferido pela Sexta Turma do Superior Tribunal de Justiça entende que pela UNIFICAÇÃO E SOMA DE PENAS - RECLUSÃO E DETENÇÃO - FIXAÇÃO DE REGIME INICIAL FECHADO -IMPOSSIBILIDADE ao passo que a Quinta Turma do STJ não quis adentrar no mérito, apenas informando que haverá a reanálise das questões fáticas, havendo uma divergência gigantesca entre as turmas.
+Há divergência também entre as turmas onde a Sexta Turma entende por declarar ilegal as provas obtidas como print, ao passo que a Quinta Turma entende que não deverá rever as provas contidas no processo.
+Trata-se de duas teses jurídicas, porém, com entendimentos diferentes.
+Sustenta que seria nula a prova obtida pela polícia investigativa por meio do aparelho celular do réu, salientando que o posicionamento desta Corte, no ponto, estaria em confronto com o posicionamento do Excelso Pretório.
+Alega, também, que estaria comprovada a regularidade da representação processual do recorrente, ao argumento de que (fl.1.395):
+ ..  em momento algum houve falha na representação processual. O documento sempre esteve no processo, conforme informado no agravo regimental. Assim, tem-se como certo que o advogado que protocolou o recurso estava devidamente capacitado para isso.
+Não houve nenhuma espécie vício. Pelo contrário, foi informado somente que o documento já estava no processo por meio do agravo regimental.
+A falta de assinatura nos recursos interpostos nas instâncias ordinárias configura vício sanável, devendo ser concedido prazo razoável para o suprimento dessa irregularidade.  ..
+Requer, ao final, a admissão do recurso, bem como a remessa ao Supremo Tribunal Federal.
+Contrarrazões apresentadas às fls. 1.413-1.421.
+É o relatório.
+Quanto à questão da correta fundamentação das decisões judiciais, o STF firmou tese vinculante segundo a qual:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão (QO no Ag n. 791.292/PE).
+Em suma, apenas a ausência de fundamentação possibilitaria a apreciação do caso pela Suprema Corte, o que não ocorre quando há fundamentos, ainda que a parte não os considere corretos, completos ou os entenda demasiadamente sucintos.
+No caso, foram declinados os motivos pelos quais o agravo regimental foi improvido, valendo destacar os seguintes trechos (fls. 1.218-1.226):
+A Presidência desta Corte, em decisão publicada no DJe de 4/4/2022 (cf. certidão à e-STJ, fl. 1.173) intimou o recorrente a regularizar sua representação processual no prazo legal.
+Diante da inércia da defesa, foi proferida decisão datada de 26/4/2022 (e-STJ, fls. 1.178-1.179) não conhecendo do recurso, nos termos da Súmula 115/STJ.
+Somente em 27/4/2020, o patrono do ora agravante, em agravo regimental, apresentou justificativa para sua inércia, requerendo:
+ ..  que a secretaria certifique neste processo o porquê do não envio do substabelecimento do processo originário no id Num. 9489852 - Pág. 1 do processo junto ao Pje do TJRN assinado eletronicamente em 30/04/2021.
+Em que pese, registre-se o advogado não ter cumprido a diligência, porque acreditou este que o documento já estava no processo. Com efeito, verifica-se que não se trata de uma nova juntada eis que o documento já estava em posse do Poder Judiciário.
+O documento foi juntado no dia 30 de abril de 2021, conforme id no id Num. 9489852 - Pág. 1. (e-STJ, fls. 1.182-1.183, grifei)
+Afirmou, também, que  n este caso o substabelecimento estava no processo e se não houve a digitalização ou não foi inserido na pasta correta, a culpa foi do Poder Judiciário, não podendo o recorrente ficar prejudicado (e-STJ, fl. 1.186).
+Pois bem.
+É pacífico o entendimento da Terceira Seção desta Corte no sentido de que,  s e o advogado que assinou a petição  ..  não possui procuração ou substabelecimento nos autos e, embora intimado a regularizar a representação processual, quedou-se inerte, impõe-se a incidência da Súmula 115 do STJ, segundo a qual, "Na instância especial é inexistente recurso interposto por advogado sem procuração nos autos" (AgRg nos EREsp 1.509.492/SP, Rel. Ministro NEFI CORDEIRO, TERCEIRA SEÇÃO, julgado em 12/09/2018, DJe 18/09/2018, grifei).
+ ..
+Ainda que assim não fosse, correta a decisão que inadmitiu o recurso especial, uma vez concluindo as instâncias ordinárias, soberanas na análise das circunstâncias fáticas da causa, que haveria provas suficientes para a condenação do réu, chegar a entendimento diverso, implicaria revolvimento do contexto fático-probatório, inviável em recurso especial, a teor da Súmula 7 do STJ.
+No caso, não há falar em negativa de autoria, uma vez que, conforme fundamentado pelo magistrado sentenciante e confirmado pelo Tribunal a quo, inexistem dúvidas acerca da autoria e materialidade das condutas praticadas.
+Assim, rever os fundamentos, para concluir pela negativa de autoria, como requer a parte recorrente, importa necessário revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula 7/STJ.
+ ..
+Por outro vértice, conforme apontado pelo Tribunal a quo, à alegada violação aos artigos 155 e 156. do Código de Processo Penal não foram sequer apreciadas no acórdão recorrido (e-STJ, fl. 1.031), o que inviabiliza o conhecimento do recurso por ausência do necessário prequestionamento, nos termos da Súmula 211/STJ.
+ ..
+Ante o exposto, nego provimento ao agravo regimental.
+Da mesma maneira, foram apresentados fundamentos para a rejeição dos embargos de declaração opostos na sequência, o que vale repisar (fl. 1.261):
+In casu, não se verifica que o acórdão embargado contenha quaisquer dos vícios que permitem o manejo da insurgência, o que impede o seu acolhimento, valendo o destaque de que a presente via não funciona como recurso de revisão. A mera irresignação com o entendimento apresentado na decisão embargada não viabiliza a oposição dos aclaratórios.
+Em relação à eventual violação de dispositivos constitucionais, não cabe ao STJ, na via especial, a análise de ofensa, ainda que com o objetivo de prequestionamento visando à interposição do apelo extraordinário, sob pena de haver a usurpação de competência do Supremo Tribunal Federal.
+Dessa forma, por meio dos aclaratórios, é nítida a pretensão da parte embargante em provocar o rejulgamento da causa, situação que, na inexistência das hipóteses previstas no art. 619 do CPP, não é compatível com o recurso protocolado.
+Com efeito, demonstrado que a prestação jurisdicional ocorreu, ainda que não se concorde com a solução dada à causa, afigura-se inviável o prosseguimento do recurso extraordinário, pois o provimento recorrido encontra-se em sintonia com a tese fixada no Tema n. 339/STF, de observância obrigatória (CPC, art. 927, III), entendimento reiterado pelo próprio STF, por exemplo, no ARE n. 1.349.717-ED-AgR, relator Ministro Luiz Fux, Plenário, DJe de 10/2/2022.
+Quanto às demais alegações do recurso, a análise do acórdão, como relatado, revela que o pronunciamento impugnado concluiu pelo não preenchimento dos pressupostos de admissibilidade do recurso anteriormente dirigido ao Superior Tribunal de Justiça.
+Tal fato ocorreu porque, no julgado recorrido, manteve-se a conclusão pelo não conhecimento do agravo em recurso especial em razão da incidência da Súmula n. 115 do STJ e, além, consignou-se a inviabilidade do exame das teses desenvolvidas no recurso especial ante os óbices das Súmulas n. 7 e 211 do STJ.
+Como se vê, o mérito do recurso especial não chegou a ser apreciado, diante de insuperáveis óbices processuais, impeditivos do próprio conhecimento do recurso.
+Segundo o STF, a necessidade de superação do que fora decidido no pronunciamento questionado acerca dos pressupostos de conhecimento do recurso da competência de outro tribunal, como ocorreu neste caso, inviabiliza o exame do recurso extraordinário pela própria Corte Suprema, qualquer que seja a suscitada violação da Constituição Federal, consoante a tese fixada no Tema n. 181 da repercussão geral:
+A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral (RE n. 598.365-RG/MG).
+Nesse sentido, eventual ofensa à Carta Magna, se existente, seria apenas indireta ou reflexa, entendendo o Excelso Pretório que "carece de repercussão geral a discussão acerca dos pressupostos de admissibilidade de recursos da competência de cortes diversas" (ARE n. 1.227.415-AgR, relator Ministro Edson Fachin, Segunda Turma, DJe de 21/5/2021), mesmo quando suscitada a ofensa ao art. 105, III, da Constituição da República (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+Esse é também o consolidado entendimento do STJ, que reiteradamente nega provimento aos agravos que impugnam decisões de aplicação do Tema n. 181/STF, como exemplifica o precedente a seguir:
+Tratando-se de recurso extraordinário contra acórdão que não ultrapassou o juízo de admissibilidade, fica inviabilizado o exame das questões constitucionais suscitadas em face da inexistência de repercussão geral.
+(AgInt no RE nos EDcl no AgInt no AREsp n. 1.342.377/SP, relatora Ministra Maria Thereza de Assis Moura, DJe de 13/9/2019.)
+Assim, alinhado o provimento impugnado ao disposto pelo STF sobre a fundamentação das decisões e não havendo repercussão geral quanto ao restante das alegações, conforme teses de observância obrigatória (CPC, art. 927, III, parte final), o recurso extraordinário não comporta seguimento.
+Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO SUFICIENTE DO JULGADO RECORRIDO. TEMA N. 339/STF. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO. TEMA N. 181/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. NEGATIVA DE SEGUIMENTO.
+1. "O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão" (Tema n. 339/STF, QO no Ag n. 791.292/PE).
+2. Existente alguma fundamentação, entende o Supremo Tribunal Federal que foi respeitado o art. 93, IX, da CF, conforme a conclusão firmada no Tema n. 339/STF, tese de observância obrigatória (CPC, art. 927, III).
+3. "A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral" (Tema n. 181/STF).
+4. Não preenchidos os pressupostos de admissibilidade do agravo em recurso especial, aplica-se a tese do Tema n. 181/STF, ainda que se queira, no recurso extraordinário, discutir o mérito da causa ou os fundamentos que impediram o conhecimento do recurso (CPC, art. 927, III).
+5. Recurso extraordinário a que se nega seguimento, nos termos do art. 1.030, I, a, do CPC.
