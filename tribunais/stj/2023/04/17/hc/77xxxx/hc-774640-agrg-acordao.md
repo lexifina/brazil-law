@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 11/04/2023 a 17/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Sebastião Reis Júnior, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI (RELATOR):
+CLAUDIO AURÉLIO CONCEIÇÃO DA SILVA agrava da decisão de fls. 105-110, em que concedi parcialmente a ordem de habeas corpus, para fixar a fração de redução da pena em razão da atenuante da confissão espontânea no patamar de 1/6 e, posteriormente, estabelecer sua pena definitiva em 7 anos, 7 meses e 20 dias de reclusão mais 1.022 dias-multa, a ser cumprida em regime semiaberto.
+Em suas razões, o agravante sustenta que " ..  há a absoluta ausência de fundamentação jurídica para exasperar a pena base" (fl. 133).
+Requer a reconsideração do decisum, a fim de que seja reexaminada a pena-base aplicada no curso da individualização da reprimenda.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PENA-BASE. EXASPERAÇÃO DEVIDAMENTE FUNDAMENTADA. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. No caso em exame, verifica-se que as ins tâncias ordinárias apontaram elementos concretos, específicos dos autos, que extrapolam a mera gravidade do crime de tráfico de drogas e, portanto, justificam maior reprimenda na primeira fase da dosimetria.
+2. Uma vez que a dosimetria da pena configura matéria restrita ao âmbito de certa discricionariedade do magistrado e é regulada pelos critérios da razoabilidade e da proporcionalidade, entendo que deve ser mantida inalterada a pena-base aplicada ao paciente, sobretudo porque não houve desproporcionalidade no aumento procedido na primeira fase da dosimetria, em razão das peculiaridades do caso concreto.
+3. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI (RELATOR):
+Em que pese os argumentos aduzidos pela defesa, a decisão recorrida deve ser mantida por seus próprios fundamentos.
+Segundo os argumentos explanados na decisão agravada, assentei que a fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, nos arts. 5º, XLVI, da Constituição Federal, 59 do Código Penal e 387 do Código de Processo Penal. Todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleito o quantum de pena a ser aplicada ao condenado criminalmente, visando à prevenção e à repressão do delito perpetrado.
+Assim, para chegar a uma aplicação justa da lei penal, o sentenciante, dentro dessa discricionariedade juridicamente vinculada, deve atentar-se para as singularidades do caso concreto e, na primeira etapa do procedimento trifásico, guiar-se pelas circunstâncias relacionadas no caput do art. 59 do Código Penal, as quais não se deve furtar de analisar individualmente. São elas: culpabilidade; antecedentes; conduta social; personalidade do agente; motivos, circunstâncias e consequências do crime; comportamento da vítima.
+Contudo, não se pode olvidar que, tratando-se de crime previsto na Lei de Drogas - como ocorre na espécie -, o juiz deve considerar, ainda, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, bem como a personalidade e a conduta social do agente, a teor do estabelecido no art. 42 da Lei n. 11.343/2006.
+No caso, o Juiz sentenciante entendeu pela fixação da pena-base acima do mínimo legal, conforme trechos abaixo (fls. 30-31, grifei):
+Considerando que as circunstâncias - a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente - lhes são desfavoráveis, eis que segundo as provas contidas nos autos, o acusado exercia a função de liderança em uma da maiores facções criminosas atuantes no Rio de Janeiro, em que pese a sua primariedade.
+Note-se que o acusado estava no Portal de Procurados, havendo uma recompensa de R$1.000,00 (mil reais) a ser paga por informações pela Secretaria de Segurança Pública do Estado, o que só corrobora minha convicção, conforme se observa às fls. 107.
+Ademais, conforme narrado pelos policiais, o forte armamento estava plenamente disponível e ao alcance das crianças que ali residiam, o que torna ainda mais perigosa a conduta do acusado.
+Ressalto, ainda, que de acordo com informações de fls. 571, houve notícia de tentativa de resgate dos acusados, o que só confirma a altíssima periculosidade do réu, apresentando personalidade violenta e conduta antissocial.
+Fixo assim a pena-base de 06 (seis) anos de reclusão e 736 (setecentos e trinta e seis) DM, à razão de  do maior salário mínimo mensal vigente ao tempo do fato, diante da condição econômica demonstrada pelo réu nos autos, sendo certo que detinha em seu poder, a quantia de R$7.500,00 (sete mil e quinhentos reais), o que denota o seu poder econômico.
+O Tribunal de origem, por seu turno, ao redimensionar a primeira fase, assentou (fl. 50, destaquei):
+Na primeira fase, valho-me dos válidos e inarredáveis fundamentos esposados pela sentenciante, deles decotando apenas a personalidade considerada em desfavor do acusado por entender falecer-nos aptidão técnica para valorá-la, e, em respeito aos princípios da razoabilidade e da adequação, redimensiono o aumento, ficando a resposta acomodada em 05 anos e 06 meses de reclusão.
+Nesse prisma, verifico que, de fato, as instâncias ordinárias apontaram elementos concretos, específicos dos autos, que extrapolam a mera gravidade do crime de tráfico de drogas e, portanto, justificam maior reprimenda na primeira fase da dosimetria.
+Portanto, uma vez que a dosimetria da pena configura matéria restrita ao âmbito de certa discricionariedade do magistrado e é regulada pelos critérios da razoabilidade e da proporcionalidade, entendo que deve ser mantida inalterada a pena-base aplicada ao paciente, sobretudo porque não houve desproporcionalidade no aumento procedido na primeira fase da dosimetria, em razão das peculiaridades do caso concreto.
+Assim, diante de todos os fatos aqui explicitados, entendo que não há elementos capazes de modificar o posicionamento firmado na decisão agravada.
+À vista do exposto, nego provimento ao agravo regimental.
