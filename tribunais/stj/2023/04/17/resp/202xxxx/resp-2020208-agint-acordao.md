@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 11/04/2023 a 17/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+Trata-se de agravo interno interposto pelo ESTADO DE ALAGOAS contra decisão proferida pelo eminente Ministro Manoel Erhardt, assim ementada:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO. SERVIDOR MILITAR ESTADUAL. PRETENSÃO DE REVISÃO DE ATO DE PROMOÇÃO. RECONHECIMENTO DE PRESCRIÇÃO PARCIAL DO PEDIDO. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. INCIDÊNCIA DA SÚMULA 283/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL DO ESTADO DE ALAGOAS (fl. 434).
+A parte agravante alega que não é o caso de incidência da Súmula 283/STF, pois atacou expressamente o fundamento relativo à prescrição parcial. Afirma que se o próprio fundo de direito está prescrito, há uma contaminação indissociável das demais promoções posteriores.
+Requer, por fim, a reconsideração da decisão agravada ou a submissão do feito à turma julgadora.
+Apresentada impugnação (fls. 449/454).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. SERVIDOR MILITAR ESTADUAL. PRETENSÃO DE REVISÃO DE ATO DE PROMOÇÃO. PRESCRIÇÃO. TESE NÃO PREQUESTIONADA. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF.
+1. Trata-se, na origem, de ação ordinária ajuizada por policial militar em que se visa a promoção por ressarcimento de preterição à graduação de Subtenente da Polícia Militar de Alagoas.
+2. A tese referente à inexistência de prescrição parcial, tendo em vista que a ocorrência da prescrição quanto à promoção de cabo tem o condão de contaminar todas as demais promoções efetivadas, não foi apreciada no âmbito do acórdão recorrido, tampouco foram opostos embargos de declaração com o objetivo de sanar eventual omissão da questão de direito controvertida. A ausência de enfrentamento pelo Tribunal de origem da matéria impugnada, objeto do recurso excepcional, impede o acesso à instância especial porquanto não preenchido o requisito constitucional do prequestionamento. Incidência, por analogia, das Súmulas 282 e 356 do STF.
+3. Agravo interno a que se nega provimento.
+VOTO
+Não obstante as alegações da parte agravante, razão não lhe assiste.
+Em que pese não ser o caso de incidência da Súmula 283/STF, tendo em vista a devida impugnação do fundamento relativo à prescrição parcial, observo que a tese recursal não foi debatida pelo Tribunal de origem sob o viés pretendido pelo recorrente. Veja-se.
+Trata-se, na origem, de ação ordinária ajuizada por policial militar em que se visa a promoção por ressarcimento de preterição à graduação de Subtenente da Polícia Militar de Alagoas.
+O Tribunal de origem, ao decidir a lide, apresentou os seguintes fundamentos:
+24. A par de tais premissas, entendo por bem modificar as razões outrora delineadas, evoluindo meu posicionamento, a fim de alinhar-me ao entendimento adotado pela Corte Superior de Justiça, no sentido de que, nos casos de promoção por ressarcimento de preterição em que for necessária a reanálise de atos de promoção já realizados pela Administração castrense, aplica-se o prazo prescricional quinquenal, nos termos do aludido art. 1º, do Decreto n.º 20.910/32, por se tratar de ato administrativo de efeitos concretos.
+25. Pois bem. No caso em deslinde, o militar pleiteia a reforma da sentença, no sentido de ".. empreender, de imediato e em caráter definitivo, a promoção do Recorrente a graduação de Subtenente PM a contar de 03 de outubro de 2016, retroagindo também as graduações de 1º Sargento a contar de 03 de outubro de 2014, 2º Sargento PM, com data retroativa a 03 de outubro de 2011, 3º Sargento PM a contar de 03 de outubro de 2006, todas por ressarcimento de preterição."
+26. De um perscrutar necessário dos autos, observo que o apelante, José Ferber Gomes da Silva, ingressou nos quadros da corporação militar em 03.10.1991, tendo sido promovido à graduação de Cabo PM em 03.02.2010 e à graduação de 3º Sargento em 03.02.2017. Contudo, o recorrente somente ingressou com a ação originária no dia 09.10.2017, de modo que resta evidenciada a impossibilidade de retificar a data de promoção ao posto de Cabo PM, haja vista que a ação fora ajuizada após o prazo de cinco anos (fls. 280/281).
+O Estado de Alagoas, em seu recurso especial, apontou violação dos arts. 1º e 5º do Decreto 20.910/1932, por entender ter ocorrido a prescrição do fundo de direito, uma vez que ultrapassados mais de cinco anos entre a data das promoções e o ajuizamento da presente ação. Afirma que "há uma contaminação indissociável da sequência argumentativa, pois tanto as correções de promoções efetivadas quanto esta nova promoção pleiteada dependem da modificação de supostas promoções anteriores já prescritas e impassíveis de reexame pelo Poder Judiciário" (fl. 318). Logo, concluiu, não seria o caso de prescrição parcial, sob pena de ocorrer uma verdadeira promoção per saltum.
+Entretanto, a tese não foi apreciada pelo Tribunal de origem, tampouco foram opostos embargos de declaração com o objetivo de sanar eventual omissão da questão de direito controvertida. A ausência de enfrentamento pelo Tribunal de origem da matéria impugnada, objeto do recurso excepcional, impede o acesso à instância especial porquanto não preenchido o requisito constitucional do prequestionamento. Incidência, por analogia, das Súmulas 282 e 356 do STF.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
