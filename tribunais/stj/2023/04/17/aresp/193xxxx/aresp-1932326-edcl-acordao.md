@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 11/04/2023 a 17/04/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos por DPMC ADMINISTRACAO DE BENS LTDA EM RECUPERACAO JUDICIAL contra acórdão assim ementado:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. AUSÊNCIA DE VIOLAÇÃO AO ART. 1022 DO CPC/2015. EXCLUSÃO DO ICMS DA BASE DE CÁLCULO DAS CONTRIBUIÇÕES AO PIS/COFINS. NECESSIDADE DE DILAÇÃO PROBATÓRIA. INADEQUAÇÃO DA VIA ELEITA. ENTENDIMENTO CONFORME PRECEDENTE DO STJ FIRMADO EM RECURSO REPETITIVO - RESP 1.104.900/ES. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO DA EMPRESA NÃO PROVIDO.
+1. A prestação jurisdicional se exauriu satisfatoriamente, afastando-se, na hipótese, a presença de quaisquer dos vícios elencados nos arts. 489 e 1.022 do CPC/2015.
+2. A 1ª Seção do Superior Tribunal de Justiça, por ocasião do julgamento do REsp. 1.104.900/ES, Rel. Min. DENISE ARRUDA (DJe 1.4.2009), sob a sistemática do art. 543-C do CPC/1973, consagrou entendimento de que a Exceção de Pré-Executividade somente é cabível nas situações em que não se faz necessária dilação probatória ou em que as questões possam ser conhecidas de ofício pelo Magistrado. Incidência da Súmula 393/STJ.
+3. A reforma do entendimento adotado pelo Tribunal de origem, no tocante à necessidade de dilação probatória para o conhecimento da exceção de pré-executividade, demandaria o reexame do contexto fático-probatório da causa, o que é defeso em recurso especial ante o óbice descrito na Súmula 7/STJ.
+4. Agravo interno da empresa não provido (fls. 187/188).
+Sustenta a parte autora omissão no julgado ao argumento de que "o acórdão ora embargado foi omisso ao não apreciar determinados dispositivos constitucionais, suficientes para o provimento do recurso interposto" (fl. 198). Aduz, ainda, que o acórdão embargado:
+(..) não analisou o especificamente argumento vertido no agravo interno no sentido de que se o Tribunal a quo não analisou todas as questões e a simples oposição de embargos declaratórios não supre tal omissão, por óbvio há violação aos arts. 489 e 1.022, II, do CPC. É questão de lógica.
+(..)
+(..) também incidiu o acórdão em omissão, pois conforme restou esclarecido no agravo interno, C. STJ tem reiteradamente afastado a aplicação da Súmula 7 para os casos em há a arguição de inconstitucionalidade de lei em se de exceção de pré-executividade, como no caso, admitindo expressamente o incidente, como dão conta os seguintes julgados (fl. 196).
+Requer, por fim, que sejam acolhidos os presentes embargos de declaração a fim de que sejam supridas as omissões apontadas.
+Não houve impugnação ao recurso (fl. 205).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC/2015. REDISCUSSÃO DA CONTROVÉRSIA. IMPOSSIBILIDADE. DISPOSITIVOS CONSTITUCIONAIS. PREQUESTIONAMENTO. DESCABIMENTO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do art. 1.022 do CPC/2015, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existente no julgado, o que não se verifica na espécie.
+2. O acórdão embargado assentou que: "não há que falar, de fato, em violação aos arts. 489 e 1.022 do CPC/2015, pois a prestação jurisdicional foi dada na medida da pretensão deduzida. O indeferimento da exceção de pré-executividade pelo tribunal de origem se deu ao entendimento de que o acolhimento do pedido da recorrente somente seria viável mediante investigação probatória, conforme se depreende da análise do acórdão recorrido(..). A referida conclusão se mostra em consonância com a jurisprudência do STJ que, por ocasião do julgamento do REsp. 1.104.900/ES, Rel. Min. DENISE ARRUDA (DJe 1.4.2009), sob a sistemática do art. 543-C do CPC/1973, consagrou entendimento de que a Exceção de Pré-Executividade somente é cabível nas situações em que não se faz necessária dilação probatória ou em que as questões possam ser conhecidas de ofício pelo Magistrado. Incidência da Súmula 393/STJ. Ademais, dissentir da solução adotada pelo tribunala quo, relativamente à necessidade de dilação probatória para o conhecimento da exceção de pré-executividade, demandaria o reexame do contexto fático-probatório da causa, o que é defeso em recurso especial ante o óbice descrito na Súmula 7/STJ" (fls. 188/189).
+3. Na hipótese, o recurso foi desprovido com fundamento claro e suficiente. A argumentação apresentada pela parte embargante denota mero inconformismo e intuito de rediscutir a controvérsia, mas não se prestam os aclaratórios a esse fim.
+4. Os embargos declaratórios não constituem instrumento adequado para a rediscussão da matéria de mérito, nem ao prequestionamento de dispositivos constitucionais com vistas à interposição de recurso extraordinário.
+5. Embargos de declaração rejeitados.
+VOTO
+O inconformismo da parte embargante não se enquadra nas hipóteses de cabimento dos embargos de declaração, previstas no art. 1.022 do CPC/2015. Não há no acórdão ora combatido vícios de omissão, contradição, obscuridade ou erro material, não se prestando os aclaratórios para o fim de rediscutir os aspectos jurídicos anteriormente debatidos.
+O acórdão embargado assentou que:
+Conforme exposto na decisão agravada, não há que falar, de fato, em violação aos arts. 489 e 1.022 do CPC/2015, pois a prestação jurisdicional foi dada na medida da pretensão deduzida.
+O indeferimento da exceção de pré-executividade pelo tribunal de origem se deu ao entendimento de que o acolhimento do pedido da recorrente somente seria viável mediante investigação probatória, conforme se depreende da análise do acórdão recorrido, veja-se (fls. 49):
+(..)
+A referida conclusão se mostra em consonância com a jurisprudência do STJ que, por ocasião do julgamento do REsp. 1.104.900/ES, Rel. Min. DENISE ARRUDA (DJe 1.4.2009), sob a sistemática do art. 543-C do CPC/1973, consagrou entendimento de que a Exceção de Pré-Executividade somente é cabível nas situações em que não se faz necessária dilação probatória ou em que as questões possam ser conhecidas de ofício pelo Magistrado. Incidência da Súmula 393/STJ.
+Ademais, dissentir da solução adotada pelo tribunala quo, relativamente à necessidade de dilação probatória para o conhecimento da exceção de pré-executividade, demandaria o reexame do contexto fático-probatório da causa, o que é defeso em recurso especial ante o óbice descrito na Súmula 7/STJ (fls. 188/189).
+Na hipótese, o recurso foi desprovido com fundamento claro e suficiente. A argumentação apresentada pela parte embargante denota mero inconformismo e intuito de rediscutir a controvérsia, mas não se prestam os aclaratórios a esse fim.
+O Superior Tribunal de Justiça assim já se manifestou:
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC/2015. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE. DEVIDO JUÍZO DE ADMISSIBILIDADE RECURSAL.
+1. De acordo com a norma prevista no art. 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. "Se o recurso é inapto ao conhecimento, o colegiado não tem como se pronunciar sobre o mérito, de modo que a falta de exame da matéria de fundo não se caracteriza omissão, senão mera decorrência do exercício do devido juízo de admissibilidade recursal" (EDcl no AgInt nos EREsp 1.559.725/PE, Rel. Ministro Og Fernandes, Primeira Seção, DJe 30/8/2017).
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt no REsp 1.574.004/SE, relator Ministro Sérgio Kukina, Primeira Turma, DJe 11/3/2021).
+Dessa forma, reitero que a solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC e que os embargos declaratórios não constituem instrumento adequado para a rediscussão da matéria de mérito, nem ao prequestionamento de dispositivos constitucionais com vistas à interposição de recurso extraordinário.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
