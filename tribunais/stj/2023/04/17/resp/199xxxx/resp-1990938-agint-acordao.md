@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 11/04/2023 a 17/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de agravo interno interpresto por Rene Battaglin Schwengber e outros contra decisão monocrática proferida por este signatário, nos termos da seguinte ementa (e-STJ, fl. 1.226):
+RECURSO ESPECIAL. PLANO DE SAÚDE. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. 2. RECUSA DE COBERTURA. TRATAMENTO NÃO LISTADO NO ROL DA ANS. PRECEDENTE DA SEGUNDA SEÇÃO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULAS 5, 7 E 83 DO STJ. 3. RECURSO ESPECIAL DESPROVIDO.
+Nas razões do agravo interno, os agravantes defendem, em síntese, a inaplicabilidade das Súmulas 5, 7 e 83 do STJ ao caso. Defendem a ilicitude da negativa de cobertura de medicamento para tratamento de câncer, ainda que a prescrição seja off label.
+Sem impugnação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. RECUSA DE COBERTURA. TRATAMENTO NÃO LISTADO NO ROL DA ANS. PRECEDENTE DA SEGUNDA SEÇÃO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULAS 5, 7 E 83 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. A Segunda Seção desta Corte Superior, em recente julgamento dos EREsps n. 1.886.929/SP e n. 1.889.704/SP, de relatoria do Ministro Luis Felipe Salomão, firmou entendimento no sentido de que o rol de procedimentos e eventos em saúde complementar é, em regra, taxativo, não sendo a operadora de plano ou seguro de saúde obrigada a custear procedimento ou terapia não listados, se existe, para a cura do paciente, alternativa eficaz, efetiva e segura já incorporada.
+2. A revisão da conclusão da Corte de origem, amparada em elementos de fatos e provas existentes nos autos, acerca do não preenchimento dos requisitos para custeio de procedimento não listado no rol, mostra-se inviável na instância especial, à luz dos enunciados n. 5 e 7 da Súmula do STJ.
+3. Agravo interno desprovido.
+VOTO
+Os argumentos trazidos pelos insurgentes não são capazes de modificar as conclusões da deliberação unipessoal.
+Conforme consignado na decisão agravad a, de acordo com o recente entendimento firmado na Segunda Seção do STJ, o rol de procedimentos e eventos em saúde complementar é, em regra, taxativo, não sendo a operadora de plano ou seguro de saúde obrigada a custear procedimento ou terapia não listados, se existe, para a cura do paciente, alternativa eficaz, efetiva e segura já incorporada (EREsps n. 1.889.704/SP e 1.886.929/SP, Relator Ministro Luis Felipe Salomão, Segunda Seção, julgados em 8/6/2022, DJe de 3/8/2022).
+Por ocasião do julgamento dos mencionados embargos de divergência, o Órgão Colegiado estabeleceu os seguintes parâmetros, os quais devem ser observados no julgamento do caso concreto:
+1- o Rol de Procedimentos e Eventos em Saúde Suplementar é, em regra, taxativo;
+2 - a operadora de plano ou seguro de saúde não é obrigada a arcar com tratamento não constante do Rol da ANS se existe, para a cura do paciente, outro procedimento eficaz, efetivo e seguro já incorporado ao Rol;
+3 - possível a contratação de cobertura ampliada ou a negociação de aditivo contratual para a cobertura de procedimento extra Rol;
+4 - não havendo substituto terapêutico ou esgotados os procedimentos do Rol da ANS, pode haver, a título excepcional, a cobertura do tratamento indicado pelo médico ou odontólogo assistente, desde que:
+(i) não tenha sido indeferida expressamente, pela ANS, a incorporação do procedimento ao Rol da Saúde Suplementar;
+(ii) haja comprovação da eficácia do tratamento à luz da medicina baseada em evidências;
+(iii) haja recomendações de órgãos técnicos de renome nacionais (como CONITEC e NATJUS) e estrangeiros; e
+(iv) seja realizado, quando possível, o diálogo interinstitucional do magistrado com entes ou pessoas com expertise técnica na área da saúde, incluída a Comissão de Atualização do Rol de Procedimentos e Eventos em Saúde Suplementar, sem deslocamento da competência do julgamento do feito para a Justiça Federal, ante a ilegitimidade passiva ad causam da ANS.
+Na hipótese, constata-se que o acórdão recorrido considerou como taxativo, para fins de cobertura mínima e obrigatória, o rol de procedimentos e eventos em saúde estabelecido pela ANS.
+Consignou, ainda, que a Resolução Normativa ANS n. 465, de 24 de fevereiro de 2021, ressalvou a possibilidade de fornecimento obrigatório de medicamento registrado na Anvisa mas sem indicação na bula para tratamento da enfermidade correlata, ou seja, medicamento para uso off label, estabelecendo, contudo, duas condições : i) que a Comissão Nacional de Incorporação de Tecnologias no SUS - CONITEC tenha demonstrado as evidências científicas sobre a eficácia, a acurácia, a efetividade e a segurança do medicamento ou do produto para o uso pretendido; ii) e a ANVISA tenha emitido, mediante solicitação da CONITEC, autorização de uso para fornecimento, pelo SUS, dos referidos medicamentos e produtos, nos termos do art. 21 do Decreto nº 8.077, de 14 de agosto de 2013 (artigo 24 da resolução).
+Ao analisar o caso da autora, a Corte local, mediante análise do conjunto fático-probatório dos autos, concluiu que a medicação pretendida pela segurada não preenche os requisitos acima elencados, conforme o seguinte trecho do acórdão:
+Encerrando o tratamento prescrito o uso de medicamento off label, pois não prevista sua utilização em bula registrada no órgão setorial competente - ANVISA - e não corroborada por estudos conclusivos recomendando seu uso para tratamento da enfermidade que afligia a segurada, inviável que, ignorando-se a exclusão contratualmente contemplada em conformidade com a Lei dos Planos de Saúde e com a regulação subjacente - Lei nº 9.656/98, art. 10, §4º; RN nº 428/17, art. 20, substituída pela RN ANS nº 465, arts. 17, par. Único, I, "c", e 24 -, a operadora seja obrigada a fomentá-lo e custeá-lo à margem do contratado em conformidade com o legalmente autorizado, inclusive porque inviável que, à guisa de se privilegiar o objeto do contratado, seja criada obrigação desguarnecida de sustentação legal ou previsão contratual.
+Desse modo, observo que a orientação adotada encontra-se em harmonia com o atual entendimento desta Corte, sendo caso de aplicação do óbice disciplinado no enunciado n. 83 da Súmula do STJ.
+Ademais, por estar o posicionamento da instância originária amparado em elementos de fatos e provas existentes nos autos, a revisão da conclusão, no que concerne ao não preenchimento dos requisitos para custeio de procedimento não listado no rol, é inviável na instância especial, à luz dos enunciados n. 5 e 7 da Súmula do STJ.
+Assim, como o presente agravo interno não suscitou nenhuma tese capaz de modificar o conteúdo do julgado impugnado, deve-se manter inalterada a decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos de declaração manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
