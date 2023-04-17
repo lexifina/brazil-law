@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 11/04/2023 a 17/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Humberto Martins, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que conheceu do agravo para não conhecer do recurso especial fundamentado no art. 105, III, "a", da CF, que visa reformar acordão proferido pelo TRIBUNAL DE JUSTIÇA DE SÃO PAULO, assim ementado:
+AGRAVO DE INSTRUMENTO - AÇÃO COLETIVA - Pretensão de reformar a decisão que en tendeu prematuro o deferimento da liminar (tutela de urgência) visando impedir as atividades de transporte oferecidas pela Buser e empresas parceiras, obstando a divulgação por qualquer meio, sob pena de multa diária, bem como determinar que o Estado de São Paulo, a ARTESP, a Secretaria de Transportes Metropolitanos e a EMTU exerçam a fiscalização adequada do serviço público, impedindo a atuação irregular das empresas rés por meio da oferta de passagens no site da Buser - Ausente a demonstração da probabilidade do direito invocado na demanda e o perigo de dano ou o risco ao resultado útil do processo ("caput" do art. 300 do CPC de 2015) - Decisão mantida - Recurso improvido.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+A despeito de o dispositivo da decisão agravada apontar que se estava a "não conhecer" do recurso especial, a decisão adentrou no mérito do recurso, analisando as ofensas à legislação federal apontadas. Assim, pressupõe-se o conhecimento do recurso especial, tendo apenas sido desprovido em seu mérito, tal como efetivamente se verificou da fundamentação da decisão.
+ ..
+O art. 489, §1º, III e IV, do CPC estabelece que não se considera fundamentada qualquer decisão judicial que invoque motivos que se prestariam a justificar qualquer outra decisão e não enfrente todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador.
+Contudo, foi o que fez a decisão proferida em primeiro grau, objeto do agravo de instrumento, ao deixar de analisar os fundamentos da Agravante por entender ser "prematuro" o deferimento da liminar.
+ ..
+Com efeito, houve, de maneira reiterada, a ratificação de uma decisão proferida em primeira instância que é nula por vício de fundamentação.
+Além disso, não houve análise, pelos acórdãos recorridos, de qualquer dos fundamentos trazidos pela Agravante, que demonstrou de forma detalhada e precisa a existência de diversos elementos que justificavam a concessão da tutela antecipada.
+Os acórdãos objeto do recurso especial, além de desconsiderar em circunstâncias fundamentais para a análise de questões afetas à nulidade da decisão agravada, também se omitiram quanto a existência de concorrência ilegal a um serviço público, em ofensa art. 489, §1º, IV e ao art. 1.022, II, do CPC.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. AÇÃO COLETIVA. ADMINISTRATIVO. SERVIÇOS. CONCESSÃO / PERMISSÃO / AUTORIZAÇÃO. TRANSPORTE TERRESTRE. NÃO VIOLAÇÃO DOS ARTS. 1.022 E 489 DO CPC/15. DESPROVIMENTO DO AGRAVO INTERNO MANUTENÇÃO DA DECISÃO RECORRIDA.
+1. Na origem, trata-se de agravo de instrumento, objetivando reconhecer e declarar a nulidade da decisão agravada e, nos termos do art. 1.013, §3º, IV, do CPC, reanalisar a questão nos presentes autos; ou, alternativamente (b) reformar integralmente a decisão agravada, deferindo-se as providências urgentes pleiteadas na inicial da ação de origem. No Tribunal a quo, o agravo de instrumento foi improvido.
+2. Não há violação do art. 535 do CPC/1973 (art. 1.022 do CPC/2015) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 165 do CPC/1973 e art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+3. Conforme entendimento pacífico desta Corte "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão". A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida".  EDcl no MS 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.
+4. Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+Não há violação do art. 535 do CPC/1973 (art. 1.022 do CPC/2015) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 165 do CPC/1973 e art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+Conforme entendimento pacífico desta Corte "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão". A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida".  EDcl no MS 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
