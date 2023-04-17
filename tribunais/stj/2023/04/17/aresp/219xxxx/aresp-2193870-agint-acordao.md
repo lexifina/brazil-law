@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 11/04/2023 a 17/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+Trata-se de agravo interno interposto por MIRIAN DO AMARAL DOS SANTOS contra decisão da Presidente desta Corte, que não conheceu do recurso especial, ante o não cabimento de agravo em recurso especial contra decisão que negou seguimento a recurso especial com base no art. 1.030, I, "b", § 2º, do CPC/2015 (e-STJ fls. 338/339).
+A parte agravante alega, em síntese, que houve erro, visto que o presente caso não cuida de decisão que negou seguimento ao recurso especial em virtude de o acórdão recorrido estar em consonância com tese firmada sob o rito dos recursos repetitivos.
+Isso porque apontou a distinção entre o caso concreto e os paradigmas apontados, inclusive o RE631.240/MG, sendo que o decisum "não levou em consideração o fato de que no presente caso, houve prévio requerimento administrativo, inclusive com decisão de indeferimento do pedido" (e-STJ fl. 348),
+Contraminuta não apresentada.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. TEMA JULGADO EM SEDE DE REPETITIVO. AGRAVO EM RECURSO ESPECIAL. DESCABIMENTO.
+1. Segundo a jurisprudência do STJ, é incabível o agravo do art. 1.042 do CPC/2015 contra decisão que nega seguimento a recurso especial com base na aplicação de tese firmada em sede de recurso repetitivo, publicada a partir de 18 de março de 2016, quando entrou em vigor o CPC/2015, sendo apenas cabível o agravo interno constante do art. 1.030, § 2º, do CPC/2015.
+2. Hipótese em que a parte autora já interpôs o agravo interno constante do art. 1.030, § 1º, do CPC, tendo sido ele desprovido, o que torna inviável a análise do tema em sede de recurso especial.
+3. Agravo interno desprovido.
+VOTO
+O presente agravo não merece prosperar.
+Segundo o entendimento desta Corte, é incabível o agravo do art. 1.042 do CPC/2015 contra decisão que nega seguimento a recurso especial com base na aplicação de tese firmada em sede de recurso repetitivo, publicada a partir de 18 de março de 2016, quando entrou em vigor o CPC/2015, sendo apenas cabível o agravo interno constante do art. 1.030, § 2º, do CPC/2015.
+O Vice-Presidente do Tribunal a quo, no tocante à exigência do prévio requerimento administrativo, negou seguimento ao recurso, com base no art. 1.040 do CPC/2015, estando o decisum assim fundamentado (e-STJ fls. 281/283):
+O recurso não merece admissão.
+O Supremo Tribunal Federal, por ocasião do julgamento do RE nº 631.240/MG (DJe 10.11.2014), resolvido nos termos do artigo 543-B do CPC, assentou o entendimento de que a exigência de prévio requerimento administrativo a ser formulado perante o INSS antes do ajuizamento de demanda previdenciária não viola a garantia constitucional da inafastabilidade da jurisdição (CR/88, artigo 5º, XXXV).
+Ressalvou-se, contudo, a possibilidade de formulação direta do pedido perante o Poder Judiciário quando se cuidar de pretensão de revisão, restabelecimento ou manutenção de benefício anteriormente concedido, ou ainda quando notório e reiterado o entendimento do INSS em desfavor da pretensão do segurado, exceto se depender da análise de matéria de fato ainda não levada ao conhecimento da Administração, pois nesses casos, a conduta do INSS já configura o não acolhimento ao menos tácito da pretensão. O precedente restou assim ementado, :verbis:
+ ..
+Considerado o entendimento do STF acima explicitado, tem-se que o Superior Tribunal de Justiça revisitou sua jurisprudência de modo a assimilar o posicionamento adotado pela Suprema Corte, o que se deu quando do julgamento do RESP nº 1.369.834/SP (DJe 02.12.2014), resolvido nos termos do artigo 543-C do Código de Processo Civil.
+O precedente paradigmático em questão restou assim ementado, :verbis:
+"PREVIDENCIÁRIO E PROCESSUAL CIVIL. RECURSO ESPECIAL. CONCESSÃO DEBENEFÍCIO. PRÉVIO REQUERIMENTO ADMINISTRATIVO. NECESSIDADE. CONFIRMAÇÃO DA JURISPRUDÊNCIA DESTA CORTE SUPERIOR AO QUEDECIDIDO PELO SUPREMO TRIBUNAL FEDERAL NO JULGAMENTO DO RE 631.240/MG, JULGADO SOB A SISTEMÁTICA DA REPERCUSSÃO GERAL.
+1. O Plenário do Supremo Tribunal Federal, no julgamento do RE 631.240/MG, sob rito do artigo 543-B do CPC, decidiu que a concessão de benefícios previdenciários depende de requerimento administrativo, evidenciando situações de ressalva e fórmula de transição a ser aplicada nas ações já ajuizadas até a conclusão do aludido julgamento (03/9/2014).
+2. Recurso especial do INSS parcialmente provido a fim de que o Juízo de origem aplique as regras de modulação estipuladas no RE 631.240/MG. Julgamento submetido ao rito do artigo 543-C do CPC." (STJ, Primeira Seção, RESP nº 1.369.834/SP, Rel. Min. Benedito Gonçalves, j. 24.09.2014, DJe 02.12.2014)Verifica-se que o acórdão recorrido, ao exigir o prévio requerimento administrativo e o respectivo indeferimento, não diverge do entendimento consolidado pelo Supremo Tribunal Federal e pelo Superior Tribunal de Justiça.
+Em face do exposto, nego seguimento ao recurso especial.
+Assim, um dos fundamentos da decisão de inadmissibilidade do recurso especial consiste na coincidência entre o acórdão do Tribunal a quo e o precedente do STJ firmado em sede de recurso repetitivo (Tema 660).
+Ressalto que já foi realizada a prestação jurisdicional no tocante ao tema atinente à exigência de prévio requerimento administrativo para as ações previdenciárias, porquanto a parte autora já inte rpôs o agravo interno constante do art. 1.030, § 1º, do CPC, tendo sido este desprovido (e-STJ fls. 151/160), o que torna inviável a análise do tema em sede de recurso especial.
+Nesse sentido, mutatis mutandis:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL FUNDADA NO ARTIGO 1.030, I, B DO CPC/2015. CABIMENTO DE AGRAVO INTERNO CONSOANTE ARTIGO 1.030, § 2o. CPC/2015. INTERPOSIÇÃO DO AGRAVO PREVISTO NO ARTIGO 1.042 DO CPC/2015. ERRO GROSSEIRO. FUNGIBILIDADE RECURSAL. DESCABIMENTO. AGRAVO INTERNO DA SEGURADA DESPROVIDO.
+1. Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC de Justiça (Enunciado Administrativo 3).
+2. Com base no art. 1.030, § 2º, do CPC/2015, não cabe Agravo em Recurso Especial ao Superior Tribunal de Justiça contra decisão que nega seguimento ao Recurso Especial nos termos do art. 1.030, I, b do mesmo diploma legal, cabendo ao próprio Tribunal recorrido, se provocado por Agravo Interno, decidir sobre a alegação de equívoco na aplicação do entendimento firmado em sede de Recurso Especial julgado sob o rito representativo da controvérsia (AgInt no AREsp. 1.010.292/RN, Rel. Min. MAURO CAMPBELL MARQUES, DJe 3.4.2017; AgRg no AREsp 994.487/MG, Rel. Min. SEBASTIÃO REIS JUNIOR, DJe 2.3.2017; AgInt no AREsp 982.074/PR, Rel. Min. MARIA THEREZA DE ASSIS MOURA, DJe 17.11.2016).
+3. Inviável, na hipótese, a aplicação do princípio da fungibilidade recursal, porquanto, na data da publicação da decisão que não admitiu o Recurso Especial, já havia expressa previsão legal para o recurso cabível, artigo 1.030, I, b do CPC/2015, afastando-se, por conseguinte, a dúvida objetiva.
+4. Agravo interno da segurada desprovido. (AgInt no AREsp 1.035.090/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 02/08/2017).
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. RMI. NEGATIVA DE SEGUIMENTO A RECURSO COM FUNDAMENTO NO ART. 1.030, I, DO CPC/2015. AGRAVO EM RECURSO ESPECIAL. NÃO CABIMENTO. DECISÃO MANTIDA.
+I - O Código de Processo Civil de 2015, de forma expressa, determina o cabimento de agravo interno contra decisão que, especado no artigo 1.030, I, b, do Código de Processo Civil de 2015, nega seguimento ao recurso especial.
+II - Destarte, a interposição do agravo em recurso especial, previsto no artigo 1.042 do Código de Processo Civil de 2015, constitui erro grosseiro, tendo em vista a inexistência de dúvida objetiva, ante à expressa previsão legal do recurso adequado, não sendo mais devida a determinação de retorno dos autos ao Tribunal de origem para que o aprecie como agravo interno.
+III - Agravo interno improvido. (AgInt no AREsp 976.993/PE, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe 14/08/2017).
+Por último, deixo de aplicar a sanção prevista no art. 1.021, § 4º, do CPC/2015 por não considerar manifestamente inadmissível ou improcedente o presente recurso.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
