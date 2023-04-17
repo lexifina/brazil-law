@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 11/04/2023 a 17/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Humberto Martins, Herman Benjamin e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto por Instituto de Previdência dos Servidores Municipais de São Vicente contra decisão monocrática de relatoria da Presidência do STJ que não conheceu de recurso especial.
+Os embargos de declaração opostos foram rejeitados também pela Presidência do STJ.
+Nas razões do agravo, o recorrente sustenta violação do art. 1º, III, da Lei n. 9.717/1998 e a reforma da decisão ora impugnada. Pontua a não incidência das Súmulas n. 211 do STJ e 284 do STF. Argui que o Tribunal de origem reconhece a existência do art. 1º da Lei n. 9.717/1998, mas afastou a sua incidência. Afirma que a argumentação presente no recurso especial apresenta clareza sobre a controvérsia.
+Pugna, por fim, a reconsideração da decisão, em juízo de retratação, ou a remessa do presente recurso ao órgão colegiado.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. DECISÃO DA PRESIDÊNCIA. DISPOSITIVO LEGAL NÃO PREQUESTIONADO. SÚM. N. 211/STJ. ALEGAÇÕES DISSOCIADAS DO ACÓRDÃO A QUO. FUNDAMENTAÇÃO DEFICIENTE. SÚM. N. 284/STF.
+1. A simples alegação de violação genérica de preceitos infraconstitucionais, desprovida de fundamentação que demonstre de que maneira eles foram violados pelo Tribunal de origem, não é suficiente para fundar recurso especial, atraindo a incidência da Súm. n. 284/STF.
+2. O prequestionamento não exige que haja menção expressa dos dispositivos infraconstitucionais tidos como violados. Entretanto, é imprescindível que no aresto recorrido a tese tenha sido discutida, mesmo que suscitada em embargos de declaração. Incidência da Súm. n. 211/STJ.
+3. Agravo interno não provido.
+VOTO
+O presente agravo não merece lograr êxito.
+Em que pese o arrazoado, observa-se que a parte agravante não trouxe argumentos novos capazes de infirmar os fundamentos que embasaram a decisão agravada, o que faz subsistir o entendimento nela externado.
+O acórdão a quo não realizou o prequestionamento do dispositivo indicado pelo recorrente como violado. O próprio texto do acórdão a quo transcrito no voto menciona genericamente a Lei n. 9.717/1998, mas não indica o seu art. 1º. O próprio trecho utilizado pelo recorrente afasta a tese de que houve prequestionamento do que foi defendido no recurso especial. A manutenção da Súm. n. 211/STJ é de rigor.
+Ademais, ainda que se considere que a indicação de dispositivos constitucionais no recurso especial como reforço argumentativo, o fato é que as teses recursais nesse apelo não demonstraram em que medida o dispositivo legal foi efetivamente violado.
+Exige-se para a admissão do apelo clareza na indicação dos artigos de lei federal alegadamente violados, bem como a explanação coerente, clara e precisa da medida em que o aresto objurgado teria afrontado cada um desses dispositivos, ou a eles tenha dado interpretação divergente da adotada por este ou por outro Tribunal.
+Sob esse aspecto, não se conhece do recurso especial em que haja (a) "citação genérica de dispositivo de lei tido como violado" (AgInt no REsp n. 1.308.906/SP, Rel. Min. OG FERNANDES, SEGUNDA TURMA, DJe de 30/6/2022), no qual (b) impossível identificar se os dispositivos foram ou não colacionados meramente a título argumentativo (cf. AgInt no REsp. 1.615.830/RS, Rel. Min. MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 11/06/2018; AgInt no AREsp n. 1.890.951/SP, rel. Min. MANOEL ERHARDT (Desembargador Convocado do Trf5), PRIMEIRA TURMA, DJe de 23/6/2022). De forma correlata, (c) "a mera citação de precedentes nas razões recursais não caracteriza dissídio jurisprudencial" (AgInt no AREsp n. 2.024.013/MS, Rel. Min. LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 17/6/2022).
+Ausente fundamentação, ou quando deficiente, não se conhece do recurso (esse é o teor da jurisprudência cristalizada pelo Supremo Tribunal Federal na Súmula nº 284/STF - "é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia" -, também aplicada ao especial).
+Ressalta-se que a impugnação deve ser específica. Não se considera fundamentado o recurso especial (a) genérico, sem a efetiva demonstração de contrariedade à lei federal (cf. AgRg no AREsp 288.596/MG, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 11/03/2016), (b) dissociado do contexto nos autos (cf. REsp 1337635/PE, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 01/08/2013), (c) em que os dispositivos apontados não possuem comando normativo apto para infirmar os fundamentos do decisum objurgado (cf. AgRg no REsp 1279021/BA, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 11/11/2013).
+Esclareço, outrossim, que a decisão que se pretende cassar é com base no art. 932, inciso III, c.c. o art. 1.030, § 2º, do Código de Processo Civil de 2015, não trazendo a parte qualquer motivo hábil para sua anulação.
+Com essas considerações, nego provimento ao agravo interno.
+É como voto.
