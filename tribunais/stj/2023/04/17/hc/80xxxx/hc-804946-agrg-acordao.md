@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 11/04/2023 a 17/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Messod Azulay Neto e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Ribeiro Dantas.
+Presidiu o julgamento o Sr. Ministro Joel Ilan Paciornik.
+RELATÓRIO
+Cuida-se de Agravo Regimental contra decisão que indeferiu liminarmente o habeas corpus, ante a incidência do enunciado n. 691 da Súmula do Supremo Tribunal Federal - STF.
+No presente recurso, a agravante alega que o constrangimento ilegal suportado é suficiente para permitir a excepcional superação da Súmula n. 691 do STF.
+Insiste nas alegações já lançadas na inicial do writ, reiterando que faz jus à prisão domiciliar, nos termos do art. 318, inciso V, do Código de Processo Penal, uma vez que possui filhos menores de 12 anos de idade.
+Requer, assim, a reconsideração da decisão ou o julgamento pelo órgão colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS MAJORADO E ORGANIZAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. SUBSTITUIÇÃO POR DOMICILIAR. SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL - STF. DECISÃO FUNDAMENTADA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO DESPROVIDO.
+1. Diante de fundamentada decisão que indefere a liminar na impetração originária - mormente em se considerando tratar de paciente com suposto envolvimento com a organização criminosa denominada Primeiro Comando de Vitória - PCV, atuante no intenso comércio de drogas e armas de fogo, tendo sido localizado na residência da ré diversas mensagens trocadas com detentos que, ao que parece, lideram a facção -, não há que se falar em flagrante ilegalidade a ensejar a superação do enunciado n. 691 da STF.
+2. Agravo regimental desprovido.
+VOTO
+Em que pese o esforço da agravante, a decisão deve ser mantida por seus próprios fundamentos.
+Destaque-se que o habeas corpus foi impetrado contra decisão de desembargador relator que indeferiu o pedido de liminar no feito originário. Dessa forma, incide sobre a matéria o enunciado n. 691 da Súmula do Supremo Tribunal Federal - STF, o que inviabiliza o conhecimento do writ.
+A superação do referido enunciado sumular é possível apenas na hipótese de flagrante constrangimento ilegal, o que não ocorre no presente caso.
+Com efeito, destaco o seguinte trecho da decisão proferida pelo Tribunal de origem:
+"A postulante foi denunciada, e teve sua prisão temporária convertida em preventiva, pela suposta prática das condutas previstas no artigo 33, "caput", e artigo 40,incisos III, IV e VI, todos da Lei nº 11.343/2006, na forma do artigo 29, caput, do Código Penal, e artigo 2º, §2º e §4º, incisos I e IV, da Lei nº 12.850/2013, na forma do artigo 69,do Código Penal.
+Ab initio, registro que a medida constritiva em questão só se justifica quando demonstrada sua real indispensabilidade.
+Nesta toada, observo que o magistrado impetrado entendeu por decretar a prisão preventiva da requerente com fundamento no perigo à ordem pública. Vejamos:
+" ..  O periculum libertatis, da mesma forma, resta preenchido, no que se refere à necessidade de preservação da ordem pública, visto que, conforme salientado pelos IRMP, os crimes praticados pelos acusados apresentam grande risco à sociedade e indicam que possuem estreita relação com tráfico de drogas e armas e com facções criminosas, demonstrando periculosidade em concreto, conforme ressaltado no capítulo anterior deste decisum, de forma individual e pormenorizada em relação a cada acusado"  ..
+Não somente, apontou o julgador "a quo" que a paciente "supostamente aderiu à célula criminosa PCV, valendo-se da sua posição de companheira do faccionado GLEYDSON LUIZ DE OLIVEIRA (já denunciado em outros autos, se encontra recluso na Penitenciária de Segurança Máxima de Viana)".
+E ainda:
+"Acerca das supostas atividades ilícitas de MAELY, o Parquet informa que foram encontrados em sua residência diversos "catuques" de autoria de interno do sistema prisional ou escritos por criminosos que estão foragidos ou em liberdade, identificando-se diversas anotações com conteúdo evidentemente criminoso relacionadas com a ORCRIM "PCV", colacionados no corpo da denúncia. Os diversos "catuques" com conteúdo criminoso encontrados na residência de MAELY conferem com o contexto que decorre de uma leitura sistemática dos elementos de prova até agora angariados, conforme bilhetes cujas cópias estão acostadas à denúncia".
+Diante dessas circunstâncias, resta evidenciada a necessidade, a priori, da prisão preventiva da acusada e, neste ponto, em relação ao pedido de substituição da prisão preventiva pela domiciliar, destaco que o art. 318 do Código de Processo Penal traz a previsão para o caso de mulher com filho de até 12 (doze) anos de idade.
+Contudo, apesar de a postulante possuir duas filhas menores, a legislação penal se utiliza do verbo "poderá", ficando evidente tratar-se de faculdade do julgador e não deum direito automático da ré.
+Portanto, pode o Magistrado no caso concreto, identificada a incontornável urgência da medida cautelar, justificar a sua manutenção com base nos requisitos do artigo 312 do Código de Processo Penal.
+In casu, verifico que a prisão encontra-se devidamente motivada e justificada, sendo uma medida temerária, ao menos nesse juízo perfunctório, colocá-la em liberdade." (fls . 32/33)
+Conforme consignado no decisum, resta clara a necessidade de um exame aprofundando das circunstâncias do caso concreto, mormente em se considerando tratar de paciente com suposto envolvimento com a organização criminosa denominada Primeiro Comando de Vitória - PCV, atuante no intenso comércio de drogas e armas de fogo, tendo sido localizado na residência da ré diversas mensagens trocadas com detentos que, ao que parece, lideram a facção.
+Assim, diante de fundamentada decisão do desembargador relator não se vislumbra hipótese de superação do enunciado n. 691 da Súmula do STF.
+A propósito, confiram-se alguns precedentes:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. SÚMULA 691/STF. TRÁFICO INTERESTADUAL DE ENTORPECENTES. PRISÃO PREVENTIVA. ELEVADA QUANTIDADE DE DROGAS. OUTROS PROCESSOS CRIMINAIS EM CURSO. CIRCUNSTÂNCIAS A SEREM ESCLARECIDAS. AUSÊNCIA DE PATENTE ILEGALIDADE. AGRAVO IMPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade, o que não ocorre na espécie. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2. Caso em que o decreto prisional demonstrou a necessidade da medida extrema, tendo em vista que a agravante foi flagrada transportando elevada quantidade de drogas - 371,5Kg de maconha -, entorpecentes estes que seriam ainda difundidos a outro Estado da federação.
+3. Ademais, em que pese a condição de genitora de criança com idade inferior a 12 anos de idade, que seria apta a ensejar, em tese, a concessão da prisão domiciliar à acusada, nos termos do art. 318 do CPP, o decisum deixa claro a necessidade de exame mais minucioso das demais circunstâncias do caso concreto, sendo certo que chama bastante a atenção a apreensão de quantidade excepcional de drogas em poder da acusada e, ainda, a existência de outros "processos criminais em face da autuada", a serem esclarecidos perante o Juízo de origem.
+4. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 744.725/MS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 20/6/2022).
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO INDEFERIDA LIMINARMENTE. INCIDÊNCIA DA SÚMULA N. 691/STF. CRIME DE TORTURA PARA OBTENÇÃO DE INFORMAÇÕES. ALEGADA NULIDADE DA ORDEM DE PRISÃO DEFINITIVA. AUSÊNCIA DE PATENTE ILEGALIDADE. RECONHECIMENTO DE PRESCRIÇÃO. QUESTÃO PASSÍVEL DE INDEFERIMENTO DO PEDIDO LIMINAR. MATÉRIA NÃO APRECIADA NA ORIGEM. SUPRESSÃO DE INSTÂNCIA. PRECEDENTES. AGRAVO IMPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade, o que não ocorre na espécie. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2. A questão referente ao reconhecimento da prescrição é passível de indeferimento do pedido de liminar quando não for evidenciada de plano, por demandar mais aprofundada análise do caso, em exame próprio do mérito da impetração (AgRg no HC 484.437/SP, Rel. Ministro NEFI CORDEIRO, Sexta Turma, julgado em 12/3/2019, DJe de 18/3/2019).
+3. No caso dos autos, não há que se falar em superação do referido óbice sumular, como excepcionalmente se admite, tendo em vista que, consoante destacado pela Juíza Federal, em substituição de Desembargador Federal, Relatora do mandamus originário, em uma análise perfunctória, não se vislumbra constrangimento ou ilegalidade manifestos passíveis de serem reconhecidos em sede liminar.
+4. Agravo regimental improvido.
+(AgRg no HC 545.259/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 9/12/2019).
+Ante o exposto, voto pelo desprovimento do presente agravo regimental.
