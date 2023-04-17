@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 11/04/2023 a 17/04/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Humberto Martins, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Negou-se conhecimento ao recurso ordinário em mandado de segurança interposto por Dirceu Marcos Delatorre, com fundamento no art. 105, II, b, da Constituição Federal e no art. 1.027, II, a, do Código de Processo Civil.
+O recurso especial visa reformar acórdão do Tribunal de Justiça do Estado da Bahia, assim ementado (fl. 986):
+MANDADO DE SEGURANÇA. PROCEDIMENTOS ADMINISTRATIVOS. BLOQUEIO DE MATRÍCULA RURAL. É INEXISTÊNCIA DE COMPROVAÇÃO DO DIES A QUO DOS PRAZO DECADENCIAL. PRELIMINAR DE DECADÊNCIA AFASTADA. ÍNDICIOS DE IRREGULARIDADES NOS REGISTROS. MEDIDA QUE SE AFIGURA PLAUSÍVEL PARA EVITAR DANOS DE DIFÍCIL REPARAÇÃO. INTELIGÊNCIA DO ART. 241, §3º, DA LEI Nº 6.015/73. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO. SEGURANÇA DENEGADA.
+Na origem, trata-se de mandado de segurança impetrado por Dirceu Marcos Delatorre e outro contra a Desembargadora Corregedora das Comarcas do Interior, do Tribunal de Justiça do Estado da Bahia, que, acolhendo requerimento formulado em Processo Administrativo, ordenou o bloqueio das matrículas de imóveis rurais dos CRIH de Santa Rita de Cássia e Formosa do Rio Preto.
+No Tribunal a quo, denegou-se a segurança. Esta Corte negou conhecimento ao recurso ordinário em mandado de segurança.
+No recurso, Dirceu Marcos Delatorre e outro apontam nulidade do ato da autoridade Coatora, determinando-se o imediato desbloqueio das matrículas dos imóveis.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso."
+Interposto agravo interno, a Segunda Turma negou provimento ao recurso, nos termos da seguinte ementa (fls. 1.194-1.195):
+PROCESSUAL CIVIL. ADMINISTRATIVO. MANDADO DE SEGURANÇA. ATOS ADMINISTRATIVOS. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. INTEMPESTIVIDADE. DECISÃO RECORRIDA ESTÁ EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STJ.
+I - Na origem, trata-se de mandado de segurança preventivo, impetrado contra ato praticado por Desembargadora Corregedora das Comarcas do Interior, do Tribunal de Justiça do Estado da Bahia, que acolheu bloqueio de matrículas de imóveis rurais. No Tribunal a quo, a segurança foi denegada.
+II - Verifica-se que a parte recorrente foi intimada do acórdão recorrido em 26/8/2020 - fl. 998, sendo o recurso em mandado de segurança interposto somente em 14/4/2021.
+III - Ademais, constata-se que os documentos juntados às fls. 1.033/1.040 (Decreto Judiciário que trata da digitalização dos processos judiciais físicos vinculados ao Tribunal Pleno do Tribunal de Justiça da Bahia), não são suficientes para comprovação da tempestividade. E os de fls. 1.041/1.061, foram acostados após o protocolo do recurso.
+IV - O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias, nos termos do art. 33 da Lei n. 8.038/90 e dos arts. 1.003, § 5º, e 219, caput, ambos do Código de Processo Civil.
+V - A propósito, nos termos do § 6º do art. 1.003 do mesmo código, "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", o que impossibilita a regularização posterior.
+VI - Conforme pacificado nesta Corte, a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada, no ato da interposição do recurso que pretende seja conhecido por este Tribunal, por documento oficial ou certidão expedida pelo Tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública. (AgInt no AREsp 1.740.116/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 18/12/2020.)
+VII - A segunda-feira de carnaval, a quarta-feira de cinzas, os dias que precedem a Sexta-Feira da Paixão e o dia de Corpus Christi não são feriados forenses, previstos em lei federal, para os tribunais de justiça estaduais. Caso essas datas sejam feriados locais, deve ser colacionado o ato normativo local com essa previsão, por meio de documento idôneo, no momento de interposição do recurso. Nesse sentido: AgInt no AREsp 2.057.713/RJ , Ministro Marco Buzzi, Quarta Turma, DJe 6/10/2022.
+VIII - A Corte Especial, no julgamento do ARESP 1.481.810/SP, afetado pela Quarta Turma, reafirmou o entendimento de que é preciso comprovar a ocorrência de feriado local no ato de interposição do recurso, nos termos do § 6º do art. 1.003 do CPC/15. Portanto, para os recursos sujeitos aos requisitos de admissibilidade do referido diploma processual, não se admite a comprovação posterior da suspensão do expediente forense em decorrência de feriado local. Nesse diapasão: AgInt no AREsp 2.130.555/MG, Ministro Marco Buzzi, Quarta Turma, DJe 29/9/2022.
+IX - Precedente in verbis: ""O art. 1.003, § 6º, do CPC/2015 estabelece que o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso, o que impossibilita a regularização posterior."" (AgInt no AREsp 2.010.923/SP , Ministro Benedito Gonçalves, Primeira Turma, DJe 28/9/2022). Nesse sentido: AgInt no AREsp 2.098.990/SP, Ministra Regina Helena Costa, Primeira Turma, DJe 23/9/2022.
+X - Agravo interno improvido.
+Opostos novos embargos de declaração, aponta a parte embargante vícios no acórdão embargado, resumidos nos seguintes termos (fl. 1.207):
+.. patente a omissão do julgado no que pertine a análise do pleito que seria de curial importância para comprovar e atestar a tempestividade do recurso Ordinário interposto.
+Neste contexto os presentes Embargos buscam tão somente sanar a referida omissão, haja vista que se observado o quanto certificado naquele documento, seria bastante para aplicar-se os efeitos infringentes no presente recurso horizontal, atestando a tempestividade do recurso ordinário, seguindo para análise do mérito.
+Assim, pugnam pelo recebimento e conhecimento dos presente embargos, para efeito de sanar a omissão indigitada e que no mérito, seja dado provimento ao mesmo, aplicando-se os efeitos infringentes ao julgado, com objetivo de que o recurso ordinário seja conhecido com a apreciação de seu mérito.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. MANDADO DE SEGURANÇA. ATOS ADMINISTRATIVOS. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. INTEMPESTIVIDADE. DECISÃO RECORRIDA ESTÁ EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STJ. ALEGAÇÃO DE VÍCIOS NO ACÓRDÃO EMBARGADO. INEXISTÊNCIA.
+I - Na origem, trata-se de mandado de segurança impetrado por Dirceu Marcos Delatorre e outro contra a Desembargadora Corregedora das Comarcas do Interior, do Tribunal de Justiça do Estado da Bahia, que, acolhendo requerimento formulado em processo administrativo, ordenou o bloqueio das matrículas de imóveis rurais dos autores dos CRIH de Santa Rita de Cássia e Formosa do Rio Preto.
+II - No Tribunal a quo, denegou-se a segurança. Esta Corte negou conhecimento ao recurso ordinário em mandado de segurança.
+III - Opostos embargos de declaração, aponta a parte embargante vícios no acórdão embargado. Não há vício no acórdão. A matéria foi devidamente tratada com clareza e sem contradições.
+IV - Embargos de declaração não se prestam ao reexame de questões já analisadas, com o nítido intuito de promover efeitos modificativos ao recurso, quando a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+V - Os vícios apontados pela parte embargante, relacionados à intempestividade do recurso, foram analisados pelo acórdão recorrido, o que afasta a alegação de omissão.
+VI - Embargos de declaração rejeitados.
+VOTO
+Os embargos não merecem acolhimento.
+Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade; eliminar contradição; suprir omissão de ponto ou questão sobre as quais o juiz devia pronunciar-se de ofício ou a requerimento; e/ou corrigir erro material.
+Conforme entendimento pacífico desta Corte:
+O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida.
+(EDcl no MS n. 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.)
+A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do CPC/2015, razão pela qual inviável o seu exame em embargos de declaração. Nesse sentido:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. EMBARGOS DE DECLARAÇÃO. FINALIDADE DE PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. OMISSÃO. NÃO OCORRÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. ART. 1.022 DO NOVO CPC.
+1. A ocorrência de um dos vícios previstos no art. 1.022 do CPC é requisito de admissibilidade dos embargos de declaração, razão pela qual a pretensão de mero prequestionamento de dispositivos constitucionais para a viabilização de eventual recurso extraordinário não possibilita a sua oposição. Precedentes da Corte Especial.
+2. A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do novo CPC, razão pela qual inviável o seu exame em sede de embargos de declaração.
+3. Embargos de declaração rejeitados.
+(EDcl nos EAREsp n. 166.402/PE, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 15/3/2017, DJe 29/3/2017.)
+EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. CONTRADIÇÃO. NÃO OCORRÊNCIA. OMISSÕES. INEXISTÊNCIA. CARÁTER PROCRASTINATÓRIO RECONHECIDO. APLICAÇÃO DE MULTA.
+1. A contradição capaz de ensejar o cabimento dos embargos declaratórios é aquela que se revela quando o julgado contém proposições inconciliáveis internamente.
+2. Sendo os embargos de declaração recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição ou omissão -, não podem ser acolhidos quando a parte embargante pretende, essencialmente, a obtenção de efeitos infringentes.
+3. Evidenciado o caráter manifestamente protelatório dos embargos de declaração, cabe a aplicação da multa prevista no parágrafo único do art. 538 do CPC/1973.
+4. Embargos de declaração rejeitados com aplicação de multa.
+(EDcl na Rcl n. 8.826/RJ, relator Ministro João Otávio de Noronha, Corte Especial, julgado em 15/2/2017, DJe 15/3/2017.)
+Os vícios apontados pela parte embargante, relacionados à intempestividade do recurso foram analisados pelo acórdão recorrido, o que afasta a alegação de omissão, conforme se percebe dos seguintes trechos do acórdão (fls. 1.199-1.200):
+Verifica-se que a parte recorrente foi intimada do acórdão recorrido em 26/8/2020 - fl. 998, sendo o recurso em mandado de segurança interposto somente em 14/4/2021.
+Ademais, constata-se que os documentos juntados às fls. 1.033/1.040 (Decreto Judiciário que trata da digitalização dos processos judiciais físicos vinculados ao Tribunal Pleno do Tribunal de Justiça da Bahia), não são suficientes para comprovação da tempestividade. E os de fls. 1.041/1.061, foram acostados após o protocolo do recurso.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias, nos termos do art. 33 da Lei n. 8.038/90 e dos arts. 1.003, § 5º, e 219, caput, ambos do Código de Processo Civil.
+Cumpre ressaltar que os aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso. No caso dos autos, não há omissão de ponto ou questão sobre as quais o juiz, de ofício ou a requerimento, devia pronunciar-se, considerando que o acórdão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
