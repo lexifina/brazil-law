@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 11/04/2023 a 17/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Humberto Martins, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que julgou não conheceu do recurso especial, fundamentado no art. 105, III, a e c, da Constituição Federal, visando reformar acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim resumido:
+AGRAVO DE INSTRUMENTO - Execução de título executivo judicial - Indenização por desapropriação indireta - Indeferimento do levantamento de valores depositados - Pretensão de reforma Impossibilidade - Existência de ação rescisória na qual se discute a validade do título executivo judicial - Designação de perícia naqueles autos - Fundado receio de desconstituição do v. acórdão - Inexistência de valor incontroverso - Levantamento dos valores que deve aguardar o trânsito em julgado da ação rescisória - Agravo não provido.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial, implicando, ainda, majoração da verba honorária em 1%."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+In casu, a despeito da oposição de aclaratórios, remanescem vícios de embargabilidade relevante se que, uma vez sanados, são capazes de infirmar o entendimento sufragado pelo acórdão de origem. A correta apreciação dos aclaratórios pelo Eg. Tribunal a quo levaria ao necessário deferimento do levantamento da parcela incontroversado depósito.
+ ..
+No que tange ao item I("oposição de embargos de declaração, na origem, pela parte interessada"), os aclaratórios foram opostos e demonstraram claramente as omissões e obscuridades incorridas pelo acórdão de origem. São elas:
+ ..
+Por fim, quanto ao item IV("os argumentos suscitados nos embargos de declaração, alegadamente não examinados pela instância a quo, deverão ser capazes de, em tese, infirmar as conclusões do julgado"), os argumentos suscitados nos embargos de declaração, alegadamente não examinados pela instância a quo, são plenamente capazes de, por si sós, infirmarem as conclusões do julgado.
+Isso, porque, uma vez examinada a aplicabilidade dosarts.42 e969 do CPC/15 ao caso concreto, restaria reconhecido o direito dos Agravantes ao levantamento da parcela tida como incontroversa, na medida em que o mero ajuizamento de Ação Rescisória não tem o condão de obstar os efeitos da decisão transitada em julgado, salvo eventual tutela provisória deferida pelo juí zo competente, isto é, o juízo responsável pelo próprio julgamento de mérito da rescisória -o que é incontroverso inexistir no caso concreto.
+Nesse sentido, tivessem sido sanados os vícios de embargabilidade restaria clara a impossibilidade de o juízo a quo revisitar o mérito já rechaçado no curso do processo de conhecimento ou usurpar a competência exclusiva do juízo responsável pelo julgamento da Ação Rescisória para, ad cautelam, obstar o cumprimento da coisa julgada.
+ ..
+O decisum, com o devido respeito e acatamento, merece reconsideração ou reforma quanto ao óbice da Súmula 7/STJ, porque as razões do Recurso Especial não almejam discutir os fatos culminaram com a conclusão adotada pelo Eg. Tribunal a quo.
+O que buscam os Agravantes, em verdade, é saber se, à luz dos fatos incontroversos e dos já delineados pelo Eg. Tribunal a quo, o acórdão violou os arts 42 e 969 do CPC/145ao descumprir a coisa julgada mediante usurpação de competência do Tribunal responsável por apreciar a Ação Rescisória.
+ ..
+Para o exame da violação ao art. 969 do CPC, basta observar supracitados fatos, sobretudo a existência de montante incontroverso depositado na ação indenizatória, cujo levantamento foi obstado em razão de controvérsia somente instaurada na ação rescisória e sem que houvesse a concessão de tutela de urgência.
+ ..
+Com efeito, ao obstar o pedido de levantamento dos Agravantes, a Col.6ª Câmara de Direito Público do Tribunal de Justiça de São Paulo, indiretamente, atribuiu o efeito suspensivo à Ação Rescisória. No entanto, frise-se, tal efeito somente poderia ser concedido mediante pedido feito na própria Ação Rescisória. Ou seja, a concessão é de competência exclusiva do Tribunal competente para apreciar a respectiva ação, qual seja, a Col. 2ª Câmara de Direito Público do Tribunal de Justiça de São Paulo, conforme art. 42 do CPC/15.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. SUSPENÇÃO DA EXECUÇÃO DA SENTENÇA. AJUIZAMENTO DE AÇÃO RECISÓRIA. DESPROVIMENTO DO AGRAVO INTERNO MANUTENÇÃO DA DECISÃO RECORRIDA.NÃO VIOLA ÇÃO DO ART. 1.022 DO CPC/2015. INCIDÊNCIA ENUNCIADO N. 7 DA SÚMULA DO STJ. CONHECIMENTO DA DIVERGÊNCIA JURISPRUDENCIAL IMPEDIDO.
+I - Na origem, trata-se de agravo de instrumento objetivando foi julgado reformar decisão para que o mero ajuizamento de ação rescisória não seja suficiente para suspender a execução da sentença. No Tribunal a quo, negou-se provimento ao recurso.
+II - Não há violação do art. 1.022 do CPC/2015 (art. 535 do CPC/1973) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 165 do CPC/1973 e art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+III - Verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+IV - Ressalte-se, ainda, que a incidência do enunciado sumular n. 7, quanto à interposição pela alínea a, impede o conhecimento da divergência jurisprudencial, diante da patente impossibilidade de similitude fática entre acórdãos. Nesse sentido: AgInt no AREsp 1.044.194/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 19/10/2017, DJe 27/10/2017.
+V - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+A Corte a quo analisou as alegações da parte com os seguintes fundamentos:
+De fato, o mero ajuizamento de ação rescisória, por si só, não é suficiente para obstar o prosseguimento da execução.
+Entretanto, no caso específico dos autos, há fundado receio de desconstituição do v. Acórdão rescindendo, de modo que, por cautela, recomenda-se a retenção dos valores depositados nos autos até o trânsito em julgado da rescisória.
+ ..
+Não se pode perder de vista que, diante das fundadas dúvidas sobre o título judicial no qual se funda a presente execução, foi determinada até mesmo a realização de nova perícia, nos autos daquela ação rescisória.
+Dessa forma, não há que se falar em valor incontroverso, o que impede o levantamento de qualquer quantia depositada nos autos, visto que, embora o Estado tenha apresentado planilhas de cálculos com indicação dos critérios de atualização monetária que entende corretos (fls. 107/111), ainda remanescem dúvidas acerca da certeza e exigibilidade do próprio título executivo e, quanto a isso, há controvérsia.
+Ainda vale lembrar que o valor total depositado supera R$ 48.000.000,00 (quarenta e oito milhões de reais), de modo que, por cautela, é mesmo recomendável aguardar o trânsito em julgado da ação rescisória, tendo em vista a possibilidade de desconstituição do título executivo judicial.
+E é evidente o risco de dano irreversível ao patrimônio público que poderia decorrer de eventual rescisão do v. Acórdão executado após a liberação de valores de tal monta, enquanto, por outro lado, os agravantes têm a certeza de que a quantia permanece depositada, com a incidência de juros, a qual pode ser liberada assim que transitada em julgado a ação rescisória.
+Nesse contexto, foi mesmo acertada a r. decisão agravada, razão pela qual merece ser integralmente mantida.
+Não há violação do art. 1.022 do CPC/2015 (art. 535 do CPC/1973) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 165 do CPC/1973 e art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+Verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Ressalte-se, ainda, que a incidência do enunciado sumular n. 7, quanto à interposição pela alínea a, impede o conhecimento da divergência jurisprudencial, diante da patente impossibilidade de similitude fática entre acórdãos. Nesse sentido: AgInt no AREsp 1.044.194/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 19/10/2017, DJe 27/10/2017.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
