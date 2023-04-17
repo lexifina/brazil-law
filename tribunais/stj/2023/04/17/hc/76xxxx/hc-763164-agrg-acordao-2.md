@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 11/04/2023 a 17/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik, Messod Azulay Neto e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Joel Ilan Paciornik.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. MINORANTE ESPECIAL DA LEI DE DROGAS. RÉU QUE SE DEDICA AO COMÉRCIO ILÍCITO. NÃO APLICAÇÃO. RECURSO NÃO PROVIDO.
+1. Hipótese em que a Corte de origem manteve afastada a minorante especial da Lei de Drogas, por entender que a quantidade de drogas apreendidas - aproximadamente 3kg de maconha -, e a apreensão de balança de precisão e caderno com anotações típicas da contabilidade do tráfico, no bar onde o réu trabalhava, indicam sua habitualidade no comércio ilícito de entorpecentes. Desse modo, assentado pela instância antecedente, soberana na análise dos fatos, que o réu é contumaz no comércio espúrio, a modificação desse entendimento - a fim de fazer incidir a minorante da Lei de Drogas - enseja o reexame do conteúdo probatório dos autos, o que é inadmissível em sede de habeas corpus.
+2. Ag ravo regimental não provido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por PAULO HENRIQUE AFONSO de decisão na qual concedi a ordem tão somente para estabelecer o regime inicial semiaberto - ao réu condenado pelo delito de tráfico de drogas.
+A defesa reitera ser cabível o reconhecimento do tráfico privilegiado, uma vez que preenchidos os requisitos legais.
+Requer a aplicação da minorante especial da Lei de Drogas e sua intimação pessoal para sustentar oralmente.
+É o relatório.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. MINORANTE ESPECIAL DA LEI DE DROGAS. RÉU QUE SE DEDICA AO COMÉRCIO ILÍCITO. NÃO APLICAÇÃO. RECURSO NÃO PROVIDO.
+1. Hipótese em que a Corte de origem manteve afastada a minorante especial da Lei de Drogas, por entender que a quantidade de drogas apreendidas - aproximadamente 3kg de maconha -, e a apreensão de balança de precisão e caderno com anotações típicas da contabilidade do tráfico, no bar onde o réu trabalhava, indicam sua habitualidade no comércio ilícito de entorpecentes. Desse modo, assentado pela instância antecedente, soberana na análise dos fatos, que o réu é contumaz no comércio espúrio, a modificação desse entendimento - a fim de fazer incidir a minorante da Lei de Drogas - enseja o reexame do conteúdo probatório dos autos, o que é inadmissível em sede de habeas corpus.
+2. Ag ravo regimental não provido.
+VOTO
+O agravante não trouxe argumentos suficientes para infirmar a decisão impugnada, razão pela qual mantenho-a por seus próprios fundamentos.
+A Corte estadual trouxe motivação suficiente para se concluir pela habitualidade delitiva do agente. Vejamos:
+Na terceira fase, não era mesmo de aplicação do redutor previsto no art. 33, § 4º, da Lei n. 11.343/06. Sabe-se que o redutor não pode incidir como regra, bastando seja o agente primário e de bons antecedentes, mas, sim, excepcionalmente, ao traficante eventual, como por exemplo: viciado que fornece parte de sua droga para outro usuário, porque em falta o entorpecente nos pontos de venda ilícita. E essa não é a situação dos autos. Foi apreendida considerável quantidade de maconha (aproximadamente três quilos), droga que o próprio réu admitiu ter recebido de uma pessoa, um tal de Cláudio, para vender. Também foi apreendida uma balança de precisão e um caderno com anotações típicas da contabilidade do tráfico, tudo a demonstrar a dedicação do acusado ao comércio ilícito de entorpecentes.
+Na sentença, consta:
+o acusado, Paulo Henrique Afonso, confessou para a autoridade policial que a droga era de sua propriedade e que havia comprado de um indivíduo para realizar, posteriormente, a venda. Ressalto ainda que a quantidade de drogaencontrada é grande, consistente em 3,5 tijolos de maconha, como mostra o laudo pericial (fls. 303/305), envolta em um saco amarelo, com inscrições "PlanetGirl", obviamente destinado para o tráfico de droga, previsto no artigo 33, da Lei11.343/06. Além do entorpecente apreendido, no mesmo local estava um caderno contendo diversas anotações, como nomes e valores, imprecisos, e uma balança de precisão, configurando assim que o local era usado como ponto de tráfico.
+In casu, observa-se que a Corte de origem manteve afastada a minorante, por entender que a quantidade de drogas apreendidas - aproximadamente3kg de maconha -, e a apreensão de balança de precisão e caderno com anotações típicas da contabilidade do tráfico, indicam a habitualidade do réu com o tráfico de entorpecentes. Desse modo, assentado pela instância antecedente, soberana na análise dos fatos, que o réu é contumaz no comércio espúrio, a modificação desse entendimento - a fim de fazer incidir a minorante da Lei de Drogas - enseja o reexame do conteúdo probatório dos autos, o que é inadmissível em sede de habeas corpus.
+No mesmo sentido, observe-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. INCIDÊNCIA DO REDUTOR PREVISTO NO § 4º DO ART. 33 DA LEI N. 11.343/06. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. REGIME FECHADO DEVIDAMENTE FUNDAMENTADO. GRAVIDADE CONCRETA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A causa especial de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/06 é aplicável desde que o agente seja primário, de bons antecedentes, não se dedique a atividades criminosas, nem integre organização criminosa.
+No caso, a apreensão de quantidade expressiva de drogas (1,6kg de cocaína e 125g de maconha), apontada de forma supletiva, dinheiro em espécie, R$ 1.920,00 (mil novecentos e vinte reais), balança de precisão, um caderno com anotações referentes à contabilidade do tráfico, dentre outros elementos, demonstram a dedicação do apenado às atividades criminosas, conclusão que não pode ser afastada em habeas corpus, por demandar reexame aprofundado de matéria fática.
+2. A quantidade e a natureza da droga demonstram a gravidade concreta do delito, justificando, por força do princípio da individualização da pena, o agravamento do aspecto qualitativo (regime) da pena. Precedentes.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 763.502/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 12/12/2022, DJe de 14/12/2022.)
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
