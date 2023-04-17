@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 11/04/2023 a 17/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S.A. contra decisão monocrática proferida por mim, no exercício da presidência do STJ, em que não conheci do recurso especial em razão dos óbices das Súmulas n. 284/STF e 7/STJ (fls. 801-805).
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO assim ementado (fl. 702):
+DIREITO ADMINISTRATIVO. APELAÇÃO. ANS. MULTA. PROCEDIMENTO CIRÚRGICO DE EMERGÊNCIA. DEMORA INJUSTIFICADA NA AUTORIZAÇÃO. INFRAÇÃO CONFIGURADA. REPARAÇÃO VOLUNTÁRIA E EFICAZ. INOCORRÊNCIA. LEGALIDADE, RAZOABILIDADE E PROPORCIONALIDADE DA MULTA APLICADA. SUBSTITUIÇÃO PELA PENALIDADE DE ADVERTÊNCIA. IMPOSSIBILIDADE.
+1. Mantém-se a multa à operadora que negou ao usuário cobertura obrigatória de procedimentos cirúrgicos em 6/12/2012, solicitados em caráter de emergência pelo médico assistente, em 27/11/2012, violando, assim, o artigo 35-C, I, da Lei nº 9.656/98 e no artigo 79 da Resolução Normativa nº 124/2006.
+2. As Resoluções da ANS, expedidas nos termos das Leis nos 9.656/1998 e 9.961/2000, que regulamentam os artigos 3º e 174 da Constituição da República, legitimam a Agência Nacional de Saúde, no exercício do poder de polícia, a apurar infrações a dispositivos legais ou infralegais disciplinadores da assistência médico-hospitalar suplementar.
+3. A natureza emergencial do atendimento estará caracterizada na declaração do médico assistente, profissional competente para identificar as situações que implicam risco imediato de vida ou de lesões irreparáveis ao paciente, nos termos do art. 35-C, I, da Lei nº 9.656/98. A norma não utiliza o critério estritamente temporal para definição do caráter emergencial do procedimento, de modo que o agendamento cirúrgico para data posterior ao pedido, por si só, não é suficiente para caracterizá-lo como eletivo.
+4. O relatório médico, que acompanhou a guia de solicitação de internação preenchida em 27/11/12 pelo médico assistente, deixa claro o grave quadro clínico do paciente ao requerer a realização dos procedimentos cirúrgicos em caráter de urgência a fim de evitar a paralisia completa dos seus membros inferiores, o que torna inaplicável ao caso o art. 3º, XIIII, da RN nº 259/2011, referente ao prazo de vinte e um dias para atendimento em regime de internação eletiva.
+5. A indicação médica pelo caráter emergencial do procedimento passou pelo crivo técnico da agência reguladora, sendo por ela corroborada, sem prova em contrário nos presentes autos, fazendo laborar presunção de legitimidade.
+6. O instituto da reparação voluntária e eficaz (art. 11, §2º, da Resolução Normativa ANS 48/2003), quanto a "prática infrativa que implicar risco ou consequências danosas à saúde do consumidor", possui termo final distinto dos casos ordinários, fixado na "data anterior à requisição de informações ou deflagração de ação fiscalizatória de que trata o art. 10 desta Resolução". Como, no caso, a notificação para informações foi recebida em 14/12/2012, a autorização do procedimento em 17/12/2012 não se pode reputar voluntária e eficaz.
+7. A operadora subordina-se à fiscalização da ANS e, no caso, observados os princípios da razoabilidade e proporcionalidade, nada justifica a anulação do ato administrativo, fundamentado dentro dos parâmetros legais e com base em infração comprovadamente existente, ou a conversão da penalidade pecuniária em advertência. A multa, de R$ 100 mil, foi aplicada de acordo com o artigo 35-C, I, da Lei nº 9.656/98 e no artigo 79 da Resolução Normativa nº 124/2006.
+8. O quantum da penalidade somente pode considerar-se excessivo caso cotejado com a capacidade financeira da operadora, que não restou minimamente demonstrada nos autos, a fim de que a penalidade atenda a seu propósito educativo e punitivo, desestimulando a repetição de conduta que, repita-se, caso seja padronizada no âmbito da operadora, possui o potencial de gerar perigo à vida de inúmeros segurados sob sua responsabilidade.
+9. Apelação desprovida.
+Rejeitados os embargos de declaração opostos (fls. 729-730).
+Alega a agravante que a Súmula n. 284/STF não seria aplicável ao seu recurso especial, pois teria demonstrado de forma clara o desrespeito ao art. 35-C, inciso I, da Lei n. 9.656/98.
+Aduz, ainda, que não seria necessário o reexame de fatos e provas, pois o acórdão recorrido teria ignorado o art. 35-C, inciso I, da Lei n. 9.656/98, "que define o caso de emergência apenas para a situação em que há risco imediato, exigindo atuação médica imediata" (fl. 815).
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+A agravada, instada a manifestar-se, apresentou contrarrazões (fls. 822-831).
+É, no essencial, o relatório.
+EMENTA
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. VERIFICAÇÃO DA LEGALIDADE DE MULTA APLICADA PELA ANS. REEXAME DE FATOS E PROVAS. ÓBICE DA SÚMULA N. 7/STJ.
+1. A decisão agravada não conheceu do recurso especial em razão dos óbices das Súmulas n. 284/STF e 7/STJ.
+2. O acórdão recorrido consignou que "o relatório médico, que acompanhou a guia de solicitação de internação preenchida em 27/11/12 pelo médico assistente, deixa claro a gravidade do quadro clínico do paciente ao requerer a realização dos procedimentos cirúrgicos em caráter de urgência a fim de evitar a paralisia completa dos seus membros inferiores" e que "a atuação técnica da agência chancelando o caráter emergencial do procedimento, como verdadeiro pressuposto de fato para a tipificação da infração, acobertou a indicação médica com a presunção de legitimidade, reforçando a necessidade de prova técnica para ilidir esse aspecto, prova essa não produzida nestes autos"
+3. Com base no contexto fático-probatório dos autos, o Tribunal de origem reconheceu a legalidade do auto de infração lavrado pela ANS, tendo em vista a demora injustificada da agravante para autorizar procedimento de urgência. Incide, no caso o óbice da Súmula n. 7/STJ.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+O agravo interno não deve ser provido, pois as razões da parte agravante não são capazes de refutar a decisão agravada.
+A decisão agravada não conheceu do recurso especial com base na incidência da Súmula n. 284/STF e da Súmula n. 7/STJ.
+O Tribunal de origem confirmou a sentença que manteve a multa administrativa aplicada contra a parte agravante, conforme seguinte trecho (fls. 699-700):
+O relatório médico, que acompanhou a guia de solicitação de internação preenchida em 27/11/12 pelo médico assistente, deixa claro a gravidade do quadro clínico do paciente ao requerer a realização dos procedimentos cirúrgicos em caráter de urgência a fim de evitar a paralisia completa dos seus membros inferiores (fls. 198/199).
+É inaplicável ao caso o art. 3º, XIIII, da RN nº 259/2011, que prevê o prazo de vinte e um dias úteis para garantia do atendimento em regime de internação eletiva, pois, como visto, a hipótese é de urgência, devendo o pedido ser autorizado imediatamente, nos exatos termos da solicitação médica.
+Ainda que assim não fosse, a indicação do médico assistente, no sentido do caráter emergencial do procedimento a ser autorizado, passou pelo crivo técnico da agência reguladora, sem que tivesse sido feita qualquer ressalva a respeito da correção dessa indicação (a qual, pelo contrário, restou corroborada pela ANS). Desse modo, a atuação técnica da agência chancelando o caráter emergencial do procedimento, como verdadeiro pressuposto de fato para a tipificação da infração, acobertou a indicação médica com a presunção de legitimidade, reforçando a necessidade de prova técnica para ilidir esse aspecto, prova essa não produzida nestes autos.
+Em seu recurso especial, alega a parte agravante que o acórdão recorrido violou o art. 35-C, inciso I, da Lei n. 9.656/98, ao reconhecer a legalidade do auto de infração lavrado contra a operadora em decorrência da demora de autorização para procedimento.
+Argumenta que não há falar em natureza emergencial de procedimento cirúrgico agendado para data posterior ao pedido.
+O recurso especial da parte agravante não possui condições de conhecim ento.
+O Tribunal de origem, com base no contexto fático-probatório dos autos, reconheceu a legalidade do auto de infração lavrado pela ANS, tendo em vista a demora injustificada da agravante para autorizar procedimento de urgência.
+Desconstituir o caráter de urgência do procedimento, registrado no acórdão, demandaria reanálise de fatos e provas, o que é inviável em recurso especial.
+Incide, no caso, o óbice da Súmula n. 7/STJ.
+Nesse sentido, cito :
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE TRATAMENTO. RECUSA INDEVIDA. URGÊNCIA. REEMBOLSO DEVIDO. MATÉRIA QUE DEMANDA REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DAS SÚMULAS 5, 7 E 83 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O Tribunal de origem, com arrimo no acervo fático-probatório carreado aos autos, concluiu que ficou comprovado que o quadro clínico do segurado, ora agravado, era de urgência. A pretensão de modificar tal entendimento demandaria a análise de cláusulas do contrato original firmado entre as partes e das peculiaridades fáticas do tratamento pleiteado, o que encontraria óbice nas Súmulas 5 e 7, ambas do Superior Tribunal de Justiça.
+2. Agravo interno desprovido.
+(AgInt nos EDcl no AgRg no REsp n. 1.603.005/MS, relator Ministro Raul Araújo, Quarta Turma, julgado em 26/11/2019, DJe de 19/12/2019.)
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
