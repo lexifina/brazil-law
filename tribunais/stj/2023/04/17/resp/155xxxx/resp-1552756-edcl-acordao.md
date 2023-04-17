@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 11/04/2023 a 17/04/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de embargos de declaração opostos por POLIMIX CONCRETO LTDA. contra acórdão da Segunda Turma que não conheceu do agravo interno com fundamento na Súmula n. 182/STJ.
+O aresto embargado tem a seguinte ementa (fl. 574):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. FUNDAMENTOS NÃO IMPUGNADOS. SÚMULA 182/STJ. INCIDÊNCIA.
+1. É inviável o agravo que deixa de atacar, especificamente, todos os fundamentos da decisão impugnada. Incidência, por analogia, da Súmula 182 do Superior Tribunal de Justiça.
+2. Agravo interno não conhecido.
+Sustenta a parte embargante que (fl. 581):
+Os Exmos. Ministros ao não conhecer o agravo não sopesaram devidamente os argumentos e a pretensão da Embargante, haja vista que não reconheceu o Agravo em Recurso Especial, alegando não ter sido impugnado especificamente todos os fundamentos da decisão recorrida. De forma contrária ao alegado no r. Acórdão, a decisão agravada inadmitiu o recurso especial, supostamente em razão de ausência de prequestionamento, com fundamento nas Súmulas 282/STF e 211/STJ.
+Aduz, ainda, que (fl. 582):
+ ..  o Egrégio Tribunal estadual expressou entendimento implícito sobre a matéria referente ao disposto nos arts. 1º da Lei n. 12.016/2009; 17, § 2º, da Lei Complementar n. 140/2011; 2º, § 1º, V, VIII e X, e 68 da Lei n. 9.784/1999, pois, ao alegar que não houve cerceamento de defesa, por ausência de processo administrativo o acórdão estava tratando diretamente da Lei 9.784/199, que regula o processo administrativo no âmbito da Administração Pública Federal e do art. 17, § 2º, da Lei Complementar n. 140/2011, que trata da instauração de processo administrativo para apuração de infrações ambientais e da Lei n. 12.016/2009!!
+A embargante também alega que (fl. 583):
+A jurisprudência do STJ afirma que, para admissibilidade do recurso especial, admite-se o prequestionamento implícito, ou seja, segundo a concepção deste Egrégio Tribunal, tribunal de origem, não precisa mencionar expressamente as questões jurídicas que envolvam a lei tida por vulnerada.
+Ademais, os artigos 102, III e 105, III da Constituição Federal não estabelecem esse requisito para a interposição de tais recursos. O que os dispositivos exigem é que a matéria tenha sido decidida em única ou última instância.
+Requer, ao final, o acolhimento dos embargos declaratórios para sanar a omissão e afastar a aplicação da Súmula n. 182/STJ.
+É, no essencial, o relatório.
+EMENTA
+ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. MANDADO DE SEGURANÇA. MEIO AMBIENTE. LICENÇA. AUSÊNCIA DE PREQUESTIONAMENTO. LEI LOCAL. SÚMULA N. 280/STF. SÚMULA N. 182/STJ. APLICAÇÃO. INEXISTÊNCIA DE VÍCIO NO JULGADO.
+1. Cuida-se de mandado de segurança impetrado contra ato do Secretário Municipal de Planejamento de Pouso Alegre, que denegou a suspensão dos efeitos da cassação da Licença de Localização e Funcionamento e da mudança de endereço da atividade da impetrante.
+2. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica no caso dos autos.
+3. O acórdão embargado, de maneira clara e fundamentada, não conheceu do agravo interno por entender que a rec orrente não impugnou todos os fundamentos da decisão que não conheceu o recurso especial, quais sejam, a ausência de prequestionamento e a Súmula n. 280/STF.
+4. A pretensão de rediscutir matéria devidamente abordada e decidida no julgado embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via eleita.
+Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Em síntese, cuida-se de mandado de segurança impetrado por POLIMIX CONCRETO LTDA. contra ato do Secretário Municipal de Planejamento de Pouso Alegre, que denegou a suspensão dos efeitos da cassação da Licença de Localização e Funcionamento e da mudança de endereço da atividade da impetrante.
+Nos termos do art. 1.022 do CPC, os embargos de declaração destinam-se a corrigir erro material, esclarecer obscuridade, eliminar contradição ou suprir omissão existente na decisão embargada.
+Quanto à omissão, esclareço que o argumento da embargante, de que impugnou os fundamentos da decisão, não merece prosperar. A propósito, da análise do agravo interno observa-se que a parte agravante deixou de impugnar especificamente os fundamentos da decisão agravada, conforme exigido pelo art. 253, parágrafo único, inciso I, do RISTJ, a saber: ausência de prequestionamento e Súmula n. 280/STF, sendo que este último nem sequer foi citado.
+Veja-se que a refutação apta a infirmar a decisão agravada deve ser efetiva, individualizada, específica e fundamentada (AgInt no REsp n. 1.535.657/MT, relator Ministro Luís Felipe Salomão, Quarta Turma, DJe de 26/8/2020).
+Em relação ao óbice da ausência de prequestionamento dos arts. 1º da Lei n. 12.016/09, 17, § 2º, da Lei Complementar n. 140/11, 2º, § 1º, incisos V, VIII e X, e 68 da Lei n. 9.784/99, cumpre destacar que, para a caracterização de prequestionamento ficto, a jurisprudência desta Corte exige, além da oposição de embargos de declaração, a indicação de ofensa ao art. 1.022 do CPC no recurso especial, o que não foi realizado pela recorrente. A propósito, cito precedente:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DECLARATÓRIOS NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. DANOS MORAIS E MATERIAIS. ALEGADA VIOLAÇÃO AOS ARTS. 6º, 350 E 369 DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. ART. 1.025 DO CPC/2015. INAPLICABILIDADE, NO CASO. PRINCÍPIO DO LIVRE CONVENCIMENTO MOTIVADO. CERCEAMENTO DE DEFESA. REEXAME. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara Recurso Especial interposto contra acórdão publicado na vigência do CPC/2015.
+II. Não tendo o acórdão hostilizado expendido juízo de valor sobre os arts. 6º, 350 e 369 CPC/2015, a pretensão recursal esbarra em vício formal intransponível, qual seja, o da ausência de prequestionamento - requisito viabilizador da abertura desta instância especial -, atraindo o óbice da Súmula 282 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada"), na espécie.
+III. Para que se configure o prequestionamento, não basta que o recorrente devolva a questão controvertida para o Tribunal, em suas razões recursais. É necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como seja exercido juízo de valor sobre os dispositivos legais indicados e a tese recursal a eles vinculada, interpretando-se a sua aplicação ou não, ao caso concreto.
+IV. Na forma da jurisprudência do STJ, "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (STJ, REsp 1.639.314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe de 10/04/2017).
+V. Consoante se depreende dos autos, o acórdão recorrido não expendeu juízo de valor sobre os arts. 6º, 350 e 369 CPC/2015, invocado na petição do Recurso Especial, nem a parte ora agravante opôs os cabíveis Embargos de Declaração, nem suscitou, perante o Tribunal de origem, qualquer nulidade do acórdão recorrido, por suposta ausência da devida fundamentação do julgado, não se alegando, no Especial, ademais, violação ao art. 1.022 do CPC/2015, razão pela qual impossível aplicar-se, no caso, o art. 1.025 do CPC vigente.
+VI. Ademais, a jurisprudência desta Corte é pacífica no sentido de que cabe ao magistrado, destinatário da prova, valorar sua necessidade ou não, conforme o princípio do livre convencimento motivado. Não obstante, o entendimento desta Corte é firme no sentido de que a aferição acerca da necessidade de produção de prova impõe o reexame do conjunto fático-probatório encartado nos autos, o que é defeso ao STJ, em Recurso Especial, ante o óbice erigido pela Súmula 7/STJ. Precedentes.
+VII. Agravo interno improvido.
+(AgInt nos EDcl no REsp n. 1.958.547/MT, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 7/12/2022, DJe de 14/12/2022, grifo meu.)
+Na verdade, a parte embargante não se conforma com o não conhecimento do recurso especial e, ainda neste momento, pleiteia novo julgamento da demanda. Todavia, os embargos de declaração não são a via adequada para se buscar o rejulgamento da causa.
+A propósito, cito:
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. PRETENSÃO DE PARCELAMENTO DO DÉBITO EXEQUENDO. IMPOSSIBILIDADE. INEXISTÊNCIA DOS VÍCIOS ENSEJADORES À OPOSIÇÃO DOS DECLARATÓRIOS. EMBARGOS REJEITADOS.
+1. Nos termos do que dispõe o art. 1.022 do CPC/2015, os embargos de declaração são cabíveis apenas quando amparados em suposta omissão, contradição, obscuridade ou erro material na decisão embargada, não se caracterizando via própria ao rejulgamento da causa.
+2. Na hipótese, o acórdão embargado encontra-se suficientemente fundamentado, em relação à aplicabilidade dos arts. 805 e 916, § 7º, do CPC, seja em relação à alínea a do permissivo constitucional seja em relação à alínea c.
+3. Embargos de declaração rejeitados.
+(EDcl no REsp n. 1.891.577/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 2/9/2022, grifo meu.)
+No mesmo sentido: EDcl no AgInt no AREsp n. 1.896.238/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 25/3/2022; EDcl no AgInt no AREsp n. 1.880.896/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 26/5/2022.
+A pretensão de rediscutir matéria devidamente abordada e decidida no julgado embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via eleita.
+Portanto, é evidente que os presentes embargos são incabíveis, pois veiculam pretensão exclusivamente infringente do julgado, sem o propósito específico de sanar obscuridade, contradição, omissão ou erro material. Ante o exposto, rejeito os embargos de declaração.
+É como penso. É como voto.
