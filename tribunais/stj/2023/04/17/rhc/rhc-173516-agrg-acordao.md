@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 11/04/2023 a 17/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Sebastião Reis Júnior, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+ANDRE DECELLI agrava de decisão em que julguei prejudicado o recurso em habeas corpus.
+No regimental, a defesa afirma que a declaração da superveniente perda do objeto deste feito "está em desacordo com a situação fática retratada, pois há nítido interesse do Paciente em ver analisada a nulidade absoluta arguida, a qual, se acolhida, afastará a própria r. decisão de recebimento da denúncia" (fl. 466).
+Pondera que "não ocorreu alteração alguma da "moldura fática" que sustenta a tese da Defesa que pudesse justificar o encerramento prematura (sic) da tramitação do recurso em habeas corpus" (fl. 466).
+Aduz que "a r. decisão agravada tomou como base apenas uma das possibilidades que poderá ser adotada pelo magistrado singular, deixando de considerar (i) a probabilidade de manutenção da persecução penal se, diante do "novo exame do caso", existirem "elementos autônomos e suficientes para configurar a justa causa para a persecução penal", (ii) a total independência e autonomia das teses veiculas no presente caso e no Recurso Ordinário em Habeas Corpus nº 119.342/SP e, sobretudo, (iii) o fato de o provimento ao Recurso Ordinário em Habeas Corpus nº 119.342/SP, embora tenha anulada as interceptações telefônicas, não anulou a r. decisão de recebimento da denúncia, justamente o ato judicial impugnado no presente caso" (fls. 466-467).
+Pugna pela reconsideração da decisão agravada ou pela submissão do feito ao órgão colegiado, a fim de que conheça do recurso e lhe dê provimento.
+Às fls. 476-487, a defesa protocolou pedido de reconsideração, diante das seguintes circunstâncias fáticas: a) "em 27.10.2022, o Ministério Público do Estado de São Paulo interpôs Recurso Extraordinário, com pedido de efeito suspensivo, nos autos do RHC 119.342/SP, objetivando a reforma do v. acórdão prolatado pela colenda 6ª Turma"; b) "no último dia 06 de fevereiro, o Ministro Og Fernandes, DD. Vice-Presidente deste colendo Tribunal Superior, admitiu o Recurso Extraordinário interposto pelo Parquet e deferiu o pedido cautelar para atribuir efeito suspensivo ao aludido recurso e, assim, sobrestar os efeitos do v. acórdão que anulou as interceptações telefônicas prolatado nos autos do RHC 119.342/SP" (ambos à fl. 477).
+Sustenta que, "consequentemente, a r. decisão monocrática que julgou prejudicado o presente RHC não mais pode subsistir, posto que os efeitos do v. acórdão prolatado nos autos do RHC 119.342/SP estão sobrestados por força do efeito suspensivo concedido ao reclamo extremo ministerial" (fl. 478).
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. OPERAÇÃO SEVANDIJA. PROVIMENTO DO RHC N. 119.342/SP. EXTENSÃO DOS EFEITOS AOS CORRÉUS. PERDA SUPERVENIENTE DO OBJETO DESTE FEITO. AGRAVO NÃO PROVIDO.
+1. Conforme delineado nas razões deste agravo, o objeto deste recurso em habeas corpus é a declaração da nulidade da decisão que recebeu a denúncia.
+2. Todavia, com o provimento do RHC n. 119.342/SP por este órgão colegiado - com a extensão dos efeitos a todos os corréus da Operação Sevandija -, fica claro que o ato judicial atacado será substituído por outro, a ser proferido pelo Juízo de primeiro grau, consoante determinado pela Sexta Turma ao julgar o referido recurso, in verbis: "após descartar todos esses elementos viciados pela ilicitude, averiguar se há outros obtidos por fonte totalmente independente ou cuja descoberta seria inevitável, a permitir o prosseguimento do feito".
+3. Quanto à atribuição de efeito suspensivo, pela Vice-Presidência desta Corte Superior, ao Recurso Extraordinário interposto pelo Ministério Público no RHC n. 119.342/SP, forçoso reconhecer que, com a prolação de tal decisum, em verdade, o Superior Tribunal de Justiça tornou-se, ele mesmo, autoridade coatora, motivo pelo qual eventual irresignação deve ser endereçada ao Supremo Tribunal Federal.
+4. Agravo não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+A despeito das ponderações defensivas, não vejo como alterar a decisão agravada. Conforme delineado nas razões deste agravo, o objeto deste recurso em habeas corpus é a declaração da nulidade da decisão que recebeu a denúncia.
+Todavia, com o provimento do RHC n. 119.342/SP por este órgão colegiado - com a extensão dos efeitos a todos os corréus da Operação Sevandija -, fica claro que o ato judicial atacado será substituído por outro, a ser proferido pelo Juízo de primeiro grau, consoante determinado pela Sexta Turma ao julgar o referido recurso, in verbis: "após descartar todos esses elementos viciados pela ilicitude, averiguar se há outros obtidos por fonte totalmente independente ou cuja descoberta seria inevitável, a permitir o prosseguimento do feito" (grifei).
+Logo, está correta a conclusão pela superveniente perda do objeto do feito.
+Quanto à atribuição de efeito suspensivo, pela Vice-Presidência desta Corte Superior, ao Recurso Extraordinário interposto pelo Ministério Público no RHC n. 119.342/SP, forçoso reconhecer que, com a prolação de tal decisum, em verdade, o Superior Tribunal de Justiça tornou-se, ele mesmo, autoridade coatora, motivo pelo qual eventual irresignação deve ser endereçada ao Supremo Tribunal Federal.
+Nesse sentido:
+ ..
+3. Por fim, não há se falar em concessão de habeas corpus de ofício por esta Corte, uma vez que a condenação foi restabelecida pelo Superior Tribunal de Justiça, o qual se tornou, portanto, a autoridade coatora. Inviável, igualmente o encaminhamento da petição ao Supremo Tribunal Federal, por se tratar de embargos de declaração em recurso especial. Dessa forma, deve o embargante se utilizar da via própria.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no REsp n. 1.557.577/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 10/8/2018)
+À vista do exposto, nego provimento ao agravo regimental.
