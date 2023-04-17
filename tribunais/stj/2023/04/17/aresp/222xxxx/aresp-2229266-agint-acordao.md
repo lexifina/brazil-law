@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 11/04/2023 a 17/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora): Cuida-se de agravo interno interposto por FUNDAÇÃO PETROBRÁS DE SEGURIDADE SOCIAL - PETROS, contra decisão monocrática que conheceu do agravo e, com fundamento no art. 932, III, do CPC, não conheceu do recurso especial.
+Ação: condenatória em obrigação de fazer e de pagar quantia, ajuizada por LUIZ EDMUNDO VARELLA MEIRELLES, em face da FUNDAÇÃO PETROBRÁS DE SEGURIDADE SOCIAL - PETROS, com a finalidade de não ter a contribuição extraordinária descontada de sua folha de pagamento, e de ter devolvida aquelas que já o foram, sob o fundamento de fazer parte do grupo dos segurados denominado "Pré-70".
+Decisão interlocutória: negou a tutela de urgência para impedir os descontos da contribuição extraordinária na folha de pagamento do agravado.
+Acórdão: deu provimento ao Agravo de Instrumento interposto pelo agravado, nos termos da seguinte ementa:
+"Agravo de Instrumento. Previdenciário. PETROS. Plano de equacionamento do déficit. Contribuição extraordinária. Agravante que alega fazer parte do grupo "PRÉ-70" e por isso não está sujeito ao pagamento da contribuição extraordinária decorrente do déficit. Decisão que indefere a tutela de urgência em que o agravante requer que a agravada se abstenha de realizar o desconto referente à contribuição extraordinária.
+Em sede de cognição sumária, tem-se que o Agravante preencheu os requisitos de enquadramento no "Grupo Pré 70", pelo que resta caracterizada a probabilidade do direito. Verba de caráter alimentar, presente o periculum in mora. Ausência de risco de irreversibilidade da medida. Presentes os requisitos do artigo 300 do CPC. Reforma da decisão para conceder a tutela de urgência pleiteada.
+Provimento do recurso." (e-STJ fl. 187)
+Embargos de Declaração: opostos, pela agravante, foram rejeitados. (e-STJ fl. 209/214)
+Recurso especial: defende ter o Tribunal de origem violado os arts. 1º, § 1º, 6º, § 1º, e 21 da Lei Complementar 109/2001; 932, V, do CPC; e 29 da Resolução 26 do CGPC, bem assim divergido da jurisprudência de outras Cortes, porquanto concedeu a tutela provisória de urgência para impedir o desconto da contribuição previdenciária extraordinária na folha de pagamento do recorrido.
+Decisão monocrática: conheceu do agravo e, com fundamento no art. 932, III, do CPC, não conheceu do recurso especial.
+Razões do agravo interno: sustenta a inaplicabilidade do óbice sumular apontado na decisão agravada.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CONDENATÓRIA EM OBRIGAÇÃO DE FAZER E DE PAGAR QUANTIA. INCONFORMISMO QUANTO A INCIDÊNCIA DA SÚMULA 568/STJ. NÃO AFASTAMENTO. MANUTENÇÃO DA DECISÃO AGRAVADA.
+1. Ação condenatória em obrigação de fazer e de pagar quantia.
+2. A insurgência da parte agravante quanto à incidência da Súmula 568/STJ, sem a devida demonstração de não aplicação ao caso, obsta o provimento do agravo interno por ela manejado.
+3. Agravo interno não provido.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora): Trata-se de agravo interno interposto por FUNDAÇÃO PETROBRÁS DE SEGURIDADE SOCIAL - PETROS, contra decisão monocrática que conheceu do agravo e, com fundamento no art. 932, III, do CPC, não conheceu do recurso especial.
+Pela análise das razões recursais apresentadas, verifica-se que a parte agravante não trouxe qualquer argumento novo capaz de ilidir os fundamentos da decisão agravada.
+A parte agravante se insurge contra a incidência da Súmula 568/STJ, uma vez que por analogia aplicou-se ao caso em exame a Súmula 735/STF e, para tanto, aduz que impende ressaltar que, a despeito da existência da Súmula 735 do STF, que veda o apelo extremo contra acórdão que defere medida liminar, existem peculiaridades no caso em comento que culminam no afastamento da referida Súmula.
+No entanto, razão não assiste à parte agravante, pois no caso a Corte local consignou que restaram caracterizados os requisitos legais do artigo 300 do CPC, necessários para embasar a concessão da tutela de urgência pleiteada, pelo que deve ser reformada a decisão aqui impugnada, para que seja determinado à parte agravante que se abstenha de realizar os descontos na complementação de aposentadoria do agravado, relativos à contribuição extraordinária para o Plano Petros de Equacionamento do Déficit.
+Ainda, em tese defensiva, argumenta a parte agravante que, uma vez instada a se pronunciar sobre o tema, esta Corte houve por bem suspender liminar deferida no âmbito de Ação Civil Pública, que limitava, arbitrariamente, em 50% (cinquenta por cento) o valor devido à título de contribuições extraordinárias dos filiados e associados de Entidades Autoras, tal demanda sendo tratada na Suspensão de Liminar e de Sentença nº 2.507/RJ.
+Também, sobre essa argumentação debruçou-se a Corte local, entendendo que o objeto do recurso não é a legalidade ou não do plano PETROS de equacionamento do déficit, pelo que não se aplica a determinação de suspensão de todas as liminares que trate da legalidade das contribuições extraordinárias, proferida nos autos do pedido de suspensão de liminar e de sentença nº 2.507/RJ, pelo STJ.
+No mais, em que pese o fato de a parte agravante defender que muito embora a decisão que defere a tutela antecipada não tenha caráter definitivo, pois carece de confirmação na decisão de mérito e pode ser revogada a qualquer tempo, na hipótese dos autos a manutenção da decisão representa um risco à solvência do Plano de Benefícios de Previdência Complementar e até mesmo um risco sistêmico, tendo em vista que tal assunto afeta princípio basilar de previdência complementar.
+No ponto, a Corte local ponderou que não há risco de irreversibilidade da liminar, vez que, no caso de improcedência do pedido do agravado, poderá a parte agravante cobrar do agravado os valores que deixaram de ser descontados durante o trâmite da demanda, daí, também, porque entendeu pelo conhecimento e provimento do recurso do agravado para determinar à parte agravante que se abstenha de realizar os descontos na complementação de aposentadoria do agravado, relativos à contribuição extraordinária para o plano PETROS de equacionamento do déficit.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO do presente agravo interno.
