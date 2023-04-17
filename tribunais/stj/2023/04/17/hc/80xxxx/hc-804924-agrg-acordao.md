@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 11/04/2023 a 17/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Messod Azulay Neto e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Ribeiro Dantas.
+Presidiu o julgamento o Sr. Ministro Joel Ilan Paciornik.
+RELATÓRIO
+Trata-se de agravo regimental interposto por FERNANDO AGUILAR DOS SANTOS contra decisão de minha lavra na qual indeferi liminarmente o habeas corpus.
+No presente recurso, sustenta o agravante que a matéria aduzida no feito diz respeito à matéria de direito, afirmando que caberia a esta Corte Superior determinar que o Tribunal de origem analisasse a alegação, mormente por se tratar de réu acautelado preventivamente.
+Requer, assim, a reconsideração do decisum ou o julgamento pelo órgão colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. NEGATIVA DO RECURSO EM LIBERDADE. SUBSTITUIÇÃO DA PRISÃO PREVENTIVA POR DOMICILIAR. TESE NÃO ANALISADA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. O pleito de prisão domiciliar não foi examinado pelo Tribunal a quo, não podendo esta Corte de Justiça realizar uma análise direta das alegações, sob pena de incidir em indevida supressão de instância. Cabe à defesa o manejo do respectivo recurso, perante a Corte estadual, a fim de sanar eventual omissão, o que não se realizou na hipótese dos autos.
+2. Agravo Regimental desprovido.
+VOTO
+A decisão impugnada deve ser mantida por seus próprios fundamentos.
+Conforme destacado no decisum agravada, a alegada possibilidade de substituição da prisão preventiva por domiciliar não foi examinada pelo Tribunal a quo - que não se manifestou quanto ao tema diante da ausência de pedido da benesse perante o juízo competente - não podendo esta Corte de Justiça realizar uma análise direta das alegações, sob pena de incidir em indevida supressão de instância.
+A propósito:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO INTERNACIONAL DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GARANTIA DA ORDEM PÚBLICA. MODUS OPERANDI. QUANTIDADE DE DROGAS. PRISÃO DOMICILIAR. SUPRESSÃO DE INSTÂNCIAS. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. RECURSO NÃO PROVIDO.
+1. A defesa se insurge contra a decisão monocrática desta relatoria que negou provimento ao recurso ordinário em habeas corpus e recomendou, ao Juízo processante, a revisão da necessidade da prisão, nos termos da Lei n. 13.964/2019.
+2. Embora o crime não inclua violência ou grave ameaça, as instâncias ordinárias destacaram a necessidade da medida extrema, para fins de garantia da ordem pública, tendo em vista o modus operandi do delito: a agravante, estrangeira, teria saído do seu país de origem, o Paraguai, com destino à Europa e foi presa no Aeroporto Internacional de Foz do Iguaçu/PR, ao tentar embarcar em um vôo para Guarulhos/SP, de onde seguiria para Barcelona-Espanha, transportando 2,615Kg (dois quilos seiscentos e quinze gramas) de cocaína, avaliada em cerca de R$ 237.000,00 (duzentos e trinta e sete mil reais). O Magistrado de primeiro grau destacou, ainda, que a recorrente não possuía passagens de volta para o Brasil, tampouco vestimenta adequada para estadia na Europa, o que evidenciaria, a priori, a existência de contatos no continente Europeu. Há, portanto, adequação aos requisitos do art. 312 do Código de Processo Penal.
+3. Os precedentes desta Corte Superior estão no sentido de que a quantidade de substância entorpecente apreendida é considerada motivação idônea para a decretação e manutenção da prisão preventiva.
+4. Prisão domiciliar. Supressão de instâncias. A questão da prisão domiciliar não foi enfrentada pelo Tribunal a quo no acórdão recorrido. "Matéria não apreciada pelo Juiz e pelo Tribunal de segundo grau não pode ser analisada diretamente nesta Corte, sob pena de indevida supressão de instância" (AgRg no HC n. 525.332/RJ, Rel. Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 17/12/2019, DJe 19/12/2019).
+5. Agravo regimental conhecido e não provido.
+(AgRg no RHC n. 166.442/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 4/10/2022).
+RECURSO EM HABEAS CORPUS. CRIMES DE TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. EXCESSO DE PRAZO. NÃO OCORRÊNCIA. COMPLEXIDADE DA CAUSA. LIMITES DA RAZOABILIDADE NÃO EXCEDIDOS. FUNDAMENTO. PERICULOSIDADE CONCRETA DO AGENTE. APREENSÃO DE MAIS DE 1,6 TONELADA DE DROGA EM CONTEXTO DE ASSOCIAÇÃO CRIMINOSA VOLTADA PARA O TRÁFICO INTERESTADUAL. PRISÃO DOMICILIAR. INVIABILIDADE DE SUPRESSÃO DE INSTÂNCIA. OBSERVÂNCIA AO ART. 316, PARÁGRAFO ÚNICO, DO CPP. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1. Sabe-se que a configuração de excesso de prazo não decorre da soma aritmética de prazos legais. A questão deve ser aferida segundo os critérios de razoabilidade, tendo em vista as peculiaridades do caso.
+2. A ação penal em questão tem considerável complexidade, uma vez que conta com 18 denunciados, tendo sido necessária a expedição de diversas precatórias para oitivas fora do distrito da culpa. Há que se considerar, além disso, a excepcional situação de pandemia vivenciada no país e o fato de a instrução estar, atualmente, muito próxima do fim.
+3. Hipótese em que a prisão preventiva está devidamente fundamentada na garantia da ordem pública, em razão da periculosidade concreta do agente, evidenciada pela apreensão de grande quantidade de droga - mais de 1,6 tonelada de maconha - em contexto de associação criminosa voltada para o tráfico interestadual.
+4. A questão referente à conversão da prisão preventiva em domiciliar não foi objeto de decisão na origem, o que impede a sua análise diretamente por esta Corte, sob pena de inadmissível dupla supressão de instância.
+5. Segundo o entendimento do Supremo Tribunal Federal, a inobservância do prazo nonagesimal previsto no parágrafo único do artigo 316 do Código de Processo Penal não implica automática revogação da prisão preventiva, devendo o juiz competente ser instado a reavaliar a legalidade e a atualidade de seus fundamentos (SL n. 1.395/SP, Ministro Luiz Fux, Tribunal Pleno, julgamento em 14 e 15/10/2020).
+6. Recurso a que se nega provimento, com recomendação ao Juízo de piso para que revise a necessidade da manutenção do acautelamento preventivo do ora recorrente com periodicidade máxima de 90 dias, nos termos do art. 316, parágrafo único, do CPP, bem como para que imprima o máximo de celeridade para o fim da instrução processual.
+(RHC n. 128.148/RO, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 21/6/2021).
+Cumpre destacar que caberia à defesa o manejo do respectivo recurso, perante aquele Tribunal, a fim de sanar eventual omissão, o que não se realizou na hipótese dos autos.
+Ante o exposto, voto no sentido de negar provimento ao presente agravo regimental.
