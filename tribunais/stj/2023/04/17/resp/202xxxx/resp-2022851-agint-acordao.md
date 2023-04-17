@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 11/04/2023 a 17/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (RELATOR): Trata-se de agravo interno interposto por DROGARIAS PACHECO S/A contra decisão, assim ementada (fl. 982):
+PROCESSUAL CIVIL. TRIBUTÁRIO. RECURSO E SPECIAL. MANDADO DE SEGURANÇA. REPETIÇÃO DE INDÉBITO. VALORES REFERENTES A JUROS E CORREÇÃO PELA TAXA SELIC. RECEITA. INCLUSÃO NA BASE DE CÁLCULO DE PIS E COFINS. JURISPRUDÊNCIA DO STJ. SÚMULA 83/STJ. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 211/STJ E 282/STF. FUNDAMENTAÇÃO RECURSAL DEFICIENTE. SÚMULA 284/STF. RECURSO ESPECIAL NÃO CONHECIDO.
+A agravante, alegando os Temas Repetitivos 504 e 505, do STJ e o Tema de Repercussão Geral 962/STF, sustenta ter demonstrado a inaplicabilidade da Súmula 83/STJ.
+Sem impugnação (fl. 1.004).
+É o relatório.
+EMENTA
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. JUROS MORATÓRIOS E CORREÇÃO MONETÁRIA (SELIC). REPETIÇÃO DE INDÉBITO TRIBUTÁRIO. PIS/COFINS. BASE DE CÁLCULO. INCLUSÃO. CONFORMIDADE DO ACÓRDÃO RECORRIDO. SÚMULA 83/STJ.
+1. O presente recurso foi interposto na vigência do CPC/2015, razão pela qual incide o Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+2. A jurisprudência assente do STJ é no sentido de que incidem PIS e COFINS sobre os valores decorrentes da aplicação da taxa SELIC na restituição do indébito tributário.
+3. Incide o teor da Súmula 83/STJ, quando o acórdão recorrido expende entendimento em conformidade com a orientação jurisprudencial do STJ.
+4. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (RELATOR): O presente recurso foi interposto na vigência do CPC/2015, razão pela qual incide o Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que incidem PIS e COFINS sobre os valores decorrentes da aplicação da taxa SELIC na restituição do indébito tributário.
+Seguem os precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. INEXISTÊNCIA DE VIOLAÇÃO DOS ARTS. 489, § 1º, E 1.022 DO CPC/2015. JUROS MORATÓRIOS E CORREÇÃO MONETÁRIA (SELIC). REPETIÇÃO DE INDÉBITO TRIBUTÁRIO. INCLUSÃO NA BASE DE CÁLCULO DA CONTRIBUIÇÃO AO PIS E DA COFINS. AGRAVO INTERNO DESPROVIDO.
+ ..
+Observe-se, ademais, que julgamento diverso do pretendido, como na espécie, não implica ofensa ao dispositivo de lei invocado.
+3. Consoante entendimento do Superior Tribunal de Justiça, os valores decorrentes da aplicação da taxa Selic na restituição do indébito tributário devem compor a base de cálculo do PIS e da COFINS. Precedentes: AgInt no REsp 1.973.486/RS, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 09/05/2022, DJe de 12/05/2022; e AgInt nos EDcl no REsp 1.949.800/SC, relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 11/04/2022, DJe 25/04/2022.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.983.647/RS, relator Ministro Manoel Erhardt (Desembargador Convocado do Trf5), Primeira Turma, julgado em 15/8/2022, DJe de 17/8/2022.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. MANDADO DE SEGURANÇA. BASES DE CÁLCULO DA CONTRIBUIÇÃO AO PIS E DA COFINS. PARCELA DO DEPÓSITO JUDICIAL DERIVADA DA INCIDÊNCIA DA TAXA SELIC (JUROS  CORREÇÃO). SUPERVENIÊNCIA DE TESE DO SUPREMO TRIBUNAL FEDERAL, PELA NATUREZA DE DANO EMERGENTE. DISTINÇÃO. IRRELEVÂNCIA. INCIDÊNCIA DAS CONTRIBUIÇÕES SOBRE A PARCELA REPRESENTATIVA DA RECEITA DA PESSOA JURÍDICA. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM A ORIENTAÇÃO DESTE TRIBUNAL SUPERIOR.
+1. Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+2. Este Tribunal Superior firmou pacífica orientação jurisprudencial pela incidência da contribuição ao PIS e da COFINS sobre a parcela do depósito judicial referente à incidência da taxa Selic.
+Precedentes.
+3. E não tem o condão de alterar esse entendimento a tese fixada pelo Supremo Tribunal Federal, no RE 1.063.187/SC, segundo a qual é inconstitucional a incidência do IRPJ e da CSLL sobre os valores atinentes à taxa Selic recebidos em razão de repetição de indébito tributário (tema 962).
+4. Isso porque a remuneração do depósito judicial (taxa Selic, nos tributos federais) é componente da receita da sociedade empresária, ainda que, nos termos da tese do STF, seja classificada como espécie de dano emergente.
+5. No caso dos autos, mantém-se o acórdão do TRF4: o contribuinte não tem o direito de excluir da base de cálculo da contribuição ao PIS e da COFINS os valores recebidos a título de juros moratórios e correção monetária (taxa SELIC) incidentes na restituição de tributos recolhidos a maior.
+6. Agravo interno não provido.
+(AgInt no REsp n. 1.973.486/RS, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 9/5/2022, DJe de 12/5/2022)
+TRIBUTÁRIO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. RESTITUIÇÃO DE INDÉBITO. LEVANTAMENTO DE DEPÓSITOS JUDICIAIS. EXCLUSÃO DA BASE DE CÁLCULO DO PIS/COFINS. IMPOSSIBILIDADE. ACÓRDÃO RECORRIDO EM SINTONIA COM O POSICIONAMENTO DO STJ. RECURSO NÃO PROVIDO.
+1. O Tribunal de origem, ao dirimir a controvérsia, assim se manifestou: "As bases de cálculo do PIS e COFINS, bem como as deduções admitidas, estão definidas nas Leis nº 10.637/2002 e 10.833/2003. Para ambas, a base de cálculo é "o total das receitas auferidas no mês pela pessoa jurídica, independentemente de sua denominação ou classificação contábil". Portanto, a base de cálculo do PIS e da COFINS, apesar de continuar sendo o "faturamento mensal", equivalente à "receita bruta", foi ampliado de modo a abranger, outrossim, "todas as demais receitas auferidas pela pessoa jurídica." As deduções admitidas estão arroladas no 3º do artigo 1º da Lei nº 10.637/2002 e nos mesmos dispositivos da Lei nº 10.833/2003. Naquele rol não estão incluídos os valores em questão.
+Dessa maneira, submetida a parte impetrante ao regime não-cumulativo previsto nas Leis 10.637/02 e 10.833/03, a partir da vigência dos referidos diplomas legais, a correção monetária pela SELIC integra a base de cálculo do PIS e da COFINS" (fl. 142, e-STJ).
+2. Ao assim decidir, o acórdão recorrido se alinhou à orientação jurisprudencial do STJ segundo a qual "os valores referentes à incidência da taxa Selic (correção e juros) na repetição do indébito devem incluir a base de cálculo da contribuição ao PIS e da COFINS" (AgInt no REsp 1.906.715/RS, Rel. Ministro Og Fernandes, Segunda Turma, DJe 14.6.2021). Na mesma linha: AgInt no REsp 1.938.511/RS, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 14.10.2021; AgInt nos EDcl no REsp 1.848.930/SC, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 11.2.2021; AgRg no REsp 1.271.056/PR, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 11.9.2013.
+3. Consoante o entendimento do STJ, não se deve confundir os conceitos de renda e receita. "Renda precisa ser riqueza nova, receita não: o conceito de receita comporta quaisquer ressarcimentos e indenizações. O relevo está em que renda é a base de cálculo do Imposto de Renda e receita é a base de cálculo das contribuições ao PIS/PASEP e COFINS, ora em debate. Ressarcimento é receita, muito embora possa não ser renda. Nessa toada, não é possível invocar o precedente que trata do IRPJ e da CSLL que afasta determinada verba do conceito de renda para afastar a incidência das contribuições ao PIS/PASEP e COFINS que se dá sobre a receita - conceito mais largo que o de renda" (AgInt no REsp 1.940.279/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 17.2.2022).
+4. Ademais, cabe ressaltar que, na forma da jurisprudência do STJ, "os juros moratórios não escapam à tributação pelo PIS e Cofins, já que compõem a esfera de disponibilidade patrimonial do contribuinte, que, no caso dos depósitos efetuados na forma da Lei 9.703/1998, ocorre no momento da devolução ao depositante da quantia depositada, acrescida de juros calculados na forma estabelecida pelo § 4º do art. 39 da Lei 9.250/1995 (taxa Selic)" (AgInt no REsp 1.920.229/SC, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 31.8.2021).
+5. Agravo Interno não provido.
+(AgInt nos EDcl no REsp n. 1.949.800/SC, relator Ministro Herman Benjamin, Segunda Turma, julgado em 11/4/2022, DJe de 25/4/2022)
+Aplicável, pois, o teor da Súmula 83/STJ quando o acórdão recorrido expende entendimento em conformidade com a orientação jurisprudencial do STJ.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
