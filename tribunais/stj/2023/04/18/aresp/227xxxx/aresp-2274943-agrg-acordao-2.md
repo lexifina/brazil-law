@@ -1,0 +1,34 @@
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FALTA DE IMPUGNAÇÃO ESPECÍFICA À DECISÃO QUE INADMITIU O RECURSO ESPECIAL NA ORIGEM. INCIDÊNCIA DA SÚMULA 182/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos da Súmula 182/STJ, não pode ser conhecido o agravo em recurso especial, por não ter impugnado de maneira específica todos os fundamentos da decisão de inadmissão do recurso especial na origem.
+2. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Joel Ilan Paciornik, Messod Azulay Neto, João Batista Moreira (Desembargador convocado do TRF1) e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Trata-se de agravo regimental interposto por MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS, contra decisão monocrática que não conheceu do agravo em recurso especial (e-STJ, fls. 2.281-2.287).
+A parte agravante aduz, em síntese, que não incidiria ao caso a Súmula 182/STJ, pois o agravo teria apresentado argumentos coerentes para propor a superação da atual jurisprudência deste STJ sobre a impossibilidade de valoração negativa do comportamento da vítima, na primeira etapa de dosimetria da pena. Afirma que a Súmula 83/STJ só seria aplicável na existência de precedente qualificado, o que não é o caso dos autos.
+Pede, ao final, o provimento do presente agravo, para prover também o recurso especial.
+É o relatório.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FALTA DE IMPUGNAÇÃO ESPECÍFICA À DECISÃO QUE INADMITIU O RECURSO ESPECIAL NA ORIGEM. INCIDÊNCIA DA SÚMULA 182/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos da Súmula 182/STJ, não pode ser conhecido o agravo em recurso especial, por não ter impugnado de maneira específica todos os fundamentos da decisão de inadmissão do recurso especial na origem.
+2. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+A decisão agravada deve ser mantida, pois a parte agravante não trouxe argumentos suficientes para sua alteração.
+Como afirmei quando do julgamento monocrático, a decisão que inadmitiu o recurso especial na origem foi pautada na incidência das Súmulas 7 e 83/STJ.
+No entanto, o agravo em recurso especial do MP/MG não impugnou este último fundamento da decisão então agravada. Afinal, esta Corte firmou o entendimento de que, "quando o inconformismo excepcional não é admitido pela instância ordinária, com fundamento no enunciado n. 83 da Súmula do Superior Tribunal de Justiça, a impugnação deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida" (AgRg no AREsp 709.926/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 18/10/2016, DJe 28/10/2016), o que não ocorreu no caso destes autos.
+Ou seja: não basta dizer que a Súmula 83/STJ seria inaplicável. Caberia ao então agravante impugnar tal fundamento trazendo precedentes deste STJ contemporâneos ou supervenientes a seu favor - ou pelo menos demonstrando alguma distinção entre os julgados mencionados na decisão agravada e o caso dos autos -, o que não fez. Aliás, o próprio MP/MG reconhece que o entendimento do acórdão recorrido sobre a impossibilidade de valoração negativa do comportamento da vítima está em sintonia com a jurisprudência deste Tribunal Superior (e-STJ, fl. 2.229), o que confirma a correta aplicação da Súmula 83/STJ pela decisão que inadmitiu o recurso especial na origem.
+Ademais, a Corte Especial do STJ manteve o entendimento da necessidade de impugnação específica de todos os fundamentos da decisão agravada, sob pena de incidência da Súmula 182/STJ. Eis a ementa do aresto paradigma:
+"PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos".
+(EAREsp 746.775/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/09/2018, DJe 30/11/2018)
+Ao contrário do que diz o agravante, não há nenhuma restrição à aplicação da Súmula 83/STJ, pelos Tribunais locais, apenas para as situações em que exista precedente qualificado sobre o tema. Como o referido enunciado sumular foi bem aplicado pela Corte de origem - até porque, como dito, o próprio MP/MG reconhece que o acórdão está em sintonia com o entendimento deste STJ -, é firme a jurisprudência quanto à impossibilidade de conhecimento do agravo, nos termos da Súmula 182/STJ, pela falta de indicação de precedentes capazes de apoiar a tese ministerial.
+Por conseguinte, a Súmula 182/STJ impede o conhecimento do agravo em recurso especial.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
