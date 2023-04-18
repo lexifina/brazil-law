@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio impetrado em benefício de WILBER DE ALMEIDA SILVA, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais.
+Consta dos autos que o paciente foi condenado à pena de 12 anos e 10 meses de reclusão e ao pagamento de 1904 dias-multa, por infração aos arts. 33 e art. 35 c/c art. 40, incisos IV e V, todos da Lei 11.343/20 06 (e-STJ, fl. 121).
+A Tribunal a quo negou provimento à apelação defensiva, nos termos da seguinte ementa:
+"APELAÇÃO CRIMINAL TRÁFICO DE ENTORPECENTES E ASSOCIAÇÃO PARA O TRÁFICO - PRELIMINAR DE INÉPCIA DA DENÚNCIA - REJEIÇÃO - MATERIALIDADE E AUTORIA COMPROVADAS - ABSOLVIÇÃO - IMPOSSIBILIDADE - REDUÇÃO DA PENA - INVIABILIDADE - DECOTE DA CAUSA DE AUMENTO PREVISTA NO ART. 40, INCISO V, DA LEI 11.343/06 - INOCORRÊNCIA - BENEFÍCIO DO TRÁFICO PRIVILEGIADO - AUSÊNCIA DOS REQUISITOS-ALTERAÇÃO DO REGIME E SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE - INADMISSIBILIDADE - PRELIMINARES REJEITADAS E RECURSO NÃO PROVIDO.
+I - Restando satisfatoriamente comprovada nos autos a prática do crime de tráfico de drogas e a associação, de forma estável e permanente, para a prática do tráfico, a condenação pelos delitos descritos no art. 33 e 35, ambos da Lei 11.343106, é medida imperativa.
+II - Deve ser mantida a incidencia da causa de aumento prevista no art. 40, inciso V, da Lei 11.343/06 quando evidenciado que o tráfico de entorpecentes era realizado entre estados da federação.
+III - Não deve ser reconhecido em favor do réu o benefício previsto no art. 33, § 4º, da Lei 11.343/06, quando existe comprovação de que ele se dedica à atividade criminosa.
+IV - Não há que se falar em substituição da pena privativa de liberdade, quando o réu não preenche os requisitos necessários à concessão do referido benefício.
+V - Se o apelante não sofreu qualquer sucumbência quanto à declaração de perda do veículo para a União, ele não é parte legítima para pleitear a sua restituição. Somente ao titular do direito lesado caberia insurgir-se contra a sentença e comprovar a origem lícita da aquisição do bem. (e-STJ, fl. 19)
+Neste habeas corpus, o impetrante a sustenta ocorrência de ilegalidade na fixação da pena do paciente, pois:
+"O presente Habeas Corpus tem como finalidade a revisão da pena imposta ao Paciente, contra decisão de segundo grau que, em resumo, levou em consideração, quando da análise do art. 42 da Lei de Drogas, substância não elencada na Portaria 344 da Anvisa como sendo substância entorpecente e ainda aumentou a pena acima do convencionado pela doutrina e jurisprudência." (e-STJ, fl. 4)
+Requer, assim, a concessão da ordem para que seja reduzida a pena do paciente.
+Ministério Público Federal manifestou-se no sentido da denegação da ordem (e-STJ, fls. 210-215).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Sob tal contexto, passo ao exame das alegações trazidas pela defesa, a fim de verificar a ocorrência de manifesto constrangimento ilegal que autorize a concessão da ordem, de ofício.
+Os capítulos acerca da análise da dosimetria da pena não foram devolvidos ou apreciados pelo Tribunal a quo, pois, em relação ao paciente, apenas houve análise da Corte estadual do tema afeto ao seu juízo condenatório (e-STJ. fl. 24), de maneira que houve apuração da dosimetria apenas dos corréus André, Vinicio, Claudio e Gleison (e-STJ, fls. 41-43).
+Portanto, como não há decisão de Tribunal, inviável a apreciação do tema por esta Corte, sob pena de indevida supressão de instância e alargamento inconstitucional da hipótese de competência do Superior Tribunal de Justiça para julgamento de habeas corpus, constante no art. 105, I, "c", da Constituição da República, que exige decisão de Tribunal.
+Confira-se:
+"A questão relativa à alegada demora injustificada na instrução processual não foi objeto de exame pela Corte de origem, no acórdão recorrido, o que obsta a sua análise no presente recurso, sob pena de se incidir em indevida supressão de instância." (RHC 107.631/CE, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 15/10/2019, DJe 18/10/2019)
+"Em relação à prisão preventiva e ao excesso de prazo, verifica-se que as irresignações da defesa não foram objetos de cognição pela Corte de origem, o que torna inviável a sua análise nesta sede, sob pena de incidir em indevida supressão de instância, conforme reiterada jurisprudência desta Corte." (RHC 111.394/SP, de minha relatoria, QUINTA TURMA, julgado em 10/10/2019, DJe 15/10/2019)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
