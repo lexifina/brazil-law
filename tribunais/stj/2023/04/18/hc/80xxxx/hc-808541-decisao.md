@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de EDILSON FRAZAO BEZERRA DE SOUZA no qual de aponta como autoridade coatora o Tribunal de Justiça do Estado de Alagoas (Agravo em Execução Penal n. 0500311-34.2022.8.02.0000).
+Depreende-se dos autos que o Juízo da 16ª VARA CRIMINAL DA CAPITAL -MEIO FECHADO E SEMIABERTO - SEEU indeferiu o pleito de progressão do paciente ao regime semiaberto, bem como determinou a realização de exame criminológico no prazo de 6 (seis) meses a contar da referida decisão (e-STJ fls. 192/194).
+Interposto agravo em execução, o Tribunal local negou provimento ao recurso em acórdão assim ementado (e-STJ fl. 274):
+PENAL E PROCESSO PENAL. AGRAVO EM EXECUÇÃO PENAL. PROGRESSÃO DE REGIME DE CUMPRIMENTO DE PENA. DETERMINAÇÃO DE REALIZAÇÃO DE EXAME CRIMINOLÓGICO PARA FINS DE PROGRESSÃO DE REGIME. ALEGAÇÃO DE DESNECESSIDADE. INTELIGÊNCIA DO ART. 112 DA LEI DE EXECUÇÕES PENAIS. NÃO ACOLHIDO. REALIZAÇÃO DO EXAME CRIMINOLÓGICO ADMITIDA QUANDO AS PARTICULARIDADES CASUÍSTICAS ASSIM O REQUEREM, SENDO NECESSÁRIA DECISÃO FUNDAMENTADA. TEOR DA SÚMULA 439 DO STJ. OBSERVÂNCIA DA ALUDIDA EXIGÊNCIA PELO JUÍZO A QUO. PERICULOSIDADE DO APENADO E MODUS OPERANDI DO DELITO PERMEADO DE EXTREMA VIOLÊNCIA, DE MODO A DENOTAR FORTE DESPREZO À VIDA HUMANA. CRIME HEDIONDO. PERÍCIA QUE SE IMPÕE. RECURSO CONHECIDO E NÃO PROVIDO.
+Neste writ, a Defensoria Pública alega que o paciente preencheu o requisito objetivo para a progressão ao regime semiaberto desde 16/8/2021, bem como encontra-se preenchido o requisito subjetivo.
+Informa que em 13/4/2022 foi juntado aos autos um exame criminológico com conclusão lastreada na gravidade abstrata dos delitos cometidos pelo apenado, não tendo sido aberta vista à defesa para manifestação. Em 14/6/2022 foi indeferido o pleito de progressão.
+Sustenta ausência de fundamentação idônea para a concessão da progressão do paciente ao regime intermediário, bem como para a determinação do exame criminológico.
+Reforça que, "no caso presente, o paciente está cumprindo pena em regime fechado e não há registro de prática de indisciplina, fuga ou falta grave durante o cumprimento da pena, não tendo havido qualquer fato excepcional durante o cumprimento da pena que justificasse a necessidade de realização do exame criminológico no presente caso, o que só demonstra que a gravidade abstrata do crime praticado foi o único fundamento para a requisição do exame criminológico" (e-STJ fl. 9).
+Dessa forma, requer, liminarmente e no mérito, que seja reformado (e-STJ fl. 12):
+O ACÓRDÃ O IMPUGNADO PARA FINS DE CONCEDER AO PACIENTE A PROGRESSÃO PARA O REGIME SEMIABERTO OU DETERMINAR QUE O JUÍZO DA EXECUÇÃO PENAL, analise o pedido do paciente, independentemente da realização ou do resultado de exame criminológico, com lastro em elementos relacionados apenas ao período de cumprimento de pena, determinando-se como data-base para a futura progressão a data em que o paciente preencheu os requisitos legais para a progressão (16/08/2021).
+Tendo em vista a presença dos requisitos legais que a autorizam, requer a concessão de medida liminar a fim de determinar a imediata progressão de regime do paciente para o semiaberto, independente da confecção de novo exame criminológico.
+Indeferido o pedido de liminar (e-STJ fls. 296/298) e prestadas as informações solicitadas (e-STJ fls. 305/315); o Ministério Público Federal opinou pelo não conhecimento da impetração (e-STJ fls. 320/321).
+É o relatório.
+Decido.
+A impetração está prejudicada.
+Isso, porque, das informações obtidas no site do Sistema Eletrônico de Execução Unificado, verifica-se ter sido deferido o pedido de progressão de regime em 19/1/2023, razão pela qual fica esvaziado o objeto desta impetração.
+Ante o exposto, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
