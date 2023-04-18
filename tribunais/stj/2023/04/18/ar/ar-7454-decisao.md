@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de ação rescisória proposta pela ITACIR DE SOUZA visando rescindir acórdão do Tribunal de Justiça do Estado do Paraná.
+Passo a decidir.
+Há obstáculo intransponível para o prosseguimento do feito nesta Corte.
+Consoante dispõe o art. 105, I, "e", da Constituição Federal de 1988, compete ao Superior Tribunal de Justiça processar e julgar, originariamente, as ações rescisórias dos seus julgados.
+Na presente hipótese, da análise dos autos, verifica-se a incompetência desta Corte para apreciar e julgar a presente ação rescisória, na qual o autor visa rescindir acórdão Tribunal de Justiça do Estado do Paraná, conforme apontado na petição de emenda à inicial (e-STJ fls. 822/825).
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO RESCISÓRIA. SERVIDOR PÚBLICO. FUNÇÃO COMISSIONADA. ÍNDICE DE 28,86%. COMPENSAÇÃO COM REAJUSTE CONCEDI DO COM BASE NA LEI N. 8.627/1993. MATÉRIA NÃO DECIDIDA PELA DECISÃO RESCINDENDA. INCIDÊNCIA DA SÚMULA 515 DO STF.
+1. Considerando que as causas de desconstituição do julgado apontadas na exordial, relativas à violação de literal disposição de lei e ao erro de fato, se existentes, não surgiram no julgamento do recurso especial, mas por ocasião da apreciação da apelação pelo Tribunal Regional, é de se reconhecer a incompetência do Superior Tribunal de Justiça para julgar a ação rescisória.
+2. Na espécie, a decisão desta Corte Superior restringiu-se a negar seguimento ao recurso especial ao fundamento de que o acórdão recorrido observou a jurisprudência do STJ, de que o índice de 28, 86% também alcança as funções comissionadas ou gratificadas. Nada decidiu sobre a causa de pedir ora invocada, a de que a requerente teria sido beneficiada com reajuste que deveria ser compensado com o aludido percentual assegurado pela sentença coletiva.
+3. Incide, por analogia, a Súmula 515 do STF: "A competência para a ação rescisória não é do Supremo Tribunal Federal, quando a questão federal, apreciada no recurso extraordinário ou no agravo de instrumento, seja diversa da que foi suscitada no pedido rescisório."
+4. Agravo regimental não provido. (AgRg na AR 4.441/RS, de minha relatoria, TERCEIRA SEÇÃO, DJe 09/09/2015).
+PROCESSUAL CIVIL. AÇÃO RESCISÓRIA. SERVIDOR PÚBLICO FEDERAL. ART. 485, IV, DO CÓDIGO DE PROCESSO CIVIL. OFENSA A COISA JULGADA. EX-COMBATENTE. ACÓRDÃO RESCINDENDO QUE NÃO EXAMINOU O MÉRITO DA CONTROVÉRSIA EM RAZÃO DA APLICABILIDADE DA SÚMULA 7/STJ. INCOMPETÊNCIA DO STJ. INCIDÊNCIA DA SÚMULA 515/STF. PEDIDO SUBSIDIÁRIO. REMESSA DOS AUTOS AO JUÍZO COMPETENTE. IMPOSSIBILIDADE. INICIAL QUE SE INSURGE CONTRA ACÓRDÃO EQUIVOCADO. PRECEDENTES. AÇÃO RESCISÓRIA EXTINTA SEM RESOLUÇÃO DE MÉRITO.
+1. Não tendo havido o exame do mérito pelo STJ, na medida que o acórdão rescindendo limitou-se a aplicar o óbice da Súmula 7/STJ, patente é a sua incompetência para processar e julgar a presente demanda rescisória, a qual deve se voltar contra o acórdão do Tribunal regional. Incidência da Súmula 515/STF.
+2. O pedido subsidiário não merece acolhida, porquanto o STJ perfilha entendimento no sentido de que, proposta equivocadamente a rescisória, é incabível a remessa dos autos ao juízo competente, na medida em que a inicial se insurge contra acórdão equivocado, caso em que não poderia o relator corrigir o mérito do pedido.
+3. Ação rescisória extinta sem resolução de mérito (AR 4.515/RN, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, DJe 19/03/2015).
+Ante o exposto, DECLARO A INCOMPETÊNCIA do Superior Tribunal de Justiça para processar e julgar a presente ação rescisória.
+Considerando que já houve a emenda da petição inicial, com a adequação do objeto da ação rescisória (arts. 321 e 968, § 5º, II, do CPC/2015), remetam-se os autos ao Tribunal de Justiça do Estado do Paraná, nos termos do art. 968, § 6º, do CPC/2015, após a baixa necessária nos registros desta Corte.
+Publique-se. Intimem-se.
