@@ -1,0 +1,12 @@
+DECISÃO
+O presente writ, impetrado em benefício de Davi de Souza Pontes (ou Davi Souza Pontes) - condenado como incurso no crime de tráfico de drogas privilegiado -, em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo (Ação Penal n. 1503939-84.2021.8.26.0548), não comporta processamento.
+Insurge-se a impetração contra a dosimetria da pena imposta ao paciente pelo Juízo de Direito da 1ª Vara Criminal da comarca de Campinas/SP, ao argumento de insuficiência de fundamentação.
+De início, observo que o writ foi indevidamente utilizado como espécie de "segunda apelação criminal", dirigido a uma Corte de Precedentes, o que é inadmissível. Para tanto, existe a via da revisão criminal.
+Consoante jurisprudência do Superior Tribunal de Justiça, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão em habeas corpus apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de maior aprofundamento no acervo fático-probatório (AgRg no HC n. 577.396/RJ, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 30/4/2021). Tal não é o caso dos autos.
+Nesse sentido, o acórdão atacado não destoa da jurisprudência desta Corte Superior, tendo a minorante sido fixada no patamar de 1/6 fundamentadamente, com fundamento em elementos dos autos, apontando que, na terceira etapa, apesar da expressiva quantidade do entorpecente apreendido, o apelante Davi foi bastante beneficiado com a aplicação da minorante do art. 33, § 4º, da Lei n. 11.343/2006, no coeficiente de 1/6, totalizando a sanção de 4 anos e 2 meses de reclusão, e 416 dias-multa, o que mantenho, à míngua de recurso do Ministério Público (fl. 127 - grifo nosso).
+Por fim, ressalte-se que também cabe à Defensoria Pública estadual, em observância ao princípio da cooperação, aplicável não só na seara cível, mas, no âmbito do Processo Penal, prezar pela real finalidade do writ, sob pena de, além de reforçar a banalização do habeas corpus, contribuir para o acúmulo de processos nesta Corte Superior sem resolução definitiva.
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS PRIVILEGIADO. DOSIMETRIA. PLEITO DE INCID ÊNCIA DA FRAÇÃO 2/3 NA REDUTORA DO ART. 33, § 4º, DA LEI N. 11.343/2006. UTILIZAÇÃO INDEVIDA DO WRIT. PRETENSÃO DE REVISÃO DA DOSIMETRIA DA PENA. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Inicial indeferida liminarmente.
