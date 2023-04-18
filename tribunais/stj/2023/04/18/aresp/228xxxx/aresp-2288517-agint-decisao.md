@@ -1,0 +1,43 @@
+DECISÃO
+Cuida-se de agravo interno interposto pelo ESTADO DO MARANHÃO contra decisão monocrática de relatoria da Presidência do STJ, que não conheceu do agravo em recurso especial em razão de o recorrente não ter refutado especificamente os fundamentos da decisão combatida, aplicando a Súmula n. 182/STJ (fls. 640-642).
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO assim ementado (fl. 517):
+PROCESSO CIVIL. APELAÇÃO CÍVEL. CUMPRIMENTO DE SENTENÇA DE DEMANDA COLETIVA. AÇÃO Nº6542/2005 - SINTSEP. CONDIÇÃO DE ASSOCIADO DO SINDICATO AUTOR DA AÇÃO. COMPROVAÇÃO. QUALIDADE DE BENEFICIÁRIO/SUBSTITUÍDO. LEGITIMIDADE ATIVA PARA EXIGIR A OBRIGAÇÃO DE FAZERENCARTADA NA SENTENÇA. SINDSAUDEMA NÃO ABRANGE A CATEGORIA PROFISSIONAL DE CIRURGIÃO-DENTISTA. SINCIDEMA VÍNCULO NÃO COMPROVADO. PROVIMENTO.
+I - Não obstante a afirmação do Estado do Maranhão e do juízo a quo de que estaria vinculada a entidade sindical diversa do SINTSEP, carecendo, pois, de legitimidade para executar o título coletivo oriundo da Ação nº 6542/2005, a apelante se desincumbiu do ônus de demonstrar, documentalmente que é filiada ao SINTSEP;
+III - não comprovado vínculo da apelante ao SINDSAUDEMA ou ao SINCIDEMA, é de se concluir pela irregularidade da extinção promovida pelo juízo a quo.;
+III - apelação provida.
+No presente agravo interno, alega a agravante que "restou exaustivamente demonstrado, diversamente do afirmado na decisão ora recorrida, que foi impugnado, no AREsp, o suposto óbice da Súmula n. 7/STJ para exame da tese recursal segundo a qual o prazo prescricional se iniciou com o trânsito em julgado da ação de conhecimento e que teria sido interrompido com a sentença de homologação, reiniciando a contagem do prazo pela metade, bem como por se tratar de liquidação por meros cálculos." (fls. 646-659).
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+A agravada, instada a manifestar-se, apresentou impugnação (fls. 662-674).
+É, no essencial, o relatório.
+Com razão a parte agravante. Da detida análise das razões do agravo em recurso especial observa-se que a agravante impugnou especificamente a incidência da Súmula n. 7/STJ.
+Assim, atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+No recurso especial, a recorrente sustenta, além de divergência jurisprudencial, que o acórdão recorrido violou o art. 1º do Decreto n. 20.910/32, ao argumento de que, tratando-se de liquidação por meros cálculos, o prazo da pretensão executória se inicia com o trânsito em julgado da sentença proferida na fase de conhecimento e a referida liquidação não tem o condão de interromper ou suspender a execução.
+Alegou, ainda, violação do art. 8º da CF, ao argumento de que a recorrida não possui legitimidade para execução do título judicial, pois faz parte de sindicato diverso do autor da ação coletiva.
+Contrarrazões ao recurso especial (fls. 546-563).
+O recurso não merece conhecimento.
+A questão postulada, qual seja, violação do art. 1º do Decreto n. 20.910/32, não foi examinada pela Corte de origem, o que impede o conhecimento, por ausência de prequestionamento.
+Desse modo, impõe-se o não conhecimento do recurso especial por ausência de prequestionamento, entendido como o indispensável exame da questão pela decisão atacada, apto a viabilizar a pretensão recursal.
+Se a parte recorrente entendesse haver alguma eiva no acórdão impugnado, ainda que a questão federal tenha surgido somente no julgamento no Tribunal a quo, deveria ter oposto embargos declaratórios, a fim de que fosse suprida a exigência do prequestionamento e viabilizado o conhecimento do recurso em relação aos referidos dispositivos legais.
+Caso persistisse tal omissão, seria imprescindível a alegação de violação do art. 1.022 do CPC, por ocasião da interposição do recurso especial, com fundamento na alínea "a" do inciso III do art. 105 da Constituição Federal, sob pena de incidir no intransponível óbice da ausência de prequestionamento.
+Incide no caso o disposto nas Súmulas 282 e 356 do STF.
+Nesse sentido, confiram-se precedentes :
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. VAGA DESTINADA A IDOSO E PORTADORES DE NECESSIDADES ESPECIAIS. ESTACIONAMENTO IRREGULAR. ALEGADA VIOLAÇÃO AO ART. 1º, CAPUT E IV, DA LEI 7.347/85. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. ART. 1.025 DO CPC/2015. INAPLICABILIDADE, NO CASO. DANO MORAL COLETIVO NÃO CARACTERIZADO. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. AGRAVO INTERNO IMPROVIDO.
+ .. .
+III. Não tendo o acórdão hostilizado expendido juízo de valor sobre o art. 1º, caput e IV, da Lei 7.347/85, a pretensão recursal esbarra em vício formal intransponível, qual seja, o da ausência de prequestionamento  requisito viabilizador da abertura desta instância especial  , atraindo o óbice da Súmula 282 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada"), na espécie.
+ ..
+VI. Agravo interno improvido. (AgInt no AREsp n. 1.944.103/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 1º/9/2022.)
+DIREITO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. DISPOSITIVOS INDICADOS. AUSÊNCIA DE PERTINÊNCIA TEMÁTICA. SÚMULA 284/STF. COMPETÊNCIA PARA QUALIFICAÇÃO DO CRÉDITO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. ATOS CONSTRITIVOS. COMPETÊNCIA. JUÍZO UNIVERSAL. SÚMULA 83/STJ. RECURSO DESPROVIDO.
+ ..
+2. Não enseja a interposição de recurso especial matéria que não tenha sido debatida no acórdão recorrido e sobre a qual não tenham sido opostos embargos de declaração, a fim de suprir eventual omissão. Ausente o indispensável prequestionamento, aplicando-se, por analogia, as Súmulas 282 e 356 do STF.
+ ..  (AgInt nos EDcl no AREsp 1848471/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 14/02/2022, DJe 17/02/2022) 4. Agravo interno desprovido.
+(AgInt no REsp n. 1.980.919/GO, relator Ministro Raul Araújo, Quarta Turma, DJe de 26/8/2022.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. ABUSIVIDADE DOS JUROS REMUNERATÓRIOS. AUSÊNCIA DE JUNTADA DO INSTRUMENTO CONTRATUAL. SÚMULAS 282 E 356/STF. ABUSIVIDADE DAS TARIFAS BANCÁRIAS. AFASTAMENTO. REEXAME. SÚMULA N. 7/STJ. JUROS DE MORA. TERMO INICIAL. DATA DA CITAÇÃO. SÚMULA N. 83/STJ. SUCUMBÊNCIA. DISTRIBUIÇÃO. REEXAME. SÚMULA N. 7/STJ. AGRAVO INTERNO PROVIDO PARA, EM NOVO JULGAMENTO, NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Fica inviabilizado o conhecimento de temas trazidos no recurso especial, mas não debatidos e decididos nas instâncias ordinárias, porquanto ausente o indispensável prequestionamento. Incidência das Súmulas n. 282 e 356 do STF.
+ ..
+5. Agravo interno provido para, em novo julgamento, negar provimento ao recurso especial. (AgInt no REsp n. 1.991.236/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 26/8/2022.)
+Por fim, não comporta conhecimento o recurso especial quanto à alegação de malferimento do art. 8º da CF, por ser a via inadequada à alegação de afronta a artigos e preceitos da Constituição Federal, sob pena de usurpação de competência atribuída exclusivamente à Suprema Corte:
+III - Não cabe a esta Corte a apreciação de violação de dispositivos da Constituição Federal, sob pena de usurpação da competência do Supremo Tribunal Federal. (AREsp n. 1.970.639/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 8/11/2022, DJe de 14/11/2022.)
+5. É inviável a apreciação de ofensa a eventual violação de dispositivos e princípios constitucionais, sob pena de usurpação da competência atribuída ao Supremo Tribunal Federal, nos termos do art. 102 da Constituição Federal. (AgInt no AgInt nos EDcl no AREsp n. 2.007.927/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 18/10/2022.)
+Ante o exposto, reconsidero a decisão de fls. 640-642 para conhecer do agravo para não conhecer do recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
