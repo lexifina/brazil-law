@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu recurso especial, porquanto incidentes as Súmulas 7 e 182/STJ.
+O agravante "foi inicialmente condenado às penas de 10 meses e 19dias de detenção no regime inicial semiaberto, como incurso nos arts. 329, § 2º, e 129, § 12, c/c art. 69, caput, aplicado o sursis, na forma do art. 77 do Código Penal. Posteriormente, foi dado parcial provimento à apelação defensiva, reduzindo-se a pena do recorrente para 8 meses e 3 dias de detenção, bem como foi dado parcial provimento à apelação ministerial para afastar o sursis" (fl. 373).
+O agravo é tempestivo e ataca os fundamentos da decisão agravada. Apresentada contraminuta, manifestou-se o Ministério Público Federal pelo desprovimento recursal.
+Nas razões do recurso especial, interposto com fundamento na alínea "a" do permissivo constitucional, apontou o recorrente, ora agravante, violação dos arts. 157 do CPP e 44, § 3º, do CP, sustentando, em suma, a ilicitude das provas colhidas mediante violência policial e a consequente absolvição.
+Subsidiariamente, requer a substituição da pena privativa de liberdade por restritiva de direitos, pois, "não se tratando de reincidente específico, bem como sendo a medida socialmente recomendável, de rigor a substituição da pena privativa de liberdade por restritivas de direitos" (fl. 350).
+Acerca da contrariedade ao art. 157 do CPP, inexistiu debate nos acórdãos recorridos, inviabilizando a sua análise nesta via diante dos óbices previstos e aqui aplicados, por analogia, nas Súmulas 282 e 356 do STF, conforme bem observado pelo representante do M.P.F. (fl. 395):
+ ..  Em sua tese principal, o agravante sustenta que ele e o corréu sofreram violência policial, o que implicaria reconhecer a nulidade de toda prova produzida.
+Sucede que o tema não foi objeto de debate na instância a quo, menos ainda sob o viés de contrariedade ao art. 157 do CPP, além de demandar aprofundado reexame de provas, providência sem a qual não se desconstituiria a conclusão, calcada em exames periciais, de que houve, na verdade, "lesões sofridas pelos policiais" (f. 298) - daí porque sua condenação também pelo crime de resistência. ..
+No tocante à substituição das penas, extrai-se do aresto recorrido (fl. 332):
+ ..  não era mesmo cabível qualquer providência penal para livrar o embargante do cárcere, aplicando-se o disposto nos artigos 44 e 77 do Código Penal, em face da ausência dos requisitos legais, notadamente a primariedade e natureza da infração, como assinalado expressamente pelo V. Acórdão que neste aspecto, a propósito, também acolheu a insurgência do Ministério Públicos, afastando-se a suspensão condicional da penal. ..
+Ressaltou o Tribunal estadual que "não era mesmo cabível qualquer providência penal para livrar o embargante do cárcere, aplicando-se o disposto nos artigos 44 e 77 do Código Penal, em face da ausência dos requisitos legais, notadamente a primariedade e natureza da infração".
+De fato, não há falar-se em violação do art. 44 do CP, pois reconhecidos os maus antecedentes do réu, ora agravante, além da "comprovada reincidência" (fl. 301) e das agressões desferidas aos policiais militares (fls. 297-298). Não preenchidos, assim, os requisitos do dispositivo em apreço.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Publique-se.
+Intimem-se.
