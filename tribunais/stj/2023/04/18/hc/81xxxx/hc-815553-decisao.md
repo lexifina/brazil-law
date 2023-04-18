@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de KARINE MENDES DE MELO em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal n. 0001613-79.2020.8.26.0123).
+A paciente foi condenada à pena de 10 anos, 10 meses e 20 dias de reclusão, em regime inicial fechado, como incursa nos arts. 33, caput, e 35, ambos da Lei n. 11.343/2006, pois, segundo relata a sentença, mantinha, juntamente com seu companheiro, Wagner Rogério Villela, e um indivíduo de nome Ronaldo, vínculos estáveis e permanentes de associação para o tráfico de drogas, além de ter em depósito, juntamente com seu companheiro, na casa do casal, o total de 699,36g (seiscentos e noventa e nove gramas e trinta e seis centigramas) de cocaína, apreendidos em 7/12/2020 (e-STJ fls. 46/59, grifei ).
+O Tribunal local negou provimento às apelações defensivas, nos termos do acórdão de e-STJ fl. 172, assim ementado:
+Apelação criminal - Tráfico ilícito de entorpecentes e associação para o mesmo fim.
+Recurso da Defesa Preliminar de nulidade da prova obtida mediante invasão de domicílio Inocorrência. No mérito, pedido de absolvição Descabimento - Negativa de autoria que não convence Elementos seguros que demonstram a caracterização dos delitos imputados Desclassificação para a figura prevista no artigo 34 da mesma lei Descabimento - Pedido revisão da pena- Diminuição da base e reconhecimento da confissão - Descabimento - Alteração do regime e substituição da corporal - Descabimento - Recursos desprovidos.
+Neste writ, a defesa sustenta a ocorrência de constrangimentos ilegais relativos ao não reconhecimento do tráfico privilegiado de drogas em relação à acusada, pois "é primária quanto ao tráfico. Nada há que autorize afirmar que se dedicava a atividades espúrias, nem tampouco que está propensa à reiteração criminosa. Nota- se, ainda, que possui residência fixa, e não foi encontrada com drogas, sendo que as testemunhas não a ligam ao caso concreto" (e- STJ fl. 5).
+Requer, por fim, "seja ratificada a liminar, tornando-a definitiva, concedendo-se a ordem para  ..  incidir a redução legal da pena prevista no art. 33, § 4º, da Lei nº 11.343/2006, no patamar de 2/3, fixando-se o regime aberto para o início da pena e a permuta legal" (e- STJ fls. 17/18).
+É o relatório.
+Decido.
+Depreende-se dos autos que a causa de pedir e o pedido deste habeas corpus são idênticos aos do HC n. 754.625/SP, impetrado nesta Corte Superior contra o mesmo acórdão destes autos e também atribuído a esta relatoria, oportunidade em que deneguei a ordem (trânsito em julgado em 26/9/2022).
+Inclusive, em outro HC, o de n. 786.203/SP, a defesa intentou novamente a mudança do acórdão ora impetrado, o qual não foi conhecido por tratar-se de reiteração do pedido do já apontado HC n. 754.625/SP.
+Assim, diante da constatação de que o presente remédio constitucional constitui nova reiteração de pedido, não há como conhecer do presente remédio heroico.
+Ante o exposto, indefiro liminarmente o writ.
+Publique-se. Intimem-se .
