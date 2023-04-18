@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de recurso especial interposto por CMA LOTEADORA E INCORPORADORA LTDA fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Ação: de rescisão de contrato de compra e venda, ajuizada por ADRIANA PEREIRA DE SOUZA em face de C. M. A. LOTEADORA E INCORPORADORA LTDA.
+Sentença: julgou parcialmente procedentes os pedidos formulados na inicial.
+Acórdão: negou provimento à apelação interposta pelo recorrente, e deu provimento ao recurso de apelação interposto pela recorrida, nos seguintes termos:
+APELAÇÕES CÍVEIS. AÇÃO DE RESCISÃO CONTRATUAL,RESTITUIÇÃO DE QUANTIA PAGA E PERDAS E DANOS. CONTRATODE PROMESSA DE COMPRA E VENDA DE BEM IMÓVEL. SENTENÇAQUE ACOLHEU A RESOLUÇÃO CONTRATUAL POR INICIATIVA DACOMPRADORA. CONDENAÇÃO DA RÉ À RESTITUIÇÃO DE 90%(NOVENTA POR CENTO) DOS VALORES EFETIVAMENTERECEBIDOS. RETENÇÃO DE 10% (DEZ POR CENTO) DO VALORADIMPLIDO. PERCENTUAL QUE OBEDECE À JURISPRUDÊNCIA DOSTJ, INEXISTINDO, NO CASO CONCRETO, DEMONSTRAÇÃO DEQUE A RETENÇÃO DEVERIA SE DAR EM PATAMAR MAIOR. INDENIZAÇÃO A TÍTULO DE EVENTUAL UTILIZAÇÃO DO BEM(ALUGUERES). TERRENO SEM POSSIBILIDADE DE HABITAÇÃO(DOTADO APENAS DE MUROS E CALÇADA). AUSÊNCIA DE PROVADA SUA EFETIVA OCUPAÇÃO OU UTILIZAÇÃO PELOS AUTORES. VALORES A SEREM PAGOS À AUTORA QUE DEVEM SERCORRIGIDOS MONETARIAMENTE PELO IGP-M, EIS QUE FIXADOCONTRATUALMENTE. SUCUMBÊNCIA DA AUTORA QUE SEREVELA MÍNIMA, DEVENDO, A RÉ, SUPORTAR O PAGAMENTO DAINTEGRALIDADE DAS CUSTAS PROCESSUAIS E DOS HONORÁRIOSADVOCATÍCIO. RECURSO INTERPOSTO PELA RÉ DESPROVIDO. RECURSO INTERPOSTO PELA AUTORA PROVIDO.
+Recurso especial: além de dissídio jurisprudencial, sustenta o recorrente violação aos arts. 474, 475 e 884 do Código Civil.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: CPC/2015
+-Da taxa de ocupação do imóvel não edificado
+A jurisprudência desta Corte Superior é no sentido de que não há enriquecimento sem causa no caso de terreno não edificado, pois o comprador não pode residir no imóvel, devendo ser afastada a cobrança da taxa de ocupação do bem" (AgInt no REsp 1.896.690/SP, QUARTA TURMA, DJe de 26/08/2021; AgInt no REsp n. 1.974.289/SP, Terceira Turma, DJe de 22/6/2022; AgInt no REsp n. 1.981.648/SP, Quarta Turma, julgado em 29/8/2022, DJe de 8/9/2022; AgInt nos EDcl no REsp n. 1.963.417/SP, Terceira Turma, julgado em 22/8/2022, DJe de 26/8/2022; AgInt no REsp n. 1.988.931/SP, Quarta Turma, julgado em 9/8/2022, DJe de 19/8/2022).
+Desse modo, encontrando-se o entendimento do Tribunal de origem em consonância com a jurisprudência desta Corte Superior, não há que falar na alteração do julgado. Aplica-se, portanto, a Súmula 568/STJ no particular.
+-Do percentual de retenção pela rescisão contratual por culpa do adquirente
+Segundo a orientação deste STJ, em contrato de compra e venda de imóvel residencial anterior à Lei 13.786/2018, ausente qualquer peculiaridade que justifique a apreciação da razoabilidade, deve prevalecer o percentual de retenção de 25% (vinte e cinco por cento) dos valores pagos pelos adquirentes.
+A propósito: REsp n. 1.723.519/SP, Segunda Seção, DJe de 2/10/2019; REsp n. 1.947.698/MS, Quarta Turma, DJe de 7/4/2022; REsp n. 1.863.007/SP, Terceira Turma, DJe de 26/3/2021.
+Na espécie, contudo, o Tribunal de origem determinou que o percentual de retenção, que cabe ao recorrente em razão da rescisão contratual do contrato de compra e venda por culpa do recorrido, deveria ser de 10% sobre as parcelas pagas.
+Diante do exposto, o acórdão recorrido merece reforma a fim de se adequar ao entendimento desta Corte Superior.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência, não bastando, para tanto, transcrever ementas ou destacar trechos de decisões (REsp 1.421.371/SC, Terceira Turma, julgado em 12/12/2017, DJe de 18/12/2017; AgInt nos EREsp 1.377.705/SP, Segunda Seção, julgado em 14/09/2016, DJe de 19/09/2016; AgInt nos EAREsp 740.220/SP, Corte Especial, julgado em 17/08/2016, DJE de 21/09/2016).
+Forte nessas razões, CONHEÇO do recurso especial, para DAR-LHE PARCIAL PROVIMENTO, com fundamento no art. 932, V, "a", do CPC/15, bem como na Súmula 568/STJ, para condenar o recorrente a devolver 75% das parcelas efetivamente pagas pelo recorrido à título de percentual de retenção pela rescisão contratual.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 12% sobre o valor da condenação (e-STJ fls. 287) para 15%, observada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. PROCESSO CIVIL. COMPRA E VENDA DE IMÓVEL. EXTINÇÃO DO VÍNCULO CONTRATUAL. INICIATIVA DO CONSUMIDOR. IMÓVEL NÃO EDIFICADO. TAXA DE OCUPAÇÃO. NÃO CABIMENTO. PERCENTUAL RETENÇÃO.
+1. Cuida-se de ação de rescisão de contrato de compra e venda.
+2. Consoante a jurisprudência dominante deste Superior Tribunal de Justiça, é indevida a taxa de ocupação ou fruição após o desfazimento de promessa de compra e venda de lote não edificado, porquanto a resilição não enseja qualquer enriquecimento do comprador ou empobrecimento do vendedor. Precedentes.
+3. Segundo a orientação deste STJ, nos contratos firmados antes da Lei 13.786/2018, o percentual de retenção pela extinção do vínculo contratual de compra e venda de imóveis por culpa do consumidor é de 25% (vinte e cinco por cento) das parcelas pagas, porquanto adequado e suficiente para indenizar o construtor pelas despesas gerais e pelo rompimento unilateral do consumidor.
+4. Recurso especial conhecido e não provido.
