@@ -1,0 +1,46 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, impetrado em benefício de RAUL PEREIRA AMARO DE OLIVEIRA, contra decisão do Juiz de Direito da Unidade Regional do Departamento Estadual de Execução Criminal de São Paulo - DEECRIM 1A RAJ - SP na Execução Penal n. 0003389-35.2021.8.26.0041.
+No presente writ, a defesa sustenta que o paciente está submetido à constrangimento ilegal uma vez que o Juízo das execuções negou-se a aplicar a extensão dos efeitos do Agravo em Recurso Especial n. 2209076/SP provido em favor do corréu ao paciente, conforme decisão de fl. 29.
+Alega que, em que pese a condenação tenha transitado em julgado em desfavor do paciente, o recurso provido em favor do corréu não se fundamentou em circunstância pessoal, cabendo a extensão dos efeitos nos termos do art. 580, do Código de Processo Penal.
+Afirma que o paciente preenche todos os requisitos necessários ao reconhecimento da minorante do tráfico privilegiado, nos mesmos termos do que foi deferido ao corréu.
+Requer, em liminar e no mérito, a extensão dos efeitos da decisão que deu provimento ao AGRAVO EM RECURSO ESPECIAL n. 2.209.076/SP.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Ademais, a possibilidade de análise da matéria para eventual concessão da ordem de ofício não se mostra adequada no presente caso.
+Inicialmente, verifica-se que nos termos do art. 105, da Constituição Federal não é competência desta Corte Superior conhecer originariamente de habeas corpus impetrado contra suposto ato de Juiz de direito de primeiro grau de jurisdição, sob pena de incorrer em indevida supressão de instância.
+Nesse sentido:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. INDEFERIMENTO LIMINAR DO WRIT. HABEAS CORPUS QUE INVESTE CONTRA ATO DE JUIZ DE PRIMEIRO GRAU. INCOMPETÊNCIA DESTA CORTE. POSTERIOR JUNTADA DE DECISÃO PROFERIDA POR EM. DESEMBARGADOR QUE INDEFERE O PEDIDO LIMINAR. INCIDÊNCIA DA SÚMULA N. 691/STF. AUSÊNCIA DE FLAGRANTE ILEGALIDADE OU TERATOLOGIA. INVIABILIDADE DE APRECIAÇÃO DA MATÉRIA. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. AGRAVO DESPROVIDO.
+I - Verifica-se que o presente writ se insurge contra ato de Juiz de primeiro grau, qual seja, a r. decisão que decretou a prisão preventiva do ora agravante.
+II - Falece competência ao Superior Tribunal de Justiça, a teor do art. 105, inciso I, c, da Constituição Federal, para julgar habeas corpus impetrado diretamente nesta Corte Superior contra ato de Juiz de primeiro grau. Precedentes.
+ ..
+Agravo Regimental desprovido.
+(AgRg no HC n. 645.080/BA, relator Ministro Felix Fischer, Quinta Turma, julgado em 9/3/2021, DJe de 19/3/2021.)
+Consoante jurisprudência desta Corte, a análise de pedido de extensão dos efeitos de recurso provido compete ao órgão que proferiu a decisão que concedeu o benefício cuja ampliação se pretende, e não ao juízo das execuções.
+Nesse sentido:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS E ORGANIZAÇÃO CRIMINOSA. EXTENSÃO DOS EFEITOS DA DECISÃO QUE ABSOLVEU OS CORRÉUS DO CRIME DO ART. 2º, § 2º, DA LEI N. 12.850/2013. ART. 580 DO CPP. TEMA NÃO DEBATIDO NA CORTE COMPETENTE. SUPRESSÃO DE INSTÂNCIA. ABSOLVIÇÃO. INVIABILIDADE. NECESSIDADE REEXAME DO FATOS. PENA-BASE. CULPABILIDADE E CIRCUNSTÂNCIAS DO DELITO. FUNDAMENTOS VÁLIDOS. AGRAVO NÃO PROVIDO.
+1. "Nos termos do art. 580 do Código de Processo Penal, o pedido de extensão deve ser formulado no Juízo ou no Tribunal prolator da decisão cujos efeitos se pretendam estender; logo, por raciocínio lógico, exclusivamente a esse órgão jurisdicional recai a competência legal para decidir sobre o seu deferimento ou não" (AgRg no HC n. 511.679/MG, relator Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 25/6/2019, DJe 2/8/2019) (EDcl no AgRg no HC n. 707.767/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 4/4/2022.)
+ ..
+6. Agravo regimental não provido.
+(AgRg no HC n. 639.731/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 16/8/2022, DJe de 22/8/2022.)
+Logo, caberia a esta Corte Superior analisar a possibilidade de extensão ao paciente dos efeitos do julgamento do Agravo em Recurso Especial provido em favor do Corréu.
+Contudo, em que pese o writ tenha sido impetrado por profissional legalmente habilitado, está deficientemente instruído. Não foram juntadas aos autos cópia integral da sentença condenatória, do acórdão que julgou a apelação e da folha de antecedentes do paciente, documentos essenciais à exata compreensão da controvérsia e ao exame da plausibilidade do pedido.
+Cabe ressaltar que, em razão da celeridade do rito do habeas corpus, incumbe ao impetrante apresentar prova pré-constituída do direito alegado, sob pena de não conhecimento da impetração.
+Nesse sentido, confiram-se os seguintes precedentes, entre outros:
+RECURSO EM HABEAS CORPUS. FEMINICÍDIO TENTADO. CUSTÓDIA PREVENTIVA. AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA. INSTRUÇÃO DEFICIENTE QUE OBSTA O EXAME DA TESE. EXCESSO DE PRAZO PARA O ENCERRAMENTO DO FEITO. NÃO CONFIGURAÇÃO. RECOMENDAÇÃO N. 62/2020 DO CNJ. SUBSTITUIÇÃO DA CAUTELA EXTREMA POR PRISÃO DOMICILIAR. IMPOSSIBILIDADE. RECURSO CONHECIDO EM PARTE E NÃO PROVIDO.
+1. A defesa não instruiu o presente recurso com cópia das decisões que trataram da prisão preventiva do réu (conversão do flagrante em custódia provisória, indeferimento de concessão da liberdade provisória e pronúncia), circunstância que inviabiliza o exame da suscitada ausência de motivação idônea para impor a cautela extrema.
+2. Os prazos processuais previstos na legislação pátria devem ser computados de maneira global e o reconhecimento do excesso deve-se pautar sempre pelos critérios da razoabilidade e da proporcionalidade (art. 5º, LXXVIII, da CF), considerando cada caso e suas particularidades.
+3. Não se constata desídia estatal na condução do feito, uma vez que a realização da sessão de julgamento pelo Tribunal do Júri está prevista para data próxima, a denotar o prognóstico de conclusão do procedimento bifásico dos crimes dolosos contra a vida cerca de 1 ano e 9 meses após a prisão em flagrante do réu.
+4. Ante a crise mundial da Covid-19 e, especialmente, a iminente gravidade do quadro nacional, intervenções e atitudes mais ousadas são demandadas das autoridades, inclusive do Poder Judiciário. Nesse sentido, salienta a Recomendação n. 62, de 17 de março de 2020, do Conselho Nacional de Justiça a importância da "adoção de medidas preventivas à propagação da infecção pelo novo coronavírus - Covid-19 no âmbito dos estabelecimentos do sistema prisional e do sistema socioeducativo".
+5. Todavia, o aresto combatido foi claro ao afirmar, além do fato de o delito haver sido praticado mediante violência contra a vítima, a ausência de comprovação de que o acusado integra o grupo de risco da Covid-19, bem como da impossibilidade de receber tratamento médico adequado no estabelecimento prisional em caso de eventual contágio.
+Para alterar essa conclusão seria necessária ampla dilação probatória, incompatível com a via estreita do habeas corpus.
+6. Recurso conhecido em parte e não provido.
+(RHC 132.620/AM, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 18/12/2020.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. INDEFERIMENTO LIMINAR DO WRIT. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DA DECISÃO DE DECRETOU A PRISÃO TEMPORÁRIA E DA DECISÃO QUE A CONVERTEU EM PREVENTIVA. INEXISTÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO AGRAVADA. AGRAVO DESPROVIDO.
+I - A decisão monocrática que nega provimento a recurso ordinário não viola o princípio da colegialidade, eis que conforme previsão no Regimento Interno desta Corte, é permitido ao relator julgar monocraticamente recurso inadmissível, prejudicado, ou que não tiver impugnado especificamente todos os fundamentos da decisão recorrida, e ainda, negar provimento nas hipóteses em que houve entendimento firmado em precedente vinculante, súmula ou jurisprudência consolidada do Supremo Tribunal Federal ou do Superior Tribunal de Justiça. Precedentes.
+II - O agravante não juntou aos autos cópia da r. decisão que decretou a sua prisão temporária, e a decisão que a converteu em preventiva no momento da interposição do recurso, tampouco no presente agravo regimental, alegando, ainda, a sua desnecessidade, impedindo, em virtude da instrução deficiente, a exata compreensão da controvérsia, sendo pacífica a jurisprudência desta Corte de Justiça no sentido de que é ônus do impetrante a correta instrução dos autos, sob pena de não conhecimento do mandamus ou de seu recurso ordinário. Precedentes.
+III - É assente nesta eg. Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+Agravo Regimental desprovido.
+(AgRg no RHC 130.798/MS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 04/09/2020.)
+Por tais razões, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+Intimem-se.
