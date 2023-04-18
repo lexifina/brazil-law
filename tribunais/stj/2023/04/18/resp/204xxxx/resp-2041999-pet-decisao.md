@@ -1,0 +1,21 @@
+DECISÃO
+Da leitura da minuta do agravo de instrumento que deu origem ao presente recurso, pode-se aferir que MINISTÉRIO PÚBLICO DO ESTADO DO MATO GROSSO DO SUL (MINISTÉRIO PÚBLICO) ajuizou ação de execução de título extrajudicial contra BANCO SAFRA S. A. (BANCO) alegando o descumprimento do Termo de Ajustamento de Conduta FB-1620/2012 ("TAC Acessibilidade"-Doc. 4), firmado entre a Febraban e os Ministérios Públicos de São Paulo, Minas Gerais e Ministério Público Federal, com o objetivo de garantir o acesso às instituições bancárias associadas às pessoas com deficiência e/ou mobilidade reduzida, observando-se às normas técnicas sobre acessibilidade.
+No curso da ação, o d. Juízo de primeira instância fixou prazo de 90 (noventa) dias para cumprimento da obrigação supostamente inadimplida, bem como multa de R$ 5.000,00 (cinco mil reais) para cada dia de descumprimento, com limite de R$ 500.000,00 (quinhentos mil reais).
+Contra essa decisão interlocutória, o BANCO interpôs agravo de instrumento, não provido pelo TJMS em acórdão assim ementado:
+AGRAVO DE INSTRUMENTO - EXECUÇÃO DETÍTULO EXTRAJUDICIAL - FIXAÇÃO DE PRAZO PARA CUMPRIMENTO DEOBRIGAÇÃO E ASTREINTES - PRELIMINAR CONTRARRECURSAL - REJEITADA - MÉRITO - PROVA DO INADIMPLEMENTO DA OBRIGAÇÃO - DESNECESSÁRIA - EXECUÇÃO EMBASADA EM TAC - PRESUÇÃO DEEXISTÊNCIA, LIQUIDEZ E EXIGIBILIDADE DA DÍVIDA - CUMULAÇÃO DECLÁUSULA PENAL COM ASTREINTES - POSSIBILIDADE - PRAZO E VALORMANTIDOS - RAZOABILIDADE E PROPORCIONALIDADE CONSIDERANDOA FINALIDADE DA ORDEM JUDICIAL E GRANDE DECURSO DE PRAZOPARACUMPRIMENTOVOLUNTÁRIO - RECURSO CONHECIDO E DESPROVIDO, COM O PARECER.
+I - Tendo a decisão inicial do feito executivo estabelecido o prazo para cumprimento da obrigação e fixado multa para o caso de inadimplemento, deve-se reconhecer o seu caráter interlocutório, desafiando a interposição de agravo de instrumento, nos termos do art. 1.015, parágrafo único, do Código de Processo Civil. Preliminar de inadequação recursal rejeitada.
+II - Tratando-se de execução de obrigação de fazer escorada em título executivo extrajudicial, consistente em Termo de Ajustamento de Conduta onde o devedor se compromete a realizar as adequações necessárias em seus estabelecimentos para cumprimento da legislação de acessibilidade, presume-se a certeza, liquidez e exigibilidade da obrigação, competindo ao devedor a prova do completo adimplemento.
+III - Considerando-se o grande lapso temporal para cumprimento voluntário da obrigação, contraída pelo agravante há pelo menos cinco anos, bem como a previsão de prazo razoável para o cumprimento voluntário (90 dias), deve-se manter o valor das astreintes arbitradas pelo juízo a quo, mantendo-se a efetividade da medida em relação a instituição financeira de grande porte. Recurso desprovido. (e-STJ, fl. 114)
+Inconformado, o BANCO manejou recurso especial com fundamento no art. 105, III, a e c, da CF, alegando a violação dos arts. 489, 814 e 1.022 do NCPC.
+O apelo nobre foi admitido pelo TJMS.
+Na petição acostada às e-STJ, fls. 216/220, o BANCO noticiou a perda superveniente do objeto do recurso, em virtude da prolação da sentença nos embargos à execução autuados sob o nº 0805806-04.2022.8.12.0001, em que foi reconhecido "o cumprimento das obrigações constantes no Termo de Ajustamento de Conduta executado no processo em apenso"(Doc. 1), pugnando pelo arquivamento do incidente.
+É o relatório.
+DECIDO.
+O inconformismo está prejudicado.
+A superveniência da sentença proferida no feito principal enseja a perda de objeto de recursos anteriores que versem sobre questões resolvidas por decisão interlocutória, tais como no presente caso.
+O art. 34, XI, do RISTJ atribuiu ao relator a competência para julgar prejudicado o pedido ou o recurso em razão da perda de seu objeto.
+Ante o exposto, JULGO PREJUDICADO o recurso especial do BANCO.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, §4º, ou 1.026, §2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. DECISÃO INTERLOCUTÓRIA. AGRAVO DE INSTRUMENTO. SUPERVENIÊNCIA DE SENTENÇA. RECURSO ESPECIAL PREJUDICADO.
