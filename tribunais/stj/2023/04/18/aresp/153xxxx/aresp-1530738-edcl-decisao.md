@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por SF - Formas para Construção Civil Ltda. - em recuperação judicial - e outras à decisão monocrática proferida por este signatário, assim ementada (e-STJ, fl. 807):
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO EM AÇÃO DE RECUPERAÇÃO JUDICIAL. CRÉDITO ORIUNDO DE CÉDULAS DE CRÉDITO BANCÁRIO GARANTIDAS POR ALIENAÇÃO FIDUCIÁRIA. AUSÊNCIA DE REGISTRO À ÉPOCA DO PEDIDO DE RECUPERAÇÃO JUDICIAL. NÃO SUJEIÇÃO AOS EFEITOS DA RECUPERAÇÃO JUDICIAL, NOS TERMOS DO § 3º DO ART. 49 DA LEI 11.101/2005. MATÉRIA PACÍFICA NO ÂMBITO DAS TURMAS DE DIREITO PRIVADO DO STJ. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
+Em suas razões, as embargantes alegam a existência de omissões na decisão embargada, no tocante à questão da imprescindibilidade do registro do contrato de crédito fiduciário para que sejam considerados extraconcursais não se encontrar consolidada no âmbito deste Superior Tribunal, tendo inclusive o REsp n. 1.629.470/MS, sido afetado à Segunda Seção, razões pelas quais considerou a necessidade de sobrestamento do feito.
+Asseveram, ainda, a necessidade de análise da matéria quanto à essencialidade do bem dado em garantia, recebíveis de duplicatas, à continuidade das atividades produtivas das recuperandas, sob pena de inviabilização do respectivo plano de recuperação judicial.
+Impugnação às fls. 882-888 (e-STJ), com pedido de aplicação da multa prevista no art. 1.026, § 2º, do CPC/2015.
+Brevemente relatado, decido.
+Com efeito, as razões do recurso revelam tão somente o intuito de reapreciação das matérias já decididas, o que não se admite em embargos de declaração, os quais possuem índole particular e fundamentação vinculada, cujo objetivo é a declaração do verdadeiro sentido de uma decisão eivada de obscuridade, contradição, omissão ou erro material (art. 1.022 do CPC/2015), não possuindo natureza de efeito modificativo.
+A esse respeito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE COBRANÇA - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NÃO CONHECEU DO RECLAMO. INSURGÊNCIA DO DEMANDADO.
+1. Nos termos do artigo 1.022 do CPC/15, os embargos de declaração são cabíveis apenas para esclarecer obscuridade ou eliminar contradição; suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento; ou corrigir erro material.
+1.1. Ausentes quaisquer dos vícios elencados no acórdão recorrido, que decidiu de modo claro e fundamentado, é impositiva a rejeição aos aclaratórios.
+2. Ante a reiterada oposição de recursos manifestamente inadmissíveis e o caráter protelatório dos presentes embargos, bem como a prévia advertência da parte, é imperiosa a aplicação da multa prevista no art. 1.026, § 2º, do CPC/15.
+3. Embargos de declaração rejeitados, com aplicação de multa.
+(EDcl no AgInt nos EDcl no AREsp 1.814.590/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 27/9/2021, DJe 1º/10/2021)
+Embora não se cogite da existência de omissão na decisão embargada, a oportunidade concedida pela oposição dos declaratórios permite que sejam feitos alguns esclarecimentos para auxiliar na compreensão do que foi decidido.
+No tocante ao julgamento do REsp n. 1.629.470/MS, verifica-se que a conclusão do julgado, consoante a externada na decisão embargada, foi no sentido de que a cessão fiduciária de título de crédito não depende de registro em cartório de títulos e documentos para ser constituída e que não se submetem à recuperação judicial os créditos garantidos por cessão fiduciária.
+É o que se verifica da ementa do julgado:
+DIREITO CIVIL E COMERCIAL. RECUPERAÇÃO JUDICIAL. CESSÃO FIDUCIÁRIA DE DIREITO DE CRÉDITO. REGISTRO EM CARTÓRIO DE TÍTULOS E DOCUMENTOS. DESNECESSIDADE DE REGISTRO PARA A CONSTITUIÇÃO DA GARANTIA. CREDOR NÃO SUJEITO Á RECUPERAÇÃO JUDICIAL. IMPOSSIBILIDADE.
+1. A cessão fiduciária de título de crédito, nos termos da disciplina específica da Lei 4.728/95, com a redação dada pela Lei 10.931/2004, não depende de registro em cartório de títulos e documentos para ser constituída, não se lhe aplicando a regra do art. §1º do art. 1.361 do Código Civil, regente da cessão fiduciária de coisa móvel infungível.
+2. O registro da cessão fiduciária do título de crédito pode ser necessário para salvaguardar eventual direito de terceiro a quem o título de crédito seja oponível, a saber, o devedor do título de crédito cedido pela recuperanda. Não há repercussão na esfera de direitos dos demais credores, donde a irrelevância da existência do registro para o processo de recuperação.
+3. De acordo com a pacífica jurisprudência do STJ, por força do art. 49, §3º, da Lei 11.101/2005, não se submetem à recuperação judicial os créditos garantidos por cessão fiduciária. Precedentes.
+4. Impossibilidade "de se impor restrições à propriedade fiduciária de crédito, por não se tratar de bem de capital, segundo entendimento desta Corte Superior." (AgInt no REsp. 1.475.258-MS, rel Ministro Paulo de Tarso Sanseverino, DJe 20.2.2017).
+5. Recurso especial conhecido e provido.
+(REsp n. 1.629.470/MS, relatora Ministra Maria Isabel Gallotti, Segunda Seção, julgado em 30/11/2021, DJe de 17/12/2021.)
+Ademais, a necessidade de análise da matéria quanto à essencialidade do bem dado em garantia não foi objeto do recurso especial interposto pelo embargado, não havendo que se falar em omissão qua nto a questão.
+No que se refere ao pedido de que seja imposta a multa prevista no § 2º do art. 1.026 do CPC/2015, não deve ser acolhido o requerimento da parte contrária, pois o mero inconformismo com a decisão embargada não enseja a necessária imposição da sanção, quando não configurado o caráter manifestamente protelatório dos embargos de declaração.
+Ante o exposto, acolho parcialmente os embargos de declaração, apenas para prestar os devidos esclarecimentos.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS ENSEJADORES À OPOSIÇÃO DOS DECLARATÓRIOS. MERO INCONFORMISMO DA PARTE. APLICAÇÃO DA MULTA PREVISTA NO § 2º DO ART. 1.026 DO CPC/2015. NÃO CABIMENTO NA HIPÓTESE. EMBARGOS PARCIALMENTE ACOLHIDOS, APENAS PARA PRESTAR ESCLARECIMENTOS.
