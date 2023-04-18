@@ -1,0 +1,45 @@
+DECISÃO
+Cuida-se de agravo interposto pelo ESTADO DA BAHIA contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que o agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA cuja ementa guarda os seguintes termos (fl. 170):
+APELAÇÃO EM AÇÃO ORDINÁRIA. ADICIONAL DE PERICULOSIDADE. INAPLICABILIDADE DOS ARTS. 87 E 88 DA LEI ESTADUAL Nº 6.677/94 C/C O DECRETO Nº 16.529/16. INCIDÊNCIA DE LEI ESPECÍFICA DA CARREIRA: ART. 6º DA LEI ESTADUAL Nº 7.145/97 C/C ARTS.107 E 110 DO ESTATUTO DOS POLICIAIS MILITARES. NÃO DEMONSTRADO RISCO OU PERIGO SUPERIOR AO DECORRENTE DO REGULAR EXERCÍCIO DA ATIVIDADE DESEMPENHADA. RISCOS INERENTES JÁ ABARCADOS PELA GAP. IMPOSSIBILIDADE DE PAGAMENTO EM DUPLICIDADE - ART. 37, XIV DA CF/88. RECURSO IMPROVIDO.
+Os primeiros embargos de declaração opostos pelo recorrente foram acolhidos para fixar os honorários sucumbenciais (fls. 213-220).
+Rejeitados os segundos embargos de declaração opostos, considerados protelatórios, e foi aplicada a multa correspondente (fls. 259-264).
+No recurso especial, o recorrente alega, preliminarmente, ofensa ao art. 1.022, II, do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+No mérito, aduz que o acórdão contrariou as disposições contidas no art. 85, §4º, III, do CPC. Suscita, em síntese, que os honorários sucumbenciais, nas causas em que não há condenação, devem ser fixados com base no valor da causa e não por apreciação equitativa como o fez o Tribunal de origem.
+Aponta divergência jurisprudencial com arestos desta Corte.
+Alega, ainda, violação do art. 1.026, § 2º, do CPC.
+Sem contrarrazões ao recurso especial.
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 284-287), o que ensejou a interposição do presente agravo.
+Não apresentada contraminuta do agravo.
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Inicialmente, não há falar em ofensa ao art. 1.022 do CPC, uma vez que o Tribunal de origem, ao analisar os segundos embargos de declaração, expressamente consignou que "o acórdão combatido foi claro em demonstrar a razão de incidência do quanto previsto no art. 85, § 8º e não § § 3º e 4º do CPC. Frisou-se de modo expresso que se tratou de pleito indenizatório, por danos morais e materiais, liminarmente denegado; de modo que, a rigor, não se poderia estimar com precisão o valor da sucumbência adotando-se pura e simplesmente o valor atribuído à causa na petição inicial - de modo que a peça de insurgência reflete mero inconformismo em não ter sido adotado o entendimento do ora recorrente na apreciação da questão pelo colegiado" (fl. 263).
+Observa-se, portanto, que a lide foi solucionada em conformidade com o que foi apresentado em juízo. Assim, verifica-se que o acórdão recorrido está com fundamentação suficiente, inexistindo omissão ou contradição.
+A propósito, cito os seguintes precedentes:
+PROCESSUAL CIVIL. DESAPROPRIAÇÃO DIRETA. UTILIDADE PÚBLICA. CONCESSIONÁRIA DE VEÍCULOS. RECURSO ESPECIAL. OFENSA AO ARTIGO 1022, II, DO CPC/15. INOCORRÊNCIA. DEVOLUÇÃO TOTAL DA MATÉRIA EM REEXAME NECESSÁRIO. SÚMULA 325/STJ. NECESSIDADE DE ALUGAR IMÓVEL LINDEIRO PARA ALTERAR ACESSO A LOJA. INDENIZAÇÃO AFASTADA PELO TRIBUNAL DE ORIGEM. REVISÃO. SÚMULA 7/ STJ.
+1. Os arts. 489, § 1º, e 1.022 do Código de Processo Civil não foram ofendidos. A pretexto de apontar a existência de erros materiais, omissão e premissas erradas, a parte agravante quer modificar as conclusões adotadas pelo aresto vergastado a partir das informações detalhadas do laudo pericial.
+ ..
+5. Agravo Interno não provido.
+(AgInt no AREsp n. 1.974.188/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 17/10/2022, DJe de 4/11/2022.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. DANO MORAL. SUSPENSÃO DO FORNECIMENTO DO SERVIÇO DE ÁGUA . DEMORA INJUSTIFICADA NO RESTABELECIMENTO DO SERVIÇO. ARTS. 489, § 1º, E 1022, II, DO CPC. OMISSÃO NÃO CONFIGURADA. DEVER DE INDENIZAR. REQUISITOS PARA A RESPONSABILIZAÇÃO DA CONCESSIONÁRIA. ACÓRDÃO ANCORADO NO SUBSTRATO FÁTICO-PROBATÓRIO DOS AUTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. VALOR DA INDENIZAÇÃO. EXCESSO NÃO CARACTERIZADO.
+1. Cuida-se de ação de procedimento ordinário ajuizada em desfavor de SAMAR - Soluções Ambientais de Araçatuba, com o fim de obter indenização pelos danos morais que alega ter sofrido com suspensão do serviço de água na residência da autora.
+2. Verifica-se, inicialmente, não ter ocorrido ofensa aos arts. 489, § 1º, e 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos.
+ ..
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.118.594/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 22/11/2022, DJe de 25/11/2022, grifo meu.)
+No mérito, merecem prosperar as alegações do recorrente.
+O Superior Tribunal de Justiça, recentemente, no julgamento do Tema n. 1.076, a depender da presença da Fazenda Pública, reservou a utilização do art. 85, § 8º, do CPC (fixação por equidade) para quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo.
+Também foi estabelecida uma sequência objetiva na fixação da verba, devendo a fixação ser calculada subsequentemente sobre o valor (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa. Eis as teses consignadas no referido julgamento:
+1) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação ou da causa, ou o proveito econômico da demanda, forem elevados. É obrigatória, nesses casos, a observância dos percentuais previstos nos parágrafos 2º ou 3º do artigo 85 do Código de Processo Civil (CPC) - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa.
+2) Apenas se admite o arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo.
+De acordo com a nova jurisprudência do STJ, a apreciação equitativa não pode ser utilizada pelo juiz para reduzir o valor dos honorários advocatícios quando esse entende que os critérios do art. 85, § 2º, do CPC determinam uma quantia excessiva. O art. 85, § 8º, do CPC é exceção a regra, que deve ser interpretada restritivamente (AgInt no AREsp n. 1.463.564/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma julgado em 16/8/2022, DJe de 31/8/2022).
+No mesmo sentido, cito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. CONTRATO DE PRESTAÇÃO DE SERVIÇOS. ALEGADA FRAUDE NÃO EVIDENCIADA. HONORÁRIOS DE ADVOGADO. SUBMISSÃO AOS LIMITES DO §2º DO ART. 85 DO CPC.
+1. A Corte Especial, ao analisar "o alcance da norma inserta no § 8º do artigo 85 do Código de Processo Civil nas causas em que o valor da causa ou o proveito econômico da demanda forem elevados." nos Recursos especiais repetitivos nº 1.850.512/SP e nº REsp 1.877.883/SP concluiu que "Apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo."
+2. Caso concreto em que não há espaço para a aplicação do arbitramento por equitatividade, senão mera tentativa de revisão do que claramente julgado, consubstanciando-se intento protelatório a fazer concretizada a hipótese do art. 1026, §2º, do CPC.
+3. EMBARGOS DE DECLARAÇÃO REJEITADOS, COM APLICAÇÃO DE MULTA.
+(EDcl no AgInt no REsp n. 1.816.714/DF, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 20/3/2023, DJe de 23/3/2023.)
+Na hipótese dos autos, não havendo condenação, não sendo aferível o proveito econômico, nem se apresentando na hipótese valor da causa muito baixo, deve ser definida a verba de honorários advocatícios pelo valor da causa, que não foi contestada em impugnação, devendo a verba ser fixada em patamar mínimo de acordo com a gradação do § 2º do art. 85 do CPC.
+Por fim, da leitura dos embargos de declaração verifica-se que os aclaratórios foram opostos com a finalidade de prequestionar a matéria arguida no recurso especial, razão pela qual afasto a multa por embargos de declaração protelatórios aplicada pelo Tribunal de origem.
+Ante o exposto, conheço do agravo e dou provimento ao recurso especial para afastar a multa do art. 1.026, § 2º, do CPC, e determinar o retorno dos autos ao Tribunal de origem para que lá sejam fixados os honorários advocatícios no percentual mínimo do art. 85, § 2º, do CPC.
+Publique-se. Intimem-se.
