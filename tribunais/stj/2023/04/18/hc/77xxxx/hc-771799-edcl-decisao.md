@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ALBANO RICARDO BELLO RUGAI contra a decisão de e-STJ fls. 229/235, por meio da qual conheci parcialmente do habeas corpus e, nessa parte, deneguei a ordem.
+Nas razões do presente recurso, sustenta o embargante, em suma, a omissão na decisão embargada quanto à exasperação da pena-base. Afirma a defesa que, em apelação, requereu a alteração da pena-base e o Tribunal de origem enfrentou o tema (e-STJ fl. 239).
+Assim, requer o acolhimento dos embargos para que o habeas corpus seja conhecido, e analisado o pedido referente à falta de motivação válida para exasperação da pena-base (e-STJ fl. 241).
+É o relatório.
+Decido.
+Os embargos de declaração, no processo penal, destinam-se a sanar possível ambiguidade, obscuridade, contradição ou omissão no acórdão ou decisão.
+De fato, o acórdão do Tribunal de origem decidiu acerca da exasperação da pena-base do embargante. Desse modo, a decisão embargada deixou de se pronunciar sobre a falta de motivação válida para exasperação da pena-base.
+No entanto, da análise dos autos, verifico que o pleito não merece prosperar.
+In  casu,  colhe-se  do  acórdão  recorrido  (e-STJ  fls.  126/127 e 150/151):
+Passa-se à análise das penas dos recorrentes.
+Convém explicitar, desde logo, ter-se como correta a elevação das penas-base em relação a todos os recorrentes que foram condenados como incursos no delito previsto no artigo 33, caput, da Lei nº 11.343/2006, com fundamento na intensidade do comércio de entorpecentes, assim entendida sob os aspectos da quantidade da droga apreendida, sua espécie e número de atos de efetiva entrega onerosa ao consumo de terceiros. De igual forma, justifica-se a fixação das penas-base do crime de associação para o tráfico acima dos pisos para todos os apelantes, com fulcro na dimensão da associação para o tráfico de drogas, sob o aspecto de seu tempo de duração, número de integrantes, abrangência territorial e forma de organização.
+Nestes autos, a associação criminosa atuava desde maio de 2015 até janeiro de 2016 na cidade de Jales e em outros municípios próximos, a exemplo de Ponta linda, Vitória Brasil e Urania, era integrada por no mínimo catorze agentes, dividia-se em grupos que se interligavam e vários foram os atos de comércio realizados pela associação criminosa.
+ ..
+XIV - ALBANO RICARDO BELLO RUGAI:
+Está condenado pelo crime de associação para o tráfico.
+Na primeira fase da dosimetria, justifica-se a elevação da pena- base no quantum de 2/3 (dois terços), ou seja, 05 (cinco) anos de reclusão, pelos motivos já explicitados, relacionados à dimensão da associação para a prática da comercialização ilícita de entorpecentes.
+Na segunda etapa do cálculo, não há agravantes e atenuantes, mantendo-se o subtotal anterior.
+Na terceira e última fase, a privativa de liberdade foi corretamente aumentada de 1/6 (um sexto) ante a característica da interestadualidade e a ausência de causas de diminuição, para ser tornada definitiva em 05 (cinco) anos e 10 (dez) meses de reclusão.
+A pena de multa foi estabelecida beneficamente em 900 (novecentas) diárias mínimas, assim permanecendo por se tratar de recurso exclusivo da Defesa.
+A quantidade da pena impede a substituição da carcerária por restritivas de direitos e o sursis , medidas que tampouco se mostrariam suficientes e socialmente recomendáveis.
+Quanto ao regime prisional, mantém-se o fechado, ante as circunstâncias judiciais desfavoráveis que ensejaram a elevação das bases e estão relacionadas à dimensão da associação para o tráfico. Nesse contexto, sequer a existência de tempo de prisão preventiva seria suficiente a ensejar o abrandamento. (Grifei)
+Na  presente  hipótese,  as  instâncias  de  origem  estabeleceram  as  reprimendas  básicas  acima  do  mínimo  legal,  considerando  desfavoráveis  as  circunstâncias  judiciais  relativas  à " dimensão  da  associação  para  o  tráfico  de  drogas,  sob  o  aspecto  de  seu  tempo  de  duração,  número  de  integrantes,  abrangência  territorial  e  forma  de  organização"  (e-STJ  fl. 127, grifei),  o  que  denota  a  maior  reprovabilidade  de  seu  comportamento  e  autoriza  a  fixação  da  pena-base  acima  do  mínimo  legal.
+No  entanto,  embora  tais  circunstâncias  judiciais  tenham  sido  fundamentadas  de  forma  concreta,  a  exasperação,  em  relação  ao  crime  de  associação  para  a traficância em  2/3  (dois  terços) ,  mostra-se  excessiva  e  desproporcional,  merecedora,  por  consequência,  de  reparo.
+Nesse  sentido:
+PENAL.  AGRAVO  REGIMENTAL  NO  HABEAS  CORPUS.  TRÁFICO  DE  DROGAS.  DOSIMETRIA.  PENA-BASE.  DESPROPORCIONALIDADE  DO  AUMENTO  NA  PRIMEIRA  FASE.  QUANTIDADE  DE  ENTORPECENTES  APREENDIDA.  MAJORANTE.  AUMENTO  EM  FRAÇÃO  ACIMA  DA  MÍNIMA  QUE  EXIGE  FUNDAMENTAÇÃO  CONCRETA,  O  QUE  NÃO  OCORREU  NA  ESPÉCIE.  REDIMENSIONAMENTO  DA  PENA.  HABEAS  CORPUS  PARCIALMENTE  CONCEDIDO.  AGRAVO  REGIMENTAL  DESPROVIDO.
+1.  Na  esteira  da  orientação  jurisprudencial  desta  Corte,  por  se  tratar  de  questão  afeta  a  certa  discricionariedade  do  magistrado,  a  dosimetria  da  pena  é  passível  de  revisão  em  habeas  corpus  apenas  em  hipóteses  excepcionais,  quando  ficar  evidenciada  flagrante  ilegalidade,  constatada  de  plano,  sem  a  necessidade  de  maior  aprofundamento  no  acervo  fático-probatório.
+2.  Não  obstante  não  seja  irrelevante  a  quantidade  de  entorpecentes  apreendida  em  poder  do  agravado,  tal  quantidade  não  é  expressiva  o  suficiente  para  exasperar  a  pena-base  com  fulcro  no  art.  42  da  Lei  n.  11.343/2006,  sendo  tal  aumento  desproporcional.  Fixada  a  pena-base  no  mínimo  legal.
+3.  A  incidência  da  fração  aplicada  às  causas  de  aumento  previstas  no  art.  40  da  Lei  de  drogas  em  fração  superior  à  mínima  legal  de  1/6  (um  sexto)  exige  motivação  concreta,  o  que  não  ocorreu  na  espécie.
+4.  Agravo  regimental  desprovido.
+(AgRg  no  HC  456.440/RJ,  de  minha  relatoria,  julgado  em  4/8/2020,  DJe  10/8/2020.)
+PENAL.  AGRAVO  REGIMENTAL  NO  HABEAS  CORPUS.  TRÁFICO  DE  DROGAS.  EXASPERAÇÃO  DA  PENA-BASE.  CULPABILIDADE  DO  AGENTE.  QUANTIDADE  E  NATUREZA  DO  ENTORPECENTE.  FUNDAMENTOS  IDÔNEOS.  QUANTUM  DESPROPORCIONAL.  NECESSIDADE  DE  READEQUAÇÃO  DA  PENA.  AGRAVO  NÃO  PROVIDO.
+1.  A  individualização  da  pena  é  uma  atividade  em  que  o  julgador  está  vinculado  a  parâmetros  abstratamente  cominados  pela  lei,  sendo-lhe  permitido,  entretanto,  atuar  discricionariamente  na  escolha  da  sanção  penal  aplicável  ao  caso  concreto,  após  o  exame  percuciente  dos  elementos  do  delito,  e  em  decisão  motivada.  Dessarte,  ressalvadas  as  hipóteses  de  manifesta  ilegalidade  ou  arbitrariedade,  é  inadmissível  às  Cortes  Superiores  a  revisão  dos  critérios  adotados  na  dosimetria  da  pena.
+2.  Adotado  o  sistema  trifásico  pelo  legislador  pátrio,  na  primeira  etapa  do  cálculo,  a  pena-base  será  fixada  conforme  a  análise  das  circunstâncias  do  art.  59  do  Código  Penal.  Tratando-se  de  condenado  por  delitos  previstos  na  Lei  de  Drogas,  o  art.  42  da  referida  norma  estabelece  a  preponderância  dos  vetores  referentes  a  quantidade  e  a  natureza  da  droga,  assim  como  a  personalidade  e  a  conduta  social  do  agente  sobre  as  demais  elencadas  no  art.  59  do  Código  Penal.
+3.  No  caso,  embora  os  vetores  do  art.  42  da  Lei  de  Drogas  sejam  idôneos  para  exasperar  a  pena-base  do  delito  de  tráfico  de  entorpecente,  a  elevação  da  sanção  em  2  anos  e  6  meses  acima  do  mínimo  legal  mostrou-se  desproporcional  em  relação  à  quantidade  de  entorpecente  apreendido  (49g  de  crack),  sendo  suficiente  o  aumento  em  1/8.
+4.  Agravo  regimental  não  provido.
+(AgRg  no  HC  546.288/PR,  Rel.  Ministro  RIBEIRO  DANTAS,  QUINTA  TURMA,  julgado  em  25/8/2020,  DJe  3/9/2020. )
+Passo, assim, à readequação da dosimetria da pena, mantendo os parâmetros adotados pelo colegiado local.
+Na  primeira  fase,  estabeleço  a  pena-base  em  3  anos  e  6  meses  de  reclusão  mais  816  dias-multa.
+Na  segunda  etapa,  permanece inalterada, ante a ausência de circunstâncias agravantes e atenuantes.
+Na  terceira  fase,  diante  da  presença  da  causa  de  aumento  prevista  no  art.  40,  inciso  V,  da  Lei  n.  11.343/2006,  mantem-se  a  fração  de  1/6,  totalizando  a  reprimenda  em  4  anos e  1 mês  de  reclusão .
+Ante o exposto, a colho os embargos de declaração, para sanar a omissão constatada na decisão embargada, com efeitos modificativos, nos termos ora delineados.
+Publique-se. Intimem-se.
