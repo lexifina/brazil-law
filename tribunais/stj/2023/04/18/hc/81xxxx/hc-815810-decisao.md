@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, impetrado em benefício de MARLON IGOR SOARES, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL nos autos da Apelação Criminal n. 5008500-95.2020.8.21.0005.
+Extrai-se dos autos que, em 11/8/2021, o paciente foi condenado em primeiro grau pela prática dos crimes previstos no art. 33 da lei n. 11.343/2006 e no art. 16, §1º, IV da Lei n. 10.826/2003 (tráfico de drogas e porte de arma de fogo com numeração suprimida), às penas de 11 anos e 7 dias de reclusão, em regime inicial fechado, ocasião na qual o Juiz sentenciante indeferiu o recurso em liberdade, mantendo a custódia anteriormente decretada.
+Irresignada, a defesa interpôs recurso de apelação, o qual, segundo informa o impetrante, ainda está pendente de julgamento.
+No presente writ o impetrante sustenta a existência de excesso de prazo no julgamento do apelo defensivo, destacando que o recurso foi interposto em 15/12/2021 e está concluso para julgamento desde 14/3/2022. Ressalta que após solicitação de retirada do feito da sessão virtual e inclusão em sessão presencial, considerando o interesse da defesa em realizar sustentação oral, ocorrida há um mês, o processo não foi novamente incluído em pauta para julgamento. Aduz que o feito não possui complexidade que justifique a excessiva demora, destacando que o paciente está preso há 2 anos e 8 meses.
+Alega a inadmissibilidade da prisão para cumprimento antecipado de pena e alega não estarem presentes, no caso dos autos, os requisitos previstos no art. 312 do Código de Processo Penal - CPP. Pondera a suficiência da aplicação de medidas cautelares alternativas previstas no art. 319 do CPP.
+Requer, em liminar e no mérito, a revogação da prisão preventiva do paciente, ainda que mediante a aplicação de medidas cautelares alternativas.
+É o relatório.
+Decido.
+A presente impetração não merece prosperar.
+Isso porque, cumpre ressaltar que o presente writ traz pedido e causa de pedir idênticos aos formulados no HC 760.550/RS, o qual teve a liminar indeferida em decisão por mim proferida e está concluso para julgamento. Destaco que ambos os feitos se insurgem contra o apontado excesso de prazo no julgamento da Apelação Criminal n. 5008500-95.2020.8.21.0005, pelo Tribunal de Justiça do Estado do Rio Grande do Sul.
+Assim, diante de inadmissível reiteração de pedidos, obstaculizado o conhecimento deste recurso.
+Nesse sentido:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. NÃO CONHECIMENTO. MERA REITERAÇÃO DE PEDIDO. EXAME DO MÉRITO EM WRIT ANTERIOR. SUPRESSÃO DE INSTÂNCIA NA REVISÃO CRIMINAL. AGRAVO DESPROVIDO.
+I - Inviável o reexame de matéria de mérito já apreciada em habeas corpus anteriormente julgado, pois configura a inadmissível reiteração de pedido; da mesma forma que não se admite a revisão criminal de forma originária neste Superior Tribunal de Justiça, quando competir ao eg. Tribunal de origem, por representar indevida supressão de instância; tudo, nos termos do art. 210, do RISTJ: "Art. 210. Quando o pedido for manifestamente incabível, ou for manifesta a incompetência do Tribunal para dele tomar conhecimento originariamente, ou for reiteração de outro com os mesmos fundamentos, o relator o indeferirá liminarmente". Precedentes.
+Agravo regimental desprovido.
+(AgRg no RHC 124.697/MG, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 13/04/2020, DJe 17/04/2020)
+De outro lado, as questões relativas aos fundamentos da prisão preventiva e à apontada suficiência da aplicação de medidas cautelares alternativas, não foram examinadas pelo Tribunal a quo.
+Sendo assim, não havendo manifestação do Tribunal de origem sobre as alegações aqui deduzidas, fica esta Corte Superior impedida de pronunciar-se sobre o tema, sob pena de atuar em indevida supressão de instância.
+Nessa esteira:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. EXCESSO DE PRAZO. MATÉRIA NÃO ANALISADA PELA CORTE ESTADUAL. SUPRESSÃO DE INSTÂNCIA. RISCO DE REITERAÇÃO DELITIVA. INEXISTÊNCIA. DECORRIDOS QUASE 20 ANOS DESDE A DATA DA EXTINÇÃO DA PENA DA CONDENAÇÃO ANTERIOR. EXPRESSIVA VARIEDADE E QUANTIDADE DE DROGA. GRAVIDADE DA CONDUTA. FUNDAMENTAÇÃO IDÔNEA. RECURSO CONHECIDO E NÃO PROVIDO.
+1. Agravo regimental interposto contra decisão monocrática deste Relator, a qual não conheceu da impetração, mantendo a prisão preventiva.
+2. Diante da utilização crescente e sucessiva do habeas corpus, o Superior Tribunal de Justiça passou a acompanhar a orientação do Supremo Tribunal Federal, no sentido de ser inadmissível o emprego do writ como sucedâneo de recurso ou revisão criminal, a fim de que não se desvirtue a finalidade dessa garantia constitucional, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade.
+3. A matéria sobre o excesso de prazo, não foi objeto de análise na Corte estadual, o que impede o exame direto por esta Corte, por configurar indevida supressão de instância. Precedentes.
+4. De acordo com a folha de antecedentes criminais juntada aos autos, verifica-se que foi extinta a punibilidade do agravante, pelo cumprimento de pena em 12/2/2003. Precedentes.
+5. O decreto prisional possui fundamentação idônea. A privação antecipada da liberdade do cidadão acusado de crime reveste-se de caráter excepcional em nosso ordenamento jurídico, e a medida deve estar embasada em decisão judicial fundamentada (art. 93, IX, da CF) que demonstre a existência da prova da materialidade do crime e a presença de indícios suficientes da autoria, bem como a ocorrência de um ou mais pressupostos do artigo 312 do Código de Processo Penal.
+6. A prisão preventiva está devidamente justificada, diante da gravidade da conduta, pois o agravante foi flagrado na posse de expressiva variedade de drogas - 05 (cinco) porções de cocaína (15, 7g) e a quantia de R$ 29,00 (vinte e nove reais) em dinheiro. Como também, 11 (onze) porções de maconha (46,3g), 49 (quarenta e nove) porções de crack (42,6g) e 04 (quatro) pedras de crack (14,7g).
+Ainda, 44 (quarenta e quatro) porções de maconha (154,4g), 25 (vinte e cinco) pedras de crack (28,0g), 44 (quarenta e quatro) porções de crack (39,4g) e 182 (cento e oitenta e duas) porções de cocaína (173,5g), totalizando 216,31g de entorpecentes (peso liquido).
+Precedentes.
+7. Agravo regimental conhecido e improvido.
+(AgRg no HC n. 782.201/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22/11/2022, DJe de 28/11/2022).
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. CRIMES PATRIMONIAIS E DE LAVAGEM DE DINHEIRO. PRISÃO DOMICILIAR COM MONITORAMENTO ELETRÔNICO. ALEGADO EXCESSO DE PRAZO. SUPRESSÃO DE INSTÂNCIA. CAUTELAR MOTIVADA NA GARANTIA DA ORDEM PÚBLICA. RÉU COM MAUS ANTECEDENTES E SUSPEITO DE LIDERAR ORGANIZAÇÃO CRIMINOSA INTERESTADUAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não pode ser examinada a matéria referente ao excesso de prazo para conclusão do inquérito, porque o tema não foi apreciado pela Corte de origem. Logo, sua análise direta por este STJ configuraria supressão de instância, não admitida em nosso sistema processual.
+2. O Tribunal local aponta que há risco de reiteração delitiva, pela existência tanto dos maus antecedentes como de indícios de que o recorrente faz do crime seu meio de vida, liderando organização criminosa interestadual que, pelo menos até o momento da decretação das cautelares, encontrava-se em plena atividade. Assim, não há ilegalidade na imposição da prisão domiciliar (mediante monitoramento eletrônico) para obstar a continuidade da prática delitiva.
+3. Agravo regimental desprovido.
+(AgRg no RHC n. 167.095/AL, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 14/11/2022, DJe de 18/11/2022).
+Por tais razões, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+Intimem-se.
