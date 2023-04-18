@@ -1,0 +1,10 @@
+DECISÃO
+O presente writ, impetrado em benefício de Antonio Fabio Nunes dos Santos - preso preventivamente pela prática, em tese, do crime de lesão corporal no âmbito doméstico e familiar contra a mulher - contra ato coator do Tribunal de Justiça do Rio Grande do Sul (Habeas Corpus n. 5068685-61.2023.8.21.7000), não comporta acolhimento.
+Com efeito, busca a impetração a revogação da prisão cautelar imposta ao paciente aos argumentos de que a autoridade judiciária decretou a prisão cautelar para garantir o cumprimento de medidas protetivas que foram deferidas pelo prazo de 90 dias, na data de 27/9/2022, nos Autos n. 5002631-54.2022.8.21.0144/RS, não sendo renovadas e extintas ainda em 2/1/2023, o que afasta a motivação fundamentada no art. 313, III, do CPP (fl. 4).
+Da atenta análise dos autos observa-se que, ainda na vigência de medidas protetivas de urgência, o paciente voltou a lesionar a vítima de forma contundente, que precisou ser internada em razão de lesões no olho e couro cabeludo, uma vez que o imputado lhe teria, em tese, desferido golpes de capacete.
+Assim, por não verificar o ilegal constrangimento e, diante da iminência de audiência de instrução e julgamento (19/4/2023), na qual o Magistrado singular da Vara Judicial da comarca de Carlos Barbosa/RS verificará a necessidade, ou não, da manutenção da segregação cautelar, não vejo como conceder a liberdade ao indiciado, devendo ser preservada a discricionariedade do Juízo de conhecimento, o qual, mais próximo das partes, dos fatos e da ação penal, tem melhores condições de avaliar o caso narrado (Princípio da Confiança no Juiz do Processo).
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. LESÃO CORPORAL LEVE NO ÂMBITO DOMÉSTICO E FAMILIAR CONTRA A MULHER. DELITO PRATICADO QUANDO VIGENTES MEDIDAS PROTETIVAS DE URGÊNCIA CONTRA O SUPOSTO AGRESSOR. REITERAÇÃO DELITIVA. GARANTIA DA ORDEM PÚBLICA. AUDIÊNCIA, ADEMAIS, IMINENTE. PRESERVAÇÃO DA ÓTICA DO JUÍZO DE CONHECIMENTO (PRINCÍPIO DA CONFIANÇA DO JUIZ NO PROCESSO). CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
