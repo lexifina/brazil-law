@@ -1,0 +1,67 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS contra acórdão prolatado, por unanimidade, pela 17ª Câmara de Direito Público do Tribunal de Justiça de São Paulo no julgamento de apelação, assim ementado (fl. 106e):
+Acidente do Trabalho - Ação Revisional - Decadência - Prescrição - Não configuração - Preliminares rejeitadas.
+Acidente do Trabalho - Ação Revisional - Aposentadoria por invalidez - Concessão antes da promulgação da Constituição Federal de 1988 - Reajuste pelo art. 58, do ADCT - Admissibilidade - Precedentes do Colendo Superior Tribunal de Justiça.
+Acidente do Trabalho - Benefício - Valores em atraso - Atualização - Lei nº 8.213/91 e subseqüentes alterações.
+Processo Civil - Honorários advocatícios - Base de Cálculo - Prestações vencidas até a prolação da sentença - Aplicação da Súmula nº 111, do STJ.
+Processo Civil - Sucumbência do INSS - Custas - Isenção - Lei Estadual nº 11.608/03.
+Juros de Mora - índices - Até a entrada em vigor do Código Civil de 2002, a taxa é de 0,5% ao mês - Após, corresponderá àquela vigente para a mora do pagamento de impostos devidos à Fazenda Nacional, nos termos do seu art. 406 - Cômputo - Modo englobado até a citação e, após, mês a mês, decrescentemente.
+Opostos embargos de declaração, foram rejeitados (fls. 124/129e).
+Houve readequação da decisão, em sede de juízo de conformidade, consoante ementa de seguinte teor (fl. 213e):
+RECURSOS ESPECIAL E EXTRAORDINÁRIO CONTROVÉRSIA REPETITIVA PUBLICAÇÃO DE ACÓRDÃO PARADIGMA.REEXAME DA MATÉRIA nos termos do Artigo 1.040, inciso II, do CPC/15.
+JUROS DE MORA E CORREÇÃO MONETÁRIA. TEMA 905/STJ. APLICABILIDADE DA LEI 11.960/09. Questão decidida pelo C.STF, no RE 870.947/SE (Tema 810 de repercussão geral), definindo o IPCA-E como índice de correção monetária das prestações em atraso, em substituição à TR, e pelo C. STJ, no REsp 1.492.221/PR (Tema 905 de controvérsia repetitiva), definindo o INPC como índice de correção monetária no período posterior à vigência da Lei 11.430/06, ambos fixando os juros moratórios segundo o índice de remuneração da caderneta de poupança (art. 1º-F da Lei 9.497, com redação dada pela Lei P 11.960/09).
+Modificação do entendimento inicialmente contido no v. acórdão recorrido para alteração dos índices: Lei n. 6.423/77; depois, até 5 dezembro/1992, INPC; de janeiro de 1993 a fevereiro de 1994, IRSM; conversão para URV pelo valor do dia em 28.02.94; IPC-r de julho de 1994 a junho de 1995; INPC até 01/05/1996; IGP-DI até 31/03/2006 e novamente INPC até 30/06/2009 e, após, IPCA- E.
+READEQUAÇÃO REALIZADA
+Com amparo no art. 105, III, a, da Constituição da República, aponta-se ofensa aos dispositivos a seguir relacionados, alegando-se, em síntese, que:
+Art. 535 do Código de Processo Civil - houve erro/omissão quanto ao fato de que, para revisão pretendida, deve-se adotar o número de salários mínimos vigentes na data da concessão do benefício; e não da data do eventual benefício que o sucedeu; Art. 463 do Código de Processo Civil - houve erro material no cálculo acolhido; e Art. 1º-F da Lei n. 8.213/1991 - as alterações da apontada norma devem ser aplicadas imediatamente a todos os processos em curso; e ainda que os juros de mora devem obedecer aos termos da Lei n. 11.960/2009.Sem contrarrazões (fls. 173/176e), o recurso foi admitido (fls. 225/226e).
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 1973.
+Nos termos do art. 557, caput, do Código de Processo Civil, combinado com o art. 34, XVIII, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a negar seguimento a recurso ou a pedido manifestamente inadmissível, improcedente, prejudicado ou em confronto com súmula ou jurisprudência dominante da respectiva Corte ou Tribunal Superior.
+A Autarquia Recorrente sustenta a existência de omissão/erro no acórdão recorrido, não sanada no julgamento dos embargos de declaração, compreendendo que, para a pretendida revisão, deve-se adotar o número de salários mínimos vigentes na data da concessão do benefício; e não da data do eventual benefício que o sucedeu.
+Ao prolatar o acórdão mediante o qual os embargos de declaração foram analisados, o tribunal de origem enfrentou a controvérsia apresentada nos seguintes termos (fls. 124/129e):
+As razões que levaram à confirmação da procedência da ação se acham expostas no acórdão embargado, de forma clara a objetiva, com suficiente fundamentação.
+Em sua apelação, o INSS deixou de abordar o tema relativo ao divisor adotado para a aplicação da equivalência salarial.
+Concentrou sua insurgência apenas na circunstância de que o art. 58, do ADCT, determinou a equivalência salarial de forma transitória, ou seja, de abril/89 a dezembro/91 (fis. 53157). E tal tema, por sua vez, foi devidamente analisado pelo acórdão ora impugnado.
+Cumpre ressaltar que, antes da prolação da r. sentença, após a Contadoria Judicial informar que o cálculo apresentado pelo autor estava correto (fls. 42), a autarquia alegou apenas a ocorrência, e decadência e de prescrição (fis. 44).
+O INSS também não trouxe aos autos nenhuma memória de cálculo para a demonstração de suas alegações, ou seja, com as datas e valores que reputa como corretos, até mesmo para fins de comparação com a conta elaborada pelo segurado e, ainda, para elidir as afirmações do Contador Judicial.
+E o ônus da prova, quanto à existência de fato impeditivo, modificativo ou extintivo do direito do autor, incumbia à autarquia, diante do disposto no art. 333, II, do Código de Processo Civil.
+Portanto, não há falar em erro material ou contradição. (Destaque meu).
+No caso, não verifico omissão acerca de questão essencial ao deslinde da controvérsia e oportunamente suscitada, tampouco de outro vício a impor a revisão do julgado.
+Com efeito, haverá contrariedade ao art. 535 do Código de Processo Civil quando a omissão disser respeito à fundamentação exposta, e não quando os argumentos invocados não restarem estampados no julgado, como pretende a parte Recorrente.
+O procedimento encontra amparo em reiteradas decisões no âmbito desta Corte Superior, de cujo teor merece destaque a dispensa ao julgador de rebater, um a um, os argumentos trazidos pelas partes (v.g. Corte Especial, EDcl nos EDcl nos EREsp 1.284.814/PR, Rel. Min. Napoleão Nunes Maia Filho, DJe de 03.06.2014; 1ª Turma, EDcl nos EDcl no AREsp 615.690/SP, Rel. Min. Sérgio Kukina, DJe de 20.02.2015; e 2ª Turma, EDcl no REsp 1.365.736/PE, Rel. Min. Humberto Martins, DJe de 21.11.2014).
+Depreende-se da leitura do acórdão integrativo que a controvérsia foi examinada de forma satisfatória, mediante apreciação da disciplina normativa e cotejo ao firme posicionamento jurisprudencial aplicável ao caso.
+De outra parte, observo que o tribunal de origem afastou o alegado erro material, sob o fundamento de que a autarquia não comprovou a incorreção dos cálculos apresentados pelo autor e pela contadoria judicial, conforme se extrai dos seguintes excertos do acórdão recorrido (fls. 124/129e):
+Cumpre ressaltar que, antes da prolação da r. sentença, após a Contadoria Judicial informar que o cálculo apresentado pelo autor estava correto (fls. 42), a autarquia alegou apenas a ocorrência, e decadência e de prescrição (fis. 44).
+O INSS também não trouxe aos autos nenhuma memória de cálculo para a demonstração de suas alegações, ou seja, com as datas e valores que reputa como corretos, até mesmo para fins de comparação com a conta elaborada pelo segurado e, ainda, para elidir as afirmações do Contador Judicial.
+E o ônus da prova, quanto à existência de fato impeditivo, modificativo ou extintivo do direito do autor, incumbia à autarquia, diante do disposto no art. 333, II, do Código de Processo Civil.
+Portanto, não há falar em erro material ou contradição. (Destaque meu).
+Nas razões do Recurso Especial, tal fundamentação não foi refutada, repercutindo na inadmissibilidade do recurso, visto que esta Corte tem firme posicionamento segundo o qual a falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283 do Colendo Supremo Tribunal Federal: "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Nessa linha, destaco os seguintes julgados de ambas as Turmas que compõem a 1ª Seção desta Corte:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OCUPAÇÃO DE TERRA PÚBLICA. ÁREA DE PRESERVAÇÃO PERMANENTE. DEMOLIÇÃO DE CONSTRUÇÃO. OMISSÃO NÃO CARACTERIZADA. INTERPRETAÇÃO DE LEI LOCAL. SÚMULA N. 280 DO STF. ACÓRDÃO A QUO QUE CONCLUI, COM BASE NOS FATOS E PROVAS DOS AUTOS, PELA IRREGULARIDADE DA EDIFICAÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. FUNDAMENTO AUTÔNOMO INATACADO. SÚMULA N. 283 DO STF. ALEGADA VIOLAÇÃO À LEI FEDERAL. DISPOSITIVOS NÃO INDICADOS. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284 DO STF.
+(..)
+4. A argumentação do recurso especial não atacou o fundamento autônomo e suficiente empregado pelo acórdão recorrido para decidir que o Código de Edificações do Distrito Federal autoriza à Administração Pública, no exercício regular do poder de polícia, determinar a demolição de obra irregular, inserida em área pública e de preservação permanente. Incide, no ponto, a Súmula 283/STF.
+5. Revelam-se deficientes as razões do recurso especial quando o recorrente limita-se a tecer alegações genéricas, sem, contudo, apontar especificamente qual dispositivo de lei federal foi contrariado pelo Tribunal a quo, fazendo incidir a Súmula 284 do STF.
+6. Agravo regimental não provido.
+(AgRg no AREsp 438.526/DF, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 05/08/2014, DJe 08/08/2014);
+ADMINISTRATIVO E PROCESSUAL CIVIL. FASE DE EXECUÇÃO DE SENTENÇA CONDENATÓRIA POR ATO DE IMPROBIDADE. BENS IMÓVEIS PENHORADOS, LEVADOS A HASTA PÚBLICA E ARREMATADOS. SUPERVENIÊNCIA DE DECISÃO EM AÇÃO RESCISÓRIA, RESCINDINDO O ACÓRDÃO CONDENATÓRIO. PRETENSÃO DE ANULAÇÃO DAS ARREMATAÇÕES. NECESSIDADE DE AÇÃO PRÓPRIA. IMÓVEIS QUE TERIAM SIDO ARREMATADOS POR PREÇO VIL. INDENIZAÇÃO QUE DEVE SER BUSCADA EM AÇÃO PRÓPRIA. ACÓRDÃO RECORRIDO CUJOS FUNDAMENTOS NÃO SÃO IMPUGNADOS PELAS TESES DO RECORRENTE. SÚMULA N. 283 DO STF. INEXISTÊNCIA DE VIOLAÇÃO DO ART. 535 DO CPC.
+(..)
+4. Com relação aos demais pontos arguidos pelo recorrente, forçoso reconhecer que o recurso especial não merece conhecimento, porquanto, além da ausência de prequestionamento das teses que suscita (violação dos artigos 687, 698 do CPC e 166, inciso IV, e 1.228 do Código Civil) (Súmula n. 211 do STJ), tem-se que as razões recursais não impugnam, especificamente, os fundamentos do acórdão recorrido, o que atrai o entendimento da Súmula n. 283 do STF.
+5. Não sendo possível o retorno ao status quo ante, deve o prejudicado pedir indenização por meio de ação própria, caso entenda que aquela arbitrada pelo juízo da execução é insuficiente para recompor sua indevida perda patrimonial.
+Recurso especial não conhecido.
+(REsp 1.407.870/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 12/08/2014, DJe 19/08/2014).
+Por fim, verifico a carência superveniente do interesse recursal quanto à análise da questão referente aos juros de mora, em face do juízo de retratação (fls. 212/217e).
+Nesse sentido:
+PROCESSO CIVIL. ADMINISTRATIVO. RECURSO ESPECIAL. DESAPROPRIAÇÃO. REFORMA AGRÁRIA. OMISSÃO. INEXISTÊNCIA. LAUDO PERICIAL. ADOÇÃO. POSSIBILIDADE. CRITÉRIOS. SÚMULA 7/STJ. CORREÇÃO. TDA. OCORRÊNCIA. PATAMAR DE JUROS. JUÍZO DE RETRATAÇÃO EFETUADO. PERDA DE OBJETO. JUROS COMPENSATÓRIOS. INCIDÊNCIA. TEMA REPETITIVO 282. REGÊNCIA TEMPORAL. ADEQUAÇÃO.
+(..)
+5. Realizado juízo de retratação na origem quanto ao patamar dos juros compensatórios, à luz de recursos repetitivos, fica prejudicado o exame da matéria.
+6. A correta interpretação da parte final do Tema Repetitivo 282/STJ leva ao afastamento da incidência de juros no período entre a vigência da MP 1.901 e a concessão da liminar na ADI 2.332.
+7. Recurso especial parcialmente conhecido e, nessa extensão, parcialmente provido.
+(REsp 1.581.869/PB, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 06/03/2018, DJe 13/03/2018 - destaques meus).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. REPETIÇÃO DE INDÉBITO DE CONTRIBUIÇÃO PREVIDENCIÁRIA. ART. 535, I E II DO CPC: ACÓRDÃO LIVRE DE OMISSÃO E CONTRADIÇÃO. ARTS. 20 E 21 DO CPC: PREQUESTIONAMENTO AUSENTE. SÚMULA 211/STJ. JUROS DE MORA. ART. 167, PARÁG. ÚNICO DO CTN: JUÍZO DE RETRATAÇÃO (ART. 543-C, § 7º DO CPC). PERDA DE OBJETO. AGRAVO REGIMENTAL DESPROVIDO.
+(..)
+4. Quanto ao art. 167, parág. único do CTN, que trata dos juros de mora, uma vez que houve retratação do órgão julgador em função da análise, nesta Corte, do REsp. 1.086.935/SP, Rel. Min. TEORI ALBINO ZAVASCKI, DJe 24.11.2008, representativo da controvérsia, resta prejudicado o Recurso Especial, no ponto.
+5. Agravo Regimental desprovido.
+(AgRg no AREsp 62.064/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 09/12/2014, DJe 16/12/2014 - destaques meus).
+Posto isso, com fundamento no art. 557, caput, do Código de Processo Civil, NEGO SEGUIMENTO ao Recurso Especial.
+Publique-se e intimem-se.
