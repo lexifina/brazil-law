@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial interposto por DAIRY PARTNERS AMÉRICAS BRASIL LTDA. contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região, no alega violação dos arts. 489, 1.022 e 1.026 do CPC/2015, dos arts. 97 e 110 do CTN e dos arts. 22 e 28 da Lei n. 8.212/1991 e discute a inclusão, na base de cálculo da contribuição previdenciária patronal, das contribuições assistenciais, negociais (art. 513 da CLT) e confederativas (art. 8º, inc. IV, da CF).
+A parte recorrente sustenta, em síntese: "tanto o seguro de vida dos empregados, quanto as contribuições assistenciais, negociais e confederativas possuem as mesmas características indicadas, de modo que não faz sentido o reconhecimento de apenas uma delas para exclusão das bases de cálculo. Portanto, resta claro que somente incidirá contribuição previdenciária (cota patronal), SAT e contribuição de terceiros (outras entidades) sobre os valores decorrentes da remuneração do serviço prestado pelo empregado ou pelo tempo em que a pessoa física ficou à disposição do empregador ou tomador de serviços, excluindo-se aqui as verbas de natureza coparticipativa" (fl. 912).
+Contrarrazões apresentadas pela FAZENDA NACIONAL (fls. 945/948).
+É o relatório. Decido.
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+Vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (fls. 831/837):
+A contribuição sindical anual, prevista nos artigos 578 e 579, da CLT, trata-se de desconto em folha, correspondente à remuneração de um dia de trabalho, devido como forma de custeio das atividades sindicais de entidade representativa de determinada categoria profissional.
+Por sua vez, a contribuição confederativa tem por finalidade o custeio do sistema confederativo, integrado por sindicatos, federações e confederações, podendo ser fixada em assembleia geral, nos termos do art. 8º, inciso IV, da Constituição Federal, independentemente da contribuição sindical anual.
+Por fim, nos termos do art. 513 da CLT, a contribuição assistencial, que se destina a sanear gastos do sindicato de determinada categoria, poderá ser imposta, pelos sindicatos, a todos aqueles que participam das categorias econômicas ou profissionais ou das profissões liberais representadas.
+Em todos os casos expostos, independentemente de o desconto decorrer de obrigatoriedade sindical ou de adesão por parte do empregado sindicalizado, a incidência se dará sobre o total das remunerações paga ao trabalhador.
+Ou seja, a importância paga a título de contribuição sindical anual, assistencial ou confederativa será, em qualquer hipótese, advinda de desconto sobre o valor recebido pelo empregado a título remuneratório, de forma que a destinação posterior de tal importância não tem o condão de alterar sua natureza jurídica.
+Tais valores, portanto, devem ser considerados como ganho habitual do empregado, sujeitando-se à incidência de contribuição previdenciária e social
+Por ocasião do julgamento dos embargos de declaração, nada foi acrescido à fundamentação (fls. 885/888).
+Pois bem.
+Os órgãos judiciais estão obrigados a enfrentar, de forma adequada, coerente e suficiente, as questões relevantes suscitadas para a solução das controvérsias que lhes são submetidas a julgamento, assim considerados os argumentos capazes de, em tese, infirmar a conclusão adotada pelo julgador. A respeito, o Supremo Tribunal Federal, ao apreciar Questão de Ordem no AI 791.292/PE, firmou tese segundo a qual "o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas".
+Nessa linha, não há violação dos arts. 489 e 1.022 do CPC/2015 quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado.
+No caso dos autos, não se verifica violação dos referidos dispositivos, na medida em que a fundamentação adotada pelo órgão julgador dispensa a integração pedida nos aclatórios.
+De outro lado, o recurso não pode ser conhecido porque o acórdão recorrido reflete pacífica orientação jurisprudencial deste Tribunal Superior, pela impossibilidade de abater os valores devidos pelo empregado da base de cálculo da contribuição previdenciária a cargo da empregadora/cota patronal.
+A respeito, mutatis mutandis:
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRIBUIÇÃO PREVIDENCIÁRIA PATRONAL, SAT/RAT E TERCEIROS. BASE DE CÁLCULO. PRETENDIDA EXCLUSÃO DO MONTANTE RETIDO, A TÍTULO DE CONTRIBUIÇÃO PREVIDENCIÁRIA DO EMPREGADO E DE IRRF. IMPOSSIBILIDADE.
+1. A jurisprudência desta Corte possui entendimento de que o montante retido a título de contribuição previdenciária e de IRRF compõe a remuneração do empregado, de modo que deve integrar a base de cálculo da contribuição previdenciária patronal, da contribuição ao SAT/RAT (art. 22, II, da Lei 8.212/1991) e das contribuições sociais devidas a terceiros.  ..
+2. Agravo interno não provido.
+(AgInt no REsp n. 1.976.418/RS, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 19/5/2022)
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRIBUIÇÃO PREVIDENCIÁRIA PATRONAL. BASE DE CÁLCULO. IMPOSSIBILIDADE DE EXCLUSÃO DOS VALORES RETIDOS A TÍTULO DE IMPOSTO DE RENDA E DE CONTRIBUIÇÃO PREVIDENCIÁRIA A CARGO DO EMPREGADO. AGRAVO INTERNO DESPROVIDO.
+ ..
+5. Seguindo a mesma linha de raciocínio, esta Corte Superior de Justiça concluiu que os valores descontados a título de contribuição previdenciária e de imposto de renda retido na fonte integram a remuneração do empregado e, por conseguinte, compõem a base de cálculo da contribuição previdenciária patronal e das contribuições destinadas a terceiros e ao RAT.  ..
+6. Acrescenta-se, em acatamento ao voto-vogal proferido pela Ministra REGINA HELENA COSTA na sessão de julgamento, que a retenção do tributo pela fonte pagadora, tal como ocorre no imposto de renda retido na fonte e na contribuição previdenciária a cargo do empregado, representa autêntico instrumento de praticidade, expediente garantidor do cumprimento da obrigação tributária.
+7. Agravo interno da contribuinte a que se nega provimento.
+(AgInt no REsp n. 1.951.995/RS, relator Ministro Manoel Erhardt (desembargador Convocado do Trf5), Primeira Turma, DJe de 26/5/2022)
+A respeito, dentre outros: AgInt no REsp n. 1.976.287/RS, relator Ministro Francisco Falcão, Segunda Turma, DJe de 26/5/2022; AgInt no REsp n. 1.960.931/RS, relator Ministro Og Fernandes, Segunda Turma, DJe de 12/5/2022; AgInt no REsp 1.934.313/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 22/11/2021, DJe 10/12/2021; AgInt no REsp 1.947.267/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 16/11/2021, DJe 19/11/2021.
+O recurso, portanto, não pode ser conhecido. Observância da Súmula 83 do STJ.
+Ante o exposto, conheço em parte do recurso especial e nego-lhe provimento.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. REQUISITOS DE ADMISSIBILIDADE. NÃO PREENCHIMENTO. RECURSO CONHECIDO EM PARTE E NÃO PROVIDO.
