@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de Danilo Henrique Pereira, em que se aponta como autoridade coatora a Quarta Câmara de Direito Criminal do Tribunal de Justiça de São Paulo , que denegou o Habeas Corpus n. 2305623-69.2022.8.26.0000 lá impetrado, mantendo a prisão preventiva do paciente decretada pelo Juízo de Direito da Vara Criminal da comarca de Olímpia/SP pela suposta prática do crime de tráfico de drogas.
+Neste writ, sustenta-se constrangimento ilegal na prisão preventiva. Aduz-se, em síntese, que a prisão decorreu apenas de denúncias anônimas, não ocorrendo qualquer investigação prévia, de modo que as provas devem ser declaradas nulas.
+Alega-se, ainda, a ausência de fundamentação concreta a justificar a medida.
+É o relatório.
+Em um primeiro momento, observo que não houve manifestação pela Corte estadual acerca da ilegalidade das provas, incorrendo, sua análise, aqui e agora, em indevida supressão de instância.
+Contudo, vislumbro constrangimento ilegal, nesse ponto, a ser sanado de ofício por este Relator.
+Isso porque o ingresso em domicílio sem consentimento do morador possui quatro exceções, nos termos do art. 5º, XI, da Constituição Federal: flagrante delito, desastre, prestação de socorro ou determinação judicial. Até pouco tempo, o entendimento dominante nesta Corte era no sentido de ser dispensável o mandado de busca e apreensão quando se trata de flagrante da prática do crime permanente, como o tráfico ilícito de entorpecentes ou a posse ou o porte ilegal de arma de fogo, pois, nesses casos, o estado de flagrância permanece enquanto não cessada a prática do delito (AgRg no REsp n. 1.637.287/SP, Ministro Jorge Mussi, Quinta Turma, DJe 10/5/2017).
+No entanto, em julgados mais recentes, a jurisprudência aperfeiçoou seu entendimento para considerar não caracterizadas as fundadas razões, art. 240, § 1º, do Código de Processo Penal, a fuga diante de viatura policial e de denúncias anônimas.
+Em suporte: REsp n. 1.558.004/RS, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 31/8/2017; RHC n. 89.853/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 2/3/2020; e HC n. 612.579/BA, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 12/11/2020.
+Prevalece o entendimento de que a simples existência de denúncia anônima, desacompanhada de outros elementos preliminares indicativos da prática de crime, não configura fundadas razões e, portanto, não legitima o ingresso de policiais no domicílio indicado.
+Essa foi a direção tomada pelo Superior Tribunal de Justiça nos julgamentos do HC n. 598.051/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 15/3/2021; e do HC n. 628.371/SC, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 23/3/2021.
+Além disso, também não se considera fundada razão para ingresso em domicílio a apreensão de drogas em poder de alguém em via pública (HC n. 668.886/RJ, Ministra Laurita Vaz, Sexta Turma, DJe 6/5/2022).
+No presente caso, verifico estar caracterizada flagrante ilegalidade, pois o domicílio acessado pelos policiais era residência do paciente e foi objeto de diligência a partir de denúncia anônima e abordagem realizada em via pública. Ausente comprovação da voluntariedade da anuência para que os policiais ingressassem no recinto, faz-se necessário reputar nula a prova em que ancorada a condenação.
+Ante o exposto, não conheço do writ, mas concedo a ordem de ofício, para reconhecer a ilegalidade da prisão em flagrante e, por conseguinte, das provas obtidas em derivação, bem como para trancar a Ação Penal n. 1503494-88.2022.8.26.0400, em trâmite no Juízo da Vara Criminal da comarca de Olímpia/SP, sem prejuízo de que outra denúncia seja oferecida, desde que com base em elementos de informação decorrentes de fonte independente, revogando-se a prisão preventiva, salvo se por outras razões estiver detido.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. TRÁFICO DE DROGAS. NULIDADE. VIOLAÇÃO DE DOMICÍLIO. DENÚNCIAS ANÔNIMAS PRETÉRITAS. AUSÊNCIA DE JUSTA CAUSA. AÇÃO PENAL INSTAURADA EM RAZÃO DAS PROVAS OBTIDAS NO ATO CONSIDERADO ILEGAL. CONSTRANGIMENTO ILEGAL EVIDENCIADO. TRANCAMENTO DA AÇÃO PENAL.
+Writ não conhecido. Ordem concedida de ofício, nos termos do dispositivo.
