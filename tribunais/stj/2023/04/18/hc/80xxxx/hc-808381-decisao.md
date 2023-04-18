@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado contra acórdão assim ementado (fl. 552):
+APELAÇÃO CRIMINAL - TENTATIVA DE FURTO QUALIFICADO, PRATICADO DURANTE O REPOUSO NOTURNO (CP, ART. 155, §§ 1º E 4º, I E IV, C/C ART. 14, II) E UTILIZAÇÃO INDEVIDA DE TELECOMUNICAÇÕES (LEI N. 4.117/62, ART.70) - SENTENÇA CONDENATÓRIA - INSURGÊNCIA DEFENSIVA - MATERIALIDADE E AUTORIA INCONTESTES - PLEITO DE RECONHECIMENTO DA PARTICIPAÇÃO DE MENOR IMPORTÂNCIA EM RELAÇÃO AO CRIME DE FURTO (CP, ART. 29, § 1º) - IMPOSSIBILIDADE - ACUSADO QUE, AO PRESTAR AUXÍLIO MATERIAL À PRÁTICA DELITIVA NA CONDIÇÃO DE VIGIA/MOTORISTA, ADERIU À CONDUTA DOS COMPARSAS - LIAME SUBJETIVO ENTRE OS AGENTES DEMONSTRADO - COAUTORIA EVIDENCIADA (CP, ART. 29, CAPUT) - DOSIMETRIA - TERCEITA ETAPA - PRETENSO AUMENTO DA FRAÇÃO DE REDUÇÃO DA TENTATIVA EM GRAU MÁXIMO (2/3) - IMPOSSIBILIDADE - ANÁLISE DO ITER CRIMINIS QUE RECOMENDA A MANUTENÇÃO DA FRAÇÃO INTERMEDIÁRIA - AGENTES FLAGRADOS QUANDO JÁ HAVIAM ARROMBADO O ESTABELECIMENTO COMERCIAL - REGIME INICIAL - PRETENSA FIXAÇÃO NO ABERTO - IMPOSSIBILIDADE - ACUSADO REINCIDENTE E COM DUAS CIRCUNSTÂNCIAS JUDICIAIS NEGATIVAS - REGIME FECHADO MANTIDO - RECURSO DESPROVIDO.
+O paciente foi condenado como incurso nos termos do art. 155, §§ 1º e 4º, I e IV, do Código Penal, e art. 70 da Lei n. 4.117/62, praticados na forma do art. 70, caput, do CP, à pena de 2 anos e 26 dias de reclusão, em regime inicial fechado, e 8 dias-multa.
+A defesa entende que não deve prevalecer o aumento de 1/3 relativo ao repouso noturno (§ 1º), na forma qualificada do crime (§ 4º, I e IV), tendo em vista a atual jurisprudência do STJ a respeito da questão. Expõe considerações a respeito.
+Requer, liminarmente e no mérito, o afastamento da majorante.
+A liminar foi indeferida, as informações foram prestadas e o Ministério Público manifestou-se pela concessão da ordem.
+A pena assim foi fixada na sentença condenatória (fl. 515):
+Aplicação da pena - tentativa de furto qualificado.
+A culpabilidade (grau de reprovabilidade) é normal. O réu é reincidente, deixando de considerar-se tal circunstância entre os antecedentes. Não existem elementos nos autos que desabonem a conduta social do denunciado. Análise da personalidade prejudicada nos autos pela ausência de indicadores. A motivação é normal ao crime. As circunstâncias do crime foram relevantes, uma vez que perpetrou o crime enquanto cumprida pena no PEC 0026789-70.2013.8.24.0023, onde estava em livramento condicional desde 01/11/2017. As consequências foram relevantes, tendo em vista os prejuízos causados pelo arrombamento (migração da qualificadora). A conduta da vítima não contribuiu para o delito.
+Considerando que existe duas circunstância desfavoráveis, procedo o aumento de 1/6 (um sexto) da pena base para cada uma e fixo a mesma em 02 (dois) anos e 08 (oito) meses de reclusão.
+Aplico a agravante de reincidência para compensar a mesma com a confissão espontânea.
+Na última fase, procedo o aumento de 1/3 pela causa de aumento do § 1º do art. 155 do CP, bem como a redução de 1/2 pela tentativa, ante o iter criminis percorrido (invasão e arrombamento no local), do que resta a pena definitiva em 1 (um) ano, 9 (nove) e 10 (dez) dias de reclusão para o furto qualificado tentado.
+A multa-tipo básica (art. 49, c/c art. 59), fica estabelecida em 8 (oito) dias-multa com valor unitário de 1/30 (um trigésimo) do salário mínimo vigente à época do crime, atualizado monetariamente, à míngua de modificativos.
+O Tribunal de origem, negou provimento à apelação, assim consignando a respeito da questão (fls. 600-601):
+Da dosimetria
+2.1 Do crime de furto
+Na etapa inaugural, foram consideradas duas circunstâncias judiciais negativas, quais sejam, as consequências do delito, ante a migração da qualificadora do rompimento de obstáculo (CP, art. 155, § 4º, I - devidamente comprovada pelo laudo pericial do evento n. 111), e as circunstâncias do delito, porquanto o crime fora praticado enquanto o acusado cumpria pena por outra infração.
+Conquanto o fato de o réu ter perpetrado o crime enquanto gozava de livramento condicional possa ser utilizado para exasperar a pena-base na primeira fase (vide Apelação Criminal n. 0008939-98.2018.8.24.0064, de São José, rel. Des. Getúlio Corrêa, j. 05-11-2019), tal circunstância deve ser considerada no vetor referente à culpabilidade do agente, merecendo, portanto, pequeno reparo na sentença.
+Logo, ante o reconhecimento de duas circunstâncias desfavoráveis, resta pena-base fixada no importe de 2 (dois) anos e 8 (oito) meses de reclusão, além de 12 (doze) dias-multa.
+Na segunda fase, presentes a agravante da reincidência (evento n. 171, certidões n.5, 7 e 8) e a atenuante da confissão espontânea, as quais foram integralmente compensadas (aliás, destaca-se que o acusado sequer fazia jus à compensação integral dos referidas circunstâncias, já que possuidor de três condenações aptas a gerarem reincidência, mas ante a ausência de insurgência ministerial no ponto, deixa-se de efetuar qualquer alteração nesse sentido).
+Na fase derradeira, o sentenciante elevou a pena em 1/3 (um terço) em razão de o crime ter sido praticado durante o repouso noturno (por volta das 2h30, conforme indicamos vídeos do evento n. 28) e reduziu-a, na sequencia, no fracionário de 1/2 (metade) ante o reconhecimento do instituto da tentativa (CP, art. 14, II).
+No ponto, insurge-se da defesa, a qual pleiteia a concessão do patamar máximo da causa de redução da pena (2/3), sob o argumento de que o iter criminis teria sido interrompido logo no início da execução do delito.
+Sem razão.
+Em se tratando de tentativa, a imperatividade da redução da pena pela não consumação do crime deve guardar proporcionalidade à extensão dos atos executórios praticados, na perspectiva do itinerário percorrido.
+Não é demais lembrar que, por ocasião da análise do quantum a ser arbitrado à tentativa (CP, art. 14, II), cabe verificar o caminho inverso do iter criminis, no sentido de que quanto mais próximo da consumação menor deve ser a redução.
+No caso dos autos, o acusado foi surpreendido pelos policiais militares quando aguardava os demais agentes concluírem a subtração do caixa eletrônico localizado no interior do supermercado, e eles já haviam invadido o referido estabelecimento comercial e arrombado o caixa, sendo inviável a fixação da redutora no patamar pretendido. Assim, mantém-se a redução no patamar de 1/2 (metade).
+A reprimenda restou definitivamente estabelecida, portanto, em 1 (um) ano, 9 (nove) e 10 (dez) dias de reclusão, além de 8 (oito) dias-multa.
+2.2 Do crime de utilização indevida de telecomunicações
+Em relação ao delito do art. 70 da Lei n. 4.117/62, verifica-se que a reprimenda fora fixada dentro dos parâmetros legais e jurisprudenciais adotados por este órgão julgador, com a ressalva de que a fundamentação utilizada pelo magistrado para negativar as circunstâncias deve ser migrada para o vetor relativo à culpabilidade, inexistindo quaisquer alterações a serem realizadas de ofício.
+2.3 Do concurso de crimes
+Uma vez reconhecido o concurso formal, o magistrado a quo elevou a maior das reprimendas em 1/6 (um sexto), o que resultou em 2 (dois) anos e 26 (vinte e seis) dias de reclusão, além de 8 (oito) dias-multa.
+Quanto ao regime de cumprimento inicial da pena, considerando tratar-se de réu reincidente e com duas circunstâncias judiciais negativas, mantém-se o regime fechado, tal como consignado na sentença, mesmo motivo pelo qual também se afasta a possibilidade de substituição da reprimenda.
+À vista do exposto, voto no sentido de negar provimento ao recurso.
+A Terceira Seção do Superior Tribunal de Justiça, no julgamento dos Recursos Especiais n. 1.888.756/SP, 1.891.007/RJ e 1.890.981/SP, sob a égide dos recursos repetitivos - Tema n. 1.087, firmou entendimento no sentido de que: "A causa de aumento prevista no § 1º do art. 155 do Código Penal (prática do crime de furto no período noturno) não incide no crime de furto na sua forma qualificada (§ 4º)". (Relator Ministro João Otávio de Noronha, Terceira Seção, julgado em 25/5/2022, DJe de 27/6/2022).
+Cabível assim a exclusão da majorante do repouso noturno.
+Na nova dosimetria, nas duas primeiras fases, mantém-se a pena em 2 anos e 8 meses de reclusão e 12 dias-multa.
+Na terceira, excluída a majorante do repouso noturno, procede-se à redução de 1/2 pela tentativa, razão de se fixar a pena definitiva em 1 ano e 2 meses de reclusão e 6 dias-multa.
+Procede-se ainda, diante do concurso formal, ao aumento na fração de 1/6 sobre a maior das penas, conforme posto nas instâncias de origem, resultando em 1 ano, 4 meses e 10 dias de reclusão e 7 dias-multa.
+Mantém-se os demais termos da condenação.
+Ante o exposto, concedo o habeas corpus para fixar a pena do paciente em 1 ano, 4 meses e 10 dias de reclusão e 7 dias-multa.
+Comunique-se.
+Publique-se.
+Intimem-se.
