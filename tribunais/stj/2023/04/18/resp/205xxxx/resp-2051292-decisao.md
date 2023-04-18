@@ -1,0 +1,48 @@
+DECISÃO
+Cuida-se de recurso especial interposto por JOHNATHAN MOREIRA DOS ANJOS com fundamento nas alíneas a e c do inciso III do art. 105 da Constituição Federal, desafiando acórdão proferido pelo TIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E TERRITÓRIOS, assim ementado (e-STJ, fl. 119):
+APELAÇÃO CÍVEL. PROCESSUAL CIVIL. APELAÇÃO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. DESISTÊNCIA DA PARTE EXEQUENTE. ARBITRAMENTO DE HONORÁRIOS DEVIDO. EXTINÇÃO SEM RESOLUÇÃO DO MÉRITO DOS EMBARGOS À EXECUÇÃO. EXTINÇÃO DA DEMANDA EXECUTIVA. HONORÁRIOS ADVOCATÍCIOS. CUMULAÇÃO. IMPOSSIBILIDADE.SENTENÇA MANTIDA. RECURSO DESPROVIDO. 1. Apelação interposta contra sentença que julgou extinto o processo de embargos à execução, sem resolução de mérito, nos termos do art. 485, VI, do CPC, em razão da perda superveniente do objeto da ação em face da desistência da parte exequente. 2. Diante da defesa exercida nos embargos à execução e o fato de que a extinção da execução decorreu da extinção do processo sem resolução do mérito dos respectivos embargos, não se há cogitar em novo arbitramento de honorários, porquanto não houve atuação efetiva do advogado no processo de execução, extinto por efeito da sentença desconstitutiva, sob pena de se chancelar a dupla condenação pelo trabalho desempenhado somente em um dos processos, uma vez que o proveito econômico é único. 3. Apelação conhecida e recurso desprovido.
+Opostos embargos de declaração, esses foram rejeitados (e-STJ, fls. 143-152).
+Em suas razões recursais (e-STJ, fls. 153-160), sustenta a parte recorrente a existência de violação artigo 85 do Código de Processo Civil, defendendo que são devidos os honorários sucumbenciais, mesmo na extinção sem julgamento do mérito dos embargos à execução.
+Aponta, ainda, divergência jurisprudencial.
+Contrarrazões apresentadas às fls. 166-172.
+Admitido o processamento do recurso na origem, consoante decisão de fls. 175-176 (e-STJ), ascenderam os autos a esta Corte.
+É o relatório.
+Decido.
+O presente recurso merece prosperar.
+1. Com efeito, o Tribunal de origem entendeu não ser cabível a fixação de honorários advocatícios sucumbenciais nos seguintes termos (e-STJ, fl. 123):
+Portanto, o intuito do presente recurso é somente honorários sucumbenciais, contudo a sentença foi precisa ao não os fixar, eis que estes já haviam sido arbitrados na Ação de Execução, evitando, assim, a dupla fixação sobre o mesmo fato gerador (bis in idem). Da análise dos autos, tem-se que a controvérsia cinge-se em avaliar se seriam devidos honorários sucumbenciais em razão da extinção dos embargos à execução, considerando que houve a imposição de condenação ao pagamento desta mesma verba nos autos de execução.
+Quanto ao tema, o Superior Tribunal de Justiça, por meio do recurso repetitivo REsp n. 1.520.710/SC, firmou o entendimento no sentido de considerar os embargos à execução como ação autônoma, sem se confundir com a ação de execução, de forma a permitir a fixação de honorários advocatícios simultaneamente na ação de execução e nos embargos à execução. Confiram-se as teses firmadas no REsp n. 1.520.710/SC (tema 587):
+a) Os embargos do devedor são ação de conhecimento incidental à execução, razão porque os honorários advocatícios podem ser fixados em cada uma das duas ações, de forma relativamente autônoma, respeitando-se os limites de repercussão recíproca entre elas, desde que a cumulação da verba honorária não exceda o limite máximo previsto no § 3º do art. 20 do CPC/1973. (grifei)
+b) Inexistência de reciprocidade das obrigações ou de bilateralidade de créditos: ausência dos pressupostos do instituto da compensação (art. 368 do Código Civil). Impossibilidade de se compensarem os honorários fixados em embargos à execução com aqueles fixados na própria ação de execução.
+Contudo, não obstante a autonomia dos embargos à execução em relação a ação de execução, o próprio Superior Tribunal de Justiça, ao firmar a tese do tema 587, destacou que devem ser respeitados os limites da repercussão recíproca entre as ações quando da fixação dos honorários de sucumbência.
+No caso dos autos, observa-se que os embargos à execução foram extintos em decorrência direta da desistência da ação executiva, o que evidencia a repercussão entre as ações e um proveito econômico único da parte vencedora, razão pela qual não se mostra cabível a condenação em honorários também no processo de embargos à execução, sob pena de bis in idem.
+Contudo, o entendimento do Colendo Superior Tribunal de Justiça é pacífico no sentido de que, independentemente da oposição de embargos à execução, são devidos honorários sucumbenciais ao patrono da parte executada na hipótese de desistência da ação após a constituição de procurador nos autos.
+Outrossim, embora a presente ação de execução de título extrajudicial tenha sido extinta em razão do pedido de desistência formulado pela parte exequente, fato é que esta deu causa à instauração da presente demanda e isso, à luz do princípio da causalidade, enseja o dever de arcar com os ônus de sucumbência, com o pagamento das custas processuais e dos honorários advocatícios.
+Confiram-se, a seguir, os seguintes precedentes sobre o tema:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE EXECUÇÃO DE QUANTIA CERTA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DO EXEQUENTE.
+1. A sucumbência, para fins de arbitramento dos honorários advocatícios, tem por norte a aplicação do princípio da causalidade, de modo que a parte que suscitou instauração do processo deverá suportar os ônus sucumbenciais.
+Consoante o princípio da causalidade, os honorários advocatícios são devidos quando o credor desiste da ação de execução após o executado constituir advogado e indicar bens à penhora, independentemente da oposição ou não de embargos do devedor à execução. Precedentes.
+2. Na hipótese, o Tribunal de origem, com base nos elementos fático-probatórios constantes dos autos, concluiu que quem deu causa à propositura da demanda foi a recorrente. Alterar tal conclusão demandaria o reexame de fatos e provas, inviável em recurso especial, a teor do disposto na Súmula 7 do STJ.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 1.849.703/CE, relator Ministro Marco Buzzi, Quarta Turma, julgado em 30/3/2020, DJe de 2/4/2020.)
+RECURSO ESPECIAL. EXECUÇÃO. DESISTÊNCIA. CITAÇÃO. EMBARGOS DO DEVEDOR. ANUÊNCIA. DESNECESSIDADE. EXTINÇÃO SEM RESOLUÇÃO DE MÉRITO. HONORÁRIOS ADVOCATÍCIOS. NÃO CABIMENTO.
+1.Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Cinge-se a controvérsia a definir (i) se, apresentado o pedido de desistência da execução antes da citação dos executados, os embargos do devedor devem ser apreciados ou julgados extintos e se, nessa circunstância, o credor responde pelo pagamento dos honorários advocatícios; (ii) se há contradição entre a fundamentação e o dispositivo do acórdão e (iii) se a fixação da verba honorária deve observar o regramento previsto no CPC/1973 ou o CPC/2015.
+3. A desistência da execução antes do oferecimento dos embargos independe da anuência do devedor. Precedentes.
+4. A apresentação de desistência da execução quando ainda não efetivada a citação dos devedores provoca a extinção dos embargos posteriormente opostos, ainda que estes versem acerca de questões de direito material.
+5. O credor não responde pelo pagamento de honorários sucumbenciais se manifestar a desistência da execução antes da citação e da apresentação dos embargos e se não houver prévia constituição de advogado nos autos.
+6. Recurso especial provido.
+(REsp n. 1.682.215/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 6/4/2021, DJe de 8/4/2021.)
+AGRAVO REGIMENTAL. DIREITO PROCESSUAL CIVIL. EXECUÇÃO. EMBARGOS DO DEVEDOR. DESISTÊNCIA DO PLEITO EXECUTIVO. ART. 267, III, DO CPC. EXTINÇÃO SEM JULGAMENTO DO MÉRITO. HONORÁRIOS DE SUCUMBÊNCIA DEVIDOS PELO AUTOR EXEQUENTE.
+1. Segundo a jurisprudência do STJ, a desistência da execução atrai para o exequente o dever de responder pelos honorários de sucumbência.
+2. Na hipótese, o autor, devidamente assistido por seu advogado, peticionou requerendo expressamente a desistência da execução.
+3. Agravo regimental não provido.
+(AgRg nos EDcl no REsp n. 1.134.651/PE, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 4/11/2014, DJe de 11/11/2014.)
+PROCESSUAL. EMBARGOS DE DIVERGÊNCIA. EXECUÇÃO. EXECUÇÃO EMBARGADA. DESISTÊNCIA DO EXEQUENTE. VERBA HONORÁRIA.
+1. Operada a desistência da execução após a oposição dos embargos pelo devedor, tanto mais quando provido o recurso adesivo deste último, no Tribunal "a quo", sobre o tema, os ônus da sucumbência recaem sobre o exequente, inclusive, honorários advocatícios.
+2. Embargos de divergência recebidos, para fazer prevalecer a tese do aresto paradigma concorde com entendimento das Turmas integrantes da Primeira Seção, condenando o exequente na verba honorária, como estabelecido na sentença.
+(EREsp n. 75.057/MG, relator Ministro Francisco Peçanha Martins, Corte Especial, julgado em 4/11/1998, DJ de 22/3/1999, p. 34.)
+Nesse contexto, considerando que o acórdão recorrido destoa da orientação jurisprudencial firmada nesta Corte Superior, é de rigor o provimento do reclamo, com a consequente reforma do aresto no que tange à fixação dos honorários de sucumbência.
+2. Do exposto, com fundamento no art. 932 do Novo Código de Processo Civil c/c Súmula 568/STJ, dou provimento ao recurso especial a fim de fixar os honorários de sucumbência em favor do patrono da parte recorrente em 10% sobre o proveito econômico obtido.
+Publique-se.
+Intimem-se.
