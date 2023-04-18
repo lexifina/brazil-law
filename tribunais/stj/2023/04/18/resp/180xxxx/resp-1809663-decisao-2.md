@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu o recurso especial interposto pela FAZENDA NACIONAL, ao argumento de que o entendimento firmado no acórdão recorrido, quanto à não incidência da contribuição previdenciária sobre o auxílio-educação, encontrava-se em consonância com a jurisprudência do STJ. Incidência da Súmula 83/STJ.
+Em suas razões recursais (fls. 1.667/1.668), a parte agravante limita-se a afirmar que a questão referente à constitucionalidade da contribuição denominada salário-educação encontra-se consolidada no enunciado 732 da Suprema Corte.
+É o relatório.
+A irresignação não merece ser admitida, visto que a parte agravante não infirmou adequadamente o fundamento da decisão agravada referente à incidência da Súmula 83 do STJ.
+Inadmitido o recurso especial em razão da divergência da pretensão com jurisprudência desta Corte Superior, incumbe à parte interessada apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada, procedendo ao cotejo analítico entre eles. Pode ainda, se for o caso, demonstrar a existência de distinção do caso tratado nos autos, o que não ocorreu na espécie.
+Como se vê, no caso, o recurso da Fazenda Nacional ampara-se na orientação firmada pela Suprema Corte no enunciado 732 quanto à constitucionalidade da contribuição ao salário-educação, questão que não diz respeito à matéria debatida nos autos, a qual se limita à incidência da contribuição previdenciária patronal sobre os valores pagos a seus empregados a título de auxílio-educação.
+Dessa forma, à míngua de impugnação pertinente, incólume fica a decisão agravada; aplicação por analogia da Súmula 182 do STJ, segundo a qual "é inviável o agravo que deixa de atacar especificamente os fundamentos da decisão agravada".
+Nesse sentido, confira-se o seguinte precedente do Superior Tribunal de Justiça sobre o tema:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSÃO DO APELO EXTREMO. ARTS. 932, III, DO CPC E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA N. 182 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. Em observância ao princípio da dialeticidade, mantém-se a aplicação analógica da Súmula n. 182 do STJ quando não há impugnação efetiva, específica e fundamentada de todos os fundamentos da decisão que inadmite recurso especial, nos termos dos arts. 932, III, do CPC e 253, parágrafo único, I, do RISTJ.
+2. Para impugnar a incidência da Súmula n. 83 do STJ, é necessária a efetiva demonstração de que o julgado apontado na decisão de inadmissão do recurso especial é inaplicável ao caso ou foi superado pela jurisprudência desta Corte, colacionando-se precedentes contemporâneos ou supervenientes, ou de que exista distinção entre a matéria versada nos autos e aquela utilizada para justificar a aplicação da referida súmula.
+3. Agravo interno desprovido. (AgInt nos EDcl no AREsp n. 2.142.203/SC, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 12/12/2022, DJe de 15/12/2022.)
+Ante o exposto, não conheço do agravo em recurso especial, nos termos do art. 932, III, do CPC/2015.
+Publique-se. Intimações necessárias.
