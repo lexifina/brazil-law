@@ -1,0 +1,31 @@
+DECISÃO
+LINDAURA ROCHA GOMES opõe embargos de declaração à decisão de fls. 439-442, que conheceu do agravo para dar provimento ao recurso especial, a fim de reconhecer a comprovação da mora e determinar, por conseguinte, o prosseguimento do feito.
+Em suas razões, alega a embargante omissão ao argumento de que a decisão recorrida deixou de analisar a tempestividade, que foi devidamente apontada em sede de contrarrazões ao agravo em recurso especial.
+Esclarece que o embargado, quando do não recebimento do apelo extremo pelo Tribunal local, ao invés de manejar o agravo em recurso especial, grosseiramente opôs embargos. Justifica que, por se tratar de recurso incabível, não se interrompe o prazo para interposição do recurso adequado.
+Defende ser intempestivo o agravo em recurso especial interposto em 17/11/2021.
+Sustenta ainda ausência de fundamentação na decisão quanto aos motivos de seu convencimento que levaram a entender se houve ou não a devida constituição do devedor em mora.
+Afirma que há contradição na decisão recorrida, porquanto o Tribunal de origem ressaltou que não há necessidade de que a notificação seja recebida pessoalmente pelo devedor; no entanto, que há necessidade, nos termos 2º, § 2º, do Decreto-Lei n. 911/1969, que alguém receba a notificação no endereço do contrato.
+Requer o acolhimento dos embargos de declaração para que sejam reconhecidos os vícios apontados no julgado, com efeitos infringentes.
+Impugnação apresentada às fls. 462-467, em que se pleiteia o não conhecimento ou o desprovimento dos embargos .
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de P rocesso Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado.
+Em exame da decisão embargada, verifica-se que não houve manifestação acerca da alegada intempestividade suscitada nas contrarrazões apresentadas ao agravo em recurso especial (fls. 410-421), razão pela qual passo a fazê-lo.
+Mediante a análise do agravo (fls. 401-407), observa-se que RODOBENS ADMINISTRADORA DE CONSÓRCIOS LTDA. foi intimada da decisão agravada em 29/9/2021, tendo o agravo em recurso especial sido interposto em 17/11/2021.
+O recurso é, pois, manifestamente intempestivo, visto que apresentado fora do prazo de 15 dias úteis, nos termos do art. 994, VIII, c/c os arts. 1.003, § 5º, 1.042, caput, e 219, caput, todos do Código de Processo Civil.
+Acrescente-se que, segundo a orientação jurisprudencial do Superior Tribunal de Justiça, a interposição de recurso manifestamente incabível não interrompe o prazo recursal. Na espécie, os embargos de declaração opostos à decisão que inadmitiu o recurso especial não são o recurso cabível na espécie. Nesse sentido: AgInt no AREsp n. 1.526.806/RJ, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 6/4/2020, DJe de 13/4/2020.
+Confiram-se ainda estes precedentes:
+CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE COBRANÇA. RESTITUIÇÃO DE VALORES QUESTIONADOS SOBRE A GESTÃO DE LIQUIDANTE. REVOGAÇÃO DOS BENEFÍCIOS DA GRATUIDADE DE JUSTIÇA. ABERTURA DE NOVO PRAZO DE CINCO DIAS PARA RECOLHIMENTO DAS CUSTAS. HIPÓTESE LEGAL DO ART. 101, § 2º, DO NCPC QUE PRESSUPÕE CONFIRMAÇÃO DA DENEGAÇÃO OU REVOGAÇÃO DA GRATUIDADE EM OUTRO GRAU DE JURISDIÇÃO. NÃO APLICAÇÃO. DECISÃO DENEGATÓRIA DE SEGUIMENTO A RECURSO. EXAME PRÉVIO DE ADMISSIBILIDADE. AUSÊNCIA DE TERATOLOGIA. EMBARGOS DE DECLARAÇÃO QUE NÃO INTERROMPEM O PRAZO RECURSAL. INTEMPESTIVIDADE. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL NÃO PROVIDO.
+1. Aplicabilidade do NCPC a este recurso ante os termos no Enunciado Administrativo n.º 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O art. 101, § 2º, do NCPC vem a disciplinar o indeferimento da gratuidade em primeiro grau de jurisdição. Ao tratar da nova abertura de prazo para recolhimento do preparo em virtude da confirmação da denegação ou revogação da gratuidade que se referir a provimento de órgão revisor em grau superior de jurisdição em relação àquele em que proferida a decisão desafiada por agravo de instrumento (interlocutória) ou apelação (sentença).
+3. Contra a decisão de admissibilidade do recurso especial que lhe nega seguimento, o único recurso cabível é aquele previsto no art. 1.042 do Código de Processo Civil, salvo hipóteses de decisão efetivamente incognoscível para o seu aviamento, o que não é o caso dos autos. Logo, a oposição em tais casos de embargos de declaração não tem o condão de interromper prazo para o agravo em recurso especial. Precedentes.
+4. Agravo interno não provido. (AgInt no AREsp n. 1.919.562/MT, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 12/9/2022, DJe de 14/9/2022, destaquei.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE REINTEGRAÇÃO DE POSSE. AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE.
+1. Ação de reintegração de posse.
+2. É intempestivo o agravo em recurso especial que é interposto fora do prazo recursal de quinze dias úteis.
+3. A oposição de embargos declaratórios em face da decisão de admissibilidade do recurso especial não tem o condão de interromper o prazo para a interposição do agravo previsto no art. 994, VIII, do CPC/2015. Precedentes.
+4. Agravo interno não provido. (AgInt no REsp n. 1.986.368/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 16/5/2022, DJe de 18/5/2022, destaquei.)
+Assim, o agravo em recurso especial é manifestamente intempestivo.
+Quanto à suposta ausência de fundamentação e à alegada contradição, arguida pela parte embargante na decisão guerreada, fica prejudicada a análise da matéria em decorrência lógica do acolhimento da omissão apontada.
+Ante o exposto, acolho os embargos de declaração para, sanando a omissão apontada, tornar sem efeito a decisão de fls. 439-442 e não conhecer do agravo em recurso especial de fls. 401-407.
+Por fim, d eixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
