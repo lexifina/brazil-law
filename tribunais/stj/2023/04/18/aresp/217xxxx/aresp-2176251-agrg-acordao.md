@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+Trata-se de agravo regimental interposto por DÉCIO ROQUE BRAUN contra decisão de minha lavra, por meio da qual o respectivo agravo em recurso especial foi conhecido para não conhecer do apelo nobre, nos termos da seguinte ementa (fl. 2934):
+"AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. ART. 1.º, INCISOS I E II, DA LEI N. 8.137/90. PLEITO PELA ABSOLVIÇÃO POR INSUFICIÊNCIA PROBATÓRIA. INVERSÃO DO JULGADO. SÚMULA N. 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL."
+Alega a Defesa, nas razões do regimental, que as matérias veiculadas no recurso especial são eminentemente de direito e, por conseguinte, a inversão do julgado não demanda nova incursão no conjunto fático-probatório dos autos, sendo inaplicável a Súmula n. 7/STJ.
+Pondera que é necessária nova valoração dos elementos probantes juntados ao processo, pois " ..  a condenação do Agravante desprezou estas evidentes provas, ao se ater ao dolo genérico e, assim, a intenção de suprimir o pagamento, que restou evidenciado, foi atribuído ao Agravante, apesar das provas em contrário que demonstra não ter sido o Agravante quem removeu do sistema da RFB os débitos da API, ao contrário, por duas vezes foi o Agravante quem repristinou imediatamente o débito quando informado da sua retirada do sistema da RFB" (fl. 2942).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. ART. 1.º, INCISOS I E II, DA LEI N. 8.137/90. PLEITO PELA ABSOLVIÇÃO POR INSUFICIÊNCIA PROBATÓRIA. INVERSÃO DO JULGADO. SÚMULA N. 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Tribunal de origem concluiu que foi devidamente comprovada a autoria e materialidade do delito. Portanto, a inversão do julgado, de maneira a fazer prevalecer o pleito absolutório pela insuficiência de elementos probantes aptos a amparar a condenação, encontra óbice na Súmula n. 7/STJ.
+2. Agravo regimental desprovido.
+VOTO
+Consta dos autos que o Juízo de primeiro grau condenou o Agravante às penas de 2 (dois) anos e 2 (dois) meses de reclusão, em regime inicial aberto, e pagamento de 70 (setenta) dias-multa, à razão de 2/30 (dois trinta avos) do salário mínimo vigente em 2012, como incurso no art. 1.º, incisos I e II, da Lei n. 8.137/90. A sanção corporal foi substituída por 2 (duas) restritivas de direitos (fls. 2451-2486).
+Irresignada, a Defesa interpôs apelação, à qual a Corte de origem negou provimento e, de ofício, reduziu a pena pecuniária a 29 (vinte e nove) dias-multa (fls. 2807-2837).
+Os embargos de declaração opostos foram rejeitados (fls. 2858-2863).
+Sustenta a Defesa, nas razões do apelo nobre, contrariedade ao art. 386, incisos IV e VII, do Código de Processo Penal.
+Aduz que as provas acostadas aos autos não foram adequadamente valoradas, sendo de rigor reconhecer que não há elementos probantes aptos e suficientes a amparar a condenação do Réu.
+Argumenta que foram indevidamente desprezados os depoimentos do contador e do fiscal. Ademais, o édito condenatório não pode estar amparado em meras conjecturas. Assim, a absolvição é medida que se impõe.
+Foram apresentadas contrarrazões (fls. 2885-2889). O recurso especial não foi admitido (fls. 2892-2895). Foi interposto agravo (fls. 2903-2911).
+O Ministério Público Federal apresentou parecer, opinando pelo não conhecimento do agravo em recurso especial (fl. 2932).
+Por meio da decisão de fls. 2934-2937, o agravo em recurso especial foi conhecido para não conhecer do apelo nobre.
+Daí a interposição do presente agravo regimental (fls. 2940-2944).
+Feito esse breve escorço histórico, passo ao exame da controvérsia.
+O acórdão recorrido, na parte que interessa, está calcado nas seguintes razões de decidir (fls. 2808-2833; sem grifos no original):
+"A responsabilidade criminal do réu Décio Roque Braun restou sobejamente comprovada. Diante dos corretos elementos de convicção, transcrevo trecho da sentença, da lavra do Juiz Federal Dr. Marcelo Furtado Pereira Morales, que bem analisou o mérito do feito:
+ ..
+A materialidade é incontroversa e restou demonstrada pelos elementos integrantes do Procedimento Administrativo Fiscal nº 11070.720.109/2013-82 e nº 11070.720.110/2013-15 e da Representação Fiscal para Fins Penais nº 11070.720.057/2014-25 (ev. 01, originário), em especial: os Demonstrativos Consolidados dos Créditos Tributários - IPI, IRPJ, CSLL, PIS e COFINS (ev. 01- PROCADM3, pp. 07 e 20); Autos de Infração (ev. 01- PROCADM3, pp. 08/17 e 21/77); Relatório Fiscal (ev. 01-PROCADM3, pp. 80/88); Termo de Retenção de Documentos, cópias de DARFs (ev. 01-PROCADM5, pp. 33/47); Cópia do Livro Diário (ev. 01-PROCADM6, pp. 01/14); e Cópia do Livro Registro de Entradas (ev.
+01, PROCADM7, PROCADM9 e PROCADM11, pp. 01/08).
+ ..  não tendo, ainda, a defesa apresentado qualquer contraprova capaz de infirmar as conclusões do trabalho de fiscalização, a materialidade é certa.
+ ..  não há dúvidas de que o réu Décio era o efetivo administrador da empresa, informação que foi corroborada por todas as testemunhas em juízo, inclusive pelo próprio réu, na oportunidade de seu interrogatório (ev. 365- VIDEO1, originário).
+ ..
+Como restou efetivamente comprovado, o réu Décio outorgou procurações a Jefferson para firmar os aludidos negócios, os quais, conquanto alegadamente não se tenham concretizado por supostas questões burocráticas, rendeu à empresa de consultoria de Jefferson o auferimento de vultosa contraprestação, estimada em aproximadamente R$ 800.000,00 (oitocentos mil reais).
+Além disso, o réu Décio outorgou procurações para Adriano dos Santos Almeida e José Raimundo Ribeiro Santos para que atuassem com plenos poderes em nome da empresa perante a Receita Federal do Brasil (ev. 01- PROCADM3, pp. 83/84, originário), indivíduos a quem o Fisco atribuiu o "zeramento" das declarações fiscais. Nesse sentido, cumpre destacar que se verificou a existência de uma procuração outorgada pela empresa API, representada pelo réu Décio, para o corréu Adriano, a qual, posteriormente, foi cancelada pela própria pessoa jurídica.
+Na colheita da prova oral, restou flagrante a intenção do réu de se eximir de qualquer responsabilidade, atribuindo-a, lado outro, a sujeitos indeterminados, negando ter determinado qualquer medida para a apresentação de DCTFs zeradas, bem como adulteração de DARFs. Bem por isso, a defesa pontuou que a condenação restou fundada tão somente na sua condição de administrador.
+Todavia, a negativa do ora apelante não se coaduna com os elementos de prova reunidos. Tratando-se do único sócio efetivamente encarregado da gestão administrativa do empreendimento, o réu Décio foi o responsável pela contratação da consultoria prestada pelo corréu Jefferson Arruda e tinha plena ciência dos objetivos visados com a contratação, de maneira que forneceu todos os meios disponíveis para que Jefferson atuasse no propósito comercial avençado, através de procurações com a outorga de amplos poderes de atuação em nome da empresa, até mesmo no âmbito da Receita Federal.
+Bem por isso, verifico que Décio e Jefferson articularam conjuntamente a empreitada criminosa, sendo o primeiro o idealizador das fraudes - já que detém a expertise relativa ao conhecimento dos procedimentos fiscais junto à Receita Federal, visto que tem formação em ciência contábeis, é professor universitário na área e ainda atua como consultor  ..
+Assim, Décio e Jefferson valeram-se de interpostas pessoas na tentativa de se distanciarem da prática dos atos de efetiva fraude dos sistemas da Receita Federal. Ainda que Jefferson tenha sido o responsável pelo emprego dos supostos laranjas, restou indene de dúvidas de que Décio tinha plena ciência de tal manobra - visto que foi o contratante da consultoria, a quem Jefferson se reportava - e a ela aderiu, já que outorgou procurações a sujeitos (Adriano e José Raimundo) que não guardavam qualquer relação com o negócio inicialmente entabulado.
+No ponto, cumpre esclarecer que a defesa não apresentou qualquer contextualização para a confecção destes documentos, não sendo crível que o administrador da empresa ignorasse a existência de procurações a terceiros, estranhos ao negócio, para que atuassem junto à Receita Federal em nome da pessoa jurídica. Resta inequívoco que o réu beneficiou-se diretamente com a atuação reiterada na retificação indevida das DCTFs,  ..
+A falsidade ou não destas procurações, a qual foi ventilada no âmbito administrativo, não afasta a autoria delitiva. Nesse sentido, cabia à defesa a prova da suposta falsidade, nos termos do art. 156 do CPP.
+ ..
+Outrossim, ante todo o exposto, nota-se que o dolo é patente. O fato de o réu ter tentado restabelecer os valores originais da DCFT não prova o seu desconhecimento do comportamento ilícito, mas revela sua tentativa de ocultar a fraude da Fisco, ardil usualmente empregado nos casos de sonegação fiscal, cujo intuito é prosseguir manipulando os dados fiscais a fim de retardar e/ou prejudicar o trabalho da fiscalização fazendária.
+Ademais, na condição de administrador do empreendimento, dotado de vasta experiência no ramo empresarial, não é crível que o réu desconhecesse o fato de as DCTFs terem sido zeradas em curto intervalo de tempo, sem qualquer justificativa plausível para essa manobra. Nesse sentido, a falsificação da autenticação dos DARF, datada de período anterior ao início da fiscalização, terminou por evidenciar que o réu planejou a empreitada com acentuado grau de precisão a fim de tentar iludir o Fisco com a apresentação de comprovantes de recolhimento falsos, o que apenas expôs o seu propósito de regularização fraudulenta da situação fiscal da empresa.
+Logo, comprovados a materialidade, a autoria e o dolo, ausentes causas excludentes de culpabilidade e ilicitude, mantenho a condenação de DÉCIO ROQUE BRAUN pela prática do crime previsto no art. 1º, incisos I e II, da Lei nº 8.137/90."
+Como se vê, o Tribunal de origem, soberano quanto ao exame do arcabouço fático-probatório acostado aos autos, concluiu que, na hipótese, foi devidamente comprovada a autoria e materialidade do delito imputado ao Agravante. Portanto, a inversão do julgado, de maneira a fazer prevalecer o pleito absolutório pela insuficiência de elementos probantes aptos a amparar a condenação, implicaria, necessariamente, nova incursão nos fatos e provas que instruem o caderno processual, o que encontra óbice no comando normativo contido na Súmula n. 7 do Superior Tribunal de Justiça.
+Nesse sentido:
+" ..
+2. Para se acolher os pleitos de absolvição e desclassificação, seria necessário o revolvimento fático-probatório, providência vedada conforme a Súmula n. 7 do STJ, eis que o Tribunal de origem apontou elementos concretos no sentido da supressão de tributo mediante fraude.
+ ..
+4. Agravo regimental desprovido." (AgRg no AgRg no AREsp n. 1.543.747/SC, relator Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 19/5/2020, DJe de 29/5/2020.)
+" ..
+3. Para desconstituir o entendimento firmado pelo Tribunal de origem e decidir pela absolvição da conduta tributária ilícita, seria necessário o revolvimento do conjunto fático-probatório, o que é vedado pela Súmula n. 7/STJ.
+Precedente.
+4. Agravo regimental desprovido." (AgRg no AREsp n. 1.282.040/MG, relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 19/9/2019, DJe de 24/9/2019.)
+" ..
+1. Não é o recurso especial a via adequada a alterar o fundamento da absolvição, pois tal pretensão demanda reexame de contexto fático-probatório, encontrando óbice no enunciado da Súmula nº 7 do Superior Tribunal de Justiça.
+ ..
+3. Agravo regimental improvido." (AgRg no AREsp n. 819.967/TO, relator Ministro NEFI CORDEIRO, Sexta Turma, julgado em 12/9/2017, DJe de 19/9/2017.)
+Ante o exposto, NEGO PROVIMENTO ao agravo regimental.
+É como voto.
