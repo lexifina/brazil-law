@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por CONCREMAX CONCRETO ENG E SANEAMENTO LTDA à decisão de fls. 522/523, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Em sua decisão, a douta Ministra Relatora informou que não houve regularização do recolhimento do preparo recursal, tendo em vista que deveria ter ocorrido em dobro ante a comprovação tardia do ato.
+Porém, cabe aqui apontar a omissão e o equívoco ocorrido.
+Omissão quanto à comprovação de pagamento e devida juntada ao feito, ou seja, não obstante juntada inicial de agendamento, este foi efetivamente quitadao ainda dentro do curso do prazo recursal, dando conta do regular recolhimento das custas processuais.
+Nota-se que o Acórdão recorrido foi publicado dia 01/07/2022, tendo findado o prazo para interposição em 22/07/2022. O recolhimento, porém, ocorreu efetivamente no dia 15/07/2022, como se confere no comprovante de pagamento juntado em ID nº 15: (fls. 526/527).
+ ..
+Dessa forma, não há que se falar em recolhimento em dobro, tampouco em deserção do Recurso Especial, pois não houve ausência de recolhimento ou recolhimento tardio do valor referente ao preparo recursal, diante do pagamento dentro do prazo alusivo ao recurso, comprovando a concretização da operação bancária.
+Portanto, visando sanar a omissão e contradição existente na decisão embargada, necessário se faz invocar o princípio da instrumentalidade das formas, na medida em que o pagamento do preparo recursal restou devidamente comprovado, atingindo o desiderato que rege os pressupostos de admissibilidade de interposição do apelo especial (fl. 527).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Consta da decisão embargada que, no ato da interposição do recurso especial, foi colacionado aos autos apenas o comprovante de agendamento do preparo, não tendo sido juntado o comprovante do efetivo pagamento.
+O recurso encontra-se deserto, pois "a jurisprudência desta Corte Superior firmou-se no sentido de que a juntada de comprovante de agendamento bancário não é documento apto a comprovar que o preparo foi devidamente recolhido".(AgInt no AREsp 1806437/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 23/06/2021.)
+Percebida, no Tribunal de origem, a irregularidade, a parte foi intimada para sanar o vício, contudo, não regularizou, uma vez que apesar de sua manifestação, o preparo ainda restou irregular, tendo em vista um equívoco na fundamentação do despacho de regularização.
+Na verdade, não tendo a parte comprovado o recolhimento do preparo no ato de interposição do recurso, como ocorreu no caso, o Tribunal de origem deveria ter intimado a parte para efetuar o recolhimento em dobro, nos termos do art. 1.007, § 4º, do CPC
+Ademais, foi percebido esse equívoco no STJ, que determinou nova intimação da parte nos termos do § 2º c/c o § 4º do art. 1.007 do Código de Processo Civil, para sanar, no prazo de cinco dias, o vício apontado, complementando o recolhimento das custas, porém, a parte deixou o prazo transcorrer in albis.
+Registre-se que não importa se o recolhimento das custas judiciais foi efetuado na mesma data, ou em data anterior à apresentação do recurso especial, a questão envolve o momento da comprovação do recolhimento.
+Assim, ainda que tenha recolhido o valor referente às custas no interregno do prazo recursal, de nada adiantará se a parte não apresentar a devida comprovação desse recolhimento no momento oportuno.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PREPARO. AGENDAMENTO. DESPACHO. REGULARIZAÇÃO. EMBARGOS DE DECLARAÇÃO. DESCABIMENTO. PAGAMENTO EM DOBRO. DESCUMPRIMENTO. DESERÇÃO. DECISÃO MANTIDA.
+1. Não é cabível a oposição de aclaratórios contra o despacho que determina a intimação da parte regularizar o preparo do recurso especial, uma vez que tal ato não possui natureza decisória.
+Precedentes.
+2. "A juntada de comprovante de agendamento bancário não é documento apto a comprovar que o preparo foi devidamente recolhido" (AgInt no REsp n. 1.873.185/MA, Relator Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 22/3/2021, DJe 25/3/2021), o que ocorreu (e-STJ fls. 483/484).
+3. "À luz do disposto no art. 1.007, §§ 2º, 6º e 7º, do CPC/2015, a parte recorrente deve comprovar a realização do preparo no ato de interposição do recurso, sob pena de preclusão, sendo inadmissível a comprovação posterior, ainda que o pagamento tenha ocorrido dentro do prazo recursal" (AgInt no REsp n. 1.880.154/RN, Relator Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 22/3/2021, DJe 26/3/2021).
+4. De acordo com a jurisprudência do STJ, não sendo devidamente comprovado o recolhimento do preparo no momento da interposição do recurso, deve a parte ser intimada para o sua realizado em dobro, na forma do art. 1.007, § 4º, do CPC de 2015, sob pena de deserção.
+5. No caso, ao constatar que o recurso especial foi protocolado acompanhado apenas do comprovante de agendamento do preparo, a Presidência desta Corte Superior proferiu despacho, a fim de que a parte apresentasse a guia de recolhimento referente ao comprovante de pagamento e realizasse a complementação do referido recolhimento, uma vez que devido em dobro, nos termos do art. 1.007, § 4º, do CPC de 2015 e, em caso de impossibilidade de apresentação da citada guia, efetuasse novo pagamento em dobro. No entanto, mesmo intimada, a parte deixou de recolher o preparo em dobro, o que atrai a Súmula n. 187/STJ.
+6. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 1604404/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma , DJe de 17/05/2021.)
+No caso, como a parte não comprovou o recolhimento, o recurso especial não foi devida e oportunamente preparado, incidindo, na espécie, o disposto na Súmula n. 187 deste Tribunal, o que leva à deserção do recurso.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
