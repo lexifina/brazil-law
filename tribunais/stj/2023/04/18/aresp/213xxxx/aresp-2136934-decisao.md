@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de agravo interposto por STORE ENGENHARIA E INSTALAÇÕES LTDA. E OUTRA contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que as partes agravantes interpuseram recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 1.115):
+ICMS - Anulatória de Auto de Infração Creditamento indevido - Laudo pericial - Não entrega de documentos requeridos pelo expert para a comprovação das operações - Decadência, aplicação do disposto no art. 150, §4º, do CTN para fins de contagem de prazo - Precedente STJ - Multa abusiva constatada - Redução para 30% - Recurso da Autora parcialmente provido e não provido o recurso da Fazenda do Estado.
+Rejeitados os embargos de declaração opostos por ambos os recorrentes (fls. 1.242-1.246 e 1.304-1.307).
+No recurso especial, alega, preliminarmente, ofensa aos arts. 11, 489, § 1º, IV, e 1.022, II, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz, no mérito, que o acórdão contrariou os arts. 121, I e II, e 142 do Código Tributário Nacional; 227 da Lei n. 6.404/76; e 1.116 do Código Civil.
+Sustenta nulidade do auto de infração por erro na identificação do sujeito passivo da obrigação tributária, aduzindo que SBF Comércio de Produtos Esportivos seria a responsável tributária, pois teria incorporado a Store Engenharia e Instalações antes dos fatos que originaram a autuação.
+Aponta divergência jurisprudencial.
+Foram oferecidas contrarrazões ao recurso especial (fls. 1.379-1.396).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 1.397-1.398), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 1.441-1.458).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Inicialmente, não há falar em ofensa aos arts. 489 e 1.022 do CPC, uma vez que o Tribunal de origem, ao dar parcial provimento à apelação, deixou claro que na 26ª Alteração Contratual houve modificação da razão social da empresa que passou a constar como Store Engenharia e Instalações Ltda., responsável tributária ao tempo da ocorrência dos fatos que deram causa à autuação (fl. 1.117).
+A Corte de origem também destacou que a documentação hábil à comprovação efetiva das operações foi requisitada pelo perito judicial, contudo a recorrente não apresentou, não havendo como comprovar a incompatibilidade entre os inventários e o montante das operações que teriam originado os créditos glosados no auto de infração. Os atos administrativos gozam de presunção de legitimidade e veracidade, e o recorrente falhou em demonstrar o não cometimento das infrações.
+Observa-se, portanto, que a lide foi solucionada em conformidade com o que foi apresentado em juízo. Assim, verifica-se que o acórdão recorrido está com fundamentação suficiente, inexistindo omissão ou contradição.
+A propósito, cito os seguintes precedentes:
+PROCESSUAL CIVIL. DESAPROPRIAÇÃO DIRETA. UTILIDADE PÚBLICA. CONCESSIONÁRIA DE VEÍCULOS. RECURSO ESPECIAL. OFENSA AO ARTIGO 1022, II, DO CPC/15. INOCORRÊNCIA. DEVOLUÇÃO TOTAL DA MATÉRIA EM REEXAME NECESSÁRIO. SÚMULA 325/STJ. NECESSIDADE DE ALUGAR IMÓVEL LINDEIRO PARA ALTERAR ACESSO A LOJA. INDENIZAÇÃO AFASTADA PELO TRIBUNAL DE ORIGEM. REVISÃO. SÚMULA 7/ STJ.
+1. Os arts. 489, § 1º, e 1.022 do Código de Processo Civil não foram ofendidos. A pretexto de apontar a existência de erros materiais, omissão e premissas erradas, a parte agravante quer modificar as conclusões adotadas pelo aresto vergastado a partir das informações detalhadas do laudo pericial.
+ ..
+5. Agravo Interno não provido. (AgInt no AREsp n. 1.974.188/RS, relator Ministro Herman Benjamin, Segunda Turma, DJe de 4/11/2022.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. DANO MORAL. SUSPENSÃO DO FORNECIMENTO DO SERVIÇO DE ÁGUA . DEMORA INJUSTIFICADA NO RESTABELECIMENTO DO SERVIÇO. ARTS. 489, § 1º, E 1022, II, DO CPC. OMISSÃO NÃO CONFIGURADA. DEVER DE INDENIZAR. REQUISITOS PARA A RESPONSABILIZAÇÃO DA CONCESSIONÁRIA. ACÓRDÃO ANCORADO NO SUBSTRATO FÁTICO-PROBATÓRIO DOS AUTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. VALOR DA INDENIZAÇÃO. EXCESSO NÃO CARACTERIZADO.
+1. Cuida-se de ação de procedimento ordinário ajuizada em desfavor de SAMAR - Soluções Ambientais de Araçatuba, com o fim de obter indenização pelos danos morais que alega ter sofrido com suspensão do serviço de água na residência da autora.
+2. Verifica-se, inicialmente, não ter ocorrido ofensa aos arts. 489, § 1º, e 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos.
+ ..
+6. Agravo interno não provido. (AgInt no AREsp n. 2.118.594/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 25/11/2022 - grifo nosso.)
+Quanto à alegada nulidade da CDA, percebe-se que a Corte de origem, amparada na análise do conjunto fático-probatório dos autos, consignou não haver nulidade, reconhecendo a regularidade da CDA. Rever tal posicionamento, alterando as conclusões adotadas, tal como pretende a recorrente, demandaria necessário reexame do acervo de fatos e provas, o que é vedado na via do recurso especial em razão do óbice previsto no enunciado da Súmula n. 7/STJ.
+Nesse sentido, cito:
+5. Quanto à alegada nulidade da CDA, não se presta a estreita via recursal a reformar a conclusão do Tribunal de origem a respeito da validade do título executivo, na hipótese em que, para tal, faz-se necessário o revolvimento de seu próprio conteúdo, por demandar reexame de matéria fático-probatória. Incidência da Súmula 7/STJ.
+(AgInt no AREsp n. 2.095.109/RJ, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 10/10/2022, DJe de 14/10/2022.)
+3. Ainda assim, não há razões para reverter o entendimento exarado na decisão ora agravada. A Corte a quo foi expressa ao consignar que não há liquidez e certeza do título para sua inscrição na dívida ativa, o que torna a CDA nula. Ocorre que, "para verificar se a Certidão da Dívida Ativa - CDA, preenche ou não os requisitos essenciais à sua validade, torna-se necessária a incursão no conjunto fático-probatório dos autos. Incidência da Súmula 7/STJ" (AgInt no AREsp 917.381/SP, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 14/9/2016). Desse modo, é inviável alterar o acórdão recorrido, conforme já estabelecido na decisão ora agravada.
+(AgInt no AREsp n. 2.117.602/TO, relator Ministro Herman Benjamin, Segunda Turma, julgado em 28/11/2022, DJe de 13/12/2022.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
