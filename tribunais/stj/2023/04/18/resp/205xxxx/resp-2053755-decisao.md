@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo ESTADO DO MARANHÃO, com fundamento no art. 105, inciso III, alíneas a e c, da CF/1988, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO assim ementado:
+AÇÃO ORDINÁRIA. POLICIAL MILITAR. PROMOÇÃO EM RESSARCIMENTO POR PRETERIÇÃO. REQUISITOS PREENCHIDOS. ERRO ADMINISTRATIVO. HONORÁRIOS ADVOCATÍCIOS. NULIDADE DA SENTENÇA NÃO VERIFICADA.
+I - Deve ser rejeitada a preliminar de nulidade da sentença quando verificado que a lide foi decidida dentro dos limites do pedido do autor.
+II - Preenchidos os requisitos legais e havendo comprovação de erro administrativo, deve ser reconhecido o direito do militar à promoção em ressarcimento por preterição (fl. 226).
+Os embargos de declaração opostos foram acolhidos parcialmente nos termos da ementa abaixo transcrita:
+EMBARGOS DE DECLARAÇÃO. APLICAÇÃO DE TESE DE IRDR. VINCULAÇÃO. PRESCRIÇÃO PARCIAL. ACOLHIMENTO.
+I - Verificado que nos embargos foi suscitada matéria de ordem pública, decidida em sede de IRDR, deve ser aplicada a referida tese em razão do efeito vinculante.
+II - Deve ser reconhecida a prescrição do fundo do direito em relação às promoções anteriores aos cinco anos que antecederam a propositura da ação (fl. 282).
+Opostos novamente mais dois embargos de declaração, estes foram rejeitados (fls. 320/333 e 370/392).
+Nas razões recursais, a parte recorrente aponta violação do art. 1º do Decreto 20.910/1932. Alega, em síntese, que a prescrição do fundo de direito alcança o próprio direito à promoção de policial militar. Afirma que "o recorrido teve seu direito violado no ano de 2003, porém somente ingressou com ação em 2015 pleiteando a retificação de suas promoções para o posto de 2º Tenente PM, a 1ºTenente e a Capitão PM) PMMA, sob a alegação de que teria sido preterido em seu direito" (fl. 398). Por fim, assevera que "as promoções são galgadas de maneira sucessiva, formando uma cadeia promocional sequencial de ascensão na carreira, de forma que, os interstícios para galgar as promoções são contados a partir da data da promoção à patente imediatamente anterior, e a promoção fora dessa sequência contraria disposição de Lei" (fls. 399/400).
+Devidamente intimada, a parte recorrida apresentou as contrarrazões (fls. 405/418).
+É o relatório.
+A irresignação não merece prosperar.
+Inicialmente, é importante ressaltar que o presente recurso atrai a incidência do Enunciado Administrativo 3 do STJ, segundo o qual "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Nos  exatos  termos  do  acórdão  recorrido,  o  Tribunal  de  origem  assim  se  manifestou  sobre  o cerne da  insurgência:
+Portanto, a prescrição para o direito perseguido na espécie é a prescrição do fundo de direito, e tem o militar o prazo de 5 (cinco) anos contado da publicação do quadro de acesso ou do quadro de promoção, conforme o caso, para ingressar com a demanda.
+Da análise dos autos, verifica-se que q, presente ação foi proposta em 26/03/2015, portanto está prescrito o direito de discutir as omissões e preterições ocorridas em relação às promoções anteriores a 26/03/2010, não merecendo reforma o acórdão embargada em relação às promoções posteriores discutidas lide (fl. 286).
+Ao julgar os embargos de declaração, acrescentou que:
+O acórdão embargado acolheu parcialmente o pedido do Estado do Maranhão para aplicar a tese do IRDR quanto à prescrição, em relação Às promoções anteriores a 2010.
+Ocorre que na inicial da ação, oposta em junho/2015 o autor também pretende a promoção em ressarcimento por preterição em relação às promoções ao posto de 1ª Tenente e Capitão, alegando que estaria no posto de 2ª Tenente desde 31/08/2014, quando já deveria ser capitão, de modo que a tese do IRDR não se aplicou em relação a esse pedido, pois o mesmo não estava prescrito ao tempo da propositura da ação.
+Com efeito, observa-se que o Tribunal de origem reconheceu a ocorrência da prescrição do fundo de direito em relação às promoções anteriores a 26/3/2010. Todavia, não houve a discussão sobre a prescrição de fundo de direito à luz do efeito sequencial indicado pela parte, em que pese à oposição dos embargos de declaração para tanto.
+A alegação de violação do art. 1º do Decreto 20.910/1932 não é suficiente para se ter a questão de direito como prequestionada, instituto que, para sua caracterização, d emanda, além da alegação, a discussão e a apreciação judicial pelo Tribunal de origem. A jurisprudência desta Corte Superior considera que a ausência de enfrentamento pelo Tribunal de origem da matéria impugnada, objeto do recurso excepcional, não obstante a oposição de embargos de declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula 211/STJ.
+Ante o exposto, não conheço do recurso especial.
+Por fim, caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais pre vistos nos §§ 2º e 3º do referido dispositivo.
+Publique-se. Intimações necessárias.
