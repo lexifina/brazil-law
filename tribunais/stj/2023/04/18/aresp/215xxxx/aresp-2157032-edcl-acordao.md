@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por ROBSON RODRIGUES ALVES contra acórdão de minha relatoria, por meio do qual o respectivo agravo regimental foi desprovido, nos termos da seguinte ementa (fl. 1006):
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. MINUTA DE AGRAVO QUE NÃO INFIRMA ESPECIFICAMENTE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nas razões do agravo em recurso especial, não foi rebatido, especificamente, o fundamento da decisão agravada, relativo à consonância do aresto atacado quanto à pretensa negativa de vigência ao art. 413 do Código de Processo Penal.
+2. A decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, de modo que se o Agravante deixa de impugnar adequadamente qualquer um dos fundamentos de inadmissão, torna-se inviável o conhecimento do agravo em recurso especial em sua integralidade.
+3. Agravo regimental desprovido."
+Sustenta a Defesa, nas razões do recurso integrativo, que o aresto embargado contém obscuridade, na medida em que o fundamento da decisão que não admitiu o recurso especial na origem, relativo à consonância do acórdão proferido pelo Tribunal a quo com a jurisprudência desta Corte Superior de Justiça foi atacado por meio dos argumentos veiculados no recurso especial.
+Aduz que " ..  o próprio Ministério Público Federal, em sua manifestação de e-STJ (fl. 998/1002), pugnou pela parcial procedência do Agravo Interno para conhecer do AREsp e não conhecer do REsp com base em outros argumentos" (fl. 1014).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OBSCURIDADE. INEXISTÊNCIA. EMBARGOS REJEITADOS.
+1. Conforme dispõe o art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a suprir omissão, afastar obscuridade, eliminar contradição ou ambiguidade existentes no decisum.
+2. Não há falar em obscuridade, pois não se verifica, entre os fundamentos e as conclusões do acórdão embargado, quaisquer obstáculos ao exato entendimento das respectivas premissas e soluções.
+3. A pretensão de rediscutir matéria devidamente abordada e decidida no acórdão embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via dos embargos de declaração.
+4. "A manifestação do Ministério Público, traduzida em parecer, é peça de cunho eminentemente opinativo, sem carga ou caráter vinculante ao órgão julgador, dispensando abordagem quanto ao seu conteúdo" (AgRg nos EDcl no AREsp n. 809.380/AC, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 26/10/2016).
+5. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração não devem ser acolhidos.
+Conforme dispõe o art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a suprir omissão, afastar obscuridade, eliminar contradição ou ambiguidade existentes no julgado, o que não se verifica na hipótese em comento.
+No que diz respeito à alegada existência de obscuridade no aresto impugnado, esclareço que não se verifica, entre os fundamentos e as conclusões daquele julgado, quaisquer obstáculos ao exato entendimento das respectivas premissas e soluções e, portanto, não se está diante do citado vício.
+A propósito, nos termos de consagrada jurisprudência do Superior Tribunal de Justiça, "a obscuridade verifica-se quando há evidente dificuldade na compreensão do julgado. Ocorre quando há a falta de clareza do decisum, daí resultando a ininteligibilidade da questão decidida pelo órgão judicial. Em última análise, ocorre a obscuridade quando a decisão, no tocante a alguma questão importante, soluciona-a de modo incompreensível" (AgRg no REsp 677.210/SP, Rel. Ministro HAMILTON CARVALHIDO, SEXTA TURMA, julgado em 18/08/2005, DJ 03/10/2005, p. 352).
+Ademais, o acórdão embargado solucionou a quaestio juris de maneira clara e coerente, apresentando todas as questões que firmaram o seu convencimento, em perfeita consonância com a legislação aplicável à espécie e com a jurisprudência desta Corte.
+A bem da verdade, no aresto impugnado foi expressamente consignado que, tal como fora explicitado na decisão então agravada, o Embargante, nas razões do agravo em recurso especial, deixou de se insurgir, de forma específica e concreta, contra um dos fundamentos da decisão que não admitira o apelo nobre na origem, qual seja, a consonância do aresto atacado quanto à pretensa negativa de vigência ao art. 413 do Código de Processo Penal.
+Ademais, foi esclarecido que " ..  a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, de modo que se o Agravante deixa de impugnar adequadamente qualquer um dos fundamentos de inadmissão, torna-se inviável o conhecimento do agravo em recurso especial em sua integralidade  .. " (fl. 1009).
+E, diante dessa conclusão, houve incidência do comando normativo contido na Súmula n. 182/STJ.
+É oportuno esclarecer que a pretensão de rediscutir matéria devidamente abordada e decidida no acórdão embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via dos embargos de declaração.
+Por fim, nos termos da jurisprudência do Superior Tribunal de Justiça a ""Manifestação do Ministério Público, traduzida em parecer, é peça de cunho eminentemente opinativo, sem carga ou caráter vinculante ao órgão julgador, dispensando abordagem quanto ao seu conteúdo" (AgRg nos EDcl no AREsp n. 809.380/AC, Quinta Turma, Rel. Min. Felix Fischer, DJe de 26/10/2016)." (AgRg no HC n. 694.889/MT, Rel. Ministro JESUÍNO RISSATO (Desembargador Convocado do TJDFT), QUINTA TURMA, julgado em 16/11/2021, DJe 26/11/2021).
+No mesmo sentido:
+" ..  5. Ademais, não há se falar em ilegalidade, apta a ensejar a nulidade do julgamento do writ originário, em decorrência de a Corte estadual não ter acolhido as conclusões adotadas no parecer ministerial ofertado naquela oportunidade, uma vez que "a manifestação do Ministério Público constitui peça opinativa, sem qualquer carga vinculativa, motivo pelo qual não há falar em obrigatoriedade de acolhimento do parecer ministerial. Na espécie, ainda que o Ministério Público tenha se pronunciado favoravelmente à soltura do acusado, nada impede que a autoridade judicial, dentro de seu livre convencimento motivado, manten ha o encarceramento provisório, procedimento que, como visto, não ofende o princípio acusatório" (RHC n. 110.547/MG, relator Ministro JORGE MUSSI, QUINTA TURMA, julgado em 4/6/2019, DJe 12/6/2019).
+ ..
+7. Writ parcialmente conhecido e, nessa extensão, ordem denegada." (HC n. 627.971/MG, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 02/03/2021, DJe 10/03/2021, sem grifos no original.)
+Ante o exposto, REJEITO os embargos de declaração.
+É como voto.
