@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MUNICÍPIO DE LEOPOLDINA , com fundamento no art. 105, inciso III, alínea a, da CF/1988, no qual se insurge contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS assim ementado:
+APELAÇÃO CÍVEL - AÇÃO CIVIL PÚBLICA - INTERDIÇÃO ESTABELECIMENTO - DESCUMPRIMENTO DAS REGULARIZAÇÕES DETERMINADAS - INTERDIÇAO DEFINITIVA. Nos termos do que preceitua o art. 102 e seus parágrafos da Lei Estadual nº 13.317/99, diante da constatação de infração sanitária que possa ensejar risco á saúde da população, há a possibilidade de adoção da medida de interdição cautelar de estabelecimento ou do produto, de forma parcial ou total. Diante da ausência de reparação das irregularidades apontadas, a interdição do estabelecimento é medida impositiva (fls. 440/454).
+Opostos embargos de declaração, foram eles parcialmente providos nos seguintes termos:
+EMBARGOS DE DECLARAÇÃO - EXISTÊNCIA DE OMISSÃO, - ART. 1.022, DO NCPC Nos termos do artigo 1.022, do Novo Código de Processo Civil, cabem embargos de declaração quando houver obscuridade, contradição, ou for omitido ponto sobre o qual deveria pronunciar-se o juiz ou tribunal. Existente qualquer vício, impõe-se o acolhimento dos embargos (fls. 475/483).
+Nas razões do seu recurso especial (fls. 486/495), a parte recorrente sustenta haver a violação dos arts. 115, 141, 1.022, II, todos do CPC/2015. Argumenta, para tanto: (a) negativa de prestação jurisdicional; (b) ausência de regular citação para a apresentação do contraditório e ampla defesa; e (c) ocorrência de julgamento extra petita, ao lhe ser atribuída a responsabilidade sem pedido expresso da recorrida.
+Contrarrazões recursais às fls. 500/509 .
+É o relatório.
+A irresignação merece prosperar.
+A parte recorrente opôs embargos de declaração a fim de provocar a Corte de origem a se manifestar sobre a ausência de regular citação para compor o polo passivo da lide, com o intuito de apresentar o contraditório (fls. 458). Entretanto, o Tribunal a quo deu parcial provimento aos declaratórios sem apreciar o seu questionamento.
+Verifico, portanto, a existência de omissão no julgado, nos termos do art. 1.022 do CPC/2015, notadamente em razão da regência legal da matéria.
+Dessa forma, é imperioso o acolhimento da pretensão recursal ante a ocorrência de violação do art. 1.022 do CPC/2015, devendo os autos retornarem à origem para que seja sanado o vício apontado no recurso integrativo por meio de novo julgamento dos embargos de declaração, com manifestação expressa a respeito da questão não apreciada .
+Ante o exposto, dou provimento ao recurso especial, para anular o acórdão proferido nos embargos de declaração, e determino a devolução dos autos ao Tribunal de origem, para que seja proferido novo julgamento com o saneamento do vício apontado.
+Publique-se. Intimações necessárias.
