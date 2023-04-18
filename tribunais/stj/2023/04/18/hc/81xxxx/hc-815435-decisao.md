@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de DAVID MUINO SUAREZ em que se aponta como autoridade coatora o TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO (Recurso em Sentido Estrito 502054503.2023.4.04.7000).
+O paciente foi condenado à pena de 7 anos, 8 meses e 12 dias de reclusão, além do pagamento de 196 dias-multa, pela prática do crime de lavagem de dinheiro, oportunidade em que foi decretada medida cautelar de proibição de ausentar-se do país.
+O Juízo da 13ª Vara Federal de Curitiba substituiu a referida medida cautelar pelo comparecimento semestral do paciente em juízo  o que ensejou a interposição de recurso em sentido estrito pelo Ministério Público Federal, recebido no efeito suspensivo pelo Desembargador Relator no TRF da 4ª Região.
+O impetrante insurge-se contra o deferimento do efeito suspensivo, ante a alegação de que o recurso em sentido estrito não é cabível no caso em exame, pois a regra do art. 581, V, do CPP, não prevê expressamente a hipótese de substituição das medidas cautelares, nem possibilita o uso de interpretação extensiva em casos de mera substituição.
+Requer, liminar e definitivamente, deferimento da ordem para afastar o efeito suspensivo manifestamente ilegal atribuído e reestabelecer a eficácia da decisão que substituiu a medida de proibição de ausentar-se do país pelo comparecimento semestral do paciente ao juízo.
+É o relatório.
+A decisão impugnada foi proferida por Desembargador relator. Não há manifestação colegiada do Tribunal de origem sobre a matéria, o que inviabiliza seu conhecimento pelo Superior Tribunal de Justiça, pois não se trata de decisão de última instância (art. 105, II, a, da Constituição Federal).
+A propósito:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. INDEFERIMENTO LIMINAR DA PETIÇÃO INICIAL. TRÁFICO DE DROGAS. PLEITO DE PRISÃO DOMICILIAR. PANDEMIA. COVID-19. FILHO MENOR DE 12 ANOS. ART. 117 DA LEP. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE ILEGALIDADE MANIFESTA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Na hipótese, o habeas corpus foi manejado contra decisão singular do Desembargador Relator do Tribunal de origem, sem informação de que tenha havido interposição de agravo regimental para manifestação do Órgão Colegiado daquela Corte. Assim, ausente o exaurimento da instância ordinária, não se conhece do pedido sob pena de indevida supressão de instância. Precedentes.
+ ..
+3. Agravo regimental não provido.
+(AgRg no HC 574.247/RO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 5/5/2020, DJe de 15/5/2020)
+HABEAS CORPUS. PEDIDO DE RECONSIDERAÇÃO. APLICAÇÃO DO PRINCÍPIO DA FUNGIBILIDADE. CONHECIMENTO COMO AGRAVO REGIMENTAL. PENAL. PLEITO DE OBSTAR A CERTIFICAÇÃO DO TRÂNSITO EM JULGADO. WRIT IMPETRADO CONTRA DECISÃO MONOCRÁTICA. AGRAVO REGIMENTAL PENDENTE DE JULGAMENTO NA CORTE FEDERAL A QUO. IMPOSSIBILIDADE DE ANÁLISE DA MATÉRIA, EM RAZÃO DO NÃO EXAURIMENTO DAS INSTÂNCIAS ORDINÁRIAS. TESE DE CABIMENTO DO APELO DEFENSIVO JULGADO INTEMPESTIVO. REITERAÇÃO DO PLEITO FORMULADO NO HC N. 633.258/RN. COISA JULGADA. INDEFERIMENTO LIMINAR DA PETIÇÃO INICIAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. O presente habeas corpus foi manejado contra decisão singular do Desembargador Relator  .. . Ausente o exaurimento da instância ordinária e não se tratando de hipótese excepcional de flagrante ilegalidade, impõe-se o não conhecimento da ação mandamental.
+ ..
+4. Pedido de reconsideração recebido como agravo regimental e desprovido.
+(RCD no HC 665.405/RN, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 1/6/2021, DJe de 16/6/2021)
+O art. 581, V, do Código de Processo Penal estabelece o cabimento de recurso em sentido contra decisão que "conceder, negar, arbitrar, cassar ou julgar inidônea a fiança, indeferir requerimento de prisão preventiva ou revogá-la, conceder liberdade provisória ou relaxar a prisão em flagrante".
+De outro turno, a Lei 12.403/2011 alterou o disposto no art. 310 do CPP, para incluir hipótese de privação de liberdade diversa da prisão, consubstanciada em medidas cautelares que também se mostram eficazes à condução do processo e à garantia de proteção da sociedade.
+Nessa senda, esta Corte passou a entender pelo cabimento de recurso em sentido estrito também nas hipóteses que envolvem cassação ou substituição de medidas cautelares diversas da prisão, por interpretação extensiva do art. 581 do CPP (REsp 1.575.297/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 9/5/2017, DJe de 15/5/2017).
+No que concerne à viabilidade do pedido suspensivo, o Superior Tribunal de Justiça orienta que " ..  é admissível o ajuizamento de ação cautelar inominada para atribuir efeito suspensivo a recurso em sentido estrito interposto pelo Ministério Público contra decisão que revogou a prisão preventiva" (AgRg no HC 703.166/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 13/12/2021, DJe de 16/12/2021).
+Por certo que tais considerações meritórias não abrem passagem à presente impetração, já que, como dito, a parte não provocou o órgão colegiado a se manifestar sobre a controvérsia.
+Ante o exposto, nos termos do art. 210 do Regimento Interno deste Superior Tribunal de Justiça, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
