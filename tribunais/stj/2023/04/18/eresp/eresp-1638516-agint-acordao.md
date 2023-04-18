@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 12/04/2023 a 18/04/2023, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques, Benedito Gonçalves, Assusete Magalhães, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Não participaram do julgamento os Srs. Ministros Humberto Martins e Paulo Sérgio Domingues.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+RELATÓRIO
+Trata-se de agravo interno contra decisão proferida em embargos de divergência interpostos pelo Sindicato Nacional dos Docentes das Instituições de Ensino Superior, Seção João Pessoa (ANDES/ADUFPB), contra acórdão da Primeira Turma do Superior Tribunal de Justiça, com o seguinte resumo de ementa:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. EXECUÇÃO DE SENTENÇA. OBRIGAÇÃO DE PAGAR. PRAZO PRESCRICIONAL. NÃO INTERRUPÇÃO PELO AJUIZAMENTO DA EXECUÇÃO DA OBRIGAÇÃO DE FAZER. PRESCRIÇÃO EVIDENCIADA. ACÓRDÃO RECORRIDO EM CONFRONTO COM A JURISPRUDÊNCIA DESTA CORTE. RESP 1.340.444/RS.
+Os embargos de divergência foram indeferidos liminarmente, tendo por fundamento o fato de o recorrente, no momento da interposição do recurso, não ter comprovado a divergência nos termos do art. 1.043, § 4º, do Código de Processo Civil de 2015 e do art. 266, § 4º, do Regimento Interno do Superior Tribunal de Justiça, "pois limitou-se a transcrever apenas a ementa do acórdão paradigma REsp n. 1.336.026/PE, deixando de cumprir regra técnica do presente recurso, o que constitui vício substancial insanável." (fl. 1.107).
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça, c/c o art. 266-C do mesmo diploma legal, indefiro liminarmente os embargos de divergência".
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+Eminentes Ministros, a decisão monocrática que indeferiu liminarmente os Embargos à Execução está baseada em premissa totalmente equivocada e das provas constantes nos autos, tendo em vista que na hipótese dos autos, a obrigação de pagar dependia da obrigação de fazer, conforme a exceção prevista no acórdão 1.340.444/RS proferido na Corte Especial.
+ ..
+O cerne da discussão reside na aplicação do precedente julgado nos autos do Recurso Especial Representativo da controvérsia, Resp 1336026 -PE, que dirimiu a questão relativa à contagem do prazo prescricional da pretensão executiva, para os casos que dependiam do fornecimento de documentos (fichas financeiras) parte do ente público para o ingresso do cumprimento de sentença.
+ ..
+Desse modo, considerando que o ingresso da execução da obrigação de pagar estava pendente de apresentação de documentação por parte do ente público, bem como essa Col. Corte de Justiça tenha modulado os efeitos acerca do prazo prescricional para ingresso da execução da obrigação de pagar em processos dessa natureza, conta-se a partir de 30/06/2017, observa-se o equívoco na decisão proferida pelo Eminente Relator na aplicação do citado julgado em sede de recurso repetitivo da controvérsia.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO. REAJUSTE DE 28,86%. PRESCRIÇÃO. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. EMBARGOS LIMINARMENTE INDEFERIDOS PELA PRESIDÊNCIA DESTA CORTE. AUSÊNCIA DE IMPUGNAÇÃO À FUNDAMENTAÇÃO. RAZÕES DISSOCIADAS. SÚMULA N. 182 DO STJ. ART. 1.021, § 1º, DO CPC/15. AGRAVO INTERNO NÃO CONHECIDO.
+I - A decisão recorrida, que indeferiu liminarmente os embargos de divergência, teve por fundamento o fato de o recorrente não ter comprovado a divergência nos termos do art. 1.043, § 4º, do Código de Processo Civil de 2015 e do art. 266, § 4º, do Regimento Interno do Superior Tribunal de Justiça, "pois limitou-se a transcrever apenas a ementa do acórdão paradigma REsp n. 1.336.026/PE, deixando de cumprir regra técnica do presente recurso, o que constitui vício substancial insanável".
+II - A parte agravante, em seu agravo interno, não impugna esses fundamentos.
+III - É entendimento desta Corte que não se conhece do agravo interno que não impugna os fundamentos da decisão recorrida. Incidência do enunciado n. 182 da Súmula do STJ.
+IV - Agravo interno não conhecido.
+VOTO
+A decisão recorrida, que indeferiu liminarmente os embargos de divergência, teve por fundamento o fato de o recorrente não ter comprovado a divergência nos termos do art. 1.043, § 4º, do Código de Processo Civil de 2015 e do art. 266, § 4º, do Regimento Interno do Superior Tribunal de Justiça, "pois limitou-se a transcrever apenas a ementa do acórdão paradigma REsp n. 1.336.026/PE, deixando de cumprir regra técnica do presente recurso, o que constitui vício substancial insanável." (fl. 1.107).
+Por outro lado, em seu agravo interno, a parte agravante traz alegações dissociadas da decisão recorrida, limitando-se a reiterar as razões recursais da matéria de fundo, referentes à prescrição da obrigação de pagar, que nem sequer chegou a ser submetido ao juízo de admissibilidade.
+Nesse diapasão, verifica-se que a parte agravante deixa de atacar especificamente os fundamentos da decisão ora agravada, ensejando, assim, a incidência do enunciado n. 182 da Súmula do STJ, segundo o qual "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". Ressalta-se que a mesma exigência é prevista no art. 1.021, § 1º, do Código de Processo Civil de 2015.
+Nesse sentido é o posicionamento desta Corte Especial. Confira-se:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO EMBARGADO QUE NÃO EXAMINOU O MÉRITO DO RECURSO ESPECIAL. MANIFESTA INADMISSIBILIDADE DOS EMBARGOS DE DIVERGÊNCIA, LIMINARMENTE INDEFERIDOS. AGRAVO INTERNO QUE, NOVAMENTE, DEIXA DE IMPUGNAR ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO ORA AGRAVADA. INCIDÊNCIA DOS ARTS. 932, INCISO III, E 1.021, § 1.º, DO CPC/2015 E DA SÚMULA N.º 182 DO STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1. Não há como conhecer do agravo interno, uma vez que os Agravantes não infirmaram o fundamento da decisão que indeferiu liminarmente os embargos de divergência, qual seja, a incidência da Súmula n.º 315/STJ. Aplica-se, mutatis mutandis, o óbice da Súmula n.º 182 do STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". Inteligência do art. 932, inciso III, e art. 1.021, § 1.º, ambos do Código de Processo Civil.
+2. Agravo interno não conhecido.
+(AgInt nos EAREsp n. 1.209.431/RS, relatora Ministra Laurita Vaz, Corte Especial, julgado em 21/5/2019, DJe de 31/5/2019.)
+Ante o exposto, não conheço do recurso de agravo interno.
+É o voto.
