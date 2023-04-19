@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, impetrado em benefício de JOSE HENRIQUE SOUSA DOS SANTOS, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ no julgamento do HC n. 0622473-83.2023.8.06.0000.
+Extrai-se dos autos que o paciente foi preso em flagrante delito em 19/6/2022, por ter supostamente praticado os delitos de incêndio, dano e corrupção de menores. Referida custódia foi convertida em prisão preventiva. Sobreveio sentença condenatória fixando pena de 4 anos e 6 meses de reclusão, em regime inicial semiaberto, mantida a custódia cautelar.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual não conheceu da impetração nos termos do acórdão que restou assim ementado:
+"HABEAS CORPUS. EXECUÇÃO PENAL. EXPEDIÇÃO DE GUIADEFINITIVA. PREJUDICADO. PROGRESSÃODEREGIME. NÃOCONHECIMENTO. INCABÍVEL A IMPETRAÇÃO DE HABEAS CORPUS COMOSUCEDÂNEO RECURSAL. MATÉRIA AFETA À EXECUÇÃO PENAL. NÃOCONHECIMENTO. AUSÊNCIA DE MANIFESTA ILEGALIDADE. PROGRESSÃOPER SALTUMDE REGIME PRISIONAL. IMPOSSIBILIDADE. ORDEMNÃOCONHECIDA.
+1. Habeas Corpus, com pedido de liminar, impetrado em favor de José Henrique Sousa dos Santos, alegando constrangimento ilegal, uma vez que já se passaram 8 (oito) meses de prisão em regime fechado e até a presente data o Juízo não efetuou a carta de guia provisória de execução de pena, pelo que impositiva a concessão do habeas corpus, a fim de que seja concedida a progressão do regime pretendido.
+2. Inicialmente, em relação ao pedido de expedição da carta de guia a uma das Varas de Execução desta Comarca, entendo que este restou prejudicado, uma vez que foi expedida a Guia de Recolhimento Definitiva em 24/02/2023 (fls. 274/277 do Processo nº 0200662-48.2022.8.06.0298).
+3. No que se refere ao pedido de revogação da prisão preventiva do paciente, uma vez que este já teria atingido o limite temporal para progressão para o regime aberto, tenho que este não poderá ser conhecido.
+4. É cediço que o Habeas Corpus é remédio de urgência e excepcional, concebido para fazer cessar ofensa ou ameaça iminente ao direito de ir e vir quando estas se mostrarem flagrantemente ilegais. Não é remédio para todos os males no processo penal, notadamente porque as hipóteses de cabimento do writ são restritas, não se admitindo que a ação constitucional seja utilizada em substituição a recursos ordinários, tal como, na hipótese, agravo à execução.
+5. Eventual progressão ao regime aberto pressupõe o implemento dos requisitos objetivos e subjetivos no regime anterior (semiaberto), conforme entendimento consolidado na Súmula 491/STJ ,in verbis: "Não se admite a chamada progressão per saltum de regime prisional".
+6. Ordem não conhecida" (fl. 38).
+No presente writ, a defesa relata que "já se passaram 11meses e 02dias de prisão em regime fechado e até a presente data o réu não foi posto em regime menos gravoso de execução da pena, estando preso em regime fechado mesmo condenado em regime semiaberto, e conforme se verifica no atestado de pena, o mesmo já alcançou tempo para progredir ao regime aberto".
+Requer, em liminar e no mérito, " c onsiderando a ausência de fundamentação para manter a prisão do paciente, determinando de imediato a sua liberdade em razão do regime prisional a que fora condenado, bem como, do alcance ao regime aberto o qual ainda não fora deferido no juízo da execução da pena, com a expedição do ALVARÁ DE SOLTURA em seu favor, caso vossa Excelência entenda que sejam necessárias, sejam aplicadas outras medidas cautelares alternativas à prisão, fazendo-se, dessa forma, a mais lídima justiça".
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça.
+Ademais, a possibilidade de análise da matéria para eventual concessão da ordem de ofício não se mostra adequada ao presente caso. Da atenta leitura do acórdão impugnado verifica-se que o Tribunal de origem não se manifestou expressamente sobre as alegações de que o paciente estaria cumprindo pena em regime mais grave do que aquele que consta da condenação e de que o paciente faz jus à progressão de regime.
+Desse modo, resta afastada a competência desta Corte Superior para conhecimento do feito, sob pena de incorrer em indevida supressão de instância.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. ESPECIAL GRAVIDADE DA CONDUTA. GARANTIA DA ORDEM PÚBLICA. RÉU FORAGIDO. APLICAÇÃO DA LEI PENAL. ALEGAÇÃO DE AUSÊNCIA DE CONTEMPORANEIDADE. NÃO OCORRÊNCIA. TESE DE VÍCIO NO RECONHECIMENTO. MATÉRIA NÃO ANALISADA PELA CORTE LOCAL. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A prisão preventiva foi devidamente justificada em razão da gravidade concreta do delito, evidenciada pelo modus operandi empregado: a conduta praticada envolveu a participação de 4 (quatro) indivíduos, que atraíram a Vítima, que é pessoa idosa, ao local do sequestro, sob o pretexto de prestar serviço de guincho. A Vítima foi mantida em cativeiro, acorrentada nos pés e nas mãos, sendo constantemente agredida com chutes e pauladas, "sem contar que, dos sete dias em que permaneceu confinado, recebeu água e comida só até o segundo dia, o que lhe acarretou quadro grave de desidratação".
+Tais circunstâncias demonstram a periculosidade do Acusado e revelam a necessidade da prisão para garantia da ordem pública.
+2. As instâncias ordinárias consignaram, ainda, que o Agravante se encontra foragido, o que também justifica a segregação cautelar para aplicação da lei penal.
+3. Quando a fuga constitui um dos fundamentos de cautelaridade, a alegação de ausência de contemporaneidade não tem o condão de revogar a segregação provisória.
+4. O Tribunal local não se manifestou sobre o suposto vício no reconhecimento do Agravante, o que impede a manifestação desta Corte Superior, sob pena de indevida supressão de instância.
+5. Agravo regimental desprovido.
+(AgRg no HC 685.324/SC, Rel. Ministra LAURITA VAZ, SEXTA TURMA, DJe 06/10/2021).
+Ausente, portanto, qualquer constrangimento ilegal que justifique a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 210, do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+Intimem-se.
