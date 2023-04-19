@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado pela Defensoria Pública em favor de LEONARDO COSTA apontando como autoridade coatora o Tribunal de Justiça do Estado de Santa Catarina.
+Consta dos autos que o paciente impetrou habeas corpus na Corte de origem contra decisão que revogou o acordo de não persecução penal, porquanto não observados os princípios do contraditório e da ampla defesa.
+O writ não foi conhecido monocraticamente. Interposto agravo interno foi a decisão ratificada. Eis a ementa do julgado (e-STJ fl. 126):
+AGRAVO INTERNO EM HABEAS CORPUS. DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO WRIT. TESE LEVANTADA NA IMPETRAÇÃO NÃO APRECIADA PELO JUÍZO A QUO. IMPOSSIBILIDADE DE EXAMINAR O PLEITO SOB PENA DE SUPRESSÃO DE INSTÂNCIA. DECISUM MANTIDO. AGRAVO DESPROVIDO.
+No presente mandamus, sustenta a defesa que a rescisão do acordo de não persecução deve ser antecipada de prévia intimação pessoal do investigado, bem como de sua defesa técnica.
+Requer, liminarmente, a suspensão dos efeitos da condenação imposta ao paciente. No mérito, pleiteia seja declarada a nulidade da decisão que revogou/rescindiu o acordo de não persecução penal.
+É o relatório. Decido.
+De início, observa-se que o tema objeto da presente impetração - nulidade da decisão que revogou/rescindiu o acordo de não persecução penal ante a ausência de contraditório - não foi objeto de exame pela Corte de origem, o que impede este Superior Tribunal de Justiça de conhecer da matéria, sob pena de indevida supressão de instância.
+Como cediço, " n ão compete a esta Corte, em habeas corpus interposto contra acórdão de apelação, conhecer matéria não decidida previamente pela instância de origem, sob pena de indevida supressão de instância". (AgRg no HC n. 764.710/SP, Relator Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 19/12/2022, DJe 21/12/2022).
+No mesmo sentido, é entendimento da Corte Maior que " o  exaurimento da instância recorrida é, como regra, pressuposto para ensejar a competência do Supremo Tribunal Federal, conforme vem sendo reiteradamente proclamado por esta Corte (HC n. 129.142, Relator Ministro MARCO AURÉLIO, Relator p/ Acórdão Ministro ALEXANDRE DE MORAES Primeira Turma, DJe de 10/8/2017; RHC n. 111.935, Relator Ministro LUIZ FUX, Primeira Turma, DJe de 30/9/2013; HC n. 97.009, Relator p/ Acórdão: Ministro TEORI ZAVASCKI, Tribunal Pleno, DJe de 4/4/2014; HC n. 118.189, Relator Ministro RICARDO LEWANDOWSKI, Segunda Turma, DJe de 24/4/2014)". (HC n. 179.085, Relator Ministro MARCO AURÉLIO, Primeira Turma, julgado em 05/08/2020, DJe 25/09/2020).
+Ante o exposto, indefiro liminarmente o presente habeas corpus.
+Intimem-se.
