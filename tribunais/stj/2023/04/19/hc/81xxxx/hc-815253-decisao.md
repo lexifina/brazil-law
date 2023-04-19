@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus sem pedido de liminar impetrado em favor de CARLOS HENRIQUE DOS SANTOS em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS.
+Conta dos autos que o Juízo das execuções indeferiu o pedido de remição de penas formulado pela defesa de pena pelos dias supostamente trabalhados.
+Irresignada, a defesa interpôs agravo perante o Tribunal de origem, o qual negou provimento ao recurso nos termos do acórdão que restou assim ementado:
+"AGRAVO EM EXECUÇÃO. PENAL E PROCESSUAL PENAL. REMIÇÃO DE PENA. PERÍODO ANTERIOR AO CUMPRIMENTO DA PENA ATUAL. IMPOSSIBILIDADE. RECURSO NÃO PROVIDO.1 - O art. 26, caput, da LEP, dispõe que a condenado do regime fechado ou semiaberto, poderá remir per estudo ou trabalho parte de execução da pena. Desta forma, tem se que a remição está diretamente relacionada com o cumprimento da pena privativa de liberdadeatual.2 - Tendo em vista que período de trabalho que pretende ver remido é anterior à data de início de cumprimento de pena do processo criminal que atualmente está em execução, é inviável a remição postulada.3 - Agravo conhecido e não provido" (fl. 40)
+No presente writ, a defesa sustenta que o período de efetivo trabalho exercido pelo apenado, ainda que anterior ao início de cumprimento de pena deve ser considerado para fins de remição, visto que o mesmo não dera causa a demora para o início da execução penal.
+Aduz que o prejuízo ao Paciente foi gritante, na medida em que foi posto em liberdade em 21/06/2018 por ter sido condenado no regime inicial semiaberto , todavia, o seu início de cumprimento de pena começou a contar somente em 18/01/2020, quando houve o recebimento dos autos no sistema SEEU, sem que o mesmo desse causa a esta demora, restando demonstrada a omissão estatal (e-STJ, fl. 6).
+Requer seja reconhecida a remição da pena pelo trabalho desempenhado na função de garçom pelo período de 26/06/2018 a 18/12/2019.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus de ofício.
+O Tribunal de origem negou provimento ao agravo em execução, aos seguintes fundamentos:
+"não assiste razão ao agravante e, portanto, o pleito de remição de dias trabalhados em período anterior ao início do cumprimento da pena, não merece prosperar. Explico.11 - Em que pese o art. 126 da LEP preveja a possibilidade de remição da pena privativa de liberdade em razão do exercício do labor, entendo, em igual sentido ao juízo das execuções que, à época que exercia suas atividades laborativas, o apenado não dera início ao legítimo cumprimento de pena, não sendo realizada audiência admonitória para verificação e anuência das condições necessárias12 - Desse modo, como o período de trabalho que pretende ver remido é anterior à data de início de cumprimento de pena do processo criminal que atualmente está em execução, é inviável a remição postulada, sob pena de criação de um crédito em favor do agravante contra a Justiça Criminal" (e-STJ, fls. 42)
+Assim, o Tribunal de origem não divergiu da jurisprudência dominante nesta Corte superior no sentido de não ser possível o computo para fins de remição da pena dos dias trabalhados em datas anteriores ao cometimento do crime pelo qual se resgata a pena.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. IRRESIGNAÇÃO DEFENSIVA. REMIÇÃO PELO TRABALHO. DIAS LABORADOS EM PERÍODO ANTERIOR À EXECUÇÃO PENAL RELATIVA A CRIME PRATICADO POSTERIORMENTE. INVIABILIDADE. IMPOSSIBILIDADE DE CRIAÇÃO DE CRÉDITO CONTRA A JUSTIÇA CRIMINAL.
+1. II - "In casu, constata-se que a decisão proferida pelo Tribunal Paulista está em consonância com o entendimento consolidado na jurisprudência desta Corte Superior, no sentido de ser possível aplicar-se a detração penal dos dias trabalhados no cômputo da pena de processo diverso daquele no qual efetivou-se a atividade laboral, exigindo-se, para tanto, que o crime ao qual se deseja a detração seja anterior à execução na qual implementou-se os dias remidos, hipótese inocorrente nos autos"  ..  (HC 377.703/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 03/08/2017, DJe 10/08/2017).
+2. A jurisprudência desta Corte exige, para fins de remição da pena, que o tempo laborado seja posterior ao início da execução penal, ou seja, que o início da execução penal seja anterior ao tempo de labor.
+3. No caso, o agravante pleiteia o período trabalhado entre 5/5/2005 a 23/4/2020, anterior ao início da execução penal, em 23/4/2020;
+assim, não cabe a remição.
+4 . Agravo improvido."
+(AgRg no HC n. 653.667/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 20/4/2021, DJe de 26/4/2021.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO. TRABALHO REALIZADO EM PERÍODO ANTERIOR À PRÁTICA DO DELITO CUJA CONDENAÇÃO ESTÁ EM EXECUÇÃO. IMPOSSIBILIDADE. ORDEM DENEGADA. AGRAVO DESPROVIDO.
+1. A jurisprudência desta Corte firmou-se no sentido da impossibilidade de remição do tempo de trabalho executado, quando o labor tenha sido realizado em data anterior à prática do delito cuja condenação se executa, sob pena de se permitir espécie de crédito de pena ao reeducando, o que não se admite. Precedentes.
+2. Agravo regimental desprovido."
+(AgRg no HC n. 433.572/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 27/10/2020, REPDJe de 12/11/2020, DJe de 03/11/2020.)
+Ausente, portanto, qualquer constrangimento ilegal que justifique a concessão da ordem de ofício.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
