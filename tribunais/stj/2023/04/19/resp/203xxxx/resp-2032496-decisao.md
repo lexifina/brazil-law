@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO SUL, com fundamento no art. 105, inciso III, alínea a, da Constituição da República, contra acórdão proferido pelo Tribunal de Justiça daquela Unidade Federativa no Recurso em Sentido Estrito n. 5097937-28.2021.8.21.0001.
+Consta nos autos que o Recorrido foi preso em flagrante no dia 09/01/2021, pela suposta prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006, pois surpreendido na posse de "1,305Kg de maconha e uma porção de maconha, pesando aproximadamente 05g", além de uma balança de precisão (fl. 229).
+No dia 1.º/09/2021, o Juízo de primeiro grau concedeu liberdade provisória ao Acusado, considerando: a) o decurso do prazo de 7 (sete) meses desde a decretação da prisão preventiva e o encerramento da instrução processual; b) o fato de o delito não envolver violência ou grave ameaça à pessoa; e c) a residência fixa e a ocupação lícita do Réu (fls. 154-157).
+Irresignada, a Acusação interpôs recurso em sentido estrito, que foi desprovido pela Corte estadual, em acórdão assim ementado (fl. 233):
+"RECURSO EM SENTIDO ESTRITO. TRÁFICO DE DROGAS. REVOGAÇÃO DA PRISÃO PREVENTIVA. IRRESIGNAÇÃO MINISTERIAL.
+NO CASO DOS AUTOS, FOI APREENDIDO NA POSSE DO PACIENTE 1,305KG DE MACONHA E UMA BALANÇA DE PRECISÃO.
+REVOGAÇÃO DA SEGREGAÇÃO CAUTELAR DO PACIENTE APÓS O ENCERRAMENTO DA INSTRUÇÃO PROCESSUAL, DIANTE DA AUSÊNCIA DOS REQUISITOS AUTORIZADORES PARA A MANUTENÇÃO DA PRISÃO PREVENTIVA. MANTIDA A SOLTURA DO RECORRIDO APÓS SER PROFERIDA A SENTENÇA CONDENATÓRIA (PENA: 06 (SEIS) ANOS E 05 (CINCO) MESES DE RECLUSÃO, A SER CUMPRIDA EM REGIME FECHADO.
+DESTA FORMA, NÃO SE IDENTIFICA MOTIVO PARA RESTABELECER A PRISÃO PREVENTIVA, POIS ENCERRADA A INSTRUÇÃO PROCESSUAL, SENDO REVOGADA A SEGREGAÇÃO CAUTELAR DO RÉU E, POSTERIORMENTE, MANTIDA A SUA LIBERDADE NA SENTENÇA CONDENATÓRIA. ARTIGO 282, §6º, DO CÓDIGO DE PROCESSO PENAL. A PRISÃO PREVENTIVA NÃO POSSUI COMO FINALIDADE A ANTECIPAÇÃO DE CUMPRIMENTO DA PENA. RECURSO IMPROVIDO."
+Nas razões do recurso especial, o Parquet estadual aponta ofensa ao art. 312 do Código de Processo Penal, buscando o restabelecimento da prisão preventiva do Réu.
+A esse respeito, destaca, em síntese, que (fl. 241; sem grifos no original):
+"A expressiva quantidade e diversidade de entorpecentes (1,305Kg de maconha e uma porção de maconha, pesando aproximadamente 05g), aliada à apreensão de balança de precisão, bem como ao fato de ser o réu reincidente específico e ter tido, neste processo, sentença proferida em seu desfavor, que julgou parcialmente procedente a denúncia, condenando-o como incurso nas sanções do artigo 33, caput, da Lei nº 11.343/06, à pena de 06 (seis) anos e 05 (cinco) meses de reclusão, em regime inicial fechado, revela o periculum libertatis, pois denota dedicação à atividade criminosa com habitualidade."
+Contrarrazões (fls. 258-264).
+O Ministério Público Federal opinou pelo provimento do recurso (fls. 287-292).
+É o relatório. Decido.
+O aresto recorrido encontra-se assim fundamentado (fl. 231; sem grifos no original):
+"Entendo que a decisão não merece ser reformada.
+Com efeito, ressalto que a prisão preventiva, conforme os termos do parágrafo 6º do artigo 282 do Código de Processo Penal, possui caráter provisório e excepcional, bem como não possui como finalidade a antecipação de cumprimento da pena (artigo 313, §2º, Código de Processo Penal).
+Por consequência, a necessidade de imposição da prisão preventiva sempre deve ser feita com observância às peculiaridades e particularidades de cada caso concreto, notadamente porque, a gravidade, em tese, do delito não tem a capacidade de motivar, por si só, a segregação cautelar.
+Nesse sentido, mantenho a decisão recorrida, visto que não estão presentes, no atual momento processual, os requisitos do artigo 312 do CPP, em especial a necessidade de garantia da ordem pública, tendo já ocorrido o julgamento da ação penal.
+Outrossim, em que pese tenha referido o agente ministerial que o réu ostente condenação pretérita por igual delito em comento, observo que desde a sua soltura não há notícia de intercorrências o envolvendo.
+Assim, levando-se em conta o disposto no artigo 282, §6º, do Código de Processo Penal, o decreto da segregação cautelar deve observar a noção de excepcionalidade.
+No caso em tela, não se identifica motivo para restabelecer a prisão preventiva, pois encerrada a instrução processual, sendo, em ato contínuo, concedida a liberdade provisória e julgado provisoriamente o processo, definindo-se na sentença, sem a interposição de apelação pelo Ministério Público, o direito de o recorrido apelar em liberdade."
+Como se vê, o Tribunal de origem, examinando detidamente as particularidades do caso em apreço, concluiu, de forma fundamentada, que não estaria demonstrada a necessidade da prisão preventiva do Recorrido.
+A princípio, ressaltou-se que o feito já havia sido sentenciado, sendo que, desde a sua soltura, o Acusado não teria se envolvido em novos delitos.
+No entanto, as razões do recurso especial não refutaram integralmente esse fundamento, mas se limitaram a sustentar que a gravidade concreta do delito e a reincidência específica do Acusado, condenado em primeiro grau, seriam suficientes para ensejar a manutenção da custódia cautelar. Portanto, o conhecimento do apelo nobre encontra empeço nas Súmulas n. 283 e 284 do Supremo Tribunal Federal.
+No mesmo sentido, mutatis mutandis:
+"PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME CONTRA A ORDEM TRIBUTÁRIA. COMPARTILHAMENTO DE DADOS BANCÁRIOS E FISCAIS. TEMA N. 990 DO STF. SÚMULA N. 83 DO STJ. PERÍCIA CONTÁBIL. INDEFERIMENTO. FUNDAMENTOS INATACADOS. SÚMULAS N. 283 E 284 DO STF. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+2. A defesa deixou de impugnar, nas razões do recurso especial, o argumento da Corte de origem sobre a desnecessidade da prova pericial pleiteada. A deficiência recursal implica os óbices previstos nas Súmulas n. 283 e 284 do STF.
+3. Agravo regimental não provido." (AgRg no AREsp n. 2.035.299/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 24/05/2022, DJe 30/05/2022.)
+"PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. OPERAÇÃO EX-CÂMBIO. LAVAGEM DE DINHEIRO E CRIMES DA LEI N. 7.492/1986. INEXISTÊNCIA DE VIOLAÇÃO DOS ARTS. 381 E 619 DO CPP. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. ART. 385 DO CPP. RECEPÇÃO PELA CR/1988. PRECEDENTES DO STF E DO STJ. PLEITO ABSOLUTÓRIO. SÚMULA 7/STJ. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DO ARESTO E FALTA DE INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL VIOLADO. SÚMULAS 283 E 284/STF. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+5. A ausência de impugnação aos fundamentos do acórdão recorrido e a falta de indicação do dispositivo de lei federal tido por violado atraem a aplicação das Súmulas 283 e 284/STF.
+6. Agravo regimental desprovido." (AgRg no REsp n. 1.954.984/RS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 07/12/2021, DJe 13/12/2021.)
+Ademais, verifico que o Tribunal a quo declinou fundamento autônomo que, por si só, é suficiente para manter a conclusão adotada, consistente no fato de que não houve apelação acusatória quanto ao direito de recorrer em liberdade concedido na sentença. Em relação a tal fundamento, o Recorrente não teceu qualquer consideração, de forma que incide também o óbice da Súmula n. 283/STF.
+A propósito:
+"PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO CULPOSO NA DIREÇÃO DE VEÍCULO AUTOMOTOR E EMBRIAGUEZ AO VOLANTE. ABSOLVIÇÃO. SUFICIÊNCIA DA PROVA. SÚMULA N. 7 DO STJ. LAUDO PERICIAL. FUNDAMENTO INATACADO. SÚMULA N. 283 DO STF. PERDÃO JUDICIAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 282 DO STF. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+2. A parte deixou de impugnar o argumento do acórdão recorrido de que o resultado do exame pericial, na hipótese, deveria prevalecer sobre o teste do etilômetro, em razão do maior rigor técnico. Incidência da Súmula n. 283 do STF.  ..
+4. Agravo regimental não provido." (AgRg no AREsp 1.929.766/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 08/02/2022, DJe 21/02/2022.)
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO INTERNACIONAL DE DROGAS. ACORDO DE NÃO PERSECUÇÃO PENAL. ART. 28-A DO CPP. INCIDÊNCIA DAS SÚMULAS 283/STF E 284/STF. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA. PATAMAR DE REDUÇÃO. PLEITO DE ALTERAÇÃO. IMPOSSIBILIDADE. REEXAME DO ACERVO FÁTICO-PROBATÓRIO DELINEADO NOS AUTOS. SÚMULA N. 7/STJ. INCIDÊNCIA. MANUTENÇÃO DA DECISÃO AGRAVA DA. AGRAVO REGIME NTAL DESPROVIDO.
+I - Não foram infirmados os fundamentos do acórdão, que, por si só, sustentam o decisum impugnado, razão pela qual, o recurso não pode ser conhecido, nos termos em que aduz a Súmula 283 do Supremo Tribunal Federal: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+ ..
+Agravo regimental desprovido." (AgRg no AREsp 1.958.312/SP, Rel. Ministro JESUÍNO RISSATO (DESEMBARGADOR CONVOCADO DO TJDFT), QUINTA TURMA, julgado em 13/12/2021, DJe 16/12/2021.)
+De todo modo, saliento que, uma vez constatada, pela Jurisdição ordinária, a desnecessidade da prisão preventiva, a alteração do resultado do julgamento exigiria aprofundado reexame fático-probatório, o que não é possível no recurso especial, conforme se extrai da Súmula n. 7/STJ.
+A esse respeito, confiram -se:
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO TRIPLAMENTE QUALIFICADO (MOTIVO TORPE, EMPREGO DE MEIO CRUEL E RECURSO QUE DIFICULTOU A DEFESA DA VÍTIMA). PRONÚNCIA. DEFICIÊNCIA DE DEFESA. NÃO OCORRÊNCIA. FUNDAMENTAÇÃO IDÔNEA. AUSÊNCIA DE VIOLAÇÃO DO PRINCÍPIO DA AMPLA DEFESA E CONTRADITÓRIO. MATERIALIDADE E INDÍCIOS DA AUTORIA. AFASTAMENTO. SÚMULA 7/STJ. PRISÃO PREVENTIVA. LEGALIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+7. Para rever a conclusão da instância de origem, quanto à ausência dos requisitos para a prisão preventiva, seria indispensável a revisão do conjunto fático-probatório, providência que não encontra espaço em recurso especial, em razão da vedação da Súmula n. 7/STJ.
+8. Agravo regimental não provido." (AgRg no AREsp 1.700.869/GO, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/09/2020, DJe 21/09/2020.)
+"AGRAVO REGIMENTAL EM RECURSO ESPECIAL. REQUISITOS DA PRISÃO PREVENTIVA. REVISÃO DO JULGADO. IMPOSSIBILIDADE. NECESSIDADE DO REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMÚLA 7/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+1. A violação do art. 312 do CPP, nos termos em que foi apresentada, não prescinde da incursão no conjunto fático-probatório, para que se verifique a necessidade da prisão cautelar do agravado. Incidência da Súm. 7/STJ (AgRg no AREsp 1205382/PI, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/03/2018, DJe 23/03/2018).
+2. Agravo regimental improvido." (AgRg no REsp 1.773.794/PR, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 11/06/2019, DJe 21/06/2019.)
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL PENAL. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. REVOGAÇÃO MANTIDA PELO TRIBUNAL DE ORIGEM. ARESTO RECORRIDO. FEITO SENTENCIADO E NÃO COMETIMENTO DE NOVOS DELITOS. FUNDAMENTO NÃO IMPUGNADO INTEGRALMENTE . SÚMULAS N. 283 E 284 DO STF. AUSÊNCIA DE RECURSO MINISTERIAL EM RELAÇÃO AO DIREITO DE RECORRER EM LIBERDADE. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA N. 283 DO STF. DESNECESSIDADE DA PRISÃO. REVISÃO DO JULGAMENTO. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. RECURSO ESPECIAL NÃO CONHECIDO.
