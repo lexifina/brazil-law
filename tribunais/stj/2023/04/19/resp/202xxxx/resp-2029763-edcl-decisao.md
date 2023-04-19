@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de embargos declaratórios opostos por Alexandre Augusto Forcinitti Valera contra decisão unipessoal que negou provimento ao recurso especial, assim resumida:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. PEDIDO DE DESTAQUE DE HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS. IMPOSSIBILIDADE. PRECEDENTES. RECURSO ESPECIAL NÃO PROVIDO.
+O embargante aduz que a decisão embargada é contraditória, obscura e omissa, "porque apenas se limitou a inferir pela impossibilidade na expedição de forma autônoma da expedição da verba contratual, mas em momento algum dispôs acerca da possibilidade de expedição do requisitório, ainda que em favor da parte falecida (Resolução nº 458/2017, do Conselho da Justiça Federal), possibilitando o destaque da verba contratual na forma do artigo 22, § 4º, da Lei nº 8.906/94".
+Assevera, também, que "não se pode olvidar a possibilidade de expedição do requisitório em favor da parte falecida, notadamente em observância a norma inserida na Resolução de nº 458/2017, alterada pela Resolução de nº 670/2020, ambas do Conselho da Justiça federal que regulamenta a expedição dos ofícios de pagamento, a qual prevê no art. 37-A, §§ 1º e 2º, que por decisão judicial específica, poderão ser expedidos ofícios requisitórios quando a situação cadastral do CPF não for regular ou do CNPJ não for ativa, caso em que os valores serão requisitados com status bloqueado à disposição do juízo requisitante, a quem competirá, antes de autorizar o levantamento, por alvará ou meio equivalente".
+O prazo para resposta transcorreu in albis.
+É o relatório.
+Passo a decidir.
+Os embargos de declaração destinam-se à integração do pronunciamento judicial, de forma a sanar possível obscuridade, contradição ou omissão de algum ponto do julgado, quando tais vícios estejam aptos a comprometer a verdade e os fatos postos nos autos.
+No presente caso, não há vícios a serem sanados.
+A decisão embargada, de forma clara, consignou que o acórdão recorrido adotou entendimento consonante com o da jurisprudência desta Corte, no sentido de que: (i) é indevida a expedição de precatório exclusivamente para o pagamento da reserva de honorários diante do óbito do autor e da ausência de habilitação de eventuais sucessores; (ii) é possível o destaque dos honorários contratuais em favor dos advogados mediante a juntada, antes da expedição do precatório, do contrato de prestação de serviços profissionais, nos termos do art. 22, § 4º, da Lei n. 8.906/1994, mas não a expedição autônoma de requisição de pequeno valor ou precatório; (iii) inaplicável a orientação firmada na Súmula Vinculante 47 aos honorários advocatícios contratuais, tendo em vista que, enquanto os honorários sucumbenciais são estipulados pelo título executivo judicial, que produz efeitos para as partes que integraram a relação jurídica processual, os honorários contratuais têm origem no contrato de prestação de serviços advocatícios, que vincula o advogado e o cliente, mas não a Fazenda Pública.
+Evidenciada, portanto, a nítida pretensão da parte em alterar o resultado do julgado, situação que, diante da inexistência das hipóteses previstas no art. 1.022 do CPC/2015, não é compatível com o recurso protocolado.
+Não havendo omissão, obscuridade ou contradição, merecem ser rejeitados os embargos de declaração opostos, sobretudo quando contêm elementos meramente impugnativos.
+Diante do exposto, rejeito os embargos de declaração.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CPC/2015. EMBARGOS REJEITADOS.
