@@ -1,0 +1,17 @@
+DECISÃO
+Nos autos da Ação Penal n. 1500579-38.2022.8.26.0571, o paciente foi preso em flagrante e acusado pela prática, em tese, dos crimes descritos no art. 16, parágrafo único, da Lei n. 10.826/2003, arts. 288, caput, e 155, § 4º, II, ambos do Código Penal, tendo a prisão sido convertida em preventiva na audiência de custódia realizada na data de 22/4/2022 pelo Juízo de Direito da Vara Plantão (22ª CJ) da comarca de Itapetininga/SP (fls. 29/30).
+Irresignada, a defesa impetrou o HC n. 2091358-46.2022.8.26.0000, tendo o Tribunal a quo, por unanimidade, denegada a ordem (fls. 16/23).
+Sobreveio, então, o presente writ, no qual se alega constrangimento ilegal suportado pelo paciente decorrente de: (i) inidoneidade de fundamentação do decreto prisional; (ii) ausência dos requisitos autorizadores da custódia cautelar previstos no art. 312 do Código de Processo Penal; e (iii) desnecessidade da referida segregação, ante as suas condições pessoais favoráveis.
+Requer-se, liminarmente e no mérito, a revogação da prisão preventiva, com a imediata expedição de alvará de soltura em favor do ora paciente.
+Liminar deferida (fls. 66/69).
+Pedido de extensão dos efeitos da liminar formulado em prol do corréu Cleber Gomes Azevedo (fls. 73/83), com deferimento às fls. 119/120.
+Pedido de extensão dos efeitos da liminar formulado em favor do corréu Carlos Eduardo Gomes da Silva (fls. 123/135), com deferimento às fls. 153/154.
+Prestadas as informações (fls. 100/116; 158/160 e 163/164), o Ministério Público Federal opinou pelo não conhecimento do writ, com a cassação da medida liminar (fls. 170/178).
+Informações complementares (fls. 189/193).
+É o relatório.
+As informações obtidas no endereço eletrônico do Tribunal de Justiça de São Paulo dão conta de que, em 17/4/2023, o Juízo de Direito da 2ª Vara Criminal da comarca de Itapetininga/SP julgou parcialmente procedente a denúncia para condenar Carlos Eduardo Gomes da Silva e o ora paciente às penas de 9 meses e 10 dias de reclusão, em regime inicial aberto, e pagamento de 3 dias-multa, no piso; e Cleber Gomes Azevedo, à pena de 11 meses e 6 dias de reclusão, em regime inicial semiaberto, e pagamento de 4 dias-multa, no piso; por incidirem, por duas vezes, no art. 155, § 4º, incisos II e IV, c/c o art. 14, inciso II, na forma do art. 71, todos do Código Penal, substituída a pena privativa de liberdade dos réus Carlos e Rodrigo pela pena restritiva de direitos, consistente na prestação de serviço à comunidade pelo prazo da pena privativa da liberdade fixada em entidade a ser definida pelo Juízo da Vara de Execuções Penais, absolvidos os réus da acusação de incidirem no art. 288, caput, do Código Penal, com fundamento no art. 386, inciso VII, do Código de Processo Penal, facultado, na oportunidade, o direito de recorrer em liberdade (Ação Penal n. 1500579-38.2022.8.26.0571), fato que esgota a pretensão contida na presente impetração, dada a perda superveniente do objeto da demanda e a alteração do cenário fático-processual.
+Consequentemente, perdeu o objeto o writ. Julgo-o, pois, prejudicado (arts. 659 do CPP e 34, XI, do RISTJ). Por óbvio, fica sem efeito a liminar anteriormente deferida.
+Publique-se.
+EMENTA
+HABEAS CORPUS. CRIME DESCRITO NO ART. 155, § 4º, II E IV, C/C O ART. 14, II, NA FORMA DO ART. 71, TODOS DO CP. PRISÃO PREVENTIVA. SUPERVENIENTE SENTENÇA CONDENATÓRIA. FACULTADO O RECURSO EM LIBERDADE. RELEVANTE ALTERAÇÃO DO PANORAMA FÁTICO-PROCESSUAL. PERDA DE OBJETO.
+Writ prejudicado.
