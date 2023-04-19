@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de recurso especial interposto por Priscilla Coelho da Silva, com fulcro no art. 105, III, a, da Constituição da República, contra acórdão proferido pela Segunda Câmara Reservada de Direito Empresarial do Tribunal de Justiça de São Paulo, assim ementado (e-STJ, fl. 600):
+Franquia. Anulação de contrato cumulada com indenização por danos materiais e morais. Improcedência do pedido. Ausência de comprovação de inadimplemento contratual por parte da ré. Franqueador não garante o sucesso do negócio, cujo risco é assumido pelo franqueado. Atividades desempenhadas regularmente por mais de um ano. Aplicação da teoria da vedação ao comportamento contraditório. Impossibilidade de anulação do contrato diante da consumação da relação negocial. Inteligência dos arts. 172 e 174, do Código Civil. Sentença observou pormenorizadamente a situação fática apresentada, nada existindo para ser modificada. Apelo desprovido.
+Nas razões do apelo especial, a recorrente indica ofensa aos arts. 3º, I, II, III, IX e XV, e 4º da Lei n. 8.955/1994.
+Alega que: (i) não foi cumprido o prazo mínimo de 10 (dez) dias para o pagamento de taxas; e (ii) a franqueadora, ao disponibilizar a Circular de Oferta (COF), não apresentou a documentação necessária à efetivação do negócio jurídico - balanço patrimonial, know-how e informação acerca de demandas judiciais e das empresas que compõem o grupo -, o que induziu a franqueada ao erro, ocasionando-lhe diversos prejuízos, os quais estariam comprovados nos autos, tendo a demanda sido proposta em prazo razoável.
+Contra-arrazoado o feito (e-STJ, fls. 622-634), o recurso especial foi admitido na origem (e-STJ, fls. 635-636), ascendendo os autos a esta Corte Superior.
+Brevemente relatado, decido.
+O Tribunal de origem, a partir da análise do acervo fático-probatório colacionado aos autos, concluiu que não seria possível acolher a pretensão recursal de anulação do contrato, por irregularidade da COF, pois o negócio jurídico teria sido executado pelas partes, apesar de viciado, ocorrendo, assim, a sua confirmação; destacou que o verdadeiro motivo do ajuizamento do presente processo seria o fracasso da franquia; salientou, ainda, que não estaria comprovado que o insucesso do negócio teria decorrido da conduta da parte recorrida.
+A propósito, confira-se o seguinte excerto do aresto vergastado que tratou sobre o tema (e-STJ, fls. 601-605):
+Em que pesem as alegações recursais, é importante registrar que o franqueador não tem a obrigação de garantir o sucesso do franqueado, que se desenvolve por sua exclusiva conta e risco.
+( )
+No caso dos autos, não restou comprovado que o insucesso do negócio decorreu de conduta da ré, uma vez que a mera ausência de estudo de mercado ou a falta de rentabilidade do negócio não infirmam o contrato celebrado entre as partes, cuja validade é indiscutível.
+Nesse cenário, embora a transferência do know how seja atribuível à franqueadora, é cediço que todo empresário está ciente do risco do insucesso patente a qualquer investimento, como ocorreu no presente caso.
+Ademais, a própria autora ressaltou que o contrato permaneceu ativo por mais de um ano, constituindo comportamento contraditório a alegação de nulidade do contrato em razão da irregularidade da COF, já que o verdadeiro motivo foi o fracasso da franquia.
+Ora, considerando que o contrato foi celebrado em 06 de abril de 2016 e a demanda proposta em 27 de março de 2019, tem-se que o negócio foi confirmado, sobretudo porque houve execução apesar do vício, nos termos dos arts. 172 e 174, do Código Civil.
+( )
+Desta forma, não se vislumbra suporte que caracterizasse fator decisivo de inadequação da franqueadora em relação ao desfecho do insucesso do negócio exercido pela franqueada.
+No mais, a autora não comprovou que os prejuízos experimentados decorreram, exclusivamente, da ausência de informação quanto às empresas que compõem o grupo, da falta de entrega da lista de franqueados e dos balanços patrimoniais relativos a outros anos, tampouco do local onde instalado o quiosque.
+Por conseguinte, não se identifica embasamento para a modificação da sentença, que se apresenta clara e precisa, além de devidamente fundamentada.
+Nesse contexto, não há como desconstituir o entendimento acima sem o prévio revolvimento de fatos e provas, procedimento obstado na via extraordinária, em razão do óbice previsto no verbete n. 7 da Súmula desta Corte de Justiça.
+Diante do exposto, não conheço do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários sucumbenciais fixados em favor dos patronos da parte recorrida em 2% (dois por cento) sobre o valor da causa, suspensa a exigibilidade em razão do deferimento do benefício da gratuidade de justiça.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. CONTRATO DE FRANQUIA. ANULAÇÃO DO NEGÓCIO JURÍDICO. NÃO CABIMENTO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
