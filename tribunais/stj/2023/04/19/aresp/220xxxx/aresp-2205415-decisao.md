@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por PATRÍCIA SILVA FREITAS em face de decisão do Tribunal de Justiça do Estado do Espírito Santo, que negou admissibilidade a recurso contra acórdão assim ementado (e-STJ fl. 182):
+APELAÇÃO CÍVEL. MANDADO DE SEGURANÇA. MUDANÇA DE LOTAÇÃO DE SERVIDOR PÚBLICO. NECESSIDADE DE MOTIVAÇÃO DO ATO DE REMOÇÃO. PODER DISCRICIONÁRIO DA ADMINISTRAÇÃO. RECURSO DESPROVIDO.
+1) A remoção de servidor no interesse da Administração constitui ato discricionário, cujo juízo de conveniência, oportunidade e eficiência compete exclusivamente à autoridade estatal designada por lei, ao passo que, em contrapartida, para validade do ato administrativo é obrigatória a motivação, ainda que a posteriori , sob pena de violação aos princípios da legalidade, impessoalidade, moralidade e eficiência, previstos no caput do art. 37 da Constituição Federal, bem como daqueles previstos no caput do art. 2º da Lei 9.784/99, dentre os quais, os da finalidade, razoabilidade, motivação, segurança jurídica e interesse público.
+2) Considerando que o que o regime jurídico dos servidores públicos não contempla direito a inamovibilidade, não há que se questionar a modificação na lotação promovida por ato administrativo discricionário.
+3) Recurso desprovido.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial (e-STJ fls. 375/390), interposto com base no art. 105, III, "a" e "c", da Constituição Federal, a agravante alega:
+a) violação aos arts. 1022, II, 489, § 1º, IV, do CPC/2015, ao argumento de que o Tribunal de origem, mesmo após a oposição de embargos de declaração, não teria se manifestado sobre a ausência de motivação do ato de transferência, especificamente a determinação de comprovação da necessidade de serviço;
+b) ofensa aos arts. 2º e 50 da Lei nº 9.784/99, ao argumento de que o ato de transferência de lotação padeceria de nulidade, por ausência de motivação;
+c) dissídio jurisprudencial, ao argumento de que o Tribunal de origem teria divergido do entendimento do Tribunal de Justiça do Estado de Minas Gerais, segundo o qual a ausência de motivação torna nulo o ato administrativo de remoção de servidor.
+Minutos após a interposição do primeiro recurso especial, a agravante interpôs novo recurso especial (e-STJ fls. 210/225), com idênticas razões recursais.
+Em suas contrarrazões, o agravado pugna pelo não conhecimento do recurso ou, alternativamente, pelo seu não provimento.
+O Tribunal de origem inadmitiu o recurso especial aduzindo que não teria havido negativa de prestação jurisdicional, e que a análise da controvérsia demandaria o reexame do conjunto fático-probatório, inviável na via eleita ante o óbice previsto na Súmula nº 7/STJ. Ademais, consignou que a agravante não teria comprovado de forma adequada o dissídio jurisprudencial.
+Nas razões do agravo, a agravante impugnou especificamente os fundamentos da decisão de inadmissibilidade.
+Contraminuta ao agravo apresentada às e-STJ fls. 573/577.
+O Ministério Público Federal manifestou-se pelo provimento do agravo e pelo não conhecimento do recurso especial, conforme parecer juntado às e-STJ fls. 593/600.
+É o relatório. Decido.
+Preenchidos os pressupostos recursais do agravo e tendo a agravante impugnado os fundamentos da decisão agravada, passo ao exame do recurso especial.
+Depreende-se dos autos que o Tribunal de origem, de modo fundamentado, tratou das questões suscitadas, resolvendo de modo integral a controvérsia posta.
+Na linha da jurisprudência desta Corte, não há falar em negativa de prestação jurisdicional nem em vício quando o acórdão impugnado aplica tese jurídica devidamente fundamentada, promovendo a integral solução da controvérsia, ainda que de forma contrária aos interesses da parte.
+Assim, não havendo no acórdão recorrido omissão, obscuridade, contradição ou erro material, não fica caracterizada ofensa ao art. 1022 do CPC/2015.
+Quanto a alegada ofensa aos arts. 2º e 50 da Lei nº 9.784/99, o Tribunal de origem expressamente consignou que o ato de transferência de lotação da agravante teria sido motivado pela Administração. Destacam-se os seguintes trechos do voto condutor do acórdão recorrido (e-STJ fls. 183/185, sem grifo no original):
+Ora, é pacífico o entendimento de que a remoção de servidor no interesse da
+Administração constitui ato discricionário, cujo juízo de conveniência, oportunidade e eficiência compete exclusivamente à autoridade estatal designada por lei, ao passo que, em contrapartida, para validade do ato administrativo é obrigatória a motivação, ainda que a posteriori, sob pena de violação aos princípios da legalidade, impessoalidade, moralidade e eficiência, previstos no caput do art. 37 da Constituição Federal, bem como daqueles previstos no caput do art. 2º da Lei 9.784/99, dentre os quais, os da finalidade, razoabilidade, motivação, segurança jurídica e interesse público. In verbis:
+ ..
+Na hipótese, a motivação do ato se deu nas informações prestadas pela autoridade pública indicada no polo passivo, quando esclareceu: "foi instaurado o processo administrativo nº 10020/2018, no qual foi registrado a necessidade do serviço que ensejou a modificação da lotação  ..  foi constatado em Relatório de Gestão que a população do bairro Adalberto Simão Nader supera três vezes a de Setiba, possuindo, contudo um quantitativo menor de servidores, o que ensejou a alteração da lotação da impetrante."
+Por consectário lógico, não se sustenta a alegação aventada no recurso, muito
+embora não se desconsidere que a nova lotação imposta à apelante traga, de fato, transtornos devido a maior distância de sua residência, haja vista que o regime jurídico dos servidores públicos não contempla direito a inamovibilidade, consoante jurisprudência desta Corte:
+Rever tal entendimento para reconhecer que o ato não teria sido motivado pela Administração demandaria, necessariamente, amplo reexame da matéria fático-probatória, procedimento vedado em sede de recurso especial ante o óbice previsto na Súmula nº 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+No que tange ao dissídio jurisprudencial, cumpre esclarecer que a incidência da Súmula nº 7/STJ impede o conhecimento do recurso por quaisquer das alíneas do permissivo constitucional.
+Por fim, quanto ao segundo recurso especial interposto às e-STJ fls. 210/225, tem-se que referido recurso não pode ser conhecido, em razão da preclusão consumativa.
+Diante do exposto, com base no art. 932, III e IV, do CPC/2015 c/c o art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial interposto às e-STJ fls. 375/390 e, nessa extensão, negar-lhe provimento, e não conhecer do segundo recurso especial interposto às e-STJ fls. 210/225, nos termos da fundamentação.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO MUNICIPAL. VIOLAÇÃO AOS ARTS. 1022, II, 489, § 1º, IV, DO CPC/2015. INEXISTÊNCIA DE VÍCIO NO ACÓRDÃO RECORRIDO. OFENSA AOS ARTS. 2º E 50 DA LEI Nº 9.784/99. MUDANÇA DE LOTAÇÃO. ATO MOTIVADO. REVISÃO. INVIABILIDADE. REEXAME DA MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA Nº 7/STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
