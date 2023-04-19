@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de Wellington Ferreira Soares, em que se aponta como autoridade coatora a Décima Primeira Câmara Criminal do Tribunal de Justiça de São Paulo, que negou provimento à Apelação defensiva n. 1500407-23.2021.8.26.0542, mantendo a condenação do paciente imposta pelo Juízo de Direito da 1ª Vara da comarca de Jandira/SP à pena de 3 anos de reclusão, em regime aberto, como incurso no art. 16, § 1º, IV, da Lei n. 10.826/2003.
+Neste writ, sustenta-se ilicitude das provas em razão da ausência de fundada suspeita que justificasse a busca pessoal. No mérito, pede-se a absolvição por insuficiência de provas. Subsidiariamente, postula-se a desclassificação para o crime previsto no art. 12 da Lei n. 10.826/2003, tendo em vista que o laudo pericial não apontou a capacidade de energia cinética da arma, o reconhecimento da atenuante da confissão espontânea, com redução da pena na terceira fase da dosimetria, e a substituição da pena privativa de liberdade por restritivas de direitos.
+É o relatório.
+A concessão de ordem de habeas corpus demanda demonstração, de plano, da ilegalidade, ônus que recai sobre o impetrante, a quem cumpre instruir o feito com a prova pré-constituída de suas alegações.
+In casu, verifico, de plano, a viabilidade do presente writ.
+O Tribunal local justificou a busca pessoal nos seguintes fundamentos (fl. 359):
+Na realidade, a diligência policial se deu em estrita obediência ao disposto no art. 240, § 2º, e no art. 244, ambos do Código de Processo Penal, já que os policiais militares desconfiaram da atitude do acusado, que estava no banco traseiro de um veículo de transporte de pessoas, na companhia de outro passageiro, e demonstrou nervosismo ao avistar a viatura. De acordo com os militares, o réu trazia no colo a arma apreendida, duas munições no bolso e o restante do material apreendido estava depositado no assoalho do automóvel que ficava exatamente na sua frente (fls. 2/3 e registro audiovisual).
+ ..
+Portanto, considerando que a ação dos policiais está amparada pelo disposto no art. 240, § 2º, e art. 244, ambos do Código de Processo Penal, não há vício ou nulidade a ser reconhecida, ficando, portanto, rejeitada a preliminar.
+Com efeito, no que se refere à busca pessoal, o art. 240, § 2º, do Código de Processo Penal, exige a ocorrência de fundada suspeita para que o procedimento persecutório esteja autorizado e, portanto, válido.
+Ocorre que a Sexta Turma desta Corte entende que a permissão para a revista pessoal - a qual se equipara à busca veicular - decorre de fundada suspeita devidamente justificada pelas circunstâncias do caso concreto de que o indivíduo esteja na posse de armas ou de outros objetos ou papéis que constituam corpo de delito, evidenciando-se a urgência de se executar a diligência (RHC n. 158.580/BA, Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 19/4/2022, DJe 25/4/2022).
+No caso, depreende-se do exposto a ausência de justa causa para a atuação dos policiais, visto que decorreu de parâmetro não aferível por terceiro imparcial. O Superior Tribunal já decidiu que não satisfazem a exigência legal, por si sós, meras informações de fonte não identificada (e.g. denúncias anônimas) ou intuições e impressões subjetivas, intangíveis e não demonstráveis de maneira clara e concreta (precedente supracitado).
+Reconhecida a ilicitude das provas obtidas por meio da busca pessoal, bem como as dela derivadas, a sentença deverá ser anulada, absolvendo-se o paciente, por ausência de provas da materialidade do delito, o que determina a prejudicialidade do exame das demais teses aventadas pela impetrante na exordial do writ.
+Ante o exposto, concedo liminarmente a ordem para anular a busca pessoal realizada e, em consequência, julgar improcedente a Ação Penal n. 1500407-23.2021.8.26.0542, em trâmite na 1ª Vara da comarca de Jandira/SP.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. POSSE DE ARMA DE USO RESTRITO. PROVAS ILÍCITAS. PRISÃO EM FLAGRANTE. BUSCA PESSOAL. AUSÊNCIA DE FUNDADAS RAZÕES. CONSTRANGIMENTO ILEGAL EVIDENCIADO. PRECEDENTES.
+Ordem concedida liminarmente nos termos do dispositivo.
