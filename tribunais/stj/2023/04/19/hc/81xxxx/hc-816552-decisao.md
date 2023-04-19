@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JULIO CESAR FLORENTINO contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, no julgamento da Apelação n. 0018858-29.2017.8.26.0602.
+Consta dos autos que, em sentença proferida no dia 19/9/2019, o paciente foi condenado à pena de 3 anos, 1 mês e 10 dias de reclusão, em regime inicial fechado, pela prática do crime previsto no art. 171, caput, do Código Penal (e-STJ fls. 14/23).
+Irresignada, a defesa do paciente interpôs apelação, tendo o Tribunal estadual, em sessão de julgamento realizada no dia 4/2/2021, dado parcial provimento ao recurso para reduzir a pena do réu para 02 (dois) anos e 04 (quatro) meses de reclusão, mais o pagamento de 22 (vinte e dois) dias-multa, no piso legal; preservada, no mais, a sentença recorrida (e-STJ fl. 24).
+O acórdão recebeu a seguinte ementa (e-STJ fl. 25):
+APELAÇÃO CRIMINAL - ESTELIONATO - Autoria e materialidade do delito demonstradas, bem como o dolo do réu - Prova suficiente para o decreto condenatório - Pena mitigada na primeira e na segunda fases do cálculo dosimétrico - Necessidade - Regime prisional fechado fixado com critério e corretamente - Recurso parcialmente provido.
+Contra esse acórdão, a defesa opôs embargos de declaração, alegando omissão quanto à necessidade de representação da vítima, exigência trazida pela Lei n. 13.964, de 24 de dezembro de 2019, bem como quanto ao que dispõe o art. 66 do Código Penal.
+No entanto, em sessão de julgamento realizada no dia 15/7/2021, a Corte local rejeitou os aclaratórios, em acórdão assim ementado:
+Embargos de declaração. Omissõe sinexistentes. Rejeição.
+Após, a defesa interpôs recurso especial, cadastrado sob o REsp n. 2.013.308/SP, sustentando a violação aos artigos 171, §5º, 65, inciso III, alínea "d", e 66, todos do CP, e 564, inciso III, e 619, todos do CPP, pleiteando a extinção da punibilidade delitiva por falta de representação da vítima mediante aplicação retroativa do novel §5º do artigo 171 do CP, inserido pela Lei n. 13.964/19; pleiteou, ainda, a redução das penas por conta de atenuante por confissão espontânea e adoção de regime prisional diverso do fechado.
+Contudo, esta relatoria negou provimento ao recurso especial, destacando, dentre outros fundamentos, que: Anota-se, inicialmente, que a Terceira Seção desta Corte, no julgamento do HC n. 610.201-SP, firmou entendimento no sentido da irretroatividade do § 5º do art. 171 do Código Penal, com a redação dada pela Lei n. 13.964/2019 (Pacote Anticrime), ressaltando a orientação já firmada neste Tribunal de que "a representação prescinde de qualquer formalidade, sendo suficiente a demonstração do interesse da vítima em autorizar a persecução criminal" (AgRg no REsp n. 1.687.470/SC, Rel. Ministro Rogerio Schietti, DJe 1º/9/2020).
+Contra essa decisão, a defesa interpôs agravo regimental, o qual foi improvido pela Quinta Turma do Superior Tribunal de Justiça, em sessão de julgamento realizada no dia 23/8/2022, sob a seguinte ementa:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ESTELIONATO. § 5º DO ART. 171 DO CP. IRRETROATIVIDADE. TEMA N. 1138. SUSPENSÃO. DESNECESSIDADE. ART. 66 DO CP. SÚMULA N. 7/STJ. REGIME FECHADO. ADEQUAÇÃO. RECURSO DESPROVIDO.
+1. A questão atinente à retroatividade do art. 171, § 5º do Código Penal, inserido pela Lei n. 13.964/2019, está afetada à Terceira Seção deste STJ para julgamento sob o rito dos repetitivos: ProAfR no REsp 1.923.354/SC, Rel. Ministro ANTONIO SALDANHA PALHEIRO, Terceira Seção, DJe 8/4/2022. Ficou decidida a desnecessidade de suspensão da tramitação dos processos.
+2. Quanto à violação do art. 66 do CP, consta à e-STJ fls. 1.221/1.222 que "o douto defensor não indicou nenhuma circunstância relevante, anterior ou posterior ao crime, que pudesse servir de atenuante." A alteração dessa premissa não prescinde do revolvimento do conjunto fático-probatório dos autos. Incidência da Sumula n. 7/STJ.
+3. Embora a pena tenha sido fixada em patamar inferior a 4 anos de reclusão, o regime fechado é o adequado para o cumprimento da pena privativa de liberdade, diante da aferição negativa das circunstâncias judiciais e da reincidência do recorrente.
+4. Agravo regimental improvido.
+(AgRg no REsp n. 2.013.308/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23/8/2022, DJe de 26/8/2022.)
+Daí o presente habeas corpus substitutivo de recurso próprio, no qual a defesa insiste, mais uma vez, na retroativade da necessidade de representação da vítima do crime de estelionato, que foi inserida pela Lei 13.964/2019.
+Argumenta que o § 5º do art. 171 do CP apresenta caráter híbrido (norma mista) e, além disso, é mais favorável ao autor do fato. Logo, tem caráter retroativo.
+Colaciona recentes julgados do STF no sentido de que o referido dispositivo deve retroagir desde que não tenha sido transitado em julgado quando da vigência da nova lei.
+Ao final, requer, liminarmente e no mérito, seja concedida a ordem, com a determinação imediata para que os autos sejam devolvidos ao juízo a quo para proceder a intimação da vítima.
+É o relatório. Decido.
+De plano, destaco que o presente habeas corpus não merece prosseguimento.
+Como é de conhecimento, o art. 210 do Regimento Interno do STJ dispõe que: quando o pedido for manifestamente incabível, ou for manifesta a incompetência do Tribunal para dele tomar conhecimento originariamente, ou for reiteração de outro com os mesmos fundamentos, o relator o indeferirá liminarmente.
+Conforme relatado, verifica-se que a tese trazida pela impetrante já foi examinada e afastada por esta Corte Superior, no bojo do REsp n. 2.013.308/SP, de minha relatoria. Nessa oportunidade, foi apontada não era possível a aplicação da nova lei ao caso concreto, ante o entendimento desta Corte no sentido de que a necessidade de representação dos ofendidos, no crime de estelionato, trazida ao mundo jurídico com a entrada em vigor da Lei n. 13.964/2019, não alcança os processos cuja denúncia foi apresentada antes da vigência do citado Diploma legal. No caso, quando a Lei n. 13.964/2019 entrou em vigor, a sentença penal condenatória já havia sido proferida (19/9/2019).
+Portanto, ainda que tenha havido a superveniência de julgados do STF em sentido contrário, a questão ora reiterada já foi examinada por esta Corte Superior, motivo pelo qual o presente writ trata-se de mera reiteração do REsp n. 2.013.308/SP.
+Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. CRIME TRIBUTÁRIO. REINCIDÊNCIA. QUESTÃO APRECIADA EM AGRAVO EM RECURSO ESPECIAL. REITERAÇÃO DE PEDIDO. INADMISSIBILIDADE. SUBMISSÃO A REGIME DIVERSO DO FIXADO NO TÍTULO CONDENATÓRIO. TRANSFERÊNCIA PARA O REGIME SEMIABERTO CONCRETIZADA. PERDA DE OBJETO. SUPERLOTAÇÃO. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO. PETIÇÕES AVULSAS. PEDIDOS INDEFERIDOS.
+1. A questão da reincidência já foi apreciada por ocasião do julgamento do agravo em recurso especial. É inadmissível a impetração ou a análise de habeas corpus que suscita questão idêntica àquela veiculada no recurso próprio, diante da proibição de reiteração de pedidos com o mesmo objeto. Precedentes.
+ ..
+4. Agravo Regimental desprovido. Pedidos em petições avulsas indeferidos.
+(AgRg no HC 432.390/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 24/05/2018) - negritei.
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME TRIBUTÁRIO. CAUSA DE AUMENTO PREVISTA NO ART. 12, I, DA LEI N. 8.137/90. MERA REITERAÇÃO DE PEDIDO CONTIDO EM AGRAVO EM RECURSO ESPECIAL. INADMISSIBILIDADE. RECURSO JÁ JULGADO. INSTRUÇÃO DEFICIENTE. DECISÃO MANTIDA PELOS PRÓPRIOS FUNDAMENTOS. RECURSO DESPROVIDO.
+1. É inadmissível a análise de impetração cujo objeto é idêntico ao contido em Agravo em Recurso Especial, que, inclusive, já foi julgado, tendo em vista a impossibilidade de reiteração de pedidos nesta Corte Superior.
+ ..
+Agravo regimental desprovido.
+(AgRg no HC 381.729/SP, de minha relatoria, QUINTA TURMA, DJe 06/06/2017) - negritei.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Intimem-se.
