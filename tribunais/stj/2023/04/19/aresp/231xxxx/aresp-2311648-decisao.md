@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de agravo apresentado por INCOART CONSTRUTORA E INCORPORADORA LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, assim resumido:
+AGRAVO DE INSTRUMENTO CUMPRIMENTO DE SENTENÇA EFEITO SUSPENSIVO REQUISITOS NÃO PREENCHIDOS. INDEFERIMENTO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação dos arts. 264 e 265 do CC, no que concerne à inexistência de solidariedade entre as empresas indicadas, uma vez que não estão preenchidos os requisitos legais nem há comprovação documental que configure tal situação, trazendo a seguinte argumentação:
+Portanto, o propósito recursal consiste em reformar o acórdão vergastado, pois inexiste solidariedade entre as empresas vez que essa não se presume, devendo estar comprovada por meio de declaração entre as partes ou mediante preenchimento dos requisitos previstos em lei, hipóteses não verificadas no caso, houve clara violação a legislação federal.
+ ..
+Veja que, as empresas constituem praticamente igualdade em seu objeto social, de modo que claramente não se complementam, o que ocorreria sem dúvidas em um grupo econômico, pois o fim seria que cada empresa exercesse um papel complementando a outra, no entanto, no caso concreto aqui apresentado, isso inexiste, deixando à mercê qualquer hipótese de solidariedade entre as empresas.
+ ..
+Importante ressaltar novamente que o termo Grupo Econômico no direito societário e/ou empresarial não é tão simples de ser imputado e muito menos possui conotação subjetiva como em outras espécies de jurisdições especiais, haja vista possuir uma série de pressupostos que o caracterizam, não havendo que se falar no presente caso em solidariedade, pois, como dito, ela nao se presume, deve estar comprovada por meio de declaração entre as partes ou mediante preenchimento dos requisitos previstos em lei.
+Desta feita, torna-se imprescindível a reforma do acórdão exarado para que seja direcionada a responsabilidade pela condenação à Construtora Canadá LTDA., haja vista que esta descumpriu com os termos contratuais prometidos. (fls. 136/140).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, incide o óbice da Súmula n. 283/STF, uma vez que a parte deixou de atacar fundamento autônomo e suficiente para manter o julgado, qual seja, a afirmação do acórdão recorrido de que a questão sobre a solidariedade entre as empresas está preclusa. Veja-se:
+4.1 In casu, o agravante interpôs o presente recurso visando que seja reconhecida inexistente a solidariedade entre a Construtora Canadá LTDA. e a INCOART Construtora e Incorporadora LTDA.
+4.2 Ao prescrutar atentamente os autos da demanda subjacente, observo que, diferentemente do sustentado no arrazoado, o agravante é parte legitima para figurar no polo passivo da demanda.
+4.2.1 Isto porque foi condenado por sentença transitada em julgado, de forma solidária, com a Construtora Canadá LTDA e tal solidariedade não é presumida, mas sim deriva da lei, nos termos do art. 7º, parágrafo único, do CDC
+ ..
+4.2.2 Portanto, não há falar em ilegitimidade passiva por falta de solidariedade entre os executados, uma vez que tal matéria, além de prevista em lei, está preclusa.
+Nesse sentido: "A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não-conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula n. 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles"". (AgInt nos EDcl no AREsp n. 1.317.285/MG, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de19/12/2018.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.572.038/RS, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp 1.157.074/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 5/8/2020; AgInt no REsp 1.389.204/MG, relator Ministro Og Fernandes, Segunda Turma, DJe de 3/8/2020; AgInt no REsp 1.842.047/RS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 26/6/2020; e AgRg nos EAREsp 447.251/SP, relator Ministro João Otávio de Noronha, Corte Especial, DJe de 20/5/2016.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
