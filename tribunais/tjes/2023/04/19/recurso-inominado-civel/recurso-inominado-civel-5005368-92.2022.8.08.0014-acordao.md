@@ -1,0 +1,62 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº
+5005368-92.2022.8.08.0014
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: GEDENAURA DA CONCEICAO
+RECORRIDO: BANCO BMG SA
+RELATOR(A):GRECIO NOGUEIRA GREGIO
+
+_______________________________________________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+_______________________________________________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 2
+_______________________________________________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+_______________________________________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+VOTOS
+
+DR. GRÉCIO NOGUEIRA GRÉGIO – RELATOR
+
+Relatório dispensado
+na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+Concedo o benefício da justiça gratuita à parte Recorrente.
+
+EMENTA: RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. DIREITO DO CONSUMIDOR.
+AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C INDENIZAÇÃO POR DANOS MORAIS, MATERIAIS E PEDIDO DE TUTELA DE URGÊNCIA. CUIDA-SE DE DEMANDA QUE ENVOLVE CONTRATOS DE EMPRÉSTIMOS CONSIGNADOS NÃO RECONHECIDOS PELA AUTORA. AFIRMA QUE NENHUM VALOR FOI CREDITADO EM SUA CONTA. O
+REQUERIDO ALEGOU SEREM LEGÍTIMAS AS COBRANÇAS EFETIVADAS. E INFORMA TRATAR-SE DE CONTRATOS REALIZADOS DESDE O ANO DE 2015, CONTENDO ASSINATURAS DA MESMA NAS VIAS DOS PACTOS REALIZADOS. ARGUMENTA, AINDA, QUE A AUTORA RECEBEU OS VALORES ACORDADOS NOS EMPRÉSTIMOS EM SUA CONTA BANCÁRIA. A SENTENÇA JULGOU EXTINTO O FEITO SEM RESOLUÇÃO DO MÉRITO, POR NECESSIDADE DE PERÍCIA GRAFOTÉCNICA. RECURSO INOMINADO DA AUTORA PUGNANDO PELA PROCEDÊNCIA DOS PEDIDOS AUTORAIS, CONFORME PLEITEADO NA EXORDIAL.
+RECURSO CONHECIDO E IMPROVIDO
+. EM FACE DA DETIDA ANÁLISE DOS DOCUMENTOS ACOSTADOS NOS AUTOS, É ESCORREITA A SENTENÇA DE PISO QUE RECONHECEU A INCOMPETÊNCIA ABSOLUTA DO PRESENTE JUÍZO, VEZ QUE INEXISTE NOS AUTOS OUTROS ELEMENTOS DE PROVAS SUSCETÍVEIS DE DIRIMIR A CONTROVÉRSIA, NÃO SENDO POSSÍVEL A CONSTATAÇÃO SEGURA, SEM O EXAME PERICIAL, SE A AUTORA EFETIVAMENTE ENTABULOU JUNTO À RECORRIDA OS CONTRATOS QUE LHE FORAM IMPUTADOS. ADEMAIS, HÁ CORRESPONDÊNCIA ENTRE OS DADOS E ASSINATURAS CONSTANTES NO DOCUMENTO DE IDENTIDADE ACOSTADOS PELAS PARTES, DE MODO QUE NOS DOCUMENTOS REFERENCIADOS JUNTADOS PELA RECORRIDA SE APRESENTA COM UM GRAU DE SIMILARIDADE TAL QUE O ÚNICO MEIO VIÁVEL DE DESLINDE DA LIDE EXPOSTA SE TRADUZ ATRAVÉS DA REALIZAÇÃO DE PERÍCIA GRAFOTÉCNICA, PROCEDIMENTO PERICIAL DE ALTA INDAGAÇÃO E QUE NÃO SE COADUNA COM OS PRINCÍPIOS QUE REGEM O MICROSSISTEMA DOS JUIZADOS ESPECIAIS. OBSERVO QUE HÁ SIM UMA SIMILITUDE ENTRE AS ASSINATURAS QUE ESTÃO REGISTRADAS NOS CONTRATOS E NOS DOCUMENTOS PESSOAIS DA REQUERENTE. COMPLEXIDADE QUE AFASTA A COMPETÊNCIA DOS JUIZADOS ESPECIAIS PARA O JULGAMENTO DA DEMANDA.
+SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS, NOS TERMOS DO ART. 46 DA LEI Nº 9.099/95
+. CONDENAÇÃO DA PARTE RECORRENTE AO PAGAMENTO DAS CUSTAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS FIXADOS EM R$500,00 (QUINHENTOS REAIS), NA FORMA DO ART. 85, §8º, DO CPC/15, FICANDO SUSPENSA, TODAVIA, A EXIGIBILIDADE DE TAL VERBA SUCUMBENCIAL (CUSTAS E HONORÁRIOS) ANTE A CONCESSÃO DO BENEFÍCIO DA JUSTIÇA GRATUITA, CONFORME PRELEÇÃO DO § 3º, DO ART. 98, DO CPC/15.
+
+THAÍS DA PENHA
+
+JUÍZA LEIGA
+
+O Sr. Juiz de Direito Relator Dr.
+GRÉCIO NOGUEIRA GRÉGIO
+–
+Nos termos da Resolução TJES nº 12/2020,
+HOMOLOGO
+a minuta de voto elaborada pela Ilma. Juíza Leiga e a adoto como razões da minha manifestação, para que produza seus jurídicos e legais efeitos.
+
+É como voto.
+
+_______________________________________________________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
