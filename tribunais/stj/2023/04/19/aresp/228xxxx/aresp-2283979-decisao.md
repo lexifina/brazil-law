@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por Juliana Lima Santos contra decisão que negou admissibilidade a recurso contra acórdão do Tribunal de Justiça do Estado de Sergipe assim ementado:
+Apelação Cível - Ação de cobrança - Adicional de Insalubridade - Autora que exerce a atividade de assistente administrativo - Aferição do grau de exposição a agente nocivos - Ônus de prova da Autora - Perícia judicial que constatou que a atividade exercida pela Autora não se enquadra na NR 15 e seu anexo 14, descaracterizando-a como insalubre -Laudo pericial consistente e suficiente para formar o convencimento do julgador - Decisum de primeiro grau mantido.
+Interposto recurso especial com fundamento no artigo 105, III, "a" e "c", da Constituição Federal para defender divergência jurisprudencial acerca do artigo 436 do CPC/2015.
+Em juízo de admissibilidade, o Tribunal de origem inadmitiu o recurso especial por não se admitir interposição de recurso especial por violação a verbete sumular, nos termos da Súmula 518/STJ.
+No agravo, defende que o recurso especial visa enfrentar dispositivos de lei federal e constitucional. Defende a negativa de vigência ao artigo 436 do CPC/2015; aplicação, por analogia, do artigo 192 da CLT; e artigo 7º, XXIII, da CF/88.
+Sem contraminuta.
+É o relatório. Passo a decidir.
+A agravante defende a tese que o Tribunal local violou o artigo 436 do CPC/2015 ao não conceder o adicional de insalubridade, pois o julgador não está adstrito ao laudo pericial. Ocorre que o órgão julgador não analisou o conteúdo normativo deste dispositivo, o que atrai à espécie o óbice da Súmula 356/STF. Registra-se, ainda, que o agravante não opôs embargos de declaração para sanar eventual vício do acórdão recorrido.
+Assim sendo, fica impossibilitado o julgamento do recurso nesses aspectos, por ausência de prequestionamento, nos termos das Súmulas 282 e 356/STF, respectivamente: É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada; e O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento.
+Efetivamente, para a configuração do questionamento prévio, não é necessário que haja menção expressa dos dispositivos infraconstitucionais tidos como violados. Todavia, é imprescindível que no aresto recorrido a questão tenha sido discutida e decidida fundamentadamente, sob pena de não preenchimento do requisito do prequestionamento, indispensável para o conhecimento do recurso. Nesse sentido, o seguinte julgado deste Tribunal Superior:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AÇÃO DECLARATÓRIA CUMULADA COM REPETIÇÃO DE INDÉBITO E INDENIZATÓRIA. VIOLAÇÃO AO ART. 42, PARÁGRAFO ÚNICO, DO CDC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL SUPOSTAMENTE VIOLADO. SÚMULA 284/STF. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. QUANTUM INDENIZATÓRIO. REVISÃO. DESCABIMENTO. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Agravo interno contra decisão da Presidência que não conheceu do agravo em recurso especial. Reconsideração.
+2. Fica inviabilizado o conhecimento de tema trazido no recurso especial, mas não debatido e decidido nas instâncias ordinárias, tampouco suscitado nos embargos de declaração opostos, para sanar eventual omissão, porquanto ausente o indispensável prequestionamento. Aplicação, por analogia, das Súmulas 282 e 356 do STF.
+ ..
+7. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para negar provimento ao recurso especial.
+(AgInt no AREsp n. 1.958.702/MS, relator Ministro Raul Araújo, Quarta Turma, julgado em 13/6/2022, DJe de 29/6/2022.)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAUL CIVIL. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO MUNICIPAL. ADICIONAL DE INSALUBRIDADE. ARTIGO 436 DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
