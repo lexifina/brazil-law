@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de recurso especial interposto por ESPÓLIO DE TEREZINHA ALVES DOS SANTOS, com fundamento nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do TJ/SE.
+Recurso especial interposto em: 27/6/2022.
+Concluso ao gabinete em: 24/3/2023.
+Ação: de obrigação de fazer c/c danos morais e materiais, ajuizada por TEREZINHA ALVES DOS SANTOS em face da HAPVIDA ARACAJU, na qual alega que é portadora de Neoplasia Maligna de Pulmão com metástase, estágio IV (câncer de pulmão), tendo sido prescrito o uso do medicamento PEMBROLIZUMABE, à ordem de 200mg, via intravenosa, a cada 3 semanas, com um total de 6 ciclos, o que foi negado pela operadora de plano de saúde.
+Sentença: julgou parcialmente procedentes os pedidos iniciais, confirmando os efeitos da tutela antecipada concedida até o falecimento da autora, para condenar a ré ao pagamento de compensação por danos morais, no importe de R$ 12.000,00.
+Acórdão: deu provimento ao recurso de apelação interposto pela recorrida, para afastar os danos morais, nos termos da seguinte ementa:
+Civil e Processual Civil - Ação de obrigação de fazer c/c indenização por danos morais - Plano de saúde - Cobertura de Medicamento para tratamento de câncer de pulmão - Falecimento da paciente - Perda do Objeto com relação à Obrigação de Fazer - Direito à Indenização por Dano Moral que se transmite aos herdeiros - Dano moral - Inexistência - Negativa decorrente de previsão contratual.
+I - Conforme entendimento consolidado desta Corte, embora se admita a responsabilidade civil por descumprimento contratual, em casos em que a negativa de cobertura do plano de saúde se dá em decorrência de previsão contratual, como é o caso dos autos, e não de forma injustificada, não há que se falar em indenização por danos morais;
+V - Recurso conhecido e provido. Unânime.
+Recurso especial: aponta violação aos arts. 5º e 6º da CF; 186, 402 e 927 do CC; 6º, V, VI, VII e VIII, e 14 do CDC; e à Súmula 83/STJ, além de dissídio jurisprudencial.
+Sustenta que o dano moral é certo e concreto, pois foi negado o tratamento no momento em que a beneficiária/paciente estava em estado debilitado, precisando da medicação, sendo que recebeu a negativa e posteriormente faleceu, no curso do processo, sem o cumprimento pela parte recorrida sequer da decisão de tutela de urgência, apesar de intimada.
+Afirma que "ainda que admitida a possibilidade de conter o contrato de plano de saúde cláusulas limitativas dos direitos do consumidor, revela-se abusiva a que exclui o custeio dos meios e materiais necessários ao melhor desempenho do tratamento de doença coberta pelo plano"; e que "a condenação por danos morais não se pautou apenas pela recusa de fornecimento de cobertura, mas também por sua abusividade e injusta recusa, o que ampara a reparação a tal título (e-STJ fls. 446 e 450).
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação de súmula, de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal
+A interposição de recurso especial não é cabível quando ocorre violação de súmula, de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a", da CF/88.
+- Do dano moral
+Consoante se infere do acórdão recorrido, a negativa de cobertura do procedimento médico foi justificada pela interpretação - equivocada, mas razoável - de cláusula contratual.
+Nesse contexto, verifica-se que, na espécie, a atuação da operadora está revestida de aparente legalidade - porquanto só em juízo, a partir da interpretação da disposição contratual à luz do CDC e da Lei 9.656/1998, foi vedada a possibilidade de negativa de cobertura do tratamento prescrito -, a possibilitar o afastamento da ocorrência do ato ilícito caracterizador do dano moral.
+Em situações como essa, a orientação adotada pela jurisprudência desta Corte Superior de Justiça é a de ser "possível afastar a presunção de dano moral na hipótese em que a recusa de cobertura pelo plano de saúde decorre de dúvida razoável na interpretação de cláusula contratual" (AgRg no AREsp 846.940/SC, Terceira Turma, DJe 01/08/2016), pois "dúvida razoável na interpretação do contrato  ..  não configura conduta ilícita capaz de ensejar indenização" (AgInt no AREsp 983.652/SP, Terceira Turma, DJe 02/02/2017). No mesmo sentido: AgInt no REsp 1.853.579/PR, Quarta Turma, julgado em 10/08/2020, DJe de 14/08/2020; AgInt no AREsp 1.555.263/SP, Quarta Turma, julgado em 08/06/2020, DJe de 25/06/2020.
+Logo, o acórdão recorrido está em harmonia com a jurisprudência desta Corte, não merecendo reforma, portanto, nos termos da Súmula 568/STJ.
+Forte nessas razões, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto aos advogados da parte recorrida, em virtude da interposição deste recurso, majoro em 5% (cinco por cento) os honorários fixados anteriormente, devidos pela parte recorrente, ressalvada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C DANOS MORAIS E MATERIAIS. VIOLAÇÃO DE SÚMULA, DE DISPOSITIVO CONSTITUCIONAL OU DE QUALQUER ATO NORMATIVO QUE NÃO SE ENQUADRE NO CONCEITO DE LEI FEDERAL. DESCABIMENTO. PLANO DE SAÚDE. INTERPRETAÇÃO RAZOÁVEL DE CLÁUSULA CONTRATUAL. DANO MORAL NÃO CONFIGURADO.
+1. Ação de obrigação de fazer c/c danos morais e materiais.
+2. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a", da CF/88.
+3. Segundo a orientação do STJ, é possível afastar a presunção de dano moral na hipótese em que a recusa de cobertura pela operadora do plano de saúde decorre de dúvida razoável na interpretação de cláusula contratual.
+4. Recurso especial parcialmente conhecido e, nessa parte, não provido.
