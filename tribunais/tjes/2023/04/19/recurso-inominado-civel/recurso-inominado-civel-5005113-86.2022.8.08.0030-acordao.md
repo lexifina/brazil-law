@@ -1,0 +1,54 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº
+5005113-86.2022.8.08.0030
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: BANCO BRADESCARD S.A.
+RECORRIDO: MARIA APARECIDA DE OLIVEIRA e outros
+RELATOR(A):GRECIO NOGUEIRA GREGIO
+
+_______________________________________________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+_______________________________________________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 2
+_______________________________________________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+_______________________________________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+VOTOS
+
+Relator: DR. GRÉCIO NOGUEIRA GRÉGIO
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA: JUIZADO ESPECIAL CÍVEL. RECURSO INOMINADO. DIREITO DO CONSUMIDOR. AÇÃO DE OBRIGAÇÃO DE FAZER COM INDENIZAÇÃO POR DANOS MORAIS E TUTELA DE URGÊNCIA. CARTÃO DE CRÉDITO ADICIONAL NÃO SOLICITADO. COBRANÇA DE ANUIDADE. NARRAM OS REQUERENTES QUE FORAM SURPREENDIDOS COM FATURAS DE CARTÃO DE CRÉDITO, ONDE CONSTAVAM 02 CARTÕES DE CRÉDITO ADICIONAIS, SUPOSTAMENTE SOLICITADO PARA SEUS DEPENDENTES. OS CARTÕES ADICIONAIS SERIAM UM PARA A PRIMEIRA REQUERENTE E O OUTRO PARA O FILHO DOS REQUERENTES QUE NÃO MAIS RESIDE COM OS MESMOS, ALÉM DE TER SUA VIDA FINANCEIRA INDEPENDENTE. ADUZEM QUE NÃO PEDIRAM ESSES CARTÕES ADICIONAIS E QUE NUNCA OS RECEBERAM. COBRANÇA DE ANUIDADE REFERENTE AOS CARTÕES ADICIONAIS. NEGATIVAÇÃO DO NOME DA PRIMEIRA REQUERIDA. SENTENÇA DE PISO RATIFICOU A LIMINAR E JULGOU PARCIALMENTE PROCEDENTE O PLEITO AUTORAL PARA DETERMINAR A SUSPENSÃO DAS COBRANÇAS E A RETIRADA DO NOME DOS AUTORES EM QUAISQUER BANCOS DE PROTEÇÃO AO CRÉDITO, REFERENTE AO CARTÃO DE CRÉDITO DEBATIDO NOS AUTOS; CONDENAR A RÉ A REPARAR OS DANOS MORAIS SOFRIDOS PELA AUTORA MARIA APARECIDA NO IMPORTE DE R$10.000,00; DETERMINAR O CANCELAMENTO DO CONTRATO EM NOME DOS AUTORES EM RELAÇÃO AOS CARTÕES ADICIONAIS OBJETO DESTA AÇÃO. RECURSO DA PARTE RÉ NO SENTIDO DE VER REFORMADA A SENTENÇA PARA JULGAR IMPROCEDENTES OS PEDIDOS AUTORAIS E SUBSIDIARIAMENTE A REDUÇÃO DO
+QUANTUM
+ARBITRADO A TÍTULO DE DANOS MORAIS.
+RECURSO CONHECIDO E IMPROVIDO
+.
+A REQUERIDA NÃO LOGROU ÊXITO EM COMPROVAR QUE HOUVE CONTRATAÇÃO DE CARTÃO ADICIONAL. NÃO COMPROVAÇÃO DA LEGALIDADE DA COBRANÇA DE ANUIDADE DO CARTÃO ADICIONAL. DIVERSAS DILIGÊNCIAS NO SENTIDO DE TENTAR RESOLVER ADMINISTRATIVAMENTE O PROBLEMA, INCLUSIVE JUNTO AO PROCON. NEGATIVAÇÃO INDEVIDA EM NOME DA AUTORA MARIA APARECIDA DE OLIVEIRA.
+FALHA NA PRESTAÇÃO DE SERVIÇO E DO DEVER DE COOPERAÇÃO.
+S
+ENTENÇA MANTIDA POR SEUS PRÓPRI
+OS FUNDAMENTOS
+, NA FORMA DO ART. 46 DA LEI Nº 9.099/95
+.
+CONDENO A REQUERIDA AO PAGAMENTO DAS CUSTAS PROCESSUAIS, ASSIM COMO DOS HONORÁRIOS ADVOCATÍCIOS, SENDO ESTES FIXADOS NO IMPORTE DE 10% SOBRE O VALOR ATUALIZADO DA CONDENAÇÃO.
+
+É como voto.
+
+_______________________________________________________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
