@@ -1,0 +1,16 @@
+DECISÃO
+O presente writ, impetrado em benefício de Alan Sousa Santos (ou Alan Souza Santos)  condenado como incurso no crime de roubo majorado  contra acórdão do Tribunal de Justiça de São Paulo (Ação Penal n. 1504569-96.2022.8.26.0228), comporta parcial acolhimento.
+Com efeito, busca a impetração a revisão da dosimetria imposta pelas instâncias ordinárias, aos argumentos de ilegalidade na incidência de duas majorantes do crime de roubo, previstas na parte especial, bem como equívoco no reconhecimento do concurso formal de crimes, em razão de os patrimônios afetados pertencerem a pessoas física e jurídica diversas.
+Quanto à incidência da majorante do concurso formal, em razão de os patrimônios subtraídos pertencerem a pessoas física e jurídica, não verifico o alegado constrangimento, porquanto não há que se falar em crime único quando, num mesmo contexto fático, são subtraídos bens pertencentes a vítimas distintas, caracterizando concurso formal, por terem sido atingidos patrimônios diversos, nos moldes do art. 70 do Código Penal. No caso, as instâncias ordinárias constataram haver pluralidade de vítimas, conclusão esta que não é obstada pelo fato de uma das vítimas ser sócia da outra vítima, que é uma pessoa jurídica, ao que se depreende dos fatos (AgRg no HC n. 443.242/MG, Ministro Ribeiro Dantas, Quinta Turma, DJe 23/6/2020).
+Já no tocante à aplicação de duas majorantes previstas na parte especial, observo a coação ilegal, pois as instâncias inferiores se limitaram a aplicar o aumento em duas etapas, sem fundamentar, quando a jurisprudência desta Corte entende que o art. 68, parágrafo único, do Código Penal, não exige que o juiz aplique uma única causa de aumento referente à parte especial do Código Penal, quando estiver diante de concurso de majorantes, mas que sempre justifique a escolha da fração imposta.
+Redimensionando-se a reprimenda imposta, temos:
+Mantida a fixação da pena-base no mínimo legal de 4 anos de reclusão e 10 dias-multa, mantenho a compensação da agravante da reincidência com a atenuante da confissão espontânea e passo à terceira etapa.
+Na terceira etapa, aumento em 2/3 em razão da majorante do emprego de arma, resultando a pena em 6 anos e 8 meses de reclusão e 16 dias-multa. Ainda, majoro em 1/6, resultando a reprimenda em 7 anos, 9 meses e 10 dias de reclusão e 18 dias-multa, a qual torno definitiva.
+Considerando a reprimenda definitiva e a reincidência do acusado, fixo o regime inicial fechado de expiação.
+Em face do exposto, concedo em part e a ordem impetrada, liminarmente, para afastar uma das majorantes do crime de roubo, resultando a pena definitiva em 7 anos, 9 meses e 10 dias de reclusão e 18 dias-multa, no regime inicial fechado.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. ROUBO MAJORADO. SENTENÇA. DOSIMETRIA. CRIME COMETIDO CONTRA O PATRIMÔNIO DE PESSOAS FÍSICA E JURÍDICA. RECONHECIMENTO DE CRIME ÚNICO. IMPOSSIBILIDADE. MANUTENÇÃO DO CONCURSO FORMAL DE CRIMES. COAÇÃO ILEGAL. AUSÊNCIA. APLICAÇÃO DE DUAS MAJORANTES DA PARTE ESPECIAL SEM FUNDAMENTAÇÃO. REDUÇÃO QUE SE IMPÕE. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem liminarmente concedida em parte, nos termos do dispositivo.
