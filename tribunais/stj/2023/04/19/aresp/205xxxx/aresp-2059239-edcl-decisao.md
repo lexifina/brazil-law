@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por NEUZA TEIXEIRA DA SILVA contra decisão de e-STJ fls. 356/357, por meio da qual determinei a devolução dos autos ao Tribunal de origem, em razão do Tema nº 1170/STF, que restou assim ementada:
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO DA DECISÃO AGRAVADA. CORREÇÃO MONETÁRIA E COISA JULGADA. TEMA Nº 1170/STF. DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM. AGRAVO INTERNO PROVIDO.
+A embargante alega, em síntese, que a decisão embargada padeceria de omissão, pois "uma parte da pretensão recursiva encontra respaldo no entendimento firmado no REsp 1.495.146/MG, PONTO QUE NÃO FOI OBJETO DA DOUTA DELIBERAÇÃO PELA R. DECISÃO ORA EMBARGADA, ao dar provimento ao agravo interno de fls. 284/289 apenas para determinar o retorno dos autos à Origem, ao aguardo do TEMA 1170/STF" (e-STJ fl. 360).
+Requer, assim, o acolhimento dos embargos "com efeitos modificativos, para dar provimento ao recurso especial de fls. 144/149, determinando a incidência do IPCA em relação à situação futura a dos cálculos homologados (data base em FEV/2011), forte no entendimento firmado no REsp 1.495.146/MG, representativo da controvérsia, para que sejam fixados os honorários de sucumbência sobre o valor da condenação" (e-STJ fl. 360).
+Impugnação aos aclaratórios apresentada às e-STJ fls. 367/369.
+É o relatório. Decido.
+Razão não assiste à embargante.
+Destaca-se, inicialmente, que a própria embargante requereu a devolução dos autos ao Tribunal de origem, em razão da afetação do Tema nº 1170/STF, conforme petição juntada às e-STJ fls. 298/300.
+Ademais, havendo matéria recursal sujeita ao Tema nº 1170/STF, imperiosa a devolução de todo o processo para o Tribunal de origem, sendo inviável o julgamento de apenas uma parte do recurso, uma vez que ausente o exaurimento da jurisdição ordinária - requisito para o conhecimento do recurso especial - enquanto pendente a análise de eventual juízo de adequação do acórdão recorrido com a tese a ser fixada em sede de repercussão geral pelo Supremo Tribunal Federal.
+Segundo se depreende da sistemática dos recursos repetitivos, prevista nos arts. 1036 a 1041 do CPC/2015, uma vez reconhecida a existência de repercussão geral pelo Supremo Tribunal Federal, ou afetado recurso especial como repetitivo por esta Corte Superior, impõe-se a suspensão do processo até o julgamento do tema.
+Julgado o tema e publicado o acórdão paradigma, o Tribunal de origem deverá negar seguimento aos recursos se o acórdão recorrido coincidir com a orientação do Tribunal Superior, ou então reexaminar o processo de competência originária, a remessa necessária ou o recurso anteriormente julgado, se o acórdão recorrido contrariar a tese firmada em sede de repercussão geral ou recurso repetitivo, nos termos do art. 1040 do CPC/2015.
+Somente nos casos em que o Tribunal de origem não se retratar, deixando de aplicar a tese firmada, é que será possível o exame de admissibilidade do recurso interposto, ou ainda nos casos em que há outras questões no recurso especial não abrangidas pelo repetitivo, conforme regra prevista no art. 1041 do CPC/2015.
+Ante o exposto, rejeitos os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. OMISSÃO. INOCORRÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
