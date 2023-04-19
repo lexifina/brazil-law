@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por GIANCARLOS RAMOS DANTAS e MATHEUS RIBEIRO DANTAS, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA no julgamento do HC n. 8001510-91.2023.8.05.0000.
+Extrai-se dos autos que os recorrentes tiveram a prisão temporária decretada em 9/8/2022, a qual teria sido relaxada, em 6/9/2022, apenas em relação ao recorrente Giancarlo, em razão de não ter sido realizada audiência de custódia.
+Em 15/9/2022, o Juízo de primeiro grau decretou a prisão preventiva dos agentes, em consonância com a representação da Autoridade Policial e manifestação favorável do Ministério Público.
+Em 28/9/2022, os ora recorrentes, juntamente com outros agentes, restaram denunciados pela suposta prática do delito previsto no art. 121, §2º, I e IV, c/c o art. 29, ambos do Código Penal (homicídio qualificado em concurso de pessoas).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão que restou assim ementado:
+"HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. ALEGADA AUSÊNCIA DE AUDIÊNCIA DE CUSTÓDIA. ASSENTADA JÁ REALIZADA. PERDA DO OBJETO. MEDIDA CONSTRITIVA DEVIDAMENTE FUNDAMENTADA. NECESSÁRIA GARANTIA DA ORDEM PÚBLICA E CONVENIÊNCIA DA INSTRUÇÃO CRIMINAL. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. PROCESSO COMPLEXO. PLURALIDADE DE RÉUS. MARCHA PROCESSUAL QUE NÃO SE ENCONTRA INERTE. APLICAÇÃO DO PRINCÍPIO DA RAZOABILIDADE. EXCESSO DE PRAZO JUSTIFICADO. CONSTRANGIMENTO ILEGAL NÃO DEMONSTRADO. ORDEM DENEGADA, NA PARTE CONHECIDA.
+Pacientes denunciados como incursos no art. 121, § 2º, I e IV, do CP, em concurso de pessoas com outros quatro corréus, pela prática do crime de homicídio qualificado(art. 121, § 2º, I e IV, do CP), na condição demandantes, mediante paga, que vitimou a tiros José André Pinto dos Santos, conhecido como "Axé", dentro de sua locadora de veículos, localizada na Rua Cova da Moça, nº 04, Centro, cidade de Porto Seguro.
+Impetração que requer a concessão da ordem, para expedição de alvará de soltura, sustentando constrangimento ilegal na prisão dos pacientes, por ausência de realização de audiência de custódia, desfundamentação do decreto preventivo, desnecessidade da prisão e excesso de prazo para início da instrução criminal.
+Prisão preventiva dos pacientes devidamente fundamentada na garantia da ordem pública e conveniência da instrução criminal, que se mostra necessária, ante a gravidade concreta da conduta criminosa e indícios de que poderão atuar para dificultaras investigações.
+Pacientes presos em 06/01/2023. Denúncia oferecida em 28/09/2022 e recebida pela autoridade coatora em03/10/2022, encontrando-se o processo, atualmente, no aguardo do retorno de Carta Precatória, para posterior início da instrução criminal.
+Considerando o tempo de prisão provisória, a complexidade do feito, a pluralidade de réus, bem como, a ausência de desídia da autoridade coatora na condução do processo, não se verifica o constrangimento ilegal por excesso de prazo sustentado na impetração. Medidas cautelares alternativas à prisão que se mostram insuficientes para a finalidade assecuratória no caso em espécie, sendo irrelevante a comprovação da primariedade dos pacientes."(fls. 158/159).
+No presente recurso, a defesa sustenta a ausência de fundamentação concreta que justifique a prisão preventiva dos pacientes, em ofensa ao art. 315 do Código de Processo Penal - CPP, e destaca não estarem presentes os requisitos autorizadores do art. 312 do CPP.
+Pondera, ainda, a existência de excesso de prazo na formação da culpa, destacando que o feito teria se iniciado em julho de 2022, e até a presente data não teria se encerrado a instrução. Invoca a incidência do princípio da razoabilidade.
+Ressalta não haverem indícios da participação dos recorrentes no delito imputado.
+Assegura a suficiência da aplicação de medidas cautelares alternativas, previstas no art. 319 do CPP.
+Afirma, por fim, que alguns dos corréus foram beneficiados com a revogação da prisão preventiva, e destaca, portanto, que os recorrentes fazem jus à extensão do referido benefício, nos termos do art. 580 do CPP.
+Requer, em liminar e no mérito, o relaxamento ou a revogação da prisão preventiva dos recorrentes, bem como a extensão do benefício da liberdade concedida aos corréus, com expedição de alvará de soltura, ainda que mediante a aplicação de medidas cautelares alternativas.
+É o relatório.
+Decido.
+Cumpre ressaltar que o presente recurso traz pedido e causa de pedir idênticos aos formulados no HC 815.867/BA, o qual teve a liminar indeferida na data de ontem, 17/4/2023, em decisão da minha relatoria, e está em processamento nesta Corte Superior. Destaco que ambos os feitos se insurgem contra o acórdão proferido pelo Tribunal de Justiça do Estado da Bahia no julgamento do HC n. 8001510-91.2023.8.05.0000.
+Assim, diante de inadmissível reiteração de pedidos, obstaculizado o conhecimento deste recurso.
+Nesse sentido:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. NÃO CONHECIMENTO. MERA REITERAÇÃO DE PEDIDO. EXAME DO MÉRITO EM WRIT ANTERIOR. SUPRESSÃO DE INSTÂNCIA NA REVISÃO CRIMINAL. AGRAVO DESPROVIDO.
+I - Inviável o reexame de matéria de mérito já apreciada em habeas corpus anteriormente julgado, pois configura a inadmissível reiteração de pedido; da mesma forma que não se admite a revisão criminal de forma originária neste Superior Tribunal de Justiça, quando competir ao eg. Tribunal de origem, por representar indevida supressão de instância; tudo, nos termos do art. 210, do RISTJ: "Art. 210. Quando o pedido for manifestamente incabível, ou for manifesta a incompetência do Tribunal para dele tomar conhecimento originariamente, ou for reiteração de outro com os mesmos fundamentos, o relator o indeferirá liminarmente". Precedentes.
+Agravo regimental desprovido.
+(AgRg no RHC 124.697/MG, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 13/04/2020, DJe 17/04/2020)
+Por tais razões, indefiro liminarmente o presente recurso em habeas corpus .
+Publique-se.
+Intimem-se.
