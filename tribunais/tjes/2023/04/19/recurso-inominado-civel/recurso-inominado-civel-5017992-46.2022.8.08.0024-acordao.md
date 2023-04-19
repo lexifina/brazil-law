@@ -1,0 +1,57 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº
+5017992-46.2022.8.08.0024
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: ROSIMAR FIOROT LOPES
+RECORRIDO: TAM LINHAS AEREAS S/A.
+RELATOR(A):GRECIO NOGUEIRA GREGIO
+
+_______________________________________________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+_______________________________________________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e dar parcial provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 2
+_______________________________________________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+_______________________________________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+VOTO
+
+DR. GRÉCIO NOGUEIRA GRÉGIO – RELATOR
+
+Relatório dispensado pelo art. 46 da Lei nº 9099/95 e Enunciado 92 do FONAJE.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+Concedo o benefício da justiça gratuita à parte Recorrente.
+
+RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E DANOS MORAIS. PASSAGEM AÉREA. CANCELAMENTO DE VIAGEM. COVID 19. TENTATIVA DE REEMBOLSO DO VALOR PAGO. ALEGA A PARTE AUTORA QUE ADQUIRIU PASSAGEM AÉREA JUNTO A REQUERIDA NO VALOR DE R$565,52 PARA UMA VIAGEM QUE OCORRERIA EM MAIO DE 2020, E QUE DEVIDO A PANDEMIA DA COVID-19 SE FEZ NECESSÁRIO O SEU CANCELAMENTO. ALEGA QUE SOLICITOU O REEMBOLSO DO VALOR PAGO, E QUE JÁ SE PASSARAM DOIS ANOS E NADA LHE FOI REEMBOLSADO, MESMO COM O PRAZO LIMITE DETERMINADO PELA LEI Nº 14.034/2020. SENTENÇA DE PISO JULGOU PARCIALMENTE PROCEDENTE O PEDIDO INICIAL, PARA CONDENAR A REQUERIDA A REEMBOLSAR AO AUTOR O VALOR DE R$565,52, E IMPROCEDENTE O PEDIDO DE DANO MORAL. RECURSO DA PARTE AUTORA NO SENTIDO DE VER REFORMADA A SENTENÇA PARA JULGAR PROCEDENTE A PRETENSÃO EM RELAÇÃO AO ARBITRAMENTO DE DANOS MORAIS, ALÉM DE PUGNAR PELA INCIDÊNCIA DE JUROS DE 1% DECORRENTE DA MORA EM CUMPRIR A OBRIGAÇÃO.
+RECURSO CONHECIDO E PARCIALMENTE PROVIDO
+. MESMO A REQUERIDA TENDO UM PRAZO PARA A DEVOLUÇÃO DO VALOR DEVIDO CONFORME EXPOSTO PELA LEI Nº. 14.046/20, ESSA NÃO O FEZ. TRANSCURSO DO PRAZO LEGAL FIXADO. FALHA NO DEVER DE REEMBOLSAR O VALOR PAGO PELO CONSUMIDOR. FALHA NA PRESTAÇÃO DE SERVIÇO. AUSÊNCIA DE SOLUÇÃO PELA PARTE REQUERIDA. DIVERSAS TENTATIVAS DE SOLUCIONAR ADMINISTRATIVAMENTE O PROBLEMA. PROTOCOLOS E E-MAILS RELACIONADOS NOS AUTOS. INEQUÍVOCA FALHA NO DEVER DE COOPERAÇÃO UMA VEZ QUE ERA PERFEITAMENTE POSSÍVEL TER SIDO SOLUCIONADA ADMINISTRATIVAMENTE A QUESTÃO. ASSIM,
+REFORMO PARCIALMENTE A SENTENÇA RECORRIDA
+, COM O FITO DE JULGAR PARCIALMENTE PROCEDENTE O PEDIDO AUTORAL, CONDENANDO A REQUERIDA DE R$2.000,00 A TÍTULO DE DANOS MORAIS, ACRESCIDA DE JUROS MORATÓRIOS DE 1% AO MÊS E CORREÇÃO MONETÁRIA
+PELO IPCA-E (EM CONFORMIDADE COM O RE 870942 - STF - JULGADO EM 20/11/2017), A PARTIR DO PRESENTE ARBITRAMENTO, EM CONFORMIDADE COM A SÚMULA 362 DO STJ.
+AINDA, PARA FINS DE JULGAR PROCEDENTE O PEDIDO PARA INCLUIR NA CONDENAÇÃO EM DANO MATERIAL IMPOSTA NA SENTENÇA, A INCIDÊNCIA DE
+JUROS MORATÓRIOS
+NO IMPORTE DE 1% AO MÊS
+, A PARTIR DA CITAÇÃO.
+
+NO RESTANTE, SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS NA FORMA DO ART. 46, DA LEI 9.099/95.
+
+SEM CUSTAS E HONORÁRIOS.
+
+É como voto.
+
+_______________________________________________________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
