@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo CONSELHO REGIONAL DE FARMÁCIA DO ESTADO DE SÃO PAULO contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO assim ementado:
+EMBARGOS À EXECUÇÃO FISCAL - CONSELHO REGIONAL DE FARMÁCIA - PRESCRIÇÃO PARCIAL DO DÉBITO - SUCUMBÊNCIA: VERBA HONORÁRIA MANTIDA.
+Os embargos de declaração foram rejeitados.
+No recurso especial, fundamentado na alínea "a" do permissivo constitucional, o recorrente sustenta violação aos artigos 1.022, II e 489, §1º, IV; 2º, §3º da Lei 6.830/1980; 174 do CTN; e 86 do CPC/2015.
+Preliminarmente, aduz que o acórdão de origem foi omisso na análise de questões relevantes para a conclusão da controvérsia.
+No mérito, defende que não ocorreu o escoamento do lustro prescricional, tendo em vista que o débito em questão tem natureza não tributária, situação que enseja a suspensão da prescrição pelo prazo de 180 dias ou até a data da distribuição da execução fiscal.
+Ademais, alega que o ônus da sucumbência não foi distribuído com acerto, na medida em que o recorrente sucumbiu em apenas 1 dos 11 pedidos constantes da peça vestibular.
+Contrarrazões ao recurso especial às fls. 493/501.
+Decisão de admissibilidade às fls. 503/505.
+É o relatório. Decido.
+Consta do v. acórdão de origem:
+Por se tratar de matéria de ordem pública, cognoscível até mesmo de ofício, passo à análise da prescrição da multa prevista na CDA 350127/17 (ID 141690985). A data do lançamento de ofício é o termo inicial do prazo prescricional. A constituição definitiva do crédito ocorreu em 27 de março de 2013. O despacho ordinatório de citação (22 de junho de 2018 - ID 141690985), marco interruptivo da prescrição, retroage à data propositura da ação (21 de junho de 2018 - ID 141690985). Houve a prescrição.  ..  Apesar da maioria dos pedidos da embargante terem sido rejeitados, o acolhimento do requerimento de diminuição dos valores das multas reduziu a quantia executada de maneira considerável. A r. sentença bem decidiu a questão: "Embora a Embargante tenha restado vencida na maior parte de seus pedidos, os pedidos acolhidos representam redução de dois terços do montante executado a título de multa, de modo que sua sucumbência foi mínima. Destarte, condeno a Embargada em honorários advocatícios, fixados em 10% sobre o valor da diferença considerada indevida, nos" (ID 141691015). termos do art. 85, §2º, do CPC. Ademais, o acolhimento do pedido de prescrição acima reforça a regularidade do reconhecimento da sucumbência mínima da embargante. Nestes termos, a r. sentença deve ser mantida quanto à verba honorária. Por tais fundamentos, na CDAde ofício, reconheço a prescrição relativa à multa prevista350127/17, por se tratar de matéria de ordem pública  ..
+A despeito do que constou do acórdão recorrido, verifica-se que o Tribunal de origem não se pronunciou de forma adequada sobre a seguinte alegação:
+Sem embargo do entendimento manifestado no voto condutor da decisão, o fato é que a decisão incorreu em omissão, objetivando os embargos de declaração opostos, a manifestação expressa do órgão julgador sobre toda a argumentação desenvolvida pelo Recorrente que, ao ser melhor analisada, com certeza implicaria em entendimento diverso do então emanado. Especialmente, no que concerne ao disposto no §3º do artigo 2º da Lei nº. 6.830/1980, que prevê suspensão de 180 dias do prazo prescricional se atendido o requisito ali trazido.  ..  In casu, a questão suscitada pretendeu a manifestação da Colenda Turma acerca da fundamentação apontada no sentido de que se aplicando o §3º do artigo 2º da Lei nº. 6.830/1980, não se haveria falar em prescrição, pois a ação foi distribuída antes do fim do prazo prescricional. (fl. 479)
+Cumpre registrar que tal alegação foi suscitada no momento oportuno e reiterada em sede de embargos de declaração, os quais foram rejeitados, persistindo a omissão destacada.
+Para fins de conhecimento do recurso especial, é indispensável a prévia manifestação do Tribunal a quo acerca da tese de direito suscitada, ou seja, a ausência de prequestionamento impede o conhecimento do recurso (Súmulas 282 e 356 do STF e Súmula 211/STJ). Assim, tratando-se de questão relevante para o deslinde da causa que foi suscitada no momento oportuno e reiterada em sede de embargos de declaração, a ausência de manifestação sobre ela caracteriza ofensa ao art. 1.022 do CPC/2015. Verificada tal ofensa, em sede de recurso especial, impõe-se, em regra, a anulação do acórdão proferido em sede de embargos de declaração, para que seja proferido novo julgamento suprindo tal omissão.
+No mesmo sentido:
+PROCESSUAL CIVIL. ART. 535 DO CPC. APELAÇÃO. SUPOSTA INTEMPESTIVIDADE. OMISSÃO CONFIGURADA.
+1. Apesar de provocada pela via dos embargos declaratórios, a Corte de origem não se pronunciou efetivamente sobre a tese articulada em torno da ocorrência de julgamento extra petita e de reformatio in pejus consistentes na redução da alíquota do ITCD sem que houvesse apelação do contribuinte, mas apenas do Fisco Estadual.
+2. Caracterizado o vício da omissão, impõe-se o reconhecimento de ofensa ao art. 535 do CPC, anulando-se o acórdão proferido no julgamento dos embargos de declaração e determinando-se o retorno dos autos à origem para que seja sanada a eiva apontada, prejudicada a análise dos demais tópicos.
+3. Recurso especial provido.
+(REsp 1.187.583/RS, 2ª Turma, Rel. Min. Castro Meira, DJe de 17.5.2010)
+PROCESSUAL CIVIL. AUSÊNCIA DE MANIFESTAÇÃO PELO TRIBUNAL A QUO. EMBARGOS DE DECLARAÇÃO. REJEIÇÃO. ART. 535 DO CPC. VIOLAÇÃO. OCORRÊNCIA.
+1. Caracteriza-se ofensa ao art. 535 do Código de Processo Civil se o Tribunal de origem deixar de pronunciar-se acerca de matéria veiculada pela parte sobre a qual era imprescindível manifestação expressa. Determinação de retorno dos autos para que se profira nova decisão nos Embargos de Declaração.
+3. Embargos Declaratórios acolhidos com efeitos infringentes.
+(EDcl no AgRg no REsp 1.137.175/RJ, 2ª Turma, Rel. Min. Herman Benjamin, DJe de 6.4.2010)
+Assim, merece ser provido o recurso especial, a fim de anular o aresto proferido em sede de embargos de declaração, determinando-se o retorno dos autos ao Tribunal de origem para que seja proferido novo julgamento.
+Ante o exposto, com fulcro no art. 932, V, do CPC/2015 c/c o art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial, nos termos da fundamentação.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SUPOSTA OFENSA AO ART. 1.022 DO CPC/2015. OMISSÃO CARACTERIZADA. RECURSO ESPECIAL PROVIDO.
