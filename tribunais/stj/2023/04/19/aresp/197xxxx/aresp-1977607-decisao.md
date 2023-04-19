@@ -1,0 +1,14 @@
+DECISÃO
+CLAUDINEI OLIVEIRA DA ROSA e ISMAEL RODRIGO DA SILVA agravam da decisão que inadmitiu seu recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal Regional Federal da 4ª Região (Apelação Criminal n. 5011166-37.2020.4.04.7002/PR).
+Nas razões do agravo, a defesa afirma que "Ocorre que em momento algum, nas razões do recurso especial, os Agravantes requereram a reanálise acerca das provas. O que se apontou foi que o quantum fixado a título de prestação pecuniária afrontou o previsto nos artigos 44, III, e 45, §1º, do Código Penal e que a majoração aplicada na terceira fase da dosimetria da pena em patamar superior a 1/6 sem fundamentação idônea violou o artigo 40 da Lei n. 11.343/06, em combinação com artigo 654, §2º, além dos artigos 381, III, e 387, II e III, do Código de Processo Penal. As questões de fato foram trazidas no recurso especial apenas para um melhor entendimento do contexto de ofensa à legislação federal, não se pretendendo seu reexame" (fl. 12.213).
+O Ministério Público Federal manifestou-se pelo não conhecimento do agravo ou, caso conhecido, pelo seu não provimento (fls. 12.251-12.265).
+Decido.
+O agravo é tempestivo, mas não infirmou adequadamente as motivações lançadas na decisão de inadmissibilidade do recurso especial, razão pela qual não merece conhecimento.
+Extrai-se dos autos que a Corte estadual obstou o prosseguimento do recurso especial diante da necessidade de reexame de prova (Súmula n. 7 do STJ), bem como da incidência da Súmula n. 83 do STJ.
+Ao analisar os argumentos trazidos pela defesa nas razões recursais, nos termos delineados no relatório, observo que não houve fundamentação clara, específica e pormenorizada capaz de infirmar a Súmula n. 83 do STJ.
+No caso, o agravante não trouxe nenhum precedente que pudesse demonstrar a inaplicabilidade do julgado colacionado na decisão impugnada.
+Aliás, entende esta Corte Superior que, "Para impugnar a incidência da Súmula n. 83 do STJ, o agravante deve demonstrar que os precedentes indicados na decisão que inadmitiu o recurso especial são inaplicáveis ao caso ou deve colacionar precedentes contemporâneos ou supervenientes aos indicados na decisão para comprovar que outro é o entendimento jurisprudencial do STJ (AgRg no AREsp n. 1.874.097/SC, relator Ministro João Otávio de Noronha, 5ª T., DJe de 15/8/2022).
+Portanto, verifica-se que o agravante não rebateu, concretamente, todos os óbices da inadmissão do recurso especial.
+Assim, é inegável a aplicação, na espécie, da Súmula n. 182 desta Corte Superior, segundo a qual "É inviável o agravo do art. 1.021, § 1º, do novo CPC que deixa de atacar especificamente todos os fundamentos da decisão agravada".
+À vista do exposto, não conheço do agravo em recurso especial.
+Publique-se e intimem-se.
