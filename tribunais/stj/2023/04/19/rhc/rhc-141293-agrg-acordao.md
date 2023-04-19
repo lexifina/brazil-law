@@ -1,0 +1,25 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+RAPHAEL AUGUSTO CHAVES MONTEIRO agrava contra a decisão que negou provimento ao recurso ordinário.
+Neste regimental, a defesa repisa as assertivas do writ e sustenta que falta fundamentação idônea ao decisum que decretou a quebra de sigilo telefônico do recorrente, supostamente embasado em denúncia anônima, antes de qualquer diligência prévia.
+Requer a reconsideração do decisum ou a submissão do feito ao órgão colegiado, a fim de que se reconheça a nulidade da medida cautelar e das provas dela decorrentes, bem como seja anulado o inquérito policial militar instaurado pela Portaria n. 0165/2605/2011.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. FALTA DE NOVOS ARGUMENTOS. QUEBRA DE SIGILO TELEFÔNICO. FUNDAMENTAÇÃO. SUPRESSÃO DE INSTÂNCIA. INQUÉRITO POLICIAL MILITAR ARQUIVADO. PERDA DE INTERESSE JURÍDICO. agravo não provido.
+1. É assente nesta Corte que o regimental deve trazer novos argumentos capazes de infirmar a decisão agravada, sob pena de manutenção do decisum pelos próprios fundamentos.
+2. O writ que impugnou o decreto de interceptação telefônica, prolatado 9 anos antes, não foi apreciado pelo Tribunal a quo, ao argumento de que a postulação não foi previamente formulada em primeiro grau. Dessarte, eventual análise do tema por esta Corte Superior ensejaria a indevida supressão de instância.
+3. De mais a mais, o inquérito policial militar, que ora se pretende anular, foi arquivado, nos termos da promoção ministerial. Não há, pois, interesse jurídico para a pretensão do recorrente.
+4. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+De início, sublinho que "É assente nesta Corte Superior que o regimental deve trazer novos argumentos hábeis a infirmar a decisão agravada, sob pena de manutenção do decisum pelos próprios fundamentos" (AgRg no RHC n. 167.626/RJ, Rel. Ministro Rogerio Schietti, 6ª T., DJe 21/10/2022).
+In casu, nenhuma alegação nova, distinta das arrazoadas no recurso, foi deduzida, no agravo, razão por que mantenho a decisão monocrática intacta.
+Depreende-se dos autos que a quebra de sigilo de dados telefônicos ora impugnada, decretada em agosto de 2011, vale dizer, há mais de 11 anos (fls. 141-142; 194), "serviu de base ao Procedimento n. 0010491-42.2015.8.19.0000, de índole administrativo-disciplinar, em que o Conselho de Justificação considerou o ora recorrente indigno do oficialato, na Polícia Militar carioca" (fl. 195).
+Em outubro de 2020, Desembargadora do Tribunal a quo negou seguimento ao writ que contestou a referida ordem de interceptação telefônica (fls. 22-25). Ressaltou que os impetrantes não comprovaram haver requerido, "em 1º grau, junto à autoridade dita coatora, o pretendido reconhecimento de nulidade da decisão, sem o que apreciar e decidir", naquela oportunidade, "constituiria inegável SUPRESSÃO DE INSTÂNCIA" (fl. 24).
+Ato seguinte, a Corte de origem negou provimento ao agravo regimental.
+À ocasião, "ao transcrever o decisum proferido pelo Conselho de Justificação (que estabeleceu a perda do oficialato, na Polícia Militar, pelo ora recorrente), o acórdão recorrido trouxe a lume" o fato de que "a defesa teve acesso ao material que lastreou a imputação formulada contra o Oficial Justificante", no sentido do "envolvimento inegável do Tenente PM Raphael  ..  com a comercialização de gás, de sinal clandestino de televisão ("gatonet") e com o tráfico de drogas, recebendo vantagens indevidas para não atrapalhar (nem ele nem seus subordinados) as atividades ilícitas realizadas na comunidade em que exercia a função de subcomandante da UPP", e se reportou não só a diálogos do Sargento Venícius com o ora agravante, como também à filmagem de encontro entre os dois (todos à fl. 196).
+Sem embargo, a despeito da transcrição dos fatos, não olvido que o Tribunal de Justiça não apreciou o pleito do habeas corpus, impetrado 9 anos depois da decisão de primeira instância. Ao revés, salientou que "sequer se fez prova mínima" de que a postulação foi formulada em primeiro grau. Reforçou que a 4ª Câmara Criminal não dispunha "de elementos informativos mínimos" que permitissem aferir a pretensa ilegalidade das interceptações telefônicas (fls. 72; 73).
+De mais a mais, além da supressão de instância, a defesa afirmou, neste regimental, que o inquérito policial militar, que ora se pretende anular, foi arquivado, nos termos da promoção ministerial (fls. 201-202; 227-228). Não identifico, pois, interesse jurídico para a pretensão do recorrente, aos ditames dos arts. 17 e 330, III, ambos do Código de Processo Civil, c/c o 3º da lei adjetiva penal.
+À vista do exposto, nego provimento ao agravo.
