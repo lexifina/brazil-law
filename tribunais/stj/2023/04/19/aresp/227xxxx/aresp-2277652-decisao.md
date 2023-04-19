@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto em face de acórdão do Tribunal Regional Federal da 2ª Região cuja ementa é a seguinte:
+ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. ANATEL. BANCO QUE RECORRE COMO TERCEIRO PREJUDICADO. PLANO DE RECUPERACAO JUDICIAL (GRUPOOI). EXTINÇÃO E DESENTRANHAMENTO CARTA DE FIANÇA. IMPOSSIBILIDADE. RECURSODESPROVIDO
+I - A instituição financeira, embora não seja parte no executivo fiscal, figura como garantidora, podendo responder pelo débito, nos termos e limites da carta de fiança, de modo que, sendo terceiro prejudicado, tem legitimidade para interpor recurso, nos termos no artigo 996 do CPC.
+II - Uma vez que os créditos públicos são indisponíveis e apenas podem ser objeto de transação nos termos da lei, cabe consignar que a Lei nº 13.988/2020 estabelece em seu artigo 12, parágrafo 3º,que a transação não implica novação dos créditos por ela abrangidos.
+III - A ausência de novação dos créditos e a manutenção das garantias decorrem expressamente do sistema legal específico, que excepciona as regras gerais do Código Civil, diante do caráter indisponível dos créditos públicos e das prerrogativas da Advocacia Geral da União e da Procuradoria Geral Federal a decisão sobre renovação, substituição ou liberação de garantias.
+IV - Não se verifica o comprometimento da eficácia da carta de fiança bancária emitida pelo Banco Santander S. A e inicialmente ofertada, tendo em vista que foram mantidas as garantias sem que fosse agravada a posição do garantidor que não participou da transação, bem como considerando-se que acarta de fiança emitida pelo Agravante contém renúncia expressa à faculdade de exoneração unilateral prevista no art. 835 do Código Civil.
+V - Agravo desprovido.
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, interposto com base na alínea a do permissivo constitucional, a recorrente aponta ofensa aos arts. 489, 1.022, II, do CPC/2015, arguindo ausência de manifestação do órgão julgador acerca das questões suscitadas, "verifica-se que a incidência do disposto nos arts. 364, 366 e 844, § 1º, do Código Civil, não foi enfrentada, o que ensejou a oposição de competentes embargos de declaração ".
+No mérito, alega violação aos seguintes dispositivos:
+Negativa de vigência ao art. 844, § 1º, do Código Civil- que dispõe textualmente que "Se for concluída entre o credor e o devedor,  a transação  desobrigará o fiador"-, uma vez que a transação celebrada entre Anatel e Oi não contou com a anuência do Santander, fiador;
+Violação aos arts. 364 e 366 do Código Civil, ao deixar de reconhecer a extinção da fiança oferecida no âmbito da execução fiscal originária, uma vez que se operou dupla novação in casu: a primeira, com a aprovação e a homologação do plano de recuperação judicial e a segunda, com a celebração da já mencionada transação entre Anatel e Oi, em ambos os casos sem anuência ou consentimento do Santander, fiador; e
+Infringência ao art. 12, § 3º, da Lei nº 13.988/2020, aplicado quando incabível, pois há evidente (e dupla) novação na hipótese, sendo incorreta a alegação no sentido contrário, uma vez que (a) a transação implica a novação da obrigação, conforme a uníssona jurisprudência nacional, e (b) o art. 12, § 3º, da Lei nº 13.988/2020 não trata da transação, mas da proposta de transação aceita, distinção fundamental e ignorada pelo v. acórdão recorrido.
+Em suas contrarrazões, a recorrida pugna pelo não conhecimento do recurso ou, alternativamente, pelo seu não provimento.
+O recurso foi inadmitido pela decisão de fl. 642, cujos fundamentos foram impugnados por meio do presente agravo.
+É o relatório. Passo a decidir.
+A despeito do que constou do acórdão de fls. 512/514, verifica-se que o Tribunal de origem não se pronunciou de forma adequada sobre a seguinte alegação: "verifica-se que a incidência do disposto nos arts. 364, 366 e 844, § 1º, do Código Civil, não foi enfrentada, o que ensejou a oposição de competentes embargos de declaração" (fls. 493/495):
+Ocorre que um dos principais fundamentos de direito do recurso do Santander não foi enfrentado por essa colenda Turma, seja na ementa do v. aresto, seja no voto do eminente Desembargador Federal relator, qual seja, a incidência da regra do art. 844, § 1º, do Código Civil, de dicção cristalina: "Art. 844. A transação não aproveita, nem prejudica senão aos que nela intervierem, ainda que diga respeito a coisa indivisível. § 1º Se for concluída entre o credor e o devedor, desobrigará o fiador".
+Esse fundamento foi amplamente explorado em capítulo próprio do agravo de instrumento de evento 1 (entre as pp. 14 e 18 do recurso) e a sua apreciação conduziria a entendimento diametralmente oposto àquele que foi alcançado por essa colenda Turma por meio do v. aresto ora embargado.
+ ..
+Além do relevante fundamento acima mencionado, que não foi objeto de apreciação pelo v. aresto embargado, faz-se necessário pontuar que, conquanto o v. acórdão de evento 18 tenha enfrentado o tema da novação, explorando o disposto no art. 12, § 3º, da Lei nº 13.988/2020, não examinou o disposto nos arts. 364 e 366 do Código Civil.
+Cumpre registrar que tal alegação foi suscitada no momento oportuno e reiterada em sede de embargos de declaração, os quais foram rejeitados pelo acórdão de fls. 512/514, persistindo a omissão destacada.
+Para fins de conhecimento do recurso especial, é indispensável a prévia manifestação do Tribunal a quo acerca da tese de direito suscitada, ou seja, a ausência de prequestionamento impede o conhecimento do recurso (Súmulas 282 e 356/STF e Súmula 211/STJ). Assim, tratando-se de questão relevante para o deslinde da causa que foi suscitada no momento oportuno e reiterada em sede de embargos de declaração, a ausência de manifestação sobre ela caracteriza ofensa ao art. 1.022 do CPC/2015. Verificada tal ofensa, em sede de recurso especial, impõe-se, em regra, a anulação do acórdão proferido em sede de embargos de declaração, para que seja proferido novo julgamento suprindo tal omissão.
+No mesmo sentido:
+PROCESSUAL CIVIL. ART. 535 DO CPC. APELAÇÃO. SUPOSTA INTEMPESTIVIDADE. OMISSÃO CONFIGURADA.
+1. Apesar de provocada pela via dos embargos declaratórios, a Corte de origem não se pronunciou efetivamente sobre a tese articulada em torno da ocorrência de julgamento extra petita e de reformatio in pejus consistentes na redução da alíquota do ITCD sem que houvesse apelação do contribuinte, mas apenas do Fisco Estadual.
+2. Caracterizado o vício da omissão, impõe-se o reconhecimento de ofensa ao art. 535 do CPC, anulando-se o acórdão proferido no julgamento dos embargos de declaração e determinando-se o retorno dos autos à origem para que seja sanada a eiva apontada, prejudicada a análise dos demais tópicos.
+3. Recurso especial provido.
+(REsp 1.187.583/RS, 2ª Turma, Rel. Min. Castro Meira, DJe de 17.5.2010)
+PROCESSUAL CIVIL. AUSÊNCIA DE MANIFESTAÇÃO PELO TRIBUNAL A QUO. EMBARGOS DE DECLARAÇÃO. REJEIÇÃO. ART. 535 DO CPC. VIOLAÇÃO. OCORRÊNCIA.
+1. Caracteriza-se ofensa ao art. 535 do Código de Processo Civil se o Tribunal de origem deixar de pronunciar-se acerca de matéria veiculada pela parte sobre a qual era imprescindível manifestação expressa. Determinação de retorno dos autos para que se profira nova decisão nos Embargos de Declaração.
+3. Embargos Declaratórios acolhidos com efeitos infringentes.
+(EDcl no AgRg no REsp 1.137.175/RJ, 2ª Turma, Rel. Min. Herman Benjamin, DJe de 6.4.2010)
+Assim, merece ser provido o presente recurso, a fim de anular o aresto proferido no julgamento dos embargos de declaração (fls. 512/514), determinando-se o retorno dos autos ao Tribunal de origem para que seja proferido novo julgamento.
+Diante do exposto, com fundamento no art. 932, V, do CPC/2015, c/c o art. 253, parágrafo único, II, c, do RISTJ e Súmula 568/STJ, conheço do agravo para dar provimento ao recurso especial, nos termos da fundamentação.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. SUPOSTA OFENSA AO ART. 1.022 DO CPC/2015. OMISSÃO CARACTERIZADA.
+1. Deixando o Tribunal a quo de apreciar tema relevante para o deslinde da controvérsia, o qual foi suscitado em momento oportuno, fica caracterizada a ofensa ao disposto no art. 1.022 do CPC/2015.
+2. Agravo conhecido para dar provimento ao recurso.
