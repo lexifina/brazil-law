@@ -1,0 +1,35 @@
+DECISÃO
+EDSON SACRAMENTO DA CONCEIÇÃO FILHO agrava da decisão de fls. 621-622, proferida pela Presidência deste Tribunal Superior, que não conheceu do agravo em recurso especial.
+Assevera o agravante, em síntese, que a fundamentação do decisum agravado "não merece prosperar, tendo em vista que no item 3 do Agravo em Recurso Especial consta a impugnação, mormente acerca do Enunciado n. 83, além do item 4.3 constar jurisprudência desse Tribunal de Justiça em entendimento contrário da decisão ora recorrida" (fl. 649).
+Requer, assim, a reconsideração da decisão agravada, para que sejam acolhidas as teses devolvidas a esta Corte Superior, em recurso especial.
+Decido.
+I. Juízo de retratação
+Verifico que o Tribunal de origem não admitiu o apelo defensivo em razão dos óbices das Súmulas n. 7 e 83, ambas do STJ. Em seguida, a Presidente desta Corte Superior não conheceu do agravo em recurso especial ante a falta de impugnação específica dos argumentos apontados anteriormente, o que ensejou esta interposição.
+Contudo, após detida análise do recurso de fls. 546-601, verifico que as causas de inadmissão do especial foram devidamente impugnadas pelo agravante. Por essa razão, reconsidero a decisão de fls. 621-622, para conhecer do seu agravo em recurso especial e prosseguir no exame das teses defensivas.
+II. Contextualização
+Consta dos autos que o recorrente foi condenado a 7 anos de reclusão, em regime semiaberto, mais multa, pela prática dos delitos previstos nos arts. 33, caput, da Lei n. 11.343/2006 e 14 da Lei n. 10.826/2003.
+Em seu recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal, a defesa apontou a violação dos arts. 386, VII, do CPP. Busca a absolvição do réu ou, subsidiariamente, a incidência do privilégio do tráfico e o direito de aguardar o trânsito em julgado em liberdade.
+III. Absolvição do réu
+O Tribunal de origem, ao manter a condenação do acusado pela prática do crime de tráfico de drogas, salientou o que segue (fls. 439-443):
+Em que pese a negativa de Autoria, os elementos encartados ao caderno processual se mostram contrários à tese sustentado pela defesa.
+Frise-se que totalmente isolada e sem amparo probatório a alegação e que os policiais que participaram da prisão não se recordavam totalmente dos fatos, apresentando declarações genéricas e que estes forjaram o flagrante, uma vez que não há nada dos fólios que indique que os agentes públicos imputaram-lhe falsamente a propriedade das substâncias entorpecentes e da arma de fogo, tampouco que possuíam algum interesse escuso em sua condenação.
+Nesse diapasão, não há como afastar tal prova, colhida sob o manto do contraditório, máxime quando a Defesa não aponta fatos concretos que desabonem o testemunho, deixando de contraditá-las no momento propício.
+Lado outro, reconhece-se o acerto da sentença objurgada, uma vez que os depoimentos das testemunhas inquiridas em juízo, notadamente pelos agentes policiais integrantes da diligência que culminou na apreensão dos entorpecentes e prisão em flagrante do Apelante,  .. , em cotejo com as demais provas produzidas na instrução criminal, bem como as peças informativas, apontam o Recorrente como autor dos delitos em questão.
+ ..
+Registre-se que ao ser interrogado, em Juízo, às fls. 219/220, o acusado mantivera a negativa de autoria apresentada na fase de inquérito, informando que não portava nada ilícito e que ainda fora agredido fisicamente. Somente com relação à arma e às drogas apreendidas houve dissonância com o fato descrito no inquérito, ou seja, de que os policiais adentraram em sua residência, reviraram tudo e, em seguida, saíram com a arma e a droga mencionadas (fls. 16/17), enquanto que, no interrogatório, afirmara que apenas na delegacia de polícia tais objetos foram apresentados (fls. 219).
+Constatou-se finalmente que a droga em seu poder estava embalada, distribuída em 119 porções, envoltas individualmente em plástico incolor, indicando que seriam destinadas ao comércio.
+Saliente-se que sequer a alegação de agressões físicas foi comprovada, pois o Laudo de Exame de Lesões Corporais atestou a ausência de qualquer lesão recente (fls. 81/82).
+Evidente a conclusão da Corte estadual de que há provas suficientes da materialidade e da autoria do recorrente para sustentar sua condenação na infração penal ora imputada.
+Com isso, torna-se inviável se falar em absolvição do acusado por insuficiência probatória, sobretudo porque no processo penal vigora o princípio do livre convencimento motivado, em que é dado ao julgador decidir pela condenação do agente, contanto que o faça fundamentadamente, como verificado na hipótese.
+Aliás, no tocante à valoração dos depoimentos prestados pelos policiais, é de salutar importância registrar o entendimento desta Corte Superior de que "a eficácia probatória do testemunho da autoridade policial não pode ser desconsiderada tão somente pela sua condição profissional, sendo plenamente válida para fundamentar um juízo, inclusive, condenatório" (HC n. 485.765/TO, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 28/2/2019, grifei).
+Desse modo, entendo que rever o posicionamento adotado pelas instancias ordinárias, como demonstrado acima, demanda imprescindível revolvimento do acervo fático-probatório delineado nos autos, o que é vedado em recurso especial, a teor da Súmula. n. 7 do Superior Tribunal de Justiça: "A pretensão de simples reexame de prova não enseja recurso especial".
+IV. Minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006 e direito de recorrer em liberdade
+Quanto ao pedido de incidência do privilégio do tráfico e direito de recorrer em liberdade, observo que a defesa não indicou, de forma clara e precisa, os dispositivos legais que haveriam sido infringidos com força normativa capaz de alterar o aresto atacado.
+O Superior Tribunal de Justiça tem a função primordial, por meio do recurso especial, de uniformizar a interpretação e a aplicação do direito federal infraconstitucional. Com isso, o conhecimento do recurso, seja ele interposto pela alínea "a" ou pela alínea "c" do permissivo constitucional, exige, necessariamente, a indicação do dispositivo de lei federal que se entende por contrariado.
+Assim, denoto a falta de fundamentação do apelo especial no ponto, circunstância que atrai a incidência da Súmula n. 284 do Supremo Tribunal Federal, aqui aplicada por analogia: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido:
+ ..
+II - A ausência de indicação do dispositivo legal que teria sido supostamente violado inviabiliza o conhecimento do Recurso Especial, pois incide à espécie a Súmula 284 do Supremo Tribunal Federal (AgRg no AREsp n. 1.842.386/SP, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), 5ª T., DJe de 28/10/2022).
+V. Dispositivo
+À vista do exposto, reconsidero a decisão outrora proferida pela Presidência desta Corte Superior e conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se e intimem-se.
