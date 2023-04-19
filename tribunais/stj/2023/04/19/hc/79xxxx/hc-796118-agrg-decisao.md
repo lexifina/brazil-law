@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo regimental interposto por FRANCISLEY VALDEVINO DA SILVA, contra a decisão da Presidência do Superior Tribunal de Justiça que indeferiu liminarmente a petição inicial, nos termos da Súmula n. 691 do Supremo Tribunal Federal.
+Consta dos autos que o ora Agravante é acusado da prática, em tese, das condutas descritas nos arts. 2º, caput, da Lei n. 12.850/2013, 2º, inciso IX, da Lei n. 1.521/1951, 1º, caput, da Lei n. 9.613/98, 7º, inciso II, da Lei n. 7.492/86, e 171, caput, do Código Penal. Os fatos foram identificados no âmbito da Operação Poyais da Polícia Federal, deflagrada em outubro de 2022, para apurar esquemas financeiros de investimento em criptomoedas fraudulentas.
+A ordem inicial de prisão (de 29/10/2022, cumprida em 3/11/2022) foi atacada em habeas corpus anteriormente impetrado na origem (HC n. 5047320-40.2022.4.04.0000), cuja liminar foi denegada em 18/11/2022 e o respectivo agravo regimental, interposto em 12/12/2022, encontra-se pendente de apreciação colegiada. Tal feito foi submetido a anterior apreciação desta Corte no HC n. 787.717/PR, com agravo regimental pendente de julgamento após indeferimento liminar da ordem em decisão de 28/11/2022.
+Em seguida, com o recebimento da denúncia e manutenção da prisão em 27/12/2022, a Defesa impetrou novo habeas corpus na origem (HC n. 5000094-05.2023.4.04.0000), tendo sido indeferida a liminar em 6/1/2023. O presente writ volta-se contra este último ato.
+Pretende-se, em suma, a concessão de liminar para revogação da prisão preventiva inicialmente decretada em desfavor do Paciente após o descumprimento de medidas cautelares diversas a si impostas, e mantida por ocasião do recebimento da denúncia, ocorrido em 27/12/2022.
+A petição inicial foi liminarmente indeferida, nos termos da decisão de fls. 86-89.
+O presente agravo regimental repisa os argumentos da inicial, requerendo a superação da Súmula n. 691/STF, conhecendo da impetração para que se conceda a ordem conforme pleiteado na exordial.
+É o relatório. Decido.
+Informam os assentamentos da Corte Federal a quo que houve a superveniência do julgamento do mérito do habeas corpus originário, no dia 21/6/2023, o que acarreta a prejudicialidade do presente agravo regimental. Inclusive, já houve interposição de recurso ordinário contra o julgado na instância a quo .
+Nesse sentido: " s e a decisão liminar de Desembargador, originariamente impugnada nestes autos, já foi substituída por decisão terminativa de segundo grau, é forçoso reconhecer a perda superveniente de objeto do habeas corpus e do agravo regimental que buscavam a superação da Súmula n. 691 do STF" (AgRg no HC 447.377/RJ, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 28/08/2018).
+Ante o exposto, JULGO PREJUDICADO o presente agravo regimental.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. IMPETRAÇÃO CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR EM OUTRO HABEAS CORPUS NA ORIGEM. SUPERVENIENTE JULGAMENTO DO MÉRITO. RECURSO PREJUDICADO.
