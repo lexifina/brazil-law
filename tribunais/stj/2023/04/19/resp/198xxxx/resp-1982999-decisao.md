@@ -1,0 +1,53 @@
+DECISÃO
+O Estado do Maranhão e o Instituto de Previdência dos Servidores do Estado do Maranhão - IPREV interpuseram agravo de instrumento em autos em que se discute o resgate das cotas dos fundos de investimento do FEPA/IPREV, insurgindo-se contra o fato de não ter havido nenhuma decisão do juízo monocrático, a despeito da urgência do caso e das várias provocações por meio de petições.
+Em análise do respectivo recurso, o Desembargador Relator deferiu o pedido de efeito ativo, determinando o resgate das cotas e dos respectivos rendimentos (fls. 312-347).
+Opostos embargos de declaração por ambas as partes, foram acolhidos os do Estado do Maranhão para suprir erro material e elevar a multa por descumprimento (fls. 720-723).
+O Banco do Brasil interpôs agravo contra a referida decisão, alegando a prejudicialidade do recurso, ao qual negou-se provimento, nos termos assim ementados pelo Tribunal de Justiça (fls. 824):
+AGRAVO INTERNO. RESGATE DE FUNDOS DEINVESTIMENTO DE CONDOMÍNIO ABERTO COM PRAZO DE CARÊNCIA. MANUTENÇÃO DA DECISÃO AGRAVADA.
+1. A decisão agravada deve ser mantida quando, no agravo interno, a parte agravante não consegue demover os fundamentos adotados na decisão agravada.
+2. Agravo conhecido e desprovido. Unanimidade.
+Os embargos de declaração opostos foram rejeitados (fls. 843-852).
+O Banco do Brasil S.A. e o BB Gestão de Recursos - Distribuidora de Títulos e Valores Mobiliários S.A. interpuseram recurso especial, com fundamento no art. 105, III, a, da Constituição Federal, alegando a violação do art. 489, § 1º, III, IV, V, e VI, arts. 1.022, II, art. 1.023, e art. 1.026, do CPC/2015, por omissão no acórdão recorrido quanto aos argumentos de perda de objeto superveniente do agravo de instrumento, da fixação legal de prazo de carência para resgate das cotas em fundos de investimentos, independente de sua natureza aberta (arts. 104, 113 e 442, do CC/2002), e da redução da multa cominatória, nos termos do art. 537, § 1º, I e II, do CPC/2015.
+Aduziram, ainda, negativa de vigência aos arts. 932, III, e 933, § 1º e § 2º, do CPC/2015, sustentando que não poderia o Tribunal de origem conhecer e apreciar o recurso de agravo de instrumento após a prolação da decisão proferida pelo juiz sentenciante. Isso porque o objeto do recurso era a negativa de prestação jurisdicional, tendo sido prejudicado antes do julgamento colegiado na questão pela Corte Estadual.
+Alegaram a ofensa aos arts. 1.008 e 1.015, caput, I, do CPC/2015, porquanto o agravo de instrumento seria incabível, por não ter sido interposto contra decisão alguma, o que não é hipótese de utilização do instrumento recursal.
+Sustentaram a violação dos arts. 104 e 421 do CC/2002, pois deve ser respeitado o prazo de carência estabelecido em regulamento para resgate dos fundos em debate, mesmo para aqueles constituídos na forma de condomínio aberto.
+Relataram, ainda, que não foram preenchidos os requisitos para deferimento da tutela provisória de urgência antecipada, desrespeitando o previsto no art. 300, caput, § 3º, do CPC/2015. Isso porque o fundamento no sentido de inexistência de prazo de carência dos fundos de investimento é indevido e ainda assim foi considerado para justificar a probabilidade do direito.
+Pontuaram, por fim, que foi desrespeitado o art. 537, § 1º, I e II, do CPC/2015, pois a multa cominada para o cumprimento da obrigação tornou-se excessiva e o obrigado, além de apresentar justa causa para o descumprimento, demonstrou o cumprimento parcial da determinação.
+Foram apresentadas contrarrazões às fls. 994-1.028.
+É o relatório. Decido.
+Em relação à indicada violação dos arts. 489 e 1.022 do CPC/2015, não se vislumbra pertinência na alegação, tendo o julgador dirimido a controvérsia tal qual lhe fora apresentada, em decisão devidamente fundamentada, sendo a irresignação da recorrente evidentemente limitada ao fato de estar diante de decisão contrária a seus interesses, o que não viabiliza o referido recurso declaratório.
+Descaracterizada a alegada omissão, tem-se de rigor o afastamento da violação dos mencionados artigos processuais, conforme pacífica jurisprudência do Superior Tribunal de Justiça:
+ADMINISTRATIVO E PROCESSUAL CIVIL. DEFICIÊNCIA NA PRESTAÇÃO JURISDICIONAL. ART. 1022 DO CPC/2015. OFENSA NÃO VERIFICADA. BASE DE CÁLCULO DA CONTRIBUIÇÃO DEVIDA AO FUNDO DE GARANTIA DO TEMPO DE SERVIÇO.
+1. Verifica-se não ter ocorrido ofensa aos arts. 489, § 1º e 1.022, II, do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+ ..
+3. Agravo interno desprovido.
+(AgInt no REsp 1.643.573/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 8/11/2018, DJe 16/11/2018.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE EXIBIÇÃO DE DOCUMENTOS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC/15. INOCORRÊNCIA. FUNDAMENTAÇÃO. DEFICIENTE. SÚMULA 284/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ausentes os vícios do art. 1022 do CPC/15, rejeitam-se os embargos de declaração.
+2. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/15.
+3. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+ ..
+6. Agravo interno não provido.
+(AgInt no REsp 1.719.870/RS, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 24/9/2018, DJe 26/9/2018.)
+Doravante, na origem, o presente recurso deriva de ação ordinária com preceito cominatório c/c pedido de tutela provisória de urgência antecipada, proposta pelo Estado do Maranhão e IPREV - Instituto de Previdência dos Servidores do Estado do Maranhão, em que pretendem a realização de resgate antecipado de cotas de titularidade da autarquia previdenciária estadual, correspondente a 04 (quatro) Fundos de Investimento administrados pela BB Gestão de Recursos - DTVM S. A.
+Sustenta o recorrente que os ora recorridos interpuseram agravo de instrumento no dia 21/06/2018 contra a demora do Juízo de 1º grau em se manifestar sobre o pedido de tutela de urgência apresentado. Entretanto, no dia 26/06/2018, foi prolatada decisão por aquele juízo.
+Ocorre que, no dia 28/06/2018, o TJMA, ao analisar o agravo de instrumento interposto, também concedeu tutela de urgência em favor dos Recorridos. Por essa razão, alega o recorrente que esta segunda decisão, do Juízo de 2º grau, estaria violando os arts. 932, III, e 933, §§ 1º e 2º, ambos do CPC, já que teria ocorrido a perda superveniente do agravo de instrumento interposto.
+Sustenta, ainda, que a decisão proferida no agravo de instrumento estaria eivada de vícios, o que justificaria o provimento do presente recurso especial.
+Em que pesem os argumentos apresentados pelo recorrente, a jurisprudência desta Corte é no sentido de que não é cabível recurso especial contra acórdão que defere ou indefere medida liminar ou antecipação dos efeitos da tutela, haja vista a natureza precária da decisão. . Incide analogicamente o enunciado n. 735 da Súmula do STF: "não cabe recurso extraordinário contra acórdão que defere medida liminar."
+Confiram-se os seguintes precedentes:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ACÓRDÃO COMBATIDO. TUTELA DE URGÊNCIA. NATUREZA PRECÁRIA E PROVISÓRIA. DO DECISUM. REAVALIAÇÃO. IMPOSSIBILIDADE. FUNDAMENTO. IMPUGNAÇÃO. AUSÊNCIA.
+1. É firme a orientação jurisprudencial desta Corte acerca da impossibilidade de se rever, em recurso especial, a existência dos requisitos suficientes para a concessão de medida urgente, em razão do óbice da Súmula 7 do STJ, bem assim da Súmula 735 do STF.
+2. O juízo de mérito desenvolvido em sede liminar, fundado na mera verificação da ocorrência do periculum in mora e da relevância jurídica da pretensão deduzida pela parte interessada, não enseja o requisito constitucional do esgotamento das instâncias ordinárias, indispensável ao cabimento dos recursos extraordinário e especial, conforme exigido expressamente na Constituição Federal - "causas decididas em única ou última instância".
+3. Esta Corte de Justiça admite a mitigação do Enunciado 735 do STF, especificamente quando a própria medida importar em ofensa direta à lei federal que disciplina a tutela provisória (art. 300 do CPC/2015), situação que não se vislumbra na espécie.
+4. Havendo fundamento suficiente para a manutenção do aresto recorrido, não impugnado nas razões do especial, incide na espécie a Súmula 283 do STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 1.907.919/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 21/2/2022, DJe de 24/2/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA. TUTELA PROVISÓRIA. SÚMULAS 7/STJ E 735/STF.
+1. Não há ofensa ao art. 1.022 do Código de Processo Civil, porque o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia referente à não expedição imediata de alvará de levantamento. O aresto recorrido enfrentou a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+2. A jurisprudência do Superior Tribunal de Justiça é de que é inviável em Recurso Especial rever os fundamentos de presença ou não dos requisitos pra concessão de tutela de urgência, em razão da incidência do óbice das Súmulas 7/STJ e 735/STF.
+3. Agravo Interno não provido.
+(AgInt no AREsp n. 1.774.523/PR, relator Ministro Herman Benjamin, Segunda Turma, julgado em 29/11/2021, DJe de 16/12/2021.)
+Além disso, conforme o entendimento desta Corte Superior, o especial interposto contra acórdão que decide pedido de antecipação de tutela admite, "tão somente, discutir eventual ofensa aos próprios dispositivos legais que disciplinam o tema (art. 300 do CPC/2015, correspondente ao art. 273 do CPC/1973), e não violação a norma que diga respeito ao mérito da causa" (AgInt no AREsp n. 1.943.057/RJ, relator MINISTRO RAUL ARAÚJO, QUARTA TURMA, julgado em 14/3/2022, DJe de 4/4/2022).
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
