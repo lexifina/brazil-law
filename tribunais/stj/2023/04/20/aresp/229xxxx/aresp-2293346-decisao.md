@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de agravo apresentado por ALVEOTECH INDUSTRIA E COMERCIO DE EMBALAGENS RETORNAVEIS EIRELI contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim resumido:
+AGRAVO DE INSTRUMENTO. CONTRIBUIÇÕES PREVIDENCIÁRIA E DESTINADAS A TERCEIROS. EXCEÇÃO PRÉ-EXECUTIVIDADE. NULIDADE CDA. NECESSIDADE DE PROVAS. IMPOSSIBILIDADE. RECURSO NEGADO.
+Quanto à controvérsia, alega violação dos arts. 783 e 803, I, do CPC, no que concerne ao cabimento da exceção de pré-executividade para o reconhecimento da nulidade da execução fiscal, pois a matéria alegada não demanda dilação probatória, trazendo os seguintes argumentos:
+Com efeito, ao contrário do que entendeu o MM. Juiz "a quo", a matéria em testilha pode ser analisada via exceção de pré-executividade, uma vez que não demanda dilação probatória.
+ ..
+Com efeito, nos julgados suso citados, o Egrégio SUPERIOR TRIBUNAL DE JUSTIÇA admite a forma excepcional de defesa em exceção de pré- executividade, desde que as matérias extintivas ou modificativas da pretensão do exequente sejam de direito, ou comprovadas de plano, ou seja, sem a necessidade da produção de outras provas além daquelas constantes dos autos ou trazidas com a própria exceção.
+Esse é o caso dos autos, afinal, os títulos que lastreiam a presente execução fiscal, são certidões da dívida alusivas a contribuição previdenciária, posto que, os ditos créditos tributários consideraram em suas bases de cálculo circunstâncias em que não há prestação de serviço, nem tão pouco natureza retributiva da verba paga, pelo que não restou configurado, por consequência, a hipótese de incidência tributária.
+ ..
+Nesse diapasão, tendo em vista que "in casu", as questões de fato se encontram comprovadas de plano e de outra banda, a questão de direito, que é o reconhecimento da ilegalidade das exigências, independe de dilação probatória, sendo essa matéria perfeitamente passível de ser conhecida por meio de exceção de pré-executividade, ao contrário do que restou concluído na r. Decisão recorrida, afigura-se totalmente cabível a utilização da exceção de pré-executividade para o caso em apreço, razão pela qual deve ser reformado o "Decisum" guerreado (fls. 127-130).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Entretanto, in casu, as alegações formuladas pela agravante, no tocante a inexigibilidade dos débitos presentes nas cda"s demandam produção de provas, o que não se admite na via eleita, sendo certo que a impugnação neste particular pode ser formulada através dos embargos à execução, com o oferecimento de garantia para tanto.
+Desta feita, diante da necessidade de dilação probatória, inafastável a conclusão no sentido de que tais matérias não podem ser conhecidas em sede de exceção de pré-executividade.  ..
+ ..
+Ademais, pela simples leitura das certidões de dívida ativa em questão, não é possível verificar a existência de cobrança de contribuições inexigíveis apontadas pela agravante.
+O mesmo entendimento é aplicável à limitação da base de cálculo das contribuições de terceiros a 20 (vinte) salários mínimos (fls. 98-99).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
