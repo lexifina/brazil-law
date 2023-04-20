@@ -1,0 +1,35 @@
+DECISÃO
+MATHEUS BORGES GOMES CELESTINO alega sofrer coação ilegal em seu direito a locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro na Apelação Criminal n. 0033074-71.2022.8.19.0001.
+Consta dos autos que o paciente foi condenado à pena de 2 anos de reclusão, no regime aberto, mais 200 dias-multa, como incurso no art. 33 c/c o art. 40, IV e VI, da Lei n. 11.343/2006 (fls. 419-426).
+O Tribunal de origem, por sua vez, deu provimento à apelação ministerial para condenar o réu também pela prática do delito do art. 35 da Lei de Drogas, afastar a incidência da minorante do § 4º do art. 33 da Lei n. 11.343/2006, e fixar as reprimendas em 9 anos de reclusão, no regime inicialmente fechado, e 1.300 dias-multa (fls. 12-30).
+A defesa pleiteia, por meio deste writ, a absolvição do paciente em relação ao crime de associação para o tráfico de drogas, por entender não comprovado nos autos o ânimo associativo e nem a estabilidade do grupo.
+Decido.
+No que tange à pretendida absolvição do paciente em relação ao delito de associação para o tráfico de drogas, faço lembrar que, considerando a expressão utilizada pelo legislador, de que a associação entre duas ou mais pessoas seja para o fim de praticar, reiteradamente ou não, qualquer dos crimes previstos nos arts. 33, caput e § 1º, e 34, da Lei de Drogas, a jurisprudência deste Superior Tribunal firmou o entendimento de que, para a subsunção da conduta ao tipo previsto no art. 35 da Lei n. 11.343/2006, é necessária a demonstração concreta da estabilidade e da permanência da associação criminosa, conforme, aliás, já expressei no HC n. 220.231/RJ, julgado em 5/4/2016 (DJe 18/4/2016).
+Assim, para a caracterização do delito previsto no art. 35 da Lei de Drogas, é necessário que o animus associativo seja efetivamente provado. Isso porque, se assim não fosse, estaria evidenciado mero concurso de agentes para a prática do crime de tráfico de drogas.
+A Corte estadual ao analisar o recurso de apelação, justificou a condenação com os argumentos que seguem (fls. 24-27, destaquei):
+Com razão o Parquet quando pugnou pela condenação dos apelados também pelo crime de associação para o tráfico, já que devidamente comprovada pelo robusto acervo probatório carreado aos autos, ficando demonstrado que os apelados e elementos da facção criminosa que domina o tráfico local se reuniram com vontade de se aliarem de maneira permanente e com estabilidade, com o fim de praticar o crime de tráfico de drogas.
+Na espécie, pune-se aquele que, reiteradamente ou não, se associa para o fim de cometer o crime de tráfico de drogas, situação que bem se amolda à hipótese presente.
+Como é de conhecimento de todos, nas localidades onde são comandadas por facção criminosa, no presente caso, Comando Vermelho, é impossível que alguém realize o comércio ilícito sem pertencer a tal organização ou aliar-se ao "Chefe", ainda mais portando arma de fogo.
+ ..
+Registre-se que os acusados foram detidos em local conhecido como ponto de venda de drogas, controlado pela facção criminosa Comando vermelho, sendo encontrado com eles quantidade significativa de material entorpecente, tudo embalado para venda, armamento bélico e dois rádios comunicadores.
+Por todo o exposto, evidente a autoria no tocante à conduta de associação para o tráfico, devendo por este crime também ser condenados.
+ ..
+Embora tratar-se de réu primário e com bons antecedentes, no caso em tela, entendo inaplicável a redução pleiteada, considerando que restou demonstrado que o apelante se dedicava à atividade e organização criminosas do tráfico de drogas no local, já que exercia o comércio ilícito, juntamente com outros indivíduos de forma organizada, cada um com sua função, até mesmo porque condenado pelo delito de associação para o tráfico. Portanto, não faz jus à causa de diminuição de pena.
+O writ comporta pronta solução, por decisão monocrática, pois existe entendimento pacífico sobre o tema.
+Deveras, " o  avanço para julgamento in limine de questões pacificadas pelo colegiado, com lastro no art. 34, XVIII, "b", do RISTJ, está em consonância com o princípio da efetiva entrega da prestação jurisdicional e visa a otimizar o processo e seus atos, para viabilizar sua razoável duração e a concentração de esforços em lides não iterativas (AgRg no HC n. 659.494/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 24/6/2021)" (AgRg no HC n. 736.796/SC, Rel. Min. Rogerio Schietti, 6ª T., DJe 16/5/2022).
+Pelos trechos anteriormente transcritos, verifico que o Tibunal de origem, após minuciosa análise do conjunto fático-probatório amealhado aos autos, concluiu pela existência de elementos a ensejar a condenação do acusado pelo crime de associação para o tráfico (art. 35 da Lei n. 11.343/2006).
+Para desconstituir a conclusão alcançada pelo Tribunal a quo - como pretende a defesa ao alegar não comprovados o ânimo associativo e a estabilidade - seria necessário, nesta oportunidade, realizar aprofundado reexame de provas, o que, no entanto, é inviável nos estreitos limites de cognição desta ação constitucional.
+As duas Turmas que compõem a Terceira Seção do Superior Tribunal de Justiça entendem não ser cabível, em habeas corpus, o reexame aprofundado de fatos e provas para acolher o pedido de absolvição. Nesse sentido, cito os seguintes julgados:
+ ..
+1. A alegada inocência do paciente, a ensejar a pretendida absolvição, é questão que demanda aprofundada análise de provas, o que é vedado na via estreita do remédio constitucional, que possui rito célere e desprovido de dilação probatória.
+2. No processo penal brasileiro vigora o princípio do livre convencimento, em que o julgador, desde que de forma fundamentada, pode decidir pela condenação, não cabendo na angusta via do writ o exame aprofundado de prova no intuito de reanalisar as razões e motivos pelos quais as instâncias anteriores formaram convicção pela prolação de decisão repressiva em desfavor do paciente.
+3. Nos crimes contra a liberdade sexual, geralmente cometidos à clandestinidade, a palavra da vítima assume preponderante importância, como na hipótese vertente, pois se mostrou coerente, expondo os fatos com riqueza de detalhes. Precedentes.
+4. Habeas corpus não conhecido.
+(HC n. 267.027/DF, Rel. Min. Jorge Mussi, 5ª T., DJe 22/5/2013)
+ ..
+2. A via estreita do habeas corpus não se presta ao revolvimento da matéria fática, como ocorre quando a decisão é atacada sob alegações de má apreciação das provas e de desclassificação da conduta, devendo a coação ser manifestamente ilegal.
+3. Estabelecida a pena definitiva em 5 anos e 10 meses de reclusão, sendo primário o agente e favoráveis as circunstâncias judiciais, o regime semiaberto é o adequado à prevenção e à reparação do delito, nos termos do art. 33 do Código Penal.
+4. Habeas corpus não conhecido, mas ordem concedida de ofício para fixar o regime inicialmente semiaberto para o cumprimento da pena reclusiva.
+(HC n. 270.011/SP, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 22/4/2016).
+À vista do exposto, denego a ordem, in limine.
+Publique-se e intimem-se.
