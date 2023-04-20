@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial por ausência de demonstração de ofensa aos artigos arrolados e falta de comprovação do dissídio jurisprudencial (e-STJ fls. 644/646).
+O acórdão recorrido está assim ementado (e-STJ fl. 555):
+AÇÃO DE OBRIGAÇÃO DE FAZER. Sentença de parcial procedência para condenar a ré ao pagamento das parcelas mensais relativas a sonorização dos aposentos existentes em seu estabelecimento a partir de 03/2011 e das parcelas mensais relativas a sonorização do respectivo restaurante a partir de 05/2015, de acordo com a Tabela de preços instituída pelo ECAD, excluindo-se a multa de 10%.
+Apela o autor sustentando suspensão ou interrupção de qualquer comunicação a público de obras musicais, lítero-musical, audiovisuais e fonogramas pela ré, enquanto não providenciar a prévia e expressa autorização; alternativamente pede seja depositado nos autos o valor mensal referente às cobranças objeto da lide; pagamento da multa de 10%; os juros de mora incidem a partir do vencimento de cada parcela.
+Apela o réu sustentando não incidir a cobrança de direitos autorais sobre os aparelhos televisores existentes nos apartamentos do hotel; o autor cobra valores relativos a direitos autorais das emissoras de televisão e rádio e do hotel pelo mesmo fato gerador, o que caracteriza bis in idem e enriquecimento sem causa; pugna seja reconhecido o reconhecimento da prescrição trienal.
+Recurso do autor descabido. Parcialmente cabível o do réu.
+Direitos autorais. Cobrança. Disponibilização de TV e rádio em quartos de hotel e restaurante. Estabelecimento reconhecido como local de frequência coletiva, sendo vedada a utilização de fonogramas e obras audiovisuais sem prévia e expressa autorização do autor ou titular. Inteligência do art. 68, §§ 2º e 3º, Lei nº 9.610/98. Inviabilidade do afastamento da cobrança. Obrigação de pagamento já reconhecida pelo STJ. Impossibilidade de cobrança de multa moratória unilateralmente estabelecida, sem amparo legal ou contratual. Descabimento da suspensão/interrupção da execução/sonorização ambiental até prévia e expressa autorização do réu.
+Recurso do autor improvido, parcialmente provido o do réu, apenas para reconhecer ser hipótese de aplicação de prescrição trienal.
+Os embargos de declaração foram acolhidos sem efeitos modificativos, nos termos da seguinte ementa (e-STJ fl. 610):
+EMBARGOS DE DECLARAÇÃO.
+Embargante sustenta que a despeito de ter sido acolhida a tese recursal para fins de modificação do termo inicial dos juros, foi negado provimento ao recurso da ré. Acolhimento. Erro material. Era caso de ter sido dado parcial provimento ao recurso do autor, porque acolhida em parte a sua pretensão recursal, para reconhecer a ocorrência dos juros de mora a contar do evento danoso. Ao invés de constar "nega-se provimento ao recurso do autor" deveria ter constado "dá-se parcial provimento ao recurso do autor apenas para reconhecer a modificação do termo inicial dos juros, que devem incidir a partir do evento danoso".
+Embargos acolhidos, sem efeitos modificativos.
+Nas razões do recurso especial (e-STJ fls. 574/585), interposto com fundamento no art. 105, III, "a" e "c", da CF, a recorrente apontou, além de dissídio jurisprudencial, ofensa aos seguintes dispositivos de lei:
+(a) art. 68, caput e §§ 2º e 3º, da Lei n. 9.610/1998, na medida em que referido artigo faria menção à representação e execuções públicas. Sustentou que "os quartos de hotéis são destinados a famílias e pessoas específicas (hóspedes), não sendo abertos a estranhos, assim não é possível se considerar um televisor dentro de um quarto, com uma ou duas pessoas em seu interior, como uma exibição ou execução pública. Claramente não é essa a intenção do legislador ao se utilizar da expressão "execuções públicas"" (e-STJ fl. 580). Acrescentou que, dentro dos apartamentos, o uso dos aparelhos de televisão é conduzido exclusivamente pelos hóspedes, estando fora de controle pelo hotel, e
+(b) art. 23 da Lei n. 11.771/2008, porque os aposentos ou quartos de hotéis seriam locais de frequência individual, e não pública ou coletiva.
+Indica julgado do TJRS para demonstrar a divergência de entendimentos.
+Contrarrazões às fls. 615/632 (e-STJ).
+No agravo (e-STJ fls. 649/663), declara a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 666/674).
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+A Corte local, ao entender ser cabível o pagamento ao ECAD de direitos autorais decorrentes da sonorização dos quartos do hotel, decidiu em consonância com a jurisprudência desta Corte, firmada pela Segunda Seção, nos julgamentos dos Recursos Especiais repetitivos n. 1.870.771/SP, 1.873.611/SP e 1.880.121/SP, de minha relatoria, nos quais foram fixadas as seguintes teses jurídicas:
+a) A disponibilização de equipamentos em quarto de hotel, motel ou afins para a transmissão de obras musicais, literomusicais e audiovisuais permite a cobrança de direitos autorais pelo Escritório Central de Arrecadação e Distribuição - ECAD; e
+b) A contratação por empreendimento hoteleiro de serviços de TV por assinatura não impede a cobrança de direitos autorais pelo Escritório Central de Arrecadação e Distribuição - ECAD, inexistindo bis in idem.
+Nesse sentido ainda:
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL. DIREITOS AUTORAIS. QUARTO DE HOTEL. APARELHOS TELEVISORES. TV POR ASSINATURA. COBRANÇA. POSSIBILIDADE. LEI Nº 9.610/1998. CAPTAÇÃO E TRANSMISSÃO DE RADIODIFUSÃO. FATOS GERADORES DISTINTOS. BIS IN IDEM. INEXISTÊNCIA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. À luz das disposições insertas na Lei nº 9.610/1998 e consoante a jurisprudência consolidada do Superior Tribunal de Justiça, a simples disponibilização de aparelhos radiofônicos e televisores em quartos de hotéis, motéis, clínicas e hospitais autoriza a cobrança, pelo Escritório Central de Arrecadação e Distribuição (ECAD), dos direitos autorais de todos os titulares filiados às associações que o integram.
+3. Para fins de reconhecimento da possibilidade da cobrança, é irrelevante que a execução não autorizada de obras musicais e audiovisuais em locais de frequência coletiva tenha se dado a partir da disponibilização de aparelho televisor com equipamento receptor do sinal de TV a cabo ou TV por assinatura.
+4. Na cobrança de direitos autorais por suposta utilização não autorizada de obra artística, não se pode confundir a obrigação da empresa exploradora do serviço de hotelaria com a obrigação da empresa prestadora dos serviços de transmissão de sinal de TV por assinatura, pois resultam de fatos geradores distintos, a saber: (i) a captação de transmissão de radiodifusão em locais de frequência coletiva (quartos de hotel) e (ii) a radiodifusão sonora ou televisiva em si.
+5. Agravo interno não provido.
+(AgInt no REsp n. 1.862.696/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 27/9/2021, DJe de 30/9/2021.)
+Incide, portanto, a Súmula n. 83/STJ, que se aplica aos recursos interpostos com base nas alíneas "a" e "c" do permissivo constitucional.
+Ressalto que a redação do § 3º do art. 68 da Lei n. 9.610/1998 transcrita no especial é a dada pela MP n. 907/2019, a qual não foi analisada pela Corte de origem, não estando, portanto, prequestionada.
+Com efeito, o acórdão dos embargos de declaração foi publicado em 6/12/2019, data em que a referida medida provisória estava em vigor, de forma que deveria a recorrente ter apresentado o tema à Corte local. Como não o fez, a matéria não pode ser analisada no especial.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo, bem como eventual concessão dos benefícios da justiça gratuita.
+Publique-se e intimem-se.
