@@ -1,0 +1,27 @@
+DECISÃO
+FLÁVIO HENRIQUE SILVA SANTOS, segregado desde 7/11/2022, por suspeita de tráfico de drogas, alega sofrer coação ilegal em face de acórdão do Tribunal a quo. Busca a revogação de sua prisão preventiva, por considerar que não estão motivados idoneamente seus requisitos ensejadores, principalmente quando considerada sua dependência química e a apreensão de quantidade de droga não significativa.
+Deferida a liminar, o autos foram encaminhados ao Ministério Público Federal, que opinou pela concessão da ordem ex offício.
+Decido.
+A teor da denúncia:
+ ..  no dia 07 de novembro de 2022,  .. , o denunciado trazia consigo drogas ("crack" - cocaína) para posterior entrega a terceiros, sem autorização e em desacordo com determinação legal e regulamentar. Segundo apurado, nas circunstâncias de tempo e local acima mencionados, o denunciado após avistar os policiais durante patrulhamento  ..  demonstrou-se bastante nervoso, razão pela qual os policiais se deslocaram até o lugar que ele estava. Nesse momento, o acusado lançou um objeto por cima do muro do local supracitado, sendo essa ação presenciada pelos policiais que visualizaram toda a trajetória do invólucro que ao cair no solo revelou 01 (uma) pedra de crack, de massa 23,75 g  .. .
+O édito prisional foi assim fundamentado (fls. 72-73, grifei):
+No caso concreto, presentes estão os requisitos cumulativos exigidos pelos artigos 312 e 313 do CPP, recentemente alterados pela Lei nº 13.964/2019, para a decretação da prisão preventiva.
+ ..
+No caso em exame, o autuado foi preso pela prática, em tese, de crime equiparado a hediondo, isto é, tráfico de drogas. O risco social do agente está demonstrando, a meu ver, neste juízo de cognição sumária, pelo fato de ser multirreincidente, já que condenado definitivamente por diversos crimes de furto (ações penais 0283994-82.2013.8.13.0313, 0283978-31.2013.8.13.0313, 0284059-77.2013.8.13.0313 e 0284034-64.2013.8.13.0313), além de estar em pleno cumprimento de pena, conforme se vê da CAC e atestado de pena de Id"s 9650469238 e 9650372851, o que evidencia, concretamente, sua inclinação para a prática de delitos e justifica a prisão preventiva para a garantia da ordem pública, a fim de impedir a reiteração das condutas criminosas.
+O Tribunal de origem denegou a impetração originária, por maioria de votos.
+O Juiz indicou a materialidade do crime e indícios razoáveis de sua autoria. Contextualizou, ainda, a periculosidade social do réu, ante a multirreincidência e a prática da conduta durante a execução penal.
+A teor dos julgados desta Corte, a prisão preventiva é compatível com a presunção de não culpabilidade desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP). Precisa apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+Não há vício de motivação no ato judicial. Está justificado o periculum libertatis, pois "maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso,  ..  denotam  ..  contumácia delitiva e, por via de consequência,  ..  periculosidade" (AgRg no RHC 139.514/RS, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 16/6/2021).
+Conquanto a fundamentação (multirreincidência e prática de novo crime durante a execução) denote a necessidade de acautelamento da ordem pública, pois reveladora do risco de reiteração delitiva, é insuficiente, em juízo de proporcionalidade, para justificar a escolha da cautela extrema, principalmente quando sopesadas a gravidade do crime e suas circunstâncias.
+A conduta está relacionada à apreensão de 23,75g de crack, não ocorreu em contexto de violência ou grave ameaça contra pessoa e não revela periculosidade exacerbada. Não foram apreendidos apetrechos para o comércio habitual de droga, as condenações anteriores do réu são relacionadas a furto e não há sinais de envolvimento com associação ou organização criminosa. Assim, em juízo perfunctório, é proporcional à hipótese a imposição de medidas cautelares diversas da prisão.
+Aplica-se ao caso o entendimento, mutatis mutandis, de que:
+ ..
+2. Em que pese o paciente seja reincidente, tem-se que as circunstâncias do delito não ultrapassam a normalidade do tipo penal, o que, somado ao fato de não haver nos autos notícias de seu envolvimento com organização criminosa e ser o crime em questão praticado sem violência ou grave ameaça à pessoa, indica a prescindibilidade da prisão preventiva e a suficiência das medidas cautelares menos gravosas.
+3. Agravo regimental desprovido.
+(AgRg no HC 694.134/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 14/12/2021, DJe 16/12/2021).
+À vista do exposto, concedo o habeas corpus para, ratificada a liminar , substituir a prisão preventiva dos paciente pelas seguintes medidas do art. 319 do CPP:
+a) proibição de acesso ou frequência a locais em que se comercializam drogas;
+b) comparecimento periódico em juízo, no prazo e nas condições a serem fixadas pelo juiz, para informar e justificar atividades;
+c) recolhimento domiciliar no período noturno, das 20h às 6h .
+Não há prejuízo de substituição das medidas ora estabelecidas ou da fixação de outras, em acréscimo, nem de restabelecimento da prisão preventiva, se sobrevier situação nova que evidencie sua imprescindibilidade.
+Publique-se e intimem-se.
