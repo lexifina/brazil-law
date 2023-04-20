@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSS com apoio no art. 105, III, "a", da Constituição Federal contra acórdão proferido pelo Tribunal Regional Federal da 1ª Região.
+Alega a parte recorrente, preliminarmente, que o acórdão recorrido violou o art. 535, II, do CPC/1973.
+No mérito propriamente dito, afirma que a decisão contraria "o artigo 31 da Lei nº 8.213/91, em sua redação original, bem como afronta os artigos 29, § 2, 33, 41, § 3º e 136 , todos também da Lei nº .8.213/91".
+É o que importa relatar.
+Entendo que o recurso não deve ser conhecido.
+Embora a parte recorrente tenha apontado vulneração do art. 535, II, do CPC/1973, observa-se que nas razões do recurso especial limitou-se a indicar genericamente omissão e contradições sem, contudo, explicitar e indicar de maneira clara e precisa os pontos efetivamente omissos ou incongruentes do acórdão impugnado, não indicando, também, as matérias sobre as quais a instância ordinária deveria se pronunciar, nem demonstrando a relevância delas para o julgamento do feito.
+Sendo genéricas as alegações que tentam fundamentar a apontada vulneração, de rigor a incidência da Súmula 284 do STF (AgInt no REsp 1612743/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 29/06/2021, DJe 02/08/2021).
+No mérito propriamente dito, o fundamento principal para julgar improcedente o pedido da ação rescisória não foi diretamente combatido, a saber:
+Em razão disso, não serve de fundamento para procedência da presente ação rescisória o fato de terem as turmas deste Tribunal alterado seu posicionamentos sobre a matéria, após os julgamentos do Supremo Tribunal Federal. A reforma de entendimento ocorreu mais por razões práticas que jurídicas, evitando-se delongas desnecessárias e criações de expectativas falsas para os segurados que têm ajuizadas demandas discutindo a questão. Esta Primeira Seção, apesar do entendimento firmado pelo STF sobre a matéria, tem reiteradamente julgado improcedentes ações rescisórias similares a esta, seja porque o entendimento firmado no STF não é vinculante, seja porque a divergência de entendimentos sobre o tema nos Tribunais era manifesta, ou, ainda, porque o Plenário deste Tribunal declarou a inconstitudonalidade dos artigos 29, parágrafo 2º, e 33, da Lei 8.213/91. (e-STJ fl. 173)
+O recurso da autarquia se limitou a tratar genericamente da matéria de fundo a respeito dos arts. 29 e 33 da Lei n. 8.213/1991, nada dispondo a respeito do fundamento em concreto que levou à improcedência do pedido, aplicando-se a Súmula 283 do STF ao caso.
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+Publique-se. Intimem-se.
