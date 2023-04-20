@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de Michaeli Bianca Ribeiro Fiuza, apontando-se como órgão coator o Tribunal de Justiça de São Paulo, que negou provimento ao agravo em execução interposto pela defesa para manter o reconhecimento da falta grave - prevista no art. 50, VI, da Lei de Execuções Penais -, com os seus consectários legais (Agravo em Execução n. 0000364-58.2023.8.26.0521).
+Sustenta a defesa a atipicidade de sua conduta, ante a ausência de dolo, afirmando que não houve, em momento algum o descumprimento de ordem, pois a sentenciada não se negou a entregar o rádio a agente quando fora solicitado, descaracterizando totalmente a motivação que enseja uma falta de natureza grave (fl. 4), motivo pelo qual requer a absolvição da paciente.
+Subsidiariamente, alega que não há previsão legal para o reinício da contagem do prazo para a progressão de regime prisional, bem como que há desproporcionalidade na fixação da perda de 1/3 dos dias remidos.
+Afirma, também, a ilegalidade do prazo estabelecido para a reabilitação da falta grave, arguindo a inconstitucionalidade formal e material do art. 89, III, da Resolução SAP n. 144/20 10.
+Requer, assim, o deferimento liminar da ordem de habeas corpus para a imediata absolvição da falta grave a ela imputada  .. . Caso contrário, seja declarada a nulidade do acórdão por ferir a coisa julgada, determinando o retorno dos autos à 3ª Câmara Criminal do Tribunal de Justiça do Estado de São Paulo/SP, para decidir quanto a absolvição da falta grave protegida a sentença sob o manto da coisa julgada (fl. 16).
+É o relatório.
+De início, cumpre ressaltar que, tendo as instâncias ordinárias reconhecido que a paciente cometeu falta grave (art. 50, VI, da Lei de Execuções Penais), a revisão dos julgados demandaria a revisão do conjunto fático-probatório dos autos, o que se afigura inviável na via eleita, de rito célere e cognição sumária.
+De outro lado, conforme entendimento desta Corte, o cometimento da referida falta no curso da execução penal autoriza a regressão de regime (art. 118, I, da LEP), a alteração da data-base do prazo para a concessão de benefícios executórios, salvo para livramento condicional (Súmula 441/STJ), comutação de pena ou indulto (Súmula 535/STJ), e a perda do dias remidos.
+No caso, houve o reconhecimento da falta grave e, via de consequência, a alteração da data-base e a perda de 1/3 dos dias remidos, não existindo, portanto, constrangimento ilegal a ser sanado, notadamente porque a aplicação da fração máxima, prevista no art. 127 da LEP encontra-se devidamente fundamentada, ipsis litteris: Justifica-se a perda de eventual remição de penas no máximo legal em razão da gravidade da falta disciplinar, a exigir maior rigor na punição e como forma de desestimular a reiteração (fl. 76).
+Por fim, não se conhece da arguida violação do art. 89, III, da Resolução SAP n. 144/2010, pois, além da incompetência desta Corte para a apreciação da matéria, o seu exame caracterizaria indevida supressão de instância.
+Diante do exposto, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. ATIPICIDADE DA CONDUTA. REVOLVIMENTO DE PROVAS. CONSECTÁRIOS LEGAIS. INTERRUPÇÃO DO LAPSO TEMPORAL PARA PROGRESSÃO E PERDA DOS DIAS REMIDOS. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Writ indeferido liminarmente.
