@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de agravo interposto pelo MUNICIPIO DE LUZIANIA contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que o agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS cuja ementa guarda os seguintes termos (fl. 257):
+REMESSA NECESSÁRIA E APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C COBRANÇA. SERVIDOR PÚBLICO. PROFESSOR MUNICIPAL. TERÇO CONSTITUCIONAL DE FÉRIAS. DÉCIMO TERCEIRO SALÁRIO. DESCONTOS INDEVIDOS. CONSECTÁRIOS DA CONDENAÇÃO. ÔNUS SUCUMBENCIAIS. I - O terço constitucional estende-se aos servidores públicos, de acordo com o § 3º do artigo 39 da CF, não havendo limitação em razão da quantidade de dias de férias, de modo que, possuindo os docentes 45 dias de férias, deve incidir sobre a integralidade do período. II - Considerando que as contraprestações a título de IPASLUZ-saúde, Clube AMEF e SINTEGO correspondem apenas à remuneração da servidora, não alcançando a gratificação natalina, compete ao Município ressarcir a servidora pública dos descontos indevidos efetivados em sua remuneração. III -Por se tratar o caso vertente de condenação judicial em benefício de servidor público, os juros de mora deverão incidir, a partir da citação, pela remuneração oficial da caderneta de poupança, enquanto a correção monetária deverá ser aplicada, a partir do vencimento de cada obrigação, pelo IPCA-E. III - Sendo a sentença ilíquida, os honorários advocatícios sucumbenciais, a serem suportados integralmente pelo Município de Luziânia, ante a sua sucumbência, devem ser arbitrados no momento da liquidação do julgado, com base no valor da condenação, conforme disciplina o artigo 85, §§ 3º,4º, inciso II, e 11, do Código de Processo Civil. Remessa necessária e apelação cível conhecidas e desprovidas. Sentença mantida.
+Rejeitados os embargos de declaração opostos (fls. 275-283).
+No recurso especial, alega, preliminarmente, ofensa ao art. 489, § 1º, IV, do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Foram oferecidas contrarrazões ao recurso especial (fls. 594-609).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 612-614), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 767-780).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+A irresignação não merece prosperar.
+Não há que falar em violação do art. 489 do CPC, porquanto depreende-se do acórdão recorrido que o Tribunal de origem, de modo fundamentado, abordou de forma suficiente e clara, a questão do período de férias dos professores do Município de Luziânia. In verbis (fls. 249-250):
+A Constituição Federal, em seu artigo 7º, inciso XVII, garante o gozo de férias aunais remuneradas, pelo menos, em um terço a mais do que o salário normal:
+"Art. 7º - São direitos dos trabalhadores urbanos e rurais, além de outros que visem à melhoria de sua condição social:
+
+XVII - gozo de férias anuais remuneradas com, pelo menos, um terço a mais do que o salário normal;"
+O § 3º artigo 39 da Carta Magna estende aos servidores públicos a garantia do terço constitucional sobre as férias, não limitando a quantidade de dias a serem gozados:
+Art. 39. A União, os Estados, o Distrito Federal e os Municípios instituirão, no âmbito de sua competência, regime jurídico único e planos de carreira para os servidores da administração pública direta, das autarquias e das fundações públicas.
+
+§3º - Aplica-se aos servidores ocupantes de cargo público o disposto no art. 7º, IV, VII, VIII, IX, XII, XIII, XV, XVI, XVII, XVIII, XIX, XX, XXII e XXX, podendo a lei estabelecer requisitos diferenciados de admissão quando a natureza do cargo o exigir.
+Por sua vez, o art. 80, caput, da Lei Municipal n. 3.635/13 (Estatuto dos Servidores do Magistério Público do Município de Luziânia), prevê um duplo regime de pagamento diferenciando em razão da natureza do cargo exercido. Confira-se:
+"Art. 80. Todo servidor do Quadro do Magistério Público Municipal, inclusive o ocupante de cargo em comissão, terá direito, após cada período de 12 (doze) meses de exercício, ao gozo de 01 (um) período de férias, com remuneração acrescida de um abono de 1/3 da remuneração correspondente:
+I - 30 (trinta) no mês de julho e 15 (quinze) dias, distribuídos nos períodos de recesso, conforme interesse da rede municipal de ensino, para os docentes no exercício de regência de classe, para os diretores, supervisores e agentes;
+II - 30 (trinta) dias para os demais integrantes do Quadro do Magistério."
+Quando o cargo possuir natureza relacionada a docência, diretoria, supervisão e agente, os professores terão 45 dias de férias (30 dias no mês de julho e 15 dias distribuídos no recesso), enquanto os demais integrantes do quadro do magistério terão 30 dias de férias.
+A legislação municipal é expressa ao prever que os docentes terão 45 dias de férias, devendo o terço constitucional incidir sobre a remuneração durante todo o período, independente da forma de gozo, não havendo margem distinta, até porque não há previsão de limitação constitucional.
+Desse modo, não havendo limitação do terço constitucional sobre o período de 30 (trinta) dias de férias e considerando que os docentes que possuem direito a 45 (quarenta e cinco) dias de férias ao ano, o pagamento do adicional deve incidir sobre todo o período.
+Ademais, nos termos da jurisprudência do STJ, "não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional" (AgInt no AREsp n. 1.907.401/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 22/8/2022, DJe de 29/8/2022).
+Ressalte -se, ainda, que, conforme entendimento pacífico desta Corte, "O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão" (EDcl no AREsp n. 1.756.656/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 13/2/2023, DJe de 16/2/2023).
+Ante o exposto, conheço do agravo para negar provimento ao recurs o especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
