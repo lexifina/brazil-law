@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial sob os seguintes fundamentos: (a) ausência de ofensa ao art. 1.022 do CPC/2015, (b) ser inócuo discutir sobre a liquidação de sentença, pois a decisão recorrida refere-se justamente à liquidação de sentença e (c) aplicação da Súmula n. 83 do STJ (e-STJ fls. 341/347).
+Nas razões deste recurso (e-STJ fls. 367/386), o agravante reitera as razões do especial, alegando negativa de prestação jurisdicional e que a situação não se enquadraria na tese firmada em sede de recurso repetitivo quanto ao chamamento da União aos autos, nos termos do art. 130, III, do CPC/2015. Defende que seria necessária a conversão do feito em liquidação de sentença pelo procedimento comum.
+Foi apresentada contraminuta, requerendo a aplicação de multa por litigância de má-fé e aplicação do art. 85, § 11, do CPC/2015 (e-STJ fls. 432/451).
+É o relatório.
+Decido.
+O agravo que deixa de refutar especificamente os fundamentos da decisão agravada não é passível de conhecimento, em virtude de expressa previsão legal (CPC/1973, art. 544, § 4º, I; CPC/2015, art. 932, III) e da aplicação, por analogia, da Súmula n. 182/STJ.
+No caso, não foi impugnado o fundamento de que, "(..) quanto à alegada necessidade de prévia liquidação de sentença, conforme fundamentação expendida por ocasião da análise dos embargos declaratórios opostos pela parte recorrida, a referida discussão é inócua, pois a decisão recorrida que deu origem ao agravo de instrumento objeto do presente recurso especial refere-se justamente a uma liquidação de sentença. Portanto, visando à celeridade processual e à utilidade das decisões judiciais, não há razões para prosseguir com a discussão a respeito da matéria" (e-STJ fl. 346).
+Assim, é inafastável a aplicação, por analogia, da Súmula n. 182 desta Corte.
+Rejeito o pedido de condenação do recorrente à multa por litigância de má-fé, visto que não demonstrada conduta maliciosa ou temerária, a justificar tal sanção, pois tão somente intentava a reforma da decisão que lhe foi desfavorável.
+Segundo a jurisprudência do STJ, "para fins de arbitramento de honorários advocatícios recursais, previstos no § 11 do artigo 85 do CPC/2015, é necessário, entre outros requisitos cumulativos, que a verba honorária sucumbencial seja devida desde a origem no feito em que interposto o recurso, o que não é a hipótese dos autos - Agravo de Instrumento" (EDcl no AgInt no AREsp n. 1.270.310/RS, Relator Ministro LÁZARO GUIMARÃES - DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO -, QUARTA TURMA, julgado em 25/9/2018, DJe 28/9/2018).
+Em igual sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. HONORÁRIOS RECURSAIS. ART. 85, § 11º, DO CPC. DISPOSITIVO LEGAL QUE CONDICIONA O ARBITRAMENTO DESTES À FIXAÇÃO EM MOMENTO ANTERIOR DE HONORÁRIOS SUCUMBENCIAIS, POIS APENAS PREVÊ A MAJORAÇÃO. RECURSO INTERPOSTO CONTRA ACÓRDÃO PROFERIDO EM JULGAMENTO DE AGRAVO DE INSTRUMENTO. IMPOSSIBILIDADE DE ARBITRAMENTO, TENDO EM VISTA QUE NESTA ESPÉCIE DE RECURSO NÃO SÃO ARBITRADOS HONORÁRIOS EM DESFAVOR DO SUCUMBENTE. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+(AgInt no REsp n. 1.727.123/DF, Relator Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 3/12/2018, DJe 7/12/2018.)
+Dessa forma, não estando presentes os requisitos legais, com fundamento em tais precedentes, deixo de majorar a verba honorária.
+Ante o exposto, NÃO CONHEÇO do agravo.
+Pu blique-se e intimem-se.
