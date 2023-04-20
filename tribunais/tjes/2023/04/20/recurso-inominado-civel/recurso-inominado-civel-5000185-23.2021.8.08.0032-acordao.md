@@ -1,0 +1,82 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº
+5000185-23.2021.8.08.0032
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: EDP ESPIRITO SANTO DISTRIBUICAO DE ENERGIA S.A.
+RECORRIDO: JOANNA DA PENHA
+RELATOR(A):THAITA CAMPOS TREVIZAN
+
+_______________________________________________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+_______________________________________________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto da Relatora.
+Órgão julgador vencedor
+: 3ª Turma Recursal - Gabinete 2
+_______________________________________________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+_______________________________________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+Recurso Inominado nos autos nº 5000185-23.2021.8.08.0032
+
+Recorrente: EDP ESPIRITO SANTO DISTRIBUICAO DE ENERGIA S.A.
+
+Recorrido: JOANNA DA PENHA
+
+Relatora: DRA. THAITA CAMPOS TREVIZAN
+
+Juiz Sentenciante: RAFAEL MURAD BRUMANA
+
+EMENTA. DIREITO DO CONSUMIDOR E PROCESSUAL CIVIL. AÇÃO INDENIZATÓRIA POR DANOS MORAIS. DEMORA NO REESTABELECIMENTO DO SERVIÇO. FALHA NA PRESTAÇÃO DOS SERVIÇOS. DANOS MORAIS CONFIGURADOS. SENTENÇA MANTIDA.
+
+RELATÓRIO / VOTO
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA: JUIZADO ESPECIAL CÍVEL. RECURSO INOMINADO. DIREITO DO CONSUMIDOR E PROCESSUAL CIVIL. A
+ÇÃO INDENIZATÓRIA POR DANOS MORAIS.
+FORNECIMENTO DE ENERGIA ELÉTRICA. DEMORA NO REESTABELECIMENTO DO SERVIÇO. NARRA A PARTE AUTORA QUE NO DIA 01 DE ABRIL DE 2021, EM PERÍODO DIURNO, O POSTE QUE FAZ A TRANSMISSÃO DE ENERGIA ELÉTRICA PARA O BAIRRO NO QUAL A REQUERENTE RESIDE SOFREU UMA COLISÃO COM UM VEÍCULO AUTOMOTOR, FAZENDO COM QUE O MESMO CAÍSSE EM MEIO A VIA DE ACESSO E, CONSEQUENTEMENTE, NO PERÍODO NOTURNO, OS FUNCIONÁRIOS DA EMPRESA DEMANDADA PROMOVERAM O DESLIGAMENTO DA REDE ELÉTRICA DO LOCAL”. AFIRMA QUE ENTROU EM CONTATO COM A REQUERIDA NOS 3 DIAS SEGUINTES, A FIM DE TER O SERVIÇO DE ENERGIA ELÉTRICA, CONTUDO, NÃO OBTEVE SUCESSO.
+SENTENÇA DE PISO QUE JULGOU PROCEDENTE A AÇÃO
+PARA CONDENAR A PARTE REQUERIDA À OBRIGAÇÃO DE RESTABELECER A ENERGIA, BEM COMO A PAGAR A PARTE AUTORA O VALOR DE R$3.000,00 A TÍTULO DE DANOS MORAIS.
+RECURSO DA PARTE REQUERIDA
+PUGNANDO PELA REFORMA INTEGRAL DA SENTENÇA PARA IMPROCEDÊNCIA DA DEMANDA. ADUZ A INEXISTÊNCIA DE DANOS MORAIS E EXORBITÂNCIA DO VALOR ARBITRADO PARA FINS DE INDENIZAÇÃO.
+RECURSO CONHECIDO E IMPROVIDO.
+NO CASO EM APREÇO, NÃO SE APLICAM AS EXCLUDENTES DE RESPONSABILIDADE DA FORÇA MAIOR OU DO CASO FORTUITO PORQUANTO A FALHA DO SERVIÇO ESTÁ, JUSTAMENTE, NA DEMORA EM ESTABELECÊ-LO, E NÃO NA SUSPENSÃO POR SI MESMA. FALHA DO SERVIÇO DE RESTABELECIMENTO DO FORNECIMENTO DE ENERGIA ELÉTRICA. BEM ESSENCIAL À VIDA. VIOLAÇÃO DA ESFERA EXTRAPATRIMONIAL. CONSTRANGIMENTO CAPAZ DE JUSTIFICAR A REPARAÇÃO POR DANO MORAL. DANO MORAL IN RE IPSA.
+MANUTENÇÃO DO
+QUANTUM
+INDENIZATÓRIO, CONFORME ENUNCIADO 32 DO SISTEMA DOS JUIZADOS ESPECIAIS DO ESTADO DO ESPÍRITO SANTO, QUE ASSIM DISPÕE:
+“
+A REVISÃO DOS VALORES DO DANO MORAL EM SEDE DE RECURSO INOMINADO ESTARÁ AUTORIZADA QUANDO CONSTATADO QUE O MONTANTE FIXADO EM SENTENÇA É EXORBITANTE OU IRRISÓRIO”.
+
+ASSIM, CONSIDERANDO QUE O MONTANTE INDICADO PELO JUÍZO A QUO NÃO SE MOSTRA EXORBITANTE OU IRRISÓRIO, ENTENDO POR BEM MANTÊ-LO INALTERADO.
+
+SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS
+, NOS TERMOS DO ART. 46 DA LEI 9.099/95. CONDENAÇÃO DA PARTE RECORRENTE AO PAGAMENTO DAS CUSTAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS QUE FIXO NO IMPORTE DE 20% DO VALOR ATUALIZADO DA CONDENAÇÃO.
+
+DISPOSITIVO
+
+Ante o exposto,
+CONHEÇO DO RECURSO
+interposto e
+NEGO-LHE PROVIMENTO
+, mantendo a sentença intocada, por seus próprios fundamentos. Condeno o recorrente ao pagamento de custas e honorários advocatícios, fixados em 20% sobre o valor da condenação, na forma do art. 85, §2º do Código de Processo Civil e art. 55 da Lei nº. 9.099/95.
+
+É como voto.
+
+THAITA CAMPOS TREVIZAN
+
+Relatora
+
+_______________________________________________________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
