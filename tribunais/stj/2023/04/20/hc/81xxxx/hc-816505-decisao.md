@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de DAVI TAVARES GARCIA DA ROCHA em que se aponta como autoridade coatora o Tribunal de Justiça do Estado da Santa Catarina (Apelação Criminal n. 0009420-53.2019.8.24.0023 e embargos declaratórios posteriormente opostos pela defesa).
+Consta dos autos que o paciente foi condenado, pelo juízo de primeiro grau, às penas de 14 anos, 10 meses e 9 dias de reclusão, em regime prisional inicialmente fechado, e 12 dias-multa, por infração ao art. 121, § 2º, incisos III e IV, c/c artigo 14, inciso II, do Código Penal, bem como do art. 2, § 2º da Lei n. 12.850/13.
+Interposta apelação pela defesa, o Tribunal local negou provimento ao recurso. Opostos embargos declaratórios, foram rejeitados, mas, de ofício, foi readequada a reprimenda definitiva para 13 anos, 2 meses e 20 de reclusão, e 12 dias-multa, mediante o afastamento do chamado "efeito cascata" aplicado nas primeiras fases das dosimetrias.
+No presente writ (e-STJ fls. 3/8), a impetrante alega que o paciente está sofrendo constrangimento ilegal, em razão da compensação integral entre a agravante relativa ao uso de recurso que dificultou a defesa da vítima (art. 61, II, c, do Código Penal) e a atenuante da menoridade relativa (art. 65, I, do Código Penal), a qual deve preponderar sobre a referida agravante, por ser na natureza subjetiva
+Dessa forma, requer, na liminar, a suspensão dos efeitos da condenação e, no mérito, a concessão da ordem para que seja realizada nova dosimetria da pena, para reduzir a pena intermediária do crime de homicídio qualificado para patamar inferior ao da respectiva pena-base (fixada em 16 anos), reconhecendo-se o caráter preponderante da atenuante da menoridade relativa (CP, art. 65, I) sobre a agravante relativa ao uso de recurso que dificultou a defesa da vítima (CP, art. 61, II, c).
+É o relatório. Decido.
+A liminar em habeas corpus, bem como em recurso em habeas corpus, não possui previsão legal, tratando-se de criação jurisprudencial que visa a minorar os efeitos de eventual ilegalidade que se revele de pronto na impetração.
+No caso dos autos, ao menos em juízo de cognição sumária, não verifico manifesta ilegalidade apta a justificar o deferimento da medida de urgência, sendo necessário aprofundado exame dos autos para a aferição de eventual constrangimento, notadamente se considerada a impossibilidade de realização de nova dosimetria da pena neste momento, de juízo meramente perfunctório.
+Ademais, o pedido liminar confunde-se com o próprio mérito da impetração e deverá ser analisado em momento oportuno, por ocasião do julgamento definitivo do habeas corpus pelo colegiado.
+Ante o expo sto, indefiro a liminar.
+Devidamente instruído, dispenso informações.
+Encaminhem-se os autos ao Ministério Público Federal.
+Intimem-se.
