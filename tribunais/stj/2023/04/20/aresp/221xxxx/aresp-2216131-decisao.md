@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu recurso especial, porquanto incidente a Súmula nº 83/STJ.
+O agravante foi condenado a 2 anos e 6 meses de reclusão, no regime aberto, e 550 dias-multa, substituída a pena privativa de liberdade por duas penas restritivas de direitos, nos termos do art. 33, caput, da Lei nº 11.343/2006.
+O agravo é tempestivo e ataca os fundamentos da decisão agravada. Apresentada contraminuta, manifestou-se o Ministério Público Federal pelo desprovimento recursal.
+Nas razões do recurso especial, interposto com fundamento nas alíneas "a" e "c" do permissivo constitucional, apontou o recorrente, ora agravante, violação do art. 33, § 4º, da Lei nº 11.343/2006, além de divergência jurisprudencial, pugnando, ao final, pelo reconhecimento da minorante no seu patamar máximo (2/3).
+A respeito da referida pretensão, extrai-se do acórdão recorrido (fl. 274):
+ ..  diante da quantidade e qualidade da droga apreendida (196 pedras de crack, com peso total aproximado de 22g), sem olvidar a primariedade do réu e a inexistência de registros criminais em seu nome, tenho que necessária a redução da sanção imposta, para o fim de estabelecer a minorante em 1/2, redimensonando a pena corporal para 02 (dois) anos e 06 (seis) meses de reclusão, cumulado com 260 (duzentos e sessenta) dias multa, mantidas as demais cominações estabelecidas na sentença condenatória. ..
+Como visto, o Tribunal local não aplicou o patamar máximo da minorante em apreço tão somente "diante da quantidade e qualidade da droga apreendida (196 pedras de crack, com peso total aproximado de 22g), sem olvidar a primariedade do réu e a inexistência de registros criminais em seu nome", configurando-se inidônea tal motivação. A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO PRIVILEGIADO. AFASTAMENTO DA MINORANTE. IMPOSSIBILIDADE. AUSÊNCIA DE ELEMENTOS QUE PERMITAM CONCLUIR, INEXORAVELMENTE, PELA DEDICAÇÃO AO TRÁFICO DE DROGAS. DECISÃO MANTIDA.
+1. A apreensão de quantidade não relevante de drogas e a ausência de circunstâncias adicionais (inserção em grupo criminoso de maior risco social, atuação armada e apreensão de instrumentos de refino da droga, etc.), desautorizam a vedação à minorante do tráfico no seu patamar máximo de 2/3 (dois terços).
+2. Agravo regimental improvido. (AgRg no HC n. 757.668/ES, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 27/3/2023, DJe de 31/3/2023.)
+Logo, fixada a pena-base no mínimo legal e ausente modificação na segunda etapa da dosimetria (fls. 191-192), totaliza a pena definitiva do réu, ora recorrente, 1 ano e 8 meses de reclusão, além do pagamento de 166 dias-multa, em razão da incidência do redutor na sua fração máxima (2/3).
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial de MAGNUS KELLER DE OLIVEIRA para (re)fixar sua pena final no total de 1 ano e 8 meses de reclusão, e 166 dias-multa, mantendo-se, no mais, o acórdão condenatório.
+Publique-se.
+Intimem-se.
