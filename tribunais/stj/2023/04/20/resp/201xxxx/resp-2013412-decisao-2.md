@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso especial manejado por Wantuil Silva Prata, com fundamento no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado (fl. 679):
+APELAÇÃO. A ÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. ESTAÇÃO DE TRATAMENTO DE ESGOTO MANTIDA PELA SANEPAR (ETE GUARAITUBA). ALEGAÇÃO DE MAU CHEIRO PROVENIENTE DO TRATAMENTO DE ESGOTO NA REGIÃO. SENTENÇA IMPROCEDENTE. PRELIMINAR DE ILEGITIMIDADE ATIVA SUSCITADA EM CONTRARRAZÕES. TEORIA DA ASSERÇÃO. RECURSO PELA PARTE AUTORA. RESPONSABILIDADE CIVIL AMBIENTAL. EMISSÃO DE MAU CHEIRO PELA ETE DE FORMA IRREGULAR IMPLICANDO EM POLUIÇÃO ATMOSFÉRICA. REQUERENTE QUE COMPROVOU QUE À ÉPOCA DOS FATOS RESIDIA PRÓXIMO A ETE. DANO MORAL CONFIGURADO. INDENIZAÇÃO DEVIDA. SENTENÇA REFORMADA. PEDIDO PARCIALMENTE PROCEDENTE. RECURSO PROVIDO.
+1. As condições da ação, dentre elas, o interesse processual e a legitimidade ativa definem-se da narrativa formulada na inicial, não da análise do mérito da demanda (teoria da asserção), razão pela qual não se recomenda ao julgador, na fase postulatória, aprofundar-se no exame de tais preliminares.
+2. A prova indica que a emissão de mau cheiro pela ETE Guaraituba não ocorreu de forma regular, implicando em poluição atmosférica.
+3. O requerente logrou êxito em comprovar que, na época dos fatos (entre setembro de 1998 e março de 2011), residia no raio de abrangência em que o odor proveniente da estação seria perceptível, nos termos estabelecidos pelo laudo pericial, restando configurado o abalo moral indenizável.
+A parte recorrente aponta, além de dissídio jurisprudencial, violação aos arts. 398 e 405 do Código Civil. Sustenta, em síntese, que o caso trata de responsabilidade extracontratual, razão pela qual os juros de mora devem inci dir a partir da data do evento danoso, qual seja, a instalação da ETE Guaraituba.
+Contrarrazões apresentadas às fls. 815/829 .
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A insurgência não merece prosperar.
+Com efeito, a matéria pertinente aos arts. 398 e 405 do Código Civil não foi apreciada pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+Pelo mesmo motivo, segue obstado o recurso especial pela alínea c do permissivo constitucional, sendo certo que não foram atendidas as exigências dos arts. 1.029, § 1º, do CPC e 255, §§ 1º e 2º, do RISTJ.
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
