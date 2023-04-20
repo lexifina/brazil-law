@@ -1,0 +1,12 @@
+DECISÃO
+Cuida-se de conflito negativo de competência suscitado por DARIO DOS SANTOS OLIVEIRA, em face do r. Juízo de Direito do Juizado Especial Cível de Bagé-RS, e do r. Juízo de Direito da Vara do Juizado Especial da Fazenda Pública Estadual e Municipal-AM, nos autos da Ação Declaratória de Inexistência de Negócio Jurídico c.c. Indenização por Danos Morais ajuizada pelo suscitante contra o BANCO HONDA S.A..
+Depreende-se dos autos que "(..) O autor ajuizou na comarca de Bagé, RS, uma ação declaratória de inexistência de negócio jurídico e dívida cumulada com indenização por danos morais em desfavor de Banco Honda S/A, empresa inscrita no CNPJ sob nº03.634.220/0001-65, estabelecida nesta cidade de São Paulo, SP, na Rua Dr. JoséÁureoBustamante,377-SantoAmaro,CEP04710-090eDETRAN AM, empresa inscrita no CNPJ sob nº 03.634.220/0001-65,estabelecida na cidade de Manaus, AM, na Av. Mário Ypiranga, 2884, Parque Dez de Novembro, CEP 69050-030 que tramitou no Juizado da Fazenda Pública da Comarca de Bagé, RS, sob nº 5011365-26.2022.8.21.0004.". Ao receber os autos, o r. Juízo gaúcho extinguiu o feito em razão da incompetência territorial, ao argumento de que "(..) a imposição de provimento condenatório pela justiça do Estado do Rio Grande do Sul contra órgãos de outros estados da federação (DETRAN AM) incorreria em violação, inclusive, ao pacto federativo e à autonomia de outras.". Nesse contexto, o suscitante ajuizou nova ação perante o r. Juízo fazendário, que por sua vez também se declarou incompetente, entendendo que o feio deveria ter sido proposto no domicílio do autor (fls. 10-14).
+Daí o incidente suscitado (fls. 3-4).
+Informações prestadas pelos r. juízos suscitados às fls. 65-67 e 70-72.
+O Ministério Público Federal opinou pelo não conhecimento do conflito, pela perda de objeto (fls. 78-81).
+É o relatório.
+Decisão .
+O presente conflito não merece conhecimento.
+1. Isso porque como informado pelo próprio r. Juízo fazendário, "(..) após a notificação expedida por esta Corte de Justiça acerca deste conflito e o conhecimento dos fatos, chamou o feito à ordem para determinar o devido andamento do feito objeto do presente processo, com a consequente intimação da parte adversa para apresentação de contestação" (fl. 71) , esvaziando, assim, o incidente em análise.
+2. Do exposto, com fundamento no art. 66, do CPC/15, não conheço do presente conflito de competência.
+Publique-se. Intimem-se. Oficie-se. Arquivem -se.
