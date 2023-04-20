@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial, diante da intempestividade (e-STJ fls. 140/141).
+Em suas razões (e-STJ fls. 172/188), a parte agravante afirma que (e-STJ fl. 175/182):
+ ..  foi inserida nas razões recursais a captura de tela do detalhamento de cálculo de prazo do Sistema Projudi, a fim de comprovar a tempestividade do recurso interposto. Na referida captura de tela, é possível constatar a menção, no dia 17/12/2021, ao Decreto Judiciário nº 642/2021, sinalizando expressamente que se tratava de dia não útil, conforme abaixo:  ..
+cumpre destacar que a suspensão do prazo devido ao decreto supramencionado não se trata de feriado local, bem como, estando-se diante de processo eletrônico, o próprio Sistema do PROJUDI indica o termo final do prazo para interposição do recurso e, eventualmente, se houve algum prazo perdido,  ..
+as informações veiculadas pelos sistemas de automação dos tribunais, como é o caso do PROJUDI, possuem presunção de veracidade e confiabilidade diante da expectativa criada pelo advogado. Dessa forma, deve-se preservar sua boa-fé, bem como sua confiança na informação que foi difundida.
+É o relatório.
+Decido.
+Conforme análise dos autos, a parte recorrente foi intimada do acórdão recorrido em 9/12/2021 (e-STJ fl. 94), iniciando o prazo para interpor recurso em 10/12/2021 (sexta-feira), encerrando-se em 2/2/2022 (quarta-feira), em virtude da suspensão dos prazos do art. 220 do CPC/2015. Todavia, o recurso especial foi interposto somente no dia 3/2/2022 (e-STJ fl. 95).
+A Corte Especial do STJ, interpreta ndo o art. 1.003, § 6º, do CPC, firmou entendimento de que, na vigência do novo CPC, deve ser realizada a comprovação de existência de feriado local ou suspensão do expediente forense no Tribunal de origem por meio de documento idôneo no momento da interposição do recurso, sendo inadmissível regularização posterior (AgInt no AREsp n. 957.821/MS, relator Ministro Raul Araújo, relatora para acórdão Ministra Nancy Andrighi, Corte Especial, julgado em 20/11/2017, DJe de 19/12/2017).
+Ademais, a "mera alegação nas razões recursais ou o print de tela ou imagem de página extraída da internet ou ainda a juntada de relação de feriados, sem o inteiro teor do correspondente ato normativo, não servem para comprovar a tempestividade recursal" (AgInt no AREsp n. 2.140.372/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 13/2/2023, DJe de 16/2/2023).
+Por fim, "a afirmação de que a tempestividade do recurso especial foi baseada no sistema PROJUDI não tem o condão de isentar a parte de seu ônus processual para se afastar a intempestividade do recurso" (AgInt nos EDcl no AREsp n. 1.389.973/PR, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 6/3/2023, DJe de 9/3/2023).
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
