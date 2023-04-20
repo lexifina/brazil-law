@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de RHUAN FLAVIO SANTANA contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 1500007-93.2022.8.26.0632.
+Consta nos autos que o Paciente foi condenado, em primeiro grau, às penas de 5 (cinco) anos, 7 (sete) meses e 6 (seis) dias de reclusão, em regime inicial fechado, e 560 (quinhentos e sessenta) dias-multa, pela prática do crime previsto no art. 33, caput, c.c. o art. 40, inciso III, ambos da Lei n. 11.343/2006, pois "vendeu uma (01) porção de maconha com peso aproximado de 8,77 gramas e mantinha em depósito vinte e oito (28) porções de maconha, com peso aproximado de 400 gramas e nove (09) porções de cocaína, com peso aproximado de 6,46 gramas" (fl. 29).
+Irresignada, a Defesa interpôs recurso de apelação, ao qual o Tribunal de origem negou provimento.
+Neste writ, os Impetrantes sustentam, em suma, que o Paciente faz jus à aplicação da minorante prevista no art. 33, § 4.º, da Lei de Drogas.
+Requerem, liminarmente, a imediata soltura do Sentenciado. No mérito, pleiteiam a concessão de ordem para "a) que, seja aplicada a causa de diminuição prevista no art. 33, § 4º da Leinº 11.343/2006 em seu patamar máximo para todos os fins, conforme entendimento do Supremo Tribunal Federal no julgamento do Habeas Corpus nº 118.533, e consequentemente haja redução do quantum de penaaplicado, b) que seja operado o instituto da detração nos temos do artigo 42 do CP vigente; c)que seja fixando-se regime inicial aberto ou subsidiariamente o semiaberto para início do cumprimento da pena, por medida de justiça" (fl. 12).
+É o relatório. Decido.
+Verifico que o presente habeas corpus veicula mera reiteração de pedido já formulado no HC n. 768.389/SP, distribuído em 1.º/09/2022, em que há identidade de partes, de pedido e de causa de pedir, além de impugnarem ambos o mesmo acórdão.
+Ocorre que não podem ser pr ocessadas nesta Corte, concomitantemente, duas impetrações nas quais se constata litispendência, instituto que se configura exatamente quando há igualdade de partes, de objeto e de causa de pedir.
+Assim, concluo pela inadmissibilidade deste habeas corpus, porquanto não pode ser conhecida a impetração que veicula mera reiteração de pedido já formulado em writ anteriormente impetrado nesta Corte. No mesmo sentido, v.g.: HC 519.170/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 15/10/2019, DJe 21/10/2019; EDcl no AgRg no HC 532.973/RS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 10/10/2019, DJe 15/10/2019.
+Ante o exposto, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO ILÍCITO DE DROGAS. DOSIMETRIA. REITERAÇÃO DA PRETENSÃO FORMULADA NO HC N. 768.389/SP. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA.
