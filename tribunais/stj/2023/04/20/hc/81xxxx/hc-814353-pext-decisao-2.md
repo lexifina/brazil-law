@@ -1,0 +1,12 @@
+DECISÃO
+EDSON NAVARRO MIRANDA requer a extensão da decisão prolatada, em 10/04/2023 que concedeu a liminar em  habeas corpus interposto por HEDY CARLOS SOARES, para revogar sua prisão preventiva "facultando a autoridade coatora implementar novas medidas cautelares, sem prejuízo da decretação da prisão preventiva em caso de descumprimento de quaisquer das obrigações impostas por força das cautelares ou de superveniência de motivos concretos para tanto" (fls. 686-689).
+Assevera que: "o ora requerente ostenta situação processual idêntica a do paciente HEDY CARLOS SOARES" (fl. 734) , razão pela qual pleiteia lhe seja estendida a decisão, na forma do art. 580 do CPP.
+É o relatório. Decido.
+O pedido de extensão, nos termos do art. 580 do CPP, é direcionado aos casos em que há concurso de agentes e identidade fático-processual, ou seja, os motivos da decisão que beneficiou uma das partes não podem ser de caráter exclusivamente pessoal para que possa haver o compartilhamento da concessão da ordem. Nesse sentido: "A teor do art. 580 do Código de Processo Penal, o deferimento do pedido de extensão exige que o corréu esteja na mesma condição fático-processual daquele já beneficiado  .. "(AgRg no RHC n. 174.091/RS, Quinta Turma, relator Ministro Reynaldo Soares da Fonseca, DJe de 27/2/2023.)
+No caso, verifica-se que o requerente encontra-se em situação fático-processual idêntica a do corréu, beneficiado com a revogação da prisão preventiva nos termos do art. 580 do CPP (informação 3372/2023-GABDES- OCOJ/DES/TJRO-habeas corpus n. 770853/RO).
+Ressalte-se que o requerente e o paradigma foram presos preventivamente, em razão da mesma decisão judicial.
+Desse modo, é viável a extensão do benefício ao requerente, tendo em vista a similitude fática entre a situação dele e a do corréu.
+Ante o exposto, defiro o pedido para estender os efeitos da decisão que concedeu a liminar ao paciente HEDY CARLOS SOARES , a fim de revogar a prisão preventiva imposta ao requerente facultando a autoridade coatora implementar novas medidas cautelares, sem prejuízo da decretação da prisão preventiva em caso de descumprimento de quaisquer das obrigações impostas por força das cautelares ou de superveniência de motivos concretos para tanto.
+Traslade cópia da informação - (informação 3372/2023-GABDES-OCOJ/DES/TJRO, do-habeas corpus n. 770853/RO, fls.556-559) para estes autos.
+Comunique-se com urgência à autoridade coatora para a adoção de medidas necessárias ao cumprimento da presente decisão.
+P. I
