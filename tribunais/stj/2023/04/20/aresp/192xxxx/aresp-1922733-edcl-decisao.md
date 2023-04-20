@@ -1,0 +1,3 @@
+DECISÃO
+Tendo em vista informação da Coordenadoria de Processamento de feitos de Direito Privado desta Corte, no sentido de que foi verificado que o interessado CONSÓRCIO BDOPRO - ADMINISTRADOR é patrocinado pela Sociedade de Advogado HASSON SAYEG E NOVAES ADVOGADOS, constante do rol de impedimentos deste relator, chamo o feito à ordem para cancelar o julgamento do presente agravo interno, realizado na sessão virtual de 21 a 27/32023, bem como torno sem efeito a decisão por mim proferida às e-STJ, fls. 766/769, ficando prejudicado os embargos de declaração, petição 00281674/2023 .
+Em consequência, determina-se a redistribuição do feito.
