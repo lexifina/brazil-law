@@ -1,0 +1,23 @@
+DECISÃO
+ANTÔNIO MONTEIRO DA SILVA alega sofrer coação ilegal em seus direitos de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, na Apelação Criminal n. 0002463-81.2013.8.26.05.
+Em suas razões, alega, inicialmente, a defesa que "a lidocaína e a prensa apreendidas estavam diretamente relacionadas com a produção de cocaína para mercancia, havendo ser reconhecida, pois, a incidência do princípio da consunção" (fl. 10).
+O Ministério Público Federal manifestou-se pela denegação da ordem (fls. 142-144).
+Decido.
+I. Princípio da consunção
+No que se refere à alegação de que o crime previsto no art. 33, § 1º, da Lei n. 11.343/2006 é subsidiário em relação ao delito de tráfico de drogas, de modo que não poderia subsistir a condenação em relação a ambos os crimes, transcrevo, por oportuno, o disposto nos referidos dispositivos legais:
+Art. 33. Importar, exportar, remeter, preparar, produzir, fabricar, adquirir, vender, expor à venda, oferecer, ter em depósito, transportar, trazer consigo, guardar, prescrever, ministrar, entregar a consumo ou fornecer drogas, ainda que gratuitamente, sem autorização ou em desacordo com determinação legal ou regulamentar:
+Pena - reclusão de 5 (cinco) a 15 (quinze) anos e pagamento de 500 (quinhentos) a 1.500 (mil e quinhentos) dias-multa.
+§ 1º Nas mesmas penas incorre quem:
+I - importa, exporta, remete, produz, fabrica, adquire, vende, expõe à venda, oferece, fornece, tem em depósito, transporta, traz consigo ou guarda, ainda que gratuitamente, sem autorização ou em desacordo com determinação legal ou regulamentar, matéria- prima, insumo ou produto químico destinado à preparação de drogas;
+II - semeia, cultiva ou faz a colheita, sem autorização ou em desacordo com determinação legal ou regulamentar, de plantas que se constituam em matéria-prima para a preparação de drogas;
+III - utiliza local ou bem de qualquer natureza de que tem a propriedade, posse, administração, guarda ou vigilância, ou consente que outrem dele se utilize, ainda que gratuitamente, sem autorização ou em desacordo com determinação legal ou regulamentar, para o tráfico ilícito de drogas.
+IV - vende ou entrega drogas ou matéria-prima, insumo ou produto químico destinado à preparação de drogas, sem autorização ou em desacordo com a determinação legal ou regulamentar, a agente policial disfarçado, quando presentes elementos probatórios razoáveis de conduta criminal preexistente.
+Com efeito, embora alguns verbos se repitam em um e em outro tipo penal, as condutas descritas no art. 33 guardam relação com drogas, enquanto que as do art. 33, § 1º, com insumos ou produtos químicos destinados à produção de drogas. Os tipos possuem, portanto, objetividade jurídica distinta, sendo certo que há relação de subsidiariedade entre os referidos tipos penais.
+Portanto, somente ficará configurada a prática dos dois delitos, em concurso material, se caracterizada "a existência de contextos autônomos e coexistentes, aptos a vulnerar o bem jurídico tutelado de forma distinta" (AgRg no AREsp n. 303.213/SP, Rel. Ministro Marco Aurélio Bellizze, 5ª T., DJe 14/10/2013).
+O Tribunal de origem, ao corroborar o entendimento exarado pela primeira instância - que entendeu não ser o caso de incidência do princípio da consunção em relação ao crime previsto no art. 33, §1º, da Lei de drogas -, assentou (fl. 82, destaquei):
+E, do mesmo modo, não há falar-se em aplicação do princípio da consunção ao caso em estudo, diante da notória presença de desígnios autônomos para a perpetração das condutas que lhes foram imputadas, crimes que foram cometidos em circunstâncias distintas e que, por isso, não pode o delito em análise ser tido como meio para a consumação daquele previsto no caput do artigo 33, da Lei de Drogas  .. .
+Assim, fica afastada a possibilidade de aplicação do princípio da consunção na espécie, pois, conforme já decidiu este Tribunal Superior, "o princípio da consunção incide quando seja um dos crimes etapa necessária ou usual ao crime final pretendido pelo agente" (HC n. 266.516/SP, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 16/12/2014).
+Dessa forma, verifico que a instância ordinária concluiu, de forma motivada e com base na livre apreciação da prova produzida em contraditório judicial, que os momentos consumativos dos crimes foram diversos. Nesse cenário, não há falar em incidência do princípio da consunção, pois seria necessário o revolvimento de todo o conjunto fático-probatório produzido nos autos, providência inviável em sede de habeas corpus.
+II. Dispositivo
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
