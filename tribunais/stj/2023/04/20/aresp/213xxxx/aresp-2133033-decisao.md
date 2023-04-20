@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial, diante da intempestividade (e-STJ fls. 324/325).
+Em suas razões (e-STJ fls. 334/346), a parte agravante afirma que (e-STJ fl. 340/342):
+ ..  o dia 01 de novembro de 2021, supostamente considerado como feriado LOCAL pela decisão agravada e, portanto, carecedora de comprovação, deixa de considerar que NÃO houve expediente em nenhuma repartição judicial, inclusive junto ao Superior Tribunal de Justiça, como de observa pela Portaria STJ/GP nº 2 de 11 de janeiro de 2021, que demonstra que desde1979os dias 01 e 02 de novembro são considerados feriados pelo STJ:
+ ..  No presente caso, no entanto, não só o sistema PROJUDI tinha o condão de contabilizar o dia 01 de novembro como recesso, mas todo e qualquer órgão jurisdicional, na medida em que o dia 01 de novembro, como restou demonstrado, é feriado JUDICIAL NACIONAL.
+Contraminuta (e-STJ fls. 358/368).
+É o relatório.
+Decido.
+É intempestivo o recurso especial.
+A intimação eletrônica ocorreu em 18/10/2021 (sexta-feira) (e-STJ fl. 255). Por conseguinte, o prazo recursal de 15 (quinze) dias úteis iniciou-se em 29/10/2021 (terça-feira), encerrando-se em 9/11/2021 (terça-feira), em virtude do feriado nacional de 2/11/2021. Todavia, o recurso especial foi interposto somente no dia 10/11/2022 (e-STJ fl. 258).
+A parte alega a existência de suspensão do expediente em 1/11/2022, porém não trouxe a comprovação no momento da interposição do recurso.
+A Corte Especial do STJ, interpretando o art. 1.003, § 6º, do CPC, firmou entendimento de que, na vigência do novo CPC, deve ser realizada a comprovação de existência de feriado local ou suspensão do expediente forense no Tribunal de origem por meio de documento idôneo no momento da interposição do recurso, sendo inadmissível regularização posterior (AgInt no AREsp n. 957.821/MS, relator Ministro Raul Araújo, relatora para acórdão Ministra Nancy Andrighi, Corte Especial, julgado em 20/11/2017, DJe de 19/12/2017).
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO INTEMPESTIVO. SUSPENSÃO DOS PRAZOS PROCESSUAIS NO TRIBUNAL ESTADUAL. AUSÊNCIA DE COMPROVAÇÃO DO FERIADO LOCAL, POR DO CUMENTO IDÔNEO, QUANDO DA INTERPOSIÇÃO DO RECURSO. ART. 1.003, § 6º, DO NCPC. ENTENDIMENTO DA CORTE ESPECIAL. DIA DO SERVIDOR PÚBLICO E 1º DE NOVEMBRO. INEXISTÊNCIA DE FERIADO NACIONAL. RECESSO FORENSE NO STJ. IRRELEVÂNCIA PARA VERIFICAÇÃO DE TEMPESTIVIDADE DE RECURSO INTERPOSTO NA ORIGEM. AUSÊNCIA DE NOTORIEDADE. ART. 932, PARÁGRAFO ÚNICO, DO NCPC. CONCESSÃO DE PRAZO. VÍCIOS FORMAIS SOMENTE. AGRAVO INTERNO NÃO PROVIDO.
+1. O agravo em recurso especial foi protocolado na vigência do NCPC, atraindo a aplicabilidade do art. 1.003, § 6º, do NCPC, que não mais permite a comprovação da ocorrência de feriado local em momento posterior, já que estabeleceu ser necessária a demonstração quando interposto o recurso. Entendimento da Corte Especial.
+2. A Corte Especial assentou, em Questão de Ordem no REsp nº 1.813.684/SP, o entendimento de que é possível a comprovação da tempestividade do recurso, em momento posterior, na hipótese do feriado de segunda-feira de Carnaval, mas não quanto aos demais feriados, confirmando o posicionamento antes adotado.
+3. Esta Corte adota o entendimento de que o Dia do Servidor Público não é feriado nacional. Desse modo, é dever da parte comprovar nos autos, por documento idôneo, a suspensão do expediente forense no Tribunal estadual, o que não ocorreu na hipótese.
+4. O dia 1º de novembro não é considerado feriado nacional e, por isso, a ausência de expediente forense, nessa data, necessita ser comprovada por Tribunal Estadual.
+5. É relevante salientar que os recursos interpostos na instância de origem, mesmo que endereçados a esta Corte Superior, observam o calendário de funcionamento do tribunal local, não podendo se utilizar, para todos os casos, dos feriados e das suspensões previstas em Portaria e no Regimento Interno do Superior Tribunal de Justiça, que muitas vezes não coincidem com os da Justiça estadual (AgRg no AREsp 700.715/MG, Rel, Ministro Ricardo Villas Bôas Cuevas, Terceira Turma, j. 17/5/2016, DJe 23/5/2016).
+6. A existência de recesso forense e suspensão de prazos processuais nos Tribunais de Justiça não se presume pública e notória em âmbito nacional.
+7. O prazo conferido pelo parágrafo único do art. 932 do NCPC somente é aplicável aos casos em que seja possível sanar vícios formais, como ausência de procuração ou de assinatura, e não à complementação da fundamentação ou de comprovação da intempestividade.
+8. Agravo interno não provido.
+(AgInt nos EDcl no AREsp n. 2.152.621/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 27/3/2023, DJe de 29/3/2023. - grifei)
+Por fim, "a afirmação de que a tempestividade do recurso especial foi baseada no sistema PROJUDI não tem o condão de isentar a parte de seu ônus processual para se afastar a intempestividade do recurso" (AgInt nos EDcl no AREsp n. 1.389.973/PR, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 6/3/2023, DJe de 9/3/2023).
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publiqu e-se e intimem-se.
