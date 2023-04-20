@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interposto por CRISTIANNE MAYRINK SAMPAIO SILVA NETO, contra decisão que inadmitiu recurso especial manejado em face de acórdão do eg. TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS.
+Consoante se extrai dos autos, a agravante foi condenada pela prática do delito previsto no artigo 140, §3º, c/c art. 141, inciso III, ambos do Código Penal à pena de 02 (dois) anos e 08 (oito) meses de reclusão, em regime inicial semiaberto e ao pagamento de 50 (cinquenta) dias-multa, e a reparação de dano em favor da vítima arbitrado em R$ 5.000,00 (cinco mil reais) (fls. 217-221).
+Em segunda instância, o eg. Tribunal a quo, por unanimidade, deu parcial provimento à apelação da ré, para afastar a reincidência, devido ao trânsito em julgado posterior ao ilícito penal em tela, considerando contudo para configurar maus antecedentes. Reduzida a reprimenda para a pena de 01 (um) ano e 06 (seis) meses e 20 (vinte) dias de reclusão, em regime inicial semiaberto, e 14 (quatorze) dias-multa. mantendo os demais termos da sentença (fls. 294-320). Opostos embargos de declaração (fls. 325-331), estes, por unanimidade, foram rejeitados.
+No recurso especial, interposto com fulcro no artigo 105, inciso III, alínea a, e c da Constituição Federal, a insurgente alegou violação do art. 44 do Código Penal, aduz preencher os requisitos objetivos para iniciar o cumprimento da pena em regime menos gravoso, subsidiariamente, pleiteia a fixação do regime aberto para cumprimento inicial da pena.
+A defesa, ainda, colacionou julgados do STF e STJ, aduziu restar demasiadamente demonstrada a divergência e o conflito jurisprudencial.
+Por fim, a Defesa pleiteou a reforma do v. acórdão vergastado, para que seja alterado o regime inicial de pena para o regime aberto e admitida aplicação da Lei n. 9.714/1998, concedendo o benefício de substituição da pena privativa de liberdade pela restritiva de direitos.
+Apresentadas as contrarrazões (fls. 396-399), sobreveio juízo negativo de admissibilidade fundado na incidência da Súmula 83/STJ, ao argumento de que o acórdão recorrido está em sintonia com a jurisprudência desta Corte Superior.
+Nas razões do agravo, postula-se o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários à sua admissão (fls. 421-426). Contraminuta às fls. 430-431.
+O Ministério Público Federal apresentou parecer pelo não conhecimento do agravo em recurso especial (fls. 455-460).
+É o relatório.
+Decido.
+O agravo não merece ser conhecido.
+Conforme relatado, o apelo nobre foi inadmitido pelo eg. Tribunal a quo em razão da aplicação da Súmula 83/STJ.
+A decisão que inadmitiu o apelo nobre apontou:
+"5. Embora estabelecida a pena definitiva menor que 4 anos (1 ano de reclusão), possuindo o acusado maus antecedentes, inclusive por crime patrimonial, tal fator veda a substituição da pena por restritiva de direitos, de acordo com o disposto no art. 44 do Código Penal, uma vez que demonstra que a medida não se mostra socialmente recomendável, nem suficiente para a prevenção e repressão do crime. (AgRg no AREsp 2013044/SC, Rel. Ministro REYNALDO SOARES6. Agravo regimental não provido. DA FONSECA, DJe 14/3/2022) (g. n.)." (fl. 408).
+A defesa, contudo, colacionou precedente sobre tema diverso, qual seja, ações em curso não obstam o reconhecimento de causa de diminuição.
+No caso, a parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial, não bastando, para tanto, deduzir genericamente a inaplicabilidade dos óbices apontados na decisão agravada.
+No entanto, caberia ao agravante comprovar, por meio da indicação de precedentes desta Corte Superior, a desarmonia do julgado ou da ausência de entendimento pacificado sobre a matéria, por exemplo, evidenciando, assim, a inaplicabilidade do embaraço indicado pelo Tribunal a quo, o que não ocorreu.
+Desse modo, a ausência de impugnação adequada dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre, nos termos do art. 932, inciso III do CPC, obsta o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles. Nesta toada os seguintes precedentes: AgRg no REsp n. 1.958.975/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe 14/11/2022 e AgRg no AREsp 1682769/SC, Quinta Turma, Rel. Ministro Ribeiro Dantas, DJe 23/06/2020).
+Diante do exposto, nos termos do art. 253, parágrafo único inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agra vo em recurso especial.
+P. e I.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. INJURIA RACIAL QUALIFICADA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
