@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão do Tribunal de Justiça de Minas Gerais cuja ementa é a seguinte:
+APELAÇÃO CÍVEL - EMBARGOS À EXECUÇÃO - EMBARGOS DE DECLARAÇÃO - JULGAMENTO DESPROVIDO DE FUNDAMENTAÇÃO - NULIDADE PATENTE - CASSAÇÃO - IMPOSSIBILIDADE DE IMEDIATO JULGAMENTO PELO TRIBUNAL (ART. 1.013, § 3, III E IV, CPC) - SUPRESSÃO DE INSTÂNCIA - DUPLO GRAU DE JURISDIÇÃO.
+I - Além dos requisitos essenciais elencados no art. 489 do CPC/201 5, a sentença deve conter fundamentação precisa, sem a mácula de obscuridade e/ou contradições, procedendo-se à análise dos fatos e fundamentos jurídicos expostos pelas partes litigantes.
+II - Proferida decisão julgando embargos de declaração desprovida de fundamentação, em patente dissonância ao disposto no ad. 489 do CPC/201 5 e no ad. 93, IX, da CR/1 988, é imperativa a cassação da sentença, fazendo-o em respeito ao princípio da inafastabilidade da jurisdição. III - Não obstante a regra impositiva do ad. 1.013, § 30, III e IV, do CPC/2015 determinar o imediato julgamento do processo nos casos de sentença omissa no exame de um dos pedidos, é vedado o órgão "ad quem" julgar pretensão não analisada pelo juízo "a quo", sob pena de supressão de instância e afronta ao duplo grau de jurisdição.
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, interposto com base na alínea a do permissivo constitucional, a recorrente aponta ofensa ao art. 1.013, § 3º, IV, do CPC.
+Sustenta que o Código de Processo Civil (CPC), prestigiando a teoria da causa madura, impõe o julgamento imediato do processo pelo Tribunal nos casos de nulidade da sentença por ausência de fundamentação, bastando para tanto que o feito esteja em condições de imediato julgamento do mérito.
+Em suas contrarrazões, a recorrida pugna pelo não conhecimento do recurso ou, alternativamente, pelo seu não provimento.
+O recurso foi admitido pela decisão de fls. 786/787.
+É o relatório. Passo a decidir.
+O Tribunal de origem decidiu que:
+Como se pode notar, o Banco Santander Brasil 5/A opôs embargos de declaração (fls. 4441447), aduzindo: (a) "obscuridade - erro de fato", eis que a prova pericial demonstra a nulidade da CDA, "restando desconstituídas as alegações do Município quanto a sua validade"; e, (b) "omissão - erro de fato", posto que o laudo pericial provou a natureza acessória das atividades tributadas pelo Fisco, cuja análise foi omissa pela venerável sentença, revelando a presença de ponto omisso, quanto de erro de fato" ( .. ) que merece ser sanado".
+A d. magistrada singular rejeitou ditos embargos de declaração, fazendo-o, entretanto, nos seguintes termos:
+BANCO SANTANDER BRASIL S/A opôs os presentes Embargos Declaratórios contra a sentença prolatada às fls.436/442 dos autos.
+Alega que a decisão proferida padece dos vícios da obscuridade e da omissão, haja vista a comprovação pelo laudo pericial da natureza acessória das atividades tributados pelo Fisco e da nulidade das CDA"S, por ausência dos requisitos da certeza e liquidez.
+Requereu o provimento do recurso, sanando-se os vícios apontados. Devidamente intimado nos termos do Artigo 1023, §21 do CPC, o Município de Belo Horizonte manifestou-se contrariamente ao provimento do recurso, conforme fls.452-verso.
+Em síntese, é o relatório. Decido.
+Conheço dos presentes Embargos, por serem próprios e tempestivos.
+In casu, a irresignação do recorrente não procede, eis que na decisão recorrida inexiste qualquer obscuridade ou contradição, nem foi omitido ponto sobre o qual este Juízo deveria ser pronunciar.
+Nas razões recursais ofertadas, constata-se o nítido propósito de reforma da decisão para adequá-la ao entendimento adotado pelo Embargante quanto à insubsistência do crédito executado.
+Todavia, o recurso aviado encontra-se adstrito aos limites do Artigo 1022 do CPC e não enseja a reforma da decisão, Há recurso próprio para tanto.
+Com essas considerações, REJEITO OS EMBARGOS DE DECLARAÇÃO por inexistirem omissões, contradições ou obscuridade na decisão.
+Fique cedo, essa é a integral resposta dada aos aclaratórios.
+Como se pode constatar, a fundamentação supratranscrita da decisão dos embargos, a toda evidência, afronta o disposto no ad. 93, IX, da CR188 e no ad. 489, II, do CPC/2015.
+Com o respeito devido ao magistrado singular, a decisão prolatada em resposta aos aclaratórios emprega termos genéricos, os quais se prestam a justificar qualquer outra decisão, posto ausente motivação específica acerca das questões apontadas pela parte embargante, ora segunda apelante nos declaratórios por ela apostos (obscuridade/omissão).
+ ..
+Uma vez que a decisão recorrida não atende ao disposto nos arts. 141 e 489, II, ambos do CPCII5, e tampouco à imprescindibilidade de fundamentação prevista na CR/1 988, há óbice ao reconhecimento de sua validade, pois, na forma em que elaborada compromete a legitimidade democrática do Poder Judiciário.
+ ..
+Válido consignar: não ignoro que o CPC/15, em que pese a configuração do vício acima destacado (ausência de fundamentação da decisão que julga os declaratórios), impõe o julgamento imediato do processo; desde que presentes as condições para tanto (ad. 1.013, § 3º, III e IV, CPCI15).
+A meu juízo, não pode o juízo "ad quem" ingressar em matéria que nem sequer foi decidida no juízo "a quo".
+Destaque-se que a aplicação do art. 1.013, § 30, III e IV, do CPC/1 5 e a argumentação de que não há supressão de instância, mesmo quando não analisado pedido pelo magistrado singular, com amparo no princípio da devolutividade (ad. 1.013, § 1º, CPC/15), "data maxima venia", acaba por transferir a este já assoberbado Tribunal a análise de questões arguidas na instância primeva, mas não abarcadas na decisão recorrida, em patente inobservância pelo juiz singular do dever de proceder à completa prestação jurisdicional por meio de julgamento devidamente fundamentado (ad. 93, IX, CF 1988).
+A instância de origem entendeu que: "a meu juízo, não pode o juízo ad quem ingressar em matéria que nem sequer foi decidida no juízo a quo".
+Constata-se que o aresto merece reforma, porquanto, ao analisar o caso, "ao tribunal será permitido julgar o recurso, decidindo, desde logo, o mérito da causa, sem necessidade de requisitar ao juízo de primeiro grau manifestação acerca das questões. Considera-se o processo em condições de imediato julgamento apenas se ambas as partes tiveram oportunidade adequada de debater a questão de mérito que será analisada pelo tribunal".
+Cite-se:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. CPC/2015. ART. 1.013. APELAÇÃO. EFEITO DEVOLUTIVO. EXTENSÃO DA DEVOLUTIVIDADE DETERMINADA PELO PEDIDO RECURSAL. CAPÍTULO NÃO IMPUGNADO. TRÂNSITO EM JULGADO. PROIBIÇÃO DE REFORMATIO IN PEJUS. CONTRADITÓRIO. INDISPENSABILIDADE. NÃO ACEITAÇÃO PELO ORDENAMENTO JURÍDICO BRASILEIRO DA "DECISÃO-SURPRESA".
+1. A apelação é interposta contra sentença, podendo compreender todos ou apenas alguns capítulos da decisão judicial recorrida, a depender da delimitação apresentada pelo recorrente em sua petição, que vincula a atuação do órgão ad quem na solução do mérito recursal.
+2. O efeito devolutivo da apelação define o que deverá ser analisado pelo órgão recursal. O "tamanho" dessa devolução se definirá por duas variáveis: sua extensão e sua profundidade. A extensão do efeito devolutivo é exatamente a medida daquilo que se submete, por força do recurso, ao julgamento do órgão ad quem.
+3. No âmbito da devolução, o tribunal poderá apreciar todas as questões suscitadas e discutidas no processo, ainda que não tenham sido solucionadas pela sentença recorrida, mas a extensão do que será analisado é definida pelo pedido do recorrente. Em seu julgamento, o acórdão deverá limitar-se a acolher ou rejeitar o que lhe for requerido pelo apelante, para que não haja ofensa aos princípios da disponibilidade da tutela jurisdicional e o da adstrição do julgamento ao pedido.
+4. O diploma processual civil de 2015 é suficientemente claro ao estabelecer que "a apelação devolverá ao tribunal o conhecimento da matéria impugnada", cabendo ao órgão ad quem apreciar e julgar "todas as questões suscitadas e discutidas no processo, ainda que não tenham sido solucionadas, desde que relativas ao capítulo impugnado" (§ 1º do art. 1.013 do CPC/2015).
+5. Sobre o capítulo não impugnado pelo adversário do apelante, podendo a reforma eventualmente significar prejuízo ao recorrente, incide a coisa julgada. Assim, não há pensar-se em reformatio in pejus, já que qualquer providência dessa natureza esbarraria na res iudicata.
+6. Ao tribunal será permitido julgar o recurso, decidindo, desde logo, o mérito da causa, sem necessidade de requisitar ao juízo de primeiro grau manifestação acerca das questões. Considera-se o processo em condições de imediato julgamento apenas se ambas as partes tiveram oportunidade adequada de debater a questão de mérito que será analisada pelo tribunal.
+7. A utilização pelo juiz de elementos estranhos ao que se debateu no processo produz o que a doutrina e os tribunais, especialmente os europeus, chamam de "decisão-surpresa", considerada inadmissível, tendo em conta a compreensão atual do contraditório.
+8. Recurso especial provido.
+(REsp n. 1.909.451/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/3/2021, DJe de 13/4/2021.)
+Diante do exposto, com base no art. 932, V, do CPC/2015, c/c o art. 255, § 4º, III, do RISTJ e Súmula 568/STJ, dou provimento ao recurso especial, nos termos da fundamentação, a fim de que o Tribunal de origem adeque seu entendimento ao deste STJ.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. EMBARGOS DE DECLARAÇÃO. JULGAMENTO DESPROVIDO DE FUNDAMENTAÇÃO. NULIDADE PATENTE. CASSAÇÃO. POSSIBILIDADE DE IMEDIATO JULGAMENTO PELO TRIBUNAL (ART. 1.013, § 3, III E IV, CPC). RECURSO PROVIDO.
