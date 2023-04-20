@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por CAPRI ADMINISTRADORA DE BENS LTDA, contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 04/11/2022.
+Concluso ao gabinete em: 13/03/2023.
+Ação: de obrigação de fazer cumulada com compensação por dano moral, reparação por dano material e pedido de antecipação de tutela, ajuizada pela agravada, em face da agravante, na qual alega que ter constatado a existência de árvores em terreno vizinho ao seu, de propriedade da agravante, que apresentavam risco de queda e de consequente dano a sua propriedade. Aduz que parte de umas das árvores caiu em sua residência, danificando sua propriedade. Pleiteia seja a agravante compelida a retirar as árvores presentes no terreno, assim como compensação por dano moral e reparação por dano material.
+Sentença: julgou parcialmente procedentes os pedidos, para condenar a agravante a compensar a agravada pelos danos morais sofridos, no importe de R$ 10.000,00 (dez mil reais).
+Acórdão: negou provimento às apelações interpostas pelas partes, nos termos da seguinte ementa:
+Direito de vizinhança. Queda de árvore e risco. Pedido de retirada (poda) e de indenização por danos materiais e morais. Sentença de parcial procedência. Legitimidade passiva aferida. Propriedade da ré documentada, sem prova de doação ao Município. Cerceamento de defesa alegado pela autora. Não ocorrência. Conteúdo da insurgência que exige prova documental, sendo desnecessária prova oral. Responsabilidade objetiva. Danos materiais sem causa adequada. Pedido baseado em um orçamento e adstrito no recurso ao valor da mesa, sem danos aparentes na fotografia. Danos morais. Demonstração de perturbação grave ao sossego, perda de tempo útil e riscos inerentes. Verba fixada em R$10.000,00. Razoabilidade e proporcionalidade. Critérios orientadores. Recursos não providos.
+A ré alega doação parcial ao Município em razão da Lei de Loteamento (6.766/79, art. 4º, § 4º), insistindo na ilegitimidade passiva. Ocorre que consta na matrícula como proprietária, bem como o empreendimento está embargado e a própria ré confirmou ser proprietária em documento, não retirando o embargo os direitos e deveres decorrentes da propriedade.
+O pedido de produção de provas não restou justificado, bem como se pretendeu apenas depoimento de testemunhas, bem como a prova acerca de danos materiais é documental e há momento próprio para a produção. A questão recursal está adstrita aos danos materiais e ao pedido de ressarcimento, não servindo a dilação probatória nos moldes pretendidos.
+Os danos materiais foram apontados em um orçamento apresentado, no qual se destacam os serviços a serem reparados e o valor de mesa de jantar danificada. E, nesta sede recursal, o pedido corresponde unicamente ao valor orçado da mesa, sendo adstrito o exame à insurgência, porém a fotografia não indica danos ao móvel, observando-se que não há sinais que certamente uma árvore deixaria em evidência, não havendo elemento de prova do dano material.
+A situação vivenciada se enquadra com ofensa a direito de personalidade. Os fatos evidentemente causam transtornos que ultrapassam limites de mero incômodo ou aborrecimento, com privação do bem estar, risco e abalo. A quantificação dos danos morais observa o princípio da lógica do razoável, devendo a indenização ser proporcional ao dano e compatível com a reprovabilidade da conduta ilícita, a intensidade e a duração dos transtornos experimentados pela vítima, a capacidade econômica da ré e as condições sociais do ofendido. Assim, a fixação em R$ 10.000,00 deve mantida, condizente com os parâmetros estabelecidos e critérios orientadores. (e-STJ Fls. 424/425)
+Embargos de Declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 485, VI, do CPC/15, 884 e 944, parágrafo único, do CC. Insurge-se contra a condenação ao pagamento de compensação por dano moral. Sustenta não ser parte legítima para figurar no polo passivo do presente processo.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca do art. 485, VI, do CPC/15, indicado como violado, apesar da oposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere à legitimidade passiva para o processo da agravante, assim como em relação à condenação ao pagamento de compensação por dano moral, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, majoro os honorários fixados em desfavor da agravante para 15% sobre o valor da condenação.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM COMPENSAÇÃO POR DANO MORAL E REPARAÇÃO POR DANO MATERIAL. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. MAJORAÇÃO.
+1. Ação de obrigação de fazer cumulada com compensação por dano moral e reparação por dano material.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. Agravo conhecido. Recurso especial não conhecido, com majoração de honorários.
