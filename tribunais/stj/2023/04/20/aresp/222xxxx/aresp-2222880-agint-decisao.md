@@ -1,0 +1,12 @@
+DECISÃO
+O presente agravo interno foi interposto por INDUSTRIAL BOITUVA DE BEBIDAS S/A contra a decisão que, às fls. 229-231, conheceu do agravo em recurso especial para não conhecer do recurso especial interposto pelo contribuinte.
+Contra essa decisão, o contribuinte interpôs o presente agravo interno (fls. 235-267), sustentando, em síntese, que não houve a demonstração de que a reunião de processos atendia aos requisitos estabelecidos no art. 28 da Lei de Execuções Fiscais (as ações se encontrem em estágio procedimental compatível com a providência), de modo a que se criaria tumulto e inconveniências processuais de grande repercussão.
+Intimado a se manifestar sobre o referido agravo interno, a Fazenda Nacional manteve-se silente, conforme certidão de fl. 271.
+Por fim, o contribuinte apresentou petição (fls. 276-287) apontando a perda superveniente do objeto do próprio recurso especial interposto pelo particular.
+É o relatório. Decido.
+Primeiramente, deve-se destacar que a insurgência recursal do contribuinte, desde a interposição de seu recurso especial e, consequentemente, da apresentação do agravo em recurso especial e do sucessivo agravo interno, versa acerca do critério para designação da competência para julgamento da execução fiscal.
+Contudo, conforme expressamente suscitado pelo contribuinte em sua petição de fls. 276-287, o recurso especial por ele interposto perdeu o objeto de sua irresignação, tendo em vista que "o Juízo para o qual foi declinada a competência suscitou CONFLITO DE COMPETÊNCIA." e, diante desse incidente processual, decidiu "a eminente Desembargadora Federal, MARIA DE FATIMA LABERR RRE, que o Juízo suscitado seria o competente, tal como defendido pela Agravante.".
+Assim, conforme exposto pelo próprio contribuinte "ainda que por meio "oblíquo" , foi obtido o resultado que a Agravante entendia correto, conforme decisão anexa, restando sem objeto esta irresignação.".
+Nesse contexto, de acordo com o regimento interno do Superior Tribunal de Justiça, deve ser negado conhecimento ao recurso especial que for considerado, como no caso, prejudicado pela perda de objeto de sua irresignação (art. 255, §4º, I, do Regimento Interno do STJ).
+Ante o exposto, reconsidero a decisão agravada (fls. 229-231), reconheço a perda de objeto apontada na petição de fls. 276-287 e, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo em recurso especial para não conhecer do recurso especial interposto pelo contribuinte.
+Publique-se. Intimem-se.
