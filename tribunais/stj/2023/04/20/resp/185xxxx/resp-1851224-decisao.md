@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto por JOSÉ RIBAMAR DE SOUZA, com fundamento nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do Tribunal de Tribunal Regional Federal da 5ª Região, na Apelação Criminal n. 0000406-73.2011.4.05.8402.
+A controvérsia foi bem relatada no parecer ministerial, nos seguintes termos (e-STJ fl. 2.548):
+Trata-se de recurso especial interposto por JOSÉ RIBAMAR DE SOUZA contra acórdão do TRF da 5a Região, que deu parcial provimento ao apelo defensivo para reconhecer a prescrição da pretensão punitiva do recorrente quanto ao crime de uso de documento falso e para reduzir a pena relativa ao crime definido no art. Io, I, do DL 201/67 (crime de responsabilidade praticado por prefeitos) para 3 anos e 6 meses de reclusão, em regime inicial semiaberto, e multa de 15 salários-mínimos.
+2. Aponta o recorrente divergência jurisprudencial e violação ao art. 59 do CP sob o argumento de que não houve fundamentação idônea quanto à valoração negativa das "conseqüências do crime", porquanto o Tribunal de origem ter-se-ia valido de elementos do próprio tipo penal para considerá-las desfavoráveis. Pleiteia, pois, a redução ao mínimo legal da pena-base relativa ao crime definido no art. Io, I, do DL 201/67.
+3. Não foram apresentadas contrarrazões. Admissibilidade na origem à fl. 819.
+Parecer ministerial "pelo conhecimento do recurso especial pela letra "a" e, no mérito, pelo não provimento" (e-STJ fl. 2.549)
+É o relatório.
+Decido.
+Inicialmente, como apontado pelo órgão ministerial, a irresignação não prospera quanto à divergência jurisprudencial, pois não foi demonstrada nos termos exigidos pela legislação processual de regência.
+De fato, a mera transcrição de ementa não serve à comprovação do dissídio, sendo necessário o cotejo analítico entre os acórdãos recorrido e paradigma, com a efetiva confirmação da similitude dos casos confrontados.
+A propósito:
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SONEGAÇÃO DE AUTOS (ART. 356 DO CÓDIGO DE PENAL). ALÍNEA "C". AUSÊNCIA DE DEMONSTRAÇÃO DE DISSÍDIO JURISPRUDENCIAL. SÚMULA 284/STF. PREQUESTIONAMENTO. NÃO OCORRÊNCIA. RETENÇÃO INJUSTIFICADA DE AUTOS. INTIMAÇÃO PARA DEVOLUÇÃO. DOLO NA CONDUTA. VERIFICAÇÃO. SÚMULA 7/STJ.
+1. Não se pode conhecer de recurso especial fundado na alínea "c" do permissivo constitucional quando a parte recorrente não realiza o necessário cotejo analítico entre os arestos confrontados, a fim de ficarem demonstradas a similitude fática e a adoção de teses divergentes, sendo insuficiente a mera transcrição de ementa. Divergência jurisprudencial não demonstrada.
+ ..
+6. Agravo regimental não provido. (AgRg no REsp 1538296/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 27/9/2016, DJe 5/10/2016.)
+No mais, acerca da elevação da pena básica, assim se manifestou o Tribunal de origem, no que interessa (e-STJ fl. 736):
+ ..  Em relação às consequências do delito, entendo que são desfavoráveis, porque foi constatado que o crime privou a população carente do município da assistência necessária, motivo pelo qual a pena deve ser fixada acima do mínimo.
+No que toca às consequências do delito, penso que tal fundamento é suficiente a motivar a exasperação da pena-base pois os recursos desviados e apropriados destinavam-se ao fornecimento de "produtos farmacêuticos, leite e outros materiais à população" , itens importantes à assistência de vulneráveis (e-STJ fl. 734).
+Nesse sentido, inclusive, o parecer ministerial (e-STJ fl. 2.549):
+5. Quanto à apontada violação ao art. 59 do CP, o recurso deve ser conhecido, mas não há de merecer provimento. O Tribunal de origem assim valorou as circunstâncias relativas ao crime do art. Io, I, do DL 201/67, fl. 736: "Em relação às conseqüências do delito, entendo que são desfavoráveis, porque foi constatado que o crime privou a população carente do município da assistência necessária, motivo pelo qual a pena deve ser fixada acima do mínimo."
+6. O crime em questão, praticado por Prefeitos e Vereadores, consiste em apropriar-se de bens ou rendas públicas, ou desviá-los em proveito próprio ou alheio. É certo que a apropriação ou o desvio de bens e verbas públicas por agentes públicos, em proveito próprio ou alheio, sempre priva ou restringe a fruição de algum serviços pela população, em maior ou menor grau. Contudo, no caso, como bem destacado no acórdão recorrido, trata-se de desvio de verbas públicas, em elevada quantia, destinadas à aquisição de medicamentos e alimentos (leite em pó) para a população mais carente, de modo que as conseqüências do crime extrapolam as que são inerentes ao tipo penal, podendo, portanto, motivar exasperação da pena-base. Nessa linha, entendeu essa Corte em caso análogo que "o fato de que as verbas desviadas eram destinadas à construção de equipamento esportivo que favoreceria a qualidade de vida da população local constitui fundamento idôneo para
+Assim, penso que não há reparos a serem efetuados na primeira fase da dosimetria.
+Ante o exposto, conheço parcialmente do recurso especial e, nessa parte, nego-lhe provimento.
+Publique-se. Intimem-se.
