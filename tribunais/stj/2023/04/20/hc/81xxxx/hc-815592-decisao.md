@@ -1,0 +1,22 @@
+DECISÃO
+BENEDITO COBRA FILHO, condenado por crime de responsabilidade ao cumprimento de 4 anos e 6 meses de reclusão, em regime semiaberto alega ser vítima de constrangimento ilegal em decorrência de decisão proferida pelo Tribunal de Justiça do Estado de Minas Gerais, que determinou a execução provisória da pena, a despeito da desconstituição do trânsito em julgado da condenação pelo STF.
+Neste writ, afirma a defesa, em síntese, que " i nobstante a pendencia de julgamento de mérito do recurso especial admitido, consta dos autos principais a expedição de mandado de prisão contra o paciente, para fins de cumprimento antecipado da pena imposta, i e, antes mesmo do trânsito em julgado da decisão condenatória" (fl. 5).
+Decido.
+Deveras, infere-se dos autos que o réu respondeu em liberdade ao processo que lhe imputou a prática do delito descrito no art. 1º, I, do Decreto-lei n. 201/1967. Por ocasião do julgamento da apelação, com confirmação nos embargos declaratórios e antes do trânsito em julgado, foi determinada a execução da pena, nos seguintes termos:
+Se vencedor este voto e esgotadas as vias ordinárias, expeça- se mandado de prisão em desfavor de BENEDITO COBRA FILHO, com validade de 16 anos, conforme a decisão do Supremo Tribunal Federal no julgamento do HC 126.292/SP (fl. 147).
+Conforme alegado e comprovado, o paciente respondeu todo o processo em liberdade. A execução antecipada da pena é possível somente após esgotadas as possibilidades de recursos, o que ocorre no caso, uma vez pendente de julgamento o REsp n. 1.721.495/MG, de minha relatoria.
+Feitos esses registros, consigno que o entendimento predominante na Quinta e na Sexta Turmas deste Superior Tribunal é o de que, consoante o disposto no art. 283 do CPP, ninguém poderá ser preso senão em flagrante delito ou por ordem escrita e fundamentada da autoridade judiciária competente, em decorrência de prisão cautelar ou por condenação criminal transitada em julgado.
+Em conformidade com o resultado das ADCs n. 43/DF, n. 44/DF e n. 54/DF, julgadas em 7/11/2019 pela Corte Suprema, é pacífico o entendimento de que é ilegal a constrição preventiva ou a execução provisória da pena, como decorrência automática da condenação determinada ou confirmada em segunda instância, sem justificativa cautelar.
+Nesse sentido:
+ ..  7. O Pleno do Supremo Tribunal Federal, apreciando as ADCs 43, 44 e 54, firmou compreensão quanto à constitucionalidade do art. 283 do Código de Processo Penal, segundo o qual "Ninguém poderá ser preso senão em flagrante delito ou por ordem escrita e fundamentada da autoridade judiciária competente, em decorrência de sentença condenatória transitada em julgado ou, no curso da investigação ou do processo, em virtude de prisão temporária ou prisão preventiva".
+8. Agravo regimental parcialmente provido, apenas para obstar a execução provisória da pena.
+(AgRg no REsp n. 1.925.517/SP, Rel. Ministro Olindo Menezes, 6ª T., DJe 27/9/2021.)
+ ..  1. O Supremo Tribunal Federal decidiu, nas ADCs n. 43, 44 e 54, pela constitucionalidade do art. 283 do Código de Processo Penal. Assim, ressalvadas as hipóteses em que estão presentes os requisitos para a decretação da prisão preventiva ou temporária, é constitucional a regra que prevê o esgotamento de todas as possibilidades de recurso para que então seja iniciado o cumprimento definitivo da pena.  ..
+(HC n. 649.103/ES, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 12/8/2021.)
+Depreende-se que o crime que ensejou a sentença não se reveste de especial gravidade.
+O acusado respondeu à demanda em liberdade e somente pode ser dela privado, antes do trânsito em julgado da condenação, se fato novo ou contemporâneo (art. 312, § 2º, do CPP) justificar o cárcere processual.
+Ora, não se reveste a prisão cautelar de função punitiva. É dizer, não se conforma ao Direito a decretação da custódia ante tempus do réu, fora das hipóteses dos arts. 312, 313 e 282, § 6º, do CPP, como consequência automática da condenação, com o fim de antecipar o cumprimento da pena (art. 313, § 2º, do CPP).
+O mero esgotamento das vias recursais ordinárias, sem a evidência concreta de risco à ordem pública e perigo gerado pela liberdade do agente, não é bastante para a execução provisória da reprimenda.
+À vista do exposto, acolho o parecer ministerial e concedo a ordem, in limine, para obstar a execução imediata da pena do paciente, quanto ao Processo n. 0007535-68.2012.8.13.0083, até o trânsito em julgado da condenação.
+Comunique-se, com urgência.
+Publique-se e intimem-se.
