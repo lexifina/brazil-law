@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão publicada na vigência do CPC/2015, que inadmitiu o recurso especial em razão da incidência da Súmula n. 7 do STJ e da ausência de comprovação do dissídio jurisprudencial (e-STJ fls. 424/427).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 331):
+AÇÃO REGRESSIVA. Indenização por danos materiais. Estacionamento de veículos em shopping center. Contrato de depósito. Inundação do estabelecimento comercial. Sentença de procedência do pedido de indenização. Preliminar de cerceamento do direito de produzir provas afastada. Mérito. Chuva que não era imprevisível, mas esperada nos meses de verão. Dano ao veículo cuja guarda foi confiada à apelante que poderia ter sido evitado. Defeito na prestação dos serviços da ré configurado. Falta de mecanismos de precaução e proteção para o resguardo dos veículos dos clientes da apelante. Teoria do risco integral.
+Sentença mantida. RECURSO NÃO PROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 341/343).
+Nas razões do recurso especial (e-STJ fls. 345/370), fundamentado no art. 105, III, "a" e "c", da CF, a parte alega, além de dissídio jurisprudencial, violação dos arts. 240 e 393 do CC/2002, 14, caput, e § 3º, I e II, do CDC, 370, parágrafo único, e 374, I, do CPC/2015.
+Aponta cerceamento de defesa, aduzindo que (e-STJ fl. 351):
+A questão de fato está presente na tese da caracterização da excludente de responsabilidade da culpa de terceiro e a prova testemunhal serviria para demonstrar que o cinema foi avisado do sinistro que se aproximava e que este foi negligente ao não repassar as informações para as pessoas que se encontravam nos interiores de suas salas. Ou seja, ao indeferir a prova requerida, sem fundamentar, mesmo havendo questões de fato a serem resolvidas, o Juízo de piso afrontou Lei Federal, contrariando o disposto no parágrafo único do artigo 370 do CPC.
+Pleiteia o afastamento da condenação e ressalta que "o caso fortuito e a força maior se configuram pela inevitabilidade do fato - vide parágrafo único do artigo 393 do CC - ao passo que a proporção e efeitos da tempestade do dia 10.03.2019 e suas consequências eram impossíveis de evitar, o que demonstra a desacerto do julgado e sua afronta ao aludido dispositivo legal" (e-STJ fl. 354).
+Afirma que houve culpa de terceiro, pois "em algumas lojas, como é o caso do cinema, o acesso ao seu interior é restrito, assim, cabia aos funcionários do local, que receberam do shopping o alerta para que os veículos que estavam no piso térreo fossem retirados, a responsabilidade de avisar as pessoas que estavam nos interiores das salas de cinema, não sendo possível exigir que o shopping se incumbisse desta tarefa" (e-STJ fl. 369) e acrescenta que "houvesse que se responsabilizar alguém pelas enchentes, é claro que a responsabilidade ficaria restrita ao Poder Público" (e-STJ fl. 369).
+Requer o provimento do recurso para que seja julgada improcedente a demanda.
+No agravo (e-STJ fls. 430/442), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada às fls. 451/453 (e-STJ).
+É o relatório.
+Decido.
+No caso, o TJSP reconheceu a inexistência de cerceamento, decidindo com base nos seguintes fundamentos (e-STJ fl. 332):
+Afasto a preliminar de cerceamento do direito de produzir provas. No caso em exame, estavam presentes todos os elementos necessários à convicção do Magistrado de primeiro grau, que realizou a entrega da prestação jurisdicional, com base na prova documental, nos exatos termos do artigo 355, inciso I, do Código de Processo Civil.
+Cabe ao juiz a análise das provas necessárias para a formação da sua convicção ou, ainda, indeferir as diligências inúteis ou meramente protelatórias, nos termos do artigo 370 do Código de Processo Civil. E, no presente caso, a produção de prova testemunhal não é suficiente para eximir a ré da responsabilidade pelos fatos narrados na inicial.
+Modificar o entendimento do acórdão impugnado quanto à in existência de cerceamento de defesa, nesta hipótese, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+Consta nos autos que o Tribunal de origem entendeu que (e-STJ fls. 333/334):
+É incontroverso o alagamento no estabelecimento da ré onde se encontrava estacionado o veículo da segurada da parte autora, que experimentou prejuízos materiais. As enchentes nos grandes centros urbanos, em que pesem serem eivados do elemento surpresa, possuem grau de previsibilidade. Assim, cabia à apelante fornecedora de serviços, adotar medidas preventivas e de proteção para o resguardo dos bens de seus clientes, mormente em meses de calor, como é o caso do mês de janeiro. Logo, a chuva ocorrida na data dos fatos não era imprevisível e os prejuízos causados ao veículo confiado à sua guarda pela parte autora poderia ser evitados com medidas preventivas de segurança.
+A ré explora a atividade econômica de estacionamento de automóveis, motivo pelo qual é aplicável a teoria da culpa integral. É cabível ao empreendedor o ônus da atividade lucrativa explorada no mercado, inclusive nas hipóteses de caso fortuito ou força maior.
+(..)
+Por tais motivos, outra não poderia ser a r. sentença, que não a procedência do pedido de indenização por danos materiais.
+Da mesma forma, alterar a conclusão adotada pelo aresto recorrido quanto à responsabilidade da agravante implica revolvimento dos eleme ntos fático-probatórios dos autos, medida vedada pelo óbice da Súmula n. 7 do STJ.
+Por fim, a incidência da Súmula n. 7/STJ também inviabiliza o exame do recurso especial pela alínea "c" da norma autorizadora, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a Corte de origem.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Deixo de majorar os honorários em favor da parte recorrida, nos termos do art. 85, § 11, do CPC/2015, pois na origem a verba honorária foi estabelecida no percentual legal máximo (e-STJ fl. 334).
+Publique-se e intimem-se.
