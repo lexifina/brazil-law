@@ -1,0 +1,74 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº
+5006716-91.2021.8.08.0011
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: CLYSMAN SANTOS RODRIGUES
+RECORRIDO: 123 VIAGENS E TURISMO LTDA. e outros
+RELATOR(A):THAITA CAMPOS TREVIZAN
+
+_______________________________________________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+_______________________________________________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto da Relatora.
+Órgão julgador vencedor
+: 3ª Turma Recursal - Gabinete 2
+_______________________________________________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+_______________________________________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+RECURSO INOMINADO: 5006716-91.2021.8.08.0011
+
+RECORRENTE: CLYSMAN SANTOS RODRIGUES
+
+RECORRIDO: 123 VIAGENS E TURISMO LTDA., LATAM AIRLINES GROUP S/A
+
+RELATORA: DRA. THAITA CAMPOS TREVIZAN
+
+JUIZ SENTENCIANTE:
+RONEY GUERRA DUQUE
+
+EMENTA. DIREITO DO CONSUMIDOR E PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. ALEGAÇÃO DE QUE TEVE A PASSAGEM CANCELADA NO DIA VOO E QUE NÃO PÔDE COMPARECER EM PROVA DE CONCURSO POR CONTA DO CANCELAMENTO. COMPRA DA PASSAGEM EM DIA ANTERIOR AO VOO. AUSÊNCIA DE DEMONSTRAÇÃO DE CONFIRMAÇÃO DA PASSAGEM E EMISSÃO DE BILHETE. DANOS MORAIS NÃO CONFIGURADOS. SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS, NOS TERMOS DO ART. 46 DA LEI 9.099/95.
+
+VOTO
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+Defiro o pedido de Assistência Judiciária Gratuita à parte recorrente.
+
+EMENTA.
+DIREITO DO CONSUMIDOR E PROCESSUAL CIVIL.
+AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS.
+NARRA O AUTOR QUE NO DIA 04/06/2021 ADQUIRIU PASSAGEM AÉREA PARA O DIA SEGUINTE (05/06/2021), COM DESTINO TOCANTINS, ONDE FARIA PROVA DE CONCURSO PARA POLICIAL MILITAR, QUE OCORRERIA EM 06/06/2021. ENTRETANTO, NO DIA DA VIAGEM, ALEGA QUE A PASSAGEM FOI CANCELADA, MOTIVO PELO QUAL NÃO PÔDE COMPARECER NA PROVA. PLEITEOU PELA CONDENAÇÃO DAS REQUERIDAS AO PAGAMENTO DE DANOS MORAIS.
+SENTENÇA DE PISO JULGOU IMPROCEDENTE
+A PRETENSÃO AUTORAL.
+RECURSO INOMINADO DA PARTE AUTORA.
+EM SUAS RAZÕES, ADUZ A OCORRÊNCIA DE DANOS MORAIS, TENDO EM VISTA QUE A PASSAGEM AÉREA FOI EMITIDA E, POR CONTA DO CANCELAMENTO, DEIXOU DE PARTICIPAR DO CERTAME.
+RECURSO CONHECIDO E IMPROVIDO.
+CONFORME MENCIONADO PELO MAGISTRADO
+A QUO,
+A COMPRA DA PASSAGEM SE DEU UM DIA ANTES DO VOO, BEM COMO A EMISSÃO DESTA NÃO HAVIA SIDO CONFIRMADA. SOMADO A ISTO, EXTRAI-SE DO ID. 2902837 QUE FOI CONFIRMADO O RECEBIMENTO DO PEDIDO DE Nº 3QP-GMB-B-21, E QUE A PARTE REQUERIDA EVIDENCIOU A POSSIBILIDADE DE CANCELAMENTO DO PEDIDO EM CASO DE ALTERAÇÃO DA PONTUAÇÃO DO VOO EM MILHAS. DESTA FEITA, COADUNO COM O JUÍZO DE PISO E ENTENDO QUE A SITUAÇÃO SE DEU POR CULPA EXCLUSIVA DO AUTOR, NÃO RESTANDO CONFIGURADOS OS DANOS MORAIS PLEITEADOS.
+SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS
+, NOS TERMOS DO ART. 46 DA LEI No 9.099/95.
+CONDENAÇÃO DA PARTE RECORRENTE AO PAGAMENTO DAS CUSTAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS
+FIXADOS EM 20% SOBRE O VALOR DA CAUSA, NA FORMA DO ART. 55 DA LEI 9.099/95, FICANDO SUSPENSA, TODAVIA, A EXIGIBILIDADE DE TAL VERBA SUCUMBENCIAL (CUSTAS E HONORÁRIOS) ANTE A CONCESSÃO DO BENEFÍCIO DA JUSTIÇA GRATUITA, CONFORME PRELEÇÃO DO § 3o, DO ART. 98, DO CPC/15.
+
+É como voto.
+
+THAITA CAMPOS TREVIZAN
+
+Relatora
+
+_______________________________________________________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
