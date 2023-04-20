@@ -1,0 +1,36 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+Primeira Turma Recursal DOS JUIZADOS ESPECIAIS DO DISTRITO FEDERAL
+Processo N.RECURSO INOMINADO CÍVEL 0754727-76.2022.8.07.0016RECORRENTE(S)DISTRITO FEDERALRECORRIDO(S)CLEIDE FRANCISCA DOS ANJOSRelatorJuiz AISTON HENRIQUE DE SOUSA
+ Acórdão Nº1692487
+
+EMENTA
+
+RECURSO INOMINADO. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. APOSENTADORIA. AVERBAÇÃO DE TEMPO DE SERVIÇO. CONTAGEM DE TEMPO ESPECIAL.1 – Na forma do art. 46 da Lei 9.099/1995, a ementa serve de acórdão. Recurso próprio, regular e tempestivo. Pretensão: condenação à obrigação de fazer consistindo em compelir o réu a averbar 2.447 dias de trabalho em atividade de magistério, para fins de aposentadoria especial e condenação em obrigação de pagar quantia certa a título de abono de permanência relativo ao período em atividade após reunir os requisitos para aposentadoria. Recurso do réu postula a reforma da sentença que julgou o pedido procedente, em parte, relativo ao ponto da averbação do tempo.2 – Aposentadoria especial. Tempo de magistério. Atividade pedagógica. Na forma do art. 40, § 5º. Da CF “Os ocupantes do cargo de professor terão idade mínima reduzida em 5 (cinco) anos em relação às idades decorrentes da aplicação do disposto no inciso III do § 1º, desde que comprovem tempo de efetivo exercício das funções de magistério na educação infantil e no ensino fundamental e médio fixado em lei complementar do respectivo ente federativo.” No Distrito Federal o direito à aposentadoria especial é prevista nos art. 20 e 22 da LC n. 769/2008. As funções de magistério abrangem as atividades destinadas à qualificação, formação continuada, planejamento pedagógico e orientação educacional que dão suporte ao exercício de regência de classe e ao processo de ensino e aprendizagem, conforme previsto no art. 2º, IX da Lei distrital 5.105/2013. Neste sentido, o STF: (ADI 3772, Relator(a): CARLOS BRITTO, Relator(a) p/ Acórdão: RICARDO LEWANDOWSKI, Tribunal Pleno, julgado em 29/10/2008).3 – Aposentadoria especial. A autora pretende averbar os períodos de 20/02/2002 a 31/03/2003 (405 dias),  03/05/2007 a 11/02/2008 (285 dias) e 01/09/2012 a 05/12/2016 (1557 dias), em um total de 2.447 dias, que foram excluídos para fins de contagem de tempo para a aposentadoria especial (ID 45151500) e, por conseguinte, ao abono de permanência. As atividades desempenhadas pela servidora nos períodos assinalados se enquadram como coordenação e assessoramento pedagógico e devem ser aproveitados para oportuna aposentadoria especial, como definido nas normas de regência (ID 45151500, pág. 25 e 26). Sentença mantida.4 – Recurso conhecido, mas não provido. Sem custas em face do Decreto-lei 500/1969. O recorrente arcará com os honorários advocatícios fixados em 10% sobre o valor da condenação (art. 55, Lei 9.099/1995 cc. art. 27, Lei 12.153/2009).
+
+V
+
+ACÓRDÃO
+
+Acordam os Senhores Juízes da Primeira Turma Recursal dos Juizados Especiais do Distrito Federal do Tribunal de Justiça do Distrito Federal e dos Territórios, AISTON HENRIQUE DE SOUSA - Relator, ANTONIO FERNANDES DA LUZ - 1º Vogal e FLÁVIO FERNANDO ALMEIDA DA FONSECA - 2º Vogal, sob a Presidência da Senhora Juiza RITA DE CASSIA DE CERQUEIRA LIMA ROCHA, em proferir a seguinte decisão: CONHECIDO. NÃO PROVIDO. UNÂNIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 28 de Abril de 2023
+
+Juiz AISTON HENRIQUE DE SOUSARelator
+
+RELATÓRIO
+
+Na forma do art. 46 da Lei 9.099/1995, a ementa serve de acórdão. Recurso próprio, regular e tempestivo.
+
+VOTOS
+
+O Senhor Juiz AISTON HENRIQUE DE SOUSA - Relator
+
+Dispensado o voto. A ementa servirá de acórdão, conforme inteligência dos arts. 2º e 46 da Lei n. 9.099/95.
+
+O Senhor Juiz ANTONIO FERNANDES DA LUZ - 1º Vogal Com o relatorO Senhor Juiz FLÁVIO FERNANDO ALMEIDA DA FONSECA - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECIDO. NÃO PROVIDO. UNÂNIME.
