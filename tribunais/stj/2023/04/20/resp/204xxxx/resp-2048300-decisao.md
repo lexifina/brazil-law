@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial manejado por Haus Importacao, Exportacao, Distribuicao e Comercialização de Materiais de Construcao Ltda., com base no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 246):
+CONSTITUCIONAL E TRIBUTÁRIO - MANDADO DE SEGURANÇA - ICMS - DIFERENCIAL DE ALÍQUOTA - DIFAL - NOVA HIPÓTESE DE INCIDÊNCIA
+TRIBUTÁRIA - NECESSIDADE DE LEI COMPLEMENTAR NACIONAL - INEXIGIBILIDADE DA EXAÇÃO - OFENSA A DIREITO LÍQUIDO E CERTO.
+1. Impetração para afastar exigência de diferencial de alíquota de ICMS pelo Estado de São Paulo. Nova hipótese de incidência tributária com matizes próprias em operações interestaduais instituída pela EC nº 87/15. Necessidade de lei complementar nacional editada posteriormente à alteração constitucional. Tema nº 1.093 do STF. Modulação dos efeitos que não atinge as ações judiciais em curso. Necessidade de imediata observância do precedente vinculante, independentemente de seu trânsito em julgado. Ofensa a direito líquido e certo demonstrada. 2. Declaração de direito à compensação de valores recolhidos indevidamente desde a EC nº 87/15. Inadmissibilidade. Aplicação da Súmula nº 271 STF. Sentença reformada. Segurança concedida, em parte.
+Recurso provido.
+Os embargos declaratórios opostos foram acolhidos, nestes termos (fls. 262/263):
+Como indicado pela embargante, o acórdão embargado afirmou que a ação foi proposta em "novembro de 2021" (fls. 246 e 247), quando o correto seria novembro de 2020. Com efeito, verifica-se do sistema informatizado e do contido nas razões de apelação (fls. 191) que a impetração se deu em 25/11/2020. Assim, para que seja sanado o erro material, declara-se o correspondente parágrafo da fundamentação do acórdão para que passe a constar:
+"Com efeito, tendo a ação sido proposta em novembro de 2021, vários meses antes do julgamento do Tema nº 1.093 do STF, irrecusável a imediata aplicação da tese jurídica ali fixada. Deveras, a controvérsia sobre a aplicabilidade dessa decisão ocorre nas ações propostas entre a data da sessão de julgamento e a publicação do acórdão. Ainda assim, mesmo nesses casos, tem prevalecido o entendimento de que o marco temporal inicial se dá a partir da publicação da ata de julgamento da tese, ocorrida em 03 de março de 2021, momento em que possui força de acórdão e produzirá seus efeitos. (..)".
+Opostos novos embargos de declaração, foram rejeitados (fls. 271/273).
+A parte recorrente aponta violação aos arts. 927, II e IV, do CPC. Sustenta, em resumo, que "possui direito líquido e certo de extinguir, mediante compensação, os seus futuros débitos regularmente lançados com os valores indevidamente pagos, observado o período prescricional" (fl. 283).
+Contrarrazões apresentadas às fls. 310/321.
+Parecer do Ministério Público Federal pelo provimento do recurso especial (fls. 339/344).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Com relação ao art. 927, II e IV, do CPC, nota-se que o referido dispositivo legal não contém comando capaz de sustentar a tese recursal e infirmar o juízo formulado pelo acórdão recorri do, de maneira que se impõe ao caso concreto a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.").
+Por oportuno, destacam-se os seguintes precedentes: AgRg no AREsp 161.567/RJ, Rel. Ministro Teori Albino Zavascki, Primeira Turma, DJe 26/10/2012; REsp 1.163.939/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 8/2/2011.
+Além disso, o Tribunal de origem decidiu a controvérsia à luz de fundamentos eminentemente constitucionais (Tema 1.093 do STF), matéria insuscetível de ser examinada em sede de recurso especial.
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
