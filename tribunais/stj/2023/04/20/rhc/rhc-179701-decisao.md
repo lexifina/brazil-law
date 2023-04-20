@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto por TACIANA ALVES BARBOSA contra acórdão proferido pelo Tribunal de Justiça do Estado de Pernambuco.
+Consta dos autos que a recorrente foi presa temporariamente (convertida a custódia em prisão preventiva) pela suposta prática dos crimes de tráfico de drogas e associação para o tráfico (Operação Impasse).
+Inconformada com a prisão e o indeferimento do pedido de prisão domiciliar, a defesa impetrou o habeas corpus originário, cuja ordem foi denegada (e-STJ fls. 100/107).
+Nas razões do presente recurso, a defesa narra que a recorrente é mãe solteira de um filho menor de 12 (doze) anos de idade, razão pela qual faz jus à prisão domiciliar. Invoca o habeas corpus coletivo n. 143.641, do Supremo Tribunal Federal, para amparar o seu pedido. Ressalta que os crimes, em tese a ela imputados, não foram cometidos com violência ou grave ameaça, mostrando-se viável a aplicação de medidas cautelares diversas da prisão.
+Diante disso, requer, liminarmente e no mérito, a concessão de prisão domiciliar.
+É o relatório. Decido.
+De plano, verifico que nesta Corte também foi impetrado o HC n. 816.412/PE, igualmente em favor da ora recorrente e em face do mesmo ato aqui impugnado, apontando-se, ainda, as mesmas ilegalidades quanto à manutenção da custódia cautelar.
+Ademais, em decisão proferida em 17/4/2023, este Relator, admitindo o processamento do referido mandamus, indeferiu a liminar requerida, estando os autos aguardando a juntada de informações e do parecer ministerial.
+Verifica-se, todavia, que a utilização do recurso cabível simultaneamente à utilização do writ substitutivo desvirtua o ordenamento processual, por se tratar de mera reiteração, motivo pelo qual o presente recurso não pode prosseguir.
+Isto porque "embora o recurso ordinário em habeas corpus consista no meio próprio para a apreciação da irresignação, a defesa optou por impetrar, também, habeas corpus substitutivo, o qual primeiramente foi despachado nesta Corte. Desse modo, a tese idêntica não pode ser simultaneamente analisada em impetrações/interposições posteriores". (AgRg no RHC n. 103.808/SP, Relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 27/11/2018, DJe 10/12/2018).
+Nesse ponto, cumpre salientar que, embora esta Corte entenda ser, de início, incabível o habeas corpus substitutivo de recurso, em homenagem ao princípio da ampla defesa, é de rigor o exame da insurgência, p ara verificar a existência de eventual constrangimento ilegal passível de ser sanado pela concessão da ordem, de ofício. Destarte, não haverá qualquer prejuízo ao recorrente em ter as teses ora levantadas analisadas quando do julgamento do writ e não do presente recurso ordinário.
+Ante o exposto, nego seguimento ao presente recurso.
+Intimem-se.
