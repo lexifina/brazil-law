@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim ementado (fl. 124):
+EMENTA: "HABEAS CORPUS". TRÁFICO DE DROGAS. SENTENÇA CONDENATÓRIA PROFERIDA. TRANCAMENTO DA AÇÃO PENAL. SENTENÇA CONDENATÓRIA PROFERIDA. ANÁLISE DE PROVA. IMPOSSIBILIDADE. RECURSO PRÓPRIO JÁ INTERPOSTO. NEGATIVA AO DIREITO DE RECORRER EM LIBERDADE. DECISÃO FUNDAMENTADA. PRESENÇA DOS REQUISITOS AUTORIZADORES PREVISTOS NO ARTIGO 312, DO CPP. PACIENTE PRESO DURANTE INSTRUÇÃO CRIMINAL. PRISÃO DOMICILIAR. MATÉRIA NÃO ANALISADA PELO JUÍZO ORIGINÁRIO. SUPRESSÃO DE INSTÂNCIA.
+-Existindo justa causa para a persecução penal, bem ainda, tendo sido prolatada sentença penal condenatória, possíveis nulidades ocorridas na persecução penal deverão ser analisadas e sanadas através do recurso próprio, já interposto, não se comportando, nos estreitos limites da Ação Constitucional, a análise e valoração aprofundada de prova.
+-Não há que se falar em constrangimento ilegal se a decisão que indeferiu ao paciente o direito de recorrer em liberdade encontra-se adequadamente fundamentada para garantia da ordem pública.
+-A ausência de decisão do Juízo originário com relação ao pedido formulado em favor do Paciente, impede a deliberação do Tribunal ad quem acerca da pretensão deduzida, sob pena de incorrer em inadmissível supressão de Instância, imperando-se o não conhecimento do Habeas Corpus.
+-Impetração não conhecida em parte, parte conhecida ordem denegada.
+Consta dos autos que o paciente foi condenado pela prática do delito previsto no art. 33, caput c/c art. 40, VI ambos da Lei n. 11.343/06, à pena de 6 anos, 9 meses e 20 dias de reclusão, em regime fechado, e 680 dias-multa.
+Sustenta o impetrante, em síntese, nulidade das provas, diante de ilegal invasão de domicílio, perpetrada sem fundadas razões.
+Aduz, ainda, que deve ser concedida prisão domiciliar ao paciente, o qual está extremamente debilitado em razão de doença grave, uma vez que é portador de "hipopituitarismo e diabetes insipidus em pós-operatório de ressecção de craniofaringioma e faz uso regular de medicamentos específicos em dosagem correta, sob risco de complicações graves, inclusive óbito - (CID10, D43 - Neoplasia de comportamento incerto ou desconhecido do encéfalo e do sistema nervoso central)" (fls. 62 /63).
+Requer, liminarmente, a imediata colocação do paciente em liberdade até o julgamento final deste writ ou, subsidiariamente, a conversão da prisão preventiva em prisão domiciliar. E, no mérito, requer o reconhecimento da nulidade.
+A concessão de liminar em habeas corpus é medida excepcional, somente cabível quando, em juízo perfunctório, observa-se, de plano, evidente constrangimento ilegal. Não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo relator, nos termos do art. 34, XVIII e XX, do RISTJ.
+No caso, todavia, constata-se que as matérias não foram apreciadas pelo Tribunal de Justiça de origem. Assim, não debatida a questão pela Corte de origem, é firme o entendimento de que "fica obstada sua análise a priori pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância" (RHC 126.604/MT, Rel. Ministro ANTONIO SALD ANHA PALHEIRO, SEXTA TURMA, julgado em 7/12/2020, DJe 16/12/2020).
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
