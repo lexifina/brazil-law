@@ -1,0 +1,17 @@
+DECISÃO
+Na origem trata-se de embargos à execução fiscal referente a anuidades do conselho profissional. Na sentença julgou-se o pedido improcedente. No Tribunal a quo a sentença foi mantida. O valor da causa foi fixado em R$ 3.464,34 (Três mil, quatrocentos e sessenta e quatro reais e trinta e quatro centavos).
+O recurso especial foi interposto no TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, contra acórdão com o seguinte resumo de ementa:
+EMBARGOS À EXECUÇÃO FISCAL. NULIDADE DA CDA. ANUIDADE. ARTIGO 80 DA LEI Nº 12.514/11. DISCUSSÃO EM EXCEÇÃO DE PRÉ-EXECUTIVIDADE. PRECLUSÃO. TRÂNSITO EM JULGADO. APELAÇÃO IMPROVIDA.
+1. Tanto a questão da inexigibilidade das anuidades de 2010 e 2011 como o cumprimento, ou não, do requisito previsto no artigo 8º da Lei nº 12.514/11 foram impugnados na via da exceção de pré-executividade e tiveram resposta jurisdicional para tanto, o que de plano afasta qualquer alegação de negativa de prestação jurisdicional e, como bem salientou o Juízo a quo, já restou decidida nos autos da execução fiscal, por ocasião da oposição de Exceção de Pré-Executividade tendo a r. decisão transitado em julgado.
+2. Reputam-se preclusas as matérias ventiladas em sede de embargos à execução que foram anteriormente decididas na via da exceção de pré-executividade, restando impedida a rediscussão de tais questões, nos termos dos arts. 505, caput, e 507 do Código de Processo Civil/2015.
+3. Apelação improvida.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+Tanto a questão da inexigibilidade das anuidades de 2010 e 2011 como o cumprimento, ou não, do requisito previsto no artigo 8º da Lei nº 12.514/11 foram impugnados na via da exceção de pré-executividade e tiveram resposta jurisdicional para tanto, o que de plano afasta qualquer alegação de negativa de prestação jurisdicional e, como bem salientou o Juízo a quo, já restou decidida nos autos da execução fiscal, por ocasião da oposição de Exceção de Pré-Executividade tendo a r. decisão transitado em julgado.
+Assim, reputam-se preclusas as matérias ventiladas em sede de embargos à execução que foram anteriormente decididas na via da exceção de pré-executividade, restando impedida a rediscussão de tais questões, nos termos dos arts. 505, caput, e507 do Código de Processo Civil/2015.
+Quanto à matéria de fundo, notadamente acerca da verificação da ocorrência da preclusão, observa-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os f atos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
