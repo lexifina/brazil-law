@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de embargos de declaração (fls. 253/256) apresentados contra decisão sintetizada na seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. SUPOSTA OFENSA AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIO NO ACÓRDÃO RECORRIDO. PRINCÍPIO DA MENOR ONEROSIDADE. QUESTÃO ATRELADA AO REEXAME DE MATÉRIA FÁTICA. ÓBICE DA SÚMULA 7/STJ. EFEITO SUSPENSIVO. QUESTÃO ATRELADA AO REEXAME DE MATÉRIA DE FATO. ÓBICE DA SÚMULA 7/STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA PARTE, NEGAR-LHE PROVIMENTO.
+A embargante sustenta, em suma, a decisão embargada padece do vício da omissão, sob o argumento de que "o pleito não foi analisado ou, caso tenha sido, foi, injustificadamente, indeferido. Pontue-se, nesse sentido, que o art. 937, inciso VIII, do CPC/2015 garante aos procuradores, expressamente, o direito à sustentação oral nos agravos de instrumento, desde que requerido até o início da sessão (§ 2º do art. 937)" (fl. 254).
+Argui ainda que "a concessão da sustentação oral, como requerida na espécie, não se trata de faculdade do julgador, mas de verdadeiro dever imposto, de forma cogente, a todos os tribunais" (fl. 255).
+Requer sejam acolhidos os embargos.
+É o relatório. Decido.
+In casu, o Tribunal de origem nos embargos de declaração entendeu que (fl. 137):
+A princípio, deixo de conhecer da preliminar suscitada nos presentes Embargos de Declaração, consistente na nulidade do julgamento virtual, em razão do indeferimento do pedido de sustentação oral, considerando a preclusão processual operada, bem como a falta de utilidade desta tese, cuja matéria já foi decidida.
+Conferindo o acórdão prolatado, e atento ao recurso interposto, verifico que as argumentações esposadas buscam, exclusivamente, a reapreciação da matéria, inexistindo qualquer contradição, omissão, obscuridade ou erro material a ser sanado (grifos acrescidos).
+Deve-se observar que tal fundamentação transcrita não foi impugnada de modo adequado nas razões de recurso especial. Assim, pedido arguido pela parte, ora embargante, possui a deficiência na sua fundamentação.
+Desta feita, a fundamentação em destaque não foi impugnada de modo adequado no presente recurso. Nesse norte, observa-se o descumprimento do princípio da dialeticidade, o qual obriga a parte que recorre impugnar, especificamente, os fundamentos do acórdão que objurga, contrapondo-se às razões de decidir já expressadas (cf. AgRg no RMS 43.815/MG, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 27/05/2016; AgRg no RMS 49.108/PI, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 16/05/2016; AgRg no RMS 33.347/PB, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 12/05/2016).
+Ante o exposto, o s embargos de declaração devem ser acolhidos, sem efeitos infringentes, somente para sanar omissão acerca do pedido de sustentação oral (art. 937, inciso VIII, do CPC/2015).
+Publique-se. Intimem-se.
