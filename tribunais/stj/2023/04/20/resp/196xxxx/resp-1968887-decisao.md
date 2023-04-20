@@ -1,0 +1,14 @@
+DECISÃO
+Trat a-se de recurso especial interposto por particular com apoio no art. 105, III, "a", da Constituição Federal contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região.
+Alega a parte recorrente que o acórdão recorrido violou o entendimento firmado em recurso repetitivo do STJ (Tema 995 - reafirmação da DER).
+A Corte local, em juízo de admissibilidade, concluiu que o "e. Relator deixou expresso que a reafirmação da DER configuraria uma espécie de desaposentação" pelo que "a remessa dos autos para fins de reexame da matéria em face do Tema 995/STJ restaria infrutífera", encaminhando os autos a este Tribunal.
+É o que importava relatar.
+Entendo que o recurso deve ser provido.
+No caso, o juízo originário revisou a aposentadoria do recorrente somente até a data de entrada do requerimento (DER) de revisão, excluindo o período entre a DER em si e a data do despacho do benefício (DDB). Com isso, reconhece-se o direito à revisão de aposentadoria por tempo de contribuição total de "24 anos, 11 meses e 14 dias, na DER (08/05/2008), insuficientes à concessão da aposentadoria especial". (e-STJ fl. 650).
+Alega o autor, porém, que se fossem considerados os dias transcorridos entre a DER em si (09/05/2008) e a DDB (29/05/2008), ele teria preenchido as condições para obter a revisão para aposentadoria especial.
+Com razão o particular, na medida em que o STJ, ao julgar recurso repetitivo (EDcl no REsp 1.727.063/SP, rel. Ministro MAURO CAMPBELL MARQUES, DJe 21/05/2020 - Tema 995), firmou a orientação de que "é possível a reafirmação da DER (Data de Entrada do Requerimento) para o momento em que implementados os requisitos para a concessão do benefício, mesmo que isso se dê no interstício entre o ajuizamento da ação e a entrega da prestação jurisdicional nas instâncias ordinárias, nos termos dos arts. 493 e 933 do CPC/2015, observada a causa de pedir".
+Na espécie, durante o processo administrativo, ainda na DDB (dias após a DER), o demandante já teria implementado os requisitos para a concessão da aposentadoria especial, pelo que faria jus, na oportunidade, à reafirmação da data do requerimento administrativo.
+Aplica-se, portanto, a Súmula 568 do STJ, para o acolhimento da pretensão recursal.
+Saliente-se que como o pedido da inicial já havia sido acolhido em sua maioria, determinando-se a revisão do benefício, os demais termos do acórdão recorrido devem ser mantidos, computando-se apenas o período compreendido entre a DER (09/05/2008) e a DDB (29/05/2008).
+Ante o exposto, DOU PROVIMENTO ao recurso especial, reformando o acórdão recorrido tão somente para incluir no cômputo do período reconhecido o intervalo compreendido entre 09/05/2008 e 29/05/2008, devendo-se a revisão da aposentadoria levar em consideração também tal iter, mantendo-se os demais termos da decisão impugnada.
+Publique-se. Intimem-se.
