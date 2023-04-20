@@ -1,0 +1,79 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº
+5005050-41.2021.8.08.0048
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: VALDIRLEIA ADAM
+RECORRIDO: ASAP LOG LTDA
+RELATOR(A):THAITA CAMPOS TREVIZAN
+
+_______________________________________________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+_______________________________________________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto da Relatora.
+Órgão julgador vencedor
+: 3ª Turma Recursal - Gabinete 2
+_______________________________________________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+_______________________________________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+RECURSO INOMINADO: 5005050-41.2021.8.08.0048
+
+RECORRENTE: VALDIRLEIA ADAM
+
+RECORRIDO: ASAP LOG LTDA
+
+RELATORA: DRA. THAITA CAMPOS TREVIZAN
+
+JUIZ SENTENCIANTE: RODRIGO CARDOSO FREITAS
+
+EMENTA. DIREITO DO CONSUMIDOR E PROCESSUAL CIVIL. AÇÃO INDENIZATÓRIA. DISCUSSÃO NO MOMENTO DA ENTREGA DO PRODUTO. DANOS MORAIS NÃO CONFIGURADOS. SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS.
+
+RELATÓRIO/VOTO
+
+Relatório dispensado
+na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+Defiro a concessão de assistência judiciária gratuita à recorrente.
+
+EMENTA.
+DIREITO DO CONSUMIDOR E PROCESSUAL CIVIL.
+AÇÃO INDENIZATÓRIA.
+NARRA A AUTORA QUE EFETUOU A COMPRA DE UM NOTEBOOK PELA INTERNET E, NO MOMENTO DA ENTREGA, O ENTREGADOR SE RECUSOU A DEIXAR O PRODUTO NA PORTARIA, ATÉ QUE LHE FOSSE INFORMADO O CÓDIGO DA ENTREGA. ADUZ QUE AO CHEGAR NO LOCAL, O ENTREGADOR LHE CHAMOU DE “BURRA” E “IGNORANTE” O QUE LHE CAUSOU CONSTRANGIMENTO, CAUSANDO ABALO À SUA MORAL.
+SENTENÇA JULGOU IMPROCEDENTE
+A PRETENSÃO AUTORAL.
+RECURSO INOMINADO
+INTERPOSTO PELA PARTE AUTORA. EM SUAS RAZÕES, ALEGA A OCORRÊNCIA DOS DANOS MORAIS DEVIDO À CONDUTA DO ENTREGADOR, ENTENDENDO QUE A REQUERIDA DEVE SER RESPONSABILIZADA.
+RECURSO CONHECIDO E IMPROVIDO.
+NO CASO EM TELA, NÃO RESTOU COMPROVADA CABALMENTE A OCORRÊNCIA DE ATO ILÍCITO ALEGADAMENTE COMETIDO PELA PARTE DEMANDADA, TAMPOUCO O ABALO EMOCIONAL ALEGADO NA INICIAL. ADEMAIS, AINDA QUE OS INSULTOS TENHAM EFETIVAMENTE ACONTECIDO, ENTENDO QUE INEXISTE NOS AUTOS DEMONSTRAÇÃO INEQUÍVOCA DE OFENSA SUPERIOR OU EXTRAORDINÁRIA A DIREITO DE PERSONALIDADE DA PARTE. ACRESCENTO, AINDA, QUE POR CERTO HOUVE UM ACIRRAMENTO DOS ÂNIMOS ENTRE AS PARTES. ENTRETANTO, TAL SITUAÇÃO, POR SI SÓ, NÃO É CAPAZ DE GERAR O ABALO EMOCIONAL ALEGADO, TAMPOUCO AFRONTA AO DIREITO DE PERSONALIDADE APTO A IMPLICAR DANO MORAL INDENIZÁVEL. SÓ DEVE SER REPUTADO COMO DANO MORAL A DOR, VEXAME, SOFRIMENTO OU HUMILHAÇÃO QUE, FUGINDO À NORMALIDADE, INTERFIRA INTENSAMENTE NO COMPORTAMENTO PSICOLÓGICO DO INDIVÍDUO, CAUSANDO-LHE AFLIÇÕES, ANGÚSTIA E DESEQUILÍBRIO EM SEU BEM-ESTAR. MERO DISSABOR, ABORRECIMENTO, MÁGOA, IRRITAÇÃO OU SENSIBILIDADE EXACERBADA ESTÃO FORA DA ÓRBITA DO DANO MORAL, PORQUANTO, ALÉM DE FAZEREM PARTE DA NORMALIDADE DO NOSSO DIA-A-DIA, NO TRABALHO, NO TRÂNSITO, ENTRE OS AMIGOS E ATÉ NO AMBIENTE FAMILIAR, TAIS SITUAÇÕES NÃO SÃO INTENSAS E DURADOURAS, A PONTO DE ROMPER O EQUILÍBRIO PSICOLÓGICO DO INDIVÍDUO. SE ASSIM NÃO SE ENTENDER, ACABAREMOS POR BANALIZAR O DANO MORAL, ENSEJANDO AÇÕES JUDICIAIS EM BUSCA DE INDENIZAÇÕES PELOS MAIS TRIVIAIS ABORRECIMENTOS.
+
+NESSE SENTIDO,
+MANTENHO A SENTENÇA POR SEUS PRÓPRIOS FUNDAMENTOS, NOS TERMOS DO ART. 46 DA LEI Nº 9.099/95
+.
+CONDENAÇÃO DO RECORRENTE AO PAGAMENTO DAS CUSTAS E DOS HONORÁRIOS ADVOCATÍCIOS FIXADOS EM 10% SOBRE O VALOR ATUALIZADO DA CAUSA, SUSPENSA A EXIGIBILIDADE DIANTE DA CONCESSÃO DE ASSISTÊNCIA JUDICIÁRIA GRATUITA À AUTORA, NOS TERMOS DO ART. 98, §3º DO CPC.
+
+DISPOSITIVO
+
+Ante o exposto,
+CONHEÇO DO RECURSO
+interposto e, no mérito,
+NEGO-LHE PROVIMENTO,
+mantendo a sentença incólume por seus próprios fundamentos, nos termos do art. 46 da Lei 9.099/95. Condeno a recorrente ao pagamento de custas e honorários advocatícios, fixados em 10% sobre o valor atualizado da causa, contudo, suspensa a exigibilidade, diante da concessão de assistência judiciária gratuita à recorrente, nos termos do art. 98, §3º do CPC.
+
+THAITA CAMPOS TREVIZAN
+
+Relatora
+
+_______________________________________________________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
