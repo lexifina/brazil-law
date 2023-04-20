@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pela Terceira Câmara de Direito Privado do TJMT assim ementado (e-STJ fl. 608):
+APELAÇÃO CÍVEL - AÇÃO DE RESSARCIMENTO DE DESPESAS - PLANO DE SAÚDE PAGAMENTO SOMENTE PELA VIA JUDICIAL - ÔNUS SUCUMBENCIAL A SER SUPORTADO PELA ADMINISTRADORA - HONORÁRIOS SUCUMBENCIAIS DEVIDOS - PRINCÍPIO DA CAUSALIDADE - RECURSO CONHECIDO E DESPROVIDO.
+Levando-se em consideração o princípio da causalidade, a administradora que se nega a pagar o ressarcimento previsto em contrato, e só o fará, pois foi acionada judicialmente, deve responder pela totalidade das custas e dos honorários, tendo em vista que deu causa á propositura da ação julgada procedente.
+Os embargos de declaração foram rejeitados (e-STJ fls. 628/638).
+Nas razões recursais (e-STJ fls. 640/659), a parte recorrente sustenta, em síntese, afronta aos arts. 12, VI, da Lei n. 9.656/1998, 6º, VI e VIII, 14, 47 e 51, IV, do CDC, 421 e 422 do CC/2002, sob fundamento de que não é devida a cobertura do plano de saúde para tratamento realizado fora de sua rede credenciada.
+Aponta também violação do art. 1.022 do CPC/2015, argumentando que o acórdão recorrido seria omisso, por não ter se manifestado sobre a "inexistência de pedido administrativo de reembolso, bem como a inexistência de obrigatoriedade ao ressarcimento de quaisquer valores, ante o não enquadramento do caso concreto nas excepcionalidades previstas no contrato e na legislação de regência" (e-STJ fl. 647).
+Contrarrazões às fls. 665/670 (e-STJ).
+É o relatório.
+Decido.
+Da análise dos autos, verifica-se que, de fato, ocorreu afronta ao art. 1.022 do CPC/2015.
+O Tribunal de origem, negando provimento ao recurso interposto pela parte ora recorrente, admitiu que era sua a obrigação de pagamento das custas e dos honorários advocatícios, pois houve pretensão resistida acerca do pleito de reembolso pelo atendimento médico (e-STJ fls. 609/610).
+Ocorre que, em sua apelação e em seus aclaratórios (e-STJ fls. 539/564 e 618/623), a parte ré, ora recorrente, expressamente alegou a tese de desnecessidade de custeio do tratamento realizado fora de sua rede credenciada, além de omissão do acórdão embargado, por ausência de pronunciamento sobre esse tema.
+No entanto, o Tribunal a quo não examinou a referida temática, mesmo diante da oposição dos embargos, os quais foram rejeitados por ausência dos vícios previstos no art. 1.022 do CPC/2015 (e-STJ fls. 628/638).
+Portanto, o acórdão recorrido apresenta omissão, visto que, segundo a jurisprudência do STJ, "o reembolso das despesas médico-hospitalares efetuadas pelo beneficiário com tratamento/atendimento de saúde fora da rede credenciada pode ser admitido somente em hipóteses excepcionais, tais como a inexistência ou insuficiência de estabelecimento ou profissional credenciado no local e urgência ou emergência do procedimento" (EAREsp 1.459.849/ES, Relator Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 14/10/2020, DJe 17/12/2020).
+Ante o vício da decisão recorrida e nos termos da argumentação constante do recurso especial, impõe-se o provimento do recurso, a fim de anular o acórdão recorrido, para que o Tribunal a quo se pronuncie sobre a questão, sanando, assim, os vícios apontados.
+A propósito:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS CONFIGURADOS.
+1. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+2. Embargos de declaração acolhido, com efeitos infringentes, para conhecer do agravo para dar parcial provimento ao recurso especial, no sentido de anular o julgamento dos embargos declaratórios realizados pelo Tribunal de origem e determinar o retorno dos autos para novo julgamento dos declaratórios, com o devido enfrentamento da questão omissa.
+(EDcl no AREsp 1.600.412/SP, Relator Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 18/8/2020, DJe 27/8/2020.)
+Ainda nesse sentido, as seguintes decisões monocráticas: AREsp 1.731.840/DF, Relatora Ministra MARIA ISABEL GALLOTTI, publicada em 8/3/2021, AREsp 1.653.325/SP, Relator Ministro RAUL ARAÚJO, publicada em 2/3/2021, e AREsp n. 1.761.972/RS, Relator Ministro LUIS FELIPE SALOMÃO, publicada em 18/2/2021.
+Diante do exposto, CONHEÇO do recurso e DOU-LHE PROVIMENTO PARCIAL , para anular o acórdão recorrido e determinar o retorno dos autos ao Tribunal de origem, a fim de que seja analisado o tema referente à ausência de obrigação de custeio do atendimento realizado fora da rede credenciada do plano de saúde .
+Publique-se. Intimem-se.
