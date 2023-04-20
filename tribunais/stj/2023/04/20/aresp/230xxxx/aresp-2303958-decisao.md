@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo interposto por FUNDAÇÃO VALE DO RIO DOCE DE SEGURIDADE SOCIAL - VALIA contra a decisão que inadmitiu o recurso especial.
+O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, impugna o acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais assim ementado:
+"APELAÇÃO CÍVEL - PREVIDÊNCIA PRIVADA - COMPLEMENTAÇÃO DE APOSENTADORIA - LEGITIMIDADE PASSIVA - ENTIDADE PAGADORA DO BENEFÍCIO - PRESCRIÇÃO QUINQUENAL - INCLUSÃO DE VERBAS TRABALHISTAS NO CÁLCULO DO BENEFÍCIO - RECOMPOSIÇÃO PRÉVIA E INTEGRAL DAS RESERVAS MATEMÁTICAS - LIQUIDAÇÃO DE SENTENÇA.
+- A pretensão de complementação de aposentadoria decorrente de contrato de previdência privada complementar deve ser lançada contra a pessoa jurídica responsável pelo pagamento do benefício.
+- Nas relações de trato sucessivo, em matéria de previdência privada, a prescrição somente atinge as parcelas não pagas antes dos cinco anos imediatamente anteriores ao ajuizamento da ação, não alcançando assim o chamado fundo de direito.
+- É admissível, nas ações ajuizadas até 0810812018, "a inclusão dos reflexos de verbas remuneratórias, reconhecidas pela Justiça do Trabalho, nos cálculos da renda mensal inicial dos benefícios de complementação de aposentadoria, condicionada à previsão regulamentar de que as parcelas de natureza remuneratória devam compor a base de cálculo das contribuições a serem recolhidas (..) e á recomposição prévia e integral das reservas matemáticas com o aporte, a ser vertido pelo participante, de valor a ser apurado por estudo técnico atuarial em cada caso" (REsp 1778938/SP)" (e-STJ fl. 1.108).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 1.141/1.151).
+No especial (e-STJ fls. 1.154/1.187), além de dissídio jurisprudencial, a recorrente alega violação dos seguintes dispositivos legais e suas respectivas teses:
+(i) artigos 489, § 1º, IV, e 1.022, I e II, e parágrafo único, II, do Código de Processo Civil - o aresto recorrido incorreu em negativa de prestação jurisdicional ao deixar de se manifestar a respeito da necessidade da patrocinadora, Vale S.A., contribuir para o custeio do plano no caso em que houver condenação, visto que se origina em ato ilícito por ela praticado e de que não pode ser condenada ao pagamento das despesas processuais e honorários advocatícios;
+(ii) artigos 926 e 927 do CPC - o Tribunal de origem julgou de forma contrária ao entendimento consolidado pelo Superior Tribunal de Justiça no julgamento do REsp 1.370.191/RJ, firmado no rito do repetitivo, visto que a condenação na seara trabalhista demonstra o cometimento de ato ilícito pela patrocinadora, havendo necessidade de contribuição para o custeio do plano pela Vale S.A;
+(iii) artigo 19 da Lei Complementar nº 109/2001 - a Vale S.A. é a responsável para promover o repasse de valores para o pagamento do participante em decorrência do reconhecimento de verbas trabalhistas;
+(iv) artigos 394, 396, 397 e 398 do Código Civil - a questão dos autos se trata de obrigação condicionada, visto que estará em mora apenas após o cumprimento da obrigação de custeio da Vale S.A. e da recomposição da reserva matemática pelo participante. Invoca divergência pretoriana quanto ao tema, e
+(v) artigo 85, § 10 do CPC - por não ter dado causa à instauração do presente feito, não pode ser condenada ao pagamento das verbas sucumbenciais.
+Ao final, requer o provimento do recurso.
+Após o decurso do prazo legal para a apresentação das contrarrazões (e-STJ fl. 1.229), o recurso foi inadmitido na origem, sobrevindo daí o presente agravo, no qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação merece prosperar no tocante à alegação de negativa de prestação jurisdicional.
+Na origem, Valenciano André de Barros ajuizou ação revisional de complementação de pensão previdenciária c/c indenização contra a Vale S.A e Fundação Vale do Rio Doce de Seguridade Social - VALIA objetivando a inclusão de verbas remuneratórias reconhecidas na Justiça do Trabalho no cálculo do benefício.
+O magistrado de primeiro grau de jurisdição, reconhecendo a incidência da prescrição quinquenal ao presente caso, julgou pela parcial procedência dos pedidos para:
+"(..)
+condenar a ré VALE S/A a, no prazo de 30 (trinta) dias, recolher a respectiva contribuição patronal, com base nas verbas trabalhistas reconhecidas nos autos da Reclamação Trabalhista, Processo nº 00133.2004.099.03.00.4, a fim de promover a recomposição matemática do benefício de previdência complementar devido ao autor pela ré VALIA - Fundação Vale do Rio Doce de Seguridade Jurídica Social, conforme determinado na sentença juntada às f. 46198 e no acórdão de f. 1061120, bem como para condenar a fundação-ré a, em igual prazo, realizar a revisão do benefício complementar do autor, observando-se o acréscimo de capital e as regras previstas no regulamento vigente à data da concessão da aposentadoria e, em caso de majoração da renda, pagar-lhe as diferenças porventura devidas, ressalvado o período prescrito, cujo montante deve ser apurado mediante liquidação de sentença.
+Sobre o quantum incidirá correção monetária, a partir da data de cada parcela paga a menor, mais juros de mora de 1,0% (um por cento) ao mês, desde a data da citação, nos exatos termos do ad. 406 do Código Civil Brasileiro em vigor c/c ad. 161, §1 1 , do Código Tributário Nacional" (e-STJ fls. 784/785).
+O Tribunal de origem, por sua vez, acolheu a preliminar de ilegitimidade passiva arguida pela Vale S.A., extinguindo o feito em relação a ela e deu parcial provimento à apelação da Fundação Valia para "(..) determinar a recomposição prévia e integral da reserva matemática, por meio de aporte dos valores que serão apurados em perícia técnica atuarial, a ser realizada em sede de liquidação de sentença" (e-STJ fl. 1.125).
+Negou, ainda, provimento ao apelo adesivo do participante, ora recorrido.
+Do exame dos autos, verifica-se que, não obstante a oposição de embargos declaratórios requerendo expressamente manifestação a respeito dos juros de mora, o acórdão deixou de examiná-los por não terem sido suscitados na apelação.
+A jurisprudência do Superior Tribunal de Justiça entende que os juros de mora constituem matéria de ordem pública, insuscetível de preclusão.
+A propósito:
+"PROCESSUAL CIVIL. JUROS DE MORA E CORREÇÃO MONETÁRIA. PEDIDOS IMPLÍCITOS. MATÉRIA DE ORDEM PÚBLICA. RECONHECIMENTO.
+1. O STJ entende que os juros de mora e a correção monetária integram os chamados pedidos implícitos, bem como se constituem em matéria de ordem pública, razão pela qual sua alteração não configura julgamento extra ou ultra petita, reformatio in pejus, tampouco se sujeitando à preclusão.
+2. Agravo interno desprovido" (AgInt no REsp 2.004.691/PR, Rel. Ministro GURGEL DE FARIA, Primeira Turma, julgado em 6/3/2023, DJe de 15/3/2023).
+Assim, a questão omissa, juros de mora, trata-se de matéria relevante que demandava pronunciamento das instâncias ordinárias.
+O não enfrentamento pela Corte de origem de questões ventiladas nos embargos de declaração e imprescindíveis à solução do litígio implica violação ao artigo 1.022 do Código de Processo Civil.
+Tanto é assim que, nos termos da Súmula nº 211/STJ, revela-se inadmissível o recurso especial que, a despeito da oposição de aclaratórios, trate de tema não analisado pela instância de origem, porquanto ausente o requisito do prequestionamento.
+Ante o exposto, conheço do agravo e dou provimento ao recurso especial para determinar a devolução dos autos ao Tribunal de origem a fim de que realize novo julgamento dos embargos de declaração de fls. 1.129/1.136 (e-STJ) no tocante à mora, ficando prejudicadas as demais questões articuladas nas razões do apelo extremo.
+Publique-se.
+Intimem-se.
