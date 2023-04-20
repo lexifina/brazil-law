@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão publicada na vigência do CPC/2015, que inadmitiu o recurso especial em razão da incidência da Súmula n. 7/STJ (e-STJ fls. 510/212).
+O acórdão recorrido encontra-se assim ementado (e-STJ fls. 293/294):
+ADMINISTRATIVO. APELAÇÃO CÍVEL. RECURSO DA AUTORA NÃO CONHECIDO. INOVAÇÃORECURSAL. CEF. PMCMV. VÍCIOS DE CONSTRUÇÃO. LEGITIMIDADE DA CEF. CONSTRUTORANÃO INCLUÍDA NO POLO PASSIVO. SOLIDARIEDADE NÃO DEMONSTRADA. AUSÊNCIA DECOMPROVAÇÃO DE RESPONSABILIDADE DA CEF PELOS VÍCIOS CONSTRUTIVOS. RECURSOPROVIDO.
+1. Apelação interposta pela CEF e pela autora contra sentença que julgou procedente o pedido da autora para condenar a ré ao pagamento de indenização por danos materiais no valor de R$ 9.390,96, e por danos morais no valor de R$ 50.000,00, em razão de vícios na construção do imóvel.
+2. As alegações e os pedidos formulados na apelação da autora, relativos ao pagamento de aluguel, inovam em relação aos argumentos postos na inicial, uma vez que não foram ventiladas no curso do processo, não devendo, pois, ser conhecido o recurso, diante da indevida inovação recursal.
+3. Trata-se de de imóvel cuja aquisição foi financiada com recursos provenientes do Programa Minha Casa, Minha Vida (PMCMV), instituído pela Lei nº 11.977/2009, que, embora se dirija primordialmente à promoção de moradia para família de baixa renda, também se insere no seu contexto uma política da União destinada a fomentar o mercado financeiro nos setores imobiliário e da construção civil. Note-se que a referida legislação de regência não possui qualquer previsão acerca da responsabilidade da CEF além da de mero gestor operacional dos recursos destinados à concessão dos financiamentos aos mutuários ou às construtoras/incorporadoras.
+4. A Política Habitacional do Minha Casa, Minha Vida é totalmente regulamentada pelos Ministérios da Cidade e da Fazenda, não havendo espaço para eventual responsabilização da CEF por culpa in eligendo. Embora em algumas contratações, relativas aos mutuários de baixa e de baixíssima renda, realmente não haja liberdade do mutuário na escolha da construtora e do terreno, a eleição da Construtora não é feita ao arbítrio da CEF. Na verdade, há subordinação do agente financeiro às diretrizes e às especificações fixadas pelo Ministério das Cidades para a escolha da Construtora. Não só isso. Somente podem participar do Programa Construtoras que possuem certificação PBQP-h (Programa Brasileiro da Qualidade e Produtividade do Habitat) criado em 1990 pelo Governo Federal com base nas normas da ISO 9000 e também regulado pelo Ministério das Cidades.
+5. Embora não se possa atribuir à CEF a responsabilidade pelas falhas da implantação do empreendimento, erros técnicos de projeto e erros de execução da obra, unicamente imputáveis à construtora, não há dúvida de que a relação jurídica mantida entre a CEF e a mutuária justificam a sua presença na lide, e justificam a sua legitimidade in statu assertionis.
+6. Embora legítima para figurar no pólo passivo da demanda, a CEF não tem responsabilidade pelos vícios construtivos constatados pela perícia, decorrentes de falhas nos assentamentos dos revestimentos e aberturas, qualidade dos acabamentos, erro na especificação da argamassa colante, entre outros, do que se denota que as obras não observaram as melhores técnicas construtivas.
+7. Inexiste comprovação de solidariedade entre a CEF e a construtora - quer decorrente da lei, quer de contrato (que sequer foi acostado aos autos, havendo apenas o termo de entrega das chaves do imóvel, em31.7.2014) -, no que tange aos vícios construtivos, cuidando-se de obrigação que somente à Construtora contratante caberia ser imputada. Entretanto, tendo sido a demanda proposta apenas em face da CEF, a ausência da construtora no polo passivo impede a pretensão de reparação do imóvel, a qual não pode ser atribuída à ora apelante, pois não restou comprovada pela demandante que a Empresa Pública teve qualquer ingerência sobre a edificação.
+8. O pedido de indenização por danos morais deve ser igualmente julgado improcedente, uma vez que os mesmos tiveram fundamento os alegados vícios de construção, os quais não podem ser imputados à CEF.
+9. Apelação da autora não conhecida e recurso da CEF provido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 350/352 e 353/354).
+Nas razões do recurso especial (e-STJ fls. 365/395), fundamentado no art. 105, III, "a" e "c", da CF, a parte alegou que "o decisum sob censura contrariou o disposto na Lei 10.150/2000 e art. 727; 189 e 206; § 1º inciso II do Código Civil, e ainda, por ter o Egrégio Tribunal Regional Federal da 5ª Região dado interpretação divergente daquela de outros tribunais ao julgar o recurso de apelação, nos termos do seu respectivo acórdão" (e-STJ fl. 366).
+Nesse sentido, sustenta a "legitimidade da Caixa Econômica federal para estar no polo passivo desta lide, por ser o agente executor do Programa Minha Casa Minha Vida e por ser responsável pelo Fundo de Arrendamento Residencial - FAR" (e-STJ fl. 377).
+No agravo (e-STJ fls. 529/535), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada às fls. 545/549 (e-STJ).
+É o relatório.
+Decido.
+É cediço que o conhecimento do recurso especial fundado nas alíneas "a" e "c" do permissivo constitucional exige a indicação do dispositivo legal violado ou ao qual tenha sido atribuída interpretação divergente.
+In casu, conforme relatado, extrai-se da petição recursal a indicação dos seguintes dispositivos de lei federal:
+Art. 189. Violado o direito, nasce para o titular a pretensão, a qual se extingue, pela prescrição, nos prazos a que aludem os arts. 205 e 206.
+Art. 206. Prescreve:
+§ 1 o Em um ano:
+(..)
+II - a pretensão do segurado contra o segurador, ou a deste contra aquele, contado o prazo:
+(..)
+Art. 727. Se, por não haver prazo determinado, o dono do negócio dispensar o corretor, e o negócio se realizar posteriormente, como fruto da sua mediação, a corretagem lhe será devida; igual solução se adotará se o negócio se realizar após a decorrência do prazo contratual, mas por efeito dos trabalhos do corretor.
+Verifica-se, entretanto, que referidos dispositivos não guardam pertinência temática com a tese recursal  "LEGITIMIDADE E RESPONSABILIDADE DA CAIXA ECONÔMICA FEDERAL POR ATUAR NO PRESENTE CONTRATO COMO AGENTE EXECUTOR DE POLÍTICAS FEDERAIS PARA A PROMOÇÃO DE MORADIA PARA PESSOAS DE BAIXA OU BAIXÍSSIMA RENDA - FUNDO DE ARRENDAMENTO RESIDENCIAL - FAR" (e-STJ fl. 368).
+Ademais, a parte recorrente não indica, quanto à questão, outro dispositivo de lei federal porventura violado ou acerca do qual haja dissídio jurisprudencial.
+Logo, está caracterizada a deficiência na fundamentação recursal, a teor da Súmula n. 284/STF.
+Nesse sentido: AgInt no REsp n. 1.992.176/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 29/8/2022, DJe de 8/9/2022; e (AgInt no AREsp n. 1.829.180/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 11/10/2021, DJe de 15/10/2021.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Deferida a gratuidade da justiça na instância de origem, deve ser observada a regra do § 3º do art. 98 do CPC/2015
+Publique-se e intimem-se.
