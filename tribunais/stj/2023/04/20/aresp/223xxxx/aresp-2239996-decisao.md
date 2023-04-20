@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo de JESUS EINAR LIMA LOBO DORADO contra decisão proferida no TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL - TJ que inadmitiu o recurso especial interposto com fundamento no art. 105, III, alíneas "a" e "c", da Constituição Federal - CF, contra acórdão proferido no julgamento de Agravo em Execução Penal n. 1602299-05.2022.8.12.0000.
+Consta dos autos que, em 13/05/2022, o Juízo das Execuções Criminais indeferiu o pedido de prisão domiciliar pleiteado em favor do agravante (fls. 42/43).
+Contra essa decisão, a defesa interpôs agravo em execução, que foi desprovido pelo Tribunal de origem. O acórdão ficou assim ementado:
+"AGRAVO DE EXECUÇÃO PENAL - RECURSO DEFENSIVO - PEDIDO DE ESTABELECIMENTO DE PRISÃO DOMICILIAR - INCABÍVEL - IMPOSSIBILIDADE DE TRATAMENTO NO ESTABELECIMENTO PRISIONAL NÃO DEMONSTRADA A CONTENTO - RECURSO DESPROVIDO.
+I - Quanto ao tratamento que o agravante necessita, segundo o perito médico, consiste na submissão à dieta adequada para perda de peso e ao uso adequado de medicamentos para o controle pressórico. O agravante já faz uso contínuo de medicação para o tratamento das doenças que possui. A existência de nutricionista na unidade penal possibilita a elaboração de um plano alimentar específico às necessidades do agravante, o que se revela perfeitamente possível de ser implantado em favor do agravante.
+II - O juiz da execução penal consignou no decisum que a AGEPEN deverá providenciar todo o atendimento médico necessário ao sentenciado, inclusive poderá encaminhá-lo ao atendimento extramuros, mediante escolta, todas as vezes que forem necessárias, contribuindo para que o apenado realize o tratamento médico que necessita e que em eventual emergência receba o atendimento adequado e eficaz.
+III - O pedido relativo à prisão domiciliar não deve ser acolhido, pois o deferimento da substituição da prisão preventiva por prisão domiciliar, nos termos do art. 318, inciso II, do Código de Processo Penal, "depende da comprovação inequívoca de que o réu esteja extremamente debilitado, por motivo de grave doença aliada à impossibilidade de receber tratamento no estabelecimento prisional em que se encontra1".
+IV- Recurso desprovido, contra o parecer." (fl. 73).
+Os embargos de declaração opostos pela defesa foram rejeitados (fls. 118/120).
+Em sede de recurso especial (fls. 126/149), a defesa aponta a ofensa aos arts. 317 e 318 do Código de Processo Penal - CPP, ao art. 117, II, da Lei de Execução Penal - LEP, e aos arts. 1º, III, e 5º, XLIX, da Constituição Federal - CF, além existência de dissídio jurisprudencial.
+Sustenta que o recorrente, que se encontra cumprindo pena em regime fechado, faz jus à prisão domiciliar humanitária, pois possui diversos problemas de saúde, sendo que a unidade prisional onde se encontra custodiado não detém condições para lhe conferir tratamento médico adequado.
+Requer o provimento do recurso para que seja concedida a prisão domiciliar ao recorrente.
+Contrarrazões do Ministério Público do Estado de Mato Grosso do Sul - MP (fls. 156/165).
+O recurso especial foi inadmitido no TJ em razão: a) da impossibilidade de análise de ofensa a dispositivos constitucionais no âmbito do recurso especial; b) do óbice das Súmulas n. 7 e 83 do Superior Tribunal de Justiça - STJ e c) da divergência jurisprudencial prejudicada (fls. 167/169).
+Agravo em recurso especial interposto às fls. 175/183.
+Contraminuta do MP (fls. 190/201).
+Os autos vieram a esta Corte, sendo protocolados e distribuídos. Aberta vista ao Ministério Público Federal - MPF, este opinou pelo desprovimento do agravo em recurso especial (fls. 222/225).
+É o relatório.
+Decido.
+Com efeito, cumpre registrar que houve pedido idêntico formulado em favor do ora recorrente no HC 767.013/MS, de minha relatoria, o qual também foi impetrado contra a mesma decisão do Juiz das Execuções Criminais e contra o mesmo acórdão impugnado neste recurso.
+Na ocasião do julgamento do aludido writ, o mérito foi devidamente analisado e concluiu-se pela ausência de eventual constrangimento ilegal, tendo a decisão sido publicada em 28/11/2022. O agravo regimental interposto pela defesa foi desprovido pela Quinta Turma desta Corte em sessão realizada no dia 14/03/2023, cujo acórdão foi publicado em 24/03/2023, com trânsito em julgado em 11/04/2023. Segue a ementa do acórdão:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PRISÃO DOMICILIAR. TRATAMENTO DE SAÚDE. ESTRUTURA DA INSTITUIÇÃO PRISIONAL. ALTERAR O ENTENDIMENTO DA ORIGEM. NECESSIDADE DE REEXAME APROFUNDADO DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE NA VIA ELEITA. RECURSO DESPROVIDO.
+1. Consoante orientação desta Corte Superior, em regra, a concessão de prisão domiciliar só é admitida em favor de preso inserido no regime aberto nos termos do art. 117 da Lei de Execução Penal - LEP. Contudo, quando ficar comprovado que o recluso é acometido por doença grave, com debilidade acentuada de sua saúde, e que o tratamento médico necessário não pode ser prestado no ambiente prisional, admite-se, de forma excepcional, a colocação em prisão domiciliar de presos dos regimes fechado ou semiaberto.
+Na hipótese dos autos, as instâncias ordinárias destacaram que a instituição prisional possui estrutura tanto para o acompanhamento e tratamento dos problemas de saúde do ora agravante quanto para o seu encaminhamento para atendimento extramuros, se necessário. Para afastar essa afirmação, é necessário o revolvimento do conjunto fático-probatório, providência sabidamente incompatível com a estreita via do habeas corpus.
+2. Agravo regimental desprovido."
+Dessa forma, mostra-se inadmissível a reiteração de pedidos, conforme a jurisprudência pacífica deste Tribunal Superior. A propósito (grifos nossos):
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE ENTORPECENTES. DOSIMETRIA DA PENA. AUMENTO DA PENA-BASE. QUANTIDADE E NATUREZA DA DROGA. MATÉRIA APRECIADA NO HABEAS CORPUS N. 672.024/PR. REITERAÇÃO DE PEDIDO. RECURSO ESPECIAL PREJUDICADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Constata-se que o recurso especial constitui mera reiteração do pedido formulado no HC 672.024/PR, e isto porque há identidade de partes e da causa de pedir, impugnando os dois feitos a mesma decisão (Apelação Criminal n. 00061630-96.2020.8.16.0014), o que constitui óbice ao seu conhecimento.
+2. No caso, o referido writ, diante de seu caráter eminentemente substitutivo, não foi conhecido. Contudo, a pretensão veiculada pela defesa naquela impetração, idêntica à ora arguida, foi devida e exaustivamente analisada, para aferição de eventual flagrante ilegalidade, tendo sido mantida a decisão impugnada, quanto ao aumento da pena-base, considerando-se a quantidade, natureza e diversidade dos entorpecentes apreendidos. A decisão transitou em julgado aos 10/8/2021. Assim, em virtude da reiteração, tem-se a prejudicialidade do recurso especial.
+3. Agravo regimental desprovido.
+(AgRg no REsp n. 1.958.542/PR, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 19/10/2021, DJe de 27/10/2021).
+Ante o exposto, julgo prejudicado o agravo em recurso especial.
+Publique-se.
+Intimem-se.
