@@ -1,0 +1,80 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº
+5019688-54.2021.8.08.0024
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: BRITANIA ELETRODOMESTICOS SA
+RECORRIDO: LOJAS SIMONETTI LTDA e outros
+RELATOR(A):THAITA CAMPOS TREVIZAN
+
+_______________________________________________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+_______________________________________________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto da Relatora.
+Órgão julgador vencedor
+: 3ª Turma Recursal - Gabinete 2
+_______________________________________________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+_______________________________________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+RECURSO INOMINADO: 5019688-54.2021.8.08.0024
+
+RECORRENTE: BRITANIA ELETRODOMESTICOS SA
+
+RECORRIDA: MARILZA MARTINS DE ASSIS e outro
+
+RELATORA: DRA. THAITA CAMPOS TREVIZAN
+
+JUÍZA SENTENCIANTE: MAIZA SILVA SANTOS
+
+EMENTA. DIREITO DO CONSUMIDOR E PROCESSUAL CIVIL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS. VÍCIO DE QUALIDADE DO PRODUTO. RECUSA EM SUBSTITUIR O PRODUTO. SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS.
+
+RELATÓRIO/VOTO
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95 e Enunciado Cível nº 92 do FONAJE.
+
+Conheço do Recurso por preencher os pressupostos de admissibilidade.
+
+EMENTA. RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. DIREITO DO CONSUMIDOR.
+AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS.
+VÍCIO DE QUALIDADE DO PRODUTO. NARRA A AUTORA QUE NO DIA 3.8.2020 ADQUIRIU UM APARELHO CELULAR, NO VALOR DE R$910,03, CONTUDO, APÓS 3 MESES DE USO O PRODUTO APRESENTOU DEFEITO, ASSIM, ENTROU EM CONTATO COM AS REQUERIDAS PARA SOLUCIONAR O IMPASSE, MAS AS REQUERIDAS FICARAM INERTES, NÃO REPARANDO OU TROCANDO O PRODUTO.
+SENTENÇA JULGOU PROCEDENTE
+A PRETENSÃO AUTORAL. CONDENOU AS REQUERIDAS AO PAGAMENTO DO VALOR DE R$910,03 (NOVECENTOS E DEZ REAIS E TRÊS CENTAVOS) A TÍTULO DE DANO MATERIAL, ACRESCIDO DE CORREÇÃO MONETÁRIA DO DESEMBOLSO E JUROS DA CITAÇÃO; CONDENAR AS REQUERIDAS AO PAGAMENTO DO VALOR DE R$2.000,00 (DOIS MIL REAIS) A TÍTULO DE DANO MORAL, ACRESCIDO DE CORREÇÃO MONETÁRIA E JUROS DO ARBITRAMENTO.
+
+RECURSO INOMINADO
+DA REQUERIDA BRITANIA ELETRODOMESTICOS SA. AFIRMA QUE A AUTORA NÃO ENVIOU O PRODUTO PARA AVALIAÇÃO TÉCNICA, INEXISTINDO VEROSSIMILHANÇA DE QUE O FORNECEDOR FOI COMUNICADO DENTRO DO PRAZO LEGAL. SUSTENTA A INEXISTÊNCIA DE DANOS MORAIS. PUGNA PELA IMPROCEDÊNCIA DA AÇÃO OU MINORAÇÃO DO
+QUANTUM
+INDENIZATÓRIO.
+EM CONTRARRAZÕES
+AUTORA PUGNA PELA MANUTENÇÃO DA SENTENÇA.
+RECURSO CONHECIDO E IMPROVIDO.
+PRODUTO DE CONSUMO DURÁVEL SENDO LEGÍTIMA A EXPECTATIVA DE QUE PODERÁ SER UTILIZADO POR UM LONGO PERÍODO. OFENSA A BOA-FÉ OBJETIVA. FALHA NA PRESTAÇÃO DE SERVIÇO. RECUSA EM PROVIDENCIAR A TROCA DO PRODUTO. PARTE RECORRENTE NÃO SE DESINCUMBIU DO ÔNUS DE DEMONSTRAR FATOS EXTINTIVOS, IMPEDITIVOS OU MODIFICATIVOS DO DIREITO PLEITEADO PELA AUTORA. INADMISSIBILIDADE DE TELAS SISTÊMICAS COMO MEIO DE PROVA, POIS CONFIGURA PROVA UNILATERAL IMPRESTÁVEL À FINALIDADE INTENCIONADA. PRECEDENTES TJPR; ApCiv 1638986-9; Apucarana; Nona Câmara Cível; Rel. Des. Francisco Luiz Macedo Junior; Julg. 06/07/2017; DJPR 24/07/2017; Pág. 217. SITUAÇÃO ENFRENTADA PELO AUTOR ULTRAPASSA A ESFERA DE MERO ABORRECIMENTO. DANO MORAL CONFIGURADO.
+SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS, NOS TERMOS DO ART. 46 DA LEI 9.099/95.
+CONDENAÇÃO DA PARTE RECORRENTE AO PAGAMENTO DAS CUSTAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS QUE FIXO NO IMPORTE DE 10% DO VALOR ATUALIZADO DA CONDENAÇÃO
+.
+
+DISPOSITIVO
+
+Ante o exposto,
+CONHEÇO DO RECURSO
+interposto e, no mérito,
+NEGO-LHE PROVIMENTO,
+mantendo a sentença incólume por seus próprios fundamentos.
+CONDENO
+a recorrente ao pagamento das custas processuais e honorários advocatícios que fixo no importe de 20% do valor atualizado da condenação.
+
+THAITA CAMPOS TREVIZAN
+
+Relatora
+
+_______________________________________________________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
