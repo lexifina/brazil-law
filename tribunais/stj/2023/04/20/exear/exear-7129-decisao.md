@@ -1,0 +1,6 @@
+DECISÃO
+Trata-se de execução iniciada por JOÃO CARLOS PERES RUIZ em face do INSTITUTO NACIONAL DO SEGURO SOCIAL,  objetivando o recebimento de honorários advocatícios fixados em decisão que julgou extinta a ação rescisória com resolução de mérito.
+Intimado para os fins do art. 535 do CPC, o executado deixou transcorrer o prazo sem manifestação.
+Ante o exposto, não tendo sido impugnada a execução, homologo o cálculo exequendo no valor de R$ 2.114,02 (dois mil cento e catorze reais e dois centavos) e determino a expedição do requisitório de pagamento, nos termos do art. 535, § 3º, do CPC.
+Condeno o INSS ao pagamento de honorários advocatícios sucumbenciais fixados em 10% sobre o valor da condenação, tendo em vista ser devido esse encargo nas execuções contra a Fazenda Pública, ainda que não impugnadas, nas hipóteses em que o crédito executado está sujeito a pagamento por RPV (art. 85, §§ 3º e 7º, do CPC). Precedentes: AgInt no REsp n. 2.012.137/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 10/10/2022, DJe de 13/10/2022; AgInt no REsp n. 2.014.120/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 3/10/2022, DJe de 6/10/2022; AgInt no AREsp n. 2.019.637/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 13/6/2022, DJe de 17/6/2022.
+Publique-se. Intimem-se.
