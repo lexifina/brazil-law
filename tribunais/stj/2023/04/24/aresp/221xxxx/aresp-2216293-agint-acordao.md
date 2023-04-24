@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/04/2023 a 24/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de agravo interno interposto por 2 ALIANCAS S/A - EMRECUPERACAO JUDICIAL contra decisão unipessoal que conheceu do agravo que interpusera para conhecer e dar parcial provimento ao seu recurso especial, a fim de anular o acórdão do Tribunal de origem, em razão da negativa de prestação jurisdicional.
+Ação: de cobrança, ajuizada pela CAIXA ECONÔMICA FEDERAL, em desfavor da agravante, pleiteando o recebimento do valor de R$ 122.346,90 (cento e vinte e dois mil, trezentos e quarenta e seis reais e noventa centavos).
+Sentença: julgou procedente o pedido, para condenar a agravante ao pagamento da referida quantia.
+Acórdão: deu provimento à apelação interposta por 2 ALIANCAS S/A - EM RECUPERACAO JUDICIAL, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. COBRANÇA. DÉBITO QUITADO. INTERESSE DE AGIR. SENTENÇA REFORMADA.
+1. Apelação cível interposta em face de sentença que julgou parcialmente procedentes os pedidos, nos termos do art. 487, inciso I, que julgou procedentes os pedidos, nos termos do art. 487, inciso, I, do Código de Processo Civil. Cinge-se a controvérsia recursal em perquirir acerca da quitação do débito cobrado.
+2. Inexiste violação ao art. 435 do Código de Processo Civil, uma vez que os documentos acostados aos autos foram obtidos após a prolação da sentença, em pesquisa realizada pelo apelante em seus arquivos, caracterizando-se, assim, como documento novo, apto a instruir o presente feito. Por outro lado, não há afronta ao contraditório e ampla defesa, uma vez que a CEF teve acesso aos documentos novos anexados pela apelante, sendo-lhe oportunizada a análise e construção dos contra- argumentos em seu favor.
+3. O interesse de agir, também chamado de interesse processual, está associado à utilidade da prestação jurisdicional que se pretende obter com o Poder Judiciário, cabendo ao autor demonstrar que o provimento jurisdicional pretendido será capaz de lhe proporcionar a prestação pretendida. Insta destacar que o interesse processual deve ser analisado sob dois aspectos, quais sejam: i) a necessidade de obtenção da tutela jurisdicional reclamada; e ii) a adequação entre o pedido e a proteção jurisdicional que se pretende obter.
+4. Houve a quitação do débito, de modo que inexiste interesse de agir por parte da financeira na recuperação do crédito.
+5. Reformada a sentença, faz-se necessária a inversão do ônus sucumbenciais. É devida a verba honorária recursal, na forma do art. 85, §11 do CPC, quando estiverem presentes, simultaneamente, os seguintes requisitos: a) decisão recorrida publicada a partir de 18.3.2016, ocasião em que entrou em vigor o novo CPC; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; c) condenação em honorários advocatícios desde a origem, no feito em que interposto o recurso (STJ, 2ª Seção, AgInt nos EREsp 1539725, Rel. Min. ANTONIO CARLOS FERREIRA, DJE 19.10.2017). Dessa maneira, considerando o preenchimento das condições supra, devem ser majorados em 1% (um por cento) os honorários advocatícios fixados em desfavor da demandante.
+6. Apelação provida (e-STJ fls. 533).
+Embargos de Declaração: opostos pela agravada, foram rejeitados.
+Recurso especial: alega violação dos arts. 10, 1.013, 1.014, 1.022, II e III do CPC/2015. Além de negativa de prestação jurisdicional, sustenta que "em nenhum momento foi oportunizado à Caixa o contraditório pleno sobre tal ponto. Ou seja, a Caixa não foi instada, especificamente, a se manifestar sobre a documentação apresentada pela apelante após proferida a sentença, e tal documentação não foi analisada pelo Juízo a quo, sob o fundamento de que foi juntada após a sentença" (e-STJ fls. 608). Aponta a ocorrência de supressão de instância, bem como que a agravante não comprovou o motivo de força maior por ter apresentado fatos e documentos considerados equivocadamente como novos na apelação.
+Decisão monocrática: conheceu do agravo em recurso especial interposto pela CAIXA ECONÔMICA FEDERAL para conhecer e dar parcial provimento ao seu recurso especial, ante o reconhecimento de ocorrência de negativa de prestação jurisdicional (violação do art. 1.022 do CPC/2015).
+Agravo interno: afirma que todos os argumentos da agravada foram analisados e julgados de forma coesa e fundamentada pelo Tribunal de origem, de modo que não há motivos plausíveis para que a haja a remessa dos autos à origem para um novo julgamento dos embargos de declaração opostos. Acrescenta que o TRF - 2ª Região afastou a alegada tese de ocorrência de supressão de instância e que os referidos comprovantes de quitação só foram apresentados em momento posterior, pois o acesso aos extratos bancários da agência e do internet banking foi restringido e coibido pela CEF.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OCORRÊNCIA. OMISSÕES RELEVANTES NÃO SANADAS. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM.
+1. Ação de cobrança.
+2. O Tribunal de origem deixou de se pronunciar sobre questões relevantes arguidas pelo recorrente em sede de embargos declaratórios. Ofensa ao art. 1.022 do CPC/15. Acórdão cassado. Retorno dos autos ao TRF da 2ª Região.
+3. Agravo interno não provido .
+VOTO
+- Da negativa de prestação jurisdicional
+Com efeito, não há como se afastar a reconhecida ocorrência de violação do art. 1.022 do CPC/2015, uma vez que a Corte local, de fato, não promoveu a análise de teses relevantes ao deslinde da controvérsia, tais quais a ausência de motivo de força maior para a apresentação posterior dos documentos e a própria ausência de identidade entre as prestações cobradas pela CEF e àquelas relativas aos contratos tidos por quitados pela agravante.
+Ressalte-se que a agravante, nas razões do presente agravo interno, limita-se a afirmar que a tese relativa à eventual ocorrência de supressão de instância foi analisada pelo Tribunal de origem.
+Ocorre, contudo, que a decisão agravada reconheceu a existência de outras omissões e contradição por parte da Corte local, razão pela qual a mesma deve ser mantida.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno.
