@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de BRUNO HENRIQUE MARQUES DA SILVA, contra acórdão do Tribunal de Justiça de São Paulo.
+Consta dos autos que o paciente foi condenado à pena de 7 anos, 9 meses e 10 dias de reclusão, em regime inicial fechado, pela prática dos crimes previstos nos artigos 33, caput, da Lei n. 11.343/2006, e de 4 anos e 1 mês de reclusão, em regime inicial fechado, e 12 dias-multa, no valor unitário mínimo, por ofensa ao artigo 16, § 1º, inciso IV, da Lei n. 10.826/2003, em concurso material.
+Interposta apelação pela defesa, a Corte estadual negou provimento ao recurso.
+Nesta instância, sustenta a defesa a nulidade da condenação, pois alega que as provas elencadas para o édito condenatório são decorrentes de busca pessoal ilegal, realizada sem justa causa ou fundada suspeita.
+Requer, liminarmente, que o paciente aguarde em liberdade o julgamento do habeas corpus. No mérito, pretende a concessão da ordem para que seja reconhecida a nulidade arguida, com a anulação da condenação proferida na Ação Penal n. 1501092-42.2022.8.26.0559, oriunda da 3ª Vara Criminal de São José do Rio Preto - SP.
+Liminar indeferida.
+O Ministério Público Federal ofertou parecer pela denegação da ordem.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Acerca da suposta nulidade relacionada à busca pessoal e ao consequente flagrante, decidiu o Tribunal de Justiça:
+Rejeita-se a preliminar arguida.
+Não restou caracterizada a nulidade da abordagem pessoal.
+Em suma, policiais militares que atuaram na prisão em flagrante disseram, em depoimentos firmes e coesos, que se encontravam em patrulhamento rotineiro e avistaram um indivíduo empurrando uma moto que, ao notar a viatura, jogou uma sacola ao chão. Assim, diante de fundadas suspeitas da ocorrência de crime em flagrante, decidiram pela abordagem. Na posse dele, apreenderam R$ 200,00 e um celular. Dentro da bolsa, havia um "tijolo" de maconha e outros três pedaços da mesma droga, pesando 1.408,31 gramas, e um revólver, calibre 38, com a numeração raspada, municiado com 4 cartuchos, intactos, e 1 deflagrado.
+Em suma, a ação dos policiais foi regular, necessária e urgente. A abordagem foi realizada com indicação de dado concreto sobre a existência de justa causa, autorizando a medida invasiva, vislumbrando-se a licitude da prova. (e-STJ, fl. 16)
+Sobre a controvérsia, vale ressaltar que, " n os termos do art. 244 do CPP, a busca pessoal independerá de mandado quando houver prisão ou fundada suspeita de que a pessoa esteja na posse de arma proibida, objetos ou papéis que constituam corpo de delito, ou ainda quando a medida for determinada no curso de busca domiciliar." (AgRg no AREsp 1403409/RS, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 26/3/2019, DJe 4/4/2019; grifou-se).
+No caso, verifique-se que a fundada suspeita reside no fato de que os agentes policiais viram o paciente dispensar uma sacola ao se deparar com a guarnição militar, sendo que, ali dentro, foram encontrados 1 tijolo de maconha, pesando aproximadamente 1.5 kg, e um revólver, calibre 38, com a numeração raspada, municiado com 4 cartuchos intactos, e 1 deflagrado. Além disso, na revista pessoal, apreenderam R$ 200,00 (duzentos reais) e um celular. Nesse passo, é legítima a busca pessoal diante do caso concreto em exame. Nesse mesmo sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. PRISÃO PREVENTIVA. REVOGAÇÃO. IMPOSSIBILIDADE. PREENCHIMENTO DOS REQUISITOS LEGAIS. GARANTIA DA ORDEM PÚBLICA. SUBSTITUIÇÃO POR MEDIDAS CAUTELARES ALTERNATIVAS. NÃO CABIMENTO. RISCO DE REITERAÇÃO DELITIVA. APREENSÃO DE EXPRESSIVA QUANTIDADE DE DROGAS. REINCIDÊNCIA ESPECÍFICA. BUSCA PESSOAL. FUNDADAS RAZÕES. INTELIGÊNCIA POLICIAL. ATITUDE SUSPEITA DO AGENTE. DECISÃO FUNDAMENTADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A imprescindibilidade da prisão preventiva justificada no preenchimento dos requisitos dos arts. 312, 313 e 315 do CPP impede a aplicação das medidas cautelares alternativas previstas no art. 319 do CPP.
+2. São fundamentos idôneos para a decretação da segregação cautelar no caso de tráfico ilícito de entorpecentes a quantidade, a variedade ou a natureza das drogas apreendidas, bem como a gravidade concreta do delito, o modus operandi da ação delituosa e a periculosidade do agente.
+3. A reincidência específica evidencia maior envolvimento do paciente com a prática delituosa, podendo ser utilizada para justificar a manutenção da custódia cautelar para garantia da ordem pública, com o objetivo de conter a reiteração delitiva.
+4. Nos termos do art. 244 do CPP, a busca pessoal independerá de mandado quando houver prisão ou fundada suspeita de que a pessoa esteja na posse de arma proibida, de objetos ou papéis que constituam corpo de delito, ou ainda quando a medida for determinada no curso de busca domiciliar.
+5. A busca pessoal é legítima se amparada em fundadas razões, se devidamente justificada pelas circunstâncias do caso concreto.
+6. Agravo regimental desprovido.
+(AgRg no HC n. 723.793/SP, relator Ministro João Otávio de Noronha, Quinta Turma, DJe de 18/3/2022; grifou-se.)
+Dessa forma, não se vislumbra flagrante ilegalidade capaz de autorizar a concessão da ordem de ofício.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
