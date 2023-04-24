@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/04/2023 a 24/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão do Presidente do STJ, proferida às fls. 317-318, que conheceu do recurso especial, em virtude da incidência da Súmula 284 do STF.
+Nas razões do agravo interno, o agravante alega violação dos arts. 406 do CC/2002 e 161, § 1º, do CTN, tendo em vista que a disposição sobre a matéria prevista na Lei n. 11.960/2009 aplica- se somente nos casos em que a Fazenda Pública figura na lide como parte ré, o que não é o caso dos autos, em que a Fazenda é autora da cobrança, credora, portanto, da dívida.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRATO ADMINISTRATIVO. INSTRUMENTO DE MANDADO JUDICIAL POR PROCURADORES DE FUNDAÇÕES PÚBLICAS. CITAÇÃO DE ARTIGO DE LEI NA PEÇA RECURSAL. NÃO INDICAÇÃO DO DISPOSITIVO LEGAL VIOLADO. INCIDÊNCIA DA SÚMULA 284 DO STF.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Revelam-se deficientes as razões do recurso especial quando o recorrente limita-se a expor alegações genéricas e não indica qual dispositivo de lei federal ou tratado foi contrariado pelo acórdão recorrido, situação que se evidencia nos autos e impede o conhecimento do recurso. Aplica-se à hipótese a Súmula 284/STF.
+3. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+O presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+No caso, a parte agravante, nas razões do apelo especial, sustenta que os procuradores das pessoas jurídicas de direito público não necessitam de mandato especial para agir em juízo, por estarem investidos do poder de representação. Contudo, deixou de indicar precisamente quais os dispositivos legais foram violados ou, ainda, quais dispositivos legais seriam objeto de dissídio interpretativo, tendo em vista que a mera citação de artigo de lei na peça recursal não supre a exigência constitucional.
+É pacífico o entendimento desta Corte que a via estreita do recurso especial exige a demonstração inequívoca da ofensa ao dispositivo mencionado nas razões do recurso, bem como a sua particularização, a fim de possibilitar exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação dos dispositivos infraconstitucionais tidos como violados caracteriza deficiência de fundamentação e, portanto, faz incidir, por analogia, o teor da Súmula n. 284 do STF.
+A propósito:
+PROCESSUAL CIVIL. CONSUMIDOR. AÇÃO DE OBRIGAÇÃO DE FAZER CUJO PEDIDO É CUMULADO COM O DE INDENIZAÇÃO POR DANOS MORAIS. FALHA NA PRESTAÇÃO DO SERVIÇO DE FORNECIMENTO DE ÁGUA. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. INCIDÊNCIA ENUNCIADO N. 284 DA SÚMULA DO STF.
+ ..
+II - Evidencia-se a deficiência na fundamentação recursal quando o recorrente não indica qual dispositivo de lei federal teria sido violado, bem como não desenvolve argumentação a fim de demonstrar em que consiste a ofensa aos dispositivos tidos por violados.
+III - A via estreita do recurso especial exige a demonstração inequívoca da ofensa ao dispositivo mencionado nas razões do recurso, bem como a sua particularização, a fim de possibilitar exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação dos dispositivos infraconstitucionais tidos como violados caracteriza deficiência de fundamentação, fazendo incidir, por analogia, o disposto no enunciado n. 284 da Súmula do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+IV - Nesse sentido: AgInt no REsp n. 1.952.676/SP, Segunda Turma, julgado em 17/10/2022, DJe 19/10/2022; AgInt no ARESP n. 1.611.260/RS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 26/6/2020; AgInt nos EDcl no REsp n. 1.675.932/PR, relator Ministro Francisco Falcão, Segunda Turma, DJe de 4/5/2020; AgInt no REsp n. 1.860.286/RO, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 14/8/2020; AgRg nos EDcl no AREsp n. 1.541.707/MS, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 29/6/2020; AgRg no AREsp n. 1.433.038/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 14/8/2020; REsp n. 1.114.407/SP, relator Ministro Mauro Campbell Marques, Primeira Seção, DJe de 18/12/2009; e AgRg no EREsp n. 382.756/SC, relatora Ministra Laurita Vaz, Corte Especial, DJe de 17/12/2009.
+V - Agravo interno improvido.
+(AgInt no AREsp n. 2.173.040/RJ, relator Ministro Francisco Falcão, Segunda Turma, DJe de 19/12/2022.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. DISPOSITIVO VIOLADO. INDICAÇÃO. INEXISTÊNCIA.
+1. É firme a jurisprudência desta Corte Superior quanto à inadmissibilidade do recurso especial que deixa de apontar o dispositivo de lei federal supostamente violado pelo Tribunal de origem. Aplicação da Súmula 284 do STF.
+2. A mera "citação d e passagem de artigos de lei não é suficiente para caracterizar e demonstrar a contrariedade a lei federal, já que impossível identificar se o foram citados meramente a título argumentativo ou invocados como núcleo do recurso especial interposto" (AgInt no REsp n. 1.958.451/CE, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 21/3/2022, DJe de 25/3/2022).
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 1.988.523/PR, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 3/10/2022.)
+Ainda nesse mesmo sentido, confira ainda os seguintes julgados: AgInt no REsp 1.678.341/ES, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 8/5/2019; AgInt no AREsp 1.775.664/RJ, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 10/06/2021.
+Ademais, no que diz respeito a citação dos arts. 406 do Código Civil e 161, § 1º, do CTN, verifica-se que o Tribunal a quo, em nenhum momento abordou as questões referidas nos dispositivos legais, mesmo após a oposição de embargos de declaração, apontando a suposta omissão. Nesse contexto, ainda incide, na hipótese, a Súmula n. 211/STJ.
+A propósito, nesse sentido: AgInt no AREsp 1.382.885/SP, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 29/04/2021; AgInt no AREsp 1.067.275/RS, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 13/10/2017, AgInt no REsp 1.631.358/RN, Rel. Ministro Og Fernandes, Segunda Turma, DJe 30/06/2017 e AgInt no AREsp 1.906.855/PR, Rel. Ministro Manoel Erhardt (Desembargador Federal convocado do TRF/5ª Região), Primeira Turma, DJe de 07/04/2022.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
