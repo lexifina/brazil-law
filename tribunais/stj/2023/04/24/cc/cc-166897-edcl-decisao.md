@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de embargos de declaração, opostos por LEANDRO MUSSI, produtor rural - EM RECUPERAÇÃO JUDICIAL, contra a decisão que não conheceu do conflito de competência, esclarecendo que "o bem em excussão, Fazenda Aeroporto, é de propriedade da sociedade executada e não do produtor rural suscitante, conforme documentado no CRI de Sinop/MT (nas fls. 324/327)" bem como que, "em situações como essa, o entendimento pacífico desta Corte, sumulado no Enunciado nº 480/STJ, dispõe que "o juízo da recuperação judicial não é competente para decidir sobre a constrição de bens não abrangidos pelo plano de recuperação da empresa" (nas fls. 1.836/1.838).
+A parte embargante "requer o provimento dos presentes EMBARGOS DE DECLARAÇÃO COM EFEITOS INFRINGENTES e supressão da omissão no que toca à questão do fato da Fazenda Aeroporto estar inserida no plano de recuperação judicial do suscitante e deste modo a competência para tratar de atos executórios pertence ao Juízo da Recuperação, conforme preceituado na Súmula 480 do STJ" (na fl. 1.848).
+A embargada apresentou impugnação.
+É o relatório.
+Passo a decidir.
+Os embargos não merecem acolhida.
+Deveras, o embargante requer a supressão de omissão quanto "à questão do fato da Fazenda Aeroporto estar inserida no plano de recuperação judicial do suscitante" sem, todavia, demonstrar em que consiste, exatamente, a indigitada omissão da decisão embargada que afirmou expressamente que que "o bem em excussão, Fazenda Aeroporto, é de propriedade da sociedade executada e não do produtor rural suscitante, conforme documentado no CRI de Sinop/MT" (grifou-se, na fl. 1.848).
+Nesse passo, destacou a decisão embargada que o d. Juízo exequente suscitado redirecionou a execução em desfavor de terceiro, ou seja, a sociedade devedora originária, que não está submetido a recuperação judicial. Confira-se o teor da decisão suscitada:
+"Noticiado o deferimento do pedido de recuperação judicial em favor do executado Leandro Mussi, produtor rural, na data de 30 de agosto de 2018 (fls. 5789/5798), suspendo o andamento do feito exclusivamente em relação ao referido executado, em razão do disposto no artigo 49, §1º, da Lei 11.101, de 9 de Fevereiro de 2005.
+Aguarde-se o decurso do prazo de 180 dias, contado do deferimento do processamento da recuperação, nos termos do art. 6º, §4º, da Lei nº 11.101/2005 ou eventual dilação de prazo concedida pelo juízo da recuperação.
+Embora sustente o executado recuperando a essencialidade dos bens perseguidos na ação, verifica-se que o imóvel penhorado (inscrito na matrícula nº 55.908 do Cartório de Registro de Imóveis da Comarca de Sinop/MT, denominado Fazenda Aeroporto) é de propriedade da coexecutada Agropecuária Mussi Ltda - ME, por força de integralização datada de 17 de outubro de 2014 (fls. 63/66).
+Assim, prossiga-se o feito normalmente em relação aos demais coexecutados, COMPANY LEANDRO MUSSI LLC e AGROPECUÁRIA MUSSI LTDA - ME" (grifou-se, na fl. 83).
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
