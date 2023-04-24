@@ -1,0 +1,88 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/04/2023 a 24/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+EGA - ADMINISTRAÇÃO, PARTICIPAÇÕES E SERVIÇOS LTDA interpõe agravo interno contra a decisão de fls. 457-460, que conheceu do agravo para conhecer em parte do recurso especial e negar-lhe provimento.
+Nas razões deste recurso, a parte agravante, reiterando o conteúdo meritório do recurso, alega que (fls. 470-476):
+10. Contudo, no caso em apreço, não foi dirimida pelo Tribunal a questão central do presente recurso, qual seja, de que não há fundamentação sobre os motivos que fizeram o Tribunal revisar o valor do aluguel.
+11. Note-se que o recorrente demonstrou que o Decreto nº 40.583 do GDF permitia, desde 18 de maio de 2020, a abertura e o funcionamento regular da atividade exercida pela recorrida.
+12. Ou seja, não havia, com fundamento na legislação, necessidade de revisar o valor do locatício quando havia autorização legal para o pleno funcionamento do empreendimento. Entretanto, tais questões foram completamente negligenciadas pelo Tribunal de Justiça do Distrito Federal e dos Territórios.
+13. Em verdade, o r. Tribunal manteve-se silente quanto ao ponto principal do recurso, acima delineado. Em suma, para invocar a autoridade de Pontes de Miranda, "o julgador tem de dizer "sim" ou "não" a qualquer pedido ou requerimento ou simples alegação".
+ ..
+16. Dessa forma, confia a recorrente que será provido este recurso, para que seja anulado o v. acórdão recorrido, por violação ao art. 489, § 1º,do Código de Processo Civil de 2015, com a remessa dos autos ao Tribunal de origem, para que, em outro julgamento da causa, se manifeste, validamente e de forma satisfatória, sobre os pontos levantados nos embargos de declaração, essenciais ao deslinde da questão aqui trazida.
+ ..
+18. Ocorre que foi demonstrado inequivocamente que o recorrente não pretende que o Superior Tribunal de Justiça reexamine cláusula contratual ou tampouco rediscuta fatos e provas.
+19. Em verdade trata-se de mera contextualização de fatos para demonstrar que, embora a pandemia tenha afetado as receitas das empresas no Brasil e no mundo, esta foi sentida por ambas as partes da relação locatícia: (i) locadora e (ii) locatária, não havendo razão justificável para privilegiar uma pessoa da relação em detrimento à outra, sob pena de causar flagrante desequilíbrio contratual.
+ ..
+31. Assim, ao passo que não há necessidade de revolvimento de fatos e provas, inaplicável a súmula 7, inexistindo necessidade de devolver à apreciação o conjunto fático probatório, e sim trazer à baila o contexto que desencadeou a ofensa aos aludidos artigos!
+ ..
+33. Quanto à alegada ofensa à súmula 5, não há que se falar em mera interpretação de cláusula contratual, tratando-se de mera demonstração de que o contrato deve ser seguido, não revisado ou modificado forçadamente.
+Requer a reconsideração da decisão agravada ou a submissão do presente recurso ao julgamento pelo Colegiado.
+A parte agravada apresentou impugnação ao recurso (fls. 486-496).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE LOCAÇÃO. VIOLAÇÃO DOS ARTS. 489, § 1º, III e IV, e 1.022, II, DO CPC. NÃO OCORRÊNCIA. VERIFICAÇÃO. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. REEXAME FÁTICO-PROBATÓRIO. SÚMULAS NS. 5 e 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Inexiste ofensa aos arts. 489, § 1º, III e IV, e 1.022, II, do Código de Processo Civil quando o Tribunal de origem aprecia, com clareza e objetividade e de forma motivada, as questões que delimitam a controvérsia, ainda que não acolha a tese da parte insurgente
+2. Incidem as Súmulas n. 5 e 7 do STJ na hipótese em que a questão suscitada demandar a interpretação cláusulas contratuais e o reexame do conjunto fático-probatório dos autos, providências inviáveis no âmbito do recurso especial.
+3. Agravo interno desprovido.
+VOTO
+A irresignação não reúne condições de prosperar.
+A decisão agravada firmou-se nestes termos (fls. 457-460):
+Trata-se de agravo em recurso especial interposto por EGA - ADMINISTRACAO, PARTICIPACOES E SERVICOS LTDA. contra decisão que inadmitiu recurso especial com fundamento nas Súmulas n. 5 e 7 do STJ.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão (Apelação Cível n. 0709747-60.2020.8.07.0001) assim ementado (fl. 340):
+APELAÇÃO CÍVEL. PROCESSUAL CIVIL. CONTRATO DE LOCAÇÃO. SHOPPING CENTER. VALOR DO ALUGUEL. READEQUAÇÃO. PANDEMIA. PRINCÍPIO DA BOA-FÉ E FUNÇÃO SOCIAL DO CONTRATO.
+1.É legítima a readequação do pagamento do valor dos alugueres nos contratos de locação durante o período de pandemia, respeitados os princípios da boa-fé e da função social do contrato (CC 421 e 422).
+2. Negou-se provimento ao apelo da ré.
+Opostos embargos de declaração, foram rejeitados (fls. 373-382).
+No bojo do recurso especial (fls. 427-442), a recorrente aponta violação dos arts.: a) 489, § 1º, III e IV, e 1.022, II, do Código de Processo Civil, defendendo que a Corte de origem não analisou questão que reputa relevante para o deslinde do processo; e b) 422, 478, 479 do Código Civil e 54 da Lei 8.245/1991, sob a alegação de que não cabe ao Poder Judiciário impor a obrigação de revisar o valor do contrato em razão de fato imprevisível.
+Requer o conhecimento e provimento do recurso. Contrarrazões às fls. 451-462.
+É o relatório. Decido.
+O recurso não merece prosperar.
+No presente caso, o Tribunal de origem analisou as questões e assim decidiu (fls. 345-348):
+A ré/apelante alega que:
+1) a autora omitiu os faturamentos dos demais meses até a reabertura dos shoppings que ocorreram em 27/05/2020;
+2) a apelada teve o faturamento de, no mínimo R$ 83.207,00, o que não impedia o pagamento dos alugueres em favor da apelante;
+3) os princípios da boa-fé e da probidade devem ser resguardados (CC 422);
+4) a apelada não comprovou que adotou qualquer prática que pudesse garantir a sobrevivência da sua operação durante o período da pandemia;
+5) foi omitido pela autora o faturamento que obteve pelas vendas online;
+6) há um grande fluxo de caixa na empresa apelada, assim, não é possível alegar desequilíbrio na base econômica do contrato, objetivando a suspensão dos alugueres e dos encargos previstos contratualmente.
+Requer o provimento do apelo para que seja afastada a redução concedida nos valores do pagamento dos alugueres. Alternativamente, que seja reduzido o valor do contrato do aluguel em percentual máximo de 5% por mês do período de 16/03/2020 até a reabertura dos shoppings, ou seja, até 26/05/2020.
+Sem razão a ré/apelante.
+Acolho os fundamentos da r. sentença:
+"(..) A discussão nos autos cinge-se a aplicação da teoria da imprevisão para suspensão do aluguel do imóvel objeto do contrato de ID 65035850, diante das medidas adotadas para contenção da pandemia do Covid-19.
+Inicialmente, é fato notório as dificuldades enfrentadas por toda população diante do impacto da pandemia do Covid-19, tendo o poder público adotado diversas medidas restritivas, visando resguardar a saúde da maior quantidade de pessoas possível.
+ ..
+Nesse contexto, a teoria da imprevisão é aplicada quando se verifica a existência de eventos extraordinários e imprevisíveis, tornando desproporcional as condições contratuais anteriormente ajustadas, ocasionando onerosidade excessiva a uma das partes, com extrema vantagem à outra.
+No caso dos autos, o fechamento do comércio para contenção do avanço da contaminação por um vírus, até então desconhecido, é um fato imprevisível, o qual onerou demasiadamente a parte autora, que sofreu com o imediato fechamento das lojas física e consequentemente com a queda no faturamento da empresa.
+Com efeito, é indiscutível que se trata de um evento atípico, que impactou milhares de pessoas ao redor do mundo, incluindo estudantes, empregados, empregadores e o próprio Estado.
+Dessa forma, em que pese a ré afirmar que a autora continuou exercendo suas atividades de forma virtual, evidente que não tem o condão de afastar a desvantagem observada no atual cenário de vigência do contrato.
+Ora, todos os brasileiros foram impactos com a pandemia, resultando na contenção de gastos, ausência de muitos eventos e festividades, o que, por si só, já resultaria na queda do faturamento da empresa. Ademais, é fato notório que, neste segmento, as vendas virtuais não tem a mesma expressão que as vendas físicas, capitaneadas, muitas vezes, pelas próprias crianças que ingressam na loja. Ligado a esse fato, a manutenção da loja física em um shopping repassa para autora diversos outros encargos, tais como taxa de condomínio, água, luz, funcionários.
+Ademais, deve-se observar, também, que a ré se obrigou a fornecer o imóvel livre e desembaraçado para que a autora pudesse exercer sua atividade econômica, todavia, por razões alheias a sua vontade - determinação de fechamento do poder público - não conseguiu cumprir com o pactuado.
+Nesse cenário, tem-se que autor e réu, assim como diversos outros brasileiros, foram impactos pela pandemia, de modo que, compatibilizando os princípios da boa-fé e da função social dos contratos, em busca de equalizar as obrigações assumidas, deve-se reduzir o valor pactuado do aluguel.
+Dessa forma, no período em que o estabelecimento do réu esteve totalmente fechado, a autora deve arcar com 50% (cinquenta por cento) do valor do aluguel mínimo pactuado no contrato, incluindo o fundo de promoção e propaganda, cabendo a autora manter o pagamento integral dos demais encargos, tais como taxa de condomínio, água e luz.
+Por conseguinte, no período em que houve a reabertura do comércio, com horário especial, a autora deverá suportar o pagamento de 70% do valor do aluguel mínimo pactuado no contrato, incluindo o fundo de promoção e propaganda, cabendo a autora manter o pagamento integral dos demais encargos, tais como taxa de condomínio, seguro, água e luz.
+No tocante à alegada contrariedade aos arts. 489, § 1º, III e IV, e 1.022, II, do Código de Processo Civil (item a), não assiste razão à parte recorrente, porquanto o Tribunala quo examinou e decidiu, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido nem negativa de prestação jurisdicional.
+Ademais, o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+Ressalte-se que a jurisprudência do Superior Tribunal de Justiça orienta-se no sentido de que, "devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC" (AgInt no AREsp n. 1.843.196/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 20/9/2021, DJe de 22/9/2021).
+Confiram-se ainda os seguintes julgados: REsp n. 1.829.231/PB, relator Ministro Herman Benjamin, Segunda Turma, julgado em 20/10/2020, DJe de 1º/12/2020; AgInt no AREsp n. 1.736.385/GO, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/11/2020, DJe de 2/12/2020; e AgInt no REsp n. 2.009.055/AM, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 10/10/2022, DJe de 18/10/2022.
+Em relação à suscitada violação dos arts. 422, 478, 479 do Código Civil e 54 da Lei 8.245/1991, a Corte de origem, aplicando a teoria da imprevisão, concluiu que "o fechamento do comércio para contenção do avanço da contaminação por um vírus, até então desconhecido, é um fato imprevisível, o qual onerou demasiadamente a parte autora, que sofreu com o imediato fechamento das lojas física e consequentemente com a queda no faturamento da empresa" (fl. 347).
+Nesse contexto, a adoção de conclusões diversas do acórdão recorrido demandaria a interpretação de cláusulas contratuais e o revolvimento do quadro fático-probatório dos autos, medidas inviáveis em recurso especial em razão dos óbices das Súmulas n. 5 e 7 do STJ.
+A propósito da matéria, confiram-se precedentes:
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. LOCAÇÃO DE EQUIPAMENTOS DE INFORMÁTICA. MULTA INQUINADA DE ABUSIVA E DESPROPORCIONAL. ART. 413, DO CC. REVISÃO DA CLÁUSULA PENAL. CONTRATO QUE POSSUI OS ELEMENTOS BÁSICOS DE EXISTÊNCIA. INCISO I, DO ART. 143, DO CÓDIGO CIVIL. TEORIA DA APARÊNCIA. REDUÇÃO DO VALOR DA MULTA. INTELIGÊNCIA DO ART. 413, DO CÓDIGO CIVIL. CLÁUSULA PENAL QUE DETERMINA PAGAMENTO DE MULTA EM 50% DO VALOR DAS PARCELAS RESTANTES, EM CASO DE DEVOLUÇÃO ANTECIPADA DOS EQUIPAMENTOS. REDUÇÃO DO PERCENTUAL DA PENALIDADE PARA 10% (DEZ POR CENTO) SOBRE O VALOR DAS PARCELAS RESTANTES. NÃO DEMONSTRADO PREJUÍZO DA LOCADORA. SALVAGUARDA DO EQUILÍBRIO CONTRATUAL. PRETENSÃO RECURSAL. NULIDADE POR NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. VIOLAÇÃO DE LEI FEDERAL. SÚMULAS 5 E 7 DO STJ. INCIDÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA. SÚMULA 211 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há que falar em violação ao art. 1.022 Código de Processo Civil/15 quando a matéria foi objeto de exame em decisão exarada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+2. O exame da pretensão recursal de reforma do acórdão recorrido exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão, reinterpretação de cláusula contratual, o que é vedado em sede de recurso especial nos termos do enunciado das Súmulas 5 e 7 do STJ.
+3. A matéria referente aos dispositivos de lei indicados como violados não foi objeto de discussão no acórdão recorrido, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmula 211/STJ).
+4. Agravo interno não provido. (AgInt no AREsp n. 1.928.664/PR, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 8/8/2022, DJe de 15/8/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE LOCAÇÃO. DENÚNCIA UNILATERAL. MULTA PENAL. REDUÇÃO. ADEQUAÇÃO À PROPORCIONALIDADE E À EQUIDADE. POSSIBILIDADE. SÚMULA 83/STJ. REVER AS CONCLUSÕES DO ACÓRDÃO RECORRIDO. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Esta Corte Superior possui entendimento no sentido de ser possível a redução judicial da cláusula penal estabelecida em contrato ou acordo firmado pelas partes, quando ficar demonstrado o excesso do valor arbitrado inicialmente, observando-se os princípios da proporcionalidade e da equidade. Rever as conclusões do acórdão recorrido acerca da proporcionalidade e equidade da multa estabelecida no contrato demandaria o reexame de provas. Incidência da Súmula 7/STJ.
+2. Agravo interno desprovido. (AgInt no AREsp n. 1.471.006/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 26/8/2019, DJe de 30/8/2019.)
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e negar-lhe provimento.
+Nos termos do § 11 do art. 85 do CPC, majoro, em favor do patrono da parte ora recorrida, os honorários advocatícios, em 20% sobre o valor arbitrado na instância de origem, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+Repisa-se que inexiste a alegada violação dos arts. 489, § 1º, III e IV, e 1.022, II, do Código de Processo Civil (item a), porquanto o Tribunal a quo examinou e decidiu, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido nem negativa de prestação jurisdicional.
+Reitere-se que, para rever as conclusões adotadas na origem - que "o fechamento do comércio para contenção do avanço da contaminação por um vírus, até então desconhecido, é um fato imprevisível, o qual onerou demasiadamente a parte autora, que sofreu com o imediato fechamento das lojas física e consequentemente com a queda no faturamento da empresa" (fl. 347) -, seria imprescindível a interpretação de cláusulas contratuais e o reexame do conjunto fático-probatório dos autos, medidas que esbarram nos óbices das Súmulas n. 5 e 7 do STJ.
+Nesse contexto, a parte agravante não logrou êxito em apresentar argumentos suficientes que justificassem a alteração da decisão ora impugnada, que deve ser mantida por seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
