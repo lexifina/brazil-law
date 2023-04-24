@@ -1,0 +1,70 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/04/2023 a 24/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de agravo interno interposto BANCO DO BRASIL S. A. contra a decisão de fls. 1.066-1.071 (e-STJ), da lavra deste signatário que conheceu do agravo para negar provimento ao recurso especial do ora agravante, nos termos da seguinte ementa:
+AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL.1. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. OMISSÃO. VÍCIO NÃOCONFIGURADO.2. PRESCRIÇÃO INTERCORRENTE RECONHECIDA. CONCLUSÕES PAUTADAS EM FATOS E PROVAS. SÚMULA 7/STJ. 3. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+O apelo extremo foi deduzido com base no art. 105, III, a e c, da Constituição Federal, em desafio a acórdão prolatado pelo Tribunal de Justiça do Estado de de Sergipe assim ementado (e-STJ, fl. 890):
+APELAÇÃO CÍVEL - AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - CONTRATO DE ABERTURA DE CRÉDITO FIXO - EXTINÇÃO DO FEITO - PRESCRIÇÃO INTERCORRENTE RECONHECIDA - INCIDÊNCIA DAS REGRAS PREVISTAS NO CPC/73 - FEITO QUE NÃO SE ENCONTRAVA SUSPENSO QUANDO DA ENTRADA EM VIGOR DO CPC/2015 - RESP 1604412/SC SUBMETIDO AO RITO DO ARTIGO 947 DO CPC/15 - INCIDENTE DE ASSUNÇÃO DE COMPETÊNCIA - PRAZO QUINQUENAL DO DIREITO MATERIAL VINDICADO - DILIGÊNCIAS IMPRODUTIVAS EM BUSCA DE BENS PENHORÁVEIS  IMPOSSIBILIDADE DE SUSPENSÃO OU INTERRUPÇÃO DA PRESCRIÇÃO INTERCORRENTE  PRECEDENTES DO STJ  SENTENÇA MANTIDARECURSO CONHECIDO E DESPROVIDO.
+Os embargos de declaração opostos foram desacolhidos (fls. 915-926, e-STJ).
+Nas razões de recurso especial (e-STJ, fls. 929-952), além de dissídio jurisprudencial, o recorrente alegou violação dos arts. 924, § 4º, 947e 1.022 do CPC/2015.
+Sustentou, em síntese:
+(i) negativa de prestação jurisdicional ante a omissão do Colegiado estadual em analisar questões relevantes para o deslinde da controvérsia, em especial, quanto aos argumentos referentes à ausência de inércia da parte na condução da execução; e
+(ii) não estar configurada a prescrição intercorrente, pois a contagem do prazo aplicável ao caso em análise só se iniciaria após o fim do período de suspensão, iniciado na constância do CPC/1973.
+Em razão do juízo prévio negativo de admissibilidade, o recorrente interpôs agravo (art. 1.042 do CPC/2015), do qual se conheceu para negar provimento ao recurso especial pelos seguintes fundamentos: a) não estar configurada a alegada violação do art. 1.022 do CPC/2015 porquanto as questões trazidas pelo recorrente foram analisadas, de forma fundamentada; e b) incidência da Súmula 7/STJ para revisão das conclusões estaduais.
+Neste agravo interno (fls. 1.074-1.091, e-STJ), o agravante pugna pela inaplicabilidade dos óbices apontados para o desprovimento de seu reclamo, ao tempo que repisa as mesmas razões trazidas no recurso especial.
+Ao final, requer a reconsideração da decisão agravada ou a apreciação do agravo interno pelo colegiado.
+Sem impugnação, conforme certificado à fl. 1.094 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PRESCRIÇÃO INTERCORRENTE CONFIGURADA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015 NÃO OCORRÊNCIA. REVISÃO DAS CONCLUSÕES ESTADUAIS. IMPOSSIBILIDADE. NECESSIDADE DE INCURSÃO NO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada a violação ao art. 1.022 do CPC/2015, uma vez que a Corte de origem se manifestou de forma fundamentada sobre todas as questões que entendeu necessárias para o deslinde da controvérsia. O simples inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. Reverter a conclusão do Colegiado estadual, para acolher a pretensão recursal, demandaria necessariamente, o reexame do acervo fático-probatório dos autos, providência vedada no âmbito do recurso especial, ante o óbice da Súmula 7 do Superior Tribunal de Justiça.
+3. Razões recursais insuficientes para a revisão do julgado.
+4. Agravo interno desprovido.
+VOTO
+O recurso não comporta provimento, porquanto as razões expendidas são insuficientes para a reconsideração da decisão.
+Com efeito, conforme asseverado na decisão agravada, depreende-se que a apontada afronta ao art. 1.022 do CPC/2015 não ficou caracterizada, uma vez que a jurisprudência desta Corte é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Dessa forma, convém registrar que, apesar de rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Colegiado de origem, que sobre ela emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+Confira -se:
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. VIOLAÇÃO AO ART. 489 E 1.022 DO CPC. NÃO IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO RECORRIDA. SÚMULA N. 283/STF. FALTA DE COMPROVAÇÃO DO DISSÍDIO. AGRAVO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela violação dos arts. 489, § 1º, e 1.022 Código de Processo Civil quando, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+2. O julgador não é obrigado a discorrer sobre todos os argumentos levantados pelas partes, mas sim decidir a contento, nos limites da lide que lhe foi proposta, fundamentando o seu entendimento de acordo com o seu livre convencimento, baseado nos aspectos pertinentes à hipótese sub judice e com a legislação que entender aplicável ao caso concreto.
+3. A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado, impõe o não conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula nº 283/STF.
+4. Para a configuração do dissídio jurisprudencial faz-se necessária a indicação das circunstâncias que identifiquem as semelhanças entre o aresto recorrido e o paradigma, no caso em tela não restou comprovada a similitude fática entre os arestos.
+5. Agravo interno não provido (AgInt no AREsp n. 1.647.732/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 27/5/2022).
+Em relação às matérias tidas por omissas, assim se manifestou o Tribunal de origem (e-STJ, fls. 884-889, sem grifos no original):
+A questão cinge-se em saber se foi legal o procedimento adotado pelo juízo singular quando reconheceu de ofício a prescrição intercorrente e extinguiu o feito com fulcro no art. 487, II, do NCPC.
+De logo, tenho por relevante consignar que o Superior Tribunal de Justiça firmou entendimento no sentido de que as regras atuais tratando sobre prescrição intercorrente incidem apenas nas execuções ajuizadas após a entrada em vigor do CPC/2015 e, nos feitos em curso, a partir da suspensão da execução, com base no art. 921.
+Nesse sentido:
+ ..
+É de se registrar que a presente ação de execução foi ajuizada sob a vigência do CPC/73, sendo a questão da aplicação da prescrição intercorrente, nesses casos, submetida ao STJ, em sede de incidente de assunção de competência, resultando nas seguintes teses jurídicas que vinculam todos os Juízes e Tribunais:
+ ..
+Na hipótese, a execução de título extrajudicial foi manejada em 1996, sob a égide do CPC/73, devendo-se atentar para a regra de transição prevista no artigo 1.056 do CPC/15, que dispõe, in verbis: "Considerar-se-á como termo inicial do prazo da prescrição prevista no art. 924, V, inclusive para as execuções em curso, a data de vigência deste Código. "
+Assim, o novo CPC entrou em vigor no dia 18/03/2016, mas por ocasião do julgamento do REsp 1.604.412/SC, submetido ao rito do art. 947 do CPC/15 (Incidente de Assunção de Competência), firmou-se o entendimento de que o termo inicial do art. 1.056 do CPC/2015 tem incidência apenas nas hipóteses em que o processo se encontrava suspenso na data da entrada em vigor da novel lei processual, uma vez que não se pode extrair interpretação que viabilize o reinício ou a reabertura de prazo prescricional ocorridos na vigência do revogado CPC/1973.
+Destarte, na hipótese em exame o feito não estava suspenso em 18/03/2016, daí porque há de verificar se o prazo prescricional fluiu na íntegra sob a égide do Código de Processo Civil de 1973.
+É de se destacar que ao exequente recai o encargo de promover o andamento do processo, prestando ao Juízo as informações necessárias à realização das medidas executivas.
+O direito patrimonial do exequente deve ser harmonizado com a proteção de direitos mínimos, que visam preservar a dignidade do devedor, impondo-se que a segurança jurídica não seja relegada.
+Nesse contexto se insere o instituto da prescrição intercorrente, que se configura pelo decurso de determinado prazo, após a propositura da ação cabível, sem que o interessado promova os atos necessários à movimentação do processo.
+Na hipótese em análise, aplica-se o prazo prescricional previsto no art. 206, § 5º, I do Código Civil, segundo o qual prescreve em 5 (cinco) anos "a pretensão de cobrança de dívidas líquidas constantes de instrumento público ou particular".
+Referido dispositivo estabelece, em seus §§ 1º a 5º, os procedimentos necessários à configuração da prescrição intercorrente, refletindo o entendimento jurisprudencial majoritário que se formou na vigência do CPC/73.
+No caso dos autos, tem-se que a ação de execução foi ajuizada em 04/01/1996, verificando-se que após o decurso do prazo desde a desconstituição de penhora em 2014 e confirmada por Acórdão transitado em julgado em 12/05/2016.
+No decorrer de tal período e mesmo posteriormente não houve qualquer ato que pudesse suspender/interromper a prescrição, não tendo ocorrido nenhum ato efetivamente hábil à satisfação executiva. Com isso, teve início o curso do prazo da prescrição intercorrente.
+Assim, considerando que o prazo de prescrição da presente ação é de 05 anos, conforme mencionado acima, entendo, tal como decidido pela magistrada sentenciante, que houve mesmo o transcurso de referido prazo quinquenal da prescrição intercorrente, uma vez que, desde a desconstituição a penhora não houve ato efetivo de busca pelo adimplemento obrigacional.
+Mesmo que se considere que teria o banco exequente movimentado o processo na data de 07/12/2018, quando requereu pesquisa INFOJUD/BACENJUD, com valor ínfimo bloqueado e, após ter sido intimado sobre a possível ocorrência da prescrição intercorrente, atualizou o valor da dívida e pleiteou nova penhora infrutífera, ainda assim tem-se por inegável o lapso do prazo prescricional.
+Quanto ao pedido de nova avaliação do imóvel penhorado e designação de hasta pública (17/09/2020), vê-se o tal requerimento já foi realizado quando caracterizada a prescrição intercorrente.
+As diligências levadas a efeito com o intuito de satisfazer o pagamento da dívida, contudo, foram improdutivas e, conforme já decidiu o STJ, "os requerimentos para realização de diligências que se mostraram infrutíferas em localizar o devedor ou seus bens não têm o condão de suspender ou interromper a prescrição intercorrente" (AgRg no Ag1.372.530/RS, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe 19/05/2014).
+Transcorrido o prazo de 5 (cinco) anos (art. 206, § 5º,I do Código Civil), a pretensão executiva está fulminada pela prescrição, eis que transcorrido o lapso temporal superior a 5 (cinco) anos entre o termo inicial da prescrição intercorrente e a sentença.
+Sobre o tema, é o posicionamento do STJ, a exemplo das seguintes ementas:
+ ..
+Acresça-se, por oportuno, que, antes da prolação da sentença que reconheceu aludida prescrição intercorrente, foi determinada a intimação do exequente para se manifestar, oportunidade em que ele poderia opor algum fato impeditivo à incidência da prescrição, isto é, poderia se manifestar acerca de eventual existência de circunstâncias obstativas ao reconhecimento da prescrição intercorrente, assim não se havendo de falar em infração ao seu direito ao contraditório, direito esse exaltado no julgamento do já mencionado REsp1.604.412/SC.
+Vê-se, por conseguinte, a inércia do exequente por prazo superior ao da prescrição do direito material aplicação ao caso em análise do decidido pelo Colendo Superior Tribunal de Justiça no REsp nº 1.604.412/SC, adotado para fins de uniformização de jurisprudência.
+Dessarte, impositiva a manutenção do julgamento de improcedência da ação.
+Assim, constata-se que as questões postas em debate foram efetivamente decididas, não havendo falar em omissão, contradição, obscuridade ou ausência de fundamentação, mas sim em julgamento adverso ao pretendido pela parte recorrente.
+Portanto, não se cogita de negativa de prestação jurisdicional, tampouco de nulidade do aresto estadual.
+Ademais, a revisão das conclusões do Tribunal de origem - acerca da implementação da prescrição int ercorrente - demandaria necessariamente a incursão no acervo fático-probatório dos autos, o que não se admite no âmbito do recurso especial, dado o óbice da Súmula 7/STJ.
+Desse modo, tendo em vista que as alegações feitas no presente agravo interno não são capazes de modificar o convencimento manifestado no aresto recorrido, permanece inalterada a decisão agravada.
+Diante do exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
