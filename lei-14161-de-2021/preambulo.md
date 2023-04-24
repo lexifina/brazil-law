@@ -1,0 +1,2 @@
+Altera a Lei nº 13.999, de 18 de maio de 2020, para permitir o uso do Programa Nacional de Apoio às Microempresas e Empresas de Pequeno Porte (Pronampe), de forma permanente, como política oficial de crédito, de modo a conferir tratamento diferenciado e favorecido às microempresas e às pequenas empresas, com vistas a consolidar os pequenos negócios como agentes de sustentação, de transformação e de desenvolvimento da economia nacional.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
