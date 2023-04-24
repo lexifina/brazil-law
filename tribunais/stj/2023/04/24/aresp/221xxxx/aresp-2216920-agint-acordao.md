@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/04/2023 a 24/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por CELG DISTRIBUICAO S.A. - CELG D contra decisão monocrática por mim proferida, por meio da qual conheci do agravo para não conhecer do recurso especial em razão da incidência, no caso, do óbice da Súmula n. 7/STJ, em virtude de demandar análise de prova a apreciação da pretensão da ora agravante relativa à exigibilidade de débito de energia elétrica (fls. 319-321).
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS assim ementado (fl. 248):
+APELAÇÃO CÍVEL. AÇÃO ANULATÓRIA DE DÉBITO. ENERGIA ELÉTRICA. PROCEDIMENTO ADMINISTRATIVO. BURLA AOS PRINCÍPIOSDO CONTRADITÓRIO E DA AMPLA DEFESA.
+1 - O procedimento administrativo instaurado pela concessionária de energia elétrica, a fim de constatar a existência de fraude no medidor, deve submeter-se aos princípios do contraditório e da ampla defesa.
+2 - Inobservados os parâmetros estabelecidos pela resolução n. 414/2010 da ANEEL, face a ausência de entrega do Termo de Ocorrência e Inspeção e envio deste ao consumidor, nos lindes do artigo 129, §§ 2º e 3º da referida resolução, impõe o reconhecimento da nulidade do processo administrativo, porquanto, constituindo prova unilateral, afigurando-se impertinente a apuração e a cobrança realizada pela Concessionária de energia elétrica. Recurso conhecido e desprovido.
+Sem embargos de declaração.
+Alega a agravante que não incide no caso dos autos o óbice da Súmula n. 7/STJ, pois a pretensão não enseja reexame de fatos e provas, porquanto traz matéria de direito e incontroversa.
+Sustenta que "discute no recurso em questão é a inobservância do julgador à legislação vigente, que EXPRESSAMENTE trata da apuração de eventuais irregularidades na medição. 12. É fato que existem inúmeros processos discutindo a mesma matéria, o que torna necessária prolação de decisão para uniformizar a jurisprudência a esse respeito" (fl. 645).
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+A agravada, instada a manifestar-se, silenciou (fl. 358).
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AÇÃO ANULATÓRIA DE DÉBITO. ENERGIA ELÉTRICA. PROCEDIMENTO ADMINISTRATIVO. BURLA AOS PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA. PRETENSÃO DE REEXAME DE MATÉRIA FÁTICA. INCIDÊNCIA DA SÚMULA N. 7/STJ.
+No caso dos autos, a Corte de origem, ao entender pela inexigibilidade do débito de energia elétrica, considerando a irregularidade do respectivo procedimento de apuração, firmou o entendimento com base no conjunto probatório dos autos. Para rever o entendimento, seria necessária a incursão no contexto fático-probatório dos autos, o que é vedado em recurso especial, nos termos da Súmula n. 7 desta Corte: "a pretensão de simples reexame de prova não enseja Recurso Especial".
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de ação declaratória de inexistência de débito movida pela ora recorrida decorrente de irregularidade na medição de energia elétrica. O juiz de primeiro grau julgou procedentes os pedidos. Decisão confirmada pelo Tribunal a quo. Conforme relatado, em recurso especial, a recorrente defende, em síntese, a exigibilidade da cobrança, considerando a regularidade do procedimento de apuração e detecção da fraude.
+Não assise razão à agravante.
+Com efeito, consoante assentado na decisão agravada, inviável a apreciação das alegações da recorrente, ora agravante, considerando que a Corte de origem, ao entender pela inexigibilidade do débito em virtude d a irregularidade no procedimento de apuração, firmou o entendimento com base no conjunto probatório dos autos. Confira-se o seguinte excerto do referido acórdão (fl. 247):
+Do compulso do caderno processual, subsistem elementos para afastar a tese defendida no recurso apelatório, já que, pela documentação carreada, vislumbra-se que o procedimento administrativo adotado não fora precedido do necessário contraditório, circunstância que a recorrente não conseguiu comprovar, em contrariedade ao disposto no artigo 373 do Código de Processo Civil. Em verdade, não resta evidenciada a entrega do Termo de Ocorrência e Inspeção ao consumidor ou seu envio a este, restando descumprido o disposto no art. 129, §§ 2º e 3º da resolução n. 414/2010. Com efeito, registre-se que nas razões do apelo a recorrente não consegue demonstrar a idoneidade do procedimento, limitando-se a aduzir sua regularidade. Neste diapasão, verifica-se que o procedimento administrativo realmente se deu deforma unilateral, uma vez que não fora assegurado ao apelado o contraditório e a ampla defesa, circunstância que convalida o entendimento explicitado pelo julgador singular. Logo, revela-se ilegítima a cobrança realizada. Sobre o tema, da minha relatoria o excerto abaixo.
+Assim, rever tal entendimento, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, a eventualmente ensejar novo juízo acerca dos fatos e provas. Sendo assim, incide no caso a Súmula n. 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido, mutatis mutandis, cito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER E INDENIZATÓRIA. ENERGIA ELÉTRICA. COBRANÇA EXCESSIVA. AUSÊNCIA DE COMPROVAÇÃO DO DANO MORAL. INVERSÃO DO JULGADO. INVIABILIDADE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. AGRAVO INTERNO DOS PARTICULARES DESPROVIDO.
+1. O agravo interno não trouxe argumentos novos capazes de alterar o entendimento anteriormente firmado, limitando-se a reiterar as teses já veiculadas no especial.
+2. O entendimento firmado pela Corte de origem encontra-se amparado nos elementos fático-probatórios dos autos. Assim, a adoção de entendimento diverso quanto à existência do dano moral, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não de valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o seguimento do recurso especial. Sendo assim, incide a Súmula 7 do STJ, segundo a qual a pretensão de simples reexame de prova não enseja recurso especial.
+3. Agravo Interno dos particulares não provido.
+(AgInt no AREsp n. 1.919.779/RJ, relator Ministro Manoel Erhardt (Desembargador Convocado do Trf5), Primeira Turma, julgado em 22/11/2021, DJe de 24/11/2021.)
+Logo, não tend o os agravantes trazido elementos aptos a ensejar o entendimento proferido, a negativa de provimento ao presente agravo interno é medida que se impõe.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
