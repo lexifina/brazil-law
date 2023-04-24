@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de LUCIRIO ALVES PEREIRA em que se aponta como autoridade coatora o TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO (Apelação Criminal 0005893-38.2017.4.03.6181).
+Sobreveio petição em que os advogados subscritores sustentam: a) "foram contratados e constituídos pelo paciente para representá-lo judicialmente, sendo de total conhecimento da família" (e-STJ fl. 2010); b) "tomou-se conhecimento de que o habeas corpus impetrado pelos subscritores foi distribuído por dependência neste respeitável juízo, diante da existência da impetração de outra ordem de habeas corpus, tendo como impetrante a douta advogada Simone Mandinga Monteiro, OAB/SP nº. 202.991, tomando o número 815246/SP (2013/0118835-6)" (e-STJ fl. 2010); e c) "a referida impetrante não mais representa o paciente, pois desconstituída pelo paciente com conhecimento da família" (e-STJ fl. 2010).
+Requerem "seja afastada a impetração do habeas corpus proposto anteriormente por terceiro, devendo, assim, prevalecer a análise o habeas corpus que foi impetrado pelos subscritores, até mesmo por conta de eventual reconhecimento de litispendência" (e-STJ fl. 2011).
+É o relatório.
+Os advogados constituídos no presente habeas corpus requerem "o afastamento do HC 515.246/SP", impetrado em favor de LUCIRIO ALVES PEREIRA pela advogada Simone Mandinga Monteiro - OAB/SP 202.991. No entanto, não consta procuração que lhes outorgue poder para desistir daquela impetração. Também não há documento em que são revogados os poderes outorgados à mencionada advogada.
+Indefiro, portanto, o pedido.
+Publique-se. Intimem-se.
