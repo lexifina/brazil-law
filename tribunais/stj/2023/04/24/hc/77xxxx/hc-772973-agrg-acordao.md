@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/04/2023 a 24/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Sebastião Reis Júnior, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+RELATÓRIO
+MARCOS VIEIRA FRANCISCO agrava da decisão de fls. 114-116, denegatória do habeas corpus.
+O postulante reitera o pedido de detração penal em processo distinto. Assinala que "ao ser solto pelo crime de prisão provisória,  ..  não foi liberado do estabelecimento penal", pois havia o registro de execução penal no regime fechado (fl. 122). Explica que, se no futuro, for absolvido na nova ação criminal, o tempo de prisão preventiva "não seria computado", pois está inserido na "execução" (fl. 122).
+Pede a reforma do julgado e a concessão da ordem.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DETRAÇÃO PENAL ENTRE PROCESSOS DISTINTOS. REQUISITOS NÃO PREENCHIDOS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Conforme a jurisprudência desta Corte, admite-se a detração penal de prisão provisória em processo distinto, desde que: a) a condenação na qual se pretenda a aplicação do art. 42 do CP seja relacionada a crime praticado anteriormente ao período pleiteado e b) a segregação tenha sido indevidamente cumprida, a pressupor sentença de absolvição do réu ou de extinção da punibilidade pela prescrição da pretensão punitiva. O agravado não cumpre o último requisito.
+2. Agravo regimental não provido.
+VOTO
+Ab initio, ressalto ao postulante que prisões determinadas em ações diferentes não são cumpridas simultaneamente, mas sucessivamente. Assim, se, após a liberdade provisória, existia pena a cumprir no regime fechado, todo o tempo de cárcere, a partir daí, será computado no processo de execução correspondente, para fins de deferimento de benefícios do sistema progressivo. O que se discute nesta impetração é apenas a possibilidade de detração do período de prisão provisória em processo distinto, o que é aceito pela jurisprudência somente se preenchidos alguns requisitos.
+Dito isso, mantenho a decisão agravada.
+Infere-se dos autos que " o  PACIENTE cumpria sua pena nos autos do PEC SEEU nº 0022432-47.2013.8.24.0023, em regime semiaberto, quanto teve contra si decretada prisão temporária nos autos nº 5003136-02.2020.8.24.0057 que em seguida veio a ser convertida em preventiva" (fl. 6, grifei).
+Segundo a defesa, o postulante "foi solto na ação penal em 19.04.2022. No entanto, o D. Juízo da execução penal, desconsiderou o tempo de prisão cautelar (01 ano, 01 mês e 12 dias) aduzindo que tal período foi de "interrupção" do cumprimento da pena" (fl. 6, sublinhei). Salienta que "o v. acórdão impõe ao paciente gravame de não computar o período de prisão provisória" (fl. 7).
+Requer, assim, "seja determinado ao Juízo da Vara de Execuções Penais da Comarca de São José-SC nos autos do PEC nº 0022432- 47.2013.8.24.0023", o cômputo "dos períodos de 09.03.2021 à 19.04.2022, como tempo de pena cumprida, para fins de benefícios na execução penal" (fl. 10).
+Destacou o Tribunal estadual de origem que o tempo de prisão provisória posterior ao início da execução da pena, originada de fato diverso, só pode ser detraído após a formação de título executivo. Confira-se:
+ ..  o tempo de prisão cautelar lá cumprido ainda não pode ser computado na atual execução da pena. Sobrevindo condenação definitiva, as penas serão somadas e o referido lapso devidamente contabilizado, assim como, se o Agravante lá for absolvido ou tiver a punibilidade extinta, poderá ser considerado o período como detração" (fl. 77, grifei).
+O aresto está conforme a jurisprudência desta Corte. Aplica-se ao caso a compreensão de que, a detração penal em processos distintos "requer o preenchimento dos seguintes requisitos: absolvição ou declaração de extinção da punibilidade, e que a data do cometimento do crime de que trata a execução seja anterior ao período pleiteado, conforme firme entendimento jurisprudencial desta Corte Superior" (AgRg no REsp n. 1.687.762/DF, 5ª T., Rel. Ministro Joel Ilan Paciornik, DJe 14/3/2018).
+O acautelamento provisório, para ser aproveitado em execução diversa, precisa ser indevido, daí a necessidade da sentença de absolvição ou de extinção da punibilidade.
+Ilustrativamente: "a legislação penal permite a detração do tempo de prisão cautelar, cumprida em processo distinto, apenas nas hipóteses em que o agente tenha sido absolvido ou tenha sido declarada extinta a sua punibilidade e desde que a segregação provisória ocorra em data posterior ao delito ao qual o sentenciado cumpre pena (AgRg noHC n. 738445/SP, rel. Ministro Rogério Schietti, 6ª T., DJe 19/05/2022).
+Cito, ainda, julgado do Supremo Tribunal Federal:
+ ..  2. O artigo 42 do Código Penal determinava, em seu parágrafo único, o desconto do tempo de prisão provisória indevidamente cumprido, relativo à condenação por crime posterior, invalidada em decisão judicial recorrível. 3. A detração, nesse caso, resultaria em uma espécie de bônus em favor do réu, ou seja, em um crédito contra o Estado, e representaria a impunidade de posteriores infrações penais. 4. A supressão do parágrafo único do artigo 42, inaugurou exegese que admite a detração por prisão em outro processo (em que houve absolvição ou extinção da punibilidade), desde que a prática do delito em virtude do qual o condenado cumprirá pena tenha sido anterior.
+ ..
+(STF, HC 111081, Rel. Ministro LUIZ FUX, Primeira Turma, DJe 23/3/2012).
+À vis ta do exposto, nego provimento ao agravo regimental.
