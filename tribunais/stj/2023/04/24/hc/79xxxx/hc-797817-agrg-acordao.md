@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/04/2023 a 24/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+RELATÓRIO
+Trata-se de agravo regimental interposto por Eldimar Rodrigues Silveira contra a decisão do Vice-Presidente desta Casa, no exercício da Presidência, Ministro Og Fernandes, que indeferiu liminarmente o habeas corpus (fls. 194/195).
+Consta dos autos que ora agravante foi denunciado pela suposta prática do delito previsto no art. 33 da Lei 11.343/2006, por ter em depósito 2 porções de cocaína, pesando 94 g. Encerrada a instrução, sobreveio a sentença absolutória proferida pelo Juízo da 6ª Vara Criminal da comarca de Campo Grande/MS, da qual o Parquet recorreu pela condenação e, por unanimidade, teve sua pretensão acolhida por esta 2ª Câmara Criminal, condenando-o pelo crime de tráfico de drogas à pena em 6 anos, 1 mês e 10 dias de reclusão e 611 dias-multa.
+Em sede de revisão criminal (n. 1420082-28.2021.8.12.0000), o Tribunal de Justiça de Mato Grosso do Sul julgou improcedente o pedido (fls.187/190).
+Nas razões, reitera a tese de mérito deduzida na impetração, qual seja, a absolvição do ora agravante por insuficiência probatória restabelecendo a decisão de primeiro grau.
+Postula, assim, seja exercido o juízo de retratação ou o pleito submetido ao órgão colegiado.
+Intimado a se manifestar a respeito do agravo regimental, o Ministério Público de Mato Grosso do Sul deixou transcorrer in albis o prazo (fl. 1.119).
+Instado a se manifestar na condição de custos legis, o Ministério Público Federal opinou pelo não provimento do agravo regimental (fls. 1.121/1.127).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. WRIT IMPETRADO CONTRA ACÓRDÃO REVISIONAL. SUCEDÂNEO DE RECURSO ESPECIAL. PLEITO ABSOLUTÓRIO. INSUFICIÊNCIA PROBATÓRIA. ACÓRDÃO IMPUGNADO QUE CONCLUIU NO SENTIDO DE QUE O ELEMENTO DE PROVA COLACIONADO NÃO CONSUBSTANCIA PROVA NOVA (ART. 621, III, DO CPP). REEXAME. INADMISSIBILIDADE. PROVIDÊNCIA QUE NÃO SE AMOLDA AO RITO DO HABEAS CORPUS (COGNIÇÃO SUMÁRIA).
+Agravo regimental improvido.
+VOTO
+A insurgência não merece acolhida.
+Ora, em se tratando de condenação atingida pela preclusão máxima (trânsito em julgado), só há falar em possibilidade de rescisão da coisa julgada nas hipóteses taxativas previstas no art. 621 do CPP:
+Art. 621. A revisão dos processos findos será admitida:
+I - quando a sentença condenatória for contrária ao texto expresso da lei penal ou à evidência dos autos;
+II - quando a sentença condenatória se fundar em depoimentos, exames ou documentos comprovadamente falsos;
+III - quando, após a sentença, se descobrirem novas provas de inocência do condenado ou de circunstância que determine ou autorize diminuição especial da pena.
+Na hipótese, o acolhimento da pretensão absolutória por insuficiência probatória demandaria o implemento de uma das seguintes condições: a condenação é contrária à evidência dos autos ou ao texto expresso de lei (art. 621, I, do CPP); está calcada em elementos falsos (art. 621, II, do CPP); ou há prova nova de inocência do condenado (art. 621, III, do CPP).
+Ora, o Superior Tribunal de Justiça já pacificou o entendimento no sentido de que o acolhimento da pretensão revisional, na seara criminal, deve ser excepcional, cingindo-se às hipóteses em que a suposta contradição à evidência dos autos ou inocência pela prova nova seja patente, estreme de dúvidas, dispensando a interpretação ou análise subjetiva das provas constantes dos autos. A fundamentação baseada apenas na fragilidade das provas produzidas não autoriza o e. Tribunal a quo a proferir juízo absolutório, em sede de revisão criminal, pois esta situação não se identifica com o alcance do disposto no art. 621, incisos I e III, CPP (AgRg no AREsp n. 1.830.788/PI, relator Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Quinta Turma, DJe de 4/11/2021)
+E, no caso, a Corte de origem concluiu que os documentos trazidos pela Defesa não se mostram prova nova e, por conseguinte, não têm o condão de dirimir o édito condenatório (fls. 188/189 - grifo nosso):
+ ..
+In casu, extrai-se dos autos de origem que o autor foi denunciado pela suposta prática do delito previsto no art. 33 da Lei 11.343/06 por ter em depósito 02 (duas) porções de cocaína, pesando 94 g (noventa e quatro gramas).
+Ao término da instrução, sobreveio a sentença absolutória proferida pelo Juízo da 6ª Vara Criminal da comarca de Campo Grande/MS, da qual o Parquet recorreu pela condenação e, por unanimidade, teve sua pretensão acolhida por esta 2ª Câmara Criminal, condenando-o pelo crime de tráfico de drogas à pena em 06 (seis) anos, 01 (um) mês e 10 (dez) dias de reclusão e 611 (seiscentos e onze) dias-multa.
+Nesta oportunidade, sustenta o revisionante a existência de prova nova capaz de comprovar sua inocência, consistente na cópia do Contrato de Locação elencado às f. 41-42 e na Escritura Pública de f. 43, aduzindo que Valdeci Ribeiro Pereira a declara ter alugado o referido imóvel e o devolvido no final de dezembro de 2018.
+Contudo, em que pese a argumentação defensiva, como bem pontuado no parecer ministerial, o mencionado contrato carece de elementos característicos de tal documentação, a saber: a) reconhecimento de firma; b) assinatura e identificação da testemunhas, c) registro em cartório, ou mesmo até mesmo comprovantes da efetiva locação mediante comprovação de pagamentos.
+Ademais, não há como comprovar, pela declaração de f. 43, o que o requerente fazia no local dos fatos e quem administrava o estabelecimento comercial, tendo em vista que Valdeci Ribeiro Pereira não estava presente quando realizada a abordagem policial, ocasião em que o revisionante foi identificado como sendo o responsável pelo bar, tendo, inclusive, afirmado isso aos agentes (vide cópia do acórdão).
+Da mesma maneira, "não esclarece se o revisionante desenvolvia alguma atividade no "Bar do Palmeirense", mesmo porque possível a sublocação ou a contratação do mesmo para "gerenciar" o local, ou até mesmo a permissão do "suposto locador" para com o tráfico desenvolvido pelo condenado no local dos fatos, atividades costumeiramente comuns." (f. 62)
+O que se verifica é que a condenação foi baseada no comércio da droga realizado no local, ao passo que o ora revisionante fora responsabilizado pela traficância. Portanto, mostra-se prescindível à condenação o fato de haver ou não contrato de locação do estabelecimento em nome de terceiro, posto que, consoante as provas produzidas em juízo, durante a operação policial era o requerente quem estava se responsabilizando pelo local na posse do entorpecente apreendido.
+Assim, tenho que os documentos trazidos pela Defesa não se mostram prova nova e, por conseguinte, não têm o condão de dirimir o édito condenatório.
+Ex positis, com o parecer, julgo improcedente a presente ação revisional, mantendo-se incólume a condenação de Eldimar Rodrigues Silveira.
+ ..
+Logo, não se verifica qualquer ilegalidade no indeferimento do pleito revisional; ao contrário, a fundamentação adotada guarda absoluta harmonia com a orientação jurisprudencial consolidada nesta Corte, sendo certo que a reversão da convicção estabelecida pela Corte de origem, no sentido de que o elemento de prova colacionado na ação revisional não consubstancia prova nova apta a ensejar a rescisão da coisa julgada penal, não comporta reexame em sede de cognição sumária.
+Em face do exposto, nego provimento ao agravo regimental.
