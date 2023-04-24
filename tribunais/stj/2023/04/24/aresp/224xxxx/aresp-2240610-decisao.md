@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo (art. 1042 do CPC/15), interposto por BERTOLI PESQUISA E DESENVOLVIMENTO LTDA., contra decisão que não admitiu recurso especial (fls. 826/830, e-STJ).
+O apelo nobre, amparado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, desafia acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 667, e-STJ):
+APELAÇÃO. EMBARGOS DE TERCEIRO. FRAUDE À EXECUÇÃO. Alienação de bem imóvel. Presunção absoluta de má-fé do adquirente afastada diante da ausência de averbação da distribuição da execução na matrícula. Circunstância que não obsta o reconhecimento da fraude. Necessidade de demonstração da má-fé do terceiro adquirente pela credora (Súmula 375 do STJ e REsp. n. 956.943, apreciado sob a sistemática dos recursos repetitivos). Falta de certidão que não é suficiente para evidenciara má-fé. Declaração de eficácia do negócio jurídico celebrado pela embargante e determinação de cancelamento das averbações de ineficácia da referida compra e venda e da respectiva constrição junto à matrícula do bem. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS RECURSAIS. Distribuição segundo o resultado do julgamento. Sentença reformada. Recurso provido.
+Em suas razões de recurso especial, a recorrente, ora agravante, aponta, além de dissídio jurisprudencial, ofensa aos artigos 468 e 472 do CPC/73, 355 e 357 do CPC/15, 6º da LINDB. Sustenta, em síntese: i) violação à coisa julgada, pois o Tribunal de origem entendeu que que a parte recorrida não se submete aos efeitos da decisão proferida no autos do agravo de instrumento n. 2129515-35.2015.8.26.0000; ii) fraude à execução, ante a má-fé da parte recorrida.
+Após a apresentação das contrarrazões (fls. 783/793, e-STJ), o apelo não foi admitido na origem (fls. 826/830, e-STJ), dando ensejo ao agravo (fls. 833/872, e-STJ), visando destrancar o processamento daquela insurgência, no qual a recorrente refutou os óbices aplicados pela Corte estadual.
+Sem contraminuta.
+É o relatório.
+Decide-se.
+O inconformismo não merece prosperar.
+1. De início, verifica-se que a questão relativa a fraude à execução foi inadmitida em razão do Tema 243/STJ, que foi objeto de agravo interno no momento oportuno (fls. 1019/1026, e-STJ) julgado pela Corte de origem, ensejando a preclusão da matéria.
+2. Em relação à coisa julgada, a Corte local entendeu (fl. 670, e-STJ):
+Frise-se que a embargante não se submete aos efeitos da coisa julgada produzidos pela decisão proferida por esta Câmara, ao julgar o agravo de instrumento n. 2129515-35.2015.8.26.0000, de relatoria do e. Des. Mario de Oliveira, julgado em 9 de novembro de 2015, que reconheceu a fraude à execução (fs. 77/80), pois isso extrapolaria os limites subjetivos da ação paradigma. Como a apelante não integrou a lide originária, isso impede a ampliação da eficácia subjetiva da coisa julgada (art. 468 e 472, CPC/73), motivo pelo qual os embargos opostos pela apelante são a via adequada para a discussão dos requisitos da fraude à execução, pois culminou na declaração de ineficácia da compra do seu imóvel e na averbação do arresto junto à matrícula do bem (fs. 31/39), afastando, assim, os argumentos de contrarrazões (fs. 633,638, 647/648, 650 e 652).
+Com efeito, conforme entendimento desta Corte, a sentença não poderá prejudicar terceiro, em razão dos limites subjetivos da eficácia da coisa julgada.
+A propósito:
+RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO. ACIDENTE DE TRÂNSITO. REQUISITOS DE ADMISSIBILIDADE DO RECURSO ESPECIAL: REVALORAÇÃO DOS FATOS. CABIMENTO. NÃO INCIDÊNCIA DO ENUNCIADO N.º 7/STJ. RECURSO DEVIDAMENTE FUNDAMENTADO. NÃO INCIDÊNCIA DO ENUNCIADO N.º 284/STF. INEXISTÊNCIA DE FUNDAMENTO CONSTITUCIONAL AUTÔNOMO NECESSÁRIO PARA INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. MÉRITO: LIMITES OBJETIVOS E SUBJETIVOS DA COISA JULGADA. TERCEIRO ALHEIO AO PRÉVIO PROCESSO INDENIZATÓRIO. IMPOSSIBILIDADE DE INCIDÊNCIA DA COISA JULGADA FORMADA EM PROCESSO DE QUE NÃO FOI PARTE.
+ ..
+6. A coisa julgada "inter partes" é a regra em nosso sistema processual, inspirado nas garantias constitucionais da inafastabilidade da jurisdição, do devido processo legal, do contraditório e da ampla defesa.
+7. No sistema processual brasileiro, ninguém poderá ser atingido pelos efeitos de uma decisão jurisdicional transitada em julgado, sem que se lhe tenha sido garantida efetiva participação, mediante o devido processo legal, assegurado o contraditório e a ampla defesa.
+8. Nos termos da jurisprudência do Superior Tribunal de Justiça, a sentença não poderá prejudicar terceiro, em razão dos limites subjetivos da eficácia da coisa julgada. Precedentes específicos do STJ acerca da questão.
+9. RECURSO ESPECIAL CONHECIDO E PROVIDO.
+(REsp n. 1.766.261/RS, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 18/5/2021, DJe de 24/5/2021.)
+Aplicável a Súmula 83/STJ.
+3. Do exposto, com fundamento no art. 932 do NCPC c/c a súmula 568/STJ, conheço do agravo para conhecer em parte do recurso especial e negar-lhe provimento.
+Majoro os honorários advocatícios em 10% sobre o valor fixado na instância de origem, perfazendo o total de 16,5%, nos termos do art. 85, §11º, do CPC/15.
+Publique-se. Intimem-se.
