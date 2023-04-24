@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Jesuíno Rissato (Desembargador Convocado do TJDFT), Laurita Vaz, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por EDLEI GONCALVES MEDEIROS LOIOLA contra decisão de minha relatoria que conheceu do agravo em recurso especial para não conhecer do recurso especial.
+Consta dos autos que o agravante foi condenado à pena de 6 anos e 8 meses de reclusão, em regime inicial semiaberto, e multa, pela prática do delito previsto no art. 157, § 3º, II, c/c o art. 14, II, ambos do Código Penal.
+A defesa interpôs recurso de apelação perante a Corte de origem, a qual lhe negou provimento, em acórdão assim ementado (e-STJ fl. 771):
+EMENTA: APELAÇÃO CRIMINAL - LATROCÍNIO TENTADO  AUTORIA E MATERIALIDADE COMPROVADAS - ABSOLVIÇÃO - IMPOSSIBILIDADE - REDEFINIÇÃO JURÍDICA DO FATO CRIMINOSO DENUNCIADO PARA O CRIME DE ROUBO EXASPERADO - NÃO CABIMENTO. 01. Demonstradas a materialidade e a autoria do injusto, a condenação, á falta de causas excludentes de ilicitude ou de culpabilidade, é medida que se impõe. 02. Conforme jurisprudência do Superior Tribunal de Justiça, havendo dolo de roubar e dolo de matar para assegurar a subtração patrimonial, não ocorrendo o resultado morte por circunstâncias alheias â vontade do agente, configurado está o delito de latrocínio na forma tentada.
+Opôs, ainda, embargos de declaração, os quais foram rejeitados (e-STJ fls. 795/799).
+No recurso especial, apresentado com fulcro no art. 105, III, a, da Constituição Federal, alegou violação aos arts. 1º, 14, 157 e 157, § 3º, II, do CP, e 158 e 386, VII, do Código de Processo Penal.
+Apontou que, "para haver a tentativa, deve a conduta se enquadrar no disposto no tipo legal, de forma concreta, não sendo admitido em nenhum crime, mas especialmente nos crimes de resultado necessário, a extensão de atos de execução quando a consumação (que não se alcançou) estiver alocada no campo das probabilidades" (e-STJ fl. 805).
+Afirmou que não haveria se falar em tentativa de latrocínio, pois o bem jurídico da vida não foi atingido, não havendo demonstração de que o agente conseguiria por meio de sua conduta lesioná-lo ou suprimi-lo.
+Apontou que a conduta deveria ser desclassificada para participação de roubo na modalidade tentada.
+Sustentou que o acórdão se baseou no campo de probabilidades para entender pela existência de dolo eventual.
+O recurso especial foi inadmitido pela aplicação da Súmula n. 7/STJ.
+No agravo regimental, alegou que o recurso não pretende o reexame probatório, mas apenas valoração acertada da prova.
+O Ministério Público Federal manifestou-se pelo não conhecimento do agravo.
+O agravo foi conhecido para não conhecer do recurso especial (e-STJ fls. 900/905).
+Daí o presente agravo regimental, no qual alega a defesa que não haveria qualquer comprovação de que o agravante conseguiria lesionar a vítima.
+Afirma que a condenação baseou-se em probabilidade, admitindo um suposto dolo eventual.
+Requer, assim, o conhecimento do agravo para que o recurso especial seja provido.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. LATROCÍNIO TENTADO. ABSOLVIÇÃO. IMPOSSIBILIDADE. NECESSIDADE DE INCURSÃO EM ELEMENTOS DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA N. 7/STJ. RECURSO IMPROVIDO.
+1. A decisão monocrática deve ser mantida pelos seus próprios fundamentos.
+2. O Tribunal de origem manteve a condenação do agravante com fundamento nas provas dos autos, em especial o depoimento da vítima, que o reconheceu como quem efetuou o disparo de arma de fogo em sua direção, só não lhe atingindo por circunstâncias alheias à vontade. Além disso, foi localizado o projétil no caminhão alvo do roubo.
+3. Dessa forma, a alteração da conclusão das instâncias de origem esbarra na vedação prevista na Súmula n. 7/STJ.
+4. Agravo regimental improvido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+A decisão monocrática deve ser mantida pelos seus próprios fundamentos.
+Isso, porque, conforme consignado na decisão agravada, as instâncias de origem entenderam pela condenação pelo crime de latrocínio tentado com fundamento nas provas dos autos.
+Destaquei no decisum impugnado que a vítima reconheceu o agravante como quem efetuou o disparo de arma de fogo em sua direção, ainda que o disparo não a tenha atingido. Além disso, o projétil foi encontrado em seu caminhão, alvo do roubo.
+Confiram-se os termos do acórdão (e-STJ fls. 776/784):
+Nesse mesmo viés, não há dúvida quanto à autoria delitiva, não obstante a negativa do acusado, sempre que inquirido (fI. 09 e 116/117").
+Sob o crivo do contraditório, o ofendido Alexandre relatou como se deram os fatos de que foi vítima, tendo salientado haver reconhecido o réu, sem sombra de dúvida, como aquele quem efetuou o disparo de arma de fogo:
+"  ..  os autores do crime não conseguiram subtrair nenhuma mercadoria; As condições visuais eram favoráveis: o projétil da arma de fogo ficou alojada no teto do caminhão conduzido pelo depoente, após atravessar o para-brisa dianteiro, atingir o painel e ser arremessado para o teto; estilhaços do para-brisa atingiram o rosto do depoente mas não provocaram lesões; houve apenas um disparo de arma de fogo.  ..  os fatos narrados na denúncia são verdadeiros: o depoente foi vítima de uma tentativa de roubo a mão armada; o depoente estava na condução de um caminhão, seguindo para Belo Horizonte, quando outro caminhão de cor cinza emparelhou-se com o veiculo conduzido pelo depoente; neste outro caminhão havia o motorista e mais outros dois indivíduos; o depoente acredita que foi o acuado Edilei Goncalves Medeiros quem efetuou o disparo contra o depoente; Edilei estava de carona no caminhão cinza; além do caminhão cinza pelos assaltantes, havia uma caminhonete montana que ajudou no assalto; ao todo quatro pessoas participaram do assalto; o depoente não tem dúvida de que o autor do disparo da arma de fogo tentou acertá-lo; após o depoente ter se desvencilhado dos assaltantes, estes fugiram em direção a Belo Horizonte, andaram aproximadamente cinco quilómetros e retornaram em sentido contrário; os assaltantes foram em direção a Santa Maria de Itabira; o depoente acredita que o acusado Edlei que estava como carona no caminhão cinza, assumiu a direção da caminhonete montava e foi em direção a Santa Maria; o depoente não tem nenhuma dúvida da participação do acusado Edilei no crime; o depoente foi até a delegacia onde fez o reconhecimento do acusado Edlei; não tem dúvida de que foi o acusado EdIel quem efetuou o disparo da arma de fogo; o depoente tem conhecimento de que todos os integrantes da quadrilha já foram presos; que esta quadrilha já havia assaltado vários caminhões com o mesmo modus operandi. (..)" (fi. 2341235)
+Importante registrar que, nos delitos de roubo e de latrocínio, a palavra da vítima merece especial credibilidade, de sorte que estas mantêm contato visual e verbal com o autor ou autores do crime.
+ ..
+Não é só!
+Quando de sua oitiva em juízo, a testemunha Ailton afirmou "que a vítima não teve dúvida ao reconhecer o acusado Edile" ( fI.113).
+Do mesmo modo, na fase judicial, o policial militar Marcelo afirmou haver sido realizada a abordagem do réu em razão das características repassadas pela vítima. Asseverou, ainda, que foram encontrados objetos suspeitos no veículo tais como touca ninja, luvas e pé de cabra. Vejamos:
+"  ..  que o projétil foi encontrado junto ao teto do caminhão da vitima, sendo gue o disparo foi feito por um dos acusados de outro veículo: que a vitima aparentava estar bastante nervosa quando da chegada dos policiais no local; que o veiculo CM Montana foi encontrado na cidade de Santa Maria de Itabira, depois que a vitima passou aos policias as suas características; que o acusado Edilei foi encontrado no interior do veiculo ainda em movimento; que foi encontrado no seu interior objetos suspeitos, como luvas, toca ninja e pé de cabra; que Edilei se justificou dizendo que o carro tinha sido emprestado por sua noiva, sendo que a mesma confirmou que havia emprestado o carro para Ednei para ir a São Paulo, e não para ficar rodando com o mesmo em Santa Maria e região, sendo também que a mesma negou ser noiva de Edilei; que Edilei não deu nenhuma justificativa de estar rodando na cidade de Santa Maria;  ..  que quem recebeu o comunicado foi a central de comunicação e que repassou os fatos via Copom para o depoente, sendo que o primeiro contato com a vitima foi feita pelo depoente; que entre a comunicação pelo Copom e a prisão do acusado transcorreu mais ou menos uma hora; que somente foi encontrado pelo depoente o projétil disparado, sendo que o caminhão estava com sua carga na totalidade; que o disparo de arma de fogo para a vitima foi disparado no interior do caminhão VW; que salvo engano a vitima informou que havia três pessoas interior do caminhão; que quando a apreensão do acusado Edilei no interior do veiculo Montana, esta se encontrava sozinho;  ..  " (fI. 114)
+Outrossim, em juízo, as testemunhas arroladas pela defesa, quais sejam José Camilo (fI. 199), Letícia (fl. 201), Sandra (fl. 3301331), Elder (fI. 332) e Ricardo (fI. 363) não presenciaram os fatos narrados na denúncia, se limitando a afirmar não terem conhecimento de nada que desabonasse a conduta do réu.
+Nesse contexto, tenho que a autoria e a materialidade do delito encontram-se, cristalinamente, demonstradas na prova dos autos, razão pela qual rejeito o pleito absolutório formulado pela defesa.
+Quanto ao pleito defensivo de desclassificação da imputação de latrocínio tentado para de roubo majorado, mister tecer algumas considerações.
+Ora, sempre entendi que o animus do agente no roubo, independentemente de sua modalidade, simples, exasperado ou qualificado, é sempre o patrimônio da vítima, não a sua integridade física ou a sua vida e, não advindo qualquer desses resultados da conduta perpetrada pelo agente (morte ou lesão corporal grave), jamais poderíamos falar na ocorrência do roubo qualificado, senão nas outras modalidades desse injusto.
+Em verdade, o roubo é qualificado pelo resultado porque o agente extrapola - culposamente - as elementares do próprio tipo para obter o resultado pretendido, isto é, a subtração do patrimônio. É, por essa razão, classificado como preterdoloso.
+Todavia, o Superior Tribunal de Justiça, através de suas duas turmas com jurisdição criminal, consolidou o entendimento de que havendo dolo de roubar e o animus necandi para assegurar a subtração patrimonial, e, não ocorrendo o resultado morte por circunstâncias alheias à vontade do agente, configurado está o delito de latrocínio na forma tentada.
+ ..
+Logo, considerando ser o STJ a corte de justiça competente para interpretar, em única ou última instância, lei federal infraconstitucional, nos termos do que dispõe o art. 105 da CF188, passo a adotar a jurisprudência daquele Tribunal para reconhecer o latrocínio tentado quando evidenciado o dolo de matar do agente.
+Pois bem.
+Na hipótese, como bem reconheceu o sentenciante, a prova não deixa dúvidas que o recorrente Edlei efetuou disparo de arma de fogo em direção ao ofendido para efetuar a subtração do bem, assumindo o risco de produzir o resultado morte de Alexandre.
+Depreende-se isso da farta prova oral amealhada aos autos, notadamente a palavra da vítima Alexandre, alhures transcrita, informando que o disparo foi efetuado em sua direção.
+Ademais, o policial militar Ailton afirmou haver sido encontrado um projétil no caminhão da vítima.
+Por todo exposto, não há dúvida de que o disparo efetuado por Edlei contra a vítima Alexandre demonstra sua intenção de matar, porquanto, como bem destacou o sentenciante, realizada em direção ao ofendido.
+Nesse contexto, demonstrado não apenas o dolo de subtrair, mas tendo assumido o risco de produzir o resultado morte de Alexandre, o qual não ocorreu por circunstâncias alheias à vontade do agente, configurado esta o delito de latrocínio tentado, sendo, portanto, irrelevante a prova da gravidade da lesão, mas apenas o dolo de matar para a consecução do delito patrimonial.
+Feitas tais considerações, rejeito o pedido de desclassificação.
+Como bem reconhecido na sentença, o crime de latrocínio restou praticado na forma tentada, de sorte que o agente não obteve êxito na empreitada criminosa, por circunstâncias alheias à sua vontade. (Grifei.)
+Dessa maneira, não é possível, em sede de recurso especial, alterar a conclusão das instâncias de origem a fim de entender que "não haveria qualquer comprovação de que o agravante conseguiria lesionar a vítima", tendo em vista que o disparo de arma de fogo foi feito em direção ao ofendido, somente não lhe atingindo por circunstâncias alheias à vontade do réu. Aplicação da Súmula n. 7/STJ.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
