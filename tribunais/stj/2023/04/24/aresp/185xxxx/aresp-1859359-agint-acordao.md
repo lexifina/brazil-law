@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/04/2023 a 24/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por ESTADO DO RIO GRANDE DO SUL contra decisão monocrática proferida por mim, no exercício da Presidência do STJ, em que conheci do agravo para não conhecer do recurso especial em razão das Súmulas n. 284/STF e 211/STJ (fls. 300-303).
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado (fl. 231):
+SISTEMA FINANCEIRO DA HABITAÇÃO. FUNDO DE COMPENSAÇÃO DE VARIAÇÕES SALARIAIS. COBERTURA DO SALDO RESIDUAL DOS CONTRATOS DE FINANCIAMENTO HABITACIONAL. PRESCRIÇÃO CONFIGURADA. SENTENÇA MANTIDA, INCLUSIVE, QUANTO AO VALOR FIXADO PARA OS HONORÁRIOS ADVOCATÍCIOS. RESSALVA DE VOTOS POR FUNDAMENTAÇÃO DISTINTA. APELAÇÃO NÃO PROVIDA.
+Os embargos de declaração opostos foram providos em parte apenas para prequestionamento (fl. 249).
+Alega a agravante que deve ser afastada a aplicação da Súmula n. 284/STJ, pois, "a despeito de não ter ocorrido a indicação do inciso II do artigo 1022, expressamente, no recurso especial, houve a indicação do artigo 1.022 em razão de omissão, com a devida fundamentação quanto ao vício a ser sanado" (fl. 307).
+Aduz, ainda, que a matéria foi prequestionada, inclusive por meio do provimento parcial dos embargos de declaração.
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão o presente agravo à apreciação da Turma.
+Não foram apresentadas contrarrazões (fl. 318).
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FCVS. ART. 1.022 DO CPC. ALEGAÇÃO GENÉRICA. SÚMULA N. 284/STF. ART. 205 DO CC. AUSÊNCIA DE INTERESSE RECURSAL. TERMO INICIAL DO PRAZO DE PRESCRIÇÃO. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STJ.
+1. Não comporta conhecimento a alegação de violação do art. 1.022 do Código de Processo Civil, uma vez que deficiente sua fundamentação, visto que a parte recorrente limitou-se a alegar, genericamente, ofensa ao referido dispositivo legal, sem especificar, todavia, quais incisos foram contrariados, a despeito da indicação de omissão, contradição, obscuridade ou erro material. Incidência da Súmula n. 284/STF.
+2. Falta à agravante interesse recursal em relação à alegação de violação do art. 205 do CC, na medida em que o Tribunal de origem decidiu conforme o interesse da parte agravante e aplicou o prazo prescricional de 10 anos previsto no art. 205 do CC.
+3. O acórdão vergastado está de acordo com a jurisprudência do Superior Tribunal de Justiça segundo a qual o termo inicial do prazo prescricional é a data de encerramento do contrato. Precedentes.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+O agravo interno não deve ser provido, pois as razões da parte agravante não são capazes de refutar a decisão agravada.
+No recurso especial, a recorrente alega, preliminarmente, ofensa ao art. 1.022 do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz, no mérito, que o acórdão contrariou as disposições contidas no artigo 205 do Código Civil, sob o argumento de que o valor perseguido não seria líquido, de modo que deveria ter sido aplicada a prescrição de 10 anos prevista no art. 205, em vez da prescrição quinquenal prevista no art. 206, § 5º, I, do CC.
+Além disso, alega violação do art. 189 do CC, pois considerou como termo inicial da prescrição a data da liquidação do contrato, quando deveria ter considerado a data da negativa da Caixa Econômica Federal em prestar a cobertura do FCVS, momento em que violado o direito.
+De início, não comporta conhecimento a alegação de violação do art. 1.022 do Código de Processo Civil, uma vez que deficiente sua fundamentação, a atrair a incidência da Súmula n. 284/STF.
+A parte agravante limitou-se a alegar, genericamente, ofensa ao referido dispositivo legal, sem especificar, todavia, quais incisos foram contrariados, a despeito da indicação de omissão, contradição, obscuridade ou erro material, o que não se coaduna com a adequada demonstração objetiva de afronta ao artigo tido por violado.
+Nesse sentido, citam-se:
+V - Incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente aponta violação do art. 1.022 do Código de Processo Civil de 2015 (art. 535 do Código de Processo Civil de 1973), sem especificar, todavia, quais incisos foram contrariados, a despeito da indicação de omissão, contradição, obscuridade ou erro material. Nesse sentido: AgInt no AREsp n. 1.530.183/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 19/12/2019, AgInt no AREsp n. 1.559.920/SE, relator Ministro Francisco Falcão, Segunda Turma, DJe de 22/10/2020.
+ ..  (AgInt no AREsp n. 2.030.226/SC, relator Ministro Francisco Falcão, Segunda Turma, , DJe de 19/8/2022.)
+1. A alegação de violação do art. 1.022 do CPC/2015, sem a indicação do inciso ou parágrafo, resulta na incidência da Súmula 284/STF. (AgInt no AREsp n. 1.721.970/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 30/3/2022.)
+Quanto à afirmação de que o valor em questão seria ilíquido, devendo-se aplicar o art. 205 em detrimento do art. 206, § 5º, I, ambos do CC, verifica-se que o Tribunal de origem decidiu conforme o interesse da parte agravante e aplicou o prazo prescricional de 10 anos previsto no art. 205 do CC.
+Desse modo, falta à agravante interesse recursal em relação à alegação de violação do art. 205 do CC. Veja-se trecho do acórdão recorrido:
+Julgo ser inaplicável ao caso o prazo prescricional de cinco anos previsto no art. 206, §5º, I, do Código Civil de 2002, para a hipótese de "pretensão de cobrança de dívidas líquidas constantes de instrumento público ou particular". Isso porque está em questão dívida do FCVS perante o agente financeiro, dívida essa que, embora se relacione ao contrato de mútuo habitacional firmado entre o mutuário e a instituição financeira, não se origina diretamente dessa relação contratual, não consistindo em "dívida líquida constante de instrumento público ou particular".
+Aliás, é de se ressaltar que a Lei 10.950/2000 prevê um complexo sistema de apuração e habilitação da dívida do FCVS para com a instituição financeira por conta da cobertura do saldo residual do contrato, bem como de pagamento mediante títulos. Essas circunstâncias afastam se cogitar de simples "dívida líquida constante de contrato", diversamente da relação que se estabelece entre mutuário e a instituição financeira, essa sim regida pelo art. 206, § 5º, I, do Código Civil. (Fl. 215.)
+(..)
+No caso dos autos, a quitação do contrato, quando o prazo prescricional começou a fluir, ocorreu em 16/04/2007 (evento 1- PROCADM2 -p. 3 e 18 do processo originário), ou seja, já na vigência do Código Civil de 2002 (que entrou em vigor em 11-01-2003), de forma que incide a regra desse novo código.
+Assim, o prazo prescricional aplicável é o de dez anos, contados da quitação do contrato, encerrando-se em 16/04/2017.
+Não há qualquer causa suspensiva ou interruptiva da prescrição (CC, arts. 197 a 202) anterior ao ajuizamento da demanda.
+Concluindo, tendo a ação sido ajuizada em 11/09/2019, está configurada a prescrição. (Fl. 216.)
+Por fim, quanto à violação do art. 189 do CC, que diz respeito à data de início da contagem do prazo prescricional, verifica-se que o julgado recorrido está em conformidade com a jurisprudência do STJ, no sentido de que o termo inicial da prescrição para cobrança de cobertura pelo FCVS é a data da liquidação do contrato.
+Nesse sentido, cito :
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FCVS. OFENSA AO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA. COBERTURA DO SALDO RESIDUAL DOS CONTRATOS DE FINANCIAMENTO HABITACIONAL. TERMO INICIAL DO PRAZO DE PRESCRIÇÃO. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STJ. NECESSIDADE DE REVISÃO DE CLÁUSULA CONTRATUAL E DO CONTEXTO FÁTICO-PROBATÓRIO. SUMULAS 5 E 7 DO STJ.
+1. O art. 1.022 do Código de Processo Civil não foi ofendido, porque o Tribunal a quo julgou integralmente a lide e solucionou a controvérsia, manifestando-se quanto aos aspectos imprescindíveis à resolução do feito, especialmente o termo inicial do prazo de prescrição.
+2. O acórdão vergastado está de acordo com a jurisprudência do Superior Tribunal de Justiça segundo a qual o termo inicial do prazo prescricional é a data de encerramento do contrato. Na mesma linha:
+AgInt no AREsp 1.708.438/RS, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 15/3/2021.
+3. Ademais, verificar a liquidez ou não da dívida demanda a incursão no conjunto fático-probatório, especialmente o exame das cláusulas dos financiamentos, o que é inviável em Recurso Especial, nos termos das Súmulas 7 e 5 do STJ.
+4. Agravo Interno não provido.
+(AgInt no AREsp n. 1.946.182/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 13/12/2021, DJe de 17/12/2021.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO RECONSIDERADA. AÇÃO DE COBRANÇA. CONTRATO DE FINANCIAMENTE IMOBILIÁRIO. QUITAÇÃO PELO MUTUÁRIO. SALDO DEVEDOR RESIDUAL. PRAZO PRESCRICIONAL PARA O AGENTE FINANCEIRO PEDIR A COBERTURA SECURITÁRIA PELO FCVS. TERMO INICIAL. EXAURIMENTO DO CONTRATO. VIOLAÇÃO DO 1.022 DO CPC/2015. INEXISTÊNCIA.
+1. Não há violação do art. 1.022 do CPC/2015 quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado. Ao concluir que o início do prazo é o dia da "liquidação contratual e não a data da negativa de cobertura do contrato", o órgão julgador não estava obrigado à integração pedida nos embargos de declaração.
+2. Embora haja um procedimento interno para o agente financeiro pedir à Caixa Econômica Federal a cobertura do saldo residual do financiamento não alcançado pelo pagamento feito pelo mutuário, a pretensão do agente financeiro ao ressarcimento nasce a partir do dia em que o contrato de financiamento é exaurido, pois, a partir de então, o agente financeiro, ante a quitação do mútuo e sabedor dos exatos valores a serem ressarcidos (diferença), já pode acionar a cobertura do FCVS para satisfazer sua pretensão.
+3. "É pacífico o entendimento desta Corte de que deve incidir o prazo prescricional quinquenal previsto no art. 206, § 5º, I, do Código Civil de 2002, quando se trate de títulos executivos extrajudiciais, consubstanciados em espécie de instrumento particular ou público que veicula dívida líquida  ..  a verificação da circunstância de se tratar de dívida líquida ou não é atividade típica das instâncias ordinárias, cujo reexame, nesta Corte, encontra obstáculo no enunciado n. 7 da Súmula do STJ" (AgInt no AREsp 1708438/RS, Rel. Ministro Francisco Falcão, Segunda Turma, julgado em 01/03/2021, DJe 15/03/2021).
+4. No caso dos autos, considerado o fato de o próprio agente financeiro calcular o valor a ser ressarcido pelo FCVS com base no contrato firmado pelo mutuário (o mesmo indicado na petição de cobrança), bem como o que foi consignado pelo órgão julgador a quo, no sentido de que a dívida seria líquida, forçoso reconhecer não haver espaço, na via do recurso especial, à verificação de que, eventualmente, a dívida (consistente na diferença entre o valor pago pelo mutuário e valor total necessário à quitação) seria ilíquida, pois essa conclusão dependeria do reexame do acervo probatório.
+Observância das Súmulas 5 e 7 do STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 1.655.722/RS, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 19/10/2021, DJe de 21/10/2021.)
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
