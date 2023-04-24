@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/04/2023 a 24/04/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se  de  embargos  de  declaração  opostos  por  MARIA  DAS  NEVES  FIRMINO  DA  SILVA  ao  acórdão  assim  ementado:
+"AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  CIVIL.  INTEMPESTIVIDADE.  RECURSO  ESPECIAL.  EXPEDIENTE  FORENSE.  SUSPENSÃO.  COMPROVAÇÃO  POSTERIOR.  IMPOSSIBILIDADE.  ARTIGO  1.003,  §  6º,  DO  CÓDIGO  DE  PROCESSO  CIVIL  DE  2015.  NOVO  REGRAMENTO  PROCESSUAL  EXPRESSO.
+1.  Recurso  especial  interposto  contra  acórdão  publicado  na  vigência  do  Código  de  Processo  Civil  de  2015  (Enunciados  Administrativos  nºs  2  e  3/STJ).
+2.  É  intempestivo  o  recurso  especial  protocolizado  após  o  prazo  de  15  (quinze)  dias,  de  acordo  com  o  artigo  1.003,  §  5º,  c/c  artigo  219,  caput,  do  CPC/2015.
+3.  Eventual  documento  idôneo  apto  a  comprovar  a  ocorrência  de  feriado  local  ou  a  suspensão  do  expediente  forense  deve  ser  colacionado  aos  autos  no  momento  de  sua  interposição,  para  fins  de  aferição  da  tempestividade  do  recurso,  a  teor  do  que  dispõe  o  artigo  1.003,  §  6º,  do  CPC/2015.  Precedente  da  Corte  Especial.
+4.  A  interpretação  literal  da  norma  expressa  no  §  6º  do  artigo  1.003  do  CPC/2015,  de  caráter  especial,  sobrepõe-se  a  qualquer  interpretação  mais  ampla  que  se  possa  conferir  às  disposições  de  âmbito  geral  insertas  nos  artigos  932,  parágrafo  único,  e  1.029,  §  3º,  do  citado  diploma  legal.
+5.  Excluídos  os  feriados  nacionais  de  2/11  (Dia  de  Finados)  e  15/11  (Proclamação  da  República),  que  não  necessitam  de  sua  comprovação,  os  demais  feriados  apontados  pela  agravante  deveriam  ter  sido  comprovados  no  ato  da  interposição  do  recurso  por  se  tratarem  de  feriados  locais.
+6.  O  dia  do  servidor  público  (28  de  outubro),  a  segunda-feira  de  Carnaval,  a  quarta-feira  de  Cinzas,  os  dias  que  precedem  a  sexta-feira  da  Paixão  e  também  o  dia  de  Corpus  Christi  não  são  feriados  nacionais,  sendo  imprescindível  a  comprovação  de  suspensão  do  expediente  forense  na  origem.  Precedente.
+7.  A  jurisprudência  do  Superior  Tribunal  de  Justiça  firmou  entendimento  no  sentido  de  que  a  existência  de  feriado  local,  paralisação  ou  interrupção  de  expediente  forense  deve  ser  demonstrada  por  documento  oficial  ou  certidão  expedida  pelo  tribunal  de  origem,  que  comprove  o  período  no  qual  ocorreu  eventual  suspensão  de  prazos.
+8.  Agravo  interno  não  provido"  (fl.  859,  e-STJ).
+Em  suas  razões,  a  embargante  aponta  a  existência  de  omissões  no  acórdão  atacado  no  que  diz  respeito  à  tempestividade  do  recurso  especial.
+Argumenta  que  o  acórdão  deixou  de  enfrentar  todos  os  argumentos  deduzidos  no  processo  ,  os  quais  seriam  capazes  de  reformar  a  conclusão  adotada  pelo  julgador.
+Ressalta  que,
+"(..)
+Nas  razões  do  Agravo  Interno  (e-STJ  Fl.  637/640),  (..)  em  momento  algum  questionou  o  disposto  nos  artigos  1.003,  §§  5.º  e  6.º  do  CPC,  mas,  ao  contrário,  demonstrou  que  comprovou  a  ocorrência  de  feriados  locais,  anexando  ao  recurso  os  Provimentos  CSM  N.º  2.584/2020  e  PROVIMENTO  CSM  N.º  2.631/2021,  ambos  do  Conselho  Superior  de  Magistratura  do  TJSP.  de  Magistratura  do  TJSP.
+(..)
+Como  demonstrado,  com  a  devida  vênia,  a  agravante,  ora  embargante,  comprovou  a  ocorrência  de  feriados  locais  através  dos  referidos  Provimentos,  que,  repise-se,  com  consignou  no  Agravo  Interno  (e-STJ  Fl.  640),  por  razões  que  desconhece,  não  foram  digitalizados  pelo  TJSP:  consignou  no  Agravo  Interno  (e-STJ  Fl.  640),  por  razões  que  desconhece,  não  foram  digitalizados  pelo  TJSP"  (fls.  675-676,  e-STJ).
+Postula  o  acolhimento  dos  presentes  aclaratórios,  com  efeitos  infringentes,  para  sanar  as  omissões  apontadas  e,  em  consequência,  modificar  o  acórdão  desta  Turma.
+É  o  relatório.
+EMENTA
+  EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  ART.  1.022  DO  CPC.  TEMPESTIVIDADE.  RECURSO.  DIGITALIZAÇÃO.  ERRO.  COMPROVAÇÃO.  AUSÊNCIA.  PRECLUSÃO.  OMISSÃO,  CONTRADIÇÃO,  OBSCURIDADE  E  ERRO  MATERIAL  NÃO  VERIFICADOS.
+1.  Ausentes  quaisquer  dos  vícios  ensejadores  dos  aclaratórios,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  suprimir  a  omissão,  afastar  a  obscuridade,  eliminar  a  contradição  ou  corrigir  o  erro  material,  mas,  sim,  reformar  o  julgado  por  via  inadequada.
+2.  Eventual  documento  idôneo  apto  a  comprovar  a  ocorrência  de  feriado  local  ou  a  suspensão  do  expediente  forense  deve  ser  colacionado  aos  autos  no  momento  de  sua  interposição,  para  fins  de  aferição  da  tempestividade  do  recurso,  a  teor  do  que  dispõe  o  art.  1.003,  §  6º,  do  CPC.  Precedente  da  Corte  Especial.
+3.  A  nulidade  dos  atos  processuais  deve  ser  alegada  na  primeira  oportunidade  em  que  couber  à  parte  falar  nos  autos,  sob  pena  de  preclusão,  nos  termos  do  art.  278,  caput,  do  CPC.
+4.  Embargos  de  declaração  rejeitados.
+VOTO
+A  inconformidade  não  merece  prosperar.
+De  acordo  com  o  disposto  no  artigo  1.022  do  Código  de  Processo  Civil,  os  embargos  de  declaração  somente  são  cabíveis  para  (a)  esclarecer  obscuridade  ou  eliminar  contradição,  (b)  suprir  omissão  de  ponto  ou  questão  a  respeito  da  qual  deveria  se  pronunciar  o  juiz,  de  ofício  ou  a  requerimento,  incluindo-se  as  condutas  descritas  no  artigo  489,  §  1º,  do  CPC  que  configurariam  a  carência  de  fundamentação  válida  e  (c)  corrigir  o  erro  material.
+Em  detida  análise  dos  autos,  observa-se  que  o  acórdão  desta  Corte  Superior  consignou  que  a  falha  no  procedimento  de  digitalização  realizado  no  tribunal  de  origem  necessita  de  comprovaçã  o,  sob  pena  de  ser  mantido  o  óbice  ao  conhecimento  do  recurso.
+A  propósito:
+"EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  ALEGAÇÃO  DE  ERRO  MATERIAL.  ERRO  DE  DIGITALIZAÇÃO.  AUSÊNCIA  DE  COMPROVAÇÃO.  PRECLUSÃO.  EMBARGOS  DE  DECLARAÇÃO  REJEITADOS.
+1.  É  dever  do  recorrente  aferir  e  fiscalizar  a  correta  instrução  do  recurso  interposto,  sendo  insuficiente  a  alegação  de  erro  na  digitalização  não  acompanhado  de  certidão  comprobatória  do  tribunal  de  origem.
+2.  Em  observância  ao  disposto  no  art.  278  do  Código  de  Processo  Civil,  cabe  a  parte  alegar  nulidade  na  primeira  oportunidade  em  que  couber  falar  nos  autos,  sob  pena  de  preclusão.
+3.  Erro  material  é  aquele  apreensível  primo  ictu  oculi,  ou  seja,  verificável  pelo  mero  compulsar  do  julgado,  por  sua  leitura,  e  não  o  que  é  supostamente  referente  à  interpretação  equivocada  de  documento  estranho  ao  contexto  do  recurso  (EDcl  no  AgRg  no  REsp  1294920/PA,  Rel.  Ministro  MAURO  CAMPBELL  MARQUES,  SEGUNDA  TURMA,  julgado  em  01/04/2014,  DJe  07/04/2014).
+4.  Embargos  de  declaração  rejeitados"  (EDcl  no  AgInt  no  AREsp  1.299.920/SP,  Rel.  Ministro  LUIS  FELIPE  SALOMÃO,  QUARTA  TURMA,  julgado  em  13/12/2018,  DJe  19/12/2018  -  grifou-se).
+"AGRAVO  INTERNO  NO  AGRAVO  (ART.  544  DO  CPC/73)  -  AÇÃO  CAUTELAR  DE  SUSTAÇÃO  DE  PROTESTO  -  AUTOS  DE  AGRAVO  DE  INSTRUMENTO  NA  ORIGEM  -  DECISÃO  MONOCRÁTICA  DA  PRESIDÊNCIA  DESTA  CORTE  QUE  NEGOU  SEGUIMENTO  AO  PRÓPRIO  RECURSO  ESPECIAL,  ANTE  A  DESERÇÃO  -  GUIAS  DE  RECOLHIMENTO  ILEGÍVEIS.  INSURGÊNCIA  DA  PARTE  AUTORA.
+(..)
+3.  A  jurisprudência  do  Superior  Tribunal  de  Justiça  consolidou  entendimento  de  que  é  ônus  da  parte  aferir  e  fiscalizar  a  correta  instrução  do  recurso  interposto,  sendo  insuficiente  a  alegação  de  erro  na  digitalização  quando  desacompanhada  de  certidão  comprobatória  do  tribunal  de  origem.  Precedentes.
+(..)
+5.  Agravo  interno  desprovido"  (AgInt  no  AREsp  867.271/BA,  Rel.  Ministro  MARCO  BUZZI,  QUARTA  TURMA,  julgado  em  20/2/2018,  DJe  27/2/2018).
+Ademais,  como  consabido,  eventual  nulidade  decorrente  da  falha  na  digitalização  do  processo  deveria  ter  sido  arguida  na  primeira  oportunidade  em  que  os  patronos  da  embargante  tiveram  para  se  pronunciar  nos  autos,  consoante  disposto  no  art.  278  do  CPC,  sob  pena  de  preclusão,  o  que,  contudo,  também  não  se  verificou.
+Nesse  sentido:
+"RECURSO  ESPECIAL.  ART.  535  DO  CPC/1973.  VIOLAÇÃO.  NÃO  OCORRÊNCIA.  AUSÊNCIA  DE  PREQUESTIONAMENTO.  SÚMULA  Nº  211/STJ.  AGRAVO  DE  INSTRUMENTO.  INTEMPESTIVIDADE.  DECISÃO  INTERLOCUTÓRIA  ANTERIOR.  CITAÇÃO.  TEORIA  DA  CIÊNCIA  INEQUÍVOCA.  INTIMAÇÃO.  NULIDADE.  NÃO  OCORRÊNCIA.  PRECLUSÃO.  ART.  245  DO  CPC/1973  (ART.  278  DO  CPC/2015).
+1.  Recurso  especial  interposto  contra  acórdão  publicado  na  vigência  do  Código  de  Processo  Civil  de  1973  (Enunciados  Administrativos  nºs  2  e  3/STJ).
+2.  Não  há  falar  em  negativa  de  prestação  jurisdicional  se  o  tribunal  de  origem  motiva  adequadamente  sua  decisão,  solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entende  cabível  à  hipótese,  porém  em  sentido  diverso  ao  pretendido  pela  parte.
+3.  Ausente  o  prequestionamento,  até  mesmo  de  modo  implícito,  de  dispositivos  apontados  como  violados  no  recurso  especial,  incide  o  disposto  na  Súmula  nº  211/STJ.
+4.  Segundo  a  teoria  da  ciência  inequívoca,  em  observância  do  princípio  da  instrumentalidade  das  formas,  considera-se  comunicado  o  ato  processual,  independentemente  da  sua  publicação,  quando  a  parte  ou  seu  representante  tenha,  por  outro  meio,  tomado  conhecimento  do  processado  no  feito.
+5.  Na  espécie,  o  Tribunal  local  considerou  que  a  parte  teve  ciência  inequívoca  da  decisão  agravada,  porque  proferida  anteriormente  à  sua  citação  e  por  se  cuidar  de  autos  eletrônicos.
+6.  A  nulidade  dos  atos  processuais  deve  ser  alegada  na  primeira  oportunidade  em  que  couber  à  parte  falar  nos  autos,  sob  pena  de  preclusão,  nos  termos  do  art.  245,  caput,  do  Código  de  Processo  Civil  de  1973  (reproduzido  no  art.  278,  caput,  do  Código  de  Processo  Civil  de  2015).
+7.  Recurso  especial  parcialmente  conhecido  e,  nessa  parte,  não  provido"  (AgInt  no  REsp  1.656.403,  Rel.  Ministro  RICARDO  VILLAS  BÔAS  CUEVA,  TERCEIRA  TURMA,  julgado  em  26/2/2019,  DJe  6/3/2019).
+"AGRAVO  REGIMENTAL.  AGRAVO  EM  RECURSO  ESPECIAL.  SENTENÇA.  INTIMAÇÃO  EM  NOME  DE  UM  DOS  ADVOGADOS  HABILITADOS.  INEXISTÊNCIA  DE  PEDIDO  DE  PUBLICAÇÃO  EM  NOME  EXCLUSIVO.  INEXISTÊNCIA  DE  NULIDADE.  PRECLUSÃO.  PRECEDENTES  DA  CORTE.  APLICAÇÃO  DA  SÚMULA  83/STJ.
+1.  Não  há  que  se  falar  em  nulidade  de  intimação  da  sentença  em  nome  de  determinado  advogado  quando  não  consta  pedido  expresso  nesse  sentido  e  haja  outros  advogados  com  poderes  para  receberem  a  intimação.
+2.  A  nulidade  dos  atos  processuais  deve  ser  alegada  na  primeira  oportunidade  em  que  couber  à  parte  falar  nos  autos,  sob  pena  de  preclusão,  nos  termos  do  art.  245  do  Código  de  Processo  Civil.
+3.  Agravo  regimental  a  que  se  nega  provimento"  (AgRg  no  AREsp  487.268/DF,  Rel.  Ministra  MARIA  ISABEL  GALLOTTI,  QUARTA  TURMA,  julgado  em  4/8/2015,  DJe  12/8/2015  -  grifou-se).
+Assim,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  suprimir  a  omissão,  afastar  a  obscuridade,  eliminar  a  contradição  ou  corrigir  o  erro  material,  mas,  sim,  reformar  o  julgado  por  via  inadequada.
+Ressalta-se  que  a  motivação  contrária  ao  interesse  da  parte  ou  mesmo  omissa  em  relação  aos  pontos  considerados  irrelevantes  pelo  julgador  não  autoriza  o  acolhimento  dos  declaratórios.
+Ante  o  exposto,  rejeito  os  embargos  de  declaração.
+É  o  voto.
