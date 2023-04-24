@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de agravo apresentado por JOSE JOAO DO NASCIMENTO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PIAUÍ, assim resumido:
+EMBARGOS DE DECLARAÇÃO - APELAÇÃO CÍVEL - ANULAÇÃO DE SENTENÇA - HONORÁRIOS SUCUMBENCIAIS - INCABÍVEL A ESTIPULAÇÃO - AUSÊNCIA DOS VÍCIOS APONTADOS - EMBARGOS CONHECIDOS E NÃO PROVIDOS.
+1. Na hipótese de acórdão que apenas anula a sentença, é impertinente a fixação de honorários advocatícios.
+2. Inexistem, no acórdão embargado, as supostas falhas suscitadas. O recurso, como se conclui, busca revisitar, indevidamente, questões já decididas.
+3. Recurso conhecido e não provido (fl. 201).
+A parte recorrente, pela alínea "a" do permissivo constitucional, alega violação do art. 85, caput e § 1º, do CPC, no que concerne à necessidade de condenação da parte recorrida nos honorários sucumbenciais, em razão da formação do contraditório, do trabalho realizado pelo advogado da parte recorrente e por ter esse saído vencedor da demanda, trazendo os seguintes argumentos:
+No tocante ao mérito do presente recurso, cabe ressaltar mais uma vez que o pedido de condenação em honorários de sucumbência foi formulado pelo ora Recorrente na primeira oportunidade de que teve de se manifestar nos autos, o que se deu em sede de petição inicial, recurso de apelação e embargos de declaração quando se formalizou a relação processual e o contraditório, havendo, portanto, incontestavelmente, a necessidade do labor do advogado constituído nos autos pelo então Apelado, ora Recorrido, que não se sagrou vencedor na demanda.
+ ..
+Efetivamente, há um vencedor na ação e no recurso interposto, qual seja o então Apelante, ora Recorrente.
+Ademais, é pacífico o entendimento jurisprudencial dessa Egrégia Corte Superior no sentido de que são devidos os honorários sucumbeciais mesmo quando a integração da relação processual tenha se formado na fase recursal com apresentação de petição pela parte contrária, como é exatamente a hipótese do presente processo.
+ ..
+Por fim, não se pode deixar de registrar que, ao se determinar a citação do ora Recorrido para apresentar contrarrazões à apelação ou mesmo manifestar contra os embargos de declaração no acórdão, sendo formalizado o contraditório e prosseguindo o processo, houve a necessidade da atuação do advogado, que efetivamente desenvolveu e ainda desenvolve seu trabalho, com zelo e dedicação.
+Portanto, revela-se flagrante a negativa de vigência ao art. 85 e § 1º, do CPC, impondo-se, por conseguinte, o conhecimento e provimento do presente Recurso Especial para determinar a condenação ao pagamento de honorários de sucumbência pelo vencido, ora Recorrido, ao vencedor na demanda, ora Recorrente, porquanto aperfeiçoada a relação processual e apresentada a defesa da parte vencedora na instância recursal, com ordena o dispositivo legal apontado como violado (fls. 217/218).
+É, no essencial, o relatório. Decido.
+Na espécie, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "Quanto à segunda controvérsia, o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentido de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. " (AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/05/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
