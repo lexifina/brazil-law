@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/04/2023 a 24/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+JOSÉ VALMIR DE SOUZA FILHO (JOSÉ) ajuizou ação de obrigação de fazer contra AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S.A. (AMIL), pretendendo a condenação da requerida à obrigação de fornecimento da aparelhagem e dos cilindros de oxigênio necessários ao tratamento; e ao pagamento de R$ 10.000,00 (dez mil reais), a título de indenização por dano moral.
+Em primeira instância, os pedidos foram julgados improcedentes, com a condenação da AMIL ao pagamento das custas e despesas processuais, além de honorários advocatícios, estes fixados em 10% do valor da causa, observada sua gratuidade.
+A apelação interposta por JOSÉ foi provida pelo Tribunal de Justiça de São Paulo nos termos do acórdão assim ementado:
+Cobertura. Fornecimento de aparelho de ventilação mecânica (BIPAP). Autor portador de doença pulmonar obstrutiva crônica hipoxêmica e apneia obstrutiva do sono a comprometer a sua capacidade respiratória. Alegação de ausência de previsão no rol da ANS. Negativa abusiva. Expressa indicação médica. Dano moral configurado. Indenização devida. Recurso provido. (e-STJ, fl. 242)
+Os embargos de declaração opostos pela AMIL foram rejeitados (e-STJ, fls. 280/283).
+Nas razões do recurso especial, AMIL alegou violação dos arts. 1.022 do NCPC, 10 da Lei n.º 9.656/98, 186, 188, 927 e 944 do CC ao sustentar que (1) o Tribunal de Justiça não se pronunciou sobre a inexistência de cobertura contratual para o tratamento requerido pelo autor; (2) não tem o dever de cobertura de órteses não ligadas a ato cirúrgico, bem como fora do rol da ANS, indicada para o tratamento da enfermidade do autor; e (3) não ficou caracterizado dano moral.
+O apelo nobre foi admitido pelo TJSP e, no âmbito do STJ, improvido em decisão monocrática de minha lavra nestes termos sintetizada:
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. VIOLAÇÃO DO ART. 1.022 DO NCPC. OMISSÃO. NÃO VERIFICADA. TRATAMENTO. DEVER DE COBERTURA. INCIDÊNCIA DA SÚMULA Nº 568 DO STJ. DANOS MORAIS CARACTERIZADOS NAS INSTÂNCIAS ORDINÁRIAS. INVIABILIDADE DE REEXAME. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, IMPROVIDO. (e-STJ, fl. 309)
+Nas razões do agravo interno, AMIL alegou que (1) o TJSP não se pronunciou sobre a negativa de cobertura de órteses não ligadas a ato cirúrgico, bem como fora do rol da ANS, indicada para o tratamento da enfermidade do autor; (2) não tem o dever de cobertura de órteses não ligadas a ato cirúrgico, bem como fora do rol da ANS, indicada para o tratamento da enfermidade do autor; e (3) não ficou caracterizado dano moral; (4) o valor fixado a título de danos morais é excessivo.
+O agravo interno foi provido para reconsiderar a decisão agravada e, em nova análise, dar parcial provimento ao recurso especial em decisão monocrática de minha lavra nestes termos sintetizada:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO NCPC. NÃO VERIFICADA. PLANO DE SAÚDE. MATERIAL NÃO LIGADO A ATO CIRÚRGICO. DEVER DE CUSTEIO AFASTADO. INCIDÊNCIA DA SÚMULA Nº 568 DO STJ. DANOS MORAIS INDEVIDOS. AGRAVO INTERNO PROVIDO. DECISÃO RECONSIDERADA. RECURSO ESPECIAL CONHECIDO E PARCIALMENTE PROVIDO.
+No presente agravo interno, JOSÉ sustentou que a decisão agravada violou o art. 10 do NCPC porque afastou o dever de custeio do tratamento com base em fundamento a respeito do qual não se teria dado às partes oportunidade de se manifestar. Além disso, defendeu que a conclusão de que o equipamento requerido pelo autor está desvinculado da realização de ato cirúrgico somente seria possível mediante nova incursão nas provas dos autos, procedimento obstado pela Súmula n.º 7 do STJ.
+É o relatório.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS. PLANO DE SAÚDE. MATERIAL NÃO LIGADO A ATO CIRÚRGICO. DEVER DE CUSTEIO AFASTADO. CONSONÂNCIA COM O ENTENDIMENTO CONSOLIDADO NO STJ. VIOLAÇÃO DO ART. 10 DO NCPC. NÃO CONFIGURADA. REVOLVIMENTO DAS PROVAS DOS AUTOS. INEXISTÊNCIA. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A vedação à decisão surpresa não significa que o julgador deve consultar as partes antes da cada solução dada às controvérsias apresentadas, especialmente quando já lhes foi dada oportunidade para apresentar manifestação, tendo se estabelecido o contraditório.
+3. Não viola a vedação inscrita na Súmula n.º 7 do STJ o reenquadramento jurídico dos fatos para que seja garantida a vigência à legislação federal.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5 . Agravo interno não provido.
+VOTO
+De plano, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as conclusões externadas na decisão recorrida.
+No presente agravo interno, JOSÉ sustentou que a decisão agravada violou o art. 10 do NCPC porque afastou o dever de custeio do tratamento com base em fundamento a respeito do qual não se teria dado às partes oportunidade de se manifestar, qual seja, o fato de se tratar de equipamento não ligado a ato cirúrgico.
+É se destacar que, uma vez devolvida à apreciação do Juízo determinada matéria em âmbito de recurso, o julgador não está limitado aos argumentos deduzidos pelas partes, mas sim ao julgamento da questão à luz do Direito. Cuida-se de exercício da prerrogativa jurisdicional admitida nos brocados iura novit curia e da mihi factum, dabo tibi ius.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. INTIMAÇÃO. ESPECIFICAÇÃO DE PROVAS. HIPOSSUFICIÊNCIA TÉCNICA. CÓDIGO DE DEFESA DO CONSUMIDOR. APLICABILIDADE. SÚMULA Nº 7/STJ. CONTRATO. LOCAÇÃO. CHAMAMENTO AO PROCESSO. IMPOSSIBILIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. No caso concreto, rever as conclusões da Corte de origem, no sentido de que houve a regular intimação da recorrente para especificação de provas, esbarra na censura da Súmula nº 7/STJ.
+3. O tribunal local, com base no acervo fático-probatório dos autos, concluiu que a recorrente não se apresentava na relação contratual na condição de hipossuficiente técnica, afastando a aplicação do Código de Defesa do Consumidor. O acolhimento de tese diversa encontra óbice na Súmula nº 7/STJ.
+4. Na hipótese, rever o entendimento da Corte local, que concluiu que o contrato firmado entre as partes era de locação, não de comodato, demandaria interpretação das cláusulas do contrato, o que atrai a incidência da Súmula nº 5/STJ.
+5. A vedação à decisão surpresa não significa que o julgador deve consultar as partes antes da cada solução dada às controvérsias apresentadas, especialmente quando já lhes foi dada oportunidade para apresentar manifestação, tendo se estabelecido o contraditório. Precedente.
+6. O chamamento ao processo só é possível em se tratando de solidariedade legal. Precedentes.
+7. Agravo interno não provido.
+(AgInt no AREsp n. 1.914.541/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 6/9/2022, DJe de 14/9/2022 - sem destaque no original)
+Além disso, a AMIL fez constar expressamente, nas razões do seu recuso especial, a alegação de que não há cobertura para órteses não ligadas a ato cirúrgico, de modo que foi possibilitado a JOSÉ manifestar-se a respeito nas contrarrazões ao apelo nobre.
+De todos os ângulos, portanto, afasta-se a alegada violação do art. 10 do NCPC.
+Não merece prosperar também a tese de que a conclusão no sentido de que o equipamento requerido pelo autor está desvinculado da realização de ato cirúrgico somente seria possível mediante nova incursão nas provas dos autos, procedimento obstado pela Súmula n.º 7 do STJ.
+Isso porque a própria descrição do aparelho solicitado por JOSÉ é suficiente para concluir que se trata de aparelho cujo uso prescinde de procedimento cirúrgico, afirmação esta que consta expressamente dos atos decisórios proferidos nos autos e que delimitam as circunstâncias fáticas do caso.
+Afasta-se, portanto, a aplicação da Súmula n.º 7 do STJ quanto a esse particular.
+Assim, deve ser mantida a decisão agravada que excluiu a condenação da operadora do plano de saúde ao custeio do aparelho "BIPAP" com máscara acoplada ao oxigênio e, por conseguinte, afastou a condenação ao pagamento de indenização por danos morais.
+Mantém-se a decisão proferida, por não haver motivos para sua alteração.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
