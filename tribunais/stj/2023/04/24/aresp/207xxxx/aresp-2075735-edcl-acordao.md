@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/04/2023 a 24/04/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Humberto Martins, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Conheceu-se do agravo para não conhecer do recurso especial interposto por Neo-Plastic Embalagens Plásticas Ltda., com fundamento no art. 105, III, a, da CF/1988.
+O recurso especial visa reformar acórdão do Tribunal de Justiça do Estado de São Paulo, nos termos assim ementados:
+EXECUÇÃO FISCAL. Débitos de ICMS. Ajuizamento de ação anulatória anterior, com afastamento de parte dos juros e da multa incidentes sobre o montante. Decisão que rejeita exceção de pré-executividade onde se alegou que o crédito estava com sua exigibilidade suspensa. Caso concreto onde o principal e boa parte dos juros e da multa nunca foi inexigível. Possibilidade de prosseguimento da execução, vez que os excessos existentes podem ser decotados por mero cálculo aritmético. Jurisprudência pacificada do C. STJ. Decisão mantida. Recurso conhecido e não provido.
+Na origem, trata-se de agravo de instrumento interposto por Neo-Plastic Embalagens Plásticas Ltda. contra a decisão que, nos autos da exceção de pré-executividade à execução fiscal ajuizada pelo Estado de São Paulo, objetivando afastar a exigibilidade do valor cobrado, em razão da sua suspensão há mais de 3 meses por decisão judicial proferida nos autos do agravo de instrumento, rejeitou o pedido.
+No Tribunal a quo, a decisão foi mantida. Esta Corte conheceu do agravo para não conhecer do recurso especial.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial."
+Interposto agravo interno, foi julgado pela Segunda Turma, conforme a seguinte ementa do acórdão:
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. DÉBITOS DE ICMS. AJUIZAMENTO DE AÇÃO ANULATÓRIA ANTERIOR, COM AFASTAMENTO DE PARTE DOS JUROS E DA MULTA INCIDENTES SOBRE O MONTANTE. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO VERIFICADA. HONORÁRIOS DE SUCUMBÊNCIA. REVISÃO. REEXAME DE FATOS E PROVAS. SÚMULA N. 7/STJ. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, o contribuinte apresentou exceção de pré- executividade alegando que o montante cobrado em execução fiscal estava com sua exigibilidade suspensa há mais de 3 meses por decisão judicial proferida nos autos do agravo de instrumento. Após decisão que rejeitou a exceção de pré-executividade, foi interposto agravo de instrumento o qual foi improvido pelo Tribunal a quo.
+II - No tocante à suposta violação dos arts. 189 e 1.022 do CPC/2015, não assiste razão à parte recorrente. A análise do acórdão recorrido, em conjunto com a sua decisão integrativa, revela que o Tribunal de origem adotou fundamentação necessária e suficiente à solução integral da controvérsia que lhe foi devolvida. Conclui-se, portanto, que o acórdão recorrido não padeceu de nenhum vício capaz de ensejar a oposição de embargos de declaração.
+III - Sendo assim, a oposição dos embargos declaratórios teve a sua finalidade desvirtuada, porquanto caracterizou, apenas, a irresignação da parte embargante, ora recorrente, em relação à prestação jurisdicional contrária aos seus interesses.
+IV - Conforme pacífica jurisprudência do Superior Tribunal de Justiça, não ocorre a violação dos arts. 489 e 1.022, todos do CPC/2015, quando as questões discutidas nos autos são analisadas, mesmo que implicitamente, ou ainda afastadas de maneira embasada pela Corte Julgadora originária, posto que a mera insatisfação da parte com o conteúdo da decisão exarada não denota deficiência na fundamentação decisória, nem autoriza a oposição de embargos declaratórios.
+V - Ainda de acordo com o entendimento consolidado desta Corte Superior, a violação supramencionada tampouco ocorre quando, suficientemente fundamentado o acórdão impugnado, o Tribunal de origem deixa de enfrentar e rebater, individualmente, cada um dos argumentos apresentados pelas partes, uma vez que não está obrigado a proceder dessa forma. Nesse sentido: REsp n. 1.760.161/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 11/9/2018, DJe 21/11/2018 e AgInt no AREsp n. 1.457.923/SC, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 19/8/2019, DJe 22/8/2019.
+VI - Quanto à fixação de honorários de sucumbência de forma proporcional, consoante a jurisprudência do STJ, "a aferição do percentual em que cada litigante foi vencedor ou vencido ou a conclusão pela existência de sucumbência mínima ou recíproca das partes é questão que não comporta exame em recurso especial, por envolver aspectos fáticos e probatórios, aplicando-se à hipótese a Súmula 7/STJ" (AgInt no AREsp 866.420/MS, relator Ministro Marco Buzzi, Quarta Turma, DJe 3/3/2020.)
+VII - Agravo interno improvido.
+Opostos novos embargos de declaração, aponta a parte embargante vícios no acórdão embargado, resumidos nos seguintes termos:
+..uma vez que todos os fatos e provas incontroversos, necessários a correta análise dessa questão foram devidamente delimitados pelo acórdão recorrido, ainda que com o valor jurídico desacertado, não há que se falar em óbice da Súmula 7/STJ.
+Por fim, além de ter se omitido quanto à inaplicabilidade da Súmula 7/STJ, o acórdão recorrido incorreu em omissão no tocante aos precedentes dessa E. Corte Superior, inclusive, firmados em sede de recurso repetitivo, invocados pela Embargante em seu agravo interno, os quais, conforme linhas acima, demonstram o pacífico entendimento.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. EXECUÇÃO FISCAL. DÉBITOS DE ICMS. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. DÉBITO. EXIGIBILIDADE SUSPENSA. IMPROCEDÊNCIA DO PEDIDO. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO VERIFICADA. HONORÁRIOS DE SUCUMBÊNCIA. REVISÃO. REEXAME DE FATOS E PROVAS. SÚMULA N. 7/STJ. INEXISTÊNCIA DE VÍCIOS NO ACÓRDÃO EMBARGADO.
+I - Na origem, trata-se de agravo de instrumento interposto por Neo-Plastic Embalagens Plásticas Ltda. contra a decisão que, nos autos da exceção de pré-executividade à execução fiscal ajuizada pelo Estado de São Paulo, objetivando afastar a exigibilidade do valor cobrado, em razão da sua suspensão há mais de 3 meses por decisão judicial proferida nos autos do agravo de instrumento, rejeitou o pedido.
+II - No Tribunal a quo, a decisão foi mantida. Esta Corte conheceu do agravo para não conhecer do recurso especial.
+III - Opostos embargos de declaração, aponta a parte embargante vícios no acórdão embargado.
+IV - Os aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso.
+V - Os vícios apontados pela parte embargante, relacionados aos honorários advocatícios foram analisados pelo acórdão recorrido, o que afasta a alegação de omissão.
+VI - Embargos de declaração rejeitados.
+VOTO
+Os embargos não merecem acolhimento.
+Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade; eliminar contradição; suprir omissão de ponto ou questão sobre as quais o juiz devia pronunciar-se de ofício ou a requerimento; e/ou corrigir erro material.
+Conforme entendimento pacífico desta Corte:
+O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida.
+(EDcl no MS n. 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.)
+A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do CPC/2015, razão pela qual inviável o seu exame em embargos de declaração. Nesse sentido:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. EMBARGOS DE DECLARAÇÃO. FINALIDADE DE PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. OMISSÃO. NÃO OCORRÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. ART. 1.022 DO NOVO CPC.
+1. A ocorrência de um dos vícios previstos no art. 1.022 do CPC é requisito de admissibilidade dos embargos de declaração, razão pela qual a pretensão de mero prequestionamento de dispositivos constitucionais para a viabilização de eventual recurso extraordinário não possibilita a sua oposição. Precedentes da Corte Especial.
+2. A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do novo CPC, razão pela qual inviável o seu exame em sede de embargos de declaração.
+3. Embargos de declaração rejeitados.
+(EDcl nos EAREsp n. 166.402/PE, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 15/3/2017, DJe 29/3/2017.)
+EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. CONTRADIÇÃO. NÃO OCORRÊNCIA. OMISSÕES. INEXISTÊNCIA. CARÁTER PROCRASTINATÓRIO RECONHECIDO. APLICAÇÃO DE MULTA.
+1. A contradição capaz de ensejar o cabimento dos embargos declaratórios é aquela que se revela quando o julgado contém proposições inconciliáveis internamente.
+2. Sendo os embargos de declaração recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição ou omissão -, não podem ser acolhidos quando a parte embargante pretende, essencialmente, a obtenção de efeitos infringentes.
+3. Evidenciado o caráter manifestamente protelatório dos embargos de declaração, cabe a aplicação da multa prevista no parágrafo único do art. 538 do CPC/1973.
+4. Embargos de declaração rejeitados com aplicação de multa.
+(EDcl na Rcl n. 8.826/RJ, relator Ministro João Otávio de Noronha, Corte Especial, julgado em 15/2/2017, DJe 15/3/2017.)
+Os vícios apontados pela parte embargante, relacionados aos honorários advocatícios foram analisados pelo acórdão recorrido, o que afasta a alegação de omissão, nos nestes termos assim expostos:
+Quanto à fixação de honorários de sucumbência de forma proporcional, consoante a jurisprudência do STJ, "a aferição do percentual em que cada litigante foi vencedor ou vencido ou a conclusão pela existência de sucumbência mínima ou recíproca das partes é questão que não comporta exame em recurso especial, por envolver aspectos fáticos e probatórios, aplicando-se à hipótese a Súmula 7/STJ" (AgInt no AREsp 866.420/MS, relator Ministro Marco Buzzi, Quarta Turma, DJe 3/3/2020.)
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
