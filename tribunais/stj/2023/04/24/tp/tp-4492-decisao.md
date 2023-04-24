@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de pedido de tutela provisória apresentado por A. K. F. ROMERO TRANSPORTES LTDA, COMÉRCIO DE COMBUSTÍVEL IPANEMA LTDA-EPP, N. M. FELITO E CIA LTDA, COMÉRCIO DE COMBUSTÍVEIS JACIARA LTDA EPP, IPANEMA DIESEL LTDA., ANTONIO CARLOS FELITO -ME e MARIA RUBIA FELITO - ME, todas em recuperação judicial (RECUPERANDAS) objetivando a concessão de efeito suspensivo ao recurso especial admitido pelo juízo prévio de admissibilidade.
+Para tanto, esclarecem que, deferido o pedido de recuperação se encontravam em recuperação judicia, com plano aprovado pela Assembleia Geral de Credores, houve sua homologação, dispensada a apresentação de certidões negativas fiscais.
+Noticiam que, interposto agravo de instrumento pela UNIÃO FEDERAL, foi provido, para condicionar o deferimento da recuperação judicial à apresentação das certidões negativas de débitos fiscais (CNDs).
+Informam que contra esse julgado manejou recurso especial, admitido pelo juízo prévio de admissibilidade, por violação dos arts. 57 da Lei nº 11.101/2005 e 191-A do CTN, sob o argumento que a obrigatoriedade das CNDs pode inviabilizar o instituto da recuperação judicial.
+Ao final, requerem a concessão de efeito suspensivo ao apelo nobre, para que seja mantida a recuperação judicial, sem a apresentação das CNDs.
+É o relatório.
+A concessão de tutela antecipada se condiciona à existência dos requisitos do periculum in mora e do fumus boni iuris.
+Na espécie, depreende-se que foi deferido o pedido de recuperação judicial das RECUPERANDAS e aprovado o plano pela Assembleia Geral de Credores.
+O acórdão recorrido, por sua vez, condicionou a concessão da recuperação judicial a apresentação de Certidões Negativas de Débitos Fiscais.
+Todavia, a jurisprudencial do Superior Tribunal de Justiça já se pronunciou no sentido que a falta de certidão negativa tributária não impediria o deferimento da recuperação judicial, ante sua incompatibilidade com o princípio da preservação da empresa (AgInt no REsp n. 1.989.920/PR, rel. Min. PAULO DE TARSO SANSEVERINO, Terceira Turma, DJe de 16/3/2023 e AgInt no AREsp n. 1.570.936/SP, rel. Min. RAUL ARAÚJO, Quarta Turma, DJe de 30/3/2023).
+Do cotejo entre o fundamento adotado pelo acórdão recorrido e o entendimento do STJ, em uma análise perfunctória, própria das liminares, vislumbro a presença do fumus boni iuris.
+As consequências jurídicas da exigência das CNDs para concessão da recuperação judicial pode inviabilizar o procedimento, em afronta aos princípios da preservação e da função social da empresa, razão pela qual se encontra presente o periculum in mora.
+Nessas condições, presentes o fumus boni iuris e o periculum in mora, DEFIRO O PEDIDO para atribuir efeito suspensivo ao recurso especial interposto pelas RECUPERANDAS contra o acórdão proferido no Agravo de Instrumento nº 1016700-56.2020.8.11.0000, que tramitou perante a Quarta Câmara de Direito Privado do Tribunal de Justiça do Estado de Mato Grosso.
+Comunique-se, com urgência, o Desembargador GUIOMAR TEODORO BORGES, relator do Agravo de Instrumento nº 1016700-56.2020.8.11.0000, que tramitou perante a Quarta Câmara de Direito Privado do Tribunal de Justiça do Estado de Mato Grosso, e o Juízo da 2ª Vara Cível da Comarca de Campo Verde/MT, Recuperação Judicial nº 0003455-41.2017.811.0051.
+Publique-se. Intimem-se.
