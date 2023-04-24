@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/04/2023 a 24/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por GUSTAVO ZANETTI ANUNCIO contra decisão monocrática por mim proferida, por meio da qual conheci do agravo para não conhecer do recurso especial (fls. 248-251).
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDER AL DA 3ª REGIÃO assim ementado (fls. 131-132):
+PREVIDENCIÁRIO. CERCEAMENTO DE DEFESA. PRELIMINAR AFASTADA. AUXÍLIO-ACIDENTE. AUSÊNCIA DE REDUÇÃO DA CAPACIDADE LABORAL. REQUISITOS NÃO PREENCHIDOS.
+- A mera irresignação da parte autora com a conclusão do perito ou a alegação de que o laudo é contraditório, sem o apontamento de nenhuma divergência técnica justificável, não constituem motivos aceitáveis para realização de nova perícia. Preliminar afastada.- O auxílio-acidente, de cunho compensatório, é devido somente quando comprovada a existência de sequela resultante de acidente de qualquer natureza e esta tenha provocado redução da capacidade laborativa do segurado, dificultando-lhe a realização do trabalho, nos termos do art. 86 da Lei n. 8.213/1991.
+- A ausência de redução da capacidade laboral do segurado para o exercício de atividades laborais habituais, atestada por meio de perícia médica judicial, afasta a possibilidade de concessão de auxílio-acidente.
+- Mantida a condenação da parte autora ao pagamento de custas processuais e honorários de advogado, arbitrados em 12% (doze por cento) sobre o valor atualizado da causa, já majorados em razão da fase recursal, conforme critérios do artigo 85, §§ 1ºe 11, do Código de Processo Civil, suspensa, porém, a exigibilidade, na forma do artigo 98, § 3º, do mesmo diploma processual, por tratar-se de beneficiária da justiça gratuita.
+- Preliminar afastada
+. Apelação não provida.
+Rejeitados os embargos de declaração opostos (fls. 163-174).
+Alega o agravante, em síntese, que é inaplicável a Súmula n. 7/STJ, porquanto a matéria tratada versa apenas sobre questão de direito, não demandando reexame de matéria fático-probatória, quando o que se está postulando é a correta valoração das provas constantes nos autos, com embasamento em jurisprudência consolidada do STJ.
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+O agravado, instado a manifestar-se, silenciou (fl. 313).
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AUXÍLIO-ACIDENTE. NÃO CONFIGURAÇÃO DA REDUÇÃO DA CAPACIDADE LABORAL. PRETENSÃO DE REEXAME DE PROVAS. SÚMULA N. 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE PREJUDICADA.
+1. Cuida-se na origem de ação previdenciária em que se postulou auxílio-acidente ao fundamento de que o autor padecia de sequelas que lhe retiraram a capacidade laboral.
+2. Não comporta conhecimento o recurso especial, considerando que a Corte de origem - com base no conjunto fático probatório dos autos - entendeu que não ficou configurada a redução da capacidade para o trabalho. Incidência da Súmula n. 7 do STJ.
+3. A necessidade de reexame de matéria fática torna prejudicado o exame da divergência jurisprudencial, considerando a inevitável ausência de similitude fática entre acórdãos, quando o julgado recorrido é embasado em fatos, e não em interpretação da lei.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de ação previdenciária, em que postulou o ora recorrente auxílio-acidente, ao fundamento de que padece de sequelas que lhe retiraram a capacidade laboral, demonstrada por perícia médica judicial, que pode ser decorrente de acidente de qualquer natureza e não especificamente de um acidente típico de trabalho, para que faça jus ao referido benefício. Reitera o agravante as alegações já rejeitadas pelas instâncias ordinárias.
+Não merece prosperar o recurso.
+De início, conforme assentado na decisão agravada, consigne-se inviável a apreciação das alegações do recorrente, considerando que a Corte de origem, ao entender que o recorrente, ora agravante, não faz jus à concessão de auxílio-acidente, porquanto não configurada a redução da capacidade para o trabalho, firmou o entendimento com base no conjunto probatório dos autos. Confira-se o seguinte excerto do referido acórdão (fls. 292-293):
+No caso dos autos, a perícia médica judicial, realizada em 19/2/2020, constatou a ausência de redução da capacidade laboral do autor (nascido em 1993, qualificado no laudo como auxiliar de escritório), em razão de perda de visão de olho direito, decorrente de toxoplasmose em 2013.(..)No caso, a perícia taxativamente atestou a aptidão da parte autora para a atividade exercida na condição de auxiliar de escritório. Ademais, observa-se que a pretendida concessão de benefício por incapacidade tem como causa de pedir a alegada incapacidade laboral decorrente de doenças adquiridas. De fato, a parte autora, em momento algum, refere-se à ocorrência de acidente de qualquer natureza ou mesmo doença do trabalho. O artigo 20 da Lei n. 8.213/1991 equipara doença do trabalho com acidente do trabalho. Somente certos tipos de doenças, conectadas com o trabalho, são passíveis de constituírem fato gerador de auxílio-acidente. As outras doenças não relacionadas com o trabalho - como é o caso daquela de que o autor é portador - não podem gerar auxílio-acidente.
+(..)
+Dessa forma, concluo pelo não preenchimento dos requisitos exigidos à concessão do benefício pretendido.
+Conforme assentado na decisão agravada, rever tal entendimento, como pretendido, implicaria o reexame do contexto fático-probatório dos autos, a eventualmente ensejar novo juízo acerca dos fatos e provas. Sendo assim, incide no caso a Súmula n. 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Outrossim, nos temos da decisão agravada, quanto à alegada divergência jurisprudencial, não é possível o conhecimento do nobre apelo interposto pela alínea "c", na hipótese em que ele está apoiado em fatos, e não na interpretação da lei. Assim, a necessidade de reexame de matéria fática torna prejudicado o exame da divergência jurisprudencial, considerando a inevitável ausência de similitude fática entre acórdãos. A propósito, confira-se:
+PROCESSUAL CIVIL. ADMINISTRATIVO. DANO MORAL. HANSENÍASE. PRESCRIÇÃO. INTERNAÇÃO COMPULSÓRIA. SEGREGAÇÃO. ISOLAMENTO. REEXAME DE FATOS E PROVAS. SÚMULA N. 7/STJ. ANÁLISE DA DIVERGÊNCIA PREJUDICADA. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Trata-se de ação indenizatória por danos extrapatrimoniais por violação de princípios, direitos e garantias fundamentais e direitos de personalidade contra a União objetivando reparação pecuniária em decorrência da separação compulsória de sua genitora ocorrida à época da internação desta, em 1947, também compulsoriamente no Hospital Colônia de Itapuã, por ser portadora de hanseníase.
+II - O Tribunal Regional Federal da 4ª Região, em grau recursal, negou provimento ao recurso de apelação autoral, mantendo incólume a decisão monocrática de improcedência da ação em razão da prescrição da pretensão indenizatória.
+III - No que trata da apontada ofensa aos arts. 10 e 332, § 1º, do CPC/2015, e ao art. 1º do Decreto n. 20.910/1932, a Corte a quo analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+IV - Nos casos de interposição do recurso, alegando divergência jurisprudencial quanto à mesma alegação de violação, a incidência do Enunciado n. 7, quanto à interposição pela alínea a, impede o conhecimento da divergência jurisprudencial, diante da patente impossibilidade de similitude fática entre acórdãos. Nesse sentido: AgInt no AREsp n. 1.044.194/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 19/10/2017, DJe 27/10/2017.
+V - Agravo interno improvido.
+(AgInt no REsp n. 1.987.220/RS, relator Ministro Francisco Falcão, Segunda Turma, DJe de 19/8/2022.)
+Não tendo a parte agravante trazido fundamento ou fato novo a ensejar a alteração do referido entendimento, a negativa de provimento ao presente recurso é medida que se impõe.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
