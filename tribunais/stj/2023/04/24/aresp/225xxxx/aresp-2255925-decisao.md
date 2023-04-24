@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão da não ocorrência de violação dos arts. 489, I e II, 1022, II, parágrafo único e 1025, todos do CPC/2015 e da aplicação da Súmula 284/STF, no que se refere a alegada violação dos arts. 17 e 25, §2º, da Lei Complementar nº 101/2000, pois teria olvidado demonstrar "de que modo teria o acórdão violado os artigos de lei, ou qual seria a correta interpretação para os dispositivos mencionados" (fl. 302).
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 188):
+AGRAVO DE INSTRUMENTO. PROCESSO DE EXECUÇÃO. POLO PASSIVO ENTE PÚBLICO. DETERMINAÇÃO DE BLOQUEIO E SEQUESTRO DE ATIVOS FINANCEIROS. INTERVENÇÃO DO MINISTÉRIO PÚBLICO. DESNECESSIDADE. INETERESSE MERAMENTE PATRIMONIAL. INTELIGÊNCIA DO ART. 178, PARÁGRAFO ÚNICO DO CPC. DECISÃO MANTIDA. RECURSO IMPROVIDO.
+Embargos de declaração rejeitados.
+No recurso especial o recorrente alega violação dos artigos 489, 1022 e 1025 do CPC/2015, ao argumento de que a Corte local não se manifestou a respeito "a ordem conjunta de bloqueio de 43 (quarenta e três) processos, na prática, bloqueou um valor maior que muitos precatórios. O Tribunal nem mesmo se manifestou sobre a ordem geral de bloqueio, que acabou por indisponibilizar verbas de caráter vinculado. Também não se manifestou sobre os dispositivos federais e constitucionais indicados no agravo de instrumento." (fl. 247).
+Quanto a questão de fundo, sustenta ofensa aos artigos 17 ao 25, § 2º, da Lei Complementar 101/2000, porquanto "a determinação de bloqueio de rendas públicas deve observar as normas estabelecidas pela Lei de Responsabilidade Fiscal acerca das limitações ao aumento das despesas", sendo que "o montante abrangido pelas ordens de bloqueio é de R$ 219.250,61 (duzentos e dezenove mil duzentos e cinquenta reais e sessenta e um centavos), o que impacta profundamente as finanças do Município Recorrente"
+Sem contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Tendo a parte insurgente impugnado os fundamentos da decisão agravada, passo ao exame do recurso especial.
+Com efeito, o recorrente pretende a anulação do acórdão proferido pela Corte de origem em sede de embargos de declaração sob o argumento de negativa de prestação jurisdicional, que remanesce omisso o julgamento da controvérsia.
+Extrai-se dos autos que o recorrente argumentou e requereu a manifestação expressa do órgão julgador acerca dos seguintes aspectos (fls. 212-213):
+ ..
+Na origem, em cumprimento de sentença da ação de cobrança nº 0000589-11.2013.8.05.0102, duas decisões interlocutórias foram proferidas pelo Juízo da Vara dos Feitos de Relações de Consumo, Cíveis e Comerciais da Comarca de Iguaí/BA, determinando -se o bloqueio e o sequestro de valores, por meio do sistema BacenJud, sobre todos os saldos financeiros ativos existentes, sem estabelecer qualquer limitação, independente da titularidade e derivação da natureza da Receita Pública, de forma a perpetrar, efetivamente, o bloqueio judicial do crédito exequendo sobre variações ativas originárias da transferência corrente de recursos públicos de aplicação vinculada, inclusive sobre rendas que não pertencem à Fazenda Pública Municipal.
+É dizer, Juízo da Execução enviou pelo BacenJud a comunicação eletrônica da ordem de bloqueio às instituições financeiras, sem, contudo, delimitar o alcance da medida constritiva às contas públicas municipais de movimentação financeira desvinculada.
+Para além disso, a outorgada medida judicial de bloqueio voltou-se à efetivação do crédito exequendo, não só no caso destes autos, mas também em outros 42 processos , de forma global .
+Com efeito, a efetivação da indisponibilidade desses ativos financeiros para quitação da dívida pública municipal, deste processo originário, bem como dos demais, afronta significativamente a ordem e a economia pública, mormente se considerado que o ato ocorreu à vésperas da folha de pagamento dos funcionários e prestadores de serviços da urbe, o que certamente comprometerá a regularidade da administração municipal.
+ ..
+Além de ausente a narrativa acerca do bloqueio conjunto de 42 precatórios, não houve no julgamento qualquer indicação sobre a veracidade dos fatos narrados, que ensejam em expressa violação de direitos do Município, razão pela qual pugna haja análise:
+- Sobre o bloqueio dos 42 precatórios, num importe global de R$ 219.250,61, conforme documento de id 4872881;
+- sobre o bloqueio indiscriminado de verbas públicas, inclusive verbas vinculadas.
+A manutenção da decisão sem a correção das questões acima, implicará em violação do art. 489, I e II do CPC.
+ ..
+Com efeito, evidencia-se que a questão suscitada guarda correlação lógico-jurídica com a pretensão deduzida nos autos e se apresenta imprescindível à satisfação da tutela jurisdicional.
+A falta de manifestação a respeito de questão necessária à resolução integral da demanda autoriza o acolhimento de ofensa aos arts. 489 e 1022 do CPC/2015, enseja a anulação do acórdão proferido em sede de embargos de declaração e torna indispensável o rejulgamento dos aclaratórios. A propósito: AgInt no REsp 1.394.325/RJ, Rel. Min. Herman Benjamin, Segunda Turma, DJe 30/11/2016; AgRg no REsp 1.221.403/RS, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 23/8/2016; AgRg no REsp 1.407.552/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 3/3/2016.
+Ainda, no mesmo sentido, a seguinte decisão monocrática proferida em caso idêntico ao ora apreciado: AREsp 2.243.231/BA, Rel. Ministro Sergio Kukina, DJe 3/2/2023.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial, tornando nulo o acórdão proferido no julgamento dos embargos de declaração, a fim de que a Corte de origem aprecie a matéria articulada nos aclaratórios.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ARTIGOS 489 E 1022 DO CPC/2015. OFENSA CARACTERIZADA. QUESTÃO NÃO EXAMINADA E IMPRESCINDÍVEL À SOLUÇÃO DA CONTROVÉRSIA. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
