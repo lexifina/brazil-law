@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/04/2023 a 24/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Humberto Martins, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que negou provimento ao recurso especial, fundamentado no art. 105, III, a, da Constituição Federal, visando reformar acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim resumido:
+CONTRATO ADMINISTRATIVO PRESTAÇÃO DE SERVIÇOS DE CONSERVAÇÃO DE ÁREAS URBANIZADAS E JARDINAGEM PERCEPÇÃO DE REAJUSTES FIXADOS EM ATA DE REGISTRO DE PREÇOS PRELIMINAR DE PRESCRIÇÃO AFASTADA REQUERIMENTOS ADMINISTRATIVOS QUE SUSPENDERAM O CURSO DO PRAZO PRESCRICIONAL NOS TERMOS DOS ARTIGOS 4 E 9 DO DECRETOLEI N 209101932 CONTROVÉRSIA SOBRE A POSSIBILIDADE DE APLICAÇÃO A SERVIÇOS PRESTADOS POSTERIORMENTE AO TÉRMINO DE SUA VIGÊNCIA ATA DETENTORA DE FORÇA NORMATIVA PROJETANDO EFEITOS APÓS O TÉRMINO DE VIGÊNCIA INTELIGÊNCIA DO ARTIGO 13 DA LEI MUNICIPAL N 132782002 AUTORA QUE FAZ JUS AOS REAJUSTES INCIDENTES NO PERÍODO ENTRE 02042009 E 31032010 E ENTRE 02062010 E 16102010 AUSÊNCIA DE PROVA DE PRORROGAÇÃO DO CONTRATO ADMINISTRATIVO ENTRE 01042010 E 01062010 IMPOSSIBILIDADE DE PRORROGAÇÃO TÁCITA ÔNUS DE PROVAR FATO CONSTITUTIVO DO DIREITO NÃO DESVENCILHADO JUROS DE MORA DEVIDOS A PARTIR DA CITAÇÃO ANTE A ILIQUIDEZ DA CONDENAÇÃO NOS TERMOS DO ARTIGO 397 E 405 DO CC2002 PRECEDENTE DESTE E TRIBUNAL ALTERAÇÃO DO TERMO INICIAL DE INCIDÊNCIA DE JUROS E CORREÇÃO MONETÁRIA RECURSO DA AUTORA PARCIALMENTE PROVIDO E RECURSO DA REQUERIDA DESPROVIDO
+A decisão recorrida tem o seguinte dispositivo: "Também com base no art. 253, parágrafo único, inciso II, b do RISTJ, conheço do agravo interposto por A. Tonanni Construções e Serviços Ltda. e dou-lhe desprovimento."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+Notem, Excelências, que a referida dívida é, sem sombra de dúvidas, uma dívida líquida. O valor total devido em favor da Agravante decorre exclusivamente das cláusulas editalícias utilizadas para realizar os cálculos que constam dos processos administrativos nº 2009-0.254.920-7 (doc. 13, da exordial), 2009-0.297.338-1 (doc. 14, da exordial), 2009-0.318.945-0 (doc. 15, da exordial), 2009-0.349.537-2 (doc. 16, da exordial), 2010-0.000.821-1 (doc. 17, da exordial), 2012-0.095.532-0 (doc. 18, da exordial) e 2015-0.146.920-3 (doc. 19, da exordial).
+ ..
+Portanto, a obtenção do valor devido a título de reajuste não depende de elaborados cálculos, mas de simples cálculo aritmético consistente na aplicação dos índices previstos para o período correto, para que então se chegue ao montante devido.
+ ..
+A dívida em comento não contém dúvidas quanto a sua existência ou quantificação e muito menos exige prova posterior. Bastava o decurso de um ano para que a Agravante tivesse direito a receber o reajuste, sem nenhum questionamento sobre a sua ocorrência ou quantificação, sendo suficiente, para tanto, a aplicação do índice devido.
+Ademais, mesmo que se pudesse argumentar que a dívida não seria certa quanto ao seu valor, uma vez que dependia da aplicação do índice, ainda assim estaríamos diante de uma dívida líquida.
+ ..
+Por todos os ângulos que se analisa a controvérsia, chega-se à inexorável conclusão de que, contrariamente ao apregoado pela r. decisão recorrida, a dívida ora discutida é líquida, em consonância ao ordenamento jurídico pátrio, a doutrina majoritária e até mesmo pela jurisprudência deste E. Superior Tribunal.
+Com efeito, quando a obrigação já possui valor e dia certo para pagamento e este não é realizado na data aprazada, verifica- se que o devedor já se encontra em mora imediatamente, de pleno direito.
+Ora, Excelências, quando a obrigação é projetada com a inclusão de um termo final, o próprio fato do descumprimento impõe a mora de forma automática, sendo despicienda qualquer interpelação mediante provocação do credor. Trata-se da mora ex re, que se opera de pleno direito.
+ ..
+Não há dúvidas de que a mora da Agravada no pagamento da medição tem como consequência lógica a aplicação imediata dos consectários legais a partir de cada vencimento, como determinam os artigos 394, 395 e 397, todos do Código Civil, e no artigo 40, inciso XIV da Lei nº 8.666/93, e não a partir da distribuição da citação, como decidiu o Tribunal a quo.
+ ..
+Diante disso, não restam dúvidas que o decisum recorrido, ao passo que fez exsurgir insegurança jurídica ao deixar de seguir os precedentes da própria Corte, negou vigência aos artigos 394, 395 e 397, todos do Código Civil, e ao artigo 40, inciso XIV da Lei nº 8.666/93, posto que evidenciado que o débito diz respeito à dívida líquida e certa, cujo inadimplemento constitui em data estabelecida em cláusula contratual, automaticamente o devedor em mora.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO.AÇÃO DE COBRANÇA. REAJUSTE DO PREÇO DOS SERVIÇOS. CONTRATO. DESPROVIMENTO DO AGRAVO INTERNO MANUTENÇÃO DA DECISÃO RECORRIDA. TERMO INICIAL DOS JUROS MORATÓRIOS. DIVÍDA ILIQUIDA. CITAÇÃO.
+I - Na origem, trata-se de ação de cobrança objetivando a condenação do ente municipal ao pagamento da quantia correspondente ao reajuste do preço dos serviços objeto do Contrato, no montante histórico de R$ 369.721,78. Na sentença o pedido foi julgado parcialmente procedente. No Tribunal a quo, a sentença foi reformada para a correção monetária incidir de acordo com o IPCA desde o vencimento e os juros de mora, a partir da citação.
+II - A presente hipótese trata de responsabilidade contratual que é aquela que surge quando a obrigação decorre da violação de um dever contratual.
+III - No que se refere ao termo inicial dos juros moratórios quando ocorre o inadimplemento de uma das partes, essa Corte, no Recurso Especial julgado sob o rito repetitivo nº 1.370.899 (Tema 685), firmou a tese de que "Os juros de mora incidem a partir da citação do devedor no processo de conhecimento da Ação Civil Pública quando esta se fundar em responsabilidade contratual, cujo inadimplemento já produza a mora, salvo a configuração da mora em momento anterior".
+IV - Nesse sentido, em regra, os juros de mora podem incidir desde a citação; no entanto, é possível que o seu termo a quo seja a partir do inadimplemento da obrigação pelo devedor, pois já configurada sua mora.
+V - No presente caso, outrossim, a obrigação de reajuste contratual é ilíquida, já que demanda prévia apuração dos valores devidos a título de ressarcimento à parte autora.
+VI - Dessa forma, na obrigação ilíquida, decorrente do descumprimento do contrato, apenas a citação válida constitui em mora o devedor, nos termos art. 240 do CPC.
+VII - Encontra-se correto, portanto, o acórdão recorrido quando fixa o termo a quo dos juros moratórios a partir da citação, à luz dos precedentes dessa Corte (AgRg no AREsp 521.422/PR, 1ª T., Rel. Min. Benedito Gonçalves, j. 12.08.2014, DJe 18.08.2014 e AgRg no AREsp 621.694/RS, 2ª T., Rel. Min. Humberto Martins, j. 05.02.2015, DJe 12.02.2015).
+VIII - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+A presente hipótese trata de responsabilidade contratual que é aquela que surge quando a obrigação decorre da violação de um dever contratual.
+No que se refere ao termo inicial dos juros moratórios quando ocorre o inadimplemento de uma das partes, essa Corte, no Recurso Especial julgado sob o rito repetitivo nº 1.370.899 (Tema 685), firmou a tese de que "Os juros de mora incidem a partir da citação do devedor no processo de conhecimento da Ação Civil Pública quando esta se fundar em responsabilidade contratual, cujo inadimplemento já produza a mora, salvo a configuração da mora em momento anterior".
+Nesse sentido, em regra, os juros de mora podem incidir desde a citação; no entanto, é possível que o seu termo a quo seja a partir do inadimplemento da obrigação pelo devedor, pois já configurada sua mora.
+No presente caso, outrossim, a obrigação de reajuste contratual é ilíquida, já que demanda prévia apuração dos valores devidos a título de ressarcimento à parte autora.
+Dessa forma, na obrigação ilíquida, decorrente do descumprimento do contrato, apenas a citação válida constitui em mora o devedor, nos termos art. 240 do CPC.
+Encontra-se correto, portanto, o acórdão recorrido quando fixa o termo a quo dos juros moratórios a partir da citação, à luz dos precedentes dessa Corte (AgRg no AREsp 521.422/PR, 1ª T., Rel. Min. Benedito Gonçalves, j. 12.08.2014, DJe 18.08.2014 e AgRg no AREsp 621.694/RS, 2ª T., Rel. Min. Humberto Martins, j. 05.02.2015, DJe 12.02.2015).
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
