@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de ROBSON NICOLAU LOPES CARDOSO contra o v. acórdão prolatado pelo eg. Tribunal de Justiça do Estado de São Paulo.
+Depreende-se dos autos que o paciente foi condenado às penas de 06 (seis) anos, 09 (nove) meses e 20 (vinte) dias de reclusão, em regime inicial fechado, e ao pagamento de 680 (seiscentos e oitenta) dias-multa, como incurso nas sanções do art. 33, caput, da Lei n. 11.343/2006.
+Irresignada, a defesa interpôs recurso de apelação ao Tribunal de origem, que negou provimento ao apelo, nos termos do acórdão juntado às fls. 16-22.
+No presente writ, o impetrante sustenta que a conduta do paciente deve ser desclassificada para aquela prevista no art. 28 da Lei n. 11.343/2006, em razão da fragilidade probatória e da ausência de fundamentação idônea e ensejar a condenação pelo crime previsto no art. 33, caput, da mesma lei.
+Argumenta, nesse sentido, que "Para a configuração do crime de tráfico de drogas não basta a simples apreensão da droga, sendo imprescindível a aferição de prova cabal da finalidade de mercancia dos entorpecentes por parte do réu, o que não foi o caso".
+Requer, ao final, a concessão da ordem, para desclassificar a conduta do paciente para aquela prevista no art. 28 da Lei n. 11.343/2006 (fls. 3-10).
+As informações foram prestadas às fls. 45-83 e 86-110.
+O Ministério Público Federal, às fls. 112-115, manifestou-se pelo não conhecimento do habeas corpus.
+É o breve relatório.
+Decido.
+O impetrante sustenta que a conduta do paciente deve ser desclassificada para aquela prevista no art. 28 da Lei n. 11.343/2006, em razão da fragilidade probatória e da ausência de fundamentação idônea e ensejar a condenação pelo crime previsto no art. 33, caput, da mesma lei.
+A Lei n. 11.343/2006 estabelece normas para repressão à produção não autorizada e ao tráfico ilícito de drogas, de modo que, em relação ao artigo 33, caput, dispõe dos seguintes verbos: "Importar, exportar, remeter, preparar, produzir, fabricar, adquirir, vender, expor à venda, oferecer, ter em depósito, transportar, trazer consigo, guardar, prescrever, ministrar, entregar a consumo ou fornecer drogas, ainda que gratuitamente, sem autorização ou em desacordo com determinação legal ou regulamentar  .. ."
+Em seu art. 28, § 2º, o enunciado dispõe que, para determinar se a droga se destinava a consumo pessoal, o juiz atenderá à natureza e à quantidade da substância apreendida, ao local e às condições em que se desenvolveu a ação, às circunstâncias sociais e pessoais, bem como a conduta e aos antecedentes do agente.
+In casu, diversamente do que foi alegado pelo impetrante, o que avulta do contexto fático delineado pela col. Corte a quo não é uma conduta de usuário de substância entorpecente, mas a de alguém que fazia a mercancia de drogas, ante a apreensão de 11 porções de crack, com peso de 5g, e de 9 porções de cocaína, com peso de 36g, dentro de sacola dispensada pelo paciente, acondicionadas em embalagens prontas para a venda, em conhecido ponto de venda de entorpecentes, sendo, ainda, o paciente reincidente, elementos que confirmam os fatos deduzidos na exordial acusatória, atribuindo a autoria do delito previsto no art. 33 da Lei de Drogas ao ora paciente.
+A propósito, o crime de tráfico de drogas é tipo misto alternativo restando consumado quando o agente pratica um dos vários verbos nucleares inserido no artigo 33, caput, da Lei n. 11.343/2006, sendo a venda prescindível ao seu reconhecimento.
+Qualquer incursão que escape a moldura fática ora apresentada demandaria inegável revolvimento fático-probatório, não condizente com os estreitos lindes deste átrio processual, ação constitucional de rito célere e de cognição sumária.
+Em reforço, os seguintes julgados: AgRg no HC n. 758.733/SP, Sexta Turma, Rel. Ministro Rogerio Schietti Cruz, DJe de 26/9/2022; AgRg no HC 454.242/ES, Quinta Turma, Rel. Ministro Joel Ilan Paciornik, DJe 22/11/2018; e EDcl no AgRg no AREsp n. 2.063.835/SC, Quinta Turma, Rel. Ministro Reynaldo Soares da Fonseca, DJe de 20/5/2022.
+Ante o exposto, denego a ordem de habeas corpus.
+P. e I.
