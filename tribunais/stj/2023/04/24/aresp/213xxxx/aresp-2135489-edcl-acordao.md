@@ -1,0 +1,69 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/04/2023 a 24/04/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos por LUIZ MAGNO DE MENEZES COSSICH ao acórdão proferido pela Terceira Turma desta Corte assim ementado (e-STJ, fl. 826):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E JULGAMENTOCITRA PETITANÃO EVIDENCIADOS. AUSÊNCIA DE FALHA NA PRESTAÇÃO DE SERVIÇO E INADIMPLEMENTO DO DEVEDOR. REVISÃO. IMPOSSIBILIDADE. SÚMULA. 7/STJ. INVERSÃO DO ÔNUS DA PROVA. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Embora rejeitados os embargos de declaração, a matéria controvertida foi devidamente enfrentada pelo colegiado de origem, que sobre ela emitiu pronunciamento de forma fundamentada, com enfoque suficiente a autorizar o conhecimento do recurso especial, não havendo falar em negativa de prestação jurisdicional.
+2. As assertivas do recorrente da violação da boa-fé objetiva, da existência de culpa exclusiva da fundação credora e da ausência de mora, nos termos em que postas, atraem o óbice do enunciado n. 7 da Súmula desta Corte, pois contraria a conclusão exarada pelo Tribunal a quo que resultou na responsabilidade do insurgente pelos débitos cobrados na ação monitória.
+3. A jurisprudência consolidada neste Tribunal Superior firmou-se no sentido de que a análise de tese no âmbito do recurso especial exige a prévia discussão perante o Tribunal de origem, sob pena de incidirem as Súmulas 282 e 356 do Supremo Tribunal Federal, bem como o enunciado da Súmula 211/STJ.
+4. Agravo interno desprovido.
+Em suas razões (e-STJ, fls. 836-840), o embargante assevera a existência de omissão no julgado quanto à alegada negativa de prestação jurisdicional, porquanto não enfrentou o argumento acerca do não enfretamento pelo Tribunal de origem sobre "a tese de mérito ventilada de impossibilidade de vencimento antecipado do débito com base em prestações vencidas não sucessivas, com interregno de cerca de 3 anos" (e-STJ, fl. 837).
+Afirma que essa questão que é de extrema relevância para fins de consolidação do débito nos autos, uma vez que "os atrasos que justificam o vencimento antecipado não podem ser espaçados por longos períodos, sob pena de violação à boa-fé e à lealdade contratual, subvertendo a lógica contratual em benefício de uma das partes" (e-STJ, fl. 837).
+Continua destacando a evidente "configuração do instituto da supressio, uma vez que o credor não exerceu o seu direito de promover o vencimento antecipado do débito no tempo oportuno e continuou recebendo a prestação mensalmente, o que, no entanto, jamais foi objeto de análise nos autos, apesar da relevância da matéria para odeslinde do feito (e-STJ, fl. 838).
+Requer, dessa forma, o acolhimento dos declaratórios para que seja sanado o vício apresentado.
+Impugnação não apresentada (e-STJ, fls. 844-849).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DO RECURSO. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração poderão ser opostos com a finalidade de eliminar da decisão qualquer erro material, obscuridade, contradição ou suprir omissão sobre ponto acerca do qual se impunha pronunciamento, o que não é o caso dos autos.
+2. Embargos de declaração rejeitados.
+VOTO
+Registre-se que esta espécie recursal tem por finalidade suprir omissão, afastar obscuridade, eliminar contradição ou corrigir erro material, nos termos do art. 1.022 do Código de Processo Civil de 2015, vícios não constatados no caso em apreço.
+O acórdão embargado foi claro ao consignar que não há negativa de prestação jurisdicional apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão da parte, destacando que todos os fundamentos do Tribunal de origem foram suficientes para responder as questões suscitadas pela parte ora embargante.
+A propósito, confira-se (e-STJ, fls. 828-829, sem grifos no original):
+Sustenta a agravante que a violação do art. 1.022 do CPC/2015 está intrinsecamente ligada à infringência do art. 141 do CPC/2015, diante da decisão de mérito que não aprecia todos os fundamentos elencandos pela parte.
+Assim, teria havido omissão acerca de pontos necessários para o enfrentamento da matéria, sobretudo, quanto à consideração da culpa exclusiva ou concorrente da FUNCEF e à ausência de desconto regular do empréstimo consignado.
+Salienta que "o contexto omisso e a produção da prova pretendida, com a adequada inversão do ônus, é vital para compreensão do venire contra factum proprium, com locupletamento da FUNCEF com base no próprio erro, bem como da supressio" (e-STJ, fl. 748).
+No entanto, da leitura do acórdão recorrido, observa-se que o recorrente, na verdade, não se conforma com a decisão, a qual se pronunciou de forma fundamentada sobre as questão necessária para o solução da lide, ainda que em sentido contrário à sua pretensão.
+A propósito, colhem-se os seguintes trechos do aresto impugnado (e-STJ, fls. 451-455, sem grifos no original)
+O apelante-réu alega que a r. sentença é nula, porque citra petita, uma vez que não analisou os argumentos que apresentou na contestação e na reconvenção.
+(..)
+Os pedidos apresentados pelo apelante-réu em sua reconvenção foram devidamente apreciados e não acolhidos. Rejeito a preliminar de nulidade da r. sentença.
+(..)
+Do inadimplemento contratual
+A presente ação monitória foi proposta com fundamento no inadimplemento das parcelas do contrato com vencimento nos dias 20/7/2014, 20/6/2015, 20/8/2015, 20/9/2015, 20/7/2016, 20/8/2016 e 20/4/2018, além de todo o saldo devedor, tendo em vista a previsão contratual que estabelece o vencimento antecipado do contrato na hipótese de inadimplemento de três parcelas (cláusula décima quarta - id. 28229987, pág. 5).
+O apelante-réu sustenta, em suma, que ocorreu falha na prestação do serviço prestado porque havia saldo na conta bancária para os descontos, entretanto, a apelada-autora não debitou o valor das prestações objeto de cobrança na ação monitória. Defende que não houve mora, conforme disciplina do art. 396 do CC.
+A análise do histórico de extratos bancários da conta n. 266914-4 da Caixa Econômica Federal (id. 28230213), de titularidade do apelante-réu, demonstra claramente que os débitos das parcelas do empréstimo não foram realizados diante da ausência de saldo bancário.
+No mês de julho de 2014 (id. 28230213, pág. 1), no dia 7/7/2014 o apelante-réu encontrava-se com saldo devedor de R$ 2.988,55, situação que se manteve até o dia 21/7/2014, quando recebeu o salário. Portanto, uma vez que a conta se encontrava negativa no dia 20/7/2014, não havia saldo para o desconto da parcela no valor de R$ 594,25.
+Em junho de 2015, o apelante-réu iniciou o mês com saldo devedor de R$ 3.099,04 (id. 28230213, pág. 4), situação que permaneceu até o dia 22/6/2015 quando recebeu salário no valor de R$ 3.587,67. Portanto, no dia 20/6/2015 não havia saldo positivo para que se debitasse o valor da prestação de R$ 594,25.
+No dia 20/8/2015 (id. 28230213, pág. 4) o apelante-réu também não possuía saldo positivo em sua conta bancária para cobrir o débito da parcela do contrato. Isso porque encontrava-se com saldo devedor de R$ 3.132,16 e, apesar de ter recebido salário de R$ 3.746,10, no mesmo dia 20/8/2015 foram realizados saques e envios de TED que somados alcançam o valor de R$ 2.210,00, de forma que permaneceu com saldo negativo.
+No mês de setembro de 2015 (id. 28230213, pág. 4) o apelante-réu iniciou o mês com saldo devedor de R$ 3.144,92, situação que se manteve no dia 20/9/2015, uma vez que recebeu o salário apenas no dia 21/9/2015.
+No dia 1/7/2016 o saldo devedor da conta bancária do apelante-réu era de R$ 3.150,14 (id. 28230213, pág. 7) e, apesar do crédito de salário realizado no dia 20/7/2016 no valor de R$ 4.134,53, não houve possibilidade de desconto da parcela porque no mesmo dia 20/7/2016 foram realizados saques e pagamentos que somados alcançam mais de R$ 2.500,00, o que demonstra que o saldo bancário permaneceu negativo.
+Em agosto de 2015 (id. 28230213, pág. 8) o apelante-réu ingressou o mês com saldo devedor de R$ 3.203,62, situação mantida até 22/8/2015 quando creditado o salário, o que demonstra que no dia 20/8/2016 não havia crédito para o desconto da parcela de R$ 594,25.
+Por fim, em abril de 2018 (id. 28230214) apesar de no dia 20/4/2018 o apelante-réu encontrar-se com saldo positivo na conta bancária, após os diversos débitos lançados no mesmo dia 20, o saldo permaneceu credor em R$ 225,36, valor que não era suficiente para cobrir a prestação de R$ 594,25.
+Portanto, a análise da prova apresentada pelo apelante-réu demonstra que diferente de suas alegações, os débitos não foram realizados por insuficiência de saldo.
+Na hipótese, não é necessária a comunicação do devedor para realizar o pagamento das parcelas porque se trata de obrigação positiva, líquida e com termo certo, portanto, conforme disciplina do art. 397 do CC, a mora é ex re.
+Nesse sentido, a jurisprudência deste e. TJDFT:
+(..)
+Logo, o inadimplemento contratual do apelante-réu das parcelas com vencimentos em 20/7/2014, 20/6/2015, 20/8/2015, 20/9/2015, 20/7/2016, 20/8/2016 e 20/4/2018 encontra-se devidamente comprovado nos autos.
+Ressalto que, diferente da conclusão do MM. Juiz sentenciante, não há prova de pagamento da parcela com vencimento no dia 20/7/2014, uma vez que os descontos realizados no dia 21/7/2014 por ele apontado (id. 28230213, pág. 1) são relativos a outros empréstimos contraídos pelo apelado-réu, conforme esclarecimentos apresentados pelo apelante-autor na petição de id. 28230230, inclusive porque possuem valores distintos e data distinta de débito.
+Em conclusão, está configurado o inadimplemento contratual do apelante-réu que, nos termos da cláusula décima do contrato, fundamenta o vencimento antecipado de todo o débito contraído. A conduta da apelada-autora não se configura venire contra factum proprium e não há culpa concorrente.
+Na demanda também não é aplicável o instituto da supressio porque não há inércia da apelada-autora que encaminhou cobrança extrajudicial ao apelante-réu, conforme documento de id. 28229987, pág. 10/11, além de propor a presente ação monitória para a cobrança do débito antes mesmo do decurso do prazo final do contrato.
+A previsão de vencimento antecipado do débito, em razão do inadimplemento das parcelas não ofende a boa-fé contratual.
+Por fim, uma vez existente o débito e correta a cobrança, não está configurado o dano moral.
+Como se pode notar dos excertos do acórdão recorrido supracitados, o Tribunal local destacou, ao contrário do alegado pelo ora agravante, que não havia saldo bancário na sua conta para os débitos das prestações devidas. Salientou-se a desnecessidade de comunicação do devedor para realização do pagamento das parcelas e que a conduta da autora não configura venire contra factum proprium nem culpa concorrente. Além do mais, afastou o instituto da supressio e destacou que a previsão de vencimento antecipado do débito não ofende a boa-fé contratual. Ficou consignado, assim, a ausência de falha na prestação do serviço e o inadimplemento do devedor.
+Dessa forma, não há falar em negativa de prestação jurisdicional apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão da parte. De mais a mais, a jurisprudência desta Corte é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar a conclusão alcançada, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+De fato, depreende-se das razões apresentadas que o embargante não se conforma com a decisão, buscando, por via imprópria, a reforma do resultado do julgamento, uma vez que o acórdão embargado tratou de forma expressa sobre as tese suscitada pelo agravante.
+Todavia, a atribuição de efeitos infringentes aos embargos somente se faz possível em situações excepcionais, notadamente nos casos em que a alteração do julgado decorre da correção de algum dos vícios apontados, o que não é a hipótese dos autos.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE COBRANÇA - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NÃO CONHECEU DO RECLAMO. INSURGÊNCIA DO DEMANDADO.
+1. Nos termos do artigo 1.022 do CPC/15, os embargos de declaração são cabíveis apenas para esclarecer obscuridade ou eliminar contradição; suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento; ou corrigir erro material.
+1.1. Ausentes quaisquer dos vícios elencados no acórdão recorrido, que decidiu de modo claro e fundamentado, é impositiva a rejeição aos aclaratórios.
+2. Ante a reiterada oposição de recursos manifestamente inadmissíveis e o caráter protelatório dos presentes embargos, bem como a prévia advertência da parte, é imperiosa a aplicação da multa prevista no art. 1.026, § 2º, do CPC/15.
+3. Embargos de declaração rejeitados, com aplicação de multa.
+(EDcl no AgInt nos EDcl no AREsp 1.814.590/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 27/09/2021, DJe 01/10/2021.)
+Ante o exposto, rejeito os embargos de declaração.
+Fiquem as partes cientificadas de que a oposição de novos embargos de declaração manifestamente inadmissíveis ou protelatórios a este acórdão ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É o voto.
