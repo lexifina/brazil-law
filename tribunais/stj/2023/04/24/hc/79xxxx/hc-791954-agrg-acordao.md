@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/04/2023 a 24/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik, Messod Azulay Neto e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Joel Ilan Paciornik.
+RELATÓRIO
+Trata-se de agravo regimental interposto por GI VANILDO GONÇALVES DA SILVA de decisão na qual indeferi o pedido de extensão da ordem concessiva de liberdade.
+A defesa reitera ser cabível ao agravante a extensão do benefício concedido à corré, pois ambos tiveram suas prisões preventivas decretadas pela suposta prática dos crimes de roubo e o previsto no art. 2º da Lei n. 12.850/2013. Porém, ambos não agiram diretamente no assalto com violência e grave ameaça.
+Aduz que é o mesmo decreto preventivo para ambos, com a mesma flagrante ilegalidade, qual seja, a ausência de individualização da conduta.
+Requer a reconsideração da decisão agravada, com o deferimento do pedido de extensão.
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO PEDIDO DE EXTENSÃO NO HABEAS CORPUS. REVOGADA PRISÃO PREVENTIVA DA CORRÉ. SIMILITUDE FÁTICO-PROCESSUAL COM O AGRAVANTE NÃO EVIDENCIADA. RECURSO NÃO PROVIDO.
+1. Nos termos do art. 580 do Código de Processo Penal, a decisão do recurso interposto por um dos acusados, se fundada em motivos que não sejam de caráter exclusivamente pessoal, aproveitará aos outros.
+2. A atuação imputada ao agravante revela uma participação mais efetiva e direta na ação delituosa investigada, de modo que não resta evidenciada a existência de similitude fático-processual entre o agravante e a corré, máxime se levado em conta que o fato de ela ser mãe de duas crianças também foi sopesado para a concessão da ordem pleiteada.
+3. Agravo regimental não provido.
+VOTO
+O agravante não trouxe argumentos suficientes para infirmar a decisão impugnada, razão pela qual mantenho-a por seus próprios fundamentos.
+Nos termos do art. 580 do Código de Processo Penal, a decisão do recurso interposto por um dos acusados, se fundada em motivos que não sejam de caráter exclusivamente pessoal, aproveitará aos outros.
+Ao apreciar o presente habeas corpus, este Relator identificou a presença dos elementos impositivos para o deferimento do pedido da paciente, determinando a revogação da sua custódia preventiva, mediante o cumprimento de medidas cautelares alternativas determinadas pelo juízo de origem. A decisão está assim fundamentada:
+"De acordo com o art. 312 do Código de Processo Penal, a custódia preventiva poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, desde que presentes prova da existência do crime e indícios suficientes de autoria. No caso, segundo se infere, embora o decreto cautelar tenha se fundado na gravidade concreta do crime de roubo investigado, nota-se a ausência de individualização da conduta efetivamente imputada à paciente. Pelo que se extrai dos autos, sua prisão foi decretada após o cumprimento de busca e apreensão na casa de alguns acusados de participação do crime de roubo mencionado e após terem sido vistas fotos da paciente postadas em redes sociais que denotariam sua participação nos lucros dos crimes cometidos pela organização criminosa investigada. No decreto prisional não há detalhamento e nem indicação de como teria sido a participação da paciente no crime de roubo, mas somente menção à sua suposta ligação com organizações criminosas e com os envolvidos no assalto à agência bancária. Nesse contexto, tem-se como suficiente ao acautelamento do meio social, a substituição da prisão preventiva por outra medidas cautelares do art. 319 do CPP, atenta a previsão constitucional do encarceramento cautelar como ultima ratio.
+ ..
+Não se ignore, ainda, o fato da paciente ser mãe de duas crianças, uma de 4 e outra menor de 2 anos, que ainda é amamentada pela paciente (e-STJ, fls. 245-246)." (e-STJ, fls. 252-254)
+Conforme se observa, destacou-se na decisão concessiva a ausência de individualização da conduta efetivamente imputada à corré e o fato de sua prisão ter sido decretada após o cumprimento de busca e apreensão na casa de alguns acusados de participação no crime de roubo e após terem sido vistas fotos da paciente postadas em redes sociais que denotariam sua participação nos lucros dos crimes cometidos pela organização criminosa.
+Ressaltou-se, ademais, como reforço argumentativo, a condição da paciente como mãe de duas crianças, uma de 4 e outra de 2 anos, que ainda é amamentada pela paciente.
+Em relação ao ora agravante, embora o decreto prisional não tenha individualizado sua conduta na empreitada criminosa, não se pode dizer que ele se encontra na mesma situação fático-processual da paciente.
+Isso porque, pelo que se extrai dos autos, sua prisão foi decretada após as investigações apontarem que ele, na condição de vigilante da agência bancária, repassou informações aos corréus responsáveis pela prática direta do delito com vistas ao melhor planejamento da ação delituosa.
+Neste contexto, considerando que a atuação imputada ao agravante revela uma participação mais efetiva e direta na ação delituosa investigada, tenho que não resta evidenciada a existência de similitude fático-processual entre o requerente e a corré, e a corré, máxime se levado em conta que o fato de e la ser mãe de duas crianças também foi sopesado para a concessão da ordem pleiteada.
+Desse modo, não vislumbrando a aplicação do disposto no art. 580 do CPP ao caso, não deve ser estendida ao agravante os efeitos da decisão que concedeu à paciente a revogação da prisão provisória com a imposição de outras medidas cautelares.
+Ressalvo que tal entendimento não impede a possibilidade de provimento do pleito liberatório quando da análise do RHC n. 172.828/PB, no qual o agravante figura como recorrente. Até mesmo porque a negativa de pedido de extensão funda-se apenas na conclusão de que o agravante não se encontra na mesma situação fático-processual da paciente.
+Ante o exposto, nego provimento ao agravo.
+É o voto.
