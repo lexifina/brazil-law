@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/04/2023 a 24/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Sebastião Reis Júnior, Rogerio Schietti Cruz e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Cuida-se de agravo regimental interposto por KAIQUE DE VASCONCELOS GUIMARÃES contra decisão monocrática (e-STJ fls. 490/493) em que deneguei a ordem de habeas corpus, em decisum assim relatado:
+Trata-se de habeas corpus com pedido liminar impetrado em favor de KAIQUE DE VASCONCELOS GUIMARÃES apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação n. 0028950- 73.2017.8.26.0050).
+Depreende-se dos autos que o réu foi condenado a 2 anos, 2 meses e 20 dias de reclusão, no regime inicialmente semiaberto, pela prática do delito de furto qualificado.
+As seguintes condutas foram imputadas a ele (e-STJ fl. 336):
+1. RODRIGO RODRIGUES SOARES e GABRIEL RODRIGUES DA SILVA FRANCISCO, qualificados nos autos, foram denunciados como incursos no artigo 155, § 4o, II e IV, e art. 340, ambos do Código Penal, bem como no art. 1o, caput, da Lei 9.613/98, nos termos do art. 69 do CP; e KAIQUE DE VASCONCELOS GUIMARÃES, qualificado nos autos, foi denunciado como incurso no art. 155, § 4o, II e IV, e no art. 340, na forma do art. 69, todos do CP, porque: (1) no dia 28 de dezembro de 2016, por volta das 14h30min, no 4o Distrito Policial, RODRIGO teria provocado a ação da autoridade, comunicando-lhe a ocorrência de crime que sabia não se ter verificado, qual seja, o crime de roubo de U$ 40.250,00 (quarenta mil e duzentos e cinquenta dólares),  550,00 (quinhentos e cinquenta euros) e um telefone celular Iphone 4S; (2) no dia 28 de dezembro de 2016, por volta de 14h3Omin, na Avenida Paulista, 2073, sala 502, no "Conjunto Nacional", Jardim Paulista, Município de São Paulo, RODRIGO, GABRIEL e KAIQUE teriam subtraído para si, mediante fraude e abuso de confiança, U$ 40.250,00 e  550,00, em espécie, da empresa "Muriarth Serviços Adm. EIRELES"; (3) posteriormente, em data incerta, na Rua Florêncio de Abreu, em um dos "boxes" do Shopping 25 de Março, 2o andar, Município de São Paulo, RODRIGO e GABRIEL teriam dissimulado a origem dos valores furtados e os utilizado na compra de roupas importadas, que teriam sido vendidas na loja que constituíram, denominada "Luxúria Imports".
+Interposta apelação, o Tribunal de origem negou provimento ao recurso defensivo, conforme acórdão assim ementado (e-STJ fl. 405):
+APELAÇÃO CRIMINAL  FURTO QUALIFICADO  APELO DEFENSIVO  REDUÇÃO DA PENA BASE E REGIME MAIS BRANDO  IMPOSSIBILIDADE TENDO EM VISTA AS AGRAVANTES QUE COMPÕE O TIPO PENAL, BEM COMO IMPOSSIBILIDADE NA FIXAÇÃO DE REGIME MAIS BRANDO  RECURSO IMPROVIDO.
+Daí o presente writ, no qual sustenta a defesa preencher o agente os requisitos para a fixação de regime inicial menos gravoso e a substituição da reprimenda corporal por sanções restritivas de direitos.
+Requer, liminarmente e no mérito, a fixação de regime inicial menos gravoso.
+Pedido liminar indeferido.
+Informações prestadas.
+Parecer do Ministério Público Federal pela denegação da ordem.
+É o relatório (e-STJ fls. 490/491).
+Na decisão ora agravada, mantive o modo carcerário semiaberto, em razão de considerar escorreita a fundamentação apresentada pela instância de origem, que se lastreou na gravidade em concreto da conduta. Acrescentei, ainda, que a existência de circunstâncias judiciais negativadas permite a fixação do regime mais gravoso do que o quantum de pena permite.
+Em suas razões, a defesa, além de requerer a sustentação oral, insurge-se contra a fixação do regime semiaberto, alegando, em suma, que: (i) como a pena do agravante "é de 2 anos, 2 meses e 20 dias, outorgado o regime semiaberto, por furto qualificado, mais o art. 340 do Código Penal, como sua pena é muito abaixo do limite de 4 anos, por uma questão de humanidade, razoabilidade e até de sensibilidade, a defesa postula que o regime não seja de prisão, ou seja, semiaberto (o qual no início é, na prática, semelhante ao fechado, ou seja, regime segregador), sendo ele colocado longe da família e filhos, em uma situação dramática  .. " (e-STJ fl. 498); (ii) a decisão agravada entende "que a pena deve ser realmente bem dura e rigorosa, porque o crime sendo de furto qualificado causou prejuízo para a vítima e agora o ora agravante não preencheria os requisitos para cumprir a pena no regime aberto, apesar da quantidade da pena ser muito inferior a 4 anos"; todavia, "o crime de furto, mesmo qualificado, é um crime praticado SEM VIOLÊNCIA OU GRAVE AMEAÇA, sendo perfeitamente cabível a concessão do regime aberto" (e-STJ fl. 499); (iii) " o  regime mais gravoso foi imposto ao ora paciente sem motivação plausível (valor subtraído), devendo ser concedido  ..  regime menos gravoso (aberto)" (e-STJ fl. 500); e (iv) preenchidos todos os requisitos para o alvitramento do regime menos gravoso, deve-se levar em consideração o estado de coisas inconstitucional que caracteriza o sistema prisional brasileiro, e evitar que o agravante seja colocado em um regime que se inicia, na prática, com seu verdadeiro encarceramento.
+Busca, assim, seja reconsiderada a decisão agravada ou submetido o presente recurso ao órgão colegiado para que seja fixado o regime aberto, com a expedição de contramandado de prisão (e-STJ fl. 503).
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO QUALIFICADO. REGIME SEMIABERTO ALVITRADO EM RAZÃO DA GRAVIDADE CONCRETA DO DELITO E DA PRESENÇA DE CIRCUNSTÂNCIAS JUDICIAIS NEGATIVADAS. POSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Na esteira da jurisprudência desta Corte Superior, admite-se a imposição de regime prisional mais gravoso do que aquele que permite a pena aplicada, quando apontados elementos fáticos demonstrativos da gravidade concreta do delito, como no caso concreto.
+2. Do mesmo modo, é firme o posicionamento desta Corte no sentido da possibilidade de estabelecimento de regime inicial mais gravoso do que aquele indicado pelo quantum de pena estabelecido, quando presentes uma ou mais circunstâncias judiciais desfavoráveis, ex vi do art. 33, §§ 2º e 3º, do Código Penal, como na hipótese.
+3. Agravo regimental desprovido .
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+A irresignação não merece prosperar.
+Busca-se, com o presente agravo, o abrandamento do regime para o modo inicial aberto.
+Nos termos do art. 33, §§ 1º, 2º e 3º, do Código Penal, para a fixação do regime inicial de cumprimento de pena, o julgador deverá observar a quantidade da reprimenda aplicada, a primariedade do réu e a eventual existência de circunstâncias judiciais desfavoráveis.
+No que se refere ao regime inicial de cumprimento de pena, observa-se que o acórdão recorrido manteve o recrudescimento do modo carcerário de forma justificada, valendo-se da gravidade da conduta, que gerou prejuízo patrimonial de enorme monta às vítimas. Ademais, a existência de circunstâncias judiciais negativadas permite a fixação do regime inicial mais grave (no caso, o semiaberto), em que pese o quantum final de pena ser inferior a quatro anos.
+Por oportuno, cito:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. DOSIMETRIA. ART. 1º, INCISO I, DO DECRETO-LEI N. 201/1967. AUSÊNCIA DE MOTIVAÇÃO IDÔNEA ACERCA DAS CIRCUNSTÂNCIAS JUDICIAIS DA CULPABILIDADE, MOTIVOS E CIRCUNSTÂNCIAS DO CRIME. EXISTÊNCIA DE JUSTIFICATIVA PARA MAJORAÇÃO DA PENA PELAS CONSEQUÊNCIAS DO CRIME. REDIMENSIONAMENTO DA PENA. PENA ABAIXO DE 4 ANOS. REGIME SEMIABERTO. POSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. É firme o posicionamento desta Corte no sentido da possibilidade de estabelecimento de regime inicial mais gravoso do que aquele indicado pelo quantum de pena estabelecido, quando presentes uma ou mais circunstâncias judiciais desfavoráveis, ex vi do art. 33, §§2º e 3º, do Código Penal, como na hipótese.
+2. Agravo regimental desprovido.
+(AgRg nos EDcl no HC n. 544.801/RO, de minha relatoria, Sexta Turma, julgado em 6/10/2020, DJe de 13/10/2020, grifei.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ESTELIONATO. DOSIMETRIA. PENA-BASE. PERSONALIDADE DO AGENTE. ILEGALIDADE CONSTATADA. REGIME FECHADO. PENA IGUAL A UM ANO DE RECLUSÃO. REGIME SEMIABERTO ADEQUADO. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO DESPROVIDO.
+ ..
+VI - Conforme o disposto no artigo 33, § 3º, do Código Penal, em relação ao regime inicial para o resgate da reprimenda, além do quantum da pena, também deve haver a análise das circunstâncias judiciais previstas no artigo 59 do mesmo diploma legal.
+VII - In casu, consoante consta na decisão agravada, considerando o quantum de pena estabelecido (01 (um) ano de reclusão), bem como a existência de circunstâncias judiciais desfavoráveis, o regime mais gravoso sequente, qual seja, o semiaberto, mostra-se adequado ao caso, nos termos do artigo 33, parágrafo 3º do Código Penal.
+Agravo regimental desprovido.
+(AgRg no HC n. 688.856/SP, relator Ministro Jesuíno Rissato, Desembargador Convocado do TJDFT, Quinta Turma, julgado em 7/12/2021, DJe de 15/12/2021, grifei.)
+Assim, na esteira da jurisprudência desta Corte Superior, admite-se a imposição de regime prisional mais gravoso do que aquele que permite a pena aplicada, quando apontados elementos fáticos demonstrativos da gravidade concreta do delito, como no caso em concreto, e quando presentes circunstâncias judiciais desfavoráveis ao agente.
+À guisa do exposto, nego provimento ao agravo regimental.
+É o voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
