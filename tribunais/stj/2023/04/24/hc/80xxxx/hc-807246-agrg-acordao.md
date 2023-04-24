@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/04/2023 a 24/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. TRÂNSITO EM JULGADO DA CONDENAÇÃO. SUCEDÂNEO DE REVISÃO CRIMINAL. DOSIMETRIA. APLICAÇÃO DA CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA DO TRÁFICO PRIVILEGIADO. CABIMENTO. AUSÊNCIA DE FUNDAMENTOS CONCRETOS. REGIME PRISIONAL ABERTO E SUBSTITUIÇÃO DA PENA. POSSIBILIDADE. EVIDENTE CONSTRANGIMENTO ILEGAL.
+1. Não se desconhece o posicionamento do Superior Tribunal de Justiça e do Supremo Tribunal Federal, no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese e de revisão criminal, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. No caso, constatou-se a existência de flagrante ilegalidade no ato judicial impugnado, motivo pelo qual a ordem de habeas corpus foi concedida de ofício.
+3. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto pelo Ministério Público Federal contra decisão de minha lavra, na qual não conheci do writ, mas concedi a ordem de habeas corpus de ofício em favor de Vitor Anacleto Martins da Silva. Esta, a ementa da decisão (fl. 413):
+HABEAS CORPUS. TRÁFICO DE DROGAS. TRÂNSITO EM JULGADO DA CONDENAÇÃO. SUCEDÂNEO DE REVISÃO CRIMINAL. DOSIMETRIA. APLICAÇÃO DA CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA DO TRÁFICO PRIVILEGIADO. CABIMENTO. AUSÊNCIA DE FUNDAMENTOS CONCRETOS. REGIME PRISIONAL ABERTO E SUBSTITUIÇÃO DA PENA. POSSIBILIDADE. EVIDENTE CONSTRANGIMENTO ILEGAL.
+Habeas corpus não conhecido. Ordem concedida de ofício, nos termos do dispositivo.
+Alega o agravante, em apertada síntese, que inexiste flagrante ilegalidade e/ou abuso de poder a autorizar a revisão da dosimetria no presente writ (fl. 69).
+Menciona que as circunstâncias em que foi cometido o crime de tráfico ilícito de entorpecentes no presente caso indicam não ser socialmente recomendável a fixação de regime diverso do fechado para o paciente. 16. Com efeito, a natureza e a quantidade de substâncias entorpecentes apreendidas (25 porções de crack), demonstram a maior gravidade e reprovabilidade da conduta, o que, a meu ver, impede a fixação do regime mais brando, nos termos do art. 33, §3º, do Código Penal, c/c art. 42 da Lei nº11.343/2006 (fl. 74).
+Requer a reconsideração da decisão agravada, ou, em assim não entendendo, que o presente agravo regimental seja submetido ao Colegiado, para que seja provido (fl. 77).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. TRÂNSITO EM JULGADO DA CONDENAÇÃO. SUCEDÂNEO DE REVISÃO CRIMINAL. DOSIMETRIA. APLICAÇÃO DA CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA DO TRÁFICO PRIVILEGIADO. CABIMENTO. AUSÊNCIA DE FUNDAMENTOS CONCRETOS. REGIME PRISIONAL ABERTO E SUBSTITUIÇÃO DA PENA. POSSIBILIDADE. EVIDENTE CONSTRANGIMENTO ILEGAL.
+1. Não se desconhece o posicionamento do Superior Tribunal de Justiça e do Supremo Tribunal Federal, no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese e de revisão criminal, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. No caso, constatou-se a existência de flagrante ilegalidade no ato judicial impugnado, motivo pelo qual a ordem de habeas corpus foi concedida de ofício.
+3. Agravo regimental improvido.
+VOTO
+A despeito das alegações do agravante, não lhe assiste razão, devendo a decisão impugnada ser mantida pelos seus próprios fundamentos.
+Não se desconhece o posicionamento do Superior Tribunal de Justiça e do Supremo Tribunal Federal, no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese ou de revisão criminal, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Ocorre que, no caso, constatou-se a existência de flagrante ilegalidade no ato judicial impugnado, motivo pelo qual a ordem de habeas corpus foi concedida de ofício.
+No caso dos autos, a impetração buscava a aplicação da causa de diminuição do tráfico de drogas privilegiado, a readequação do regime prisional e a substituição da pena.
+Pois bem. A fundamentação apresentada pelas instâncias ordinárias para afastar a incidência do tráfico de drogas privilegiado não se mostrou idônea, principalmente diante da quantidade de droga apreendida (2,44 g de crack), que, apesar de não ser ínfima, não foge ao padrão do tráfico de drogas, além do fato de ter sido apreendida com o réu, ora agravado, em lugar conhecido como ponto de tráfico de drogas, não se mostrando suficientes a evidenciar, por si só, a dedicação do paciente a atividades criminosas, especialmente diante da sua primariedade e dos bons antecedentes.
+E mais, não foi invocada fundamentação concreta a justificar o regime prisional mais gravoso, senão vejamos (fls. 56/57): Finalmente, correta a fixação da modalidade inicial fechada, por duas razões principais: a uma, porque foi determinada de forma precisa, nos termos do artigo 33, § 3º, do Código Penal, a duas, porque guarda plena sintonia com a gravidade da hipótese vertente e perniciosidade dos tóxicos apreendidos e, ainda, com as seríssimas consequências deste delito, o qual atenta contra a saúde pública e dissemina o vício, contribuindo com a degradação da pessoa, da família e do convício social.
+Assim, diante do quantum da pena (1 ano e 8 meses de reclusão), após a aplicação da minorante do tráfico de drogas privilegiado na fração de 2/3, o regime inicial aberto é o mais adequado para o início do cumprimento da pena e a substituição da pena privativa de liberdade por restritiva de direitos é perfeitamente cabível ao caso.
+Ante o exposto, nego provimento ao agravo regimental.
