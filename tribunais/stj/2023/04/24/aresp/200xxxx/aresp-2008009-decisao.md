@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo interposto em face de decisão que inadmitiu o recurso especial.
+Nas razões do especial, aponta a defesa violação dos arts. 405, §§ 1º e 2º, do CPP, 33, § 2º, c, 44 e 64, I, do CP.
+Sustenta, em síntese, nulidade processual em razão da obrigatoriedade da gravação da oitiva de testemunhas e interrogatório pelo sistema audiovisual, além de requerer o afastamento dos maus antecedentes, fixação do regime inicial aberto e substituição da pena privativa de liberdade por restritiva de direitos.
+Apresentada a contraminuta, manifestou-se o Ministério Público Federal pelo desprovimento do agravo.
+O recurso é tempestivo e ataca os fundamentos da decisão agravada. Passo, portanto, à análise do mérito.
+Quanto à tese de nulidade, assim se manifestou a Corte de origem:
+Nas hipóteses de nulidade relativa, ou absoluta, deve a parte,em consonância como princípio pas de nullité sans grief,disposto no art. 563 do CPP, objetivamente evidenciarconcreto prejuízo, pois, os termos do art. 405, § 1º, do C. P. Penal tratam-se de norteio, cabendo priorizar o uso doequipamento para fins de maior fidedignidade às versõesapresentadas, entretanto, a inação do magistrado quanto aisto apenas incorreria em ato nulo se evidenciada efetivamácula à defesa, desde sua primeira oportunidade(audiência). Inobservável tal evento na situação vertente, eis que opaciente se encontrava devidamente assistido por sua defesano ato, oportunidade esta em que não foi impugnado o meiode colheita de depoimentos, vindo a questionar a supostanulidade tão somente em sede recursal e sem arguirqualquer prejuízo.
+Com efeito, não tendo a defesa impugnado a ausência de gravação da audiência em meio audiovisual em momento oportuno, nem demonstrado o efetivo prejuízo, não há que falar em nulidade. A propósito:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PRÁTICA DE ATOS LIBIDINOSOS DIVERSOS DA CONJUNÇÃO CARNAL (ART. 214 C/C ART. 224, "A", C/C ART. 226, II, DO CÓDIGO PENAL, COM REDAÇÃO ANTERIOR À LEI N. 1.205/09). SUPOSTA VIOLAÇÃO AO ART. 619 DO CPP. ALEGADA INÉPCIA DA DENÚNCIA. INOCORRÊNCIA. SÚMULA 83 DO STJ. DEFICIÊNCIA NA QUALIDADE DO ÁUDIO DA GRAVAÇÃO DA AUDIÊNCIA. INCIDÊNCIA DA SÚMULA 7 DO STJ. SUPOSTA NULIDADE DE ATO PROCESSUAL. PRECLUSÃO. APONTADA AFRONTA AO ART. 386, VII, DO CPP. INCIDÊNCIA DA SÚMULA 7 DO STJ. AFASTAMENTO DA CONTINUIDADE DELITIVA. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7 DO STJ. DOSIMETRIA DA PENA. ART. 59 DO CÓDIGO PENAL. OCORRÊNCIA DE BIS IN IDEM. DECOTE DOS MAUS ANTECEDENTES. IMPOSSIBILIDADE. INQUÉRITOS E AÇÕES PENAIS EM ANDAMENTO. SÚMULA 444 DO STJ. DECOTE DA CULPABILIDADE. MANUTENÇÃO DA QUALIFICADORA E DA CONTINUIDADE DELITIVA. AGRAVO REGIMENTAL PARCIALMENTE PROVIDO PARA DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL E REDIMENSIONAR A PENA DO AGRAVANTE.
+1. O Magistrado não é obrigado a se pronunciar sobre todos os pontos aventados nos embargos de declaração. Precedentes.
+2. Não há que se falar em denúncia inepta nos autos, pois atendeu a todos os ditames do art. 41 do Código de Processo Penal - CPP.
+Incidência do enunciado n. 83 da Súmula do Superior Tribunal de Justiça - STJ.
+3. Alegada deficiência na qualidade de gravação da audiência. Não demonstração. Suposta nulidade. Enunciado n. 7 da Súmula STJ.
+4. Não arguição de nulidade de ato processual na primeira oportunidade de se manifestar nos autos. Preclusão.
+5. Suposta ofensa ao art. 386, VII, do CPP. Incidência do enunciado n. 7 da Súmula/STJ.
+6. Continuidade delitiva. Inafastabilidade. Incidência enunciado n. 7 da Súmula/STJ.
+7. Revisão da dosimetria. Necessidade. Ocorrência de bis in idem.
+8. Nos termos do enunciado n. 444 da Súmula desta Corte, processos penais em curso, sentenças condenatórias não transitadas em julgado e indiciamento em inquéritos policiais não constituem maus antecedentes, nem podem ser utilizados para valorar negativamente a personalidade do agente. No caso, o decote do quantum de acréscimo da pena-base pela circunstância judicial dos antecedentes criminais mostra-se necessário.
+9. Agravo regimental parcialmente provido para dar parcial provimento ao recurso especial e redimensionar a pena do agravante, nos termos do voto.
+(AgRg no AREsp n. 982.552/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 16/5/2017, DJe de 24/5/2017.)
+Ademais, ainda que condenações anteriores transitadas em julgado e já alcançadas pelo período depurador quinquenal não possam ser utilizadas a título de reincidência, nada impede sejam apreciadas a título de maus antecedentes. Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PRINCÍPIO DA COLEGIALIDADE. AUSÊNCIA DE OFENSA. DECISÃO PROFERIDA COM OBSERVÂNCIA DO RISTJ E DO CPC. REGIME FECHADO. PENA INFERIOR A 8 ANOS DE RECLUSÃO. PENA-BASE ACIMA DO PATAMAR MÍNIMO. PRESENÇA DE CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. MAUS ANTECEDENTES. CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. AGRAVO REGIMENTAL IMPROVIDO.
+1. A prolação de decisão monocrática pelo ministro relator está autorizada não apenas pelo RISTJ, mas também pelo CPC. Nada obstante, como é cediço, os temas decididos monocraticamente sempre poderão ser levados ao colegiado, por meio do controle recursal, o qual foi efetivamente utilizado no caso dos autos, com a interposição do presente agravo regimental.
+2. Para a escolha do regime prisional mais adequado, sabe-se que a jurisprudência desta Corte firmou-se no sentido de que é necessária a apresentação de motivação concreta, fundada nas circunstâncias judiciais previstas no art. 59 do Código Penal, na primariedade do acusado e na gravidade concreta do delito, evidenciada esta última por um modus operandi que desborde dos elementos normais do tipo penal violado.
+3. No caso, não há se falar em regime diverso do fechado, uma vez que a pena é superior a 4 anos e a pena-base foi fixada acima do mínimo legal, em razão de circunstâncias judiciais desfavoráveis - A pena foi fixada acima do mínimo legal em razão dos maus antecedentes e a Colenda Corte Suprema pacificou entendimento de que o período depurador da reincidência não se aplica aos maus antecedentes (e-STJ fls. 47). Assim, nos termos do art. 33, § § 2º e 3º do Código Penal, o regime fechado se mostra mais adequado.
+4. Agravo regimental improvido.
+(AgRg no HC n. 804.312/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 14/3/2023, DJe de 17/3/2023.)
+Quanto ao pleito de abrandamento do regime prisional, ainda que a pena tenha sido fixada abaixo de 4 anos, encontra-se justificado o regime semiaberto em razão da reincidência. Confira-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO QUALIFICADO. ALEGADO CONSTRANGIMENTO ILEGAL EM RAZÃO DO REGIME PRISIONAL INICIALMENTE FIXADO. PACIENTE REINCIDENTE. PENA INFERIOR A 4 ANOS DE RECLUSÃO. REGIME PRISIONAL INICIALMENTE SEMIABERTO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Considera da a pena fixada, inferior a 4 anos de reclusão, mas, de outro lado, tendo em vista a reincidência do paciente, é correta a aplicação do regime prisional inicialmente semiaberto, conforme previsto no art. 33, §§ 2º e 3º, do Código Penal e o disposto no enunciado n. 269 da Súmula desta Corte.
+2. Agravo regimental desprovido.
+(AgRg no HC n. 808.216/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23/3/2023, DJe de 28/3/2023.)
+Outrossim, não cabe falar em substituição da pena privativa de liberdade por restritiva de direitos, em razão do disposto no art. 44, II e III, do CP.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Publique-se.
+Intimem-se.
