@@ -1,0 +1,10 @@
+DECISÃO
+O presente writ, impetrado em benefício de Sandro Castro da Silva - preso preventivamente pela prática, em tese, dos crimes de homicídio qualificado e furto -, em que se aponta como autoridade coatora o Tribunal de Justiça de Pernambuco (Habeas Corpus n. 0023877-18.2022.8.17.9000), não comporta processamento.
+Com efeito, busca a impetração o relaxamento da prisão cautelar imposta ao paciente pelo Juízo de Direito da Vara do Tribunal do Júri da comarca de Olinda/PE (Ação Penal n. 00016815-80.2020.8.17.2990 ), ao argumento de excesso de prazo na formação da culpa, uma vez que o acusado se encontra custodiado desde 27/1/2021, sem que tenha sido encerrada a ação penal.
+Ocorre que, além de não se verificar desídia do Judiciário no impulsionamento da ação penal, as informações dão conta que a denúncia foi recebida em 27/1/2021, momento em que foi decretada a preventiva. Citado, o paciente apresentou defesa. O juízo de origem reavaliou e manteve a prisão e designou audiência de instrução e julgamento para o dia 26 de maio de 2023 (fl. 144 - grifo nosso). Deve-se ressaltar que o prazo para a conclusão da instrução criminal não tem as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade para definir o excesso de prazo, não se ponderando a mera soma aritmética dos prazos para os atos processuais (AgRg no RHC n. 173.200/RO, Ministro Messod Azulay Neto, Quinta Turma, DJe 22/2/2023).
+Assim, evidenciado que há audiência de instrução e julgamento designada para data próxima, conclui-se que eventual desídia não pode ser imputada exclusivamente ao Poder Judiciário, ao menos neste momento.
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO E FURTO. PRISÃO PREVENTIVA. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. INEXISTÊNCIA DE DESÍDIA DO JUDICIÁRIO. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
