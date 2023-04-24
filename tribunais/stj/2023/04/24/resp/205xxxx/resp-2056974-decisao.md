@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de recurso especial interposto por ESTADO DE GOIAS, com fundamento no art. 105, III, da Constituição Federal, contra acórdão assim ementado:
+EMENTA: AGRAVO DE INSTRUMENTO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. DIFERENÇAS SALARIAIS DOS POLICIAIS CIVIS. EXCESSO DE EXECUÇÃO NÃO CONFIGURADO. DECISÃO MANTIDA.
+I. O reajuste salarial dos policiais civis do Estado de Goiás, previstos nas Leis Estaduais nos 18.419, 18.420 e 18.421, todas de 2014, é totalizado a partir do somatório dos percentuais previstos nas normas, ressalvada a vigência, uma vez que a recomposição de vencimentos é de natureza cumulativa.
+II. O título executivo formado na Ação Coletiva nº 0440990-61 deve ser liquidado em observância às alterações trazidas pela Lei Estadual nº 19.122/2015, de modo que o reajuste de 12,33% não incorporado ao vencimento do servidor em novembro de 2015 implicou defasagem salarial na base de cálculo dos reajustes subsequentes.
+III. Inexiste excesso de execução dos cálculos apresentados e homologados pela parte exequente, sendo que o reajuste determinado na sentença coletiva exequenda deve incidir na diferença salarial sobre os anos em que não estava implementada.
+AGRAVO DEINSTRUMENTO CONHECIDO MAS IMPROVIDO.
+No presente recurso especial, o recorrente apontou violação de dispositivos de lei federal.
+É o relatório. Decido.
+Em relação à alegada omissão, contrariedade ou contradição suscitada no presente recurso especial, o recorrente limitou-se a afirmar, em linhas gerais, que o acórdão recorrido incorreu em nulidade ao deixar de se pronunciar adequadamente acerca das questões apresentadas nos embargos de declaração, fazendo-o de forma genérica, sem desenvolver argumentos para demonstrar especificamente a suposta mácula.
+Nesse panorama, a arguição genérica de nulidade pelo recorrente atrai o comando do Enunciado Sumular n. 284/STF, inviabilizando o conhecimento dessa parcela recursal.
+Sobre o assunto, confiram-se:
+ADMINISTRATIVO. REDIRECIONAMENTO DE EXECUÇÃO FISCAL DE NATUREZA NÃO TRIBUTÁRIA. DISSOLUÇÃO IRREGULAR NÃO COMPROVADA. REEXAME DE PROVAS. SÚMULA N. 7/STJ. IMPOSSIBILIDADE. VIOLAÇÃO DO ART. 535 DO CPC/73. ALEGAÇÃO GENÉRICA. SÚMULA N. 284/STF.
+I - Não se conhece do recurso especial com alegação genérica de violação do art. 535 do Código de Processo Civil de 1973. Incidência do enunciado n. 284 da Súmula do STF. Necessidade de reexame de fatos e provas para modificar o entendimento do Tribunal de origem quanto à regularidade da dissolução da sociedade empresária. Incidência do enunciado n. 7 da Súmula do STJ.
+II - Agravo interno improvido.
+(AgInt no AREsp n. 962.465/SP, Rel. Ministro Francisco Falcão, Segunda Turma, julgado em 6/4/2017, DJe 19/4/2017.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CSLL. MAJORAÇÃO DE ALÍQUOTA. VIOLAÇÃO DO ART. 535 DO CPC/73. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.
+1. A genérica alegação de ofensa ao art. 535 do CPC, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro, atrai o óbice da Súmula 284 do STF.
+2. É vedada a análise das questões que não foram objeto de efetivo debate pela Corte de origem, estando ausente o requisito do prequestionamento. Incidência da Súmula 211/STJ.
+3. Quanto à elevação da alíquota da CSLL, o aresto recorrido está em conformidade com a jurisprudência deste Tribunal Superior, que considera que a Instrução Normativa n. 81/99 não desbordou dos limites da MP 1.807/99.
+4. Agravo interno a que se nega provimento.
+(AgRg no AREsp n. 446.627/RJ, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 6/4/2017, DJe 17/4/2017.)
+Com efeito, a jurisprudência desta Corte Superior é firme no sentido de que, para modificar a conclusão a que chegou a Corte a quo sobre o limite e o alcance da coisa julgada na hipótese dos autos, é necessário reexame de provas, impossível ante o óbice da Súmula 7 do STJ.
+No mesmo sentido, mutatis mutandis:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTADUAL. AGENTE FISCAL. TRANSPOSIÇÃO DE CARGO. AUDITOR FISCAL. TEMA APRECIADO SOB ENFOQUE EMINENTEMENTE CONSTITUCIONAL. COMPETÊNCIA DO STF. OFENSA À COISA JULGADA. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. HONORÁRIOS ADVOCATÍCIOS. PEDIDO DE REDUÇÃO. SÚMULA 7/STJ. DECISÃO DA PRESIDÊNCIA MANTIDA.
+1. O acórdão impugnado possui como fundamento matéria eminentemente constitucional, porquanto o deslinde da controvérsia deu-se à luz do art. 37, II, da Constituição da República, bem como na inconstitucionalidade do art. 156, § 2º, da Lei Complementar Estadual 92/2002, que estendia aos inativos a transposição feita aos ativos do cargo de Agente Fiscal para Auditor Fiscal.
+2. Desse modo, a modificação do acórdão descabe na via estreita do Recurso Especial, pois implica usurpação da competência do Supremo Tribunal Federal.
+3. Ademais, quanto aos limites subjetivos e objetivos da coisa julgada, também sua apreciação não é permitida pelo STJ na via do Recurso Especial, pois infringe o disposto no enunciado da Súmula 7 do STJ.
+4. A jurisprudência do STJ é firme no sentido de que o quantum da verba honorária, em razão da sucumbência processual, está sujeito a critérios de valoração delineados na lei processual. Sua fixação é ato próprio dos juízos das instâncias ordinárias, e só pode ser alterada em Recurso Especial quando tratar de valor irrisório ou exorbitante, o que não se configura.
+5. Dessa forma, modificar o entendimento proferido pelo aresto confrontado implica reexame da matéria fático-probatória, o que é obstado ao STJ, conforme sua Súmula 7: "A pretensão de simples reexame de prova não enseja Recurso Especial." 6. Agravo Interno não provido.
+(AgInt no AREsp 1777064/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 24/05/2021, DJe 01/07/2021)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA PROFERIDA EM AÇÃO DE REPETIÇÃO DE INDÉBITO REFERENTE AO IMPOSTO DE RENDA RETIDO A MAIOR SOBRE RENDIMENTOS RECEBIDOS ACUMULADAMENTE, A TÍTULO DE DIFERENÇAS DE CONVERSÃO DE CRUZEIRO REAL PARA URV. ALEGADA NULIDADE DO ACÓRDÃO DOS EMBARGOS DE DECLARAÇÃO. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO ESPECIAL. SÚMULA 284/STF. ALEGADA VIOLAÇÃO AOS ARTS. 3º E 7º, § 1º, DA LEI 7.713/88, 46, § 2º, DA LEI 8.541/92, E 105, 106, 111, 144 E 176 DO CTN. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. ART. 1.025 DO CPC/2015. INAPLICABILIDADE, NO CASO. INVIABILIDADE DO RECURSO ESPECIAL, ADEMAIS, QUANTO À ALEGAÇÃO DE CONTRARIEDADE AOS ARTS. 502, 503 E 505 DO CPC/2015, POR SE TRATAR, NA ESPÉCIE, DE CONTROVÉRSIA DE NATUREZA FÁTICA, EM TORNO DA COISA JULGADA. CONSIDERAÇÕES A TÍTULO DE OBITER DICTUM. IRRELEVÂNCIA. AGRAVO INTERNO IMPROVIDO.
+(..)
+VI. Em relação à alegada violação aos arts. 502, 503 e 505 do CPC/2015, o Recurso Especial é inadmissível, por incidência, na espécie, da Súmula 7 do STJ, pois, de acordo com a jurisprudência dominante desta Corte, não havendo abstração de tese jurídica, mas controvérsia de natureza fática em torno da coisa julgada material, descabe ao STJ analisar, em sede de Recurso Especial, a alegação de ofensa às disposições processuais que disciplinam o instituto da coisa julgada, diante da indiscutível necessidade de reexame do contexto-fático probatório dos autos.
+(..)
+VIII. Agravo interno improvido.
+(AgInt no AgInt no AREsp 1548963/RS, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 03/05/2021, DJe 06/05/2021)
+No mais, verifica-se que a análise dos argumentos do ora Recorrente demanda interpretação de legislação local, in casu, as Leis Estaduais ns. 18.419/2014, 18.420/2014 e 18.421/2014, o que implica a inviabilidade do recurso especial, aplicando-se, por analogia, o teor do Enunciado n. 280 da Súmula do STF, que assim dispõe: "Por ofensa a direito local não cabe recurso extraordinário".
+Nesse diapasão, confiram-se:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. LEGISLAÇÃO LOCAL. DISPOSITIVO DA CONSTITUIÇÃO FEDERAL. VIOLAÇÃO. ANÁLISE. INVIABILIDADE. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. ART. 85 DO CPC/2015. VIOLAÇÃO. ARGUIÇÃO GENÉRICA. DIVERGÊNCIA JURISPRUDENCIAL. REQUISITOS. INEXISTÊNCIA.
+1. Conforme estabelecido pelo Plenário do STJ, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma nele prevista (Enunciado Administrativo 3).
+2. Nos termos da Súmula 280 do STF, é defeso o exame de lei local em sede de recurso especial.
+3. O recurso especial não é remédio processual adequado para conhecer de irresignação fundada em suposta afronta a preceito constitucional, sendo essa atribuição da Suprema Corte, em sede de recurso extraordinário (art. 102, III, da CF).
+4. Infirmar as razões do apelo nobre, a fim de acolher a tese de ofensa do art 2º da Lei 9.784/1999, encontra óbice na Súmula 7 do STJ.
+5. É deficiente de fundamentação alegação de tese recursal genérica e deficiente. Incidência da Súmula 284 do STF.
+6. Esta Corte tem o entendimento de que é inadmissível o recurso especial que, a despeito de fundamentar-se em dissídio jurisprudencial, deixa de atender os requisitos necessários para sua comprovação.
+7. Agravo interno desprovido
+(AgInt no REsp 1690029/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 08/09/2020, DJe 16/09/2020.)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO AO AGRAVO EM RECURSO ESPECIAL. OFENSA AOS ARTIGOS 489, § 1º, INCISOS IV E VI, E 1.022, INCISOS I E III, TODOS DO CPC/2015. IPTU. BASE DE CÁLCULO. PRINCÍPIO DA LEGALIDADE. ART. 97 DO CTN. REPRODUÇÃO DE NORMA CONSTITUCIONAL. LEI ESTADUAL. LEI LOCAL. SÚMULA 280/STF.
+1. Deveras, não há falar, na hipótese, em violação aos arts. 489, § 1º, IV e VI, e 1.022, I e II, do CPC/2015, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão proferido em sede de Embargos de Declaração apreciaram fundamentadamente, de modo c oerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+2. Ademais, verifica-se que o Tribunal de origem, ao julgar o recurso de Apelação, solucionou a questão com base em legislação local (Lei Complementar n. 2.572/2012), Assim, o exame da matéria demanda análise de Direito local, razão por que incide, por analogia, a Súmula 280 do STF: "por ofensa a direito local não cabe recurso extraordinário".
+3. Agravo interno não provido.
+(AgInt no AREsp 1304409/DF, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 31/08/2020, DJe 04/09/2020.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Publique-se. Intimem-se.
