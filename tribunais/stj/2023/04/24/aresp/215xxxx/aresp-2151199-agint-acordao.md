@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/04/2023 a 24/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto por CAPEMISA SEGURADORA DE VIDA E PREVIDÊNCIA S.A. contra decisão singular, da Presidência desta Corte Superior, que não conheceu do agravo em recurso especial, nos termos dos artigos 21-E, V, e 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça (RISTJ), por entender aplicável o óbice das Súmula 182/STJ, a qual foi proferida nos seguintes termos (e-STJ fls. 364-366):
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: Súmula 83/STJ. Entretanto, a parte agravante deixou de impugnar especificamente o referido fundamento. Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+ ..
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ.
+Ante o exposto, com base no art. 21-E, inciso V, c/c o art. 253, parágrafo único, inciso I, ambos do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Nas razões do presente recurso, a agravante alega que teria impugnado especificamente o óbice da Súmula 83/STJ no agravo de instrumento interposto contra a decisão que não admitiu o recurso especial.
+Desse modo, questiona a pertinência da Súmula 182/STJ na decisão que não conheceu do agravo em recurso especial.
+Quanto ao mais, reitera a tese sustentada no recurso especial, no sentido de que o prazo de prescrição do beneficiário de seguro de pessoa contra o segurador seria de 3 anos, a teor do que previsto no artigo 206, § 3º, IX, do Código Civil.
+A contraminuta foi apresentada às fls. 377-380 (e-STJ), pontuando o agravado que a argumentação genérica é insuficiente para cumprir o ônus da dialeticidade, de modo que deveria ser aplicado de fato o óbice da Súmula 182/STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO NO RECURSO ESPECIAL.SÚMULA N. 83/STJ. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 182/STJ E ART. 932, III, DO CPC.
+1. Para impugnar a decisão agravada que adota julgado desta Corte como razões de decidir cabe à parte recorrente demonstrar que outra é a positivação do direito na jurisprudência desta Corte, com a indicação de precedentes contemporâneos ou supervenientes.
+2. Não havendo impugnação específica acerca de todos os fundamentos da decisão que deixou de admitir o recurso especial, deve ser aplicado, por analogia, o teor da Súmula 182 deste Tribunal Superior.
+3. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (RELATORA):
+O inconformismo não merece acolhida.
+A recorrente manifestou agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa (e-STJ, fl. 267):
+AÇÃO DE COBRANÇA. SEGURO DE VIDA FACULTATIVO. AJUIZAMENTO POR BENEFICIÁRIO NÃO ESTIPULANTE. PRESCRIÇÃO. PRAZO DECENAL. ART. 205, DO CÓD. CIVIL. PRAZO TRIENAL, DO ART. 206, §3º, IX, DO CÓD. CIVIL. INAPLICABILIDADE. RESTRIÇÃO ÀS AÇÕES DECORRENTES DE SEGURO DE RESPONSABILIDADE CIVIL OBRIGATÓRIO. PRESCRIÇÃO. INCORRÊNCIA. RECURSO IMPROVIDO. SENTENÇA MANTIDA.- Ajuizada a ação pelos beneficiários não estipulantes de seguro de vida facultativo, aplica-se o prazo prescricional decenal estabelecido no art. 205 do Código Civil, e não o prazo trienal estipulado art. 206, §3º, IX, que se restringe às ações decorrentes de seguro de responsabilidade civil obrigatório.
+Alegaram, na ocasião, violação dos artigos 206, § 3º, IX, do Código Civil e 27 do Código de Defesa do Consumidor, argumentando que o prazo de prescrição referente à pretensão do beneficiário do seguro de vida contra o segurador seria o trienal.
+O recurso especial não foi admitido, com base no óbice da Súmula 83/STJ, inclusive com menção ao precedente atual do STJ que estaria em conformidade com a orientação adotada pela Corte local. A propósito, extraio da decisão agravada (e-STJ, fl. 335):
+O apelo, no entanto, é inviável, uma vez que a Turma Julgadora decidiu em consonância com a jurisprudência da Corte destinatária, acatando e aplicando seu entendimento hermenêutico para as matérias em foco, como se vê a seguir:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. SEGURO DE VIDA. AÇÃO DE COBRANÇA. TERCEIRO BENEFICIÁRIO. PRESCRIÇÃO. PRAZO DECENAL. 1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).(..) 3. Esta Corte Superior possui entendimento firmado no sentido de que o prazo para a propositura de ação indenizatória contra a seguradora pelo terceiro beneficiário de contrato de seguro de vida em grupo é decenal,nos termos do art. 205 do CC/2002. O prazo para o próprio segurado é aquele estabelecido no art. 206, § 1º, II, do CC/2002 e para o beneficiário de seguro obrigatório (DPVAT) é o do art. 206, § 3º, IX, do CC/2002.4. Agravo interno não provido." (AgInt noAREsp 178.910/MG, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 19/06/2018, DJe 25/06/2018).
+Para hipóteses como a presente, editou-se a Súmula 83/STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida"  ..
+Nas razões do agravo de instrumento, verifica-se que o agravante limita-se a mencionar a contrariedade quanto à aplicação do óbice da Súmula 83/STJ.
+De todo modo, não há menção nem sequer isolada a um precedente do STJ nas razões do agravo de instrumento (e-STJ, fls. 369-375), de modo que a conclusão pela inaplicabilidade do preceito sumular é trivial, redundando em tautologia.
+Deve ser considerado que a incidência da Súmula 83/STJ deve ser impugnada mediante a colação de julgados desta Corte contemporâneos ou supervenientes aos que fundamentaram a decisão recorrida, demonstrando-se que outro é o entendimento desta Corte Superior, sob pena de não conhecimento do agravo em recurso especial.
+A propósito:
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO MONITÓRIA - PRESCRIÇÃO - TERMO INICIAL - ENTRADA EM VIGOR DO NOVO CÓDIGO CIVIL - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DA RÉ.
+1. "É inviável o agravo do art. 545 do CPC/73 que deixa de atacar especificamente os fundamentos da decisão agravada" (Súmula 182/STJ). Inteligência, outrossim, do disposto no artigo 1.021, § 1º, do NCPC.
+2. "Quando o inconformismo excepcional não é admitido com fundamento no enunciado n. 83 da Súmula do Superior Tribunal de Justiça, a impugnação deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida, demonstrando-se que outro é o entendimento jurisprudencial desta Corte. (Cf. AgRg nos EDcl no REsp 1494189/DF, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 23/02/2016, DJe 03/03/2016)
+3. Agravo interno não conhecido.
+(AgInt no AREsp n. 816.995/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 14/2/2017, DJe de 20/2/2017.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. 1. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INOBSERVÂNCIA DO ART. 1.021, § 1º, DO CPC/2015. INCIDÊNCIA DA SÚMULA N. 182/STJ. 2. RECURSO INADMITIDO, COM FULCRO NA SÚMULA 83/STJ. IMPUGNAÇÃO DEVE INDICAR PRECEDENTES CONTEMPORÂNEOS OU SUPERVENIENTES AOS APRESENTADOS NO JULGADO. 3. LITIGÂNCIA DE MÁ-FÉ. INEXISTÊNCIA. 4. PEDIDO DE NOVA CONDENAÇÃO AO PAGAMENTO DE HONORÁRIOS RECURSAIS. IMPOSSIBILIDADE. VERBA JÁ CONTEMPLADA NA DECISÃO MONOCRÁTICA. 5. AGRAVO INTERNO NÃO CONHECIDO.
+1. Viola-se o princípio da dialeticidade recursal quando as razões do agravo interno deixam de infirmar especificadamente os fundamentos da decisão agravada. A inobservância do preceito contido no art. 1.021, § 1º, do CPC/2015 atrai a aplicação da Súmula n. 182/STJ.
+2. Nos casos em que o recurso não é admitido com fundamento no enunciado n. 83 da Súmula do Superior Tribunal de Justiça, a impugnação deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida, demonstrando-se que outro é o entendimento jurisprudencial desta Corte.
+3. Conforme a jurisprudência do Superior Tribunal de Justiça: a interposição de recursos cabíveis não implica "litigância de má-fé nem ato atentatório à dignidade da justiça, ainda que com argumentos reiteradamente refutados pelo Tribunal de origem ou sem alegação de fundamento novo" (AgRg nos EDcl no REsp n. 1.333.425/SP, Relatora a Ministra Nancy Andrighi, DJe 4/12/2012).
+4. Fixados os honorários recursais no primeiro ato decisório, não cabe novo arbitramento nas demais decisões que derivarem de recursos subsequentes, apenas consectários do principal, tais como agravo interno e embargos de declaração.
+5. Agravo interno não conhecido.
+(AgInt no AREsp n. 1.354.487/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 18/3/2019, DJe de 22/3/2019.)
+Em face do exposto, nego provimento ao agravo interno.
+É o voto.
