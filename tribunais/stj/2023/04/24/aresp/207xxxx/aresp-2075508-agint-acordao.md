@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/04/2023 a 24/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+EMKAL EMPREENDIMENTOS LTDA e OUTRA interpõem agravo interno contra a decisão de fls. 457-460, que negou provimento ao agravo em recurso especial em razão da inexistência de violação do art. 1.022 do CPC e da incidência da Súmula n. 7 do STJ.
+Nas razões do presente recurso, a parte agravante insiste na tese de violação do art. 1.022 do CPC. Defende não ser aplicável à espécie referido óbice sumular.
+Alega que o agravado (fl. 467):
+ ..  agiu de forma totalmente contraditória e desleal perante as Agravantes, incluindo o nome destas em cadastros de inadimplentes enquanto as partes renegociavam contrato e ele próprio orientava as ações daquelas para finalização da renegociação  .. .
+Requer, assim, seja reconsiderada a decisão agravada ou seja o agravo submetido ao colegiado.
+A parte agravada apresentou impugnação às fls. 472-479.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. OFENSA AO ART. 1.022 DO CPC. NÃO VERIFICAÇÃO. INDENIZAÇÃO. DANOS MORAIS. BOA-FÉ. REVISÃO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Inexiste ofensa ao art. 1.022 do CPC quando o tribunal de origem aprecia, com clareza e objetividade e de forma motivada, as questões que delimitam a controvérsia, ainda que não acolha a tese da parte insurgente.
+2. Não se admite a revisão do entendimento do tribunal de origem quando a situação de mérito demandar o reexame do acervo fático-probatório dos autos, tendo em vista a incidência do óbice da Súmula n. 7 do STJ.
+3. Agravo interno desprovido.
+VOTO
+A irresignação não reúne condições de prosperar.
+Reitere-se que, conforme exposto na decisão de fls. 457-460, foi afastada a alegada ofensa ao art. 1.022 do CPC, porquanto a Corte de origem examinou e decidiu, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+Esclareça-se que o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+No caso, o Tribunal de origem debateu, de forma explícita que inexistiram provas da suposta renegociação entre as partes, não havendo, portanto, que se falar em comportamento contrário à boa-fé da parte agravada ao incluir os nomes das agravantes no cadastro de inadimplentes. Observe-se trechos do julgado (fls. 367-368):
+Da simples leitura desse julgado verifica-se que, bem ou mal, certo ou errado, o que fez a Turma Julgadora, diferentemente de se omitir, foi, analisando os elementos de prova existentes nos autos, entender pela inexistência de prova da alegada renegociação, representando as correspondências eletrônicas trocadas entre as partes - cujas cópias foram anexadas ao caderno probatório - meras tratativas, que não chegaram a se formalizar.
+Acrescentou-se que, para a alteração do que fora contratado de modo formal, fazia-se necessária, em caso de repactuação, a observância da forma original do ajuste, o que não foi comprovado.
+No tocante à alegada violação do art. 422 do Código Civil, a Corte a quo, baseada nas premissas fáticas dos autos, concluiu que não restou comprovada a suposta renegociação da dívida, sendo legítima a inscrição do nome dos devedores no serviço de proteção ao crédito e que, por conseguinte, inexistia a obrigação de indenizar.
+Confira-se (fls. 340-342, destaquei):
+Como se vê, ao contrário do alegado pelas Apeladas, não houve, por parte do Réu, aprovação do pedido de refinanciamento da dívida, inexistindo, nos autos, qualquer outra prova em tal sentido. Tanto assim que, novamente, a teor das correspondências eletrônicas trocadas pelas partes - especialmente a envidada em 09 de abril de 2014 - foi informado, ao representante da empresa Apelada, o vencimento da operação de financiamento.
+ ..
+O que, na realidade, está demonstrado nos autos, é que houve, entre as Autoras, ora Apeladas, e o Réu, ora Apelante - meras tratativas no sentido do refinanciamento do débito correspondente a contrato de mútuo firmado entre as partes, mas que, ao final, não foi concedido esse pleito, apresentado por aquelas.
+Registre-se que, tendo sido o contrato de mútuo firmado por escrito, qualquer modificação dele haveria de seguir a mesma forma, por meio de outro instrumento, da mesma forma assinado pelas Autoras e por representantes legais do Réu, o que não ocorreu.
+Às Autoras, ora Apeladas, incumbia fazer a prova dos fatos alegados como constitutivos de seu direito, a teor do disposto no ad. 373, inciso 1, do Código de Processo Civil.
+Elas, entretanto, não se desincumbiram desse ônus, mediante demonstração da irregularidade dos apontamentos restritivos de crédito promovidos pelo Réu, que dependia da prova de ter sido efetivamente concedido o refinanciamento do débito, relativo ao contrato de mútuo firmado entre as partes, cujas parcelas deixaram de ser pagas.
+É importante observar que esse apontamento restritivo somente foi realizado em 04.05.2014, ou seja, após o vencimento, sem que fosse quitado, do contrato supramencionado, o que se deu em 01.04.2014.
+ ..
+Se o credor, assim, promove apontamento restritivo de crédito fundado em dívida vencida e não quitada, agindo no exercício regular de seu direito, não há falar-se em obrigação de indenizar o devedor.
+E ainda (fls. 367-368):
+Da simples leitura desse julgado verifica-se que, bem ou mal, certo ou errado, o que fez a Turma Julgadora, diferentemente de se omitir, foi, analisando os elementos de prova existentes nos autos, entender pela inexistência de prova da alegada renegociação, representando as correspondências eletrônicas trocadas entre as partes - cujas cópias foram anexadas ao caderno probatório - meras tratativas, que não chegaram a se formalizar.
+Acrescentou-se que, para a alteração do que fora contratado de modo formal, fazia-se necessária, em caso de repactuação, a observância da forma original do ajuste, o que não foi comprovado.
+Nesse contexto, para modificar as conclusões do Tribunal de origem a respeito da existência de comportamento contrário à boa-fé por parte da instituição financeira ora agravada e reconhecer a configuração dos pressupostos para a concessão da indenização por danos morais, seria necessário reexame do contexto fático-probatório dos autos, procedimento vedado na via do recurso especial, em face da Súmula n. 7 do STJ.
+A propósito, os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE DÉBITO CUMULADA COM REPETIÇÃO DE INDÉBITO E INDENIZAÇÃO POR DANOS MORAIS. CONTRATO DE EMPRÉSTIMO. PESSOA IDOSA, INDÍGENA E ANALFABETA. COMPROVAÇÃO DA DISPONIBILIZAÇÃO DO NUMERÁRIO À AUTORA. VÍNCULO CONTRATUAL RECONHECIDO PELO TRIBUNAL DE ORIGEM. MATÉRIA DE PROVA. SÚMULA 7/STJ. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL NÃO PROVIDO.
+1. Agravo interno contra decisão da Presidência que não conheceu do agravo em recurso especial, por ausência de impugnação específica dos fundamentos da decisão que inadmitiu o recurso especial. Reconsideração.
+2. O Tribunal de origem concluiu, diante do contexto fático-probatório contido nos autos, que não se configuraram danos morais em razão da comprovação da validade da relação jurídica entre as partes, porquanto os documentos apresentados pelo recorrido fazem prova acerca da contratação de empréstimo e a disponibilização do produto ao mutuário. A alteração desse entendimento demandaria o reexame do conjunto fático-probatório dos autos, vedado em recurso especial (Súmula 7/STJ).
+3. Agravo interno provido para reconsiderar a decisão agravada e, em novo julgamento, conhecer do agravo para negar provimento ao recurso especial. (AgInt no AREsp n. 1.555.559/MS, Quarta Turma, relator Ministro Raul Araújo, julgado em 11/2/2020, DJe de 3/3/2020.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO ANULATÓRIA C/C REPETIÇÃO DE INDÉBITO E INDENIZAÇÃO POR DANOS MORAIS. 1. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. 2. EMPRÉSTIMO EFETIVAMENTE FIRMADO E RECEBIDO. NÃO COMPROVAÇÃO DE NENHUM VÍCIO A ENSEJAR A NULIDADE DO NEGÓCIO JURÍDICO. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. 3. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. SITUAÇÕES DISTINTAS. 4. AGRAVO INTERNO IMPROVIDO.
+1. Para que se configure o prequestionamento da matéria, ainda que implícito, há que se extrair do acórdão recorrido pronunciamento acerca das teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal.
+2. O Tribunal de origem concluiu que, no caso concreto, não existe vício de vontade a ensejar a nulidade do empréstimo concedido, deixando assente que o contrato foi celebrado na presença de duas testemunhas e os valores foram transferidos para a conta do agravante. Afastar tal conclusão necessariamente demandaria incursão no conjunto probatório dos autos, situação vedada em recurso especial, nos termos da Súmula n. 7/STJ.
+3. Para a demonstração da divergência, não basta a simples transcrição da ementa ou voto do acórdão paradigma. De fato, faz-se necessário o cotejo analítico entre o aresto recorrido e o divergente, com a explicitação da identidade das situações fáticas e a interpretação diversa emprestada ao mesmo dispositivo de legislação infraconstitucional, situação que não ficou configurada no recurso especial interposto pelo agravante.
+4. Agravo interno improvido. (AgInt no AREsp n. 1.618.615/PB, Terceira Turma, relator Ministro Marco Aurélio Bellizze, julgado em 31/8/2020, DJe de 8/8/2020.)
+Por fim, a parte agravante não logrou êxito em demonstrar situação superveniente que justificasse a alteração da decisão agravada.
+Ante o exposto, nego provimento ao agravo interno .
+É o voto.
