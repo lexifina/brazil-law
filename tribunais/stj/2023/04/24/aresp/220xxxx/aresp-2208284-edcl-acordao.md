@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/04/2023 a 24/04/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por CONSTRUÇÃO 30 SPE EMPREENDIMENTO IMOBILIÁRIO LTDA. e UE UNIÃO ENGENHARIA LTDA. (CONSTRUÇÃO 30 SPE e outra), contra acórdão de minha relatoria, assim ementado:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO DE CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL CUMULADA COM RESTITUIÇÃO DE VALORES. FORMAÇÃO DE LITISCONSÓRCIO PASSIVO NECESSÁRIO COM A CEF. INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL E REEXAME DE MATÉRIA FÁTICA. DESCABIMENTO. APLICAÇÃO DAS SÚMULAS N.os 5 E 7 DO STJ. ESCRITURA PÚBLICA COM PACTO ADJETO DE ALIENAÇÃO FIDUCIÁRIA. MORA DA INCORPORADORA. RESOLUÇÃO DO CONTRATO. POSSIBILIDADE. PRECEDENTES. SÚMULA N.º 568 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Consoante o entendimento desta Corte, a eventual legitimidade passiva da CEF está relacionada à natureza da sua atuação no contrato firmado: é responsável se atuar como agente executor de políticas federais para a promoção de moradia para pessoas de baixa renda, quando tiver escolhido a construtora ou tiver qualquer responsabilidade relativa ao projeto; não o é se atuar meramente como agente financeiro. Precedentes.
+2. No caso em apreço, o Tribunal estadual concluiu que a empresa pública agiu apenas como agente financeiro do empreendimento imobiliário, ou seja, como mera credora fiduciária, no contrato de financiamento para a realização da obra firmado com o ora recorrente.
+Desse modo, a revisão do julgado encontra óbice nas Súmulas n.ºs 5 e 7 do STJ.
+3. Consoante precedentes das Turmas que integram a eg. Segunda Seção, as disposições da Lei n.º 9.514/97, que disciplinam a alienação fiduciária na compra e venda de imóvel, só são aplicáveis à hipótese em que o devedor fiduciante não paga, no todo ou em parte, a dívida, e é constituído em mora, o que não é o caso dos autos, uma vez que, conforme apurado pelas instâncias ordinárias, foi a incorporadora que deixou de entregar a infraestrutura no prazo prometido. Incidência da Súmula n.º 568 do STJ.
+4. Agravo interno não provido.
+Nas razões do presente inconformismo, alegaram a existência de omissão/erro de fato, uma vez que a resolução do contrato de compra e venda do imóvel implica em extinção da garantia real da qual a CEF é titular, sendo impositiva, portanto, a remessa dos autos para a Justiça Federal, a quem compete decidir sobre o interesse da referida empresa pública na causa.
+Não foi apresentada contraminuta (e-STJ, fl. 1.072).
+É o relatório.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO DE CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL. FORMAÇÃO DE LITISCONSÓRCIO PASSIVO NECESSÁRIO COM A CEF. INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL E REEXAME DE MATÉRIA FÁTICA. DESCABIMENTO. APLICAÇÃO DAS SÚMULAS N.os 5 E 7 DO STJ. VIOLAÇÃO DO ART. 1.022 DO NCPC. OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Os aclaratórios são espécie de recurso de fundamentação vinculada, exigindo para seu conhecimento a indicação de erro material, obscuridade, contradição ou omissão em que teria incorrido o julgador (art. 1.022 do NCPC), não se prestando a novo julgamento da causa.
+2. No caso, o acórdão embargado não apresentou os vícios apontados, tendo corroborado a conclusão do Tribunal estadual de que a Caixa Econômica Federal agiu apenas como agente financeiro do empreendimento imobiliário, ou seja, como mera credora fiduciária, no contrato de financiamento para a realização da obra firmado com as ora recorrentes. Desse modo, a revisão do julgado, com o consequente acolhimento da pretensão recursal, encontra óbice nas Súmulas n.ºs 5 e 7 do STJ.
+3. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração não comportam acolhimento.
+Da inexistência de violação do art. 1.022 do NCPC
+De acordo com a jurisprudência desta Corte, a contradição ou a obscuridade remediáveis por embargos de declaração são aquelas internas ao julgado embargado, em razão da desarmonia entre a fundamentação e as conclusões da própria decisão.
+Já a omissão que enseja o oferecimento de embargos de declaração consiste na falta de manifestação expressa sobre algum fundamento de fato ou de direito ventilado nas razões recursais e sobre o qual deveria manifestar-se o juiz ou o tribunal e que, nos termos do NCPC, é capaz, por si só, de infirmar a conclusão adotada para o julgamento do recurso (arts. 1.022 e 489, § 1º, do NCPC).
+Nas razões deste aclaratório, CONSTRUÇÃO 30 SPE e outra alegaram a existência de omissão/erro de fato, uma vez que a resolução do contrato de compra e venda do imóvel implica em extinção da garantia real da qual a CEF é titular, sendo impositiva, portanto, a remessa dos autos para a Justiça Federal, a quem compete decidir sobre o interesse da referida empresa pública na causa.
+Contudo, sem razão.
+Há que se destacar que o acórdão embargado não foi obscuro, omisso ou contraditório, tampouco apresentou erro material ao concluir, fundamentadamente, que, no caso em apreço, o Tribunal estadual concluiu que a empresa pública agiu apenas como agente financeiro do empreendimento imobiliário, ou seja, como mera credora fiduciária, no contrato de financiamento para a realização da obra firmado com as ora recorrentes. Desse modo, a revisão do julgado, com o consequente acolhimento da pretensão recursal, encontra óbice nas Súmulas n.ºs 5 e 7 do STJ.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. ATRASO NA ENTREGA DA OBRA. AUSÊNCIA DE PREQUESTIONAMENTO DAS MATÉRIAS ALEGADAS. SÚMULA 211 DO STJ. ILEGITIMIDADE E IRRESPONSABILIDADE DA CEF PARA RESPONDER PELAS PRETENSÕES DE DANOS MATERIAIS E MORAIS. ATUAÇÃO COMO MERO AGENTE FINANCEIRO. SÚMULA 7 DO STJ. HONORÁRIOS ADVOCATÍCIOS. FUNDAMENTO NÃO IMPUGNADO. SÚMULAS 283 E 284 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. As matérias previstas no art. 9º da Lei nº 11.977/2009, art. 25, § 1º, do Código de Defesa do Consumidor, art. 933, do Código de Processo Civil, e art. 724 do Código Civil, não foram objeto de debate no acórdão recorrido, nem nos embargos de declaração opostos. A falta do necessário prequestionamento inviabiliza o exame da alegada contrariedade ao dispositivo citado por este Tribunal, em sede de especial. Incidência na espécie da Súmula 211/STJ.
+2. Para desconstituir a convicção formada pelas instâncias ordinárias de que a atuação da Caixa Econômica Federal no negócio jurídico cingiu-se ao financiamento do imóvel e, nessa condição de agente financeiro, apenas possibilitou a aquisição do bem mediante a concessão do crédito, far-se-ia necessário incursionar no substrato fático-probatório dos autos, bem como na interpretação de cláusula contratual, o que é defeso a este Tribunal nesta instância especial, conforme se depreende do teor dos Enunciados sumulares n. 5 e 7 do STJ.
+3.  ..
+4. Agravo interno não provido.
+(AgInt no REsp 1.801.437/RN, Rel. MInistro LUIS FELIPE SALOMÃO, Quarta Turma, j. 13/12/2021, DJe 15/12/2021)
+Dessa forma, a mera veiculação de inconformismo com o resultado do julgamento, que a parte reputa lhe ter sido desfavorável, não é finalidade a que se presta a via eleita.
+A propósito, confiram-se os precedentes:
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS CUMULADA COM PEDIDOS DE OBRIGAÇÃO DE FAZER E COMPENSAÇÃO POR DANOS MORAIS. CONTRADIÇÃO. OMISSÃO. OBSCURIDADE. NÃO OCORRÊNCIA. REFORMA DO JULGADO. IMPOSSIBILIDADE.
+1. Ação de indenização por danos materiais cumulada com pedidos de obrigação de fazer e compensação por danos morais.
+2. Os embargos de declaração, a teor do art. 1.022 do CPC, constitui- se em recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição ou omissão não podendo, portanto, serem acolhidos quando a parte embargante pretende, essencialmente, reformar o decidido.
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp 1.524.835/SE, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, j. em 17/2/2020, DJe 19/2/2020 - sem destaque no original)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE QUALQUER DOS VÍCIOS ELENCADOS NO ART. 1.022 DO CPC/2015. MERO INCONFORMISMO. IMPUGNAÇÃO DE DECISÃO ANTERIOR AO JULGAMENTO PROFERIDO NO AGRAVO INTERNO. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração somente são cabíveis quando houver na decisão obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+2. No caso concreto, não se constatam os vícios alegados pela parte embargante, que busca rediscutir matéria devidamente examinada pela decisão embargada, o que é incabível nos embargos declaratórios.
+3. "Os embargos de declaração devem ter como objeto apenas o decisum embargado, não se prestando para sanar eventual vício ocorrido em decisão judicial anterior, em face da ocorrência da preclusão.  ..  Nos termos do enunciado n.º 317 da Súmula do Supremo Tribunal, "São improcedentes os embargos declaratórios, quando não pedida a declaração do julgado anterior, em que se verificou a omissão" (EDcl nos EDcl no AgRg no RE nos EDcl no AgRg nos EDcl no REsp 1.267.160/PR, Rel. Ministra Laurita Vaz, Corte Especial, DJe de 30/8/2016).
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp 1.427.815/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, j. em 17/2/2020, DJe 20/2/2020 - sem destaques no original)
+Nesse sentido, é forçoso reconhecer que a parte pretende, na verdade, o rejulgamento da causa, finalidade que desborda das hipóteses de cabimento dos aclaratórios, previstas no art. 1.022 do NCPC.
+Nessas condições, REJEITO os embargos de declaração.
+É o voto.
