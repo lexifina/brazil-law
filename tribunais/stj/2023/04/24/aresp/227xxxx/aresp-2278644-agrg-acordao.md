@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/04/2023 a 24/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+RELATÓRIO
+Trata-se de agravo regimental interposto por Adriano Pacheco contra a decisão da Presidência desta Corte Superior, que não conheceu do recurso por ele interposto, dada a ausência de indicação precisa dos dispositivos legais federais que teriam sido violados ou quais dispositivos legais seriam objeto de dissídio interpretativo; e descabimento do exame, na via especial, de violação de dispositivo ou princípio constitucional (fls. 727/728).
+Em suas razões, o agravante sustenta que a impugnação do dispositivo não é necessário, obrigatoriamente, indicar o artigo, o que temos que atacar é norma, o que foi feito (fl. 733). Afirma que, claramente, fala-se da redução de pena prevista no art. 14, parágrafo único do CP (fl. 733), bem como do art. 593, III, d) do CPP (idem).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. TENTATIVA DE HOMICÍDIO. CONDENAÇÃO. DECISÃO AGRAVADA QUE NÃO CONHECE DO APELO EXTREMO POR AUSÊNCIA DE INDICAÇÃO PRECISA DOS DISPOSITIVOS LEGAIS TIDOS POR VIOLADOS. CORRETA INCIDÊNCIA DA SÚMULA 284/STF. COMPLEMENTAÇÃO DAS RAZÕES EM SEDE DE RECURSO POSTERIOR. NÃO CABIMENTO. PRECEDENTES.
+1. A ausência de indicação expressa de dispositivos legais tidos por vulnerados não permite verificar se a legislação federal infraconstitucional foi, ou não, malferida, sendo de rigor a incidência da Súmula 284 do STF (AgInt no AREsp n. 1.336.700/PR, Ministro Raul Araújo, Quarta Turma, DJe 12/12/2018).
+2. Os requisitos legais de admissibilidade do recurso interposto devem estar presentes ao tempo do ajuizamento do recurso, sob pena de inevitável preclusão (AgRg no Ag n. 1.395.327/SC, Ministro Castro Meira, Segunda Turma, DJe 30/8/2011).
+3. Agravo regimental improvido.
+VOTO
+A decisão agravada deve ser mantida.
+Na decisão ora agravada, a Presidência desta Corte deixou do conhecer o apelo nobre, porque a parte recorrente deixou de indicar precisamente os dispositivos legais federais que teriam sido violados ou quais dispositivos legais seriam objeto de dissídio interpretativo, trazendo apenas dispositivos constitucionais. Também concluiu não ser cabível o recurso especial que visa discutir violação de norma constitucional porque, consoante o disposto no art. 102, inciso III, da Constituição Federal, é matéria própria do apelo extraordinário para o Supremo Tribunal Federal (fl. 727).
+De fato, tratando-se de recurso especial, deve o recorrente indicar, de maneira clara e precisa, o dispositivo de lei federal, objeto de interpretação divergente, sob pena de, assim não procedendo, atrair a incidência da Súmula 284/STF, tal como ocorreu, in casu (AgRg no REsp n. 1.348.358/MG, Ministra Assusete Magalhães, Sexta Turma, DJe 19/4/2013). Tal entendimento se justifica porque a ausência de indicação expressa de dispositivos legais tidos por vulnerados não permite verificar se a legislação federal infraconstitucional foi, ou não, malferida, sendo de rigor a incidência da Súmula 284 do STF (AgInt no AREsp n. 1.336.700/PR, Ministro Raul Araújo, Quarta Turma, DJe 12/12/2018).
+Nesse sentido, vários são os precedentes, dentre os quais cito, a guisa de exemplo: AgRg nos EREsp n. 382.756/SC, Ministra Laurita Vaz, Corte Especial, DJe 17/12/2009; e AgInt no AREsp n. 1.065.301/SP, Ministro Marco Buzzi, Quarta Turma, DJe 23/2/2018.
+Outrossim, é cediço que não cabe ao Superior Tribunal de Justiça a manifestação sobre violação de princípios ou dispositivos de extração constitucional, ainda que para fins de prequestionamento, sob pena de usurpação da competência do Supremo Tribunal Federal (AgRg no AREsp n. 2.209.129/SP, Ministro Messod Azulay Neto, Quinta Turma, DJe 14/2/2023).
+Por ocasião do presente regimental, a defesa tentou complementar as razões do apelo extremo, indicando de forma expressa os dispositivos legais tidos por violados, contudo, tal argumentação se revela extemporânea. Com efeito, é sabido que os requisitos legais de admissibilidade do recurso interposto devem estar presentes ao tempo do ajuizamento do recurso, sob pena de inevitável preclusão (AgRg no Ag n. 1.395.327/SC, Ministro Castro Meira, Segunda Turma, DJe 30/8/2011).
+Sobre o tema, destaco:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS INFRACONSTITUCIONAIS SUPOSTAMENTE VIOLADOS. COMPLEMENTAÇÃO DA FUNDAMENTAÇÃO EM SEDE DE AGRAVO REGIMENTAL. IMPOSSIBILIDADE. AGRAVO DESPROVIDO.
+1. O agravo regimental não é meio apto a preencher os requisitos de admissibilidade do recurso especial ausentes no momento da interposição.
+2. Inviável o provimento do presente recurso, por indicação tardia dos dispositivos infraconstitucionais supostamente violados.
+3. "A complementação da fundamentação deficiente em sede de agravo regimental não tem o condão de sanar o vício contido nas razões do recurso especial em decorrência da inovação recursal vedada em razão da preclusão consumativa" (AgRg no AREsp 1393027/PR, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 26/9/2019).
+4. Agravo regimental desprovido.
+(AgRg no REsp n. 1.848.188/RS, Ministro Jorge Mussi, Quinta Turma, DJe 19/2/2020 - grifo nosso)
+Ante o exposto, nego provimento ao agravo regime ntal.
