@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/04/2023 a 24/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de agravo interno interposto por ABYARA BROKERS INTERMEDIACAO IMOBILIARIA CASA FACIL E PRONTOS LTDA contra decisão unipessoal prolatada pelo Ministro Presidente do STJ.
+Ação: de indenização e compensação - respectivamente - por danos materiais e morais c/c restituição de valores, ajuizada por ANDERSON SILVA DOS SANTOS (agravado), em face da agravante, de ATUA TABOÃO EMPREENDIMENTO SPE LTDA e de HAPTOS ASSESSORIA E NEGÓCIOS LTDA., em razão de descumprimento por parte da demandada de contrato de compra e venda de imóvel, consubstanciado no atraso na entrega do bem.
+Sentença: julgou parcialmente procedentes os pedidos, para condenar os requeridos (agravante e ATUA TABOÃO EMPREENDIMENTO SPE LTDA e HAPTOS ASSESSORIA E NEGÓCIOS LTDA.), solidariamente, no pagamento do valor desembolsado para liquidação da "TAXA SATI" e taxas condominiais vencidas e pagas pelo agravado/autor antes da transmissão da posse, acrescido de correção monetária calculada pela variação da tabela prática do TJ/SP da data do desembolso e juros de 1% contados da citação.
+Acórdão: negou provimento à apelação interposta pela agravante, nos termos da seguinte ementa:
+APELAÇÃO - Ação de Reparação de Danos Morais e Materiais cumulada com Repetição de Indébito e Lucros cessantes - Pleito fundado na alegação de atraso na entrega da obra e cobrança indevida de comissão de corretagem, taxa SATI e despesas condominiais - Sentença de parcial procedência para determinar a restituição dos valores pagos a título de taxa SATI e despesas de condomínio em período anterior à entrega das chaves - Inconformismo da ré, sustentando a legalidade das cobranças em apreço diante da aplicação do princípio do "pacta sunt servanda" e a inexistência de ofensa do CDC - Desacolhimento - Atividade congênere vinculada ao contrato de compra e venda que é considerada abusiva - Entendimento sedimentado pelo C.S.T.J em sede de recurso repetitivo - Despesas condominiais, ademais, que não podem ser exigidas do comprador do imóvel antes do exercício da posse - Ressarcimento que, obviamente, está condicionado à efetiva comprovação do desembolso, a ser apurado em sede de liquidação - Recurso desprovido. (e-STJ, fl. 711)
+Embargos de declaração: opostos pelo agravado, foram rejeitados.
+Prévio juízo de admissibilidade do TJ/SP: negou seguimento ao recurso especial interposto pelo agravante com fundamento no Tema repetitivo 938 (REsp 1.599.511/SP), bem como inadmitiu o citado recurso, em razão da incidência da não demonstração de violação de dispositivos infraconstitucionais (arts. 402 do CC/02, 373, I do CPC/15 e 14, §7º, do CDC), da incidência da Súmula 7/STJ e da deficiência de cotejo analítico.
+Decisão monocrática: não conheceu do agravo em recurso especial, nos termos do art. 21-E, V, c/c 253, parágrafo único, ambos do RISTJ, em razão da ausência de impugnação de todos os fundamentos constantes da decisão que negou seguimento ao recurso especial (e-STJ, fls. 874/876).
+Agravo interno: alega, em síntese, a impugnação de todos os óbices da decisão prolatada pelo Tribunal de origem que negou seguimento ao recurso especial, principalmente a incidência da Súmula 7/STJ. Sustenta que "não se pretende, em momento algum, o reexame da matéria mas a CORRETA QUALIFICAÇÃO JURÍDICA DA SITUAÇÃO DISCUTIDA NO CASO, o que é permitido em sede de Recurso Especial, para que não se tenha o cometimento de uma injustiça." - e-STJ, fl. 882 (e-STJ, fls. 879/887).
+É O RELATÓRIO.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO E COMPENSAÇÃO POR DANOS MATERIAIS E MORAIS C/C RESTITUIÇÃO DE VALORES. IMPUGNAÇÃO ESPECÍFICA DA DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. AUSÊNCIA. SÚMULA 182/STJ.
+1. Ação de indenização e compensação - respectivamente - por danos materiais e morais c/c restituição de valores.
+2. O agravo interposto contra decisão denegatória de processamento de recurso especial que não impugna, especificamente, todos os fundamentos por ela utilizados, não deve ser conhecido.
+3. Agravo interno não provido.
+VOTO
+A decisão agravada não conheceu do agravo em recurso especial ante a incidência da Súmula 182/STJ, haja vista que, naquele recurso, não foram impugnados todos os fundamentos utilizados pelo TJ/SP para negar seguimento ao recurso especial.
+A despeito das alegações aduzidas neste recurso, percebe-se que a parte agravante não trouxe qualquer argumento novo capaz de ilidir entendimento firmado na decisão ora agravada.
+Examinando-se os autos, verifica-se que o Tribunal de origem negou seguimento ao recurso especial diante da
+i) aplicação do art. 1.040, I, do CPC/2015, tendo em vista o Recurso Representativo de Controvérsia REsp 1.559.511/SP (Tema 938);
+ii) não demonstração de violação dos arts. 402 do CC/02, 373, I do CPC/15 e 14, §7º, do CDC;
+iii) incidência da Súmula 7/STJ; e
+vi) deficiência de cotejo analítico (e-STJ, fl. 821/824).
+Todavia, nas razões do agravo em recurso especial, a parte agravante, limitando-se afirmar, genericamente, que não pretende o reexame de fatos e provas dos autos, mas tão somente a revaloração jurídica dos mesmos, não impugnou de maneira consistente, a inaplicabilidade do seguinte óbice: incidência da Súmula 7/STJ (e-STJ, fls. 830/837).
+Em relação à Súmula 7/STJ, urge salientar que é firme o entendimento desta Corte no sentido de que, inadmitido o recurso especial pela aplicação do referido enunciado, incumbiria às partes interessadas demonstrar, de forma específica e consistente, a desnecessidade de revolvimento do contexto fático-probatório dos autos para a análise da insurgência pretendida, o quê não se observa na hipótese (em que a agravante replica os argumentos já suscitados em suas peças recursais pretéritas). Nesse sentir: AgInt no AREsp 600.416/MG (2ª Turma, DJe de 18/11/2016) e AgInt no AREsp 1.671.863/SP (3ª Turma, DJe 17/09/2020).
+Desse modo, nos termos da Súmula 182/STJ, mostra-se correto o não conhecimento do agravo em recurso especial, tendo em vista a ausência de impugnação específica de todos os fundamentos contidos na decisão agravada.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno.
