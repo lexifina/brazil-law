@@ -1,0 +1,67 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/04/2023 a 24/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de agravo interposto por ANTONIO CARLOS GUSMAN FERRAZ contra decisão unipessoal que conheceu do agravo para conhecer parcialmente do recurso especial que interpusera para, nessa parte, negar-lhe provimento.
+Ação: declaratória de existência de relação jurídica cumulada com restituição de quantia paga, ajuizada pelo agravante, em face dos agravados, devido ao descumprimento de contrato de compra e venda de imóvel celebrado entre as partes, bem como em virtude do recebimento de notificação extrajudicial de rescisão do contrato por inadimplemento, enviada pelos agravados. Pleiteia seja declarada a existência da relação jurídica com os agravados, assim como a condenação destes á restituição de todos os valores pagos.
+Sentença: julgou parcialmente procedentes os pedidos formulados em face de Erich Hetzl Júnior e Sonia Gomes de Aguiar Hetzl, para condená-los ao pagamento de R$ 30.000,00 (trinta mil reais) em favor do agravante. Julgou improcedentes os pedidos formulados em desfavor de Mauro Cesar de Campos e Paulo Santos.
+Acórdão: não conheceu da apelação de Erich Hetzl Júnior e Sonia Gomes de Aguiar Hetzl, e deu parcial provimento à apelação interposta pelo agravante e por Paulo Santos, nos termos da seguinte ementa:
+APELAÇÃO - Ação Declaratória de Existência de Relação Jurídica c/c Restituição de Valores Pagos - Instrumento Particular de Compromisso de Compra e Venda - Alegação de que firmou com os réus ERICH e SONIA, tratativas de compra e venda do imóvel pertencente a estes, através da intermediação dos corréus MAURO e PAULO e que, efetuado parte do pagamento, a referida aquisição não se efetivou por descumprimento das obrigações assumidas pelos réus Reconvenções apresentadas pelos réus: dos réus ERICH e SONIA, pleiteando, a indenização por danos morais em razão do fracasso do negócio; do corréu PAULO, pleiteando a indenização por dano moral, visto que a conduta do autor lhe causou prejuízo de ordem moral com relação a sua profissão de corretor - Sentença de parcial procedência com relação aos réus ERICH e SONIA para condená-los a ressarcirem ao autor o valor de R$30.000,00, retendo o valor pago a título de sinal, e de improcedência com relação aos corréus PAULO e MAURO, bem como das reconvenções - Inconformismo das partes: do autor, pleiteando a restituição de todo valor pago, visto que a compra e venda não foi efetivado por culpa dos réus, a validade dos termos apresentados na proposta de aquisição do imóvel, a responsabilidade de todos os réus, a impugnação a justiça gratuita concedida ao corréu PAULO e, ainda, a condenação dos corréus-reconvintes ERICH e SONIA no pagamento de sucumbência em razão da improcedência da reconvenção ; dos réus ERICH e SONIA, alegando, o direito a indenização por danos morais em razão da frustação do negócio; do corréu PAULO, suscitando preliminar de ilegitimidade passiva e o acolhimento da impugnação ao valor da causa. No mérito, pleiteia a indenização por danos morais Recurso dos corréus ERICH e SONIA não conhecido em razão da insuficiência de preparo - Preliminar de ilegitimidade passiva do corréu PAULO afastada - Valor da causa que deve ser readequado para observar o valor da compra e venda em apreço e não apenas do importe a ser restituído - Artigo 292, II, do CPC - Rescisão do contrato por culpa do próprio autor que não teve condições financeiras de cumprir o quanto avençado Cabível a aplicação da multa penal consiste em perda do valor pago a título de sinal, uma vez que expressamente prevista em contrato firmado entrepartes com possibilidade de arrependimento - Corréus PAULO e MAURO que atuaram apenas como intermediadores e não possuem responsabilidade quanto à restituição concedida Indenização por dano moral alegada por PAULO que não restou caracterizada - Cabível a condenação dos réus-reconvintes, ERICH e SONIA, no pagamento de sucumbência em razão da improcedência da reconvenção - Recurso não conhecido dos corréus ERICH e SONIA, parcialmente provido do autor e do corréu PAULO. (e-STJ Fls. 396/397)
+Embargos de Declaração: opostos pelo agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 292, II e V, e 1.022, I e II, do CPC/15, e 473 do CC. Insurge-se contra o valor atribuído à causa, sob o fundamento de que este, na hipótese dos autos, deve se restringir à parte controvertida nos autos, e não ao valor total do negócio jurídico.
+Decisão unipessoal: conheceu do agravo para conhecer parcialmente do recurso especial para, nessa parte, negar-lhe provimento.
+Agravo interno: nas razões do presente recurso, além da negativa de prestação jurisdicional, o agravante sustenta que os dispositivos arrolados foram devidamente prequestionados perante o Tribunal de origem, mediante a oposição de embargos de declaração. Assevera que a análise das razões recursais independe do revolvimento do acervo fático-probatório carreado aos autos.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE EXISTÊNCIA DE RELAÇÃO JURÍDICA CUMULADA COM RESTITUIÇÃO DE QUANTIA PAGA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação declaratória de existência de relação jurídica cumulada com restituição de quantia paga.
+2. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. Agravo interno no agravo em recurso especial não provido.
+VOTO
+A decisão agravada foi assim fundamentada, na parte em que impugnada pelo agravante:
+- Da violação do art. 1.022 do CPC/2015
+A ausência de expressa indicação de obscuridade, omissão ou contradição nas razões recursais enseja o não conhecimento do recurso especial. Aplica-se, na hipótese, a Súmula 284/STF.
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca do valor atribuído à causa, de maneira que os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento. Confira-se:
+ ..
+"Por outro lado, no que diz respeito ao valor atribuído a causa, assiste razão o apelante PAULO, uma vez que deve corresponder ao valor total do negócio jurídico discutido, ou seja, da compra e venda do imóvel, no importe de R$ 930.000,00 (novecentos e trinta mil reais) e não apenas do que se pretende restituir, de acordo com disposto no artigo 292, inciso II, do Código de Processo Civil." (e-STJ Fl. 400)
+ ..
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC/15, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca do art. 473 do CC, indicado como violado, apesar da oposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere ao valor atribuído à causa, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC/15, majoro os honorários fixados anteriormente para 15% sobre o valor atribuído à causa.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se. (e-STJ Fl. 521/522)
+Pela análise das razões recursais apresentadas no agravo interno, verifica-se que o agravante não trouxe qualquer argumento novo capaz de ilidir os fundamentos da decisão agravada.
+1. Da violação do art. 1.022 do CPC/15
+Consoante consignado na decisão impugnada, é firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca do valor atribuído à causa, de maneira que os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento. Confira-se:
+ ..
+"Por outro lado, no que diz respeito ao valor atribuído a causa, assiste razão o apelante PAULO, uma vez que deve corresponder ao valor total do negócio jurídico discutido, ou seja, da compra e venda do imóvel, no importe de R$ 930.000,00 (novecentos e trinta mil reais) e não apenas do que se pretende restituir, de acordo com disposto no artigo 292, inciso II, do Código de Processo Civil." (e-STJ Fl. 400)
+ ..
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC/15, incidindo, quanto ao ponto a Súmula 568/STJ.
+2. Da Súmula 284/STF quanto ao art. 1.022 do CPC/15
+Ademais, não obstante alegue o agravante que demonstrou a ofensa ao art. 1.022 do CPC/15, verifica-se, da análise de suas razões do recurso especial, que foram tecidas afirmações genéricas de que houve violação do referido dispositivo, em virtude da rejeição dos embargos de declaração.
+Não foram especificamente apontadas, todavia, as supostas omissões, contradições ou obscuridades em que incorreria o acórdão recorrido, bem como a relevância desses aspectos para a solução da lide. Incidente, pois, a Súmula 284/STF.
+3. Da ausência de prequestionamento
+Outrossim, o art. 473 do CC não foi objeto de expresso prequestionamento pelo Tribunal de origem, apesar da interposição de embargos de declaração, o que importa na incidência do óbice da Súmula 211/STJ.
+Ressalto ainda que, nos termos da reiterada jurisprudência do STJ, para que se tenha por prequestionada determinada matéria, é necessário que a questão tenha sido objeto de debate à luz da legislação federal indicada, com a imprescindível manifestação pelo Tribunal de origem, que deverá emitir juízo de valor acerca dos dispositivos legais, ao decidir por sua aplicação ou afastamento em relação a cada caso concreto, o que não se deu na espécie.
+Ademais, a alegação do agravante de que a oposição de embargos de declaração perante o Tribunal de origem, por si só, haveria de ser suficiente para se considerar prequestionado o tema em análise só encontra guarida se o Tribunal superior considerar existentes erro, omissão, contradição ou obscuridade, o que, a toda evidência, não retrata a hipótese dos autos.
+4. Do reexame de fatos e provas
+No mais, acerca da inaplicabilidade da Súmula 7/STJ, no que se refere ao valor atribuído à causa, tem-se que o Tribunal de origem ao manifestar-se acerca da matéria entendeu que:
+(..)
+"Por outro lado, no que diz respeito ao valor atribuído a causa, assiste razão o apelante PAULO, uma vez que deve corresponder ao valor total do negócio jurídico discutido, ou seja, da compra e venda do imóvel, no importe de R$ 930.000,00 (novecentos e trinta mil reais) e não apenas do que se pretende restituir, de acordo com disposto no artigo 292, inciso II, do Código de Processo Civil.
+Assim, acolho a impugnação ao valor da causa apresentada pelo apelante e passo a análise do mérito dos recursos." (e-STJ Fls. 400/401)
+(..)
+E, conforme consignado na decisão agravada, observa-se que o Tribunal a quo ao apreciar a questão, baseou-se no conjunto fático-probatório dos autos, pelo que rever aquele entendimento é obstado devido à aplicação da Súmula 7 desta Corte.
+Frise-se, por oportuno, que, na hipótese em tela, não se cuida de valoração de prova, o que é viável no âmbito do recurso especial, mas de reapreciação da prova buscando sufragar reforma na convicção do julgador sobre o fato, para, in casu, se ter como não provado o que a Corte de origem afirmou estar.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno no agravo em recurso especial.
