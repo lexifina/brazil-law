@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/04/2023 a 24/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com a Sra. Ministra Relatora.
+Impedido o Sr. Ministro Moura Ribeiro.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de agravo interno interposto por BRUNA DE FRANCO, contra a decisão unipessoal que, conhecendo de agravo, não conheceu do recurso especial que interpusera.
+Ação: de cobrança, em fase de cumprimento de sentença, ajuizada por SOCIEDADE EMPRESARIA DE ENSINO SUPERIOR DO LITORAL NORTE LTDA, em desfavor da ora agravante, pleiteando o recebimento do valor de R$ 6.205,95, referente a curso educacional.
+Decisão interlocutória: rejeitou a impugnação ao cumprimento de sentença apresentada pela agravante.
+Acórdão: deu parcial provimento ao agravo de instrumento interposto pela agravante, tão somente para lhe conceder a gratuidade de justiça, nos termos da seguinte ementa (e-STJ fl. 117):
+"AGRAVO DE INSTRUMENTO - PEDIDO DE ASSISTÊNCIA JUDICIÁRIA GRATUITA FORMULADO DIRETAMENTE EM 2ª INSTÂNCIA - PESSOA FÍSICA - AUXILIAR ADMINISTRATIVO - DECLARAÇÃO DE HIPOSSUFICIÊNCIA I - Cabimento - Sendo o pedido de concessão de assistência judiciária, dentre outros temas, o objeto do presente recurso, é possível a sua apreciação sem o recolhimento do preparo. II - Cabível a concessão do benefício, desde que comprovada de forma eficaz a insuficiência de recursos - Art. 5º, inciso LXXIV, da CF e arts. 98 e 99, §§s 2º e 3º, do CPC - Hipótese em que a agravante labora como "auxiliar administrativo" e aufere renda mensal inferior a 1 (um) salário mínimo - Presunção de ser isenta de apresentar declaração de imposto de renda - Comprovação de despesas mensais ordinárias - Benefício concedido à agravante com efeito "ex nunc" - Precedentes do C. STJ. Agravo provido".
+"AÇÃO DE COBRANÇA - FASE DE CUMPRIMENTO DE SENTENÇA - INEXISTÊNCIA E NULIDADE DA CITAÇÃO - AVISO DE RECEBIMENTO - RECEBIMENTO POR TERCEIRO DESCONHECIDO - ALEGAÇÃO DE ALTERAÇÃO DE ENDEREÇO I - Decisão que afastou a alegação de inexistência e nulidade de citação arguida pela agravante II - Carta de citação encaminhada pelo correio ao endereço fornecido pelo sistema BACENJUD - Endereço que foi fornecido pela própria agravante às instituições financeiras - Funcionário da recepção do condomínio edilício que recebeu o ato citatório, assinando o aviso de recebimento e indicando o número de seu documento pessoal, sem apresentar ressalva, objeção ou recusa - Entendimento jurisprudencial à luz do CPC anterior que já considerava como válida a citação da pessoa jurídica, quando recebido o mandado citatório por funcionário sem poderes de representação, ante a aplicação da teoria da aparência - Novo CPC que acrescentou o §4º ao art. 248, sem correspondência no ACPC, para considerar válida a entrega do mandado citatório a funcionário da portaria responsável pelo recebimento de correspondência, também para pessoas físicas - Ausência de comprovação de que a agravante estaria residindo em outro endereço - Precedentes deste E. TJSP Citação válida - Decisão mantida Agravo improvido."
+Embargos de declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alegou violação dos arts. 7º, 8º, 238, 239, 284, § 4º, 525, § 1º, I e III do CPC, bem como dissídio jurisprudencial, sustentando a nulidade da citação da fase de conhecimento, visto que a respectiva carta foi entregue em endereço no qual não residia há mais de 3 anos.
+Prévio juízo de admissibilidade: o TJ/SP inadmitiu o recurso, o que ensejou a interposição de agravo em recurso especial.
+Decisão agravada: a par de conhecer do agravo, não conheceu do recurso especial, conforme a ementa a seguir (e-STJ fl. 192):
+"PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA EM FASE DE CUMPRIMENTO DE SENTENÇA. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Ação de cobrança em fase de cumprimento de sentença.
+2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema. Incidência da Súmula 284 do STF.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+5. Agravo conhecido. Recurso especial não conhecido".
+Agravo interno: nas razões do presente recurso, a agravante defende a inaplicabilidade da Súmula 284/STF, visto que demonstrou a patente violação dos arts. 7º 8º, 238, 239, § 4º, 525, § 1º, I e III, do CPC.
+Reitera a nulidade da citação e a inaplicabilidade da exceção prevista no art. 248, § 4º, do CPC/2015 à hipótese dos autos.
+Aduz que "O que se pede com o presente recurso não é o reexame de fatos e provas, mas sim a interpretação correta a simples datas, bem como aos artigos violados supramencionados, tendo em vista que o v. acórdão de forma ABSURDAMENTE CLARA, decidiu contra as provas nos autos".
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA EM FASE DE CUMPRIMENTO DE SENTENÇA. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de cobrança em fase de cumprimento de sentença.
+2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema. Incidência da Súmula 284 do STF.
+3. Alterar o decidido no acórdão impugnado, no que se refere à validade da citação ocorrida na fase de conhecimento, exige o reexame de fatos e provas, o que é vedado na estreita via do recurso especial. Aplicação da Súmula 7/STJ.
+4. Agravo interno não provido.
+VOTO
+A decisão agravada, na parte em que impugnada no presente agravo, não conheceu do recurso especial em razão da incidência das Súmulas 284/STF e 7/STJ.
+Pela análise das razões recursais apresentadas, contudo, verifica-se que a agravante não trouxe qualquer argumento hábil à modificação do decisum.
+Com efeito, da releitura do recurso especial, observa-se que a parte recorrente limitou-se a fazer mera citação e transcrição dos arts. 7º, 8º, e 525, § 1º, I e III do CPC/2015, deixando de demonstrar, de maneira fundamentada, como o acórdão recorrido os teria violado.
+É comezinha a jurisprudência desta Corte no sentido de que cabe à parte recorrente indicar nas razões recursais, de forma específica, o dispositivo de lei que teria sido violado pelo acórdão recorrido, explicitando, com clareza e precisão, a razão pela qual o julgado comporta reforma ou anulação. A não observação dessa exigência revela a patente falha de fundamentação do apelo especial, a atrair a incidência da Súmula 284/STF. Nesse sentido: AgInt no AREsp n. 2.149.963/DF, 3ª Turma, DJe de 20/10/2022 e AgInt no REsp n. 1.976.663/RJ, 4ª Turma, DJe de 29/6/2022.
+Assim, a incidência da Súmula 284/STF mostra-se inafastável na hipótese dos autos.
+De outro turno, no que tange à validade da citação, observa-se que assim decidiu o Tribunal de origem:
+"No caso em epígrafe, a carta de citação foi devidamente encaminhada, pelo correio, ao endereço indicado em consulta ao Bacenjud (fls. 58/59 dos autos de origem), que se trata de informação declarada pela agravante às instituições financeiras. O endereço em que houve o efetivo recebimento da carta de citação foi o localizado na Av. Cidade Jardim, 714, apto. 14B São José dos Campos (fls. 81 dos mesmos autos).
+A carta foi recebida, em 14.11.2017, por terceiros, que declinaram sua assinatura e número de documento de identidade, e não alegaram, em qualquer tempo, desconhecer a pessoa física indicada nos respectivos campos do "Destinatário" nas cartas de citação.
+Não houve alegação no sentido de que o condomínio ao qual enviada a carta não possua portaria ou funcionário responsável pelo recebimento de correspondência no local, donde é razoável presumir ter a carta sido recebida por tal pessoa.
+Com efeito, o nome da agravante foi correta e expressamente indicado na carta de citação e o responsável pelo recebimento dos referidos atos citatórios não apresentaram qualquer ressalva ou objeção, sendo certo, ainda, que poderiam ter recusado o aludido recebimento, mas não o fizeram.
+E não obstante a agravante alegue nas razões recursais que não mais residia no referido endereço há mais de dois anos, não trouxe nenhuma prova suficiente para elidir tal conclusão.
+Pelo contrário. O endereço por ela indicado em sua procuração é a Rua José Alves dos Santos, 51, apto. 162, São José dos Campos (fls. 36 dos autos do cumprimento de sentença), mesmo endereço indicado no contrato de locação acostado às fls. 41/42 dos mesmos autos.
+Sucede que referido contrato foi assinado em 15.01.2018, ou seja, posteriormente ao recebimento da carta de citação.
+Deste modo, restou demonstrado que a agravante, quando do recebimento da carta de citação, ainda morava na Av. Cidade Jardim, 714, apto. 14B São José dos Campos (fls. 81 dos mesmos autos).
+Desta forma, tendo sido regularmente recebida a carta citatória no endereço indicado pela agravante perante as instituições financeiras, com a correspondente assinatura e indicação de documento pessoal nos "AR "s", de rigor a aplicação do disposto no novo §4º do art. 248 do NCPC, no qual é considerada válida a entrega do mandado a funcionário da portaria de condomínio edilício, responsável pelo recebimento de correspondência, sem ressalvas" (e-STJ fls. 122/123, grifou-se).
+Ora, eventual modificação do entendimento do acórdão recorrido, para o fim de reconhecer a nulidade da citação porque realizada em endereço no qual não residia a ora agravante, demandaria desta Corte, inevitavelmente, o reexame dos fatos e provas dos autos, providência que é vedada na estreita via do recurso especial, nos termos da Súmula 7/STJ.
+Dessa maneira, em suma, o conhecimento do recurso especial é mesmo inviável, impondo-se a manutenção da decisão agravad a em todos os seus termos.
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno.
