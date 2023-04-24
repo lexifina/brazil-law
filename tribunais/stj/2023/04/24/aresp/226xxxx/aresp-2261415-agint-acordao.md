@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/04/2023 a 24/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+Cuida-se de agravo interno interposto por MAURO ANTÔNIO FERNANDES JÚNIOR contra decisão que conheceu do agravo para conhecer em parte do recurso especial e negar-lhe provimento.
+Ação: obrigação de fazer ajuizada pelo recorrente em face de UNIMED CURITIBA - SOCIEDADE COOPERATIVA DE MÉDICOS, pretendendo o ingresso nos quadros de médicos cooperados ré. Argumenta que é ilegal a fixação de limite numérico de vagas em processos seletivos para adesão de médicos cooperados em Cooperativas Médicas, sem comprovação da limitação técnica a que alude os arts. 4º, I, e 29 da Lei das Cooperativas.
+Sentença: julgou procedente o pedido para determinar que a ré inscreva imediatamente a parte autora em seus quadros de médicos cooperados.
+Acórdão: deu provimento ao recurso de apelação da recorrida para permitir que a Cooperativa deixe de proceder a adesão do autor ao seu quadro de cooperados e não conheceu do recurso adesivo do recorrente, nos termos da seguinte ementa (e-STJ, fl. 741):
+APELAÇÃO CÍVEL E RECURSO ADESIVO. AÇÃO DE OBRIGAÇÃO DEFAZER. COOPERADO. INGRESSO EM SOCIEDADE COOPERATIVA. PROCESSO SELETIVO. EXIGÊNCIA. LEGALIDADE. INCIDENTES DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA Nº 1.059.777-8/01 E Nº 995.078-3/01. DISPONIBILIDADE DE UMA VAGA. NÃO AFRONTA AO ART. 4º, INCISO I DA LEI Nº 5.764/71. AUTONOMIA DA COOPERATIVA. TÉCNICA DE PRESTAÇÃO DOS SERVIÇOS. INFORMAÇÕESESTRATÉGICAS. MAPEAMENTO. METODOLOGIA EMPREGADA. DOCUMENTOS NÃO CONFRONTADOS. PODER ECONÔMICO-FINANCEIRO QUE NÃO TEM O CONDÃO DE PERMITIR INGRESSO ILIMITADO. RESPEITO AOS REQUISITOS DO PROCESSO SELETIVO. MEDIDA QUE SE IMPÕE. SENTENÇAREFORMADA. RECUSOADESIVO. DESISTÊNCIA.ÔNUS SUCUMBENCIAL INVERTIDO. APELO PROVIDO E ADESIVO NÃO CONHECIDO.
+Embargos de Declaração: opostos pelo recorrente foram rejeitados.
+Recurso especial: alegou violação dos arts. 4º e 29, § 1º, da Lei 5.764/71, bem como dissídio jurisprudencial. Sustentou, em suma, a ilegalidade da limitação de acesso às cooperativas com base na proporção entre o número de médicos e o número de beneficiários do plano, como ocorreu no caso, mas apenas se embasada na impossibilidade técnica do profissional e impossibilidade econômico-financeira da cooperativa médica. Acentuou que a ré "limitou as vagas no processo seletivo em razão de equações relativas à proporção "médicos x beneficiários" e a análise de suficiência de médicos (número e dimensionamento mínimo da rede)" (e-STJ, fl. 797), o que não significa impossibilidade técnica prescrita no diploma legal e não enseja o afastamento da regra dos referidos dispositivos.
+Decisão unipessoal: conheceu do agravo para conhecer em parte do recurso especial e negar-lhe provimento.
+Agravo interno: o agravante alega a inaplicabilidade da 7/STJ, pois o Tribunal de origem expressou todas as premissas fáticas para o exame da questão jurídica suscitada no apelo especial, que discute apenas "se o processo seletivo de cooperativa médica, com limitação de vagas que não ocorre para preservar a viabilidade de prestação de serviços da cooperativa, mas sim para amparar uma restrição quantitativa dos associados da cooperativa, é ilegal e arbitrário, à luz da Lei 5.764/71" (e-STJ, fl. 1.174), pugnando , assim, pela reforma do decisum.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. COOPERATIVA DE TRABALHO MÉDICO. EXIGÊNCIA DE PROCESSO SELETIVO. LEGALIDADE. LIMITAÇÃO DO NÚMERO DE VAGAS. POSSIBILIDADE. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de obrigação de fazer.
+2. Consoante a jurisprudência do STJ, é lícita a exigência de prévia aprovação em processo seletivo como requisito para o ingresso em Cooperativa de Trabalho Médico. Admite-se a limitação, de forma impessoal e objetiva, do número de vagas no processo seletivo para ingresso em Cooperativa de Trabalho Médico, tendo em vista o mercado para a especialidade e o necessário equilíbrio financeiro da entidade.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. Agravo interno não provido.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+A decisão agravada não merece reforma .
+Com efeito, consoante a jurisprudência desta Corte, indicada no julgado recorrido, é possível "a limitação, de forma impessoal e objetiva, do número de vagas no processo seletivo para ingresso em Cooperativa de Trabalho Médico, tendo em vista o mercado para a especialidade e o necessário equilíbrio financeiro da entidade" (REsp 1.981.768/SP, Terceira Turma, DJe 5/5/2022).
+Assim, correta a decisão agravada ao entender que a conclusão do Tribunal de origem no sentido de obstar a inclusão do recorrente no quadro de cooperados da agravada, em relação ao edital discutido, por não ter logrado êxito em ser aprovado dentro do número de vagas disponibilizado no processo seletivo, não destoa da jurisprudência acima colacionada, até mesmo porque "o eventual insucesso no processo de seleção realizado pela cooperativa, atendidos critérios objetivos, não impede o exercício da profissão médica em variados estabelecimentos de saúde, e nem a prestação de serviço como credenciado de outras operadoras de plano de assistência à saúde" (REsp 1.396.255/SE, Quarta Turma, DJe 14/12/2021).
+Ao contrário do alegado, a referida jurisprudência é suficiente para rechaçar as alegações do recorrente e justificar a direção dada no decisum, inclusive no tocante à incidência da Súmula 7/STJ.
+Deveras, para derruir a conclusão a que chegou a Corte de origem no sentido de que a limitação do número de vagas está alicerçada em diversos estudos apresentados, de fato, exigiria o reexame de fatos e provas, o que é vedado em recurso especial, impondo-se, portanto, a manutenção da decisão agravada por seus próprios fundamentos.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO do agravo interno.
