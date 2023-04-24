@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/04/2023 a 24/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Joel Ilan Paciornik.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FALSIDADE IDEOLÓGICA. USO DE DOCUMENTO FALSO. CONTRABANDO. PLEITO DE ABSOLVIÇÃO. IMPOSSIBILIDADE. REVOLVIMENTO FÁTICO-PROBATÓRIO. AGRAVO DESPROVIDO.
+I - A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+II - O habeas corpus não se presta para a apreciação de alegações que buscam a absolvição do paciente ou a desclassificação da conduta, em virtude da necessidade de revolvimento do conjunto fático-probatório, inviável na via eleita.
+III - O que avulta do contexto fático delineado pela col. Corte a quo é a presença de provas acerca da autoria delitiva em desfavor do agravante, pois os armamentos foram localizados em um quarto utilizado pelo agravante, de modo que, as munições e os carregadores estavam a condicionados juntamente com documentos e exames médicos em nome utilizado pelo agravante para se identificar. Qualquer incursão que escape a moldura fática ora apresentada, demandaria inegáv el revolvimento fático-probatório, não condizente com os estreitos lindes deste átrio processual, ação constitucional de rito célere e de cognição sumária.
+Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por ELIZEU DA SILVA MALDONADO, contra a decisão que não conheceu do habeas corpus impetrado contra v. acórdão prolatado pelo eg. Tribunal Regional Federal da 3ª Região.
+O agravante foi condenado às penas de 1 ano e 9 meses de reclusão em regime fechado e de 12 dias-multa, pela prática do delitos previstos no art. 304, c/c o art. 299 do Código Penal, sendo absolvido da prática do delito previsto no art. 18, c/c o art. 19, da Lei n. 10.826/2003.
+Irresignados, a defesa e o Ministério Público interpuseram recursos de apelação perante o eg. Tribunal de origem, que negou provimento ao apelo defensivo, e deu parcial provimento recurso da acusação para condenar o agravante às penas de 4 anos e 8 meses de reclusão, em regime inicial fechado e de 17 dias-multa, nos termos do v. acórdão de fls. 17-36.
+No respectivo writ, impetrado nesta Corte, a defesa requereu a concessão da ordem, para absolver o agravante da conduta de contrabando, com o consequente abrandamento do regime inicial de cumprimento da pena, bem como a intimação da defesa para apresentar sustentação oral.
+O habeas corpus não foi conhecido.
+Nas razões do presente recurso, a defesa repisa os fundamentos expendidos no writ não conhecido, sustentando a existência de ilegalidade na condenação do agravante pelo crime de contrabando.
+Sustenta que a decisão monocrática, que não conheceu do writ, cerceou a defesa do agravante, e aduz que é permitida a instrução posterior do habeas corpus.
+Requer, ao final, a reconsideração da decisão ou a submissão do pleito ao Colegiado, para a concessão da ordem.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FALSIDADE IDEOLÓGICA. USO DE DOCUMENTO FALSO. CONTRABANDO. PLEITO DE ABSOLVIÇÃO. IMPOSSIBILIDADE. REVOLVIMENTO FÁTICO-PROBATÓRIO. AGRAVO DESPROVIDO.
+I - A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+II - O habeas corpus não se presta para a apreciação de alegações que buscam a absolvição do paciente ou a desclassificação da conduta, em virtude da necessidade de revolvimento do conjunto fático-probatório, inviável na via eleita.
+III - O que avulta do contexto fático delineado pela col. Corte a quo é a presença de provas acerca da autoria delitiva em desfavor do agravante, pois os armamentos foram localizados em um quarto utilizado pelo agravante, de modo que, as munições e os carregadores estavam a condicionados juntamente com documentos e exames médicos em nome utilizado pelo agravante para se identificar. Qualquer incursão que escape a moldura fática ora apresentada, demandaria inegáv el revolvimento fático-probatório, não condizente com os estreitos lindes deste átrio processual, ação constitucional de rito célere e de cognição sumária.
+Agravo regimental desprovido.
+VOTO
+A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+A defesa repisa os argumentos de mérito, sustentando a existência de ilegalidade na condenação do agravante pelo crime de contrabando.
+Sustenta que a decisão monocrática que não conheceu do writ cerceou a defesa do agravante, e aduz que é permitida a instrução posterior do habeas corpus.
+Em relação ao pedido, ainda que o agravante tenha juntado aos autos a r. sentença de primeiro grau, o agravo não comporta provimento.
+O habeas corpus não se presta para a apreciação de alegações que buscam a absolvição do paciente ou a desclassificação da conduta, em virtude da necessidade de revolvimento do conjunto fático-probatório, inviável na via eleita.
+In casu, diversamente do que foi alegado pelo agravante, o que avulta do contexto fático delineado pela col. Corte a quo é a presença de provas acerca da autoria delitiva em desfavor do agravante, pois os armamentos foram localizados em um quarto utilizado pelo agravante, de modo que, as munições e os carregadores estavam a condicionados juntamente com documentos e exames médicos em nome de Cleyton Gabriel da Silva Ramos, nome que era utilizado pelo agravante para se identificar.
+Qualquer incursão que escape a moldura fática ora apresentada, demandaria inegável revolvimento fático-probatório, não condizente com os estreitos lindes deste átrio processual, ação constitucional de rito célere e de cognição sumária.
+A propósito, o "habeas corpus não é a via adequada para apreciar o pedido de absolvição ou de desclassificação de condutas, tendo em vista que, para se desconstituir o decidido pelas instâncias de origem, mostra-se necessário o reexame aprofundado dos fatos e das provas constantes dos autos, procedimento vedado pelos estreitos limites do mandamus, caracterizado pelo rito célere e por não admitir dilação probatória. Precedentes." (AgRg no HC n. 759.876/MT, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 22/8/2022).
+Ainda, nesse sentido, os seguintes julgados desta Corte superior: AgRg no HC n. 773.880/SP, Quinta Turma, de minha relatoria, DJe de 16/12/2022; AgRg no HC n. 762.463/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 2/12/2022.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
