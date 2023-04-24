@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/04/2023 a 24/04/2023, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão que não conheceu do agravo em recurso especial, em razão da incidência do óbice da Súmula n. 284/STF, uma vez que a parte recorrente deixou de indicar precisamente os dispositivos legais federais que teriam sido violados ou quais dispositivos legais seriam objeto de dissídio interpretativo.
+A agravante alega que seu recurso indic ou como afrontados o princípio do tratamento nacional constante do art. III, § 1, 2 e 3, do GATT e o art. 6º do Acordo de Facilitação do Comércio (AFC).
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA À DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. À luz do artigo 1.021, § 1º, do CPC/2015 e conforme entendimento sedimentado na Súmula 182 do STJ, não se conhece do agravo interno quando ausente impugnação específica aos fundamentos da decisão agravada.
+2. Agravo interno não conhecido.
+VOTO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Inicialmente, cumpre esclarecer que o presente recurso submete-se à regra prevista no Enunciado Administrativo nº 3/STJ, in verbis: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Observa-se que o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+A decisão ora agravada não conheceu do próprio agravo em recurso especial, "uma vez que a parte recorrente deixou de indicar precisamente os dispositivos legais federais que teriam sido violados ou quais dispositivos legais seriam objeto de dissídio interpretativo".
+Em seu agravo interno, a parte agravante reitera que o objeto do recurso especial seria (i) violação ao princípio do tratamento nacional constante do art. III, § 1, 2 e 3, do GATT e (ii) a ofensa ao art. 6º do AFC; porém não refuta o argumento central da decisão agravada, de que o agravo em recurso especial deixou de indicar precisamente os dispositivos de lei federal violados ou sobre os quais pende dissídio jurisprudencial, e por isso o próprio agravo não foi conhecido.
+Assim, além da manifestação do inconformismo, inerente ao ato de irresignação, impõe-se ao recorrente o ônus de contrapor-se, de forma clara e específica, aos fundamentos da decisão agravada, conforme determina a lei processual civil e o princípio da dialeticidade. Da leitura do agravo não se verificam devidamente impugnados os fundamentos da decisão agravada.
+À luz do artigo 1.021, § 1º, do CPC/2015 e conforme entendimento sedimentado na Súmula 182 do STJ, não se conhece do agravo interno quando ausente impugnação específica aos fundamentos da decisão agravada.
+Neste sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO MANDADO DE SEGURANÇA. RAZÕES DE RECURSO DISSOCIADAS DOS FUNDAMENTOS SUFICIENTES CONTIDOS NA DECISÃO AGRAVADA. ART. 1.021, § 1º, DO CPC/2015. SÚMULA 182/STJ. SÚMULA 284/STF. APLICAÇÃO POR ANALOGIA. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO. APLICAÇÃO DA MULTA DO ART. 1.021, § 4º, DO CPC/2015.
+1. Não pode ser admitido o agravo interno que não ataca especificamente os fundamentos da decisão agravada e traz razões totalmente dissociadas da decisão contra a qual se insurge, pois fere o disposto no art. 1.021, § 1º, do CPC/2015 ("Na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada") e na Súmula 182 do STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada").
+2. Tal atitude fere também a Súmula 284 do STF("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"). Nesse sentido: "Aplica-se, por analogia, a Súmula 284/STF quando os fundamentos do agravo interno se mostram dissociados dos alicerces esposados na decisão agravada" (AgInt na Rcl 31.573/DF, Rel. Min. Sérgio Kukina, Primeira Seção, julgado em 14/9/2016, DJe 21/9/2016).
+3. Não merece acolhida o argumento de que o entendimento do STJ na decisão atacada foi sedimentado na vigência do CPC/1973, e que o CPC/2015 trouxe inovação no tema, ao prever expressamente, no art. 1.026, que "os embargos de declaração não possuem efeito suspensivo e interrompem o prazo para a interposição de recurso". Isso porque, como é cediço, o art. 538 do CPC/1973 já continha norma idêntica: "Os embargos de declaração interrompem o prazo para a interposição de outros recursos, por qualquer das partes."
+4. Agravo interno a que se nega provimento, em virtude da sua manifesta improcedência, condenando-se a agravante a pagar à agravada multa fixada em 5% do valor atualizado da causa, com amparo no art. 1.021, § 4º, do CPC/2015 (AgInt nos EDcl no MS n. 25.472/DF, relator Ministro Og Fernandes, Corte Especial, julgado em 7/4/2020, DJe de 17/4/2020.)
+Ante o exposto, não conheço do agravo interno.
+É o voto.
