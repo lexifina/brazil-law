@@ -1,0 +1,19 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/04/2023 a 24/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto por Rendeiro Comércio de Automóveis Ltda. EPP. contra decisão por meio da qual a Presidência desta Corte não conheceu do agravo, com fundamento na Súmula 284/STF, porque as razões de recurso especial não indicaram objetivamente o artigo de lei violado ou a respeito de cuja interpretação divergiu o acórdão recorrido.
+Alega a parte ora agravante que deve ser reformada a decisão que considerou incidente a Súmula 284/STF, na medida em que o recurso especial foi interposto por violação da Súmula 285/STJ, afirmando que "houve transcrição da referida Súmula nº 285, bem como, a juntada da mesma e da íntegra dos Acórdãos que formaram tal entendimento, documentos extraídos da biblioteca digital do próprio Superior Tribunal de Justiça" (fl. 444/e-STJ).
+A parte agravada não apresentou impugnação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL: FUNDAMENTAÇÃO DEFICIENTE. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL VIOLADO. SÚMULA 284/STF.
+1. Incide a Súmula 284/STF se as razões de recurso especial não indicam o artigo de lei federal violado, ou de cuja interpretação divergiu o acórdão recorrido.
+2. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): Não merece reforma a decisão agravada, com a qual se pretendia dar seguimento ao recurso especial interposto em face de acórdão assim ementado:
+RECLAMAÇÃO - Interposição contra decisão prolatada pela Turma de Uniformização do Sistema de Juizados Especiais do Tribunal de Justiça de São Paulo, a qual não conheceu de reclamação em que empresa ré (e reclamante) sustenta o desacerto do Colégio Recursal ao condená-la ao pagamento indenização por danos morais em função de inscrição do nome do autor da ação principal em cadastro restritivo, eis que havia anotação preexistente a desaboná-lo - Discussão à luz da jurisprudência fixada na Súmula 385 do Superior Tribunal de Justiça - ADMISSIBILIDADE - Impossibilidade - Não preenchimento dos requisitos do artigo 988 do NCPC - Situação em que não houve decisão de mérito da Turma de Uniformização em relação à divergência na aplicação da Súmula 385 do S.T.J. - Circunstância em que tal súmula tem caráter meramente orientativo, não equivalendo a decisão em sede de repercussão geral ou repetitivo, ou enunciado de Súmula, conforme previsto no artigo 927 do NCPC - Hipótese de indeferimento da inicial pela inadequação da v ia eleita e falta de interesse processual, com fundamento nos artigos 330, inciso III e 485, incisos I e VI, do NCPC - Precedentes deste Órgão Especial - Reclamo não admitido, extinto o processo sem julgamento do mérito.
+Com efeito, relendo atentamente os autos, observo que não houve, nas razões de recurso especial, indicação dos artigos de lei que teriam sido violados ou de cuja interpretação teria divergido o acórdão recorrido, o que impede a compreensão da controvérsia. Registro que não procede a alegação de violação à Súmula, pois esta não se enquadra no conceito de lei federal previsto no artigo 105, III, "a", da Constituição Federal. Assim, como a parte deixou de apontar oportunamente o dispositivo legal supostamente violado ou de cuja interpretação divergiu o acórdão recorrido, reafirmo a incidência da Súmula 284/STF, bem aplicada na decisão ora agravada.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
