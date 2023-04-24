@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/04/2023 a 24/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Joel Ilan Paciornik.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. DOSIMETRIA. PLEITO DE APLICAÇÃO DA FRAÇÃO MÁXIMA A TÍTULO DA REDUTORA DO TRÁFICO PRIVILEGIADO. PATAMAR DE 1/6 DEVIDAMENTE FUNDAMENTADO. QUANTIDADE E NATUREZA DOS ENTORPECENTES.CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO REGIMENTAL DESPROVIDO.
+I - A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+II - Para  a  fixação  do  percentual  de  redução  previsto  no  art.  33,  §  4º,  da  Lei  n.  11.343/06,  o  magistrado  deve  levar  em  consideração  as  circunstâncias  do  caso,  especialmente  a  natureza  e  a  quantidade  da  droga  apreendida,  bem  como  as  demais  circunstâncias  judiciais  do  art.  59  do  Código  Penal,  ante  a  ausência  de  indicação  das  balizas  pelo  legislador  para  a  definição  do  quantum  de  diminuição.
+III - O Tribunal de origem  manteve  a  fração  mínima  legal  de  1/6  (um  sexto)  para  causa  especial  de  diminuição  de  pena  do  art.  33,  §  4º,  da  Lei  de  Drogas,  em  razão  da  quantidade/diversidade  e  natureza  dos  entorpecente  s  apreendidos (50 porções de cocaína, 46 porções de crack e 4 porções de maconha),  inexistindo  flagrante  ilegalidade  ou  desproporcionalidade  na  fração  escolhida  a  ensejar  a  concessão  da  ordem.
+Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por ALINE BENEDITA DOS SANTOS contra a decisão que não conheceu do habeas corpus impetrado contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo.
+A agravante foi condenada às penas de 05 anos de reclusão, em regime inicial fechado, e 500 dias-multa, como incursa nas sanções do art. 33, caput, da Lei n. 11.343/2006.
+Irresignada, a defesa interpôs recurso de apelação ao Tribunal de origem, que deu parcial provimento ao apelo, e redimensionou a reprimenda para 4 anos e 2 meses de reclusão, em regime inicial semiaberto.
+A defesa impetrou o habeas corpus 679162 nesta Corte, que concedeu a ordem para que houvesse a aplicação do §4º do art. 33 da Lei 11.343/06 de acordo com a jurisprudência da Corte.
+Em nova sentença, manteve-se a pena com a mesma fundamentação.
+A defesa interpôs recurso de apelação ao Tribunal de origem, que negou provimento ao apelo.
+No respectivo writ, impetrado nesta Corte, a defesa requereu a concessão da ordem, para aplicar a fração máxima da causa de diminuição do art. 33, § 4º, da Lei n. 11.343/06, bem como fixar o regime inicial aberto (fls. 3-35).
+O habeas corpus não foi conhecido (fls. 173-179).
+No presente agravo, a defesa repisa os argumentos de mérito do habeas corpus, sustentando, em apertada síntese, que não houve fundamentação idônea e ensejar a aplicação de fração menos benéfica a título da redutora do tráfico privilegiado.
+Ademais, alega que, redimensionada a reprimenda, é cabível a fixação do regime prisional inicial aberto.
+Postula, assim, a reconsideração da decisão, ou que o presente agravo seja submetido à apreciação do Colegiado, pugnando pelo seu total provimento (fls. 183-189)
+Por manter a decisão agravada, submeto o feito à Quinta Turma.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. DOSIMETRIA. PLEITO DE APLICAÇÃO DA FRAÇÃO MÁXIMA A TÍTULO DA REDUTORA DO TRÁFICO PRIVILEGIADO. PATAMAR DE 1/6 DEVIDAMENTE FUNDAMENTADO. QUANTIDADE E NATUREZA DOS ENTORPECENTES.CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO REGIMENTAL DESPROVIDO.
+I - A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+II - Para  a  fixação  do  percentual  de  redução  previsto  no  art.  33,  §  4º,  da  Lei  n.  11.343/06,  o  magistrado  deve  levar  em  consideração  as  circunstâncias  do  caso,  especialmente  a  natureza  e  a  quantidade  da  droga  apreendida,  bem  como  as  demais  circunstâncias  judiciais  do  art.  59  do  Código  Penal,  ante  a  ausência  de  indicação  das  balizas  pelo  legislador  para  a  definição  do  quantum  de  diminuição.
+III - O Tribunal de origem  manteve  a  fração  mínima  legal  de  1/6  (um  sexto)  para  causa  especial  de  diminuição  de  pena  do  art.  33,  §  4º,  da  Lei  de  Drogas,  em  razão  da  quantidade/diversidade  e  natureza  dos  entorpecente  s  apreendidos (50 porções de cocaína, 46 porções de crack e 4 porções de maconha),  inexistindo  flagrante  ilegalidade  ou  desproporcionalidade  na  fração  escolhida  a  ensejar  a  concessão  da  ordem.
+Agravo regimental desprovido.
+VOTO
+A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+A defesa repisa os argumentos de mérito do habeas corpus, sustentando, em apertada síntese, que não houve fundamentação idônea e ensejar a aplicação de fração menos benéfica a título da redutora do tráfico privilegiado.
+Ademais, alega que, redimensionada a reprimenda, é cabível a fixação do regime prisional inicial aberto.
+Em relação ao pedido, a agravante não trouxe qualquer argumento novo capaz de ensejar a alteração do entendimento firmado por ocasião da decisão monocrática já proferida.
+No tocante à redutora capitulada no art. 33, § 4º, da Lei n. 11.343/2006, cumpre consignar que tal dispositivo prevê que as penas do crime de tráfico de drogas poderão ser reduzidas de um sexto a dois terços, vedada a conversão em penas restritivas de direitos, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa.
+Com  efeito,  para  a  fixação  do  percentual  de  redução  previsto  no  art.  33,  §  4º,  da  Lei  n.  11.343/06,  o  magistrado  deve  levar  em  consideração  as  circunstâncias  do  caso,  especialmente  a  natureza  e  a  quantidade  da  droga  apreendida,  bem  como  as  demais  circunstâncias  judiciais  do  art.  59  do  Código  Penal,  ante  a  ausência  de  indicação  das  balizas  pelo  legislador  para  a  definição  do  quantum  de  diminuição.
+In  casu,  o  v.  acórdão  impugnado  manteve  a  fração  mínima  legal  de  1/6  (um  sexto)  para  causa  especial  de  diminuição  de  pena  do  art.  33,  §  4º,  da  Lei  de  Drogas,  em  razão  da  quantidade/diversidade  e  natureza  dos  entorpecente  s  apreendidos (50 porções de cocaína, 46 porções de crack e 4 porções de maconha),  inexistindo  flagrante  ilegalidade  ou  desproporcionalidade  na  fração  escolhida  a  ensejar  a  concessão  da  ordem  .
+Nesse  sentido  os  seguintes  julgados  deste  Tribunal  Superior: HC  n.  368.418/SP,  Quinta  Turma,  Rel.  Min.  Reynaldo  Soares  da  Fonseca,  DJe  de  1º/2/2017; HC  n.  354.058/SP,  Quinta  Turma,  Rel.  Min.  Ribeiro  Dantas,  DJe  de  25/11/2016; e HC  n.  394.803/SP,  Quinta  Turma,  Rel.  Min.  Ribeiro  Dantas,  DJe  de  28/6/2017.
+Mantida a pena no patamar estabelecido pelo v. acórdão impugnado, ou seja, 4 anos e 2 meses de reclusão, não há se falar em fixação de regime prisional menos gravoso, pois o meio prisional semiaberto decorre da própria literalidade no art. 33, caput, § 2º, alínea "b", Código Penal.
+Ante o exposto, nego provimento ao agravo regimental, mantendo a decisão agravada por seus próprios fundamentos.
+É o voto.
