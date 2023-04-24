@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/04/2023 a 24/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de agravo interno no recurso especial interposto por GRAUNA CONSTRUCOES CIVIS LTDA E SPOT CENTRO EMPREENDIMENTOS IMOBILIARIOS SPE LTDA em face de decisão monocrática que deu parcial provimento ao recurso especial interposto pelos agravantes.
+Ação: declaratória de rescisão contratual cumulada com pedido de restituição de valores pagos, ajuizada por PATRICIA ALVES TORQUATO e ALEXANDRE DA SILVA TORQUATO em face de SPOT CENTRO SPE EMPREENDIMENTOS IMOBILIÁRIOS LTDA.
+Sentença: julgou parcialmente procedente os pedidos, condenando a agravante ao ressarcimento do valor pago pelo imóvel, com correção monetária a partir da data do pagamento, e juros moratórios de 1% a partir da notificação da rescisão, além lucros cessantes e multa, em razão da inversão da cláusula 7.5 do contrato firmado entre as partes.
+Acórdão: negou provimento aos recursos de apelação interpostos por ambas as partes.
+Embargos de declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: além de dissídio jurisprudencial no que tange à aplicação do Tema 970/STJ, aduz violação aos arts. 85, 370, 1022 do CPC e 405 do Código Civil.
+Agravo interno: reitera que houve omissão do acórdão de lavra do Tribunal de origem. Sustenta que houve negativa de prestação jurisdicional, pois o Tribunal de origem deferiu o pedido rescisão contratual sem que tenham sido devidamente demonstrados os vícios na construção. Alega que o entendimento do Tema 970/STJ foi aplicado de forma errônea.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA. OMISSÃO. CONTRADIÇÃO, NÃO DEMONSTRADA. REEXAME DE FATOS E PROVAS. TEMA 970/STJ.
+1. Cuida-se de agravo interno que desafia decisão unipessoal que deu parcial provimento ao recurso especial interposto pelos agravantes. 2. É inepta a petição de agravo interno que não impugna, especificamente, os fundamentos da decisão agravada, em especial aqueles que sejam, por si só, suficientes à manutenção do julgado.  3. A omissão justificadora de suprimento no julgado embargado é aquela concernente a ponto suscitado pela parte e sobre o qual o órgão julgador deveria manifestar-se por ser fundamental ao pleno desate da controvérsia, o que não se vislumbra na espécie.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. A indenização pelo tempo de fruição do imóvel, configura-se como um custo extraordinário que vai além daquele que naturalmente se espera quando se trata de rescisão contratual causada por uma das partes, o que justifica que a contratante faça jus à cumulação da multa fixada na cláusula penal com a taxa de ocupação. Precedentes.
+6. Agravo interno não provido.
+VOTO
+1. O presente agravo interno se limita a replicar, ainda que de forma mais suscinta, os mesmos argumentos desenvolvidos no recurso especial, ao invés de impugnar os fundamentos apresentados na decisão.
+2. Por isso, reitera-se que a omissão justificadora de suprimento no julgado embargado é aquela concernente a ponto suscitado pela parte e sobre o qual o órgão julgador deveria manifestar-se por ser fundamental ao pleno desate da controvérsia, o que não se vislumbra na espécie.
+3. Na hipótese dos autos, acórdão de lavra do Tribunal de origem decidiu, fundamentada e expressamente acerca da necessidade de produção de mais provas e da aplicabilidade do Tema 970/STJ, não havendo que se falar em omissão.
+4. Tampouco prevalece a alegada contradição, pois a contradição que enseja o acolhimento dos declaratórios é aquela entre premissas e conclusões do próprio ato decisório, o que não se verifica na espécie. Assim, os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+5. Outrossim, analisar a alegação de que não foram devidamente demonstrados os vícios na construção exige o reexame de fatos e provas, o que é vedado pela Súmula 7/STJ.
+6. Quanto à aplicação do Tema 970/STJ, não há razão para a reforma da decisão agravada, porquanto este STJ entende da seguinte maneira:
+"8. A indenização pelo tempo de fruição do imóvel, configura-se como um custo extraordinário que vai além daquele que naturalmente se espera quando se trata de rescisão contratual causada por uma das partes, o que justifica que a contratante faça jus à cumulação da multa fixada na cláusula penal com a taxa de ocupação. 9. A indenização pelo tempo de utilização do imóvel tem natureza jurídica de aluguéis e se justifica pela vedação ao enriquecimento sem causa. Por isso, a indenização pelo tempo de fruição do bem deve basear-se no valor de aluguel do imóvel em questão e o promissário vendedor deve receber pelo tempo de permanência do comprador desistente. 10. Não merece prosperar o entendimento de que o vendedor deve receber apenas um valor fixo estabelecido na cláusula penal compensatória, independentemente da quantidade de meses que o comprador usufruiu do imóvel, porquanto se estaria violando a teoria da reparação integral do dano. 11. Situação distinta é aquela prevista no Tema 970/STJ, o qual define que a cláusula penal moratória por ter a finalidade de indenizar pelo adimplemento tardio da obrigação, é, em regra, estabelecida em valor equivalente ao locativo, afastando-se sua cumulação com lucros cessantes" REsp n. 2.024.829/SC, Terceira Turma, julgado em 7/3/2023, DJe de 10/3/2023.
+7. Pelo exposto, tem-se que o agravo interno não impugnou especificamente os fundamentos da decisão agravada, em especial aqueles que são, por si só, suficientes à manutenção do julgado. Assim, é inepta a petição de agravo interno.
+DISPOSITIVO
+Forte nessas razões, NEGO PRO VIMENTO ao agravo interno.
