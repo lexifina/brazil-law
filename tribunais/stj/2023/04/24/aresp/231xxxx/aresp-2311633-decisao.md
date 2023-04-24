@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por AGENCIA NACIONAL DE TRANSPORTES TERRESTRES - ANTT, contra decisão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"TRIBUTÁRIO. EXECUÇÃO FISCAL. AGRAVO DE INSTRUMENTO.
+BACENJUD. PARCELAMENTO.
+1. A adesão ao parcelamento não implica novação ou transação do débito, apenas provoca a suspensão da sua exigibilidade pelo período em que perdurar a avença. Por isso, em princípio, todas as garantias já prestadas mantêm-se, não havendo como liberá-las antes da total extinção da dívida.
+2. No caso dos autos, a restrição ocorreu em momento posterior ao parcelamento.
+3. Agravo de instrumento desprovido" (fl. 38e).
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 49/52e), os quais restaram rejeitados, nos seguintes termos:
+"TRIBUTÁRIO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. PREQUESTIONAMENTO.
+1. São cabíveis embargos de declaração contra decisão judicial para esclarecer obscuridade ou eliminar contradição; suprir omissão ou corrigir erro material, conforme dispõe o artigo 1.022 do CPC.
+2. Não se verifica a existência das hipóteses ensejadoras de embargos de declaração quando o embargante pretende apenas rediscutir matéria decidida, não atendendo ao propósito aperfeiçoador do julgado, mas revelando a intenção de modificá-lo, o que se admite apenas em casos excepcionais, quando é possível atribuir-lhes efeitos infringentes.
+3. O prequestionamento de dispositivos legais e/ou constitucionais que não foram examinados expressamente no acórdão, encontra disciplina no artigo 1.025 do CPC, que estabelece que nele consideram-se incluídos os elementos suscitados pelo embargante, independentemente do acolhimento ou não dos embargos de declaração" (fl. 64e).
+Nas razões do Recurso Especial (fls. 75/83e), interposto com base no art. 105, III, a e c, da Constituição Federal, a parte ora agravante aponta, além do dissídio jurisprudencial, violação aos arts. 1.022, I e II, do CPC/2015; 37- B da Lei 10.522/2000; e 65, § 31, da Lei 12.249/2010.
+Sustentou que:
+"Com efeito, persistiu a Corte de origem na omissão da matéria arguida, não se pronunciando sobre:
+a-) que os bloqueios se realizaram em 07/12/2021 e 09/12/2021 e o parcelamento se deu em 15/12/2021, ou seja o deferimento do parcelamento de deu após o bloqueio;
+b-) Prequestionamento dos preceitos art. 37- B da Lei 10522/2000 c/c art. 65 §31 da LEI Lei 12.249/ 2010;
+O Tribunal de origem simplesmente optou por silenciar quanto ao ponto, limitando-se a afastar qualquer lacuna na decisão conforme se constata pelo teor do voto condutor do acórdão regional:
+(..)
+Ora é essencial que a turma julgadora enfrentasse no ponto que os bloqueios se realizaram em 07/12/2021 e 09/12/2021 e o parcelamento se deu em 15/12/2021, ou seja o deferimento do parcelamento de deu após o bloqueio. Sob viés fático não enfrentou no ponto que o parcelamento se deu após o bloqueio; E Sob o viés jurídico não analisou a corte regional o prequestionamento dos dos preceitos art. 37- B da Lei 10522/2000 c/c art. 65 §31 da LEI Lei 12.249/ 2010 que prevê o regramento de que a garantia prestada antes do parcelamento deve ser mantida.
+Não pode a autarquia ser prejudicada pela omissão da corte regional e ver seu recurso não conhecido pela falta de prequestionamento ou aplicação da súmula 07 do STJ. Incorreu a corte regional em negativa da prestação jurisdicional. No caso dos autos não obstante o não enfrentamento da questão a corte regional insistiu no equívoco de que "No caso dos autos, a restrição ocorreu em momento posterior ao parcelamento, não merecendo reparos a decisão agravada" (fls. 77/78e).
+Ponderou que:
+"O débito do Parcelamento será consolidado na data do seu pedido.
+Prevê a Lei 12.249/ 2010 :
+Art. 65. Poderão ser pagos ou parcelados, em até 180 (cento e oitenta) meses, nas condições desta Lei, os débitos administrados pelas autarquias e fundações públicas federais e os débitos de qualquer natureza, tributários ou não tributários, com a Procuradoria-Geral Federal § 31. Os parcelamentos requeridos na forma e nas condições de que trata este artigo:
+I - não dependem de apresentação de garantia ou de arrolamento de bens, exceto quando já houver penhora em execução fiscal ajuizada; e II - no caso de débito inscrito em dívida ativa, abrangerão inclusive os encargos legais que forem devidos, sem prejuízo da dispensa prevista neste artigo.
+Assim entende a autarquia equivocado a liberação do bloqueio realizado antes do parcelamento, devendo o mesmo manter-se depositado até ser paga a última parcela, ocasião em se liberará a garantia prestada" (fl. e).
+Inadmitido o Recurso Especial (fls. 96/100e), foi interposto o presente Agravo (fls. 106/118e).
+A irresignação merece prosperar.
+Com efeito, o provimento do Recurso Especial por contrariedade ao art. 1.022, II, do CPC/2015 pressupõe que sejam demonstrados, fundamentadamente, os seguintes motivos: (a) que a questão supostamente omitida tenha sido invocada na Apelação, no Agravo ou nas contrarrazões a estes recursos, ou, ainda, que se cuide de matéria de ordem pública a ser examinada de ofício, a qualquer tempo, pelas instâncias ordinárias; (b) a oposição de Aclaratórios para indicar à Corte local a necessidade de sanar a omissão em relação ao ponto; (c) que a tese omitida seja fundamental à conclusão do julgado e, se examinada, poderá conduzir à sua anulação ou reforma; (d) a inexistência de outro fundamento autônomo, suficiente para manter o acórdão.
+Tais requisitos são cumulativos e devem ser abordados de maneira fundamentada na petição recursal, sob pena de não se conhecer da alegação por deficiência de fundamentação, dada a generalidade dos argumentos apresentados.
+In casu, entendo presentes tais pressupostos a evidenciar a patente violação do art. 1.022, II, do CPC/2015.
+Isto porque, da análise do acórdão recorrido, verifica-se que, não obstante a alegação no bojo das razões do agravo (fls. 3/7e) e nos Embargos de Declaração (fls. 49/52e), onde a agravante insiste que o deferimento do parcelamento se deu após os bloqueios, que ocorreram em 07/12/2021 e 09/12/2021, enquanto o parcelamento teria se dado em 15/12/2021, observo que o Tribunal de origem não examinou tal alegação, limitando-se a decidir que a a restrição ocorreu em momento posterior ao parcelamento (fl. 42e).
+Portanto, tendo ocorrido omissão acerca do exame de questão invocada nas razões de Apelação, sendo inclusive opostos Aclaratórios na origem, apontando a referida omissão, furtando-se, o Tribunal de origem, mesmo assim, a se manifestar acerca do referido ponto, o qual possui patente relevância, a ponto de conduzir à modificação do julgado regional, somado à inexistência de outro fundamento autônomo, suficiente à manutenção do acórdão regional, impõe-se acolher a preliminar de violação do art. 1.022, II, do CPC/2015, para determinar o retorno dos autos para que seja sanada a omissão apontada.
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, c, do RISTJ, conheço do Agravo para dar provimento ao Recurso Especial, a fim de anular o acórdão de fls. 66/68e, exarado no julgamento dos Aclaratórios de fls. 49/52 e, para que outro seja proferido em seu lugar, sanando as omissões apontadas.
+I.
