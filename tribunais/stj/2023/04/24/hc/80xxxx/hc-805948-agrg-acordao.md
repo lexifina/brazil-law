@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/04/2023 a 24/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Sebastião Reis Júnior, Rogerio Schietti Cruz e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por THIAGO HOLANDA DE OLIVEIRA contra decisão em que indeferi liminarmente a impetração aviada ante sua manifesta impossibilidade.
+Depreende-se dos autos que o agravante foi denunciado como incurso no art. 1º, I e II, da Lei n. 8.137/1990, tendo sido determinado o sequestro de bens.
+Impetrado habeas corpus, este não foi conhecido, em acórdão assim ementado (e-STJ fl. 71):
+HABEAS CORPUS. IRRESIGNAÇÃO CONTRA DECISÃO QUE RESERVOU ANÁLISE DE PEDIDO DE LIBERAÇÃO DE BENS, APÓS JULGAMENTO DE RESE. AUSÊNCIA DE ILEGALIDADE DOS ATOS OU DE AMEAÇA À LIBERDADE DE LOCOMOÇÃO DO PACIENTE. NÃO CONHECIMENTO.
+O é remédio constitucional com motivação vinculada, habeas corpus associada a uma violação ao, específico, direito de locomoção, não podendo ser utilizado para outra finalidade que não seja a de salvaguardar o direito de ir, vir e permanecer, ainda que indiretamente violado, sob pena de desvirtuamento do . mandamus É sabido que a matéria afeta ao habeas corpus deverá ser adstrita ao exame da legalidade, ou não, de um ato que, eventualmente, lese, ou ameace lesionar, o direito de ir e vir do indivíduo, não comportando exame de mérito, vedada na via estreita como esta.
+No writ, sustentou a defesa, a despeito do conhecimento do não cabimento de habeas corpus para a restituição de bens, que "a 5ª Vara Criminal da Capital/PB vem optando por não decidir/apreciar o respectivo pedido de Restituição de Coisa Apreendida, mesmo que preenchidos todos os requisitos pertinentes ao artigo 118, 119 e 120 do CPP, vendo-se o Paciente de mãos atadas, em não poder dispor de seu patrimônio, por dada liberalidade do Juízo, mormente, porque a indisponibilidade dos bens não se confunde com o mérito processual da ação penal de origem" (e-STJ fl. 7).
+Requereu a "CONCESSÃO DA ORDEM, a fim de que seja determinado que o h. Juízo da 5ª Vara Criminal da Capital/PB aprecie/decida, imediatamente, a questão principal posta nos autos do pedido restitutivo tombado sob nº 0804886- 57.2022.8.15.2002, a saber, possibilidade de disponibilidade/restituição dos bens imóveis apreendidos DE MATRÍCULAS Nº 64451, Nº 65692 e Nº 73351, ESCRITURADOS NO 1º OFÍCIO IMOBILIÁRIO DA ZONA SUL, uma vez que já demonstrados não interessarem ao feito, tampouco haver dúvida do direito vindicado, nos termos do REsp 17.41.784/PR, cujo precedente de logo se invoca" (e-STJ fl. 16).
+Nas razões do presente recurso, repisa a defesa os mesmos argumentos expendidos por ocasião da impetração, reforçando a tese de que "este colendo Tribunal da Cidadania admitiu o manejo de habeas corpus, no julgamento do RHC 147.043/SP, de relatoria do min. Sebastião Reis Júnior - com voto favorável deste insigne ministro relator Antônio Saldanha Palheiro -, determinando o levantamento do bloqueio de bens e valores contra Paciente, ante demasiado constrangimento ilegal evidenciado" (e-STJ fl. 91).
+Requer, ao final, a reconsideração da decisão agravada ou a submissão do feito ao colegiado "a fim de reformar a decisão monocrática que indeferiu liminarmente o writ, determinando- se que h. Juízo da 5ª Vara Criminal da Capital/PB aprecie/decida, imediatamente, a questão principal posta nos a utos do pedido restitutivo tombado sob nº 0804886- 57.2022.8.15.2002  .. " (e-STJ fl. 93).
+É o relatório.
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. PEDIDO QUE VERSA SOBRE RESTITUIÇÃO DE BENS, AINDA QUE INDIRETAMENTE. IMPOSSIBILIDADE DE MANEJO DO WRIT. AGRAVO REGIMENTAL DESPROVIDO.
+1 - De acordo com a jurisprudência do Superior Tribunal de Justiça, "o pedido de restituição de bens apreendidos refoge do alcance do habeas corpus, cujo escopo é a proteção do direito de locomoção diante de ameaça ou lesão decorrente de ato ilegal ou praticado com abuso de poder, sendo incabível sua impetração visando direito de natureza diversa da liberdade ambulatorial" (AgRg no HC n. 405.543/SC, Rel. Min. JORGE MUSSI, Quinta Turma, julgado em 21/11/2017, DJe de 28/11/2017.)" (AgRg no HC n. 800.468/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 28/2/2023, DJe de 6/3/2023).
+2 - Na hipótese, ainda que o pleito não verse diretamente sobre a restituição de bens em si, o desiderato defensivo é, ao fim e ao cabo, a própria restituição, hipótese essa não albergada pelo remédio constitucional.
+3 - Agravo regimental a que se nega provimento.
+VOTO
+A despeito dos argumentos apresentados pelo agravante, não vislumbro motivos para alterar a decisão ora impugnada.
+De fato, a irresignação não subsiste, porquanto não cabível o manejo do remédio heroico na hipótese vertente.
+Com efeito, a Constituição Federal preconiza, em seu art. 5º, inciso LXVIII, que o habeas corpus será concedido "sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder".
+Assevero que o Superior Tribunal de Justiça já decidiu ser "imperiosa a necessidade de racionalização do writ, a bem de se prestigiar a lógica do sistema recursal, devendo ser observada sua função constitucional, de sanar ilegalidade ou abuso de poder que resulte em coação ou ameaça à liberdade de locomoção", sendo que "O habeas corpus é garantia fundamental que não pode ser vulgarizada, sob pena de sua descaracterização como remédio heroico, e seu emprego não pode servir a escamotear o instituto recursal previsto no texto da Constituição" (HC n. 131.421/SP, relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 4/12/2012, DJe 14/12/2012).
+Na hipótese, ainda que o pleito não verse diretamente sobre a restituição de bens em si, o desiderato defensivo é, ao fim e ao cabo, a própria restituição, hipótese essa não albergada pelo remédio constitucional, conforme exposto em linhas volvidas.
+Ilustrativamente:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. ART. 33, CAPUT, DA LEI N. 11.343/2006 (JHONATAN e ALISSON) E ART. 329, DO CÓDIGO PENAL (ALISSON). CONDENAÇÃO PELA PRÁTICA DE TRÁFICO DE ENTORPECENTES. EXISTÊNCIA DE PROVA PRODUZIDA SOB O CRIVO DO CONTRADITÓRIO JUDICIAL. INVIÁVEL REEXAME FÁTICO-PROBATÓRIO. CONDENAÇÃO PELO CRIME DE RESISTÊNCIA. PRESENÇA DE PROVA JUDICIALIZADA. INVIÁVEL REFORMA DO QUADRO FÁTICO-PROBATÓRIO FIRMADO NA ORIGEM. DOSIMETRIA. SEGUNDA FASE. QUANTUM DE INCREMENTO PUNITIVO. MOTIVAÇÃO IDÔNEA. MULTIRREINCIDÊNCIA. INCIDÊNCIA DA ATENUANTE GENÉRICA DA CONFISSÃO ESPONTÂNEA. INVIÁVEL. APENADOS NÃO ADMITIRAM ATOS CONFIGURADORES DO TIPO CRIMINAL DE TRÁFICO DE ENTORPECENTES. SÚMULA N. 630/STJ. REGIME PRISIONAL INICIAL. MODALIDADE FECHADA IMPOSTA A JHONATAN. IMPOSSIBILIDADE DE SUBSTITUIÇÃO DA PRISÃO POR PENAS ALTERNATIVAS. MONTANTE DA PENA DEFINITIVA COMBINADO COM A REINCIDÊNCIA. PERDIMENTO DE BENS. QUESTÃO QUE NÃO DEVE SER EXAMINADA NO REMÉDIO CONSTITUCIONAL DO HABEAS CORPUS. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+- "O pedido de restituição de bens apreendidos refoge do alcance do habeas corpus, cujo escopo é a proteção do direito de locomoção diante de ameaça ou lesão decorrente de ato ilegal ou praticado com abuso de poder, sendo incabível sua impetração visando direito de natureza diversa da liberdade ambulatorial" (AgRg no HC n. 405.543/SC, Rel. Min. JORGE MUSSI, Quinta Turma, julgado em 21/11/2017, DJe de 28/11/2017.).
+- Agravo regimental desprovido.
+(AgRg no HC n. 800.468/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 28/2/2023, DJe de 6/3/2023, grifei.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. RESTITUIÇÃO DE BENS. AUSÊNCIA DE CONDENAÇÃO EXPRESSA. FALTA DE CABIMENTO. TUTELA DE LIBERDADE DE LOCOMOÇÃO.
+Agravo regimental improvido.
+(RCD no HC n. 743.661/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 21/6/2022, DJe de 27/6/2022.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS.
+RESTITUIÇÃO DE BENS APREENDIDOS. INADEQUAÇÃO DA VIA ELEITA. NECESSIDADE DE EXAME DE FATOS E PROVAS. AGRAVO REGIMENTAL DESPROVIDO.
+1. O pedido de restituição de bens apreendidos refoge do alcance do habeas corpus, cujo escopo é a proteção do direito de locomoção diante de ameaça ou lesão decorrente de ato ilegal ou praticado com abuso de poder, sendo incabível sua impetração visando direito de natureza diversa da liberdade ambulatorial. Precedentes.
+2. Outrossim, o habeas corpus não é o meio adequado para desconstituir a decisão impugnada, porquanto a modificação das premissas que a sustentam dependeria de revolvimento do conjunto fático-probatório, providência que não se coaduna com a estreita via do writ.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 405.543/SC, relator Ministro Jorge Mussi, Quinta Turma, julgado em 21/11/2017, DJe de 28/11/2017.)
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO, ESPECIAL OU DE REVISÃO CRIMINAL. CRIMES DE QUADRILHA, ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULOS, CORRUPÇÃO ATIVA E RECEPTAÇÃO. AUSÊNCIA DE AUTO CIRCUNSTANCIADO DE BUSCA E APREENSÃO. MATÉRIA NÃO APRECIADA PELA CORTE A QUO. JUNTADA DE LAUDOS PERICIAIS APÓS A APRESENTAÇÃO DE ALEGAÇÕES FINAIS PELOS RÉUS. NECESSIDADE DE COMPROVAÇÃO DE PREJUÍZO. EMENDATIO LIBELLI. AUSÊNCIA DE NULIDADE. PRETENDIDA ABSOLVIÇÃO. REEXAME FÁTICO-PROBATÓRIO. RESTITUIÇÃO DE BENS APREENDIDOS. IMPROPRIEDADE. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+6. O pleito de restituição de bens apreendidos refoge ao âmbito do habeas corpus, nos termos da previsão constitucional que o institucionalizou como meio próprio à preservação do direito de locomoção, quando demonstrada ofensa ou ameaça decorrente de ilegalidade ou abuso de poder.
+Precedentes.
+7. Habeas corpus não conhecido.
+(HC n. 156.632/MS, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 17/12/2015, DJe de 5/2/2016.)
+Nesse sentido, também colacionei precedente do Supremo Tribunal Federal:
+Habeas corpus. Processual Penal. Crimes de quadrilha (art. 288 do CP), falsidade ideológica (art. 299 do CP), lavagem de dinheiro (Lei nº 9.613/98) e contra o sistema financeiro (Lei nº 7.492/86). (..) Restituição dos bens sequestrados. Inadequação da via eleita. Precedentes. Ordem parcialmente conhecida e denegada. (..) 5. O magistério jurisprudencial da Corte não tem admitido habeas corpus quando com ele se pretende discutir questões alheias à privação da liberdade de locomoção, razão pela qual o pedido de restituição de patrimônio sob sequestro não deve ser conhecido. 6. Habeas corpus conhecido em parte e, nessa parte, denegado.
+(HC 102262, relator Ministro DIAS TOFFOLI, Primeira Turma, julgado em 5/6/2012, acórdão eletrônico DJe-176, divulgado em 5/9/2012, publicado em 6/9/2012 .)
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
