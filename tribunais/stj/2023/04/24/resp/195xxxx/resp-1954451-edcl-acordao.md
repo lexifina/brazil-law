@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/04/2023 a 24/04/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Humberto Martins, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de embargos de declaração opostos contra Acórdão que julgou recurso especial. O recurso foi julgado pela E. Segunda Turma, conforme a seguinte ementa do acórdão:
+TRIBUTÁRIO E PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. IPVA. IMPETRAÇÃO DIRIGIDA A SECRETÁRIO DE ESTADO DA FAZENDA. DECLINAÇÃO DE COMPETÊNCIA. OPORTUNIZAÇÃO DE EMENDA A INICIAL PARA CORREÇÃO DA AUTORIDADE COATORA LEGÍTIMA. IMPOSSIBILIDADE. MODIFICAÇÃO DE COMPETÊNCIA.
+I - O mandado de segurança foi impetrado contra ato do Secretário Estadual de Fazenda, objetivando discutir lançamento de IPVA. O Tribunal declinou da competência, oportunizando ao impetrante emendar a inicial, para a indicação da correta autoridade coatora.
+II - Este Superior Tribunal de Justiça, tem jurisprudência pacífica no sentido da vedação à oportunização ao impetrante, da emenda à inicial para a indicação da correta autoridade coatora, quando a referida modificação implique na alteração da competência jurisdicional. Precedentes: AgInt no RMS n. 53.867/MG, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 21/3/2019, DJe de 3/4/2019 e RMS n. 68.112/MA, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 20/9/2022, DJe de 27/9/2022.)
+III - Recurso especial provido.
+Opostos embargos de declaração, aponta a parte embargante os seguintes vícios no acórdão embargado:
+O Exmo. Ministro Relator inicia seu voto que desaguou no acordão, ora embargado, apontando que o Recurso Especial manejado pelo Estado do Rio de Janeiro estaria viciado devido ao fato de não ter apontado a omissão a omissão do Tribunal a quo violando o principio da adstrição e por consequência atraindo o comando da Súmula 284/STF.
+Note que tal situaçãonão se deu por deficiência técnica da Procuradoria do Estado do Rio de Janeiro, mas sim devido ao fato de ser a única forma de trazer a este E. Tribunal discussão que em realidade cinge-se a matéria de fato, evidentemente situação vedada pela Súmula 7 deste mesmo Tribunal.
+Melhor detalhando a questão, a omissão do Tribunal a quo não foi abordada devidamente apenas por um motivo, não há qualquer omissão! O Estado do Rio de Janeiro, me realidade, buscou ardilosamente transverter a ordem processual afim levar esse Tribunal a erro apontando que esse caso se enquadraria na remansosa jurisprudência do STJ sobre o tema da Teoria da Encampação, inclusive objeto da Súmula 628/STJ. Nada mais falso.
+ ..
+Quando o Embargado não aponta a omissão no acordão é pura e simplesmente devido ao fato dela não existir, pois caso assim o fizesse ficaria claro a este E. Tribunal Superior a tentativa de debater o conteúdo material do processo que, por sua vez, atrairia a Súmula 7/STJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. MANDADO DE SEGURANÇA. IPVA. DECLINAÇÃO DE COMPETÊNCIA. OPORTUNIZAÇÃO DE EMENDA A INICIAL PARA CORREÇÃO DA AUTORIDADE COATORA LEGÍTIMA. IMPOSSIBILIDADE. MODIFICAÇÃO DE COMPETÊNCIA. EMBARGOS DE DECLARAÇÃO. ALEGAÇÃO DE VÍCIOS NO ACÓRDÃO EMBARGADO. INEXISTÊNCIA. PRETENSÃO DE REEXAME.
+I - Trata-se de embargos de declaração opostos contra Acórdão que deu provimento a recurso especial para extinguir o mandado de segurança, sem resolução de mérito, a teor do inciso VI, do art. 485 do CPC/2015.
+II - Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade; eliminar contradição; suprir omissão de ponto ou questão sobre as quais o juiz devia pronunciar-se de ofício ou a requerimento; e/ou corrigir erro material.
+III - Alega a embargante que o vício do acórdão consiste em suposta contradição quanto à argumentação apresentada, pois, embora tenha sido refutada a presença de omissão no acórdão recorrido, aplicando-se a Súmula n. 284/STF, acolheu a pretensão do ente público para dar provimento ao recurso especial. Sustenta, ainda, não ser caso de aplicação da Súmula n. 628/STJ e pugna pela aplicação da Súmula n. 7/STJ, para inadmitir o apelo nobre.
+IV - A contradição que vicia o julgado de nulidade é a interna, em que se constata uma inadequação lógica entre a fundamentação posta e a conclusão adotada, o que, a toda evidência, não retrata a hipótese dos autos. Nesse sentido: EDcl no AgInt no RMS 51.806/ES, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 16/5/2017, DJe 22/5/2017; EDcl no REsp 1.532.943/MT, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 18/5/2017, DJe 2/6/2017.
+V - A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do CPC/2015, razão pela qual inviável o seu exame em embargos de declaração.
+VI - Cumpre ressaltar que os aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso. No caso dos autos, não há omissão de ponto ou questão sobre as quais o juiz, de ofício ou a requerimento, devia pronunciar-se, considerando que a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+VII - Embargos de declaração rejeitados.
+VOTO
+Os embargos não merecem acolhimento.
+Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade; eliminar contradição; suprir omissão de ponto ou questão sobre as quais o juiz devia pronunciar-se de ofício ou a requerimento; e/ou corrigir erro material.
+Alega a embargante que o vício do acórdão consiste em suposta contradição quanto à argumentação apresentada, pois, embora tenha sido refutada a presença de omissão no acórdão recorrido, aplicando-se a Súmula n. 284/STF, acolheu a pretensão do ente público para dar provimento ao recurso especial. Sustenta, ainda, não ser caso de aplicação da Súmula n. 628/STJ e pugna pela aplicação da Súmula n. 7/STJ, para inadmitir o apelo nobre.
+A contradição que vicia o julgado de nulidade é a interna, em que se constata uma inadequação lógica entre a fundamentação posta e a conclusão adotada, o que, a toda evidência, não retrata a hipótese dos autos. Nesse sentido: EDcl no AgInt no RMS 51.806/ES, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 16/5/2017, DJe 22/5/2017; EDcl no REsp 1.532.943/MT, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 18/5/2017, DJe 2/6/2017.
+A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do CPC/2015, razão pela qual inviável o seu exame em embargos de declaração. Nesse sentido:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. EMBARGOS DE DECLARAÇÃO. FINALIDADE DE PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. OMISSÃO. NÃO OCORRÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. ART. 1.022 DO NOVO CPC.
+1. A ocorrência de um dos vícios previstos no art. 1.022 do CPC é requisito de admissibilidade dos embargos de declaração, razão pela qual a pretensão de mero prequestionamento de dispositivos constitucionais para a viabilização de eventual recurso extraordinário não possibilita a sua oposição. Precedentes da Corte Especial.
+2. A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do novo CPC, razão pela qual inviável o seu exame em sede de embargos de declaração.
+3. Embargos de declaração rejeitados.
+(EDcl nos EAREsp 166.402/PE, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 15/3/2017, DJe 29/3/2017.)
+EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. CONTRADIÇÃO. NÃO OCORRÊNCIA. OMISSÕES. INEXISTÊNCIA. CARÁTER PROCRASTINATÓRIO RECONHECIDO. APLICAÇÃO DE MULTA.
+1. A contradição capaz de ensejar o cabimento dos embargos declaratórios é aquela que se revela quando o julgado contém proposições inconciliáveis internamente.
+2. Sendo os embargos de declaração recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição ou omissão -, não podem ser acolhidos quando a parte embargante pretende, essencialmente, a obtenção de efeitos infringentes.
+3. Evidenciado o caráter manifestamente protelatório dos embargos de declaração, cabe a aplicação da multa prevista no parágrafo único do art. 538 do CPC/1973.
+4. Embargos de declaração rejeitados com aplicação de multa.
+(EDcl na Rcl 8.826/RJ, Rel. Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, julgado em 15/2/2017, DJe 15/3/2017.)
+Cumpre ressaltar que os aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso. No caso dos autos, não há omissão de ponto ou questão sobre as quais o juiz, de ofício ou a requerimento, devia pronunciar-se, considerando que a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
