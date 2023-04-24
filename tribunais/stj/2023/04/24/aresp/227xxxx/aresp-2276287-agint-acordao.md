@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/04/2023 a 24/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+Cuida-se de agravo interno interposto por PORTOCRED SA CREDITO FINANCIAMENTO E INVESTIMENTO, contra decisão da Presidência do STJ que conheceu do agravo agravo para não conhecer do recurso especial.
+Ação: revisional de contrato bancário cumulada com repetição de indébito, ajuizada por CLAUDIONOR ALVES DORNELLES, em face da agravante, no qual alega excesso na cobrança de juros remuneratórios.
+Sentença: julgou procedente os pedidos formulados pela parte autora para o fim de limitar os juros remuneratórios do contrato de empréstimo não consignado à taxa média de mercado à época da contratação (6,52% a. m.), condenando o réu à devolução dos valores cobrados em excesso, subtraindo-os, se for o caso, das parcelas vincendas, com a repetição simples do indébito caso exista crédito em favor da parte autora após a compensação dos valores. O valor deverá ser corrigido monetariamente pelo IGP-M a partir de cada desembolso e acrescido de juros de mora de 1% ao mês a contar da data da citação.
+Acórdão: negou provimento às apelações interpostas por ambas as partes, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. REVISÃO DE CONTRATO. MOSTRA-SE PLENAMENTE POSSÍVEL A REVISÃO JUDICIAL DE TODA A CONTRATUALIDADE, INCLUSIVE DE CONTRATOS EVENTUALMENTE EXTINTOS PELO PAGAMENTO OU PELA NOVAÇÃO, A FIM DE QUESEJAM AFASTADAS EVENTUAIS ILEGALIDADES. AS AÇÕES REVISIONAIS DE CONTRATO BANCÁRIO SÃO FUNDADA SEM DIREITO PESSOAL, MOTIVO PELO QUAL O PRAZO PRESCRICIONAL,EM CONTRATOS FIRMADOS NA VIGÊNCIA DO NOVO CÓDIGO CIVIL,COMO NO CASO, É O DECENAL, NOS TERMOS DO DISPOSTO NO ART.205, CAPUT, DO REFERIDO DIPLOMA LEGAL. PRESCRIÇÃO NÃO IMPLEMENTADA. CONSOANTE ENTENDIMENTO PRECONIZADO NO SUPERIOR TRIBUNALDE JUSTIÇA E QUE VEM SENDO ADOTADO POR ESTA CÂMARA, MOSTRA-SE POSSÍVEL A LIMITAÇÃO DOS JUROS REMUNERATÓRIOS À TAXA MÉDIA DE MERCADO DEFINIDA PELO BACEN, À ÉPOCA DOS CONTRATOS, QUANDO CONSTATADA ABUSIVIDADE, NOS TERMOS DO CÓDIGO DE DEFESA DO CONSUMIDOR. NO CASO EM EXAME, A TAXADE JUROS COBRADA NO CONTRATO OBJETO DE REVISÃO, É SIGNIFICATIVAMENTE SUPERIOR À TAXA MÉDIA DO BACEN, RAZÃO PELA QUAL CABÍVEL A LIMITAÇÃO. PRECEDENTES DESTA CORTE. EXISTINDO PAGAMENTO A MAIOR, A JURISPRUDÊNCIA DO STJ É PACÍFICA NO SENTIDO DE ADMITIR A REPETIÇÃO, NA FORMA SIMPLES, INDEPENDENTEMENTE DA PROVA DE ERRO, ACRESCIDA DE JUROS E CORREÇÃO NA FORMA DA SENTENÇA. AFASTARAM AS PRELIMINARES E NEGARAM PROVIMENTO AOS RECURSOS. UNÂNIME.
+Embargos de declaração: opostos por ambas as partes, foram rejeitados.
+Recurso Especial: interposto pela alínea "c" do permissivo constitucional, a parte recorrente aponta divergência jurisprudencial em relação ao art. 51, IV, e § 1º, III, do CDC, no que concerne à impossibilidade de se declarar a abusividade dos juros remuneratórios contratados, baseando-se apenas na sua comparação direta com a taxa média de mercado, sem que sejam analisadas as peculiaridades de cada caso concreto.
+Decisão unipessoal da Presidência do STJ: conheceu do agravo para não conhecer do recurso especial em razão da ausência de similitude fática e identidade jurídica entre o acórdão recorrido e aquele apontado como paradigma, tendo em vista que são diversas as circunstâncias concretas neles delineadas e o direito aplicado.
+Agravo interno: o agravante alega que o acórdão recorrido e os acórdãos paradigmas possuem similitude fática.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO CUMULADA COM REPETIÇÃO DE INDÉBITO. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Ação revisional de contrato bancário cumulada com repetição de indébito.
+2. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+3. Agravo interno não provido.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+Cuida-se de agravo interno interposto por PORTOCRED SA CREDITO FINANCIAMENTO E INVESTIMENTO, contra decisão da Presidência do STJ que conheceu do agravo agravo para não conhecer do recurso especial em razão da ausência de similitude fática e identidade jurídica entre o acórdão recorrido e aquele apontado como paradigma, tendo em vista que são diversas as circunstâncias concretas neles delineadas e o direito aplicado.
+- Da divergência jurisprudencial
+Para que se tenha por configurada a divergência, é necessário que haja uma análise aprofundada e exaustiva dos arestos, de modo a demonstrar que o acórdão do Tribunal local foi proferido de maneira análoga ou similar a outros julgados.
+Ainda, é necessário que a parte agravante faça uma análise mais apurada dos acórdãos, de forma a comparar os fundamentos adotados por cada órgão para fazer a demonstração da divergência. Logo, é premente que o agravante apresente o cotejo entre os acórdãos, evidenciando, assim, a divergência jurisprudencial, o que não ocorreu na espécie.
+Com relação à similitude fática, esta é a semelhança entre os fatos que servem como base para uma análise comparativa entre os acórdãos. Em consequência, é requisito indispensável para a demonstração da divergência, pois é necessário que os fatos sejam comparáveis para que se possa estabelecer uma discrepância ou semelhança entre eles, o que não ocorreu na espécie. Assim, sem a adequada demonstração da similitude fática, a análise do dissídio jurisprudencial não é possível.
+A despeito das alegações aduzidas neste recurso, percebe-se que a parte agravante não trouxe qualquer argumento novo capaz de ilidir o entendimento firmado na decisão ora agravada.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno no agravo em recurso especial.
