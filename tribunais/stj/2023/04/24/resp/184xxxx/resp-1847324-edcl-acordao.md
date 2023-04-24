@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/04/2023 a 24/04/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Humberto Martins, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de recurso especial interposto por José Mário da Silva Araújo e outros com fundamento no art. 105, III, a e c, da Constituição Federal, e de agravo interposto pela Fazenda do Estado de São Paulo contra a decisão que inadmitiu o recurso especial fundado no art. 105, III, a, da Constituição Federal.
+Na origem, José Mário da Silva Araújo e outros ajuizaram ação de cobrança com valor da causa atribuído em R$ 55.000,00 (sessenta mil reais), em agosto de 2016, tendo como objetivo o recebimento dos valores reconhecidos pretéritos (quinquênio anterior) à impetração do Mandado de Segurança Coletivo n. 0600593-40.2008.8.26.0053 (053.08.600593-9).
+Após sentença que extinguiu o feito sem exame de mérito, foi interposta apelação, que teve seu provimento parcialmente concedido pelo Tribunal de Justiça do Estado de São Paulo, consignando-se que não houve o trânsito em julgado do mandado de segurança coletivo em que se funda a presente ação de cobrança.
+Não foram opostos embargos de declaração.
+A Fazenda do Estado de São Paulo interpôs recurso especial, apontando violação do art. 2º-A da Lei n. 9.494/1997; art. 1º do Decreto n. 20.910/1932 e art. 5º da Lei n. 11.960/2009.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+Após decisum que inadmitiu o recurso especial, com base na Súmula n. 7/STJ, foi interposto o presente agravo, tendo o recorrente apresentado argumentos visando rebater os fundamentos da decisão agravada.
+José Mário da Silva Araújo e outros interpuseram recurso especial, apontando violação dos arts. 240 do CPC/2015 e 405 do CC/2002, bem como divergência jurisprudencial.
+Sustentam, em síntese, que o termo inicial dos juros de mora considerado seja a data da notificação da autoridade coatora no writ coletivo.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+O recurso foi admitido.
+Em decisão de fls. 468-472, não se conheceu do recurso especial dos particulares e o agravo da Fazenda Estadual foi conhecido para dar provimento a seu recurso especial e extinguir o feito sem exame de mérito.
+Interposto agravo interno, foi desprovido, ficando assim ementado o acórdão, in verbis:
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. QUINQUÊNIO E SEXTA-PARTE. PARCELAS PRETÉRITAS. MANDADO DE SEGURANÇA COLETIVO. TRÂNSITO EM JULGADO. NECESSIDADE. ACÓRDÃO RECORRIDO EM CONFRONTO COM O ENTENDIMENTO DESTA CORTE SUPERIOR.
+I - Na origem, trata-se de ação ajuizada contra o Estado de São Paulo e a São Paulo Previdência - SPPREV objetivando a cobrança das diferenças de quinquênio e da sexta-parte, do quinquênio anterior à impetração do mandado de segurança coletivo. Na sentença, indeferiu-se a petição inicial. No Tribunal a quo, a sentença foi reformada para extinguir o processo, por ilegitimidade passiva, em relação a São Paulo Previdência e julgar procedente o pedido em relação ao Estado de São Paulo. Esta Corte não conheceu do recurso especial de José Mário da Silva Araújo e outros e conheceu-se do agravo para dar provimento ao recurso especial da Fazenda do Estado de São Paulo, para extinguir o feito sem exame de mérito.
+II - A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que, se o agravante, além de atender aos demais pressupostos de admissibilidade deste agravo, logrou impugnar a fundamentação da decisão agravada, merece exame o recurso especial interposto.
+III - Depreende-se das informações dos autos que a sentença do mandado de segurança coletivo na qual determinou o pagamento dos adicionais de tempo de serviço e sexta-parte não tinha transitado em julgado no ajuizamento da presente ação de cobrança.
+IV - O STJ possui jurisprudência consolidada de que é necessário aguardar o trânsito em julgado da sentença em mandado de segurança coletivo para o ajuizamento da ação de cobrança pretendendo o recebimento de parcelas pretéritas. Nesse sentido: (AgInt no REsp n. 1748782/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 21/2/2019, DJe 1º/3/2019, REsp n. 1.747.518/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 12/2/2019, DJe 21/2/2019 e REsp n. 1.764.345/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 2/10/2018, DJe 28/11/2018).
+V - Agravo interno improvido.
+Foram opostos embargos declaratórios (fls. 532-548) com fins de prequestionamento, defendendo, em síntese, que:
+Exigir o trânsito em jugado do writ coletivo para que se exerça livremente o direito de ação de cobrança dos valores pretéritos é intolerável no âmbito constitucional, pois resultaria em desmesurada ofensa à inafastabilidade de jurisdição prevista no inciso XXXV, do art. 5º, da Carta Magna. Afastada aplicação do Tema 895 do Supremo Tribunal Federal. (fl. 532)
+Às fls. 557-558, foi determinado o sobrestamento do feito, ante a afetação do Tema n. 1.146/STJ.
+Opostos novos embargos declaratórios, os quais foram recebidos como pedido de distinção (fls. 583-584).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. DESAFETAÇÃO DO TEMA N. 1.146/STJ. EMBARGOS DE DECLARAÇÃO SEM INDICAÇÃO DE OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO. NÃO CONHECIMENTO. SUPERVENIÊNCIA DO TRÂNSITO EM JULGADO.
+I - Na origem, trata-se de ação ajuizada contra o Estado de São Paulo e a São Paulo Previdência - SPPREV objetivando a cobrança das diferenças de quinquênio e da sexta-parte, do quinquênio anterior à impetração do mandado de segurança coletivo. Na sentença, julgou-se improcedente o pedido. No Tribunal a quo, a sentença foi reformada para julgar procedente a ação. Esta Corte deu provimento ao recurso especial da Fazenda Estadual para extinguir o feito sem exame de mérito.
+II - Em razão da desafetação do Tema 1.146/STJ, torna-se sem efeito a decisão de fls. 466-467, que determinava o retorno dos autos ao Tribunal de origem, em observância aos arts. 1.040 e seguintes do CPC, julgando prejudicados os recursos que a procederam.
+III - Passa-se à apreciação dos embargos de declaração de fls. 446-456. Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre as quais devia pronunciar-se o juiz, de ofício ou a requerimento, e/ou corrigir erro material.
+IV - O caput do art. 1.023 do Código de Processo Civil de 2015 aponta expressamente o dever do embargante de indicar a omissão, obscuridade ou contradição na decisão, ônus do qual não se desincumbiu o recorrente.
+V - A ausência de indicaçã o, nas razões dos embargos declaratórios, da presença de quaisquer dos supramencionados vícios implica o não conhecimento dos embargos de declaração por descumprimento dos requisitos legais.
+VI - Ademais, ainda que nos embargos declaratórios de fls. 562-574, a parte ora embargante tenha informado que houve a superveniência do trânsito em julgado do mandado de segurança coletivo, o que configuraria fato novo, é preciso destacar que o preenchimento posterior de pressuposto processual não convalida o vício inicialmente constatado. Isso porque a sua comprovação no momento do ajuizamento da ação é necessária para a constituição e desenvolvimento válidos do processo.
+VII - Embargos de declaração rejeitados.
+VOTO
+Após o proferimento de decisão que determinava a devolução dos autos ao Tribunal de origem, em razão da afetação do Tema 1.146/STJ, que versava sobre o objeto do presente agravo em recurso especial, a parte recorrente opôs embargos de declaração, alegando a não submissão do feito ao tema mencionado. Tal recurso foi recebido como pedido de distinção, nos termos do art. 1.037, §§ 10 e 11, do CPC.
+No entanto, em 23/11/2022, a Primeira Seção acolheu questão de ordem proposta pelo Min. relator Mauro Campbell Marques, no REsp 1.836.423/SP, e desafetou o recurso do rito dos recursos repetitivos, ante a superveniência de fato novo que alterou as peculiaridades do caso.
+Logo, em razão da desafetação do Tema 1.146/STJ, torna-se sem efeito a decisão de fls. 557-558, que determinava o retorno dos autos ao Tribunal de origem, em observância aos arts. 1.040 e seguintes do CPC, julgando prejudicados os recursos que a procederam.
+Passa-se à apreciação dos embargos de declaração de fls. 532-548, opostos contra o acórdão que desproveu o agravo interno e manteve o não conhecimento do recurso especial, sob o fundamento de que o julgado recorrido está em consonância com a jurisprudência desta Corte Superior que exige o trânsito em julgado do mandado de segurança coletivo para a propositura da ação de cobrança relativa às parcelas pretéritas.
+Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre as quais devia pronunciar-se o juiz, de ofício ou a requerimento, e/ou corrigir erro material.
+O caput do art. 1.023 do Código de Processo Civil de 2015 aponta expressamente o dever do embargante de indicar a omissão, obscuridade ou contradição na decisão, ônus do qual não se desincumbiu o recorrente.
+A ausência de indicação, nas razões dos embargos declaratórios, da presença de quaisquer dos supramencionados vícios implica o não conhecimento dos embargos de declaração por descumprimento dos requisitos legais.
+Nesse sentido é a jurisprudência:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FALTA DE INDICAÇÃO, NAS RAZÕES DO RECURSO, DE QUALQUER UM DOS VÍCIOS DO ART. 535 DO CPC. NÃO PREENCHIMENTO DOS REQUISITOS DE ADMISSIBILIDADE. EMBARGOS NÃO CONHECIDOS.
+1. A jurisprudência deste Tribunal Superior é firme no sentido de que não preenche os requisitos de admissibilidade a petição dos embargos de declaração que não indica nenhum dos vícios elencados no art. 535 do CPC, caso dos autos, o que, por si só, é suficiente para o não conhecimento do recurso, na medida em que a deficiência da argumentação inviabiliza a compreensão exata da controvérsia a ser solvida, atraindo o teor da Súmula 284/STF.
+2. Embargos de declaração não conhecidos.
+(EDcl no AgRg no AREsp 181.826/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 01/10/2015, DJe 21/10/2015.)
+EMBARGOS DE DECLARAÇÃO. PROCESSUAL CIVIL. FALTA DE INDICAÇÃO DOS VÍCIOS RELACIONADOS NO ART. 535 DO CPC. JUÍZO NEGATIVO DE ADMISSIBILIDADE DOS DECLARATÓRIOS.
+1. A ausência de indicação, nas razões dos embargos declaratórios, da presença de quaisquer dos vícios enumerados no art. 535 do CPC implica o não conhecimento dos aclaratórios por descumprimento dos requisitos previstos no art. 536 do mesmo diploma legal, além de comprometer a exata compreensão da controvérsia trazida no recurso.
+2. Embargos de declaração não conhecidos. (EDcl no AgRg no AREsp 54.614/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 4/8/2015, DJe 12/8/2015).
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. EMBARGOS DE DECLARAÇÃO. DENÚNCIA ESPONTÂNEA. MULTA MORATÓRIA. FALTA DE INDICAÇÃO DOS VÍCIOS ELENCADOS NO ART. 535 DO CPC.
+1. Não podem ser conhecidos os embargos de declaração manejados com o nítido propósito de discussão de matéria já decidida e que não indicam os vícios elencados no art. 535 do CPC capazes de macular o decisório embargado.
+ ..
+(AgRg nos EDcl no Ag 1058760/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 19/5/2009, DJe 1º/6/2009.)
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO EXTRAORDINÁRIO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO. INEXISTÊNCIA DE OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. REITERAÇÃO DE EMBARGOS COM INTUITO MANIFESTAMENTE PROTELATÓRIO. ABUSO DO DIREITO DE RECORRER. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS.
+I - Os embargos de declaração devem atender aos seus requisitos, quais sejam, suprir omissão, contradição ou obscuridade. Não havendo qualquer um desses pressupostos, o recurso integrativo não deve ser conhecido.
+II - A reiteração de embargos de declaração sem ao menos se indicar qual o ponto supostamente omisso indica o intuito protelatório do recurso.
+III - Embargos de declaração não conhecidos.
+(EDcl nos EDcl nos EDcl no ARE no RE nos EDcl nos EDcl no AgRg no AREsp 114.352/RJ, Rel. Ministro GILSON DIPP, CORTE ESPECIAL, julgado em 1º/7/2014, DJe 5/8/2014.)
+Ademais, ainda que nos embargos declaratórios de fls. 562-574, a parte ora embargante tenha informado que houve a superveniência do trânsito em julgado do mandado de segurança coletivo, o que configuraria fato novo, é preciso destacar que o preenchimento posterior de pressuposto processual não convalida o vício inicialmente constatado. Isso porque a sua comprovação no momento do ajuizamento da ação é necessária para a constituição e desenvolvimento válidos do processo.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
