@@ -1,0 +1,62 @@
+DECISÃO
+Trata-se de pedido de tutela de urgência apresentado por LUIZ FONTANELLI - ESPÓLIO visando à atribuição de efeito suspensivo ao recurso especial inadmitido na origem.
+O apelo extremo insurge-se contra o acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais assim ementado:
+"AGRAVO DE INSTRUMENTO -CUMPRIMENTO PROVISÓRIO DE SENTENÇA -TUTELA PROVISÓRIA DE URGÊNCIA -ARBITRAMENTO DE INDENIZAÇÃO POR FRUIÇÃO EXCLUSIVA DO IMÓVEL -POSSIBILIDADE. O deferimento dos pedidos de tutela provisória de urgência demanda a demonstração da presença dos requisitos previstos no art. 300 do CPC, quais sejam: a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo. Tendo em vista a fruição exclusiva do imóvel por uma das partes, é cabível, em sede de tutela provisória de urgência, o arbitramento de indenização provisória em favor da exequente. É desarrazoada a pretensão do agravante de querer promover procedimento ordinário de arbitramento de valor de aluguel, poiso que se arbitrou foi apenas um valor indenizatório pela fruição exclusiva do imóvel" (fl. 1.713 e-STJ).
+Na presente petição (fls. 3-22 e-STJ), o requerente narra que o pedido tem origem em cumprimento provisório de sentença que julgou improcedentes os pedidos formulados em ação declaratória.
+Defende a probabilidade de êxito do apelo especial por ofensa aos arts. 515, I, 783 e 803, I, do Código de Processo Civil de 2015, haja vista que a execução está fundada em sentença que não reconhece nenhuma das obrigações descritas e postuladas pela requerida.
+Alega que
+"(..)
+a execução de origem está amparada em uma sentença de improcedência da referida ação declaratória, pela qual o Requerente buscava o reconhecimento da nulidade de uma Escritura Pública de Compra e Venda (por simulação), mas teve o seu pedido rechaçado sob o fundamento de que a prova da simulação era frágil e de que, como ele era um dos partícipes, não poderia suscitá-la em face da Requerida.
+Contudo, mesmo não tendo a sentença reconhecido qualquer obrigação em favor da Requerida, ela promoveu um cumprimento de sentença para executar obrigações cuja exigibilidade NUNCA esteve debatida e ou admitida pelo título daquela ação, com o de abstenção para o Espólio plantar em toda a propriedade; prestação de contas mensais dos gastos com a lavoura; depósito judicial de 100% dos valores o obtidos com a comercialização da safra; entrega da soja cultivada sobre a cota parte da Requerida como indenização pela fruição do bem; além do arbitramento de aluguel pela fruição exclusiva do imóvel pelo Requerente.
+E isso tudo, é bom frisar, em sede de um cumprimento provisório e amparada em uma sentença que se limitou a julgar improcedente o pedido de declaração de nulidade da compra e venda" (fls. 7-8 e-STJ).
+Repisa que
+"(..)
+pelo simples fato de se reconhecer que não houve prova da simulação e que o Requerente não poderia suscitá-la em benefício da sua própria torpeza, entendeu-se que a Requerida passaria a ter o direito de possuir toda a propriedade, obter prestação de contas e os valores das lavouras que estão sendo plantadas na fazenda (e que, aliás, está arrendada) e, ainda, de receber aluguel pela fruição exclusiva em um valor que foi criado pela subjetividade do magistrado com base na sua "experiência" e em conhecimentos que disse serem públicos e notórios sobre a região (fl. 10 e-STJ).
+Assevera, ainda, a ausência de liquidez da obrigação de pagar alugueis, deixando evidente a nulidade do cumprimento de sentença.
+Pondera também que a tutela provisória concedida detém natureza satisfativa, visto que o acórdão proferido pela Corte local criou uma obrigação de pagar quantia certa que não foi reconhecida na fase de conhecimento.
+Aduz a presença do perigo da demora devido ao fato de que o magistrado de piso aceitou a caução prestada pela ora requerida, "momento a partir do qual ela já poderia levantar e alienar as 6.180,29 sacas de 60kg da soja plantada, colhida e depositada na cooperativa local pelo espólio Requerente (safra de 2020/2021)" (fl. 20 e-STJ).
+Requer, por fim, o deferimento do pedido para suspender atos de execução ou de levantamento de valores no cumprimento provisório de sentença.
+É o relatório.
+DECIDO.
+Consoante o disposto no art. 1.029, § 5º, I, do CPC/2015, com a redação dada pela Lei nº 13.256/2016, o pedido de concessão de efeito suspensivo a recurso especial poderá ser "formulado por requerimento dirigido ao tribunal superior respectivo, no período compreendido entre a publicação da decisão de admissão do recurso e sua distribuição, ficando o relator designado para seu exame prevento para julgá-lo".
+No caso, considerando que já foi realizado o juízo prévio de admissibilidade do apelo especial, compete a esta Corte Superior o exame do pedido de atribuição de efeito suspensivo ao recurso.
+A verificação do fumus boni juris está relacionada com a plausibilidade do direito invocado ou com a probabilidade de êxito do recurso especial, de modo que é conveniente o exame da viabilidade do apelo nobre, ainda que de modo perfunctório.
+A propósito:
+"AGRAVO INTERNO NO PEDIDO DE TUTELA PROVISÓRIA. RECURSO ESPECIAL. ORIGEM. INADMISSÃO. ARESP. PROCESSAMENTO. FUMUS BONI IURIS E PERICULUM IN MORA - DEMONSTRAÇÃO. AUSÊNCIA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A concessão de efeito suspensivo ao recurso especial depende do "fumus boni iuris", consistente na plausibilidade do direito alegado, e do "periculum in mora", que se traduz na urgência da prestação jurisdicional.
+3. Na hipótese, por se tratar de agravo em recurso especial inadmitido na origem, indispensável a demonstração da viabilidade de reversão do prévio juízo negativo de admissibilidade do apelo nobre ao qual se pretende atribuir efeito suspensivo.
+4. Agravo interno não provido".
+(AgInt no TP n. 4.155/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 14/11/2022, DJe de 18/11/2022)
+Na hipótese, o Tribunal de origem manteve a decisão do magistrado de piso que deferiu o cumprimento de sentença ao fundamento de que a fixação de verba indenizatória à ora requerida é consectário lógico da improcedência do pedido formulado na ação declaratória. Eis, por oportuno, a transcrição de trecho do acórdão:
+"(..)
+Nessa esteira, comprovado o exercício da fruição exclusiva da propriedade rural pelo agravante/executado, fato é que a fixação de pagamento de verba indenizatória à parte exequente, consistente na constrição das sacas de soja, é consectário lógico da improcedência da Ação Declaratória da qual decorre este Cumprimento Provisório de Sentença.
+É que a sentença declaratória em questão obviamente implica em uma série de obrigações para o agravante/executado, tais como a prestação de contas e divisão dos frutos percebidos, razão pela qual a tutela de urgência deferida pelo MM. Juiz de 1º grau, determinando o pagamento de quantia pela fruição exclusiva, não merece reparos.
+Aliás, a consequência lógica da declaração contida no título executivo da Ação de Nulidade seria a imissão da exequente/agravada na posse do imóvel, uma vez que constada a sua propriedade, todavia, tal pedido foi negado inicialmente pelo MM. Juiz a quo, justamente em razão das obrigações impostas ao agravante/executado pelo uso exclusivo da propriedade durante os anos.
+Dessa forma, assim como o d. Magistrado de 1º grau, entendo que não há que se falar em decisão extra petita, eis que houve correta marcha processual, com o atendimento a um pedido que foi explicitamente elencado na exordial e mostra-se compatível com as consequências decorrentes da improcedência da Ação Declaratória de Nulidade de Escritura Pública ajuizada pelo executado/agravante em desfavor da exequente/agravada" (fls. 1.724-1.725 e-STJ).
+Ademais, a Corte local também afastou a tese de iliquidez do título, nos termos da fundamentação abaixo:
+"(..)
+Prosseguindo, no que tange à alegação de iliquidez para estabelecer o quantum a título de repasse pela fruição exclusiva, pontuo que o d. Magistrado de 1º grau levou em consideração critérios que, por ora, me parecem adequados e suficientes, quais sejam: localização do imóvel rural; implementação agrícola no município e no imóvel disputado; entendimento do juízo em situações públicas e notórias sobre preços de arrendamentos rurais-agrícolas.
+Outrossim, pontuo que é desarrazoada a pretensão do agravante em querer promover procedimento ordinário de arbitramento de valor de aluguel, poiso que se arbitrou foi um valor indenizatório pela fruição exclusiva do imóvel pelo espólio agravante" (fl. 1725 e-STJ).
+Em juízo de cognição sumária, observa-se que as conclusões da Corte local decorreram da análise do conjunto fático-probatório carreado aos autos. Portanto, o acolhimento da pretensão recursal, nos termos em que posta, demandaria o reexame de matéria fática e das demais provas constantes dos autos, o que é inviável em recurso especial, consoante óbice da Súmula nº 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. TÍTULO JUDICIAL. INTERPRETAÇÃO. COISA JULGADA. LIMITES. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese.
+3. Na hipótese, rever o entendimento das instâncias ordinárias acerca dos limites do título executivo demandaria a análise de fatos e provas dos autos por esta Corte, providência vedada em recurso especial pela incidência da Súmula nº 7/STJ.
+4. A jurisprudência do Superior Tribunal de Justiça é no sentido de que não há ofensa à coisa julgada quando o magistrado interpreta o título executivo judicial para melhor definir seu alcance e sua extensão.
+5. Agravo interno não provido".
+(AgInt no AREsp n. 1.973.956/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 26/9/2022, DJe de 28/9/2022 - grifou-se)
+"AGRAVO INTERNO. RECURSO ESPECIAL. LOCAÇÃO DE IMÓVEL COMERCIAL. RENOVATÓRIA. CUMPRIMENTO DE SENTENÇA. PARTE ILÍQUIDA. LIQUIDAÇÃO DE SENTENÇA. DESNECESSIDADE. VERIFICAÇÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. ART. 509, § 2º, DO CPC. RAZÕES DO ACÓRDÃO NÃO COMBATIDAS. SÚMULA N.º 283 DO STJ. JUROS DE MORA. TERMO INICIAL. ALTERAÇÃO. INVIABILIDADE. COISA JULGADA. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA N.º 83 DO STJ. DISSÍDIO JURISPRUDENCIAL. NÃO CARACTERIZAÇÃO. NÃO PROVIMENTO.
+1. A reanálise do entendimento de que desnecessária a liquidação de sentença, fundamentado nos fatos e provas dos autos, esbarra no óbice da Súmula n.º 7 do STJ.
+2. A ausência de combate aos fundamentos do acórdão recorrido, suficientes por si só, para a manutenção do decidido acarreta a incidência da Súmula n.º 283 do STF.
+3. O recurso especial interposto contra acórdão que decidiu em consonância com a jurisprudência deste Superior Tribunal de Justiça esbarra no óbice da Súmula n.º 83 do STJ.
+4. Não demonstrados os requisitos previstos na alínea c do art. 105, III, da Constituição Federal, inviável o conhecimento do especial pela alegação de dissídio jurisprudencial.
+5. Nos termos da jurisprudência deste Superior Tribunal de Justiça, não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida (Súmula n.º 83 do STJ).
+6. Não evidenciada a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ser integralmente mantido em seus próprios termos.
+7. Agravo interno não provido".
+(AgInt no AREsp n. 2.141.951/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 28/11/2022, DJe de 30/11/2022)
+Desse modo, não está presente um dos pressupostos necessários à concessão do almejado efeito suspensivo, qual seja, o fumus boni iuris.
+Ante o exposto, INDEFIRO o pedido de tutela de urgência e determino a extinção liminar do presente requerimento.
+Publique-se.
+Intimem-se.
