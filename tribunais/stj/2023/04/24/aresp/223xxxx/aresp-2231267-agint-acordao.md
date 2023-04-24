@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/04/2023 a 24/04/2023, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+Cuida-se de agravo interno interposto por DBR INDUSTRIA TERMOPLASTICA LTDA (POLYNNER INDÚSTRIA TERMOPLÁSTICA LTDA), CESAR AUGUSTO BRENNER e TANIA ELISA DIETRICH BRENNER, contra decisão que conheceu do agravo em recurso especial para conhecer parcialmente do recurso especial e, nessa extensão, negar provimento ao recurso.
+Ação: embargos à execução opostos pelos agravantes em face de BANCO DO BRASIL S/A.
+Sentença: rejeitou os pedidos dos embargantes.
+Acórdão: negou provimento à apelação dos agravantes, nos termos da seguinte ementa:
+APELAÇÃO. NEGÓCIOS JURÍDICOS BANCÁRIOS. EMBARGOS À EXECUÇÃO. PRETENSÃO REVISIONAL. PEDIDO DE LIMITAÇÃO DOS JUROS REMUNERATÓRIOS AO PATAMAR DE 12% AO ANO. DESCABIMENTO. COMISSÃO DE PERMANÊNCIA. NÃO DEMONSTRADA A PACTUAÇÃO DO ENCARGO. CAPITALIZAÇÃO MENSAL DOS JUROS. CABÍVEL, NO CASO. POSSIBILIDADE DE COBRANÇA DOS ENCARGOS MORATÓRIOS.
+1. A orientação do STJ, no julgamento de recurso repetitivo - Recurso Especial nº 1.061.530-RS, é de que os juros remuneratórios são considerados abusivos, se e quando superiores à taxa média de mercado praticada por todos os integrantes do sistema financeiro nacional, observadas as circunstâncias de cada contratação. Inviável a revisão pretendida pela autora para limitar os juros remuneratórios em 12% ao ano.
+2. O Superior Tribunal de Justiça firmou entendimento, sob a sistemática dos recursos repetitivos, admitindo a comissão de permanência durante o período da inadimplência, desde que a incidência não ocorra cumulativamente com a multa contratual e com os juros remuneratórios e moratórios, tampouco ultrapasse o valor cobrado a título de encargos remuneratórios e moratórios. No caso dos autos, o contrato não prevê incidência de comissão de permanência.
+3. Com relação à capitalização dos juros, o STJ aprovou as Súmulas 539 e 541, pelos enunciados das quais "é permitida a capitalização de juros com periodicidade inferior à anual em contratos celebrados com instituições integrantes do Sistema Financeiro Nacional a partir de 31/3/2000 (MP 1.963-17/00, reeditada como MP 2.170-36/01), desde que expressamente pactuada" e "A previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada." No caso, evidencia-se sim a possibilidade da cobrança da capitalização mensal dos juros, pois expressamente pactuada.
+4. No caso, os juros moratórios estão fixados na cláusula que dispõe sobre encargos financeiros de inadimplemento e respeita o percentual de 1% ao mês, determinado pelo artigo 406 do Código Civil. Ademais, possível a cobrança da multa moratória estipulada em 2%, quando o contrato for celebrado após a vigência da Lei 9.298/96, que alterou o art. 52, §1º, da Lei 8.078/90.
+RECURSO DE APELAÇÃO DESPROVIDO.(e- STJ fls. 284/285)
+Recurso Especial: alegam violação dos arts. 1º e 4º do Decreto 22.626/33; 46 e 51, IV, § 1º, III, do CDC; 406 e 591 do CC.
+Sustentam a ilegalidade da cobrança dos juros remuneratórios, nos termos pactuados, uma vez que em desacordo com a legislação civil supramencionada mormente no tocante às diretrizes estabelecidas pelo diploma consumerista. Por conseguinte, os valores exigidos devem ser considerados abusivos.
+Ademais, insurgem-se contra a permissão de capitalização mensal desse encargo, pleiteando a aplicação da capitalização anual dos valores, segundo Decreto 22.626/33.
+Decisão unipessoal: reconheceu que a decisão do Tribunal a quo está em harmonia com a jurisprudência desta Corte Superior e que o recurso especial é obstado pelas Súmulas 5 e 7 do STJ, na medida em que as premissas adotadas pelo decisum alicerçaram-se nos elementos fáticos-pro batórios dos autos.
+Ademais, os argumentos invocados quanto à caracterização da mora não teriam sido devidamente prequestionados, o que ensejou o óbice da Súmula 282 do STF.
+Agravo interno: os agravantes alegam que a decisão monocrática não deve prosperar, por estarem presentes os requisitos necessários ao conhecimento e provimento do recurso.
+Sustentam estarem demonstrados os fundamentos da irresignação, bem como efetivado o prequestionamento da matéria.
+Asseveram, ainda , não tratar de questão de fato e sim de direito, o que afastaria a incidência das Súmulas 5 e 7 do STJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. IMPUGNAÇÃO ESPECÍFICA DA DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. AUSÊNCIA.
+1. Embargos à execução.
+2. Ausente a impugnação pontual e consistente de todos os fundamentos utilizados pelo Tribunal para obstar o seguimento do apelo nobre, o conhecimento do presente recurso é inadmissível, a teor do disposto na Súmula 182 deste Tribunal e nos arts. 1.021, § 1º, do CPC/2015 e 259, § 2º, do RISTJ.
+3. Agravo interno não conhecido.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+A despeito das alegações aduzidas neste recurso, percebe-se que os agravantes não trouxeram qualquer argumento novo capaz de ilidir o entendimento firmado na decisão ora agravada. Nesse sentido, verifica-se que os recorrentes limitaram-se a negar a incidência dos óbices apresentados no decisum impugnado, sem fundamentar de forma pormenorizada a razão para a não incidência dos impeditivos recursais:
+Considera-se plenamente cabível o Recurso Especial manejado pelos Agravantes, porquanto plenamente de acordo com a legislação pertinente. Aliás, a matéria discutida no agravo de instrumento é de relevância e muita pertinência não merecendo a decisão que restou tomada pela Ilustre Ministra Relatora, inclusive porque possui peculiaridades que devem ser reavaliadas e questões de direito que devem ser consideradas.
+Com efeito, a decisão monocrática, ora hostilizada, não deve prosperar, principalmente considerando-se a circunstância envolvida no caso em que se cuida, porquanto contrariamente ao entendimento exarado no decisum, infere-se dos termos do aludido recurso que se encontram presentes os requisitos necessários ao conhecimento e provimento do mesmo; porquanto plenamente demonstrados os fundamentos da irresignação. Aliás, considera-se que efetivamente tenha havido o necessário prequestionamento da matéria, o que certamente afasta o óbice constante da suscitada Súmula 282 do STF.
+Ademais, o Recurso Especial satisfaz integralmente aos demais requisitos legais estabelecidos. Observando-se, por oportuno, que, relativamente ao mérito do mesmo, considera-se que tenha havido as apontadas infringências, na forma como suscitada, notadamente porque não se trata de questão de fato, mas sim de direito a ser dirimida. O que igualmente afasta a incidência das Súmulas 5 e 7, do STJ. Diante de tais ponderações, nada obsta que seja conhecido e provido o Recurso Especial manejado pelos Agravantes, com os consectários de direito. (e-STJ fls. 341/342)
+Destarte, ausente a impugnação pontual e consistente de todos os fundamentos utilizados pelo Tribunal para obstar o seguimento do apelo nobre, o conhecimento do presente recurso é inadmissível, a teor do disposto na Súmula 182 deste Tribunal e nos arts. 1.021, § 1º, do CPC/2015 e 259, § 2º, do RISTJ.
+Forte nessas razões, NÃO CONHEÇO do agravo interno com fundamento no art. 932, III, do CPC/15.
