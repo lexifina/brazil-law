@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/04/2023 a 24/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Celso Luís Evangelista de Oliveira interpõe agravo interno em face da decisão de fls. 558/560, por meio da qual neguei provimento ao agravo em recurso especial em razão da incidência das Súmulas 7 e 211/STJ.
+Aduz, em síntese, que "o que se sustenta nos recursos é que embora o dano tenha decorrido diretamente da negligência das agravadas, de sua falta de cuidado, no entanto, como se sabe, o Código de Defesa do Consumidor sequer exige a configuração da culpa para a responsabilidade do fornecedor, mas, ainda assim, foi acolhida e mantida a preliminar de ilegitimidade suscitada, em flagrante ofensa, portanto, a norma federal, mais precisamente o artigo 14 do Código de Defesa do Consumidor".
+Impugnação às fls. 571/583.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. SÚMULA 7 DO STJ. PREQUESTIONAMENTO. AUSÊNCIA. INCIDÊNCIA DA SÚMULA 211 STJ.
+1. Inviável, em recurso especial, reexaminar matéria fático-probatória. Incidência da Súmula 7 do Superior Tribunal de Justiça.
+2. Inadmissível recurso especial quanto à questão que não foi apreciada pelo Tribunal de origem (Súmula 211/STJ).
+3. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): Os argumentos do agravante não lograram infirmar os fundamentos da decisão agravada, que segue mantida integralmente, razão pela qual reproduzo-a:
+Trata-se de agravo interposto por Celso Luís Evangelista de Oliveira contra decisão que negou seguimento a recurso especial manejado em face de acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Norte, assim ementado (fls. 450/451):
+CIVIL E PROCESSUAL CIVIL. APELAÇÃO CÍVEL EM AÇÃO INDENIZATÓRIA. SENTENÇA DE EXTINÇÃO DO PROCESSO, SEM RESOLUÇÃO DE MÉRITO, POR AUSÊNCIA DE LEGITIMIDADE PASSIVA DAS EMPRESAS DEMANDADAS. AUTOR QUE FOI VÍTIMA DE GOLPE PRATICADO POR ANUNCIANTE NA OLX. VENDA DE SUPOSTA CARTA DE CRÉDITO VINCULADA A CONSÓRCIO DE VEÍCULOS. PORTAL DE ANÚNCIOS QUE NÃO PARTICIPA DO NEGÓCIO. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA. PRETENDIDA RESPONSABILIZAÇÃO DA CONCESSIONÁRIA. IMPOSSIBILIDADE. AUSÊNCIA DE ENVOLVIMENTO NA FRAUDE. SENTENÇA MANTIDA. APELO CONHECIDO E DESPROVIDO.
+Não foram opostos embargos de declaração.
+Nas razões do recurso especial, interposto com fundamento no artigo 105, III, "a", da Constituição Federal, a parte recorrente aponta violação ao artigo 14, do Código de Defesa do Consumidor; artigo 186, do Código Civil; e artigo 8º, do Código de Processo Civil.
+Contrarrazões às fls. 481/491 e 493/498.
+Ultrapassado o juízo de admissibilidade, passo a decidir.
+Inicialmente, conforme bem destacado na decisão de admissibilidade proferida pelo Tribunal de origem, as matérias tratadas pelo artigo 186, do Código Civil e artigo 8º, do Código de Processo Civil, não foram objeto de debate no acórdão recorrido, ausentes, pois, da conclusão adotada, o que acarreta a falta do necessário prequestionamento, incidindo a Súmula 282/STF, sendo certo que o prequestionamento apto a preencher o requisito de admissibilidade do recurso especial é aquele em que a matéria controvertida foi debatida e apreciada no tribunal de origem à luz da legislação pertinente, mesmo que os dispositivos tidos por violados não constem do acórdão recorrido, não tendo a parte, sequer, oposto embargos de declaração em face do acórdão recorrido.
+Quanto à alegada violação ao artigo 14, do Código de Defesa do Consumidor, verifico que o Tribunal de origem, ao analisar a controvérsia, adotou os seguintes fundamentos, in verbis:
+Cinge-se o mérito recursal ao exame da sentença que acolheu as preliminares arguidas pelas rés OLX e Toyolex, ora recorridas, extinguindo o processo, sem resolução do mérito, em virtude do reconhecimento de sua ilegitimidade passiva ad causam.
+A questão de fundo, pois, reside em verificar se as apeladas possuem relação com o dano alegado pelo autor, que, segundo consta da exordial, foi vítima de golpe ao responder a anúncio veiculado no OLX, em que se vendia carta de crédito supostamente vinculada a consórcio de site carros.
+Como se sabe, a legitimidade das partes é uma das condições da ação (artigo 485, inciso VI, do Código de Processo Civil), de modo que somente pode ser demandado aquele que possa se sujeitar aos efeitos jurídicos - processuais e materiais - da sentença.
+No tocante à demandada OLX, a sua ilegitimidade passiva em casos de fraude perpetrada por anunciante já foi pronunciada pelo Superior Tribunal de Justiça (AREsp nº 1200653, Rel. Min. Lázaro Guimarães - Desembargador Convocado do TRF 5ª Região -, j. 03/04/2018), prevalecendo o entendimento de que, na hipótese em análise, inexiste nexo de causalidade entre o dano sofrido pelo consumidor e a conduta da empresa recorrente, ausente qualquer intermediação efetiva pela OLX entre o vendedor e o comprador.
+No mesmo sentido também já decidiu a Corte Cidadã:
+(..) Outrossim, em relação à apelada Toyolex, entendo que o recorrente não demonstrou que o fato de ter sido emitida nota fiscal pela concessionária seria razão suficiente para que fosse induzido a efetuar depósito na conta bancária de terceiros, uma vez que, em se tratando de veículo adquirido mediante consórcio, o envio de nota fiscal pela concessionária vendedora é procedimento padrão para a aprovação do negócio pela administradora de consórcios e não pressupõe o recebimento prévio dos valores referentes ao preço do veículo.
+Na espécie, é fato incontroverso que a concessionária recorrida nunca recebeu os valores depositados pelo autor, os quais caíram nas contas bancárias dos fraudadores responsáveis pelo anúncio na OLX, não havendo como se postular a responsabilização da Toyolex - que nem mesmo utiliza o referido portal para anunciar os seus produtos - por negócio fraudulento em que não teve nenhuma participação.
+O próprio documento de Id. 6535703 especifica que o pagamento do valor do veículo somente poderia ser efetuado via boleto bancário ou depósito identificado, não sendo aceita pela vendedora qualquer outra forma de pagamento, circunstância essa inequivocamente não observada pelo autor, que depositou dinheiro na conta de terceiros não vinculados à Toyolex, sem antes se certificar da segurança da operação.
+Logo, não havendo dúvidas quanto à ausência de legitimidade passiva das recorridas, de rigor a manutenção do decisum que concluiu pela carência de ação.
+É certo, pois, que a revisão das premissas adotadas no acórdão recorrido acerca da ilegitimidade passiva das rés, demandaria, necessariamente, o reexame de provas, providência vedada em recurso especial, nos termos da Súmula 7/STJ.
+Desse modo, fica claro que alterar, ou interpretar de outra forma, a conclusão a que chegou o Tribunal de origem demandaria, necessariamente, o reexame de fatos e provas, o que é inviável em recurso especial, a teor do disposto na Súmula 7 do STJ, o que, por si só, basta para obstar o seguimento do recurso especial.
+Ademais, não se trata de mera revaloração da matéria, mas de afastar as premissas fáticas delineadas, claramente, pelo Tribunal quanto à controvérsia levada ao seu exame.
+Por fim, em relação aos artigos 186, do Código Civil e 8º, do Código de Processo Civil, não foram eles, de fato, objeto de debate no acórdão recorrido e, sequer, de questionamento em embargos de declaração, o que acarreta a falta do necessário prequestionamento
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
