@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se habeas corpus, com pedido liminar, impetrado em favor de MARCOS PAULETTO DE CARVALHO em face de acórdão proferido pelo eg. TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Habeas Corpus Criminal nº 2024192-60.2023.8.26.0000).
+Narram os autos que foi instaurado inquérito policial em desfavor do paciente para apurar a suposta prática de delito de estelionato (talvez em conjunto com outros crimes, como tributários, organização criminosa e lavagem de bens e valores).
+Neste writ, sustenta a Defesa que deve ser determinado o trancamento do inquérito policial em curso contra o paciente, por ausência de justa causa.
+Invoca a inexistência de elementos capazes de autorizar a instauração do inquérito policial.
+Alega a indevida solicitação e uso de dados sigilosos obtidos junto ao COAF, promovendo verdadeira devassa, por período de tempo longo, injustificado e absolutamente estranho ao tempo dos fatos que ensejaram a investigação.
+Aduz que "a Unidade de Inteligência Financeira não é um órgão investigativo e, portanto, sua base de dados e seus relatórios de inteligência (RIF) não constituem prova criminal. Na verdade, os relatórios de inteligência disseminados pela UIF constituem um meio de obtenção de prova" (fl. 22).
+Assevera que "a requisição de dados bancários e fiscais sigilosos, pedido diretamente pelas autoridades responsáveis pela investigação e persecução penal, sem autorização judicial, permanece ilegal" (fl. 24) e que "não é autorizado à Autoridade Policial, sem qualquer justificativa, levar a efeito uma medida cautelar sem controle judicial, promovendo inequívoca quebra de sigilo bancário dos pacientes e de terceiros, compreendendo um intervalo de tempo de 05 (cinco) anos, sem previa autorização e controle judicial" (fl. 24).
+Consigna que o STF firmou posicionamento de que o Ministério Público ou a autoridade policial não podem requisitar diretamente ao COAF ou à Receita Federal informações protegidas por sigilo fiscal.
+Requer, inclusive liminarmente, a suspensão na tramitação do inquérito policial, com a declaração da nulidade na obtenção da prova e o reconhecimento da ausência de justa causa para a investigação. No mérito, o trancamento do inquérito policial, com o desentranhamento e inutilização de todas as informações nulas.
+É o breve relatório.
+Decido.
+In casu, da leitura do v. acórdão, constata-se, ao fim, que questão fundamental apresentada a esta Corte Superior não foi analisada pelo eg. Tribunal de origem.
+Ora, tem-se que a questão de direito deveria ter sido apreciada, mas não foi, pois, mesmo provocado, o eg. Tribunal a quo sequer se manifestou acerca do mérito ventilado na impetração, ficando impedida esta eg. Corte Superior de proceder à sua análise - sob pena de indevida supressão de instância.
+Nesse sentido: HC 393.684/MG, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 16/8/2017; e AgRg no HC 382.949/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 24/5/2017.
+Verifica-se, portanto, que a ausência de manifestação do eg. Tribunal a quo configurou indevida negativa de prestação jurisdicional. Com efeito, é consabido que a via estreita do writ e do seu recurso ordinário não se presta para análise de temas que comportem recurso próprio, mas é fundamental que a ilegalidade, prima facie, seja afastada em decisão fundamentada.
+Isso, diante da possibilidade de se evidenciar flagrante ilegalidade no caso concreto, de modo que o eg. Tribunal de origem deve não somente analisar a questão, bem como, eventualmente, cassar a(s) r. decisão(ões), se em desacordo com o ordenamento jurídico pátrio.
+Tratando-se de questão relevante, devidamente suscitada na origem e que não demanda, em tese, o revolvimento fático-probatório, devem os autos retornar para o eg. Tribunal, a fim de que se manifeste.
+Mais precedentes desta Corte Superior: RHC 74.2 91/RJ, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 28/9/2016; HC 393.671/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 1º/8/2017; HC 396.539/SP, Sexta Turma, Relª. Minª. Maria Thereza de Assis Moura, DJe de 26/6/2017; e RHC 49.656/SP, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 13/10/2014.
+Ante o exposto, concedo a ordem de habeas de corpus para anular o julgamento constante do acórdão de n. 2024192-60.2023.8.26.0000, determinando sejam apreciadas pelo eg. Tribunal a quo, como entender de direito, as questões ali deduzidas, com recomendação de celeridade.
+Intime-se, com urgência, a origem para cumprimento.
+P. I. C.
