@@ -1,0 +1,62 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por AGNALDO DA ROCHA SOUSA à decisão de fls. 684/685, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Com efeito, a pecha referente à matéria da deserção foi calcada no preenchimento indevido da GRU que serviu de custas do respectivo recurso, propriamente por não ter a indicação correta do número do processo na origem no formulário, assim disposto: (fl. 689).
+ ..
+Acontece que em nenhum momento da decisão embargada foi indicado onde estava intimação a que alude o parágrafo único do art. 932, do CPC.
+O referido dispositivo de lei que se aplica ao recurso especial na seara criminal está assim normatizado:
+ ..
+Nesses termos a decisão embargada foi omissa no sentido do não cumprimento do mandamento legal (fl. 690).
+Aduz ainda:
+Outra pecha omissiva da decisão embargada é a que diz respeito ao não cumprimento da disciplina do art. 489, § 1º, I, do CPC.
+Com efeito, a decisão embargada se limitou a indicar dispositivos de lei que dizem respeito a identificação da taxatividade, a previsão específica do recurso e seu prazo, com indicação de eventual feriado local.
+Ou seja, indicou ato normativo, parafraseando-os, de modo a não identificar sem explicar a sua real correlação com a causa ou questão decidida. O que inquiriu a decisão embargada de incompletude (fls. 690/691).
+ ..
+Dito isto, o recurso especial interposto pelo agravante deve ser conhecido porque interposto pela contagem de prazo estabelecida pelo art. 219, do CPC, diante da regra do art. 798, do CPP, beneficiando-o no seu direito de ampla defesa e contraditório efetivo.
+ ..
+POIS BEM. Quando a eminente Ministra que proferiu a decisão embargada for considerar que houve omissão da decisão embargada diante da disciplina do art.932, parágrafo único, do CPC, referentemente a guia de recolhimento das custas recursais, precisamente sobre a indicação do processo na origem, ser-lhe-á possibilitado a correção do indicado erro e dai o recurso não poderá ser considerado deserto no ponto. E da mesma forma quando emitir um juízo mais acurado sobre a tempestividade do recurso, propriamente sobre o conflito aparente de normas, perceberá que o prazo de 15 (dias) ao manejo do recurso especial penal poderá ser interposto dentro das balizas do art. 219, do CPC e não na hermética disposição de contagem de prazo do art. 798, do CPP, aceitando a novel dogmática de contagem de prazo na espécie. E, por tal proceder, irá considerar que o recurso especial em questão foi interposto tempestivamente, destrancando a via de acesso à análise do respectivo apelo extremo, imprimindo, por essas consequências lógicas, o efeito modificativo da decisão embargada (fl. 697).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a retirar ambiguidade, esclarecer obscuridade, eliminar contradição e suprir omissão existentes no julgado, o que não se verifica na hipótese.
+Esclareça-se que o marco temporal de aplicação do Código de Processo Civil de 2015 é a intimação do decisum recorrido que, no presente caso, foi realizada após 18/3/2016, já sob a égide do novo códex processual.
+Assim, nos termos do Enunciado Administrativo n. 3 do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC", em observância ao princípio do tempus regit actum, ou seja, no presente caso aplicam-se as regras do Código de Processo Civil de 2015.
+Conforme já consignado na decisão ora embargada, que agora se repete, no ato da interposição, o recurso especial não foi instruído com a guia de custas do STJ preenchida corretamente uma vez que o número do Processo que consta no acórdão recorrido foi indicado erroneamente.
+Dessa forma, o recolhimento das custas devidas ao STJ foi realizado em desacordo com o disposto na Resolução do STJ vigente, a qual dispõe que no momento do preenchimento da GRU Cobrança deverão ser indicados obrigatoriamente as informações exigidas no formulário eletrônico disponível no sítio do Tribunal (http://www.stj.jus.br), de acordo com o tipo de ação ou recurso escolhido.
+Nesse sentido:
+AGRAVO INTERNO. RECURSO ESPECIAL. PREPARO. GUIA DE RECOLHIMENTO. ERRO NO PREENCHIMENTO. NÚMERO DO PROCESSO ORIGINÁRIO. DIVERGÊNCIA. NÃO CORREÇÃO DA IRREGULARIDADE. NOVA INTIMAÇÃO. NÃO CABIMENTO. DESERÇÃO. SÚMULA 187 DO STJ.
+1. O entendimento do Superior Tribunal de Justiça firmou-se no sentido de considerar deserto o recurso especial interposto com o comprovante do preparo, mas sem o correto preenchimento das guias de recolhimento, inclusive, quanto à indicação do número do processo na origem.
+2. A parte agravante, embora regularmente intimada para corrigir o erro no preenchimento da guia de recolhimento do preparo do recurso especial, não providenciou sua regularização dentro do prazo assinalado, sendo incabível a concessão de nova oportunidade à parte para corrigir o vício. Precedentes.
+3. Incide à espécie, por analogia, o enunciado da Súmula 187 do STJ: "É deserto o recurso interposto para o Superior Tribunal de Justiça, quando o recorrente não recolhe, na origem, a importância das despesas de remessa e retorno dos autos".
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1877218/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 06/04/2021.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREPARO. PREENCHIMENTO DA GUIA DE RECOLHIMENTO ERRONEAMENTE. SÚMULA N. 187/STJ.
+1. De acordo com posicionamento do STJ, " é  dever do recorrente o correto recolhimento do preparo no momento da interposição do recurso. O número constante da guia de recolhimento da GRU deve guardar exata correspondência com o número de referência do processo, sob pena de deserção (AgInt no AREsp 1.313.440/RS, Rel. Ministra Nancy Andrighi, Terceira Turma, REPDJe 29/05/2019, DJe 15/5/2019). Aplicação da Súmula 187/STJ, por analogia.
+2. Agravo interno não provido.
+(AgInt no AREsp 1667778/MG, realtor Ministro Benedito Gonçalves, Primeira Turma, DJe de 18/12/2020.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL C/C PEDIDO DE INDENIZAÇÃO POR PERDAS E DANOS. RECOLHIMENTO DO PREPARO. COMPROVAÇÃO NO ATO DA INTERPOSIÇÃO DO RECURSO. AUSÊNCIA. RECOLHIMENTO EM DOBRO. NECESSIDADE. NOVA OPORTUNIDADE PARA RECOLHIMENTO. IRREGULARIDADE. NÚMERO CONSTANTE NA GUIA DIVERSO DO NÚMERO DE REFERÊNCIA DO PROCESSO. DESERÇÃO. RECURSO NÃO CONHECIDO. MAJORAÇÃO DA VERBA HONORÁRIA.
+ ..
+2. É firme a jurisprudência desta Corte no sentido de que o recurso especial é deserto quando a parte não comprova o recolhimento do preparo no ato de interposição e, posteriormente, deixa de atender à intimação para o recolhimento em dobro. Precedentes.
+3. A norma do art. 1.007, § 4º, do CPC/2015 remete à comprovação do recolhimento do preparo no ato de interposição do recurso, e não somente ao efetivo pagamento da quantia no prazo recursal. Assim, não estava a parte recorrente, na espécie, dispensada do recolhimento em dobro, consoante a intimação do Tribunal a quo.
+4. Hipótese em que, ademais, foi concedida nova oportunidade à parte para proceder ao recolhimento em dobro. No entanto, ao fazê-lo, houve indicação errônea, na guia de recolhimento, do número de referência do processo.
+5. O número constante da guia de recolhimento da GRU deve guardar exata correspondência com o número de referência do processo, sob pena de deserção.
+6. "Esta Corte Superior coopera com as partes quando determina a sanação de patente irregularidade, mas não coopera a parte que, sanando a eiva, incorre em nova irregularidade, pois, assim, o processo seguiria em um horizonte ilimitado de oportunidades para sanação de irregularidades (..). A reiteração de irregularidades não é tolerada, não se podendo conhecer do recurso ora interposto" (AgInt no RMS 60.185/PE, 3ª Turma, DJe 18/10/2019).
+ ..
+8. Agravo interno não provido.
+(AgInt no AREsp 1507458/SP, relatora Ministra Nancy Andrighi, Terceira Tuma, DJe de 25/05/2020.)
+Ademais, ao contrário do alegado pela parte embargante, percebida, no STJ, a irregularidade, a parte foi intimada para sanar o vício (fl. 678), contudo, não regularizou, uma vez que deixou que se quedou inerte (fl. 682).
+Portanto, não tendo cumprido a determinação, correta a aplicação da Súmula n. 187 deste Tribunal, julgando deserto o recurso.
+Quanto à tempestividade do recurso, o que define a aplicação do CPC de 2015 é a data de intimação do decisum recorrido, que, no presente caso, ocorreu na vigência do novo código.
+Conforme o Enunciado Administrativo n. 3 do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC", em observância ao princípio do tempus regit actum, ou seja, ao presente caso aplicam-se as regras do CPC de 2015.
+Nos termos do art. 26 da Lei n. 8.038/1990, o prazo para a interposição de recurso especial era de 15 dias. Porém, esse artigo foi revogado pelo novo Código de Processo Civil e, em razão da aplicação subsidiária do diploma processual civil, nos termos do art. 3º do Código de Processo Penal, o prazo para a interposição de recurso especial em matéria criminal continua a ser de 15 dias, no entanto, agora com fundamento no art. 994, VI, c/c os arts. 1.003, § 5º e 1.029, todos do Código de Processo Civil.
+A aplicação subsidiária do CPC ao rito criminal ocorre apenas quando há omissão de previsão específica. Assim, a contagem em dias úteis prevista no art. 219, caput, do CPC não se aplica aos processos criminais em razão da disposição específica do art. 798 do CPP, ou seja, nos processos e recursos que tratam de matéria penal, o prazo continua a ser contado em dias corridos, mesmo em recurso especial e agravo em recurso especial e demais incidentes e recursos neles interpostos.
+Confira-se o seguinte precedente:
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. APREENSÃO DE 31 G DE CRACK, 847 G DE MACONHA E DE UMA PLANTA DE CANNABIS SATIVA. CONDENAÇÃO. REGIMENTAL INTERPOSTO FORA DO PRAZO LEGAL DE 5 DIAS. INTEMPESTIVIDADE.
+ ..
+3. Nos termos do entendimento desta Corte, nas ações que tratam de matéria penal ou processual penal não incidem as regras do artigo 219 do novo Código de Processo Civil, referente à contagem dos prazos em dias úteis, porquanto o Código de Processo Penal, em seu artigo 798, possui disposição específica a respeito da contagem dos prazos, in verbis: "Todos os prazos correrão em cartório e serão contínuos e peremptórios, não se interrompendo por férias, domingo ou dia feriado" (AgRg no AREsp n. 962.681/DF, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 10/10/2016) 4. Agravo regimental não conhecido.
+(AgRg no AREsp 1610387/PR, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe 10/6/2020.)
+É cediço, também, que o julgador não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu. (AREsp 1592147/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 31/08/2020; AgInt no AREsp 1639930/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 03/08/2020; AgInt nos EDcl no AREsp 1342656/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 07/05/2020).
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
