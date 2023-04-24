@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/04/2023 a 24/04/2023, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Joel Ilan Paciornik.
+Os Srs. Ministros Ribeiro Dantas, Messod Azulay Neto e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+Presidiu o julgamento o Sr. Ministro Joel Ilan Paciornik.
+RELATÓRIO
+Cuida-se de agravo regimental interposto por ALIRIO PINTO FILHO contra decisão de minha lavra de folhas 759/764 que não conheceu do seu recurso especial, em razão dos óbices das Súmulas n. 283 do Supremo Tribunal Federal - STF e n. 7 do Superior Tribunal de Justiça - STJ.
+Consta dos autos que o agravante foi condenado pela prática do delito tipificado no art. 1º, I, da Lei n. 8.137/90, à pena de 2 anos e 8 meses de reclusão, em regime inicial aberto, substituída por uma restritiva de direito, e 10 dias-multa (fl. 523).
+Recursos de apelação foram interpostos pela defesa e pela acusação. O apelo defensivo foi parcialmente provido para absolver o recorrente da conduta referente ao ano-calendário 2010. O apelo da acusação foi parcialmente provido para, mantendo a condenação pela conduta referente ao ano-calendário 2009, fixar a pena definitiva em 2 anos e 8 meses de reclusão, em regime aberto, substituída por duas restritivas de direitos (prestação de serviços à comunidade e prestação pecuniária de 10 salários mínimos) e 13 dias-multa, no valor unitário de meio salário-mínimo (fl. 636).
+Embargos de declaração opostos pela defesa foram rejeitados, conforme acórdão de folhas 683/688.
+Em sede de recurso especial (fls. 701/713), a defesa apontou violação ao art. 28-A do Código de Processo Penal - CPP, porque o TJ não determinou a remessa dos autos ao Parquet para fins de manifestação a respeito da aplicação do acordo de não persecução penal - ANPP.
+Em seguida, a defesa apontou violação ao art. 45, § 1º, do Código Penal - CP, porque o TJ estipulou a prestação pecuniária em 10 salários mínimos, considerando o prejuízo aos cofres públicos, mas desconsiderando a capacidade econômica do recorrente que é, inclusive, representado processualmente pela defensoria.
+Requereu o oferecimento do ANPP e a redução da prestação pecuniária para 1 salário mínimo.
+Contrarrazões (fls. 718/730).
+Admitido o recurso no TJ (fls. 731/737), os autos foram protocolados e distribuídos nesta Corte. Aberta vista ao Ministério Público Federal - MPF, este opinou pelo parcial conhecimento e desprovimento do recurso especial (fls. 751/757).
+Sobreveio a decisão agravada que, em síntese, aplicou o óbice da Súmula n. 283 do STF para a alegação de violação ao art. 28-A do CPP, bem como aplicou o óbice da Súmula n. 7 do STJ para a violação ao art. 45, § 1º, do CP.
+No presente agravo regimental de folhas 769/772, a defesa insiste na violação ao art. 28-A do CPP, consignando que o ANPP é política pública, cabendo ao juiz determinar que a acusação cumpra obrigação de oferecê-lo. No tocante à outra violação, afirma que a capacidade econômica do agravante não foi considerada, tendo sido observado apenas o valor do prejuízo, montante que deve ser buscado na esfera cível.
+Requer a reconsideração ou provimento do agravo regimental com conhecimento e provimento do recurso especial
+É o relatório.
+EMENTA
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIME CONTRA A ORDEM TRIBUTÁRIA. SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. VIOLAÇÃO AO ART. 45, § 1º, DO CÓDIGO PENAL - CP. ÓBICE DA SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL PARCIALMENTE CONHECIDO E DESPROVIDO.
+1. A decisão agravada apresentou o óbice da Súmula n. 283 do Supremo Tribunal Federal - STF par a o tópico defensivo de violação ao art. 28-A do Código de Processo Penal - CPP. Ausente a impugnação específica dele, não se conhece do agravo regimental em sua totalidade. Súmula n. 182 do STJ que se encontra em conformidade com o art. 1.021, § 1º, do Código de Processo Civil - CPC/2015.
+2. Consoante acórdão do Tribunal regional, a prestação pecuniária foi fixada em 10 salários mínimos diante da condição econômica do agravante e do dano causado aos cofres públicos. Nesse contexto, o pleito de redução da prestação pecuniária fixada esbarra no óbice da Súmula n. 7 do STJ.
+3. Agravo regimental parcialmente conhecido e desprovido.
+VOTO
+De plano, é hipótese de parcial conhecimento do agravo regimental, eis que ao impugnar a decisão agravada no tocante à violação ao art. 28-A do CPP, a defesa não enfrentou o óbice da Súmula n. 283 do STF, de modo a atrair o óbice da Súmula n. 182 do STJ, aplicável diante do contido no art. 1.021, § 1º, do Código de Processo Civil - CPC, combinado com o art. 3º do CPP. Precedentes:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. NULIDADE PELA ATUAÇÃO DA GUARDA CIVIL MUNICIPAL. INOCORRÊNCIA. CIRCUNSTÂNCIAS FÁTICAS QUE LEGITIMAM A AUTAÇÃO DA REFERIDA ENTIDADE. INTELIGÊNCIA DO ART. 301 DO CPP. DOSIMETRIA. EXASPERAÇÃO DA BASILAR. FUNDAMENTAÇÃO IDÔNEA. PRETENSÃO DE INCIDÊNCIA DA MINORANTE DO TRÁFICO PRIVILEGIADO. INOVAÇÃO RECURSAL EM SEDE DE AGRAVO REGIMENTAL. NÃO ENFRENTAMENTO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ENUNCIADO SUMULAR N. 182/STJ. AGRAVO REGIMENTAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+ ..
+V - In casu, a Defesa limitou-se a reprisar os argumentos do habeas corpus, o que atrai o Enunciado Sumular n. 182 desta Corte Superior de Justiça, segundo a qual é inviável o agravo regimental que não impugna especificamente os fundamentos da decisão agravada.
+Agravo regimental parcialmente conhecido e, nessa extensão, desprovido.
+(AgRg no HC n. 748.762/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, DJe de 23/8/2022).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. NULIDADE DA CITAÇÃO EDITALÍCIA AFASTADA. COMPARECIMENTO DO RÉU. ARGUMENTO NÃO IMPUGNADO. INCIDÊNCIA DA SÚMULA N. 182 DO STJ. AGRAVO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO. NULIDADE DA PRODUÇÃO ANTECIPADA DE PROVAS. INEXISTÊNCIA. DECISÃO FUNDAMENTADA. AUSÊNCIA DE COMPROVAÇÃO DO PREJUÍZO. ART. 563 DO CPP. PRINCÍPIO DO PAS DE NULLITÉ SANS GRIEF. PRISÃO PREVENTIVA. NECESSIDADE DE ASSEGURAR A APLICAÇÃO DA LEI PENAL. ACUSADO PERMANECEU FORAGIDO POR MAIS DE 7 ANOS. AGRAVO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO DESPROVIDO.
+1. Inicialmente, observa-se que a decisão agravada afastou a pretensa nulidade da citação editalícia, ao fundamento de que eventual nulidade é sanada com a posterior citação pessoal do acusado que comparece aos autos. O ora agravante, porém, deixou de impugnar, de forma específica tal fundamento, limitando-se a repetir as razões trazidas na inicial do recurso em habeas corpus, ou seja, alegando que não houve esgotamento nas tentativas de sua localização.
+2. Consoante reiterada jurisprudência deste Superior Tribunal de Justiça, a ausência de impugnação específica aos fundamentos da decisão agravada impede o conhecimento do recurso, nos termos do que dispõe a Súmula n. 182/STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+ ..
+9. Agravo regimental parcialmente conhecido e, nessa extensão, desprovido.
+(AgRg no RHC n. 162.609/BA, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 16/8/2022).
+Quanto ao ponto impugnado especificamente, a decisão agravada deve ser mantida, pois a leitura do acórdão não autoriza de plano conclusão alcançada pela defesa, evidenciando-se escorreita a aplicação do óbice da Súmula n. 7 desta Corte (fls. 762/764):
+"Sobre a violação ao art. 45, § 1º, do CP, o TRF fez constar o seguinte no julgamento dos embargos de declaração (grifo nosso):
+"OMISSÃO - Pena de prestação pecuniária O embargante sustenta que o acórdão foi omisso quanto aos fundamentos que justificaram a fixação da pena de prestação pecuniária em valor superior ao mínimo legal.
+Sem razão.
+O voto condutor foi assim redigido, no particular:
+"O Ministério Público Federal requereu, de forma subsidiária em seu recurso, que apena de reclusão imposta ao réu fosse substituída por duas penas restritivas de direitos, consistentes em uma pena de prestação de serviços e uma pena de prestação pecuniária em valor não inferior a dez salários mínimos, o que foi acolhido no aresto embargado, com base nos seguintes fundamentos:
+"Na hipótese em concreto, a pena privativa de liberdade foi substituída por uma pena restritiva de direitos (prestação de serviços à comunidade) e multa (dez dias-multa).
+No entanto, a substituição por uma pena de prestação pecuniária e uma pena de prestação de serviços à comunidade se mostra mais adequada à finalidade da pena, especialmente considerando que o delito praticado pelo réu importou em um prejuízo milionário aos cofres públicos.
+A pena pecuniária substitutiva da pena privativa de liberdade deve ser fixada de maneira a garantir a proporcionalidade entre a reprimenda substituída e as condições econômicas do condenado, além do dano a ser reparado. Ademais, não se deve olvidar que, nos termos do §1º do art. 45 do Código Penal:
+"A prestação pecuniária consiste no pagamento em dinheiro à vítima, a seus dependentes ou a entidade pública ou privada com destinação social, de importância fixada pelo juiz, não inferior a 1 (um) salário mínimo nem superior a 360(trezentos e sessenta) salários mínimos. O valor pago será deduzido do montante de eventual condenação em ação de reparação civil, se coincidentes os beneficiários." Assim, fixo a pena de prestação pecuniária em 10 (dez) salários mínimos, porque o valor se mostra adequado à finalidade da pena, considerando os parâmetros acima expostos (capacidade econômica do réu e dano causado).
+Determino, por fim, que a pena de prestação pecuniária seja revertida em favor da União, nos termos do art. 45, §1º, do Código Penal." - grifei Extrai-se do referido trecho que dois foram os vetores assinalados no voto para aferição do quantum adequado da pena pecuniária: a condição econômica do réu e o valor do dano causado.
+Na hipótese, a condição econômica do réu foi analisada no tópico da justiça gratuita e foi reconhecida a sua hipossuficiência, por outro lado, o dano causado aos cofres públicos, detalhado no capítulo da materialidade delitiva, somava mais de dois milhões de reais. Assim, ponderados os dois critérios, a pena foi fundamentadamente fixada em dez salários mínimos." (fls. 685/686).
+Extrai-se do trecho acima que, ao contrário do alegado pela defesa, a condição econômica do réu foi aferida, assim como o dano causado aos cofres públicos, para fixar a pena de prestação pecuniária em 10 salários mínimos.
+De fato, para se concluir de modo diverso, seria necessário o revolvimento fático-probatório, vedado conforme Súmula n. 7 do Superior Tribunal de Justiça - STJ.
+No mesmo sentido, citam-se precedentes:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.
+INCLUSÃO EM PAUTA E INTIMAÇÃO PARA SUSTENTAÇÃO ORAL. ART. 7º, § 2º-B, DO ESTATUTO DA OAB. AUSÊNCIA DE PREVISÃO LEGAL. PENA RESTRITIVA DE DIREITOS. PRESTAÇÃO PECUNIÁRIA.
+REDUÇÃO DO VALOR. SITUAÇÃO FINANCEIRA DO RÉU. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+ ..  2. O valor da pena de prestação pecuniária foi fixado levando-se em conta as peculiaridades do caso, bem como a situação financeira do recorrente. Desse modo, a alteração do julgado encontra óbice na Súmula 7 desta Corte, haja vista a necessidade de incursão no arcabouço fático e probatório dos autos.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 2.098.637/PR, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 18/10/2022, DJe de 24/10/2022.) PROCESSO PENAL E PENA. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.
+AFRONTA AO ART. 45, § 1º, DO CP. PRESTAÇÃO PECUNIÁRIA CONCRETAMENTE FIXADA. REVISÃO QUE DEMANDARIA REEXAME FÁTICO. ÓBICE DA SÚMULA 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A jurisprudência desta Corte Superior é firme no sentido de que, nos termos do art. 45 do CP, a fixação do valor da prestação pecuniária deve observar o montante do dano a ser reparado e a capacidade econômica do Condenado.
+2. O art. 45, § 1.º, do Código Penal estabelece que o valor da prestação pecuniária será fixado pelo juiz em valor não inferior a 1 (um), nem superior a 360 (trezentos e sessenta) salários mínimos.
+3. Estabelecido o valor da prestação pecuniária dentro dos limites legalmente fixados e com amparo na análise do caso concreto, o acolhimento do pleito de redução da quantia imposta exigiria reexame fático- probatório, o que não é possível em recurso especial, nos termos da Súmula 7 desta Corte Superior.
+4. Agravo regimental não provido.
+(AgRg no AREsp n. 2.038.953/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 29/3/2022, DJe de 31/3/2022.)"
+Ante o exposto, voto pelo parcial conhecimento e desprovimento do agravo regimental.
