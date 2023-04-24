@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/04/2023 a 24/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik, Messod Azulay Neto e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Joel Ilan Paciornik.
+EMENTA
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO PEDIDO DE TUTELA PROVISÓRIA. ATRIBUIÇÃO DE EFEITO SUSPENSIVO . AUSÊNCIA DE TERATOLOGIA DA DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL. INVIABILIDADE DA TESE JURÍDICA SUSTENTADA NO APELO NOBRE. AGRAVO REGIMENTAL DESPROVIDO.
+1. "A atribuição de efeito suspensivo a recurso especial inadmitido pelo Tribunal de origem é admitida tão somente em situações excepcionais, em que demonstrada a teratologia da decisão de inadmissão ou a viabilidade da tese jurídica sustentada no recurso especial, mormente quando flagrantemente contrária à jurisprudência desta Corte Superior." (AgRg no TP n. 3.433/MS, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 17/8/2021, DJe de 27/8/2021).
+2. In casu, não foi demonstrada nenhuma teratologia da decisão de inadmissão do recurso especial, tampouco a viabilidade da tese jurídica sustentada no apelo nobre.
+3. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por LUIZ FERNANDO PEREIRA contra decisão que rejeitou embargos de declaração opostos contra decisum que indeferiu liminarmente o pedido de tutelar provisória.
+Em razões, reitera as alegações suscitadas nos embargos de declaração de que a pretensão é de ser agregar efeito suspensivo ao agravo em recurso especial; e de que, a despeito da ausência de publicação da decisão que inadmitiu o recurso especial, o pedido de tutela antecipada é cabível a partir da ciência da decisão pelo advogado.
+Requer a reconsideração do decisum ou a submissão do presente agravo à Quinta Turma desta Corte.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO PEDIDO DE TUTELA PROVISÓRIA. ATRIBUIÇÃO DE EFEITO SUSPENSIVO . AUSÊNCIA DE TERATOLOGIA DA DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL. INVIABILIDADE DA TESE JURÍDICA SUSTENTADA NO APELO NOBRE. AGRAVO REGIMENTAL DESPROVIDO.
+1. "A atribuição de efeito suspensivo a recurso especial inadmitido pelo Tribunal de origem é admitida tão somente em situações excepcionais, em que demonstrada a teratologia da decisão de inadmissão ou a viabilidade da tese jurídica sustentada no recurso especial, mormente quando flagrantemente contrária à jurisprudência desta Corte Superior." (AgRg no TP n. 3.433/MS, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 17/8/2021, DJe de 27/8/2021).
+2. In casu, não foi demonstrada nenhuma teratologia da decisão de inadmissão do recurso especial, tampouco a viabilidade da tese jurídica sustentada no apelo nobre.
+3. Agravo regimental desprovido.
+VOTO
+O presente agravo regimental não comporta provimento.
+Consoante já registrado nas decisões ora impugnadas, "o recurso especial não foi admitido na origem, de modo que eventual efeito suspensivo deverá ser analisado pelo Tribunal a quo quando da interposição do agravo em recurso especial, não se podendo cogitar de suspensão dos efeitos de recurso que não ultrapassou o juízo de admissibilidade prévio." (AgRg nos EDcl no TP n. 4.094/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 7/2/2023, DJe de 22/2/2023; grifou-se).
+In casu, embora o requerente alegue que a Corte estadual analisou o pedido de atribuição de efeito suspensivo ao recurso especial, os autos dão conta de que o despacho a que se refere o embargante (e-STJ, fl. 72) se deu na mesma data da inadmissão do recurso especial, em 7/2/2023. E, em consulta à página oficial do Tribunal de Justiça de São Paulo, verifica-se que a petição de agravo em recurso especial foi protocolada somente em 15/2/2023.
+Por fim, como dito, " a  atribuição de efeito suspensivo a recurso especial inadmitido pelo Tribunal de origem é admitida tão somente em situações excepcionais, em que demonstrada a teratologia da decisão de inadmissão ou a viabilidade da tese jurídica sustentada no recurso especial, mormente quando flagrantemente contrária à jurisprudência desta Corte Superior." (AgRg no TP n. 3.433/MS, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 17/8/2021, DJe de 27/8/2021).
+In casu, o requerente não logrou demonstrar nenhuma teratologia da decisão de inadmissão do recurso especial, tampouco a viabilidade da tese jurídica sustentada no apelo nobre.
+Isto porque, o acórdão proferido pelo Tribunal de Justiça de São Paulo se encontra em conformidade com a jurisprudência desta Corte, no sentido de que " o  reconhecimento da prescrição da pretensão executória impossibilita o Estado de executar a pena aplicada, sem, contudo, rescindir a sentença penal condenatória, razão pela qual seus efeitos secundários permanecem inalterados" (HC 470.455/SP, relator Ministro Rogério Schietti Cruz, Sexta Turma, julgado em 5/2/2019, DJe 19/2/2019; grifou-se).
+Nesse sentido, ainda:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DISPARO DE ARMA DE FOGO. REGIME PRISIONAL SEMIABERTO. REINCIDÊNCIA DO RÉU. AÇÃO PENAL ANTERIOR EXTINTA. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. EFEITOS SECUNDÁRIOS SUBSISTENTES. AGRAVO REGIMENTAL DESPROVIDO.
+1. Na hipótese dos autos, ficou assentado pela instância ordinária que a declaração de extinção da punibilidade do réu ocorreu por incidência do instituto da prescrição da pretensão executória. A via eleita é inadequada à mudança do entendimento, sem o necessário revolvimento do conjunto fático-probatório.
+2. Prescrita a pretensão executória, subsistem os efeitos secundários da pena, incluída a reincidência. Precedentes.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 697.856/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 24/5/2022, DJe de 26/5/2022; grifou-se.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. TORTURA. EFEITOS EXTRAPENAIS DA SENTENÇA CONDENATÓRIA. PERDA DO CARGO PÚBLICO. PERMANÊNCIA. INTELIGÊNCIA DO ART. 1º, § 5º, DA LEI N. 9.455/1997. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA DA PENA PRIVATIVA DE LIBERDADE. INOCUIDADE EM FACE DOS EFEITOS SECUNDÁRIOS DA CONDENAÇÃO. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA DOS EFEITOS EXTRAPENAIS.
+1. Interpostos dois agravos regimentais pelo Ministério Público Federal (fls. 1.643-1651 e 1.652-1.659) contra a mesma decisão, não se conhece do segundo recurso.
+2. Efetivamente impugnados os fundamentos da decisão de inadmissão do recurso especial, o agravo merece ser conhecido, em ordem a que se evolua para o mérito.
+3. "O reconhecimento da prescrição da pretensão executória impossibilita o Estado de executar a pena aplicada, sem, contudo, rescindir a sentença penal condenatória, razão pela qual seus efeitos permanecem inalterados - inclusive a decretação de perda do cargo público" (AgRg no REsp n. 1.897.779/DF, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 7/12/2020, DJe de 15/12/2020).
+4. "A condenação por delito previsto na Lei de Tortura acarreta, como efeito extrapenal automático da sentença condenatória, a perda do cargo, função ou emprego público e a interdição para seu exercício pelo dobro do prazo da pena aplicada"(HC 47.846/MG, relator Ministro Og Fernandes, Sexta Turma, julgado em 11/12/2009, DJe de 22/2/2010).
+5. Agravos regimentais do MPGO e do MPF providos para conhecer do agravo. Recurso especial parcialmente provido para, anulando o acórdão hostilizado, reconhecer a permanência dos efeitos extrapenais da sentença condenatória - perda do cargo público -, nos temos art. 1º, § 5º, da Lei 9.455/1997, a partir do trânsito em julgado para a acusação, independentemente da ocorrência da prescrição da pretensão executória da pena privativa de liberdade.
+(AgRg no AREsp n. 2.076.542/GO, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 16/8/2022, DJe de 19/8/2022; grifou-se.)
+Diante do exposto, nego provimento ao agravo regimental.
+É como voto.
