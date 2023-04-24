@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/04/2023 a 24/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+RELATÓRIO
+Trata-se de agravo regimental (Petição n. 85.761/2023), tempestivo, interposto por Robson Luiz Fernandes, contra a decisão monocrática (fls. 468/470) que indeferiu liminarmente o pedido de habeas corpus, a seguir ementada:
+PROCESSUAL PENAL. HABEAS CORPUS . TRÁFICO DE DROGAS (51,45 KG DE MACONHA), ASSOCIAÇÃO PARA O MESMO FIM E POSSE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. ALEGAÇÃO DE NULIDADE DA PRISÃO EM FLAGRANTE DELITO, POR INDEVIDA INCURSÃO EM DOMICÍLIO. MATÉRIA NÃO ANALISADA PELO TRIBUNAL ESTADUAL. SUPRESSÃO DE INSTÂNCIA. PRETENSÃO DE ABSOLVIÇÃO DA IMPUTAÇÃO DE ASSOCIAÇÃO PARA O TRÁFICO. INVIABILIDADE. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
+Pretende o agravante, em síntese, a reforma da decisão hostilizada, para que sejam declaradas nulas as provas obtidas a partir da incursão policial na casa do agravante e, subsidiariamente, seja absolvido da imputação de associação para o tráfico.
+Argumenta, em síntese, ilegalidade na:
+a) incursão policial no domicílio, por ausência de comprovação do consentimento do morador ou de justa causa, porque calcada exclusivamente em denúncia anônima, desacompanhada de outros diligências preliminares; e
+b) condenação pelo crime de associação para o tráfico, pois ausente comprovação da estabilidade e permanência do vínculo associativo.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. TRÁFICO DE DROGAS (51,45 KG DE MACONHA), ASSOCIAÇÃO PARA O TRÁFICO E POSSE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. ALEGAÇÃO DE NULIDADE DA PRISÃO EM FLAGRANTE DELITO, POR INDEVIDA INCURSÃO EM DOMICÍLIO. NÃO CONHECIMENTO. SÚMULA 182/STJ. PRETENSÃO DE ABSOLVIÇÃO DA IMPUTAÇÃO DE ASSOCIAÇÃO PARA O TRÁFICO. INVIABILIDADE. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+1. Inicialmente, não se conhece da alegação de nulidade da prisão em flagrante delito, por indevida incursão em domicílio, porque o recurso se limitou a reiterar os argumentos da impetração, sem refutar a fundamentação que justificou seu não conhecimento: a indevida supressão de instância. Assim, tem incidência o Enunciado Súmula 182/STJ.
+2. Ademais, deve ser mantida a decisão na qual se indefere liminarmente a impetração quanto à condenação pelo crime de associação para o tráfico, uma vez que, concluído pelas instâncias ordinárias pela existência do animus associativo, com estabilidade e permanência, não é possível acolher a pretensão mandamental, que demandaria reexame probatório, inviável na via eleita.
+3. Agravo regimental improvido.
+VOTO
+Apesar das alegações do agravante, a decisão agravada não comporta reparos.
+Inicialmente, não se conhece da alegação de nulidade da prisão em flagrante delito, por indevida incursão em domicílio, porque o agravante se limitou a reiterar os argumentos da impetração, sem refutar a fundamentação que justificou seu não conhecimento: a indevida supressão de instância. Assim, tem incidência o Enunciado da Súmula 182/STJ.
+Ademais, quanto à alegação remanescente - ilegalidade na condenação pelo crime de associação para o tráfico, pois ausente comprovação da estabilidade e permanência do vínculo associativo - tem-se que o agravante não conseguiu infirmar os fundamentos adotados na decisão hostilizada (fls. 468/470), a qual confirmo:
+Ademais, quanto ao crime de associação para o tráfico, as instâncias ordinárias concluíram pela existência de ânimo associativo, seja na sentença - que assinalou estar demonstrado pelos depoimentos dos policiais, que apuraram que o réu Luciano armazenava e distribuía drogas, enquanto o corréu Robson era o responsável pelas vendas e controle do dinheiro. Diante de tal situação, ficou comprovado que os corréus estavam associados de forma permanente, não eventual e mediante divisão de tarefas para juntos praticarem o tráfico de drogas (fl. 116) - ou no acórdão da apelação: as circunstâncias em que se deu a apreensão, bem como a forma de embalo do entorpecente (ainda em forma de "tijolo", sem fracionamento individual) evidenciam o animus associativo entre eles (fl. 205).
+Assim, razão não assiste à impetração, pois, se os julgadores da origem entenderam que "restou comprovado que a apelante se associou ao adolescente com estabilidade e permanência e nítida divisão de tarefas, com o fim de praticar o tráfico ilícito de entorpecentes" (fls. 51/52), é inviável a reforma desse juízo na via estreita de cognição sumária do writ, que não se presta a reexame fático-probatório (AgRg no HC n. 739.533/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 24/5/2022, DJe 30/5/2022).
+Bom, é uníssono o entendimento desta Corte Superior a respeito do tema. Além dos julgados citados na decisão agravada, confira-se também:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. TRÁFICO ILÍCITO DE ENTORPECENTES E ASSOCIAÇÃO PARA O TRÁFICO. PEDIDO DE ABSOLVIÇÃO. CARÁTER ESTÁVEL E NÃO EVENTUAL DA ASSOCIAÇÃO CONFIRMADO PELA CORTE DE ORIGEM. NECESSIDADE DE REEXAME DE PROVAS. PLEITO DE INCIDÊNCIA DE CAUSA DE DIMINUIÇÃO DE PENA PREVISTA NO § 4º DO ART. 33 DA LEI N. 11.343/2006. IMPOSSIBILIDADE. REGIME INICIAL ABERTO E SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. REPRIMENDA MANTIDA. ÓBICE LEGAL. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+II - Pedido de absolvição do delito descrito no art. 35, caput, da Lei n. 11.343/2006. Consoante o quadro fático delineado pelo Tribunal de origem, a condenação está amparada em farto material probatório, colhido durante a instrução criminal, sob o crivo do contraditório e da ampla defesa, que demonstra o ânimo associativo, de caráter duradouro e estável entre o paciente e outros integrantes de facção criminosa.
+III - Dessa forma, na esteira da jurisprudência desta Corte, o acolhimento da pretensão de absolvição pelo delito de associação para o tráfico de drogas, implica imersão em todo o conjunto fático-probatório dos autos, o que é inviável na via estreita do habeas corpus.
+ ..
+Habeas corpus não conhecido.
+(HC n. 501.038/RJ, Ministro Felix Fischer, Quinta Turma, DJe 21/6/2019 - grifo nosso)
+Em raz ão disso, nego provimento ao agravo regimental.
