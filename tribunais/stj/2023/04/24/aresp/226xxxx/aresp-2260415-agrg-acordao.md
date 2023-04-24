@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/04/2023 a 24/04/2023, por unanimidade, não conhecer do agravo regimental e conceder habeas corpus de ofício, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. RAZÕES QUE NÃO INFIRMARAM O FUNDAMENTO DO DECISUM ATACADO. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NO ART. 932, III, DO CPC. INCIDÊNCIA DA SÚMULA 182/STJ. TRÁFICO DE DROGAS. APREENSÃO DE 905 G DE MACONHA. DOSIMETRIA. ILEGALIDADE FLAGRANTE DETECTADA. QUANTIDADE E NATUREZA DA DROGA APREENDIDA CONSIDERADAS EM DOIS MOMENTOS DISTINTOS DO CRITÉRIO TRIFÁSICO. IMPOSSIBILIDADE. REDIMENSIONAMENTO QUE SE IMPÕE.
+1. O agravante não rebateu, de modo eficiente, o fundamento utilizado na decisão agravada, atraindo, assim, a incidência da Súmula 182/STJ ao presente regimental.
+2. Segundo entendimento adotado pela Terceira Seção desta Corte, a quantidade e a natureza da droga apreendida podem servir de fundamento para a majoração da pena-base ou para a modulação da fração da causa de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006, desde que, neste último caso, não tenha sido utilizada na primeira fase da dosimetria (HC n. 725.534/SP, Ministro Ribeiro Dantas, Terceira Seção, DJe 1º/6/2022) - (AgRg no REsp n. 2.002.824/PR, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 21/12/2022).
+3. Agravo regimental não conhecido. Habeas corpus concedido de ofício, para determinar que o Tribunal a quo proceda à nova dosimetria da pena do réu, limitando-se a utilizar as circunstâncias relativas à natureza e à quantidade da droga apreendida em somente uma das etapas do cálculo da pena.
+RELATÓRIO
+Estes autos foram a mim redistribuídos por prevenção do processo HC n. 657.486/GO (fl. 667).
+Trata-se de agravo regimental interposto por Ruan Santana Aires contra a decisão monocrática da Presidência desta Corte Superior que não conheceu do agravo em recurso especial, ante a ausência de impugnação do fundamento da decisão de inadmissão do recurso especial na origem.
+Nas razões do agravo regimental, a defesa do agravante reiterou a tese de mérito suscitada no recurso especial, pugnando pela reforma da decisão agravada.
+Instado a se manifestar, o Ministério Público Federal emitiu parecer opinando pelo não conhecimento do regimental e pela concessão da ordem de ofício para que seja revista a pena-base (fls. 669/672).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. RAZÕES QUE NÃO INFIRMARAM O FUNDAMENTO DO DECISUM ATACADO. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NO ART. 932, III, DO CPC. INCIDÊNCIA DA SÚMULA 182/STJ. TRÁFICO DE DROGAS. APREENSÃO DE 905 G DE MACONHA. DOSIMETRIA. ILEGALIDADE FLAGRANTE DETECTADA. QUANTIDADE E NATUREZA DA DROGA APREENDIDA CONSIDERADAS EM DOIS MOMENTOS DISTINTOS DO CRITÉRIO TRIFÁSICO. IMPOSSIBILIDADE. REDIMENSIONAMENTO QUE SE IMPÕE.
+1. O agravante não rebateu, de modo eficiente, o fundamento utilizado na decisão agravada, atraindo, assim, a incidência da Súmula 182/STJ ao presente regimental.
+2. Segundo entendimento adotado pela Terceira Seção desta Corte, a quantidade e a natureza da droga apreendida podem servir de fundamento para a majoração da pena-base ou para a modulação da fração da causa de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006, desde que, neste último caso, não tenha sido utilizada na primeira fase da dosimetria (HC n. 725.534/SP, Ministro Ribeiro Dantas, Terceira Seção, DJe 1º/6/2022) - (AgRg no REsp n. 2.002.824/PR, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 21/12/2022).
+3. Agravo regimental não conhecido. Habeas corpus concedido de ofício, para determinar que o Tribunal a quo proceda à nova dosimetria da pena do réu, limitando-se a utilizar as circunstâncias relativas à natureza e à quantidade da droga apreendida em somente uma das etapas do cálculo da pena.
+VOTO
+O agravo regimental não comporta conhecimento.
+Em obediência ao princípio da dialeticidade, cabe ao agravante o ônus de demonstrar o desacerto da decisão agravada, mediante impugnação clara e específica dos fundamentos do decisum combatido.
+No caso, o agravo em recurso especial foi inadmitido pelo fato de não haver impugnado o fundamento da decisão que inadmitiu o recurso especial na origem.
+Caberia, então, ao agravante, nas razões do regimental, demonstrar que, no agravo em recurso especial, haveria ocorrido efetiva impugnação do fundamento tido como inatacado, o que não se verifica nas razões do agravo regimental.
+Assim, mais uma vez, o agravante inobservou o disposto no art. 932, III, do Código de Processo Civil de 2015, atraindo, ainda, o óbice da Súmula 182/STJ:
+É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+Nesse sentido:
+ ..  2. À luz do princípio da dialeticidade, que norteia os recursos, compete à parte agravante, sob pena de não conhecimento do agravo, infirmar especificamente os fundamentos adotados pelo Tribunal de origem para negar seguimento ao reclamo, sendo insuficientes alegações genéricas de não aplicabilidade do óbice invocado. Precedentes.
+(AgRg no AREsp n. 426.809/BA, Ministro Luis Felipe Salomão, Quarta Turma, DJe 29/4/2014)
+Todavia, não obstante, observo a existência de uma ilegalidade flagrante passível de correção de ofício.
+No caso em exame, verifico que a moldura fática descrita no acórdão revela que a quantidade e a natureza da droga apreendida na espécie (905 g de maconha) foram utilizadas tanto para exacerbar a pena-base como para modular o percentual de redução pela minorante do tráfico privilegiado.
+É o que se constata a partir dos trechos transcritos a seguir (fls. 546/547 - grifo nosso):
+ ..
+Na 1ª fase, corretamente, o dirigente processual negativou as circunstâncias do crime, considerando alta reprovabilidade em razão da quantidade da maconha apreendida.
+Contudo, deve ser ajustado o quantum de aumento, fixado de forma exacerbada, em 07 anos de reclusão para 06 anos e 03 meses de reclusão, por ser suficiente e necessária para a reprovação do crime, em atenção ao disposto no artigo59 do Código Penal.
+Na 2ª fase, ausentes agravantes ou atenuantes a serem consideradas.
+Na 3ª fase, aplicou a benesse do §4º do artigo 33 da Lei de Drogas, em razão da quantidade e da natureza da droga na fração mínima de redução.
+Ressalto que a quantidade e a natureza da droga podem modular a fração e, considerado que foi apreendida grande quantidade de droga (01 porção de maconha, pesando 905 g (novecentos e cinco gramas), mantenho a fixação do percentual da redutora do tráfico privilegiado em 1/6.
+Desse modo, estabelecida a pena intermediária em 06 anos e 03 meses de reclusão e, aplicada a fração pela causa de diminuição pelo tráfico privilegiado em 1/6, a pena final fica concretizada em 05 anos e 02 meses de reclusão.
+ ..
+Cumpre salientar, entretanto, que o entendimento consolidado no âmbito do Superior Tribunal de Justiça, em consonância com a posição adotada no Supremo Tribunal Federal, no sentido da impossibilidade de consideração da natureza e quantidade de droga apreendida em dois momentos distintos do critério trifásico, engloba a consideração do maior ou menor envolvimento do réu com o tráfico de drogas, não servindo referido posicionamento apenas parar evitar a consideração da circunstância no percentual de aumento da pena-base e diminuição, em razão da minorante.
+A propósito:
+HABEAS CORPUS. PROCESSUAL PENAL E PENAL. SÚMULA 691/STF. AFASTAMENTO. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. QUANTIDADE DA DROGA. PENA-BASE. CAUSA DE DIMINUIÇÃO DA PENA DO ARTIGO 33, § 4º, DA LEI 11.343/06. BIS IN IDEM. OCORRÊNCIA. APLICAÇÃO DA MINORANTE. REGIME PRISIONAL. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. ORDEM PARCIALMENTE CONCEDIDA.
+1. Em casos teratológicos e excepcionais, como na hipótese, viável a superação do óbice da Súmula 691 desta Suprema Corte. Precedentes.
+2. O Plenário do Supremo Tribunal Federal reputou configurado bis in idem na consideração cumulativa da quantidade e da espécie da droga apreendida, como indicativos do maior ou menor envolvimento do agente no mundo das drogas, na exasperação da pena-base e no dimensionamento previsto no § 4º do art. 33 da Lei 11.343/2006. Nessa linha, o édito condenatório incide no vício do bis in idem.
+3. A quantidade da droga apreendida não autoriza inferir profundo envolvimento do paciente com o tráfico de drogas. Aplicação da causa de diminuição da pena do § 4º do art. 33 da Lei 11.343/06.
+4. A fixação do regime inicial de cumprimento de pena e a substituição da pena privativa de liberdade por restritiva de direitos devem ser apreciadas pelo juiz do processo à luz do preenchimento, ou não, dos requisitos dos artigos 33 e 44 do Código Penal. 5. Ordem parcialmente concedida para que o magistrado de primeiro grau proceda a nova dosimetria da pena, mediante a consideração não cumulativa da circunstância ligada à quantidade da droga apreendida e a aplicação da minorante do art. 33, § 4º, da Lei 11.343/06, no patamar que reputar necessário à repressão e prevenção do crime.
+(HC n. 123.168/SP, Ministra Rosa Weber, Primeira Turma, DJe 14/11/2014 - grifo nosso)
+Com efeito, segundo entendimento adotado pela Terceira Seção desta Corte Superior, a quantidade e a natureza da droga apreendida podem servir de fundamento para a majoração da pena-base ou para a modulação da fração da causa de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006, desde que, neste último caso, não tenha sido utilizada na primeira fase da dosimetria (HC n. 725.534/SP, Ministro Ribeiro Dantas, Terceira Seção, DJe 1º/6/2022) - (AgRg no REsp n. 2.002.824/PR, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 21/12/2022).
+Em reforço:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. QUANTIDADE DE DROGA. UTILIZAÇÃO NA PRIMEIRA FASE DA DOSIMETRIA DA PENA. EMPREGO CONCOMITANTE DA QUANTIDADE DE DROGA PARA O AUMENTO DA PENA-BASE E MODULAÇÃO DA FRAÇÃO DA MINORANTE DO TRÁFICO PRIVILEGIADO. "BIS IN IDEM" . NÃO CABIMENTO. AGRAVO IMPROVIDO.
+1. A Terceira Seção, por ocasião do julgamento do REsp 1.887.511/SP, da relatoria do Ministro João Otávio de Noronha, entendeu, alinhando-se ao STF, que a natureza e quantidade da droga são fatores a serem considerados necessariamente na fixação da pena-base, nos termos do art. 42 da Lei 11.343/06, constituindo-se em circunstância preponderante a ser utilizada na primeira fase da dosimetria da pena.
+2. Embora a quantidade e a natureza do entorpecente permitam a modulação da fração de redução de pena, tais elementos foram valoradas para aumentar a pena-base, afigurando-se imprópria a utilização concomitante para alterar o patamar estabelecido pela causa de diminuição, sob pena de "bis in idem".
+3. Agravo regimental improvido.
+(AgRg no HC n. 753.526/MG, Ministro Olindo Menezes, Desembargador Convocado do TRF 1ª Região, Sexta Turma, DJe 25/11/2022)
+Ante o exposto, não conheço do agravo regimental. Concedo habeas corpus, de ofício, para determinar que o Tribunal a quo proceda à nova dosimetria da pena do réu, limitando-se a utilizar as circunstâncias relativas à natureza e à quantidade da droga apreendida em somente uma das etapas do cálculo de pena.
