@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/04/2023 a 24/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por CONSÓRCIO NOVA SEDE DO TRF contra decisão monocrática proferida pelo Min. Og Fernandes, que negou provimento a recurso ordinário em mandado de segurança, por entender ilegítima a autoridade apontada como coatora (fls. 790-795).
+Extrai-se dos autos que o recurso ordinário em mandado de segurança foi interposto contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO assim ementado (fl. 667):
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM MANDADO DE SEGURANÇA. DECISÃO QUE JULGOU PREJUDICADO O PEDIDO. IMPETRAÇÃO DE OUTRO MANDADO DE SEGURANÇA JUNTO AO SUPREMO TRIBUNAL FEDERAL ATACANDO ATO ANTERIOR AO DA PRESENTE AÇÃO. PCA 2008.10.00.00184-8. HOMOLOGAÇÃO DE TERMO DE COMPROMISSO. ANULAÇÃO DE CONCORRÊNCIA E CONTRATO DE CONSTRUÇÃO DA NOVA SEDE DO TRIBUNAL REGIONAL FEDERAL DA PRIMEIRA REGIÃO. DECISÃO MANTIDA. AGRAVO IMPROVIDO.
+1. O ora agravante interpôs mandado de segurança perante o STF atacando o Procedimento de Controle Administrativo nº 2008.10.00.00184-8 em cujos autos foi homologado o Termo de Compromisso celebrado entre o CNJ, a Procuradoria-Geral da República e o TRF da 1a Região, determinando-se a anulação da Concorrência 2/2007 e do Contrato n. 58/2007. O ato é anterior àquele atacado na presente ação, isto é, o ato do Exmo. Sr. Desembargador Federal Presidente do Tribunal Regional Federal da Primeira Região que, em cumprimento ao Termo de Compromisso assinado, anulou a Concorrência nº 02/2007 e o contrato nº 58/07. Logo, o julgamento deste mandamus está prejudicado.
+2. Agravo regimental improvido.
+Sem embargos de declaração.
+Alega o agravante que o CNJ não proferiu decisão declarando nulos a Concorrência n. 2/2007 e o Contrato n. 58/2007, tendo o ato de anulação decorrido de decisão administrativa do próprio Regional.
+Aduz que eventual concessão pelo STF da segurança pleiteada nos autos do Mandado de Segurança n. 28.384 não influenciará o presente writ.
+Repisa as razões oferecidas por ocasião do recurso ordinário.
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+A parte agravada apresentou contrarrazões às fls. 827-832.
+É, no essencial, o relatório.
+EMENTA
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ANULAÇÃO DE CONCORRÊNCIA. PCA N. 2008.10.00.00184-8. DETERMINAÇÃO DO CNJ. PRESIDENTE DO TRIBUNAL REGIONAL DA 1ª REGIÃO. MERO EXECUTOR. ILEGITIMIDADE PASSIVA. DECISÃO MONOCRÁTICA MANTIDA.
+1. O ato do Presidente do TRF que determinou a anulação da Concorrência n. 2/2007 e do Contrato n. 58/2007 representa simples execução administrativa de cumprimento de determinação advinda do Conselho Nacional de Justiça, qual seja, Procedimento de Controle Administrativo n. 200810000001848/CNJ.
+2. A jurisprudência desta Corte já reconheceu que "ato normativo de Tribunal de Justiça que se destina a cumprir determinação advinda de decisão do CNJ representa simples execução administrativa, o que acarreta a ilegitimidade do Presidente do Tribunal para figurar no polo passivo de mandado de segurança" (RMS n. 29.719/GO, relator Ministro Castro Meira, Segunda Turma, julgado em 18/2/2010, DJe de 26/2/2010).
+3. Reconhecimento de ofício da ilegitimidade do Presidente do Tribunal Regional Federal da 1ª Região para figurar na origem como autoridade coatora.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+A decisão não merece reparo.
+O ato do Presidente do TRF que determinou a anulação da Concorrência n. 2/2007 e do Contrato n. 58/2007 representa simples execução administrativa de cumprimento de determinação advinda do Conselho Nacional de Justiça, qual seja, Procedimento de Controle Administrativo n. 200810000001848/CNJ.
+Em casos semelhantes, a jurisprudência desta Corte já reconheceu que "ato normativo de Tribunal de Justiça que se destina a cumprir determinação advinda de decisão do CNJ representa simples execução administrativa, o que acarreta a ilegitimidade do Presidente do Tribunal para figurar no polo passivo de mandado de segurança" (RMS n. 29.719/GO, relator Ministro Castro Meira, Segunda Turma, julgado em 18/2/2010, DJe de 26/2/2010).
+Nesse sentido, confiram-se os seguintes precedentes desta Corte:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. DESIGNAÇÃO DE SUBSTITUTO PARA RESPONDER POR SERVIÇOS NOTARIAIS. CORREGEDOR DO TRIBUNAL DE JUSTIÇA QUE DÁ CUMPRIMENTO À DETERMINAÇÃO DO CONSELHO NACIONAL DE JUSTIÇA. AUSÊNCIA DE LEGITIMIDADE PARA FIGURAR COMO AUTORIDADE COATORA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+ ..
+II - O acórdão recorrido adotou entendimento consolidado nesta Corte, segundo o qual "o ato normativo de Tribunal de Justiça que se destina a cumprir determinação advinda de decisão do CNJ representa simples execução administrativa, o que acarreta a ilegitimidade do Presidente/Corregedor do Tribunal para figurar no polo passivo de mandado de segurança" (RMS 50124/PR, Min. Og Fernandes, 2ª T., DJe 09.08.2017).
+ ..
+V - Agravo Interno improvido. (AgInt no RMS 62.128/RJ, Rel. Min. REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 15/6/2020, DJe 18/6/2020).
+PROCESSUAL CIVIL. RECURSO ORDINÁRIO. MANDADO DE SEGURANÇA. SUBSTITUTOS DESIGNADOS PARA A FUNÇÃO DELEGADA EM SERVENTIAS EXTRAJUDICIAIS. TETO REMUNERATÓRIO. RESOLUÇÃO E ATOS NORMATIVOS DO CNJ. TRIBUNAL DE JUSTIÇA MERO EXECUTOR. ILEGITIMIDADE PASSIVA. PRECEDENTES. RECONHECIMENTO DE OFÍCIO. SEGURANÇA DENEGADA. RECURSO ORDINÁRIO PREJUDICADO.
+1. Cuida-se, na origem, de Mandado de Segurança impetrado por Ivana Rosário de Castilhos, ora recorrente, contra decisão proferida pelo Tribunal de Justiça do Estado do Rio Grande do Sul, ora recorrido, que determinou, através do Ato 005/2013-P, que os substitutos designados para a função delegada em serventias extrajudiciais perceberão remuneração máxima não superior a 90,25% do subsídio dos Ministros do Supremo Tribunal Federal.
+2. O Tribunal a quo denegou a segurança.
+3. O parecer do Parquet Federal exarado pelo Subprocurador-Geral da República Antonio Fonseca bem analisou a questão: "De início, vale registrar que o Presidente do Tribunal de Justiça do Rio Grande do Sul carece de legitimidade passiva ad causam para responder como autoridade coatora, tendo em vista que a imposição do teto constitucional decorre da Resolução nº 80/2009, do Conselho Nacional de Justiça, sendo esse o órgão do qual se origina o ato coator. No mesmo sentido: RMS 49.213/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 17/11/2016, DJe 02/02/2017." (fls. 502, grifo acrescentado).
+4. In casu, como bem destacado pelo Ministério Público Federal no seu parecer, a imposição do teto constitucional decorreu da Resolução 80/2009, e dos Ofícios-Circulares 25/CNJ/COR/2010 e 012/CNJ/COR/2013, do Conselho Nacional de Justiça, sendo o Ato 005/2013-P do Presidente do Tribunal de Justiça do Estado do Rio Grande do Sul mera execução da decisão do CNJ.
+5. É firme o entendimento do STJ de que o Tribunal de Justiça não pode ser considerado autoridade coatora, quando mero executor de decisão do Conselho Nacional de Justiça. Nesse sentido: RMS 46.283/MG, Rel. Ministro Og Fernandes, Segunda Turma, DJe 18/9/2015; AgRg no RMS 39.695/PR, Rel. Ministro Humberto Martins, Segunda Turma, DJe 2/12/2013, RMS 43.273/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 27/9/2013, e AgRg no RMS 49.840/MT, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 24/05/2016.
+6. Assim, o Presidente do Tribunal de Justiça do Rio Grande do Sul não pode ser considerado autoridade coatora. Nesse sentido, é parte ilegítima passiva.
+7. Diante do exposto, reconhece-se de ofício a ilegitimidade passiva do Presidente do Tribunal de Justiça do Rio Grande do Sul e denegase a segurança, com amparo no artigo 6º, § 5º, da Lei 12.016/2009. No mais, julga-se prejudicado o Recurso Ordinário.
+(RMS 53.106/RS, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 4/4/2017, DJe 2/5/2017).
+ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. SERVIÇO NOTARIAL. IMPETRANTE NOMEADO SUBSTITUTO INTERINO DO TITULAR DA SERVENTIA. INCLUSÃO DA SERVENTIA NA RELAÇÃO GERAL DOS SERVIÇOS NOTARIAIS E DE REGISTROS VAGOS. RESOLUÇÃO 81/2009 DO CNJ. CORREGEDOR DO TRIBUNAL DE JUSTIÇA QUE DÁ CUMPRIMENTO À DETERMINAÇÃO DO CONSELHO NACIONAL DE JUSTIÇA. AUSÊNCIA DE LEGITIMIDADE PARA FIGURAR COMO AUTORIDADE COATORA. PRECEDENTES DO STJ. AGRAVO REGIMENTAL IMPROVIDO.
+I. Trata-se de Recurso Ordinário em Mandado de Segurança, com pedido de liminar, contra acórdão prolatado pelo Tribunal de Justiça do Estado do Paraná, que extinguiu o feito, sem resolução do mérito, diante da ilegitimidade passiva do Corregedor do TJPR para a causa.
+II. Na origem, o ora recorrente - titular interino da serventia sub judice - insurge-se contra ato do Corregedor do TJPR, que incluiu o Cartório na Relação Geral dos Serviços Notariais e de Registros vagos, conforme determinação do CNJ.
+III. A jurisprudência desta Corte já reconheceu que "ato normativo de Tribunal de Justiça que se destina a cumprir determinação advinda de decisão do CNJ representa simples execução administrativa, o que acarreta a ilegitimidade do Presidente do Tribunal para figurar no polo passivo de mandado de segurança" (STJ, RMS 29.719/GO, Rel. Ministro CASTRO MEIRA, DJe de 26/02/2010). No mesmo sentido: STJ, AgRg no RMS 43.265/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 15/10/2013; AgRg na MC 18.666/MS, Rel. Ministro CASTRO MEIRA, SEGUNDA TURMA, DJe de 17/02/2012; AgRg no RMS 29.013/MS, Rel. Ministro BENDITO GONÇALVES, PRIMEIRA TURMA, DJe de 02/06/2010.
+IV. Agravo Regimental improvido.
+(AgRg no RMS 44.635/PR, Rel. Min. ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 1º/3/2016, DJe 14/3/2016).
+Dessa forma, imperativo o reconhecimento de ofício da ilegitimidade do Presidente do Tribunal Regional Federal da 1ª Região para figurar na origem como autoridade coatora.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
