@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/04/2023 a 24/04/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Sebastião Reis Júnior, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+LUIZ RICARDO VIEIRA opõe embargos de declaração contra o acórdão de fls. 289-290, por meio do qual a Sexta Turma negou provimento ao agravo regimental.
+Em suas razões, o embargante aduz a ocorrência de omissão, ao argumento de que o acórdão embargado "em nenhum momento procedeu-se à análise, sequer fez-se qualquer menção, sobre a premissa frontal apresentada para a resolução da lide, qual seja, a de que a fundamentação exposta na própria sentença penal, por si só, afasta sua afirmação genérica e final de que permanecem incólumes os motivos de manutenção da segregação cautelar da liberdade asseverados em oportunidades anteriores no curso da ação penal" (fls. 310-311).
+Afirma, ainda, a existência de erro material, porque a motivação apresentada pela instância de origem ficou "superada pelo próprio teor, pelos esclarecimentos sobre o caso concreto" (fls. 311-312).
+Requer, assim, sejam acolhidos os aclaratórios para sanar a omissão e o erro material.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. OMISSÃO. ERRO MATERIAL. VÍCIOS NÃO CONSTATADOS. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. O reconhecimento de violação do art. 619 do CPP pressupõe a ocorrência de omissão, ambiguidade, contradição ou obscuridade. A assertiva, no entanto, não pode ser confundida com o mero inconformismo da parte com a conclusão alcançada pelo julgador, que, a despeito das teses aventadas, lança mão de fundamentação idônea e suficiente para a formação do seu convencimento.
+2. Na hipótese, a irresignação do embargante se resume ao seu mero inconformismo com o resultado do julgado, que lhe foi desfavorável.
+3. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Apesar dos argumentos despendidos pelo embargante, entendo que não lhe assiste razão.
+Consoante o disposto no art. 619 do Código de Processo Penal, a oposição de embargos de declaração enseja, em síntese, o aprimoramento da prestação jurisdicional, por meio da retificação do julgado que se apresenta omisso, ambíguo, contraditório ou com erro material. São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, o rejulgamento do caso.
+Na hipótese, noto que a irresignação do embargante se resume ao seu mero inconformismo com o resultado do julgado, que lhe foi desfavorável. Não há nenhum fundamento que justifique a oposição dos embargos de declaração, os quais se prestam apenas a sanar eventual omissão, contradição ou obscuridade do julgado, e não a reapreciar a causa.
+Com efeito, no decreto preventivo, o Juiz de primeiro grau destacou serem "fortíssimos indícios de que todos os autuados estavam conjuntamente comprometidos com o nefasto tráfico de drogas em larga escala, seja pelo vinculo familiar e coabitação coletiva, que possibilitava a divisão equilibrada de funções e, principalmente, a preparação de diversos esconderijos utilizados para ocultar os entorpecentes; seja pela expressiva soma em dinheiro encontrada, supostamente confirmada pela apreensão da contabilidade do comércio proscrito, vinculado as anotações localizadas no imóvel; seja pela existência de armas irregulares, cuja prática criminosa é inerente à proteção dos negócios proscritos deste tipo de associação" (fls. 45-46).
+Destacou o Magistrado que "pai e filho envergam a condição de reincidentes específicos" (fl. 46) e que "os autuados praticavam o suposto narcotráfico em sua própria residência e, pior do que isso, utilizavam-se do quarto e até os brinquedos do filho do casal para armazenar a droga" (fl. 47).
+Em decorrência da sentença condenatória, o direito de recorrer em liberdade foi negado ao recorrente, "uma vez que os fundamentos lançados nas decisões anteriores permanecem hígidos"; destacou-se, ainda, que "as segregações provisórias exsurgem como único instrumento adequado e eficaz para a real proteção da ordem pública, notadamente em razão da extrema gravidade em concreto do fato que praticaram" (ambos à fl. 112).
+Assim, o decisum combatido foi claro ao demonstrar que são concretos e idôneos os motivos invocados pelo Juiz de primeiro grau para embasar a ordem de prisão do acusado, pois evidenciam a gravidade concreta dos delitos em tese perpetrados - notadamente pela prática do tráfico em larga escala, com divisão de tarefas, preparação de diversos esconderijos para ocultar os entorpecentes (escondidos no quarto e até nos brinquedos do filho do casal), anotações de contabilidade do tráfico, armas e vultosa quantia em dinheiro - e a efetiva possibilidade de reiteração delitiva.
+Logo, não há omissão ou erro material a serem sanados .
+À vista do exposto, rejeito os embargos de declaração.
