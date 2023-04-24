@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/04/2023 a 24/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik, Messod Azulay Neto e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Joel Ilan Paciornik.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. ROUBO TRIPLAMENTE MAJORADO. ALEGADA PRESCRIÇÃO DA PRETENSÃO PUNITIVA. SUSPENSÃO DO PROCESSO EM DECORRÊNCIA DO ART. 366 DO CPP. AUSÊNCIA DE ILEGALIDADE. AGRAVO DESPROVIDO.
+1. O Supremo Tribunal Federal e essa c. Corte Superior pacificaram orientação no sentido de que não cabe Habeas Corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado, a justificar a concessão da ordem, de ofício, o que não é o caso dos autos.
+2. Ao promover a alteração no artigo 366 do Código de Processo Penal, o legislador ordinário estabeleceu que, se o réu, citado por edital, não comparecer nem constituir advogado, o processo e o curso do prazo prescricional devem ser suspensos.
+3. No caso concreto, tem-se que os fatos ocorreram em 2/11/2011, e o recebimento da denúncia se deu em 29/10/2013. Por se encontrar em local incerto e não sabido, foi citado por edital em 27/4/2016, sendo localizado para citação somente em 16/7/2018. A sentença condenatória foi proferida em 18/8/2021, e o acórdão condenatório publicado em 8/6/2022. Desta feita, não transcorrido entre os marcos interruptivos o prazo prescricional de seis anos, não há que se falar em extinção da punibilidade pela prescrição retroativa.
+4. Agravo regimental não provido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por PAULO HENRIQUE CARDOSO VITOR, contra a decisão de fls. 1040-1043 (e-STJ), que não conheceu do habeas corpus.
+O presente agravo visa reformar a decisão desta Relatoria que manteve a decisão da Instância Ordinária que não reconheceu a ocorrência da prescrição da pretensão punitiva na modalidade retroativa em favor do agravante.
+O agravante sustenta que do recebimento da denúncia até a sentença penal condenatória, não houve nenhuma causa suspensiva ou interruptiva da prescrição, assim, do recebimento da denúncia até a sentença penal condenatória transcorreu um lapso temporal de mais de 7 anos.
+Ressalta que a prescrição no presente caso, ocorre com o decurso de 6 anos. Assim, "considerando que do recebimento da denúncia até a sentença penal condenatória transcorreu um lapso temporal de mais de 7 (sete) anos, em respeito a prescrição retroativa, no presente caso operou-se a prescrição da pretensão punitiva. " (e-STJ, fl. 1049).
+Alega que não existe decisão suspendendo o processo e nem o prazo prescricional, motivo pelo qual, não há de se falar em suspensão da prescrição da pretensão punitiva.
+Requer a reconsideração da decisão agravada ou a submissão do feito à Quinta Turma, para reconhecer a prescrição da pretensão punitiva, declarando extinta a punibilidade do agravante.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. ROUBO TRIPLAMENTE MAJORADO. ALEGADA PRESCRIÇÃO DA PRETENSÃO PUNITIVA. SUSPENSÃO DO PROCESSO EM DECORRÊNCIA DO ART. 366 DO CPP. AUSÊNCIA DE ILEGALIDADE. AGRAVO DESPROVIDO.
+1. O Supremo Tribunal Federal e essa c. Corte Superior pacificaram orientação no sentido de que não cabe Habeas Corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado, a justificar a concessão da ordem, de ofício, o que não é o caso dos autos.
+2. Ao promover a alteração no artigo 366 do Código de Processo Penal, o legislador ordinário estabeleceu que, se o réu, citado por edital, não comparecer nem constituir advogado, o processo e o curso do prazo prescricional devem ser suspensos.
+3. No caso concreto, tem-se que os fatos ocorreram em 2/11/2011, e o recebimento da denúncia se deu em 29/10/2013. Por se encontrar em local incerto e não sabido, foi citado por edital em 27/4/2016, sendo localizado para citação somente em 16/7/2018. A sentença condenatória foi proferida em 18/8/2021, e o acórdão condenatório publicado em 8/6/2022. Desta feita, não transcorrido entre os marcos interruptivos o prazo prescricional de seis anos, não há que se falar em extinção da punibilidade pela prescrição retroativa.
+4. Agravo regimental não provido.
+VOTO
+A irresignação não merece guarida.
+Observa-se que o agravante não trouxe argumentos suficientemente capazes de infirmar o decisum agravado, motivo pelo qual o mantenho por seus próprios fundamentos.
+A propósito, confira-se o seu teor (e-STJ, fl. 1040-1043):
+"Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus de ofício.
+No caso, a decisão impugnada tem o seguinte teor:
+"Como exposto nos autos, a pena privativa de liberdade foi redimensionada no acórdão de (fl. 456/469), para 06(seis) anos de reclusão e ao pagamento de 15 (quinze) dias-multa, tendo então como prazo prescricional o lapso de12 (doze) anos (art. 109, III, do CP).
+Tal prazo, ainda, deve ser reduzido pela metade em razão da menoridade relativa do apelante, que à época do delito era menor de 21 anos de idade (art. 109, inciso V, c/c o art. 115, do CP), fato este atestado as fl. 07/08, de modo que o prazo prescricional passou a ser de 06 (seis) anos.
+Pois bem.
+Para a observância desse prazo devem ser considerados os interstícios processuais penais (causas interruptivas).
+Assim, no caso em análise, não ocorreu à prescrição da pretensão punitiva, eis que foi recebida a denúncia em(29/10/2013 - fl. 189), entretanto, quedando-se em local incerto e não sabido, assim, o réu foi citado por edital na forma do art. 366 do CPP (fl. 220) e, esgotando-se o prazo sem manifestação em 09/06/2016, o processo restou suspenso.
+A suspenção do prazo prescricional se deu somente após da citação pessoal em 16/06/2018. E, considerando a data da publicação da sentença (18/08/2018 - f. 380v), não há de se falar em decurso de prazo prescricional superiora 06 anos.
+Portanto, inviável o acolhimento do pleito defensivo de extinção da punibilidade"(e-STJ, fl. 22)
+O paciente foi condenado como incurso nas sanções do delito do artigo 157, §2º, I, II e V do Código Penal, à pena de 09 anos, 02 meses e10 dias de reclusão, em regime inicial fechado. Em julgamento ao apelo defensivo, o Tribunal de Justiça de Minas Gerais deu-lhe parcial provimento para reduzir a reprimenda para 06 anos de reclusão em regime inicial semiaberto.
+Sendo assim, o prazo prescricional, então, será de 6 (seis) anos, nos termos do art. 109, III, do CP, c/c com o artigo 115 do mesmo diploma legal, considerando-se possuir menos de 21 anos na data do ocorrido.
+Tem-se que os fatos ocorreram em 02/11/2011 (e-STJ, fl. 27), e o recebimento da denúncia se deu em 29.10.2013 (fl. 402). Por se encontrar em local incerto e não sabido, foi citado por edital em 27.04.2016, sendo localizado para citação somente em 16.07.2018. A sentença condenatória foi proferida em18.08.2021 (e-STJ, fl. 786), e o acórdão condenatório publicado em 08/06/2022.
+A referida causa de suspensão processual e do curso do prazo prescricional decorre de expressa previsão legal, disciplinada no artigo 366 do CPP:
+Art. 366. Se o acusado, citado por edital, não comparecer, nem constituir advogado, ficarão suspensos o processo e o curso do prazo prescricional, podendo o juiz determinar a produção antecipada das provas consideradas urgentes e, se for o caso, decretar prisão preventiva, nos termos do disposto no art. 312.
+Desta feita, considerando-se que o lapso de 06 (seis) anos não transcorreu entre os marcos interruptivos, não há que se falar em extinção da punibilidade pela prescrição retroativa.
+Neste sentido:
+"RECURSO EM HABEAS CORPUS. USO DE DOCUMENTO FALSO. ART. 366 DO CPP. SUSPENSÃO DO PROCESSO E DO PRAZO PRESCRICIONAL. ESGOTAMENTO DO PRAZO MÁXIMO (SÚMULA 415/STJ). CITAÇÃO POR EDITAL. RETOMADA DO CURSO PROCESSUAL. INCONSTITUCIONALIDADE ASSENTADA PELO PLENÁRIO DO STF NO JULGAMENTO DO RE N. 600.851/DF. REGIME DE REPERCUSSÃO GERAL (TEMA N. 438/STF).
+1. O Supremo Tribunal Federal, no julgamento do RE n. 600.851/DF, em sede de repercussão geral, consolidou entendimento segundo o qual, enquanto não localizado o réu citado por edital, já que esta se trata de uma ficção jurídica, o prosseguimento do processo penal afronta as garantias do devido processo legal, da ampla defesa e do contraditório (art. 5º, incisos LIV e LV, da Constituição Federal), concluindo-se, assim, pela constitucionalidade da suspensão do processo sem prazo determinado, conforme prevê o art. 366 do Código de Processo Penal.
+2. "Em caso de inatividade processual decorrente de citação por edital, ressalvados os crimes previstos na Constituição Federal como imprescritíveis, é constitucional limitar o período de suspensão do prazo prescricional ao tempo de prescrição da pena máxima em abstrato cominada ao crime, a despeito de o processo permanecer suspenso" (Tema n. 438/STF).
+3. A jurisprudência do Superior Tribunal de Justiça deve ser revista para se adequar a novel orientação firmada pelo Supremo Tribunal Federal, em que se reconheceu a impossibilidade de prosseguimento do processo penal em caso de inatividade processual decorrente de citação por edital.
+4. Recurso em habeas corpus provido para determinar a suspensão do curso da Ação Penal n. 5004752-88.2018.4.04.7100, em trâmite na 22ª Vara Federal de Porto Alegre, enquanto perdurar a não localização do recorrente ou até que sobrevenha o transcurso do prazo prescricional.
+(RHC n. 124.923/RS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 27/4/2021, DJe de 3/5/2021.)
+AGRAVO REGIMENTAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. USO DE DOCUMENTO FALSO. CITAÇÃO POR EDITAL. ARTIGO 366 DO CÓDIGO DE PROCESSO PENAL. SUSPENSÃO DO CURSO DO PROCESSO E DO PRAZO PRESCRICIONAL. TRANSCURSO DO PRAZO MÁXIMO. RETOMADA DO PROCESSO. DESNECESSIDADE DE CITAÇÃO PESSOAL. NULIDADE NÃO CONFIGURADA. DESPROVIMENTO DO RECLAMO.
+1. Ao promover a alteração no artigo 366 do Código de Processo Penal, o legislador ordinário estabeleceu que, se o réu, citado por edital, não comparecer nem constituir advogado, o processo e o curso do prazo prescricional devem ser suspensos.
+2. Nos termos do enunciado 415 da Súmula desta Corte Superior de Justiça, "o período de suspensão do prazo prescricional é regulado pelo máximo da pena cominada", de modo que, uma vez decorrido o prazo prescricional com base na pena máxima em abstrato para o crime durante a suspensão, esta cessa e o processo e a prescrição voltam a fluir.
+3. Pacificou-se neste Sodalício o entendimento de que, findo o prazo máximo de suspensão a que se refere o artigo 366 do Código de Processo Penal, o feito deve ter o seu regular prosseguimento, mesmo sem a citação pessoal do acusado, mediante a constituição de defesa técnica.
+4. Na espécie, com o término do prazo de suspensão do processo e da prescrição, o magistrado singular determinou o prosseguimento da ação penal, não havendo que se falar, assim, em prévia localização e citação do recorrente.
+5. Agravo regimental desprovido.
+(AgRg no RHC n. 130.964/RS, relator Ministro Jorge Mussi, Quinta Turma, julgado em 18/8/2020, DJe de 25/8/2020.)
+Ante o exposto, não conheço do habeas corpus."
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
