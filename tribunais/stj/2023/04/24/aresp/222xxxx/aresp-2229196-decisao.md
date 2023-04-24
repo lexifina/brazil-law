@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de agravo interposto por AUGUSTO CÉSAR PEREIRA contra decisão que não admitiu seu recurso especial, fundamentado no art. 105, III, a, da Constituição Federal, por sua vez manejado contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO nos termos da seguinte ementa (fl. 471):
+APELAÇÃO CÍVEL DIREITO DO CONSUMIDOR. CONTRATO DE PRESTAÇÃO DE SERVIÇO DE ENERGIA ELÉTRICA. PROVA PERICIAL. AUSÊNCIA DE IRREGULARIDADE. MEDIÇÃO DE CONSUMO COMPATÍVEL COM A CAPACIDADE INSTALADA. COBRANÇAS CORRETAS. AUSÊNCIA DE PROVA MÍNIMA DOS FATOS CONSTITUTIVOS DO DIREITO AUTORAL. IMPROCEDENCIA DO PEDIDO. MANUTENÇÃO DA SENTENÇA. Não se vislumbra qualquer irregularidade na medição do consumo, estando as faturas emitidas em consonância com o serviço prestado. Ausência de irregularidade na metodologia de cálculo para apuração do débito. À a míngua de provas do fato constitutivo autoral, correta a sentença de improcedência. Conhecimento e desprovimento do recurso.
+Rejeitados os embargos de declaração opostos (fls. 493-496).
+Nas razões do recurso especial, aponta a parte recorrente ofensa ao disposto nos arts. 489, § 1º, I, III, IV e V, e 1.022 do Código de Processo Civil, sustentando que, "mesmo sendo indicadas as contradições e omissão do julgado, o E. Tribunal a quo deixou de afastá-las, visto que não se pronunciou sobre as conclusões do i. perito judicial e sobre a incidência dos arts. 81 e 113 da Resolução Normativa nº 414/2010 da ANEEL" (fl. 507).
+Oferecidas contrarrazões (fls. 513-521), sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 523-525), o que ensejou a interposição do presente agravo (fls. 533-543).
+Apresentadas contraminutas do agravo (fls. 557-565).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+A irresignação não merece prosperar.
+Não se configura a apontada violação dos arts. 489, § 1º, I, III, IV e V, e 1.022 do Código de Processo Civil, porquanto, embora rejeitados os embargos de declaração, todas as matérias foram devidamente enfrentadas pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente, e sem as apontadas omissões e contradições, conforme os seguintes trechos do acórdão recorrido e do acórdão embargado:
+Assim, não se vislumbra qualquer irregularidade na medição do consumo, estando as faturas emitidas em consonância com o serviço prestado.
+O consumidor nega ser responsável pela irregularidade. No entanto, independentemente das circunstâncias que ensejaram o consumo diminuto diante daquele efetivamente praticado, persiste o fato de que foi fornecida energia para a unidade no período questionado, o que não é negado pelo apelante.
+Impõe ressaltar que, conforme devidamente observado na sentença (fl. 388), "a constatação pela perícia de violações à dispositivos normativos da Aneel por parte da Ampla não tem relação com o registro do consumo de energia elétrica, configurando mera irregularidade administrativa, o que deve ser objeto de procedimento específico e que, portanto, sem relação com o objeto do processo".
+A seu turno, não foi comprovada nenhuma irregularidade na metodologia de medição de consumo, conforme alegado pelo autor.
+Segundo o verbete nº 330 deste Tribunal:
+"Os princípios facilitadores da defesa do consumidor em juízo, notadamente o da inversão do ônus da prova, não exoneram o autor do ônus de fazer, a seu encargo, prova mínima do fato constitutivo do alegado direito."
+Assim, a míngua de provas do fato constitutivo autoral, correta a sentença de improcedência. (fl. 474)
+Por fim, quanto à incidência dos arts. 81 e 113 da Resolução Normativa nº 414/2010 da ANEEL, o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. (fl. 496)
+Ante o exposto, conheço do agravo para conhecer do recurso especial e negar-lhe provimento.
+Caso existam nos autos honorários advocatícios fixados pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
