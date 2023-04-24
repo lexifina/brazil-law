@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por BANCO SAFRA S.A. contra decisão monocrática que deu provimento ao recurso especial interposto por JOSÉ FAGUNDES MAIA NETO e OUTRA determinando o retorno dos autos à origem para novo julgamento em conformidade com a jurisprudência desta Corte.
+O embargante afirma, em síntese, que a decisão embargada quedou-se omissa quanto às teses deduzidas nas contrarrazões ao recurso especial, especialmente no tocante à alegação de que
+"(..) nos termos do caput e parágrafo único do art. 5.ºda Lei n. 8.009/1990, a destinação familiar do imóvel não é suficiente para comprovar que se trata de bem de família, devendo, na hipótese de o devedor ser proprietário de mais de um imóvel de natureza residencial, o benefício da impenhorabilidade recair sobre o de menor valor, porquanto o instituto do bem de família existe para garantir o mínimo necessário à uma vida digna do devedor, e não o seu estilo de vida soberbo, carregado de excessos.
+E, quanto à interpretação do art. 5.ºda Lei n. 8.009/1990, defendeu-se que o e. STJ, no julgamento dos REsp n. 61.155/RN, REsp n. 151.186/RJ, REsp n. 37.452/SP e REsp n. 62.069/MS, firmou o entendimento no sentido de que, quando o legislador u tilizou a expressão "vários imóveis utilizados como residência", pretendeu apenas diferenciar os imóveis residenciais dos comerciais, industriais ou agrícolas sem destinação residencial" (e-STJ fls. 1.086/1.087).
+Ao final, requer o acolhimento dos embargos de declaração, com efeitos infringentes, para que o recurso especial não seja provido.
+É o relatório.
+DECIDO.
+Não colhe a inconformidade veiculada nestes aclaratórios.
+Consoante o disposto no art. 1.022 do CPC, os embargos de declaração somente são cabíveis para esclarecer obscuridade ou eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz, de ofício ou a requerimento, bem como para corrigir erro material.
+No caso em apreço, a partir dos argumentos apresentados pela parte ora embargada e do contexto fático previamente delineado pelas instâncias ordinárias, chegou-se à conclusão de não foi observado o entendimento jurisprudencial desta Corte e a necessidade de retorno dos autos ao Tribunal de origem.
+A decisão embargada deixou suficientemente esclarecido que
+"(..) a tese dos recorrentes encontra guarida na jurisprudência consolidada nesta Corte Superior acerca do tema, que se firmou no sentido de que o critério de "imóvel menor valor", de que trata o parágrafo único do artigo 5º da Lei nº 8.009/1990, há de ser considerado na hipótese de haver mais de um imóvel sendo utilizado como residência pela família, o que, segundo os recorrentes, não é o caso.
+A propósito:
+"CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. BANCÁRIO. EXECUÇÃO DE TÍTULOEXTRAJUDICIAL. PENHORA DE IMÓVEL. BEM DE FAMÍLIA. PLURALIDADEDE IMÓVEIS RESIDENCIAIS. ART. 5º, PARÁGRAFO ÚNICO, DA LEI Nº 8.009/90. MENOR VALOR. INEXIGIBILIDADE. NA AUSÊNCIA DE OUTROSIMÓVEIS UTILIZADOS COMO RESIDÊNCIA DA FAMÍLIA A IMPENHORABILIDADE DEVE SER RECONHECIDA INDEPENDENTE DO VALOR DO IMÓVEL. PRECEDENTES. RECURSO ESPECIAL PROVIDO.
+1. Inaplicabilidade do NCPC a este julgamento ante os termos do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+2. A Lei nº 8.009/90, ao instituir a impenhorabilidade do bem de família ,buscou proteger a família ou da entidade familiar, de modo a tutelar o direito constitucional fundamental da moradia e assegurar um mínimo para uma vida com dignidade dos seus componentes.
+3. O art. 5º, parágrafo único, da Lei nº 8.009/90 dispõe que poderá ser escolhido o de menor valor na hipótese em que a parte possuir vários imóveis utilizados como residência.
+4. Os imóveis residenciais de alto padrão ou de luxo não estão excluídos, em razão do seu valor econômico, da proteção conferida aos bens de família consoante os ditames da Lei nº 8.009/90.
+5. Apenas na hipótese de existir mais de um imóvel utilizado como residência, a impenhorabilidade recairá sobre o de menor valor, garantido ao devedor a proteção do patrimônio mínimo.
+6. A moldura fática presente no acórdão recorrido, como se vê, não fornece elementos concretos para saber se há ou não a pluralidade de imóveis residenciais, para fins da incidência do parágrafo púnico do art. 5º da Lei 8.009/90 ou se apenas o imóvel penhorado tem essa finalidade e a vocação ínsita do recurso especial não permite a incursão na seara probatória. Retorno dos autos para novo julgamento de acordo com a jurisprudência desta Corte.
+7. Recurso especial provido" (REsp 1.482.724/SP, Rel. Ministro MOURARIBEIRO, TERCEIRA TURMA, julgado em 14/11/2017, DJe 28/11/2017).
+"RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. PENHORA. BEM DE FAMÍLIA. PROPRIETÁRIA DE OUTROS BENS. LEI Nº 8.009/1990. IMÓVEL DE RESIDÊNCIA. IMPOSSIBILIDADE DE CONSTRIÇÃO.
+1. Na origem, os embargos à execução foram julgados improcedentes e o Tribunal estadual manteve a penhora sobre o bem de família da recorrente, reconhecendo a existência de outro bem de sua propriedade de menor valor.
+2. A jurisprudência deste Tribunal é firme no sentido de que a Lei nº 8.009/1990 não retira o benefício do bem de família daqueles que possuem mais de um imóvel.
+3. O parágrafo único do artigo 5º da Lei nº 8.009/1990 dispõe expressamente que a impenhorabilidade recairá sobre o bem de menor valor na hipótese em que a parte possuir vários imóveis utilizados como residência, o que não ficou demonstrado nos autos.
+4. Recurso especial provido"(REsp 1.608.415/SP, Rel. Ministro RICARDOVILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 2/8/2016, DJe 9/8/2016).
+Nesse contexto, fica afastado o fundamento adotado pelo Tribunal de origem.
+No entanto, verifica-se que não foi analisado pelo acórdão recorrido se o imóvel apontado pelos recorrentes é aquele realmente utilizado como residência da família, descabendo, nesta instância especial, se promover tal averiguação, por força da Súmula nº 7/STJ.
+Ante o exposto, conheço parcialmente do recurso especial e, nessa extensão, dou-lhe provimento para determinar o retorno dos autos à origem para novo julgamento em conformidade com a jurisprudência acima mencionada" (e-STJ fls. 1.081/1.082).
+Ressalta-se que a decisão embargada fundamentou-se no posicionamento recente desta Corte, não merecendo respaldo a alegação de omissão quanto à tese apresentada em contrarrazões ao recurso especial baseada em julgamentos ocorridos antes de 2008, que já foi superada.
+Desse modo, ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade ou eliminar a contradição, mas sim reformar o julgado por via inadequada.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
+Intimem-se.
