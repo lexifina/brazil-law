@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso interposto por José Ronaldo da Silva Santos contra o acórdão proferido pela Segunda Câmara Criminal do Tribunal de Justiça do Ceará no HC n. 0620810-02.2023.8.06.0000.
+Requer-se a imediata expedição de alvará de soltura em favor do recorrente (Autos n. 0043102-61.2022.8.06.0001, da Vara de Delitos de Organizações Criminosas da comarca de Fortaleza/CE), revogando-se a prisão preventiva contra ele decretada, sob a alegação, em resumo, de excesso de prazo.
+Argumenta-se que não há justificativa plausível para a não configuração do constrangimento ilegal decorrente do excesso de prazo, especialmente no que pertine à demora injustificada, pois, conforme já explicitado, o réu já se encontra preso há mais de 1 ano, decurso temporal que ultrapassa qualquer limite da razoabilidade, independente de qualquer de particularidade do desenrolar do processo. Vale ressaltar, ainda, por mais que a Audiência de Instrução já esteja designada, o lapso temporal excessivo até a data marcada: enquanto a Resposta à Acusação do ora recorrente foi apresentada no dia 22/4/2022, o início da instrução somente está marcado para o longínquo mês de junho de 2023, elastério exacerbado notadamente por se tratar de réu preso (fl. 662).
+É o relatório.
+A pretensão não merece ser acolhida.
+Nos limites da cognição permitida na presente via, não há o que censurar na seguinte conclusão do Tribunal a quo (fls. 633/640 - grifo nosso):
+ ..
+Outrossim, é imperioso ressaltar que, consoante pacífico entendimento jurisprudencial desta Corte de Justiça, a tese vergastada não deve ser analisada apenas se considerando a soma aritmética dos prazos legalmente estabelecidos.
+Os prazos legais não são peremptórios, admitindo dilações quando assim exigirem as peculiaridades do caso concreto, como a complexidade da ação penal, a pluralidade de acusados, a necessidade de se deprecar a realização de atos de cientificação, diligências para oitiva de testemunhas em outras comarcas, dentre outras, que não advenham da própria defesa. Indispensável, entretanto, a observância aos limites da razoabilidade, em atenção ao art. 5.º, inc. LXXVIII, da Constituição Federal, bem assim aos princípios da necessidade e da dignidade do ser humano.
+O excesso de prazo alegado é tese bastante refletida tanto nesta Corte de Justiça quanto nas demais, sendo objeto de correção na revisão dos tribunais somente aquele excesso exagerado, cuja discussão comporta entendimento de atraso injustificado do trâmite processual pela desídia do magistrado ou por motivo banal.
+ ..
+In casu, apesar de vislumbrar um maior elastério no trâmite do processo em relação ao paciente José Ronaldo da Silva Santos, pois:
+1) o mandado de prisão expedido em favor do paciente foi cumprido e a comunicação foi encaminhada ao Juízo em 3 de dezembro de 2021 (fl. 4013 do pedido de prisão preventiva nº 0267101-93.2021.8.06.0001);
+2) o aditamento à denúncia foi oferecido em 1º de fevereiro de 2022 incluindo o paciente, tendo sido recebida em 4 de fevereiro de 2022 (fls. 2369/2370 da ação penal nº 0281821-65.2021.8.06.0001);
+3) citado, o paciente apresentou resposta à acusação em 22 de abril de 2022 (fls. 6763/6776 da ação penal nº 0281821-65.2021.8.06.0001);
+4) contudo, somente após a impetração do habeas corpus nº 0633547-71.2022.8.06.0000, no qual determinou-se a possibilidade de desmembramento do feito em relação ao paciente, que foi determinado o desmembramento (fls. 9624/9626 da ação penal nº 0281821-65.2021.8.06.0001 - decisão proferida em 21 de novembro de 2022);
+5) tal fato ocasionou na instauração da ação penal nº 0043102-61.2022.8.06.0000, autuada em 25 de novembro de 2022;
+6) em decisão proferida em 16 de janeiro de 2023 (fls. 9330/9331 da ação penal nº 0043102-61.2022.8.06.0000), tendo sido marcada a audiência de instrução para o dia 5 de junho de 2023;
+7) três dias depois, a prisão preventiva do paciente foi reanalisada (fls. 9335/9336 da ação penal nº 0043102-61.2022.8.06.0000);
+8) em 24/03/2023, a prisão preventiva dos acusados s José Ronaldo da Silva Santos, Breno Wesley de Sousa Lourenço e Francisco Dhiego Vieira Fernandes foi reavaliada, nos termos do art. 316, parágrafo único, do CPP.
+Outrossim, é possível constatar a complexidade da ação penal, que contém mais 300 pessoas denunciadas pela suposta prática de crimes complexos (organização criminosa, tráfico de drogas e associação para o tráfico) em facção criminosa que atua em âmbito nacional, vez que decorrente de intensas investigações da polícia, com necessidade de quebras de sigilos, buscas e apreensões e entre outras, além do julgamento de diversos pedidos incidentes, expedição de cartas precatórias e editais de citação, sendo necessário realizar cerca de 26 (vinte e seis) desmembramentos, tudo isso com o intuito de proporcionar uma tramitação mais célere, com alguns deles com audiências designadas para data próxima ou até mesmo realizadas e com instrução encerrada.
+Como visto, o paciente incluído no rol de acusados que já possui desmembramento determinado (Ação Penal n. 0043102-61.2022.8.06.0001) e com a audiência de instrução designada para data relativamente próxima (5 de junho de 2023). Assim, vislumbra-se a notória incidência da Súmula 15 desta Corte, cujo enunciado preceitua que:
+"Não há falar em ilegalidade da prisão por excesso de prazo quando a complexidade do crime apurado ou a pluralidade de réus justifica a mora na ultimação dos atos processuais".
+Sobre a matéria, acrescento jurisprudências deste Tribunal de Justiça acerca da complexidade de ações penais e a aplicação do referido enunciado sumular:
+ ..
+Dessa forma, forçoso é concluir que não vislumbro negligência/desídia do Colegiado impetrado, uma vez este vem conferindo o impulso oficial necessário para que a tramitação do feito se dê de forma regular, não se mantendo inerte durante o decorrer da ação penal, como acima registrado.
+Realmente, pelo que se tem dos autos, o alongamento da instrução se deve à complexidade do feito original, com um total de 361 acusados, não havendo, por ora - considerando o desmembramento recente -, indicativo de ofensa à razoabilidade na prisão que perdura há 1 ano e 4 meses, sobretudo quando já há audiência de instrução designada para data relativamente próxima, a saber, 5/6/2023.
+Por tais razões, não conheço do presente recurso.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. OPERAÇÃO ANULLARE. CRIMES DO ART. 2º, § 2º, DA LEI N. 12.850/2013, E DO ART. 35 DA LEI N. 11.343/2006. PRISÃO CAUTELAR. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. NÃO OCORRÊNCIA. COMPLEXIDADE DA AÇÃO PENAL. TOTAL DE 361 ACUSADOS. INEVIDÊNCIA DE ILEGALIDADE.
+Recurso não conhecido.
