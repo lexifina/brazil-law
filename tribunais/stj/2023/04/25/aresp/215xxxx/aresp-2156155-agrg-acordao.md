@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, não conhecer do agravo regimental.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de agravo regimental interposto por PAULO SERGIO OLIVEIRA NASCIMENTO JUNIOR, corréu na ação subjacente ao presente AREsp, contra decisão que julgou prejudicado o seu pedido de revogação do decreto de prisão preventiva considerando que o agravo em recurso especial não foi conhecido.
+No presente agravo regimental, o ora agravante afirma que "o resultado dos recursos não é o que fundamenta o pedido da petição e-STJ fls. 1.775/1.780. O que fundamenta o pedido do peticionante é o seu direito de responder ao processo em liberdade, isto é, aguardar em liberdade o resultado dos recursos que podem, acaso deferidos, lhe beneficiar" (e-STJ fl. 1.795).
+Pugna, assim, pelo provimento do agravo regimental.
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL. PEDIDO FORMULADO PELO CORRÉU DE REVOGAÇÃO DO DECRETO DE PRISÃO PREVENTIVA. MATÉRIA NÃO DEBATIDA NA ORIGEM. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO. AUSÊNCIA DE PLAUSIBILIDADE DO DIREITO INVOCADO. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. A pretensão de revogação do decreto de prisão preventiva não foi apreciada nas instâncias ordinárias, não foi sequer ajuizado recurso pelo ora insurgente, não há indicação de fato novo, e a alegação de que as teses suscitadas no agravo em recurso especial beneficiariam todos os denunciados ficou prejudicada com o não conhecimento do referido recurso. Assim sendo, além de não ter sido inaugurada a competência desta Corte Superior para a análise da matéria, não há a mínima demonstração de plausibilidade do direito.
+2. Agravo regimental não conhecido.
+VOTO
+O agravo regimental não merece ser conhecido.
+Depreende-se dos autos que PAULO SERGIO OLIVEIRA NASCIMENTO JUNIOR, foi condenado como incurso nos art. 2º, da Lei nº 12.850/11, art. 155, §1º c/c §4º, incisos I e IV, n/f art. 14, inciso II e art. 333, todos do Código Penal, à pena de 07 (sete) anos de reclusão e 40 (quarenta) dias-multa, em regime inicial fechado. Foi negado aos réus o direito de recorrer em liberdade considerando a gravidade das condutas e o fato de responderem presos à instrução.
+Não há notícia nos autos de recurso interposto pela defesa do ora agravante que peticionou nos autos do agravo em recurso especial ajuizado por RAF AEL ALEXANDRE DE ALMEIDA requerendo a revogação do decreto de prisão preventiva.
+O agravo em recurso especial sequer foi conhecido ante a incidência do óbice previsto na Súmula 182/STJ.
+A pretensão de revogação do decreto de prisão preventiva não foi apreciada nas instâncias ordinárias, não foi ajuizado recurso pelo ora insurgente, não há indicação de fato novo, e a alegação de que as teses suscitadas no agravo em recurso especial beneficiariam todos os denunciados ficou prejudicada com o não conhecimento do referido recurso. Assim sendo, além de não ter sido inaugurada a competência desta Corte Superior para a análise da matéria, não há a mínima demonstração de plausibilidade do direito.
+Por oportuno cabe registrar que a jurisprudência desta Corte é firme no sentido de que, tendo o recorrente permanecido preso durante todo o andamento da ação penal, não faria sentido, ausentes alterações nas circunstâncias fáticas, que, com a superveniência da condenação, fosse-lhe deferida a liberdade.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. NEGATIVA DE AUTORIA. IMPROPRIEDADE DA VIA ELEITA. PRISÃO PREVENTIVA MANTIDA NA SENTENÇA. RÉU QUE PERMANECEU PRESO DURANTE TODA INSTRUÇÃO. FUNDAMENTOS. PERICULOSIDADE DO AGENTE. FORNECEDOR DE GRANDE QUANTIDADE DE ENTORPECENTES. NESSECIDADE DE INTERROMPER ATIVIDADE DO GRUPO CRIMINOSO. GARANTIA DA ORDEM PÚBLICA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. EXTENSÃO DE BENEFÍCIO CONCEDIDO À CORRÉ. SUPRESSÃO DE INSTÂNCIA. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. AGRAVO REGIMENTAL IMPROVIDO.
+1. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+2. A tese de insuficiência de prova da autoria consiste em alegação de inocência, a qual não encontra espaço de análise na estreita via do habeas corpus ou do recurso ordinário, por demandar exame do contexto fático-probatório.
+3. Para a decretação da prisão preventiva, é indispensável a demonstração da existência da prova da materialidade do crime, da presença de indícios suficientes da autoria e do perigo gerado pelo estado de liberdade do imputado. Exige-se, mesmo que a decisão esteja pautada em lastro probatório, que se ajuste às hipóteses excepcionais da norma em abstrato (art. 312 do CPP), demonstrada, ainda, a imprescindibilidade da medida. Precedentes do STF e STJ.
+4. Caso em que a prisão preventiva foi mantida pelo Tribunal para garantia da ordem pública em razão da periculosidade social do agravante, evidenciada (i) pelas circunstâncias concretas - pois o réu foi condenado por se associar à corré e sua filha menor e habitualmente fornecer-lhes drogas em grande quantidade para venderem; e (ii) como forma de interromper as atividade do grupo criminoso.
+5. O entendimento abraçado pelas instâncias ordinárias encontra-se em harmonia com a jurisprudência desta Corte, no sentido de que, tendo o paciente permanecido preso durante todo o andamento da ação penal, não faria sentido, ausentes alterações nas circunstâncias fáticas, que, com a superveniência da condenação ou da sentença de pronúncia, fosse-lhe deferida a liberdade.
+6. As condições subjetivas favoráveis do paciente, tais como primariedade, bons antecedentes, ocupação lícita e residência fixa, por si sós, não obstam a segregação cautelar, quando presentes os requisitos legais para a decretação da prisão preventiva.
+7. Mostra-se indevida a aplicação de medidas cautelares diversas da prisão, quando evidenciada a sua insuficiência para acautelar a ordem pública.
+8. No que concerne ao pedido de extensão da liberdade provisória concedida à corré, verifica-se que o referido argumento não foi analisado pela Corte de origem, o que inviabiliza sua análise no Superior Tribunal de Justiça.
+9 . Agravo regimental improvido.
+(AgRg no HC n. 811.088/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/4/2023, DJe de 24/4/2023.)
+Ante o exposto, não conheço do agravo regimental.
+É como voto.
