@@ -1,0 +1,25 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro-Relator.
+A Sra. Ministra Assusete Magalhães, os Srs. Ministros Francisco Falcão, Humberto Martins e Herman Benjamin votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de agravo interno interposto por ESTADO DA BAHIA contra decisão monocrática, de minha relatoria, assim ementada:
+PROCESSUAL CIVIL. ASTREINTES. DIRECIONAMENTO NÃO APENAS AO ENTE ESTATAL, MAS AOS AGENTES RESPONSÁVEIS PELO CUMPRIMENTO DAS DETERMINAÇÕES JUDICIAIS. POSSIBILIDADE. PROPORCIONALIDADE DA MULTA DIÁRIA. TETO LIMITADOR. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E NÃO PROVIDO.
+No presente recurso, sustenta-se que
+o Estado demonstrou a inaplicabilidade dos óbices apontados na decisão agravada. Inicialmente, o Estado demonstrou que não se está diante de caso no qual as astreintes podem ser pessoalmente aplicadas às autoridades ou aos responsáveis pelo  cumprimento  das determinações judiciais, que, em relação a revisão da multa e a imposição de um limitador, não há que se falar na incidência da súmula 7 do STJ, bem como que estamos diante de caso no qual o STJ não está sendo usado como terceira instância  .. .
+Pugna, por fim, a reconsideração da decisão, em juízo de retratação, ou a remessa do presente recurso ao órgão colegiado.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ASTREINTES. DIRECIONAMENTO NÃO APENAS AO ENTE ESTATAL, MAS AOS AGENTES RESPONSÁVEIS PELO CUMPRIMENTO DAS DETERMINAÇÕES JUDICIAIS. POSSIBILIDADE. PROPORCIONALIDADE DA MULTA DIÁRIA. TETO LIMITADOR. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. A cominação de astreintes pode ser direcionada não apenas ao ente estatal, mas também pessoalmente às autoridades ou aos agentes responsáveis pelo cumprimento das determinações judiciais. Precedentes do STJ.
+2. Os argumentos pela necessidade de revisão da multa cominada, bem como pela imposição de um limitador, esbarram no óbice da Súmula nº 7/STJ - "a pretensão de simples reexame de prova não enseja recurso especial".
+3. Agravo interno não provido.
+VOTO
+O presente agravo não merece lograr êxito.
+Em que pese o arrazoado, observa-se que a parte agravante não trouxe argumentos novos capazes de infirmar os fundamentos que embasaram a decisão agravada, o que faz subsistir o entendimento nela externado.
+De comum sabença, a cominação de astreintes pode ser direcionada não apenas ao ente estatal, mas também pessoalmente às autoridades ou aos agentes responsáveis pelo cumprimento das determinações judiciais (cf. REsp 1.111.562/RN, Rel. Min. Castro Meira, Segunda Turma, publicado em 18/09/2009; AgRg no AREsp 472.750/RJ, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 9.6.2014; AgInt no REsp n. 1.957.741/MG, Rel. Min. Herman Benjamin, Segunda Turma, julgado em 21/3/2022, DJe de 25/3/2022), exceto se o agente público não figurou como parte no processo (cf. REsp n. 1.315.719/SE, Rel. Min. Herman Benjamin, Segunda Turma, DJe 18/09/2013; REsp n. 1.433.805/SE, Rel. Min. Sérgio Kukina, Primeira Turma, DJe 24/06/2014; REsp n. 1.859.128/SE, Rel. Min. Francisco Falcão, Segunda Turma, DJe de 11/11/2022).
+Por outro lado, os argumentos pela necessidade de revisão da multa cominada, bem como pela imposição de um limitador, esbarram no óbice da Súmula nº 7/STJ - "a pretensão de simples reexame de prova não enseja recurso especial" -, uma vez que não se trata aqui de discussão sobre o resultado jurídico da aplicação de normas federais (quaestio iuris), senão da revisão das premissas subjacentes (quaestio facti), as quais sequer foram colacionadas ao recurso especial da parte que agrava.
+Cediço é que "o chamado erro na valoração ou valorização das provas somente pode ser o erro de direito quanto ao valor da prova abstratamente considerado." Se "o julgado local, apreciando o poder de convicção  da prova , conclua (bem ou mal) sobre estar provado, ou não, um fato, aí não se tem ofensa ao direito federal: pode ocorrer ofensa (se mal jugada a causa) ao direito da parte" (cf. RE 84699, Rel. p/ Acórdão RODRIGUES ALCKMIN, Primeira Turma, DJ 03/06/1977, pp 3645).
+Esta Corte Superior não pode ser transformada em terceira instância recursal, para que se faça a melhor Justiça do caso, tanto em razão do que expressamente prevê a Constituição Federal como competência deste Superior Tribunal de Justiça (cf. AgInt nos EAREsp 702.591/DF, Rel. Ministro FELIX FISCHER, CORTE ESPECIAL, DJe 04/11/2016), como em razão de que, em assim agindo, pouca seria a contribuição para a efetiva Justiça, máxime no tocante à duração razoável do processo, adverte Araken de Assis (in Manual dos recursos  livro eletrônico . 10. ed. São Paulo: Revista dos Tribunais, 2021).
+Esclareço, outrossim, que a decisão que se pretende cassar é com base no art. 932, inciso III, c.c. o art. 1.030, § 2º, do Código de Processo Civil de 2015, não trazendo a parte qualquer motivo hábil para sua anulação.
+Com essas considerações, nego provimento ao agravo interno.
+É como voto.
