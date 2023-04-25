@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de agravo regimental interposto por JANAINA BARBOSA CAMPOS contra decisão monocrática de minha lavra que não conheceu do habeas corpus impetrado em seu favor, em que se pleiteou a concessão de trabalho externo no regime fechado harmonizado (e-STJ, fls. 84/89).
+Neste recurso (e-STJ, fls. 95/102), a Defensoria Pública estadual argumenta que a executada tem duas crianças de 9 e 8 anos de idade, razão pela qual cumpre atualmente a prisão na forma domiciliar, precisando, assim, da autorização do trabalho externo para que ela possa garantir o sustento das crianças, considerando que o Estado não garante.
+Pondera que "A despeito da assistência social ser direito de todos, o Estado não garante a subsistência de apenados (nem de seus familiares) que estejam cumprindo pena fora de estabelecimentos prisionais, sendo, portanto, presumível que apenados nessas condições precisam trabalhar para garantir o próprio sustento e dos seus familiares, ou ter alguém que o sustente" (e-STJ fl. 100).
+Sustenta, nessa linha, que "Permitir à apenada trabalhar, além de viabilizar o sustento de sua família, promoverá a expansão de sua cidadania e permitirá a ela pavimentar seu caminho em busca de sua reinserção e seu pertencimento social" (e-STJ fl. 100).
+Em vista do exposto, requer a reconsideração da decisão agravada ou que o feito seja submetido a julgamento perante a Quinta Turma desta Corte, "para que, após ser conhecido e provido, seja julgado e concedido o habeas corpus para autorizar o trabalho externo à sentenciada" (e-STJ fl. 101).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. IMPUGNAÇÃO DEFENSIVA. TRABALHO EXTERNO NO REGIME FECHADO HARMONIZADO. INDEFERIMENTO. REQUISITO SUBJETIVO NÃO PREENCHIDO. DESCUMPRIMENTO DAS REGRAS DA PRISÃO DOMICILIAR POR MAIS DE DUAS VEZES E UMA VEZ DO TRABALHO EXTERNO. RECURSO IMPROVIDO.
+1- Na espécie, ausente o requisito subjetivo para concessão da benesse, conforme ressaltado pela Corte de origem: No presente caso, há de se levar em consideração ainda que o apenado em um outro momento do cumprimento da pena teve revogado o benefício do trabalho externo, tendo voltado a delinquir e sendo preso em flagrante delito.  ..  (RHC n. 90.198/CE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/6/2018, DJe de 15/6/2018.)
+2- No caso, concedida a prisão domiciliar em 22/2/2018 e o trabalho externo em 28/3/2018, a agravante descumpriu suas condições em 13/5/2018, deixando de se apresentar em Juízo. Em 11/7/2018, descumpriu novamente as condições do regime semiaberto harmonizado e em 27/7/2018, cometeu novo delito. Assim, voltou ao regime fechado, sendo progredida para o semiaberto em 20/2/2019, com fixação de tornozeleira eletrônica (regime semiaberto harmonizado). Voltou a descumprir condições do novo regime em 29/5/2020, em decorrência de prisão em flagrante, ocasionando o somatório de penas e retornando ao regime fechado.
+3- A permissão para trabalho externo, aos reeducandos do regime fechado de cumprimento de pena, está subordinada à capacidade e à disponibilidade de vigilância do Poder Público, considerada a possibilidade de fuga, e, ainda, à fiscalização estatal, no exercício do poder disciplinar sobre os apenados em cumprimento de pena (AgRg no AREsp 492.982/MG, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 05/06/2014, DJe 25/06/2014). Agravo regimental desprovido.
+(AgRg no REsp 1658784/RO, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 15/05/2018, DJe 25/05/2018)
+4- Diante da dificuldade de fiscalização da pena no trabalho externo, o detento tem o dever de se adaptar às suas possibilidades de vigilância, mormente nesse caso, em que a recorrente deu causas para a desconfiança do Estado, ao ter descumprido as regras da prisão domiciliar e trabalho externo.
+5- Agravo regimental não provido.
+VOTO
+O agravo regimental é tempestivo e rechaçou os fundamentos da decisão combatida, razões pelas quais merece conhecimento.
+No entanto, não obstante os esforços do agravante, não constato elementos suficientes para reconsiderar a decisão.
+Estes foram os fundamentos adotados na decisão agravada (e-STJ, fls. 87/89):
+De fato, um dos requisitos para a concessão do trabalho externo, sobretudo para aqueles que se encontram no regime fechado, é a aptidão, disciplina e responsabilidade, nos termos do art. 37, da LEP:
+ ..
+No caso, o histórico disciplinar da reeducanda não é satisfatório: concedida a prisão domiciliar em 22/2/2018 e o trabalho externo em 28/3/2018, descumpriu suas condições em 13/5/2018, deixando de se apresentar em Juízo. Em 11/7/2018, descumpriu novamente as condições do regime semiaberto harmonizado e em 27/7/2018, cometeu novo delito, acarretando homologação de falta grave em 23/10/2018. Assim, voltou ao regime fechado, sendo progredida para o semiaberto em 20/2/2019, com fixação de tornozeleira eletrônica (regime semiaberto harmonizado). Voltou a descumprir condições do novo regime em 29/5/2020, em decorrência de prisão em flagrante, ocasionando o somatório de penas e retornando ao regime fechado. Concedida domiciliar em 13/12/2021 (e-STJ, fls. 65/74).
+Dessa forma, descumpriu as condições da prisão domiciliar e trabalho externo em 2018 por duas vezes, uma deles cometendo novo delito, bem como uma vez em 2020, também em razão de novo crime.
+Essa repetição de faltas demonstra ainda um comportamento indisciplinado e irresponsável, justificando o indeferimento do trabalho externo.
+Nesse sentido:
+ ..
+Ante o exposto, com amparo no art. 34, XX, do Regimento Interno do STJ, não conheço do habeas corpus.
+Conforme delineado na decisão exposta acima, o trabalho externo foi indeferido em razão do histórico de faltas disciplinares da reeducanda, que descumpriu as condições da prisão domiciliar em 2018 por duas vezes e uma vez do trabalho externo, uma deles cometendo novo delito, bem como uma vez em 2020, também em razão de novo crime.
+Para a concessão do trabalho externo, não basta o cumprimento do lapso de 1/6, devendo haver mérito subjetivo, nos termos do art. 37, da LEP, sobretudo quando o apenado ainda se encontra no regime fechado, que é o caso, embora harmonizado com a prisão domiciliar.
+No ponto, nada disse a defesa, limitando-se a argumentar sobre as necessidades básicas das crianças. Ora, não há garantia da subsistência no trabalho externo, quando há riscos de reiteração delitiva pela executada, a qual, descumprindo novamente a domiciliar, pode vir a ser presa, piorando mais ainda a situação da sua prole. Inclusive, pode a agravante recorrer ao labor na própria residência, contribuindo não só para a subsistência familiar como também para a devida atenção de seus filhos.
+Além disso, diante da dificuldade de fiscalização da pena no trabalho externo, o detento tem o dever de se adaptar às suas possibilidades de vigilância, mormente nesse caso, em que a recorrente deu causas para a desconfiança do Estado, ao ter descumprido as regras da prisão domiciliar e trabalho externo.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. PRESO NO REGIME FECHADO. TRABALHO EXTERNO. DEFERIMENTO. NECESSIDADE DE MEDIDAS CONTRA FUGA. MONITORAMENTO ELETRÔNICO. EXERCÍCIO DA FISCALIZAÇÃO. PODER DISCIPLINAR.
+1. "A permissão para trabalho externo, aos reeducandos do regime fechado de cumprimento de pena, está subordinada à capacidade e à disponibilidade de vigilância do Poder Público, considerada a possibilidade de fuga, e, ainda, à fiscalização estatal, no exercício do poder disciplinar sobre os apenados em cumprimento de pena" (AgRg no AREsp 492.982/MG, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 05/06/2014, DJe 25/06/2014).
+2. Agravo regimental desprovido.
+(AgRg no REsp 1658784/RO, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 15/05/2018, DJe 25/05/2018)
+Ante o exposto, nego provimento a este agravo regimental.
+É como voto.
