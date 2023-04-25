@@ -1,0 +1,69 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 19/04/2023 a 25/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, Laurita Vaz, João Otávio de Noronha, Herman Benjamin, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Maria Isabel Gallotti e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Humberto Martins.
+Presidiu o julgamento a Sra. Ministra Maria Thereza de Assis Moura.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): Trata-se de agravo interno (e-STJ fls. 2.178/2.183) interposto contra decisão que indeferiu liminarmente os embargos de divergência.
+As agravantes reiteram as razões dos embargos de divergência, sustentando o cabimento de seu recurso, em síntese, porque teria sido demonstrado o dissídio jurisprudencial, uma vez que "é evidente a similitude fática entre a situação da fixação dos honorários sucumbenciais da reconvenção nesses autos e o TEMA 1.096" (e-STJ fl. 2.181).
+Ao final, postulam a reconsideração da decisão monocrática ou sua apreciação pelo Colegiado.
+A parte agravada, intimada, apresentou impugnação, requerendo a aplicação de multa (e-STJ fls. 2.185/2.192).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. AUSÊNCIA DE COTEJO ANALÍTICO. REGRA TÉCNICA DE ADMISSIBILIDADE RECURSAL. AUSÊNCIA DE SIMILITUDE. DECISÃO MANTIDA.
+1. A impossibilidade de analisar a correta aplicação de regra técnica de admissibilidade do recurso especial ou do agravo em recurso especial decorre da ausência de similitude entre o acórdão embargado e o paradigma.
+2. O acórdão embargado, considerando a situação específica destes autos, bem como a petição de recurso especial apresentada pelas ora agravantes, entendeu que seria aplicável a Súmula n. 7 do STJ.
+3. O paradigma apontado, por outro lado, a partir do exame de contexto fático-processual diverso, concluiu que o mérito recursal poderia ser apreciado, sem haver referência ao óbice apontado no acórdão embargado. Constata-se, portanto, a diferença entre os julgados confrontados.
+4. " ..  os embargos de divergência têm por finalidade uniformizar a jurisprudência do próprio Superior Tribunal de Justiça, quando se verificarem idênticas situações fáticas nos julgados, mas se tenha dado diferente interpretação na legislação aplicável ao caso. Não se prestam para avaliar possível justiça ou injustiça do decisum ou corrigir regra técnica de conhecimento e, muito menos, confrontar tese de admissibilidade com tese de mérito" (AgRg nos EAREsp n. 1.630.006/DF, Relator Ministro FRANCISCO FALCÃO, CORTE ESPECIAL, julgado em 5/10/2022, DJe de 10/10/2022).
+5. Agravo interno a que se nega provimento.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): A insurgência não merece ser acolhida.
+As agravantes não trouxeram nenhum argumento capaz de afastar os termos da decisão agravada, a qual foi proferida nos seguintes termos (e-STJ fls. 2.172/2.175):
+Trata-se de embargos de divergência interpostos por ASSUA INCORPORADORA LTDA e ASSUÃ CONSTRUÇÕES ENGENHARIA E COMÉRCIO LTDA contra acórdão da Terceira Turma, relatado pelo Ministro Paulo de Tarso Sanseverino, do qual se extrai a seguinte ementa (e-STJ fl. 1.180):
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO DO CONSUMDIOR. AÇÃO INDENIZATÓRIA. COMPROMISSO DE COMPRA E VENDA. ATRASO NA ENTREGA. CONDENAÇÃO EM LUCROS CESSANTES. CABIMENTO. SUCUMBÊNCIA. DISTRIBUIÇÃO. REVISÃO DO JULGADO. IMPOSSIBILIDADE. INCIDÊNCIA DO ENUNCIADO N.º 7/STJ.
+1. O atraso na entrega do imóvel, nos termos da jurisprudência do STJ, enseja pagamento de indenização por lucros cessantes durante o período de mora do promitente vendedor, sendo presumido o prejuízo do promitente comprador.
+2. Consoante a jurisprudência do Superior Tribunal de Justiça, a alteração do entendimento firmado na instância ordinária (acerca da distribuição dos ônus de sucumbência) exige, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada no âmbito do recurso especial, conforme o óbice do Enunciado n.º 7/STJ.
+3. Não apresentação de argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada.
+4. AGRAVO INTERNO CONHECIDO E DESPROVIDO.
+Opostos embargos de declaração, foram rejeitados (e-STJ fl. 1.211).
+Alegam as embargantes, em síntese, divergência em relação à tese da condenação ao pagamento de honorários sucumbenciais por equidade.
+Sustentam que esta Corte Superior definiu o Tema n. 1.076/STJ (REsp n. 1.906.618/SP), segundo o qual tais honorários somente podem ser fixados por equidade quando existente uma das seguintes situações: "(a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo" (e-STJ fl. 1.223).
+Asseveram que a Terceira Turma, no entanto, teria ratificado o decisum da Corte de origem, no sentido de fixar "os honorários por equidade por "quantia excessiva" (lucratividade excessiva)" (e-STJ fl. 1.223), o que sob sua ótica diverge do mencionado Tema n. 1.076/STJ.
+Requer o provimento do recurso uniformizador, reformando a decisão embargada e fixando os honorários entre os parâmetros de 10% a 20% do valor da causa ou da condenação, nos termos do art. 85 do Código de Processo Civil.
+É o relatório. Decido.
+O presente recurso uniformizador não reúne condições para o avanço no mérito.
+É que, para a configuração do dissídio jurisprudencial, revela-se imprescindível a demonstração tanto da similitude fática quanto da identidade jurídica entre o acórdão embargado e os paradigmas apontados, conforme pacífica orientação desta Corte Superior, a partir da interpretação do § 4º do art. 1.043 do CPC e do § 4º do art. 266 do Regimento Interno.
+Destaca-se que os contextos fáticos dos arestos confrontados não precisam ser necessariamente iguais, mas devem possuir um mínimo de semelhança ao decidirem a mesma questão federal, a fim de possibilitar o juízo de legalidade a ser exercido nos embargos de divergência, cujo objetivo é uniformizar a jurisprudência entre os órgãos julgadores deste Sodalício.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. REQUISITOS DE ADMISSIBILIDADE DO RECURSO. AUSÊNCIA DE COTEJO ANALÍTICO ENTRE OS ACÓRDÃOS CONFRONTADOS. DISCUSSÃO SOBRE A APLICAÇÃO DA REGRA TÉCNICA DE ADMISSIBILIDADE RECURSAL. INADEQUAÇÃO. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. SÚMULA 315/STJ.JURISPRUDÊNCIA DO STJ. INDEFERIMENTO LIMINAR DOS EMBARGOS DE DIVERGÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A finalidade do embargos de divergência no âmbito do Superior Tribunal de Justiça é dirimir eventual entendimento jurisprudencial conflitante sobre teses de mérito adotado por julgados desta Corte Superior em recurso especial. Entretanto, é indispensável haver identidade ou similitude fática e jurídica entre o acórdão embargado e o aresto paradigma, cabendo ao embargante demonstrar que houve interpretação divergente acerca de situações semelhantes por meio de cotejo analítico entre os julgados confrontados.
+(..)
+4. É pacífico o entendimento desta Corte Superior no sentido de que não se configura divergência entre julgados quando um deles adentra o mérito do recurso, apreciando a questão controvertida, enquanto o outro não conhece do recurso especial, sem enfrentar a tese, em razão de óbice relacionado à admissibilidade recursal, hipótese do caso concreto.
+5. O acórdão embargado foi proferido em agravo em recurso especial e o mérito do recurso excepcional não foi apreciado em razão de óbices relacionados à admissibilidade recursal. Tais considerações atraem a incidência da Súmula 315/STJ: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial." 6. Agravo regimental não provido.
+(AgRg nos EAREsp 1260579/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, CORTE ESPECIAL, j. 2/10/2019, DJe 8/10/2019) - (grifo acrescido)
+Do cotejo entre a fundamentação dos arestos ora confrontados, constata-se que não há similitude fático-jurídica entre tais julgados. Com efeito, as embargantes apontam divergência jurisprudencial quanto à fixação dos honorários sucumbenciais por equidade.
+Ocorre que o acórdão embargado não solucionou o mérito de tal questão, por ter vislumbrado a Terceira Turma a presença do óbice da Súmula n. 7/STJ. A propósito, merecem destaque os seguintes trechos, extraídos da decisão monocrática do Relator e também do acórdão proferido quando do julgamento do recurso especial (e-STJ fl. 901 e fl. 1.184):
+2. Dos honorários advocatícios: Consoante a jurisprudência do Superior Tribunal de Justiça, a alteração do entendimento firmado na instância ordinária (acerca da distribuição dos ônus de sucumbência) exige, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada no âmbito do recurso especial, conforme o óbice do Enunciado n.º 7/STJ. A propósito: (..)
+Por segundo, conforme destacado no julgado singular, a distribuição dos ônus de sucumbência exige, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada no âmbito do recurso especial, conforme o óbice do Enunciado n.º 7/STJ. A propósito: (..)
+Por outro lado, as teses jurídicas referentes ao julgamento do REsp n. 1.906.618/SP decorreram do enfrentamento do mérito da questão então submetida à Corte Especial do STJ, restando assim delimitadas: "i) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados. É obrigatória, nesses casos, a observância dos percentuais previstos nos §§ 2º ou 3º do art. 85 do CPC - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa. ii) Apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo".
+Tal realidade demonstra a ausência de similitude fática entre os arestos confrontados, justificando, inclusive, a solução jurídica distinta conferida às demandas.
+Desatendido este requisito imprescindível para configuração do dissenso pretoriano, o presente recurso afigura-se inadmissível.
+Ante o exposto, com fundamento no art. 266-C do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente os embargos de divergência.
+Publique-se. Intimem-se.
+Conforme explicitado na decisão embargada, as exigências relativas à demonstração da divergência jurisprudencial não foram modificadas pelo CPC/2015, assim dispondo seu art. 1.043, § 4º:
+Art. 1.043. É embargável o acórdão de órgão fracionário que:
+(..)
+§ 4º O recorrente provará a divergência com certidão, cópia ou citação de repositório oficial ou credenciado de jurisprudência, inclusive em mídia eletrônica, onde foi publicado o acórdão divergente, ou com a reprodução de julgado disponível na rede mundial de computadores, indicando a respectiva fonte, e mencionará as circunstâncias que identificam ou assemelham os casos confrontados.
+Os embargos de divergência não merecem conhecimento por causa da impossibilidade de análise da correta aplicação de regra técnica de admissibilidade do recurso especial ou do agravo em recurso especial, diante da ausência de similitude entre o acórdão embargado e o paradigma.
+O acórdão embargado, considerando a situação específica destes autos, bem como a petição de agravo apresentada pelas agravantes, entendeu que seria aplicável a Súmula n. 7 do STJ.
+O paradigma da Corte Especial, por outro lado, a partir do exame de contexto fático-processual diverso, concluiu que o mérito recursal poderia ser apreciado, sem haver referência ao óbice apontado no acórdão embargado. Constata-se, portanto, a diferença entre os julgados confrontados.
+Logo, mantêm-se os óbices ao conhecimento dos embargos de divergência, tendo em vista que, inexistindo semelhança entre o acórdão recorrido e o paradigma, eventual erro ou injustiça do julgado da Turma, quanto ao conhecimento do recurso especial, não os torna cabíveis. Nesse sentido:
+PROCESSUAL PENAL. CRIME DO ART. 89 DA LEI N. 8.666/1993. COMPANHIA DE DESENVOLVIMENTO DO PLANALTO CENTRAL - CODEPLAN. EMBARGOS DE DIVERGÊNCIA LIMINARMENTE INDEFERIDOS. NÃO COMPROVAÇÃO DA DIVERGÊNCIA. NÃO COMPROVAÇÃO DA ATUALIDADE DO DISSÍDIO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+ ..
+VIII - Nessa esteira, necessário ressaltar que os embargos de divergência têm por finalidade uniformizar a jurisprudência do próprio Superior Tribunal de Justiça, quando se verificarem idênticas situações fáticas nos julgados, mas se tenha dado diferente interpretação na legislação aplicável ao caso. Não se prestam para avaliar possível justiça ou injustiça do decisum ou corrigir regra técnica de conhecimento e, muito menos, confrontar tese de admissibilidade com tese de mérito.
+IX - Agravo interno improvido.
+(AgRg nos EAREsp n. 1.630.006/DF, Relator Ministro FRANCISCO FALCÃO, CORTE ESPECIAL, julgado em 5/10/2022, DJe de 10/10/2022.)
+Em tais circunstâncias, as razões deduzidas não se mostram suficientes para ensejar a reforma da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+Por fim, indefiro o pedido da parte agravada, de aplicação da multa, porque não evidenciada, até o momento, conduta maliciosa ou temerária a justificar tal sanção.
+É como voto.
