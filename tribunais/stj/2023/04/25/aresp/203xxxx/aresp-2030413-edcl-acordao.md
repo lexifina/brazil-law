@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 19/04/2023 a 25/04/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, Laurita Vaz, João Otávio de Noronha, Herman Benjamin, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Humberto Martins.
+Presidiu o julgamento a Sra. Ministra Maria Thereza de Assis Moura.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por ROBSON MARAGNO contra acórdão que desproveu o agravo regimental, mantendo a decisão que negou seguimento ao recurso extraordinário nos termos da seguinte ementa (fl. 299):
+AGRAVO REGIMENTAL. NEGATIVA DE SEGUIMENTO. RECURSO EXTRAORDINÁRIO. FALTA DE FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. TEMA N. 339/STF. PREENCHIMENTO DOS PRESSUPOSTOS DE ADMISSIBILIDADE RECURSAL. AUSÊNCIA DE REPERCUSSÃO GERAL. TEMA N. 181/STF. DESPROVIMENTO DO AGRAVO.
+1. As decisões judiciais devem ser fundamentadas, ainda que de forma sucinta, não se exigindo análise pormenorizada de cada prova ou alegação das partes, nem que sejam corretos os seus fundamentos (Tema n. 339/STF).
+2. A insurgência quanto ao preenchimento dos pressupostos de admissibilidade de recurso de competência do Superior Tribunal de Justiça tem natureza infraconstitucional, sem repercussão geral (Tema n. 181/STF).
+3. Agravo regimental a que se nega provimento.
+Sustenta a parte embargante que o aresto impugnado seria omisso, pois não teria apreciado as teses defensivas apresentadas no agravo regimental interposto contra a decisão que negou seguimento ao recurso extraordinário.
+Reitera que os Temas n. 339 e 181 do STF não seriam aplicáveis automaticamente, devendo-se analisar as particularidades do caso concreto.
+Afirma que o agravo regimental deveria ser convertido em agravo, permitindo-se, assim, o processamento do recurso extraordinário interposto.
+Requer o acolhimento dos aclaratórios para que os defeitos apontados sejam sanados, com a correspondente repercussão jurídica.
+As contrarrazões foram apresentadas às fls. 316-324.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO. NEGATIVA DE SEGUIMENTO. VÍCIO. NÃO OCORRÊNCIA. CONVERSÃO DO AGRAVO REGIMENTAL EM AGRAVO EM RECURSO EXTRAORDINÁRIO. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração, conforme dispõe o art. 619 do Código de Processo Penal, destinam-se a sanar ambiguidade, obscuridade, contradição ou omissão, tendo a jurisprudência os admitido, também, para corrigir eventual erro material na decisão embargada.
+2. Não se identifica, no recurso, vício algum capaz de ensejar o acolhimento dos declaratórios, mas apenas a discordância da parte com a solução apresentada no julgamento e o propósito de modificação.
+3. É inviável análise da pretensão de conversão do agravo regimental em agravo em recurso extraordinário, pois, nos termos do art. 1.030, § 2º, do Código de Processo Civil, aplicável subsidiariamente ao processo penal, contra a decisão que nega seguimento ao recurso extraordinário, observando a sistemática da repercussão geral, cabe agravo regimental, e não agravo em recurso extraordinário para o Supremo Tribunal Federal. Precedente.
+4. Embargos de declaração rejeitados.
+VOTO
+O art. 619 do Código de Processo Penal disciplina que, "aos acórdãos proferidos pelos Tribunais de Apelação, câmaras ou turmas, poderão ser opostos embargos de declaração, no prazo de dois dias contados da sua publicação, quando houver na sentença ambiguidade, obscuridade, contradição ou omissão", tendo a jurisprudência os admitido, também, para sanar eventual erro material na decisão embargada.
+No caso, é inviável o acolhimento da pretensão recursal, uma vez que, conforme registrado no acórdão embargado, o STF, ao interpretar o art. 93, IX, da Constituição da República, firmou o entendimento de que, para que uma decisão judicial seja considerada motivada, não se requer o exame pormenorizado de cada alegação ou prova trazida pelas partes, tampouco que sejam corretos os seus fundamentos.
+Esclareceu-se que, no caso, foram declinados os motivos pelos quais o colegiado negou provimento ao agravo regimental no agravo em recurso especial, bem como rejeitou os embargos de declaração opostos na sequência, razão pela qual incide o Tema n. 339/STF.
+No ponto, vale destacar que, demonstrada a ocorrência da prestação jurisdicional, ainda que não se concorde com a solução dada à causa, afigura-se inviável o prosseguimento do recurso extraordinário, pois o provimento recorrido encontra-se em sintonia com a tese fixada no Tema n. 339/STF, de observância obrigatória (CPC, art. 927, III), entendimento reiterado pelo próprio STF, por exemplo, no ARE n. 1.349.717-ED-AgR, relator Ministro Luiz Fux, Plenário, DJe de 10/2/2022.
+Acrescentou-se que, no RE n. 598.365-RG/MG, julgado na sistemática da repercussão geral, foi definido que "a questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral" (Tema n. 181/STF).
+Consignou-se que o acórdão objeto do recurso extraordinário negou provimento ao agravo regimental, mantendo a decisão que não conheceu do agravo ante a intempestividade do recurso especial, concluindo-se que, não tendo o julgado recorrido ultrapassado o juízo de admissibilidade, não há repercussão geral, consoante o Tema n. 181/STF, sendo inviável a análise da violação constitucional apontada no recurso extraordinário.
+Com efeito, a ausência de superação do que fora decidido no pronunciamento recorrido acerca dos pressupostos de conhecimento do recurso anterior, como ocorreu neste caso, inviabiliza o exame do recurso extraordinário pela própria Corte Suprema, qualquer que seja a suscitada violação da Constituição Federal, consoante a tese fixada no Tema n. 181 da repercussão gera.
+Por fim, cumpre destacar que é inviável análise da pretensão de conversão do agravo regimental em agravo em recurso extraordinário, pois, nos termos do art. 1.030, § 2º, do Código de Processo Civil, contra a decisão que nega seguimento ao recurso extraordinário, observando a sistemática da repercussão geral, cabe agravo interno, e não agravo em recurso extraordinário para o Supremo Tribunal Federal.
+Em se tratando de processo penal, como na espécie, não cabe, de igual modo, agravo em recurso extraordinário para o STF, mas agravo regimental no próprio STJ, no prazo de 5 dias corridos, consoante o disposto nos arts. 39 da Lei n. 8.038/1990 e 798 do Código de Processo Penal.
+Nesse sentido:
+Agravo regimental no recurso extraordinário com agravo. Direito Administrativo. Contrato administrativo. Descumprimento das obrigações contratuais. Decisão mista. Capítulo em que se aplica a sistemática da repercussão geral. Não cabimento de recurso dirigido ao Supremo Tribunal Federal. Questões remanescentes. Fatos e provas. Reexame. Impossibilidade. Legislação infraconstitucional. Ofensa reflexa. Precedentes.
+1. É incabível dirigir recurso ao Supremo Tribunal Federal contra a aplicação da sistemática da repercussão geral no juízo de origem.
+2. A orientação consolidada na Corte foi agasalhada no Código de Processo Civil de 2015, que prevê como instrumento processual adequado contra a aplicação do instituto da repercussão geral a interposição de agravo interno perante o próprio tribunal de origem (art. 1.030, § 2º, do CPC).
+ ..
+5. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita. (ARE n. 1.263.836-AgR, relator Ministro Dias Toffoli - Presidente, Tribunal Pleno, julgado em 8/6/2020, DJe de 6/7/2020.)
+Inexistindo, portanto, vício a ser dissipado, constata-se a pretensão exclusiva de rediscutir a causa, a fim de modificar a decisão embargada, o que não se coaduna com a via aclaratória.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
