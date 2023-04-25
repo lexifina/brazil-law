@@ -1,0 +1,716 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 16
+
+25/04/2023
+
+PRIMEIRA TURMA
+
+AG.REG. NO HABEAS CORPUS 225.732 GOIÁS
+RELATORA
+AGTE.(S)
+PROC.(A/S)(ES)
+AGDO.(A/S)
+
+: MIN. CÁRMEN LÚCIA
+: CLÁUDIO SILVA GOES
+: DEFENSOR PÚBLICO-GERAL DO
+GOIÁS
+: SUPERIOR TRIBUNAL DE JUSTIÇA
+
+ESTADO
+
+DE
+
+EMENTA: AGRAVO REGIMENTAL NO HABEAS CORPUS.
+CONSTITUCIONAL. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME.
+REQUISITO SUBJETIVO NÃO ATENDIDO. MANDADO DE PRISÃO
+PREVENTIVA EM ABERTO PELA PRÁTICA DE CRIME DOLOSO.
+HISTÓRICO DE FALTA GRAVE COMETIDA PELO PACIENTE.
+AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. REAVALIAÇÃO DO
+REQUISITO SUBJETIVO EM HABEAS CORPUS: IMPOSSIBILIDADE.
+REEXAME DE PROVA. PRECEDENTES. AUSÊNCIA DE IMPUGNAÇÃO
+DOS FUNDAMENTOS DA DECISÃO AGRAVADA: INVIABILIDADE.
+AGRAVO REGIMENTAL DESPROVIDO.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros do
+Supremo Tribunal Federal, em Sessão da Primeira Turma, na
+conformidade da ata de julgamento, por unanimidade, negar provimento
+ao agravo regimental, nos termos do voto da Relatora. Sessão Virtual de
+14.4.2023 a 24.4.2023.
+Brasília, 25 de abril de 2023.
+Ministra CÁRMEN LÚCIA
+Relatora
+
+Documento assinado eletronicamente pelo(a) Min. Cármen Lúcia, conforme o Art. 205, § 2º, do CPC. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código F5AA-6616-BF4F-377C e senha 2EAC-393E-E3FC-3E16
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 2 de 16
+
+25/04/2023
+
+PRIMEIRA TURMA
+
+AG.REG. NO HABEAS CORPUS 225.732 GOIÁS
+RELATORA
+AGTE.(S)
+PROC.(A/S)(ES)
+AGDO.(A/S)
+
+: MIN. CÁRMEN LÚCIA
+: CLÁUDIO SILVA GOES
+: DEFENSOR PÚBLICO-GERAL DO
+GOIÁS
+: SUPERIOR TRIBUNAL DE JUSTIÇA
+
+ESTADO
+
+DE
+
+RELATÓRIO
+A SENHORA MINISTRA CÁRMEN LÚCIA (Relatora):
+1. Em 15.3.2023, foi negado seguimento ao habeas corpus, com
+requerimento de medida liminar, impetrado pela Defensoria Pública de
+Goiás, em benefício de Cláudio Silva Goes, contra acórdão da Quinta
+Turma do Superior Tribunal de Justiça, pelo qual negado provimento a
+agravo regimental, mantendo-se decisão do Relator, Ministro Reynaldo
+Soares da Fonseca, que não conheceu do Habeas Corpus n. 791.083/GO.
+Tem-se na decisão agravada:
+“2. Consta do processo que o paciente cumpre pena definitiva
+unificada de onze anos e dez meses de reclusão, em regime fechado, por
+porte e posse de arma de fogo de uso permitido e roubo majorado
+(arts. 12 e 24 da Lei n. 10.826/2003 e § 2º do art. 157 do Código
+Penal) pela prática de tráfico de entorpecentes, tendo começado seu
+cumprimento em 7.7.2018, com previsão de término para 18.6.2019
+(fls. 10-16, doc. 11).
+O condenado, com histórico de prática de falta grave (fuga do
+sistema prisional), teve seu pedido de progressão de regime indeferido
+pelo juízo da Execução Penal, que considerou não atendidos os
+pressupostos subjetivos para a pretendida progressão, pois, ‘durante o
+cumprimento de sua pena, foi preso preventivamente pela suposta
+prática de dois crimes graves, quais sejam, homicídio qualificado e
+associação criminosa, bem como porque, conforme o histórico de
+pesquisa realizada no sistema GoiasPen, juntada aos autos de
+
+Documento assinado eletronicamente pelo(a) Min. Cármen Lúcia, conforme o Art. 205, § 2º, do CPC. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 51FE-203C-6438-4064 e senha DD18-E178-3E22-F4C5
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 3 de 16
+
+HC 225732 AGR / GO
+execução penal, o comportamento carcerário do apenado está
+classificado como ‘REGULAR’ desde 21/12/2021’ (doc. 12).
+3. Contra o indeferimento da progressão interpô-se agravo em
+execução no Tribunal de Justiça de Goiás, desprovido, em acórdão com
+a ementa seguinte:
+‘AGRAVO EM EXECUÇÃO PENAL. PROGRESSÃO
+DE REGIME. AUSÊNCIA DO REQUISITO SUBJETIVO.
+DECRETAÇÃO DA PRISÃO PREVENTIVA EM OUTRO
+PROCESSO. COMPORTAMENTO REGULAR. DECISÃO
+MANTIDA. A prisão preventiva decretada em outro processo
+pode justificar o indeferimento da progressão de regime pelo
+inadimplemento do requisito subjetivo. Máxime quando o
+reeducando que possui mau comportamento regular. AGRAVO
+CONHECIDO E DESPROVIDO’.
+4. A negativa de provimento do recurso conduziu à impetração
+do Habeas Corpus n. 791.083/GO no Superior Tribunal de Justiça,
+não conhecido pelo Relator, Ministro Ribeiro Dantas, em decisão da
+qual se extrai:
+‘A Corte de origem indeferiu o benefício, sob o fundamento
+de que durante o cumprimento de sua pena, foi preso
+preventivamente pela suposta prática de dois crimes graves,
+quais sejam, homicídio qualificado e associação criminosa, bem
+como porque, conforme o histórico de pesquisa realizada no
+sistema GoiasPen, juntada aos autos de execução penal, o
+comportamento carcerário do apenado está classificado como
+‘REGULAR’ desde 21/12/2021.
+Realmente, o mandado de prisão preventiva em aberto
+expedido em outro processo pode sim impedir a progressão de
+regime do paciente na execução penal em que se encontra, pois
+trata-se de fato ocorrido na constância do cumprimento de pena.
+Afinal, os motivos que ensejaram a prisão preventiva
+indicam ausência de mérito subjetivo para progressão de regime.
+Impende registrar, nesse sentido, que a noção de bom
+comportamento do reeducando abrange a valoração de elementos
+que não se restringem ao atestado emitido pela direção
+carcerária, sob pena de transformar o juiz em mero homologador
+
+2
+Documento assinado eletronicamente pelo(a) Min. Cármen Lúcia, conforme o Art. 205, § 2º, do CPC. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 51FE-203C-6438-4064 e senha DD18-E178-3E22-F4C5
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 4 de 16
+
+HC 225732 AGR / GO
+de documentos administrativos (AgRg no HC 660.197/SP, Rel.
+Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA,
+julgado em 17/08/2021, DJe 25/08/2021).
+Portanto, o bom comportamento carcerário, com prazo
+limitado de 1 ano, previsto na redação do § 7º do art. 112 da
+LEP, não basta para a análise do requisito subjetivo.
+Ainda que assim não fosse, conforme relatou a Corte
+originária, o comportamento carcerário do apenado está
+classificado como ‘REGULAR’ desde de 21/12/2021. A
+propósito, os seguintes precedentes desta Corte, que demonstram
+que o mandado de prisão o preventiva em aberto expedido em
+outro processo pode impedir a progressão de regime: (...)
+A natureza preventiva da nova prisão não exclui a falta de
+requisito subjetivo para a progressão de regime, tendo em vista a
+Súmula 526 desta Corte, a qual prevê a prescindibilidade do
+trânsito em julgado da ação penal para configuração da falta:
+(...)
+Ressalte-se, também, não se tratar de violação do princípio
+da presunção da inocência, afinal não se está condenando
+antecipadamente o paciente na ação penal n. 0115558-90, na
+qual há mandado de prisão preventiva em seu desfavor, e sim
+apenas valorando o seu comportamento na atual execução, na
+qual ele foi preso preventivamente durante o cumprimento de
+sua pena.
+Além disso, conforme o precedente mencionado no voto
+coator, inexiste o direito do apenado à progressão de regime,
+quando presente o impeditivo da prisão preventiva, mesmo que
+em outros autos, sob pena de tornar inócua a decretação da
+custódia cautelar, que visa justamente ao resguardo iminente e
+precário da sociedade, das partes ou do próprio processo em
+curso (e-STJ fl. 658).
+Por fim, vigora, no processo de execução penal, o princípio
+do in dubio pro societate, de modo que, na dúvida quanto à
+periculosidade do apenado, deve-se decidir em favor da
+sociedade.
+Assim, não restou configurada flagrante ilegalidade, hábil
+
+3
+Documento assinado eletronicamente pelo(a) Min. Cármen Lúcia, conforme o Art. 205, § 2º, do CPC. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 51FE-203C-6438-4064 e senha DD18-E178-3E22-F4C5
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 5 de 16
+
+HC 225732 AGR / GO
+a ocasionar o deferimento, de ofício, da ordem postulada.
+Ante o exposto, com amparo no art. 34, XX, do Regimento
+Interno do STJ, não conheço do habeas corpus. Intimem-se.
+Sem recurso, arquivem-se os autos” (doc. 12).
+5. A decisão foi mantida pela Quinta Turma do Superior
+Tribunal de Justiça em 14.2.2023. Tem-se na ementa do julgado:
+‘AGRAVO REGIMENTAL EM HABEAS CORPUS.
+EXECUÇÃO PENAL. IMPUGNAÇÃO DEFENSIVA.
+PEDIDO DE PROGRESSÃO DE REGIME. AUSÊNCIA DO
+REQUISITO
+SUBJETIVO.
+DECRETADA
+PRISÃO
+PREVENTIVA EM OUTRO PROCESSO. VIOLAÇÃO DO
+PRINCÍPIO DA PRESUNÇÃO DA INOCÊNCIA. NÃO
+OCORRÊNCIA. NA EXECUÇÃO DA PENA, IMPERA
+O
+PRINCÍPIO
+IN
+DUBIO
+PRO
+SOCIETATE.
+CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO.
+RECURSO IMPROVIDO 1- A prisão preventiva decretada em
+outro processo pode justificar o indeferimento da progressão de
+regime, se o delito em razão do qual foi decretada a prisão
+cautelar foi cometido durante a execução da pena em regime
+semiaberto, na medida em que, nos termos do art. 52 da Lei de
+Execuções Penais, ‘A prática de fato previsto como crime doloso
+constitui falta grave’. 2 - O fato de estar preso apenas
+provisoriamente em relação a esse novo crime não impede o
+reconhecimento de infração de natureza grave no processo no
+qual cumpre a execução, tendo em vista que, nos termos do
+enunciado n. 526 da Súmula desta Corte, ‘O reconhecimento de
+falta grave decorrente do cometimento de fato definido como
+crime doloso no cumprimento da pena prescinde do trânsito em
+julgado de sentença penal condenatória no processo penal
+instaurado para apuração do fato’. [...] (AgRg no HC
+n. 718.375/PR, relator Ministro Reynaldo Soares da Fonseca,
+Quinta Turma, julgado em 15/3/2022, DJe de 18/3/2022.).
+2- Na situação presente, o executado foi preso preventivamente
+pela 4ª Vara Criminal dos crimes dolosos contra a vida e
+Tribunal do Júri, circunstância que impede a progressão de
+regime ou a concessão de livramento condicional na execução
+
+4
+Documento assinado eletronicamente pelo(a) Min. Cármen Lúcia, conforme o Art. 205, § 2º, do CPC. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 51FE-203C-6438-4064 e senha DD18-E178-3E22-F4C5
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 6 de 16
+
+HC 225732 AGR / GO
+atual, por se tratarem de fatos ocorridos durante o cumprimento
+da pena. Além disso, não houve tempo hábil para a reabilitação
+da conduta carcerária do executado, que não se restringe ao
+atestado emitido pela autoridade administrativa, cuja avaliação
+do comportamento se restringe ao prazo de 1 ano, previsto § 7º,
+art. 112, LEP. Aliás, a sua conduta carcerária foi classificada,
+administrativamente, como regular. 3- A sua progressão de
+regime no processo de execução atual tornaria sem efeito a prisão
+cautelar, colocando em risco a sociedade. De todo modo, não há,
+nesse caso, ofensa ao princípio da presunção da inocência, afinal
+o apenado não está sendo condenado definitivamente no processo
+em que foi preso preventivamente, e, sim, somente está sendo
+negado seu pedido de progressão de regime, neste momento.
+4- Agravo regimental não provido’ (doc. 11).
+6. Esse acórdão é o objeto do presente habeas corpus, no qual a
+impetrante insiste no direito à progressão de regime, ao argumento de
+que ‘a existência de ação penal em curso, ainda que com mandado de
+prisão expedido, não obsta a progressão de regime, pois tal fato não
+está previsto como impeditivo do direito à progressão pela lei’, de modo
+que ‘considerar a mera existência de mandado de prisão preventiva
+como a prática do crime investigado viola o princípio constitucional
+da não culpabilidade’.
+Tem-se no requerimento e no pedido:
+‘(...) REQUER a concessão da ordem, liminarmente,
+inaudita altera pars, a fim reconhecer a violação ao direito
+fundamental à liberdade em decorrência da ilegalidade da
+denegação da progressão do regime de cumprimento da pena,
+haja vista o adimplemento dos requisitos objetivos e subjetivos
+para cumprir a benesse em questão. Caso não seja esse o
+entendimento dessa e. Corte Constitucional, requer-se a
+concessão da ordem de ofício, em razão da evidente teratologia de
+decisão ora atacada’.
+Examinada a matéria posta à apreciação, DECIDO.
+7. O pedido apresentado pela impetrante é manifestamente
+contrário à jurisprudência deste Supremo Tribunal.
+8. O paciente, com histórico de falta grave (fuga do
+
+5
+Documento assinado eletronicamente pelo(a) Min. Cármen Lúcia, conforme o Art. 205, § 2º, do CPC. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 51FE-203C-6438-4064 e senha DD18-E178-3E22-F4C5
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 7 de 16
+
+HC 225732 AGR / GO
+sistema prisional) e comportamento carcerário ‘regular’, teve
+seu pedido de progressão negado pela ausência de cumprimento
+do requisito subjetivo. Considerou-se, para tanto, ‘que[,]
+durante o cumprimento de sua pena, foi preso preventivamente
+pela suposta prática de dois crimes graves, quais sejam,
+homicídio qualificado e associação criminosa, bem como porque,
+conforme o histórico de pesquisa realizada no sistema GoiasPen,
+juntada aos autos de execução penal, o comportamento
+carcerário do apenado está classificado como ‘REGULAR’ desde
+21/12/2021’.
+9. As decisões das instâncias antecedentes harmonizam-se
+com a jurisprudência deste Supremo Tribunal, segundo a qual o
+cometimento de crime doloso no curso da execução criminal
+caracteriza falta grave, nos termos do art. 52 da Lei n.
+7.210/1984: (…)
+10. O cometimento de crime doloso durante a execução da
+pena descumpre o sistema punitivo estatal e configura falta
+disciplinar de quem cumpre pena privativa de liberdade.
+Desimporta na avaliação judicial desta falta a revogação da
+prisão preventiva em outra ação penal instaurada. 11. É pacífica
+a orientação deste Supremo Tribunal no sentido de que, para a
+caracterização da falta grave, basta a prática de ‘fato definido
+como crime doloso’, não se exigindo a formação definitiva da
+culpa do sentenciado, com trânsito em julgado de eventual
+condenação pelo delito doloso praticado. Assim, por exemplo:
+(…)
+12. Ademais, no caso em exame, para atestar o não
+cumprimento do requisito subjetivo, as instâncias antecedentes
+apontaram que, além do histórico de falta grave, o paciente não
+comprova bom comportamento carcerário, não sendo possível se
+reavaliar a conclusão negativa do efeito das sanções disciplinares
+anteriores nas condições subjetivas do apenado sem o incabível
+revolvimento fático probatório. Neste sentido, por exemplo: (…)
+13. Pela jurisprudência deste Supremo Tribunal, ‘pode o
+Relator, com fundamento no art. 21, § 1º, do Regimento Interno,
+negar seguimento ao habeas corpus manifestamente
+
+6
+Documento assinado eletronicamente pelo(a) Min. Cármen Lúcia, conforme o Art. 205, § 2º, do CPC. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 51FE-203C-6438-4064 e senha DD18-E178-3E22-F4C5
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 8 de 16
+
+HC 225732 AGR / GO
+inadmissível, improcedente ou contrário à jurisprudência
+dominante, embora sujeita a decisão a agravo regimental’
+(HC n. 96.883-AgR, de minha relatoria, DJe 1º.2.2011).
+14. Pelo exposto, nego seguimento ao presente habeas
+corpus (§ 1º do art. 21 do Regimento Interno do Supremo
+Tribunal Federal), prejudicada a medida liminar requerida.
+Publique-se” (doc. 16).
+
+2. A decisão impugnada foi publicada em 16.3.2023, a Defensoria
+Pública de Goiás intimada em 28.3.2023 (doc. 17) e o presente agravo
+regimental interposto, tempestivamente, em 29.3.2023.
+Na petição de agravo, o agravante renova os fundamentos
+declinados na peça inicial do habeas corpus, sustentando a necessidade de
+“relativização do óbice apresentado nos casos de evidente teratologia de decisão
+que viola direito humano fundamental”.
+Tem-se nos requerimentos e nos pedidos:
+“Diante do exposto, pugna o agravante, em não havendo
+retratação pelo Ministro Relator, seja o presente Agravo Regimental
+submetido ao Colegiado e, via de consequência, dado provimento ao
+presente recurso para reformar a decisão monocrática e, com isso,
+reconhecendo a violação a direito fundamental, conceder a ordem
+pretendida no habeas corpus, ainda que de ofício.
+Por fim, requer que sejam observadas as prerrogativas
+conferidas aos membros da Defensoria Pública, em especial a
+intimação pessoal, inclusive quanto a inclusão do feito em pauta, e
+contagem em dobro de todos os prazos processuais, conforme disposto
+no artigo 128, I da Lei Complementar Federal n. 80/94 e artigo 186 do
+Código de Processo Civil”.
+
+É o relatório.
+
+7
+Documento assinado eletronicamente pelo(a) Min. Cármen Lúcia, conforme o Art. 205, § 2º, do CPC. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 51FE-203C-6438-4064 e senha DD18-E178-3E22-F4C5
+
+Supremo Tribunal Federal
+Voto - MIN. CÁRMEN LÚCIA
+
+Inteiro Teor do Acórdão - Página 9 de 16
+
+25/04/2023
+
+PRIMEIRA TURMA
+
+AG.REG. NO HABEAS CORPUS 225.732 GOIÁS
+VOTO
+A SENHORA MINISTRA CÁRMEN LÚCIA (Relatora):
+1. Razão jurídica não assiste ao agravante.
+2. Na decisão agravada, consignou-se ser o pedido apresentado pelo
+impetrante manifestamente contrário à jurisprudência do Supremo
+Tribunal Federal.
+3. Demonstrou-se que o paciente, com histórico de falta grave (fuga
+do sistema prisional) e comportamento carcerário “regular”, teve seu
+pedido de progressão negado pela ausência de cumprimento do requisito
+subjetivo. Considerou-se, para tanto, “que[,] durante o cumprimento de sua
+pena, foi preso preventivamente pela suposta prática de dois crimes graves, quais
+sejam, homicídio qualificado e associação criminosa, bem como porque, conforme
+o histórico de pesquisa realizada no sistema GoiasPen, juntada aos autos de
+execução penal, o comportamento carcerário do apenado está classificado como
+‘REGULAR’ desde 21/12/2021”.
+Anotou-se que as decisões das instâncias antecedentes harmonizamse com a jurisprudência deste Supremo Tribunal, segundo a qual o
+cometimento de crime doloso no curso da execução criminal caracteriza
+falta grave, nos termos do art. 52 da Lei n. 7.210/1984. Nesse mesmo
+sentido, por exemplo:
+“Agravo regimental em habeas corpus. Alegação de nulidade
+da homologação da falta grave sem prévia audiência. Inovação de
+argumentos no agravo regimental. Inadmissibilidade. Precedentes.
+Execução penal. Porte de drogas para uso próprio (art. 28 da Lei nº
+11.343/06). Configuração de falta grave. Regimental não provido”
+(HC n. 139.071-AgR, Relator o Ministro Dias Toffoli, Segunda
+Turma, DJe 5.9.2018).
+
+Documento assinado eletronicamente pelo(a) Min. Cármen Lúcia, conforme o Art. 205, § 2º, do CPC. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 9BB4-AA84-1308-6BE3 e senha 54FC-6D48-5E95-F519
+
+Supremo Tribunal Federal
+Voto - MIN. CÁRMEN LÚCIA
+
+Inteiro Teor do Acórdão - Página 10 de 16
+
+HC 225732 AGR / GO
+
+“EXECUÇÃO PENAL. PRÁTICA DE FATO DEFINIDO
+COMO CRIME DOLOSO. REGRESSÃO DE REGIME.
+POSSIBILIDADE. 1. A prática de fato definido como crime doloso no
+curso da execução penal, caracterizador de lavagem de dinheiro,
+acarreta a regressão de regime. 2. A regressão para o regime fechado foi
+determinada após o pleno exercício do direito de defesa pelo
+sentenciado. 3. A afetação da matéria ao Plenário do STF, em sede de
+repercussão geral, não impossibilita a análise de incidente da
+execução penal. 4. Agravo regimental a que se nega provimento”
+(EP n. 16- AgR-terceiro, Relator o Ministro Roberto Barroso,
+Plenário, DJe 20.9.2017).
+
+Mencionou-se, ainda, que o cometimento de crime doloso durante a
+execução da pena descumpre o sistema punitivo estatal e configura falta
+disciplinar de quem cumpre pena privativa de liberdade, sem que
+importe, na avaliação judicial desta falta, a revogação da prisão
+preventiva em outra ação penal instaurada.
+Citou-se a pacífica orientação deste Supremo Tribunal no sentido de
+que, para a caracterização da falta grave, basta a prática de “fato definido
+como crime doloso”, não se exigindo a formação definitiva da culpa do
+sentenciado, com trânsito em julgado de eventual condenação pelo delito
+doloso praticado. Assim, por exemplo:
+“PROCESSUAL PENAL. HABEAS CORPUS. REGRESSÃO
+DE REGIME PRISIONAL. FALTA GRAVE. FATO DEFINIDO
+COMO CRIME. SOMA OU UNIFICAÇÃO DE PENAS.
+BENEFÍCIOS DA EXECUÇÃO. ARTS. 111 E 118 DA LEI
+7.210/84. REMIÇÃO. SÚMULA VINCULANTE 9 DO SUPREMO
+TRIBUNAL FEDERAL. PRINCÍPIO DA PRESUNÇÃO DE
+INOCÊNCIA. DIGNIDADE DA PESSOA HUMANA. VETOR
+ESTRUTURAL.
+ORDEM
+DENEGADA
+NA
+PARTE
+CONHECIDA. I - A prática de falta grave pode resultar, observado o
+contraditório e a ampla defesa, em regressão de regime. II - A prática
+
+2
+Documento assinado eletronicamente pelo(a) Min. Cármen Lúcia, conforme o Art. 205, § 2º, do CPC. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 9BB4-AA84-1308-6BE3 e senha 54FC-6D48-5E95-F519
+
+Supremo Tribunal Federal
+Voto - MIN. CÁRMEN LÚCIA
+
+Inteiro Teor do Acórdão - Página 11 de 16
+
+HC 225732 AGR / GO
+de ‘fato definido como crime doloso’, para fins de aplicação da sanção
+administrativa da regressão, não depende de trânsito em julgado da
+ação penal respectiva. III - A natureza jurídica da regressão de regime
+lastreada nas hipóteses do art. 118, I, da Lei de Execuções Penais é
+sancionatória, enquanto aquela baseada no incido II tem por escopo a
+correta individualização da pena. IV - A regressão aplicada sob o
+fundamento do art. 118, I, segunda parte, não ofende ao princípio da
+presunção de inocência ou ao vetor estrutural da dignidade da pessoa
+humana. V - Incidência do teor da Súmula vinculante nº 9 do
+Supremo Tribunal Federal quando à perda dos dias remidos. VI Ordem denegada” (HC n. 93.782, Relator o Ministro Ricardo
+Lewandowski, Primeira Turma, DJe 17.10.2008).
+“HABEAS CORPUS. PROCESSO PENAL E DIREITO
+PENAL. SUBSTITUTIVO DE RECURSO CONSTITUCIONAL.
+INADEQUAÇÃO DA VIA ELEITA. EXECUÇÃO PENAL. FALTA
+GRAVE. PRÁTICA DE NOVO CRIME. ART. 118, I, DA LEI
+7.210/1984. REGRESSÃO DE REGIME. 1. Contra a denegação de
+habeas corpus por Tribunal Superior prevê a Constituição Federal
+remédio jurídico expresso, o recurso ordinário. Diante da dicção do
+art. 102, II, a, da Constituição da República, a impetração de novo
+habeas corpus em caráter substitutivo escamoteia o instituto
+recursal próprio, em manifesta burla ao preceito constitucional. 2. O
+art. 118, I, da Lei 7.210/1984 prevê a regressão de regime se o apenado
+‘praticar fato definido como crime doloso ou falta grave’. 3. Para
+caracterização do fato, não exige a lei o trânsito em julgado da
+condenação criminal em relação ao crime praticado. Precedentes.
+4. Habeas corpus extinto sem resolução de mérito” (HC n. 110.881,
+Relator o Ministro Marco Aurélio, Redatora para o acórdão a
+Ministra Rosa Weber, Primeira Turma, DJe 8.8.2013).
+“EXECUÇÃO PENAL. HABEAS CORPUS. PRÁTICA DE
+CRIME DOLOSO PELO CONDENADO. FALTA GRAVE.
+REGRESSÃO
+DE
+REGIME.
+DESNECESSIDADE
+DE
+SENTENÇA CONDENATÓRIA TRANSITADA EM JULGADO.
+PRECEDENTES DO STF. ORDEM DENEGADA. 1. A Lei de
+
+3
+Documento assinado eletronicamente pelo(a) Min. Cármen Lúcia, conforme o Art. 205, § 2º, do CPC. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 9BB4-AA84-1308-6BE3 e senha 54FC-6D48-5E95-F519
+
+Supremo Tribunal Federal
+Voto - MIN. CÁRMEN LÚCIA
+
+Inteiro Teor do Acórdão - Página 12 de 16
+
+HC 225732 AGR / GO
+Execução Penal não exige o trânsito em julgado de sentença
+condenatória para a regressão de regime, bastando, para tanto, que o
+condenado tenha ‘praticado’ fato definido como crime doloso (art. 118,
+I da LEP). 2. Ante o exposto, denego a ordem de habeas corpus”
+(HC n. 97.218, Relatora a Ministra Ellen Gracie, Segunda Turma,
+DJe 17.10.2008).
+
+Asseverou-se, ademais, que no caso em exame, para atestar o não
+cumprimento do requisito subjetivo, as instâncias antecedentes
+apontaram que, além do histórico de falta grave, o paciente não
+comprova bom comportamento carcerário, não sendo possível se
+reavaliar a conclusão negativa do efeito das sanções disciplinares
+anteriores nas condições subjetivas do apenado sem o incabível
+revolvimento fático probatório. Sobre o tema, entre outros precedentes:
+““HABEAS CORPUS. CONSTITUCIONAL. EXECUÇÃO
+PENAL. PROGRESSÃO DE REGIME. REQUISITO SUBJETIVO
+NÃO ATENDIDO. LONGA PENA A CUMPRIR. HISTÓRICO
+DE FALTA GRAVE COMETIDA PELO PACIENTE. ORDEM
+DENEGADA. 1. As decisões proferidas nas instâncias antecedentes
+harmonizam-se com a jurisprudência deste Supremo Tribunal,
+segundo a qual a longa pena a cumprir e o histórico de falta grave,
+consistente em evasão, como se tem na espécie, são fundamentos
+idôneos para não concessão do benefício de progressão de regime,
+evidenciando o não preenchimento do requisito subjetivo. Precedentes.
+2. Para acolher a alegação da Impetrante de reabilitação do Paciente
+pelo longo tempo que teria decorrido da prática da falta grave, seria
+imprescindível o reexame dos fatos e das provas dos autos, ao que não
+se presta o habeas corpus. 3. Ordem denegada” (HC n. 134.249, de
+minha relatoria, Segunda Turma, DJe 3.6.2016).
+“HABEAS CORPUS SUBSTITUTIVO DE RECURSO
+ORDINÁRIO.
+INADEQUAÇÃO
+DA
+VIA.
+NÃO
+CONHECIMENTO. EXECUÇÃO PENAL. PEDIDO DE
+PROGRESSÃO DE REGIME. INDEFERIMENTO. DECISÃO
+RESPALDADA
+EM
+ELEMENTOS
+CONCRETOS
+DO
+
+4
+Documento assinado eletronicamente pelo(a) Min. Cármen Lúcia, conforme o Art. 205, § 2º, do CPC. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 9BB4-AA84-1308-6BE3 e senha 54FC-6D48-5E95-F519
+
+Supremo Tribunal Federal
+Voto - MIN. CÁRMEN LÚCIA
+
+Inteiro Teor do Acórdão - Página 13 de 16
+
+HC 225732 AGR / GO
+CUMPRIMENTO
+DA PENA.
+PRÁTICA DE
+FALTA
+DISCIPLINAR GRAVE. LAPSO TEMPORAL SUPERIOR A 05
+(CINCO)
+ANOS.
+DIREITO
+AO
+ESQUECIMENTO.
+INOCORRÊNCIA.
+RELEVÂNCIA
+PENAL
+DE
+ATOS
+PRETÉRITOS.
+ANÁLISE
+FÁTICO-PROBATÓRIA.
+INVIABILIDADE NA SEDE ELEITA. 1. Não se admite habeas
+corpus substitutivo de recurso ordinário constitucional, sob pena de
+desvirtuamento das regras e prazos processuais, peremptoriamente
+previstos em lei. 2. A decisão acerca do pleito de progressão de regime
+não decorre apenas do atestado de bom comportamento carcerário.
+Trata-se de ato jurisdicional sujeito ao livre convencimento motivado
+do magistrado. 3. Não há que se falar em direito ao esquecimento para
+fins de avaliação do pleito de progressão de regime quando em análise
+a ocorrência de faltas disciplinares praticadas há mais de 05 (cinco)
+anos. 4. O efetivo reflexo das sanções disciplinares anteriores, nas
+condições subjetivas atuais do apenado, demanda análise fático
+probatória, o que, nessa medida, é inalcançável na via do habeas
+corpus. 5. Writ não conhecido, revogando-se a liminar anteriormente
+deferida” (HC n. 128.080, Redator para o acórdão o Ministro
+Edson Fachin, Primeira Turma, DJe 5.8.2016).
+“AGRAVO REGIMENTAL NO HABEAS CORPUS.
+EXECUÇÃO DA PENA. LIVRAMENTO CONDICIONAL.
+PROGRESSÃO DE REGIME. HISTÓRICO DE FALTAS GRAVES.
+AUSÊNCIA DO REQUISITO SUBJETIVO (ARTS. 83, INC. III,
+AL. ‘A’, DO CP, E 112, § 1º, DA LEI Nº 7.210, DE 1984). 1. O fato
+de o paciente não ter cometido falta grave nos últimos 12 meses
+(requisito objetivo, CP, art. 83, inc. III, al. ‘b’) não é suficiente para o
+reconhecimento do livramento condicional, exigindo-se, ainda, como
+requisito subjetivo e autônomo, o bom comportamento carcerário (CP,
+art. 83, inc. III, al. ‘a’), o qual deve ser avaliado com vistas a toda a
+execução da pena. 2. Observada a má conduta carcerária, a progressão
+também se mostra incabível, presente o disposto no art. 112, § 1º, da
+Lei de Execuções Penais. 3. Eventual superação do entendimento
+veiculado pelas instâncias anteriores reclamaria o revolvimento de
+fatos e provas, incabível na via estreita do habeas corpus. 4. Agravo
+
+5
+Documento assinado eletronicamente pelo(a) Min. Cármen Lúcia, conforme o Art. 205, § 2º, do CPC. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 9BB4-AA84-1308-6BE3 e senha 54FC-6D48-5E95-F519
+
+Supremo Tribunal Federal
+Voto - MIN. CÁRMEN LÚCIA
+
+Inteiro Teor do Acórdão - Página 14 de 16
+
+HC 225732 AGR / GO
+regimental a que se nega provimento” (HC n. 213.889-AgR, Relator
+o Ministro André Mendonça, Segunda Turma, DJe 28.2.2023).
+“Direito processual penal. Agravo regimental em habeas
+corpus. Furto qualificado, porte ilegal de arma de fogo, tentativa de
+latrocínio e tráfico de drogas. Progressão de regime. Requisito
+subjetivo. Fatos e provas. Jurisprudência do Supremo Tribunal
+Federal. 1. O entendimento do Supremo Tribunal Federal é no sentido
+de que a análise do preenchimento do requisito subjetivo necessário
+para a progressão do regime prisional demanda o revolvimento do
+conjunto fático-probatório, inviável em sede de habeas corpus.
+Precedentes. 2. Hipótese de paciente reincidente condenado a 37 anos,
+5 meses e 18 dias de reclusão, em regime fechado, pelos crimes de furto
+qualificado, porte ilegal de arma de fogo, tentativa de latrocínio e
+tráfico de drogas (duas vezes), e que ‘registra o total de doze faltas
+disciplinares, sendo dez delas de natureza grave, inclusive por
+escavação de túnel (16/05/2011), desacato (29/11/2006), tentativa de
+fuga e dano ao patrimônio público (13/11/2006) e motim
+(21/03/2006)’. Ausência de teratologia ou ilegalidade flagrante. 3.
+Agravo regimental a que se nega provimento” (HC n. 219.548-AgR,
+Relator o Ministro Roberto Barroso, Primeira Turma, DJe
+27.10.2022).
+
+4. Neste recurso, o agravante reitera as razões expostas na inicial,
+sem ao menos buscar, minimamente, fundamentar razões de seu
+inconformismo recursal, não infirmando a motivação apresentada no ato
+questionado. Analisadas as especificidades do caso, a decisão posta em
+questão no habeas e, mais ainda, no agravo, conclui-se estarem em perfeita
+sintonia com a jurisprudência deste Supremo Tribunal, subsistindo ambas
+por seus fundamentos mantidos higidamente.
+5. Os argumentos do agravante, insuficientes para modificar a
+decisão impugnada, demonstram apenas insatisfação e resistência em pôr
+termo a processos que se arrastam em detrimento da eficiente prestação
+jurisdicional.
+6
+Documento assinado eletronicamente pelo(a) Min. Cármen Lúcia, conforme o Art. 205, § 2º, do CPC. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 9BB4-AA84-1308-6BE3 e senha 54FC-6D48-5E95-F519
+
+Supremo Tribunal Federal
+Voto - MIN. CÁRMEN LÚCIA
+
+Inteiro Teor do Acórdão - Página 15 de 16
+
+HC 225732 AGR / GO
+
+6. Pelo exposto, nego provimento ao agravo regimental.
+
+7
+Documento assinado eletronicamente pelo(a) Min. Cármen Lúcia, conforme o Art. 205, § 2º, do CPC. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 9BB4-AA84-1308-6BE3 e senha 54FC-6D48-5E95-F519
+
+Supremo Tribunal Federal
+Extrato de Ata - 25/04/2023
+
+Inteiro Teor do Acórdão - Página 16 de 16
+
+PRIMEIRA TURMA
+EXTRATO DE ATA
+AG.REG. NO HABEAS CORPUS 225.732
+PROCED. : GOIÁS
+RELATORA : MIN. CÁRMEN LÚCIA
+AGTE.(S) : CLÁUDIO SILVA GOES
+PROC.(A/S)(ES) : DEFENSOR PÚBLICO-GERAL DO ESTADO DE GOIÁS
+AGDO.(A/S) : SUPERIOR TRIBUNAL DE JUSTIÇA
+Decisão: A Turma, por unanimidade, negou provimento ao agravo
+regimental, nos termos do voto da Relatora. Primeira Turma, Sessão
+Virtual de 14.4.2023 a 24.4.2023.
+Composição: Ministros Luís Roberto Barroso (Presidente),
+Cármen Lúcia, Dias Toffoli, Luiz Fux e Alexandre de Moraes.
+Disponibilizaram processos para esta Sessão os Ministros Edson
+Fachin e André Mendonça. Não participaram do julgamento desses
+feitos, respectivamente, os Ministros Alexandre de Moraes e Cármen
+Lúcia por sucedê-los na Primeira Turma.
+Luiz Gustavo Silva Almeida
+Secretário da Primeira Turma
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 49EA-272D-269A-A5A6 e senha 39C4-0451-A552-1E3F
