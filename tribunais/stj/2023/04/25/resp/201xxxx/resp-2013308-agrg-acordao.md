@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 19/04/2023 a 25/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, Laurita Vaz, João Otávio de Noronha, Herman Benjamin, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Humberto Martins.
+Presidiu o julgamento a Sra. Ministra Maria Thereza de Assis Moura.
+RELATÓRIO
+Trata-se de agravo regimental interposto por JÚLIO CESAR FLORENTINO contra decisão que negou seguimento ao recurso extraordinário assim ementada (fl. 1.336):
+RECURSO EXTRAORDINÁRIO. OFENSA AO PRINCÍPIO DA INAFASTABILIDADE DE JURISDIÇÃO. TEMA N. 895/STF. VIOLAÇÃO DO ART. 5º, XLVI, DA CONSTITUIÇÃO FEDERAL. APRECIAÇÃO DAS CIRCUNSTÂNCIAS JUDICIAIS DO ART. 59 DO CÓDIGO PENAL. DOSIMETRIA. REGIME CARCERÁRIO. TEMA N. 182/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. SEGUIMENTO NEGADO. DIREITO PROCESSUAL PENAL. ART. 171 DO CP. TEMA N. 1.138/STJ. SOBRESTAMENTO. OFENSA REFLEXA À CONSTITUIÇÃO FEDERAL. MATÉRIA INFRACONSTITUCIONAL. RECURSO NÃO ADMITIDO.
+A parte agravante sustenta que o recurso extraordinário reuniria condições de admissibilidade. Explicita que a decisão impugnada estaria em desconformidade com os Temas n. 895 e 182 do STF, respectivamente, pois a seu ver (fls. 1.349 -1.352):
+Não há necessidade de análise dos artigos mencionados (1.036, § 1º, e 1.037, II, do Código de Processo Civil e art. 256-L do Regimento Interno do STJ), posto que o artigo o 5º, inciso XXXV, da Constituição Federal ("a lei não excluirá da apreciação do Poder Judiciário lesão ou ameaça a direito") em sua substância, ou no seu contexto, negou vigência à dignidade constitucional, com prejuízos ao cidadão de forma imediata e ao Estado democrático de Direito de forma mediata. A Constituição trata da não- exclusão dos problemas sociais de forma expressa, como regra geral do sistema.
+ ..
+Ainda que se considere a argumentação, ora, se é válida as circunstâncias do artigo 59 CP para fixação do regime prisional, a validade deve amparar circunstâncias negativas e positivas e, no caso em tela, mesmo tendo o agravante insistentemente apontado as favoráveis.
+Requer o provimento do agravo para que o recurso extraordinário seja admitido e remetido ao Supremo Tribunal Federal.
+As contrarrazões foram apresentadas às fls. 1.359-1.363.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. NEGATIVA DE SEGUIMENTO. OFENSA AO PRINCÍPIO DA INAFASTABILIDADE DE JURISDIÇÃO. TEMA N. 895/STF. DOSIMETRIA. REGIME PRISIONAL. APRECIAÇÃO DAS CIRCUNSTÂNCIAS JUDICIAIS DO ART. 59 DO CÓDIGO PENAL. AUSÊNCIA DE REPERCUSSÃO GERAL. TEMA N. 182/STF.
+1. A alegada violação do princípio da inafastabilidade de jurisdição, por implicar ofensa indireta à Constituição Federal ou análise de matéria fática, tem natureza infraconstitucional e não possui repercussão geral (Tema n. 895/STF).
+2. O Supremo Tribunal Federal, ao julgar o AI n. 742.460-RG/RJ, firmou o entendimento de que "não apresenta repercussão geral o recurso extraordinário que verse sobre a questão da valoração das circunstâncias judiciais previstas no art. 59 do Código Penal, na fundamentação da fixação da pena-base pelo juízo sentenciante, porque se trata de matéria infraconstitucional" (Tema n. 182/STF).
+3. Agravo regimental a que se nega provimento.
+VOTO
+O STF pacificou o entendimento de que:
+A questão da ofensa ao princípio da inafastabilidade de jurisdição, quando há óbice processual intransponível ao exame de mérito, ofensa indireta à Constituição ou análise de matéria fática, tem natureza infraconstitucional, e a ela se atribuem os efeitos da ausência de repercussão geral (Tema n. 895/STF).
+Essa tese foi estabelecida no julgamento do RE n. 956.302-RG/GO, nos termos da seguinte ementa:
+PRINCÍPIO DA INAFASTABILIDADE DA JURISDIÇÃO. ÓBICES PROCESSUAIS INTRANSPONÍVEIS. EXTINÇÃO DO PROCESSO SEM JULGAMENTO DE MÉRITO. QUESTÃO INFRACONSTITUCIONAL. MATÉRIA FÁTICA. AUSÊNCIA DE REPERCUSSÃO GERAL.
+Não há repercussão geral quando a controvérsia refere-se à alegação de ofensa ao princípio da inafastabilidade de jurisdição, nas hipóteses em que se verificaram óbices intransponíveis à entrega da prestação jurisdicional de mérito.
+(RE n. 956.302/GO-RG, relator Ministro Edson Fachin, julgado em 19/5/2016, DJe de 16/6/2016.)
+No caso, a suposta ofensa ao art. 5º, XXXV, da CF é reflexa, pois a análise das alegações defensivas implica o exame dos arts. 1.036, § 1º, e 1.037, II, do Código de Processo Civil, além do art. 256-L do Regimento Interno do Superior Tribunal de Justiça, motivo pelo qual incide o Tema n. 895/STF.
+Além disso, o STF, ao julgar o AI n. 742.460-RG/RJ, firmou a orientação de que:
+Não apresenta repercussão geral o recurso extraordinário que verse sobre a questão da valoração das circunstâncias judiciais previstas no art. 59 do Código Penal, na fundamentação da fixação da pena-base pelo juízo sentenciante, porque se trata de matéria infraconstitucional (Tema n. 182/STF).
+Confira-se, por oportuno, a ementa do julgado:
+RECURSO. Extraordinário. Inadmissibilidade. Circunstâncias judiciais previstas no art. 59 do Código Penal. Fixação da pena-base. Fundamentação. Questão da ofensa aos princípios constitucionais da individualização da pena e da fundamentação das decisões judiciais. Inocorrência. Matéria infraconstitucional.
+Ausência de repercussão geral. Agravo de instrumento não conhecido. Não apresenta repercussão geral o recurso extraordinário que verse sobre a questão da valoração das circunstâncias judiciais previstas no art. 59, do Código Penal, na fundamentação da fixação da pena-base pelo juízo sentenciante, porque se trata de matéria infraconstitucional.
+(AI n. 742.460-RG, relator Ministro Cezar Peluso, julgado em 27/8/2009, DJe de 25/9/2009.)
+Por sua vez, a Corte Especial do STJ entende que o Tema n. 182/STF abrange a hipótese de fixação do regime carcerário quando estabelecido em decorrência da análise das circunstâncias do art. 59 do Código Penal.
+A propósito:
+AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. VIOLAÇÃO DO ART. 5º, INCISO XLVI, DA CONSTITUIÇÃO FEDERAL. INDIVIDUALIZAÇÃO DA PENA BASEADA NA PONDERAÇÃO DE CIRCUNSTÂNCIAS DO ART. 59 DO CÓDIGO PENAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL. AI-RG 742.460. TEMA 182/STF.
+1. O STF reconheceu que não possuem repercussão geral as questões relativas à valoração das circunstâncias judiciais previstas no art. 59 do Código Penal para fixação da pena. Exegese do AI 742.460 (Tema n. 182/STF).
+2. O referido precedente se amolda à questão dos autos, visto que o provimento do especial do Parquet Estadual para fixar o regime inicialmente fechado da pena baseou-se exatamente na ponderação dos elementos contidos no artigo 59 do Código Penal c/c o artigo 42 da Lei n. 11.343/06, que não teriam sido observados pelo Tribunal de origem.
+Agravo regimental improvido.
+(AgRg no RE no AgRg no AREsp n. 910.270/MG, relator Ministro Humberto Martins, Corte Especial, julgado em 19/4/2017, DJe de 3/5/2017.)
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. VIOLAÇÃO DO ARTIGO 5º, XLVI, DA CONSTITUIÇÃO FEDERAL. PRINCIPIO DA INDIVIDUALIZAÇÃO DAS PENAS. VALORAÇÃO DAS CIRCUNSTÂNCIAS JUDICIAIS PREVISTAS NO ART. 59 DO CÓDIGO PENAL. FIXAÇÃO DE REGIME INICIAL. MATÉRIA DE NATUREZA INFRACONSTITUCIONAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL. TEMA 182/STF. PRESSUPOSTOS DE ADMISSIBILIDADE RECURSAL. PREENCHIMENTO. MATÉRIA DE NATUREZA INFRACONSTITUCIONAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL. TEMA 181/STF. AGRAVO NÃO PROVIDO.
+1. Segundo entendimento do STF, não tem repercussão geral o recurso extraordinário que verse sobre dosimetria da pena, dado que a questão da valoração das circunstâncias judiciais previstas no art.59 do Código Penal, é matéria de índole infraconstitucional, o que também tem aplicação para o caso concreto, cuja ponto nodal refere-se à fixação do regime inicial de cumprimento de pena, dado que, de idêntica forma, tem o juiz de sopesar os acontecimentos apurados no édito condenatório e, por via de consequência, como é lógico, as circunstâncias judiciais referidas. (Tema 182/STF).
+2. Consoante entendimento firmado pelo Supremo Tribunal Federal, no julgamento da Repercussão Geral no RE 598.365 RG/MG, "a questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral" (Tema 181/STF).
+3. Agravo regimental não provido.
+(AgRg no RE no AgRg no AREsp n. 1.519.643/SP, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, julgado em 12/5/2020, DJe de 15/5/2020.)
+No caso, ao examinar a controvérsia, este Superior Tribunal assim se manifestou (fl. 1.277):
+O regime fechado, de fato, é o adequado ao caso concreto, considerando o quantum da pena (2 anos e 4 meses de reclusão), a existência de circunstâncias judiciais desfavoráveis e a reincidência do recorrente.
+Verifica-se, portanto, que o regime de cumprimento da pena foi decidido com base nas circunstâncias judiciais do art. 59 do CP, o que enseja a aplicação do Tema n. 182/STF.
+Ante o exposto, nego provimento ao regimental.
+É como voto.
