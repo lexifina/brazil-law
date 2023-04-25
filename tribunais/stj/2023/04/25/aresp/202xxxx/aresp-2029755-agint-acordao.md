@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 19/04/2023 a 25/04/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, Laurita Vaz, João Otávio de Noronha, Herman Benjamin, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Humberto Martins.
+Presidiu o julgamento a Sra. Ministra Maria Thereza de Assis Moura.
+RELATÓRIO
+Trata-se de agravo interno interposto por CREUZA TOLEDO contra decisão que negou seguimento ao recurso extraordinário assim ementada (fls. 509-510):
+RECURSO EXTRAORDINÁRIO. FALTA DE FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. TEMA N. 339/STF. AUSÊNCIA DE PRESSUPOSTOS DO RECURSO DIRIGIDO AO SUPERIOR TRIBUNAL DE JUSTIÇA. TEMA N. 181/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. NEGATIVA DE SEGUIMENTO.
+1. Conforme decidido pela Suprema Corte, ao interpretar o art. 93, IX, da Constituição da República, para que uma decisão judicial seja considerada motivada, não se requer o exame pormenorizado de cada alegação ou prova trazida pelas partes, tampouco que sejam corretos os seus fundamentos.
+2. Conclusão firmada no julgamento do Tema n. 339/STF, segundo o qual "o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão" (QO no Ag n. 791.292/PE).
+3. Os aspectos relativos aos pressupostos de admissibilidade de recursos da competência dos tribunais infraconstitucionais impedem o seguimento do recurso extraordinário, pois as ofensas à Constituição Federal, se existentes, ocorreriam de modo indireto ou reflexo.
+4. Tal conclusão é adotada quando o Superior Tribunal de Justiça não conhece de recurso de sua competência, ainda que o recurso extraordinário suscite discussão de mérito.
+5. Questão sobre a qual o Supremo Tribunal Federal firmou a ausência de repercussão geral, dada a natureza infraconstitucional do debate, nos termos do Tema n. 181/STF. Precedentes do STF e do STJ.
+6. Recurso extraordinário a que se nega seguimento, nos termos do art. 1.030, I, a, do CPC.
+A parte agravante alega que a matéria tratada no recurso extraordinário seria revestida de repercussão geral e que as teses fixadas para os Temas n. 181 e 339 do STF seriam inaplicáveis ao caso concreto.
+Defende, no mais, a tempestividade do recurso especial interposto nos autos e reafirma que o não conhecimento da insurgência nele consignada contrariaria as normas dispostas nos arts. 5º, XXXV, e 93, IX, da Constituição Federal.
+Requer o provimento do agravo para que o recurso extraordinário seja admitido e remetido ao Supremo Tribunal Federal.
+Não foram oferecidas contrarrazões tempestivas (fl. 537).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. NEGATIVA DE SEGUIMENTO. FUNDAMENTAÇÃO SUFICIENTE DO JULGADO RECORRIDO. TEMA N. 339/STF. RECURSO ESPECIAL NÃO CONHECIDO. TEMA N. 181/STF. AUSÊNCIA DE REPERCUSSÃO GERAL.
+1. "O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão" (Tema n. 339/STF, QO no Ag n. 791.292/PE).
+2. Existente a fundamentação, entende o Supremo Tribunal Federal que foi respeitado o art. 93, IX, da CF, mesmo que a parte não a repute adequada ou completa, conforme a conclusão firmada no Tema n. 339/STF, tese de observância obrigatória (CPC, art. 927, III).
+3. "A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral" (Tema n. 181/STF).
+4. Não preenchidos os pressupostos de admissibilidade do recurso especial, deve ser adotada (CPC, art. 927, III) a tese fixada no Tema n. 181/STF, conquanto se queira, no recurso extraordinário, discutir o mérito da causa ou os fundamentos que impediram o conhecimento do recurso.
+5. Agravo interno a que se nega provimento.
+VOTO
+Quanto à questão da correta fundamentação das decisões judiciais, o STF firmou tese vinculante segundo a qual:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão (QO no Ag n. 791.292/PE).
+Nessa linha, a existência de fundamentação que, no acórdão recorrido, tenha sido considerada suficiente para o deslinde da causa afasta a existência de nulidade do provimento questionado, conquanto a parte recorrente repute as razões de decidir incorretas, incompletas ou demasiadamente sucintas.
+No caso, foram declinados os motivos pelos quais o órgão colegiado negou provimento ao agravo interno, mantendo a decisão que considerou intempestivo o recurso especial, valendo destacar os seguintes trechos do voto condutor do acórdão recorrido (fls. 422-423):
+Nos presentes autos consta Certidão informando que o acórdão recorrido foi disponibilizado em 22/04/2021 (e-STJ fl. 191), considerado publicado em 23/03/2021. No entanto, a petição de recurso especial foi protocolizada somente em 19/04/2021 (e-STJ fl. 248).
+Nas razões do agravo interno, a agravante alega ter demonstrado os períodos de suspensão de prazos e/ou feriados em seu recurso, estando portanto tempestivo. Malgrado o inconformismo da agravante, não há nos autos nenhuma certidão da Corte local, ou outro documento idôneo, que corrobore a informação sobre os feriados e suspensão de prazos, no ato de interposição, tendo tudo sido devidamente analisado pela Presidência desta Corte quando proferiu a decisão ora agravada.
+Desse modo, conforme ressalvado na decisão agravada, nos termos do artigo 1.003, § 6º, do CPC/15, a agravante deveria ter comprovado a ocorrência de feriado local no ato de interposição do recurso, o que impossibilita a regularização posterior.
+Assim, considerando que o agravo em recurso especial foi interposto sob a égide do novo regramento processual e deixando a agravante de comprovar a ocorrência de feriado local quando de sua interposição, não há como ser afastada a intempestividade.
+Da mesma maneira, foram apresentados fundamentos para a rejeição dos embargos de declaração opostos na sequência, o que vale repisar (fls. 440-441):
+Efetivamente, nenhuma obscuridade, contradição, omissão ou erro material existe no corpo do acórdão que justifique a oposição desse recurso, que, como é cediço, não se presta para o reexame da causa.
+De fato, o acórdão embargado foi claro no que se refere às razões pelas quais negou provimento ao recurso, apreciando as alegações da embargante relativas à realização do preparo recursal, nos seguintes termos:
+ ..
+Na verdade, revela-se nítida a pretensão das embargantes de se valerem dos embargos de declaração para rediscutirem matéria já decidida, fazendo com que prevaleça o seu entendimento sobre o tema, intuito esse incompatível com a natureza desse recurso. Como se sabe, os embargos declaratórios não são via adequada para corrigir suposto error in judicando, não sendo possível atribuir eficácia infringente ao recurso se ausentes erro material, omissão, obscuridade ou contradição.
+Assim, dissociado o pleito de qualquer um dos pressupostos de interposição dos embargos de declaração, desautorizada está a pretensão declinada, impondo-se, então, a sua rejeição.
+Com efeito, demonstrada a ocorrência da prestação jurisdicional, ainda quando não se concorde com a solução dada à causa, afigura-se inviável o prosseguimento do recurso extraordinário, pois o provimento impugnado encontra-se em sintonia com a tese fixada no Tema n. 339/STF, de observância obrigatória (CPC, art. 927, III), entendimento reiterado pelo próprio STF, por exemplo, no ARE n. 1.349.717-ED-AgR, relator Ministro Luiz Fux, Plenário, DJe de 10/2/2022.
+Quanto às demais alegações do recurso, a análise do acórdão, como consignado na decisão agravada, revela que o pronunciamento questionado concluiu pelo não preenchimento dos pressupostos de admissibilidade do recurso anteriormente dirigido ao Superior Tribunal de Justiça.
+Tal fato ocorreu porque, no julgado recorrido, foi constatada a intempestividade do recurso especial manejado nos autos.
+Como se vê, o mérito do recurso especial não chegou a ser apreciado, diante de insuperável óbice processual, impeditivo do próprio conhecimento do recurso.
+Segundo o STF, a ausência de superação do que fora decidido no pronunciamento questionado acerca dos pressupostos de conhecimento do recurso anterior, como ocorreu neste caso, inviabiliza o exame do recurso extraordinário pela própria Corte Suprema, qualquer que seja a suscitada violação da Constituição Federal, consoante a tese fixada no Tema n. 181 da repercussão geral, que vale transcrever:
+A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral (RE n. 598.365-RG/MG).
+Nesse sentido, eventual ofensa à Carta Magna, se existente, seria apenas indireta ou reflexa, entendendo o Excelso Pretório que "carece de repercussão geral a discussão acerca dos pressupostos de admissibilidade de recursos da competência de cortes diversas" (ARE n. 1.227.415-AgR, relator Ministro Edson Fachin, Segunda Turma, DJe de 21/5/2021), até mesmo quando alegada a ofensa ao art. 105, III, da Constituição da República (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+Esse é também o consolidado entendimento do STJ sobre a questão, havendo reiterado desprovimento dos agravos que impugnam decisões de aplicação do Tema n. 181/STF, como bem exemplifica o precedente a seguir:
+Tratando-se de recurso extraordinário contra acórdão que não ultrapassou o juízo de admissibilidade, fica inviabilizado o exame das questões constitucionais suscitadas em face da inexistência de repercussão geral.
+(AgInt no RE nos EDcl no AgInt no AREsp n. 1.342.377/SP, relatora Ministra Maria Thereza de Assis Moura, DJe de 13/9/2019.)
+Assim, alinhado o provimento impugnado ao disposto pelo STF sobre a fundamentação das decisões e não havendo repercussão geral quanto ao restante das alegações, conforme teses de observância obrigatória (CPC, art. 927, III, parte final), o recurso extraordinário não comporta seguimento.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
