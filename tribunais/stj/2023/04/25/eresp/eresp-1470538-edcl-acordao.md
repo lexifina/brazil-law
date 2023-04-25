@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 19/04/2023 a 25/04/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, Laurita Vaz, João Otávio de Noronha, Herman Benjamin, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Antonio Carlos Ferreira e Ricardo Villas Bôas Cueva votaram com a Sra. Ministra Relatora.
+Não participou do julgamento o Sr. Ministro Humberto Martins.
+Presidiu o julgamento a Sra. Ministra Maria Thereza de Assis Moura.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Centro Técnico e Faculdades Futurão Ltda. opõe embargos de declaração contra acórdão da Corte Especial, assim ementado (fl. 1.729):
+AGRAVO INTERNO. EMBARGOS DE DECLARAÇÃO. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. EMBARGOS DE DIVERGÊNCIA INDEFERIDOS LIMINARMENTE. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. DEFICIÊNCIA DAS RAZÕES DO RECURSO. INCIDÊNCIA DA SÚMULA N. 182 DO STJ. AGRAVO NÃO CONHECIDO.
+1. Constitui ônus da parte agravante a impugnação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade. Incidência da Súmula n. 182 do Superior Tribunal de Justiça e aplicação dos arts. 932, III, e 1.021, § 1º, do Código de Processo Civil de 2015. Precedentes.
+2. Agravo interno não conhecido.
+Afirma a parte embargante que o acórdão embargado padeceu de omissão, uma vez que não analisou o argumento de que, nos casos de decisão teratológica ou manifestamente ilegal, os requisitos formais para a admissibilidade do recurso devem ser mitigados, conforme a orientação trazida no julgamento da Reclamação n. 12.062/GO, de relatoria do Ministro Raul Araújo.
+Alega que "fez longo arrazoado para provar a teratologia da decisão que se busca anular e o fato de que os ensinamentos extraídos da Reclamação n. 12.062/GO devem ser aplicados no presente caso" (fl. 1.748).
+Argumenta que "o acórdão ora embargado, ao enveredar para o caminho do não conhecimento do agravo interno por questões formais de admissibilidade, precisa, necessariamente, explicitar por qual motivo os ensinamentos da RECLAMAÇÃO N. 12.062/GO não são aplicáveis no presente caso" (fl. 1.748).
+Requer sejam acolhidos os presentes embargos para sanar as omissões apontadas em relação às seguintes questões: aplicabilidade do precedente extraído da Reclamação n. 12.062/GO, e também da Reclamação n. 13.200/GO, no que diz respeito a relativização dos conceitos de cabimento do recurso na hipótese de decisão teratológica ou manifestamente ilegal, que excedeu os limites postos na demanda; teratologia da decisão que tutelou esfera de interesse diversa daquela pleiteada em inicial do Ministério Público Federal; e quanto aos prejuízos ligados ao contraditório, a ampla defesa, à segurança jurídica e ao devido processo legal (fl. 1.749).
+A União apresentou impugnação, às fls. 1.757/1.759, postulando pela rejeição dos embargos de declaração.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. EMBARGOS DE DECLARAÇÃO. EMBARGOS DE DIVERGÊNCIA. RECURSO ESPECIAL. EMBARGOS DE DIVERGÊNCIA INDEFERIDOS LIMINARMENTE. FALTA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA DE OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. MERO INCONFORMISMO DA PARTE EMBARGANTE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Em respeito ao princípio da dialeticidade, os recursos devem ser bem fundamentados, sendo necessária a impugnação específica de todos os pontos analisados na decisão recorrida, sob pena de não conhecimento, por ausência de cumprimento dos requisitos exigidos nos arts. 932, III, e 1.021, § 1º, do Código de Processo Civil.
+2. Os embargos de declaração somente se prestam a sanar obscuridade, omissão ou contradição e erro material porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+3. Embargos de declaração rejeitados.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): O recurso não merece prosperar.
+Conforme destacado no acórdão embargado, a decisão que indeferiu liminarmente os embargos de divergência entendeu que não são cabíveis os embargos quando o acórdão recorrido não tenha apreciado o mérito da questão ou a controvérsia. A referida decisão destacou que o acórdão embargado concluiu pela impossibilidade de analisar o mérito do recurso especial em razão da incidência da Súmula n. 182 do STJ.
+Contra a mencionada decisão, o ora embargante, interpôs agravo interno discorrendo apenas acerca da teratologia de decisão proferida de forma extra petita na origem, sem, contudo, impugnar os fundamentos da decisão agravada.
+Ressalto que, a alegação sobre a existência de decisão teratológica sequer foi analisada na decisão agravada, circunstância que atraiu o óbice da Súmula n. 182 do STJ, segundo o qual "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". Nesse sentido, cito o seguinte precedente:
+PROCESSO CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO A DECISÃO EM AÇÃO RESCISÓRIA. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. ACÓRDÃO DA CORTE ESPECIAL QUE CONFIRMA DECISÃO DA VICE-PRESIDÊNCIA QUE NEGOU SEGUIMENTO A RECURSO EXTRAORDINÁRIO. TEMA 181/STF. NORMA TÉCNICA. SÚMULA 7/STJ. INDEFERIMENTO DA INICIAL. ADMISSIBILIDADE DO APELO. COMPETÊNCIA EXCLUSIVA DA CORTE RECORRIDA. ARTS. 932, INCISO III, 1.021, § 1º, E 1.030, INCISO I, ALÍNEA "A", DO CÓDIGO DE PROCESSO CIVIL.
+1. Nos termos dos arts. 932, inciso III, e 1.021, § 1º, do Código de Processo Civil, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+2. Compete ao tribunal recorrido o exame da admissibilidade do recurso extraordinário, na hipótese de incidência do sistema da repercussão geral (CPC, art. 1.030, inciso I, alínea "a").
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl na AR n. 7.253/CE, relatora Ministra Maria Isabel Gallotti, Corte Especial, julgado em 22.11.2022, DJe de 25.11.2022)
+Convém destacar, que, em respeito ao princípio da dialeticidade, os recursos devem ser bem fundamentados, sendo necessária a impugnação específica de todos os pontos analisados na decisão recorrida, sob pena de não conhecimento, por ausência de cumprimento dos requisitos exigidos nos arts. 932, III, e 1.021, § 1º, do Código de Processo Civil de 2015 (correspondentes aos artigos 544, § 4º, I, e 545 do Código de Processo Civil de 1973), segundo o qual, não se conhece do agravo que não ataca especificamente todos os fundamentos da decisão agravada.
+Desse modo, verifico que a pretensão da parte embargante é unicamente o rejulgamento da causa, finalidade que não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do CPC/15, razão pela qual, inviável o seu exame em embargos de declaração. Nesse sentido, confira-se:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. EMBARGOS DE DECLARAÇÃO. FINALIDADE DE PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. OMISSÃO. NÃO OCORRÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. ART. 1.022 DO NOVO CPC.
+1. A ocorrência de um dos vícios previstos no art. 1.022 do CPC é requisito de admissibilidade dos embargos de declaração, razão pela qual a pretensão de mero prequestionamento de dispositivos constitucionais para a viabilização de eventual recurso extraordinário não possibilita a sua oposição. Precedentes da Corte Especial.
+2. A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do novo CPC, razão pela qual inviável o seu exame em sede de embargos de declaração.
+3. Embargos de declaração rejeitados.
+(EDcl nos EAREsp n. 166.402/PE, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 15.3.2017, DJe de 29.3.2017.)
+Em face do exposto, rejeito os embargos de declaração.
+É como voto.
