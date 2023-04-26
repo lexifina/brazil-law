@@ -1,0 +1,266 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+1ª Turma Cível
+Processo N.AGRAVO DE INSTRUMENTO 0702310-63.2023.8.07.0000AGRAVANTE(S)HILZA CARVALHO DA FONSECA DA GUIAAGRAVADO(S)DISTRITO FEDERALRelatorDesembargador RÔMULO DE ARAÚJO MENDES Acórdão Nº1694994
+
+EMENTA
+
+AGRAVO DE INSTRUMENTO. DIREITO CONSTITUCIONAL. DIREITO PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. PROSSEGUIMENTO. PARCELA INCONTROVERSA. TEMA 28 SUPREMO TRIBUNAL FEFERAL. FRACIONAMENTO DO CRÉDITO. NÃO CABIMENTO. ALTERAÇÃO DA SISTEMÁTICA DE PRECATÓRIOS. ARTIGO 100, § 8º DA CONSTITUIÇÃO FEDERAL. SISTEMA DE ADMINISTRAÇÃO DE PRECATÓRIOS - SAPRE. PRECATÓRIO INFERIOR AO VALOR MÍNIMO PERMITIDO. RECURSO CONHECIDO E NÃO PROVIDO. DECISÃO MANTIDA.
+
+1. "Surge constitucional expedição de precatório ou requisição de pequeno valor para pagamento da parte incontroversa e autônoma do pronunciamento judicial transitada em julgado observada a importância total executada para efeitos de dimensionamento como obrigação de pequeno valor". (AgInt no RCD no REsp (RE 1205530, Relator(a): MARCO AURÉLIO).
+
+1.1. A Constituição Federal não permite que um mesmo credor tenha seu crédito fracionado se ocasionar alteração da sistemática de precatórios (Artigo 100, § 8º da CRFB).
+
+2. No caso dos autos, autorizar o prosseguimento da execução violaria a disposição da Constituição, já que o valor total executado seria pago por precatório e a parte incontroversa por RPV.
+
+3. O Sistema de administração de Precatórios - SAPRE disponível a este Tribunal de Justiça tem limite mínimo para expedição de precatório de R$ 11.000,00 (onze mil reais), não sendo aplicável ao caso, tendo em vista que o valor incontroverso é inferior a esse piso.
+
+4. Recurso conhecido e não provido. Decisão mantida.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 1ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, RÔMULO DE ARAÚJO MENDES - Relator, DIVA LUCY DE FARIA PEREIRA - 1º Vogal e CARLOS PIRES SOARES NETO - 2º Vogal, sob a Presidência do Senhor Desembargador RÔMULO DE ARAÚJO MENDES, em proferir a seguinte decisão: CONHECER DO RECURSO E NEGAR-LHE PROVIMENTO. DECISÃO UNÂNIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 04 de Maio de 2023
+
+Desembargador RÔMULO DE ARAÚJO MENDESPresidente e Relator
+
+RELATÓRIO
+
+Trata-se de Agravo de Instrumento interposto por HILZA CARVALHO DA FONSECA DA GUIA em face de decisão proferida pelo Juízo da Sétima Vara da Fazenda Pública do Distrito Federal que, nos autos do Cumprimento de Sentença nº 0709914-89.2021.8.07.0018, conheceu dos Embargos de Declaração opostos pelo agravado e a eles deu provimento para determinar a impossibilidade de expedição de precatório quanto à parte incontroversa.
+
+A agravante elucida ter iniciado Cumprimento de Sentença e que a parte agravada opôs Embargos de Declaração para que o juízo se manifestasse sobre o pedido da ora agravante de expedição de precatório da parte incontroversa, tendo o juízo conhecido do recurso e dado provimento a ele, indeferindo o pedido da agravante. Sustenta a necessidade de reforma dessa decisão.
+
+Defende a possibilidade jurídica da expedição de precatório relativamente à parte incontroversa do montante do Cumprimento de Sentença.
+
+Ressalta que, nos termos legais e jurisprudenciais, o reconhecimento parcial ou integral da procedência do pedido executivo torna preclusa e incontroversa a dívida, passando a ser considerada irreversivelmente julgada, o que torna passível de pagamento.
+
+Destaca o entendimento esposado pelo Supremo Tribunal Federal, no julgamento do Tema 28, sob a sistemática dos recursos repetitivos, no sentido de que se mostra constitucional a expedição de precatório ou requisição de pequeno valor para pagamento da parte incontroversa e autônoma do pronunciamento judicial transitada em julgado.
+
+Sustenta que o sistema SAPRE aceita a expedição de precatório em valores inferiores a 10 (dez) salários mínimos, sendo incabível o indeferimento do pedido.
+
+Tece considerações e colaciona julgados.
+
+Requer o conhecimento do recurso e a concessão de efeito suspensivo ativo para que se determine o prosseguimento da execução e expedição do precatório da parcela incontroversa. No mérito, requer a reforma da decisão agravada, confirmando-se a tutela e urgência.
+
+Preparo devidamente recolhido nos IDs 42996405 e 42996407.
+
+Em exame de cognição sumária, foi indeferido o pedido de concessão do efeito suspensivo ao recurso pela decisão de ID 43027778.
+
+Contrarrazões apresentadas no ID 43291235, contrapondo as razões recursais e pugnando pelo não provimento do recurso.
+
+Informações prestadas pelo juízo a quo no ID 43328765.
+
+É o relatório.
+
+VOTOS
+
+O Senhor Desembargador RÔMULO DE ARAÚJO MENDES - Relator
+Presentes os pressupostos de admissibilidade, conheço do recurso.
+
+Conforme relatado, a agravante pretende a reforma da decisão que conheceu dos Embargos de Declaração opostos pelo agravado, nos autos do Cumprimento de Sentença nº 0709914-89.2021.8.07.0018, e a eles deu provimento para determinar a impossibilidade de expedição de precatório quanto à parte incontroversa.
+
+Foi indeferida a concessão do efeito suspensivo pela decisão de ID 43027778, e, no mérito, necessário manter o entendimento de que o Agravo não deve ser provido. Para tanto, reiteram-se as razões apresentadas na referida decisão, as quais se transcrevem em parte:
+
+Transcrevo a decisão agravada (ID 144195776 dos autos na origem):
+
+Vistos etc.
+
+Trata-se de Embargos de Declaração opostos por HILZA CARVALHO DA FONSECA DA GUIA, no qual alega a existência de omissão no decisum de ID 141273106, sob a assertiva de não ter sido determinada a expedição do requisitório relativo à parcela incontroversa.
+
+Finaliza pugnando o acolhimento dos aclaratórios, com efeitos infringentes.
+
+O embargado se manifestou ID 143953079.
+
+É o breve relato. DECIDO.
+
+Conheço dos presentes embargos, eis que tempestivos, nos termos do art. 1.023, do Novo Código de Processo Civil.
+
+Todavia, não merece prosperar as alegações da embargante, que estão a desafiar recurso próprio, sendo certo que invoca eiva no julgado que revolve a apreciação de questões já apreciadas no decisum em testilha.
+
+Esclareço, outrossim, que não compete a este Juízo contatar o Juízo da COORPRE para promover ajustes no sistema SAPRE a cada pleito de expedição de precatório de parcela incontroversa com valor inferior ao teto de dez salários-mínimos, porquanto isto inviabilizaria esta Unidade Judiciária (que já se encontra assoberbada com o aumento exponencial de processos em tramitação), aliado ao fato de se tratar de providência a ser adotada pela Direção do TJDFT, com fulcro a se observar o preceito da isonomia entre os jurisdicionados.
+
+Assim, mostra-se patente a intenção da embargante de conferir efeito modificativo ao decisum, não se prestando os presentes embargos ao atendimento desta finalidade.
+
+Nesse diapasão, REJEITO os presentes Embargos Declaratórios e mantenho a r. decisão embargada tal qual lançada.
+
+Assim, dado a impossibilidade de expedição do precatório relativo à parcela incontroversa, aguardem-se o trânsito em julgado dos Agravos de Instrumento nº 0711623-82.2022.8.07.0000 e 0709914-89.2021.8.07.0018.
+
+Advirto ao embargante, por oportuno, que novos embargos sobre a matéria aqui decidida ensejará na aplicação de multa por litigância de má-fé.
+
+Intimem-se.
+
+Adote a Serventia as diligências pertinentes.
+
+Conforme relatado, trata-se de Agravo de Instrumento interposto contra decisão que determinou a suspensão dos autos até julgamento definitivo do AGI nº 0711623-82.2022.8.07.0000, impedindo, desse modo, segundo a parte agravante, o prosseguimento do feito quanto à parcela incontroversa da obrigação imposta ao ente distrital ora agravado.
+
+Compulsando os autos, constata-se que o AGI nº 0711623-82.2022.8.07.0000 foi julgado conforme ementa, que transcrevo:
+
+AGRAVO DE INSTRUMENTO. DIREITO CIVIL. DIREITO PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. PRELIMINARES. INOVAÇÃO RECURSAL. ACOLHIDA. RECURSO CONHECIDO EM PARTE. SUSPENSÃO. TEMA 1170 STF. INAPLICABILIDADE. REJEITADA. MÉRITO. CORREÇÃO MONETÁRIA. SENTENÇA TRANSITADA EM JULGADO. TEMA 733, STF. TEMA 905, STJ. MATÉRIA ORDEM PÚBLICA. PRECLUSÃO. TEMA 491, STJ. JULGADOS. AUSÊNCIA FORÇA VINCULANTE. RELAÇÃO TRATO CONTINUADO. OBSERVÂNCIA COISA JULGADA. RECURSO PROVIDO. DECISÃO REFORMADA.
+
+1. Não tendo sido feito em primeira instância o pedido de aplicação da taxa Selic, incabível o conhecimento da matéria em sede de agravo, por configurar inovação recursal e porque acarretaria inevitável supressão de instância. Recurso conhecido em parte.
+
+2. O Supremo Tribunal Federal reconheceu entendeu pela existência de repercussão geral a questão relativa aos juros moratórios incidentes sobre as condenação judiciais da Fazenda Pública.
+
+2.1. Não foi proferida nenhuma decisão determinando a suspensão dos julgamentos de recursos e ações que analisam tais questões; ademais, no caso dos autos não se discute juros de mora, sendo incabível a suspensão pleiteada pela parte agravada. Preliminar rejeitada.
+
+3. Fixada a aplicabilidade do índice TR no cálculo da correção monetária, sendo o reajuste assegurado no título judicial, e não havendo recurso interposto sobre essa decisão, resta configurada a preclusão da matéria.
+
+4. Ainda que se trate de matéria de ordem pública, uma vez analisada a questão dos índices de correção monetária, esta resta acobertada pela preclusão, sendo incabível nova análise. Precedentes.
+
+5. "Não obstante os índices estabelecidos para atualização monetária e compensação da mora, de acordo com a natureza da condenação imposta à Fazenda Pública, cumpre ressalvar eventual coisa julgada que tenha determinado a aplicação de índices diversos, cuja constitucionalidade/legalidade há de ser aferida no caso concreto". (REsp 1495146/MG, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 22/02/2018, DJe 02/03/2018)
+
+5.1. "Afirma-se, portanto, como tese de repercussão geral que a decisão do Supremo Tribunal Federal declarando a constitucionalidade ou a inconstitucionalidade de preceito normativo não produz a automática reforma ou rescisão das sentenças anteriores que tenham adotado entendimento diferente; para que tal ocorra, será indispensável a interposição do recurso próprio ou, se for o caso, a propositura da ação rescisória própria, nos termos do art. 485, V, do CPC, observado o respectivo prazo decadencial (CPC, art. 495). Ressalva-se desse entendimento, quanto à indispensabilidade da ação rescisória, a questão relacionada à execução de efeitos futuros da sentença proferida em caso concreto sobre relações jurídicas de trato continuado". (RE 730462, Relator(a): TEORI ZAVASCKI, Tribunal Pleno, julgado em 28/05/2015, ACÓRDÃO ELETRÔNICO REPERCUSSÃO GERAL - MÉRITO DJe-177 DIVULG 08-09-2015 PUBLIC 09-09-2015) (destaquei)
+
+5.2. Assim, posterior decisão do Supremo Tribunal Federal, declarando a inconstitucionalidade da correção monetária prevista no art. 1º-F da Lei nº 9.494/97, com a redação dada pelo art. 5º da Lei nº 11.960/09, não rescinde, automaticamente, as decisões judiciais transitadas em julgado em sentido contrário, conforme orientação do Supremo Tribunal Federal e do Superior Tribunal de Justiça em julgamento de recursos na sistemática da repercussão geral e dos repetitivos.
+
+6. O entendimento firmado no Tema 491 do STJ não afasta aplicabilidade do Tema 905, firmado posteriormente também pelo STJ.
+
+7. A existência de julgados sem força vinculante não obrigam a adoção do entendimento neles exarados.
+
+8. "Muito embora o Superior Tribunal de Justiça reconheça a natureza de trato sucessivo da cobrança de correção monetária e sua regência conforme a regra em vigor na época do vencimento da obrigação, esta mesma Corte não afasta índices diversos fixados em decisão judicial não mais sujeita a recurso, por observância à coisa julgada". (AgInt no REsp n. 1.950.278/DF, relator Ministro Og Fernandes, Segunda Turma, julgado em 19/4/2022, DJe de 26/4/2022.)
+
+9. Recurso conhecido em parte. Na parte conhecida, preliminar rejeitada. No mérito, recurso provido. Decisão reformada.
+
+(Acórdão 1606493, 07116238220228070000, Relator: ROMULO DE ARAUJO MENDES, 1ª Turma Cível, data de julgamento: 10/8/2022, publicado no DJE: 31/8/2022. Pág.: Sem Página Cadastrada.)
+
+Verifica-se, ainda, que opostos Embargos de Declaração, foram rejeitados conforme o acórdão:
+
+EMBARGOS DE DECLARAÇÃO. DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. PRELIMINAR. NÃO CONHECIMENTO. AUSÊNCIA VÍCIOS. REJEITADA. MÉRITO. OMISSÃO. CORREÇÃO MONETÁRIA. CONDENAÇÃO FAZENDA PÚBLICA. VÍCIO INEXISTENTE. RECURSO CONHECIDO E NÃO PROVIDO.
+
+1. A parte embargante alegou que o acórdão é omisso, de forma que, a análise da existência ou não do vício no acórdão demanda de apreciação no mérito do recurso e não impede seu conhecimento. Preliminar de não conhecimento rejeitada.
+
+2. O acórdão analisou toda a matéria apresentada de forma clara e coerente, refutando individualmente os argumentos apresentados pela agravada, ora embargante e firmando entendimento de que fixada a aplicabilidade do índice TR no cálculo da correção monetária, sendo o reajuste assegurado no título judicial, e não havendo recurso interposto sobre essa decisão, resta configurada a preclusão da matéria. Omissão inocorrente.
+
+3. Recurso claramente protelatório, uma vez que interposto com finalidade exclusiva de reexaminar a contenda, o que se mostra inadequado pela via dos embargos de declaração. Precedentes.
+
+4. Fixada a multa prevista no art. 1.026, §2º, do Código de Processo Civil.
+
+5. Preliminar rejeitada. Recurso conhecido e não provido. Acórdão mantido.
+
+(Acórdão 1636417, 07116238220228070000, Relator: ROMULO DE ARAUJO MENDES, 1ª Turma Cível, data de julgamento: 3/11/2022, publicado no DJE: 1/12/2022. Pág.: Sem Página Cadastrada.)
+
+Após o julgamento dos Embargos, a agravante interpôs Recursos Especial e Extraordinários, ainda pendentes a análise de sua admissibilidade, ao passo que o Juízo de origem determinou o sobrestamento do feito até o julgamento definitivo do Agravo de Instrumento, a fim de preservar a segurança jurídica.
+
+Por outro lado, a agravante argumenta que a expedição de requisições de pagamento da parte incontroversa da dívida independe do julgamento definitivo do referido recurso.
+
+Acerca do tema, o Supremo Tribunal Federal, no julgamento do Recurso Extraordinário nº 1.205.530 (Tema 28), com repercussão geral reconhecida, firmou o seguinte entendimento:
+
+“surge constitucional expedição de precatório ou requisição de pequeno valor para pagamento da parte incontroversa e autônoma do pronunciamento judicial transitada em julgado observada a importância total executada para efeitos de dimensionamento como obrigação de pequeno valor”.
+
+Portanto, de acordo com o referido precedente vinculante, é possível expedir precatório ou requisição de pequeno valor - RPV para satisfação imediata da parte do título executivo judicial que não está mais sujeita a questionamento ou modificação.
+
+O acórdão prolatado pela Suprema Corte tratava a respeito de decisão que, em embargos à execução, autorizou continuidade do feito executivo quanto à parte incontroversa da condenação, mantendo-se os embargos apenas quanto à parte controversa.
+
+No presente caso, considerando que a discussão nos autos do Agravo de Instrumento se resume ao índice de correção monetária a ser aplicado ao caso, conclui-se que o valor base é incontroverso, o que, consequentemente, autoriza o prosseguimento do feito com ulterior expedição de requisitório para pagamento.
+
+Esse entendimento está em consonância com a disposição do art. 535, § 4º, do CPC, que assim preceitua:
+
+Art. 535. A Fazenda Pública será intimada na pessoa de seu representante judicial, por carga, remessa ou meio eletrônico, para, querendo, no prazo de 30 (trinta) dias e nos próprios autos, impugnar a execução, podendo arguir:
+
+(...)
+
+§ 4º Tratando-se de impugnação parcial, a parte não questionada pela executada será, desde logo, objeto de cumprimento.
+
+Entretanto, a Constituição Federal não permite que um mesmo credor tenha seu crédito fracionado de modo que parte dele seja satisfeito por requisição de pequeno valor e a outra parte, por meio de precatório.
+
+Vejamos:
+
+Art. 100. Os pagamentos devidos pelas Fazendas Públicas Federal, Estaduais, Distrital e Municipais, em virtude de sentença judiciária, far-se-ão exclusivamente na ordem cronológica de apresentação dos precatórios e à conta dos créditos respectivos, proibida a designação de casos ou de pessoas nas dotações orçamentárias e nos créditos adicionais abertos para este fim.
+
+(...)
+
+§ 3º O disposto no caput deste artigo relativamente à expedição de precatórios não se aplica aos pagamentos de obrigações definidas em leis como de pequeno valor que as Fazendas referidas devam fazer em virtude de sentença judicial transitada em julgado.
+
+(...)
+
+§ 8º É vedada a expedição de precatórios complementares ou suplementares de valor pago, bem como o fracionamento, repartição ou quebra do valor da execução para fins de enquadramento de parcela do total ao que dispõe o § 3º deste artigo. (destaquei)
+
+O Supremo Tribunal Federal, ao analisar o Tema 792 firmou a seguinte tese:
+
+EXECUÇÃO – FAZENDA – LEI – APLICAÇÃO NO TEMPO. Lei disciplinadora da submissão de crédito ao sistema de execução via precatório possui natureza material e processual, sendo inaplicável a situação jurídica constituída em data que a anteceda.
+
+(RE 729107, Relator(a): MARCO AURÉLIO, Tribunal Pleno, julgado em 08/06/2020, PROCESSO ELETRÔNICO REPERCUSSÃO GERAL - MÉRITO DJe-228  DIVULG 14-09-2020  PUBLIC 15-09-2020)
+
+Firme também o entendimento de que o tema aplica-se tanto à lei que minora, quanto à lei majora o limite das Requisições de Pequeno Valor. Ademais, o termo inicial para averiguação de qual lei deve ser aplicada é a data do trânsito em julgado da sentença, ou seja, na data da formação do título executivo.
+
+No caso dos autos, o trânsito em julgado ocorreu em 11 de março de 2020, portanto anterior à Lei Distrital 6618/2020, publicada em 19 de junho de 2020, que majorou o limite das Requisições de pequeno valor.
+
+Assim, necessário entender que, no caso dos autos, as RPVs limitam-se a 10 (dez) salários mínimos.
+
+Analisando os documentos juntados, incabível concluir pelo prosseguimento da ação, pois o valor inicial executado era de R$ 15.879,71 (quinze mil oitocentos e setenta e nove reais e setenta e um centavos), o que atrairia o pagamento por Precatório; já a parte incontroversa, conforme os cálculos apresentados pelo Distrito Federal, é de R$ 8.665,20 (oito mil seiscentos e sessenta e cinco reais e vinte centavos), o que, por sua vez, seria pago por Requisição de Pequeno Valor.
+
+Assim, o pagamento parcial configuraria fracionamento do valor e ofenderia o dispositivo constitucional, estando correta a decisão que o indeferiu.
+
+No que tange ao argumento de que seria possível a expedição de Precatório em valor inferior aos 10 (dez) salários mínimos, também sem razão.
+
+O sistema SAPRE disponível a este Tribunal de Justiça tem limite mínimo para expedição de precatório de R$ 11.000,00 (onze mil reais), estando o valor incontroverso abaixo desse piso. Nesse sentido:
+
+AGRAVO DE INSTRUMENTO. DIREITO PROCESSUAL CIVIL E ADMINISTRATIVO. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. OFENSA À DIALETICIDADE. INEXISTÊNCIA. SUSPENSÃO DO PROCESSO. DESNECESSIDADE. TEMA DE REPERCUSSÃO GERAL N. 1.170 DO SUPREMO TRIBUNAL FEDERAL. INAPLICABILIDADE. ALTERAÇÃO DO ÍNDICE DE CORREÇÃO MONETÁRIA. IMPOSSIBILIDADE. PARCELA INCONTROVERSA. IMEDIATO CUMPRIMENTO. INVIABILIDADE. SISTEMA DE ADMINISTRAÇÃO DE PRECATÓRIOS (SAPRE). LIMITE MÍNIMO PARA A EXPEDIÇÃO DE PRECATÓRIO.
+
+(...)
+
+6. O art. 535, § 4º, do Código de Processo Civil autoriza o cumprimento da parte não questionada pela Fazenda Pública em impugnação parcial.
+
+7. A Ação Direta de Inconstitucionalidade n. 5.534/DF conferiu interpretação conforme a Constituição Federal ao art. 535, § 4º, do Código de Processo Civil, no sentido de que, para efeito de determinação do regime de pagamento do valor incontroverso, deve ser observado o valor total da condenação, nos termos da tese firmada no Tema de Repercussão Geral n. 28 do Supremo Tribunal Federal. 8. A aplicação da tese firmada no Tema de Repercussão Geral n. 28 do Supremo Tribunal Federal enseja que o prosseguimento da execução deve se dar com o pagamento mediante precatório, sob pena de se violar o art. 100, § 8º, da Constituição Federal.
+
+9. O Sistema de Administração de Precatórios (Sapre) disponível ao Tribunal de Justiça do Distrito Federal e dos Territórios registra o montante de R$ 11.000,00 (onze mil reais) como limite mínimo para a emissão de precatório.
+
+10. Inviável o prosseguimento da execução quanto à parcela incontroversa quando valor é inferior ao limite mínimo para a expedição de precatório.
+
+11. A expedição de requisição de pequeno valor (RPV) também é inviável, eis que o referido procedimento pode prejudicar a ordem pagamento.
+
+12. Preliminares rejeitadas. Agravo de instrumento desprovido.
+
+(Acórdão 1624118, 07231798120228070000, Relator: HECTOR VALVERDE SANTANNA, 2ª Turma Cível, data de julgamento: 28/9/2022, publicado no DJE: 14/10/2022. Pág.: Sem Página Cadastrada.)
+
+CONSTITUCIONAL E PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA CONTRA A FAZENDA PÚBLICA. PARCELA INCONTROVERSA. TEMA 28 DO STF. PROSSEGUIMENTO. RE Nº 1.205.530 (TEMA 28). IMPOSSIBILIDADE. ART. 100, §8º DA CF/88. O FRACIONAMNETO NÃO PODE ACARRETAR VIOLAÇÃO À SISTEMÁTICA DE EXPEDIÇÃO DE PRECATÓRIOS/RPV. PRECATÓRIO RELACIONADO À PARCELA INCONTROVERSA EM VALOR INFERIOR AO PERMITIDO PELO SISTEMA DE ADMINISTRAÇÃO DE PRECATÓRIOS.
+
+1. Consoante entendimento firmado pelo STF, no RE 1.205.530 (Tema 28), "surge constitucional expedição de precatório ou requisição de pequeno valor para pagamento da parte incontroversa e autônoma do pronunciamento judicial transitada em julgado, observada a importância total executada para efeitos de dimensionamento como obrigação de pequeno valor". Em outras palavras, para fins de prosseguimento da execução (provisória) no tocante à parte incontroversa, deve-se observar o regime de precatórios estabelecido no art. 100, §8º, CF/88, que veda que um mesmo credor tenha seu crédito fracionado de modo que parte dele seja satisfeito por requisição de pequeno valor - RPV e a outra parte, por meio de precatório, ou seja, o fracionamento do crédito não pode configurar violação à sistemática de expedição dos precatórios/RPV, levando-se em consideração o valor total almejado (parte controversa e incontroversa).
+
+2. A verificação do teto para fins de expedição de RPV deve ser feita com base na lei que estava em vigor à data de constituição do título executivo (RE nº 729.107/DF - Tema 792 -, com repercussão geral reconhecida) e, na espécie, considerando que a sentença executada transitou em julgado em 11/3/2020, verifica-se que estava vigente a Lei Distrital nº 3.624/2005, que estabelecia o teto de teto de 10 salários mínimos.
+
+3. Conquanto, no caso, a parte incontroversa cuja execução provisória é pretendida perfaça o importe inferior a 10 salários mínimos, o que, num primeiro momento autorizaria a expedição de RPV, o valor total do cumprimento de sentença supera referido teto, o que atrai a sistemática de expedição de precatório.
+
+3.1. Não obstante o disposto, o Sistema de Administração de Precatórios - Sapre não permite a expedição de precatório cujo valor seja inferior a 10 salários mínimos, o que obstaculiza o prosseguimento do cumprimento de sentença pela quantia incontroversa.
+
+4. Agravo de instrumento desprovido.
+
+(Acórdão 1609202, 07170661420228070000, Relator: ALFEU MACHADO, 6ª Turma Cível, data de julgamento: 24/8/2022, publicado no DJE: 12/9/2022. Pág.: Sem Página Cadastrada.)
+
+RECLAMAÇÃO. ACÓRDÃO PROFERIDO EM AGRAVO DE INSTRUMENTO. APLICAÇÃO DO IPCA-E. ATUALIZAÇÃO MONETÁRIA. CONTADORIA JUDICIAL. SOBRESTAMENTO DO FEITO ATÉ O TRÂNSITO EM JULGADO DO REFEFRIDO ACORDÃO. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. PARCELA INCONTROVÉRSA. PROSSEGUIMENTO. TEMA 28 DO STF. IMPOSSIBILIDADE. PRECATÓRIO DE VALOR INFERIOR AO PERMITIDO.
+
+1. A reclamação consiste em ação de competência originária dos tribunais, cabível para preservar sua competência, garantia a autoridade de suas decisões, a observância de acórdão oriundo de julgamento de casos repetitivos ou de incidente de competência. Com relação ao Supremo Tribunal Federal - STF, é cabível para garantir a observância de enunciado de súmula vinculante e de decisão em controle concentrado de constitucionalidade (art. 988, caput, do CPC).
+
+2. Em casos de cumprimento provisório de sentença contra a Fazenda Pública, há que se observar a tese de repercussão geral fixada pelo Supremo Tribunal Federal - STF, no RE 1.205.530 (Tema 28): "Surge constitucional expedição de precatório ou requisição de pequeno valor para pagamento da parte incontroversa e autônoma do pronunciamento judicial transitada em julgado observada a importância total executada para efeitos de dimensionamento como obrigação de pequeno valor".
+
+3. O prosseguimento do cumprimento de sentença com relação ao valor incontroverso, para fins de determinação do regime de pagamento a ser adotado - precatório ou requisição de pequeno valor (RPV) - deve observar o valor total da execução (inclusive a parte controvertida).
+
+4. O Sistema de Administração de Precatórios - Sapre não permite a expedição de precatório cujo valor seja inferior a 10 (dez) salários-mínimos, o que inviabiliza, na hipótese, o prosseguimento do cumprimento de sentença.
+
+5. O juízo, determinar o sobrestamento do feito até o transito em julgado do acórdão proferido em agravo de instrumento, não violou a autoridade de decisão proferida por esta Sexta Turma.
+
+6. Reclamação improcedente.
+
+(Acórdão 1439223, 07138963420228070000, Relator: LEONARDO ROSCOE BESSA, 6ª Turma Cível, data de julgamento: 20/7/2022, publicado no PJe: 12/8/2022. Pág.: Sem Página Cadastrada.)
+
+AGRAVO DE INSTRUMENTO. DIREITO CONSTITUCIONAL E PROCESSUAL CIVIL. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. PARCELA INCONTROVÉRSA. PROSSEGUIMENTO. TEMA 28 DO STF. CASO CONCRETO. IMPOSSIBILIDADE. PRECATÓRIO DE VALOR INFERIOR AO PERMITIDO PELO SISTEMA DE ADMINISTRAÇÃO DE PRECATÓRIOS. DECISÃO MANTIDA.
+
+1. Conforme tese fixada no julgamento do Tema 28 do Supremo Tribunal Federal, "surge constitucional expedição de precatório ou requisição de pequeno valor para pagamento da parte incontroversa e autônoma do pronunciamento judicial transitada em julgado observada a importância total executada para efeitos de dimensionamento como obrigação de pequeno valor".
+
+2. No caso concreto, porém, sendo a parcela incontroversa inferior ao teto das Requisições de Pequeno Valor e o total da dívida superior ao mesmo, e constatada a impossibilidade de, perante o Sistema de Administração de Precatórios, emissão de precatório inferior ao teto da RPV, resta obstado o prosseguimento do feito quanto à parcela incontroversa.
+
+3. Agravo de instrumento conhecido e não provido
+
+(Acórdão 1405835, 07369003720218070000, Relator: SIMONE LUCINDO, 1ª Turma Cível, data de julgamento: 9/3/2022, publicado no DJE: 22/3/2022. Pág.:  Sem Página Cadastrada.
+
+Ante o exposto, CONHEÇO do recurso e NEGO-LHE PROVIMENTO para manter incólume a decisão impugnada.
+
+É como voto.
+
+A Senhora Desembargadora DIVA LUCY DE FARIA PEREIRA - 1º Vogal Com o relatorO Senhor Desembargador CARLOS PIRES SOARES NETO - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECER DO RECURSO E NEGAR-LHE PROVIMENTO. DECISÃO UNÂNIME.
