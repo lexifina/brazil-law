@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial fundado na alínea "a" do permissivo constitucional interposto contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Norte, assim ementado:
+PROCESSUAL CIVIL. CONFLITO NEGATIVO DE COMPETÊNCIA ENTRE O JUÍZO DE DIREITO DA 1ª VARA DA FAZENDA PÚBLICA E DO 2º JUIZADO ESPECIAL CÍVEL, CRIMINAL E DA FAZENDA PÚBLICA, AMBOS DA COMARCA DE MOSSORÓ/RN. AÇÃO DE COBRANÇA. FÉRIAS E TERÇO CONSTITUCIONAL. PROPOSIÇÃO DE AÇÕES DIVERSAS PARA COBRANÇA REFERENTE A PERÍODOS AQUISITIVOS DISTINTOS. POSSIBILIDADE. PRÁTICA DE FRACIONAMENTO NÃO VERIFICADA. AUSÊNCIA DE ÓBICE PARA AJUIZAMENTO DE VÁRIAS AÇÕES AINDA QUE PROVENIENTES DA MESMA RELAÇÃO JURÍDICA. CAUSAS DE PEDIR DIVERSAS. VALOR DA CAUSA INFERIOR AO LIMITE ESTABELECIDO PELA LEI Nº 12.153/2009. COMPETÊNCIA ABSOLUTA DOS JUIZADOS ESPECIAIS. DECLARAÇÃO DE COMPETÊNCIA DO JUÍZO SUSCITADO. CONFLITO CONHECIDO E PROVIDO.
+No recurso especial, a parte recorrente aponta violação do art. 2º da Lei nº 12.153/2009, aduzindo que ".. de acordo com o referido dispositivo, " é de competência dos Juizados Especiais da Fazenda Pública processar, conciliar e julgar causas cíveis de interesse dos Estados, do Distrito Federal, dos Territórios e dos Municípios, até o valor de 60 (sessenta) salários mínimo", o que não foi devidamente observado pelo Tribunal de origem."; ".. ao admitir a possibilidade de propositura de duas ações com igual causa de pedir, mas que, quando somados os valores da causa seria ultrapassado o teto do juizado especial da fazenda pública, restou agredida a dicção do art. 2º da Lei nº 12.153/2009." (fls. 81-82 e-STJ)
+É o relatório. Passo a decidir.
+A irresignação não merece conhecimento.
+O Tribunal de origem, ao analisar a controvérsia, assentou que
+Na Ação Ordinária nº 0819932-53.2019.8.20.5106, a mesma parte postula o pagamento de diferença devida a título de férias, acrescidas do terço constitucional, referente ao período de 29/06/1998 a 29/06/2003 .
+Ocorre que além não existir impedimento de ordem legal para que a parte ajuíze várias demandas, mesmo oriundas de idêntica relação jurídica, o caso concreto, como se pode constatar, revela a intenção desta de ser ressarcida quanto às férias e terço constitucional, no entanto em relação a períodos aquisitivos diferentes, o que interfere na causa de pedir das lides citadas, que não coincidem, como aduziu o Juízo Suscitante.
+Isso, aliado ao valor da causa, inferior a 60 (sessenta) salários-mínimos, confere ao juizado especial da fazenda pública a competência para processo e julgamento da ação objeto do presente conflito.
+Nesse diapasão, rever o entendimento firmado pela Corte Regional no que se refere à interpretação do pedido e da causa de pedir, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Nesse sentido, cito o seguinte julgado:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. CONFLITO DE COMPETÊNCIA. JUIZADO ESPECIAL FEDERAL. ANULAÇÃO DE ATO ADMINISTRATIVO. PEDIDO QUE NÃO CONSTA NA EXORDIAL DA AÇÃO. ANÁLISE DO PEDIDO E DA CAUSA DE PEDIR. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. O Tribunal de origem, ao interpretar a peça inicial da demanda originária, entendeu que o pedido da ação não seria a anulação do ato administrativo, mas sim a dispensa do pagamento das tarifas de pedágio, sendo o pleito de anulação meramente incidental, insuficiente para que se considerasse como parte necessária do pedido.
+2. Não cabe a este Superior Tribunal de Justiça fazer uma reanálise que envolve interpretação do pedido e da causa de pedir da demanda em primeira instância, ante o óbice da Súmula 7/STJ. Precedentes.
+3. A fundamentação do acórdão recorrido não destoa da jurisprudência desta Corte, segundo a qual, "nas ações em que não se busca a anulação ou cancelamento de ato administrativo federal, está correto o acórdão regional recorrido que afasta a aplicação da exceção à competência dos juizados especiais federais,  .. , para fixar a competência no Juizado Especial Federal."(REsp 1.511.788/SC, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe 2/5/2017).
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.132.313/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 9/3/2020, DJe de 12/3/2020.)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SERVIDOR PÚBLICO. ANÁLISE DO PEDIDO E DA CAUSA DE PEDIR. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
