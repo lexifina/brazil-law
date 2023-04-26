@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo interno interposto por REAL GRANDEZA FUNDAÇÃO DE PREVIDÊNCIA E ASSISTÊNCIA SOCIAL contra a decisão que negou provimento ao recurso especial devido à jurisprudência da Terceira Turma desta Corte acerca do tema (fls. 701-706, e-STJ).
+No seu arrazoado, a parte aduz que "(..) no último dia 08/06 este C. Superior Tribunal de Justiça reconheceu a TAXATIVIDADE DO ROL DA ANS, no julgamento dos Embargos de Divergência EREsp 1886929 e EREsp 1889704, unificando o posicionamento das Turmas da referida Corte sobre o tema" (fl. 711, e-STJ).
+Sem impugnação (fl. 721, e-STJ).
+É o relatório.
+DECIDO.
+Em virtude dos argumentos expostos pela agravante, reconsidera-se a decisão de fls. 701-706 (e-STJ) e passa-se à análise do recurso especial.
+Trata-se de recurso especial, com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, interposto contra o acórdão do Tribunal de Justiça do Estado de Minas Gerais assim ementado:
+"APELAÇÃO CÍVEL -OBRIGAÇÃO DE FAZER C/C PLEITO INDENIZATÓRIO -FALECIMENTO DA PARTE AUTORA -HABILITAÇÃO DOS HERDEIROS -REGULARIZAÇÃO DA REPRESENTAÇÃO PROCESSUAL -PLANO DE SAÚDE NA MODALIDADE DE AUTOGESTÃO -INAPLICABILIDADE DO CÓDIGO DE DEFESA DO CONSUMIDOR -ENUNCIADO Nº 608 DA SÚMULA DO STJ -REGRAS DO CÓDIGO CIVIL -BOA-FÉ OBJETIVA -RECUSA DE CUSTEIO DE MEDICAMENTO -PRESCRIÇÃO MÉDICA FUNDAMENTADA -ROLDE PROCEDIMENTOS DA ANS -EXEMPLIFICATIVO -NEGATIVA DE COBERTURA INDEVIDA -DANOS MORAIS -CONFIGURAÇÃO -QUANTUM -MANUTENÇÃO.
+-Sobrevindo o falecimento da autora no curso da demanda, e sendo transmissível o direito em litígio, deve ser determinada a intimação do espólio, sucessores ou herdeiros, a fim de que seja manifestado eventual interesse na sucessão processual.
+-O falecimento da parte autora não acarreta a extinção do processo, sem o julgamento de mérito, de vez que permanece hígido o interesse da parte ré em discutir sobre a quem compete arcar com o custo do procedimento médico já prestado por força de decisão judicial liminar, bem como da repercussão material advinda do reconhecimento da prática de ato ilícito ensejadora do dever de indenizar a parte pelos danos morais que teria eventualmente sofrido com a negativa do plano.
+-Nos termos da súmula 608 do STJ, "aplica-se o Código de Defesa do Consumidor aos contratos de plano de saúde, salvo os administrados por entidades de autogestão".-Os contratos de plano de saúde celebrados com operadoras na modalidade de autogestão regem-se pelas regras do Código Civil em matéria contratual, tão rígidas quanto as da legislação consumerista, notadamente acerca da boa-fé objetiva e dos desdobramentos dela decorrentes.
+-É abusiva a negativa de fornecimento de medicamento indicado pelo médico assistente, quando indispensável para o sucesso do tratamento do segurado e à preservação da sua vida.
+-A jurisprudência desse Tribunal é uníssona a respeito da natureza meramente exemplificativa do rol da ANS, contendo apenas o mínimo obrigatório de procedimentos a serem cobertos pela operadora do plano de saúde.-Os transtornos narrados, oriundos da negativa em autorizar a realização do procedimento/exame prescrito ao autor, são suficientes a ensejar dano moral indenizável, por si só, notadamente por intensificar o sofrimento do paciente.
+-A indenização por dano moral vem sendo entendida como forma de compensação pela dor, sofrimento ou constrangimento injustamente sofrido pela vítima, que possam merecer correspondente valor econômico apurável, além de punição para o ofensor, impedindo-lhe de repetir o ato ofensivo" (fl. 513, e-STJ).
+Os embargos declaratórios foram rejeitados (fl. 571, e-STJ).
+No seu arrazoado, a parte recorrente alega como violados os arts. 10, § 4º, da Lei nº 9.656/1998; 4º, III, da Lei nº 9.961/2000; 188, I, e 927 do Código Civil e 330, III, e 485, VI, do Código de Processo Civil de 2015.
+Sustenta, em síntese, ser obrigatório o rol da ANS e inexistir ato ilícito capaz de ensejar a reparação por danos morais.
+Contrarrazões juntadas às fls. 672-681 (e-STJ).
+O recurso especial foi admitido pela decisão de fls. 689-692 (e-STJ).
+O recurso merece parcial provimento.
+A discussão gira em torno da natureza do Rol de Procedimentos e Eventos em Saúde, elaborado periodicamente pela Agência Nacional de Saúde Suplementar (ANS), se exemplificativo ou taxativo.
+De início, conforme a sentença, registra-se que a recorrente
+"(..) aderiu ao plano de assistência médica junto à ré, sendo que fazia tratamento de câncer por 06anos, estando a doença estável, até que houve a interrupção do fornecimento do medicamento Bevacizumabe (Avastin) pela parte ré, sob o argumento deque se trata de medicamento de uso experimental, não coberto pelo plano de saúde contratado, o que ensejou a troca do medicamento pelo fármaco Topotecano, e consequentemente, a progressão da doença" (fl. 327, e-STJ).
+Nesse contexto, quando do julgamento dos EREsps nºs 1.886.929/SP e 1.889.704/SP (rel. Ministro Luis Felipe Salomão, DJe 3/8/2022), a Segunda Seção desta Corte Superior uniformizou o entendimento de ser o Rol da ANS, em regra, taxativo, podendo ser mitigado quando atendidos determinados critérios.
+Assim, foram adotados os seguintes parâmetros para a apreciação de casos concretos:
+"1 - o Rol de Procedimentos e Eventos em Saúde Suplementar é, em regra, taxativo;
+2 - a operadora de plano ou seguro de saúde não é obrigada a arcar com tratamento não constante do Rol da ANS se existe, para a cura do paciente, outro procedimento eficaz, efetivo e seguro já incorporado ao Rol;
+3 - possível a contratação de cobertura ampliada ou a negociação de aditivo contratual para a cobertura de procedimento extra Rol;
+4 - não havendo substituto terapêutico ou esgotados os procedimentos do Rol da ANS, pode haver, a título excepcional, a cobertura do tratamento indicado pelo médico ou odontólogo assistente, desde que (i) não tenha sido indeferido expressamente, pela ANS, a incorporação do procedimento ao Rol da Saúde Suplementar; (ii) haja comprovação da eficácia do tratamento à luz da medicina baseada em evidências; (iii) haja recomendações de órgãos técnicos de renome nacionais (como CONITEC e NATJUS) e estrangeiros e (iv) seja realizado, quando possível, o diálogo interinstitucional do magistrado com entes ou pessoas com expertise técnica na área da saúde, incluída a Comissão de Atualização do Rol de Procedimentos e Eventos em Saúde Suplementar, sem deslocamento da competência do julgamento do feito para a Justiça Federal, ante a ilegitimidade passiva ad causam da ANS."
+No caso, contudo, não há elementos incontroversos no acórdão estadual que possam demonstrar, nesta instância especial, que os tratamentos assistenciais indicados estão enquadrados nos critérios de superação da taxatividade, devendo, portanto, o feito retornar ao Tribunal de origem para que, com base nos fatos e nas provas da causa, a apelação seja julgada conforme os parâmetros elaborados pela Segunda Seção.
+Ademais, diante da aplicabilidade imediata da lei nova, nos tratamentos de caráter continuado, deverão ser observados, a partir da sua vigência, os critérios trazidos pela Lei nº 14.454/2022, que alterou a natureza do Rol da ANS, de taxativo superável para exemplificativo condicionado, de modo que, conforme o art. 10, § 13,
+"(..)
+Em caso de tratamento ou procedimento prescrito por médico ou odontólogo assistente que não estejam previstos no rol referido no § 12 deste artigo, a cobertura deverá ser autorizada pela operadora de planos de assistência à saúde, desde que:
+I - exista comprovação da eficácia, à luz das ciências da saúde, baseada em evidências científicas e plano terapêutico; ou
+II - existam recomendações pela Comissão Nacional de Incorporação de Tecnologias no Sistema Único de Saúde (Conitec), ou exista recomendação de, no mínimo, 1 (um) órgão de avaliação de tecnologias em saúde que tenha
+renome internacional, desde que sejam aprovadas também para seus nacionais".
+Resta prejudica a outra tese levantada nas razões recursais.
+Ante o exposto, dou parcial provimento ao recurso especial para determinar o retorno dos autos à Corte de origem a fim de que julgue a apelação conforme os critérios estabelecidos pel a Segunda Seção nos EREsps nºs 1.886.929/SP e 1.889.704/SP.
+Publique-se.
+Intimem-se.
