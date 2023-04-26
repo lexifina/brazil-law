@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de recurso ordinário interposto por Dilson Zanatta contra acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (fl. 3.252):
+MEIO AMBIENTE HABEAS CORPUS PREVENTIVOTRANCAMENTO DE INQUÉRITO CIVIL - Procedimento administrativo instaurado para apurar a situação ambiental, especialmente áreas de preservação permanente e de reserva legal, em imóvel rural de propriedade do paciente
+FALTA DEINTERESSE DE AGIR CARACTERIZADA - Ausente ameaça concreta à liberdade de locomoção do paciente - Inexiste, ainda, demonstração de ilegalidade ou abuso de poder cometido pelo órgão ministerial na condução do inquérito civil instaurado
+INADEQUAÇÃO DA VIA ELEITA HABEAS CORPUS NÃOCONHECIDO.
+Alega o recorrente, em síntese, o seguinte:
+Diante da total impossibilidade de cumprir as inexequíveis exigências estipuladas pelo Inquérito Civil, diante da absoluta ilegitimidade passiva do paciente para responder pelo episódio de dano ambiental retratado e diante de encontrar-se acometido de propínqua possibilidade de ser privado de sua liberdade, nos termos dos artigos 38 e 40 da Lei nº 9.605/98, fez-se precípua a necessidade de garantir proteção a liberdade constitucional de locomoção do paciente, ensejando assim a impetração do remédio heroico denegado pela decisão ora recorrida.
+Contrarrazões às fls. 3.277-3.279.
+O Ministério Público Federal opinou pelo desprovimento do recurso nos termos da seguinte ementa:
+RECURSO EM HABEAS CORPUS. INSTAURAÇÃO DE INQUÉRITO CIVIL PÚBLICO PARA APURAÇÃO DE DANOS AMBIENTAIS EM ÁREAS DE PRESERVAÇÃO PERMANENTE.. PEDIDO DE TRANCAMENTO DO PROCEDIMENTO INVESTIGATIVO INSTAURADO. WRIT ORIGINÁRIO QUE AFASTOU O INTERESSE DE AGIR E PELA REGULARIDADE DO INQUÉRITO INSTAURADO. INVIABILIDADE DE TRANCAMENTO DO INQUÉRITO NA VIA ELEITA. TRANCAMENTO QUE SÓ É CABÍVEL EM SITUAÇÕES EXCEPCIONAIS E QUE NÃO EXIJAM O REEXAME DE PROVAS. PARECER PELO DESPROVIMENTO DO RECURSO ORDINÁRIO
+É o relatório.
+Passo a decidir.
+O Tribunal de origem, ao dirimir a controvérsia, asseverou que:
+Como se sabe, o habeas corpus constitui remédio constitucional vocacionado à tutela da liberdade de locomoção, ou seja, revela-se necessária sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder, nos termos do art. 5º, LXVIII, da Constituição Federal.
+Na hipótese dos autos, o impetrante pugna pelo trancamento do inquérito civil instaurado para apurar a situação ambiental, notadamente das áreas de preservação permanente e de reserva legal, em imóvel rural de propriedade do paciente.
+ ..
+Aduz o impetrante que o prosseguimento do inquérito civil pode ensejar em denúncia pelos crimes ambientais tipificados nos arts. 38 e 40 ambos da Lei 9.605/98, que preveem pena privativa de liberdade, justificando a impetração do habeas corpus.
+Ocorre que não restou demonstrado o interesse de agir no caso concreto, porquanto ausente ameaça concreta à liberdade de locomoção do paciente, bem como inexiste qualquer demonstração de ilegalidade ou abuso de poder cometido pelo órgão ministerial na condução do procedimento administrativo instaurado.
+Nesse cenário, o acórdão recorrido encontra-se conformado à jurisprudência do Superior Tribunal de Justiça no sentido de que "o habeas corpus não é a via adequada ao pleito de trancamento de inquérito civil, tendo em vista a inexistência de ameaça ou violação à liberdade de locomoção dos investigados, já que se destina à apuração de infrações passíveis de sanções administrativas ou civis" (RHC n. 34.329/RJ, relator Ministro Jorge Mussi, Quinta Turma, julgado em 23/4/2013, DJe de 8/5/2013).
+No mesmo sentido, confiram-se os seguintes julgados
+AGRAVO REGIMENTAL NO HABEAS CORPUS. INQUÉRITO CIVIL. INCONSTITUCIONALIDADE DE RECOMENDAÇÃO EXARADA PELO MP. INEXISTÊNCIA DE AMEAÇA À LIBERDADE DE LOCOMOÇÃO. HABEAS CORPUS. NÃO CABIMENTO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A orientação desta Corte é na direção de que o habeas corpus não é a via adequada ao pleito de trancamento de inquérito civil voltado para discussão sobre a constitucionalidade de recomendação exarada pelo Ministério Público, tendo em vista a inexistência de ameaça ou violação à liberdade de locomoção.
+2. A aventada possibilidade de prisão aventada pelos insurgentes decorre de ilação meramente hipotética. Não há, no caso, nenhuma medida concreta que permita inferir a existência de ameaça real ou de manifesto constrangimento ilegal à liberdade de locomoção, que autorize a utilização da via mandamental.
+2. Agravo regimental não provido.
+(AgRg no HC n. 583.649/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/6/2020, DJe de 1/7/2020.)
+RECURSO ORDINÁRIO EM HABEAS CORPUS. INQUÉRITO CIVIL PÚBLICO. APURAÇÃO DE SUPOSTA PRÁTICA DE ATOS DE IMPROBIDADE ADMINISTRATIVA. INEXISTÊNCIA DE AMEAÇA OU VIOLAÇÃO À LIBERDADE DE LOCOMOÇÃO. INADEQUAÇÃO DA VIA ELEITA. RECURSO A QUE SE NEGA PROVIMENTO.
+1. In casu, não há qualquer risco à liberdade de locomoção dos recorrentes, pois o prosseguimento de inquérito civil que investiga suposta improbidade administrativa pode acarretar, no máximo, sanções de ordem administrativa e civil, as quais não importam qualquer ameaça ao direito de ir e vir, pelo que incabível o manejo de habeas corpus na hipótese. Precedentes.
+2. Recurso a que se nega provimento.
+(RHC n. 32.531/MG, relator Ministro Jorge Mussi, Quinta Turma, julgado em 5/3/2013, DJe de 12/3/2013.)
+PROCESSUAL PENAL. HABEAS CORPUS. INSTAURAÇÃO DE PROCEDIMENTO ADMINISTRATIVO E INQUÉRITO CIVIL POR GRUPO DE ATUAÇÃO ESPECIAL DE REPRESSÃO AO CRIME ORGANIZADO. NOTIFICAÇÃO EXPEDIDA AO PREFEITO MUNICIPAL EXERCENTE, À ÉPOCA, DE CARGO DE SUPERINTENDENTE DE ADMINISTRAÇÃO TRIBUTÁRIA. PRERROGATIVA DE FORO. INEXISTÊNCIA DE IMPUTAÇÃO DE CONDUTA CRIMINOSA AO PREFEITO. NOTIFICAÇÃO PARA PRESTAR ESCLARECIMENTOS. INQUÉRITO CIVIL. AUSÊNCIA DE AMEAÇA AO DIREITO DE LOCOMOÇÃO DO PACIENTE. IMPROPRIEDADE DA VIA ELEITA. ORDEM NÃO CONHECIDA.
+1. O Prefeito Municipal, na qualidade de chefe do Poder Executivo Municipal, a teor do disposto no art. 29, X, da CF, tem prerrogativa de foro, devendo ser julgado pelo Tribunal de Justiça, caso venha a ser processado pela prática de crime.
+2. A notificação de Prefeito Municipal para prestar esclarecimentos não suscita, em seu favor, o foro por prerrogativa de função, especialmente quando não lhe é imputada nenhuma conduta criminosa.
+3. O habeas corpus é o remédio constitucional destinado a evitar ou a fazer cessar a violência ou a coação à liberdade de locomoção decorrente de ilegalidade ou abuso de poder, o que não se vislumbra na espécie.
+4. Ordem não conhecida.
+(HC n. 87.876/MS, relator Ministro Arnaldo Esteves Lima, Quinta Turma, julgado em 17/6/2010, DJe de 2/8/2010.)
+HABEAS CORPUS. INQUÉRITO CIVIL. AUSÊNCIA DE AMEAÇA À LIBERDADE FÍSICA. INDEFERIMENTO DE LIMINAR EM MANDADO DE SEGURANÇA. IMPETRAÇÃO COM EFEITO DE RECURSO. INDEFERIMENTO LIMINAR. (HC n. 123.343/SP, relator Ministro Luiz Fux, relator para acórdão Ministro Teori Albino Zavascki, Primeira Turma, julgado em 21/5/2009, DJe de 29/6/2009.)
+HABEAS CORPUS. INQUÉRITO CIVIL. APURAÇÃO DE IRREGULARIDADES NA CONTRATAÇÃO ADMINISTRATIVA. AUSÊNCIA DE AMEAÇA À LIBERDADE FÍSICA. TRANCAMENTO. INADEQUAÇÃO DA VIA ELEITA. INDEFERIMENTO LIMINAR.
+1. O habeas corpus é via idônea para alcançar o resguardo do direito do paciente de ir e vir, quando eventualmente ameaçado por imediata ou mediata coação ilegal ou abuso do poder. Não cabe tal remédio como instrumento para trancar inquérito civil para apuração de irregularidades na contratação administrativa, cujo prosseguimento pode acarretar, no máximo, sanções de ordem administrativa e civil, que não importam qualquer ameaça à liberdade pessoal do infrator. Precedentes.
+2. Não é possível, a pretexto de se aplicar princípio da fungibilidade, converter habeas corpus em mandado de segurança, atribuindo ao STJ competência para apreciar e julgar, originariamente, mandado de segurança fora das hipóteses previstas no art. 105, b, da CF.
+3. Tratando-se de ação originária, e não de recurso, não há que se falar em aplicação do princípio da non reformatio in pejus, instituto ligado à interposição de um recurso, e que veda ao Tribunal agravar a situação jurídica daquele que o interpôs.
+4. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 81.777/GO, relator Ministro Teori Albino Zavascki, Primeira Turma, julgado em 5/6/2007, DJ de 21/6/2007, p. 274.)
+Nesse cenário, ausente qualquer violação ou ameaça à liberdade de locomoção do paciente, ora recorrente, como reconhecido pelo Tribunal a quo, não se revela cabível a impetração de habeas corpus, de modo que se aplica à espécie o enunciado da Súmula n. 568/STJ, segundo o qual "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, com fulcro no art. 932, IV, do CPC/2015 c/c o art. 34, XVIII, b, do RISTJ, nego provimento ao recurso ordinário.
+Publique-se. Intimem-se.
+EMENTA
+CONSTITUCIONAL E PROCESSUAL CIVIL. AMBIENTAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. TRANCAMENTO DE INQUÉRITO CIVIL. APURAÇÃO DA SITUAÇÃO AMBIENTAL DE IMÓVEL RURAL. AUSÊNCIA DE VIOLAÇÃO OU AMEAÇA À LIBERDADE DE LOCOMOÇÃO. INADEQUAÇÃO DA VIA ELEITA. PRECEDENTES. ACÓRDÃO CONFORMADO À JURISPRUDÊNCIA DO STJ. SÚMULA N. 568/STJ. RECURSO ORDINÁRIO CONHECIDO E NÃO PROVIDO.
