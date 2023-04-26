@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo regimental interposto por EDSON DA SILVA CORREA contra decisão de fls. 405/409, de minha relatoria, em que foi indeferido liminarmente o habeas corpus em razão da ausência de constrangimento ilegal que justificasse a concessão da ordem de ofício.
+A defesa do agravante, inicialmente, informa que "o Parquet, paralelamente, por meio de Parecer ministerial, manifestou pela extinção da punibilidade do ora agravante diante de seu óbito (e-STJ Fl.321); por conseguinte, o Juízo da Vara Regional de Execuções Penais da Comarca de Curitibanos determinou o arquivamento do feito (e-STJ Fl. 336e 342)" (fl. 421).
+Ademais, insiste no pedido de afastamento da causa de aumento de pena referente à prática do crime durante o repouso noturno diante da incompatibilidade com o furto em sua forma qualificada. Defende a aplicação retroativa do entendimento firmado por esta Corte no Tema Repetitivo n. 1087.
+Requer a reconsideração da decisão agravada ou o provimento do presente recurso pela Turma Competente para "afastar a causa de aumento do repouso noturno, diante da incompatibilidade com o furto qualificado, com a redução das penas para 2 anos e 4 meses de reclusão e 11 dias-multa" (fl. 425). Pleiteia, ainda, a "observância da decisão do Juízo da Vara Regional de Execuções Penais da Comarca de Curitibanos que determinou o arquivamento do feito pela extinção da punibilidade do ora agravante por óbito" (fl. 425).
+Aberta vista ao Ministério Público Federal - MPF, este não apresentou manifestação (fl. 439).
+É o relatório.
+Decido.
+A decisão de fls. 405/409 merece ser reconsiderada, mas com a manutenção do indeferimento liminar do habeas corpus, por outras razões.
+Consoante informado pela própria defesa nas razões do agravo regimental, foi constatado pela Juíza das Execuções Penais, em 13/05/2022, o óbito do ora agravante EDSON DA SILVA CORREA, com extinção da sua punibilidade em relação aos Processos n. 5000238-36.2021.8.24.0039 (ação penal) e Processo n. 5008147-12.2019.8.24.0036 (execução penal), o que se confirma pelas decisões de fls. 336/345.
+Considerando que no momento da impetração do presente habeas corpus, em 20/03/2023, o paciente já tinha falecido, observa-se a ausência de interesse de agir em relação à reformulação da dosimetria da pena, haja vista que a sua punibilidade já tinha sido extinta nos autos da ação penal.
+Como se sabe, o habeas corpus é o remédio constitucional cabível sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, o que não se verifica, no caso, pois, repita-se, o paciente/agravante já se encontrava falecido na ocasião da impetração do writ.
+Nesse sentido: "o habeas corpus é instrumento jurídico destinado à tutela da liberdade de locomoção, não podendo ser utilizado em situações nas quais o direito de ir, vir ou permanecer não tenha sofrido lesão ou esteja ameaçado de limitação em face de constrangimento ilegal " (AgRg no HC n. 784.273/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 6/12/2022, DJe de 14/12/2022).
+Sendo assim, reconsidero a decisão agravada, mas mantenho o indeferimento do habeas corpus por ausência de interesse de agir.
+Publique-se.
+Intimem-se.
