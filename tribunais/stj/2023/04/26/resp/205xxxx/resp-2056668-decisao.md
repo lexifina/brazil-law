@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MUNICÍPIO DE LAGOA DE DENTRO, com fundamento na alínea "a" do permissivo constitucional, que desafia acórdão do Tribunal Regional Federal da 5ª Região assim ementado:
+EMENTA: RECONHECIMENTO PARCIAL DO PEDIDO. HONORÁRIOS ADVOCATÍCIOS INDEVIDOS QUANTO À PARTE RECONHECIDA POR DEVIDA LEI Nº 10.522/2002.
+1. Trata-se de apelação interposta pela Fazenda Nacional contra sentença que julgou parcialmente procedentes os pedidos formulados à inicial para: "a) declarar a inexistência de relação jurídica tributária entre as partes quanto às contribuições previdenciárias previstas no art. 22, incisos I e II da Lei nº.8.212/91 incidentes sobre as seguintes verbas: terço de férias indenizadas, aviso prévio indenizado e o afastamento por motivo de doença pelos quinze dias que antecedem o auxílio-doença. b) declarar o direito do autor à compensação dos valores pagos indevidamente, nos últimos 05 (cinco) ano (..)". Ao entendimento de que a parte autora decaiu em parte mínima do pedido, condenou a Fazenda Nacional em "honorários sucumbência, cuja definição do percentual será realizada em liquidação de Sentença nos termos do art. 85, § 4º, II, e do art. 86, ambos do CPC." (valor da causa: R$ 100.000,00)
+2. Em seu apelo, a Fazenda Nacional se insurge somente contra a condenação em honorários advocatícios. Afirma que: a) reconheceu expressamente a procedência de dois pedidos (aviso prévio e 15 dias que antecedem o auxílio-doença), reconheceu tacitamente um (férias indenizadas) e foi vencedora no terceiro (férias gozadas - tema 985).; b) como a contestação se limitou ao terço de férias gozadas e, nessa parte, o embargado foi sucumbente, nos termos do art. 19, § 1º da Lei nº. 10.522/2002, não deveria ter sido condenada ao pagamento de honorários de sucumbência. Pugna pelo provimento da apelação excluir a sua condenação em honorários advocatícios, invertendo a sucumbência, ao fundamento de que quanto ao único título em que houve controvérsia (incidência sobre as férias gozadas), a ora recorrente foi vencedora.
+3. No caso concreto, observa-se pela peça contestatória que Fazenda Nacional reconheceu a procedência dos pedidos no que se refere a não incidência da contribuição previdenciária sobre o aviso prévio indenizado e sobre a remuneração dos primeiros 15 dias de afastamento por doença ou acidente. Houve impugnação apenas quanto ao terço constitucional de férias e requerimento de incidência da prescrição quinquenal, aplicada pelo Magistrado na prolação da sentença, e compensação após o trânsito em julgado.
+4. Nos termos do art. 19, inciso VI, alínea a, e § 1º, inciso I, da Lei nº 10.522/2002, no caso de reconhecimento do pedido pela Fazenda Nacional, não haverá condenação em honorários.
+5. Destaque-se que o reconhecimento do pedido se deu na primeira oportunidade que a Fazenda Nacional teve para falar nos autos. Nesse contexto, verifica-se que assiste razão à Fazenda Nacional, uma vez que atuou reconhecendo o direito pleiteado em relação as verbas acima referidas. A impugnação citada foi sobre verba já reconhecida como devida pelo contribuinte pela Corte Suprema (RE 1.072.485/PR). Assim, não há que se falar em condenação em honorários advocatícios, conforme previsto no art. 19 da Lei10.522/02.
+6. Apelação provida.
+Em suas razões, o Município recorrente aponta violação do art. 85, §3º e §4º, do CPC/2015, sustentando que no caso dos autos não se pode afastar a condenação em honorários da Fazenda Nacional.
+Argumenta que "em causas em que não haja condenação em pecúnia, exatamente como na presente, o parâmetro a ser utilizado como base de cálculo dos honorários de sucumbência será o valor dado a causa, como prescreve o art. 85, §4º, III do CPC/15" (e-STJ fl. 323).
+Diz ainda que sucumbiu em parte mínima do pedido e que deve ser aplicado o art. 86, parágrafo único, do CPC/2015, devendo a parte recorrida ser condenada integralmente com as despesas e a verba sucumbencial.
+Contrarrazões apresentadas às e-STJ fls. 335/339.
+Decisão a quo de admissão do recurso especial às e-STJ fl. 341.
+Passo a decidir.
+O recurso especial origina-se de ação ordinária em que se pleiteia o afastamento da cobrança da contribuição previdenciária prevista no art. 22, inciso II da Lei nº. 8.212/91 sobre terço constitucional de férias, aviso prévio indenizado, primeiros quinze dias de afastamento.
+Em primeiro grau de jurisdição, o Juízo da 12ª Vara da Paraíba julgou parcialmente procedente o pedido (e-STJ fl. 208):
+a) declarar a inexistência de relação jurídica tributária entre as partes quanto às contribuições previdenciárias previstas no art. 22, incisos I e II da Lei nº. 8.212/91 incidentes sobre as seguintes verbas: terço de férias indenizadas, aviso prévio indenizado e o afastamento por motivo de doença pelos quinze dias que antecedem o auxílio doença.
+b) declarar o direito do autor à compensação dos valores pagos indevidamente, nos últimos 05 (cinco)anos, a contar do protocolo da ação, e no curso desta, a ser realizado na esfera administrativa, após o trânsito em julgado da sentença.
+28. Revogo em parte a tutela de evidência quanto ao terço de férias gozadas.
+29. Sobre o valor do indébito a compensar incidirá a taxa SELIC, excluído qualquer outro indicador de atualização monetária.
+30. Custas isentas (art. 4º, I da Lei nº. 9.289/1996).
+31. Ante a sucumbência do demandante em parte mínima, condeno a União ao pagamento de honorários de sucumbência, cuja definição do percentual será realizada em liquidação de Sentença nos termos do art. 85, § 4º, II, e do art. 86, ambos do CPC.
+Irresignada, a Fazenda Nacional interpôs recurso de apelação, que foi provida pelo Tribunal Regional. Vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (e-STJ fls. 304/306):
+No caso concreto, observa-se pela peça contestatória que Fazenda Nacional reconheceu a procedência dos pedidos no que se refere a não incidência da contribuição previdenciária sobre o aviso prévio indenizado e sobre a remuneração dos primeiros 15 dias de afastamento por doença ou acidente.
+Houve impugnação apenas quanto ao terço constitucional de férias e requerimento de incidência da prescrição quinquenal, aplicada pelo Magistrado na prolação da sentença, e compensação após o trânsito em julgado.
+Nos termos do art. 19, inciso VI, alínea a, e § 1º, inciso I, da Lei nº 10.522/2002, no caso de reconhecimento do pedido pela Fazenda Nacional, não haverá condenação em honorários.
+Destaque-se que o reconhecimento do pedido se deu na primeira oportunidade que a Fazenda Nacional teve para falar nos autos. Nesse contexto, verifica-se que assiste razão à Fazenda Nacional, uma vez que atuou reconhecendo o direito pleiteado em relação as verbas acima referidas.
+A impugnação citada foi sobre verba já reconhecida como devida pelo contribuinte pela Corte Suprema (RE 1.072.485/PR).
+Assim, não há que se falar em condenação em honorários advocatícios, conforme previsto no art. 19 da Lei10.522/02. Apelação provida.
+Pois bem.
+O recurso não merece ser conhecido.
+A parte recorrente deixa de impugnar, nas razões recursais, o fundamento do acórdão recorrido de que os honorários sucumbenciais foram afastados porque houve reconhecimento do pedido pela Fazenda Nacional, consoante art. 19, inciso VI, alínea a, e § 1º, inciso I, da Lei nº 10.522/2002 (e-STJ fl. 305):
+Nos termos do art. 19, inciso VI, alínea a, e § 1º, inciso I, da Lei nº 10.522/2002, no caso de reconhecimento do pedido pela Fazenda Nacional, não haverá condenação em honorários.
+Destaque-se que o reconhecimento do pedido se deu na primeira oportunidade que a Fazenda Nacional teve para falar nos autos. Nesse contexto, verifica-se que assiste razão à Fazenda Nacional, uma vez que atuou reconhecendo o direito pleiteado em relação as verbas acima referidas.
+Como se sabe, a falta de impugnação de todos os fundamentos em que se apoia o acórdão recorrido tem por consequência a incidência, por analogia, da Súmula 283 do STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente, e o recurso não abrange todos eles."
+Nesse sentido:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. FALTA DE PREQUESTIONAMENTO DOS ARTS. 3º, 113 E 128 DO CÓDIGO TRIBUTÁRIO NACIONAL. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 282/STF. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. APLICAÇÃO DO ÓBICE DA SÚMULA N. 283/STF. AUSÊNCIA DE COMANDO NORMATIVO EM DISPOSITIVO LEGAL APTO A SUSTENTAR A TESE RECURSAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. MULTA DO ART. 1.026 DO CPC. APLICAÇÃO NÃO ADEQUADA NA ESPÉCIE.
+ ..
+III - A falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283 do Supremo Tribunal Federal.
+IV - A jurisprudência desta Corte considera deficiente a fundamentação do recurso quando os dispositivos apontados como violados não têm comando normativo suficiente para infirmar os fundamentos do aresto recorrido, circunstância que atrai, por analogia, a incidência do entendimento da Súmula n. 284 do Supremo Tribunal Federal.
+V - O Agravante não apresenta argumentos suficientes para desconstituir a decisão recorrida.
+ ..
+VII - Agravo Interno improvido.
+(AgInt no REsp 1.714.321/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 22/05/2018, DJe 1º/06/2018).
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Sem fixação dos honorários recursais, ante a ausência de condenação ao pagamento de verba de advogado na instância ordinária.
+Publique m-se. Intimem-se.
