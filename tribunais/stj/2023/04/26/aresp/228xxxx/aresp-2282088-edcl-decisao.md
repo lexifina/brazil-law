@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por ANDERSON CORREIA DE LIMA, à decisão de fls. 281/282, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Sendo assim, não se levou em contas várias portarias do STJ, dentre elas a Portaria STJ/GP 470, de 27/09/2022 e Portaria STJ/GDG n. 843 de 09/11/2022 do STJ, bem como Art. 3º Resol.
+458/2004 e PC 1.380 e Portaria Conjunta nº 1.401/PR/2022 do TJMG, havendo omissão em relação a este tópico causando vários danos ao RECORRENTE.
+Ressalte-se a também a omissão em relação ao pedido de deferimento da gratuidade de justiça, sendo inclusive uma garantia constitucional, que vem sendo requerido desde a 1ª instâncias e o Judiciário até a presente data não se manifestou de forma clara sobre esse pedido (fl. 284).
+ ..
+Consta da decisão recorrida do STJ que o prazo inicial para interposição recursal foi dia 31/10/2022 e que a interposição em 25/11/2022 a torna intempestiva, o que não procede.
+Ocorre que, observando a certidão de comunicação e ciência do TJMG, a leitura automática a respeito da publicação da decisão referente ao recurso especial se deu no dia 28/10/22.
+Tal leitura só se deu na referida data, eis que há tempos o Dia do Servidor Público era comemorada dia 28 de outubro. Ocorre que referida data tanto para o TJMG, quanto para o STJ, foi transferida a comemoração para a última segunda-feira do mês de outubro, passando o dia 28/10/22, dia da leitura, ser considerado um dia útil em ambos calendários. Pode tal informação ser conferida pela Portaria STJ/GP 470, de 27/09/2022 do STJ, bem como Art. 3º Resol. 458/2004 e PC 1.380 do TJMG.
+ ..
+Verifica-se do comprovante de envio e ciência 2826628 - ANDERSON CORREIA DE LIMA que a data da efetiva intimação foi dia 28/10/2022 (sexta-feira, dia útil), conforme nº 5104963- 35.2018.8.13.0024/003-007, comunicação 0002826628/0028840112.
+Sendo certo, conforme calendário do TJMG, que 31/10/2022, foi o Dia do Servidor Público-Art. 3º Resol. 458/2004 e PC 1.380 (fl. 285).
+ ..
+Em 01/11/2022 foi a Suspensão Expediente TJMG - Portaria Conjunta Nº 1.380/PR/2022 e no STJ, Art. 81, 2º, IV, do RISTJ.
+Já em 02/11/2022 foi Finados-Lei Federal 662/49 (STJ e TJMG) e Res. 458/2004 TJMG.
+Iniciando-se então o prazo legal para interposição recursal em 03/11/2022, tanto pelo calendário do TJMG, quanto pelo calendário do STJ.
+Em 14/11/2022 Susp. Exp. Forense - Portaria da Presidência Nº 5.428/2021.
+15/11/2022 foi proclamação da República, considerado feriado nacional -Lei Federal 662/49(STJ e TJMG) e Res. 458/2004 TJMG.
+Em relação ao dia 24/11/2022, é possível verificar no site do STJ (Portaria STJ/GDG n. 843 de 09 de novembro de 2022) o funcionamento do tribunal durante a COPA DO MUNDO:
+O Superior Tribunal de Justiça (STJ) publicou a Portaria GDG 843/2022, que estabelece os horários de expediente da secretaria do tribunal e o atendimento ao público durante os jogos da Seleção Brasileira de Futebol na primeira fase da Copa do Mundo de 2022.
+Nos dias 24 de novembro e 2 de dezembro, o expediente será das 8h às 14h. Já no dia 28 de novembro, o funcionamento da corte vai ocorrer entre 7h e 11h. (..)
+Ainda segundo a portaria, a contagem dos prazos processuais observará o disposto nos artigos 219 e 224, parágrafo 1º, do Código de Processo Civil. Caso o dia do começo ou do vencimento do prazo caia nos dias dos jogos da Seleção Brasileira, esse fica adiado para o primeiro dia útil seguinte. (https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2022/10112022-STJ-define-horarios-de-expediente-durante-jogos-do-Brasil-na-Copa-do-Mundo.aspx ) Da mesma forma é o site do TJMG (Portaria Conjunta nº 1.401/PR/2022), sobre o expediente no Tribunal durante a Copa do Mundo 2022, temos: 24 de novembro de 2022 (quinta-feira): funcionamento das 7h30 às 13h.(..) (fl. 286).
+ ..
+Contando-se o prazo recursal de 15 dias, tanto pelo calendário do STJ, quanto pelo TJMG, o recurso interposto em 25/11/2022, está comprovadamente tempestivo (fl. 287).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada, no ato da interposição do recurso que pretende seja conhecido por este Tribunal, por documento oficial ou certidão expedida pelo Tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública.
+Nesse sentido, AgInt no AREsp 1542214/SP, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 9/6/2020; AgInt nos EDcl no AREsp 1553768/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/4/2020; e AgInt nos EDcl no AREsp 1379051/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 3/10/2019.
+Do mesmo modo, a jurisprudência entende que a mera transcrição do texto de artigo de resolução local no corpo da petição não elide a necessidade da apresentação do documento original para a comprovação da suspensão de prazo na Instância de origem. Nesse sentido, AgInt no AREsp 1158537/SP, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 8/8/2018; AgInt nos EDcl no AREsp 1421854/RJ, relator Ministro Marco Buzzi, Quarta Turma, DJe de 3/6/2019.
+Ademais, para a aferição da tempestividade do recurso dirigido ao STJ, é indiferente que tenha havido ou não expediente forense nesta Corte, pois o agravo e o recurso especial interpostos são endereçados ao presidente do tribunal a quo, regendo-se o respectivo prazo, em matéria de recesso forense e feriados, pela legislação local. Nesse sentido, o AgInt nos EDcl no AREsp 1482882/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 14/5/2020 e o AgInt no AREsp 1514470/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 5/12/2019.
+Registre-se que que o feriado nacional de 2/11/2022 não precisa ser comprovado. Porém, os dias 31/10/2022 e 24/11/2022, outras suspensões de prazo, deveriam ter sido comprovadas no momento da interposição do recurso.
+Quanto ao pedido de gratuidade de justiça, a jurisprudência desta Corte entende que a omissão do judiciário em analisar o pedido implica em seu deferimento tácito, sobretudo quando apresentado por pessoa física, a favor de quem se presume verdadeira a declaração de hipossuficiência (AgInt no AREsp 1.406.846/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 24/06/2019, DJe 28/06/2019, e, AgInt no REsp 1.744.453/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 20/05/2019, DJe 22/05/2019).
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
