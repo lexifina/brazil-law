@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo MUNICÍPIO DE SALVADOR, contra decisão que inadmitiu recurso especial manejado em face de acórdão proferido pelo eg. TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA.
+Consta dos autos que o MM. Juízo de primeiro grau indeferiu a petição inicial de execução contra a ora agravada, com declaração de extinção da punibilidade, pela prescrição, nos termos do art. 174 do CTN (fls. 82-83).
+O eg. Tribunal a quo negou provimento ao recurso de apelação cível ali interposto pelo ora agravante (fls. 99-107).
+Opostos embargos de declaração, pelo ora recorrente (fls. 111-113), foram eles rejeitados, à unanimidade de votos (fls. 116-125).
+Sobreveio recurso especial, interposto com fulcro no art. 105, inciso III, alínea a, da Constituição da República, no qual alegou violação "INOCORRÊNCIA DA PRESCRIÇÃO. OFENSA AO ART.160, PARÁGRAFO ÚNICO CiC ART. 174, E ART. 201, TODOS DO CTN" (fl. 132).
+Menciona, outrossim, que "como já assentado em doutrina e nos pretórios, a prescrição só se consuma quando conjugados dois elementos indissociáveis entre si: inércia do credor e decurso do prazo fixado em lei" (fl. 133).
+Requer, ao final (fl. 137):
+"o conhecimento e provimento do apelo especial, para que, anulado o acórdão recorrido, se determine o retorno dos autos ao egrégio Tribunal de Justiça do Estado da Bahia, com vistas ao suprimento das omissões declinadas nos embargos declaratórios, ou, na hipótese de entendimento diverso, para que esse colendo Tribunal Superior: (i) declare não prescritos o crédito de IPTU e TL, referente ao exercício de 2000, objeto da execução; ou (ii) determine que o Tribunal de Justiça considere como dies a quo da fluência do prazo de prescrição a data de vencimento dos tributos estabelecida pela legislação local."
+Certificada a não presentação das contrarrazões (fl. 140), o apelo especial teve seguimento negado e não foi admitido pelos seguintes fundamentos, quais sejam: a) aplicação do Tema n. 134/STJ (firmado em recurso especial repetitivo); b) aplicação da Súmula 284/STF; e c) incidência da Súmula n. 7/STJ (fls. 618-629).
+Nas razões do agravo, postula-se o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários a sua admissão (fls. 157-168).
+O Ministério Público Federal manifestou-se pelo não conhecimento ou pelo desprovimento do agravo em recurso especial (fls. 214-220).
+É o relatório.
+Decido.
+O agravo não merece ser conhecido.
+Conforme mencionado, o apelo especial teve seguimento negado e não foi admitido pelos seguintes fundamentos, quais sejam: a) aplicação do Tema n. 134/STJ (firmado em recurso especial repetitivo); b) aplicação da Súmula 284/STF; e c) incidência da Súmula n. 7/STJ (fls. 618-629).
+Neste agravo, contudo, a Defesa, resumidamente, limitou-se a reiterar os argumentos expendidos no apelo nobre. Com efeito, o agravante deixou de infirmar, de maneira adequada e suficiente, todas as razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial, qual seja, o fundamento relativo à incidência da Súmula n. 7/STJ.
+Quanto à incidência da Súmula n. 7/STJ, limitou-se a mencionar que "resta absolutamente desvinculada do presente recurso o verbete sumular nº 7 do STJ, na medida em que o único documento que este Tribunal Superior terá que se debruçar para a análise do Recurso Especial será o acórdão de fis. 87/92" (fl. 167).
+De fato, das razões colacionadas na irresignação, verifico que a parte não refutou a aplicação da Súmula 7/STJ de maneira adequada, pois deveria o agravante indicar como o acórdão recorrido enfrentou a questão posta em debate no recurso especial, bem como demonstrar a desnecessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no decisum a quo, o que não aconteceu.
+Conforme consignado pelo d. representante do Ministério Público Federal, em seu parecer (fl. 220):
+"20. Destarte, deflui-se da peça recursal que o Agravante não infirmou adequadamente os fundamentos do decisum impugnado, incidindo no óbice do enunciado nº 182 da Súmula desse Sodalício.
+21. Conclui-se, portanto, que a r. decisão agravada merece subsistir, eis que, efetivamente, o Recurso Especial interposto esbarra em óbices intransponíveis ao respectivo conhecimento."
+Com efeito , é entendimento desta Corte Superior que, "inadmitido o recurso especial com base na Súm. 7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível" (AgInt no AREsp 600.416/MG, Segunda Turma, Rel. Min. Og Fernandes, DJe 18/11/2016, grifei).
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SUMULAS 7 E 83 DO STJ. ALEGAÇÕES GENÉRICAS INCAPAZES DE INFIRMAR A DECISÃO RECORRIDA. SÚM. 182/STJ.
+I - Os recursos devem impugnar, de maneira específica e pormenorizada, os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos. Não são suficientes alegações genéricas sobre as razões que levaram à inadmissão do agravo ou do recurso especial ou a insistência do mérito da controvérsia, como ocorreu na hipótese.
+II - O entendimento do STJ é de que "não basta, para afastar o óbice da Súmula nº 83/STJ, a alegação genérica de que o acórdão recorrido não está em consonância com a jurisprudência desta Corte, devendo a parte recorrente demonstrar que outra é a positivação do direito na jurisprudência desta Corte, com a indicação de precedentes contemporâneos ou supervenientes aos referidos na decisão agravada (AgRg no AREsp n. 238.064/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 18/8/2014).
+III - Agravo regimental a que se nega provimento" (AgRg no AREsp n. 1.207.268/MG, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 19/12/2018, grifei).
+Desse modo, a ausência de impugnação, específica e fundamentada, dos fundamentos empregados pela eg. Corte de origem para impedir o trânsito do apelo nobre impede o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+Este é o teor do art. 932, inciso III, do Código de Processo Civil/2015, que autoriza o relator a não conhecer de recurso que tenha deixado de impugnar os fundamentos da decisão recorrida.
+Além do mais, o art. 253, inciso I, do Regimento Interno do Superior Tribunal de Justiça, com redação dada pela Emenda Regimental n. 22/2016, autoriza o relator a não conhecer do agravo que descumpra a tarefa de infirmar as razões de decidir que levaram ao trancamento do recurso especial.
+Ilustrativamente:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.FUNDAMENTO DA DECISÃO AGRAVADA NÃO ATACADO. APLICAÇÃO DO ART. 544, § 4º, I, DO CÓDIGO DE PROCESSO CIVIL - CPC DE 1973. INCIDÊNCIA DA SÚMULA 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Descabido o conhecimento do agravo em recurso especial quando o agravante deixa de impugnar especificamente algum dos fundamentos adotados na decisão que negou seguimento ao recurso especial.
+2. Agravo regimental desprovido" (AgRg no AREsp n. 842.493/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 16/5/2016).
+Conforme entendimento assentado nesta Corte, "deve a parte recorrente impugnar, de maneira específica e pormenorizada, todos os fundamentos da decisão contra a qual se insurge, não bastando a formulação de alegações genéricas em sentido contrário às afirmações do julgado impugnado ou mesmo a insistência no mérito da controvérsia" (AgRg no AREsp n. 705.564/MG, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe de 25/8/2015).
+Portanto, em respeito ao princípio da dialeticidade, a impugnação à decisão deve ser clara e suficiente a demonstrar o equívoco na sua negativa em todos os pontos indicados pela decisão que negou trânsito ao recurso.
+Diante do exposto, não conheço do agravo nos termos do art. 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça.
+P. e I.
+EMENTA
+PENAL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. AGRAVO EM RECURSO ESPECIAL QUE NÃO REFUTA TODOS OS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE. NÃO CONHECIMENTO. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
