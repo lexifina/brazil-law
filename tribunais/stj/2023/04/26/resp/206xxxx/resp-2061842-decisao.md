@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de recurso especial interposto por EDILENE PEREIRA DE AMORIM ALFAIX NATARIO e JERÔNIMO ALEXANDRE ALFAIX NATÁRIO, fundamentado exclusivamente na alínea "a" do permissivo constitucional, contra acórdão proferido pelo TJ/TO.
+Recurso especial interposto em: 26/01/2023.
+Concluso ao Gabinete em: 20/04/2023.
+Ação: reivindicatória cumulada com indenização por perdas e danos, ajuizada pelos recorrentes, em desfavor de AGRO INDÚSTRIA DE CEREAIS VERDES CAMPOS S/A e OUTROS, em virtude da alegação de que são os legítimos proprietários de área rural supostamente esbulhada em parte por estes.
+Sentença: julgou improcedentes os pedidos.
+Acórdão: negou provimento à apelação interposta pelos recorrentes, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. AÇÃO REIVINDICATÓRIA C/C INDENIZAÇÃO E PERDAS E DANOS. CERCEAMENTO DE DEFESA E AO DEVIDO PROCESSO LEGAL. PRELIMINAR AFASTADA. PERÍCIA TÉCNICA CONCLUIU QUE CANAL TERCIÁRIO DE DRENAGEM ATUALMENTE EXISTENTE NA ÁREA EM DISCUSSÃO NÃO É O MESMO CANAL DIVISOR DE MÓDULO QUE CONSTA NO MEMORIAL DESCRITO DOS REGISTROS DOS IMÓVEIS. SOBREPOSIÇÃO DE ÁREAS. REGISTRO DA PARTE REQUERIDA MAIS ANTIGO. AUSÊNCIA DE COMPROVAÇÃO DE POSSE INJUSTA. SENTENÇA MANTIDA.
+1. Compulsando os autos verifico que diferentemente do que é sustentado no recurso de apelação, foi oportunizada a participação da parte autora no contraditório, por meio de impugnação ao laudo pericial, bem como houve participação do perito na audiência de instrução respondendo aos questionamentos de ambas as partes. Em seguida, o julgador considerou que havia nos autos elementos probatórios necessários ao deslinde da causa, logo, não havia motivo para determinar a realização de nova perícia ou mesmo intimação para apresentação de alegações finais o que não caracteriza ofensa ao contraditório e ao devido processo legal. Assim, mostra apropriada a técnica de avaliação e valoração do laudo tal como feita pelo juízo a quo, que apreciou o trabalho da perícia e julgou o feito suficientemente instruído, sendo desnecessária a intimação para a apresentação de alegações finais, rejeitada, portanto, a alegação de cerceamento de defesa.
+2. Os apelantes aduzem que a área objeto da demanda, integra o Lote R da 4ª Etapa do Projeto Rio Formoso, neste Município de Formoso, e na divisa OESTE consta como marco divisor o CANAL DIVISOR que fica entre a 3ª etapa e a 4ª Etapa do referido Projeto de irrigação, construído pelo Governo do Estado de Goiás. Após a visita a campo o perito concluiu que o canal terciário de drenagem atualmente existente na área em discussão não é o mesmo canal divisor de módulo que consta no memorial descrito dos registros dos imóveis. O que corrobora com tal afirmação é a conclusão pericial de que a totalidade de área atualmente ocupada por ambas as partes que se aproxima ao valor de área contido nas duas escrituras públicas.
+3. Em que pese os fundamentos expostos pelos recorrentes, frente a este conjunto probatório exposto, verifico que os apelantes não se desincumbiram do ônus de demonstrar o fato constitutivo de seu direito, qual seja, a presença concomitante dos requisitos autorizadores para pleitear a retomada da coisa, nos termos do art. 373, I, do CPC e art. 1.228 do CC, motivo pelo qual a sentença há de ser confirmada.
+4. Recurso conhecido e não provido (e-STJ fls. 881-882).
+Embargos de declaração: opostos duas vezes pelos recorrentes, foram rejeitados.
+Recurso especial: aponta a violação dos arts. 480 e 1.022 do CPC/2015. Além de negativa de prestação jurisdicional, sustentam a violação do princípio do contraditório e da ampla defesa, tendo em vista a necessidade de realização de nova perícia técnica nos autos, pois, com base no resultado da medição e comparação com o perímetro lançado nos títulos, seria possível identificar onde e se haveria sobreposição de áreas.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC/2015
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente, acerca da desnecessidade de realização de nova perícia técnica nos autos, de maneira que os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC/15, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Do reexame de fatos e provas
+O TJ/TO assim se manifestou a respeito do pedido de realização de nova perícia nos autos:
+Compulsando os autos verifico que diferentemente do que é sustentado no recurso de apelação, foi oportunizada a participação da parte autora no contraditório, por meio de impugnação ao laudo pericial, bem como houve participação do perito na audiência de instrução respondendo aos questionamentos de ambas as partes.
+Em seguida, o julgador considerou que havia nos autos elementos probatórios necessários ao deslinde da causa, logo, não havia motivo para determinar a realização de nova perícia ou mesmo intimação para apresentação de alegações finais o que não caracteriza ofensa ao contraditório e ao devido processo legal.
+Assim, não vejo nulidade por cerceamento de defesa, uma vez que não foi apresentado pela parte impugnante fato relevante que justificasse determinar a realização de uma nova perícia apenas porque a parte entendia necessária essa prova (e-STJ fl. 883).
+Alterar o decidido no acórdão impugnado exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, com fundamento no art. 932, III, e IV, "a" do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nesta extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 11% (onze por cento) sobre o valor da causa (e-STJ fl. 888) para 14% (catorze por cento), observada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO REIVINDICATÓRIA CUMULADA COM INDENIZAÇÃO POR PERDAS E DANOS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação reivindicatória cumulada com indenização por perdas e danos.
+2. Ausentes os vícios do art. 1.022 do CPC/2015, rejeitam-se os embargos de declaração.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. Recurso especial parcialmente conhecido e, nesta extensão, não provido.
