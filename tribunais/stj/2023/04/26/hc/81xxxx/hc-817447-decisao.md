@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de EUNICE DO PRADO, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, nos autos da Revisão Criminal n. 0075981-16.2015.8.26.0000.
+Depreende-se dos autos que a paciente, que ostentava condenação definitiva pela prática dos crimes previstos no art. 33, caput, da Lei 11.343/2006, e art. 273, § 1º, c/c o § 1º-B, do Código Penal, às penas de 13 anos, 7 meses e 10 dias de reclusão, no regime inicial fechado, e 12 dias-multa teve, nesta Corte, a concessão da ordem, de ofício, nos autos do HC n. 417.310/SP, para que fosse determinado ao Tribunal de Justiça do Estado de São Paulo que refizesse a dosimetria da pena quanto ao delito previsto no artigo 273, § 1º-B, do Código Penal, aplicando o preceito secundário do artigo 33 da Lei n. 11.343/2006.
+A Corte local, nos autos da revisão criminal supra mencionada, deu cumprimento ao decidido por este Tribunal, refazendo a dosimetria das penas da paciente, que acabou por se manter inalterada em razão da aplicação do concurso formal de crimes (e-STJ, fls. 49/57).
+Neste writ (e-STJ, fls. 3/12), a defesa aponta constrangimento ilegal à paciente, uma vez que, embora tenha sido aplicado o preceito secundário do art. 33 da Lei n. 11.343/2006, as penas permaneceram as mesmas, porquanto não reconhecido o cometimento de crime único.
+Requer, ao final, na liminar e no mérito, a concessão da ordem para que, em razão da aplicação da consunção, seja mantida apenas a condenação pela prática do crime do art. 273, § 1º-B, do Código Penal.
+É o relatório. Decido.
+Verifico que a irresignação manifestada no presente mandamus tem por objeto tema suscitado no Habeas Corpus n. 488.730/SP, anteriormente impetrado em favor da paciente, cuja petição inicial fora indeferida liminarmente, por supressão de instância, uma vez que a possibilidade de aplicação da consunção não foi aventada pela defesa à época do julgamento da revisão criminal.
+Assim, trata-se de mera reiteração de insurgência que já fora apreciada por esta Corte, revelando-se incabível nova impetração para reexame do tema. Nesse sentido:
+AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. REITERAÇÃO DE PEDIDO ANTERIOR. AGRAVO NÃO CONHECIDO.
+1. Não se conhece do recurso ordinário em habeas corpus quando a questão nele levantada já foi analisada em outro mandamus, por caracterizar reiteração de pedido.
+2. No caso, deixou-se de analisar o recurso ordinário em habeas corpus, por se tratar de mera reiteração de pedido formulado no RHC n. 58.051/MT. 3. Agravo regimental não conhecido. (AgRg no RHC n. 60.885/MT, Rel. Ministro ERICSON MARANHO, Sexta Turma, DJe 15/12/2015).
+HABEAS CORPUS. TRÁFICO DE ENTORPECENTES E ASSOCIAÇÃO PARA O NARCOTRÁFICO. CONDENAÇÃO. INDEFERIMENTO DO RECURSO EM LIBERDADE. PRETENDIDA REVOGAÇÃO DA PRISÃO PREVENTIVA. QUESTÃO JÁ DEDUZIDA EM PRÉVIO WRIT. MERA REITERAÇÃO DE PEDIDO. ALEGADO EXCESSO DE PRAZO PARA O JULGAMENTO DA APELAÇÃO. PRINCÍPIO DA RAZOABILIDADE. ELEVADA QUANTIDADE DE PENA APLICADA. AUSÊNCIA DE OFENSA. CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. ORDEM DENEGADA.
+1. Tendo a tese da ilegalidade da prisão preventiva sido levantada em prévio recurso ordinário em habeas corpus interposto perante esta Corte Superior e, constatando-se que já houve o seu exame, tendo sido improvido, não merece conhecimento o writ nesse ponto, por se tratar de mera reiteração de reclamo anteriormente ajuizado.
+ ..
+4. Habeas corpus parcialmente conhecido, nesta extensão, denegada a ordem (HC n. 318.357/SP, Rel. Ministro JORGE MUSSI, Quinta Turma, DJe 28/5/2015).
+Ante o exposto, com base no art. 210 do Regimento Interno do STJ, indefiro liminarmente o habeas corpus.
+Traslade-se, para estes autos, cópia das decisões proferidas nos HCs n. 417.310/SP e 488.730/SP.
+Intimem-se.
