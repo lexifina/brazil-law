@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de ALEXANDRE MATEUS BUIAR no qual se aponta como autoridade coatora o Tribunal Regional Federal da 4ª Região (Agravo de Execução Penal n. 5002640-64.2023.4.04.7200).
+Depreende-se dos autos que o paciente foi condenado à pena de 6 anos, 9 meses e 20 dias de reclusão, em regime semiaberto, mais 675 dias-multa, pela prática do delito tipificado no art. 33, caput, c/c o art. 40, I, ambos da Lei n. 11.343/2006.
+Interposto agravo em execução penal na origem, o Tribunal local negou provimento ao recurso, em acórdão assim ementado (e-STJ fls. 13/14):
+AGRAVO EM EXECUÇÃO PENAL. REGIME SEMIABERTO. DEFERIMENTO DE CUMPRIMENTO DA PENA EM DOMICÍLIO. IMPOSIÇÃO DE CONDICIONANTES. SUBSTITUIÇÃO DA CONDIÇÃO DE PRESTAÇÃO DE SERVIÇOS À COMUNIDADE PELO USO DE TORNOZELEIRA ELETRÔNICA. PEDIDO DE DETRAÇÃO DAS HORAS DE PRESTAÇÃO DE SERVIÇO COMUNITÁRIO DO MONTANTE DA PENA PRIVATIVA DE LIBERDADE. IMPOSSIBILIDADE. AUSÊNCIA DE PREVISÃO LEGAL.
+1. Conforme dispõe o art. 42 do Código Penal, para efeitos de detração, somente "Computam-se, na pena privativa de liberdade e na medida de segurança, o tempo de prisão provisória, no Brasil ou no estrangeiro, o de prisão administrativa e o de internação em qualquer dos estabelecimentos referidos no artigo anterior."
+2. Considerando que ao agravante foi deferido o cumprimento da pena definitiva em regime semiaberto na sua própria residência, resta inaplicável o instituto da detração, de forma autônoma, com relação à condição de prestação de serviços comunitários, posteriormente revogada e substituída pelo monitoramento eletrônico como condicionante ao regime semiaberto harmonizado.
+3. Desprovido o agravo.
+Neste writ, a defesa aponta constrangimento ilegal decorrente da dúplice sanção na execução, por ser vedada a cumulação de pena privativa de liberdade com pena restritiva de direitos.
+Pontua que se faz "necessário pontuar que a pena restritiva de direitos, imposta ao paciente como condição ao regime semiaberto, está em condição de flagrante ilegalidade com a legislação vigente. Nos termos do art. 44 do Código Penal, as penas restritivas de direitos são autônomas. Por tais razões, a aplicação da pena privativa de liberdade concomitante com a pena restritiva de direitos, caracteriza o denominado e repudiado bis in idem. Suportado, incontestavelmente, pelo paciente" (e-STJ fl. 5).
+Assere que "admitir a possibilidade de prestação de serviços comunitários como condição de regime aberto implica em permitir que o sentenciado cumpra duas modalidades de pena pela mesma prática delitiva - dúplice sanção, situação pela qual foi submetido o paciente do writ, ora impetrado" (e-STJ fl. 6) e reforça que "a prestação de serviços comunitários realizada pelo paciente possui caráter de pena, sendo vedado imposição concomitante com qualquer outra espécie de pena" (e-STJ fl. 9).
+Por fim, afirma que "deve ser detraído da pena definitiva imposta ao paciente o tempo efetivamente cumprido da pena restritiva de direitos, nos termos do art. 46 do Código Penal, à razão de um dia de condenação por hora de serviço comunitário realizado" (e-STJ fl. 10).
+Dessa forma, requer, liminarmente e no mérito, a reforma da "decisão que indeferiu a detração da pena restritiva de direitos cumprida pelo paciente, devendo ser detraído da pena definitiva o tempo cumprido da pena restritiva de direitos, nos termos do art. 46 do Código Penal, à razão de um dia de condenação por hora de serviço comunitário realizado" (e-STJ fl. 11).
+É o relatório.
+Decido.
+Não obstante as razões declinadas, o impetrante não instruiu os autos com o ato coator que pretende impugnar, no caso, a decisão que indeferiu a detração da pena restritiva de direitos cumprida .
+Ressalte-se que o rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto à parte interessada.
+Nesse sentido, segue a jurisprudência do Superior Tribunal de Justiça:
+AGRAVO REGIMENTAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. PRISÃO PREVENTIVA MANTIDA EM PRONÚNCIA. INSTRUÇÃO DEFICIENTE. PRETENSÃO DE SIMPLES REFORMA. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS.
+1. Mantidos os fundamentos da decisão agravada, porquanto não infirmados por razões eficientes, é de ser negada simples pretensão de reforma (Súmula n.º 182 desta Corte).
+2. Cabe ao impetrante o escorreito aparelhamento do habeas corpus, bem como do recurso ordinário dele originado, indicando, por meio de prova pré- constituída, o constrangimento ilegal alegado.
+3. É inviável divisar, de forma meridiana, a alegação de constrangimento, diante da instrução deficiente dos autos, no qual se deixou de coligir cópia da decisão que decretou a prisão preventiva do acusado, documento imprescindível à plena compreensão dos fatos aduzidos no presente recurso.
+4. Agravo regimental desprovido. (AgRg no RHC n. 48.939/MG, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 23/4/2015, grifei.)
+PROCESSUAL PENAL. PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. AUSÊNCIA DE PEÇA ESSENCIAL À COMPREENSÃO DA CONTROVÉRSIA. DEFICIÊNCIA NA INSTRUÇÃO QUE IMPOSSIBILITA A ANÁLISE DO PEDIDO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É possível receber o pedido de reconsideração como agravo regimental, dada a identidade do prazo recursal e a inexistência de erro grosseiro.
+2. Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações e não comporta dilação probatória.
+3. Ausente cópia da decisão que decretou a prisão preventiva do acusado, a cujos fundamentos o juiz sentenciante remete para negar ao réu o direito de recorrer em liberdade, mostra-se inviável o exame do alegado constrangimento ilegal.
+4. Pedido de reconsideração recebido como agravo regimental, não provido. (RCD no RHC n. 54.626/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 2/3/2015, grifei.)
+Dessa forma, diante da ausência de prova pré-constituída das alegações, torna-se impossível analisar o suposto constrangimento ilegal.
+A mais disso, verifica-se que não foi colacionado aos autos, também, o voto cons tante do acórdão estadual.
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
