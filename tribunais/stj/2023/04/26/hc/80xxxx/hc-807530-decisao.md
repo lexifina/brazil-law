@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de ERIKA CONCEIÇÃO DE MORAES FRANÇA contra v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de Mato Grosso do Sul, nos autos da apelação criminal n. 0001328-63.2021.8.12.0019.
+Depreende-se dos autos que o paciente foi condenado, em primeira instância, pela prática do crime previsto no art. 33, caput, c.c. o art. 40, inciso V, ambos da Lei nº 11.343/06, à pena de 05 (anos) e 10 (dez) meses de reclusão e 583 (quinhentos e oitenta e três) dias-multa, a serem cumpridas igualmente em regime inicialmente semiaberto. (fls. 5-68).
+Inconformados, a defesa e o Ministério Público interpuseram apelações perante o eg. Tribunal de origem, que, por unanimidade, negou provimento ao apelo defensivo e proveu o recurso acusatório para fixar o regime fechado para início de cumprimento da pena, consoante voto condutor do v. acórdão de fls. 69-77.
+Dai o presente writ, onde a defesa aponta constrangimento ilegal, pois a paciente faz jus à aplicação do tráfico privilegiado.
+Aduz inexistir prova da dedicação da paciente à atividade delitiva ou da participação da acusada em organização criminosa.
+Assere que a quantidade de droga apreendida não é fundamento idôneo para afastar a benesse pleiteada.
+Aponta a primariedade da paciente.
+Defende a fixação do regime inicial semiaberto.
+Requer, assim, a concessão da ordem "PARA CONCEDER À PACIENTE,A APLICAÇÃO DO REDUTOR PREVISTO PELO §4º, ARTIGO 33 DA LEI 11.343/06, em seu grau máximo, bem como fixado o regime aberto, para o início do cumprimento da pena" (fl. 22).
+O pedido liminar foi indeferido às fls. 82-83.
+O Ministério Público Federal, às fls. 102-110, manifestou-se pelo não conhecimento do writ.
+É o relatório.
+Decido.
+Conforme relatado, busca-se na presente impetração a aplicação do tráfico privilegiado, com consequente fixação do regime mais brando.
+In casu, o Tribunal a quo - dentro do seu livre convencimento motivado - apontou elementos concretos dos autos a evidenciar que as circunstâncias em que perpetrado o delito em questão não se compatibilizariam com a posição de um pequeno traficante ou de quem não se dedica, com certa frequência e anterioridade, a atividades delituosas, motivo pelo qual não há como se aplicar o redutor previsto no art. 33, § 4º, da Lei n. 11.343/2006 em favor do paciente.
+Para tanto, destacou as instâncias de origem que "restou inegável a necessidade de organização criminosa para seu êxito, não somente pela grande quantidade apreendida (28 quilogramas de "skunk"), mas também pelo modus operandi da situação flagrada, onde segundo confissão detalhada dos próprios apelantes, especialmente de Érika Conceição, houve planejamento para o êxito da empreitada criminosa, inclusive com a disponibilização do carro pelo contratante. Além disso, toda a estrutura foi previamente feita pela organização criminosa, fazendo contato com a apelante Érika em São Paulo, posteriormente, por esta não saber dirigir o veículo que traria a droga, foi contratado Roderson para exercer a função de motorista. Além disso, percebe-se que o transporte foi todo amparado, com instruções para o êxito da empreitada delituosa." (fl. 74).
+Assim, diante da indicação de que o réu se dedica à atividade criminosa, não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio. A propósito: AgRg no HC n. 764.180/SP, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 24/3/2023; AgRg no HC n. 804.305/PR, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 17/3/2023 e AgRg no HC n. 758.030/MS, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 16/3/2023.
+Outrossim, é imperioso salientar que, para entender de modo diverso, afastando-se a conclusão de que a paciente não se dedicaria a atividades delituosas e/ou não integraria organização criminosa, seria necessário o revolvimento do conjunto fático-probatório amealhado durante a instrução criminal, providência, como cediço, vedada na via estreita do habeas corpus.
+Nesse sentido: AgRg no HC n. 737.868/MS, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe de 4/8/2022 e AgRg no HC n. 745.106/SP, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 8/8/2022.
+No tocante ao regime inicial de cumprimento de pena, conforme o disposto no art. 33, § 3º, do Código Penal, a sua fixação pressupõe a análise do quantum da pena, bem como das circunstâncias judiciais previstas no artigo 59 do mesmo diploma legal.
+In casu, verifico que inexiste flagrante ilegalidade a ensejar a concessão da ordem de ofício, uma vez que a valoração negativa das circunstâncias judicias indicadas no acórdão, justifica a fixação do regime fechado para o início do cumprimento da pena pelo paciente (fl. 75).
+A propósito: AgRg no HC n. 758.030/MS, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 16/3/2023; EDcl no AgRg no HC n. 658.192/SP, Sexta Turma, Rel. Min. Olindo Menezes (Desembargador Convocado do TRF 1ª Região), DJe de 1º/7/2022 e AgRg no HC n. 749.016/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 27/6/2022.
+Ante o exposto, denego a ordem de habeas corpus.
+P. e I.
