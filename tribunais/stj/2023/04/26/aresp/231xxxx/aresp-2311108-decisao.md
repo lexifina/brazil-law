@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por UNIMED SERGIPE COOPERATIVA DE TRABALHO MÉDICO, contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 29/11/2022.
+Concluso ao gabinete em: 17/04/2023.
+Ação: de obrigação de fazer ajuizada por EUDAS MACHADO em face da agravante, visando a cobertura do medicamento TERIPARATIDA para tratamento de osteoporose.
+Sentença: julgou parcialmente procedente a demanda para condenar a agravante no fornecimento do medicamento prescrito.
+Acórdão: negou provimento à apelação da agravante nos termos da seguinte ementa:
+APELAÇÃO CÍVEL - AÇÃO COMINATÓRIA e antecipação de Tutela -AUTOR PORTADOR DE OSTEOPOROSE DECORRENTE DETRATAMENTO DE CÂNCER - FORNECIMENTO DE MEDICAMENTOPOR PLANO DE SAÚDE CONTRATADO - DEVER DE AUTORIZAR OTRATAMENTO PRESCRITO PELO MÉDICO ESPECIALISTA -EXCEÇÃO PREVISTA NA PARTE FINAL DA ALÍNEA "G", II, ART 12DA LEI 9656/98
+- Considerando que a medicação FORTEO (Teriparatida), na hipótese em comento, se enquadra na parte final da alínea "g", II, art 12 da Lei 9656/98,revela-se abusiva a recusa do seu fornecimento devendo ser reconhecida a obrigatoriedade de cobertura pela operadora de saúde apelante. RECURSODESPROVIDO - DECISÃO UNÂNIME.
+Recurso especial: alega violação dos arts. 4º, III, da Lei 9961/2000 e 10, VI da Lei 9656/98. Sustenta a legalidade da exclusão de medicamento para uso domiciliar não previsto no rol de coberturas obrigatórias editado pela ANS.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da ausência de obrigação de a operadora de plano de saúde custear medicamento para tratamento domiciliar
+Segundo informa o laboratório detentor do registro do Fórteo (nome comercial da Teriparatida) na bula do paciente registrada na Anvisa, o medicamento é apresentado como "solução injetável, contendo 250 mcg de teriparatida por mL. Cada embalagem contém uma caneta aplicadora descartável", devendo ser administrado "em injeção subcutânea (abaixo da pele), na coxa ou abdome (área abaixo do estômago)" (https://consultas.anvisa.gov.br/#/medicamentos/25351178460200263/nomeProduto=forte).
+Trata-se, portanto, de medicamento para tratamento domiciliar a que alude o art. 10, VI, da Lei 9.656/1998, pois foi prescrito pelo médico assistente para ser autoadministrado pela paciente em seu domicílio, na medida em que seu uso não exige a intervenção de profissional de saúde habilitado, tampouco se verifica ser a hipótese de o medicamento ser administrado em ambiente domiciliar em substituição ao atendimento ambulatorial ou hospitalar.
+Ambas as Turmas que compõem a Segunda Seção do STJ, independentemente da discussão a respeito da natureza do rol da ANS, já decidiram que "é lícita a exclusão, na Saúde Suplementar, do fornecimento de medicamentos para tratamento domiciliar, isto é, aqueles prescritos pelo médico assistente para administração em ambiente externo ao de unidade de saúde, salvo os antineoplásicos orais (e correlacionados), a medicação assistida (home care) e os incluídos no rol da ANS para esse fim. Interpretação dos arts. 10, VI, da Lei nº 9.656/1998 e 19, § 1º, VI, da RN nº 338/2013 da ANS (atual art. 17, parágrafo único, VI, da RN nº 465/2021)" (REsp 1.692.938/SP, 3ª Turma, julgado em 27/4/2021, DJe de 4/5/2021; e REsp 1.883.654/SP, 4ª Turma, julgado em 08/6/2021, DJe de 02/8/2021).
+Nesse mesmo sentido, colhe-se os seguintes precedentes: AgInt no AREsp 2.058.484/MG, 4ª Turma, DJe de 26/8/2022; AgInt no REsp 1.981.905/MG, 3ª Turma, DJe de 17/8/2022; AgInt no REsp 1.973.853/SP, 4ª Turma, DJe de 11/5/2022; e AgInt no REsp 1.939.973/MG, 3ª Turma, DJe de 29/9/2021.
+Constata-se, pois, que o entendimento do TJ/SE que determinou a cobertura do medicamento domiciliar, está em desarmonia com a orientação desta Corte, sendo forçoso concluir que não há obrigatoriedade de custeio pela operadora do plano de saúde.
+Logo, merece reforma o acórdão recorrido, com fundamento na Súmula 568/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, V, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e DOU-LHE PROVIMENTO, para excluir a obrigação de custeio do medicamento teriparatida (Fórteo), fixando a integral sucumbência da parte recorrida, observada a concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. TRATAMENTO MEDICAMENTOSO DOMICILIAR. NEGATIVA DE COBERTURA. MEDICAMENTO PARA TRATAMENTO DOMICILIAR. COBERTURA OBRIGATÓRIA. INEXISTÊNCIA.
+1. Ação de obrigação de fazer, consistente no fornecimento do medicamento teriparatida (Fórteo), prescrito para o tratamento de osteoporose grave.
+2. Segundo a jurisprudência desta Corte, é lícita a negativa de cobertura de medicamento para tratamento domiciliar que não se enquadre em nenhuma das hipóteses de cobertura determinadas pela Lei 9.656/1998.
+3. Agravo conhecido. Recurso especial conhecido e provido.
