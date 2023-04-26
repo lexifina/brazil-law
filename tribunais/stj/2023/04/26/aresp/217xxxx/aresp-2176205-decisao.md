@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo em recurso especial manejado por FUNDACAO DE AMPARO A PESQUISA DO ESTADO DE SAO PAULO em face de decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que negou admissibilidade a recurso contra acórdão assim ementado:
+APELAÇÃO CIVEL. AÇÃO DE COBRANÇA. - PRESCRIÇÃO. OCORRÊNCIA. Bolsa de estudos. Pretensão da FAPESP de devolução de parcelas pagas diante de descumprimento de cláusula do "Termo de Outorga e Aceitação de Bolsa no Pais. Impossibilidade na espécie. Determinação de cancelamento da bolsa por despacho da Diretoria Científica em 2610211998. Ação ajuizada somente em 15/10/2007. Decurso do prazo prescricional quinquenal previsto no art. 1º do Decreto nº 20.910/1932. Sentença mantida. Majoração da verba honorária, nos termos do disposto no art. 85, § 11 do CPC115. Recurso não provido.
+No especial, alega-se, em síntese, que
+o litígio busca o ressarcimento de recursos públicos concedidos, consubstanciado em descumprimento contratual, ou seja, em obrigação de natureza pessoal, o que nos leva à aplicação da regra prescricional prevista no artigo 205 da Lei 10.406/2002 (Código Civil) e não do artigo 1º do Decreto 20.910/32.
+ ..  a incidência do artigo 205 do Código Civil. Ocorre, no entanto, que tal posicionamento não encontra respaldo na jurisprudência deste Tribunal Superior, que, acertadamente, entende que as relações obrigacionais entre Fundações de Direito Privado mantidas Poder Público, tal como a FAPESP, e particulares, submetem-se aos ditames do Código Civil  .. .
+Após juízo negativo de admissibilidade sobreveio o presente recurso.
+É o relatório. Decido.
+Não observo ter havido a alegada negativa de prestação jurisdicional, tendo em vista a fundamentação suficiente exarada na origem, a qual não deixou ao oblívio qualquer questão relevante, necessária, indispensável ao deslinde da controvérsia sob seu apreço. De comum sabença,
+não cabe ao Tribunal, que não e órgão de consulta, responder a "questionários" postos pela parte sucumbente, que não aponta de concreto nenhuma obscuridade, omissão ou contradição no acordão, mas deseja, isto sim, esclarecimentos sobre sua situação futura e profliga o que considera injustiças decorrentes do "decisum"  .. . (EDcl no REsp n. 739/RJ, relator Ministro Athos Carneiro, Quarta Turma, julgado em 23/10/1990, DJ de 12/11/1990, p. 12871, DJ de 11/03/1991, p. 2395).
+A premissa nos autos é de que a FAPESP não é fundação pública de direito privado, como alega a parte que recorre.
+Está no acórdão objurgado:
+A Lei Estadual nº 5.918/60, instituidora da Fundação de Amparo à Pesquisa do Estado de São Paulo, e o Decreto nº 40.132/62 (Estatuto) em nada consignam que o regime jurídico da Fundação será de direito privado, não sendo possível acolher as alegações da apelante neste sentido.
+Aliás, na própria qualificação da inicial (fls. 02) e na procuração a fls. 20, a apelante sé denomina como fundação de direito público.
+Desse modo, inaplicáveis os prazos prescricionais o previstos no Código Civil, sendo a relação sub judice regida pelo Decreto nº 20.910/1932, cujo art. 1º dispõe:
+Art. 1º - As dívidas passivas da União, dos Estados e dos Municípios, bem assim todo e qualquer direito ou ação contra a Fazenda ó federal, estadual ou municipal, seja qual for a sua natureza, prescrevem em a cinco anos contados da data do ato ou fato do qual se originarem.
+Para ir contra a referida premissa, é necessária a revisão do direito local, o que encontra óbice na Súmula nº 280/STF.
+Com efeito, especificamente sobre o recurso especial, a finalidade desse instrumento processual é a manutenção da autoridade e unidade da lei federal. Ou seja, não se encaixa, no âmbito do recurso especial, o exame tanto de questão de fato quanto de direito local. Nesse sentido, lembra Humberto Theodoro Jr:
+ ..  não basta o inconformismo da parte sucumbente para forçar o reexame do julgamento de tribunal local pelo Superior Tribunal de Justiça, por meio do recurso especial. Dito remédio de impugnação processual terá cabimento dentro de uma função política, qual seja, a de resolver uma questão federal controvertida. Por meio dele não se suscitam nem se resolvem questões de fato e nem questões de direito local (THEODORO JR. Humberto. Curso de Direito Processual Civil: Vol. 3 - Execução Forçada, Cumprimento de sentença, Processos nos Tribunais, Recursos, Direito Intertemporal. 54ª Ed. Rio de Janeiro: Forense, 2021).
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. FUNDAÇÃO DE DIREITO PÚBLICO ESTADUAL. INTERPRETAÇÃO DE DIREITO LOCAL. IMPOSSIBILIDADE. AGRAVO CONHECIDO E NÃO PROVIDO.
