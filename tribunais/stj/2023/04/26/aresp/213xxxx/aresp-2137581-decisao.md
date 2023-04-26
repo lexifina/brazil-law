@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por EDIFÍCIO ALPHA ENTERPRISE contra a decisão de fls. 215-217, que inadmitiu o recurso especial pelos seguintes fundamentos: a) ausência de violação dos arts. 489 e 1.022 do CPC; b) não demonstração da alegada violação dos arts. 186, 187, 927, 1.347 e 1.348 do CC; e c) aplicação da Súmula n. 7 do STJ.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Sustenta que, apesar da oposição de embargos de declaração, o Tribunal a quo deixou de enfrentar todos os argumentos deduzidos, sobretudo quando capazes de infirmar a conclusão adotada, tornando nulo o respectivo julgado.
+Ressalta que não pretende o reexame de matéria fática, devendo ser afastada a incidência da Súmula n. 7 do STJ.
+Aponta violação dos arts. 1.347, 1.348, VII, 927, 186 e 187 do CC, pois, ao negligenciar a outorga da procuração por quase 17 meses após o início do mandato, o recorrido deu azo à prescrição de contas condominiais de uma das unidades autônomas, cujo crédito excutido foi frustrado.
+O agravado apresentou contraminuta ao agravo em recurso especial.
+É o relatório. Decido.
+I - Da alegada negativa de prestação jurisdicional
+Afasta-se a alegada ofensa aos arts. 489 e 1.022, do CPC, visto que a Corte de origem examinou e decidiu, de modo claro, objetivo e fundamentado, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+Esclareça-se que o órgão colegiado não está obrigado a repelir to das as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+II - Da alegada violação dos arts. 186, 187, 927, 1.347 e 1.348 do CC
+Trata-se, na origem, de ação que visa à reparação material das cotas condominiais referentes à unidade 35 do condomínio autor que foram declaradas judicialmente prescritas, alegadamente por culpa do réu, que não promovera tempestivamente a execução/cobrança.
+O Tribunal de origem, amparado pelo acervo fático-probatório dos autos, afastou a responsabilidade do síndico por prescrição de débitos condominiais.
+Destacou que o síndico adotou tempestivamente as providências necessárias para a defesa do interesse do condomínio, pois "o e-mail de fl. 132 é datado de agosto de 2017, momento em que ainda não decorrido o prazo prescricional" (fl. 178).
+Ressaltou também (fl.178):
+Desta feita, inobstante a ocorrência de eventuais prejuízos ao condomínio, não há demonstração de que o réu teria agido com negligência, o que impede a procedência da ação. De outro lado, pressupõe-se a regularidade das contas do síndico, na medida em que não há notícia de sua impugnação, o que corrobora a aquiescência do condomínio com a administração do requerido.
+Consta dos autos o seguinte: a) as cotas vencidas e declaradas prescritas judicialmente dizem respeito ao período de abril a dezembro de 2013; b) o agravado foi eleito síndico do condomínio autor para exercício de gestão no período compreendido de 26 de abril de 2017 a 25 de abril de 2019; c) o réu outorgou instrumento de procuração aos causídicos que representavam os interesses do condomínio em 16/1/2019, tendo sido a ação de cobrança, por sua vez, proposta em 25 de janeiro de 2019.
+Consta ainda que foi enviado e-mail pelo administrador do condomínio, a pedido do agravado, endereçado aos advogados que representam o condomínio, datado de 28 de agosto de 2017, pelo qual foi definido que haveria "o início imediato do procedimento judicial em face dos inadimplentes, assim como em relação à defesa no protesto em que o Condomínio figura como parte devedora". Nesse sentido, solicitou "o envio da minuta de contrato de prestação de serviços entre seu escritório e o Condomínio".
+É cediço que a responsabilidade pessoal do síndico pelos atos praticados durante sua gestão é de natureza subjetiva, devendo ser demonstrados, além do dano, o nexo causal, a conduta e a existência de dolo e culpa. É o que se extrai do art. 927, c/c o art. 186, ambos do Código Civil.
+Por sua vez, de acordo com o art. 1.348 do Código Civil, cabe ao síndico, entre outras atribuições, representar ativa e passivamente, o condomínio, praticando, em juízo ou fora dele, os atos necessários à defesa dos interesses comuns. Também compete ao síndico o dever de cobrar dos condôminos suas contribuições, bem como impor e cobrar as multas devidas.
+Assim, da detida análise dos autos, constata-se que, de fato, não ocorreu o desenvolvimento de argumentação jurídica clara e precisa de como o Tribunal a quo teria ofendido o disposto nos dispositivos legais arrolados ou de como tenha dado interpretação divergente da adotada pelo STJ ou por outro tribunal.
+Ressalte-se que a simples alegação de que ocorreu violação de artigos não é suficiente para demonstrar a afronta a dispositivo legal.
+Por fim, afastar as conclusões do Tribunal de origem demandaria o necessário revolvimento do acervo fático-probatório dos autos, o que é vedado em recurso especial, nos termos da Súmula n. 7 do STJ.
+III - Conclusão.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
