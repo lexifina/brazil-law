@@ -1,0 +1,124 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+6ª Turma Cível
+Processo N.APELAÇÃO CÍVEL 0721962-16.2021.8.07.0007APELANTE(S)EVERTON LAGARES VEDOVATOAPELADO(S)ITAU UNIBANCO S.A.RelatorDesembargador ARQUIBALDO CARNEIRO
+ Acórdão Nº1696005
+
+EMENTA
+
+APELAÇÃO CÍVEL. DIREITO PROCESSUAL CIVIL E DO CONSUMIDOR. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO JURÍDICA CUMULADA COM DANOS MORAIS. INSTITUIÇÃO FINANCEIRA. CONTRATO DE ABERTURA DE CONTA E EMPRÉSTIMO. FRAUDE PRATICADA POR TERCEIRO. RESPONSABILIDADE OBJETIVA DA INSTITUIÇÃO FINANCEIRA. FORTUITO INTERNO. DANO MORAL. CABIMENTO. QUANTUM REPARATÓRIO. PRINCÍPIOS DA RAZOABILIDADE E DA PROPORCIONALIDADE.
+
+1. As instituições financeiras respondem objetivamente pelos danos gerados por fortuito interno relativo a fraudes e delitos praticados por terceiros no âmbito de operações bancárias (Enunciado de Súmula nº 479 do STJ).
+
+2. Evidencia-se que o autor, por falha na prestação dos serviços do réu, se viu importunado por cobranças indevidas, expressando situação peculiar que ultrapassa o parâmetro habitual considerado em relação a aborrecimentos e dissabores cotidianos, configurando dano moral.
+
+3. A negligência da instituição financeira em evitar fraudes em operações bancárias enseja a compensação por danos morais. No caso, embora o consumidor tenha passado por aborrecimentos em virtude dos fatos narrados, tal situação não lhe trouxe outros prejuízos como, por exemplo, ter seu nome incluído no cadastro de inadimplentes, sendo adequada a fixação de valor a título de compensação pelos danos morais sofridos.
+
+4. Apelo conhecido e provido. Ônus sucumbencial redistribuído.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 6ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, ARQUIBALDO CARNEIRO - Relator, VERA ANDRIGHI - 1º Vogal e ALFEU MACHADO - 2º Vogal, sob a Presidência do Senhor Desembargador LEONARDO ROSCOE BESSA, em proferir a seguinte decisão: CONHECIDO. PROVIDO. UNÂNIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 05 de Maio de 2023
+
+Desembargador ARQUIBALDO CARNEIRORelator
+
+RELATÓRIO
+
+Cuida-se de recurso de apelação interposto por EVERTON LAGARES VEDOVATO (apelante/autor) contra a r. sentença (ID 44914389) proferida pelo ilustre Juízo da 2ª Vara Cível de Taguatinga, que, nos autos da ação declaratória de inexistência de débito cumulada com indenização por danos morais movida em desfavor ITAÚ UNIBANCO S.A. (apelado/réu), julgou parcialmente procedentes os pedidos da exordial, nos seguintes termos (ID 44914389 - Pág. 2):
+
+“Com essas considerações, JULGO PARCIALMENTE PROCEDENTES os pedidos formulados inicial, tão somente para declarar a inexistência de contrato entre as partes e da dívida decorrente ora impugnada na presente relação processual, atinente às contas bancárias (corrente e poupança) n. 0079671-3, agência n. 0654, incluindo seus acessórios (cheque especial, empréstimos e cartão de crédito vinculados ao contrato n. 654796713).
+
+Ante a sucumbência recíproca, CONDENO as partes ao pagamento das despesas processuais, em partes iguais para cada litigante.
+
+Condeno cada litigante a pagar ao advogado da parte contrária honorários advocatícios no valor equivalente a 5% (cinco por cento) do. valor da causa. (...).”
+
+O apelante/autor, em suas razões recursais (ID 44914393), afirma que foi vítima de fraude bancária em decorrência de terceiro ter usado seus documentos para a abertura de conta, realização de empréstimo e levantamento de valores do cheque especial.
+
+Defende que o dano moral deve ser reconhecido. Aponta que houve diminuição em seu “score”, que recebeu diversas cobranças do banco apelado, mesmo depois deste ter sido formalmente cientificado da fraude.
+
+Diz que é reconhecido o direito à reparação dos danos morais advindos da indevida e injusta conduta do apelado/réu independentemente da negativação do nome do apelante/autor.
+
+Argumenta que havendo o ato ilícito por parte da instituição financeira torna-se prescindível a negativação do nome do apelante para a reparação por danos morais.
+
+Ao final, requer o conhecimento e provimento do recurso para que a r. sentença seja reformada para condenar o apelado ao pagamento da importância de R$ 10.000,00 (dez mil reais) a título de indenização por danos morais, bem como ao pagamento das despesas processuais e honorários advocatícios.
+
+Preparo ao ID 4914394 e ID 4914395.
+
+Ausentes contrarrazões, consoante certidão ao ID 44914403.
+
+É o relatório.
+
+VOTOS
+
+O Senhor Desembargador ARQUIBALDO CARNEIRO - Relator
+
+Presentes os pressupostos de admissibilidade, conheço do apelo no duplo efeito, nos termos do artigo 1.012 do Código de Processo Civil.
+
+Ausentes questões preliminares ou prejudiciais, passo à análise do mérito recursal.
+
+Do Mérito
+
+Assiste razão ao apelante/autor.
+
+O cerne da controvérsia recursal cinge-se, pois, em perquirir se é devida a compensação por danos morais ao apelante/autor diante do reconhecimento de ilícito negocial consistente na abertura de conta e realização de empréstimo diante do banco apelado/réu mediante fraude. Vejamos.
+
+A decisão de primeiro grau ao avaliar o quadro fático apresentado nos autos, concluiu que os danos experimentados pelo autor se circunscrevem à esfera patrimonial e os transtornos deles decorrentes limitam-se a meros dissabores da vida cotidiana, julgando improcedente o pedido de danos morais.
+
+Com a mais respeitosa vênia, a sentença merece reparo quanto a este capítulo.
+
+O dano moral decorre de uma violação de direitos da personalidade, atingindo, em última análise, o sentimento de dignidade da vítima. Pode ser definido como a privação ou lesão de direito da personalidade, independentemente de repercussão patrimonial direta, desconsiderando-se o mero mal-estar, dissabor ou adversidade do cotidiano, sendo que a sanção consiste na imposição de uma indenização, cujo valor é fixado judicialmente, com a finalidade de compensar a vítima, punir o infrator e prevenir fatos semelhantes que provocam insegurança jurídica.
+
+A doutrina e a jurisprudência estão apoiadas na assertiva de que o prejuízo imaterial é uma decorrência natural (lógica) da própria violação do direito da personalidade ou da prática do ato ilícito.
+
+Assim, o dano moral é in re ipsa, ou seja, de acordo com Sérgio Cavalieri Filho “deriva inexoravelmente do próprio fato ofensivo, de modo que, provada a ofensa está demonstrado o dano moral”. À parte lesada cumpre apenas provar os fatos ensejadores da reparação pretendida, sendo desnecessária a prova da violação ao direito da personalidade.
+
+No caso, tenho que os fatos de ter sido aberta conta perante o banco réu nome do apelante/autor, com a concessão de empréstimo e limite de cheque especial, e a consequente realização de cobranças dirigidas ao apelante/autor, não podem ser vistos como mero dissabor ou aborrecimento cotidiano. Principalmente quando se faz necessário o ajuizamento de demanda judicial para solução da falha na prestação do serviço bancário.
+
+Frise-se que, embora o apelado/réu afirme em sua contestação que adotou conduta conciliatória e efetuou o encerramento da conta de forma administrativa em 14/09/2021 (ID 44914365 - Pág. 3), é possível verificar que as cobranças não cessaram. Houve a persistência de cobrança por meio de mensagens (ID 44914349, ID 44914350 e ID 44914351), bem como por meio de e-mails (ID 44914346, ID 44914347 e ID 44914348) enviadas ao apelante/autor nos meses seguintes (setembro, outubro e novembro de 2021) que antecederam ao ajuizamento da presente ação (ajuizada em 14/12/2021).
+
+Neste sentido, resta configurado o dano moral a ser indenizado, porquanto os fatos aduzidos na exordial, diante da situação do consumidor, extrapolaram mero aborrecimento não indenizável.
+
+Registre-se que, em situações similares, esta Turma Cível já se posicionou no sentido de a negligência da instituição financeira em evitar fraudes em operações bancárias acarreta dano moral indenizável.
+
+Confiram-se:
+
+“APELAÇÃO CÍVEL. CIVIL. CONSUMIDOR. CONTRATO DE EMPRÉSTIMO CONSIGNADO. FRAUDE NO ÂMBITO DE OPERAÇÃO BANCÁRIA. ÔNUS DA PROVA. INSTITUIÇÃO FINANCEIRA. COBRANÇA INDEVIDA. DESCONTOS. BENEFÍCIO PREVIDENCIÁRIO. DANO MORAL IN RE IPSA. QUANTIFICAÇÃO. SÚMULA 479 STJ. JUROS DE MORA. DATA DO EVENTO DANOSO. SÚMULA 54 STJ. ERROR IN JUDICANDO. PRELIMINAR REJEITADA. SENTENÇA MANTIDA. 1. A controvérsia cinge-se à verificação de falha na prestação de serviço pela instituição financeira, e passível de compensação, a título de dano moral, bem como estabelecer o termo inicial dos juros de mora decorrente da condenação ao pagamento da referida indenização. 2. A partir da análise dos documentos juntados aos autos, verifica-se ser incontroverso que o autor foi vítima de fraude perpetrada por terceiro, porquanto o próprio réu reconheceu administrativamente o equívoco, estornou as quantias irregularmente debitadas e recebeu o mútuo de volta. 3. Imputar ao autor os débitos fraudulentos é ato ilícito, principalmente por promover descontos direto nos benefícios de sua aposentadoria junto ao INSS, que tem caráter alimentar. A fraude, ao integrar o risco das operações bancárias, caracteriza fortuito interno e, por isso, obsta a configuração da excludente do art. 14, § 3º, inc. II, do Código de Defesa do Consumidor. 4. A eventual atuação indevida de terceiro (fraude) não rompe o nexo causal entre a conduta da instituição financeira (falhas de segurança dos sistemas internos na avaliação das operações) e os danos suportados pelos consumidores, porquanto trata-se de fortuito interno (teoria do risco da atividade), relacionado aos riscos inerentes ao exercício da atividade lucrativa desempenhada pelo banco. A culpa exclusiva de terceiros, capaz de elidir a responsabilidade objetiva do fornecedor de produtos ou serviços, é somente aquela que se enquadra no gênero ´fortuito externo` (evento que não tem relação de causalidade com a atividade do fornecedor). 5. Cumpre ao autor provar o fato, o dano e o nexo causal com a conduta do agente (verossimilhança). Ao réu, cumpre demonstrar a prova da ocorrência de excludente de ilicitude apta a afastar a sua responsabilidade objetiva, conforme disposto no artigo 14, § 3º, do CDC, o que não ocorreu na presente hipótese. 6. A mera alegação de regularidade das operações financeiras e de culpa exclusiva da vítima, desacompanhada de documentos ou qualquer outro elemento de prova a infirmar os documentos e os fatos narrados na inicial, não isenta o banco da responsabilidade pelos danos causados por fraudes ou delitos praticados por terceiros, posto que decorrem do riscos da atividade, e caracterizam  fortuito interno. 7. Caracterizada a responsabilidade civil do banco réu, de reparar os danos decorrentes da fraude na celebração de contrato bancário, e resultando do ilícito débitos indevidos em prestações mensais descontadas diretamente do benefício previdenciário do autor/apelado, de natureza alimentar, resta configurada a ocorrência de dano moral. 8. Para a fixação do quantum, consideram-se as peculiaridades do caso concreto, a situação econômica das partes, o dano e sua extensão, sem que se descure da vedação ao enriquecimento sem causa, observando-se, ainda, os princípios da razoabilidade e da proporcionalidade, de modo que se afigura adequada a redução do montante arbitrado no valor de R$ 5.000,00, a título de compensação. 9. Nos termos do enunciado de Súmula n. 54 do Superior Tribunal de Justiça, os juros moratórios fluem a partir do evento danoso, em caso de responsabilidade extracontratual. No caso, o evento danoso corresponde à data do desconto da primeira parcela do empréstimo consignado contratado em nome do autor/apelado mediante fraude. 10. Recurso conhecido e provido em parte. Preliminar rejeitada.” (Acórdão 1675309, 07115710520218070006, Relator: SONÍRIA ROCHA CAMPOS D'ASSUNÇÃO, 6ª Turma Cível, data de julgamento: 8/3/2023, publicado no DJE: 23/3/2023.)
+
+“APELAÇÃO CÍVEL. DIREITO CIVIL E DO CONSUMIDOR. AÇÃO DE CONHECIMENTO. GOLPE BANCÁRIO. RESPONSABILIDADE DA INSTITUIÇÃO FINANCEIRA POR FORTUITO INTERNO. DANO MATERIAL. DANO MORAL CONFIGURAÇÃO.  A teor do que dispõe a Súmula nº 297, do Superior Tribunal de Justiça, aplica-se o Código de Defesa do Consumidor às instituições financeiras. Nos termos do artigo 14, do Código de Defesa do Consumidor, a instituição financeira responde, objetivamente, pela reparação dos danos causados aos consumidores por defeitos relativos à prestação de serviços, sendo suficiente a comprovação do dano, da conduta do prestador de serviço e o nexo de causalidade entre ambos. A Súmula 479, do Superior Tribunal de Justiça, estabelece que as instituições financeiras respondem objetivamente pelos danos gerados por fortuito interno relativo a fraudes e delitos praticados por terceiros no âmbito de operações bancárias. Verificado que o réu concorreu para o evento danoso pela ausência de cautela na verificação da veracidade e autenticidade da transação, fica evidenciada a falha na prestação do serviço, apta a ensejar a reparação dos danos materiais e morais suportados pelo consumidor. A falha de segurança da autenticidade das transações não se enquadra em mero descumprimento contratual, tampouco dissabor cotidiano, de modo que, demonstrada a falha do réu na prestação e segurança do serviço, resta configurada ofensa à dignidade do autor, motivo pelo qual há o dever de indenizar os danos morais suportados.” (Acórdão 1658018, 07345073920218070001, Relator: ESDRAS NEVES, 6ª Turma Cível, data de julgamento: 25/1/2023, publicado no DJE: 13/2/2023.)
+
+“APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR. CONTRATOS DE FINANCIAMENTO E DE VENDA DE VEÍCULO REALIZADOS EM NOME DO AUTOR POR TERCEIRO. FRAUDE. CONSUMIDOR POR EQUIPARAÇÃO. BYSTANDER. FALHA NA PRESTAÇÃO DO SERVIÇO. NULIDADE CONTRATUAL RECONHECIDA. NECESSIDADE DE COMPENSAÇÃO POR DANOS MORAIS. RECURSO CONHECIDO E PARCIALMENTE PROVIDO. HONORÁRIOS MAJORADOS. 1. O Código de Defesa do Consumidor-CDC prevê que o fornecedor responde, independentemente da existência de culpa, pela reparação dos danos causados aos consumidores por defeitos relativos a produtos ou prestação dos serviços, bem como por informações insuficientes ou inadequadas sobre sua fruição e riscos, salvo quando provar a inexistência de defeito ou culpa exclusiva do consumidor ou de terceiros (arts. 12 a 14). 2. Os contratantes são responsáveis por verificar - com cautelas - os dados no momento da contratação. Eventuais falhas internas de segurança devem ser constatadas antes da formalização do negócio jurídico. A falta de segurança da instituição financeira e da empresa de venda do veículo - que possibilita a ocorrência de fraudes e delitos praticados por terceiros - constitui falha na prestação do serviço, por ofender a legitima expectativa de segurança do consumidor. 3. A jurisprudência é firme no sentido da responsabilidade civil objetiva dos danos decorrentes de fraudes contratuais, nos termos da Súmula 479 do Superior Tribunal de Justiça (STJ): "As instituições financeiras respondem objetivamente pelos danos gerados por fortuito interno relativo a fraudes e delitos praticados por terceiros no âmbito de operações bancárias". 4. Entre outras excludentes, afasta-se a responsabilidade por fato exclusivo do consumidor. No caso, inexiste qualquer indício de que o apelante tenha contribuído para a realização da fraude. Os apelados não adotaram medidas de cautela para verificar a veracidade e autenticidade da contratação efetivada pelo fraudador. 5. Analisar aspectos gerais e garantir a veracidade de contratações de financiamentos são tarefas inerentes à atividade profissional do banco. Da mesma forma, é a responsabilidade da empresa de venda de veículos em zelar pela idoneidade do contrato firmado com seu cliente. Houve falha injustificável na prestação do serviço, afetando-se interesses de terceiro - consumidor por equiparação (art. 17 do CDC). 6. No debate sobre dano moral, é importante notar a autonomia do direito à integridade psíquica (dor). A compensação por dano moral pode se dar unicamente por ofensa ao referido direito, sem que isso signifique, necessariamente, adoção da corrente doutrinária que apenas reconhece o dano moral quando há afetação negativa do estado anímico de alguém (dor). 7.  No tocante ao quantum compensatório arbitrado, na ausência de critérios objetivos para a fixação do valor, deve o magistrado verificar se houve ofensa a mais de um direito da personalidade e, paralelamente, se pautar nos princípios da proporcionalidade e da razoabilidade, com a compensação do mal injusto experimentado pela vítima. Ponderam-se o direito violado, a gravidade da lesão (extensão do dano), as circunstâncias e consequências do fato. O valor não pode configurar enriquecimento exagerado da vítima.  Ademais, é pacífico na jurisprudência o caráter punitivo e pedagógico da condenação por dano moral, o que enseja análise da situação financeira do autor da lesão.  8. Os apelados devem pagar a quantia de R$ 5.000,00 a título de compensação por danos morais, valor que atende aos princípios da proporcionalidade e razoabilidade. 9. Recurso conhecido e parcialmente provido. Honorários majorados.” (Acórdão 1647100, 07069435120228070001, Relator: LEONARDO ROSCOE BESSA, 6ª Turma Cível, data de julgamento: 30/11/2022, publicado no DJE: 16/12/2022.)
+
+“APELAÇÃO CÍVEL. CONSUMIDOR. AÇÃO DECLARATÓRIA DE NULIDADE DE CONTRATOS DE MÚTUO E RESTITUIÇÃO DE VALORES C/C COMPENSAÇÃO POR DANOS MORAIS. EMPRÉSTIMO REALIZADO MEDIANTE FRAUDE. DESCONTO INDEVIDO EM FOLHA DE PAGAMENTO. RESTITUIÇÃO. FORMA SIMPLES. FALHA NA PRESTAÇÃO DO SERVIÇO. DANOS MORAIS EXISTENTES. RECURSO PARCIALMENTE PROVIDO.  1. Contratação mediante fraude de terceiro, embora a instituição financeira também seja vítima, responde, objetivamente pelos danos causados ao consumidor, de forma que se apresenta correta a sentença que declara a nulidade dos respectivos contratos e, diante do contexto, condena o banco a devolver os valores debitados indevidamente do contracheque da parte autora. 2. O débito indevido de parcelas de empréstimo contratado por meio de fraude não evitada pelo banco, na folha de pagamento do autor, desencadeado pela má prestação do serviço ofertado pela instituição financeira ré ultrapassa a esfera do mero dissabor, representando ofensa ao direito da personalidade do autor, consubstanciada na perda de valor de salário necessário para pagar as contas mensais, justificando, pois, a compensação por danos morais. 3. A quantificação dos danos morais deve obedecer a critérios de razoabilidade e proporcionalidade, levando-se em conta, além da necessidade de compensação dos danos sofridos, as circunstâncias do caso, a gravidade do prejuízo, a situação do ofensor (banco) e a prevenção de comportamentos futuros análogos. Normativa da efetiva extensão do dano (CC, art. 944).  4. O parágrafo único do art. 42 do CDC prevê a possibilidade da repetição de indébito, por valor igual ao dobro do que foi pago, acrescido de correção monetária e juros legais, desde que a cobrança seja desprovida de fundamento e demonstrada a má-fé, dolo ou malícia no propósito de lesar o consumidor. 4.1. A restituição deve se dar de forma simples se as provas dos autos não demonstram comportamento de má-fé, doloso ou malicioso por parte da instituição financeira. 5. RECURSO PARCIALMENTE PROVIDO.” (Acórdão 1617987, 07257574220218070003, Relator: ALFEU MACHADO, 6ª Turma Cível, data de julgamento: 14/9/2022, publicado no PJe: 28/9/2022.)
+
+“APELAÇÃO CÍVEL. PROCESSO CIVIL. CONSUMIDOR. AÇÃO DE CONHECIMENTO. INSTITUIÇÃO FINANCEIRA. CONTRATO DE CARTÃO DE CRÉDITO. ALEGAÇÃO DE NOVA QUESTÃO DE FATO. PRECLUSÃO. IMPOSSIBILIDADE. INOVAÇÃO RECURSAL. FRAUDE NA CONTRATAÇÃO. RESPONSABILIDADE CIVIL DA INSTITUIÇÃO FINANCEIRA. SÚMULA 479 STJ. DANOS MORAIS. VALOR DA COMPENSAÇÃO. SUCUMBÊNCIA RECÍPROCA E NÃO EQUIVALENTE. REDISTRIBUIÇÃO DA RESPONSABILIDADE PELOS ÔNUS DA SUCUMBÊNCIA. SENTENÇA REFORMADA EM PARTE.  1. A tese apresentada no recurso interposto pelo banco réu se embasa em documento não apresentado na instância de origem. Referida inovação não se reporta à exceção prevista no art. 1.014, do CPC, razão pela qual não se mostra possível conhecer da questão em sede recursal, sob pena de ofensa ao contraditório e à supressão de instância. 2. As instituições financeiras, como prestadoras de serviços de natureza bancária, respondem objetivamente pelos danos causados ao consumidor em virtude da má prestação do serviço, com base na teoria do risco da atividade (art. 14 do CDC). 3. O banco requerido não logrou comprovar a legitimidade da contratação questionada na presente demanda, tampouco demonstrou o envio do aludido cartão de crédito à residência do autor ou a remessa de faturas decorrentes da sua utilização. Além disso, os instrumentos contratuais apresentados por ocasião da defesa não correspondem àquele em debate na inicial e, com a juntada de extratos da conta do demandante, verificou-se a inexistência de recebimento de qualquer quantia proveniente da instituição financeira ré. 4. "As instituições financeiras respondem objetivamente pelos danos gerados por fortuito interno relativo a fraudes e delitos praticados por terceiros no âmbito de operações bancárias." (Súmula 479 - STJ) 5. A doutrina e a jurisprudência demonstram que o prejuízo imaterial é uma decorrência natural da violação do direito da personalidade ou da prática do ato ilícito. 6. Evidente que o caso sob exame, em que o autor, por falha na prestação dos serviços pelo réu/apelado, viu sua situação financeira em desordem em virtude de indevidos descontos diretos de sua aposentadoria por invalidez, expressa situação peculiar que claramente ultrapassa o parâmetro habitual considerado em relação a aborrecimentos e dissabores cotidianos, configurando nítido dano moral. 7. A distribuição dos ônus de sucumbência deve ser ajustada com a apreciação no número de pedidos formulados e da proporcionalidade do decaimento das partes em relação a esses pleitos. 8. Apelo da parte ré não conhecido. Deu-se parcial provimento ao apelo do autor para fixar valor compensatório de danos morais e para se redistribuir a responsabilidade pelos ônus de sucumbência.” (Acórdão 1387134, 07029992220198070009, Relator: ARQUIBALDO CARNEIRO PORTELA, 6ª Turma Cível, data de julgamento: 17/11/2021, publicado no DJE: 6/12/2021.)
+
+Certo do dever de indenizar, passo à apreciação do quantum.
+
+O valor dos danos morais, em qualquer situação, deve ser arbitrado em consonância com os princípios da razoabilidade e da proporcionalidade, ou seja, sem exacerbação dos valores, a fim de não conduzir ao famigerado enriquecimento sem causa (CC, art. 884), e proporcional ao dano causado.
+
+Há de se atentar para a extensão da dor, do sentimento, das marcas deixadas pelo evento danoso, e ainda as condições sociais e econômicas da pessoa obrigada (no caso, instituição bancária), além da prevenção de comportamentos futuros análogos.
+
+Em suma, deve ser cumprida a normativa que trata da efetiva extensão do dano, por inteligência do artigo 944 do Código Civil: “A indenização mede-se pela extensão do dano”.
+
+Sob esse prisma, em homenagem aos princípios da razoabilidade e da proporcionalidade, embora o demandante da causa tenha passado por aborrecimentos em virtude do fato ocorrido, tal situação não lhe trouxe outros prejuízos como, por exemplo, ter seu nome incluído no cadastro de inadimplentes ou ter sido impedido de realizar outros negócios jurídicos, desse modo, tenho por adequada a fixação do valor a título de compensação pelos danos morais sofridos em R$ 5.000,00 (cinco mil reais).
+
+Com essas considerações, deve a sentença combativa ser parcialmente reformada para condenar a parte requerida a pagar ao autor o valor de R$5.000,00 a título de danos morais.
+
+Do Dispositivo
+
+Ante o exposto, conheço e DOU PROVIMENTO ao apelo para reformar a r. sentença e julgar procedente o pedido inicial para condenar o banco réu ao pagamento de verba compensatória por danos morais, no valor de R$5.000,00 (cinco mil reais), corrigido monetariamente a partir da data do presente julgamento e acrescido de juros de mora de 1% (um por cento) ao mês, a contar da citação.
+
+Ante ao resultado deste julgamento verifica-se a sucumbência total da parte ré. Redistribuo, pois, os ônus sucumbenciais e condeno a parte ré ao pagamento das custas processuais e dos honorários advocatícios que fixo em 15% (quinze por cento) sobre o valor da condenação, em atenção ao disposto no artigo 85, §2º, do Código de Processo Civil.
+
+Sem majoração de honorários recursais, por força da orientação firmada pelo c. STJ no julgamento do AgInt nos EREsp 1.539.725/DF.
+
+É o meu voto.
+
+A Senhora Desembargadora VERA ANDRIGHI - 1º Vogal Com o relatorO Senhor Desembargador ALFEU MACHADO - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECIDO. PROVIDO. UNÂNIME.
