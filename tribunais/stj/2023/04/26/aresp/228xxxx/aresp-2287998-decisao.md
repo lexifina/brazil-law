@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto por ARTEFATOS DE METAIS CONDOR LTDA contra decisão que inadmitiu recurso especial manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado:
+APELAÇÃO - ANULATÓRIA DE DÉBITO FISCAL - ICMS - AUTO DE INFRAÇÃO E IMPOSIÇÃO DE MULTA (AIIM) - AUTORA AUTUADA EM VIRTUDE DO NÃO RECOLHIMENTO DO TRIBUTO SOBRE A TRANSFERÊNCIA DE MERCADORIAS ENTRE MATRIZ E FILIAL - EXAÇÃO QUE NÃO SUBSISTE, AINDA QUE FEITA ENTRE ESTADOS DIVERSOS - INTELIGÊNCIA DA SÚMULA Nº 166 DO E. SUPERIOR TRIBUNAL DE JUSTIÇA  PRECEDENTES DESTA C. CÂMARA, DO E. STJ E DO E. STF - SENTENÇA MANTIDA NESSE PONTO - UTILIZAÇÃO DA TAXA SELIC PARA FINS DE CORREÇÃO DO CRÉDITO TRIBUTÁRIO. PACIFICADO O ENTENDIMENTO ACERCA DA SUA ADMISSIBILIDADE EM RELAÇÃO AO ICMS - AFASTAMENTO, CONTUDO, DOS CRITÉRIOS ESTABELECIDOS PELA LEI ESTADUAL N.º 13.918/09 - QUESTÃO JÁ DECIDA PELO C. ÓRGÃO ESPECIAL DESTA CORTE EM ARGUIÇÃO DE INCONSTITUCIONALIDADE. DECLARANDO A INCONSTIHICIONALIDADE DA INTERPRETAÇÃO DADA PELO FISCO ESTADUAL - SENTENÇA MANTIDA NESSE PONTO - INOCORR NCIA DE JULGAMENTO EXTRA PETITA. ÔNUS SUCUMBENCIAIS - TENDO O RÉU SUCUMBIDO EM PARTE MÍNIMA DO PEDIDO, IMP E-SE A REFORMA DA R. SENTENÇA PARA QUE AS DESPESAS PROCESSUAIS E A VERBA HONORÁRIA SEJAM CARREADAS INTEGRALMENTE Á AUTORA, NOS TERMOS DO ART. S6, PARÁGRAFO ÚNICO DO CÓDIGO DE PROCESSO CIVIL - SENTENÇA PARCIALMENTE REFORMADA - APELO DO RÉU PARCIALMENTE PROVIDO. PREJUDICADO O RECURSO ADESIVO DA AUTORA.
+Opostos embargos de declaração foram rejeitados.
+No recurso especial, fundamentado na alínea "a" do permissivo constitucional, o recorrente sustenta violação do art. 85, § 2º, do Código de Processo Civil, asseverando que houve incorreta distribuição dos ônus sucumbenciais na medida em que, diferentemente do que consta no acórdão recorrido, a recorrente obteve êxito visivelmente maior na demanda.
+Houve contrarrazões ao recurso especial (e-STJ fls. 354/359).
+O Tribunal de origem inadmitiu o recurso especial com fulcro na Súmula n. 7/STJ.
+Insurge-se o agravante contra essa decisão afirmando que, ao contrário do que supõe a origem, o recurso especial reúne condições de processamento.
+Houve contraminuta ao agravo (e-STJ fls. 404/409).
+É o relatório. Decido.
+Impugnado o fundamento de inadmissibilidade, passo ao exame do recurso especial.
+A insurgência não merece prosperar.
+Ao distribuir a sucumbência, o acórdão recorrido fundamentou que (e-STJ fl. 295):
+Por fim, no que toca à adequação dos ônus sucumbenciais, razão assiste ao Fisco, porquanto a autora formulou pedido para desconstituir a autuação pelo cometimento de 04 infrações, tendo o Juízo acolhido a pretensão apenas em relação a uma delas e, ainda que se tenha reconhecido (de ofício) a ilegalidade quanto à aplicação dos consectários legais, tem-se que o Réu sucumbiu em parte mínima do pedido, incidindo na espécie, pois, o disposto no art. 86, parágrafo único, do Código de Processo Civil, que determina àquele que experimentar a maior parte da sucumbência arcar, por inteiro, pelas despesas processuais e honorários.
+Nesse passo, colhe parcial provimento o apelo interposto pelo Réu, a fim de readequar os ônus sucumbenciais consoante o esposado, tocando à autora arcar na sua integralidade com as despesas processuais e honorários advocatícios devidos aos patronos do réu, que ora se arbitram em 12% (doze por cento) sobre o montante devido, excluído o item 2 do AIIM, já observado o disposto no art. 85, § 11.
+No ponto, desconstituir a conclusão a que chegou a Corte local a fim de acolher a pretensão recursal para redistribuir os ônus sucumbenciais exigiria, necessariamente, o reexame do acervo fático-probatório dos autos, providência que esbarra no óbice da Súmula n. 7/STJ.
+No mesmo sentido, cito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA. GRAU DE SUCUMBÊNCIA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se configura a alegada ofensa ao art. 1.022 do Código de Processo Civil de 2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou, de maneira amplamente fundamentada, a controvérsia, em conformidade com o que lhe foi apresentado.
+2. No enfrentamento da matéria, o Tribunal de origem lançou os seguintes fundamentos: "Quanto à distribuição do ônus de sucumbência, não é possível afirmar que a empresa autora é sucumbente apenas em parte mínima do pedido, porquanto seu pedido de indenização por danos morais foi rejeitado, assim como seu pedido de indenização por lucros cessantes. Assim, prospera o recurso do réu na parte em que pede o rateio das despesas processuais e dos honorários advocatícios".
+3. O STJ tem entendimento pacífico de que a aferição do quantitativo em que autor e réu saíram vencidos na demanda, bem como da existência de sucumbência mínima ou recíproca, mostra-se inviável em Recurso Especial, tendo em vista a circunstância obstativa decorrente do disposto na Súmula 7/STJ.
+4. Agravo Interno não provido.
+(AgInt no AREsp n. 2.125.184/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 13/2/2023, DJe de 23/2/2023.)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 85, § 2º, DO CPC. DISTRIBUIÇÃO DOS ÔNUS SUCUMBENCIAIS. SÚMULA N. 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
