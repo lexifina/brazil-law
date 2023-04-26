@@ -1,0 +1,47 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+
+    O acórdão recorrido ficou assim ementado:
+
+    APELAÇÕES CRIMINAIS. RÉUS PRESOS. CRIMES CONTRA A SAÚDE E INCOLUMIDADE PÚBLICAS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO MAJORADOS PELO ENVOLVIMENTO DE ADOLESCENTE (LEI 11.343/2006, ART. 33, CAPUT E ART. 35, CAPUT CIC ART. 40, VI). SENTENÇA DE PARCIAL PROCEDÉNCIA. RECURSOS DE AMBAS AS PARTES.
+
+    RECURSOS DEFENSIVOS. CRIME DE TRÁFICO DE DROGAS MAJORADO (LEI 11.343/2006, ART. 33, CAPUT, C/C ART. 40, VI). PEDIDO DE ABSOLVIÇÃO EM RAZÁO DA FALTA DE PROVAS. APELANTE A.G.A. IMPOSSIBILIDADE. MANDADO DE BUSCA E APREENSÃO QUE RESULTOU NA LOCALIZAÇÃO DE 84,2G DE COCAÍNA, 135,2G DE CRACK E 626,56 DE MACONHA DESTINADOS AO COMERCIO ESPURIO, OS QUAIS O AGENTE, EM COAUTORIA COM OS CORREUS E ADOLESCENTE, COM 17 (DEZESSETE) ANOS DE IDADE, TRANSPORTOU E MANTINHA EM DEPÓSITO, SEM AUTORIZAÇÃO E EM DESACORDO COM A DETERMINAÇÃO LEGAL E REGULAMENTAR. PALAVRAS UNÍSSONAS DOS AGENTES PÚBLICOS EM AMBAS AS FASES DA PERSECUÇÃO PENAL. VERSÃO DEFENSIVA ANÊMICA (CPP, ART. 156).
+
+    DOSIMETRIAS. SEGUNDA FASE. RECONHECIMENTO, DE OFÍCIO, DA ATENUANTE DA MENORIDADE PENAL AO APELANTE A.G.A. AGENTE QUE CONTAVA COM 18 ANOS À EPOCA DOS FATOS.
+
+    TERCEIRA FASE. PEDIDO DE DECOTE DA CAUSA DE AUMENTO PREVISTA NO ART. 40, VI, DA LEI 11.343/2006. APELANTES M.S.D.S. E I.A.P. INVIABILIDADE. INFORMAÇÕES QUE RESULTARAM NA APREENSÃO EM FLAGRANTE DE ADOLESCENTE AO TRANSPORTAR QUANTIDADE DE DROGAS AOS DEMAIS AGENTES. DEPOIMENTOS INEQUÍVOCOS DOS AGENTES PÚBLICOS EM AMBAS AS FASES DA PERSECUÇÃO PENAL.
+
+    PRETENSA APLICAÇÃO DA CAUSA DE DIMINUIÇÃO DO ART. 33, § 4º, DA LEI 11.343/2006. APELANTES A.G.A. E M.S.D.S. TESES AFASTADAS. CAMPANAS POLICIAIS PRÉVIAS, MODUS OPERANDI, DIÁLOGOS EXTRAÍDOS DOS APARELHOS CELULARES, DEPOIMENTO DE USUARIO, QUANTIDADE E DIVERSIDADE DE DROGAS QUE COMPROVAM A DEDICAÇÃO DOS APELANTES AO COMÉRCIO ESPÚRIO. CONDENAÇÃO DE MS.D.S. PELA PRÁTICA DO CRIME DE ASSOCIAÇÃO PARA O TRÁFICO QUE AFASTA, POR SI SÓ, A PRETENDIDA BENESSE. REQUISITOS CUMULATIVOS NÃO PREENCHIDOS. PEDIDOS DE APLICAÇÃO DA MINORANTE NO PATAMAR MÁXIMO DE 2/3 (DOIS TERÇOS), ADEQUAÇÃO DO REGIME INICIAL DE CUMPRIMENTO DA PENA E SUA SUBSTITUIÇÃO POR RESTRITIVAS DE DIREITOS PREJUDICADOS.
+
+    PEDIDOS DE FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS COMPLEMENTARES AOS DEFENSORES NOMEADOS PELA ATUAÇÃO EM SEGUNDA INSTÂNCIA. APELANTES A.G.A. E I.A.P. POSSIBILIDADE. INCIDÊNCIA DO ART. 85, §§ 19, 2º, 8º E 11, DO CÓDIGO DE PROCESSO CIVIL C/C ART. 3º DO CÓDIGO DE PROCESSO PENAL E DAS RESOLUÇÕES DESTA CORTE.
+
+    RECURSO DO MINISTÉRIO PÚBLICO. CRIME DE ASSOCIAÇÃO PARA O TRÁFICO CIRCUNSTANCIADO (LEI 11.343/2006, ART. 35, CAPUT, C/C ART. 40, VI. PEDIDO DE CONDENAÇÃO NOS TERMOS DA DENÚNCIA. APELADOS M.S.D.S. E LA.P. VIABILIDADE. AGENTES QUE, DE FORMA PERMANENTE E ESTÁVEL, ESTAVAM ASSOCIADOS ENTRE SI PARA PRATICAR O COMÉRCIO ESPÚRIO POR PERÍODO INDETERMINADO. CAMPANAS QUE COMPROVARAM A PRÁTICA DO TRÁFICO DE DROGAS POR EM TORNO DE 4 (QUATRO) MESES ANTES, DEPOIMENTOS DOS AGENTES PÚBLICOS E DE USUÁRIO E DIÁLOGOS EXTRAÍDOS DOS APARELHOS CELULARES APREENDIDOS. AGENTES QUE CONTAVAM COM A PARTICIPAÇÃO DE ADOLESCENTE. VERSÕES DEFENSIVAS ANÊMICAS (CPP, ART. 156). CONDENAÇÕES QUE SÃO DE RIGOR.
+
+    RECURSO DE M.S.D.S. CONHECIDO E DESPROVIDO. RECURSOS DE A.G.A. E LA.P. CONHECIDOS E PARCIALMENTE PROVIDOS. RECURSO DO MINISTÉRIO PÚBLICO CONHECIDO E PROVIDO.
+
+    Opostos os embargos de declaração, foram acolhidos em parte, "tão somente para fixar honorários advocatícios ao defensor nomeado".
+
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 5º, inciso LVII, da Constituição Federal.
+
+    Decido.
+
+    Analisados os autos, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente e reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário, pois a afronta ao texto constitucional, se houvesse, seria indireta ou reflexa e a Súmula 279 desta Corte impede o reexame de provas. Sobre o tema, a propósito:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL PENAL. TRÁFICO DE DROGAS. DESCLASSIFICAÇÃO DO TIPO PENAL: IMPOSSIBILIDADE DE REEXAME DO CONJUNTO PROBATÓRIO (SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL). DOSIMETRIA DA PENA. BIS IN IDEN. INOVAÇÃO RECURSAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 1248157/SP - AgR, Segunda Turma, Rel. Min. Cármen Lúcia, DJe de 6/4/20).
+
+    “DIREITO PENAL E PROCESSUAL PENAL. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. TRÁFICO DE DROGAS. ALEGAÇÃO DE VIOLAÇÃO AOS PRINCÍPIOS DO CONTRADITÓRIO, DA AMPLA DEFESA, DOS LIMITES DA COISA JULGADA, DO DEVIDO PROCESSO LEGAL. AUSÊNCIA DE REPERCUSSÃO GERAL. CONTROVÉRSIA DECIDIDA COM BASE NA LEGISLAÇÃO INFRACONSTITUCIONAL E NO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 279/STF. 1. O Supremo Tribunal Federal (STF) rejeitou preliminar de repercussão geral relativa à controvérsia sobre suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal (ARE 748.371-RG, Rel. Min. Gilmar Mendes - Tema 660). 2. A parte recorrente se limita a postular a análise da legislação infraconstitucional pertinente e uma nova apreciação dos fatos e do material probatório constante dos autos, o que não é possível nesta fase processual (Súmula 279/STF). Precedente. 3. Agravo interno a que se nega provimento” (ARE 1251016/CE - AgR, Primeira Turma, Rel.  Min. Roberto Barroso, DJe de 6/4/20).
+
+    “Agravo regimental no recurso extraordinário com agravo. 2. Direito Penal e Processual Penal. 3. Tráfico de drogas e associação para o tráfico. Artigos 33, caput, e 35 da Lei 11.343/2006. 4. Ofensa indireta e reflexa à Constituição Federal. 5. Necessidade de revolvimento do conjunto fático-probatório dos autos. Óbice da Súmula 279/STF. 6. Tema 660 da sistemática de repercussão geral. 7. Precedentes. 8. Agravo regimental não provido” (ARE 1244158 AgR, Segunda Turma, Rel. Min. Gilmar Mendes, DJe de 7/4/20).
+
+    Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+
+    Publique-se.
+
+    Brasília, 26 de abril de 2023.
+
+Ministra ROSA WEBER
+
+Presidente
+
+Documento assinado digitalmente
