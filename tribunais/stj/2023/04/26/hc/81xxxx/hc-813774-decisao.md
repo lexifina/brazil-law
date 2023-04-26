@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de GERALDO JOSE VIEIRA JUNIOR em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO (Desembargador Carlos Eduardo Roboredo, relator da Apelação n. 0151197-28.2022.8.19.0001).
+Depreende-se dos autos que o paciente foi condenado à pena de 4 anos, 5 meses e 10 dias reclusão, em regime inicial fechado, por infração ao disposto no art. 157, § 2º, II, e § 2º-A, I, c/c o art. 14, II (roubo tentado circunstanciado pelo concurso de pessoas e por emprego de arma de fogo), ambos do Código Penal (e-STJ fl. 35).
+Irresignada, a defesa interpôs apelação, tendo o Tribunal de origem negado provimento ao recurso, conforme acórdão assim ementado (e-STJ fl. 33):
+Apelação criminal defensiva. Condenação por roubo circunstanciado pelo concurso de pessoas e emprego de arma de fogo tentado. Recurso que não questiona o conjunto probatório e os juízos de condenação e tipicidade, gerando restrição ao thema decidendum. Pleito defensivo que se limita a perseguir o abrandamento do regime para a modalidade aberta. Mérito que se resolve em desfavor da Defesa.
+Dosimetria (não impugnada), cuja pena-base foi fixada no mínimo legal e assim mantida na etapa intermediária, não obstante a atenuante da confissão (Súmula 231 do STJ), seguindo-se dos aumentos finais sucessivos de 1/3 (concurso de agentes) e 2/3 (emprego de arma de fogo) e redução de 1/2 pela tentativa.
+Regime que se posta sobre a modalidade fechada. Firme diretriz do STF sublinhando que "o emprego de arma de fogo, circunstância objetiva do caso concreto vinculada à maneira de agir do acusado, constitui fundamento idôneo para a imposição do regime inicial fechado, mesmo na hipótese de a pena-base haver sido fixada no mínimo legal". Daí a complementação do STJ no mesmo sentido, aduzindo que, "mesmo que a pena-base seja estabelecida no mínimo legal, não haverá contrariedade à Súmula 440 desta Corte, por força da gravidade concreta do delito, decorrente da utilização de instrumento dotado de maior poder letal". Recurso a que se nega provimento.
+Daí o presente writ, no qual a defesa sustenta não ter sido apresentada fundamentação idônea para a fixação do regime inicial fechado.
+Requer, liminarmente e no mérito, a fixação do regime inicial menos gravoso.
+Pedido liminar indeferido.
+Prestadas as informações, o Parquet Federal opinou pela concessão da ordem.
+É o relatório.
+Decido.
+Preliminarmente, cumpre ressaltar que, na esteira da orientação jurisprudencial desta Corte, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão em habeas corpus apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de maior aprofundamento no acervo fático-probatório.
+Nos termos do art. 33, §§ 1º, 2º e 3º, do Código Penal, para a fixação do regime inicial de cumprimento de pena, o julgador deverá observar a quantidade da reprimenda aplicada, a primariedade do réu e a eventual existência de circunstâncias judiciais desfavoráveis.
+No presente caso, foi estabelecido o regime inicial fechado para o cumprimento de pena, considerando-se a gravidade abstrata do delito, o que não encontra amparo legal e jurisprudencial.
+Verifica-se que as instâncias ordinárias, não obstante a primariedade e o quantum de pena estabelecido, fixaram o regime fechado considerando a gravidade em abstrato do delito praticado, deixando de apontar elementos concretos que justificassem a imposição do regime escolhido, em contrariedade ao disposto no enunciado 440 da Súmula do Superior Tribunal de Justiça, segundo o qual, "fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito".
+Nesse mesmo sentido, seguem os enunciados 718 e 719 da Súmula do STF, respectivamente:
+A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada.
+A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea.
+Assim, considerando-se o quantum de pena fixado, a inexistência de circunstâncias judiciais desfavoráveis e a primariedade, vislumbro a existência de constrangimento ilegal em razão da fixação do regime fechado para o início de cumprimento da sanção corporal, motivo pelo qual se impõe a fixação do regime inicial semiaberto.
+Ante o exposto, concedo a ordem de habeas corpus para abrandar o regime inicial de pena para o semiaberto, nos termos acima delineados.
+Publique-se. Intimem-se .
