@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de embargos declaratórios opostos pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS apontando omissão na decisão monocrática (e-STJ fls. 983/986) em que conheci parcialmente do recurso especial do réu e, nessa extensão, dei-lhe provimento para afastar a negativação do vetor da culpabilidade e redimensionar a pena.
+No caso, o recorrido John Lennon Fonseca Ferreira, condenado pelo crime de porte de arma (art. 14 da Lei 10.826/2003), teve a pena-base majorada pelo fundamento de que a arma e o carregador com as munições estavam intactos, o que evidencia , na visão das instâncias judiciárias de origem, maior reprovabilidade da conduta.
+Na decisão ora embargada, entendi que "o fato de a arma estar municiada não transborda do tipo penal, e não demonstra maior reprovabilidade da conduta" (e-STJ fl. 987).
+Mencionei que esta Corte entende que, " n o delito previsto no art. art. 14 da Lei n. 10.826103, o fato de a arma apreendida estar municiada não evidencia maior grau de censura da ação, o que impede o aumento da pena-base, por se tratar de circunstância comum à espécie" (AgRg no AgRg no REsp n. 1.918.235/MG, relator Ministro Jesuíno Rissato, Desembargador Convocado do TJDFT, Quinta Turma, julgado em 24/8/2021, DJe de 31/8/2021)" (e-STJ fl. 987).
+Assim, neutralizei o vetor da pena-base do delito do art. 14 do Estatuto do Desarmamento e fixei a basilar no mínimo legal, dando provimento, no ponto, ao recurso especial do ora embargado.
+Nos presentes embargos de declaração, o Ministério Público estadual alega que "incorreu a decisão em omissão, pois, desconsiderou que referida a culpabilidade do embargado foi valorada negativamente pela instância de origem em razão do réu portar junto com a arma de fogo munições intactas e um carregador, o que, sem sombra de dúvidas, torna a conduta mais censurável." (e-STJ. fl. 998, grifos no original).
+Afirma, no ponto, que, "ao concluir pelo decote da valoração negativa do vetor culpabilidade, a decisão considerou apenas que portar arma municiada não demonstra maior reprovabilidade da conduta, desconsiderando, todavia, que, no caso, o embargado, além da arma municiada, também portava um carregador, elementos que, somados, denotam maior reprovabilidade da consuta a justificar a exacerbação da reprimenda. (fl.987, e-STJ)" (e-STJ. fl. 998, grifos no original).
+Resume sua tese na seguinte afirmação: "É omissa a decisão que que deixa de analisar elementos que, analisados em conjunto, são aptos a comprovar a maior censurabilidade da conduta do réu e, consequentemente, negativar o vetor culpabilidade quando da análise das circunstâncias judiciais." (e-STJ fl. 998).
+Busca, assim, sejam acolhidos os embargos para sanar o vício apontado.
+É o relatório.
+Decido.
+Os embargos de declaração, nos termos do art. 619 do Código de Processo Penal, supõem defeitos na mensagem do julgado, em termos de ambiguidade, omissão, contradição ou obscuridade, isolada ou cumulativamente.
+No caso, vejo que não assiste razão ao embargante.
+Nos termos da denúncia, "durante busca pessoal, foi encontrada na cintura do denunciado Johnnon uma pistola calibre.765, marca Taurus, nº série J17187, com o respectivo carregador, municiada com 06 cartuchos intactos do mesmo calibre." (e-STJ fl. 3).
+Por oportuno, menciono o dispositivo pelo qual foi condenado o réu:
+Estatuto do Desarmamento
+Porte ilegal de arma de fogo de uso permitido.
+Art. 14. Portar, deter, adquirir, fornecer, receber, ter e depósito, transportar, ceder, ainda que gratuitamente, emprestar, remeter, empregar, manter sob sua guarda ou ocultar arma de fogo, acessório ou munição, de uso permitido, sem autorização e em desacordo com determinação legal ou regular. (Grifei)
+Assim, o embargado foi preso em flagrante cometendo o crime de porte ilegal de arma de fogo, tendo sido surpreendido apenas com o respectivo carregador e estando a arma municiada com 06 cartuchos, elementos previstos no tipo penal acima transcrito. Repriso, portanto, que, no caso de crime de porte de arma, a meu ver, o fato de a arma estar municiada e o criminoso estar em posse do carregador da própria arma não transborda o tipo penal em comento.
+Desse modo, ao entender que a conduta do réu não transbordou do comum ao crime em questão, fui expresso em afirmar que seu agir não demonstrou maior reprovabilidade da conduta, de modo que não houve fundamento idôneo para a majoração da pena-base pelas instâncias de origem e que não se observa, portanto, qualquer omissão na decisão monocrática a ser sanada.
+Ante o exposto, rejeito os embargos de declaração, mantendo o parcial provimento dado ao recurso especial na decisão de e-STJ fls. 983/988, nos termos ora delineados.
+Publique-se. Intimem-se .
