@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo regimental interposto por THIAGO REIS MATOS DE CHAGAS contra decisão da Presidente do Superior Tribunal de Justiça, por meio da qual o respectivo agravo em recurso especial foi conhecido para não conhecer do apelo nobre (fls. 1101-1102) porque, nas razões do agravo em recurso especial, não teria sido impugnado o fundamento da decisão que não admitira o apelo nobre na origem, relativo à aplicação, à espécie, da Súmula n. 284/STF.
+Sustenta a Defesa, nas razões do regimental, que, ao contrário do consignado na decisão agravada, se insurgiu contra todos os fundamentos adotados pela Corte de origem para não admitir o apelo nobre.
+Alega que, na decisão agravada prolatada pelo Tribunal a quo, não foi mencionado o óbice da Súmula 284 do Supremo Tribunal Federal para justificar a inadmissão do recurso especial.
+Aduz que as questões veiculadas no recurso especial são eminentemente de direito e, portanto, não incide, na espécie, a Súmula n. 7 do Superior Tribunal de Justiça.
+O Ministério Público Federal apresentou parecer, opinando pelo não conhecimento do agravo regimental (fls. 1126-1130).
+É o relatório.
+Decido.
+Com razão o Agravante, pois, no provimento judicial proferido pelo Tribunal de Justiça do Estado de São Paulo para não admitir o recurso especial (fls. 1071-1072) não há qualquer menção à incidência da Súmula n. 284/STF na hipótese dos autos.
+Nessas condições, reconsidero a decisão agravada e passo ao exame do recurso interposto.
+Consta dos autos que o Juízo de primeiro grau condenou o Agravante às penas de 5 (cinco) anos de reclusão, em regime inicial fechado, e pagamento de 500 (quinhentos) dias-multa, no mínimo legal, como incurso no art. 33 da Lei n. 11.343/2006 (apreensão de 2,01k g de cocaína), nos termos da sentença de fls. 669-674.
+Irresignadas, Defesa e acusação interpuseram as respectivas apelações. A Corte de origem negou provimento ao apelo defensivo e proveu parcialmente o recurso do Parquet para fixar a pena-base acima do mínimo legal em razão da natureza do entorpecente apreendido, redimensionando as reprimendas a 5 (cinco) anos e 10 (dez) meses de reclusão e 583 (quinhentos e oitenta e três) dias-multa, mantidas as demais cominações contidas no édito condenatório primevo (fls. 923-954).
+Os embargos de declaração opostos não foram conhecidos (fls. 1019-1025).
+Sustenta a Defesa, nas razões do apelo nobre, contrariedade ao art. 386, inciso VII, do Código de Processo Penal; bem como ao art. 33, § 4.º, da Lei n. 11.343/2006.
+Alega que não foram apresentadas provas idôneas a sustentar o édito condenatório com a certeza necessária a tal desiderato, devendo ser aplicado o princípio in dubio pro reo.
+Aduz que houve cerceamento de defesa, na medida em que as provas requeridas pela Defesa foram indeferidas ou não produzidas a contento.
+Argumenta que, na hipótese dos autos, estão preenchidos todos os requisitos necessários à aplicação da minorante do tráfico privilegiado, pois o Réu é primário, tem bons antecedentes e não foi comprovado que integre organização criminosa ou se dedique a atividades delituosas.
+Pondera que, com o provimento do pleito pela incidência do benefício insculpido no § 4.º do art. 33 da Lei n. 11.343/2006, inarredável será a fixação do regime inicial aberto. Todavia, caso não seja esse o entendimento desta Corte Superior de Justiça, de rigor reconhecer que não há justificativa válida para a imposição do modo inicial fechado, devendo ser estabelecido o semiaberto.
+Foram apresentadas contrarrazões (fls. 1056-1068). O recurso especial não foi admitido (fls. 1073-1074). Foi interposto agravo (fls. 1077-1085).
+A Presidente do Superior Tribunal de Justiça, por meio da decisão de fls. 1101-1102, não conheceu do agravo em recurso especial.
+Daí a interposição do presente agravo regimental (fls. 1107-1117 ).
+A Corte de origem não admitiu o apelo nobre calcada nas seguintes razões de decidir (fls. 1071-1072; sem grifos no original):
+" ..  o recurso especial foi interposto sem a fundamentação necessária apta a autorizar o seu processamento, consoante determina o artigo 1.029 do Código de Processo Civil, pois não foram devidamente atacados todos os argumentos do aresto.
+Deficiente a fundamentação, um dos requisitos formais de qualquer recurso, resta, necessariamente, afastada a possibilidade do conhecimento do reclamo.
+Nessa linha, o entendimento do Superior Tribunal de Justiça: "(..) Ausente a impugnação concreta aos fundamentos da decisão agravada, tem aplicação a Súmula n. 182 do Superior Tribunal de Justiça.".
+Outrossim, incide ao caso a Súmula nº 7 do STJ, que dispõe: "A pretensão de simples reexame de prova não enseja recurso especial", ou seja, há divergência quanto à situação reconhecida pelo Tribunal, não sendo possível emitir um juízo de valor sobre a questão de direito federal sem antes alterar os elementos de fato.
+ ..
+Ante o exposto, não preenchidos os requisitos exigidos, NÃO ADMITO o recurso especial, nos termos do artigo 1.030, inciso V, do Código de Processo Civil."
+Como se vê, o apelo nobre não foi admitido na origem com esteio na incidência das Súmulas n. 7/STJ e 182/STJ.
+Ocorre que o Agravante, nas razões do agravo em recurso especial, deixou de rebater, especificamente, os citados fundamentos.
+Incide, portanto, o óbice do Enunciado n. 182 da Súmula desta Corte Superior, que dispõe: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". Ilustrativamente: "É ônus do agravante impugnar as causas específicas de inadmissão do recurso especial, sob pena de incidência da Súmula n. 182 do STJ" (AgRg no AREsp 743.772/ES, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 14/08/2018, DJe 22/08/2018).
+Ademais, no tocante à aplicação da Súmula n. 7 do Superior Tribunal de Justiça, nas razões do agravo em recurso especial, a Agravante se limitou a sustentar genericamente que a matéria seria apenas jurídica, sem explicitar, à luz da tese recursal trazida no recurso especial, de que maneira a análise não dependeria do reexame de provas. Assim, não houve a observância da dialeticidade recursal, motivo pelo qual careceu o referido recurso de pressuposto de admissibilidade, qual seja, a impugnação efetiva e concreta aos fundamentos utilizados para inadmitir o recurso especial, no caso, a incidência da citada súmula desta Corte.
+Portanto, mostra-se correto o não conhecimento do agravo em recurso especial, pela falta de impugnação aos fundamentos da decisão agravada. Nesse sentido: " ..  os recursos devem impugnar, de maneira específica e pormenorizada, todos os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos. Não são suficientes meras alegações genéricas sobre as razões que levaram à inadmissão do agravo ou do recurso especial ou a insistência no mérito da controvérsia" (AgRg no AREsp 1.422.004/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 07/05/2019, DJe 20/05/2019).
+Ante o exposto, DOU PROVIMENTO ao agravo regimental, a fim de, reconsiderando a decisão agravada, por outro fundamento, NÃO CONHECER do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. MINUTA DE AGRAVO QUE NÃO INFIRMA ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ. SÚMULA N. 7/STJ. RAZÕES RECURSAIS. IMPUGNAÇÃO GENÉRICA. AGRAVO REGIMENTAL PROVIDO. AGRAVO NÃO CONHECIDO.
