@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por MARIA VITORIA RODRIGUES DA SILVA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS no HC n. 5116061-27.2023.8.09.0000.
+Narram os autos que o pedido de prisão domiciliar da recorrente, em execução definitiva de penas em regime fechado, foi indeferido na origem.
+Daí o presente recurso ordinário, no qual, em síntese, a Defesa afirma constrangimento ilegal pela necessidade de concessão da prisão domiciliar para o resguardo da prole da recorrente.
+Aduz que já se decidiu pela concessão de tal ordem em qualquer regime de cumprimento de pena, ante a dignidade da pessoa humana.
+Invoca que atualmente a Unidade Prisional não conta com espaço adequado destinado à visita presencial de familiares das pessoas recolhidas, sendo as visitas realizadas somente por meios virtuais.
+Requer, ao final, "a concessão da ordem e consequente expedição do competente alvará de soltura a paciente cumpra sua pena em regime domiciliar até atingir os requisitos para progredir de regime fechado para regime semiaberto, tendo em vistas ser mãe de 3 crianças menores, (..) atualmente com 7 anos de idade, (..) atualmente com 5 anos de idade, e (..) atualmente com 2 anos de idade" (fl. 105).
+Contrarrazões, às fls. 139-140.
+Pedido de sustentação oral (fl. 105).
+Informações, às fls. 152-154.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso, em parecer de fls. 158-161 sem ementa.
+É o relatório.
+Decido.
+No presente caso, da análise dos elementos informativos constantes dos autos, não se verifica qualquer flagrante ilegalidade a legitimar a atuação deste Sodalício.
+In casu, ao cotejar as alegações vertidas na exordial com a fundamentação exposta no acórdão objurgado, não se divisa a existência de ilegalidade ou constrangimento ilegal ao direito ambulatorial da recorrente.
+Inicialmente, ressalte-se, quanto à possibilidade de concessão da prisão domiciliar, em razão de a recorrente ser mãe de crianças em tenra idade, que o Supremo Tribunal Federal, no julgamento do habeas corpus coletivo n. 143.641/SP, sob relatoria do Em. Min. Ricardo Lewandowski, entendeu ser possível a substituição da segregação cautelar pela prisão domiciliar, sem prejuízo da aplicação concomitante das medidas cautelares previstas no art. 319 do Código de Processo Penal, para mulheres presas, gestantes, puérperas ou mães de crianças sob sua guarda, enquanto perdurar tal condição, excetuados os casos de crimes praticados por elas mediante violência ou grave ameaça, contra seus descendentes ou, ainda, em situações excepcionalíssimas (HC n. 143.641/SP, Segunda Turma, Rel. Min. Ricardo Lewandowski, DJe de 23/2/2018).
+Conforme se observa do acórdão, em uma análise holística da legislação e jurisprudência pátria, não obstante o disposto no art. 318 do Código de Processo Penal, no art. 117 da Lei de Execução Penal e na decisão do Supremo Tribunal Federal (habeas corpus coletivo n. 143.641/SP), pois não aplicável a condenadas definitivas em regime diverso do aberto, o Tribunal de origem, no caso concreto, entendeu não ser a hipótese excepcionalíssima de se deferir a prisão domiciliar à recorrente.
+Digno de nota que o tema da impossibilidade de concessão de prisão domiciliar às apenadas que não cumprem o regime aberto já foi decidido pelo Supremo Tribunal Federal, segundo o Informativo/STF de n. 967.
+Corroborando, o seguinte julgado da Suprema Corte: AgRg no HC 179.914, Primeira Turma, Rel. Min. Luiz Fux, DJe de 14/5/2020.
+In casu, tem-se que a benesse foi indeferida com fundamentação idônea pelas instâncias ordinárias, as quais bem ressaltaram o regime fechado e a reincidência específica da recorrente no delito de tráfico de drogas, o qual era praticado, inclusive, dentro da própria residência dos filhos (fl. 82).
+Nessa toada, a jurisprudência desta Corte desaconselha a prisão domiciliar em casos tais, verbis: "Hipótese concreta que revela situação excepcionalíssima a desautorizar a concessão da prisão domiciliar, porquanto as instâncias ordinárias salientaram tratar-se de paciente que integra organização criminosa e, além de manter arma em sua residência, ali mantinha em depósito, pesava e dividia a droga. Ademais, a sentença ressaltou que o fato de cumprir pena em casa só fomenta a criminalidade já que é reincidente específica e pode expor a risco seus filhos" (AgRg no HC n. 580.192/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 17/6/2020, grifei).
+Nesse sentido, não há falar em exigência (ou não) de comprovação da imprescindibilidade da apenada aos cuidados dos filhos, quando outros fatores ensejaram a denegação da prisão domiciliar.
+Por fim, sob re a tese de que atualmente a Unidade Prisional não conta com espaço adequado destinado à visita presencial de familiares das pessoas recolhidas, sendo as visitas realizadas somente por meios virtuais, o tema não foi tratado na origem (indevida supressão de instância).
+Com efeito, desconstituir o entendimento firmado pelas instâncias ordinárias, para concluir pelo acolhimento das teses defensivas, no caso concreto, demandaria necessariamente amplo reexame da matéria fático-probatória, procedimento, a toda evidência, incompatível com a via estreita do mandamus (HC n. 394.537/RJ, Sexta Turma, Rel. Min. Antônio Saldanha Palheiro, DJe de 9/6/2017).
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade.
+Ante o exposto, conheço, mas nego provimento ao presente recurso ordinário em habeas corpus.
+P. I.
