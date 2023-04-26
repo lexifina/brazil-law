@@ -1,0 +1,1 @@
+Institui a campanha Janeiro Branco, dedicada à promoção da saúde mental.
