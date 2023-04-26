@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial fundado na alínea "a" do permissivo constitucional interposto contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Norte, assim ementado:
+DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. INDEFERIMENTO DO PEDIDO DE ASSISTÊNCIA JUDICIÁRIA GRATUITA. PRESUNÇÃO DE VERACIDADE DA ALEGAÇÃO DE INSUFICIÊNCIA DEDUZIDA POR PESSOA NATURAL. ART. 99, § 3º DO CPC. RENDIMENTO SUPERIOR AO LIMITE DE ISENÇÃO DO IMPOSTO DE RENDA. NÃO COMPROVADA DESPESA EXTRAORDINÁRIA A JUSTIFICAR A CONCESSÃO DO BENEFÍCIO. RECURSO DESPROVIDO.
+Os embargos de declaração foram rejeitados.
+No recurso especial, a parte recorrente aponta, além da divergência jurisprudencial, violação dos seguintes dispositivos:
+(a) arts. 1.022 c/c 489, §1º, do CPC, aduzindo, em síntese, negativa de prestação jurisdicional;
+(b) arts. 2º, 4º e 5º da Lei nº 1.060/50, 98, caput, 99, §§ 2º, 3º, 4º e 7º, todos do CPC, alegando que "O acórdão questionado claramente atropela as regras dos artigos 2º, 4º e 5º da Lei nº 1.060/50, e reproduzidas nos artigos 98, caput, e 99, §§ 2º, 3º, do novo Código de Processo Civil, cujas inteligências determinam que, em se tratando de pessoa natural, a alegação de insuficiência de recursos para custear o processo presume -se verdadeira e somente pode ser indeferido o pedido em caso de decisão fundamentada, justificando os elementos que comprovem que a parte tem condições de arcar com as despesas processuais." (fl. 71 e-STJ)
+É o relatório. Passo a decidir.
+A irresignação não merece conhecimento.
+A alegada ofensa ao art 1.022 do CPC não merece prosperar, eis que o Tribunal de origem já havia se manifestado de forma clara e fundamentada sobre alegação a insurgência da recorrente.
+Ademais, a bem da verdade, cabe ao magistrado decidir a questão de acordo com o seu livre convencimento, não estando obrigado a rebater, um a um, os argumentos apresentados pela parte quando já encontrou fundamento suficiente para decidir a controvérsia (EDcl no AgRg no AREsp 195.246/BA, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe 04/02/2014).
+Da mesma forma, afasta-se a alegada afronta ao artigo 489 do CPC/2015, pois o Tribunal de origem prestou a tutela jurisdicional por meio de funda mentação jurídica que condiz com a resolução do conflito de interesses apresentado pelas partes, havendo pertinência entre os fundamentos e a conclusão do que decidido. A aplicação do direito ao caso, ainda que através de solução jurídica diversa da pretendida por um dos litigantes, não induz negativa ou ausência de prestação jurisdicional.
+O Tribunal de origem, ao analisar a controvérsia, assentou que
+O art. 98 da Lei nº 13.105/2015 - Código de Processo Civil - estabelece que "a pessoa natural ou jurídica, brasileira ou estrangeira, com insuficiência de recursos para pagar as custas, as despesas processuais e os honorários advocatícios tem direito à gratuidade da justiça, na forma da lei"; e art. 99, § 3º: "presume-se verdadeira a alegação de insuficiência deduzida exclusivamente por pessoa natural".
+Conforme preceitua o art. 99, § 2º do CPC: "o juiz somente poderá indeferir o pedido se houver nos autos elementos que evidenciem a falta dos pressupostos legais para a concessão de gratuidade, devendo, antes de indeferir o pedido, determinar à parte a comprovação do preenchimento dos referidos pressupostos".
+No caso, não obstante a parte agravante ter afirmado essa condição, ao mesmo tempo outros elementos põem em dúvida tal afirmação, pois pelos contracheques acostados aos autos, a renda mensal bruta é quase três vezes o limite máximo de isenção do IRPF, ou seja, bem superior. Além do que, não há comprovação nos autos de despesas extraordinárias, de caráter permanente, que evidenciem a impossibilidade de arcar com o pagamento das custas, despesas processuais e honorários advocatícios. Logo, não faz jus à assistência judiciária gratuita.
+Nesse diapasão, rever o entendimento firmado pela Corte Regional no que se refere à hipossuficiência financeira, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Nesse sentido, cito o seguinte julgado:
+AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. GRATUIDADE DE JUSTIÇA. PRESUNÇÃO DE VERACIDADE DA DECLARAÇÃO DE HIPOSSUFICIÊNCIA. REVALORAÇÃO DAS PROVAS. INAPLICABILIDADE DA SÚMULA 7/STJ. CONTROVÉRSIA SUFICIENTEMENTE DELIMITADA. TEMA 882/STJ. TEMA 492/STF. TAXAS DE ASSOCIAÇÃO. REGISTRO DE CONTRATO-PADRÃO. INEXISTÊNCIA. ANUÊNCIA. AUSÊNCIA. TAXA INDEVIDA. AGRAVO INTERNO NÃO PROVIDO.
+1.Em regra, presume-se a boa-fé. De forma específica, presume-se verdadeira a declaração de incapacidade de arcar com os custos do processo feita por pessoa natural (art. 99, §3º, CPC). No caso concreto, a declaração foi corroborada por extratos bancários.
+Assim, o afastamento da gratuidade demanda provas de falsidade da afirmação e da ocultação do patrimônio. Não bastam ilações.
+2. O reexame do contexto fático-probatório não se confunde com a valoração da prova, que é matéria de direito. Inaplicabilidade da Súmula 7/STJ.
+3. Controvérsia suficientemente delimitada. Não incidência da Súmula 284/STF.
+4.Conjugando as teses fixadas para o Tema 492/STF e o Tema 882/STJ, conclui-se que, nos casos de imóveis adquiridos posteriormente à vigência da Lei 13.465/17, as taxas associativas são devidas desde que haja registro do ato constitutivo da obrigação (contrato-padrão) no Cartório do Registro de Imóveis ou anuência do proprietário.
+5. Agravo interno não provido.
+(AgInt no REsp n. 1.967.124/DF, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 20/3/2023, DJe de 23/3/2023.)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SERVIDOR PÚBLICO. OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015. NÃO CONFIGURAÇÃO. GRATUIDADE DE JUSTIÇA. HIPOSSUFICIÊNCIA FINANCEIRA. PRESUNÇÃO DE VERACIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
