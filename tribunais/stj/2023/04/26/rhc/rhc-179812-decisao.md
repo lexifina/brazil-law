@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto contra acórdão assim ementado (fl. 701):
+HABEAS CORPUS - TRÁFICO DE DROGAS - NULIDADE DO FLAGRANTE - INVIOLABILIDADE DO DOMICÍLIO - VIOLAÇÃO A ESCRITÓRIO DE ADVOCACIA - SUPERAÇÃO EM RAZÃO DA CONVERSÃO EM PREVENTIVA - NOVO TÍTULO - PREMATURIDADE ACERCA DA DISCUSSÃO DAS PROVAS COLHIDAS - NECESSIDADE DE INSTRUÇÃO PENAL - NÃO CONHECIMENTO DESTES ARGUMENTOS - REQUISITOS DA PRISÃO PREVENTIVA EVIDENCIADOS - ARTIGO 321 DO CPP - APREENSÃO DE MACONHA (2,288KG), BALANÇA DE PRECISÃO E PAPEL FILME - PACIENTE QUE RESPONDE A DUAS AÇÕES PENAIS EM ANDAMENTO COM CRIMES DA MESMA NATUREZA - SUFICIÊNCIA DA FUNDAMENTAÇÃO - ALEGAÇÃO DE PERSEGUIÇÃO E PERIGO IMINENTE POR DENUNCIAR TRAFICANTES - NÃO COMPROVAÇÃO - TORTURA NÃO EVIDENCIADA NA AUDIÊNCIA DE CUSTÓDIA E NEM EM LAUDO - CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO - WRIT CONHECIDO EM PARTE E NA PARTE CONHECIDA DENEGADO - UNÂNIME.
+O recorrente foi preso em flagrante em 2/11/2022, convertido em preventiva, pela suposta prática do crime previsto no art. 33, caput, da Lei 11.343/2006.
+A defesa alega nulidade das provas diante de ilegal invasão a domicílio, onde também está localizado o escritório de advocacia, de propriedade do genitor do recorrente. Também sustenta haver ilegalidade na abordagem veicular, diante da ausência de justa causa e/ou fundada suspeita.
+Requer, liminarmente, seja concedida a liberdade provisória do paciente. No mérito, pleiteia sejam anuladas as provas.
+Não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo relator, nos termos do art. 34, XVIII e XX, do RISTJ.
+Verifica-se dos autos que as matérias alegadas, relacionadas à invalidade das provas tendo em vista a ilegal invasão de domicílio ou de ilegal abordagem veicular não foram examinadas pelo Tribunal a quo, o que obsta a apreciação por esta Corte Superior, sob pena de se incorrer em indevida supressão de instância.
+Não debatida a questão pela Corte de origem, é firme o entendimento de que "fica obstada sua análise a priori pelo Superior Tribunal de Justiça, sob pena de dupla e indevida supressão de instância, e violação dos princípios do duplo grau de jurisdição e devido processo legal" (RHC 126.604/MT, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 07/12/2020, DJe 16/12/2020).
+Ante o exposto, liminarmente, nego provimento ao recurso em habeas corpus.
+Publique-se.
+Intimem-se.
