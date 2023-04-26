@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial interposto pela Celg Distribuição S/A e Enel Brasil S/A contra acórdão do Tribunal de Justiça do Distrito Federal e Territórios assim ementado:
+AGRAVO DE INSTRUMENTO. AGRAVO INTERNO. DIREITO PROCESSUAL CIVIL. AÇÃO DECLARATÓRIA C/C OBRIGAÇÃO DE FAZER. PRELIMINAR. AUSÊNCIA DE DIALETICIDADE. REJEITADA. MÉRITO. CONTRATO. CLÁUSULA DE ELEIÇÃO DE FORO. INVÁLIDA. LEI DE ORGANIZAÇÃO JUDICIÁRIA DO ESTADO DE GOIÁS. COMPETÊNCIA ABSOLUTA. VARA DA FAZENDA PÚBLICA DE GOIÁS. AGRAVO DE INSTRUMENTO CONHECIDO E NÃO PROVIDO. AGRAVO INTERNO PREJUDICADO. DECISÃO MANTIDA.
+1. Não há que se falar em afronta ao princípio da dialeticidade quando da leitura das razões recursais é possível compreender, com clareza, que o recurso questiona o conteúdo da decisão recorrida, visando consolidar a competência para análise e julgamento da demanda perante o Juízo de origem. Preliminar rejeitada.
+2. Nos termos dos artigos 18 e 125 da Constituição da República, a União, os Estados e o Distrito Federal são entes autônomos, possuindo autoridade para definir a competência dos tribunais por meio de sua Constituição Estadual.
+3. A Lei de Organização Judiciária do Estado de Goiás (Lei nº 21.268, de abril de 2022) atribui às Varas das Fazendas Públicas a competência para processar e julgar as causas em que o Estado de Goiás for réu, assistente, interveniente ou oponente.
+3.1. Verificado no caso concreto que o Estado de Goiás é demandado, estando inserido no polo passivo, mostra-se nula, por clara abusividade, a cláusula que elege foro diverso, uma vez que é de competência absoluta de uma das Varas da Fazenda Pública do referido ente federativo o processamento e julgamento do feito.
+4. Tratando-se de competência absoluta, mostram-se inaplicáveis os artigos 54 e 63 do Código de Processo Civil, porquanto tratam da possibilidade de modificação nos casos de competência relativa.
+5. Observada a abusividade da cláusula de eleição de foro, em razão da competência absoluta de outro órgão jurisdicional, mostra-se correta a decisão que declina da competência, mesmo antes da citação, nos termos do artigo 63, § 3º do CPC.
+6. Resta prejudicado o agravo interno que trata da mesma matéria constante do mérito do agravo de instrumento, estando este em condições imediatas de julgamento.
+7. Agravo de Instrumento conhecido e não provido. Agravo Interno prejudicado. Decisão mantida.
+No recurso especial, as recorrentes apontam, além de divergência jurisprudencial, violação aos seguintes dispositivos: (a) art. 63, caput, e § 3º, do CPC/2015, ao argumento de que não se verifica abusividade da cláusula na hipótese dos autos; e (b) art. 52, parágrafo único, do CPC/2015, sustentando que a interpretação dessa norma no acórdão recorrido extrapolou o texto da norma e a vontade do legislador, com indevida prevalência do disposto em lei estadual
+Houve contrarrazões.
+A parte recorrente apresentou petição de desistência do recurso especial, instruindo o pedido com procuração cuja data de vigência havia expirado.
+Intimada a regularizar a representação, não trouxe aos autos novo instrumento procuratório.
+É o relatório. Passo a decidir.
+A insurgência não prospera.
+O TJDFT consignou que (e-STJ, fls. 160/164 ):
+Da leitura dos dispositivos constitucionais transcritos, observa-se que um Estado não pode interferir na administração, legislação e organização de outro, cabendo a cada ente federativo organizar o próprio Poder Judiciário.
+Nesse passo, a Lei de Organização Judiciária do Estado de Goiás (Lei nº 21.268, de abril de 2022) atribui às Varas das Fazendas Públicas a competência para processar e julgar as causas em que o Estado de Goiás for réu, assistente, interveniente ou oponente. Confira-se:
+Art. 61. Compete aos Juízos das Fazendas Públicas, além do cumprimento de cartas precatórias de sua competência:
+I - processar e julgar as causas em que o Estado de Goiás, suas autarquias, empresas públicas e fundações por ele mantidas forem autores, réus, assistentes, intervenientes ou oponentes e as que lhes forem conexas ou acessórias; (destaquei)
+Dessa forma, percebe-se que o Estado de Goiás exerceu a sua competência constitucional ao legislar sobre as causas que devem ser julgadas sobre a competência das Varas das Fazenda Públicas vinculadas ao Poder Judiciário daquele estado, não se tratando de competência relativa, conforme querem fazer crer os agravantes, mas de competência absoluta em razão da pessoa, inderrogável por convenção particular entre as partes, nos termos do artigo 62 do Código de Processo Civil (CPC):
+Art. 62. A competência determinada em razão da matéria, da pessoa ou da função é inderrogável por convenção das partes. Portanto, mostram-se inaplicáveis os artigos 54 e 63 do CPC, invocados pelos agravantes, porquanto se referem à competência relativa em razão do valor e do território, a qual, em regra, pode ser modificada pelas partes.
+Na mesma linha de raciocínio, também resta inaplicável o artigo 52, parágrafo do CPC, uma vez que estamos diante de competência absoluta, além do fato de que as normas acima descritas são especiais em relação ao disposto no CPC.
+Além disso, o referido dispositivo prevê 04 (quatro) foros competentes para julgar o Estado quando ele for réu em uma ação: 1) domicílio do autor, 2) local da ocorrência do ato ou fato, 3) situação da coisa e 4) capital do respectivo Estado, que devem ficar adstritos ao âmbito territorial de cada ente da Federação.
+Assim, mostra-se abusiva a escolha aleatória de foro no contrato objeto do litígio, uma vez que inexiste amparo legal para que as pessoas jurídicas envolvidas na demanda, cujas sedes se localizam no Estado de Goiás e no Rio de Janeiro, elejam o foro do Distrito Federal para o ajuizamento da ação fundamentada no contrato firmado com o Estado de Goiás, mostrando-se correta a decisão agravada que observou os termos do artigo 63, § 3º do CPC:
+(..)
+Ressalte-se, aceitar que o Poder Judiciário do Distrito Federal analise a validade de atos administrativos ou de contratos firmados por outro ente federativo violaria o pacto federativo previsto nos artigos 18 e 125 da Constituição Federal.
+(..)
+Assim, considerando que o artigo 61, inciso I do Código de Organização Judiciária do Estado de Goiás (Lei 21.268, de 2022) é lei especial e prevalece em relação ao artigo 52, parágrafo único do CPC, bem como em relação aos demais artigos citados pelos agravantes, em razão da atividade hermenêutica que deve ser realizada sob a ótica do pacto federativo, conclui-se que a competência para o processamento e julgamento do feito é de umas das Varas da Fazenda Pública da Comarca de Goiânia - GO, conforme registrado na decisão agravada.
+Nesse contexto, a Corte local decidiu a controvérsia com fundamento em norma estadual, por isso o óbice da Súmula 280/STF impede o conhecimento do recurso especial.
+Ademais, a argumentação dos recorrentes de que houve indevida prevalência de norma estadual em face de norma federal na parte em que apontada violação ao art. 52, parágrafo único, do CPC/2015, não pode ser examinada na presente via, sob pena de usurpação da competência do Supremo Tribunal Federal, nos termos do art. 102, III, d, da Constituição Federal.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. CLÁUSULA DE FORO DE ELEIÇÃO. QUESTÃO RESOLVIDA COM BASE EM DIREITO LOCAL. CONFLITO ENTRE LEI LOCAL E LEI FEDERAL. RECURSO ESPECIAL NÃO CONHECIDO.
