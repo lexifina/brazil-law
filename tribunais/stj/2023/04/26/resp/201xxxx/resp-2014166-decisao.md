@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto por J D G USINAGEM DE MICRO PECAS IND E COMERCIO LTDA (J D G USINAGEM DE MICRO PEÇAS) com fundamento no art. 105, III, alínea c, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região, de relatoria do Des. CARLOS FRANCISCO, assim ementado:
+AGRAVO DE INSTRUMENTO. ALIENAÇÃO FIDUCIÁRIA. LEI 9.514/1997. AGRAVO DE INSTRUMENTO IMPROVIDO. AGRAVO INTERNO PREJUDICADO.
+- No caso dos autos, anotação na matrícula do imóvel em questão indica que foi realizado o procedimento disciplinado no art. 26 da Lei nº 9.514/97 em face dos devedores fiduciantes, sem que houvesse a purgação da mora, razão pela qual a propriedade restou consolidada em favor da credora fiduciária, havendo menção a certidão emitida pela serventia em 13/06/2018 dando conta da intimação pessoal dos fiduciantes e do decurso do prazo de quinze dias sem que tivesse ocorrido a purgação da mora. Ocorreu, em consequência, a consolidação da propriedade em favor da Caixa Econômica Federal, averbada em 27/07/2018.
+- A certidão de notificação feita pelo Oficial de Registro de Imóveis possui fé pública e, portanto, goza de presunção de veracidade, somente podendo ser ilidida mediante prova inequívoca em sentido contrário, o que não ocorreu no presente caso até o momento.
+- Embora ainda não conste dos autos, a certidão específica do oficial de justiça, é de se presumir a validade da certidão lavrada pela serventia a respeito, cumprindo à parte agravante, se o caso, buscar acesso ao documento ou pleitear o que entender de direito nesse tocante.
+- Não há ilegalidade na forma a ser utilizada para satisfação dos direitos da credora fiduciária, sendo inadmissível obstá-la de promover atos expropriatórios ou de venda, sob pena de ofender ao disposto nos artigos 26 e 27, da Lei nº 9.514/97.
+- Quanto à intimação pessoal para os leilões designados, foram feitas tentativas de notificação via carta para o endereço R. Baltazar Cardenas, n. 7, Pedreira, São Paulo, SP, acabando por serem entregues ao destinatário, o que, neste momento processual, é indicativo de regularidade nos procedimentos adotados pela agravada, cabendo, evidentemente, regular discussão da matéria após instauração do contraditório e dilação probatória.
+- Por fim, cumpre mencionar a ausência de qualquer menção à necessidade de avaliação do imóvel nos argumentos levados à consideração do juízo de origem por ocasião da prolação da decisão agravada. Trata-se de inovação em sede recursal, sendo inviável apreciação da matéria neste momento.
+- Agravo de instrumento improvido. Agravo interno prejudicado (e-STJ, fls. 235/236).
+Os embargos de declaração opostos por J D G USINAGEM DE MICRO PEÇAS e outro foram rejeitados (e-STJ, fls. 287/297).
+Nas razões do presente recurso, J D G USINAGEM DE MICRO PEÇAS alegou a violação ao art. 27, § 2-A, da Lei nº 9.514/1997, ao sustentar dissenso jurisprudencial, no tocante à ausência de intimação pessoal dos devedores fiduciantes sobre a realização de leilões extrajudiciais e eventual purgação da mora (e-STJ, fls. 313/334).
+Foram apresentadas contrarrazões (e-STJ, fls. 367/371).
+É o relatório.
+DECIDO.
+O recurso não merece prosperar.
+Pelo que se dessume dos autos, o acórdão recorrido manteve decisão que, em sede de cognição sumária, indeferiu o pleito de nulidade dos leilões extrajudiciais, em decorrência de eventual ilegalidade no tocante às intimações dirigidas aos devedores fiduciantes, como se pode observar dos trechos extraídos do acórdão recorrido, a seguir transcritos:
+Quanto à intimação pessoal para os leilões designados, verifico, nos autos de origem (Id. 44698840, 44698840) que foram feitas tentativas de notificação via carta para o endereço R. Baltazar Cardenas, n. 7, Pedreira, São Paulo, SP, acabando por serem entregues ao destinatário (Id. 44698838), o que, neste momento processual, é indicativo de regularidade nos procedimentos adotados pela agravada, cabendo, evidentemente, regular discussão da matéria após instauração do contraditório e dilação probatória. Por fim, cumpre mencionar a ausência de qualquer menção à necessidade de avaliação do imóvel nos argumentos levados à consideração do juízo de origem por ocasião da prolação da decisão agravada. Trata-se de inovação em sede recursal, sendo inviável apreciação da matéria neste momento." (e-STJ, fl. 243 - sem destaques no original)
+.
+Na linha da jurisprudência desta Corte Superior, em regra, não é cabível recurso especial com o objetivo de reexaminar acórdão que defere ou indefere medida liminar ou antecipação de tutela, em virtude da natureza precária do provimento jurisdicional concedido pela origem, e que está sujeito a modificação a qualquer tempo. Incidência, por analogia, da Súmula nº 735 do STF, in verbis: não cabe recurso extraordinário contra acórdão que defere medida liminar.
+Nesse sentido, veja-se o seguinte julgado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS E LUCROS CESSANTES. TUTELA DE URGÊNCIA ANTECIPADA. DEFERIMENTO. NATUREZA PRECÁRIA DA DECISÃO. AUSÊNCIA DE ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS. PREENCHIMENTO DOS REQUISITOS ENSEJADORES DA CONCESSÃO DA TUTELA REQUERIDA. SÚMULA 7/STJ E 735 /STF.
+DECISÃO DA PRESIDÊNCIA MANTIDA. AGRAVO INTERNO IMPROVIDO.
+1. A jurisprudência desta Corte é firme no sentido de que é incabível o recurso especial que tem por objeto decisão de natureza precária, sem caráter definitivo, a exemplo das que examinam pedidos de liminar ou antecipação da tutela. Aplica-se, por analogia, a ratio decidendi dos precedentes que deram origem à Súmula nº 735/STF.
+2. A análise do preenchimento ou não dos requisitos da tutela de urgência demandaria o reexame do acervo fático-probatório dos autos, o que encontra óbice na Súmula n. 7/STJ.
+3. Agravo interno improvido.
+(AgInt no AREsp 1.740.126/GO, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 1º/3/2021, DJe 3/3/2021 - sem destaques no original).
+Nessas condições, NÃO CONHEÇO do recurso especial.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. CIVIL. AGRAVO DE INSTRUMENTO. ALIENAÇÃO FIDUCIÁRIA. LEILÃO EXTRAJUDICIAL. ANULAÇÃO. INTIMAÇÃO PESSOAL DOS DEVEDORES FIDUCIANTES. COGNIÇÃO SUMÁRIA. INCIDÊNCIA DA SÚMULA Nº 735 DO STF. RECURSO ESPECIAL NÃO CONHECIDO.
