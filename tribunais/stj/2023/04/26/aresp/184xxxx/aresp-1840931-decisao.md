@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo manejado pelo MINISTÉRIO PÚBLICO DO ESTADO DO ESPÍRITO SANTO em face da r. decisão que inadmitiu o recurso especial interposto contra v. acórdão do eg. Tribunal de Justiça do respectivo Estado.
+Consta dos autos que o d. Juízo singular julgou parcialmente procedente a denúncia oferecida pelo Parquet em desfavor do ora agravado, desclassificando a conduta prevista no art. 33, caput, para a tipificada no art. 28, ambos da Lei n. 11.343/2006 (fls. 367-371).
+Irresignado, o Parque interpôs apelação criminal perante o eg. Tribunal de origem, que, não conheceu do recurso, pois manifestamente inadmissível (fls. 418-419).
+Interposto agravo regimental, pelo Parquet (fls. 423-427), o eg. Tribunal a quo, por unanimidade de votos, negou provimento ao recurso (fls. 429-433).
+No recurso especial, interposto com fulcro no artigo 105, inciso III, alínea a, da Constituição Federal (fls. 440-446), o Parquet alega que houve "CONTRARIEDADE OU NEGATIVA DE VIGÊNCIA A DISPOSITIVO DE LEI FEDERAL (ART. 593, II, DO CÓDIGO DE PROCESSO PENAL)." (fl. 443). Para tanto, menciona que:
+a) "No caso em tela, induvidoso que o v. acórdão recorrido contrariou ou mesmo negou vigência ao artigo 593, II do CPP ao consignar expressamente que: "havendo previsão do cabimento do recurso em sentido estrito sobre o que não há nenhuma dúvida objetiva  ..  deve o instrumento de impugnação ser inadmitido" (fl. 330 verso)." (fl. 443);
+b) " ..  note-se, em primeiro lugar, que não há previsão no artigo 581 do CPP quanto à possibilidade de interposição de recurso em sentido estrito contra decisão desclassificatória de delito (mormente na hipótese em que não se concluiu pela incompetência do juízo)." (fl. 444).
+c) "Em segundo lugar, é certo que a decisão que, analisando as provas produzidas, atribui outra definição jurídica ao fato, tem evidente caráter de definitividade. De fato, caso contra elas não haja interposição recursal (ou seu conhecimento), a discussão sobre a classificação jurídica dos fatos restará preclusa e, assim, definida pela coisa julgada formal nos autos." (fl. 444).
+Por fim, requer "seja admitido e provido o presente Recurso Especial, cassando-se o acórdão recorrido, a fim de que o recurso de apelação interposto pelo Ministério Público seja conhecido, determinando-se que se prossiga com o julgamento do apelo em seu mérito." (fl. 446).
+Não foram apresentadas as contrarrazões, sobreveio juízo negativo de admissibilidade fundado na aplicação da Súmula n. 83/STJ (fls. 451-453).
+Nas razões do agravo, postula-se o processamento do recurso especial, haja vista o cu mprimento dos requisitos necessários a sua admissão (fls. 457-462), bem como reitera as argumentações vertidas no apelo especial.
+A d. Subprocuradoria-Geral da República apresentou parecer pelo provimento do agravo e do recurso especial (fls. 479-484).
+É o relatório.
+Decido.
+O agravo não merece ser conhecido.
+A parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao apelo especial, no caso, a incidência do Enunciado Sumular n. 83/STJ.
+De fato, quanto ao óbice do Enunciado Sumular n. 83/STJ, caberia ao agravante comprovar, por meio da indicação de precedentes contemporâneos ou supervenientes desta Corte Superior de Justiça, a desarmonia do julgado com a jurisprudência sedimentada, evidenciando, assim, a inaplicabilidade do embaraço indicado pelo Tribunal a quo, o que não ocorreu.
+Com efeito: "E, ainda, esta Corte firmou o entendimento de que, "quando o inconformismo excepcional não é admitido pela instância ordinária, com fundamento no enunciado n. 83 da Súmula do Superior Tribunal de Justiça, a impugnação deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida" (AgRg no AREsp 709.926/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 18/10/2016, DJe 28/10/2016), o que não ocorreu no caso destes autos" (AgRg no AREsp 637.462/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 1º/8/2017).
+Desse modo, a ausência de impugnação adequada dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre, nos termos do art. 932, inciso III do CPC, obsta o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+Nesse sentido:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE. SÚMULA 182/STJ. INCIDÊNCIA. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. IMPOSSIBILIDADE DE EXECUÇÃO PROVISÓRIA DAS PENAS RESTRITIVAS DE DIREITOS. AGRAVO NÃO PROVIDO.
+1. A ausência de impugnação específica aos fundamentos da decisão agravada impede o conhecimento do recurso.
+2. Não assiste razão ao agravante, pois, no caso, incide o óbice da Súmula 182/STJ, uma vez que deixou de impugnar, no seu agravo em recurso especial, de forma específica, ausência/deficiência de cotejo analítico e certidão não juntada/cópia não autenticada/repositório não autorizado/repositório não oficial.
+3. A concessão de habeas corpus, de ofício, ocorre por iniciativa do próprio órgão jurisdicional quando constatada a existência de ilegalidade flagrante ao direito de locomoção, o que ocorre na hipótese.
+4. Em 8/11/2019, o Tribunal Pleno do Supremo Tribunal Federal concluiu o julgamento das Ações Declaratórias de Constitucionalidade n. 43, 44 e 54, e decidiu, por maioria de votos, que é constitucional a regra do Código de Processo Penal que prevê o esgotamento de todas as possibilidades de recurso (trânsito em julgado da condenação) para o início do cumprimento da pena.
+5. Mesmo antes do mencionado julgamento, esta Corte Superior, por sua Terceira Seção, havia pacificado entendimento no sentido de que não se procede à execução provisória de penas restritivas de direitos.
+6. Agravo regimental não provido. Concessão de habeas corpus de ofício para suspender a execução provisória das penas restritivas de direitos." (AgRg no AREsp 1682769/SC, Quinta Turma, Rel. Ministro Ribeiro Dantas, DJe 23/06/2020)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ENUNCIADO N. 182 DA SÚMULA DO STJ. INSURGÊNCIA DESPROVIDA.
+1. Enquanto a decisão de admissibilidade do recurso especial assentou os óbices das Súmulas n. 7 e 83/STJ quanto ao pedido de desclassificação e da Súmula n. 83/STJ quanto ao pleito de aplicação do princípio da insignificância, no agravo a defesa deixou de impugnar o óbice da Súmula n. 83/STJ com relação ao pedido de desclassificação.
+2. Deixando a parte agravante de impugnar especificamente todos os fundamentos da decisão agravada, é de se aplicar o enunciado n. 182 da Súmula do STJ.
+3. Agravo regimental desprovido." (AgRg no AREsp 1667698/SP, Quinta Turma, Rel. Ministro Jorge Mussi, DJe 29/05/2020)
+"PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO DA DECISÃO RECORRIDA. VERBETE SUMULAR N. 182/STJ.
+1. Não se conhece de agravo em recurso especial que deixa de impugnar especificamente aos fundamentos da decisão recorrida.
+2. Agravo regimental improvido com determinação de imediata retomada da marcha processual de primeira instância, independente da interposição de outros recursos" (AgRg no AREsp n. 1.074.077/DF, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 19/12/2017, grifei).
+Diante do exposto, nos termos do art. 253, parágrafo único inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+P. I.
+EMENTA
+PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
