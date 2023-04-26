@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de agravo apresentado por MERIDIANO - FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS MULTISEGMENTOS - NÃO PADRONIZADO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim resumido:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. NULIDADE DA CITAÇÃO. INOCORRÉNCIA. MANDADO DE CITAÇÃO RECEBIDO POR SERVIDOR DE EMPRESA QUE PRESTA SERVIÇOS DE CUSTÓDIA E CONTROLADORIA AO AGRAVANTE. APLICAÇÃO DA TEORIA DA APARÊNCIA. MANUTENÇÃO DA DECISÃO AGRAVADA. RECURSO CONHECIDO E DESPROVIDO.
+Quanto à controvérsia recursal, alega violação dos arts. 239, 248, §§ 1º e 2º, e 280 do CPC, no que concerne à inexistência de citação válida, não se podendo aplicar a teoria da aparência, trazendo o(s) seguinte(s) argumento(s):
+Houve grave violação de legislação federal quando a 10ª Câmara Cível do Tribunal de Justiça do Estado do Paraná deixou de aplicar o disposto nos 239, 248 § 1º e 2º, e 280 do Código de Processo Civil. O agravante/recorrente não foi corretamente citado nos autos de origem, tendo se deparado com o proferimento de sentença condenatória sem que houvesse preservado o direito de ampla defesa e contraditório.
+Demonstrou-se inequivocadamente que não houve citação válida nos autos de Ação Declaratória de Inexigibilidade de Débito c/c Indenização por Danos Morais, autos n. 0022338-56.2014.8.16.0001.
+O ato processual realizado ocorreu em endereço diverso do requerido/recorrente, tendo e recebida a carta de citação pelo Banco Santander S/A.
+ ..
+Entretanto, diferentemente do que sustentou a 10ª Câmara Cível do Egrégio Tribunal de Justiça do Estado do Paraná, não há possibilidade de aplicação de teoria da aparência para validar a citação ocorrida na fase de conhecimento.
+O endereço que havia sido indicado pelo recorrido/requerente não possui qualquer relação direta com o recorrente Meridiano, se tratando de sede do Banco Santander S/A, que sequer é parte nos autos de origem.
+Como demonstrado exaustivamente nas razões recursais do Agravo de Instrumento e dos Embargos Aclaratórios, a ata de Assembleia Geral de Quotitas anexada nos autos de origem, que fora realizada em 22 de setembro de 2014, aprovou substituição do administrador do Fundo Meridiano, BNY Mellon, com sede na Av.
+Presidente Wilson, nº 231, andares 4º, 11º, 13º e 17º andar, Rio de Janeiro/RJ, pela Socopa Sociedade Corretora Paulista S.A, com sede na Avenida Brigadeiro Faria Lima, nº 1355, 3º andar, São Paulo/SP, a partir de 30 de setembro de 2014.
+ ..
+A teoria da aparência não é aplicável, vez que o recorrente Meridiano comprovou através de documentos, que acompanharam a impugnação ao cumprimento de sentença, que jamais possuiu sede no endereço da citação, Avenida Eusebio Matoso n. 891, bairro Pinheiros, Município de São Paulo/SP, CEP n. 05423-901.
+ ..
+De igual modo, não há que se falar em grupo econômico para fundamentar a aplicação de teoria da aparência, o próprio desembargador relator reconhece que a referida carta citatória foi recebida pelo Banco Santander S/A e que este não possuía qualquer relação com o Fundo no momento do cumprimento do ato processual.
+ ..
+A citação irregular, realizado em endereço diverso do recorrente e recebida por terceiro que não guarda qualquer relação com o Fundo, resulta em nulidade absoluta insanável, em decorrência de ausência de pressuposto de existência de relação processual (fls. 389/391).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Mas, apesar dos esforços para desvincular-se do Banco Santander S.A. ( - TJ), do mov. 23.1 da Ata da Assembleia Geral de item 5.3 III Quotistas acostada aos autos pelo próprio executado (mov. 153.2 dos autos originários), consta quê:
+ ..
+Assim, é possível concluir que os serviços de controladoria e custódia prestados ao FUNDO ora agravante, aquando da propositura da demanda, eram desempenhados pelo BANCO SANTANDER S.A., com o qual o agravante negou possuir qualquer relação desde 09.07.09: "Nesta esteira ideias, que se faz oportuno já responder o questionamento quanto à relação jurídica do Agravante com o BANCO SANTANDER S.A., é possível afirmar que, quando da constituição do fundo, tal banco (Santander) era seu administrador, mas que, desde 09/07/2009 não possui qualquer relação com o Fundo Meridiano." (sic - mov. 23.1 - TJ).
+Dessa forma, em que pese a referida carta tenha sido recebida por Banco Santander S.A. e não pelo agravante, ambos pertenciam ao mesmo grupo econômico, de modo que deve ser aplicada ao caso a teoria da aparência, razão pela qual não há vícios aptos a justificar o reconhecimento da nulidade da citação (fls. 362/363).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
