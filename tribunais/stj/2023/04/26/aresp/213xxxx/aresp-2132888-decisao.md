@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de agravo interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que o agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO cuja ementa guarda os seguintes termos (fls. 345-346):
+APELAÇÃO CÍVEL. DIREITO PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. REEXAME NECESSÁRIO. NÃO CABIMENTO. JUSTIÇA GRATUITA MANTIDA. DECADÊNCIA DO DIREITO. NÃO OCORRÊNCIA. TRABALHO EM CONDIÇÕES ESPECIAIS. RUÍDO E CALOR. LAUDO TÉCNICO PERICIAL. EXTEMPORÂNEO. HABITUALIDADE DA EXPOSIÇÃO. EPI INEFICAZ. PRÉVIA FONTE DE CUSTEIO. PERÍODO DE AUXÍLIO-DOENÇA COMPUTADO COMO ESPECIAL. TERMO INICIAL NA DER. JUROS DE MORA E CORREÇÃO MONETÁRIA ALTERADOS DE OFÍCIO. HONORÁRIOS RECURSAIS DEVIDOS. PREQUESTIONAMENTO. APELAÇÃO IMPROVIDA. (..)
+Rejeitados os embargos de declaração opostos (fls. 389-392).
+No recurso especial, alega, preliminarmente, ofensa aos arts. 489 e 1.022, do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz, no mérito, que o acórdão contrariou as disposições contidas nos artigos 35, 37,41-A, § 5º, 57, § § 3º e 4º, 58, § 1º, da Lei n. 8.213/1991; 3º e 396 do Código Civil; 17, 85, 240, 330, III e 485 do CPC.
+Sem contrarrazões ao recurso especial.
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 425-430), o que ensejou a interposição do presente agravo.
+Não apresentada contraminuta do agravo.
+É, no essencial, o relatório.
+Verifica-se que a matéria versada no apelo foi submetida a julgamento no rito dos recursos repetitivos (1.913.152/SP, 1.912.784/SP e 1.905.830/SP ), que cuida do Tema n. 1.124/STJ: " Definir o termo inicial dos efeitos financeiros dos benefícios previdenciários concedidos ou revisados judicialmente, por meio de prova não submetida ao crivo administrativo do INSS: se a contar da data do requerimento administrativo ou da citação da autarquia previdenciária".
+A propósito, em tal circunstância, considerando a relevância da matéria e a necessidade de se resguardar a segurança jurídica e a isonomia, princípios que balizam o nosso sistema de Precedentes Qualificados, deve ser prestigiado o escopo perseguido na legislação processual, isto é, a criação de mecanismo que enseje às instâncias de origem o juízo de retratação na forma dos arts. 1.039 a 1.041 do CPC.
+Logo, por medida de economia processual e para evitar decisões dissonantes entre Cortes integrantes do mesmo sistema de Justiça, os recursos que versam sobre a mesma controvérsia devem retornar à origem, dando ensejo à aplicação uniforme da tese vinculante.
+Somente depois de realizada tal providência, isto é, com o exaurimento da instância ordinária, os recursos excepcionais deverão ser encaminhados para os Tribunais Superiores para análise dos pontos jurídicos neles suscitados, a menos que estejam prejudicados pelo novo pronunciamento do Tribunal local.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, para observação da disciplina processual dos arts. 1.039 e 1.040 do CPC, devendo-se: I) negar seguimento ao recurso, se o acórdão recorrido coincidir com a tese vinculante do Tribunal Superior; ou II) proceder ao juízo de retratação, na hipótese de ter o Colegiado local divergido da interpretação fixada no precedente qualificado.
+Publique-se. Intimem-se.
