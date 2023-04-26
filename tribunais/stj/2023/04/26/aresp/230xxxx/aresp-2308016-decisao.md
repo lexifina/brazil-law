@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por VANDAIR MARTINS SANTOS RAMIRES e outro (VANDAIR e outro) contra decisão que negou seguimento ao seu apelo nobre manejado para impugnar acórdão do TJSP, de relatoria do Des. ALEXANDRE COELHO, assim ementado:
+AGRAVO DE INSTRUMENTO INVENTÁRIO ALVARÁ PARA OUTORGA DE ESCRITURA DEFINITIVA DECISÃO QUE DETERMINOU A COMPROVAÇÃO DE TODAS AS CESSÕES REALIZADAS NO IMÓVEL MEDIANTE A JUNTADA DOS RESPECTIVOS CONTRATOS DE COMPRA E VENDA INCONFORMISMO DOS AUTORES REJEIÇÃO DECISÃO PROFERIDA DE ACORDO COM O PRINCÍPIO DA CONTINUIDADE REGISTRAL DECISÃO MANTIDA NEGARAM PROVIMENTO AO RECURSO. (e-STJ, fl. 219).
+Os embargos de declaração de VANDAIR outro foram rejeitados (e-STJ, fls. 256/259).
+Nas razões de seu recurso especial interposto com base no art. 105, III, a, da CF, VANDAIR e outro alegaram violação dos arts. 344 e 1022 e1025 do NCPC ao sustentarem (1) negativa de prestação jurisdicional; (2) não ocorreu manifestação contrária ao pedido dos recorrentes.
+Não foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+(1) Da negativa de prestação jurisdicional
+Nas razões do seu recurso, VANDAIR e outro alegaram a violação do art. 1.022 e 1025, do NCPC, sustentando que (1) o acórdão não se pronunciou sobre as teses jurídicas dos recorrentes; (2) ao não se pronunciar sobre as teses jurídicas arguidas o acórdão violou os arts. 1022 e 1025 do NCPC; (3) nos termos do art. 1022 é possível a oposição de embargos de declaração sem que tal signifique crítica ao julgados; (4) a negativa de expedição de alvará judicial constitui preconceito jurídico que inviabiliza os recorrentes possam proceder a transmissão do domínio do imóvel; (5) a tese não é de análise de prova, mas jurídica.
+Contudo, não houve a exposição das teses jurídicas sobre as quais teria ocorrido os vícios alegados.
+Na verdade, a fundamentação deduzida no recurso especial apresenta-se deficiente, desconexa e sem coerência dificultando a compreensão das razões do inconformismo alegado.
+Nestes casos, ante a deficiente fundamentação do recurso, incide a Súmula nº 284 do STF, por analogia: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Esse é o entendimento desta Corte, confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA AGRAVANTE. 1. Não se conhece da alegada violação do art. 1022 do CPC/2015, quando a causa de pedir recursal se mostra genérica, sem a indicação precisa dos pontos considerados omissos, contraditórios, obscuros ou que não receberam a devida fundamentação, sendo aplicável a Súmula 284 do STF. Precedentes. (AgInt no AREsp n. 1.432.580/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 28/3/2022, DJe de 31/3/2022- sem destaques no original)
+(2) Da incidência da Súmula nº 283 do STF,
+Nas razões do presente recurso, os recorrentes alegam a violação do art. 344 do NCPC sustentando, em apertada síntese, que não ocorreu manifestação contrária ao seu pedido, por parte dos recorridos.
+Contudo, da acurada análise do acórdão recorrido é possível verificar que o Tribunal recorrido consignou expressamente que o deferimento do pedido dos recorrentes de expedição do alvará judicial tal como consta, violaria o princípio da continuidade registraria estatuído pelo artigo 195 da lei dos Registros Públicos Lei nº 6.015/1973, confira-se:
+Nesta senda, o deferimento do pedido, tal como consta, violaria o princípio da continuidade registraria estatuído pelo artigo 195 da lei dos Registros Públicos Lei nº 6.015/1973, a seguir transcrito:
+Art. 195 - Se o imóvel não estiver matriculado ou registrado em nome do outorgante, o oficial exigirá a prévia matrícula e o registro do título anterior, qualquer que seja a sua natureza, para manter a continuidade do registro.
+Nota-se que entre os agravantes e o proprietário do imóvel houveram várias cessões, cujos contratos não foram levados a registro, de forma que a autorização judicial para a outorga pretendia violaria o princípio da continuidade registral.
+Ademais, o instrumento de compra e venda dos agravantes não está no nome do proprietário que consta na matrícula do imóvel, a saber, Jorge Beretta e sim, Cesar Francisco Beretta.
+Assim, nenhum reparo comporta a decisão agravada, a qual é ratificada. (e-STJ, fls. 221/222).
+Assim, da análise das razões do presente recurso verifica-se que o referido fundamento não foi impugnado, o que atrai a incidência da Súmula nº 283 do STF, por analogia.
+Confira-se o seguinte precedente:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO EMPRESARIAL. MIGRAÇÃO PARA PLANO INDIVIDUAL. 1. ART. 1.022. ALEGAÇÃO DE OMISSÃO. VÍCIO NÃO CONFIGURADO. 2. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO QUE, POR SI SÓ, MANTERIAM A DECISÃO. SÚMULAS N. 283 E 284/STF. 3. CONCLUSÃO PAUTADA NO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. REEXAME INVIÁVEL. SÚMULA N. 7/STJ. 4. AGRAVO INTERNO DESPROVIDO. (..) 3. É inviável o recurso especial que deixa de impugnar fundamento suficiente do acórdão recorrido, atrelando suas razões a violação de lei federal ou dissídio pretoriano, por se tratar de recurso de fundamentação vinculada, sob pena de incidência das Súmulas n. 283 e 284, ambas do Supremo Tribunal Federal. 4. A conclusão esposada no acórdão recorrido está calcada em premissas fáticas e probatórias, de forma que rever o entendimento do Tribunal de origem demandaria reexame de fatos e provas, o que encontra óbice na Súmula n. 7/STJ. 5. Agravo interno desprovido. (AgInt no REsp 1980064/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. em 09/05/2022, DJe 11/05/2022- sem destaque no original)
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. AGRAVO EM RECURSO ESPECIAL. NCPC. INVENTÁRIO. ALVARÁ PA RA OUTORGA DE ESCRITURA DEFINITIVA. ALEGAÇÃO DE VIOLAÇÃO DOS ARTS. 1022 E 1025 DO NCPC. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284 DO STF. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO CENTRAL DO ACÓRDÃO. APLICAÇÃO DAS SÚMULAS NºS 283 E 284 DO STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
