@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de agravo interposto pela UNIÃO contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO cuja ementa guarda os seguintes termos (fl. 50):
+ADMINISTRATIVO. PROCESSO CIVIL. AGRAVO DE INSTRUMENTO EM SEDE DECUMPRIMENTO DE SENTENÇA. ADICIONAL DE INATIVIDADE. TÍTULO EXECUTIVOJUDICIAL. ALTERAÇÃO NA FASE EXECUTIVA. IMPOSSIBILIDADE. OFENSA À COISA JULGADA. ART. 68 DA LEI Nº 8.237/91.- Uma vez transitada em julgado a decisão exequenda, torna-se inviável sua alteração em sede de execução, tendo em vista a ocorrência da coisa julgada.- Há imperiosa necessidade de se primar pelo respeito e preservação da estabilidade da relação jurídica acobertada pela coisa julgada, prestigiando-se a interpretação do texto legal levada a efeito pelo órgão julgador na oportunidade do julgamento da causa em que constituído o título executivo judicial.- Da análise do art. 68 da Lei nº 8.237/91, verifica-se que o adicional de inatividade incide sobre o valor do soldo a que tem direito o aposentado.- Não se rebelando a parte interessada, antes do trânsito em julgado do título judicial, quanto a tópico da decisão, está a matéria, assim, amparada pelo manto da coisa julgada.- Agravo de instrumento não provido.
+Sem embargos de declaração.
+No recurso especial, alega a recorrente ofensa aos arts. 141 e 492 do Código de Processo Civil, ao defender que "é vedado ao juiz proferir decisão de natureza diversa da pedida, bem como condenar a parte em quantidade superior ou em objeto diverso do que lhe foi demandado". Aduz que é improcedente o pagamento do adicional de inatividade na proporção de 140% sobre o soldo atual, tal como postulado pela parte demandante e deferido judicialmente, em virtude da cláusula rebus sic stantibus inerente a toda decisão judicial referente a relações jurídicas continuativas, como é o caso destes autos processuais (fl. 60).
+Sustenta que, apesar de a decisão transitada em julgado ter sido favorável à parte demandante, sua eficácia foi limitada ao exato momento em que entraram em vigor leis reajustando a remuneração dos servidores públicos.
+Foram oferecidas contrarrazões ao recurso especial (fls. 74-79).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 106/107), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 132-138).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+No caso dos autos, insurge-se a União contra entendimento do Tribunal a quo de conceder ao ora recorrido o recebimento do adicional de inatividade de 140%, assim como o as diferenças daí decorrentes, a partir de janeiro de 2001.
+Não merece prosperar o recurso.
+Com efeito, consigne-se inviável a apreciação das alegações da recorrente, considerando que a Corte de origem, ao entender que o direito em questão está acobertado pela coisa julgada, firmou o entendimento com base no conjunto probatório dos autos. Confira-se o seguinte excerto o referido acórdão (fls. 47-48):
+Da simples análise do texto legal, verifica-se que o adicional de inatividade a que faz jus o aposentador incide sobre o valor do soldo a que tem direito, não havendo que se falar, como pretendido pela parte agravante, em vinculação ao soldo de janeiro de 2001.
+Nestes termos, portanto, deve ser cumprido o decisum, havendo imperiosa necessidade de se primar pelo respeito e preservação da estabilidade da relação jurídica acobertada pela coisa julgada, prestigiando-se a interpretação do texto legal levada a efeito pelo órgão julgador na oportunidade do julgamento da causa em que constituído o título executivo judicial.
+(..)
+Nesse sentido, caberia à parte interessada, antes do trânsito em julgado do título judicial, rebelar-se quanto ao referido tópico da decisão, o que não ocorreu, estando a matéria, assim, amparada pelo manto da coisa julgada.
+Desta feita, a manutenção da decisão que determinou o restabelecimento do cumprimento da decisão judicial nos termos do acórdão transitado em julgado em 21/09/2004 (processo 0020687-58.2002.4.02.5101/RJ, evento 266, OUT3, pág. 57), é medida que se impõe.
+Assim, rever tal entendimento, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, a eventualmente ensejar novo juízo acerca dos fatos e provas. Sendo assim, incide no caso a Súmula n. 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido, cito :
+ADMINISTRATIVO E PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO ADMINISTRATIVO. FISCALIZAÇÃO. MULTA. AFASTAMENTO. INADMISSIBILIDADE. REEXAME DE MATÉRIA DE FATO. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Inadmissível o recurso especial que pretenda debater questões que envolvem dilação probatória fundamentada no contexto fático dos autos. Neste quadro, é inviável analisar a tese defendida no Recurso Especial, a qual busca afastar a preclusão reconhecida no processo originário e a suposta ofensa à coisa julgada quanto ao valor objeto de cumprimento de sentença, em razão da incidência do enunciado da Súmula 7 do STJ.
+2. Agravo interno não provido. (AgInt no AREsp n. 2.055.774/SC, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 8/8/2022, DJe de 16/8/2022.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
