@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo interposto por NILDA BISIN CRISTALDI contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no art. 105, III, "a" e "c", da Constituição Federal, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"AGRAVO DE INSTRUMENTO. Embargos à arrematação. Decisão agravada que rejeitou os referidos embargos. Insurgência da embargante. Pretensão de reforma da decisão. Pedido de concessão de efeito antecipatório recursal, cuja apreciação se dá, neste momento, diretamente pelo colegiado desta câmara julgadora (arts. 129 e 168, §2ºdo RITJSP). Sem razão. Alegação de nulidade por falta de citação de terceiro coexecutado. Não acolhimento. Agravante que é devedora solidária, pelo que possível suportar integralmente a dívida sem que lhe socorra o benefício de ordem. Ademais, o terceiro, que não é o titular do direito material lesado ou ameaçado, não pode defender direito alheio em nome próprio. Art. 18 do CPC. Impugnação à avaliação do imóvel praceado que se mostrou genérica e desprovida de fundamento. Agravante que não demonstrou a configuração das hipóteses previstas no art. 873 do CPC. Alegação de que a arrematação, aperfeiçoada por 60% do valor de avaliação, se deu por preço vil, é frontalmente contrária à norma do art. 891 do CPC. Efeito antecipatório recursal negado e, na sequência, desde já julgado o agravo com a decisão recorrida ficando mantida. Recurso não provido" (fl. 622 e-STJ).
+Nas razões do recurso especial (fls. 629/643 e-STJ), a recorrente alega, além de divergência jurisprudencial, violação dos artigos 829, 873, II, 903, §1º, I e 915, do CPC, no momento em que ignorou-se por completo a citação do co-executado proprietário do imóvel alienado judicialmente.
+Sustenta que a legislação federal é clara no sentido de ser admitida nova avaliação se verificar a majoração do valor do bem e que resta demonstrado nos autos a necessidade dessa nova reavaliação com documentos idôneos adquiridos de prova emprestada de outro processo judicial.
+Apresentadas as contrarrazões, o recurso foi inadmitido na origem, resultando daí o presente agravo, no qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação não merece prosperar.
+No caso vertente, o tribunal de origem decidiu a controvérsia com base nos seguintes fundamentos:
+"A alegação de nulidade, por ausência de citação do coexecutado, não merece prosperar. Isso porque, assim como observado pela decisão ora recorrida, sendo a coexecutada, ora agravante, devedora solidária, possível suportar integralmente a dívida sem que lhes ocorra o benefício de ordem.
+No mais, não é crível que o coexecutado, cônjuge da ora agravante, não possua conhecimento acerca do feito, posto que há certidão do oficial de justiça (fls. 44 do principal) informando que os coexecutados se ocultam para evitar a citação.
+Ainda, nos temos do art. 18 do CPC, não se permite que terceiro, que não é aquele que afirma ser titular do direito material lesado ou ameaçado, venha defender direito alheio em nome próprio.
+Por sua vez, denota-se que a impugnação à avaliação do imóvel é genérica, desprovida de qualquer fundamento concreto e a agravante não se preocupou em demonstrar a configuração das hipóteses previstas no artigo 873 do CPC.
+Ora, conforme observado na decisão ora recorrida, a agravante não se insurgiu contra o valor da avaliação (fls. 427 do principal) e não apresentou qualquer avaliação idônea que infirmasse a que foi adotada para a alienação judicial do imóvel.
+Ademais, a alegação de que arrematação se deu por preço vil, pois aperfeiçoada por 60% do valor de avaliação (fls. 478 do principal), assim como previsto na decisão anterior de fls. 432/434 do principal, é frontalmente contrária ao previsto no artigo 891 do CPC, verbis: (..)" (fls. 625/624 e-STJ).
+Nesse contexto, a modificação do entendimento adotado pelo órgão colegiado demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, a teor do enunciado da Súmula nº 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de fixar os honorários recursais (art. 85, § 11, do CPC/2015), haja vista que o recurso especial ao qual se negou provimento é oriundo de acórdão proferido por ocasião de julgamento de agravo de instrumento, sem fixação de honorários sucumbenciais.
+Publique-se.
+Intimem-se.
