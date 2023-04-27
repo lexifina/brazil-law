@@ -1,0 +1,7 @@
+DECISÃO
+Cuida-se  de  carta  rogatória  por meio da qual a Justiça portuguesa (Tribunal Judicial da Comarca de Leiria - Juízo Local Cível de Pombal - juiz 1) solicita que se proceda à citação de LUCINDA DA CONCEIÇÃO PEREIRA LOPES MORATO para tomar conhecimento de demanda firmada nos autos do Processo n. 306/20.2T8PBL (ação de processo comum), bem como para, querendo, deduzir oposição (fls. 4- 7).
+Concedido o exequatur (fls. 523-524), foram os autos remetidos à Seção Judiciária do Estado de São Paulo para o cumprimento da medida. Os autos retornaram a esta Corte acompanhados de certidão positiva exarada por oficial de justiça, noticiando o cumprimento da comissão via whatsapp, nestes termos (fl. 561):
+Em cumprimento ao mandado, CERTIFICO ter ido à (RUA/AV.) PELEGRINO, 85, onde, não tendo encontrado o(a) requerido(a) na primeira diligência, deixei bilhete na caixa de correio e obtive retorno posterior quando(o)(a) réu (ré) confirmou seu número de celular, a saber: 11- 940 372 938. Assim, procedi à CITAÇÃO/INTIMAÇÃO de LUCINDA DA CONCEIÇÃO PEREIRA LOPES MORATO por whatsapp, em data de 19/04/23, oportunidade em que bem ciente ficou do inteiro teor deste mandado que lhe foi devidamente explicado e encaminhada cópia em formato PDF tendo confirmado recebimento.
+Às fls. 562-566 constam as cópias do contato realizado com o interessado.
+Diante do exposto, devidamente cumprida a carta rogatória, determino a devolução dos autos à Justiça rogante, com urgência, por intermédio da autoridade central competente, nos termos do art. 216-X, do RISTJ.
+Publique-se.
