@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto por LUIS GUSTAVO GORON contra a decisão que inadmitiu recurso especial. O apelo extremo, com fundamento no artigo 105, III, alíneas "a" e "c", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Rio Grande do Sul assim ementado:
+"APELAÇÃO CÍVEL. PROMESSA DE COMPRA E VENDA. REGISTRODE IMÓVEIS. DÚVIDA SUSCITADA POR OFICIAL REGISTRADOR. INDISPONIBILIDADE EM DESFAVOR DA PARTE VENDEDORA DEIMÓVEL LANÇADA NA CNIB QUE OBSTA REGISTRO DATRANSFERÊNCIA DA TITULARIDADE DE BEM IMÓVEL. A averbação e o registro de qualquer documento ou título no Registro de Imóveis devese submeter ao procedimento legal. Na hipótese, procede a dúvida suscitada peloOficial Registrador, eis que a transferência da titularidade de imóvel pretendida pelosuscitado está condicionada ao cancelamento das restrições existentes em face daoutorgante vendedora, verificadas via consulta realizada junto à CNIB, na formaexigida pelo art. 14, parágrafo 1º, do Provimento nº 39/2014 do CNJ. RECURSO DESPROVIDO" (fl. 191 e-STJ).
+No seu arrazoado (fls. 199-207 e-STJ), a parte recorrente alega, além de divergência jurisprudencial, a violação do artigo 43, VI, da Lei n. 4.591/1.964, sob o argumento de que " o entendimento do juízo a quo quantoaos efeitos do procedimento previsto no inciso VI, do artigo 43, da Lei 4.591/64 está absolutamente equivocado, contrariando o que prevê o referido dispositivo, que retira qualquer direito da incorporadora destituída sobre oimóvel em questão" (fl. 205 e-STJ).
+Defende que a OHR Empreendimento Imobiliário Ltda. não é mais a titular e responsável pela construção do empreendimento e que, conforme os documentos acostados aos autos, com a destituição da construtora, foi constituído o condomínio construtivo - CONDOMÍNIO DE ADQUIRENTES DO EMPREENDIMENTO PÁTEO MARBELLA.
+O recurso especial acabou inadmitido no tribunal de origem, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação não merece prosperar.
+Com efeito, a jurisprudência desta Corte Superior de Justiça é firme no sentido de que o procedimento de dúvida tramitado perante o Poder Judiciário reveste-se de caráter administrativo, não-jurisdicional, agindo o juízo monocrático, ou o colegiado, em atividade de controle da Administração Pública, de modo que é inviável a impugnação por via de recurso especial.
+No mesmo sentido, confiram-se os seguintes precedentes:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DÚVIDA REGISTRAL. REGISTRO DE IMÓVEL RURAL. MÓDULO. NATUREZA ADMINISTRATIVA. MANIFESTA FALTA DE CABIMENTO DO RECURSO ESPECIAL. AGRAVO INTERNO IMPROVIDO.
+1. De acordo com a jurisprudência do Superior Tribunal de Justiça, "não cabe recurso especial contra decisão proferida em procedimento administrativo, afigurando-se irrelevantes a existência de litigiosidade ou o fato de o julgamento emanar de órgão do Poder Judiciário, em função atípica" (REsp n. 1.748.497/SC, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 2/4/2019, DJe de 4/4/2019).
+2. Agravo interno improvido" (AgInt no AREsp n. 2.162.850/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/3/2023, DJe de 16/3/2023 - grifou-se).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCEDIMENTO DE DÚVIDA REGISTRAL (LRP, ART. 198, II). NATUREZA ADMINISTRATIVA (LRP, ART. 204). RECURSO ESPECIAL. DESCABIMENTO. DECISÃO MANTIDA.
+1. O procedimento de dúvida registral, previsto no art. 198 e seguintes da Lei de Registros Públicos, tem, por força de expressa previsão legal (LRP, art. 204), natureza administrativa, não qualificando prestação jurisdicional.
+2. Conforme entendimento firmado pela Segunda Seção do STJ, "não cabe recurso especial contra decisão proferida em procedimento administrativo, afigurando-se irrelevantes a existência de litigiosidade ou o fato de o julgamento emanar de órgão do Poder Judiciário, em função atípica". (REsp 1570655/GO, julgado em 23/11/2016, DJe 09/12/2016).
+3. Agravo interno a que se nega provimento" (AgInt no AREsp n. 1.885.238/MG, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 28/3/2022, DJe de 31/3/2022 - grifou-se).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - PROCEDIMENTO DE DÚVIDA REGISTRAL - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO ANTE O SEU DESCABIMENTO. INSURGÊNCIA RECURSAL DO DEMANDADO.
+1. A Segunda Seção desta Corte Superior de Justiça já firmou o entendimento, no sentido do descabimento de interposição de recurso especial em face de deliberação do Conselho da Magistratura do Tribunal de Justiça, em procedimento de dúvida registral, tendo em vista sua natureza administrativa, não enquadrando no conceito de causa previsto no art. 105, III da Constituição Federal.
+2. Agravo interno desprovido" (AgInt no AREsp n. 1.592.173/RJ, relator Ministro Marco Buzzi, Quarta Turma, julgado em 28/9/2020, DJe de 1/10/2020 - grifou-se).
+"RECURSO ESPECIAL. DIREITO ADMINISTRATIVO. CIVIL. PROCESSUAL CIVIL. PROCEDIMENTO DE DÚVIDA REGISTRAL. NATUREZA ADMINISTRATIVA. IMPUGNAÇÃO POR TERCEIRO INTERESSADO. IRRELEVÂNCIA. CAUSA. AUSÊNCIA. NÃO CABIMENTO DE RECURSO ESPECIAL.
+1. O procedimento de dúvida registral, previsto no art. 198 e seguintes da Lei de Registros Públicos, tem, por força de expressa previsão legal (LRP, art. 204), natureza administrativa, não qualificando prestação jurisdicional.
+2. Não cabe recurso especial contra decisão proferida em procedimento administrativo, afigurando-se irrelevantes a existência de litigiosidade ou o fato de o julgamento emanar de órgão do Poder Judiciário, em função atípica.
+3. Recurso especial não conhecido" (REsp 1.570.655/GO, Rel. Ministro ANTONIO CARLOS FERREIRA, SEGUNDA SEÇÃO, julgado em 23/11/2016, DJe 09/12/2016 - grifou-se).
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCEDIMENTO DE DÚVIDA REGISTRAL.
+1. O procedimento de dúvida suscitado pelo Oficial do Registro reveste-se de caráter administrativo, de modo que é inviável a impugnação por meio de recurso especial. Precedentes.
+2. Agravo interno a que se nega provimento" (AgInt no AREsp 271.724/DF, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 16/02/2017, DJe 23/02/2017 - grifou-se).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de majorar os honorários recursais nos termos do artigo 85, § 11, do Código de Processo Civil de 2015, considerando que o acórdão recorrido é proveniente de julgamento de recurso sem o arbitramento de honorários advocatícios.
+Publique-se.
+Intimem-se.
