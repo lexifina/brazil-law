@@ -1,0 +1,19 @@
+DECISÃO
+LEONARDO GUSTAVO GALDINO SERRA aponta constrangimento ilegal contra acórdão proferido pela Tribunal de Justiça do Estado de São Paulo na Apelação n. 1502364-71.2019.8.26.0302.
+A defesa postula, liminarmente e no mérito, a concessão da substituição da reprimenda privativa de liberdade por restritivas de direitos e do regime aberto para início do cumprimento da pena de 3 anos de reclusão pela qual foi condenado, ao argumento de que o Tribunal a quo violou as Súmulas n. 718 e 719 do STF.
+Decido.
+O requerente foi condenado a 3 anos de reclusão, em regime inicialmente semiaberto, pela prática do delito previsto no art. 33, caput, da Lei n. 11.343/2006.
+O Juiz de primeiro grau fixou o regime semiaberto e obstou a conversão das penas pelos seguintes fundamentos (fl. 33, destaquei):
+Em virtude dos motivos acima expostos, notadamente para majoração da pena-base, fixo o regime inicial semiaberto para cumprimento da pena, dada a primariedade dos réus (observando-se, quanto a Felipe, a decisão do STJ que afastou a reincidência no caso de condenação por crime previsto no artigo 28 da Lei 11.343/06). Todavia, é incabível o estabelecimento de regime mais favorável ou a substituição da pena privativa de liberdade por restritiva de direitos, até pelo disposto na Lei 8.072/90, que exige tratamento mais rigoroso para o delito aqui tratado, de acentuada periculosidade, dada a quantidade e natureza do entorpecente apreendido. O crime de tráfico de drogas, além de ser equiparado a hediondo e ser a principal causa de inúmeros outros delitos, notadamente patrimoniais, gera efeitos nefastos para a sociedade e para as famílias de bem, de modo que a concessão dos benefícios mencionados, além de ser incompatível com a sua gravidade, não se mostraria suficiente para a prevenção ou reprovação do delito (CP, art. 59, in fine), gerando ofensa ao disposto no artigo 44, III, CP.
+Infere-se do trecho transcrito que a pena-base foi fixada acima do mínimo legal em virtude da valoração negativa da quantidade de drogas.
+Nesse contexto, observo que a decisão da instância de origem está em consonância com o art. 33, § 3º, do Código Penal, que estabelece que "a determinação do regime inicial de cumprimento da pena far-se-á com observância dos critérios previstos no art. 59 deste Código".
+A jurisprudência desta Corte é firme em legitimar a fixação do regime prisional semiaberto e o indeferimento da substituição da reprimenda por restritivas de direitos quando as circunstâncias judiciais não são integralmente favoráveis ao acusado, ainda que a sanção seja fixada em patamar inferior a 4 anos.
+Exemplificativamente: "A pena-base foi aplicada acima do mínimo, diante da presença dos maus antecedentes do agravante, o que justifica, adequadamente, o regime prisional semiaberto" (AgRg no AREsp n. 1.758.292/SP, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 18/12/2020); "Quanto ao regime prisional, estabelecida a pena-base acima do mínimo legal, por ter sido desfavoravelmente valorada circunstância do art. 59 do Estatuto Repressor, admite-se a fixação de regime prisional mais gravoso do que o indicado pelo quantum de reprimenda imposta ao réu" (HC n. 613.453/SP, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 23/11/2020).
+Nesse sentido:
+ ..
+2. Apesar do quantum da pena imposta ser inferior a 4 (quatro) anos de reclusão, a presença de circunstância judicial desfavorável autoriza a fixação do regime inicial mais gravoso e obsta a substituição das penas, nos termos dos arts. 33, §§ 2.º e 3.º, c.c. o art. 59 e 44, inciso III, ambos do Código Penal.
+3. Pedido de reconsideração recebido como agravo regimental e parcialmente conhecido e, nessa extensão, desprovido.
+(RCD no HC n. 617.932/SP, Rel. Ministra Laurita Vaz, 6ª T., DJe 17/2/2021, grifei)
+À vista do exposto, inexiste ilegalidade a ser sanada.
+Diante do exposto, denego a ordem, in limine.
+Publique-se e intimem-se.
