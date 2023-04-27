@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interposto por BANCO BRADESCO S/A., contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"Cumprimento de sentença. Impugnação desacolhida. Insurgência do executado. Pretensão à rediscussão da matéria constante do título executivo judicial, que não restou atacado por recurso próprio. Evidente rediscussão das questões anteriormente decididas. Preclusão temporal. Inteligência dos artigos 505 e 507 do CPC. Recurso não conhecido" (fl. 243, e-STJ).
+No recurso especial o recorrente aponta violação dos artigos 5º, LIV e 93 IX, da Constituição Federal; 267, III e 267, § 1º do Código de Processo Civil; e art. 14 da Lei 3.779/09, sustentando que "os cálculos equivocados não faz coisa julgada, não havendo preclusão" e que "a conta 3.611.031 possuía vencimento em segunda quinzena, não fazendo jus aos expurgos" (fls. 260-261, e-STJ).
+Afirma que o o título exequendo não se reveste dos atributos da liquidez, da certeza e da exigibilidade.
+É o relatório.
+DECIDO.
+A insurgência não merece prosperar.
+Ao solucionar a controvérsia a Corte de origem dispôs o seguinte:
+"Iniciada a fase de cumprimento de sentença, houve apresentação de cálculos pelo agravado- exequente (fls. 98-102) e o agravante depositou judicialmente R$ 9.564,15 (fls. 115-116). A seguir, o banco impugnou o cumprimento sustentando a inexigibilidade do título e a inexistência de valor a ser pago ao agravado (fls. 120-127).
+Entendendo por bem o douto magistrado a quo, face à divergência de cálculos, nomear perito contador para elaborar laudo (fls. 147), o qual apurou que o valor total devido ao agravado correspondia a R$ 23.825,06 para março de 2017 (fls. 183-188). Apresentadas impugnações e prestados esclarecimentos posteriores (fls. 203-206), sobreveio a r. decisão que homologou os cálculos periciais, ensejando a interposição do presente recurso.
+(..)
+As questões ventiladas na minuta recursal deveriam ter sido suscitadas em recurso de apelação, o qual não foi interposto. Superadas, não cabe, nesta sede, rediscussão acerca de seu acerto ou desacerto, até porque a pretensão do agravante foi colhida pela preclusão temporal, sendo, portanto, vedada a rediscussão da matéria, a teor do disposto nos artigos 505 e 507 do diploma processual civil.
+(..)
+Por conta da coisa julgada que se operou, a alegação de inexistência de título executivo e, consequentemente, de excesso de execução porque o agravante entende que nada deve, bem como de enriquecimento ilícito do agravado não merecem ser conhecidas. No mais, a alegação de que o agravado apresentou "cálculos aritméticos equivocados" e de "vício nos cálculos" é genérica e, da mesma forma, deixa de ser conhecida" (fls. 245-247 e 25, e-STJ - grifou-se).
+Com efeito, "É inviável rever a conclusão do Tribunal de origem quanto à preclusão, porquanto demandaria reexame de provas, o que é vedado nesta instância especial, nos termos da Súmula 7 do STJ" (AgInt no AREsp 1.984.277/SC, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 25/4/2022, DJe de 27/4/2022).
+Ademais "A revisão do entendimento do acórdão recorrido quanto à inexistência de excesso de execução, importa necessariamente reexame de matéria fática e probatória, o que é defeso na instância especial, conforme dispõe a Súmula 7 desta Corte" (AgRg no AREsp 710.244/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 23/2/2016, DJe de 29/2/2016).
+Por fim, verifica-se que o recorrente traz vários dispositivos de lei federal nas razões do recurso especial, sem apontar, de forma clara e suficientemente fundamentada, de que forma o acórdão recorrido os teria violado, sequer indicando o prequestionamento de tais artigos de lei, circunstância que atrai a aplicação da Súmula nº 284/STF à espécie.
+Assim "Não havendo esclarecimento suficiente acerca dos motivos aptos à modificação do entendimento adotado pela Corte de origem e da violação dos dispositivos legais trazidos ao debate, inviável o conhecimento do especial pelo óbice da Súmula n.º 284 do STF" (AgInt no AgInt no AREsp 2.094.466/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 20/3/2023, DJe de 22/3/2023).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Não cabe, na hipótese, a majoração dos honorários sucumbenciais prevista no art. 85, § 11, do Código de Processo Civil de 2015, pois o recurso tem origem em decisão interlocutória sem a prévia fixação de honorários.
+Publique-se.
+Intimem-se.
