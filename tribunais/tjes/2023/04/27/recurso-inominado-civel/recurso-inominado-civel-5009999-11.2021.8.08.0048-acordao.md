@@ -1,0 +1,223 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº
+5009999-11.2021.8.08.0048
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: CAIXA CONSORCIOS S.A. ADMINISTRADORA DE CONSORCIOS
+RECORRIDO: SELECT NEGOCIOS FINANCEIROS E INVESTIMENTOS LTDA e outros (2)
+RELATOR(A):RONALDO DOMINGUES DE ALMEIDA
+
+_______________________________________________________________________________________________________________________________________________________________________________
+
+EMENTA
+
+Voto servindo como ementa.
+
+_______________________________________________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+
+Decisão
+: A unanimidade, conhecer e dar parcial provimento ao recurso, nos termos do voto do Relator.
+
+Órgão julgador vencedor
+: 1ª Turma Recursal - Gabinete 3
+
+_______________________________________________________________________________________________________________________________________________________________________________
+
+RELATÓRIO
+
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+
+_______________________________________________________________________________________________________________________________________________________________________________
+
+NOTAS TAQUIGRÁFICAS
+
+_______________________________________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+
+RECURSO INOMINADO Nº.
+5009999-11.2021.8.08.0048
+
+R
+ECORRENTE:
+CAIXA CONSÓRCIOS S.A. - ADMINISTRADORA DE CONSÓRCIO
+S
+
+RECORRID
+A
+:
+
+NILCEIA BETINI FERNANDES COSTA
+
+R
+ELATOR: O SR. JUIZ DE DIREITO RONALDO DOMINGUES DE ALMEIDA
+
+SENTENCIANTE:
+A SRA. JUÍZA DE DIREITO FABIOLA CASAGRANDE SIMOES
+
+VOTO
+
+Trata-se de recurso inominado interposto pela
+
+requerida em face da sentença
+(id. 3048039
+)
+para o fim de condená-la a restituir
+imediatamente
+a
+s
+quantia
+s
+de
+R$ 6.568,33 (seis mil quinhentos e sessenta e oito reais e trinta e três centavos) relativa ao contrato nº 5923832 e de R$ 1.796,75 (um mil setecentos e noventa e seis reais e setenta e cinco centavos) referente ao contrato de nº 5923842,
+já deduzidos os percentuais de taxa de
+administração
+.
+
+Nos termos do recurso inominado a sentença deve ser reformada, ao
+sustentar
+a necessidade de devolução após o encerramento do grupo,
+bem como
+válida a retenção a título de taxa de administração e fundo de reserva, no importe fixado em contrato.
+
+Eis, em breve síntese, o relatório. Passa-se a fundamentar e decidir.
+
+DOS PRESSUPOSTOS DE ADMISSIBILIDADE RECURSAL.
+
+Quanto aos pressupostos de admissibilidade do recurso inominado interposto, verifica-se que se encontra tempestivo, cabível e devidamente preparado.
+
+D
+O
+MÉRITO
+
+Inicialmente,
+sustenta a requerida que a parte autora contratou e no ato da contratação, informou a parte autora todas as cláusulas contratuais, inclusive de que para a restituição de valores do consorciado desistente, somente seria disponibilizado quando da contemplação da cota (sorteio) ou 60 dias do encerramento do grupo (realização da última assembleia) e a restituição se daria com a devida dedução contratual, ou seja, o caso dos autos é de desistência de cumprimento integral do contrato por parte do consorciado, não sendo, pois caso de alegação de vício de consentimento.
+Dito de outra forma, a lide neste caso é puramente discussão de teses jurídicas.
+
+Nesse sentido, observa-se que a causa de pedir da presente ação se refere à famigerada discussão a respeito do momento para restituição ao consorciado desistente das parcelas adimplidas até a data do pedido de exclusão do grupo, bem como da retenção, pela administradora, de multa contratual além de taxa administrativa.
+
+Com efeito, denota-se das Proposta de Participação a Grupo de Consórcio em questão são negócio jurídico celebrado submetido à Lei n.º 11.795/08 e, neste aspecto, define o art. 22 desta que ''
+a contemplação é a atribuição ao consorciado do crédito para
+a aquisição de bem ou serviço
+,
+bem como para a restituição das parcelas pagas
+,
+no caso dos consorciados excluídos, nos termos do art. 30
+.'' Além disso, estipula o §2º do supracitado Dispositivo Legal que ''
+somente concorrerá à contemplação
+o
+consorciado ativo, de que trata o art. 21
+,
+e os excluídos, para efeito de restituição dos valores pagos
+,
+na forma do art. 30.
+''
+
+Por outro lado, se
+
+não contemplado, aplicar-se-á o disposto no art. 30 da sobredita lei,
+verbis: ''O
+
+consorciado excluído
+não contemplado
+terá direito à restituição da importância paga ao fundo comum do grupo
+, cujo valor deve ser calculado com base no percentual amortizado do valor do bem ou serviço vigente na data da assembleia de contemplação, acrescido dos rendimentos da aplicação financeira a que estão sujeitos os recursos dos consorciados enquanto não utilizados pelo participante, na forma do art. 24, §1º.''
+
+Nesta toada, ressalta-se que a matéria vem sendo tratada com acentuada divergência entre os Juízes e Juízas do sistema do Juizado do Tribunal de Justiça do Estado do Espírito Santo e não se pode deixar de ressaltar que estas divergências deu ensejo à instauração de Incidentes de Resolução de Demandas Repetitivas - IRDR- no âmbito das Turmas Reunidas, tombado sob nº 22/20015, cuja decisão foi no sentido de que a devolução pago pelo aderente ao consórcio se daria de forma imediata, trinta dias após seu desligamento do grupo e esta posição vinha sendo adotada pelo Juízo do 4º Juizado Especial Cível da Serra, até porque a decisão em sede de IRDR possui efeito vinculante.
+
+Todavia, o que se nota nas reiteradas decisões recentes (nos últimos três anos) firmadas pelo STJ e pelo próprio Tribunal de Justiça do ES é que a cláusula contratual de restituição ao final do grupo, tal como sustentado pela ré e a própria interpretação a que se deveria dar à Norma de Regência que regula atualmente este tipo de relação contratual, não seria abusiva, pois o consorciado desistente equipara-se ao excluído, de sorte que, nos termos da legislação vigente, a restituição deveria
+
+ocorrer apenas após a contemplação do desistente
+
+excluído, mediante sorteio em assembleia
+
+(art. 22) ou, se esta não ocorrer, ao final do contrato (art. 30).
+
+Assim, ainda que a decisão fixada naquele IRDR não tenha sido cancelada, forçoso é reconhecer que não faz sentido este Juízo manter aquela posição de forma incompatível com as decisões do STJ e do próprio Tribunal de Justiça, ou seja, a decisão vinculante destoa da própria finalidade da instauração do incidente de uniformização de interpretação de lei, pois a decisão que até então se estava seguindo, porquanto vinculante, se mostra superada por instâncias decisórias que se encontram em nível superior a elas dentro da estrutura dos órgãos jurisdicionais.
+
+Assim, o entendimento que até então se vinha trilhando se mostra desconexo com a posição consolidada no âmbito do STJ, que tem exatamente por finalidade a uniformização de interpretações da legislação federal brasileira, pelo que não se pode mais manter a aplicação do IRDR acima mencionado.
+
+RECURSO ESPECIAL Nº 1914853 - SP (2021/0003488-8) DECISÃO Francisco Florentino da Silva ajuizou ação de conhecimento contra Embracon Administradora de Consórcios Ltda. postulando a devolução dos valores pagos em face da
+desistência do consórcio para aquisição de bem imóvel firmado entre as partes
+, acrescida de correção monetária e juros legais; a declaração da nulidade da cláusula penal; e a cobrança proporcional da taxa de administração. O Magistrado de primeiro grau julgou parcialmente procedente o pedido para declarar a rescisão do contrato firmado entre as partes, com a devolução imediata de R$ 5.087,76 (cinco mil, oitenta e sete reais e setenta e seis centavos), descontada a taxa de administração e o fundo de reserva, de forma proporcional ao tempo de permanência no grupo. Interpostos recursos de apelação por ambas das partes, a Décima Quarta Câmara de Direito Privado do Tribunal de Justiça de São Paulo, por unanimidade de votos, deu parcial provimento à insurgência do autor e negou provimento ao apelo do réu com vistas a condenar a ré a devolver, de forma imediata, os valores recebidos, nos termos da seguinte ementa (e-STJ, fl. 294): AÇÃO DE RESTITUIÇÃO DE QUANTIA PAGA DE CONTRATO DE CONSÓRCIO DE BEM MÓVEL -
+Ausência de vício de consentimento - Hipótese de evidente desistência do consorciado - Pretensão à devolução imediata das parcelas pagas
+- Viabilidade, diante da particularidade do caso Consórcio de longa duração (150 meses) - Devolução após encerramento do grupo ou mediante contemplação em sorteio que constituiria desvantagem exagerada ao consumidor, o que não pode prevalecer frente à regra do artigo 51, IV, do CDC - Solvabilidade necessária para preservar os interesses do grupo - Liberdade das administradoras de consórcio para fixação das respectivas taxas de administração, conforme art. 33 da Lei nº 8.177/91 e Circular nº 2.766/1997 do BACEN Precedente do C. STJ em recurso especial repetitivo (art. 1.036 do CPC)- Súmula 538 do STJ - Ilegalidade da incidência da cláusula penal, por representar nítida desvantagem ao consumidor e verdadeiro 'bis in idem' em razão de também lhe ser retido percentual a título de taxa de administração - Possibilidade de retenção do valor do seguro, proporcional ao tempo em que o autor permaneceu no grupo consorcial - Valores que devem ser restituídos com correção monetária (súmula 35, STJ) e juros de mora - Recurso do autor provido, em parte, e não provido o da ré. Opostos embargos de declaração, foram rejeitados (e-STJ, fls. 315-324). Inconformada, Embracon interpõe recurso especial, fundamentado nas alíneas a e c do permissivo constitucional, apontando violação aos arts. 22, 24, § 1º, 27, e 30 da Lei n. 11.795/2008; e 53, § 2º, do CDC, além da existência de divergência jurisprudencial. Sustenta, em síntese, que, em caso de desistência do consorciado individual, a restituição dos valores pagos ao consórcio firmado entre as partes somente é devida em caso de sorteio ou após o encerramento do grupo, e não de forma imediata. Afirma a necessidade de dedução da taxa de administração no percentual contratado de 17% (dezessete por cento) e de aplicação da cláusula penal no percentual de 10% (dez por cento) em favor do grupo e de 20% (vinte por cento) para a administradora. Alega que deve ser mantida a forma de atualização prevista no contrato firmado entre as partes, devendo-se afastar a correção pela Tabela Prática do TJ/SP. Aduz que o termo inicial dos juros de mora deve incidir a partir do trigésimo primeiro dia do encerramento do grupo consorcial. Contrarrazões apresentadas às fls. 369-380 (e-STJ). Admitido o recurso especial na origem, os autos ascenderam a esta Corte (e-STJ, fls. 381-384). Brevemente relatado, decido. Na hipótese, o Tribunal de origem determinou a devolução imediata ao autor dos valores pagos ao consórcio, sob as seguintes justificativas (e-STJ, fls. 296- 297): Extraí-se dos autos que o autor aderiu a contrato de consórcio, em 02.01.2017, para aquisição de bem imóvel, na condição de consorciado no Grupo 0796, cotas nº 0011.06, no valor de R$ 400.000,00, dividido em 150 parcelas mensais (fls. 18). De início, ressalto não haver sequer início de prova de vício de consentimento quando da contratação, sendo o autor maior, possuindo plenas condições de entender as condições do consórcio pactuado. O que se vislumbra, na verdade, é nítido arrependimento do autor quanto à contratação, e desistência do negócio. Com efeito, a contratação entre as partes se deu sob a égide daLei nº 11.795/2008 (cf. fls. 20 e seguintes). No mais, a Segunda Seção do STJ, no julgamento do REsp. nº 1.119.300/RS, prolatado sob o regime do art. 543- C do CPC revogado, assinalou que a restituição das parcelas pagas pelo participante desistente deve ocorrer em até 30 dias após o término do prazo previsto no contrato para o encerramento do grupo correspondente, porém, essa orientação diz respeito apenas aos contratos anteriores à edição da Lei nº 11.795, de 2008 (Rcl nº 16.112/BA, 2ª Seção, Rel. Min. Sidnei Beneti, DJe 08.04.2014). Assim, no caso da autora, a priori, aplicar-se-iam as disposições do novo diploma, e, sendo assim, a restituição das parcelas aos consorciados excluídos se daria por contemplação, à qual ele concorreria juntamente com os consorciados ativos (art. 22, caput, parágrafo 2º, Lei nº 11.795/2008), ou, na falta dela, em até 60 (sessenta) dias do encerramento do grupo, na forma do art. 31, I, da Lei nº 11.795/2008. Contudo, tratando-se de contrato de consórcio de longa duração (150 meses - aproximadamente 12 anos e meio), denota-se exagerada desvantagem impor-se ao autor que aguarde o lapso de mais de 12 anos para obter a restituição das parcelas pagas. Cabe pontuar que o autor adquiriu o produto da ré na qualidade de destinatário final, fazendo incidir, portanto, as disposições do Código de Defesa do Consumidor (art. 2º do CDC). Nesse sentido, tal comportamento importaria em nítida ofensa ao disposto no art. 51, IV, do CDC, in verbis: "Art. 51. São nulas de pleno direito, entre outras, as cláusulas contratuais relativas ao fornecimento de produtos e serviços que: IV - estabeleçam obrigações consideradas iníquas, abusivas, que coloquem o consumidor em desvantagem exagerada, ou sejam incompatíveis com a boa-fé ou a equidade." De outro lado, não se vislumbra prejuízo para a administradora do grupo de consórcios que justifique a retenção dos valores desembolsadas pela autora, eis que as cotas são normalmente repassadas a outros interessados. Nessa esteira, diante da particularidade do caso, reconheço o direito do autor à devolução imediata do que pagou à ré, facultado o desconto da taxa de administração e do valor de seguro, proporcionalmente ao tempo em que permaneceu no grupo, porque a devolução dos valores deve se dar da maneira mais global possível, como, aliás, já decidiu este E. Tribunal de Justiça em caso semelhante (cf. AC 346.611-4/7, Rel. Des. Ribeiro da Silva).
+Todavia, consoante o entendimento desta Corte, firmado no julgamento do recurso representativo da controvérsia REsp n. 1.119.300/RS, a devolução de valores, em caso de desistência do consorciado, não é imediata, devendo ocorrer no prazo de até 30 (trinta) dias após o prazo previsto contratualmente para encerramento do grupo correspondente
+. Veja-se a ementa do citado precedente: RECURSO ESPECIAL REPETITIVO. JULGAMENTO NOS MOLDES DO ART. 543-C DO CÓDIGO DE PROCESSO CIVIL. CONSÓRCIO. DESISTÊNCIA. DEVOLUÇÃO DAS PARCELAS PAGAS PELO CONSORCIADO. PRAZO. TRINTA DIAS APÓS O ENCERRAMENTO DO GRUPO. 1. Para efeitos do art. 543-C do Código de Processo Civil: é devida a restituição de valores vertidos por consorciado desistente ao grupo de consórcio, mas não de imediato, e sim em até trinta dias a contar do prazo previsto contratualmente para o encerramento do plano. 2. Recurso especial conhecido e parcialmente provido. (REsp 1.119.300/RS, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 14/04/2010, DJe 27/08/2010) Nesse sentido: CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM RESTITUIÇÃO DE CRÉDITO. CONSÓRCIO DE BEM IMÓVEL. DESISTÊNCIA. DEVOLUÇÃO DOS VALORES PAGOS PELO PARTICIPANTE. PRAZO. TRINTA DIAS APÓS O ENCERRAMENTO DO GRUPO. ENTENDIMENTO FIRMANDO NO RESP Nº 1.119.300/RS. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO. 1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. É devida a restituição de valores vertidos por consorciado desistente ao grupo de consórcio, mas não de imediato, e sim em até trinta dias a contar do prazo previsto contratualmente para o encerramento do plano. Precedente firmado em recurso representativo da controvérsia.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos. 4. Agravo interno não provido. (AgInt no REsp 1741693/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 17/02/2020, DJe 19/02/2020) Ademais, a jurisprudência desta Corte firmou entendimento no sentido de que é devida a restituição de valores vertidos por consorciado desistente ao grupo de consórcio, mas não de imediato, e sim em até trinta dias a contar do prazo previsto contratualmente para o encerramento do plano, inclusive em relação aos contratos celebrados na vigência da Lei 11.795/2008. Confira-se: AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL. CONSÓRCIO. DESISTÊNCIA. DEVOLUÇÃO DAS PARCELAS PAGAS PELO CONSORCIADO. ENCERRAMENTO DO GRUPO. APLICAÇÃO DA TESE FIXADA EM SEDE DE REPETITIVOS INCLUSIVE EM RELAÇÃO AOS CONTRATOS CELEBRADOS SOB A VIGÊNCIA DA LEI 11.795/08. PRECEDENTE (RCL 16.390/BA). 1. "É devida a restituição de valores vertidos por consorciado desistente ao grupo de consórcio, mas não de imediato, e sim em até trinta dias a contar do prazo previsto contratualmente para o encerramento do plano." (REsp 1.119.300/RS, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 14/04/2010, DJe 27/08/2010) 2. Pretensos defeitos na prestação dos serviços. Ausência de clara indicação das referidas falhas desde a inicial. Pretensão de mero desligamento. Atração do enunciado 7/STJ. 3. Atualização. Ausência de prequestionamento do quanto disposto no art. 30 da Lei 11.795/08. Atração do enunciado 282/STF. 4. AGRAVO INTERNO DESPROVIDO. (AgInt no REsp 1689423/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 26/08/2019, DJe 30/08/2019) RECLAMAÇÃO. PROCESSAMENTO. RESOLUÇÃO 12/2009-STJ. DISTRIBUIÇÃO ANTERIOR À RESOLUÇÃO 3/2016-STJ. CONSÓRCIO. DESISTÊNCIA OU EXCLUSÃO. RESTITUIÇÃO DE PARCELAS. ENCERRAMENTO DO GRUPO. RECURSO REPETITIVO. CONTRATOS CELEBRADOS APÓS 6.2.2009, NA VIGÊNCIA DA LEI 11.795/2008. GRUPO DE CONSÓRCIO INICIADO NA VIGÊNCIA DA LEGISLAÇÃO ANTERIOR. 1. A reclamação distribuída e pendente de apreciação antes da publicação da Resolução-STJ 3/2016, que delegou competência aos Tribunais de Justiça para processar e julgar as reclamações destinadas a dirimir divergência entre acórdão proferido por Turma Recursal estadual ou do Distrito Federal e a jurisprudência do STJ, deve ser processada e julgada por este Tribunal, na forma disciplina da pela Resolução-STJ 12/2009. 2. Os fundamentos que basearam a orientação consolidada pela Segunda Seção no julgamento do RESP. 1.119.300/RS, submetido ao rito dos recursos repetitivos (CPC/1973, art. 543-C), no sentido de que "é devida a restituição de valores vertidos por consorciado desistente ao grupo de consórcio, mas não de imediato, e sim em até trinta dias a contar do prazo previsto contratualmente para o encerramento do plano", aplicam-se aos contratos celebrados na vigência da Lei 11.795/2008. 3. Hipótese, ademais, em que o interessado aderiu, em dezembro 2009, a grupo de consórcio iniciado antes da entrada em vigor da Lei 11.795/2008. 4. Reclamação procedente. (Rcl 16.390/BA, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 28/06/2017, DJe 13/09/2017) Desse modo, é impositiva a reforma do acórdão recorrido, porque se encontra em divergência ao entendimento jurisprudencial acima declinado. Por outro lado, o Colegiado estadual concluiu que a taxa de administração não deve integrar o montante a ser devolvido ao agravado, conforme trecho abaixo transcrito (e-STJ, fls. 297-298, sem grifo no original): De outro lado, inexiste qualquer ilegalidade ou abusividade quanto à cobrança da taxa de administração (fls. 22), porque a jurisprudência tem entendido que os consórcios têm liberdade para fixar a taxa de administração,tudo nos termos do art. 33 da Lei 8.177/91 e da Circular 2.766/97 do BACEN. (...) A seguir, segue entendimento pacificado no âmbito do Colendo STJ, quando do julgamento de recurso especial processado sob o rito do atual art. 1.036 do CPC (recursos repetitivos: "RECURSO ESPECIAL. RITO DO ART. 543-C DO CPC. CONSÓRCIO. TAXA DE ADMINISTRAÇÃO. FIXAÇÃO. LIMITE SUPERIOR A 10% (DEZ POR CENTO). AUSÊNCIA DE ILEGALIDADE E ABUSIVIDADE. LIVRE PACTUAÇÃO PELAS ADMINISTRADORAS. POSSIBILIDADE. 1 As administradoras de consórcio têm liberdade para fixar a respectiva taxa de administração, nos termos do art. 33 da Lei nº 8.177/91 e da Circular nº 2.766/97do Banco Central, não havendo que se falar em ilegalidade ou abusividade da taxa contratada superior a 10% (dez por cento), na linha dos precedentes desta Corte Superior de Justiça (AgRg no REsp nº 1.115.354/RS, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 27/3/2012, DJe 3/4/2012; AgRg no REsp nº 1.179.514/RS, Rel. Ministro Antônio Carlos Ferreira, Quarta Turma, julgado em 20/10/2011, DJe 26/10/2011; AgRg no REsp nº 1.097.237/RS, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 16/06/2011, DJe 5/8/2011; AgRg no REsp nº 1.187.148/RS, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 3/5/2011, DJe 10/5/2011; AgRg no REsp nº 1.029.099/RS, Rel. Ministro Sidnei Beneti, Terceira Turma, julgado em 14/12/2010, DJe 17/12/2010; EREsp nº 992.740/RS, Rel. Ministro Luis Felipe Salomão, Segunda Seção, julgado em 9/6/2010, DJe 15/6/2010). 2 - O Decreto nº 70.951/72 foi derrogado pelas circulares posteriormente editadas pelo BACEN, que emprestaram fiel execução à Lei nº 8.177/91. 3 - Recurso especial provido (RESP 1.114.606-PR, 2ª Seção,Rel. Ministro Ricardo Villas Bôas Cueva, j. 13.06.2 012, v.u.).E, ainda, a Súmula 538 do STJ:"As administradoras de consórcio têm liberdade para estabelecer a respectiva taxa de administração, ainda que fixada em percentual superior a dez por cento". Cumpre frisar que as taxas de administração são encargos destinados a cobrir os custos da administradora com a efetiva prestação de serviços, pertencendo, portanto, à administradora do consórcio, não devendo integrar a importância a ser devolvida ao consorciado desistente. Portanto, constata-se a ausência de interesse recursal, no ponto. Em relação à cláusula penal, consta do acórdão recorrido (e-STJ, fls. 299-300): De outro lado, a incidência de cláusula penal representa nítida desvantagem ao consumidor, principalmente em razão de também lhe ser retido percentual a título de taxa de administração, o que caracteriza verdadeiro ‘bis in idem’, oriundo do mesmo fato gerador. Na medida em que já há um redutor para os casos de exclusão/desistência do consorciado, que, efetivamente, não pode ser cumulado com cláusula penal, sob pena de o consorciado sofrer excessiva oneração. (...) Portanto, abusiva a cobrança da multa compensatória (cláusula 41.1) e da cláusula penal (cláusula 42 do regulamento - fls. 44), na medida em que o abatimento dependeria de efetiva comprovação de prejuízo, do que a ré não cuidou. Assim, atentando-se aos argumentos trazidos pela recorrente e aos fundamentos adotados pela Corte estadual acima destacados, verifica-se que estes não foram objeto de impugnação nas razões do recurso especial, e a manutenção de argumento que, por si só, mantém o acórdão recorrido torna inviável o conhecimento do apelo especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal. Ainda que afastado tal óbice, observa-se que acórdão recorrido está em perfeita harmonia com a jurisprudência desta Corte no sentido de que" a possibilidade de se descontar dos valores devidos percentual a título de reparação pelos prejuízos causados ao grupo depende da efetiva prova do dano sofrido "(AgRg no REsp 1.483.513/DF, Rel. Ministro Paulo de Tarso Sanseverino, DJe 26/4/2016). No tocante à atualização dos valores, o Tribunal de origem assim se manifestou (e-STJ, fl. 301): Quanto aos valores pagos, devem ser restituídos com atualização monetária, eis que a Súmula 35 do STJ estabelece que:"incide correção monetária sobre as prestações pagas, quando de sua restituição, em virtude da retirada ou exclusão do participante de plano de consórcio". A propósito, o índice a ser aplicado, conforme já pacificou o Col. STJ, deverá ser aquele que melhor refletir a desvalorização da moeda. Assim, o valor deverá ser corrigido monetariamente pelo índice da Tabela Prática deste Eg. Tribunal de Justiça, que, pelo que se sabe, é o que melhor reflete a desvalorização da moeda nas demandas judiciais, a partir do recolhimento de cada parcela, e acrescido de juros de mora a contar da citação de 1% ao mês, nos termos do artigo 406 do CC/02 c.c. 161, § 1º, do CTN. Tendo o acórdão recorrido decidido em consonância com a jurisprudência desta Casa, incide, na hipótese, o enunciado n. 83 da Súmula do Superior Tribunal de Justiça, que abrange os recursos especiais interpostos com amparo nas alíneas a e/ou c do permissivo constitucional. A propósito: AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONSÓRCIO. CONTRATO CELEBRADO APÓS 6.2.2009, NA VIGÊNCIA DA LEI 11.795/2008. DESISTÊNCIA. RESTITUIÇÃO DAS PARCELAS. CORREÇÃO MONETÁRIA. SÚMULA N. 35/STJ. NÃO PROVIMENTO. 1. É possível a incidência de correção monetária nos valores a serem restituídos a ex-participante de consórcio. Isso porque essa parcela não se constitui em acréscimo do valor investido, mas mera forma de recomposição do valor da moeda corroída pela inflação. 2. A jurisprudência desta Corte firmou o entendimento no sentido de que a correção monetária a que alude o enunciado nº 35/STJ, deve observar índice que melhor reflita a realidade inflacionária. 3. Agravo interno a que se nega provimento. (AgInt no AREsp 1365580/GO, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 11/06/2019, DJe 14/06/2019) Por fim, em relação ao termo inicial dos juros de mora, assiste razão à insurgente, no sentido de que somente serão devidos a partir do 31º (trigésimo primeiro) dia após encerramento do grupo. Nesse sentido: AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL. CONSÓRCIO. CONSORCIADO DESISTENTE. RESTITUIÇÃO DOS VALORES PAGOS EM ATÉ 30 DIAS DO PRAZO PREVISTO CONTRATUALMENTE PARA O ENCERRAMENTO DO PLANO. MORA AUTOMÁTICA A PARTIR DO 30º DIA. DESNECESSIDADE DE CITAÇÃO VÁLIDA. REPETITIVO APLICÁVEL: RESP 1.119.300/RS. RECURSO NÃO PROVIDO. 1. A pacífica jurisprudência do STJ é no sentido de que fica constituída automaticamente em mora a Administradora que não reembolsar o consorciado desistente até o trigésimo dia após o encerramento contratualmente previsto do plano, incidindo a partir daí juros de mora e correção monetária, não havendo falar em necessidade de citação válida. 2. Agravo regimental não provido. (AgRg no AREsp 505.627/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 25/11/2014, DJe 19/12/2014)
+Ante o exposto, dou parcial provimento ao recurso especial para determinar a devolução dos valores em até 30 (trinta dias) a contar do prazo previsto contratualmente para o encerramento do grupo, a partir de então os juros de mora serão devidos.
+Ficam invertidos os honorários sucumbenciais fixados na origem. Publique-se. Brasília, 08 de março de 2021. MINISTRO MARCO AURÉLIO BELLIZZE, Relator (STJ - REsp: 1914853 SP 2021/0003488-8, Relator: Ministro MARCO AURÉLIO BELLIZZE, Data de Publicação: DJ 17/03/2021).
+
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL. CONSÓRCIO.
+DESISTÊNCIA. DEVOLUÇÃO DAS PARCELAS PAGAS PELO CONSORCIADO. ENCERRAMENTO DO GRUPO.
+APLICAÇÃO DA TESE FIXADA EM SEDE DE REPETITIVOS INCLUSIVE EM RELAÇÃO AOS CONTRATOS CELEBRADOS SOB A VIGÊNCIA DA LEI 11.795/08. PRECEDENTE (RCL 16.390/BA). 1. "
+É devida a restituição de valores vertidos por consorciado desistente ao grupo de consórcio, mas não de imediato, e sim em até trinta dias a contar do prazo previsto contratualmente para o encerramento do plano." (REsp 1.119.300/RS, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 14/04/2010, DJe 27/08/2010)
+2. Pretensos defeitos na prestação dos serviços. Ausência de clara indicação das referidas falhas desde a inicial. Pretensão de mero desligamento. Atração do enunciado 7/STJ. 3. Atualização. Ausência de prequestionamento do quanto disposto no art. 30 da Lei 11.795/08. Atração do enunciado 282/STF. 4. AGRAVO INTERNO DESPROVIDO. (STJ - AgInt no REsp: 1689423 SP 2017/0189160-6, Relator: Ministro PAULO DE TARSO SANSEVERINO, Data de Julgamento: 26/08/2019, T3 - TERCEIRA TURMA, Data de Publicação: DJe 30/08/2019)
+
+Colaciona-se ainda entendimento do nosso Tribunal de Justiça Estadual - TJES:
+
+EMENTA: APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA CUMULADA COM INDENIZATÓRIA.
+RESCISÃO DE CONTRATO DE CONSÓRCIO. DESISTÊNCIA VOLUNTÁRIA DA CONSUMIDORA. RESTITUIÇÃO SOMENTE NO PRAZO DE 30 DIAS APÓS O ENCERRAMENTO DO GRUPO.
+APLICAÇÃO DO TEMA REPETITIVO Nº 312 TAMBÉM AOS CONTRATOS FIRMADOS APÓS O INÍCIO DA VIGÊNCIA DA LEI Nº 11.795/08. PRECEDENTES DO STJ. RESPONSABILIDADE CIVIL NÃO CONFIGURADA. EQUÍVOCO NO CAPÍTULO DECISÓRIO QUE VERSA SOBRE A ATUALIZAÇÃO DA QUANTIA A SER RESTITUÍDA. SÚMULA Nº 35, STJ. ÍNDICE ADOTADO PELA CGJES. PRECEDENTES DESTE TRIBUNAL. RECURSO CONHECIDO E PARCIALMENTE PROVIDO. 1) Na hipótese em apreço, as partes firmaram entre si dois contratos de consórcio, mas a apelante narra que, embora tenha sido contemplada por sorteio, a liberação da carta de crédito foi injustificadamente negada pela administradora, que fez exigências desarrazoadas, tais como avalistas com dois imóveis e solicitação de diversos documentos. 2) A resolução da questão posta passa pela apuração da responsabilidade pelo desfazimento do negócio jurídico, eis que a incidência de descontos por encargos contratuais no valor a ser restituído à autora e o momento em que esta devolução será implementada definem-se de maneiras distintas quando o contrato de consórcio é rescindido por desistência voluntária da requerente ou por culpa exclusiva da administradora do consórcio. 3) No caso vertente, analisando as provas coligidas aos autos, esta Câmara entende que não houve comprovação de nenhuma conduta irregular da administradora do consórcio, eis que a exigência de garantia, além de encontrar amparo na legislação pátria, constitui até mesmo um dever da administradora, a qual é constituída justamente para zelar pela saúde financeira de todo o grupo. Outrossim, o contrato de consórcio em comento prevê expressamente a possibilidade de, por ocasião da contemplação, ser exigido do consorciado o oferecimento de garantias complementares. 4) A legislação pátria, bem como o contrato em testilha, exigem da administradora que, antes da liberação do crédito, faça minuciosa análise de risco, de modo a aferir, com suporte na capacidade econômico-financeira do consorciado contemplado e na proporção das parcelas vincendas, pela necessidade, ou não, de oferecimento de garantias complementares. Bem por isso, considerando sobretudo que a autora foi contemplada quando o grupo ainda estava no início, conclui-se pela legalidade da exigência, in casu , de avalista para a liberação da carta de crédito, o que implica a rejeição da tese de rescisão por culpa exclusiva da administradora e impõe o reconhecimento da desistência voluntária da autora. 5) Não tendo sido constatado nenhum ato ilícito praticado pela administradora do consórcio, forçoso convir pelo acerto da sentença quanto ao modo que será efetivada a restituição dos valores pagos e à improcedência do pedido indenizatório, eis que a inexistência de ato ilícito afasta, neste caso, eventual responsabilidade civil da pessoa jurídica apelada. 6)
+A tese firmada pelo Tribunal da Cidadania no julgamento do REsp nº 1119300/RS (Tema Repetitivo nº 312) não se restringe aos contratos de consórcio celebrados antes da vigência da lei nº 11.795/08. Precedentes do STJ
+. 7) De acordo com o enunciado 35 da Súmula do STJ, incide correção monetária sobre as prestações pagas, quando de sua restituição, em virtude da retirada ou exclusão do participante de plano de consórcio, a partir do efetivo desembolso de cada prestação, pelos índices previstos na tabela da Corregedoria Geral de Justiça do Estado do Espírito Santo, e não pelo valor do bem objeto do consórcio. 8) Recurso conhecido parcialmente provido.(TJ-ES - AC: 00364905720178080024, Relator: ELIANA JUNQUEIRA MUNHOS FERREIRA, Data de Julgamento: 19/10/2021, TERCEIRA CÂMARA CÍVEL, Data de Publicação: 29/10/2021).
+
+Assim, diante do entendimento apresentado, é impositiv
+a a improcedência do pedido de devolução imediata do valor pago, aplicada a disposição do Enunciado 25 da Turma de Uniformização e Interpretação de Lei do Juizado Capixaba.
+
+P
+or outro lado, em relação à retenção a título de taxa de administração,
+
+considerando que
+a referida taxa serve para remunerar a empresa de consórcio pela administração do contrato, considerando o pedido de desistência, houve a interrupção da prestação daquele serviço em favor da parte autora, não se justificando a cobrança integral da taxa.
+
+Nessa ordem de ideias, entende-se correta a conclusão da r. sentença de efetuar o cálculo da taxa de administração sobre cada parcela paga, ou seja, proporcional ao tempo do contrato de consórcio da parte autora. Não havia espaço para outro procedimento
+,
+por este motivo
+,
+
+comunga-se com a
+r. sentença,
+ao entender que o
+cálculo da retenção da taxa de administração deverá ter como base de cálculo o valor de cada parcela.
+
+Em relação
+
+ao fundo de reserva,
+a
+recorrente pugnou pelo abatimento de
+1
+0% sobre o valor a ser restituído em favor da autora a título de multa penal compensatória,
+contudo,
+entende-se que a imposição da multa mostra-se abusiva, uma vez que
+não há prova nos autos de que a desistência da
+parte
+autora tenha causado prejuízos ao grupo consorciado ou à administradora do consórcio,
+conforme entendimentos já fixados em outras Colendas:
+
+''APELAÇÕES. CONSÓRCIO DE VEÍCULO. Ação declaratória de nulidade contratual e devolução dos valores pagos. Sentença de parcial procedência. Inconformismo das partes. NULIDADE DO CONTRATO. Descabimento. Ausência de prova de vício de consentimento. TAXA DE ADMINISTRAÇÃO. Legalidade da cobrança. Ausência de imposição de limite pela lei. Aplicação do entendimento do STJ no Resp 1.114.606/PR. CORREÇÃO MONETÁRIA. Incidência a partir dos desembolsos. Súmula nº 35 do E. STJ. JUROS DE MORA. Incidência a partir do encerramento do contrato. Impossibilidade de se fixar da citação, tendo em vista não estar a administradora de consórcio constituída em mora. MULTA. Descabimento. Ausência de demonstração de prejuízo. SEGURO DE VIDA. Cabível a retenção dos valores comprovadamente pagos. STJ, Resp 1.119.300-RS. APELOS PROVIDOS EM PARTE.''
+
+''AÇÃO DECLARATÓRIA COM PEDIDO DE RESTITUIÇÃO DE VALORES - Contrato de Consórcio - Restituição dos valores pagos sem qualquer retenção a título de multa contratual - Possibilidade - Resilição unilateral do contrato - Desistência do recorrido que não faz presumir a existência de prejuízo ao grupo consorciado - Correção monetária - Cabimento - Cálculos que devem ser efetuados segundo o teor da Súmula 35, do STJ - Negócio jurídico firmado em 2007 - Não incidência do art. 30, da Lei nº 11. 795/2008 - Juros de mora - Afastamento - Devolução que se deu no interregno de 30 (trinta) dias contados do término do grupo consorciado - Alteração do ônus sucumbencial - Cabimento - Obrigação que recai contra a requerida - SENTENÇA REFORMADA - RECURSO PARCIALMENTE PROVIDO. ''
+Costurado10@
+
+Ante o exposto
+,
+CONHECE-SE
+do recurso e lhe
+CONFERE PARCIAL PROVIMENTO
+para o fim de julgar improcedente o pedido de devolução imediata do valor pago, nos termos da fundamentação (coisa julgada
+rebu
+s
+sic stantibus),
+mantida a sentença quanto aos demais termos.
+
+Diante do parcial provimento do recurso, sem condenação em custas nem honorários.
+
+É como voto.
+
+_______________________________________________________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
