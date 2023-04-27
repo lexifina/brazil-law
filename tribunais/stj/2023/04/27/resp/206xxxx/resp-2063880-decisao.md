@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de recurso especial interposto por THYAGO GUTIERRES RODRIGUES SANTOS, fundamentado exclusivamente na alínea "a" do permissivo constitucional.
+Recurso especial interposto em: 04/04/2022.
+Concluso ao Gabinete em: 20/04/2023.
+Ação: de rescisão contratual cumulada com reparação de danos materiais e compensação de danos morais, ajuizada pelo recorrente, em desfavor da FORD MOTOR COMPANY BRASIL LTDA, tendo em vista vícios constatados em veículo 0km adquirido desta fabricante.
+Sentença: julgou procedentes os pedidos, para rescindir o contrato firmado entre as partes, bem como para condenar a recorrida, a título de danos materiais, ao pagamento da restituição de toda a quantia desembolsada pelo recorrente para a compra do veículo, corrigida monetariamente, e, a título de danos morais, ao pagamento de R$ 5.000,00 (cinco mil reais).
+Acórdão: negou provimento às apelações interpostas pelo recorrente e pela recorrida, nos termos da seguinte ementa:
+APELAÇÕES CÍVEIS - AÇÃO DE RESCISÃO CONTRATUAL C/C INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS - VEÍCULO ZERO QUILÔMETRO (FORD KA 1.0 SE FLEX - ENTRADA DE R$ 20.000,00 E PARCELAS JÁ PAGAS TOTALIZANDO R$ 31.863,27) QUE APRESENTOU DEFEITOS COM APENAS DOIS DIAS DE USO E 82 KM RODADOS. VÍCIO OCULTO (PANE NO SISTEMA ELÉTRICO, GERANDO "APAGAMENTO" ABRUPTO EM PLENO MOVIMENTO). PERSISTÊNCIA DOS DEFEITOS MESMO APÓS VÁRIAS IDAS À ASSISTÊNCIA TÉCNICA (FLS. 33-63 - OITO ORDENS DE SERVIÇO JUNTADAS COM A EXORDIAL, REFERENTES AO MESMO DEFEITO). DEVOLUÇÃO DOS VALORES PAGOS E DANO MORAL FIXADO EM R$ 5.000,00.
+ALEGAÇÃO DE NULIDADE DA SENTENÇA AFASTADA - REALIZAÇÃO DE PROVA PERICIAL QUE NÃO SE REVELA IMPRESCINDÍVEL À DEMONSTRAÇÃO DOS FATOS DIANTE DO FARTO ACERVO PROBATÓRIO DOCUMENTAL - VÍCIO OCULTO DO PRODUTO - INTELIGÊNCIA DO ART. 18 DO CDC - RETORNO POR DIVERSAS VEZES AO ESTABELECIMENTO - PROBLEMAS QUE PROLONGARAM NO TEMPO - CENÁRIO INCOMPATÍVEL COM AS CARACTERÍSTICAS DE UM VEÍCULO NOVO - CONTRAPOSIÇÃO ÀS PERSPECTIVAS GERADAS ANTE A AQUISIÇÃO DE UM BEM PELO QUAL SE PAGA SIGNIFICATIVO VALOR - IMPOSSIBILIDADE DE IMPUTAR AO DEMANDANTE A OBRIGAÇÃO DE SE AMOLDAR A UM PRODUTO VICIADO - DANOS MORAIS FIXADOS DENTRO DOS PARÂMETROS DESTA CORTE DE JUSTIÇA - SENTENÇA MANTIDA - HONORÁRIOS SUCUMBENCIAIS MAJORADOS PARA 12% SOBRE O VALOR DA CONDENAÇÃO - RECURSOS CONHECIDOS E IMPROVIDOS (e-STJ fl. 656).
+Embargos de declaração: opostos pelo recorrente e pela recorrida, foram ambos rejeitados.
+Recurso especial: aponta violação dos arts. 489, § 1º, IV e VI, e 1.022, II, do CPC/2015. Sustenta a ocorrência de negativa de prestação jurisdicional, porquanto o Tribunal de origem teria sido omisso com relação a:
+A.1) art. 249, parágrafo único, e 927, ambos do Código Civil (sobre as supervenientes despesas urgentes realizadas pelo Recorrente e o ressarcimento devido, sob pena de enriquecimento ilícito da Ford);
+A.2) art. 493 e 1.014, ambos do CPC/2015 (sobre a questão de fato superveniente indicada anteriormente, a qual não foi considerada nem pelo juízo primevo, nem pelo Tribunal sergipano);
+A.3) precedentes do STJ que indicam claramente que o quantum indenizatório está aquém do valor chancelado por esta Corte Cidadã (e-STJ fl. 713).
+RELATADO O PROCESSO, DECIDE-SE.
+- Da negativa de prestação jurisdicional
+As razões recursais tecidas acerca das supostas omissões do Tribunal de origem residem na alegação de que o TJ/SE, apesar de instado a manifestar-se por meio de embargos declaratórios, quedou-se silente no que concerne ao argumento trazido pelo recorrente acerca do pleito - manifestado nas razões de apelação - de ressarcimento do conserto emergencial realizado no veículo e cuja comprovação, dada a superveniência dos fatos, deu-se apenas após a prolação da sentença.
+Da análise do processo, contudo, constata-se que o Tribunal, ao julgar os embargos de declaração opostos pelo recorrente, foi omisso quanto a este argumento.
+Assim, impõe-se a cassação do acórdão que apreciou os declaratórios, a fim de que seja sanado o vício suscitado, bem como a remessa dos autos ao TJ/SE, a fim de que este se pronuncie, na esteira do devido processo legal, acerca do ponto anteriormente elencado.
+Logo, merece provimento o recurso especial e tem-se como prejudicado o exame das demais discussões aventadas no presente recurso.
+Ressalte-se que, no que concerne à alegada ocorrência de negativa de prestação jurisdicional quanto à apreciação de precedentes deste STJ que indicam que o quantum compensatório fixado no caso concreto está aquém do que comumente é estabelecido em hipóteses como a dos autos, tem-se que não vingam as razões do recorrente.
+É que o valor arbitrado a título de danos morais foi devidamente justificado pela Corte local, razão pela qual inviável o reconhecimento de qualquer negativa de prestação jurisdicional quanto ao ponto.
+Forte em tais razões, CONHEÇO do recurso especial e DOU-LHE PROVIMENTO para: a) anular o acórdão que julgou os embargos de declaração opostos pelo recorrente; e b) determinar a remessa dos autos ao TJ/SE, a fim de que este se pronuncie, na esteira do devido processo legal, a respeito do supracitado fundamento tido por omisso.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM REPARAÇÃO DE DANOS MATERIAIS E COMPENSAÇÃO DE DANOS MORAIS. EMBARGOS DE DECLARAÇÃO OPOSTOS PERANTE O TRIBUNAL DE ORIGEM. OMISSÃO APTA, EM TESE, PARA A MODIFICAÇÃO DA CONCLUSÃO DO ACÓRDÃO RECORRIDO.
+1. Ação de rescisão contratual cumulada com reparação de danos materiais e compensação de danos morais, tendo em vista vícios constatados em veículo 0km adquirido.
+2. Caracteriza-se a ofensa ao art. 1.022 do CPC/2015 nas hipóteses em que o Tribunal de origem, mesmo após a oposição de embargos de declaração, omite-se e é contraditório no exame de questões pertinentes para a resolução da lide.
+3. Recurso especial conhecido e provido.
