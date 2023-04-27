@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BANCO BRADESCO S/A (BANCO) contra decisão que negou seguimento ao seu apelo nobre.
+Foi apresentada contraminuta (e-STJ, fls. 537/543).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alínea a, da CF, o BANCO alegou a violação dos arts. 489, § 1º, 1.022, 85, § 2º, do CPC, ao sustentar que (1) houve negativa de prestação jurisdicional, porque não foi enfrentada a questão relativa ao fato de que o valor do imóvel supera o próprio valor histórico da dívida executada, o que é capaz de alterar a conclusão do julgado; (2) não é harmoniosa, nem tampouco sensata a interpretação no sentido de que o "proveito econômico" obtido em sede de embargos de terceiro pelo recorrido seja múltiplas vezes superior ao valor da própria execução - R$ 917.289,05 -, razão pela qual se deve reconhecer que, apesar de o proveito econômico obtido corresponda ao valor do imóvel, não pode ser superior ao valor da própria execução.
+(1) Negativa de prestação jurisdicional
+No caso, não há que se falar em omissão quanto a tese de que o valor dos honorários não poderia ultrapassar o valor da dívida cobrada na ação de execução, porquanto o Tribunal de Goiás, no ponto, não conheceu do recurso de apelação, nos seguintes termos:
+Noutro giro, quanto às teses de que a base de cálculo da condenação seja o valor dos imóveis constritos na execução, ou que se tome por parâmetro o valor da execução ajuizada pelo Agravado, observa-se que tais temas não foram objeto da decisão agravada.
+Assim, não conheço do recurso, no ponto, sob pena de desrespeito ao contraditório e ampla defesa, bem como de supressão de instância.
+No caso, referido tema não foi enfrentado no acórdão combatido, porque ele não foi objeto de análise na decisão interlocutória.
+Desse modo, não há que se falar em ofensa aos arts. 1.022 e 489, § 1º, IV do CPC, porquanto foi observada a regra do princípio ao contraditório e ampla defesa, bem como de supressão de instância.
+Ademais, a jurisprudência desta Casa é pacífica ao proclamar que não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente a sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte (AgInt no AREsp 629.939/RJ, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe 19/06/2018).
+(2) Violação do art. 85, § 2º do CPC
+Trata-se, na origem, de cumprimento de sentença referente aos honorários advocatícios de sucumbência fixados em ação de embargos de terceiro, em que o recorrido, OSÓRIO EVANDRO DE OLIVEIRA SILVA (OSÓRIO) saiu vencedor.
+Em Primeira Instância, o MMº Juiz a quo consignou ser necessária a avaliação do imóvel que sofreu a constrição, para se apurar eventual excesso de execução, na medida em que o valor do imóvel é o parâmetro para se obter o quantum devido a título de honorários, nos termos da decisão do Superior Tribunal de Justiça, proferida nos autos da ação de conhecimento dos embargos de terceiro.
+O Tribunal de Justiça do Estado de Goiás, portanto, limitou-se a examinar sobre a necessidade, ou não, de uma reavaliação judicial do imóvel, para o correto cálculo da verba honorária. Confira-se o acórdão recorrido:
+Quanto ao mérito do recurso, verifica-se que o Agravado, opôs os embargos deterceiro, com o objetivo de excluir o imóvel denominado "Fazenda Savana", da execução nº0218915-75.2016.8.09.0051.
+Após a instrução processual, foi proferida sentença (mov. 47, processo originário), nos seguintes termos:
+"Nestas condições, JULGO PROCEDENTE o pedido formulado na petição inicial, para, confirmando a liminar, determinar a desconstituição da penhora sobre o imóvel rural "Fazenda Savana" .Condeno os embargados, ainda, ao pagamento das despesas processuais adiantadas e honorários advocatícios que arbitro, nos termos do que dispõe o artigo 85, parágrafo 2º, do Código de Processo Civil, em 10% (dez porcento) sobre o valor atualizado da causa."
+Em seguida, a instituição financeira interpôs recurso de apelação (mov. 61, processooriginário), o qual foi conhecido e desprovido (mov. 70, processo originário).
+Ato contínuo, foram opostos embargos de declaração tanto pelo Agravante (mov. 74,processo originário), quanto pelo Agravado (mov. 76, processo originário). Os primeiros embargos, opostos pelo banco, foram rejeitados, sendo que os segundos embargos foram acolhidos: "Diante do exposto, conheço os 1ºs e 2ºs Embargos de Declaração, rejeitando os primeiros e acolhendo os segundos, para majorar os honorários advocatícios, de 10% (dez porcento), para 13% (treze por cento) sobre o valor atualizado da causa (embargos de terceiro)."
+Irresignado, o Agravado interpôs recurso especial (mov. 112, processo originário), sustentando que a procedência do pedido formulado em embargos de terceiro, que determinou o cancelamento de penhora de imóvel, enseja a fixação dos honorários sucumbenciais sobre o proveito econômico obtido (valor do imóvel constrito), de modo que os honorários teriam por basede cálculo o valor da causa apenas quando o proveito não for mensurável.
+O aludido recurso foi julgado procedente, da seguinte maneira: (..)
+Na fase de cumprimento de sentença, o Magistrado consignou que no "propósito de atualizar o valor do imóvel, que é, nos termos da decisão do Superior Tribunal de Justiça antes referenciada, o parâmetro para se obter o quantum devido (13%) a título de honorários, o exequente aplicou o INPC sobre o valor de avaliação arbitrado pelo banco executado. No entanto, a atualização do valor comercial de imóvel observa critérios estabelecidos pelo mercado imobiliário e não índices de reajuste de preços a consumidor. Dessa forma, estou em que imprescindível, na hipótese, a reavaliação do imóvel, atento às indicações do mercado imobiliário. Para tanto, deveria fazer a designação de perito para, consideradas as peculiaridades do bem,apontar o seu valor comercial atualizado."
+Nesse contexto, o Agravante defende a desnecessidade de reavaliação judicial do imóvel, para o correto cálculo da verba honorária. Com efeito, razão lhe assiste.
+Considerando os termos da decisão emanada pelo STJ, conclui-se que a base de cálculo dos honorários, 13% (treze por cento), deve incidir sobre o proveito econômico obtido, o que in casu, coincide com o valor do bem cuja penhora foi desconstituída, o qual encontra-se na Cédula Rural Pignoratícia e Hipotecária nº 201505019, qual seja, R$ 6.450.000,00 (seis milhões,quatrocentos e cinquenta mil reais), (mov. 03 - doc. 04, processo 0218915-75.2016.8.09.0051).
+(..)
+Ainda, deve-se ressaltar que não consta da mencionada decisão do STJ comando no sentido de que os honorários sejam calculados sobre o valor atualizado do imóvel conscrito, razão pela qual é dispensável sua reavaliação, para o fim de se obter a base de cálculo dos honorários.
+De fato, conforme supramencionado, a Corte local não examinou a tese de que o valor dos honorários não poderia ultrapassar o valor da dívida cobrada na ação de execução, em função da matéria não ter sido apreciada na primeira instância. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PRINCÍPIO DO TANTUM DEVOLUTUM QUANTUM APPELLATUM. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. AGRAVO DESPROVIDO.
+1. Inadmissível o recurso especial referente à questão que não foi apreciada pelo Tribunal a quo, pela ausência de prequestionamento.
+Incidência das Súmulas n. 282 e 356 do STF.
+2. Não há nulidade quando o recurso especial adesivo é posterior e oportunamente apreciado.
+3. Agravo interno desprovido.
+(AgInt nos EDcl nos EDcl no AREsp 1115181 / BA, Rel MinistroMARCO AURÉLIO BELLIZZE, Terceira Turma, j. 26/08/2019).
+Diante desse cenário, aplicável o óbice da Súmula nº 282/STF, por analogia.
+Nessas condições, CONHEÇO do agravo para NEGAR PROVIMENTO do recurso especial.
+Deixo de majorar os honorários nos termos do artigo 85, § 11 do Código de Processo Civil, tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento que ataca decisão interlocutória na qual não houve prévia de fixação de honorários.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO EM SEDE DE CUMPRIMENTO DE SENTENÇA DE HONORÁRIOS ADVOCATÍCIOS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. MATÉRIA NÃO ANALISADA NA DECISÃO INTERLOCUTÓRIA. NÃO CONHECIMENTO DO RECURSO DE APELAÇÃO, NO PONTO. VIOLAÇÃO DO ART. 85, § 2º DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 282 DO STF. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO.
