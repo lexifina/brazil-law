@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pelo SINDICATO NACIONAL DOS SERVIDORES FEDERAIS DA EDUCACAO BASICA, PROFISSIONAL E TECNOLOGICA contra decisão de minha lavra, proferida às e-STJ fls. 274/277, em que não conheci do recurso especial em virtude da incidência das Súmulas 282 do STF e 7 do STJ.
+Aduz a parte embargante, ao argumento de contradição, que " ..  reconheceu este relator, explicitamente, que a exigência do prequestionamento para a interposição de recurso na instancia excepcional havia sido ultrapassada, não cabendo, portanto, não conhecer do recurso por ausência de requisito intrínsico", que " ..  o que se pretende com a interposição do Especial é, não a reexame da prova (Súmula 7 do STJ), mas a revaloração da prova (não ocorrência do início da fluição do prazo prescricional)  .. " (e-STJ fl. 281), bem como que " ..  admitiu a decisão embargada pela manutenção da fixação dos honorários estabelecidos na sentença primária, no bojo de sua fundamentação, contudo no dispositivo da decisão, expressa exatamente o oposto, majorando em 10% (dez por cento) os honorários já arbitrados na origem" (e-STJ fl. 283).
+Passo a decidir.
+Nos termos do art. 1.022 do CPC/2015, os embargos de declaração têm por escopo sanar decisão judicial eivada de obscuridade, contradição, omissão ou erro material.
+In casu, não ocorreu nenhum dos vícios supracitados.
+Com defeito, a decisão embargada foi clara ao não conhecer do apelo nobre em virtude da incidência cumulativa dos óbices estampados nas Súmulas 282 do STF e 7 do STJ, estando os fundamentos lá didaticamente expostos.
+Ademais, no tocante aos honorários, não houve nenhuma emissão de juízo de valor acerca da sua fixação pelas instâncias ordinárias - matéria que nem sequer foi objeto de irresignação recursal -, sendo certo que houve tão somente a majoração da verba honorária já determinada, conform e previsão do art. 85, § 11, do CPC/2015, em virtude do não conhecimento do recurso especial.
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
