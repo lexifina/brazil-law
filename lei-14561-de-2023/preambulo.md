@@ -1,0 +1,2 @@
+Dispõe sobre a transformação de cargos vagos de Analista e de Técnico do Ministério Público da União em cargos de Subprocurador-Geral do Trabalho e Procurador Regional do Trabalho e em cargos em comissão, código CC-4, no âmbito do Ministério Público do Trabalho.
+O VICE-PRESIDENTE DA REPÚBLICA, no exercício do cargo de PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
