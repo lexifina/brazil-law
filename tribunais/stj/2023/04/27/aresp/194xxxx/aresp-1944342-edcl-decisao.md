@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por SERGIO RENATO TAVARES DE MOURA e OUTROS contra a decisão que não conheceu do agravo em recurso especial nos termos do art. 932, III, do CPC de 2015, c/c o art. 253, parágrafo único, II, "a", do RISTJ (fls. 1.491-1.497).
+Em suas razões, sustentam os embargantes, inicialmente, que (fl. 1.503 ):
+Será verdadeira a proposição que afirma "não ter a parte recorrente refutado todos os fundamentos da decisão impugnada"  Os Recorrentes deixaram de combater a incidência da Súmula 280 do STF  Será que somente foi feita análise da legislação local, não foi averiguada ofensa à legislação federal
+Certamente, essa conclusão constitui consequência ou efeito da omissão no exame da peça recursal, bem como da omissão do exame imparcial do processo, que somente considerou como válidos os argumentos aduzidos pelos representantes processuais dos Agravados.
+Constam das RAZÕES DE RECURSO ESPECIAL (fl. 1389) os seguintes tópicos referentes ao DESCUMPRIMENTO DE LEI FEDERAL neste Processo, que foram ignoradas completamente no julgamento, ora recorrido:
+Na presente ação, constam entre os autores cidadãos com idade igual ou superior a60 anos idade, conforme os documentos de identificação anexos à inicial: JOÃO RODRIGUESDA SILVA, nascido em 20/06/1942 (fl. 101); JOSÉ SINVAL CAMURÇA, nascido em06/03/1943 (fl. 202); FRANCISCO HILBERTO GOMES LEMOS, nascido em 17/03/1954 (fl. 22).
+Devemos ressaltar que o processo de julgamento do RECURSO DE APELAÇÃO perante o Egrégio Tribunal de Justiça do Ceará teve uma grande morosidade e não foram examinados os documentos de identificação dos autores da presente ação, para fins de dar a devida celeridade processual, o que caracteriza o descumprimento de LEIS FEDERAIS (CF, art. 105, III, a, ) vigentes.
+A petição de RECURSO DE APELAÇÃO foi protocolada no dia 07/04/2014 (fl. 455dos autos), decorridos aproximadamente 4 anos para o julgamento; e depois interposto RECURSO DE EMBARGOS DE DECLARAÇÃO no dia 08/02/2018, que somente foi julgado e encerrado o julgamento deste processo no dia 06/03/2020, ou seja, com uma demora de 2 anos para julgamento, conforme consta dos andamentos processuais.
+Diante do exposto, requer seja realizado o processamento do presente RECURSO ESPECIAL com a devida celeridade processual, conforme determina o art. 1.048 do CPC, supratranscrito e o art. 71 do ESTATUTO DO IDOSO.
+Afirmam que há omissão na decisão embargada, uma vez que (fls. 1.504-1.505):
+Preliminarmente, devemos destacar que, não havendo na LEI ESTADUAL a devida regulamentação sobre o ato administrativo de CESSÃO de servidores públicos estaduais, aplica-se subsidiariamente a LEI FEDERAL, como fonte supletiva do direito dos servidores públicos.
+Portanto, há uma gravíssima omissão, que dar ensejo ao recebimento deste RECURSO DE EMBARGOS DE DECLARAÇÃO, no que se refere à CESSÃO (direito administrativo, em caso de extinção de autarquia e aproveitamento em outro órgão ou entidade da Administração Pública, para continuar no exercício do cargo público. Houve ofensa clara e evidente omissão quanto à aplicação do art. 93 da Lei nº 8.112/90, (LEI FEDERAL) que foi completamente ignorada pela DECISÃO judicial recorrida.
+Aduzem, ainda, que "No caso dessa omissão, configura motivo para a declaração de nulidade do processo a partir da data em que a autarquia DETRAN foi indevidamente excluída do polo passivo da demanda" (fl. 1.505).
+Requerem, assim, o conhecimento e o acolhimento dos embargos declaratórios para que sejam sanados os vícios apontados.
+Não houve impugnação.
+É, no essencial, o relatório.
+De acordo com o art. 1.022 do CPC/2015, os embargos declaratórios são cabíveis quando houver na decisão judicial obscuridade ou contradição, quando for omitido ponto sobre o qual se devia pronunciar o juiz ou tribunal ou quando vislumbrada a existência de erro material.
+Sob esse enfoque, os presentes embargos declaratórios não merecem acolhimento, porquanto não evidenciada a ocorrência dos vícios apontados pela parte embargante, uma vez que o recurso especial nem sequer foi conhecido, o que afasta qualquer possibilidade de omissão vinculada à questão meritória.
+Nesse sentido, cito :
+5. Não há falar em omissão quanto à ausência de pronunciamento acerca do mérito recursal quando o recurso especial nem sequer ultrapassou o juízo de admissibilidade. (EDcl no AgInt no AREsp n. 1.853.891/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJe de 16/2/2023.)
+O inconformismo da parte com a decisão embargada deve ser manifestado através do recurso próprio.
+Desse modo, a decisão embargada não contém nenhuma omissão ou ausência de prestação jurisdicional plena.
+No mais, constata-se que as demais alegações trazidas nos embargos de declaração dizem respeito ao mérito da demanda, o que não pode ser objeto de reanálise em sede de embargos de declaração.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porquanto os próximos embargos versando sobre o mesmo assunto e solicitando o rejulgamento da causa serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
