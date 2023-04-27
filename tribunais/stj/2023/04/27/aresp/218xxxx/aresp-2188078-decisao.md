@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de agravo interposto por SENY APARECIDA FERREIRA contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO cuja ementa guarda os seguintes termos (fl. 366):
+PREVIDENCIÁRIO. APOSENTADORIA POR INVALIDEZ. REQUISITOS. COMPROVAÇÃO. A confirmação da existência de moléstia autoimune incapacitante, corroborada pela documentação clínica, associada às condições pessoais, se prestam a demonstrar a incapacidade para o exercício da atividade profissional, o que enseja a concessão do benefício.
+Rejeitados os embargos de declaração opostos (fls. 390-394).
+No recurso especial, a parte recorrente alega, preliminarmente, ofensa ao art. 1.022 do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz, no mérito, que o acórdão contrariou as disposições contidas nos arts. 43 e 60, § 1º, da Lei n. 8.213/1991. Sustenta, em síntese, que o termo inicial da aposentadoria por invalidez é a data da cessação do auxílio-doença.
+Aponta divergência jurisprudencial.
+Sem contrarrazões ao recurso especial.
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 426-430), o que ensejou a interposição do presente agravo.
+Não apresentada contraminuta do agravo.
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+De início, não prospera a alegada violação do art. 1.022 do CPC, uma vez que deficiente sua fundamentação.
+Com efeito, a recorrente limitou-se a alegar, genericamente, ofensa ao referido dispositivo legal, sem explicitar os pontos em que o acordão recorrido teria sido omisso, contraditório ou obscuro, bem como a relevância do enfrentamento da legislação e das teses recursais não analisadas.
+A respeito de tais questões, esta Corte não pode e não deve decidir tateando no escuro, tentando identificar as supostas máculas do acórdão recorrido e os dispositivos tidos por violados. Essa tarefa é da recorrente, que não se desincumbe dela pelo fato isolado de apontar os dispositivos legais tidos por afrontados.
+As razões do recurso especial devem exprimir, com transparência e objetividade, os motivos pelos quais a agravante visa reformar o decisum. Ausente tal diretriz, incide o óbice da Súmula n. 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, cito:
+1. Quanto à alegada violação do art. 1.022 do CPC/2015, a parte recorrente não logrou êxito em demonstrar objetivamente os pontos omitidos pelo acórdão combatido, individualizando o erro, a obscuridade, a contradição ou a omissão que supostamente teriam ocorridos, bem como sua relevância para a solução da controvérsia apresentada nos autos. Tal circunstância atrai, portanto, a incidência da Súmula n. 284/STF: "Inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+(AgInt no REsp n. 1.684.404/SC, relator Ministro Og Fernandes, Segunda Turma, DJe de 27/6/2022.)
+V - Ademais, quanto à alegação de negativa de prestação jurisdicional, incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente, além de ter apontado violação genérica do art. 1.022 do Código de Processo Civil de 2015 (art. 535 do Código de Processo Civil de 1973), sem especificar quais os incisos foram contrariados, não demonstrou especificamente quais os vícios do aresto vergastado e/ou a sua relevância para a solução da controvérsia. Nesse sentido, o Superior Tribunal de Justiça já decidiu que: "É deficiente a fundamentação do recurso especial em que a alegada ofensa aos arts. 489, § 1º, e 1.022 do CPC/2015 se faz sem a demonstração objetiva dos pontos omitidos pelo acórdão recorrido, individualizando o erro, a obscuridade, a contradição ou a omissão supostamente ocorridos, bem como sua relevância para a solução da controvérsia apresentada nos autos. Incidência da Súmula 284/STF" (REsp n. 1.653.926/PR, relator Ministro Og Fernandes, Segunda Turma, DJe de 26/9/2018.)
+ ..  (AgInt no AREsp n. 1.985.639/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 22/6/2022.)
+No mais, o Tribunal de origem fixou como termo inicial para a concessão da aposentadoria por invalidez a partir da data do julgamento, nos seguintes termos (fls. 368-370, grifei):
+Conforme extrato do CNIS (evento 67, LAUDO1), a autora auferiu benefício de auxílio-doença NB 127.198.304-1 entre 20/01/2003 e 15/05/2003; NB 515.729.471-5 entre 11/01/2006 e 10/03/2006, NB 517.445.506-3 entre28/07/2006 e 30/04/2007; NB 542.547.945-6 entre 15/08/2010 e 08/08/2012; NB 552.801.748-0 entre 16/08/2012 e 10/12/2012; NB 600.983.315-2 entre 12/03/2013 e 19/11/2013: NB 611.130.008-7 entre 16/07/2015 e 15/08/2015; NB 616.757.430-1 entre 26/11/2016 e 20/03/2017.
+Requereu novamente benefício de auxílio-doença - NB 610.112.557-6 08/04/2015; NB 616.192.505-6 em 18/10/2016; NB 624.582.541-9 em 29/08/2018, ambos indeferidos ao fundamento de ausência de incapacidade laboral.
+No decorrer do processo foi realizada uma primeira perícia judicial em 20/08/2020, pela médica do trabalho Isabel Cristina Muller de Amorim (evento 35, LAUDOPERIC1), que concluiu no sentido de que a autora, atualmente com 55 anos de idade, técnica de enfermagem, escolaridade curso superior incompleto, não apresenta incapacidade para o trabalho.
+A segunda perícia judicial (evento 73, LAUDOPERIC2) foi realizada em 24/05/2021, pelo médico André Luiz Bortoluzzi especialista em reumatologia, que atestou que a autora é portadora de M32.1 - Lúpus eritematoso disseminado  sistêmico  com comprometimento de outros órgãos e sistemas, chegando à seguinte conclusão:
+Conclusão: com incapacidade temporária
+(..)
+De outro norte, a autora trouxe aos autos documentos que comprovam internações hospitalares em razão da patologia apurada na perícia nos seguintes períodos:
+(..)
+Então, a confirmação da existência de moléstia incapacitante, corroborada pela documentação clínica, associada às condições pessoais da autora, demonstram a incapacidade para o exercício da atividade profissional, o que enseja a concessão de benefício previdenciário.
+Pois bem, do cotejo de tais elementos, é possível concluir que havia incapacidade laborativa por ocasião do requerimento administrativo do benefício de auxílio-doença - NB 624.582.541-9 em 29/08/2018.
+Quanto aos requisitos de qualidade de segurado e carência, estão comprovados, porquanto conforme extrato do CNIS a autora manteve vínculo empregatício até 19/02/2018 (evento 67, LAUDO1).
+Desse modo, deve ser provida a apelação para o fim de determinar em favor da autora, a concessão do benefício de auxílio-doença desde a data do requerimento administrativo do benefício de auxílio-doença -NB 624.582.541-9 em 29/08/2018, com conversão em aposentadoria por invalidez a partir da data deste julgamento.
+A Primeira Seção do Superior Tribunal de Justiça consolidou o entendimento, por meio de recurso repetitivo, no sentido de que "a citação válida informa o litígio, constitui em mora a autarquia previdenciária federal e deve ser considerada como termo inicial para a implantação da aposentadoria por invalidez concedida na via judicial quando ausente a prévia postulação administrativa" (REsp n. 1.369.165/SP, relator Ministro BENEDITO GONÇALVES, Primeira Seção, julgado em 26/2/2014, DJe de 7/3/2014).
+A conformidade do acórdão recorrido com a jurisprudência desta Corte Superior enseja a aplicação do óbice conhecimento estampado na Súmula n. 83 do STJ.
+Ante o exposto, conheço do agravo e nego provimento ao recurso especial.
+Publique-se. Intimem-se.
