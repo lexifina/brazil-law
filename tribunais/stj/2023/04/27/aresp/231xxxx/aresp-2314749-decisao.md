@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de agravo interposto pelo ESTADO DO RIO DE JANEIRO contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que o agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO cuja ementa guarda os seguintes termos (fl. 311):
+APELAÇÃO CÍVEL. DIREITO ADMINISTRATIVO. ANULAÇÃO DE PROCESSO ADMINISTRATIVO. SERVIDOR PÚBLICO LOTADO NA SECRETARIA DE EDUCAÇÃO DISCIPLINAR. DEMISSÃO. ABANDONO DO CARGO. FALTAS NÃO JUSTIFICADAS DURANTE 10 DIAS CONSECUTIVOS. SENTENÇA DE IMPROCEDÊNCIA. INCONFORMISMO DO AUTOR. ARTIGO 52, INCISO V E § 1º DO DECRETO-LEI Nº220/75 E ARTIGO 298, §1º DO DECRETO Nº 2.479/79. CONSIDERA-SE ABANDONO DE CARGO A AUSÊNCIA AO SERVIÇO, SEM JUSTA CAUSA, POR DEZ DIAS CONSECUTIVOS. PERÍODO QUE COMPREENDE O FERIADO DE CARNAVAL DE 2016. REFORMA DA SENTENÇA. DANO MORAL NÃO CONFIGURADO. SUCUMBÊNCIA RECÍPROCA. PROCEDÊNCIA PARCIAL DO PEDIDO. Recurso conhecido e provido em parte.
+Rejeitados os embargos de declaração opostos (fls. 340-342).
+No recurso especial, o recorrente alega, preliminarmente, ofensa aos arts. 489, § 1º, IV, e 1.022, I, parágrafo único, II, do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Foram oferecidas contrarrazões ao recurso especial (fls. 372-378).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 380-382), o que ensejou a interposição do presente agravo.
+Não apresentada contraminuta do agravo.
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+A irresignação não merece prosperar.
+Não há que falar em violação dos arts. 489 e 1.022 do CPC, porquanto depreende-se do acórdão recorrido que o Tribunal de origem, de modo fundamentado, abordou a questão das faltas não justificadas que teria resultado na demissão do servidor, por abandono de cargo (fls. 313-314):
+O controle judicial sobre os atos administrativos se restringe a sua legalidade, sendo vedado ao Judiciário substituir a Administração nos pronunciamentos que lhe são privativos, especialmente adentrar no exame do mérito administrativo. Ocorre que, apesar da instauração do PAD ter sido baseada em faltas em fevereiro e março, a condenação incluiu apenas as faltas compreendidas entre 02 e 11 de fevereiro, o que evidencia um equívoco, visto que os dias 8 (segunda), 9 (terça) e 10 (quarta) de fevereiro de 2016, compreendem o feriado de carnaval, e, portanto, não podem ser computadas como faltas não justificadas a resultar na demissão do servidor. Nos termos do disposto no § 1º do artigo 52 do Decreto-Lei nº 220/75 só se caracteriza como abandono de cargo, a ausência ao serviço, sem justa causa, por 10 (dez) dias consecutivos, o que não se verifica na hipótese em tela.
+ ..
+Dessa forma, restando comprovado nos autos que a penalidade aplicada diz respeito a 10 faltas consecutivas no período de 02/02/2016 a 11/02/2016, e considerando que os dias 8, 9 e 10 foram feriados de carnaval, não resta configurado o abandono de cargo, razão pela qual a sentença deve ser reformada em parte.
+Em complementação, em embargos de declaração o Tribunal de origem exarou que, "como se verifica, a penalidade aplicada se referiu, exclusivamente, ao período de 02 a 11 de fevereiro de 2016. Ocorre que, conforme esclarecido no aresto embargado, os dias 08, 09 e 10 de fevereiro foram dias de carnaval, respectivamente segunda, terça e quarta e não podem ser computados como faltas, já que não são dias uteis, e, portanto, afastado o abandono de cargo" (fl. 342).
+Ademais, nos termos da jurisprudência do STJ, "não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional" (AgInt no AREsp n. 1.907.401/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 22/8/2022, DJe de 29/8/2022).
+A propósito, cito:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIOS, NO ACÓRDÃO RECORRIDO. INCONFORMISMO. EXECUÇÃO FISCAL. DECRETAÇÃO DE OFÍCIO DA PRESCRIÇÃO INTERCORRENTE. INEXISTÊNCIA DE OITIVA PRÉVIA DO PODER PÚBLICO. AUSÊNCIA DE DEMONSTRAÇÃO DE PREJUÍZO. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara Recurso Especial interposto contra acórdão publicado na vigência do CPC/2015.
+ ..
+III. Não há falar, na hipótese, em violação ao art. 1.022, II, do CPC/2015, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão proferido em sede de Embargos de Declaração apreciaram fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+ ..
+VII. Agravo interno improvido.
+(AgInt no REsp n. 1.843.777/PB, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 17/4/2023, DJe de 24/4/2023.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. DESAPROPRIAÇÃO. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. COBERTURA FLORÍSTICA. ACORDO PRÉVIO. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO AUTÔNOMO CONTIDO NO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. DIREITO À INDENIZAÇÃO. CRITÉRIOS UTILIZADOS. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Afasta-se a alegada afronta aos artigos 489 e 1.022 do CPC/2015, uma vez que o Tribunal a quo manifestou-se de maneira fundamentada a respeito das questões relevantes para a solução da controvérsia, apenas não adotando as razões do recorrente, o que não configura violação do dispositivo invocado. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a a nulação do acórdão proferido em sede de embargos de declaração.
+3. A ausência de impugnação a fundamento que, por si só, respalda o resultado do julgamento proferido pela Corte de origem impede, no ponto, a admissão do recurso especial. Incide ao caso a Súmula 283/STF.
+ ..
+6. Agravo interno não provido.
+(AgInt nos EDcl no REsp n. 1.836.689/RO, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 3/4/2023, DJe de 11/4/2023.)
+Ressalta-se, ainda, que, conforme entendimento pacífico desta Corte, o "julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão" (EDcl no AREsp n. 1.756.656/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 13/2/2023, DJe de 16/2/2023).
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, §11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
