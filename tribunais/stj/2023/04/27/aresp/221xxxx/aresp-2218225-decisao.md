@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto por ZAIRA DE LOURDES ZANCA DE OLIVEIRA - ME contra decisão que não admitiu seu recurso especial, este por sua vez manejado com fundamento no art. 105, inciso III, a, da Constituição Federal, visando reformar acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 148):
+BEM MÓVEL. COMPRA E VENDA DE PISCINA. FALHA NA INSTALAÇÃO. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM PEDIDO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. 1. Se instado a especificar provas, permaneceu a ré silente e inerte, incabível a alegação de cerceamento de defesa. 2. Cabe a demandada demonstrar a ocorrência de fatos modificativos: impeditivos ou extintivos do direito da autora. Aplicação do artigo 373, II do Código de Processo Civil. 3. Comprovado que os transtornos sofridos pela consumidora geraram inconteste abalo moral justifica-se a reparação do dano daí decorrente e oriundo do agir indiligente da apelante. 4. Na fixação da indenização pelo dano moral cabe ao juiz nortear-se pelo princípio da razoabilidade, estabelecendo-a em valor nem tão grande que se converta em fonte de enriquecimento, nem tão pequena que se torne inexpressiva, sentença mantida. Recurso desprovido, com majoração da verba honorária para 15% (quinze por cento) do valor da condenação, nos termos do artigo 85, § 11 do CPC.
+Nas razões do recurso especial (e-STJ, fls. 156-162), a insurgente apontou violação dos arts. 370 do CPC/2015 e 476 do CC/2002, além de dissídio jurisprudencial, sustentando que "não se mostra adequado o posicionamento adotado pelo E. Tribunal de Justiça a quo para presumir a existência de vício e, em contrapartida, não reconhecer a existência de excludente de responsabilidade consistente em descumprimento contratual por parte da recorrida" (e-STJ, fl. 160).
+Contrarrazões às fls. 176-162 (e-STJ).
+O Tribunal de origem não admitiu o processamento do recurso especial, o que levou o insurgente o interposição de agravo.
+Contraminuta às fls. 192-201 (e-STJ).
+Brevemente relatado, decido.
+A controvérsia tem origem em ação de obrigação de fazer c/c compensação por dano material e dano moral ajuizada contra a ora recorrente.
+O Tribunal de Justiça manteve a sentença que havia jugado parcialmente procedentes os pedidos para condenar a ré a (e-STJ, fl. 118):
+(i) Restituir todo o valor pago pelo serviço de instalação da piscina na residência da autora, devidamente corrigido pela tabela prática do TJ do pagamento e acrescido de mora de 1% ao mês do 31º dia após a primeira reclamação feita pela demandante sobre os problemas encontrados (vencimento do prazo legal do CDC para reparação voluntária do vício);
+(ii) Pagar danos materiais à AUTORA fixados R$ 7.990,00, em valor que deve ser corrigido pela tabela prática do TJ da confecção do orçamento e acrescido de mora de 1% ao mês do 31º dia após a primeira reclamação feita pela demandante sobre os problemas encontrados (vencimento do prazo legal do CDC para reparação voluntária do vício);
+(iii) Pagar danos morais à AUTORA fixados em R$ 5.000,00 em valor que deve ser corrigido pela tabela prática do TJ da presente sentença e acrescido de mora de 1% ao mês da citação.
+O acórdão consignou que "cabia à demandada comprovar que a responsabilidade pelo inadimplemento foi exclusiva da parte autora, a teor do que dispõe o art. 373, II, do Código de Processo Civil, ônus do qual, não se desincumbiu" (e-STJ, fl. 152).
+Diante desse cenário, acolher a pretensão recursal do insurgente, com vistas a modificar a conclusão do Tribunal de origem - para reconhecer excludente de responsabilidade consistente em descumprimento contratual por parte da recorrida - exige, necessariamente, o reexame do contexto fático-probatório do autos, procedimento inviável no âmbito do recurso especial, conforme a Súmula 7/STJ.
+Ilustrativamente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ QUE NÃO CONHECEU DO RECURSO ESPECIAL. ALEGAÇÃO DE EXCLUDENTE DE RESPONSABILIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. ALEGAÇÃO DE INEXISTÊNCIA DE DANO INDENIZÁVEL. REVISÃO.
+IMPOSSIBILIDADE. SÚMULA 7/STJ. REVISÃO DO VALOR FIXADO A TÍTULO DE DANOS MORAIS. FUNDAMENTAÇÃO DEFICIENTE. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL TIDO POR VIOLADO. SÚMULA 284/STF. INEXISTÊNCIA DE FUNDAMENTOS QUE JUSTIFIQUEM A ALTERAÇÃO DA DECISÃO RECORRIDA.
+AGRAVO INTERNO NÃO PROVIDO.
+(AgInt no AREsp n. 1.970.280/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 4/4/2022, DJe de 6/4/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. INDENIZAÇÃO. ACIDENTE DE TRÂNSITO. PRESTADORA DE SERVIÇO PÚBLICO. NÃO CONFIGURAÇÃO. CULPA EXCLUSIVA DA VÍTIMA. EXCLUDENTE DO NEXO CAUSAL. REVISÃO. NECESSIDADE DE VERIFICAÇÃO DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. INCIDÊNCIA. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. Para a caracterização da responsabilidade civil, antes de tudo, há de existir e estar comprovado o nexo de causalidade entre o evento danoso e a conduta comissiva ou omissiva do agente e afastada qualquer das causas excludentes do nexo causal, tais como a culpa exclusiva da vítima ou de terceiro, o caso fortuito ou a força maior. Precedente.
+2. Rever o entendimento do tribunal de origem acerca da culpa exclusiva da vítima demanda o reexame do suporte fático-probatório dos autos, o que é vedado em recurso especial, ante a incidência da Súmula n. 7 do STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.161.843/MG, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 3/4/2023, DJe de 11/4/2023.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do
+advogado da parte recorrida em 2% sobre o valor fixado na origem.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C COMPENSAÇÃO POR DANO MATERIAL E DANO MORAL PRESTAÇÃO DE SERVIÇOS. EXCLUDENTES DE RESPONSABILIDADE . REVISÃO DO JULGADO. INVIABILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
