@@ -1,0 +1,37 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+
+    O acórdão recorrido ficou assim ementado:
+
+    APELAÇÃO CRIMINAL - TRÁFICO DE DROGAS COM USO DE ARMA DE FOGO - PRELIMINARES - INCOMPETÊNCIA DO JUÍZO - NULIDADE DA AUDIÉNCIA DE INSTRUÇÃO - INQUIRIÇÃO DAS TESTEMUNHAS FEITA PELO JUIZ - REJEIÇÃO - MÉRITO - ABSOLVIÇÃO - IMPOSSIBILIDADE - CAUSA DE AUMENTO DO ART. 40, IV, DA LEI 11.343106 - EXCLUSÃO - NÃO CABIMENTO - PENA-BASE - FRAÇÃO DE ELEVAÇÃO - RAZOABILIDADE E PROPORCIONALIDADE. 1. Não havendo a alegada incompetência do juízo, diante da distribuição do inquérito à Vara Criminal, com posterior distribuição por prevenção à mesma Vara, da respectiva ação penal. 2. Diante do disposto no artigo 212 do CPP, o Juiz poderá fazer perguntas às testemunhas diretamente, sem que isso ofenda o dispositivo legal, não havendo que se falar em nulidade da audiência. 3. Comprovado que os entorpecentes - apreendidos estavam sendo transportados em um veículo pelos segundo e terceiro apelantes com escolta do primeiro apelante, imperiosa é a manutenção da condenação pelo crime de tráfico de drogas, tornando inviável a absolvição. 4. Pelo princípio da especialidade, aplica-se a causa de aumento do art. 40, IV, da Lei 11.343/06, no tocante à arma de fogo apreendida juntamente com a droga, diante do vínculo entre estes objetos e os acusados. 5. A fixação da pena-base do crime de tráfico de drogas deve se dar em atenção às diretrizes do art. 59 do CP e do art. 42 da Lei de Tóxicos, bem como aos princípios da razoabilidade e proporcionalidade. V.V.: Diante da elevada quantidade de droga apreendida (quase 11kg de maconha), correta a fixação da pena bem acima do mínimo legal.
+
+    Opostos os embargos de declaração, foram rejeitados.
+
+    Decido.
+
+    Analisados os autos, verifica-se que a parte recorrente não indicou, nas razões do recurso extraordinário, qual dispositivo constitucional teria sido violado pelo acórdão recorrido, limitando-se a sustentar que houve ofensa a dispositivo constitucional, o que atrai a incidência da Súmula nº 284/STF, que assim dispõe: “É inadmissível o recurso extraordinário quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia". Nesse sentido, cito os seguintes precedentes:
+
+    “Agravo regimental no recurso extraordinário com agravo. Não indicação dos dispositivos constitucionais violados. Súmula nº 284/STF. Prequestionamento. Ausência. Súmulas nºs 282 e 356/STF. Execução fiscal. Alegada violação do art. 5º, LV, da CF/88. Desconsideração da personalidade jurídica. Infraconstitucional. Necessidade de reexame dos fatos e das provas. Súmula nº 279/STF. 1. No tocante à preliminar de prescrição trazida no recurso extraordinário, nota-se que o recorrente não indicou os dispositivos constitucionais que, porventura, teriam sido violados. Incidência da Súmula nº 284/STF. 2. Não se admite o recurso extraordinário quando os dispositivos constitucionais que nele se alega violados não estão devidamente prequestionados. Incidência das Súmulas nºs 282 e 356/STF. 3. A afronta aos princípios da legalidade, do devido processo legal, da ampla defesa, do contraditório, dos limites da coisa julgada ou da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição Federal. 4. A questão relativa à desconsideração da personalidade jurídica está limitada ao plano da legislação infraconstitucional[,] bem como do conjunto fático e probatório constante dos autos, cujo reexame é incabível no âmbito de recurso extraordinário. Incidência da Súmula nº 279/STF. 5. Agravo regimental não provido” (ARE nº 946.110/RJ-AgR, Segunda Turma, Rel. Min. Dias Toffoli, DJe de 8/8/18).
+
+    “AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. NÃO INDICAÇÃO DOS DISPOSITIVOS CONSTITUCIONAIS VIOLADOS. INCIDÊNCIA DA SÚMULA 284/STF. PRECEDENTES. 1. As recorrentes não indicaram, nas razões recursais, os dispositivos constitucionais que teriam sido violados pelo acórdão recorrido. Desse modo, diante da impossibilidade da exata compreensão da controvérsia, haja vista a deficiência na fundamentação do recurso extraordinário, incide a Súmula 284 desta Corte. 2. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015. 3. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015. (ARE nº 767.716/RJ-AgR, Primeira Turma, Rel. Min. Roberto Barroso, DJe de 10/2/17).
+
+    Ademais, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente e reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário, pois a afronta ao texto constitucional, se houvesse, seria indireta ou reflexa e a Súmula 279 desta Corte impede o reexame de provas. Sobre o tema, a propósito:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL PENAL. TRÁFICO DE DROGAS. DESCLASSIFICAÇÃO DO TIPO PENAL: IMPOSSIBILIDADE DE REEXAME DO CONJUNTO PROBATÓRIO (SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL). DOSIMETRIA DA PENA. BIS IN IDEN. INOVAÇÃO RECURSAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 1248157/SP - AgR, Segunda Turma, Rel. Min. Cármen Lúcia, DJe de 6/4/20).
+
+    “DIREITO PENAL E PROCESSUAL PENAL. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. TRÁFICO DE DROGAS. ALEGAÇÃO DE VIOLAÇÃO AOS PRINCÍPIOS DO CONTRADITÓRIO, DA AMPLA DEFESA, DOS LIMITES DA COISA JULGADA, DO DEVIDO PROCESSO LEGAL. AUSÊNCIA DE REPERCUSSÃO GERAL. CONTROVÉRSIA DECIDIDA COM BASE NA LEGISLAÇÃO INFRACONSTITUCIONAL E NO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 279/STF. 1. O Supremo Tribunal Federal (STF) rejeitou preliminar de repercussão geral relativa à controvérsia sobre suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal (ARE 748.371-RG, Rel. Min. Gilmar Mendes - Tema 660). 2. A parte recorrente se limita a postular a análise da legislação infraconstitucional pertinente e uma nova apreciação dos fatos e do material probatório constante dos autos, o que não é possível nesta fase processual (Súmula 279/STF). Precedente. 3. Agravo interno a que se nega provimento” (ARE 1251016/CE - AgR, Primeira Turma, Rel.  Min. Roberto Barroso, DJe de 6/4/20).
+
+    “Agravo regimental no recurso extraordinário com agravo. 2. Direito Penal e Processual Penal. 3. Tráfico de drogas e associação para o tráfico. Artigos 33, caput, e 35 da Lei 11.343/2006. 4. Ofensa indireta e reflexa à Constituição Federal. 5. Necessidade de revolvimento do conjunto fático-probatório dos autos. Óbice da Súmula 279/STF. 6. Tema 660 da sistemática de repercussão geral. 7. Precedentes. 8. Agravo regimental não provido” (ARE 1244158 AgR, Segunda Turma, Rel. Min. Gilmar Mendes, DJe de 7/4/20).
+
+    Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+
+    Publique-se.
+
+    Brasília, 27 de abril de 2023.
+
+Ministra ROSA WEBER
+
+Presidente
+
+Documento assinado digitalmente
