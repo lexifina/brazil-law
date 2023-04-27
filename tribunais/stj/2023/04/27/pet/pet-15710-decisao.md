@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de petição formulada por Raimundo José dos Reis Filho contra a decisão proferida na Petição Criminal n. 1.0000.20.566881-7/000, não conhecida pelo Tribunal de Justiça de Minas Gerais, e subsequentes embargos de declaração opostos a esse julgado.
+Ao receber os presentes autos, determinei a intimação do requerente para esclarecer, em 5 dias, se foi realizado juízo de admissibilidade no Tribunal de origem a respeito do dito recurso lá interposto e posteriormente remetido a esta Corte.
+Na petição às fls. 411/419, o postulante limitou-se a reiterar a tese de constrangimento ilegal decorrente de suposta conduta abusiva praticada pelo Juiz Gustavo Moreira, da comarca de Frutal/MG, e ausência de tomada de providências pelo Tribunal mineiro.
+Em consulta à página eletrônica do Tribunal de origem, pude observar que, após o julgamento dos últimos embargos de declaração opostos pelo ora requerente, em 13/2/2023, o processado fora remetido por aquela Corte estadual ao Superior Tribunal de Justiça, por meio eletrônico (sem juízo de admissibilidade ou manifestação do Parquet estadual).
+Pelo que se observa dos autos, na instância antecedente, em causa própria, o requerente ingressou com petição na qual alegou que estaria preso em desacordo com o Estatuto da Ordem dos Advogados e sofrendo torturas, abusos e constrangimentos ordenados pelo Juiz de Direito Gustavo Moreira. O Colegiado não conheceu do pleito por ausência de capacidade postulatória do interessado, o qual está suspenso do exercício profissional da advocacia por determinação judicial no Processo n. 0001376-32.2019.4.01.3802, desde 19/1/2022.
+Aqui, como visto linhas atrás, o requerente pugna pelo reconhecimento de ILEGALIDADE/ABUSIVIDADE do Juiz, e principalmente de AFRONTA aos direitos e garantias (Constitucionais) deste Advogado (fl. 383), ressaltando que os Atos do Juiz "Gustavo Moreira", ora Recorrido, estão (ou "deveriam" estar..) sob "Correição" conforme DETERMINADO pelo Conselho Nacional de Justiça por causa das "..violações dos DIREITOS e GARANTIAS deste Advogado..", ora Recorrente (fl. 385).
+É o relatório.
+O presente feito não comporta conhecimento.
+Isso porque, além de a petição inicial estar desacompanhada de documentos e elementos de convicção necessários à apreciação da questão ora suscitada, o Tribunal de origem não se pronunciou sobre as alegações do requerente.
+Ademais, nos autos do HC n. 539.302/MG, em expediente avulso, ao apreciar petição com as mesmas alegações suscitadas neste feito, no dia 25/1/2023, determinei fosse encaminhada cópia da decisão ali proferida à Corregedoria do Tribunal de Justiça de Minas Gerais e ao Ministério Público estadual para conhecimento e providências que entenderem necessárias.
+Tal o contexto, não conheço do pedido.
+Pu blique-se.
+EMENTA
+PETIÇÃO. FEITO AJUIZADO CONTRA PETIÇÃO CRIMINAL MANEJADA NO TRIBUNAL DE ORIGEM NÃO CONHECIDA E COM EMBARGOS REJEITADOS. INTERPOSIÇÃO DE RECURSO E ENCAMINHAMENTO DOS AUTOS AO STJ PELA CORTE A QUO. ALEGAÇÕES DE ABUSOS, TORTURAS E CONSTRANGIMENTOS PRATICADOS POR MAGISTRADO DE PRIMEIRO GRAU CONTRA O PETICIONANTE. SUPRESSÃO DE INSTÂNCIA. PROVIDÊNCIAS DETERMINADAS EM OUTRO FEITO QUE TRAMITOU NESTA CASA.
+Pedido não conhecido.
