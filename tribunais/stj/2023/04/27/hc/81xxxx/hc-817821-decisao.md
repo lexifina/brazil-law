@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim ementado (fl. 605):
+Furto qualificado Materialidade e autoria demonstradas Provas suficientes à condenação, que sequer foi impugnada Qualificadoras demonstradas Crime consumado Ré que efetivamente inverteu a posse dos bens subtraídos Básicas tornadas ao piso Fundamentos inidôneos para a valoração negativa da conduta social - A mera duplicidade de qualificadoras não serve como fundamento para o aumento Possibilidade de preponderância da agravante da reincidência sobre a atenuante da confissão espontânea em caso de múltiplas condenações anteriores Tema 585 dos recursos repetitivos do STJ Aumento, contudo, reduzido a 1/6 Embora se trate de acusada reincidente, a quantidade de pena aplicada permite a fixação do regime semiaberto.
+Sustentam os impetrantes, em síntese, que no caso não pode ser reconhecida a reincidência tendo em vista que não preenchidos os requisitos legais para a sua incidência, mormente a certidão prévia de trânsito em julgado.
+Afirmam que a documentação juntada aos autos "limita-se a apontar que previamente ao processo que resultou na condenação da Paciente, existiram outros crimes e em alguns existiram condenações, mas nada mais, o que não basta para fins do reconhecimento  da reincidência , eis que é exigida a cumulativa ocorrência de todos  os requisitos , razão pela qual em caso de dúvida a Defesa deve ser beneficiada." (fl. 6).
+Requer a concessão da liminar para que a paciente cumpra pena em regime aberto e, no mérito, seja afastada a agravante da reincidência, de modo a reduzir a pena em 1/6, e fixar o regime inicial aberto.
+Não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo relator, nos termos do art. 34, XVIII e XX, do RISTJ
+No caso, em análise aos autos, constata-se que a matéria ora suscitada não foi apreciada pelo Tribunal de Justiça de origem - acórdão de fls. 605-608. Assim, não debatida a questão pela Corte de origem, é firm e o entendimento de que "fica obstada sua análise a priori pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância" (RHC 126.604/MT, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 7/12/2020, DJe 16/12/2020).
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
