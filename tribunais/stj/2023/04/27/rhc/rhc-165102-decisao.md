@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por Diego Oliveira Pereira, em que se aponta como autoridade coatora a Quinta Câmara Criminal do Tribunal de Justiça de Minas Gerais.
+Consta dos autos que o recorrente foi d enunciado como incurso nos crimes de apropriação indébita qualificada, falsidade ideológica e patrocínio infiel, arts. 168, § 1º, III, 299 e 355, todos do Código Penal (fls. 20/32).
+Em sede de habeas corpus, a defesa apontou ilegalidade por entender inepta a denúncia. A Quinta Câmara Criminal do Tribunal de Justiça de Minas Gerais denegou a ordem (fls. 467/475).
+Esta, a ementa do julgado (fl. 467):
+HABEAS CORPUS - APROPRIAÇÃO INDÉBITA QUALIFICADA -FALSIDADE IDEOLÓGICA - PATROCÍNIO INFIEL - INÉPCIA DA DENÚNCIA -NÃO EVIDENCIADA - JUSTA CAUSA - INADMISSIBILIDADE - TRANCAMENTO DA AÇÃO PENAL - IMPOSSIBILIDADE - AUSÊNCIA DE CONSTRANGIMENTO ILEGAL - DENEGAR A ORDEM.
+1. Descrevendo a denúncia fato típico, narrando devidamente as circunstâncias e trazendo a qualificação do acusado com a consequente capitulação do delito nos termos do artigo 41 do CPP, não há que se falar em inépcia.
+2. Inexiste justa causa quando comprovado, de plano, a atipicidade da conduta, a incidência de causa de exclusão da ilicitude, a extinção da punibilidade ou a ausência de indícios de autoria ou de prova da materialidade do delito, o que não ocorreu in casu.
+3. Impossível é o trancamento da ação penal quando se constata indícios suficientes de autoria e prova da materialidade.
+4. Ordem denegada.
+No presente recurso, sustenta a defesa que não há justa causa para o prosseguimento da ação penal, por ausência de indícios de autoria. Aponta inépcia da denúncia por não ter o recorrente praticado nenhuma conduta para ser incurso no tipo penal ao qual foi denunciado (fls. 483/500).
+Decisão deste Relator indeferindo o pedido liminar (fls. 509/510).
+Prestadas informações pelo Primeiro Cartório de Recursos a outros Tribunais em 23/5/2022 (fls. 512/513).
+Parecer ministerial opinando pelo desprovimento do recurso (fls. 711/715).
+É o relatório.
+A defesa se insurge em relação à denúncia, entendendo ser inepta. Na denúncia, o Ministério Público apresentou os números das ações declaratórias de inexistência de débito, c/c indenização por danos morais, e todas com suas respectivas datas e nomes das vítimas. A acusação trouxe, entre outros, os seguintes fatos (fls. 21/22):
+ ..
+Segundo se depreende dos Procedimentos Investigatórios Criminais em apenso, entre os anos 2014 e 2016, em Bom Sucesso/MG, os denunciados, com prévia intenção de apropriarem de eventuais valores recebidos a título de indenização por danos morais, captaram diversos clientes que estavam com o nome negativado, entregando-lhes petições, declarações de pobreza e folhas em branco para que assinassem, sob a promessa que retirariam seus nomes do cadastro negativo sem a necessidade de contraprestação pelo serviço.
+Inicialmente, a captação de clientes era feita por Nello Nilton de Jesus, funcionário do genitor do denunciado Diego Oliveira, que, conhecendo a real intenção dos advogados e auferindo também proveito econômico com as apropriações, intermediava a relação entre os advogados e as vítimas. Posteriormente, os advogados prometiam às vítimas que a cada novo cliente captado pagariam a quantia de R$ 40,00 a R$ 50,00.
+Dessa forma, os patronos ingressavam em Juízo com ações de inexistência de débito c/c indenização por danos morais se apropriando dos valores recebidos, conforme alvarás judiciais expedidos em nome do advogado Igor Ben-Hur. Os valores eram recebidos sem o conhecimento das vítimas que sequer eram comunicadas quanto aos andamentos processuais. Quando, eventualmente, contatadas pelos advogados, era-lhes entregue, para assinarem, recibo de valor muito superior à quantia repassada.
+Ressalta-se, ainda, que, algumas vezes, os denunciados falsificaram as assinaturas das vítimas para ingressarem em Juízo.
+ ..
+Ao denegar a ordem de habeas corpus, a Corte local entendeu estarem descritas as condutas praticadas pelos acusados, além de que a acusação de cada um deles foi feita separadamente, inclusive com enumeração (1º fato, 2º fato e assim por diante). Razão não assiste à defesa, já que será durante o curso da instrução criminal que poderá apresentar os fatos para a sua defesa, sendo respeitados os princípios do contraditório e da ampla defesa. Não há como ser obstado o prosseguimento da ação penal, uma vez que a denúncia traz indícios de autoria e materialidade, o que é suficiente para a continuidade do processo. Veja-se que, pelo que consta da denúncia, o recorrente teria supostamente atuado como advogado nas ações fraudulentas, enquanto o corréu Nello captava os clientes. Assim, isso se mostra suficiente para que seja dado andamento ao curso da ação penal para que, na sentença, o Magistrado possa decidir pela absolvição ou condenação do acusado, diante dos fatos e provas apresentados. Não há falar em atipicidade da conduta, na hipótese dos autos, portanto, preenchidos os requisitos previstos no art. 41 do Código de Processo Penal.
+Ante o exposto, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. SUPOSTA PRÁTICA DE APROPRIAÇÃO INDÉBITA QUALIFICADA, FALSIDADE IDEOLÓGICA E PATROCÍNIO INFIEL. APONTADA INÉPCIA DA DENÚNCIA. FATOS APRESENTADOS PELO MINISTÉRIO PÚBLICO, COM INDÍCIOS DE AUTORIA E MATERIALIDADE. PROVAS QUE DEVERÃO SER VERIFICADAS NO CURSO DA AÇÃO PENAL. PROSSEGUIMENTO DA AÇÃO. AUSÊNCIA DE ILEGALIDADE. PREENCHIDOS OS REQUISITOS DO ART. 41 DO CÓDIGO DE PROCESSO PENAL.
+Recurso improvido.
