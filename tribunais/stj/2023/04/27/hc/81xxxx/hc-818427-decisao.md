@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, ajuizado em nome de Neeskens Bernardes de Campos - em execução de pena de 15 anos, 1 mês e 8 dias de reclusão pela prática de crimes de roubos majorados e furto qualificado, com término previsto para 6/3/2029 (fls. 64/73) -, apontando-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DE SÃO PAULO (Agravo em Execução Penal n. 9000079-63.2022.8.26.0482).
+Sustenta a impetrante que o paciente já cumpriu o lapso necessário da pena e apresent ou bom comportamento carcerário; logo, a opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para indeferimento da progressão de regime.
+Requer, em liminar e no mérito, que o Juízo da execução penal expeça guia de transferência à unidade prisional compatível com o estágio progressivo a que o sentenciado faz jus (fl. 11).
+É o relatório.
+No caso, o voto condutor do acórdão a quo negou o benefício da progressão de regime, sobretudo em razão da existência de faltas disciplinares de natureza grave (inclusive, o ora paciente evadiu do sistema carcerário quando gozava do regime semiaberto - fls. 64/73 - grifo nosso), nos seguintes termos (fl. 68 - grifo nosso):
+ ..  Note-se que sua primeira condenação foi pela prática de crime grave (roubo majorado) e sua recidiva em razão do cometimento do crime contra o patrimônio (furto qualificado) o que realmente demandar rigor na concessão de benefícios.
+Some-se a isso o fato dele ostentar 6 faltas disciplinares de natureza grave, sendo que 3 delas são por abandono do regime semiaberto, 1 delas por não retornar da saída temporária, 1 por rompimento da tornozeleira e 1 por adulterar, falsificar e subtrair objetos, ou seja, esse histórico prisional evidencia que o sentenciado não está absorvendo a contento a terapêutica pena que lhe vem sendo dispensada.
+Revela, mais, que o sentenciado vem sistematicamente traindo a confiança do Estado-juiz mediante os abandonos do sistema prisional e demais faltas disciplinares, revelando que não está preparado para enfrentar os desafios da vida em sociedade e trata-se de pessoal perigosa para a sociedade.
+ ..
+Erigida essa premissa, verifico que a impetração não prospera, visto que o Tribunal a quo manteve a decisão que indeferiu a pretensão do paciente, com fundamento em elementos colhidos durante a execução da pena , como o histórico carcerário conturbado e a existência de faltas graves, aptos a demonstrar a ausência de requisito subjetivo (AgRg no HC n. 549.018/SP, Ministro LEOPOLDO DE ARRUDA RAPOSO (Desembargador convocado do TJ/PE), Quinta Turma, DJe 19/2/2020).
+Inclusive, a insurgência apresentada pela defesa neste writ contraria a jurisprudência assente deste Superior Tribunal, qual seja: não há ilegalidade ou arbitrariedade no acórdão proferido pelo Tribunal de origem que manteve o indeferimento do pedido de progressão de regime por ausência do requisito subjetivo, sob o fundamento de que o condenado apresenta histórico carcerário conturbado - duas faltas disciplinares - circunstâncias que evidenciam que o ato judicial está em consonância com o entendimento deste Sodalício (AgRg no HC n. 303.768/SP, Ministro JORGE MUSSI, QUINTA TURMA, DJe 1º/6/2016 - grifo nosso).
+Ante o exposto, indefiro liminarmente o writ.
+Publique -se.
+EMENTA
+HABEAS CORPUS. DIREITO PENAL. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME . FALTAS DISCIPLINARES DE NATUREZA GRAVE. OCORRÊNCIA. FUNDAMENTAÇÃO SUFICIENTE. CONSTRANGIMENTO ILEGAL. INEXISTÊNCIA.
+Writ indeferido liminarmente.
