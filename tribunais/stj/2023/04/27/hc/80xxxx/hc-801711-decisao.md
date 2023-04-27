@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus ajuizado em nome de Yuri André de Souza Milani Barizon - em execução de sanção penal de 60 anos de pena, em razão da condenação pela prática de duplo homicídio qualificado e duas tentativas -, apontando-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DE SÃO PAULO.
+Os impetrantes alegam, em síntese, que, considerando que desde a data em que a revisão criminal proposta em favor de Yuri foi cadastrada (9. nov.21) há um lapso de 458 dias e que os autos originários estão com a Nobre Defensoria Pública desde 13. jul.22, ou seja, há 212 dias, bem como que foi fornecida cópia integral dos referidos autos, sem, contudo, que fosse suficiente para contribuir com a celeridade, não havendo, portanto, previsão para que se inicie a análise da revisão criminal proposta pelo paciente, é certo que há violação ao princípio da duração razoável do processo (art. 5º, inc. LXXVIII, CR) - fl. 7.
+Pedem, em caráter liminar e no mérito, o seguinte (fls. 8/9):
+ ..  A) LIMINARMENTE, seja determinada a regular tramitação da revisão criminal, tendo em vista que foi proposta em nov.21, sem, contudo, sequer previsão de sua distribuição a um dos Grupos de Câmaras de Direito Criminal do Egrégio Tribunal de Justiça do Estado de São Paulo;
+B) NO MÉRITO, seja confirmada a liminar, garantindo-se a análise das questões levadas à apreciação do Poder Judiciário através da ação revisional.
+ ..
+Em 3/4/2023, indeferi o pedido de tutela provisória às fls. 21/22
+Em parecer, o Ministério Público Federal opinou pela concessão da ordem para que se promova o andamento do feito, com a requisição dos autos a quem os detiver ou de cópias autênticas, ou, ainda, com a autenticação das cópias já juntadas pela defesa (fl. 52).
+É o relatório.
+No caso, há constrangimento ilegal passível de ser reparado por meio da via eleita.
+A defesa alega constrangimento ilegal, em razão da morosidade do trâmite de revisão criminal, ajuizada em 9/10/2021, e ainda ao aguardo da devolução dos autos da ação penal pela Defensoria Pública.
+O excesso de prazo não resulta de mero critério matemático, mas de uma ponderação do julgador, observando os princípios da razoabilidade e proporcionalidade, levando em consideração as peculiaridades do caso concreto, a evitar o retardamento injustificado da prestação jurisdicional (AgRg no HC n. 741.760/PR, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Sexta Turma, julgado em 27/3/2023, DJe 31/3/2023).
+Erigida essa premissa, a delonga de 1 ano para julgamento da revisão criminal interposta a favor do ora paciente viola frontalmente os princípios da razoabilidade e proporcionalidade, apesar da suposta complexidade do feito. Tal constatação, de per si, autoriza a concessão da ordem para que o Tribunal de origem processa, no menor intervalo de tempo possível, o início do julgamento da insurgência lá interposta.
+De igual modo, oportuna a manifestação do Ministério Público Federal, em parecer favorável, em relação ao writ (fls. 51/52):
+ ..  A lei processual não estabelece prazo para o julgamento da revisão criminal, que deve ser analisado à luz do princípio da razoabilidade, afim de se verificar a ocorrência ou não de constrangimento ilegal (AgRg no HC n. 564.677/SP, Quinta Turma, DJe 27/5/2020). No caso em exame, apesar da complexidade e da gravida de do caso, a demora demais de uma no para o início da tramitação do feito desborda do razoável, em contrariedade ao disposto no art. 5º, LXXVIII da Constituição. Ante o exposto, o Ministério Público Federal requer a concessão do habeas corpus, para que se promova o andamento do feito, com a requisição dos autos a quem os detiver ou de cópias autênticas, ou, ainda, com a autenticação das cópias já juntadas pela defesa.
+ ..
+Pelo exposto, com base na jurisprudência firmada, expeço a ordem para determinar ao Tribunal de origem o imediato processamento do feito, com a promoção célere de todos os procedimentos instrumentais - com a requisição dos autos a quem os detiver ou de cópias autênticas, ou, ainda, com a autenticação das cópias já juntadas pela defesa - para a consecução do julgamento da revisão criminal interposta a favor do ora paciente, consoante os fundamentos desta decisão.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. DIREITO PENAL. DIREITO PROCESSUAL PENAL. REVISÃO CRIMINAL. ALEGAÇÃO DE OFENSA AO PRINCÍPIO DA DURAÇÃO RAZOÁVEL DO PROCESSO. MORA NA APRECIAÇÃO DE REVISÃO CRIMINAL. DETERMINAÇÃO DE PROMOÇÃO IMEDIATA DE TODOS OS MEIOS PARA A CONSECUÇÃO DO JULGAMENTO DA REVISÃO CRIMINAL. CONSTRANGIMENTO ILEGAL CONFIGURADO.
+Ordem concedida nos termos do dispositivo.
