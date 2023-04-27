@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por RONALDO RAMOS RIBEIRO DE SENNA contra decisão que negou seguimento ao recurso extraordinário assim ementada (fls. 1.601-1.602):
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO SUFICIENTE DO JULGADO RECORRIDO. TEMA N. 339/STF. AGRAVO REGIMENTAL E AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDOS. TEMA N. 181/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. NEGATIVA DE SEGUIMENTO.
+1. "O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão" (Tema n. 339/STF, QO no Ag n. 791.292/PE).
+2. Existente alguma fundamentação, ainda que a parte não a repute correta ou completa, entende o Supremo Tribunal Federal que foi respeitado o art. 93, IX, da CF, conforme a conclusão firmada no Tema n. 339/STF, tese de observância obrigatória (CPC, art. 927, III).
+3. "A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral" (Tema n. 181/STF).
+4. Não preenchidos os pressupostos de admissibilidade do agravo regimental e do agravo em recurso especial, aplica-se a tese do Tema n. 181/STF ainda que se queira, no recurso extraordinário, discutir o mérito da causa ou os fundamentos que impediram o conhecimento do recurso (CPC, art. 927, III).
+5. Recurso extraordinário a que se nega seguimento, nos termos do art. 1.030, I, a, do CPC.
+A parte embargante alega que (fls. 1.611-1.614):
+ ..  após análise do Agravo em Recurso Especial, Sua Excelência ministra Relatora não analisou, permissa máxima vênia, questão de nulidade suscitado pelo Recorrente, qual seja, a Magistrada Dra. Ligia Andrade de Alencar Magalhães oficiou no processo quando era Magistrada da 1ª Vara de Tóxicos, praticando atos processuais e, posteriormente, oficiou como revisora no julgamento da apelação do mesmo processo, veja:
+ ..
+Ademais, como cediço, o impedimento do juiz impede a sua jurisdição, configurando uma hipótese de nulidade absoluta, não se admitindo prova em contrário, podendo ser reconhecida de ofício ou arguida pelas partes a qualquer tempo, até o trânsito em julgado, ou em favor do acusado após o trânsito, através de ações autônomas de revisão criminal ou habeas corpus.
+Todos os atos praticados pelo juiz são invalidados, não havendo qualquer aproveitamento, sendo tal nulidade insanável e não sujeita à convalidação.
+Requer o acolhimento dos aclaratórios para que seja declarada "a nulidade do acórdão do TJ-CE por preclara afronta ao artigo 252, inciso III, do Código de Processo Penal, DETERMINANDO o novo julgamento colegiado, com o afastamento da Desembargadora que oficiou no processo em primeiro grau, conforme precedentes alhures indicados" (fl. 1.615).
+Subsidiariamente, pleiteia "que seja concedido Habeas Corpus de ofício em virtude de se estar perante nulidade absoluta, insanável e passível de reconhecimento em qualquer grau de jurisdição" (fl. 1.615).
+Não foram oferecidas contrarrazões (fl. 1.625).
+É o relatório.
+O art. 619 do Código de Processo Penal disciplina que, "aos acórdãos proferidos pelos Tribunais de Apelação, câmaras ou turmas, poderão ser opostos embargos de declaração, no prazo de dois dias contados da sua publicação, quando houver na sentença ambiguidade, obscuridade, contradição ou omissão", tendo a jurisprudência os admitido, também, para sanar eventual erro material na decisão embargada.
+No caso, é inviável o acolhimento da pretensão recursal, uma vez que, a decisão embargada, fundamentou, de forma adequada, a negativa de seguimento do recurso extraordinário, diante da incidência dos Temas n. 181 e 339 do STF.
+Consignou-se que o acórdão recorrido estaria suficientemente fundamentado, tendo sido declinados os motivos pelos quais não se conheceu do agravo regimental.
+Assim, esclareceu-se que, tendo sido demonstrado que a prestação jurisdicional ocorreu, ainda que não se concorde com a solução dada à causa, seria inviável o prosseguimento do recurso extraordinário, pois o provimento recorrido encontra-se em sintonia com a tese fixada no Tema n. 339/STF.
+Quanto às demais alegações do recurso, destacou-se que o pronunciamento impugnado concluiu pelo não preenchimento dos pressupostos de admissibilidade do recurso anteriormente dirigido ao Superior Tribunal de Justiça, tendo em vista que do agravo regimental não se conheceu, devido à incidência do óbice da Súmula n. 182/STJ, mantendo-se a decisão de não conhecimento do agravo em recurso especial.
+Dess a forma, não tendo sido apreciado o mérito do agravo em recurso especial, concluiu-se pela inviabilidade do exame das questões constitucionais levantadas no recurso extraordinário, por ausência de repercussão geral, aplicando-se o disposto no Tema n. 181/STF.
+Por fim, no que tange ao pleito de concessão de habeas corpus de ofício, registrou-se que, nos termos do art. 22, § 2º, I, a, do Regimento Interno deste Tribunal Superior, não compete à Vice-Presidência apreciar o pedido, uma vez que sua atribuição se restringe ao exame da admissibilidade de recursos para a Suprema Corte (AgRg no RE nos EDcl nos EDcl no AgRg nos EREsp n. 1.900.474/PR, relator Ministro Jorge Mussi, Corte Especial, julgado em 7/12/2021, DJe de 16/12/2021).
+Inexistindo, portanto, vício a ser dissipado, constata-se a pretensão exclusiva de rediscutir a causa, a fim de modificar a decisão embargada, o que não se coaduna com a via aclaratória.
+Ante o exposto, com fundamento no art. 22, § 2º, I, a, do Regimento Interno do Superior Tribunal de Justiça, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. RECURSO EXTRAORDINÁRIO. NEGATIVA DE SEGUIMENTO. VÍCIO. NÃO OCORRÊNCIA. PRETENSÃO DE REDISCUSSÃO DO JULGADO. INADEQUAÇÃO. EMBARGOS REJEITADOS.
