@@ -1,0 +1,4 @@
+DECISÃO
+Por intermédio da petição n. 00360362/2023 (fls. 774-775), autuada em expediente avulso, a causídica MARIA CAROLINA DE MELO AMORIM requer a expedição de certidão de militância referente aos atos processuais listados à fl. 774, objetivando o "cumprimento do requisito previsto no art. 6º, "a", do Provimento nº 102/2004 do Conselho Federal da OAB" (fl. 774).
+Referido provimento dispõe sobre a "indicação, em lista sêxtupla, de advogados que devam integrar os Tribunais Judiciários e Administrativos (Texto atualizado com as alterações introduzidas pelos Provimentos nº 139/2010, nº 141/2010, nº 153/2013 e 168/2015)", conforme se verifica do seguinte site : "https://www.oab.org.br/leisnormas/legislacao/provimentos/102-2004 provimentos=True" .
+Defiro o pedido para que a Coordenadoria de Processamento de Feitos de Direito Penal, após a conferência das informações, expeça a certidão requerida.
