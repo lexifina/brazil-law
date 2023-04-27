@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado contra acórdão assim ementado (fl. 155):
+PROCESSUAL PENAL. RECURSO EM SENTIDO ESTRITO. CRIME DEFEMINICÍDIO. PREVENTIVA RELAXADA. EXCESSO DE PRAZO NO TRÂMITE DERECURSO DEFENSIVO RECONHECIDO PELO JUÍZO A QUO. INDEVIDA CRÍTICA ÀATUAÇÃO DE INSTÂNCIA SUPERIOR. IMPETRAÇÃO DE HABEAS CORPUS PERANTEO TJPE E STJ. OPOSIÇÃO DE ACLARATÓRIOS VISANDO REDISCUSSÃO DE TEMASANALISADOS PELA CORTE. PLEITOS INCIDENTAIS. REAVALIAÇÃO DA PRISÃO. CONTRIBUIÇÃO DEFENSIVA EVIDENCIADA. SÚMULA 64/STJ. INCIDÊNCIA. FUNDAMENTOS DA PRISÃO. PERSISTÊNCIA.
+1. A decisão recorrida encerra indevida censura à atuação da Corte Revisora no trâmite e julgamento do recurso em sentido estrito aviado pela defesa, bem como dos aclaratórios opostos em face do aresto proferido, atribuindo a este Tribunal a responsabilidade pelo retardo posterior à prolação da decisão de pronúncia.
+2. Não há falar em inobservância à decisão do Tribunal da Cidadania, que determinou a reavaliação da medida extrema, porquanto esta Corte já havia reanalisado e mantido a segregação cautelar ao julgar o habeas corpus impetrado pela defesa do Recorrido, reafirmando tal decisão quando do julgamento do recurso em sentido estrito.
+3. Descabida a superação das súmulas 21, 52 e 64/STJ, quando o julgamento do Recorrido se encontrava obstado pela tramitação de recurso em sentido estrito interposto pela defesa, visando a reforma da pronúncia, principalmente, se, a pretexto de garantir a liberdade do réu, a defesa interpôs recurso, opôs aclaratórios, impetrou habeas corpus sucessivos e, às vésperas do julgamento, atravessou pedido de reavaliação da prisão, impedindo o regular fluxo do processo.
+4. Ao exercer direito de recorrer à instância superior buscando reformar a pronúncia, valendo-se de via recursal com efeito suspensivo, a defesa contribuiu para o retardo, não podendo o réu se beneficiar de eventual demora a que o próprio deu causa. Súmula 64/STJ.
+5. Inconcebível que, às vésperas do julgamento pelo Tribunal do Júri, o réu tenha a liberdade restabelecida, sem que afastadas as razões adotadas por esta Corte Estadual para restabelecer o édito preventivo e pela 6ª Turma do Superior Tribunal de Justiça para manter a prisão.
+6. Recurso ministerial provido. Prisão restabelecida. Decisão unânime.
+Colhe-se dos autos que o paciente foi preso preventivamente em 16/11/2018, em razão da suposta prática do crime de homicídio qualificado.
+O paciente teve a prisão relaxada por excesso de prazo, em 5/1/2023, com aplicação da medida de monitoramento eletrônico. O Ministério Público interpôs recurso em sentido estrito, ao qual foi dado provimento restabelecendo a prisão do paciente.
+Sustenta o impetrante ilegalidade no restalecimento da prisão preventiva, uma vez que havia sido caracterizado o excesso de prazo da custódia.
+Relata que dentro do próprio sistema prisional o paciente estudou, se formando em curso superior, trabalhou, e ainda escreveu um livro, onde totaliza hoje uma remição de pena de 6 anos, 2 meses e 5 dias, onde em uma futura condenação, já estaria com lapso temporal para o cumprimento de pena em regime aberto.
+Aponta que durante o curto tempo de liberdade monitorada, o paciente cumpriu na integralidade e à risca todas as determinações do juízo, comparecendo em juízo para prestar informações mensalmente, permanecendo onde lhe era permitido e no horário permitido, sem qualquer descumprimento dele, tendo um exemplar comportamento durante o período de monitoramento.
+Requer, liminarmente e no mérito, a concessão da ordem reconhecendo a ilegalidade do decreto prisional exarado pelo TJPE em face do excesso de prazo e ilegalidade da manutenção da prisão, determinando a expedição do competente alvará de soltura ou substituição por medidas cautelares alternativas.
+A liminar foi indeferida (fls. 579-581).
+Prestadas as informações, o Ministério Público Federal manifestou-se no sentido de que seja julgado prejudicado o habeas corpus.
+Conforme parecer ministerial, em consulta ao site do Tribunal de Justiça do Estado de Pernambuco, verifica-se que o paciente foi submetido a julgamento perante o Tribunal do júri em 14/04/2023, sendo condenado à pena corporal de 21 anos e 04 meses de reclusão, em regime inicial fechado. (fls. 610-614).
+Nesse contexto, verifico que o presente mandamus perdeu o objeto, uma vez que não mais subsiste o alegado constrangimento ilegal do excesso de prazo da prisão preventiva.
+Ante o exposto, julgo prejudicado o habeas corpus.
+Publique-se.
+Intimem-se.
