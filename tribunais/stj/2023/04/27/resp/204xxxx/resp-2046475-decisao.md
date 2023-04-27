@@ -1,0 +1,6 @@
+DECISÃO
+Cuida-se de recurso especial interposto pelo Ministério Público do Rio Grande do Sul, no qual se discute a responsabilidade civil de site de comércio eletrônico pela prévia verificação de conteúdo publicitário anunciado em sua plataforma.
+A referida controvérsia teve a repercussão geral reconhecida pelo STF, nos termos da seguinte ementa:
+Direito Constitucional. Proteção aos direitos da personalidade. Liberdade de expressão e de manifestação. Violação dos arts. 5º, incisos IV, IX, XIV; e 220, caput, §§ 1º e 2º, da Constituição Federal. Prática de ato ilícito por terceiro. Dever de fiscalização e de exclusão de conteúdo pelo prestador de serviços. Reserva de jurisdição. Responsabilidade civil de provedor de internet, websites e gestores de aplicativos de redes sociais. Constitucionalidade ou não do art. 19 do Marco Civil da Internet (Lei nº 12.965/14) e possibilidade de se condicionar a retirada de perfil falso ou tornar indisponível o conteúdo apontado como infringente somente após ordem judicial específica. Repercussão geral reconhecida.
+Forte nessas razões, DETERMINO o sobrestamento do recurso na Secretaria desta Corte Superior até a publicação do acórdão paradigma, a ser proferido no RE n. 1.037.396 RG (Tema n. 987).
+Publique-se. Intimem-se.
