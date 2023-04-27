@@ -1,0 +1,12 @@
+Solução de Consulta Cosit nº 92, de 25 de abril de 2023
+Assunto: Contribuições Sociais Previdenciárias
+PAGAMENTO DO RATEIO DOS RECURSOS REMANESCENTES DO FUNDEB PARA PROFISSIONAIS DA EDUCAÇÃO VINCULADOS AO RGPS. NATUREZA REMUNERATÓRIA. INCIDÊNCIA. COMPETÊNCIA LEGISLATIVA E TRIBUTÁRIA EXCLUSIVA DA UNIÃO. TRIBUTAÇÃO DE PRÊMIOS. REQUISITOS.
+Os valores pagos a título de rateio de recursos remanescentes do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação (Fundeb), nos termos do § 2º do art. 26 da Lei nº 14.113, de 2020, destinados a retribuir a atuação efetiva no desempenho das atividades de profissionais da educação segurados, na espécie, do Regime Geral de Previdência Social (RGPS), ainda que de modo eventual e expressamente desvinculado dos vencimentos ou subsídios, possuem natureza remuneratória, devendo submeter-se, portanto, à incidência da contribuição previdenciária.
+Acresce que, no que se refere ao RGPS, a competência legislativa da União é privativa, sendo também de sua competência exclusiva a instituição de contribuição previdenciária para esse Regime. Destarte, na hipótese, é irrelevante a previsão, constante em decreto estadual, no sentido de que não incidirão descontos previdenciários sobre o valor percebido pelos servidores no citado rateio.
+Por seu turno, os prêmios excluídos da incidência da contribuição previdenciária, entre outros requisitos, não poderão decorrer de obrigação legal ou de ajuste expresso, hipótese em que restaria descaracterizada a liberalidade do empregador, e devem decorrer de desempenho superior ao ordinariamente esperado, de forma que aquele deverá comprovar, objetivamente, qual o desempenho esperado e também o quanto esse desempenho foi superado.
+SOLUÇÃO DE CONSULTA PARCIALMENTE VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 151, DE 14 DE MAIO DE 2019.
+Dispositivos Legais: Constituição Federal, arts. 22, inciso XXIII, 149, 150, § 6º, 194, 195 e 201; Lei nº 5.172, de 1966 (Código Tributário Nacional), art. 6º; Lei nº 8.212, de 1991, arts. 22, inciso I, 28, inciso I, § 9º, alínea "e" , item 7, e alínea "z" ; Lei nº 14.113, de 2020, art. 26; Decreto nº 3.048, de 1999 (Regulamento da Previdência Social), art. 214, inciso I, § 9º, inciso V, alíneas "j" e "n" ; Decreto Estadual nº 48.325, de 2021.
+SC Cosit nº 92-2023
+[arquivo anexo: SC Cosit nº 92-2023.pdf]
+RODRIGO AUGUSTO VERLY DE OLIVEIRA
+Coordenador-Geral
