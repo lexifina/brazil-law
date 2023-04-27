@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MARIA CLARICE BEZERRA ASSUNÇÃO (MARIA CLARICE) contra decisão que negou seguimento ao seu apelo nobre.
+Foi apresentada contraminuta. (e-STJ, fls. 284/298)
+É o relatório.
+DECIDO.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alínea "a", da CF, MARIA CLARICE alegou a violação dos arts. 5º, incisos II, XXII e XXIII, da CF; 368 a 380, 884, 886 e 1.255, todos do CC/02; 502, 509, caput, incisos I e II, § 4º, e 966, inciso IV, todos do NCPC, ao sustentar que (1) em sede de Liquidação de Sentença, o Juízo da 2ª Vara, em afronta direta ao previsto no §4º, do artigo 509, do NCPC, alterou, em razão de laudo complementar, a base de cálculo de alugueis constante do título judicial transitado em julgado, mediante exclusão das benfeitorias (e acessões) existentes no imóvel real; e (2) deve ser reconhecida a compensação integral entre a sua obrigação de pagar indenização pelas benfeitorias realizadas e seu direito de receber aluguéis mensais pelo uso e fruição indevidos do imóvel, sob pena de enriquecimento ilícito.
+(1) Da alteração da base de cálculos dos aluguéis
+MARIA CLARICE alegou a violação dos arts. 884 e 886, ambos do CC/02; 502, 509, caput, incisos I e II, § 4º, e 966, inciso IV, todos do NCPC, ao sustentar que em sede de Liquidação de Sentença, o Juízo da 2ª Vara, em afronta direta ao previsto no §4º, do art. 509, da lei processual, alterou, em razão de laudo complementar, a base de cálculo de alugueis constante do título judicial transitado em julgado, mediante exclusão das benfeitorias (e acessões) existentes no imóvel real;
+Sobre o tema, o TJDFT, mantendo a decisão de primeiro grau, entendeu ter ocorrido a preclusão dos fatos apresentados em laudo pericial judicial complementar, que não foi atacado por MARIA CLARICE, homologando os cálculos apresentados, verbis:
+Inicialmente, importante destacar que o título judicial determinou que, tanto os valores das benfeitorias como do aluguel devido, deveriam ser apurados em liquidação de sentença.
+ ..
+Portanto, não merece guarida a tese recursal de prevalência do valor de R$ 1.200,00, arbitrado unilateralmente pela recorrente/comodante, nos termos do art. 582 do CC. Isso porque, ao contrário do defendido, mostra-se cabível a liquidação de sentença para fixação do aluguel devido pelos comodantes, a fim de se aferir o real valor de mercado da locação, na forma do consignado no título judicial supramencionado, o qual restou acobertado pelo manto da coisa julgada.
+Pois bem! Superada as notas introdutórias, verifico que o d. Magistrado de primeiro grau, diante da divergência instaurada entre as partes, determinou a realização de perícia judicial para o fim de apurar o valor das benfeitorias realizadas no imóvel, bem como o aluguel devido pelos agravados.
+Nesse sentido, o perito judicial, de forma isenta e imparcial, considerando todas as variáveis do caso concreto, respondendo ao quesito formulado pela agravante, consistente em perquirir se o valor do aluguel, na região administrativa onde se encontra encravado o imóvel, oscila entre 0,5% e 1% do preço de mercado para venda/compra, afirmou que:
+ ..
+Em assim sendo, em complemento ao laudo pericial, o expert do Juízo, em resposta à impugnação ofertada pelos agravados (ID nº 89216293 dos autos originais), concluiu que: " ..  o valor de R$ 275,00 (duzentos e setenta e cinco reais), é aceitável para o aluguel mensal do imóvel em questão (lote sem muro e sem portões, com barracão em estado precário de construção), no mês de agosto de 2017.  .. ". (ID nº 94097484) (grifo nosso)
+Ademais, importante destacar, que a agravante, instada a se manifestar sobre as conclusões do perito judicial ao responder a impugnação ao laudo pericial, simplesmente tomou ciência da resposta, sem nada requerer; aquiescendo, portanto, com o conteúdo das conclusões lançadas no lado complementar de ID nº 94097484 (dos autos originais).
+ ..
+Assim, diante da ausência de oposição ao trabalho pericial, entendo que se operou a preclusão dos fatos e conclusões articulados no laudo complementar de ID nº 94097484; razão pela qual andou bem o il. Magistrado de primeiro grau ao encerrar a fase de liquidação de sentença, homologando, por consequência, os cálculos apresentados, pois o perito judicial se ateve às disposições fixadas no título judicial. (e-STJ, fls. 52/53)
+Dessa forma, rever as conclusões do acórdão objurgado demandaria a incursão no contexto fático-probatório, providência inviável em sede de recurso especial em razão do disposto na Súmula nº 7 desta Corte.
+(2) Da compensação dos valores devidos por cada parte
+Por fim, MARIA CLARICE alegou a violação dos arts. 368 a 380 e 1.255, todos do CC/02, ao sustentar que deve ser reconhecida a compensação integral entre a sua obrigação de pagar indenização pelas benfeitorias realizadas e seu direito de receber aluguéis mensais pelo uso e fruição indevidos do imóvel, sob pena de enriquecimento ilícito.
+Ainda afirmou que no caso, já houve a integral e plena compensação entre os valores devidos.
+Contudo, o Tribunal estadual não se pronunciou sobre tais pontos, apesar da oposição dos necessários embargos de declaração.
+Ressalte-se que é exigência contida na própria previsão constitucional de interposição do recurso especial que a matéria federal tenha sido decidida em única ou última instância pelo Tribunal, não sendo suficiente a parte discorrer sobre o dispositivo legal que entende infringido.
+É imprescindível que tenha sido emitido juízo de valor sobre os preceitos indicados como violados, o que não ocorreu na hipótese examinada, mesmo após a oposição de embargos de declaração.
+Assim, em virtude da falta de prequestionamento, não há como ser analisada a tese agora trazida no recurso especial.
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em favor de EDLENE BARROS DA SILVA, DIANA SOARES RODRIGUES, CARLITO RODRIGUES MACHADO e ELBER RODRIGUES JUNIOR, limitados a 20%, nos termos do art. 85, § 11, do NCPC.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. COMODATO. ALUGUEL. PERÍCIA. REAL VALOR DE MERCADO DA LOCAÇÃO. AUSÊNCIA DE IMPUGNAÇÃO AO LAUDO PERICIAL COMPLEMENTAR. PRECLUSÃO. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA Nº 7/STJ. INDENIZAÇÃO PELAS BENFEITORIAS E ALUGUÉIS DEVIDOS. COMPENSAÇÃO DE VALORES. TEMA NÃO ENFRENTADO PELO TRIBUNAL LOCAL. SÚMULA Nº 211/STJ. AGRAVO EM RECURSO ESPECIAL CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
