@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por CRISTIANO MELO DOS SANTOS à decisão de fls. 1175/1176, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Foi colacionado aos autos (vide nº fl. 840 e 860), o Ato Normativo Conjunto nº 20, de 15 de julho de 2021 (TJ/BA Diário de Justiça Eletrônico nº 2.901), onde foi estabelecida novas diretrizes das atividades presenciais do Poder Judiciário da Bahia, no período da pandemia, causada pela COVID-19 (com entrada em vigor no dia 19/07/2021).
+Tal Ato normativo (que manteve as disposições dos Decretos Judiciários anteriores), dispôs sobre a suspensão dos processos físicos nas unidades judiciarias do Estado da Bahia.
+Em seu artigo 7º o mesmo dispôs: "A partir de 02 de agosto de 2021, os processos que tramitam no âmbito do Poder Judiciário da Bahia, terão os prazos processuais retomados, sem qualquer tipo de escalonamento.".
+Ora, nos termos do §6º do art. 1.003 do CPC: "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso".
+O que de fato foi comprovado pelo recorrente, eis que quando da interposição do Agravo em Recurso Especial, acostou aos autos o Ato normativo/Decreto Judiciário n.º 20, que determinou o retorno das atividades presenciais a partir do dia 19 de julho de 2021 e dos prazos processuais a partir do dia 02 de agosto de 2021, fls. 840/842.
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a retirar ambiguidade, esclarecer obscuridade, eliminar contradição e suprir omissão existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada por documento idôneo, no ato da apresentação do recurso. (AgInt nos EDcl no AREsp 1419338/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 3/10/2019; AgRg nos EDcl no REsp 1819067/SC, relator Ministro Herman Benjamin, Segunda Turma, DJe de 5/9/2019.)
+Em razão da pandemia relativa à COVID-19, os prazos processuais foram suspensos no período de 19/3/2020 a 14/6/2020, conforme Resoluções do CNJ n. 313/2020 e 322/2020, voltando a fluírem, para os processos físicos, em 15/6/2020. Desse modo, a suspensão dos prazos, no Tribunal de origem, fora do período mencionado, deveria ter sido comprovada no momento da interposição do recurso, o que não ocorreu.
+A propósito: AgRg no AREsp 1774897/PB, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 28/06/2021; AgInt no AREsp 1724837/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, Dje de 16/06/2021; AgInt no AREsp 1756715/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 04/06/2021; AgInt no AREsp 1757717/RJ, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 13/05/2021.
+Não se desconhece do Ato Normativo Conjunto Nº 20, de 15 de julho de 2021, juntado às fls. 840/842. No entanto, tal documento, por si só, não é suficiente para afastar a intempestividade do recurso especial, uma vez que deveria ter sido juntada a cadeia completa de Portarias a fim de comprovar que os prazos estiveram suspensos de 15/9/2020 até a data de 2/8/2021, no Tribunal de Justiça do Estado da Bahia.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
