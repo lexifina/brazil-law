@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de conflito negativo de competência em que é suscitante o JUÍZO DE DIREITO DA 2ª VARA DE FEITOS DE RELAÇÕES DE CONSUMO, CÍVEL E COMERCIAIS DE SANTO ANTÔNIO DE JESUS - BA , tendo como suscitado o JUÍZO DE DIREITO DA 29ª VARA CÍVEL DE SÃO PAULO - SP.
+Originariamente, JACYRA CONCEICAO LEAO DOS SANTOS OLIVEIRA E OUTRO propuseram junto ao Juízo paulista a ação de produção antecipada de provas visando à obtenção dos relatórios médicos de sua familiar, que chegou ao óbito no estabelecimento hospitalar da ora segunda interessada.
+O referido juízo declinou da competência sob o fundamento de que os autores, sobrinha e sobrinho-neto da falecida, não participaram da relação de consumo com a parte requerida, incidindo o disposto no artigo 381, § 2º, do Código de Processo Civil.
+O juízo baiano, por sua vez, suscitou o presente conflito por entender que os autores, sucessores da falecida, são considerados consumidores por equiparação, devendo ser respeitada a opção pelo ajuizamento do feito no foro do seu domicílio, que é o da cidade de São Paulo - SP.
+Parecer do Ministério Público Federal foi juntado às fls. 51/55 (e-STJ).
+É o relatório.
+DECIDO.
+O conflito encontra-se configurado e deve ser dirimido.
+Não há dúvida que, como vítimas indiretas do suposto evento danoso, os autores podem ser considerados consumidores por equiparação, conforme o próprio juízo suscitante ponderou.
+A propósito:
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDA DE CIVIL. FATO DO SERVIÇO. CONSUMIDOR POR EQUIPARAÇÃO. HARMONIA DO JULGADO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83 DO STJ. REEXAME DE FATOS E PROVAS. INVIABILIDADE. SÚMULA 7 DO STJ.
+1. O entendimento adotado pelo Tribunal de origem está em harmonia com a jurisprudência desta Corte Superior, no sentido de que "encontram-se sob a proteção dos ditames do Código de Defesa do Consumidor aqueles que, embora não tenham participado diretamente da relação de consumo, sejam vítimas de evento danoso decorrente dessa relação, como consumidores por equiparação" (AgInt no AREsp 1339457/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 19/3/2019, DJe 26/3/2019).
+2. "Não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida" (Súmula 83/STJ).
+3. Inviável, em recurso especial, reexaminar matéria fático-probatória. Incidência da Súmula 7 do Superior Tribunal de Justiça.
+4. Agravo interno a que se nega provimento" (AgInt no AREsp n. 1.982.610/PE, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 12/12/2022, DJe de 16/12/2022.)
+Firmada essa premissa, observa-se que a jurisprudência desta Corte é pacífica no sentido de que o princípio da "facilitação da defesa", instituído pelo artigo 6º, inciso VIII, do Código de Defesa do Consumidor, confere às demandas ajuizadas contra o consumidor competência de natureza absoluta ao juízo de seu domicílio, de forma que não haveria falar em incidência da Súmula nº 33/STJ, ficando autorizada a declinação da competência de ofício.
+Por outro lado, descabe se declinar de ofício da competência na hipótese em que a ação é proposta pelo consumidor, o qual pode abrir mão da norma protetiva do artigo 6º, inciso VIII, do CDC se mais conveniente para a sua defesa. Nesses casos, o consumidor, ao ajuizar a ação, pode optar pelo foro de seu domicílio, do de domicílio do réu, do de eleição ou do local do cumprimento da obrigação ou, ainda, outro distinto, se devidamente justificado.
+Registre-se que, apesar de o caso em apreço cuidar de ação proposta pelos consumidores, o que afastaria a possibilidade de declinação da competência de ofício, os autores, por ocasião da declinação para o Juízo da Comarca de Santo Antônio de Jesus - BA, registraram expressamente naqueles autos sua concordância, conforme se pode verificar à fl. 44 (e-STJ).
+Às fls. 57/60 (e-STJ), reiteraram que, como o processo tramita digitalmente, anuíram com a decisão de declinação proferida pelo Juízo de Direito da 29ª Vara Cível de São Paulo - SP, aduzindo que a remessa dos autos pode até conferir uma maior rapidez na intimação do hospital ora requerido.
+Nesse contexto, apesar inicialmente terem optado pelo juízo de seu domicílio, reconheceram que a produção antecipada de provas tramitará com maior celeridade no domicílio da parte requerida, devendo-se considerar tal foro como a opção final válida.
+Nesse sentido:
+"CONFLITO DE COMPETÊNCIA. EMBARGOS DE DECLARAÇÃO. CONTRADIÇÃO. EFEITOS MODIFICATIVOS. PREVIDÊNCIA PRIVADA. FUNCEF. ECONOMIÁRIAS APOSENTADAS. RELAÇÃO DE CONSUMO. AJUIZAMENTO DA AÇÃO, SEM JUSTIFICATIVA, EM COMARCA QUE NÃO É DOMICÍLIO DA RÉ, FORO CONTRATUAL, LOCAL DO CUMPRIMENTO DA OBRIGAÇÃO OU DOMICÍLIO DAS AUTORAS. IMPOSSIBILIDADE.
+1. Verificada a presença de contradição no julgamento, possível conferir efeitos infringentes aos embargos de declaração a fim de extirpar o vício.
+2. Segundo entendimento desta Corte, nas ações propostas contra o consumidor, a competência pode ser declinada de ofício para o seu domicílio, em face do disposto no art. 101, inciso I, do CDC e no parágrafo único, do art. 112, do CPC.
+3. Se a autoria do feito pertence ao consumidor, contudo, permite-se-lhe a escolha do foro de eleição contratual, considerando que a norma protetiva, concebida em seu benefício, não o obriga, quando optar por demandar fora do seu domicílio.
+4. Não se admite, todavia, sem justificativa plausível, a escolha aleatória de foro que não seja nem o do domicílio do consumidor, nem o do réu, nem o de eleição e nem o do local de cumprimento da obrigação.
+5. Embargos de declaração acolhidos com efeitos modificativos para conhecer do conflito, declarando competente a Justiça do Estado da Paraíba, anulada a sentença proferida pelo Juízo de Direito da 7ª Vara Cível do Foro Central de Porto Alegre, RS" (EDcl no AgRg nos EDcl no CC 116.009/PB, Rel. Ministro SIDNEI BENETI, Rel. p/ Acórdão Ministra MARIA ISABEL GALLOTTI, Segunda Seção, julgado em 8/2/2012, DJe 20/4/2012).
+Assim, seja em razão da opção válida pelo foro do domicílio da parte ré, seja pela competência natural determinada pelo artigo 381, § 2º, do Código de Processo Civil, o foro da comarca de Santo Antônio de Jesus - BA é o competente para o julgamento e processamento da presente ação de produção antecipada de prova.
+Ante o exposto, conheço do conflito para declarar competente o JUÍZO DE DIREITO DA 2ª VARA DE FEITOS DE RELAÇÕES DE CONSUMO, CÍVEL E COMERCIAIS DE SANTO ANTÔNIO DE JESUS - BA, ora suscitante.
+Oficiem-se.
+Publique-se.
