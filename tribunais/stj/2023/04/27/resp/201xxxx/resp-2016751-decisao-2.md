@@ -1,0 +1,30 @@
+DECISÃO
+ADALBERTO ALVES DE ARAUJO  interpõe  recurso  especial,  fundado  no  art.  105,  III,  "a" e "c",  da  Constituição  Federal,  contra  acórdão  do  Tribunal  Regional Federal da 5ª Região  na  Apelação  Criminal  n.  0001123-11.2017.4.05.8100.
+O recorrente  foi  condenado pelos crimes dos arts. 337-A, I, do Código Penal e 1º, I, da Lei n. 8.137/1990, em concurso formal e em continuidade delitiva. A Corte de origem deu parcial provimento à apelação defensiva para "suprimir a condenação pelo cometimento de sonegação previdenciária" (fl. 416). A pena privativa de liberdade foi fixada em 2 anos e 11 meses de reclusão mais 35 dias-multa, em regime inicial aberto. A sanção foi substituída por duas restritivas de direitos.
+A defesa aponta a violação dos arts. 337-A do Código Penal, 1º, VI, do Código de Processo Penal, 14, 3, "b", do DL n. 226/1991 (Pacto dos Direitos Civis) e 8º, 2, "c", DL n. 678/1992 (Convenção Americana dos Direitos Humanos). Defende a absolvição do acusado em vista da hipótese da excludente da inexigibilidade da conduta diversa. Alega também cerceamento de defesa no tocante ao pedido de prazo para inclusão do investigado em programa de parcelamento de débitos. Por fim, insurge-se contra a incidência do concurso formal ou da continuidade delitiva, sob pena da ocorrência de bis in idem.
+Requer o provimento do recurso especial, a fim de que o recorrente seja absolvido.
+O  Ministério  Público  Federal , em parecer da Subprocuradora-Geral da República Luiza Cristina Fonseca Frischeisen, às fls. 558-575,  opinou  pelo não conhecimento do recurso especial e, eventualmente, o seu não  provimento.
+Decido.
+I. Inadmissibilidade do recurso especial
+O Tribunal de origem analisou a questão da inexigibilidade de conduta diversa e da inclusão do acusado em programa de parcelamento de débitos tributários nos seguintes termos (fl. 399):
+ ..
+Como cediço, a excludente de culpabilidade de inexigibilidade de conduta diversa pode ser utilizada em situações excepcionais, quando comprovado que a pessoa jurídica responsável pelos tributos atravessa momento de dificuldades financeiras, o que leva seu responsável a agir em desconformidade coma lei.
+No caso, não logro êxito a defesa em apresentar nos autos provas contundentes e irrefutáveis da suposta crise financeira, não só da empresa, mas também dos sócios, sendo certo que o simples depoimento do acusado alegando ter a empresa sofrido várias reclamações trabalhistas não se revela capaz, por si só, de afastar a conduta delitiva.
+No que tange ao pedido de parcelamento ou adesão a quaisquer programas de regularização fiscal, a exemplo do REFIN formulado pelo Apelante, não é de competência do Juízo, muito menos do penal, devendo o responsável tributário proceder com as medidas administrativas adequadas ou socorrer-se da prestação jurisdicional cível/fazendária.
+Conforme se observa, a instância antecedente considerou não haver comprovação suficiente nos autos da alegada dificuldade financeira ao tempo dos fatos que pudesse justificar o acolhimento da excludente de culpabilidade (inexigibilidade de conduta diversa).
+Dessa forma, a análise e o acolhimento da tese absolutória implicariam a necessidade de revolvimento senão de empreender dilação probatória, procedimentos vedados, em recurso especial, pelo disposto na Súmula n. 7 do STJ.
+No tocante ao alegado cerceamento de defesa, a pretensão é inadmissível. Com efeito, o recorrente deixou de impugnar o fundamento explicitado para o não acolhimento do pedido de inclusão no programa de parcelamento de débitos tributários, qual seja, a ausência de competência da justiça criminal. Nesse caso, aplica-se o disposto na Súmula n. 283 do STF.
+A insurgência relativa à dosimetria da pena é deficiente. A parte deixou de indicar os dispositivos legais tidos por violados, bem como não explicitou de forma direta e objetiva a razão pela qual não se aplicaria o concurso formal e a continuidade delitiva ao caso concreto.
+Ademais, o STJ já decidiu que caracterizam dois crimes a prática concomitante das condutas previstas nos arts. 337-A do CP e 1º da Lei n. 8.137/1990. A compreensão é de que o crime de sonegação de contribuição previdenciária é norma especial restrita. Assim, é cabível a incidência do concurso formal e da continuidade delitiva, conforme o caso concreto.
+Ilustrativamente:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SONEGAÇÃO DE CONTRIBUIÇÃO PREVIDENCIÁRIA - ART. 337-A, I DO CP. CRIME CONTRA A ORDEM TRIBUTÁRIA - ART. 1º, I DA LEI 8.137/90. CONCURSO FORMAL. CONTINUIDADE DELITIVA. AGRAVO NÃO PROVIDO.
+1. A previsão contida no art. 337-A do CP é restritiva, ou seja, aplica-se tão somente à sonegação de contribuição previdenciária, de modo que os demais casos de sonegação fiscal devem ser enquadrados no crime capitulado no art. 1º da Lei 8.137/1990. Desse modo, havendo a prática simultânea dos respectivos ilícitos, como no caso dos autos, resta configurada a prática de dois crimes.
+2. É possível a aplicação do concurso formal e do crime continuado, na hipótese em que a imputação versar sobre delitos de espécie diversas, como no caso dos autos. Precedentes.
+3. Agravo regimental desprovido.
+(AgRg no REsp n. 1.949.471/RS, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 27/10/2021.)
+Na hipótese dos autos, conforme consignado pelas instâncias antecedentes, o investigado omitiu dados relativos às remunerações pagas a seus funcionários o que ocasionou a supressão de contribuições à previdência social ( 1/2010-13/2011) (337-A do CP) e de outras entidades (FNDE/Sesc/Senai/Incra/ Sebrae - 1/2010 - 12/2011) (1º, I, da Lei n. 10.826/2003).
+Por se tratar de dois crimes distintos, o reconhecimento do concurso formal dentro de cada espécie delitiva e depois da continuidade entre eles não implica bis in idem, conforme a orientação desta Corte Superior.
+Portanto, por estar em desacordo com a jurisprudência predominante no STJ, o acórdão recorrido foi reformado, no ponto, no julgamento do recurso especial do Ministério Público Federal.
+II . Dispositivo
+À  vista  do  exposto,  não conheço do recurso especial.
+Publique-se  e  intimem-se.
