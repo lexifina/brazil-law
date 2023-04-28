@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MULTIBENS - COMPANHIA SECURITIZADORA DE CRÉDITOS FINANCEIROS contra decisão que inadmitiu recurso especial com fundamento na incidência da Súmula n. 7 do STJ e na inexistência de comprovação do dissídio jurisprudencial.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, foi interposto contra acórdão prolatado pelo Tribunal de Justiça do Estado de Minas Gerais (Apelação n. 1.0000.22.010727-0/001), nos autos de ação de indenização.
+O julgado foi assim ementado (fl. 464):
+APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS -NEGATIVAÇÃO INDEVIDA -SÚMULA 385 DO STJ - INAPLICABIÇIDADE - INSCRIÇÃOES POSTERIORES - DANOS MORAIS CONFIGURADOS - JUROS DE MORA - TERMO INICIAL - SÚMULA 54 DO STJ -HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS - QUANTIFICAÇÃO. Inaplicável a Súmula 385 do STJ quando as demais inscrições são posteriores àquela discutida nos autos. O colendo Superior Tribunal de Justiça pacificou entendimento de que a inscrição irregular em cadastros de inadimplentes enseja danos morais, os quais decorrem do próprio ato de negativação -"in re ipsa" -, prescindido da comprovação do prejuízo. Em se tratando de responsabilidade extracontratual, os juros de mora devem incidir a desde a data do evento danoso. Os honorários advocatícios de sucumbência devem ser fixados de acordo com os parâmetros previstos no art. 85, §2º, do CPC.
+Nas razões do recurso especial, a parte ora agravante aponta violação dos arts. 927 e 373, I, do CPC, uma vez que "não há qualquer possibilidade de se vislumbrar o dano moral pretendido, haja vista não ter sido afetado gravemente o seu estado emocional" (fl. 485).
+Aponta dissídio jurisprudencial quanto ao valor arbitrado a título de indenização por danos morais, alegando que o quantum indenizatório foi exorbitante.
+Requer o provimento do recurso a fim de excluir o dano moral ou minorar o valor fixado.
+Transcorreu in albis o prazo para apresentação das contrarrazões ao recurso especial (fl.498).
+O apelo extremo foi inadmitido (fls. 499-501), tendo sido apresentado o agravo em recurso especial (fls. 504-507).
+Transcorreu in albis o prazo para apresentação da contraminuta de agravo fl. 511.
+É o relatório. Decido.
+O recurso não merece prosperar.
+Quanto à alegada violação dos arts. 927 e 373, I, do CPC, o acórdão recorrido baseou-se nas provas dos autos para concluir pela indevida inscrição do nome da agravada no cadastro de inadimplentes o que resultou em danos morais, conforme se vê dos seguintes trechos do acórdão recorrido (fls. 469-470, destaquei):
+Na espécie, verifica-se que no documento de ordem 9 constam várias negativações manejadas em desfavor da demandante, inclusive a negativação objeto da lide. Todavia, extrai-se do referido demonstrativo que as demais inscrições desabonadoras em nome da requerente foram incluídas em momento posterior ao da inscrição nestes autos refutada.
+Ausente, assim, anotação antecedente ativa a obstar a indenização por danos morais, sendo inaplicável a Súmula 385 do STJ.
+Assim, para concluir em sentido contrário e reconhecer a não ocorrência dos pressupostos para a concessão da indenização por danos morais, é necessário o reexame do conjunto probatório dos autos, o qual é vedado em recurso especial, nos termos da Súmula n. 7 do STJ.
+Reitere-se que o Tribunal de origem entendeu que o valor fora arbitrado dentro dos critérios e bases adotados pela jurisprudência, além de te rem sido observados os princípios da razoabilidade e da proporcionalidade, considerando-se o caráter reparatório, punitivo e educativo, sem, contudo, haver enriquecimento ilícito. Vejam-se trechos do voto condutor do acórdão da apelação (fl. 470, destaquei):
+Quanto ao valor da indenização por danos morais, ausentes critérios legais taxativos para sua determinação, a fixação deve considerar o grau da responsabilidade atribuída ao réu, a extensão dos danos sofridos pela vítima, bem como a condição social e econômica do ofendido e do autor da ofensa.
+Deve-se observar, também, os princípios constitucionais da razoabilidade e da proporcionalidade.
+O valor da indenização por danos morais não pode representar enriquecimento sem causa da parte lesada nem, tampouco, a ruína do ofensor. É preciso buscar o equilíbrio.
+No caso dos autos, observados esses parâmetros, e, ainda, tendo por base o princípio da razoabilidade e proporcionalidade, tem-se por acertado fixar o valor da indenização por danos morais em R$ 15.000,00 (quinze mil reais), patamar utilizado por este Relator em casos análogos.
+No caso, o Tribunal de origem, apreciando o conjunto fático-probatório dos autos, concluiu, de forma fundamentada, pela condenação da parte agravante ao pagamento de indenização por danos morais no valor de R$ 15.000,00.
+Com relação à divergência jurisprudencial, verifica-se a impossibilidade de estabelecer juízo de valor acerca da semelhança dos pressupostos fáticos dos acórdãos confrontados, pois, tratando-se de dano moral, cada caso tem peculiaridades próprias - circunstâncias em que o fato ocorreu, condições do ofensor e do ofendido, grau de repercussão do fato no âmbito moral da vítima -, as quais determinam a aplicação do direito à espécie.
+Dessa forma, ainda que haja grande semelhança nas características externas e objetivas, os acórdãos, no aspecto subjetivo, são distintos, tornando incabível a análise do recurso com base no dissídio.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão do alcance do limite máximo previsto no § 2º do referido artigo (fl. 470 ).
+Publique-se. Intimem-se.
