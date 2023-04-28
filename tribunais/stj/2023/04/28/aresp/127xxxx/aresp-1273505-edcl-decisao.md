@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por MARIA JUREMA DA ROSA SILVA contra a decisão que conheceu do agravo para não conhecer do recurso especial, nos termos do art. 932, III, do CPC de 2015, c/c o art. 253, parágrafo único, II, "a", do RISTJ (fls. 387-392).
+Em suas razões, sustenta a parte embargante, incialmente, que (fl. 401):
+À vista disso, e a teor dos Arts. 926 do CPC/15, e 105, inciso III, alínea "c", da CF/88, pugna-se pela aplicabilidade e, com o precedente ora invocado, acima colacionado, VENHA DE IGUAL FORMA E MODO NO PRESENTE CASO afastado o reconhecimento da prescrição/preclusão dos honorários advocatícios fixados em sede de execução, como resultado final, determinando-se, por conseguinte, o prosseguimento da execução perante a origem até seus ulteriores termos que redundem na integral quitação de débito exequendo.
+Afirma que há omissão na decisão embargada, uma vez que (fl. 405):
+(..) não ter havido, por parte da câmara a quo, quando do acórdão recorrido, a devida apreciação dos dispositivos aplicáveis à controvérsia havida, restando, portanto, violado o disposto nos Arts. 489, § 1º, IV e 1.022 do CPC.
+Aduz que (fls. 412-413):
+ ..  NÃO PRETENDE A RECORRENTE, ORA EMBARGANTE, A ANÁLISE DE MATÉRIA FÁTICO-PROBATÓRIA, MAS A ANÁLISE E O ENFRENTAMENTO DOS ATOS PROCESSUAIS INCONTROVERSOS PRATICADOS, NOS LIMITES DO ACÓRDÃO RECORRIDO PROFERIDO PELO JUÍZO DE ORIGEM, E À LUZ DA LEGISLAÇÃO INFRACONSTITUCIONAL INVOCADA E REPUTADA POR VIOLADA, ou seja, busca-se perante esse Tribunal Superior a APRECIAÇÃO DA VIOLAÇÃO DO DIREITO DA PARTE A TEOR DOS ARTIGOSDE LEI FEDERAL SUBANÁLISE, razão da necessidade de reforma do decisum.
+Veja-se que equivocada a decisão visto que, no Especial interposto, houve demonstração que não há o que se falar em prescrição/preclusão do pedido de pagamento dos honorários fixados na execução, haja vista que a pretensão da recorrente está a tratar DO CUMPRIMENTO INTEGRAL DA DECISÃO QUE ARBITROU OS HONORÁRIOS DE EXECUÇÃO, inobservado que DEVIDO A UM ERRO MATERIAL, OS MESMOS NÃO RESTARAM INCLUÍDOS NA REQUISIÇÃO DE PAGAMENTO EXPEDIDA bem como quanto a POSSIBILIDADE DE POSTULAÇÃO A QUALQUER TEMPO, A NATUREZA ALIMENTAR DA VERBA HONORÁRIA E A VIOLAÇÃO/OFENSAA COISA JULGADA que são capazes de, por si só, afastarem a ocorrência de prescrição/preclusão reconhecida, o que É ATO PROCESSUAL INCONTROVERSO E NÃO DEMANDA ANÁLISE PROBATÓRIA.
+Aponta, ainda que (fl. 425):
+ ..  merece vir sanado o equívoco, observando-se que a divergência entre a jurisprudência e o cotejo analítico restou devidamente comprovada nos termos do que previsto no ordenamento jurídico pátrio, devendo ser esta devidamente apreciada e enfrentada, sob pena de malferimento à prestação jurisdicional plena.
+Requer, assim, o conhecimento e o acolhimento dos embargos declaratórios para que sejam s anados os vícios apontados.
+Impugnação às fls. 472-477.
+É, no essencial, o relatório. Decido.
+De acordo com o artigo 1.022 do CPC/2015, os embargos declaratórios são cabíveis quando houver na decisão judicial, obscuridade ou contradição, quando for omitido ponto sobre o qual se devia pronunciar o juiz ou tribunal ou quando vislumbrada a existência de erro material.
+Sob esse enfoque, os presentes embargos declaratórios não merecem acolhimento, porquanto não evidenciada a ocorrência dos vícios apontados pelo embargante, uma vez que o recurso especial sequer foi conhecido.
+O inconformismo da parte com a decisão embargada deve ser manifestado através do recurso próprio.
+Desse modo, a decisão embargada não contém nenhuma omissão ou ausência de prestação jurisdicional plena.
+No mais, constata-se que as demais alegações trazidas nos embargos de declaração dizem respeito ao mérito da demanda, o que não pode ser objeto de reanálise em sede de embargos de declaração.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porquanto os próximos embargos versando sobre o mesmo assunto e solicitando o rejulgamento da causa serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
