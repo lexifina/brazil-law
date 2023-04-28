@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de recurso especial interposto por AYMORÉ CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A. contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c" da Constituição Federal.
+Ação: de busca e apreensão, ajuizada por AYMORÉ CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A., em face de FERNANDO MENDES PUNTEL.
+Sentença: extinguiu o feito, sem resolução do mérito, em razão da ausência de pressuposto de constituição e de desenvolvimento válido e regular do processo (art. 485,IV, do CPC).
+Acórdão: negou provimento ao recurso interposto pela agravante, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃOFIDUCIÁRIA. NOTIFICAÇÃO EXTRAJUDICIAL INIDÔNEA. AUSÊNCIADE PRESSUPOSTO DE CONSTITUIÇÃO E DESENVOLVIMENTOVÁLIDO E REGULAR DO PROCESSO (CÓDIGO DE PROCESSO CIVIL,ARTIGO 485, INCISO IV). NO CASO, A NOTIFICAÇÃO EXTRAJUDICIAL ENVIADA AO ENDEREÇODECLINADO NO CONTRATO RESTOU FRUSTRADA. AUSENTEQUALQUER COMPLEMENTAÇÃO DA DILIGÊNCIA, NÃO SECONSIDERAM ESGOTADAS AS TENTATIVAS PARA A COMPROVAÇÃODA MORA. NÃO ERA CASO DE OPORTUNIZAR AO CREDOR A EMENDAÀ INICIAL, POIS A VÁLIDA COMPROVAÇÃO DA MORA É CONDIÇÃO DEPROCEDIBILIDADE DA AÇÃO DE BUSCA E APREENSÃO, NÃO SEADMITINDO QUE OCORRA APÓS O AJUIZAMENTO DA DEMANDA. MANTIDA A DECISÃO TERMINATIVA. EXTINÇÃO DO FEITO, NA FORMADO 485, INC. IV, DO CPC. APELO DESPROVIDO.
+Recurso especial: aduz violação ao art. 2º, § 2º, do Decreto-Lei 911/69.
+RELATADO O PROCESSO, DECIDE-SE.
+-Da comprovação de notificação extrajudicial
+A jurisprudência desta Corte é firme no sentido de que, por formalidade legal, para o ajuizamento da ação de busca e apreensão, necessária a comprovação da mora por meio da notificação extrajudicial do devedor, realizada por intermédio de carta registrada enviada por Cartório de Títulos e Documentos, com a efetiva entrega da notificação no seu endereço cadastral, apenas dispensando-se a notificação pessoal. (REsp 1592422/RJ, Quarta Turma, julgado em 17/05/2016, DJe 22/06/2016; AgInt no AREsp n. 2.119.740/DF, Terceira Turma, julgado em 19/9/2022, DJe de 21/9/2022; AgInt no REsp n. 1.978.852/RS, Quarta Turma, julgado em 23/8/2022, DJe de 31/8/2022)
+Isso, pois, inviável se extrair do simples fato da ausência do devedor de sua residência qualquer conduta contrária à boa-fé objetiva. (REsp 1848836/RS, Terceira Turma, julgado em 24/11/2020, DJe 27/11/2020)
+Na hipótese dos autos, o acórdão recorrido assim concluiu:
+"No presente caso, a notificação extrajudicial (evento 1, Notificação7) foi enviada para o endereço constante no contrato - indicado pelo próprio fiduciante quando da negociação, qual seja, Rua Quaraí, 309, Boa Vista, Novo Hamburgo/RS. Todavia, resultaram inexitosas as três tentativas de entrega pelo motivo "ausente". Assim, não restou comprovada a mora, porquanto a notificação deixou de ser entregue no endereço declinado pelo fiduciante. Ante a não perfectibilização da diligência notificatória, deveria a parte autora ter exaurido os meios para a notificação do devedor, esgotando diligências pertinentes e, quiçá, promovido o protesto, mesmo com a intimação por edital. Porém, in casu, a única diligência constituiu-se da notificação extrajudicial infrutífera. Dessa forma, não foi comprovada nos autos a constituição em mora do devedor." (e-STJ fl. 103)
+Dessarte, estando o entendimento do Tribunal de origem em consonância com a jurisprudência desta Corte Superior, não há que falar na alteração do julgado. Aplica-se, portanto, a Súmula 568/STJ no particular.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência, não bastando, para tanto, transcrever ementas ou destacar trechos de decisões (REsp 1.421.371/SC, Terceira Turma, julgado em 12/12/2017, DJe de 18/12/2017; AgInt nos EREsp 1.377.705/SP, Segunda Seção, julgado em 14/09/2016, DJe de 19/09/2016; AgInt nos EAREsp 740.220/SP, Corte Especial, julgado em 17/08/2016, DJE de 21/09/2016).
+Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1.029, § 1º, do CPC/15 e 255, § 1º, do RISTJ.
+Forte nessas razões, com fundamento no art. 932, IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. NOTIFICAÇÃO EXTRAJUDICIAL. DEVEDOR. AUSENTE. COMPROVAÇÃO RECEBIMENTO. REEXAME DE FATOS E PROVAS.
+1. Cuida-se de ação de busca e apreensão.
+2. A jurisprudência desta Corte é firme no sentido de que, para a busca e apreensão nos contratos de alienação fiduciária, necessária a comprovação da mora por meio da notificação extrajudicial do devedor, com a efetiva entrega da notificação no seu endereço cadastral, apenas dispensando-se a notificação pessoal. Precedentes.
+3. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+4. Recurso especial não conhecido.
