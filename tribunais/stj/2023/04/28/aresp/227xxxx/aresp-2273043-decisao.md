@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/15) interposto por FUNDACAO PETROBRAS DE SEGURIDADE SOCIAL PETROS em face da decisão acostada às fls. 2362-2365 e-STJ, que, em juízo prévio de admissibilidade, inadmitiu o recurso especial manejado pelo ora agravante.
+O apelo extremo, fundado na alínea "a" do permissivo constitucional, fora deduzido em desafio ao acórdão de fls. 2210-2216 e-STJ, proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim ementado:
+OBRIGAÇÃO DE FAZER C/C DE COBRANÇA. PLANO DE PREVIDÊNCIA PRIVADA FECHADA. PETROS. DIFERENÇAS DE SUPLEMENTAÇÃO DE APOSENTADORIA. REJEITADA A PREJUDICIAL DE PRESCRIÇÃO, PETROS INTERPÔS AGRAVO RETIDO. PROCEDENCIA DO PEDIDO, RETIFICADO O VALOR DE 60% DO VALOR DA SUPLEMENTAÇÃO DE APOSENTADORIA A QUE O MANTENEDOR- BENEFICIÁRIO FALECIDO TERIA DIREITO. RECURSO DA PETROS.
+1) INOCORRÊNCIA DE PRESCRIÇÃO. A jurisprudência do Superior Tribunal de Justiça entende que, "nas ações em que se postula a complementação da aposentadoria ou a revisão do benefício, o prazo prescricional quinquenal previsto na Súmula n. 291 do STJ não incide sobre o fundo de direito, mas atinge tão somente as parcelas anteriores aos cinco anos de propositura da ação" (AgRg no AREsp 621.735/RJ, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 5/2/2015, DJe 10/2/2015). Súmula 83/STJ.
+2) A SUPLEMENTAÇÃO DA PENSÃO CORRESPONDE A UM PERCENTUAL DA "SUPLEMENTAÇÃO DA APOSENTADORIA QUE O MANTENEDOR- BENEFICIÁRIO PERCEBIA", NA FORMA DO ART. 32 DO REGULAMENTO DO PLANO DE BENEFÍCIOS DA PETROS, INEXISTINDO PREVISÃO DE DESCONTO DE QUALQUER PARCELA PAGA PELO INSS A TÍTULO DE PENSÃO.
+3) INCORRETA A FORMA DE CÁLCULO DA PETROS, ABATENDO DO PERCENTUAL QUE INCUMBE À PENSIONISTA A PENSÃO POR ELA RECEBIDA DO INSS.
+4) O MANTENEDOR-BENEFICIÁRIO FALECEU EM 28/08/1980. ASSIM, PRIMEIRO DEVE SER CALCULADO O VALOR A QUE TERIA DIREITO O MANTENEDOR-BENEFICIÁRIO, OU SEJA, DEVE-SE CALCULAR O SALÁRIO- REAL-DE-BENEFÍCIO E ABATER O VALOR DA APOSENTADORIA POR INVALIDEZ QUE RECEBERIA PELO INSS, CONFORME ART. 20, DO REGULAMENTO DO PLANO DE BENEFÍCIOS DA PETROS. A SUPLEMENTAÇÃO DA PENSÃO A QUE FAZ JUS A AUTORA CORRESPONDE A 60% DO VALOR A QUE TERIA DIREITO O MANTENEDOR-BENEFICIÁRIO, NÃO MERECENDO REPARO A SENTENÇA.
+5) A FÓRMULA PREVISTA NOS ARTS. 41 E 42 DO REGULAMENTO DO PLANO DE BENEFÍCIOS DA PETROS TRATA DA CORREÇÃO DO BENEFÍCIO, SENDO DESINFLUENTE AO CASO CONCRETO EM QUE SE DISCUTE O CÁLCULO DA PRÓPRIA SUPLEMENTAÇÃO DE PENSÃO.
+6) DESNECESSÁRIO QUALQUER APORTE, UMA VEZ QUE APLICADAS AS DISPOSIÇÕES DO PRÓPRIO REGULAMENTO DO PLANO DE BENEFÍCIOS DA PETROS, AFASTANDO-SE FORMA DE CÁLCULO SEM PREVISÃO ESTATUTÁRIA.
+DESPROVIMENTO DO RECURSO.
+Opostos embargos declaratórios (fls. 2263-2242 e-STJ), restaram desacolhidos na origem (fls. 2290-2296 e-STJ).
+Nas razões de recurso especial (fls. 2323-2331 e-STJ), alegou a insurgente que o acórdão recorrido violou os seguintes dispositivos de lei federal: (i) artigo 75 da Lei Complementar n. 109/2001; e, (ii) artigos 1º e 17 da Lei Complementar n. 109/2001 e 884 do CC, sustentando que o cálculo do benefício realizado pela entidade está de acordo com o regulamento da entidade, de modo que a determinação de revisão importa em enriquecimento indevido e desequilíbrio atuarial.
+Contrarrazões às fls. 865-709 e-STJ.
+Em juízo prévio de admissibilidade, a Corte de origem inadmitiu o apelo nobre, ensejando a interposição do presente agravo (art. 1.042 do CPC/15), às fls. 2379-2385 e-STJ, por meio do qual pretende ver admitido o recurso especial.
+Contraminuta às fls. 2389-2402 e-STJ.
+É o relatório. Decide-se.
+A pretensão recursal não merece prosperar.
+1. De início, observa-se que a parte agravante alega genericamente violação ao artigo 75 da Lei Complementar n. 109/2001, sem apresentar fundamentação que guarde correlação com a norma supostamente violada, bem como sem demonstrar, de forma clara e precisa, de que modo o acórdão recorrido a teria contrariado.
+Com efeito, a alegação de ofensa à lei federal pressupõe a realização do cotejo entre o conteúdo preceituado na norma e os argumentos aduzidos nas razões recursais, de maneira a demonstrar a devida correlação jurídica entre o fato e o mandamento legal.
+Nesse sentido, a simples alusão a dispositivos, desacompanhada da necessária argumentação que sustente a alegada ofensa à lei federal, não se mostra suficiente para o conhecimento do recurso especial. Incide, no ponto, o disposto na Súmula 284/STF, que se aplica por analogia.
+2. No mais, a pretensão esbarra nas Súmulas 5 e 7/STJ.
+A Corte de origem, para decidir a controvérsia, interpretou dispositivo do regulamento da entidade - concluindo assistir razão à parte autora.
+Veja-se (fls. 2213-2214 e-STJ):
+No mérito, é de se dizer que a suplementação da pensão corresponde a um percentual da "(..) suplementação da aposentadoria que o mantenedor-beneficiário percebia, ou daquela a que teria direito, se na data do falecimento, fosse aposentado por invalidez", nos exatos termos do art. 32, do Regulamento do Plano de Benefícios da Petros:
+"Art. 32  A suplementação da pensão será constituída de uma parcela familiar igual a 50% (cinquenta por cento) do valor da suplementação da aposentadoria que o mantenedor-beneficiário percebia, ou daquela a que teria direito, se na data do falecimento, fosse aposentado por invalidez, e mais tantas parcelas iguais, cada uma, a 10% do valor da mesma suplementação de aposentadoria, quantos forem os beneficiários, até no máximo de 5 (cinco) ".
+Como se vê, inexiste previsão de desconto de qualquer parcela paga pela Previdência Social a título de pensão.
+Derruir as conclusões a que chegou o Tribunal de origem e acolher a pretensão recursal ensejaria o necessário revolvimento das provas constantes dos autos, bem como a reinterpretação do dispositivo do regulamento do plano de benefício, providências vedadas em sede de recurso especial, ante os óbices estabelecidos pelas Súmulas 5 e 7/STJ.
+3. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, conhece-se do agravo para não conhecer do recurso especial.
+Em atenção ao disposto no art. 85, §11, do CPC/15, deixa-se de majorar os honorários, eis que já fixados no patamar máximo pela origem.
+Publique-se. Intimem-se.
