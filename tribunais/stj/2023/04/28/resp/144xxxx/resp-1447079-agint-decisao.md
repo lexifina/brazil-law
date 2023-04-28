@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de agravo interno manejado pelo MUNICÍPIO DE COQUEIRO SECO em face de decisão da lavra do eminente Ministro Og Fernandes que afastou a alegação de ofensa ao art. 535 do CPC/1973 em razão do óbice da Súmula nº 284 do STF, tendo em vista as alegações genéricas do recorrente no po nto, e, no mérito, entendeu que o acórdão recorrido estaria em consonância com a jurisprudência do STJ, a qual teria entendimento firmado no sentido de que a distribuição de royalties de petróleo por instalação de embarque e desembarque depende da origem do hidrocarboneto que circula nessas instalações, não sendo possível o pagamento do complemento dos royalties de produção marítima a município detentor de estações usadas apenas para produção terrestre (AgInt no AgInt no REsp 1.655.943/RN, Rel. Min. Herman Benjamin, Segunda Turma, DJe 19/12/2018).
+O agravante insurge-se contra a decisão agravada pugnando pelo afastamento do óbice da Súmula nº 284 do STF aplicado em relação à alegação de omissão, eis que tria sido corretamente indicado no recurso que o julgado não se manifestou sobre os precedentes indicados como paradigma para o deslinde do caso. No mérito alega que superação do entendimento desta Corte no REsp 1.655.943/RN no âmbito dos embargos de declaração naquele feito.
+Requer a reconsideração da decisão agravada ou a submissão do feito a julgamento perante o órgão colegiado.
+Impugnação às fls. 953-958 e-STJ.
+É o relatório. Passo a decidir.
+Conheço do agravo interno, eis que devidamente impugnados os fundamentos da decisão agravada.
+Assiste parcial razão ao Município agravante.
+Com efeito, o acórdão tomado no recurso especial indicado para fundamentar a decisão agravada (REsp 1.655.943/RN) foi anulado em sede de embargos de declaração, cujo acórdão recebeu o seguinte dispositivo:
+"acolho os embargos de declaração, julgando-os parcialmente procedentes, com efeitos infringentes para não se conhecer do Recurso Especial interposto pela ANP, na parte em que ela dispõe sobre a "violação ao artigo 7º da Lei n.º 7.990/89 e ao art. 49 da Lei n.º 9.487/1997: pagamento de royalties de acordo com a origem do hidrocarboneto" (fls. 818/826, e-STJ), em face da incidência da Súmula 283/STJ."
+Portanto, salvo melhor juízo, não há precedente colegiado válido sobre a matéria de fundo no âmbito da Segunda Turma desta Corte para justificar o julgamento monocrático do presente recurso especial.
+Ante o exposto, com fulcro no art. 259 do RISTJ c/c o § 2º do art. 1.021 do CPC/2015, conheço do agravo interno para, em juízo de retratação, tornar sem efeito a decisão agravada para posterior inclusão do feito em pauta de julgamento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E FINANCEIRO. AGRAVO INTERNO. RECURSO ESPECIAL. ROYALTIES DO PETRÓLEO. INSTALAÇÃO DE EMBARQUE E DESEMBARQUE. ORIGEM DO HIDROCARBONETO. PRECEDENTE UTILIZADO NA DECISÃO AGRAVADA ANULADO EM EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE JULGAMENTO COLEGIADO VÁLIDO NO ÂMBITO DA SEGUNDA TURMA A JUSTIFICAR O JULGAMENTO MONOCRÁTICO. AGRAVO INTERNO CONHECIDO PARA, EM JUÍZO DE RETRATAÇÃO, TORNAR SEM EFEITO A DECISÃO AGRAVADA PARA POSTERIOR INCLUSÃO DO FEITO EM PAUTA DE JULGAMENTO.
