@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO DE JANEIRO fundamentado na alínea a do permissivo constitucional contra acórdão do TJRJ, assim ementado (e-STJ fl. 348):
+APELAÇÕES MINISTERIAL E DEFENSIVA. ARTIGO 155, CAPUT, DO CÓDIGO PENAL. AUTORIA E MATERIALIDADE COMPROVADAS. INCABÍVEL A APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. RECONHECIMENTO DA FORMA TENTADA. PENA-BASE FIXADA NO MÍNIMO LEGAL. AGRAVANTE DA REINCIDÊNCIA COMPENSADA COM A ATENUANTE DA CONFISSÃO. REDUÇÃO DA PENA NA FRAÇÃO DE 1/3 PELA TENTATIVA. MANUTENÇÃO DO REGIME SEMIABERTO. SOCIALMENTE RECOMENDÁVEL A SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR UMA PENA RESTRITIVA DE DIREITOS. CONHECIMENTO DOS RECURSOS, DESPROVIMENTO DO APELO MINISTERIAL E PROVIMENTO DO APELO DEFENSIVO.
+O recorrido foi condenado à pena de 8 meses de reclusão em regime semiaberto, além do pagamento de 6 dias-multa, como incurso no art. 155, caput, c/c o art. 14, II, do Código Penal, substituída por uma pena restritiva de direito, consistente em prestação de serviços à comunidade.
+Nas razões do recurso especial alega violação dos arts. 14, I, e 155, caput, do Código Penal, pois: a) "para consumação do furto, como cediço em doutrina, basta o desapossamento da coisa subtraída, o qual se dá com a inversão da posse, não sendo necessário que a res furtiva saia da esfera de vigilância da vítima, e muito menos que o agente tenha posse mansa e pacífica" (e-STJ fl. 377); b) "o fato de o ora recorrido desejar furtar uma quantidade maior de cabos não torna tentada a subtração dos cabos já cortados e cuja posse já foi invertida" (e-STJ fl. 377); c) "após o corte dos cabos telefônicos esses não podem ser reaproveitados para sua finalidade primária, o que equivale à destruição do bem subtraído" (e-STJ fl. 377); e d) "a C. Terceira Seção desse E. Superior Tribunal de Justiça, julgando recurso especial representativo da controvérsia,  ..  pacificou a matéria" (e-STJ fl. 379) com a adoção da teoria da apprehensio ou amotio.
+Requer provimento do recurso para que sejam restabelecidos os termos da sentença de primeiro grau.
+Contrarrazões (e-STJ fls. 386/391).
+Juízo de admissibilidade (e-STJ fls. 423/425).
+Parecer do Ministério Público Federal pelo provimento do recurso especial (e-STJ fls. 438/441).
+É o relatório.
+Eis os fundamentos apresentados pela Corte de origem para o reconhecimento do furto simples na modalidade tentada (e-STJ fls. 353/356):
+ ..
+Na presente hipótese, verifica-se que os Policiais Militares narraram, em Juízo, que estavam em patrulhamento quando avistaram alguns cabos de telefonia caídos no chão e o réu cortando com uma faca de cozinha outros cabos que estavam pendurados no poste, o que foi confirmado por este, que confessou o crime.
+ ..
+Outrossim, com razão à Defesa quando postula o reconhecimento da tentativa, considerando que restou evidenciado que o acusado foi surpreendido durante a execução do crime, em momento no qual já havia cortado alguns cabos de telefonia, mas ainda cortava outros pendurados no poste, não sendo alcançada a consumação delitiva por circunstâncias alheias à vontade do agente.
+Logo, deve ser mantida a condenação do acusado pela prática do crime de furto simples, na modalidade tentada.
+O Ministério Público alega que foi dado provimento ao recurso da defesa para reconhecer a modalidade tentada do crime de furto ante a ausência de posse mansa, pacífica e desvigiada do bem subtraído e, ainda, por entender que o ora recorrido não teve, mesmo por breve lapso temporal, poder de disposição sobre o bem.
+Contudo, verifica-se que o Tribunal de origem não examinou a matéria sob o enfoque pretendido pelo recorrente, o que impede o seu conhecimento por esta Corte Superior, ante o óbice da Súmula 282 do STF.
+Não tendo sido a matéria em apreço debatida na instância ordinária, uma vez que não houve oposição de embargos de declaração para que o Colegiado de origem deliberasse sobre o pretendido, entende-se como ausente o prequestionamento.
+Sobre o tema, o Superior Tribunal de Justiça orienta que "a questão jurídica levantada nas razões do especial não foi debatida sob o enfoque suscitado pela defesa, tampouco houve a oposição de embargos de declaração com o fim de forçar a sua análise, o que inviabilizou o seu exame por esta Corte Superior, em razão da ausência de prequestionamento" (AgRg no AREsp 2.142.170/PR, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 20/9/2022, DJe de 22/9/2022.)
+Na mesma esteira:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME DE FURTO PRIVILEGIADO. SUBSTITUIÇÃO DA PENA DE RECLUSÃO POR DETENÇÃO. ALEGAÇÃO DE DESRESPEITO À SÚMULA 444/STJ E OCORRÊNCIA DE BIS IN IDEM. PREQUESTIONAMENTO. AUSÊNCIA. ÓBICE DA SÚMULA 518/STJ.
+1. No tocante às alegações de que "a existência de processos em curso não se presta a incrementar a pena imposta ao réu" (e-STJ fl. 260) e de que haveria bis in idem em relação à análise desfavorável da qualificadora do concurso de pessoas, as teses não foram debatidas de forma específica na origem sob o viés pretendido pela parte recorrente e não houve a oportuna provocação de seus exames por meio de embargos de declaração, inexistindo o requisito do prequestionamento. Incidência das Súmulas n. 282 e 356/STF.
+2. Não é possível arguir violação de enunciado sumular, mediante substituição do paradigma legal, conforme dispõe a própria Súmula 518/STJ.
+3. Agravo regimental desprovido.
+(AgRg no AREsp 1.937.456/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 8/3/2022, DJe de 14/3/2022.)
+C om fulcro no art. 255, § 4º, I, do Regimento Interno do STJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
