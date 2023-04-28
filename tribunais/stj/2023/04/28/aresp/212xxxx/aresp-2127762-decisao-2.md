@@ -1,0 +1,58 @@
+DECISÃO
+Cuida-se de agravo interposto por CINTYA GUARNIER DE LIMA contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO cuja ementa guarda os seguintes termos (fls. 452):
+PROCESSUAL CIVIL E ADMINISTRATIVO - APELAÇÃO DO BANCO DO BRASIL - PRELIMINAR DE ILEGITIMIDADE PASSIVA - REJEIÇÃO - FIES - PANDEMIA DE COVID-19 - PERÍODO DE CALAMIDADE PÚBLICA RECONHECIDO PELO DECRETO LEGISLATIVO Nº 6/2020 - SUSPENSÃO DE OBRIGAÇÕES DE PAGAMENTO - DANO MORAL - INEXISTÊNCIA - MULTA (ASTREINTES) - VALOR - REDUÇÃO - POSSIBILIDADE - HONORÁRIOS ADVOCATÍCIOS - BASE DE CÁLCULO
+I - A autora ajuizou a presente ação, a fim de obter: a) a suspensão de cobranças relacionadas a contrato de financiamento com recursos do FIES durante o período de vigência do estado de calamidade pública, reconhecido, em razão da Pandemia de Covid-19, pelo Decreto Legislativo nº 6, de 20/03/2020 e b) a condenação dos réus - Banco do Brasil e FNDE - ao pagamento de indenização por danos morais.
+II - A preliminar de ilegitimidade passiva suscitada pelo Banco do Brasil deve ser rejeitada, seja porque a legislação aplicável ao caso - art. 5º-A, §9º, da Lei nº 10.260/2011 - é clara no sentido de que o estudante deverá manifestar seu interesse em suspender o pagamento perante o agente financeiro do Fies, seja porque o pedido de indenização por danos morais também foi deduzido em face dessa instituição.
+III - Segundo o art. 5º-A, § 6º, da Lei nº 10.260/2001, ficaram suspensas, durante todo o período de vigência do estado de calamidade pública, as obrigações de pagamento ali discriminadas, relacionadas a contrato de financiamento com recursos do Fies.
+IV - "São considerados beneficiários da suspensão referida no § 6º deste artigo os estudantes adimplentes ou cujos atrasos nos pagamentos das obrigações financeiras com o Fies devidas até 20 de março de 2020 sejam de, no máximo, 180 (cento e oitenta) dias, contados da data de seu vencimento regular" (art. 5º-A, § 8º, da Lei nº 10.260/2001).
+V - Como a autora apresentava uma única parcela em aberto, vencida em 10 de março de 2020, correta a sentença quando reconheceu o direito ao benefício de suspensão.
+VI - Muito embora a negativa do Banco do Brasil de deferir o pedido de suspensão das obrigações de pagamento tenha contrariado a legislação aplicável à matéria, gerando perda de tempo e a necessidade do ajuizamento da presente ação, inexistem elementos suficientes para justificar a condenação por danos morais.
+VII - Na forma do art. 537 do CPC, pode o juiz, como instrumento para a efetividade do cumprimento das sentenças, bem assim para afirmação da autoridade do órgão jurisdicional, fixar multa pelo descumprimento do preceito contido na decisão, cujo valor e periodicidade poderão ser modificados.
+VIII - No caso concreto, o valor da multa mostra-se excessivo, considerando-se, inclusive, os prejuízos efetivamente sofridos pela autora em razão do descumprimento do prazo fixado.
+IX - Conforme consignado pela 3ª Turma do STJ quando do julgamento, em 22/03/2021, do AgInt nos EDcl no AgInt nos EDcl no AREsp 1360879/PI, "as astreintes, por serem um meio de coerção indireta ao cumprimento do julgado, não ostentam caráter condenatório, tampouco transitam em julgado, o que as afasta da base de cálculo dos honorários advocatícios".
+X - Remessa necessária não provida e apelação parcialmente provida.
+Rejeitados os embargos de declaração opostos (fls. 511).
+No recurso especial, alega que o acórdão contrariou as disposições contidas nos artigos 186, 187 e 927 do Código Civil. Em suma, aduz que (fl. 593):
+Não há dúvidas, portanto, que a conduta do Banco ao agir reiteradamente com total descaso com o pedido administrativo de suspensão das parcelas do FIES, bem como promoveu resistência infundada durante toda a fase processual com o descumprimento da tutela de urgência, causou sensível perturbação emocional a recorrente (danos morais), digna de ser reparada por indenização. Não se trata de simples aborrecimentos ou incômodos.
+Afirma ainda que o acórdão recorrido contrariou os arts. 537, § 1º, e 816 do CPC e arts. 247 e 248 do CC, pois teria fixado valor irrisório para a multa diária por descumprimento da tutela de urgência, ao ter reduzido o valor fixado pelo juízo de primeiro grau de R$ 500 para R$ 100 por dia.
+Sem contrarrazões ao recurso especial.
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 637-638), o que ensejou a interposição do presente agravo.
+Não apresentada contraminuta do agravo.
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Cuida-se na origem de ação ordinária com pedido de antecipação de tutela visando a suspensão de cobranças relacionadas a contrato de financiamento com recursos do FIES durante o período de vigência do estado de calamidade pública, reconhecido, em razão da Pandemia de Covid-19, bem como o pagamento de danos morais.
+O Tribunal de origem manteve a sentença que determinou a suspensão das cobranças, nos termos da Lei n. 14.024, de 9/7/2020, mas afastou a condenação em danos morais e reduziu a multa por descumprimento de tutela de urgência (fl. 449):
+Muito embora a negativa do Banco do Brasil de deferir o pedido de suspensão das obrigações de pagamento tenha contrariado a legislação aplicável à matéria, gerando perda de tempo e a necessidade do ajuizamento da presente ação, inexistem elementos suficientes para justificar a condenação por danos morais.
+Nesse sentido, cabe consignar que a própria autora informa em sua inicial (Evento 1 - INIC1, págs. 4/8 - da Primeira Instância) que somente acessou o APP do Banco do Brasil para obter a suspensão das obrigações do pagamento em 20/07/2020, e, sendo assim, não haveria como a cobrança de 10/07/2020 não ter sido realizada, já que tal fato dependeria necessariamente de requerimento prévio do interessado.
+Também deve ser levado em consideração que, conforme consignado na própria sentença, o nome inscrito no cadastro de inadimplentes não foi o da autora, mas sim o de sua fiadora, a quem em tese pertence a legitimidade para requerer pedido de indenização por esse motivo.
+Assim, deve ser afastada a condenação ao pagamento de danos morais, já que o ocorrido, apesar de causar dissabor e indignação, não chegou a afetar a honra, imagem, reputação ou intimidade da autora, não evidenciando danos morais.
+(..)
+No caso dos autos, a decisão que deferiu a tutela de urgência fixou prazo de 5 dias para o cumprimento da medida, o que deveria ocorrer até 17/09/2020, mas somente se deu em 13/10/2020, razão pela qual, considerada a multa diária de R$ 500,00 (quinhentos reais), o Banco do Brasil já seria devedor da quantia total de R$ 12.500,00 (doze mil e quinhentos reais), correspondente aos 25 (vinte e cinco) dias de atraso.
+Ocorre, contudo, que tal valor no caso concreto mostra-se excessivo, considerando-se, inclusive, os prejuízos efetivamente sofridos pela autora em razão do descumprimento do prazo fixado.
+Portanto, com fulcro no art. 537, §1º, I, do CPC, impõe-se a redução da multa para R$ 100,00 (cem reais) por dia de atraso, totalizando R$ 2.500,00 (dois mil e quinhentos reais).
+Com base na análise dos fatos e provas, o Tribunal de origem entendeu que não teria se configurado o dano moral, bem como reduziu a multa cominada pelo descumprimento de ordem judicial.
+Nesse sentido, a revisão da matéria, conforme já consignado por esta Corte, implica o imprescindível reexame das provas constantes dos autos, o que é defeso na via especial, ante o que preceitua a Súmula n. 7 do STJ.
+Veja-se a jurisprudência a respeito da configuração de danos morais:
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO DO CONSUMIDOR. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO E INDENIZAÇÃO DANO MORAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E CARÊNCIA DE FUNDAMENTAÇÃO. NÃO OCORRÊNCIA. DANO MORAL. NÃO OCORRÊNCIA. REVISÃO DO JUGADO. IMPOSSIBILIDADE. INCIDÊNCIA DO ENUNCIADOS N.º 7/STJ.
+1. Não há falar em ofensa aos arts. 489 e 1.022, do CPC/2015, porquanto todas as questões fundamentais ao deslinde da controvérsia foram apreciadas pelo Tribunal a quo, sendo que não caracteriza omissão ou falta de fundamentação a mera decisão contrária aos interesses da parte, tal como na hipótese dos autos.
+2. A convicção a que chegou o acórdão acerca da inexistência de danos morais decorreu da análise do conjunto fático-probatório.
+Dessa forma, o acolhimento da pretensão recursal demandaria o reexame do mencionado suporte, providência que encontra óbice no Enunciado n.º 7, da Súmula de Jurisprudência do Superior Tribunal de Justiça.
+3. Não apresentação de argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada.
+4. AGRAVO INTERNO CONHECIDO E DESPROVIDO.
+(AgInt no REsp n. 2.020.835/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 13/3/2023, DJe de 16/3/2023.)
+No mesmo sentido, a jurisprudência a respeito das astreintes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. VALOR ARBITRADO A TÍTULO DE ASTREINTES. RAZOABILIDADE E PROPORCIONALIDADE. ACERVO FÁTICO-PROBATÓRIO. REEXAME. SÚMULA N. 7 DO STJ. VIOLAÇÃO DO ART. 1.022 DO CPC. NÃO OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO NA ORIGEM. SÚMULA N. 284 DO STF. VIOLAÇÃO DO ART. 489 DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA N. 282 DO STF. MAJORAÇÃO DOS HONORÁRIOS. PRÉVIA FIXAÇÃO NA ORIGEM. MAJORAÇÃO DOS HONORÁRIOS RECURSAIS PELO DESPROVIMENTO DO AGRAVO INTERNO. MESMO GRAU DE JURISIDIÇÃO. IMPOSSIBILIDADE. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+(..)
+2. A questão relativa à redução/aumento das astreintes não pode ser revista na instância especial, pois tal procedimento implica reexame das circunstâncias fáticas que delimitaram a controvérsia (Súmula n. 7 do STJ), salvo se o arbitramento for excessivo ou ínfimo.
+(..)
+(AgInt no AREsp n. 2.088.986/MA, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 3/4/2023, DJe de 11/4/2023.)
+AGRAVO INTERNO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. CUMPRIMENTO DE SENTENÇA. MULTA VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO CONFIGURADA. MULTA DIÁRIA. VALOR. REVISÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME FÁTICO. SÚMULA 7 DO STJ. DECISÃO MANTIDA. AGRAVO NÃO PROVIDO.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, deve ser afastada a alegada violação ao art. 1.022 do Código de Processo Civil de 2015.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. O valor fixado a título de multa só será passível de revisão, nesta instância excepcional, quando se mostrar irrisório ou exorbitante, o que não se verifica na hipótese.
+4. Agravo interno a que se nega provimento.
+(AgInt no AgInt no AREsp n. 2.103.180/DF, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 6/3/2023, DJe de 10/3/2023.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
