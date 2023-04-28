@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo interposto por PEDRO FELLIPE LIMA DE MELO e OUTROS contra decisão que não admitiu recurso especial fundamentado nas alíneas a e c do permissivo constitucional, no qual desafiam acórdão proferido pelo TJDFT, assim ementado (e-STJ fl. 1.995):
+PENAL E PROCESSUAL PENAL. TENTATIVA DE HOMICÍDIO QUALIFICADO. DESCLASSIFICAÇÃO EM PLENÁRIO. LESÃO CORPORAL GRAVÍSSIMA. MATERIALIDADE E AUTORIA COMPROVADAS. LAUDO PERICIAL. PRESCINDIBILIDADE. CONSEQUÊNCIAS DO CRIME. BIS IN IDEM. SENTENÇA PARCIALMENTE REFORMADA.
+1. Demonstradas nos autos as cicatrizes no rosto da vítima, que lhe causaram deformidade permanente, não há que se falar em desclassificação da lesão corporal gravíssima para leve.
+2. As consequências do crime descritas na r. sentença condenatória dizem respeito à qualificadora do crime de lesão corporal gravíssima, logo, inviável a sua avaliação negativa na primeira fase da dosimetria, sob pena de bis in idem.
+3. Recursos conhecidos e parcialmente providos.
+O Tribunal do Júri julgou parcialmente procedente a pretensão punitiva deduzida na denúncia para condenar os réus Pablo, Flávio, Thiago e Pedro como incursos no art. 129, § 2º, III e IV, do Código Penal, por fatos ocorridos em 4 de julho de 2020 (vítima João); e condenar o acusado Pablo, também, nas penas do art. 180, caput, do Código Penal, por fatos ocorridos em 5 de julho de 2020 (celular).
+O recurso de apelação interposto pela defesa foi parcialmente provido a fim de redimensionar as penas dos agravantes, que ficaram assim fixadas: a) PABLO VICTOR PEREIRA DE CARVALHO em 3 anos e 6 meses de reclusão no regime semiaberto; b) PEDRO FELLIPE LIMA DE MELO em 4 anos e 3 meses de reclusão no regime inicial semiaberto; c) THIAGO QUEIROZ SOARES em 2 anos de reclusão no regime inicial aberto; e d) FLAVIO ITALO PEREIRA DE CARVALHO em 2 anos de reclusão no regime inicial aberto.
+Nas razões do recurso especial alega: a) violação do art. 129 do Código Penal; b) a conduta deve ser desclassificada para lesão corporal leve, pois as supostas lesões não causaram perigo de vida à suposta vítima; c) "a perda de dentes, muito embora possa reduzir a capacidade funcional da mastigação, não enseja a deformidade permanente prevista no tipo penal do art. 129, §2º, IV, do CP" (e-STJ fl. 2.063), não configurando lesão corporal de natureza gravíssima; e d) "conforme dito pela própria vítima e por sua genitora, esta perdeu apenas UM dente decorrente da suposta agressão. Outros dentes e as deformidades em seu rosto, foram ocasionados por quedas enquanto a vítima se encontrava embriagada ou sob efeito de entorpecentes" (e-STJ fls. 2.065-2.066).
+Contrarrazões apresentadas às e-STJ fls. 2.092-2.094.
+O Tribunal a quo inadmitiu o apelo extremo por incidência da Súmula 7/STJ, fundamento contra o qual se insurgem os agravantes (e-STJ fls. 2.102-2.104).
+Parecer do Ministério Público Federal pelo desprovimento do agravo (e-STJ fls. 2.135-2.141).
+É o relatório.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo e passo ao exame do recurso especial.
+Para melhor elucidação da controvérsia, necessário transcrever o seguinte trecho do acórdão impugnado (e-STJ fls. 2.009):
+Quanto ao pedido de desclassificação do crime de lesão corporal grave para a modalidade leve, tenho que não assiste razão à Defesa.
+A prova oral colhida em juízo e o resultado do exame pericial evidenciam que os réus, ao agredirem a vítima com socos e chutes, que quebraram um dente, o maxilar e o nariz do ofendido, o fizeram com a intenção de lesioná-lo.
+De fato, a agressividade com que os acusados bateram no rosto de João Paulo, que ficou deformado, deixa claro que os réus tinham a previsão do resultado lesivo e, mesmo assim, sem se importar com as consequências dos seus atos, decidiram agredir covardemente a vítima.
+O laudo de exame de corpo de delito confirma as lesões gravíssimas sofridas pela vítima que após procedimentos cirúrgicos, precisou colocar pinos na mandíbula e perdeu um dente frontal, e ainda restou caracterizada debilidade permanente no rosto do ofendido que ficou com cicatrizes, conforme relatou e mostrou na sessão de julgamento (ID 34150898).
+Destarte, demonstrado que a conduta praticada pelos acusados, consistente em ofender a integridade corporal da vítima, lhe causou deformidade permanente, não há se falar em desclassificação para a forma grave.
+O Colegiado a quo, com amparo nas provas constantes nos autos, afastou a possibilidade de desclassificação da conduta.
+Assim, a reforma do julgado não encontra espaço na via eleita, porquanto seria necessário revolver o contexto fático-probatório dos autos, medida obstada pela Súmula 7/STJ.
+A propósito:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO SIMPLES TENTADO. PRINCÍPIO DA COLEGIALIDADE. VIOLAÇÃO. NÃO OCORRÊNCIA. PRONÚNCIA. PEDIDO DE DESCLASSIFICAÇÃO PARA LESÃO CORPORAL LEVE. AFERIÇÃO DO ANIMUS NECANDI. IMPOSSIBILIDADE. REVOLVIMENTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA N. 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+(..).
+2. A Corte originária, com base nos elementos fático-probatórios dos autos, em exame preliminar característico da fase em que o processo se encontra - pronúncia, entendeu configurado o animus necandi, razão pela qual, para modificar o referido entendimento, seria necessário reexaminar o suporte fático-probatório dos autos, providência obstada pela Súmula n. 7 do STJ, que também impede o exame do recurso quanto à alínea c do permissivo constitucional.
+Precedentes.
+3. Agravo regimental desprovido.
+(AgRg no AgRg no AREsp 1.658.211/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 9/11/2021, DJe de 12/11/2021.)
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. LESÃO CORPORAL GRAVE. INCAPACIDADE PARA AS OCUPAÇÕES HABITUAIS POR MAIS DE 30 DIAS. COMPROVAÇÃO POR LAUDO COMPLEMENTAR. ABSOLVIÇÃO. DESCLASSIFICAÇÃO PARA LESÃO CORPORAL LEVE OU AMEAÇA. REEXAME DE PROVAS. SÚMULA 7 DO STJ. DOSIMETRIA. PENA-BASE ACIMA DO MÍNIMO LEGAL. NÃO INCIDÊNCIA DA ATENUANTE PREVISTA NO ART. 66 DO CP (ATENUANTE INOMINADA). FUNDAMENTAÇÃO IDÔNEA.
+I - In casu, as instâncias a quo consignaram, de maneira fundamentada e com remissão a elementos concretos presentes nos autos, notadamente ao depoimento da vítima, testemunhas, a laudos hospitalares e pericial complementar, a incapacidade da vítima para as ocupações habituais por mais de trinta dias. Dessa feita, absolver a agravante ou desclassificar a conduta para delito menos grave, demandaria o revolvimento de matéria fático-probatória, providência vedada pela Súmula 7/STJ.
+II - Desse modo, cabe às instâncias ordinárias, a partir da apreciação das circunstâncias objetivas e subjetivas de cada crime, estabelecer a reprimenda que melhor se amolda à situação, admitindo-se revisão nesta instância apenas quando for constatada evidente desproporcionalidade entre o delito e a pena imposta, hipótese em que deverá haver reapreciação para a correção de eventual desacerto quanto ao cálculo das frações de aumento e de diminuição e a reavaliação das circunstâncias judiciais listadas no art. 59 do Código Penal.
+(..)
+Agravo regimental desprovido.
+(AgRg no AREsp 1.061.565/MT, relator Ministro Felix Fischer, Quinta Turma, julgado em 27/2/2018, DJe de 7/3/2018.)
+Conheço d o agravo e não conheço do recurso especial, nos termos do art. 34, VII, c/c o art. 253, parágrafo único, II, a, ambos do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
