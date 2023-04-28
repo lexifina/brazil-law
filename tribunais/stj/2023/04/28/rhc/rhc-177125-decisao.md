@@ -1,0 +1,26 @@
+DECISÃO
+DANIEL DA SILVA DOURADO alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado da Paraíba.
+A defesa pretende a soltura do paciente - acusado da suposta prática do crime de organização criminosa - ou a aplicação de medidas cautelares alternativas à prisão, sob o argumento de ausência de fundamentos e requisitos para segregação cautelar.
+O parecer do MPF é pelo não provimento do recurso (fls. 709-719).
+Decido.
+Ao homologar a prisão em flagrante do réu e convertê-la em preventiva, o Juízo de origem ofereceu os seguintes fundamentos:
+ ..
+Como bem apontado na denúncia e na documentação anexa (cuja transcrição seria ociosa nesta decisão), em diversas oportunidades os denunciados organizam entre eles intenso fluxo de comércio tráfico de drogas, tratando em alguns momentos da importação de drogas para o interior dos Municípios de São José de Piranhas, Bonito de Santa Fé e adjacências e, em outros, da comercialização nas cidades locais.
+As conversas ainda espelham a participação dos denunciados em organização criminosa com alta engenhosidade, inclusive com existência de regramentos escritos (estatuto) e processos elaborados de condução, com cargos hierarquicamente estabelecidos, sanções previstas, diretrizes de atuação, requisitos de acesso à novos membros e novos cargos etc.
+As conversas travadas entre as partes, por seus conteúdos e duração temporal, são suficientes para a formação de prova da materialidade e de indícios da autoria dos crimes previstos na Lei 12.850/13.
+Há, portanto, prova da materialidade do crime e indícios suficientes de autoria.
+No que pertinente ao nota-se a do delito com periculum in libertatis, nota-se a gravidade concreta do delito com grande risco à ordem pública.
+Conforme apontam os trabalhos das Polícias Civis e Militares, bem como do Ministério Público, grupo criminoso, do qual inclusive os autores fazem parte, mantém de tal modo organizada a prática criminosa na região que consegue alcançar cidades vizinhas e possuir vínculo com grupos de outras cidades e Estados.
+ ..
+A organização criminosa narrada na denúncia gera perplexidade tal o nível de elaboração e a intensidade de atuação. Observa-se que, inclusive, há previsão de para a prática regras de financiamento coletivo dos crimes e para o dos familiares de faccionados que se encontrarem presos. Além socorro do quê, há previsão de regras para e também para a acesso à facção promoção entre cargos dos mais subalternos até aqueles de chefia. Ademais, há indícios da prática de pelo grupo, inclusive assassinatos. crimes violentos Como narrado na parte do relatório, em determinado momento a denúncia transcreve trechos de conversas em que se anuncia os inícios das premeditações do assassinato de ex-membros (fls. 300-301).
+Sobre a matéria posta em discussão, faço lembrar que a prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP).
+Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+Na espécie, o Juiz de primeira instância apontou, de forma idônea, a presença dos vetores contidos no art. 312 do Código de Processo Penal e indicou motivação suficiente e concreta para decretar a prisão preventiva, ao destacar, sobretudo, a periculosidade do agente e a necessidade de se interromper ou diminuir a atuação de integrantes de organização criminosa.
+O órgão de segundo grau salientou a existência de "indícios robustos de que o ora paciente efetivamente integre a facção criminosa investigada e que possua papel de relevo, qual seja de arrecadação do dinheiro para a facção, como se extrai do Relatório de Investigação do Grupo de Repressão Qualificada" (fl. 638).
+Na esteira do entendimento desta Corte, é justificada a constrição quando o "decreto da prisão preventiva evidencia a gravidade em concreto da conduta e a periculosidade do acusado que agiu com peculiar modus operandi" (HC n. 449.326/BA, Rel. Ministro Rogerio Schietti, 6ª T., DJe 5/4/2019).
+Conforme a orientação deste Tribunal, "se justifica a decretação de prisão de membros de organização criminosa como forma de interromper as atividades do grupo" (RHC n. 70.101/MS, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 5/10/2016).
+Além disso, "o suposto envolvimento do agente com organização criminosa revela sua periculosidade, o que justifica a prisão preventiva como forma de garantir a ordem pública" (AgRg no RHC n. 125.233/MG, Rel. Ministro João Otávio de Noronha, 5ª T., DJe 8/2/2021).
+Nas hipóteses em que a dinâmica dos fatos e as demais circunstâncias do caso revelem a maior reprovabilidade da conduta investigada, tais dados são suficientes para demonstrar a necessidade de garantia da ordem pública e a conveniência da instrução criminal, por isso mesmo constituem fundamento idôneo para a cautelar provisória.
+Pelos mesmos motivos, inadequada a substituição da custódia por medidas cautelares.
+À vista do exposto, nego provimento ao recurso.
+Publique-se e intimem-se.
