@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO FEDERAL, com fundamento no artigo 105, inciso III, alínea a, do permissivo constitucional, contra acórdão prolatado pelo eg. Tribunal Regional Federal da 5ª Região, que, por unanimidade, negou provimento aos recursos e corrigiu, de ofício, a dosimetria, declarando extinta a punibilidade dos recorridos com aparo na prescrição retroativa.
+Opostos embargos de declaração (fls. 5.487/5.491), estes foram rejeitados, à unanimidade de votos (fls. 5.513/5.516).
+Interposto o presente recurso especial (fls. 5.523/5.531), em cujas razões o Parquet Federal sustenta violado os artigos 71 do Código Penal e 619 do Código de Processo Penal, uma vez que "(..) o Tribunal não se posicionou fundamentadamente, restringindo-se a desconsiderar a continuidade, ao apontar a pena-base como montante final de reprimenda a ser imposta aos agentes." (fl. 5.530).
+Apresentadas as contrarrazões (fls. 5.539/5.550), foi o recurso admitido na origem (fl. 5.553).
+O Ministério Público Federal opinou pelo provimento da insurgência (fls. 5.569/5.579).
+É o relatório. Decido.
+Compulsando a tese aventada na seara recursal, tenho que suas premissas merecem prosperar.
+Objetiva o recorrente o provimento do recurso especial, apontando omissão no acórdão recorrido, porquanto o Tribunal a quo não se manifestou quanto ao afastamento da continuidade delitiva por ocasião da dosimetria da pena imposta ao recorrido, inobstante tenham sido opostos os embargos declaratórios cabíveis. Argumenta que "(..) a aplicação do aumento de pena decorrente da continuidade delitiva, acarretaria o aumento da pena, excluindo a incidência da do disposto no art. 109, V, do CP." (fl. 5.530).
+Para melhor delimitar a presente quaestio, trago à baila os fundamentos lançados no v. acórdão proferido em sede de embargos de declaração, verbis (fls. 5.503, destaquei):
+"Sustenta, o órgão acusador, que o juízo deveria considerar a continuidade delitiva quando da dosimetria (ID 4050000.21797950).
+Rememorado o essencial, passemos a analisar os presentes embargos declaratórios.
+Em primeiro passo , registramos que os embargos de declaração têm utilização bastante restrita, servindo tão somente para sanear eventual contradição, omissão, obscuridade e/ou ambiguidade em ato jurisdicional prolatado.
+Bem por isso e em segundo passo , consignamos ainda que o aludido instrumento não pode ser utilizado como meio para rediscutir matérias já analisadas no ato jurisdicional guerreado, pois, assim fosse, estaríamos diante de uma "disfarçada" - e não prevista pelo ordenamento jurídico pátrio - apelação.
+Em terceiro passo , é de se observar que a peça sobre a qual deitam-se os embargos declaratórios não aponta qualquer dos vícios que subsidiam sua utilização, a saber: contradição, omissão, obscuridade e/ou ambiguidade.
+O que se infere - e aqui dormita o quarto e derradeiro passo - é o desejo de a defesa, através da via estreita eleita, rediscutir detalhes atinentes à aplicação da pena, o que, por todos os passos já dados e relatados, não se concebe.
+Embargos declaratórios improvidos."
+Da análise dos autos, em confronto à petição de embargos de declaração (fls. 5.487/5.491) verifico que, de fato, a Corte a quo não se manifestou sobre todos os pontos suscitados e que poderiam levar a conclusão diversa.
+Com efeito, observo que o ora recorrente suscitou, na petição de embargos de declaração, a omissão do v. acórdão de apelação, tendo em vista que não houve manifestação da e. Corte Regional a respeito da incidência da causa de aumento pela continuidade delitiva, em razão do delito ter sido cometido em dois exercícios financeiros, conforme reconhecido na r. sentença condenatória (fls. 411/432), o que atrai o provimento do apelo nobre, em face da ofensa ao art. 619 do CPP.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL. OMISSÃO E CONTRADIÇÃO NO ACÓRDÃO. EXISTÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. VIOLAÇÃO AO ART. 619 DO CPP. COMPLEMENTAÇÃO DO JULGADO A QUO. NECESSIDADE. INSURGÊNCIA DESPROVIDA.
+1. Segundo entendimento deste Sodalício, "A omissão relevante à solução da controvérsia não abordada pelo acórdão recorrido constitui negativa de prestação jurisdicional e configura violação do art. 619 do Código de Processo Penal.  ..  Conquanto não esteja o magistrado obrigado a enfrentar todos os questionamentos das partes, havendo obscuridade e contradição sobre questão relevante para o deslinde da controvérsia, deve esta ser resolvida e aclarada em sede de embargos de declaração, sob pena de nulidade do julgado. (REsp 1651656/ES, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 18/04/2017, DJe 26/04/2017).
+2. Na hipótese dos autos, diversamente do que concluiu a Corte recorrida em sede de aclaratórios, o acórdão proferido no julgamento da apelação restou omisso e contraditório ao não se manifestar expressamente, de forma fundamentada, acerca da existência ou não do marco interruptivo da prescrição previsto no art. 117, § 1º, do CP; ao tratar do dolo na conduta à luz da teoria da cegueira deliberada; e no que se refere à proporcionalidade da pena de multa.
+3. Assim, ao persistir na omissão e contradição, a despeito da oposição de embargos de declaração, o Tribunal de origem prestou tutela jurisdicional deficitária, razão pela qual restou violado o disposto no art. 619 do CPP, sendo necessário o retorno dos autos ao Tribunal de origem, a fim de que se manifeste sobre as matérias aventadas em sede de embargos de declaração.
+4. Agravo regimental desprovido." (AgRg no REsp 1669311/SP, Quinta Turma, Rel. Min. Jorge Mussi, DJe 22/05/2018).
+"PROCESSUAL PENAL E PENAL. RECURSO EM HABEAS CORPUS. PRISÃO PREVENTIVA. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO ILÍCITO DE ENTORPECENTES. PARTICIPAÇÃO EM ORGANIZAÇÃO CRIMINOSA. FUNDAMENTAÇÃO CONCRETA. ACOLHIMENTO DE EMBARGOS COM EFEITOS INFRINGENTES. POSSIBILIDADE. ILEGALIDADE. AUSÊNCIA. RECURSO IMPROVIDO.
+ ..
+2. Havendo no acórdão embargado qualquer dos vícios elencados no artigo 619 do CPP (Omissão, Contradição ou Obscuridade) é possível o acolhimento dos embargos declaratórios com efeitos infringentes como é o caso dos autos.
+3.Recurso em habeas corpus improvido." (RHC 70.905/SE, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe 01/09/2016).
+Assim, devem os autos retornar ao Tribunal de origem a fim de apreciação da questão trazida nos embargos de declaração opostos pelo ora recorrente.
+Ante o exposto, com fulcro no art. 255, § 4º, inciso III, do Regimento Interno do STJ, dou provimento ao recurso especial, nos termos da fundamentação retro.
+P. e I.
+EMENTA
+PENAL. PROCESSO PENAL. RECURSO ESPECIAL. CRIME CONTRA A ORDEM TRIBUTÁRIA (ARTIGO 1º, INCISO I, DA LEI N. 8.137/90). DOSIMETRIA. CONTINUIDADE DELITIVA. RECURSO MINISTERIAL. ALEGADA VIOLAÇÃO AO ART. 619 DO CPP. OMISSÃO. OCORRÊNCIA. RECURSO ESPECIAL PROVIDO.
