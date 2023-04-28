@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de agravo interposto por MINISTÉRIO PÚBLICO FEDERAL contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que o agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO cuja ementa guarda os seguintes termos (fl. 766):
+ADMINISTRATIVO E DIREITO PROCESSUAL CIVIL. AGRAVO DEINSTRUMENTO. CUMPRIMENTO DE SENTENÇA. AÇÃO CIVILPÚBLICA. OBRIGAÇÃO DE FAZER. ADEQUAÇÃO DE NORMAS AOCDC. AUSÊNCIA DE PREVISÃO NO TÍTULO EXECUTIVO. RESOLUÇÃOANEEL 360/09. ANULAÇÃO DE DISPOSIÇÕES. INEXIGIBILIDADE DAOBRIGAÇÃO. NORMA REVOGADA.
+1. Nos termos do título executivo, a ANEEL não restou condenada à adequação de suas normas aos ditames do Código de Defesa do Consumidor, apenas tendo sido determinada a extensão das nulidades reconhecidas na sentença quanto a alguns dispositivos da Resolução Normativa ANEEL nº61/2004 às novas disposições incluídas pela Resolução ANEEL nº 360/2009(acerca da anterior Resolução nº 61), bem como a informação, às prestador as do serviço público de energia elétrica, da decisão proferida nos autos da Ação Civil Pública.
+2. Em que pese subsistir, em tese, o dever de cumprir o julgado em seus estritos termos (extensão da anulação às novas disposições incluídas pela Resolução ANEEL nº 360/2009 e comunicação às prestadoras do serviço público de energia elétrica), referida norma foi expressamente revogada pela ora agravante, com a expedição de novel regulamentação (Resolução Normativa ANEEL nº 414/2010), cuja existência é de conhecimento das prestadoras do serviço público porquanto editada pela Agência Reguladora e devidamente publicada, o que implica, na prática, a inexistência de obrigação de fazer.
+3. Eventual nulidade da novel Resolução Normativa ANEEL nº414/2010 não foi objeto da Ação Civil Pública e, portanto, deverá ser discutida em ação própria, não tendo o condão de, ao menos nesta demanda, implicar a existência de obrigação de fazer a ser cumprida pela agravante.
+Os embargos de declaração opostos pelo recorrido foram acolhidos apenas para o acréscimo de fundamentos, sem ensejar alteração no resultado do julgamento (fls. 802-817).
+No recurso especial, alega, preliminarmente, ofensa aos arts. 489 e 1.022, do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz, no mérito, que o acórdão contrariou as disposições contidas nos arts. 55, § 3º do CPC, ao passo que aponta divergência jurisprudencial com arestos de outros tribunais e desta Corte.
+Foram oferecidas contrarrazões ao recurso especial (fls. 892-904).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 907-913), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 931-935 ).
+É, no essencial, o relatório.
+Nos termos da jurisprudência pacífica desta Corte, fica prejudicado, pela perda superveniente de objeto, o recurso especial interposto contra acórdão que examinou agravo de instrumento, quando se verifica a prolação da sentença de mérito, haja vista que nela a cognição é exauriente (AgInt no AREsp n. 1.513.045/PR, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 13/6/2022, DJe de 17/6/2022).
+No mesmo sentido:
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. SUPERVENIÊNCIA DE SENTENÇA DE MÉRITO. PERDA DO OBJETO. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF.ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83/STJ. FUNDAMENTO DA DECISÃO AGRAVADA. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 182/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. DECISÃO MANTIDA.
+ ..
+2. De acordo com a jurisprudência pacífica desta Corte Superior, "a superveniência da sentença absorve os efeitos das decisões interlocutórias anteriores, na medida da correspondência entre as questões decididas, o que, em regra, implicará o esvaziamento do provimento jurisdicional requerido nos recursos interpostos contra aqueles julgados que antecederam a sentença, a ensejar a sua prejudicialidade por perda de objeto" (REsp n. 1.971.910/RJ, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 15/2/2022, DJe 23/2/2022), o que foi observado pela Corte local.
+ ..
+6. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.914.160/DF, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 19/4/2022.)
+No caso dos autos, consta ofício do TRF da 4ª Região informado que foi proferida sentença no processo n. 506963316201440471 RIO GRANDE DO SUL que deu origem ao recurso especial e ao agravo em recurso especial. Assim, houve perda do objeto do recurso especial.
+Ante o exposto, julgo prejudicado o recurso por perda do objeto.
+Publique-se. Intimem-se.
