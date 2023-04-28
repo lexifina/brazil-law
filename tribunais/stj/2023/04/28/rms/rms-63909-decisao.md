@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso ordinário em mandado de segurança com pedido de antecipação dos efeitos da tutela recursal interposto por EDUARDO AZEVEDO RECCH contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios assim ementado (e-STJ fl. 3.378):
+DIREITO ADMINISTRATIVO. MANDADO DE SEGURANÇA. DECISÃO DO TRIBUNAL DE CONTAS DO DISTRITO FEDERAL. RESPEITO AO DIREITO DE DEFESA E AO CONTRADITÓRIO. INEXISTÊNCIA DE ILEGALIDADE OU ABUSO DE PODER. SEGURANÇA DENEGADA.
+1. O Mandado de Segurança constitui um remédio constitucional destinado à proteção a direito líquido e certo, contra ato ou omissão de autoridade pública ou agente imbuído de atribuições do Poder Público, nos termos do inciso LXIX, do art. 5º, da Constituição da República de 1988.
+2. Não cabe ao Poder Judiciário ingressar na discussão da justeza ou não da decisão da Administração, tampouco analisar, novamente, as provas e fatos do processo administrativo, mormente na via estreita mandamental.
+3. As alegações de ofensa ao contraditório e à ampla defesa no procedimento que levou à decisão do TCDF (devidamente motivada) impugnada pelo presente MS não procedem, inexistindo ilegalidade ou abuso de poder, de modo que a denegação da segurança se impõe.
+4. Ordem denegada.
+Sustenta a parte recorrente, em síntese, que, diversamente do acolhido na origem, as provas documentais juntadas aos autos comprovam fartamente as ilegalidades e os abusos cometidos pela autoridade coatora, de modo que o acórdão recorrido deve ser integralmente reformado, para que seja decretada a nulidade da decisão proferida pelo Tribunal de Contas do DF, afastando a sua (do impetrante) responsabilidade com relação ao Contrato de Gestão n. 1.049/99-FZDF/14.
+Sem contrarrazões.
+A liminar requerida foi indeferida (e-STJ fls. 3444/3446).
+Parecer do MPF opinando não provimento do recurso (e-STJ fls. 3459/3464).
+Passo a decidir.
+Entendo que o recurso não deve ser conhecido.
+O órgão originário denegou a segurança se centrando nos seguintes fundamentos: a) não cabe ao Poder Judiciário ingressar na discussão da justeza ou não da decisão da Administração, tampouco analisar, novamente, as provas e fatos do processo administrativo, mormente na via estreita mandamental; b) não há qualquer nulidade no procedimento administrativo, haja vista ter sido assegurado ao ora recorrente o amplo exercício ao contraditório nos atos que lhe era necessário intervir, inexistindo nos autos documentos que demonstrassem prejuízo à defesa; c) os rigores do processo administrativo propriamente dito não são aplicados com austeridade à Tomada de Contas, visto tratar-se de um procedimento preponderantemente inquisitorial que integra uma fase investigativa preliminar ao processo administrativo.
+Ocorre que os argumentos centrais do acórdão recorrido não foram infirmados em concreto pela parte impetrante, a qual reproduziu apenas trechos da inicial, atraindo a aplicação da Súmula 283 do STF, conforme bem apontado no parecer ministerial.
+Com efeito, é pacífica a jurisprudência desta Corte no sentido de que o verbete sumular supracitado (Súmula 283 do STF) prestigia o princípio da dialeticidade, por isso não se limita ao recurso extraordinário, também incidindo, por analogia, no recurso ordinário, quando o interessado não impugna, especificamente, fundamento suficiente para a manutenção do acórdão recorrido.
+Nesse sentido: AgInt no RMS n. 62.779/PE, relator Ministro Francisco Falcão, Segunda Turma, julgado em 27/6/2022, DJe de 29/6/2022; AgInt nos EDcl no RMS n. 32.379/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 13/6/2022, DJe de 15/6/2022; AgInt nos EDcl no RMS n. 66.179/RJ, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 28/3/2022, DJe de 30/3/2022; AgInt no RMS n. 49.015/PR, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 29/11/2021, DJe 17/12/2021.
+Ante o exposto, NÃO CONHEÇO do recurso.
+Publique-se. Intimem-se.
