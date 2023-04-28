@@ -1,0 +1,11 @@
+DECISÃO
+Cuida-se de carta rogatória por meio da qual a Justiça portuguesa (Tribunal Judicial da Comarca do Porto - Juiz Local Criminal do Porto - Juiz 5) solicita a intimação de GUSTAVO HENRIQUE RAMOS DE ALMEIDA para conhecimento acerca de sentença na qual foi condenado à pena de um ano de prisão, suspensa por um ano, pela prática de um crime de tráfico de menor gravidade, bem como para que seja cientificado da abertura de prazo para interposição de recurso a contar da notificação (fls. 6-7).
+Concedido o exequatur (fls. 59-60), foram os autos remetidos à Seção Judiciária do Estado de São Paulo. Os autos retornaram a essa Corte acompanhados de certidão negativa exarada por oficial de justiça, cujo teor é a seguir transcrito (fl. 74):
+Certifico e dou fé, eu, Analista Judiciário, Oficiala de Justiça Avaliadora Federal, em cumprimento ao mandado em epígrafe, no dia 13 de abril de 2023, conduzi-me à Rua Manoel Carvalho Santana, 1243, Araçatuba/SP, às 08:30h onde não encontrei nenhum morador no momento da diligência.
+Após consultar a vizinhança, soube que familiares do réu residem nas proximidades.
+Sendo assim, estive na Rua Dr. Péricles Pimentel Salgado, nº 1240, nesta urbe, onde fui recebida pela Sra. Nicole Caroline, a qual se apresentou como prima do acusado. Declarou que este mora em Portugal, que somente os pais do referido residem no imóvel diligenciado.
+Certifico, por fim, que no mesmo dia, às 18:20h, conduzi-me novamente ao endereço supra, onde a Sra. Ivanilda Ramos dos Santos se apresentou como genitora do réu. Afirmou que o Sr. Gustavo está em Portugal. Deixei o meu número de telefone.
+No dia 14 de abril deste ano, por meio do aplicativo de mensagem WhatsApp, no número 351 935 091 403, o Sr. Gustavo se apresentou, recusou a fornecer o seu endereço e afirmou que já tinha ido ao Tribunal para tomar ciência da decisão.
+Ante o exposto, DEIXO DE INTIMAR GUSTAVO HENRIQUE RAMOS ALMEIDA, uma vez que o referido reside em outra jurisdição, nos termos do art. 392 do CPP. Nada mais.
+Pelo exposto, verifica-se que as providências para intimação da parte interessada não foram frutíferas, razão pela qual determino a devolução da comissão, sem cumprimento, ao Juízo rogante, por intermédio da autoridade central, nos termos do art. 216-X, do RISTJ.
+Publique-se.
