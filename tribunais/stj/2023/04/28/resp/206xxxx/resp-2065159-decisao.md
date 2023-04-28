@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especial fundamentado no art. 105, III, "a" e "c", da CF, contra acórdão da Quinta Câmara de Direito Privado do TJSP que apresenta a seguinte ementa (e-STJ fl. 525):
+IMPUGNAÇÃO À JUSTIÇA GRATUITA. Necessidade de comprovação de que a apelada não faz jus à benesse. Ônus que competia à parte impugnante. Beneficio mantido.
+PLANO DE SAÚDE COLETIVO EMPRESARIAL. MANUTENÇÃO DE EX-FUNCIONÁRIO APOSENTADO.
+Pretensão de manutenção no plano de saúde coletivo empresarial. Art. 31 da Lei nº 9.656/98. Sentença de procedência. Inconformismo da operadora ré. Cabimento. Aplicação do entendimento firmado pelo STJ no REsp 1.680.318 - SP. Plano de saúde que era custeado exclusivamente pela ex-empregadora. Pagamento de coparticipação que não pode ser considerado como contribuição ou salário indireto. Autora que não faz jus à manutenção por período indeterminado no plano. Sentença reformada para julgar improcedente o pedido. Sucumbência invertida. Recurso provido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 928/932).
+Nas razões recursais (e-STJ fls. 531/598), a parte autora sustenta que faz jus à manutenção do plano de saúde, nos termos dos arts. 30 e 31 da Lei n. 9.656/1998, além de haver afronta aos arts. 6º do CDC e 373, I e II, do CPC/2015, pois teria comprovado o preenchimento de todos os requisitos previstos na disposição legal para sua permanência no convênio coletivo por tempo indeterminado.
+Requereu ainda, na petição recursal, tutela de urgência, a fim ser reincluída no plano de saúde (e-STJ fls. 595/597).
+É o relatório.
+Decido.
+O Tribunal de origem entendeu ser inviável a manutenção da recorrente no plano coletivo, pois não teria atendido aos requisitos do art. 31 da Lei n. 9.656/1998. Com efeito, "a autora não logrou êxito em comprovar, conforme ônus que lhe cabia (art. 373, I, CPC), de que contribuía com o pagamento das mensalidades do plano coletivo", sendo que "eventual pagamento de coparticipação não caracteriza contribuição ou salário indireto" (e-STJ fl. 528).
+Nesse contexto, para alterar a conclusão da Corte local, admitindo que a recorrente teria direito à manutenção no convênio coletivo, seria imprescindível reexaminar o conjunto fático-probatório dos autos, o que é incabível no recurso especial, ante a Súmula n. 7 do STJ.
+Ressalte-se que "Nos planos de saúde coletivos custeados exclusivamente pelo empregador não há direito de permanência do ex-empregado aposentado ou demitido sem justa causa como beneficiário, salvo disposição contrária expressa prevista em contrato ou em acordo/convenção coletiva de trabalho, não caracterizando contribuição o pagamento apenas de coparticipação, tampouco se enquadrando como salário indireto" (REsp 1.680.318/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 22/8/2018, DJe 24/8/2018).
+Diante do exposto, NÃO CONHEÇO do recurso. Prejudicado o pedido de tutela provisória de urgência.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo. Deferida a gratuidade da justiça, deve ser observada a regra do § 3º do art. 98 do CPC/2015.
+Publique-se e intimem-se.
