@@ -1,0 +1,70 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por PIRAHY ALIMENTOS LTDA. contra decisão que inadmitiu recurso especial em razão da incidência das Súmulas n. 7, 83 e 211 do STJ.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, foi interposto contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado (fl. 66):
+AGRAVO DE INSTRUMENTO. TRANSPORTE RODOVIÁIRIO. VALE-PEDÁGIO. AÇÃO DE INDENIZAÇÃO. PRELIMINAR CONTRARRECURSAL. INCIDÊNCIA DO ART. 1.015 DO CPC. VÍCIO DE FUNDAMENTAÇÃO NÃO CONFIGURADO. LEGITIMIDADE PASSIVA. LIMITAÇÃO DE LITISCONSÓRCIO. RECONHECIMENTO DA PRESCRIÇÃO TRIENAL REJEITADA. INCIDÊNCIA DA PRESCRIÇÃO DECENAL. PRECEDENTES DO STJ E DESTE COLEGIADO.
+CONSIDERADO O POSICIONAMENTO MAJORITÁRIO DESTE COLEGIADO NO SENTIDO DO RECONHECIMENTO DA PRESCRIÇÃO SUBSUMIDA À MITIGAÇÃO DO ART. 1015 DO CPC, REJEITADA A PRELIMINAR CONTRARRECURSAL E ADMITIDO O AGRAVO DE INSTRUMENTO.
+INVIABILIDADE DE REVERTER A REJEIÇÃO DA PRELIMINAR DE PRESCRIÇÃO TRIENAL, POIS, CONFORME A PRAXE JURISPRUDENCIAL, CAPITANEADA, INCLUSIVE, PELO STJ, TRATA-SE DE RECONHECIMENTO DO PRAZO DECENAL. "OVERRULLING" NÃO CONFIGURADO. NA DECISÃO DA ADI 6031/DF NÃO SE VISLUMBRA EQUACIONAMENTO DA PRESCRIÇÃO. PREPONDERÂNCIA DA INTERPRETAÇÃO DO STJ.
+TANTO O STF, QUANTO O STJ, ENTENDEM QUEO PREQUESTIONAMENTO EXPLÍCITO É DISPENSÁVEL QUANDO OJULGADO ENFRENTOU OS ARGUMENTOS TRAZIDOS PELAS PARTES EAS MATÉRIAS RELATIVAS A DISPOSITIVOS CONSTITUCIONAIS OU LEGAIS, MESMO QUE NÃO TENHA FEITO REFERÊNCIA EXPRESSA AOSMESMOS.
+PRELIMINAR CONTRARRECURSAL REJEITADA.
+AGRAVO DE INSTRUMENTO IMPROVIDO.
+Opostos embargos de declaração, foram rejeitados, consoante nestes termos (fls. 109-110):
+EMBARGOS DE DECLARAÇÃO. TRANSPORTE RODOVIÁRIO. INOCORRÊNCIA DA OMISSÃO E/OU OBSCURIDADE ALEGADAS. PRETENSÃO DE REJULGAMENTO. INVIABILIDADE. PRECEDENTES DO STJ E DESTE COLEGIADO. PREQUESTIONAMENTO.
+AUSENTE QUALQUER DAS HIPÓTESES ELENCADAS NO ART. 1.022 DOCPC. NÍTIDA PRETENSÃO DE REJULGAMENTO DA CAUSA, QUE FOIDEVIDAMENTE ENFRENTADA E JULGADA NO ACÓRDÃO EMBARGADO. ARESTO EMBARGADO QUE EVIDENCIA A INEXISTÊNCIA DA ALEGADA OMISSÃO, POIS CONSTOU DO DECISUM DESATE NO SENTIDO DE REFORMAR A SENTENÇA DE PRIMEIRO GRAU, AO EFEITO DE RECONHECER A RESPONSABILIDADE DA EMBARGANTE.
+INEXISTÊNCIA DE MALFERIMENTO ÀS TÉCNICAS DO DISTINGUISHING OU OVERRULING, EIS QUE NÃO HOUVE A APLICAÇÃO DE REGRA DIVERSA DA ESTABELECIDA, MAS, SIM, ANÁLISE DO CASO CONCRETO FRENTE AOS ATOS PROCESSUAIS REALIZADOS NO FEITO.
+QUANTO À PRESCRIÇÃO, POR MAIS QUE O STF TENHA RECONHECIDO A CONSTITUCIONALIDADE DA LEI Nº. 11.442/2007, O PRAZO PRESCRICIONAL PREVISTO NO SEU ART. 18 - UM ANO - SE APLICA APENAS E EXCLUSIVAMENTE ÀS CAUSAS ELENCADAS NO SEU ARTIGO 17, OU SEJA, NÃO ENGLOBAM SITUAÇÕES COMO AS ATINENTES AO VALE-PEDÁGIO.
+ENTENDIMENTO JURISPRUDENCIAL CONSOLIDADO PELO STJ, ASSIM COMO NAS CÂMARAS ESPECIALIZADAS DESTE TRIBUNAL, NOSENTIDO DE QUE A PRESCRIÇÃO É DECENAL NAS AÇÕES INDENIZATÓRIAS QUE OBJETIVAM O PAGAMENTO DA MULTA PELONÃO ADIANTAMENTO DO VALE-PEDÁGIO, HAJA VISTA VERSAREM SOBRE DESCUMPRIMENTO DE OBRIGAÇÃO CONTRATUAL.
+A MULTA PREVISTA NO ARTIGO 8º DA LEI Nº 10.209/2001 CONFIGURA UMA SANÇÃO LEGAL, DE CARÁTER ESPECIAL, PREVISTA NA LEI QUE INSTITUIU O VALE-PEDÁGIO OBRIGATÓRIO PARA O TRANSPORTE RODOVIÁRIO DE CARGA E, ASSIM, INCABÍVEL O COTEJO COM ASDISPOSIÇÕES DOS ARTIGOS 412 E 413 DO CC.
+LEGITIMIDADE PASSIVA DA DEMANDADA CONSAGRADA POR QUETAL COMO A EMPRESA CONTRATANTE, CONSIDERADA A SOLIDARIEDADE EXISTENTE NO CONTEXTO, POSSUEM LEGITIMIDADE PARA FIGURAR NO POLO PASSIVO DA AÇÃO.
+NA ESTEIRA DO ENTENDIMENTO DAS CORTES SUPERIORES - STF ESTJ - DISPENSÁVEL O PREQUESTIONAMENTO EXPLÍCITO QUANDO O JULGADO ENFRENTOU SATISFATORIAMENTE OS ARGUMENTOS TRAZIDOS PELAS PARTES.
+SEGUNDO O QUE DISPÕE O ART. 1.025 DO CPC, A MATÉRIA VENTILADA PELA PARTE EMBARGANTE ENCONTRA-SE AUTOMATICAMENTE PREQUESTIONADA PARA FINS DE INTERPOSIÇÃO DE RECURSOS JUNTO ÀS INSTÂNCIAS SUPERIORES, SENDO DISPENSÁVEL O RECURSO QUE TENHA ESTE OBJETIVO.
+EMBARGOS DE DECLARAÇÃO DESACOLHIDOS.
+Nas razões do recurso especial, a parte agravante alega, além de dissídio jurisprudencial, violação dos seguintes artigos: a) 11, 489, § 1º, IV, e 1.022, I e II, parágrafo único, II, do Código de Processo Civil, indicando omissão, obscuridade e contrariedade no acórdão recorrido, ausência de fundamentação e negativa de prestação jurisdicional; e b) 206, § 3º, V, 412, 413 e 732 do Código Civil, 927, I, 28, parágrafo único, da Lei n. 9.868/1999, 18 da Lei n. 11.442/2007 e 2º, § 2º, da LICC, defendendo a aplicação do prazo prescricional de 1 ano e, subsidiariamente, a incidência do prazo prescricional de 3 anos.
+Sustenta que a prescrição foi fulminada no caso em questão.
+Aponta a natureza de indenização extracontratual, de modo a incidir a prescrição anual quanto à ação indenizatória do vale-pedágio ou, subsidiariamente, a trienal.
+Argumenta ainda que o julgado recorrido diverge do entendimento do STF sobre a aplicação do prazo ânuo prescricional e do STJ sobre a incidência do prazo prescricional trienal.
+Requer o conhecimento e provimento do recurso.
+As contrarrazões foram apresentadas às fls. 138-150 e o recurso especial foi inadmitido na origem (fls. 157-161).
+A contraminuta ao agravo foi oferecida às fls. 361-373.
+É o relatório. Decido.
+O recurso não merece prosperar.
+Consta do acórdão impugnado o seguinte (fls. 62-63):
+Inicialmente, digno de registro o fato de que o fato de o juízo originário não ter acolhido a tese da agravante, tanto em relação à legitimidade passiva, quanto no tocante à prescrição estão fundamentadas a contento, não havendo espaço para sequer cogitar a respeito do alegado vício de fundamentação.
+ ..
+Tampouco se sustenta a invocação relativa à configuração do propalado overrulling.
+ ..
+Nesse contexto, inviável dar guarida à pretensão de reverter a rejeição da preliminar que pretendia a incidência da prescrição ânua.
+Digno de destaque, quanto ao tema, que o entendimento jurisprudencial do Superior Tribunal de Justiça, é no sentido de que em situações como a presente, ou seja, demandas indenizatórias, que focalizam o pagamento da indenização pelo não adiantamento do vale-pedágio, o prazo prescricional é de dez anos.
+No julgamento dos embargos de declaração, a Corte de origem decidiu nestes termos (fls. 102-107):
+Nesse contexto, ausente malferimento às técnicas do distinguishing ou overruling, eis que não houve a aplicação de regra diversa da estabelecida, mas, sim, análise do caso concreto frente aos atos processuais realizados no feito. Logo, não há falar em omissão ou obscuridade no julgado.
+ ..
+Acrescento, considerados os fundamentos deduzidos pela embargante, que por mais que o Supremo Tribunal Federal tenha reconhecido a constitucionalidade da Lei nº. 11.442/2007, o prazo prescricional previsto no seu art. 18 - um ano - possui aplicabilidade exclusivamente quanto às causas elencadas no seu art. 17.
+Se tanto não bastasse, a orientação jurisprudencial consolidada no âmbito da 3ª e da 4ªurmas do Superior Tribunal de Justiça, assim como na 11ª e na 12ª Câmaras Cíveis deste Tribunal, exterioriza o sentido de que a prescrição é decenal nas ações indenizatórias que objetivam o pagamento da multa pelo não adiantamento do vale-pedágio.
+Logo, não há espaço para sequer cogitar a respeito de omissão no aresto embargado, quanto ao argumento de que a legislação especial deve prevalecer sobre a regra geral, porquanto, em situações como a presente, em que o debate versa sobre descumprimento de relação contratual , a orientação jurisprudencial obedecida é a preconizada pelo Superior Tribunal de Justiça no sentido da aplicabilidade da prescrição decenal.
+ ..
+Isso porque tal como já pacificado pela orientação capitaneada pelo Superior Tribunal de Justiça a multa prevista no art. 8º da Lei nº 10.209/2001 configura uma sanção legal, de caráter especial, prevista na lei que instituiu o Vale-Pedágio obrigatório para o transporte rodoviário de carga, e, assim, incabível o cotejo com as disposições dos artigos 412 e 413 do Código Civil, sendo impossível a convenção das partes para lhe alterar o conteúdo.
+ ..
+Quanto ao prequestionamento, há que se ter sempre presente que vigora no nosso ordenamento jurídico o princípio da livre persuasão racional, preconizado pelo artigo 371 do CPC. De acordo com o aludido preceito, o julgador deve indicar na decisão os fundamentos que levaram à formação de seu convencimento, não estando obrigado a se referir a cada um dos dispositivos legais deduzidos pelas partes.
+Em relação à violação dos arts. 11, 489, § 1º, IV, e 1.022, I e II, parágrafo único, II, do CPC, não assiste razão à parte recorrente, porquanto o Tribunal a quo examinou e decidiu, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido nem negativa da prestação jurisdicional.
+Ademais, o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+Ressalte-se que a jurisprudência do Superior Tribunal de Justiça orienta-se no sentido de que, "devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC" (AgInt no AREsp n. 1.843.196/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 20/9/2021, DJe de 22/9/2021).
+Confiram-se ainda os seguintes julgados: REsp n. 1.829.231/PB, relator Ministro Herman Benjamin, Segunda Turma, julgado em 20/10/2020, DJe de 1º/12/2020; AgInt no AREsp n. 1.736.385/GO, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/11/2020, DJe de 2/12/2020; e AgInt no REsp n. 2.009.055/AM, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 10/10/2022, DJe de 18/10/2022.
+Quanto à alegada violação dos arts. 206, § 3º, V, 412, 413 e 732 do Código Civil, 927, I, 28, parágrafo único, da Lei n. 9.868/1999, 18 da Lei n. 11.442/2007 e 2º, § 2º, da LICC, o entendimento do Tribunal estadual encontra amparo na jurisprudência do STJ de que é decenal o prazo prescricional da ação de reparação civil por danos decorrentes do descumprimento de obrigação contratual, o que se aplica à hipótese de cobrança de multa ou de indenização decorrente do art. 8º da Lei n. 10.209/2001.
+Além disso, a aplicação do art. 18 da Lei n. 11.442/2007 diz respeito à pretensão de reparação prevista nesse mesmo diploma legal, não se admitindo interpretação extensiva à pretensão de cobrança da multa ou da indenização decorrente do art. 8º da Lei n. 10.209/2001.
+Ressalte-se que a previsão do parágrafo único d o art. 8º da Lei n. 10.209/2001 não se aplica a período anterior à sua entrada em vigor (REsp n. 2.022.552/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 6/12/2022, DJe de 9/12/2022).
+A corroborar tal entendimento, confiram-se os seguintes julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE COBRANÇA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA DEMANDADA.
+1. Alterar as conclusões da Corte de origem com relação à legitimidade ativa para a cobrança de vale-pedágio demandaria o reexame dos aspectos fáticos e probatórios dos autos, atraindo o óbice da Súmula 7 do STJ. Precedentes.
+2. O acórdão recorrido está em conformidade com a jurisprudência do STJ que entende ser decenal o prazo prescricional da ação de reparação civil por danos decorrentes do descumprimento de obrigação contratual, nos termos do artigo 205 do Código Civil. Incidência da Súmula 83 do STJ.
+3. Agravo interno desprovido. (AgInt no AREsp n. 2.101.186/RS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/9/2022, DJe de 29/9/2022.)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO DA DECISÃO AGRAVADA. NÃO CONHECIMENTO. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL/2015. SÚMULA 182/STJ. APLICAÇÃO POR ANALOGIA. VALE PEDÁGIO. LEI Nº 10.209/2001. MULTA DEVIDA. PRESCRIÇÃO DECENAL. PRECEDENTES. SÚMULA Nº 83/STJ. NÃO PROVIMENTO.
+1. Nos termos do art. 932, III, do Código de Processo Civil/2015, não se conhece de agravo cujas razões não impugnam especificamente o fundamento da decisão agravada. Aplicação, por analogia, do enunciado n. 182 da Súmula do STJ.
+2. Em atenção ao princípio da dialeticidade, cumpre à parte recorrente o ônus de evidenciar, nas razões do agravo em recurso especial, o desacerto da decisão recorrida.
+3. O Tribunal de origem julgou nos moldes da jurisprudência desta Corte. Incidente, portanto, o enunciado 83 da Súmula do STJ.
+4. Agravo interno a que se nega provimento. (AgInt no AREsp n. 962.901/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 12/2/2019, DJe de 19/2/2019.)
+Desse modo, tendo em vista que a decisão da Corte de origem se coaduna com a jurisprudência do STJ, aplica-se ao caso a Súmula n. 83 do STJ.
+Com relação à alínea c do permissivo constitucional, melhor sorte não socorre a parte recorrente, pois a tese defendida já foi afastada no exame do recurso especial pela alínea a do permissivo constitucional, o que implica a inviabilidade do recurso fundado na divergência jurisprudencial.
+Nesse sentido, confira-se o seguinte julgado: AgInt no AREsp n. 1.811.500/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 4/10/2021, DJe de 4/44/2021.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e negar-lhe provimento.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC, tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento que ataca decisão interlocutória, na qual não houve prévia fixação de honorários.
+Publique-se. Intimem -se.
