@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por AIRTON MARTINS DO CARMO, ALDENIZIO BARBOSA DE SOUZA, ALVARO RAMOS CAVALCANTE, ANTONIA DA SILVA, ANTONIO BOSCO DA SILVA, ANTONIO ROOSEVELT GUERREIRO CHAVES, CÂNDIDO ARAÚJO DE MESQUITA, ENOCH DUARTE MOURAO, FRANCISCA IRACY GOMES CAVALCANTE, FRANCISCO GONTRAN PINHEIRO MOURA, FRANCISCO MAGALHÃES, FRANCISCO RODRIGUES DE LIMA, FRANCISCO VALMIR MAGALHAES, JOANA FERREIRA DA COSTA, JOAO BATISTA DA SILVA BRANDAO, JOAO BATISTA DE OLIVEIRA, JOAQUIM FERREIRA LIMA, JOSE MARIA DE MOURA, JOSE MILTON FERREIRA LIMA e JOSE MURILO DA SILVA contra decisão de minha lavra, proferida às e-STJ fls. 1.161/1.166, em que, após reconsiderado anterior decisum, conheci em parte do recurso especial e, nessa extensão, dei-lhe provimento para afastar a aplicação da proporcionalidade para definição do valor devido a título de GDPGTAS.
+Aduz a parte embargante omissão respeitante à ausência de inversão da sucumbência fixada em segundo grau, pontuando que, " ..  uma vez que a desapareceu o decaimento dos particulares sobre a aludida questão jurídica, somente o DNOCS deve responder pela sucumbência, nos moldes do que já havia sido estabelecido na sentença de 1º grau (fls. 253)" ( e-STJ fl. 1.171).
+Passo a decidir.
+Nos termos do art. 1.022 do CPC/2015, os embargos de declaração têm por escopo sanar decisão judicial eivada de obscuridade, contradição, omissão ou erro material.
+In casu, há omissão a ser sanada.
+Com efeito, como apontado pela parte emba rgante, o provimento do apelo nobre implicou no restabelecimento da sentença de primeiro grau, na qual os embargos à execução foram julgados improcedentes, com a fixação da verba honorária em desfavor do ente público (e-STJ fls. 149/150).
+Ante o exposto, ACOLHO os embargos para integrar a decisão anteriormente proferida e determinar o restabelecimento da verba honorária fixada na decisão de primeiro grau.
+Publique-se. Intimem-se.
