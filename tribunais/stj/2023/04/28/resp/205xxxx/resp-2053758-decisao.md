@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto por CONCRETTA LUXEMBURGO DESENVOLVIMENTO IMOBILIARIOS LTDA, CONCRETTA MONET DESENVOLVIMENTO IMOBILIARIO LTDA, CONCRETTA BOULEVARD DESENVOLVIMENTO IMOBILIARIOS LTDA, CONCRETTA PARTICIPACOES S.A, CONCRETTA EMPREENDIMENTOS IMOBILIÁRIOS S/A contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO assim eme ntado:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. REQUISITOS. INOCORRÊNCIA.
+Os embargos de declaração foram rejeitados.
+No recurso especial, fundamentado na alínea "a" do permissivo constitucional, o recorrente sustenta violação aos artigos 5º, 6º, 8º, 85, §§ 2º, 3ºe 8º, e 1.022, II, do CPC/2015.
+Preliminarmente, aduz que o acórdão de origem foi omisso na análise de questões relevantes para a conclusão da controvérsia.
+No mérito, defende que:
+O acórdão recorrido contraria o entendimento da Corte Especial desse Colendo STJ que, em sede de recursos repetitivos, assentou a impossibilidade de fixação da verba sucumbencial com base no art. 85, § 8º, do CPC em causas que contenham proveito econômico elevado.
+Contrarrazões ao recurso especial às fls. 1445/1458.
+Decisão de admissibilidade à fl. 1508.
+É o relatório. Decido.
+Consta do v. acórdão de origem:
+Com essas considerações, DOU PROVIMENTO À APELAÇÃO, para reconhecer a ilegitimidade passivada empresa embargante, determinando sua exclusão do polo passivo da execução fiscal da execução fiscaloriginária 0003077-43.2014.4.05.8312. Honorários sucumbenciais fixados, em desfavor da FAZENDANACIONAL, em R$ 10.000,00, nos termos do art. 85, § 8º, do CPC/2015.
+Com efeito, verifica-se não ter ocorrido ofensa ao artigo 1.022 do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos presentes autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Ademais, o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. ACIDENTE DE TRÂNSITO. VIOLAÇÃO AO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. ILEGITIMIDADE PASSIVA. RESPONSABILIDADE SOLIDÁRIA DO CONSÓRCIO. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO. 1. A violação ao art. 1.022 do CPC/2015 não ficou caracterizada, uma vez que o Tribunal de origem examinou, de forma fundamentada, todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que tenha decidido em sentido contrário à pretensão do recorrente. 2. Tendo o Tribunal local concluído pela legitimidade do consórcio e sua responsabilização solidária no caso, não há como rever esse entendimento sem o necessário revolvimento do acervo fático-probatório dos autos e a análise e interpretação de cláusulas contratuais, o que não se admite em âmbito de recurso especial, ante o óbice das Súmulas 5 e 7/STJ. 3. Agravo interno não provido. (AgInt no REsp 1827460/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 31/05/2021, DJe 07/06/2021 - grifo nosso)
+A Corte de origem, invocando o art. 85, § 8º, do CPC/2015, fixou os honorários advocatícios em R$ 10.000,00.
+Contudo, em sede de recursos especiais submetidos ao regime dos recursos repetitivos (REsp 1.850.512/SP, REsp 1.877.883/SP, REsp 1.906.623/SP e 1.906.618/SP - Relator Min. Og Fernandes), a Corte Especial/STJ firmou as seguintes teses jurídicas:
+i) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados. É obrigatória nesses casos a observância dos percentuais previstos nos §§ 2º ou 3º do art. 85 do CPC - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa. ii) Apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo.
+No caso concreto, verifica-se que o acórdão recorrido está em dissonância com as teses supra, razão pela qual se impõe o provimento do recurso especial, com a consequente devolução dos autos ao Tribunal de origem, a fim de que haja a adequação ao entendimento deste Tribunal.
+Ante o exposto, com fulcro no art. 932, V, do CPC/2015 c/c o art. 255, § 4º, III, do RISTJ, dou parcial provimento ao recurso especial, nos termos da fundamentação.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. HONORÁRIOS ADVOCATÍCIOS. CAUSAS EM QUE A FAZENDA PÚBLICA FOR PARTE. FIXAÇÃO POR MEIO DE APRECIAÇÃO EQUITATIVA QUANDO OS VALORES DA CONDENAÇÃO, DA CAUSA OU DO PROVEITO ECONÔMICO DA DEMANDA FOREM ELEVADOS. IMPOSSIBILIDADE. TEMA 1.076/STJ. OBSERVÂNCIA DOS PERCENTUAIS PREVISTOS NO § 3º DO ART. 85 CPC/2015. RECURSO ESPECIAL PROVIDO EM PARTE.
