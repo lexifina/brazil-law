@@ -1,0 +1,11 @@
+DECISÃO
+O presente writ, impetrado em benefício de Jean Claude Van Damme Silva Santos - preso e denunciado com base no art. 16, § 1º, IV, da Lei n. 10.826/2003, art. 330 do Código Penal e art. 309 da Lei n. 9.503/1997, porquanto, na tentativa de fuga, gerando perigo de dano no trânsito, o veículo que Jean conduzia teve pneus furados em cima de um canteiro na via, indo parar na cidade de Juiz de Fora/MG, caindo no canteiro de um posto de gasolina. Os policiais conseguiram realizar a abordagem do custodiado e, em busca pessoal, foi possível verificar que o custodiado portava um REVOLVER CAL.38, com a numérica ilegível, municiado. Já no automóvel, havia 17 munições calibre .38 (fl. 14) -, não comporta conhecimento.
+Para a defesa técnica, recentemente e posteriormente à apresentação da denúncia, foi juntado laudo da arma de fogo, onde observa-se que a mesma é de uso permitido, afastado assim o art. 16, § 1º, IV, da Lei n. 10.826/2003, e art. 1º, parágrafo único, da Lei n. 8.072/1990, nos quais o requerente fora denunciado, especialmente pelo fato de não se tratar de crime hediondo e a arma ser de uso permitido, devendo no futuro o crime ser desclassificado para o do art. 14 do referido diploma legal" (fl. 6).
+Com efeito, busca a impetração a concessão de liberdade provisória.
+Ocorre que os autos não foram instruídos suficientemente com cópia do inteiro teor do acórdão impugnado (acórdão e voto em sua integralidade), folha de antecedentes criminais, entre outros documentos indispensáveis para a cognição da pretensão, os quais foram proferidos pelas instâncias ordinárias, razão pela qual não há como verificar a verossimilhança das alegações.
+O habeas corpus deve ser instruído com as peças necessárias à confirmação da efetiva ocorrência do constrangimento ilegal e cabe ao impetrante, em especial quando se tratar de advogado, o ônus processual de produzir elementos documentais consistentes, destinados a comprovar as alegações suscitadas na impetração, o que não se satisfaz com a mera transcrição dos fundamentos atacados.
+Em face do exposto, com fulcro no art. 210 do RISTJ, não conheço do writ.
+Publique-se.
+EMENTA
+HABEAS CORPUS. DIREITO PENAL. PORTE ILEGAL DE ARMA DE FOGO. PRISÃO PREVENTIVA. CÓPIA DE DECISÃO PROFERIDA PELAS INSTÂNCIAS ORDINÁRIAS. AUSÊNCIA. INSTRUÇÃO DEFICIENTE.
+Habeas corpus não conhecido.
