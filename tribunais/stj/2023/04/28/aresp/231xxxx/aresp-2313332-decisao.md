@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de agravo apresentado pelo ESTADO DE MATO GROSSO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO, assim resumido:
+RECURSO DE APELAÇÃO CÍVEL - AÇÃO ORDINÁRIA - DEFASAGEM REMUNERATÓRIA DECORRENTE DA CONVERSÃO ERRÔNEA NA IMPLANTAÇÃO DO PERCENTUAL DE 11,98% A TÍTULO DE URV - SERVIDOR DA EMPAER - EMPRESA PÚBLICA QUE SUBSISTE. EM MAIORIA. POR MEIO DE REPASSES ORIUNDOS DO ESTADO DE MATO GROSSO - LEGITIMIDADE PASSIVA DO ESTADO DE MATO GROSSO RECONHECIDA - RECURSO PROVIDO.
+Quanto à controvérsia, alega violação do art. 17 do CPC, no que concerne ao reconhecimento da ilegitimidade passiva estatal em ação na qual o servidor público demandante pretende obter a recomposição salarial contra empresa pública estadual, trazendo os seguintes argumentos:
+O acórdão recorrido reconheceu a legitimidade passiva na demanda proposta por servidores da EMPAER/MT. Entretanto, é eminente a ilegitimidade passiva do ente público para figurar na presente demanda.
+ ..
+Deste modo, afigura-se clara a confusão estabelecida pelo v. Acórdão, que, embora reconheça a natureza de empresa pública da EMPAER/MT, com a autonomia administrativa, financeira e patrimonial, entende que o mero fato de o Estado de Mato Grosso ser ordenador de despesa é suficiente para dar-lhe legitimidade. Por oportuno, frise-se que o mero fato da entidade se fazer representada em juízo pela Procuradoria-Geral do Estado não lhe subtrai a sua autonomia. Portanto, o v. Acórdão incorre em patente nulidade, por violação à expressa ao art. 17 do CPC, o qual prevê, a necessidade de cumprimento integral dos requisitos elencados em seu texto, para a devida postulação em juízo, o que não se verifica no presente caso (fls. 350-352).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, na espécie, o acórdão recorrido decidiu que:
+O cerne da questão subsiste em aferir se o Estado de Mato Grosso é parte legitima para figurar no polo passivo da demanda, tendo em vista que o Apelante é servidor vinculado à Empresa Mato-Grossense de Pesquisa, Assistência e Extensão Rural - EMPAER/MT, empresa pública, dotada de autônima financeira, funcional, patrimonial e administrativa, sem razão a Apelante.
+De plano, entendo que razão assiste ao apelante, isso porque a Lei Complementar nº 461/2011, de 28/12/2011, ao dispor sobre a constituição social da EMPAER/MT, estabelece, no artigo 1º, § 1º e artigo 18, que a referida empresa pública subsiste, em maioria, por meio de repasses oriundos do Estado de Mato Grosso, in verbis:
+ ..
+Desse modo, conforme dispositivos legais acima transcritos, o grau de autonomia da EMPAER é variável no tocante aos recursos orçamentários (fls. 286/288 - grifo meu).
+Assim, não é cabível o recurso especial porque interposto contra acórdão com fundamento em legislação local, ainda que se alegue violação ou interpretação divergente de dispositivos de lei federal. Aplicável, por analogia, o óbice previsto na Súmula n. 280 do STF: "Por ofensa a direito local não cabe recurso extraordinário".
+Nesse sentido: "A tutela jurisdicional prestada pela Corte de origem com fundamento em legislação local impede o exame do apelo extremo, mediante aplicação da Súmula 280/STF". (REsp 1.759.345/PI, relator Ministro Og Fernandes, Segunda Turma, DJe de 17/10/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no REsp 1.657.693/RJ, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 18/8/2020; AgInt no REsp 1.616.439/SC, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 1º/6/2020; AgRg no REsp 1.822.671/MT, relator Ministro Jorge Mussi, Quinta Turma, DJe de 7/4/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
