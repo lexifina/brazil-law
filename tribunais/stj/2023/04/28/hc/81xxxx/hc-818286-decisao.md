@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se  de  habeas  corpus,  com  pedido  liminar,  impetrado  em  favor  de  FLAVIO TAVARES DA SILVA contra  acórdão  proferido  pelo  Tribunal  de  Justiça  do  Estado  de Pernambuco no julgamento da Apelação Criminal n. 0000207-43.2017.8.17.1250.
+Do que é possível entender da petição inicial em que a Defesa nem sequer narra expressamente a tipificação criminal em que o Paciente foi condenado, além de erroneamente requerer a superação do óbice processual referido na Súmula n. 691, alega-se, em suma, que no caso não pode ser reconhecida a reincidência do réu, em razão de condenação em que o período depurador foi ultrapassado.
+Ao final, requer-se, liminarmente, a suspensão dos efeitos da condenação e, no mérito, "a concessão da presente ORDEM DE HABEAS CORPUS EX OFFCICIO, para reconhecer a aplicação do período depurador uma vez devidamente demonstrado bem como a reforma da sentença consoante o regime inicial de cumprimento de pena, para que se fixe o Regime ABERTO, por critério de Proporcionalidade e razoabilidade" (fl. 13; sic).
+É  o  relato  do  necessário.  Decido.
+O writ não merece trânsito.
+Há identidade de partes, de objeto e de causa de pedir no presente writ e no HC n. 811.498/PE, Rel. Ministra LAURITA VAZ.
+Ocorre que não podem ser analisados habeas corpus nos quais há igualdade de partes, de objeto e de causa petendi. Assim, concluo ser inadmissível este feito, porquanto "não pode ser conhecida a impetração que veicula mera reiteração de pedido já formulado em writ anteriormente impetrado nesta Corte" (STJ, AgRg no HC 286.354/AC, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 15/05/2014, DJe 23/05/2014).
+No mesmo sentido, v.g.: HC 519.170/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 15/10/2019, DJe 21/10/2019; EDcl no AgRg no HC 532.973/RS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 10/10/2019, DJe 15/10/2019.
+Outrossim, a Defesa novamente acostou aos autos cópias da sentença e do acórdão do julgamento da apelação, em vários trechos, ilegíveis (vide fls. 18-29; fls. 30-34; fls. 384-392; fls. 400-413 e fls. 418-431).  Assim , ao impetrar petição inicial idêntica à do mandamus manejado anteriormente - em que a ausência de instrução adequada novamente  impede  a  correta  compreensão  da  controvérsia -, a Defesa não atendeu ao disposto no art. 486, § 1.º, do Código de Processo Civil, que condiciona o ajuizamento de nova ação ao saneamento do óbice processual que impediu a solução meritória. Por necessário, cito a referida regra (sem grifos no original):
+"Art. 486. O pronunciamento judicial que não resolve o mérito não obsta a que a parte proponha de novo a ação.
+§ 1º No caso de extinção em razão de litispendência e nos casos dos incisos I, IV, VI e VII do art. 485, a propositura da nova ação depende da correção do vício que levou à sentença sem resolução do mérito."
+No mais, caso a alegada nulidade tenha sido deduzida nesta Corte per saltum, sem o exaurimento da jurisdição ordinária, e a condenação tenha transitado em julgado, deverá a Defesa requerer o reconhecimento do suposto vício ao Órgão Judicial competente.
+Ante  o  exposto,  com  fundamento  nos  arts.  34,  inciso  XX,  e  210,  todos  do  Regimento  Interno  do  Superior  Tribunal  de  Justiça,  INDEFIRO  LIMINARMENTE  a  petição  inicial.
+Publique-se.  Intimem-se.
+EMENTA
+
+ HABEAS  CORPUS.  PROCESSUAL  PENAL.  REITERAÇÃO DE TESE. IDENTIDADE DE PARTES, DE OBJETO E DE CAUSA PETENDI. PRETENSÃO DEFENSIVA JÁ VENTILADA EM WRIT ANTERIORMENTE IMPETRADO NESTA CORTE. § 1.º, DO ART. 486, DO CÓDIGO DE PROCESSO CIVIL NÃO ATENDIDO.  PETIÇÃO  INICIAL  INDEFERIDA  LIMINARMENTE.
