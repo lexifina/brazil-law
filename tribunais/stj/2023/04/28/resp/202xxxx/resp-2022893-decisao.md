@@ -1,0 +1,42 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO DO ESTADO DO PIAUÍ interpõe recurso especial com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça daquele Estado, na Apelação Criminal n. 0758357-56.2020.8.18.0000.
+Em suas razões, o Parquet aponta violação dos arts. 59 e 68, ambos do CP, e 33, caput, e § 4º, da Lei n. 11.343/2006.
+Argumenta, em síntese, que "o v. acórdão incorreu em erro. Isso porque, foi devidamente comprovado que o réu denota maior periculosidade, visto ser detentor de transtorno de personalidade indicativo a prática reiterada de crimes, bem como, evidenciou se o cometimento de novo crime durante o gozo de benefício da liberdade provisória mediante condições concedida ao recorrido no bojo de outro processo criminal, especificamente - o uso de tornozeleira eletrônica, fatos que justificam a exasperação da pena base e, por fim, o recorrido responde por vários processos crimes confirmando que tem envolvimento na prática de atividades ilícitas, impeditivos de ser beneficiado com a minorante do tráfico privilegiado, conforme será demonstrado" (fl. 561).
+Requer o provimento do recurso especial, a fim de que seja exasperada a pena-base aplicada ao recorrido e afastada a minorante prevista na Lei de Drogas.
+O Ministério Público Federal, em parecer de fls. 632-633, opinou pelo provimento do recurso.
+Decido.
+I. Pena-base
+No que tange à pretendida redução da pena-base, cumpre salientar que a fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, nos arts. 5º, XLVI, da Constituição Federal, 59 do Código Penal e 387 do Código de Processo Penal. Todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleito o quantum de pena a ser aplicada ao condenado criminalmente, visando à prevenção e à repressão do delito perpetrado.
+Assim, para chegar a uma aplicação justa da lei penal, o sentenciante, dentro dessa discricionariedade juridicamente vinculada, deve atentar-se para as singularidades do caso concreto e, na primeira etapa do procedimento trifásico, guiar-se pelas circunstâncias relacionadas no caput do art. 59 do Código Penal, as quais não se deve furtar de analisar individualmente. São elas: culpabilidade; antecedentes; conduta social; personalidade do agente; motivos, circunstâncias e consequências do crime; comportamento da vítima.
+Contudo, não se pode olvidar que, tratando-se de crime previsto na Lei de Drogas - como ocorre na espécie -, o juiz deve considerar, ainda, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, bem como a personalidade e a conduta social do agente, a teor do estabelecido no art. 42 da Lei n. 11.343/2006.
+No caso, o Tribunal de origem, ao manter a pena-base no mínimo legal, assim consignou (fls. 534-535, grifei):
+Em que pesem os argumentos do Ministério Público, não lhe assiste razão.
+Com efeito, da análise apurada dos autos, não há como concluir que os antecedentes do apelado mereçam valoração negativa, vez que os documentos mencionados pelo Parquet não constituem prova de condenação com trânsito em julgado, mas apenas a tramitação de processos em seu desfavor.
+Nesse ponto, a jurisprudência pátria é pacífica no sentido de que inquéritos policiais e ações penais em curso não podem ser usados para valorar negativamente as circunstâncias judiciais e, de consequência, agravar a pena-base do réu, sob pena de ofensa ao princípio constitucional da presunção de não-culpabilidade, nos termos da Súmula 444 do Superior Tribunal de Justiça  .. .
+Da mesma forma, a condição de usuário de drogas e os transtornos apresentados por ele (déficit de atenção, hiperatividade) não se mostram idôneos para a exasperação da pena.
+Portanto, impõe-se a manutenção da dosimetria realizada pelo magistrado a quo.
+Assim, conforme bem salientou o acórdão recorrido, uma vez que inexiste nos autos elementos suficientes para a exasperação da pena-base, não há como esta Corte Superior simplesmente se imiscuir no juízo de razoabilidade feito pelas instâncias de origem para, a pretexto de ofensa aos princípios da proporcionalidade e da individualização da pena, aumentar a reprimenda-base estabelecida ao acusado.
+Conforme entendimento do Supremo Tribunal Federal: A dosimetria da pena é matéria sujeita a certa discricionariedade judicial. O Código Penal não estabelece rígidos esquemas matemáticos ou regras absolutamente objetivas para a fixação da pena. Cabe às instâncias ordinárias, mais próximas dos fatos e das provas, fixar as penas e às Cortes Superiores, em grau recursal, o controle da legalidade e da constitucionalidade dos critérios empregados, bem como a correção de eventuais discrepâncias, se gritantes ou arbitrárias (HC n. 122.184/PE, Rel. Ministra Rosa Weber, 1ª T., DJe 5/3/2015), situação que, no entanto, não verifico caracterizada nos autos.
+Diante de tais considerações, deve ser mantida inalterada a pena-base imposta ao réu.
+II. Minorante prevista no art. 33, § 4º, da Lei de Drogas
+Para a aplicação da minorante prevista no § 4º do art. 33 da Lei de Drogas, é exigido, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa nem se dedique a atividades delituosas. Isso porque a razão de ser da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 é justamente punir com menor rigor o pequeno traficante.
+A propósito, confira-se o seguinte trecho de voto deste Superior Tribunal: "Como é cediço, o legislador, ao instituir o referido benefício legal, teve como objetivo conferir tratamento diferenciado aos pequenos e eventuais traficantes, não alcançando, assim, aqueles que fazem do tráfico de entorpecentes um meio de vida." (HC n. 437.178/SC, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 11/6/2019).
+No caso, o Tribunal de origem considerou devida a incidência do redutor descrito no § 4º do art. 33 da Lei n. 11.343/2006, com base nos seguintes fundamentos (fl. 532, destaquei):
+No caso dos autos, a magistrada a quo menciona que o apelante "também é réu em outros processos criminais inclusive por tráfico de drogas", deixando então de aplicar a causa de diminuição.
+No entanto, tal argumento mostra-se inidôneo para tanto, notadamente porque a jurisprudência do Superior Tribunal de Justiça evoluiu para o entendimento no sentido de que "a existência de ações penais sem trânsito em julgado não pode justificar a negativa de aplicação da minorante prevista no art. 33, §4º, da Lei de Drogas", sobretudo quando não tenham sido "indicadas outras situações impeditivas".
+Conforme visto, a instância de origem justificou a incidência do redutor em questão, com base no afastamento da fundamentação atinente à existência de processo em andamento.
+Assim, verifica-se que o Tribunal de origem manifestou-se em perfeita consonância com a jurisprudência desta Corte Superior. A conferir:
+ .. .
+12. Para os fins do art. 927, inciso III, c.c. o art. 1.039 e seguintes, do Código de Processo Civil, resolve-se a controvérsia repetitiva com a afirmação da tese: "É vedada a utilização de inquéritos e/ou ações penais em curso para impedir a aplicação do art. 33, § 4.º, da Lei n. 11.343/06". A fim de manter íntegra e coerente a jurisprudência desta Corte, nos termos do art. 926, c.c.
+o art. 927, § 4.º, do Código de Processo Civil/2015, fica expressamente superada a anterior orientação jurisprudencial da Terceira Seção deste Tribunal que havia sido consolidada no ERESP n. 1.431.091/SP (DJe 01/02/2017).
+13. Recurso especial provido.
+(REsp n. 1.977.027/PR, relatora Ministra Laurita Vaz, 3ª S., DJe de 18/8/2022)
+ .. .
+1. A Terceira Seção desta Corte Superior de Justiça, por ocasião do julgamento do REsp n. 1.977.027/PR (Rel. Ministra Laurita Vaz, acórdão pendente de publicação), submetido ao rito dos recursos repetitivos, fixou a tese de que é vedada a utilização de inquéritos e/ou ações penais em curso para impedir a aplicação do art. 33, § 4.º, da Lei n. 11.343/06.
+ .. .
+3. Agravo regimental não provido.
+(AgRg no AREsp n. 2.177.804/BA, relator Ministro Rogerio Schietti Cruz, 6ª T., DJe de 17/10/2022)
+Portanto, incide, neste ponto, a Súmula n. 83 do STJ, motivo pelo qual não se conhece o recurso seja pela alínea "a", seja pela alínea "c" .
+III. Dispositivo
+À vista do exposto, nego provimento ao recurso especial.
+Publique-se e intimem-se.
