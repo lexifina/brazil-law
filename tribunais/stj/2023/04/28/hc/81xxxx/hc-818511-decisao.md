@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Carlos Alberto Denes, apontando-se como autoridade coatora o Tribunal de Justiça do Rio Grande do Sul (Apelação Criminal n. 5002103-16.2022.8.21.0016).
+Infere-se dos autos que o Juízo de Direito da 1ª Vara Criminal da comarca de Ijuí/RS condenou o ora paciente às penas de 5 ano e 9 meses de reclusão, em regime inicial fechado, e 500 dias-multa, pela prática do delito previsto no art. 33, caput, da Lei n. 11.343/2006 (fls. 267/278).
+O Tribunal a quo, no dia 23/3/2023, deu parcial provimento ao recurso defensivo, apenas para alterar o regime prisional para o semiaberto, mantendo, no mais, a sentença condenatória (fls. 14/28 ).
+Daí a presente impetração, em que se alega, em síntese, constrangimento ilegal decorrente da ilicitude das provas obtidas em busca pessoal sem justa causa para tanto e da dosimetria da pena em razão da falta de aplicação da minorante do tráfico privilegiado, mesmo o paciente possuindo todos os predicados favoráveis.
+Requer-se, liminarmente e no mérito, o reconhecimento da nulidade arguida com a consequente absolvição do paciente. Subsidiariamente, a incidência do redutor previsto no art. 33, § 4º, da Lei de Drogas .
+É o relatório.
+Inicialmente, verifica-se que a tese de nulidade decorrente de suposta busca pessoal ilegal não foi examinada pelo Tribunal a quo, razão pela qual sua análise diretamente por esta Corte enseja indevida supressão de instância.
+É certo que, conforme reiterada jurisprudência do Superior Tribunal de Justiça, o prévio exame das alegações pelas instâncias ordinárias constitui requisito indispensável para sua apreciação nesta instância, ainda que se cuide de questão de ordem pública (AgRg no HC n. 616.994/PR, Ministro Ribeiro Dantas, Quinta Turma, DJe 8/2/2021).
+A corroborar, confiram-se os seguintes julgados desta Corte Superior de Justiça: AgRg no HC n. 769.880/SP, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Sexta Turma, DJe 10/3/2023; e AgRg no HC n. 787.386/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 19/12/2022.
+Quanto à minorante do tráfico privilegiado, a modificação do quanto decidido pelas instâncias ordinárias está a exigir o reexame aprofundado de fatos e de provas, providência que não se coaduna com esta via.
+O Tribunal estadual assim se manifestou sobre o tema (fl. 23):
+ ..  não se verifica, no presente caso, o preenchimento dos requisitos necessários para o reconhecimento da minorante prevista no § 4º do Art. 33 da Lei n. 11.343/2006. Isto porque, como destacado na sentença, além das circunstâncias da prisão em flagrante, sobretudo a quantidade de droga e o transporte intermunicipal, a extração de dados dos telefones celulares constantes nos autos evidenciou, como já referido, que o acusado era envolvido com a prática de crimes, o que demonstra a dedicação às atividades criminosas.
+Portanto, uma vez afastado o redutor com o fundamento de que o paciente se dedicava a atividades criminosas, rever o entendimento das instâncias ordinárias para fazer incidir a causa especial de diminuição demandaria, necessariamente, amplo revolvimento da matéria fático-probatória, procedimento que, a toda evidência, é incompatível com a estreita via do mandamus (HC n. 420.837/SP, Ministro FELIX FISCHER, Quinta Turma, julgado em 23/11/2017, DJe 1º/12/2017) - (AgRg no HC n. 706.273/SC, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 29/4/2022).
+À vista do exposto, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. BUSCA PESSOAL INDEVIDA. MATÉRIA NÃO ANALISADA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. INADMISSIBILIDADE. PLEITO DE APLICAÇÃO DO REDUTOR DO ART. 33, § 4º, DA LEI N. 11.343/2006. AUSÊNCIA DOS REQUISITOS. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+Writ indeferido liminarmente.
