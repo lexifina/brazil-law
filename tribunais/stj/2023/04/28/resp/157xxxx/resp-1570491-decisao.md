@@ -1,0 +1,78 @@
+DECISÃO
+Cuida-se de recurso especial interposto por V. A. DE OLIVEIRA - M.E. e OUTROS, com fundamento no art. 105, III, alíneas "a" e "c", da Constituição Federal, contra acórdão prolatado pelo Tribunal Regional Federal da 5ª Região.
+A presente controvérsia iniciou-se com o ajuizamento de Mandado de Segurança pelos ora recorrentes em desfavor de OSMAR BRASIL DE ALMEIDA (liquidante do Banco Rural S.A.), em litisconsórcio passivo com o Banco Central do Brasil, objetivando o reconhecimento do direito ao imediato resgate do numerário depositado na Instituição Financeira liquidanda.
+Em primeiro grau de jurisdição, foi concedida a ordem impetrada, tendo a sentença sido reformada pelo Tribunal recorrido.
+A acórdão recorrido foi assim ementado (fl. 443):
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. LIQUIDAÇÃO EXTRAJUDICIAL DE INSTITUIÇÃO FINANCEIRA. LIBERAÇÃO DE VALORES DEPOSITADOS EM CDB PARA CONTA JUDICIAL DE JUÍZO EM QUE SE APRECIA AÇÃO MANDAMENTAL. INCABIMENTO. LEI Nº 6.024/74.
+I. Cuida-se de apelações e remessa oficial de sentença que concedeu a segurança para reconhecer o direito líquido e certo dos impetrantes à disponibilidade e movimentação da totalidade dos numerários que lhe pertencem, depositados a qualquer título junto à instituição financeira liquidanda, não se lhes aplicando os pretensos efeitos da Lei nº 6.024/74.
+II. A Lei nº 6.024/1974 impôs a observância de uma série de procedimentos, no tocante à disponibilidade do patrimônio da empresa liquidada e das respectivas empresas controladoras, para o fim de assegurar ato dos os credores da instituição financeira a percepção de seus haveres, com a devida proporcionalidade, a depender da apuração dos ativos da instituição financeira.
+III. A liberação de valores depositados por correntistas em instituição financeira em liquidação extrajudicial, apenas é viável após os procedimentos dispostos nos arts. 15 a 35 da Lei nº 6.024/74.
+IV. O cliente de instituição bancária, aplicador em CDB (título de crédito escritural), como qualquer outro depósito bancário, não detém qualquer privilégio quanto aos seus créditos, comparativamente aos demais credores da instituição financeira submetida, pelo BACEN, à intervenção extrajudicial. O pagamento de credores e investidores deverá seguir a ordem legal estabelecida pela Lei de Falências, uma vez que o Banco não pode preferir nenhum credor em detrimento de outros (STJ, AgRg no MS 19822 / DF, rel. Ministro NAPOLEÃO NUNES MAIA FILHO, DJe 2.8.2013).
+V. A determinação de transferência imediata dos depósitos para conta judicial à disposição do Juízo da10ª Vara Federal/PE é medida que pode dar ensejo a dano de difícil reparação, mormente se cumprido o passo seguinte de liberar os valores em favor dos impetrantes.
+VI. Apelações e remessa oficial providas.
+Irresignada, a parte recorrente opôs embargos declaratórios, que foram rejeitados pelo TRF da 5ª Região nos termos da seguinte ementa (fl. 476):
+PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS. LIBERAÇÃO DE VALORES EM CDB. REABERTURA DE DISCUSSÃO ACERCA DE MATÉRIA JÁ ANALISADA. IMPOSSIBILIDADE. INEXISTÊNCIA DE OMISSÃO. CONTRADIÇÃO OU OBSCURIDADE.
+I - Não é possível, em sede de embargos declaratórios, reabrir discussão acerca de questão já debatida e decidida.
+II - O acórdão não incorreu nas omissões apontadas. A Lei nº 6.024/1974 impôs a observância de uma série de procedimentos, no tocante à disponibilidade do patrimônio da empresa liquidada e das respectivas empresas controladoras, para o fim de assegurar a todos os credores da instituição financeira a percepção de seus haveres, com a devida proporcionalidade, a depender da apuração dos ativos da instituição financeira.
+III - A liberação de valores depositados por correntistas em instituição financeira em liquidação extrajudicial, apenas é viável após os procedimentos dispostos nos arts. 15 a 35 da Lei nº 6.024/74.
+IV - Embargos de declaração improvidos.
+No pórtico do recurso especial, aduzem os recorrentes que o acórdão impugnado viola os seguintes dispositivos de lei:
+I) art. 535, II, do Código de Processo Civil. Entende que o acórdão recorrido apresenta omissões que não teriam sido sanadas por ocasião do julgamento de embargos declaratórios, razão pela qual teria o Tribunal a quo incorrido em negativa de prestação jurisdicional;
+II) arts. 30, § 3º, da Lei n. 4.728/1965; 43, § 2º, da Lei n. 10.931/2004; e 34 da Lei n. 11.076/2004. Alega que o Tribunal recorrido desconsiderou o disposto nos aludidos dispositivos legais, segundo os quais os valores aplicados em Certificados de Depósito Bancários (CDB) e Letras de Crédito do Agronegócio (LCA) devem ter disponibilidade plena por parte do aplicador, estando a salvo de penhoras, sequestros, arrestos, busca e apreensão ou qualquer medida constritiva sobre o patrimônio que impeçam sua livre movimentação. Entende, portanto, que o reconhecimento da inexigibilidade dos aludidos depósitos constituiria uma burla à legislação em epígrafe;
+III) arts. 4º, III, e 51, V, da Lei n. 8.078/1990 e 422 do Código Civil. Afirma que o acórdão impugnado "descurou do princípio da boa-fé objetiva, albergado no Código Consumerista e no próprio Código Civil;
+IV) arts. 645, 587 e 422 do Código Civil; e 1º, 6º, "c", 7º, "c", 15 a 36 da Lei n. 6.024/1974. Nesse ponto, argumenta que o acórdão impugnado se equivoca ao confundir as hipóteses de intervenção e liquidação de instituição financeira. Segundo entende, a intervenção tem seu tratamento versado a partir do art. 2º até o art. 14 do diploma legal em epígrafe, dos quais merece especial destaque o seu art. 6º, em que está consignada a inexigibilidade dos depósitos já existentes na instituição na data da decretação da intervenção. No caso sob análise, contudo, a opção do Banco Central do Brasil foi pela liquidação extrajudicial da instituição financeira, onde, em conformidade com o art. 20, não incide a disposição contida no aludido art. 6º, alínea "c.
+Aduzem ainda a ocorrência de divergência jurisprudencial.
+Requerem a procedência do presente recurso para declarar a nulidade do aresto impugnado, determinando-se o retorno dos autos ao Tribunal Regional Federal da 5ª Região, para que enfrente as questões omitidas no acórdão recorrido.
+Subsidiariamente, pugnam pela procedência do recurso especial para reformar o acórdão recorrido a fim de ser concedida a segurança nos termos do pedido formulado na exordial, reconhecendo que o acórdão recorrido ofende os arts. 30, § 3º, da Lei n. 4.728/1965, 43, § 2º, da Lei n. 10.931/2004, 34 da Lei n. 11.076/2004, 645, 587 e 422 do Código Civil, 1º, 6º, "c", 7º, "c", 15 a 36 da Lei n. 6.024/1974, e 4º, III, e 51, V, da Lei n. 8.078/1990.
+Devidamente intimado, o recorrido apresentou contrarrazões (fls. 584-595), pugnando pelo desprovimento do recurso especial.
+É, no essencial o relatório.
+DA ALEGAÇÃO DE VIOLAÇÃO DO ART. 535, II, DO CÓDIGO DE PROCESSO CIVIL
+Em conformidade com a jurisprudência desta Corte, a ofensa ao dispositivo legal em comento somente ocorre quando o acórdão deixa de pronunciar-se sobre questão jurídica ou fato relevante para o julgamento da causa.
+A finalidade dos embargos de declaração é complementar o acórdão quando nele identificar omissão, ou, ainda, aclará-lo, dissipando obscuridade ou contradição.
+Na espécie, o acórdão impugnado expôs satisfatoriamente as razões pelas quais o TRF da 5ª Região se convenceu de que a liberação de valores depositados por correntistas em instituição financeira em liquidação extrajudicial apenas é viável após os procedimentos dispostos nos arts. 15 a 35 da Lei n. 6.024/1974.
+Não houve, portanto, negativa de prestação jurisdicional.
+Nesse sentido, confira-se precedente:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO RESCISÓRIA. INDENIZAÇÃO POR BENFEITORIAS. IMÓVEL RURAL. 1. VIOLAÇÃO DO ART. 535 DO CPC/1973 (1.022 do CPC/2015). INEXISTÊNCIA. 2. CONCLUSÃO DO ACÓRDÃO RECORRIDO DE QUE O RECORRENTE ERA POSSUIDOR DE MÁ-FÉ. BENFEITORIAS ÚTEIS E NÃO NECESSÁRIAS NÃO INDENIZÁVEIS. REVISÃO. INCIDÊNCIA DA SÚMULA 7/STJ. 3. AGRAVO IMPROVIDO.
+1.De acordo com o entendimento jurisprudencial pacífico desta Corte Superior, não há violação do art. 1.022 do CPC/2015 nos casos em que o acórdão recorrido resolve com coerência e clareza os pontos controvertidos que foram postos à apreciação da Corte de origem, examinando as questões cruciais ao resultado do julgamento.
+ ..
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.608.804/MT, relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 20/10/2016, DJe de 27/10/2016.)
+DA ALEGAÇÃO DE VIOLAÇÃO DOS ARTS. 30, § 3º, DA LEI N. 4.728/1965, 43, § 2º, DA LEI N. 10.931/2004 E 34 DA LEI N. 11.076/2004; 645, 587 E 422 DO CÓDIGO CIVIL; E 1º, 6º, "C", 7º, "C", 15 A 36 DA LEI N. 6.024/1974
+Consoante o relatado, entendem os recorrentes que o Tribunal recorrido deixou de considerar o disposto nos dispositivos legais acima referidos, segundo os quais os valores aplicados em Certificados de Depósito Bancários (CDB) e Letras de Crédito do Agronegócio (LCA) devem ter disponibilidade plena por parte do aplicador, estando a salvo de penhoras, sequestros, arrestos, busca e apreensão ou qualquer medida constritiva sobre o patrimônio que impeçam sua livre movimentação. Entende, portanto, que o reconhecimento da inexigibilidade dos aludidos depósitos constituiria uma burla a legislação em epígrafe.
+Alegaram ainda que o acórdão impugnado teria se confundido acerca do regime jurídico aplicável ao instituto da liquidação extrajudicial, aplicando na solução do litígio normas incidentes na hipótese de intervenção. Também quanto a esses aspectos, sem razão os recorrentes.
+Isso porque, nos termos da jurisprudência do Superior Tribunal de Justiça, os depósitos bancários não se enquadram na hipótese do art. 76 da Lei de Falências, pois neles, em particular, ocorre a transferência da titularidade dos valores à instituição bancária, ficando o correntista apenas com o direito ao crédito correspondente.
+Dessarte, uma vez decretada pelo Banco Central a liquidação extrajudicial da instituição financeira, o pagamento de credores e investidores deverá seguir a ordem legal estabelecida pela Lei de Falências, uma vez que o Banco não pode preferir nenhum credor em detrimento de outros.
+Indevida, portanto, a pleiteada restituição dos valores depositados pelos recorrentes, sob pena de violação do par conditio creditorum.
+Nesse sentido, cito julgados:
+RECURSO ESPECIAL. AÇÃO DE FALÊNCIA. INSTITUIÇÃO FINANCEIRA.
+CERTIFICADOS DE DEPÓSITO BANCÁRIO. PEDIDO DE RESTITUIÇÃO.
+IMPOSSIBILIDADE. CONTRATO QUE SE CARACTERIZA PELA TRANSFERÊNCIA DE PROPRIEDADE DO BEM À INSTITUIÇÃO BANCÁRIA. DEPOSITANTE QUE OSTENTA A CONDIÇÃO DE CREDOR. SOLICITAÇÃO DE RESGATE NÃO ATENDIDA. EXTINÇÃO DA AVENÇA. INOCORRÊNCIA. MERA CARACTERIZAÇÃO DA MORA DO DEVEDOR.
+OBSERVÂNCIA DO PAR CONDITIO CREDITORUM.
+1. Impugnação de crédito apresentada em 12/2/2015. Recurso especial interposto em 22/11/2017. Autos conclusos ao Gabinete em 29/11/2018.
+2. O propósito recursal é definir se os créditos titulados pela recorrente - representativos de valores investidos em CDBs - se submetem ou não aos efeitos da falência da instituição financeira recorrida.
+3. O depósito bancário não se equipara às hipóteses em que o devedor ostenta a condição de mero detentor ou custodiante do bem, hipóteses fáticas que atraem a incidência do art. 85 da LFRE.
+4. Nos contratos de depósito bancário, ocorre a transferência da propriedade do bem para a instituição financeira, ocupando o depositante a posição de credor dos valores correspondentes.
+Doutrina e precedentes.
+5. A natureza creditícia da relação existente entre a recorrente e a instituição financeira exige que o montante impugnado se sujeite aos efeitos da execução concursal, em respeito ao par conditio creditorum.
+6. A solicitação de resgate dos certificados de depósito objeto da presente irresignação não tem como efeito a alteração da natureza jurídica da relação existente entre as partes. Se a instituição bancária não procedeu à disponibilização do montante no prazo que assinalara, a consequência jurídica decorrente é a caracterização da mora, e não a extinção automática dos contratos.
+RECURSO ESPECIAL NÃO PROVIDO.
+(REsp n. 1.801.031/SP, relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 4/6/2019, DJe de 7/6/2019, grifei.)
+CIVIL E PROCESSUAL. RECURSO ESPECIAL. FALÊNCIA. RESTITUIÇÃO DE DEPÓSITOS BANCÁRIOS. IMPOSSIBILIDADE. PRECEDENTES. PROVIMENTO.
+I. "Os depósitos bancários não se enquadram na hipótese do art. 76 da Lei de Falências, pois neles, em particular, ocorre a transferência da titularidade dos valores à instituição bancária, ficando o correntista apenas com o direito ao crédito correspondente" (AgRg no REsp 660762/MG, Rel. Min. CESAR ASFOR ROCHA, DJ 13/06/2005 p. 316). PRECEDENTES.
+II. Recurso especial provido para julgar improcedente a ação de restituição de depósitos.
+(REsp n. 810.390/MG, relator Ministro ALDIR PA SSARINHO JUNIOR, QUARTA TURMA, julgado em 3/9/2009, DJe de 13/10/2009, grifei.)
+ADMINISTRATIVO. AGRAVO REGIMENTAL EM MANDADO DE SEGURANÇA.
+INTERVENÇÃO EXTRAJUDICIAL DO BANCO CENTRAL NO BANCO BVA S/A.
+PRETENSÃO DA EMPRESA-IMPETRANTE DE LIBERAÇÃO DOS SEUS DEPÓSITOS DE CDB NA INSTITUIÇÃO FINANCEIRA. INVIABILIDADE. ART. 6o. DA LEI 6.024/1974. EFEITO DA INTERVENÇÃO: INEXIGIBILIDADE DOS DEPÓSITOS JÁ EXISTENTES À DATA DA SUA DECRETAÇÃO. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A decretação de intervenção extrajudicial pelo Banco Central do Brasil no Banco BVA S/A tem como uns dos efeitos a suspensão das obrigações vencidas da instituição financeira, tornando inexigíveis os depósitos existentes na data da decretação da intervenção, nos termos do art. 6o. da Lei 6.024/74. Dessa forma, o fato da impetrante ter solicitado a liberação dos valores investidos em data pretérita à intervenção, não tornam esses valores insuscetíveis aos seus efeitos.
+2. A empresa-impetrante, aplicadora em CDB (título de crédito escritural), como qualquer outro depósito bancário, não detém qualquer privilégio quanto aos seus créditos, comparativamente aos demais credores da instituição financeira submetida, pelo BACEN, à intervenção extrajudicial. Caso o BACEN verifique a necessidade de decretação da liquidação extrajudicial do Banco BVA S/A, o pagamento de credores e investidores deverá seguir a ordem legal estabelecida pela Lei de Falências, uma vez que o Banco não pode preferir nenhum credor em detrimento de outros.
+3. Não há direito líquido e certo tutelado pela parte agravante;
+Agravo Regimental desprovido, mantendo-se o indeferimento liminar do Mandado de Segurança.
+4. Agravo Regimental desprovido.
+(AgRg no MS n. 19.822/DF, relator Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA SEÇÃO, julgado em 26/6/2013, DJe de 2/8/2013, grifei.)
+DA ALEGAÇÃO DE OFENSA AOS ARTS. 4º, III, E 51, V, DA LEI N. 8.078/1990 E 422 DO CÓDIGO CIVIL
+O acórdão impugnado não examinou a questão relacionada a suposta violação do princípio da boa-fé objetiva, o que obsta o conhecimento do recurso especial, nesse ponto, por ausência de prequestionamento, incidindo, in casu, as Súmulas n. 211/STJ e 282/STF.
+DO DISSÍDIO JURISPRUDENCIAL
+O conhecimento do recurso especial pela alínea "c" do permissivo constitucional exige a demonstração do dissídio mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados. Além disso, deve o recorrente comprovar, analiticamente, que os acórdãos confrontados deram ao mesmo artigo de lei interpretações divergentes. Descumprido tal requisito, incide, por analogia, a Súmula STF n. 284.
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
