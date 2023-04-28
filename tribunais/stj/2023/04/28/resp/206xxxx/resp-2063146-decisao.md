@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão assim ementado:
+EMENTA. AGRAVO DE INSTRUMENTO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. AÇÃO ORDINÁRIA COLETIVA. DISPOSITIVO QUE RESTRINGE A ABRANGÊNCIA.
+COISA JULGADA. AGRAVO DE INSTRUMENTO PROVIDO.
+1 - O posicionamento do Superior Tribunal de Justiça é o de que, quando a sentença, em ação ordinária movida por sindicato, não restringe seus efeitos apenas àqueles que eram  liados à época do protocolo da ação, a coisa julgada acaba por alcançar todos os pertencentes à categoria beneficiada 2 - A contrario sensu, quando a sentença expressamente limitar seu alcance apenas aos associados, esta não poderá abranger os servidores não representados no processo de conhecimento.
+3 - No presente caso, veri ca-se que a sentença exequenda expressamente limitou a abrangência da condenação, desse modo, o referido título executivo judicial abrange somente aqueles servidores representados pelo sindicato nos autos da ação coletiva.
+4 - Agravo de Instrumento Provido, para reformar a decisão vergastada, e reconhecer a ilegitimidade ativa e extinguir o processo, nos termos do art. 485, VI do CPC. Condeno a parte autora ao pagamento das custas e honorários de sucumbência, os quais  xo em 12% do valor da causa, restando suspensa sua exigibilidade em caso de deferimento na instância singela.
+Declaratórios rejeitados.
+Em suas razões, a recorrente aponta violação dos arts. 141, 489, § 3º, 490 e 492, do CPC/2015, sustentando que o Tribunal de origem "atribuiu uma interpretação equivocada da parte dispositiva da sentença coletiva, sem enfrentar a fundamentação exposta na própria sentença, posto que, ao contrário do entendimento firmado no acórdão recorrido, a sentença não limitou seus efeitos à apenas os servidores relacionados na lista de servidores filiados".
+Contrarrazões apresentadas.
+O Ministério Público Federal opinou pelo não conhecimento do recurso.
+Passo a decidir.
+Observa-se que a irresignação recursal não merece prosperar.
+Ainda que o recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há como confundir o resultado desfavorável ao litigante com a falta de fundamentação, motivo pelo qual não se vislumbra violação do preceito apontado.
+Consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater um a um todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie. Nesse sentido:
+IPVA. NÃO CONFIGURADA VIOLAÇÃO DO ART. 1.022 DO CPC/2015. CERCEAMENTO DE DEFESA. INCIDÊNCIA DA SÚMULA 283 DO STF. ALIENAÇÃO FIDUCIÁRIA DE VEÍCULO. ILEGITIMIDADE PASSIVA DO CREDOR FIDUCIÁRIO. CONTROVÉRSIA DIRIMIDA COM ANÁLISE DE LEGISLAÇÃO DISTRITAL. INCIDÊNCIA DA SÚMULA 280/STF. LEI LOCAL. ILEGITIMIDADE ATIVA DO DISTRITO FEDERAL. REEXAME DO CONJUNTO PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7 DO STJ. MULTA DO ART. 1026 DO CPC/2015.
+1. Inicialmente, em relação aos arts. 141 e 1022 do CPC, deve-se ressaltar que o acórdão recorrido não incorreu em omissão, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente. Vale destacar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional.
+ ..
+(REsp 1.671.609/DF, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, DJe 30/06/2017).
+Em outra quadra, a revisão do entendimento do aresto hostilizado de "que a sentença exequenda expressamente limitou a abrangência da condenação, desse modo, o referido título executivo judicial abrange somente aqueles servidores representados pela entidade de classe nos autos da ação coletiva", a fim de acolher as teses da parte recorrente, esbarra no óbice da Súmula 7 do STJ, pois pressupõe o reexame detalhado do inteiro teor do título judicial (limites da coisa julgada).
+Nesse sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. AGRAVO I NTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. SERVIDOR PÚBLICO REDISTRIBUÍDO. PARCELAS VENCIDAS APÓS A REDISTRIBUIÇÃO. LEGITIMIDADE PASSIVA AD CAUSAM. VIOLAÇÃO AOS ARTS. 489, II, 1.022, II, DO CPC. NÃO OCORRÊNCIA. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Inexiste falar em ofensa aos arts. 489, II, e 1.022, II, do CPC, uma vez que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos, não se podendo, de acordo com a jurisprudência do Superior Tribunal de Justiça, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional (AgInt no AREsp 1678312/PR, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe 13/4/2021).
+2. A tese de legitimidade passiva ad causam da FUNASA, defendida pelo agravante, parte da premissa - afastada pelo Tribunal a quo - de que tal questão se encontra acobertada pela coisa julgada.
+3. A revisão do entendimento firmado no acórdão recorrido, acerca dos limites da coisa julgada existente no título executivo, demandaria o revolvimento de matéria fático-probatória, o que esbarra no óbice da Súmula 7/STJ. Nesse sentido: AgInt no REsp 1.861.500/AM, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 23/4/2021; AgInt no AREsp 1.170.224/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 14/9/2020.
+4. Agravo interno desprovido. (AgInt REsp 1.987.143/RS, Rel. Min. SÉRGIO
+KUKINA, Primeira Turma, DJe 29/09/2022).
+Ante o exposto, com base no art. 255, § 4º, I e II, do RISTJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Publique-se. Intimem-se.
