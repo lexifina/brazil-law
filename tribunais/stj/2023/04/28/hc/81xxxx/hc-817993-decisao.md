@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus com pedido limi nar impetrado em benefício de GILBERTO PEREIRA CAMPOS no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (Habeas Corpus Criminal Nº 1.0000.23.071460-2/000).
+Depreende-se dos autos que o ora paciente foi condenado a 06 (seis) anos e 03 (três) meses de reclusão; 09 (nove) meses e 22 (vinte e dois dias) de detenção; 640 (seiscentos e quarenta) dias-multa, bem como na suspensão ou proibição de se obter a permissão ou a habilitação para dirigir veículo automotor por 09 (nove) meses e 07 (sete) dias, por haver praticado os crimes previstos nos art. 33, caput, da Lei 11.343/2006 e no art. 306 do CTB, c/c o art. 65, III, "d", do Código Penal, na forma do art. 69 do Código Penal (e-STJ fl. 74).
+Impetrado prévio writ , o Tribunal de origem não conheceu do habeas corpus, em acórdão assim ementado (e-STJ fl. 13):
+EMENTA: HABEAS CORPUS - TRÁFICO DE DROGAS E EMBRIAGUEZ AO VOLANTE - CONDENAÇÃO EM PRIMEIRA INSTÂNCIA - IRREGULARIDADE NO FLAGRANTE - ALEGAÇÃO DE ILEGALIDADE NA ABORDAGEM PESSOAL E VIOLAÇÃO DE DOMICÍLIO - VIA IMPRÓPRIA - EXISTÊNCIA DE RECURSO PRÓPRIO - APELAÇÃO INTERPOSTA - PRINCÍPIO DA UNIRRECORRIBILIDADE - HABEAS CORPUS NÃO CONHECIDO.
+- Não se conhece de tese sustentada em habeas corpus que se destine exclusivamente a questionar elementos da sentença condenatória, posto que há recurso próprio para isso, qual seja, apelação.
+- Se a parte impetrante já interpôs recurso de apelação em face da decisão guerreada, torna-se inviável o conhecimento da presente impetração, em atenção ao princípio da unirrecorribilidade.
+Daí o presente habeas corpus, no qual a defesa sustenta que a " ..  condenação se baseou exclusivamente em prova obtida de maneira ilegal (busca pessoal) e (invasão de domicílio), sendo ao certo o desentranhamento desta e das demais decorrentes (teoria dos frutos da arvore envenenada - artigo 157, §1º do CP)" (e-STJ fl. 4).
+Aduz que " n o caso concreto resta evidente a ilegalidade da busca pessoal e da entrada dos policiais militares na residência do Paciente, sendo baseada a entrada exclusivamente em denuncia anônima, demonstrando uma completa dissonância com a jurisprudência que se encontra pacificada nos Tribunais Superiores sobre a matéria" e-STJ fl. 4).
+Assim, requer, liminarmente e no mérito, a determinação da nulidade das provas com a consequente absolvição do paciente.
+É o relatório.
+Decido .
+Preliminarmente, cumpre ressaltar que, pendente o julgamento do recurso de apelação pelo Tribunal a quo (e-STJ fl. 18), fica esta Corte impedida de analisar o mérito do pedido de reconhecimento de nulidade, sob pena de indevida supressão de instância.
+Nesse sentido:
+PROCESSO PENAL. HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. MODUS OPERANDI. QUANTIDADE DE DROGA. SENTENÇA CONDENATÓRIA. NEGADO RECURSO EM LIBERDADE. FUNDAMENTAÇÃO PER RELATIONEM. POSSIBILIDADE. DOSIMETRIA. FLAGRANTE ILEGALIDADE RECONHECIDA. SEM ALTERAÇÃO NA PENA. APELAÇÃO PENDENTE DE APRECIAÇÃO. CONTEXTO QUE AGUARDAR O JULGAMENTO DO RECURSO NO REGIME SEMIABERTO. PROPORCIONALIDADE.
+ ..
+5. Reconhecida ilegalidade na dosimetria da pena porque considerados desfavoráveis os motivos e as consequências do delito mediante fundamentos inerentes ao tipo penal de tráfico de drogas, bem como porque a condenação anterior que ensejou o reconhecimento da reincidência deu-se pelo delito previsto no art. 28 da Lei n. 11.343/2006. Tal reconhecimento, todavia, não tem impacto na dosimetria, já que o recurso de apelação ainda está pendente de apreciação, sendo incabível, neste momento, sua alteração, por configurar indevida supressão de instância.
+6. A fim de equalizar a situação prisional do paciente, entendo ser suficiente e proporcional que o mesmo aguarde, no regime semiaberto, o julgamento da apelação defensiva, para garantia da ordem pública, da instrução criminal e da aplicação da lei penal.
+7. Ordem concedida em parte apenas para permitir que o paciente aguarde o julgamento da apelação no regime semiaberto. (HC n. 574.911/MG, de minha relatoria, SEXTA TURMA, julgado em 23/6/2020, DJe 30/6/2020.)
+Tal o contexto, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
