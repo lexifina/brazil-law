@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus com pedido liminar interposto por MARCOS ANTONIO RODRIGUES DE PAULA, em face de acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais.
+Colhe-se dos autos que o TJMG denegou a ordem originária, mantendo a decisão de Primeiro Grau que determinou a expedição de mandado de prisão, diante do não comparecimento do paciente à unidade prisional para iniciar o cumprimento da reprimenda a qual foi condenado, nos termos do seguinte acórdão (e-STJ, fl. 56):
+HABEAS CORPUS - EXECUÇÃO PENAL - SALVO-CONDUTO - AGRAVO EM EXECUÇÃO INTERPOSTO - INVIABILIDADE DE EXAME PELA VIA ELEITA - PREVISÃO LEGAL DE RECURSO PRÓPRIO - INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE - PRINCÍPIO DA UNIRRECORRIBILIDADE DAS DECISÕES JUDICIAIS. ORDEM NÃO CONHECIDA.
+Quando as matérias aduzidas no writ são também objeto de agravo em execução, deverão ser analisadas neste, recurso próprio e mais amplo, em obediência ao princípio da unirrecorribilidade das decisões.
+Daí o presente recurso, no qual alega que com a expedição do mandado de prisão, o paciente será preso, em regime diferente de sua pena, ou seja, o qual é regime semiaberto.
+Sustenta que ficou preso durante toda a instrução processual, obtendo o benefício de aguardar o trânsito em julgado de sentença penal em liberdade.
+Aduz que seus familiares mudaram de residência para a Comarca de Esmeraldas em Minas Gerais, sendo juntado documento de comprovação de mudança.
+Narra que é microempreendedor, com o seu trabalho é que sustenta sua família e sua genitora.
+Requereu seja concedida a liminar com a expedição de salvo conduto até o julgamento da ordem. No mérito, que seja ratificada a decisão.
+É o relatório.
+Decido.
+Conforme relatado, a matéria suscitada na presente impetração não foi analisada pelo acórdão impugnado, ao fundamento de que "em relação ao pedido de salvo-induto, há notícia nos presentes autos de que a defesa do paciente interpôs o recurso adequado de agravo em execução, o qual já foi recebido e aguarda por julgamento, conforme informações obtidas por meio do SEEU (seq. 30, SEEU), assim, entendo que é necessário aguardar a deliberação que será realizada, em momento oportuno, pelo juízo a quo, de forma a não violar o princípio da não supressão de instância" (e-STJ, fl. 60).
+Ademais, a Corte de origem ressaltou ainda que não foi demonstrado qualquer situação de constrangimento ilegal possibilitando a concessão da ordem de ofício.
+Assim, esta Corte fica impedida de conhecê-la, sob pena de indevida supressão de instância.
+Neste sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. DESCLASSIFICAÇÃO DA CONDUTA PARA A DESCRITA NO ART. 12 DA LEI N.º 10.826/2003. PEDIDO NÃO APRECIADO PELO TRIBUNAL A QUO. SUPRESSÃO DE INSTÂNCIA. DECISÃO MANTIDA. AGRAVO DESPROVIDO.
+1. Descabe a reforma da decisão que indeferiu liminarmente o habeas corpus, uma vez que o pedido de desclassificação da conduta delitiva do Agravante para a descrita no art. 12 da Lei n.º 10.826/2003 não foi apreciado pelo Tribunal de origem, motivo pelo qual o debate nesta Corte Superior implicaria indevida supressão de instância, com a explícita violação à competência originária para o julgamento de habeas corpus, definida no art. 105, inciso I, alínea c, da Constituição da República.
+2. "Na instância especial, ainda que se entenda se tratar de matéria de ordem pública, não há como se dispensar o necessário debate acerca das questões controvertidas, sob pena de incursão em indevida supressão de instância" (HC 470.704/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 03/12/2019, DJe de 11/12/2019).
+3. Em consequência da manutenção da conduta típica imputada ao Agravante, fica superada a análise da alegação de possibilidade de suspensão condicional do processo, em razão do não preenchimento do requisito objetivo, nos termos do art. 89 da Lei n.º 9.099/1995.
+4. Agravo regimental desprovido."
+(AgRg no HC 581.127/DF, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 16/06/2020, DJe 29/06/2020)
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA ARMADA. HOMICÍDIOS QUALIFICADOS CONSUMADO E TENTADO. PRISÃO PREVENTIVA. EXTEMPORANEIDADE DA MEDIDA EXTREMA. AUSÊNCIA DE CORRELAÇÃO ENTRE OS FATOS NOVOS E OS CRIMES APURADOS. POSSIBILIDADE DE SUBSTITUIÇÃO DA PRISÃO POR MEDIDAS CAUTELARES MAIS BRANDAS. TESES NÃO EXAMINADAS PELO TRIBUNAL DE ORIGEM NO ACÓRDÃO IMPUGNADO. SUPRESSÃO DE INSTÂNCIA. EXCESSO DE PRAZO DA CUSTÓDIA. NÃO CONFIGURADO. COMPLEXIDADE E CIRCUNSTÂNCIAS DA CAUSA. SEGREGAÇÃO FUNDADA NO ART. 312 DO CÓDIGO DE PROCESSO PENAL. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE EXACERBADA DAS CONDUTAS. DELITOS PRATICADOS NO CONTEXTO DE ORGANIZAÇÃO CRIMINOSA. SEGREGAÇÃO JUSTIFICADA E NECESSÁRIA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. RECURSO DESPROVIDO.
+1. Não há como se examinar a alegada extemporaneidade da prisão, a ausência de correlação dos fatos novos com as condutas investigadas e, ainda, a possibilidade de aplicação das medidas cautelares insculpidas no art. 319 do Código de Processo Penal, uma vez que tais teses não foram objeto de deliberação pelo Tribunal de origem no acórdão impugnado, configurando eventual atuação deste Sodalício em indevida supressão de instância. .. "
+(RHC 122.412/MG, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 10/03/2020, DJe 30/06/2020 )
+Ante o exposto, nego seguimento ao presente recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
