@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de pedido de tutela de urgência formulado por BRASAL COMBUSTÍVEIS LTDA.
+A requerente alega encontrar-se pendente na origem agravo em recurso especial, interposto visando sanar ofensa aos arts. 1.022 e 489, § 1º, IV, do CPC/2015. Afirma que, caso o Tribunal a quo "tivesse examinado e aplicado a atenuante prevista no art. 25, inciso III, do Decreto n. 2.181/1997, a multa cominada em desfavor da REQUERENTE seria reduzida consideravelmente" ( fl. 8).
+Justifica o perigo da demora com a possibilidade de inscrição na dívida ativa.
+Pleiteia a concessão de efeito suspensivo ativo ao agravo no recurso especial interposto nos auto do Processo n. 0708085-73.2021.8.07.0018.
+É, no essencial, o relatório.
+Nos termos dos arts. 1.027, § 2º, 1.028, §§ 2º e 3º, e 1.029, § 5º, III, do Código de Processo Civil, a competência para apreciar o pedido de tutela provisória para suspender o processo na origem somente se transfere ao Superior Tribunal de Justiça após o processamento do recurso especial pelo Tribunal de origem.
+O STJ admite o abrandamento da incidência das Súmulas n. 634 e 635 do STF e, por conseguinte, o processamento das tutelas cautelares relativas a recursos especiais pendentes de juízo de admissibilidade na origem para coibir a eficácia de decisão teratológica ou em manifesta contrariedade à jurisprudência assentada pela Corte (AgInt na Pet n. 13.316/MT, relator Ministro Marco Buzzi, Quarta Turma, DJe de 3/8/2020), o que não se verifica na espécie.
+No caso, a recorrente não demonstrou a probabilidade do seu direito, pois, em juízo de cognição rasa, não se verifica deficiência na fundamentação do julgado combatido.
+O acórdão recorrido asseverou que, apesar de afirmar a parte recorrente que o ato impugnado seria abusivo, desarrazoado e desproporcional, a alegação não veio acompanhada de elementos probantes hábeis a demonstrar que a sanção aplicada não teria observado a legislação regente, de modo a não autorizar o Poder Judiciário a se imiscuir na análise do mérito do ato administrativo, visto que não apontada ilegalidade ou abusividade (fl. 465).
+De fato, inclusive no atual momento, a recorrente não dedicou uma única linha a descrever a conduta por ela levada a efeito que levaria à aplicação da minorante por "ter o infrator adotado as providências pertinentes para minimizar ou de imediato reparar os efeitos do ato lesivo" (art. 25, III, do Decreto n. 2.181/1997).
+Em suas razões por ocasião do recurso especial, novamente a parte recorrente apenas alega ser aplicável a atenuante sem apontar a conduta que a justificaria. No máximo, transcreve trecho confuso que menciona que, no momento da autuação, o valor da gasolina foi alterado para R$ 4,919, permanecendo as demais bombas com o valor de R$ 5,99 (fl. 512).
+Por fim, ressalta-se que o acórdão combatido observou, ao transcrever os critérios adotados pela seara administrativa para estabelecer o valor da multa, a aplicação da agravante por "deixar o infrator, tendo conhecimento do ato lesivo, de tomar as providências para evitar ou mitigar suas consequências".
+Ante o exposto, ausente a probabilidade do direito, indefiro o pedido.
+Publique-se. Intimem-se.
