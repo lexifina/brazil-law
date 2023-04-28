@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de recurso especial interposto por MARCONI GLC EMPREENDIMENTOS E PARTICIPACOES LTDA, fundamentado exclusivamente na alínea "a" do permissivo constitucional, contra acórdão proferido pelo TJ/SP.
+Recurso especial interposto em: 07/03/2022.
+Concluso ao Gabinete em: 24/04/2023.
+Ação: de rescisão contratual cumulada com restituição de valores pagos, ajuizada por MARCO ANTONIO BUTTARELLO GENTILE e ANDREA ALVES PEREIRA GENTILE, em desfavor da recorrente, diante da impossibilidade de continuar arcando com as parcelas de contrato particular de compromisso de venda e compra de imóvel.
+Sentença: julgou parcialmente procedentes os pedidos, para declarar a rescisão do compromisso firmado entre as partes, determinando, por conseguinte, a restituição aos recorridos da quantia equivalente a 80% (oitenta por cento) das prestações pagas.
+Acórdão: deu parcial provimento à apelação interposta pela recorrente, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL - Compromisso de compra e venda de imóvel - Ação de rescisão contratual cumulada com restituição de parcelas pagas - 1. Rescisão contratual pelos promitentes compradores. Devolução pela vendedora das parcelas quitadas. Admitida a retenção de 20% (vinte por cento) pela vendedora para ressarcimento de perdas e danos e despesas administrativas. Percentual de retenção de 20% que se mostra suficiente para ressarcir gastos da ré com publicidade, propaganda e administração, a par da inexistência de prova do efetivo dispêndio de quantias a estes fins - 2. Taxa de ocupação do imóvel não pactuada. Pretensão de retenção. Impossibilidade, até por se tratar de terreno não edificado - 3. Débitos incidentes sobre o imóvel (IPTU). Quitação pelos compradores que é devida até a devolução do imóvel - Sentença reformada em parte - Recurso parcialmente provido para autorizar a retenção das quantias devidas pelos autores a título de IPTU, relativas ao período em que estiveram na posse do bem (e-STJ fl. 158).
+Recurso especial: aponta a violação do art. 926 do CPC/2015. Sustenta que os recorridos devem pagar uma taxa pela fruição do imóvel.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da Súmula 568/STJ
+O entendimento do TJ/SP está em harmonia com os julgados do STJ no sentido de que é indevida a taxa de ocupação ou fruição após o desfazimento de promessa de compra e venda de lote não edificado, porquanto a resilição não enseja qualquer enriquecimento do comprador ou empobrecimento do vendedor (AgInt no REsp 1.974.289/SP, 3ª Turma, DJe 22/6/2022). No mesmo sentido: REsp 1.863.007/SP, 3ª Turma, DJe 26/3/2021; AgInt no REsp 1.897.785/SP, 3ª Turma, DJe 14/10/2021; AgInt no REsp 1.941.068/SP, 3ª Turma, DJe 29/9/2021; AgInt no REsp 1.974.868/SP, 4ª Turma, DJe 31/3/2022; AgInt no REsp 1.930.685/SP, 4ª Turma, DJe 19/10/2021 e AgInt no REsp 1896690/SP, 4ª Turma, DJe 26/8/2021.
+Forte nessas razões, com fundamento no art. 932, IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 10% sobre o valor da causa (e-STJ fl. 74) para 15% (quinze por cento), observada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E CIVIL. RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM RESTITUIÇÃO DE VALORES PAGOS. EXTINÇÃO DO VÍNCULO. CULPA DO CONSUMIDOR. TAXA DE FRUIÇÃO. LOTE NÃO EDIFICADO.
+1. Ação de rescisão contratual cumulada com restituição de valores pagos, em virtude de compromisso de compra e venda de imóvel firmado entre as partes.
+2. Consoante a jurisprudência dominante do STJ, é indevida a taxa de ocupação ou fruição após a rescisão de contrato de compra e venda de terreno não edificado, porquanto a resilição não enseja qualquer enriquecimento do comprador ou empobrecimento do vendedor.
+3. Recurso especial conhecido e não provido.
