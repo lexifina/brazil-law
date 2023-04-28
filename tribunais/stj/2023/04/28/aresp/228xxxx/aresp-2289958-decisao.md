@@ -1,0 +1,81 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial interposto por SHEILA FATICA JORDÃO BARILLI contra acórdão proferido pelo tribunal de Justiça do Estado do Rio Grande do Sul, conforme a seguinte ementa:
+RESPONSABILIDADE CIVIL. INDENIZAÇÃO. INTERRUPÇÃO DO FORNECIMENTO DE ENERGIA ELÉTRICA. AUSÊNCIA DE COMPROVAÇÃO DOS FATOS CONSTITUTIVOS DE DIREITO. A responsabilidade civil da concessionária de serviço público é objetiva, na combinação dos artigos 14 e 22, ambos do Código de Defesa do Consumidor. Ainda que ocorra a inversão do ônus da prova, a parte autora terá prerrogativas inerentes a esta relação, como fazer prova mínima dos fatos constitutivos do seu direito, o que não ocorreu no caso em tela. Não restou configurada a falha na prestação do serviço da concessionária diante da falta de elementos que permitam um juízo de procedência. Interrupções inferiores ao prazo de 48 horas estabelecido pelo artigo 176 da Resolução414/2010 da ANEEL. Sentença reformada. APELAÇÃO DA RÉ PROVIDA. APELAÇÃO DA AUTORA DESPROVIDA.
+Os embargos declaratórios foram rejeitados.
+Nas razões do recurso especial, a recorrente alega violação dos arts. 344 do CPC/2015 e 6º, VIII, do CDC, aduzindo não terem sido reconhecidos os efeitos da revelia da parte recorrida, no caso dos autos. Assevera (e-STJ, fls. 391/393):
+Notem, Julgadores, que o Tribunal de Justiça do Estado do Rio Grande do Sul, por meio da 10ª Câmara Cível, foi omisso na aplicação da revelia à parte recorrida, sendo que, mesmo instigado a fazer, através da interposição dos embargos declaratórios, aquele deixou de aplicar a lei federal vigente ao caso concreto, uma vez que o embasamento para julgar a ação improcedente foi as telas sistêmicas trazidas pela recorrida em sua contestação intempestiva. Ocorre que, como bem sabido pelos operadores do direito, somente as questões de direito podem ser trazidas à baila pelo réu revel, e não as questões de fato. Senão bastasse isso, as telas sistêmicas da recorrida são unilaterais, não passando pelos crivos do contraditório e da ampla defesa.
+(..)
+Foi apontado no julgado que "Todavia, não há nos autos qualquer documento que comprove que houve falta de energia no prazo superior ao registrado pela concessionária." No entanto, a douta 10ª Câmara Cível foi omissa na prova testemunhal produzida na demanda, a qual não pode simplesmente ser ignorada ou não valorada. Ressalta-se que o órgão julgador foi pré-questionado acerca desta matéria, por meio dos embargos declaratórios, todavia, não houve decisão do ponto.
+No que se refere à revelia da parte recorrida, cumpre referir que, no presente, não estamos diante de nenhuma exceção do art. 345 do Código de Processo Civil1. Não é demais referir que, no caso, além da revelia, aplica-se a inversão do ônus da prova, conforme art. 6º, VIII, do Código de Defesa do Consumidor, o qual foi aplicado na presente demanda, frente a responsabilidade objetiva da concessionária e a hipossuficiência do consumidor.
+Ainda, em que pese exista a possibilidade de o réu revel assumir o processo a qualquer tempo, no estado em que se encontrar, o recorrido deixou de cumprir seu ônus, uma vez que não há juntada de qualquer documento ou produção de qualquer outra prova referente ao suposto período menor de falta de luz. Por tanto, a decisão conforme proferida contraria totalmente o caderno processual.
+Aduz afronta aos arts. 926 e 489 do CPC/2015, sob o argumento de que o Tribunal de origem não teria apresentado fundamentação suficiente e adequada a justificar a distinção feita entre o caso dos autos e julgados anteriores referentes aos mesmo fatos e ao mesmo local, nos quais foi reconhecido o dano a ser indenizado. Assevera (e-STJ, fls. 394/400):
+No caso, todos os precedentes jurisprudenciais trazidos ao feito antes do julgamento dos recursos apontaram o reconhecimento do dano moral, afastando a ocorrência de força maior ou caso fortuito, sendo que o julgado da própria 10ª Câmara Cível, deste Tribunal de Justiça, diz que "Hipótese em que restou comprovada a falha na prestação do serviço pela ré, consistente na suspensão do fornecimento de energia elétrica e demora no seu restabelecimento, sem que a requerida tenha evidenciado a ocorrência de qualquer situação capaz de justificar a impossibilidade de normalização em tempo razoável."(Apelação nº 5000309-58.2019.8.21.0082/RS)  grifo nosso
+O entendimento uníssono das Câmaras Cíveis que analisaram o caso concreto foi por afastar as excludentes de ilicitude e, mesmo quando mencionado no decisum que poderiam ter ocorrido eventos climáticos capazes de ocasionar a falta de energia elétrica, o tempo em que o consumidor ficou sem luz-no caso 13 dias sendo 10 deles entre 07 e 17 de janeiro de 2019, é falha demasiada grave e da aso ao dano moral pleiteado.
+Verifica-se que não houve qualquer distinção apontada pelos Julgadores no Acórdão proferido neste feito, capaz de justificar o entendimento diverso dado para o mesmo caso em relação aos precedentes jurisprudenciais para os casos idênticos trazidos pelo Recorrente, que amparam o direito concedido aos seus vizinhos.
+(..)
+Como já dito, neste momento processual não cabe analise probatória, porém é certo que se todos os outros casos que foram julgados pelo Tribunal de Justiça, sendo citadas a 6ª, a 9ª e a própria 10ª Câmaras Cíveis, mantiveram a condenação pelos danos morais, afastando qualquer excludente de responsabilidade e reconhecendo a falha na prestação dos serviços, esse é o entendimento que deve prevalecer, por retratar a realidade dos fatos.
+Reforça-se que o Acórdão traz verdadeira insegurança jurídica para uma cidade tão pequena como é a de Putinga/RS, onde todos se conhecem - são pouco mais de 4.000 habitantes - sendo que todos os vizinhos do Autor que foram vítimas da falha da prestação de serviços receberão a indenização competente, com exceção do Recorrente, sem qualquer justificativa para distinção do julgado, o que é inadmissível.
+Admitir e manter esse tipo de decisão é afastar a credibilidade do poder judiciário, além de violar direito do consumidor e cidadão vítima do ato ilícito cometido pelo Recorrida.
+Foram apresentadas contrarrazões.
+O Tribunal de origem inadmitiu o recurso especial por inexistência de afronta aos arts. 489 e 1.022 do CPC/2015 e Súmulas n. 7 e 83 do STJ.
+É o relatório.
+Passo a decidir.
+Presentes os pressupostos de admissibilidade do agravo, passo a analisar o recurso especial.
+A insurgência não merece prosperar.
+Ao tratar dos efeitos da revelia, o Tribunal de origem assim se pronunciou (e-STJ, fls. 321/324):
+A omissão em contestar gera a revelia, cujo efeito material é a presunção juris tantum de veracidade das alegações formuladas na inicial, mas tal presunção não é absoluta, e não conduz necessariamente ao julgamento de procedência do pedido.
+Para que o efeito da confissão ficta se opere por completo, é necessário que haja verossimilhança das alegações, e que o magistrado, ao analisar as provas constantes dos autos, não se convença em sentido diverso.
+(..)
+E, no caso, embora reconhecida a revelia, o julgamento de improcedência é medida que se impõe. Pretendeu a demandante a condenação da ré ao pagamento de indenização dos danos morais causados pela interrupção no fornecimento de energia elétrica em diversos períodos, o que lhe ocasionou transtornos de ordem moral.
+A ré é concessionária de serviço público de caráter essencial, subordinado ao princípio da continuidade da sua prestação, cuja responsabilidade civil segue a regra do art. 22 do Código de Defesa do Consumidor
+(..)
+A responsabilidade civil é, pois, objetiva, independentemente de prova de culpa, nos termos do artigo 14 do Código de Defesa do Consumidor, sendo suficiente para o reconhecimento da obrigação de indenizar a ocorrência de um dano, a autoria e o nexo causal.
+A requerida apenas será exonerada da obrigação de indenizar quando comprovar a ruptura do liame causal, demonstrando que o defeito no serviço inexistiu, que houve culpa exclusiva do consumidor ou, ainda, a ocorrência de caso fortuito ou força maior.
+Acerca do prazo para o restabelecimento do fornecimento de energia elétrica, dispõe o art. 176 da Resolução nº 414/2010 da ANEEL:
+(..)
+A demandante sustenta que as interrupções se deram em 16/12 a 18/12 de 2018,07/01/2017, 08/01 a 12/01/2019, 13/01 a 14/01/2019 e 15/01 a 17/01 de 2019. A descontinuidade não é controvertida pela ré, que confirma que a interrupção foi:
+Das 06h36 às 9h do dia 18/12/2018;
+Das 12h20 às 15h26 do dia 07/01/2019;
+Das 13h23 do dia 08/01/2019 às 7h40 do dia 10/01/2019;
+Das 09h01 do dia 10/01/2019 às 19h06 do dia 10/01/2019;
+Das 19h14 do dia 10/01/2019 às 16h58 do dia 12/01/2019 e ;
+Das 23h40 do dia 14/01/2019 às 01h51 15/01/2019;
+Como se observa, em nenhum dos momentos de interrupção o prazo de 48 horas para o restabelecimento na zona rural foi desrespeitado, inexistindo, portando, falha na prestação dos serviços da concessionária.
+No ponto, destaco que, anda que ocorra a inversão do ônus da prova e a responsabilidade da ré seja objetiva, a parte autora terá prerrogativas inerentes a esta relação, como fazer prova mínima dos fatos constitutivos do seu direito, nos termos do art. 373 do CPC:
+(..)
+Todavia, não há nos autos qualquer documento que comprove que houve falta de energia no prazo superior ao registrado pela concessionária.
+Dessa forma, não restou configurada a falha na prestação do serviço da concessionária diante da falta de elementos que permitam um juízo de procedência.
+O entendimento adotado no acórdão recorrido quanto à natureza relativa da presunção de veracidade dos fatos decorrentes dos efeitos da revelia, não se determinando a procedência automática do pedido, coincide com a jurisprudência do STJ sobre a questão. No mesmo sentido:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INVERSÃO DO ÔNUS DA PROVA. REVELIA. EFEITOS. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. DECISÃO MANTIDA.
+1. "A inversão do ônus da prova, nos termos do art. 6º, VIII, do Código de Defesa do Consumidor, não é automática, dependendo da constatação, pelas instâncias ordinárias, da presença ou não da verossimilhança das alegações e da hipossuficiência do consumidor" (AgInt no AREsp 1586560/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 09/08/2021, DJe 31/08/2021).
+2. "Os efeitos da revelia são relativos e não acarretam a procedência automática do pedido, devendo o magistrado analisar as alegações do autor e a prova dos autos" (AgInt no AREsp 1915565/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 16/11/2021, DJe 18/11/2021).
+3. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+4. No caso concreto, o Tribunal de origem concluiu pela ausência de comprovação do direito da autora. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.738.687/PB, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 23/5/2022, DJe de 26/5/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. COMISSÃO DE CORRETAGEM. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. AUSÊNCIA. ADEQUADA FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. REVELIA. PRESUNÇÃO RELATIVA DE VERACIDADE DOS FATOS ALEGADOS NA PETIÇÃO INICIAL. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Cuida-se, na origem, de ação de cobrança de comissão de corretagem.
+2. Não ocorre ofensa aos arts. 489 e 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+3. Não há que se falar em omissão ou contradição do acórdão recorrido acerca de questão que não foi oportunamente levada ao seu conhecimento, nas razões do recurso de apelação, sendo trazida pela parte apenas em embargos de declaração, em nítida inovação recursal.
+Precedentes.
+4. Na hipótese de revelia, a presunção de veracidade dos fatos alegados pelo autor é relativa, a ele cabendo, ainda assim, o ônus da prova quanto ao fato constitutivo do direito alegado.
+Precedentes.
+5. No particular, eventual alteração do decidido no acórdão impugnado, no que se refere à verossimilhança das alegações do autor quanto à sua contratação para a intermediação de negócios imobiliários, com cláusula de exclusividade, bem como quanto à ausência do pagamento da respectiva comissão, demandaria o reexame de fatos e provas, o que, contudo, é vedado em recurso especial pela Súmula 7/STJ.
+6. Agravo interno não provido.
+(AgInt no REsp n. 1.951.412/TO, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 25/10/2021, DJe de 28/10/2021.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INOCORRÊNCIA. REVELIA. PRESUNÇÃO DE VERACIDADE DAS ALEGAÇÕES. NECESSIDADE DE COMPROVAÇÃO DOS FATOS CONSTITUTIVOS DO DIREITO. POSSIBILIDADE DE JULGAMENTO IMPROCEDENTE DEVIDO À NÃO COMPROVAÇÃO DAS ALEGAÇÕES.
+1. Verifica-se não ter ocorrido ofensa ao art. 1.022, II, do CPC/2015, na medida em que o Tribunal a quo dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. O entendimento do STJ já se firmou no sentido de que "a decretação da revelia do réu não resulta, necessariamente, em procedência do pedido deduzido pelo autor, sobretudo quando ausente a prova dos fatos constitutivos alegados na petição inicial."
+(REsp 1.732.807/RJ, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 14/8/2018, DJe 17/8/2018).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.536.209/RJ, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 24/9/2019, DJe de 26/9/2019.)
+Nesse ponto, incidente o óbice da Súmula n. 568/STJ.
+Além disso, a desconstituição das conclusões do acórdão recorrido a respeito da inexistência de prova mínima dos fatos constitutivos dos direitos da recorrente demandaria o revolvimento do acervo fático-probatório dos autos, vedado em recurso especial, a teor da Súmula n. 7/STJ.
+No acórdão dos embargos de declaração, o Tribunal de origem consignou (e-STJ, fl. 374):
+Por fim, esclareço que, em que pese exista precedente de caso análogo em que foi julgada procedente demanda, o resultado do julgamento de cada caso depende da análise do conjunto probatório; dessa forma, impõe-se a manutenção da decisão
+Dessa forma, também quanto ao ponto, incidente o óbice da Súmula n. 7/STJ, pois a modificação do entendimento adotado a respeito da distinção do caso concreto com os julgados supostamente relacionados, demandaria nova análise do contexto fático dos autos, não admitido nos limites de admissibilidade do recurso especial.
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015 c/c o art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, percentual esse justificado pelo tempo decorrido entre a interposição do recurso e a data de julgamento e a complexidade da causa, nos termos do art. 85, § 11, do Código de Processo Civil. Os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal devem ser observados, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. ENERGIA ELÉTRICA. AÇÃO DE INDENIZAÇÃO. CORTE NO FORNECIMENTO. REVELIA. ENTENDIMENTO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. AUSÊNCIA DE FUNDAMENTAÇÃO E DISTINÇÃO. REEXAME DE MATÉRIA DE FATO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
