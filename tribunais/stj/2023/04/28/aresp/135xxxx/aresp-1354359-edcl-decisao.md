@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra a decisão em que neguei provimento ao agravo em recurso especial.
+Em seu recurso, a parte embargante argumentou a existência de omissão. Primeiro, sustenta que o agravo em recurso especial não deveria ser conhecido, diante da intempestividade do recurso interposto na origem. Por fim, pede a fixação de honorários recursais.
+A parte embargada, regularmente intimada, pediu o não acolhimento do recurso (fls. 1541/1547, e-STJ).
+Assim posta a questão, verifico que o recurso merece parcial provimento.
+Quanto à intempestividade do recurso especial interposto na origem, não se desconhece que o juízo de admissibilidade é bifásico. Portanto, a decisão da origem não vincula esta Corte. O embargante, porém, não demonstrou a intempestividade do recurso. Da análise do protocolo do recurso, constam duas datas: 3/10/17 e 5/10/17.
+A primeira data refere-se à interposição do recurso junto ao TJSP. O recurso é, portanto, tempestivo. A segunda data diz respeito à remessa interna do TJSP para o Pátio do Colégio, local em que tramitavam processos físicos em segundo grau à época. O recurso atende aos requisitos de admissibilidade, portanto. A decisão que admitiu o agravo em recurso especial não merece reforma.
+Quanto aos honorários recursais, no entanto, verifico que a decisão recorrida foi omissa quanto à majoração da condenação ao pagamento de honorários de sucumbência.
+Conforme entendimento desta Corte, "(..) sempre que o julgador, analisando recurso que inaugurou o grau recursal, confirmar a sucumbência anterior (não conhecendo ou negando provimento ao recurso) poderá majorar os honorários advocatícios a fim de remunerar o advogado do vencedor na fase recursal" (EDcl no AgInt no REsp n. 1.573.573/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 4/4/2017, DJe de 8/5/2017).
+No caso, o TJSP, quando já em vigor o atual Código de Processo Civil, deu provimento à apelação do embargante e fixou honorários de sucumbência em R$ 50.000,00. Interpostos recursos a esta Corte, negou-se provimento ao agravo, a fim de manter inalterado o acórdão recorrido.
+É cabível, portanto, a majoração dos honorários:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. ACÓRDÃO EMBARGADO PUBLICADO NA VIGÊNCIA DO CPC/2015. FALTA DE SIMILITUDE FÁTICA. PRESCRIÇÃO. REPARAÇÃO. DIREITOS AUTORAIS. ILÍCITO EXTRACONTRATUAL. ACÓRDÃO EMBARGADO CONFORME A JURISPRUDÊNCIA DO STJ. NÃO CABIMENTO. DECISÃO MANTIDA.
+(..)
+5. É devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: a) decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso. 6. Não haverá honorários recursais no julgamento de agravo interno e de embargos de declaração apresentados pela parte que, na decisão que não conheceu integralmente de seu recurso ou negou-lhe provimento, teve imposta contra si a majoração prevista no § 11 do art. 85 do CPC/2015.
+(..)
+(AgInt nos EREsp n. 1.539.725/DF, relator Ministro Antonio Carlos Ferreira, Segunda Seção, julgado em 9/8/2017, DJe de 19/10/2017)
+Em face do exposto, acolho os embargos com efeitos modificativos para, nos termos do art. 85, § 11, do CPC, majorar em 10% (dez por cento) a quantia já arbitrada a título de honorários advocatícios em favor da parte embargante, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
