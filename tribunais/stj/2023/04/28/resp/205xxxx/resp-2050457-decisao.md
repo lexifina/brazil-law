@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão assim ementado:
+APELAÇÃO CRIMINAL - TRÁFICO DE DROGAS - ABSOLVIÇÃO - IMPOSSIBILIDADE - MATERIALIDADE E AUTORIA DELITIVA COMPROVADAS - ACERVO PROBATÓRIO CONTUNDENTE - PALAVRA DOS POLICIAIS - CREDIBILIDADE - CONDENAÇÃO NECESSÁRIA - INCIDÊNCIA DA CAUSA DE DIMINUIÇÃO DE PENA PREVISTA NO ART. 33, §4º, DA LEI 11.343/06 - INVIABILIDADE - REQUISITOS LEGAIS NÃO PREENCHIDOS - DECOTE DA AGRAVANTE PREVISTA NO ART. 61, INCISO II, ALÍNEA "J", DO CÓDIGO PENAL - CABIMENTO - ESTADO DE CALAMIDADE PÚBLICA QUE NÃO INFLUENCIOU NA PRÁTICA DELITUOSA - FIXAÇÃO DO REGIME SEMIABERTO PARA INICIAL CUMPRIMENTO DA PENA - POSSIBILIDADE - RECURSO PARCIALMENTE PROVIDO.
+- Se os elementos de convicção colhidos nos autos comprovam que os acusados estavam transportando grande quantidade de entorpecentes entre diferentes entes da federação, com nítida finalidade mercantil, deve ser confirmada a condenação pela prática do crime tipificado no art. 33, c/c art. 40, V, ambos da Lei 11.343/06.
+- Não obstante a primariedade e os bons antecedentes ostentados pelos réus, a vultosa quantidade de entorpecentes apreendida e o modus operandi por eles utilizado para o transporte demonstra que ambos exerciam atividades ilícitas com habitualidade, não sendo possível a concessão da causa de diminuição prevista no art. 33, §4º, da Lei de Tóxicos.
+- Considerando que o delito não se deu em razão do estado de calamidade pública e nem os réus se beneficiaram dele para a prática delituosa, deve ser afastada a agravante tipificada no art. 61, II, alínea "j", do Código Penal, para não incorrermos em responsabilização penal objetiva.
+- A quantidade de pena aplicada, a primariedade e os bons antecedentes dos réus autorizam a fixação do regime semiaberto para o inicial cumprimento da reprimenda privativa de liberdade, nos termos do art. 33, §2º, "b" e §3º, do CP.
+V.V.
+- Em se tratando de elevada quantidade de droga, a fixação do regime fechado se mostra socialmente recomendável para o alcance da tríplice finalidade da pena, diante da maior reprovabilidade da conduta, tudo nos termos do art. 42 da Lei nº 11.343/06.
+Sustenta o MP violação dos arts. 33, §2º e 3º, e 59, caput e inciso III, todos do CP e 42 da Lei 11.343/06.
+Sustenta que, "apesar de reconhecer a exorbitante grande quantidade de drogas apreendidas - 111kg de maconha, o acórdão desconsiderou que o §3º, do art. 33, do Código Penal, determina que a fixação do regime inicial far-se-á com observância dos critérios previstos no art. 59 do CP (caput e inciso III), que, no caso em tela, deve ser interpretado em consonância com o disposto no art. 42 da Lei de Tóxicos (que determina a preponderância da natureza e da quantidade de droga na fixação das penas)" (fl. 817).
+Contrarrazoado e admitido na origem, manifestou-se o Ministério Público Federal pelo provimento do recurso.
+Acerca da questão, assim se pronunciou o Tribunal de origem (fl. 778):
+Tendo em vista a quantidade de pena aplicada, a primariedade e os bons antecedentes do réu, fixo o regime semiaberto para o inicial cumprimento da reprimenda privativa de liberdade, nos termos do art. 33, §2º, "b" e §3º, do CP.
+Verifica-se, na espécie, que o Tribunal de origem concluiu, a par da expressiva quantidade de drogas apreendidas, no caso 111kg de maconha, que o regime semiaberto seria adequado ao cumprimento da pena, levando em conta a primariedade e os bons antecedentes do réu.
+É bem verdade que, nos termos da jurisprudência, é possível a fixação do regime mais gravoso levando em conta a quantidade de droga apreendida. Todavia, inexiste imperativo legal nesse sentido, pelo que não há falar em ilegalidade, sendo imprópria, de todo modo, a via do especial à revisão do entendimento, a teor da Súmula 7/STJ.
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se.
+Intimem-se.
