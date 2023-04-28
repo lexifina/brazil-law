@@ -1,0 +1,7 @@
+DECISÃO
+Trata-se de simples petição apresentada pela Defesa (Prfn n. 00377451/2023), na qual, em suma, busca a prioridade no julgamento deste writ.
+Assim, sustenta e requer: "A paciente, impetrou ordem de habeas corpus criminal com pedido liminar, neste colêndo Superior Tribunal de Justiça na data de 27/07/2022, sendo na ocasião a liminar indeferida e os autos distribuídos por dependência ao Eminente Ministro João Otávio de Noronha, ficando os autos conclusos para decisão na data de 23/08/2022. Sucede que na data de 29/09 de 2022, os autos foram redistribuidos por conta de sucessão, sendo então encaminhados ao Eminente Desembargador Convocado - Jesuíno Rissato, ficando prontamente conclusos para decisão. Contudo, na data de 07/12/2022, novamente por ocasião de sucessão, os autos foram redistribuídos e conclusos para decisão ao Eminente Ministro Relator, Messod Azulay Neto, estando os autos pendente de decisão até a presente data. (..) ANTE O EXPOSTO, pelos motivos acima delineados, valendo-se do artigo 931 do Código de Processo Civil e em razão do processo estar concluso para despacho desde 07/12/2022 requer seja promovido o devido andamento ao feito, no prazo de 30 (trinta) dias, conforme disposição legal" (fls. 99-101).
+É o breve relatório.
+Decido.
+Tendo em vista que o mérito deste habeas corpus está sendo apreciado nesta toada, julgo prejudicado o presente pedido, pela perda de seu objeto.
+P. I.
