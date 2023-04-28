@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ANDRÉ DA SILVA ROMEIRO SAMORA contra decisão proferida pelo Ministro Jorge Mussi que não conheceu do agravo em recurso especial (e-STJ fls. 171-173).
+O embargante sustenta: a) existência de omissão na decisão embargada, uma vez que não teria sido apreciada a possibilidade de deferimento de habeas corpus de ofício; e b) há julgados desta Corte que teriam deferido a ordem nas mesmas circunstâncias.
+Requer acolhimento dos embargos para sanar o vício apontado com atribuição de efeitos infringentes.
+Contrarrazões às e-STJ fls. 193-199.
+Memoriais apresentados às e-STJ fls. 204-225.
+É o relatório.
+O art. 619 do Código de Processo Penal dispõe que "aos acórdãos proferidos pelos Tribunais de Apelação, câmaras ou turmas, poderão ser opostos embargos de declaração, no prazo de dois dias contados da sua publicação, quando houver na sentença ambiguidade, obscuridade, contradição ou omissão", tendo a jurisprudência desta Corte os admitido, também, com o fito de sanar eventual erro material na decisão embargada.
+O pleito de deferimento da ordem de habeas corpus sequer constou dos pedidos formulados no agravo ou no recurso especial. Não há, portanto, vício a ser sanado.
+D e acordo com a jurisprudência desta Corte, não prospera a invocação de habeas corpus de ofício como meio de superação da inadmissibilidade do recurso especial.
+Nesse sentido, confiram-se os recentes julgados:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO RECURSO ESPECIAL. PRAZO DE 15 (QUINZE) DIAS CORRIDOS. ALEGADA JUSTA CAUSA PARA A INTERPOSIÇÃO DO RECURSO FORA DO PRAZO LEGAL. AUSÊNCIA DE COMPROVAÇÃO NO ATO DE INTERPOSIÇÃO DO RECURSO. JUSTA CAUSA NÃO CONFIGURADA. PLEITO DE CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. UTILIZAÇÃO COMO MEIO PARA ANÁLISE DO MÉRITO DO RECURSO. INVIABILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+7. Quanto à pretensão de concessão de habeas corpus, de ofício, para conhecer das matérias ventiladas no recurso especial, é firme o entendimento deste Tribunal Superior no sentido de que a concessão do writ, de ofício, isto é, por iniciativa dos juízes e Tribunais, deve ocorrer quando detectada, no curso do processo, ilegalidade flagrante, na forma do art. 654, § 2º, do CPP, o que não ocorreu, na espécie, em relação às matérias suscitadas no recurso especial, não se admitindo a sua invocação pela defesa como mecanismo para tentar driblar a não admissão do recurso interposto e, assim, se obter o pronunciamento judicial acerca do mérito recursal. Precedentes.
+8. Agravo regimental não provido.
+(AgRg no AREsp 2.172.071/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 13/9/2022, DJe de 19/9/2022).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. ART. 38 DA LEI N. 9.605/98. PRETENSA ALEGAÇÃO DE AFRONTA AO ART. 60, § 2.º, DO CÓDIGO PENAL. AUSÊNCIA DE PREQUESTIONAMENTO. PLEITOS PELO RECONHECIMENTO DE ATIPICIDADE DA CONDUTA, INCIDÊNCIA DO PRINCÍPIO DA INSIGNIFICÂNCIA E IMPOSIÇÃO DE PENA SUBSTITUTIVA DE MULTA. INVERSÃO DO JULGADO. SÚMULA N. 7/STJ. PEDIDO PARA CONCESSÃO DE HABEAS CORPUS, DE OFÍCIO. UTILIZAÇÃO COMO MEIO PARA ANÁLISE DO MÉRITO DO RECURSO. INVIABILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não foi analisada pelo Tribunal a quo, nem objeto dos embargos de declaração opostos na origem, a tese segundo a qual houve afronta ao § 2.º do art. 60 do Código Penal. Incidência das Súmulas n. 282/STF e 356/STF.
+2. O Tribunal de origem concluiu que foi devidamente comprovada a materialidade e a autoria do delito, que não estão presentes os requisitos necessários à incidência do princípio da insignificância e que a pena substitutiva de limitação de fim de semana é a que melhor se adequa ao caso concreto. A inversão do julgado encontra óbice na Súmula n. 7/STJ.
+3. Nos termos do art. 654, § 2.º, do Código de Processo Penal, o habeas corpus de ofício é deferido por iniciativa dos Tribunais quando detectarem ilegalidade flagrante, não se prestando como meio para que a Defesa obtenha pronunciamento judicial acerca do mérito de recurso que não ultrapassou os requisitos de admissibilidade.
+4. Agravo regimental desprovido.
+(AgRg no AREsp 2.026.811/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 8/11/2022, DJe de 18/11/2022).
+A decisão embargada consignou que o recurso não merecia ser conhecido, porquanto a parte, nas razões do agravo em recurso especial, não logrou infirmar os fundamentos da inadmissão (e-STJ fls. 171-173):
+O decisum agravado não admitiu o apelo nobre com amparo na Súmula n. 7/STJ; impedimento este que também obstou o conhecimento do recurso pelo alegado dissenso jurisprudencial.
+No entanto, o agravante não se desincumbiu de seu ônus de refutar especificamente o fundamento supracitado, a fim de demonstrar a sua incorreção, limitando-se a mencionar, genericamente, que "em face do fundamento de que o recurso especial promovido pela Defesa iria de encontro com a súmula vinculante 07 do Superior Tribunal de Justiça, percebe-se tratar de decisão retórica, a qual não analisa efetivamente os argumentos explicitados" e que "questões afetas à dosimetria da pena, dizem respeito a matérias de direito e não fáticas" (e-STJ fl. 110). Além disso, não houve impugnação quanto à divergência jurisprudencial.
+Vale ressaltar que a Corte Especial do STJ, no recente julgamento dos Embargos de Divergência em Recurso Especial n. 1.424.404/SP, de Relatoria do Ministro Luis Felipe Salomão, DJe 17/11/2021, firmou orientação pela qual a "de ser inafastável o dever do recorrente de impugnar especificamente todos os fundamentos que levaram à inadmissão do apelo extremo, não se podendo falar, na hipótese, em decisão cindível em capítulos autônomos e independentes".
+A jurisprudência desta Corte consolidou, ainda, o entendimento segundo o qual "os recursos devem impugnar, de maneira específica e pormenorizada, os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos. Não são suficientes meras alegações genéricas sobre as razões que levaram à inadmissão do agravo ou a insistência no mérito da controvérsia" (AgRg no AREsp n. 2.016.489/MG, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, DJe de 13/6/2022).
+Na mesma linha, o art. 932, III, do Código de Processo Civil de 2015 afirma que o agravo que deixa de impugnar de maneira clara e específica os fundamentos da decisão que pretendia desconstituir não merece ser conhecido. O Regimento Interno do Superior Tribunal de Justiça traz idêntica previsão no art. 253, I, do RISTJ.
+ ..
+Em relação à Súmula n. 7/STJ, ressalto, ainda, ser de rigor que, além da contextualização do caso concreto, a impugnação contenha as devidas razões pelas quais se entende ser possível o conhecimento da pretensão independentemente do reexame fático-probatório, mediante, por exemplo, a apresentação do cotejo entre as premissas fáticas e as conclusões delineadas no acórdão recorrido e sua tese recursal, a fim de demonstrar a prescindibilidade do reexame fático-probatório, o que não ocorreu no caso.
+A decisão consigna expressamente a razão para não conhecer do agravo, notadamente, a ausência de impugnação do óbice da Súmula 7/STJ, o que ensejou a não admissão do recurso especial na origem.
+Assim, o que se observa é o simples inconformismo do embargante com a solução dada por este Tribunal à controvérsia, o que não enseja a oposição de aclaratórios.
+A propósito:
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO EM RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ALEGAÇÃO DE OBSCURIDADE OU CONTRADIÇÃO. VÍCIO INEXISTENTE. PRETENSÃO DE REEXAME DA MATÉRIA. IMPOSSIBILIDADE.
+1. Os embargos de declaração somente são cabíveis quando presente, ao menos, uma das hipóteses previstas no art. 619 do Código de Proce sso Penal.
+2. Na espécie, a controvérsia foi solucionada integralmente, com fundamentação clara, adequada e suficiente, razão pela qual não há ofensa ao citado dispositivo. A insatisfação com o resultado trazido na decisão judicial não significa deficiência ou ausência de prestação jurisdicional.
+Precedentes.
+3. Embargos de declaração rejeitados.
+(EDcl no REsp 1.931.145/SP, relator Ministro Sebastião Reis Júnior, Terceira Seção, julgado em 24/08/2022, DJe de 26/08/2022.)
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
