@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de ADRIANO BRANCO ALVES contra v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, nos autos da apelação criminal n. 0001207-90.2017.8.26.0599.
+Depreende-se dos autos que o paciente foi condenado, em primeira instância, às penas de 05 (cinco) anos, 07 (sete) meses e 15 (quinze) dias de reclusão, em regime inicial fechado, e 01 (um) ano e 03 (três) meses de detenção, em regime inicial semiaberto, mais o pagamento de 29 (vinte e nove) dias-multa, como incurso nas iras do art. 12 e 16, parágrafo único, III, c/c art. 20, todos da Lei n. 10.826/2003 (fls. 257-266).
+Opostos aclaratórios, foram rejeitados (fls. 373-380).
+Inconformada, a defesa interpôs apelação perante o eg. Tribunal de origem, que, por unanimidade, deu parcial provimento ao recurso, a fim de, "afastada sua condenação por infração ao art. 12, caput, mantê-la quanto ao crime mais grave previsto no art. 16, Parágrafo único, III, ambos da Lei nº 10.826/03, readequando as penas, por conta do crime único, para 06 (seis) anos e 09 (nove) meses de reclusão, em regime semiaberto e, 22 (vinte e dois) dias-multa", consoante voto condutor do v. acórdão de fls. 334-354.
+Daí o presente writ, no qual a defesa alega, em síntese, a ocorrência de constrangimento ilegal, pois a conduta imputada ao paciente - art. 16, parágrafo único, da Lei n. 10.823/2003 - é atípica.
+Afirma que o aresto impugnado destoou do entendimento firmado no REsp n. 1.627.028/SP.
+Sustenta que "as granadas apreendidas com o Paciente são todas de efeito moral/químico, sem nenhuma correlação de causar grandes explosões ou dispersar materiais letais" (fl. 10).
+Argumenta que, "a conduta, então, imputada ao Paciente não se subsome ao art. 16, par. ún., inc. III do art. 13 do Estatuto do Desarmamento, e, tratando-se de crime único, em razão da atipicidade patente ora demonstrada, a condenação deve recair no art. 12 do mesmo diploma legal, com redimensionamento da pena, adequada à conduta praticada, estabelecendo-se o patamar mínimo e início do cumprimento em regime aberto, com substituição da medida corpórea em restritiva de direitos" (fl. 12).
+Requer, assim, a concessão da ordem.
+A liminar foi indeferida (fls. 684-686). Às fls. 737-739 e 756-759, a defesa pleiteia a reconsideração da decisão que indeferiu o pedido liminar.
+Informações prestadas às fls. 689-733.
+O Ministério Público Federal, às fls. 742-743, manifestou-se pela denegação da ordem, em parecer assim ementado:
+"HABEAS CORPUS. POSSE DE ARTEFATO EXPLOSIVO. CRIME PREVISTO NO ART. 16, PARÁGRAFO ÚNICO, INCISO III, DALEI 10.826/03. ATIPICIDADE DA CONDUTA NÃO CONFIGURADA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE.
+- Pela denegação da ordem." (fl. 742).
+É o relatório.
+Decido.
+Preliminarmente, em razão da ausência de novos argumentos que possam infirmar o que decidido em sede de liminar, não há como acolher o pleito de reconsideração de fls. 737-739 e 756-759. O r. decisum está suficientemente fundamentado, em virtude do pedido está relacionado ao próprio mérito da impetração, não restando configurada, de plano, flagrante ilegalidade, a ensejar o deferimento da medida de urgência. Ou seja, os fundamentos invocados na decisão permanecem íntegros, razão pela qual indefiro o pedido de reconsideração.
+No mérito, conforme relatado, busca-se na presente impetração a absolvição do paciente do delito previsto no art. 16, parágrafo único, III, da Lei n. 10.826/2003.
+Transcrevo, a fim de delimitar a quaestio, os seguintes trechos do v. acórdão impugnado:
+"Alega ADRIANO, em princípio, atipicidade da conduta prevista no art. 16, parágrafo único, III, da Lei nº 10.826/2003, haja vista que, se tratando de granada de natureza química, seu uso é destinado para".. intervenção em local fechado, de baixíssimo poder explosivo .."e que, ademais, ".. estavam vencidas ..".
+Em que pese o fato de estarem as granadas química com o prazo de validade expirado, conforme Relatório Técnico Pericial do Grupo de Operações Táticas da Polícia Militar (fls. 82/136), ".. as Granadas de Mão analisadas nos itens "A", "B", "C" e "D" encontravam-se intactas em plena eficácia para todos os fins (efeitos), inclusive para o acionamento de forma convencional, conforme constatado nos testes de eficácia e caso fossem acionadas de posse ou em contato direto com pessoas causariam queimaduras graves, perda parcial de membros e poderiam iniciar princípio de incêndios em materiais inflamáveis e fácil combustão, aliado ao desconforto propiciado pelos Agentes Químicos Lacrimogêneo (CS) e Irritante (OC) ..".
+Portanto, mesmo que as granadas contenham gases agressivos (lacrimejantes ou de pimenta), ou sejam de efeito moral ou pirotécnico (propagação de fumaça, projéteis de borracha, som e luz), não deixam de ser artefatos explosivos vulnerantes de uso restrito das Forças Armadas e Policiais, enquadrando-se a conduta do Apelante no art. 16, Parágrafo único, III, da Lei nº 10.826/03, já que específico para artefatos explosivos, não havendo que se falar em atipicidade de sua conduta" (fls. 345-346, grifei).
+Com efeito, o tipo penal criminaliza a conduta de quem "possuir, detiver, fabricar ou empregar artefato explosivo ou incendiário, sem autorização ou em desacordo com determinação legal ou regulamentar".
+De acordo com a moldura fática delineada no aresto impugnado, as granadas apreendidas possuíam potencial lesivo de causar queimaduras graves, perda parcial de membros, além de iniciar princípio de incêndios em materiais inflamáveis de fácil combustão.
+Desta feita, o acolhimento da pretensão defensiva demanda reexame de provas, medida interditada na via estreita do habeas corpus.
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada pela concessão da ordem de ofício.
+Ante o exposto, denego a ordem de habeas corpus.
+P. e I.
