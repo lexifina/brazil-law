@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo interposto por JORGE SOARES PEREIRA contra decisão de inadmissibilidade de recurso especial, fundado na alínea "a" do permissivo constitucional, o qual desafia acórdão do Tribunal Regional Federal da 2ª Região assim ementado:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. EXTINÇÃO. 924, II, CPC. EMBARGOS DEDECLARAÇÃO. CARÁTER INFRINGENTE. POSSIBILIDADE. PREMISSA EQUIVOCADA. QUITAÇÃO DO DÉBITO. NÃO OCORRÊNCIA. CRÉDITO PÚBLICO. INDISPONÍVEL.
+1. A atribuição de efeitos infringentes aos embargos de declaração é possível, em hipóteses excepcionais, para corrigir premissa equivocada no julgamento, bem como nos casos em que, sanada a omissão, a contradição ou a obscuridade, a alteração da decisão surja como consequência necessária. Precedentes do STJ.
+2 . In casu, a decisão agravada acolheu os embargos de declaração opostos pela exequente, para anular a sentença anteriormente proferida, que extinguira a execução fiscal, com base no art. 924, inciso II, do CPC, ante a comprovação de que se fundamentara em premissa fática inexistente.
+3. Agravo de instrumento conhecido e desprovido.
+Em suas razões, o contribuinte aponta violação do art. 1.022, caput e inciso III, do CPC/2015, sustentando que os embargos declaratórios opostos pela União não poderiam ter sido admitidos porque não preenchidos os pressupostos legais.
+Argumenta que "houve error in judicando no r. acórdão recorrido, pois, além de ter mantido a decisão de um recurso que não preencheu os requisitos de admissibilidade, houve o reconhecimento de um erro material inexistente na r. sentença, pois em tese, seria erro de direito" (e-STJ fl. 65).
+Contrarrazões apresentadas às e-STJ fls. 76/81.
+A decisão a quo inadmitiu o recurso especial ante a ausência de violação do art. 1.022, do CPC/2015, bem como pela incidência da Súmula 83 do STJ, fundamentos com os quais não concorda a parte agravante.
+Sem apresentação de contraminuta.
+Passo a decidir.
+O recurso especial origina-se de agravo de instrumento manejado contra decisão que anulou a sentença em sede de embargos declaratórios, extinguindo a execução.
+O Tribunal negou provimento ao recurso, nos seguintes termos (e-STJ fls. 49/52):
+Conheço do recurso, eis que presentes os seus requisitos de admissibilidade.
+A questão cinge-se à possibilidade de acolhimento dos embargos de declaração com efeitos modificativos.
+Como cediço, os embargos de declaração, consoante o art. 1022 do CPC/15, destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material no julgado. Nesse sentido, em regra, consoante jurisprudência consolidada da Primeira Seção Superior Tribunal de Justiça, "a estreita via dos embargos de declaração não é adequada para o simples rejulgamento da causa" (EDclno AgInt na AR 4858, Rel. Ministro BENEDITO GONÇALVES, julgado em 17/03/2020 DJe 19/03/2020).
+Nada obstante, excepcionalmente, a jurisprudência do Superior Tribunal de Justiça admite o cabimento de embargos de declaração com efeitos modificativos para a correção de premissa equivocada sobre a qual tenha se fundado a decisão embargada, bem como nos casos em que, sanada a omissão, a contradição ou a obscuridade, a alteração da decisão surja como consequência necessária, conforme se verifica dos seguintes precedentes:
+ ..
+No mesmo sentido: STJ, EDcl nos EDcl no AREsp. 44.510/PB, 4ª Turma, rel. Min. Antônio Carlos Ferreira, DJe 12/06/2015; STJ EDcl nos EDcl no AgRg nos EDcl no REsp 1.456.042/AM, 3ª Turma, rel. Min. Marco Aurélio Bellizze, DJe 20/05/2015; STJ, EDcl no AgRg no AREsp 166.979/PR, 3ª Turma, Rel. Min. Moura Ribeiro, DJe 25/06/2015; EDcl no AgRg no AResp nº 553.180/RJ, Ministro Ricardo Villas Bôas Cueva, Dje 15/10/2015).
+In casu, a sentença proferida no evento 79 da execução fiscal originária julgou extinta a execução fiscal, com fundamento no art. 924, II, do CPC, ante a inércia sucessiva da exequente em se manifestar sobre a alegação de quitação do débito formulada pela agravante no evento 51 (eventos 57, 63 e 76).
+Contudo, em sede de embargos de declaração, a exequente comprovou, por fim, que o pedido de parcelamento da agravante foi recusado pela PGFN, e que o crédito tributário objeto da execução permanece líquido, certo e exigível.
+Dessarte, após viabilizado o exercício do contraditório pela executada, fora acolhidos os embargos de declaração opostos pela agravada, anulando-se a sentença anteriormente proferida.
+Vale destacar que o crédito público é indisponível, não se submetendo, portanto, aos efeitos materiais da revelia (art. 345, inciso II, do CPC).
+Nesse sentido cito, mutatis mutandis, os seguintes precedentes:
+"TRIBUTÁRIO. EXECUÇÃO FISCAL (LEI Nº 6830/80). EXECUÇÃO FISCAL EXTINTA POR SUPOSTO PAGAMENTO. INOCORRÊNCIA. ERRO SANÁVEL.1. A sentença de fls. 37 extinguiu a execução fiscal, tendo em vista suposta extinção do crédito.2. Entretanto, de acordo com a documentação acostada às fls. 57/62, constata-se que ocorreu um equívoco. Desse modo, procede o pedido de reforma da sentença. Precedentes dos TRFs.3. O valor da execução fiscal é R$ 57.878,30 (em 07/04/2005).4. Recurso provido."
+(TRF - 2ª Região, 4ª Turma Especializada, AC 20055101510413-4, Rel. Des. Fed. FERREIRA NEVES, E-DJF2R de30/11/2016)
+"PROCESSUAL CIVIL. EXECUÇÃO FISCAL. PEDIDO DE EXTINÇÃOFORMULADO PELA EXEQUENTE COM EQUÍVOCO. DEMONSTRAÇÃO. PRESCRIÇÃO CONFIGURADA. EXECUÇÃO FISCAL ANTERIOR À LC118/2005. PRAZO AD QUEM DO TRÂNSITO EM JULGADO DAPRIMEIRA EXECUÇÃO.1 - Conforme relatado, trata-se de apelação interposta pela UNIÃOFEDERAL/FAZENDA PÚBLICA, nos autos de Ação de Execução Fiscal, em face de sentença às fls. 129/130 que extinguiu o processo em virtude de petição protocolada às fls. 92 pela União, requerendo a extinção da execução nos termos da Súmula Vinculante nº 08 do STF. A petição da Fazenda julgava estar prescrito os créditos tributários em comento, pedindo então a extinção do feito. A sentença, em função do pedido, extinguiu o processo na forma do artigo art. 269, inciso IV, do CPC cumulada ao art. 156, inciso V, do CTN.2 - No caso, segundo a Fazenda Nacional, na verdade o débito não foi cancelado. O que ocorreu foi um equívoco da Fazenda Nacional quando informou o cancelamento do débito baseando-se em consulta extraída do sistema de informática que indicava que a dívida estaria enquadrada no disposto do Enunciado nº 8 do STF. Contudo, após análise, restou comprovado que o débito não atendia ao requisito do citado enunciado, sendo reativada a inscrição. Nesse caso, a execução não pode ser extinta, por se tratar de questão de erro material em caso de direito indisponível.(..)6 - Apelação provida." (grifamos)(TRF - 2ª Região, 4ª Turma Especializada, AC 20035101539727-0, Rel. Des. Fed. LUIZ ANTONIO SOARES, E-DJF2R de 23/01/2017)
+"PROCESSO CIVIL. EXECUÇÃO FISCAL. EXTINÇÃO. INFORMAÇÃO EQUIVOCADA DE CANCELAMENTO. INSCRIÇÃO ATIVA.1. Houve equívoco da exequente ao requerer a extinção do processo, encontrando-se a inscrição na situação desativa, razão pela qual deve prosseguir a execução fiscal.2. Apelação conhecida e provida."(TRF - 2ª Região, 3ª Turma Especializada, AC 19005101540968-6, Rel. Des. Fed. CLÁUDIA NEIVA, E-DJF2R de08/09/2016)
+ ..
+Portanto, não merece reparo a decisão agravada, que acolheu os embargos de declaração opostos pela exequente, para anular a sentença anteriormente proferida, fundamentada em premissa fática equivocada.
+Pois bem.
+O recurso não merece ser conhecido.
+A parte recorrente não impugnou, nas razões recursais, os fundamentos do acórdão recorrido de que a Fazenda Pública comprovou, em sede de embargos declaratórios, que o crédito tributário permanece líquido, certo e exigível, além de não se submeter aos efeitos da revelia por ser indisponível.
+Vejamos o excerto do voto condutor (e-STJ fl. 50):
+Contudo, em sede de embargos de declaração, a exequente comprovou, por fim, que o pedido de parcelamento da agravante foi recusado pela PGFN, e que o crédito tributário objeto da execução permanece líquido, certo e exigível.
+Dessarte, após viabilizado o exercício do contraditório pela executada, fora acolhidos os embargos de declaração opostos pela agravada, anulando-se a sentença anteriormente proferida.
+Vale destacar que o crédito público é indisponível, não se submetendo, portanto, aos efeitos materiais da revelia (art. 345, inciso II, do CPC).
+Como se sabe, a falta de impugnação de todos os fundamentos em que se apoia o acórdão recorrido tem por consequência a incidência, por analogia, da Súmula 283 do STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente, e o recurso não abrange todos eles."
+Nesse sentido:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. FALTA DE PREQUESTIONAMENTO DOS ARTS. 3º, 113 E 128 DO CÓDIGO TRIBUTÁRIO NACIONAL. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 282/STF. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. APLICAÇÃO DO ÓBICE DA SÚMULA N. 283/STF. AUSÊNCIA DE COMANDO NORMATIVO EM DISPOSITIVO LEGAL APTO A SUSTENTAR A TESE RECURSAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. MULTA DO ART. 1.026 DO CPC. APLICAÇÃO NÃO ADEQUADA NA ESPÉCIE.
+ ..
+III - A falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283 do Supremo Tribunal Federal.
+IV - A jurisprudência desta Corte considera deficiente a fundamentação do recurso quando os dispositivos apontados como violados não têm comando normativo suficiente para infirmar os fundamentos do aresto recorrido, circunstância que atrai, por analogia, a incidência do entendimento da Súmula n. 284 do Supremo Tribunal Federal.
+V - O Agravante não apresenta argumentos suficientes para desconstituir a decisão recorrida.
+ ..
+VII - Agravo Interno improvido.
+(AgInt no REsp 1.714.321/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 22/05/2018, DJe 1º/06/2018).
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Sem arbitramento de honorários recursais, pois o recurso especial se origina de agravo de instrumento.
+Publiquem -se. Intimem-se.
