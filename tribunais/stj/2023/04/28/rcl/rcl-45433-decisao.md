@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de reclamação com pedido liminar ajuizada por EDUARDO PINTO DA SILVA contra acórdão proferido pelo Colégio Recursal de Mogi das Cruzes/SP.
+Informa o reclamante que tramita em seu desfavor o Cumprimento de Sentença n. 0002865-48.2021.8.26.0361, no qual foram realizadas duas penhoras, via BACENJUD, nos valores de R$ 3.149,03 e R$ 2.738,71.
+Contudo, afirma que é assalariado, sendo esta a sua única fonte de renda.
+Aduz que requereu o desbloqueio dos valores, o que foi negado pelo Juízo de primeiro grau. Assim, aviou o agravo de instrumento para o Colégio Recursal de Mogi das Cruzes/SP, ao qual foi negado provimento ao fundamento de falta de prova da natureza salarial do valor bloqueado.
+Entende, assim, na forma da jurisprudência dominante neste Tribunal, que a situação deverá ser tratada caso a caso, porque "a aplicação mitigada da impenhorabilidade salarial está muito bem delimitada para situações excepcionais em que efetivamente resta preservada a dignidade do devedor, no seu núcleo essencial. Não se pode tornar em regra geral e abstrata um tratamento excepcional direcionado a circunstâncias individuais e concretas detectadas caso a caso" (REsp n. 1.661.990/MS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 17/8/2017, DJe de 22/8/2017).
+Afirma que existe prova pré-constituída sobre a origem dos valores bloqueados, p osto que, além do extrato bancário, há também a Carteira de Trabalho.
+Requer a concessão da liminar para suspender o trâmite do Agravo de Instrumento n. 0100395-79.2022.8.26.9006, bem como os efeitos do acórdão reclamado até o julgamento da presente reclamação. No mérito, pleiteia seja a reclamação julgada procedente para cassar a decisão combatida e afastar o bloqueio - penhora sobre as verbas relativas aos salários depositadas em conta corrente.
+É o relatório. Decido.
+Conforme o art. 105, I, f, da Constituição Federal/1988, cabe reclamação, da parte interessada ou do Ministério Público, para preservar a competência do Superior Tribunal de Justiça ou para garantir a autoridade das suas decisões.
+Trata-se, portanto, de medida excepcional, cabível no âmbito deste Tribunal nas seguintes hipóteses: (a) preservação da competência constitucional do Superior Tribunal de Justiça; (b) manutenção da autoridade de decisão proferida nesta Corte Superior na análise do caso concreto (envolvendo as mesmas partes da decisão reclamada); e (c) adequação do entendimento adotado na decisão reclamada a entendimento jurisprudencial do Superior Tribunal de Justiça firmado em recurso repetitivo.
+Assim, observa-se que não cabe ao Superior Tribunal de Justiça o exame da presente reclamação, uma vez que nela se busca tão somente obter a liberação dos valores desbloqueados por determinação do juízo que conduz o cumprimento de sentença.
+Ademais, o fundamento adotado pelo Colegiado ora reclamado para manter a penhora em dinheiro está sustentado na falta de comprovação da origem de tal dinheiro. E a reclamação constitucional não serve para resolver tal questão, pois foge à excepcionalidade que a envolve.
+Ante o exposto, indefiro liminarmente a presente reclamação.
+Publique-se. Intimem -se.
