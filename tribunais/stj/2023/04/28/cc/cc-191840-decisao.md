@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de conflito negativo de competência em que figura como suscitante o Juízo Federal da 7ª Vara Criminal de Cuiabá/SJ-MT e suscitado o Juízo de Direito da 5ª Vara Criminal de Cuiabá/MT.
+A Polícia Civil do Estado de Mato Grosso instaurou inquérito para apurar prática dos crimes de falsidade ideológica e de omissão de registro em Carteira de Trabalho e Previdência Social (CTPS).
+O juízo suscitado declinou da competência por entender, na linha da manifestação apresentada pelo Ministério Público local, haver lesão a interesses da União.
+O juízo suscitante, por sua vez, reconheceu sua competência quanto á omissão de registro na CTPS, mas recusou-a em relação à apontada falsidade ideológica. Consignou que, conquanto descobertas na mesma ocasião, as condutas foram praticadas em momentos distintos e para finalidades também diversas.
+Parecer do Ministério Público Federal pela fixação da competência do juízo suscitado (e-STJ fls. 18-20).
+É o relatório.
+O conflito comporta conhecimento por se tratar de incidente instaurado entre juízos vinculados a tribunais distintos, nos termos do art. 105, I, d, da Constituição Federal.
+A controvérsia atinente à competência para processar causa em que se apuram os crimes de omissão de registro na CTPS e de falsidade ideológica foi estabelecida entre o Juízo Federal da 7ª Vara Criminal de Cuiabá/SJ-MT, suscitante, e o Juízo de Direito da 5ª Vara Criminal de Cuiabá/MT, suscitado.
+De acordo com o art. 297, § 4º, do Código Penal, incorre nas mesmas penas do crime de falsificação de documento público "quem omite, nos documentos mencionados no § 3º, nome do segurado e seus dados pessoais, a remuneração, a vigência do contrato de trabalho ou de prestação de serviços".
+O entendimento jurisprudencial da Terceira Seção desta Corte é de que "O sujeito passivo primário do crime omissivo do art. 297, § 4º, do Diploma Penal é o Estado, e, eventualmente, de forma secundária, o particular, terceiro prejudicado, com a omissão das informações, referentes ao vínculo empregatício e a seus consectários da CTPS. Cuida-se, portanto de delito que ofende de forma direta os interesses da União, atraindo a competência da Justiça Federal, conforme o disposto no art. 109, IV, da Constituição Federal" (CC 127.706/RS, relator Ministro Rogério Schietti Cruz, Terceira Seção, julgado em 09/04/2014, DJe de 03/09/2014).
+Para que a Justiça Federal seja competente para processar e julgar também o crime de falsidade ideológica, indispensável que se evidencie a conexão entre as condutas investigadas na origem, nos termos do art. 76 e incisos do Código de Processo Penal.
+O juízo suscitante, no entanto, consignou que "não há conexão entre os crimes, porque a falsidade ideológica ocorreu, em tese, na constituição das empresas (PANTANAL IND. E COM. DE VERGALHÕES LTDA-ME E PANTANAL COMÉRCIO DE SALVADOS LTDA-ME), enquanto a omissão da anotação da CTPS ocorreu em momento, circunstância e para finalidade bem distinta, não havendo informações ou indícios sobre a relação da constituição da empresa com a anotação da CTPS do trabalhador" (e-STJ fl. 6).
+A Terceira Seção possui entendimento de que "inexistindo conexão probatória, não é da Justiça Federal a competência para processar e julgar crimes de competência da Justiça Estadual, ainda que os delitos tenham sido descobertos em um mesmo contexto fático" (CC 143.576/PR, relator Ministro Joel Ilan Paciornik, Terceira Seção, julgado em 08/06/2016, DJe de 17/06/2016).
+Com fundamento no art. 34, XXII, do RISTJ, conheço do conflito e declaro competente o Juízo de Direito da 5ª Vara Criminal de Cuiabá/MT , suscitado.
+Publique-se.
+Dê-se ciência aos juízos suscitante e suscitado.
+Cientifique-se o Ministério Público Federal.
