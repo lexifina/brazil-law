@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por FLAVIO EDUARDO TEODORO contra a decisão proferida pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que não admitiu seu recurso especial fundado no art. 105, III, alíneas a e c, da Constituição Federal.
+A controvérsia tratada nos autos foi devidamente relatada no parecer ministerial acostado às e-STJ fls. 414/419, in verbis:
+Trata-se de agravo em face da decisão que não admitiu recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal, ante a incidência da Súmula 7/STJ.
+O agravo merece ser conhecido, na medida em que houve impugnação dos fundamentos da decisão agravada, nos termos do art. 932, III, do CPC.
+Na forma regimental, passa-se à análise do recurso especial em que o recorrente alega violação aos seguintes dispositivos legais: 1) artigos 33, 59, do Código Penal; 2) artigo 33, caput e § 4º, da Lei 11.343/06.
+Assim, pretende:
+Ante o acima exposto, demonstrada a violação aos artigos 33 e 59, todos do Código Penal c.c. artigo 33, caput e § 4º, da Lei 11.343/06, pugna-se pela admissibilidade do recurso, fundado no artigo 105, inciso III, alínea "a" da Constituição Federal.
+Postula-se, outrossim, que a Colenda Turma do Superior Tribunal de Justiça conheça e dê provimento ao presente Recurso Especial para que reforme o acórdão, a fim de restabelecer o redutor previsto no art. 33, § 4º, da Lei 11.343/06, na sua fração máxima, fixando-se o regime prisional aberto para o cumprimento da pena privativa de liberdade, nos termos dos artigos 33, § 2º, c, e 59 ambos do Código Penal, c.c. art. 33, caput e § 4º, da Lei 11.343/06.
+Ao que consta dos autos, o réu foi condenado à pena de 6 anos de reclusão, em regime fechado, pela perpetração do crime de tráfico de drogas.
+Ao final, o Parquet opinou "pelo conhecimento do agravo para dar parcial provimento ao recurso especial, a fim de redimensionar a sanção imposta ao réu, ante o reconhecimento da minorante de pena do art. 33, §4º, da Lei 11.343/06, e de abrandar o regime prisional para o semiaberto".
+É o relatório.
+Decido.
+Suficientemente impugnados os fundamentos da decisão de inadmissibilidade do recurso especial e presentes os pressupostos processuais, conheço do agravo. Passo, dessa forma, ao exame do recurso especial.
+De acordo com o art. 33, § 4º, da Lei n. 11.343/2006, o agente poderá ser beneficiado com a redução de 1/6 (um sexto) a 2/3 (dois terços) da pena, desde que seja primário, portador de bons antecedentes, não se dedique a atividades criminosas nem integre organização criminosa.
+Digno de nota que, no julgamento do REsp n. 1.887.511/SP, de relatoria do Ministro João Otávio de Noronha, concluiu a Terceira Seção do Superior Tribunal de Justiça que a quantidade de substância entorpecente e a sua natureza hão de ser consideradas na fixação da pena-base, nos termos do art. 42 da Lei n. 11.343/2006, não sendo, portanto, pressuposto para a incidência da causa especial de diminuição de pena descrita no art. 33, § 4º, da Lei n. 11.343/2006.
+No caso, acerca da dosimetria da pena, o Tribunal de origem assim consignou (e-STJ fls. 320/321):
+Contudo "data venia" do posicionamento adotado pela origem , não há como se aplicar a causa de diminuição prevista no art. 33, § 4º, da Lei nº 11.343/2006.
+Isto porque, nada obstante tenha a atual legislação antidrogas (Lei nº 11.343, 23.ago.2006) criado aparente situação mais favorável aos traficantes primários (art. 33, § 4º), não é o caso de aqui considerá-la mais benéfica e em favor do réu ("lex mitior"), porque meramente facultativa a situação ("..as penas poderão ser reduzidas.." g.do a.), o que desabilita sua aplicabilidade para o caso concreto, mais aqui, evidentemente, face às circunstâncias de sua prisão.
+Afinal, como bem ressalvou a d. Procuradoria de Justiça, "As circunstâncias da apreensão das drogas, a quantidade apreendida, a lesividade, diversidade, forma de acondicionamento, pronta para a comercialização, apreensão de R$42,00 em dinheiro, além de sua confissão informal, nos revela que o acusado se dedicava de forma reiterada á traficância, fazendo dela, seu meio de vida." (f. 286).
+O que denota habitualidade constante e reiterada, a revelar que o réu não pode ser tratado igualmente a outros.
+E a atual jurisprudência do E. Supremo Tribunal Federal admite que a quantidade de entorpecentes apreendida pode ser considerada para fins de incidência ou não da causa especial de redução de penas prevista pelo art. 33, § 4º, da Lei de Tóxicos.
+Logo, diante dos indicativos sérios e concretos de que o acusado fazia da prática criminosa seu meio de vida, impossível a aplicação do redutor.
+Assim, ausentes agravantes ou atenuantes, bem como causas de aumento ou de diminuição, resultam as penas do acusado em 6 anos de reclusão, mais 600 dias-multa, valor unitário mínimo.
+Como se vê, a dedicação à atividade criminosa foi assentada basicamente na quantidade e na natureza da droga apreendida.
+Evidente, portanto, o constrangimento ilegal, mostrando-se imperioso o reconhecimento da suscitada minorante, na fração de 2/3, de modo que, mantendo-se as demais diretrizes adotadas na origem, a pena definitiva do agravante seja reduzida para 2 anos de reclusão.
+No caso, o regime inicial de cumprimento da pena deve ser o semiaberto em decorrência do reconhecimento de circunstância judicial desfavorável na primeira fase da dosimetria da pena, sendo que o mesmo óbice incide quanto à substituição da pena privativa de liberdade pela restritiva de direitos.
+Ante o exposto e acolhendo o parecer do Ministério Público Federal, conheço do agravo para dar parcial provimento ao recurso especial, a fim de reduzir a reprimenda do agravante para 2 anos de reclusão, a ser cumprida no regime inicial semiaberto, vedada a substituição da pena.
+Publique-se. Intimem-se.
