@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso extraordinário (fls. 1.091-1.119) interposto por FERNANDO RODRIGUES ROCHA, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça que recebeu a seguinte ementa (fls. 1.077-1.078):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CONJUGADA COM INDENIZATÓRIA. PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. DISPOSITIVO DE LEI FEDERAL. VIOLAÇÃO. FALTA DE INDICAÇÃO. SÚMULA Nº 284 DO SUPREMO TRIBUNAL FEDERAL. ÔNUS PROBATÓRIO. SATISFAÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A ausência de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos de declaração, impede o conhecimento do recurso especial (Súmula nº 211/STJ).
+3. Considera-se deficiente de fundamentação o recurso especial que não indica os dispositivos legais supostamente violados pelo acórdão recorrido, circunstância que atrai a incidência, por analogia, da Súmula nº 284 do Supremo Tribunal Federal.
+4. O tribunal de origem formou sua convicção à luz do acervo probatório dos autos, fundamentando os motivos que levaram à condenação, de forma que a intervenção desta Corte quanto à satisfação do ônus probatório e à valoração das provas encontra óbice na Súmula nº 7/STJ.
+5. A divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional requisita comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos acórdãos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não se oferecendo como bastante a simples transcrição de ementas sem realizar o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações.
+6. Agravo interno não provido.
+A parte recorrente sustenta, no recurso extraordinário, que teria havido violação do art. 5º, LIV e LV, da Constituição Federal e que a matéria tratada seria dotada de repercussão geral.
+Nesse sentido, alega que haveria ofensa aos princípios do devido processo legal, do contraditório e da ampla defesa, diante do indeferimento do pedido de produção de prova testemunhal e do julgamento antecipado da lide.
+Aduz que o reconhecimento do cerceamento de defesa seria matéria de ordem pública e não encontraria óbice na Súmula n. 7/STJ "quando se exige somente a revaloração jurídica das circunstâncias contidas nos autos" (fl. 1.117).
+Pugna pela concessão dos benefícios da justiça gratuita, afirmando que seria hipossuficiente, pois os recorridos lhe teriam dado um "golpe de pirâmide financeira" (fl. 1.093) e ainda não teria conseguido se recuperar financeiramente.
+Requer, ao final, a admissão do recurso, bem como a remessa ao Supremo Tribunal Federal.
+Foi certificada a não apresentação de contrarrazões tempestivas (fls. 1.130 e 1.131).
+É o relatório.
+Inicialmente, defere-se o pedido de gratuidade de justiça formulado pela parte recorrente, tão somente no que se refere às custas para a interposição do presente recurso, nos termos do art. 98, § 5º, do Código de Processo Civil.
+Como relatado, o pronunciamento recorrido concluiu pelo não preenchimento dos pressupostos de admissibilidade do recurso anteriormente dirigido ao Superior Tribunal de Justiça.
+Tal fato ocorreu porque, no julgado recorrido, o colegiado desproveu o agravo interno, mantendo a decisão singular que conheceu do agravo para não conhecer do recurso especial, tendo em vista a inviabilidade de análise de matéria constitucional pelo Superior Tribunal de Justiça, a incidência dos óbices das Súmulas n. 7 e 211 do STJ e 284 do STF, bem como a falta de comprovação do dissídio jurisprudencial.
+Como se vê, o mérito do recurso especial não chegou a ser apreciado, diante de insuperáveis óbices processuais, impeditivos do próprio conhecimento do recurso.
+Segundo o STF, a não superação do que fora decidido no pronunciamento recorrido acerca dos pressupostos de conhecimento do recurso da competência de outro tribunal, como ocorreu neste caso, inviabiliza o exame do recurso extraordinário pela própria Corte Suprema, qualquer que seja a suscitada violação da Constituição Federal, consoante a tese fixada no Tema n. 181 da repercussão geral, que vale transcrever:
+A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral (RE n. 598.365-RG/MG).
+Nesse sentido, eventual ofensa à Carta Magna, se existente, seria apenas indireta ou reflexa, entendendo o Excelso Pretório que "carece de repercussão geral a discussão acerca dos pressupostos de admissibilidade de recursos da competência de cortes diversas" (ARE n. 1.227.415-AgR, relator Ministro Edson Fachin, Segunda Turma, DJe de 21/5/2021), até mesmo quando alegada a ofensa ao art. 105, III, da Constituição da República (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+Esse é também o consolidado entendimento do STJ sobre a questão, havendo reiterado desprovimento dos agravos que impugnam decisões de aplicação do Tema n. 181/STF, como bem exemplifica o precedente a seguir:
+Tratando-se de recurso extraordinário contra acórdão que não ultrapassou o juízo de admissibilidade, fica inviabilizado o exame das questões constitucionais suscitadas em face da inexistência de repercussão geral.
+(AgInt no RE nos EDcl no AgInt no AREsp n. 1.342.377/SP, relatora Ministra Maria Thereza de Assis Moura, DJe de 13/9/2019.)
+Assim, destituída de repercussão geral a questão relativa aos pressupostos de admissibilidade de recurso anterior, conforme entendimento do STF de observância obrigatória (CPC, art. 927, III, parte final), o recurso extraordinário não comporta seguimento.
+Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL. TEMA N. 181/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. NEGATIVA DE SEGUIMENTO.
+1. "A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral" (Tema n. 181/STF).
+2. Não preenchidos os pressupostos de admissibilidade do recurso especial, deve ser adotada (CPC, art. 927, III) a tese fixada no Tema n. 181/STF, ainda que se queira, no recurso extraordinário, discutir o mérito da causa ou os fundamentos que impediram o conhecimento do recurso.
+3. Recurso extraordinário a que se nega seguimento, nos termos do art. 1.030, I, a, do CPC.
