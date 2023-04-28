@@ -1,0 +1,10 @@
+DECISÃO
+O presente recurso em habeas corpus, interposto contra o acórdão exarado no HC n. 1.0000.22.253761-5/000, e m que se req uer a revogação da prisão preventiva, perdeu o seu objeto diante da superveniente alteração fático-processual de Mateus Henrique Liberato Rocha.
+De acordo com a s informações obtidas na página eletrônica do Tribunal de Justiça de Minas Gerais, nos autos da Ação Penal n. 0051779-45.2022.8.13.0079, da 3ª Vara Criminal da comarca de Contage m/MG, sobreveio a prolação de sentença em 14/2/2023. Na oportunidade, foi julgada procedente a pretensão punitiva estatal para condenar o ora recorrente como incurso na sanção do art. 157, caput, do Código Penal, às penas de 4 anos e 8 meses de reclusão, em regime inicial fechado, mais pagamento de 11 dias-multa. Ainda, foi negado ao réu o direito de recorrer em liberdade, tendo o Magistrado de origem agregado novo fundamento ao decreto prisional, diferente dos constantes das fls. 14/15 destes autos.
+Na linha da jurisprudência desta Corte, fica prejudicado o pedido de análise dos fundamentos da prisão preventiva, uma vez que a custódia decorre, agora, de título diverso (sentença condenatória), consubstanciado em nova motivação - tendo sido acentuado o requisito da garantia da ordem pública e emergida a ponderação de que o réu estava em cumprimento de pena quando da prática do delito, o que, concretamente, demonstra a periculosidade do acusado -, cujo requisito específico desafia impugnação própria no Tribunal de origem.
+Nesse sentido , os seguintes julgados: AgRg no RHC n. 112.178/SP, Ministra Laurita Vaz, Sexta Turma, DJe 15/6/2020; e AgRg no RHC n. 92.522/AL, da minha relatoria, Sexta Turma, DJe 16/3/2020.
+Assim, perdeu o objeto o presente recurso; julgo-o, consequentemente, prejudicado (art. 34, XI, do RIST).
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. ROUBO. PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA. DIREITO DE RECORRER EM LIBERDADE N EGADO. NO VO TÍTULO JUDICIAL. ACRÉSCIMO DE FUNDAMENTO. ALTERAÇÃO DO PANORAMA FÁTICO-PROCESSUAL. PERDA DO OBJETO.
+Recurso prejudicado.
