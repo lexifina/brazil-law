@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto por ESTADO DO RIO DE JANEIRO, com fundamento no art. 105, III, "a" e "c", da CF/1988, contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, nesses termos ementado:
+Ação ordinária. Convênio de cooperação técnica. Rescisão antecipada. Pretensão de indenização proporcional. Sentença de parcial procedência. Inconformismo de ambas as partes, merecendo prosperar o 1º recurso. Exordial que não apontou qualquer descumprimento por parte da FGV. Provimento do 1º recurso, prejudicado o 2º.
+Opostos embargos de declaração, negaram provimento.
+Nas razões do especial, o recorrente sustenta violação dos arts. 489, II e § 1º, IV, e 1.022, I e II, do CPC.
+Em síntese, aduz que o Tribunal de origem incorreu em omissão ao acolher a apelação da recorrida e julgar prejudicado a apelação do recorrente, não apreciando os seus termos e razões. Assevera a nulidade do acórdão a quo por ter se limitado a utilizar fundamentação per relationem e não trouxe fundamentos próprios compatíveis com o caso e a temática debatida.
+É o relatório.
+Passo a decidir.
+A pretensão merece acolhida.
+Observa-se a ausência de fundamentação própria no julgamento do recurso de apelação da parte recorrida e consequente prejudicialidade quanto ao recurso de apelaçao do recorrente. No julgamento dos aclaratórios, o acórdão a quo limita-se a defender a importância das decisões monocráticas proferidas pelo relator, destacando apenas que o embargante pretende é obter efeitos modificativos através dos declaratórios. Não houve, efetivamente, o exame colegiado das controvérsias apresentadas na lide.
+Observo que deveria ter havido a manifestação expressa na origem sobre as questões suscitadas, o que não ocorreu por falha do Tribunal a quo.
+Manifesta a doutrina no sentido de que
+ ..  uma corte que visa ao controle da decisão recorrida é uma corte reativa. Vale dizer: a corte desempenha um papel que pressupõe a existência de uma violação ao direito já ocorrida, sendo sua tarefa sancioná-la e, quando possível, neutralizar ou eliminar os seus efeitos mediante cassação ou reforma dessa decisão. O recurso serve para reagir a uma violação ao direito já ocorrida, perpetrada pela decisão judicial que constitui o seu objeto, sendo a atuação da corte pensada tão somente para o passado. (MARINONI, Luiz Guilherme, MITIDIERO, Daniel. Recurso extraordinário e recurso especial: do "jus litigatoris" ao "jus constitutionis"  livro eletrônico . 3. ed. rev. atual. São Paulo: Revista dos Tribunais, 2021).
+Assim, importa que a questão federal esteja presente na decisão recorrida, que haja a manifestação do órgão jurisdicional local acerca do ponto (fundamento da demanda ou da defesa) acerca do qual surgiu a controvérsia (cf. MEDINA, José Miguel Garcia. Prequestionamento e repercussão geral e outras questões relativas aos recursos especial e extraordinário  livro eletrônico ; coordenação Nelson Nery Jr., Teresa Arruda Alvim Wambier. 1ª ed. São Paulo: Revista dos Tribunais, 2012).
+Desse modo, "deixando o acórdão de se manifestar sobre matéria relevante ao deslinde da controvérsia, rejeitando os embargos declaratórios e persistindo na omissão oportunamente alegada, incorre em ofensa ao art. 1.022, II, do CPC/2015, reiterada, em sede de Recurso Especial" (AgInt no AREsp 1521778/MA, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 20/02/2020).
+Ademais, cumpre asseverar que "a legalidade da fundamentação per relationem, encampada pelo órgão julgador, não prescinde da exauriente manifestação anterior (cf. AgInt no REsp n. 1.979.920/RJ, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 29/8/2022, DJe de 1/9/2022), com a transcrição de trecho, referência ou remissão aos fundamentos utilizados como razão de decidir: o ato decisório deve se reportar a outra decisão ou manifestação existente nos autos" (cf. AgInt nos EDcl no AREsp n. 1.330.851/RJ, relator Ministro Francisco Falcão, Segunda Turma, julgado em 16/12/2020, DJe de 18/12/2020).
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME DE HOMICÍDIO SIMPLES. NULIDADE. TÉCNICA DE FUNDAMENTAÇÃO PER RELATIONEM. AUSÊNCIA DE FUNDAMENTAÇÃO PRÓPRIA NO JULGAMENTO DO RECURSO EM SENTIDO ESTRITO. PRECEDENTES DO STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Como é de conhecimento, esta Corte Superior possui pacífico entendimento no sentido de que é possível a utilização da técnica de fundamentação per relationem, desde que o julgador apresente elementos próprios de convicção, ainda que de forma sucinta.
+2. Na hipótese, verifica-se o Desembargador Relator empregou a técnica de fundamentação per relationem, sem utilizá-la, porém, como complementação a sua argumentação. Assim, observa-se a ausência de fundamentação própria no julgamento do recurso em sentido estrito, com patente ofensa ao art. 93, IX, da Constituição da República.
+3. Agravo regimental do Ministério Público do Estado do Rio Grande do Sul a que se nega provimento.
+(AgRg no HC n. 801.040/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 28/2/2023, DJe de 6/3/2023.)
+Dessarte, necessário "o retorno dos autos à origem a fim de que, em novo julgamento dos Aclaratórios, o Tribunal a quo se manifeste expressamente acerca do ponto omisso" (REsp 1844941/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 19/12/2019).
+Ante o exposto, dou provimento ao recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. CONVÊNIO DE COOPERAÇÃO TÉCNICA. DEFICIÊNCIA DE FUNDAMENTAÇÃO. OCORRÊNCIA. RETORNO DOS AUTOS À ORIGEM PARA REJULGAMENTO DO RECURSO ACLARATÓRIO. RECURSO ESPECIAL PROVIDO.
