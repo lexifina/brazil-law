@@ -1,0 +1,18 @@
+DECISÃO
+MATHEUS ALEXANDRE DA COSTA KLEIZER alega sofrer coação ilegal em face de acórdão proferido pelo Tribunal de Justiça de São Paulo.
+O condenado a cumprir pena em regime inicial semiaberto aponta a provável violação da Súmula Vinculante n. 56. Assinala que, "antes da expedição de mandado de prisão para o cumprimento da pena devem ser requisitadas informações junto à Secretaria da Administração Penitenciária acerca da existência de vaga no sistema carcerário" (fl. 4).
+Decido.
+O Tribunal de Justiça indeferiu liminarmente o writ, ao fundamento de que a via eleita não se presta a funcionar como substitutivo do agravo em execução. Além disso, consignou a inexistência de flagrante ilegalidade a direito de locomoção.
+No caso, houve a determinação, na decisão de fls. 23-24, de "expedição de mandado de prisão" para resgate da pena privativa de liberdade no regime inicial semiaberto.
+O Juiz da VEC registrou que "há vaga disponível em estabelecimento penal adequado" e fez constar "a proibição de cumprimento da pena  ..  em estabelecimento destinado a condenado em regime prisional fechado" (fl. 23). Assinalou que, uma vez preso o sentenciado, "deverá a serventia cumprir a r. determinação constante do item 4.1, segunda parte, do Comunicado n. 628/2022, editado pela Egrégia Corregedoria Geral da Justiça do Estado" (fl. 24), que assim dispõe:
+4.1 Se houver vaga no regime semiaberto, o juízo da execução deverá avaliar a intimação do sentenciado e a expedição do mandado de prisão; informado o cumprimento da ordem de prisão, a serventia deverá certificar, no prazo de setenta e duas (72) horas, se o sentenciado está recolhido em estabelecimento penal adequado, enviando imediatamente os autos à conclusão em caso negativo;
+A autoridade consignou, por fim: "desnecessária a prévia intimação do condenado a respeito, pois, após sua prisão e realização da audiência de custódia, cumprirá a reprimenda em estabelecimento prisional adequado" (fl. 23).
+Nesse contexto, o Tribunal de origem não conheceu do habeas corpus e mencionou:
+ ..  a decisão proferida pela autoridade coatora foi extremamente clara, como acima constou, no sentido de que "há vaga disponível em estabelecimento penal adequado ao cumprimento da pena privativa de liberdade imposta ao sentenciado, frise-se, em regime prisional semiaberto.
+De fato, não há prova inequívoca de violação da Súmula n. 56. A Defensoria Pública não especificou se o mandado de prisão foi cumprido e se o paciente está recolhido em regime análogo ao fechado.
+Todavia, identifica-se a ilegalidade da decisão do Juiz da VEC pelo descumprimento da Resolução n. 417/2021, do CNJ, que assim dispõe:
+DO MANDADO DE INTIMAÇÃO PARA CUMPRIMENTO DE PENA EM AMBIENTE SEMIABERTO OU ABERTO (redação dada pela Resolução n. 474, de 9.9.2022)
+Art. 23. Transitada em julgado a condenação ao cumprimento de pena em regime semiaberto ou aberto, a pessoa condenada será intimada para dar início ao cumprimento da pena, previamente à expedição de mandado de prisão, sem prejuízo da realização de audiência admonitória e da observância da Súmula Vinculante n. 56.
+Se há vaga em estabelecimento prisional semiaberto, o Magistrado deverá expedir mandado de intimação ao sentenciado para dar início ao cumprimento da pena, previamente à expedição de mandado de prisão. Deve-se evitar o seu recolhimento em centro de detenção provisória para aguardar a certificação, no prazo de 72 horas, sobre a observância da Súmula Vinculante n. 56.
+À vista do exposto, concedo o habeas corpus, in limine, para determinar ao Juiz da VEC a aplicação da Resolução n. 417/2021 do CNJ, devendo o paciente ser intimado para dar início ao cumprimento da pena, previamente à expedição de mandado de prisão.
+Publique-se e intimem-se.
