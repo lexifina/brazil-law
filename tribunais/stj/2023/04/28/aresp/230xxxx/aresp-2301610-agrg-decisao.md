@@ -1,0 +1,13 @@
+DECISÃO
+JULIO CESAR DOS SANTOS interpõe agravo regimental contra a decisão da Presidência deste Superior Tribunal, que não conheceu do recurso especial em razão de sua intempestividade.
+Em suas razões afirma que o decisum não merece prosperar "mesmo porque a intimação da decisão dos embargos de declaração ocorreu somente em 27/10/2022 e devidamente cumprida no dia seguinte, ou seja, 28/10/2022" (fls. 1.219-1.220).
+Requer, diante disso, "seja conhecido e provido o presente agravo, com vistas à reforma da r. decisão denegatória combatida, admitindo-se o Recurso Especial interposto pelo Agravante, determinando-se seu processamento com a posterior subida ao Superior Tribunal de Justiça, que fora obstado pela decisão recorrida, viabilizando, com isso, o conhecimento da matéria ali invocada por parte dessa Colenda Corte" (fl. 1.227).
+O Ministério Público Federal opinou pela concessão da ordem de ofício para fixar o regime menos gravoso.
+Decido.
+O regimental infirmou os fundamentos da decisão atacada e, portanto, merece conhecimento. Assim, reconsidero a decisão de fls. 1.213-1.214.
+Entretanto, o recurso especial não merece conhecimento.
+O Tribunal de origem não admitiu o recurso especial em razão da sua intempestividade. Para tanto, destacou: "os Embargos de Declaração não conhecidos, em razão da manifesta inadmissibilidade ou intempestividade, não têm o condão de interromper ou suspender o prazo para a interposição de recursos subsequentes" (fl. 1.181).
+Acertada a decisão, pois em conformidade com a jurisprudência desta Corte Superior: "Embargos de declaração intempestivos não interrompem o prazo para a interposição de outros recursos, motivo pelo qual é constatada a intempestividade do recurso especial" (AgRg no AREsp n. 2.134.313/GO, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 24/10/2022) e "A oposição de embargos aclaratórios, quando intempestivos ou manifestamente incabíveis, não tem o condão de interromper o prazo para a interposição do recurso especial" (AgRg no AREsp n. 2.102.607/RS, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 13/9/2022).
+Deveras, na espécie, o termo inicial para a interposição do recurso era 18/8/2022 e o final, 2/9/2022, porquanto a oposição dos aclaratórios não interrompeu o prazo para aviar o especial. Todavia, o especial foi ajuizado apenas em 28/10/2022, é dizer, quase dois meses depois do término do prazo legal. Dessa forma, não há como conhecer do recurso.
+À vista do exposto, reconsidero a decisão outrora proferida pela Presidência desta Corte Superior para conhecer do agravo e não conhecer do recurso especial.
+Publique-se e intimem-se.
