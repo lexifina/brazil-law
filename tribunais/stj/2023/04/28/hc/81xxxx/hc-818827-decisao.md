@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, inicial apresentado pelo próprio paciente e, posteriormente, impetrado pela Defensoria Pública da União em favor de WAGNER LUIZ MEIRA DO NASCIMENTO apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (autos nº 0002389-89.2022.8.26.0000).
+No presente writ, sustenta a defesa que o paciente foi condenado indevidamente pelo crime de roubo em razão de reconhecimento fotográfico realizado em desacordo ao art. 226 do CPP.
+Requer, ao final, seja reconhecida a nulidade apontada, absolvendo o paciente pela prática do crime de roubo (Ação Penal nº 0030271-46.2017.8.26.0050).
+É o relatório. Decido.
+De início, embora a Defensoria Pública da União tenha juntado aos autos cópia da sentença condenatória (e-STJ fls. 20/24), suprindo, em parte, a deficiente instrução do writ, não acostou cópia do acórdão de apelação (ato impugnado), o que impede este Relator de examinar o mérito do habeas corpus.
+Dessa forma, não sendo possível conhecer os termos do acórdão proferido em sede de apelação, deficiência que não foi suprida pela defesa técnica, torna-se inviável o exame do tema suscitado na presente impetração.
+Ressalta-se que o rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal. Nesse sentido, segue a jurisprudência desta Corte:
+PROCESSUAL PENAL. PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL NO HABEAS CORPUS. AUSÊNCIA DE NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. EXECUÇÃO PENAL. HOMOLOGAÇÃO DE FALTA GRAVE. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DE CÓPIA DA DECISÃO DE PRIMEIRO GRAU. DOCUMENTO IMPRESCINDÍVEL PARA A EXATA COMPREENSÃO DA CONTROVÉRSIA. AGRAVO DESPROVIDO.
+ ..  II - A jurisprudência desta Corte Superior firmou-se no sentido de que a ação mandamental de habeas corpus exige a apresentação de prova préconstituída, recaindo sobre o impetrante o ônus de instruir corretamente o mandamus a fim de que seja possível identificar o alegado constrangimento ilegal.
+III - No presente caso, o impetrante não juntou aos autos cópia integral da decisão do Juízo de primeiro grau que homologou a falta grave, documento indispensável para a exata compreensão da controvérsia.
+ ..  Agravo regimental desprovido. (AgRg no HC 439.162/SP, Rel. Ministro FELIX FISCHER, Quinta Turma, DJe 24/5/2018).
+AGRAVO REGIMENTAL. HABEAS CORPUS. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DE CÓPIA DA DECISÃO INDEFERITÓRIA PROFERIDA PELO DESEMBARGADOR RELATOR DO TRIBUNAL A QUO. INDEFERIDO LIMINARMENTE. POSSIBILIDADE. PRECEDENTES DESTA CORTE SUPERIOR. ÔNUS DO IMPETRANTE DE COLACIONAR OS DOCUMENTOS NECESSÁRIOS AO DESLINDE DO TEMA. DECISÃO MANTIDA.
+1. A decisão agravada deve ser mantida por seus próprios fundamentos, porquanto em perfeita sintonia com a jurisprudência deste Tribunal Superior no sentido de que, é devido o indeferimento da petição inicial do habeas corpus que não está devidamente instruído, sendo, portanto, ônus do impetrante, e não deste Tribunal, colacionar os documentos essenciais para a análise das ilegalidades apontadas.
+2. Ausente o documento comprobatório da irresignação defensiva, a despeito da alegação de transcrição integral do r. decisum na inicial, inviável o exame da questão por esta Corte Superior, porquanto não vinculado à demonstração de plano da ilegalidade, ou seja, não indicado por meio de prova préconstituída; aliás, nem mesmo após a interposição de agravo regimental a peça essencial faltante foi juntada.
+3. Agravo regimental improvido. (AgRg no HC 447.610/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, DJe 1º/6/2018).
+Ante o exposto, não conheço do presente habeas corpus.
+Intimem-se.
