@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL, com fundamento na alínea "a" do permissivo constitucional, que desafia acórdão do Tribunal Regional Federal da 4ª Região assim ementado (e-STJ fl. 2.495 e fl. 2.532):
+EMBARGOS À EXECUÇÃO FISCAL. HONORÁRIOS. RECONHECIMENTO DO PEDIDO. LEI 10.522, DE 2002. INAPLICABILIDADE. ARBITRAMENTO POR EQUIDADE. IMPOSSIBILIDADE. TEMA 1.076 DOS RECURSOS REPETITIVOS.
+1. A União só está dispensada da condenação em honorários advocatícios sucumbenciais quando o reconhecimento da procedência do pedido, por parte do Procurador da Fazenda Nacional, estiver relacionado às matérias arroladas nos arts. 18 e 19 da Lei 10.522, de 2002.
+2. O Superior Tribunal de Justiça, no julgamento dos REsp nºs 1.906.623/SP, 1.906.618/SP, 1.850.512/SP e 1.877.883/SP, submetidos ao regime de recursos repetitivos (Tema 1.076), assentou a impossibilidade de arbitramento equitativo dos honorários com a finalidade de evitar a desproporcional elevação da verba nos casos sujeitos à incidência do art. 85, § 3º, do CPC, de tal maneira que, sendo conhecido o proveito econômico, é ele que deve servir de base para a sua apuração.
+EMBARGOS DE DECLARAÇÃO. REDISCUSSÃO DA CAUSA. NÃO ALEGAÇÃO DE QUALQUER DAS HIPÓTESES DE CABIMENTO. EMBARGOS MANIFESTAMENTE INCABÍVEIS E PROTELATÓRIOS. APLICAÇÃO DE MULTA DE 1% SOBRE O VALOR DA CAUSA.
+Em suas razões, a empresa recorrente aponta violação do art. 85, §§ 2º, 3º, 8º, do CPC/2015, além de dissídio jurisprudencial.
+Em seu recurso especial (e-STJ fls. 2.547/2.572), a parte aponta violação dos arts. 8º, 85, §§ 2º, 3º e 8º, 1.022, II, e 1.026, § 2º, do CPC/2015 e do art. 19, V, § 1º, I E II, da Lei n. 10.522/2002 (com redação da Lei n. 12.844/2013). Sustenta, entre outros temas, que a Corte de origem deveria arbitrar honorários de sucumbência com base no princípio da equidade, mesmo não se cuidando, no caso, de valores ínfimos ou inestimáveis, com vistas a evitar a excessiva oneração do ente público.
+Contrarrazões às e-STJ fls. 2.577/2.594.
+Recurso especial admitido (e-STJ fl. 2.597/2.598).
+Passo a decidir.
+A Corte Especial do Superior Tribunal de Justiça, em sede de recurso representativo da controvérsia (REsps. 1.850.512/SP, 1.877.883/SP e 1.906.623/SP - Tema 1.076), na sessão de 16/03/2022, consolidou a tese jurídica de que o art. 85, § 3º, do CPC/2015 é aplicável como critério jurídico de fixação da verba honorária quando o valor da causa for elevado, hipótese dos autos, admitindo o arbitramento por equidade apenas nos casos em que o proveito econômico for inestimável e irrisório ou se o valor da causa for muito baixo.
+Nesse contexto, julgado o tema pela sistemática dos recursos repetitivos, esta Corte Superior orienta que os recursos que tratam da mesma controvérsia devem retornar ao Tribunal de origem para que este faça o juízo de conformação, nos termos do que dispõe o art. 34, XXIV, do RISTJ, o qual estabelece, in verbis:
+Art. 34. Compete ao Relator:
+XXIV - determinar a devolução ao Tribunal de origem dos recursos especiais fundados em controvérsia idêntica àquela já submetida ao rito de julgamento de casos repetitivos para adoção das medidas cabíveis.
+Realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado para este Tribunal Superior, para serem analisadas, se for o caso, as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Ante o exposto, DETERMINO a DEVOLUÇÃO dos autos ao Tribunal de origem, com a respectiva baixa, para que sejam aplicadas as medidas cabíveis previstas no art. 1.040 do CPC/2015, conforme o caso.
+Publique-se. Intimem-se.
