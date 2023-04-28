@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se  de  agravo de MAKRO ATACADISTA S.A., com o qual objetiva admissão  de  recurso especial interposto  contra  acórdão  do TJ/RJ assim  ementado:
+APELAÇÃO CÍVEL. TRIBUTÁRIO. ICMS. EXECUÇÃO FISCAL. EMBARGOS DO DEVEDOR. APROVEITAMENTO DE CRÉDITOS. SENTENÇA DE IMPROCEDÊNCIA. OPERAÇÕES INTERESTADUAIS. REGULARIDADE DA COBRANÇA DO ICMS. INEXISTÊNCIA DE OFENSA AO PRINCÍPIO DA NÃO CUMULATIVIDADE. PRECEDENTES JURISPRUDENCIAIS. RECURSO EXTRAORDIONÁRIO 628.075/RS. REPERCUSSÃO GERAL-TEMA 490. DESPROVIMENTO DO RECURSO.
+No  especial,  a  parte  alega  violação  dos  arts. 489 e 1.022 do CPC/2015.
+ Sustenta,  em  síntese, que o acórdão recorrido teria incorrido em vício de integração ao se omitir quanto à apreciação da tese suscitada na apelação, segundo a qual o lançamento tributário se deu de forma viciada, uma vez que a administração tributária do Rio de Janeiro teria deixado de demonstrar as provas que possuía de que o crédito presumido teria sido efetivamente utilizado nas operações, encontrando-se o lançamento fundado na mera previsão legislativa.
+O recurso especial foi inadmitido em face da ausência de vício de integração de na aplicação do óbice da Súmula 284 do STF (ausência de indicação da efetiva omissão e inconformismo sistemático), fundamentos atacados no agravo.
+Passo a decidir.
+O recurso especial se origina de embargos à execução fiscal promovidos pelo ora recorrente para ver desconstituído crédito tributário de ICMS decorrente de lançamento promovido pelo Estado do Rio de Janeiro.
+Consta nos autos que o FISCO fluminense teria promovido lançamento de ICMS recolhido a menor pelo contribuinte em razão da utilização de crédito presumido concedido pelo Estado de Minas Gerais e estornado pelo Estado do Rio de Janeiro em inobservância à necessidade de prévio convênio CONFAZ.
+Alega a autora (i) que o lançamento tributário teria se dado de forma equivocada, uma vez que, entre outros pontos, o fisco fluminense teria deixado de demonstrar as provas de que o crédito presumido teria sido efetivamente utilizado pelo contribuinte e (ii) que o estorno do crédito representa violação do princípio da não cumulatividade.
+A ação foi julgada improcedente no Primeiro Grau de Jurisdição.
+O Tribunal fluminense negou provimento à apelação, afastando expressamente a alegação de vício no lançamento e consignando estar a atuação do ESTADO em conformidade com o entendimento fixado no RE n. 628.075/RS (Tema n. 490 do STF), julgado com repercussão geral admitida.
+Opostos embargos de declaração, foram eles rejeitados.
+Pois bem.
+De início, cumpre registrar que a jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que não incorre em negativa de prestação jurisdicional o acórdão que, mesmo sem ter examinado individualmente cada um dos argumentos trazidos pelo vencido, adota fundamentação suficiente para decidir de modo integral a controvérsia, apenas não acolhendo a tese defendida pelo recorrente.
+Da análise do julgado recorrido, verifica-se que o Tribunal de origem se manifestou, de maneira clara e fundamentada, acerca de todas as questões relevantes para a solução da controvérsia, inclusive em relação às quais o recorrente alega omissão, senão vejamos (e-STJ fl. 325):
+Inicialmente, deixo de acolher a preliminar de nulidade do auto de infração lavrado pela Fazenda Estadual, tendo em vista que não se vislumbram as irregularidades apontadas pela recorrente, notadamente a ausência de descrição do sujeito passivo e dos fatos caracterizadores da infração administrativa, na forma do art. 142 do CTN (ind. 57/60).
+Dessa forma, inexiste vício de integração no acórdão a ensejar violação do art. 1.022 do CPC/2015.
+  Ante  o  exposto,  com  base  no  art.  253,  parágrafo  único,  II,  "b",  do  RISTJ,  CONHEÇO  do  agravo  para  NEGAR  PROVIMENTO  ao  recurso  especial.
+Uma vez promovida nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
