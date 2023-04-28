@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por CARLOS VINICIUS VELASQUEZ contra decisão que inadmitiu recurso especial com fundamento nas Súmulas n. 284 do STF e 7 do STJ.
+Alega o agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão (Agravo de Instrumento n. 2088779-28.2022.8.26.0000) assim ementado (fl. 82):
+AGRAVO DE INSTRUMENTO. PRESTAÇÃO DE SERVIÇOS EDUCACIONAIS. MONITÓRIA. CUMPRIMENTO DE SENTENÇA. 1. Segundo o STJ: "Em situações excepcionais, admite-se a relativização da regra de impenhorabilidade das verbas salariais prevista no art. 649, IV, do CPC/73, a fim de alcançar parte da remuneração do devedor para a satisfação do crédito não alimentar, preservando-se o suficiente para garantir a sua subsistência digna e a de sua família". Assim, a regra da impenhorabilidade de salário inscrita no art. 833, do CPC deve ser aplicada com moderação, mediante a análise do caso concreto, vez que não pode levar à completa frustração do direito do credor, ao passo que protege de forma exacerbada o patrimônio do devedor. 2. Considera-se que a constrição de 10% sobre o valor do salário líquido não compromete sobremaneira a subsistência do agravado, ao passo que igualmente busca a efetividade da demanda. Recurso parcialmente provido.
+No bojo do recurso especial (fls. 86-102), o recorrente aponta violação dos arts. 854, § 3º, e 833, IV, do Código de Processo Civil, sob o argumento de ter sido quebrada a regra da impenhorabilidade salarial.
+Requer  o  conhecimento  e  provimento  do  recurso.
+É  o  relatório.  Decido.
+O  recurso  não merece  prosperar.
+No presente caso, o  Tribunal  de  origem  analisou as questões e assim decidiu  (fls. 83-84):
+Pretende o agravante a penhora de 15% sobre o salário do agravado, tendo em consideração que as tentativas de constrição de bens para pagamento do débito restaram infrutíferas.
+Revendo meu posicionamento anterior, a regra da impenhorabilidade de salário inscrita no art. 833, do CPC deve ser aplicada com moderação, mediante a análise do caso concreto, vez que não pode levar à completa frustração do direito do credor, ao passo que protege deforma exacerbada o patrimônio do devedor.
+Ora, é necessário equilíbrio para fins de análise da questão, vez que, ao mesmo tempo que a execução deve se dar em benefício do credor, é necessário garantir o sustento do devedor.
+ ..
+De fato, é necessário equilíbrio para fins de análise da questão, vez que, ao mesmo tempo que a execução deve se darem benefício do credor, é necessário garantir o sustento do devedor.
+Após detida análise dos autos, verifica-se da declaração de Imposto de Renda referente ao ano-calendário de 2020 que o agravado além de aposentado, recebe a título de rendimentos, a importância de R$10.088,12 mensais (R$ 121.057,49  12), conforme fls.61.
+Ademais, a penhora de 10% sobre a remuneração líquida do agravado, atingirá aproximadamente a quantia mensal de R$ 1.008,81, não inviabilizando, a princípio, a subsistência do devedor e de sua família.
+Assim, analisado o andamento da demanda, ante a excepcionalidade do caso, tratando-se de medida menos onerosa ao devedor, de rigor a penhora de 10% (dez por cento) do valor percebido pelo agravado, até a satisfação do débito.
+Observando-se neste ponto, que referido percentual pode ser reduzido havendo demonstração cabal de que inviabilize a subsistência do devedor.
+No que se refere à alegada violação dos arts. 854, § 3º, e 833, IV, do Código de Processo Civil, por ter sido quebrada a regra da impenhorabilidade salarial, o Tribunal de origem concluiu (fl. 84):
+ ..  a regra da impenhorabilidade de salário inscrita no art. 833, do CPC deve ser aplicada com moderação, mediante a análise do caso concreto, vez que não pode levar à completa frustração do direito do credor" (fl. 83), bem como que "a penhora de 10% sobre a remuneração líquida do agravado, atingirá aproximadamente a quantia mensal de R$ 1.008,81, não inviabilizando, a princípio, a subsistência do devedor e de sua família.
+Nesse contexto, a decisão da Corte de origem de que, em situações excepcionais, é possível a mitigação da impenhorabilidade dos salários para a satisfação de crédito não alimentar, respeitada a dignidade da pessoa humana, encontra amparo na jurisprudência do Superior Tribunal de justiça.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE AGRAVANTE.
+1. "A jurisprudência do STJ caminha no sentido de que é possível, em situações excepcionais, a mitigação da impenhorabilidade dos salários para a satisfação de crédito não alimentar, desde que observada a Teoria do Mínimo Existencial, sem prejuízo direto à subsistência do devedor ou de sua família, devendo o Magistrado levar em consideração as peculiaridades do caso e se pautar nos princípios da proporcionalidade e razoabilidade."(AgInt no AREsp 1.537.427/MS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 11/2/2020, DJe 3/3/2020.) 2. Agravo interno desprovido. (AgInt no AgInt no AREsp n. 2.196.887/MS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 17/4/2023, DJe de 20/4/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PARA ENTREGA DE COISA INCERTA. PENHORA. ATIVOS FINANCEIROS. IMPENHORABILIDADE SALARIAL. MITIGAÇÃO. POSSIBILIDADE. PRESERVAÇÃO DA SUBSISTÊNCIA DO DEVEDOR. REEXAME DE FATOS E PROVAS. INVIABILIDADE. SÚMULA N.º 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A Corte Especial, no julgamento do REsp 1.815.055/SP, Rel. Ministra NANCY ANDRIGHI, DJe 26/8/2020, consignou que a impenhorabilidade do salário pode ser mitigada em respeito ao princípio da máxima efetividade da execução, desde que respeitada a dignidade da pessoa humana.
+3. O acórdão vergastado assentou que não há comprovação do comprometimento da subsistência do devedor, razão pela qual a penhora da quantia bloqueada de R$ 2.354,60 (dois mil, trezentos e cinquenta e quatro reais e sessenta centavos) afigurava-se em consonância com os princípios da proporcionalidade e razoabilidade.
+Alterar as conclusões do acórdão impugnado exigiria incursão fático-probatória, em afronta a Súmula n.º 7 do STJ.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido. (AgInt no AREsp n. 1.806.231/MS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 15/8/2022, DJe de 17/8/2022.)
+Incide, pois, na espécie a Súmula n. 83 do STJ.
+Ante o exposto, nego provimento ao agravo.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC, tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento que ataca decisão interlocutória, na qual não houve prévia fixação de honorários.
+Publique-se.  Intimem-se.
