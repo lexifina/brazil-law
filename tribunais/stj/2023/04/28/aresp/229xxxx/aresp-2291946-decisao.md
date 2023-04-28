@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo manejado contra decisão que inadmitiu recurso especial contra acórdão assim ementado:
+REMESSA NECESSÁRIA/APELAÇÃO CÍVEL. SERVIDORA PÚBLICA MUNICIPAL. TÉCNICA PEDAGOGA. GRUPO MAGISTÉRIO. PROGRESSÃO FUNCIONAL POR ANTIGUIDADE. PREJUDICIAL DO MÉRITO DE PRESCRIÇÃO. NÃO OCORRÊNCIA. RELAÇÃO DE TRATO SUCESSIVO. SÚMULA N.º 85 DO STJ. PRESCRIÇÃO QUINQUENAL EM DETRIMENTO DO PRAZO TRIENAL. RECURSO ESPECIAL REPETITIVO. TEMA 553/STJ (RESP 1251993/PR). MÉRITO. ALEGAÇÃO DE NECESSIDADE DE REGULAMENTAÇÃO AFASTADA. LEIS MUNICIPAIS Nº 7.507/1991 E Nº 7.546/1991. NORMAS DE EFICÁCIA PLENA. ALEGAÇÃO DE INCONSTITUCIONALIDADE. NÃO OCORRÊNCIA. PRECEDENTES TJ/PA. COMPROVAÇÃO DO DIREITO DA AUTORA. DECISÃO EM SINTONIA COM A JURISPRUDÊNCIA DOMINANTE DESTE TRIBUNAL. RECURSO CONHECIDO E IMPROVIDO. SENTENÇA MANTIDA.
+No especial obstaculizado, a parte recorrente sustenta violação do art. 373, I, do CPC/2015, porquanto:
+ ..  aplicar a progressão sob a ótica exclusiva de contagem de tempo de serviço, considerando tão somente a data de ingresso na carreira, sem considerar a leitura final do dispositivo que trata sobre a comprovação do efetivo serviço ao Ente Municipal, como foi feito, é, no mínimo, temerário aos Cofres Públicos.
+É bem verdade que o dispositivo (art. 12) expressamente dispõe "elevação automática à referência superior". Contudo, não se pode ignorar o atendimento a requisitos mínimos, como, por exemplo, o que é previsto no próprio art. 12, em sua parte final, quando exige o interstício mínimo de 5 (cinco) anos de efetivo exercício ao Ente Público Municipal.
+Atualmente, inexiste legislação regulamentando de maneira específica a matéria.
+Passo a decidir.
+Ainda que apontada suposta violação a dispositivo de lei federal, a argumentação do apelo nobre, bem como os fundamentos do aresto combatido, centram-se na necessidade de apreciação da legislação municipal. Nesse passo, deve-se destacar ser notório que o recurso especial tem por escopo a uniformização da interpretação da lei federal e, por isso, não serve para a análise de eventual infringência a lei local, conforme a inteligência da Súmula 280 do STF.
+Soma-se a isso o fato de que acolher a tese de que o "autor do pretenso direito não traz aos autos qualquer elemento constitutivo que demonstre o efetivo exercício no cargo" esbarra no óbice da Súmula 7 do STJ.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
