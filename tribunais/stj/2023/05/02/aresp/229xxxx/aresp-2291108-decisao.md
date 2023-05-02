@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo manejado por Energisa Rondonia - Distribuidora de Energia S/A contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de Rondônia, assim ementado (fl. 207):
+Apelação cível. Pedido de concessão de efeito suspensivo. Não concedido. Ação declaratória. Energia elétrica. Recuperação de consumo. Elementos insuficientes. Dívida inexigível. Recurso desprovido.
+Não se concede o efeito suspensivo vindicado em preliminar das razões recursais por inobservância dos mandamentos legais, bem como por se mostrar contraproducente, pois, neste momento, o recurso interposto está apto à análise do julgador.
+Recuperação de consumo de energia elétrica é devida quando comprovada as inconsistências na medição consumo. Não havendo elementos suficientes para demonstrar a irregularidade é necessária a declaração de inexigibilidade do débito.
+É nulo o processo de recuperação de consumo, em razão do vício de forma, eis que lavrado e elaborado pela concessionária de forma unilateral, sem possibilitar ao consumidor a oportunidade da ampla defesa e do contraditório.
+O parâmetro a ser utilizado para o cálculo do débito deverá ser a média de consumo dos três meses imediatamente posteriores à substituição do medidor e pelo período pretérito máximo de doze meses.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 2º e 3º, XIX, da Lei 9.427/1996 e 31 da Lei 8.987/1995. Sustenta, em resumo, que: (I) compete à ANEEL zelar pelos serviços de energia elétrica; (II) "todo o procedimento adotado está amparado em Resolução Normativa nº 414/2010" (fl. 226); e (III) "O cálculo utilizado na recuperação de consumo está previsto na resolução (art.130), não sendo ato arbitrário da recorrente, que procura apenas a recuperação do que lhe é devido" (fl. 228).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De início, verifica-se que a insurgência não merece prosperar.
+Com efeito, a matéria pertinente aos arts. 2º e 3º, XIX, da Lei 9.427/1996 e 31 da Lei 8.987/1995 não foi apreciada pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+ANTE O EXPOSTO, nego provimento ao agravo. Levando-se em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do CPC).
+Publique-se.
