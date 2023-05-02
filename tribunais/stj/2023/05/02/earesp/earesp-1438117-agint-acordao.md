@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 26/04/2023 a 02/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Impedido o Sr. Ministro Antonio Carlos Ferreira.
+Não participou do julgamento o Sr. Ministro Moura Ribeiro.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):
+Cuida-se de agravo interno interposto por ELIZANE CARESIA contra decisão de fls. 259-262, de lavra deste signatário, que negou provimento ao apelo recursal pela incidência do enunciado da Súmula n.º 168/STJ.
+Depreende-se dos autos que ELIZANE CARESIA, ora agravante, interpôs agravo de instrumento contra decisão que, no âmbito da ação de indenização que ajuizou contra a CAIXA ECONÔMICA FEDERAL e OUTRA, reconheceu a ilegitimidade passiva daquela, para responder por danos decorrentes de atraso da obra (fls. 3-11). Por decisão unipessoal, foi negado provimento ao agravo (fls. 13-22). Insatisfeita, a agravante interpôs agravo regimental (fls. 30-43), ao qual foi negado provimento por acórdão proferido pela e. 4.ª Turma do Tribunal Regional Federal da 4.ª Região (fls. 55-66).
+Irresignada, manejou o apelo nobre (fls. 74/92) o qual não foi admitido na origem (fls. 99-100), ensejando a interposição do AREsp 1.438.117/SP, o qual foi conhecido para não conhecer do recurso especial, por decisão da lavra do e. Ministro Paulo de Tarso Sanseverino (fls. 130-136). Insatisfeita, interpôs agravo interno (fls. 139-154), ao qual foi negado provimento, nos termos inicialmente mencionados (fls. 163-172).
+Fundamentando-se em precedentes da Quarta Turma (AgInt no Resp nº 1.606.103/RN, rel. min. Ministro Luis Felipe Salomão, julgado em 21/11/2019), afirmando que "(..) Conquanto se cuide, em ambos os casos, de relação havida entre a instituição financeira e a incorporadora, as soluções jurídicas encontradas são totalmente díspares, ou seja, enquanto o acórdão reprochado confere ilegitimidade passiva da Caixa, o acórdão paragonado, por sua vez, decidiu pela sua legitimidade quando houver atraso na entrega da obra em empreendimento imobiliário sujeito ao programa minha casa minha vida. E o mais grave: o acórdão embargado ignora a existência manifesta da atuação da Caixa Econômica Federal como agente executor e operador das políticas federais para a promoção de moradia para consumidores de baixa renda.". O Ministério Público Federal opinou pelo não provimento dos embargos (fls. 254-257). Decisão da lavra deste signatário negou provimento ao recurso, em razão da incidência à hipótese dos autos do teor da Súmula n.º 168/STJ (fls. 259-262).
+Inconformada, no agravo interno em análise, a agravante repisa os fundamentos dos embargos de divergência, argumentando, em síntese, que "(..) a Caixa Econômica Federal é solidária na responsabilização pelos danos em discussão, levando-se em conta os seguintes pressupostos: i) que o financiamento é atrelado ao "minha casa minha vida c/c o FGTS; ii) que a Caixa escolheu a construtora (contrato em anexo); iii) que a Caixa (conf. cl.19ª, alínea "g" do contrato de mútuo), tinha o compromisso de GERENCIAR, FISCALIZAR E ADMINISTRAR A OBRA, tendo poderes, inclusive, para SUBSTITUIR A CONSTRUTORA, o que não fez no tempo e modo previsto; iv) que as decisões vergastadas estão lastreadas, equivocadamente, sobre tema diverso do postulado, ou seja, eles insistem em tratar que no caso analisado a matéria seria de VÍCIOS DE CONSTRUÇÃO, quando, na verdade, o tema central aqui trazido à baila, por sua vez, tem a ver com ATRASO NA ENTREGA DE IMÓVEL, cujas consequências gozam de expressa previsão contratual..". Requer o provimento do agravo com a reconsideração da decisão atacada.
+Sem impugnação (fl. 278).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL - ATRASO NA ENTREGA DE IMÓVEL - ILEGITIMIDADE DA CEF - MERO AGENTE FINANCEIRO - DELIBERAÇÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AOS EMBARGOS DE DIVERGÊNCIA - INSURGÊNCIA DA AGRAVANTE.
+1. A jurisprudência da Segunda Seção é firme no sentido de reconhecer a ilegitimidade passiva da Caixa Econômica Federal - CEF - para responder por vício de construção de imóvel quando atuar como mero agente financeiro. (ut. AgInt no CC 180.829/SP, Rel. Min. Luis Felipe Salomão, Segunda Seção, julgado em 23/2/2022, DJe 3/3/2022).
+2. O v. acórdão embargado encontra-se em sintonia com a jurisprudência desta eg. Corte Superior, de modo que se revela inarredável a incidência da Súmula n.º 168/STJ, segundo a qual " não cabem embargos de divergência, quando a jurisprudência do tribunal se firmou no mesmo sentido do acórdão embargado".
+3. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):
+O inconformismo não merece prosperar.
+1. Como consignado na decisão agravada, Segunda Seção desta Corte, refletindo o entendimento atual tanto da Terceira quanto da Quarta Turmas, se posicionou no sentido de que a Caixa Econômica Federal não possui legitimidade para responder à ação por vício de construção de imóvel quando atuar como mero agente financeiro. Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. CAIXA ECONÔMICA FEDERAL - CEF. ATUAÇÃO COMO MERO AGENTE FINANCEIRO. ILEGITIMIDADE PASSIVA RECONHECIDA PELO JUÍZO FEDERAL. COMPETÊNCIA DO JUÍZO ESTADUAL. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência do STJ é firme no sentido de reconhecer a ilegitimidade passiva da Caixa Econômica Federal - CEF para responder à ação por vício de construção de imóvel quando atuar como mero agente financeiro.
+2. Agravo interno não provido.
+(AgInt no CC n. 180.829/SP, relator Ministro Luis Felipe Salomão, Segunda Seção, julgado em 23/2/2022, DJe de 3/3/2022.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROGRAMA MINHA CASA MINHA VIDA. PEDIDO DE INDENIZAÇÃO. DANOS MATERIAIS E MORAIS. ATRASO NA ENTREGA DO IMÓVEL. LEGITIMIDADE DA CEF. AUSÊNCIA. AGENTE FINANCEIRO. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da jurisprudência desta Corte, nos casos em que a atuação da CEF na relação jurídica sub judice ocorre exclusivamente na qualidade de agente operador do financiamento para fim de aquisição de unidade habitacional, como no caso em apreço, não detém ela legitimidade para responder pelo descumprimento contratual relativo ao atraso na entrega do imóvel adquirido com recursos destinados ao Programa Minha Casa Minha Vida (PMCMV).
+2. Razões recursais insuficientes para a revisão do julgado.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 1.644.884/PB, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 1/4/2019, DJe de 9/4/2019.)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. ATRASO NA ENTREGA DE IMÓVEL. PROGRAMA MINHA CASA, MINHA VIDA (PMCMV). ILEGITIMIDADE PASSIVA DA CAIXA ECONÔMICA FEDERAL. INEXISTÊNCIA DE AFRONTA AOS ARTS. 489 E 1.022 DO CPC/2015. APLICAÇÃO DAS SÚMULAS 5, 7 E 83 DO STJ.
+1. O acórdão recorrido analisou as questões necessárias ao deslinde da controvérsia, não se configurando omissão, contradição ou negativa de prestação jurisdicional.
+2. Alterar a conclusão do acórdão recorrido de que, no caso concreto, a Caixa Econômica Federal atuou exclusivamente na qualidade de mero agente financeiro demandaria reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+3. "A jurisprudência do STJ é firme no sentido de reconhecer a ilegitimidade passiva da Caixa Econômica Federal - CEF para responder à ação por vício de construção de imóvel quando atuar como mero agente financeiro" (AgInt no CC 180.829/SP, Rel. Ministro Luis Felipe Salomão, Segunda Seção, julgado em 23/2/2022, DJe 3/3/2022). Incidência da Súmula 83 do STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.041.551/AL, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 10/10/2022, DJe de 17/10/2022.)
+Diante disso, a pretensão recursal esbarra na Súmula nº 168/STJ, segundo a qual "não cabem embargos de divergência, quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado".
+2. Do exposto, nega-se provimento ao agravo interno.
+É o voto.
