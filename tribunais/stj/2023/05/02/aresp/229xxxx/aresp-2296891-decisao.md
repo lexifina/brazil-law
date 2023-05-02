@@ -1,0 +1,62 @@
+DECISÃO
+Trata-se, na origem, de ação de reivindicatória ajuizada por WILLIAM MACHADO DA CRUZ em desfavor de ALDEMIR SANTOS OLIVEIRA (ora recorrente).
+Manejado o agravo de instrumento em contrariedade à decisão que determinou a expedição de mandado de imissão na posse em favor do autor (ora recorrido), a Segunda Turma de Direito Privado do Tribunal de Justiça do Estado do Pará, por unanimidade, negou-lhe provimento, nos termos da ementa (e-STJ, fls. 47-48):
+AGRAVO DE INSTRUMENTO. AÇÃO DE IMISSÃO NA POSSE. IMÓVEL ADQUIRIDO DA CAIXA ECONÔMICA FEDERAL EM LEILÃO. ANTECIPAÇÃO DA TUTELA. PREENCHIDOS OS REQUISITOS DO ART. 300 DO CPC. PROPRIEDADE DEVIDAMENTE COMPROVADA POR MEIO DE REGISTRO NA MATRÍCULA DO IMÓVEL. PRESUNÇÃO DE VERACIDADE. RECURSO CONHECIDO E DESPROVIDO, À UNANIMIDADE.
+1. No caso concreto, a probabilidade do direito para a concessão da liminar de imissão na posse se enlaça à comprovação do efetivo domínio sobre o bem pela parte autora, o que foi efetivado por meio da apresentação do Registro da Propriedade na matrícula do imóvel e de juntada da Escritura Pública de Compra e Venda firmada com a Caixa Econômica Federal.
+2. Presente o perigo de dano ou risco ao resultado útil do processo, considerando que o Autor, ora Agravado, adquirente do imóvel, está privado de usufruí-lo enquanto terceiro ocupa o bem sem arcar com qualquer ônus para tanto.
+3. A alegação de que o imóvel se encontra em litígio na Justiça Federal não é suficiente para afastar a presunção de veracidade atribuída ao registro de propriedade realizado pelo Agravado em cartório, mormente quando há sentença de improcedência prolatada pelo Juízo Federal sob o fundamento de que a parte se encontrava inadimplente com suas obrigações contratuais.
+4. Manutenção da decisão agravada que se impõe.
+5. Recurso conhecido e desprovido à unanimidade.
+Opostos os embargos de declaração, o Tribunal local os rejeitou, conforme ementa abaixo reproduzida (e-STJ, fl. 72):
+EMBARGOS DE DECLARAÇÃO EM AGRAVO DE INSTRUMENTO. INEXISTÊNCIA DE VÍCIOS. RECURSO CONHECIDO E DESPROVIDO À UNANIMIDADE.
+1. Nos termos do art. 1.022 do CPC, os Embargos de Declaração são espécie de recurso de fundamentação vinculada, cabíveis apenas quando houver, na decisão embargada, omissão, obscuridade, contradição ou erro material.
+2. Resta claro que os Embargos de Declaração apresentados visam apenas rediscutir matéria devidamente analisada e julgada por este Colegiado, inexistindo vícios no Acórdão recorrido, mas sim mero inconformismo com os termos decisórios
+3. Inexistindo contradição, obscuridade, omissão ou eventual erro material, a rejeição dos Declaratórios é medida que se impõe, à unanimidade.
+Contra o acórdão, ALDEMIR SANTOS OLIVEIRA, com fulcro no art. 105, III, a , da Constituição Federal, interpôs recurso especial, apontando violação ao art. 1.210 do Código Civil; e ao art. 265, IV, a, do CPC/2015.
+Em suas razões, alegou o recorrente a existência de processo tratando da propriedade do bem em objeto da presente demanda, de modo que o bem imóvel encontra-se sub judice.
+Aduziu que a Caixa Econômica Federal vendeu o bem que está sendo discutido na Justiça Federal. Logo, conforme argumento apresentado, o presente feito deve ser suspenso até que se resolva o processo que tramita perante a justiça federal.
+Não foram apresentadas as contrarrazões.
+O processamento do apelo especial não foi admitido pela Corte de origem ante o entendimento de ausência de violação aos artigos indicados e pela incidência da Súmula n. 735 do Supremo Tribunal Federal (e-STJ, fls. 92-96), o que ensejou a interposição do presente agravo (e-STJ, fls. 97-103).
+Brevemente relatado, decido.
+No caso vertente, insurge-se o recorrente contra a decisão que deferiu a liminar de imissão na posse do imóvel em litígio em favor do recorrido.
+Compulsando os autos, depreende-se que a liminar de imissão deferida na instância singela fora mantida em julgamento pelo Colegiado estadual, porquanto presente a probabilidade de direito exigida para a concessão da tutela provisória pleiteada pelo então autor.
+Veja-se (e-STJ, fls. 50-54, sem grifos no original):
+Inicialmente, por cautela, deferi o pedido de efeito suspensivo pleiteado, mantendo na posse aquele que nela se encontrava. No entanto, em análise mais acurada do feito, à luz do contraditório, entendo não assistir razão à parte agravante, na medida em que, de fato, preenchidos os requisitos necessários ao deferimento da respectiva liminar.
+Explico.
+A Ação de Imissão na Posse é demanda de natureza petitória, na qual, diversamente das ações possessórias, discute-se essencialmente o direito de propriedade, estando submetida ao rito ordinário e, consequentemente, às regras gerais relativas às tutelas de urgência
+O regime geral das tutelas de urgência está preconizado no artigo 300 do Código de Processo Civil que unificou os pressupostos fundamentais para a sua concessão:
+ ..
+No caso concreto, a probabilidade do direito para a concessão da liminar de imissão na posse se enlaça à comprovação do efetivo domínio do bem pela parte autora, ora agravada, oque foi efetivado por meio da apresentação do Registro da Propriedade na matrícula do imóvel(ID 7711144 a 7711151 do processo originário) e juntada da Escritura Pública de Compra e Venda firmada com a Caixa Econômica Federal - CEF (ID 7711153 a 7711171 dos autos originários).
+Por sua vez, o Agravante afirma que o procedimento de venda do imóvel por aquela instituição bancária estaria eivado de vícios, sendo objeto de litígio judicial em trâmite na Justiça Federal. Aduz ainda que possui interesse em conciliar com a CEF e que, como reside no imóvel há 20 (vinte) anos, o cumprimento da decisão recorrida lhe causará dano irreparável, maculando o princípio da dignidade da pessoa humana.
+Ao consultar o site do Tribunal Regional Federal - Seção Judiciária do Pará, constato que realmente o Recorrente propôs Ação de Esbulho/Turbação/Ameaça em desfavor da Caixa Econômica Federal (Processo nº 0014881-92.2016.401.3900). Entretanto, a referida demanda foi julgada improcedente, estando pendente de julgamento apenas a apelação interposta pelo ora Agravante. Assim, até o presente momento, não há notícias nos autos acerca de qualquer decisão impedindo a imissão na posse do imóvel, seja de forma precária ou definitiva.
+Destaco que, segundo consta na sentença do juiz federal (ID 11282654 do processo originário), o imóvel foi levado a leilão em virtude da inadimplência do Agravante, que deixou dequitar com o débito relativo ao financiamento bancário até o momento da assinatura do auto de arrematação, limite previsto pelo art. 34 do Decreto-Lei nº 70/66.
+Não obstante, vale ainda dizer que o juízo a quo, antes de conceder a presente liminar de imissão na posse, deu prazo de 48 (quarenta e oito) horas para que o Recorrente demonstrasse eventual depósito do valor em favor da CEF (ID 8581543 dos autos de primeiro grau), contudo ele permaneceu inerte.
+Percebe-se, então, que ao Agravante foram ofertadas oportunidades de comprovar o cumprimento de sua obrigação no contrato de compra e venda do imóvel sob alienação fiduciária, porém sem êxito, não sendo razoável que a parte, agora, venha impedir o uso e o gozo do bem por seu atual proprietário.
+Desse modo, entendo que as alegações trazidas pelo Recorrente, em sede de cognição sumária, mostram-se mera expectativa de reaver a posse sobre o imóvel, não possuindo força suficiente para afastar a presunção de veracidade atribuída ao registro da propriedade realizado pelo Agravado em cartório.
+ ..
+Sob esta ótica, vislumbro, neste momento processual, a probabilidade do direito exigida para a concessão da tutela provisória, estando escorreita a decisão agravada.
+Outrossim, vejo presente o perigo de dano ou risco ao resultado útil do processo, considerando que o Autor/Agravado, adquirente do imóvel, está privado de usufruí-lo, enquanto terceiro ocupa o bem sem arcar com qualquer ônus para tanto.
+Ressalto que, se restar demonstrado, posteriormente, impedimento para a imissão na posse do imóvel, poderá a parte agravante reavê-la, retornando ao status quo ante, sem prejuízo da compensação por eventuais perdas e danos sofridos. Logo, não está caracterizada a irreversibilidade da medida.
+Feitas tais considerações e preenchidos os requisitos para a concessão de tutela antecipada, impõe-se a manutenção do decisum vergastado que determinou a imissão do Agravado na posse do bem.
+Nota-se que, por se tratar de decisão liminar, cuja natureza se reveste de precariedade e transitoriedade, o recurso especial afigura-se meio processual inviável para discutir a correção de acórdão que nega ou defere medida liminar ou tutela antecipatória, tendo em vista não se tratar de decisão em única ou última instância.
+Ilustrativamente (sem grifos no original):
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. TUTELA ANTECIPADA. PEDIDO DE REVOGAÇÃO. SÚMULA N. 735/STF. TUTELA DE URGÊNCIA. DISCUSSÃO DE MÉRITO NO RECURSO ESPECIAL. DESCABIMENTO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. A jurisprudência do STJ, em regra, não admite a interposição de recurso especial que tenha por objetivo discutir a correção de acórdão que nega ou defere medida liminar ou antecipação de tutela, por não se tratar de decisão em única ou última instância. Incide, analogicamente, o enunciado n. 735 da Súmula do STF. Precedentes.
+ ..
+6. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.999.263/MG, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 20/3/2023, DJe de 24/3/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRINCÍPIO DA UNIRECORRIBILIDADE. PRECLUSÃO CONSUMATIVA. TUTELA DE URGÊNCIA. PERICULUM IN MORA. CONFIGURAÇÃO. ART. 300 DO CPC/2015. SÚMULA Nº 735/STF. INCIDÊNCIA. REEXAME DE PROVAS. APLICAÇÃO. SÚMULA Nº 7/STJ.
+ ..
+2. A jurisprudência desta Corte Superior, diante do disposto na Súmula nº 735/STF, entende que, em regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em virtude da natureza precária da decisão, sujeita à modificação a qualquer tempo.
+ ..
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.124.510/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 13/2/2023, DJe de 17/2/2023.)
+Na hipótese dos autos, tendo em vista que a Corte local deferiu a liminar por constatar, mediante o confronto das provas dos autos com o direito pleiteado, os requisitos ensejadores da concessão de tutela nos moldes do art. 300 do CPC/2015, não pode este Superior Tribunal proceder ao reexame do acervo-fático probatório a fim de adotar conclusão diversa. Assim, considerando que a reapreciação de provas não constitui finalidade precípua do recurso especial, o acolhimento da pretensão é providência inviável, incidindo o enunciado da Súmula n. 7/STJ.
+Por fim, registra-se não ser caso de revaloração da prova, pois revalorar o fato é atribuir o devido valor jurídico a fato incontroverso, sobejamente reconhecido.
+Portanto, não é possível o acolhimento do recurso com a simples revaloração de fatos, mas, diferentemente, seria necessário o revolvimento do conjunto probatório, medida obstada pela Súmula 7/STJ.
+Não se olvide, ainda, do entendimento já adotado no Superior Tribunal de Justiça de que "a errônea valoração da prova que dá ensejo ao recurso especial é aquela que decorre de equívoco na aplicação de norma ou princípio no campo probatório, e não quanto às conclusões das instâncias ordinárias acerca dos elementos informativos coligidos aos autos do processo" (AREsp n. 1380879/RS, Ministro Ricardo Villas Bôas Cueva, DJe de 5/8/2020).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO REIVINDICATÓRIA. IMISSÃO NA POSSE. AGRAVO DE INSTRUMENTO. 1. O RECURSO ESPECIAL É O INVIÁVEL PARA DISCUTIR O ACERTO DE DECISÃO QUE CONCEDEU OU NEGOU LIMINAR. SÚMULA N. 735/STF. 2. REQUISITOS PARA CONCESSÃO DA TUTELA. PRETENSÃO QUE DEMANDA REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA N. 7/STJ. 3. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
