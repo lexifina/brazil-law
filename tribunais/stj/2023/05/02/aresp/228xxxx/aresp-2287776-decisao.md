@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo em recurso especial desafiando decisão que não admitiu recurso especial interposto por EDILSON CANUTO DE OLIVEIRA e Outro com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Norte, assim ementado:
+PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. AÇÃO REINTEGRATÓRIA DE POSSE. SUPOSTA ILEGITIMIDADE PASSIVA AD CAUSAM E INCOMPETÊNCIA DO JUÍZO ORIGINÁRIO. IMÓVEL OBJETO DE INVENTÁRIO. ATOS DE TURBAÇÃO IMPUTADOS DIRETAMENTE A SEGUNDA RECORRENTE. LEGITIMIDADE EVIDENCIADA. SOLUÇÃO SOBRE A VERACIDADE DOS FATOS QUE CONSISTE NO PRÓPRIO MÉRITO DA AÇÃO PRINCIPAL. IMÓVEL OBJETO DE INVENTÁRIO. DEMANDA POSSESSÓRIA QUE EXIGE ANÁLISE DE FATOS E AMPLA DILAÇÃO PROBATÓRIA. JUÍZO QUE EXCEDE AO RITO DO INVENTÁRIO. ART. 612 DO CÓDIGO DE PROCESSO CIVIL. DECISÃO MANTIDA. RECURSO CONHECIDO E DESPROVIDO. AGRAVO INTERNO PREJUDICADO.
+Os embargos de declaração opostos foram parcialmente acolhidos, nos termos da seguinte ementa:
+EMBARGOS DE DECLARAÇÃO EM AGRAVO DE EMENTA INSTRUMENTO. SUPOSTAS OMISSÕES. ENFRENTAMENTO PONTUAL DE UM DOS PLEITOS INDICADOS COMO OMISSO. VERIFICAÇÃO DE VÍCIO NO QUE TOCA AO PEDIDO DE CONDENAÇÃO DA PARTE ADVERSA EM LITIGÂNCIA DE MÁ-FÉ. CONDUTA PROCESSUAL DA AGRAVADA QUE NÃO SUBSUME ÀS HIPÓTESES PREVISTAS NO ART. 80, I, II E III, DO CÓDIGO DE PROCESSO CIVIL. INDEFERIMENTO DO PLEITO CONDENATÓRIO QUE SE IMPÕE. DESPROVIMENTO DO AGRAVO MANTIDO. EMBARGOS CONHECIDOS E PARCIALMENTE PROVIDOS.
+Nas razões do recurso especial, sustentam os recorrentes, ora agravantes, além de dissídio jurisprudencial, que deve ser reconhecida a competência do juízo de inventário para processar e julgar ação de reintegração de posse sobre bem inventariado, na melhor interpretação do art. 612 do CPC/2015.
+Defendem, outrossim, que o Tribunal a quo negou vigência ao art. 561 do CPC/2015, na medida em que o indeferimento liminar da petição inicial da ação de reintegração de posse é medida que se impõe, pois não há esbulho, fato que revela a impossibilidade jurídica do pedido.
+Não foram apresentadas contrarrazões ao recurso especial.
+O referido recurso não foi admitido, por se entender, essencialmente, incidente, na espécie, a Súmula 284/STF.
+Daí porque foi interposto o presente agravo.
+A seguir, vieram os autos conclusos a este Relator.
+É o relatório. Passo a decidir.
+O recurso especial tem origem em agravo de instrumento, interposto nos autos de ação de reintegração de posse, contra decisão que rejeitou a alegada incompetência e a ilegitimidade passiva ad causam, mantendo a audiência aprazada por videoconferência.
+Com efeito, acerca da competência jurisdicional do juízo de inventário para processar e julgar a ação de reintegração de posse, o Tribunal a quo não a reconheceu tendo em vista a incompatibilidade dos ritos processuais respectivos. Confira-se, por oportuno, trecho esclarecedor do voto condutor do acórdão recorrido:
+(..) a demanda originária é de natureza cognitiva, cujo rito exige dilação probatória, haja vista que o direito nela vindicado não se apresenta certo, o que conduz ao entendimento de que a matéria debatida é estranha à ação de inventário e partilha, pois demanda maior indagação e reclama a produção de outras provas, retirando a competência do juízo sucessório/inventário para seu processamento e consequente julgamento.
+No ponto, o recurso especial não ultrapassa o conhecimento. Considera-se deficiente, a teor da Súmula 284 do STF, a fundamentação recursal que alega violação de dispositivo legal cujo conteúdo jurídico é dissociado da tese defendida no recurso especial.
+Confira-se:
+PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 1.022 DO CPC/2015. FILIAÇÃO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. SUCESSÃO. CAPACIDADE. DATA DA ABERTURA. DIREITO INTERTEMPORAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO DO RECURSO. SÚMULA N. 284 DO STF. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83/STJ. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. VERBA HONORÁRIA. PERCENTUAL. REDUÇÃO. DESCABIMENTO. § 11 DO ART. 85 DO CPC/2015. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+3. Considera-se deficiente, a teor da Súmula n. 284 do STF, a fundamentação recursal que alega violação de dispositivo legal cujo conteúdo jurídico é dissociado da tese defendida no recurso especial.
+4. Segundo a jurisprudência do STJ, não é suficiente a comprovação de inexistência de vínculo biológico para afastar a paternidade, exigindo-se também a inexistência de socioafetividade. Precedentes.
+ ..
+12. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1764664/PR, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 29/8/2022, DJe de 31/8/2022)
+Deveras, no presente caso, a tese sustentada pela parte recorrente para que seja reconhecida a competência jurisdicional está amparada no art. 612 do CPC/2015, dispositivo que não se relaciona diretamente ao pedido recursal.
+Outrossim, quanto à impossibilidade jurídica do pedido, em razão de não existir o alegado esbulho, o Tribunal a quo asseverou que o tema é de mérito e não deve ser enfrentado na via eleita do agravo de instrumento, razão pela qual não há o devido prequestionamento, tampouco o esgotamento das instâncias conforme determinado pela inteligência da Súmula 281/STF.
+Dessa forma, entende-se que o acórdão recorrido deve ser confirmado pelos seus próprios fundamentos.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
