@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interposto por AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S.A. contra a decisão que negou seguimento ao recurso especial. O apelo extremo, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra o acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZATÓRIA. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. PACIENTE QUE SOFREU FRATURA EXPOSTA EM SUA PERNA ESQUERDA APÓS ACIDENTE DE TRÂNSITO, SENDO OPERADA PARA COLOCAÇÃO DE PINOS EXTERNOS E ORIENTADA A FAZER NOVA CIRUGIA EM SEIS MESES PARA RETIRADA DOS PINOS. DESCREDENCIAMENTO DO HOSPITAL E DO MÉDICO QUE ATENDIAM A PACIENTE. NEGATIVA DE COBERTURA PARA REALIZAÇÃO DO PROCEDIMENTO COM O PROFISSIONAL QUE ASSISTIA A CONSUMIDORA. EXPERT QUE ATESTOU QUE A POSTERGAÇÃO DO TRATAMENTO, OCASIONADO PELA DIFICULDADE EM ENCONTRAR PROFISSIONAIS QUE ACOMPANHASSEM A EVOLUÇÃO DO CASO E DESSEM CONTINUIDADE AO TRATAMENTO CIRÚRGICO INICIADO, GEROU ATRASO NA RECUPERAÇÃO DA AUTORA, "JÁ QUE A FIXAÇÃO EXTERNA EFETIVADA ANTERIORMENTE NÃO FOI COMPLETAMENTE EFICAZ E A AUTORA NECESSITOU DE TRATAMENTO (OSTEOSSÍNTESE) COMPLEMENTAR". VIOLAÇÃO AO ART. 17, CAPUTE §1º, DA LEI Nº 9.656/98. CONSUMIDORA QUE NÃO FOI NOTIFICADA SOBRE O DESCREDENCIAMENTO DE SEU MÉDICO. NEGATIVA DE COBERTURA QUE FOI ILEGÍTIMA E CONFIGUROU FALHA NA PRESTAÇÃO DOS SERVIÇOS. DANOS MORAIS CABALMENTE CARACTERIZADOS E BEM FIXADOS. SENTENÇA QUE SE MANTÉM. NEGADO PROVIMENTO A AMBOS OS RECURSOS" (fl. 479 e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 530/534 e-STJ).
+Nas razões do recurso especial (fls. 541/554 e-STJ), a recorrente apontou violação dos arts. 1.022, II, do Código de Processo Civil, 12, VI, da Lei nº 9.656/1998 e 186, 187, 188, I, e 927 do Código Civil.
+Sustentou, em síntese, ser omisso o acórdão, por não ter se manifestado quanto ao argumento de que o reembolso deve ser limitado à relação de preços de serviços médicos e hospitalares praticados pelo respectivo produto, de acordo com o artigo 12, VI, da Lei nº 9.656/1998.
+Aduziu, ainda, a impossibilidade de aplicação de danos morais ante a inexistência de descumprimento contratual.
+Apresentadas as contrarrazões, o recurso foi inadmitido na origem. Sobreveio o presente agravo, no qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A alegação de negativa de prestação jurisdicional merece prosperar.
+De fato, observa-se que o Tribunal de origem rejeitou os declaratórios sem se manifestar de forma clara acerca do disposto no artigo 12, VI, da Lei nº 9.656/1998, o qual prevê expressamente que o reembolso se dará nos limites das obrigações contratuais.
+Com efeito, o art. 1.022, parágrafo único, inciso II, do Código de Processo Civil de 2015 (art. 535 do CPC/1973), fazendo referência ao artigo 489, § 1º, inciso IV, do CPC/2015, determina que é omissa a decisão que "(..) não enfrentar todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador".
+Assim, não tendo o Tribunal local enfrentado questão necessária ao deslinde da controvérsia, resta impossibilitado o acesso à instância extrema, cabendo à parte vencida invocar, como no caso, a transgressão ao art. 1.022 do CPC/2015 para anular o acórdão recorrido e suprir a contradição existente.
+A propósito:
+"PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 1022 DO CPC/2015. OMISSÃO. NULIDADE DO JULGADO. RETORNO DOS AUTOS. NECESSIDADE.
+1. Existindo na petição recursal alegação de ofensa ao art. 1.022 do CPC/2015, a constatação de que o Tribunal de origem, mesmo após a oposição de Embargos Declaratórios, não se pronunciou sobre pontos essenciais ao deslinde da controvérsia autoriza o retorno dos autos à instância ordinária para novo julgamento dos aclaratórios opostos.
+2. Nesse contexto, deve ser dado provimento ao Recurso Especial a fim de que os autos retornem ao Tribunal de origem para que este se manifeste sobre a matéria articulada nos Embargos de Declaração, em face da relevância da omissão apontada.
+3. Recurso Especial provido, determinando o retorno dos autos à Corte de origem, para novo julgamento dos Embargos de Declaração" (REsp 1.642.708/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/2/2017, DJe 17/4/2017).
+Ante o exposto, conheço do agravo e dou provimento ao recurso especial a fim de determinar o retorno dos autos à Corte de origem para que seja apreciada a matéria suscitada no s declaratórios de fls. 496/502 (e-STJ) como entender de direito, restando prejudicada a análise das demais questões suscitadas.
+Publique-se.
+Intimem-se.
