@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 26/04/2023 a 02/05/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos por APARECIDA LAURINDA DOS SANTOS GUDE ao acórdão assim ementado:
+PROCESSUAL CIVIL. AGRAVO INTERNO. EMBARGOS DE DECLARAÇÃO OPOSTOS À DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. ERRO GROSSEIRO. NÃO CABIMENTO. INTERRUPÇÃO DO PRAZO PROCESSUAL. NÃO OCORRÊNCIA. INTEMPESTIVIDADE DO AGRAVO EM RECURSO ESPECIAL. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. A parte agravante foi intimada da decisão que inadmitira seu recurso especial em 05.10.2021, com o termo final de contagem do prazo em 28.10.2021 conforme certificado; todavia, o agravo em recurso especial somente foi interposto em 14.12.2021, quando já esgotado o prazo recursal de 15 dias úteis. Assim, é manifesta a intempestividade do recurso segundo disposição contida no art. 994, VIII, c/c os arts. 1.003, § 5º, 1.029, e 219, caput, todos do CPC/2015.
+2. Segundo a jurisprudência do Superior Tribunal de Justiça, o único recurso cabível contra a decisão de inadmissão do recurso especial é o agravo em recurso especial previsto no art. 1.042 do CPC/2015; a oposição de embargos de declaração contra essa decisão é considerada erro grosseiro e não interrompe o prazo recursal para interposição do recurso cabível.
+3. Havendo suposta incorreção ou inadequação dos fundamentos apontados na decisão de admissibilidade, como alega a parte agravante, ainda assim, o agravo em recurso especial é o instrumento processual cabível para tal questionamento.
+4. Agravo interno a que se nega provimento (565/568).
+Sustenta-se, nas razões do recurso, omissão no julgado ao argumento de que: (a) não há que se falar em erro grosseiro em virtude da oposição de embargos de declaração contra a decisão de inadmissibilidade do recurso especial, já que os aclaratórios podem ser opostos contra qualquer decisão; (b) "neste caso concreto a decisão que inadmitiu o recurso especial trouxe como razão de decidir a existência de dissenso jurisprudencial, porém no Recurso Especial em nenhum momento trouxe dissenso jurisprudencial, logo somente através de embargos de declaração que esse vício seria extirpado e assim no presente caso os embargos são mais do que cabíveis, já que no agravo a agravante ora embargante teria que atacar um fundamento que sequer existe" (fl. 573).
+Requer a parte autora, ao final, o acolhimento dos embargos de declaração com efeitos infringentes.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL INTEMPESTIVO. INTERPOSIÇÃO DE RECURSO MANIFESTAMENTE INCABÍVEL. ERRO GROSSEIRO. NÃO INTERRUPÇÃO DO PRAZO PROCESSUAL. EMBARGOS DE DECLARAÇÃO. OMISSÃO. INEXISTÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. O inconformismo da parte embargante não se enquadra nas hipóteses de cabimento dos embargos de declaração, previstas no art. 1.022 do CPC. Não há na decisão ora combatida vícios de omissão, contradição, obscuridade ou erro material, não se prestando os aclaratórios para o fim de rediscutir os aspectos jurídicos anteriormente debatidos.
+2. O acórdão embargado confirmou a intempestividade do agravo em recurso especial interposto pela embargante, esclarecendo que a oposição de embargos de declaração contra a decisão de inadmissibilidade do recurso especial configura erro grosseiro e não interrompe o prazo recursal para interposição do recurso cabível.
+3. Constato que a parte embargante pretende renovar a discussão sobre questão que já foi decidida de maneira fundamentada, o que não é possível por meio dos embargos de declaração.
+4. Rever as matérias a qui alegadas acarretaria rediscutir entendimento já manifestado e devidamente embasado. Os embargos declaratórios não se prestam à inovação, à rediscussão da matéria tratada nos autos ou à correção de eventual error in judicando.
+5. Embargos de declaração rejeitados.
+VOTO
+Os embargos declaratórios não apresentam vícios formais, foram opostos dentro do prazo e cogitam, objetivamente, de matéria própria dessa espécie recursal (arts. 1.022 e 1.023 do CPC). Nada há, enfim, que impeça o seu conhecimento.
+O inconformismo da parte embargante não se enquadra nas hipóteses de cabimento dos embargos de declaração, previstas no art. 1.022 do CPC. Não há na decisão ora combatida vícios de omissão, contradição, obscuridade ou erro material, não se prestando os aclaratórios para o fim de rediscutir os aspectos jurídicos anteriormente debatidos.
+O acórdão embargado confirmou a intempestividade do agravo em recurso especial interposto pela embargante, esclarecendo que a oposição de embargos de declaração contra a decisão de inadmissibilidade do recurso especial configura erro grosseiro e não interrompe o prazo recursal para interposição do recurso cabível. Confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APLICABILIDADE DO CPC/2015. RECURSO DE AGRAVO EM RECURSO ESPECIAL INTEMPESTIVO. EMBARGOS DE DECLARAÇÃO OPOSTOS CONTRA DECISÃO DA CORTE DE ORIGEM QUE INADMITIU O RECURSO ESPECIAL. NÃO CABIMENTO. NÃO INTERRUPÇÃO DO PRAZO RECURSAL.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos dos arts. 219 e 1.003, § 5º, do CPC/2015, o prazo para interposição do agravo em recurso especial é de 15 (quinze) dias úteis. No caso, o recorrente não logrou demonstrar a alegada tempestividade.
+3. A interposição de recurso manifestamente incabível contra a decisão de inadmissibilidade do recurso especial, como os embargos de declaração, não interrompe o prazo para a interposição do agravo nos próprios autos. Precedentes.
+4. Agravo interno não provido. (AgInt no AREsp n. 2.100.322/RS, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 3/10/2022, DJe de 5/10/2022.)
+Constato, portanto, que a parte embargante pretende renovar a discussão sobre questão que já foi decidida de maneira fundamentada, o que não é possível por meio de embargos de declaração.
+O Superior Tribunal de Justiça assim já se manifestou:
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC/2015. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE. DEVIDO JUÍZO DE ADMISSIBILIDADE RECURSAL.
+1. De acordo com a norma prevista no art. 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. "Se o recurso é inapto ao conhecimento, o colegiado não tem como se pronunciar sobre o mérito, de modo que a falta de exame da matéria de fundo não se caracteriza omissão, senão mera decorrência do exercício do devido juízo de admissibilidade recursal". (EDcl no AgInt nos EREsp 1.559.725/PE, Rel. Ministro Og Fernandes, Primeira Seção, DJe 30/8/2017).
+4. Embargos de declaração rejeitados. (EDcl no AgInt no REsp n. 1.574.004/SE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 8/3/2021, DJe de 11/3/2021 - sem destaques no original.)
+Rever as matérias aqui alegadas acarretaria rediscutir entendimento já manifestado e devidamente embasado. Os embargos declaratórios não se prestam à inovação, à rediscussão da matéria tratada nos autos ou à correção de eventual error in judicando.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
