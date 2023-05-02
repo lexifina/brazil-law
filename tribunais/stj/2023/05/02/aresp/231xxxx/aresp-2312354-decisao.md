@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto pelo MUNICÍPIO DE BELO HORIZONTE, contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"APELAÇÃO CÍVEL - EMBARGOS DO DEVEDOR - PROPOSITURA DE EXECUÇÃO FISCAL APÓS A REALIZAÇÃO DE DEPÓSITO JUDICIAL EM AUTOS DE MANDADO DE SEGURANÇA - IMPOSSIBILIDADE - EXTINÇÃO DO FEITO - ORIENTAÇÃO DO STJ - SENTENÇA CONFIRMADA.
+1. Nos termos da orientação do Superior Tribunal de Justiça, impõe-se "a extinção da execução fiscal ajuizada enquanto vigente causa de suspensão da exigibilidade do crédito tributário." 2. Demonstrado que os valores cobrados em autos de execução fiscal foram objeto de depósito judicial anteriormente à sua propositura, dentro do prazo e no valor estabelecido pelo próprio Fisco Municipal, a extinção do processo executivo é medida que se impõe.
+3. Recurso não provido" (fl. 204e).
+Opostos Embargos de Declaração, foram rejeitados (fls. 225/227e).
+No Recurso Especial, interposto com fundamento na alínea a do permissivo constitucional, aponta violação ao art. 151 do CTN, bem como à Súmula 112/STJ, sustentando, essencialmente, que (a) "tendo em vista que os depósitos efetuados no citado processo não seriam capazes nem se quer de suspender a exigibilidade do Crédito Tributário, é inconcebível reputar como válida qualquer alegação no sentido de que os valores depositados configurariam pagamento capaz de extinguir a referida dívida" (fl. 238e); e (b) "o acórdão recorrido deve ser reformado a fim de que seja reconhecida a ausência de causa suspensiva capaz de extinguir a Execução Fiscal n.º 0024.04.241.557-0, de modo que a cobrança das CDA"s inscritas em dívida ativa é válida e está de acordo com a legislação tributária" (fl. 236e).
+Inadmitido o Recurso Especial (fls. 247/251e), foi interposto o presente Agravo (fls. 292/296e).
+Contraminuta a fls. 305/311e.
+A irresignação não merece acolhimento.
+Inicialmente, com relação à controvérsia envolvendo o Tema 271/STJ, verifico que o Tribunal de origem negou seguimento ao Recurso Especial, com fundamento no art. 1.030, I, b, do CPC/2015, razão pela qual o apelo, quanto aos pontos, não merece apreciação.
+No mais, observa-se que insurgência contra enunciado de Súmula é incabível e não se presta ao exame do Recurso Especial, como já pacificado nesta Corte:
+"Para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula" (Súmula 518, CORTE ESPECIAL, julgado em 26/02/2015, DJe 02/03/2015).
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo, para não conhecer do Recurso Especial.
+Em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015.
+I.
