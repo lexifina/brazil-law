@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, alíneas "a" e "c" da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado de Alagoas, assim ementado:
+"AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. BLOQUEIO. CONTA CONJUNTA. POSSIBILIDADE DE BLOQUEIO APENAS DAMETADE DOS VALORES, DIANTE DA NÃO OCORRÊNCIA DE SOLIDARIEDADE PASSIVA EM RELAÇÃO A TERCEIROS. NÃO COMPROVAÇÃO DA TITULARIDADEINTEGRAL. IMPENHORABILIDADE DE VALORES DECORRENTES DE DÉBITOS NÃO ALIMENTARESCONTIDOSNACONTAEMQUERECEBEPROVENTOSPREVIDENCIÁRIOS E OUTRAS REMUNERAÇÕES, DESDE QUE NÃO PREJUDIQUE A SUBSISTÊNCIA DIGNA DO DEVEDOR E DE SUA FAMÍLIA. HIPÓTESE DOS AUTOSEM QUE A PENHORA SE REVELA INADEQUADA. JUÍZO QUE CONDICIONOU A LIBERAÇÃO DE VALORES AO TRANSCURSO DO PRAZO DE RECURSOIN ALBIS. PEDIDO DE DESBLOQUEIO IMEDIATO DA CONTA. ACOLHIDO. SEGUNDA CONTABANCÁRIA QUE, ENTRETANTO, APESAR DE REVELAR SE TRATAR DE QUANTIASRECEBIDAS POR LIBERALIDADE DE TERCEIRO, NÃO SÃO DESTINADAS AOSUSTENTO DO EXECUTADO OU DE SUA FAMÍLIA. POSSIBILIDADE DE BLOQUEIO. INTELIGÊNCIA DO ART. 833, IV DO CPC/15. NULIDADE DE CITAÇÃO, DIANTE DAFALSIDADE DA ASSINATURA CONSTANTE NA PROCURAÇÃO. NÃO ACOLHIDA. RECURSO CONHECIDO E PARCIALMENTE PROVIDO. À UNANIMIDADE". (e-STJ, fl. 776)
+Opostos embargos de declaração, os primeiros foram rejeitados (e-STJ, fls. 826/834) e os segundos foram parcialmente acolhidos (e-STJ, fls. 854/863).
+Nas razões do recurso especial, o agravante alega violação aos arts. 797 e 833, incisos IV e X do Código de Processo Civil de 2015 e divergência jurisprudencial, sustentando, em síntese, (a) que é possível a relativização das hipóteses de impenhorabilidade desde de que assegurada a dignidade do devedor, de modo que deve ser permitida a constrição de porcentagem dos valores bloqueados em conta bancária oriundos de benefício previdenciário e proventos e (b) que a demanda executiva deve ser realizada no interesse do exequente, devendo o débito vencido ser adimplido.
+Contrarrazões às fls. 1013/1019.
+É o relatório. Passo a decidir.
+Com relação a suposta violação ao art. 797 do CPC/15, tem-se que este não se encontra contemplado no objeto da controvérsia resolvida pelo Tribunal de origem, tampouco foi objeto dos embargos de declaração opostos às fls. 805/812, não se vislumbrando o prequestionamento necessário para viabilizar a interposição do presente recurso especial.
+Daí a inteligência do enunciado da Súmula nº 356 do Supremo Tribunal Federal, aplicada por analogia, a qual orienta que "o ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento".
+Nesse sentido:
+"AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO. PROCESSO CIVIL. FALTA DE PREQUESTIONAMENTO. DIVERGÊNCIA JURISPRUDENCIAL. NÃO REALIZAÇÃO DO COTEJO ANALÍTICO. RECURSO DESPROVIDO.
+1. Aplicam-se as Súmulas n. 282 e 356 do STF quando as questões suscitadas no recurso especial não tenham sido debatidas no acórdão recorrido nem, a respeito, tenham sido opostos embargos declaratórios.
+(..)
+3. Agravo regimental desprovido." (AgRg no AREsp 544.459/MT, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 20/11/2014, DJe de 25/11/2014)
+Com relação a suposta violação aos arts. 833, IV e X do CPC/15, a Corte de origem concluiu que, mesmo diante da possibilidade de penhora de parte da remuneração, restou comprovado que a agravada se utiliza da verba contida na conta corrente para manutenção de sua saúde e de seu filho, de modo que o bloqueio da quantia prejudicaria sua subsistência digna, in verbis:
+"22. Ademais, alegou a recorrente que utiliza da conta para receber seu benefício da aposentadoria e seus proventos do exercício da atividade como psicóloga, o que restou evidenciado também através das provas documentais colacionadas às fls.653/658.
+(..)
+24. A jurisprudência do Superior Tribunal de Justiça vem admitindo, em execução de dívida não alimentar, a flexibilização da regra da impenhorabilidade acima transcrita, quando a hipótese concreta dos autos revelar que o bloqueio de parte da remuneração não prejudica a subsistência digna do devedor e de sua família.
+(..)
+25. Desse modo, a aplicação do art. 833, IV, CPC, exige um juízo de ponderação à luz das circunstâncias que se apresentam no caso concreto, sendo admissível que, em situações excepcionais, se afaste a impenhorabilidade de parte da remuneração do devedor para que se confira efetividade à tutela jurisdicional favorável ao credor.
+26. Assim, a regra da impenhorabilidade pode ser relativizada apenas e somente quando a hipótese concreta dos autos permitir que se bloqueie parte da verba remuneratória, preservando-se o suficiente para garantir a subsistência digna do devedor e de sua família. 27. In casu, há provas de que a recorrente se utiliza da verba para manutenção de sua subsistência e de sua saúde (fls. 660/666), além da saúde de seu filho (fl. 668),que encontra-se impossibilitado de trabalhar, consequentemente de auferir renda, razão pela qual mais uma vez andou bem o juízo singular." (e-STJ, fls. 784/787)
+A decisão está em consonância com o entendimento desta Corte Superior, de modo a incidir a Súmula 83/STJ com relação às alíneas "a" e "c" do permissivo constitucional.
+Nesse sentido:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PENHORA DE PERCENTUAL DA REMUNERAÇÃO. POSSIBILIDADE. SÚMULA N. 83 DO STJ. REEXAME DE CONTEÚDO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. Segundo a jurisprudência desta Corte, a regra geral da impenhorabilidade das verbas salariais pode ser relativizada, em situações excepcionais, para atingir parte da remuneração do devedor, desde que preservado o suficiente para garantir sua subsistência digna. Precedentes.
+2. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n. 83/STJ).
+3. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+4. No caso concreto, o Tribunal de origem analisou as provas contidas no processo para concluir que a penhora deferida não afeta a dignidade da parte devedora. Alterar esse entendimento demandaria reexame do conjunto fático-probatório do feito, vedado em recurso especial.
+5. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp n. 1.984.740/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 28/11/2022, DJe de 5/12/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. IMPENHORABILIDADE DO SALÁRIO. GARANTIA DO MÍNIMO EXISTENCIAL DO DEVEDOR. SÚMULA N. 83/STJ. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. Acerca da penhorabilidade de verba remuneratória, tem prevalecido nesta Corte Superior o entendimento de que a regra da impenhorabilidade pode ser relativizada quando a hipótese concreta dos autos permitir que se bloqueie parte da verba remuneratória do devedor inadimplente, ocasião em que deve ser preservado montante suficiente a assegurar a subsistência digna do executado e sua família.
+2. Na espécie, a Corte de origem consignou que o agravado não possui renda suficiente para, sem prejudicar sua subsistência, adimplir com a obrigação através do deferimento da penhora de seus proventos.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 1.810.791/MS, relator Ministro Raul Araújo, Quarta Turma, julgado em 10/10/2022, DJe de 21/10/2022.)
+Ademais, a modificação do entendimento lançado no v. acórdão recorrido no sentido de que não cabe relativizar a regra da impenhorabilidade demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável na sede estreita do recurso especial, a teor do que dispõe a Súmula 7 do Superior Tribunal de Justiça.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INDENIZATÓRIA. EXECUÇÃO. PENHORA DE CRÉDITO (HONORÁRIOS ADVOCATÍCIOS). RELATIVIZAÇÃO DA IMPENHORABILIDADE. POSSIBILIDADE. REEXAME DE PROVAS. SÚMULA N. 7/STJ.
+1. É possível, excepcionalmente, a mitigação da impenhorabilidade prevista no artigo 833, inciso IV, do Código de Processo Civil - CPC/2015, desde que não haja prejuízo à subsistência digna da parte devedora e de sua família, consideradas as peculiaridades do caso e sempre orientando-se pelos princípios da proporcionalidade e da razoabilidade. Precedentes.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.969.114/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 12/12/2022, DJe de 16/12/2022.)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
