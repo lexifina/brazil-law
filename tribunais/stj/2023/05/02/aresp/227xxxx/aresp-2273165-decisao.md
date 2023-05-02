@@ -1,0 +1,52 @@
+DECISÃO
+PAULO CESAR DIOGENES TARGINO JUNIOR  agrava de decisão que inadmitiu seu recurso especial,  fundado  no  art.  105,  III,  "a",  da  Constituição  Federal,  contra  acórdão  do  Tribunal  de Justiça do Estado de Pernambuco na Apelação Criminal n. 0003037-91.2017.8.17.0001.
+O agravante foi condenado, pelos crimes previstos nos arts. 180 do Código Penal e 16 da Lei n. 10.826/2003, 7 anos de reclusão mais 100 dias-multa, no regime inicial semiaberto.
+A  defesa  alegou, nas razões do recurso especial, a  violação  dos  arts.  59 do Código Penal e 617 do Código de Processo Penal.  Apontou ilegalidade na manutenção do quantum de pena fixada em primeira instância na pena-base, ao argumento de ter havido reformatio in pejus decorrente do acréscimo indevido de fundamentos.
+O  Ministério  Público  Federal , às fls. 1.235-1.239,  opinou  pelo não provimento do AREsp.
+Decido.
+I.  Pena-base
+O agravante alega ocorrência de reformatio in pejus, por ter havido, pela Corte de origem, o acréscimo de fundamentação na avaliação das circunstâncias judiciais baseado em elementos não constante da sentença.
+A pena-base, para ambos os crimes, foi estabelecida, em primeira instância, com apoio nos seguintes motivos (fls. 758-759):
+ ..
+Ao réu PAULO CÉSAR DIÓGENES TARGINO JÚNIOR
+Culpabilidade - concreta e de alta reprovabilidade; Antecedentes - há notícias de sua vida pregressa, no entanto não temos conhecimento de reincidência. Motivos do Crime - injustificáveis - Conduta social - tenho-a como irregular. Motivos do Crime - injustificáveis - Circunstâncias - normais para este tipo de infração Atenuante - não há - Reincidência - não há.
+Destarte, pelo crime do art. 180, caput, fixo a pena-base em 02 (dois) anos de reclusão, pelo crime do art. 16 da lei n. 10.826/03, fixo em 05 (cinco) anos de reclusão, ficando em concreto em 07 (sete) anos de reclusão e 100 (cem) dias-multa, a ser cobrada na base de 1/30 (um trinta) avós do salário mínimo, na ausência de atenuantes e agravantes e de causas de aumento ou diminua a pena. Deverá cumprir a pena, inicialmente, no regime, semiaberto.
+A  Corte  de  origem,  por  sua  vez,  consignou  (fls. 961-964):
+ ..
+1) PAULO CEZAR DIÓGENES TARGINO JUNIOR:
+1.1) DO CRIME DE RECEPTAÇÃO
+Culpabilidade  extrapola o inerente ao tipo, haja vista a grande quantidade e variedade de armamentos e munições apreendidas no momento da prisão dos apelantes, motivo pelo qual a tenho como NEGATIVA;
+Antecedentes Criminais - como se verifica, em consulta ao processo de execução de nº 2018.0772.000690, o acusado foi condenado nos autos dos processos de nº 0100078- 58.2016.8.17.0147 (com trâmite na Vara Única da Comarca de Porto Velho - RN), tendo sido cometido o delito em 02/01/2015, observando-se, assim, que deverá tal circunstância sopesar em DESFAVOR do acusado;
+Conduta social - tal circunstância deve ser mantida como NEGATIVA, pois, conforme consta do processo de execução r. mencionado e notícia havido nestes autos, o acusado, quando foi progredido de regime para o semiaberto, evadiu - se da penitenciária onde se encontrava recolhido, em 11/04/2019, encontrando-se até o presente momento foragido, o que denota sua conduta social imprópria;
+Personalidade - vê-se, ainda, no referido processo de execução que este responde aos seguintes processos: nº 100343-41.2016.8.20.0121, perante a 2º Vara de Macaíba -RN; nº 104422-35.2016.8.20.0001, perante a 3º Vara Criminal da Comarca de Natal-RN; e nº 111813-07.2017.8.20.0001, perante a 5º Vara Criminal de Natal, constatando-se, assim, que a conduta social do acusado não se mostra adequada, devendo ser avaliada como NEGATIVA;
+Circunstâncias do crime - como verificado ao longo da instrução processual, o acusado, no momento do fato delituoso, ao perceber que a polícia se encontrava no lava - jato tentou se evadir, só não conseguindo porque policiais o perseguiram, somente o prendendo próximo ao Mercado de Boa Viagem, devendo, por tal razão, ser considerada em DESFAVOR do recorrente;
+Motivos do crime - não foi apresentada qualquer fundamentação que extrapole as inerentes ao tipo penal, motivo pelo qual, considero tal circunstância NEUTRA.
+1.2) DO CRIME DE PORTE DE ARMA E MUNIÇÃO DE USO RESTRITO
+Culpabilidade - extrapola o inerente ao tipo, haja vista a grande quantidade e variedade de armamentos e munições apreendidas no momento da prisão dos apelantes, motivo pelo qual a tenho como NEGATIVA;
+Antecedentes Criminais - como se verifica, em consulta ao processo de execução de nº 2018.0772.000690, o acusado foi condenado nos autos dos processos de nº 0100078- 58.2016.8.17.0147 (com trâmite na Vara Única da Comarca de Porto Velho - RN), tendo sido cometido o delito em 02/01/2015, observando-se, assim, que deverá tal circunstância sopesar em DESFAVOR do acusado;
+Conduta social - tal circunstância deve ser mantida como NEGATIVA, pois, conforme consta do processo de execução r. mencionado e noticia havido nestes autos, o acusado, quando foi progredido de regime para o semiaberto, evadiu - se da penitenciária onde se encontrava recolhido, em 11/04/2019, encontrando-se até o presente momento foragido, o que denota sua conduta social imprópria;
+Personalidade - vê-se, ainda, no referido processo de execução que este responde aos seguintes processos: nº 100343-41.2016.8.20.0121, perante a 2º Vara de Macaíba -RN; nº 104422-35.2016.8.20.0001, perante a 3º Vara Criminal da Comarca de Natal-RN; e nº 111813-07.2017.8.20.0001, perante a 5º Vara Criminal de Natal, constatando-se, assim, que a conduta social do acusado não se mostra adequada, devendo ser avaliada como NEGATIVA;
+Circunstâncias do crime - como verificado ao longo da instrução processual, o acusado, no momento do fato delituoso, ao perceber que a polícia se encontrava no lava - jato tentou se evadir, só não conseguindo porque policiais o perseguiram, somente o prendendo próximo ao Mercado de Boa Viagem, devendo, por tal razão, ser considerada em DESFAVOR do recorrente;
+Motivos do crime - não foi apresentada qualquer fundamentação que extrapole as inerentes ao tipo penal, motivo pelo qual, considero tal circunstância NEUTRA.
+Destarte, analisados e ponderados os parâmetros do art. 59, da Lei Material Penal, mantenho as penas-base, fixadas pelo MM Juiz de primeira, em:
+i) 02 (dois) anos de reclusão pelo crime previsto no art. 180, caput, do CP (que tem como pena em abstrato de 01 a 05 anos de reclusão);
+ii) 05 (cinco) anos de reclusão, pelo crime previsto no art. 16, do Estatuto do Desarmamento (que tem como pena em abstrato de 03 a 06 anos de reclusão).
+À mingua de circunstâncias atenuantes/agravantes e causas de aumento/diminuição de pena, ficam mantidos as penas, definitivamente, e em razão do concurso material, somadas, no patamar de 07 (sete) anos de reclusão.
+Da mesma forma, mantem-se a pena pecuniária em 100 (cem) dias - multa à razão de 1/30 (um trigésimo avos) do salário mínimo vigente à época.
+Quanto ao regime de cumprimento de pena, mantenho o regime inicial semiaberto, nos termos do art. 33, §2º, "b", do CP.
+A fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, nos arts. 5º, XLVI, da Constituição Federal, 59 do Código Penal e 387 do Código de Processo Penal.
+Todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleito o quantum de pena a ser aplicada ao condenado criminalmente, visando à prevenção e à repressão do delito perpetrado.
+Assim, para chegar a uma aplicação justa da lei penal, o sentenciante, dentro dessa discricionariedade juridicamente vinculada, deve atentar para as singularidades do caso concreto. Cumpre-lhe, na primeira etapa do procedimento trifásico, guiar-se pelos oito fatores indicativos relacionados no caput do art. 59 do Código Penal, os quais não se deve furtar de analisar individualmente. São eles: culpabilidade, antecedentes, conduta social, personalidade do agente, motivos, circunstâncias e consequências do crime, assim como comportamento da vítima.
+Consoante o entendimento desta Corte Superior, a ampla devolutividade do recurso de apelação permite a explicitação de cognição própria no julgamento de segunda instância na análise das vetoriais do art. 59 do CP, desde que mantido o quantum de pena.
+Sobre a questão, cito o seguinte julgado:
+ ..
+3. A ampla devolutividade do recurso de apelação permite ao juízo ad quem o acréscimo de fundamentos diversos dos declinados no decisum primevo. Em tais hipóteses, contanto que não se eleve a reprimenda imposta, ou agrave a situação do apenado, não há falar em reformatio in pejus. Precedentes.
+4. Agravo regimental desprovido (AgRg no HC n. 484.928/SP, Rel. Ministra Laurita Vaz, 6ª T., DJe 02/09/2019)
+No caso dos autos, a manutenção da avaliação desfavorável das vetoriais culpabilidade, antecedentes e conduta social, ainda que mediante o acréscimo de fundamentos próprios, foi idônea e não caracterizou reformatio in pejus, conforme a orientação jurisprudencial antes citada.
+A negativação das vetoriais personalidade e circunstâncias do delito devem ser afastadas. A primeira, em vista da vedação prevista no entendimento da Súmula n. 444 do STJ, a qual veda o acréscimo de pena decorrente da invocação a inquéritos e a ações penais em andamento, a segunda, por se tratar de circunstância judicial não negativada na primeira instância, a ausência de recurso da acusação e a consequente violação do contraditório e da ampla defesa.
+Mantida a avaliação desfavorável das vetoriais culpabilidade, antecedentes e conduta social, a pena-base, dos crimes de receptação e porte de arma de uso restrito, serão reduzidas, respectivamente, a 1 ano e 6 meses de reclusão mais 13 dias-multa (acréscimo de 1/6 da pena mínima, por cada vetorial negativada) e 4 anos e 6 meses de reclusão mais 13 dias-multa (acréscimo de 1/6 da pena mínima, por cada vetorial negativada).
+Ausentes atenuantes, agravantes, causas de diminuição e de aumento, torno as penas definitivas em 6 anos de reclusão mais 26 dias-multa, na fração mínima. O regime inicial permanece o semiaberto.
+Ficam mantidos os demais termos do acórdão recorrido.
+II.  Dispositivo
+À  vista  do  exposto,  conheço d o agravo para dar provimento, em parte, ao recurso especial e estabelecer a pena definitiva de PAULO CESAR DIOGENES TARGINO JUNIOR  em 6 anos de reclusão mais 26 dias-multa, em regime inicial semiaberto.
+Publique-se  e  intimem-se.
