@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 26/04/2023 a 02/05/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos por BORRACHAS VIPAL SA ao acórdão assim ementado:
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. INOCORRÊNCIA. PARCELA CORRESPONDENTE À INFLAÇÃO NOS RENDIMENTOS DE APLICAÇÕES FINANCEIRAS. INCIDÊNCIA DO IRPJ E DA CSLL. AGRAVO INTERNO DA EMPRESA NÃO PROVIDO.
+1. Inexiste a alegada violação do art. 1.022 do CPC/2015, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido. O tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de qualquer erro, omissão, contradição ou obscuridade. Observe-se, ademais, que julgamento diverso do pretendido, como na espécie, não implica ofensa ao dispositivo de lei invocado.
+2. O entendimento jurisprudencial de ambas as Turmas que compõem a Seção de Direito Público do STJ firmou-se no sentido de ser legítima a incidência do Imposto sobre a Renda de Pessoa Jurídica-IRPJ e Contribuição Social sobre o Lucro Líquido-CSSL sobre o total dos rendimentos e ganhos líquidos de operações financeiras, ainda que se trate de variações patrimoniais decorrentes de diferença de correção monetária. Isso porque se trata de disponibilidade econômica decorrente do capital, acrescentando valor nominal da moeda. Precedentes: AgInt no REsp 1928590/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 03/11/2021, DJe 08/11/2021; AgInt no REsp 1897280/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 19/10/2021, DJe 21/10/2021; e AgInt no REsp 1902562/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 14/09/2021, DJe 22/09/2021.
+3. Agravo Interno da empresa a que se nega provimento (fl. 442).
+Aponta a parte embargante omissão no julgado quanto à necessidade de se aguardar o pronunciamento definitivo do STJ na Controvérsia 328, pois "mesmo após a aplicação do disposto no art. 256-G do RISTJ, foram apresentados pedidos de reconsideração no REsp nº 1.950.177/RS e REsp nº 1.946.630/RS".
+Não foi apresentada impugnação ao recurso conforme certidão de fl.460.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. APLICAÇÕES FINANCEIRAS. CORREÇÃO MONETÁRIA. INCIDÊNCIA DO IRPJ E DA CSLL. TEMA 1.160/STJ. INEXISTÊNCIA DE OMISSÃO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. O inconformismo da parte embargante não se enquadra nas hipóteses de cabimento dos embargos de declaração, previstas no art. 1.022 do CPC/2015. Não há na decisão ora combatida vícios de omissão, contradição, obscuridade ou erro material, não se prestando os aclaratórios para o fim de rediscutir os aspectos jurídicos anteriormente debatidos.
+2. A Primeira Seção desta Corte, no julgamento do Tema 1.160, firmou a seguinte tese repetitiva: "O IR e a CSLL incidem sobre a correção monetária das aplicações financeiras, porquanto estas se caracteriza m legal e contabilmente como Receita Bruta, na condição de Receitas Financeiras componentes do Lucro Operacional".
+3. Constato, portanto, que a parte embargante pretende renovar a discussão sobre questão que já foi decidida de maneira fundamentada, o que não é possível por meio dos embargos de declaração.
+4. Rever as matérias aqui alegadas acarretaria rediscutir entendimento já manifestado e devidamente embasado. Os embargos declaratórios não se prestam à inovação, à rediscussão da matéria tratada nos autos ou à correção de eventual error in judicando.
+5. Embargos de declaração rejeitados.
+VOTO
+O inconformismo da parte embargante não se enquadra nas hipóteses de cabimento dos embargos de declaração, previstas no art. 1.022 do CPC/2015. Não há na decisão ora combatida vícios de omissão, contradição, obscuridade ou erro material, não se prestando os aclaratórios para o fim de rediscutir os aspectos jurídicos anteriormente debatidos.
+Em que pese à existência de pedido de reconsideração, pendente de apreciação, quanto à rejeição presumida de submissão ao rito dos recursos repetitivos d os REsps 1.950.177/RS e 1.940.630/RS (art. 256-G do RISTJ), a Primeira Seção desta Corte, recentemente, pacificou a controvérsia dos autos no julgamento do Tema 1.160/STJ e firmou a seguinte tese repetitiva: "O IR e a CSLL incidem sobre a correção monetária das aplicações financeiras, porquanto estas se caracterizam legal e contabilmente como Receita Bruta, na condição de Receitas Financeiras componentes do Lucro Operacional".
+Constato, portanto, que a parte embargante pretende renovar a discussão sobre questão que já foi decidida de maneira fundamentada, o que não é possível por meio de embargos de declaração.
+O Superior Tribunal de Justiça assim já se manifestou:
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC/2015. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE. DEVIDO JUÍZO DE ADMISSIBILIDADE RECURSAL.
+1. De acordo com a norma prevista no art. 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. "Se o recurso é inapto ao conhecimento, o colegiado não tem como se pronunciar sobre o mérito, de modo que a falta de exame da matéria de fundo não se caracteriza omissão, senão mera decorrência do exercício do devido juízo de admissibilidade recursal". (EDcl no AgInt nos EREsp 1.559.725/PE, Rel. Ministro Og Fernandes, Primeira Seção, DJe 30/8/2017).
+4. Embargos de declaração rejeitados. (EDcl no AgInt no REsp n. 1.574.004/SE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 8/3/2021, DJe de 11/3/2021 - sem destaques no original.)
+Rever as matérias aqui alegadas acarretaria rediscutir entendimento já manifestado e devidamente embasado. Os embargos declaratórios não se prestam à inovação, à rediscussão da matéria tratada nos autos ou à correção de eventual error in judicando.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
