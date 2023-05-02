@@ -1,0 +1,24 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 26/04/2023 a 02/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno interposto por Companhia Estadual de Águas e Esgotos - CEDAE desafiando decisão singular que negou provimento ao recurso especial, pelas seguintes razões: (I) quanto à alegada violação aos arts. 9º e 10 do CPC, incidência do óbice da Súmula 211/STJ; (II) o entendimento firmado no acórdão acerca do não cabimento do agravo de instrumento está alinhado à jurisprudência do STJ; e (III) prejudicialidade do pedido relativo aos honorários advocatícios.
+A parte agravante sustenta, em resumo, a inaplicabilidade da vedação sumular n. 211/STJ, aduzindo que o Tribunal a quo "analisou a questão referente à não extinção da execução" (fl. 205). Afirma, também, que no "julgado dos embargos de declaração, a C. Câmara se manifestou acerca dos temas levantados pela agravante" (fl. 206).
+Requer, desse modo, a reconsideração do decisum ou a submissão do agravo interno ao julgamento colegiado.
+Transcorreu, in albis, o prazo para impugnação (fl. 220).
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO DE INSTRUMENTO. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. RECURSO CABÍVEL. DECISÃO SURPRESA. PREQUESTIONAMENTO. INDISPENSABILIDADE. ÓBICE DA SÚMULA 211/STJ.
+1. Apesar de instado a fazê-lo por meio dos competentes embargos de declaração, o Tribunal de origem não examinou a controvérsia relativa à decisão surpresa, ou seja, não houve debate sobre os arts. 9º e 10 do CPC - dispositivos legais apontados como violados nesse tópico do recurso especial.
+2. Dessarte, caberia à parte recorrente, nas razões do apelo especial, indicar ofensa ao art. 1.022 do CPC, alegando a existência de possível omissão, providência da qual não se desincumbiu. Incide, pois, o óbice da Súmula 211/STJ ("Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo").
+3. Ressalta-se que esta Corte firmou a compreensão de que "a admissão de prequestionamento ficto (art. 1.025 do CPC), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe 10/4/2017).
+4. Agravo interno a que se nega provimento.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Em que pese aos argumentos aduzidos no presente recurso, a decisão agravada não merece reparos.
+Com efeito, insurge-se a parte, tão somente, contra a aplicação da Súmula 211/STJ, operada no decisum singular como óbice ao conhecimento da alegada violação aos arts. 9º e 10 do CPC.
+Nesse contexto, cumpre dizer que o Tribunal de origem não examinou a controvérsia relativa à decisão surpresa, ou seja, não houve debate sobre os referidos dispositivos legais apontados como violados nesse tópico, apesar de instado a fazê-lo por meio dos competentes embargos de declaração.
+Dessarte, caberia à parte recorrente, nas razões do apelo especial, indicar ofensa ao art. 1.022 do CPC, alegando a existência de possível omissão, providência da qual não se desincumbiu. Incide, pois, o óbice da Súmula 211/STJ ("Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo"). Ne ssa linha de entendimento: AgInt no AgInt no AREsp 1.621.025/RJ, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 1º/9/2020.
+Ressalta-se que esta Corte firmou a compreensão de que "a admissão de prequestionamento ficto (art. 1.025 do CPC), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe 10/4/2017). No mesmo sentido, confiram-se: AgInt no REsp 1.562.190/RS, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe 18/12/2020; AgInt no AREsp 1.685.851/GO, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 11/2/2021; e AgInt no AREsp 1.677.739/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 2/12/2020.
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
