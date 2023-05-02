@@ -1,0 +1,15 @@
+DECISÃO
+JÚLIO DA SILVA NETO alega sofrer constrangimento ilegal diante do acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 1500462-74.2020.8.26.0326.
+A defesa pretende, liminarmente e no mérito, a aplicação da continuidade delitiva ao réu, ao argumento de que estão preenchidos os requisitos previstos no art. 71 do CP. Requer o redimensionamento da pena, com a consequente readequação do regime inicial.
+Pleiteia, alternativamente, o deferimento do cumprimento da sanção em regime domiciliar, em virtude da necessidade de cuidados especiais que o paciente requer devido à cirurgia torácica a que se submeteu.
+Decido.
+O mandamus comporta pronta solução, uma vez que a pretensão defensiva não encontra amparo na jurisprudência desta Corte Superior.
+Consta dos autos que o paciente foi condenado à pena de 4 anos, 9 meses e 18 dias de reclusão, no regime inicial semiaberto, mais multa, pela prática do delito tipificado no art. 15 da Lei n. 10.826/2003, por duas vezes, na forma do art. 69 do CP, bem como a 1 mês de detenção, no regime inicial aberto, pelo crime previsto no art. 147 do CP.
+Em relação ao pleito de aplicação do art. 71 do CP aos dois crimes de disparo de arma de fogo pelos quais o réu foi condenado, o Tribunal estadual assim se manifestou (fl. 76, destaquei):
+Desse modo, tendo o réu disparado arma de fogo em lugares habitados ou adjacências (lembrando tratar-se de crime de mera conduta), não vislumbrado no caso qualquer causa excludente da ilicitude ou da culpabilidade, a condenação pelo delito disposto no art. 15, caput, da Lei nº 10.826/03 (Estatuto do Desarmamento), era mesmo medida de rigor.
+E, tratando-se de duas condutas distintas, cometidas em locais diferentes e momentos também diversos, tornando evidente a existência de desígnios autônomos por parte de seu autor, não há que se falar em aplicação da regra contida no art. 71 do Código Penal, sendo mesmo o caso de reconhecimento do concurso material de infrações.
+Não há como o STJ entender de maneira diversa das conclusões do Juízo a quo, haja vista a necessária - todavia, inadmissível - análise do contexto fático em que os crimes ocorreram. Deveras, a Corte local asseverou que os disparos de arma de fogo ocorreram em locais diferentes e em momentos distintos. Além disso, haveria "desígnios autônomos por parte de seu autor" (fl. 76) e, para infirmar esses fatos, seria imprescindível o reexame fático-probatório dos autos.
+Nesse sentido: "O reexame da matéria, com o propósito de reconhecimento da continuidade delitiva, demanda o revolvimento do conjunto fático-probatório, providência inadmissível na estreita via do writ" (AgRg no HC n. 426.556/MS, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 3/4/2018).
+No tocante ao pedido de concessão de regime domiciliar ao réu, não há como esta Corte Superior analisar o tema, em virtude da supressão de instância, uma vez que a matéria não foi submetida previamente ao exame do Tribunal a quo.
+À vista do exposto, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
