@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por ALFREDO BASILIO FERREIRA E SILVA, ALFREDO BASILIO FERREIRA E SILVA PONTAL, contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"AÇÃO DE PROCEDIMENTO COMUM. RESPONSABILIDADE CIVIL. JUNTA COMERCIAL DO ESTADO DE SÃO PAULO - JUCESP. Alterações em registro empresarial promovida por terceiros. Pretensão do autor à declaração de nulidade das alterações do registro e indenização por danos morais.
+REEXAME NECESSÁRIO. Inexistência do recurso oficial, proveito econômico inferior a 500 salários-mínimos.
+Inteligência do art. 496, §3º, II, do CPC/2015.
+PARCIAL CABIMENTO da pretensão. Perícia judicial grafotécnica que comprova que as assinaturas constantes dos documentos de requerimento de alteração do registro empresarial não foram apostas pelo autor. Alterações realizadas por terceiro. Possibilidade de declaração de nulidade das alterações e eventuais atos formalizados e atos praticados em nome da empresa a partir de 21.01.2013.
+DANOS MORAIS. Atribuição da JUCESP que se limita à análise formal dos atos levados a registro. Inteligência da Lei Federal nº 8.934/1994 e Decreto Federal nº 1.800/1996.
+Autor que não se desincumbiu do ônus que lhe competia, deixando de trazer aos autos os registros arquivados perante a JUCESP, inviabilizando a análise do direito alegado. Não demonstrada a alegada atividade defeituosa da Administração Pública.
+R. sentença parcialmente reformada a fim de julgar improcedente o pedido de indenização por danos morais.
+HONORÁRIOS ADVOCATÍCIOS. Sucumbência recíproca. Fixação por equidade. Distribuição entre os litigantes. Art. 85, §8º e art. 86. Observância ao Tema 1.076 do E. STJ.
+RECURSO DE APELAÇÃO DA JUCESP PROVIDO" (fl. 274e).
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 289/296e), os quais restaram rejeitados, nos seguintes termos:
+"EMBARGOS DE DECLARAÇÃO - AUSÊNCIA DOS VÍCIOS DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE, BEM COMO INEXISTÊNCIA DE ERRO MATERIAL. PREQUESTIONAMENTO DA MATÉRIA DEBATIDA NOS AUTOS - CARÁTER INFRINGENTE REVELADO.
+Se a parte não concorda com o resultado do julgamento, deve buscar sua reforma pela via recursal adequada, tendo em conta que o efeito infringente emprestado aos embargos de declaração somente é cabível de forma excepcional.
+EMBARGOS REJEITADOS" (fl. 301e).
+Nas razões do Recurso Especial (fls. 315/333e), interposto com base no art. 105, III, a e c, da Constituição Federal, a parte ora agravante aponta, além do dissídio jurisprudencial, violação aos arts. 186, 927 e 1153 do Código Civil; e 37, V, e 40 da Lei 8.934/94.
+Sustentou que:
+"A manifesta falta de diligência da recorrida ao admitir o pedido de alteração contratual sem a comprovação de identidade dos seus proponentes violou o previsto no art. 37, V, da Lei nº. 8.934/94, que prescreve:
+Art. 37. Instruirão obrigatoriamente os pedidos de arquivamento:
+(..) V - a prova de identidade dos titulares e dos administradores da empresa mercantil.
+Além do v. acórdão desprezar a ineficiência da recorrida nos moldes acima, desprezou também o quanto preconizado no artigo 40, da citada legislação, que estabelece que "Todo ato, documento ou instrumento apresentado a arquivamento será objeto de exame do cumprimento das formalidades legais pela junta comercial" (grifamos), e o seu parágrafo 1º que dispõe que "Verificada a existência de vício insanável, o requerimento será indeferido; quando for sanável, o processo será colocado em exigência".
+Assim, o E. Tribunal de Justiça do Estado de São Paulo desprezou a imposição legal que recai sobre a autarquia recorrida de ter que verificar e conferir a regularidade da documentação apresentada para o registro de qualquer ato, dentro de sua competência.
+Com efeito, da exegese dos textos normativos supracitados, extrai-se que incumbia à Junta Comercial certificar-se acerca da identidade dos proponentes e verificar a existência de falsificação do instrumento ou documento público ou particular e, quando esta fosse constatada, levar tal fato a conhecimento da autoridade competente, para as providências legais cabíveis.
+Ora, considerando a natureza, a importância e as repercussões jurídicas dos serviços prestados pelas Juntas Comerciais, tem-se que elas devem atuar com um mínimo de cautela e minúcia, buscando conferir se os documentos que lhe são apresentados são autênticos, bem como certificar-se quanto à identidade de quem os apresenta.
+A ausência de uma atuação prudente é capaz de comprometer a segurança jurídica dos negócios realizados pelas partes, afastando a credibilidade das informações certificadas pelas Juntas Comerciais, como se deu no presente caso.
+Por essa razão, tal autarquia tem, ou pelo menos deveria ter, meios suficientes à análise da fidedignidade da documentação que lhe é apresentada para registro de atos relativos à sociedade empresária, evitando-se a mais completa insegurança no meio empresarial.
+Deveras, nota-se, na presente situação, que o nexo causal ocorre quando a Junta Comercial deixa de observar o necessário dever de cuidado na conferência dos documentos levados a registro por falsário.
+Conquanto a conduta delituosa tenha sido perpetrada por terceiros, a fraude relatada nestes autos poderia ter sido evitada mediante a simples conferência, pela recorrida, da autenticidade dos documentos fornecidos pelos ditos falsários, bem como quanto à identidade destes" (fls. 328/329e).
+Ponderou que:
+"No caso, a recorrida violou a regra impressa em referido artigo. Deve ela, pois, ser responsabilizada por sua desídia, nos moldes legais e indenizar o recorrente que sofre há quase dez anos para regularizar situação a qual não deu causa (artigos 186 e 927 do Código Civil).
+Se a recorrida tivesse agido nos moldes legais, com a conferência da autenticidade dos documentos fornecidos quando das alterações refutadas em seus cadastros, teria evitado a fraude perpetrada por terceiros.
+Desta forma, evidente a falha no serviço prestado pela recorrida" (fl. 329e).
+Inadmitido o Recurso Especial (fls. 363/364e), foi interposto o presente Agravo (fls. 367/374e).
+A irresignação não merece conhecimento.
+O Tribunal estadual, ao julgar o recurso, concluiu que (fls. 277/284e):
+"No caso em tela, a narrativa do autor de que as alterações levadas a efeito não foram realizadas por ele é corroborada pelo laudo pericial judicial de fls. 151/172, que confirma que as assinaturas lançadas nos documentos que promoveram as alterações do registro da empresa junto à JUCESP não provieram do punho do periciando (fl. 169).
+Destarte, o laudo pericial não deixa dúvidas de que as alterações empresariais foram realizadas por terceiro, sendo certo que a JUCESP sequer impugna a conclusão alcançada pelo perito judicial.
+Assim, acertada a r. sentença que declarou a falsidade das alterações contratuais datadas de 21.01.2013, tornando inexistentes eventuais atos formalizados a partir de então, e inválidos eventuais atos administrativos praticados em nome da referida empresa.
+No que se refere ao pedido de indenização por danos morais, não assiste sorte ao autor, pelas razões a seguir expostas.
+O autor colacionou, juntamente à peça inicial as cópias dos documentos que comprovam terem sido realizadas alterações levadas a efeito no registro empresarial em janeiro de 2013 (fls. 17/21), cópia de boletim de ocorrência que registrou em julho de 2013 (fls. 22/23), dando conta de que "ao tentar abrir uma microempresa, tomou conhecimento que seu nome foi utilizado, sem a sua autorização", e que "após fazer pesquisas junto à JUCESP, verificou que foi feita uma alteração dos dados cadastrais de uma antiga empresa que possuía.."; cópia das fichas cadastrais da empresa antes e após as alterações (fls. 24/27).
+Em contestação (fls. 84/91), a JUCESP defendeu, em suma, que sua atuação consiste na análise da documentação apresentada, exclusivamente em seu âmbito formal, não lhe cabendo a averiguação da veracidade ou autenticidade dos instrumentos apresentados para registro.
+De fato, a atuação da Junta Comercial é restrita aos ditames legais e diz respeito exclusivamente à análise formal dos documentos que lhes são encaminhados, não podendo formular exigências outras que não aquelas expressamente elencadas em lei, à luz do disposto na Lei nº 8.934/1994 (que dispõe sobre o Registro Público de Empresas Mercantis e Atividades Afins) e Decreto Federal nº 1.800/1996 (que regulamenta a Lei nº 8.934, de 18 de novembro de 1994, que dispõe sobre o Registro Público de Empresas Mercantis e Atividades Afins e dá outras providências).
+(..)
+Como visto, no entanto, o autor não logrou demonstrar a atuação defeituosa da Administração Pública, não trazendo sequer indícios de que de fato teria havido falha na análise formal dos documentos apresentados para alteração do registro empresarial, razão pela qual o pedido de indenização não pode ser acolhido.
+Diante do apresentado, de rigor o acolhimento do recurso de apelação da ré, reformando-se a r. sentença para julgar improcedente o pedido de indenização por danos morais, mantida, no mais, quanto à procedência do pedido de nulidade das alterações do registro empresarial, na forma como lançada."
+Nesse contexto, considerando a fundamentação do acórdão objeto do Recurso Especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatóri o dos autos, em conformidade com a Súmula 7/STJ.
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo, para não conhecer do Recurso Especial.
+I.
