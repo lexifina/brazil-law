@@ -1,0 +1,17 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+RONMANIEL ROBERTO VIEIRA DE OLIVEIRA agrava da decisão de fls. 241-242, em que a Presidência desta Corte Superior não conheceu do agravo em recurso especial, ao considerar que " o  recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias corridos, nos termos do art. 994, VIII, c/c os arts. 1.003, § 5º, 1.042, caput, do Código de Processo Civil, bem como do art. 798 do Código de Processo Penal".
+Para tanto, assere a defesa que, "diante do nítido caráter oficial e da fé pública dotada do calendário judicial emitido pelo Tribunal de Justiça do Amazonas, não é possível entender que a informação veiculada pelo sistema não seja considerada oficial com a confiabilidade das informações prestadas por meio eletrônico de essencial preservação da boa-fé e da confiabilidade do advogado" (fl. 267).
+EMENTA
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. IRRESIGNAÇÃO INTEMPESTIVA. NÃO COMPROVADA OPORTUNAMENTE A OCORRÊNCIA DE FERIADO LOCAL. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Nos termos da jurisprudência desta Corte Superior, " o  recurso especial foi protocolado na vigência do NCPC, atraindo a aplicabilidade do art. 1.003, § 6º, do NCPC, que não mais permite a comprovação da ocorrência de feriado local em momento posterior, já que estabeleceu ser necessária a sua demonstração quando interposto o recurso. Entendimento da Corte Especial" (AgInt no AREsp n. 1.631.510/MT, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 15/3/2023.)
+2. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Conforme destacado na decisão vergastada, "a parte recorrente foi intimada da decisão agravada em 03/09/2021, sendo o agravo somente interposto em 22/09/2021. O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias corridos, nos termos do art. 994, VIII, c/c os arts. 1.003, § 5º, 1.042, caput, do Código de Processo Civil, bem como do art. 798 do Código de Processo Penal" (fl. 241).
+Apontou, ainda, que, "nos termos do § 6º do art. 1.003 do mesmo código, "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", o que impossibilita a regularização posterior" (fl. 241).
+A esse respeito, urge consignar que " o  recurso especial foi protocolado na vigência do NCPC, atraindo a aplicabilidade do art. 1.003, § 6º, do NCPC, que não mais permite a comprovação da ocorrência de feriado local em momento posterior, já que estabeleceu ser necessária a sua demonstração quando interposto o recurso. Entendimento da Corte Especial.  ..  A Corte Especial assentou, em Questão de Ordem no REsp n.º 1.813.684/SP, o entendimento de que somente é possível a comprovação da tempestividade do recurso, em momento posterior, na hipótese do feriado de segunda-feira de Carnaval, mas não quanto aos demais feriados, confirmando o posicionamento antes adotado" (AgInt no AREsp n. 1.631.510/MT, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 15/3/2023.)
+À vista do exposto, nego provimento ao recurso.
