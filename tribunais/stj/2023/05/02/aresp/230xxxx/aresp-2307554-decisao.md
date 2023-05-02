@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MIGUEL ANGELO HERDY DOS SANTOS contra decisão exarada pela il. Terceira Vice-Presidência do eg. Tribunal de Justiça do Estado de Santa Catarina (TJ-SC) que inad mitiu seu recurso especial.
+Por sua vez, o apelo nobre foi manejado com arrimo na alínea "a" do permissivo constitucional, em face de v. acórdão assim ementado (fls. 234):
+"AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA DE PENSÃO MENSAL VITALÍCIA. DECISÃO QUE CONCEDE EFEITO SUSPENSIVO AO INCIDENTE. RECURSO DO EXEQUENTE.
+GRATUIDADE DA JUSTIÇA. DECISÃO EXARADA EM APELAÇÃO CÍVEL QUE CONCEDEU AO RECORRENTE A REFERIDA BENESSE. PLEITO PREJUDICADO NO PONTO.
+PEDIDO DE PROSSEGUIMENTO DO FEITO. DESCABIMENTO. PENSÃO VITALÍCIA QUE CORRESPONDE À DIFERENÇA DOS RENDIMENTOS MENSAIS PERCEBIDOS ANTES DO ACIDENTE COM A RENDA POSTERIOR AO EVENTO DANOSO, REPARTINDO-SE PELA METADE A RESPONSABILIDADE. NECESSIDADE DE APURAÇÃO DA QUANTIA RELATIVA ÀS COMISSÕES, ANTES DE BUSCAR A SATISFAÇÃO DA QUANTIA. FUNDAMENTOS RELEVANTES. PROBABILIDADE DO DIREITO E EXISTÊNCIA DE RISCO DE DANO GRAVE, DE DIFÍCIL OU INCERTA REPARAÇÃO, EM CASO DE PROSSEGUIMENTO DA EXECUÇÃO VERIFICADOS. EXEGESE DO ART. 525, § 6º, DO CPC.
+GARANTIA DO JUÍZO. ALEGADA INOBSERVÂNCIA A ORDEM LEGAL. ORDEM DE PREFERÊNCIA ESTABELECIDA NO ART. 835 DO CPC QUE NÃO TEM CARÁTER ABSOLUTO. PRECEDENTES. CREDOR QUE, EM OUTRO INCIDENTE, JÁ ACEITOU O REFERIDO BEM OFERECIDO, TAMBÉM, EM GARANTIA. ADEMAIS, AUSÊNCIA DE OUTRO BEM APONTADO PELO CREDOR OU VALOR PASSÍVEL DE PENHORA. MANUTENÇÃO DA DECISÃO QUE SE IMPÕE.
+RECURSO CONHECIDO EM PARTE E, NA PARTÍCULA, DESPROVIDO."
+Os embargos de declaração opostos foram rejeitados, nos termos do v. aresto assim sumariado (fls. 262):
+"EMBARGOS DE DECLARAÇÃO EM AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. IRRESIGNAÇÃO COM A PRESTAÇÃO JURISDICIONAL ENTREGUE. TENTATIVA DE REDISCUSSÃO DO MÉRITO E NÃO DE CORREÇÃO DOS VÍCIOS ELENCADOS NO ART. 1.022 DO CÓDIGO DE RITOS. IMPOSSIBILIDADE NESTA ESTREITA VIA RECURSAL. PREQUESTIONAMENTO FICTO. INTELIGÊNCIA DO ART. 1.025 DO DIGESTO PROCESSUAL. EMBARGOS REJEITADOS."
+Nas razões do recurso especial (fls. 274-290), MIGUEL ANGELO HERDY DOS SANTOS indica ofensa aos arts. 489 e 1.022 do CPC/15, ao argumento, entre outros, de que o eg. TJ-SC "(..) incorreu em omissão, ao não deliberar acerca de alegações apresentadas nas razões do Recurso de Agravo de Instrumento relevantes ao desfecho da lide, porquanto capazes de infirmar a conclusão adotada, notadamente, quanto à preclusão da matéria, eis que decidido nos autos do INCIDENTE DE LIQUIDAÇÃO DE SENTENÇA n. 5005966-18.2019.8.24.0075, por decisão irrecorrida no particular, que possível a imediata execução da parcela da condenação referente ao pagamento de pensão mensal na parte que não diz respeito às comissões e, também, quanto à ausência de prejuízo, porque o recurso pendente de julgamento, referente às comissões, é capaz tão somente de majorar o valor da condenação, não impedindo, assim, a imediata execução da parcela remanescente" (fls. 284 - destaques no original).
+Aduz, também, que "(..) o caso em concreto é justamente de nulidade por ausência de fundamentação, já que o acórdão recorrido deixou de enfrentar temas invocados pelo Recorrente, capazes de infirmar a conclusão adotada pelo Julgador, ainda que instado a se manifestar via Embargos de Declaração" (fls. 289 - destaque nos original).
+Intimado, AUTO POSTO DISNEY apresentou contrarrazões (fls. 316-322), pelo desprovimento do recurso.
+Como dito, o apelo nobre foi inadmitido (decisão às fls. 325-327), motivando o agravo em recurso especial (fls. 334-340) em testilha.
+Também foi oferecida contraminuta (fls. 345-347), pelo desprovimento do agravo.
+É o relatório. Passo a decidir.
+Inicialmente, rejeita-se a alegada violação aos arts. 489, § 1º, IV e 1.022 do CPC/2015, uma vez que o eg. Tribunal de Justiça do Estado de Santa Catarina (TJ-SC) analisou os pontos essenciais ao deslinde da controvérsia, dando-lhes robusta e devida fundamentação. Impende salientar que a remansosa jurisprudência desta eg. Corte é no sentido de que não há omissão, contradição ou obscuridade no julgado quando se resolve a controvérsia de maneira sólida e fundamentada e apenas se deixa de adotar a tese do embargante. Nesse sentido, destacam-se os recentes julgados:
+"AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO NO ACÓRDÃO RECORRIDO. OFENSA AOS ARTS. 489 E 1.022 DO CPC. NÃO VERIFICAÇÃO. RESPONSABILIDADE CIVIL. DANO MORAL CONFIGURAÇÃO. NEXO CAUSAL. PRODUÇÃO DE PROVAS. DESNECESSIDADE. FACULDADE DO MAGISTRADO. MODIFICAÇÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. JUROS DE MORA. TERMO INICIAL. SÚMULA N. 54 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. Inexiste ofensa aos arts. 489 e 1.022 do CPC quando o tribunal de origem aprecia, com clareza e objetividade e de forma motivada, as questões que delimitam a controvérsia, ainda que não acolha a tese da parte insurgente.
+(..)
+6. Agravo interno desprovido."
+(AgInt no AgInt no AREsp n. 1.875.688/SP, relator MINISTRO JOÃO OTÁVIO DE NORONHA, Quarta Turma, julgado em 13/2/2023, DJe de 16/2/2023 - g. n.)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO PROVISÓRIO. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015 NÃO EVIDENCIADA. PLANILHA ACOSTADA DEMONSTRANDO OS CÁLCULOS E A ATUALIZAÇÃO DO CRÉDITO DE FORMA CORRETA. MODIFICAÇÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. Não configura ofensa aos arts. 489 e 1.022 do CPC/2015 o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados pelo recorrente, adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia.
+(..)
+4. Agravo interno desprovido."
+(AgInt nos EDcl no AREsp n. 2.174.947/DF, relator MINISTRO RAUL ARAÚJO, Quarta Turma, julgado em 13/2/2023, DJe de 24/2/2023 - g. n.)
+"AGRAVO INTERNO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. ACIDENTE DE TRÂNSITO. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. NÃO CONFIGURADA. APÓLICE DO SEGURO CONTRATADO QUE PREVIU INDENIZAÇÃO POR DANOS MORAIS, MATERIAIS E ESTÉTICOS. SÚMULAS 83 E 402 DO STJ. INCIDÊNCIA. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REEXAME DE PROVAS. IMPOSSIBILIDADE. APLICAÇÃO DAS SÚMULAS 5 E 7 DO STJ.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, deve ser afastada a alegada violação aos arts. 489 e 1.022 do Código de Processo Civil/2015.
+(..)
+4. Agravo interno a que se nega provimento."
+(AgInt no AgInt no AREsp n. 1.964.167/RS, relatora MINISTRA MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 26/9/2022, DJe de 30/9/2022 - g. n.)
+Com estas considerações, conclui-se que o apelo não merece prosperar.
+Ante o exposto, com arrimo no art. 253, parágrafo único, II, "b", do RI-STJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
