@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interno interposto por TRANSPORTADORA BONANZA EIRELI, contra decisão, de relatoria da Presidência do STJ, que não conheceu do agravo em recurso especial, em razão da falta de impugnação específica a fundamentos decisórios.
+Por sua vez, o recurso especial foi interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do eg. Tribunal de Justiça do Estado de Santa Catarina, assim ementado:
+"EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. DECISÃO QUE INDEFERE O PEDIDO DE SUSPENSÃO DA CNH E DE OCULTAÇÃO DE BENS EM NOME DO EXECUTADO. AGRAVO DO EXEQUENTE.
+OCULTAÇÃO DE BENS. AUSÊNCIA DE COMPROVAÇÃO. IMÓVEIS E VEÍCULOS REGISTRADOS EM NOME DE TERCEIROS DESDE AS RESPECTIVAS AQUISIÇÕES. CPC, ART. 789.
+Nos termos do art. 789 do Código de Processo Civil, é o devedor quem "responde com todos os seus bens presentes e futuros para o cumprimento de suas obrigações, salvo as restrições estabelecidas em lei".
+SUSPENSÃO DA CNH. IMPOSSIBILIDADE. ART. 139, INCISO IV, DO CPC. OBSERVÂNCIA AOS PRINCÍPIOS DA RAZOABILIDADE E DA PROPORCIONALIDADE. INTENTO QUE ATACA A PESSOA DO DEVEDOR, NÃO SEU PA- TRIMÔNIO. PRECEDENTES DESTE TRIBUNAL.
+Medidas consistentes em suspensão de CNH do executado, ou bloqueio de seu passaporte e cartões de crédito, além de violarem direitos do devedor, inclusive de índole constitucional, a exemplo da locomoção, não garantem a satisfação do crédito perseguido e, ao contrário do desejado, põe em xeque a efetividade da medida, que verdadeiramente não se revela proporcional ao  m a que se destina, haja vista que agride a pessoa do devedor, não seu patrimônio.
+AGRAVO CONHECIDO E NÃO PROVIDO."
+Nas razões do apelo nobre, o recorrente alega violação dos arts. 139 e 1.022, do CPC, no que concerne à proporcionalidade da medida constritiva aplicada, ao princípio da liberdade de locomoção do executado, da legalidade e da dignidade da pessoa humana.
+É o relatório.
+A questão de direito do recurso especial foi afetada à Segunda Seção como representativa de controvérsia a ser julgada sob o rito dos recursos especiais repetitivos, nos termos dos arts. 1.036 e 1.037 do CPC/2015, tendo as decisões de afetação dos REsps n. 1.955.539/SP e 1.955.574/SP delimitado o tema 1.137 dos Recursos Especiais Repetitivos, nos termos da seguinte ementa:
+"PROPOSTA DE AFETAÇÃO - RITO DOS RECURSOS ESPECIAIS REPETITIVOS - TEMÁTICA - DIREITO PROCESSUAL CIVIL - EXECUÇÃO - POSSIBILIDADE, OU NÃO, DE ADOÇÃO DE MEIOS EXECUTIVOS ATÍPICOS. (Art. 139, IV, do CPC/15) 1. Delimitação da controvérsia:1.1. Definir se, com esteio no art. 139, IV, do CPC/15, é possível, ou não, o magistrado, observando-se a devida fundamentação, o contraditório e a proporcionalidade da medida, adotar, de modo subsidiário, meios executivos atípicos.
+2. RECURSO ESPECIAL AFETADO AO RITO DO ART. 1.036 CPC/2015."
+Nesse contexto, em observância à economia processual e ao art. 256-L do RISTJ, os re cursos que tratam da mesma controvérsia no STJ devem aguardar, no Tribunal de origem, a solução do questão, viabilizando, assim, o juízo de conformação, atualmente disciplinado pelos arts. 1.039 e 1.040 do CPC/2015.
+Cumpre destacar que, em conformidade com o art. 1.041, § 2º, do CPC/2015, apenas após essas providências é que o recurso especial, se for o caso, deverá ser reencaminhado a este Tribunal Superior, independentemente de ratificação, para análise das demais questões jurídicas nele suscitadas que eventualmente não fiquem prejudicadas pela conformidade do acórdão recorrido com a decisão sobre o tema repetitivo ou pelo novo pronunciamento do Tribunal de origem.
+Diante do exposto, reconsidero a decisão de fls. 127/129 e determino a remessa dos autos ao Tribunal de origem, com a respectiva baixa, a fim de que, nos termos dos arts. 1.039 e 1.040 do CPC/2015, após o julgamento do tema de recurso repetitivo:
+i) negue-se seguimento ao recurso especial no caso de o acórdão recorrido coincidir com a tese firmada sobre o aludido tema; ou
+ii) proceda-se a novo exame da matéria, no órgão prolator da decisão vergastada, na hipótese desta última divergir da referida tese.
+Publique-se.
