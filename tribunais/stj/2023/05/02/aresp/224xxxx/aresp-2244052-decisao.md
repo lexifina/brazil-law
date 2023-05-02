@@ -1,0 +1,11 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por UNIMED CUIABÁ COOPERATIVA DE TRABALHO MÉDICO contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal.
+Ação: de obrigação de fazer, ajuizada por R S M (MENOR), em face da recorrente, na qual se insurge contra a cobrança de coparticipação em procedimento cirúrgico "estrabismo ciclo vertical/transposição e estrabismo horizontal", em razão da existência de cláusula contratual que admite a coparticipação apenas em casos de consultas, exames de rotina, exames especializados, atendimentos ambulatoriais e transtornos psiquiátricos.
+Decisão de admissibilidade do TJ/MT: inadmitiu o recurso especial em razão dos seguintes fundamentos: reconhecimento de necessidade de interpretação de cláusulas contratuais e reexame de contexto fático-probatório (Súmulas 5 e 7, ambas do STJ) (arts. 421 e 422 do CC; e 16, VIII, da Lei 9.656/98).
+ARESP de UNIMED CUIABÁ COOPERATIVA DE TRABALHO MÉDICO: limitando-se a reiterar as razões apresentadas quando da interposição do recurso especial, a par de sustentar a invasão da competência constitucional do STJ, não demonstrou, de maneira consistente, a inaplicabilidade dos seguintes óbices: Súmulas 5 e 7 do STJ.
+RELATADO O PROCESSO, DECIDE-SE.
+O agravo que não impugna, especificamente, todos os fundamentos da decisão recorrida não deve ser conhecido, conforme disposto na Súmula 182/STJ.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC/15.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 10% sobre o valor atualizado da causa (e-STJ fl. 270) para 15% (quinze por cento), apenas em desfavor da parte ora agravante, e na proporção já fixada em sentença.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
