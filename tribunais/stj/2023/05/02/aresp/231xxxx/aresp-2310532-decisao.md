@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial, interposto por ERINALDO IDELFONSO FERREIRA, fundamentado na alínea "a" do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+AÇÃO REVISIONAL DE CONTRATO BANCÁRIO JULGADA PROCEDENTE CONTRATO DE FINANCIAMENTO DE VEÍCULO COBRANÇA DE TARIFAS BANCÁRIAS PERTINÊNCIA EXAMINADA COM BASE NAS TESES FIXADAS PELO STJ EM SEDE DE RECURSO REPETITIVO tarifa denominada "Serviços Concessionária/Lojista" tarifa que podia ser cobrada explicitação de que se trata de serviços prestados pela revenda, que corresponde à comissão do correspondente bancário contrato celebrado antes da entrada em vigor da Resolução nº 3.954/2011 do CMN inexistência de onerosidade excessiva tarifa de avaliação do bem instituição financeira que não trouxe laudo que comprovasse a efetiva prestação de serviço de avaliação de veículo usado cobrança da tarifa corretamente afastada recurso parcialmente provido.
+Os embargos de declaração foram rejeitados, vide acórdão às fls. 231-237.
+Nas razões do recurso especial, a parte recorrente alega, além de dissídio jurisprudencial, ofensa ao art. 52, I do CDC. Sustenta, em síntese, que "nota-se que houve clara infração ao artigo 52, I do Código de Defesa do consumidor, porque no contrato não houve a especificação dos serviços prestados e quem seria o terceiro beneficiado, havendo assim lesão ao consumidor" (fl. 154).
+É o relatório. Decido.
+A irresignação não merece prosperar.
+De início, conheço do recurso especial, uma vez que comprovada sua tempestividade.
+Quanto ao mérito, o Tribunal de origem, analisando as circunstâncias do caso, assim dirimiu a controvérsia acerca da cobrança de ""Serviços Concessionária/Lojista":
+À vista do julgado colacionado, o contrato previa a cobrança de "Serviços Concessionária/Lojista" no valor de R$ 1.198,50 (fls. 20). O contrato foi firmado em 21/10/2010 (fls. 20). A nomenclatura da tarifa permitia que o apelado tomasse conhecimento sobre a natureza da cobrança.
+Restou consignado no recurso repetitivo acima mencionado que a "cobrança pelos serviços prestados pela revenda corresponde à comissão do correspondente bancário". No contrato constou os dados do fornecedor do veículo:
+"YAJIMA E SILVA COMÉRCIO DE VEÍCULOS LTDA., CNPJ: 07.528.166/0001-24" (fls. 20).
+A cobrança da tarifa de serviços de terceiro podia ser cobrada, porque o contrato foi celebrado antes da data de entrada em vigor da Resolução 3.954/2011 do CMN (25/02/2011).
+Dessa forma, comprovada a efetiva prestação do serviço pela revenda e não demonstrada a onerosidade excessiva no valor da tarifa corresponde a 7,99% do valor financiado , a cobrança é cabível.
+Dessa forma, a sentença deve ser reformada, no tópico para o fim de ser mantida a cobrança da tarifa de "Serviços Concessionária/Lojista".
+Em sede de recurso especial repetitivo, a matéria tratada nos autos assim foi decidida:
+RECURSO ESPECIAL REPETITIVO. TEMA 958/STJ. DIREITO BANCÁRIO. COBRANÇA POR SERVIÇOS DE TERCEIROS, REGISTRO DO CONTRATO E AVALIAÇÃO DO BEM. PREVALÊNCIA DAS NORMAS DO DIREITO DO CONSUMIDOR SOBRE A REGULAÇÃO BANCÁRIA. EXISTÊNCIA DE NORMA REGULAMENTAR VEDANDO A COBRANÇA A TÍTULO DE COMISSÃO DO CORRESPONDENTE BANCÁRIO. DISTINÇÃO ENTRE O CORRESPONDENTE E O TERCEIRO. DESCABIMENTO DA COBRANÇA POR SERVIÇOS NÃO EFETIVAMENTE PRESTADOS. POSSIBILIDADE DE CONTROLE DA ABUSIVIDADE DE TARIFAS E DESPESAS EM CADA CASO CONCRETO. 1. DELIMITAÇÃO DA CONTROVÉRSIA: Contratos bancários celebrados a partir de 30/04/2008, com instituições financeiras ou equiparadas, seja diretamente, seja por intermédio de correspondente bancário, no âmbito das relações de consumo. 2. TESES FIXADAS PARA OS FINS DO ART. 1.040 DO CPC/2015: 2.1.
+Abusividade da cláusula que prevê a cobrança de ressarcimento de serviços prestados por terceiros, sem a especificação do serviço a ser efetivamente prestado; 2.2. Abusividade da cláusula que prevê o ressarcimento pelo consumidor da comissão do correspondente bancário, em contratos celebrados a partir de 25/02/2011, data de entrada em vigor da Res.-CMN 3.954/2011, sendo válida a cláusula no período anterior a essa resolução, ressalvado o controle da onerosidade excessiva; 2.3. Validade da tarifa de avaliação do bem dado em garantia, bem como da cláusula que prevê o ressarcimento de despesa com o registro do contrato, ressalvadas a: 2.3.1.
+abusividade da cobrança por serviço não efetivamente prestado; e a 2.3.2. possibilidade de controle da onerosidade excessiva, em cada caso concreto. 3. CASO CONCRETO.
+3.1. Aplicação da tese 2.2, declarando-se abusiva, por onerosidade excessiva, a cláusula relativa aos serviços de terceiros ("serviços prestados pela revenda").
+3.2. Aplicação da tese 2.3, mantendo-se hígidas a despesa de registro do contrato e a tarifa de avaliação do bem dado em garantia.
+4. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+(REsp n. 1.578.553/SP, relator Ministro Paulo de Tarso Sanseverino, Segunda Seção, julgado em 28/11/2018, DJe de 6/12/2018.)
+Na hipótese, o Tribunal de origem consignou ser válida a referida cláusula, uma vez que ajustada antes de 25.02.11, bem como não se constatou onerosidade excessiva.
+Sendo assim, o acórdão estadual está de acordo com a jurisprudência desta Corte, motivo pelo qual o recurso especial encontra óbice na Súmula 83/STJ, que incide pelas alíneas "a" e "c" do permissivo constitucional.
+Ademais, a pretensão de modificar o entendimento firmado, quanto à efetiva prestação do serviço, bem como sua especificação, demandaria revolvimento do acervo fático-probatório e análise de cláusulas contratuais, o que é inviável em sede de recurso especial, nos termos das Súmulas 7 e 5 do STJ.
+Com essas considerações, conclui-se que o recurso não merece prosperar.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
