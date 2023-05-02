@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 26/04/2023 a 02/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  pela  FAZENDA NACIONAL contra  decisão  de  relatoria do Ministro Manoel Erhardt  assim  ementada:
+TRIBUTÁRIO. PROGRAMA DE ALIMENTAÇÃO DO TRABALHADOR-PAT. FORMA DE CÁLCULO: DEDUÇÃO SOBRE O LUCRO TRIBUTÁVEL DA EMPRESA, O QUE REFLETE NO CÁLCULO DO ADICIONAL DO IMPOSTO DE RENDA. RECURSO ESPECIAL PROVIDO.
+Em  suas  razões  recursais  (fls.  393/400),  a parte agravante defende que após a alteração legislativa promovida pela Lei 9.532/1997 a dedução das despesas com o Programa de Alimentação do Trabalhador-PAT deve ser calculada sobre o imposto devido, sem qualquer dedução sobre o seu adicional, conforme determina o § 4º do art. 3º da Lei 9.249/1995.
+Requer,  desse  modo,  a  reconsideração  da  decisão  agravada  ou  a  submissão  do  feito  ao  Órgão  Colegiado  competente.
+Impugnação  apresentada  às  fls.  418/423.
+É  o  relatório.
+EMENTA
+TRIBUTÁRIO.  AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  PROGRAMA  DE  ALIMENTAÇÃO  DO  TRABALHADOR-PAT.  FORMA  DE  CÁLCULO:  DEDUÇÃO  SOBRE  O  LUCRO  TRIBUTÁVEL  DA  EMPRESA . AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. O entendimento do Superior Tribunal de Justiça é de que benefício fiscal instituído pelo art. 1º da Lei 6.321/1976, consubstanciado no desconto em dobro das despesas comprovadamente realizadas com o Programa de Alimentação do Trabalhador-PAT, deve se dar sobre o lucro tributável da pessoa jurídica, resultando, assim, no lucro real, sobre o qual deverá recair o adicional do imposto de renda, de modo que as deduções realizadas no momento da apuração do lucro real não interferem na integralidade prevista no § 4º do art. 3º da Lei 9.249/1995. Precedentes: AgInt no REsp n. 1.968.875/RS, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 5/12/2022, DJe de 9/12/2022; e AgInt no REsp n. 1.948.804/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 5/12/2022, DJe de 27/1/2023.
+2.  Agravo  interno  da  FAZENDA NACIONAL  a que se nega provimento.
+VOTO
+A  despeito  das  alegações  da  parte  agravante,  razão  não  lhe  assiste,  porquanto  os  argumentos  trazidos  no  recurso  não  foram  suficientes  para  infirmar  a  decisão  agravada.
+O entendimento do Superior Tribunal de Justiça é de que o benefício fiscal instituído pelo art. 1º da Lei 6.321/1976, consubstanciado no desconto em dobro das despesas comprovadamente realizadas com o Programa de Alimentação do Trabalhador-PAT, deve se dar sobre o lucro tributável da pessoa jurídica, resultando, assim, no lucro real, sobre o qual deverá recair o adicional do imposto de renda, de modo que as deduções realizadas no momento da apuração do lucro real não interferem na integralidade prevista no § 4º do art. 3º da Lei 9.249/1995. A propósito, confiram-se os recentes julgados:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. IMPOSTO DE RENDA. PROGRAMA DE ALIMENTAÇÃO DO TRABALHADOR - PAT. ART. 1º DA LEI N. 6.321/76. FORMA DE CÁLCULO. DEDUÇÃO SOBRE O LUCRO TRIBUTÁVEL DA EMPRESA E NÃO SOBRE O IMPOSTO DE RENDA DEVIDO. REFLEXO NO CÁLCULO DO ADICIONAL DO IMPOSTO DE RENDA,AFASTANDO A VEDAÇÃO CONSTANTE DO ART. 3º, §4º, DA LEI N. 9.249/95. LIMITAÇÃO DA DOBRA A 4% DO IMPOSTO DE RENDA DEVIDO E NÃO A 4% DO LUCRO TRIBUTÁVEL. RECURSO ESPECIAL PROVIDO PARCIALMENTE.
+1. Tendo sido o recurso interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado n. 3/2016/STJ.
+2. É firme o posicionamento desta Corte Superior segundo o qual os benefícios instituídos pelas Leis 6.297/75 e 6.321/76 aplicam-se ao adicional do imposto de renda, devendo, primeiramente, proceder-se à dedução sobre o lucro da empresa, resultando no lucro real, sobre o qual deverá ser calculado o adicional (AgInt no REsp 1.695.806/RS, Segunda Turma, Rel. Min. Mauro Campbell Marques, julgado em 7/8/2018, DJe 14/8/2018). Precedentes.
+3. Esta Corte já se pronunciou no sentido de que conquanto esta Corte tenha posicionamento no sentido de que a dedução do dobro das despesas comprovadamente gastas com o Programa de Alimentação do Trabalhador - PAT deve se dar por sobre o lucro tributável (e não por sobre o imposto de renda devido), diferentemente, a limitação da dobra deve obedecer ao limite de 4% (quatro por cento) do imposto de renda devido e não a 4% do lucro tributável. Isto porque tal limite está expresso nos arts. 5º e 6º, I, da Lei n. 9.532/97 (AgInt nos EDcl nos EDcl no REsp 1.926.785/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 21/02/2022, DJe 02/03/2022). Precedente.
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.968.875/RS, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 5/12/2022, DJe de 9/12/2022.)
+TRIBUTÁRIO. IMPOSTO DE RENDA. PROGRAMA DE ALIMENTAÇÃO DO TRABALHADOR - PAT. FORMA DE CÁLCULO. DEDUÇÃO SOBRE O LUCRO TRIBUTÁVEL DA EMPRESA. LIMITAÇÃO DO DESCONTO . OBSERVÂNCIA.
+1. O Superior Tribunal de Justiça firmou a orientação jurisprudencial de que o incentivo fiscal referente ao desconto em dobro das despesas com o PAT deve ser calculado sobre o lucro da empresa, chegando-se, assim, ao lucro real sobre o qual é calculado o adicional do Imposto de Renda. Precedentes.
+2. No que tange à limitação de 4% de dedução do benefício, segundo a jurisprudência desta Corte Superior entende-se que esse percentual deve ser calculado sobre o Imposto de Renda devido em razão de expressa previsão legal nesse sentido - arts. 5º e 6º, inciso I, da Lei n. 9.532/1997.
+3. Na hipótese dos autos, o Tribunal de origem determinou o cálculo do incentivo fiscal sobre o Imposto de Renda devido, razão pela qual o recurso especial deve mesmo ser provido para que seja aplicada a orientação jurisprudencial desta Corte Superior.
+4. Agravo interno desprovido.
+(AgInt no REsp n. 1.948.804/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 5/12/2022, DJe de 27/1/2023.)
+Diante  dessas  considerações,  nego  provimento  ao  agravo  interno da FAZENDA NACIONAL .
+É  o  voto.
