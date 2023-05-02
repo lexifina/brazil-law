@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por Hamilton Franc a dos Santos, com base no art. 105, III, a e c, da Constituição Federal, desafiando acórdão do Tribunal de Justiça do Estado da Bahia assim ementado (e-STJ, fl. 498):
+APELAÇÃO CÍVEL. BUSCA E APREENSÃO. PRELIMINAR DE NULIDADE. FUNDAMENTAÇÃO CONCISA QUE NÃO ACARRETA NULIDADE DO JULGADO. REJEIÇÃO. MÉRITO. PEDIDO DE PRESTAÇÃO DE CONTAS DA VENDA DO VEÍCULO EM LEILÃO FEITO EM RECONVENÇÃO PELO DEVEDOR. POSSIBILIDADE DE PROCESSAMENTO NOS PRÓPRIOS AUTOS DA BUSCA E APREENSÃO. TODAVIA, AUSÊNCIA DE PROVA DE OCORRÊNCIA DO LEILÃO. INVERSÃO DO ÔNUS DA PROVA. IMPOSSIBILIDADE. AUSÊNCIA DE DEMONSTRAÇÃO MÍNIMA DOS FATOS CONSTITUTIVOS DO DIREITO. ART. 6º, INC VIII, DO CDC. VEROSSIMILHANÇA DAS ALEGAÇÕES. EXIGÊNCIA LEGAL. INOCORRÊNCIA NO CASO CONCRETO. RECURSO DESPROVIDO. SENTENÇA MANTIDA.
+Os embargos de declaração foram rejeitados, conforme se verifica da seguinte ementa (e-STJ, fl. 528):
+EMBARGOS DE DECLARAÇÃO NA APELAÇÃO CÍVEL. OMISSÃOEOBSCURIDADE. VÍCIOS INEXISTENTES. MATÉRIA DE ACLARATÓRIOS ADSTRITA AOART. 1.022 DOCPC. REDISCUSSÃO DE MATÉRIA. DESCABIMENTO. ACLARATÓRIOS REJEITADOS. ACÓRDÃO MANTIDO.
+Em suas razões de recurso especial (e-STJ, fls. 542-564), o agravante alegou violação aos arts. 373, II, § 1º, e 489, § 1º, IV, do CPC de 2015 e 6º, VIII, do CDC, bem como a existência de dissídio jurisprudencial.
+Sustentou, em síntese, que o acórdão recorrido não se manifestou devidamente acerca do julgamento antecipado da lide, ocasionando o indevido cerceamento de defesa.
+Advertiu, no mais, a respeito da necessidade de inversão do ônus da prova, para que a parte recorrida apresentasse aos autos os documentos solicitados pelo insurgente, referentes ao extrato da evolução financeira dos valores pagos ao longo dos anos e à venda do veículo, essenciais para o deslinde do feito.
+Requereu, dessa forma, o provimento do recurso.
+Foram apresentadas contrarrazões (e-STJ, fls. 568-577).
+O processamento do apelo especial não foi admitido pela Corte local, levando o insurgente a interpor o presente agravo.
+Contraminuta apresentada (e-STJ, fls. 649-654).
+Brevemente relatado, decido.
+De plano, vale pontuar que o recurso em análise foi interposto na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo n. 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+De início, quanto à suposta negativa de prestação jurisdicional, cabe pontuar que "o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes" (AgInt no AREsp n. 1.852.071/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 13/2/2023, DJe de 16/2/2023).
+Na espécie, verifica-se que o TJBA se manifestou de forma expressa e fundamentada acerca da controvérsia, com a aplicação do direito que entendeu cabível à hipótese.
+Por oportuno, colhe-se do julgado recorrido o seguinte excerto acerca da questão probatória (e-STJ, fls. 501-502):
+No mérito, invoca, o Recorrente, a existência de crédito a ser devolvido pela instituição financeira em razão do preço de venda do veículo, em leilão, ter ultrapassado o débito existente, para tanto, argumenta a necessidade de inversão do ônus da prova.
+A distribuição inversa do ônus de prova, seja com fundamento no Código de Processo Civil, seja com supedâneo no Código de Defesa do Consumidor, aplicável ao caso alhures, exige requisitos que não ocorrem no caso concreto.
+De acordo com a distribuição dinâmica do ônus da prova adotada pelo CPC/15, no seu art. 373, fica encarregado de produzir as provas essenciais para a solução da causa a parte que tem melhor condições fazê-lo.
+Mostra-se muito mais fácil a parte autora trazer as provas de que de fato exista crédito - até porque essa é uma prova positiva -, do que a empresa ré demonstrar a inexistência, que, em verdade, trata-se de prova negativa e, portanto, impossível sua produção.
+Todavia, o que se vê são argumentos genéricos por parte do Recorrente sem trazer aos autos qualquer início de prova sob o fundamento de que a imperiosa a inversão do ônus probante ao réu.
+Outrossim, ainda que sob a ótica do Código Consumerista, também não se encontra requisitos legais para justificar, no caso, a distribuição inversa do ônus de prova.
+Com base no art. 6º, inc. VIII, a inversão do ônus da prova a favor do consumidor encontra condição na verossimilhança das alegações ou hipossuficiência da parte. Isso quer dizer que não há inversão automática do ônus probante pelo simples fato de se tratar de relação de consumo.
+É necessária que, a critério do julgador, sejam verossímeis as alegações abordadas pela parte, ou seja ela hipossuficiente, o que inocorre no caso. O Apelante sequer trouxe prova da ocorrência do leilão, portanto, da venda do veículo. Em verdade, para chegar em suposto crédito, tomou por base o autor o preço médio do veículo pela tabela FIPE.
+Assim, ainda que possível a prestação de contas nos próprios autos da busca e apreensão, conforme se depreende do Decreto Lei nº 911, não há nos autos, prova da venda do veículo, o que impossibilita reconhecer, neste processo, crédito ao Apelante, restando-lhe facultado ajuizar ação autônoma para tanto.
+Nesse contexto, é certo que foram examinados todos os pontos relevantes para a solução da causa, não havendo como reconhecer a propalada ofensa ao art. 489 do CPC/2015.
+A propósito:
+RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATOS DE EMPRÉSTIMO C/C REPETIÇÃO DE INDÉBITO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. PRECLUSÃO CONSUMATIVA DE MATÉRIA DE ORDEM PÚBLICA. POSSIBILIDADE. NÃO CONFIGURAÇÃO NA ESPÉCIE. OBSERVÂNCIA DOS LIMITES DA LIDE. PRESCRIÇÃO DA PRETENSÃO REVISIONAL. TERMO INICIAL. ASSINATURA DO CONTRATO. HONORÁRIOS SUCUMBENCIAIS. BASE DE CÁLCULO. PROVEITO ECONÔMICO.
+(..)
+3. Não ocorre ofensa aos arts. 489 e 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, examina fundamentada e expressamente todos os pontos relevantes para a solução da controvérsia, ainda que de forma distinta daquela pretendida pela parte.
+(..)
+7. Recurso especial conhecido e parcialmente provido.
+(REsp n. 1.986.909/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 28/2/2023, DJe de 2/3/2023.)
+Por outro lado, observa-se que o Tribunal de origem afastou a inversão do ônus da prova, tendo em vista que não foram colacionados aos autos elementos mínimos das alegações da parte agravante, não cabendo falar em inversão automática pelo simples fato de existir relação de consumo.
+Do que se depreende da análise desses fundamentos, estão eles lastreados nos elementos fático-probatórios constantes dos autos. Claro está, portanto, que o Superior Tribunal de Justiça, para chegar a entendimento diverso, precisaria empreender novo e aprofundado exame de tais circunstâncias, mas tal providência é vedada a esta Corte, na via do recurso especial, nos termos da Súmula 7 do STJ.
+Diante do exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte agravada em 2% sobre o valor atualizado da causa.
+Fiquem as partes cientificadas de que a insistência injustificada (ou desnecessária) no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. BUSCA E APREENSÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. INVERSÃO DO ÔNUS DA PROVA. IMPOSSIBILIDADE. AUSÊNCIA DE DEMONSTRAÇÃO MÍNIMA DOS FATOS CONSTITUTIVOS DO DIREITO. REVISÃO DAS CONCLUSÕES DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. ÓBICE DA SÚMULA N. 7 DO STJ. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
