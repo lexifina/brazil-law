@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, denegar o habeas corpus, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT) e Laurita Vaz votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Rogerio Schietti Cruz.
+RELATÓRIO
+Trata-se de habeas corpus impetrado em benefício de Edivan Santana de Oliveira - condenado às penas de 1 ano e 2 meses de reclusão, em regime inicial semiaberto, e ao pagamento de 5 dias-multa, pela prática do delito previsto no art. 155, §4º, inc. II, c/c art. 14, inc. II, ambos do Código Penal (fls. 108/117 ) -, no qual se aponta como autoridade cotara o Tribunal de Justiça de São Paulo, que negou provimento ao Recurso de Apelação n. 1521792-62.2022.8.26.0228 (fls. 173/183) e rejeitou os Embargos de Declaração n 521792-62.2022.8.26.0228/50000 (fls. 197/207).
+Aqui a defesa alega constrangimento ilegal na negativa de aplicação do princípio da insignificância e no aumento da pena-base.
+Afirma que o valor dos bens subtraídos é irrisório de acordo com os critérios estabelecidos pela jurisprudência deste Tribunal, uma vez que inferior a 10% do salário-mínimo nacional vigente à época dos fatos, tendo sido os fios de cobre supostamente subtraídos avaliados em R$ 120,00 (fl. 9).
+Aduz que o simples fato de a guia ter sido expedida em absolutamente nada torna a conduta do réu mais reprovável, até porque ele, evidentemente, sequer tinha ciência de tal circunstância, uma vez que, por não haver ainda processo de execução instaurado, não tinha sido sequer intimado a dar início ao cumprimento da reprimenda. Vale destacar, ainda, que não se pode admitir a suplementação de argumentação em desfavor do acusado por ocasião do julgamento de recurso exclusivo da defesa e muito menos em sede de embargos de declaração. (fl. 12).
+Requer, ao final, que seja concedida a ordem de habeas corpus para que seja o paciente absolvido, com fundamento no artigo 386, III, do Código de Processo Penal, determinando-se a expedição do competente alvará de soltura em seu favor. Subsidiariamente, aguarda-se que sua pena-base seja fixada no mínimo legal. (fl. 13).
+O Ministério Público Federal ofereceu parecer pelo não conhecimento do habeas corpus (fls. 217/226).
+EMENTA
+HABEAS CORPUS. FURTO QUALIFICADO TENTADO. PED ITO DE APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. INABPLICABILIDADE. DOSIMETRIA. AUMENTO DA PENA BASE. DELITO COMETIDO NO CUMPRIMENTO DE PENA POR OUTRO PROCESSO. MAIOR REPROVALIBILIDADE. FUNDAMENTAÇÃO VÁLIDA.
+1 - Na hipótese, escorreito o entendimento que afastou a atipicidade material da conduta do paciente, não apenas pela reincidência, tendo sido destacado elevado grau de reprovabilidade da conduta do réu, verificada nas circunstâncias da ação delituosa - além de ser reincidente, o corte de fios causou o não funcionamento do semáforo no local, situação causadora de problemas no trânsito, inclusive com possibilidade de acidentes.
+2 - Cometido novo delito quando em cumprimento de pena imposta em outro processo confere maior reprovabilidade na conduta, justificando o aumento da pena base, não havendo assim constrangimento ilegal a ser sanado.
+3 - Ordem denegada.
+VOTO
+É cediço que a aplicabilidade do princípio da insignificância deve ser avaliada com cautela, observando-se as peculiaridades do caso concreto, de forma a aferir o potencial grau de reprovabilidade da conduta e verificar a necessidade, ou não, da utilização do Direito Penal como resposta à conduta do agente, sob pena de restar estimulada a prática reiterada de furtos de pequeno valor.
+Segundo a orientação do Supremo Tribunal Federal, para a sua aplicação devem estar presentes, cumulativamente, as seguintes condições objetivas: a) mínima ofensividade da conduta do agente; b) nenhuma periculosidade social da ação; c) reduzido grau de reprovabilidade do comportamento do agente; e d) inexpressividade da lesão jurídica provocada (STF, HC n. 107.689/RS, Ministro Luiz Fux, Primeira Turma, DJe 7/3/2012).
+No caso, o Tribunal a quo manteve o afastamento do princípio da insignificância afirmando que não há como considerar o preenchimento de tais requisitos, eis que, além de o ser reincidente, não há como considerar que o valor da "res" seja de inexpressiva lesão jurídica, sobretudo porque é de ser considerado o valor agregado ao bem subtraído. No presente caso, o corte de fios causou o não funcionamento do semáforo no local, situação causadora de problemas no trânsito, inclusive com possibilidade de acidentes. (fl. 182).
+Na hipótese, escorreito o entendimento que afastou a atipicidade material da conduta do paciente, não apenas pela reincidência, tendo sido destacado elevado grau de reprovabilidade da conduta do réu, verificada nas circunstâncias da ação delituosa.
+Nesse sentido, mutatis mutandis:
+PENAL. PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL, ORDINÁRIO OU DE REVISÃO CRIMINAL. NÃO CABIMENTO. FURTO. PRINCÍPIO DA INSIGNIFICÂNCIA. HABITUALIDADE DELITIVA. NÃO INCIDÊNCIA. REDUZIDO REPROVABILIDADE. AFASTADO.
+1. Ressalvada pessoal compreensão pessoal diversa, uniformizou o Superior Tribunal de Justiça ser inadequado o writ em substituição a recursos especial e ordinário, ou de revisão criminal, admitindo- se, de ofício, a concessão da ordem ante a constatação de ilegalidade flagrante, abuso de poder ou teratologia.
+2. Sedimentou-se a orientação jurisprudencial no sentido de que a incidência do princípio da insignificância pressupõe a concomitância de quatro vetores: a) a mínima ofensividade da conduta do agente;
+b) nenhuma periculosidade social da ação; c) o reduzidíssimo grau de reprovabilidade do comportamento e d) a inexpressividade da lesão jurídica provocada.
+3. A reiteração delitiva tem sido compreendida como obstáculo inicial à tese da insignificância, ressalvada excepcional peculiaridade do caso penal.
+4. Na espécie, além do delito ter sido praticado por agentes contumazes na prática delitiva, a tentativa de furto de fios de cobre traria não apenas o prejuízo material do cabeamento subtraído, como os danos a inúmeras pessoas, que restariam temporariamente sem energia elétrica.
+5. Habeas corpus não conhecido.
+(HC n. 293.478/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 22/8/2014.)
+Quanto à pena base, o Tribunal a quo, nos embargos de declaração, afirmou que (fl. 203):
+ ..
+Outrossim, constou do v. Acórdão suficiente e expressa fundamentação quanto à dosimetria da reprimenda do acusado:
+"Na primeira fase, com fundamento no art. 59 do Código Penal, a pena-base foi exasperada à razão de 1/6 acima do mínimo legal, ou seja, 02 anos e 04 meses de reclusão, e 11 dias-multa, no mínimo legal. Foi observado que o réu estava em cumprimento de regime aberto por recente condenação pela prática da mesma espécie de crime, o que deve ser considerada como circunstância judicial negativa".
+Neste ponto, convém destacar que, embora a Guia de Recolhimento Definitiva do réu tenha sido distribuída aos 27/10/2022, é certo que esta fora expedida na data de 12/08/2022 (fls. 376/377 Autos nº 1514903-29.2021.8.26.0228), ou seja, antes dos fatos narrados nestes Autos principais (23/09/2022).
+Inconteste, assim, a maior reprovabilidade da condutado réu, que, mesmo em fase de cumprimento de sua pena, não se olvidou em continuar a fazer do crime o seu meio de vida, mostrando-se renitente em cumprir regras básicas do convívio social. Diante de tais circunstâncias, a meu ver, era mesmo de rigor a exasperação de sua pena-base acima do mínimo legal.
+ ..
+Com efeito, verifica-se que os embargos de declaração não modificaram a essência do acórdão embargado.
+Ora, o fato de o paciente ter cometido novo delito quando em cumprimento de pena imposta em outro processo, independente da situação prisional (regime aberto, semiaberto, domiciliar, livramento condicional), confere maior reprovabilidade na conduta, justificando o aumento da pena base, não havendo, assim, constrangimento ilegal a ser sanado.
+Neste sentido: AgRg no HC n. 728.569/SC, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 24/6/2022; e, AgRg no AREsp n. 1.490.583/SE, Ministro Ribeiro Dantas, Quinta Turma, DJe 12/9/2019.
+Ante o exposto, denego a ordem de habeas corpus.
