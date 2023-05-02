@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 26/04/2023 a 02/05/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos por MARIA DE JESUS BARROS E SILVA VIEIRA ao acórdão assim ementado:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO AGRAVO EM RECURSO ESPECIAL. FERIADO LOCAL OU SUSPENSÃO DE EXPEDIENTE FORENSE. COMPROVAÇÃO EXTEMPORÂNEA. IMPOSSIBILIDADE (ART. 1.003, § 6º, DO CPC/2015). AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. A Corte Especial deste Superior Tribunal de Justiça, no julgamento do AREsp 957.821/MS, firmou entendimento de que a comprovação da existência de feriado local deve ocorrer no ato de interposição do respectivo recurso, não se admitindo a comprovação posterior. Ficou consignado, ainda, que o entendimento construído à luz do CPC/1973 não subsiste ao CPC/2015 (AgInt no AREsp 957.821/MS, Rel. p/ Acórdão Ministra NANCY ANDRIGHI, CORTE ESPECIAL, DJe 19.12.2017).
+2. No julgamento do REsp 1.813.684/SP, em 2.10.2019, a Corte Especial reafirmou o entendimento segundo o qual é necessária a comprovação nos autos de feriado local por meio de documento idôneo no ato de interposição do recurso. Contudo, decidiu-se modular os efeitos da decisão, de modo que a tese firmada seja aplicada tão somente aos recursos interpostos após a publicação do acórdão respectivo.
+3. Para os recursos interpostos anteriormente deve ser oportunizada à parte recorrente a possibilidade de regularização do pleito recursal. Destaca-se ainda que, em Questão de Ordem no aludido recurso especial, a Corte Especial estabeleceu que a modulação de efeitos e a possibilidade de comprovação posterior da tempestividade dos recursos não se aplicaria a todos feriados locais, mas apenas à segunda-feira de Carnaval (REsp 1.813.684/SP, Rel. p/ Acórdão Min. LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe 18.11.2019).
+4. No caso dos autos, não se trata de feriado de carnaval, não sendo o caso de modulação dos efeitos da decisão proferida nos autos do REsp 1.813.684/SP. Fora isso, a parte agravante foi intimada do acórdão recorrido em 15.6.2020, sendo o agravo interposto somente em 10.7.2020, quando já esgotado o prazo recursal de 15 dias úteis. Assim, é manifesta a intempestividade do recurso conforme disposição contida nos arts. 994, VI, combinado com os arts. 1.003, § 5º, 1.029, e 219, caput, todos do CPC/2015.
+5. Não obstante a indicação do Ato 1.352/2019, no bojo do presente agravo interno, expedido pelo Tribunal de Justiça do Estado de Pernambuco que supostamente aponta a suspensão do prazo processual, é certo que a regularização posterior da tempestividade recursal não se mostra possível, diante do disposto no art. 1.003, § 6º, do CPC/2015.
+6. Agravo interno a que se nega provimento (fls. 395/396).
+Sustenta a parte embargante omissão no julgado pois declarada a intempestividade do recurso com base em certidão expedida pelo Tribunal de origem, a qual não indica a ocorrência da suspensão do prazo prevista no art. 1º do Ato da Presidência do TJPE 1.352/2019.
+Requer o acolhimento dos embargos de declaração com efeitos infringentes.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO. INEXISTÊNCIA. JUÍZO DE ADMISSIBILIDADE BIFÁSICO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. O inconformismo da parte embargante não se enquadra nas hipóteses de cabimento dos embargos de declaração, previstas no art. 1.022 do CPC. Não há na decisão ora combatida vícios de omissão, contradição, obscuridade ou erro material, não se prestando os aclaratórios para o fim de rediscutir os aspectos jurídicos anteriormente debatidos.
+2. O juízo de admissibilidade do recurso especial é bifásico, de modo que qualquer pronunciamento do Tribunal de origem acerca da tempestividade recursal não vincula esta Corte Superior, a quem compete analisar, em definitivo, o preenchimento dos requisitos de admissibilidade do recurso especial.
+3. Constata-se, portanto, que a parte embargante pretende renovar a discussão sobre questão que já foi decidida de maneira fundamentada, o que não é possível por meio dos embargos de declaração.
+4. Rever as matérias aqui alegadas acarretaria rediscutir entendimento já manifestado e devidamente embasado. Os embargos declaratórios não se prestam à inovação, à rediscussão da matéria tratada nos autos ou à correção de eventual error in judicando.
+5. Embargos de declaração rejeitados.
+VOTO
+Os embargos declaratórios não apresentam vícios formais, foram opostos dentro do prazo e cogitam, objetivamente, de matéria própria dessa espécie recursal (arts. 1.022 e 1.023 do CPC). Nada há, enfim, que impeça o seu conhecimento.
+O inconformismo da parte embargante não se enquadra nas hipóteses de cabimento dos embargos de declaração, previstas no art. 1.022 do CPC. Não há na decisão ora combatida vícios de omissão, contradição, obscuridade ou erro material, não se prestando os aclaratórios para o fim de rediscutir os aspectos jurídicos anteriormente debatidos.
+No caso, a Presidência do STJ não conheceu do agravo (art. 1.042 do CPC) em razão da intempestividade do recurso especial.
+Irresignada, a parte ora embargante interpôs agravo interno, no qual defendeu a tempestividade do recurso, indicando a ocorrência de suspensão do prazo na origem conforme o art. 1º do Ato da Presidência do TJPE 1.352/2019.
+O agravo interno foi desprovido pois a parte havia deixado de comprovar, no ato da interposição do recurso especial, a suspensão do prazo processual, já que apenas indicou o ato normativo local na petição recursal.
+Nos presentes aclaratórios, a parte indica omissão no julgado porque teria declarado a intempestividade do recurso com base em certidão expedida pelo Trib unal de origem, a qual não apontava a ocorrência da suspensão do prazo prevista no art. 1º do Ato da Presidência do TJPE 1.352/2019.
+Conforme já relatado, as decisões proferidas nesta instância não se basearam em certidão expedida pelo Tribunal a quo, mas tão somente na ausência de comprovação do feriado local no ato da interposição do recurso, como exige o art. 1.003, § 6º, do CPC.
+Saliento, ainda, que o juízo de admissibilidade do recurso especial é bifásico, de modo que qualquer pronunciamento do Tribunal de origem acerca da tempestividade recursal não vincula esta Corte Superior, a quem compete analisar, em definitivo, o preenchimento dos requisitos de admissibilidade do recurso especial. Nesse sentido:
+AGRAVO INTERNO. INTEMPESTIVIDADE DO RECURSO ESPECIAL. SUSPENSÃO DOS PRAZOS PROCESSUAIS NÃO COMPROVAÇÃO NO ATO DE INTERPOSIÇÃO. ART. 1003. § 6º, CPC/2015. FERIADO LOCAL. RECURSO NÃO PROVIDO.
+1. O juízo de admissibilidade do recurso especial é bifásico. A decisão proferida pelo Tribunal de origem não vincula o Superior Tribunal de Justiça na aferição dos pressupostos de admissibilidade do recurso especial. Isso porque compete a esta Corte, órgão destinatário do recurso especial, o juízo definitivo de admissibilidade. Precedentes.
+ ..
+6. Agravo interno não provido. (AgInt no REsp n. 1.684.240/MG, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 20/2/2018, DJe de 28/2/2018.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. INTEMPESTIVIDADE DO APELO ESPECIAL. NOVO CPC/2015. APLICABILIDADE. CONTAGEM DO PRAZO RECURSAL EM DIAS ÚTEIS. JUÍZO DE ADMISSIBILIDADE BIFÁSICO.
+ ..
+2. A existência de certidão do Tribunal de Origem atestando a tempestividade do recurso não tem o condão de vincular o Superior Tribunal de Justiça, a quem compete examinar, em definitivo, os requisitos de admissibilidade do apelo especial.
+3. Agravo interno a que se nega provimento. (AgInt no REsp n. 1.673.508/PE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 26/9/2017, DJe de 13/10/2017.)
+Constato, portanto, que a parte embargante pretende renovar a discussão sobre questão que já foi decidida de maneira fundamentada, o que não é possível por meio de embargos de declaração.
+O Superior Tribunal de Justiça assim já se manifestou:
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC/2015. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE. DEVIDO JUÍZO DE ADMISSIBILIDADE RECURSAL.1. De acordo com a norma prevista no art. 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. "Se o recurso é inapto ao conhecimento, o colegiado não tem como se pronunciar sobre o mérito, de modo que a falta de exame da matéria de fundo não se caracteriza omissão, senão mera decorrência do exercício do devido juízo de admissibilidade recursal". (EDcl no AgInt nos EREsp 1.559.725/PE, Rel. Ministro Og Fernandes, Primeira Seção, DJe 30/8/2017).
+4. Embargos de declaração rejeitados. (EDcl no AgInt no REsp n. 1.574.004/SE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 8/3/2021, DJe de 11/3/2021 - sem destaques no original.)
+Rever as matérias aqui alegadas acarretaria rediscutir entendimento já manifestado e devidamente embasado. Os embargos declaratórios não se prestam à inovação, à rediscussão da matéria tratada nos autos ou à correção de eventual error in judicando.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
