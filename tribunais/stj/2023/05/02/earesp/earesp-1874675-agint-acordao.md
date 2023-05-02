@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 26/04/2023 a 02/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti, Ricardo Villas Bôas Cueva, Marco Buzzi e Marco Aurélio Bellizze votaram com a Sra. Ministra Relatora.
+Não participou do julgamento o Sr. Ministro Moura Ribeiro.
+Presidiu o julgamento o Sr. Ministro Antonio Carlos Ferreira.
+RELATÓRIO
+Cuida-se de agravo interno interposto por NEURO ANTÔNIO RIBAS contra decisão da Presidência do STJ que indeferiu liminarmente os embargos de divergência que opusera.
+Ação: de cobrança ajuizada pelo recorrente em desfavor de SUL AMÉRICA SEGUROS, por meio da qual busca indenização securitária prevista em seguro de vida em grupo.
+Sentença: julgou improcedentes os pedidos, em razão da ausência de situação clínica incapacitante que inviabilize a autonomia da segurada.
+Acórdão: negou provimento à apelação interposta pelo recorrente.
+Embargos de declaração: opostos pelo recorrente, foram rejeitados pela Corte local.
+Recurso especial: violação aos artigos 2º, 3º, 4º, 6º, 14, 46, 47, 51, IV, e § 1º e art. 54, do CDC, além dos artigos 19, 20 e 21 da Lei 8.213/91 e ao art. 166 do CC e a Resolução 117/2004 do CNSP e a Circular 302/2005 SUSEP. Aduz que a Corte de origem não examinou o argumento de que o recorrente foi previamente informado sobre as cláusulas contratuais. Assevera que não foi informado acerca da existência de cláusula limitativa do direito à indenização securitária. Defende, ademais, que as cláusulas contratuais previstas em contrato de adesão devem ser interpretadas favoravelmente ao consumidor. Alega que a cláusula contratual coloca o consumidor em desvantagem exagerada.
+Juízo prévio de admissibilidade: o TJ/RJ inadmitiu o recurso especial, ensejando a interposição do recurso cabível.
+Decisão do STJ: conheceu do agravo, para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Acórdão embargado: deu provimento ao agravo interno, a fim de reconsiderar a decisão monocrática, e conhecer do agravo para conhecer em parte do recurso especial e, nessa parte, negar-lhe provimento, conforme a seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. RECONSIDERAÇÃO. SEGURO DE VIDA. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. ACÓRDÃO ESTADUAL FUNDAMENTADO. INVALIDEZ POR DOENÇA OCUPACIONAL. AUSÊNCIA DE COBERTURA NA APÓLICE CONTRATADA. INDENIZAÇÃO SECURITÁRIA AFASTADA. MODIFICAÇÃO. IMPOSSIBILIDADE. NECESSIDADE DE REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO E ANÁLISE DE CLÁUSULAS CONTRATUAIS. INCIDÊNCIA DAS SÚMULAS 7 E 5 DO STJ. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL DESPROVIDO.
+1. Não configura ofensa aos arts. 489 e 1.022 do CPC/2015 o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados pelo recorrente, adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia.
+2. O Tribunal de origem, à luz das circunstâncias do caso concreto, concluiu que a apólice contratada não possui cobertura para a incapacidade por doença ocupacional, suportada pelo segurado, o que impede o recebimento da indenização requerida.
+3. A pretensão de modificar o entendimento firmado demandaria revolvimento do acervo fático-probatório e análise de cláusulas contratuais, o que é inviável em sede de recurso especial, nos termos das Súmulas 7 e 5 do STJ.
+4. Agravo interno provido. Recurso especial a que se nega provimento.
+Embargos de divergência: inicialmente, postula a suspensão do feito, em razão do Tema 1112 do STJ. Aduz que, o acórdão recorrido, ao aplicar os óbices das Súmulas 5 e 7 do STJ, dissentiu do acórdão proferido pela Terceira Turma no AgInt no REsp 1851686/SC, segundo o qual incumbe à seguradora dar ciência ao consumidor sobre as cláusulas limitativa presentes em contrato de seguro de vida em grupo. Menciona, também, a existência de divergência com acórdãos da própria Quarta Turma do STJ.
+Decisão da Presidência do STJ: indeferiu liminarmente os embargos de divergência em razão da incidência da Súmula 315/STJ.
+Agravo interno: aduz não incidir o óbice da Súmula 315 do STJ, tendo em vista que a decisão monocrática foi reconsiderada em sede de agravo interno e as Súmulas 5 e 7 do STJ apenas foram aplicadas com relação à cobertura contratada. Ademais, sustenta ter sido devidamente comprovada a existência de divergência.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO EMBARGADO QUE NÃO APRECIOU A CONTROVÉRSIA DE MÉRITO. NÃO CABIMENTO. SÚMULA 315/STJ.
+1. Não cabem embargos de divergência quando o acórdão embargado ou o paradigma sequer adentra no mérito do recurso especial, interpretando os pressupostos de admissibilidade dessa espécie recursal. Aplicação analógica da Súmula 315/STJ.
+2. Agravo interno não provido.
+VOTO
+Os embargos de divergência constituem instrumento excepcional voltado à uniformização da jurisprudência interna do Superior Tribunal de Justiça, representando mecanismo que, a despeito de depender da iniciativa das partes ou de terceiros interessados, "não tem por mira apenas realizar justiça subjetiva". Isso porque, "o Tribunal quando os julga tem por propósito específico promover a harmonia de interpretação da lei federal com a consequente uniformização da jurisprudência no âmbito interno da Corte" (EDcl nos EREsp 88.682/SP, 1ª Seção, DJ de 1º/12/2003).
+Assim, por ser recurso de fundamentação vinculada, o cabimento dos embargos de divergência é restrito, do que exsurge especiais requisitos de admissibilidade a serem observados pela parte embargante.
+É necessário observar que, nos termos do art. 1.043 do CPC/15, é embargável o acórdão de órgão fracionário que, em recurso especial, divergir do julgamento de qualquer outro órgão do mesmo tribunal, sendo os acórdãos, embargado e paradigma, de mérito, ou, ainda, sendo um acórdão de mérito e outro que não tenha conhecido do recurso, embora tenha apreciado a controvérsia.
+Essa exigência legal no sentido de que o acórdão seja de mérito, ou ao menos tenha apreciado a controvérsia, se justifica porque, a rigor, os embargos de divergência não servem para propiciar novo exame acerca da aplicação de regra técnica de admissibilidade do recurso especial ou do agravo em recurso especial (Súmula 315/STJ).
+Deveras, o juízo de admissibilidade de cada processo levado a julgamento é realizado, de forma soberana, pelo órgão fracionário deste Tribunal, segundo as particularidades de cada hipótese concreta, de modo que se torna inviável uma comparação abstrata de teses no âmbito dos embargos de divergência.
+Na espécie, o acórdão embargado, embora tenha afastado a incidência do óbice da Súmula 283/STF, aplicou o óbice das Súmulas 5 e 7/STJ. Desse modo, inexistindo exame de mérito, incide o óbice da Súmula 315/STJ.
+Outrossim, ainda que os embargos fossem conhecido, razão não assistiria ao recorrente, uma vez que o STJ firmou orientação no sentido de que "a modalidade de contrato de seguro de vida coletivo, cabe exclusivamente ao estipulante, mandatário legal e único sujeito que tem vínculo anterior com os membros do grupo segurável (estipulação própria), a obrigação de prestar informações prévias aos potenciais segurados acerca das condições contratuais quando da formalização da adesão, incluídas as cláusulas limitativas e restritivas de direito previstas na apólice mestre" (Segunda Seção, Tema 1112).
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno.
