@@ -1,0 +1,4 @@
+Resolução Nº 222 INSTRUÇÃO NORMATIVA BCB Nº 376, DE 28 de abril de 2023
+Estabelece orientações sobre a participação das entidades registradoras e dos depositários centrais de ativos financeiros no processo de elaboração da convenção que dispõe sobre as normas de autorregulação para o exercício das atividades de registro e de depósito centralizado de recebíveis imobiliários, de que trata o art. 12 da Resolução BCB nº 308, de 28 de março de 2023.
+O Chefe do Departamento de Competição e de Estrutura do Mercado Financeiro (Decem), no uso das atribuições que lhe confere o art. 97-A, inciso I, alínea “d”, itens 2 e 3 do Regimento Interno do Banco Central do Brasil, anexo à Portaria nº 84.287, de 27 de fevereiro de 2015, com base nos arts. 12, §§ 2º, 3º e 4º, e 23, ambos da Resolução BCB nº 308, de 28 de março de 2023,
+R E S O L V E :
