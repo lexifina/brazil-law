@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo (art. 1042 do CPC/15), interposto por FORTEL PROMOCOES E SERVICOS LTDA, contra decisão que não admitiu recurso especial (fls. 1772/1773, e-STJ).
+O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, desafia acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 1710, e-STJ):
+AGRAVO INTERNO - Interposição contra decisão que indeferiu o benefício da gratuidade da justiça - Ausência de comprovação de que a ora agravante, pessoa jurídica, faz jus ao benefício - Aplicação da regra contida na Súmula 481 do STJ - Manutenção da decisão - Pedido subsidiário de diferimento de custas a final do processo e parcelamento delas não conhecido em razão de se tratar de inovação recursal - Recurso parcialmente conhecido e, na parte conhecida, desprovido.
+Opostos embargos de declaração, restaram rejeitados.
+Em suas razões de recurso especial, a recorrente aponta ofensa aos artigos 98, 99, § 2º, e 932, parágrafo único, do CPC/15.
+Sustenta, em síntese: (a) ter sido "devidamente comprovada a situação fiscal, patrimonial, econômica e financeira da Recorrente, não havendo qualquer novo documento que se possa eventualmente produzir para comprovar (..) a impossibilidade de arcar com as demais custas do processo" (fl. 1753, e-STJ); e que (b) não "houve intimação para que fosse sanado eventual vício ou complementada a documentação exigível" (fl. 1755, e-STJ).
+Contrarrazões (fls. 103/106, e-STJ).
+Em juízo de admissibilidade, negou-se o processamento do recurso especial, pelos seguintes fundamentos: (i) ausência de ofensa ao artigo 489 do CPC/15; (ii) não houve demonstração das vulnerações legais suscitadas; e (iii) incidência da Súmula 7 e 211 do STJ.
+Daí o presente agravo (art. 1042 do CPC/15), buscando destrancar o processamento daquela insurgência.
+Contraminuta às fls. 1761/1770 (e-STJ).
+É o relatório.
+Decido.
+O inconformismo não merece prosperar.
+1. Na espécie, a Corte de origem considerou que, mesmo após intimada, a apelante, ora agravante, não demonstrou a incapacidade econômica para arcar com o preparo recursal e custas do processo.
+Convém colacionar os seguintes excertos do acórdão recorrida (fl. 1712, e-STJ):
+A agravante tinha o ônus de demonstrar sua hipossuficiência econômica para arcar com custas relativas ao preparo recursal (Súmula 481 do STJ).
+No entanto, como bem fundamentado na decisão que indeferiu o benefício da gratuidade, deixou de demonstrar que não possui condições de arcar com o preparo.
+Não foram apresentados quaisquer documentos acerca da movimentação atual contábil da agravante, não colhendo a alegação contida nas razões deste recurso de que tais documentos já haviam sido apresentados nos autos da ação declaratória. Os documentos lá apresentados, que não são de expedição contemporânea ao pedido de gratuidade da justiça, são apenas registros de notas fiscais e notas fiscais eletrônicas e demonstrativo analítico de despesas (fls. 532/636 do apenso).
+Além disso, restringiu-se a afirmar que não possui atividade operacional. No entanto, não trouxe certidão da Junta Comercial de São Paulo para comprovar tal fato. Ressalta-se, ainda, que apresentou extrato com movimentação financeira em 21 de setembro de 2020, que aponta saldo negativo de R$ 2.058,45, o que denota ainda ter atividade comercial.
+O fato de a agravante possuir capital social de R$ 10.000,00 também não é razão para justificar o não recolhimento do preparo, ainda que as custas o superem, tendo em vista que as operações comerciais, especialmente a discutida nestes autos, demonstram que a movimentação financeira superava em muito o capital social diminuto.
+E como também devidamente fundamentado na decisão recorrida, houve recolhimento de custas iniciais e honorários de perito, não tendo sido demonstrada modificação da situação financeira da agravante depois da propositura da ação.
+Veja ainda trecho retirado do acórdão que julgou os embargos de declaração (fl. 1733/1734, e-STJ):
+Houve a devida fundamentação acerca da ausência de comprovação da hipossuficiência financeira da embargante, restando analisados os documentos por ela apresentados, ressaltando-se que, ao contrário do que alega nestes embargos de declaração, foi oportunizada a apresentação de documentos para demonstrar que fazia jus ao benefício da gratuidade da justiça.
+Dessa forma, reexaminar o entendimento da instância inferior, necessariamente, demandaria revolvimento de matéria fático-probatória, inadmissível no apelo especial, por óbice da Súmula 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. GRATUIDADE DA JUSTIÇA. PESSOA JURÍDICA. NECESSIDADE DE COMPROVAÇÃO DA MISERABILIDADE JURÍDICA. SÚMULA N. 481/STJ. HIPOSSUFICIÊNCIA NÃO COMPROVADA. REVISÃO. SÚMULA N. 7/STJ. DISSÍDIO JURISPRUDENCIAL. FALTA DE COTEJO ANALÍTICO. DECISÃO DA PRESIDÊNCIA MANTIDA. AGRAVO NÃO PROVIDO. 1. A jurisprudência desta Corte entende que é possível a concessão do benefício da gratuidade da justiça à pessoa jurídica somente quando comprovada a precariedade de sua situação financeira, não havendo falar em presunção de miserabilidade. Súmula 481 do STJ. 2. No caso, o Tribunal de origem, com base nas provas coligidas aos autos, concluiu por manter a decisão monocrática que indeferiu o benefício da gratuidade de justiça. Alterar tal conclusão e acolher a pretensão recursal demandaria o reexame de fatos e provas, inviável em recurso especial, a teor do disposto na Súmula 7 do STJ. 3. O dissídio jurisprudencial não foi devidamente demonstrado à míngua do indispensável cotejo analítico. 4. Agravo interno não provido. (AgInt no AREsp n. 1.976.408/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 22/2/2022, DJe de 7/3/2022.)
+2. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, conhece-se do agravo para não conhecer do recurso especial.
+Por conseguinte, nos termos do art. 85, § 11, do CPC, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem.
+Publique-se. Intimem-se.
