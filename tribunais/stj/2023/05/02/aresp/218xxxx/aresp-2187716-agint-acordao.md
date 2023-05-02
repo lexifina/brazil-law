@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 26/04/2023 a 02/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+ Trata-se  de  agravo  interno  interposto  por COMERCIO DOIS IRMAOS SR LTDA. contra  decisão  monocrática proferida pela Presidência do Superior Tribunal de Justiça (fls. 417/418), que não conheceu do recurso, aplicando o enunciado da Súmula 284/STF, uma vez que a parte recorrente havia deixado de indicar com precisão quais dispositivos legais teriam sido violados pelo acórdão recorrido ou quais dispositivos legais seriam objeto de dissídio interpretativo.
+  A parte insurgente, nas razões do agravo interno  (fls.  420/422),  refuta os fundamentos da decisão agravada, alegando que foram "minuciosamente indicados os dispositivos de lei federal violados, principalmente no que diz respeito ao 166 do Código Tributário Nacional, que aborda sobre a legitimidade Ativa do Recorrente (fl. 420).
+ Requer,  ao  final, a reconsideração da decisão agravada ou a submissão do feito à turma julgadora.
+Não houve  impugnação  ao  recurso  (fl.  42 9).
+ É  o  relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGADA LEGITIMIDADE ATIVA. FALTA DE INDICAÇÃO DE ARTIGO DE LEI FEDERAL VIOLADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. APLICAÇÃO DA SÚMULA 284/STF. AGRAVO INTERNO DESPROVIDO.
+1. O Superior Tribunal de Justiça entende que a falta de indicação clara e precisa do dispositivo de lei federal alegadamente afrontado implica deficiência na fundamentação do recurso especial. Aplicável o óbice da Súmula 284 do STF.
+2. Destaca-se que a mera citação de passagem de dispositivos legais nas razões recursais não satisfaz tal requisito, já que é impossível identificar se foram citados meramente a título argumentativo ou invocados como núcleo do recurso especial interposto (AgInt no REsp 1.615.830/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 11/6/2018).
+3. Registre-se que o apelo especial interposto com fundamento na alínea c do inciso III do art. 105 da CF também requer a indicação precisa do dispositivo legal a respeito do qual se alega a divergência interpretativa, o que não ocorreu na hipótese dos autos.
+4. Agravo interno desprovido.
+VOTO
+A despeito das alegações da parte agravante, razão não lhe assiste.
+Tal como consignado na decisão agravada, verifica-se, da análise das razões do recurso especial, que a ora agravante não indicou, de forma clara e precisa, qual artigo de lei federal foi contrariado pelo acórdão recorrido. Tal circunstância consubstancia deficiência na fundamentação recursal, motivo pelo qual não se pode conhecer do recurso especial em razão da incidência, por analogia, da Súmula 284/STF, a qual dispõe: "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia". A propósito:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIÇO DE ESGOTAMENTO SANITÁRIO. FALHA NA PRESTAÇÃO DO SERVIÇO. ILEGITIMIDADE PASSIVA DA RECORRENTE E ATIVA DO AUTOR. SUPOSTA VIOLAÇÃO ÀS LEIS Nº 7.347/85, 8.078/90 E 11.445/2007. AUSÊNCIA DE INDICAÇÃO ESPECÍFICA DOS DISPOSITIVOS SUPOSTAMENTE VIOLADOS PELO ACÓRDÃO RECORRIDO. SÚMULA 284/STF. FALHA NA PRESTAÇÃO DO SERVIÇO. DANOS MORAIS. LAUDO PERICIAL. ACÓRDÃO BASEADO NO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULAS 5 E 7/STJ. ACÓRDÃO FUNDAMENTADO EM MATÉRIA CONSTITUCIONAL. INVIABILIDADE DE ANÁLISE EM RECURSO ESPECIAL. AGRAVO INTERNO NÃO PROVIDO.
+1. Não havendo a indicação precisa e específica dos dispositivos legais supostamente violados, é inadmissível o inconformismo por deficiência na sua fundamentação. Aplicação da Súmula nº 284 do Supremo Tribunal Federal.
+2. O recurso especial não é, em razão das Súmulas 5 e 7/STJ, via processual adequada para questionar julgado que se afirmou explicitamente em contexto fático-probatório próprio da causa e em interpretação de cláusulas contratuais.
+3. Ainda que o recorrente aponte violação a dispositivos infraconstitucionais, o Tribunal a quo apreciou a questão sob enfoque constitucional, de modo que a revisão do entendimento não é possível na via recursal eleita, sob pena de usurpação da competência exclusiva do STF definida constitucionalmente.
+4. Agravo interno não provido (AgInt no AREsp 1.859.333/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 16/9/2021 - sem destaques no original).
+A competência do Superior Tribunal de Justiça, na via do recurso especial, encontra-se vinculada à interpretação e à uniformização do direito infraconstitucional federal.
+Nesse contexto, impõe-se não apenas a correta indicação dos dispositivos legais federais supostamente contrariados pelo Tribunal de origem mas também a delimitação da violação da matéria insculpida nos regramentos indicados para que, assim, seja viabilizado o necessário confronto interpretativo e, consequentemente, o cumprimento da incumbência constitucional revelada com a uniformização do direito infraconstitucional sob exame.
+Destaca-se que a mera citação de passagem de dispositivos legais nas razões recursais não satisfaz tal requisito, já que é impossível identificar se foram citados meramente a título argumentativo ou invocados como núcleo do recurso especial interposto (AgInt no REsp 1.615.830/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 11/6/2018).
+Registre-se que o apelo especial interposto com fundamento na alínea c do inciso III do art. 105 da Constituição Federal também requer a indicação precisa do dispositivo legal a respeito do qual se alega a divergência interpretativa, o que não ocorreu na hipótese dos autos.
+Assim, tendo em vista que as alegações declinadas no presente agravo interno não são capazes de alterar o entendimento anteriormente manifestado, mantenho incólume a decisão agravada.
+Pelas considerações expostas, nego provimento ao agravo interno.
+É como voto.
