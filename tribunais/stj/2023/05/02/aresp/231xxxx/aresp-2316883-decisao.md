@@ -1,0 +1,27 @@
+DECISÃO
+EMERSON DO NASCIMENTO ROCHA agrava de decisão que inadmitiu o recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios na Apelação n. 0704204-18.2021.8.07.0009.
+Depreende-se dos autos que o réu foi condenado a 7 anos, 1 mês e 10 dias de reclusão, em regime semiaberto, mais 26 dias-multa, e a 3 meses de detenção, em regime aberto, esta substituída por uma restritiva de direitos, pela prática dos crimes previstos nos arts. 157, § 2º, II e VII, e 307, caput, do CP.
+O Tribunal de origem deu parcial provimento à apelação defensiva, a fim de reduzir a pena pecuniária do roubo para 17 dias-multa.
+Nas razões do especial, alegou a defesa a violação do art. 59 do CP, ao argumento de que as penas-base foram exasperadas em patamar desproporcional, mediante fundamentação inidônea.
+Requereu fosse a reprimenda-base fixada no mínimo legal.
+Não admitido o especial na origem e interposto o recurso de agravo, o Ministério Público Federal opinou pelo seu não provimento.
+Decido.
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada.
+O acórdão recorrido asseriu o seguinte:
+Em que pese a discricionariedade atribuída ao magistrado, essa eg. 2ª Turma Criminal já manifestou entendimento de que, na valoração de cada circunstância judicial negativa, a pena mínima em abstrato deve ser aumentada em 1/6 (um sexto).
+ ..
+Destarte, seguindo o entendimento acima exposto, revejo a dosimetria da pena para aplicar a fração de 1/6 (um sexto) na primeira fase. Na primeira fase, o juiz a quo fixou a pena-base em 05 (cinco) anos e 04 (quatro) meses de reclusão e 20 (vinte) dias-multa, considerando, acertadamente, as seguintes circunstâncias judiciais (ID 37292855):
+"Em atenção às circunstâncias judiciais previstas no art. 59 do Código Penal, que analiso conjuntamente para os crimes de roubo majorado e de falsa identidade, assinalo que, quanto à culpabilidade, o réu não agiu com dolo que ultrapasse os limites das normas penais, o que torna suas condutas inseridas nos próprios tipos. Quanto aos antecedentes, deve ser considerado portador de maus antecedentes (ID 114397204 - incidência 01). Poucos elementos foram coletados a respeito de sua conduta social e personalidade. Os motivos dos delitos são aqueles descritos nos tipos, nada tendo a valorar. As circunstâncias do roubo majorado se revestem de excepcional gravidade, uma vez que a subtração foi praticada com emprego de arma branca e concurso de agentes. A fim de evitar bis in idem, tendo em vista que tais circunstâncias são também majorantes do delito de roubo, utilizo apenas uma delas (concurso de agentes) nesta fase, enquanto a outra (emprego de arma branca) será valorada negativamente como majorante na terceira fase.
+Considerando que a pena mínima em abstrato do crime do roubo é de 4 (quatro) anos de reclusão (art. 157, caput, do CP) e, levando-se em consideração que foram valoradas 2 (duas) circunstâncias judiciais desfavoráveis - antecedentes e circunstâncias do crime (concurso de agentes) -, deve ser aplicada à referida pena a fração de 1/6 (um sexto), para cada uma delas, ensejando, portanto, na primeira fase, a pena-base de 5 (cinco) anos, 4 (quatro) meses de reclusão e 13 (doze) dias-multa.
+ ..
+Utilizando os mesmos critérios acima mencionados - 1/6 (um sexto) na primeira e segunda fases da dosimetria da pena, revejo na integralidade a reprimenda aplicada ao crime de falsa identidade. Na primeira fase, o juiz a quo fixou a pena-base em 4 (quatro) meses de detenção, considerando, acertadamente, a seguinte circunstância judicial
+ ..
+Considerando que a pena mínima em abstrato do crime de falsa identidade é de 3 (três) meses de detenção (art. 307, do CP) e, levando-se em consideração que foi valorada 1 (uma) circunstância judicial desfavorável (antecedentes), deve ser aplicada à referida pena a fração de 1/6 (um sexto), ensejando, portanto, na primeira fase, a pena-base de 3 (três) meses e 15 (quinze) dias de detenção.
+(fls. 259-267, destaquei)
+Relativamente ao quantum de pena estabelecido na primeira etapa da dosimetria, a jurisprudência uníssona das Turmas que compõem a Terceira Seção entende que cabe ao magistrado, dentro do seu livre convencimento e de acordo com as peculiaridades do caso concreto, decidir o montante de exasperação da pena-base, em observância aos princípios da razoabilidade e da proporcionalidade.
+Na espécie, o Tribunal de origem manteve a valoração negativa dos antecedentes e das circunstâncias do crime (majorante sobejante) para acrescer 8 meses de reclusão para cada vetorial negativa quanto ao crime de roubo, de maneira a fixar a pena-base em 5 anos e 4 meses reclusão mais 13 dias-multa.
+No que tange ao delito de falsa identidade, apenas os maus antecedentes foram computados para aumentar em 15 dias a reprimenda na primeira fase.
+Como as reprimendas mínimas previstas para o roubo e a falsa identidade, respectivamente, são de 4 anos de reclusão e 3 meses de detenção, é proporcional a fixação das penas-base nos referidos patamares, ante o amplo intervalo entre os limites fixados em lei - máximo de 10 anos de reclusão (art. 157 do CP) e de 1 ano de detenção (art. 307 do CP).
+Ademais, como visto acima, não há falar em falta de fundamentação idônea, haja vista a exposiçã o feita pelo acórdão recorrido de cada elemento que considerou relevante para a dosimetria da pena.
+Diante do exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se e intimem-se .
