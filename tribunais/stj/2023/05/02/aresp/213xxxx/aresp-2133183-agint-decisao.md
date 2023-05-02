@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de agravo interno interposto por Alexander Lopes Rubim e outros contra decisão que negou provimento ao agravo em recurso especial, com base na incidência da Súmula 7/STJ e em razão de o dissídio jurisprudencial restar prejudicado (fls. 356/360).
+Inconformada, a parte agravante defende a inaplicabilidade da Súmula 7/STJ, sob o argumento de que "o exame do recurso especial de fls. 184/201 prescinde de qualquer discussão fático-probatória. Muito pelo contrário, discute-se exclusivamente a congruência entre o título executivo judicial e a pretensão veiculada no cumprimento de sentença instaurado pelos agravantes perante o MM. Juízo da 26ª Vara Federal da Seção Judiciária do Rio de Janeiro/RJ. Logo, para se aferir se há ou não essa congruência, basta a leitura (i) dos pedidos veiculados na ação originária; (ii) da decisão final proferida em caráter definitivo pelo e. Ministro NAPOLEÃO NUNES MAIA FILHO no REsp nº 1.585.353/DF; e (iii) da inicial do cumprimento provisório de sentença instaurado pelos agravantes. Nada mais!" (fls. 365/366).
+Ressalta que "não se busca uma avaliação quanto a estar ou não comprovado determinado fato, mas apenas a sua consequência jurídica, razão pela qual não há que se falar em reexame de matéria fático-probatória, devendo o presente agravo ser provido de plano, ante a inaplicabilidade da Súmula 7" (fl. 369).
+No mais, reitera a ocorrência da divergência jurisprudencial.
+É o relatório.
+Melhor compulsando os autos e ante as razões expendidas no agravo interno, exercendo o juízo de retratação facultado pelo art. 1.021, § 2º, do CPC e 259, § 3º, do RISTJ, reconsidero a decisão agravada, tornando-a sem efeito.
+Por entender necessário melhor exame da matéria, dou provimento ao agravo para determinar sua reautuação como recurso especial.
+Publique-se.
