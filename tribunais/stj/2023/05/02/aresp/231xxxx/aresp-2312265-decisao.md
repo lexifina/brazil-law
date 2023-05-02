@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo interposto por BANCO DO BRASIL S.A. contra decisão de inadmissibilidade do recurso especial apresentado em desafio a acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"AGRAVO DE INSTRUMENTO EXPURGOS INFLACIONÁRIOS - AÇÃO CIVIL PÚBLICA - EXECUÇÃO INDIVIDUAL - Prefaciais e critérios de cálculo para apuração do valor devido - Matérias que foram analisadas em decisão anterior à agravada - Impossibilidade de reedição de temas para nova apreciação, diante da preclusão sobre eles operada.
+AGRAVO DE INSTRUMENTO - EXPURGOS INFLACIONÁRIOS - AÇÃO CIVIL PÚBLICA - EXECUÇÃO INDIVIDUAL - HOMOLOGAÇÃO DE CÁLCULO - Alegação de excesso de execução - Ausência de indicação adequada sobre quais os elementos indicados na conta não corresponderiam ao quanto previamente definido na sentença transitada em julgado - Agravante que pretendeu a redução do valor devido nos autos aplicando critérios diversos daqueles estabelecidos na coisa julgada - Inadmissibilidade.
+Agravo conhecido em parte, e, na parte conhecida, desprovido."
+Em suas razões recursais, a parte recorrente alega violação dos arts. 17, 85, 240, 332, § 1º, 485, VI, 783 e 1.035 do CPC/2015; 95, 97 e 98 do CDC; e 1º, § 2º, da Lei 6.899/1981, defendendo o seguinte: a) a ilegitimidade ativa da parte exequente, não associada ao Instituto Brasileiro de Defesa do Consumidor (IDEC) nem domiciliada no âmbito da competência territorial, a fim de ser abrangida pela eficácia da sentença coletiva; b) a incidência de juros moratórios a partir da citação no cumprimento individual da sentença coletiva; c) o excesso de execução; d) a necessidade de liquidação da sentença coletiva previamente à sua execução, a fim de ser demonstrada a titularidade e o montante do crédito; e e) o descabimento do arbitramento de honorários advocatícios na fase de execução.
+Contrarrazões apresentadas às fls. 438-448 (e-STJ).
+É o relatório. Decido.
+Do recurso especial não se pode conhecer, por inexistência de prequestionamento, óbice da Súmula 282/STF; deficiência das razões recursais, óbice da Súmula 284/STF; e ausência de impugnação da motivação do acórdão recorrido, óbice da Súmula 283/STF.
+Com efeito, as teses objeto do recurso especial não foram conhecidas pelo Tribunal de origem, motivado na preclusão das matérias deduzidas, fundamento que também não foi especificamente impugnado.
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
