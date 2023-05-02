@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de agravo interposto por FUNDAÇÃO PETROBRAS DE SEGURIDADE SOCIAL - PETROS contra decisão que inadmitiu recurso especial (e-STJ, fls. 875-882) proposto para impugnar acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (e-STJ, fl. 759):
+APELAÇÃO CÍVEL. PREVIDENCIÁRIO. AÇÃO DE REVISÃO DO BENEFÍCIO INICIAL SUPLEMENTAR DE PENSÃO POR MORTE. PETROS. SENTENÇA DE PROCEDÊNCIA. APELO DA PARTE RÉ. DESPROVIMENTO. TRATA-SE DE AÇÃO OBJETIVANDO A REVISÃO DO BENEFÍCIO INICIAL SUPLEMENTAR DE PENSÃO POR MORTE RECEBIDA EM DECORRÊNCIA DO FALECIMENTO DO CÔNJUGE DA PARTE AUTORA, O QUAL RECEBIA O BENEFÍCIO DE SUPLEMENTAÇÃO DE APOSENTADORIA COMO PARTICIPANTE DO PLANO E EX-EMPREGADO DA PETROBRÁS S/A. NO CASO, O LAUDO PERICIAL, ELABORADO POR PERITO DE CONFIANÇA DO JUÍZO, FOI CONCLUSIVO QUANTO À NÃO OBSERVÂNCIA DA REGRA DE CÁLCULO. O PERITO ESCLARECEU QUE O MÉTODO APLICADO PELA FUNDAÇÃO RÉ DIVERGIA DO PREVISTO NO ARTIGO 32 DO RPB -REGULAMENTO DO PLANO PETROS DO SISTEMA PETROBRAS, QUE PRECONIZA A APLICAÇÃO DAS PARCELAS FAMILIAR E BENEFICIÁRIA SOBRE O VALOR DE SUPLEMENTAÇÃO DE APOSENTADORIA DO PARTICIPANTE. DESSE MODO, O PERITO CONCLUIU PELA DEFASAGEM NO VALOR PAGO À AUTORA. ASSIM, RESTANDO DEMONSTRADO O EQUÍVOCO NO CRITÉRIO ADOTADO PARA O CÁLCULO DA SUPLEMENTAÇÃO DA PENSÃO POR MORTE, MERECE ACOLHIDA A PRETENSÃO AUTORAL. MANUTENÇÃO DA SENTENÇA. ENTENDIMENTO DESTE E. TRIBUNAL DE JUSTIÇA ACERCA DO TEMA. DESPROVIMENTO DO RECURSO.
+Opostos embargos de declaração, o aresto recorrido foi integralizado pela seguinte ementa (e-STJ, fl. 787):
+EMBARGOS DE DECLARAÇÃO. EFEITO MODIFICATIVO. INADMISSIBILIDADE. OBSCURIDADE, CONTRADIÇÃO E OMISSÃO INEXISTENTES.
+1. Os embargos de declaração têm a finalidade de esclarecer obscuridade ou contradição do julgado e supri-lo de omissão, requisitos cuja ausência enseja o não provimento do recurso.
+2. Inexiste qualquer omissão, contradição, obscuridade (CPC/1973, artigo 535) ou erro material (CPC/2015, artigo 1.022) no acórdão a justificara interposição dos embargos dedeclaração. Eventual insurgência contra o acórdão proferido deve ser objeto de recurso próprio, diverso dos embargos ora interpostos, que não servem à modificação pretendida.
+3. Este recurso é sede imprópria para manifestar-se o inconformismo com o julgado e obter a sua reforma porque, salvo as hipóteses específicas, nele não se devolve o exame da matéria.
+4. Negado provimento aos embargos.
+Nas razões do recurso especial, a recorrente alegou, com fulcro na alínea a do permissivo constitucional, violação aos arts. 1º da LC 109/2001; e 884 do CC/2002.
+Sustentou inexistir fundamento para a revisão do benefício previdenciário.
+Asseverou que a recorrida não faz jus à suplementação do valor recebido a título de pensão por morte, pois ausente a formação de prévia fonte de custeio.
+Destacou que a concessão da benesse sem o aporte financeiro acarreta enriquecimento ilícito do beneficiária.
+Apreciada a admissibilidade do recurso excepcional, o Tribunal de origem inadmitiu a insurgência (e-STJ, fls. 875-882).
+Diante de tal fato, foi interposto agravo em recurso especial (e-STJ, fls. 899-906).
+Brevemente relatado, decido.
+De início, é importante ressaltar que o recurso foi interposto contra decisão publicada já na vigência do Novo Código de Processo Civil, sendo, desse modo, aplicável ao caso o Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual: "aos recursos interpostos com fundamento no CPC/2015 (relativo a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A respeito da concessão da suplementação pleiteada pela agravada, o Tribunal de origem assim se manifestou (e-STJ, fls. 762-736):
+Trata-se de ação objetivando a revisão do benefício inicial suplementar de pensão por morte recebida em decorrência do falecimento do cônjuge da parte autora, o qual recebia o benefício de suplementação de aposentadoria como participante do plano e ex-empregado da Petrobrás S/A.
+No caso, o laudo pericial, elaborado por perito de confiança do juízo, com base no Regulamento do Plano Petros do Sistema Petrobras -RBP, no Relatório SIB -Sistema Integrado de Benefícios, no último contracheque do participante falecido e no Acórdão do TRT/RJ, foi conclusivo quanto à não observância da regra de cálculo (fls. 438/457 -000438).
+ ..
+Da análise da Tabela I pode-se constatar que o valor da Suplementação de Pensão ora apurado, de R$ 6.125,21, para o nível salarial NP3 755, diverge daquele concedido pela parte Ré, de R$ 4.620,50, que fora menor em R$ 1.504,71. Comparando-se ao valor apurado para o nível salarial NP3 752, de R$ 5.359,48, o mesmo valor pago, de R$ 4.620,50, também seria menor, neste caso em R$ 738,98".
+Desse modo, o perito concluiu que "o valor correto da Suplementação de Pensão da Autora em Janeiro de 2013 tendo por base o artigo 32 do RPB é de R$ 6.125,21 (seis mil, cento e vinte e cinco reais e vinte e um centavos) para o nível salarial NP3 755".
+Constata-se, pois, que restou demonstrado o equívoco no critério adotado para o cálculo da suplementação da pensão por morte, merecendo acolhida a pretensão autoral.
+Do excerto acima transcrito, depreende-se que o Tribunal estadual atestou a existência de equívoco no cálculo do benefício recebido pela recorrida, o qual, segundo a instância originária, divergia das regras estebelecidas para o plano de previdência complementar.
+À vista disso, reverter a conclusão da Corte local demandaria o revolvimento do acervo fático-probatório dos autos, bem como das disposições contratuais, o que se mostra inviável ante a natureza excepcional da via eleita, consoante enunciados das Súmulas n. 5 e 7 do Superior Tribunal de Justiça.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA COMPLEMENTAR. REVISÃO DO BENEFÍCIO. CÁLCULOS EQUIVOCADOS. REEXAME. SÚMULAS 5 E 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
