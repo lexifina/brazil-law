@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 26/04/2023 a 02/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, João Otávio de Noronha, Maria Isabel Gallotti, Ricardo Villas Bôas Cueva, Marco Buzzi e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Moura Ribeiro.
+Presidiu o julgamento o Sr. Ministro Antonio Carlos Ferreira.
+RELATÓRIO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Trata-se de agravo interno interposto por POTTENCIAL SEGURADORA S.A contra decisão que não conheceu do conflito de competência, pois, "como o fato caracterizador do sinistro ocorreu antes do deferimento do processamento do pedido de recuperação judicial (20/3/2018 e 04/02/2020, respectivamente), a execução da apólice do seguro garantia judicial não fica impedida, de modo que a execução pode ser levada a termo pela Justiça do Trabalho" (nas fls. 790/794).
+A agravante salienta, de início, que "a Reclamada/Recuperanda, após determinação de pagamento dos valores incontroversos (conforme despacho de 29/01/2018), realizou o pagamento, via deposito judicial, dos valores incontroversos" e que, "como houve o pagamento dos valores incontroversos por parte da Reclamada/Recuperanda, não há que se falar em caracterização de sinistro, e muito menos, que este restou caracterizado em despacho datado 20/03/2018, visto que não se trata de ordem de pagamento, e sim, de ordem de expedição de alvará de valores depositados" (fl. 805).
+Esclarece, nesse passo, que, "após o pagamento dos valores incontroversos citados acima, NÃO HOUVE NOVA DETERMINAÇÃO DE PAGAMENTO DA EXECUÇÃO, não havendo, por conseguinte, caracterização de sinistro antes do Pedido de Recuperação Judicial, razão pela qual, a procedência do presente Conflito de Competência é medida imperativa" (na fl. 806).
+Defende que, "irresignado, o Reclamante apresentou Agravo de Petição ao Tribunal Regional do Trabalho da 1ª Região que, após, data maxima venia, uma leitura absolutamente equivocada dos autos, deu provimento ao recurso para determinar a intimação da Pottencial Seguradora para o pagamento da indenização" (nas fls. 806/807).
+Assegura, que "a leitura dos autos foi equivocada, uma vez que a citada decisão "ID 35a458a" NÃO determinou à Reclamada/Recuperanda o pagamento do crédito trabalhista, mas, tão somente, a sua atualização" (na fl 808).
+Conclui, nessa esteira, que "não houve determinação de pagamento do crédito trabalhista, mas, tão somente, determinação de atualização dos créditos. Por conseguinte, como não houve determinação de pagamento, não houve inadimplemento da Reclamada/Tomadora e, consequentemente, não houve caracterização de sinistro" (na fl. 808).
+Requer o conhecimento e provimento do agravo interno.
+A parte agravada não apresentou impugnação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. EXECUÇÃO DE CRÉDITO TRABALHISTA. SEGURO GARANTIA JUDICIAL. EXECUÇÃO DA APÓLICE. SINISTRO ANTERIOR AO PEDIDO RECUPERACIONAL. CONTINUIDADE DA EXECUÇÃO EM FACE DA SEGURADORA. AGRAVO INTERNO DESPROVIDO.
+1. Conforme o entendimento desta Corte, exposto no julgamento do Conflito de Competência nº 161.667/GO (relator Ministro RICARDO VILLAS BÔAS CUEVA), nos casos de seguro garantia judicial ofertado em benefício de recuperandos, a seguradora poderá ser obrigada ao pagamento da correlata indenização, se o sinistro tiver ocorrido antes do pedido de recuperação judicial; após o pedido, a ocorrência do sinistro torna-se impossível, com a novação das dívidas e a substituição delas por outras novas, já submetidas ao efeitos da recuperação, quando, então, o não pagamento é imposto pela lei aos recuperandos, pois todos os desembolsos serão feitos de acordo com o plano recuperacional, reguardando-se a par conditio creditorum.
+2. No caso dos autos, o sinistro, qual seja, o inadimplemento da obrigação imposta por sentença condenatória, líquida e certa, ocorreu em momento anterior ao pedido de recuperação judicial, com o que, a execução contra a seguradora pode prosseguir perante o Juízo "singular".
+3. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Não prospera a irresignação.
+Com efeito, no caso dos autos é evidente que o sinistro, qual seja o inadimplemento da obrigação imposta por sentença condenatória, líquida e certa, ocorreu em momento anterior ao pedido de recuperação judicial.
+Destaque-se, nessa toada, que, em pesquisa ao sítio eletrônico do eg. Tribunal Regional do Trabalho da 1ª Região, verifica-se que desde 10/2/2017 a recuperanda vem sendo admoestada para promover o pagamento da condenação imposta na reclamação trabalhista.
+A propósito, confiram-se os seguintes excertos de decisões proferidas pelo d. Juízo do Trabalho suscitado:
+- Em 10/2/2017
+"Intimem-se as partes, sendo a Rda, através de seu patrono, via Diário Oficial, para efetuar o pagamento, no prazo de 15 dias, sob pena de aplicação da multa prevista no art. 523, §1º, do CPC, sobre o total da condenação. O devedor poderá garantir o juízo, na forma do art. 884, caput, da CLT, cientificando de que, no silêncio, o saldo recursal será liberado ao credor e a execução prosseguirá pela diferença de crédito.
+4. Decorrido o prazo in albis e certificado, inclua-se em minuta para penhora on line através do convênio BACENJUD com amparo no art. 854 do CPC.
+5. Dê-se ciência às partes do bloqueio total ou parcial, inclusive de que poderão exercer a faculdade do art. 884, caput, da CLT, garantida a execução. No silêncio os depósitos oriundos do bloqueio serão liberados ao credor e a execução prosseguirá pela diferença de crédito.
+6. Infrutífera ou insatisfatória a tentativa de bloqueio, intime-se o credor para que indique meios inéditos e eficazes de prosseguimento da execução no prazo de trinta dias".
+- Em 6/11/2017:
+"Expeça-se mandado de penhora de crédito em mãos de terceiros, nos termos requeridos pelo exequente".
+- Em 26/1/2017:
+"Desta forma, intimem-se as partes da referida decisão, bem como a executada HOPE RECURSOS HUMANOS S.A, para que efetue o depósito do remanescente do valor incontroverso de R$ 43.955,82, no prazo de 48 horas"
+É certo que, noticiado do deferimento do pedido de recuperação judicial, o d. Juízo do Trabalho suscitado determinou a expedição de certidão para habilitação do crédito trabalhista perante o Juízo recuperacional.
+Todavia, em sede de Agravo de Petição o eg. Tribunal Regional do Trabalho da 1ª Região cassou a assinalada decisão, determinando o prosseguimento da execução da apólice securitáira, após constatar que o sinistro ocorrera anteriormente ao pedido de recuperação judicial, nos seguintes moldes:
+"Inconformado com a r. sentença de ID 31d527b, prolatada pelo I. JUIZ MARCO ANTÔNIO BELCHIOR DA SILVEIRA, em exercício na 14ª Vara do Trabalho do Rio de Janeiro, que indeferiu o requerimento autoral de execução da garantia securitária (apólice de seguro) existente nos autos e determinou a expedição de certidão ao autor para habilitação no Juízo Competente do respectivo crédito (6ª Vara Empresarial do RJ - Proc nº: 0023386-56.2020.8.19.0001), na forma do art. 6º da Lei. 11.101/2005, agrava de petição o exequente, conforme razões de ID 27a0e66" (na fl. 700).
+"A garantia vinda aos autos antes de deferido o processamento da recuperação judicial da executada, assim como a ocorrência do sinistro também antes deste marco temporal permitem a liberação do numerário garantido para fins de satisfação do crédito exequendo" (na fl. 699).
+"Na hipótese em tela, o trânsito em julgado da sentença exequenda datou de 01/10/2019 (ID d1c1743) e a determinação do pagamento do crédito trabalhista ao exequente em 25/11 /2019 (ID 35a458a).
+O processamento do pedido de recuperação judicial somente foi deferido em 04/02/2020, após, portanto, a caracterização do sinistro" (na fl. 706).
+Assim, a discordância manifestada pela seguradora agravante com relação à ocorrência do sinistro deve ser manejada perante o eg. Tribunal Regional do Trabalho suscitado, com o manejo dos meios de impugnação cabíveis, porquanto o presente incidente não é sede apropriada para tanto.
+Dessa forma, deve ser reafirmando a incidência do entendimento desta Corte, exposto no julgamento do Conflito de Competência nº 161.667/GO (relator Ministro RICARDO VILLAS BÔAS CUEVA), vaticinando que, nos casos de seguro garantia judicial ofertado em benefício de recuperandos, a seguradora poderá ser obrigada ao pagamento da correlata indenização, se o sinistro tiver ocorrido antes do pedido de recuperação judicial, pois, após o pedido, a ocorrência do sinistro torna-se impossível, com a novação das dívidas e a substituição delas por outras novas, já submetidas ao efeitos da recuperação, quando, então, o não pagamento é imposto pela lei aos recuperandos, pois todos os desembolsos serão feitos de acordo com o plano recuperacional, reguardando a par conditio creditorum.
+No caso dos autos, o sinistro, qual seja, o inadimplemento da obrigação imposta por sentença condenatória, líquida e certa, ocorreu em momento anterior ao pedido de recuperação judicial, com o que, a execução contra a seguradora pode prosseguir perante o Juízo "singular".
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
