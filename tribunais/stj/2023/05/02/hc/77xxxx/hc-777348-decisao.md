@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de Alex Sandro Rodrigues dos Santos, no qual se aponta como autoridade coatora o Tribunal de Justiça do Rio Grande do Sul, que deu provimento ao Agravo de Execução Penal n. 5133741-75.2022.8.21.7000/RS interposto pelo Ministério Público (fls. 9/17) para revogar a decisão do Juízo da Vara Adjunta de Execuções Criminais da comarca de Bagé/RS, que declarou extinta a punibilidade (art. 107, IV, c/c o art. 109, V, ambos do Código Penal) e determinar o prosseguimento da execução das penas impostas ao apenado (PEC n. 0004540-59.2019.8.21.0004 - fls. 46/47).
+Alega a defesa constrangimento ilegal sob a afirmação de que a jurisprudência pacificada desta Corte Superior reconhece o início do prazo prescricional da pretensão executória no momento do trânsito em julgado da sentença condenatória para o Ministério Público (fl. 5).
+Aduz que o acórdão confirmatório da condenação, nos termos do entendimento fixado no HC n. 176.473/RR, Rel. Min. Alexandre de Moraes, DJe 10/9/2020, é marco interruptivo apenas da prescrição da pretensão punitiva, não da executória (fl. 6).
+Ao final, requer seja concedido o habeas corpus, para declarar a extinção da punibilidade do paciente em razão da prescrição da pretensão executória (fl. 8).
+Liminar indeferida (fls. 121/122).
+O Ministério Público estadual, na petição de fls. 148/153, manifestou-se pelo não conhecimento do writ e, caso conhecido, pela denegação da ordem.
+O Ministério Público Federal manifestou-se pelo não conhecimento do presente writ, por ser substitutivo de recurso próprio, não vislumbrando flagrante ilegalidade a ensejar a concessão da ordem de ofício (fl. 157).
+É o relatório.
+Não há ilegalidade a ser sanada.
+O Tribunal a quo deu provimento a agravo ministerial e afirmou que (fl. 14 - grifo nosso):
+ ..  no caso em apreço, na forma como dispõe o precitado art. 117, IV, do CP, o prazo prescricional da pretensão executória deve contar do trânsito em julgado para ambas as partes, do acórdão confirmatório da sentença de primeiro grau, que interrompeu a prescrição.
+Desse modo, o prazo prescricional de 4 anos aplicável à pretensão executória relativamente ao apenado ALEX SANDRO RODRIGUES DOS SANTOS, deve ser contado do trânsito em julgado para ambas as partes - não tendo, ainda, transcorrido integralmente.
+ ..
+Com efeito, não há o que censurar na decisão tomada pelo Tribunal local, pois em consonância com o entendimento fixado no âmbito deste Superior Tribunal, segundo o qual a execução penal somente pode ter início após a concretização do duplo grau de jurisdição, com o trânsito em julgado da condenação para ambas as partes, em atenção ao princípio da presunção de inocência, previsto no art. 5º, LVII, da Constituição Federal.
+A propósito:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. ART. 112, I, DO CP. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. TERMO INICIAL. TRÂNSITO EM JULGADO PARA AMBAS AS PARTES. ENTENDIMENTO SUFRAGADO PELO STF.
+1. Necessário o alinhamento dos julgados do Superior Tribunal de Justiça com o posicionamento adotado nas recentes decisões monocráticas proferidas no âmbito do Supremo Tribunal Federal, bem como nos seus órgãos colegiados (Turmas e Plenário).
+2. O Tribunal Pleno fixou a orientação de que " a  prescrição da pretensão executória, no que pressupõe quadro a revelar a possibilidade de execução da pena, tem como marco inicial o trânsito em julgado, para ambas as partes, da condenação". Logo, "enquanto não proclamada a inadmissão de recurso de natureza excepcional, tem-se o curso da prescrição da pretensão punitiva, e não a da pretensão executória" (AI n. 794.971/RJ-AgR, red. do ac. Min. Marco Aurélio, DJe de 28/6/21) (ARE 1301223 AgR-ED, Relator: DIAS TOFFOLI, Primeira Turma, julgado em 28/03/2022, PROCESSO ELETRÔNICO DJe-081 DIVULG 28-04-2022 PUBLIC 29-04-2022).
+3. Conforme orientação da Sexta Turma, não há que se falar em prescrição da pretensão executória, porque, ainda que haja, no STF, reconhecimento de repercussão geral no STF - ARE 848.107/DF (Tema n. 788) -, pendente de julgamento, " o  Plenário do Supremo Tribunal Federal, no julgamento do AI 794971-AgR/RJ (Rel. para acórdão Ministro MARCO AURÉLIO, DJe 25/06/2021), definiu que o dies a quo para a contagem da prescrição da pretensão executória é o trânsito em julgado para ambas as partes. Assim, por já ter havido manifestação do Plenário da Suprema Corte sobre a controvérsia e em razão desse entendimento estar sendo adotado pelos Ministros de ambas as turmas do STF, essa orientação deve passar a ser aplicada nos julgamentos do Superior Tribunal de Justiça, uma vez que não há mais divergência interna naquela Corte sobre o assunto" (AgRg no RHC n. 163.758/SC, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 21/6/2022, DJe de 27/6/2022) (AgRg no REsp n. 2.000.360/PR, Ministro Olindo Menezes (Desembargador convocado do TRF 1ª Região), Sexta Turma, DJe de 15/8/2022).
+4. Agravo regimental provido para negar provimento ao recurso especial defensivo.
+(AgRg no REsp n. 1.983.259/PR, da minha lavra, Terceira Seção, DJe 3/11/2022 - grifo nosso)
+A mudança de entendimento do Supremo Tribunal Federal vem robustecer a necessidade de mudança de entendimento no sentido de reconhecer, como termo inicial da prescrição executória, a data do trânsito em julgado para ambas as partes. Do contrário, estar-se-ia punindo o Estado pela inação quando não poderia agir.
+Enquanto não transitada em julgado a sentença penal condenatória para ambas as partes, não há falar em inação do Estado na busca da execução da pena, pois patente a impossibilidade de fazê-lo.
+Ante o exposto, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. MARCO INICIAL. TRÂNSITO EM JULGADO DA CONDENAÇÃO PARA AMBAS AS PARTES. ACÓRDÃO DO TRIBUNAL ESTAD UAL EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ.
+Ordem denegada.
