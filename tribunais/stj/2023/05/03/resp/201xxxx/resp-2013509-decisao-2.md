@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu o recurso especial de VOLNEI MARCELINO DE ALMEIDA, no qual se insurgira, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado:
+PREVIDENCIÁRIO. JUÍZO DE RETRATAÇÃO. REAFIRMAÇÃO DA DER. APOSENTADORIA ESPECIAL. TEMA 709 DO STF. JUROS DE MORA. HONORÁRIOS ADVOCATÍCIOS.
+1. É admissível a "reafirmação da DER" para a data em que o segurado completa o tempo de serviço/contribuição exigido para a concessão da prestação previdenciária buscada na via judicial, observada a aplicação da tese firmada pelo STF no Tema 709 quanto à aposentadoria especial.
+2. Em caso de implementação do benefício por meio da reafirmação da DER, os juros de mora e os honorários advocatícios incidirão a partir da reafirmação da DER, conforme definido pela 3ª Seção deste Tribunal, em Incidente de Assunção de Competência (fls. 764/776)
+Os  embargos  de  declaração  opostos  por ambas as partes foram acolhidos nos termos da seguinte ementa:
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. EMBARGOS DEDECLARAÇÃO. ERRO MATERIAL. CORREÇÃO. OMISSÃO SUPRIDA. PRESCRIÇÃO. LIMITES DO PREQUESTIONAMENTO NO ARTIGO 1025 DO CPC.
+1. Correção de erro material no julgado quanto à data da reafirmação da DER.
+2. Omissão suprida para reconhecer a prescrição das parcelas anteriores aos 5 anos do ajuizamento da ação.
+3. O prequestionamento da matéria segue a sistemática prevista no artigo 1.025 do CPC/2015 (fls. 813/820).
+Os segundos aclaratórios opostos pela parte ora agravante foram acolhidos apenas para suprir a omissão apontada, sem modificar o resultado do julgamento (fls. 857/861).
+Nas razões do recurso especial inadmitido (fls. 869/876), a parte ora agravante sustenta, além de divergência jurisprudencial, violação dos arts. 202, I, do Código Civil e 240, § 1º, do Código de Processo Civil, argumentando, em suma, que não há falar em prescrição quinquenal, já que houve a interrupção do prazo prescricional pela citação válida em processo anteriormente ajuizado, objetivando o mesmo bem da vida pleiteado nestes autos.
+Devidamente intimada, a parte agravada deixou de apresentar as contrarrazões.
+Sobreveio o juízo de admissibilidade negativo (fls. 896/902), fundado no óbice da Súmula 7/STJ, razão pela qual se interpôs o agravo em recurso especial, ora em análise.
+É o relatório.
+A irresignação não merece prosperar.
+Relativamente à controvérsia travada no presente recurso, o Tribunal de origem consignou o seguinte:
+A citação interrompe a prescrição, conforme artigo artigo 202, inciso I, artigo 219 do CPC/1973, em vigor quando do ajuizamento da ação anterior (atual artigo 240 do CPC/2015), e retroage à data da propositura da ação.
+Todavia, aludida interrupção limita-se ao que foi objeto da ação anterior, não podendo se estender ao desta ação, que possui causa de pedir e pedido diversos (conversão do tempo comum em especial, pelo fator 0,71, e concessão de aposentadoria especial).
+Conforme já afirmado por este Colegiado, a interrupção da prescrição ocorrida na ação anterior, diz respeito somente ao que foi objeto daquela ação, não se estendendo ao objeto desta. Nem se argumente que o processo anterior seria necessário ao deslinde do presente, eis que, fosse assim, estar-se-ia diante da ocorrência de efetiva coisa julgada, ao menos na sua eficácia preclusiva (TRF4, AC 5003743-67.2018.4.04.7108, QUINTA TURMA, Relatora GISELE LEMKE, juntado aos autos em 10/09/2020).
+Logo, não há falar em interrupção da prescrição reconhecida no julgado (fls. 860/861 - sem destaques no original).
+Verifico que a Corte regional, do exame dos elementos fático-probatórios dos autos, concluiu que o pedido formulado na ação em apreço era distinto daquele postulado na ação anterior. Dessa forma, a adoção de entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o seguimento do recurso especial. Sendo assim, incide no presente caso a Súmula 7 do Superior Tribunal de Justiça, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Com relação ao alegado dissídio, é pacífico o entendimento desta Corte Superior de que os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c, ficando prejudicada a apreciação da divergência jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica. Nesse sentido, cito os seguintes julgados do Superior Tribunal de Justiça, naquilo que interessa:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO ORDINÁRIA. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CÓDIGO DE PROCESSO CIVIL/2015 E DOS ARTS. 186 E 927 DO CÓDIGO CIVIL/2002. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. INDENIZAÇÃO POR DANOS MORAIS NÃO RECONHECIDA PELO TRIBUNAL A QUO. REVISÃO. INVIABILIDADE. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA.
+ ..
+4. Assinale-se, por fim, que fica prejudicada a apreciação da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+5. Agravo Interno não provido (AgInt no REsp 1.878.337/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/12/2020, DJe 18/12/2020 - sem destaque no original).
+AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. EXECUÇÃO. 3,17%. DISPOSITIVO DE LEI TIDO POR VIOLADO QUE NÃO SUSTENTA A TESE RECURSAL APRESENTADA. INCIDÊNCIA DO ÓBICE DA SÚMULA 284/STF. ASSISTÊNCIA JUDICIÁRIA GRATUITA. REVISÃO, DE OFÍCIO, PELO JUIZ. POSSIBILIDADE. HIPOSSUFICIÊNCIA COMPROVADA. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. HONORÁRIOS ADVOCATÍCIOS. AFERIÇÃO DO GRAU DE SUCUMBÊNCIA. INCIDÊNCIA DA SÚMULA 7/STJ. DISSÍDIO PREJUDICADO.
+ ..
+5. Os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c, ficando prejudicada a análise do dissídio jurisprudencial.
+6. Agravo interno a que se nega provimento (AgInt no REsp 1.503.880/PE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 27/02/2018, DJe 08/03/2018 - sem destaque no original).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial do particular.
+Por fim, caso exista nos autos prévia fixação de honorários sucumbenciais pelas instânc ias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimações necessárias.
