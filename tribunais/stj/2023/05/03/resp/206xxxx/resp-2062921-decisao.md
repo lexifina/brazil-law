@@ -1,0 +1,60 @@
+DECISÃO
+Cuida-se de recurso especial interposto por MARCO ANTONIO BUENO, fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Recurso especial interposto em: 04/08/2022.
+Concluso ao gabinete em: 19/04/2023.
+Ação: declaratória de nulidade de ato jurídico cumulada com repetição de indébito, ajuizada pelo recorrente, em desfavor de ITAU UNIBANCO S.A., fundada em suposta abusividade de cláusulas de contrato bancário firmado entre as partes.
+Sentença: julgou parcialmente procedentes os pedidos para afastar a cobrança da capitalização mensal de juros, preservando-se a anual, e para determinar a restituição do indébito, na forma simples.
+Acórdão: deu provimento à apelação interposta pelo recorrido; e conheceu parcialmente da apelação interposta pelo recorrente para, nesta extensão, negar-lhe provimento, nos termos da seguinte ementa:
+APELAÇÕES CÍVEIS 1 (BANCO) e 2 (CORRENTISTA). AÇÃO REVISIONAL. CONTRATO DE CONTA CORRENTE /CHEQUE ESPECIAL. JUROS REMUNERATÓRIOS. EXCESSO CONSIDERÁVEL ANTE A MÉDIA DE MERCADO. NÃO DEMONSTRAÇÃO. TAXAS PRATICADAS. MANUTENÇÃO. CAPITALIZAÇÃO DE JUROS. EXPRESSA CONTRATAÇÃO. EXPURGO. IMPOSSIBILIDADE. TAXAS E TARIFAS. ABUSIVIDADE. TESE REJEITADA. REPETIÇÃO DO INDÉBITO. JUROS MORATÓRIOS. TERMO INICIAL. PEDIDO PREJUDICADO. SUCUMBÊNCIA. INVERSÃO.
+1. Devem ser mantidos os juros remuneratórios praticados, caso não demonstrado excesso considerável em relação à média de mercado.
+2. Em contratos bancários, é lícita a capitalização de juros expressamente pactuada.
+3. Descabe restituição de valor referente à cobrança de taxas e tarifas bancárias no decorrer da relação contratual, na hipótese em que não demonstrada a realização de pagamentos de forma irregular, por serviços não prestados.
+4. O provimento do recurso da instituição financeira, para julgar improcedentes os pedidos iniciais, prejudica a parte do apelo do autor em que se discute o termo inicial para incidência de juros moratórios sobre o indébito.
+5. Quando o provimento do recurso acarretar a improcedência dos pedidos iniciais, impõe-se à parte autora o pagamento dos encargos sucumbenciais.
+6. Apelação cível 1 conhecida e provida. Apelação cível 2 conhecida, em parte não provida e noutra julgada prejudicada (e-STJ fls. 828-829).
+Recurso especial: aponta violação dos arts. 4º do Decreto 22.626/33; 4º, caput e I, 6º, III, 46, 47, 51, IV e § 1º, do CDC; 186, 394, 398, 927 do CC/02; e da Súmula 530/STJ, bem como dissídio jurisprudencial. Defende:
+a) a ilegalidade da capitalização de juros, uma vez que não foi pactuada entre as partes, inexistindo, ainda, qualquer previsão acerca de sua periodicidade;
+b) a impossibilidade de cobrança de tarifas e taxas não previstas no contrato e, ainda, que superam a taxa média de mercado; e
+c) que o termo a quo da incidência da correção monetária e juros remuneratórios é data do evento danoso, isto é, a data do desembolso.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação de súmula
+A interposição de recurso especial não é cabível quando ocorre violação de súmula ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+- Da capitalização de juros (Súmulas 5 e 7/STJ)
+O recorrente aponta a ilegalidade na capitalização de juros, uma vez que a mesma não teria sido expressamente pactuada entre as partes, tampouco tendo sido estipulada a sua periodicidade.
+O TJ/PR, por sua vez, deixou expressamente consignado que houve expressa previsão de incidência de juros capitalizados (e-STJ fls. 834-835).
+Assim, alterar o decidido no acórdão impugnado exige o reexame de fatos e a interpretação de cláusulas contratuais, vedados em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+- Dos juros remuneratórios (Súmulas 5, 7 e 568/STJ)
+De início, tem-se que o recorrente pretende a limitação dos juros remuneratórios incidentes na conta corrente, uma vez que: a) supostamente não prevista a taxa em contrato; e b) cobrados de maneira destoante da taxa média de mercado.
+Quanto à ausência de previsão contratual, tem-se que o TJ/PR reconheceu expressamente que "nas condições gerais aplicáveis ao crédito concedido ao correntista, há previsão acerca da taxa de juros flutuante" (e-STJ fls. 831-832).
+Destarte, também quanto ao ponto, tem-se que alterar o decidido no acórdão impugnado exige o reexame de fatos e a interpretação de cláusulas contratuais, vedados em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+No mais, tem-se que a Segunda Seção do STJ, no REsp 1.061.530/RS, DJe de 10/03/2009, julgado sob o rito dos recursos repetitivos, entendeu que é admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade, capaz de colocar o consumidor em desvantagem exagerada (art. 51, §1 º, do CDC), fique cabalmente demonstrada, ante às peculiaridades do julgamento em concreto. A taxa de juros remuneratórios, verificada sua abusividade, deve ser limitada à taxa média de mercado, divulgada pelo Banco Central do Brasil.
+Cumpre ressaltar que no referido julgamento, quanto à análise da abusividade dos juros remuneratórios e da taxa média divulgada pelo Banco Central, a Segunda Seção consignou o seguinte:
+Necessário tecer, ainda, algumas considerações sobre parâmetros que podem ser utilizados pelo julgador para, diante do caso concreto, perquirir a existência ou não de flagrante abusividade.
+(..)
+As informações divulgadas por aquela autarquia, acessíveis a qualquer pessoa através da rede mundial de computadores (conforme http://www.bcb.gov.br/ ecoimpom - no quadro XLVIII da nota anexa; ou http://www.bcb.gov.br/ TXCREDMES, acesso em 06.10.2008), são segregadas de acordo com o tipo de encargo (prefixado, pós-fixado, taxas flutuantes e índices de preços), com a categoria do tomador (pessoas físicas e jurídicas) e com a modalidade de empréstimo realizada ("hot money", desconto de duplicatas, desconto de notas promissórias, capital de giro, conta garantida, financiamento imobiliário, aquisição de bens, "vendor", cheque especial, crédito pessoal, entre outros).
+A taxa média apresenta vantagens porque é calculada segundo as informações prestadas por diversas instituições financeiras e, por isso, representa as forças do mercado. Ademais, traz embutida em si o custo médio das instituições financeiras e seu lucro médio, ou seja, um "spread" médio. É certo, ainda, que o cálculo da taxa média não é completo, na medida em que não abrange todas as modalidades de concessão de crédito, mas, sem dúvida, presta-se como parâmetro de tendência das taxas de juros. Assim, dentro do universo regulatório atual, a taxa média constitui o melhor parâmetro para a elaboração de um juízo sobre abusividade.
+Como média, não se pode exigir que todos os empréstimos sejam feitos segundo essa taxa. Se isto ocorresse, a taxa média deixaria de ser o que é, para ser um valor fixo. Há, portanto, que se admitir uma faixa razoável para a variação dos juros. A jurisprudência, conforme registrado anteriormente, tem considerado abusivas taxas superiores a uma vez e meia (voto proferido pelo Min. Ari Pargendler no REsp 271.214/RS, Rel. p. Acórdão Min. Menezes Direito, DJ de 04.08.2003), ao dobro (Resp 1.036.818, Terceira Turma, minha relatoria, DJe de 20.06.2008) ou ao triplo (REsp 971.853/RS, Quarta Turma, Min. Pádua Ribeiro, DJ de 24.09.2007) da média.
+Todavia, esta perquirição acerca da abusividade não é estanque, o que impossibilita a adoção de critérios genéricos e universais. A taxa média de mercado, divulgada pelo Banco Central, constitui um valioso referencial, mas cabe somente ao juiz, no exame das peculiaridades do caso concreto, avaliar se os juros contratados foram ou não abusivos.
+Ressalte-se, ainda, que as duas Turmas de Direito Privado do STJ entendem que "a circunstância de a taxa de juros remuneratórios praticada pela instituição financeira exceder a taxa média do mercado não induz, por si só, à conclusão de cobrança abusiva, consistindo a referida taxa em um referencial a ser considerado, e não em um limite que deva ser necessariamente observado pelas instituições financeiras" (AgInt no AREsp 1308486/RS, 4ª Turma, DJe de 21/10/2019).
+Ainda nesse sentido: AgInt no AREsp 1165422/MS, 3ª Turma, DJe de 15/12/2017.
+Na hipótese sob julgamento, o Tribunal de origem entendeu que:
+Ademais, a limitação dos juros remuneratórios somente é possível quando demonstrado que as taxas praticadas superam a média de mercado. consideravelmente Consoante entendimento do Superior Tribunal de Justiça, a média, como o próprio nome diz, não pode representar um limitador absoluto, já que para ser encontrada são sopesadas diversas taxas de juros, umas mais elevadas e outras mais reduzidas.
+(..)
+E, do laudo pericial anexado (mov. 89.2-1º grau), percebe-se que as taxas praticadas pelo banco são apenas ligeiramente superiores à média de mercado e que, inclusive, em alguns meses, foram inferiores à taxa média divulgada pelo Banco Central do Brasil (BACEN):
+(..)
+Nessa circunstância, ausente excesso considerável, conforme entendimento adotado pelo Superior Tribunal de Justiça, impõe-se a rejeição da pretensão recursal do autor quanto ao tema (e-STJ fls. 832-834).
+Diante a consonância com o entendimento dominante sobre o tema nesta Corte, aplica-se a Súmula 568/STJ no particular.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos argumentos invocados pelo recorrente em seu recurso especial quanto aos arts. 186, 394, 398 e 927 do CC/02, tampouco sobre o tema relativo ao termo a quo da incidência dos juros e correção monetária - uma vez que julgado prejudicado o recurso quanto ao ponto (e-STJ fls. 837-838) -, o que inviabiliza o seu julgamento. Aplica-se, neste caso, a Súmula 282/STF.
+Forte nessas razões, com fundamento no art. 932, III, e IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nesta extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em R$ 1.000,00 (mil reais) (e-STJ fl. 838) para R$ 1.500,00 (mil e quinhentos reais), observada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE DE ATO JURÍDICO CUMULADA COM REPETIÇÃO DE INDÉBITO. CONTRATO BANCÁRIO. VIOLAÇÃO DE SÚMULA. DESCABIMENTO. CAPITALIZAÇÃO DE JUROS. REEXAME DE FATOS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. JUROS REMUNERATÓRIOS. CONSONÂNCIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ. TERMO A QUO DOS JUROS E CORREÇÃO MONETÁRIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF.
+1. Ação declaratória de nulidade de ato jurídico cumulada com repetição de indébito, em virtude de contrato bancário firmado entre as partes.
+2. A interposição de recurso especial não é cabível quando ocorre violação de súmula ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+3. O reexame de fatos e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+4. A circunstância de a taxa de juros remuneratórios praticada pela instituição financeira exceder a taxa média do mercado não induz, por si só, à conclusão de cobrança abusiva, consistindo a referida taxa em um referencial a ser considerado, e não em um limite que deva ser necessariamente observado pelas instituições financeiras. Precedentes.
+5. A ausência de decisão acerca dos argumentos invocados pelo recorrente em suas razões recursais impede o conhecimento do recurso especial.
+6. Recurso especial parcialmente conhecido e, nesta extensão, não provido.
