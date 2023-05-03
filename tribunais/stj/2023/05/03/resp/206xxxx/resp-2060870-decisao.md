@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pela Sétima Câmara de Direito Privado do TJSP assim ementado (e-STJ fl. 516):
+Responsabilidade Civil - Indenização por danos morais e estéticos - Erro de diagnóstico que resultou perda do testículo - Danos morais e estéticos fixados em R$ 50.000,00 e R$ 15.000,00 - Decisão mantida - Extração de um testículo em um garoto de quinze anos que promove, além da incapacidade física para produção de espermatozóides, correlacionada com a capacidade de reprodução futura, produzindo também seqüelas emocionais, agindo de forma direta na sensação de sexualidade ou virilidade de um jovem adolescente e sua capacidade nesta área - Recurso improvido.
+Os embargos de declaração foram acolhidos (e-STJ fl. 565):
+Embargos de Declaração - Erro material ao mencionar o valor da indenização por danos estéticos fixados na sentença, mantida em grau de recurso - Ocorrência - Vício sanado - Embargos acolhidos.
+Nas razões recursais (e-STJ fls. 571/583), a parte sustenta, em síntese, além de divergência jurisprudencial, afronta ao art. 405 do CC/2002, sob fundamento de que os juros de mora devem incidir desde sua citação, ante a natureza contratual da responsabilidade civil.
+Contrarrazões às fls. 626/637 (e-STJ).
+É o relatório.
+Decido.
+Ao reconhecer os valores a serem pagos pela parte recorrente, o Tribunal de origem afirmou apenas que seria razoável a quantia fixada em R$ 50.000,00 (cinquenta mil reais) a título de danos morais e R$ 30.000,00 (trinta mil reais) para compensação de danos estéticos (e-STJ fls. 518 e 566).
+O Tribunal de origem não enfrentou a tese de ofensa ao art. 405 do CC/2002. Incidem, desse modo, as Súmulas n. 282 do STF e 211 do STJ.
+Com efeito, " ..  para que se configure o prequestionamento, não basta que o recorrente devolva a questão controvertida para o Tribunal, em suas razões recursais. É necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como seja exercido juízo de valor sobre os dispositivos legais indicados e a tese recursal a eles vinculada, interpretando-se a sua aplicação ou não, ao caso concreto" (REsp n. 1.955.692/DF, Relator Ministro Sérgio Kukina, PRIMEIRA TURMA, julgado em 21/6/2022, DJe de 28/6/2022).
+Nesse contexto, não estão presentes os requisitos para considerar a matéria prequestionada, ainda que de modo ficto, visto que prevalece no STJ o entendimento de que "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15 em relação à matéria, para que se possibilite ao órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei (REsp 1.639.314/MG, Rel. Ministra NANCY ANDRIGHI)" (AgInt no AREsp n. 1.646.573/SP, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 3/10/2022, DJe 14/10/2022).
+No recurso especial, não consta alegação de afronta ao art. 1.022 do CPC/2015 .
+Diante do exposto, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se. Intimem-se.
