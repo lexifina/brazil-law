@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de recurso especial fundamentado no art. 105, III, "a", da CF, interposto por MASSA FALIDA DE DECASA AÇÚCAR E ÁLCOOL S/A contra acórdão assim ementado (e-STJ fls. 732/733):
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO. DECISÃO QUE AUTORIZA A REALIZAÇÃO DE LEILÃO. ALEGAÇÃO RECURSAL DE EXCESSO DE EXECUÇÃO, NULIDADE DA ARREMATAÇÃO E DASATUALIZAÇÃO DA AVALIAÇÃO DOS IMÓVEIS. MATÉRIAS QUE NÃO SÃO OBJETO DA DECISÃO AGRAVADA. CONHECIMENTO PARCIAL DO RECURSO.
+ARGUIÇÃO DE IMPOSSIBILIDADE DE PENHORA SOBRE OS IMÓVEIS QUE GARANTEM A EXECUÇÃO. MATÉRIA PRECLUSA. GRAVAME DE INALIENABILIDADE SOBRE OS BENS PENHORADOS, FATO QUE NÃO OBSTA A HASTA PÚBLICA. INFORMAÇÃO NO EDITAL ACERCA DA SITUAÇÃO DOS BENS. DECISÃO MANTIDA. RECURSO PARCIALMENTE CONHECIDO E, NA PARTE CONHECIDA, DESPROVIDO.
+Os embargos de declaração de DURVAL GUIMARÃES FILHO e MARIA TERESA TENÓRIO GUIMARÃES foram rejeitados (e-STJ fls. 855/862).
+Em suas razões (e-STJ fls. 905/918), a parte recorrente aponta violação o art. 99, VI, da Lei n. 11.101/2005, em razão das instâncias de origem terem autorizado "a venda, em Hasta Pública, em favor de uma execução de título extrajudicial individual, de bens integrantes ao acervo patrimonial da Massa Falida Recorrente" (e-STJ fl. 913). Afirma que "a proibição da alienação está atrelada à vinculação dos bens ao procedimento falimentar, sendo prescindível, inclusive, as suas efetivas arrecadações, e atinge todos os bens vinculados à execução concursal, os quais só podem ser, de qualquer modo, alienados, mediante expressa autorização do MM. Juízo Falimentar, o que não ocorreu no caso concreto" (e-STJ fl. 914).
+É o relatório.
+Decido.
+Na origem, os executados DURVAL GUIMARÃES FILHO e MARIA TERESA TENÓRIO GUIMARÃES interpuseram recurso de agravo de instrumento contra decisão interlocutória, que reconsiderou parcialmente decisão anterior, autorizando o leilão de imóveis, em ação de execução. A decisão foi mantida pelo Tribunal de origem.
+Quanto à alegação de que somente pode haver a venda, em hasta pública, de imóveis da massa falida após expressa autorização do juízo falimentar, não houve pronunciamento do Tribunal a quo sobre essa questão, nem a Corte local foi instada a fazê-lo por via de embargos declaratórios, circunstância que impede o conhecimento da insurgência por falta de prequestionamento. Assim, devem ser aplicadas ao caso as Súmulas n. 282 e 356 do STF.
+Ante o exposto, NEGO PROVIMENTO ao recurso.
+Publique-se e intimem-se.
