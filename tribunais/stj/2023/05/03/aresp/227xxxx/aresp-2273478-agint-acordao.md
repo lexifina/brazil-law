@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/04/2023 a 03/05/2023, por unanimidade, não conhecer do recurso, com aplicação de multa, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+RELATORA: MINISTRA NANCY ANDRIGHI
+Cuida-se de agravo interposto por COMPANHIA DISTRIBUIDORA DE GÁS DO RIO DE JANEIRO - CEG, contra decisão da Presidência do STJ que conheceu do agravo para não conhecer do recurso especial que interpusera.
+Ação: consignatória, ajuizada por PRESSAO UM AUTO POSTO E SERVIÇOS LTDA., em face da agravante, em razão de cobranças indevidas.
+Acórdão: deu provimento ao agravo de instrumento interposto pela agravada, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. AÇÃO CONSIGNATÓRIA CONEXA COM AÇÕES REVISONAIS. POSTO DE ABASTECIMENTO DE VEÍCULOS AUTOMOTORES. ALEGAÇÃO DE COBRANÇAS INDEVIDAS NAS FATURAS DE GÁS. SENTENÇA DE IMPROCEDÊNCIA. IRRESIGNAÇÃO DA DEMANDANTE.
+1. Observa-se que, ao longo de anos, o autor efetuou inúmeros depósitos nos autos, embora o juízo de origem tivesse determinado o adimplemento das faturas posteriores a junho/2011.
+2. Além do mais, o juízo de 1º grau destacou que os valores depositados pelo autor eram muito inferiores aos de mercado (ind. 532), fato também aventado pela concessionária ré. Todavia, não houve a real averiguação do montante depositado em relação à média de consumo estabelecida nas ações revisionais em apenso.
+3. Há de se ressaltar, ainda, que a ré, antes mesmo de apresentar a contestação, requereu a expedição de mandado de pagamento da quantia incontroversa, nos moldes do § 1º do art. 899 do CPC/731(ind. 128).
+4. Dadas as peculiaridades do caso em apreço, forçoso reconhecer que ele se distingue do REsp 1108058 / DF (tema 967)e dá ensejo à parcial procedência do pedido.
+RECURSO AO QUAL SE DÁ PARCIAL PROVIMENTO.
+Decisão monocrática: conheceu do agravo para não conhecer do recurso especial, ante a incidência da Súmula 284/STF, visto que a agravante não teria indicado precisamente os dispositivos legais federais que teriam sido violados ou quais dispositivos legais seriam objeto de dissídio interpretativo.
+Razões do agravo: Nas razões do presente recurso, além de aduzir a inexistência de caráter protelatório do agravo, a agravante defende a inaplicabilidade do CDC e ressalta os termos contratuais relativos à medição do consumo, de modo que seria possível a realização do faturamento através do medidor mecânico de gás.
+É O RELATÓRIO.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INÉPCIA. IMPUGNAÇÃO DA DECISÃO AGRAVADA. AUSÊNCIA. MULTA DO ART. 1.021, §4º, DO CPC/15.
+1. É inepta a petição de agravo interno que não impugna, especificamente, os fundamentos da decisão agravada.
+2. Agravo interno no agravo em recurso especial não conhecido, com aplicação de multa.
+VOTO
+RELATORA: MINISTRA NANCY ANDRIGHI
+A decisão agravada conheceu do agravo para não conhecer do recurso especial, ante a incidência da Súmula 284/STF, visto que a agravante não teria indicado precisamente os dispositivos legais federais que teriam sido violados ou quais dispositivos legais seriam objeto de dissídio interpretativo.
+Veja-se o que constou na decisão (e-STJ fls. 1136/1137):
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n. 02 e n. 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise do recurso de COMPANHIA DISTRIBUIDORA DE GÁS DO RIO DE JANEIRO - CEG, verifica-se que incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente deixou de indicar precisamente os dispositivos legais federais que teriam sido violados ou quais dispositivos legais seriam objeto de dissídio interpretativo, ressaltando que a mera citação de artigo de lei na peça recursal não supre a exigência constitucional.
+Aplicável, por conseguinte, o enunciado da citada súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido: "A ausência de expressa indicação de artigos de lei violados inviabiliza o conhecimento do recurso especial, não bastando a mera menção a dispositivos legais ou a narrativa acerca da legislação federal, aplicando-se o disposto na Súmula n. 284 do STF". (AgInt no AREsp n. 1.684.101/MA, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 26/8/2020.)
+Também, o Superior Tribunal de Justiça já se manifestou no sentido de que, "uma vez observado, no caso concreto, que nas razões do recurso especial não foram indicados os dispositivos de lei federal acerca dos quais supostamente há dissídio jurisprudencial, a única solução possível será o não conhecimento do recurso por deficiência de fundamentação, nos termos da Súmula 284/STF". (AgRg no REsp 1.346.588/DF, relator Ministro Arnaldo Esteves Lima, Corte Especial, DJe de 17/3/2014.)
+Confiram-se ainda os seguintes precedentes: AgInt no ARESP n. 1.611.260/RS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 26/6/2020; AgInt nos EDcl no REsp n. 1.675.932/PR, relator Ministro Francisco Falcão, Segunda Turma, DJe de 4/5/2020; AgInt no REsp n. 1.860.286/RO, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 14/8/2020; AgRg nos EDcl no AREsp n. 1.541.707/MS, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 29/6/2020; AgRg no AREsp n. 1.433.038/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 14/8/2020; REsp n. 1.114.407/SP, relator Ministro Mauro Campbell Marques, Primeira Seção, DJe de 18/12/2009; e AgRg no EREsp n. 382.756/SC, relatora Ministra Laurita Vaz, Corte Especial, DJe de 17/12/2009.
+Contudo, da análise das razões deduzidas neste agravo interno, verifica-se que a agravante se limita a defender a inaplicabilidade do CDC, além de ressaltar os termos contratuais relativos à medição do consumo, de modo que seria possível a realização do faturamento através do medidor mecânico de gás, sem impugnar, de forma específica e consistente, o fundamento da decisão agravada quanto à incidência da Súmula 284/STF, decorrente da ausência de indicação precisa dos dispositivos legais federais que teriam sido violados ou quais dispositivos legais seriam objeto de dissídio interpretativo.
+Assim, não procedendo a agravante à impugnação específica da decisão agravada, como o exige o princípio da dialeticidade, o presente agravo interno também não comporta conhecimento, a teor do disposto na Súmula 182 deste Tribunal e nos arts. 1.021, § 1º, do CPC/2015 e 259, § 2º, do RISTJ.
+DISPOSITIVO
+Forte nessas razões, NÃO CONHEÇO do presente agravo interno no agravo em recurso especial.
+Ainda, tem-se como manifestamente inadmissível o agravo interno que não impugna, especificamente, todos os fundamentos da decisão agravada, como determina o art. 1.021, § 1º, do CPC/15, razão pela qual, na hipótese de não ser conhecido este recurso, à unanimidade, fixo multa de 1% sobre o valor atualizado da causa, com fulcro no § 4º do art. 1.021 do CPC/15.
