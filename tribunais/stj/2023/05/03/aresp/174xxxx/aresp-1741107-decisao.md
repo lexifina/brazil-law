@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em virtude da incidência da Súmula n. 7 do STJ (e-STJ fls. 199/201).
+O acórdão recorrido está assim ementado (e-STJ fl. 119):
+AGRAVO DE INSTRUMENTO - AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO CUMULADA COM REVISIONAL DE ALUGUEL - Aluguel de loja comercial em "shopping center" - Ilegitimidade passiva da antiga administradora bem reconhecida, uma vez que o Município reassumiu a gestão do empreendimento, fato este que era de plena ciência da agravante - Tampouco prospera a alegação de que o pedido de reconhecimento da prescrição dos débitos vencidos há mais de três anos desde a propositura da demanda atingiria o período de vigência contratual com a agravada - Ausência de controvérsia a respeito, uma vez que a recorrida nada está lhe cobrando - Como não conseguiu demonstrar a necessidade da intervenção jurisdicional, deve a agravante arcar com as verbas de sucumbência - Negado provimento.
+Os embargos de declaração foram rejeitados (e-STJ fls. 134/137).
+No recurso especial (e-STJ fls. 140/155), fundamentado no art. 105, III, "a", da CF, a recorrente alegou afronta aos arts. 290, 292, 308 e 311 do CC/2002, 17, 19, I, 337, XI, e 485, VI, do CPC/2015, pois (e-STJ fl. 147):
+20. Enquanto não for inequívoca sua ciência quanto à eventual cessão do crédito promovida pelo credor primitivo, é a ele que deve o devedor (ora Recorrente) pagar. O fato de o Município Interessado estar promovendo cobranças em face da Recorrente (único fato citado no v. acórdão recorrido) não elide a pertinência de que o cessionário e/ou o cedente promova regular comunicação quanto à cessão operada, pena de, não o fazendo, permitir (quiçá obrigar) que o devedor se exima de sua obrigação mediante pagamento ao credor primitivo, a teor dos arts. 290, 292, 308 e 311 do Código Civil Brasileiro.
+21. Na mesma toada, o pedido declaratório (reconhecimento de incidência de prescrição trienal), uma vez que provoque reflexo jurídico na parte adversa, pode ser proposto, incluindo-a no polo passivo (por evidente, a teor do art. 506 do N. CPC), independente desta ter promovido ameaça concreta ao postulante, a teor dos arts. 17 e 19, I, do N. CPC.
+22. Tais fatores evidenciam equivocada aplicação, pelo E Tribunal a quo, do permissivo de extinção da lide sem julgamento de mérito quanto à Recorrida, em desarmonia aos arts. 337, XI e 485, VI do N. CPC.
+Sustentou ofensa ao art. 85 do CPC/2015, visto que, "apenas à Recorrida pode se atribuir a causalidade de ter sido demandada em Juízo, ao tempo em que não comunicou nem colheu anuência da Recorrente quando da "cessão de crédito" em proveito do Município Interessado" (e-STJ fl. 153).
+No agravo (e-STJ fls. 204/221), declara a presença de todos os requisitos de admissibilidade do especial.
+É o relatório.
+Decido.
+Quanto à legitimidade passiva, a Corte local consignou que (e-STJ fls. 121/123):
+Citadas, as rés apresentaram contestação. O Juízo a quo acolheu, então, a preliminar de ilegitimidade passiva suscitada pela agravada, haja vista que desde 21 de março de 2014 havia sido revogada a concessão que o MUNICÍPIO DE PAULÍNIA havia lhe outorgado para a exploração daquele local, passando ele próprio a administrá-lo.
+E, em que pese a irresignação deduzida,reputo que a r. decisão não comporta reforma, devendo ser mantida por seus próprios e bem lançados fundamentos.
+Com efeito, pela leitura dos autos se depreende que o shopping center objeto da discussão integra-se à rodoviária municipal e está situado em terreno pertencente ao MUNICÍPIO DE PAULÍNIA.
+A agravante tinha plena ciência de que a municipalidade havia retomado a administração do empreendimento, tanto que a incluiu desde o princípio no polo passivo da demanda.
+A peça exordial, aliás, é instruída com diversas notificações de cobranças de alugueis atrasados que lhe foram encaminhadas pela Prefeitura (fls. 45/52 dos autos originais).
+(..)
+Lado outro, a alegação de que o pedido de reconhecimento da prescrição dos débitos vencidos há mais de três anos desde a propositura da demanda atingiria o período de vigência contratual com a agravada tampouco prospera.
+Ocorre que não há nenhuma controvérsia quanto a isso, uma vez que a recorrida nada está lhe cobrando. Sendo assim, como não conseguiu demonstrar a necessidade da intervenção jurisdicional, deve a agravante arcar com as verbas de sucumbência pagamento das despesas processuais e dos honorários advocatícios.
+Primeiramente, as matérias dispostas nos arts. 290, 292, 308 e 311 do CC/2002, 17 e 19, I, do CPC/2015, referente à cessão de crédito, assunção de dívida, capacidade para postular em juízo e pretensão declaratória, não foram apreciadas pelo acordão recorrido, estando ausente o prequestionamento. incide a Súmula n. 282/STF.
+Além disso, para desconstituir a premissa estabelecida pelo TJRJ, a fim de reconhecer a legitimidade passiva da Pró-Shopping, seria indispensável a apreciação das provas dos autos, procedimento vedado pela Súmula n. 7/STJ.
+Por fim, não merece prosperar a tese de revisão da distribuição do ônus sucumbencial, visto que a inclusão da Pró-shopping na ação decorreu da falta de ciência da agravante de que a administradora do shopping teria realizado cessão de do credito ao município.
+O Tribunal de origem não trata do tema cessão de credito, mas deixa claro em seu acórdão que a "agravante tinha plena ciência de que a municipalidade havia retomado a administração do empreendimento, tanto que a incluiu desde o princípio no polo passivo da demanda" (e-STJ fl. 122).
+Portanto, para reformar a sucumbência, a fim de reconhecer que a agravante não deu causa à propositura da ação à agravada Pró-Shopping, exigiria a análise das provas dos autos, hipótese vedada pela Súmula n. 7/STJ.
+Em face do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
