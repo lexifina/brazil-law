@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial fundamentado no art. 105, III, "a" e "c", da CF, interposto contra acórdão assim ementado (e-STJ fls. 229/230):
+PRELIMINAR. PRESCRIÇÃO. COISA JULGADA E CARÊNCIA DAAÇÃO POR AUSÊNCIA DE INTERESSE DE AGIR. REJEIÇÃO.
+No caso, como a demanda revisional baseia-se em contrato entre as partes, é manifesto o cunho obrigacional da relação entre as partes. Assim, é aplicável o prazo geral de 10 (dez) anos, previstos no Código Civil.
+A matéria submetida a apreciação não encontra-se atingida pela coisa julgada, uma vez que se restringe a restituição dos juros incidentes nas tarifas declaradas abusivas perante o Juizado Especial Cível, o que não foi objeto da ação anteriormente ajuizada.
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA. PEDIDO DERESTITUIÇÃO DOS JUROS INCIDENTES SOBRE TARIFAS. PEDIDO DISTINTO DO FORMULADO NO ÂMBITO ACESSÓRIOQUE SEGUE O PRINCIPAL. RESTITUIÇÃO DOS JUROSINCIDENTES SOBRE AS TARIFAS CONSIDERADAS Abusivas EMDEMANDA ANTERIOR. Pedido julgado procedente. IRRESIGNAÇÃO. Desprovimento DO RECURSO.
+Declarada por Sentença a ilegalidade de tarifas bancárias em Ação anterior, com determinação de restituição dos valores pagos, é devida, também, a repetição de indébito em relação aos encargos contratuais que incidiram sobreas aludidas tarifas durante o período contratual.
+Os embargos de declaração foram rejeitados (e-STJ fls. 261/272).
+Em suas razões (e-STJ fls. 276/281), a parte recorrente aponta violação do:
+(i) art. 1.022, II, do CPC/2015, porque "manifesta a omissão do Tribunal sobre o porquê a matéria está superada pela coisa julgada" (e-STJ fl. 280),
+(ii) art. 337, § 4º, do CPC/2015, pois (e-STJ fls. 280/281):
+ ..  tendo como núcleo da insurgência a cobrança de juros sobre tarifas próprias do contrato bancário, uma vez declaradas nulas referidas tarifas e exigida a repetição dos valores pagos em ação pretérita, estão inclusos os juros e demais consectários.
+Analisando o pedido direcionado na ação pretérita, extrai-se que foi pleiteado expressamente o pagamento da quantia indevida em dobro, bem como dos acréscimos decorrentes, sendo corrigidos pelos mesmos índices aplicados pela instituição.
+Desse modo, ao formular tal pedido, a parte recorrida o fez de forma abrangente, incluindo na sua pretensão, além da restituição de tarifa, também, os acréscimos derivados. Evidentemente, tais acréscimos, impostos ao valor do financiamento, incluindo o montante das tarifas, correspondem exatamente aos acessórios citados na inicial.
+Portanto, a causa de pedir e o pedido formulados na ação proposta abrangiam, indubitavelmente, a pretensão repetida nesta ação, ou seja, a de receber os juros incidentes sobre a tarifa diluída nas parcelas do financiamento. Logo, se está a repetir, agora, ação idêntica à outra já definitivamente julgada.
+Contrarrazões apresentadas (e-STJ fls. 290/293).
+O recurso foi admitido na origem.
+É o relatório.
+Decido.
+Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+De fato, em relação à tese, o Tribunal de origem assim se manifestou (e-STJ fl. 234):
+ ..  para aferir a existência de coisa julgada, deve-se verificar se a questão dos acessórios (juros remuneratórios)incidentes sobre essas tarifas, foi objeto do pedido e da Decisão, no processo precedente que tramitou perante o Juizado Especial. Senão vejamos.
+No caso concreto, analisando o pedido direcionado pela parte Autora na ação pretérita de nº 302.8774-89.2012.815.2001, extrai-se que foi pleiteado: "(..) A repetição do indébito, nos termos do artigo 42, parágrafo único, da Lei 8.078/90, Código de Defesa do Consumidor, condenando o Promovido a ressarcir em dobro o que cobrou indevidamente das Tarifas acima mencionadas, o que equivale a R$2.262,16 (dois mil duzentos e sessenta e dois reais e dezesseis centavos). Pugna também, pela condenação no pagamento das despesas processuais, bem como nos honorários advocatícios fixado sem 20% sobre o valor final da condenação, para o caso de haver recurso (..)"
+Nesse contexto, não se tocou, nem de longe, de forma particular ou genérica, nos juros que incidiram sobre as tarifas cobradas. Foi requerido na exordial e decidido pelo magistrado, de forma clara e específica, apenas a devolução em dobro dos valores das cobranças consideradas ilegais com a respectiva correção monetária. Desse modo, a devolução dos juros remuneratórios aplicados sobre as referidas tarifas não integrou a decisão da ação anterior, assim, não se pode falar em coisa julgada.
+Assim, ante a ausência de comprovação de que a devolução dos juros remuneratórios aplicados sobre as tarifas integrou a decisão ou a execução do julgado da ação anterior proposta perante o juizado especial civil, ônus que lhe incumbia nos termos do art. 373, II, do CPC, não se pode falar em coisa julgada.
+Desse modo, não assiste razão à parte, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente aos seus interesses, não incorrendo em nenhum dos vícios previstos no art. 1.022 do CPC/2015.
+Modificar o entendimento do acórdão impugnado quanto à ausência de identidade dos pedidos, nesta hipótese, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REPETIÇÃO DE INDÉBITO DE JUROS REMUNERATÓRIOS INCIDENTES SOBRE TARIFAS DECLARADAS ILEGAIS EM REVISIONAL DE CONTRATO. PAGAMENTO INDEVIDO. PRESCRIÇÃO. COISA JULGADA. NÃO OCORRÊNCIA. REVISÃO. SÚMULA 7/STJ. PRESCRIÇÃO. INCIDÊNCIA DA SÚMULA 83 DO STJ. AGRAVO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela indicada violação do art. 1.022 do CPC/2015. Isso porque, embora rejeitados os embargos de declaração, todas as matérias foram devidamente enfrentadas pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, suficiente e clara, ainda que em sentido contrário à pretensão da parte recorrente.
+2. O acórdão recorrido, analisando os elementos fático-probatórios dos autos, assentou que não constou do pedido da anterior ação revisional a devolução de quantias pagas a título de juros remuneratórios incidentes sobre o débito decorrente da cobrança das tarifas consideradas ilegais.
+3. Dessa forma, para se considerar, como quer o recorrente, que na ação anterior foi pleiteado além da devolução das tarifas a devolução dos "acréscimos decorrentes" que seriam os juros remuneratórios, é necessário afastar o consignado expressamente pelo acórdão recorrido.
+4. O acolhimento da pretensão recursal demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos da Súmula 7 do STJ.
+5. Considerando a moldura fática delineada no acórdão recorrido, o entendimento da Corte local quanto ao prazo prescricional decenal está em conformidade com a jurisprudência do STJ em casos semelhantes destes autos de restituição de valores pagos indevidamente em virtude de revisão de contrato.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 1.815.570/PB, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 26/8/2021.)
+Ante o exposto, NEGO PROVIMENTO ao recurso.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
