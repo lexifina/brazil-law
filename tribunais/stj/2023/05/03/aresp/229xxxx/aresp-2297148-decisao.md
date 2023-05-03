@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo em recurso especial manejado por MERCADOLIVRE.COM ATIVIDADES DE INTERNET, em face de decisão que inadmitiu recurso especial.
+É o relatório. Decido.
+Nos termos do que dispõe o art. 932, III, do CPC/2015 e o art. 253, parágrafo único, I, do RI/STJ (redação dada pela Emenda Regimental n. 22, de 2016), compete ao agravante impugnar especificamente os fundamentos da decisão que obstou o recurso especial na origem.
+Assim, além da manifestação do inconformismo, inerente ao ato de irresignação, impõe-se ao recorrente o ônus de contrapor-se, de forma clara e específica, aos fundamentos da decisão agravada, conforme determina a lei processual civil e o princípio da dialeticidade.
+No caso dos autos, a decisão agravada inadmitiu o recurso especial aos seguintes fundamentos: (i) inexistência de afronta aos arts. 489 e 1.022 do CPC/2015: o acórdão está devidamente fundamentado, as questões trazidas pela recorrente foram todas apreciadas pelo acórdão e que não incorre na apontada violação a motivação contrária ao interesse da parte ou quanto a pontos considerados irrelevantes; (ii) não evidenciada a suposta violação às normas legais indicadas com o posicionamento alcançado no acórdão (Súmula 284/STF); (iii) os argumentos expendidos não são suficientes para infirmar as conclusões do acórdão, que contém fundamentação adequada a lhe dar respaldo (Súmula 283/STF); (iv) Súmula 7/STJ: rever a conclusão firmada (inexistência de elementos que afastem a presunção de legitimidade e veracidade do auto administrativo e multa aplicada de acordo com as disposições legais) demanda o reexame de fatos e provas, vedado no âmbito do recurso especial.
+A agravante, informando que pretende seja declarada a insubsistência e nulidade de processo administrativo ou que a multa aplicada seja reduzida, sustenta que a decisão de inadmitiu o apelo nobre incorreu em usurpação da competência do STJ; alega omissão no acórdão, pontuando a tese recursal defendida; insurge-se contra o entendimento do acórdão a respeito da abusividade das cláusulas contratuais e aduz a respeito do Termo de Conduta ajustado com o PROCON; não incidência da Súmula 7/STJ, ao argumento de mera revalorização jurídica do caso e que "as nulidades decorrentes da ausência de motivação na decisão administrativa se referem a matéria de ordem pública  .. " (fl. 2.090), bem como desnecessário reexame de qualquer prova quanto à ofensa aos artigos do CDC e do marco Civil da Internet.
+Com efeito, as razões aduzidas pela agravante não impugnam especificamente os óbices de conhecimento, considerando os fundamentos adotados na decisão ora agravada.
+Ao agravante impõe-se o ônus de observar o contexto em que os fundamentos da decisão da Corte de origem foram lançados e impugná-los, de forma individualizada e específica, demonstrando o desacerto da decisão agravada - o que não ocorreu no caso dos autos - situação essa que impõe o não conhecimento do recurso.
+A propósito, na parte que interessa:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS - DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO RECLAMO, ANTE A AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INSURGÊNCIA DO DEMANDANTE.
+1. Consoante expressa previsão contida nos arts. 932, III, do CPC e 253, I, do RISTJ, e em razão do princípio da dialeticidade, deve o agravante demonstrar, de modo fundamentado, o desacerto da decisão que inadmitiu o apelo extremo, o que não aconteceu na hipótese. Incidência da Súmula 182 do STJ.
+2. São insuficientes ao cumprimento do dever de dialeticidade recursal as alegações genéricas de inconformismo, devendo a parte recorrente, de forma clara, objetiva e concreta, demonstrar o desacerto da decisão impugnada. Precedentes.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.199.998/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 6/3/2023, DJe de 10/3/2023)
+PROCESSUAL CIVIL. DECISÃO MONOCRÁTICA DA PRESIDÊNCIA QUE NÃO CONHECEU DO AGRAVO EM RECURSO ESPECIAL. INADMISSIBILIDADE DO RECURSO ESPECIAL. FUNDAMENTO INATACADO.  ..
+ ..
+5. A iterativa jurisprudência do Superior Tribunal de Justiça consolidou o entendimento de que não se conhece de Agravo contra decisão monocrática que não ataca especificamente os fundamentos da decisão recorrida, de forma a demonstrar que o entendimento esposado merece modificação. Assim, não bastam alegações genéricas em sentido contrário às afirmações da decisão agravada.
+ ..
+(AgInt no AREsp n. 1.715.725/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 24/2/2021, DJe de 1/3/2021)
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO NÃO CONHECIDO.
