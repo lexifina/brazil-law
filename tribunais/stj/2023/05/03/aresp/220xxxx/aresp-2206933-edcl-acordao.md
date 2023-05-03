@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/04/2023 a 03/05/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuidam-se de embargos de declaração opostos por LEANDRO FERNANDES DE SOUZA contra acórdão que negou provimento ao agravo interno que interpusera, nos termos da seguinte ementa:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. DESÍDIA E NEGLIGÊNCIA DOS ADVOGADOS. PERDA DE UMA CHANCE. REEXAME DE FATOS E PROVAS. SÚMULA 7 DO STJ. IMPOSSIBILIDADE. PERCENTUAL DOS HONORÁRIOS SUCUMBENCIAIS. SÚMULA 568/STJ. DECISÃO MANTIDA.
+1. Ação de indenização por danos materiais e compensação por danos morais.
+2. É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte. Precedentes.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. O reexame de fatos e provas não é permitido nesta via recursal.
+5. A 2ª Seção do STJ, que, no julgamento do REsp 1.746.072/PR, uniformizou o entendimento desta Corte acerca da fixação dos honorários advocatícios sucumbenciais, consignando que a regra geral a ser aplicada aos honorários advocatícios é a prevista no § 2º, do art. 85, do CPC/2015, que estabelece uma ordem de preferência para o arbitramento:(i) primeiro,quando houver condenação, devem ser fixados entre 10% e 20% sobre o montante desta (art. 85, §2º); (ii) segundo, não havendo condenação, serão também fixados entre 10% e 20%, das seguintes bases de cálculo: (ii. a) sobre o proveito econômico obtido pelo vencedor (art. 85, § 2º); ou (ii. b) não sendo possível mensurar o proveito econômico obtido, sobre o valor atualizado da causa (art. 85, § 2º). Súmula 568/STJ.
+6. Agravo interno não provido." (e-STJ fls. 2.559/2.560)
+Em suas razões recursais, a parte embargante alega que "A omissão justificadora da interposição dos presentes Embargos de Declaração caracteriza-se pela contradição apontada, bem como pela ausência de apreciação de todos os pedidos formulados no processo, sobre os quais a eminente ministra deveria, evidentemente, ter-se pronunciado de forma clara e precisa, configurando, tal situação, verdadeira negativa na entrega da prestação jurisdicional, na medida em que retira do embargante o direito de ver seus argumentos examinados pelo Estado." (e-STJ, fl. 2.582).
+Repisa, no mais, todos os argumentos já expendidos nos recursos anteriores, acerca da incorreta valoração das provas acostadas aos autos; da demonstração da negligência e desídia por parte dos agravados, na defesa do interesse do autor, acarretando o direito ao recebimento de indenização; bem como acerca da redução dos honorários sucumbenciais.
+É O BREVE RELATÓRIO.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VÍCIOS. INEXISTÊNCIA.
+1. Devem ser rejeitados os embargos de declaração quando inexiste qualquer vício a ser sanado no julgado embargado.
+2. Embargos de declaração rejeitados.
+VOTO
+Nos termos do art. 1.022 do CPC/15, somente é cabível o recurso de embargos de declaração nas hipóteses em que haja obscuridade, contradição, omissão ou erro material no julgado impugnado.
+Não há que se falar em omissão referente às questões trazidas pelo embargante, na medida em que suas alegações foram trazidas de forma genérica, sem a identificação efetiva da omissão que entende ter havido. Outrossim, fica evidente em suas alegações, o descontentamento com a decisão embargada, e a clara intenção em alterar o que ficou decidido acerca do mérito.
+Assim, na hipótese, efetivamente nenhuma obscuridade, contradição, omissão ou erro material existe no corpo da decisão que justifique a oposição desse recurso, tendo em vista que a decisão, levou em consideração todos os pontos suscitados, afastando-os de maneira fundamentada, como se verifica do trecho a seguir:
+"Na hipótese dos autos, verifica-se que o acórdão decidiu de maneira fundamentada e clara, acerca dos motivos que levaram à concluir pela falta de comprovação da negligência e desídia dos agravados; da inocorrência da perda de uma chance e afastamento da indenização pleiteada, inexistindo a violação do art. 1.022 do CPC/15, observado o entendimento dominante desta Corte acerca do tema."
+(..)
+Quanto ao mérito, da nova análise dos autos, verifica-se que a Corte de origem, proferiu o seguinte entendimento:
+"(..) nos termos do art. 373, inciso I, do CPC, caberia ao autor,ora apelante, a comprovação dos fatos constitutivos do seu direito, consistente na negligência e desídia por parte dos requeridos, ônus do qual não se desincumbiu.(..). A alegação de que sofreu prejuízos por atuação dos requeridos não subsiste. (..) No mais, a alegação de ausência de impugnação contra a decisão que indeferiu o recolhimento de custas ao final não merece guarida. Primeiro porque, conforme fls. 1.181/1.182-e, o requerido Antônio Augusto protocolou pedido de reconsideração. Segundo, a ausência de eventual recurso não causaria prejuízo ao apelante,uma vez que a gratuidade pode ser requerida em qualquer fase processual. Também destaco que o apelados interpuseram recurso de apelação nos autos nº 0011207-19.2014.8.22.0001, o qual foi inclusive provido parcialmente, bem como opuseram embargos, de forma que o apelante não pode alegar que agiram de forma negligente ou desidiosa. Não restou comprovada a desídia ou negligência dos apelados, afinal, os erros que o apelante alega que os apelados cometeram, não se referem à "perda de uma chance". (e-STJ, fls. 2.144/2.145)
+Neste passo, alterar o decidido no acórdão, de fato, exigiria o reexame fático probatório dos autos, o que encontra óbice na Súmula 7/STJ.
+(..)
+Ao fixar o percentual de honorários sucumbenciais em 15% sobre o valor da causa, a Corte de origem decidiu nos termos da jurisprudência do STJ sobre o tema, proferido no julgamento do REsp 1.746.072/PR." (e-STJ, fls. 2.563/2.564)
+Desse modo, dissociado o pleito de qualquer um dos pressupostos de oposição dos embargos de declaração, desautorizada está a pretensão declinada, impondo-se, então, a sua rejeição.
+DISPOSITIVO
+Forte nessas razões, REJEITO os embargos de declaração.
