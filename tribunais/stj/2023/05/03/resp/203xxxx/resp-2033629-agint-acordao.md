@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/04/2023 a 03/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de agravo interno interposto por FRANCISCO MARCILIO DE SOUSA contra decisão monocrática proferida por este signatário, assim ementada (e-STJ, fls. 820-824):
+RECURSO ESPECIAL. AÇÃO DE RESOLUÇÃO CONTRATUAL C/C INDENIZAÇÃO POR DANOS MATERIAIS. PROMESSA DE COMPRA E VENDA DE IMÓVEL. ILEGITIMIDADE PASSIVA. AUSÊNCIA DE RESPONSABILIDADE DO BANCO PELO DESCUMPRIMENTO CONTRATUAL DA CONSTRUTORA. RECURSO ESPECIAL DESPROVIDO.
+Irresignado, o agravante alega, em síntese, que, ao contrário do decidido, o banco agravado não seria mero credor fiduciário, uma vez que teria participado efetivamente da cadeia de consumo, recebendo os valores pagos.
+Sustenta que deveriam incidir, no caso em apreço, as regras do Código de Defesa do Consumidor, uma vez que se trata de relação de consumo.
+Aduz que o banco insurgido seria parte legítima para responder pelos danos causados, sustentando que a instituição financeira teria feito parte da cadeia de consumo.
+Impugnação às fls. 846-853 (e-STJ), com pedido de aplicação de multa por litigância de má-fé, sob o argumento de que o recorrente estaria alterando a verdade dos fatos.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. ILEGITIMIDADE PASSIVA. AUSÊNCIA DE RESPONSABILIDADE DO BANCO PELO DESCUMPRIMENTO CONTRATUAL DA CONSTRUTORA. JULGADO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. AGRAVO INTERNO DESPROVIDO.
+1. A orientação desta Corte Superior é no sentido de que o agente financeiro não ostenta legitimidade para responder por pedido decorrente de vícios de construção na obra financiada quando atua apenas como credor fiduciário, em sentido estrito. Precedentes.
+2. Para verificação da existência de litigância de má-fé pela parte recorrente, sob argumento de suposta existência de alteração da verdade dos fatos, seria necessário o reexame do acervo fático-probatório dos autos, o que é vedado nesta instância extraordinária em decorrência do óbice da Súmula 7/STJ.
+3. Agravo interno desprovido.
+VOTO
+De fato, a decisão monocrática deve ser mantida.
+Com efeito, conforme já asseverado, constata-se que, com base nas provas acostadas aos autos, o Tribunal de Justiça do Estado de São Paulo, ao concluir pela ilegitimidade do banco recorrido, expressamente consignou que a participação da instituição financeira limitou-se ao recebimento de valores pagos pela parte autora, na qualidade de cessionária dos créditos - não participando nem da incorporação, nem da construção do empreendimento adquirido (e-STJ, fls. 642-644; sem grifo no original):
+Conforme se extrai da análise dos autos, o autor, ora apelado, celebrou com a ré Parque Gabriel Residenciall e Incorporações Imobiliárias SPE Ltda. Instrumento Particular de Promessa de Venda e Compra e Outras Avenças(fls. 48 e seguintes) visando à aquisição da unidade condominial 52 do Empreendimento Residencial Parque Gabriel.
+Com fundamento no atraso na entrega do imóvel, ajuizou a presente ação de resolução contratual c/c restituição de valores e indenização por danos materiais em face de Parque Gabriel Residenciall e Incorporações Imobiliárias SPE Ltda., Toya Martins Planejamento e Consultoria Imobiliária Ltda. e Brazilian Mortgages Companhia Hipotecária, sucedida por Banco Pan S/A.
+Segundo o voto do Eminente Relator Sorteado, o Banco Pan S/A, embora não seja parte legítima para responder pelos lucros cessantes, seria parte legítima para responder pela restituição dos valores pagos pelo autor, em virtude de ser "cessionário fiduciário dos créditos devidos à incorporadora pelos compradores das unidades, tendo ele sido beneficiada diretamente por diversos pagamentos realizados pelo autor".
+Com a devida vênia, o Banco Pan S/A não é parte legítima para responder nem pelos lucros cessantes, nem pelos valores pagos pelo autor, pois não figurou no contrato por ele celebrado, não faz parte do grupo econômico formado pelas demais rés e não compõe a cadeia de fornecedores perante o consumidor, não participando nem da incorporação, nem da construção do empreendimento.
+É certo que recebeu valores pagos por parte do autor, mas o fez na qualidade de cessionário do crédito em virtude do Instrumento Particular de Financiamento para Construção de Empreendimento Imobiliário com Garantia Hipotecária, Cessão Fiduciária de Recebíveis Imobiliários e Outras Avenças (fls. 67 e seguintes), o que não é suficiente para inseri-lo na cadeia de fornecedores.
+Nesse contexto, ainda que o contrato em questão se submeta às regras do Código de Defesa do Consumidor e à hipótese se apliquem os artigos 7º, parágrafo único, e 25, §§ 1º e 2º, do Código de Defesa do Consumidor, segundo os quais a responsabilidade civil é solidária na cadeia de fornecedores, tendo o Banco Pan S/A percebido valores na qualidade de cessionário de credito, atuando apenas como credor hipotecário da promitente vendedora, sem qualquer participação no empreendimento imobiliário, não deve responder, seja pelos valores pagos, seja pelos lucros cessantes.
+Assim sendo, não há como lhe impor a responsabilidade solidária pretendida pelo autor, devendo ser acolhida a preliminar de ilegitimidade passiva do réu Banco Pan S/A (sucessor por incorporação da Brazilian Mortgages Companhia Hipotecária), sejam no que se refere à restituição dos valores pagos, seja no que se refere indenização pelos lucros cessantes.
+Sobre o tema, a jurisprudência desta Corte Superior se posiciona no sentido de que o agente financeiro é parte ilegítima para responder por pedido decorrente de descumprimento das obrigações da obra financiada quando atua apenas como credor fiduciário em sentido estrito.
+A propósito (sem grifo no original):
+AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL. COMPRA E VENDA. RESCISÃO. CREDOR FIDUCIÁRIO. ILEGITIMIDADE PASSIVA. AUSÊNCIA DE RESPONSABILIDADE PELO DESCUMPRIMENTO CONTRATUAL DA CONSTRUTORA.
+AGRAVO INTERNO NÃO PROVIDO.
+1. "O agente financeiro não ostenta legitimidade para responder por pedido decorrente de vícios de construção na obra financiada, quando atua em sentido estrito" (AgInt no AREsp 1.193.639/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 17.4.2018, DJe 20.4.2018).
+2. No caso em análise, apesar de o Tribunal de origem ter reconhecido que o banco recorrente atuou, apenas, como credor fiduciário em sentido estrito, entendeu que ele seria parte legítima e que teria responsabilidade solidária para responder pela devolução dos valores pagos pelo adquirente, o que destoa da jurisprudência desta Corte sobre o assunto.
+3. Desse modo, o reconhecimento da ilegitimidade passiva e extinção, sem resolução do mérito, da ação em relação ao ora recorrente, nos moldes do artigo 485, VI, do novo Código de Processo Civil, é medida que se impõe.
+4. Agravo interno não provido.
+(AgInt no AgInt no REsp n. 1.875.510/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 20/9/2021, DJe de 27/9/2021).
+Na mesma linha de cognição (sem grifo no original):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLATÓRIA C/C PEDIDO CONDENATORIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE AUTORA .
+1. A orientação dessa Corte Superior é no sentido de que o agente financeiro não ostenta legitimidade para responder por pedido decorrente de vícios de construção na obra financiada, quando atua em sentido estrito. Precedentes.
+1.1. A modificação da conclusão do Tribunal de origem sobre a ilegitimidade do agente financeiro em razão de ter atuado apenas em sentido estrito, demandaria o revolvimento do suporte fático-probatório dos autos, além da necessidade de interpretação de cláusulas contratuais, o que é inviável em recurso especial, nos termos das Súmulas 5 e 7/STJ.
+2. Agravo interno desprovido.
+(AgInt no AREsp n. 1.974.392/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 21/3/2022, DJe de 24/3/2022).
+AGRAVO INTERNO NO RECURSO ESPECIAL. COMPRA E VENDA. RESCISÃO. CREDOR FIDUCIÁRIO. ILEGITIMIDADE PASSIVA. AUSÊNCIA DE RESPONSABILIDADE PELO DESCUMPRIMENTO CONTRATUAL DA CONSTRUTORA. REVISÃO DO JULGADO. IMPOSSIBILIDADE. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULAS 5 E 7/STJ. CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. ART. 19, IV, § 1º, DA LEI N. 9.514/1997. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. AGRAVO INTERNO IMPROVIDO.
+1. A modificação da conclusão do Tribunal de origem sobre a ilegitimidade do agente financeiro em razão de ter figurado apenas como credor fiduciário, demandaria o revolvimento do suporte fático-probatório dos autos, além da necessidade de interpretação de cláusulas contratuais, o que é inviável em recurso especial, nos termos das Súmulas 5 e 7/STJ.
+2. O acórdão estadual julgou em consonância com a jurisprudência do Superior Tribunal de Justiça, ao reconhecer, na espécie, a ilegitimidade do agente financeiro, que atuou apenas como credor fiduciário, em sentido estrito. Incidência da Súmula 83/STJ.
+3. O art. 19, IV, § 1º, da Lei n. 9.514/1997 bem como a tese de responsabilidade objetiva do credor fiduciário não foram objeto de efetivo debate pelo Tribunal a quo, a despeito da oposição de embargos de declaração a fim de sanar eventual irregularidade. Incidência da Súmula 211/STJ no ponto.
+4. Agravo interno improvido.
+(AgInt no REsp n. 1.915.781/SP, desta relatoria, Terceira Turma, julgado em 3/5/2021, DJe de 5/5/2021).
+Destarte, forçoso reconhecer que o entendimento do Tribunal de origem encontra-se em consonância com a jurisprudência desta Corte Superior, motivo pelo qual não merece reforma.
+Tendo em vista, então, que as alegações feitas no presente agravo interno não são capazes de modificar o convencimento manifestado por esta relatoria, permanece inalterada a decisão agravada.
+Por fim, no que tange ao pedido de aplicação de multa por litigância de má-fé, sob o argumento de que o recorrente teria alterado a verdade dos fatos, seria imprescindível, para o arbitramento, o revolvimento do conjunto fático-probatório dos autos, o que é vedado nesta instância extraordinária, segundo dispõe a Súmula 7 do Superior Tribunal de Justiça.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
