@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu o recurso especial, por entender aplicável o óbice da Súmula n. 7/STJ (e-STJ fls. 576-577); interposto, por sua vez, contra acórdão assim ementado (e-STJ, fl. 539):
+Agravo de instrumento. Contribuições condominiais. Cumprimento de sentença. Decisão que rejeita a impugnação. Depósitos parciais realizados nos autos. Determinação para que o perito realize o abatimento de forma simples do montante indicado pelo exequente, constituído de principal e consectários da mora, dentre os quais juros à proporção de 5%, conforme convenção e título judicial. Impossibilidade, por acarretar incidência de juros sobre juros, proporcionando o enriquecimento sem causa do credor em prejuízo do devedor. Obrigação que deve manter a sua natureza, de modo que o primeiro cálculo do perito apresentou fórmula correta, fazendo abater o depósito de maneira proporcional sobre todas as verbas que compõem a dívida. Impossibilidade de acolhimento do primeiro cálculo com os valores ali contidos, em razão de eventuais parcelas inadimplidas, vencidas no curso do cumprimento de sentença. Necessidade de retorno dos autos ao perito, para refazimento do cálculo utilizando a fórmula anterior. Decisão reformada. Agravo parcialmente provido.
+Opostos embargos de declaração, foram rejeitados (e-STJ, fls. 553-556).
+Nas razões do especial, aponta a recorrente violação dos artigos 223, 502, 507 e 508 do Código de Processo Civil.
+Argumenta, em síntese, que teria ocorrido preclusão quanto ao direito de excepcionar os cálculos apresentados pelo exequente. Além disso, defende que a alteração da forma de realização de cálculo, constante no título judicial executado, violaria a coisa julgada.
+Aberto prazo para contrarrazões, não foram apresentadas, conforme certificado na fl. 575 (e-STJ).
+O recurso especial não foi admitido na origem, em razão da Súmula 7/STJ (e-STJ, fls. 576-577), contra o que se manifesta a agravante na presente via.
+Assim delimitada a controvérsia, passo a decidir.
+Inicialmente, no que se refere à ocorrência de preclusão, observo que a controvérsia não foi examinada no acórdão recorrido, omissão que remanesceu mesmo após o julgamento dos embargos de declaração.
+Desse modo, o recurso especial não deve ser conhecido quanto ao ponto, em razão do óbice da Súmula 211/STJ.
+Por outro lado, no que se refere à violação da coisa julgada, observo que o Tribunal de origem pressupõe que o percentual a ser aplicado em relação aos juros de mora constaria no título, e teria sido observado na execução.
+De todo modo, a forma como os juros seriam calculados, se de modo simples ou compostos, não constaria no título executivo, afastando, assim, a exceção de que prosseguimento da execução violaria a coisa julgada. A propósito, transcrevo do acórdão recorrido (e-STJ, fls. 540/541):
+Em sua contraminuta, o agravado sustenta que o débito apontado está de acordo com o título judicial, que acolheu a incidência de juros de mora5% ao mês sobre a dívida, conforme convenção condominial.
+No entanto, a questão posta não é sobre o que ficou estabelecido no título judicial, mas sim sobre a fórmula de cálculo.
+Nesse sentido, a r. decisão agravada consignou que os juros de mora vencidos integram o capital.
+Todavia, o executado realizou alguns depósitos nos autos, e o cálculo do débito não pode ser considerado da forma simples como determinado na r. decisão de primeiro grau.
+Com efeito, a cada pagamento realizado pelo executado, ele vê o saldo devedor sofrer acréscimo de 5% a cada mês, incidindo juros sobre juros.
+Portanto, a forma correta de tornar a execução viável, sem onerar excessivamente o devedor nem promover o enriquecimento sem causa do credor, é aquela utilizada no primeiro cálculo do perito a fls. 329/351, que corretamente aplicou o valor do depósito de maneira proporcional sobre as verbas executadas, conforme esclarecimentos por ele prestados a fls. 400/405.
+Com efeito, tratando-se de obrigação de prestações periódicas, mormente na qual incide juros de mora à taxa convencionada de 5%, e não a taxa legal aplicada às condenações judiciais, a dívida deve observar a sua natureza, não sendo possível considerá-la com um único montante ao qual estão incorporados os juros de mora.
+Destarte, de rigor o provimento parcial do agravo de instrumento, para reformar a r. decisão recorrida e determinar o refazimento do cálculo pelo perito, observando a fórmula utilizada no primeiro cálculo, qual seja, com abatimento proporcional do valor depositado incidente sobre o principal e consectários da mora. (grifo acrescido)
+Como se vê do trecho acima reproduzido, o Tribunal de origem pressupõe que a forma de cálculo dos juros não constaria no título judicial executado, para afastar a exceção de violação à coisa julgada.
+Diante desse contexto, para infirmar a conclusão adotada no acórdão recorrido, seria imprescindível o reexame das provas produzidas nos autos, o que é vedado em recurso especial, nos termos da Súmula n. 7 do STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SEGURO HABITACIONAL. FASE DE LIQUIDAÇÃO OU EXECUÇÃO. CUMPRIMENTO DE SENTENÇA. VIOLAÇÃO AO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. OFENSA À COISA JULGADA. NÃO OCORRÊNCIA. SÚMULA 7 DO STJ. EXCESSO DE EXECUÇÃO. MULTA DECENDIAL. INCIDÊNCIA DE JUROS DE MORA. IMPOSSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela indicada violação do art. 1.022 do Código de Processo Civil. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão do recorrente.
+2. O acórdão recorrido reconheceu que o título executivo judicial não determinou a incidência dos juros de mora para a multa decendial, concluindo inexistir ofensa à coisa julgada. Alterar essas conclusões demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial, nos termos da Súmula n. 7 do STJ.
+3. O entendimento deste Tribunal Superior é de que a multa decendial está limitada ao valor da condenação principal, excluídos, portanto, a correção monetária e os juros moratórios.
+4. Agravo interno não provido.
+(AgInt no AgInt no AREsp n. 1.689.538/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 25/10/2021, DJe de 28/10/2021.) (grifo acrescido)
+Em face do exposto, nego provimento ao agravo.
+Deixo de arbitrar honorários de recurso, pois inexistente condenação a respeito na origem, vedado acréscimo posterior, na forma dos §§ 2º e 11 do artigo 85 do CPC/15.
+Intimem-se.
