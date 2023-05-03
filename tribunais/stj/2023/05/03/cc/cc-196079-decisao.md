@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de conflito negativo de competência suscitado pelo JUÍZO FEDERAL DA 16A VARA CÍVEL DE SALVADOR - SJ/BA e que conta com o JUÍZO FEDERAL DA 1A VARA DE LINS - SJ/SP como suscitado. O conflito foi instaurado em razão de mandado de segurança impetrado contra ato imputado ao Presidente da 4ª Junta de recursos do Conselho de Recursos da Previdência Social.
+A impetração foi protocolizada no Juízo Federal da 1ª Vara de Lins - SJ/SP, que declinou da competência por entender que "a competência para exame de mandado de segurança é definida a partir do domicílio funcional da autoridade impetrada" (fl. 66).
+Os autos foram remetidos ao Juízo Federal da 16ª Vara Cível de Salvador, que suscitou o presente conflito com o argumento de que, "consoante o art. 109, § 2º, da Constituição Federal de 1988, as causas intentadas contra a União podem ser ajuizadas perante o Juízo Federal do foro de domicílio do autor" (fls. 79/80).
+Parecer do Ministério Público Federal às fls. 94/96 pela declaração da competência do Juízo Federal da 1ª Vara de Lins - SJ/SP.
+É o relatório.
+Conheço do conflito porque se trata de controvérsia instaurada entre juízes vinculados a tribunais distintos, conforme preceitua o art. 105, I, d, da Constituição Federal.
+É firme a jurisprudência desta Corte Superior de Justiça quanto à incidência da previsão constitucional da eleição de foro contida no art. 109, § 2º, da CF, cuja finalidade é possibilitar o mais amplo acesso à Justiça nos mandados de segurança impetrados contra atos de autoridades públicas federais. Confira-se, a propósito, o julgado a seguir:
+PROCESSO CIVIL. AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. MANDADO DE SEGURANÇA. IMPETRAÇÃO. AUTARQUIA FEDERAL. APLICAÇÃO DA REGRA CONTIDA NO ART. 109, § 2º, DA CF. ACESSO À JUSTIÇA. PRECEDENTES. COMPETÊNCIA DO JUÍZO SUSCITADO.
+1. Na espécie, o conflito negativo de competência foi conhecido para declarar competente o juízo federal do domicílio do impetrante.
+2. A Primeira Seção do STJ, em uma evolução jurisprudencial para se adequar ao entendimento do STF sobre a matéria, tem decidido no sentido de que, nas causas aforadas contra a União, inclusive em ações mandamentais, pode-se eleger a Seção Judiciária do domicílio do autor, com o objetivo de facilitar o acesso à Justiça. Precedentes: AgInt no CC n. 154.470/DF, Rel. Ministro Og Fernandes, Primeira Seção, DJe 18/4/2018; AgInt no CC n. 153.138/DF, Rel. Ministro Gurgel de Faria, Primeira Seção, DJe 22/2/2018; AgInt no CC n. 153.724/DF, Rel. Ministra Regina Helena Costa, Primeira Seção, DJe 16/2/2018.
+3. Agravo interno não provido (AgInt no CC 166.130/RJ, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, julgado em 03/09/2019, DJe 05/09/2019 - sem destaques no original).
+Assim, tendo o mandado de segurança sido impetrado no foro do domicílio da parte impetrante, conforme lhe autoriza o permissivo constitucional, compete àquele juízo, no caso destes autos o suscitado, processar e julgar a ação mandamental.
+Ante o exposto, conheço do presente conflito para declarar a competência do JUÍZO FEDERAL DA 1A VARA DE LINS - SJ/SP.
+Publique-se. Comunique-se.
