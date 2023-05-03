@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/04/2023 a 03/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de agravo interno interposto por BRB BANCO DE BRASILIA SA contra decisão unipessoal prolatada pelo Ministro Presidente do STJ.
+Ação: de obrigação de fazer com pedido de antecipação de tutela, ajuizada por EDIMAR SILVERIO DA SILVA, em face do agravante e de BANCO PAN S.A. (interessado), na qual alega - em síntese - que aderiu a contratos de empréstimo consignado, cujas avenças acabaram por resultar em descontos em seu provento de aposentadoria maior que o limite permitido por lei, motivo pelo qual pleiteia, em sede de liminar, redução do desconto mensal realizado pela 1º réu (BRB BANCO DE BRASILIA SA) de R$ 1.000,00 para R$ 448,90, a suspensão dos demais descontos posteriores a este e o afastamento da mora após a concessão da liminar, a fim de que os demandados não incluam seu nome nos cadastros de restrição creditícia. Por derradeiro, no mérito, requer sejam declaradas a ilegalidade e abusividade dos descontos realizados pelos réus e a confirmação da liminar.
+Às fls. 37/40 (e-STJ), fora deferido o pedido de antecipação de tutela, no sentido de determinar:
+i) ao primeiro requerido, BRB BANCO DE BRASILIA SA, que reduza os descontos promovidos do empréstimo n. 01, ficando limitado ao valor equivalente a R$ 448,90, e suspenda os descontos referente ao empréstimo n. 02;
+ii) ao segundo requerido, BANCO PAN S.A., que suspenda os descontos realizados na aposentadoria da parte autora, isto até que possua margem consignável disponível.
+Sentença: julgou procedentes os pedidos, para suspender, de forma solidária, os descontos consignados em folha de pagamento para que as cobranças dos contratos sejam efetivadas na ordem do mais antigo para os mais novos e em quantas parcelas forem necessárias, limitadas ao valor de R$ 953,74 até ulterior quitação integral dos débitos.
+Acórdão: deu parcial provimento à apelação interposta pelo agravante, para limitar a incidência da multa diária ao período de 30 dias; negou provimento à apelação do interessado; deu parcial provimento à apelação interposta pelo agravado, para alterar a base de cálculo dos honorários advocatícios sucumbenciais, arbitrando-os em 10% sobre o valor atualizado da causa, afastar a aplicação da multa do art. 1.026, § 2º, do CPC/15 e afastar expressamente os efeitos da mora.
+Nesse sentir, é a ementa dos julgados:
+Tripla apelação cível. Ação de obrigação de fazer. Empréstimo consignado em folha de pagamento. Possibilidade de limitação em 15% (quinze por cento) da remuneração. Consignante portador de doença grave. Aplicação da Lei nº 16.898/2010, vigente ao tempo da contratação. Ausência de fundamentação não verificada. Multa diária. Razoabilidade e proporcionalidade. Manutenção. Limitação temporal. Dano moral. Falta de interesse recursal. Honorários sucumbenciais. Legitimidade concorrente para recorrer. Forma de fixação. Efeitos da mora afastados. Embargos protelatórios afastados. Prequestionamento. Ônus sucumbenciais. Honorários recursais.
+1. Não há se falar em nulidade do pronunciamento judicial por falta de fundamentação jurídica quando o Julgador, ainda que de forma concisa, aponta os motivos de seu convencimento.
+2. Conforme a Súmula 297 do Superior Tribunal de Justiça, o Código de Defesa do Consumidor é aplicável às instituições financeiras, sendo certo, por conseguinte, a possibilidade de revisão do contrato, caso se mostre excessivamente oneroso para um dos contratantes.
+3. A despeito das alterações promovidas pela Lei Estadual 20.365/2018 na Lei nº 16.898/2010, no caso vertente, deve ser observada a legislação aplicável ao tempo em que os empréstimos foram contraídos, qual seja, a Lei 16.898/2010, em observância ao "tempus regit actum".
+4. O § 5º do art. 5º da Lei Estadual 16.898/2010, com a redação dada pela Lei 19.190/2015, vigente à época da celebração dos contratos pelas partes, limita o empréstimo ao servidor público aposentado, com mais de 65 (sessenta e cinco) anos de idade ou portador de doença, em 15% (quinze por cento) da margem consignável, como no caso.
+5. A multa diária revela-se, unicamente, como instrumento de garantia para o cumprimento da obrigação imposta, não havendo que se falar no seu afastamento. Ademais, o valor não se mostra desproporcional ou desarrazoado, tendo em vista a necessidade de resguardo no cumprimento da decisão objurgada, bem como a capacidade econômica dos Requeridos. 6. A sentença foi omissa ao não estabelecer o período de incidência da multa diária, razão pela qual imperativo se torna a sua limitação temporal, fixando-se o limite de 30 (trinta) dias-multa, sob pena de a parcela pecuniária ser mais atrativa ao credor que a própria tutela específica.
+7. A sentença vergastada não condenou as Requeridas em dano moral. Verifica-se, portanto, a ausência de interesse recursal, no respectivo ponto. 8. Apesar de os honorários advocatícios constituírem direito autônomo do advogado, não se exclui da parte a legitimidade concorrente para discuti-los.
+9. Nos termos do artigo 85, § 2º, do CPC, sendo impossível mensurar o proveito econômico obtido e não havendo condenação, devem os honorários advocatícios serem fixados sobre o valor atualizado da causa. 10. A limitação dos descontos não configura chancela à inadimplência, ou mesmo implica em mora, permanecendo sólido o direito de crédito do credor, podendo cobrar o saldo remanescente à medida que a margem for liberada.
+11. A multa prevista no art. 1.026, § 2º, do CPC, visa a punição de conduta que ofenda a dignidade do Juízo e a função pública do processo, o que não se verifica no caso versado. Destarte, impõe-se a extirpação da multa aplicada, porque não configurado o caráter protelatório dos embargos de declaração opostos pelo 3º Apelante.
+12. Descabida a pretensão de manifestação expressa acerca dos dispositivos citados pelos Recorrentes, por quanto, dentre as funções do Poder Judiciário, não se encontra a de órgão consultivo.
+13. Reformada a sentença de modo a manter a sucumbência dos Requeridos, mister a manutenção da condenação do 1º e do 2º Apelante nos ônus sucumbenciais fixados em seu desproveito no primeiro grau.
+14. Evidenciada a sucumbência recursal quanto ao primeiro e segundo recurso, impende majorar a verba honorária anteriormente fixada (art. 85, § 11, do CPC). Noutro viés, quanto à terceira apelação, descabível a majoração dos honorários advocatícios diante do provimento parcial do recurso.
+1ª apelação conhecida e provida em parte. 2ª apelação conhecida e desprovida. 3ª apelação conhecida e provida. sentença reformada. (e-STJ, fls. 538/539)
+Embargos de declaração: opostos pela agravante, foram rejeitados.
+Decisão monocrática: não conheceu do agravo em recurso especial, nos termos do art. 21-E, V, c/c 253, parágrafo único, ambos do RISTJ, em razão da ausência de impugnação de todos os fundamentos constantes da decisão que negou seguimento ao recurso especial (e-STJ, fls. 952/954).
+Agravo interno: alega, em síntese, a impossibilidade de aplicação da Súmula 182/STJ na hipótese, em razão da impugnação de todos os fundamentos constantes da decisão de inadmissibilidade prolatada pelo Tribunal de origem (e-STJ, fls. 957/963).
+É O RELATÓRIO.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER COM PEDIDO DE ANTECIPAÇÃO DE TUTELA. IMPUGNAÇÃO ESPECÍFICA DA DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. AUSÊNCIA. SÚMULA 182/STJ.
+1. Ação de obrigação de fazer com pedido de antecipação de tutela.
+2. O agravo interposto contra decisão denegatória de processamento de recurso especial que não impugna, especificamente, todos os fundamentos por ela utilizados, não deve ser conhecido.
+3. Agravo interno não provido.
+VOTO
+A decisão agravada não conheceu do agravo em recurso especial ante a incidência da Súmula 182/STJ, haja vista que, naquele recurso, não foram impugnados todos os fundamentos utilizados pelo TJ/GO para negar seguimento ao recurso especial.
+A despeito das alegações aduzidas neste recurso, percebe-se que a parte agravante não trouxe qualquer argumento novo capaz de ilidir entendimento firmado na decisão ora agravada.
+Examinando-se os autos, verifica-se que o Tribunal de origem negou seguimento ao recurso especial diante da:
+i) incidência da Súmula 5/STJ;
+ii) incidência da Súmula 7/STJ;
+iii) incidência da Súmula 280/STF;
+iv) ausência/erro de indicação de artigo de lei federal violado - Súmula 284/STF (e-STJ, fls. 696/699).
+Todavia, nas razões do agravo em recurso especial, a parte agravante, de fato, não impugnou, de forma consistente, os seguintes óbices: incidência da Súmula 5/STJ, incidência da Súmula 7/STJ, incidência da Súmula 280/STF e ausência/erro de indicação de artigo de lei federal violado - Súmula 284/ST (e-STJ, fls. 703/709).
+Necessário salientar que o afastamento dos óbices deve ocorrer com a devida explicação por parte do recorrente do porquê de suas não aplicações de maneira concreta na hipótese.
+Desse modo, nos termos da Súmula 182/STJ, mostra-se correto o não conhecimento do agravo em recurso especial, tendo em vista a ausência de impugnação específica de todos os fundamentos contidos na decisão agravada.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno.
