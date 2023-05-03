@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (e-STJ, fl. 185):
+SEGURO DE VIDA. INDENIZAÇÃO. MORTE NATURAL. Autora pretende o recebimento de indenização securitária pelo óbito de seu esposo. Sentença de improcedência. Apelo da autora. Alegação de desconhecimento dos termos do seguro contratado que é inadmissível, uma vez que o de cujus aderiu voluntária e conscientemente ao plano, tendo ao seu dispor todas as condições para ciência dos limites contratuais. Inexistência de narrativa no sentido de que não recebeu as cláusulas gerais, apenas afirmando genericamente que as desconhecia, tese que não é dotada de verossimilhança. Segurado que firmou contrato de seguro com cobertura apenas para morte por acidente. Óbito que se deu por causas naturais (insuficiências respiratória cardíaca). Cobertura que era mesmo indevida. Precedentes. Pleito subsidiário de recebimento de indenização por invalidez permanente total ou parcial que é indevido. Ausência de prova conclusiva de que o acidente sofrido pelo de cujus guardou conexão com seu passamento, oito meses depois. Quadro clínico gerado pelo acidente que, prima facie, não sugere nexo de causalidade com a morte. Prova da relação que cabia à autora (art. 373, I, do Código de Processo Civil). Sentença mantida. Recurso desprovido.
+Nas razões do recurso especial, aponta a recorrente divergência jurisprudencial relacionado ao dever informacional sobre o limite da extensão da cobertura securitária, que deveria ser da seguradora, conforme orientação adotada no acórdão paradigma.
+Requer, de modo subsidiário, a indenização securitária pela invalidez, uma vez que comprovado o pressuposto de fato para a respectiva cobertura.
+Contra-arrazoado (e-STJ, fls. 231-238), o recurso especial não foi admitido na origem (e-STJ, fls. 239-240), contra o que se manifesta a agravante na presente via.
+Assim delimitada a controvérsia, passo a decidir.
+Inicialmente, no que se refere à controvérsia envolvendo o dever informacional, falta identidade entre a situação fática analisada nos paradigmas apresentados e no acórdão recorrido, obstando o conhecimento da divergência.
+Com efeito, enquanto no acórdão paradigma é pressuposto que o segurado não teria sido devidamente informado sobre cláusula restritiva de cobertura (e-STJ, fL 203), no acórdão paradigma, por sua vez, parte-se do princípio de que o segurado sabia da cláusula restritiva, conforme extraio da seguinte passagem (e-STJ, fl. 187/188):
+As cláusulas gerais do seguro contratado são expressas na conceituação de morte acidental e enfatizam que o recebimento do capital segurado se daria exclusivamente em tal hipótese, excluídas, portanto, as hipóteses de morte natural (fls. 83), tendo o réu observado, quando da estipulação, a determinação do art. 54, § 3º, do Código de Defesa do Consumidor
+Como se vê do trecho acima reproduzido, a Corte local pressupõe que o segurado sabia da extensão da cláusula de cobertura, uma vez que expressa em termos claros e com caracteres ostensivos e legíveis, excluindo a responsabilidade da seguradora, por não vislumbrar a denominada culpa da legalidade.
+Desse modo, evidenciada a falta de similitude fática entre os julgados confrontados, o recurso especial não deve ser conhecido, pois inobservado o pressuposto de cabimento, nos termos do art. 1.029, § 1º, do CPC/2015 e art. 255, §§ 1º e 3º, do RISTJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. CONTRATO DE LOCAÇÃO. ENCERRAMENTO. PREVALECIMENTO DAS DISPOSIÇÕES CONTRATUAIS. ART. 54 DA LEI 8.245/91. CUMPRIMENTO POR PARTE DA LOCADORA. FUNDAMENTO NÃO ATACADO. INCIDÊNCIA DA SÚMULA 283/STF. DISSÍDIO NÃO COMPROVADO. AGRAVO DESPROVIDO.
+ ..
+2. Para a correta demonstração da divergência jurisprudencial, deve haver o cotejo analítico, expondo-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, a fim de demonstrar a perfeita similitude fática entre o acórdão impugnado e o paradigma colacionado, o que, no caso, não ficou evidenciado, nos termos do art. 1.029, § 1º, do CPC/2015 e art. 255, §§ 1º e 3º, do RISTJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.148.520/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 13/2/2023, DJe de 24/2/2023.)
+Por outro lado, em relação à cobertura pela invalidez, observo que o Tribunal de origem afastou peremptoriamente o sinistro, uma vez que a morte do segurado teria ocorrido em razão de ordem natural, sem relação com acidente coberto pelo seguro (e-STJ, fls. 191).
+Diante desse contexto, para o acolhimento da pretensão da recorrente, seria imprescindível reexaminar as peculiaridades do evento aludido, reexaminando fatos e provas, além dos termos do contrato de seguro, o que é vedado em sede de recurso especial, em razão das Súmulas 5 e 7/STJ.
+Ressalte-se que a incidência dos óbices sumulares mencionados inviabilizam o conhecimento do recurso especial sob toda perspectiva, seja pela alínea "a", seja pela alínea "c" do inciso III do artigo 105 da Constituição Federal.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. INDENIZAÇÃO. DANOS MORAIS. ATRASO DE VOO. AUSÊNCIA DE PREQUESTIONAMENTO. PREQUESTIONAMENTO IMPLÍCITO. NÃO VERIFICAÇÃO. SÚMULAS N. 282 E 356 DO STF. QUANTUM INDENIZATÓRIO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. INCIDÊNCIA. DISSÍDIO JURISPRUDENCIAL NÃO CONHECIDO. AGRAVO INTERNO DESPROVIDO.
+ ..
+5. A incidência da Súmula n. 7 do STJ quanto à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+6 . Agravo interno desprovido.
+(AgInt no AREsp n. 2.105.375/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 20/3/2023, DJe de 24/3/2023.)
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites previstos nos §§ 2º e 3º do referido dispositivo legal.
+Intimem-se.
