@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso especial interposto por MARCO GERALDO SHORR e outros, com respaldo nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL assim ementado (e-STJ fl. 464):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. HONORÁRIOS DA EXECUÇÃO.
+Honorários Advocatícios - Consolidou-se não serem devidos honorários executivos pela Fazenda Pública nas execuções por quantia certa que não tenham sido embargadas, e cujo crédito deva ser pago mediante expedição de precatório, o que não foi alterado com o advento do CPC/15, a teor do art. 85, §7º.
+- O fato, por si só, de ter o ente público apresentado impugnação à execução que lhe é proposta não implica direito ao patrono da parte credora em receber honorários advocatícios para a fase de cumprimento de sentença.
+- A fixação de honorários advocatícios e a própria imposição do ônus respectivo está vinculada apenas ao resultado/sucumbência do julgamento da impugnação.
+- Precedentes do STJ citados que não enfrentam a distinção e, por isso, não tem efeito vinculante.
+NEGARAM PROVIMENTO AO RECURSO DE AGRAVO DE INSTRUMENTO. UNÂNIME.
+Embargos de declaração rejeitados (e-STJ fls. 591/598).
+A parte ora recorrente alega violação dos arts. 85, § 7º, 489, § 1º, IV, e 1.022, II, do CPC/2015, sustentando, além de negativa de prestação jurisdicional, que são cabíveis os honorários advocatícios no cumprimento de sentença, cujo pagamento ocorrerá por meio de precatório, quando apresentada impugnação.
+Contrarrazões às e-STJ fls. 915/924.
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 929/933.
+Passo a decidir.
+Verifico que a pretensão recursal merece prosperar em parte.
+Em relação à alegada ofensa aos arts. 489 e 1.022 do CPC/2015, cumpre destacar que, ainda que o recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação. Não há como confundir o resultado desfavorável ao litigante com a falta de fundamentação, motivo pelo qual não se constata violação dos preceitos apontados.
+Consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater um a um todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie. Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO. RESPONSABILIDADE CIVIL. DANO MORAL. AÇÃO EXTINTA, SEM APRECIAÇÃO DO MÉRITO. ART. 1022 DO CPC. OMISSÃO NÃO CONFIGURADA. ART. 337 DO CPC. COISA JULGADA. ACÓRDÃO ANCORADO NO SUBSTRATO FÁTICO-PROBATÓRIO DOS AUTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Cuida-se de ação de procedimento ordinário ajuizada em desfavor de Rodovias Integradas do Oeste S.A., na qual o autor pretende obter indenização pelos danos morais e estéticos decorrentes de acidente em rodovia concedida à parte ré, o qual fora causado pela presença de animal no leito trafegável.
+2. Verifica-se não ter ocorrido ofensa aos arts. 489, § 1º, e 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+3. O Tribunal a quo, com base em premissas fáticas, concluiu que a presente ação está fulminada pela eficácia preclusiva da coisa julgada que se formou em demanda anteriormente proposta pelo autor, em razão dos mesmos fatos. Nesse contexto, a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, a fim de aferir se há ou não identidade entre as ações, exigiria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp 1.924.900/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 19/4/2022)  Grifos acrescidos .
+Quanto às demais alegações, a irresignação recursal merece prosperar.
+Com efeito, a dispensa da fixação de honorários advocatícios prevista no art. 85, § 7º, do CPC/2015 restringe-se às hipóteses em que o cumprimento de sentença não tenha sido impugnado e cujo pagamento ocorra por precatório. Desse modo, oferecida resistência ao cumprimento de sentença - tal como ocorre no caso presente -, são devidos os honorários advocatícios em atenção ao princípio da causalidade. Nesse sentido:
+PROCESSUAL CIVIL. EXECUÇÃO DE SENTENÇA CONTRA FAZENDA PÚBLICA. IMPUGNAÇÃO OFERTADA PELO DEVEDOR . PAGAMENTO MEDIANTE EXPEDIÇÃO DE PRECATÓRIO. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. ART. 85, § 7º, DO CPC/2015 CABIMENTO. SÚMULA 83/STJ. APLICAÇÃO.
+1. O Tribunal foi expresso ao afirmar que houve impugnação à Execução pelo recorrente, o que atraiu a fixação dos honorários advocatícios.
+2. A distinção feita pelo Tribunal de origem de que se trata de cabimento dos honorários advocatícios para a fase de cumprimento da sentença em execução sob regime de precatório, em razão da impugnação havida, em aplicação ao art. 85, § 7º, do CPC/2015, coincide com o atual entendimento do STJ. Precedente: REsp 1.666.182/RS, Rel. Min. Herman Benjamin Segunda Turma, DJe 19.12.2017.
+3. Não obstante a boa qualidade dos argumentos expendidos pelo agravante, o arrazoado, que somente reitera os argumentos do Recurso Especial, não tem o condão de infirmar as bases da decisão agravada.
+4. Agravo Interno não provido.
+(AgInt no REsp 1.814.321/RS, rel. Ministro HERMAN BENJAMIN, Segunda Turma, DJe 19/12/2019)  Grifos acrescidos .
+PROCESSUAL CIVIL. EXECUÇÃO DE SENTENÇA CONTRA FAZENDA PÚBLICA. IMPUGNAÇÃO. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+1. Hipótese em que o Tribunal local consignou (fl. 575, e-STJ): "No caso dos autos, contudo, houve impugnação à execução pelo IBAMA (evento 81, na origem). É caso, pois, de arbitramento de honorários de execução de 10% sobre o valor do crédito, nos termos do 85, § 3º, inciso II do CPC".
+2. Não se conhece de Recurso Especial em relação à ofensa ao art. 1.022 do CPC/2015 quando a parte não aponta, de forma clara, o vício em que teria incorrido o acórdão impugnado. Aplicação, por analogia, da Súmula 284/STF.
+3. O STJ tem jurisprudência firme e consolidada no sentido de que, em se tratando de execução por quantia certa de título judicial contra a Fazenda Pública, a regra geral é a de que somente são devidos honorários advocatícios se houver Embargos. É o que decorre do art. 1º-D da Lei 9.494/97, introduzido pela Medida Provisória 2.180-35, de 24 de agosto de 2001. Ao dirimir a controvérsia, o Tribunal foi expresso ao afirmar que houve impugnação à Execução pelo recorrente, o que atraiu a fixação dos honorários advocatícios.
+4. O Superior Tribunal de Justiça atua na revisão da verba honorária somente quando esta tratar de valor irrisório ou exorbitante, o que não se configura neste caso. Assim, o reexame das razões de fato que conduziram a Corte de origem a tais conclusões significaria usurpação da competência das instâncias ordinárias. Incidência da Súmula 7/STJ.
+5. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1.666.182/RS, rel. Ministro HERMAN BENJAMIN, Segunda Turma, DJe 19/12/2017)  Grifos acrescidos .
+Confiram-se, ainda, as seguintes decisões monocráticas: REsp 1.880.935, rel. Ministro BENEDITO GONÇALVES, DJe 10/08/2020; REsp 1.883.585, rel. Ministro FRANCISCO FALCÃO, DJe 17/08/2020; REsp 1.694.543, rel. Ministro NAPOLEÃO NUNES MAIA FILHO, DJe 18/05/2020; REsp 1.765.745, rel. Ministro FRANCISCO FALCÃO, DJe 14/02/2020.
+Ante o exposto, com base no art. 255, § 4º, II e III, do RISTJ, DOU PARCIAL PROVIMENTO ao recurso especial para determinar o retorno dos autos à origem, a fim de que seja fixada a verba honorária correspondente ao cumprimento de sentença.
+Publique-se. Intimem-se.
