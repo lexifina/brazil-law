@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/04/2023 a 03/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por PAULO SERGIO SILVA DE SOUZA LACERDA (PAULO), contra decisão monocrática de minha relatoria, assim ementada:
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL. PROGRAMA MINHA CASA MINHA VIDA. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. FORMAÇÃO DE LITISCONSÓRCIO PASSIVO NECESSÁRIO COM A CEF. INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL E REEXAME DE MATÉRIA FÁTICA. DESCABIMENTO. APLICAÇÃO DAS SÚMULAS NºS 5 E 7 DO STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+Nas razões do presente inconformismo, defendeu a necessidade da formação de litisconsórcio passivo necessário com a Caixa Econômica Federal (CEF), com quem foi celebrado o contrato de financiamento do imóvel e incumbia a gestão dos recursos.
+Não foi apresentada contraminuta.
+É o relatório.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL. PROGRAMA MINHA CASA MINHA VIDA. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. FORMAÇÃO DE LITISCONSÓRCIO PASSIVO NECESSÁRIO COM A CEF. INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL E REEXAME DE MATÉRIA FÁTICA. DESCABIMENTO. APLICAÇÃO DAS SÚMULAS NºS 5 E 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Consoante o entendimento desta Corte, a eventual legitimidade passiva da CEF está relacionada à natureza da sua atuação no contrato firmado: é responsável se atuar como agente executor de políticas federais para a promoção de moradia para pessoas de baixa renda, quando tiver escolhido a construtora ou tiver qualquer responsabilidade relativa ao projeto; não o é se atuar meramente como agente financeiro. Precedentes.
+2. No caso em apreço, o Tribunal estadual concluiu que a empresa pública agiu apenas como agente financeiro do empreendimento imobiliário, ou seja, como mera credora fiduciária, no contrato de financiamento para a realização da obra firmado com o ora recorrente. Desse modo, a revisão do julgado encontra óbice nas Súmulas n.ºs 5 e 7 do STJ.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo interno não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido.
+VOTO
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as conclusões externadas na decisão recorrida.
+Da formação de litisconsórcio passivo necessário com a CEF
+Com relação à legitimidade passiva da CEF, o entendimento do STJ é pacífico no sentido de que a eventual legitimidade da empresa pública está relacionada à natureza da sua atuação no contrato firmado: é responsável se atuar como agente executor de políticas federais para a promoção de moradia para pessoas de baixa renda, quando tiver escolhido a construtora ou tiver qualquer responsabilidade relativa ao projeto; não o é se atuar meramente como agente financeiro.
+No caso em apreço, constou do acórdão proferido pelo Tribunal Regional Federal da 5ª Região que:
+É certo que o contrato em comento prevê o acompanhamento das obras pela empresa pública federal, porém, tal fiscalização, empreendida pelos agentes do banco, restringe-se ao cronograma físico-financeiro das obras para liberação das parcelas do financiamento, jamais ensejando responsabilidade acerca do cumprimento do prazo para entrega do bem residencial adquirido, de modo que há de se afastar sua condenação tanto em relação à multa e juros moratórios quanto ao pagamento de danos morais. Precedentes: TRF5, 2ª Turma , PJE 0805695-54.2015.4.05.8000, R el. Des. Paulo Roberto de Oliveira Lima, Data da Assinatura: 29/07/2020; TRF5, 2ª Turma , PJE 0805529-15.2017.4.05.8400, Rel. Des. Paulo Roberto de Oliveira Lima, Data da Assinatura: 02/10/2020 (e-STJ, fl. 633).
+Da leitura dos fundamentos acima transcritos, verifica-se que o TRF5 concluiu que, no caso, a CEF agiu apenas como agente financeiro do empreendimento imobiliário, ou seja, como mera credora fiduciária, no contrato de financiamento para a aquisição do imóvel firmado com o ora recorrente, não podendo, por isso, responder pelo descumprimento do contrato quanto ao prazo previsto para a entrega da obra. Desse modo, a revisão do julgado encontra óbice nas Súmulas nºs 5 e 7 do STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSO CIVIL. CONTRATO DE PROMESSA DE COMPRA E VENDA. PROGRAMA MINHA CASA MINHA VIDA. INEXISTÊNCIA DE AFRONTA AOS ARTS. 489 E 1.022 DO CPC/2015. ATRASO NA ENTREGA DO IMÓVEL. LEGITIMIDADE DA CAIXA ECONÔMICA FEDERAL. CONSTATAÇÃO DE ATUAÇÃO ALÉM DA FUNÇÃO DE AGENTE FINANCIADOR. REVISÃO. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULAS 5, 7 E 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1.  ..
+2. Esta Corte Superior tem entendimento "no sentido de que a eventual legitimidade da empresa pública está relacionada à natureza da sua atuação no contrato firmado: é legítima se atuar como agente executor de políticas federais para a promoção de moradia para pessoas de baixa renda; não o é se atuar meramente como agente financeiro" (AgInt no REsp n. 1.674.676/PE, Relator Ministro Moura Ribeiro, Terceira Turma, julgado em 10/8/2020, DJe 14/8/2020).
+3. No caso vertente, as instâncias ordinárias, com base nos elementos fáticos da causa, concluíram que a Caixa Econômica Federal não agiu apenas como agente financeiro do empreendimento imobiliário.
+Reverter a conclusão do colegiado originário, para acolher a pretensão recursal, demandaria o revolvimento de cláusulas contratuais e do acervo fático-probatório dos autos, o que se mostra impossível ante a natureza excepcional da via eleita, consoante enunciado das Súmulas n. 5 e 7 do Superior Tribunal de Justiça.
+4. Tendo o acórdão recorrido decidido em consonância com a jurisprudência desta Corte, incide na hipótese a Súmula n. 83/STJ, que abrange os recursos especiais interpostos com amparo nas alíneas a e/ou c do permissivo constitucional.
+5. Agravo interno desprovido.
+(AgInt no AREsp 1.937.307/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 14/2/2022, DJe 21/2/2022.)
+CIVIL E PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR POR DANOS MORAIS E MATERIAIS C/C OBRIGAÇÃO DE FAZER. ATRASO NA ENTREGA DE IMÓVEL. PROGRAMA HABITACIONAL MINHA CASA MINHA VIDA. LEGITIMIDADE DA CEF. NATUREZA DAS ATIVIDADES. AUSÊNCIA DE CONDIÇÃO DE MERO AGENTE FINANCEIRO. LEGITIMIDADE PASSIVA. REEXAME DE FATOS E PROVAS. NOVA INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. SÚMULAS 5 E 7/STJ.
+1. Ação de indenização por danos morais e materiais cumulada com obrigação de fazer.
+2. A legitimidade passiva da CEF nas lides que tenham por objeto imóveis adquiridos no programa minha casa, minha vida, somente se verifica nas hipóteses em que atua além de mero agente financiador da obra. Precedentes.
+3. Alterar o decidido no acórdão impugnado, no que se refere à conclusão de que a CEF - na hipótese dos autos - não atua apenas como operador financeiro, exige o reexame de fatos e provas e a renovada interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7/STJ.
+4. Agravo interno no recurso especial não provido.
+(AgInt no REsp 1.851.842/AL, Relª. Ministra NANCY ANDRIGHI, Terceira Turma, j. 4/5/2020, DJe 7/5/2020.)
+Desse modo, não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo interno não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
+Por oportuno, previno as partes de que a interposição de recurso contra este acórdão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação à penalidade fixada no art. 1.026, § 2º, do NCPC.
