@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de recurso especial interposto por L2 SERVICOS IMOBILIARIOS E CONSULTORIA EMPRESARIAL LTDA e LUIS CLAUDIO FRANCA DE OLIVEIRA SEGUNDO, fundamentado exclusivamente na alínea "a" do permissivo constitucional.
+Recurso especial interposto em: 01/02/2023.
+Concluso ao Gabinete em: 28/04/2023.
+Ação: revisional de contrato bancário, ajuizada pelos recorrentes, em desfavor da CAIXA ECONÔMICA FEDERAL.
+Decisão interlocutória: indeferiu o pedido de gratuidade de justiça formulado pelos recorrentes.
+Acórdão: negou provimento ao agravo de instrumento interposto pelos recorrentes, nos termos da seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. GRATUIDADE DA JUSTIÇA. PESSOA JURÍDICA. DESCABIMENTO. AUSÊNCIA DE COMPROVAÇÃO DOS PRESSUPOSTOS LEGAIS. SÚMULA 481 DO STJ.
+1. Cuida-se de agravo de instrumento interposto pela L2 SERVIÇOS IMOBILIÁRIOS E CONSULTORIA EMPRESARIAL LTDA., contra decisão, proferida nos autos de ação revisional (processo 0807601-26.2022.4.05.8100S), pelo Juízo da 5ª Vara Federal da Seção Judiciária do Ceará, que indeferiu o pedido de gratuidade processual em razão do caráter excepcional de sua aplicação às pessoas jurídicas, não tendo a autora demonstrado a precária condição econômica que inviabiliza a litigância sem os benefícios pretendidos.
+2. Sustenta a agravante, em apertada síntese, que: a) agiu em desacerto o Juízo de primeiro grau, quando indeferiu o pleito de gratuidade sumariamente sem antes intimar o autor para comprovar sua hipossuficiência com a juntada de documentação suplementar, notadamente porque desnecessária a condição de miserabilidade para o auferimento do benefício; b) impõe-se o retorno dos autos à origem para que assim seja dada oportunidade de produzir provas; c) devido à crise econômica pela qual atravessa o país, a empresa autora e seus sócios vêm passando por dificuldades financeiras, tendo havido uma enorme queda no faturamento; d) suscita a Súmula 481 do STJ, pela qual "Faz jus ao benefício da justiça gratuita a pessoa jurídica com ou sem fins lucrativos que demonstrar sua impossibilidade de arcar com os encargos processuais"; e) o indeferimento do benefício da justiça gratuita é um óbice ao acesso à justiça, violando-se os preceitos constitucionais, nos termos do art. 5º, XXXV, da CF/1988; f) o processo poderá ser extinto, caso não sejam recolhidas as custas processuais pertinentes ao ingresso da ação; g) pugna para que sejam concedidos os benefícios da assistência da justiça gratuita ou o prazo para produção de provas da sua hipossuficiência; h) pugnou pela atribuição de efeito suspensivo ao presente recurso.
+3. De acordo com remansoso entendimento da Segunda Turma deste TRF da 5ª Região, a concessão do benefício da justiça gratuita à pessoa jurídica reclama efetiva comprovação de sua dificuldade financeira, não sendo suficientes a mera declaração de que não possui condições de arcar com as custas processuais.
+Precedente: TRF5, 2ª T., PJE 0808983-46.2016.4.05.8300, rel. Des. Federal Leonardo Carvalho, data de assinatura: 17/09/2020.
+4. Sobre o tema, o Egrégio STJ pacificou o entendimento de que "faz jus ao benefício da justiça gratuita a pessoa jurídica com ou sem fins lucrativos que demonstrar sua impossibilidade de arcar com os encargos processuais" (Súmula 481).
+5. Na hipótese dos autos, a recorrente anexa aos autos do referido agravo de instrumento a declaração de Imposto de Renda Pessoa Física (IRPF) em nome de Luís Claudio Franca de Oliveira Segundo, referente ao exercício de 2021, ano-calendário 2020, informando rendimentos tributáveis de R$ 42.067,61, caso em que não colacionou demonstrativo ou laudo financeiro, muito menos a avaliação de bens e ativos, aptos a demonstrar o enfrentamento de crise pecuniária hábil à concessão do benefício requerido.
+6. Para demonstrar a alegada hipossuficiência, a empresa recorrente, portanto, acostou, na realidade, elementos referentes a uma pessoa física, não demonstrando, de plano, que seu patrimônio é atualmente insuficiente para arcar com os ônus processuais.
+7. Agravo de instrumento desprovido (e-STJ fls. 114-115).
+Recurso especial: alegam violação do art. 98 do CPC/2015. Pugnam pelo deferimento da gratuidade de justiça, sob o argumento de que a empresa não possui condições financeiras para arcar com as despesas processuais, conforme documentalmente comprovado.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da perda do objeto
+Consoante o entendimento pacífico desta Corte Superior, resta prejudicado, pela perda de objeto, o recurso especial interposto contra acórdão que julgou agravo de instrumento, quando se verifica superveniente prolação de sentença de mérito, tendo em vista ser esta de cognição exauriente (AgRg no REsp 1.485.765/SP, 3ª Turma, DJe 29/10/2015; e AgInt no AREsp 396.382/DF, 4ª Turma, DJe 27/04/2017).
+Na hipótese, verifica-se, em consulta ao sítio eletrônico do TRF - 5ª Região (Processo nº 0807601-26.2022.4.05.8100) que houve, nos autos originários, a prolação de sentença de improcedência da ação, em 08/09/2022, acarretando a perda do objeto do recurso especial.
+Forte nessas razões, JULGO PREJUDICADO o recurso especial, por perda superveniente de objeto, nos termos do art. 34, XI, do RISTJ.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados na instância de origem.
+Previno a agravante que a interposição de recurso contra esta decisão, declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
+DIREITO PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. RECURSO ESPECIAL INTERPOSTO NO BOJO DE AGRAVO DE INSTRUMENTO. SUPERVENIÊNCIA DE SENTENÇA DE MÉRITO. PERDA DO OBJETO.
+1. Ação revisional de contrato bancário.
+2. Consoante o entendimento pacífico desta Corte, resta prejudicado, pela perda de objeto, o recurso especial interposto contra acórdão que julgou agravo de instrumento, quando se verifica superveniente prolação de sentença de mérito, tendo em vista ser esta de cognição exauriente.
+3. Recurso especial prejudicado.
