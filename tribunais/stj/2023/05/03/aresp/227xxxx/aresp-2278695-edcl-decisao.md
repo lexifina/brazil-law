@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pelo MUNICÍPIO DE NATAL contra decisão de e-STJ fls. 1.367/1.370 em que conheci do agravo para conhecer em parte do recurso especial.
+Em suas razões, a parte embargante alega que houve omissão na decisão quanto à alegada necessidade de sobrestamento do feito em razão do Tema 1.169 do STJ. Indica, ainda, erro material, pois teria indicado expressamente os dispositivos federais violados (arts. 1.022, II, e 509, I e II, do CPC/2015), não incidindo o óbice da Súmula 284 do STF.
+Apresentada impugnação (e-STJ fls. 1.416/1.419).
+Passo a decidir.
+O art. 1.024, § 2º, do CPC/2015 prescreve que os embargos de declaração opostos contra decisão de relator ou outra decisão unipessoal proferida em tribunal serão decididos monocraticamente pelo órgão prolator da decisão embargada e, nos termos do art. 1.022 do mesmo diploma, serão admitidos quando houver obscuridade, contradição, omissão ou erro material na decisão.
+Após nova análise processual, provocada pela oposição dos aclaratórios, verifico que o recurso integrativo deve ser acolhido em relação ao erro material, tendo em vista a efetiva indicação de violação do art. 509, I e II do CPC/2015, quanto à tese de necessidade de prévia liquidação antes da execução da sentença proferida em ação coletiva.
+Pois bem.
+Em relação à alegada violação do art. 509 do CPC/2015, registre-se que o presente apelo nobre carece do requisito constitucional do prequestionamento e não foram opostos embargos de declaração a fim de suprir eventual omissão.
+Conquanto não seja exigida a menção expressa do dispositivo de lei federal, a admissibilidade do recurso na instância excepcional pressupõe que a Corte de origem tenha se manifestado sobre a tese jurídica apontada pelo recorrente. Esse é o entendimento pretoriano consagrado na edição da Súmula 211 do STJ, do seguinte teor: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo."
+E, mesmo que superado o óbice da Súmula 211 do STJ, a alteração das conclusões adotadas pela Corte de origem, no sentido da inexequibilidade e inexigibilidade do título, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7 do STJ.
+Ademais, verifica-se que o recurso especial não impugnou o fundamento do acórdão recorrido de que o excesso de execução não foi suscitado no momento oportuno pela parte exequente. Inafastável, assim, o obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+Registre-se que o exame da divergência jurisprudencial fica prejudicada quando a tese sustentada já foi afastada no exame do recurso especial pela alínea "a" do permissivo constitucional.
+Por fim, não há que falar em omissão quanto à alegada necessidade de sobrestamento do feito em razão do Tema 1.169 do STJ, porquanto a matéria dos autos não foi dirimida pelo Tribunal de origem sob o enfoque da tese ali delimitada.
+Nesse contexto, é de rigor o parcial acolhimento dos embargos de declaração pa ra corrigir erro material, sem, contudo, alterar o resultado do julgamento.
+Dito isso, ACOLHO, em parte, os declaratórios apenas para corrigir erro material, sem, contudo, emprestar-lhes efeitos infringentes.
+Publique-se. Intimem-se.
