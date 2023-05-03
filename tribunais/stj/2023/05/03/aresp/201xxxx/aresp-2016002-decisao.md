@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu o recurso especial (com fundamento no art. 105, III, a, da Constituição Federal) apresentado contra o acórdão proferido pelo Tribun al de Justiça de São Paulo (Apelação Criminal n. 1502514-66.2019.8.26.0168), que manteve a sentença que condenou Willian Bruno Rodolpho como incurso no crime de tráfico de drogas, recrudescendo a pena e o regime fixados na sentença.
+Nas razões do recurso especial, a defesa do agravante suscitou violação do art. 33, § 2º, do Código Penal, e do art. 617 do Código de Processo Penal (fls. 315/328).
+A Corte de origem inadmitiu o reclamo com fundamento nas Súmulas 284/STF e 7/STJ (fls. 594/607).
+Contra o decisum a defesa interpôs o presente agravo (fls. 680/691).
+Instado a se manifestar, o Ministério Público Federal opinou pelo não conhecimento do recurso (fls. 731/732).
+É o relatório.
+O agravo preenche os requisitos de admissibilidade, pois é tempestivo e impugnou os fundamentos da decisão de inadmissão.
+Quanto ao recurso especial em si, a insurgência também é admissível, mas, no mérito, não merece acolhida.
+Ao contrário do que alega o agravante, não há falar em reformatio in pejus na majoração da pena-base e no recrudescimento do regime inicial fixado na sentença.
+Ora, nas razões do apelo ministerial, o órgão ministerial manifestou inconformismo claro com a pena fixada e com o regime inicial estabelecido (fls. 436/437 - grifo nosso):
+ ..
+Quanto à pena, considerando e atendendo à culpabilidade dos Réus, não se reveste o fato praticado de reprovabilidade anormal ou exacerbada, tendo o dolo sido regular ao tipo; o Réu Danilo é possuidor de maus antecedentes ao passo que o Réu Willian é primário; a conduta social, não se tem nos autos elementos para aferi-las contrariamente ao interesses dos Réus, pois dizem respeito tão-só à forma com que eles se relacionam com seus pares em seu meio; à personalidade, igualmente não se dispõe de elementos capazes de traduzir a estrutura psíquica dos Réus; aos motivos do crime, não havendo especificação quanto aos motivos que realmente os levaram ao delito, a presunção é de que foi ele motivado pela perspectiva de lucro fácil; as circunstâncias do crime são normais à espécie; e, por fim, não há que se falar em comportamento da vítima, pois o presente delito é um crime contra a saúde pública, tendo como sujeito passivo primário a coletividade, que nada contribuiu para a conduta delituosa; tampouco instigaram os Réu a praticá-la.
+Assim, não há que se considerar estas circunstâncias.
+Contudo, a quantidade da substância não lhes é favorável, nos termos do artigo 44, da Lei 11.434/2006.
+É natural supor que, quanto maior for a quantidade de drogas ilícitas em circulação, maior será o perigo em relação à saúde pública.
+Ademais, quanto mais forte for a droga ilícita, igualmente, mais grave será a consequência em virtude de sua utilização.
+Assim, sugiro a fixação da pena acima do mínimo legal.
+Na segunda fase, presente a circunstância agravante da reincidência específica ao réu Danilo.
+Na terceira etapa, não há causas de aumento ou de diminuição.
+Considerando a culpabilidade dos Réus, conforme antes examinado, nas circunstâncias judiciais do art. 59, do Código Penal e § 3º, do artigo 33, do mesmo Diploma Penal, à luz do artigo 110, da Lei 7.210/84, bem como do artigo 2º, § 1º da Lei 8.072/90, deverão cumprir a pena privativa de liberdade inicialmente em regime FECHADO.
+ ..
+Condição essa mais que suficiente para afastar a alegada violação do art. 617 do CPP, que versa especificamente acerca da proibição de agravar a situação do réu em recurso exclusivo da defesa, circunstância que não se verificou no caso dos autos.
+Nesse sentido, confira-se:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ART. 216-A DO CÓDIGO PENAL. DESCLASSIFICAÇÃO PARA O DISPOSTO NO ART. 215-A DO CÓDIGO PENAL. DESRESPEITO AO PRINCÍPIO DA VEDAÇÃO DA REFORMATIO IN PEJUS. NÃO CONFIGURAÇÃO. EXISTÊNCIA DE RECURSO DA ACUSAÇÃO EM QUE SE PLEITEIA O AGRAVAMENTO DA SITUAÇÃO DO RÉU. AGRAVO REGIMENTAL DESPROVIDO.
+1. O princípio da vedação da reformatio in pejus, presente no art. 617 do Código de Processo Penal, consiste na impossibilidade de a situação do réu ser modificada para pior em decorrência da interposição/oposição de recurso exclusivo da defesa ou da apresentação, também por ela, de meios autônomos de impugnação. Além de consectário do princípio da ampla defesa, corolário do devido processo legal, o dito brocardo consiste em decorrência lógica do sistema acusatório.
+2. In casu, não há que se falar em desrespeito ao dito princípio dada a existência de recurso da acusação em que é expressamente pleiteado o agravamento da situação jurídica do réu.
+3. Não há mácula na decisão do Tribunal de origem que, ao julgar o recurso ministerial, optou por provê-lo em parte para amoldar a conduta do réu ao tipo descrito no art. 215-A do Código Penal (ainda que inserido posteriormente ao fatos narrados na denúncia), porquanto o tipo demonstra ser, no caso em apreço, hipótese de novatio legis in mellius.
+3. Agravo regimental desprovido.
+(AgRg no REsp n. 1.837.784/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 26/11/2019, DJe 5/12/2019 - grifo nosso)
+Acresço, ainda, que o efeito devolutivo do recurso de apelação é amplo e encontra seus limite nas razões apresentadas pelas partes (não apenas no pedido), de modo que, ainda que tais questões não tenham sido replicadas no tópico referente ao pleito final do recurso, é possível ao Tribunal de origem a análise dessas alegações no julgamento do apelo acusatório:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE ENTORPECENTES. PORTE ILEGAL DE ARMA DE FOGO. VIOLAÇÃO AOS ARTIGOS 33, §4º, DA LEI 11.343/06, 599 E 617, AMBOS DO CPP. DOSIMETRIA. TERCEIRA FASE. TRÁFICO PRIVILEGIADO. PLEITO DE MANUTENÇÃO DE PATAMAR FIXADO EM 1º GRAU. ALTERAÇÃO DE FUNDAMENTAÇÃO. ATUAÇÃO DO RÉU COMO TRANSPORTADOR. IMPOSSIBILIDADE. INOVAÇÃO RECURSAL. MATÉRIA NÃO ALEGADA EM MOMENTO OPORTUNO. AGRAVO REGIMENTAL DESPROVIDO.
+I - O efeito devolutivo da apelação encontra limites nas razões expostas pelo recorrente (tantum devolutum quantum appellatum), em respeito ao princípio da dialeticidade que rege os recursos previstos no âmbito do processo penal pátrio, por meio do qual se permite o exercício do contraditório pela parte detentora dos interesses adversos, garantindo-se, assim, o respeito à clausula constitucional do devido processo legal.
+ ..
+Agravo regimental desprovido.
+(AgRg no AREsp n. 2.051.057/PR, relator Ministro Jesuíno Rissato, Desembargador Convocado do TJDFT, Quinta Turma, julgado em 24/5/2022, DJe 31/5/2022 - grifo nosso)
+Também não há falar em ilegalidade no regime inicial de pena fixado (violação do art. 33, § 2º, do Código Penal), pois a existência de circunstância judicial negativa sopesada na primeira fase (quantidade de drogas) é elemento apto a justificar o agravamento do regime inicial de cumprimento:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE ENTORPECENTES. FIXAÇÃO DE REGIME MAIS GRAVOSO. PENA-BASE ACIMA DO MÍNIMO LEGAL. ELEVADA QUANTIDADE DE ENTORPECENTES. FUNDAMENTAÇÃO IDÔNEA. AGRAVO DESPROVIDO.
+1. Nos termos do art. 33, §§ 1º, 2º e 3º, do Código Penal, na fixação do regime inicial de cumprimento de pena, o julgador deverá observar a quantidade da reprimenda aplicada, bem como a eventual existência de circunstâncias judiciais desfavoráveis (art. 59 do Código Penal). Ademais, na esteira da jurisprudência desta Corte, admite-se a imposição de regime prisional mais gravoso do que aquele que permite a pena aplicada, quando apontados elementos fáticos demonstrativos da gravidade concreta do delito.
+2. No caso, as instâncias ordinárias decidiram em consonância com o entendimento pacificado nesta Corte Superior, uma vez que fixaram o regime fechado com base em fundamentação idônea - existência de circunstância judicial desfavorável (maus antecedentes) e elevada quantidade de entorpecentes -, apta a justificar o recrudescimento do regime prisional.
+3. Agravo regimental desprovido.
+(AgRg no REsp n. 2.050.718/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 24/4/2023, DJe 26/4/2023)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. TRÁFICO ILÍCITO DE DROGAS. DOSIMETRIA. EXASPERAÇÃO DA PENA-BASE. EXPRESSIVA QUANTIDADE DE ENTORPECENTES APREENDIDOS. FRAÇÃO DE AUMENTO REDUZIDA NA DECISÃO AGRAVADA PARA 1/2 (METADE). AUSÊNCIA DE DESPROPORCIONALIDADE. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA PREVISTA NO § 4.º DO ART. 33 DA LEI N. 11.343/2006. DEDICAÇÃO DO RÉU À ATIVIDADE CRIMINOSA RECONHECIDA PELAS INSTÂNCIAS ORDINÁRIAS. REVISÃO DO ENTENDIMENTO. NECESSIDADE DE AMPLO REVOLVIMENTO DO CONTEXTO FÁTICO-PROBATÓRIO. INADMISSIBILIDADE. PRESENÇA DE CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. CABÍVEL A MANUTENÇÃO DO REGIME INICIAL MAIS GRAVOSO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Embora o quantum de exasperação da pena-base operado pelas instâncias ordinárias tenha merecido reparo, por se apresentar desproporcional, fica mantida a majoração na primeira fase da dosimetria em razão da grande quantidade de entorpecentes apreendidos, porém na fração de 1/2 (metade), aplicada em casos similares por esta Corte.
+2. O afastamento da minorante prevista no art. 33, § 4.º, da Lei n. 11.343/2006, na espécie, encontra amparo na jurisprudência do Superior Tribunal de Justiça, pois o acórdão impugnado destacou elementos concretos dos autos que indicaram a dedicação do Agravante à atividade criminosa, notadamente a "perícia realizada no local dos fatos, reveladora de estrutura e dedicação ao comércio de drogas". Nessa conjuntura, a revisão do entendimento alcançado pelo Tribunal local exigiria aprofundado reexame probatório, o que não é possível nos estreitos limites do habeas corpus. Precedentes.
+3. Estabelecida a pena definitiva acima de 4 (quatro) anos de reclusão e presente circunstância judicial desfavorável, mostra-se cabível a manutenção do regime inicial fechado, segundo o disposto nos arts. 33, § 2.º, alínea b, e 59, ambos do Código Penal.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 799.789/SP, Ministra Laurita Vaz, Sexta Turma, julgado em 24/4/2023, DJe 28/4/2023 - grifo nosso)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. VIOLAÇÃO DO ART. 617 DO CPP. IMPROCEDÊNCIA. RECRUDESCIMENTO DA PENA E DO REGIME CALCADO NO ACOLHIMENTO DAS RAZÕES DEDUZIDAS NO APELO ACUSATÓRIO. VIOLAÇÃO DO ART. 33, § 2º, DO CP. IMPROCEDÊNCIA. PENA SUPERIOR A 4 ANOS. CIRCUNSTÂNCIA JUDICIAL NEGATIVA SOPESADA NA PRIMEIRA FASE. REGIME FECHADO ADEQUADO. PRECEDENTES DESTA CORTE.
+Agravo conhecido para negar provimento ao recurso especial.
