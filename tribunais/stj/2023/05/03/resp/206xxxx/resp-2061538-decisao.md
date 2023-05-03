@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL com apoio na alínea "a" do permissivo constitucional, mediante o qual se impugna acórdão promanado do Tribunal Regional Federal da 4ª Região assim ementado (e-STJ fl. 41):
+TRIBUTÁRIO. EXECUÇÃO FISCAL. PARCELAMENTO. PRESCRIÇÃO. ART. 174 DO CTN. OCORRÊNCIA. HONORÁRIOS. PRETENSÃO RESISTIDA. CABIMENTO.
+1. Sobre a prescrição, é de cinco anos o prazo para a cobrança do crédito tributário, conforme o artigo 174, do Código Tributário Nacional, contado a partir da sua constituição definitiva.
+2. O parcelamento, consoante exposto no art. 151, VI, do CTN, é causa suspensiva da exigibilidade do crédito tributário. Não obstante, por forçado art. 174, parágrafo único, IV, do CTN e da Súmula nº 248 do extinto TFR, diz-se que o parcelamento interrompe, e não suspende a contagem do lapso prescricional, recomeçando sua contagem, desde o início, quando de seu descumprimento.
+3. Considerando que houve resistência do exequente ao pedido formulado na exceção de pré-executividade, deve a parte exequente arcar com os honorários advocatícios, nos termos do art. 85 do CPC.
+Embargos de declaração rejeitados (e-STJ fls. 69/72).
+No seu recurso especial, a parte aponta violação dos arts. 489, § 1º, e 1.022 do CPC/2015 e do art. 21 da Lei Complementar n. 123/2006.
+Preliminarmente, aduz que o acórdão recorrido padeceria de omissão, pois "nada foi dito sobre o fato dos débitos em execução dizerem respeito ao SIMPLES NACIONAL, nem a especificidade que deve ser observada quanto à caracterização da inadimplência nesses casos: pela Lei Complementar nº 123 e sua regulamentação legal, são necessários 3 meses sem pagamentos para que se fixe o marco final do vencimento, iniciando-se ali o início da contagem do prazo prescrição, nunca antes disso" (e-STJ fls. 82/83).
+No mérito, argumenta que o prazo prescricional para a cobrança do débito somente voltaria a correr depois de escoados três meses sem pagamento das parcelas e não depois de apenas um mês de inadimplência.
+Contrarrazões às e-STJ fls. 98/105.
+Recurso especial admitido (e-STJ fls. 108/109).
+A irresignação merece prosperar.
+Está devidamente caracterizada a omissão.
+Ao reconhecer a ocorrência de prescrição dos créditos tributários, assim se manifestou, o Tribunal de origem (e-STJ fls. 43/44):
+Prescrição para a cobrança do crédito tributário - parcelamento
+No caso dos autos, aplicável o art. 174, I, do CTN, na redação dada pela Lei Complementar nº 118/2005, de forma que o marco interruptivo da prescrição é o despacho do juiz que ordenar a citação.
+Sobre a prescrição, é de cinco anos o prazo para a cobrança do crédito tributário, conforme o artigo 174, do Código Tributário Nacional, contado a partir da sua constituição definitiva.
+O parcelamento, consoante exposto no art. 151, VI, do CTN, é causa suspensiva da exigibilidade do crédito tributário. Não obstante, por força do art. 174, parágrafo único, IV, do CTN e da Súmula nº 248 do extinto TFR, diz-se que o parcelamento interrompe, e não suspende a contagem do lapso prescricional, recomeçando sua contagem, desde o início, quando de seu descumprimento.
+A Súmula nº 248 do extinto TFR explicita que a contagem da prescrição tem seu reinício no momento em que o devedor "deixa de cumprir o acordo celebrado", e não quando o devedor é excluído do programa de parcelamento. Ora, se o termo a quo da recontagem da prescrição dependesse unicamente da exclusão formal do parcelamento, estar-se-ia criando um forte incentivo para que a autoridade fiscal postergasse ao máximo o referido ato, a fim de que todo o interregno que permeia o inadimplemento não pudesse ser utilizado para a contagem da prescrição.
+Caso Concreto
+Controverte-se acerca da eventual ocorrência da prescrição dos créditos consubstanciados na CDA nº 91 4 19 001345-96 para cobrança de débitos com vencimento entre 20/12/2011 e 21/11/2016.
+Quanto ao parcelamento dos débitos, verifica-se que a agravante aderiu ao parcelamento nas datas de 05/01/2012, 30/01/2015 e 18/01/2016, com último pagamento em 31/05/2016.
+A execução foi ajuizada em 08/07/2021, e o despacho citatório proferido na data de 09/07/2021.
+Assim, levando-se em consideração que entre a data do último pagamento efetuado no âmbito do acordo, em 31/05/2016 e a data do ajuizamento do feito, em 08/07/2021, transcorreram mais de cinco anos, resta parcialmente prescrito o crédito executado na CDA nº nº 91 4 19 001345-96,nos termos do art. 174 do CTN, devendo ser extinta a execução fiscal quanto a estes.
+Permanecem hígidos os créditos relativos às competências de 07/2016 a 10/2016.
+Entretanto, permaneceu sem enfrentamento expresso a alegação fazendária de que o prazo prescricional para a cobrança do débito, no caso dos autos, somente voltaria a correr depois de escoados três meses sem pagamento das parcelas e não depois de apenas um mês de inadimplência, em razão de disposição expressa do art. 21 da Lei Complementar n. 123/2006 - lei reguladora do parcelamento em questão.
+Registre-se, em reforço argumentativo, que a tese fazendária apresenta relevância jurídica, uma vez que, segundo jurisprudência desta Corte, "os parcelamentos tributários são regulados, especificamente, pelas leis que os instituem, daí porque há regras diferentes para fins de exclusão do contribuinte " (AgInt nos EDcl no REsp 1.852.645/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 11/02/2021).
+Assim, contrariamente ao que foi decidido no acórdão recorrido, não se pode extrair, do sistema jurídico, regra genérica sobre o momento em que o débito inadimplido, em sede de parcelamento tributário, torna-se novamente exigível via execução fiscal.
+Ante o exposto, com base no art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especial fazendário, para determinar, ao Tribunal de origem, o rejulgamento dos embargos de declaração, opostos pela Fazenda Nacional, com o expresso enfrentamento da alegação de que o prazo prescricional para a cobrança do débito, no caso dos autos, somente voltaria a correr depois de escoados três meses sem pagamento das parcelas e não depois de apenas um mês de inadimplência, em razão de disposição expressa do art. 21 da Lei Complementar n. 123/2006 - lei reguladora do parcelamento em questão.
+Publique-se. Intimem-se.
