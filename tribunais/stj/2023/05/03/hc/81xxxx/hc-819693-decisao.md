@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, impetrado em favor de TATIANE SOUZA MACHADO, impugnando decisão monocrática do Desembargador plantonista proferida no Habeas Corpus n. 2101441-87.2023.8.26.0000, impetrado perante o Tribunal de Justiça de São Paulo.
+Na presente impetração, a defesa sustenta que a paciente faz jus à comutação de pena prevista no art. 1º, § 1º, III, do Decreto n. 8.942/2016, por ser mãe de criança de 10 (dez) anos.
+Defende o cabimento da impetração e a possibilidade de superação do verbete sumular n. 691/STF, por se tratar de decisão manifestamente ilegal e teratológica.
+Esclarece que a paciente foi condenada pelos crimes do art. 171, "caput", (diversas vezes), todos do CP.
+Salienta que, no habeas corpus dirigido ao Tribunal de Justiça, não pleiteou a concessão de prisão domiciliar fulcrada no art. 117, III, da Lei de Execução Penal.
+Pede, ao final, "seja deferida a providência liminar para conceder ao paciente o indulto natalino, expedindo-se alvará de soltura, confirmando-a no mérito, cassando o ato coator" (e-STJ fl. 6).
+É o relatório. Passo a decidir.
+Preliminarmente, cumpre esclarecer que as disposições previstas nos arts. 64, III, e 202, do Regimento Interno do Superior Tribunal de Justiça não afastam do Relator a faculdade de decidir liminarmente, em sede de habeas corpus e de recurso em habeas corpus, a pretensão que se conforma com enunciado de súmula, com jurisprudência consolidada dos Tribunais Superiores ou a contraria (AgRg no HC n. 513.993/RJ, Relator Ministro JORGE MUSSI, Quinta Turma, julgado em 25/6/2019, DJe 1º/7/2019; AgRg no HC n. 475.293/RS, Relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 27/11/2018, Dje 3/12/2018; AgRg no HC 499.838/SP, Relator Ministro JORGE MUSSI, Quinta Turma, julgado em 11/4/2019, DJe 22/4/2019; AgRg no HC n. 426.703/SP, Relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 18/10/2018, DJe 23/10/2018 e AgRg no RHC 37.622/RN, Relatora Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, julgado em 6/6/2013, DJe 14/6/2013).
+Nesse diapasão, uma vez verificado que as matérias trazidas a debate por meio do habeas corpus constituem objeto de jurisprudência consolidada neste Superior Tribunal, não há nenhum óbice a que o Relator conceda a ordem liminarmente, sobretudo ante a evidência de manifesto e grave constrangimento ilegal a que estava sendo submetido o paciente, pois a concessão liminar da ordem de habeas corpus apenas consagra a exigência de racionalização do processo decisório e de efetivação do próprio princípio constitucional da razoável duração do processo, previsto no art. 5º, LXXVIII, da Constituição Federal, o qual foi introduzido no ordenamento jurídico brasileiro pela EC n. 45/2004 com status de princípio fundamental (AgRg no HC n. 268.099/SP, Relator Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 2/5/2013, DJe 13/5/2013).
+Na verdade, a ciência posterior do Parquet que, longe de suplantar sua prerrogativa institucional, homenageia o princípio da celeridade processual e inviabiliza a tramitação de ações cujo desfecho, em princípio, já é conhecido (EDcl no AgRg no HC n. 324.401/SP, Relator Ministro GURGEL DE FARIA, Quinta Turma, julgado em 2/2/2016, DJe 23/2/2016).
+Em suma, para conferir maior celeridade aos habeas corpus e garantir a efetividade das decisões judiciais que versam sobre o direito de locomoção, bem como por se tratar de medida necessária para assegurar a viabilidade dos trabalhos das Turmas que compõem a Terceira Seção, a jurisprudência desta Corte admite o julgamento monocrático do writ antes da ouvida do Parquet em casos de jurisprudência pacífica (AgRg no HC n. 514.048/RS, Relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 6/8/2019, DJe 13/8/2019).
+A presente impetração não autoriza conhecimento.
+Isso porque, muito embora a decisão impugnada, do Juízo plantonista, tenha afirmado que não seria o caso de habeas corpus, haja vista a existência de recurso apropriado, na realidade, a principal manifestação do plantonista foi no sentido de afirmar a incompetência do plantão judiciário para conhecer do pleito, determinando sua distribuição oportuna ao Relator.
+Eis o exato teor da decisão impugnada:
+A questão evidentemente não se submete à competência do Plantão Judiciário.
+Aliás, sequer é caso de Habeas Corpus, haja vista a existência de recurso apropriado.
+De resto, vejo que recente decisão, proferida em primeiro grau, indeferiu prisão domiciliar à paciente.
+Não conheço, pois, do pedido.
+Distribua-se, oportunamente.
+(e-STJ fl. 72 - negritei)
+Forçoso, concluir, portanto, que cabe ao Relator do Habeas Corpus n. 2101441-87.2023.8.26.0000 deliberar sobre o pedido da defesa, o que ainda não ocorreu, pelo que se vê do andamento do feito no site do Tribunal de Justiça de São Paulo.
+Sem manifestação do Relator sobre a possibilidade de concessão do indulto à paciente, não há como esta Corte se manifestar sobre o tema, sob pena de indevida supressão de instância.
+Observo, ademais, que a defes a da paciente não trouxe aos autos a decisão do Juízo de Execução da Vara de Execuções Penais de Campinas/SP - DEECRIM 4ª RAJ (Execução Penal n. 0001443-32.2023.8.26.0502) sobre a questão.
+Ante o exposto, com amparo no art. 34, XX, do Regimento Interno do STJ, não conheço do habeas corpus.
+Intimem-se.
