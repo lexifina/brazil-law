@@ -1,0 +1,678 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 14
+
+03/05/2023
+
+PLENÁRIO
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.415.363
+BAHIA
+RELATORA
+AGTE.(S)
+PROC.(A/S)(ES)
+AGDO.(A/S)
+ADV.(A/S)
+INTDO.(A/S)
+PROC.(A/S)(ES)
+
+: MINISTRA PRESIDENTE
+: FUNDAÇÃO NACIONAL DE SAÚDE - FUNASA
+: PROCURADOR-GERAL FEDERAL
+: CARLOS HENRIQUE BISPO DE SANTANA
+: LEONARDO DA COSTA
+: UNIÃO
+: ADVOGADO -GERAL DA UNIÃO
+
+EMENTA
+DIREITO ADMINISTRATIVO. RESPONSABILIDADE CIVIL DO
+ESTADO. INDENIZAÇÃO POR DANOS MORAIS. NEXO DE
+CAUSALIDADE. COMPREENSÃO DIVERSA. REELABORAÇÃO DA
+MOLDURA FÁTICA. PROCEDIMENTO VEDADO NA INSTÂNCIA
+EXTRAORDINÁRIA. AGRAVO NÃO PROVIDO.
+1. A controvérsia, conforme já asseverado na decisão guerreada, não
+alcança estatura constitucional. Não há falar em afronta aos preceitos
+constitucionais indicados nas razões recursais. Compreensão diversa
+demandaria a reelaboração da moldura fática a tornar oblíqua e reflexa
+eventual ofensa à Constituição, insuscetível, como tal, de viabilizar o
+conhecimento do recurso extraordinário. Desatendida a exigência do art.
+102, III, “a”, da Lei Maior, nos termos da jurisprudência desta Suprema
+Corte.
+2. As razões do agravo interno não se mostram aptas a infirmar os
+fundamentos que lastrearam a decisão agravada.
+3. A teor do art. 85, § 11, do CPC, o “tribunal, ao julgar recurso,
+majorará os honorários fixados anteriormente levando em conta o trabalho
+adicional realizado em grau recursal, observando, conforme o caso, o disposto nos
+§§ 2º a 6º, sendo vedado ao tribunal, no cômputo geral da fixação de honorários
+devidos ao advogado do vencedor, ultrapassar os respectivos limites estabelecidos
+nos §§ 2º e 3º para a fase de conhecimento”.
+4. Agravo interno conhecido e não provido.
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 572C-B2A9-D1C8-ED50 e senha 86BD-6E4D-E8EA-EF75
+
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 2 de 14
+
+ARE 1415363 AGR / BA
+
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros do
+Supremo Tribunal Federal em conhecer do agravo e negar-lhe
+provimento, nos termos do voto da Relatora e por unanimidade de votos,
+em sessão virtual do Pleno de 21 de abril a 2 de maio de 2023, na
+conformidade da ata do julgamento.
+Brasília, 3 de maio de 2023.
+Ministra Rosa Weber
+Presidente
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 572C-B2A9-D1C8-ED50 e senha 86BD-6E4D-E8EA-EF75
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 3 de 14
+
+03/05/2023
+
+PLENÁRIO
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.415.363
+BAHIA
+RELATORA
+AGTE.(S)
+PROC.(A/S)(ES)
+AGDO.(A/S)
+ADV.(A/S)
+INTDO.(A/S)
+PROC.(A/S)(ES)
+
+: MINISTRA PRESIDENTE
+: FUNDAÇÃO NACIONAL DE SAÚDE - FUNASA
+: PROCURADOR-GERAL FEDERAL
+: CARLOS HENRIQUE BISPO DE SANTANA
+: LEONARDO DA COSTA
+: UNIÃO
+: ADVOGADO -GERAL DA UNIÃO
+RELATÓRIO
+
+A Senhora Ministra Rosa Weber (Presidente): Trata-se de agravo
+interno manejado contra decisão da Presidência desta Suprema Corte
+pela qual negado seguimento ao recurso, ao fundamento de que
+compreensão diversa do entendimento do acórdão recorrido demandaria
+o reexame de fatos e provas dos autos.
+A matéria debatida, em síntese, diz com indenização por dano moral
+decorrente de alegada contaminação por produtos químicos em razão de
+exposição no exercício das funções laborais no combate a endemias.
+A agravante ataca a decisão impugnada ao argumento de que a
+violação dos preceitos da Constituição Federal se dá de forma direta.
+Reitera a afronta ao art. 37, § 6º, da Constituição Federal.
+O Tribunal de Regional Federal da 1ª Região julgou a controvérsia
+em decisão cuja ementa reproduzo:
+“PROCESSUAL
+CIVIL.
+ADMINISTRATIVO.
+PROCEDIMENTO
+ORDINÁRIO.
+RESPONSABILIDADE
+CIVIL.
+CONTAMINAÇÃO
+DECORRENTE
+DE
+MANIPULAÇÃO DE INSETICIDA. DANOS MORAIS
+RECONHECIDOS.
+CONTAMINAÇÃO
+COMPROVADA.
+VALOR DA INDENIZAÇÃO
+DEVIDA.
+CORREÇÃO
+MONETÁRIA E JUROS MORATÓRIOS. OBSERVÂNCIA DAS
+DECISÕES DO SUPREMO TRIBUNAL FEDERAL (RE 870.947)
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código B86C-04E2-3A8C-C7CE e senha 8700-4CF4-6B06-6770
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 4 de 14
+
+ARE 1415363 AGR / BA
+E DO SUPERIOR TRIBUNAL DE JUSTIÇA EM REGIME DE
+RECURSO REPETITIVO (RESP 1.495.144/RS). PRESCRIÇÃO
+QUINQUENAL
+AFASTADA.
+VALOR
+DA
+CAUSA.
+ALTERAÇÃO.
+JUSTIÇA
+GRATUITA.
+ESTADO
+DE
+HIPOSSUFICIÊNCIA
+FINANCEIRA
+CARACTERIZADO.
+SENTENÇA REFORMADA. HONORÁRIOS RECURSAIS.
+(ART. 85, § 11, DO CPC). CABIMENTO. I – Afigura-se incorreto
+o valor da causa definido pelo juízo monocrático, eis que não
+guardou imediata correspondência com o proveito econômico
+passível de ser auferido pelo demandante. Precedentes do
+colendo STJ. Prospera, pois, no particular, a pretensão recursal
+deduzida, restando o valor da causa alterado para o montante
+de R$ 96.000,00 (noventa e seis mil reais). II - Para obtenção dos
+benefícios da Assistência Judiciária Gratuita (Lei nº 1.060/50),
+presume-se o estado de pobreza, mediante simples afirmação
+da parte interessada, na petição inicial, de próprio punho ou
+por intermédio de procurador legalmente constituído, e desde
+que não provado o contrário. III – Na espécie dos autos,
+consoante informações contidas na petição inicial, o
+demandante exerceu, desde ingresso na Superintendência de
+Campanhas de Saúde Pública – SUCAM, ocorrido em
+13/01/1984, a função de Guarda de Endemias/Agente de Saúde
+Pública, manuseando inseticidas e pesticidas empregados no
+controle de pragas e insetos nocivos. Posteriormente, passou a
+integrar o quadro de pessoal da FUNASA, em razão do quanto
+disposto na Lei 8.029/90 e Decreto nº 100/91, sendo que, desde
+29/06/2010, o demandante foi redistribuído, ex officio, do
+Quadro de Pessoal Permanente da Fundação Nacional de Saúde
+para o Ministério da Saúde, por força da Portaria nº 1.659/2010,
+órgão no qual permaneceu exercendo as suas funções, até, ao
+menos, o momento da propositura da presente exordial,
+ocorrido em 2016. Portanto, a FUNASA e a União Federal
+possuem legitimidade para figurarem no polo passivo da
+presente lide. IV – No caso em exame, busca-se o pagamento de
+indenização por dano moral, decorrente da alegada
+contaminação pela substância diclorodifeniltricloretano – DDT
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código B86C-04E2-3A8C-C7CE e senha 8700-4CF4-6B06-6770
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 5 de 14
+
+ARE 1415363 AGR / BA
+e outros produtos químicos correlatos que passaram a
+substituir o DDT, em virtude de exposição do autor durante o
+exercício de suas funções laborais no Programa do Combate de
+Endemias, sem o uso de equipamento de proteção individual. V
+- A orientação jurisprudencial já sedimentada no âmbito do
+colendo Superior Tribunal de Justiça, inclusive, pelo sistema de
+recursos repetitivos, é no sentido de que ‘nas ações de
+indenização por danos morais, em razão de sofrimento ou
+angústia experimentados pelos agentes de combate a endemias
+decorrentes da exposição desprotegida e sem orientação ao
+dicloro-difenil-tricloroetano - DDT, o termo inicial do prazo
+prescricional é o momento em que o servidor tem ciência dos
+malefícios que podem surgir da exposição, não devendo ser
+adotado como marco inicial a vigência da Lei nº 11.936/09, cujo
+texto não apresentou justificativa para a proibição da substância
+e nem descreveu eventuais malefícios causados pela exposição
+ao produto químico.’ (REsp 1809204/DF, Rel. Ministro MAURO
+CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em
+10/02/2021, DJe 24/02/2021). VI - Na hipótese dos autos, o exame
+laboratorial que constatou a presença de DDT, ou outro
+produto tóxico correlato, no sangue do autor, apto a comprovar
+a ciência da contaminação decorrente do manuseio do DicloroDifenilTricloroetano (DDT) ou outro inseticida, foi concluído
+em 29/06/2017, ocasião em que indubitavelmente o autor teve
+ciência da sua contaminação decorrente da atividade laboral
+que exercia, não havendo que se falar, pois em prescrição, eis
+que tal exame foi realizado posteriormente ao ajuizamento da
+presente demanda. VII – Conforme entendimento do colendo
+Superior Tribunal de Justiça sobre a matéria, ‘se já se poderia
+cogitar de dano moral pelo simples conhecimento de que esteve
+exposto a produto nocivo, o sofrimento psíquico surge
+induvidosamente a partir do momento em que se tem laudo
+laboratorial apontando a efetiva contaminação do próprio corpo
+pela substância.’ (REsp 1684797/RO, Rel. Ministro HERMAN
+BENJAMIN, SEGUNDA TURMA, julgado em 03/10/2017, DJe
+11/10/2017) VIII – Devidamente comprovado, como no caso dos
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código B86C-04E2-3A8C-C7CE e senha 8700-4CF4-6B06-6770
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 6 de 14
+
+ARE 1415363 AGR / BA
+autos, a contaminação do autor decorrente da manipulação de
+inseticida, ainda que não seja possível afirmar que ele sofre
+‘males físicos e/ou psíquicos decorrentes da manipulação,
+desprotegida e sem treinamento adequado, do DDT em suas
+atividades, com certeza sofreu [sofreram] (...), no mínimo, a
+angústia causada pela contaminação e pelo pânico produzido
+em torno da questão, com reflexo em suas relações sociais, a
+começar
+pelas
+relações
+familiares’
+(AC
+001528687.2004.4.01.3500 / GO, Rel. DESEMBARGADOR FEDERAL
+JOÃO BATISTA MOREIRA, QUINTA TURMA, e-DJF1 p.56 de
+19/09/2013), passível de reparação por danos morais, tendo em
+Documento assinado digitalmente conforme MP n° 2.200-2/2001
+de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.
+asp sob o código 35E0-0E1A-2765-1FFA e senha 24B6-BC5A14A5-B8B9 ARE 1415363 / BA 4 vista a comprovação da
+contaminação no sangue do autor, em razão da realização de
+atividade laboral no combate a endemias. IX – Na fixação do
+valor da indenização por danos morais inexiste parâmetro legal
+definido para o seu arbitramento, devendo ser quantificado
+segundo os critérios de proporcionalidade, moderação e
+razoabilidade, submetidos ao prudente arbítrio judicial, com
+observância das peculiaridades inerentes aos fatos e
+circunstâncias que envolvem o caso concreto. Portanto, o
+quantum da reparação não pode ser ínfimo, para não
+representar uma ausência de sanção efetiva ao ofensor, nem
+excessivo, para não constituir um enriquecimento sem causa em
+favor do ofendido. Em sendo assim, mostra-se razoável e
+adequado o valor de R$ 3.000,00 (três mil reais), por ano de
+exposição desprotegida aos pesticidas, a exemplo do DDT. X Correção monetária a partir do arbitramento, ou seja, da data
+da prolação deste julgado (Súmula nº 362 do STJ) e juros de
+mora a partir do evento danoso (Súmula nº 54 do STJ).
+Precedente. XI - Na espécie, há de se reconhecer que a correção
+monetária e os juros de mora devem incidir na condenação
+imposta por esta egrégia Corte Federal, de acordo com os
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código B86C-04E2-3A8C-C7CE e senha 8700-4CF4-6B06-6770
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 7 de 14
+
+ARE 1415363 AGR / BA
+seguintes encargos: (a) até dezembro/2002: juros de mora de
+0,5% ao mês; correção monetária de acordo com os índices
+previstos no Manual de Cálculos da Justiça Federal, com
+destaque para a incidência do IPCA-E a partir de janeiro/2001;
+(b) no período posterior à vigência do CC/2002 e anterior à
+vigência da Lei 11.960/2009: juros de mora correspondentes à
+taxa SELIC, vedada a cumulação com qualquer outro índice; (c)
+período posterior à vigência da Lei 11.960/2009: juros de mora
+segundo o índice de remuneração da caderneta de poupança;
+correção monetária com base no IPCA-E. Precedentes. XII –
+Apelação provida para julgar procedente o pedido de
+indenização por danos morais, conceder os benefícios da
+Assistência Judiciária Gratuita e acolher o pedido de alteração
+do valor da causa. Sentença reformada. Invertido o ônus da
+sucumbência. XIII – Honorários advocatícios em desfavor das
+promovidas (FUNASA e União Federal), arbitrados na sentença
+monocrática em valor correspondente a 10% (dez por cento)
+sobre o valor da condenação, restam majorados em 2% (dois
+por cento), nos termos do § 11, do art. 85, do CPC, perfazendo o
+montante correspondente a 12% (doze por cento) sobre o
+referido valor da condenação.”
+
+Intimada, a parte recorrida não apresentou contraminuta.
+É o relatório.
+
+5
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código B86C-04E2-3A8C-C7CE e senha 8700-4CF4-6B06-6770
+
+Supremo Tribunal Federal
+Voto - MINISTRA PRESIDENTE
+
+Inteiro Teor do Acórdão - Página 8 de 14
+
+03/05/2023
+
+PLENÁRIO
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.415.363
+BAHIA
+VOTO
+A Senhora Ministra Rosa Weber (Presidente): Preenchidos os
+pressupostos genéricos, conheço do agravo interno e passo ao exame do
+mérito.
+Transcrevo o teor da decisão que desafiou o agravo:
+“[...]
+No recurso extraordinário sustenta-se violação do(s) art.(s)
+37, § 6º, da Constituição Federal.
+Decido.
+Analisados os autos, verifica-se que, para ultrapassar o
+entendimento do Tribunal de origem, seria necessário
+reexaminar os fatos e as provas dos autos, o que não é cabível
+em sede de recurso extraordinário. Incidência da Súmula 279
+desta Corte. Sobre o tema, a propósito:
+‘DIREITO ADMINISTRATIVO. PROCEDIMENTO
+CIRÚRGICO. URGÊNCIA NÃO DEMONSTRADA.
+RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A
+ÉGIDE DO CPC/2015. ALEGAÇÃO DE OFENSA AOS
+ARTS. 1º, III, 5º, CAPUT, I, V e X, 6º, 37, § 6º, 194,
+PARÁGRAFO ÚNICO, I, 195, 196, 197 e 198, § 1º, DA
+CONSTITUIÇÃO
+DA
+REPÚBLICA.
+EVENTUAL
+VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA
+REPÚBLICA
+NÃO
+VIABILIZA
+O
+RECURSO
+EXTRAORDINÁRIO. REELABORAÇÃO DA MOLDURA
+FÁTICA. PROCEDIMENTO VEDADO NA INSTÂNCIA
+EXTRAORDINÁRIA. AGRAVO MANEJADO SOB A
+VIGÊNCIA DO CPC/2015. 1. A controvérsia, a teor do já
+asseverado na decisão guerreada, não alcança estatura
+constitucional. Não há falar em afronta aos preceitos
+constitucionais
+indicados
+nas
+razões
+recursais.
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código B867-CE3E-24FF-A302 e senha 78AE-A386-3253-58F2
+
+Supremo Tribunal Federal
+Voto - MINISTRA PRESIDENTE
+
+Inteiro Teor do Acórdão - Página 9 de 14
+
+ARE 1415363 AGR / BA
+Compreensão diversa demandaria a reelaboração da
+moldura fática, a tornar oblíqua e reflexa eventual ofensa à
+Constituição, insuscetível, como tal, de viabilizar o
+conhecimento do recurso extraordinário. Desatendida a
+exigência do art. 102, III, ‘a’, da Lei Maior, nos termos da
+remansosa jurisprudência desta Suprema Corte. 2. As
+razões do agravo não se mostram aptas a infirmar os
+fundamentos que lastrearam a decisão agravada,
+mormente no que se refere à ausência de ofensa a preceito
+da Constituição da República. 3. Agravo interno
+conhecido e não provido’ (ARE nº 1.141.648/SP-AgR,
+Primeira Turma Rel. Min. Rosa Weber, DJe de 11/10/18).
+‘DIREITO
+ADMINISTRATIVO.
+RESPONSABILIDADE CIVIL. CEMITÉRIO MUNICIPAL.
+VIOLAÇÃO DE SEPULTURA. FURTO DE PEÇAS.
+DANOS
+MATERIAIS
+COMPROVADOS.
+DANOS
+MORAIS. CONFIGURAÇÃO. RESPONSABILIDADE
+SOLIDÁRIA.
+RECURSO
+EXTRAORDINÁRIO
+INTERPOSTO SOB A ÉGIDE DO CPC/2015. ALEGAÇÃO
+DE OFENSA AO ART. 37, § 6º, DA CONSTITUIÇÃO DA
+REPÚBLICA.
+REELABORAÇÃO
+DA
+MOLDURA
+FÁTICA. PROCEDIMENTO VEDADO NA INSTÂNCIA
+EXTRAORDINÁRIA. AGRAVO MANEJADO SOB A
+VIGÊNCIA DO CPC/2015. 1. O entendimento assinalado
+na decisão agravada não diverge da jurisprudência
+firmada no Supremo Tribunal Federal. Compreensão
+diversa demandaria a reelaboração da moldura fática
+delineada no acórdão de origem, a tornar oblíqua e reflexa
+eventual ofensa à Constituição, insuscetível, como tal, de
+viabilizar o conhecimento do recurso extraordinário. 2. As
+razões do agravo não se mostram aptas a infirmar os
+fundamentos que lastrearam a decisão agravada,
+mormente no que se refere à ausência de ofensa a preceito
+da Constituição da República. 3. Majoração em 10% (dez
+por cento) dos honorários anteriormente fixados,
+obedecidos os limites previstos no artigo 85, §§ 2º, 3º e 11,
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código B867-CE3E-24FF-A302 e senha 78AE-A386-3253-58F2
+
+Supremo Tribunal Federal
+Voto - MINISTRA PRESIDENTE
+
+Inteiro Teor do Acórdão - Página 10 de 14
+
+ARE 1415363 AGR / BA
+do CPC/2015, ressalvada eventual concessão do benefício
+da gratuidade da Justiça. 4. Agravo interno conhecido e
+não provido, com aplicação da penalidade prevista no art.
+1.021, § 4º, do CPC/2015, calculada à razão de 1% (um por
+cento) sobre o valor atualizado da causa, se unânime a
+votação’ (ARE nº 1.139.919/MG-AgR, Primeira Turma, Rel.
+Min. Rosa Weber, DJe de 17/9/18).
+‘AGRAVO
+REGIMENTAL
+EM
+RECURSO
+EXTRAORDINÁRIO COM AGRAVO. INTERPOSIÇÃO
+EM
+19.10.2017.
+DIREITO
+ADMINISTRATIVO.
+RESPONSABILIDADE CIVIL DO ESTADO. OMISSÃO.
+INDENIZAÇÃO.
+DANOS
+DECORRENTES
+DE
+AGRESSÃO OCORRIDA EM LOCAL DE TRABALHO.
+SÚMULA 279 DO STF. 1. É inadmissível o extraordinário
+quando para se chegar a conclusão diversa daquela a que
+chegou o Tribunal de origem, exija-se o reexame das
+provas dos autos. Incidência da Súmula 279 do STF. 2.
+Agravo regimental a que se nega provimento, com
+aplicação da multa prevista no art. 1.021, §4º, do CPC.
+inaplicável o § 11 do art. 85 do CPC, face à inexistência de
+fixação de honorários anteriormente’ (ARE nº
+1.037.498/GO-AgR, Segunda Turma, Rel. Min. Edson
+Fachin, DJe de 7/5/18).
+‘DIREITO
+ADMINISTRATIVO.
+AGRAVO
+REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM
+AGRAVO.
+RESPONSABILIDADE
+OBJETIVA
+DO
+ESTADO. VERIFICAÇÃO DA EXISTÊNCIA DOS
+ELEMENTOS CONFIGURADORES. SÚMULA 279/STF. 1.
+A resolução da controvérsia demandaria o reexame dos
+fatos e do material probatório constantes nos autos, o que
+é vedado em recurso extraordinário. Incidência da Súmula
+279/STF. 2. Ausência de argumentos capazes de infirmar a
+decisão agravada. 3. A alegação formulada no agravo
+envolve ofensa reflexa à Constituição. 4. Agravo
+regimental a que se nega provimento’ (ARE nº 803.808/DFAgR, Primeira Turma, Rel. Min. Roberto Barroso, DJe de
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código B867-CE3E-24FF-A302 e senha 78AE-A386-3253-58F2
+
+Supremo Tribunal Federal
+Voto - MINISTRA PRESIDENTE
+
+Inteiro Teor do Acórdão - Página 11 de 14
+
+ARE 1415363 AGR / BA
+21/3/18).
+Ante o exposto, nego seguimento ao recurso (alínea c do
+inciso V do art. 13 do Regimento Interno do Supremo Tribunal
+Federal).
+Havendo prévia fixação de honorários advocatícios pelas
+instâncias de origem, seu valor monetário será majorado em
+10% (dez por cento) em desfavor da parte recorrente, nos
+termos do art. 85, § 11, do Código de Processo Civil, observado
+os limites dos §§ 2º e 3º do referido artigo e a eventual
+concessão de justiça gratuita.”
+
+Irrepreensível a decisão agravada.
+As razões do agravo não se mostram aptas a infirmar os
+fundamentos que lastrearam a decisão agravada, a inviabilizar o trânsito
+do recurso extraordinário.
+Colhe-se do acórdão recorrido:
+“[...] a verificação do dano moral, decorrente da exposição
+desprotegida a pesticidas em campanhas de saúde pública,
+depende de instrução probatória mínima, na qual se assegure
+ao demandante a possibilidade de comprovar a presença de
+DDT em seu organismo, ainda que não desenvolvida qualquer
+doença relacionada.
+Com efeito, não há dúvida de que se já se poderia cogitar
+de dano moral pelo simples conhecimento de que esteve
+exposto a produto nocivo. Entretanto, o sofrimento psíquico
+surge induvidosamente a partir do momento em que se tem
+laudo laboratorial apontando a efetiva contaminação do corpo
+pela substância nociva, em qualquer grau de contaminação.
+[...]
+Na hipótese dos autos, o autor apresentou o exame
+laboratorial realizado pelo Centro de Assistência Toxicológica
+(Ceatox), da Unesp, indicando a presença de inseticidas do
+Grupo Organoclorado pp’-DDD (Metabólitos do DDT) no
+organismo do autor, a razão de 1,2 ppb (partes por bilhão),
+deixando clara, conforme nova regulamentação de que trata a
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código B867-CE3E-24FF-A302 e senha 78AE-A386-3253-58F2
+
+Supremo Tribunal Federal
+Voto - MINISTRA PRESIDENTE
+
+Inteiro Teor do Acórdão - Página 12 de 14
+
+ARE 1415363 AGR / BA
+matéria (Portaria nº 24, de 24/07/1994, a qual conferiu novos
+parâmetros para controle biológico da exposição ocupacional a
+alguns agentes químicos, suprimindo totalmente os valores de
+referência anteriormente fixados para o DDT, por exemplo,
+antes constante no seu Anexo II da NR-7), a contaminação do
+postulante pelo uso e manuseio de pesticidas e também porque
+demonstrados os demais pressupostos da responsabilidade
+civil do Estado. Assim, muito embora o autor, eventualmente,
+não sofra de patologias relacionadas à atividade laboral
+mencionada, entendo que faz jus a mencionada indenização por
+dano moral, isso porque, se não sofre de males físicos e/ou
+psíquicos decorrentes da manipulação, desprotegida e sem
+treinamento adequado pelo manuseio de produtos tóxicos,
+como o DDT, em suas atividades laborais, com certeza sofreu e
+continua sofrendo, no mínimo, a angústia causada pela
+contaminação e pelo pânico produzido em torno da questão,
+com reflexo em suas relações sociais, a começar pelas relações
+familiares, em casos que tais. [...]”
+
+Desse modo, conforme consignado na decisão agravada,
+compreensão diversa do entendimento adotado pelo Tribunal de origem
+demandaria a reelaboração da moldura fática delineada no acórdão
+recorrido, procedimento vedado em sede extraordinária. Aplicação da
+Súmula nº 279/STF: “para simples reexame de prova não cabe recurso
+extraordinário”. Nesse sentido:
+“AGRAVO
+INTERNO
+NO
+RECURSO
+EXTRAORDINÁRIO
+COM
+AGRAVO.
+DIREITO
+ADMINISTRATIVO.
+RESPONSABILIDADE
+CIVIL
+DO
+ESTADO.
+ACIDENTE
+RADIOATIVO.
+CÉSIO
+137.
+INTERDIÇÃO DE ESTABELECIMENTO. INDENIZAÇÃO POR
+DANOS MATERIAIS. OFENSA REFLEXA. FATOS E PROVAS.
+REEXAME. IMPOSSIBILIDADE. PRECEDENTES. AGRAVO
+INTERNO DESPROVIDO. 1. O recurso extraordinário é
+instrumento de impugnação de decisão judicial inadequado
+para a valoração e exame minucioso do acervo fático-probatório
+
+5
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código B867-CE3E-24FF-A302 e senha 78AE-A386-3253-58F2
+
+Supremo Tribunal Federal
+Voto - MINISTRA PRESIDENTE
+
+Inteiro Teor do Acórdão - Página 13 de 14
+
+ARE 1415363 AGR / BA
+engendrado nos autos, ex vi da Súmula 279 do STF. 2. Agravo
+interno desprovido, com imposição de multa de 5% (cinco por
+cento) do valor atualizado da causa (artigo 1.021, § 4º, do CPC),
+caso seja unânime a votação. 3. Honorários advocatícios
+majorados ao máximo legal em desfavor da parte recorrente,
+caso as instâncias de origem os tenham fixado, nos termos do
+artigo 85, § 11, do Código de Processo Civil, observados os
+limites dos §§ 2º e 3º e a eventual concessão de justiça gratuita”
+(ARE 1391887 AgR, Rel. Min. Luiz Fux (Presidente), Tribunal
+Pleno, julgado em 05.9.2022, PROCESSO ELETRÔNICO DJe182 DIVULG 12.9.2022 PUBLIC 13.9.2022).
+“SEGUNDO AGRAVO REGIMENTAL NO RECURSO
+EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL.
+APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL
+NA ORIGEM: INEXISTÊNCIA DE PREVISÃO LEGAL DE
+RECURSO OU AÇÃO JUDICIAL NO SUPREMO TRIBUNAL
+FEDERAL.
+RESPONSABILIDADE
+DO
+ESTADO.
+CONTROVÉRSIA SOBRE OCORRÊNCIA DE NEXO DE
+CAUSALIDADE. IMPOSSIBILIDADE DE REEXAME DO
+CONJUNTO FÁTICO-PROBATÓRIO: SÚMULA N. 279 DO
+SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL
+AO QUAL SE NEGA PROVIMENTO” (ARE 1159165 AgRsegundo, Rel. Min. Cármen Lúcia, 1ª Turma, julgado em
+04.4.2022, PROCESSO ELETRÔNICO DJe-067
+DIVULG
+05.4.2022 PUBLIC 06.4.2022).
+
+Honorários advocatícios majorados em 10% (dez por cento), em
+desfavor da parte recorrente, caso fixada a verba honorária na origem,
+observados os limites previstos nos §§ 2º, 3º e 11 do art. 85 do CPC, bem
+como a eventual concessão do benefício da gratuidade da Justiça.
+Agravo interno conhecido e não provido.
+É como voto.
+
+6
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código B867-CE3E-24FF-A302 e senha 78AE-A386-3253-58F2
+
+Supremo Tribunal Federal
+Extrato de Ata - 03/05/2023
+
+Inteiro Teor do Acórdão - Página 14 de 14
+
+PLENÁRIO
+EXTRATO DE ATA
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.415.363
+PROCED. : BAHIA
+RELATORA : MINISTRA PRESIDENTE
+AGTE.(S) : FUNDAÇÃO NACIONAL DE SAÚDE - FUNASA
+PROC.(A/S)(ES) : PROCURADOR-GERAL FEDERAL (00000/DF)
+AGDO.(A/S) : CARLOS HENRIQUE BISPO DE SANTANA
+ADV.(A/S) : LEONARDO DA COSTA (3584/AC, 1644-A/AP, 46141/BA,
+25133-A/CE, 39232/DF, 138027/MG, 138027/MG, 18841-A/PB, 01565/PE,
+23493/PR, 902-A/RN, 5549/RO, 94731A/RS, 854A/SE)
+INTDO.(A/S) : UNIÃO
+PROC.(A/S)(ES) : ADVOGADO-GERAL DA UNIÃO
+Decisão: O Tribunal, por unanimidade, conheceu do agravo e
+negou-lhe provimento, nos termos do voto da Relatora, Ministra
+Rosa Weber (Presidente). Plenário, Sessão Virtual de 21.4.2023 a
+2.5.2023.
+Composição: Ministros Rosa Weber (Presidente), Gilmar Mendes,
+Cármen Lúcia, Dias Toffoli, Luiz Fux, Roberto Barroso, Edson
+Fachin, Alexandre de Moraes, Nunes Marques e André Mendonça.
+
+Carmen Lilian Oliveira de Souza
+Assessora-Chefe do Plenário
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 33FB-36AE-2D70-5471 e senha 24A2-DE41-2B59-A6CA
