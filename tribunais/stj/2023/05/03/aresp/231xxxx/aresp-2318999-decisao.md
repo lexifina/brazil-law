@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de agravo apresentado por SERGIO PATRICIO VALENTE contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO TOCANTINS, assim resumido:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. PENHORA. ÚNICO IMÓVEL DO EXECUTADO. BEM DE FAMÍLIA. LOCAÇÃO. INAFASTABILIDADE DO BENEFÍCIO. EXEGESE DO ENUNCIADO DA SÚMULA 486 DO SUPERIOR TRIBUNAL DE JUSTIÇA. ÚNICA FONTE DE RENDA E SUSTENTO DO DEVEDOR. PRESUNÇÃO RELATIVA NÃO AFASTADA. IMPENHORABILIDADE DECLARADA. RECURSO CONHECIDO E PROVIDO. DECISÃO REFORMADA.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 5º da Lei nº 8.009/90, no que concerne à penhorabilidade do imóvel objeto da lide, pois não era utilizado como moradia permanente ou habitual da parte recorrida, tampouco o aluguel recebido é revertido para seu sustento, trazendo a seguinte argumentação:
+Como se sabe são requisitos para que um imóvel seja reconhecido como bem de família: (a) seja residencial; (b) utilizado para residência da família; (c) incidência sobre um único bem.
+Sendo que tais requisitos obrigatórios é de responsabilidade do devedor, e não do credor ora Recorrente. Aliás, destaca-se que a própria Recorrida admite não residir no imóvel penhorado de forma permanente.
+ ..
+Veja que se trata de execução de crédito alimentar, em que a própria devedora dera em pagamento o imóvel. De pronto já se identificam duas exceções a impenhorabilidade do bem, a saber: (a) crédito alimentar (L. 8.009/90, art. 3º, III); (b) bem ofertado pelo proprietário.
+ ..
+Evidente o bem não é a moradia da Recorrida, ponto que deve ser revalorado por este Tribunal. De modo que a tese recursal é abraçada pela jurisprudência, no sentido de afastar o óbice da impenhorabilidade do bem vindicado.
+ ..
+Emerge dos autos que a Recorrida em evidente descompasso com o princípio nemo venire contra factum proprium, a significar que adota comportamento contraditório, num momento transferindo a propriedade de 50% do bem ao Recorrente e, no instante seguinte, arguindo a impenhorabilidade do mesmo bem.
+ ..
+Ora o imóvel não é utilizado para moradia habitual e permanente da família, tampouco o aluguel é revertido para o sustento da Recorrida, em verdade esta tem locupletado indevidamente de 50% dos alugueis do Suplicante, quando a administração do bem passou a ser inteiramente da demandada. (fls. 554/559).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+A qualidade de bem de família decorre da aplicação da Lei nº 8009/1990.
+No caso vertente, restou devidamente comprovado ser o imóvel penhorado o único de propriedade do executado.
+No meu entender, peço vênia aos valorosos entendimentos contrários, há uma presunção de o valor recebido a título de aluguel ser utilizado para subsistência da executada, ainda mais ao se considerar as condições particulares da agravante, tais como o valor da aluguel, a co- propriedade do imóvel, os problemas psicológicos e por estar desempregada.
+Como cediço, a impenhorabilidade do bem de família objetiva tutelar o direito à moradia e resguardar a residência familiar de constrição judicial. E, para os efeitos da impenhorabilidade, considera-se residência um único imóvel utilizado pela entidade familiar para moradia permanente, consoante dispõe o art. 5º da Lei nº 8.009/1990.
+No caso vertente, a agravante comprovou ser proprietária de um único imóvel residencial, o qual se encontra locado pelo valor mensal de R$ 850,00 (oitocentos e cinquenta reais).
+ ..
+Na hipótese, resta demonstrado que o imóvel sobre o qual recaiu a constrição é o único de propriedade da agravante.
+E, como ressaltado na decisão que deferiu a liminar "verifico que a agravante juntou aos autos cópia de sua Carteira de Trabalho e Previdência Social demonstrando que estava contratada pela empresa PERFECTA SOLUÇÕES EMPRESARIAIS LTDA, na vaga de auxiliar de limpeza. Contudo, a recorrente também juntou aos autos cópia do aviso prévio, com data do dia 18.10.2021, oportunidade em que foi comunicada de sua dispensa do trabalho.
+Portanto, não coaduno com o entendimento do Juízo de Origem ao determinar a penhora do bem, pois o agravado não se desincumbiu do ônus de comprovar o fato extintivo, impeditivo ou modificativo do direito do agravante, nos termos do art. 373, II do Código de Processo Civil, motivo pelo qual a constrição sobre o imóvel deve ser afastada, diante da impenhorabilidade do bem de família.
+Em assim sendo, tendo em vista a comprovação de que o bem indicado à penhora no Cumprimento de Sentença é o único imóvel da devedora, bem como que o valor obtido com a sua locação é sua fonte de renda e sustento, reconheço a sua impenhorabilidade, nos termos da Lei nº 8.009/1990, e afasto a penhora sobre o bem (fls. 454/455).
+Tal o contexto, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal, no propósito de demonstrar que a moradia não era residência permanente da parte recorrida e que o aluguel não era revertido para seu sustento, demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
