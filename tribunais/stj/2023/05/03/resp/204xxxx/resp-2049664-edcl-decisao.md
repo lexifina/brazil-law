@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de embargos declaratórios opostos à decisão que negou provimento ao agravo em recurso especial em virtude da aplicação das Súmulas n. 7 do STJ e 282 e 356 do STF.
+A embargante alega omissão na decisão e ressalta que "parte dos argumentos lançados nas razões de Recurso Especial não foram enfrentados na r. decisão embargada. De acordo com o artigo 1.022, parágrafo único, inciso II, do CPC, considera-se omissa a decisão que incorra em uma das condutas do artigo 489, § 1º, do mesmo diploma, dentre as quais se destaca5justamente a hipótese de não se enfrentarem todos os argumentos deduzidos no processo capazes de infirmar a conclusão adotada pelo julgador. Nestes termos, a r. decisão embargada foi omissa, o que justifica a oposição destes embargos in casu, com fulcro no dispositivo mencionado" (e-STJ fls. 455/456).
+Sustenta que, "em que pese a Embargante demonstrar a inexistência, no âmbito do CDC, de vinculação entre pessoas jurídicas distintas para responsabilização pelos atos praticados por terceiros, a r. decisão embargada não apreciou os referidos argumentos. Dessa forma, ocorreu manifesta omissão sobre argumentos capazes de infirmar a conclusão adotada pelo julgador, o que justifica a oposição destes embargos, nos termos do CPC" (e-STJ fl. 456).
+A parte embargada não apresentou impugnação (e-STJ fl. 465).
+É o relatório.
+Decido.
+Os embargos de declaração somente são cabíveis quando houver na decisão obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+Ademais, os aclaratórios, em regra, não permitem rejulgamento da causa, sendo certo que o efeito modificativo somente é possível em hipóteses excepcionais, uma vez comprovada a existência dos mencionados vícios no julgado.
+Sob esse enfoque, confiram-se os seguintes precedentes da Corte Especial:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. ALEGADA OMISSÃO, CONTRADIÇÃO E OBSCURIDADE. NÃO OCORRÊNCIA. PRETENSÃO DA PARTE EM OBTER EFEITOS INFRINGENTES. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. É inadmissível a interposição de embargos declaratórios para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide. Precedentes.
+2. O simples descontentamento com o decisum, a despeito de legítimo, não tem o condão de tornar cabíveis os embargos de declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida.
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt nos EDcl no AgRg no AREsp 738.681/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 6/11/2018, DJe 12/11/2018.)
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. JULGAMENTO MONOCRÁTICO. SÚMULA 568 DO STJ. ARGUMENTO DE NÃO INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. REDISCUSSÃO DE TEMA JÁ APRECIADO. IMPOSSIBILIDADE. MULTA PREVISTA NO ART. 557, § 2º DO CPC/1973 (ART. 1.021, § 4º, DO CPC/2015). NÃO INCIDÊNCIA.
+1. Os embargos de declaração objetivam sanar eventual existência de obscuridade, contradição, omissão e/ou erro material no julgado (CPC, art. 1022). A ausência do enquadramento fático às hipóteses mencionadas não permite o acolhimento do presente recurso.
+2. Não há qualquer omissão concernente à possibilidade de julgamento monocrático, visto que esta Corte Superior possui firme jurisprudência no sentido de que a legislação processual (art. 557 do CPC/1973, equivalente ao art. 932 do CPC/2015, combinados com a Súmula 568 do STJ) permite ao relator julgar monocraticamente recurso inadmissível ou, ainda, aplicar a jurisprudência consolidada deste Tribunal, sendo certo, ademais, que a possibilidade de interposição de recurso ao órgão colegiado afasta qualquer alegação de ofensa ao princípio da colegialidade.
+3. No que tange ao argumento de não incidência da Súmula nº 7 do STJ, verifica-se que está nítido o propósito da parte embargante de rediscutir temas que foram devidamente apreciados, o que, contudo, não é cabível na via estreita dos embargos de declaração.
+4. Em consonância com a jurisprudência pacífica desta Corte Superior, a simples interposição de agravo contra decisão do relator não implica a imposição de multa. 5. Embargos de declaração parcialmente acolhidos, apenas para excluir a multa do art. 557, § 2º, do CPC/1973.
+(EDcl no REsp 1.269.844/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 16/10/2018, DJe 23/10/2018.)
+No caso concreto, a decisão agravada não é omissa.
+Consta do acórdão recorrido que "nos casos de vício de produtos o comerciante responderá de forma solidária com os demais fornecedores, sejam eles fabricantes, importadores, produtores ou construtores, uma vez que o Código de Defesa do Consumidor não faz nenhuma distinção nesse sentido, não importando, como afirma o recorrente, serem pessoas jurídicas distintas, a apelante e a Chanel" (e-STJ fl. 297).
+Extrai-se do acórdão recorrido que o entendimento do Tribunal de origem está em consonância com a orientação do Superior Tribunal de Justiça , de que, se empresas nacionais se beneficiam de marcas mundialmente conhecidas, incumbe-lhes responder também pelos vícios dos produtos que oferecem, anunciam ou comercializam.
+O que se percebe é que a pretensão da embargante é rediscutir questões analisadas e alterar a interpretação e o entendimento do julgador, e não sanar omissão dentro do julgado. E qualquer reexame da matéria aventada importa em novo julgamento, o que não é permitido em sede de embargos de declaração.
+Assim, não há como analisar os argumentos da embargante, pois não se vislumbra a omissão mencionada.
+Em face do exposto, REJEITO os embargos de declaração.
+Publique-se e intimem-se.
