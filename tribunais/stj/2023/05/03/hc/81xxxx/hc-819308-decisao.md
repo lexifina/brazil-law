@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado contra acórdão assim ementado (fls. 9-10):
+Estelionato. Artigo 171, §4º, c.c. artigo 71, CP. No mérito, pleiteia a defesa pela absolvição. Incabível - Conjunto probatório robusto para lastrear o decreto condenatório. Vítima e testemunha que apresentaram uníssona e verossímil versão. Não há indícios de que estes tenham sido mendazes ou tivessem interesse em prejudicar o acusado. Versão exculpatória do acusado restou isolada no conjunto probatório. Defesa que não logrou produzir qualquer contraprova suficiente para afastá-lo da condenação. Dolo devidamente caracterizado. Impossibilidade de aplicação do princípio da insignificância Não há previsão legal, pelo contrário, trata-se de verdadeiro incentivo à prática de pequenos delitos, desestabilizando a ordem social - Alta reprovabilidade ante a ação do réu, que causou considerável prejuízo a pessoa idosa, tratando-se de indivíduo com personalidade desvirtuada, voltada pra a prática de delitos. Condenação mantida. Pena corretamente fixada e, assim, inalterada. Substituição por penas restritivas de direito. Inviável - não foram satisfeitos os requisitos do benefício. Regime inicial semiaberto. Único regime que se mostra compatível com as circunstâncias e a reprovabilidade do crime e a personalidade do autor. Recurso improvido.
+Consta dos autos que o paciente foi condenado à pena de um ano, onze meses e dez dias de reclusão, em regime inicial semiaberto, e ao pagamento de dezoito dias-multa, pela prática da conduta descrita no artigo 171, §4º, c/c artigo 71, caput, ambos do Código Penal.
+O impetrante alega a ocorrência de constrangimento ilegal, uma vez que, a teor do art. 33, § 2º, "c", do CP, faz-se cabível a fixação do regime inicial para o cumprimento da pena mais brando .
+Requer, liminarmente e no mérito, a concessão da ordem.
+Pois bem, em consulta ao sistema eletrônico processual desta Corte, verifica-se que o presente writ é mera reiteração do HC 798.190/SP, o qual foi denegado em 27/2/2023, com decisão publicada no dia 1º/3/2023.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
