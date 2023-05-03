@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, rejeitar os embargos.
+Os Srs. Ministros João Batista Moreira (Desembargador convocado do TRF1), Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FRAUDE À LICITAÇÃO. AUSÊNCIA DE IMPUGAÇÃO DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. OMISSÃO. INOCORRÊNCIA. PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. USURPAÇÃO DE COMPETÊNCIA DA SUPREMA CORTE. EMBARGOS REJEITADOS.
+I - São cabíveis embargos declaratórios quando houver, na decisão embargada, qualquer contradição, omissão ou obscuridade a ser sanada. Podem também ser admitidos para a correção de eventual erro material, consoante entendimento preconizado pela doutrina e jurisprudência, sendo possível, excepcionalmente, a alteração ou modificação do decisum embargado.
+II - Na hipótese, não vislumbro qualquer vício existente no acórdão que negou provimento ao agravo regimental, mantendo a decisão de não conhecimento do agravo em recurso especial. Na espécie, à conta de omissão no v. acórdão, pretende o embargante a modificação do julgado que lhe desfavoreceu, portanto, traduz mero inconformismo com o que decidido nos autos.
+III - Não compete a este eg. STJ se manifestar explicitamente sobre dispositivos constitucionais, ainda que para fins de prequestionamento.
+Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração interpostos por VALDIR PICOLOTTO contra acórdão da eg. Quinta Turma, que negou provimento ao agravo regimental, mantendo a decisão que não conheceu do agravo em recurso especial, ante a ausência de impugnação adequada do óbice da Súmula 283/STF.
+Nestes embargos, a defesa assevera que a decisão atacada é omissa, pois "não se observa aanálise de nenhum dos argumentos recursais apresentados pelo Embargante, que com o devido respeito, geranegativa de prestação jurisdicional, não atendendo ao comando normativo do artigo 93, IX da Constituição Federal" (fl. 2579).
+Aduz que "em tópico específico "item 3.4"do recurso de Agravo no Resp (e-STJ-fls. 2.305/2.311), consta a devida impugnação especifica dos fundamentos da decisão de admissibilidade na origem, referente a não aplicação da súmula 283 do STF" (fl. 2580).
+Busca, ao final, o aperfeiçoamento da tutela jurisdicional, como garantia da efetividade dos princípios do devido processo legal ampla defesa e contraditório (artigo 5º, incisos XXXV, LIV e LV c/c artigo 93, IX e art. 105, inciso III, todos da CF).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FRAUDE À LICITAÇÃO. AUSÊNCIA DE IMPUGAÇÃO DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. OMISSÃO. INOCORRÊNCIA. PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. USURPAÇÃO DE COMPETÊNCIA DA SUPREMA CORTE. EMBARGOS REJEITADOS.
+I - São cabíveis embargos declaratórios quando houver, na decisão embargada, qualquer contradição, omissão ou obscuridade a ser sanada. Podem também ser admitidos para a correção de eventual erro material, consoante entendimento preconizado pela doutrina e jurisprudência, sendo possível, excepcionalmente, a alteração ou modificação do decisum embargado.
+II - Na hipótese, não vislumbro qualquer vício existente no acórdão que negou provimento ao agravo regimental, mantendo a decisão de não conhecimento do agravo em recurso especial. Na espécie, à conta de omissão no v. acórdão, pretende o embargante a modificação do julgado que lhe desfavoreceu, portanto, traduz mero inconformismo com o que decidido nos autos.
+III - Não compete a este eg. STJ se manifestar explicitamente sobre dispositivos constitucionais, ainda que para fins de prequestionamento.
+Embargos de declaração rejeitados.
+VOTO
+Presentes os pressupostos de admissibilidade, conheço dos embargos.
+Destaque-se, ab initio, conforme pacífica jurisprudência desta eg. Corte, que são cabíveis embargos declaratórios quando houver, na decisão embargada, qualquer contradição, omissão ou obscuridade a ser sanada. Além disso, é cediço que os embargos declaratórios não constituem recurso de revisão, sendo inadmissíveis se a decisão embargada, repito, não padecer dos vícios que autorizariam a sua interposição.
+De início, vale registrar que o agravo regimental foi desprovido, uma vez que o ora embargante se limitou, em agravo em recurso especial, a aduzir, genericamente, acerca do óbice da Súmula 283/STF, além de apontar que "Em uma simples leitura dos fundamentos do Recurso Especial, pode -se constatar com segurança e clareza, que fora impugnado as razões do Acórdão em relação a causa especial de aumento de pena, observando ser indevida em relação ao prefeito" (fl. 2305), contudo nada aduziu, especificamente, sobre os argumentos destacados da decisão recorrida. Não logrou demonstrar, efetivamente, o equívoco da decisão agravada que entendera pelo não rechaço do óbice 283/STF, então aplicado para inadmitir o apelo nobre.
+Na hipótese, não vislumbro eiva no acórdão que não conheceu do agravo regimental uma vez desatendido o princípio da dialeticidade que impõe ao agravante, nos termos do art. 1.021, § 1º, do Código de Processo Civil, a necessidade de impugnar especificamente os esteios da decisão que pretende reformar.
+Na espécie, à conta de omissão no v. acórdão, pretende o embargante a modificação do julgado que lhe desfavoreceu, portanto, traduz mero inconformismo com o que decidido nos autos.
+Desse modo, em que pese as alegações do embargante, o que pretende a parte, de fato, é o reexame da matéria já julgada, situação que não se coaduna com a estreita via dos aclaratórios.
+Nesse sentido: EDcl no AgRg no HC n. 413.617/SP, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 11/10/2018; EDcl no AgRg no AREsp n. 962.729/RS, Quinta Turma, Rel. Min. Felix Fischer, DJe de 03/09/2018; EDcl no AgRg nos EDv nos EAREsp n. 655.714/CE, Corte Especial, Rel. Min. Jorge Mussi, DJe de 09/11/2018; e EDcl no AgRg no HC n. 724.821/RO, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 6/5/2022.
+Por sim, não se mostra cabível a utilização dos embargos de declaração para fins de prequestionamento de matéria constitucional, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal, ex vi do art. 102, III, da Constituição da República.
+Diante do exposto, rejeitos os embargos de declaração.
+É o voto.
