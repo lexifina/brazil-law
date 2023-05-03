@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/04/2023 a 03/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Impedido o Sr. Ministro Marco Aurélio Bellizze.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+Cuida-se de agravo interno interposto por CARLOS LUIZ BIANCO contra decisão que conheceu do agravo para negar provimento a seu recurso especial.
+Ação: de indenização por danos materiais ajuizada por CARLOS LUIZ BIANDO em face de SUL AMÉRICA COMPANHIA DE SEGURO SAÚDE S.A. no qual se insurge contra os reajustes por sinistralidade em seu contrato de plano de saúde contratado na modalidade coletiva, por falta de base atuarial idônea e desproporção com os índices aplicados pela ANS aos contratos individuais e familiares
+Sentença: julgou parcialmente procedente a demanda para reconhecer a abusividade dos reajustes aplicados entre 30/01/2016 a 30/05/2017, determinando a restituição dos valores pagos a maior, o que será verificado em liquidação de sentença.
+Acórdão: deu parcial provimento à apelação de ambas as partes, nos termos da seguinte ementa:
+APELAÇÃO - Plano de saúde coletivo por adesão. Ação revisional de contrato de plano de saúde. Reajustes por sinistralidade. Sentença de parcial procedência. Recurso de ambas as partes. Acolhimento parcial. Dispositivo contratual que prevê reajustes por sinistralidade e financeiros que, por si só, não é nulo, como pretende o autor. Ré, no entanto, que não apresentou base atuarial idônea para justificá-los. Abusividade verificada. Afastamento dos aumentos impugnados. Impossibilidade, porém, de substituição pelos índices autorizados pela ANS para os planos individuais, poiso contrato em tela tem natureza coletiva. Necessidade de apuração de percentuais adequados na fase de liquidação de sentença. Precedentes da Câmara. Sentença reformada em parte. Recursos parcialmente providos, mantida a sucumbência recíproca.
+Embargos de declaração: opostos pela agravante, foram rejeitados
+Recurso Especial: alega violação dos arts. 1022, 489, 241 e 373, II, do CPC e 4º, 6º, III, 39, V, 51, IV e X e 54, §4º, do CDC, bem como dissídio jurisprudencial. Alega negativa de prestação jurisdicional quanto à tese do não cabimento da apuração de reajuste razoável em sede de cumprimento de sentença, após ultrapassado a fase de produção de prova processual. Sustenta, portanto, indevida a autorização de fixação de percentual razoável de reajuste somente em liquidação de sentença. Reafirma a nulidade de reajuste por sinistralidade sem base atuarial idônea a demonstrar sua justificativa.
+Decisão unipessoal: conheceu do agravo para negar provimento a seu recurso especial em virtude de não se verificar a negativa de prestação jurisdicional apontada, bem como em virtude de estar o acórdão recorrido em consonância com a jurisprudência do STJ quanto à necessidade de se verificar o percentual adequado de reajuste por sinistralidade em cumprimento de sentença quando o percentual aplicado se mostrar abusivo.
+Agravo interno: o agravante alega que houve omissão na análise da ausência de prova de base atuarial a justificar o reajuste por sinistralidade e aduz que a jurisprudência do STJ não está de acordo com o acórdão recorrido, uma vez que ausente a base atuarial a justificar o cálculo da sinistralidade, abusivo o reajuste, não sendo possível a comprovação posterior do aumento da sinistralidade.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS. PLANO DE SAÚDE COLETIVO. REAJUSTE POR SINISTRALIDADE.ABUSIVIDADE CONSTATADA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. APURAÇÃO DE ÍNCIDE RAZOÁVEL. CUMPRIMENTO DE SENTENÇA. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ.
+1. Ação de indenização por danos materiais na qual se insurge contra reajustes por sinistralidade.
+2. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+3. É "possível o reajuste de contratos de saúde coletivos sempre que a mensalidade do seguro ficar cara ou se tornar inviável para os padrões da empresa contratante, seja por variação de custos ou por aumento de sinistralidade" (AgRg nos EDcl no AREsp 235.553/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 02/06/2015, DJe de 10/06/2015).
+4. Na forma da jurisprudência do STJ, "reconhecida a abusividade da cláusula contratual de reajuste, é necessária a apuração do percentual adequado na fase de cumprimento de sentença, a fim de restabelecer o equilíbrio contratual, por meio de cálculos atuariais" (AgInt no REsp 1.870.418/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 18/05/2021).
+5. Agravo interno não provido.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+A despeito das alegações aduzidas neste recurso, percebe-se que a parte agravante não trouxe qualquer argumento novo capaz de ilidir o entendimento firmado na decisão ora agravada.
+Com efeito, a Corte de origem decidiu integralmente a respeito do reajuste por sinistralidade, o seu cabimento em tese, afastando sua nulidade, e a falta de comprovação do aumento da sinistralidade, a justificar sua averiguação em cumprimento de sentença. Não há falar, portanto, em omissão alguma na análise do tema do reajuste, tendo a Corte de origem se pronunciado fundamentadamente sobre o tema.
+Quanto ao mérito, não merece melhor sorte o recurso da agravante. Com efeito, como salientado na decisão agravada, esta Corte Superior de Justiça é firme no sentido de que é legítima a previsão de reajuste por sinistralidade nos contratos de plano de saúde coletivos, desde que justificados atuarialmente.
+Na hipótese da verificação da abusividade do reajuste, não se aplica o índice definido pela ANS, mas sim, determina-se a aferição de percentual adequado em cumprimento de sentença.
+Nesse sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO. OMISSÃO NO ACÓRDÃO DE ORIGEM. NÃO OCORRÊNCIA. REAJUSTE ANUAL. SINISTRALIDADE. LIMITAÇÃO AOS ÍNDICES DA ANS. IMPOSSIBILIDADE. APURAÇÃO EM SEDE DE LIQUIDAÇÃO DE SENTENÇA. PRECEDENTES. NÃO PROVIMENTO.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, obscuridades ou contradições, deve ser afastada a alegada ofensa ao artigo 1.022 do CPC/15.
+2. O acórdão que reconhece a abusividade apenas dos reajustes aplicados no caso em concreto, diante da não comprovação da necessidade e da ausência de informações claras a respeito dos índices praticados, mas mantendo a validade da cláusula prevista no contrato, deve remeter à liquidação de sentença a apuração do valor adequado.
+3. Agravo interno a que se nega provimento.
+(AgInt na PET no AREsp n. 1.814.573/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 3/10/2022, DJe de 7/10/2022.)
+DIREITO DO CONSUMIDOR. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO. REAJUSTE POR SINISTRALIDADE. ÍNDOLE ABUSIVA RECONHECIDA NA ORIGEM. LIMITAÇÃO AO ÍNDICE UTILIZADO PELA ANS. IMPOSSIBILIDADE. NECESSIDADE DE APURAÇÃO EM SEDE DE LIQUIDAÇÃO DE SENTENÇA. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da jurisprudência desta Corte, é "possível o reajuste de contratos de saúde coletivos sempre que a mensalidade do seguro ficar cara ou se tornar inviável para os padrões da empresa contratante, seja por variação de custos ou por aumento de sinistralidade" (AgRg nos EDcl no AREsp 235.553/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 2/6/2015, DJe de 10/6/2015).
+2. Por sua vez, conforme entendimento recente desta Corte, "Reconhecida a abusividade da cláusula contratual de reajuste, é necessária a apuração do percentual adequado na fase de cumprimento de sentença, a fim de restabelecer o equilíbrio contratual, por meio de cálculos atuariais"(AgInt no REsp 1.870.418/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 10/05/2021, DJe de 18/05/2021).
+3. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 1.858.243/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 2/5/2022, DJe de 8/6/2022.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. PLANO DE SAÚDE. MENSALIDADES. REAJUSTE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. AUMENTO DA SINISTRALIDADE. ABUSIVIDADE DECLARADA. ÍNDICES DA ANS. INDEXADORES DE INFLAÇÃO. IMPOSSIBILIDADE. PERCENTUAL. DEFINIÇÃO. PERÍCIA ATUARIAL. CUMPRIMENTO DE SENTENÇA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não viola o artigo 1.022 do Código de Processo Civil de 2015 nem importa em negativa de prestação jurisdicional o acórdão que adota fundamentação suficiente para a resolução da causa, porém diversa da pretendida pelo recorrente, decidindo de modo integral a controvérsia posta.
+3. O Superior Tribunal de Justiça firmou o entendimento no sentido de ser possível a majoração das mensalidades do plano de saúde em virtude da sinistralidade, a partir de estudos técnico-atuariais, para bus car a preservação da situação financeira da operadora, desde que o reajuste não seja declarado abusivo apenas com base nos índices de majoração anuais divulgados pela ANS e nos indexadores que medem a inflação, sob pena de ferir o equilíbrio atuarial do plano.
+4. Reconhecida a abusividade da cláusula contratual de reajuste, é necessária a apuração do percentual adequado na fase de cumprimento de sentença, a fim de restabelecer o equilíbrio contratual, por meio de cálculos atuariais.
+5. Agravo interno não provido.
+(AgInt no REsp n. 1.870.418/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 10/5/2021, DJe de 18/5/2021.)
+Não merece reforma, portanto, a decisão agravada.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno no agravo em recurso especial.
