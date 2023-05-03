@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo em recurso especial apresentado pela COMPANHIA ESTADUAL DE ÁGUAS E ESGOTOS - CEDAE contra decisão que inadmitiu apelo nobre interposto com fundamento no art. 105, III, da Constituição Federal.
+Passo a decidir.
+Impende destacar que não deve ser conhecido o agravo que não ataque especificamente todos os fundamentos da decisão agravada, nos termos do art. 932, III, do CPC/2015 e do art. 253, parágrafo único, I, do RISTJ. Confira-se o teor dos dispositivos citados:
+Art. 932. Incumbe ao relator:
+ ..
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;
+Art. 253. O agravo interposto de decisão que não admitiu o recurso especial obedecerá, no Tribunal de origem, às normas da legislação processual vigente. (Redação dada pela Emenda Regimental n. 16, de 2014)
+Parágrafo único. Distribuído o agravo e ouvido, se necessário, o Ministério Público no prazo de cinco dias, o relator poderá: (Redação dada pela Emenda Regimental n. 16, de 2014)
+I - não conhecer do agravo inadmissível, prejudicado ou daquele que não tenha impugnado especificamente todos os fundamentos da decisão recorrida;
+A Corte Especial do Superior Tribunal de Justiça, no julgamento dos Embargos de Divergência em Agravo em Recurso Especial 701.404/SC, 746775/PR e 831.326/SP, decidiu pela necessidade de o agravante impugnar especificamente todos os fundamentos adotados pela decisão a quo, autônomos ou não, para justificar a inadmissão do recurso especial, sob pena de seu recurso não ser conhecido.
+No caso, da análise dos autos, verifico que a inadmissão do especial se deu com base no seguinte fundamento: Súmula 7 do STJ.
+Entretanto, a parte agravante deixou de impugnar específica e adequadamente o referido fundamento quando se limitou a asseverar o seguinte (e-STJ fl. 139):
+Como se sabe, a edição desta mencionada Súmula possui como objetivo principal a vedação ao simples reexame de prova por esta Instância Superior.
+Não se trata de reexame de provas, mas sim da valoração dos critérios jurídicos de sua utilização para a constatação da legalidade da cobrança com base na multiplicação da tarifa mínima pelo número de economias, ante a efetiva prestação do serviço por parte da concessionária.
+Frise-se que a análise da matéria trazida no recurso não demanda revolvimento de matéria fático-probatória, consoante diversos julgados desse e. STJ.
+Desta forma, resta demonstrado que a discussão não é fático-probatória, d.v., não devendo esse e. Tribunal Superior deixar de se manifestar sobre fato tão evidente, sendo inaplicável a súmula 7 do e. STJ.
+Com relação à Súmula 7 do STJ, registro não ser suficiente a apresentação de razões genéricas sobre o óbice apontado pela decisão de inadmissibilidade, sendo exigível do agravante o efetivo ataque aos seus fundamentos.
+É de rigor que, além da contextualização do caso concreto, a impugnação contenha as devidas razões pelas quais se entende ser possível o conhecimento da pretensão independentemente do reexame fático-probatório, mediante, por exemplo, a apresentação do cotejo entre as premissas fáticas e as conclusões delineadas no acórdão recorrido e sua tese recursal, a fim de demonstrar a prescindibilidade do reexame fático-probatório, o que não ocorreu no caso.
+Acerca da hipótese:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. DISPOSITIVOS VIOLADOS. NÃO INDICAÇÃO. SÚMULA N. 284 DO STF. INDICAÇÃO POSTERIOR. INOVAÇÃO RECURSAL. REEXAME DE PROVAS. SÚMULA N. 7 DO STJ. FALTA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A indicação tardia dos dispositivos legais violados - não mencionados oportunamente nas razões do especial - configura inovação recursal e não afasta o óbice da Súmula n. 284 do STF, uma vez que eles devem estar presentes já na petição de interposição do apelo raro. Precedentes.
+2. São insuficientes, para rebater a incidência da Súmula n. 7 do STJ, assertivas genéricas de que a apreciação do recurso não demanda reexame de provas. O agravante deve expor, com particularidade, que a alteração do entendimento adotado pelo Tribunal de origem independe da apreciação fático-probatória dos autos. Precedentes.
+3. Na hipótese, a Presidência desta Corte Superior não conheceu do agravo em recurso especial, por falta de impugnação de fundamento do decisum de inadmissibilidade pelo Tribunal estadual. É acertada a aplicação da Súmula n. 182 do STJ se a parte deixa de rebater, especificamente, a inaplicabilidade de óbices sumulares.
+4. Agravo regimental não provido. (AgRg nos EDcl no AREsp 1.542.356/SP,
+Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 22/10/2019, DJe 30/10/2019). (Grifo acrescido).
+PROCESSUAL CIVIL. DIREITO PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL. APOSENTADORIA POR IDADE HÍBRIDA. REQUISITOS NÃO CUMPRIDOS. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7 DO
+STJ. IMPUGNAÇÃO ESPECÍFICA NÃO COMPROVADA. ALEGAÇÕES GENÉRICAS. ART. 932, III, DO CPC.
+1. A insurgente apresenta argumentação genérica para tentar afastar o óbice previsto na Súmula 7 do STJ, utilizado pelo Tribunal a quo para negar seguimento ao recurso.
+2. Em momento algum, indica os fatos incontroversos admitidos no acórdão recorrido sobre os quais pretende que seja feita nova valoração jurídica. Ao contrário, transcreve excerto do agravo em recurso especial no qual pugna pelo revolvimento do acervo fático-probatório utilizado pelo Tribunal a quo para reconhecer a inexistência dos requisitos para a obtenção do benefício previdenciário pleiteado.
+3. O que pretende o recorrente é desconstituir a conclusão a que chegou a Corte local, por meio da análise do material probatório colacionado aos autos, circunstância que atrai a incidência da Súmula 7 do STJ.
+4. Não basta a afirmação genérica de que não se pretende o reexame de provas, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do referido óbice processual.
+5. Agravo conhecido, para não se conhecer do recurso especial.
+(AREsp 1280316/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 21/05/2019, DJe 28/05/2019) (Grifo acrescido).
+Cumpre ressaltar que o Tribunal de origem, ao realizar o juízo de admissibilidade do apelo nobre, deve analisar os pressupostos específicos e constitucionais concernentes ao mérito da controvérsia, não havendo que se falar em usurpação da competência do STJ. Nesse sentido: AgInt no AREsp 2.107.891/PR, Relator Ministro Humberto Martins, Segunda Turma, julgado em 14/11/2022, DJe de 30/11/2022; AgInt no AREsp 2.164.815/RS, Relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 28/11/2022, DJe de 30/11/2022; e AgInt no AREsp 2.098.383/BA, Relator Ministro Manoel Erhardt (Desembargador Convocado do TRF5), Primeira Turma, julgado em 15/8/2022, DJe de 17/8/2022.
+Ante o exposto, com base no art. 253, parágrafo único, I, do RISTJ, NÃO CONHEÇO do agravo em recurso especial. Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração dessa verba, em desfavor da parte recorrente, no importe de 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
