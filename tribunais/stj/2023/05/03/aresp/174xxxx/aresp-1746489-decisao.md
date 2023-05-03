@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo nos próprios autos contra decisão que negou seguimento ao recurso especial, porque não demonstrada a ofensa aos dispositivos legais invocados, tampouco a divergência jurisprudencial e por incidência das Súmulas n. 282 do STF e 7 do STJ (e-STJ fls. 640/643).
+O acórdão recorrido está assim ementado (e-STJ fl. 509):
+Execução de acórdão. Decisão monocrática proferida em Recurso Especial que exonerou a embargante da fiança. O não conhecimento do agravo interno em nada alterou a decisão monocrática proferida. Obrigação de restituição da quantia paga indevidamente. Execução do título judicial que deve prosseguir, observando-se o procedimento do cumprimento de sentença. RECURSO PROVIDO, com determinação.
+Os embargos de declaração foram rejeitados (e-STJ fls. 561/565).
+No recurso especial (e-STJ fls. 569/585), fundamentado no art. 105, III, "a" e "c", da CF, a parte recorrente aponta violação do art. 515, I, do CPC/2015 argumentando que (e-STJ fl. 579):
+6.3. Outrossim, a decisão do Ministro Relator não determinou a restituição dos valores pagos pela fiadora Maria Helena de São Pedro. E não o fez porque simplesmente não poderia fazê-lo, posto não ser esse o objeto do recurso especial tirado contra o acórdão que prestigiou a sentença que rejeitou os embargos à execução. E mais, não poderia o Ministro Relator determinar a restituição dos valores pagos voluntariamente pela fiadora sem se preocupar com possível risco de ofender o artigo 882 do CC que veda repetição de valor pago por dívida prescrita ou para cumprir obrigação judicialmente inexigível.
+6.4. Se a decisão do Ministro Relator não determina a restituição dos valores pagos pela fiadora, forçoso concluir que o cumprimento de sentença promovido pelo recorrido FRANCISCO não está amparado ou aparelhado por título executivo judicial, cujo rol, taxativo, está estampado no artigo 515 do Código de Processo Civil (..)
+Indica também divergência jurisprudencial e ofensa ao art. 882 do CC/2002, afirmando que não é possível a repetição do que se pagou por dívida prescrita ou para cumprir obrigação juridicamente inexigível.
+Argumenta que a fiadora não questionou a dívida, apenas a garantia fidejussória, e que, à época do pagamento, a dívida estava prescrita, nos termos do art. 206, § 3º, do CC/2002, portanto, judicialmente inexigível.
+Invoca julgado para defender que "o depósito judicial, sem ressalva de se tratar de depósito a título de penhora/garantia do juízo, não pode ser objeto de cumprimento de sentença e/ou impugnação, posto que incompatíveis entre si o ato de recorrer e, ao depois, pagar a execução, o que justifica o conhecimento e provimento do recurso" (e-STJ fl. 585).
+No agravo (e-STJ fls. 646/678), afirma a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 681/696).
+É o relatório.
+Decido.
+O TJSP deu provimento a apelo para reformar sentença que acolheu impugnação e extinguiu a execução, mediante os seguintes fundamentos (e-STJ fls. 510/512):
+O recurso deve ser provido.
+Espólio de Maria Helena de São Pedro ingressou com ação, denominada "execução de acórdão" para cobrança da quantia de R$ 187.624,51 (cento e oitenta e sete mil, seiscentos e vinte e quatro reais e cinquenta e um centavos), referente ao valor levantado pelo exequente, em embargos do devedor, no qual a executada, Sra. Maria Helena de São Pedro foi considerada parte ilegítima, por decisão monocrática proferida em sede de recurso especial.
+Após a partilha, o apelante assumiu o polo ativo da demanda e o apelado, intimado a pagar o valor do débito, ofereceu impugnação, sobrevindo a r. sentença recorrida, cujo relatório adoto:
+(..)
+A então fiadora ingressou com embargos do devedor os quais foram julgados improcedentes (fls. 161/162) e contra essa sentença o apelante, sucessor da falecida fiadora, interpôs recurso de apelação e, posteriormente recurso especial.
+Ocorre que, por decisão monocrática proferida pelo Ministro do C. Superior Tribunal de Justiça, Antonio Carlos Ferreira, transitada em julgado, a fiadora foi exonerada da obrigação por ser considerada parte ilegítima da relação contratual, nos seguintes termos:
+(..)
+Assim, diferentemente do que alegou o apelado, em sua impugnação, a consequência lógica por ter sido exonerada da obrigação declarando nula a execução só pode ser a restituição das quantias pagas indevidamente.
+Cumpre observar que contra essa decisão proferida monocraticamente pelo Ministro Antonio Carlos Ferreira, o apelado interpôs agravo regimental que não foi conhecido, em razão da informação advinda desta Corte, de que havia sido efetuado depósito pela executada.
+O não conhecimento do agravo interno afetou apenas o apelado e não alterou a decisão monocrática proferida anteriormente, que declarou a falecida fiadora exonerada da fiança, sendo que a magistrada, equivocadamente entendeu que o recurso especial estava prejudicado e não apenas o agravo regimental interposto pelo apelado.
+E, ainda, conforme se observa das peças juntadas aos autos, a magistrada, sem ter observado o recurso especial, declarou prejudicado o prosseguimento dos embargos do devedor (fls. 189), razão pela qual o apelante ingressou com essa ação autônoma que denominou "execução de acórdão", julgando extinta a execução e determinando o levantamento da quantia depositada nos autos pela suposta devedora (fls. 190).
+Não é possível afastar a hipótese de equívoco diante da provocação do apelado, beirando a má-fé processual, ao induzir o magistrado em erro ao afirmar que "não há nos autos da execução e/ou dos embargos à execução decisão sobre a reversão do julgado e possibilidade do executado ser condenado a restituição dos valores pagos" (fls. 187).
+Cumpre observar que a decisão monocrática que considerou a falecida fiadora exonerada da fiança foi proferida em 30 de abril de 2015, sendo que a petição de fls. 187 do apelado é datada de 21 de maio de 2018, o que demonstra não ter agido com cautela, ao solicitar a expedição de mandado de levantamento em seu favor, pois tinha conhecimento de que a execução contra a fiadora foi declarada nula.
+Em observância aos princípios da economia e celeridade processual, a fim de se obter menos atividade judicial e o resultado prático do processo, os atos até então praticados deverão ser reaproveitados, devendo, contudo, ser observado o procedimento para o cumprimento da sentença.
+Nestas condições, a sentença deve ser reformada para que seja dado regular prosseguimento ao cumprimento da sentença.
+No recurso especial, a parte invocou o art. 515, I, do CPC/2015 para sustentar que a execução não pode prosseguir por falta de título executivo. Ocorre que referido dispositivo legal não é apto, por si só, para desconstituir os fundamentos do acórdão recorrido acerca do conteúdo da decisão proferida por esta relatoria no REsp n. 1.483.567/SP e das consequências de referida decisão.
+Em tais condições, por incidência da Súmula n. 284 do STF, não há como conhecer do recurso especial.
+Em relação aos arts. 206, § 3º, e 882 do CC/2002, verifica-se que tais dispositivos não foram objeto de análise pelo acórdão recorrido, que não se manifestou a respeito da natureza do depósito nem esclareceu se a obrigação estava prescrita ou era inexigível. Em tais condições, ante a falta de prequestionamento, incide a Súmula n. 282 do STF .
+Referido óbice também impede o conhecimento do especial fundamentado na alínea "c" do permissivo constitucional.
+Acrescente-se que não foi demonstrada a similitude fática entre os acórdãos confrontados, pois o aresto paradigma trata de depósito em cumprimento à regra do art. 475-J do CPC/1973.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
