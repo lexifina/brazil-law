@@ -1,0 +1,10 @@
+DECISÃO
+O presente writ, impetrado em benefício de Tito Prazeres - condenado como incurso no crime de furto qualificado tentado - contra ato coator do Tribunal de Justiça de Santa Catarina, não comporta processamento.
+Com efeito, busca a impetração o afastamento da qualificadora do rompimento de obstáculo, bem como a redução do percentual referente à tentativa, ao argumento de que, além de não se ter fundamentado adequadamente a dispensa do exame de corpo de delito em crime que deixa vestígios, a análise do caso concreto permite concluir que a conduta ficou bastante distante da efetiva subtração patrimonial (momento consumativo do furto), a atrair o percentual máximo de 2/3 (fl. 10).
+Ocorre que, além de a via eleita ter sido indevidamente utilizada como forma de revisão, pela segunda vez, a condenação imposta e mantida pelas instâncias ordinárias, não se verificam os constrangimentos alegados na inicial.
+A dispensa do exame de corpo de delito para fins de verificação da incidência da qualificadora do rompimento de obstáculo se encontra de acordo com o que tem decidido este Superior Tribunal em casos semelhantes (AgRg no REsp 2.023.196/SC, Ministro Messod Azulay Neto, Quinta Turma, DJe 27/3/2023); e alcançar conclusão inversa das instâncias ordinárias sobre o iter criminis percorrido pelo paciente demanda reexame de provas, inviável na via estreita.
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. FURTO QUALIFICADO TENTADO. UTILIZAÇÃO INDEVIDA DA VIA ELEITA. PRETENSÃO DE REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. IMPOSSIBILIDADE. AFASTAMENTO DA QUALIFICADORA DO ROMPIMENTO DE OBSTÁCULO. AUSÊNCIA DE EXAME PERICIAL. CIRCUNSTÂNCIA INCONTROVERSA POR OUTROS MEIOS DE PROVAS. PERCENTUAL DE REDUÇÃO DA TENTATIVA. I TER CRIMINIS PERCORRIDO PELO ACUSADO. CONCLUSÃO INVERSA. REEXAME DE PROVAS. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Inicial indeferida liminarmente.
