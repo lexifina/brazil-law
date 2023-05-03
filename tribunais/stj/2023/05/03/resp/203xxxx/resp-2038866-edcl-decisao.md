@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ANA CRISTINA LORA GRACIOLLA em face de decisão monocrática que conheceu em parte do recurso especial para a ele negar provimento (e-STJ, fls. 428-434).
+Em suas razões (fls. 436-442, e-STJ), a embargante sustenta a ocorrência de erro material na decisão embargada, em que se teria controvertido acerca da cédula de crédito bancário, em detrimento da cédula de crédito comercial.
+Requer, assim, seja saneado o erro material aludido, inclusive com a concessão de efeitos infringentes, para que a controvérsia deduzida no especial seja novamente apreciada, agora, com base nas regras da cédula de crédito comercial.
+Sem impugnação (fl. 257, e-STJ).
+Assim delimitada a controvérsia, passo a decidir.
+No caso, observo que a decisão embargada concluiu que o título examinado seria mesmo a cédula de crédito bancário com base a partir do que pressuposto no próprio acórdão recorrido.
+A propósito, extraio da decisão embargada a seguinte passagem (e-STJ, fls. 429/430):
+De início, em relação à alegada violação dos artigos 489 e 1022 do CPC/15, observo que o Tribunal de origem consignou, expressamente, que a instrução da monitória estaria baseada em cédula de crédito bancário, julgando a controvérsia com base nas normas especiais aplicáveis ao título.
+A propósito, transcrevo a seguinte passagem do acórdão recorrido (e-STJ, fl. 284):
+ .. No caso, a inicial monitória está acompanhada de cédula de crédito bancário acompanhada de extrato de evolução da dívida, documentos suficientes para a propositura da ação, cabendo à parte embargante comprovar o fato impeditivo, extintivo ou modificativo do direito do autor, nos termos do art. 373, II, do CPC. Mantida, assim, a rejeição da preliminar.
+Como se vê do trecho acima reproduzido, o Tribunal de origem julgou a controvérsia em observância às peculiaridades da monitória instruída com base em cédula de crédito bancário. De todo modo, não há falar-se de omissão por terem sido aplicadas as normas gerais do código de defesa do consumidor e do sistema financeiro, considerado o princípio segundo o qual norma especial derroga a geral apenas no que incompatível. (grifo acrescido)
+Como se vê, o Tribunal de origem pressupõe que se trata de cédula de crédito bancário, direcionando a análise desta Corte no mesmo sentido, tendo em vista que a devolução no recurso especial, embora restrita, não pode ultrapassar os termos do que decidido no acórdão recorrido.
+De todo modo, ainda que o recorrente tenha opostos embargos de declaração na origem, sucedido pela alusão à contrariedade do artigo 1022 do CPC nas razões do espec ial, observo que a omissão estaria na aplicação das regras do mútuo comum, em vez das cédulas de crédito comercial.
+A propósito, reproduzo as razões do recurso especial no ponto em que pertinente ao deslinde da controvérsia (e-STJ, fl. 347):
+1ª)O acórdão é omisso porque em momento algum se refere e aplica a legislação específica que rege as cédulas de crédito comercial - Lei 6.840/1980 e Decreto Lei 413/69, tratando o contrato como se de mútuo comum fosse, aplicando teses, jurisprudências e legislação descabidas à espécie, que possui regramento próprio, especialmente no que condiz aos juros remuneratórios e multa moratória. (e-STJ, fl. 347)
+Como se vê do trecho acima reproduzido, a suposta omissão no acórdão recorrido estaria na aplicação das regras do mútuo, em vez das regras que regem as cédulas de crédito comercial.
+Ainda que a inconsistência normativa alegada possa repercutir nos pressupostos de fato, seria possível cogitar-se apenas de erro de direito, na forma da interpretação analógica ou não das regras da cédula de crédito comercial ao caso.
+Releva notar que apenas nos embargos de declaração o embargante inova, ao considerar que o título examinado seria uma cédula de crédito comercial, em vez da cédula de crédito bancário, como suposto na decisão embargada.
+Diante desse contexto, como o suposto erro de fato não foi mencionado nas razões do especial, com o enfoque ora pretendido pelo embargante, não há cogitar-se de omissão, uma vez que a controvérsia foi solucionada nos termos em que devolvida.
+Ressalte-se que, nos termos da jurisprudência consolidada no âmbito desta Corte: "Não há falar-se em violação aos arts. 489, II, e 1.022 do CPC se o Tribunal de origem examina o recurso atendo-se aos limites objetivos da matéria devolvida " (AgInt nos EDcl no REsp n. 1.743.968/SE, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 21/2/2022, DJe de 25/2/2022).
+De qualquer maneira, o acolhimento do erro de fato a essa altura, diante do que pressuposto no acórdão recorrido, demandaria o reexame de fatos e provas, procedimento incompatível na via do recurso especial, em razão da Súmula 7/STJ.
+Em face do exposto, rejeito os embargos de declaração.
+Intimem-se.
