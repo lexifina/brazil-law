@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão proferido pelo TJPR assim ementado (e-STJ fl. 435):
+RECURSO DE AGRAVO  EMBARGOS À EXECUÇÃO  DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO RECURSO DE APELAÇÃO POR AUSÊNCIA DO DEVIDO PREPARO  PARTE QUE INTIMADA PARA REALIZAR O PAGAMENTO, SOB PENA DE DESERÇÃO, QUEDOU-SE INERTE  DESÍDIA CONFIGURADA  APELO MANIFESTAMENTE INADMISSÍVEL, POIS DESERTO  PREQUESTIONAMENTO IMPLÍCITO ADMITIDO PELA JURISPRUDÊNCIA DO STJ  RECURSO DE AGRAVO CONHECIDO E NÃO PROVIDO.
+No recurso especial (e-STJ fls. 447/464), fundamentado no art. 105, III, "a" e "c", da CF, a parte recorrente alega, além de divergência jurisprudencial, ofensa aos arts. 99, § 2º, do CPC/2015 e 9º e 52 , caput, da Lei n. 1.060/50, sustentando, em síntese, que não teria havido revogação do benefício da justiça gratuita, devendo ser afastada a deser ção.
+Segundo afirma, "ao contrário do que entende o acórdão, que houve revogação expressa, a sentença de piso (Embargos a Execução) não fundamentou ou esgrimou a concessão da justiça gratuita, tal sentença foi direta ao ponto controvertido (execução) e em nenhum momento ventilou a suposta Revogação, logo não contrariou a própria concessão movimento 62" (e-STJ fl. 455).
+Juízo positivo de admissibilidade (e-STJ fls. 494/495).
+É o relatório.
+Decido.
+Quanto aos pressupostos de admissibilidade recursal, o Tribunal de origem assim consignou em suas razões de decidir (e-STJ fl. 436):
+Compulsando os autos, extrai-se que o Recorrente não recolheu o devido preparo no mesmo ato de interposição do recurso de apelação, como exigido pelo artigo 1.007, caput, do CPC, e nem comprovou qualquer condição de dispensabilidade do recolhimento.
+Ademais, constata-se que na parte dispositiva da r. sentença (mov. 70.1  autos de Embargos à Execução) houve a revogação expressa do benefício da gratuidade processual anteriormente concedido ao recorrente, senão vejamos:
+"III  DISPOSITIVO
+Posto isso, julgo IMPROCEDENTE o pedido, nos termos do art. 487, inc. I, do CPC. Outrossim, condeno o Autor no pagamento dos honorários advocatícios no montante de 10% sobre o valor da causa. Publique-se. Registre-se. Intimem-se. Oportunamente, arquivem-se".
+Por isso o feito foi convertido em diligência (mov. 19.1) para se oportunizar ao autor, ora Agravante, que apresentassem documentos hábeis a justificar sua pretensão à gratuidade processual.
+Sendo determinada sua intimação, na pessoa de seu advogado, para que no prazo de 10 (dez) dias úteis, acostasse aos autos as 3 (três) últimas Declarações de Imposto de Renda (IRPF) do Autor, bem como documentos (como cópias da CTPS) e certidões que demonstrassem ausência de bens (móveis e imóveis) e outros que entendesse necessários a justificar a pretensão à gratuidade processual, ou que efetuasse o recolhimento do preparo, em dobro, sob pena de deserção, nos termos do artigo 1.007, § 4º, do CPC/2015.
+E, embora devidamente intimado (Leitura de Intimação realizada em 28/06/2019  mov. 21.0), o então Apelante deixou transcorrer in albis o prazo, sem qualquer manifestação, como se observa da mov. 22.
+A decisão recorrida está em confronto com a jurisprudência desta Corte, no sentido de que, uma vez concedida a gratuidade da justiça, esta conserva-se em todas as instâncias e para todos os atos do processo, salvo se expressamente revogada.
+Confira-se:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ASSISTÊNCIA JUDICIÁRIA GRATUITA. DESNECESSIDADE DE REITERAÇÃO DO PEDIDO. ALEGAÇÃO DE OMISSÃO E CONTRADIÇÃO. INEXISTÊNCIA. EMBARGOS REJEITADOS.
+1. Desnecessária a reiteração do pedido de assistência judiciária gratuita na instância especial, porquanto, uma vez concedido, o benefício da gratuidade da justiça prevalecerá em todas as instâncias e para todos os atos do processo, nos termos do art. 9º da Lei 1.060/50.
+2. Depreende-se do artigo 1.022 do Novo CPC, que os embargos de declaração apenas são cabíveis quando constar, na decisão recorrida, obscuridade, contradição, erro material ou omissão em ponto sobre o qual deveria ter se pronunciado o julgador, ou até mesmo as condutas descritas no artigo 489, § 1º, do referido diploma legal, que configurariam a carência de fundamentação válida.
+3. No presente caso, verifica-se a ausência dos vícios previstos no art. 1.022 do Novo CPC, revelando, em verdade, mero inconformismo da parte embargante.
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp n. 1.776.740/DF, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 21/6/2021, DJe de 29/6/2021.)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. HONORÁRIOS ADVOCATÍCIOS. GRATUIDADE DE JUSTIÇA. MODIFICAÇÃO DA SITUAÇÃO FINANCIEIRA DO BENEFICIÁRIO DA JUSTIÇA GRATUITA NÃO CONFIGURADA. SÚMULA 83/STJ.
+1. Trata-se de Recurso Especial com o objetivo de anular acórdão que não reconheceu a modificação da situação financeira do recorrido beneficiário da justiça gratuita.
+2. A jurisprudência do STJ é no sentido que o benefício da assistência judiciária compreende todos os atos do processo, em todas as instâncias, até decisão final do litígio, a menos que seja revogado. Tal revogação deve estar calcada em fato novo que altere a hipossuficiência da parte, o que não é o caso dos autos. Dessume-se que o acórdão recorrido está em sintonia com o atual entendimento do STJ, razão pela qual não merece prosperar a irresignação. Incide, in casu, o princípio estabelecido na Súmula 83/STJ: "Não se conhece do Recurso Especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+3. Recurso Especial não conhecido.
+(REsp n. 1.774.660/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 5/9/2019, DJe de 11/10/2019.)
+No caso em questão, à fl. 294 (e-STJ) foi deferido o benefício da justiça gratuita nos seguintes termos:
+Tendo em vista o contido em seq. 60 dos autos, concedo a gratuidade da justiça aos embargantes, explica-se.
+No que se refere a pessoa física (José Rogério Antunes Estefane), tem-se que aliado ao contido no artigo 98, §3º do NCPC, consta a declaração de hipossuficiência, além de IRPF, que atesta a impossibilidade de suportar as custas e despesas processuais. Lado outro, no que tange a embargante pessoa jurídica (Coepar Obras e Saneamento  LTDA e EPP), sabe-se que existe possibilidade manifesta de concessão da gratuidade da justiça as pessoas jurídicas.
+No caso, verifica-se que a embargante é Empresa de Pequeno Porte, inativa, segundo seu técnico contábil, não tendo, por exemplo, declarado o IRPF 2017 (seq. 60.4). Posto isso, anote-se o feito para sentença, considerada a gratuidade da justiça concedida as embargantes.
+Nesse contexto, "a revogação do benefício da assistência judiciária gratuita - importante instrumento de democratização do acesso ao Poder Judiciário - pressupõe prova da inexistência ou do desaparecimento do estado de miserabilidade econômica (..)" (REsp n. 1.663.193/SP, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe 23/02/2018), o que não se verificou na hipótese.
+Portanto, o simples fato de constar a condenação da parte em honorários sucumbenciais, não importa, por si só, na revogação da benefício anteriormente concedido, mesmo porque, "o beneficiário da justiça gratuita não é isento do pagamento dos ônus sucumbenciais, apenas sua exigibilidade fica suspensa até que cesse a situação de hipossuficiência ou se decorridos cinco anos, conforme prevê o art. 12 da Lei 1.060/50" (AgRg no AREsp n. 590.499/SP, Relator Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 11/11/2014, DJe de 21/11/2014).
+Além disso, assenta a Corte Especial do Superior Tribunal de Justiça que se presume "o deferimento do pedido de assistência judiciária gratuita não expressamente indeferido por decisão fundamentada  ..  A ausência de manifestação do Judiciário quanto ao pedido de assistência judiciária gratuita leva à conclusão de seu deferimento tácito, a autorizar a interposição do recurso cabível sem o correspondente preparo" (AgRg nos EAREsp n. 440.971/RS, Relator Ministro RAUL ARAÚJO, CORTE ESPECIAL, julgado em 3/2/2016, DJe 17/3/2016).
+No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO. INSURGÊNCIA RECURSAL DA AGRAVANTE.
+1. A omissão do juízo a quo em analisar o pedido de concessão dos benefícios da gratuidade da justiça implica em seu deferimento tácito, sobretudo quando apresentado por pessoa física, a favor de quem se presume verdadeira a declaração de hipossuficiência.
+(..)
+3. Agravo interno parcialmente provido.
+(AgInt no AREsp n. 1.406.846/SP, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 24/6/2019, DJe 28/6/2019.)
+Desse modo, considerando a prévia concessão do benefício e a inexistência de revogação expressa na sentença, encontra-se justificada a desnecessidade de preparo do recurso de apelação interposto na origem, na linha da jurisprudência acima citada.
+Portanto, não há falar em deserção do recurso de apelação.
+Ante o exposto, DOU PROVIMENTO ao recurso especial para afastar a deserção de recurso de apelação e determinar a devolução dos autos à origem para o julgamento do recurso como entender de direito..
+Publique-se e intimem-se.
