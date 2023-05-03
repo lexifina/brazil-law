@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interno, interposto por BRF S.A., em face de decisão proferida pela Presidência desta Corte Superior, a qual não conheceu do agravo em recurso especial, por considerar aplicável o óbice da Súmula 283/STF.
+Nas razões do agravo interno, a agravante sustenta que impugnou efetivamente todos os fundamentos da decisão agravada, razão pela qual seria impertinente a incidência do óbice sumular constante na decisão agravada.
+Aberto prazo para impugnação, não foi apresentada, conforme certificado na fl. 230 (e-STJ).
+Diante da análise das razões do agravo interno, reconsidero a decisão recorrida e passo à análise do agravo em recurso especial.
+O recorrente manifestou agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa (fl. 134):
+EMBARGOS À EXECUÇÃO. INDEFERIMENTO DO PEDIDO DA EMBARGANTE DE LIBERAÇÃODO SEGURO GARANTIA. SENTENÇA QUE ACOLHEU OS EMBARGOS E EXTINGUIU AEXECUÇÃO. PENDÊNCIA DE RECURSO DE APELAÇÃO INTERPOSTO PELA EMBARGADA E RECEBIDO NO DUPLO EFEITO. ART. 1.012, CAPUT, DO CPC. SENTENÇA QUE NÃO COMEÇA A PRODUZIR EFEITOS IMEDIATAMENTE. IMPOSSIBILIDADE DE LIBERAÇÃO DA GARANTIA DO JUÍZO ANTES DO JULGAMENTO DO RECURSO DOTADO DE EFEITO SUSPENSIVO. DECISÃO MANTIDA. RECURSO DESPROVIDO
+Nas razões do especial, aponta a recorrente violação do artigo 919, § 1º, do Código de Processo Civil, argumentando, em síntese, que o juízo de procedência dos embargos à execução, extinguindo a execução, determinaria a liberação da garantia.
+Assevera que a cautela não seria mais pertinente, ainda que a apelação interposta contra a sentença que julgou procedente os embargos à execução tenha sido recebida com efeito suspensivo.
+Contrarrazões não foram apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+No caso, observo que o Tribunal de origem consignou, expressamente, que deveria ser mantida a garantia prestada para oposição dos embargos à execução, por considerar que remanesceria o risco quanto à reversibilidade do provimento favorável alcançado pelo executado.
+A propósito, transcrevo do acórdão recorrido (e-STJ, fl. 136):
+No presente caso, os embargos à execução haviam sido recebidos com efeito suspensivo, nos termos do art. 919, § 1º, do CPC, sendo que o requisito de garantia da execução, que pode se dar por penhora, depósito ou caução suficientes, foi preenchido pela embargante/executada por meio de apresentação de seguro garantia. Posteriormente, sobreveio a sentença que acolheu os embargos à execução e extinguiu a execução, contra a qual a embargada/exequente interpôs recurso de apelação recebido no duplo efeito (CPC, art. 1.012, caput) por esta Relatora.
+Com o recebimento do recurso de apelação nos efeitos devolutivo e suspensivo, a sentença recorrida não começa a produzir efeitos imediatamente, de modo que a decisão anteriormente proferida acerca da concessão do efeito suspensivo aos embargos à execução continua a gerar efeito.
+Portanto, no presente caso, a execução permanecerá paralisada, conforme aduziu a agravante, porém isso não significa que a extinção da execução já produza efeitos, com o cancelamento de qualquer ato relacionado à constrição de bens ou à garantia da execução realizado naquele processo.
+ ..
+Da mesma maneira acontece no presente caso, apesar de a execução permanecer suspensa, a segurança do juízo prestada pela executada por meio de seguro garantia deve ser mantida até o julgamento do recurso de apelação dotado de efeito suspensivo, quando então a sentença de procedência dos embargos e de extinção da execução, caso mantida, produzirá efeitos sem restrições. Até porque, importante ressaltar, a apelação interposta pela exequente se opõe contra a procedência dos embargos e também contra a extinção da execução, de modo que nenhuma das duas tutelas pode ter efeitos imediatos na pendência de recurso de apelação dotado de efeito suspensivo. (grifo acrescido)
+Como se vê do trecho acima reproduzido, o Tribunal de origem pressupõe que remanesceria os pressupostos cautelares para manter a garantia prestada pelo executado, para obter efeito suspensivo, em virtude da oposição dos embargos à execução.
+Diante desse contexto, o acolhimento da pretensão do recorrente demandaria a revis ão dos pressupostos da cautelar, com o reexame de fatos e provas, providência vedada em recurso especial, em razão do óbice da Súmula 7/STJ.
+Ademais, não se admite a interposição do recurso especial contra decisão que versa sobre tutela provisória, como no caso, em razão do óbice da Súmula 735/STF.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Deixo de arbitrar honorários de recurso, pois inexistente condenação a respeito na origem, vedando-se acréscimo posterior, na forma dos §§ 2º e 11 do artigo 85 do Código de Processo Civil.
+Intimem-se.
