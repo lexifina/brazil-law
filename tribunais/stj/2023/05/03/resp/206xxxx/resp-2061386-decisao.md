@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recu rso especial fundamentado no art. 105, III, "a", da CF, interposto contra acórdão assim ementado (e-STJ fl. 478):
+PROCESSO CIVIL. AGRAVO INTERNO EM APELAÇÃO CÍVEL. ARGUMENTOS INSUFICIENTES PARA MODIFICAR A DECISÃO AGRAVADA. QUESTÃO ANTERIORMENTE ANALISADA POR DECISÃO TRANSITADA EM JULGADO. IMPOSSIBILIDADE DE REDISCUSSÃO. EFICÁCIA PRECLUSIVA DA COISA JULGADA. RECURSO CONHECIDO E IMPROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 519/547).
+Em suas razões (e-STJ fls. 548/559), a parte recorrente aponta violação dos seguintes dispositivos legais:
+(i) art. 1.022, II, do CPC/2015, pois "resta ainda sem apreciação a tese atinente à ocorrência apenas de coisa julgada formal, haja vista que não houve julgamento de mérito na Ação Anulatória nº (..) e, por consequência, não houve coisa julgada material apta a impedir a análise do recurso" (e-STJ fl. 553),
+(ii) art. 486, caput e § 1º, do CPC/2015 e 1.793, §§ 2º e 3º, do CC/2002, porque "a coisa julgada do processo em questão diz respeito apenas à perspectiva endoprocessual, não impedindo que se formule nova ação (..). O vício existente no processo anterior, o qual foi extinto com base no inciso IV do art. 485 do CPC, foi sanado corrigindo-se o objeto da lide" (e-STJ fl. 556). "Assim, inexiste óbice para a análise do pleito recursal, que faz jus ao devido exame por esta corte, tendo em vista a existência apenas de coisa julgada formal e não material, além da demonstração da nulidade da cessão de direitos hereditários realizada pelos co-herdeiros" (e-STJ fl. 559).
+Nesses termos, requer o provimento do recurso, "para o fim de reformar o v. Acórdão (..), para fins de apreciação e acolhimento dos pedidos da apelação" (e-STJ fl. 559).
+Contrarrazões apresentadas às fls. 563/576 (e-STJ).
+O recurso foi admitido na origem (e-STJ fls. 603/606).
+É o relatório.
+Decido.
+O Tribunal de origem reconheceu a ofensa à coisa julgada, com base nos seguintes fundamentos:
+Sucede que, com o presente recurso, o agravante pretende, na realidade, anular o negócio de compra e venda de imóvel objeto do inventário celebrado entre os herdeiros e a empresa COMERCIAL FERRONORTE LTDA, o que já fora objeto daquela ação judicial anterior e resolvida por aquele Juízo, que concluiu pela impertinência das alegações do recorrente, tendo proferido sentença pela extinção do processo, que transitou livremente em julgado desde 15/06/2021. Assim, se a questão atinente à anulação do negócio em discussão já fora analisada por decisão transitada em julgado, resta obstada qualquer rediscussão acerca dessa questão em ação diversa, sob pena de grave violação à segurança jurídica e à estabilização da res judicata. (..). Desse modo, em decorrência da eficácia preclusiva da coisa julgada, verifica-se que o pleito do agravante afronta sim o instituto da coisa julgada. (e-STJ fls. 480/482).
+No presente caso, apesar da oposição de embargos declaratórios, o Tribunal de origem manteve omissão a respeito de questão pertinente ao deslinde da causa, oportunamente suscitada pela parte, qual seja, de que "resta ainda sem apreciação a tese atinente à ocorrência apenas de coisa julgada formal, haja vista que não houve julgamento de mérito na Ação Anulatória nº (..) e, por consequência, não houve coisa julgada material apta a impedir a análise do recurso" (e-STJ fl. 553).
+É pacífico nesse Tribunal o entendimento segundo o qual, não havendo apreciação dos declaratórios em relação a ponto relevante, impõe-se a anulação do acórdão recorrido para que o recurso seja novamente apreciado.
+Além disso, nos termos da jurisprudência do STJ, "a coisa julgada material somente se dá quando apreciado e decidido o mérito da causa" (EREsp n. 160.850/SP, Relator para acórdão Ministro Sálvio de Figueiredo Teixeira, Corte Especial, julgado em 3/2/2003, DJ de 29/9/2003, p. 134).
+Assim, constatada a omissão, considerando que a análise fático-probatória não pode ser realizada por este juízo especial, a teor da Súmula n. 7/STJ, os autos devem retornar ao Tribunal de origem.
+Ficam prejudicadas as demais questões apresentadas no recurso especial.
+Ante o exposto, DOU PROVIMENTO ao recurso, a fim de determinar o retorno dos autos ao Tribunal de origem para exame dos vícios apontados, nos termos da fundamentação.
+Publique-se e intimem-se.
