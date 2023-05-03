@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+FRANCOA DOS SANTOS FABRICIO DA SILVA agrava de decisão da Presidência desta Corte Superior, que não conheceu do agravo com fundamento na Súmula n. 182 do STJ.
+No regimental, a defesa afirma que "não há violação da Súmula nº 7 do Superior Tribunal de Justiça no presente caso, uma vez que não se trata de reanálise do material probatório constante dos autos" (fl. 550).
+Pondera que "não se pleiteia no Recurso Especial em questão que o E. Superior Tribunal de Justiça busque nos autos provas que afastem a condenação. O que se pede, com efeito, é que essa Corte Superior proceda a uma nova valorização do material probatório evocado pelo Acórdão" (fl. 552).
+Discorre brevemente sobre o mérito recursal, a fim de sustentar a aplicação da minorante do art. 33, § 4º, da Lei n. 11.343/2006.
+Sustenta, ainda, que: a) "o Recurso Especial manejado demonstrou, de forma exaustiva, o dissídio jurisprudencial existente entre os julgados sobre a matéria em debate, transcrevendo os trechos que configuram a discordância jurisprudencial"; "b) "o tema foi debatido em instância singular e 2º grau de jurisdição, portanto, revelou-se o prequestionamento da matéria"; c) "a divergência notória com arestos dos órgãos fracionários do Superior Tribunal de Justiça, dispensa a demonstração analítica de sua existência" (todos à fl. 555).
+Postula seja conhecido o agravo e provido o recurso especial.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RAZÕES DE INADMISSÃO DO RECURSO NÃO INFIRMADAS EM SUA TOTALIDADE. INCIDÊNCIA DA SÚMULA N. 182 DO STJ. AGRAVO NÃO PROVIDO.
+1. Como já delimitado pela Presidência desta Corte Superior na decisão agravada, o recurso defensivo foi interposto com fundamento na alínea "a" do permissivo constitucional e não foi admitido pelo Tribunal a quo com fundamento nos enunciados das Súmulas n. 182 e 7 do STJ.
+2. Ao interpor o agravo contra tal decisum, a defesa se limitou a afirmar - tal como fez no regimental que ora se analisa -, de modo genérico, que a análise pretendida não demandava revolvimento de provas. Além disso, sustentou que a divergência jurisprudencial estava devidamente comprovada, que a matéria alegada estava prequestionada e que a fundamentação do recurso era suficiente para permitir a compreensão da controvérsia.
+3. Observa-se, inicialmente, que o recurso especial não foi interposto com fundamento na alínea "c" do inciso III do art. 105 da Constituição Federal, tampouco teve seu seguimento negado por eventual ausência de comprovação de divergência jurisprudencial, o que evidencia que parte das razões recursais está dissociada dos motivos exarados no decisum combatido.
+4. A jurisprudência desta Corte Superior é firme ao asseverar que, para refutar a incidência da Súmula n. 7 do STJ, era imprescindível à parte individualizar, de forma clara, específica e fundamentada, a desnecessidade de revolvimento subjetivo do conjunto fático e probatório para o acolhimento de suas alegações, o que não ocorreu, pois o agravante limitou-se a fazer afirmações genéricas e a reiterar as teses meritórias formuladas no especial.
+5. Agravo não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+A despeito das ponderações defensivas, não vejo como dar seguimento ao agravo interposto contra a inadmissão do recurso especial.
+Como já delimitado pela Presidência desta Corte Superior na decisão de fls. 542-543, o recurso defensivo foi interposto com fundamento na alínea "a" do permissivo constitucional e não foi admitido pelo Tribunal a quo com fundamento nos enunciados das Súmulas n. 182 e 7 do STJ.
+Ao interpor o agravo contra tal decisum, a defesa se limitou a afirmar - tal como fez no regimental que ora se analisa -, de modo genérico, que a análise pretendida não demandava revolvimento de provas. Além disso, sustentou que a divergência jurisprudencial estava devidamente comprovada, que a matéria alegada estava prequestionada e que a fundamentação do recurso era suficiente para permitir a compreensão da controvérsia.
+Todavia, observa-se, inicialmente, que o recurso especial não foi interposto com fundamento na alínea "c" do inciso III do art. 105 da Constituição Federal, tampouco teve seu seguimento negado por eventual ausência de comprovação de divergência jurisprudencial, o que evidencia que parte das razões recursais está dissociada dos motivos exarados no decisum combatido.
+Além disso, a jurisprudência desta Corte Superior é firme ao asseverar que, para refutar a incidência da Súmula n. 7 do STJ, era imprescindível à parte individualizar, de forma clara, específica e fundamentada, a desnecessidade de revolvimento subjetivo do conjunto fático e probatório para o acolhimento de suas alegações, o que não ocorreu, pois o agravante limitou-se a fazer afirmações genéricas e a reiterar as teses meritórias formuladas no especial. Nesse sentido:
+ ..
+5. No tocante à aplicação da Súmula n. 7 do Superior Tribunal de Justiça, nas razões do agravo em recurso especial, o Agravante se limitou a sustentar genericamente que a matéria seria apenas jurídica, sem explicitar, à luz da tese recursal trazida no recurso especial, de que maneira a análise não dependeria do reexame de provas. Assim, não houve a observância da dialeticidade recursal, motivo pelo qual careceu o referido recurso de pressuposto de admissibilidade, qual seja, a impugnação efetiva e concreta aos fundamentos utilizados para inadmitir o recurso especial, no caso, a incidência da citada súmula desta Corte.
+ ..
+7. Agravo regimental desprovido.
+(AgRg nos EDcl no AREsp n. 1.777.813/MG, Rel. Ministra Laurita Vaz, 6ª T., DJe 25/3/2021, grifei)
+Portanto, verifica-se que a defesa não rebateu, concretamente, todos os óbices da inadmissão do recurso especial. Assim, é inegável a aplicação, na espécie, da Súmula n. 182 desta Corte Superior, segundo a qual "É inviável o agravo do art. 1.021, § 1º, do novo CPC que deixa de atacar especificamente todos os fundamentos da decisão agravada".
+À vista do exposto, nego provimento ao agravo regimental.
