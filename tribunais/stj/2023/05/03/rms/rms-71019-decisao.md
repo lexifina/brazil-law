@@ -1,0 +1,28 @@
+DECISÃO
+Trata -se de recurso ordinário em mandado de segurança interposto por IBFC - INSTITUTO BRASILEIRO DE FORMAÇÃO E CAPACITAÇÃO com fundamento no art. 105, II, "b", da Constituição Federal contra acórdão do Tribunal de Justiça do Estado do Acre assim ementado (e-STJ fl. 216):
+MANDADO DE SEGURANÇA. ADMINISTRATIVO. CONCURSO PÚBLICO. PRELIMINAR DE ILEGITIMIDADE PASSIVA. AFASTADA. MÉRITO. CANDIDATO REPROVADO NO EXAME MÉDICO E TOXICOLÓGICO. INEXISTÊNCIA DE FUNDAMENTAÇÃO. VIOLAÇÃO A PRECEITOS CONSTITUCIONAIS. OFENSA A DIREITO LIQUIDO E CERTO EVIDENCIADA. SEGURANÇA CONCEDIDA.
+1. As autoridades coatoras subscritoras do edital de abertura do concurso público e de todas as demais regras editalícias que homologaram cada fase, etapa a etapa do certame, são partes legitimas para integrar o polo passivo do mandado de segurança impetrado por candidato eliminado em etapa do concurso público. Preliminar afastada.
+2. Não é admissível a eliminação de candidato em concurso público, por ser considerado inapto em exame médico, sem a devida fundamentação. Precedentes do STJ.
+3. Caso dos autos em que o candidato foi excluído do certame no exame médico e toxicológico, sem a demonstração de possível incompatibilidade com o exercício do cargo, deixando a Administração Pública de apresentar seu principal requisito de validade, qual seja, a necessária fundamentação.
+4. Segurança concedida.
+A parte recorrente alega, em síntese, que "Descabe ao Judiciário obrigar habilitação do candidato no concurso, sob pena de praticar notório ultraje ao princípio da isonomia, quando, em verdade, não lhe é dado intervir nos critérios de correção de provas e de atribuição de notas, dispondo sobre o mérito das questões de provas de concurso público como é o caso dos autos" (e-STJ fl. 241).
+Apresentadas contrarrazões (e-STJ fls. 276/282).
+O Ministério Público Federal opinou pelo não conhecimento do recurso (e-STJ fls. 315/317).
+Passo a decidir.
+Constato que o recurso ordinário em apreço é manifestamente incabível, visto que o acórdão recorrido não cuida da hipótese prevista no art. 105, II, "b", da Constituição Federal, de denegação de mandado de segurança de competência originária de Tribunal Regional Federal ou de Tribunal de Justiça.
+No caso dos autos, verifico que a parte recorrente se insurge contra decisão concessiva da segurança em mandamus de competência originária de Tribunal de segunda instância. Logo, a utilização de recurso ordinário nesses casos configura erro grosseiro, impossibilitando a aplicação do princípio da fungibilidade recursal.
+Nessa linha:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. CONCESSÃO DA ORDEM. ACÓRDÃO PROFERIDO EM ÚNICA INSTÂNCIA POR TRIBUNAL ESTADUAL. RECURSO ORDINÁRIO. DESCABIMENTO. PRINCÍPIO DA FUNGIBILIDADE. INAPLICABILIDADE.
+1. Contra o acórdão proferido em mandado de segurança e decidido em única instância por Tribunal de Estado, por pretensa violação da lei federal, cabe: a) recurso ordinário, quando denegatória a decisão (art. 105, II, "b", da CF/1988); b) recurso especial, na hipótese restante (art. 105, III, "a", da CF/1988).
+2. Na hipótese, a Corte de origem concedeu a ordem, mostrando-se incabível a interposição de recurso ordinário constitucional.
+3. Ainda que se considere a ocorrência de eventual omissão no julgado proferido pela Corte local, tal vício não se confunde com a denegação da ordem, a ensejar a propositura do recurso ordinário constitucional. Atrairia, se fosse o caso, a interposição de recurso especial.
+4. Segundo a jurisprudência pacífica do Superior Tribunal de Justiça, inaplicável o princípio da fungibilidade para admitir-se o recurso ordinário constitucional, porquanto a interposição deste, fora das hipóteses claramente estabelecidas pela Carta Magna, configura erro grosseiro.
+5. Agravo interno a que se nega provimento.
+(AgInt no RMS n. 56.854/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 6/5/2020, DJe de 14/5/2020.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. INTERPOSIÇÃO DE RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA EM DETRIMENTO DO RECURSO ESPECIAL. ACÓRDÃO CONCESSIVO DA SEGURANÇA. ERRO GROSSEIRO. INAPLICABILIDADE DO PRINCÍPIO DA FUNGIBILIDADE RECURSAL. ESTRITA OBSERVÂNCIA AO ART. 105, II, "B", DA CONSTITUIÇÃO FEDERAL. CONCURSO DE PROVAS E TÍTULOS PARA DELEGAÇÃO DE SERVIÇOS CARTORÁRIOS.
+1. O art. 105, II, "b", da Constituição Federal preconiza que "Compete ao Superior Tribunal de Justiça julgar, em recurso ordinário: os mandados de segurança decididos em única instância pelos Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e Territórios, quando denegatória a decisão". Logo, é inadmissível recurso ordinário interposto contra acórdão que concedeu a segurança almejada. Precedentes: AgRg no RMS 25.169/SP, Relator Ministro Humberto Martins, Segunda Turma, DJ de 26 de novembro de 2007 e AgRg no Ag 891.132/SP, Relator Ministro Napoleão Nunes Maia Filho, Quinta Turma, DJ de 10 de setembro de 2007.
+2. Deveras, o recurso cabível para o STJ seria o especial, e não o ordinário em mandado de segurança; por isso a interposição equivocada pelo impetrante configura erro grosseiro, pois injustificada a dúvida quanto à irresignação cabível e insuscetível de aplicação do princípio da fungibilidade recursal, já que a Constituição Federal delimita o uso do recurso ordinário contra decisão que denega a segurança em sede de writ decido em última instância por Tribunal de Justiça ou Regional Federal.
+3. Recurso ordinário não conhecido.
+(RMS n. 27.961/MG, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 25/8/2009, DJe de 3/9/2009.)
+Ante o exposto, N ÃO CONHEÇO do recurso ordinário.
+Intimem-se. Publique-se.
