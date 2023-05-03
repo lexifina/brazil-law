@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de conflito negativo de competência suscitado pelo JUÍZO FEDERAL DA 1A VARA CÍVEL DE BELO HORIZONTE - SJ/MG em virtude de decisão declinatória de competência proferida pelo TRIBUNAL REGIONAL DO TRABALHO DA 3A REGIÃO nos autos da reclamação trabalhista ajuizada por ANDRESSA MARTINS KREPEL VELASCO contra a CAIXA ECONÔMICA FEDERAL, em que postula a sua convocação e admissão para exercer o cargo de técnico bancário novo, ante a sua aprovação em concurso público.
+A ação foi proposta perante o Juízo trabalhista, que, por ocasião do julgamento do recurso ordinário, reconheceu a competência da Justiça comum com base no Tema 992/STF.
+O Juízo Federal da 1ª Vara CíveI de Belo Horizonte SJ/MG, por sua vez, declarou-se incompetente ao fundamento de que se trata de sentença proferida pela vara trabalhista em 21/9/2016, sendo, portanto, da Justiça laboral a competência para julgar a causa, segundo o Tema 992/STF.
+Parecer do Ministério Público Federal pela competência da Justiça do Trabalho (fls. 49/54).
+Em síntese, é o relatório.
+Inicialmente, conheço do conflito, pois há dois tribunais distintos declinando de suas respectivas competências.
+O Supremo Tribunal Federal, ao julgar o RE 960.429/RN, sob o rito da repercussão geral, firmou a seguinte tese (Tema 992):
+Compete à Justiça Comum processar e julgar controvérsias relacionadas à fase pré-contratual de seleção e de admissão de pessoal e eventual nulidade do certame em face da Administração Pública, direta e indireta, nas hipóteses em que adotado o regime celetista de contratação de pessoas, salvo quando a sentença de mérito tiver sido proferida antes de 6 de junho de 2018, situação em que, até o trânsito em julgado e a sua execução, a competência continuará a ser da Justiça do Trabalho.
+Na presente demanda, a parte autora ajuizou reclamação trabalhista contra a Caixa Econômica Federal com o fim de obter a sua convocação e admissão para exercer o cargo de técnico bancário novo, ante a sua aprovação em concurso público. A ação foi proposta inicialmente no Juízo trabalhista, que, em 21/9/2016, proferiu sentença julgando parcialmente procedente a ação para determinar que a CEF promova a convocação e a admissão da autora para o cargo pretendido. Assim, em se tratando de sentença de mérito proferida antes de 6/6/2018, compete à Justiça do Trabalho o julgamento da causa.
+Pelo exposto, conheço do conflito de competência para declarar competente a Justiça do Trabalho.
+Publique-se. Comunique-se.
