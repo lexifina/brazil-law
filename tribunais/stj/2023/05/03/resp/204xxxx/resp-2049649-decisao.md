@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão com a seguinte ementa:
+APELAÇÃO CÍVEL. ALIENAÇÃO FIDUCIÁRIA. AÇÃO DE BUSCA EAPREENSÃO. POSSIBILIDADE DE AJUIZAMENTO DE AÇÃO DE BUSCAE APREENSÃO, DESDE QUE INEQUIVOCAMENTE PREENCHIDOS OS REQUISITOS LEGAIS. NOTIFICAÇÃO INVÁLIDA PARA FINS DE CONFIGURAÇÃO DA MORA, PORQUANTO NÃO ENTREGUE NO DOMICÍLIO DO DEVEDOR. TAMPOUCO REALIZADA NOTIFICAÇÃO POSTERIOR POR MEIO DE EDITAL. RECURSO IMPROVIDO.
+Alega-se violação dos artigos 2º, § 2º, e 3º do Decreto-Lei 911/69 sob o argumento de que a notificação da mora do recorrido por inadimplemento referente a contrato de alienação fiduciária foi perfeitamente realizada, porque enviada por carta com aviso de recebimento ao endereço contratual do devedor.
+Afirma que, "No caso, tem-se que o credor/recorrente enviou a correspondência para o endereço que constava do contrato, mas havendo o devedor se ausentado reiteradas vezes, diferentemente do que entende a Corte Estadual, não havia mais o que se esgotar." (eSTJ fl. 116).
+Assim delimitada a controvérsia, passo a decidir.
+Esta Corte Superior tem entendimento no sentido de que, para a notificação da mora do d evedor de contrato de alienação fiduciária, não é necessário que notificação seja recebida pelo devedor.
+Não se dispensa, todavia, que seja efetivamente recebida no endereço contratual.
+O Tribunal local, no caso dos autos, consignou e concluiu que:
+"(..) A ação de busca e apreensão de bem alienado fiduciariamente tem previsão no Decreto-Lei nº 911/69, desde que inequivocamente preenchidos os requisitos legais.
+Nesse contexto, a comprovação da mora é imprescindível e poderá ser realizada por carta registrada entregue no endereço do domicílio do devedor, revelando-se, por outro lado, dispensável a notificação pessoal e, ainda, menção acerca do valor do débito.
+Além disso, conforme nova redação do §2º do art. 2º do Decreto-Lei n. 911/69, o ato não precisa ser efetivado por intermédio de Cartório de Títulos e Documentos ou pelo Protesto doTítulo4; entretanto, caso realizado de tal forma, o fato de ter sido por Comarca diversa daquela do domicílio do devedor não interfere em sua legalidade (Recurso Especial Repetitivo 1184570-MG5).
+No caso concreto, a notificação não foi entregue no domicílio do devedor (constando a seguinte informação na certidão anexada: "ausente"), circunstância que acarreta a invalidade da medida, uma vez que não realizada a posterior notificação por edital." (e-STJ, fl. 96-98, grifei).
+O entendimento do Tribunal local está, portanto, em harmonia com a jurisprudência desta Casa.
+A saber:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA. AUSÊNCIA DE AFRONTA AO ART. 1.022 DO CPC/2015. CONSTITUIÇÃO EM MORA. AUSÊNCIA DE NOTIFICAÇÃO PRÉVIA. SÚMULAS N. 7 E 83 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. AUSÊNCIA DE SIMILITUDE FÁTICA. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. É assente nesta Corte o entendimento de que "a notificação apresentada não tem validade para constituição em mora se não foi entregue no endereço do devedor, não podendo ser presumida sua má-fé por encontrar-se ausente no momento da entrega" (AgInt no REsp n. 1.929.336/RS, Rel. Ministra MARIAISABEL GALLOTTI, QUARTA TURMA, julgado em 29/11/2021, DJe 1º/12/2021 ).
+3. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+4. No caso concreto, o Tribunal de origem analisou as provas dos autos para concluir pela ausência de constituição em mora do devedor . Alterar tal conclusão é inviável em recurso especial.
+5. O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige a demonstração da similitude fática entre os acórdãos confrontados.
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.155.694/RR, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 12/12/2022, DJe de 15/12/2022.)
+Ademais, o Tribunal de origem analisou os documentos dos autos para concluir pela ausência de constituição em mora do devedor . Alterar esta conclusão é inviável em recurso especial.
+Inequívoca, pois, a incidência dos verbetes n. 7 e 83 da Súmula desta Casa.
+Em face do exposto, nego provimento ao recurso.
+Nos termos do artigo 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
