@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de recurso especial interposto por LUIZ CARLOS DA CRUZ, com fundamento no artigo 105, inciso III, alíneas "a", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO.
+O julgado negou provimento ao recurso agravo de instrumento do recorrente nos termos da seguinte ementa (fls. 323):
+AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO. EXECUÇÃO. PAGAMENTO POR MEIO DE PRECATÓRIO. RESISTÊNCIA DO DEVEDOR. INOCORRÊNCIA. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. DESCABIMENTO.
+1. Não são devidos honorários nas execuções propostas contra a Fazenda Pública, quando não embargadas e iniciadas posteriormente à edição da MP n. 2.180-35/2001, nos casos em que o pagamento deva ser feito via precatório (débitos superiores a sessenta salários mínimos).
+Sem embargos de declaração.
+Rejeitados os embargos de declaração opostos (fls.344-348).
+No presente recurso especial, o recorrente alega que o acórdão regional contrariou as disposições contidas no artigo 85, §1º e 7º, do CPC, pois "deixou de fixar os honorários advocatícios devidos na execução, seja ela resistida ou não". (fl. 357)
+Não apresentadas as contrarrazões, sobreveio o juízo de admissibilidade positivo da instância de origem (fls. 365).
+É, no essencial, o relatório.
+Não merecem prosperar as alegações do recorrente.
+Cuida-se, na origem, de agravo de instrumento em que o Tribunal a quo negou provimento quanto à fixação de honorários advocatícios em cumprimento de sentença, na medida em que não houve impugnação, por parte da Fazenda Pública, aos cálculos apresentados pelo exequente, conforme preceitua o art. 85, §7º, do CPC, in verbis: Não serão devidos honorários no cumprimento de sentença contra a Fazenda Pública que enseje expedição de precatório, desde que não tenha sido impugnada.
+Nos termos da jurisprudência pacífica do STJ, "não haverá necessidade de fixação de honorários advocatícios previstos no art. 85, § 7º, do CPC/2015 quando a Execução não tiver sido impugnada e seu pagamento ocorrer por precatório" (AgInt no REsp n. 1.785.417/DF, relator Ministro Herman Benjamin, Segunda Turma, julgado em 28/11/2022, DJe de 13/12/2022.)
+No mesmo sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. SENTENÇA QUE NEGOU PROVIMENTO A AGRAVO DE INSTRUMENTO, POSTERIORMENTE CONFIRMADA PELO TRIBUNAL DE ORIGEM. APELO NOBRE PROVIDO E DETERMINAÇÃO DE RETORNO DOS AUTOS AO TRIBUNAL A QUO PARA REAPRECIAR O AGRAVO DE INSTRUMENTO À LUZ DE NOVA PREMISSA JURÍDICA. DESNCESSIDADE DE RETORNO DOS AUTOS AO JUÍZO DE 1º GRAU. SUPRESSÃO DE INSTÂNCIA. NÃO OCORRÊNCIA.
+1. Cuida-se na origem de agravo instrumento interposto pela parte ora agravante contra decisão proferida nos autos do cumprimento de sentença em desfavor do IPERGS, que indeferiu a fixação de honorários advocatícios.
+2. Na forma da jurisprudência desta Corte, "é cabível a condenação em honorários advocatícios no cumprimento de sentença contra a Fazenda Pública cujo pagamento ocorrerá através do regime de precatório, na hipótese de apresentação de impugnação pelo devedor, em observância ao art. 85, § 7º, do CPC/2015" (AgInt no REsp n. 1.881.747/RS, relator Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 24/11/2021.).
+3. O agravo de instrumento é dotado de efeito devolutivo, permitindo ao Tribunal ad quem reexaminar a questão resolvida pela decisão interlocutória de que se recorre, sendo certo que o decisum que vier ser prolatado pela Corte também é dotado de efeito substitutivo. Inteligência dos arts. 1.008 e 1.015 do CPC. Nesse sentido: AgInt no AREsp n. 649.912/ES, relatora Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe de 12/11/2020; REsp n. 1.913.033/SP, relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe de 25/6/2021.
+4. No caso concreto, reconheceu-se que a decisão proferida pela Corte estadual se amparou em premissa jurídica equivocada -impossibilidade de fixação de honorários advocatícios de sucumbência na hipótese sub judice. Considerando-se a inviabilidade de arbitramento da verba honorária desde já, em virtude do óbice da Súmula 7/STJ, devem os autos retornar ao Tribunal de origem.
+5. Nessa toada, verifica-se que os julgados citados pela parte ora agravante - EDcl no REsp 1.893.146/RS e EDcl no AgInt nos EDcl no REsp 1.889.062/RS (relator Ministro MAURO CAMPBELL MARQUES, DJe de 26/8/2021 e DJe de 27/9/2021, respectivamente) - encontram-se dissonantes da jurisprudência majoritária desta Corte, com a qual se alinha, por sua vez, a decisão ora agravada.
+6. Agravo interno desprovido.
+(AgInt nos EDcl no REsp n. 1.998.524/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 13/3/2023, DJe de 16/3/2023.)
+PROCESSUAL CIVIL. SERVIDOR PÚBLICO. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. IMPUGNAÇÃO PARCIAL. BASE DE CÁLCULO DOS HONORÁRIOS ADVOCATÍCIOS FIXADOS NA EXECUÇÃO. EXCLUSÃO DA PARCELA INCONTROVERSA DO CRÉDITO.
+1. Conforme assentado na origem, a impugnação ao Cumprimento de Sentença foi parcial e, ao final, teve anuência da parte exequente.
+Assim, quanto à parte do Cumprimento de Sentença contra a qual não houve impugnação, emprega-se o entendimento jurisprudencial consolidado de que não incidem honorários advocatícios de Cumprimento de Sentença sujeito ao regime do precatório sobre o qual não houve impugnação, o que está em linha com o art. 85, § 7º, do CPC/2015. A propósito: AgInt no REsp 1.815.647/RS, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 27.4.2020.
+2. Verifica-se que a hipótese dos autos não trata da exceção à regra acima, relativa aos casos em que o Cumprimento de Sentença individual advém de sentença exarada em Ação Coletiva, quando invariavelmente é devida a fixação de honorários advocatícios em favor do patrono do exequente. A título ilustrativo: REsp 1.859.615/PR, Rel. Min. Herman Benjamin, Segunda Turma, DJe 31.8.2020.
+3. Agravo Interno não provido.
+(AgInt nos EDcl no AgInt no REsp n. 1.885.632/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 28/6/2021, DJe de 1/7/2021.)
+No caso dos autos, observa-se, portanto que não houve violação do art. 85, §§ 1º e 7º, do CPC.
+Dessarte, estando o acórdão recorrido em sintonia com o entendimento dominante deste Tribunal, aplica-se, ao caso, o entendimento consolidado na Súmula n. 568/STJ, in verbis: "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
