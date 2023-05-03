@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de Pedro Rezende Tavares, apontando-se como autoridade coatora o Tribunal de Justiça do Tocantins, que indeferiu o pedido liminar nos autos da Revisão Criminal n. 0003078-23.2023.8.27.2700.
+Alega-se manifesta ilegalidade, tendo em vista que o tipo penal do art. 89 da Lei n. 8.666/1993 exige o dolo específico de causar dano ao erário, além do efetivo prejuízo ao erário, situações inexistentes nos autos. Aduz-se, ainda, que o acórdão impugnado contraria manifestamente o posicionamento jurisprudencial do Superior Tribunal de Justiça.
+É o relatório.
+Não tem cabimento o presente writ.
+Primeiro, como visto, não seria admissível o ajuizamento de revisão criminal na origem e do presente habeas corpus contra o mesmo ato, no caso, o acórdão da apelação, e a jurisprudência do Superior Tribunal de Justiça também não admite a tramitação concomitante de recursos e habeas corpus manejados contra o mesmo ato, sob pena de violação do princípio da unirrecorribilidade (AgRg no HC n. 678.593/SP, Ministra Laurita Vaz, Sexta Turma, DJe 27/9/2022).
+Além disso, também é inadmissível a impetração de habeas corpus contra decisão de indeferimento de pedido liminar formulado em outra ação. Com efeito, o Enunciado n. 691 da Súmula do Supremo Tribunal Federal deve ser estendido, por analogia, à hipótese dos autos, na qual foi indeferido pedido liminar em revisão criminal em que se buscou a concessão de efeito suspensivo à ação impugnativa, que, por sua vez, não obsta a execução penal (AgRg no HC n. 679.747/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 10/12/2021). Em outras palavras, em regra, não se admite habeas corpus contra decisão indeferitória de liminar proferida em revisão criminal em trâmite na instância de origem, salvo nas hipóteses em que se evidenciar situação desprovida de razoabilidade (por forçar o pronunciamento adiantado da instância superior e suprimir a jurisdição da inferior, em subversão à regular ordem de competências constitucionais). Precedentes (AgRg no HC n. 725.380/RS, Ministra Laurita Vaz, Sexta Turma, DJe 8/4/2022).
+Por fim, de igual modo, é inadmissível o uso do habeas corpus contra acórdão transitado em julgado, sobretudo quando inexiste, neste Tribunal, julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente.
+Ante o exposto, indefiro liminarmente o habeas corpu s .
+Publique-se.
+EMENTA
+HABEAS CORPUS. ART. 89 DA LEI N. 8.666/1993. ACÓRDÃO TRANSITADO EM JULGADO E INSURGÊNCIA CONTRA A DECISÃO DA ORIGEM QUE INDEFERE O PLEITO LIMINAR EM REVISÃO CRIMINAL. DESCABIMENTO DO WRIT. INOBSERVÂNCIA DO PRINCÍPIO DA UNIRRECORRIBILIDADE.
+Habeas corpus indeferido liminarmente.
