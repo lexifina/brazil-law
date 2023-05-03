@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto por BMATTOS ASSOCIADOS LTDA. contra decisão que inadmitiu o recurso especial em virtude da falta de violação do dispositivo legal (e-STJ fl. 603).
+O acórdão recorrido está assim ementado (e-STJ fl. 532):
+APELAÇÃO. AÇÃO DE RESCISÃO CONTRATUAL C/C PLEITO INDENIZATÓRIO. CONTRATO DE LICENCIAMENTO DO USO DE SOFTWARE. Apelante que contratou a licença de softwares visando à realização de atividade de edição corporativa. Postula a rescisão do contrato com devolução dos vadores desembolsados e indenização sob fundamento de que as apeladas jamais forneceram os meio stecnológicos e informativos necessários para correto manejo dos programas. DOCUMENTOS. Prova que demonstra o descumprimento de obrigações secundárias (manejo do aplicativo). Não obstante isso, há indícios de efetiva utilização dos softwares por parte da apelante em período contratual relevante. Julgado pretérito desta C.Câmara. que anulou sentença e determinou a realização de prova pericial de ofício, às expensas da apelante. Recorrente que deixou de arcar como adiantamento dos honorários periciais para demonstrar oo fato constitutivo de seu direito. Preclusão da prova. Nova sentença proferida determinando a devolução de parcela dos valores pagos. Abatimento proporcional do preço que se afigurou medida adequada para evitar enriquecimento indevido. SUCUMBENCIA. Readequação da divisão do ônus sucumbenciais. RECURSO PARCIALMENTE PROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 544/548).
+No recurso especial (e-STJ fls. 551/563), fundamentado no art. 105, III, "a", da CF, a recorrente alegou violação do art. 369 do CPC/2015, porque (e-STJ fl. 561 ):
+Primeiramente, esclarece que o único motivo pelo qual os honorários periciais não foram devidamente depositados, foi a falta de recursos financeiros da Recorrente, que visando ao regular andamento do feito, requereu autorização para realizar o recolhimento de tais honorários ao final do processo, nos termos do Enunciado 27, do FETJ, sendo certo que lhe foi negado.
+Compelir a Recorrente, comprovadamente hipossuficiente, a efetuar pagamento, em momento anterior ao final do processo, sem que disponha do recurso financeiro e sob pena de preclusão da prova necessária ao deslinde da causa, fere o princípio da ampla acessibilidade ao Poder Judiciário, consagrado no artigo 5º, XXXV, da Constituição Federal, bem como o Art. 369, do CPC/15, que assevera:
+No agravo (e-STJ fls. 606/614), declara a presença de todos os requisitos de admissibilidade do especial .
+É o relatório.
+Decido.
+Quanto à tese de cerceamento de defesa decorrente da produção da prova pericial, assim decidiu o Tribunal de origem (e-STJ flS. 535/537):
+Em julgamento pretérito da apelação interposta contra essa sentença, proferida em 26.01.2016, esta C. Câmara, por meio de voto de relatoria do I. Desembargador Giffoni Ferreira, houve por bem anular de ofício a r. sentença, ante o princípio da verdade real, determinando a produção de prova pericial para aferição das circunstâncias de funcionamento do sftware adquirido. Apenas a partir daí seria viável obter informações mais adequadas sobre o funcionamento dos programs inclusive no que toca à imprescindibilidade de cursos e instruções par manuseio dos programas.
+Constou expressamente, quanto à perícia a ser realizada, "arcando o Autor com os honorários do Louvado, já que é seu o ônus da prova".
+Com a torna dos autos ao primeiro grau, a perícia não se realizou, ante a recusa da apelante (autora da ação) em adiantar os honorários periciais fixados em R$ 25.000,00, ainda que autorizado o parcelamento em cinco vezes.
+Preclusa a prova e ante a ausência da perícia, fora proferida nova sentença meritória (fls. 461/467), com a repristinação do resultado outrora proferido a fls. 292/295, condenando as apeladas à restituição de R$ 4.000,00. Determinou-se, assim, a devolução parcial do preço.
+(..)
+Ademais, reconheço a ausência de cerceamento de defesa, até mesmo porque foi a apelante que decidiu não arcar com o adiantamento dos honorários periciais, devendo se consignar mais uma vez que o Juízo a quo, inclusive, propôs o parcelamento do valor.
+Não há falar em cerceamento de defesa, pois deferida a produção da prova pericial.
+Em relação às teses de exorbitância do valor dos honorários do perito e de hipossuficiência da parte agravante, tais pontos não foram apreciados pela Corte local, aplicando-se a Súmula n. 282/STF.
+Em face d o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
