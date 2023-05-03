@@ -1,0 +1,6 @@
+DECISÃO
+Trata-se de agravo em recurso especial (e-STJ fls. 470/491) interposto contra decisão que inadmitiu o recurso especial, tendo por exclusivo fundamento a ausência de demonstração da relevância da matéria infraconstitucional sub judice (e-STJ fls. 462/465).
+O requisito da relevância ao recurso especial foi introduzido no ordenamento jurídico pela Emenda Constitucional n. 125, de 14 de julho de 2022, a qual, ao inserir o parágrafo 2º ao art. 105 da CF, referiu-se, expressamente, à regulamentação do dispositivo por lei infraconstitucional.
+O Pleno do Superior Tribunal de Justiça aprovou o Enunciado Administrativo n. 8, nos termos seguintes: "A indicação, no recurso especial, dos fundamentos de relevância da questão de direito federal infraconstitucional somente será exigida em recursos interpostos contra acórdãos publicados após a data de entrada em vigor da lei regulamentadora prevista no artigo 105, parágrafo 2º, da Constituição Federal."
+Tendo em vista que, na hipótese vertente, a inadmissão teve como exclusivo fundamento a ausência de demonstração do requisito da relevância, é de rigor a restituição dos autos à origem, a fim de que, à luz das premissas fixadas no bojo do supramencionado enunciado administrativo, proceda o Tribunal a quo ao juízo de admissibilidade do recurso especial.
+Publique-se. Intimem-se.
