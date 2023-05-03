@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de ÍCARO FERREIRA WANZELER em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO (Apelação n. 0009971-65.2020.8.08.0048).
+Consta dos autos que o paciente foi condenado, em primeira instância, à pena de 11 anos de reclusão, a ser cumprida em regime inicialmente fechado, pela prática dos delitos previstos nos artigos 33 e 35, ambos da Lei n. 11.343/2006 (tráfico e associação para o tráfico) e absolvido pelo crime descrito no artigo 12 da Lei n. 10.826/2003 (posse irregular de arma de fogo de uso permitido).
+Irresignada, a defesa interpôs apelação, ainda pendente de julgamento.
+No presente writ a defesa sustenta o excesso de prazo no julgamento da apelação criminal, sob o fundamento de que o paciente aguarda o julgamento do recurso há quase 2 anos.
+Assevera, ainda, que as provas que embasaram a condenação do paciente foram baseadas em violação de domicílio, já que não houve o consentimento do morador, tampouco a autorização judicial para a entrada em sua casa.
+Alega, também, que há insuficiência probatória quanto ao delito de tráfico de drogas, bem como não foram caracterizadas a permanência e a estabilidade para o crime de associação para o tráfico ilícito de entorpecentes.
+Pretende, liminarmente, seja relaxada a prisão do paciente até o julgamento do mérito do presente writ, ou substituída a medida extrema por uma ou mais cautelares diversas do cárcere previstas no artigo 319 do Código de Processo Penal. No mérito, pleiteia, em razão do alegado excesso de prazo na análise do recurso perante a segunda instância, seja substituído o julgamento do recurso de apelação pelo presente habeas corpus, julgando, por consequência, prejudicado o feito lá interposto.
+Liminar indeferida.
+O Ministério Público Federal manifestou-se pela prejudicialidade do writ.
+É o relatório.
+Decido.
+Não há como conhecer da impetração em relação às teses de violação de domicílio, insuficiência probatória quanto ao delito de tráfico de drogas, bem como ausência de permanência e estabilidade para o crime de associação para o tráfico ilícito de entorpecentes.
+Com efeito, verifico que as teses não foram enfrentadas pelo colegiado do Tribunal de origem, uma vez que juntadas aos autos apenas decisões monocráticas e despacho (e-STJ fls. 46/57, 68 e 70). Nesse contexto, esta Casa se encontra impedida de analisá-las, sob pena de incorrer em indevida supressão de instância e violação ao princípio do duplo grau de jurisdição.
+Ao discorrer sobre o tema, BRASILEIRO vaticina com clareza que se revela "inviável, portanto, o pedido de julgamento de habeas corpus per saltum, ou seja, o julgamento do remédio heroico pelas instâncias superiores sem prévia provocação das instâncias inferiores acerca do constrangimento ilegal à liberdade de locomoção, sob pena de verdadeira supressão de instância e consequente violação do princípio do duplo grau de jurisdição" (LIMA, Renato Brasileiro. Manual de processo penal: volume único. 4. ed. rev. ampl. e atual. Salvador: JusPodivm, 2016, p. 2.470).
+Assim, ante a falta de manifestação do colegiado estadual sobre as teses, percebe-se a incompetência desta Corte Superior para seu processamento e julgamento, já que inexiste, no ponto, ato a ser imputado à autoridade coatora, nos termos do art. 105, I, alínea "c", da Constituição Federal, bem como do art. 13, I, alínea "b", do Regimento Interno do Superior Tribunal de Justiça.
+Por outro vértice, a alegação de excesso de prazo no julgamento da apelação está prejudicada. Isso, porque, consoante parecer do parquet federal (e informações complementares obtidas no sítio eletrônico do Tribunal de origem) sobreveio o julgamento da apelação na instância ordinária, sendo desprovido o recurso.
+Assim, patente que o presente writ está prejudicado quanto ao ponto, haja vista a perda superveniente de objeto.
+Ante o exposto, conheço em parte do presente habeas corpus e, nessa extensão, julgo-o prejudicado.
+Publique-se. Intimem-se.
