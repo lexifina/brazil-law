@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso especial interposto por AGENCIA NACIONAL DE TELECOMUNICAÇÕES com respaldo nas alíneas "a" e "c" do permissivo constitucional contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado (e-STJ fl. 83):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE DÍVIDA ATIVA. VEÍCULOS DO CÔNJUGE DO EXECUTADO. REGIME DE COMUNHÃOPARCIAL DE BENS. MEAÇÃO. CONSTRIÇÃO. POSSIBILIDADE.
+Embargos de declaração rejeitados (e-STJ fls. 107/109).
+Em suas razões, a parte recorrente aponta, além de dissídio jurisprudencial, violação do art. 1.022 do CPC/2015, por negativa de prestação jurisdicional, e, no mérito, alega vulneração dos arts. 797, 829, §2º, e 831 do CPC, argumentando, em suma, que não há necessidade de esgotamento de diligências por parte do credor para que seja requerida a consulta ao sistema RENAJUD.
+Sem contrarrazões (e-STJ fl. 130).
+Juízo positivo de admissibilidade pelo Tribunal de origem à e-STJ fl. 133.
+Passo a decidir.
+Verifico que a pretensão recursal não merece prosperar.
+Em relação à alegada ofensa do art. 1.022 do CPC/2015, constato que a parte deixou de especificar qual(is) teria(m) sido o(s) inciso(s) contrariado(s), fato que, por caracterizar deficiência de fundamentação do recurso especial, acaba por atrair a incidência da Súmula 284 do STF.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO EM ARESP. ALEGAÇÃO GENÉRICA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. DEFICIÊNCIA DE ARGUMENTAÇÃO. SÚMULA 284/STF. RECURSO ESPECIAL QUANTO A QUESTÃO QUE, A DESPEITO DA OPOSIÇÃO DE ACLARATÓRIOS, NÃO FOI APRECIADA PELO TRIBUNAL A QUO. SÚMULA 211/STJ. AGRAVO INTERNO DO ENTE FEDERATIVO DESPROVIDO.
+1. Esta Corte Superior tem a diretriz de que é deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC/2015 se faz de forma genérica, sem especificar quais foram os incisos violados. Aplica-se, na hipótese, o óbice da Súmula 284 do STF (AgInt no AREsp 1.530.183/RS, Rel. Min. MARCO AURÉLIO BELLIZZE, DJe de 19.12.2019; AgInt no AREsp 1.559.920/SE, Rel. Min. FRANCISCO FALCÃO, DJe 22.10.2020).
+2. Na espécie, incide ao caso o óbice da Súmula 284/STF, uma vez que a parte recorrente aponta violação do art. 1.022 do CPC/2015, sem especificar, todavia, quais incisos teriam sido contrariados, a despeito da indicação de omissão, contradição, obscuridade ou erro material.
+ ..
+5. Agravo Interno do Ente Federativo desprovido. (STJ, AgInt no AREsp 1.766.826/RS, Rel. Min. Manoel Erhardt (Desembargador Federal convocado do TRF-5ª Região), Primeira Turma, DJe de 30/4/2021).
+PROCESSO CIVIL. ADMINISTRATIVO. FALHA DO SERVIÇO. ALEGADA ATUAÇÃO NEGLIGENTE DE DEFENSOR PÚBLICO ESTADUAL NO PATROCÍNIO DA CAUSA. DANO MORAL NÃO RECONHECIDO. RECURSO ESPECIAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO RECURSAL. SÚMULA N. 284 DO STF. PRETENSÃO DE RECONHECIMENTO DE DANO MORAL INDENIZÁVEL. CONTROVÉRSIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SÚMULA N. 7 DO STJ. AGRAVO INTERNO. DECISÃO MANTIDA.
+ ..
+III - Quanto à alegação de negativa de prestação jurisdicional, na espécie, incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente aponta violação do art. 1.022 do Código de Processo Civil de 2015 (art. 535 do Código de Processo Civil de 1973), sem especificar, todavia, quais incisos foram contrariados, a despeito da indicação de omissão, contradição, obscuridade ou erro material. Nesse sentido: "É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC/2015 se faz de forma genérica, sem especificar quais foram os incisos violados. Aplica-se, na hipótese, o óbice da Súmula 284 do STF" (AgInt no AREsp n. 1.530.183/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 19/12/2019.)
+ ..
+V - Agravo interno improvido" (STJ, AgInt no AREsp 2.017.243/CE, Relator Ministro Francisco Falcão, Segunda Turma, DJe de 2/6/2022).
+No mérito, a parte alega vulneração dos arts. 797, 829, §2º, e 831 do CPC, argumentando, em suma, que não há necessidade de esgotamento de diligências por parte do credor para que seja requerida a consulta ao sistema RENAJUD.
+Ocorre que, embora tenha o Tribunal a quo tenha sido provocado a se manifestar sobre a tese por meio dos embargos de declaração, não houve o efetivo enfrentamento da matéria.
+No acórdão recorrido a Corte apenas assentou que "não caberia determinar a pesquisa ao Renajud, dado que a autarquia tem acesso às informações constantes do RENAVAM, independentemente de intervenção do Poder Judiciário" e, por essa razão, autorizou "a autarquia a buscar as informações de veículos do cônjuge do executado e apresentar nos autos da execução o respectivo pedido de penhora" (e-STJ fl. 85 e 108).
+Ainda que a questão tenha sido tangenciada pela Corte a quo, não houve, como apontado, o efetivo debate acerca da (des)necessidade de se realizar a consulta diretamente pela autarquia credora .
+Vale dizer, para que se configure o prequestionamento da matéria, não basta que ela seja simplesmente mencionada no acórdão recorrido, mas exige-se o efetivo debate sobre a tese recursal na instância de origem.
+Daí porque aplicada a Súmula 211 do STJ ("Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"). Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC/1973. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. NULIDADE DE AUTO DE PENHORA. IMPENHORABILIDADE DOS BENS CONSTRITOS. ISENÇÃO DE HONORÁRIOS SUCUMBENCIAIS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.
+1. A genérica alegação de ofensa ao art. 1.022 do CPC/2015, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro, atrai o óbice da Súmula 284 do STF.
+2. É vedada a análise das questões que não foram objeto de efetivo debate pela Corte de origem, estando ausente o requisito do prequestionamento. Incidência da Súmula 211/STJ.
+3. A pretensão de reconhecimento do prequestionamento ficto demanda não só a oposição de aclaratórios na origem, mas a demonstração de insuficiência da medida. Apenas com a alegação, no recurso especial, de violação do art. 1.022 do CPC/2015, com a devida indicação dos vícios remanescentes após o julgamento dos embargos, bem como sua relevância para a solução da causa, pode esta Corte avançar para considerar preenchido o requisito constitucional do prequestionamento por força da ficção legal do art. 1.025 do CPC/2015.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1744514/RJ, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 19/10/2020, DJe 23/10/2020)
+PROCESSUAL CIVIL. ADMINISTRATIVO. ENUNCIADO ADMINISTRATIVO 3/STJ. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ILUMINAÇÃO PÚBLICA. TRANSFERÊNCIA DE ATIVOS PARA O MUNICÍPIO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. RESOLUÇÃO DE AGÊNCIA REGULADORA. NORMA QUE ESCAPA AO CONCEITO DE LEI FEDERAL. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO. SÚMULA 284/STF. AGRAVO INTERNO NÃO PROVIDO.
+1. O STJ não considera suficiente, para fins de prequestionamento, que a matéria tenha sido suscitada pelas partes ou apenas citada no acórdão, mas sim que a respeito tenha havido efetivo debate no acórdão recorrido.
+2. Suposta ofensa a resolução não enseja a abertura da via especial, pois essa espécie normativa não está abrangida no conceito de "lei federal."
+3. Inadmissível o recurso especial que se fundamenta na existência de divergência jurisprudencial mas não indica quais dispositivos o Tribunal de origem teria dado interpretação divergente de outros tribunais. Hipótese da Súmula 284/STF.
+4. Agravo interno não provido.
+(AgInt nos EDcl no AREsp 1595641/MG, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 24/08/2020, DJe 03/09/2020)
+Ressalta-se que, embora a agravante tenha manejado os aclaratórios com o fim de obter pronunciamento acerca do tema, os embargos de declaração apresentados não cumpriram com a finalidade de suprir eventual omissão, ao tempo em que não há, nas razões recursais, alegação idônea para conhecimento de possível ofensa ao art. 1.022 do CPC.
+Assim, o presente apelo nobre carece, no ponto, do requisito constitucional do prequestionamento, circunstância que atrai a aplicação da Súmula 211 do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+De notar que os óbices sumulares citados impedem também o conhecimento do recurso pela divergência jurisprudencial invocada (AgInt no AREsp 398.256/RJ, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 10/03/2017).
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
