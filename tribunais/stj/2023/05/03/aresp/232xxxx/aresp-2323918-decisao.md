@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por VALDERICE GRANDIZOLI DOS SANTOS e VALMIR GRANDIZOLI, contra decisão que negou seguimento a recurso especial fundamentado na alínea "a" do permissivo constitucional.
+Agravo em Recurso Especial interposto em: 03/02/2023.
+Concluso ao gabinete em: 17/04/2023.
+Ação: embargos de terceiros, opostos por AUGUSTO LINO DE SOUZA e MARIA GARCIA LEITE DE SOUZA, em face dos agravantes e de HERBIOESTE HERBICIDAS LTDA e OUTROS (interessados), na qual alega - em síntese - que adquiriram o imóvel de matrícula n. 8391 de ISRAEL GARCIA DE MATOS por meio de escritura pública em 13/06/2006. Informam que não havia penhora registrada na matrícula do imóvel realizada pela HERBIOESTE. Afirmaram que não havia nos títulos de crédito executados qualquer menção ao imóvel objeto dos autos. Argumentaram que todas as penhoras existentes no imóvel adquirido (matrícula n. 8391) haviam sido baixadas até a celebração do negócio, razão pela qual são adquirentes de boa-fé e não há fraude à execução.
+Sentença: julgou procedente o pedido, para reconhecer a inexistência de fraude à execução na compra e venda envolvendo o imóvel de matrícula n. 8931 do 2º CRI de Cruzeiro do Oeste e declarar válida a alienação realizada.
+Acórdão: negou provimento à apelação interposta pelos agravantes, nos termos da seguinte ementa:
+EMBARGOS DE TERCEIRO. JULGADOS PROCEDENTES COM A FINALIDADE DE RECONHECER A INEXISTÊNCIA DE FRAUDE À EXECUÇÃO SENDO VÁLIDA A ALIENAÇÃO DO BEM.
+APELAÇÃO CÍVEL. PRELIMINAR DE AUSÊNCIA DE FUNDAMENTAÇÃO ADEQUADA AFASTADA. MÉRITO. FRAUDE À EXECUÇÃO. ALIENAÇÕES SUCESSIVAS. NECESSIDADE DE COMPROVAÇÃO DE CONHECIMENTO DE CADA ADQUIRENTE (REsp 1863999/SP). AUSÊNCIA DE REGISTRO DA EXECUÇÃO NA MATRÍCULA DO IMÓVEL. IMPOSSIBILIDADE DE RECONHECIMENTO DA MÁ-FÉ NO CASO EM TELA. ÔNUS DO CREDOR NÃO COMPROVADO (AgInt no REsp 1738170/SP). SENTENÇA MANTIDA. HONORÁRIOS RECURSAIS. RECURSO NÃO PROVIDO.
+1. De acordo com a jurisprudência do Superior Tribunal de Justiça, cristalizada na Súmula 375, "O reconhecimento da fraude à execução depende do registro da penhora do bem alienado ou da prova de má-fé do terceiro adquirente". E mais, nos termos da tese firmada pela Corte Especial do STJ, em sede de julgamento de recurso especial repetitivo, "inexistindo registro da penhora na matrícula do imóvel, é do credor o ônus da prova de que o terceiro adquirente tinha conhecimento de demanda capaz de levar o alienante à insolvência" (REsp 956.943/PR, Rel. p/ acórdão Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, julgado em 20/08/2014, DJe de 1º/12/2014).
+2. No caso dos autos, inexiste registro da penhora ou da existência da ação na matrícula do imóvel alienado, bem como não ficou comprovado que os agravados, terceiros adquirentes, tinham conhecimento da execução movida em desfavor do alienante, sendo, portanto, inviável o reconhecimento da fraude à execução.
+3. Agravo interno a que se nega provimento. (AgInt no REsp 1738170/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 17/12/2019, DJe 03/02/2020) (e-STJ, fl. 1.035)
+Embargos de declaração: opostos pelo agravante, foram rejeitados.
+Recurso especial: alega a violação dos arts. 489 e 1.022, ambos do CPC/15. Além da negativa de prestação jurisdicional, sustenta:
+i) a existência de deficiência de fundamentação no bojo do acórdão recorrido; e
+ii) a ocorrência de má-fé dos agravantes na aquisição do bem imóvel objeto desta ação.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC/15
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte. A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente, acerca da ausência de fraude à execução na situação dos autos, de maneira que os embargos de declaração opostos pelos agravantes, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC/2015, incidindo, quanto ao ponto, a Súmula 568/STJ.
+- Da violação do art. 489 do CPC/2015
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/2015, nos termos da Súmula 568/STJ (AgInt no AREsp 1.121.206/RS, 3ª Turma, DJe 01/12/2017; AgInt no AREsp 1.151.690/GO, 4ª Turma, DJe 04/12/2017).
+- Da fundamentação deficiente
+Constata-se, da leitura das razões do recurso especial, que quanto à alegação de existência de má-fé dos agravantes, a fim de restar configurada a ocorrência de fraude à execução, os agravantes não aduzem a violação a qualquer dispositivo infraconstitucional, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+- Do reexame de fatos e provas
+A título de reforço argumentativo, ainda que fosse superado o óbice referente à incidência da Súmula 284/STF, alterar o decidido no acórdão impugnado, no que se refere à inexistência de registro de penhora ou da não existência de ação na matrícula do imóvel alienado, bem como em relação à não comprovação que os agravados, terceiros adquirentes, tinham conhecimento da execução movida em desfavor do alienante, sendo, portanto, inviável o reconhecimento da fraude à execução, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo, para CONHECER PARCIALMENTE do recurso especial e, nessa parte, NEGAR-LHE PROVIMENTO, com fundamento no art. 932, III, IV, "a", do CPC/15, bem como na Súmula 568/STJ.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 12% sobre o valor atualizado da causa (e-STJ, fl. 1.043) para 15%, observada eventual concessão de justiça gratuita.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, ambos do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC/15. NÃO OCORRÊNCIA. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. MAJORAÇÃO.
+1. Embargos de terceiro.
+2. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/15.
+4. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+5. Alterar o decidido no acórdão impugnado, no que se refere à inexistência de registro de penhora ou da não existência de ação na matrícula do imóvel alienado, bem como em relação à não comprovação que os agravados, terceiros adquirentes, tinham conhecimento da execução movida em desfavor do alienante, sendo, portanto, inviável o reconhecimento da fraude à execução, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+6. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa parte, não provido, com majoração de honorários.
