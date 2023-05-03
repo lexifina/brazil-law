@@ -1,0 +1,97 @@
+DECISÃO
+Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, a, da CF, contra acórdão, proferido pelo TRF da 5ª Região, assim ementado:
+"PROCESSUAL CIVIL. PROCESSO DE HABILITAÇÃO DE HERDEIRO. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. CAPACIDADE PROCESSUAL. LEGITIMIDADE. PRESCRIÇÃO. INOCORRÊNCIA. NÃO PROVIMENTO.
+1. Agravo de instrumento contra decisão que, em processo autônomo de habilitação, deferiu a pretensão habilitatória de herdeiros para receber crédito relativo a título judicial devido a servidor público falecido, determinando a expedição de novo requisitório em substituição à Requisição de Pequeno Valor - RPV cancelada por ausência de saque, nos termos da Lei nº 13.463/2017.
+2. O cerne da questão diz respeito à legitimidade para a propositura/andamento de execução após o óbito do beneficiário originário do crédito e à prescrição intercorrente na execução.
+3. A jurisprudência pátria já se manifestou no sentido de reconhecer a legitimidade ativa do Sindicato/Associação para substituir os sucessores dos servidores falecidos, independentemente do fato de o óbito ter ocorrido antes do ajuizamento da execução, bem como a validade dos atos praticados pelo mandatário, salvo comprovada má-fé.
+(AgInt no AREsp 1860770/RJ, Rel. Ministro MANOEL ERHARDT (DESEMBARGADOR CONVOCADO DO TRF5), PRIMEIRA TURMA, julgado em 27/09/2021, DJe 29/09/2021).
+4. Este Tribunal já firmou entendimento no sentido de que, nos termos dos arts. 265, I, e 791, II, do CPC, a morte de uma das partes implica suspensão do processo e da contagem do prazo prescricional, de modo que, na ausência de previsão legal impondo prazo para a habilitação dos sucessores, não há que se falar em prescrição intercorrente.
+Precedente: TRF5, PROCESSO: 08029105320194058300, Apelação Cível, Desembargador Federal Francisco Roberto Machado, 1ª TURMA, Julgamento: 27/05/2021.
+5. Agravo de instrumento não provido" (fls. 126/127e).
+Opostos Embargos de Declaração (fls. 135/136e), foram rejeitados (fls. 160/164e).
+Alega a parte recorrente:
+"3.1 DA CONTRARIEDADE AO ART. 1022, II, c/c art. 489, § 1º, do CPC
+Pretendeu o recorrente, nos Embargos de Declaração opostos, o saneamento de obscuridades e omissões no acórdão e obter do Tribunal, o saneamento de tais vícios, e, em consequência, que houvesse um pronunciamento expresso a respeito dos dispositivos legais tidos por violados.
+Entretanto, com a devida vênia, em que pese o teor da decisão proferida no recurso aclaratório, não restou efetivamente apreciada a matéria em confronto com os dispositivos violados.
+Veja-se que o acórdão dos embargos declaratórios tão somente diz que há intenção de se rediscutir o julgado. Os argumentos levantados pelo recorrente, quais sejam, a omissão quanto aos dispositivos legais acerca da prescrição da habilitação, restarou sem enfrentamento no acórdão recorrido.
+Consoante o disposto no art. 489, inc. II, "são elementos essenciais da sentença .. II - os fundamentos, em que o juiz analisará as questões de fato e de direito;".
+O § 1º do mesmo artigo salienta que não se considera fundamentada qualquer decisão judicial, seja ela interlocutória, sentença ou acórdão que:
+(..)
+No caso em tela, o acórdão que julgou os embargos declaratórios não enfrentou todos os argumentos deduzidos no processo capazes de infirmar a conclusão adotada. Assim, considera-se desprovido de fundamentação.
+Diante disso, revela-se essencial o efetivo prequestionamento dos artigos de lei acima referidos, bem como da tese defendida acerca da inadequada aplicação da legislação federal em referência.
+Assim, a existência de omissão acerca de questões essenciais para a devida solução da controvérsia resta evidente, ainda mais diante do teor lacônico da fundamentação.
+Com a devida vênia, tal decisão fere o disposto no art. 1022, II, do CPC, pois inviabiliza à Recorrente o acesso aos Tribunais Superiores, e, por conseguinte, a plenitude de jurisdição, impedindo que se exerça plenamente o direito à ampla defesa, além de implicar contrariedade direta às demais normas legais aqui indicadas.
+Essa questão apresenta maior relevo no momento em que se pacifica, no Superior Tribunal de Justiça, a não aceitação do prequestionamento implícito.
+Por tudo isso, espera-se o provimento ao presente recurso, com a aplicação da norma do art. 1025 do novo CPC, que assim dispõe:
+(..)
+Sucessivamente, ad cautelam, requer seja decretada a nulidade do acórdão, retornem os autos ao E.
+Tribunal a quo, ensejando-se o devido prequestionamento.
+Por outro lado, caso Vossas Excelências entendam que a matéria já se encontra devidamente prequestionada, passa a apresentar razões para reforma do acórdão.
+4. DA NULIDADE DA EXECUÇÃO. ÓBITO ANTES DO AJUIZAMENTO DA EXECUÇÃO
+O aresto incorreu em erro quanto à impossibilidade de deferir a habilitação aos herdeiros do servidor falecido, uma vez que o mesmo faleceu em data anterior ao ajuizamento da execução, logo, incide no caso a regra constante do art.18 do CPC e ainda o art. 682, II, do CCB, dispositivos esses que não foram apreciados pela decisão embargada, razão pela qual resta evidenciado o cabimento do presente, com fulcro no art.1022, c.c. art. 489, § 1º, IV, CPC.
+Com efeito, o falecimento do ex-servidor ocorreu em 18/05/2003, ANTES DO AJUIZAMENTO DO PEDIDO DE EXECUÇÃO, que ocorreu em 11/11/2003.
+O pedido de habilitação, por sua vez, somente se deu em 2021.
+Porém, embora tenha falecido em maio de 2003, ou seja, em data anterior ao pedido de Cumprimento de Sentença protocolado em novembro de 2003, não foi requerida a habilitação pelos seus herdeiros, e o cumprimento de sentença foi requerido pelo Sindicato supostamente substituindo o servidor já falecido.
+Em decorrência, quando intimada a falar sobre o pedido de habilitação, o ente público discordou, haja vista que se trata de nulidade da execução, em face do que estabelecem o art.18 e 485, IV,do CPC e o art.682, II, do CCB, que, entretanto, não foi acolhida pelo juízo a quo, razão pela qual foi interposto o presente agravo de instrumento.
+Apreciando o agravo de instrumento, esta Colenda Turma negou provimento ao inconformismo manifestado pelo ente público, não tendo, ademais, se manifestado sobre os dispositivos legais citados no recurso, razão pela qual mostra-se evidenciado o cabimento do presente.
+Com efeito, sendo incontroverso que o servidor faleceu em data anterior ao pedido de cumprimento de sentença, eis que juntado o atestado de óbito, não há como deixar de ser aplicado o disposto nos art.18 do CPC e 485, IV e 682, II, do CCB, PELO QUE É NULO O PROCESSO DE EXECUÇAO QUE NÃO TEVE A RELAÇAO PROCESSUAL VALIDAMENTE CONSTITUIDA.
+Isto porque, conforme estabelecia o art.6º, do CPC/73, atual art.18 do CPC:
+(..)
+Ademais, o CPC prevê a extinção do processo sem julgamento do mérito quando se verificar a ausência de pressuposto processual de constituição do processo, nos termos que seguem:
+(..)
+Com efeito, a pessoa falecida perde a capacidade de ser parte, na medida em que não é mais capaz de adquirir direitos e contrair obrigações.
+Destarte, a execução proposta por pessoa falecida desde o processo de conhecimento é considerada nula, já que ausente um dos pressupostos de constituição do processo.
+Ademais, O PATRONO DA CAUSA NÃO TEM LEGITIMIDADE PARA POSTULAR O PAGAMENTO DE ATRASADOS EM NOME DE SERVIDOR FALECIDO, logo, o ex-exequente indicado acima não foi representado em Juízo, e, em consequência, inexiste qualquer direito reconhecido na execução, POIS A MESMA É NULA, pelo que não há que se falar em habilitação.
+Além disso, se com a morte, cessa o mandato, ex vi do art. 682, II, do CCB, todos os atos praticados pelo patrono da causa são nulos.
+Nesse sentido, confira-se acórdão emanado do Eg.STJ:
+(..)
+No caso em tela, sendo incontroverso que o falecimento ocorreu antes da execução, é evidente que o ex-servidor não foi substituído pelo sindicato de classe, logo, não pode ser pago a quem quer seja o valor ali reconhecido como devido, nem mesmo a seus sucessores, sob pena de violação ao dispositivo citado - art.18, 485, IV, do CPC e art. 682, II, do CCB.
+Isto posto, demonstrado que o decisum embargado não examinou a questão a luz dos dispositivos legais supramencionados, pelo que necessário e imprescindível é a interposição do presente recurso para reformar o acórdão frente a violação apontada.
+4.1 DO NÃO CABIMENTO DE HABILITAÇÃO QUANDO FALECE ANTES DA EXECUÇÃO
+Como exposto acima, trata-se de falecimento ocorrido após o ajuizamento da ação coletiva, mas antes da propositura da execução individual. Nesta situação, como já argumentado, na execução o titular do direito é o servidor que, demonstrando a qualidade, pleiteia o pagamento do que foi reconhecido a categoria profissional, e, havendo falecimento, a execução já deve ser proposta por seus herdeiros.
+A fase de execução já deve ser inaugurada/proposta pelos herdeiros, não sendo o caso de habilitação propriamente dita, porquanto o ex-servidor já não era parte desde o início da execução.
+Além disso, a execução pelos herdeiros, como ocorre em relação às demais execuções, deve ser proposta em até cinco anos do trânsito em julgado, nos termos do art. 1.º do Decreto 20.910/32 e Súmula 150 do STF.
+Decreto-Lei 20.910/32 art. 1º - as dividas passivas da união, dos estados e dos municípios, bem assim todo e qualquer direito ou ação contra a fazenda federal, estadual ou municipal, seja qual for a sua natureza, prescrevem em cinco anos contados da data do ato ou fato do qual se originarem.
+Cumpre transcrever os artigos 687, 688 e 689 do CPC, nesses termos:
+"Art. 687. A habilitação ocorre quando, por falecimento de qualquer das partes, os interessados houverem de suceder-lhe no processo.
+Art. 688. A habilitação pode ser requerida:
+..
+II - pelos sucessores do falecido, em relação à parte.
+Art. 689. Proceder-se-á à habilitação nos autos do processo principal, na instância em que estiver suspendendo-se, a partir de então, o processo. "
+Depreende-se da leitura dos artigos supratranscritos que, na hipótese de falecimento da parte, no curso do processo, a habilitação deve ser feita por todos os herdeiros necessários, como determina a legislação sucessória.
+Assim, com a devida vênia, o acórdão restou equivocado por desconsiderar o fato de que o ex-servidor faleceu antes do início da execução, logo, sendo nula a execução, não há que se falar em sucessão.
+Destarte, como a execução de sentença foi proposta após o óbito do "de cujus" e considerando que com a morte, cessam os efeitos do mandato, ex vi do art. 682, II, do CCB, razão pela qual todos os atos praticados pelo patrono da causa são nulos.
+Imperioso, portanto, que o acórdão seja reformado a fim de que enfrente tanto os dispositivos legais apontados quanto o fato de o óbito do servidor falecido ter ocorrido antes do ajuizamento da execução, visto se tratar de questões indispensáveis à resolução da lide.
+Destarte, diante dos fundamentos jurídicos expostos, nota-se que o acórdão merece profundos reparos, posto que contrariou expressas disposições de lei federal vigente" (fls. 177181e)
+Contrarrazões apresentadas a fls. 186/191e.
+Considerando que o Recurso Especial fora selecionado pelo Tribunal de origem, com fundamento no art. 1.036, § 1º, do CPC/2015, o feito foi previamente remetido ao Ministério Público Federal, que opinou pela admissibilidade do apelo como representativo da controvérsia (fls. 262/265e).
+O Presidente da Comissão Gestora de Precedentes e de Ações Coletivas, com fundamento no art. 256-D, I, do RISTJ, c/c o art. 2º, I, da Portaria STJ/GP 98/2021, ordenou a distribuição do feito, no qual se discute: "se a entidade sindical possui legitimidade ativa para substituir os sucessores/herdeiros de servidores falecidos, independentemente de o óbito ter ocorrido antes do ajuizamento da execução" (fls. 267/269e).
+O Recurso Especial não merece conhecimento.
+De início, verifica-se que a parte recorrente não demonstrou no que consistiu a suposta ofensa ao art. 1.022 do CPC/2015, o que atrai, por analogia, a incidência da Súmula 284 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia").
+Nesse sentido:
+"TRIBUTÁRIO E PROCESSUAL CIVIL. RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. DEFICIÊNCIA NAS RAZÕES RECURSAIS. INCIDÊNCIA DA SÚMULA 284/STF. EXECUÇÃO FISCAL. PENHORA. PROTEÇÃO DO ART. 833 DO CPC/2015.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC/2015 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão incorreu em omissão, contradição ou obscuridade. Aplica-se à hipótese o óbice da Súmula 284 do STF. Precedentes: REsp 1.595.019/SE, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 9/5/2017; AgInt no REsp 1.604.259/SC, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 28/9/2016.
+2. Há entendimento firmado do Superior Tribunal de Justiça de que "é possível ao devedor poupar valores sob a regra da impenhorabilidade no patamar de até quarenta salários mínimos, não apenas aqueles depositados em cadernetas de poupança, mas também em conta-corrente ou em fundos de investimento, ou guardados em papel-moeda" (EREsp 1.330.567/RS, Rel. Ministro Luis Felipe Salomão, Segunda Seção, DJe 19/12/2014).
+3. Recurso especial do qual se conhece parcialmente e, nessa extensão, nega-se-lhe provimento" (STJ, REsp 1.710.162/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 21/03/2018).
+Ademais, segundo entendimento desta Corte, "o julgador não está obrigado a rebater, um a um, todos os argumentos invocados pelas partes quando, por outros meios que lhes sirvam de convicção, tenha encontrado motivação satisfatória para dirimir o litígio. As proposições poderão ou não ser explicitamente dissecadas pelo magistrado, que só estará obrigado a examinar a contenda nos limites da demanda, fundamentando o seu proceder de acordo com o seu livre convencimento, baseado nos aspectos pertinentes à hipótese sub judice e com a legislação que entender aplicável ao caso concreto" (AgInt no AREsp 1145750/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 04/05/2020).
+Observa-se, portanto, que ao contrário do que pretende fazer crer a parte embargante, o decisum está suficientemente fundamentado, não havendo que se falar em qualquer dos vícios que permitem a oposição de embargos de declaração.
+Quanto ao mérito, consignou-se no acórdão recorrido que "o cerne da questão diz respeito à legitimidade para a propositura/andamento de execução após o óbito do beneficiário originário do crédito e à ocorrência de prescrição intercorrente para a habilitação de sucessor em sede de cumprimento de sentença" (fl. 124e).
+A controvérsia foi solucionada pelo Tribunal de origem mediante a seguinte fundamentação:
+"Quanto à questão da legitimidade, a jurisprudência pátria já se manifestou no sentido de reconhecer a legitimidade ativa do Sindicato/Associação para substituir os sucessores dos servidores falecidos, independentemente do fato de o óbito ter ocorrido antes do ajuizamento da execução, bem como a validade dos atos praticados pelo mandatário, salvo comprovada má-fé.
+(..)
+Há que se ressaltar que o entendimento acima considera a ausência de prejuízos à parte executada e o atendimento aos princípios da instrumentalidade das formas, da economia e celeridade processuais, haja vista que o ajuizamento de nova execução por sucessor do ex-servidor falecido levaria ao mesmo resultado obtido com a execução proposta pelo Sindicato/Associação" (fl. 124e).
+Entretanto, não se impugna no Recurso Especial o que o Juízo a quo afirmou acerca da ausência de prejuízos à parte executada, bem como acerca da aplicação, ao caso , dos princípios da instrumentalidade das formas, da economia e celeridade processuais.
+Portanto, incide, na hipótese, a Súmula 283/STF, que dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA. AÇÃO REVISIONAL CUMULADA COM REPETIÇÃO DE INDÉBITO. ART. 535 DO CPC/1973. VIOLAÇÃO. NÃO OCORRÊNCIA. FUNDAMENTO SUFICIENTE. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. SÚMULA Nº 283/STF. HONORÁRIOS ADVOCATÍCIOS. FASE LIQUIDAÇÃO. POSSIBILIDADE. SÚMULA Nº 568/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. A ausência de impugnação de um fundamento suficiente do acórdão recorrido enseja o não conhecimento do recurso, incidindo o enunciado da Súmula nº 283 do Supremo Tribunal Federal.
+4. É possível a fixação de honorários advocatícios na fase de liquidação de sentença com caráter contencioso. Precedentes.
+5. Agravo interno não provido" (STJ, AgInt no AREsp 864.643/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 20/03/2018).
+Ademais, afirmou-se no aresto impugnado: "no que tange à prescrição do direito de requerer a habilitação dos herdeiros, a jurisprudência pátria também já firmou entendimento no sentido de que, nos termos dos arts. 265, I, e 791, II, do CPC, a morte de uma das partes implica na suspensão do processo e da contagem do prazo prescricional, de modo que, na ausência de previsão legal impondo prazo para a habilitação dos sucessores, não há que se falar em prescrição intercorrente" (fl. 124e).
+Esse último fundamento não foi impugnado nas razões recursais, que sequer cita os arts. 265, I, e 791, II, do CPC/73 (respectivamente, arts. 313, I, e 921, I, do CPC/2015), tampouco questiona o entendimento, adotado pelo Juízo a quo, acerca dessas causas de suspensão do processo e da ausência de prazo, legalmente definido, p ara habilitação dos sucessores.
+Assim, também quanto ao ponto, incide a Súmula 283/STF.
+Ante o exposto, nos termos do art. 256-E, I, do RISTJ, rejeito a indicação do Recurso Especial como representativo da controvérsia, e, no caso concreto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+Encaminhe-se, à Comissão Gestora de Precedentes e de Ações Coletivas - COGEPAC, cópia da presente decisão, para tomar ciência e adotar as providências que entender pertinentes.
+I.
