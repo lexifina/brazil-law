@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se  de  agravo de AFIGRAF COMÉRCIO INDÚSTRIA LTDA. que objetiva admissão  de  recurso especial interposto  contra  acórdão  do TJSP assim  ementado:
+ICMS - PENHORA ON LINE - Impenhorabilidade de valores da conta da empresa destinado a pagamento de outra obrigação - Ausência de comprovação de elementos que afastem a observância da ordem prevista no art. 11 da Lei nº 6.830/80 - Inaplicabilidade da regra da impenhorabilidade prevista no art. 833 do CPC - Descabimento - Decisão mantida.
+No  especial,  a  parte  alega  violação  dos  arts. 151 e 156 do CTN, arts. 9º e 11 da Lei n. 6.830/1980 e arts. 805 e 835 do CPC/2015.
+Sustenta erro no acórdão ao não reconhecer os depósitos promovidos periodicamente na ação consignatória, apesar de não serem integrais, tem efeito liberatório da dívida e importam em suspensão da exigibili dade do crédito tributário.
+Alega, também, que a penhora dos depósitos judiciais em ação consignatória não acarretaria violação à ordem de preferência de penhora prevista na norma, sendo menos gravosa e não prejudicando o direito da exequente.
+O recurso especial foi inadmitido por conformidade do acórdão recorrido com precedente repetitivo do STJ (TEMA n. 578) e por ausência de prequestionamento dos arts. 151 e 156 do CTN, fundamentos atacados no agravo.
+Passo a decidir.
+O recurso especial se origina em agravo de instrumento interposto contra decisão em execução fiscal que indeferiu a indicação de depósitos judiciais em ação consignatória como garantia do juízo e determinou penhora de numerário pelo sistema eletrônico.
+O Tribunal a quo negou provimento ao agravo de instrumento ao argumento de que o exequente não está obrigado a aceitar indicação pelo executado de bem que não obedece a ordem de preferência legal para a penhora, sem que o executado tenha demonstrado o motivo concreto para fazê-lo com fundamento na menor onerosidade.
+Consignou ainda que não seria possível o reconhecimento da suspensão da exigibilidade do crédito tributário em face dos depósitos em razão de não haver demonstração de que seriam, estes depósitos em ação consignatória, no valor integral do crédito executado.
+Opostos embargos de declaração, foram eles rejeitados.
+Pois bem.
+Inicialmente, quanto ao tema referente ao direito de quebra da ordem legal de preferência da penhora, o recurso de agravo em recurso especial em apreço é incabível.
+Do que se observa, o fundamento condutor adotado na decisão a quo é o de que o acórdão recorrido está em sintonia com precedente obrigatório desta Corte Superior, segundo o qual, "em princípio, nos termos do art. 9º, III, da Lei 6.830/1980, cumpre ao executado nomear bens à penhora, observada a ordem legal. É dele o ônus de comprovar a imperiosa necessidade de afastá-la, e, para que essa providência seja adotada, mostra-se insuficiente a mera invocação genérica do art. 620 do CPC." (REsp n. 1337790/PR).
+Ocorre que, de acordo com o disposto no art. 1.030, § 2º, do CPC/2015, é cabível agravo interno contra a decisão que nega seguimento a recurso especial interposto contra acórdão que está em conformidade com o entendimento do STJ exarado no julgamento de recursos repetitivos. Confira-se:
+Art. 1.030. Recebida a petição do recurso pela secretaria do tribunal, o recorrido será intimado para apresentar contrarrazões no prazo de 15 (quinze) dias, findo o qual os autos serão conclusos ao presidente ou ao vice-presidente do tribunal recorrido, que deverá:
+I - negar seguimento:
+ ..
+b) a recurso extraordinário ou a recurso especial interposto contra acórdão que esteja em conformidade com entendimento do Supremo Tribunal Federal ou do Superior Tribunal de Justiça, respectivamente, exarado no regime de julgamento de recursos repetitivos;
+§ 2º Da decisão proferida com fundamento nos incisos I e III caberá agravo interno, nos termos do art. 1.021.
+Esse agravo interno é a sede própria para se demonstrar eventual falha na aplicação de tese firmada no paradigma repetitivo em face da realidade do processo.
+Em razão dessa previsão normativa, é firme o entendimento desta Corte no sentido de que é incabível o agravo do art. 1.042 do CPC/2015 contra decisão que nega seguimento a recurso especial com base na aplicação de tese firmada em sede de recurso repetitivo, publicada a partir de 18 de março de 2016, quando entrou em vigor o CPC/2015.
+Frise-se que, no contexto dos autos, a discussão relativa à quebra da ordem de preferência de bens penhoráveis, porquanto relacionada com tema decidido com fundamento em aresto repetitivo, não guarda autonomia a justificar o cabimento do agravo dirigido para esta Corte Superior.
+No tocante à negativa de seguimento do recurso especial com fundamento no art. 1.030, V do CPC/2015, tenho que o agravo deva ser conhecido para não se conhecer do recurso especial.
+Com efeito, em que pese a questão da eficácia suspensiva da exigibilidade do crédito tributário em razão dos depósitos judiciais em ação consignatória ter sido prequestionada na origem, o fundamento do acórdão recorrido utilizado para indeferir o pleito do recorrente não impugnado no recurso especial.
+Do relatado acima, verifica-se que o Tribunal bandeirante negou provimento ao agravo de instrumento ao argumento de que não se teria comprovado o requisito essencial à eficácia suspensiva dos depósitos, qual seja, serem eles em seu valor integral.
+Este fundamento, no entanto, não foi impugnado no recurso especial, atraindo a incidência dos óbices das Súmulas 283 e 284 do STF.
+Em relação ao art. 156 do CTN, ressente-se o recurso especial do devido prequestionamento, já que sobre tal norma e a tese a ela vinculada (imputação aos depósitos em ação consignatória de efeito liberatório parcial da dívida pelo pagamento) não houve emissão de juízo pelo acórdão recorrido, a despeito da oposição de embargos declaratórios, fazendo incidir o óbice constante na Súmula 211 do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo".
+ Ante  o  exposto,  com  base  no  art.  253,  parágrafo  único,  II, "a",  do  RISTJ,  CONHEÇO PARCIALEMNTE  do  agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
