@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto por IVONEIDE SOUZA DA COSTA, com fundamento no art. 105, inciso III, alínea a, da CF/1988, no qual se insurge contra o acórdão proferido pelo Tribunal Regional Federal da 5ª Região assim ementado:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. EMBARGOS DE DECLARAÇÃO. OMISSÃO. PRESCRIÇÃO PARA IMPUGNAR O ATO QUE INDEFERIU REQUERIMENTO ADMINISTRATIVO DE BPC. DIB. CITAÇÃO VÁLIDA. JUROS DE MORA E CORREÇÃO MONETÁRIA. TAXA SELIC. EC 113/2021. RECONHECIMENTO.
+1. Trata-se de embargos declaratórios opostos pelo INSS contra acórdão que deu provimento à apelação da demandante para determinar a retroação do termo inicial da condenação ao pagamento do benefício de prestação continuada à DER (10/10/07).
+2. O INSS alega omissão quanto à prescrição da pretensão de impugnar o ato administrativo de indeferimento/cessação do benefício, que ocorreu em 2007, já que a ação apenas foi ajuizada apenas em 2019. Alega omissão, ainda, quanto ao cabimento da correção monetária e juros de mora pela taxa SELIC a partir da vigência da EC 113/21, matéria de ordem pública.
+3. Quanto à prescrição, tem razão a autarquia previdenciária ao suscitar omissão quanto ao transcurso do prazo prescricional quinquenal para que a demandante impugnasse o ato que indeferiu seu requerimento administrativo de benefício de prestação continuada, protocolado em 2007, tendo em vista que a ação foi ajuizada apenas em 2019.
+4. Embora tenha transcorrido mais de cinco anos entre a data do indeferimento do benefício (2007) e o ajuizamento da ação (2019), o direito à obtenção de benefício é imprescritível, de acordo com o entendimento sedimentado pelo STF no RE 626.489/SE, submetido à sistemática da repercussão geral.
+5. Tendo o INSS resistido à pretensão autoral ao se insurgir contra o mérito da demanda, incabível a extinção do feito, sendo o benefício objeto dos autos a partir da citação válida.
+6. Quanto aos consectários legais, resta clara a omissão no julgado anterior quanto aos índices aplicáveis, haja vista ter sido deferida a retroação da DIB.
+7. Com a entrada em vigor em 09/12/2021 da EC 113/2021, é devida a incidência da taxa SELIC no que tange aos juros de mora e correção monetária, mantendo-se, quanto ao período anterior, a aplicação do art. 1º-F da Lei 9.494/97 (redação pela Lei nº 11.960/2009) para os juros moratórios e, no que tange à atualização monetária, permanece os posicionamentos firmados no RE 870.947 (Tema 810) e no REsp1.492.221 (Tema 905), adotando-se, dessa forma, o IPCA-E nos processos relativos a benefício assistencial e o INPC nas demandas previdenciárias.
+8. Embargos de declaração providos para determinar que o termo inicial da condenação retroaja à data da citação válida e para determinar que a partir da entrada em vigor da EC 113/2021 (09/12/2021 - data da publicação) deve incidir, tão somente, a taxa SELIC no que concerne aos juros de mora e à correção monetária, de acordo com o art. 3º da citada Emenda (fl. 204).
+Os embargos de declaração opostos pela parte ora recorrida foram acolhidos (fls. 206/210).
+Nas razões do seu recurso especial (fls. 218/225), a parte recorrente sustenta violação dos arts. 49, II, e 54 da Lei 8.213/1991 e do art. 208 da Lei 8.742/1992. Argumenta, para tanto, que: o termo inicial dos efeitos financeiros dos benefícios concedidos judicialmente é a data do requerimento administrativo e não da citação válida.
+Devidamente intimada, a parte recorrida apresentou as contrarrazões recursais (fls. 228/232).
+O recurso especial foi admitido na origem (fl. 234).
+É o relatório.
+A irresignação não merece prospe rar.
+Na hipótese dos autos, o Tribunal de origem acolheu os embargos de declaração opostos pelo INSS "para determinar que o termo inicial da condenação  a benefício assistencial  retroaja à data da citação válida" (fl. 208).
+Verifico que nenhum dos dispositivos apontados como violados foi apreciado pelo Tribunal de origem, tampouco foram opostos embargos de declaração com o objetivo de sanar eventual omissão da questão de direito controvertida.
+A ausência de enfrentamento pelo Tribunal de origem da matéria impugnada, objeto do recurso excepcional, impede o acesso à instância especial porquanto não preenchido o requisito constitucional do prequestionamento. Incidência, por analogia, das Súmulas 282 e 356 do Supremo Tribunal Federal.
+Ante o exposto, não conheço do recurso especial da segurada.
+Publique-se. Intimações necessárias.
