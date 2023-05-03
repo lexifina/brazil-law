@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/04/2023 a 03/05/2023, por unanimidade, não conhecer do recurso, com aplicação de multa, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de agravo interno interposto por COMPANHIA EXCELSIOR DE SEGUROS contra decisão unipessoal que conheceu do agravo que interpusera para conhecer parcialmente de seu recurso especial e, nesta extensão, negar-lhe provimento.
+Ação: de cobrança de cobertura securitária por danos construtivos em imóvel financiado pelo SFH, ajuizada por MARIA LUCIA MARTINS, em desfavor da agravante.
+Sentença: julgou improcedente o pedido.
+Acórdão: deu provimento à apelação interposta pela agravada, nos termos da ementa:
+CIVIL. ADMINISTRATIVO. SFH. COBERTURA SECURITÁRIA. CONTRATO DE ADESÃO. VÍCIOS DE CONSTRUÇÃO. BOA-FÉOBJETIVA. PROVA PERICIAL. IMPRESCINDIBILIDADE.
+1. Não obstante o contrato firmado pela parte embargante tenha cláusulas predeterminadas, isso, por si só, não é suficiente para anulá-las ou fazer presumir vícios de vontade. Ao contrário, as cláusulas gerais estão dispostas nos instrumentos assinados, de modo que seu conhecimento pela parte é presumível. A adesão da parte embargante, portanto, ocorreu com supedâneo no princípio da autonomia de vontade. Sendo livre sua manifestação, correta a aplicação do princípio do pacta sunt servanda, não podendo ser retirada a força vinculante da contratação, tendo em vista a especial natureza jurídica dos contratos como fonte obrigacional entre as partes. Assim, não se pode afirmar que o contrato preveja benefícios tão somente à instituição financeira.
+2. Conforme entendimento pacificado no âmbito do STJ, a interpretação fundada na boa-fé objetiva, contextualizada pela função socioeconômica que desempenha o contrato de seguro habitacional obrigatório vinculado ao SFH, revela que a restrição de cobertura securitária, quanto aos vícios construtivos, deve ser compreendida como a exclusão da responsabilidade da seguradora somente em relação aos riscos que resultem de atos praticados pelo próprio segurado ou decorrentes do uso e desgaste natural e esperado do bem, tendo como baliza a expectativa de vida útil do imóvel.
+3. É imprescindível a reabertura da instrução processual, com a produção da perícia judicial - prova essencial à solução do litígio - a fim de que se possa aferir a pretensão indenizatória veiculada (e-STJ fl. 1423).
+Embargos de declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 370, parágrafo único, 485, VI, 1.022, CPC; e 206, § 1º, II, "b", do CC. Além de negativa de prestação jurisdicional, sustenta que não há qualquer documento que comprova a notificação da seguradora acerca dos supostos danos nos imóveis. Aduz que está configurada a ocorrência de prescrição pelo fato de o contrato encontrar-se quitado há muito mais de um ano quando da propositura da demanda judicial. Alega que a seguradora jamais atuou como administradora da apólice pública ao qual o contrato sempre esteve vinculado, notadamente por nunca ter tido qualquer vínculo com o agente financeiro CEF do Paraná. Verbera ainda que o referido contrato nunca foi objeto de averbação na apólice privada da Cia, de modo que esta nunca recebeu o prêmio pelo seguro contratado, além disso, defende que sequer participou como administradora da apólice pública para o caso dos autos, o que faz com que o vínculo da Excelsior com o caso em tela seja inexistente, sendo a ilegitimidade da Cia inafastável.
+Decisão monocrática: conheceu do agravo em recurso especial interposto pela agravante, para conhecer parcialmente de seu recurso especial e, nesta extensão, negar-lhe provimento, ante: i) o reconhecimento de ausência de violação do art. 1.022 do CPC/2015; ii) a incidência da Súmula 211/STJ, no tocante à alegada violação do art. 206, § 1º, II, "b", do CC; e iii) a incidência da Súmula 7/STJ, quanto à legitimidade da seguradora.
+Agravo interno: reitera a ocorrência de negativa de prestação jurisdicional. Insurge-se contra a aplicabilidade das Súmulas 7, 211 e 568/STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INÉPCIA. MANIFESTA INADMISSIBILIDADE. MULTA.
+1. Ação de cobrança de cobertura securitária por danos construtivos em imóvel financiado pelo SFH.
+2. É manifestamente inadmissível o agravo interno que não impugna, especificamente, os fundamentos da decisão agravada.
+3. Agravo interno não conhecido, com imposição de multa.
+VOTO
+A decisão agravada conheceu do agravo em recurso especial interposto pela agravante, para conhecer parcialmente de seu recurso especial e, nesta extensão, negar-lhe provimento, ante: i) o reconhecimento de ausência de violação do art. 1.022 do CPC/2015; ii) a incidência da Súmula 211/STJ, no tocante à alegada violação do art. 206, § 1º, II, "b", do CC; e iii) a incidência da Súmula 7/STJ, quanto à alegada ilegitimidade da seguradora.
+Pela análise das razões recursais apresentadas, verifica-se que as agravantes não trouxeram qualquer argumento novo capaz de ilidir os fundamentos da decisão agravada.
+Isso porque não impugna, consistentemente, os fundamentos da decisão ora agravada relativos à aplicação da Súmula 7/STJ com relação à alegada ilegitimidade passiva da seguradora.
+Com efeito, das razões do agravo interno, verifica-se que a agravante impugna a aplicabilidade do referido óbice sumular apenas com relação à alegada desnecessidade de produção de nova prova pericial. Ademais, impugna a aplicabilidade da Súmula 568/STJ, que sequer foi aplicada pela decisão agravada.
+Consoante entendimento pacífico desta Corte, não merece conhecimento o agravo interno que não impugna, especificamente, todos os fundamentos da decisão agravada, a teor do disposto na Súmula 182 do STJ.
+DISPOSITIVO
+Forte nessas razões, NÃO CONHEÇO do presente agravo interno.
+Tem-se como manifestamente inadmissível o agravo interno que não impugna, especificamente, todos os fundamentos da decisão agravada, como determina o art. 1.021, § 1º, do CPC/15, razão pela qual, na hipótese de ser desprovido este recurso, à unanimidade, fixo multa de 3% (três por cento) sobre o valor atualizado da causa, com fulcro no § 4º do art. 1.021 do CPC/15.
