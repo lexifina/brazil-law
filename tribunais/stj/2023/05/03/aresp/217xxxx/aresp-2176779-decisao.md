@@ -1,0 +1,47 @@
+DECISÃO
+Cuida-se de agravo interposto por COMPANHIA AUXILIAR DE ARMAZÉNS GERAIS contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, alíneas "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fls. 491-503):
+APELAÇÃO. AUTO DE INFRAÇÃO AMBIENTAL. AÇÃO ANULATÓRIA. FALTA DE FUNDAMENTAÇAÕ DO ATO ADMINISTRATIVO. NULIDADE. OCORRÊNCIA.
+1. Cuidamos da análise de recurso de apelação tirado em face de sentença que julgou improcedente ação de anulação de auto de infração ambiental.
+2. A tipificação de infrações administrativas não se sujeita à mesma quadra de limitações da tipificação penal, inexistindo irregularidade na definição por meio de atos infralegais, desde que não extrapole a semântica e os limites interpretativos da lei autorizativa. Jurisprudência do C. STJ e do E. TJSP.
+3. A lavratura do auto de infração que constata poluição não dispensa fundamentação que demonstre sob quais modos os fatos constatados implicaram no lançamento de partículas ou energias inadmissíveis por normas ambientais. Vale dizer, critérios cientificamente válidos, mesmo que não explícitos em norma do CONAMA, devem ser explicitados, para o fim de ao particular seja possível exercer o direito de defesa. No caso dos autos o laudo de constatação valeu-se de expressão sem significado científico algum - e a despeito disso, foi o documento que amparou a categorização da conduta. Invalidade do ato que se requer.
+Recurso provido.
+Opostos os embargos de declaração, foram rejeitados por não haver, no acórdão recorrido, nenhum dos vícios elencados no art. 1.022 do CPC (fls. 564-573).
+No recurso especial, o recorrente alega, no mérito, negativa de vigência do art. 85, § 3º, do CPC/2015, sustentando que a recorrida é Sociedade de Economia Mista que não goza dos privilégios atinentes à Fazenda Pública. Suscita dissídio jurisprudencial com arestos desta Corte.
+Não foram oferecidas contrarrazões ao recurso especial (fl. 654).
+Sobreveio o juízo de admissibilidade negativo na instância de origem pelo óbice da Súmula n. 7/STJ, o que ensejou a interposição do presente agravo.
+Não foi apresentada contraminuta ao agravo (fl. 753).
+É, no essencial, o relatório.
+Preenchidos os pressupostos de admissibilidade do agravo, passo a análise do recurso especial.
+Trata-se, na origem, de ação anulatória ajuizada pela recorrente em face da recorrida, objetivando anular o auto de infração AIIPM n. 18002606, eis que referido ato foi celebrado à absoluta margem da legalidade
+Após a improcedência inicial dos pedidos, o Tribunal de origem reformou a sentença e anulou o referido auto de infração, reconhecendo as irregularidades que permearam a lavratura do auto de infração guerreado, bem como inverteu os ônus sucumbenciais fixados pelo j uízo de origem.
+A ora recorrente opôs embargos de declaração para discutir a fixação da verba honorária, visto que o Tribunal de origem adotou a regra especial de arbitramento de honorários referentes à Fazenda Pública (art. 85, § 3º, do CPC), enquanto deveria ter sido adotada a regra geral presente no art. 85, § 2º, do CPC.
+Ocorre, entretanto, que o recurso não merece ser conhecido, visto não ter havido o necessário prequestionamento, porquanto se verifica que a Corte a quo não analisou, sequer implicitamente, a matéria recursal à luz dos dispositivos legais.
+Desse modo, impõe-se o não conhecimento do recurso especial por ausência de prequestionamento, entendido como o necessário e indispensável exame da questão pela decisão atacada, apto a viabilizar a pretensão recursal.
+Incidência, no caso, do enunciado da Súmula n. 211 do Superior Tribunal de Justiça: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo".
+Oportuno consignar que, apesar de opostos os embargos de declaração, a agravante não suscitou sequer ofensa ao art. 1.022 do CPC nas razões do recurso especial a fim de viabilizar o prequestionamento da matéria e a consequente análise dos artigos tidos por violados.
+Nesse sentido, confiram-se precedentes:
+AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL E CONSUMIDOR. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. ART. 1.021, § 1º, DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. PREQUESTIONAMENTO FICTO NÃO CONFIGURADO. VIOLAÇÃO DO ART. 1.022 DO CPC QUE SEQUER FOI ARGUIDA. APLICAÇÃO DE MULTA COM FUNDAMENTO NO ART. 1.026, § 2º, DO CPC. IMPOSSIBILIDADE DE REEXAME. SÚMULA 7/STJ.
+1. Não pode ser conhecido o agravo interno na parte relativa ao dissídio jurisprudencial, tendo em vista a ausência de impugnação específica ao fundamento adotado na decisão agravada. Inteligência do art. 1.021, § 1º, do CPC.
+2. Ausente o prequestionamento quando o Tribunal de origem não emitiu juízo de valor acerca do dispositivo legal apontado como violado. Aplicação da Súmula 211/STJ.
+3. Prequestionamento ficto que pressupõe não apenas a oposição de embargos de declaração na origem, mas também a alegação, perante este Superior Tribunal, da ocorrência de violação do art. 1.022 do CPC, o que não ocorreu no presente caso.
+4. O exame do recurso especial, para afastar a aplicação da multa prevista no art. 1.026, § 2º, do CPC, demandaria a incursão no acervo fático dos autos, o que não se mostra possível nesta instância especial. Aplicação da Súmula 7/STJ.
+5. AGRAVO INTERNO CONHECIDO EM PARTE E DESPROVIDO.
+(AgInt no REsp n. 1.839.004/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 28/11/2022, DJe de 13/12/2022.)
+PROCESSO CI VIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. DESAPROPRIAÇÃO. TESES E DISPOSITIVOS LEGAIS NÃO PREQUESTIONADOS. SÚMULAS 282 E 356/STF E 211/STJ. RECURSO NÃO PROVIDO.
+1. O Tribunal de origem não analisou o conteúdo normativo dos arts. 9º; 10;141; 278, § 1º; 370; 480, § 1º; 492; 346, § 1º; 349; 507;
+489, § 1º,III e IV; 873, I, do Código de Processo Civil, sob a perspectiva apontada pela recorrente em suas teses. Ademais, embora interpostos embargos de declaração, a parte não apontou violação ao art. 1.022, II, do Código de Processo Civil, o que impede a constatação, pelo Superior Tribunal de Justiça, de eventual omissão do acórdão e determinação de retorno dos autos a fim de completar a prestação jurisdicional. Em razão de tais deficiências, o recurso especial não pôde ser conhecido. Aplicação das Súmulas 282 e 356 do Supremo Tribunal Federal e 211 desta Corte.
+2. "O entendimento majoritário do Supremo Tribunal Federal e o Superior Tribunal de Justiça é no sentido de que, no âmbito dos recursos excepcionais, é indispensável o prequestionamento explícito ou implícito da questão objeto do recurso extraordinário ou especial" (AgInt no REsp 1765907/RS, minha relatoria, Segunda Turma, DJe 28/06/2019).
+3. Outrossim, quanto ao prequestionamento ficto (art. 1.025 do CPC), "não basta a simples interposição de embargos de declaração, é necessária a alegação de violação ao art. 1.022 do CPC nas razões do recurso especial e o reconhecimento por esta Corte da existência de qualquer dos vícios embargáveis pelos aclaratórios; o que não ocorreu no presente caso." (AgInt no REsp n. 1.983.070/CE, minha relatoria, Segunda Turma, DJe de 30/6/2022.) 4. Agravo interno não provido.
+(AgInt no AREsp n. 2.062.460/GO, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 12/9/2022, DJe de 15/9/2022.)
+Ademais, cumpre ressaltar que, em razão do óbice da Súmula n. 211/STJ, o recurso especial não comporta conhecimento pela alínea "c" do permissivo constitucional por ausência de discussão e decisão sobre o conteúdo normativo nas instâncias ordinárias. Nesse sentido, cito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. MOTIVAÇÃO CONSTITUCIONAL E INFRACONSTITUCIONAL. FALTA DE RECURSO EXTRAORDINÁRIO. SÚMULA 126/STJ. JULGAMENTO EXTRA PETITA. ENTENDIMENTO DESTA CORTE SOBRE A QUESTÃO. SÚMULA 83/STJ. LITIGÂNCIA DE MÁ-FÉ. INDENIZAÇÃO. DESNECESSIDADE DE PROVAR PREJUÍZO. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.
+1. Arrimado o julgamento em fundamentação constitucional e infraconstitucional, não se conhece do especial se não foi manejado recurso extraordinário (Súmula 126/STJ).
+2. Não há julgamento extra petita quando o julgador interpreta todo o conteúdo do pedido de modo lógico-sistemático. Julgados desta Corte nesse sentido. Súmula 83/STJ.
+3. Pacificado pela Corte Especial que a indenização do art. 18 do CPC/1973, decorrente da litigância de má-fé, independe de demonstração de prejuízo.
+4. Não havendo no acórdão objeto do recurso especial decisão sobre o conteúdo normativo do dispositivo tido como violado, forçoso é reconhecer a falta de prequestionamento (Súmula 211/STJ), ficando inviabilizado, por consequência, o dissídio pretoriano.
+5. Agravo interno não provido.
+(AgInt no REsp n. 1.444.827/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 12/12/2022, DJe de 14/12/2022.)
+Ante o exposto, não conheço do recurso especial.
+Existindo nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem -se.
