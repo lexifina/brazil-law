@@ -1,0 +1,67 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo ESTADO DE MINAS GERAIS com respaldo na alínea "a" do permissivo constitucional contra acórdãos do Tribunal de Justiça daquela unidade federativa assim ementados (e-STJ fls. 205 e 264):
+EXECUÇÃO FISCAL - AÇÃO AJUIZADA ANTES DA VIGÊNCIA DA LEI COMPLEMENTAR 118/05 - NATUREZA PROCESSUAL - RETROAÇÃO DE SEUS EFEITOS - INVIABILIDADE - CRÉDITOS TRIBUTÁRIOS - CONSTITUIÇÃO DEFINITIVA - CITAÇÃO NÃO EFETIVADA - AUSÊNCIA DE CAUSA DE INTERRUPÇÃO - PRESCRIÇÃO DA PRETENSÃO EXECUTIVA. - Inda que a Lei Complementar 118/05 tenha natureza processual e aplicação imediata nos processos em tramitação, não se mostra cabível a retroação dos seus efeitos para alcançar situações consolidadas sobre o regramento anterior. - Em conformidade com o disposto pelo "caput" do artigo 174 do Código Tributário Nacional, o decurso do lapso temporal de 05 (cinco) anos entre a data da constituição definitiva dos créditos tributários e a data da prolação da sentença, sem que se efetivasse a necessária citação do apelado ou se denotasse caracterizada qualquer outra causa de interrupção da prescrição, revela evidenciada a consumação da pretensão executiva da Fazenda Pública.
+JUÍZO DE RETRATAÇÃO - APELAÇÃO CÍVEL - EXECUÇÃO FISCAL - PRESCRIÇÃO INTERCORRENTE - DESNECESSÁRIO ARQUIVAMENTO - INÉRCIA DA FAZENDA PÚBLICA. O Superior Tribunal de Justiça, no julgamento do REsp 1.340.5531RS , submetido à sistemática dos recursos repetitivos, definiu teses sobre a prescrição intercorrente, esclarecendo sobre a aplicação do art. 40 da Lei de Execuções Fiscais e sobre a sistemática de contagem dos prazos. Contudo, inviável exercer o juízo de retratação, quando verificado que a execução ficou sem movimentação por prazo superior ao quinquênio legal, ficando evidente a desídia da Fazenda Pública em realizar diligências para receber o crédito.
+Embargos de declaração rejeitados (e-STJ fls. 224/227).
+No seu recurso especial, a parte recorrente aponta violação do art. 1.022 do CPC/2015 e 174 do CTN.
+Sustenta, preliminarmente, que o acórdão recorrido padeceria de omissão, pois o Tribunal de origem teria deixado de "apontar o fundamento jurídico que suportaria a assertiva de que seria necessária a citação de todos os corresponsáveis para interromper a prescrição; recusou-se, ainda, a analisar os efeitos da citação editalícia da empresa e um dos coobrigados nos primeiros cinco anos contados da constituição definitiva do crédito." (e-STJ fl. 231).
+Aduz, ainda, que "o art. 174 do CTN igualmente foi violado, tendo em vista que o r. acórdão introduziu exigência a ele estranha para a caracterização da interrupção do prazo prescricional. Quando muito, se poderia afirmar prescrita a pretensão em relação aos coobrigados não citados, jamais, data venia, no que toca aos que integraram a lide dentro do prazo legal." (e-STJ fl. 232).
+Sem contrarrazões.
+Recurso especial admitido (e-STJ fls. 273/274).
+Passo a decidir.
+O Tribunal de origem assim fundamentou o julgado recorrido (e-STJ fls. 207/212):
+Anota-se, inicialmente, objetivar a execução fiscal o recebimento de créditos referentes ao Imposto sobre Circulação de Mercadorias e Serviços - ICMS, no valor de R$ 3.012,24 (três mil e doze reais e vinte e quatro centavos), atualizado até 15 de janeiro de 1997 conforme f. 05, débitos estes referentes aos meses de dezembro de 1994 a novembro de 1995.
+Aponta-se, neste contexto, ter o ajuizamento da presente ação de execução, ocorrido no dia 04 de fevereiro de 1997, ou seja, antes da vigência da Lei Complementar n. 118/05, diploma legal esse que deu nova redação ao artigo 174, do Código de Processo Civil, estabelecendo o despacho ordinatório da citação como uma das causas de interrupção da prescrição.
+Nada obstante, inda que a Lei Complementar 118/05 tenha natureza processual e aplicação imediata aos processos em tramitação, não se mostra cabível a retroação de seus efeitos para alcançar situações consolidadas sobre o regramento anterior, como ocorreu no caso em apreço, em que o despacho ordinatório da citação foi proferido em 31 de março de 1997 (f 07).
+Neste aspecto, o Superior Tribunal de Justiça, no julgamento do Recurso Repetitivo n. 999.901/RS, processado sob a sistemática prevista pelo artigo 543-C, do Código de Processo Civil, decidiu, nestes termos:
+ ..
+Reporta-se, no caso concreto, que não encontrada a parte executada (f. 10), no dia 29 de agosto de 1997 foi publicado edital de citação do devedor Eletromontes Ltda, e um de seus coobrigados, Wilson Carlos Barbosa, para efetuar o pagamento do débito no prazo de cinco dias (f. 13/15).
+Inertes os executados, o apelante requereu expedição de ofício aos Bancos e à Receita Federal, solicitando declarações de bens e rendiméntos do devedor e seus coobrigados solidários (f. 17), as quais foram prestadas em f. 35/46.
+Frustradas as medidas, o apelante requereu em 30 de julho de 2004 a citação do sócio coobrigado Lindemberg Corrêa Silva e, por não ter sido encontrado no endereço informado (f. 65) sua citação ocorreu em 15 de setembro de 2008 por edital (f. 89190).
+Todavia, em 18 de junho de 2013, o MM. Juiz da causa houve por bem sentenciar o feito, julgando extinta a execução em virtude do reconhecimento, de ofício, da prescrição intercorrente (f 121), ao fundamento de que o exequente não promoveu qualquer diligência no sentido de buscar a satisfação de seu crédito.
+Destaca-se, segundo disposto pelo inciso 1 do parágrafo único do artigo 174 do Código de Processo Civil, com redação anterior à vigência da Lei Complementar n. 118/05, que a citação do devedor constitui uma causa de interrupção da prescrição, nestes termos:
+ ..
+Por conseguinte, no caso em apreço, como os respectivos créditos tributários foram inscritos na dívida ativa municipal no ano de 1996 (f. 04), torna-se inarredável concluir que a data da constituição definitiva deles ocorreu em data precedente, fato que, aliado à circunstância de que a prolação da sentença ocorrer em 2013 constitui fundamento apto para declarada pronúncia da prescriçâo.
+Isto porque, em conformidade com o disposto pelo "caput" do artigo 174 do Código Tributário Nacional, decorrido o lapso temporal de 05 (cinco) anos, a partir da data da constituição definitiva deles, sem que se efetivasse a necessária citação de todos os apelados ou se denotasse caracterizada qualquer outra causa de sua interrupção da aludida prejudicial.
+Sobre o tema, a jurisprudência do Superior Tribunal de Justiça manifesta:
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRIBUTÁRIO. EXECUÇÃO FISCAL. FEITO AJUIZADO ANTES DA VIGÉNCIA DA LC 11812005. PRESCRIÇÃO. INTERRUPÇÃO. CITAÇÃO DO EXECUTADO. REDAÇÃO ORIGINAL DO ARTIGO 174 DO CTN.
+Para as causas cujo despacho que ordena a citação seja anterior à entrada em vigor da Lei Complementarn. 118/2005, aplica-se o art. 174, parágrafo único, 1, do CTN, em sua redação anterior, que dispunha que, prescreve em cinco anos a ação de cobrança do crédito tributário, contados da sua constituição definitiva, somente sendo interrompida a prescrição nos seguintes casos: a) pela citação pessoal feita ao devedor; b) pelo protesto judicial; c) por qualquer ato judicial que constitua em mora o devedor; d) por qualquer ato inequívoco, ainda que extrajudicial, que importe em reconhecimento do débito pelo devedor.
+In casu, verifica-se que o executivo fiscal foi proposto em 27/05/1994, mas a citação do executado só ocorreu em 07/11/2005, sendo inequívoca a ocorrência da prescrição do crédito tributário.
+Agravo regimental não provido" (STJ - Agravo Regimental flQ Recurso Especial n. 1.503.335/PR - Rel. Mm. Mauro Campbell Marques - DJe de 24.03.2015).
+Neste mesmo sentido, a 8ª Câmara Cível deste Tribunal de Justiça de Minas Gerais decidiu:
+ ..
+Por outro lado, a pronúncia da prescrição deve-se fundar no "caput" do artigo 174 do Código Tributário Nacional c/c artigo 219, §5º , 269, inciso IV, do Código de Processo Civil, já que não se revela ocorrente qualquer causa de sua interrupção, não se mostra necessária a observância do rito previsto pelo § 40 do artigo 40 da Lei n. 6.830180 e tampouco a prévia oitiva da apelante, providendas essas alusivas ao reconhecimento da prescriçao ntercorrente.
+Sobre o tema, a jurisprudência do Superior Tribunal de Justiça manifesta:
+ ..
+Desta maneira, no caso em apreço, o decurso do prazo superior a 05 (cinco) anos entre a data da cqnstituição definitiva.dos créditos tributários e a data da prolação da sentença, sem que demonstrada qualquer uma das causas de interrupção preconizadas pelo artigo 174, do Código Tributário Nacional, denota consumada a prescrição- da pretensão executiva do apelante.
+Destarte, inda que por outros fundamentos em que prolatada, a extinção da pretensão executiva merece prevalecer.
+Ante o exposto, NEGO PROVIMENTO ao recurso.
+Custas recursais pelo apelante, segundo disposto pelo artigo 10, inciso 1, da Lei Estadual n. 14.939103 c/c artigo 39, da Lei n.
+6.830/80.
+Transitada esta em julgado, retornem os autos ao juízo de origem, observando-se as cautelas legais.
+Pois bem.
+Inicialmente, supero a alegada violação do art. 1.022 do CPC/2015, pois entendo que as questões suscitadas nos presentes autos foram suficientemente enfrentadas no acórdão recorrido.
+No mérito, no entanto, o recurso não merece ser conhecido pois o Estado recorrente, nas razões recursais, deixou de impugnar a seguinte fundamentação do julgado recorrido (e-STJ fls. 210/211):
+Por outro lado, a pronúncia da prescrição deve-se fundar no "caput" do artigo 174 do Código Tributário Nacional c/c artigo 219, §5º , 269, inciso IV, do Código de Processo Civil, já que não se revela ocorrente qualquer causa de sua interrupção, não se mostra necessária a observância do rito previsto pelo § 40 do artigo 40 da Lei n. 6.830180 e tampouco a prévia oitiva da apelante, providendas essas alusivas ao reconhecimento da prescriçao ntercorrente.
+Sobre o tema, a jurisprudência do Superior Tribunal de Justiça manifesta:
+ ..
+Desta maneira, no caso em apreço, o decurso do prazo superior a 05 (cinco) anos entre a data da cqnstituição definitiva.dos créditos tributários e a data da prolação da sentença, sem que demonstrada qualquer uma das causas de interrupção preconizadas pelo artigo 174, do Código Tributário Nacional, denota consumada a prescrição- da pretensão executiva do apelante.
+Como se sabe, a falta de impugnação de todos os fundamentos em que se apoia o acórdão recorrido tem por consequência a incidência, por analogia, da Súmula 283 do STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+Nesse sentido:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. FALTA DE PREQUESTIONAMENTO DOS ARTS. 3º, 113 E 128 DO CÓDIGO TRIBUTÁRIO NACIONAL. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 282/STF. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. APLICAÇÃO DO ÓBICE DA SÚMULA N. 283/STF. AUSÊNCIA DE COMANDO NORMATIVO EM DISPOSITIVO LEGAL APTO A SUSTENTAR A TESE RECURSAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. MULTA DO ART. 1.026 DO CPC. APLICAÇÃO NÃO ADEQUADA NA ESPÉCIE.
+ ..
+III - A falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283 do Supremo Tribunal Federal.
+IV - A jurisprudência desta Corte considera deficiente a fundamentação do recurso quando os dispositivos apontados como violados não têm comando normativo suficiente para infirmar os fundamentos do aresto recorrido, circunstância que atrai, por analogia, a incidência do entendimento da Súmula n. 284 do Supremo Tribunal Federal.
+V - O Agravante não apresenta argumentos suficientes para desconstituir a decisão recorrida.
+ ..
+VII - Agravo Interno improvido.
+(AgInt no REsp 1.714.321/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 22/05/2018, DJe 1º/06/2018).
+Vale acrescentar que também não é possível conhecer do recurso especial quando o artigo de lei apontado como violado nas razões do apelo não contém comando normativo capaz de infirmar o fundamento do acórdão atacado, o que atrai a aplicação, por analogia, da Súmula 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Sobre a questão:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL.  ..  DEFICIÊNCIA DE FUNDAMENTAÇÃO. APLICAÇÃO, POR ANALOGIA, DA SÚMULA N. 284/STF.  ..  AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. RAZÕES RECURSAIS DISSOCIADAS. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DAS SÚMULAS N. 283 E 284/STF  ..
+II - A jurisprudência desta Corte considera deficiente a fundamentação do recurso quando os dispositivos apontados como violados não têm comando normativo suficiente para infirmar os fundamentos do aresto recorrido, circunstância que atrai, por analogia, a incidência do entendimento da Súmula n. 284 do Supremo Tribunal Federal  ..
+VIII - Agravo Interno improvido.
+(AgInt no REsp 1.656.968/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 06/06/2017, DJe 16/06/2017).
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Sem honorários recursais, uma vez que inexiste condenação na verba sucumbencial nas instâncias ordinárias.
+Publique-se. Intimem-se.
