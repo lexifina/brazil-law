@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/04/2023 a 03/05/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos por KASUO SATO e SADAO SATO a acórdão proferido pela Terceira Turma desta Corte assim ementado (e-STJ, fl. 549):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PREPARO. AUSÊNCIA. INTIMAÇÃO PARA REGULARIZAÇÃO NA ORIGEM. GUIA DE RECOLHIMENTO. FALTA DE CORRESPONDÊNCIA ENTRE O NÚMERO DO PROCESSO E AQUELE INFORMADO NA GRU. DESERÇÃO. AGRAVO DESPROVIDO.
+1. Constatado na origem que o recurso especial não foi instruído com a guia de recolhimento das custas devidas ao Superior Tribunal de Justiça e, intimada para efetuar o recolhimento em dobro, a parte deixa de cumprir a determinação nos termos regulamentares, trazendo GRU com número do processo na origem diverso daquele que consta nos autos, impõe-se a manutenção do decreto de deserção.
+2. Conforme jurisprudência desta Corte Superior, o número constante da guia de recolhimento do preparo deve guardar correspondência com o número de referência do processo, sob pena de deserção (AgInt no AREsp 1.863.616/SP, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 16/8/2021, DJe 19/8/2021).
+3. Agravo interno desprovido.
+Em suas razões (e-STJ, fls. 559-571), os embargantes alegam que o acórdão recorrido incorreu em omissão quanto ao entendimento jurisprudencial no sentido de que o erro material no preenchimento das guias de preparo recursal não implica em deserção do recurso, mencionando precedentes desta Corte.
+Reiteram que, "embora tenha havido o recolhimento em dobro, houve um equívoco no preenchimento das guias relativas ao preparo recursal, uma vez que, ao invés de constar "2027650-56.2021.8.26.0000", constou "2027650-56021.8.26.0000.2" (e-STJ, fl. 564), defendendo, assim, a inaplicabilidade da Súmula 187/STJ ao caso.
+Sem impugnação (e-STJ, fls. 576-579).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC/2015. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Consoante dispõe o art. 1.022 do CPC/2015, destinam-se os embargos de declaração a corrigir no julgado eventual omissão, obscuridade, contradição ou erro material, não se caracterizando via própria ao rejulgamento da causa.
+2. Embargos de declaração rejeitados.
+VOTO
+Inicialmente, vale rememorar que apenas são cabíveis os aclaratórios quando existir no julgado omissão, contradição, obscuridade ou erro material, nos termos do art. 1.022 do Código de Processo Civil de 2015, situação que não se observa na espécie.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. AÇÃO DE OBRIGAÇÃO DE PAGAR QUANTIA CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. VIOLAÇÃO DO ART. 1.022 DO NCPC. CONTRADIÇÃO. OMISSÃO. NÃO CONFIGURADAS. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração constituem recurso de estritos limites processuais e destinam-se a suprir omissão, afastar obscuridade, eliminar contradição eventualmente existentes no julgado combatido, bem como corrigir erro material.
+2. Não se reconhece a violação do art. 1.022 do CPC quando há o exame, de forma fundamentada, de todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte.
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp n. 2.116.996/MS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 12/12/2022, DJe de 14/12/2022.)
+No caso, verifica-se o acórdão ora embargado consignou, de forma expressa e fundamentada, a caracterização da deserção no caso em comento, ratificando, por consequência, a aplicação da Súmula 187/STJ, consoante se colhe dos seguintes trechos (e-STJ, fls. 553-554):
+Consoante anotado pela decisão da Presidência, o Tribunal de Justiça, ao constatar que o recurso especial não foi instruído com a guia de recolhimento das custas devidas ao Superior Tribunal de Justiça e seu correspondente comprovante de pagamento, determinou a intimação da parte para o recolhimento em dobro.
+Intimada a parte para sanar o vício, embora tenha efetivado o respectivo recolhimento, assim o fez em desacordo com o disposto na resolução desta Corte Superior vigente à época da interposição do recurso, a qual dispõe que, nos processos recursais, o campo "Processo na Origem" da GRU deverá ser preenchido com o número do processo no Tribunal de origem.
+Na espécie, verifica-se que a parte indicou, na guia de recolhimento, como número do processo de origem, a numeração 2027650-56021.8.26.0000.2, enquanto o correto seria 2027650-56.2021.8.26.0000, o que impõe o reconhecimento da deserção.
+Nos termos da jurisprudência desta Corte Superior, "o número constante da guia de recolhimento do preparo deve guardar correspondência com o número de referência do processo, sob pena de deserção" (AgInt no AREsp 1.863.616/SP, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 16/8/2021, DJe 19/8/2021).
+Nesse mesmo sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO EM RECURSO ESPECIAL. PREPARO. GUIA DE RECOLHIMENTO DA UNIÃO. AUSÊNCIA. INTIMAÇÃO PARA REGULARIZAÇÃO. JUNTADA DE GUIA COM NÚMERO DE PROCESSO NA ORIGEM DIVERSO DOS AUTOS. DESERÇÃO. SÚMULA 187/STJ. AGRAVO NÃO PROVIDO.
+1. Não comprovado o recolhimento do preparo no ato de interposição do recurso e, intimada a parte para efetuar o recolhimento em dobro, o recorrente deixa de cumprir a determinação nos termos regulamentares, trazendo guia de recolhimento com número do processo na origem diverso daquele que consta nos autos, é de rigor o decreto de deserção.
+3. Agravo interno a que se nega provimento.(AgInt nos EDcl no REsp n. 1.962.628/DF, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 13/6/2022, DJe de 21/6/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INTERPOSTO SOB A ÉGIDE DO CPC/73. PREPARO. INTIMAÇÃO PARA COMPLEMENTAÇÃO. RECOLHIMENTO COM EQUÍVOCO NA INDICAÇÃO DO TIPO DE RECURSO INTERPOSTO. DIVERGÊNCIA ENTRE O NÚMERO DA GUIA DE RECOLHIMENTO E O NÚMERO DE AUTUAÇÃO DO PROCESSO. DESERÇÃO. NOVA INTIMAÇÃO PARA REGULARIZAÇÃO. IMPOSSIBILIDADE. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. "O entendimento desta Corte é no sentido de que a comprovação do pagamento do preparo deve ocorrer quando da interposição do recurso e na forma da legislação em vigor naquele naquele momento, sendo o correto preenchimento da guia de recolhimento de responsabilidade da parte recorrente" (AgInt no REsp 1.744.342/MT, Relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 29/10/2018, DJe de 8/11/2018).
+2. Intimada a complementar o preparo, sob pena de deserção, a agravante apresentou a guia de recolhimento com número do processo na origem e tipo de recurso incorretos, o que, nos termos da jurisprudência desta Corte Superior, equivale ao seu não recolhimento, e resulta na deserção do recurso, sem a possibilidade de nova intimação para regularização do preparo. Precedentes.
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp n. 1.293.091/CE, relator Ministro Raul Araújo, Quarta Turma, julgado em 8/8/2022, DJe de 17/8/2022.)
+AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO.
+1. Nos termos da orientação jurisprudencial desta Corte Superior, a irregularidade no preenchimento das guias do preparo - consistente na indicação errônea do processo na origem -, no ato da interposição recurso destinado ao STJ, caracteriza a sua deserção (AgInt no AREsp 1.68 7.285/AL, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 24/11/2020, DJe 3/12/2020). Precedentes.
+2. Agravo interno desprovido.(AgInt no RMS 59.893/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 31/05/2021, DJe 04/06/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL C/C PEDIDO DE INDENIZAÇÃO POR PERDAS E DANOS. RECOLHIMENTO DO PREPARO. COMPROVAÇÃO NO ATO DA INTERPOSIÇÃO DO RECURSO. AUSÊNCIA. RECOLHIMENTO EM DOBRO. NECESSIDADE. NOVA OPORTUNIDADE PARA RECOLHIMENTO. IRREGULARIDADE. NÚMERO CONSTANTE NA GUIA DIVERSO DO NÚMERO DE REFERÊNCIA DO PROCESSO. DESERÇÃO. RECURSO NÃO CONHECIDO. MAJORAÇÃO DA VERBA HONORÁRIA.
+1. Cuida-se, na origem, de ação de rescisão contratual c/c pedido de indenização por perdas e danos.
+2. É firme a jurisprudência desta Corte no sentido de que o recurso especial é deserto quando a parte não comprova o recolhimento do preparo no ato de interposição e, posteriormente, deixa de atender à intimação para o recolhimento em dobro. Precedentes.
+3. A norma do art. 1.007, § 4º, do CPC/2015 remete à comprovação do recolhimento do preparo no ato de interposição do recurso, e não somente ao efetivo pagamento da quantia no prazo recursal. Assim, não estava a parte recorrente, na espécie, dispensada do recolhimento em dobro, consoante a intimação do Tribunal a quo.
+4. Hipótese em que, ademais, foi concedida nova oportunidade à parte para proceder ao recolhimento em dobro. No entanto, ao fazê-lo, houve indicação errônea, na guia de recolhimento, do número de referência do processo.
+5. O número constante da guia de recolhimento da GRU deve guardar exata correspondência com o número de referência do processo, sob pena de deserção.
+6. "Esta Corte Superior coopera com as partes quando determina a sanação de patente irregularidade, mas não coopera a parte que, sanando a eiva, incorre em nova irregularidade, pois, assim, o processo seguiria em um horizonte ilimitado de oportunidades para sanação de irregularidades (..). A reiteração de irregularidades não é tolerada, nã o se podendo conhecer do recurso ora interposto" (AgInt no RMS 60.185/PE, 3ª Turma, DJe 18/10/2019).
+7. Em se tratando de recurso submetido ao CPC/2015, e não conhecido pela deserção, é impositiva a majoração da verba honorária, na forma do art. 85, § 11, desse Diploma legal.
+8. Agravo interno não provido.(AgInt no AREsp n. 1.507.458/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 18/5/2020, DJe de 25/5/2020.)
+Portanto, ao contrário do que pretende fazer prevalecer a parte embargante, não se verifica nenhum dos vícios do art. 1.022 do CPC/2015, mas apenas a pretensão de rejulgamento da causa em razão do seu inconformismo com o resultado, tornando inviável o acolhimento dos aclaratórios.
+Diante do exposto, rejeito os embargos de declaração.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de novos embargos de declaração manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
