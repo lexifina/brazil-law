@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto PELO MUNICÍPIO DE BELO HORIZONTE/MG contra acórdão proferido pelo TJMG assim ementado:
+EMENTA: APELAÇÃO CÍVEL - EMBARGOS À EXECUÇÃO FISCAL - INSTITUIÇÕES FINANCEIRAS - HSBC E BAMERINDUS - AUSÊNCIA DE SUCESSÃO UNIVERSAL - ASSUNÇÃO DE OBRIGAÇÕES FISCAIS - INOCORRÉNCIA ILEGITIMIDADE PASSIVA CONFIGURADA RECURSO PROVIDO. Não possui legitimidade para figurar no polo passivo de execução fiscal a instituição financeira que, embora tenha assumido parte dos ativos e dos passivos de outra instituição financeira, não assumiu o passivo que engloba o crédito tributário ora executado.|
+A parte recorrente alega violação dos arts. 123 e 133 do CTN.
+Alega, em síntese, que as convenções particulares não podem ser oponíveis ao Fisco e que impõe-se o reconhecimento da legitimidade passiva do HSBC BANK BRASIL S.A. (suscedido pelo KRITON BANK S.A.) para responder pelos creditos tributários lançados pelo município em desfavor do BANCO BAMERINDOS por sucessão empresarial, uma vez que "as agências, os ativos e os passivos, os direitos e as obrigações, os recursos dos depositantes, os clientes e toda a gama de objetos acoplados ao contrato dormiram sob titularidade de Bamerindus e acordaram com a nova roupagem dada pelo HSBC Bank Brasil S.A. - Banco Múltiplo (na época, porque também adquiriu a marca Bamerindus, HSBC se mostrava ao público como "HSBC Bamerindus", visando a manter sob sua titularidade a extensa e bastante proficua carteira de clientes adquirida)" (e-STJ fl. 832).
+O recurso especial foi admitido na origem com contrarrazões, em que se pleiteava o não conhecimento do recurso especial.
+Passo a decidir.
+O recurso especial se origina de embargos à execução fiscal movido pelo BANCO BAMERINDUS DO BRASIL S.A. e pelo HSBC BANK BRASIL S.A. -BANCO MÚLTIPLO contra execução fiscal de crédito de tributo municipal.
+No que interessa a este recurso especial, discute-se na origem, entre outras questões, a ilegitimidade passiva do HSBC BANK para responder pelo crédito tributário do BANCO BAMERINDOS em razão da ausência de sucessão societária universal, ao argumento de que o HSBC BANK teria adquirido apenas parte do patrimônio do devedor original.
+No Primeiro grau de jurisdição a ação foi julgada improcedente.
+Na parte relativa ao tema discutido neste recurso especial, consignou-se que o BANCO BAMERINDOS teria sofrido intervenção do BANCO CENTRAL DO BRASIL que culminou com a venda para o HSBC BANK, dando origem a um novo banco: o HSBC BAMERINDOS.
+Consignou também que, ainda que a venda do patrimônio tenha sido parcial, não ficaria afastada a sucessão empresarial.
+O Tribunal mineiro deu provimento à apelação do HSBC BANK para reconhecer a sua ilegitimidade passiva em acórdão por maioria.
+Consignou-se, ademais, que a ausência de sucessão empresarial já teria sido reconhecida inclusive em julgados deste Superior Tribunal de Justiça.
+Opostos embargos de declaração, foram eles rejeitados ficando assim julgada a questão (e-STJ fl. 820):
+Conforme decidido pelo colendo Tribunal Superior, o BANCO BAMERINDUS DO BRASIL S. A., que foi submetido ao regime especial de liquidação extrajudicial por força de ato do Banco Central do Brasil, conservou sua personalidade jurídica e capacidade de atuação em juízo e fora dele (RESP nº 1.431.693/SP e RESP nº 1.429.173/PA). Sendo assim, não foi sucedido pelo HSBC BANK.
+Dessa forma, ainda que a sucessão seja fato jurídico que desencadeia responsabilidade tributária, no caso em questão, NÃO houve sucessão por parte do HSBC, motivo pelo qual não se pode imputar a responsabilidade tributária no caso dos autos ao HSBC.
+Pois bem.
+O recurso especial não merece conhecimento em face do óbice da Súmula 7 do STJ.
+Em que pesem as alegações de que a sucessão empresarial para fins tributários não se confunde com a sucessão empresarial para fins civis e de que as convenções particulares não seriam oponíveis ao Fisco, a Corte mineira expressamente consignou que, como relatado, no caso em questão não houve sucessão do BANCO BAMERINDOS pelo HSBC BANK, afirmando, ademais, que o BANCO BAMERINDOS teria conservado a sua personalidade jurídica e a sua capacidade de atuação em juízo e fora dele mesmo após a operação.
+Assim, tem-se que a revisão da conclusão a que chegou o Tribunal a quo sobre a questão demanda o reexame dos fatos e provas constantes dos autos, o que é vedado no âmbito do recurso especial, nos termos da Súmula 7 do STJ.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Uma vez promovida nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
