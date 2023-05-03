@@ -1,0 +1,6 @@
+DECISÃO
+Trata-se de agravo interno interposto por KIPLING BAGS COMERCIAL LTDA., contra decisão monocrática de relatoria do Ministro Manoel Erhardt (Desembargador convocad o do TRF5) assim ementada:
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. MANDADO DE SEGURANÇA. INEXISTÊNCIA DE VIOLAÇÃO DO ART. 489 DO CPC/2015. CONTRIBUIÇÃO PREVIDENCIÁRIA PATRONAL. INCIDÊNCIA SOBRE AS FALTAS JUSTIFICADAS E O DÉCIMO TERCEIRO SALÁRIO PROPORCIONAL AO AVISO PRÉVIO INDENIZADO. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+Uma das questões debatidas nos autos, qual seja, "definir se é cabível a incidência de contribuição previdenciária sobre os valores pagos a empregado a título de décimo terceiro salário proporcional referente ao aviso prévio indenizado", encontra-se afetada à Primeira Seção desta Corte Superior aguardando o julgamento dos REsps 2.000.020/MG, 2.003.967/AP, 2.006.644/MG e 1.974.197/AM, de minha relatoria , sob o rito dos recursos repetitivos (Tema 1.170 /STJ).
+Diante do exposto, determino o sobrestamento destes autos, que deverão permanecer na Coordenadoria de Feitos de Direito Público até o julgamento definitivo dos citados recursos excepcionais representativos da controvérsia.
+Publique-se. Intimações necessárias.
