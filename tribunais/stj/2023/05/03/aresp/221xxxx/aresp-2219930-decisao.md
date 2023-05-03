@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que negou seguimento ao recurso especial por incidência das Súmulas n. 7 do STJ e 284 do STF (e-STJ fls. 2.016/2.018).
+O acórdão recorrido está assim ementado (e-STJ fl. 1.807):
+EMENTA: DUPLA APELAÇÃO CÍVEL. AÇÃO DE EMBARGOS À EXECUÇÃO. CONTRATO DE PRESTAÇÃO DE SERVIÇO ESPECIALIZADO EM PLANTIO MECANIZADO DE CANA-DE-AÇÚCAR. TÍTULO EXECUTIVO LÍQUIDO, CERTO EEXIGÍVEL. INDENIZAÇÃO POR MÁQUINAS E/OU CAMINHÕES PARADOS. QUANTUM REDUZIDO. IMPLEMENTOS AGRÍCOLAS EXCLUÍDOS. VALOR DAINDENIZAÇÃO MANTIDO COMO PACTUADO. MULTA POR DESCUMPRIMENTO CONTRATUAL VÁLIDA. SUCUMBÊNCIA RECÍPROCA CONFIRMADA. HONORÁRIOS RECURSAIS NÃO MAJORADOS. SENTENÇA REFORMADA, EM PARTE. 1. Infere-se que a executividade do contrato de prestação de serviços está prevista no inciso III, do art. 784 do CPC, por ser documento particular assinado pelas partes e duas testemunhas, além de que o descumprimento da obrigação assumida pelo contratado é traduzido em obrigação certa, líquida e exigível, que, em regra, consistirá na multa pelo inadimplemento, conforme previsão contratual. 2. Na cláusula 3.1.2 do contrato objeto da demanda pactuou-se indenização no importe de R$ 1.500,00 por dia, quando as máquinas e/ou caminhões ficassem parados devido as chuvas. 3. Em atenção ao citado no tópico anterior, deve prevalecer à tese posta no segundo apelo, com a reforma da sentença nesta parte, de modo que devem ser excluídos da conta do débito 16implementos agrícolas, já que esses não podem ser considerados como máquinas e/ou caminhões para os fins previstos na cláusula 3.1.2. do pacto, conforme esclarecido no voto do relator. 4. Não há falar-se em acolhimento da tese recursal de onerosidade excessiva a justificar a rescisão do contrato, a não incidência ou a redução da indenização fixada na avença, em razão de que a contratante sabia dos riscos da prestação de seus serviços, por ser uma grande empresa no país. 5. Como as partes sucumbiram de forma proporcional na demanda, não tem incidência a sucumbência mínima prevista no artigo 86, caput, do CPC. 6. A multa contratual constante na cláusula 12.1. da avença deve ser mantida, ao inverso do defendido na sentença, pois a embargante após ter sido notificada extrajudicialmente, deixou de cumpriu com o acordado. 7. Deixa-se de majorar os honorários recursais indicados no artigo 85, § 11 do CPC, à vista deque esse somente se aplica no desprovimento dos recursos, caso que não é dos autos. 8. RECURSOS CONHECIDOS E PROVIDOS PARCIALMENTE.
+Os embargos de declaração foram rejeitados (e-STJ fls. 1.911/1.926).
+Nas razões do recurso especial (e-STJ fls. 1.942/1.958), fundamentado no art. 105, III, "a" e "c", da CF, a parte recorrente alega, além de divergência jurisprudencial, ofensa aos arts. 489, § 1º, I, III e IV, e 1.022, I e II, § 2º, do CPC/2015 por negativa de prestação jurisdicional.
+Indica afronta aos arts. 783 e 786 do CPC/2015, sustentando, em síntese, a inexistência de obrigação líquida, certa e exigível.
+Segundo afirma, "havia fato que impedia a configuração do inadimplemento contratual, qual seja: cláusula contratual prevendo que não em caso de chuva não iria ocorre o plantio, em razão da impossibilidade física, o que não deixou operar o inadimplemento contratual" (e-STJ fl. 1.947) e que "não se encontram os requisito da liquidez e certeza, conforme disposto no art. 783 do CPC, motivando a discussão acerca de apuração de valores, que demandou prova pericial técnica e instrução processual para oitiva de testemunhas" (e-STJ fl. 1.949).
+No agravo (e-STJ fls. 2.022/2.034), a parte agravante declara a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 2.039/2.047).
+Manifestação acerca da c ertidão para saneamento de óbices (e-STJ fls. 2.057/2.064).
+Petição apresentada pela parte agravante requerendo "a dilação do prazo por 10 dias visando a averiguação do conteúdo das fls. 341 dos autos, ou, de forma alternativa, considerado que os autos de execução e embargos à execução estão apensados, requer a juntada da procuração inclusa para sanar a irregularidade apontada, a fim de que seja o Agravo em Recurso Especial tenha o seu normal processamento perante o Eg. Superior Tribunal de Justiça" (e-STJ fl. 2.060).
+É o relatório.
+Decido.
+Mediante análise do recurso de BRENCO - COMPANHIA BRASILEIRA DE ENERGIA RENOVÁVEL - EM RECUPERAÇÃO JUDICIAL, a parte recorrente não procedeu à juntada da procuração e/ou cadeia completa de substabelecimento conferindo poderes ao subscritor do presente agravo e do recurso especial, Dr. Ivan Henrique de Sousa Filho.
+É firme o entendimento do STJ de que a ausência da cadeia completa de procurações impossibilita o conhecimento do recurso (Súmula n. 115/STJ).
+Ainda, percebeu-se, no STJ, haver irregularidade na representação processual dos recursos.
+A parte, embora devidamente intimada para sanar referido vício, não regularizou sua representação processual, uma vez que a procuração juntada à fl. 2.063 (e-STJ) diz respeito ao processo principal não apensado, qual seja, a Ação de Execução n. 0096697-48.2014.8.09.0105, em trâmite na 1ª Vara Cível de Mineiros - GO.
+Segundo a jurisprudência desta Corte, o instrumento juntado, no processo principal ou em outro conexo não apensado, não surte efeitos quanto ao recurso dirigido ao STJ. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. FALTA DE REPRESENTAÇÃO PROCESSUAL. INTIMAÇÃO PARA REGULARIZAÇÃO. DESCUMPRIMENTO. SÚMULA N. 115 DO STJ. DECISÃO MANTIDA.
+1. Não se conhece de recurso interposto por advogado sem procuração nos autos encaminhados ao STJ. A parte, devidamente intimada, não cumpriu a determinação de regularizar a representação processual no prazo assinalado. Observância do disposto nos arts. 76, § 2º, inc. I, e 932, inc. III, e parágrafo único, do CPC. Incidência da Súmula n. 115 do STJ.
+2. A procuração ou o substabelecimento juntado em outro processo (principal, conexo ou incidental) não apensado não produz efeitos no recurso dirigido ao STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.028.356/RJ, de minha relatoria, QUARTA TURMA, julgado em 23/5/2022, DJe de 26/5/2022.)
+Além disso, não há previsão legal para a dilação do prazo concedido para o saneamento do vício.
+Assim, não cumprida a ordem de regularização a tempo e modo determinados, não se pode conhecer do recurso. Sobre o tema:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PROCURAÇÃO DO ADVOGADO SUBSCRITOR DA PETIÇÃO DO AGRAVO EM RECURSO ESPECIAL. SÚMULA 115/STJ.
+ ..
+2. É inexistente recurso interposto por advogado sem procuração nos autos, conforme enuncia a Súmula 115/STJ.
+3. Nos termos do art. 76, § 2º, I, do CPC/15, não se conhece do recurso quando a parte, após intimada para regularizar sua representação processual (art. 932, parágrafo único, do CPC/15), não promove o saneamento do vício no prazo concedido.
+4.Agravo Interno no agravo em recuso especial não provido.
+(AgInt no AREsp n. 1.372.413/MG, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 27/5/2019, DJe 29/5/2019.)
+AGRAVO INTERNO EM FACE DE DECISÃO DA PRESIDÊNCIA. PROCESSUAL CIVIL. ADVOGADO SEM PROCURAÇÃO NOS AUTOS. RECURSO INEXISTENTE. AUSÊNCIA DE REGULARIZAÇÃO DA REPRESENTAÇÃO PROCESSUAL, APESAR DE INTIMAÇÃO DA PARTE. CONHECIMENTO DO RECURSO. INVIABILIDADE.
+ ..
+2. "Nos termos do art. 76, § 2º, inc. I, do CPC/15, não se conhece de recurso quando, intimada a parte para regularização da representação processual, essa não cumpre a determinação realizada". (AgInt no REsp 1710759/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 02/08/2018, DJe 20/08/2018).
+3. Agravo interno não provido.
+(AgInt nos EDcl no REsp n. 1.724.522/SP, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/9/2018, DJe 25/9/2018.)
+Dessa forma, o recurso não foi devida e oportunamente regularizado.
+Diante do exposto, NÃO CONHEÇO ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
