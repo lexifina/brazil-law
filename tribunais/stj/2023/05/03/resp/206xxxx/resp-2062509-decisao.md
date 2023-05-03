@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão assim ementado (e-STJ fls. 333/334):
+COMPROMISSO DE COMPRA E VENDA - Rescisão contratual - Legislação consumerista - Aplicação Lei n. 9.514/97 que não afasta a incidência da legislação consumerista - Inadimplência dos compradores - Caracterização - Devolução de parcelas pagas - Restituição que deve ser imediata, sob pena de onerosidade excessiva do consumidor, admitida a retenção do montante, em 20% da quantia paga, o que inclui a remuneração pelas despesas administrativas - Inteligência do art. 53, do CDC e das Súmulas nºs 01 e 02 deste Tribunal - Descabimento de cobrança pela fruição do bem, em razão de se tratar de lote de terreno sem edificação - IPTU que é de responsabilidade dos compradores, enquanto perdurar a posse Juros a partir do trânsito em julgado - Honorários advocatícios Condenação sucumbencial Observância ao art. 85 do CPC/2015 Recurso parcialmente provido.
+No recurso especial (e-STJ fls. 237/246), fundamentado no art. 105, III, "a", da CF, a recorrente alegou violação do art. 926 do CPC/2015, visto que o Tribunal de origem deixou de aplicar a Súmula n. 1 do TJSP para fixação de taxa de fruição.
+Requereu a concessão de efeito suspensivo ao especial.
+No agravo (e-STJ fls. 257/258), declara a presença de todos os requisitos de admissibilidade do especial.
+É o relatório.
+Decido.
+A Corte local consignou que (e-STJ fls. 231/233 ):
+No caso, a rescisão é medida que se impõe e a Lei 9.514/97, diferentemente do alegado, não impede a aplicação da legislação consumerista.
+(..)
+Assim, como tenho reiteradamente decidido, a jurisprudência já consagrou o entendimento de que, nos casos de rescisão de contrato de compromisso de compra e venda, o consumidor tem direito à devolução das parcelas pagas, descontado percentual suficiente para o pagamento das perdas e danos e despesas administrativas, aí incluídas as de corretagem e publicidade, bem como valor relativo à taxa de ocupação pelo desfrute do imóvel, nos termos da Súmula nº 1, editada por este Egrégio Tribunal de Justiça, a qual dispõe que: o compromissário comprador de imóvel, mesmo inadimplente, pode pedir a rescisão do contrato e reaver as quantias pagas, admitida a compensação com gastos próprios de administração e propaganda feitos pelo compromissário vendedor, assim como com o valor que se arbitrar pelo tempo de ocupação do bem.
+Daí porque determinada a rescisão contratual e reintegrada a vendedora na posse do bem, é direito do consumidor, ainda que inadimplente, receber de volta parte das parcelas pagas.
+A devolução das parcelas é mera consequência e reflexo da rescisão do contrato, sob pena de ofensa à norma prevista pelo art. 53 do Código de Defesa do Consumidor, que dispõe serem nulas de pleno direito as cláusulas que estabelecem a perda total das parcelas pagas em benefício do credor, em contratos de compra e venda, rescindidos em razão de inadimplemento.
+Entretanto, é certo que, para se evitar enriquecimento ilícito do comprador em detrimento do vendedor, admite-se a retenção de percentual das parcelas pagas suficiente para o pagamento das perdas e danos e despesas administrativas, aí incluídas as de administração e publicidade, conforme jurisprudência deste E. Tribunal.
+Desta forma, o percentual de retenção determinado na r. sentença deve subsistir.
+De rigor, ainda, a restituição do montante de uma só vez, sob pena de colocar-se o consumidor em situação de desvantagem exagerada (art. 53 e art. 51, IV, do CDC), conforme a Súmula nº 2, editada por este Egrégio Tribunal de Justiça, a qual dispõe que A devolução das quantias pagas em contrato de compromisso de compra e venda de imóvel deve ser feita de uma só vez, não se sujeitando à forma de parcelamento prevista para a aquisição.
+Em caso de rescisão contratual, cujo objetodo imóvel é um terreno, sem edificações, há entendimento dominante de ausência de condenação em taxa de ocupação.
+O conteúdo do art. 926 do CPC/2015, que trata da uniformização da jurisprudência, não foi tratado pelo Tribunal de origem, estando ausente o requisito do prequestionamento. Incide a Súmula n. 282/STF.
+Em face do exposto, NÃO CONHEÇO do recurso especial. PREJUDICADO o pedido de efeito suspensivo.
+Publique-se e intimem-se.
