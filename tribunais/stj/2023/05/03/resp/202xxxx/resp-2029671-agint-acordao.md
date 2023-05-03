@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/04/2023 a 03/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de agravo interno interposto por LILIANA ROSENTHAL contra a decisão de fls. 1010-1.013 (e-STJ), da lavra deste signatário, que não conheceu do recurso especial da ora agravante.
+O apelo extremo foi deduzido com base no art. 105, III, a e c, da Constituição Federal, em desafio a acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 820):
+SEGURO. PLANO DE SAÚDE. CONTRATO COLETIVO. CLÁUSULA QUE PREVÊ REAJUSTE POR AUMENTO DE SINISTRALIDADE. AVENÇA CELEBRADA ENTRE DUAS PESSOAS JURÍDICAS. INEXISTÊNCIA DE IMPEDIMENTO À APLICAÇÃO DOS ACRÉSCIMOS. INAPLICABILIDADE DAS RESTRIÇÕES VIGENTES PARA OS CONTRATOS DE NATUREZA INDIVIDUAL OU COLETIVA. SENTENÇA REFORMADA. AÇÃO IMPROCEDENTE. RECURSO PROVIDO.
+Os embargos de declaração opostos foram desacolhidos (e-STJ, fls. 890-896).
+Nas razões do recurso especial (fls. 827-848, e-STJ), além de dissídio jurisprudencial, a recorrente alegou que o acórdão impugnado incorreu em violação dos arts. 4º, 6º, III, V, VI e VIII, 39, V, 47, 51, IV e X, e 54, § 4º, do Código de Defesa do Consumidor; 341, 421, 422 e 757 do CC/2002; 13, II, da Lei n. 9.656/1998; 355, 369, 370, 373, II, § 1º, 374, II, 375, 480 e 1.022, II, do Código de Processo Civil de 2015; e 5º, LV, da Constituição Federal de 1988.
+Sustentou, em suma, a existência de negativa de prestação jurisdicional quanto à análise do cerceamento de defesa arguido nos embargos de declaração.
+Defendeu ter existido a fixação de reajustes unilaterais e em percentuais elevados, sem a demonstração de sua necessidade e viabilidade.
+Apontou que as cláusulas contratuais que autorizam o reajuste por sinistralidade, sem demonstrar ao consumidor seu efetivo cálculo e aplicabilidade, constitui prática abusiva e são nulas, logo inviável a majoração estipulada pela seguradora.
+Em face do juízo prévio positivo de admissibilidade, os autos ascenderam a este Tribunal Superior, ocasião em que o recurso especial não mereceu conhecimento, pelos seguintes fundamentos: a) impossibilidade de interposição de recurso especial para análise de violação a dispositivos constitucionais, dada a competência para tal exame ter sido atribuída ao Supremo tribunal Federal; e b) aplicação das Súmulas 5 e 7/STJ para revisão das conclusões do Tribunal de origem.
+Neste agravo interno (fls. 1.016-1.028, e-STJ), a agravante sustenta a inaplicabilidade dos óbices apontados para o não conhecimento de seu reclamo, ao tempo que repisa os termos já expendidos no recurso especial.
+Ao final, requer a reconsideração da decisão agravada ou a apreciação do agravo interno pelo colegiado.
+Impugnação às fls. 1.030-1.039 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE DE EXAME PELO SUPERIOR TRIBUNAL DE JUSTIÇA. CONCLUSÃO DO ACÓRDÃO ESTADUAL NO SENTIDO DA EXISTÊNCIA DE CONTRATAÇÃO ENTRE DUAS PESSOAS JURÍDICAS. AUSÊNCIA DE HIPOSSUFICIÊNCIA OU VULNERABILIDADE DA INSURGENTE. AFASTAMENTO DE APLICAÇÃO DE NORMATIVOS PROTETIVOS DO CDC. OCORRÊNCIA DE REAJUSTES NAS MENSALIDADES RESPEITANDO O TEOR DO CONTRATO. INEXISTÊNCIA DE ABUSIVIDADE. INVIABILIDADE DE DECLARAÇÃO DE NULIDADE. SÚMULAS 5 E 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO INTERNO DESPROVIDO.
+1. Inviável a análise de ofensa a dispositivos constitucionais, porquanto a competência desta Corte restringe-se à interpretação e uniformização do direito infraconstitucional federal, sob pena de usurpação da competência atribuída ao Supremo Tribunal Federal.
+2. A revisão das conclusões estaduais demandaria, necessariamente, a interpretação de cláusulas contratuais e o reexame do acervo fático-probatório dos autos, providências vedadas no âmbito do recurso especial ante os óbices das Súmulas 5 e 7/STJ.
+3. A necessidade do reexame da matéria fática inviabiliza o recurso especial também pela alínea c do permissivo constitucional, ficando, portanto, prejudicado a análise da divergência jurisprudencial.
+4. Razões recursais insuficientes para a revisão do julgado.
+5. Agravo interno desprovido.
+VOTO
+O recurso não comporta provimento, porquanto as razões expendidas são insuficientes para a reconsideração da decisão.
+Com efeito, conforme asseverado na decisão agravada, no que se refere à dita ofensa do art. 5º, LV, da Constituição Federal de 1988, cabe salientar que a competência do Superior Tribunal de Justiça restringe-se à interpretação e uniformização do direito infraconstitucional federal, não sendo cabível o exame de eventual ofensa a dispositivos e princípios constitucionais, sob pena de usurpação da competência atribuída ao Supremo Tribunal Federal, nos termos do art. 102 da Constituição Federal.
+Na hipótese ora em análise, o Tribunal de origem, ao dirimir a controvérsia, assim consignou (fls. 822-824 , e-STJ):
+Cuida-se de demanda relativa a contrato coletivo de plano de assistência à saúde proposta contra a operadora e a administradora dos benefícios, sob o fundamento da aplicação de supostos reajustes abusivos no valor do prêmio. Julgada parcialmente procedente, sobreveio o presente recurso de apelação da corré Sul América que está, com efeito, a merecer acolhida.
+Isso porque, em que pesem os argumentos traçados pela demandante, nem
+de longe há a abusividade que se pretendeu ver na aplicação dos índices utilizados para reajuste, por sinistralidade, das parcelas. Note-se que o contrato fora firmado entre duas pessoas jurídicas, com igual poder de decisão.
+No ponto, imperioso consignar que o instrumento contratual prevê as hipóteses de reajustes do prêmio, incluindo aqueles decorrentes da sinistralidade e da variação dos custos médicos e hospitalares (item 13 fls. 98 e seguintes).
+E, tratando-se de contrato coletivo de plano de saúde, estabelecido entre pessoas jurídicas, não há que se falar em abusividade dos índices de correção que, ressalte-se, foram livremente pactuados pelas partes contratantes, ao cabo de presumível negociação. Lembre-se que a parte autora é mera beneficiária do contrato, não assumindo a condição de contratante.
+Na realidade, o que pretende a parte demandante é obter, no bojo de um contrato coletivo, a proteção conferida às apólices individuais, situação com a qual não se pode compadecer. Mesmo porque, as hipóteses de reajuste se encontram dispostas no contrato. Assim:
+(..)
+No mais, como já anotei no julgamento da Apelação Cível nº. 012942-11.2012.8.26.0100, da Comarca da Capital, nunca é demais lembrar que os planos de saúde sejam os de prestação de serviço, sejam os de seguro médico são atividades econômicas exercidas por empresas, e que, portanto, buscam, como resultado dessa atividade, um lucro.
+Posta assim a questão, e certo que o contrato é tipicamente de seguro, não se veda o estabelecimento de cláusulas limitativas de responsabilidade e mesmo de reajuste dos valores dos prêmios pelo aumento da sinistralidade advindo da idade ou dos custos. Até porque o prêmio pago guarda nítido cálculo atuarial em relação ao risco assumido.
+Daí que, para que se preserve a válida autonomia da manifestação da vontade, o ato jurídico perfeito e acabado, a irretroatividade da lei e bem a boa-fé que deve orientar todas as relações jurídicas, há que se respeitar o reajuste efetuado pela seguradora.
+Destarte, em resumo, afigurando-se lícitos os reajustes aplicados pelas rés em razão da alteração na sinistralidade e da variação dos custos médicos e hospitalares, a improcedência integral da demanda é mesmo de rigor. Com o resultado, compete à parte autora arcar com as custas e despesas processuais, além dos honorários advocatícios devido às requeridas, que ora se fixam em 10% do valor da causa, observados os parâmetros constantes do § 2º, do artigo 85, do Código de Processo Civil.
+Dessa forma, a revisão das conclusões estaduais demandaria, necessariamente, a interpretação de cláusulas contratuais e o revolvimento do acervo fático-probatório dos autos, o que não se admite no recurso especial devido aos óbices das Súmulas 5 e 7/STJ.
+Por fim, consoante entendimento desta Corte Superior, a incidência da Súmula n. 7/STJ impede o exame de dissídio jurisprudencial, n a medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual a Corte de origem deu solução à causa.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
