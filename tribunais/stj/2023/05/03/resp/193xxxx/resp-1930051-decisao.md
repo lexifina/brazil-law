@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recursos especiais interpostos por particular e pelo INSS, com fundamento no art. 105, inciso III, alínea "a" da Constituição Federal, contra acórdão do Tribunal Regional Federal da 3ª Região.
+Conforme bem resumido pelo MPF no parecer de e-STJ fls. 340/346:
+O recurso especial do particular, admitido na origem, alega que o acórdão do TRF3 contrariou os arts. 75 e 80 da Lei 8.213/1991. Documento as Afirma que "o auxílio-reclusão segue a mesma condição do benefício da pensão por morte, devendo ser respeitado os critérios para a apuração da Renda Mensal Inicial  ..  a decisão da e. Turma Julgadora, que limitou a renda mensal inicial a um salário mínimo, ofende o artigo 75 da Lei Federal nº 8.213/1991, que determina a observação dos artigos 44 e 29, inciso II, ambos da Lei Federal nº 8.213/1991, na apuração da Renda Mensal Inicial do auxílio-reclusão, por força do disposto no artigo 80 da Lei Federal 8.213/1991, devendo a mesma ser reformada" (f. 275).
+O INSS, por sua vez, alega a contrariedade dos arts. 1.022 e 489, do CPC. Afirma ter ocorrido a violação dos arts. 396, 876 e 884, do CC. Defende que o benefício só pode ser concedido a partir do requerimento administrativo e, não, a partir da prisão, ainda que o beneficiário seja menor de idade. O recurso especial da União não foi admitido, daí a interposição de agravo.
+Eis o breve relatório. Passo a decidir.
+Em relação o salário de benefício, tem razão o particular, uma vez que o acórdão da origem desatendeu a orientação desta Corte, exemplificada no seguinte julgado:
+PREVIDENCIÁRIO. AUXÍLIO-RECLUSÃO. SEGURADO SEM RENDA EM PERÍODO DE GRAÇA. VALOR DO BENEFÍCIO. CÁLCULO COM BASE NO SALÁRIO DE BENEFÍCIO.
+1. O acórdão recorrido entendeu que o valor do benefício de auxílio-reclusão deve corresponder a um salário mínimo mensal quando o segurado não possui renda por estar em período de graça, na data do seu efetivo recolhimento à prisão.
+2. Não há previsão legal de para que, na ausência de salário de contribuição, o valor do benefício do auxílio-reclusão seja de um salário mínimo. Da interpretação dos arts. 28, 29, 33, 75 e 80, da Lei 8.213/1991, extrai-se que a apuração do valor do salário de benefício do auxílio-reclusão segue os mesmos critérios da pensão por morte, de modo que será apurado com base na média aritmética simples dos maiores salários de contribuição correspondentes a oitenta por cento de todo o período contributivo.
+3. Recurso Especial provido.
+(REsp n. 1.808.750/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 25/6/2019, DJe de 2/8/2019.)
+O caso é de aplicar, portanto, a Súmula 568 do STJ para dar provimento ao apelo nesse aspecto.
+Por outro lado, o recurso da autarquia não merece provimento.
+Acolho, como razões de decidir, o seguinte trecho do parecer do MPF:
+Ao contrário do que o INSS alega,não houve violação dos arts. 489 e 1.022 do CPC, uma vez que o tribunal de origem se manifestou sobre todas as questões pertinentes à solução da causa. Não há omissão no acórdão que, com fundamentação suficiente, ainda que não exatamente a invocada pela parte, decide de modo integral a controvérsia dos autos. Falta razão ao se pretender que se aprecie questão que já se mostra de pronto afastada com a adoção de posicionamento que se antagoniza logicamente com aquele deduzido em recurso.
+No mais, o acórdão impugnado acolheu o entendimento consolidado nesta Corte, no sentido de que "o termo inicial do benefício de auxílio-reclusão, quando devido a dependente absolutamente incapaz, é a data da prisão do segurado" (REsp 1.393.771/PE, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 30/11/2017, DJe de 6/12/2017).
+Aplica-se, nesse ponto, a Súmula 83 do STJ.
+Ante o exposto, DOU PROVIMENTO ao recurso do particular, para determinar que a apuração do valor do salário de benefício do auxílio-reclusão siga os mesmos critérios da pensão por morte; e CONHEÇO do agravo do INSS, para CONHECER EM PARTE do apelo especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Publique-se. Intimem-se.
