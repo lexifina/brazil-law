@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto com fundamento no art. 1.042, § 2º, do Código de Processo Civil, contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (e-STJ, fl . 252):
+AGRAVO INTERNO - AGRAVO DE INSTRUMENTO - DECISÃO MONOCRÁTICA QUE INDEFERE O PEDIDO DE CONCESSÃO DE ASSISTÊNCIA JUDICIÁRIA - AUSÊNCIA DE ELEMENTOS PARA A REFORMA DA DECISÃO - DECISÃO MANTIDA - RECURSO DESPROVIDO.
+Opostos embargos de declaração, foram eles rejeitados.
+Em razões de recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, a recorrente alega violação aos 489, §1, IV, 1.022, 98 e 99, § 3º do Código de Processo Civil.
+Sustenta: a) violação aos artigos 489, §1, IV e 1.022 do CPC, aduzindo que "o Tribunal de origem foi omisso quanto às questões fáticas, probatórias e meritórias encartadas aos autos, na qual o Recorrente de fato comprovou sua incapacidade financeira, conforme os documentos encartados no ID nº 139597674, quais sejam: Declaração de Hipossuficiência Econômica, Declaração de Imposto de Renda a qual atesta ganhos líquidos e/ou perdas, Renda Variável e demais rendimentos tributáveis que atestam sua hipossuficiência econômica financeira", e b) ofensa aos arts. 98 e 99, §3º, do CPC, alegando que faz jus à concessão dos benefícios da Justiça gratuita, pois "cuidando-se de pessoa natural, logo, basta o simples requerimento para a concessão do beneficiário da assistência judiciária gratuita, sendo dispensável a comprovação, de plano, de sua condição de miserabilidade".
+Contrarrazões apresentadas.
+O Tribunal de origem não admitiu o recurso especial, tendo em vista (i) a ausência de negativa de prestação jurisdicional, bem como pela (ii) vedação de reexame do acervo fático-probatório (Súmula 7/STJ).
+Nas razões do agravo em recurso especial, reitera-se que haveria violação à legislação federal e pugna-se pelo provimento do recurso.
+Assim delimitada a controvérsia, passo a decidir.
+Não merece acolhida o agravo.
+Em primeiro lugar, não há falar, no caso, em negativa de prestação jurisdicional. A Câmara Julgadora apreciou as questões deduzidas, decidindo de forma clara e conforme sua convicção com base nos elementos de prova que entendeu pertinentes. No entanto, se a decisão não correspondeu à expectativa da parte, não deve por isso ser imputado vício ao julgado.
+Todos os argumentos trazidos pela parte agravante a fim de ver acolhida a alegação de afronta aos arts. 489 e 1.022 foram expressamente examinados e, no mérito, rejeitados pelas instâncias ordinárias. A pretensão da agravante, a bem da verdade, caracteriza mero inconformismo com o resultado do acórdão, que concluiu, de forma fundamentada e clara, em seu desfavor, confirmando a sentença no sentido de que a parte agravante possui "condição financeira distinta da hipossuficiência financeira ou da figura de pessoa economicamente necessitada", conforme se destaca do seguinte trecho do acórdão (e-STJ, fls. 254):
+Nesta sede recursal, conquanto observado que a Constituição federal garante a prestação da "assistência jurídica integral e gratuita aos que comprovarem insuficiência de recursos", na hipótese não foi o que se verificou, como consignado:
+Assim exposto, conquanto o apelante argumente que não tem condições de arcar com as custas processuais, o contexto fático não fornece dados suficientemente concretos, a ponto de convencer acerca da necessidade de tal benefício.
+Chama atenção que a discussão envolve cessão de direitos hereditários de considerável valor (33.333,33 @ de vaca gorda).
+Ademais, os documentos colacionados, revelam patrimônio constituído por dois outros imóveis rurais.
+De outra via, não restou eficientemente evidenciado que o pagamento das custas processuais causará grave prejuízo ao atendimento de suas necessidades básicas ou de sua família.
+Dessa forma, se as circunstâncias não evidenciam a insuficiência de recursos apta a provocar o deferimento do benefício vindicado e se o conjunto probatório igualmente não demonstra a alegada incapacidade, o pedido de assistência judiciária não há de ser deferido.
+Com efeito, considerada a situação fática exarada nos autos, o que se verifica é que o autor agravante tem condição financeira distinta da hipossuficiência financeira ou da figura de pessoa economicamente necessitada.
+Neste Agravo Interno não há elementos aptos a desconstituir a decisão impugnada, O que se tem é a reiteração de argumentos que já foram sopesados quando do exame do Agravo de Instrumento.
+Ressalta-se que não é omissa nem carece de fundamentação a decisão judicial que, embora decida em sentido contrário aos interesses da parte, examina suficientemente as questões que lhe foram propostas, adotando entendimento que ao órgão julgador parecia adequado à solução da controvérsia.
+Ademais, nos termos da jurisprudência deste Superior Tribunal de Justiça, não se exige do julgador a análise de todos os argumentos das partes para fins de convencimento e julgamento. (STJ, AgInt no AREsp n. 1734857/RJ, rel. Ministro Gurgel de Faria, Primeira Turma, j. em 22.11.2021). Para tanto, basta o pronunciamento fundamentado acerca dos fatos controvertidos, o que se observa no presente caso, em que os motivos encontram-se objetivamente fixados nas razões do acórdão recorrido.
+Melhor sorte não socorre à parte agravante acerca da alegada ofensa aos arts. 98 e 99, § 3º do CPC. Pacífica nesta Corte a orientação jurisprudencial de que a análise da condição econômica necessária para a concessão da gratuidade de Justiça esbarra no óbice da Súmula 7/STJ. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE AGRAVANTE.
+1. Após atenta análise dos autos, verificou-se que o insurgente, nas razões do recurso especial efetivamente indicou os dispositivos violados, dessa forma afasta-se a incidência da Súmula 284 STF.
+2. A concessão do benefício de gratuidade da Justiça a pessoa jurídica depende da comprovação da precariedade de sua situação financeira, inexistindo presunção de insuficiência de recursos.
+Súmula 481/STJ.
+3. A pretensão de que seja avaliada a condição econômica da parte agravante exigiria o reexame de provas, o que é vedado em sede de recurso especial, em face do óbice contido na Súmula 7 do STJ.
+3. Agravo interno provido para reconsiderar a decisão de fls. 88-89, e-STJ, e agravo em recurso especial, de plano, desprovido.
+(AgInt no AREsp n. 2.158.634/MS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 24/10/2022, DJe de 27/10/2022.)
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
