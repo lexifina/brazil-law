@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de pedido liminar em habeas corpus impetrado em benefício de CRISTIANO TEIXEIRA NASCIMENTO em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Narra a defesa que o paciente teve a prisão preventiva decretada e encontrar -se preso, desde 04/12/2022, pela suposta prática do crime de furto de uma bicicleta. Irresignada, a defesa impetrou Habeas corpus perante o Tribunal de origem, que, ao fundamento da garantia da ordem pública, diante do risco de reiteração delitiva - "paciente, mormente por ostentar maus antecedentes, destaca-se, por crime patrimonial, não se olvidando que praticou novo delito também patrimonial quando em gozo de liberdade provisória (1527935-67.2022.8.26.0228  .. )"- fl. 99, denegou a ordem em acórdão de fls. 94-100.
+Neste writ, sustenta a defesa excesso de prazo na formação da culpa, ausência de fundamentação da decisão que decretou a segregação cautelar, bem como ausência dos requisitos ensejadores da prisão preventiva, ponderando a possibilidade da aplicação de medidas cautelares diversas da prisão.
+Postula a revogação da prisão preventiva.
+É o breve relatório.
+Decido.
+Pretende a defesa, em breve síntese, a revogação da prisão preventiva do paciente ou sua substituição por medidas cautelares diversas da prisão.
+Em consulta à base de dados desta Corte Superior, denota-se a reiteração das razões manifestadas no HC n. 819.209/SP, cuja irresignação dirigiu-se ao mesmo (HC n.2081061-43.2023.8.26.0000), ora atacado, evidenciando-se deste presente habeas corpus o propósito de dupla apreciação, por este Superior Tribunal de Justiça, das matérias suscitadas, dado que indica o não cabimento da insurgência em exame.
+A propósito: "É pacífico o entendimento firmado nesta Corte de que não se conhece de habeas corpus cuja questão já tenha sido objeto de análise em oportunidade diversa, tratando-se de mera reiteração de pedido" (AgRg no HC n. 531.227/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 10/9/2019, DJe de 18/9/2019)." (AgRg no HC n. 790.979/RO, Quinta Turma, relator Ministro Reynaldo Soares da Fonseca DJe de 13/2/2023.) Nesse mesmo sentido: (RHC n. 117.327/GO,Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 27/09/2019), (RHC n. 115.356/RS, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 03/10/2019).
+Ante o exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente o processamento do presente writ.
+P. e I.
