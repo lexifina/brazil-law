@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo interposto por RARO INDÚSTRIA DE ALIMENTOS LTDA, com fundamento no art. 1.042, § 2º, do Código de Processo Civil, contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (e-STJ, fl. 439):
+EMENTA: AGRAVO DE INSTRUMENTO - AÇÃO DE RESSARCIMENTO DE QUANTIA CERTA C/C INDENIZAÇÃO POR DANOS MATERIAIS - DECADÊNCIA - REDIBIÇÃO - DECISÃO MANTIDA. A decadência do direito de ação, tendente a devolver bem com defeito que o torne impróprio ao uso que dele se espera, é de trinta dias, a partir das datas assinaladas. Uma vez que a ação foi interposta após o prazo, resta inafastável o reconhecimento da decadência do direito de obter a redibição.
+Opostos embargos de declaração, foram eles rejeitados.
+Em razões de recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, a recorrente alega violação aos arts. 186, 187, 389, 884 e 927 do Código Civil e 489 e 492 do Código de Processo Civil.
+Sustenta, em síntese, que seu pedido tem caráter indenizatório, decorrente de ato ilícito praticado pela recorrida, e não redibitório como entendeu o acórdão recorrido, pretendendo, por consequência, o afastamento da decadência fundamentada em vício redibitório. Argumenta, por fim, ausência de fundamentação do acórdão recorrido e violação do princípio da congruência/adstrição, pretendendo a reforma do acórdão.
+Contrarrazões apresentadas.
+O Tribunal de origem não admitiu o recurso especial, tendo em vista a incidência das Súmulas 7 do Superior Tribunal de Justiça.
+Nas razões do agravo em recurso especial, reitera-se que haveria violação à legislação federal e pugna-se pelo provimento do recurso.
+Assim delimitada a controvérsia, passo a decidir.
+Não merece acolhida o agravo.
+A agravante, em síntese, para além da ofensa ao art. 489 e 492 do CPC, defende que a pretensão teria natureza indenizatória, e não redibitória.
+O Tribunal local, ao decidir a controvérsia, entendeu, repisando a sentença, ser inconteste a decadência do direito da parte agravante de obter a redibição, deixando de se pronunciar expressamente sobre os temas abrangidos pelos arts. 186, 187, 389, 884 e 927 do CC e 489 e 492 do CPC (e-STJ, fls. 441/442):
+Da análise dos argumentos apresentados pelo agravante, em juízo de cognição sumária, não é possível vislumbrar a probabilidade do direito alegado.
+Cumpre assinalar que os argumentos trazidos pela parte Agravante guardam estreita pertinência com o mérito da própria demanda, no que concerne à discussão sobre a decadência de um dos pedidos iniciais, o que requer a devida dilação probatória capaz de permitir aos envolvidos todas as garantias inerentes ao devido processo legal.
+Tampouco se afigura, neste momento, o perigo de dano capaz de ensejar o deferimento da tutela pretendida na medida em que, o simples fato do juiz reconhecer a decadência de um dos pedidos, não é motivo suficiente para impor a sua suspensão.
+Ademais, conforme bem destacado pelo douto juiz, considerando que a decadência do direito de ação, tendente a devolver bem com defeito que o torne impróprio ao uso que dele se espera, é de trinta dias, a partir das datas assinaladas, e tendo em vista que a presente ação somente foi ajuizada em 19/06/2017, resta inafastável o reconhecimento da decadência do direito de obter a redibição.
+Nesse sentido, destaca-se a jurisprudência do STJ:
+(..)
+Portanto, da análise dos autos, resta clara a decadência do direito do autor no tocante ao pleito de rescisão do contrato de compra dos movimentadores, isto porque, conforme aludido na precedência, o ajuizamento desta demanda deu-se após 30 dias do término da garantia fixada no ajuste entre as partes.
+Assim, não há que se falar em reforma da sentença recorrida.
+As razões do recurso especial admitem que o Tribunal local não examinou pontualmente os argumentos levantados no agravo de instrumente. Apesar disso, após a oposição de embargos de declaração, não fora suscitada, no recurso especial, violação ao art. 1.022 do CPC para eventual reconhecimento de negativa de prestação jurisdicional.
+Nessa esteira, para que se configure o prequestionamento a respeito de matéria ventilada em recurso especial, há que se extrair do acórdão recorrido pronunciamento sobre a tese jurídica em torno do dispositivo legal tido por violado, a fim de que se possa, na instância especial, abrir discussão sobre a questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal. O requisito, todavia, não está presente nestes autos.
+Com efeito, o Superior Tribunal de Justiça adota o entendimento de que não se reconhece o prequestionamento pela simples oposição de embargos de declaração. Persistindo a omissão, necessária a interposição de recurso especial por ofensa ao art. 1.022 do CPC de 2015, sob pena de persistir o óbice da ausência de prequestionamento. Incide, portanto, quanto ao ponto, o óbice da Súmula 211 do STJ.
+Nesse sentido, confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. ALEGADA AFRONTA AOS ARTIGOS 85, § 8º, DO CPC DE 2015 E 884 DO CC. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA N. 282/STF, APLICADA ANALOGICAMENTE. RECURSO NÃO PROVIDO.
+1. As matérias referentes aos arts. 85, § 8º, do CPC de 2015 e 884 do CC não foram objeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmula n. 282/STF).
+2. Ressalto que o STJ não reconhece o prequestionamento pela simples interposição de embargos de declaração. Persistindo a omissão, é necessária a interposição de recurso especial por afronta ao art. 1.022 do CPC de 2015 (antigo art. 535 do Código de Processo Civil de 1973), sob pena de perseverar o óbice da ausência de prequestionamento.
+3. Agravo interno não provido. (AgInt no AREsp n. 1.917.707/PR, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 14/3/2022, DJe de 18/3/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. PREQUESTIONAMENTO FICTO PREVISTO NO ART. 1.025 DO CPC/2015. REEXAME DO CONJUNTO FÁTICO- PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+2. O STJ não reconhece o prequestionamento pela simples interposição de embargos de declaração (Súmula n. 211). Persistindo a omissão, é necessária a interposição de recurso especial por afronta ao art. 1.022 do CPC de 2015 (antigo art. 535 do Código de Processo Civil de 1973), sob pena de perseverar a ausência de prequestionamento.
+3. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+4. No caso concreto, o Tribunal de origem concluiu que a empresa demandada deu causa ao dano moral, cabendo-lhe pagar a correspondente verba compensatória. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+5. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.984.895/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 3/10/2022, DJe de 5/10/2022.)
+Em face do exposto, nego provimento ao agravo.
+Intimem-s e.
