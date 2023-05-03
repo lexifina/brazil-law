@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado:
+CIVIL, PROCESSO CIVIL E CONSUMIDOR. EMBARGOS À EXECUÇÃO. VÍCIOS NA PLANILHA. INOCORRENTE. PRELIMINAR REJEITADA. NEGÓCIOS BANCÁRIOS. FINANCIAMENTO DE VEÍCULO. CAPITALIZAÇÃO DE JUROS. POSSIBILIDADE. JUROS REMUNERATÓRIOS. ABUSIVIDADE NÃO CONSTATADA. COMISSÃO DE PERMANÊNCIA. NÃO INCIDÊNCIA. TARIFA DE CADASTRO. LEGALIDADE. SEGURO PRESTAMISTA. VENDA CASADA. NÃO CONFIGURADA. TARIFA DE REGISTRO DE CONTRATO. ILEGALIDADE. REPETIÇÃO DE INDÉBITO. SIMPLES. COMPENSAÇÃO. POSSIBILIDADE. VENCIMENTO ANTECIPADO. PRESTAÇÕES VINCENDAS. EXCLUSÃO JUROS.
+Argumenta a parte recorrente que são devidos os encargos pactuados na cédula de crédito garantida por alienação fiduciária, também em relação às prestações vincendas.
+Com razão a recorrente, pois o acórdão estadual foi exarado em desconformidade com o entendimento do STJ sobre o tema, como se depreende, entre muitos, dos seguintes precedentes:
+AGRAVO INTERNO. RECURSO ESPECIAL. CONTRATO BANCÁRIO. ALIENAÇÃO FIDUCIÁRIA. AÇÃO DE BUSCA E APREENSÃO. VENDA DO VEÍCULO. DESCONTO DE ENCARGOS CONTRATUAIS PROPORCIONAL. NÃO CABIMENTO. DECISÃO AGRAVADA MANTIDA.
+1. O Tribunal de origem, analisando os elementos fático-probatórios dos autos, consignou que, ao contrário do que alega o recorrente, não se trata de liquidação antecipada de débito, mas sim, de vencimento antecipado da dívida em virtude de inadimplemento. Para se entender no sentido que pretende o recorrente, de que houve a liquidação antecipada e não o vencimento antecipado da dívida, como afirmou o Tribunal de origem, seria necessário o reexame das circunstâncias fático-probatórias dos autos e a análise de cláusulas contratuais, o que se revela defeso em sede de recurso especial ante o óbice da Súmula 7/STJ.
+2. O posicionamento da Corte estadual deu-se em consonância com o desta Corte, no sentido de que nos contratos firmados na vigência da Lei n. 10.931/2004 a integralidade da dívida, na ação de busca e apreensão, deve ser entendida como sendo as parcelas vencidas, vincendas e encargos. Precedentes.
+2. Agravo interno não provido.
+(AgInt no REsp n. 1.707.292/PR, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 25/9/2018, DJe de 28/9/2018.)
+Em face do exposto, dou provimento ao recurso especial, para tornar sem efeito a exclusão dos juros sobre as parcelas vincendas, procedida no acórdão recorrido.
+Intimem-se.
