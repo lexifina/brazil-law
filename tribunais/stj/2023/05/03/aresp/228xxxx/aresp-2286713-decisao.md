@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo interposto por EMBRACON ADMINISTRADORA DE CONSÓRCIO LTDA. contra decisão que negou seguimento a recurso especial manejado em face de acórdão assim ementado (e-STJ, fl. 409):
+AGRAVO INTERNO - DECISÃO MONOCRÁTICA - APELAÇÃO CÍVEL -INTERPOSIÇÃO ANTES DO JULGAMENTO DOS EMBARGOS DE DECLARAÇÃO ACOLHIDOS COM MODIFICAÇÃO SUBSTANCIAL DA SENTENÇA - RATIFICAÇÃO - NECESSIDADE - PRECEDENTES.
+- A existência de aclaratórios não acarreta a intempestividade por interposição prematura do apelo, mas desde que não haja qualquer integração ao que restou anteriormente decidido. Do contrário, não sendo ratificado, é considerado intempestivo por interposição prematura, uma vez que a prestação jurisdicional em sede de primeira instancia ainda não havia se concretizado de forma a justificar a interposição de recurso de apelação, já que a sentença ainda não havia se aperfeiçoado.
+- Recurso não provido. Decisão mantida
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a recorrente aponta, a par de dissídio jurisprudencial, a violação do art. 1.024, § 4º, do Código de Processo Civil/2015, sustentando que o acolhimento dos embargos de declaração, na primeira instância, não acarretou alteração da sentença, uma vez que apenas foi sanada obscuridade relativa ao termo inicial da correção monetária, não sendo necessária a reiteração do recurso de apelação.
+Contrarrazões apresentadas.
+O recurso especial não foi admitido em virtude do óbice da Súmula 83 do STJ.
+Neste agravo, a agravante impugna o referido fundamento.
+Assim delimitada a controvérsia e ultrapassado o limite do conhecimento e provimento do presente agravo, passo ao julgamento do recurso especial.
+Nos termos da Súmula 579 desta Corte, não é necessário ratificar o recurso especial interposto na pendência do julgamento dos embargos de declaração, quando inalterado o resultado anterior.
+No mesmo sentido, a jurisprudência do STJ está consolidada no sentido de que somente é necessária a ratificação do recurso interposto na pendência de embargos declaratórios apenas quando houver alteração na conclusão do julgamento anterior. Confiram-se:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO. QUALIFICAÇÃO DO TÍTULO QUE EMBASA A PRETENSÃO EXECUTIVA. IRRESIGNAÇÃO SUBMETIDA AO NCPC. DEFICIÊNCIA FORMAL NA PETIÇÃO DE APELAÇÃO QUE NÃO COMPROMETE O CONHECIMENTO DO PROCESSO. INSTRUMENTALIDADE DAS FORMAS. FUNDAMENTO NÃO ATACADO. SÚMULA Nº 283 DO STF. RATIFICAÇÃO DA APELAÇÃO APÓS ACOLHIMENTO DOS EMBARGOS OPOSTOS CONTRA A SENTENÇA. DESNECESSIDADE. AUSÊNCIA DE MODIFICAÇÃO DOS FUNDAMENTOS DA DECISÃO. AJUSTE NO CRITÉRIO DE FIXAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. TEMA QUE NEM SEQUER ERA TRATADO NO APELO. PRECEDENTES. DISCUSSÃO QUANTO A EXISTÊNCIA DE TÍTULO EXECUTIVO. SÚMULAS N.os 5 E 7 DO STJ. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO. AGRAVO INTERNO NÃO PROVIDO.
+1. As disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016.
+2. De acordo com o acórdão estadual, o recurso de apelação deveria ser conhecido, apesar de suas razões não terem qualificado as partes do processo, tendo em vista o princípio da instrumentalidade das formas. Referido fundamento não foi devidamente impugnado nas razões do recurso especial, o que atrai a incidência da Súmula nº 283 do STF.
+3. De acordo com a Súmula nº 579 do STJ, não é necessário ratificar o recurso especial interposto na pendência do julgamento dos embargos de declaração, quando inalterado o resultado anterior.
+4. O acolhimento de embargos de declaração para correção de erro material não configura modificação de julgamento para efeito de exigibilidade da ratificação do recurso em hipóteses como a dos autos. Precedentes.
+5. O Tribunal fluminense concluiu, com base na prova dos autos, que a execução estava fundada em uma cédula de crédito provida de todos os atributos necessários à execução. Impossível, assim, sustentar que ela estava lastreada em um contrato de abertura de crédito, sem esbarrar nas Súmulas n.os 5 e 7 do STJ.
+6. Agravo interno não provido.
+(AgInt no REsp n. 1.840.865/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 16/8/2021, DJe de 19/8/2021.)
+201401751381 DIREITO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APELAÇÃO. INTERPOSIÇÃO ANTERIOR A EMBARGOS DE DECLARAÇÃO SEM EFEITO MODIFICATIVO. ACOLHIMENTO RELATIVO APENAS À CORREÇÃO MONETÁRIA. RATIFICAÇÃO. DESNECESSIDADE. PRECEDENTES. DECISÃO MANTIDA.
+1. "A única interpretação cabível para o enunciado da Súmula 418 do STJ é aquela que prevê o ônus da ratificação do recurso interposto na pendência de embargos declaratórios apenas quando houver alteração na conclusão do julgamento anterior" (REsp 1129215/DF, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe 3/11/2015).
+2. Caso em que a conclusão da sentença foi mantida no julgamento dos embargos de declaração - no qual se dispôs apenas acerca da incidência de correção monetária sobre o valor da condenação -, sendo desnecessário aditamento do recurso.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 548.873/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 19/11/2018, DJe de 22/11/2018.)
+No caso dos autos, a recorrente interpôs recurso de apelação, antes do julgamento dos embargos de declaração opostos na primeira instância, pleiteando (i) o afastamento da sua condenação em virtude de previsão contratual; (ii) a possibilidade de cobrança da taxa de não procurados; (iii) dedução da taxa de administração de 16%; (iv) dedução do fundo de reserva; (v) a incidência da correção monetária de acordo com a variação do bem contratado; e (vi) o redimensionamento dos honorários sucumbenciais (fls. 313/331)
+Por sua vez, o acolhimento dos embargos de declaração pelo Juiz de origem apenas sanou a obscuridade relativa ao termo inicial da correção monetária, in verbis:
+Passo a análise dos pontos levantados nos presentes embargos.
+Em relação ao termo inicial da correção monetária, o mesmo, de fato, restou obscuro.
+A correção monetária tem a função de preservar o poder de compra da moeda, desde a data em que deveria ter sido efetivamente paga.
+Sendo assim, com o não pagamento, bem como a retenção do valor da taxa de administração se deu em decorrência da inércia da embargada, visto que a embargante já havia mandando os documentos necessários ao pagamento, a correção deve se dar desde 03/12/2018.
+Concernente aos juros, entendo que não há nenhuma omissão, obscuridade ou contradição, sendo que é possível observar que a embargante pretende alterar o termo inicial e não esclarecer, devendo interpor recurso próprio para tal.
+No mais, nenhum outro argumento fático ou jurídico merece maiores deliberações.
+Assim, conheço dos embargos, pois tempestivos, e acolho-os parcialmente para determinar que a correção monetária incida sobre a data em que deveria ter sido realizado o pagamento do valor a autora, visto que o mesmo somente ficou retido por culpa da requerida  ..  (fl. 353)
+Como se vê, o acolhimento dos embargos de declaração não alterou a conclusão do julgamento anterior, motivo pelo qual não era necessária a ratificação do recurso de apelação anteriormente interposto, sendo devido o seu regular julgamento pelo Tribunal de origem.
+Em face do exposto, conheço do agravo e dou provimento ao recurso especial, determinando o retorno dos autos para julgamento do recurso de apelação como entender de direito.
+Intimem-se.
