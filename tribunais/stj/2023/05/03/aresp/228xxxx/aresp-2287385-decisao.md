@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+APELAÇÃO CÍVEL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. NOTAS PROMISSÓRIAS. SENTENÇA QUE JULGOU EXTINTO OFEITO SEM RESOLUÇÃO DE MÉRITO CONSIDERANDO A INEXIGIBILIDADE DO TÍTULO EXECUTIVO. APELO DA EXEQUENTE. ALEGAÇÃO DE ILEGALIDADE DE PRESUNÇÃO DA INEXIGIBILIDADE DO TÍTULO. PRETENSÃO D DILAÇÃO PROBATÓRIA. ENTENDIMENTO DE QUESTÃO COMPLEXA. POR SE TRATAR DE QUESTÃO COMPLEXA. NÃO VERIFICAÇÃO. JUÍZO QUE RECONHECEU A INEXIGIBILIDADE DO TÍTULO APÓS A COMPROVAÇÃO CONCRETA DE QUE AS EMPRESAS - ENDOSSANTE E ENDOSSATÁRIA - PERTENCEM AO MESMO GRUPO ECONÔMICO. CONSTATAÇÃO DE GRUPO EMPRESARIAL QUE AFASTA A BOA-FÉ DA ENDOSSATÁRIA. NULIDADE DO NEGÓCIO JURÍDICO RECONHECIDA. MATÉRIA DE ORDEM PÚBLICA. INEXIGIBILIDADE DO TÍTULO EXECUTIVO. SENTENÇA MANTIDA. HONORÁRIOS RECURSAIS FIXADOS. RECURSO DE APELAÇÃO CÍVEL CONHECIDO E NÃO PROVIDO.
+Alegou-se, no especial, violação dos artigos 485, § 3º, 917, I, 505 e 507 do Código de Processo Civil e 49-A e 50 do Código Civil, sob o argumento de que teria havido conhecimento de questões de ofício sobre as quais cabia à parte a alegação e que não estariam presentes os requisitos para o reconhecimento de grupo econômico.
+Assim delimitada a controvérsia, passo a decidir.
+Colhe-se dos autos que a recorrente executa, com base em notas promissórias, o agravado.
+A recorrente recebeu os títulos em execução por endosso de outra sociedade que, como concluíram as instâncias ordinárias, faz parte de um só grupo econômico com a agravante.
+Acontece que o negócio que deu causa à emissão das referidas notas promissórias foi declarado nulo e, entendendo as instâncias ordinárias que a exequente endossatária não era terceira de boa-fé, porque, como dito, pertencente ao mesmo grupo econômico, declararam inexigíveis os títulos em questão.
+Nenhum dos dispositivos legais, todavia, foi examinado pelo acórdão local, sobre o qual sequer foram opostos embargos de declaração.
+De todo impertinentes, não fosse isso, os artigos 49-A e 50 do Código Civil, que versam sobre matéria diversa da formação de grupo econômico.
+O reconhecimento, a par de tudo isso, de formação de grupo econômico apto a retirar a boa-fé da exequente endossatária é questão imune ao crivo do recurso especial, haja vista que o entendimento foi alcançado com base nos elementos informativos do processo.
+Inequívoca, pois, a incidência dos verbetes n. 282, 284 e 356 da Súmula do Supremo Tribunal Federal e 7 do Superior Tribunal de Justiça.
+Em face do exposto, nego provimento ao recurso. Nos termos do artigo 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
