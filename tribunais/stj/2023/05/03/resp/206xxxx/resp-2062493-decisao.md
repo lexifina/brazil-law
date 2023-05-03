@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão do TJSP assim ementado (e-STJ fl. 520):
+PLANO DE SAÚDE - Pretensão do beneficiário à cobertura de tratamento multidisciplinar: Terapia Ocupacional com Integração Sensorial, Fonoaudiologia, Psicologia e Psicoterapia Comportamental, todas pelo Método ABA - Aplicação do Código de Defesa do Consumidor - Lei dos Planos de Saúde 9.656/98 - Obrigação de fornecimento - Impossibilidade de limitação da quantidade de sessões - Resoluções RN 469/2021 e RN 465/2021 da ANS preveem a cobertura para fonoaudiólogo, físioterapeuta, psicólogo c/ou terapeuta ocupacional, sem limitação de sessões - Necessidade da realização de exame "Exome Sequencing" (sequenciamento exômico) - Enfermidade prevista contratualmente - Exclusão que contraria a função social do contrato retirando do paciente a possibilidade do tratamento necessitado - Inteligência da Súmula 102 do TJSP- Negativa abusiva. Plano de saúde - Dano moral caracterizado - Indenização reduzida para RS 5.000,00 (cinco mil reais), consoante as condições econômicas e sociais das partes, a intensidade do dano, bem como em observância aos princípios da razoabilidade e proporcionalidade - Sentença parcialmente reformada - Recurso parcialmente provido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 548/550).
+Nas razões do especial (e-STJ fls. 552/574), fundamentado no art. 105, III, "a" e "c", da CF/1988, a parte recorrente indica preliminarmente cerceamento de defesa, por falta da prova técnica.
+Aponta dissídio jurisprudencial e violação das Resoluções n. 428 e 465 da ANS, afirmando ser legítima a limitação da cobertura de procedimento terapêutico para Transtorno do Espectro Autista não previsto no rol de procedimentos e eventos elaborado pela Agência Nacional de Saúde Suplementar - ANS, que teria natureza taxativa.
+Acrescenta que não teria praticado ato ilícito para indenizar moralmente a contraparte.
+Foram ofertadas contrarrazões, requerendo o arbitramento de honorários recursais (e-STJ fls. 579/610).
+Decisão pela admissibilidade do recurso às fls. 618/619 (e-STJ).
+É o relatório.
+Decido.
+Inviável a análise de ofensa a atos normativos da ANS em sede de recurso especial, pois "o recurso especial destina-se à análise de contrariedade, negativa de vigência ou violação a tratado ou lei federal" (REsp n. 1.191.462/ES, Relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 5/8/2010, DJe 14/9/2010).
+Ademais, "não se mostra possível o conhecimento da insurgência fundada em ofensa a resoluções, portarias, circulares, súmulas, regimento interno, regulamentos etc., porquanto tais normas não se enquadram no conceito de lei federal, previsto no art. 105, III, alínea a, da Constituição Federal" (AgInt no AREsp n. 1.220.015/RS, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 24/4/2018, DJe 3/5/2018).
+A parte deixou de indicar os dispositivos legais supostamente ofendidos, ou que tiveram sua aplicação negada sobre as teses (i) de cerceamento de defesa, (ii) de taxatividade do rol da ANS e (iii) sobre o pedido de exclusão dos danos morais.
+Ausente tal requisito, a fundamentação recursal mostra-se deficiente e torna inviável o conhecimento do recurso, ante o óbice da Súmula n. 284/STF, aplicada por analogia.
+Nesse contexto: AgRg no AREsp n. 410.404/RS, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 6/12/2016, DJe 14/12/2016, e AgRg no AREsp n. 816.653/PR, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 17/3/2016, DJe 4/4/2016.
+De acordo com a jurisprudência desta Corte, "é abusiva a negativa de cobertura de tratamento do Transtorno do Espectro Autista (TEA) pelo método escolhido pelo equipe de profissionais da saúde assistente com a família do paciente como mais adequado ao caso concreto" (AgInt no REsp n. 2.032.087/SP, relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 12/12/2022, DJe de 14/12/2022).
+Do mesmo modo:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CARACTERIZAÇÃO. JULGAMENTO ANTECIPADO DA LIDE. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. PRINCÍPIO DA PERSUASÃO RACIONAL DO JUIZ. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. AUTISMO INFANTIL. TRATAMENTO MÉDICO. NÚMERO DE SESSÕES. LIMITAÇÃO CONTRATUAL. ABUSIVIDADE. ANS. ROL TAXATIVO. MITIGAÇÃO. POSSIBILIDADE.
+(..)
+6. É obrigatória a cobertura, pela operadora de plano de saúde, de qualquer método ou técnica indicada pelo profissional de saúde responsável para o tratamento de Transtornos Globais do Desenvolvimento, entre os quais o Transtorno do Espectro Autista, Síndrome de Asperger e a Síndrome de Rett.
+7. A Autarquia Reguladora aprovou o fim do limite de consultas e sessões com psicólogos, fonoaudiólogos, terapeutas ocupacionais e fisioterapeutas, além de ter revogado as Diretrizes de Utilização (DU) para tais tratamentos (RN-ANS nº 541/2022).
+8. Agravo interno não provido.
+(AgInt no REsp n. 1.987.794/SC, relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 28/11/2022, DJe de 9/12/2022.)
+PROCESSUAL CIVIL. CONTRATOS. AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. ROL DA ANS. TAXATIVIDADE. FLEXIBILIZAÇÃO. POSSIBILIDADE. DECISÃO DE ACORDO COM A JURISPRUDÊNCIA DO STJ. AUTISMO. TRATAMENTO MULTIDISCIPLINAR. NEGATIVA DE COBERTURA. ILEGALIDADE. INEXISTÊNCIA DE OMISSÃO NO ACÓRDÃO RECORRIDO. DECISÃO MANTIDA.
+(..)
+6. O entendimento do Tribunal de origem, ao determinar a cobertura, pelo plano de saúde, de tratamento multidisciplinar para autismo sem limitação de sessões, concorda com a recente jurisprudência do STJ.
+7. Por outro lado, o recurso especial, ao propor que o rol da ANS tem natureza taxativa, sem nenhuma flexibilização, e suscitar que as sessões de terapia para tratamento de autismo estariam fora do mencionado rol, diverge do atual entendimento da Segunda Seção desta Corte Superior.
+8. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.938.222/DF, de minha relatoria, QUARTA TURMA, julgado em 12/12/2022, DJe de 15/12/2022.)
+O Tribunal de origem determinou o custeio, pelo plano de saúde, do tratamento para o Transtorno do Espectro Autista, conforme a prescrição médica, o que não destoa do entendimento desta Corte Superior (e-STJ fls. 522/525).
+Estando o acórdão impugnado conforme a jurisprudência assente neste Tribunal Superior, incide a Súmula n. 83/STJ, que se aplica tanto aos recursos interpostos com base na alínea "c" quanto àqueles fundamentados pela alínea "a" do permissivo constitucional.
+O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige, além da indicação do dispositivo legal objeto de interpretação divergente, a demonstração do dissídio, mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e a realização do cotejo analítico entre elas, nos termos definidos pelos arts. 255, § 1º, do RISTJ e 1.029, § 1º, do CPC/2015, ônus dos quais a re corrente não se desincumbiu.
+Diante do exposto, NEGO PROVIMENTO ao recurso especial.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
