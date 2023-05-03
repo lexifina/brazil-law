@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros João Batista Moreira (Desembargador convocado do TRF1), Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. AUTORIA E MATERIALIDADE. FALTA DE PROVAS. ABSOLVIÇÃO. IMPOSSIBILIDADE. PLEITO QUE DEMANDA O REEXAME DO FÁTICO-PROBATÓRIO DELINEADO NOS AUTOS. INCIDÊNCIA DA SÚMULA 7 DO STJ MANTIDA.
+I - A eg. Corte de origem, amparada pelo acervo fático-probatório delineado nos autos, concluiu pela necessidade de condenação do recorrente pela prática do delito de tráfico de drogas.
+II - Na hipótese, entender de modo contrário ao estabelecido pelas instâncias ordinárias, como pretende a parte recorrente, demandaria, necessariamente, o revolvimento do acervo fático-probatório delineado nos autos, providência inviável nesta instância.
+Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por ANDERSON DE LIMA CORTELETTI contra a decisão de fls. 319-324, por meio da qual o agravo foi conhecido para não conhecer do recurso especial.
+Neste regimental (fls. 330-333), sustenta o agravante que "não se trata de tentativa de revolver prova, mas sim de impugnação a erro sobre critérios de valoração destas. Não há como negar que a tese ventilada pelo agravante exige que a prova produzida seja tangenciada, no entanto, tão somente aquela já registrada na sentença (absolutória) e no acórdão do Tribunal capixaba" (fl. 332).
+Requer, ao final, seja"dado provimento ao agravo regimental para reformar a decisão monocrática e, com isso, conhecer e prover o recurso especial" (fl. 332).
+O d. representante do Ministério Público Federal, em seu parecer, manifestou-se pelo desprovimento do agravo regimental (fls. 340-343).
+Por manter o decisum, trago o feito a julgamento do Colegiado.
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. AUTORIA E MATERIALIDADE. FALTA DE PROVAS. ABSOLVIÇÃO. IMPOSSIBILIDADE. PLEITO QUE DEMANDA O REEXAME DO FÁTICO-PROBATÓRIO DELINEADO NOS AUTOS. INCIDÊNCIA DA SÚMULA 7 DO STJ MANTIDA.
+I - A eg. Corte de origem, amparada pelo acervo fático-probatório delineado nos autos, concluiu pela necessidade de condenação do recorrente pela prática do delito de tráfico de drogas.
+II - Na hipótese, entender de modo contrário ao estabelecido pelas instâncias ordinárias, como pretende a parte recorrente, demandaria, necessariamente, o revolvimento do acervo fático-probatório delineado nos autos, providência inviável nesta instância.
+Agravo regimental desprovido.
+VOTO
+Em que pesem os argumentos do agravante, a decisão impugnada deve ser mantida.
+Como relatado, nas razões do recurso especial, a defesa pleiteou a absolvição.
+Nesta Corte Superior, o agravo foi conhecido para não conhecer do recurso especial, pela incidência da Súmula 7 do STJ.
+No caso, o agravante não aduz qualquer argumento apto a ensejar a alteração da decisão ora agravada, a qual deve ser mantida por seus próprios fundamentos.
+Conforme ressaltado no decisum monocrático reprochado, o Tribunal a quo, ao analisar os elementos de fato e de prova produzidos nos autos, sobre a quaestio, no punctum saliens, consignou, in verbis (fls. 259-266, sem grifos no original):
+"Em primeiro lugar, registra-se, quanto à materialidade, que, de todos os materiais apreendidos, somente foi detectada a presenç a de substância caracterizadora de entor pecente (relacionada na Lista Fl, da Podaria SVS/MS nº 344/98), no item "F" do Laudo de Exame Químico Definitivo (fls.133/134), qual seja, 10 (dez) pedras, de cor bege, envoltas individualmente por plástico, com massa total de 2 ,1 g (dois g ramas e um deci grama), consistentes em "crack".
+A partir disso, com relação à autoria, entendeu-se, na r. Sentença, que não havia provas suficientes para determinar se tais entorpecentes realmente pertenciam ao acusado, uma vez que este, em seu interrogatório, alegou serem de seu genitor (fl. 127).
+Com efeito, o acusado afirmou que, exceto justamente as pedras de crack, que pertenceriam a seu pai, os demais objetos apreendidos eram de sua piepriedade, sendo ele usuário de cocaína.
+Essa não foi, contudo, a versão trazida pelo próprio réu perante a autoridade policial no momento da lavratura do flagrante, quando, acompanhado de advogado, admitiu que todos os materiais apreendidos eram seus, alegando serem destinados exclusivamente a seu uso (fls. 13/13v.).
+Da mesma forma, a companheira do acusado confirmou, na esfera extrajudicial (fls. 11/11v.), também na presença de advogado, que todo o material encontrado na residência era de seu companheiro, não sabendo dizer se eram destinados ao uso ou à venda.
+O Policial Civil rabio Luiz Leite Hastenreiter, confirmando as declarações de fls. 09/10, relatou que foram cumprir mandado de busca e apreensão com alvo de encontrar drogas, tendo a investigação se iniciado por homicídio. Narrou que o acusado se encontrava na residência de dois pavimentos, onde foram encontrados os materiais.
+Relatou que, segundo a inteligência, o acusado "tinha função de embalar e guardar a droga, e ganhava uma porção para isso", bem como que "durante as diligências recebeu informações de outros policiais sobre as atitudes de Anderson".  No mesmo sentido, foram as declarações do Policial Civil André Cardoso da Silva, ouvido apenas na esfera investigativa (fls. 10/10v.).
+Neste ponto, é importante destacar que deve ser conferida credibilidade à palavra dos policiais, por tratar-se de agentes públicos e sem interesse direto na causa, principalmente quando são firmes e sem contradições porém desde que em harmonia com os elementos constantes dos autos, o que é justamente o presente caso (STJ, AgRg no HC 695.249/SP, QUINTA TURMA, julgado em 26/10/2021; TJES, Apelação Criminal, 038200014892, SEGUNDA CÂMARA CRIMINAL, julgado em 13/10/2021).
+Com efeito, no caso vertente, as declarações dos policiais são firmes e contundentes, e ainda se confirmam nos depoimentos extrajudiciais do próprio apelado e de sua companheira, de modo que a e negativa de propriedade oferecida em interrogatório resta isolada e contraditória, sendo incapaz de duzir dúvida razoável.
+Portanto, entendo inexistirem dúvidas de que o ora apelado era o responsável, não apenas pelos demais materiais apreendidos, mas também pelas 10 (dez) pedras de crack encontradas no interior de sua residência, onde morava com sua companheira e seus filhos.
+Assim, estabelecida a premissa de que o apelado era o proprietário da droga apreendida, resta apenas esclarecer se estas seriam destinadas ao tráfico ou para seu consumo pessoal a fim de subsumir corretamente a sua conduta ao tipo penal pertinente.
+ ..
+Ao examinar a hipótese em apreço, observo que a quantidade das substâncias apreendidas  10 (dez) pedras de crack, pesando 2,1 g (dois gramas e um decigrama)  realmente é de pequena monta, porém, as circunstâncias do fato, notadamente, a forma de acondicionamento (envoltas individualmente por plástico), e a presença de grande quantidade de outros materiais sabidamente utilizados na produção e na transformação de drogas (7,8 gramas de cafeína e lidocaína em pó; 139,7 gramas de ácido bórico; 112,8 gramas de clorfeniramina e paracetamol; 29 gramas de cafeína em cápsulas), desautorizam, inegavelmente, tratar o apelado como "mero usuário".
+Com efeito, por mais que o apelado tenha afirmado que usava tais materiais para "fazer render" as drogas para seu uso, o fato é que tais materiais são comumente utilizados por traficantes, e não por usuários, sendo certo que os policiais, desde o flagrante, informaram haver notícias de que o apelado era responsável por "virar" a droga para Jackson Ferreira de Oliveira, supostamente o chefe do tráfico no Bairro Alecrim, em Vila Velha, o que acabou se confirmando na apreensão.
+Dessa forma, diante desses elementos, entendo impossível tratar o apelado como "mero usuário"."
+Conforme consignado na decisão monocrática recorrida, como se vê dos excertos acima transcritos, o eg. Tribunal a quo, ao apreciar os elementos de prova constituídos nos autos, condenou o recorrente como incurso nas sanções do art. 33, caput, da Lei n. 11.343/2006, por entender que estão demonstrados, in casu, a autoria e a materialidade em relação ao referido delito.
+Ora, está assentado nesta Corte que as premissas fáticas firmadas nas instâncias ordinárias não podem ser modificadas no âmbito do apelo extremo, nos termos da Súmula n. 7/STJ, que dispõe, verbis: "a pretensão de simples reexame de prova não enseja recurso especial".
+Na hipótese, entender de modo diverso ao que estabelecido pelo Tribunal a quo, como pretende a Defesa da recorrente, demandaria, necessariamente, o revolvimento do material fático-probatório delineado nos autos, providência inviável na via eleita.
+Nesse sentido, e em reforço:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. ABSOLVIÇÃO. IMPOSSIBILIDADE. ESTABILIDADE E PERMANÊNCIA. REVOLVIMENTO DE FATOS E PROVAS. MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI DE DROGAS. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A jurisprudência desta Corte Superior firmou o entendimento de que, para a subsunção da conduta ao tipo previsto no art. 35 da Lei n. 11.343/2006, é necessária a demonstração concreta da estabilidade e da permanência da associação criminosa.
+2. Uma vez que as instâncias ordinárias - dentro do seu livre convencimento motivado - apontaram elementos concretos, constantes dos autos, que efetivamente evidenciam a estabilidade e a permanência exigidas para a configuração de crime autônomo, deve ser mantida inalterada a condenação dos réus em relação ao delito de associação para o narcotráfico. Para entender-se de forma diversa e afastar essa compreensão seria necessário o minucioso revolvimento do acervo fático-probatório amealhado aos autos, providência vedada em habeas corpus.
+3. Agravo regimental não provido" (AgRg no HC n. 776.100/SC, Sexta Turma, Rel. Min. Rogério Schietti Cruz, DJe de 30/03/2023, grifei).
+"PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. PLEITO DE ABSOLVIÇÃO OU DE DESCLASSIFICAÇÃO PARA O DELITO DE POSSE PARA USO PRÓPRIO. NECESSIDADE DE ANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO. INVIABILIDADE. SÚMULA 7/STJ. PRETENSÃO DE INCIDÊNCIA DA MINORANTE DO TRÁFICO PRIVILEGIADO. DEDICAÇÃO DO AGRAVANTE A ATIVIDADES CRIMINOSAS. VERIFICAÇÃO. IMPOSSIBILIDADE. NECESSIDADE DE ANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO. INVIABILIDADE. SÚMULA 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+III - Está assentado nesta Corte Superior que as premissas fáticas firmadas nas instâncias ordinárias não podem ser modificadas no âmbito do apelo extremo, nos termos da Súmula n. 7/STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Agravo regimental desprovido" (AgRg no AREsp n. 2.244.586/TO, Quinta Turma, de minha relatoria, DJe 28/03/2023, grifei).
+Assim, deve ser mantida a decisão agravada.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
