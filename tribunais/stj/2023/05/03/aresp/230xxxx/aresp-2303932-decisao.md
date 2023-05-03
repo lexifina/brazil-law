@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão publicada na vigência do CPC/2015, que inadmitiu o recurso especial em razão da falta de demonstração da alegada vulneração aos dispositivos arrolados, da incidência da Súmula n. 7 do STJ e de ausência de comprovação do dissídio jurisprudencial (e-STJ fls. 104/106).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 53):
+AGRAVO INTERNO. Julgamento prejudicado em razão da análise do mérito do agravo de instrumento.
+TUTELA DE URGÊNCIA. Revisão contratual. Decisão que suspendeu a exigibilidade do saldo devedor e vedou a inscrição dos nomes dos autores nos órgãos de proteção ao crédito. Liminar em desacordo com o pedido dos autores. Alegação de excessiva onerosidade no reajuste pelo IGP-DI do saldo devedor referente a imóvel adquirido com pagamento diferido em 204 parcelas. Inexistência de qualquer ilegalidade ou abusividade, em abstrato, na adoção do IGP-DI como fator de atualização do preço. Notório descolamento do IGP-DI em relação à inflação real do período e outros indexadores usualmente eleitos autoriza a concessão de tutela provisória para alterar o índice de reajuste. Adoção provisória do INPC, sem efeito liberatório, visando apenas obstara mora e permitir a manutenção do contrato. Recurso provido em parte.
+Nas razões do recurso especial (e-STJ fls. 77/88), fundamentado no art. 105, III, "a" e "c", da CF, a parte alega, além de dissídio jurisprudencial, violação dos arts. 141, 300, 492, do CPC/2015 e 421 do CC/2002.
+Afirma a agravante que (e-STJ fl. 81):
+(..) não estão presentes os pressupostos do art. 300 do Código de Processo Civil para a concessão da tutela pleiteada, nem mesmo para troca provisória do IGP-DI (índice de reajuste das parcelas do contrato firmado entre as partes) pelo INPC .
+Através de uma análise fundada em cognição sumária é possível verificar que o direito pleiteado pelos recorridos não é verossímil, não havendo nos autos elementos que demonstrem a alegada abusividade do índice de correção das parcelas, nem da taxa de juros contratada.
+Muito pelo contrário. As parcelas e taxas são de valores certos e os autores da ação, ora recorridos, sabiam de antemão o quanto iriam pagar por mês, tendo efetuado o pagamento de diversas prestações.
+A cláusula de reajuste das parcelas é perfeitamente clara e válida, não havendo qualquer ilegalidade ou abusividade.
+Assevera que houve julgamento extra petita, pois "a causa de pedir apresentada na exordial é a cumulação de juros de 1% ao mês com a atualização monetária pelo IGP-DI, o que, na visão dos recorridos, seria proibido, acarretando capitalização de juros" (fl. 85).
+Ao final, requer o provimento do recurso para "reformar o v. acórdão proferido pelo E. Tribunal de Justiça de São Paulo, mantendo-se o índice eleito contratualmente pelas partes para correção das parcelas" (e-STJ fl. 88).
+No agravo (e-STJ fls. 109/124), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada às fls. 128/136 (e-STJ).
+É o relatório.
+Decido.
+De início, quanto à alegação de julgamento extra petita, não houve pronunciamento do Tribunal a quo sobre essa questão, nem a Corte local foi instada a fazê-lo por via de embargos declaratórios, circunstância que impede o conhecimento da insurgência por falta de prequestionamento. Assim, devem ser aplicadas ao caso as Súmulas n. 282 e 356 do STF.
+Na verdade, a parte busca a reforma da decisão interlocutória que deferiu "em parte pedido de tutela provisória formulado na inicial da ação revisional de contrato c/c repetição de indébito que promovem os agravados GRACIA APARECIDA SOUZA E OUTRO em face de CENTRAL PARK EMPREENDIMENTOS IMOBILIÁRIOS LTDA, ora agravante" (e-STJ fl. 54) para determinar a suspensão da exigibilidade da dívida e a abstenção de atos de cobrança e da inclusão do nome da parte agravada dos órgãos de proteção ao crédito.
+No entanto, a jurisprudência do STJ não admite a interposição de recurso especial cujo objetivo seja discutir a correção das decisões das instâncias de origem que nega ou defere medida liminar ou antecipação de tutela, por não se tratar de decisão em única ou última instância. Incide, analogicamente, o enunciado da Súmula n. 735 do STF.
+Isso porque a alteração das conclusões adotadas pela Corte de origem, no sentido de asseverar se estão presentes os requisitos autorizadores da tutela de urgência, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme óbice previsto na Súmula n. 7/STJ.
+Ante o expo sto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
