@@ -1,0 +1,59 @@
+DECISÃO
+Cuida-se de recurso especial, interposto por GUARATINGUETÁ EMPREENDIMENTOS IMOBILIÁRIOS SPE 2 LTDA e outro, fundamentado na alínea "a", do permissivo constitucional, em desafio ao acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 494, e-STJ):
+Ação de rescisão de contrato particular de compromisso de venda e compra de unidade autônoma e outras avenças,cumulada com os pedidos de restituição de valores e de indenização extrapatrimonial. Desfazimento do instrumento em decorrência do inadimplemento contratual das apeladas Comissão de corretagem Descabimento da aplicação do prazo prescricional trienal na espécie Início do prazo após a resolução Precedente doSuperior Tribunal de Justiça Deferimento da devolução integral dos valores pagos pelo autor Subsistência de controvérsia emrelação ao quanto efetivamente foi liquidado Cabimento da apuração em liquidação de sentença Correção monetária Débito judicial Utilização do índice da Tabela Prática do Tribunal de Justiça do Estado de São Paulo Juros a partir dacitação diante do ilícito contratual. Danos morais Situação que ultrapassou o mero aborrecimento e descumprimento contratual Demora demasiada na conclusão das obras aliada à falta de estipulação de prazo certo para o cumprimento da obrigação, configurando prática abusivaReparação devida Arbitramento em quantia suficiente, proporcional e razoável à hipótese fática Sucumbência em desfavor das rés Recurso provido, em parte.
+Embargos de declaração rejeitados.
+Nas razões de recurso especial (fls. 515/525, e-STJ), os recorrentes apontam ofensa aos artigos 206, §3.º, IV do CC e , sustentando, em suma, que:
+a) está prescrita a pretensão de devolução dos valores pagos a título de corretagem;
+b) o mero inadimplemento contratual não enseja a condenação em danos morais.
+Sem contrarrazões.
+Decisão de admissibilidade às fls. 530/531, e-STJ.
+É o relatório.
+Decide-se .
+A pretensão não merece acolhimento.
+1. No tocante à ocorrência da prescrição nos débitos da taxa de corretagem, o Tribunal de Justiça assim se manifestou (e-STJ, fl. 495):
+Por primeiro, observa-se que foi reconhecido na sentença o fato de que o desfazimento do instrumento decorreu do inadimplemento contratual das apeladas, pág. 301, de forma que o prazo prescricional da pretensão da restituição dos valores pagos a título de comissão de corretagem tem início somente após a resolução, sendo inaplicável o prazo prescricional trienal:
+Esta Corte Superior se posicionou sobre a existência de distinção entre a pretensão restituitória abordada no Tema 938/STJ (fundada na abusividade de cláusula contratual) e a pretensão restituitória do caso dos autos (fundada na resolução do contrato).
+Quanto a demanda objetiva a restituição dos valores pagos a título de comissão de corretagem em que a causa de pedir é a rescisão do contrato por inadimplemento do vendedor, o prazo prescricional da pretensão de restituição de valores tem início após a resolução da avença, sendo inaplicável o prazo prescricional trienal.
+Por outro lado, o Tema 938, que fixa a "prescrição trienal sobre a pretensão de restituição dos valores pagos a título de comissão de corretagem ou de serviço de assistência técnico-imobiliária (SATI), ou atividade congênere (art. 206, § 3º, IV, CC)" aplica-se quando a pretensão de restituição se funda na abusividade da cláusula contratual, ou seja, quando se discute a validade da cobrança dos referidos encargos.
+Nesse sentido:
+RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVL. CPC/2015. PROMESSA DE COMPRA E VENDA. INCORPORAÇÃO IMOBILIÁRIA. ATRASO NA ENTREGA DO IMÓVEL. PRETENSÃO DE RESTITUIÇÃO DE PARCELAS PAGAS, COMISSÃO DE CORRETAGEM E SATI. PRESCRIÇÃO INOCORRÊNCIA. NECESSIDADE DE PRONUNCIAMENTO JUDICIAL SOBRE A RESOLUÇÃO JUDICIAL DO CONTRATO NO CASO. DISTINÇÃO COM A HIPÓTESE DE PRESCRIÇÃO TRIENAL DO TEMA 938/STJ. DANOS MATERIAIS. AUSÊNCIA INDICAÇÃO DA QUESTÃO FEDERAL. ÓBICE DA SÚMULA 284/STF.
+1. Controvérsia acerca da prescrição das pretensões restituitórias decorrentes da resolução de promessa de compra e venda por atraso na entrega do imóvel. 2. Nos termos da Súmula 543/STJ: "Na hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador - integralmente, em caso de culpa exclusiva do promitente vendedor/construtor, ou parcialmente, caso tenha sido o comprador quem deu causa ao desfazimento".
+3. Caso concreto em que a resolução foi pleiteada com base na culpa da incorporadora, sendo cabível, portanto, a restituição integral das parcelas pagas, nos termos da referida súmula.
+4. No julgamento do Tema 938/STJ, esta Corte Superior concluiu pela Incidência da "prescrição trienal sobre a pretensão de restituição dos valores pagos a título de comissão de corretagem ou de serviço de assistência técnicoimobiliária (SATI), ou atividade congênere (art. 206, § 3º, IV, CC)".
+5. Distinção entre a pretensão restituitória abordada no Tema 938/STJ (fundada na abusividade de cláusula contratual) e a pretensão restituitória do caso dos autos (fundada na resolução do contrato por inadimplemento da incorporadora). Doutrina sobre o tema da pretensão restituitória decorrente da resolução do contrato.
+6. Inaplicabilidade do Tema 938/STJ aos casos em que a pretensão de restituição da comissão de corretagem e da SATI tem por fundamento a resolução do contrato por culpa da incorporadora.
+7. RECURSO ESPECIAL DESPROVIDO, COM MAJORAÇÃO DE HONORÁRIOS. (REsp 1737992/RO, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 20/08/2019, DJe 23/08/2019)
+Portanto, no caso concreto, correto o entendimento da Corte estadual no sentido de considerar o início do prazo após a resolução contratual.
+2. Outrossim, na hipótese dos autos, o Tribunal de origem, com base nos elementos fático-probatórios acostados aos autos, asseverou que houve a demonstração da ocorrência de danos morais indenizáveis .
+Confira-se excertos do acórdão que julgou os embargos de declaração, mantendo os danos morais (fls. 497, e-STJ):
+Ainda, sendo incontroverso o fato de que o contrato foi celebrado aos 25.02.14 e que quando da apresentação da contestação, em outubro de2.020, as obras sequer haviam sido finalizadas, pág. 178, conclui-se pela ocorrência de danos morais, sobretudo porque a data de entrega das chaves foi prevista para 36 (trinta e seis) meses após o registro do contrato de financiamento firmado entre a vendedora e o agente financeiro, pág. 212, configurando prática abusiva, conforme reconhecido na sentença, pág. 301.
+De forma que a hipótese dos autos ultrapassou o mero aborrecimento e descumprimento contratual, sendo o prejuízo extrapatrimonial sofrido pelo lesado presumido e intuitivo pelas próprias circunstâncias fáticas do acontecimento historiado, derivado da demora demasiada na conclusão das obras, bem como da falta de estipulação de prazo certo para o cumprimento da obrigação, daí o cabimento do ressarcimento em importância equivalencial à gravidade da ofensa.
+Sendo assim, para acolhimento do apelo extremo, seria imprescindível derruir a afirmação contida no decisum atacado, no sentido da demonstração dos danos morais, o que, forçosamente, ensejaria em rediscussão de matéria fática, com o revolvimento das provas juntadas ao processo, incidindo, na espécie, o óbice da Súmula 7 deste Superior Tribunal de Justiça, sendo manifesto o descabimento do recurso especial.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA. INDENIZAÇÃO DE ALUGUERES DO IMÓVEL. CABIMENTO. PREJUÍZO PRESUMIDO. DANO MORAL. CABIMENTO. DIGNIDADE DO CONSUMIDOR ATINGIDA. MONTANTE. RAZOABILIDADE. RECURSO NÃO PROVIDO.
+1. O col. Tribunal de origem, com base no substrato probatório dos autos, afastou a excludentes de responsabilidade e concluiu pelo dever de indenização dos alugueres pelo tempo de atraso na entrega da obra.
+2. O acórdão recorrido decidiu em sintonia com a jurisprudência do STJ no sentido de que, havendo atraso na entrega das chaves do imóvel objeto de contrato de compra e venda, é devido o pagamento de lucros cessantes durante o período de mora do vendedor, sendo presumido o prejuízo do promitente-comprador. Precedentes.
+3 Analisando o acervo fático-probatório dos autos, o Tribunal a quo concluiu que o atraso na entrega da obra ultrapassou a esfera do mero dissabor diário, sendo atingida a dignidade do consumidor que ensejou a reparação a título de danos morais, no valor de dez mil reais. Esse montante atende aos princípios da proporcionalidade, da razoabilidade, bem como às peculiaridades do presente caso.
+4. Agravo interno a que se nega provimento. (AgInt no AREsp 1140098/BA, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 08/02/2018, DJe 16/02/2018)
+AGRAVO INTERNO EM EMBARGOS DECLARATÓRIOS EM AGRAVO EM RECURSO ESPECIAL. OBRIGAÇÃO DE FAZER. IMÓVEL. ATRASO NA ENTREGA. INDENIZAÇÃO. DANO MORAL E MATERIAL. AFASTAMENTO NA ORIGEM. DILAÇÃO DO PRAZO PERMITIDA. CLÁUSULA CONTRATUAL. REVISÃO. IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ. NÃO PROVIMENTO DO RECURSO.
+1.Inviável a análise do recurso quando dependente de reexame de matéria fática da lide, inclusive o contrato celebrado entre as partes (Súmulas n. 5 e 7 do STJ).
+2. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 626.895/RJ, Rel. Ministra MARIA ISABEL GALLOTTI,
+QUARTA TURMA, julgado em 15/12/2016, DJe 02/02/2017)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA DE BEM IMÓVEL. ATRASO NA ENTREGA DO IMÓVEL AOS PROMITENTES COMPRADORES. ART. 535, II, DO CPC. INEXISTÊNCIA DE OMISSÕES. INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. REVISÃO DO QUANTUM INDENIZATÓRIO. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela alegada violação art. 535, I e II, do CPC/73 (correspondente ao art. 1.022, I e II, do Novo CPC). Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da recorrente.
+O acolhimento da pretensão recursal, a fim de afastar as conclusões do aresto estadual no tocante aos danos morais sofridos pela parte agravada, demandaria reexame de todo âmbito da relação contratual estabelecida e incontornável incursão no conjunto fático-probatório dos autos, o que esbarra nas Súmula n. 7 do STJ.
+2. A revisão da indenização por dano moral apenas é possível quando o quantum arbitrado nas instâncias originárias se revelar irrisório ou exorbitante. Não estando configurada uma dessas hipóteses, não cabe examinar a justiça do valor fixado na indenização, uma vez que tal análise demanda incursão à seara fático-probatória dos autos, atraindo a incidência da Súmula 7/STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp 976.888/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA
+TURMA, julgado em 01/12/2016, DJe 09/12/2016)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. ATRASO NA ENTREGA DE IMÓVEL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem
+incursão no contexto fático-probatório dos autos, a teor do que dispõe a
+Súmula n. 7/STJ.
+ ..
+(AgRg no AREsp 746.188/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 10/03/2016, DJe 15/03/2016)
+3. Do exposto, com base no art. 932 do NCPC e na Súmula 568/STJ, nega-se provimento ao recurso especial.
+Por conseguinte, nos termos do art. 85, § 11, do CPC, majora-se os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem.
+Publique-se.
+Intimem-se.
