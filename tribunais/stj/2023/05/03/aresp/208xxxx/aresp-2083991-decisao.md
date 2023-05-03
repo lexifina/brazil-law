@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por RAFAEL OLIVA PEREIRA contra decisão do Tribunal de Justiça do Estado de São Paulo que negou seguimento a recurso especial fundamentado no art. 105, inciso III, alíneas a e c , da Constituição Federal, manifestado contra acórdão proferido no agravo de execução penal n. 0001248-88.2021.8.26.0026.
+De acordo com o contido nos autos, contra a decisão que reconheceu a prática de falta grave e determinou a perda de 1/6 (um sexto) dos dias remidos e a interrupção do lapso para a progressão de regime, a Defesa interpôs agravo em execução penal, a que a Corte de justiça de origem considerou prejudicado (fls. 454-458).
+Os embargos de declaração defensivos foram rejeitados (fls. 486-492).
+Nas razões do apelo nobre, a Defesa alega, em suma, não ser a prática de falta grave razão idônea para interromper o lapso para a progressão (fls. 470-480).
+A Corte de origem inadmitiu o recurso especial (fls. 517-519).
+Foi interposto agravo (fls. 522-528).
+O Ministério Público Federal opinou pelo não conhecimento do agravo (fls. 548-556).
+É o relatório.
+Decido.
+A Corte de origem deixou de admitir o apelo nobre em razão a) de o acórdão recorrido está em conformidade com o que foi assentado por ocasião do julgamento do recurso repetitivo n. 1364192/RS (tema n. 709) (fl. 517); b) pela ausência de citação do repositório oficial, autorizado ou credenciado em que foram publicados os acórdãos paradigmas, pela falta de cotejo analítico e por terem sido citados como paradigmas julgados em habeas corpus, mandado de segurança, recurso ordinário em habeas corpus, recurso ordinário em mandado de segurança ou em conflito de competência; e c) pelo óbice da Súmula n. 7/STJ.
+Ocorre que, " p ara impugnar decisão que obsta trânsito a recurso excepcional e que contenha simultaneamente fundamento relacionado à sistemática dos recursos repetitivos ou da repercussão geral (art. 1.030, I, do CPC) e fundamento relacionado à análise dos pressupostos de admissibilidade recursais (art. 1.030, V, do CPC), a parte sucumbente deve interpor, simultaneamente, agravo interno (art. 1.021 do CPC) caso queira impugnar a parte relativa aos recursos repetitivos ou repercussão geral e agravo em recurso especial/extraordinário (art. 1.042 do CPC) caso queira impugnar a parte relativa aos fundamentos de inadmissão por ausência dos pressupostos recursais" (AgInt no AREsp 1693813/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 26/10/2020, DJe 12/11/2020).
+Ainda nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO INTERNO INTERPOSTO CONTRA DECISÃO DE INADMISSIBILIDADE DO TRIBUNAL DE ORIGEM. DOIS FUNDAMENTOS. MATÉRIA JULGADA SOB O RITO REPETITIVO E PRESSUPOSTOS DE ADMISSIBILIDADE. INTERPOSIÇÃO SIMULTÂNEA DO AGRAVO INTERNO E DO ARESP. INTEMPESTIVIDADE DO AGRAVO EM RECURSO ESPECIAL.
+1. Nos termos do Enunciado n. 77 da I Jornada de Direito Processual Civil do Conselho da Justiça Federal, "Para impugnar decisão que obsta trânsito a recurso exce pcional e que contenha simultaneamente fundamento relacionado à sistemática dos recursos repetitivos ou da repercussão geral (art. 1.030, I, do CPC) e fundamento relacionado à análise dos pressupostos de admissibilidade recursais (art. 1.030, V, do CPC), a parte sucumbente deve interpor, simultaneamente, agravo interno (art. 1.021 do CPC) caso queira impugnar a parte relativa aos recursos repetitivos ou repercussão geral e agravo em recurso especial/extraordinário (art. 1.042 do CPC) caso queira impugnar a parte relativa aos fundamentos de inadmissão por ausência dos pressupostos recursais"".
+ ..
+3. Agravo interno não provido." (AgInt no AREsp 1286011/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 08/10/2019, DJe 15/10/2019, grifei.)
+Além disso, o Agravante não impugnou, de forma concreta e específica, os óbices relativos a não comprovação do dissídio (fls. 518-519) e ao óbice da Súmula n. 7/STJ (fl. 519).
+Insuperável, desse modo, o óbice do Enunciado n. 182 da Súmula desta Corte Superior, que dispõe: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Nesse entendimento: "É ônus do agravante impugnar as causas específicas de inadmissão do recurso especial, sob pena de incidência da Súmula n. 182 do STJ" (AgRg no AREsp 743.772/ES, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 14/08/2018, DJe 22/08/2018).
+Ante o exposto, NÃO CONHEÇO do agravo.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. AUSÊNCIA DE INTERPOSIÇÃO DE AGRAVO INTERNO DA PARTE DA DECISÃO DE ORIGEM QUE APLICOU A SISTEMÁTICA DO RECURSO REPETITIVO. MINUTA DE AGRAVO QUE NÃO INFIRMA ESPECIFICAMENTE TODOS OS DEMAIS FUNDAMENTOS DECLINADOS PARA INADMITIR O APELO NOBRE. INCIDÊNCIA DA SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO NÃO CONHECIDO.
