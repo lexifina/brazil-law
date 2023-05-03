@@ -1,0 +1,64 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de TUBIAS HERMES MOURÃO apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ (Agravo em Execução n. 0003513-65.2022.8.06.0000).
+Consta dos autos que o Juízo de execuções indeferiu o pedido de retificação da data-base para efeitos de progressão de regime, mantendo como marco inicial a data da última prisão do sentenciando.
+Interposto agravo em execução na origem, o Tribunal a quo negou provimento ao recurso, em acórdão assim ementado (e-STJ fl. 11):
+AGRAVO EM EXECUÇÃO PENAL. PLEITO DE RETIFICAÇÃO DA DATA-BASE PARA PROGRESSÃO DE REGIME. ALEGAÇÃO DE QUE O STF DECIDIU QUE, NA HIPÓTESE DE CONDENAÇÃO ÚNICA, A DATA-BASE DEVE SER A DATA DA PRISÃO EM FLAGRANTE. NÃO ACOLHIMENTO. CASO EM TELA QUE SE DIFERENCIA DO RHC N. 142.463 DO STF. PRISÃO PREVENTIVA DO RECORRIDO INTERROMPIDA POR LIBERDADE PROVISÓRIA. DETRAÇÃO REALIZADA NOS MOLDES DO ART. 42 DO CP. CÁLCULO DE BENEFÍCIOS FUTUROS QUE DEVE SER CONTADO A PARTIR DA DATA DA ÚLTIMA PRISÃO (DEFINITIVA). PRECEDENTES.
+RECURSO CONHECIDO E NÃO PROVIDO.
+Daí o presente writ, no qual alega a defesa que "a prisão para início do cumprimento da pena não tem o condão de alterar a data-base, por ausência de previsão legal" (e-STJ fl. 4).
+Afirma que a orientação da Jurisprudência majoritária dos tribunais superiores é de que a data do fato criminoso deve ser reconhecida como marco inicial para a obtenção de direitos da execução penal.
+Requer, liminarmente e no mérito, a retificação da data-base, devendo constar a data da prisão em flagrante.
+Indeferida a liminar (e-STJ fls. 25/26), e prestadas as informações solicitadas (e-STJ fls. 30/32, 33/35 e 38/42); manifestou-se o Ministério Público Federal pelo não conhecimento do habeas corpus (e-STJ fls. 46/52).
+É o relatório.
+Decido.
+No caso, assim decidiu o Juízo de primeiro grau (e-STJ fls. 9/10):
+Vê-se, pois, que o período de cumprimento foi considerado e está regularmente cadastrado nos autos, não havendo qualquer consideração a ser feita nesse particular.
+Avançando, razão não assiste à defesa no tocante à alteração da data-base para o dia da prática do fato criminoso.
+Isso porque, como bem ponderado pelo Ministério Público, para fins de concessão dos benefícios da execução, há de ser considerada a data da última prisão, no caso de crimes cometidos antes do início da execução da pena, e, nos delitos cometidos no curso da execução, a data do cometimento da última infração disciplinar.
+Nesse sentido, inclusive, a jurisprudência do Superior Tribunal de Justiça, segundo a qual, em crimes cometidos antes do início do cumprimento da reprimenda, deve ser fixada a data da última prisão como marco interruptivo para a concessão de benefícios da execução.
+ ..
+Na hipótese vertente, tem-se que o crime foi cometido nos idos do ano de 2009, ao passo que a execução definitiva iniciou-se em 26/11/2019, data da última prisão.
+E, analisando os eventos do SEEU, constata-se que a data do início do cumprimento da execução definitiva está regularmente cadastrada, não havendo como retroceder a data-base para a dia da prática delitógena.
+Aliás, entendimento em sentido contrário ensejaria a consideração como período de pena cumprido lapso temporal em que o reeducando esteva em liberdade, o que, por certo, viola os fins da execução.
+De igual forma, no tocante à remição, razão também não assiste ao requerente, na medida em que somente foi juntado o atestado de matrícula, sem qualquer referência à carga horária cumprida e à comprovação da frequência.
+Registro que, relativamente à remição, uma vez comprovados os requisitos legais, nada obsta que o pedido seja novamente analisado pelo juízo.
+Portanto, INDEFIRO os pedidos veiculados nos eventos 129 e 133 dos autos da execução.
+Por sua vez, o Tribunal de origem consignou (e-STJ fls.13/18):
+O cerne da questão gira em torno do termo inicial para contagem do lapso necessário para progressão de regime do agravante, pretendendo o sentenciado que seja considerada a data do fato delituoso, no qual foi preso em flagrante, mais precisamente em 19/12/2009.
+Examinando atentamente os presentes fólios, verifico que não assiste razão ao agravante, pelos motivos adiante expostos.
+Verifica-se dos autos de origem que o fato delituoso pelo qual o recorrente foi condenado ocorreu em 19/12/2009, ocasião em que foi preso em flagrante. Em 02/02/2010, Tubias Hermes Mourão foi beneficiado com liberdade provisória.
+Com a prolatação da sentença, através da qual o recorrente restou condenado à pena de 9 (nove) anos e 4 (quatro) meses, foi expedido mandado de prisão, momento em que o sentenciado veio a ser preso preventivamente em 29/06/2018, tendo, posteriormente, obtido ordem em habeas corpus para fins de soltura, ocorrida em 20/10/2018.
+Após o trânsito em julgado da sentença penal condenatória, o recorrente foi preso definitivamente, mais precisamente em 26/11/2019.
+A propósito, tais marcos temporais constam de forma correta na aba "Eventos" do SEEU - proc nº 50000136-23.2019.9.27.2722. Destaca-se, ainda, que não houve unificação das penas, considerando que se trata de condenação única.
+Pois bem.
+Da cronologia dos atos acima detalhados, percebe-se que o recorrente ficou preso preventivamente pelo período de 1 (um) mês e 15 (quinze) dias e, posteriormente, pelo período de 3 (três) meses e 22 (vinte e dois) dias, antes da sua prisão definitiva, servindo tais períodos para fins de detração, conforme estabelece o art. 42 do Código Penal.
+E referidos lapsos temporais constam como "Pena Cumprida Até Dt Atual:" no relatório da situação processual executória, tendo, portanto, havido a detração do tempo da custódia cautelar.
+Nessa linha de raciocínio, constata-se ainda que o reeducando não permaneceu custodiado de forma ininterrupta, desde a sua prisão em flagrante. Na verdade, Tubias Hermes Mourão ficou em liberdade por mais de nove anos, não podendo este período ser computado como prisão efetivamente cumprida.
+Por conseguinte, após a realização da detração, é certo que restou o cumprimento da pena remanescente, que teve início justamente na data da última prisão do paciente, mais precisamente em 26/11/2019.
+Dito isto, e constatado que o agente não permaneceu segregado de forma ininterrupta desde a sua prisão em flagrante, o marco inicial para a concessão dos benefícios da execução deve se pautar pela data do efetivo recolhimento ao cárcere, ocorrido após a prolação da sentença.
+Por consequência, a data-base para a concessão de benefícios deve ser a da última prisão do condenado, qual seja: 26/11/2019, revelando-se acertada a decisão do juízo a quo, que bem assinalou que "entendimento em sentido contrário ensejaria a consideração como período de pena cumprido lapso temporal em que o reeducando esteva em liberdade, o que, por certo, viola os fins da execução.".
+Entender, neste caso concreto, que a data-base para progressão de regime seria a do fato criminoso/prisão em flagrante, mesmo após realizado o benefício da detração, repito, não só é errôneo, como também feriria a isonomia e os próprios princípios norteadores da execução penal. Eis o posicionamento do Superior Tribunal de Justiça sobre o tema:
+ ..
+Fácil perceber, portanto, que o presente caso concreto difere-se do RHC nº 142.463 do STF. No entendimento aplicado no referido precedente, a data da primeira prisão do sentenciado deve servir de marco para obtenção dos benefícios em execução penal quando há apenas uma condenação e o reeducando permaneça preso ininterruptamente. A propósito, transcrevo trecho da aludida decisão do Superior Tribunal Federal sobre o caso concreto posto à apreciação:
+ ..
+Repete-se: a alteração da data-base para a data do fato criminoso só seria possível se o sentenciado tivesse custodiado de forma ininterrupta desde sua prisão em flagrante, o que não é o caso dos autos.
+Portanto, não merece acolhimento o pleito de retificação do relatório de situação processual executória no que concerne à data-base para a concessão de novos benefícios, no âmbito do processo de execução penal.
+ISTO POSTO, atento a tudo mais que dos autos consta e, em consonância com o parecer do Ministério Público de segundo grau, CONHEÇO e DENEGO PROVIMENTO ao presente Agravo em Execução, devendo ser mantida em sua integralidade a decisão recorrida.
+Com efeito, o acórdão impugnado está em harmonia com a jurisprudência desta Corte, de acordo com a qual, seja no caso de unificação de penas, ou de crime único, deve ser considerada para obtenção de futuros benefícios carcerários a data da última prisão, sob pena de se proclamar como pena efetivamente cumprida o período em que ele permaneceu em liberdade. Confiram-se:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. MARCO INICIAL PARA A CONCESSÃO DE BENEFÍCIOS EXECUTÓRIOS. DATA DA PRISÃO EM FLAGRANTE. INVIABILIDADE. PRISÃO PROVISÓRIA. DATA DA ÚLTIMA PRISÃO. AGRAVO REGIMENTAL DESPROVIDO.
+1. No presente caso, não se trata de unificação de penas, mas de crime único em que o sentenciado foi preso em flagrante delito no dia 12/7/2014, mas foi solto em 9/1/2015, sendo preso novamente em 19/9/2015.
+2. Não é possível tomar como base a data da primeira prisão, já que o reeducando ficou solto por mais de 8 meses, devendo, nesse caso, ser considerada para obtenção de futuros benefícios carcerários, a data da última prisão, qual seja 19/09/2015, sob pena de se proclamar como pena efetivamente cumprida o período em ele permaneceu em liberdade. Por conseguinte, o dia da última prisão - e não da primeira -, deve, efetivamente, ser considerado como data-base para efeitos de concessão de benefícios relativos à execução penal.
+3. O acórdão impugnado está em consonância com a jurisprudência desta Corte ao estabelecer a data da última prisão como marco temporal para a obtenção de benefícios da execução. É que a Terceira Seção desta Corte, no julgamento do REsp n. 1.557.461/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, julgado em 22/02/2018, DJe 15/03/2018, alterou o anterior posicionamento jurisprudencial, passando a entender que a superveniência do trânsito em julgado da sentença condenatória não serve de novo parâmetro para fixação da data-base para concessão de benefícios à execução, não podendo, assim, ser desconsiderado o período de cumprimento de pena desde a última prisão ou desde a última infração disciplinar, seja por delito ocorrido antes do início da execução da pena, seja por crime praticado após e já apontado como falta grave.
+4. Agravo regimental não provido.
+(AgRg no REsp 1918296/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 20/4/2021, DJe 26/4/2021.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS ATACADOS. SÚM. N. 182/STJ. NÃO INCIDÊNCIA. INVASÃO DE MÉRITO. INOCORRÊNCIA. VIOLAÇÃO DO ART. 619 DO CPP QUE NÃO SE VERIFICA. MARCO INICIAL PARA A CONCESSÃO DE BENEFÍCIOS EXECUTÓRIOS. DATA DA PRISÃO EM FLAGRANTE. IMPOSSIBILIDADE. DATA DA ÚLTIMA PRISÃO. AGRAVO REGIMENTAL PROVIDO PARA, AFASTADA A INCIDÊNCIA DA SÚM. N. 182/STJ, CONHECER DO AGRAVO, NEGANDO, TODAVIA, PROVIMENTO AO RECURSO ESPECIAL.
+ ..
+5. No caso, não se trata de unificação de penas, mas de crime único em que o sentenciado ficou preso provisoriamente no período compreendido entre 23.04.2014 a 24.09.2014, sendo colocado em liberdade posteriormente por meio de alvará de soltura. Após, foi preso aos 13.06.2019, quando deu início ao cumprimento da reprimenda definitiva, no importe de 14 (quatorze) anos e 06 (seis) meses, por infringência ao artigo 121, § 2o, inciso II, do Código Penal.
+6. Não é possível tomar como base a data da primeira prisão, já que o reeducando ficou solto por 5 meses, devendo, nesse caso, ser considerada, para obtenção de futuros benefícios carcerários, a data da última prisão, qual seja 13/06/2019, sob pena de se considerar como pena efetivamente cumprida o período em ele permaneceu em liberdade.
+7. Agravo regimental provido para, afastada a incidência da Súm. n. 182/STJ, conhecer do agravo, negando, todavia, provimento ao recurso especial.
+(AgRg no AREs p 1810706/GO, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 25/5/2021, DJe 1º/6/2021.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. DATA-BASE. ÚLTIMA PRISÃO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Na hipótese dos autos, o apenado foi preso em flagrante no dia 2/12/2005, sendo concedida a liberdade provisória em 27/11/2008. Iniciado o cumprimento do decreto condenatório no dia 28/5/2020, a data da última prisão deve ser o lapso para a concessão de benefícios prisionais, sob pena de considerar pena cumprida o período em que ele esteve em liberdade. Precedente.
+2. Agravo regimental desprovido.
+(AgRg no HC n. 672.745/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 20/9/2021.)
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
