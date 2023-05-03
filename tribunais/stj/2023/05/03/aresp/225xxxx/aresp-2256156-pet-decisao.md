@@ -1,0 +1,5 @@
+DECISÃO
+Cuida-se de PET nr 202300132780 (e-STJ, fls. 883/884), nos autos de indenização por danos materiais e compensação por danos morais, com pedido de tutela de urgência, ajuizada por SÉRGIO MARQUES MADEIRA BARROS JÚNIOR, em desfavor de DIVEPEL  DISTRIBUIDORA DE VEÍCULOS PEIXOTO LTDA, P7 DISTRIBUIDORA DE VEÍCULOS E PEÇAS S/A, e VOLVO DO BRASIL VEÍCULOS LTDA, em que a ré, ora agravada, informa a pendência de julgamento, pelo Tribunal de origem, de embargos de declaração opostos à decisão que julgou a apelação.
+Da leitura dos autos, verifica-se que, de fato, às fls. 750/760, consta petição de embargos de declaração opostos pela peticionante, e que não foram apreciados pelo Tribunal de origem, o qual apenas decidiu acerca dos embargos de declaração opostos pela parte requerida.
+Assim, chamo o feito à ordem para tornar sem efeito a decisão de fls. 874/880, que julgou o agravo em recurso especial interposto por DIVEPEL - DISTRIBUIDORA DE VEÍCULOS PEIXOTO LTDA, determinando o retorno dos autos à origem para julgamento dos embargos de declaração de fls. 750/760, opostos por VOLVO DO BRASIL VEÍCULOS LTDA.
+Publique-se. Intimem-se.
