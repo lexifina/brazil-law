@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pela PLANTAR AGROPECUÁRIA e de agravo interno manejado pela FAZENDA NACIONAL contra decisão por mim proferida, constante de e-STJ fls. 972/977, em que dei provimento ao recurso especial da contribuinte para reconhecer o direito à exclusão dos benefícios de ICMS da base de cálculo do IRPJ e da CSLL.
+No recurso integrativo de e-STJ fls. 979/985, a contribuinte indica obscuridade e contradição no julgado embargado, ao argumento de que "a decisão embargada restou obscura e contraditória, pois, ao passo que dá provimento ao Recurso Especial para rechaçar o entendimento de que os incentivos fiscais de ICMS diversos do crédito presumido de ICMS (como a isenção, a redução de base de cálculo e as respectivas manutenções de créditos, entre outros) não podem ser excluídos do lucro tributável pelo IRPJ e pela CSLL, restabelece a sentença proferida em primeiro grau que determinou a exclusão do crédito presumido de ICMS e se omitiu quanto aos demais incentivos fiscais de ICMS(o que motivou a interposição de Recurso de Apelação pela ora Embargante quanto ao mérito)" (e-STJ fl. 982).
+Aponta, ainda, omissão no tocante ao exame da temática referente à compensação e à condenação da Fazenda Nacional à restituição das custas processuais.
+Já a Fazenda Nacional, em seu agravo interno de e-STJ fls. 993/1.004, defende, em resumo, que o entendimento firmado no julgamento do EREsp 1.517.492/PR, referente à exclusão dos créditos presumidos de ICMS da base de cálculo do IRPJ e da CSLL não pode ser generalizada de forma a abarcar todos os benefícios fiscais de ICMS, motivo por que deve ser reconhecida a incidência tributária sobre os valores correspondentes aos benefícios e incentivos em questão.
+Contraminuta apresentada às fls. 1.099/1.038.
+Passo a decidir.
+A Primeira Seção do STJ, ao apreciar os REsps 1.945.110/RS e 1.987.158/SC, submetidos à sistemática dos recursos repetitivos, decidiu a seguinte tese controvertida: "definir se é possível excluir os benefícios fiscais relacionados ao ICMS, - tais como redução de base de cálculo, redução de alíquota, isenção, imunidade, diferimento, entre outros -, da base de cálculo do IRPJ e da CSLL (extensão do entendimento no EREsp 1.517.492/PR que excluiu o crédito presumido de ICMS das bases de cálculo do IRPJ e da CSLL" (Tema 1.182).
+Nesse contexto, julgado o tema pela sistemática dos recursos repetitivos, esta Corte Superior orienta que os recursos que tratam da mesma controvérsia devem retornar ao Tribunal de origem para que este faça o juízo de conformação, nos termos do que dispõe o art. 34, XXIV, do RISTJ, o qual estabelece, in verbis:
+Art. 34. Compete ao Relator:
+XXIV - determinar a devolução ao Tribunal de origem dos recursos especiais fundados em controvérsia idêntica àquela já submetida ao rito de julgamento de casos repetitivos para adoção das medidas cabíveis.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado para esta Corte Superior, para que aqui possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Registre-se que essa medida busca evitar eventual ofensa ao princípio da unirrecorribilidade ou unicidade recursal.
+Ante o exposto:
+(i) RECONSIDERO a decisão de e-STJ fls. 972/977;
+(ii) DETERMINO a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que aplique as medidas cabíveis previstas no art. 1.040 do CPC/2015, conforme o caso;
+(iii) julgo prejudicados os embargos de declaração de PLANTAR AGROPECUÁRIA LTDA. de e-STJ fls. 979/985.
+Publique-se. Intimem-se.
