@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por LUCAS FERREIRA CAMARGO contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais no HC n. 1.0000.23.035340-1/000.
+Consta nos autos que o Recorrente foi preso em flagrante delito, em 08/10/2022, suspeito do crime de tentativa de homicídio qualificado, com posterior conversão em custódia preventiva. Segundo a exordial acusatória (fl. 20):
+"Consta do incluso inquérito policial que, no dia 08 de outubro de 2022, por volta das 19 horas, nas imediações da rua Violeta, bairro Jardim Yara, neste município e comarca, Renan de Oliveira, agindo com animus necandi, por motivo fútil e mediante recurso que dificultou a defesa da vítima, tentou matar Lucas Ferreira Camargo, somente não se consumando o delito por circunstâncias alheias à sua vontade.
+Consta ainda dos autos que, nas mesmas condições de tempo, local e modo de execução, Lucas Ferreira Camargo, também agindo com animus necandi, por motivo fútil e mediante recurso que dificultou a defesa da vítima, tentou matar Renan de Oliveira, somente não se consumando o delito por circunstâncias alheias à sua vontade.
+Consta por fim que, na data dos fatos, o denunciado Lucas Ferreira Camargo, sem a devida autorização e em desacordo com a determinação legal, portava e transportava, em seu automóvel: a) uma arma de fogo, marca Caramuru, número de série 7297, tipo revólver, capacidade 7, calibre 22 (uso permitido); b) dois cartuchos vazios, semi-carregados (munições) de arma de fogo modelo calibre 22, marca CBC."
+Inconformada com a custódia cautelar, a Defesa impetrou o writ originário, denegado nos termos da seguinte ementa (fl. 86):
+"HABEAS CORPUS - HOMICÍDIO - TENTATIVA - GRAVIDADE CONCRETA DO CRIME - PRISÃO PREVENTIVA - DECISÃO FUNDAMENTADA - PRESENTES OS REQUISITOS DOS ART. 312 E 313 DO CPP -INSUFICIÊNCIA DE OUTRAS MEDIDAS CAUTELARES NÃO PRISIONAIS -ART. 319, CPP -CONSTRANGIMENTO ILEGAL NÃO VERIFICADO - ORDEM DENEGADA.
+- Atendidos os requisitos dos arts. 311 e seguintes do CPP e, considerando que as medidas cautelares previstas no art. 319 do CPP não são mais adequadas e suficientes às peculiaridades do presente caso, mostra-se possível a segregação antecipada do paciente.
+- Vislumbra-se, no caso, a existência de elementos concretos que permitem concluir pela necessidade do decreto de prisão preventiva, fundamentada, sobretudo, na necessidade de se garantir a ordem pública, haja vista a periculosidade do agente, a gravidade concreta do crime, a existência de prova da materialidade e indícios suficientes de autoria.
+- De acordo com posicionamento firmado pelo STJ, "as condições subjetivas favoráveis do recorrente, tais como primariedade, bons antecedentes, residência fixa e trabalho lícito, por si sós, não obstam a segregação cautelar, quando presentes os requisitos legais para a decretação da prisão preventiva".
+- Ordem denegada."
+Nas razões do recurso, o Recorrente afirma que não estão presentes os pressupostos e motivos autorizadores da custódia cautelar, bem como carece de fundamentação idônea.
+Argumenta que o Recorrente agiu em legítima defesa, sendo suficiente a aplicação de medidas cautelares alternativas.
+Aponta, ainda, a existência de condições pessoais favoráveis.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva.
+É o relatório. Decido.
+De início, destaco que "as disposições previstas nos arts. 64, III, e 202, do Regimento Interno do Superior Tribun al de Justiça não afastam do relator a faculdade de decidir liminarmente, em sede de habeas corpus e de recurso em habeas corpus, a pretensão que se conforma com súmula ou a jurisprudência consolidada dos Tribunais Superiores" (AgRg no HC 629.625/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/12/2020, DJe 17/12/2020; sem grifos no original).
+No mesmo sentido, ilustrativamente:
+" ..
+1. Malgrado seja necessário, em regra, abrir prazo para a manifestação do Parquet antes do julgamento do writ, as disposições estabelecidas no art. 64, III, e 202, do Regimento Interno desta Corte, e no art. 1º do Decreto-lei n. 522/1969, não afastam do relator o poder de decidir monocraticamente o habeas corpus.
+2. "O dispositivo regimental que prevê abertura de vista ao Ministério Público Federal antes do julgamento de mérito do habeas corpus impetrado nesta Corte (arts. 64, III, e 202, RISTJ) não retira do relator do feito a faculdade de decidir liminarmente a pretensão que se conforma com súmula ou jurisprudência dominante no Superior Tribunal de Justiça ou a confronta" (AgRg no HC 530.261/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 24/9/2019, DJe 7/10/2019).
+3. Para conferir maior celeridade aos habeas corpus e garantir a efetividade das decisões judiciais que versam sobre o direito de locomoção, bem como por se tratar de medida necessária para assegurar a viabilidade dos trabalhos das Turmas que compõem a Terceira Seção, a jurisprudência desta Corte admite o julgamento monocrático do writ antes da ouvida do Parquet em casos de jurisprudência pacífica. Precedentes.
+ ..
+6. Agravo regimental não provido." (AgRg no HC 656.843/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 04/05/2021, DJe 10/05/2021; sem grifo no original.)
+Portanto, passo a analisar diretamente o mérito do recurso.
+Quanto à tese de legítima defesa, observo que a questão suscitada não foi apreciada pelo Tribunal a quo, de modo que não pode ser conhecida originariamente por este Superior Tribunal de Justiça, sob pena de supressão de instância.
+No mais, o Juízo originário decretou a prisão preventiva com os seguintes fundamentos (fl. 9):
+"Consta ainda que a vítima arremessou contra o conduzido o cabo da faca, ocasião em que o autuado efetuou um disparo de arma de fogo (cal.22"), vindo a atingi-la na região dos olhos.
+ ..
+O delito imputado ao autuado é de extrema gravidade, não se podendo desconsiderar as suas consequências.
+Assim, por todos esses elementos, não há que se pensar em qualquer medida cautelar ou concessão de liberdade provisória, pois a ordem pública da comarca sofrerá graves abalos se o autuado for solto, tendo em vista a gravidade dos fatos narrados. Portanto, neste estágio das investigações entendo de acautelar a sociedade (garantia da ordem pública)."
+O Tribunal a quo manteve a custódia cautelar, ao considerar a gravidade da conduta e a periculosidade do agente.
+Como se vê, a decretação da prisão preventiva está suficientemente fundamentada, tendo sido amparada na especial gravidade da conduta, evidenciada pelo modus operandi do delito, pois o Recorrente "empunhou o revólver que trazia consigo e transportava no interior do carro, desembarcou, efetuou disparos de arma de fogo contra Renan e se evadiu do local. Um dos tiros que atingiu a vítima/corréu Renan na área frontal da face, próximo ao olho" (fl. 89). Tais circunstâncias são aptas a justificar a segregação cautelar para garantia da ordem pública.
+Nesse sentido:
+" ..  2. A gravidade concreta da conduta, evidenciada pelo modus operandi, é circunstância apta a indicar a periculosidade do agente e constitui fundamentação idônea para o decreto preventivo.  .. " (RHC 119.549/RS, Rel.
+Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 18/02/2020, DJe 26/02/2020.)
+" ..  2. A prisão preventiva impõe-se pela gravidade concreta da prática criminosa, causadora de grande intranquilidade social, revelada no modus operandi, do delito, e diante da acentuada periculosidade do acusado, evidenciada na propensão à prática delitiva e conduta violenta.  .. . 4. Ordem denegada." (HC 664.289/PE, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 15/06/2021, DJe 18/06/2021.)
+" ..
+1. O Supremo Tribunal Federal assentou jurisprudência no sentido de que não é ilegal "a custódia devidamente fundamentada na periculosidade do agravante para a ordem pública, em face do modus operandi e da gravidade em concreto da conduta" (HC 146.874 AgR, Rel. Ministro Dias Toffoli, Segunda Turma, DJe 26/10/2017).  ..  4. Ordem de habeas corpus denegada." (HC n. 474.544/RJ, relatora Ministra LAURITA VAZ, Sexta Turma, julgado em 7/2/2019, DJe de 28/2/2019.)
+Ressalto que a suposta existência de condições pessoais favoráveis não tem o condão de, por si só, desconstituir a custódia antecipada, caso estejam presentes um dos requisitos de ordem objetiva e subjetiva que autorizem a decretação da medida extrema, como ocorre, in casu. Exemplificativamente:
+"PROCESSO PENAL. RECURSO EM HABEAS CORPUS. TRÁFICO DE ENTORPECENTES E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DA CONDUTA. QUANTIDADE DE ENTORPECENTE APREENDIDO. PREDICADOS PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA.
+ ..
+3. Condições subjetivas favoráveis do recorrente, por si sós, não impedem a prisão cautelar, caso se verifiquem presentes os requisitos legais para a decretação da segregação provisória (Precedentes).
+4. Recurso desprovido." (RHC 90.306/RS, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 23/08/2018, DJe 04/09/2018.)
+Por fim, d emonstrada pelas instâncias originárias, com expressa menção às peculiaridades do caso concreto, a necessidade da imposição da prisão preventiva, não se mostra suficiente a aplicação de quaisquer das medidas cautelares alternativas à prisão, elencadas no art. 319 do Código de Processo Penal. Nesse sentido: RHC 144.071/BA, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 18/05/2021, DJe 24/05/2021; HC 601.703/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 16/03/2021, DJe 23/03/2021.
+Ante o exposto, CONHEÇO PARCIALMENTE do recurso e, nessa extensão, NEGO-LHE PROVIMENTO.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ORDINÁRIO EM HABEAS CORPUS. TENTATIVA DE HOMICÍDIO. TESE DE LEGÍTIMA DEFESA. IMPOSSIBILIDADE DE ANÁLISE. SUPRESSÃO DE INSTÂNCIA. PRISÃO PREVENTIVA FUNDAMENTADA NA GRAVIDADE CONCRETA DA CONDUTA. CONDIÇÕES FAVORÁVEIS. IRRELEVÂNCIA, NO CASO. MEDIDAS CAUTELARES ALTERNATIVAS. DESCABIMENTO, NA ESPÉCIE. RECURSO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
