@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de embargos de declaração, opostos por CYPACK SOLUCÕES INTELIGENTES EIRELI e OUTRO, contra decisão monocrática deste signatário (fls. 213-216, e-STJ), que conheceu do agravo e negou provimento ao recurso especial interposto pela parte ora embargante.
+Daí os presentes aclaratórios (fls. 220-227, e-STJ), nos quais a parte alega que o julgado embargado foi omisso "ao não enfrentar a matéria objeto do recurso especial, isto é, o pedido de instauração de concursos de credores à luz do art. 908, do CPC" (fl. 221, e-STJ).
+Contrarrazões às fls. 230-237, e-STJ.
+É o relatório.
+Decido.
+Os embargos não merecem acolhimento.
+1. Com efeito, nos estreitos lindes do art. 1.022 do CPC/15, o recurso de embargos de declaração objetiva somente suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontrável em decisão ou acórdão, não podendo ser utilizado como instrumento para a rediscussão do julgado, como pretende a parte ora insurgente.
+Nesse sentido, precedentes desta Corte:
+DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. IRRESIGNAÇÃO SUBMETIDA AO NCPC. COMPRA E VENDA DE IMÓVEL. COMISSÃO DE CORRETAGEM. OBSERVÂNCIA DE ENTENDIMENTO FIXADO NO JULGAMENTO DE RECURSO ESPECIAL REPETITIVO. DISTINGUISHING. OMISSÃO NÃO VERIFICADA. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. EMBARGOS REJEITADOS. (..) 4. Inexistentes as hipóteses do art. 1.022 do NCPC, não merecem acolhida os embargos de declaração que têm nítido caráter infringente. 5. Os aclaratórios não se prestam à manifestação de inconformismo ou à rediscussão do julgado que julgou a causa de forma fundamentada, sem omissões, contradições, obscuridade ou erro material. 6. Embargos de declaração rejeitados, com imposição de multa. (EDcl no REsp 1724544/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 19/08/2019, DJe 21/08/2019)  grifou-se
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NEGOU PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DA PARTE DEMANDADA. 1. Nos termos do artigo 1.022 do CPC/15, o recurso de embargos de declaração objetiva somente suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontrável em decisão ou acórdão, não podendo ser utilizado como instrumento para a rediscussão do julgado 2. Embargos de declaração rejeitados. (EDcl no AgRg no AREsp 162.730/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 14/02/2022, DJe 21/02/2022)  grifou-se
+No caso, as razões dos embargos revelam tão somente o intuito de reapreciação da questão já decidida, o que não se admite com a objetividade do recurso manejado. É que, a pretexto de omissão, na verdade, pretende a parte embargante a modificação do decisum no ponto em que fora aplicada a Súmula 83 do STJ, cuja via processual é inadequada.
+Segundo constou claramente no julgado recorrido, "Na origem, observa-se que a parte recorrente requereu expressamente "a reserva dos honorários contratuais com base no contrato de prestação de serviços jurídicos" (fl. 14, e-STJ)" - (fl. 214, e-STJ).
+Consoante asseverado no decisum embargado, "o Tribunal local concluiu pela impossibilidade de acolhimento do pedido de reserva de honorários contratuais, porquanto existente penhora no rosto dos autos previamente ao pleito da parte insurgente" (fl. 214, e-STJ).
+Ainda, o julgador ad quem afirmou expressamente que "Descabe cogitar-se da instauração de concurso especial de credores, in casu, considerando-se que não coexistem duas ou mais penhoras sobre o mesmo bem" (fl. 83, e-STJ).
+Como se vê, a pretensão da parte insurgente não está em harmonia com a natureza e a função dos embargos declaratórios, não demonstrando, em suas razões recursais, qualquer vício no qual a decisão embargada tenha incorrido.
+Portanto, não se vislumbra quaisquer das máculas do artigo 1.022 do CPC/15 na decisão hostilizada.
+2. Não obstante a rejeição dos aclaratórios, deixa-se de se aplicar a multa prevista no artigo 1.026, § 2º, do CPC/15, pois, em se tratando de primeiros embargos de declaração que não ostentam caráter manifestamente protelatórios, pressuposto para aplicação da medida, descabida a sua incidência neste momento processual.
+No entanto, desde já se adverte que a reiteração de embargos de declaração, com intuito de rediscussão do julgado, poderá caracterizar o aludido caráter manifestamente protelatório, ensejando a aplicação da multa citada.
+3. Do exposto, rejeito os embargos de declaração.
+Publique-se.
+Intime-se.
