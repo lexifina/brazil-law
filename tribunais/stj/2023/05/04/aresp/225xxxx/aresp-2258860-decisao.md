@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo interposto por EDER ANTONIO COSTA contra a decisão do Tribunal de Justiça do Estado do Paraná, que inadmitiu o recurso especial, fundamentado no art. 105, inciso III, alínea a, da Constituição da República, interposto contra o acórdão prolatado na Apelação Criminal n. 0003721-33.2014.8.16.0103.
+Consta dos autos que o Juízo de primeiro grau condenou o Agravante às penas de 2 (dois) anos e 4 (quatro) meses de detenção, em regime inicial semiaberto, e suspensão da habilitação para dirigir veículo automotor por 6 (seis) meses, como incurso no art. 302 da Lei n. 9.503/97 (fls. 321-332).
+Irresignada, a Defesa interpôs apelação, à qual a Corte de origem negou provimento e, de ofício, reduziu a pena-base ante a aplicação da fração de 1/8 (um oitavo) sobre o intervalos das penas mínima e máxima cominadas abstratamente para o delito, bem como reconheceu a confissão do Réu, redimensionando as reprimendas a 1 (um) ano, 10 (dez) meses e 15 (quinze) dias de detenção, mantidas as demais cominações contidas no édito condenatório primevo (fls. 392-397).
+Os embargos de declaração opostos pelo Réu foram rejeitados (fls. 424-426). Os aclaratórios apresentados pelo Parquet foram acolhidos para, aplicando a Súmula 231/STJ à espécie, redimensionar a pena imposta ao patamar de 2 (dois) anos de detenção (fls. 459-462).
+Sustenta a Defesa, nas razões do apelo nobre, contrariedade ao art. 33, § 2.º, alínea c, e 59 do Código Penal.
+Alega que, na hipótese dos autos, ante a existência de uma circunstância judicial negativa e dado o quantum da pena corporal imposta ao Acusado, é possível a fixação do regime inicial aberto.
+Foram apresentadas contrarrazões (fls. 496-500). O recurso especial não foi admitido (fls. 503-505). Foi interposto agravo (fls. 553-572).
+O Ministério Público Federal apresentou parecer, opinando pelo não conhecimento do agravo em recurso especial (fls. 630-635).
+É o relatório. Decido.
+No tocante à fixação do regime semiaberto para o início do cumprimento da pena, o Tribunal a quo adotou a seguinte fundamentação: " ..  a existência de circunstância judicial desfavorável autoriza o juízo a impor o cumprimento da pena em regime mais gravoso, sobretudo quando devidamente motivada" (fl. 394).
+O entendimento adotado no aresto impugnado está em consonância com a jurisprudência desta Corte Superior de Justiça, segundo a qual, a despeito de a pena do Agravante ter sido fixada em patamar inferior a 4 (quatro) anos, a presença de circunstância judicial desfavorável denota a inexistência de ilegalidade na fixação do regime semiaberto, conforme o disposto no art. 33, §§ 2.º e 3.º, do Código Penal.
+A propósito:
+" ..  III - Quanto ao estabelecimento do regime semiaberto, embora o quantum final da pena aplicada a cada delito não ultrapasse 4 (quatro) anos, verifica-se que, para ambos os crimes, a pena-base foi fixada acima do mínimo legal, em razão da valoração negativa de duas circunstâncias judiciais. Dessa forma, a presença de circunstâncias desfavoráveis justifica a imposição de regime mais gravoso para o início de cumprimento da reprimenda, conforme o disposto no art. 33, §§ 2º e 3º do CP.
+Agravo regimental desprovido." (AgRg no REsp n. 1.988.011/SE, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 02/08/2022, DJe 15/08/2022.)
+" ..  3. A despeito de ter sido imposta reprimenda privativa de liberdade inferior a 4 (quatro) anos de detenção, a exasperação da pena-base em razão da existência de circunstâncias desfavoráveis - maus antecedentes e circunstâncias do crime -, bem como a verificação da reincidência do Paciente, são fundamentos idôneos para justificar a fixação do regime inicial semiaberto, bem como a negativa no tocante à substituição por restritivas de direitos.
+4. Ordem de habeas corpus denegada." (HC n. 468.126/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 06/11/2018, DJe 23/11/2018.)
+Ante o exposto, CONHEÇO do a gravo para CONHECER e NEGAR PROVIMENTO ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. ART. 302 DA LEI N. 9.503/97. PENA CORPORAL INFERIOR A 4 (QUATRO) ANOS DE RECLUSÃO. CIRCUNSTÂNCIAS JUDICIAIS NEGATIVAS. REGIME SEMIABERTO. ADEQUAÇÃO. AGRAVO CONHECIDO PARA CONHECER E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
