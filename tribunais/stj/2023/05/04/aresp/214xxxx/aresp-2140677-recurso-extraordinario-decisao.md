@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de recurso extraordinário (fls. 725-729) interposto por MARCOS DONIZETI MARTINS BATISTA, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça assim ementado (fl. 687):
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 932, III, DO CPC DE 2015. INSURGÊNCIA NÃO CONHECIDA.
+1. Enquanto a decisão da Presidência que não conheceu do agravo em recurso especial asseverou a ausência de impugnação dos fundamentos adotados na decisão que não admitiu o especial - Súmula n. 182/STJ, no agravo regimental a defesa limitou-se a reiterar as razões do especial interposto, não rebatendo o óbice mencionado.
+2. Deixando a parte agravante de impugnar específica e concretamente os fundamentos da decisão agravada, é de se aplicar o art. 932, III, do Código de Processo Civil de 2015 e o art. 253, I, do RISTJ.
+3. Agravo não conhecido.
+Os embargos de declaração opostos na sequência foram rejeitados nos termos da seguinte ementa (fl. 714):
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 932, III, DO CPC DE 2015. CONTRADIÇÃO. INOCORRÊNCIA. PRETENSÃO DE REDISCUSSÃO DO JULGADO. INADEQUAÇÃO. EMBARGOS REJEITADOS.
+1. Os embargos de declaração destinam-se a suprir omissão, afastar obscuridade, bem como eliminar contradição ou ambiguidade eventualmente existentes no julgado impugnado, não constituindo meio processual adequado para veicular simples inconformismo e o propósito de rediscussão de matéria decidida. Precedente.
+2. A contradição que autoriza a oposição dos embargos de declaração é aquela interna ao julgado, caracterizada por proposições inconciliáveis entre si, situação que não ocorre no acórdão embargado. Precedentes.
+3. Inexistindo no acórdão embargado qualquer dos vícios previstos no art. 619 do Código de Processo Penal, que permitem o manejo do recurso integrativo, não há como este ser acolhido.
+4. Embargos de declaração rejeitados.
+A parte recorrente sustenta, no recurso extraordinário, que teria havido violação dos arts. 5º, LV, e 93, IX, da CF.
+Nesse sentido, defende (fl. 727):
+ ..  que contraditório e ampla defesa, além da fundamentação das decisões são direitos das partes em processos judiciais.
+Todavia, no presente caso, o acórdão do Egrégio Tribunal de Justiça de São Paulo violou tais princípios, ao dar provimento ao Recurso Ministerial, e o Superior Tribunal de Justiça também violou o direito do Recorrente ao negar provimento e não analisar o mérito do Recurso Especial apresentado pelo Recorrente.
+Requer a admissão do recurso, bem como a remessa ao Supremo Tribunal Federal.
+Contrarrazões apresentadas às fls. 747-750.
+É o relatório.
+Quanto à questão da correta fundamentação das decisões judiciais, o STF firmou tese vinculante segundo a qual:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão (QO no Ag n. 791.292/PE).
+Em suma, apenas a ausência de fundamentação possibilitaria a apreciação do caso pela Suprema Corte, o que não ocorre quando há fundamentos, ainda que a parte não os considere corretos, completos ou os entenda demasiadamente sucintos.
+No caso, foi declinado o motivo por que não se conheceu do agravo regimental, qual seja, a falta de impugnação específica dos fundamentos da decisão que não conheceu do agravo em recurso especial, valendo destacar os seguintes trechos do voto condutor do acórdão recorrido (fls. 688-690):
+De plano verifica-se que a decisão agravada sequer merece conhecimento.
+Isso porque, do cotejo entre o decisum agravado e as razões do agravo regimental, verifica-se que a irresignação esbarra em óbice formal intransponível, qual seja, a ausência de impugnação específica dos fundamentos adotados para o não conhecimento do agravo em recurso especial.
+Enquanto a decisão agravada assentou o óbice da Súmula n. 182/STJ, no agravo regimental a parte limitou-se a reiterar as razões do recurso especial apresentado.
+Verifica-se que deixou o agravante de refutar adequadamente o óbice indicado na decisão ora combatida.
+Oportuno deixar assente que a parte, ao recorrer, deve demonstrar o desacerto da decisão contra a qual se insurge, contestando todas as questões por ela levantadas, sob pena de sua manutenção, conforme entendimento da Corte Especial sobre a temática no julgamento do EREsp 1.424.404/SP.
+ ..
+Por conseguinte, o art. 932, III, do Código de Processo Civil de 2015 afirma que o agravo que deixa de impugnar de maneira clara e específica os fundamentos da decisão que pretendia desconstituir não merece ser conhecido. O Regimento Interno do Superior Tribunal de Justiça traz idêntica previsão no art. 253, I.
+Da mesma maneira, foram apresentados fundamentos para a rejeição dos embargos de declaração opostos na sequência, o que vale repisar (fls. 717-718):
+O art. 619 do Código de Processo Penal disciplina que "aos acórdãos proferidos pelos Tribunais de Apelação, câmaras ou turmas, poderão ser opostos embargos de declaração, no prazo de dois dias contados da sua publicação, quando houver na sentença ambiguidade, obscuridade, contradição ou omissão", tendo a jurisprudência desta Corte os admitido, também, com o fito de sanar eventual erro material na decisão embargada.
+ ..
+Na hipótese, não obstante a combatividade da defesa técnica, o acórdão embargado não incorre em nenhum dos vícios sanáveis pelo recurso integrativo, uma vez que esta Colenda Quinta Turma explicitou adequadamente as razões pelas quais não conheceu do agravo regimental.
+Com efeito, consta do acórdão embargado que "enquanto a decisão agravada assentou o óbice da Súmula n. 182/STJ, no agravo regimental a parte limitou-se a reiterar as razões do recurso especial apres entado. Verifica-se que deixou o agravante de refutar adequadamente o óbice indicado na decisão ora combatida" (e-STJ, fl. 689).
+Olvida-se, outrossim, do real significado do termo "contradição", previsto na legislação processual como fator justificante do manejo da espécie recursal. Nesse sentido, pertinente se destacar o entendimento sedimentado nesta Corte Superior, segundo o qual a "contradição que autoriza o conhecimento dos embargos declaratórios é a contradição interna ao julgado, caracterizada por proposições inconciliáveis entre si" (EDcl no AgRg no AREsp 246.939/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 4/8/2015, DJe 12/8/2015).
+ ..
+O acórdão relativo ao agravo regimental está amparado em fundamentação suficiente, não havendo razão para taxá-lo de contraditório.
+Constata-se que a insurgência demonstra mero inconformismo do embargante com o deslinde da controvérsia, não servindo os aclaratórios como instrumento de revisão do teor da decisão objurgada. Mostra-se de todo descabida a pretensão de rejulgamento da causa na via estreita dos embargos declaratórios, salientando-se que a tutela jurisdicional postulada foi devidamente prestada, inexistindo vícios passíveis de serem sanados.
+Com efeito, demonstrado que a prestação jurisdicional ocorreu, ainda que não se concorde com a solução dada à causa, afigura-se inviável o prosseguimento do recurso extraordinário, pois o provimento recorrido encontra-se em sintonia com a tese fixada no Tema n. 339/STF, de observância obrigatória (CPC, art. 927, III), entendimento reiterado pelo próprio STF, por exemplo, no ARE n. 1.349.717-ED-AgR, relator Ministro Luiz Fux, Plenário, DJe de 10/2/2022.
+Quanto às demais alegações do recurso, a análise do acórdão, como relatado, revela que o pronunciamento combatido concluiu pelo não preenchimento dos pressupostos de admissibilidade do recurso anteriormente dirigido ao Superior Tribunal de Justiça.
+Tal fato ocorreu porque, no julgado recorrido, não se conheceu do agravo regimental, mantendo-se a decisão monocrática que não conheceu do agravo em recurso especial devido à falta de contestação específica dos fundamentos da decisão de inadmissibilidade proferida pela Corte de origem.
+Como se vê, o m érito do agravo em recurso especial não chegou a ser apreciado, diante de insuperáveis óbices processuais, impeditivos do próprio conhecimento do recurso.
+Segundo o STF, a necessidade de superação do que fora decidido no pronunciamento questionado acerca dos pressupostos de conhecimento do recurso da competência de outro tribunal, como ocorreu neste caso, inviabiliza o exame do recurso extraordinário pela própria Corte Suprema, qualquer que seja a suscitada violação da Constituição Federal, consoante a tese fixada no Tema n. 181 da repercussão geral:
+A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral (RE n. 598.365-RG/MG).
+Nesse sentido, eventual ofensa à Carta Magna, se existente, seria apenas indireta ou reflexa, entendendo o Excelso Pretório que "carece de repercussão geral a discussão acerca dos pressupostos de admissibilidade de recursos da competência de cortes diversas" (ARE n. 1.227.415-AgR, relator Ministro Edson Fachin, Segunda Turma, DJe de 21/5/2021), mesmo quando suscitada a ofensa ao art. 105, III, da Constituição da República (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+Esse é também o consolidado entendimento do STJ, que reiteradamente nega provimento aos agravos que impugnam decisões de aplicação do Tema n. 181/STF, como exemplifica o precedente a seguir:
+Tratando-se de recurso extraordinário contra acórdão que não ultrapassou o juízo de admissibilidade, fica inviabilizado o exame das questões constitucionais suscitadas em face da inexistência de repercussão geral.
+(AgInt no RE nos EDcl no AgInt no AREsp n. 1.342.377/SP, relatora Ministra Maria Thereza de Assis Moura, DJe de 13/9/2019.)
+Assim, alinhado o provimento impugnado ao disposto pelo STF sobre a fundamentação das decisões e não havendo repercussão geral quanto ao restante das alegações, conforme teses de observância obrigatória (CPC, art. 927, III, parte final), o recurso extraordinário não comporta seguimento.
+Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO SUFICIENTE DO JULGADO RECORRIDO. TEMA N. 339/STF. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO. TEMA N. 181/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. NEGATIVA DE SEGUIMENTO.
+1. "O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão" (Tema n. 339/STF, QO no Ag n. 791.292/PE).
+2. Existente alguma fundamentação, ainda que a parte não a repute correta ou completa, entende o Supremo Tribunal Federal que foi respeitado o art. 93, IX, da CF, conforme a conclusão firmada no Tema n. 339/STF, tese de observância obrigatória (CPC, art. 927, III).
+3. "A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral" (Tema n. 181/STF).
+4. Não preenchidos os pressupostos de admissibilidade do agravo em recurso especial, aplica-se a tese do Tema n. 181/STF, ainda que se queira, no recurso extraordinário, discutir o mérito da causa ou os fundamentos que impediram o conhecimento do recurso (CPC, art. 927, III).
+5. Recurso extraordinário a que se nega seguimento, nos termos do art. 1.030, I, a, do CPC.
