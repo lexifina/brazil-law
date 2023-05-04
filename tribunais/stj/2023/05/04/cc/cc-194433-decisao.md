@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de conflito negativo de competência instaurado entre o Juízo de Direito da Vara Única de São Lourenço do Oeste/SC, o suscitante, e o Juízo de Direito de Foz do Iguaçu/PR, o suscitado.
+Conforme narrativa do Juízo suscitante, o núcleo da controvérsia consiste em definir o Juízo competente para realização de audiência de custódia decorrente da prisão de VALDIRENE ROQUE DA SILVA.
+O Juízo de Direito da Vara Única de São Lourenço do Oeste/SC suscitou o presente conflito ao fundamento de que, embora tenha determinado a expedição do mandado de prisão em desfavor de Valdirene Roque da Silva, a prisão ocorreu em Foz do Iguaçu - Paraná/PR. O Juízo suscitante asseverou, ainda, que "sobreveio informação do Juízo de Foz de Iguaçu - Paraná, dando conta da não realização da audiência de custódia de Valdirene" (fl. 4).
+No Superior Tribunal de Justiça - STJ foi determinada a expedição de ofício ao Juízo de Direito de Foz do Iguaçu/PR, determinando a realização de audiência de custódia do interessado, bem como que prestasse informações juntando cópia da decisão de declínio de compe tência por ventura existente (fls. 21/24)
+Foram prestadas às informações com o encaminhamento da declaração de declínio de competência (fls. 28/200) e sobreveio ofício do Juízo de Direito de Foz do Iguaçu/PR informando "a realização da audiência de custódia" (fls. 41/50).
+Instado a se manifestar, o Parquet Federal emitiu parecer que recebeu o seguinte sumário:
+"CONFLITO NEGATIVO DE COMPETÊNCIA ENTRE JUÍZOS ESTADUAIS SUBMETIDOS A TRIBUNAIS DIVERSOS. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. AUDIÊNCIA DE CUSTÓDIA. MANDADO CUMPRIDO EM LOCALIDADE DIVERSA DO ÂMBITO TERRITORIAL DO JUÍZO QUE DETERMINOU A PRISÃO.
+- A audiência de custódia, no caso de mandado de prisão preventiva cumprido fora do âmbito territorial da jurisdição do Juízo que a determinou, deve ser efetivada por meio da condução do preso à autoridade judicial competente na localidade em que ocorreu a prisão. Precedente do STJ.
+- Parecer pelo conhecimento do conflito para declarar competente o Juízo de Direito da Central de Audiência de Custódia da Comarca de Foz do Iguaçu/PR (suscitado)" (fl. 270).
+É o relatório.
+Decido.
+O presente conflito de competência deve ser conhecido, por se tratar de incidente instaurado entre juízos vinculados a Tribunais distintos, nos termos do art. 105, inciso I, alínea d, da Constituição Federal.
+A jurisprudência desta Corte Superior de Justiça firmou o entendimento no sentido de que a audiência de custódia, no caso de mandado de prisão cumprido fora do âmbito territorial do juízo que a determinou deve ser realizada pelo juízo competente da localidade em que ocorreu a prisão. Nesse sentido são os seguintes precedentes da Terceira Seção desta Corte Superior de Justiça:
+CONFLITO DE COMPETÊNCIA. PROCESSUAL PENAL. PRISÃO EM FLAGRANTE REALIZADA QUANDO DO CUMPRIMENTO DE MANDADO DE BUSCA E APREENSÃO. UNIDADE JURISDICIONAL DIVERSA. AUDIÊNCIA DE CUSTÓDIA. INVESTIGADO JÁ TRANSFERIDO PARA A COMARCA PREVENTA. AUSÊNCIA DE RAZOABILIDADE DE RETORNO PARA A REALIZAÇÃO DO ATO. CONFLITO CONHECIDO PARA DECLARAR COMPETENTE O JUÍZO SUSCITADO.
+1. Nos termos da jurisprudência desta Corte, a audiência de custódia deve ser realizada na localidade em que ocorreu a prisão. No caso, porém, o Investigado já foi conduzido à Comarca do Juízo que determinou a busca e apreensão, há aparente conexão probatória com outros casos e prevenção daquele Juízo, de forma que não se mostra razoável determinar o retorno do Investigado para análise do auto de prisão em flagrante, notadamente em razão da celeridade que deve ser empregada em casos de análise da legalidade da custódia.
+2. Conflito conhecido para declarar competente o Juízo de Direito da Comarca de São Lourenço do Oeste/SC, o Suscitado.
+(CC n. 182.728/PR, relatora Ministra Laurita Vaz, DJe de 19/10/2021.)
+Na mesma linha, vejam-se as seguintes decisões monocráticas: CC n. 195.745, Ministro Sebastião Reis Júnior, DJe de 31/03/2023, CC n. 194.276, Ministra Laurita Vaz, DJe de 28/04/2023 e CC n. 192.794, Ministro Marco Aurélio Bellizze, DJe de 26/04/2023.
+No caso dos autos, conforme já mencionado, a interessada foi presa preventivamente em Foz do Iguaçu/PR, em decorrência de mandado de prisão expedido pelo Juízo de Direito da Vara Única da Comarca de São Lourenço/SC no bojo dos Autos n. 5002896-15.2022.8.24.0066. Portanto, compete ao Juízo de Direito de Foz do Iguaçu/PR a realização da audiência de custódia.
+Ante o exposto, conheço do conflito para declarar que o Juízo de Direito de Foz do Iguaçu/PR, o suscitado.
+Publique-se.
+Intimem-se.
