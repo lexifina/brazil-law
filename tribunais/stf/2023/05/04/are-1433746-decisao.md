@@ -1,0 +1,45 @@
+DECISÃO: Trata-se de dois recursos extraordinários com agravo interpostos por AGENCIA ESTADUAL DE METROLOGIA - AEM/MS e por CHARLES GIUSEPE NADALIN MARTINS DUARTE contra decisão de inadmissão dos recursos interpostos contra o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO MATO GROSSO DO SUL.
+
+    O apelo extremo de AGENCIA ESTADUAL DE METROLOGIA - AEM/MS foi interposto com fundamento na alínea "a" do permissivo constitucional.
+
+    O acórdão recorrido ficou assim ementado:
+
+    APELAÇÃO CÍVEL – AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS – ALEGAÇÃO DOS AUTORES DE QUE FORAM PRETERIDOS EM CONCURSO PÚBLICO EM RAZÃO DA CONTRATAÇÃO DE TERCEIRIZADOS, SOMENTE SENDO NOMEADOS APÓS DEZ ANOS.
+
+    1. Quanto ao pedido de indenização por danos materiais, o que corresponderia aos vencimentos e demais vantagens relativas aos respectivos cargos a partir da contratação dos terceirizados, o mesmo merece ser afastado, pois, além da investidura em cargo público somente se dar com a posse e, apenas a partir desse momento o servidor passar a ser titular de direitos, não se verifica na hipótese a exceção prevista no RE 724.347, de repercussão geral, eis que não caracterizada a flagrante arbitrariedade. 2. Todavia, quanto aos danos morais, merece reforma a sentença. 3. Conforme ficou demonstrado no acórdão impetrado pelos autores, os mesmos possuíam o direito líquido e certo à nomeação, evidenciando-se que a demora de uma década diante da indefinição quanto ao seu destino gerou-lhes abalos que ultrapassam a esfera do mero dissabor, posto que tiveram suas expectativas de ingressar no serviço público frustradas e necessitaram recorrer ao Poder Judiciário para obter o reconhecimento do direito. 4. Considerando a intensidade do dano, a duração do sofrimento, a repercussão e consequências, bem como as condições econômicas das partes, tenho que o quantum indenizatório deve ser fixado em R$ 20.000,00 (vinte mil reais) para cada parte, visto que tal valor mostra-se razoável dentro das circunstâncias do fato. 5. Provido em parte.
+
+    Opostos os embargos de declaração por AGENCIA ESTADUAL DE METROLOGIA - AEM/MS, foram acolhidos em parte.
+
+    No recurso extraordinário de AGENCIA ESTADUAL DE METROLOGIA - AEM/MS sustenta-se violação do(s) art.(s) 37, § 6º; 37, inciso IV, da Constituição Federal.
+
+    Decido.
+
+    Quanto à insurgência de CHARLES GIUSEPE NADALIN MARTINS DUARTE, verifica-se que o recurso extraordinário foi interposto na vigência da Emenda Constitucional nº 45, de 30/12/04, que acrescentou o § 3º ao art. 102 da Constituição Federal, criando a exigência de demonstração da repercussão geral das questões constitucionais trazidas no recurso extraordinário.
+
+    No caso em tela, o recurso extraordinário foi interposto após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional.
+
+    A petição recursal, todavia, não possui tópico devidamente fundamentado de repercussão geral da matéria, o que implica a impossibilidade do trânsito do presente recurso. Sobre o tema, anote-se: RE nº 569.476/SC-AgR, Tribunal Pleno, Rel. Min. Ellen Gracie, DJe de 25/4/08; ARE nº 1.163.658/AP-AgR, Primeira Turma, Rel. Min. Alexandre de Moraes, DJe de 14/12/18; ARE nº 1.138.998/PE-AgR, Segunda Turma, Rel. Min. Ricardo Lewandowski, DJe de 6/12/18; ARE nº 1.166.618/ES-AgR, Rel. Min. Roberto Barroso, DJe de 7/12/18.
+
+    Já quanto à insurgência de AGENCIA ESTADUAL DE METROLOGIA - AEM/MS, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário. Incidência da Súmula 279 desta Corte. Sobre o tema, a propósito:
+
+    “DIREITO ADMINISTRATIVO. PROCEDIMENTO CIRÚRGICO. URGÊNCIA NÃO DEMONSTRADA. RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/2015. ALEGAÇÃO DE OFENSA AOS ARTS. 1º, III, 5º, CAPUT, I, V e X, 6º, 37, § 6º, 194, PARÁGRAFO ÚNICO, I, 195, 196, 197 e 198, § 1º, DA CONSTITUIÇÃO DA REPÚBLICA. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O RECURSO EXTRAORDINÁRIO. REELABORAÇÃO DA MOLDURA FÁTICA. PROCEDIMENTO VEDADO NA INSTÂNCIA EXTRAORDINÁRIA. AGRAVO MANEJADO SOB A VIGÊNCIA DO CPC/2015. 1. A controvérsia, a teor do já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais. Compreensão diversa demandaria a reelaboração da moldura fática, a tornar oblíqua e reflexa eventual ofensa à Constituição, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, ’a’, da Lei Maior, nos termos da remansosa jurisprudência desta Suprema Corte. 2. As razões do agravo não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere à ausência de ofensa a preceito da Constituição da República. 3. Agravo interno conhecido e não provido” (ARE nº 1.141.648/SP-AgR, Primeira Turma Rel. Min. Rosa Weber, DJe de 11/10/18).
+
+    “DIREITO ADMINISTRATIVO. RESPONSABILIDADE CIVIL. CEMITÉRIO MUNICIPAL. VIOLAÇÃO DE SEPULTURA. FURTO DE PEÇAS. DANOS MATERIAIS COMPROVADOS. DANOS MORAIS. CONFIGURAÇÃO. RESPONSABILIDADE SOLIDÁRIA. RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/2015. ALEGAÇÃO DE OFENSA AO ART. 37, § 6º, DA CONSTITUIÇÃO DA REPÚBLICA. REELABORAÇÃO DA MOLDURA FÁTICA. PROCEDIMENTO VEDADO NA INSTÂNCIA EXTRAORDINÁRIA. AGRAVO MANEJADO SOB A VIGÊNCIA DO CPC/2015. 1. O entendimento assinalado na decisão agravada não diverge da jurisprudência firmada no Supremo Tribunal Federal. Compreensão diversa demandaria a reelaboração da moldura fática delineada no acórdão de origem, a tornar oblíqua e reflexa eventual ofensa à Constituição, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. 2. As razões do agravo não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere à ausência de ofensa a preceito da Constituição da República. 3. Majoração em 10% (dez por cento) dos honorários anteriormente fixados, obedecidos os limites previstos no artigo 85, §§ 2º, 3º e 11, do CPC/2015, ressalvada eventual concessão do benefício da gratuidade da Justiça. 4. Agravo interno conhecido e não provido, com aplicação da penalidade prevista no art. 1.021, § 4º, do CPC/2015, calculada à razão de 1% (um por cento) sobre o valor atualizado da causa, se unânime a votação” (ARE nº 1.139.919/MG-AgR, Primeira Turma, Rel. Min. Rosa Weber, DJe de 17/9/18).
+
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. INTERPOSIÇÃO EM 19.10.2017. DIREITO ADMINISTRATIVO. RESPONSABILIDADE CIVIL DO ESTADO. OMISSÃO. INDENIZAÇÃO. DANOS DECORRENTES DE AGRESSÃO OCORRIDA EM LOCAL DE TRABALHO. SÚMULA 279 DO STF. 1. É inadmissível o extraordinário quando para se chegar a conclusão diversa daquela a que chegou o Tribunal de origem, exija-se o reexame das provas dos autos. Incidência da Súmula 279 do STF. 2. Agravo regimental a que se nega provimento, com aplicação da multa prevista no art. 1.021, §4º, do CPC. inaplicável o § 11 do art. 85 do CPC, face à inexistência de fixação de honorários anteriormente” (ARE nº 1.037.498/GO-AgR, Segunda Turma, Rel. Min. Edson Fachin, DJe de 7/5/18).
+
+    “DIREITO ADMINISTRATIVO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. RESPONSABILIDADE OBJETIVA DO ESTADO. VERIFICAÇÃO DA EXISTÊNCIA DOS ELEMENTOS CONFIGURADORES. SÚMULA 279/STF. 1. A resolução da controvérsia demandaria o reexame dos fatos e do material probatório constantes nos autos, o que é vedado em recurso extraordinário. Incidência da Súmula 279/STF. 2. Ausência de argumentos capazes de infirmar a decisão agravada. 3. A alegação formulada no agravo envolve ofensa reflexa à Constituição. 4. Agravo regimental a que se nega provimento” (ARE nº 803.808/DF-AgR, Primeira Turma, Rel. Min. Roberto Barroso, DJe de 21/3/18).
+
+    Ante o exposto, nego seguimento aos recursos (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 4 de maio de 2023.
+
+Ministra ROSA WEBER
+
+Presidente
+
+Documento assinado digitalmente
