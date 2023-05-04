@@ -1,0 +1,21 @@
+DECISÃO
+Na origem trata-se de embargos à execução fiscal referente à cobrança de IPTU pela municipalidade. Na sentença julgou-se o pedido parcialmente procedente. No Tribunal a quo a sentença foi parcialmente reformada em relação aos honorários de sucumbência. O valor da causa foi fixado em R$ 240.243,75 (Duzentos e quarenta mil, duzentos e quarenta e três reais e setenta e cinco centavos).
+O recurso especial foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, contra acórdão com o seguinte resumo de ementa:
+APELAÇÃO CÍVEL DIREITO TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. IPTU. INCIDÊNCIA DO ITR. IMÓVEL EM ÁREA URBANA COM DESTINAÇÃO A EXPLORAÇÃO RURAL REDISTRIBUIÇÃO DOS ÔNUS SUCUMBENCIAIS. HONORÁRIOS RECURSAIS.
+1. Comprovada a destinação do imóvel situado em área urbana à exploração agropecuária, através de auto de vistoria e documentos trazidos pelo autor, é caso de incidência do ITR e não do IPTU, conforme orientação do REsp 1112646/SP, julgado sob o rito do artigo 543-C do Código de Processo Civil. Precedentes deste Órgão Fracionário.
+2. Redistribuição da verba sucumbencial. Na origem, foram distribuídos os ônus à razão de 30% para embargante e 70% para o embargado, considerando a proporção da vitória obtida pela oposição da ação defensiva. Embora o êxito seja adstrito à declaração de não incidência do IPTU sobre a área em questão, sendo mantida a pretensão do Município de Porto Alegre concernente à cobrança de Taxa de Coleta de Lixo, o valor dos créditos remanescentes é ínfimo, autorizando a redistribuição das obrigações.
+3. Honorários recursais. Majoração, na forma do artigo 85, § 11, do novo CPC e do Enunciado Administrativo ri-2 07 do STJ.
+NEGARAM PROVIMENTO AO APELO DO MUNICÍPIO E DERAM PARCIAL PROVIMENTO AO APELO DA EMBARGANTE, UNÂNIME.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+Nesse contexto, mostra-se adequada a redistribuição dos percentuais, passando a 80% dos ônus sucumbenciais a serem suportados pelo Município de Porto Alegre e 20% pela parte embargante.
+Tenho que, ainda, deverão ser fixados em favor do procurador da parte apelada os honorários recursais, conforme postulado nas contrarrazões.
+(..)
+Nesse contexto, considerando o trabalho adicional realizado, bem como em razão do disposto nos artigos 85, §º 11, e 1.046, ambos do novo Código de Processo Civil, além do Enunciado Administrativo nº 7 do STJ , majoro os honorários de sucumbência, nos termos do que foi antes consignado, para 85% (considerando a porção de 20% sobre o valor da causa, nos termos da sentença), sobrando apenas 15% em favor do Município de Porto Alegre.
+Com relação, por fim, ao pedido de fixação de honorários em razão da extinção parcial do processo de execução, tenho que prejudicada a pretensão. A uma, porque o valor ora estabelecido já guarda pertinência com o percentual máximo de 20%; a duas, pelo fato do pedido dever ser direcionado aos autos em questão, de modo que os honorários sucumbenciais que restavam ser estabelecidos no processo de embargos assim já o foram.
+Quanto à matéria de fundo, notadamente referente ao arbitramento dos honorários, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
