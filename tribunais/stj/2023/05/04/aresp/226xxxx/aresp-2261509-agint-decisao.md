@@ -1,0 +1,53 @@
+DECISÃO
+Portocred S.A. Crédito Financiamento e Investimento interpõe agravo interno contra decisão da Presidência desta Corte proferida nos seguintes termos (e-STJ, fls. 584-586):
+Na espécie, não foi demonstrado o dissídio jurisprudencial, pois inexistente a necessária similitude fática e identidade jurídica entre o acórdão recorrido e aquele apontado como paradigma, tendo em vista que são diversas as circunstâncias concretas neles delineadas e o direito aplicado.
+Nesse sentido, o STJ decidiu: "Quanto à apontada divergência jurisprudencial, observa-se que os acórdãos confrontados não possuem a mesma similitude fática e jurídica, uma vez que, enquanto o acórdão recorrido trata da prescrição quanto à indenização pela demora injustificada na concessão de aposentadoria, os acórdãos paradigmas cuidam do termo inicial da prescrição para requerer a conversão de licença-prêmio não gozada em pecúnia". (AgInt no REsp 1.659.721/SC, relator Ministro Francisco Falcão, Segunda Turma, DJe de 29/5/2020.)
+ ..
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Opostos embargos de declaração, estes foram rejeitados (e-STJ, fls. 602-603).
+Nas razões do agravo interno, sustenta a parte agravante ter realizado o cotejo da decisão recorrida com as decisões paradigmas do STJ (e-STJ, fls. 606-619).
+Destarte, com fundamento no art. 259, § 6º, do RISTJ, reconsidero a decisão de fls. 584-586 (e-STJ).
+Passo à análise do agravo em recurso especial.
+Trata-se de recurso especial interposto por PORTOCRED S.A. CRÉDITO FINANCIAMENTO E INVESTIMENTO, fundado na alínea c do inciso III do art. 105 da Constituição Federal, desafiando acórdão prolatado pelo Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado (e-STJ, fls. 282-283):
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO REVISIONAL. PONTOS COMUNS DOS APELOS: PRELIMINAR CONTRARRECURSAL DA RÉ. INOVAÇÃO RECURSAL. DESCONTO EM CONTA CORRENTE/FOLHA DE PAGAMENTO. NÃO CONHECIMENTO. ACOLHIMENTO. O PEDIDO DE SUSPENSÃO DOS DESCONTOS EM CONTA CORRENTE NÃO FOI OBJETO DA AÇÃO, DE MODO QUE SE TRATA DE INOVAÇÃO RECURSAL. PRELIMINAR ACOLHIDA. RECURSO NÃO CONHECIDO NO PONTO. PRELIMINAR CONTRARRECURSAL DA RÉ. CADASTRAMENTO EM ÓRGÃOS DE PROTEÇÃO AO CRÉDITO. O PEDIDO RESTOU FORMULADO NA EMENDA DA INICIAL, RAZÃO PELA QUAL NÃO HÁ SEFALAR EM INOVAÇÃO RECURSAL. POR OUTRO LADO, CONSTATADA A ABUSIVIDADE ACERCA DOS ENCARGOS EXIGIDOS NO PERÍODO DA NORMALIDADE, É DE SER VEDADA A INSCRIÇÃO EM CADASTRO DE RESTRIÇÃO AO CRÉDITO. COMPENSAÇÃO E REPETIÇÃO DE INDÉBITO. POSSIBILIDADE NA FORMA SIMPLES. SÚMULA 322, STJ. APELO DO AUTOR: JUROS REMUNERATÓRIOS. JUROS PACTUADOS QUE SE MOSTRAM ACIMA DA TAXA MÉDIA DE MERCADO DIVULGADA PELO BACEN PARA A OPERAÇÃO DA ESPÉCIE VIGENTE À ÉPOCA. LIMITAÇÃO À TAXA MÉDIA. DESCARACTERIZAÇÃO DA MORA. RECONHECIDA A ABUSIVIDADE NA COBRANÇA DE ENCARGO DA NORMALIDADE NO CONTRATO, DESCARACTERIZA-SE A MORA EM RELAÇÃO A ESTE ATÉ O CÁLCULO DO DÉBITO CONFORME A PRESENTE DEFINIÇÃO. APELO DA RÉ: COMISSÃO DE PERMANÊNCIA. LICITUDE DA COBRANÇA DESDE QUE PACTUADA E NÃO CUMULADA COM A CORREÇÃO MONETÁRIA, JUROS REMUNERATÓRIOS, JUROS MORATÓRIOS E MULTA. SÚMULAS NºS. 294, 296 E 472 DO STJ. EXISTÊNCIA DE PACTUAÇÃO EXPRESSA. POSSIBILIDADE DE COBRANÇA SEM A CUMULAÇÃO COM OSENCARGOS MORATÓRIOS. VERBA HONORÁRIA. REDUÇÃO. OS HONORÁRIOS SUCUMBENCIAIS FORAM FIXADOS DE ACORDO COM OS PARÂMETROS ADOTADOS PORESTE COLEGIADO, DE MODO QUE NÃO HÁ FALAR EM REDUÇÃO. PRELIMINARES CONTRARRECURSAIS DA RÉ PARCIALMENTEACOLHIDAS. APELO DA AUTORA CONHECIDO EM PARTE E, NESTA EXTENSÃO,PROVIDO. APELO DA RÉ DESPROVIDO. UNÂNIME.
+Nas razões do recurso especial (e-STJ, fls. 318-332), a recorrente alegou a existência de dissídio jurisprudencial, apontando violação ao art. 51, § 1º, III, do CDC.
+Sustentou, em síntese, que o Tribunal de origem concluiu pela abusividade da taxa de juros remuneratórios sem proceder a observância das peculiaridades do caso concreto, apenas pelo cotejo entre a taxa contratada e a taxa média do mercado divulgada pelo Banco Central à época da contratação.
+Contrarrazões apresentadas às fls. 513-528 (e-STJ).
+O Tribunal de origem não admitiu o processamento do recurso especial, em virtude da incidência das Súmulas 5, 7 e 83/STJ (e-STJ, fls. 540-544).
+Brevemente relatado, decido.
+Nos termos da jurisprudência desta Corte Superior, "os juros remuneratórios devem ser limitados à taxa média de mercado quando comprovada, no caso concreto, a significativa discrepância entre a taxa pactuada e a taxa de mercado para operações similares" (AgInt no REsp 1.930.618/RS, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 25/4/2022, DJe 27/4/2022).
+No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DO STJ QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA DEMANDADA.
+1. Os juros remuneratórios devem ser limitados à taxa média de mercado quando comprovada, no caso concreto, a significativa discrepância entre a taxa pactuada e a taxa de mercado para operações similares, como foi o caso dos autos, não merecendo reforma o aresto recorrido quanto ao ponto.
+(..)
+4. Agravo interno desprovido .
+(AgInt no AREsp 1.405.350/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 21/06/2021, DJe 01/07/2021)
+No caso, verifica-se que o Tribunal de Justiça do Estado do Rio Grande do Sul, ao analisar os juros remuneratórios contratados, concluiu que eles seriam abusivos, conforme se depreende do excerto abaixo transcrito (e-STJ, fls. 276-277, sem grifo no original):
+Com relação à revisão dos juros, embora não divirja propriamente quanto à possibilidade de alteração de dispositivos contratuais que se mostrem abusivos, vinha mantendo entendimento mais restritivo quando da identificação das hipóteses de abusividade, conforme reiteradamente sustentado em decisões anteriores, tanto em primeiro quanto em segundo grau. Não obstante isso, considerando as peculiaridades do trabalho colegiado e também com vistas a preservar a unidade do julgamento, nesse tópico, passo a adotar o posicionamento dominante nesta Câmara conforme desenvolvimento que segue.
+Embora a questão da incidência do Código de Defesa do Consumidor se encontre superada pela edição do verbete 297 do STJ, tal não significa que a revisão de cláusulas contratuais seja medida imperativa, senão nos casos de comprovada abusividade.
+Nessa linha, persiste o princípio da liberdade na fixação dos juros remuneratórios nos contratos de mútuo e negócios bancários em geral, a exceção daqueles regidos por legislação especial.
+ ..
+A orientação emanada pelo Superior Tribunal de Justiça pauta-se no sentido de que, comprovada a abusividade na pactuação dos juros, aplica-se a taxa média de mercado divulgada pelo BACEN para o mês de celebração do instrumento.
+ ..
+Nesse contexto, a redução dos juros depende de comprovação da onerosidade excessiva - capaz de colocar o consumidor em desvantagem exagerada - em cada caso concreto, tendo como parâmetro a taxa média de mercado para as operações equivalentes.
+No caso concreto, no contrato de crédito pessoal n.º 3803026297, firmado em 19/04/2017, foram pactuados juros remuneratórios em 9,74% ao mês e 204,95% ao ano, sendo que, à época, a taxa média de mercado para a operação da espécie divulgada pelo BACEN (série 25464) foi de 7,15% ao mês e 129,16% (série 20742) ao ano, o que revela significativa discrepância.
+Assim, considerando os parâmetros adotados por essa Câmara, resulta configurado o excesso autorizador da limitação à taxa média de mercado para a operação da espécie vigente à época.
+Nesse contexto, observada a consonância do acórdão recorrido com a jurisprudência desta Corte (Súmula 83/STF), não há como afastar a conclusão estadual (entendendo que os juros remuneratórios contratados não seriam abusivos) sem a interpretação das cláusulas pactuadas e sem o revolvimento fático-probatório, procedimentos que se encontram obstados na seara extraordinária, em razão dos óbices contidos nos verbetes n. 5 e 7 da Súmula desta Casa.
+Sobre o tema, vejam-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. JUROS REMUNERATÓRIOS. ABUSIVIDADE RECONHECIDA. SÚMULAS 5 E 7/STJ. MORA. DESCARACTERIZADA. SÚMULA 83 DO STJ. DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO AGRAVO. AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL NÃO PROVIDO.
+(..)
+3. No caso dos autos, o Tribunal de origem entendeu, quanto aos juros remuneratórios, que houve abusividade em sua cobrança. Rever essa conclusão demandaria reexame de provas e interpretação de cláusulas contratuais, providências vedadas nos termos das Súmulas 5 e 7/STJ.
+(..)
+5. Agravo interno a que se dá provimento para reconsiderar a decisão da Presidência desta Corte e negar provimento ao agravo em recurso especial.
+(AgInt no AREsp 1.983.007/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 21/02/2022, DJe 25/02/2022)
+RECURSO ESPECIAL. DIREITO CIVIL, CONSUMIDOR E PROCESSUAL CIVIL. AÇÃO REVISIONAL. CONTRATO DE CARTÃO DE CRÉDITO. JUROS REMUNERATÓRIOS. ABUSIVIDADE RECONHECIDA PELO TRIBUNAL DE ORIGEM. REVISÃO. IMPOSSIBILIDADE. TEMA REPETITIVO Nº 27/STJ. INCIDÊNCIA DOS ENUNCIADOS N.º 05 E 07/STJ.
+(..)
+8. Afastar a conclusão do Tribunal de Justiça a quo, soberano na análise dos fatos e das provas, reconhecendo a abusividade da taxa de juros remuneratórios praticada no caso concreto, exigiria incursão no conteúdo fático-probatório dos autos e interpretação de cláusula contratual, procedimentos vedados em sede de recurso especial, a teor dos enunciados sumulares n.º 5 e 7/STJ.
+9. RECURSO ESPECIAL CONHECIDO E DESPROVIDO.
+(REsp 1.722.233/RS, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 14/09/2021, DJe 14/12/2021)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte agravada em R$ 400,00 (quatrocentos reais).
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracteriza da pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. JUROS REMUNERATÓRIOS. ABUSIVIDADE CONSTATADA. INCIDÊNCIA DAS SÚMULAS 5, 7 E 83 DO STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL, EM JUÍZO DE RECONSIDERAÇÃO.
