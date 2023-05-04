@@ -1,0 +1,6 @@
+DECISÃO
+Por meio da Petição n. 238.130/2022 (fl. 1.665), o requerente Leonardo Pereira dos Santos alega desistir do presente recurso de agravo, porque já foi julgado pelo Tribunal do Júri de Samambaia/DF (fl. 1.665). Deixou de juntar, contudo, qualquer documentação comprobatória.
+Diante desse cenário e para evitar equívocos na prestação jurisdicional, foram solicitadas informações detalhadas ao Juízo do Tribunal do Júri de Samambaia/DF acerca do andamento processual da Ação Penal n. 0709611-39.2020.8.07.0009.
+Em resposta, por meio do Ofício 137/2023 (Of n. 385.167/2023 - fls. 1.687/1.695), o Juí zo de origem informou que, submetidos a julgamento pelo Tribunal do Júri em 26/3/2022, os agravantes foram absolvidos das imputações, tendo a sentença transitado em julgado na mesma data, diante da renúncia ao prazo recursal apresentada pelas partes (fl. 1.688 - grifo nosso), acrescentando que, após as providências de praxe quanto à sentença de absolvição,  ..  autos foram definitivamente arquivados (idem).
+Assim, conforme expressamente requerido, nos termos do art. 34, IX, do RISTJ, homologo o pedido de desistência do recurso em relação ao requerente Leonardo Pereira dos Santos, devendo ser certificado o trânsito em julgado da decisão de fls. 1.557/1.558 (inadmissão do recurso especial pela origem).
+Publique-se.
