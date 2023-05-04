@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo de PAULO RENATO PINHEIRO DE CAMARGO contra decisão proferida no TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ - TJ que inadmitiu o recurso especial interposto com fundamento no art. 105, III, alínea "a", da Constituição Federal - CF, contra acórdão proferido no julgamento de apelação criminal n. 0034784-08.2021.8.16.0014.
+Consta dos autos que o agravante foi condenado pela prática dos delitos tipificados nos arts. 15 da Lei n. 10.826/2003 (disparo de arma de fogo), 150, § 1º, do Código Penal - CP (violação de domicílio), e 163, parágrafo único, III, do CP (dano qualificado), todos em concurso material, às penas de 3 anos de reclusão e 2 anos e 1 mês de detenção, a serem cumpridas em regime inicial semiaberto, além do pagamento de 42 dias-multa, no piso legal (fls. 751/787).
+Recurso de apelação interposto pela defesa foi parcialmente provido para readequar o quantum de aumento das penas (fls. 1059/1086). O acórdão ficou assim ementado:
+"APELAÇÃO CRIME - CRIMES DE DISPARO DE ARMA DE FOGO (ART. 15, DA LEI Nº 10.826/03), E DE VIOLAÇÃO DE DOMICÍLIO E DE DANO QUALIFICADO (ARTS. 150, §1º, E 163, §ÚNICO, INCISO III, AMBOS DO CP) - PROCEDÊNCIA.
+APELO DA DEFESA - 1. PLEITO DE ABSOLVIÇÃO DO DELITO DE DISPARO DE ARMA DE FOGO - IMPOSSIBILIDADE - AUTORIA E MATERIALIDADE DEVIDAMENTE COMPROVADAS - TESTEMUNHO POLICIAL - VALIDADE E RELEVÂNCIA - CRIME DE MERA CONDUTA - PERIGO ABSTRATO - 2. PLEITO DE ABSOLVIÇÃO DO DELITO DE VIOLAÇÃO DE DOMICÍLIO - IMPOSSIBILIDADE - AUTORIA E MATERIALIDADE DEVIDAMENTE COMPROVADAS - CRIME DE MERA CONDUTA - 3. PLEITO DE ABSOLVIÇÃO DO DELITO DE DANO QUALIFICADO - IMPOSSIBILIDADE - AUTORIA E MATERIALIDADE DEVIDAMENTE COMPROVADAS - 4. PLEITO DE DESCLASSIFICAÇÃO DO DELITO TIPIFICADO NO ARTIGO 15, DA LEI Nº 10.826/03, PARA O ARTIGO 12, DA MESMA NORMA - IMPOSSIBILIDADE - DELITO DE DISPARO DE ARMA DE FOGO COMPROVADO - 5. PLEITO PELA REDUÇÃO DO DAS PENAS APLICADAS - CABIMENTO - QUANTUM ADEQUAÇÃO DO DE AUMENTO REALIZADO NA QUANTUM PRIMEIRA E SEGUNDA FASE DA DOSIMETRIA DA PENA - CONSEQUENTEMENTE, READEQUANDO A PENA ACESSÓRIA DE MULTA - 6. PLEITO DE ALTERAÇÃO DO REGIME INICIAL DO CUMPRIMENTO DA PENA DO SEMIABERTO PARA ABERTO - NÃO CABIMENTO - ACUSADO REINCIDÊNTE E PORTADOR DE MAUS ANTECEDENTES - INTELIGÊNCIA DO ARTIGO 33, §2º, ALÍNEA "C" E §3º, DO CP. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+1. Havendo provas e elementos que atestam a prática do delito de disparo de arma de fogo, não há como acolher o pedido de absolvição.
+2. Havendo provas e elementos que atestam a prática do delito de violação, não há como acolher o pedido de absolvição. Ademais, o presente delito é considerado um crime de mera conduta, o qual se consuma com o simples ingresso sem autorização, sendo inviável a alegação de ausência de dolo.
+3. A prova dos autos é adequada a comprovar que o apelante praticou o crime de dano qualificado, inexistindo dúvidas sobre a sua conduta delituosa.
+4. Não se revela possível à desclassificação da conduta descrita no artigo 15, para o contido no artigo 12, ambos da Lei nº 10.826/03, uma vez que houve disparo de arma de fogo.
+5. No caso, é de se adequar a fração utilizada para o aumento da pena na primeira e segunda fase da dosimetria para todos os delitos, tendo como consequência, a diminuição da pena acessória de multa.
+6. Considerando que o acusado é reincidente e a presença de maus antecedentes, não se admite reparo à sentença que fixou o regime semiaberto para início de cumprimento da pena, nos termos do artigo 33, §2º, alínea "c" e §3º, do Código Penal." (fls. 1059/1060).
+Em sede de recurso especial (fls. 1098/1106), a defesa aponta a violação ao art. 150, § 1º, do Código Penal, porque o TJ manteve a condenação pelo crime de violação de domicílio disposto no referido tipo legal, mesmo ante a ausência de dolo na conduta do recorrente.
+Sustenta que o delito em tela é punível apenas a título de dolo e que o elemento subjetivo do tipo não estava presente na mente do agravante quando adentrou na residência de terceiro, motivado que estava somente com o intuito de se evadir da abordagem policial.
+Requer a absolvição do recorrente em relação ao delito do art. 150, § 1º, do Código Penal, ajustando-se a pena privativa de liberdade fixada.
+Contrarrazões do MINISTÉRIO PÚBLICO DO ESTADO DO PARANÁ - MP (fls. 1116/1118).
+O recurso especial foi inadmitido no TJ em razão do óbice da Súmula n. 7 do Superior Tribunal de Justiça - STJ (fls. 1122/1123).
+Em agravo em recurso especial, a defesa impugnou o referido óbice (fls. 1132/1138).
+Contraminuta do Ministério Público (fls. 1146/1148).
+Os autos vieram a esta Corte, sendo protocolados e distribuídos. Aberta vista ao Ministério Público Federal - MPF, este opinou pelo provimento do recurso (fls. 1167/1169).
+É o relatório. Decido.
+Atendidos os pressupostos de admissibilidade do agravo em recurso especial, passa-se à análise do recurso especial.
+Sobre o cerne da controvérsia, o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ manteve a condenação por invasão de domicílio nos seguintes termos do voto do relator (grifos nossos):
+"Quanto à alegação de ausência de dolo no delito de violação de domicílio (fato 02), também não merece prosperar.
+Com relação ao presente delito, tem-se que o apelante confessou em juízo a sua prática, informando que "para fugir da abordagem policial, pulou para o imóvel de um vizinho.", sendo que sua confissão corrobora com as demais provas constantes nos autos.
+O crime em análise tutela a inviolabilidade do domicílio, havendo a sua incidência quando o agente entrar ou permanecer, sem o consentimento de quem possui o direito, em casa alheia ou em suas dependências.
+Ademais, o delito de violação de domicílio é considerado um crime de mera conduta, o qual se consuma com o simples ingresso sem autorização, sendo inviável a alegação de ausência de dolo." (fls. 1071/1072).
+Com efeito, revalorando os fatos e de acordo com o próprio relato da Corte de origem, configurada está a ausência de dolo na conduta, sendo certo que o recorrente apenas "pulou para o imóvel de um vizinho" "para fugir da abordagem policial" (fl. 1072).
+Nesse contexto, a entrada não consentida em domicílio alheio, na hipótese, constitui pos factum impunível, pois ausente, no caso, a vontade livre e consciente de ofender a intimidade ou privacidade de outrem. Nesse sentido:
+RECURSO ESPECIAL. VIOLAÇÃO DE DOMICÍLIO. ART. 150, § 1º, DO CÓDIGO PENAL. FATO PRATICADO EM CONTEXTO DE FUGA DA POLÍCIA, LOGO APÓS COMETIMENTO DE CRIMES DE ROUBO. ELEMENTO SUBJETIVO DO TIPO. AUSÊNCIA. RECURSO ESPECIAL IMPROVIDO.
+1. De acordo com as premissas fáticas delineadas no acórdão, a conduta de invasão de domicílio pelo acusado constituiu pos factum impunível, porquanto o réu teria adentrado na residência da vítima tão somente para fugir da abordagem policial após a prática dos crimes de roubo.
+2. Considerando a fuga engendrada e, não havendo, por parte do acusado, a intenção de entrar ou permanecer, clandestina ou astuciosamente, ou contra a vontade expressa ou tácita de quem de direito, em casa alheia ou em suas dependências, não há falar em condenação pelo crime do art. 150, § 1º, do CP.
+ ..
+4. Recurso especial improvido.
+(REsp n. 1.801.919/DF, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 17/9/2019, DJe de 4/10/2019).
+Necessário, assim, extirpar da condenação do recorrente a pena relativa ao crime de violação de domicílio.
+Destarte, conforme fora disposto no acórdão recorrido à fl. 1081/1086, o recorrente fica condenado somente às penas de 2 anos, 7 meses e 16 dias de reclusão e pagamento de 17 dias-multa (art. 15, da Lei n. 10.826/2003), e 11 meses e 13 dias de detenção e pagamento de 15 dias-multa (art. 163, parágrafo único, III, do CP).
+As penas privativas de liberdade serão cumpridas inicialmente em regime semiaberto, conforme determinado pelas instâncias ordinárias.
+Ante o exposto, conheço do recurso especial e, com fundamento na Súmula n. 568 do STJ, dou-lhe provimento para absolver o recorrente do crime disposto no art. 150, § 1º, do Código Penal, nos termos da fundamentação.
+Publique-se. Intimem-se.
