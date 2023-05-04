@@ -1,0 +1,22 @@
+DECISÃO
+Estes autos foram a mim distribuídos em razão de conexão com o RHC n. 163.116/GO.
+Trata-se de habeas corpus impetrado em favor de Daniel Macedo da Silva, no qual se aponta como órgão coator o Tribunal de Justiça de Goiás (Apelação Criminal n. 5589123.44.2021.8.09.0149 - fls. 508/518).
+Colhe-se dos autos que o Juízo de Direito da 2ª Vara Criminal da comarca de Trindade/GO condenou o ora paciente como incurso no art. 155, §§ 1º e 4º, I, II e IV, do Código Penal, à pena de 5 anos de reclusão, a ser inicialmente cumprida em regime fechado, além do pagamento de 40 dias-multa (fls. 391/397).
+O Tribunal de origem, por sua vez, deu parcial provimento à apelação interposta pela defesa, a fim de, afastado o reconhecimento da causa de aumento relativa ao repouso noturno e corrigida a pena-base, reduzir a reprimenda a 2 anos e 6 meses de reclusão, a ser inicialmente cumprida em regime semiaberto, além do pagamento de 13 dias-multa.
+Nesta Casa, a defesa pretende, em síntese, no âmbito liminar, a suspensão dos efeitos da condenação até o julgamento final do writ; e, no mérito, concedida ou não a liminar, seja reconhecida a ilegalidade do acórdão a fim de, à luz do art. 44, § 3º, do CP, aplicar a substituição por pena restritiva de direitos, que só é vedada diante da reincidência específica, sendo, por isso, possível aplicá-la nos termos da disposição mencionada (fl. 10).
+É o relatório.
+Verifico, de plano, a inviabilidade do presente writ.
+Com efeito, o acórdão impugnado não concedeu ao ora paciente a pretendida substituição da pena privativa de liberdade por restritivas de direitos, ante o não preenchimento dos requisitos imprescindíveis à concessão do benefício, uma vez que o recorrente é possuidor de maus antecedentes (fl. 515).
+Ora, no caso, a pena-base foi fixada acima do mínimo legal, tendo em vista a análise desfavorável de 3 vetoriais, a saber, os antecedentes do réu, as circunstâncias e as consequências do delito (fl. 514). Dessa for ma, o Tribunal de origem decidiu em harmonia com a jurisprudência desta Corte, firmada no sentido de que o art. 44, III, do Código Penal, estabelece que será admitida a conversão da pena corporal por restritiva de direitos se "a culpabilidade, os antecedentes, a conduta social e a personalidade do condenado, bem como os motivos e as circunstâncias indicarem que essa substituição seja suficiente. No caso em análise, tendo sido reconhecidas circunstâncias judiciais desfavoráveis ao agravante, tanto que a pena-base foi fixada acima do mínimo legal, não é admissível a concessão do benefício (AgRg no HC n. 789.043/SC, Ministro Ribeiro Dantas, Quinta Turma, DJe 20/3/2023 - grifo nosso).
+No mesmo sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. FURTO QUALIFICADO E PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. REGIME INICIAL. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. REPRIMENDA DEFINITIVA IGUAL A 4 ANOS. SEMIABERTO. ADEQUABILIDADE (ART. 33 DO CP). SUBSTITUIÇÃO DA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. MEDIDA QUE NÃO SE MOSTRA SOCIALMENTE RECOMENDÁVEL (ART. 44, III, DO CP). CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+1. Deve ser mantida a decisão na qual se indefere liminarmente a impetração quando não evidenciado o constrangimento ilegal alegado na inicial, em especial quando a via eleita é utilizada como forma de revisar a condenação imposta pelas instâncias ordinárias.
+2. A exasperação da pena-base, no caso, com a negativação do vetor personalidade do agente, autoriza o agravamento do regime inicial e o indeferimento da substituição da pena privativa de liberdade por restritiva de direitos.
+3. Agravo regimental improvido.
+(AgRg no HC n. 771.788/SP, de minha relatoria, Sexta Turma, DJe 15/12/2022).
+Reitero que não há como determinar a substituição da pena privativa de liberdade por restritiva de direitos, por ausência de cumprimento do requisito subjetivo (circunstância judicial desfavorável, com a fixação da pena-base acima do mínimo legal - art. 44, III, do Código Penal) - (AgRg no AREsp n. 1.058.790/MS, Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 2/8/2018, DJe 9/8/2018) - (AgRg no HC n. 527.992/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 9/12/2019).
+Ante o exposto, indefiro liminarmente o writ.
+Publique-se.
+EMENTA
+HABEAS CORPUS. FURTO TRIPLAMENTE QUALIFICADO. CONDENAÇÃO. PRETENSÃO DE SUBSTITUIÇÃO DA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. IMPOSSIBILIDADE. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. PRECEDENTES. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Writ liminarmente indeferido.
