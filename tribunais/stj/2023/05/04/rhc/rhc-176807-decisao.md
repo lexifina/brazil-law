@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por Antonio Rinaldo Valerio contra acórdão proferido pela Sétima Câmara Criminal do Tribunal de Justiça de Minas Gerais.
+Consta dos autos que o recorrente foi denunciado como incurso no art. 171, § 3º, do Código Penal, por ter, como Vice-Prefeito e Chefe imediato do corréu, concorrido para o fato de ele não ter comparecido ao trabalho na Prefeitura Municipal, como Chefe de Gabinete por, pelo menos, 243 dias (fls. 20/23).
+Em sede de habeas corpus (Habeas Corpus Criminal n. 1.0000.22.283418-6/000), a defesa requereu o trancamento da Ação Penal n. 5010167-95.2022.8.13.0223. A Sétima Câmara Criminal do Tribunal de Justiça de Minas Gerais denegou a ordem (fls. 11.134/11.138). Esta, a ementa do julgado (fl. 11.134):
+HABEAS CORPUS. ESTELIONATO. TRANCAMENTO DA AÇÃO PENAL. NÃO CABIMENTO. EXAME APROFUNDADO DE PROVAS. CONSTRANGIMENTO ILEGAL. NÃO CONFIGURADO. ORDEM DENEGADA.
+- O trancamento da Ação Penal é medida de exceção, devendo ser adotada somente quando for comprovada, de plano, a atipicidade da conduta, causa extintiva da punibilidade ou ausência de indícios mínimos de autoria.
+- Ordem denegada.
+No presente recurso, a defesa aponta ausência de provas para o prosseguimento da ação penal. Afirma que o servidor em questão não se apropriou dos salários e que não fornecer sua contraprestação em serviços não configura um ilícito penal, mas apenas administrativo. Requer, diante disso, o trancamento da ação penal (fls. 11.148/11.162).
+Parecer ministerial opinando pelo desprovimento do recurso (fls. 11.171/11.174).
+É o relatório.
+Verifica-se no processo conexo um pedido de desistência (Desis no RHC n. 175.081/MG), por ter, após a instrução processual (Ação Penal n. 5010167-95.2022.8.13.0223), nas alegações finais, o representante do Ministério Público pedido que o pleito fosse julgado improcedente para absolver o ora corréu.
+Na denúncia, consta que o recorrente, na qualidade de Vice-Prefeito do mu nicípio de Divinópolis/MG, nomeou o corréu para cargo em comissão em relação ao qual deixou de cumprir minimamente sua jornada de trabalho. Concorreu, assim, para que o corréu obtivesse em benefício próprio, vantagem ilícita, consistente no recebimento de remuneração sem exercício de trabalho, em prejuízo do Município de Divinópolis/MG, mantendo-o em erro, ao, maliciosamente, não informar as faltas ao serviço público (fl. 21).
+No pedido de desistência feito no processo conexo (RHC n. 175.081/MG), a defesa do corréu afirmou que, além de o fato ser atípico, o Ministério Público não conseguiu "fazer a prova" que ele não cumpria a carga h orária no exercício da função pública de Chefe de Gabinete do Vice-Prefeito de Divinópolis/MG. No entanto, o presente processo diz respeito ao Vice-Prefeito e some nte no curso da ação penal é que as provas serão devidamente avaliadas, tendo a defesa garantidos os princípios da ampla defesa e do contraditório. Não há como, em sede de recurso ordinário, esta Corte Superior interromper o prosseguimento da ação penal, uma vez que não está presente flagrante ilegalidade ao recorrente ou ausência de justa causa.
+Nesse sentido:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ESTELIONATO. NOMEAÇÃO DE FUNCIONÁRIO-FANTASMA PARA FINS DE APROPRIAÇÃO DA REMUNERAÇÃO. ALEGAÇÃO DE ATIPICIDADE DA CONDUTA. PLEITO DE ABSOLVIÇÃO. REVOLVIMENTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. O contexto delineado pelas instâncias ordinárias difere da conduta atípica do servidor público que se apropria de salários, mas não presta serviços. Houve conluio entre os réus desde a nomeação com finalidade de apropriação da remuneração do cargo público sem a prestação laboral, inclusive com falsas informações em folhas de ponto (fl. 740). Conclusão diversa que demanda o revolvimento das provas carreadas aos autos, procedimento sabidamente inviável na instância especial. Inafastável, assim, a aplicação do enunciado n. 7 da Súmula desta Corte.
+2. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.087.070/SP, Ministro Joel Ilan Paciornik, Quinta turma, DJe 14/2/2023)
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. SUPOSTA PRÁTICA DE ESTELIONATO. PLEITO DA DEFESA PELO TRANCAMENTO DA AÇÃO PENAL. ALEGAÇÃO DE IMPOSSIBILIDADE DE PROSSEGUIMENTO. SITUAÇÃO ADMINISTRATIVA. ALEGAÇÃO DE ATIPICIDADE DA CONDUTA. INDÍCIOS DE AUTORIA E MATERIALIDADE. REEXAME FÁTICO-PROBATÓRIO. DEVIDO O PROSSEGUIMENTO PARA MELHOR ANÁLISE DOS FATOS E PROVAS.
+Recurso em habeas corpus improvido.
