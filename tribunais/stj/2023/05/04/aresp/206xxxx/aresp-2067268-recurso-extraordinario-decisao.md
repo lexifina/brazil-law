@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso extraordinário (fls. 658-667) interposto por ELIAS DE BITENCOURT LIMA, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça que recebeu a seguinte ementa (fls. 622-623):
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INCLUSÃO EM PAUTA E INTIMAÇÃO PARA SUSTENTAÇÃO ORAL. ART. 7º, § 2º-B, DO ESTATUTO DA OAB. AUSÊNCIA DE PREVISÃO LEGAL. TRÁFICO DE DROGAS. INVASÃO DE DOMICÍLIO. FUNDADAS RAZÕES. NULIDADE DA PROVA. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. AGRAVO DESPROVIDO.
+1. Não há previsão legal para realização de sustentação oral em sede de julgamento de agravo em recurso especial. Isto porque, mesmo com a recente alteração promovida pela Lei 14.365/2022 no Estatuto da Advocacia, não houve a inclusão da referida espécie recursal dentre as quais seria possível a realização de sustentação oral. Precedentes.
+2. Na esteira do decidido em repercussão geral pelo Pleno do Supremo Tribunal Federal, no julgamento do RE n. 603.616 - Tema 280/STF - para a adoção da medida de busca e apreensão sem mandado judicial, faz-se necessária a caracterização de justa causa, consubstanciada em razões as quais indiquem a situação de flagrante delito.
+3. Conforme expressamente destacado pelo acórdão impugnado, no caso em apreço, o flagrante do crime de tráfico com respectiva apreensão das drogas, pelos policiais militares, ocorreu do lado externo do imóvel, situação diferente daquela narrada no RE 603.616/RO, em que os agentes estatais ingressam no imóvel do suspeito, sem autorização judicial, e lá são apreendidas as provas do crime.
+4. Nesse contexto, para a alteração do julgado, a fim de reconhecer que as provas do crime imputado ao réu foram produzidas a partir do ingresso desautorizado dos agentes policiais em seu domicílio, seria necessário o aprofundado reexame dos elementos fáticos e probatórios dos autos, o que não é possível nesta via especial, nos termos da Súmula 7/STJ.
+5. Agravo regimental desprovido.
+Os embargos de declaração opostos na sequência foram rejeitados (fls. 645-653).
+O recorrente sustenta, no recurso extraordinário, que teria havido violação do art. 5º, XI, da CF e que a matéria tratada seria dotada de repercussão geral.
+Nesse sentido, defende, em suma, que (fl. 661):
+A garantia da inviolabilidade do domicílio resta prevista no art. 5º, XI, da Constituição Federal, sendo que no caso em apreço foi violada por agentes do estado (policiais militares), quando prenderam o recorrente em flagrante delito dentro dos limites da sua residência, em período noturno, sem que houvesse fundadas razões, ao terem encontrado, segundo os policias e após revista, 22 gramas de crack.
+Nesse caso em concreto, a afirmação da prova ilícita e discussão constitucional estão diretamente vinculada na violação do domicílio (art. 5º, XI, CF), ante a ausência de ordem judicial para que houvesse ingresso na residência, bem como ausência de fundadas razões (justa causa). Mantida a possibilidade, como consta na decisão recorrida, em que pese um direito e garantia constitucional, torna a previsão legal sem validade e incerta, principalmente em razão da ilicitude não poder ficar estritamente adstrita a localização ou não de ilícito.
+Acrescenta a necessidade de reconhecimento da nulidade das provas obtidas com a consequente absolvição do recorrente.
+Requer, ao final, a admissão do recurso, bem como a remessa ao Supremo Tribunal Federal.
+Contrarrazões apresentadas às fls. 673-682.
+É o relatório.
+Como relatado, o pronunciamento recorrido concluiu pelo não preenchimento dos pressupostos de admissibilidade do recurso anteriormente dirigido ao Superior Tribunal de Justiça.
+Tal fato ocorreu porque, no julgado recorrido, foi mantida a conclusão pelo não conhecimento do recurso especial, em face do óbice da Súmula n. 7/STJ.
+Como se vê, o mérito do recurso especial não chegou a ser apreciado, diante de insuperável óbice processual, impeditivo do próprio conhecimento do recurso.
+Segundo o STF, a não superação do que fora decidido no pronunciamento recorrido acerca dos pressupostos de conhecimento do recurso da competência de outro tribunal, como ocorreu neste caso, inviabiliza o exame do recurso extraordinário pela própria Corte Suprema, qualquer que seja a suscitada violação da Constituição Federal, consoante a tese fixada no Tema n. 181 da repercussão geral, que vale transcrever:
+A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral (RE n. 598.365-RG/MG).
+Nesse sentido, eventual ofensa à Carta Magna, se existente, seria apenas indireta ou reflexa, entendendo o Excelso Pretório que "carece de repercussão geral a discussão acerca dos pressupostos de admissibilidade de recursos da competência de cortes diversas" (ARE n. 1.227.415-AgR, relator Ministro Edson Fachin, Segunda Turma, DJe de 21/5/2021), até mesmo quando alegada a ofensa ao art. 105, III, da Constituição da República (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+Esse é também o consolidado entendimento do STJ sobre a questão, havendo reiterado desprovimento dos agravos que impugnam decisões de aplicação do Tema n. 181/STF, como bem exemplifica o precedente a seguir:
+Tratando-se de recurso extraordinário contra acórdão que não ultrapassou o juízo de admissibilidade, fica inviabilizado o exame das questões constitucionais suscitadas em face da inexistência de repercussão geral.
+(AgInt no RE nos EDcl no AgInt no AREsp n. 1.342.377/SP, relatora Ministra Maria Thereza de Assis Moura, DJe de 13/9/2019.)
+Assim, destituída de repercussão geral a questão relativa aos pressupostos de admissibilidade de recurso anterior, conforme entendimento do STF de observância obrigatória (CPC, art. 927, III, parte final), o recurso extraordinário não comporta seguimento.
+Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. RECURSO ESPECIAL NÃO CONHECIDO. TEMA N. 181/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. NEGATIVA DE SEGUIMENTO.
+1. "A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral" (Tema n. 181/STF).
+2. Não preenchidos os pressupostos de admissibilidade do recurso especial, deve ser adotada (CPC, art. 927, III) a tese fixada no Tema n. 181/STF, ainda que se queira, no recurso extraordinário, discutir o mérito da causa ou os fundamentos que impediram o conhecimento do recurso.
+3. Recurso extraordinário a que se nega seguimento, nos termos do art. 1.030, I, a, do CPC.
