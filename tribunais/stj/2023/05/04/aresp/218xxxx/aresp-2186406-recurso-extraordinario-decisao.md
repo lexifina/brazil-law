@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso extraordinário (fls. 550-566) interposto por LINDOMAR MOREIRA DA PENHA JÚNIOR, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça que recebeu a seguinte ementa (fl. 540):
+PROCESSUAL CIVIL E CONSUMIDOR. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C INDENIZAÇÃO POR DANOS MORAIS. INSCRIÇÃO NOS CADASTROS DE PROTEÇÃO AO CRÉDITO. PAGAMENTOS NÃO PROVADOS. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL. SÚMULA 284. FUNDAMENTO DA DECISÃO DE INADMISSIBILIDADE INATACADO. SÚMULA 182/STJ.
+1. Na hipótese dos autos, o decisum objurgado inadmitiu o Recurso Especial sob o seguinte fundamento: "Mediante análise dos autos, verifica-se que incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente deixou de indicar precisamente os dispositivos legais federais que teriam sido violados ou quais dispositivos legais seriam objeto de dissídio interpretativo, ressaltando que a mera citação de artigo de lei na peça recursal não supre a exigência constitucional."
+2. Nas razões do Agravo Interno, verifica-se que a parte agravante deixou de impugnar a decisão recorrida, não evidenciando o dispositivo de lei federal que entende ter sido violado, limitando-se a reafirmar os argumentos do Recurso Especial.
+3. Dessa maneira, é aplicável por analogia a Súmula 182/STJ, que dispõe ser "inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". Nesse sentido: Ag 961.515/RJ, Segunda Turma, Relator Ministro Castro Meira, DJ de 19.12.2007; e Ag 945.531/RS, Segunda Turma, Relator Ministro Humberto Martins, DJ de 12.12.2007.
+4. Agravo Interno não conhecido.
+A parte recorrente sustenta, no recurso extraordinário, ter havido violação do art. 5º, LIV e LV, da CF e ser a matéria tratada dotada de repercussão geral.
+Alega cuidar-se de demanda que almeja a condenação por danos morais e materiais, decorrentes de negativação indevida em órgãos de proteção ao crédito. Nesse contexto, afirma que a parte recorrida teria apresentado em sua contestação faturas de cobrança que não lhe teriam sido enviadas, fato que teria sido alertado em sua réplica.
+S ustenta que, mesmo tendo requerido a produção de provas, a lide foi julgada de modo antecipado, o que, no seu entender, causou violação dos princípios do devido processo legal, do contraditório e da ampla defesa, corroborada pelas decisões anteriores proferidas no feito, inclusive por esta Corte.
+Requer, ao final, a admissão do recurso, bem como a remessa ao Supremo Tribunal Federal.
+Contrarrazões apresentadas às fls. 591-597.
+É o relatório.
+Como relatado, o pronunciamento recorrido concluiu pelo não preenchimento dos pressupostos de admissibilidade do recurso anteriormente dirigido ao Superior Tribunal de Justiça.
+Tal fato ocorreu porque, no julgado recorrido, não se conheceu do agravo interno pela incidência do óbice da Súmula n. 182/STJ. Desse modo, manteve-se incólume a decisão monocrática que conheceu do agravo para não conhecer do recurso especial, ante a deficiência de sua fundamentação, a ensejar a aplicação da Súmula n. 284/STF.
+Como se vê, o mérito do recurso especial não chegou a ser apreciado, diante de insuperável óbice processual, impeditivo do próprio conhecimento do recurso.
+Segundo o STF, a não superação do que fora decidido no pronunciamento recorrido acerca dos pressupostos de conhecimento do recurso da competência de outro tribunal, como ocorreu neste caso, inviabiliza o exame do recurso extraordinário pela própria Corte Suprema, qualquer que seja a suscitada violação da Constituição Federal, consoante a tese fixada no Tema n. 181 da repercussão geral, que vale transcrever:
+A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral (RE n. 598.365-RG/MG).
+Nesse sentido, eventual ofensa à Carta Magna, se existente, seria apenas indireta ou reflexa, entendendo o Excelso Pretório que "carece de repercussão geral a discussão acerca dos pressupostos de admissibilidade de recursos da competência de cortes diversas" (ARE n. 1.227.415-AgR, relator Ministro Edson Fachin, Segunda Turma, DJe de 21/5/2021), até mesmo quando alegada a ofensa ao art. 105, III, da Constituição da República (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+Esse é também o consolidado entendimento do STJ sobre a questão, havendo reiterado desprovimento dos agravos que impugnam decisões de aplicação do Tema n. 181/STF, como bem exemplifica o precedente a seguir:
+Tratando-se de recurso extraordinário contra acórdão que não ultrapassou o juízo de admissibilidade, fica inviabilizado o exame das questões constitucionais suscitadas em face da inexistência de repercussão geral.
+(AgInt no RE nos EDcl no AgInt no AREsp n. 1.342.377/SP, relatora Ministra Maria Thereza de Assis Moura, DJe de 13/9/2019.)
+Assim, destituída de repercussão geral a questão relativa aos pressupostos de admissibilidade de recurso anterior, conforme entendimento do STF de observância obrigatória (CPC, art. 927, III, parte final), o recurso extraordinário não comporta seguimento.
+Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. RECURSO ESPECIAL NÃO CONHECIDO. TEMA N. 181/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. NEGATIVA DE SEGUIMENTO.
+1. "A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral" (Tema n. 181/STF).
+2. Não preenchidos os pressupostos de admissibilidade do recurso especial, deve ser adotada (CPC, art. 927, III) a tese fixada no Tema n. 181/STF, ainda que se queira, no recurso extraordinário, discutir o mérito da causa ou os fundamentos que impediram o conhecimento do recurso.
+3. Recurso extraordinário a que se nega seguimento, nos termos do art. 1.030, I, a, do CPC.
