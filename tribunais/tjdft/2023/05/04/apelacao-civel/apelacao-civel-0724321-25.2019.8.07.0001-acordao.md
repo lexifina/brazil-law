@@ -1,0 +1,131 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+5ª Turma Cível
+Processo N.APELAÇÃO CÍVEL 0724321-25.2019.8.07.0001APELANTE(S)JFE 2 EMPREENDIMENTOS IMOBILIARIOS LTDA (EM RECUPERAÇÃO JUDICIAL)APELADO(S)CONDOMINIO DO EDIFICIO FUSION WORK & LIVE e JOÃO FORTES ENGENHARIA S.A (EM RECUPERAÇÃO JUDICIAL)RelatorDesembargador FÁBIO EDUARDO MARQUES
+ Acórdão Nº1708449
+
+EMENTA
+
+ p{text-align: justify;}
+APELAÇÃO CÍVEL. CONTRATO DE EMPREITADA. VÍCIOS DE CONSTRUÇÃO. DECADÊNCIA. INAPLICABILIDADE. PRESCRIÇÃO DECENAL. MÉRITO. OBRIGAÇÃO DE RESULTADO DO EMPREITEIRO. LAUDO PERICIAL. DEMONSTRAÇÃO DA RESPONSABILIDADE. SUCUMBÊNCIA RECÍPROCA. SENTENÇA MANTIDA.
+1. O prazo previsto no caput do art. 618 do Código Civil é um prazo de garantia, e não prazo decadencial ou prescricional. Não se refere, portanto, a um prazo para que seja proposta eventual ação de ressarcimento.
+1.1.  É assente na jurisprudência que "no caso de reparação civil fundada em relação contratual estabelecida entre as partes, com verificação de vício na construção, o prazo prescricional para exercício do direito de ação é de dez anos, nos termos do art. 205 do CC/2002? (AgInt no AREsp 125.934/SP, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 22/05/2018, DJe 29/05/2018).
+2. A empreitada pode ser conceituada como o contrato pelo qual uma pessoa se obriga a fazer e entregar certo e determinado produto, corpóreo ou incorpóreo, a outra mediante contraprestação pecuniária, na forma, tempo e lugar fixado pelas partes. Nesse contexto, a obrigação do empreiteiro é de resultado, no sentido de que assume o dever de entregar ao dono da obra o que foi encomendado na forma definida no contrato e segundo as regras técnicas, somente podendo ser escusado de tal responsabilidade por fato exclusivo do dono da obra, caso fortuito, ou força maior. Doutrina.
+3. Na espécie, há vasto conjunto probatório a indicar a responsabilidade dos réus pelos vícios construtivos emergenciais (objeto dos autos n. 0724321-25.2019.8.07.0001) e não emergenciais (objeto dos autos n. 0726397-22.2019.8.07.000) no empreendimento imobiliário do autor.
+4. A distribuição dos ônus na sucumbência recíproca deve ser pautada pelo exame do número de pedidos formulados e da proporcionalidade do decaimento de cada uma das partes em relação a cada um desses pleitos. Precedentes do STJ
+5. Apelação dos autores conhecida e não provida. Apelação dos réus conhecida e não provida.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 5ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, FÁBIO EDUARDO MARQUES - Relator, JOÃO LUIS FISCHER DIAS - 1º Vogal e ANA CANTARINO - 2º Vogal, sob a Presidência da Senhora Desembargadora ANA CANTARINO, em proferir a seguinte decisão: CONHECER. REJEITAR A PREJUDICIAL. NEGAR PROVIMENTO A AMBOS OS RECURSOS. UNÂNIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 11 de Maio de 2023
+
+Desembargador FÁBIO EDUARDO MARQUESRelator
+
+RELATÓRIO
+
+p{text-align: justify;}
+Cuida-se de apelações interpostas em face de sentença (id. 36256040 dos autos n. 0724321-25.2019.8.07.0001 e id. 36139907 dos autos n. 0726397-22.2019.8.07.0001) proferida nos autos das ações de cobrança, cumuladas com obrigação de fazer, ajuizadas por CONDOMÍNIO DO EDIFÍCIO FUSION WORK & LIVE contra JOÃO FORTES ENGENHARIA S.A (Em Recuperação Judicial) e JFE 2 EMPREENDIMENTOS IMOBILIÁRIOS LTDA.
+Na origem, o autor afirmou que o condomínio edilício foi edificado e incorporado pelos réus. Destacou diversos vícios construtivos no imóvel, fato que culminou no ajuizamento do processo n. 0033750-62.2016.8.07.0001, com o objetivo de ser ressarcido por despesas tidas com reparos urgentes e com caráter estrutural.
+Pontuou que os vícios não se esgotaram naquele feito, com a necessidade de nova demanda judicial (autos n. 0724321-25.2019.8.07.0001), no intuito de ser ressarcido pelos seguintes gastos: (I) a contratação de perícia diagnóstica, (II) a contratação de serviços de reparo na tubulação de bombas, (III) os serviços de reparos no sistema de pressurização, (IV) os serviços de conserto e substituição de disjuntores do edifício e (V) a contratação de Empresa para realizar a reforma de 59 (cinquenta e nove) itens referentes a cobertura técnica do Condomínio Fusion Work & Live.
+Quanto à ação n. 0726397-22.2019.8.07.0001, o autor ressaltou novas desconformidades no edifício, o que demandou a contratação de empresa especializada para realizar inspeção. Na ocasião, constatou-se que existem 318 (trezentas e dezoito) não conformidades com as normas técnicas, das quais 59 (cinquenta e nove) são tratadas naqueles autos. Assim, pretendeu-se a cominação para que os réus promovam os reparos necessários para sanar os demais vícios.
+O Juízo a quo julgou parcialmente procedentes os pedidos, para condenar os réus a ressarcirem, solidariamente, o autor na quantia de R$ 55.620,62 (cinquenta e cinco mil seiscentos e vinte reais e sessenta e dois centavos), atinentes às despesas emergenciais tidas com o reparo do sistema de pressurização, da tubulação de bombas hidráulicas e do sistema de energia elétrica (autos. 0724321-25.2019.8.07.0001). No tocante aos autos n. 0726397-22.2019.8.07.0001, houve julgamento de parcial procedência, com vistas a condenar os réus a sanar os vícios construtivos designados em laudo pericial (id. 36139758).
+RECORREM AMBAS AS PARTES.
+Em suas razões recursais (apresentada de forma conjunta em ambos os processos), JFE 2 EMPREENDIMENTOS IMOBILIÁRIOS LTDA suscita prejudicial de decadência (art. 618 do CC), porque ultrapassado o lapso quinquenal entre a aparição dos vícios construtivos da expedição da Carta de Habite-se em 05.05.2014.  No mérito, afirma que o empreendimento imobiliário foi concluído sem qualquer problema em sua edificação, de modo que os vícios descritos foram decorrência da falta de manutenção por parte do autor-apelado. Pontua que “a expedição da Carta de Habite-se significa atestar que o empreendimento foi concluído e que se encontra em plenas condições de habitabilidade.” Relata, por fim, a inviabilidade econômica para pagamento do decreto condenatório, uma vez que encontra-se em recuperação judicial (autos n. 0085645- 87.2020.8.19.0001 perante a 4ª Vara Empresarial do Rio de Janeiro/RJ).
+O autor interpôs apelação (id. 36139919) nos autos do processo n. 0726397-22.2019.8.07.0001. Destaca que a relação jurídica firmada com os réus é de consumo, e, como tal, não poderia recair sobre si o ônus probatório quanto à desconformidade em se “realizar o revestimento da sauna para evitar infiltrações nos cômodos adjacentes (desconformidade n. 60)”. Pontua ser dos réus o ônus de comprovar que o vício identificado é exclusivamente decorrente de falta de manutenção. Insurge-se ainda quanto à verba sucumbencial e à sua distribuição.
+Contrarrazões (id. 36256052 dos autos º 0724321-25.2019.8.07.0001. e id. 36139927 dos autos n. 0726397-22.2019.8.07.0001) pelo desprovimento dos recursos, bem como pelo desentranhamento de documento novo, juntado somente em fase recursal.
+É o relatório.
+
+VOTOS
+
+O Senhor Desembargador FÁBIO EDUARDO MARQUES - Relator
+
+Inicialmente, não conheço de documento trazido nas apelações dos réus (id. 36139913 dos autos 0726397-22.2019.8.07.0001 e id. 36256046 dos autos 0724321-25.2019.8.07.0001), destinado a comprovar fato antigo não articulado antes da sentença, haja vista a inobservância ao art. 434 e, sobretudo, ao art. 435, parágrafo único, ambos do CPC.
+
+Com efeito, independentemente da possiblidade ou não do acesso aos documentos no curso da instrução processual, o suposto fato que a parte pretende comprovar com os documentos já era conhecido antes da sentença, não se tratando, portanto, de fato novo que só pudesse ser alegado e comprovado nesta sede recursal.
+
+No mais, presentes os pressupostos de admissibilidade, conheço das apelações interpostas por ambas as partes.
+
+Ante a intrínseca relação entre os presentes autos, em especial pelo conjunto probatório comum a ambos, far-se-á o julgamento em conjunto.
+
+PREJUDICIAL DE MÉRITO
+
+Cinge-se a controvérsia em aferir a responsabilidade dos réus por vícios construtivos em contrato de empreitada.
+
+Os réus apelantes suscitam a prejudicial de decadência, uma vez que houve o transcurso do prazo quinquenal entre a expedição da carte de habite-se (05.05.2014) e o ajuizamento das presentes demandas. Destacam, por oportuno, a aplicação do art. 618 do Código Civil, ao estabelecer que “Nos contratos de empreitada de edifícios ou outras construções consideráveis, o empreiteiro de materiais e execução responderá, durante o prazo irredutível de cinco anos, pela solidez e segurança do trabalho, assim em razão dos materiais, como do solo.”
+
+Sucede que o prazo previsto no caput do art. 618 do Código Civil é um prazo de garantia, e não prazo decadencial ou prescricional. Não se refere, portanto, a um prazo para que seja proposta eventual ação de ressarcimento.
+
+A respeito do tema, aliás, ensina Sérgio Cavalieri Filho[1]: “Trata-se, portanto, de uma garantia legal e de ordem pública, não somente ao proprietário, mas também, e principalmente, à sociedade em geral. Durante cinco anos o construtor fica adstrito a assegurar a solidez e a segurança da construção, respondendo pelos vícios e defeitos que se manifestarem nesse prazo, bem como por qualquer dano que a obra causar a terceiros”. No mesmo sentido, o enunciado n. 181 da III da Jornada de Direito Civil: “O prazo referido no art. 618, parágrafo único, do Código Civil refere-se unicamente à garantia prevista no caput, sem prejuízo de poder o dono da obra, com base no mau cumprimento do contrato de empreitada, demandar perdas e danos”
+
+A presente pretensão condenatória está sujeita a prazo prescricional, cujo termo inicial para sua fluência é a data do conhecimento do fato - teoria da actio nata subjetiva. Não por outro motivo, já se posicionou este eg. Tribunal:
+
+AGRAVO DE INSTRUMENTO. PROCESSO CIVIL E CIVIL. AÇÃO DE OBRIGAÇÃO DE FAZER. VÍCIOS DE CONSTRUÇÃO. DECADÊNCIA. INAPLICABILIDADE. RECURSO DESPROVIDO. 1)    O prazo previsto no caput do art. 618 do Código Civil é um prazo de garantia, e não prazo decadencial ou prescricional. Não se refere, portanto, a um prazo para que seja proposta eventual ação de ressarcimento. O art. 618, parágrafo único, previu um prazo decadencial para o exercício do direito previsto no caput. 2)    A ação condenatória está sujeita a prazo prescricional cujo termo inicial para sua fluência é a data do conhecimento do fato (teoria da actio nata). 3)    Agravo de instrumento desprovido. (AGI 0746645-75.2020.8.07.0000, Rel. Des. Hector Valverde, 5ª Turma Cível, julgado em: 3/2/2021)
+
+De mais a mais, é assente na jurisprudência que "no caso de reparação civil fundada em relação contratual estabelecida entre as partes, com verificação de vício na construção, o prazo prescricional para exercício do direito de ação é de dez anos, nos termos do art. 205 do CC/2002? (AgInt no AREsp 125.934/SP, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 22/05/2018, DJe 29/05/2018).
+
+Assim, rejeito a prejudicial.
+
+MÉRITO
+
+Inicialmente, há de se destacar a inaplicabilidade das regras do Código de Defesa do Consumidor à espécie, pois está ausente o conceito de consumidor final. Do mesmo modo, não se constata a aplicabilidade da teoria finalista mitigada, tendo em vista a inocorrência de vulnerabilidade do autor em face dos réus.
+
+De acordo com precedente deste E. Tribunal, “Evidenciado que o mobiliário fornecido pela empresa autora destinou-se ao incremento da atividade econômica desenvolvida pela empresa ré, não se encontra caracterizada a relação de consumo de modo a justificar a incidência das normas do Código de Defesa do Consumidor” (APC 0726788-11.2018.8.07.0001, Rel. Desembargadora Nídia Corrêa Lima, 8ª Turma Cível, julgado em: 25/3/2020, DJE: 4/5/2020).
+
+Com efeito, a empreitada pode ser conceituada como o contrato pelo qual uma pessoa se obriga a fazer e entregar certo e determinado produto, corpóreo ou incorpóreo, a outra mediante contraprestação pecuniária, na forma, tempo e lugar fixado pelas partes. Nesse contexto, aponta Flávio Tartuce que “a obrigação do empreiteiro é de resultado, no sentido de que assume o dever de entregar ao dono da obra o que foi encomendado na forma definida no contrato e segundo as regras técnicas, somente podendo ser escusado de tal responsabilidade por fato exclusivo do dono da obra, caso fortuito, ou força maior” (TARTUCE, Flávio. Manual de direito civil: Volume Único. – 8. ed. rev, atual. e ampl. – Rio de Janeiro: Forense; São Paulo: MÉTODO, 2018).
+
+A respeito do tema, confira-se aresto deste eg. Tribunal:
+
+PROCESSO CIVIL E CIVIL. CONTRATO DE EMPREITADA. RESPONSABILIDADE CIVIL. FISSURAS. RACHADURAS. IMÓVEL APÓS O TÉRMINO DAS OBRAS. ATO ILÍCITO. ÔNUS DA PROVA. NÃO COMPROVAÇÃO. 1. O contrato de obra ou de empreitada é o negócio jurídico bilateral por meio do qual o empreiteiro assume obrigação de resultado, mediante pagamento. Essa vinculação negocial só se exaure com a entrega do objeto do contrato. Pode ser celebrado com ou sem o fornecimento de materiais pelo contratante, nos termos dos artigos 610 e 612 do Código Civil. 2. A ausência de comprovação da conduta lesiva, da ocorrência do dano e o nexo causal entre eles inviabiliza o pedido de indenização.    3. O autor deve comprovar os fatos constitutivos do alegado direito, a ausência de provas que fundamentem as alegações afasta a possibilidade de indenizar por lucros cessantes e compensação por danos morais ( Art. 373, inc. I, CPC).   4. A Certidão de Ônus do imóvel com registro do "habite-se" não se presta a demonstrar a responsabilidade civil pela má execução da obra, apenas comprova a propriedade do imóvel e a conclusão da obra aos olhos da Administração Pública. 5. Recurso conhecido e desprovido. (APC 0706270-14.2020.8.07.0006, Relator Desembargadora: Maria de Lourdes Abreu, 3ª Turma Cível, julgado em: 25/8/2022, DJE: 15/9/2022)
+
+Na espécie, há vasto conjunto probatório a indicar a responsabilidade dos réus pelos vícios construtivos emergenciais (objeto dos autos n. 0724321-25.2019.8.07.0001) e não emergenciais (objeto dos autos n. 0726397-22.2019.8.07.000) no empreendimento imobiliário do autor.
+
+O laudo de vistoria (id. 36255811 dos autos 0724321-25.2019.8.07.0001 e id. 36139605 dos autos 0726397-22.2019.8.07.000) indica as incorreções na estrutura predial e expõe com detalhes as razões pelas quais há a falta de segurança e solidez no condomínio edilício construído. Do mesmo modo, o laudo técnico pericial elaborado (id. 36255945 dos autos 0724321-25.2019.8.07.0001 e id. 36139757 nos autos n. 0726397-22.2019.8.07.000) conclui que “o pedido autoral procede parcialmente em relação às não conformidades listadas na sua petição inicial”.
+
+Nesse contexto, diferentemente do que expõem os réus, a expedição da Carta de Habite-se não ilide eventual responsabilidade civil advinda da má execução imobiliária. Isso porque eventuais vícios comprometem a própria solidez da construção, sendo responsabilidade do empreiteiro a sua solução. Tal ponto, aliás, foi expressamente apontado o laudo técnico pericial (id. 36139757 p. 84):
+
+Resposta ao Quesito nº 03 Em princípio, a concessão do Habite-se pelo Poder Público configura que o empreendimento foi executado conforme os projetos aprovados e encontra-se em condições de habitabilidade. Por outro lado, a Carta de Habite-se não afasta eventual responsabilidade civil do construtor ou incorporador, seja pela possibilidade de falhas nas vistorias realizadas, seja porque existem vícios de construção que somente são identificados com o decurso do tempo, seja porque recai sobre o construtor ou incorporador e não sobre o Poder Público a responsabilidade pela reparação de danos decorrentes de sua conduta.” Sublinhado
+
+A respeito do tema, este eg. Corte também já se posicionou, ao afirmar que “Cuidando-se de recente projeto de construção civil, cujos danos detectados por perícia judicial se referem à própria estrutura da construção do prédio, deverá a ré responder pela realização ou indenização dos reparos necessários. (…) A aprovação da construção pelos diferentes órgãos da Administração Pública, a existência de Habite-se, bem como a realização de prévia vistoria do representante do Condomínio não são circunstâncias capazes de afastar a responsabilidade civil da construtora pela solidez e segurança da obra” (APC 0710836-37.2019.8.07.0007, Rel. Des. Arquibaldo Carneiro Portela, 8ª Turma Cível, julgado em: 4/8/2022, DJE: 17/8/2022).
+
+Cabe ainda ressaltar que não prospera a tese recursal dos réus, ao tentar imputar a responsabilidade dos vícios construtivos em decorrência da “falha na manutenção periódica pelo autor”. As indicações feitas no apelo (id. 36139912 p. 10-12 dos autos 0726397-22.2019.8.07.000) não permitem que se estabeleça nexo de causalidade entre os pontos ali indicados e os vícios configurados. A bem da verdade, percebe-se que os réus selecionaram parágrafos pontuais do laudo de vistoria, com vistas a retirar do contexto a responsabilidade que lhes cabe.
+
+Nesses termos, portanto, escorreita a sentença ao imputar a obrigação de ressarcimento.
+
+A pretensão recursal do autor (id. 36139919 dos autos 0726397-22.2019.8.07.000) insurge-se em decorrência do não acolhimento do pedido de ressarcimento quanto à impermeabilização da sauna no empreendimento imobiliário. De acordo com o apelo, foi imposto um ônus demasiadamente elevado ao autor, ao se exigir que comprovasse que o vício construtivo não decorreu de falha na manutenção.
+
+Com efeito, o Código de Processo Civil (art. 373) distribui o ônus probatório de acordo com a natureza do fato a se comprovar: ao autor cumpre provar a alegação que concerne ao fato constitutivo do direito por ele afirmado; ao réu, a alegação de fato impeditivo, modificativo ou extintivo do direito afirmado pelo autor.
+
+Assim, como regra de julgamento, o ônus da prova é tido pela doutrina como imperfeito, pois, nem sempre a parte que tinha a atribuição de provar será colocada em uma situação de desvantagem processual. É preciso realizar o cotejo do contexto probatório dos autos, a fim de que, também com base em regra de conduta das partes, possa o julgar firmar sobre quem recairá o ônus.
+
+Na espécie, conforme bem destacado em sentença ao fazer referência ao laudo pericial (id. 36139785 dos autos 0726397-22.2019.8.07.000), “as áreas comuns do Edifício Fusion Work & Live foram recebidas em 02/12/2014, ou seja, há mais de seis anos. A partir dessa data, o Condomínio assumiu a gestão da edificação, que está ocupada e sendo utilizada regularmente, requerendo, portanto, manutenção preventiva permanente e manutenção corretiva periódica. Ora, todos sabemos que o microclima de uma sauna é excessivamente úmido, com grande possibilidade de provocar infiltrações em cômodos vizinhos (como, nesse caso, o cômodo de exaustão), se as intervenções de manutenção preventiva e / ou corretiva não forem procedidas a tempo e a hora. E na consideração deste Perito, foi o que o que muito provavelmente deve ter ocorrido nesse caso”
+
+Logo, cabia ao próprio autor demonstrar que os vícios construtivos na sauna não foram oriundos da falta de manutenção, nos termos do art. 373, caput, CPC.
+
+Por fim, não prospera também a tese recursal do autor quanto à distribuição do ônus de sucumbência.
+
+Deveras, em conformidade com o art. 85, caput, do CPC, há uma ordem preferencial quanto ao parâmetro a ser utilizado para fixação dos honorários de sucumbência. Em primeiro lugar, deve ser utilizado o valor da condenação. Em segundo, para o caso de sentenças não condenatórias, o critério será o do proveito econômico alcançado com a ação. E, em terceiro, quando não for possível mensurar o proveito econômico, deve ser considerado o valor atualizado da causa como balizador dos honorários.
+
+De todo modo, seja em qual parâmetro for, certo o é que a sucumbência recíproca (art. 86 do CPC) faz-se presente no caso, pois a distribuição do ônus sucumbencial está relacionada com a quantidade de pedidos requeridos na demanda e o decaimento proporcional das partes em relação a cada pleito. Assim, o acolhimento de apenas alguns dos pedidos dentre os vários realizados implica sucumbência recíproca (REsp 1.646.192/PE, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 21/03/2017, DJe 24/03/2017).
+
+Portanto, nos termos do art. 86 do CPC, e tendo em vista que o autor não obteve êxito em todos os seus pedidos, adequada a sentença na proporção fixada na verba de sucumbência. Do mesmo modo, não se está diante de quantia ilíquida, sendo inviável que se cogite o cálculo sucumbencial somente quando do cumprimento de sentença.
+
+Assim, mantém-se incólume decisão a quo.
+
+Nego provimento à apelação do autor nos autos do processo n. 0726397-22.2019.8.07.0001.
+
+Nego provimento à apelação dos réus, interposta de forma conjunta nos autos do processo n. 0724321-25.2019.8.07.0001 e 0726397-22.2019.8.07.0001.
+
+Majoro os honorários advocatícios em 1%, nos termos do art. 85, § 11, do CPC.
+
+É como voto.
+
+[1] CAVALIERI FILHO, Sergio. Programa de Responsabilidade Civil. 9. ed. São Paulo: Atlas, 2010. p. 366-367
+
+O Senhor Desembargador JOÃO LUIS FISCHER DIAS - 1º Vogal Com o relatorA Senhora Desembargadora ANA CANTARINO - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECER. REJEITAR A PREJUDICIAL. NEGAR PROVIMENTO A AMBOS OS RECURSOS. UNÂNIME.
