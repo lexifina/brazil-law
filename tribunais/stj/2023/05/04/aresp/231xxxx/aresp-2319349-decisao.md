@@ -1,0 +1,42 @@
+DECISÃO
+Cuida-se de agravo apresentado por SOMA-ASSESSORIA DE COBRANCA LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim resumido:
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO REVISIONAL E AÇÃO DE COBRANÇA. CUMPRIMENTO DE SENTENÇA.
+PRESCRIÇÃO INTERCORRENTE. PARA RESTAR CARACTERIZADA A PRESCRIÇÃO INTERCORRENTE NA ESFERA DO PROCESSO CIVIL, FAZ-SE NECESSÁRIO QUE O CREDOR FIQUE INERTE, DEIXANDO DE PRATICAR ATOS PROCESSUAIS, E A AUSÊNCIA DE MOVIMENTAÇÃO PERDURE PELO MESMO PRAZO PRESCRICIONAL INCIDENTE SOBRE A PRETENSÃO DA AÇÃO PRINCIPAL, SÚMULA 150 DO STF. OUTROSSIM, A PRESCRIÇÃO APLICÁVEL É A DECENAL, NOS TERMOS DO ART. 205 DO CC. LOGO, TENDO O FEITO SIDO ARQUIVADO EM 06.12.2006, E A PARTE APELANTE PROTOCOLADO PETIÇÃO DE DESARQUIVAMENTO DO FEITO EM 03.11.2016, NÃO HÁ FALAR EM PRESCRIÇÃO INTERCORRENTE. PORTANTO, CABE AFASTAR A PRESCRIÇÃO E DETERMINAR O RETORNO DOS AUTOS À ORIGEM PARA REGULAR PROSSEGUIMENTO DO FEITO.
+Quanto à controvérsia recursal, alega violação do art. 924, V, do CPC, no que concerne à necessidade de declaração da ocorrência de prescrição intercorrente pela inércia da parte recorrida em promover medidas para a busca da satisfação do seu crédito, trazendo os seguintes argumentos:
+Como se vê o acórdão recorrido violou frontalmente o artigo 105, III, alínea "a" da Carta Magna, ao negar vigência ao disposto no artigo 924, inciso V do NCPC.
+Excelências, a execução em testilha foi arquivada em data de 14/12/2006 por inércia do banco recorrido, conforme certidão de fls. 184-v dos autos.
+Decorridos 09 anos e 03 meses após o arquivamento do feito, o banco decorrido peticionou em data de 31/03/2016 requerendo o seu desarquivamento, conforme fls. 185 dos autos.
+Cumpre gizar que neste momento o banco recorrido não tomou nenhuma medida prática na busca da satisfação do seu crédito.
+recorrido peticionou requerendo novamente o desarquivamento do feito, com o fim de extrair cópias necessárias para encerramento administrativo do processo junto aos sistemas do exequente, conforme fls. 191 dos autos, sendo que NOVAMENTE o banco recorrido não tomou nenhuma medida prática na busca da satisfação do seu crédito.
+Em data de 25/01/2018 foi disponibilizada a Nota de Expediente nº 127/2018 informando que os autos desarquivados estavam à disposição do banco recorrido, conforme fls. 196 dos autos.
+Posteriormente, em data de 18/02/2021 o banco recorrido peticionou às fls. 197 dos autos, postulando pela 3ª VEZ pelo desarquivamento dos autos, OU SEJA, DEIXOU TRANSCORRER MAIS 03 (TRÊS) ANOS sem promover atos executórios ou demonstrar a busca de bens.
+SOMENTE em data de 18/06/2021, o banco recorrido peticionou às fls. 200 dos autos, requerendo o prosseguimento do feito com pedido de envio pelo sistema INFOJUD à Receita Federal para obtenção de informações.
+Nesta senda Excelências, temos que, NA PRÁTICA, desde o momento do arquivamento do feito em 14/12/2006 até a petição apresentada pelo banco recorrido em 18/06/2021, TRANSCORRERAM 14 ANOS E 06 MESES sem que o banco decorrido adotasse diligências para o êxito da execução.
+ ..
+O FATO DO BANCO RECORRIDO, TER PETICIONADO PEDINDO O DESARQUIVAMENTO DO FEITO ANTES DE TER DECORRIDO O PRAZO PRESCRICIONAL DE 10 ANOS - O QUE OCORREU, REPITA-SE, 09 ANOS E 03 MESES APÓS O ARQUIVAMENTO DO FEITO - NÃO TEM O CONDÃO DE INTERROMPER O PRAZO PRESCRICIONAL.
+Excelências, pensar de modo diverso dá azo à uma verdadeira ETERNIZAÇÃO do feito executivo, na medida, em que o exequente pode a cada período aproximado de 09 anos, simplesmente peticionar requerendo o desarquivamento do feito, não proceder à nenhuma diligência para êxito da execução e depois deixar o feito ser novamente arquivado, única e exclusivamente, para que não ocorra o implemento do lustro prescricional.
+Excelências, o exequente deve manejar o processo com o objetivo do seu impulsionamento, com a promoção de atos executórios ou a inequívoca demonstração de busca de bens, adotando diligências para o êxito da execução e NÃO COMO UMA ETERNIZAÇÃO DO FEITO EXECUTIVO, fazendo com que o litígio perdure indefinidamente.
+Nesta senda, resta clarividente que houve a ocorrência da prescrição intercorrente, pela inação do banco recorrido.
+Por todo o aqui exposto, temos que a decisão ora recorrida vulnerou o disposto no artigo 924, inciso V do NCPC (fls. 459-462).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+No caso, trata-se de cumprimento de sentença relativo a ação revisional julgada em conjunto com ação de cobrança, de modo que, como bem referido na sentença, o prazo prescricional para o direito material aplicável é o decenal, previsto no caput do art. 205 do atual Código Civil.
+Compulsando os autos, observa-se que a parte apelante requereu o cumprimento de sentença em 07.11.2005, apresentando o valor que entendia como devido (Processo Judicial 4 - fl. 42).
+Diante disso, o processo foi redistribuído como cumprimento de sentença em 10.06.06 (Processo Judicial 5 - fl. 11), e a parte apelada foi intimada para o pagamento espontâneo da condenação, em 15 dias (Processo Judicial 5 - fl. 12).
+Tendo decorrido o prazo in albis, foi determinada a intimação da parte apelante para dizer sobre o prosseguimento do feito (Processo Judicial 5 - fl. 15).
+Assim, não tendo esta se manifestado, o feito foi arquivado em 06.12.2006 (Processo Judicial 5 - fl. 20).
+No entanto, em 29.02.2016 s parte apelante manifestou-se, juntando procuração e substabelecimento, bem como comunicando a revogação do mandato dos procuradores anteriormente constituídos (Processo Judicial 5 - fl. 21), sendo que, em 13.05.2016 juntou comprovante de custas referentes ao desarquivamento (Processo Judicial 5 - fl. 25). Em 03.11.2016, requereu o desarquivamento dos autos (Processo Judicial 5 - fl. 29).
+Em 15.02.2021, a parte apelante manifestou-se requerendo, mais uma vez, o desarquivamento do feito (Processo Judicial 5 - fl. 34).
+Todavia, o Juízo de origem referiu que, em nenhum momento, desde 2006, foi requerido pela parte apelante o prosseguimento do feito, intimando-a para se manifestar a respeito da ocorrência da prescrição intercorrente (Processo Judicial 5 - fl. 40), tendo ela defendido que não restou configurada a prescrição intercorrente (Processo Judicial 5 - fls. 45-50).
+Sobreveio a sentença.
+Com efeito, conforme informado anteriormente, a parte apelante manifestou-se pelo desarquivamento do feito em 03.11.2016 (Processo Judicial 5 - fl. 29). Ou seja, antes da implementação do prazo prescricional, visto que este fora arquivado em 06.12.2006.
+Logo, não implementado o prazo prescricional acima referido, qual seja, dez anos entre a data do arquivamento do feito e o pedido de seu desarquivamento, o provimento do recurso com a desconstituição da sentença é medida que se impõe.
+Nesse sentido, já decidiu este Colegiado:
+ ..
+Portanto, é de ser dado provimento ao recurso para afastar a prescrição reconhecida (fls.428-429).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "Tendo o Tribunal local concluído pela não ocorrência da prescrição intercorrente, a revisão de tal entendimento demandaria o reexame do conjunto fático-probatório dos autos, providência vedada nesta instância especial, nos termos da Súmula 7/STJ." (AgInt nos EDcl no REsp n. 1.610.751/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 25/10/2021, DJe de 28/10/2021.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
