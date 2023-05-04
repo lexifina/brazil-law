@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de agravo interposto por Petróleo Brasileiro S.A. Petrobras contra a decisão de fls. 533-535 (e-STJ), proferida em juízo prévio de admissibilidade, na qual foi negado seguimento ao recurso especial.
+O recurso especial foi deduzido em desafio aos acórdãos de fls. 416-427 e 460-467 (e-STJ), prolatados pelo Tribunal de Justiça do Estado do Mato Grosso do Sul, assim ementados:
+AGRAVO DE INSTRUMENTO - AÇÃO DE RESCISÃO CONTRATUAL C/C REINTEGRAÇÃO DE POSSE - DESMOBILIZAÇÃO DE EQUIPAMENTOS - MANDADO DE CONSTATAÇÃO - CONFIRMAÇÃO DE QUE AS ESTRUTURAS (ESCORAS) ESTÃO SERVINDO COMO OBJETO DA OBRA - AUDIÊNCIA DE CONCILIAÇÃO DESIGNADA - OBJETIVO DE PROPORCIONAR A RESOLUÇÃO DO CONFLITO DE FORMA CÉLERE - AGRAVANTE QUE ESTÁ SE BENEFICIANDO E USUFLUINDO OS BENS SEM O RESSARCIMENTO PELO USO - DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS - RECURSO CONHECIDO E DESPROVIDO.
+EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CÍVEL - INEXISTÊNCIA DOS VÍCIOS INSERTOS NO ART. 1.022 DO CPC - REDISCUSSÃO DA MATÉRIA - MERO INCONFORMISMO - PREQUESTIONAMENTO - DESNECESSIDADE - EMBARGOS REJEITADOS. Inexistentes os vícios contidos no art. 1.022, do CPC, de omissão, obscuridade ou contradição, e/ou eventual erro material, rejeitam-se os aclaratórios. Se o acórdão está suficientemente fundamentado e não há qualquer omissão ou contradição, a oposição de embargos declaratórios por mero inconformismo e rediscussão da matéria desvirtua a finalidade do recurso, motivo pelo qual devem ser rejeitados
+Nas razões do recurso especial (e-STJ, fls. 469-476), apontou a insurgente a existência de violação dos arts. 139, III e IV, 300, 141, 414, 489, § 1º, 492 e 1.022 do CPC/2015. Sustentou, em síntese: i) ocorrência de negativa de prestação jurisdicional; ii) ausência dos requisitos do art. 300 do CPC/2015; e iii) ocorrência de julgamento extra petita.
+Contrarrazões às fls. 499-521 (e-STJ).
+A Corte de origem deixou de admitir o recurso ao argumento de incidência das Súmulas 7 e 83/STJ.
+Daí o presente agravo, no qual a insurgente contesta a aplicação dos óbices.
+Contraminuta às fls. 548-557 (e-STJ).
+Brevemente relatado, decido.
+Primeiramente, tratou-se o recurso sobre a ocorrência de negativa de prestação jurisdicional. Defendeu a recorrente que o Tribunal de origem foi omisso sobre os seguintes pontos: ausência dos requisitos do art. 300 do CPC/2015; extrapolação dos limites da lide, tendo em vista a inexistência de pedido em face da recorrente; e falta de coerência da ordem judicial, uma vez que nem todos os equipamentos da autora estão servindo de escora.
+Observa-se que, de fato, a Corte local não se manifestou sobre dois dos pontos listados, a saber, ausência dos requisitos do art. 300 do CPC/2015; e falta de coerência da ordem judicial, uma vez que nem todos os equipamentos da autora estão servindo de escora.
+Embora a recorrente tenha provocado o Tribunal estadual através dos aclaratórios (e-STJ, fls. 537-544), este permaneceu silente, conforme se nota da ementa acima colacionada.
+Com efeito, inarredável a conclusão de ofensa ao art. 1.022 do Código de Processo Civil de 2015, haja vista que, independentemente do acerto ou não das teses invocadas, elas deveriam ser analisadas pela Corte de origem.
+Saliente-se, oportunamente, que o direito ao provimento jurisdicional claro, coerente e congruente é corolário do devido processo legal, contido no inciso LIV do art. 5º da Constituição Federal. É, portanto, elemento do núcleo intangível da ordem constitucional brasileira, a que o julgador deve integral obediência.
+A análise das demais teses recursais se mostra prejudicada diante da necessidade de novo pronunciamento sobre os embargos de declaração.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial, a fim de, reconhecida a violação do art. 1.022 do CPC/2015, determinar ao tribunal de origem que realize novo julgamento dos embargos de declaração, devendo se pronunciar, como entender de direito, sobre as relevantes questões que lhe foram submetidas pela parte embargante.
+Fiquem as partes cientificadas de que a apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL C/C REINTEGRAÇÃO DE POSSE. AGRAVO DE INSTRUMENTO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL VERIFICADA. ANÁLISE DAS DEMAIS TESES PREJUDICADA. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
