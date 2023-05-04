@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Daniel Terra de Farias Ramos, apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo (HC n. 2043931-19.2023.8.26.0000).
+Narram os autos que o paciente foi condenado à pena de 4 anos e 2 meses de reclusão, em regime fechado, e ao pagamento de 416 dias-multa, pela suposta prática do delito capitulado no art. 33, caput, da Lei n. 11.343/2006, sendo-lhe negado o direito de apelar em liberdade.
+Neste mandamus, o impetrante sustenta, em síntese, ausência de fundamentos concretos para manutenção da prisão cautelar, na sentença condenatória, pois a gravidade abstrata do crime, por si só, não justifica a custódia.
+Menciona que deveria ser imposto regime de cumprimento de pena menos gravoso, uma vez que o paciente fez jus à minorante prevista no art. 33, § 4º, da Lei de Drogas.
+Requer, inclusive em liminar, a substituição da prisão do paciente por medidas cautelares diversas.
+Deferida a liminar, prestadas as informações de praxe, foi noticiado que o paciente recorreu da sentença proferida aos 28/2/2023, com contrarrazões apresentadas às fls. 260/262, aos 14/3/2023 (fl. 54).
+O Ministério Público Federal opinou, pelas palavras do Subprocurador-Geral da República João Pedro de Saboia Bandeira de Mello Filho, pela denegação da ordem (fls. 61/66).
+É o relatório.
+In casu, a liminar deve ser confirmada.
+Ao vedar o direito de recorrer em liberdade, disse o Magistrado o seguinte (fl. 32 - grifo nosso): fixo o regime inicial fechado para o cumprimento da pena, não podendo o réu apelar em liberdade, observando-se a gravidade do delito pelo qual está sendo condenado, bem como o fato de que permaneceu preso durante toda a instrução criminal, devendo a prisão cautelar ser mantida como forma de garantia à ordem pública e para assegurar a aplicação da Lei Penal, observando-se que, uma vez em liberdade, o réu colocaria em risco toda a população ordeira do Município e região, principalmente os mais jovens, sendo certo, ainda, que o tráfico de drogas é crime grave, equiparado a hediondo, que fomenta a prática de crimes violentos, muitas vezes praticados com armas de fogo, contra o patrimônio e, até mesmo, contra a vida, colocando em risco toda a sociedade.
+A Corte estadual concordou com os fundamentos apresentados na instância de origem.
+A decisão de prisão preventiva, por sua vez, não traz elementos concretos capazes de impedir a liberdade do paciente (fls. 22/23). Ademais, foram apreendidas com ele, aproximadamente, 891,84 g de maconha (fl. 27).
+Assim, não obstante a pena aplicada, tem-se que a sentença que manteve a prisão preventiva do paciente não encontra motivação nem fundamentação idôneas, já que mantém a prisão preventiva pela única razão de ter o réu respondido preso ao processo, em violação dos arts. 312 e 315, § 1º e § 2º, III, todos do CPP.
+Nesse sentido, a propósito, a prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP). Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP) - (RHC n. 134.492/MG, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 28/10/2020).
+Ante o exposto, concedo a ordem, a fim de, confirmando-se a medida liminar, permitir que o paciente aguarde em liberdade o julgamento da apelação criminal, salvo se por outro motivo estiver preso e ressalvada a possibilidade de haver decretação de prisão, caso se apresente motivo concreto para tanto, impondo-lhe, por ora, a medida cautelar prevista no art. 319, I, do Código de Processo Penal (comparecimento periódico em juízo, no prazo e nas condições fixadas pela autoridade judicial, para informar e justificar as atividades). Advirta-se o réu da necessidade de sua permanência no distrito da culpa, atendendo aos chamamentos judiciais.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. DIREITO DE RECORRER EM LIBERDADE. FUNDAMENTAÇÃO GENÉRICA. CONSTRANGIMENTO ILEGAL EVIDENTE. LIMINAR CONFIRMADA.
+Ordem concedida nos termos do dispositivo.
