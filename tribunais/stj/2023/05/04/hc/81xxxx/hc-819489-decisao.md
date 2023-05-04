@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim ementado (fl. 17):
+TRÁFICO DE ENTORPECENTES. Autoria e materialidade delitivas bem comprovadas, sobretudo pelos relatos dos policiais que participaram da diligência que culminou com a apreensão de drogas na posse do acusado. Condenação mantida. Penas que devem ser revistas, nos termos do apelo ministerial, para cancelamento da aplicação do redutor do artigo 33, § 4º, da Lei nº 11.343/06. Acusado que, embora por fato posterior, registra outra condenação definitiva pelo crime de tráfico, o que demonstra dedicação ao comércio ilícito. Regime fechado necessário. Impossibilidade de substituição da pena corporal por restritivas de direitos. Recurso defensivo improvido, acolhido o apelo ministerial para cancelamento do redutor e majoração das penas.
+Colhe-se dos autos que o paciente foi condenado à pena de 1 ano e 8 meses de reclusão, em regime inicial fechado, e 166 dias-multa, como incurso no artigo 33, caput, e § 4º, da Lei n. 11.343/2006.
+O Tribunal de origem deu provimento ao apelo ministerial para afastar o redutor do artigo 33, § 4º, da Lei n. 11.343/2006, majorar as penas do acusado a 5 anos de reclusão, em regime fechado, e 500 dias-multa, restando mantida, no mais, a sentença impugnada.
+O impetrante sustenta que a quantidade total de substancia entorpecente apreendida foi de 32 gramas, ou seja, não caracteriza alta quantidade, não podendo impedir a aplicação do tráfico privilegiado.
+Afirma que um dos processos utilizados para afastar a minorante não se trata do processo relacionado ao paciente e o outro trata-se de delito cometido posterior aos autos em discussão.
+Requer, liminarmente e no mérito, a aplicação da causa de diminuição do art. 33, § 4º, da Lei n. 11.343/2006, em seu grau máximo.
+Em consulta aos assentamentos eletrônicos desta Corte Superior, verifica-se que foi impetrado o HC n. 616.617/SP com o mesmo paciente e contra o mesmo acórdão destes autos, questionando a aplicação da causa de diminuição do art. 33, § 4º, da Lei nº 11.343/06. No citado mandamus, em decisão do Min. rel. Nefi Cordeiro, DJe 16/11/2020, a matéria foi apreciada tendo sido denegado o habeas corpus.
+Incide, portanto, na hipótese, o disposto no art. 210 do Regimento Interno desta Corte, segundo o qual "quando o pedido for manifestamente incabível, ou for manifesta a incompetência do Tribunal para dele tomar conhecimento originário, ou for reiteração de outro com os mesmo fundamentos, o relator o indeferirá liminarmente."
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se
