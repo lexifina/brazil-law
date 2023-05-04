@@ -1,0 +1,2 @@
+Altera a Lei nº 12.715, de 17 de setembro de 2012, para prorrogar a faculdade de dedução do imposto sobre a renda dos valores correspondentes a doações e patrocínios em prol de ações e serviços do Programa Nacional de Apoio à Atenção Oncológica (Pronon) e do Programa Nacional de Apoio à Atenção da Saúde da Pessoa com Deficiência (Pronas/PCD).
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu promulgo, nos termos do parágrafo 5º do art. 66 da Constituição Federal, a seguinte Lei:
