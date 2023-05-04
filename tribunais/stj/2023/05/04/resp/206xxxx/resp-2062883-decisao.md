@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de recurso especial interposto por CAMARGO CORREA DESENVOLVIMENTO IMOBILIARIO S.A. (CAMARGO), com fundamento no art. 105, III, alínea a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, da relatoria do Des. JOÃO PAZINE NETO, assim ementado:
+Ação de indenização por danos materiais e morais. Contrato de compromisso de cessão de direitos de unidade autônoma e outros pactos. Sentença "ultra petita" não evidenciada.
+Adequado apenas o período da mora, diante do pedido formulado. Interesse de agir dos Autores verificado. Prazo de tolerância de 180 dias. Validade (Súmula 164 do TJSP).
+Atraso na entrega do imóvel. Mora que somente pode ser atribuída à Ré. Alegada culpa dos Autores pelo atraso na entrega das chaves. Fato não comprovado. Lucros cessantes.
+Incidência da Súmula 162 do TJSP e da tese fixada pelo STJ (Tema 996). Valor indenizatório fixado em 0,5% que incidirá sobre o valor do contrato atualizado. Expedição do "habite- se" que não se confunde com a entrega das chaves (Súmula 160 do TJSP). Período de incidência dos lucros cessantes corretamente delimitado pela r. sentença. Sentença de parcial procedência mantida. Honorários sucumbenciais majorados para 15% do valor da condenação (art. 85, § 11, do CPC).
+Recurso não provido, com observação (e-STJ, fl. 266).
+Os embargos de declaração opostos por CAMARGO foram rejeitados (e-STJ, fls. 277/280).
+Nas razões do presente recurso, CAMARGO alegou violação aos arts. 186, 393, caput e parágrafo único, 402, 403 e 927, parágrafo único, todos do CC, sustentando (1) que a demora na entrega do imóvel decorreu das chuvas fora do normal como a escassez de mão de obra no seguimento da construção civil; e (2) não ser cabível a exigência de pagamento de lucros cessantes, porquanto a parte recorrida não teria comprovado qualquer dano, além da circunstância de o patamar de 0,5% (meio por cento) ao mês revelar-se excessivo.
+Apresentas contrarrazões, o recurso foi admitido (e-STJ, fls. 304/306).
+É o relatório.
+DECIDO.
+O inconformismo não merece prosperar.
+(1) Do prazo para a conclusão das obras
+No caso, ao julgar o recurso de apelação interposto por CAMARGO, o Tribunal de Justiça de São Paulo atribuiu, exclusivamente, a ora recorrente a responsabilidade pelo atraso na entrega do imóvel, consoante a fundamentação a seguir:
+Era obrigação da Apelante entregar o imóvel no prazo, a fim de possibilitar a devida ocupação pelos compradores, sem que isso possa ser protelado indefinidamente. Entraves administrativos não eximem a vendedora de sua responsabilidade de entregar o imóvel em perfeitas condições de uso pelo adquirente.
+Nesse sentido, o enunciado da Súmula 161, desse TJSP: "Não constitui hipótese de caso fortuito ou de força maior, a ocorrência de chuvas em excesso, falta de mão de obra, aquecimento do mercado, embargo do empreendimento ou, ainda, entraves administrativos. Essas justificativas encerram "res inter alios acta" em relação ao compromissário adquirente".
+Nesses termos, a responsabilidade pela demora na entrega do imóvel deve ser imputada à Ré, anotado apenas que, em que pese tenha constado da petição inicial o pedido de lucros cessantes pelo período de 13 meses (pág. 21), restou evidenciado o atraso por culpa da Ré em período maior. No entanto, os próprios Autores referem, no item 41 (pág. 14) da petição inicial, que "o atraso da obra ultrapassou, em muito, os 180 (cento e oitenta) dias "contratualmente toleráveis", atingindo 19 (dezenove) meses" (pág. 14) (e-STJ, fl. 270).
+Logo, para ultrapassar a conclusão do acórdão recorrido, a fim de reconhecer que o descumprimento do contrato decorreria de fatores alheios à vontade da empresa, seria necessária o reexame do acervo fático-probatório da causa, o que é vedado nesta sede excepcional, ante o óbice da Súmula n.º 7 do STJ.
+A esse respeito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO. DANOS MATERIAIS E MORAIS. COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA. ILEGITIMIDADE PASSIVA. ATUAÇÃO COLIGADA DAS RÉS. RATEIO EXTRAORDINÁRIO. DEMONSTRAÇÃO. AUSÊNCIA. CONJUNTO FÁTICO-PROBATÓRIO E CLÁUSULAS CONTRATUAIS. REEXAME. IMPOSSIBILIDADE. SÚMULAS NºS 5 E 7/STJ. LUCROS CESSANTES. PREJUÍZO PRESUMIDO. DESPESAS CONDOMINIAIS. RESPONSABILIDADE DA VENDEDORA. EFETIVA POSSE. NECESSIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Na hipótese, acolher a tese pleiteada pela agravante exigiria exceder os fundamentos do acórdão impugnado e adentrar no exame das provas e das cláusulas contratuais, procedimentos vedados em recurso especial, a teor das Súmulas nºs 5 e 7/STJ.
+3. Descumprido o prazo para a entrega do imóvel objeto do compromisso de compra e venda, sobretudo após o esgotamento do período de prorrogação, é cabível a condenação por lucros cessantes, sendo presumido o prejuízo do promissário comprador.
+4. Somente a partir da efetiva posse do imóvel, com a entrega das chaves, passa o adquirente a ter a obrigação de pagar as despesas condominiais, sendo responsabilidade da vendedora até a imissão na posse.
+5. Agravo interno não provido.
+(AgInt no AREsp 1.733.971/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, j. 8/6/2021, DJe 16/6/2021 - sem destaque no original)
+(2) Dos lucros cessantes e do seu valor
+No que se refere ao cabimento de presunção de lucros cessantes em favor do adquirente de unidade imobiliária enquanto perdurar o atraso na entrega do imóvel, verifica-se que o aresto recorrido está em conformidade com a jurisprudência desta Corte, que se orienta no sentido de serem presumidos os lucros cessantes em caso de adiamento na imissão na posse de bem pela incorporadora nos moldes contratados, nos termos das seguintes ementas:
+AGRAVO INTERNO NO RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. TESES JURÍDICAS ACERCA DA IMPUTAÇÃO DA MORA E DA QUALIFICAÇÃO DA PARTE ADVERSA. INOVAÇÃO RECURSAL. NÃO CABIMENTO. ATRASO NA ENTREGA DO BEM. LUCROS CESSANTES. PREJUÍZO PRESUMIDO. PRECEDENTES. REDUÇÃO DO PATAMAR INDENIZATÓRIO. ANÁLISE INVIABILIZADA. DEFICIÊNCIA DO COTEJO ANALÍTICO. AGRAVO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+1. É vedado à parte insurgente, nas razões do agravo interno, apresentar teses que não foram aventadas no momento da interposição do recurso especial, em virtude da preclusão.
+2. A jurisprudência desta Corte Superior é firme no sentido de que, descumprido o prazo para a entrega do imóvel, o prejuízo do comprador é presumido, consistente na injusta privação do uso do bem, a ensejar o pagamento dos lucros cessantes. Esse entendimento, inclusive, vem sendo aplicado por este Colegiado aos casos de atraso na entrega de lote não edificado.
+3. A análise da pretensão de redução do patamar indenizatório, deduzida por meio da alínea c do permissivo constitucional, encontra-se obstada em razão da deficiência do cotejo analítico.
+4. Agravo interno parcialmente conhecido e, nessa extensão, desprovido.
+(AgInt no REsp 1.818.212/SP, Rel. Ministro MARCO AURELIO BELLIZZE, Terceira Turma, j. 22/3/2021, DJe 25/3/2021 - sem destaque no original).
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. COMPRA E VENDA DE IMÓVEL (TERRENO). ATRASO NA ENTREGA DAS OBRAS DE INFRAESTRUTURA DO LOTEAMENTO. RESCISÃO CONTRATUAL. RECURSO DA CORRÉ EMPREENDEDORA. MORA CONFIGURADA. PRESUNÇÃO DE PREJUÍZO. SÚMULA Nº 568 DO STJ. DANO MATERIAL (LUCROS CESSANTES) DEFERIDOS PELA PRIVAÇÃO DO USO DA COISA. FUNDAMENTO NÃO ATACADO. SÚMULA Nº 283 DO STF. GRATUIDADE JUDICIÁRIA. PREPARO EXISTENTE. INCOMPATIBILIDADE DO PEDIDO. PRECEDENTE. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Rever a decisão do Tribunal estadual quanto a responsabilidade da agravante pelo atraso na entrega da obra de infraestrutura em loteamento por ela administrado, esbarra necessariamente no óbice das Súmulas nºs 5 e 7 do STJ. Precedentes.
+3. O STJ firmou o entendimento de que, descumprido o prazo para a entrega do imóvel objeto do compromisso de compra e venda, é cabível a condenação por lucros cessantes, sendo presumido o prejuízo do promissário comprador. Precedentes. Incidência da Súmula Nº 568 do STJ.
+4. Correção, de ofício, de erro material verificado na decisão agravada, no tocante à aplicação do enunciado da Súmula nº 283 do STF, ao caso dos autos.
+5. O entendimento desta Corte Superior consolidou-se no sentido de que o pagamento das custas - como no caso concreto, em que a parte recolheu o preparo do recurso especial - é incompatível com o pedido de gratuidade de justiça.
+6. Agravo interno não provido, com observação.
+(AgInt nos EDcl no REsp 1.866.351/SP, Rel. Ministro MOURA RIBEIRO, Terceira Turma, j. 19/10/2020, DJe 22/10/2020).
+Assim, aplicável, na espécie, a Súmula nº 568 do STJ, segundo a qual, o relator, monocraticamente e no Superior Tribunal de Justiça poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+Em relação ao patamar fixado a título de lucros cessantes, tem-se que a revisão das conclusões alcançadas pela Corte bandeirante constitui providência vedada na via estreita do recurso especial diante do óbice da Súmula 7 do STJ, na esteira do seguinte precedente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. ATRASO NA ENTREGA DE IMÓVEL. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Cuida-se, na origem, de ação de indenização por danos materiais e compensação por danos morais, ajuizada em razão de atraso na entrega de imóvel.
+2. Alterar o decidido no acórdão impugnado, no que se refere à razoabilidade do valor da indenização por lucros cessantes, exige o reexame de fatos e provas, o que é vedado em recurso especial.
+3. Agravo interno não provido.
+(AgInt no REsp 1.846.667/SP, Relª. Ministra NANCY ANDRIGHI, Terceira Turma, j. 11/5/2020, DJe 13/5/2020.)
+Nessas condições, CONHEÇO EM PARTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em desfavor de CAMARGO, limitados a 20%, nos termos do art. 85, § 11, do NCPC.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA DO IMÓVEL. RESPONSABILIDADE PELO INADIMPLEMENTO CONTRATUAL. REVISÃO DO ACERVO FÁTICO DOS AUTOS. SÚMULA N.º 7 DO STJ. LUCROS CESSANTES. PRESUNÇÃO DE EXISTÊNCIA DA LESÃO. SÚMULA Nº 568 DO STJ. VALOR DA VERBA. REEXAME DE PROVAS. DESCABIMENTO. SÚMULA 7 DO STJ. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, NÃO PROVIDO.
