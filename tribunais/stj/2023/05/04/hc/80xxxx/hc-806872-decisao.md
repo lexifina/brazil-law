@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim ementado (fl. 16):
+Apelação. Latrocínio tentado. Condenação em primeira instância. Recurso buscando a absolvição, por insuficiência probatória, ou desclassificação para crime de roubo majorado. Processo Penal. Prova. Indícios múltiplos e concorrentes que apontam para a prática do delito pelos apelantes. Testemunha protegida que reconhece um dos apelantes sem sombra de dúvidas como estando presente nas proximidades da casa da vítima momentos antes da tentativa de latrocínio. Corréu que deu entrada em hospital após ser baleado, em local condizente com o disparo efetuado pela vítima ao se defender, não comprovando sua versão quanto aos disparos que recebeu, tudo a indicar sua participação no crime, demonstrada ainda pelo reconhecimento de testemunha protegida na fase policial. Animus necandi dos réus demonstrado pelos disparos efetuados contra a vítima. Latrocínio caracterizado, ainda que na forma tentada. Condenação de rigor. Penal. Dosimetria. Necessidade de levar em consideração a atenuante da menoridade relativa de um dos réus. Pena reduzida. Recurso de um dos réus parcialmente provido.
+Consta dos autos que o paciente foi condenado como incurso no artigo 157, § 3º, in fine, c/c artigo 14, inciso II c/c artigo 61, inciso II, h, do Código Penal, às penas de 11 anos e 8 meses de reclusão, regime inicial fechado e ao pagamento de 5 dias-multa.
+Sustenta a defesa que a pena-base foi majorada com argumento inidôneo, devendo ser readequada ao patamar de 1/6 acima do mínimo legal.
+Afirma que o regime inicial mais gravoso foi fixado com base na gravidade abstrata do delito e com considerações vagas e genéricas, devendo ser fixado o regime semiaberto ou aberto.
+Requer, liminarmente e no mérito, a concessão da ordem de habeas corpus, para que seja readequada a pena-base do paciente, bem como o regime inicial de cumprimento de pena.
+O pedido liminar foi indeferido.
+As informações foram prestadas.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ.
+O Juiz de primeira instância fundamentou a decisão nos termos seguintes (fls. 33-35):
+ ..  Passo a dosar as penas.
+Os réus não ostentam maus antecedentes. A reprovabilidade de suas condutas é normal para os crimes desta espécie. Não há elementos para aferir se a personalidade e a conduta social dos acusados influenciaram de qualquer forma no propósito criminoso. Assim sendo, atento a essas circunstâncias, fixo a pena base no mínimo legal, em 20 anos de reclusão e pagamento de 10 dias-multa, cada qual fixado em seu mínimo legal.
+Presente a circunstância agravante prevista no artigo 61, inciso II, alínea "h", do Código Penal, majoro a pena imposta no parágrafo anterior em 1/6, alçando-a ao patamar de 23 anos e 04 meses de reclusão e pagamento de 11 dias-multa, cada qual fixado em seu mínimo legal.
+Não há outras agravantes ou circunstâncias atenuantes.
+Na terceira fase da dosimetria, na presença da causa de diminuição de pena prevista no artigo 14, inciso II, do Código Penal, levando-se em consideração o iter criminis percorrido pelos acusados, que esgotaram grande parte dos atos executórios do crime, procedo à diminuição da pena na metade, reduzindo-a para 11 anos e 08 meses de reclusão e pagamento de 05 dias-multa, cada qual fixado em seu mínimo legal.
+À míngua de outros elementos, torno definitiva a pena imposta no parágrafo anterior.
+O regime inicial de cumprimento da pena privativa de liberdade será o fechado, com base no disposto no artigo 33, § 2º, do Código Penal, por se tratar de crime excepcionalmente violento neste pacato Município, cometido em circunstâncias gravosas, em concurso de agentes e com emprego de arma de fogo.
+Inviável a substituição da pena privativa de liberdade por pena restritiva de direitos, uma vez que os requisitos objetivos e subjetivos para a concessão do benefício encontram- se ausentes, não havendo, igualmente, a possibilidade de concessão da suspensão condicional da pena.
+Feitas essas considerações, JULGO PROCEDENTE a pretensão deduzida na denúncia, para:
+ ..
+b) CONDENAR Ulisses Rodrigues Teixeira da Luz, qualificado nos autos, como incurso no artigo 157, § 3º, in fine, c.c. o artigo 14, inciso II e com o artigo 61, inciso II, alínea "h", todos do Código Penal, a pena de 11 anos e 08 meses de reclusão, em regime inicial fechado, e ao pagamento de 05 dias-multa, cujo valor unitário fixo em um trigésimo do salário mínimo federal, corrigido monetariamente desde a data do fato.
+ ..
+O Tribunal de origem fundamentou a decisão nos seguintes termos (fl. 23):
+Destarte, pelo meu voto, proponho que se negue provimento ao recurso de Ulisses e se dê parcial provimento ao recurso de Alan, para o fim de reduzir para dez anos de reclusão, mais cinco dias-multa a pena que lhe foi imposta, mantida, no mais, a r. sentença, e expedindo- se mandado de prisão.
+Consoante a decisão das instâncias de origem o paciente foi condenado como incurso no artigo 157, § 3º, in fine, c/c o artigo 14, inciso II e com o artigo 61, inciso II, alínea h, do Código Penal.
+Na primeira fase da dosimetria, a pena foi fixada no mínimo legal "em 20 anos de reclusão e pagamento de 10 dias-multa", de onde, observa-se, inexistir interesse de agir na presente ação, motivo pelo qual a matéria não será conhecida.
+Outrossim, o Tribunal de origem fixou o regime inicial fechado com fundamento "no artigo 33, § 2º, do Código Penal, por se tratar de crime excepcionalmente violento neste pacato Município, cometido em circunstâncias gravosas, em concurso de agentes e com emprego de arma de fogo" (fl. 34).
+Tal entendimento está em harmonia com a jurisprudência deste Superior Tribunal, que entende que, em razão do disposto no art. 33, §2º, a, o regime fechado é o único possível. Nesse sentido:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. LATROCÍNIO CONSUMADO E LATROCÍNIO TENTADO. VIOLAÇÃO AO PRINCÍPIO DA COLEGIALIDADE. SÚMULA N. 568 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. INOCORRÊNCIA. EVENTUAL VÍCIO SANÁVEL COM JULGAMENTO DO AGRAVO REGIMENTAL. PRELIMINAR REJEITADA. MÉRITO. ABSOLVIÇÃO POR INSUFICIÊNCIA DE PROVAS DA AUTORIA DELITIVA. DOSIMETRIA DA PENA. CONCURSO FORMAL IMPRÓPRIO. NECESSIDADE DE REEXAME APROFUNDADO DE PROVAS. IMPOSSIBILIDADE. ÓBICE DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. REGIME FECHADO. QUANTUM DE PENA. ART. 33, § 2º, "A", DO CÓDIGO PENAL - CP. DETRAÇÃO PENAL. DISSÍDIO PRETORIANO NÃO DEMONSTRADO. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+5. Diante do quantum da pena, o regime fechado é o único possível, ante o disposto no art. 33, § 2º, "a", do CP.
+6. Eventual detração penal não influenciaria na escolha do regime prisional, pois a fixação do regime inicial fechado não decorreu do montante de pena estipulado.
+7. O dissídio pretoriano não foi demonstrado de forma adequada, nos termos do art. 1.029, § 1º, do Código de Processo Civil - CPC e do art. 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça - RISTJ 8. Agravo regimental desprovido. (AgRg no AREsp n. 2.030.498/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 7/2/2023, DJe de 14/2/2023.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. LATROCÍNIO TENTADO E CONSTRANGIMENTO ILEGAL. PRESCRIÇÃO DA PRETENSÃO PUNITIVA DO CRIME DE CONSTRANGIMENTO ILEGAL.
+1. Transcorrido o prazo prescricional a partir do acórdão confirmatório da condenação, cabível a decretação da prescrição da pretensão punitiva em relação ao crime de constrangimento ilegal.
+2. Agravo regimental provido para decretar a extinção da punibilidade do delito tipificado no art. 146, § 1º, do CP, remanescendo a condenação de 10 anos, 7 meses e 15 dias de reclusão e 22 dias-multa, no regime fechado, pela prática do crime previsto no art. 157, § 3º, segunda parte, c/c art. 14, II, do Código Penal. (AgRg no REsp n. 1.967.432/MG, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 4/10/2022, DJe de 7/10/2022.)
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
