@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto contra acórdão assim ementado (fls. 355-356):
+HABEAS CORPUS. ROUBO MAJORADO PELO CONCURSO DE PESSOAS E EMPREGO DE ARMA DE FOGO. JUSTA CAUSA PARA PERSECUÇÃO CRIMINAL. NULIDADE DO RECONHECIMENTO FOTOGRÁFICO DO ACUSADO PELA VÍTIMA. TRANCAMENTO DA AÇÃO PENAL. NECESSIDADE DE INCURSÃO NO CONTEXTO FÁTICO-PROBATÓRIO. INVIABILIDADE DE ANÁLISE PELA VIA MANDAMENTAL. ORDEM CONHECIDA E DENEGADA.
+I. Conforme entendimento jurisprudencial pacífico, o trancamento da ação penal por meio do habeas corpus somente é cabível quando houver comprovação, de plano, da atipicidade da conduta supostamente praticada pelo investigado, da ausência de indícios de autoria e materialidade delitivas ou, ainda, da incidência de causa de extinção da punibilidade.
+II. No caso em exame, constata-se que a denúncia preenche os requisitos do art. 41 do Código de Processo Penal, com a descrição dos fatos, a classificação do crime, a qualificação dos acusados e a apresentação do rol de testemunhas, sendo suficiente para dar início à persecução penal na via judicial, bem como para o pleno exercício da defesa, evidenciando a justa causa para deflagração da demanda, restando inviável, neste momento processual, o trancamento do feito.
+III. A alegada nulidade do reconhecimento fotográfico é matéria inadmissível de discussão na via impugnativa, pois, para isso, necessário seria o sopesar de provas e avaliação de fatos, inconciliável com o trâmite do writ.
+IV. Caracteriza verdadeira supressão de instância a análise de nulidade quando a matéria se encontra pendente de apreciação pelo juízo de base, não sendo o writ via adequada para acelerar o processamento de feitos e decisões de competência da instância inferior.
+V. Ordem conhecida e denegada.
+Consta dos autos que o paciente está preso preventivamente como incurso no art. 157, §2º, II e §2-A, I, do Código Penal.
+Sustenta a defesa que o recorrente está acautelado desde 8/5/2022, "sendo mantida a prisão preventiva em processo que não obteve o reconhecimento pelo art. 226 do CPP, havendo ainda falhas estruturais na peça inquisitorial" (fl. 380).
+Alegou que o acórdão acrescentou fundamentação àquela esposada pela primeira instância no que se refere à prisão preventiva (fls. 382-383).
+Requer, liminarmente, o provimento ao recurso em habeas corpus, para que seja concedida liberdade provisória até o julgamento da presente ordem e, no mérito, a nulidade procedimental por ausência de cumprimento ao disposto nos artigos 226 e 228, trancando a ação penal e declarando nulo o acervo probatório decorrente.
+Em consulta ao sistema processual eletrônico desta Corte Superior, verificou-se que o decreto de prisão preventiva foi analisado no RHC n. 168.286, Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), DJe de 04/11/2022, tendo sido verificada sua legalidade. Ademais, no acordão ora impugnado, o tema da prisão preventiva não é tratado, de forma que não existe interesse de agir do impetrante nesse caso.
+Por fim , as teses relativas ao reconhecimento fotográfico e ao trancamento da ação penal, sob a perspectiva da nulidade apontada, não foram analisadas pelo Tribunal de origem, conforme se verifica do inteiro teor do acórdão impetrado (fls. 354-363), razão pela qual o writ não pode ser, nesse ponto, reconhecido, sob pena de indevida supressão de instância.
+Ante o exposto, indefiro liminarmente o recurso em habeas corpus.
+Publique-se.
+Intimem-se.
