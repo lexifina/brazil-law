@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Afonso Jeremias Neto, apontando-se como autoridade coatora o Tribunal de Justiça de Minas Gerais, que denegou o HC n. 1.0000.20.476394-0/000 (fl. 17):
+HABEAS CORPUS. INCIDENTE EM EXECUÇÃO PENAL NÃO CABIMENTO DE HABEAS CORPUS. MATÉRIA QUE DEVERIA SER OBJETO DE RECURSO DE AGRAVO. IMPOSSIBILIDADE DE ANÁLISE NO ÂMBITO ESTREITO DO WRIT. PROGRESSÃO DE REGIME. REQUISITO OBJETIVO NÃO COMPROVADO. PRISÃO DOMICILIAR DIANTE DA PANDEMIA CAUSADA PELO CORONAVIRUS (COV1D-19). COMPROVAÇÃO DE QUE O ESTABELECIMENTO PRISIONAL POSSUI MEDIDAS DE PREVENÇÃO QUANTO A PROLIFERAÇÃO DO VÍRUS. CONSTRANGIMENTO ILEGAL INOCORRÊNCIA. ORDEM DENEGADA. - Questões ligadas à execução penal, inclusive aquelas ligadas aos recentes avanços da pandemia do coronavírus (COVID-19), devem ser objeto de agravo. Ademais, deve ser sopesado o fato da impossibilidade de se analisar questões pertinentes aos incidentes de execução de pena na seara estreita do habeas carpas. - Restando comprovado que o local onde o paciente se encontra recolhido tem adotado medidas capazes de evitar o contágio pelo referido vírus, não se vislumbra a ocorrência de constrangimento ilegal. - Ordem denegada.
+Alega-se existir constrangimento ilegal decorrente do indeferimento do pedido de progressão de regime. Sustenta-se, em síntese, que o paciente já cumpriu os requisitos para a progressão ao regime semiaberto.
+Aponta-se que o sentenciado sofre de pressão alta, complicações intestinais, sofrendo também de complicações cardíacas, conforme documentação em anexo e demais documentos no setor de saúde da unidade prisional onde cumpre pena, sendo participante do grupo de risco sujeito a contrair o coronavírus, com graves consequências, inclusive óbito. Deve portanto receber o benefício da prisão domiciliar, para preservação da própria vida (fl. 5).
+Postula-se, então, a concessão de prisão domiciliar ou a progressão de regime prisional.
+O pedido liminar foi indeferido às fls. 29/32.
+Informações prestadas às fls. 36/41.
+Instado a se manifestar, o Ministério Público Federal opinou pelo não cabimento do writ (fls . 49/52).
+É o relatório.
+O presente writ não comporta acolhimento.
+Confiram-se, no que interessa, os seguintes trechos do acórdão impugnado (fls. 19/24 - grifo nosso):
+Infere-se da documentação colacionada ao feito que o paciente se encontra em cumprimento de pena total de 34 (trinta e quatro) anos e 6 (seis) meses, em razão da prática de delitos da Lei de Drogas, Estatuto do Desarmamento e de homicídio, estando, atualmente, restando, remanescente 26 (vinte e seis) anos, 1 (mês) mês e 26 (vinte e seis) dias de reclusão a serem cumpridos. Encontra-se no regime fechado (atestado de pena anexado ao documento do processo eletrônico de ordem 6).
+De fato, pelas informações judiciais e diante da análise do; autos, notadamente pelo atestado de pena (documento do processo eletrônico de ordem 6), verifica-se que a data de previsão para a progressão de regime é 21/02/2031, de forma que não restou suficientemente comprovado o preenchimento do requisito objetivo, o que inviabilize a concessão do beneficio.
+Por outro lado, consta das informações que o paciente se encontra em cumprimento de pena no regime fechado e não faz jus à prisão domiciliar.
+A propagação da Covid-19 em nosso pais trouxe à tona o risco à saúde dos presos e daqueles que trabalham em unidades prisionais, o que levou à publicação da Portaria nº 19/PRTJMG/2020 e Recomendação n. 62, do Conselho Nacional de Justiça, visando flexibilizar a soltura tanto daqueles que se encontram em execução de pena quanto dos que estão presos provisoriamente, a fim de minimizar o risco de disseminação do vírus no interior dos presídios. In verbis:
+ ..
+In casu, a d. Magistrada atestou que, de acordo com o relatório elaborado peta médica da unidade prisional, não foi verificada situação de vulnerabilidade em relação a saúde do paciente. Ademais, foi determinado ao estabelecimento prisional que adote as medidas para resguardar a saúde do paciente ou para que providencie a sua transferência. (Informações judiciais anexadas ao documento do processo eletrônico de ordem 5).
+Assim, vê-se que o pleito objeto da inicial está sendo devidamente analisado pelo i. Juizo a quo, que está acompanhando de perto a situação prisional do paciente.
+Da mesma forma, consta da decisão que indeferiu a prisão domiciliar (documento do processo eletrônico de ordem 8), que o quadro clinico do paciente encontra-se estável, não restando evidenciada situação de excepcionalidade no caso concreto. Neste ponto, a autoridade coatora expôs com clareza os motivos pelos quais o paciente não faz jus à domiciliar a fim de conter a proliferação da COVID-19, senão vejamos:
+ ..
+Sendo assim, embora o paciente seja portador de hipertensão arterial sistêmica, a documentação anexada aos autos demostra que o seu quadro clinico está controlado, sendo que este vem recebendo a medicação necessária conforme orientação. Nessa linha, é o que consta do relatório de saúde subscrito pela médica da unidade prisional:
+ ..
+Dessa forma, quanto ao pedido de prisão domiciliar em razão da Portada Conjunta nº 19/PR-TJMG/2020, verifico que o paciente, embora portador de hipertensão arterial, não comprovou se, de fato, possui complicações clinicas capazes de representar risco em relação à pandemia da COVID-19, ao contrário, os documentos anexados aos autos demonstram que o seu quadro clinico é estável e que o tratamento devido está sendo a ele concedido durante o perlado em que se encontra acautelado.
+Além do mais, cumpre esclarecer que a Direção do Estabelecimento Prisional confirmou que o presidio em que o paciente encontra-se recolhido vem adotando medidas de prevenção para evitar a disseminação e contágio pelo vírus. Nessa linha:
+"Em que se trata do custodiado AFONSO JEREMIAS NETO, requisitando desta Unidade Prisional no que tange as medidas profiláticas adotadas por esta Unidade Prisional no combate à COVID-19 esclarecemos que:
+- Desinfecção de toda a Unidade Prisional com hipociorito de sódio semanalmente;
+- Restrição de visitação do público em geral no estabelecimento prisional visando evitar a contaminação;
+- Distribuição de mascaras de proteção a toda a Comunidade Carcerária (confeccionadas na própria Unidade);
+- Aferição diária de temperatura dos servidores na entrada da Unidade com termômetro infravermelho;
+- Distribuição de álcool liquido e gel para higienização das mãos dos servidores;
+- Acolhida pelo serviço de enfermagem de detentos transferidos de outras Unidades Prisionais com termômetro infravermelho e oxímetro;
+- Palestra médica semanal para prevenção à infecção de COVID-19;
+- Aquisi ção de testes swab nasal junto a Secretaria Estadual de Saúde;
+- Reuniões periódicas junto a Secretaria Estadual de Saúde para estratégias no enfrentamento à proliferação da COVID-19 (documento do processo eletrônico de ordem 13)
+No caso, diversamente do que sustenta a defesa, o paciente não cumpriu com os requisitos necessários para a progressão de regime, tendo a Corte de origem destacado que a data prevista para a progressão é 21/2/2031. Portanto, o requisito objetivo não foi preenchido.
+Quanto ao pedido de prisão domiciliar em decorrência do coronavírus, a instância ordinária destacou que não se verificou situação de vulnerabilidade em relação a saúde do paciente, consignando, ainda, que o quadro clínico está estável, que o réu vem recebendo o tratamento necessário e que o estabelecimento prisional está adotando as medidas de prevenção para evitar contágio e disseminação do vírus. Diante desse quadro, não está evidenciada a situação excepcional para a concessão da prisão domiciliar.
+Vale ressaltar que esta Corte Superior adverte, em inúmeros julgados, que a Recomendação n. 62/2020 do CNJ não prescreve a flexibilização da medida extrema da prisão de forma automática, sendo indispensável a demonstração do inequívoco enquadramento do preso no grupo de vulneráveis à Covid-19, da impossibilidade de receber tratamento médico na unidade carcerária em que se encontra e da exposição a maior risco de contaminação no estabelecimento prisional do que no ambiente social (AgRg no HC n. 752.196/SP, Ministro João Otávio de Noronha, Quinta Turma, DJe 30/9/2022 - grifo nosso).
+Portanto, não se constata a existência de flagrante constrangimento ilegal que autorize a concessão da ordem.
+Ante o exposto, denego a ordem.
+Publ ique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. CUMPRIMENTO DA PENA EM REGIME FECHADO. PROGRESSÃO DE REGIME. NÃO PREENCHIMENTO DO REQUISITO OBJETIVO. PEDIDO DE PRISÃO DOMICILIAR. PANDEMIA DA COVID-19. INVIABILIDADE. QUADRO DE SAÚDE DO APENADO ESTÁVEL. FORNECIMENTO DE TRATAMENTO. ESTABELECIMENTO PRISIONAL POSSUI MEDIDAS DE PREVENÇÃO. INEXISTÊNCIA DE ILEGALIDADE MANIFESTA.
+Ordem denegada.
