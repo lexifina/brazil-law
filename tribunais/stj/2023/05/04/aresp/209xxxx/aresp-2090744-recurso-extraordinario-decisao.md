@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso extraordinário (fls. 541-555) interposto por JAMES ANDERSON SILVA DO NASCIMENTO, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça, que recebeu a seguinte ementa (fl. 531):
+PROCESSUAL CIVIL. AÇÃO ORDINÁRIA. CONCESSÃO DE AUXÍLIO-TRANSPORTE. PEDIDO IMPROCEDENTE. NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL QUE NÃO ATACA OS FUNDAMENTOS DA DECISÃO RECORRIDA. AUSÊNCIA/ERRO DE INDICAÇÃO DE ARTIGO DE LEI FEDERAL VIOLADO - SÚMULA N. 284/STF E DEFICIÊNCIA DE COTEJO ANALÍTICO - SÚMULA N. 284/STF, POR ANALOGIA. INCIDÊNCIA DA SÚMULA N. 7/STJ.
+I - Na origem, trata-se de ação ordinária em que se pleiteia a concessão de auxílio-transporte. Na sentença, julgou-se o pedido improcedente. No Tribunal a quo, a sentença foi mantida. Mediante análise dos autos, verifica-se que a decisão inadmitiu o recurso especial com base na ausência/erro de indicação de artigo de lei federal violado - Súmula n. 284/STF, na deficiência de cotejo analítico - Súmula n. 284/STF e na incidência da Súmula n. 7/STJ. Entretanto, a parte agravante deixou de impugnar especificamente os referidos óbices.
+II - São insuficientes para considerar como impugnação aos fundamentos da decisão que inadmite o recurso especial na origem: meras alegações genéricas sobre as razões que levaram à negativa de seguimento, o combate genérico e não específico e a simples menção a normas infraconstitucionais, feita de maneira esparsa e assistemática no corpo das razões do agravo em recurso especial.
+III - Incumbe à parte, no agravo em recurso especial, atacar os fundamentos da decisão que negou seguimento ao recurso na origem. Não o fazendo, é correta a decisão que não conhece do agravo nos próprios autos.
+IV - Agravo interno improvido.
+A parte recorrente sustenta, no recurso extraordinário, que teria havido violação do art. 5º, XXXV e LV, da CF e que a matéria tratada seria dotada de repercussão geral.
+Nesse sentido, defende afronta aos princípios constitucionais do contraditório, da ampla defesa e do devido processo legal (fl. 551):
+Como mencionado em recurso, digo, em Agravo Interno acredita a parte Reclamante/Recorrente que não deixou de cumprir com o preenchimento dos requisitos elencados no artigo 896, § 1º-A, II e III, da CLT, logo a r. decisão de pronto viola o que preconiza o artigo 5º, inciso XXXV e LV da Constituição da República, bem como infringe o princípio do duplo grau jurisdicional.
+Requer, ao final, a admissão do recurso, bem como a remessa ao Supremo Tribunal Federal.
+Foi certificada a não apresentação de contrarrazões tempestivas (fl. 567).
+É o relatório.
+Como relatado, o pronunciamento impugnado concluiu pelo não preenchimento dos pressupostos de admissibilidade do recurso anteriormente dirigido ao Superior Tribunal de Justiça.
+Tal fato ocorreu porque, no julgado recorrido, desproveu-se o agravo interno mantendo-se a decisão de não conhecer do agravo em recurso especial, por falta de contestação de todos os fundamentos da decisão do Tribunal de origem que inadmitiu o recurso especial, fazendo incidir o art. 932, III, do CPC.
+Como se vê, o mérito do recurso especial não chegou a ser apreciado, diante de insuperável óbice processual, impeditivo do próprio conhecimento do recurso.
+Segundo o STF, a não superação do que fora decidido no pronunciamento questionado acerca dos pressupostos de conhecimento do recurso da competência de outro tribunal, como ocorreu neste caso, inviabiliza o exame do recurso extraordinário pela própria Corte Suprema, qualquer que seja a suscitada violação da Constituição Federal, consoante a tese fixada no Tema n. 181 da repercussão geral, que vale transcrever:
+A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral (RE n. 598.365-RG/MG).
+Nesse sentido, eventual ofensa à Carta Magna, se existente, seria apenas indireta ou reflexa, entendendo o Excelso Pretório que "carece de repercussão geral a discussão acerca dos pressupostos de admissibilidade de recursos da competência de cortes diversas" (ARE n. 1.227.415-AgR, relator Ministro Edson Fachin, Segunda Turma, DJe de 21/5/2021), até mesmo quando alegada a ofensa ao art. 105, III, da Constituição da República (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+Esse é também o consolidado entendimento do STJ sobre a questão, havendo reiterado desprovimento dos agravos que impugnam decisões de aplicação do Tema n. 181/STF, como bem exemplifica o precedente a seguir:
+Tratando-se de recurso extraordinário contra acórdão que não ultrapassou o juízo de admissibilidade, fica inviabilizado o exame das questões constitucionais suscitadas em face da inexistência de repercussão geral.
+(AgInt no RE nos EDcl no AgInt no AREsp n. 1.342.377/SP, relatora Ministra Maria Thereza de Assis Moura, DJe de 13/9/2019.)
+Assim, destituída de repercussão geral a questão relativa aos pressupostos de admissibilidade de recurso anterior, conforme entendimento do STF de observância obrigatória (CPC, art. 927, III, parte final), o recurso extraordinário não comporta seguimento.
+Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO. TEMA N. 181/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. NEGATIVA DE SEGUIMENTO.
+1. "A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral" (Tema n. 181/STF).
+2. Não preenchidos os pressupostos de admissibilidade do agravo em recurso especial, deve ser adotada (CPC, art. 927, III) a tese fixada no Tema n. 181/STF, ainda que se queira, no recurso extraordinário, discutir o mérito da causa ou os fundamentos que impediram o conhecimento do recurso.
+3. Recurso extraordinário a que se nega seguimento, nos termos do art. 1.030, I, a, do CPC.
