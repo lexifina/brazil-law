@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim ementado (fl. 30):
+HABEAS CORPUS - ROUBO: PLEITO PARA QUE SEJA REVOGADA A DECISÃO QUE DECRETOU A PRISÃO PREVENTIVA POR AUSÊNCIA DOS REQUISITOS PREVISTOS NO ARTIGO 312 DO CÓDIGO DE PROCESSO PENAL - AFASTAMENTO - AUSÊNCIA DE CONSTRANGIMENTO ILEGAL - ORDEM DENEGADA.
+Consta que o paciente teve prisão em flagrante convertida em preventiva por suposta prática dos crimes de roubo e associação criminosa.
+Sustenta a defesa que o paciente possui todos os requisitos para obtenção da liberdade provisória, pois é primário, tem emprego e possui residência fixa.
+Aduz não estarem presentes os requisitos para a prisão preventiva, que somente deve ser utilizada como medida de exceção.
+Requer, liminarmente e no mérito, a revogação da prisão.
+Indeferida a liminar e prestadas as informações, manifestou-se o Ministério Público Federal pela denegação da ordem.
+Não obstante a excepcionalidade que é a privação cautela r da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+O decreto prisional dispôs que (fls. 22-23):
+VISTOS. Flagrante formalmente em ordem. Trata-se de prisão em flagrante pelo delito de tentativa de roubo e associação criminosa cometido em tese por DOUGLAS PACHEDO SANTOS DE OLIVEIRA, MATEUS MORACINA DIAS CIRINO,GABRIEL RODRIGUES DA SILVA e DANIEL SOUZA BARROS SILVA. Consta que os veículos dos acusados perseguiram a vítima desde a cidade de Sumaré e tentaram abordar seu veículo assim que adentrou nesta cidade de Indaiatuba, eis que estaria carregando uma carga de celulares da empresa FEDEX, Ademais, analisando a documentação juntada a fls. 146/187, observo que os autores, possuem diversas condenações anteriores, inclusive pelo mesmo delito investigado nestes autos. Portanto evidenciada a concreta periculosidade social dos indiciados caracterizada pela reiteração criminal, há necessidade da prisão preventiva para garantia da ordem pública. Observo que a reiteração criminal e violência empregada não permitem a utilização de nenhuma outra medida cautelar. Ante o exposto, com fundamento nos artigos 310, II e 312, do Código de Processo Penal, converto a prisão em flagrante de DOUGLAS PACHEDOSANTOS DE OLIVEIRA, MATEUS MORACINA DIAS CIRINO, GABRIEL RODRIGUESDA SILVA e DANIEL SOUZA BARROS SILVA, em preventiva. Expeçam-se mandados de conversão da prisão em flagrante em preventiva.
+Como se vê, consta do decreto prisional fundamentação que deve ser considerada idônea, pois constatada a reiteração delitiva ao se dispor que "os autores, possuem diversas condenações anteriores, inclusive pelo mesmo delito investigado nestes autos".
+Nesse sentido, a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade (RHC n. 107.238/GO, Relator Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 26/2/2019, DJe 12/03/2019).
+Ademais, a presença de circunstâncias subjetivas favoráveis, por si só, não impede a imposição de prisão preventiva , conforme pacífica jurisprudência: STF/HC 96.182, STF/HC130.709/CE, STF/HC 127.486 AgR/SP, STF/HC 126.051/MG, STJ/RHC 94.056/SP, STJ/HC454.865/MG, STJ/HC 379.187/SP.
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
