@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de Embargos de Declaração contra decisão monocrática (fls. 503-507, e-STJ) que deu provimento ao Recurso Especial do INSS a fim de: (i) afastar a condenação na verba honorária; e (ii) especificar que os juros moratórios serão devidos somente se a autarquia previdenciária deixar de implantar o benefício reconhecido judicialmente no prazo razoável de até quarenta e cinco dias, e esses juros deverão ser incluídos no cálculo do requisitório de pequeno valor ou do precatório.
+Em síntese, o embargante alega:
+No primeiro aspecto, é importante destacar que o acórdão recorrido, reformando parcialmente a sentença, reconhece o direito ao benefício, sem nem mesmo fazer menção ao fenômeno da reafirmação da DER, nessa medida não se extrai do acórdão recorrido qualquer menção sobre ter havido ou não resistência do INSS quanto ao reconhecimento do direito após a implementação dos requisitos de concessão.
+Nos embargos de declaração opostos na origem o INSS se limita a defender a impossibilidade da reafirmação da DER nas hipóteses em que a implementação dos requisitos se deu entre a conclusão do processo administrativo e o ajuizamento da ação, não apresentando qualquer impugnação específica quanto à fixação dos honorários.
+Desse modo, preliminarmente, não deve ser o recurso conhecido quanto ao ponto, porquanto não houve o devido prequestionamento da matéria. A tese recursal não foi objeto de enfrentamento pelo acórdão recorrido e nos Embargos de Declaração não houve a necessária provocação para exame da alegação. Nessas hipóteses, invariavelmente impõe-se a aplicação da Súmula 211/STJ.
+(..)
+Caso o relator entenda pela possibilidade de ultrapassar o juízo de admissibilidade quanto ao tema controvertido, reconhecendo o prequestionamento da matéria, é imperioso apontar que não tendo havido o enfrentamento pelo Tribunal de origem acerca da tese de ter (ou não) oferecido o INSS resistência ao pedido de reafirmação da DER, não é possível, em sede de recurso especial, que o STJ examine tal alegação, porquanto a medida envolveria a necessária revisitação do conteúdo probatório dos autos, a fim de que se pudesse verificar se houve efetiva aceitação do INSS quanto ao pedido ou se havia resistência da Autarquia.
+É importante destacar que no caso dos autos não houve a mera reafirmação da DER por implemento de idade ou tempo de contribuição, ao contrário, o benefício foi concedido a partir do reconhecimento da especialidade do pedido, como bem claro fica da leitura do acórdão recorrido, e da leitura dos autos extrai-se a clara resistência do INSS quanto a tal reconhecimento.
+Tanto é assim que do relatório do acórdão recorrido extrai-se, expressamente, que o INSS pugnava pelo reconhecimento da improcedência do pedido. Denotando a inequívoca resistência ao reconhecimento da atividade especial.
+Houve impugnação.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 14 de abril de 2023.
+Os Embargos de Declaração não merecem prosperar, uma vez que ausentes os vícios listados no art. 1. 022 do CPC. Com efeito, a controvérsia foi decidida de forma estreme de dúvidas, não havendo falar em omissão.
+No caso, a decisão agravada decidiu a controvérsia dos autos com base na aplicação da Súmula 7 do STJ e na jurisprudência sedimentada do STJ. Assim, a alegação do embargante denota o intuito de rediscutir o mérito do julgado e não o de solucionar omissão, contradição ou obscuridade.
+Além disso, os Aclaratórios não se prestam a rever a matéria julgada, nem a prequestionar dispositivos constitucionais. Com esse entendimento:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 535 DO CPC. REDISCUSSÃO DE QUESTÕES DE MÉRITO. APRECIAÇÃO DE DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE. CARÁTER MERAMENTE PROTELATÓRIO. APLICAÇÃO DA MULTA DO ART. 538, PARÁGRAFO ÚNICO, DO CPC.
+1. Revelam-se improcedentes os embargos declaratórios em que as questões levantadas traduzem inconformismo com o teor da decisão embargada, pretendendo rediscutir matérias já decididas, sem demonstrar omissão, contradição ou obscuridade (art. 535 do CPC).
+2. Incabíveis embargos de declaração se inexiste omissão relativa à matéria infraconstitucional, não sendo o STJ competente para apreciar matéria constitucional, inclusive para fins de prequestionamento.
+3. É nítido o intuito protelatório do recurso, dando ensejo à aplicação da penalidade prevista no art. 538, parágrafo único, do CPC, à razão de 1% do valor corrigido da causa.
+4. Embargos de declaração rejeitados. (EDcl no AgRg no Ag 936.404/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 09/09/2008, DJe 14/10/2008)
+Dessa forma, reitero que a solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC e que os Embargos Declaratórios não constituem instrumento adequado para a rediscussão da matéria de mérito, nem ao prequestionamento de dispositivos constitucionais com vistas à interposição de Recurso Extraordinário.
+Diante do exposto, rejeito os Embargos de Declaração, com a advertência de que a reiteração será considerada expediente protelatório sujeito a multa prevista no Código de Processo Civil.
+Publique-se.
+Intimem-se.
