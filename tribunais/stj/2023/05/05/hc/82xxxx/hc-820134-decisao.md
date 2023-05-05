@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de GRACIELY SILVA MARTINS contra acórdão do Tribunal de Justiça do Estado de São Paulo (HC n. 2010258-35.2023.8.26.0000).
+Segundo consta dos autos, a paciente teve a sua prisão preventiva decretada (mandado não cumprido) e foi denunciada pela suposta prática dos crimes previstos nos artigos 157, §§2º, incisos II, V e VII, e 2º-A, inciso I, 158, §1º, e 288, parágrafo único, todos do Código Penal, em concurso material de crimes (denúncia às e-STJ fls. 20/25).
+No writ originário, a defesa alegou a ausência de fundamentos para o decreto preventivo. O Tribunal, contudo, denegou a ordem. Eis a ementa (e-STJ fl. 59):
+HABEAS CORPUS. ROUBO MAJORADO; EXTORSÃO; ASSOCIAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. ALEGAÇÃO DE AUSÊNCIA DOS REQUISITOS AUTORIZADORES DA PRISÃO CAUTELAR. INOCORRÊNCIA. Decisão suficientemente embasada nos requisitos do artigo 312, Código de Processo Penal, acrescida dos indícios de autoria e materialidade delitiva. ORDEM DENEGADA.
+Na presente oportunidade, a defesa pede a prisão domiciliar para a paciente, uma vez que ela é primária, com bons antecedentes, possui emprego fixo e um filho de 6 (seis) anos. Invoca o julgamento do Supremo Tribunal Federal, no Habeas Corpus Coletivo n. 143.641/SP, n. 143.641/SP, n. 143.641/SP, n. 143.641/SP, n. 143.641/SP, para amparar o seu pedido.
+Sustenta a negativa de autoria, ante a ausência de prova, bem como a desproporcionalidade da medida diante de uma eventual condenação.
+Por fim, reafirma a ausência de pressupostos válidos para a manutenção da prisão preventiva do paciente, ressaltando suas condições pessoais favoráveis - primário, bons antecedentes e residência fixa.
+Diante disso, requer em liminar e no mérito, a substituição da prisão preventiva pela prisão domiciliar.
+É o relatório. Decido.
+O presente habeas corpus não será conhecido.
+A defesa pede prisão domiciliar à paciente, por questões humanitárias (mãe de criança de 6 anos) e ante as suas condições pessoais favoráveis (primária, com bons antecedentes, emprego e residência fixos). Ocorre que esta matéria não foi debatida pelo Tribunal de origem no acórdão impetrado.
+Como cediço, " ..  não compete a esta Corte, em habeas corpus interposto contra acórdão  de apelação , conhecer matéria não decidida previamente pela instância de origem, sob pena de indevida supressão de instância" (AgRg no HC n. 764.710/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 19/12/2022, DJe 21/12/2022).
+No mesmo sentido, é entendimento da Corte Maior que " o  exaurimento da instância recorrida é, como regra, pressuposto para ensejar a competência do Supremo Tribunal Federal, conforme vem sendo reiteradamente proclamado por esta Corte (HC 129.142, Rel. Ministro MARCO AURÉLIO, Rel. p/ acórdão Ministro ALEXANDRE DE MORAES Primeira Turma, DJe de 10/8/2017; RHC 111.935, Rel. Ministro LUIZ FUX, Primeira Turma, DJe de 30/9/2013; HC 97.009, Rel. p/ a córdão: Ministro TEORI ZAVASCKI, Tribunal Pleno, DJe de 4/4/2014; HC 118.189, Rel. Ministro RICARDO LEWANDOWSKI, Segunda Turma, DJe de 24/4/2014)". (HC n. 179.085, Rel. Ministro MARCO AURÉLIO, Primeira Turma, julgado em 5/8/2020, DJe 25/9/2020).
+Ante o exposto, não conheço do habeas corpus.
+Intimem-se.
