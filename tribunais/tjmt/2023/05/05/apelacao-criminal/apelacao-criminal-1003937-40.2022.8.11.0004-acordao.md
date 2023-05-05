@@ -1,0 +1,35 @@
+ESTADO DE MATO GROSSO
+
+PODER JUDICIÁRIO
+
+TURMA RECURSAL ÚNICA
+
+Número Único
+:
+
+1003937-40.2022.8.11.0004
+Classe:
+
+APELAÇÃO CRIMINAL (417)
+Assunto:
+
+[Posse de Drogas para Consumo Pessoal]
+Relator:
+Des(a). VALDECI MORAES SIQUEIRA
+
+Turma Julgadora:
+
+[DES(A). VALDECI MORAES SIQUEIRA, DES(A). JORGE ALEXANDRE MARTINS FERREIRA, DES(A). VALMIR ALAERCIO DOS SANTOS]
+
+Parte(s):
+
+[A SOCIEDADE (APELANTE), MINISTERIO PUBLICO DO ESTADO DE MATO GROSSO - CNPJ: 14.921.092/0001-57 (APELANTE), MINISTERIO PUBLICO DO ESTADO DE MATO GROSSO - CNPJ: 14.921.092/0001-57 (REPRESENTANTE), VINICIUS MATEUS MEURER (APELADO)]
+
+A C Ó R D Ã O
+Vistos, relatados e discutidos os autos em epígrafe, a TURMA RECURSAL ÚNICA do Tribunal de Justiça do Estado de Mato Grosso, sob a Presidência Des(a).
+
+VALDECI MORAES SIQUEIRA, por meio da Turma Julgadora, proferiu a seguinte decisão:
+POR UNANIMIDADE CONHECEU DO RECURSO E DEU-LHE PROVIMENTO. O REPRESENTANTE DO MINISTÉRIO PÚBLICO - DR. AURÉLIO RENE ARRAIS: Ratificou o parecer juntado aos autos.
+
+Data da sessão:
+Cuiabá-MT, 05/05/2023
