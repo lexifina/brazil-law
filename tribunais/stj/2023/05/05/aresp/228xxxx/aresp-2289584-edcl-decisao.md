@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por CRISTINA NAUJALIS DE OLIVEIRA à decisão de fls. 182/183, que não conheceu do recurso.
+Sustenta a parte embargante que:
+No que tange a tempestividade do Recurso Especial, informa na decisão recorrida que "a parte recorrida foi intimada do acórdão recorrido em 31/08/2021, sendo o recurso especial interposto somente em 23/09/2021. O Recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 dias úteis, nos termos do art. 994, VI, c/c os arts. 1.003, §5º, 1.029 e 1.019 caput, todos do Código de Processo Civil."
+Ocorre, contudo, que o Recurso Especial foi interposto tendo em conta a disponibilização do acórdão (fls. 145), publicação em 30/08/2021 (fls. 146).
+ ..
+Dessa feita, considera-se a data da publicação do DJe em 31/08/2023, com início da contagem de prazo em 01/09/2023.
+Contudo, conforme informado em corpo do Especial, não deve ser computado na contagem do prazo recursal o feriado nacional de 07 de setembro de 2021 e a inoperância do Sistema do Tribunal de Justiça do Estado de São Paulo dos dias 05 a 08 de setembro de 2021.
+Neste fluir, com a interposição do Recurso Especial o Recorrente cumpriu com a determinação do §6º do art. 1.003 do CPC/2015: "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso". Assim, em fls. 126 e 129 fez-se juntar os comunicados oficiais emitidos pelo Tribunal a quo:
+ ..
+Por essa razão Excelência, pugna-se pela correção da decisão impugnada, registrando-se a tempestividade do recurso em espeque, com o seu regular julgamento (fls. 188/189).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do CPC, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada, no ato da interposição do recurso que pretende seja conhecido por este Tribunal, por documento oficial ou certidão expedida pelo Tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública.
+Nesse sentido, AgInt no AREsp 1542214/SP, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 9/6/2020; AgInt nos EDcl no AREsp 1553768/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/4/2020; e AgInt nos EDcl no AREsp 1379051/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 3/10/2019.
+Por outro lado, quanto à indisponibilidade do sistema ocorrida no dia 6/9/2021, comprovada à fl. 126, necessário esclarecer que a indisponibilidade da comunicação eletrônica não torna esse dia "não-útil", ou seja, a disciplina desse fato processual não está regulada no art. 216 do CPC, mas sim no art. 224, § 1º, do mesmo diploma processual, o qual sustenta que se "houver indisponibilidade da comunicação eletrônica" os "dias do começo e do vencimento do prazo serão protraídos para o primeiro dia útil seguinte".
+A consequência jurídica da indisponibilidade da comunicação eletrônica está prevista no art. 224, § 1º, do CPC, que é a prorrogação do dia do começo ou do dia do final do prazo. No caso dos autos, o prazo começou no dia 31/8/2021, uma vez que não restou comprovado nos autos o feriado local neste dia, e terminou no dia 22/9/2021, ou seja, não coincide com a data acima mencionada, tendo em vista que o prazo recursal terminou antes.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
