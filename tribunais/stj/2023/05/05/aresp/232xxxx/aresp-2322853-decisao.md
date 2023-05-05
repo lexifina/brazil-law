@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de agravo apresentado por ELIANE BATISTA DA CRUZ contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL, assim resumido:
+AGRAVO INTERNO EM FACE DE DECISÃO MONOCRÁTICA PROFERIDA EM APELAÇÃO CÍVEL - INDEFERIMENTO DO PEDIDO DE CONCESSÃO DOS BENEFÍCIOS DA JUSTIÇA GRATUITA - ARGUMENTAÇÕES QUE NÃO INFIRMAM O DECISUM - DECISÃO MONOCRÁTICA MANTIDA - RECURSO CONHECIDO E NÃO PROVIDO. NÃO HAVENDO NENHUM FATO NOVO QUE IMPORTE NA MUDANÇA DE CONVENCIMENTO DAS RAZÕES EXPOSTAS PELO RELATOR, É DE SER MANTIDA A DECISÃO AGRAVADA, PELOS SEUS PRÓPRIOS FUNDAMENTOS.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 98, caput, do CPC, no que concerne ao direito da recorrente ao benefício da gratuidade de justiça, uma vez que comprovou sua hipossuficiência, trazendo a seguinte argumentação:
+Compreende o recorrente que o aresto proferido no âmbito do recurso de apelação interposto negou vigência ao artigo 98, caput, do NCPC bem como à lei 1060/50.
+Com efeito, o documento jungido pela empresa recorrente não se trata de mero demonstrativo de compra e venda de mercadorias, senão a declaração de ajuste anual a que todas as pessoas jurídicas são obrigadas a prestar ao Fisco, em modalidade de Simples Nacional.
+ ..
+Nessa tessitura, sem maiores e enfadonhas delongas, exorta-se, se superado o juízo do conhecimento, que seja reformada a decisão colegiada em causa com vistas a acolher o deduzido pedido de gratuidade judiciária.
+ ..
+In casu, a recorrente carreou, a tempo e modo, o demonstrativo fiscal competente que reporta rendimentos diminutos, menores que um mil reais mensais.
+ ..
+Logo, se o tema está sumulado, é pacífico que há jurisprudência dominante no STJ e, portanto, não é necessário ir além: o assunto levado em recurso especial alude, justamente, sobre gratuidade judiciária de pessoa jurídica que comprovou documentalmente sua condição desfavorável. (fls. 313/314).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Como se percebe da decisão hostilizada, foi indeferido o pedido de concessão dos benefícios da justiça gratuita em favor da pessoa jurídica ré-apelante, ora agravante, por ausência de demonstração da alegada situação de hipossuficiência financeira.
+Dessa forma, defeso admitir que, a pretexto de facilitar o acesso do jurisdicionado à justiça, a concessão do beneplácito da gratuidade judiciária dirija-se a todos que, apesar de deterem plenas possibilidades de arcar com o custo do processo, entendem estar com suas condições financeiras momentaneamente prejudicadas, sem quaisquer comprovações robustas, sob pena de acarretar futuro colapso na própria prestação da tutela jurisdicional, porquanto o Poder Judiciário necessita da contraprestação, a fim de bem desempenhar seu papel social.
+Neste passo, considerando-se a ausência de prova da miserabilidade financeira alegada pela recorrente, não há que se falar em concessão do benefício vindicado. E, tendo em vista que as razões recursais não infirmam a conclusão do julgamento monocrático, mantê-lo como proferido é medida que se impõe (fl. 300).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à existência ou não dos requisitos para a concessão da gratuidade de justiça às partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Nesse sentido, o STJ já decidiu sobre a "inviabilidade de verificar se as partes no caso poderiam ou não serem contempladas pelo benefício da gratuidade de justiça, por demanda reexame de contexto fático-probatório". (AgInt no AREsp 897.498/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 16/8/2016.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.570.272/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 20/5/2020; AgInt no AREsp 1.000.602/RS, relator Ministro Og Fernandes, Segunda Turma, DJe de 22/5/2020; AgInt no AREsp 1.564.850/MG, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/3/2020; AgInt no AREsp 1.173.115/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 18/4/2018; REsp 1.784.623/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 11/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
