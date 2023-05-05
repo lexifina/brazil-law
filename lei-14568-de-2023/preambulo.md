@@ -1,0 +1,2 @@
+Altera a Lei nº 8.313, de 23 de dezembro de 1991, a fim de possibilitar que recursos do Programa Nacional de Apoio à Cultura (Pronac) sejam utilizados para estimular a participação de artistas locais e regionais em projetos de instituições públicas de educação básica e de entidades sem fins lucrativos e para incluir a música regional entre os segmentos atendidos por doações e patrocínios à produção cultural.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
