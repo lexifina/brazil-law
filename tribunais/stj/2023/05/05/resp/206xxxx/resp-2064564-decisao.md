@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a" e "c", da Constituição da República) interposto contra acórdão assim ementado:
+AGRAVO DE INSTRUMENTO - Ação Anulatória de AIIM lavrado contra a autora, ora agravante, em função de diversas infrações à sistemática de recolhimento de ICMS - Oferecimento de seguro-garantia para fins de suspensão da exigibilidade do crédito - Possibilidade - Quantia contratada no seguro-garantia que representa o valor total da multa aplicada, subtraída quantia já paga administrativamente, de modo a viabilizar a pretendida suspensão da exigibilidade do crédito - Recurso provido.
+Os Embargos de Declaração foram rejeitados.
+A recorrente aponta ofensa, em preliminar, ao art. 1.022 do CPC/2015; no mérito, ao art. 151, II, do Código Tributário Nacional, além de divergência jurisprudencial. Aduz:
+A fim de obter a suspensão da exigibilidade do crédito tributário, a recorrida apresentou apólice de seguro garantia no valor singelo do débito, considerado como válido pelo v. acórdão do Tribunal a quo.
+Ocorre que nos termos do art. 151, II, do CTN, aplicável por analogia aos créditos administrativos, somente o depósito integral tem o condão de suspender a exigibilidade do crédito.
+(..)
+Enfim, diante de tudo que processado, assenta-se que a apólice de seguro ofertada ao Juízo não é suficiente para suspender a exigibilidade do crédito tributário, isso notadamente se considerando a relação jurídica deduzida e os elementos processuais produzidos.
+Contrarrazões às fls. 5.916-5.934, e-STJ.
+É o relatório.
+Decido.
+Os autos ingressaram neste Gabinete em 27.04.2023.
+Inicialmente, constato que não se configura a alegada violação ao art. 1.022 do Código de Processo Civil de 2015, pois o colegiado originário julgou integralmente a lide e solucionou a controvérsia de maneira amplamente fundamentada, em conformidade com o que lhe foi apresentado.
+Claramente se observa que não se trata de omissão, contradição ou obscuridade, tampouco de correção de erro material, mas sim de inconformismo direto com o resultado do julgamento, que foi contrário aos interesses da recorrente.
+Ressalte-se que o mero descontentamento com o conteúdo da decisão não enseja Embargos Declaratórios, recurso que se presta tão somente a sanar os vícios previstos no art. 1.022 do CPC/2015, pertinentes à análise dos temas trazidos à tutela jurisdicional no momento processual oportuno.
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMPRESA ARRENDATÁRIA EM ÁREA PORTUÁRIA. PROPRIEDADE DA UNIÃO. IMÓVEL DE PESSOA JURÍDICA DE DIREITO PÚBLICO CEDIDO A PESSOA JURÍDICA DE DIREITO PRIVADO. INCIDÊNCIA DE IPTU. MATÉRIA PACIFICADA PELO STF, EM REPERCUSSÃO GERAL - RE 594.015 E RE 601.720.
+1. Não configurada a alegada ofensa ao art. 1.022 do Código de Processo Civil de 2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou, de maneira amplamente fundamentada, a controvérsia, em conformidade com o que lhe foi apresentado. Claramente se observa que não se trata de omissão, contradição ou obscuridade, tampouco de correção de erro material, mas sim de inconformismo direto com o resultado do acórdão, que foi contrário aos interesses da recorrente. Considere-se, ainda, que nas razões recursais apresentadas (fls. 570-572, e-STJ) a recorrente não indica especificamente qual seria a omissão, contradição ou obscuridade - objeto dos prévios aclaratórios - comprometedora da intelecção do julgado, que não teria seria apreciada pela Corte de origem. O que prejudica, sobremaneira, a tese de violação do dispositivo citado.
+(..)
+14. Recurso Especial conhecido apenas em relação à alegação de violação ao art. 1.022 do CPC/15 e, nessa extensão, não provido.
+(REsp 1.849.974/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 16/12/2021.)
+No enfrentamento da matéria, o Tribunal a quo consignou:
+Para os fins aqui pretendidos, no entanto, observa-se que a apresentação de seguro-garantia se mostra suficiente à concessão do efeito suspensivo, já que a jurisprudência deste E. Tribunal de Justiça é no sentido da possibilidade, a princípio, de seu oferecimento para a suspensão da exigibilidade do crédito. Nesse sentido, os seguintes julgados deste E. Tribunal de Justiça e do C. Superior Tribunal de Justiça:
+(..)
+Observa-se que o seguro-garantia apresentado (f. 5820/5824), foi contratado junto a Pottencial Seguradora no valor de R$ 2.260.097,51 (dois milhões, duzentos e sessenta mil e noventa e sete reais e cinquenta e um centavos) para "garantia judicial destinada ao Auto de Infração e Imposição de Multa nº 4.136.901-4" (f. 5820), corresponde à integralidade do débito (R$ 2.296.647,38 dois milhões, duzentos e noventa e seis mil, seiscentos e quarenta e sete reais e trinta e oito centavos f. 178), após a subtração dos valores pagos administrativamente do AIIM operação à qual a agravada não se opôs por ocasião da apresentação da contraminuta de f. 5861/5871.
+Assim, reconhecida a viabilidade de suspensão da exigibilidade aqui pretendida, dou provimento ao recurso para, confirmada a antecipação da tutela recursal, determinar a suspensão da exigibilidade do crédito.
+Por outro lado, a Primeira Seção do Superior Tribunal de Justiça firmou jurisprudência segundo a qual "a suspensão da exigibilidade do crédito tributário encontra-se taxativamente prevista no art. 151 do CTN, sendo certo que a prestação de caução, mediante o oferecimento de fiança bancária, ainda que no montante integral do valor devido, não ostenta o efeito de suspender a exigibilidade do crédito tributário, mas apenas de garantir o débito exequendo, em equiparação ou antecipação à penhora, com o escopo precípuo de viabilizar a expedição de Certidão Positiva com Efeitos de Negativa e a oposição de embargos" (Recurso Especial Repetitivo 1.156.668/DF, Rel. Ministro Luiz Fux, Primeira Seção, DJe 10.12.2010).
+A propósito:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. VIOLAÇÃO AO ART. 1.022 DO CÓDIGO DE PROCESSO CIVIL DE 2015. INOCORRÊNCIA. FIANÇA BANCÁRIA. SEGURO GARANTIA. EQUIPARAÇÃO AO DEPÓSITO INTEGRAL PARA FIS DE SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO. IMPOSSIBILIADADE. TAXATIVIDADE DO ART. 151 DO CTN. INCIDÊNCIA DAS SÚMULAS 83 E 112/STJ. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+(..)
+III - É pacífico o entendimento no Superior Tribunal de Justiça segundo o qual a fiança bancária e o seguro garantia não são equiparáveis ao depósito integral do débito exequendo para fins de suspensão da exigibilidade do crédito tributário, ante a taxatividade do art. 151 do CTN e o teor do Enunciado Sumular n. 112 desta Corte.
+IV - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno desprovido.
+(AgInt no REsp 2.029.995/MG, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe de 16/3/2023.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OFENSA AOS ARTS. 489 E 1.022 DO CPC. INEXISTÊNCIA. AGRAVO DE INSTRUMENTO. CONCESSÃO DE LIMINAR. REVISÃO DAS CONCLUSÕES ESTADUAIS. COGNIÇÃO SUMÁRIA E NÃO DEFINITIVA. SÚMULAS 7/STJ E 735/STF. SEGURO-GARANTIA. ART. 151 DO CTN. NÃO SUSPENSÃO DE EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO. JURISPRUDÊNCIA PACÍFICA DO STJ. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA.
+(..)
+6. Ainda que fosse possível ultrapassar os referidos óbices sumulares, não se poderia acolher o Recurso da parte. Em obter dictum, a jurisprudência do STJ é no sentido de ser inviável a equiparação do seguro-garantia ou da fiança bancária ao depósito judicial em dinheiro e integral para efeito de suspensão de exigibilidade do crédito tributário; somente o depósito em dinheiro viabiliza a suspensão determinada no artigo 151 do CTN. Nesse sentido: AgInt no TP 2.764/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 30/3/2022; AgInt no REsp 1.899.815/BA, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 1º/7/2021; REsp 1.156.668/DF, Primeira Seção, Rel. Ministro Luiz Fux, DJe 10/12/2010.
+(..)
+8. Agravo Interno não provido.
+(AgInt no AREsp 2.127.923/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 19/12/2022.)
+PROCESSO CIVIL E TRIBUTÁRIO. PROTESTO. SEGURO-GARANTIA. DÉBITO CAUCIONADO. AÇÃO CAUTELAR. AUSÊNCIA DE SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO. PRECEDENTES. POSSIBILIDADE DE PROTESTO DA CDA EXIGÍVEL. ANÁLISE DA DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA ANTE O ÓBICE SUMULAR.
+1. A Primeira Seção desta Corte firmou orientação segundo a qual "a suspensão da exigibilidade do crédito tributário encontra-se taxativamente prevista no art. 151 do CTN, sendo certo que a prestação de caução, mediante o oferecimento de fiança bancária, ainda que no montante integral do valor devido, não ostenta o efeito de suspender a exigibilidade do crédito tributário, mas apenas de garantir o débito exequendo, em equiparação ou antecipação à penhora, com o escopo precípuo de viabilizar a expedição de Certidão Positiva com Efeitos de Negativa e a oposição de embargos" (REsp 1.156.668/DF, Repetitivo, Rel. Ministro Luiz Fux, Primeira Seção, DJe 10.12.2010).
+2. O seguro-garantia e a carta-fiança não servem para a finalidade de suspender a exigibilidade do crédito tributário cobrado. A respeito: AgInt no REsp 1.854.357/DF, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 11.12.2020; e AgInt no AREsp 1.646.379/RJ, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 1º. 10.2020.
+3. Além disso, o oferecimento de seguro-garantia ou de fiança bancária tampouco serve à pretensão de impedir ou excluir a inscrição no Cadastro Informativo dos Créditos não Quitados - Cadin, salvo se, por outro motivo - como no caso de tutelas judiciais antecipatórias (art. 151, IV e V, do CTN) -, o crédito tributário estiver com a exigibilidade suspensa.
+4. Prejudicada a análise da divergência jurisprudencial quando a tese sustentada esbarra em óbice sumular quando do exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+5. Agravo Interno não provido.
+(AgInt nos EDcl no REsp 2.001.275/PB, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 13/12/2022.)
+Portanto, o seguro-garantia e a carta-fiança não servem para suspender a exigibilidade do crédito tributário cobrado.
+Dessume-se que o acórdão recorrido não está em sintonia com o atual entendimento deste Tribunal Superior, motivo pelo qual merece prosperar a irresignação.
+Ante o exposto, dou provimento ao Recurso Especial nos termos da fundamentação.
+Publique-se.
+Intimem-se.
