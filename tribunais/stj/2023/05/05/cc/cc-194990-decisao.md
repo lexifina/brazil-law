@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de conflito de competência negativo suscitado pelo Juízo Federal da 7ª Vara Criminal de São Paulo - SJ/SP em face do Juízo de Direito da 1ª Vara Cível de São José dos Campos - SP, nos autos em que se apura a suposta prática dos delitos de peculato e corrupção passiva.
+Extrai-se dos autos que "o representante do Banco do Brasil S. A. formulou notícia-crime perante a Polícia Civil de São José dos Campos/SP, comunicando que Allan Maciel deLuca liberou operação de crédito de forma irregular, na qualidade de funcionário da instituição bancária, para pessoa jurídica de direito privado, no valor aproximado de R$157.000,00 (cento e cinquenta e sete mil reais), após solicitar e receber valores indevidos na conta-corrente de titularidade da Sra. Vanessa Soares, ex-companheira do agente (e-fl.15)" (fl. 144).
+O Juízo Estadual, acolhendo manifestação ministerial, declinou da competência em favor da Justiça Federal por entender que há interesse da União no feito, uma vez que a vítima do delito é a instituição Banco do Brasil S/A, controlada pela União (fl. 89).
+Por sua vez, o Juízo Federal suscitou o conflito, sob os seguintes fundamentos (fls. 108 - 110):
+" Não há nos autos nenhuma informação que corrobore a suspeita de ocorrência de crime de obtenção de financiamento fraudulento, tipificado no artigo 19 da lei 7.492/86. Em momento algum o Banco do Brasil qualificou as operações de crédito em questão como financiamento, inclusive tendo classificado a conduta investigada como peculato e corrupção ativa.
+Com efeito, para a configuração do delito, seria necessária a demonstração que os valores obtidos mediante contratos supostamente fraudulentos junto ao Banco do Brasil possuem ou não destinação específica, uma vez que "se o mútuo é conceatdo pata que o  eito séja empregado em uma )inamlade especgica, compete à Justiça Federa/ processar e julgar o deito, enquadrado no ilpo pena/ do artigo 19 da Lei nº 7.49 86; caso C017frád0, está-se aiante de estedonato" (CC 140.386/PR, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, TERCEIRA SEÇÃO, DJe 20/8/2015).
+Não havendo tal prova nos autos, não que se falar em competência da Justiça Federal.
+Além disso, houve equívoco quanto à remessa dos autos por parte da Justiça Estadual, uma vez que a competência para processar e julgar crimes cometidos em detrimento de sociedades de economia mista, tal como o Banco do Brasil, é do Judiciário local. Neste sentido, as súmulas 508 ("Compete à Justiça Estadual, em ambas as 1 17SiânCáS, . processar e julgar as causas em que for parle o Banco do Brasil S. A.") e 556 ( "É competente a Justiça Comum pata julgar as causas em que é parte sociedade de economia miála. ), ambas do STF."
+O Ministério Público Federal opinou pela declaração de competência da Justiça Estadual, conforme parecer de fls. 143 - 148, com a seguinte ementa:
+"CONFLITO NEGATIVO DE COMPETÊNCIA. CRIMES DE PECULATO E CORRUPÇÃO PASSIVA (ARTS. 312 E317, AMBOS DO CP). DELITOS PRATICADOS EM DETRIMENTO DO PATRIMÔNIO DO BANCO DO BRASIL. SOCIEDADE DE ECONOMIA MISTA. INCIDÊNCIA DA SÚMULA 42/STJ. AUSÊNCIA DE INTERESSE DA UNIÃO. COMPETÊNCIA DA JUSTIÇA COMUM ESTADUAL. PRECEDENTE DO STJ. PARECER PELA PROCEDÊNCIA DO CONFLITO, COM O RECONHECIMENTO E DECLARAÇÃO DE COMPETÊNCIA DO JUÍZO SUSCITADO - O JUÍZO DE DIREITO DA 1ª VARA CRIMINAL DE SÃO JOSÉ DOS CAMPOS/SP."
+É o relatório.
+Decido.
+O conflito de competência ocorre quando duas ou mais autoridades se julgam competentes (positivo), incompetentes (negativo), ou quando houver divergência sobre a junção de processos, nos termos do artigo 114 do Código de Processo Penal.
+Nos termos do artigo 105, I, "d" da Constituição Federal, é da competência desta Corte Superior decidir o presente conflito de competência entre Juízo de direito e Juízo federal.
+A competência da Justiça Federal está vinculada à lesão de bens, serviços ou interesses da União. A própria Constituição Federal assim estabelece no art. 109, IV, verbis:
+"Art. 109. Aos juízes federais compete processar e julgar:
+I - (..)
+II - (..)
+III - (..)
+IV - os crimes políticos e as infrações penais praticadas em detrimento de bens, serviços ou interesse da União ou de suas entidades autárquicas ou empresas públicas, excluídas as contravenções e ressalvada a competência da Justiça Militar e da Justiça Eleitoral".
+Destarte, para atrair a competência da Justiça Federal, é necessária a existência objetiva de ofensa a bens, serviços ou interesses da União, o que não ocorreu na hipótese vertente.
+A matéria, inclusive, já se encontra pacificada nesta Corte, tendo sido editada a súmula 42, in verbis:
+"Compete à Justiça Comum Estadual processar e julgar as causas cíveis em que é parte sociedade de economia mista e os crimes praticados em seu detrimento."
+No mesmo sentido foi a manifestação do parecer ministerial de fl. 146:
+"No caso vertente, ao que consta, o Banco do Brasil S. A. formulou notícia-crime, por intermédio de seu procurador legal, perante a autoridade policial de São José dos Campos/SP, comunicando que Allan Maciel de Luca, então funcionário da instituição bancária, solicitou e recebeu valores indevidos na conta-corrente da Sra. Vanessa Soares, ex-companheira do agente, para liberar operação de crédito em nome da empresa JBF Engenheiros & Arquitetos Associados Ltda.
+Depreende-se daí que o bem jurídico a ser tutelado é de interesse do Banco do Brasil S. A., instituição constituída na forma de sociedade de economia mista, de modo que as condutas investigadas não caracterizam crime contra o sistema financeiro, tampouco atingiram diretamente bens, serviços ou interesses da União, restando, portanto, afastada a competência da Justiça Federal.
+Tal entendimento, inclusive, está consolidado no enunciado da Súmula 42 do Superior Tribunal de Justiça, segundo o qual "compete à Justiça Comum Estadual processar e julgar as causas cíveis em que é parte sociedade de economia mista e os crimes praticados em seu detrimento" (grifou-se)."
+Sobre o tema, assim já se manifestou esta eg. Corte:
+"CONFLITO NEGATIVO DE COMPETÊNCIA. FORMAÇÃO DE QUADRILHA, USO DE DOCUMENTO FALSO, FALSIDADE IDEOLÓGICA E ESTELIONATO. UTILIZAÇÃO DE DOCUMENTOS FALSOS PARA ABERTURA DE CONTA CORRENTE E OBTENÇÃO DE EMPRÉSTIMOS JUNTO A INSTITUIÇÕES FINANCEIRAS PRIVADAS E NO BANCO DO BRASIL. AUSÊNCIA DE LESÃO A BENS, SERVIÇOS OU INTERESSES DA UNIÃO. SÚMULA 42/STJ. COMPETÊNCIA DA JUSTIÇA ESTADUAL.
+1. Inexistindo lesão direta a bens, serviços ou interesses da União, porquanto as fraudes na abertura de conta-corrente e obtenção de empréstimos ocorreram junto a instituições financeiras privadas e no Banco do Brasil, sociedade de economia mista, evidencia-se a competência da Justiça Estadual para processar e julgar o feito, nos termos da Súmula nº 42 desta Corte.
+2. Eventual interesse reflexo da União não é suficiente para atrair a competência da Justiça Federal. Precedentes.
+3. Conflito conhecido para declarar competente o Juízo de Direito da 37ª Vara Criminal do Rio de Janeiro/RJ, o suscitado. (CC n. 112.787/RJ, Terceira Seção, relator Ministro Marco Aurélio Bellizze, DJe de 13/9/2012.)
+Diante de tais considerações, conheço do presente conflito, e declaro competente para processo e julgamento do feito o Juízo de Direito da 1ª Vara Cível de São José dos Campos - SP, o suscitado.
+P. e I
+EMENTA
+CONFLITO DE COMPETÊNCIA. CRIME DE PECULATO E CORRUPÇÃO PASSIVA. BANCO DO BRASIL S/A. SÚMULA 42/STJ. AUSÊNCIA DE EFETIVA LESÃO A BENS, SERVIÇOS OU INTERESSES DA UNIÃO. COMPETÊNCIA DA JUSTIÇA ESTADUAL .
