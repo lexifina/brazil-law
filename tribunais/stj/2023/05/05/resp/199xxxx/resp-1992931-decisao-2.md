@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de recurso especial interposto por BANCO DO BRASIL S.A., com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO, que julgou demanda relativa a aditamentos do contrato de financiamento estudantil, por meio do FIES, relativos aos semestres 2016.1, 2016.2, 2017.1 e 2017.2.
+O julgado não conheceu da Apelação do FNDE, pois suas razões estavam dissociadas do que foi decidido na sentença, nos termos da seguinte ementa (fl. 680):
+PROCESSUAL CIVIL. RENOVAÇÃO DO CONTRATO DE FINANCIAMENTO ESTUDANTIL. PROBLEMA COM O FIADOR. RECURSO DE APELAÇÃO. RAZÕES DISSOCIADAS. ART. 932, III, CPC. NÃO CONHECIMENTO DO APELO.
+1. Apelação interposta pelo FNDE em face da sentença que, confirmando a tutela de urgência, julgou procedente o pedido inicial para reconhecer à autora o direito aos aditamentos do contrato de financiamento estudantil relativos aos semestres 2016.1, 2016.2, 2017.1 e 2017.2, caso ainda não tenham sido concluídos, mantendo-se o mesmo fiador.
+2. É dominante a jurisprudência no sentido de que não se deve conhecer de um recurso de apelação em que as razões estão dissociadas do que foi decidido na sentença, em face da ausência de motivação recursal e de ofensa ao princípio da congruência.
+3. Na espécie, a sentença julgou parcialmente procedente o pedido inicial sob o fundamento de que não se poderia obstar a renovação do contrato de financiamento estudantil por problemas com o fiador, até porque, pelas informações trazidas pelo FNDE, o fiador da autora restaurou a idoneidade cadastral.
+4. A apelante, por sua vez, deduziu arrazoado que sequer tangenciou os fundamentos da decisão recorrida que restou vencida, limitando-se a discorrer sobre a impossibilidade de aditamento do contrato de financiamento estudantil por ausência de prova de ter havido problema no sistema do FIES, que teria obstado sua concretização. Ademais, o recurso de apelação apresentado menciona autora diversa da que ajuizou a ação.
+5. Honorários advocatícios majorados em 10% (dez por cento) sobre o valor arbitrado pela sentença(estes fixados no valor de R$1.500,00), nos termos do art. 85, § 11, do CPC.
+6. Apelação não conhecida.
+Sem embargos de declaração pelo recorrente Banco do Brasil.
+No presente recurso especial, o recorrente alega ser parte ilegítima para figurar no polo passivo, pois apenas o FNDE teria competência para "autorizar a contratação de operações, aditamentos e alterações contratuais, dentre outras prerrogativas" (fl. 769).
+Sustenta, outrossim, que "a Casa Bancária não cometeu qualquer irregularidade durante o processo de aditamento do financiamento estudantil" (fl. 775).
+Aduz, ainda, que no presente caso não teria sido comprovada a idoneidade do fiador.
+Não apresentadas contrarrazões, sobreveio o juízo de admissibilidade positivo da instância de origem (fl . 868).
+É, no essencial, o relatório.
+O Tribunal de origem não conheceu da apelação do FNDE, pois estava dissociada das razões da sentença. Portanto, não enfrentou o mérito do recurso do FNDE, mantendo intacta a sentença que reconheceu à autora o direito aos aditamentos do contrato de financiamento estudantil, mantendo-se o mesmo fiador. Veja-se (fl. 679):
+A apelante, por sua vez, deduziu arrazoado que sequer tangenciou os fundamentos da decisão recorrida que restou vencida, limitando-se a discorrer sobre a impossibilidade de aditamento do contrato de financiamento estudantil por ausência de prova de ter havido problema no sistema do FIES, que teria obstado sua concretização. Ademais, o recurso de apelação apresentado, id 4058100.3500988, menciona autora diversa da que ajuizou a ação. Considerando que as razões recursais são inteiramente dissociadas do que a sentença decidiu, não há como conhecer do recurso.
+Não houve apelação por parte do Banco do Brasil, ora recorrente.
+No recurso especial, alega o Banco do Brasil sua ilegitimidade para figurar no polo passivo da demanda, bem como que não teria cometido nenhuma irregularidade no aditamento do financiamento.
+Percebe-se que as razões do recurso especial não rebatem o acórdão recorrido, que se limitou a não conhecer da apelação do FNDE por não ter rebatido os fundamentos da sentença.
+Incide, no caso, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos.
+No mesmo sentido, cito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONCURSO PÚBLICO. NOMEAÇÃO E POSSE POR ORDEM JUDICIAL. INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. INDENIZAÇÃO DOS VENCIMENTOS E DEMAIS VANTAGENS NO PERÍODO ANTERIOR AO EXERCÍCIO DO CARGO. INDEVIDA. RE Nº 724.347/SP. ACORDÃO COM FUDAMENTO EMINENTEMENTE CONSTITUCIONAL. COMPETÊNCIA DO STF. RESPONSABILIDADE DO CANDIDATO EM ACOMPANHAR A PUBLICAÇÃO DE TODOS OS ATOS, EDITAIS E COMUNICADOS REFERENTES AO CONCURSO PÚBLICO. ARGUMENTAÇÃO DISSSOCIADA. SÚMULA 284 DO STF.
+(..)
+4. A apresentação de razões recursais dissociadas da fundamentação adotada pelo acórdão recorrido configura argumentação recursal deficiente, a não permitir a exata compreensão da controvérsia e inviabilizando o conhecimento do recurso especial. Incidência da Súmula 284 do STF.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.151.204/PR, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 27/3/2023, DJe de 4/4/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO E NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DO DEMANDADO.
+1. A subsistência de fundamento inatacado apto a manter a conclusão do acórdão impugnado, bem como a apresentação de razões recursais dissociadas do que ficou decidido pelo Tribunal de origem, impõe o desprovimento do apelo, a teor do entendimento disposto nas Súmulas 283 e 284 do STF, aplicáveis por analogia. Precedentes.
+2. Nos termos da jurisprudência deste Tribunal Superior, a inscrição indevida do nome do devedor no cadastro de inadimplentes configura ato ilícito e enseja na reparação por dano moral. Incidência da Súmula 83/STJ.3. Agravo interno desprovido.(AgInt no AREsp n. 1.647.046/PR, relator Ministro Marco Buzzi, Quarta Turma, julgado em 24/8/2020, DJe de 27/8/2020.)
+Ante o exposto, não conheço do recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
