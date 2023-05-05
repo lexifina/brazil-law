@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso extraordinário (fls. 502-546) interposto por HÉLIO GERALDO DE LIMA e outros, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça assim ementado (fls. 531-532):
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. POLICIAL MILITAR. QUINQUÊNIO E SEXTA-PARTE PRETÉRITOS. AÇÃO DE COBRANÇA. DIREITO RECONHECIDO EM MANDADO DE SEGURANÇA COLETIVO. NECESSIDADE DO TRÂNSITO EM JULGADO. FALTA DOS PRESSUPOSTOS DE CONSTITUIÇÃO VÁLIDOS.
+1 - Esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, o enunciado n. 282 da Súmula do STF.
+2 - Na origem, trata-se de ação de cobrança ajuizada por policiais militares objetivando o recebimento de parcelas pretéritas do quinquênio e sexta-parte sobre os vencimentos integrais, cujo direito foi reconhecido em mandado de segurança coletivo. Na sentença, a ação foi extinta sem julgamento de mérito e o Tribunal a quo, negou provimento ao recurso de apelação dos servidores, mantendo a sentença em razão da ausência de pressupostos de constituição e desenvolvimento válido do processo.
+3 - A Corte de origem julgou em consonância com a jurisprudência do Superior Tribunal de Justiça no sentido de que é necessário aguardar o trânsito em julgado da sentença em mandado de segurança coletivo para o ajuizamento da ação de cobrança, pretendendo o recebimento de parcelas pretéritas. Nesse sentido: AgInt no REsp n. 1.889.552/SP, rel. Min. Francisco Falcão, Segunda Turma, julgado em 4/10/2021, DJe de 7/10/2021; AgInt nos Edcl no ARESP 1.390.316/SP, rel. Min. Sergio Kukina, Primeira Turma, julgado em 23/09/2019, Dje de 26/09/2019; AgInt no REsp 1.748.782/SP, Rel. Min. Francisco Falcão, Segunda Turma, julgado em 21/02/2019, DJe 01/03/2019; AgInt nos EDcl no REsp 1.747.537/SP, Rel. Min. Assusete Magalhães, Segunda Turma, julgado em 21/02/2019, DJe 06/03/2019; REsp 1.747.518/SP, Rel. Min. Og Fernandes, Segunda Turma, julgado em 12/02/2019, DJe 21/02/2019; REsp 1.764.345/SP, Rel. Min. Herman Benjamin, Segunda Turma, DJe 28/11/2018.
+Agravo interno improvido.
+A parte recorrente alega a violação do art. 5º, XXXV, da CF. Aduz que haveria repercussão geral da matéria tratada.
+Requer, ao final, a admissão do recurso e sua remessa ao Supremo Tribunal Federal.
+As contrarrazões foram apresentadas às fls. XX-XX. / Não foram oferecidas contrarrazões (fl. XX).
+É o relatório.
+O STF pacificou o entendimento de que "a questão da ofensa ao princípio da inafastabilidade de jurisdição, quando há óbice processual intransponível ao exame de mérito, ofensa indireta à Constituição ou análise de matéria fática, tem natureza infraconstitucional, e a ela se atribuem os efeitos da ausência de repercussão geral" (Tema n. 895/STF).
+Essa tese foi estabelecida no julgamento do RE n. 956.302-RG/GO, nos termos da seguinte ementa:
+PRINCÍPIO DA INAFASTABILIDADE DA JURISDIÇÃO. ÓBICES PROCESSUAIS INTRANSPONÍVEIS. EXTINÇÃO DO PROCESSO SEM JULGAMENTO DE MÉRITO. QUESTÃO INFRACONSTITUCIONAL. MATÉRIA FÁTICA. AUSÊNCIA DE REPERCUSSÃO GERAL.
+Não há repercussão geral quando a controvérsia refere-se à alegação de ofensa ao princípio da inafastabilidade de jurisdição, nas hipóteses em que se verificaram óbices intransponíveis à entrega da prestação jurisdicional de mérito.
+(RE n. 956.302/GO-RG, relator Ministro Edson Fachin, julgado em 19/5/2016, DJe de 16/6/2016.)
+No caso, a afronta ao art. 5º, XXXV, da CF é reflexa, pois depende da análise do art. XX OU importa em reexame do contexto fático-probatório, etc.. (ADAPTAR AO CASO CONCRETO), motivo pelo qual incide o Tema n. 895/STF.
+Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se. Intimem-se
+EMENTA
+RECURSO EXTRAORDINÁRIO. OFENSA AO PRINCÍPIO DA INAFASTABILIDADE DE JURISDIÇÃO. TEMA N. 895/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. NEGATIVA DE SEGUIMENTO.
