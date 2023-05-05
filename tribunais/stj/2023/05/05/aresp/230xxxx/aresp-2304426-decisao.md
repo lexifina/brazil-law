@@ -1,0 +1,27 @@
+DECISÃO
+Na origem trata-se de agravo interno contra decisão que indeferiu antecipação de tutela em ação rescisória. No Tribunal a quo a decisão foi mantida. O valor da causa foi fixado em R$ 13.293,62 (Treze mil, duzentos e noventa e três reais e sessenta e dois centavos).
+O recurso especial foi interposto no TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, contra acórdão com o seguinte resumo de ementa:
+PREVIDENCIÁRIO. AÇÃO RESCISÓRIA. VIOLAÇÃO LITERAL DE LEI. ART. 966, V, DO CPC/2015. CONTAGEM RECÍPROCA. TEMPO ESPECIAL. TEMA 942. SÚMULA 343/STF. IMPROCEDÊNCIA.
+1. A viabilidade da ação rescisória fundada no artigo 966, inciso V, do CPC (2015) decorre da não aplicação de uma determinada lei ou do seu emprego de tal modo aberrante que viole frontalmente o dispositivo legal, dispensando-se o reexame dos fatos da causa originária.
+2. O E. Superior Tribunal de Justiça possuía jurisprudência no sentido de que não se admite, por expressa proibição legal (artigo 96, I, da Lei 8.213/1991), a conversão de tempo especial em comum, para fins de contagem recíproca.
+3. O Plenário do Supremo Tribunal Federal, no julgamento do RE n. 1.014.286 (Tema 942),com repercussão geral reconhecida, firmou tese contrária à fixada pelo STJ, para reconhecer que "até a edição da EC 103/2019, não havia impedimento à aplicação, aos servidores públicos, das regras do RGPS para a conversão do período de trabalho em condições nocivas" à saúde ou à integridade física em tempo de atividade comum.
+4. Em juízo de retratação, após o julgamento do Recurso Extraordinário 1.014.286 (Tema 942),a Segunda Turma do Superior Tribunal de Justiça (STJ) estabeleceu que, até a edição da Emenda Constitucional 103/2019, é permitida, aos servidores públicos, a conversão do tempo de serviço especial em comum, objetivando a contagem recíproca de tempo de serviço (RECURSO ESPECIAL Nº 1.592.380 - SC, Rel. MINISTRO FRANCISCO FALCÃO, DJe:10/02/2022).
+5. Incidência no caso da vedação presente na Súmula 343/STF, segundo a qual "não cabe ação rescisória por ofensa a literal disposição de lei, quando a decisão rescindenda se tiver baseado em texto legal de interpretação controvertida nos tribunais".
+6. Improcedência do pedido formulado em ação rescisória.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+O E. Superior Tribunal de Justiça possuía jurisprudência no sentido de que não se admite, por expressa proibição legal (artigo 96, I, da Lei 8.213/1991), a conversão de tempo especial em comum, para fins de contagem recíproca. Nesse sentido:
+(..)
+Por sua vez, o Plenário do Supremo Tribunal Federal, no julgamento do RE n.1.014.286 (Tema 942), com repercussão geral reconhecida, firmou tese contrária à fixada pelo STJ, para reconhecer que "até a edição da EC 103/2019, não havia impedimento à aplicação, aos servidores públicos, das regras do RGPS para a conversão do período de trabalho em". condições nocivas à saúde ou à integridade física em tempo de atividade comum.
+Transcreve-se, por oportuno, a ementa do referido jugado:
+(..)
+Em juízo de retratação, após o julgamento do Recurso Extraordinário 1.014.286(Tema 942), a Segunda Turma do Superior Tribunal de Justiça (STJ) estabeleceu que, até a edição da Emenda Constitucional 103/2019, é permitida, aos servidores públicos, a conversão do tempo de serviço especial em comum, objetivando a contagem recíproca de tempo de serviço (RECURSO ESPECIAL Nº 1.592.380 - SC, Rel. MINISTRO FRANCISCO FALCÃO, DJe: 10/02/2022), conforme ementa a seguir transcrita:
+(..)
+Assim, incide no caso a vedação presente na Súmula 343/STF, segundo a qual "não cabe ação rescisória por ofensa a literal disposição de lei, quando a decisão rescindenda". se tiver baseado em texto legal de interpretação controvertida nos tribunais".
+Não há violação do art. 1.022 do CPC/2015 (antigo art. 535 do CPC/1973) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a fundamentadamente (art. 165 do CPC/73 e do art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+Conforme entendimento pacífico desta Corte, "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão". A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida". (EDcl no MS 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.)
+Por outro lado, verifica-se que o Tribunal de origem decidiu a matéria em conformidade com a jurisprudência desta Corte. Incide, portanto, o disposto no enunciado n. 83 da Súmula do STJ, segundo o qual: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
