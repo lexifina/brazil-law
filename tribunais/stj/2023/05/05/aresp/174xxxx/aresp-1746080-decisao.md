@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de recurso especial (fls. 4.076/165 e-STJ) interposto por GRUPO OK CONSTRUÇÕES E INCORPORAÇÕES LTDA. EPP., com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, impugnando acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios assim ementado:
+"CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO. CONHECIMENTO. MULTAS. PAGAMENTO. INÉPCIA RECURSAL. AFASTAMENTO. TAXA SELIC. SUBSTITUIÇÃO. COISA JULGADA. PRECLUSÂO.
+1. Não há que se falar em descumprimento da condição fixada para a interposição de recursos quando a parte recolhe a multa fixada anteriormente.
+2. Viável o exame do recurso quando a parte recorrente expõe as questões fáticas e jurídicas, exteriorizando o inconformismo.
+3. Preclusa a oportunidade de, após julgada a impugnação ao cumprimento de sentença, a parte requerer a substituição do índice de correção monetária e de juros de mora para a SELIC, sob pena de ferir a coisa julgada.
+4. Recurso não provido." (fl. 4.035)
+Nas razões do especial (fls. 4.076/165 e-STJ), a recorrente alega violação do art. 927, III, do Código de Processo Civil de 2015 (CPC/2015) e 406 do Código Civil (CC), bem como sustenta a ocorrência de divergência jurisprudencial.
+Aduz, em síntese, que a matéria relativa aos juros de mora é de ordem pública, de modo que é cognoscível em qualquer tempo e grau de jurisdição, inclusive de ofício.
+Acrescenta que a sua adequação à lei em vigor não viola a coisa julgada, não sendo, portanto, passível de preclusão.
+Sustenta que os juros moratórios, no caso, devem seguir a Taxa Selic, sendo tal indexador utilizado também para os débitos cíveis após a vigência do novo CC.
+Busca, ao final, o provimento do recurso para que se determine
+"(..) a aplicação da Taxa SELIC como indexador dos juros e correção, nos termos do artigo 406 do CC/2002, interpretado consoante o TEMA 176 da Súmula dos Recursos Repetitivos do STJ, cuja aplicação não encontra óbice na preclusão" (fl. 4.100).
+Contrarrazões às fls. 4.158/4. 192 (e-STJ).
+O recurso foi admitido às fls. 4.195/4.196 (e-STJ).
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+Extrai-se dos autos que a recorrente se insurge contra o entendimento da Corte local que aplicou a preclusão quanto à matéria da correção monetária e dos juros de mora incidentes sobre o título executivo formado em ação rescisória (se se incidiria a Taxa Selic ou não no montante devido a título de sucumbência).
+A propósito, os seguintes trechos do acórdão local:
+"(..)
+Cinge-se a controvérsia em discutir a possibilidade de modificar a forma de cálculo da correção monetária e dos juros de mora, a fim de viabilizar a aplicabilidade da taxa SELIC, sob o argumento de se tratar de matéria de ordem pública e inexistência de preclusão.
+Consta da decisão recorrida (ID 28774146):
+Busca o GRUPO OK a aplicação obrigatória da taxa SELIC como indexadora dos juros de mora e da correção monetária, invocando o artigo 406 do Código Civil (CC) e o Tema 176/STJ. Aduz, em síntese, que não ofende a coisa julgada a simples readequação da taxa de juros no título exequendo e que o índice disposto no CC deve ser a taxa SELIC. Do exame dos autos, verifico que o GRUPO OK traz o tema para debate no ID 13694730, ocasião na qual detectei que estavam pendentes de julgamento embargos de declaração e deixei para apreciar a matéria após o exame do aludido recurso (ID 13694730 - pg. 16). Julgados os aclaratórios (ID 13694731) e interposto recurso especial (ID 13694734), o qual não foi admitido pelo eminente Presidente desta Corte (ID 16507906), interposto agravo, até o momento não foi objeto de análise pelo colendo STJ (AREsp n. 1746080/DF), conforme consulta pública no sítio eletrônico daquela Corte. Pois bem, necessário analisar o pedido de aplicabilidade da taxa SELIC e a questão é simples: houve evidente preclusão. O cumprimento de sentença foi apresentado em março/2016 (ID 13694698 - pgs. 10/20), tendo o GRUPO OK aviado impugnação (ID 13694698 - pgs. 31/45), oportunidade na qual apontou excesso de execução ao argumento de não constar no v. acórdão que a multa por litigância de má-fé teria incidência sobre o valor atualizado da causa. Por intermédio da decisão de ID 13694701, esta Relatoria rejeitou a impugnação e apenas em setembro/2019 o GRUPO OK apresentou o pleito acerca da aplicação da taxa SELIC. Evidencia-se, de um atento exame dos autos, que o GRUPO OK, a despeito das inúmeras manifestações apresentadas desde a impugnação ao cumprimento de sentença, não teve o cuidado de combater adequadamente os cálculos apresentados pelo CEVARIG na primeira oportunidade que teve para se manifestar, deixando, assim, precluir a chance de trazer à baila o assunto. (..)
+Como se vê, os fundamentos externados por ocasião da decisão que rejeitou a aplicação da taxa SELIC, por si sós, são suficientes a direcionar o julgamento da questão de fundo do presente agravo, máxime considerando que não vieram aos autos elementos outros, aptos a me demoverem do raciocínio nela contido.
+Ademais, encontra-se assentado no repertório jurisprudencial desta egrégia Casa que a alteração do índice de correção monetária e da taxa de juros após o trânsito em julgado do título executivo judicial implica em violação à coisa julgada e que após transcorrida a oportunidade de impugnação ao cumprimento de sentença ocorre evidente preclusão." (fls. 4.038/4.039)
+Desse modo, constata-se que o acórdão recorrido está em harmonia com a jurisprudência deste Tribunal Superior, visto que, "embora não se desconheça a natureza de questão de ordem pública dos juros e correção monetária, é "pacífico na jurisprudência desta Corte de que as matérias de ordem pública sujeitam-se aos efeitos da preclusão consumativa quando objeto de decisão anterior"" (AgInt no REsp nº 1.935.300/DF, Rel. Ministro Benedito Gonçalves, DJe 13/10/2022).
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM COMPENSAÇÃO POR DANOS MORAIS. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. VIOLAÇÃO DE SÚMULA. DESCABIMENTO. MATÉRIAS DE ORDEM PÚBLICA. QUESTÃO DECIDIDA. PRECLUSÃO PRO JUDICATO. OCORRÊNCIA.
+1. Ação de obrigação de fazer cumulada com compensação por danos morais.
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+4. Esta Corte tem entendido que mesmo as matérias de ordem pública estão sujeitas à preclusão pro judicato, razão pela qual não podem ser revisitadas se já tiverem sido objeto de anterior manifestação jurisdicional. Precedentes.
+5. Agravo interno não provido."
+(AgInt no AREsp nº 2.146.637/RJ, relatora Ministra NANCY ANDRIGHi, Terceira Turma, julgado em 14/11/2022, DJe de 17/11/2022 - grifou-se)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DESPEJO POR DENÚNCIA VAZIA. LIQUIDAÇÃO POR ARBITRAMENTO. TERMO INICIAL DOS JUROS DE MORA. PRECLUSÃO PRO JUDICATO. QUESTÃO JÁ DECIDIDA. PRECLUSÃO CONSUMATIVA QUE SE OPERA MESMO EM RELAÇÃO A QUESTÕES DE ORDEM PÚBLICA. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO INTERNO IMPROVIDO.
+1. Não se verifica a alegada violação ao art. 1.022 do CPC/2.015, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, a questão que lhe foi submetida, não sendo possível confundir julgamento desfavorável, como no caso, com negativa de prestação jurisdicional ou ausência de fundamentação.
+2. Nos termos da jurisprudência do Superior Tribunal de Justiça, sujeitam-se à preclusão consumativa as questões decididas no processo, inclusive as de ordem pública, que não tenham sido objeto de impugnação recursal no momento próprio. Precedentes.
+3. O entendimento adotado no acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp nº 2.019.623/SP, relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 19/9/2022, DJe de 4/10/2022 - grifou-se)
+"PROCESSUAL CIVIL. ADMINISTRATIVO. RESPONSABILIDADE CIVIL DO ESTADO. ACIDENTE DE VEÍCULO ENVOLVENDO VIATURA DA POLÍCIA CÍVIL. INDENIZAÇÃO. PROCEDÊNCIA DO PEDIDO. JUROS MORATÓRIOS. PRECLUSÃO. OCORRÊNCIA. FALTA DE PREQUESTINAMENTO.
+I - Na origem, trata-se de ação ajuizada contra o Estado do Paraná, objetivando indenização por danos causados em acidente de veículo de propriedade do autor, em decorrência do abalroamento provocado pela viatura da Polícia Civil do Estado do Paraná. Na sentença, julgou-se procedente o pedido. No Tribunal a quo, a sentença foi mantida. Esta Corte conheceu do agravo para negar provimento ao recurso especial.
+II - Segundo a jurisprudência do Superior Tribunal de Justiça, não obstante a natureza de questão de ordem pública dos juros legais - assim como da correção monetária -, tal natureza não é capaz de se impor sobre outras questões da mesma ordem, tal como a coisa julgada e a preclusão, estando sujeita aos efeitos da preclusão consumativa quando objeto de decisão anterior (REsp 1.783.281/PE, relator Ministro Og Fernandes, Segunda Turma, DJe 29/10/2019.)
+III - As matérias de ordem pública precisam igualmente de prequestionamento, o que não se confunde com a possibilidade de arguição em qualquer grau e instância judicial. Confiram-se os seguintes julgados relacionados à questão: (AgInt no REsp 1.862.394/RS, relator Ministro Og Fernandes, Segunda Turma, julgado em 24/2/2021, DJe 1º/3/2021 e REsp 1.815.221/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/8/2019, DJe 10/9/2019.)
+IV - Agravo interno improvido."
+(AgInt no AREsp nº 1.807.793/PR, relator Ministro FRANCISCO FALCÃO, Segunda Turma, julgado em 9/11/2021, DJe de 11/11/2021 - grifou-se)
+Ademais, ressalta-se que os julgados trazidos nas razões do recurso especial estão descontextualizados, já que trataram de circunstâncias fáticas distintas daquelas havidas nos presentes autos. Logo, a divergência jurisprudencial não restou demonstrada, diante da ausência de similitude fática entre os acórdãos cotejados.
+Ante o exposto, nego provimento ao recurso especial .
+Deixo de tratar dos honorários recursais (art. 85, § 11, do CPC/2015), haja vista que o recurso especial é oriundo de acórdão proferido por ocasião de julgamento de agravo de instrumento, sem fixação de honorários sucumbenciais.
+Publique-se.
+Intimem-se.
