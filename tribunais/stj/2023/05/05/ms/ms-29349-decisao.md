@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de Mandado de Segurança impetrado contra ato imputado ao Ministro de Estado da Controladoria-Geral da União que, em Processo Administrativo Disciplinar - PAD, aplicou à impetrante a sanção de demissão do cargo que ocupava no Instituto Evandro Chagas.
+Aduz a requerente que foram cometidas "ilegalidades e abusividades" no bojo do PAD. Em síntese, sustenta: a) não teve acesso a todos os documentos mencionados na Notificação e na Nota Técnica n. 938/2021/COAC/DICOR/CRG, prejudicando a sua defesa; b) seu pedido de instauração de incidente de insanidade mental foi indevidamente rejeitado, mas foram apresentados diversos documentos médicos apontando problemas psicológicos e psiquiátricos; c) o PAD foi processado perante autoridade incompetente, na medida em que o Instituto Evandro Chagas conta com uma Comissão Permanente de Controle Interno.
+Pede o deferimento de medida liminar para que seja determinada a suspensão dos efeitos do ato coator.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 17.4.2023.
+Em juízo perfuntório, não vislumbro a presença dos requisitos para a concessão da liminar, pois a liquidez e certeza do direito afirmado na inicial não se mostra de plano, demandando a análise pormenorizada de todo o processo administrativo disciplinar, sendo prudente aguardar a oitiva da autoridade indicada como coatora.
+Quanto à alegação de incompetência do Ministro de Estado da Controladoria-Geral da União, cito o seguinte precedente, que corrobora - ao menos em uma análise preliminar - a possibilidade de aplicação da sanção ora impugnada:
+MANDADO DE SEGURANÇA. PROCESSO ADMINISTRATIVO DISCIPLINAR. PENA DE DEMISSÃO. COMPETÊNCIA CORREICIONAL DA CGU. POSSIBILIDADE. AUSÊNCIA DE ILEGALIDADE. TESE DE ILEGALIDADE NA COMPOSIÇÃO DA COMISSÃO DISCIPLINAR POR SERVIDORES NÃO ESTÁVEIS. AFASTAMENTO. REPRIMENDA FUNDAMENTADA EM OUTRAS PROVAS ALÉM DAS ESCUTAS TELEFÔNICAS COM AUTORIZAÇÃO JUDICIAL.
+1. Trata-se mandado de segurança contra ato de Ministro de Estado Chefe da Controladoria-Geral da União que aplicou em desfavor do impetrante, um dos alvos da "Operação Navalha" da Polícia Federal, a penalidade de demissão no âmbito do processo administrativo disciplinar n. 00190.00978/2010-54, por concluir, em síntese, que o impetrante valeu-se do cargo público que ocupava para obter proveito pessoal e em favor da empresa Gautama nos procedimentos de obtenção e liberação de recursos para obras do interesse da construtora.
+2. Incumbe à Controladoria-Geral da União, como órgão central do Sistema de Correição do Poder Executivo Federal, dentre outras atribuições, instaurar sindicâncias, procedimentos e processos administrativos disciplinares, em razão: a) da inexistência de condições objetivas para sua realização no órgão ou entidade de origem; b) da complexidade e relevância da matéria; c) da autoridade envolvida; ou d) do envolvimento de servidores de mais de um órgão ou entidade (arts. 2º, caput e 4º, inciso VIII, do Decreto 5.480/2005, c/c os arts. 18, § 1º e § 4º, e 20, parágrafo único, ambos da Lei n. 10.683/2003).
+3. Assim, compete ao Ministro de Estado do Controle e da Transparência o julgamento dos respectivos processos, inclusive na aplicação das penalidades de demissão. Precedentes: MS 13.699/DF, Rel. Ministro Benedito Gonçalves, Primeira Seção, DJe 19/03/2014; MS 12.273/DF, Rel. Ministra Alderita Ramos de Oliveira (Desembargadora convocada do TJ/PE), Terceira Seção, DJe 19/06/2013; AgRg no MS 14.123/DF, Rel. Ministro Mauro Campbell Marques, Primeira Seção, DJe 25/05/2009, dentre outros.
+4. O fato de o impetrante encontrar-se cedido à época dos fatos para a Câmara dos Deputados não afasta o poder disciplinar do órgão de origem do servidor, até mesmo porque o insurgente não perdeu seu vínculo com o Poder Executivo Federal.
+(..) 9. Segurança denegada.
+(MS 19.994/DF, Rel. Min. BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, DJe 29.6.2018)
+Ademais, apesar de sabido que a demissão de servidor público, com a consequente supressão de seus vencimentos, gera para ele graves consequências, tal constatação por si só não basta para a concessão da liminar pleiteada. Portanto, por ora deve prevalecer a presunção de legalidade da sanção imposta.
+Diante do exposto, indefiro a liminar.
+Notifique-se a autoridade coatora para que preste as informações devidas no prazo de dez dias, observando o disposto no art. 7º, I, da Lei 12.016/2009.
+Intime-se o Advogado-Geral da União para que manifeste eventual interesse da União em ingressar no feito, ex vi do inciso II do art. 7º da Lei 12.016/2009.
+Cumpridas as determinações, remetam-se os autos ao Ministério Público Federal para parecer.
+Publique-se.
+Intimem-se.
