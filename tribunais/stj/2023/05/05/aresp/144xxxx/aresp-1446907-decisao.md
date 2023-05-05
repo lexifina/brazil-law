@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de agravo interposto por ASSOCIAÇÃO PAULISTA DO MINISTÉRIO PÚBLICO contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 196):
+APELAÇÃO - Ação Coletiva - Pensionistas - Pretensão ao pagamento da Parcela Autônoma de Equivalência (PAE) relativa ao período de 1994 a 1997 - Ilegitimidade ativa - Redução da verba honorária - Recurso parcialmente provido.
+Rejeitados os embargos de declaração opostos (fls. 208-212).
+No recurso especial, alega a recorrente, preliminarmente, ofensa aos arts. 489, § 1º, inc. IV, e 1.022, inc. II, todos do Código de Processo Civil, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Sustenta, ainda, afronta aos arts. 371 e 1.013, inciso I, §§ 3º e 4º, do Código de Processo Civil, ao defender, em síntese, sua legitimidade ativa da ação em questão e a legitimidade passiva da ora recorrida e, no mérito, a não incidência da prescrição.
+Foram oferecidas contrarrazões ao recurso especial (fls. 231-236).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fl. 244), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 254-259).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Consta dos autos que a ação foi extinta pelo Juiz de primeiro grau em virtude da ilegitimidade ativa da parte autora, e foi considerada prejudicada a análise quanto à ilegitimidade passiva da SPPrev e à questão de mérito (prescrição).
+Alega a recorrente, em recurso especial, a sua ilegitimidade ativa, a passiva da ora recorrida e, no mérito, a não prescrição da ação.
+De início, inexiste a alegada ofensa aos arts. 489, § 1º, I e IV, e 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido. Assim, manifestou-se a Corte a quo de maneira clara e fundamentada sobre as questões postas a julgamento, não obstante tenha entendido o julgador de segundo grau em sentido contrário ao posicionamento defendido pela ora recorrente.
+Outrossim, consigne-se inviável a apreciação das alegações da recorrente, considerando que a Corte de origem, ao entender por sua ilegitimidade ativa no caso dos autos, e prejudicada a análise quanto à ilegitimidade passiva, e à questão de mérito (prescrição), firmou o entendimento com base no conjunto probatório dos autos. Confira-se o seguinte excerto o referido acórdão (fl . 197):
+Assim, como bem decidido pela r. sentença apelada, o direito ora pretendido, em razão de seu caráter indenizatório, corresponde a direito hereditário, de forma que os pensionistas não são necessariamente seus únicos titulares e, portanto, não têm legitimidade para autorizar a associação a postular direito alheio. Por consequência, não possui a associação legitimidade ativa para postular direito cujos titulares não são necessariamente seus associados. Correta, portanto, a extinção da ação em razão da ilegitimidade ativa da autora, prejudicada a análise quanto à ilegitimidade passiva da SPPrev e à questão de mérito (prescrição).
+Assim, rever tal entendimento, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, a eventualmente ensejar novo juízo acerca dos fatos e provas. Sendo assim, incide no caso a Súmula n. 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
