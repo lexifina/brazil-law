@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim ementado (fls. 159-160):
+HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. PRISÃO PREVENTIVA DECRETADA PARA GARANTIA DA ORDEM PÚBLICA. PERICULOSIDADE EVIDENCIADA. PACIENTE QUE RESPONDE A OUTRAS TRÊS AÇÕES PENAIS TOMBADAS SOB OS NÚMEROS 0000742-45.2009.8.05.0050, 0000860-21.2009.8.05.0050 E 0000316-23.2015.8.05.0050, TODAS PELOS CRIMES DE TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO. CONCRETO RISCO DE REITERAÇÃO DELITIVA. ALEGAÇÃO DE EXCESSO DE PRAZO PARA A FORMAÇÃO DA CULPA. INOCORRÊNCIA. RESPOSTA À ACUSAÇÃO QUE SÓ VEIO A SER APRESENTADA EM DEZEMBRO DE 2022. INEXISTÊNCIA DE DESÍDIA IMPUTÁVEL AO PODER JUDICIÁRIO. FEITO COM TRÂMITE REGULAR. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. ORDEM CONHECIDA E DENEGADA.
+O paciente foi preso em flagrante em 11/6/2022, convertido em prisão preventiva, sendo denunciado nos termos do art. 33, caput, da Lei n. 11.343/2006.
+Alega o impetrante, em suma, a ocorrência de excesso de prazo para a formação da culpa, pois o paciente, preso desde 11/6/2022, somente foi citado em 6/12/2022, ou seja, 5 meses e 15 dias depois do recebimento da denúncia, o que denota a desídia estatal na tramitação do feito.
+A liminar foi indeferida. Prestadas as informações, manifestou-se o Ministério Público Federal pelo não conhecimento do writ.
+Na origem, Processo n. 8001510-98.2022.8.05.0203, oriundo da Vara Criminal de Prado/BA, designou-se audiência de instrução e julgamento para 2/6/2023, conforme informações processuais extraídas do site do TJBA em 3/5/2023.
+Aos prazos consignados na lei processual deve-se atentar o julgador às peculiaridades de cada ação criminal. Com efeito, uníssona é a jurisprudência no sentido de que a ilegalidade da prisão por excesso de prazo só pode ser reconhecida quando a demora for injustificada, impondo-se adoção de critérios de razoabilidade no exame da ocorrência indevida coação.
+Sobre o tema, assim se manifestou o Tribunal estadual (fls. 165-167):
+ ..  Compulsando os autos, verifica-se que o Paciente foi preso em flagrante no dia 11/06/2022, pela suposta prática do crime previsto no art. 33, caput, da Lei 11.343/06, prisão essa que foi convertida em preventiva, sob o fundamento da garantia da ordem pública, em 12/06/2022.
+A denúncia fora ofertada pelo Órgão Ministerial em 12/07/2022 e recebida 21/07/2022, sendo determinada a citação paciente, para apresentar resposta à acusação, o que somente ocorreu em 16/12/2022, conforme comprova o documento acostado aos autos principais (ID 332377714 - PJE 1º grau).
+O Juiz a quo ao realizar a reavaliação da necessidade da prisão, proferiu decisão em 29/11/2022, mantendo a custódia cautelar do paciente, por inexistir qualquer alteração fática ou nova circunstância que enseja a sua soltura, sob o seguinte argumento:
+ ..
+Consta, ainda, dos autos principais que fora apresentada, pela defesa do ora paciente, a resposta a acusação em 16/12/2022 (ID"s 339360689/339360697 - PJE 1º grau), tendo o Ministério Público apresentado manifestação em 12/01/2023 (ID 350008497 -PJE 1º grau).
+Diante do quanto extraído dos autos, no que tange à alegação de excesso de prazo, não há sinais de desídia da autoridade impetrada na condução do processo, não havendo, portanto, qualquer ilegalidade a ser sanada. ..
+No caso, o réu, ora paciente, foi preso em flagrante em 11/6/2022, convertido em prisão preventiva em 12/6/2022. A denúncia foi recebida em 21/7/2022 (fls. 63-66), sendo que a resposta da defesa deu-se somente em 16/12/2022, reavaliando-se a necessidade da custódia em 29/11/2022.
+Logo, se o atraso é justificado por incidentes processuais não imputáveis ao juízo - resposta tardia da defesa -, ou, ainda, se o processo é complexo, não se reconhece o constrangimento ilegal em apreço, mormente diante da data próxima da realização da audiência de instrução e julgamento, designada para 2/6/2023, consoante relatado alhures.
+Assim, não evidenciada mora estatal em ação penal em que a sucessão de atos processuais infirma a ideia de paralisação indevida da ação penal, ou de culpa do Estado persecutor, não se vê demonstrada ilegalidade no prazo da persecução criminal desenvolvida.
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
