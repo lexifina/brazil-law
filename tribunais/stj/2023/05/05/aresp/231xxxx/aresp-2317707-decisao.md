@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a" e "c", da CF) interposto contra acórdão cuja ementa é a seguinte:
+DIREITO PROCESSUAL CIVIL. AÇÃO COLETIVA. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. PRELIMINAR: NÃO CONHECIMENTO DO RECURSO POR NÃO CABIMENTO. DECISÃO QUE REJEITA A IMPUGNAÇÃO; HOMOLOGADO OS CÁLCULOS DA PARTE EXEQUENTE; E DETERMINA A EXPEDIÇÃO DE OFÍCIOS REQUISITÓRIOS. FASE DE CUMPRIMENTO DE SENTENÇA ENCERRADA. PRONUNCIAMENTO QUE CONSUBSTANCIA SENTENÇA IMPUGNÁVEL POR APELAÇÃO. PRECEDENTES DO STJ E DESTA CORTE. REJEIÇÃO. PRELIMINAR: IRREGULARIDADE FORMAL. QUESTIONAMENTO ESPECÍFICO DOS TERMOS DA SENTENÇA. REGRA DA DIALETICIDADE DEVIDAMENTE OBSERVADA. REJEIÇÃO. MÉRITO: IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. INTIMAÇÃO DO ENTE PÚBLICO PARA OFERECER IMPUGNAÇÃO NO PRAZO LEGAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS VALORES PRETENDIDOS. ALEGAÇÃO DE EXCESSO DE EXECUÇÃO FORMULADA UNICAMENTE NO APELO. MATÉRIA DE DEFESA. PRECLUSÃO. PRECEDENTES DO STJ. PRETENSÃO RECURSAL DE SUBMETER OS CÁLCULOS AO SETOR DE CONTADORIA JUDICIAL. CONTROVÉRSIA NÃO DEMONSTRADA. APELO DESPROVIDO.
+Os Embargos de Declaração foram rejeitados.
+Em seu Recurso Especial, o agravante alega que ocorreu violação dos arts. 509, I e II, e 1.022 do CPC/2015, além de divergência jurisprudencial.
+Contrarrazões às fls. 1.380-1.392, e-STJ.
+O juízo de admissibilidade negativo deu ensejo à interposição do presente Agravo.
+Contraminuta às fls. 1.484-1.492, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 19.4.2023.
+Assiste razão ao recorrente no que tange à ofensa ao art. 1.022 do CPC/2015.
+A parte sustenta:
+Como exposto linhas acima, o Município de Natal, ora Recorrente, interpôs embargos de declaração em face do acórdão prolatado pelo TJRN, ao passo que não se pronunciou o Tribunal a quo acerca da aplicação da ORIENTAÇÃO JURISPRUDENCIAL DO STF EM REPERCUSSÃO GERAL NO RE 677156 ED e da ORIENTAÇÃO JURISPRUDENCIAL DO STJ EM EMBARGOS DE DIVERGÊNCIA EREsp 1705018/DF e TEMA 482 do STJ.
+Com efeito, tanto na petição de Recurso Especial como na dos aclaratórios, a parte recorrente destaca a tese jurídica de que "tratando-se de AÇÃO COLETIVA, seria imprescindível a "prévia habilitação e liquidação pelos interessados individuais antes de iniciar a execução ou cumprimento definitivo da condenação" (RE 677156 ED e EREsp 1705018/DF e TEMA 482 DO STJ)".
+Porém, mesmo após instada a se manifestar, a Corte local não apreciou a questão suscitada, que é relevante ao deslinde da controvérsia.
+É cediço o entendimento de que a apreciação integral da lide, com fundamento suficiente, não caracteriza infringência ao art. 1.022 do CPC/2015, e que o juiz não é obrigado a rebater todos os argumentos apresentados pelas partes. Por outro lado, o magistrado não pode deixar de conhecer de matéria indispensável à solução do conflito, mormente quando sua decisão não é suficiente para refutar as alegações aduzidas - e, portanto, não abrange toda a demanda.
+Reconhecida, portanto, a existência de omissão no acórdão impugnado e, por conseguinte, a contrariedade ao art. 1.022 do CPC/2015.
+Nesse sentido:
+ADMINISTRATIVO. CUMPRIMENTO DE SENTENÇA. JUROS DE MORA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. OCORRÊNCIA. MATÉRIA RELEVANTE. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM.
+1. Assiste razão à parte recorrente, no que tange à violação do art. 1.022 do CPC/2015.
+2. Com efeito, nas razões do Recurso Especial, bem como na petição dos Aclaratórios, a parte recorrente destaca as teses jurídicas de existência de coisa julgada garantindo a apuração dos juros moratórios até o efetivo pagamento da dívida, bem como, sucessivamente, do direito aos juros moratórios vencidos no curso da lide até a data da inscrição do crédito no orçamento.
+3. Porém, instada a se manifestar, verifica-se que não houve análise, pela Corte local, das questões suscitadas pela parte recorrente, o que configura matéria relevante ao deslinde da controvérsia.
+4. É cediço o entendimento de que a solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC/2015 e que o juiz não é obrigado a rebater todos os argumentos aduzidos pelas partes. Por outro lado, o juiz não pode deixar de conhecer de matéria importante para o deslinde da questão, mormente quando sua decisão não é suficiente para refutar a tese aduzida, que, portanto, não abrange toda a controvérsia.
+5. Recurso Especial provido para determinar o retorno dos autos à origem a fim de que, em novo julgamento dos aclaratórios, o Tribunal a quo se manifeste expressamente acerca das teses jurídicas de existência de coisa julgada, garantindo a apuração dos juros moratórios até o efetivo pagamento da dívida, bem como, sucessivamente, do direito aos juros moratórios vencidos no curso da lide até a data da inscrição do crédito no orçamento.
+(REsp 1.891.151/RS, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 12/4/2021.)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. SALÁRIO-MATERNIDADE. ART. 1.022 DO CPC. VIOLAÇÃO. OCORRÊNCIA. MATÉRIA RELEVANTE. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM.
+1. Cuida-se de inconformismo contra acórdão do Tribunal de origem, que indeferiu o pagamento do salário-maternidade, por entender que não se paga o mesmo benefício duas vezes.
+2. Alega a recorrente que o acórdão vergastado partiu de premissa equivocada consequente da falta do correto exame da prova carreada ao feito, ao ter reformado a sentença de primeira instância sob o argumento de que a indenização constante do acordo trabalhista já teria englobado o período de salário maternidade, quando o referido documento é expresso em fazer constar o contrário.
+3. O recurso merece acolhida, ante a aparente violação ao artigo 1.022 do CPC, pela configuração de omissão relevante no julgado, relativa à análise da questão referente ao fato de não ter sido o benefício de salário-maternidade incluído no acordo trabalhista realizado pela parte autora com ex empregador, omissão essa não superada a despeito da oposição de Embargos Declaratórios.
+4. É cediço o entendimento de que a solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC e que o juiz não é obrigado a rebater todos os argumentos aduzidos pelas partes. Por outro lado, o juiz não pode deixar de conhecer de matéria relevante ao deslinde da questão, mormente quando sua decisão não é suficiente para refutar a tese aduzida, que, portanto, não abrange toda a controvérsia.
+5. Recurso Especial a que se dá parcial provimento, a fim de anular o v. aresto proferido nos Embargos de Declaração e determinar o retorno dos autos ao Egrégio Tribunal de origem para que profira novo julgamento e aborde a matéria omitida.
+(REsp 1.697.338/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 19/12/2017.)
+Ao lume do exposto, conheço do Agravo para dar provimento ao Recurso Especial e determinar o retorno dos autos à origem a fim de que, em novo julgamento dos aclaratórios, o Tribunal a quo se manifeste expressamente acerca da tese jurídica de que, "tratando-se de AÇÃO COLETIVA, seria imprescindível a "prévia habilitação e liquidação pelos interessados individuais antes de iniciar a execução ou cumprimento definitivo da condenação" (RE 677156 ED e EREsp 1705018/DF e TEMA 482 DO STJ)."
+Publique-se.
+Intimem-se.
