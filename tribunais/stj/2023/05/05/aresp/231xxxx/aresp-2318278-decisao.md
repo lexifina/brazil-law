@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo interposto em adversidade à decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça do Rio Grande do Norte, cuja ementa é a seguinte (e-STJ fl. 336):
+PENAL E PROCESSUAL PENAL. POSSEEMENTA:IRREGULAR DE ARMA DE FOGO DE USOPERMITIDO (ART. 12 DA LEI Nº 10.826/03). CONDENAÇÃO. APELAÇÃO EXCLUSIVA DADEFESA. PLEITO DE EXCLUSÃO DO PAGAMENTODE CUSTAS PROCESSUAIS. RECURSO NÃOCONHECIDO NESTE PARTICULAR. COMPETÊNCIADO JUÍZO DAS EXECUÇÕES. PRECEDENTES DOTJRN. PEDIDO DE REDUÇÃO DA SANÇÃO, NASEGUNDA FASE DA DOSIMETRIA, PARA AQUÉMDO MÍNIMO LEGAL. IMPOSSIBILIDADE. RECONHECIMENTO DA ATENUANTE DACONFISSÃO ESPONTÂNEA QUE NÃO PERMITE, NAETAPA SECUNDÁRIA, MINORAÇÃO PARAPATAMAR INFERIOR AO ESTABELECIDO NO TIPOPENAL. ÓBICE PRESCRITO NA SÚMULA 231/STJ. ORIENTAÇÃO JURISPRUDENCIAL UNIFORME ECONSOLIDADA DO STF E DO STJ EMCONFORMIDADE COM O ORDENAMENTOJURÍDICO. CONHECIMENTO PARCIAL E DESPROVIMENTO DO RECURSO.
+Nas razões do recurso especial (e-STJ, fls. 389/403), fundado na alínea "a" do permissivo constitucional, alega a parte recorrente violação dos arts. 65, inciso III, do Código Penal e 804 do Código de Processo Penal, ao argumento de que faz jus à atenuante da confissão espontânea e não possui condições financeiras de arcar com as custas processuais.
+Apresentadas contrarrazões, o Tribunal a quo não admitiu o recurso especial, ensejando a interposição do presente agravo. O Ministério Público Federal manifestou-se pelo não conhecimento do agravo (e-STJ, fls. 503/507).
+É o relatório. Decido.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo.
+A decisão agravada inadmitiu o recurso especial pela incidência das Súmulas 282 e 356 do STF e do Tema n. 190 do STJ (e-STJ, fls. 443/444)
+Não obstante, nas razões do agravo (e-STJ, fls. 448/461), a parte agravante não apresentou impugnação específica aos referidos fundamentos, limitando-se a reiterar as razões do recurso especial.
+Como tem decidido esta Corte, os recursos devem impugnar, de maneira específica e pormenorizada, os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos.
+De fato, "O princípio da dialeticidade impõe à parte a demonstração específica do desacerto das razões lançadas no decisum atacado, sob pena de não conhecimento do recurso. Não são suficientes, para tanto, alegações genéricas ou a repetição dos termos do recurso interposto" (AgRg no AREsp n. 1.941.517/SP, relator Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 22/2/2022, DJe 3/3/2022).
+Nesses casos, a ausência de efetiva impugnação aos fundamentos da decisão que inadmitiu o recurso especial, ônus da parte recorrente, obsta o conhecimento do agravo, nos termos dos arts. 932, inciso III, do CPC, e 253, parágrafo único, inciso I, do RISTJ, e da Súmula 182 do STJ, aplicável por analogia.
+Ante o exposto, não conheço do agravo.
+Intimem-se.
