@@ -1,0 +1,24 @@
+DECISÃO
+Na origem trata-se de ação de obrigação de fazer referente a fornecimento de medicamento. Na sentença julgou-se o pedido procedente. No Tribunal a quo a sentença foi parcialmente reformada para reduzir à metade o valor cominado. O valor da causa foi fixado em R$ 2.000,00 (Dois mil reais).
+O recurso especial foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO, contra acórdão com o seguinte resumo de ementa:
+REEXAME NECESSÁRIO E APELAÇÃO CÍVEL. FORNECIMENTO GRATUITO DO MEDICAMENTO MICOFENOLATO DE MOFETILA 500MG. PACIENTE PORTADORA DE GRANULOMATOSE DE WEGENER (CID 10- M31.3). RESPONSABILIDADE DO PODER PÚBLICO.
+1. De proêmio, anotou-se que a obrigação dos entes públicos com relação à prestação de serviços de saúde pública (incluído o fornecimento de medicamentos essenciais) é comum, podendo ser demandada qualquer das esferas de governo (CF, art. 198).
+2. A necessidade/eficácia do medicamento solicitado, a impossibilidade de utilização de outras drogas no combate aos efeitos da enfermidade, a existência de risco efetivo contra a saúde da apelada, e a impropriedade da politica de saúde existente restam evidenciadas pela apreciação do "laudo médico", do "receituário médico" e da "solicitação médica" acostados aos autos, subscritos pela Dra. Izabel Cunha Lima (CRM-PE 13.969), do IMIP  Instituto de Medicina Integral Professor Fernando Figueira, cujos conteúdos não foram contraditados pelo Estado.
+3. No plano de fundo, é patente a gravidade da doença que aflige a menor Williane Mayara Oliveira da Paz, atestada pelos e* ames e documentos acostados aos autos, pelo que o atendimento ao referido pleito na forma já deferida é indispensável à efetividade aos direitos à saúde, à vida e à dignidade da pessoa humana, assegurados nos art. 5º e 196 da Constituição Federal.
+4. Não Se trata de prestação jurisdicional invasiva da seara administrativa, eis que a ordem deferida em primeiro grau apenas determina o cumprimento de obrigação já adrede imposta pela própria Constituição da República.
+5. Destarte, tem-se que é de ser reduzida para o valor da multa diária de RS 1.000,00 fixada pelo juízo de primeiro grau, à luz dos princípios da razoabilidade e da proporcionalidade.
+6. Reexame necessário parcialmente provido, prejudicado o apelo voluntário, apenas para reduzir o valor do preceito cominatório, mantidos os demais termos da sentença de primeiro grau.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+No plano de fundo, é patente a gravidade da doença que aflige a menor  WMOP , atestada pelos exames e documentos de fls. 16/27, pelo que o atendimento ao referido pleito na forma já deferida é indispensável à efetividade aos direitos à saúde, à vida e à dignidade da pessoa humana, assegurados nos art. 5º e 196 da Constituição Federal.
+(..)
+Do Superior Tribunal de Justiça, colaciono o aresto seguinte:
+(..)
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Relativamente à alegação de violação do art. 461 do CPC/1973, esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+Ademais, verifica-se que o Tribunal de origem decidiu a matéria em conformidade com a jurisprudência desta Corte. Incide, portanto, o disposto no enunciado n. 83 da Súmula do STJ, segundo o qual: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
