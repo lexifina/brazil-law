@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a", da Constituição Federal) interposto de acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. EXCESSO DE EXECUÇÃO NÃO CONFIGURADO. Restando demonstrado que os cálculos apresentados pela exequente estão em conformidade com a sentença recorrida, inexistindo o alegado excesso, mesmo porque houve postergação do pagamento dos valores devidos, além de ter ocorrido equivocada utilização da base de cálculo para os reajustes dos anos subsequentes, correta a decisão recorrida que rejeita a impugnação oposta. AGRAVO DE INSTRUMENTO CONHECIDO E DESPROVIDO.
+Embargos de Declaração rejeitados (fls. 87-95, e-STJ).
+Nas razões recursais (fls. 101-112, e-STJ), o Estado de Goiás alega violação dos arts. 1.022, 502, 503, 505, 506 e 507 do CPC.
+Contrarrazões às fls. 181-191, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 20.4.2023.
+Inicialmente, quanto à suscitada ofensa ao art. 1.022 do CPC, verifico que o recorrente não logrou êxito em indicar objetivamente quais foram os pontos omitidos no acórdão combatido, com a individualização do erro, da obscuridade, da contradição ou da omissão supostamente ocorridos, bem como em demonstrar sua relevância para a solução do conflito apresentado nos autos. Tal circunstância atrai a incidência, por analogia, da Súmula 284/STF: "Inadmissível o Recurso Extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Quanto à questão principal, a parte defende que o aresto recorrido afrontou a coisa julgada, pois não observou o que foi definido no título executivo. Sobre o ponto, o Tribunal a quo decidiu:
+De acordo com a narrativa inicial da Ação Civil Pública nº 0440990.61.2015.8.09.0051, o agravante foi condenado ao pagamento do reajuste geral anual de 12,33%, conforme estabelecido nas Leis Estaduais nº 18.419/2014, 18.420/2014 e 18.421/2014, previsto nos incisos II dos artigos 1ºs de cada uma delas, que deveria ter sido pago em novembro de 2015.
+Ou seja, os beneficiados passam a ter direito ao reajuste anual em quatro parcelas, sendo uma de 18,50% e outras três de 12,33%, que deveriam ter sido pagas em novembro de 2014, novembro de 2015, novembro de 2016 e novembro de 2017, respectivamente. No entanto, por meio da Lei nº 19.122/2015, as três parcelas referentes aos meses de novembro de 2015,2016 e 2017 foram postergadas para dezembro/2016, 2017 e novembro 2018.
+In casu, tem-se que a Lei estadual nº 18.474/2014 promoveu a revisão geral anual referente aos anos de 2014, 2016, 2017 e 2018, omitindo-se, contudo, quanto ao ano de 2015. Vejamos:
+(..)
+Outrossim, vê-se que o reajuste total só começou a ser pago em novembro/2018, quando deveria ter iniciado em novembro/2017, ainda que implementado na folha de pagamento em novembro/2016, restando evidente o deficit salarial, até porque recebeu menos do que teria direito nos períodos de novembro/2015 até outubro/2018 e não só no período de 01 (um) ano, como entende o Devedor.
+Nessa dinâmica, ao analisar a ação civil pública proposta pelo Sindicato dos Policiais Civis do Estado de Goiás-SINPOL (autos nº 0440990-61.2015.8.09.0051), percebe-se que o Estado de Goiás foi condenado ao pagamento da parcela do reajuste de 12,33% (doze vírgula trinta e três por cento), que deveria ser saldada em novembro de 2015, contudo, apenas foi liquidada em novembro de 2018, tal como reconhecida na sentença em cumprimento.
+Logo, como bem fundamentou a nobre magistrada singular, pelo fato de os reajustes serem cumulativos e somados (18,5%  12,33%  12,33%  12,33% = 55,49%), a proporção integral somente foi solvida em novembro/2018, ao passo que deveria ser paga em novembro/2017, restando, portanto, um deficit remuneratório, em virtude da postergação da parcela de 12,33% (doze vírgula trinta e três por cento), que, por seu turno, deveria ser liquidada em novembro de 2015.
+(..)
+Posto isso, entendo que não há excesso, em relação aos cálculos apresentados pela parte exequente/recorrida a ser decotado do decisum agravado e, assim, inviável qualquer alteração.
+A análise da demanda exigiria o exame de legislação local, providência vedada nesta via recursal conforme dispõe a Súmula 280/STF.
+Ademais, "a interpretação das instâncias ordinárias acerca do título exequendo, ainda que judicial, não se submete ao crivo do Recurso Especial, por encontrar o óbice de que trata o enunciado n. 7, da Súmula" (AgRg no AREsp 10.737/RJ, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, DJe 22.3.2012). No mesmo sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE JULGAMENTO DO RECURSO ESPECIAL DAS PARTES ORA EMBARGANTES. ACOLHIMENTO. RECURSO ESPECIAL. ALEGAÇÃO DE VIOLAÇÃO À COISA JULGADA. REVISÃO DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ
+1. In casu, o Tribunal de origem consignou: "Em resumo, tem-se que o acórdão embargado assentou fundamento claro e bastante para explicitar a correta interpretação que deve ser dada ao título executivo judicial considerando a superveniência do resgate antecipado dos créditos de empréstimo compulsório discutidos nos autos. Não houve rejulgamento ou ofensa à coisa julgada, mas sim o escorreito dimensionamento da questão decidida por esta Corte com fundamento nos precedentes do STJ" (fl. 468, e-STJ, grifei).
+2. É evidente que, para modificar o entendimento firmado no acórdão recorrido, seria necessário exceder as razões nele colacionadas, visto que a instância a quo utilizou elementos contidos nos autos para alcançar tal compreensão, cuja análise demanda reexame de provas, inadmissível na via estreita do Recurso Especial, ante o óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial."
+3. Quanto aos limites subjetivos e objetivos da coisa julgada, também a sua apreciação não é permitida pelo STJ na via do Recurso Especial, pois infringe o disposto no enunciado da Súmula 7 do STJ
+4. Embargos de Declaração acolhidos para não conhecer do Recurso Especial.
+(EDcl no REsp 1.776.656/RS, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 9/6/2020)
+Ante o exposto, não conheço do Recurso Especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, caso aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo.
+Publique-se.
+Intimem-se.
