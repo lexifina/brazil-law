@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de Agravo contra decisão que inadmitiu Recurso Especial (art. 105, III, "a" e "c", da CF) interposto de acórdão assim ementado (fl. 226, e-STJ):
+APELAÇÃO - EXCEÇÃO DE PRÉ - EXECUTIVIDADE - Regime Especial - Desenquadramento que teria se dado supostamente em razão de a executada ter prestado Declaração nº 2015-013185 de que exercia mais de uma atividade, sendo automaticamente desenquadrada do regime especial de recolhimento como SUP, a partir de 01/01/2010 - Não verificação - Impossibilidade, ademais, de anulação da exigibilidade dos lançamentos retroativos, diante da aparente modificação de critério jurídico no exercício do lançamento, vedada pelo art. 146 do CTN - Recurso desprovido.
+Os Embargos de Declaração foram rejeitados (fls. 245-247, e-STJ).
+A parte recorrente alega que houve violação, em preliminar, do art. 1.022, I e II, do Código de Processo Civil; e, no mérito, do art. 146 do Código Tributário Nacional. Afirma, em síntese, que não houve alteração do critério jurídico, "mas tão somente uma reanálise das condições autorizadoras do enquadramento dos contribuintes no regime de Sociedades Uniprofissionais" (fl. 257, e-STJ). Defende, por fim, que foram violados os limites da Exceção de Pré-Executividade.
+Contrarrazões apresentadas às fls. 265-270, e-STJ, e contraminuta, às fls. 283-288, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste gabinete em 18.4.2023.
+Cuida-se, na origem, de Exceção de Pré-Executividade contra o Município ora recorrente, por ter desenquadrado a empresa ora recorrida do regime especial de recolhimento como sociedade uniprofissional, sem que fosse lançado o ISS de 2014 e 2015.
+Preliminarmente, constata-se que não se configurou a ofensa ao art. 1.022 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+Na hipótese dos autos, a parte insurgente busca a reforma do aresto impugnado, asseverando que o Colegiado a quo não se pronunciou sobre o tema ventilado no recurso de Embargos de Declaração. Todavia, verifica-se que o acórdão controvertido está bem fundamentado, inexistindo omissão ou contradição.
+Vale destacar que o simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Aclaratórios, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida.
+A parte alega que a declaração apresentada nas fls. 105-106, e-STJ, não teria sido analisada pelo Tribunal de Justiça do Estado de São Paulo, o que é inverídico, como se observa no seguinte trecho (fl. 230, e-STJ):
+Alega a Municipalidade, em síntese que, em dezembro de 2015, a executada prestou a Declaração nº 2015-013185 (fls. 105/106) pela qual, declarou que exercia mais de uma atividade sendo automaticamente desenquadrada do regime especial de recolhimento como SUP, retroativamente, a partir de 01/01/2010.
+Como se vê o Município alega que a sociedade teria sido desenquadrada, em razão de ter declarado que exercia mais de uma atividade. Ocorre que da análise do documento anexado pela própria Municipalidade (fls. 105/106), constata-se que a resposta dada ao questionário, no que pertine ao exercício de mais de 01 atividade foi NÃO.
+Assim o desenquadramento não se deu nos moldes alegados, não havendo outras provas, em especial fiscalização por parte do Município, que possa comprovar o quanto alegado.
+Ainda que assim não fosse, é vedado o desenquadramento retroativo, ante a aplicação do art. 146 do CTN, que prevê apenas efeitos prospectivos à decisão administrativa que resultar na modificação dos critérios jurídicos adotados no exercício do lançamento: (..).
+Registre-se, portanto, que a Corte local examinou e decidiu, fundamentadamente, todas as questões postas ao seu crivo, não cabendo falar em negativa de prestação jurisdicional.
+Quanto ao mérito, melhor sorte não assiste ao recorrente.
+Para adotar qualquer conclusão em sentido contrário ao que ficou expressamente consignado no aresto atacado, com o objetivo de acolher a pretensão recursal, seria necessário o revolvimento de matéria fática, o que é inviável na via eleita, nos termos da Súmula 7/STJ. No mesmo sentido, cito decisão monocrática em caso semelhante: AREsp n. 1.951.876, Ministro Sérgio Kukina, DJe de 23/11/2021.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, conheço do Agravo para conhecer parcialmente do Recurso Especial, somente no que tange à alegação de ofensa ao art. 1.022 do CPC, e, ness a parte, negar-lhe provimento.
+Publique-se.
+Intimem-se.
