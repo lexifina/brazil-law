@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de recurso especial interposto por JULIO CESAR SILVEIRA DE LACERDA, fundamentado exclusivamente na alínea "a" do permissivo constitucional.
+Recurso especial interposto em: 11/11/2022.
+Concluso ao Gabinete em: 02/05/2023.
+Ação: revisional de contrato bancário, ajuizada pelo recorrente, em desfavor de ITAU UNIBANCO S.A.
+Sentença: julgou parcialmente procedentes os pedidos para limitar os juros remuneratórios dos contratos n. 52/9436319, 52/9345811, 52/9348785 e 00009436313; para vedar a capitalização de juros remuneratórios nos contratos celebrados; e, por fim, para limitar os juros moratórios a 1% (um por cento) ao mês, devendo os valores pagos a maior ou indevidamente serem restituídos pelo recorrido, de forma simples.
+Acórdão: deu parcial provimento à apelação interposta pelo recorrido, para autorizar a capitalização mensal de juros nos contratos em que nas condições gerais constar a sua expressa pactuação pro extenso, bem como naqueles em que houver divergência entre o duodécuplo da taxa de juros mensal e a taxa de juros anual, conforme se apurar em liquidação de sentença. O acórdão foi assim ementado:
+APELAÇÃO CÍVEL. AÇÃO REVISIONAL DE CONTRATO. JUROS REMUNERÁTORIOS. TAXA MÉDIA DE MERCADO. CAPITALIZAÇÃO DE JUROS. As normas do CDC são aplicáveis às relações estabelecidas com instituições financeiras conforme prevê a Súmula 297 do STJ. Nas hipóteses em que a taxa de juros remuneratórios aplicada no contrato diverge drasticamente da taxa média de mercado, pode-se excepcionalmente reduzir-se aquela. Permite-se a capitalização mensal dos juros nas operações realizadas pelas instituições financeiras integrantes do Sistema Financeiro Nacional, desde que celebradas a partir da publicação da Medida Provisória n. 1.963-17 (31.3.00) e expressamente pactuada. O Colendo Superior Tribunal de Justiça assentou o entendimento de que há pactuação expressa da capitalização de juros nos casos em que a taxa de juros anual é superior ao duodécuplo da mensal (e-STJ fl. 1.166).
+Embargos de declaração: opostos pelo recorrente, foram rejeitados.
+Recurso especial: aponta violação dos arts. 396, 489, § 1º, IV, e 1.022, II, do CPC/2015. Além de negativa de prestação jurisdicional, sustenta que é impossível a verificação da pactuação por extenso da capitalização de juros, tampouco de seus efeitos financeiros, ante a ininteligibilidade dos documentos juntados pelo recorrido. Aduz que o recorrido deve ser compelido a exibir os documentos que se encontram em seu poder, a fim de possibilitar completa análise dos mesmos em sede de liquidação de sentença.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da negativa de prestação jurisdicional
+As razões recursais tecidas acerca das supostas omissões do Tribunal de origem residem na alegação de que o TJ/MG, apesar de instado a manifestar-se por meio de embargos declaratórios, quedou-se silente no que concerne ao argumento trazido pelo recorrente acerca da ininteligibilidade dos documentos juntados pelo recorrido - a fim de possibilitar a análise acerca pactuação da capitalização de juros em sede de liquidação de sentença - e a necessidade de instar o recorrido a apresentar toda a documentação que está em seu poder, nos termos do art. 396 do CPC/2015.
+Da análise do processo, contudo, constata-se que o Tribunal, ao julgar os embargos de declaração opostos pelo recorrente, não analisou a questão à luz destes argumentos.
+Assim, impõe-se a cassação do acórdão que apreciou os declaratórios, a fim de que seja sanado o vício suscitado, bem como a remessa dos autos ao TJ/MG, a fim de que este se pronuncie, na esteira do devido processo legal, acerca do ponto anteriormente elencado.
+Logo, merece provimento o recurso especial e tem-se como prejudicado o exame das demais discussões aventadas no presente recurso.
+Forte em tais razões, CONHEÇO do recurso especial e DOU-LHE PROVIMENTO para: a) anular o acórdão que julgou os embargos de declaração opostos pelo recorrente; e b) determinar a remessa dos autos ao TJ/MG, a fim de que este se pronuncie, na esteira do devido processo legal, a respeito dos supracitados fundamentos tidos por omissos.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. EMBARGOS DE DECLARAÇÃO OPOSTOS PERANTE O TRIBUNAL DE ORIGEM. OMISSÃO APTA, EM TESE, PARA A MODIFICAÇÃO DA CONCLUSÃO DO ACÓRDÃO RECORRIDO.
+1. Ação revisional de contrato bancário.
+2. Caracteriza-se a ofensa ao art. 1.022 do CPC/2015 nas hipóteses em que o Tribunal de origem, mesmo após a oposição de embargos de declaração, omite-se no exame de questões pertinentes para a resolução da lide.
+3. Recurso especial conhecido e provido.
