@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu o recurso especial (com fundamento no art. 105, III, a, da Constituição Federal) apresentado contra o acórdão proferido pelo Tribunal de Justiça do Ceará (Apelação Criminal n. 0160880-28.2017.8.06.0001), que manteve a condenação de Paulo Edson Silva Goncalves como incurso nos crimes de tráfico de drogas e porte ilegal de arma de fogo de uso restrito.
+Nas razões do recurso especial, a defesa do agravante suscitou violação dos seguintes dispositivos de lei federal: arts. 59 do Código Penal e 386, III e VII, do Código de Processo Penal (fls. 509/528).
+A Corte de origem inadmitiu o recurso com fundamento na Súmula 7/STJ (fls. 917/923).
+Contra o decisum a defesa interpôs o presente agravo (fls. 937/955).
+Instado a se manifestar, o Ministério Público Federal opinou pelo parcial provimento do recurso (fls. 1.008/1.014).
+Em petição subsequente, a defesa do agravante aludiu a suposto equívoco decorrente da falta de traslado das peças protocoladas junto com o agravo, pugnando pela juntada desses elementos (fls. 1.016/1.020).
+É o relatório.
+O agravo é inadmissível.
+Cumpre rememorar que, na esteira da orientação jurisprudencial desta Corte, a decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos (EAREsp n. 831.326/SP, Relator para o acórdão Ministro Luís Felipe Salomão, Corte Especial, DJe 30/11/2018), inclusive de forma específica, suficiente e pormenorizada (AgRg no AREsp n. 1.234.909/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 2/4/2018).
+No caso, a defesa não impugnou, de forma adequada e suficiente, o óbice da Súmula 7/STJ.
+Ora, da leitura da decisão agravada, verifica-se que três teses recursais - flagrante forjado, insuficiência de provas para a condenação e ilegalidade na dosimetria da pena-base - foram obstadas com base no referido enunciado sumular (fls. 920/921 - grifo nosso):
+ ..
+Nas razões do recurso, o suplicante alega ofensa aos arts. 59, do Código Penal e 386, incisos III e VII, do Código de Processo Penal, afirmando que "( ) levando-se em conta que a condenação do recorrente por tráfico se deu tão somente com base no depoimento dos policiais, cuja presunção relativa de veracidade merece ser afastada pelos motivos já trazidos à lume, é notório que a palavra dos policiais no presente caso concreto não possui a confiabilidade necessária para sustentar a sentença condenatória. Ora, Excelências, o édito condenatório pressupõe um arcabouço probatório legítimo, robusto e confiável, pois do contrário a absolvição é medida a se impor, por força do princípio do in dubio pro reo." (página 545)
+ ..
+Examinando atentamente os autos, entendo ser inviável a admissão do presente recurso.
+Isso porque, alegando ofensa aos arts. 59 do CP e 386, incisos III e VII, do CPP, vê-se, claramente, que a pretensão visa rediscutir fatos e provas o que é expressamente vedado nesta espécie recursal.
+Na verdade, inconformado com a solução dada ao processo, o recorrente objetiva que a Corte Superior reanálise o caso e dê conclusão diversa daquela haurida pela instância ordinária, a pressupor reexame dos fatos e das provas contidas nos autos, notadamente porque a demonstração da alegada violação imporia reexaminar toda a instrução criminal, a fim de verificar sua participação/autoria no crime praticado, bem como, se houve o correto cálculo da pena.
+As razões recursais atinentes à suposta ilegitimidade do flagrante e à inexistência de provas essenciais para a condenação, são questões tipicamente fáticas e seu reconhecimento demandaria uma incursão no acervo probatório, o que não se admite nesta quadra processual.
+ ..
+O agravante, no entanto, limitou-se a deduzir argumentos concretos, no sentido de afastar a incidência do enunciado sumular em referência, com relação à tese flagrante forjado, impugnando, de forma genérica e insuficiente, o óbice em relação às outras duas teses veiculadas no recurso, sobretudo com relação àquela referente à insuficiência de provas para a condenação, nem sequer mencionada em tópico apartado no corpo das razões do agravo (fls. 937/955).
+Em casos que tais, a jurisprudência desta Corte tem orientado no sentido da inadmissibilidade do agravo:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO CAUTELAR DE EXIBIÇÃO DE DOCUMENTO. REQUERIMENTO ADMINISTRATIVO. OMISSÃO DA INSTITUIÇÃO FINANCEIRA EM ATENDER E CONCEDER OPORTUNIDADE PARA O PAGAMENTO DO CUSTO DO SERVIÇO. CARACTERIZAÇÃO DA PRETENSÃO RESISTIDA. REVISÃO. SÚMULA 7/STJ. POSSIBILIDADE DE DECRETAÇÃO DA PRESCRIÇÃO NO ÂMBITO DE CAUTELAR. NÃO OBRIGATORIEDADE. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O Tribunal de origem, diante dos fatos e provas produzidas, constatou a inércia do banco ora recorrente em atender ao pedido administrativo e em conceder oportunidade para o pagamento dos serviços e das custas exigidas. Por esse motivo, concluiu pela caracterização da pretensão resistida e do interesse processual da parte ora recorrida na ação cautelar de exibição de documentos.
+2. Rever tal entendimento demandaria a incursão no acervo fático-probatório dos autos, o que é incabível em recurso especial, ante o óbice da Súmula n. 7/STJ.
+3. Para afastar o fundamento da decisão agravada, de incidência do óbice da Súmula n. 7/STJ, não basta apenas deduzir alegação genérica de inaplicabilidade do referido óbice ou que a tese defensiva não demanda reexame de provas. Para tanto, o recorrente deve desenvolver argumentação que demonstre como seria possível modificar o entendimento firmado pelas instâncias ordinárias sem nova análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no acórdão objurgado e qual a interpretação jurídica deve ser dada a esses fatos, ônus do qual, contudo, não se desobrigou.
+4. Afigura-se hialino o fato de ser possível o acolhimento da prescrição ou da decadência na própria medida cautelar. Não obstante, o fato de ser lícito e possível tal acolhimento não significa dizer que o juízo é obrigado a realizar tal apuração no procedimento cautelar, sendo possível a análise no momento da apreciação da ação principal. Precedentes. Incidência da Súmula 83/STJ.
+5. Para impugnar a incidência da Súmula n. 83 do STJ, o agravante deve demonstrar que os precedentes indicados na decisão que inadmitiu o recurso especial são inaplicáveis ao caso ou deve colacionar precedentes contemporâneos ou supervenientes aos indicados na decisão para comprovar que outro é o entendimento jurisprudencial do STJ.
+6. Agravo interno não provido.
+(AgInt no REsp n. 1.716.551/SP, Ministro Luis Felipe Salomão, Quarta Turma, DJe 4/5/2021 - grifo nosso)
+Logo, o agravo é inadmissível (arts. 932, III, do CPC/2015, e 253, parágrafo único, I, do RISTJ), pois não impugnou, de forma suficiente, a íntegra da fundamentação lançada na decisão agravada.
+Em face do exposto, acolhendo o parecer, não conheço do agravo (arts. 932, III, do CPC/2015, e 253, parágrafo único, I, do RISTJ).
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO DEFICIENTE. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015, E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA 182/STJ.
+Agravo não conhecido.
