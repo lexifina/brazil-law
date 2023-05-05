@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu o recurso especial interposto por ESTADO DO MARANHÃO, com fundamento no art. 105, III, da Constituição Federal, contra acórdão assim ementado:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO CONTRA DECISÃO MONOCRÁTICAPROFERIDA NO AGRAVO DE INSTRUMENTO. AGRAVO INTERNO. AUSÊNCIA DEARGUMENTOS CAPAZES DE INFIRMAR A DECISÃO AGRAVADA.
+I - A reiteração, em agravo interno, de argumentos já examinados e repelidos, de forma clara e coerente, pelo relator, ao decidir o recurso de agravo interno, impõe o desprovimento do recurso.
+II - Não apresentação de argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada. (AgInt no REsp 1807230/MS, Rel. Ministro PAULO DE TARSOSANSEVERINO, TERCEIRA TURMA, julgado em 17/05/2021, DJe 20/05/2021); (AgInt nos EDcl no REsp 1697494/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 08/03/2021, DJe 10/03/2021) e (AgInt no AREsp 1675474/RJ, Rel. Ministro HERMANBENJAMIN, SEGUNDA TURMA, julgado em 16/11/2020, DJe 24/11/2020) (grifei)
+III - Agravo interno desprovidos.
+Naquele julgamento, a Corte Estadual manteve integralmente decisão monocrática que manteve decisão proferida em cumprimento de sentença que entendeu que, tendo a sentença transitado em julgado em data anterior ao julgamento do IRDR n. 22965/2016, o que afastaria o argumento de inexigibilidade do título executivo.
+No presente recurso especial, o recorrente apontou violação dos arts. 2º e 37, X, da CF.
+Após decisum que inadmitiu o recurso especial, foi interposto o presente agravo, tendo o recorrente apresentado argumentos visando rebater os fundamentos da decisão agravada.
+É o relatório. Decido.
+Considerando que o agravante, além de atender aos demais pressupostos de admissibilidade deste agravo, logrou impugnar a fundamentação da decisão agravada, passo ao exame do recurso especial interposto.
+Não cabe ao STJ a análise de suposta violação de dispositivos constitucionais, ainda que para o fim de prequestionamento, porquanto o julgamento de matéria de índole constitucional é de competência exclusiva do STF, consoante disposto no art. 102, III, da Constituição Federal. Nesse sentido: AgInt no REsp n. 1.604.506/SC, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 16/2/2017, DJe de 8/3/2017; EDcl no AgInt no REsp n. 1.611.355/SC, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 14/2/2017, DJe de 24/2/2017.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Publique-se. Intimem-se.
