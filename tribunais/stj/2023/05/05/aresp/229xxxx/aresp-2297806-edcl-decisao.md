@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por ANTONIO NIRCILIO DE RAMOS E OUTRO, à decisão de fls. 193/194, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Todavia, examinando os autos confere-se que, por ser o dia do recolhimento das custas de preparo em dia em que não havia expediente bancário, um sábado, foi registrado como "agendamento. É o quê se comprova pelo documento de fl. 113/114 dos autos.
+Às fls. 141/142 do processado, encontra-se o comprovante do débito que fora contabilizado como "agendamento", ou seja, no primeiro dia útil no estabelecimento bancário.
+Diante dessa evidente constatação, o r. Juízo de Admissão, entendendo a correção do preparo e satisfeita a condição legal para o processamento do recurso, ordenou o seu seguimento, a remessa a esta Superior Instância.
+Dessa forma entendem os embargantes que não há óbice para o conhecimento da irresignação penhorada que, na forma da realidade dos fatos deverá assim ser reconhecida por Direito (fl. 199).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Esclareça-se que o marco temporal de aplicação do Código de Processo Civil de 2015 é a intimação do decisum recorrido que, no presente caso, foi realizada após 18/3/2016, já sob a égide do novo códex processual.
+Assim, nos termos do Enunciado Administrativo n. 3 do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC", em observância ao princípio do tempus regit actum, ou seja, no presente caso aplicam-se as regras do Código de Processo Civil de 2015.
+Inicialmente, cabe esclarecer que o juízo de admissibilidade do recurso especial é bifásico, ou seja, "a decisão proferida pelo Tribunal de origem não vincula o Superior Tribunal de Justiça na aferição dos pressupostos de admissibilidade do recurso especial. Isso porque compete a esta Corte, órgão destinatário do recurso especial, o juízo definitivo de admissibilidade". (AgInt no AREsp 1470001/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 20/9/2019.)
+Conforme já consignado na decisão ora embargada, que agora se repete, no ato da interposição, o recurso especial não foi instruído com o comprovante de pagamento das custas devidas ao Superior Tribunal de Justiça, uma vez que juntou apenas o comprovante de agendamento do preparo.
+Registre-se que "a jurisprudência desta Corte Superior firmou-se no sentido de que a juntada de comprovante de agendamento bancário não é documento apto a comprovar que o preparo foi devidamente recolhido".(AgInt no AREsp 1806437/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 23/06/2021.)
+Percebida, na origem, a irregularidade, a parte foi intimada para sanar o vício, contudo, não regularizou, uma vez que se limitou a juntar um extrato de conta corrente (fl. 142).
+Ressalte-se que o extrato bancário não tem o condão de sanar o vício apontado, tendo em vista que não é considerado documento hábil à comprovação do recolhimento do preparo. (AgInt no AREsp 925.505/MG, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 27/04/2017, DJe 05/05/2017).
+Dessa forma, o recurso especial não foi devida e oportunamente preparado, incidindo, na espécie, o disposto na Súmula n.º 187 deste Tribunal, o que leva à deserção do recurso.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
