@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial interposto (art. 105, III, "a", da Constituição) contra acórdão proferido pelo Tribunal de Justiça do Estado do Maranhão assim ementado (fl. 208, e-STJ):
+EMENTA - EXECUÇÃO. PRESCRIÇÃO NÃO INTERROMPIDA. OBRIGAÇÕES DE FAZER E DE PAGAR. PRETENSÕES INDEPENDENTES. DEMORA NA JUNTADA DAS FICHAS FINANCEIRAS.
+1. Não interrompe a prescrição acordo extrajudicial que não teve por objeto o reconhecimento do direito cuja ação executiva foi declarada prescrita.
+2. O prazo prescricional das obrigações de fazer e de pagar inicia-se com o trânsito em julgado do título executivo judicial e corre paralelamente sem que o exercício da pretensão em uma obrigação reflita sobre a outra.
+3. A demora para juntar as fichas financeiras pelo executado não obsta o transcurso do lapso prescricional executório.
+4. Apelo conhecido e improvido. Unanimidade.
+Em seu Recurso Especial, a agravante aponta violação do art. 189 do Código Civil. Em síntese, aduz (fl. 244, e-STJ):
+Inicialmente importante mencionar que o Tribunal de Justiça Maranhense pronunciou a prescrição da pretensão executória da parte recorrente e extinguiu o processo sob tal fundamentação.
+Deste acórdão foram opostos Embargos de Declaração para sanar omissão, uma vez que o decisum deixou de tratar da tese da SENTENÇA ILÍQUIDA que é entendimento firme desta Colenda Corte, no sentido de considerar o marco inicial da contagem da prescrição a data da liquidação do julgado. Todavia, os aclaratórios foram rejeitados por unanimidade.
+Ocorre que inexiste no presente caso a prescrição apontada pelo Tribunal estadual, pois este Colendo Superior Tribunal de Justiça já se manifestou no sentido de reconhecer que a contagem do prazo prescricional somente tem seu início quando o título executivo torna-se líquido e exigível, o que in casu não fora observado.
+Apresentadas as contrarrazões, sobreveio o juízo de admissibilidade negativo (fls. 297-300, e-STJ), o que deu ensejo à interposição do presente Agravo.
+Contraminuta apresentada.
+É o relatório.
+Decido.
+Os autos ingressaram neste Gabinete em 18.4.2023.
+Sobre a prescrição, a Corte estadual consignou (fls. 209-210, e-STJ):
+O STJ tem o entendimento de que "havendo execuções de naturezas diversas, entretanto, a regra é de que ambas devem ser autonomamente promovidas dentro do prazo prescricional. Excepciona-se apenas a hipótese em que a própria decisão transitada em julgado, ou o juízo da execução, dentro do prazo prescricional, reconhecer que a execução de um tipo de obrigação dependa necessariamente da prévia execução de outra espécie de obrigação" (REsp 1.340.444/RS, Rel. p/ Acórdão Ministro Herman Benjamin), o que não foi feito na Ação Coletiva 14.440/2009.
+Desse modo, não há como considerar que a execução coletiva da obrigação de fazer interrompeu a prescrição da execução da obrigação de pagar. Tampouco o fez o acordo extrajudicial, uma vez que este teve por objeto apenas a obrigação de fazer, vale dizer, abordou apenas a implantação dos interstícios entre as referências da carreira do magistério.
+Também não assiste razão à Apelante ao defender que a prescrição da pretensão executiva não se iniciou em virtude da iliquidez do título coletivo, pois o STJ já veio de decidir, mutatis mutandis, que "não havendo necessidade de liquidação do título judicial, mas apenas a realização de meros cálculos aritméticos, o prazo prescricional da ação de execução de honorários advocatícios começa a fluir a partir do trânsito em julgado" (AgInt nos EDcl no AREsp 647853 /RS, Rel. Min. Napoleão Nunes Maia Filho).
+Sobre os efeitos da demora do fornecimento de fichas financeiras pelo executado, o STJ firmou orientação em sede de julgamento de recurso especial repetitivo no sentido de que "(..) para as decisões transitadas em julgado sob a vigência do CPC/1973, a demora, independentemente do seu motivo, para juntada das fichas financeiras ou outros documentos correlatos aos autos da execução, ainda que sob a responsabilidade do devedor ente público, não obsta o transcurso do lapso prescricional executório, nos termos da Súmula 150/STF" (REsp 1.336.026/PE, Rel. Min. Og Fernandes).
+No caso, foi requerida na execução detonada nos autos da Ação Coletiva 14.440/2000 a juntada de fichas financeiras, o que foi realizado pelo ora Apelado em 2/6/2014, conforme movimentação do sistema Jurisconsult, razão por que não se aplica a modulação de efeitos determinada pelo STJ no julgamento do REsp 1.336.026, pois o Tribunal Superior determinou que o prazo prescricional de 5 anos seja contado a partir de 30/6/2017 (data do julgamento do REsp) "para as decisões transitadas em julgado até 17/3/2016 (quando ainda em vigor o CPC/1973) e que estejam dependendo, para ingressar com o pedido de cumprimento de sentença, do fornecimento pelo executado de documentos ou fichas financeiras" (EDcl no REsp 1.336.026/PE, Rel. Min. Og Fernandes).
+Nesse contexto, não há como ser afastada a prescrição reconhecida pelo Juízo de base, que começou a fluir do trânsito em julgado da ação coletiva.
+Extrai-se do aresto impugnado e das razões do Recurso Especial que o acolhimento da pretensão recursal demanda reexame do contexto fático-probatório, especialmente para avaliar se a execução do julgado dependia de meros cálculos aritméticos, o que não se admite ante o óbice da Súmula 7/STJ.
+Diante do exposto, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
