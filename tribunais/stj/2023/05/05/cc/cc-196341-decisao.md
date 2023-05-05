@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o Juízo Federal da 2ª Vara de Dourados - SJ/MS, o suscitante, e o Juízo de Direito da 2ª Vara Criminal de Dourados/MS, o suscitado.
+O núcleo da controvérsia consiste em definir se a prática em tese de crime de furto realizado no imóvel da Companhia Nacional de Abastecimento - CONAB, de propriedade da União e cedido ao Município Dourados/MS justificaria o deslocamento da competência à Justiça Federal.
+Consta nos autos que MARCILEI GOMES DA SILVA foi denunciado pela prática, em tese, do crime previsto no 155, § 4º, incisos II e IV, c. c art. 14, II, do Código Penal, uma vez que, agindo em concurso de pessoas, tentou subtrair, mediante escalada, capacitores industriais e fiação de energia elétrica das instalações da CONAB, não se consumando o furto qualificado por circunstâncias alheias às vontades dos agentes (fls. 11/13).
+O Juízo de Direito da 2ª Vara Criminal de Dourados/SP, acolhendo parecer do Parquet Estadual (fls. 125/127), declinou da competência ao argumento de que o crime foi praticado em detrimento de empresa pública federal, vinculada ao Ministério do Desenvolvimento Agrário e Agricultura Familiar (fl. 128).
+Lado outro, o Juízo Federal da 2ª Vara de Dourados - SJ/MS suscitou o presente conflito de competência ao argumento de que "o imóvel invadido estava cedido ao município de Dourados/MS, ao qual pertenciam os bens objeto da tentativa de furto" (fls. 4/5).
+No Superior Tribunal de Justiça - STJ, os autos foram encaminhados ao Ministério Público Federal, o qual emitiu parecer que recebeu o seguinte sumário:
+"PROCESSO PENAL. CONFLITO NEGATIVO DE COMPETÊNCIA. NÃO OCORRÊNCIA DE CRIME CONTRA A UNIÃO FEDERAL. PARECER PELA DECLARAÇÃO DE COMPETÊNCIA DO JUÍZO SUSCITADO" (fl. 145).
+É o relatório.
+Decido.
+O presente conflito negativo de competência deve ser conhecido, por se tratar de incidente instaurado entre juízos vinculados a Tribunais distintos, nos termos do art. 105, inciso I, alínea "d" da Constituição Federal.
+Do teor da denúncia e demais elementos presentes n os autos, verifica-se não haver qualquer indício de ameaça ou lesão a interesses, bens ou serviços da União, uma vez que, embora o suposto delito tenha ocorrido em imóvel de propriedade da União, atualmente o bem encontra-se cedido à Prefeitura Municipal de Dourados/MS. Outrossim, os bens objetos dos delitos, quais sejam, "aproximadamente 27 (vinte e sete) quilos de fio de cobre e 04 (quatro) capacitores industriais", seriam todos de propriedade do Município de Dourados.
+Com efeito, conforme jurisprudência desta Corte Superior, a competência da Justiça Federal atribuída pelo art. 109, inciso IV, da da Carta Magna está configurada apenas nas hipóteses de interesse específico da União, suas entidades autárquicas e empresas públicas federais. Em outras palavras, a competência da Justiça Federal não advém de mero interesse genérico ou reflexo da União. Nesse sentido vejam-se as ementas a seguir transcritas:
+PROCESSUAL PENAL. CONFLITO DE COMPETÊNCIA. FURTO DE ANIMAL DOMÉSTICO. NÃO-DEMONSTRAÇÃO DE LESÃO A BEM, INTERESSE OU SERVIÇO DA UNIÃO. COMPETÊNCIA DA JUSTIÇA ESTADUAL.
+I - A competência da Justiça Federal, expressa no art. 109, inciso IV, da Constituição Federal, restringe-se às hipóteses em que os crimes ambientais são perpetrados em detrimento de bens, serviços ou interesses da União, ou de suas autarquias ou empresas públicas.
+II - Na hipótese, malgrado o mandado de busca e apreensão tenha, como destinatário, imóvel pertencente à União - tão somente por ser o local onde reside o investigado - tal fato não tem o condão de, por si só, deslocar a competência para a Justiça Federal, pois o abigeato em questão é de competência local. Não está configurada, inequivocamente, a efetiva lesão a bens, serviços ou interesses da União, razão pela qual deve ser reconhecida a competência da Justiça Estadual para processamento do feito.
+Conflito de competência conhecido para declarar competente o Juiz de Direito da Comarca de Rio Grande/RS, ora suscitado.
+(CC 141.395/RS, Rel. Ministro FELIX FISCHER, TERCEIRA SEÇÃO, DJe 11/11/2015)
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA ESTADUAL E JUSTIÇA FEDERAL. FURTO EM CANTEIRO DE OBRAS DE PROGRAMA MUNICIPAL DE URBANIZAÇÃO. BENS DE PROPRIEDADE DA EMPRESA CONTRATADA PARA A REALIZAÇÃO DA OBRA. INEXISTÊNCIA DE OFENSA A BENS, SERVIÇOS OU INTERESSE DA UNIÃO. COMPETÊNCIA DA JUSTIÇA
+ESTADUAL.
+- A competência da Justiça Federal para julgamento de infrações penais, nos termos do art. 109, IV, da Constituição Federal, está configurada quando a conduta criminosa afeta bens, serviços ou interesses da União, de suas entidades autárquicas ou empresas públicas.
+- A alegação de que as verbas repassadas ao município seriam submetidas à prestação de contas perante a Caixa Econômica Federal, empresa pública, não desloca a competência para a Justiça Federal, porquanto não se está a apurar eventual desvio de verbas, mas o furto de bens adquiridos por empresa privada, após o recebimento de verbas incorporadas ao patrimônio do Município de Belo Horizonte.
+- Não se evidencia nenhum delito cometido em detrimento de bens, interesses ou serviços da União ou de ente público federal, tendo em vista a confirmação, pelo próprio Município de Belo Horizonte, que os bens subtraídos são de propriedade da empresa contratada.
+Conflito conhecido para declarar competente o Juízo de Direito da 9ª Vara Criminal da Comarca de Belo Horizonte/MG, o suscitado.
+(CC 134.381/MG, Rel. Ministro ERICSON MARANHO - DESEMBARGADOR CONVOCADO DO TJ/SP - , TERCEIRA SEÇÃO, DJe 15/04/2015)
+Portanto, à míngua de demonstração inequívoca de lesão ao patrimônio ou interesse da União, deve ser fixada competência da Justiça Estadual.
+Ante o exposto, conheço do conflito para declarar competente o Juízo de Direito da 2ª Vara Criminal de Dourados/SP, o suscitado.
+Publique-se.
+Intimem-se.
