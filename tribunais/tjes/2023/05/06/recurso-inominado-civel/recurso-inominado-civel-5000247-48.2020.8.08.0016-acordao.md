@@ -1,0 +1,84 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº
+5000247-48.2020.8.08.0016
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: MARIA DO CARMO KUSTER
+RECORRIDO: ITAU UNIBANCO HOLDING S.A.
+RELATOR(A):THAITA CAMPOS TREVIZAN
+
+_______________________________________________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+_______________________________________________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto da Relatora.
+Órgão julgador vencedor
+: 3ª Turma Recursal - Gabinete 2
+_______________________________________________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+_______________________________________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+RECURSO INOMINADO:
+5000247-48.2020.8.08.0016
+
+RECORRENTE: MARIA DO CARMO KUSTER
+
+RECORRIDO: ITAU UNIBANCO HOLDING S.A.
+
+RELATORA: DRA. THAITA CAMPOS TREVIZAN
+
+JUIZ SENTENCIANTE: JOSE BORGES TEIXEIRA JUNIOR
+
+EMENTA.
+RECURSO INOMINADO. CÓDIGO DE DEFESA DO CONSUMIDOR. INEXISTÊNCIA DE FALHA NA PRESTAÇÃO DE SERVIÇOS. EMPRÉSTIMO CONSIGNADO CONTRATADO. RECURSO IMPROVIDO. SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS.
+
+RELATÓRIO/VOTO
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95 e Enunciado Cível nº 92 do FONAJE.
+
+Conheço do Recurso por preencher os pressupostos de admissibilidade.
+
+Defiro a assistência judiciária gratuita à recorrente.
+
+EMENTA. DIREITO DO CONSUMIDOR E PROCESSUAL CIVIL.
+AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DO DÉBITO C/C INDENIZAÇÃO POR DANOS MORAIS
+. NARRA A AUTORA, EM SÍNTESE, QUE, NO DIA 30/10/2020 TOMOU CONHECIMENTO DE QUE, A REQUERIDA BANCO ITAÚ CONSIGNADOS S/A, CONSIGNOU EMPRÉSTIMO EM SEU NOME, NO VALOR DE R$ 2.103,67 A SER PAGO EM 84 PARCELAS NO VALOR DE R$ 52,15 COM INÍCIO DE COBRANÇA A PARTIR DE 02/2021 COM PREVISÃO DE TERMINO EM 01/2028, SENDO TAIS PARCELAS SERÃO DESCONTADAS DO BENEFÍCIO PREVIDENCIÁRIO DA AUTORA, OCORRE QUE A AUTORA NÃO RETIROU ESSES VALORES DE SUA CONTA, TENDO RETIDO OS MESMOS PARA DEVOLUÇÃO, COMO CONSTA DE EXTRATO BANCÁRIO ANEXADO POIS EM NENHUM MOMENTO SOLICITOU TAIS QUANTIAS A TÍTULO DE EMPRÉSTIMO.
+SENTENÇA JULGOU IMPROCEDENTE
+A PRETENSÃO AUTORAL.
+RECURSO INOMINADO
+INTERPOSTO PELA PARTE REQUERIDA. PUGNA PELA REFORMA DA SENTENÇA, PARA QUE SEJA RECONHECIDA A NULIDADE DO CONTRATO E A CONDENAÇÃO DO REQUERIDO AO PAGAMENTO DE DANOS MORAIS.
+RECURSO CONHECIDO E IMPROVIDO.
+COMPULSANDO OS AUTOS, VERIFICO QUE O BANCO REQUERIDO LOGROU ÊXITO EM COMPROVAR A REGULAR CONTRATAÇÃO DO EMPRÉSTIMO CONSIGNADO. SOMADO A ISTO, VERIFICO QUE A AUTORA RECONHECE SUA ASSINATURA NO CONTRATO. COMO BEM DESTACADO PELO JUÍZO DE PISO, “
+EM QUE PESE AS ALEGAÇÕES DA REQUERENTE EM SUAS MANIFESTAÇÕES PROCESSUAIS, SUAS DECLARAÇÕES, NA AUDIÊNCIA INSTRUTÓRIA, FORAM CONTRÁRIAS AS ALEGAÇÕES FIRMADAS ANTERIORMENTE, OPERANDO-SE A CONFISSÃO DE QUE TRATA O ART. 389 DO CPC, UMA VEZ TER ELA RECONHECIDO, EXPRESSAMENTE, QUE A ASSINATURA CONSTANTE DO CONTRATO DE EMPRÉSTIMO ERA SUA”.
+EMBORA HAJA PREVISÃO A RESPEITO DA INVERSÃO DO ÔNUS DA PROVA, CABE À PARTE AUTORA COMPROVAR, MINIMAMENTE, OS FATOS CONSTITUTIVOS DE DIREITO, NA FORMA DO ART. 373, I, DO CPC. VERIFICO QUE ISSO NÃO OCORREU NO CASO EM TELA.
+
+SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS, NOS TERMOS DO ART. 46 DA LEI Nº 9.099/95.
+CONDENAÇÃO DA RECORRENTE AO PAGAMENTO DE CUSTAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS, OS QUAIS FIXO EM 10% SOBRE O VALOR DA CAUSA, ANTE A AUSÊNCIA DE VERBA CONDENATÓRIA, NA FORMA DO ART. 85, §2º DO CPC E ART. 55 DA LEI 9.099/95,
+RESSALVADA A COBRANÇA EM RAZÃO DA GRATUIDADE A QUE FAZ JUS
+.
+
+DISPOSITIVO
+
+Ante o exposto,
+CONHEÇO DO RECURSO
+interposto e
+NEGO-LHE PROVIMENTO. CONDENO
+
+a recorrente em custas e honorários em 10% sobre o valor da causa ante a ausência de verba condenatória e ressalvo a cobrança em razão da gratuidade a que faz jus.
+
+É como voto.
+
+THAITA CAMPOS TREVIZAN
+
+Relatora
+
+_______________________________________________________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
