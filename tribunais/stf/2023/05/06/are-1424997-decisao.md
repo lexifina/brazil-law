@@ -1,0 +1,85 @@
+DECISÃO
+
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. DESAPROPRIAÇÃO PARA FINS DE REFORMA AGRÁRIA. INCIDÊNCIA DE JUROS MORATÓRIOS. TERMO INICIAL. HARMONIA DO JULGADO RECORRIDO COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. RECURSO EXTRAORDINÁRIO COM AGRAVO AO QUAL SE NEGA PROVIMENTO.
+
+Relatório
+
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal Regional Federal da Primeira Região:
+
+    “ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. DESAPROPRIAÇÃO PARA FINS DE REFORMA AGRÁRIA. EXECUÇÃO DE TÍTULO JUDICIAL. JUROS MORATÓRIOS. INCIDÊNCIA. TERMO INICIAL. ART. 15-B DO DECRETO-LEI 3.365/1941. DECISÃO MANTIDA. AGRAVO DESPROVIDO.
+
+    1. Agravo de instrumento interposto pela exequente contra decisão que, em ação de desapropriação para fins de reforma agrária proposta pelo Instituto de Colonização e Reforma Agrária – INCRA, em fase de cumprimento de sentença, determinou a atualização da conta sem a inclusão dos juros moratórios para a expedição do precatório.
+
+    2. A questão relativa à incidência de juros moratórios não comporta nova discussão, uma vez que o Superior Tribunal de Justiça, no julgamento do REsp 1.118.103/SP, em regime de recurso repetitivo, firmou entendimento no sentido de que os juros moratórios, em desapropriação, somente devem incidir quando o precatório expedido não for pago no prazo constitucional (art. 100, § 1º, da CF).
+
+    3. A alegação da agravante de que o Supremo Tribunal Federal, no julgamento do RE 579.431, com repercussão geral, decidiu que incidem juros de mora no período compreendido entre a data da realização dos cálculos e a da requisição ou do precatório, não se aplica à ações de desapropriação, que possuem regra específica (art. 15-B do Decreto-lei 3.395/41). Precedente do STJ: AgInt no REsp 1.676.666, Rel. Ministro Gurgel de Faria, Publicação 04/02/2021.
+
+    4. Agravo de instrumento a que se nega provimento” (fls. 6-7, e-doc. 8).
+
+    Os embargos de declaração opostos foram rejeitados (e-doc. 12).
+
+    2. No recurso extraordinário, a recorrente alega ter o Tribunal de origem contrariado o art. 100 da Constituição da República e o Tema 96 da repercussão geral, ao argumento de que “incidem os juros de mora no período compreendido entre a data da realização dos cálculos e a da requisição do precatório” (fl. 3, e-doc. 16).
+
+    Argumenta que “a decisão no RE 579 431 não limita quanto à origem do débito a ser pago em precatório porque não há qualquer distinção fixada no art. 100 da Constituição Federal” (fl. 5, e-doc. 16)
+
+    3. O recurso extraordinário foi inadmitido sob o fundamento de que “se reveste de natureza exclusivamente infraconstitucional a discussão acerca do termo inicial dos juros moratórios na ação de desapropriação” (fls. 1-2, e-doc. 20).
+
+    A agravante assevera que “o Supremo Tribunal Federal ao firmar o entendimento, com repercussão geral, no RE 579431, fixou os juros quanto aos precatórios, não distinguindo a origem do crédito” (fls. 1-2, e-doc. 23)
+
+    Pede “o provimento deste agravo para prosseguir-se no procedimento do recurso extraordinário, por atender os requisitos extrínsecos e intrínsecos exigidos, que devem ser reconhecidos em juízo de retratação, desde já requerido. Mantida a decisão agravado seja o agravo remetido para o Supremo Tribunal, onde se espera seja provido para os mesmos fins, com o cumprimento do tema de repercussão geral julgado no RE 579.431” (fl. 3, e-doc. 23).
+
+    4. Em 14.4.2023, foi determinado o encaminhamento dos autos à Procuradoria-Geral da República, que emitiu parecer nos seguintes termos:
+
+     “Recurso Extraordinário com Agravo. Inadmissibilidade do RE pelo Tribunal a quo com fundamento na Súmula 279 do Supremo Tribunal Federal. Alegação no recurso extraordinário de que a decisão recorrida violou o art. 100 da CF e o Tema 96 da repercussão geral. Pretensão de incidência de juros de mora no período compreendido entre a data da realização dos cálculos e a da requisição ou do precatório (RE 579.431). Alegação de que a decisão do RE 579.431, com repercussão geral, aplica-se a todos os créditos constituídos em face da Fazenda Pública, independentemente da origem. Disciplina específica da matéria quando versar sobre desapropriação para fins de reforma agrária (art. 15-B d o Decreto-lei 3.365/1941). Parecer pela negativa de seguimento ao agravo, caso superado o óbice, pelo não provimento do recurso” (e-doc. 44).
+
+    Apreciada a matéria trazida na espécie, DECIDO.
+
+    5. Razão jurídica não assiste à agravante.
+
+    6. O Tribunal de origem assentou:
+
+    “A questão relativa à incidência de juros moratórios não comporta nova discussão, uma vez que o Superior Tribunal de Justiça, no julgamento do REsp 1.118.103/SP, em regime de recurso repetitivo, firmou entendimento no sentido de que os juros moratórios, em desapropriação, somente devem incidir quando o precatório expedido não for pago no prazo constitucional (art. 100, § 1º, da CF). (…) A alegação da agravante de que o Supremo Tribunal Federal, no julgamento do RE 579.431, com repercussão geral, decidiu que incidem juros de mora no período compreendido entre a data da realização dos cálculos e a da requisição ou do precatório, não se aplica à ações de desapropriação, que possuem regra específica (art. 15-B do Decreto-lei 3.395/41). (…) Com esses fundamentos, merece ser mantida a decisão impugnada” (fls. 3-5, e-doc. 8).
+
+    É de se anotar que, diferente do alegado pela agravante, a matéria tratada neste recurso não guarda identidade com o Tema 96 da repercussão geral. Trata-se de controvérsia referente ao Tema 147. Nesse sentido, confiram-se os seguintes precedentes:
+
+    “EMBARGOS DE DECLARAÇÃO. ERRO MATERIAL DO ACÓRDÃO EMBARGADO. IMPOSSIBILIDADE DE APLICAÇÃO DO TEMA 96 DA REPERCUSSÃO GERAL AO CASO. AUSÊNCIA DE IDENTIDADE ENTRE O PRECEDENTE PARADIGMA E O PRESENTE RECURSO EXTRAORDINÁRIO. PRECATÓRIO. JUROS MORATÓRIOS NO PRAZO PREVISTO NO ART. 100, § 5º, DA CONSTITUIÇÃO FEDERAL. RE 591.085-RG - REL. MIN. RICARDO LEWANDOWSKI, TEMA 147 DA REPERCUSSÃO GERAL. SÚMULA VINCULANTE 17. INEXISTÊNCIA DE VIOLAÇÃO À COISA JULGADA. ACOLHIMENTO DOS DECLARATÓRIOS DA UNIÃO, COM EFEITOS INFRINGENTES. PROVIMENTO DO SEU RECURSO EXTRAORDINÁRIO. 1. O acórdão embargado incorre em erro material ao devolver os autos à origem para que seja observada orientação do Tema 96 da repercussão geral. 2. Esta Corte tem entendimento no sentido de reconsiderar as decisões, seja por meio de agravo interno, seja por meio de embargos de declaração, quando se verifica erro material na aplicação de precedente do Plenário sob o rito da repercussão geral. Nesse sentido: RE 594.266 AgR-ED, Relator(a): Min. DIAS TOFFOLI, Primeira Turma, DJe 26/5/2017; RE 603.185 AgR-ED-ED, Relator(a): Min. GILMAR MENDES, Segunda Turma, DJe 06/3/2017. 3. A rigor, a matéria controvertida no apelo extremo não é compreendida pelo conteúdo do Tema 96 da repercussão geral. Antes, encontra identidade com o Tema 147. 4. O Plenário do SUPREMO TRIBUNAL FEDERAL, no RE 591.085 RG (Rel. Min. RICARDO LEWANDOWSKI, tema 147), julgado sob a sistemática da repercussão geral, fixou a seguinte tese: “Durante o período previsto no parágrafo 1º do artigo 100 (redação original e redação da EC 30/2000) da Constituição, não incidem juros de mora sobre os precatórios que nele sejam pagos.” 5. A condenação a juros moratórios firmada na sentença com trânsito em julgado não impede a incidência da jurisprudência deste SUPREMO TRIBUNAL FEDERAL, que afastou a caracterização da mora no prazo constitucional para pagamento de precatórios. 6. Embargos de declaração da União acolhidos, com efeitos infringentes, para sanar erro material e dar provimento ao seu Recurso Extraordinário” (RE n. 562.230-ED, Relator o Ministro Alexandre de Moraes, Segunda Turma, DJe 30.8.2018).
+
+    “AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. PRECATÓRIO. JUROS MORATÓRIOS. INCIDÊNCIA NO PRAZO CONSTITUCIONAL PARA PAGAMENTO. IMPOSSIBILIDADE. 1. É pacífico neste TRIBUNAL o entendimento de que não incidem juros moratórios quanto aos débitos inscritos em precatórios no prazo constitucional para pagamento. Essa orientação, inclusive, foi reafirmada sob o rito da Repercussão Geral (RE 591.085-QO-RG, Rel. Min. RICARDO LEWANDOWSKI, DJe de 20/2/2009); ainda, essa diretriz foi consubstanciada na Súmula Vinculante 17: “durante o período previsto no parágrafo 1º do artigo 100 da Constituição, não incidem juros de mora sobre os precatórios que nele sejam pagos”. 2. Não havendo o pagamento dentro do chamado “período de graça”, passam a incidir os juros de mora, contados a partir do encerramento do referido período, independentemente de previsão no título judicial exequendo. 3. Do mesmo modo, havendo o adimplemento tempestivo e regular, não incidem juros moratórios, mesmo que fixados em sentença transitada em julgado. 4. Agravo Interno e Recurso Extraordinário com Agravo providos” (ARE n. 1.192.550-AgR, Relator o Ministro Marco Aurélio, Redator para o acórdão o Ministro Alexandre de Moraes, Primeira Turma, DJe 26.5.2020).
+
+    7. A jurisprudência sobre a aplicação da Súmula Vinculante n. 17 deste Supremo Tribunal foi reafirmada no julgamento, pelo Plenário, do Recurso Extraordinário n. 1.169.289-RG, Tema 1.037, Redator para o acórdão o Ministro Alexandre de Moraes. Este Supremo Tribunal fixou a tese de que “o enunciado da Súmula Vinculante 17 não foi afetado pela superveniência da Emenda Constitucional 62/2009, de modo que não incidem juros de mora no período de que trata o § 5º do art. 100 da Constituição. Havendo o inadimplemento pelo ente público devedor, a fluência dos juros inicia-se após o ‘período de graça’” (DJe 1º.7.2020).
+
+    Este Supremo Tribunal Federal já decidiu que a “condenação ao pagamento de juros moratórios firmada na sentença com trânsito em julgado não impede a incidência da jurisprudência deste Supremo Tribunal Federal, que afastou a caracterização da mora no prazo constitucional para pagamento de precatórios”.
+
+    Confiram-se a esse respeito os seguintes julgados:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSTITUCIONAL. EMBARGOS À EXECUÇÃO FISCAL. FAZENDA PÚBLICA. NÃO INCIDÊNCIA DE JUROS DE MORA NO PRAZO PREVISTO NO § 5º DO ART. 100 DA CONSTITUIÇÃO DA REPÚBLICA. TEMA N. 1.037 DA REPERCUSSÃO GERAL E SÚMULA VINCULANTE N. 17. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE n. 1.366.916-AgR, de minha relatoria, Primeira Turma, DJe 25.4.2022).
+
+    “Agravo regimental nos embargos de declaração no recurso extraordinário. 2. Direito Constitucional e Processual Civil. 3. Aplicação da Súmula Vinculante 17. Tese firmada no tema 1.037 da sistemática da repercussão geral. Não incidência de juros de mora durante o período de graça previsto no art. 100, § 5º, do texto constitucional. Havendo o inadimplemento pelo ente público devedor, a fluência dos juros inicia-se após o período de graça. 4. Ausência de argumentos capazes de infirmar a decisão agravada quanto a este ponto. 5. Erro material na decisão agravada. Não é devida a majoração dos honorários quando não houve fixação da verba anteriormente pelo tribunal de origem. 6. Agravo regimental parcialmente provido, apenas para afastar a majoração dos honorários advocatícios” (RE n. 1.236.740-ED-AgR, Relator o Ministro Gilmar Mendes, Segunda Turma, DJe 19.10.2020).
+
+    “EMBARGOS DE DIVERGÊNCIA NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO E PROCESSUAL CIVIL. PRESSUPOSTOS ESPECÍFICOS DE ADMISSIBILIDADE RECURSAL PREENCHIDOS. ARTIGO 546, INCISO II, DO CÓDIGO DE PROCESSO CIVIL DE 1973. ARTIGOS 330 E 331 DO REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL. DISSENSO JURISPRUDENCIAL DEMONSTRADO. PRECATÓRIO COMPLEMENTAR. INCIDÊNCIA DE JUROS DE MORA NO PERÍODO COMPREENDIDO ENTRE A DATA DE EXPEDIÇÃO DO PRECATÓRIO E A DO EFETIVO PAGAMENTO. IMPOSSIBILIDADE. VIOLAÇÃO DA COISA JULGADA. INOCORRÊNCIA. SUPERVENIÊNCIA DA EMENDA CONSTITUCIONAL 62/2009. SUBSISTÊNCIA DA SÚMULA VINCULANTE 17. RECURSO EXTRAORDINÁRIO 1.169.289. TEMA 1.037 DA REPERCUSSÃO GERAL. EMBARGOS DE DIVERGÊNCIA DESPROVIDOS” (AI n. 785.733-AgR-ED-EDv, Relator o Ministro Luiz Fux, Plenário, DJe 5.11.2020).
+
+    8. Ademais, a jurisprudência deste Supremo Tribunal é firme no sentido de que a discussão sobre o termo inicial para contagem dos juros moratórios está restrita à legislação infraconstitucional. Assim, por exemplo, os seguintes julgados:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PREQUESTIONAMENTO DOS ARTS. 5°, XXXVI, E 184 DA CONSTITUIÇÃO FEDERAL. OCORRÊNCIA. DESAPROPRIAÇÃO. JUROS REMUNERATÓRIOS SOBRE TÍTULOS DA DÍVIDA AGRÁRIA. TERMO INICIAL DE JUROS DE MORA. ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DO CONJUNTO FÁTIVO PROBATÓRIO DOS AUTOS. SÚMULA 279/STF. PRECEDENTES. AGRAVO A QUE SE NEGA PROVIMENTO. I – A matéria constitucional ventilada no recurso extraordinário foi devidamente prequestionada. II – A análise da incidência de juros remuneratórios sobre os Títulos de Dívida Agrária e do termo inicial para a incidência de juros de mora, depende da interpretação da legislação infraconstitucional aplicável à espécie, o que é inadmissível em RE – dado que apenas ofensa direta à Constituição Federal enseja a interposição do apelo extremo –, bem como o reexame do conjunto fático-probatório dos autos, o que é vedado pela Súmula 279/STF. Precedentes. III – Agravo regimental a que se nega provimento” (RE n. 1.169.694-AgR, Relator o Ministro Ricardo Lewandowski, Segunda Turma, DJe 6.8.2019).
+
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. DESAPROPRIAÇÃO POR UTILIDADE PÚBLICA. REFORMA AGRÁRIA. JUSTA INDENIZAÇÃO. JUROS MORATÓRIOS. ANÁLISE DE NORMA INFRACONSTITUCIONAL. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA 279 DO STF. LIMITES DA COISA JULGADA. MATÉRIA COM REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO DO STF NO ARE 748.371. TEMA 660. AGRAVO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. MAJORAÇÃO DOS HONORÁRIOS DE SUCUMBÊNCIA. ARTIGO 85, § 11, DO CPC/2015. AGRAVO INTERNO DESPROVIDO” (ARE n. 1.188.857-AgR, Relator o Ministro Luiz Fux, Primeira Turma, DJe 1°.8.2019).
+
+    A conclusão do julgado recorrido está em harmonia com esta orientação jurisprudencial.
+
+    9. Tem-se também no parecer da Procuradoria-Geral da República:
+
+    “O provimento do agravo inegavelmente esbarra no teor da Súmula nº 279 do STF: "Para simples reexame de prova não cabe recurso extraordinário.". Confira-se: (…) Além disso, há óbice no conhecimento do agravo ante o entendimento desse Tribunal de que não cabe recurso extraordinário quando o exame da matéria demandar a interpretação dada a normas infraconstitucionais pela decisão recorrida. (…) No que tange à matéria de fundo, sem razão o agravante. De fato, ao contrário do alegado pelo recorrente, a decisão proferida por esse Pretório Excelso no RE nº 579.431/RS, sob a sistemática da repercussão geral e que teria assegurado a ‘incidência de juros de mora no período compreendido entre a data da conta de liquidação e a expedição do requisitório’, não se enquadra no presente caso, visto que não é essa a matéria debatida no agravo de instrumento interposto perante o Tribunal Regional Federal da 1ª Região. Na origem, trata-se de ação de desapropriação para fins de reforma agrária, na qual a norma a ser observada, com relação à incidência dos juros moratórios, consiste na regra especial prevista pelo art. 15-B do Decreto-lei nº 3.365/41, afastando a incidência de tais juros enquanto não configurado atraso no pagamento do precatório: (…) E como se sabe, entre o marco do processamento dos precatórios até o seu efetivo pagamento, não incidem juros moratórios, exceto em casos de atraso na efetiva prestação dos valores, nos termos do quanto estabelecido na Súmula Vinculante nº 17-STF: ‘Durante o período previsto no parágrafo 1º do artigo 100 da Constituição, não incidem juros de mora sobre os precatórios que nele sejam pagos’. Com estas razões, manifesta-se o Ministério Público Federal pelo não conhecimento do agravo, caso superado o óbice, pelo não provimento do recurso” (fls. 4-7, e-doc. 44).
+
+    Nada há a prover quanto às alegações da agravante.
+
+    10. Pelo exposto, nego provimento ao recurso extraordinário com agravo (al. a do inc. IV do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+
+    Ressalte-se que eventual recurso manifestamente inadmissível contra esta decisão demonstraria apenas inconformismo e resistência em pôr termo a processos que se arrastam em detrimento da eficiente prestação jurisdicional, o que sujeitaria a parte à aplicação da multa processual do § 4º do art. 1.021 do Código de Processo Civil.
+
+    Publique-se.
+
+    Brasília, 6 de maio de 2023.
+
+Ministra CÁRMEN LÚCIA
+
+Relatora
