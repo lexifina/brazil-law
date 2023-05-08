@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/05/2023 a 08/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Joel Ilan Paciornik.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. INSTRUÇÃO DEFICIENTE. HABEAS CORPUS INDEFERIDO LIMINARMENTE. AGRAVO DESPROVIDO.
+I - Esta Corte Superior de Justiça possui entendimento sedimentado de que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - O habeas corpus deve ser instruído com as peças necessárias para confirmação da efetiva ocorrência do constrangimento ilegal, cabendo ao impetrante, o ônus processual de produzir elementos documentais consistentes, destinados a comprovar as alegações suscitadas na impetração.
+III - A doutrina e a jurisprudência entendem que o habeas corpus, por constituir ação mandamental cuja principal característica é a sumariedade, não possui fase instrutória, vale dizer, "a inicial deve vir acompanhada de prova documental pré-constituída, que propicie o exame, pelo juiz ou tribunal, dos fatos caracterizadores do constrangimento ou ameaça, bem como de sua ilegalidade, pois ao impetrante incumbe o ônus da prova" (GRINOVER, A.P.; FILHO, A. M. G.; FERNANDES, A.S. Recursos no Processo Penal, ed. Revista dos Tribunais, 2011 p. 298).
+IV - In casu, o agravante não juntou sequer a cópia da decisão que decretou a segregação cautelar. Dessa maneira, a quaestio trazida à baila na exordial do writ não vislumbra o pretenso quadro claro e adequado à exata compreensão da controvérsia. Ressalte-se que nem mesmo com a petição de agravo regimental foi sanada a deficiência na instrução do feito.
+Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por GUSTAVO MOREIRA CANHASSO contra decisão de fls. 62-64, que indeferiu liminarmente o Habeas corpus.
+Ressai das alegações aventadas pelo agravante, a pretensão de que seja efetivado o juízo de retratação, sustentando que "independente da não juntada do decreto de prisão temporária, odo a matéria foi apreciado junto ao tribunal "a quo", o agravante em sua inicial, pleiteia habeas corpus preventivo, tendo e vista todo o alegado na mesma, para se evitar prisão ilegal e desnecessária!" (fl. 67).
+Com essas considerações, pugna pela reconsideração ou que o presente recurso seja submetido ao julgamento pelo Colegiado.
+O Ministério Público Federal, às fls. 79-81, opinou pelo desprovimento do agravo, em parecer ementado:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. INDEFERIMENTO LIMINAR POR DEFICIÊNCIADE INSTRUÇÃO. AUSÊNCIA DE JUNTADA DODECRETO PREVENTIVO. IMPOSSIBILIDADE DECONHECIMENTO E DE ANÁLISE DAS RAZÕESQUE LEVARAM À PRISÃO. INSTRUÇÃODEFICIENTE. DESPROVIMENTO" (fl. 79).
+Por manter a decisão ora agravada, trago o feito ao colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. INSTRUÇÃO DEFICIENTE. HABEAS CORPUS INDEFERIDO LIMINARMENTE. AGRAVO DESPROVIDO.
+I - Esta Corte Superior de Justiça possui entendimento sedimentado de que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - O habeas corpus deve ser instruído com as peças necessárias para confirmação da efetiva ocorrência do constrangimento ilegal, cabendo ao impetrante, o ônus processual de produzir elementos documentais consistentes, destinados a comprovar as alegações suscitadas na impetração.
+III - A doutrina e a jurisprudência entendem que o habeas corpus, por constituir ação mandamental cuja principal característica é a sumariedade, não possui fase instrutória, vale dizer, "a inicial deve vir acompanhada de prova documental pré-constituída, que propicie o exame, pelo juiz ou tribunal, dos fatos caracterizadores do constrangimento ou ameaça, bem como de sua ilegalidade, pois ao impetrante incumbe o ônus da prova" (GRINOVER, A.P.; FILHO, A. M. G.; FERNANDES, A.S. Recursos no Processo Penal, ed. Revista dos Tribunais, 2011 p. 298).
+IV - In casu, o agravante não juntou sequer a cópia da decisão que decretou a segregação cautelar. Dessa maneira, a quaestio trazida à baila na exordial do writ não vislumbra o pretenso quadro claro e adequado à exata compreensão da controvérsia. Ressalte-se que nem mesmo com a petição de agravo regimental foi sanada a deficiência na instrução do feito.
+Agravo regimental desprovido.
+VOTO
+O presente Agravo Regimental não merece provimento.
+Sustenta o Agravante a necessidade de reforma do decisum.
+Pois bem. O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada por seus próprios fundamentos.
+Nesse compasso, não obstante o teor das razões suscitadas no presente recurso, não vislumbro elementos hábeis a alterar a decisão de fls. 62-64. Ao contrário, os argumentos ali externados merecem ser ratificados pelo Colegiado.
+Dessarte, o habeas corpus deve ser instruído com as peças necessárias para confirmação da efetiva ocorrência do constrangimento ilegal, cabendo ao impetrante, o ônus processual de produzir elementos documentais consistentes, destinados a comprovar as alegações suscitadas na impetração.
+Nesse sentido, os seguintes julgados desse Superior Tribunal de Justiça:
+"PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. PRISÃO PREVENTIVA. REVISÃO NONAGESIMAL. AUSÊNCIA DE DADOS NOVOS A JUSTIFICAR A SEGREGAÇÃO. INIDONEIDADE POR FALTA DE MOTIVAÇÃO. MANUTENÇÃO DA PRISÃO PREVENTIVA. DEFICIÊNCIA DE INSTRUÇÃO. AUSÊNCIA DO DECRETO PRISIONAL ORIGINÁRIO. REVISÃO PERIÓDICA DA PRISÃO PREVENTIVA. SUFICIENTE ANÁLISE DA PRESENÇA DOS REQUISITOS DA CUSTÓDIA CORPORAL. FATOS NOVOS OU CONTEMPORÂNEOS. MOMENTO INICIAL DA IMPOSIÇÃO DA PRISÃO. EXCESSO DE PRAZO. INOVAÇÃO RECURSAL. SUPRESSÃO DE INSTÂNCIA NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. INEXISTÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+II - No caso, a deficiente instrução dos autos impede a análise da aventada inidoneidade da decisão que manteve a segregação cautelar. Isto porque a defesa não juntou aos autos cópia da decisão que decretou a originariamente prisão preventiva, peça imprescindível à compreensão da controvérsia.
+ ..
+Agravo regimental desprovido" (AgRg no HC n. 730.759/SP, Quinta Turma, Rel. Min. Jesuíno Rissato - Desembargador Convocado do TJDFT, DJe de 19/5/2022, grifei).
+"PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. DOSIMETRIA. INSTRUÇÃO DEFICIENTE. ÓBICE AO EXAME DAS RAZÕES DO WRIT. AGRAVO DESPROVIDO.
+1. Em sede de habeas corpus, a prova deve ser pré-constituída e incontroversa, cabendo ao impetrante apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado. Na espécie, o processo não foi instruído com cópia do acórdão proferido no julgamento do apelo defensivo, peça imprescindível para análise da impetração. De fato, na decisão colegiada acostada aos autos, limitou-se o Tribunal de origem a examinar o fundamentos do decreto preventivo, sem que fossem analisados os parâmetros adotados no cálculo dosimétrico. Precedentes.
+2. Ainda que tenha interposto agravo regimental, no qual reconheceu a deficiência da instrução do feito, o impetrante não logrou apresentar a cópia do acórdão proferido no julgamento da apelação, alegando não ter conseguido localizar tal peça processual.
+ ..
+4. Agravo regimental desprovido" (AgRg no HC n. 647.927/RS, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 10/5/2021, grifei).
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. ALEGAÇÃO DE CONSTRANGIMENTO ILEGAL. INSTRUÇÃO DEFICIENTE. FALTA DE CÓPIA DE PEÇA ESSENCIAL.
+1. Deve ser mantida por seus próprios fundamentos a decisão monocrática que não conheceu do habeas corpus.
+2. Embora a defesa conteste a segregação cautelar do paciente - alegando que não estão presentes os pressupostos para embasar o decreto da prisão cautelar e que a decisão é carente de fundamentação idônea -, não cuidou de trazer aos autos a transcrição do conteúdo de mídia anexa à ata da audiência de custódia, ocasião em que o Magistrado singular vinculou sua fundamentação para a conversão da prisão em flagrante em preventiva.
+3. A mera indicação de link para acesso à peça faltante e essencial para o exame do alegado constrangimento ilegal, que deixou de ser juntada com a inicial do writ, não é suficiente para reverter a decisão que não conheceu do pedido de habeas corpus por instrução deficiente da impetração.
+4. Agravo regimental improvido" (AgRg no HC n. 727.481/SP, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe de 13/5/2022, grifei).
+Saliente-se que a doutrina e a jurisprudência entendem que o habeas corpus, por constituir ação mandamental cuja principal característica é a sumariedade, não possui fase instrutória, vale dizer, "a inicial deve vir acompanhada de prova documental pré-constituída, que propicie o exame, pelo juiz ou tribunal, dos fatos caracterizadores do constrangimento ou ameaça, bem como de sua ilegalidade, pois ao impetrante incumbe o ônus da prova" (GRINOVER, A.P.; FILHO, A. M. G.; FERNANDES, A.S. Recursos no Processo Penal, ed. Revista dos Tribunais, 2011 p. 298).
+In casu, o agravante não juntou sequer a cópia da decisão que decretou a segregação cautelar. Dessa maneira, a quaestio trazida à baila na exordial do writ não vislumbra o pretenso quadro claro e adequado à exata compreensão da controvérsia. Com efeito, ausentes os documentos necessários à comprovação das alegações formuladas no reclamo, não há como analisar-se eventual ilegalidade ou abuso de poder. Ressalte-se que nem mesmo com a petição de agravo regimental foi sanada a deficiência na instrução do feito.
+Destarte, neste agravo regimental, não se aduziu qualquer argumento novo e apto a ensejar a alteração da decisão ora agravada, devendo ser mantida por seus próprios e jurídicos fundamentos.
+Nesse sentido: "Esta Corte Superior de Justiça possui entendimento sedimentado de que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos" (AgRg no HC n. 516.786/RS, Quinta Turma, Rel. Min. Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE) , DJe de 22/10/2019) .
+Ante o exposto, por não vislumbrar a existência de argumentos capazes de alterar o entendimento anteriormente exposto, nego provimento ao agravo regimental.
+É o voto.
