@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/05/2023 a 08/05/2023, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+Trata-se de agravo interno manejado pelo ESTADO DO MARANHÃO para desafiar decisão, proferida pela Presidência desta Corte às e-STJ fls. 250/251, que não conheceu do agravo em recurso especial, pois o agravante não impugnou especificamente o fundamento da decisão agravada, no caso, a aplicação da Súmula 7 do STJ.
+Sustenta a parte recorrente que, "uma vez caracterizada a estrita aderência entre o presente caso e a controvérsia submetida ao rito dos repetitivos em referência (Tema 1.033), pugna o Estado do Maranhão pelo sobrestamento do presente feito até o julgamento final dos Recursos Especiais 1.801.615/SP e 1.774.204/RS.." (e-STJ fl. 257).
+Requer, assim, que se conheça do recurso e dele o proveja, a fim de determinar o sobrestamento do feito até o julgamento do Tema 1.033 desta Corte Superior.
+Impugnação não apresentada.
+É o relatório
+EMENTA
+PROCESSUAL CIVIL. DECISÃO AGRAVADA. FUNDAMENTOS. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA.
+1. Nos termos do art. 1.021, § 1º, do CPC/2015 e da Súmula 182 do STJ, o agravante deve infirmar, nas razões do agravo interno, os fundamentos da decisão impugnada, sob pena de não ser conhecido o seu recurso.
+2. Hipótese em que o recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, os motivos da decisão ora agravada.
+3. Agravo interno não conhecido.
+VOTO
+De início, não se há de acolher o pleito de encaminhamento dos autos ao Tribunal de origem para sobrestamento, tendo em vista que não há identidade entre a matéria discutida nos presentes autos - ação que trata de título ilíquido - o prazo prescricional para a propositura da demanda executiva inicia-se somente após a liquidação da sentença - e a controvérsia estabelecida nos feitos afetados, que, conforme firmado no Tema 1033, encontra-se delimitado nos termos da ementa:
+PROPOSTA DE AFETAÇÃO. RECURSO ESPECIAL. RITO DOS RECURSOS ESPECIAIS REPETITIVOS. DIREITO PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. CADERNETAS DE POUPANÇA. EXPURGOS INFLACIONÁRIOS. SOLUÇÃO CONCENTRADA E VINCULANTE. NECESSIDADE DE FIXAÇÃO DE TESE.
+1. Delimitação da controvérsia, para os efeitos dos arts. 927 e 1.036 do CPC, acerca do seguinte tema: "Interrupção do prazo prescricional para pleitear o cumprimento de sentença coletiva, em virtude do ajuizamento de ação de protesto ou de execução coletiva por legitimado para propor demandas coletivas."
+2. RECURSO ESPECIAL AFETADO AO RITO DO ART. 1.036 DO CPC/2015.
+(ProAfR no REsp 1.774.204 / RS, Relator Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, 30/10/2019).
+Dito isso, há de se consignar que, considerando os parâmetros estabelecidos pela Corte Especial do Superior Tribunal de Justiça, no julgamento do EREsp 1.424.404/SP (Rel. Ministro LUIS FELIPE SALOMÃO, julgado em 20/10/2021, DJe 17/11/2021), para a aplicação da Súmula 182 do STJ no tocante aos agravos internos manejados contra decisões proferidas em recurso especial ou em agravo em recurso especial, tem-se o seguinte:
+a) incide o verbete quando: i) o único ou todos os capítulos da decisão agravada não foi ou não foram impugnados; ii) não houver a impugnação de todos os fundamentos adotados na análise de determinado capítulo autônomo (ou seja, ausência de ataque a fundamento capaz, por si só, de manter a conclusão alcançada na decisão agravada);
+b) não se aplica o óbice sumular no caso em que houver vários capítulos autônomos, e a parte agravante não se insurgir contra algum deles, pois isso acarreta apenas a preclusão da matéria não impugnada, devendo ser analisado o que remanesceu.
+Dito isso, vê-se que, na hipótese dos autos, o agravo interno não merece ser conhecido.
+Com efeito, o decisum ora recorrido não conheceu do agravo interposto, visto que a parte agravante não se insurgiu contra o fundamento do juízo de prelibação negativo do recurso especial, abstendo-se de atacar a incidência da Súmula n. 7/STJ ao caso.
+Da leitura das razões do agravo interno, observa-se que, mais uma vez, a parte recorrente deixou de atacar devidamente o fundamento do julgado agravado pertinente à falta de impugnação do referido óbice.
+Deve-se observar que o princípio da dialeticidade impõe à parte recorrente o ônus de explicitar, de forma específica, concreta e pormenorizada, os motivos pelos quais a decisão atacada deve ser reformada, trazendo argumentações capazes de demonstrar o seu desacerto, sendo insuficiente a mera alegação de que houve ataque específico, sem a sua efetiva demonstração.
+Ademais, a questão da incidência do óbice era objeto do agravo em recurso especial, sendo que, na atual fase processual, o fundamento a ser atacado consiste na própria falta de impugnação no recurso anterior.
+Ressalte-se, ainda, que, conforme a jurisprudência desta Corte, o ataque tardio dos fundamentos da decisão que não admitiu o recurso especial, já em sede de agravo interno, configura inovação recursal, incabível em razão da preclusão consumativa.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO. DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DO STJ, QUE INADMITIU RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. SÚMULA 182/STJ.
+1. A decisão monocrática da Presidência do STJ assentou: "Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: Súmula 7/STJ. Entretanto, a parte agravante deixou de impugnar especificamente o referido fundamento. Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do Agravo em Recurso Especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida". Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do Recurso Especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, inadmitiu o Recurso Especial" (fl. 376, e-STJ).
+2. No presente recurso, a parte agravante deixa de observar a determinação do art. 1.021, § 1º, do CPC/2015, pois não refuta os fundamentos do mérito da decisão recorrida, que não conheceu do Agravo em Recurso Especial por falta de impugnação da decisão de admissibilidade.
+3. A iterativa jurisprudência do Superior Tribunal de Justiça consolidou a compreensão de que não se conhece de Agravo contra decisão monocrática o qual não ataque especificamente os fundamentos dessa decisão, de forma a demonstrar que o entendimento nela esposado merece modificação. Assim, nãobastam alegações genéricas em sentido contrário ao das afirmações da decisão agravada.
+4. Dessa forma, a ausência de impugnação especificada faz incidir na espécie a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."), que está em consonância com a redação do § 1º do art. 1.021 do atual do CPC.
+5. Ademais, a impugnação tardia dos fundamentos da decisão que não admitiu o Recurso Especial, por ocasião da interposição de Agravo Interno, além de caracterizar imprópria inovação recursal, não tem o condão de afastar a aplicação do referido verbete 182/STJ, em virtude da ocorrência de preclusão consumativa.
+6. Agravo Interno não conhecido.(AgInt no AREsp n. 1.874.820/GO, relator Ministro Herman Benjamin, Segunda Turma, julgado em 4/10/2021, DJe de 4/11/2021.).
+Desse modo, forçosa se apresenta a observância do contido no art. 1.021, § 1º, do Código de Processo Civil de 2015 e na Súmula 182 do STJ.
+Deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC/2015, tendo em vista que o mero inconformismo com a decisão agravada não enseja a necessária imposição da sanção quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do Colegiado, como no caso em análise.
+Ante o exposto, NÃO CONHEÇO do agravo interno.
+É como voto.
