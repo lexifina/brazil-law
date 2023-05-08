@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/05/2023 a 08/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Humberto Martins.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que conheceu do agravo em recurso especial para negar provimento ao recurso especial, mantendo o acórdão recorrido que excluiu da base de cálculo do IRPJ e da CSLL o crédito de ICMS presumido.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+ ..
+Com efeito, a contar da vigência da LC 160/2017, a matéria tem tratamento legal que submeteu os benefícios fiscais de ICMS ao regime jurídico das subvenções para investimento (art.9º da LC 160/2017 acresceu osparágrafos4ºe 5º ao art. 30 da Lei 12.973/14). Assim, se atendidas as condições previstas no art. 30, caput, incisos e parágrafos da Lei 12.973/14, poderá o valor do benefício fiscal de ICMS ser excluído das bases de cálculo do IRPJ e da CSLL.
+ ..
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. CRÉDITO PRESUMIDO DE ICMS. EXCLUSÃO DA BASE DE CÁLCULO DO IRPJ E CSLL. POSSIBILIDADE. SUPERVENIÊNCIA DA LC 160/2017. INAPLICABILIDADE. PRECEDENTES. DESPROVIMENTO DO AGRAVO INTERNO MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, o contribuinte impetrou mandado de segurança, ao qual atribuiu o valor de R$ 873.730,52 (Oitocentos e setenta e três mil, setecentos e trinta reais e cinquenta e dois centavos) em dezembro de 2020, objetivando a exclusão do crédito presumido de ICMS da base de cálculo do IRPJ e da CSLL. Após sentença que concedeu em parte a segurança pleiteada, foi interposta apelação pela Fazenda Nacional, que teve seu provimento negado pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, ficando consignado o entendimento de que os créditos presumidos de ICMS se qualificam como subvenções para investimento, conforme o art. 30 da Lei n. 12.973/2014, e estão excluídos da base de cálculo do IRPJ e da CSLL.
+II - O entendimento do Superior Tribunal de Justiça é no sentido de que os créditos presumidos de ICMS devem ser excluídos da base de cálculo do IRPJ e CSLL, não havendo que se falar nas alterações introduzidas pela LC 160/2017 (EDcl no REsp n. 1.951.855/SC, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 13/3/2023, DJe de 17/3/2023; (AgInt no AREsp n. 2.105.327/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 13/2/2023, DJe de 17/2/2023.)
+III - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+De fato, o entendimento do Superior Tribunal de Justiça é no sentido de que os créditos presumidos de ICMS devem ser excluídos da base de cálculo do IRPJ e CSLL, não havendo que se falar nas alterações introduzidas pela LC 160/2017.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. CRÉDITOS PRESUMIDOS DE ICMS. EXCLUSÃO DA BASE DE CÁLCULO DO IRPJ/CSLL. MANDADO DE SEGURANÇA OBJETIVANDO A DECLARAÇÃO DO DIREITO À RESTITUIÇÃO DO INDÉBITO NA VIA ADMINISTRATIVA. CABIMENTO. ENTENDIMENTO CONSOLIDADO NO STJ. OMISSÃO E CONTRADIÇÃO. INEXISTÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. O inconformismo da parte embargante não se amolda aos contornos da via dos embargos de declaração, previstos no art. 1.022 do CPC/2015, porquanto o acórdão ora combatido não padece de vícios de omissão, contradição, obscuridade ou erro material, não se prestando o manejo de tal recurso para o fim de rediscutir os aspectos jurídicos anteriormente debatidos.
+2. Na espécie, o acórdão embargado não foi omisso ou contraditório, porquanto a Primeira Turma desta Corte Superior apreciou as questões que lhe foram trazidas de forma clara e devidamente fundamentada, adotando a orientação consolidada no âmbito da Primeira Seção, por ocasião do julgamento dos EREsp 1.517.492/PR, de relatoria da Ministra Regina Helena Costa, de que o incentivo fiscal concedido por um Estado não pode ser incluído no faturamento, sob pena de ofensa ao princípio federativo. Nessa linha, os créditos presumidos de ICMS não devem ser incluídos na base de cálculo tributária.
+3. Especificamente quanto às alterações do art. 30 da Lei 12.973/2014 introduzidas pela LC 160/2017, decidiu-se que "a superveniência de lei, determinando a qualificação do incentivo fiscal estadual como subvenção de investimentos, não tem aptidão para alterar a conclusão de que a tributação federal do crédito presumido de ICMS representa violação ao princípio federativo" (AgInt nos EREsp 1.462.237/SC, Rel. Ministro GURGEL DE FARIA, DJe 21/03/2019).
+4. Também em relação à possibilidade de se assegurar, na via administrativa, o direito à restituição do indébito tributário reconhecido por decisão judicial em mandado de segurança, o acórdão embargado seguiu a jurisprudência firmada por ambas as turmas integrantes da Primeira Seção de que "o mandado de segurança é via adequada para declarar o direito à compensação ou restituição de tributos, sendo que, em ambos os casos, concedida a ordem, os pedidos devem ser requeridos na esfera administrativa, restando, assim, inviável a via do precatório, sob pena de conferir indevidos efeitos retroativos ao mandamus" (AgInt no REsp 1.895.331/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 24/05/2021, DJe 11/06/2021).
+5. Constata-se, portanto, que a parte embargante pretende renovar a discussão acerca de questão que já foi decidida de maneira fundamentada, o que não é possível por meio dos embargos de declaração.
+6. Rever as matérias aqui alegadas acarretaria rediscutir entendimento já manifestado e devidamente embasado. Os embargos declaratórios não se prestam à inovação, à rediscussão da matéria tratada nos autos ou à correção de eventual error in judicando.
+7. Embargos de declaração rejeitados. Ressalva do entendimento pessoal do relator.
+(EDcl no REsp n. 1.951.855/SC, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 13/3/2023, DJe de 17/3/2023.)
+TRIBUTÁRIO. CRÉDITO PRESUMIDO DE ICMS. BASES DE CÁLCULO DO IRPJ E DA CSLL. INCLUSÃO. IMPOSSIBILIDADE. SUPERVENIÊNCIA DA LEI COMPLEMENTAR N. 160/2017. INAPLICABILIDADE.
+1. A Primeira Seção, no julgamento do AgInt nos EREsp 1.528.697/SC, decidiu pela não inclusão do crédito presumido de ICMS nas bases de cálculo do IRPJ e da CSLL, salientando que a superveniência da Lei Complementar n. 160/2017, que promoveu alteração no art. 30 da Lei n. 12.973/2014, não alterou o entendimento de que a tributação do crédito presumido de ICMS representaria violação do princípio federativo.
+2. Na mesma oportunidade, a Primeira Seção firmou a compreensão de que " a  superveniência da Lei complementar n. 160/2017, que promoveu alteração no art. 30 da Lei n. 12.973/2014, e passou a enquadrar o incentivo fiscal estadual como subvenção para investimento, não tem o condão de alterar o entendimento desta Corte de que a tributação federal do crédito presumido de ICMS representa violação do princípio federativo" (AgInt nos EREsp 1.528.697/SC, Rel. Ministro Og Fernandes, Primeira Seção, julgado em 29/06/2021, DJe 12/08/2021).
+3. Agravo interno não provido.
+(AgInt no AREsp n. 2.105.327/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 13/2/2023, DJe de 17/2/2023.)
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
