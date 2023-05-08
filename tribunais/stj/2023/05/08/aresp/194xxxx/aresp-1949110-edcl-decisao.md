@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por AMARAL DE SÁ ADVOGADOS ASSOCIADOS contra a decisão monocrática que conheceu do agravo que interpusera, para conhecer do recurso especial e negar-lhe provimento, conforme a seguinte ementa:
+AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. HONORÁRIOS SUCUMBENCIAIS. VIOLAÇÃO DA COISA JULGADA. INEXISTÊNCIA. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. ACOLHIMENTO PARCIAL. HONORÁRIOS SUCUMBENCIAIS. CABIMENTO.
+1. É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+2. A sentença havia arbitrado honorários em prol dos patronos da recorrida de 10% sobre o valor do débito. No entanto, embora o acórdão, porque deu provimento à apelação, tenha invertido os ônus sucumbenciais, não estabeleceu a base de cálculo dos honorários. E, considerando que a apelação foi provida apenas para afastar a penhora do bem de família, a base de cálculo não é mesmo o valor do débito, mas sim o valor atualizado do imóvel, afinal, esse foi o proveito econômico obtido pela recorrente (art. 85, § 2º, do CPC/2015).
+3. A jurisprudência do STJ é no sentido de que apenas no caso de acolhimento da impugnação, ainda que parcial, serão arbitrados honorários em benefício do executado (Tema 410/STJ).
+4. Agravo conhecido. Recurso especial conhecido e não provido.
+Nas razões, alega omissão no que tange à alegação de litigância de má-fé do embargado, em razão da afirmação falsa da inexistência de título executivo e concernente à ausência de extinção da execução. Aduz, ademais, a existência de contradição, tendo em vista que restou consignado na decisão embargada que foram fixados honorários, na sentença, de 10% sobre o valor do débito, bem como que a Corte de origem não fixou a base de cálculo dos honorários.
+É O RELATÓRIO. DECIDO.
+Os embargos de declaração, a teor do art. 1.022 do CPC, constitui-se em recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição ou omissão -, não podendo, portanto, serem acolhidos quando a parte embargante pretende, essencialmente, reformar o decidido.
+Com relação à primeira omissão suscitada, verifica-se que a Corte de origem não decidiu acerca da litigância de má-fé, razão pela qual não poderia o STJ examinar a questão, por estar ausente o requisito do prequestionamento (Súmula 211/STJ).
+Acerca da segunda omissão apontada, não prospera a alegação. Isso porque, a extinção ou não da execução é irrelevante para determinar o cabimento ou não de honorários sucumbenciais em sede de impugnação ao cumprimento de sentença. Conforme expressamente sublinhado na decisão recorrida, "no caso de acolhimento da impugnação do cumprimento de sentença, ainda que parcial, é cabível o arbitramento de honorários advocatícios em benefício do executado (TEMA 410/STJ)" (e-STJ, fl. 1478).
+Também não se constata a propalada contradição. Isso porque, a toda evidência, não há contradição na afirmação de que a sentença havia arbitrado honorários e que o acórdão, embora tenha invertido a sucumbência, não definiu a base de cálculo da verba honorária.
+Em verdade, a pretexto de apontar supostos vícios, o que busca o recorrente é a alteração de questões já decididas, o que é descabido na estreita via dos embargos de declaração.
+Forte nessas razões, REJEITO os embargos de declaração.
+Por ora, deixo de aplicar multa ao recorrente. Todavia, alerto-o de que, a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. CONTRADIÇÃO. AUSÊNCIA. REDISCUSSÃO DE QUESTÕES JÁ DECIDIDAS. IMPOSSIBILIDADE.
+1. Os embargos de declaração, a teor do art. 1.022 do CPC, constitui-se em recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição ou omissão -, não podendo, portanto, serem acolhidos quando a parte embargante pretende, essencialmente, reformar o decidido.
+2. Embargos de declaração rejeitados.
