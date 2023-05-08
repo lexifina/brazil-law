@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo interposto por CARLOS EDUARDO SCHAHIN contra a decisão que inadmitiu recurso especial.
+A denegação se deu pelos seguintes motivos (e-STJ fls. 675/677):
+(i) ausência de violação dos artigos 489 e 1.022 do CPC;
+(ii) a violação dos artigos 80, incisos V, VI e VII e 1.026, inciso II, do CPC não restou demonstrada; e
+(iii) incidência da Súmula nº 7/STJ.
+Nas razões do agravo em recurso especial (e-STJ fls. 681/687), o agravante sustenta, em síntese, que:
+(i) que a decisão de admissibilidade é genérica;
+(ii) que o Tribunal de origem incorreu em negativa de prestação jurisdicional; e
+(iii) que não é cabível a aplicação das multas previstas nos artigos 80 e 1.026 do CPC.
+Ao final, requer o provimento do recurso.
+É o relatório.
+DECIDO.
+O agravo não comporta conhecimento.
+Constata-se que as razões do agravo em recurso especial deixaram de impugnar, de modo específico, a incidência da Súmula nº 7/STJ ao presente caso.
+O Superior Tribunal de Justiça tem entendimento pacífico no sentido de que é dever do agravante atacar especificamente os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo, não bastando para tanto a impugnação genérica ou a reiteração das razões do recurso anterior.
+Essa é a interpretação do art. 932, III, do Código de Processo Civil, c/c art. 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO PROFERIDA PELO TRIBUNAL DE ORIGEM. PRINCIPIO DA DIALETICIDADE. ART. 932, III, DO CPC DE 2.015. IRRESIGNAÇÃO GENÉRICA.
+1. À luz do princípio da dialeticidade, que norteia os recursos, compete à parte agravante, sob pena de não conhecimento do agravo em recurso especial, infirmar especificamente os fundamentos adotados pelo Tribunal de origem para negar seguimento ao reclamo.
+2. O agravo que objetiva conferir trânsito ao recurso especial obstado na origem reclama, como requisito objetivo de admissibilidade, a impugnação específica a todos os fundamentos utilizados para a negativa de seguimento do apelo extremo (EAREsp 701.404/SC, EAREsp 831.326/SP e EAREsp 746.775/PR, Corte Especial, Rel. p/ acórdão Min. Luis Felipe Salomão, DJe de 30/11/2018), consoante expressa previsão contida no art. 932, III, do CPC de 2.015 e art. 253, I, do RISTJ, ônus da qual não se desincumbiu a parte insurgente, sendo insuficiente alegações genéricas de não aplicabilidade do óbice invocado.
+3. A parte agravante nada falou, nas razões do agravo em recurso especial, sobre os fundamentos da decisão de inadmissibilidade do Tribunal de origem no sentido de ausência de afronta ao art. 1.022 do CPC e da ausência de prequestionamento, deixando, assim, de rebater, de forma específica, clara e argumentada, os referidos óbices.
+4. Para afastar o fundamento, da decisão agravada, de incidência do óbice da Súmula 7/STJ não basta apenas deduzir alegação genérica de presença dos requisitos de admissibilidade, ou de inaplicabilidade do referido óbice ou, ainda, que a tese defensiva não demanda reexame de provas. Para tanto o recorrente deve desenvolver argumentação que demonstre como seria possível modificar o entendimento firmado pelas instâncias ordinárias sem nova análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no acórdão objurgado, ônus do qual, contudo, não se desobrigou.
+5. Agravo interno não provido" (AgInt no AREsp n. 1.910.054/DF, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 25/4/2022, DJe de 27/4/2022.)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. DECISÃO DA PRESIDÊNCIA DESTA CORTE SUPERIOR. PREPARO. INTEMPESTIVIDADE DO RESP. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA NAS RAZÕES RECURSAIS. NÃO OBSERVÂNCIA DO PRINCÍPIO DA DIALETICIDADE. ART. 1.021, § 1º, DO CPC E ART. 259, § 2º, DO RISTJ. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. ARTIGO 85, § 11, DO CPC DE 2015. AGRAVO INTERNO NÃO PROVIDO.
+1. Nas razões do agravo interno a recorrente não impugnou especificamente o fundamento da decisão da Presidência desta Corte Superior, qual seja, a intempestividade do recurso especial, limitando-se a defender a temporaneidade do seu agravo em recurso especial.
+2. O artigo 1.021, § 1º, do CPC/2015 e o art. 259, § 2º, do RISTJ determinam que, na petição de agravo interno, o recorrente impugnará especificamente os fundamentos da decisão agravada, o que não foi observado no presente caso.
+3. Ressalte-se que o princípio da dialeticidade impõe à parte recorrente, sob pena do não conhecimento do seu recurso, o ônus de explicitar os motivos específicos pelos quais a decisão atacada deve ser reformada, trazendo argumentações capazes de demonstrar o seu desacerto, sendo insuficiente tecer alegações genéricas de não aplicabilidade dos óbices invocados ou repetir o teor do apelo nobre.
+(..)
+6.Agravo interno não provido" (AgInt no AREsp n. 2.070.656/GO, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 13/6/2022, DJe de 17/6/2022 - grifou-se.)
+Por fim, vale ressaltar que esse entendimento foi chancelado pela Corte Especial no julgamento do EAREsp 746.775/PR:
+"PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos" (EAREsp 746.775/PR, Rel. Ministro João Otávio de Noronha, Rel. p/ Acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/09/2018, DJe 30/11/2018.)
+Ante o exposto, não conheço do agravo em recurso especial.
+Deixo de majorar os honorários sucumbenciais, conforme determina o artigo 85, § 11, do CPC, pela ausência de prévia fixação na origem.
+Publique-se.
+Intimem-se.
