@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interposto por OPEN EDUCAÇÃO LTDA. (OUTRO NOME: SOCIEDADE INTERAMERICANA DE PESQUISA E ENSINO SUPERIOR LTDA.) contra a decisão que inadmitiu recurso especial. O apelo extremo, com fundamento no artigo 105, III, "a", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"Apelação. Prestação de serviços educacionais. Ação de indenização por danos materiais e morais. Parcial procedência. Inconformismo da autora. Código de Defesa do Consumidor. Incidência. Relação de consumo configurada. Mérito. Contrato de prestação de serviços educacionais. Graduação em Administração oferecida pela Instituição ré com adesão, pela autora, ao "Programa Futuro Executivo", que oferecia, durante o curso de graduação, dentre outros benefícios, os de MBA Executivo, Coaching, inglês para negócios e intercâmbio em módulo internacional com a Universidade McGill do Canadá. Autora que se graduou em 2019 sem que tivesse sido cumprido pela ré a oferta do curso de MBA Executivo e de intercâmbio internacional. Confessos problemas para a consecução desse programa pela Faculdade, que se encontrava em processo de migração para a UniSantanna. Danos materiais evidenciados quanto à falta do programa de intercâmbio. Curso de MBA que deverá ser oferecido com a abertura de nova turma. Valor dos danos materiais correspondente ao que seria despendido por aluno no intercâmbio. Danos morais. Abalo evidente. Aluna que se viu constrangida diante da falta cometida pela ré. indenização fixada em R$ 5.000,00. RECURSO PARCIALMENTE PROVIDO." (fl. 366, e-STJ).
+No recurso especial, a agravante apontou violação do artigo 14, §3º, I e II, do CDC, haja vista que o acórdão recorrido "fixou a indenização por danos materiais e morais sem que ficasse demonstrada a culpa da Recorrente, ficando demonstrado ainda que intercâmbio e MBA somente não foram usufruídos por culpa exclusiva da Recorrida." (fls. 379/380, e-STJ).
+Oferecidas as contrarrazões (fls. 416/421, e-STJ), o recurso não foi admitido na origem, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação não merece prosperar.
+No que se refere à ofensa ao artigo 14, §3º, I e II, do CDC, verifica-se que a matéria versada no dispositivo apontado como violado no recurso especial não foi objeto de debate pelas instâncias ordinárias, sequer de modo implícito, e não foram opostos embargos declaratórios com a finalidade de sanar omissão porventura existente. Por esse motivo, ausente o requisito do prequestionamento, incide o disposto na Súmula nº 282/STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+Sobre o tema:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COMPLEMENTAÇÃO DE BENEFÍCIO PREVIDENCIÁRIO. PREQUESTIONAMENTO. NÃO OCORRÊNCIA. SÚMULA 282/STF. PRESCRIÇÃO QUINQUENAL. ALCANCE DAS PARCELAS VENCIDAS ANTERIORMENTE AO QUINQUÊNIO QUE PRECEDE O AJUIZAMENTO DA AÇÃO.
+1. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+2. O acórdão recorrido que adota a orientação firmada pela jurisprudência do STJ não merece reforma.
+3. Agravo interno não provido" (AgInt no AREsp 1.097.857/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe 10/11/2017 - grifou-se).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 20% (vinte por cento) sobre o valor da condenação, não cabendo a majoração prevista no art. 85, § 11, do Código de Processo Civil de 2015, por já estar no limite máximo estabelecido no § 2º do mesmo dispositivo legal.
+Publique-se.
+Intimem-se.
