@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/05/2023 a 08/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Humberto Martins.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno interposto de decisão (fls. 370-373, e-STJ) que conheceu do Agravo para não conhecer do Recurso Especial.
+A parte agravante sustenta, em suma (fls. 381-382, e-STJ):
+Conforme se observa do recurso originário, o recorrente apresentou requerimento de concessão da AJG. Não houve, no entanto, indeferimento expresso pelo tribunal, importando no deferimento tácito do benefício.
+(..)
+Naturalmente, o benefício da AJG foi deferido tacitamente à parte recorrente.
+Dessa forma, impõe-se o afastamento do óbice contido na Súmula 187, do STJ, uma vez que a parte recorrente é beneficiária da AJG, deferida tacitamente nos termos dos precedentes desta Corte Superior.
+Isto posto, requer seja certificado nas informações adicionais do processo o deferimento tácito da AJG.
+Pleiteia, ao final, a reconsideração do decisum agravado ou a submissão do feito à Turma.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. PREPARO DO RECURSO ESPECIAL. AUSÊNCIA. INTIMAÇÃO NA FORMA DO ART. 1.007, § 4º, DO CPC/2015. NÃO RECOLHIMENTO. DESERÇÃO. SÚMULA 187/STJ. GRATUIDADE DE JUSTIÇA. DEFERIMENTO. EFEITOS EX NUNC.
+1. Conforme consignado no decisum, a Vice-Presidência do Tribunal de origem inadmitiu o processamento do Recurso Especial, tendo em vista a não satisfação do preparo, mesmo após a intimação da parte para a sua regularização. Ademais, a parte recorrente somente apresentou documentação relativa a eventual deferimento da gratuidade de justiça no feito originário quando da interposição do Agravo em Recurso Especial.
+2. Contudo, "o benefício da gratuidade judiciária não tem efeito retroativo, de modo que a sua concessão posterior à interposição do recurso não tem o condão de isentar a parte do recolhimento do respectivo preparo. Desse modo, nem mesmo eventual deferimento da benesse nesta fase processual, descaracterizaria a deserção do recurso especial" (AgInt no AREsp 1.769.760/MS, Rel. Min. Nancy Andrighi, Terceira Turma, DJe de 10/03/2021).
+3. Isso porque, apesar de o pedido de justiça gratuita poder ser formulado a qualquer tempo e instância, ele "não retroage para alcançar encargos processuais anteriores".(AgRg no REsp 1.144.627/SC, Rel. Min. Marco Aurélio Bellizze, Quinta Turma, DJe de 29/05/2012.)
+4. Dessa forma, o Recurso Especial não foi devida e oportunamente preparado, incidindo, na espécie, o disposto na Súmula 187 deste Tribunal, o que leva à deserção do Recurso. No mesmo sentido: AREsp 1.639.083/SP, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 19.5.2020.
+5. Ademais, conforme a jurisprudência do STJ, "a não apreciação do pedido de assistência judiciária gratuita não significa deferimento tácito" (AgInt no AREsp n. 997.745/PB, Rel. Min. Maria Isabel Gallotti, Quarta Turma, julgado em 3/10/2017, DJe 6/10/2017).
+6. Por fim, vale acrescentar que é "Pacífico o entendimento desta Corte Superior, no sentido de que o benefício de justiça gratuita concedido unicamente à parte não tem extensão à terceiros, porquanto a assistência judiciária gratuita é um direito personalíssimo e incomunicável, razão pela qual o seu deferimento à parte não implica a sua extensão ao patrono quando esse pleitear, em seu interesse, os direitos contidos no artigo 23, da Lei nº 8.906/94" (AgInt no AREsp n. 1.482.403/MG, Rel. Min. Luis Felipe Salomão, Quarta Turma, julgado em 20/8/2019, DJe de 23/8/2019).
+7. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 20.3.2023.
+Assim, o Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado. Portanto não há falar em reparo na decisão, pelo que reitero o seu teor.
+Conforme consignado no decisum, a Vice-Presidência do Tribunal de origem inadmitiu o processamento do Recurso Especial, tendo em vista a não satisfação do preparo, mesmo após a intimação da parte para a sua regularização. Ademais, a parte recorrente somente apresentou documentação relativa a eventual deferimento da gratuidade de justiça no feito originário quando da interposição do Agravo em Recurso Especial.
+Contudo, "o benefício da gratuidade judiciária não tem efeito retroativo, de modo que a sua concessão posterior à interposição do recurso não tem o condão de isentar a parte do recolhimento do respectivo preparo. Desse modo, nem mesmo eventual deferimento da benesse nesta fase processual, descaracterizaria a deserção do recurso especial" (AgInt no AREsp 1.769.760/MS, Rel. Min. Nancy Andrighi, Terceira Turma, DJe de 10/03/2021).
+Isso porque, apesar de o pedido de justiça gratuita poder ser formulado a qualquer tempo e instância, ele "não retroage para alcançar encargos processuais anteriores". (AgRg no REsp 1.144.627/SC, relator Ministro Marco Aurélio Bellizze, Quinta Turma, DJe de 29/05/2012.)
+Dessa forma, o Recurso Especial não foi devida e oportunamente preparado, incidindo, na espécie, o disposto na Súmula 187 deste Tribunal, o que leva à deserção do Recurso. No mesmo sentido: AREsp 1.639.083/SP, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 19.5.2020.
+Ademais, conforme a jurisprudência do STJ, "a não apreciação do pedido de assistência judiciária gratuita não significa deferimento tácito" (AgInt no AREsp n. 997.745/PB, Rel. Min. MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 3/10/2017, DJe 6/10/2017).
+Por fim, vale acrescentar que é "Pacífico o entendimento desta Corte Superior, no sentido de que o benefício de justiça gratuita concedido unicamente à parte não tem extensão à terceiros, porquanto a assistência judiciária gratuita é um direito personalíssimo e incomunicável, razão pela qual o seu deferimento à parte não implica a sua extensão ao patrono quando esse pleitear, em seu interesse, os direitos contidos no artigo 23, da Lei nº 8.906/94" (AgInt no AREsp n. 1.482.403/MG, Rel. Min. Luis Felipe Salomão, Quarta Turma, julgado em 20/8/2019, DJe de 23/8/2019).
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PARTE BENEFICIÁRIA DA JUSTIÇA GRATUITA. RECURSO INTERPOSTO RELATIVAMENTE AOS HONORÁRIOS SUCUMBENCIAIS DEVIDOS AO SEU ADVOGADO. RECOLHIMENTO DO PREPARO. NECESSIDADE. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. As disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016.
+2. O deferimento da justiça gratuita favorece a parte litigante, e não seu procurador, sendo, portanto, exigível o recolhimento do preparo para os recursos que versem exclusivamente sobre valor de honorários de sucumbência ou contratuais fixados em favor de advogado, cuja parte é beneficiária da justiça gratuita, salvo se o próprio advogado demonstrar que tem direito à gratuidade.
+3. Agravo interno não provido. (AgInt no AREsp n. 1.943.716/SP, rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 17/8/2022.)
+PROCESSUAL CIVIL PROCESSUAL CIVIL. HONORÁRIOS. ART. 99, § 5º, DO CPC/2015. RECURSO ESPECIAL INTERPOSTO POR ADVOGADO QUE NÃO É BENEFICIÁRIO DA JUSTIÇA GRATUITA. HONORÁRIOS. PREPARO. AUSÊNCIA. DESERÇÃO. OCORRÊNCIA.
+1. O STJ possui jurisprudência consolidada no sentido de que "sendo pessoal o direito à gratuidade da justiça, "o recurso que verse exclusivamente sobre valor de honorários de sucumbência fixados em favor do advogado de beneficiário estará sujeito a preparo, salvo se o próprio advogado demonstrar que tem direito à gratuidade" (art. 99, §§ 4º, 5º e 6º do CPC/2015)" (AgInt no AREsp 1.330.266/SP, Relatora Ministra Maria Izabel Galloti, Quarta Turma, DJe 8.4.2019). Na mesma linha: AgInt no AREsp 1.518.381/RJ, Rel.
+Ministro Gurgel de Faria, Primeira Turma, DJe 6.5.2020; e AgInt no AREsp 1.572.165/SP, Rel. Ministro Marco Aurélio Belizze, Terceira Turma, DJe 12.6.2020.
+2. Mediante análise do recurso, verifica-se que este não foi instruído com a guia de custas devidas ao STJ e o respectivo comprovante de pagamento. Ocorre que, apesar de a parte insurgente ser detentora da justiça gratuita, observa-se que o Recurso Especial foi interposto exclusivamente com o objetivo de discutir a fixação dos honorários de sucumbência.
+3. Por esse motivo, nos termos do art. 1.007, § 4º, do CPC/2015, o insurgente foi intimado para realizar, no prazo de 5 dias, recolhimento em dobro das custas processuais, sob pena de deserção (fl. 322, e-STJ). Embora regularmente intimada, a parte se limitou a alegar que é desnecessário o recolhimento de preparo (fls. 324-325, e-STJ).
+4. Dessa forma, o Recurso Especial não foi devida e oportunamente preparado, incidindo, na espécie, o disposto na Súmula 187/STJ, o que leva à deserção do recurso. No mesmo sentido: AREsp 1.639.083/SP, Relator Ministro Mauro Campbell Marques, Segunda Turma, DJe 19.5.2020.
+5. Agravo Interno não provido. (AgInt no AREsp n. 1.601.476/SP, rel. Min. Herman Benjamin, Segunda Turma, DJe de 29/10/2020).
+Logo, ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Diante do exposto, nego provimento ao Agravo Interno.
+É como voto.
