@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de embargos declaratórios opostos por AIRTON GOINSKY contra a decisão de e-STJ fls. 1.671/1.678, em que neguei provimento ao recurso especial em decisum assim relatado:
+Aproveito o bem lançado relatório do representante do Ministério Público Estadual (e-STJ fls. 1.370/1.372):
+Trata-se de Recurso Especial fundamentado no artigo 105, inciso III, alínea "a" da CF, interposto por AÍRTON GOINSKY contra acórdão que, por unanimidade de votos, deu parcial provimento ao recurso de Apelação interposto pela defesa, mantida após julgamento dos Embargos de Declaração.
+Em suas razões recursais, a defesa sustenta, preliminarmente, violação a Súmula Vinculante 14. Nesse sentido, aponta nulidade dos autos ante a ausência de acesso por parte da defesa dos elementos de prova colhido nos autos. Isto, pois, afirma que apenas dois dias antes do julgamento em segundo grau é que houve a disponibilização de inúmeros processos de cautelar de quebra de sigilo telefônico, dos quais a defesa sequer tinha ciência ou mesmo tido acesso na fase adequada de instrução ou em qualquer outro momento.
+Assim, indicando afronta a ampla defesa e devido processo legal, indica violação ao artigo 7 2 . inciso XIV, combinado com o §10, da Lei 8.906/94 além de ofensa ao artigo 157 do Código de Processo Penal, na medida em que a decisão utilizou de argumento não conhecido pela defesa e, portanto, ilegal em um processo eminentemente acusatório.
+Além disso, aduz que a decisão deve ser reformada para o fim de absolver o réu. Menciona que nulidade do reconhecimento do réu realizado na fase investigatória, o que culminou na nulidade do realizado em juízo uma vez que a vítima teria ficado com a imagem do acusado pré concebida. Razão pela qual, entende violado o artigo 226, do Código de Processo Penal.
+Aponta também violação ao artigo 158 do Código de Processo Penal uma vez que não se realizou diligência policial no sentido de obter as imagens das câmeras da delegacia de polícia em que Airton cumpria plantão, bem como quando não fora solicitado o georreferenciamento do aparelho celular que portava Airton, conhecido pela polícia por tratar -se de mesmo número há muitos anos. Afirma que tais providências indicariam que estava em local diverso no momento da suposta concussão, haja vista também a existência de livro ata do plantão da delegacia.
+Quanto a dosimetria da pena, suscita violação do artigo 59 do Código Penal, diante da exasperação da pena base por fundamentação inidónea já que aumentou-se a pena em razão do acusado ser policial, no entanto, tal condição é inerente ao tipo penal. Ainda, alteração do regime inicial de cumprimento da pena por ser primário, funcionário pública há cerca de 20 anos, sem nenhuma anotação criminal.
+Por fim, indica que a perda do cargo se mostra como medida extremamente desproporcional a um policial que, dedicando toda a sua vida ao serviço público jamais teve qualquer outro apontamento criminal.
+Com tais argumentos, requer o conhecimento e provimento do Recurso Especial, a fim de que seja declarada a nulidade dos decretos condenatórios, retornando a instrução em primeiro grau. Alternativamente, pleiteia sua absolvição e subsidiariamente, caso mantida sua condenação, a diminuição de sua pena, alteração de regime de cumprimento de pena e manutenção no cargo público.
+Do agravo não conheceu a Presidência desta Corte.
+Nas razões deste agravo regimental, o agravante defende que não incide ao caso o óbice previsto na Súmula n. 182/STJ porquanto atacados todos os fundamentos utilizados para o não conhecimento do agravo.
+Ao final, requer a reconsideração da decisão agravada ou, caso contrário, o provimento do recurso pelo colegiado.
+É o relatório.
+No presente recurso, repisa a parte embargante a alegação de cerceamento de defesa pela juntada de provas emprestadas sem disponibilização para manifestação prévia ao julgamento (e-STJ fl. 1.685), bem como inadequação do regime inicial fixado (e-STJ fl. 1.700).
+Requer o acolhimento dos embargos para ser anulado o acórdão de apelação em razão do alegado cerceamento de defesa (e-STJ fl. 1.703).
+É o relatório.
+Decido.
+Os embargos de declaração, nos termos do art. 619 do Código de Processo Penal, supõem defeitos na mensagem do julgado, em termos de ambiguidade, omissão, contradição ou obscuridade, isolada ou cumulativamente.
+Essa é a vocação legal do recurso, sempre enfatizada nos precedentes desta Corte, como se depreende do aresto a seguir:
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO.  ..  ART. 619 DO CPP. AMBIGUIDADE, OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. AUSÊNCIA.
+1. Os embargos de declaração são cabíveis nas hipóteses de haver ambigüidade, obscuridade, contradição e/ou omissão no acórdão prolatado (artigo 619 do Código de Processo Penal).
+2. No caso, percebe-se claramente a oposição do recurso tão somente para rediscutir o mérito do que fora decidido. Sob o pretexto da alegação de omissão ou inexatidão, pretende o embargante apenas renovar a discussão com os mesmos argumentos com os quais a Corte Especial do Superior Tribunal de Justiça não concordou.
+ ..
+7. Embargos de declaração rejeitados. (EDcl na APn n. 613/SP, relator Ministro OG FERNANDES, CORTE ESPECIAL, DJe 3/2/2016.)
+No caso em tela, não se faz presente nenhum dos citados defeitos; é que, afirmado peremptoriamente pela Corte de origem que " a  defesa do embargante  também ora embargante  teve acesso aos referidos elementos de prova documentados no inquérito policial e exerceu o direito de defesa" (e-STJ fl. 1.674), não haveria como este Tribunal desfazer tal conclusão sem extenso revolvimento fático-probatório, dando, portanto, manifestação definitiva e unívoca acerca da tese esgrimida, afastada qualquer omissão ou contradição.
+Apenas por amor ao debate, é de se consignar que os documentos juntados ao presente feito o foram apenas na segunda instância, quando já condenado o agente, situação que foi inclusive alterada para melhor pela Corte de origem em razão da diminuição da pena.
+Ora, ainda que se admitisse superar o óbice da Súmula n. 7/STJ, as circunstâncias acima descritas demonstram que não sobreveio nenhum prejuízo para a defesa, porquanto já havia substrato probatório suficiente para atestar a autoria delitiva, tanto que já condenado em 1ª Instância, situação apenas mantida em 2º Grau.
+Logo, o regramento legal sobre situações como a presente é claro, qual seja, o previsto no CPP, art. 566, que dispõe " n ão será declarada a nulidade de ato processual que não houver influído na apuração da verdade substancial ou na decisão da causa", corolário da busca da verdade substancial.
+Portanto, inviável o ac olhimento da alegação de nulidade.
+Da mesma forma, foram devidamente enfrentadas as alegações de álibi e de inadequação do dimensionamento da pena, demonstrando o claro interesse da parte em rediscutir o mérito da decisão, inviável na via eleita.
+Ante o exposto, rejeito os embargos declaratórios.
+Publique-se. Intimem-se.
