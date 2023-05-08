@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/05/2023 a 08/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Humberto Martins.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto contra monocrática que decidiu recurso especial interposto por Irmãos Muffato Cia Ltda. e Filiais, com fundamento no art. 105, III, a e c, da CF/1988.
+O recurso especial visa reformar acórdão do Tribunal Regional Federal da 4ª Região, nos termos da seguinte ementa:
+MANDADO DE SEGURANÇA. PRESCRIÇÃO. INTERRUPÇÃO. INOCORRÊNCIA. CONTRIBUIÇÃO PREVIDENCIÁRIA PATRONAL. ADICIONAIS DE ALÍQUOTA DESTINADOS AO SAT/RAT E TERCEIROS. SALÁRIO-MATERNIDADE.
+Na origem, trata-se de mandado de segurança impetrado por Irmãos Muffato Cia. Ltda. e suas filiais contra Delegado da Receita Federal do Brasil em Cascavel/PR, objetivando excluir da base de cálculo da contribuição previdenciária as contribuições ao SAT/RAT e as destinadas a terceiros, salário-maternidade.
+Na sentença, denegou-se a segurança. No Tribunal a quo, a sentença foi reformada para reconhecer a prescrição das parcelas pagas antes de 24/3/2016 e afastar a incidência da contribuição previdenciária sobre o salário-maternidade, permitindo a compensação. Esta Corte não conheceu do recurso especial.
+No recurso especial, Irmãos Muffato Cia Ltda. e Filiais alegam dissídio jurisprudencial e apontam ofensa aos arts. 165, 168, 170, todos do CTN.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ não conheço do recurso especial."
+Interposto agravo interno, a parte agravante traz argumentos contrários aos fundamentos da decisão, resumidos nestes termos:
+.. a análise que a Recorrente pede que seja feita pela via do recurso especial não implica em violação à Súmula 7, ao contrário, pretende-se apenas que o Superior Tribunal de Justiça aprecie as questões postas no acórdão recorrido com outros olhos e, assim, recolha a violação aos dispositivos de lei citados no apelo especial.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. SAT/RAT. CONTRIBUÇÃO PATRONAL. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. APLICAÇÃO DA SÚMULA N. 7 DO STJ.
+I - Na origem, trata-se de mandado de segurança impetrado por Irmãos Muffato Cia. Ltda. e suas filiais, contra Delegado da Receita Federal do Brasil em Cascavel/PR, objetivando excluir da base de cálculo da contribuição previdenciária as contribuições ao SAT/RAT e as destinadas a terceiros, salário-maternidade.
+II - Na sentença, denegou-se a segurança. No Tribunal a quo, a sentença foi reformada para reconhecer a prescrição das parcelas pagas antes de 24/3/2016 e afastar a incidência da contribuição previdenciária sobre o salário-maternidade, permitindo a compensação. Esta Corte não conheceu do recurso especial.
+III - A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que, se a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+IV - O Tribunal de origem, ao apreciar o conteúdo fático e probatório dos autos, consignou expressamente que "ocorre que, in casu, além de não constar do presente feito documentos relativos ao mandado de segurança n. 0010228-63.2014.4.01.3400, que tramitou perante a 6ª Vara Federal do Distrito Federal".
+V - Dessa forma, para rever tal posição, relativa à necessidade de documentos que demonstrem o direito alegado no mandamus, e interpretar o dispositivo legal indicado como violado, seria necessário o reexame dos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ. Assim, a jurisprudência: (AgInt nos EDcl no AREsp n. 1.288.853/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 4/10/2021, DJe de 19/10/2021 e AgInt no AREsp n. 1.855.755/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 30/8/2021, DJe de 13/10/2021.)
+VI - E em relação à interposição do recurso com fundamento na divergência jurisprudencial, nos termos da jurisprudência do Superior Tribunal de Justiça, o óbice imposto à admissão do recurso pela alínea a do permissivo constitucional impede a análise recursal pela alínea c. (AgInt no AREsp 1.474.339/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 3/10/2019, DJe 7/10/2019, REsp 1.780.760/RN, relator Ministro Herman Benjamin, Segunda Turma, julgado em 3/10/2019, DJe 11/10/2019.)
+VII - Agravo interno improvido.
+VOTO
+O recurso não merece provimento.
+A decisão deve ser mantida pelos seus próprios fundamentos, pois aplicou a jurisprudência do Superior Tribunal de Justiça firme no sentido de que, se a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+O Tribunal de origem, ao apreciar o conteúdo fático-probatório dos autos, consignou expressamente que "ocorre que, in casu, além de não constar do presente feito documentos relativos ao mandado de segurança n. 0010228-63.2014.4.01.3400, que tramitou perante a 6ª Vara Federal do Distrito Federal".
+Dessa forma, para rever tal posição, relativa à necessidade de documentos que demonstrem o direito alegado no mandamus, e interpretar o dispositivo legal indicado como violado, seria necessário o reexame dos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+Assim, a jurisprudência:
+PROCESSUAL CIVIL E TRIBUTÁRIO. ICMS. CREDITAMENTO INDEVIDO. SÚMULA 436 DO STJ. INAPLICABILIDADE. DECADÊNCIA. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. PROCESSO ADMINISTRATIVO. NULIDADE. FUNDAMENTAÇÃO. DEFICIÊNCIA. LEI LOCAL CONTESTADA EM FACE DE LEI FEDERAL. EXAME. INVIABILIDADE.
+1. Inaplicável o enunciado da Súmula 436 do STJ para fixação do termo inicial do prazo prescricional, pois o crédito tributário, cuja exigibilidade se questiona, não decorre de imposto oferecido à tributação por meio de declaração de débito do contribuinte e não pago, mas de imposto indevidamente compensado mediante creditamento escritural.
+(..)
+3. Hipótese em que a instância ordinária consigna que os documentos apresentados pela impetrante, ora agravante, não bastariam para demonstrar, em sede de mandado de segurança, o recolhimento de ICMS no período e, para se alcançar conclusão diversa, seria necessário o revolvimento dos fatos e das provas nos autos, medida vedada nesta instância especial, nos termos da Súmula 7 do STJ.
+(..)
+6. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 1.288.853/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 4/10/2021, DJe de 19/10/2021.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. INCLUSÃO EM PROGRAMA DE INCENTIVO FISCAL. NÃO IMPUGNAÇÃO ESPECÍFICA DOS ARGUMENTOS DA DECISÃO DENEGATÓRIA DO TRIBUNAL DE ORIGEM. SÚMULA 182 DO STJ. ANÁLISE DE LEGISLAÇÃO LOCAL. DECRETO MUNICIPAL N. 54.760/14 E LEI MUNICIPAL 15.931/13. SÚMULA 280 DO STF. ESCOAMENTO DE PRAZO E NÃO ENTREGA DE DOCUMENTAÇÃO NO ÂMBITO ADMINISTRATIVO. ANÁLISE DE FATOS. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Cuida-se, na origem, de Mandado de Segurança no qual a impetrante afirma que a sua excluso do programa de incentivo fiscal foi ilegal, uma vez que não havia escoado o prazo para apresentação dos documentos necessários.
+(..)
+5. O Tribunal de origem assim decidiu a controvérsia (fls. 989, e-STJ): "Compulsando os autos, verifica-se que o particular foi excluído de programa de incentivo fiscal por supostamente não ter entregue os documentos requeridos dentro do prazo. Em que pese a discussão acerca da ilegalidade do ato, visto que a exclusão se deu por ausência da apresentação da documentação, o fato é que não há nada nos autos que demonstre que esse foi o motivo da exclusão".
+6. Como se vê, a instância de origem decidiu a controvérsia com fundamento no suporte fático-probatório dos autos. Desse modo, a análise do pedido do recorrente demanda reexame do contexto fático-probatório, o que é inviável no Superior Tribunal de Justiça, ante o óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+7. Agravo Interno não provido.
+(AgInt no AREsp n. 1.855.755/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 30/8/2021, DJe de 13/10/2021.)
+E em relação à interposição do recurso com fundamento na divergência jurisprudencial, nos termos da jurisprudência do Superior Tribunal de Justiça, o óbice imposto à admissão do recurso pela alínea a do permissivo constitucional impede a análise recursal pela alínea c. (AgInt no AREsp 1.474.339/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 3/10/2019, DJe 7/10/2019, REsp 1.780.760/RN, relator Ministro Herman Benjamin, Segunda Turma, julgado em 3/10/2019, DJe 11/10/2019.)
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
