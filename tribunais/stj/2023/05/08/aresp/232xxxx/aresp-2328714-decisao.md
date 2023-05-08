@@ -1,0 +1,62 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BANCO RABOBANK INTERNATIONAL BRASIL S. A. (BANCO) contra decisão que negou seguimento ao seu apelo nobre anteriormente manejado.
+Foi apresentada contraminuta (e-STJ, fls. 398/425).
+É o relatório.
+DECIDO.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial.
+O inconformismo, no entanto, não merece prosperar.
+Em seu recurso especial, amparado no art. 105, III, a, da CF, o BANCO alegou ofensa aos arts. 489, § 1º, IV e 1.022 II, do NCPC e 50, § 1º, da Lei nº 11.101/2005. Sustentou que (1) o aresto recorrido foi omisso, porque não existem provas acerca da essencialidade do imóvel; e, (2) o imóvel, considerado essencial para as atividades empresariais, foi dado em garantia real pelos próprios recuperandos; e, (3) não ficou demonstrada a essencialidade do imóvel.
+Da eventual assertiva de omissão do aresto recorrido
+Inicialmente, o BANCO alegou ofensa aos arts. 489, § 1º, IV e 1.022, II, do NCPC. Sustentou que o aresto recorrido foi omisso, porque não existem provas acerca da essencialidade do imóvel.
+Sobre o tema, a Corte local assim se manifestou:
+Trata-se de Recuperação Judicial na qual o Juízo, após manifestação do administrador judicial, reconheceu a essencialidade do imóvel objeto de garantia hipotecária, como consignado:
+O pedido formulado comporta acolhimento, isso porque, como se infere dos autos, em especial da diligente manifestação do Administrador Judicial, os bens em voga tratam-se de imóveis de propriedade do recuperando e que se destinam ao desenvolvimento de suas atividades empresarias, sendo notoriamente essenciais, dada a produtividade desenvolvida nas áreas.
+Em que pese os argumentos do recorrente, neste juízo de cognição sumária, não se visualizam elementos a alterar a decisão agravada. A princípio, o bem objeto de garantia hipotecária se trata de imóvel rural, no qual os recuperandos exercem a atividade empresarial, com o cultivo de agricultura e pecuária e compõe a Fazenda Santa Lucia. Não fosse isso, a matéria em debate não revela perigo de dano irreparável ou de incerta reparação, com o pronunciamento definitivo pela c. Câmara (e-STJ, fl. 234).
+Confira-se, ainda, o seguinte trecho proferido no julgamento dos embargos de declaração:
+Com efeito, acerca do crédito decorrente de contratos garantidos por alienação fiduciária, o v. acórdão não olvidou de que, em regra, não se submetem aos efeitos da recuperação judicial, nos termos do art. 49, § 3º, da Lei n. 11.101/2005. De outra via, consignou que em referido dispositivo, bem assim no § 4º, do art. 6º, da referida Lei, há disposição em benefício da recuperanda, no sentido de suspender as ações e execuções movidas pelo prazo de 180 dias, com a proibição de venda forçada ou retirada do estabelecimento, dos bens de capital essenciais a sua atividade empresarial.
+Na hipótese, ao que se noticiou, tal prazo se encontra em curso, bem como, restou demonstrado se tratar de bem essencial, por se tratar de imóvel utilizado pelos recuperandos para o exercício de sua atividade agrícola, como anotado pelo administrador judicial.
+Sob tal vertente, a decisão agravada, assim como o v. acórdão estão em consonância com os dispositivos da Lei de regência.
+De notar-se, assim, que o v. acórdão examinou a matéria nos seus exatos contornos de modo que, o que se evidencia, é que o embargante utiliza a via para veicular seu inconformismo com o resultado do recurso que não lhe foi favorável (e-STJ, fl. 189).
+Dessa forma, não ficou evidenciada a negativa de prestação jurisdicional, pois o TJMT emitiu pronunciamento, de forma fundamentada, de toda a controvérsia posta em debate, ainda que de forma contrária ao pretendido pela parte.
+Com efeito, ficou esclarecido que o administrador judicial formulou pedido para que o bem fosse considerado essencial, tendo o juízo a quo reconhecido sua essencialidade, tendo em vista a produtividade desenvolvida na área.
+O que se vê, na verdade, é a irresignação do BANCO com o resultado que lhe foi desfavorável, pretendendo, por meio da tese de violação do disposto nos arts. 489 e 1.022 do NCPC, obter novo julgamento da matéria, com notório intuito infringente, o que se mostra inviável, já que inexistentes os requisitos elencados nos mencionados artigos.
+Sobre o tema, confira-se o seguinte julgado:
+AGRAVO INTERNO NO RECURSO ESPECIAL. ARTS. 489 E 1022 DO CPC/2015. AUSÊNCIA DE VIOLAÇÃO. SUFICIÊNCIA NA FUNDAMENTAÇÃO. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO CONTRATUAL CUMULADA COM PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS. AUSÊNCIA DE COMPROVAÇÃO DOS FATOS CONSTITUTIVOS DO DIREITO DO AUTOR. REVISÃO DO JULGADO. IMPOSSIBILIDADE. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. Não ficou configurada a violação ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia.
+O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. A revisão da conclusão alcançada pelo colegiado estadual (quanto à regularidade da cobrança realizada pelo banco recorrido, em virtude da existência do débito oriundo de dois distintos contratos de financiamentos) demandaria o revolvimento do acervo fático-probatório dos autos, o que é defeso dada a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+3. No que diz respeito à divergência jurisprudencial, o Superior Tribunal de Justiça firmou entendimento de que a incidência da Súmula n. 7/STJ impede o exame do recurso no que tange à alínea c do inciso III do art. 105 da Constituição Federal, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+4. Agravo interno improvido.
+(AgInt no REsp n. 2.022.899/MA, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 28/11/2022, DJe de 30/11/2022)
+Quanto à essencialidade do bem
+O BANCO aduziu, ainda, afronta ao art. 50, § 1º, da Lei nº 11.101/2005. Sustentou que não ficou demonstrada a essencialidade do produto.
+Quanto ao ponto, o Tribunal estadual, soberano na análise do contexto fático-probatório, concluiu pela essencialidade do bem, tendo em vista a produtividade desenvolvida na área, conforme acima destacado (e-STJ, fls. 189 e 234).
+Por isso, conforme se nota, o TJMT assim decidiu com amparo no contexto fático-probatório da causa, de modo que a revisão do julgado, com o consequente acolhimento da pretensão recursal, demandaria, necessariamente, o reexame das provas, o que não se admite no âmbito do recurso especial, ante o óbice da Súmula n.º 7 do STJ.
+A propósito, confiram-se os precedentes:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. ALIENAÇÃO FIDUCÁRIA. OMISSÃO. AUSÊNCIA. ESSENCIALIDADE DO BEM. CONJUNTO FÁTICO-PROBATÓRIO. REEXAME. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. FUNDAMENTO RECURSAL. DEFICIÊNCIA. SÚMULA N. 284 DO STF. FUNDAMENTAÇÃO INSUFICIENTE. SÚMULA N. 283 DO STF. ESSENCIALIDADE. AUSÊNCIA. SÚMULA N. 83 DO STJ. DISSÍDIO JURISPRUDENCIAL. ART. 105, III, "A" E "C", DA CF. FALTA DE COMPROVAÇÃO. DECISÃO MANTIDA.
+1. Inexiste afronta aos arts. 489 e 1.022 do CPC/2015 quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+3. No caso, a Corte de origem assentou que, decorrido período superior a dez anos, não pode a parte alegar a essencialidade do bem visando impedir a consolidação da propriedade fiduciária, prevalecendo, na hipótese, as normas que regulamentam essa modalidade contratual em detrimento da tese de que os bens seriam indispensáveis ao desenvolvimento da atividade empresarial. Para rever tal entendimento, acolhendo a pretensão de reconhecer a essencialidade dos bens e impedir a consolidação da propriedade fiduciária, seria imprescindível nova análise da matéria fática, inviável em recurso especial.
+4. É deficiente a fundamentação empregada no recurso que não permite a exata compreensão da matéria.
+5. De acordo com a jurisprudência da Segunda Seção do STJ, "ao juízo universal compete a análise do caráter extraconcursal das dívidas da empresa em recuperação, alegadamente garantidas por alienação fiduciária, bem como o exame da essencialidade, para as atividades da sociedade recuperanda, dos bens pretendidos pelo credor" (AgInt no CC 143.203/GO, de minha relatoria, Segunda Seção, julgado em 23/05/2018, DJe 30/05/2018). Incidência da Súmula n. 83 do STJ.
+6. Aplica-se a Súmula n. 283 do STF quando o acordão recorrido assenta em mais de um fundamento e o recurso não abrange todos.
+7. Divergência jurisprudencial não comprovada.
+8. O reexame do conjunto fático-probatório impede que o recurso especial seja admitido tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+9. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.031.236/PR, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 15/8/2022, DJe de 18/8/2022)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE BUSCA E APREENSÃO. AGRAVO DE INSTRUMENTO. DECISÃO DE NATUREZA PRECÁRIA. RECURSO ESPECIAL INCABÍVEL. SÚMULA Nº 735 DO STF. ESSENCIALIDADE DOS BENS. REEXAME DE FATOS E PROVAS. INVIABILIDADE. SÚMULA Nº 7 DO STJ. SENTENÇA DE MÉRITO. REFORMA NO BOJO DO AGRAVO DE INSTRUMENTO. IMPOSSIBILIDADE. PERDA DO OBJETO. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Não se conhece do apelo nobre quando o fundamento central está calcado em decisão de natureza precária, sem caráter definitivo, aplicando, por analogia, a ratio decidendi dos precedentes que deram origem à Súmula nº 735 do STF.
+3. O acórdão vergastado assentou que os bens foram considerados essenciais à atividade da empresa devedora pelo juízo universal ao deferir o processamento da recuperação judicial. Alterar as conclusões do acórdão impugnado exigiria incursão fático-probatória, em afronta à Súmula nº 7 do STJ.
+4. A insurgência da parte acerca da suposta limitação dos efeitos da sentença deveria ser objeto de recurso no processo principal, não sendo possível decidir no bojo de agravo de instrumento a sorte do mérito da ação de busca e apreensão.
+5. A superveniência da sentença de mérito enseja a perda de objeto do recurso interposto contra o acórdão que julgou agravo de instrumento tirado de decisão interlocutória que deferiu ou indeferiu medida liminar.
+6. Agravo interno não provido.
+(AgInt no AgInt no AREsp n. 1.598.301/SP, de minha relatoria, Terceira Turma, julgado em 10/8/2020, DJe de 14/8/2020 )
+Nessas condições, CONHEÇO do agravo para CONHECER EM PARTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Não obstante a aplicabilidade do NCPC, deixo de majorar o valor dos honorários advocatícios, porque não fixados nas instâncias ordinárias.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretará condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. DIREITO EMPRESARIAL. AGRAVO EM RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. AGRAVO DE INSTRUMENTO. ARTS. 489 E 1.022 DO NCPC. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. PRETENSÃO DE NOVO JULGAMENTO DA CAUSA. INVIABILIDADE. ESSENCIALIDADE DO BEM. RECONHECIMENTO. REFORMA DO JULGADO. ANÁLISE DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO, EM PARTE, E, NESSA EXTENSÃO, NÃO PROVIDO.
