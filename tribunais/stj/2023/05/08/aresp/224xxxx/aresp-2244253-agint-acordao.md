@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/05/2023 a 08/05/2023, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Humberto Martins.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão da Presidência desta Corte que não conheceu do recurso especial diante da incidência de óbices ao seu conhecimento.
+O recurso especial foi interposto contra acórdão proferido pelo Tribunal Regional Federal da Segunda Região, assim ementado:
+REMESSA NECESSÁRIA. APELAÇÃO CÍVEL. CONCURSO. POLICIAL RODOVIÁRIO FEDERAL. CANDIDATO COM DEFICIÊNCIA. CONDIÇÃO INCAPACITANTE PREVISTA NO EDITAL COMO CAUSA DE INAPTIDÃO. NECESSÁRIA OBSERVÂNCIA DOS CRITÉRIOS EDITALÍCIOS.
+Nesta Corte, em decisão da Presidência, o agravo foi conhecido para não conhecer do recurso especial, pelos seguintes fundamentos:
+Quanto às controvérsias, na espécie, não houve o prequestionamento das teses recursais, uma vez que as questões postuladas não foram examinadas pela Corte de origem sob o viés pretendido pela parte recorrente.
+ ..
+Além disso, o acórdão recorrido assim decidiu:
+ ..
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+ ..
+Por fim, não é cabível o recurso especial porque interposto contra acórdão com fundamento em norma infralegal, ainda que se alegue violação ou interpretação divergente de dispositivos de lei federal.
+Na petição de agravo interno, a parte agravante traz, resumidamente, os seguintes argumentos:
+II - DA NÃO INCIDÊNCIA DA SÚMULA 284
+Durante toda a tramitação da ação a discussão é acerca da compatibilidade da deficiência do agravante com as funções do cargo, bem como da ilegalidade do item 2.2 do Anexo IV que trouxe as situações incapacitantes ao cargo, aplicando-as sem diferenciação aos candidatos que concorriam na lista afirmativa reservada às pessoas com deficiência.
+Desse modo, apesar de o item 5.4.1 permitir a participação do deficiente físico no concurso, estava ele fadado ao insucesso, visto que seria submetido, sem qualquer diferenciação, ao item 2.2 que listava as situações incapacitantes.
+O edital equiparava às pessoas com deficiência àquelas sem qualquer tipo de deficiência na avaliação de saúde, submetendo os candidatos aos mesmos critérios de avaliação, violando assim o art. 44 do Decreto n. 3.298/99, que determina que a análise dos aspectos relativos ao potencial de trabalho do candidato portador de deficiência deve obedecer ao disposto no art. 20 da Lei n. 8.112/90, ou seja, mediante o devido acompanhamento do servidor durante o período pertinente ao estágio probatório.
+A discussão é exatamente acerca da igualdade em seu sentido material. Não há que se falar em quebra de isonomia ou do princípio da vinculação ao edital, conforme citado no acórdão do Tribunal Regional Federal da 2ª Região, visto que o edital não pode equiparar a situação de candidatos deficientes a de não deficientes, sob pena de lhes imprimir uma barreira instransponível.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. CONCURSO PÚBLICO. POLICIAL RODOVIÁRIO FEDERAL. CANDIDATO COM DEFICIÊNCIA. CONDIÇÃO INCAPACITANTE PREVISTA NO EDITAL COMO CAUSA DE INAPTIDÃO. RECURSO ESPECIAL NÃO CONHECIDO. ÓBICES. AGRAVO INTERNO. AUSÊNCIA DE IMPUGNAÇÃO. INOBERVÂNCIA DO ART. 1.021, § 1º, DO CPC/2015. APLICAÇÃO DO ART. 932, III, DO CPC/2015. NÃO CONHECIMENTO DO RECURSO.
+I - Trata-se de agravo interno interposto contra decisão da Presidência desta Corte que não conheceu do recurso especial diante da incidência de óbices ao seu conhecimento.
+II - Mediante análise dos autos, verifica-se que a decisão recorrida não conheceu do recurso especial pelos seguintes fundamentos: ausência de prequestionamento das teses recursais, incidência do óbice da Súmula n. 284/STF e não cabimento de recurso especial contra acórdão com fundamento em norma infralegal. Entretanto, na petição do agravo interno, a parte agravante apenas impugnou o óbice referente ao óbice da Súmula n. 284/STF, deixando de impugnar especificamente os demais óbices.
+III - Para que seja possível a impugnação parcial do conteúdo decisório, mostra-se indispensável a verificação da autonomia entre os capítulos da decisão judicial, podendo o recorrente a partir de tal análise optar por impugnar apenas aqueles que discorda ou, caso constatada relação entre os tópicos da decisão, tenha a parte do dever de impugnação total de todos os tópicos de decisão.
+IV - Na hipótese dos autos, a decisão monocrática que não conheceu do recurso especial apresentou o seguinte fundamento: "Quanto às controvérsias, na espécie, não houve o prequestionamento das teses recursais, uma vez que as questões postuladas não foram examinadas pela Corte de origem sob o viés pretendido pela parte recorrente."
+V - A jurisprudência do STJ aplica sua Súmula n. 182 ao Agravo em Recurso Especial que não refuta, de maneira específica, os fundamentos da decisão de admissibilidade proferida pelo Tribunal a quo, e ao Agravo Interno que combate de maneira deficiente a decisão monocrática proferida com base no art. 932, III, do CPC. Inobservância do art. 1.021, § 1º, do CPC/2015. Nesse sentido: AgInt no REsp n. 2.023.411/CE, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.
+VI - Desse modo, a ausência de impugnação aos óbices de conhecimento do recurso especial impõe o não conhecimento do recurso ora interposto, uma vez que desatendido o que preceitua o art. 1.021, § 1º, do CPC/2015.
+VII - Agravo interno não conhecido.
+VOTO
+Mediante análise dos autos, verifica-se que a decisão recorrida não conheceu do recurso especial pelos seguintes fundamentos: ausência de prequestionamento das teses recursais, incidência do óbice da Súmula n. 284/STF e não cabimento de recurso especial contra acórdão com fundamento em norma infralegal. Entretanto, na petição do agravo interno, a parte agravante apenas impugnou o óbice referente ao óbice da Súmula n. 284/STF, deixando de impugnar especificamente os demais óbices.
+Para que seja possível a impugnação parcial do conteúdo decisório, mostra-se indispensável a verificação da autonomia entre os capítulos da decisão judicial, podendo o recorrente a partir de tal análise optar por impugnar apenas aqueles que discorda ou, caso constatada relação entre os tópicos da decisão, tenha a parte do dever de impugnação total de todos os tópicos de decisão.
+Na hipótese dos autos, a decisão monocrática que não conheceu do recurso especial apresentou o seguinte fundamento: "Quanto às controvérsias, na espécie, não houve o prequestionamento das teses recursais, uma vez que as questões postuladas não foram examinadas pela Corte de origem sob o viés pretendido pela parte recorrente."
+A jurisprudência do STJ aplica sua Súmula n. 182 ao Agravo em Recurso Especial que não refuta, de maneira específica, os fundamentos da decisão de admissibilidade proferida pelo Tribunal a quo, e ao Agravo Interno que combate de maneira deficiente a decisão monocrática proferida com base no art. 932, III, do CPC.
+Confira-se:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO. IMPUGNAÇÃO DEFICIENTE DA SÚMULA 83/STJ. AUSÊNCIA DE PRECEDENTES DO STJ. APLICAÇÃO DA SÚMULA 182/STJ.
+1. Os fundamentos da decisão recorrida exercida por este Relator, que não conheceu o Recurso Especial, não foram enfrentados adequadamente pelo Agravo interposto, permanecendo incólumes em face da impugnação apresentada.
+2. Em primeiro lugar, a agravante não impugnou o enunciado da Súmula 282 do STF, utilizado como fundamento da decisão recorrida para não conhecer da insurgência contra a ofensa aos arts. 337, § 4º, 485, V, e 502 do CPC e ao art. 57 da Lei 8.443/1992. Portanto, esse capítulo do decisum precluiu.
+3. Por outro lado, o Tribunal Regional interpretou corretamente o art. 935 do CC e o art. 126 da Lei 8.112/1990, no sentido de que as esferas judiciais e administrativas são independentes entre si. A exegese dos dispositivos não é difícil, bastando ao interprete se utilizar da interpretação gramatical.
+4. O acórdão do Tribunal Regional Federal está em conformidade com julgados deste egrégio Superior Tribunal de Justiça no sentido de que a absolvição criminal só afasta a responsabilidade administrativa se negar a existência do fato ou da autoria. O art. 935 é enfático em aludir que as questões resolvidas no juízo criminal e no cível são independentes.
+5. De fato, as razões do recurso devem exprimir, com transparência e objetividade, os motivos pelos quais a parte recorrente visa reformar o decisum, o que não foi feito na peça recursal, visto que não apresentou impugnação adequada à incidência da Súmula 83/STJ. Assim sendo, quanto ao ponto, não se pode conhecer do recurso, nos termos do art. 1.021, § 1º, do CPC/2015.
+6. O entendimento do Superior Tribunal de Justiça é de que não basta, para afastar o óbice da Súmula 83 do STJ, a alegação genérica de que o acórdão recorrido não está em consonância com a jurisprudência deste Tribunal, devendo a parte recorrente demonstrar que outra é a positivação do direito na jurisprudência do STJ, com a indicação clara de precedentes contemporâneos ou supervenientes aos referidos na decisão agravada, o que não foi realizado pela parte agravante, a ensejar o não conhecimento do Agravo.
+7. A jurisprudência do STJ aplica sua Súmula 182 ao Agravo em Recurso Especial que não refuta, de maneira específica, os fundamentos da decisão de admissibilidade proferida pelo Tribunal a quo, e ao Agravo Interno que combate de maneira deficiente a decisão monocrática proferida com base no art. 932 do CPC.
+8. Agravo Interno não conhecido.
+(AgInt no REsp n. 2.023.411/CE, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+Na espécie, desatendido o que preceitua o art. 1.021, § 1º, do CPC/2015.
+Desse modo, a ausência de impugnação aos óbices de conhecimento do recurso especial impõe o não conhecimento do recurso ora interposto.
+Ante o exposto, não conheço do agravo interno.
+É o voto.
