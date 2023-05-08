@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por NAUPLIA MILITAO SABINO contra decisão que inadmitiu o recurso especial ante a ausência de demonstração de violação dos dispositivos infraconstitucionais arrolados.
+Nas razões do agravo, a parte sustenta violação do art. 7º, 186, § 3º, 320 e 485, IV, do CPC, na medida em que não lhe fora assegurado o prazo em dobro para recorrer, caracterizando tratamento desigual do defensor dativo quando comparado à defensoria pública.
+O recurso especial foi interposto com fundamento na alínea a do permissivo constitucional contra acórdão assim ementado (fl. 194):
+Apelação Cível. Extinção de Condomínio. Gratuidade judiciária concedida à apelante. Intempestividade da contestação. Inocorrência de inépcia da inicial. Partilha do imóvel já ocorrida. Ausência de prejuízo ao direito de defesa. Extinção do condomínio que é direito potestativo do condômino e pode ser exercido a qualquer tempo (arts. 1.320 e 1.322 do CC). Sentença mantida. Recurso desprovido.
+A recorrente alega que houve cerceamento de defesa na origem ao não ser deferido ao patrono, advogado dativo nomeado por convênio existente entre a OAB e a Defensoria Pública do Estado de São Paulo, o prazo em dobro para se manifestar nos autos.
+O desrespeito à contagem em dobro dos prazos processuais resultou na deficiência da instrução do processo na origem, afastando-se a oportunidade de apresentar documento essencial para a comprovação de seu direito - prova de que a partilha do bem foi atingida pelo fenômeno da coisa julgada.
+Requer, portanto, seja conhecido o agravo em recurso especial e dado provimento ao especial para, anulando o acórdão proferido na origem, seja oportunizado à recorrente a apresentação da documentação necessária ao deslinde da controvérsia.
+É o relatório. Decido.
+O recurso não reúne condições de prosperar.
+Isso porque, conforme decidido pelo Tribunal de origem, o defensor dativo não integra o quadro de servidores da assistência judiciária estatal, motivo pelo qual usufrui apenas da intimação pessoal, mas não da prerrogativa de contagem do prazo em dobro.
+Essa orientação está em consonância com a jurisprudência firmada pela Corte Especial deste STJ, segundo a qual "o benefício do prazo em dobro para recorrer, previsto no art. 5º, § 5º, da Lei nº 1.060/1950, é deferido aos defensores públicos ou integrantes do serviço estatal de assistência judiciária, não se estendendo aos defensores dativos, ainda que credenciados pelas Procuradorias-Gerais dos Estados via convênio com as Seccionais da Ordem dos Advogados do Brasil" (AgInt no AREsp n. 1.739.790/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 22/6/2021, DJe de 30/6/2021.)
+Caso, pois, de aplicação da Súmula n. 83 do STJ neste ponto.
+Ademais, verifico que a questão infraconstitucional relativa à violação dos arts. 320 e 485, IV, do CPC não foi objeto de debate no acórdão recorrido; nem mesmo foram opostos embargos de declaração para provocar o colegiado a manifestar-se a respeito do tema. Caso, pois, de aplicação da Súmula n. 282 do STF.
+Ainda que assim não o fosse, vale destacar que o Tribunal de origem esclareceu que não houve qualquer questionamento da recorrente no processo originário, muito menos em relação à existência de prova essencial ao deslinde da questão, motivo pelo qual manteve a sentença em sua integralidade. Veja-se o trecho do acórdão sobre o tema (fls. 197-198):
+Com efeito, nos autos do Proc.1015718-09.2013.8.26.0020, não houve recurso versando sobre a partilha do bem discutido na presente ação.
+E nada impedia que o advogado da ora apelante entrasse em contato direto com a parte para lograr obter acesso àqueles autos, sendo que tampouco indicou prejuízo concreto que tenha prejudicado a defesa nesta demanda, observando-se que não era inverídica a correta alegação da parte apelada de que o bem já havia sido partilhado.
+E mais: a separação do casal já havia posto fim à comunhão, iniciando-se o regime do condomínio comum entre as partes, ao qual pretende o apelado pôr fim com o ajuizamento desta ação.
+De mais a mais, vale lembrar que a extinção do condomínio é direito potestativo do condômino e pode ser exercido a qualquer tempo (arts. 1.320 e 1.322 do CC).
+Nesse sentido, o autor pode perfeitamente requerer a alienação judicial do bem se não for possível o uso e gozo em conjunto do imóvel indivisível.
+De rigor, pois, a manutenção da sentença por seus próprios e mais estes fundamentos.
+Observa-se que as conclusões acima alcançadas foram lastreadas no conjunto fático-probatório dos autos, o que impede sua revisão pela via do recurso especial ante o óbice da Súmula n. 7 do STJ.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
