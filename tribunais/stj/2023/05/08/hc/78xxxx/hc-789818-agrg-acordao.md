@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/05/2023 a 08/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Messod Azulay Neto e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Joel Ilan Paciornik.
+RELATÓRIO
+Trata-se de agravo regimental interposto por JOSE CARLOS SARMENTO DA SILVA, contra decisão singular que não conheceu do habeas corpus.
+O agravante, em síntese, reitera que faz jus à aplicação da minorante da participação de menor importância.
+Diante disso, busca a reconsideração do decisum ou o julgamento do recurso pelo órgão colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. LATROCÍNIO. DOSIMETRIA. APLICAÇÃO DA REDUTORA DA PARTICIPAÇÃO DE MENOR IMPORTÂNCIA. IMPOSSIBILIDADE. EFETIVA ATUAÇÃO NO CRIME. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE NA VIA ESTREITA DO HABEAS CORPUS. AGRAVO REGIMENTAL DESPROVIDO.
+1. As instâncias ordinárias destacaram a efetiva atuação do recorrente no crime de latrocínio. Assim, para afastar o entendimento da origem e aplicar a minorante da participação de menor importância, é necessário o revolvimento da matéria fático-probatória, providência incabível na via eleita.
+2. Agravo regimental desprovido.
+VOTO
+O presente agravo regimental não merece provimento, em que pesem os argumentos apresentados pelo agravante, devendo a decisão ser mantida por seus próprios fundamentos.
+Conforme relatado, a controvérsia refere-se à minorante prevista no art. 29, § 1º, do Código Penal. Nesse ponto, asseverou o Tribunal a quo:
+" ..
+Por sua vez, o v. acórdão ressaltou que "(..) as transcrições das interceptações telefônicas, devidamente autorizadas, respaldadas pelo relatório nº 239/12 (fls. 227/234), ao contrário do que alega a Defesa, não deixaram dúvida do envolvimento dos três réus na empreitada criminosa, porquanto nas gravações José Carlos afirma ter medo de Vaquinha (Paulo Ricardo) entregá-los, o que demonstra que é o mentor e mandante do crime". Assim, concluiu que "ao planejar o crime, José Carlos assumiu o risco do resultado morte, porquanto, tinha pleno conhecimento de que os comparsas, Luiz Gustavo e Paulo Ricardo, utilizariam armas de fogo" (fl. 736) e manteve a reprimenda imposta na r. sentença, com o acréscimo pela culpabilidade e circunstâncias do crime (fl. 738).
+A incidência da causa de redução prevista no art. 29, §1º, do Código Penal só se justifica em razão de eventual participação secundária do agente, aquela quase sem importância, e que, embora dentro da relação de causalidade, sua eventual ausência não impediria a concretização do crime.
+Se restar indicado que o acusado atuou de forma direta e ativa na empreitada criminosa, como no caso destes autos, há coautoria. No caso em exame, conforme já destacado, o peticionário atuou diretamente na ação criminosa, planejando o crime e assumindo o risco do resultado morte.
+Sempre com o mais elevado respeito, voltamos a repetir julgado do Superior Tribunal de Justiça, orientação igualmente adotada nesta Corte: a revisão criminal não serve de segundo recurso de apelação, é excepcional o abrandamento da coisa julgada por meio da via revisional, limitada às hipóteses em que manifesta a contradição nos autos, induvidosa, para o que, quando o caso, se dispensaria interpretação ou análise subjetiva das provas produzidas, eis que patente o erro." (fls. 13/14)
+As instâncias ordinárias destacaram a efetiva atuação do recorrente no crime de latrocínio. Assim, para afastar o entendimento da origem e aplicar a minorante da participação de menor importância, é necessário o revolvimento da matéria fático-probatória, providência incabível na via eleita.
+Nesse sentido:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. LATROCÍNIO TENTADO. DESCLASSIFICAÇÃO. PARTICIPAÇÃO DE MENOR IMPORTÂNCIA. TENTATIVA. FRAÇÃO MÁXIMA. SÚMULA 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A Corte a quo, em decisão devidamente motivada, entendeu que ficou comprovada nos autos, de forma indene de dúvidas, a prática do delito de latrocínio tentado. Rever os fundamentos utilizados, a fim de possibilitar a desclassificação da conduta de latrocínio tentado para os crimes de homicídio em concurso com roubo consumado, bem como de que os agravantes devem responder pela conduta menos grave, importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula 7/STJ.
+2. Ademais, descabida a alegação dos agentes quanto à participação de menor importância no delito, porquanto é pacífico o entendimento no sentido de que todos que participam do latrocínio em concurso de agentes são responsáveis pelo resultado mais gravoso, seguindo regra prevista no art. 29, caput, do Código Penal.
+ ..
+5. Saliente-se, ainda, que, ao contrário do alegado - sobre o fato de o tiro não ter atingido as vítimas -, para caracterizar o crime de tentativa de latrocínio, não é necessário aferir a gravidade das lesões experimentadas pela vítima, bastando a comprovação de que, no decorrer do roubo, o agente atentou contra a sua vida com o claro desígnio de matá-la (REsp 1026237/SP, Quinta Turma, Rel. Ministra LAURITA VAZ, DJe de 1º/8/2011).
+6. Agravo regimental não provido.
+(AgRg no AgRg no AREsp 1.710.516/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 13/10/2020).
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. ABSOLVIÇÃO. RECONHECIMENTO FOTOGRÁFICO. ART. 226 DO CPP. PRESENÇA DE OUTRAS PROVAS PARA A MANTENÇA DA CONDENAÇÃO. PARTICIPAÇÃO DE MENOR IMPORTÂNCIA. IMPROPRIEDADE DA VIA ELEITA. DECLASSIFICAÇÃO PARA FURTO. SUPRESSÃO DE INSTÂNCIA. INOVAÇÃO RECURSAL. AGRAVO DESPROVIDO.
+1. O habeas corpus não se presta para a apreciação de alegações que buscam a absolvição do paciente, em virtude da necessidade de revolvimento do conjunto fático-probatório, o que é inviável na via eleita.
+2. A Terceira Seção deste Superior Tribunal de Justiça alinhou a compreensão de que "o reconhecimento de pessoa, presencialmente ou por fotografia, realizado na fase do inquérito policial, apenas é apto, para identificar o réu e fixar a autoria delitiva, quando observadas as formalidades previstas no art. 226 do Código de Processo Penal e quando corroborado por outras provas colhidas na fase judicial, sob o crivo do contraditório e da ampla defesa" (HC 652.284/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 27/4/2021, DJe 3/ 5/2021).
+3. No caso dos autos, a autoria delitiva não tem, como único elemento de prova, o reconhecimento fotográfico, o que demonstra haver um distinguishing em relação ao acórdão paradigma da alteração jurisprudencial, pois decorreu igualmente da confissão do réu.
+4. Se as instâncias ordinárias, de forma motivada e com fundamento no contexto probatório dos autos, reconheceu a autoria delitiva, a via do writ não se mostra adequada para infirmar tal conclusão.
+5. A participação de menor importância do agente restou rechaçada na origem, sendo descabido falar em seu reconhecimento em sede de habeas corpus, pois tal exame necessitaria revolvimento detido de provas, o que, como acima consignado, não se coaduna com a via eleita.
+6. Não se cogita da participação de menor importância, pois, em atendimento à teoria monista ou unitária adotada pelo Código Penal, apesar do réu não ter praticado a violência elementar do crime de roubo, conforme o entendimento consagrado por este Superior Tribunal de Justiça, havendo prévia convergência de vontades para a prática de tal delito, a utilização de violência ou grave ameaça, necessárias à sua consumação, comunica-se ao coautor, mesmo não sendo ele o executor direto do gravame.
+7. Em que pesem os esforços do agravante, verifica-se que o pleito de desclassificação da conduta, além de não se coadunar com a via do mandamus, não foi objeto de cognição pela Corte de origem, o que obsta a apreciação de tal matéria por este Superior Tribunal de Justiça, sob pena de indevida supressão de instância.
+8. Trata-se de inovação recursal, o que não se admite, considerando que a matéria não foi ventilada no bojo do habeas corpus.
+9. Agravo desprovido.
+(AgRg no HC n. 775.323/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 10/3/2023).
+Ante o exposto, voto pelo des provimento do recurso.
