@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão do Tribunal de Justiça do Estado do Paraná cuja ementa é a seguinte:
+APELAÇÃO CÍVEL. TRIBUTÁRIO. ITBI. EMBARGOS À EXECUÇÃO. SENTENÇA DE INDEFERIMENTO DOS PEDIDOS INICIAIS.
+ALEGAÇÃO DE AUSÊNCIA DE TÍTULO EXECUTIVO. IMPROCEDÊNCIA. CDA CONSTITUÍDAEM CONFORMIDADE COM OS ARTIGOS 202, DO CTN, E 2º, § 5º, DA LEF. POSSIBILIDADE DE A CDA E A PETIÇÃO INICIAL CONSTITUÍREM UM ÚNICO DOCUMENTO. ART. 6º, § 2º, DA LEF.
+DECADÊNCIA. AQUISIÇÃO DE IMÓVEIS EM RAZÃO DA CISÃO PARCIAL DE SOCIEDADE. FATO GERADOR OCORRIDO COM O REGISTRO DO BEM, EM 31/07/2009. ARTS. 36 E 37,DO CTN. PREVISÃO DO PERÍODO DE TRÊS ANOS PARA ANÁLISE DA ATIVIDADE PREPONDERANTE DA EMPRESA. PRAZO DECADENCIAL INICIADO EM 01/01/2013, CONFORME O ART. 173, I, DO CTN. INTIMAÇÃO PARA PAGAMENTO DO ITBI EM 18/08/2015. DECADÊNCIA NÃO OPERADA.
+PLEITO DE RECONHECIMENTO DA IMUNIDADE TRIBUTÁRIA. INVIABILIDADE. NORMADO ART. 156, § 2º, DA CONSTITUIÇÃO FEDERAL QUE VISA ESTIMULAR O EMPREENDEDORISMO E FOMENTAR A ATIVIDADE EMPRESARIAL. EMBARGANTE QUE SE MANTEVE INATIVA. POSTERIOR MODIFICAÇÃO DO OBJETO SOCIAL PARA CONTEMPLAR A COMPRA E VENDA DE IMÓVEIS PRÓPRIOS.
+BASE DE CÁLCULO DO ITBI. VALOR VENAL DO BEM TRANSMITIDO. ART. 38, DO CTN. VALIDADE DO MONTANTE INDICADO PELO FISCO. INEXISTÊNCIA DE IRREGULARIDADEPELA DISSOCIAÇÃO ENTRE O VALOR VENAL PARA FINS DE CÁLCULO DO ITBI E DO IPTU.
+MAJORAÇÃO DO PERCENTUAL DE HONORÁRIOS ADVOCATÍCIOS ANTERIORMENTE FIXADO, EM RAZÃO DO TRABALHO ADICIONAL EM GRAU RECURSAL. ART. 85, § 11, DOCPC.
+SENTENÇA MANTIDA.
+RECURSO NÃO PROVIDO.
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, interposto com base nas alíneas a e c do permissivo constitucional, a recorrente aponta ofensa aos seguintes dispositivos:
+a) artigo 2º, § 5º,da Lei nº 6.830/80, ao argumento de que a CDA não atende a todos os requisitos legais do título executivo até porque não estão nela indicados o termo inicial dos juros de mora e atualização monetária;
+b) 173, I do CTB pela ocorrência da decadência do crédito tributário porque "O Fisco Municipal tomou conhecimento da integralização de capital social no mês de fevereiro de 2009. Assim, o termo inicial do prazo decadencial de cinco anos para constituição do crédito tributário (..) deu-se em 1º de janeiro de 2010, tendo o direito de o Recorrido constituir o crédito tributário de ITBI decaído em 1º de janeiro de 2015, bem antes do início do procedimento fiscal (22 de julho de 2015)";
+c) 156, § 2º, inciso I, da CF, ao entender que "É a decisão da Comissão de Recursos Tributários que atentou contra a ordem jurídica, caracterizando-se como ato administrativo nulo, seja pela ausência de motivação, seja por desvio de poder.";
+d) 156, § 2º, inciso I da CF e 37 do CTN, ao argumento de que a imunidade na cisão e integralização de bens no capital social da Recorrente, que não desempenhou atividades imobiliárias ou equiparadas durante os três anos subsequentes à integralização, é garantida pela lei;
+e) artigo 49 da Lei Complementar Municipal nº 40/2001, expondo que "a base de cálculo do ITBI, apontada pelo Recorrido, não seguiu o valor da operação realizada(cisão e integralização) que foi simplesmente desconsiderada sem nenhuma justificativa e não foi precedida da avaliação exigida pela lei pertinente".
+Em suas contrarrazões, a recorrida pugna pelo não conhecimento do recurso ou, alternativamente, pelo seu não provimento.
+O recurso foi admitido pela decisão de fls. 694/696.
+É o relatório. Passo a decidir.
+A recorrente defende, em síntese, que "o crédito tributário pretendido pelo Município de Curitiba está fulminado pelo instituto da decadência. O Fisco Municipal tomou conhecimento da integralização de capital social no mês de fevereiro de 2009. Assim, o termo inicial do prazo decadencial de cinco anos para constituição do crédito tributário, na forma do artigo 173, inciso I, do Código Tributário Nacional, deu-se em 1º de janeiro de 2010, tendo o direito de o Recorrido constituir o crédito tributário de ITBI decaído em 1º de janeiro de 2015, bem antes do início do procedimento fiscal (22 de julho de 2015)".
+O Colegiado, por sua vez, decidiu que "a contar da data em que ocorrido o fato gerador do tributo, ou seja, 31/07/2009, o Fisco teria três anos para apurar a preponderância da atividade da empresa, prazo que se encerrou em 31/07/2012. Findo este período, incide a regra do artigo 173, inciso I, do Código Tributário Nacional, de modo que o prazo decadencial teve início em 1º/01/2013 e se encerraria em 1º/01/2018".
+Constata-se que o aresto merece reforma, porquanto está em dissonância com o entendimento deste STJ, já que o STJ possui entendimento de que o fato gerador do imposto de transmissão é a transferência da propriedade imobiliária, que somente se opera mediante registro do negócio jurídico no ofício competente.
+No mesmo sentido, colecionam-se:
+PROCESSUAL CIVIL E TRIBUTÁRIO. ITBI. MOMENTO DE OCORRÊNCIA DO FATO GERADOR. AVERBAÇÃO, NO REGISTRO IMOBILIÁRIO, DA TRANSFERÊNCIA DE PROPRIEDADE (COMPRA E VENDA).
+7. A exegese do STJ, a respeito do art. 35, I, do CTN, é de que a transmissão do bem imóvel (fato gerador do ITBI) ocorre com o registro da compra e venda (não da simples promessa de compra e venda) no Cartório de Imóveis. Precedentes: AREsp 1.425.219/SP, Rel. Ministro Francisco Falcão, DJe 1/3/2019; AgRg no AREsp 813.620/BA, Rel. Ministro Humberto Martins, DJe 5/2/2016;AgRg no AREsp 659.008/RJ, Rel. Ministro Mauro Campbell Marques, DJe 14/4/2015.
+8. Em obter dictum, a questão da competência tributária (originalmente dos Estados, e, após a promulgação da CF/1988, dos Municípios) é irrelevante, pois não houve mudança jurisprudencial na exegese do art. 35, I, do CTN, vigente desde 1º.1.1967. Ademais, a verificação de eventual conflito entre a legislação estadual e o Código Tributário Nacional é matéria constitucional, que não pode ser apreciada neste meio de impugnação de decisões judiciais.
+9. Recurso Especial não provido.
+(REsp n. 1.809.411/MS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 10/9/2019, DJe de 18/10/2019.)
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. NÃO CONFIGURAÇÃO. MANDADO DE SEGURANÇA. DECADÊNCIA. REEXAME DO CONTEXTOFÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. ITBI. FATO GERADOR. ART. 35, I, DO CTN. AGRAVO NÃO PROVIDO.
+1. Na linha da jurisprudência desta Corte, não há falar em negativa de prestação jurisdicional, nem em vício quando o acórdão impugnado aplica a tese jurídica devidamente fundamentada, promovendo a integral solução da controvérsia, ainda que de forma contrária aos interesses da parte.
+2. A aferição da decadência, na hipótese, demandaria análise de matéria fático-probatória, bem como análise de fatores externos, uma vez que não é possível aferir qual a data da ciência, pela recorrida, do ato impugnado, visto que as guias de recolhimento não apresentaram data de emissão.
+3. O STJ possui entendimento de que "o fato gerador do imposto de transmissão é a transferência da propriedade imobiliária, que somente se opera mediante registro do negócio jurídico no ofício competente" (AgRg nos EDcl no AREsp 784.819/SP, Rel. Ministro Herman).
+4. Agravo interno não provido.
+(AgInt no AREsp n. Benjamin, Segunda Turma, DJe de 1º.6.2016).1.223.231/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 19/6/2018, DJede 27/6/2018.)
+Diante do exposto, com base no art. 932, V, do CPC/2015, c/c o art. 255, § 4º, III, do RISTJ e Súmula 568/STJ, dou provimento ao recurso especial, nos termos da fundamentação, a fim de que o Tribunal de origem adeque seu entendimento ao deste STJ.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO FISCAL. ITBI. MOMENTO DE OCORRÊNCIA DO FATO GERADOR. ART. 35, I, DO CTN. PRECEDENTES. DECADÊNCIA CONFIGURADA. RECURSO PROVIDO.
