@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso especial, com pedido liminar, impetrado em benefício de RODRIGO DE SOUZA JUSTINO contra acórdão proferido pela Quinta Câmara Criminal do Tribunal de Justiça do Estado de Santa Catarina, no julgamento da Apelação Criminal n. 0131067-56.2013.8.24.0045.
+O paciente foi denunciado pelos crimes de receptação, adulteração de sinal identificador de veículo automotor, falsificação e uso de documento falso. De acordo com os autos, em 12 de agosto de 2013, o paciente foi flagrado na posse de um automóvel com registro de roubo. Durante a abordagem policial, o paciente apresentou um Certificado de Registro e Licenciamento de Veículo e Bilhete de Seguro DPVAT falsos.
+Encerrada a fase instrutória, o paciente foi condenado a 7 (sete) anos de reclusão, em regime inicial fechado, além de 30 (trinta) dias-multa, pelos crimes dos arts. 180, 304 e 311, do Código Penal. O Tribunal de Justiça manteve integralmente os termos da sentença condenatória, negando provimento ao apelo defensivo (e-STJ, fls. 1556-1573).
+Por meio deste habeas corpus, a defesa pretende a extinção da punibilidade quanto ao crime de receptação, tendo em vista o decurso de prazo superior a quatro anos entre os marcos interruptivos da prescrição da pretensão punitiva na modalidade retroativa.
+Em seguida, alega que as provas de autoria foram obtidas mediante ingresso irregular no domicílio do acusado. Além disso, o conjunto probatório seria demasiado frágil para justificar a condenação pelo delito do art. 311 do Código Penal.
+Diante disso requer, liminarmente, a suspensão dos efeitos da condenação e, no mérito, que seja declarada extinta a punibilidade quanto ao delito de receptação e reconhecida a nulidade das provas obtidas mediante invasão de domicílio. Subsidiariamente, pretende a absolvição quanto ao crime de adulteração de sinal de veículo automotor.
+O pedido liminar foi indeferido (e-STJ, fls. 2296-2298).
+Os autos foram remetidos ao Ministério Público Federal, que opinou pela concessão da ordem (e-STJ, fls. 2305-2309).
+É o relatório. Decido.
+De acordo com a nossa sistemática recursal, o recurso cabível contra acórdão do Tribunal de origem que denega a ordem no habeas corpus é o recurso ordinário, consoante dispõe o art. 105, II, "a", da Constituição Federal. Do mesmo modo, o recurso adequado contra acórdão que julga apelação ou recurso em sentido estrito é o recurso especial, nos termos do art. 105, III, da Constituição Federal.
+Assim, o habeas corpus não pode ser utilizado como substituto de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+Ao que se tem dos autos, o paciente foi condenado a 1 (um) ano e 2 (dois) meses de reclusão pelo crime de receptação, 2 (dois) anos e 4 (quatro) meses de reclusão pelo delito do art. 304 do Código Penal e 3 (três) anos e 6 (seis) meses de reclusão pelo crime do art. 311 do Código Penal (e-STJ, fls. 818-830).
+Os fatos ocorreram em 12 de agosto de 2013 (e-STJ, fl. 361), a denúncia foi recebida em 7 de abril de 2014 (e-STJ, fl. 370) e a sentença foi proferida em 29 de março de 2019 (e-STJ, fls. 818-830).
+Neste caso, constata-se que, entre o recebimento da denúncia e a sentença transcorreu prazo superior a quatro anos, de maneira que deve ser declarada a extinção da punibilidade pelo advento da prescrição da pretensão punitiva na modalidade retroativa .
+Diante do exposto, dou provimento a este agravo regimental para declarar extinta a punibilidade quanto ao crime do art. 180 do Código Penal nos autos da Ação Penal n. 0131067-56.2013.8.24.0045.
+Comunique-se com urgência o juízo de primeiro grau e o Tribunal de Justiça do Estado de Santa Catarina.
+Sem recurso, arquivem-se os autos.
+Intimem-se.
