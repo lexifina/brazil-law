@@ -1,0 +1,87 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/05/2023 a 08/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Humberto Martins.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que não conheceu do recurso especial diante da incidência de óbices ao seu conhecimento.
+Na origem trata-se de ação em que se pleiteia a restituição do montante pago a título de ITBI. Na sentença, o pedido foi julgado improcedente, sob o fundamento de que o autor/ora agravante não possui legitimidade para requerer a restituição tributária, uma vez que a propriedade fiduciária do imóvel, à época, havia se consolidado ao banco Santander, que, no cumprimento de suas obrigações tributárias efetuou o recolhimento do tributo. No Tribunal a quo, a sentença foi mantida.
+O recurso especial foi interposto contra acórdão proferido pelo Tribunal de Justiça de São Paulo, assim ementado:
+APELAÇÃO - Repetição de indébito - ITBI - Sentença de improcedência. Imóvel alienado - Resolução da propriedade em prol do credor fiduciário, que pagou o imposto. Posterior pagamento da dívida, incluídas as despesas com ITBI. Pretendida devolução dos valores - Impossibilidade. Ilegitimidade do autor para requerer restituição. Sentença mantida. Recurso desprovido.
+Na petição de agravo interno, a parte agravante apresenta, em síntese, as seguintes alegações:
+Indubitável que os embargos de declaração de fls. 199/201 buscavam prequestionar o disposto no artigo 166 do CTN, já que o v. Acórdão recorrido nada manifestou a respeito do citado artigo.
+As razões do recurso especial de fls. 175/192, transcrevem o teor dos embargos de declaração de fls. 199/201, onde resta patente a existência de prequestionamento, bem como a afronta ao artigo 1.022, do CPC, ante a omissão perpetrada.
+ ..
+Data maxima venia, as razões do recurso especial cuidam de matéria exclusivamente de direito, sendo inaplicável a súmula 7 do C. STJ.
+Conforme anteriormente noticiado, o que se busca é o reconhecimento de que o disposto no artigo 166 do CTN foi violado, e que o disposto no artigo 123 do CTN não se aplica ao presente caso.
+De acordo com o disposto no artigo 166 do CTN, a restituição dos tributos é devida a quem comprovar haver assumido referido encargo, como é o caso do agravante, que demonstrou, por meio do contrato anexado com a inicial, que assumiu o pagamento do ITBI, restituindo o mesmo ao Banco Santander, o qual o autorizou expressamente a requerer a restituição dos valores junto ao Município agravado.
+Inquestionável que o agravante é parte legítima para pleitear a restituição do imposto em questão e que a análise da legitimidade não implica em afronta a súmula 7 deste C. STJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AÇÃO DE RESTITUIÇÃO. ITBI. VIOLAÇÃO AO ART. 1.022 DO CPC/15. NÃO CONFIGURADA. LEGITIMIDADE ATIVA. MATÉRIA FÁTICO-PROBATÓRI A, INCIDÊNCIA DAS SÚMULAS 5 E 7 DESTA CORTE. FUNDAMENTO EM LEI LOCAL. APLICAÇÃO DA SÚMULA N. 280/STF. AUSÊNCIA DE PREQUESTIONAMENTO. DESPROVIMENTO DO AGRAVO INTERNO .
+I - Trata-se de agravo interno interposto contra decisão que não conheceu do recurso especial diante da incidência de óbices ao seu conhecimento.
+II - Na origem trata-se de ação em que se pleiteia a restituição do montante pago a título de ITBI. Na sentença, o pedido foi julgado improcedente, sob o fundamento de que o autor/ora agravante não possui legitimidade para requerer a restituição tributária, uma vez que a propriedade fiduciária do imóvel, à época, havia se consolidado ao banco Santander, que, no cumprimento de suas obrigações tributárias efetuou o recolhimento do tributo. No Tribunal a quo, a sentença foi mantida.
+III - Em relação à indicada violação do art. 1.022 do CPC/2015, não se vislumbra pertinência na alegação, tendo o julgador dirimido a controvérsia tal qual lhe fora apresentada, em decisão devidamente fundamentada, sendo a irresignação do recorrente evidentemente limitada ao fato de estar diante de decisão contrária a seus interesses, o que não viabiliza o referido recurso declaratório.
+IV - Verifica-se que a irresignação do recorrente acerca de sua legitimidade para pleitear a restituição do tributo vai de encontro às convicções do julgador a quo, que, com lastro no conjunto fático-probatório constante dos autos, decidiu que o agravante não detêm legitimidade ativa, com arrimo no art. 123, do CTN.
+V - Dessa forma, para rever tal posição e interpretar os dispositivos legais indicados como violados, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ. No ponto, incide, ainda, o óbice da Súmula n. 5/STJ.
+VI - O Tribunal a quo, para decidir a controvérsia, também interpretou legislação local, in casu, a Lei municipal n. 11.154/1991, o que implica a inviabilidade do recurso especial, aplicando-se, por analogia, o teor do Enunciado n. 280 da Súmula do STF, que assim dispõe: "Por ofensa a direito local não cabe recurso extraordinário".
+VII - Ademais, os demais dispositivos legais mencionados pela parte recorrente na petição de recurso especial não foram objeto de análise na Corte de origem. Tampouco o conteúdo foi objeto no acórdão proferido na Corte de origem. Assim, não é possível o conhecimento do recurso especial diante da falta de prequestionamento da matéria. Para que o art. 1.025 do CPC/2015 seja aplicado, e permita-se o conhecimento das alegações da parte recorrente, é necessário não só que haja a oposição dos embargos de declaração na Corte de origem (e. 211/STJ) e indicação de violação do art. 1.022 do CPC/2015, no recurso especial (REsp 1.764.914/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 8/11/2018, DJe 23/11/2018). A matéria deve ser: i) alegada nos embargos de declaração opostos (AgInt no REsp 1.443.520/RS, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 1º/4/2019, DJe 10/4/2019); ii) devolvida a julgamento ao Tribunal a quo (AgRg no REsp n. 1.459.940/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 24/5/2016, DJe 2/6/2016) e; iii) relevante e pertinente com a matéria (AgInt no AREsp 1.433.961/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 17/9/2019, DJe 24/9/2019.)
+VIII - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A Corte de origem se manifestou quanto à matéria de fundo utilizando-se dos seguintes fundamentos:
+Extrai-se da matrícula do imóvel que o autor adquiriu junto à construtora EVEN Empreendimentos Imobiliários Ltda imóvel situado à Rua Simão Álvares, 6556, 23º andar, Vila Madalena, São Paulo -SP (matrícula 140.844), alienado fiduciariamente ao Banco Santander o imóvel para garantir contrato de financiamento realizado entre o autor e o banco.
+Contudo, em razão de inadimplemento contratual, a propriedade do imóvel tributado foi consolidada em nome da instituição financeira, conforme Averbação nº 08 da matrícula (fls. 33), com consequente recolhimento do imposto pelo banco.
+Nos termos do artigo 6º, I, da Lei Municipal nº 11.154/1991, o autor afigura-se parte ilegítima para figurar no polo ativo da demanda.
+ ..
+Ora, com consolidação da propriedade fiduciária do imóvel, o credor fiduciário torna-se sujeito passivo do ITBI e, por isso, o banco Santander acabou recolhendo o imposto (fls. 27/29).
+Ressalta-se que, eventual negócio jurídico firmado entre o banco e o autor após aludida consolidação da propriedade não tem qualquer validade jurídica, eis o artigo 123 do CTN, nesta hipótese, preceitua o seguinte:
+ ..
+Nesse passo, o termo de acordo extrajudicial celebrado entre o autor e o banco Santander não pode ser oposto à Fazenda Pública para modificar a definição legal do sujeito passivo da obrigação tributária, como bem apontado nas contrarrazões (fls. 159).
+Ao consolidar a propriedade do imóvel situado à Rua Simão Álvares, 656, 23º nd., Vila Madalena, São Paulo - SP, o banco Santander praticou o fato gerador do ITBI (artigo 35, I, do CTN) e, corretamente, procedeu ao recolhimento espontâneo do imposto.
+Nesse contexto, afigura-se correto o reconhecimento da ilegitimidade ativa do autor pelo Juízo, mantendo-se a sentença na íntegra.
+Em consequência do não provimento do apelo, cabe a fixação de honorários recursais, nos termos do artigo 85, § 11 Código de Processo Civil e em conformidade com o Enunciado administrativo nº 7, do C. STJ.
+Em relação à indicada violação do art. 1.022 do CPC/2015, não se vislumbra pertinência na alegação, tendo o julgador dirimido a controvérsia tal qual lhe fora apresentada, em decisão devidamente fundamentada, sendo a irresignação do recorrente evidentemente limitada ao fato de estar diante de decisão contrária a seus interesses, o que não viabiliza o referido recurso declaratório.
+Descaracterizada a alegada omissão, tem-se de rigor o afastamento da violação dos mencionados artigos processuais, conforme pacífica jurisprudência do Superior Tribunal de Justiça:
+ADMINISTRATIVO E PROCESSUAL CIVIL. DEFICIÊNCIA NA PRESTAÇÃO JURISDICIONAL. ART. 1022 DO CPC/2015. OFENSA NÃO VERIFICADA. BASE DE CÁLCULO DA CONTRIBUIÇÃO DEVIDA AO FUNDO DE GARANTIA DO TEMPO DE SERVIÇO.
+1. Verifica-se não ter ocorrido ofensa aos arts. 489, § 1º e 1.022, II, do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+ ..
+3. Agravo interno desprovido.
+(AgInt no REsp 1.643.573/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 8/11/2018, DJe 16/11/2018.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE EXIBIÇÃO DE DOCUMENTOS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC/15. INOCORRÊNCIA. FUNDAMENTAÇÃO. DEFICIENTE. SÚMULA 284/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ausentes os vícios do art. 1022 do CPC/15, rejeitam-se os embargos de declaração.
+2. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/15.
+3. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+ ..
+6. Agravo interno não provido.
+(AgInt no REsp 1.719.870/RS, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 24/9/2018, DJe 26/9/2018.)
+Verifica-se que a irresignação do recorrente acerca de sua legitimidade para pleitear a restituição do tributo vai de encontro às convicções do julgador a quo, que, com lastro no conjunto fático-probatório constante dos autos, decidiu que o agravante não detêm legitimidade ativa, com arrimo no art. 123, do CTN.
+Dessa forma, para rever tal posição e interpretar os dispositivos legais indicados como violados, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+No ponto, incide, ainda, o óbice da Súmula n. 5/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CONFIGURAÇÃO. RESTITUIÇÃO DE INDÉBITO. LEGITIMIDADE ATIVA. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA N. 7/STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E NEGAR-LHE PROVIMENTO.
+(AREsp n. 2.024.062, Rel. Ministro Mauro Campbell Marques, DJe de 18/03/2022.)
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. IPTU. LEGITIMIDADE ATIVA. LOCATÁRIO. PREVISÃO CONTRATUAL. SÚMULA N. 5/STJ. INOPONIBILIDADE DAS CONVENÇÕES PARTICULARES AO FISCO. AGRAVO INTERNO NÃO PROVIDO.
+1. A parte sustenta sua legitimidade para pleitear a restituição dos valores na medida em que o contrato de locação prevê a responsabilidade da agravante pelo pagamento do tributo. A interpretação das cláusulas do contrato de locação esbarra no óbice da Súmula n. 5/STJ.
+2. Ademais, vale destacar que as convenções particulares não são oponíveis ao Fisco. A relação tributária se estabelece entre o Fisco, de um lado, como seu sujeito ativo, e, de outro, o contribuinte, como seu sujeito passivo. É uma relação de natureza objetiva, em que não devem ser admitidos elementos estranhos, a teor do disposto no art. 123 do Código Tributário Nacional.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.644.014/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 14/9/2020, DJe de 17/9/2020.)
+O Tribunal a quo, para decidir a controvérsia, também interpretou legislação local, in casu, a Lei municipal n. 11.154/1991, o que implica a inviabilidade do recurso especial, aplicando-se, por analogia, o teor do Enunciado n. 280 da Súmula do STF, que assim dispõe: "Por ofensa a direito local não cabe recurso extraordinário".
+Nesse diapasão, confiram-se:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. LEGISLAÇÃO LOCAL. DISPOSITIVO DA CONSTITUIÇÃO FEDERAL. VIOLAÇÃO. ANÁLISE. INVIABILIDADE. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. ART. 85 DO CPC/2015. VIOLAÇÃO. ARGUIÇÃO GENÉRICA. DIVERGÊNCIA JURISPRUDENCIAL. REQUISITOS. INEXISTÊNCIA.
+1. Conforme estabelecido pelo Plenário do STJ, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma nele prevista (Enunciado Administrativo 3).
+2. Nos termos da Súmula 280 do STF, é defeso o exame de lei local em sede de recurso especial.
+3. O recurso especial não é remédio processual adequado para conhecer de irresignação fundada em suposta afronta a preceito constitucional, sendo essa atribuição da Suprema Corte, em sede de recurso extraordinário (art. 102, III, da CF).
+4. Infirmar as razões do apelo nobre, a fim de acolher a tese de ofensa do art 2º da Lei 9.784/1999, encontra óbice na Súmula 7 do STJ.
+5. É deficiente de fundamentação alegação de tese recursal genérica e deficiente. Incidência da Súmula 284 do STF.
+6. Esta Corte tem o entendimento de que é inadmissível o recurso especial que, a despeito de fundamentar-se em dissídio jurisprudencial, deixa de atender os requisitos necessários para sua comprovação.
+7. Agravo interno desprovido
+(AgInt no REsp 1690029/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 08/09/2020, DJe 16/09/2020.)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO AO AGRAVO EM RECURSO ESPECIAL. OFENSA AOS ARTIGOS 489, § 1º, INCISOS IV E VI, E 1.022, INCISOS I E III, TODOS DO CPC/2015. IPTU. BASE DE CÁLCULO. PRINCÍPIO DA LEGALIDADE. ART. 97 DO CTN. REPRODUÇÃO DE NORMA CONSTITUCIONAL. LEI ESTADUAL. LEI LOCAL. SÚMULA 280/STF.
+1. Deveras, não há falar, na hipótese, em violação aos arts. 489, § 1º, IV e VI, e 1.022, I e II, do CPC/2015, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão proferido em sede de Embargos de Declaração apreciaram fundamentadamente, de modo c oerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+2. Ademais, verifica-se que o Tribunal de origem, ao julgar o recurso de Apelação, solucionou a questão com base em legislação local (Lei Complementar n. 2.572/2012), Assim, o exame da matéria demanda análise de Direito local, razão por que incide, por analogia, a Súmula 280 do STF: "por ofensa a direito local não cabe recurso extraordinário".
+3. Agravo interno não provido.
+(AgInt no AREsp 1304409/DF, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 31/08/2020, DJe 04/09/2020.)
+Ademais, os demais dispositivos legais mencionados pela parte recorrente na petição de recurso especial não foram objeto de análise na Corte de origem. Tampouco o conteúdo foi objeto no acórdão proferido na Corte de origem. Assim, não é possível o conhecimento do recurso especial diante da falta de prequestionamento da matéria. Para que o art. 1.025 do CPC/2015 seja aplicado, e permita-se o conhecimento das alegações da parte recorrente, é necessário não só que haja a oposição dos embargos de declaração na Corte de origem (e. 211/STJ) e indicação de violação do art. 1.022 do CPC/2015, no recurso especial (REsp 1.764.914/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 8/11/2018, DJe 23/11/2018). A matéria deve ser: i) alegada nos embargos de declaração opostos (AgInt no REsp 1.443.520/RS, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 1º/4/2019, DJe 10/4/2019); ii) devolvida a julgamento ao Tribunal a quo (AgRg no REsp n. 1.459.940/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 24/5/2016, DJe 2/6/2016) e; iii) relevante e pertinente com a matéria (AgInt no AREsp 1.433.961/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 17/9/2019, DJe 24/9/2019.)
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
