@@ -1,0 +1,10 @@
+DECISÃO
+O presente writ, impetrado em benefício de Marcio Henrique da Costa Castro (ou Marcio Henrique da Costa) contra ato coator do Tribunal de Justiça de São Paulo, não comporta processamento.
+Com efeito, busca a impetração a unificação das penas impostas ao paciente pela condenação à prática do delito de estelionato por 12 vezes, ao argumento de que se tratando de crimes da mesma natureza, praticados com as mesmas circunstâncias, mesmos comparsas e idênticos modus operandi, forçoso é reconhecer a existência de um nexo de continuidade, ligando todas os delitos, para ensejar a almejada unificação (fl. 7).
+Ocorre que, para alcançar conclusão inversa das instâncias ordinárias, que negaram a pretendida unificação de acordo com convicção firmada com base nas provas dos autos, dando conta de que, conquanto os crimes tenham sido cometidos em datas próximas, em locais pertencentes a mesma comarca e com maneira de execução semelhantes, não se pode concluir que o agravante se valeu das mesmas condições e oportunidades presentes no delito primitivo para cometer o subsequente, não se vislumbrando, desse modo, qualquer liame subjetivo entre eles ( fl. 69), seria necessário reexame de provas, inviável na via eleita.
+Ademais, as instâncias ordinárias fizeram menção à hipótese de reiteração criminosa, indicadora de delinquência habitual, cujo agente, contumaz na prática de tráficos, não deve ser favorecido com a unificação de pena (fl. 69). Tal o contexto, a fundamentação utilizada evidencia não a continuidade delitiva, mas a habitualidade criminosa.
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+EXECUÇÃO PENAL. HABEAS CORPUS. CONDENAÇÕES PELA PRÁTICA DOS CRIMES DE ROUBOS MAJORADOS. PRETENSÃO DE UNIFICAÇÃO DE PENAS. CONVICÇÃO DAS INSTÂNCIAS ORDINÁRIAS NO SENTIDO DE QUE SE TRATA DE CONDUTAS PRATICADAS DE FORMA DIVERSA E MEDIANTE DESÍGNIOS AUTÔNOMOS. CONCLUSÃO INVERSA. REEXAME DE PROVAS. INVIABILIDADE NA VIA ESTREITA.
+Inicial indeferida liminarmente.
