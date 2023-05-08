@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/05/2023 a 08/05/2023, por unanimidade, rejeitar os embargos de declaração, com aplicação de multa, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+ROBERTO BORTOLOZZO opõe embargos de declaração ao acórdão assim ementado (fl. 1.178):
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. MERO INCONFORMISMO DA PARTE EMBARGANTE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado (art. 1.022 do CPC).
+2. Os aclaratórios têm finalidade integrativa, por isso não se prestam a revisar questões já decididas para alterar entendimento anteriormente aplicado.
+3. Embargos de declaração rejeitados..
+No acórdão que julgou o agravo interno, e fora objeto dos primeiros embargos, dispôs o seguinte (fl. 1.138):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO POR QUANTIA CERTA CONTRA DEVEDOR SOLVENTE. MULTAS CONTRATUAIS. COMPRA E VENDA DE GRÃOS. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. RAZÕES RECURSAIS DEFICIENTES. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. SÚMULA N.7/STJ. DISSÍDIO JURISPRUDENCIAL. SÚMULA N. 7/STJ.
+1. Se das razões recursais, não se verifica a exata controvérsia, pela inabilidade do próprio recurso em apresentá-la ao julgador, principalmente quando se trata do recurso especial, expediente de elevado grau de objetividade, inviabilizada estará a análise e o julgamento da afronta à legislação federal.
+2. O exame da pretensão recursal exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, o que é vedado em sede de recurso especial, nos termos do enunciado da Súmula 7 do STJ. Dissídio jurisprudencial prejudicado.
+3. A jurisprudência desta Corte firmou o entendimento de que não é possível o conhecimento do apelo nobre interposto pela divergência, na hipótese em que o dissídio é apoiado em fatos, e não na interpretação da lei. Isso porque a Súmula nº 7 do STJ também se aplica aos recursos especiais interpostos pela alínea c do permissivo constitucional.
+4. Agravo interno não provido.
+Em suas razões, a parte embargante sustenta a ocorrência de omissões e contradições.
+Alega que (fl. 1.191):
+É certo que a matéria devolvida à apreciação desta Corte sequer foi apreciada em sua integralidade, restando, pois, caracterizada a OMISSÃO e a CONTRADIÇÃO ensejadora da oposição do presente recurso integrativo, pois o v. acórdão embargado deixou de observar questões essenciais e fundamentais para a correta e integral prestação jurisdicional, inclusive ao deixar de reconhecer quais MATÉRIAS SÃOCONSIDERADAS DE ORDEM PÚBLICA que poderiam ensejar no conhecimento da exceção de pré-executividade, sendo que isto restou INCONTROVERSO NO ACÓRDÃODO TRIBUNAL A QUO e foi objeto dos pretéritos embargos de declaração, como se pode observar do Acórdão do juízo a quo ..
+Aduz ainda (fl. 1.193):
+Restou delineado situação fática no acórdão, com o devido reconhecimento da impossibilidade de discutir a abusividade quanto aos juros de mora e as cláusulas penais por intermédio da exceção de pré-executividade, pois não seriam matérias "suscetíveis de conhecimento de ofício, questões de ordem pública", a decisão combatida NEGOU direito ao Embargante, de discutir por intermédio de exceção de pré-executividade a abusividade nos juros de mora, bem como quanto as cláusulas penais, visto que estas matérias não seriam de ordem pública e não poderiam ser conhecidas de ofício, em evidente afronta ao que já foi decidido pelo STJ no REsp n.º1.447.247-SP (2013/0099452-0).
+Requer o recebimento dos embargos para que sejam supridas as omissões apontadas.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. MERO INCONFORMISMO DA PARTE EMBARGANTE. RECURSO MANIFESTAMENTE PROTELATÓRIO. EMBARGOS DE DECLARAÇÃO REJEITADOS. APLICAÇÃO DE MULTA (ART. 1.026, § 2º, DO CPC).
+1. Os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existente no julgado (art. 1.022 do CPC).
+2. Os aclaratórios têm finalidade integrativa, por isso não se prestam a revisar questões já decididas para alterar entendimento anteriormente aplicado.
+3. A oposição de embargos de declaração manifestamente protelatórios dá ensejo à condenação do embargante ao pagamento de multa (art. 1.026, § 2º, do CPC).
+4. Embargos de declaração rejeitados com aplicação de multa.
+VOTO
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existente no julgado.
+No presente caso, a parte embargante não aponta omissão passível de ser suprida pelo STJ em embargos de declaração. Apenas demonstra seu interesse na reanálise da questão que foi obstada pela incidência da Súmula n. 7 do STJ .
+Vê-se, portanto, que, nas razões dos embargos de declaração, a parte embargante não apontou nenhuma obscuridade, omissão ou contradição no fundamento adotado pelo decisum para a manutenção do não conhecimento do agravo em recurso especial, limitando-se a defender que o acórdão deixou de apreciar matéria recursal.
+No tocante à incidência da Súmula n. 7 do STJ, ressalte-se que, para afastar a sua incidência, não basta a parte sustentar genericamente que a análise de seu apelo extremo demanda apenas apreciação de normas legais e prescinde do reexame de provas.
+Segundo entendimento desta Corte, "a alegação genérica de que o tema discutido no recurso especial representa matéria de direito (incluídas aí as hipóteses de qualificação jurídica dos fatos e valoração jurídica das provas), e não fático-probatória, não é apta a impugnar, de modo específico, o fundamento da decisão atacada. Ao revés, deve a parte agravante refutar o citado óbice mediante a exposição da tese jurídica desenvolvida no recurso especial e a demonstração da adoção dos fatos tais quais postos nas instâncias ordinárias" (AgInt no AREsp n. 1.969.273/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 13/12/2021, DJe de 16/12/2021).
+No mesmo sentido: AgInt no AREsp n. 2.072.074/BA, relator Ministro Marco Buzzi, Quarta Turma, julgado em 23/6/2022, DJe de 2/8/2022; e AgInt no REsp n. 1.890.825/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 15/12/2020, DJe de 18/12/2020.
+Em recente julgamento, a Corte Especial do STJ concluiu que "o recurso aclaratório possui finalidade integrativa e, portanto, não se presta à reforma do entendimento aplicado ou ao rejulgamento da causa, conforme pretende o embargante quanto à apontada contradição no julgado" (EDcl no AgRg no RE nos EDcl no AgRg nos EDcl no AREsp n. 1.571.819/RJ, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, DJe de 28/8/2020).
+Ainda, a mera irresignação da parte embargante com o entendimento apresentado no agravo interno não viabiliza a oposição dos aclaratórios (EDcl no AgInt nos EARESP n. 1. 623.529, relator Ministro Og Fernandes, Corte Especial, DJe de 15/12/2021).
+Dessa forma, não há irregularidade sanável por meio dos presentes embargos, porquanto, consoante já assentado no julgamento dos primeiros aclaratórios, toda a matéria apta à apreciação por este Tribunal foi devidamente analisada, não padecendo o acórdão ora embargado dos vícios que autorizariam a oposição do recurso integrativo, quais sejam, obscuridade, contradição, omissão ou erro material (art. 1.022 do CPC).
+Por fim, constatado o intuito de rediscutir as questões já decididas nesta instância especial, vê-se que os presentes embargos de declaração visam, manifestamente, protelar o desfecho final da demanda, o que dá ensejo à condenação da parte embargante ao pagamento de multa em conformidade com o art. 1.026, § 2º, do CPC.
+Ante o exposto, rejeito os embargos de declaração e, nos termos do art. 1.026, § 2º, do CPC, condeno a parte ora embargante ao pagamento da multa de 2% sobre o valor atualizado da causa .
+É o voto.
