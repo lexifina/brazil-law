@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/05/2023 a 08/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de agravo interno interposto pela COMPANHIA ESTADUAL DE GÁS DO ESTADO DO RIO DE JANEIRO CEG, contra decisão da Presidência (e-STJ fls. 2.012/2.014) que não conheceu do seu agravo em recurso especial.
+Ação: revisional c/c pedido liminar ajuizada por PRESSÃO UM AUTO POSTO E SERVIÇOS LTDA em desfavor da COMPANHIA ESTADUAL DE GÁS DO ESTADO DO RIO DE JANEIRO CEG, objetivando a revisão das contas por esta emitidas com a redução de seu valor.
+Sentença: julgou parcialmente procedentes os pedidos iniciais para cancelar "as faturas emitidas a partir de junho de 2011, devendo todas serem refaturadas pelo consumo médio do autor, constatado em perícia, no montante de 134.600 m  (index nº 825), sendo certo que o religamento do serviço, para que haja coerência com a demanda consignatória, deve ser feito após quitação do débito, o qual deve ser apurado por simples cálculos"
+Acórdão: negou provimento à apelação interposta pela agravante e deu provimento à apelação interposta pelo agravado, nos termos da seguinte ementa:
+"APELAÇÕES CÍVEIS. AÇÕES REVISIONAIS CONEXAS COM AÇÃO CONSIGNATÓRIA. POSTO DE ABASTECIMENTO DE VEÍCULOS AUTOMOTORES. ALEGAÇÃO DE COBRANÇAS INDEVIDAS REFERENTES A FATURAS DE GÁS. SENTENÇA DE PARCIAL PROCEDÊNCIA. IRRESIGNAÇÃO DE AMBAS AS PARTES.
+1. O autor, ora 2º apelante, em contrarrazões, aduz que a parte ré, ora 1ª recorrente, deixou de observar o princípio da dialeticidade recursal; todavia, na esteira da jurisprudência do STJ,a repetição do teor da contestação nas razões da apelação não ofende o princípio da dialeticidade quando puderem ser extraídos do recurso as razões e intenção de reforma da sentença. Assim, reputa-se que o recurso preenche os requisitos de admissibilidade.
+2. Quanto à questão de fundo,ambos os peritos atestaram que existem irregularidades nas medições efetuadas pela parte ré a partir de junho de 2011.
+3. Neste cenário, o juízo de origem, corretamente, determinou o refaturamento das contas a partir de junho de 2011, tomando-se como parâmetro a média de 134.600 m .
+4. Há de se ressaltar que, ao contrário do alegado pelo autor, não houve julgamento citra petita na presente demanda, conforme se depreende da leitura dos pedidos após o aditamento de fls. 54/56 (ind. 77) e do dispositivo da sentença (fl. 1366).
+5. Nota-se que, nas duas demandas revisionais, a ré foi responsabilizada pelas incorreções nas cobranças. Logo,deve responder integralmente pelo ônus da sucumbência. DESPROVIMENTO DO 1º RECURSO E PROVIMENTO DO 2º APELO." (e-STJ, fls. 1.602/1.603)
+Embargos de declaração: opostos por ambas as partes, foram rejeitados.
+Recurso especial: alegaram, além de dissídio jurisprudencial, ofensa aos arts. 2º, caput, do CDC sustentando: i) a inaplicabilidade do CDC à hipótese dos autos; ii) que a cobrança referente ao mês reclamado é totalmente devido, na forma do contrato entabulado entre as partes; iii) que o corretor eletrônico instalado pode ter apresentado divergências nos Parâmetros do software do equipamento, que ensejaram cobranças em valores muito inferiores ao real consumo do Autor, sendo descabidos os cálculos por este apresentados; iv) que a pretensão autoral deve ser completamente afastada, ratificando-se a legitimidade da cobrança aduzida pela agravante, na medida em que os medidores de gás utilizados como base do faturamento de junho de 2011 estão devidamente testados e aprovados, conforme certificados de calibração; v) outrossim, não merece acolhida nenhuma das considerações do Autor quanto aos cálculos apresentados, que ignoraram o fator de correção utilizado, tanto no faturamento pelo corretor eletrônico, quando no faturamento pelo medidor de gás, sendo descabido o cancelamento do débito legitimamente constituído.
+Decisão agravada: não conheceu do agravo em razão da incidência da Súmula 182/STJ.
+Agravo interno: alega que não pretende o reexame probatório, pugnando pelo afastamento da Súmula 7/STJ. No mais, repisa as razões anteriormente expostas acerca da tese defendida.
+É O RELATÓRIO.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO DA DECISÃO AGRAVADA. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182. INCIDÊNCIA. DECISÃO MANTIDA.
+1. Não merece conhecimento o agravo que não impugna, especificamente, todos os fundamentos da decisão denegatória de seguimento ao recurso especial.
+2. Agravo interno não provido.
+VOTO
+Pela análise das razões recursais apresentadas, verifica-se que a parte agravante não trouxe qualquer argumento novo capaz de ilidir os fundamentos da decisão agravada, fundamentada na ausência de impugnação às Súmulas 7 e 211/STJ, e 284 do STF, aplicadas pelo juízo de admissibilidade.
+No entanto, no agravo em recurso especial, a parte agravante não impugnou adequadamente, de forma clara e específica, os óbices aplicados, alegando de forma genérica, que referidos óbices devem ser afastados, repisando, no mais, os mesmos argumentos já expendidos no recurso especial em defesa de suas teses.
+Ressalte-se, quanto à Súmula 7/STJ, que não basta a mera alegação de que a hipótese prescinde de reexame de provas, alegando genericamente sobre a questão ser de direito ou de que se requer a revaloração ou a correta aplicação da legislação que entende violada.
+Deve também ser demonstrada a efetiva desnecessidade do reexame e da interpretação de cláusulas contratuais, na hipótese em que o Tribunal de origem declara que "Há que se asseverar que, ainda que inexistisse a supracitada eventual modificação da conclusão do Colegiado passaria pela seara fático-probatória, soberanamente decidida pelas instâncias ordinárias, dos documentos e provas carreados aos autos, de modo que não merece trânsito o recurso especial, ante o óbice do Enunciado nº 7 da Súmula do Superior Tribunal de Justiça."(e-STJ fl. 1.743), o que não foi feito.
+Especificamente quanto às Súmulas 211/STJ e 284/STF, a agravante nala alegou, deixando, portanto, de impugnar referidos fundamentos.
+Consoante o entendimento desta Corte, firmado à luz do princípio da dialeticidade, cumpre à parte recorrente o ônus de evidenciar,nas razões do agravo em recurso especial, o desacerto da decisão agravada.
+Descumprido esse ônus, ou seja, se ausente a impugnação pontual e consistente do fundamento da decisão agravada, o conhecimento do agravo é inadmissível, a teor do disposto na Súmula 182 deste Tribunal e nos arts. 932, III do CPC/2015. Nesses termos, não havendo a impugnação dos fundamentos da decisão agravada da forma exigida, aplicável o óbice da Súmula 182 do STJ.
+Deve, portanto, ser mantida a decisão agravada.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno no agravo em recurso especial.
