@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 02/05/2023 a 08/05/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Sebastião Reis Júnior e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Rogerio Schietti Cruz.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+RELATÓRIO
+Trata-se de agravo regimental interposto por JONATHAN ANTUNES CHAVES, contra decisão de minha lavra que denegou o habeas corpus.
+O agravante foi condenado como incurso no art. 2º, §§ 2º e 4º, I e IV, da Lei 12.850/2013, a 6 anos, 7 meses e 6 dias de reclusão, em regime semiaberto, e 21 dias-multa.
+Impetrado habeas corpus perante a Corte de origem, o Tribunal de Justiça do Estado de Santa Catarina não conheceu a ordem nos autos do HC 5044860-89.2022.8.24.0000/SC, por meio de acórdão assim ementado (fl. 434):
+"HABEAS CORPUS. PACIENTE PRESO PREVENTIVAMENTE E CONDENADO, DE MANEIRA NÃO DEFINITIVA, PELA PRÁTICA DO CRIME PREVISTO NO ART. 2º, §§2º E 4º, INCISOS I E IV, DA LEI N. 12.850/13 À PENA DE 6 (SEIS) ANOS, 7 (SETE) MESES E 6 (SEIS) DIAS DE RECLUSÃO. SENTENÇA QUE RECONHECEU A AGRAVANTE PREVISTA NO § 3º DO ART. 2º DA LEI N. 12.850/13. ALEGAÇÃO DE CONSTRANGIMENTO ILEGAL. IMPOSSIBILIDADE DE ANÁLISE PELA VIA ELEITA. MATÉRIA QUE, INCLUSIVE, JÁ FOI LEVANTADA E AFASTADA NOS RECURSOS PRÓPRIOS (RECURSOS DE APELAÇÃO E ESPECIAL). INVIABILIDADE DE IMPETRAÇÃO DE HABEAS CORPUS PARA REDISCUSSÃO DO TEMA. ADEMAIS, AUSÊNCIA DE FLAGRANTE CONSTRANGIMENTO ILEGAL AFERÍVEL DE OFÍCIO. WRIT NÃO CONHECIDO."
+Daí o habeas corpus, em que sustentou a defesa que "ao Paciente não é atribuída nenhuma função de comando, bem como a função de disciplina é atribuída a outro denunciado" (fl. 6).
+Requereu que "se afaste a agravante estampada no art. 2º, § 3º, da Lei 12.850/13 e seja realizada nova dosimetria de pena" (fl. 9).
+Foram prestadas as informações (fls. 487-679 e 681-702)
+O Ministério Público Federal manifestou-se pela denegação da ordem (fls. 707-708).
+Na sequência, deneguei a ordem (fls. 713-715).
+Daí o presente agravo regimental, em que a defesa reitera os termos da inicial e alega que (fl. 720):
+" ..  o Paciente novamente foi denunciado pelo mesmo crime (autos 0000634-02.2018.8.24.0008), e no andar das investigações, em datas contemporâneas a da prisão em flagrante anterior citada, restou comprovado pela polícia investigativa, pelo Ministério Público, bem como reconhecida pelo Magistrado na sentença, o modus operandis da organização criminosa, em relação a Vila Bromberg, no qual ficou sedimentado que o Paciente não exercia o cargo de disciplina, menos ainda, era apenas o entregador da droga."
+Argumenta que "a prisão em flagrante do Paciente se deu em 19/04/2018, enquanto, menos de um mês antes, nos autos 0000634-02.2018.8.24.0008, foi comprovado através de conversas dos acusados, que o Paciente não era disciplina da Vila Brombeg" (fl. 721).
+Aduz, ainda, que "não se busca um reexame das provas dos autos. Pretende-se tão somente a revaloração da prova delineada no próprio decisório recorrido, suficiente para a solução do caso, o que ao contrário do reexame, permite-se em sede de habeas corpus" (fls. 721-722).
+Requer o provimento do recurso para que seja afastada a agravante do art. 2º, § 3º, da Lei 12.850/13.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA. DECOTE DA AGRAVANTE DO ART. 2º, § 3º DA LEI 12.850/13. ELEMENTOS QUE COMPROVAM O EXERCÍCIO DE FUNÇÃO DE CHEFIA. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. INVIÁVEL PELA VIA DO WRIT. AGRAVO REGIMENTAL IMPROVIDO.
+1. Esta Corte Superior possui entendimento no sentido de que "via de regra, não se presta o habeas corpus à revisão da dosimetria das penas estabelecidas pelas instâncias ordinárias, admitindo a jurisprudência desta Corte, em caráter excepcional, o reexame da aplicação das penas, apenas nos casos de manifesta violação aos critérios dos arts. 59 e 68, do Código Penal, sob o aspecto da legalidade, nas hipóteses de falta ou evidente deficiência de fundamentação ou ainda de erro de técnica" (AgRg nos EDcl no HC n. 525.916/DF, relator Ministro Felix Fischer, Quinta Turma, julgado em 13/4/2020, DJe de 17/4/2020).
+2. In casu, foram indicados elementos concretos e aptos para a configuração da agravante do art. 2º, § 3º da Lei 12.850/2013, haja vista que, a partir da análise do celular apreendido do corréu Emerson, mais especificamente em um grupo do aplicativo WhatsApp, o qual era mantido pela organização criminosa para comunicação entre seus membros, ficou evidenciado que o agravante desempenhava a função de "disciplina", isto é, função de chefia na referida organização.
+3. Estando devidamente caracterizada a agravante prevista no art. 2º, § 3º da Lei 12.850/2013 pelas instâncias de base, com suporte nas provas dos autos, alterar a referida conclusão, na forma pretendida pela defesa, é providência que demanda reexame fático-probatório, o que é vedado na via do writ.
+4. Agravo regimental improvido.
+VOTO
+Consoante relatado, busca o agravante o provimento do recurso para que seja afastada a agravante do art. 2º, § 3º, da Lei 12.850/13.
+A decisão que denegou o habeas corpus foi assim fundamentada (fls. 713-715):
+Trata-se de habeas corpus impetrado contra acórdão assim ementado:
+"HABEAS CORPUS. PACIENTE PRESO PREVENTIVAMENTE E CONDENADO, DE MANEIRA NÃO DEFINITIVA, PELA PRÁTICA DO CRIME PREVISTO NO ART. 2º, §§2º E 4º, INCISOS I E IV, DA LEI N. 12.850/13 À PENA DE 6 (SEIS) ANOS, 7 (SETE)MESES E 6 (SEIS) DIAS DE RECLUSÃO. SENTENÇA QUE RECONHECEU A AGRAVANTE PREVISTA NO § 3º DO ART. 2º DA LEI N. 12.850/13. ALEGAÇÃO DE CONSTRANGIMENTO ILEGAL. IMPOSSIBILIDADE DE ANÁLISE PELA VIA ELEITA. MATÉRIA QUE, INCLUSIVE, JÁ FOI LEVANTADA E AFASTADA NOS RECURSOS PRÓPRIOS (RECURSOS DE APELAÇÃO E ESPECIAL). INVIABILIDADE DE IMPETRAÇÃO DE HABEAS CORPUS PARA , REDISCUSSÃO DO TEMA. ADEMAIS, AUSÊNCIA DE FLAGRANTE CONSTRANGIMENTO ILEGAL AFERÍVEL DE OFÍCIO. WRIT NÃO CONHECIDO.
+O paciente foi condenado como incurso no art. 2º, §§ 2º e 4º, I e IV, da Lei 12.850/2013, a 6 anos, 7 meses e 6 dias de reclusão, em regime semiaberto, e 21 dias-multa.
+Alega a defesa que "ao Paciente não é atribuída nenhuma função de comando, bem como a função de disciplina é atribuída a outro denunciado" (fl. 6).
+Requer que "se afaste a agravante estampada no art. 2º, § 3º da Lei 12.850/13 e seja realizada nova dosimetria de pena" (fl. 9).
+Prestadas informações, o Ministério Público Federal manifestou-se pela denegação da ordem.
+É o relatório.
+Decido.
+Extrai-se da sentença que "há outros elementos que reforçam essa conclusão e indicam que ele  o ora paciente  exercia função de chefia no grupo, mais especificamente da "quebrada" da Vila Bromberg" (fl. 54).
+Devidamente caracterizada pelas instâncias de base, com suporte nas provas dos autos, a agravante prevista no art. 2º, § 3º da Lei 12.850/2013, alterar a referida conclusão, na forma pretendida pela defesa, é providência que demanda reexame fático-probatório, o que é vedado na via do writ.
+Ante o exposto, denego o habeas corpus."
+A despeito das alegações defensivas, a decisão deve ser mantida por seus próprios fundamentos, ainda que não se desconheça a complexidade e a relevância da questão tratada nestes autos.
+Esta Corte Superior possui entendimento no sentido de que:
+" ..  via de regra, não se presta o habeas corpus à revisão da dosimetria das penas estabelecidas pelas instâncias ordinárias, admitindo a jurisprudência desta Corte, em caráter excepcional, o reexame da aplicação das penas, apenas nos casos de manifesta violação aos critérios dos arts. 59 e 68, do Código Penal, sob o aspecto da legalidade, nas hipóteses de falta ou evidente deficiência de fundamentação ou ainda de erro de técnica" (AgRg nos EDcl no HC n. 525.916/DF, relator Ministro Felix Fischer, Quinta Turma, julgado em 13/4/2020, DJe de 17/4/2020).
+In casu, assim constou da sentença condenatória (fls. 53-54):
+"2.4.8. Do acusado Jonathan Antunes Chaves:
+Jonathan também foi preso enquanto participava da reunião da organização criminosa, valendo em relação a ele também o fundamento de que esta participação é prova apta a justificar a sua condenação.
+Todavia, há outros elementos que reforçam essa conclusão e indicam que ele exercia função de chefia no grupo, mais especificamente da "quebrada" da Vila Bromberg.
+Ao analisar o celular apreendido do réu Emerson os investigadores constataram que o acusado Jonathan, apadrinhado no PGC por Leandro Wirniaczyk, participava do grupo de Whatsapp "tudo nosso sc", mantido pela organização criminosa para comunicação entre seus membros.
+Em conversa no grupo, durante a preparação para a reunião, o acusado Leandro, identificado como "Psp", afirmou que "todos tem como ir ou não é assim meu afilhado Júnior leva 3 com ele tendeu (..)" (fl. 39 do Relatório de Investigação). Logo após um outro integrante não identificado deixa claro que o acusado integrava a "quebrada" da Vila Bromberg na função de disciplina.
+Escreveu o referido usuário que "a vila tem nosso irmão Júnior. Ta de Dc  disciplina  la" (fl. 39).
+Assim, restou devidamente comprovada a atuação do acusado na organização criminosa e a sua função de chefia, exercendo o cargo de disciplina local dentro da estrutura hierárquica do PGC, portanto, deve ser reconhecida a agravante prevista no art. 2º, §3º, da Lei 12.850.
+Portanto, concluo pela condenação do(s) acusado(s) Jonathan Antunes Chaves pela prática do(s) crime(s) organização criminosa majorada (art (s). 2º, §§2ºe 4º, I e IV, da Lei n. 12.850/13)."
+Como se vê, foram indicados elementos concretos e aptos para a configuração da agravante do art. 2º, § 3º da Lei 12.850/2013, haja vista que, a partir da análise do celular apreendido do corréu Emerson, mais especificamente em um grupo do aplicativo WhatsApp, o qual era mantido pela organização criminosa para comunicação entre seus membros, ficou evidenciado que o agravante desempenhava a função de "disciplina", isto é, função de chefia na referida organização.
+Portanto, estando devidamente caracterizada a agravante prevista no art. 2º, § 3º da Lei 12.850/2013 pelas instâncias de base, com suporte nas provas dos autos, alterar a referida conclusão, na forma pretendida pela defesa, é providência que demanda reexame fático-probatório, o que é vedado na via do writ. Nesse sentido:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. GESTÃO FRAUDULENTA DE INSTITUIÇÃO FINANCEIRA. DOSIMETRIA. PENA-BASE. REVISÃO. CARÁTER EXCEPCIONAL. POSSIBILIDADE APENAS NOS CASOS DE PATENTE ILEGALIDADE OU DESPROPORCIONALIDADE. VALORAÇÃO NEGATIVA DA CULPABILIDADE. FUNDAMENTOS QUE NÃO DESBORDAM DOS ELEMENTOS ÍNSITOS OU COMUNS À ESPÉCIE.
+1. A estreita via do habeas corpus não é adequada à revisão da dosimetria da pena estabelecida pelas instâncias ordinárias, apenas se admitindo, excepcionalmente, seu exame nos casos de manifesta violação dos critérios dos arts. 59 e 68 do CP, sob o aspecto da legalidade, de falta ou evidente deficiência de fundamentação ou ainda de erro de técnica.
+2. O fato de o ora agravante ter se utilizado "de expedientes ilegais, contrários às normas do banco, incompatíveis com a responsabilidade conferida ao cargo que ocupava na instituição e a confiança nele depositada - Coordenador de Projetos do DEODE - deixando à margem princípios básicos de segurança e liquidez, necessários para a correta gestão de uma instituição financeira do porte do BANESPA", em nada desborda das elementares do tipo penal de gestão fraudulenta de instituição financeira, não demonstrando as instâncias ordinárias circunstâncias fáticas do caso concreto que justifiquem a exasperação da pena-base.
+3. Quanto à agravante prevista no art. 62, I, do CP, não há falar em indevida incidência, porquanto a matéria foi decidida com a devida e clara fundamentação, sufragando-se o entendimento de que, reconhecida a posição de liderança do agravante no núcleo criminoso, incabível o decote da agravante por demandar a necessidade de revolvimento do conjunto fático-probatório, inviável na via estreita do writ.
+4. Agravo regimental parcialmente provido para afastar o desvalor conferido à circunstância judicial da culpabilidade, (re) fixando a condenação do ora agravante em de 4 anos de reclusão."
+(AgRg no HC n. 743.633/SP, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 6/12/2022, DJe de 12/12/2022.)
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
