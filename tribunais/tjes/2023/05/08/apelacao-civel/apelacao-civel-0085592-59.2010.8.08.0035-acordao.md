@@ -1,0 +1,27 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº
+0085592-59.2010.8.08.0035
+APELAÇÃO CÍVEL (198)
+APELANTE: BV FINANCEIRA SA CREDITO FINANCIAMENTO E INVESTIMENTO e outros
+APELADO: CECILIA DOS SANTOS RODRIGUES e outros
+RELATOR(A
+):SAMUEL MEIRA BRASIL JUNIOR
+
+Composição de julgamento: 005 - Gabinete Des. SAMUEL MEIRA BRASIL JUNIOR - RODRIGO FERREIRA MIRANDA - Relator / 006 - Gabinete Des. JOSÉ PAULO CALMON NOGUEIRA DA GAMA - JOSE PAULO CALMON NOGUEIRA DA GAMA - Vogal / 017 - Gabinete Des. FERNANDO ESTEVAM BRAVIN RUY - FERNANDO ESTEVAM BRAVIN RUY - Vogal
+_______________________________________________________________________________________________________________________________________________________________________________
+RELATÓRIO
+NOTAS ORAIS
+VOTOS COM DOCUMENTO
+(EXCETO VOTO VENCEDOR)
+VOTO VENCEDOR
+
+VOTOS VOGAIS
+006 - Gabinete Des. JOSÉ PAULO CALMON NOGUEIRA DA GAMA - JOSE PAULO CALMON NOGUEIRA DA GAMA (Vogal)
+Acompanhar
+017 - Gabinete Des. FERNANDO ESTEVAM BRAVIN RUY - FERNANDO ESTEVAM BRAVIN RUY (Vogal)
+Acompanhar
+EMENTA
+DECISÃO
+À unanimidade, conhecer e dar provimento ao recurso de BV FINANCEIRA S/A CFI e não conhecer do recurso de CECILIA DOS SANTOS RODRIGUES, nos termos do voto do Relator.
